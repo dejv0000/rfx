@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의사단체, 한방 난임치료 지원 중단 촉구…“과학적 근거 없어” </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/03/37WV6MHJARFF5G6MM7KXUMMWGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/37WV6MHJARFF5G6MM7KXUMMWGE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 08:08:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTINLEGAZTSYRWGAYWKYRRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 용산구 대한의사협회에서 열린 한방 난임치료 문제점 및 지원사업 중단 촉구 공동 기자회견. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회 등 의사 단체들이 정부와 지자체에 한방 난임 치료 지원 중단을 촉구했다.&lt;br&gt;&lt;br&gt;3일 대한의사협회·대한산부인과학회·대한산부인과의사회·직선제대한산부인과개원의사회는 서울 용산구 의협회관에서 기자회견을 열고 “과학적 근거와 안전성 검증 없이 추진되는 한방 난임 치료가 산모 건강과 태아의 생명을 위협하고 있다”며 “한방 난임 지원 사업을 전면 중단해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이들 단체는 “난임 치료는 부부의 건강과 생명, 태아의 안전과 직결된 고도의 전문적 의료 영역”이라며 현재 시행 중인 한방 난임 치료는 치료 효과와 안전성을 국제적으로 인정받을 만한 대규모 임상 연구 결과 등이 없다고 지적했다. &lt;br&gt;&lt;br&gt;이들 단체는 “과학적 검증이 충분히 이루어지지 않은 한방 난임 치료를 국가가 지원하거나 제도권으로 편입하려는 시도는 국민 건강권을 정면으로 위협하는 것”이라며 “제도화 논의에 앞서 최소한의 과학적 검증이 선행돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;이들 단체는 특히 “난임 치료에 사용되는 다수의 한약 처방에는 임신 중 사용 시 태아 기형, 유산, 장기 독성 위험이 지적된 약재들이 포함돼 있다”며 “최소한의 안전성조차 담보되지 않은 치료를 난임 여성에게 권유하고 국가 재정으로 지원하는 것은 용납될 수 없는 일”이라고 했다.&lt;br&gt;&lt;br&gt;이어 최근 한방 난임 지원 사업이 지방자치단체를 중심으로 확대되고 있는 것과 관련 “최근 한의계가 한방 난임 치료의 유효성과 안전성에 대한 공청회 개최를 요구한 것을 환영한다. 정부가 주관해 의료계·한의계가 동등하게 참여하는 공청회를 개최하고 한방 난임 치료의 유효성·안전성을 검증하라”고 촉구했다.&lt;br&gt;&lt;br&gt;정은경 보건복지부 장관은 지난달 보건복지부 업무 보고에서 이재명 대통령이 한의학 난임 치료에 대한 국가 지원 여부를 묻자 “한의학은 객관적으로, 과학적으로 입증하기 어렵다”며 “보험 급여 대상이 아니다”라고 답했다. 이후 대한한의사협회(한의협)는 정 장관의 발언을 망언으로 규정하고 중앙정부 차원에서 한의약 난임치료 제도화에 나서라고 요구한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신정환, 16년 만에 털어놓은 ‘뎅기열’ 해명 논란의 전말</title>
+      <link>https://www.chosun.com/national/people/2026/01/03/WCFMO43R55AV3B5XUOLGJUZ6VY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/03/WCFMO43R55AV3B5XUOLGJUZ6VY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 05:21:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRYYIY7NEZAI5HBJCALI6TG24E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 신정환./유튜브 'B급 스튜디오'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 신정환이 과거 ‘뎅기열’ 거짓 해명 논란과 관련해 당시 상황을 직접 설명했다.&lt;br&gt;&lt;br&gt;신정환은 2일 유튜브 채널 ‘B급 스튜디오’에 출연해 2010년 필리핀 원정 도박 논란을 언급하며 “말라리아는 알았지만, 뎅기열은 들어본 적이 없었다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “사고를 치고 비행기를 못 탔다. 9시 뉴스에 나오고 난리가 난 상태였다”며 당시를 떠올렸다. 이어 “필리핀에서 사업하는 친한 형님에게 전화가 왔는데 (이전부터) 조언을 주는 분이었다”고 했다.&lt;br&gt;&lt;br&gt;신정환은 “형이 ‘며칠간 게임하느라 밤새워서 열 나지?’라고 물었는데, 실제로 열이 나더라”며 “형이 ‘필리핀에 지금 뎅기열이 유행이니 병원에 가라’고 해서 병원을 갔다”고 밝혔다.&lt;br&gt;&lt;br&gt;병원에서 피검사를 받은 뒤 “일주일 후 뎅기열 진단이 나온 것을 들었다”는 그는, “심전도 검사하는데 마침 거기에 아는 동생이 있길래 혹시 (진짜 뎅기열일지) 모르니까, 기록이라도 남기려고 사진을 찍어달라고 했다”고 말했다.&lt;br&gt;&lt;br&gt;이후 병원 컴퓨터로 자신의 팬카페에 접속했다는 신정환은 “팬들을 안심시키려고 ‘여러분, 저 뎅기열 걸린 것 같아요’라고 하면서 그 사진을 올렸다”고 했다. 그는 “팬들이 ‘그럴 수도 있구나’ 하고 끝났어야 하는데, 그걸 바로 언론사에 보내면서 ‘우리 오빠 뎅기열 걸렸다’고 한 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 당시 상황이 더 커졌던 배경으로 “연예 관련 프로그램 PD가 마침 촬영을 위해 필리핀에 들어와 있었고, 신정환이 있던 병원을 찾았다”고 설명했다. 이어 “그 PD가 담당 의사를 만났는데 ‘열은 있는데 뎅기열은 아닌 것 같다’고 하면서 내가 거짓말쟁이가 됐고, 더 이상 갈 곳이 없게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;과거 공개한 사진을 둘러싼 의혹도 부인했다. 신정환은 “간호사와 의사를 아르바이트를 쓴 게 아니냐는 말도 있었는데, 병원에 있던 인턴과 젊은 간호사였다. 16년 지난 지금은 개인 병원 원장이 되셨다고 들었다”고 했다.&lt;br&gt;&lt;br&gt;그는 당시 조언을 해준 지인을 “더 이상 보지 않는다”며 “술 먹고 몇 번 미안하다고 전화가 왔다”고 말했다. 다시 돌아가면 잘못을 바로 인정하겠느냐는 질문에는 “그렇다. 큰 잘못을 한 거니까”라고 답했다.&lt;br&gt;&lt;br&gt;신정환은 2010년 해외 원정 도박 혐의로 구속 기소돼 징역 8개월 실형을 선고받았다. 이 과정에서 도박 사실을 숨기기 위해 필리핀에서 뎅기열에 걸렸다고 주장했으나 거짓으로 드러나기도 했다. 이후 한동안 방송에서 신정환을 볼 수 없었다. 그러다 2017년 연예계에 복귀했고, 최근에는 유튜브 콘텐츠를 통해 활발하게 활동하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/P4TTY6EO35HKRCR53KCLIDKL4Q.jpg?auth=2ebe948acbaf2d559961ef2b30c18e021a272c43b47aa04dd2073c185698d734&amp;smart=true&amp;width=244&amp;height=183" type="image/jpeg" height="183" width="244">
+        <media:description type="plain">신정환</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>이별 통보에 50대 여성 살해… 60대男 현행범 체포</title>
       <link>https://www.chosun.com/national/regional/2026/01/03/5A6I3UKX7FGQ3MIVUNMFDQVS2A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/03/5A6I3UKX7FGQ3MIVUNMFDQVS2A/</guid>
@@ -734,15 +756,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       </media:content>
     </item>
     <item>
-      <title>[단독] 상사에게 성추행 당한 카카오 여직원, 스스로 목숨 끊어</title>
-      <link>https://www.chosun.com/economy/tech_it/2026/01/02/23XXHKVLCNFCPFMIEDP2A4N354/</link>
-      <guid isPermaLink="true">https://www.chosun.com/economy/tech_it/2026/01/02/23XXHKVLCNFCPFMIEDP2A4N354/</guid>
-      <dc:creator>김강한 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 01:48:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTSNZSHEYGEYTDG44WGNBRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시 분당구 카카오 판교아지트의 모습. 2024.7.24/뉴스1 ⓒ News1 김영운 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오 여직원이 사내에서 성추행을 당한 뒤 스스로 목숨을 끊는 일이 발생했다.&lt;br&gt;&lt;br&gt;2일 인터넷 업계에 따르면 카카오 여직원 A씨가 지난달 28일 스스로 목숨을 끊은 것으로 알려졌다. 인터넷 업계 관계자는 “A씨는 직장에서 상사에게 지속적으로 성추행을 당해왔던 것으로 안다”면서 “A씨는 장기간 휴가 중이었는데 우울감과 수치심 등으로 극단적인 선택을 한 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;A씨의 빈소는 경기도 한 장례식장에 마련됐고 지난달 31일 발인했다. 카카오 노조와 유족 측은 향후 대응을 논의하고 있는 것으로 알려졌다. 정신아 카카오 대표도 A씨와 관련해 사내 메신저에 추모 글을 올렸다고 한다. &lt;br&gt;&lt;br&gt;카카오는 지난해 11월 성추행 가해자인 B씨에게 정직 3개월 처분을 내렸고, B씨는 지난달 5일 퇴사한 것으로 알려졌다. 카카오 관계자는 “같은 회사 직원에게 이런 일이 발생해 안타깝다”면서 “카카오 동료 직원들이 가해자의 행위에 공분하고 있다”고 말했다. 또 다른 관계자는 “즉각 퇴사 조치를 하지 않고 정직 처분을 한 것이 문제”라며 “가해자와 피해자를 같은 직장에서 일하게 하는 게 말이 되느냐”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>상설특검, 대검 압수 수색...‘관봉권 의혹’ 감찰 자료 확보 나서</title>
       <link>https://www.chosun.com/national/court_law/2026/01/02/BV7ATN7OFJF77N6ONSQN4R4Z2Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/BV7ATN7OFJF77N6ONSQN4R4Z2Q/</guid>
@@ -808,15 +821,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <description/>
       <pubDate>Thu, 01 Jan 2026 23:24:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWO3EZLI6RKFDKJUPE5NZEHGHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 1일 서울 여의도 국민의힘 중앙당사에서 열린 신년 인사회에서 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시민을 대상으로 한 여론조사에서 오세훈 서울시장의 시 운영에 대한 부정 평가가 높은 것으로 조사됐다. 그러면서도 6·3 지방선거에서 이재명 정부 견제를 위해 야당 후보가 많이 당선돼야 한다고 답한 서울시민이 여당 후보가 당선돼야 한다고 답한 시민보다 조금 더 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;뉴스1이 여론조사 업체 엠브레인퍼블릭에 의뢰해 지난달 26~27일 서울시에 사는 18세 이상 803명을 대상으로 조사한 결과에 따르면, 오 시장의 시 운영을 부정적으로 평가한 응답자는 57%로, 긍정 평가한 응답자 33%보다 24%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 10%였다.&lt;br&gt;&lt;br&gt;오 시장이 추진하는 한강버스 사업과 종묘 주변 재개발 계획에 대해서도 반대 여론이 각각 67%, 63%에 달했다.&lt;br&gt;&lt;br&gt;그러나 6·3 지방선거에서 ‘현 정부를 견제하기 위해 야당 후보가 많이 당선돼야 한다’는 응답자는 47%로, ‘현 정부를 지원하기 위해 여당 후보가 많이 당선돼야 한다’는 응답자 45%보다 2%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 8%였다.&lt;br&gt;&lt;br&gt;지역별로 보면, 정부 지원론은 서울 25개 자치구 가운데 성동·광진·동대문·중랑·성북·강북·도봉·노원 등 8구에서 우세했다. 나머지 17구에서는 정부 견제론이 앞섰다.&lt;br&gt;&lt;br&gt;연령별로 보면, 40·50대에서는 정부 지원론이, 나머지 연령대에서는 정부 견제론이 우세했다. 40대는 57%가 여당 후보, 37%가 야당 후보가 많이 당선돼야 한다고 답했다. 50대는 62%가 여당 후보, 35%가 야당 후보가 많이 당선돼야 한다고 했다. 60대에서는 51%가 야당 후보를, 48%가 여당 후보를 지지해 야당 후보 지지가 3%포인트 많았다. 30대에서는 48%가 야당, 42%가 여당을 지지해 6%포인트 차이가 났다. 10·20대는 51%가 야당 당선, 35%가 여당 당선을 기대해 16%포인트 차이가 났다. 70대 이상에서는 64%가 야당 후보가 많이 당선돼야 한다고 답해, 여당 후보가 많이 당선돼야 한다는 응답자 24%보다 40%포인트 많았다.&lt;br&gt;&lt;br&gt;이번 조사는 지난달 26~27일 이틀간 서울시에 사는 18세 이상 803명을 대상으로 무선 전화 인터뷰 방식으로 진행됐다. 응답률은 10.1%, 표본 오차는 95% 신뢰 수준에서 ±3.5%포인트였다. 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 거점 국립대들, 이번 대입 수시에서 ‘학폭 가해자’ 162명 불합격시켜... “이제 학폭 저지르면, 대학 가기 어렵다”</title>
-      <link>https://www.chosun.com/national/education/2026/01/02/33WZOFAXUVCX7ILMPSIJVOIVZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/02/33WZOFAXUVCX7ILMPSIJVOIVZI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 20:00:00 +0000</pubDate>
-      <content:encoded>2026학년도 대입 수시 전형에서 국내 거점 국립대(총 10곳)를 지원한 ‘학교폭력 가해 전력’ 수험생의 90%가 불합격한 것으로 확인됐다. 정부 방침에 따라 대학들이 이번 대입부터 학생부 위주로 신입생을 뽑는 전형뿐 아니라, 논술과 실기 등 모든 전형에 의무적으로 ‘학폭 가해 감점’을 반영했기 때문이란 지적이다. 대학들 내에선 “1~2점 차로 당락이 정해질 수 있는 상황에서 이 감점이 결정적으로 작용했을 것”이란 얘기가 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUHU4B6W2NG6XJGFY4ZN4UYHME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 본지가 국회 교육위 진선미(더불어민주당) 의원실을 통해 확보한 거점 국립대 10곳의 자료를 분석해보니, 이 중 9곳에 학폭 가해 전력을 가진 수험생 총 180명이 지원해 감점을 받았다. 그 결과, 90%에 달하는 162명이 최종 불합격 처리됐다. ‘학폭 전력’ 불합격생이 가장 많은 국립대는 강원대(37명)였다. 이어 경상대(29명), 경북대(28명), 전북대(18명), 충남대(15명), 전남대(14명), 충북대(13명), 부산대(7명), 제주대(1명) 순으로 집계됐다. 서울대는 ‘학폭 가해 전력’ 지원자가 없었다. &lt;br&gt;&lt;br&gt;교육부는 학폭 내용에 따른 감점 수준을 각 대학이 알아서 정하도록 했다. 이에 가해 정도가 심할 경우 아예 ‘지원 불가’ 조치를 내리거나, 최대 200점을 감점한 거점 국립대도 있었다. 보통 학생부에는 고등학교 때 학폭 가해로 받았던 처분이 1호(피해 학생에게 서면 사과)부터 9호(퇴학)까지 기재되는데, 대학들은 이를 토대로 처분 호수가 높을수록 더 많은 감점을 줬다. 국립대 관계자는 “보통 5점만 깎여도 개인 내신 성적이 1~2등급 떨어지는 것과 같다”며 “앞으로 학폭 가해 전력자는 경쟁률이 높은 대학이나 인기 학과 입학이 불가능해질 것”이라고 했다. 감점을 받고도 거점 국립대에 합격한 경우는 강원대(8명)가 가장 많았고, 전남대(7명), 충남대(2명), 경상대(1명) 순이었다. 본 캠퍼스가 아니라 상대적으로 경쟁률이 낮은 제2 캠퍼스 내 인기 없는 학과에 지원했다고 한다. &lt;br&gt;&lt;br&gt;아직 진행 중인 정시 전형이 끝나면 학폭 가해 전력자의 국립대 불합격 사례는 더 늘어날 전망이다. 여기에도 감점이 적용된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[굿모닝 멤버십] ‘힘찬 도약’을 위한 연초의 방향 설정</title>
