@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오늘 밤 우주쇼...올해 첫 보름달과 유성우 뜬다</title>
+      <link>https://www.chosun.com/economy/2026/01/03/7K63ODRVUNGMPL5KXDC6JPIVIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/2026/01/03/7K63ODRVUNGMPL5KXDC6JPIVIM/</guid>
+      <dc:creator>이영관 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 08:41:05 +0000</pubDate>
+      <content:encoded>올해 첫 보름달과 첫 유성우를 3일 밤하늘에 동시에 볼 수 있을 것으로 예상된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI53KJSMONCH3GEJMKYIU4SEP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;페르세우스 유성우. 윤은준 촬영 작품으로 2019년 천체사진공모전 수상작이다./한국천문연구원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국천문연구원에 따르면, 이날 일몰 전인 오후 5시 1분부터 올해 첫 보름달이 뜨기 시작한다. 보름달은 오후 7시 3분에 완전히 차올라 가장 밝게 빛난다. 달은 다음 날 오전 7시 44분 저문다.&lt;br&gt;&lt;br&gt;밤사이 새해 첫 사분의자리 유성우도 관측할 수 있을 전망이다. 사분의자리 유성우는 페르세우스자리 유성우, 쌍둥이자리 유성우와 함께 ‘3대 유성우’로 꼽힌다. 시간당 최대 관측할 수 있는 유성수(ZHR)는 약 80개다. 한국천문연구원은 달빛이 밝아 관측하기에 조건이 좋은 편은 아니지만, 밝은 유성들은 볼 수 있을 거라고 설명했다.&lt;br&gt;&lt;br&gt;3일 관측 기회를 놓친다면, 두 달 뒤를 기대해 볼 만하다. 한국천문연구원이 발표한 올해 주요 천문 현상에 따르면, 3월 3일 정월대보름 달이 지구의 본 그림자에 완전히 가리는 개기월식 현상이 일어날 전망이다. 달이 뜨기 전부터 종료까지 전 과정을 볼 수 있는 월식이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의사단체, 한방 난임치료 지원 중단 촉구…“과학적 근거 없어” </title>
       <link>https://www.chosun.com/national/national_general/2026/01/03/37WV6MHJARFF5G6MM7KXUMMWGE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/37WV6MHJARFF5G6MM7KXUMMWGE/</guid>
@@ -812,15 +821,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <description/>
       <pubDate>Fri, 02 Jan 2026 00:35:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4TGYJZGFTDSZTGGQ2DQOLEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국장애인차별철폐연대(전장연)가 2일 오전 8시부터 지하철 1호선 남영역에서 시위 중이다. /전장연 유튜브 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새해 첫 출근 날인 2일 전국장애인철폐연대의 지하철 시위로 서울 지하철 1호선 시청역과 남영역을 지나는 열차가 무정차 통과 중이다. &lt;br&gt;&lt;br&gt;한국철도공사에 따르면 이날 오전 8시 15분쯤부터 서울지하철 1호선 남영역 상·하행선 열차가 모두 무정차 운행 중이다. 1호선 시청역도 9시 1분쯤부터 하행선(서울역 방향) 열차가 무정차 통과하고 있다. &lt;br&gt;&lt;br&gt;전장연은 이날 오전 8시부터 남영역과 시청역 일대에서 ‘68차 출근길 지하철 탑시다’를 진행했다. 이들은 “2026년 지방선거를 앞두고 각 지방자치단체가 교통약자법에 명시된 장애인 이동권을 보장해야 한다”고 주장했다. 다행히 이날 출근길 지하철 시위로 인한 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;서울교통공사는 “1호선 특정 장애인 단체 시위가 예정돼 있어 열차 운행이 상당 시간 지연될 수 있다”며 “상황에 따라 해당 역을 무정차 통과할 예정”이라고 안내했다. &lt;br&gt;&lt;br&gt;전장연은 이날 오전 10시 30분부터 서울시청 동편에서 ‘2026년 전장연 신년 투쟁 선포 결의 대회 및 장애인 권리 쟁취 행진’을 연다. 이어 오전 11시 30분부터는 서울 중구 국가인권위원회 건물 앞에서 ‘장애 해방 열사 우동민 15주기 추모제’도 진행할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시민 57% ‘오세훈 못한다’지만… 47%는 “지방선거서 야당 당선돼야”</title>
-      <link>https://www.chosun.com/politics/opinion-poll/2026/01/02/A6EWAT3WXFGNROFI63VWFFDIMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/opinion-poll/2026/01/02/A6EWAT3WXFGNROFI63VWFFDIMQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 23:24:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWO3EZLI6RKFDKJUPE5NZEHGHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 1일 서울 여의도 국민의힘 중앙당사에서 열린 신년 인사회에서 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시민을 대상으로 한 여론조사에서 오세훈 서울시장의 시 운영에 대한 부정 평가가 높은 것으로 조사됐다. 그러면서도 6·3 지방선거에서 이재명 정부 견제를 위해 야당 후보가 많이 당선돼야 한다고 답한 서울시민이 여당 후보가 당선돼야 한다고 답한 시민보다 조금 더 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;뉴스1이 여론조사 업체 엠브레인퍼블릭에 의뢰해 지난달 26~27일 서울시에 사는 18세 이상 803명을 대상으로 조사한 결과에 따르면, 오 시장의 시 운영을 부정적으로 평가한 응답자는 57%로, 긍정 평가한 응답자 33%보다 24%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 10%였다.&lt;br&gt;&lt;br&gt;오 시장이 추진하는 한강버스 사업과 종묘 주변 재개발 계획에 대해서도 반대 여론이 각각 67%, 63%에 달했다.&lt;br&gt;&lt;br&gt;그러나 6·3 지방선거에서 ‘현 정부를 견제하기 위해 야당 후보가 많이 당선돼야 한다’는 응답자는 47%로, ‘현 정부를 지원하기 위해 여당 후보가 많이 당선돼야 한다’는 응답자 45%보다 2%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 8%였다.&lt;br&gt;&lt;br&gt;지역별로 보면, 정부 지원론은 서울 25개 자치구 가운데 성동·광진·동대문·중랑·성북·강북·도봉·노원 등 8구에서 우세했다. 나머지 17구에서는 정부 견제론이 앞섰다.&lt;br&gt;&lt;br&gt;연령별로 보면, 40·50대에서는 정부 지원론이, 나머지 연령대에서는 정부 견제론이 우세했다. 40대는 57%가 여당 후보, 37%가 야당 후보가 많이 당선돼야 한다고 답했다. 50대는 62%가 여당 후보, 35%가 야당 후보가 많이 당선돼야 한다고 했다. 60대에서는 51%가 야당 후보를, 48%가 여당 후보를 지지해 야당 후보 지지가 3%포인트 많았다. 30대에서는 48%가 야당, 42%가 여당을 지지해 6%포인트 차이가 났다. 10·20대는 51%가 야당 당선, 35%가 여당 당선을 기대해 16%포인트 차이가 났다. 70대 이상에서는 64%가 야당 후보가 많이 당선돼야 한다고 답해, 여당 후보가 많이 당선돼야 한다는 응답자 24%보다 40%포인트 많았다.&lt;br&gt;&lt;br&gt;이번 조사는 지난달 26~27일 이틀간 서울시에 사는 18세 이상 803명을 대상으로 무선 전화 인터뷰 방식으로 진행됐다. 응답률은 10.1%, 표본 오차는 95% 신뢰 수준에서 ±3.5%포인트였다. 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[굿모닝 멤버십] ‘힘찬 도약’을 위한 연초의 방향 설정</title>
