@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>후배들 앞에서 부하 질책해 징계받은 공무원… 법원 “취소해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/04/H26FPIYSZREZFMG6FZWO6A6Y24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/04/H26FPIYSZREZFMG6FZWO6A6Y24/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Jan 2026 04:14:46 +0000</pubDate>
+      <content:encoded>공개된 장소에서 부하 직원을 질책했다는 이유만으로 품위 유지 의무 위반으로 징계한 것은 위법하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정13부(재판장 진현섭)는 법무부 소속 공무원 A씨가 법무부 장관을 상대로 낸 견책 처분 취소 소송에서 원고 승소 판결했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZDQMDCMQZDMNLDG4YDGOJQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 A씨가 출입국·외국인청 산하 기관의 소장으로 근무하던 중, 2023년 7월 무단 하선한 외국인 선원 사건을 처리하는 과정에서 불거졌다. 당시 담당 팀장 B씨 등은 별도의 소환 조사 없이 현장에서 선원들에게 출입국사범 심사결정서를 교부하며 ‘경고’ 조치를 했다. 이후 A씨는 같은 달 26일 청사 사무실에서 다른 직원들이 보거나 듣는 가운데, 별도의 조사 절차 없이 선박을 찾아가 심사결정서를 교부한 경위 등을 B씨에게 캐물었다.&lt;br&gt;&lt;br&gt;법무부는 이 과정에서 A씨가 소장실로 들어가 이야기하자는 B씨의 건의를 세 차례 무시한 채 공개된 사무실에서 15분가량 큰 소리로 질책하며 비인격적으로 대우해 국가공무원법상 품위유지의무를 위반했다며, 2024년 6월 18일 A씨에게 견책(경고) 처분을 내렸다. A씨는 같은 해 7월 소청심사위원회에 징계 취소를 청구했으나 기각되자, 법원에 소송을 제기했다.&lt;br&gt;&lt;br&gt;A씨는 징계의결서에 기재된 것처럼 고성을 지르거나 반말을 하지 않았고, 사회통념상 허용되는 범위 내에서 업무 경위를 확인했을 뿐이라고 주장했다. 또 해당 처분으로 성과급 미지급, 근무평가 불이익, 재외공관 근무 기회 상실 등 과도한 불이익을 받게 된다며 징계가 지나치게 가혹하다고 했다. 반면 법무부는 감찰 조사 결과 다수의 직원들이 A씨가 공개된 장소에서 10분 이상 장시간 고성으로 B씨를 질책했다고 진술했고, 이로 인해 B씨가 정신과 약을 처방받아 복용할 정도의 정신적 고통을 입었다고 했다.&lt;br&gt;&lt;br&gt;법원은 A씨의 손을 들어줬다. 재판부는 “A씨가 B씨에게 반말을 하거나 인격을 침해할 만한 부적절한 발언을 한 것으로 보이지 않는다”며 “A씨의 언행이 품위유지의무를 위반한 것이라고 인정하기 부족하고, 이를 인정할 증거도 없다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 특히 두 사람의 대화 내용이 담긴 녹음 파일을 근거로 “사회통념상 상대방이 위축될 정도의 고성을 내거나 소리를 질렀던 것으로 보이지 않는다”며 “A씨는 소장으로서 필요한 범위 내에서 그 부하직원인 B씨에게 업무처리의 근거 및 경위를 확인했던 것으로 보일 뿐, 과도하게 질책한 것이라고 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;B씨가 이후 우울증 치료를 받은 점에 대해서도 재판부는 “종래 우울증을 앓고 있었던 점 등 개인적인 요인이 작용했을 가능성도 상당할 것으로 보인다”며 “이를 이유로 A씨가 사회통념상 용인될 수 없을 정도로 과도하게 B씨를 질책했다고 단정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘종각역 돌진’ 70대 택시기사 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/04/QP76I2MWOFEB5OUKBXZKIULPHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/QP76I2MWOFEB5OUKBXZKIULPHY/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Jan 2026 04:10:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TMMJVHAZDGODGHEZDSMBYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 6시쯤 서울 지하철 1호선 종각역 인근에서 택시가 인도로 돌진해 횡단보도에서 신호 대기 중이던 시민들을 들이받는 사고가 발생했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울 지하철 1호선 종각역 차량 돌진 사고를 낸 70대 남성에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울경찰청은 택시기사 A씨에 대해 교통사고처리 특례법(치사상), 특정범죄 가중처벌 등에 관한 법률(위험운전 등 치사상), 도로교통법(약물운전) 혐의로 구속영장을 신청했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 6시 5분쯤 서울 종로구 종각역 인근에서 전기차 택시를 몰다 알 수 없는 이유로 급가속을 하며 횡단보도 신호등 기둥, 승용차 2대와 잇달아 부딪쳤다.&lt;br&gt;&lt;br&gt;이 사고로 횡단보도 신호를 기다리던 보행자 6명이 택시에 치였고 이 가운데 40대 여성 1명이 숨지는 등 14명의 사상자가 발생했다.&lt;br&gt;&lt;br&gt;A씨는 약물 간이 검사에서 마약성 진통제인 모르핀 성분이 검출됐다. 경찰은 국립과학수사연구원에 정밀 검사를 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 의성 단독주택서 불… 일가족 3명 사상</title>
+      <link>https://www.chosun.com/national/regional/2026/01/04/EMBME5TPW5GBTCH4DE5K2UJB64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/04/EMBME5TPW5GBTCH4DE5K2UJB64/</guid>
+      <dc:creator>의성=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Jan 2026 04:07:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4C2QV5VMHNDLDEWOL3TKT4PNJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 8시 59분쯤 경북 의성군 안평면 한 주택 내에서 불이나 소방 당국이 진화 작업을 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군 한 주택에서 화재가 발생해 일가족 중 2명이 숨지고, 1명이 다쳤다. &lt;br&gt;&lt;br&gt;4일 경북소방본부에 따르면 이날 오전 8시 59분쯤 경북 의성군 안평면 한 주택 내에서 불이 나 이곳에 살던 60대와 30대 모녀(母女)가 숨진 채 발견됐다. 같이 있던 80대 아버지는 2도 화상을 입어 인근 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;불이 나자 소방 당국은 소방차 16대와 소방관 39명을 동원해 1시간여 만에 불을 잡았다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 부엌에서 불이 시작된 것으로 보고, 정확한 화재 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유가족 조롱·비하 글 700건…경찰, 2차 가해 전담팀 첫 구속</title>
       <link>https://www.chosun.com/national/national_general/2026/01/04/RMAA27XW7BB3VNXLC2AMCKSKU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/RMAA27XW7BB3VNXLC2AMCKSKU4/</guid>
@@ -831,15 +858,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       </media:content>
     </item>
     <item>
-      <title>상설특검, 대검 압수 수색...‘관봉권 의혹’ 감찰 자료 확보 나서</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/02/BV7ATN7OFJF77N6ONSQN4R4Z2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/BV7ATN7OFJF77N6ONSQN4R4Z2Q/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 01:36:07 +0000</pubDate>
-      <content:encoded>‘관봉권 띠지 분실’ 의혹 등을 수사하는 안권섭 특별검사팀이 2일 대검찰청에 대한 압수 수색에 나섰다. 해당 사건과 관련한 검찰 내부 자료를 확보하기 위한 차원이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDIN3FGU2TAMLEGY4DKZLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청에 검찰 깃발이 휘날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 “오전 10시쯤 관봉권 및 쿠팡 사건 관련자들의 검찰 내부망 메신저 기록 등을 확보하기 위하여 대검찰청에 대한 압수 수색에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울남부지검은 2024년 12월 ‘건진법사’ 전성배씨의 자택을 압수 수색해 5000만원어치 한국은행 관봉권을 포함한 현금다발을 확보했으나, 수사 과정에서 띠지와 스티커를 분실해 출처를 밝히지 못했다. 그러자 검찰에서 의혹을 은폐하기 위해 해당 증거를 고의로 없앴다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;해당 의혹을 감찰한 대검은 작년 10월 “실무상 과실은 있었으나 지휘선의 증거 은폐 지시는 없었다”는 취지의 결과를 발표했다. 그러나 법무부는 대검의 감찰 결과를 검토한 끝에 추가 조사가 필요하다고 보고 상설특검을 통해 다시 조사에 나서기로 했다.&lt;br&gt;&lt;br&gt;한편 특검은 쿠팡이 2023년 5월 근로자들에게 불리하게 취업 규칙을 변경해 사실상 상근에 해당하는 일용직 노동자들에게 퇴직금을 제대로 지급하지 않았다는 의혹과, 엄희준 광주고검 검사가 이에 대한 수사에 외압을 가했다는 의혹도 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>조희대 대법원장 “재판 중계되는 엄중한 시기… 오해 없도록 언행 유의해야”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/02/XQW56AOJRVAX5GLVRO5HQ4SHOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/XQW56AOJRVAX5GLVRO5HQ4SHOQ/</guid>
@@ -875,20 +893,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <description/>
       <pubDate>Thu, 01 Jan 2026 15:51:00 +0000</pubDate>
       <content:encoded>지난 31일 오후 강원 춘천 엘리시안 강촌 스키장. 본격적인 스키 시즌인데도 길이 460m 상급자 코스는 바리케이드가 쳐져 있어 이용이 불가능했다. 슬로프엔 아직 눈이 다 쌓이지 않아 군데군데 갈색 풀이 드러나 있었다. 이 코스는 보통 크리스마스 무렵이면 이용할 수 있었지만, 이번에 처음으로 해를 넘겨 운영을 시작할 계획이다. 올겨울 눈이 거의 내리지 않은 데다, 따뜻한 날씨가 이어지며 인공 눈을 깔기도 어려웠기 때문이다. &lt;br&gt;&lt;br&gt;다른 스키장도 사정은 비슷하다. 전북 무주 덕유산 리조트 스키장은 5년 전부터 슬로프 운영 면(面) 수를 23면에서 18면으로 줄였다. 추운 날씨가 짧아지면서 인공 눈을 만들기 어려워지자, 이용객이 적은 코스부터 운영을 중단한 것이다. 올해는 슬로프 개장 속도가 더 늦어져, 지난 시즌보다 2~3면을 적게 열고 있다고 한다.&lt;br&gt;&lt;br&gt;‘따뜻한 겨울’이 일상이 되면서 눈과 추운 날씨가 필수적인 스키장은 존폐 위기에 몰렸다. 겨울에도 영상으로 기온이 올라가는 시간이 늘어나면서 해마다 스키장 개장은 늦어지고, 눈을 유지하는 데 드는 비용도 크게 늘고 있다. 한국스키장경영협회에 따르면 10년 전만 해도 전국 스키장의 평균 영업 일수는 100일 안팎, 길게는 140일까지 운영됐다. 그러나 지난해 대부분 스키장은 80~90일만 문을 열었다. 10년 새 평균 영업 일수가 약 15% 줄어든 것이다.&lt;br&gt;&lt;br&gt;또 다른 문제는 낮 동안 눈이 녹는 경우가 늘면서 인공 눈을 다시 깔아야 하는 날이 많아졌다는 점이다. 이렇게 되면 눈 관리 비용이 크게 늘어날 뿐만 아니라 설질(雪質)도 나빠진다. 녹았다 얼기를 반복한 눈은 밀가루처럼 고운 눈이 아니라, 설탕처럼 까칠하고 딱딱한 얼음 알갱이로 변한다. 한 스키업계 관계자는 “최근 겨울 날씨가 따뜻해지면서 10년 전보다 눈 관리 비용이 30% 정도 늘었다”며 “눈이 쉽게 녹으면서 ‘눈 상태가 왜 이렇느냐’는 고객 불만도 조금씩 늘어나는 추세”라고 했다.&lt;br&gt;&lt;br&gt;강원 지역을 대표하는 겨울 축제도 기후 변화 앞에 멈춰 서고 있다. 인제군은 최근 ‘인제 빙어축제’를 취소했다. 겨울 기온이 높아 호수가 충분히 두껍게 얼지 않았기 때문이다. 1998년부터 이어져 온 이 축제는 최근 3년 연속 취소돼 지역 경제도 침체되고 있다. &lt;br&gt;&lt;br&gt;평창군도 행사장 얼음이 충분히 얼지 않았다는 이유로 1일 개막 예정이던 ‘평창 송어축제’를 9일로 연기했다. 평창군 관계자는 “장기적으로는 얼음 위 낚시 대신 수상 낚시 축제로 전환하거나, 아예 다른 형태의 축제를 만드는 방안도 검토하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술자리 늘 때, 경찰은 일이 늘었다… 밤마다 ‘취객과의 전쟁’</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/02/5BRSIRDI3JCPJDYLJ7LEBSSBI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/5BRSIRDI3JCPJDYLJ7LEBSSBI4/</guid>
-      <dc:creator>구아모 기자, 김민혁 기자, 원종빈 기자, 윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>“의식이 없어요, 얼른 데려가 주세요!”&lt;br&gt;&lt;br&gt;지난달 31일 오전 1시 13분 서울 마포구의 한 감자탕집에서 사람이 쓰러져 있다는 신고가 들어왔다. 서울 마포경찰서 홍익지구대 소속 경찰들이 식당 문을 열자 구석에 옷과 머리카락이 토사물로 뒤범벅이 된 20대 여성이 쓰러져 있었다. “이 지경이 되도록 술을 먹게 놔두면 어떡하나요.” 경찰의 타박에도 만취한 친구는 폭소를 터뜨리며 쓰러진 친구 모습을 휴대폰으로 찍기 바빴다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRR3YUQ5IVFVDHEMTJ3A7KXIPI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 팬데믹으로 억눌렸던 음주 열기가 갈수록 거세지고 있다. 사회적 거리 두기가 시행되던 2021년 전국 취객 관련 신고 건수는 30만456건이었지만 2022년엔 37만3344건으로 24.3% 증가했다. 2024년엔 41만8778건으로 처음 40만건을 넘겼다. 지난달 30일까지 40만5510건으로 하루 평균 전국에서 1100건이 넘는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2RFJQZYQFABFN35XCFWZGFGUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 밤 서울 영등포구의 한 무인 사진관 앞에 중년 남성이 술에 취해 쓰러져 있다. 경찰이 출동해 남성을 살피고 있다./윤성은 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일선 경찰관들은 밤마다 쏟아지는 취객들과 전쟁을 치르고 있다. 본지는 지난달 30일 오후 9시부터 1일 오전 4시까지 서울 홍대·이태원과 영등포 일대 지구대·파출소를 찾아 순찰차에 동승했다.&lt;br&gt;&lt;br&gt;30일 오후 8시 52분, 서울 영등포경찰서 중앙지구대에 본지 기자가 들어가자마자 무전기로 출동 요청이 접수됐다. 순찰차로 3분 거리 현장에 도착했더니 중년 남성이 무인 사진관 유리문에 기대앉은 채 몸을 가누지 못하고 있었다. 경찰관이 “댁까지 모셔다 드릴 테니 주소를 알려주시겠습니까?”라고 물었지만 남성은 제대로 답하지 못했다. 몇 분 뒤 취객은 혀 꼬인 목소리로 “술 한 잔 더 하면 안 되나”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEYRZKDQ4VA4HA3JIHCFBPE2QI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 3시 20분쯤 서울 용산경찰서 이태원파출소에서 경찰관들이 외국인 주취자 4명을 상대로 보호 조치를 하고 있다. 경찰은 이들의 음주 상태와 신원 확인, 귀가 조치 여부 등을 검토했다./원종빈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울을 찾는 외국인 관광객이 급증하면서 이태원·홍대 일대에선 ‘외국인 관광객 만취’ 사례도 늘고 있다. 홍익지구대 관계자는 “몇 년 사이 외국인들이 신고 대상이 되는 비율이 60%까지 늘었다”고 했다. 1일 오전 1시 “흑인 남성이 홍대 거리 한복판에서 행패를 부린다”는 신고가 지구대에 접수됐다. 거구의 흑인이 지나가는 시민에게 욕설을 내뱉으며 위협하고 있다는 내용이었다. 남성 경찰관 4명이 거칠게 저항하는 남성의 팔다리를 붙잡아 겨우 순찰차에 실었다. 홍익지구대 건물 안으로 끌려온 그는 지구대 바닥에 침을 뱉고 노래를 흥얼거리더니 구토를 했다. 신분을 확인해 보니 주한미군 공군 기지 소속 병사였다.&lt;br&gt;&lt;br&gt;이 남성을 포함해 이날 새벽에만 미군 네 명이 술에 만취해 홍익지구대를 찾았다. 오전 2시 55분, 연락을 받은 미군 헌병대가 지구대를 찾아와 주취자 4명을 모두 데려갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OR4CZLTFMJA3PCLO3PJQYZB62U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 1시 20분 서울 마포경찰서 홍익지구대에서 미군 헌병들이 출동했다. 이날 홍대 일대에서 미군들의 주취 소란이 잇따르자, 만취해 지구대 의자 아래 바닥에 쓰러진 채 인사불성이 된 자국 병사(가운데)를 인계하기 위해 헌병대가 직접 현장을 찾았다./김민혁 기자
-
-
-홍대 거리에서 미군 헌병대가 미군 소속 미국인 남성 주취자를 인계하고 있다./김민혁 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 만난 경찰관들은 연말에 외국인까지 몰리면서 업무 부담이 가중되고 있다고 했다. 이태원파출소의 한 경찰관은 “외국인들은 소통이 잘 안 되는 데다 연락할 지인도 없어 술이 깨기 전엔 귀가시키는 게 불가능하다”고 했다. 서울의 한 경찰서 관계자는 “자칫 중요한 사건에 대응을 제대로 못 할 수 있다는 우려도 크다”고 했다. 경찰 내부에선 술에 만취해 식당 영업이나 경찰 업무를 방해하는 행위에 대해선 엄정하게 조치할 수 있는 내부 규정 마련이 시급하다는 여론이 커지고 있다.&lt;br&gt;&lt;br&gt;취객들이 호흡 곤란이나 교통사고 등으로 사망하는 일도 늘면서 주취자를 보호할 수 있는 시설과 의료 인력을 확충해야 한다는 지적도 나온다. 지난 2023년 전국에서 최초로 설치된 부산시 주취해소센터에 따르면 작년 한 해 주취해소센터에서 보호 조치를 받은 취객은 575명이다. 이곳에선 경찰관 2명과 응급구조사 자격을 갖춘 소방관 1명이 3교대로 24시간 근무하고 있다. 보호 취객 중 호흡 곤란 등 건강 이상이 발견돼 즉시 응급실로 이송한 사례는 72건이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>출고 3년 넘은 내연차, 전기차로 바꾸면 보조금 최대 680만원</title>
@@ -955,15 +959,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <description/>
       <pubDate>Thu, 01 Jan 2026 04:34:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZGMNTEGFRWINTEGBRWMYJWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 주차장 전기차 충전소에 주차된 차량이 충전하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해부터 내연기관 차를 팔거나 폐차한 뒤 전기차를 사면 보조금을 최대 100만원 더 준다. 전기차 주차·충전 중에 일어난 화재로 제3자가 피해를 봐 보상해야할 때 기존 보험의 보장한도를 최대 100억원까지 보장해는 ‘무공해차 안심 보험’도 도입된다.&lt;br&gt;&lt;br&gt;기후에너지환경부는 이런 내용이 담긴 ’2026년도 전기차 구매 보조금 개편안‘을 1일 공개했다. 전기차 구매 보조금은 ’국고 보조금‘과 지방자치단체가 주는 ’지방 보조금’으로 나뉘는데 이날 개편안은 올해 국고 보조금을 어떤 차에 얼마나 줄지에 관한 것이다.&lt;br&gt;&lt;br&gt;기본적으로 작년과 마찬가지로 전기차 보조금을 받으려면 차 기본 가격이 8500만원을 넘어선 안 된다. 5300만원 미만이면 보조금이 100%, 5300만원 이상 8500만원 미만이면 50%가 지원된다.&lt;br&gt;&lt;br&gt;◇‘전환지원금’ 신설...부작용 우려도&lt;br&gt;&lt;br&gt;가장 큰 변화는 전기승용차 보조금에 ‘전환지원금’이 신설된 것이다. 출고된 지 3년 이상 된 내연차를 폐차하거나 팔고 전기차를 사면 별도로 더 주는 지원금이다. 지원금은 원래 받을 보조금이 500만원을 넘으면 100만원을 주고, 그 아래면 액수에 비례해 지급하기로 했다. 이런 방식으로 중형차를 살 때 기존 국고보조금(580만원)을 더해 최대 680만원까지 싸게 살 수 있게 된다.&lt;br&gt;&lt;br&gt;다만 내연차를 폐차할 때만 전환지원금을 주는 것이 아니라, 단순히 ‘매각’할 때도 주는 것은 내연차 자체를 줄이는 덴 큰 도움이 되지 않을 것으로 보인다. 국내 승용차 교체 주기는 15년 안팎인데 3년밖에 타지 않은 사실상 새 차를 팔고 또 다른 새 차를 사도록 유도하는 것이 친환경이냐는 비판도 받을 것으로 보인다.&lt;br&gt;&lt;br&gt;전환보조금을 악용하는 사례도 우려되고 있다. 정부는 부부간 또는 부모와 자식 간을 포함한 직계존비속 간 차를 주고받는 경우엔 전환지원금을 주지 않기로 했다. 그러나 ‘삼촌·이모·고모와 조카 간’ 등 다른 가족관계 거래 시엔 지원금을 받을 수 있다. 이렇게 되면 삼촌이 조카에게 내연차를 물려주고 전기차를 사서 보조금을 100만원 더 받을 수 있게 된다.&lt;br&gt;&lt;br&gt;◇전기차 화재 나도 100억원까지 보장&lt;br&gt;&lt;br&gt;전기차 확대를 막고 있는 ‘전기차 화재’에 대한 대책도 바뀐다. 정부는 작년부터 제조사가 ‘제조물 책임 보험’에 가입하지 않은 경우 보조금을 주지 않고 있는데, 올 하반기부터는 제조사가 가입해야 할 보험이 ‘무공해차 안심 보험’으로 바뀐다.&lt;br&gt;&lt;br&gt;무공해차 안심 보험은 전기차가 주차돼 있을 때나 충전 중에 화재가 발생해 제3자에게 피해를 배상해야 할 경우 자동차보험 등 다른 보험의 보상한도를 넘어서는 부분에 최대 100억원까지 보장해주는 보험으로, 오는 3월 출시된다.&lt;br&gt;&lt;br&gt;기존 제조물 책임 보험의 경우 ‘자동차의 결함으로 손해가 발생했다’는 점을 입증해야 했지만, 전기차 화재 사고 중 29.9%가 ‘원인 불명’으로 판명나는 등 결함을 입증하기가 쉽지 않아 사실상 보험의 역할을 다하지 못한다는 비판이 있어왔다. 이에 손해를 발생시킨 이의 고의나 과실을 따지지 않고 배상을 책임지는 ‘무과실 책임 원리’를 고려해 무공해차 안심 보험을 도입했다는 것이 기후부 설명이다.&lt;br&gt;&lt;br&gt;다만 무공해차 안심 보험의 경우 보장 기간이 ‘신차 출고 후 3년’으로 짧은 점은 문제로 지적된다. 현대·기아차는 작년부터 제조물책임보험과 별개로 전기차 화재로 타인의 재산에 피해를 입힌 경우 최대 100억원을 지원하는 프로그램을 운영 중인데 그 대상을 ‘출고된 지 10년이 지나지 않은 차량’으로 했다.&lt;br&gt;&lt;br&gt;◇‘배터리 과충전 제어’ 테슬라만 완료&lt;br&gt;&lt;br&gt;전기승용차 기준 작년에는 배터리 밀도가 1L당 500Wh(와트시) 이상이면 1회 중천 시 주행거리에 따른 성능 보조금과 배터리 안전 보조금을 100% 받을 수 있었지만, 올해는 525Wh를 초과해야해 기준이 높아진다. 리튬인산철(LFP) 배터리를 주로 장착하는 중국 제조사 전기차에 불리한 변경이다.&lt;br&gt;&lt;br&gt;전기승용차 혁신기술 보조금과 관련해 선올해 전기차 배터리 전력을 외부에서 사용할 수 있게 하는 V2L 기능 탑재 시 보조금은 20만원에서 10만원으로 줄고, 대신 전기차에 충전 커넥터만 꽂으면 사용자 인증부터 요금 결제까지 한 번에 이뤄지는 ‘자동요금부과’(PnC) 기능 탑재 시 10만원을 주기로 했다. &lt;br&gt;&lt;br&gt;PnC 등을 위해 정부가 보급하고 있는 것이 ‘스마트 제어 완속 충전기’로, ‘배터리 상태 정보’(SoC) 파악을 통한 과충전 제어가 들어간다. 전기차 화재를 막을 수 있는 시스템이다. SoC 파악을 위해선 전기차 소프트웨어 업데이트가 필요한데 현재 테슬라는 업데이트를 완료했고, 현대·기아차는 진행 중이며, 유럽 제조사들은 올해 상반기 중 업데이트를 완료할 계획이라고 기후부는 전했다. 만약 SoC를 실시간으로 제공하는 기능을 6월까지 탑재하지 않으면 보조금 지급이 중단된다.&lt;br&gt;&lt;br&gt;기후부는 2027년에 전기차를 움직이는 에너지저장장치(ESS)로 만드는 ‘양방향 충·방전’(V2G) 기능 탑재 시 10만원의 보조금을 주겠다고 예고했다. 또 30만원의 보조금이 주어지는 ‘고속충전’ 기능 기준은 2027년부터 50kW(킬로와트)씩 높이기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임은정 “의혹 근거 제시하라” 대면 보고 지시에...백해룡 “권력으로 제압” 거부</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/01/5IW37QIQDFCADP6I7QAUAN3ZBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/5IW37QIQDFCADP6I7QAUAN3ZBY/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 03:07:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZTQYZTME3DIOLGG4ZTAOJZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽) 임은정 서울동부지검장, 백해룡 경정&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 직원 마약 밀수 연루 의혹’을 수사 중인 서울동부지검이 백해룡 경정에게 “의혹을 제기한 근거를 제시하라”며 대면 업무보고를 지시했다고 1일 알려졌다. 백 경정은 대면 보고를 거부하고 서면 답변으로 대체했다고 한다.&lt;br&gt;&lt;br&gt;이날 백 경정은 페이스북에 “수사가 정상적으로 진행될 수 있는지 의문이 제기되는 상황이라며 동부지검이 수사 상황 대면 보고를 지시했다”고 밝혔다. 백 경정이 올린 업무보고 요청문에는 “수사팀 파견 연장이 가능한 상황인지 검토하기 위해 업무보고를 실시하고자 한다”며 “범죄사실 개요, 각 범죄 사실별 수사 상황, 향후 수사 계획에 대한 구체적인 내용의 서면을 작성해 사전에 송부하고, 이를 31일 오전 11시 동부지검 검사장실에서 대면 보고하는 방식으로 준비하라”는 내용이 담겼다.&lt;br&gt;&lt;br&gt;백 경정은 지난해 11월 합수단에 파견된 이후 자신이 제기한 의혹을 되풀이하는 것 이상의 새로운 증거를 제시하지 못하고 있다. 검찰은 백 경정의 수사팀 파견 필요성을 점검하기 위해 업무보고를 요청한 것으로 해석됐다. 백 경정은 합수단이 지난달 9일 자기가 제기한 의혹이 “사실 무근”이라는 수사 결과를 발표하자 공개 반발했다. 이에 동부지검은 백 경정의 행태가 합수단의 신뢰도를 떨어뜨린다고 보고 대검찰청에 “백 경정의 파견 조기 해제를 검토해달라”고 요청했다. 백 경정의 파견 기한은 오는 14일까지다.&lt;br&gt;&lt;br&gt;8쪽 분량의 서면 답변에서 백 경정은 ”뜬금없이 구체적 내용을 보고하라고 압력을 가하는 것은 검사장이라는 권력의 힘으로 일개 경찰 경정을 제압하겠다는 의미로 읽힐 수 있다”며 “더구나 수사의 핵심을 묻는 질문은 전혀 없고 매우 지엽적인 내용만을 묻고 있다”고 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의사 인력 추계, 과학적으로 하겠다더니… 李정부도 주먹구구</title>
