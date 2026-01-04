@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 안양천서 50대 女 시신 발견...경찰 “타살 정황 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</guid>
+      <dc:creator>임희재 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Jan 2026 08:57:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRPGU4MKCCOEOCJNDIMHIBZEOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 8시쯤 서울 양천구 안양천에서 50대 여성이 숨진 채 발견돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오전 소방 당국에 접수된 신고를 받고 현장에 출동해 신원 미상의 50대 여성 시신을 수습했다고 밝혔다. 경찰은 타살 정황은 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시신에 별다른 외상이 없는 점으로 미루어 보아 아직까지 범죄 혐의점은 없다고 보고 있다”며 “현재 사망자의 신원 확인 중”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 1월 5일 월요일 (음력 11월 17일 己卯)</title>
       <link>https://www.chosun.com/national/national_general/2026/01/04/PGTMAMYUQFCV3P4NRBICLP2TNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/PGTMAMYUQFCV3P4NRBICLP2TNM/</guid>
@@ -899,15 +908,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <description/>
       <pubDate>Fri, 02 Jan 2026 06:32:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSWEN3BGE2DEYRRGVRDAMRSGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박철우 신임 서울중앙지검장이 작년 11월 21일 서울 서초구 서울중앙지검에서 열린 취임식에서 취임사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박철우 서울중앙지검장이 신년사에서 검찰에게 필요한 덕목으로 ‘성찰’을 꼽았다.&lt;br&gt;&lt;br&gt;박 지검장은 2일 중앙지검 구성원들에게 낸 신년사에서 “지난 2025년은 검찰개혁에 강한 동력이 집중되었던 변화와 고통의 시간이었다”며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;그는 “검찰이 국민들로부터 인정받으려면 딱 한 가지만 보태지면 될 것 같다. 성찰이다”라며 “무의식적이나마 오만하게 보일 수 있는 언행은 없었는지, 당장 내 손에 있는 사건에서는 종전에 해오던 관행이나 어떤 편향성에서 벗어나지 못하고 있는 것은 아닌지 객관적으로 살펴보는 성찰의 자세가 절실하게 필요하다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “서울중앙지검 구성원 한분 한분이 다 그와 같이 성찰하는 마인드를 장착할 때 수십년간 형성되어온 우리 검찰의 조직문화는 검찰을 변화시키는 훌륭한 수단이자 국민에게 인정받을 수 있는 새로운 동력이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 지검장은 “오늘도 범죄로부터 국민을 보호하고 권익을 구제하는 검찰 본연의 역할을 묵묵히 수행하고 계시는 중앙지검 구성원 모두가 바로 검찰 변화의 주역임을 잊지 말자”며 “겸허하되 당당하게 나아가자”고 격려했다.&lt;br&gt;&lt;br&gt;한편 중앙지검은 ‘서해 피살 은폐’ 사건의 항소 시한 마지막 날인 2일까지 항소 여부를 두고 고심하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한동훈 전 대표 “서해 사건 수사팀, 용기내서 항소하라”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/02/ALYYKQ67PRBFTPUTA6K72KLH7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/ALYYKQ67PRBFTPUTA6K72KLH7U/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 05:32:26 +0000</pubDate>
-      <content:encoded>‘서해 공무원 피격 은폐’ 사건의 항소 시한이 임박한 가운데 한동훈 전 국민의힘 대표가 검찰 수사팀을 향해 “용기내서 항소하라”고 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44DMYTCGQYTINJVGFSGKOBUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 한 전 대표는 자신의 페이스북을 통해 “김만배 일당 재벌 만들어 준 대장동 항소포기를 주도해서 중앙지검장 자리를 받은 박철우 검사 등이 수사팀의 항소를 막고 있다는 말이 들린다”며 “대장동 항소포기해서 정권에는 귀여움 받고 역사와 국민에게는 버림받았던 검사들처럼 되지 마시라”고 말했다. &lt;br&gt;&lt;br&gt;그는 특히 중앙지검 수사팀을 향해 “국민의 생명과 안전을 지키지 못한 책임을 묻는 중요한 의무 앞에서 정성호, 박철우 같은 사람들 핑계대지 마시라. 그 사람들은 결국 역사 앞에 죄인”이라며 “용기내서 항소하시라. 이런 류의 외압 앞에서 책임감 있는 공직자들은 그렇게 일해 왔다”고 강조했다. &lt;br&gt;&lt;br&gt;그는 또 “이럴 때 제대로 하라고 신분 보장 받아온 것이고, 이럴 때 제대로 하라고 피 같은 국민 세금으로 월급 받는 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;‘서해 공무원 피격 은폐’ 사건은 해양수산부 공무원이던 고(故) 이대준 씨가 지난 2020년 9월 서해에서 북한군에 피격·소각됐고, 정부 주도로 이를 은폐했다는 의혹을 골자로 한다. &lt;br&gt;&lt;br&gt;윤석열 정부 시절 서훈 전 청와대 국가안보실장, 박지원 전 국가정보원장, 서욱 전 국방부 장관 등 관련자 5명이 기소됐으나 지난달 26일 1심에서 모두 무죄 판결을 받았다. 이들에 대한 항소 시한은 이날까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김영록 전남지사·강기정 광주시장, 5·18 묘역서 행정통합 추진 선언</title>
