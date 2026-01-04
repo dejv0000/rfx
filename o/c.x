@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유가족 조롱·비하 글 700건…경찰, 2차 가해 전담팀 첫 구속</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/04/RMAA27XW7BB3VNXLC2AMCKSKU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/RMAA27XW7BB3VNXLC2AMCKSKU4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Jan 2026 03:26:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYGCY3GMJRTOY3FHA3GKNBTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10·29 이태원 참사 3주기를 맞은 지난해 10월 29일 오전 서울 용산구 이태원 참사 현장 골목에서 한 시민이 헌화 후 절을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 이태원 참사 희생자와 유가족을 대상으로 온라인상 ‘2차 가해’를 반복해 온 피의자를 처음으로 구속했다. 전담 조직인 2차가해범죄수사과 신설 이후 첫 구속 사례다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 4일 “온라인에서 희생자와 유가족을 조롱·비하하거나 ‘조작·연출’, ‘마약 테러’, ‘시신은 리얼돌’ 등 허위 주장을 담은 영상·게시글 약 700개를 반복 게시한 A씨에 대해 지난 2일 법원이 구속영장을 발부했다”고 밝혔다. 경찰은 사안의 중대성과 증거인멸 우려, 재범 위험성 등을 이유로 구속영장을 신청했다고 설명했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이태원 참사 유가족은 지난해 9월 25일 희생자 모욕과 음모론, 비방 게시물 119건에 대해 모욕·명예훼손 혐의로 고소장을 제출했다. 이후 경찰은 디지털 추적 기법 등을 통해 A씨를 특정했으며, A씨가 해외 영상 플랫폼과 국내 주요 커뮤니티에 조작·편집 영상을 게시하면서 후원 계좌를 노출하는 방식으로 금전적 이득을 취하려 한 정황도 추가로 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 사회적 참사 유가족과 희생자를 겨냥한 악성 댓글·조롱이 극단적 선택으로까지 이어진 사례가 있다며, 2차 가해 범죄에 대해 무관용 원칙을 적용하겠다는 방침을 거듭 강조했다.&lt;br&gt;&lt;br&gt;경찰청은 지난해 7월 출범한 2차가해범죄수사과가 유가족 신고 대응, 정책·법령 보완, 악성 댓글 수사 등을 전담하고 있으며, 신설 이후 2차 가해 사건 154건을 접수해 20건을 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서해안고속도로서 ‘2차 사고’… 경찰·견인기사 등 2명 사망</title>
+      <link>https://www.chosun.com/national/incident/2026/01/04/T32AHCR7FVELXAEL77H7CXX72Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/04/T32AHCR7FVELXAEL77H7CXX72Y/</guid>
+      <dc:creator>고창=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 23:47:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPN3O5UWNVMO3K4F2AS7UG7KOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 1시 23분쯤 전북 고창군 서해안고속도로 상행선 고창 나들목 인근에서 발생한 잇따른 교통사고로 사고 차량이 크게 파손돼 있다. 이날 발생한 사고로 경찰관과 견인차 기사 등 2명이 숨지고 구급대원 등 9명이 다쳤다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 새벽 서해안고속도로에서 교통사고 수습 현장을 뒤따르던 차량이 덮치는 ‘2차 사고’가 발생했다. 이 사고로 현장에서 교통 통제와 구조 활동을 벌이던 경찰관과 견인차(렉카) 기사가 숨지고, 구급대원 등 9명이 중경상을 입었다.&lt;br&gt;&lt;br&gt;전북경찰청 등에 따르면 이날 오전 1시 23분쯤 전북 고창군 고수면 서해안고속도로 상행선 73㎞ 지점(서울 방향)에서 승용차 간 1차 추돌 사고가 접수됐다. 사고 직후 신고를 받고 출동한 고속도로 순찰대와 119구급대, 견인 차량 등이 현장에 도착해 사고 처리를 진행하고 있었다.&lt;br&gt;&lt;br&gt;이 과정에서 SUV 차량이 사고 현장에 정차해 있던 승용차와 견인 조치 중이던 차량, 그리고 현장 인력들을 잇달아 들이받았다. 2차 충격으로 현장에 출동해 있던 고속도로 순찰대 소속 A(50대) 경찰관과 견인차 운전자 B(30대)씨가 숨졌다.&lt;br&gt;&lt;br&gt;함께 출동했던 40대 구급대원 1명도 중상을 입고 병원에서 치료를 받고 있다. 1차 사고 그랜저 차량 운전자 2명, 또 다른 구급대원 1명, 가해 차량인 GV80에 타고 있던 일가족 5명 등 총 8명이 경상을 입었다.&lt;br&gt;&lt;br&gt;사고 충격으로 승용차 1대가 전소되는 등 소방서 추산 700만 원 상당의 재산 피해도 발생했다. 이날 사고 수습을 위해 소방 헬기 1대를 포함해 차량 22대와 소방·경찰 인력 63명이 투입됐다.&lt;br&gt;&lt;br&gt;경찰은 SUV 운전자가 야간 고속도로에서 선행 사고 현장을 미처 발견하지 못해 사고가 난 것으로 보고, 운전자의 전방 주시 태만 여부 및 과속 여부 등 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘제국의 위안부’ 박유하 “과거사 문제, 학문이 운동에 종속… 日국민 사죄의식이 중요” </title>
       <link>https://www.chosun.com/national/2026/01/04/GFQ24ZWSGFDZHAWXFAY7IDQBKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/01/04/GFQ24ZWSGFDZHAWXFAY7IDQBKM/</guid>
@@ -831,15 +849,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <content:encoded>조희대 대법원장이 2일 “재판 중계 방송까지 도입돼 우리의 말 한마디, 행동 하나에 국민의 모든 눈과 귀가 집중된 적은 드물다”며 법원 구성원들에게 신중한 처신과 공정한 재판 진행을 주문했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRXJLPNWOJAATCLLMSX2DKMWNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 2일 서울 서초구 대법원 청사에서 열린 2026년도 시무식에서 발언하고 있다. /대법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대법원장은 이날 서초구 대법원에서 열린 시무식에서 “국민적 관심이 집중되는 다수 사건이 법원의 판단을 기다리고 있다”며 “국민의 시선과 관심이 사법부에 집중되는 가운데 사법부 책무가 그 어느 때보다도 무겁고 엄중한 시기에 서 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “이런 시기일수록 재판을 담당하는 법관의 말 한마디와 절차 진행은 물론, 민원인을 응대하는 태도 하나가 사법부 신뢰와 직결된다”며 “불필요한 오해를 초래하거나 사법부의 권위와 독립을 스스로 훼손하는 일이 없도록 각별히 유념해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;사법 제도 개편에 대해선 “사법 제도는 국민의 권리에 직접적이고 중대한 영향을 미치는 만큼, 개편 논의가 국민을 위한 방향으로 이루어질 수 있도록 전 과정을 면밀하게 검토하겠다”고 말했다. 또 “국민을 위한 정당하고 합리적인 변화의 요구는 겸허히 받아들여, 국민이 진정으로 신뢰할 수 있는 사법부를 만들기 위해 끊임없이 노력하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;사법부의 고질적 과제인 ‘재판 지연 해소’도 강조했다. 조 대법원장은 “누적된 재판 지연을 해결하기 위해 지난 2년간 시행해 온 법관 사무 분담 장기화와 법원장 재판 업무 담당 등 노력을 지속해 나가겠다”고 했다. 또 “향후 5년간 증원되는 법관을 사실심(1·2심)에 배치하고 장기 미제 사건을 전담 처리하는 재판부를 운영하는 등 한정된 사법 자원을 효율적으로 활용하겠다”고 했다.&lt;br&gt;&lt;br&gt;‘미래 사법 시스템 구축’에 대한 의지도 밝혔다. 조 대법원장은 “인공지능(AI) 기반 재판 지원 모델 개발을 통해 업무 효율성을 높이고, 조건부 구속영장 제도 및 압수·수색 영장 대면 심리 제도 도입 등 형사 사법 제도 개선을 지속 추진하겠다”고 했다. &lt;br&gt;&lt;br&gt;조 대법원장은 3월로 예정된 대전·대구·광주회생법원 개원과 해사국제상사법원 설립을 지원하는 등 “신속하고 전문적인 사법서비스 제공을 위해 전문법원의 확대를 지속적으로 추진해 나가겠다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>울산시·경남도 새해 조직개편 통해 역점사업 선점 노린다 </title>
-      <link>https://www.chosun.com/national/2026/01/02/UUJ57MXTK5G47C6HKIHQGK4CSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/02/UUJ57MXTK5G47C6HKIHQGK4CSI/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 02:09:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4TINRVMUYDQMBQMFQTCZBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산시청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산과 경남도가 새해 첫날부터 조직 개편을 통해 역점 사업에 박차를 가한다. &lt;br&gt;&lt;br&gt;울산시는 ‘인공지능(AI) 수도 울산’을 목표로 새해 AI수도추진본부를 출범했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;AI수도추진본부는 AI 정책 수립과 산업 육성, 지역 인재 양성, 인프라 구축, 미래형 첨단 도시 등을 총괄하는 지휘 본부 역할을 맡는다. &lt;br&gt;&lt;br&gt;1국 2과 체제로, AI산업전략과와 미래첨단도시과로 구성된다. 시는 조직 실효성을 확보하고, AI 정책을 체계적으로 추진하기 위해 개방형 직위의 추진본부장 공개 모집에 나서 과학기술정보통신부 출신 김형수 부이사관을 임용했다. &lt;br&gt;&lt;br&gt;울산시는 추진본부를 중심으로 울산정보산업진흥원, 울산과학기술원(UNIST), 한국전자통신연구원(ETRI), SK, 현대자동차, HD현대중공업 등과 함께 AI 집적단지 조성 방안을 마련할 계획이다. &lt;br&gt;&lt;br&gt;김두겸 울산시장은 이날 시장실에서 2026년 1호 결재로 울산형 소버린 AI 집적단지 조성 추진 계획에 서명했다. 소버린 AI는 특정 기술이나 기업에 대한 의존성 문제를 해소할 수 있는 자주적 AI 모델로, 중요 산업 데이터의 외부 유출을 방지하는 시스템이다. &lt;br&gt;&lt;br&gt;울산시 관계자는 “울산형 소버린 AI 집적 단지 조성을 통해 지역 주력 산업의 국제 경쟁력을 높이고, AI 수도에 걸맞은 산업 생태계를 단계적으로 구축해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRWMN3DMQ4TCYTBGQZTOMDFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도는 새해 조직 개편을 통해 공공기관이전추진단을 신설했다. 김순희 서기관을 단장으로, 11명 정원이다. 지난해까지 도청 서부청사에 있는 균형발전본부 아래 균형발전단 내 공공기관이전파트 3명이 일하던 것에서 규모를 3배 이상으로 키운 셈이다. 공공기관이전추진단은 이재명 정부가 국정 과제로 내건 ‘2차 공공기관 이전’에 맞춰 기존 균형발전단이 맡던 공공기관 이전·혁신도시 지원 업무를 넘겨받고, 2차 공공기관 유치 전략을 세우는 역할을 한다. &lt;br&gt;&lt;br&gt;앞서 경남도는 지난해 9~10월 수도권에 있는 공공기관 381곳을 검토해 목표 기관 64곳을 발굴했다. 경남연구원과 함께 이전 전략 수립을 위한 용역도 벌였다. 도는 지역 전략 산업인 우주·항공·방산·제조 등과 관련한 기관과 1차 공공기관 11곳과 연계되는 기관으로 이전 추진 공공기관을 압축하고 있다.&lt;br&gt;&lt;br&gt;정부는 지역 균형 발전을 위한 2차 공공기관 지방 이전 국정 과제를 확정했으며, 9월까지 ‘2차 공공기관 이전 실행 지원 용역’을 마친 후 로드맵을 수립할 예정이다. 2027년부터 청사 임차와 공동 청사 건립 등을 통해 단계적 공공기관 이전을 추진할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김영록 전남지사·강기정 광주시장, 5·18 묘역서 행정통합 추진 선언</title>
       <link>https://www.chosun.com/national/regional/2026/01/02/45576XKPQRHA3MWXT23Y4QOJIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/02/45576XKPQRHA3MWXT23Y4QOJIE/</guid>
@@ -968,15 +977,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
         <media:description type="plain">김태현 의사인력수급추계위원장이 30일 서울 종로구 정부서울청사에서 제12차 의사인력수급추계위원회 회의 결과를 발표하고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">·</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>새해 첫날 전국 꽁꽁… 해돋이는 잘 보여요</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/01/F67JE5CMVVEXTCDLH3CRUARLNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/01/F67JE5CMVVEXTCDLH3CRUARLNE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:44:00 +0000</pubDate>
-      <content:encoded>영하 16도의 한파 속에서 새해를 여는 첫 태양은 여느 해보다 선명하겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 북부 지방에서 확장하는 대륙 고기압의 영향으로 찬 바람이 내려오면서 1일 아침 최저기온이 영하 16~영하 4도, 낮 최고기온은 영하 7~영상 3도로 전국이 한겨울 추위를 겪을 전망이다. 서울은 영하 11도, 체감온도가 영하 14도까지 떨어질 것으로 예보됐다. &lt;br&gt;&lt;br&gt;1일 해돋이는 전국 대부분 지역에서 볼 수 있을 전망이다. 고기압 영향권에서 구름이 거의 끼지 않고, 찬 바람이 미세먼지를 씻어내기 때문이다. 1일 서울에 오전 7시 47분 첫 해가 고개를 내미는 등 해돋이 시각은 중부지방 오전 7시 40~47분, 남부지방 오전 7시 32~41분, 제주 7시 38분 등으로 예상된다.&lt;br&gt;&lt;br&gt;이번 한파는 한동안 이어질 전망이다. 수도권과 강원·충북·대구 전역, 충남·전북·경북 일부 지역에는 한파특보가 내려졌다. 경기 북부와 강원 영서·경북 북부는 한파경보(이틀 이상 최저기온 영하 15도 이하), 나머지 특보 지역은 한파주의보(이틀 이상 최저기온 영하 12도 이하)가 발효됐다. 특보는 주말인 3~4일까지 대부분 지역에서 유지될 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
