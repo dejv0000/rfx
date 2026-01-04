@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울에서 공주까지 가서 여성 살해 60대 남성 구속</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/04/NS4PR4EJCZBRNKVAG7IE3FZHTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/NS4PR4EJCZBRNKVAG7IE3FZHTU/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Jan 2026 11:20:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6FJ2QBDYL2JCPUJQ6EU4QQPIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법 공주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보했다는 이유로 서울에서 공주까지 이동해 여성을 살해한 혐의를 받는 60대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;4일 경찰 등에 따르면 대전지법 공주지원은 이날 살인 혐의를 받는 60대 남성 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 4시 43분쯤 충남 공주시의 한 빌라에서 50대 여성 B씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 자녀의 신고를 받고 출동한 구급대원들에 의해 심정지 상태로 병원에 이송됐지만, 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “B씨가 이별을 통보하자 범행을 저질렀다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨가 범행 당일 흉기를 준비한 뒤 서울에서 공주로 이동해 B씨를 살해한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/K6FJ2QBDYL2JCPUJQ6EU4QQPIA.jpg?auth=15b51bae83e0c8f4a12cd139b18289b88ea1305be30cd05c9aab25f6ea16bb26&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">대전지법 공주지원. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>서울 안양천서 50대 女 시신 발견...경찰 “타살 정황 없어”</title>
       <link>https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</guid>
@@ -944,18 +956,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <description/>
       <pubDate>Thu, 01 Jan 2026 14:31:00 +0000</pubDate>
       <content:encoded>금-새해 첫 출근길 기온 뚝&lt;br&gt;&lt;br&gt;토~일-누그러지는 추위, 맑은 하늘&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALL3HJ533VHNNDGFHZU357LZMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3400만원 오토바이 족쇄 채우자 밀린 세금 완납한 고액 체납자</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/01/G6UV3P7RFZCHJBLZJF7PY3DRPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/G6UV3P7RFZCHJBLZJF7PY3DRPE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 12:06:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVURFWEEI5ELPGJNX2I72GVABM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청이 발견한 고액 체납자의 수입 오토바이./경기도청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고가의 수입 오토바이를 몰면서도 세금을 내지 않은 고액 체납자들이 과세 당국에 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;경기도는 100만원 이상 장기 체납한 개인·법인 소유 이륜자동차에 대한 전수조사를 실시해 총 2억7000만원의 체납 세금을 징수했다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;도는 이륜자동차의 경우 체계적으로 체납 처분이 이뤄지지 않는 사례를 확인했다. 이에 작년 8월부터 체납자 591명이 소유한 이륜자동차 723대를 확인하고, 11월까지 약 4개월간 지자체 합동으로 체납자 주소지·사업장 탐문수색과 현장 징수 활동을 벌였다. &lt;br&gt;&lt;br&gt;그 결과 실제 소재가 확인된 이륜자동차는 338대였다. 적발된 이륜자동차 중에는 미국산 할리데이비슨 등 고가 수입 이륜차도 다수 포함됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIKIJLI35VGXRKRHTWSOKIF3IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청이 발견한 고액 체납자의 수입 오토바이./ 경기도청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사례로는 경기도 동두천시에 거주하는 A씨는 2021년부터 취득세 등 약 600만원을 체납해 왔다. 현장 징수팀이 A씨의 주소지 겸 사업장을 직접 탐문한 결과 이탈리아산 수퍼벨로체(신차 가격 약 3400만원)를 보유한 사실이 확인됐다. 징수팀이 적발한 이륜자동차에 족쇄를 채우자, 체납자는 밀린 세금을 전액 냈다. &lt;br&gt;&lt;br&gt;남양주시에 거주하는 B씨는 자동차세 등 12건, 150만원을 2019년부터 장기 체납했다. 징수팀은 체납자의 주소지 탐문수색 과정에서 중고 시세 약 2400만원에 거래되는 고가 이륜자동차 KTM 890 어드벤처 R 랠리를 발견했다. B씨 역시 이륜자동차 압류 조치에 체납액 전액을 납부했다.&lt;br&gt;&lt;br&gt;징수팀은 현장 납부 독려와 압류 조치를 통해 총 2억7000만원을 거두어들였다. 자진 납부를 거부한 체납자 소유 이륜자동차 1대를 즉시 공매 처분했다. &lt;br&gt;&lt;br&gt;노승호 경기도 조세정의과장은 “남은 이륜자동차 385대도 계속 조사해 끝까지 책임을 묻겠다”며 “조세 회피 행위에는 엄정하게 대응하고, 성실 납세자가 존중받는 조세 질서를 확립해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PIKIJLI35VGXRKRHTWSOKIF3IA.jpg?auth=738bd99749f3211c3bf1587b2252fb8e785201a4cebbf9338ebe75b063c19d13&amp;smart=true&amp;width=813&amp;height=1098" type="image/jpeg" height="1098" width="813">
-        <media:description type="plain">경기도청이 발견한 고액 체납자의 수입 오토바이./ 경기도청</media:description>
-      </media:content>
     </item>
     <item>
       <title>의사 인력 추계, 과학적으로 하겠다더니… 李정부도 주먹구구</title>
