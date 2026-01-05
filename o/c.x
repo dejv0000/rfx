@@ -13,6 +13,122 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 김병기, 차남 빗썸 취직하자 돌연 경쟁사 두나무 언급... “가만히 두면 안돼, 문 닫도록 해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/05/J2XTVVNEA5CAXDFITEQAXF3JDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/J2XTVVNEA5CAXDFITEQAXF3JDE/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 08:20:03 +0000</pubDate>
+      <content:encoded>더불어민주당 김병기 의원이 아들을 가상화폐 거래소 빗썸에 취직시킨 후 경쟁사에 대해 “문을 닫게 해야 한다”고 말하며 국회의원의 지위를 남용한 정황을 경찰이 확보한 것으로 5일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDMZTBMI3DCYJZMFTDMMRRGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 경찰은 김병기 의원실에서 비서관으로 근무했던 A씨를 조사하는 과정에서 이 같은 진술을 확보했다. A씨는 “2024년 총선이 끝나고 김 의원이 상임위원회를 금융위원회 등을 소관하는 정무위원회로 옮겼다”며 “그러더니 갑자기 빗썸과 두나무에 관심을 가졌다”고 했다. 김 의원은 두 회사의 대관업무를 하는 협력관도 사무실로 불러 만난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 시기 김 의원은 자신의 차남을 가상자산 관련 회사에 입사시키기 위해 두나무와 빗썸 양측에 인사 청탁을 시도한 것으로 보인다. A씨는 “2024년 9~11월 (김 의원이) 두나무 회사 대표와 여러 차례 식사를 했고, 심지어 아들도 함께했다”며 “그 자리에서 아들 이력서도 전달했다는 말을 다른 수행비서에게 들었다”고 했다. 그러나 김 의원의 차남은 2025년 1월 두나무가 아닌 빗썸에 취업했다.&lt;br&gt;&lt;br&gt;아들이 빗썸에 취업하자, 김 의원은 돌연 두나무를 공격할 것을 지시했다고 한다. A씨는 “2024년 11월 말쯤 의원님이 독과점을 지적하는 질의를 준비하라고 지시했다”고 했다. 김 의원은 비서관들에게 이 같은 지시를 여러 차례 하며 “가만히 놔두면 안 된다” “혼내줘야 한다” “두나무 문 닫게 해야 한다”는 취지로 강조한 것으로 알려졌다. A씨는 “아들이 두나무 경쟁사 빗썸에 입사했기 때문에 경쟁 회사에 부정적인 질의를 했다고 생각한다”며 “이는 국회의원의 지위를 사적으로 남용한 것으로 한 기업의 존립을 위태롭게 하는 행위”라고 했다.&lt;br&gt;&lt;br&gt;경찰은 이 같은 정황을 종합할 때 김 의원이 아들을 취업시키기 위해 국회의원으로서 영향력을 행사했다고 보고 있다. 실제로 작년 2월 김 의원은 두나무의 독과점과 관련한 질의를 했고, 김병환 금융위원장은 “공정거래위원회와 논의해서 규제할 수 있는지 방안을 찾아보겠다”고 답변한 바 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“광주·전남 한 몸으로”… 행정통합 전담조직 출범</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/DMMS2BYPOFHA7FRHABCCXTDVI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/DMMS2BYPOFHA7FRHABCCXTDVI4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 08:10:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYXGH56VNRJO7N5PPHTGAXRECM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오전 광주 북구 운정동 국립 5·18 민주묘지에서 강기정 광주시장·김영록 전남지사가 광주·전남 행정통합 선언문을 발표한 뒤 기념사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시와 전남도가 다가오는 지방선거에서 통합 단체장 선출을 목표로 추진하는 행정통합 업무를 총괄할 추진기획단이 출범했다.&lt;br&gt;&lt;br&gt;광주시와 전남도는 5일 각각 ‘광주·전남 행정통합 추진기획단’ 현판식을 열고 업무를 시작했다. 광주시 산하 행정통합 추진기획단은 1단 2과 16명으로 단장은 김영문 문화경제부시장이 맡는다. 전남도 산하 행정통합 추진기획단은 1단 2과 22명으로 강위원 경제부지사가 맡는다.&lt;br&gt;&lt;br&gt;강기정 광주시장과 김영록 전남도지사는 지난 2일 광주 국립5·18민주묘지를 찾아 참배한 뒤 ‘광주·전남 대통합 추진 공동 선언문’을 발표했다. 두 단체장은 “올해 지방선거에서 통합 단체장을 선출하는 것을 목표로 하고 있다”며 광주시장·부시장과 전남지사·부지사가 공동대표를 맡는 통합 추진 협의체를 출범시키기로 했다.&lt;br&gt;&lt;br&gt;광주시와 전남도의 행정통합 추진기획단은 양 지자체 행정통합 선언문의 후속 절차다. 행정통합 관련 행정 절차 이행, 민관 협의체 구성‧운영, 시민 소통 및 공론화 지원 등 행정통합 준비 전반 등 업무를 맡는다. 광주·전남 행정통합의 법적 근거가 될 특별법도 만든다.&lt;br&gt;&lt;br&gt;양 시도는 오는 6월 3일 지방선거 통합단체장 선출, 7월 1일 광주·전남 통합 지방정부 출범을 목표로 행정통합을 추진할 계획이다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 행정통합 추진기획단 현판식 이후 기자들과 만나 “속도감 있게 행정통합 절차를 추진하겠다”며 “행정통합 단체의 명칭도 (광주가 아닌) 전남특별시가 돼도 좋다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;김영록 지사는 “수도권 중심 성장에서 지방 주도 성장으로의 대전환, 대한민국 대도약을 광주·전남에서 시작하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EYXGH56VNRJO7N5PPHTGAXRECM.jpg?auth=5869df8d6ed34ebc02586813ef0a135a20dbb037222d42a64e07808a81ef901c&amp;smart=true&amp;width=3333&amp;height=2222" type="image/jpeg" height="2222" width="3333">
+        <media:description type="plain">&lt;YONHAP PHOTO-1964&gt; 강기정·김영록, 광주·전남 행정통합 선언문 발표
+    (광주=연합뉴스) 정다움 기자 = 2일 오전 광주 북구 운정동 국립 5·18 민주묘지에서 강기정 광주시장·김영록 전남지사가 광주·전남 행정통합 선언문을 발표한 뒤 기념사진을 찍고 있다. 2026.1.2
+    daum@yna.co.kr/2026-01-02 10:13:39/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>영등포역 광장서 행인 목 조르고 흉기 휘두른 40대 男 체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/3JH2BWRDMVCLTNC2RLGG6RHVMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/3JH2BWRDMVCLTNC2RLGG6RHVMQ/</guid>
+      <dc:creator>윤성우 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 08:17:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRPGU4MKCCOEOCJNDIMHIBZEOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 1호선 영등포역 앞 광장에서 행인의 목을 조르고 흉기를 휘두른 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 지난 3일 오후 9시 30분쯤 살인미수와 공공장소 흉기소지, 절도 등 혐의로 40대 남성 A씨를 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 피의자는 지나가는 여성의 목을 조르며 흉기로 위협하고, 다른 행인들에게도 흉기를 휘두른 혐의를 받는다. 행인들이 현장에서 바로 도망치면서 인명 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;A씨는 범행 당시 술이나 약물에 취한 상태는 아니었던 걸로 조사됐다. 범행에 사용된 흉기는 피의자가 인근 편의점에서 훔친 것이었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 동기를 조사하는 한편, 구속영장 신청을 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산·경남 행정통합 찬성 53%...반대 여론 구도 뒤집혔다 </title>
+      <link>https://www.chosun.com/national/2026/01/05/EKCTI2J6KVHXBBQPLRQUUMH6WM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/05/EKCTI2J6KVHXBBQPLRQUUMH6WM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 07:59:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRTDMNZXMVRTQYTBMI3DIN3BGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 11월 열린 부산·경남 행정통합 공론화위원회 출범식. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산·경남 행정 통합 추진에 대해 시·도민 과반이 찬성한다는 여론조사 결과가 나왔다. 2023년과 지난해 여론조사 때는 찬성 의견이 과반을 넘기지 못했다. &lt;br&gt;&lt;br&gt;5일 부산·경남 행정 통합 공론화위원회가 지난 연말 부산, 경남 성인 4047명(부산 2018명, 경남 2029명)을 대상으로 실시한 행정 통합 여론조사 결과에서 53.65%가 행정 통합에 찬성한다고 답한 것으로 나타났다. 반대(불필요) 의견은 29.2%였다.&lt;br&gt;&lt;br&gt;지역별로는 부산이 55.6%, 경남이 51.7%였다. 반대는 경남이 33.4%, 부산이 25.0%였다. &lt;br&gt;&lt;br&gt;통합 논의를 들어본 적 있는지 묻는 인지도 문항에선 인지가 55.8%, 비인지가 44.2%로 집계됐다. 행정 통합이 부산·경남의 강점 강화에 도움이 될 것인지를 묻는 효과 인식 문항에서는 ‘도움이 된다’는 긍정 답변이 65.8%로, ‘도움이 되지 않는다’는 부정 답변(25.8%)보다 크게 높았다. &lt;br&gt;&lt;br&gt;앞서 진행한 여론조사 결과와 비교해 찬성 비율과 인지도 모두 크게 상승했다. 2023년 6월 첫 조사에서는 찬성이 35.6%에 불과했다. 지난해 9월 조사에서는 36.1%에 그쳤다. 이번 조사에서 찬성이 약 17~18%P 늘어난 셈이다. 인지도도 2023년 30.6%, 지난해 35.7%와 비교해 크게 상승했다. &lt;br&gt;&lt;br&gt;공론화위원회는 오는 13일 경남에서 마지막 회의를 갖고, 행정 통합에 대한 최종 의견을 발표한 뒤 의견서를 양 시·도지사에게 전달할 계획이다. &lt;br&gt;&lt;br&gt;한편, 양 시도는 지난 2024년 11월 민간 전문가와 시·도민 대표 각 15명씩 총 30명으로 공론화위원회를 구성하고, 권역별 토론회와 현장 설명회 등을 통해 공론화 과정을 진행해 왔다. 두 시·도는 여론조사 결과를 토대로 행정 통합 추진 여부를 판단하기로 했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“실버바 사려고 한 달 기다려”...‘금보다 은’ 종로 귀금속 거리 가보니</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/PKX7ZXCLBBBKJEO4YJVRVUF6HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/PKX7ZXCLBBBKJEO4YJVRVUF6HY/</guid>
+      <dc:creator>김진영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 07:59:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3G4REQYUZNITZMD5B2HB754TJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국제 은값이 급반등한 가운데 지난달 31일 서울 종로구 아이디쥬얼리에서 상인이 실버바를 들어보이고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한 달 전 주문한 실버바를 이제서야 받네요.” &lt;br&gt;&lt;br&gt;새해 첫날이었던 지난 1일 오후 서울 종로구 귀금속거리에서 만난 이모(55)씨가 실버바 5개를 가방에 챙기며 말했다. 이씨는 “원래 금을 사고 싶었는데, 골드바 1kg에 2억원이 넘어 엄두가 나질 않아 금 대신 은을 사기로 결심했다”며 “거래소마다 은이 다 떨어져 주문을 넣고 기다리다 오늘 물량이 들어왔다고 해 이곳을 찾았다”고 했다. 홍모(53)씨도 “금은방 몇 곳에 전화를 했더니 물량이 부족해 오늘 예약해도 언제 받을 수 있을지 확답을 못준다고 하더라”며 “마음 먹은 김에 웨이팅 2~3곳은 걸고 갈 생각”이라고 했다.&lt;br&gt;&lt;br&gt;은 시세가 연일 최고치 기록하며 종로 귀금속 거리 대세도 ‘금보다 은’으로 자리잡고 있다. 금보다는 저렴해 상대적으로 부담없이 구매할 수 있을 뿐 아니라 가격 상승세도 가팔라 은에 투자하려는 사람이 늘고 있기 때문이다. 지난해 하나은행을 제외한 4대 은행의 실버바 판매액은 306억8000만원으로, 2024년(7억9900만원)에 비해 38배 증가했다. 실버바 1kg 가격(구매가 기준)은 작년 1월 2일 약 180만원에서 12월 31일 440만원으로 2.4배 상승했다.&lt;br&gt;&lt;br&gt;실제로 이날 본지가 찾은 종로5가 금은방 매대 곳곳엔 골드바 대신 실버바가 놓였고, 유리문 앞엔 “실버바 대량 구매 가능합니다”라고 적힌 홍보종이가 나붙었다. 종로5가에서 금은방을 운영하는 금혁주씨는 “하루에도 실버바 문의만 20통 가까이 받은 날도 있다”며 “공급이 수요를 못 따라가는 지경”이라고 했다.&lt;br&gt;&lt;br&gt;실버바 품귀 현상에 금은방들은 “물 들어올 때 노 저어야 한다”며 은 물량을 확보하기 위해 중고거래 플랫폼에까지 “집에 있는 은을 우리 가게에 팔아달라”며 홍보에 나섰다. 서울의 한 금은방은 지난달 28일 중고거래 플랫폼에 “실버바 1kg 정리할 거면 수량 눈치 보지 말고, 오늘 좋은 가격 일 때 정리하라”며 “불필요한 말 없이 정품·중량 확인하고 빠른 정산으로 깔끔하게 처리해 드린다”는 글을 올렸다. &lt;br&gt;&lt;br&gt;자산 관리 전문가들은 “은은 산업 수요에 민감해 급락의 위험이 있는 만큼, 포트폴리오 다변화 차원에서 신중하게 구매할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 1월 6일 화요일 (음력 11월 18일 庚辰)</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/DWRHSW4Y5VHIHMTXXNWAG4MYC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/DWRHSW4Y5VHIHMTXXNWAG4MYC4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/2LZZQML6OJBITPXHEQORH4PUUM.gif?auth=5f05c3ac3af7209b10f115bbf8056cd1f3e8c142299c2f82c12698398f2be6ea&amp;smart=true&amp;width=120&amp;height=60" alt="" height="60" width="120"/&gt;&lt;p&gt;子36년생 대화로 안 될 일은 없으니 일단 만남부터. 48년생 방향 잃지 않는 배 산으로 안 간다. 60년생 우직하고 성실함이 키포인트. 72년생 잠시 눈 감고 입장 정리하도록. 84년생 상황이 여의치 않아도 기본 견지하라. 96년생 포기하지 않으면 언젠가 도달. &lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HSODKZ63WZAXBHMW2TI672NLB4.png?auth=ba587455ef9b6e29d44e8b035903c5f5aea3c45618c63f8c67ccc42f5a7ec75f&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>경산 지역 65세 이상 어르신, 보건소 진료비 본인 부담금 전액 면제</title>
+      <link>https://www.chosun.com/national/regional/2026/01/05/BN232WBIEFGJFL7QGTCSMVRNLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/05/BN232WBIEFGJFL7QGTCSMVRNLQ/</guid>
+      <dc:creator>경산=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 07:55:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTVBKRA24NFCFH2FT4SIMCOZPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경산보건소./경산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경산시는 65세 이상 어르신의 의료비 부담을 줄여주기 위해 보건소와 보건지소 등의 진료비 급여 항목 중 본인 부담금을 전부 면제한다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;대상은 경산시에 주소를 둔 65세 이상 어르신 5만7000여 명으로, 올해 1일부터 시행에 들어갔다. &lt;br&gt;&lt;br&gt;이에 따라 의약분업 지역(보건소, 하양·진량·압량·와촌·자인보건지소)은 진료비 본인 부담금이, 예외 지역 보건지소(용성·남산·남천)와 10개 보건진료소는 진료비와 약제비 본인 부담금이 모두 면제된다. 경산시는 이를 위해 지난해 보건복지부 사회보장제도 협의를 거쳐 ‘경산시보건소 등 진료비 및 수수료 징수 조례’를 개정했다.&lt;br&gt;&lt;br&gt;조현일 경산시장은 “진료비 본인 부담금 면제는 작은 변화지만, 어르신들의 삶에 실질적인 도움이 되리라 생각한다”며 “앞으로도 어르신들이 편안한 노후를 보낼 수 있도록 다양한 보건 정책을 발굴해 추진하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김건희 논문 표절’ 의혹 설민신 교수, 벌금 1000만원형 약식명령</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/05/27K3IDX2HFCNLEGNDJZLFZOEKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/27K3IDX2HFCNLEGNDJZLFZOEKM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 07:33:49 +0000</pubDate>
+      <content:encoded>‘김건희 여사 논문 표절’ 의혹과 관련해 국정감사 증인으로 여러 차례 채택됐음에도 불출석한 설민신 한경국립대 교수가 벌금 1000만원의 약식명령을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRTSMRTHAYGMODBHBSGKNZRHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;재작년 10월 국회 교육위원회가 설민신 한경국립대 교수 고발장을 행정실장에게 전달하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 서울중앙지법 형사27단독 김용환 판사는 국회증언감정법 위반 혐의로 약식 기소된 설 교수에게 지난달 19일 벌금 1000만원의 약식명령을 내렸다. 앞서 서울중앙지검은 지난달 4일 설 교수가 증인 출석 요구서를 받았음에도 정당한 이유 없이 증인으로 출석하지 않았다며 약식 기소했다.&lt;br&gt;&lt;br&gt;설 교수는 김건희 여사의 논문 대필 의혹과 관련해 2023~2025년 국회 교육위원회 국감 증인으로 여러 차례 채택됐으나, ‘증언할 수 없는 정도의 건강 상태’라는 전문의 소견을 담아 번번이 불출석 사유서를 냈다. 이에 교육위는 동행명령장을 발부했고, 설 교수를 수사기관에 고발했다.&lt;br&gt;&lt;br&gt;국회증언감정법 제13조에 따르면, 국정감사에 채택된 증인이 정당한 이유 없이 출석하지 않으면 3년 이하의 징역 또는 1000만~3000만원의 벌금형에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘공천 헌금’ 수사 시작했는데…김경 시의원, 수사 착수 직전 美 출국</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/FOZPGTPCTBFWNJNU5DKFBIV7UI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/FOZPGTPCTBFWNJNU5DKFBIV7UI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 07:10:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FS3PTNET7JE3BM6AWV67BLUSAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김경 서울시의원. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 지방선거를 앞두고 강선우 무소속 의원에게 1억원을 전달했다는 의혹을 받는 김경 서울시의원이 최근 미국으로 출국한 것으로 5일 확인됐다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 김 시의원은 지난달 말 미국에 있는 자녀를 만나기 위해 출국했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “경찰이 김 시의원 수사에 착수하기 전 한국을 떠난 것으로 확인했다”고 했다.&lt;br&gt;&lt;br&gt;경찰이 김병기 더불어민주당 의원과 강 의원의 공천 헌금 의혹에 대해 본격적인 수사에 들어간 가운데, 김 시의원을 대상으로 한 수사에 차질이 생길 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청 공공범죄수사대는 지난 1일 강 의원과 김 시의원 등에 대한 뇌물 혐의 등 고발 사건을 배당받아 수사에 착수했다. 김 시의원은 지방선거를 앞둔 2022년 4월 강 의원에게 공천 헌금 명목으로 1억원을 건넸다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘4박5일 머물며 1인당 64만원 소비’... 제주 워케이션 10만명 넘었다</title>
+      <link>https://www.chosun.com/national/regional/2026/01/05/DPRY6XOKTRCSRMDW5S76IEEX2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/05/DPRY6XOKTRCSRMDW5S76IEEX2Y/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 05:59:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FSHMBVBSFG2NFEZIVCNJTVI3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 제주 워케이션에 참여한 인공지능 의료 솔루션 업체 직원들이 제주시 애월읍에 위치한 중력가속도 카트 레이싱 체험장을 찾아 액티비티 체험을 하고 있다. /제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 온 워케이션(휴가지 원격근무) 참여자들의 평균 소비금액은 약 64만원으로 조사됐다.&lt;br&gt;&lt;br&gt;5일 제주도에 따르면 제주창조경제혁신센터가 지난해 4월1일부터 5월26일까지 워케이션 참여자 130명을 대상으로 설문 조사한 결과 이같이 나타났다.&lt;br&gt;&lt;br&gt;워케이션 참여자들은 제주 체류 기간 식당 등에서 외식비로 19만5257원을, 숙박비로 19만5074원을 썼다. 교통비로 8만4587원을, 기념품 구매비로 4만5866원, 문화생활비로 4만4528원 등 모두 64만원(항공비 제외)을 지출했다.&lt;br&gt;&lt;br&gt;지난해 12월28일 기준 제주 워케이션 연간 참여자는 10만360명을 기록했다. 제주도는 당초 2026년에 한 해 워케이션 참여자가 10만명을 돌파할 것으로 예상했었다. 제주에 워케이션을 올때 함께 하는 동반인구는 1.13명으로 조사됐다. 이들의 체류기간은 평균 4박5일인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;제주도는 설문조사 결과를 토대로 지난해 워케이션 참여자 10만명의 누적 소비 총액은 약 640억원으로 추산된다고 밝혔다.&lt;br&gt;&lt;br&gt;제주연구원이 설문조사 결과를 토대로 워케이션 인구 10만명 달성에 따른 경제 파급효과를 분석한 결과 생산유발효과 862억원, 부가가치유발효과 306억원, 취업유발효과 927명으로 나타났다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “워케이션은 단순한 관광형 소비만이 아니라 체류하면서 소비해 지역경제 구조 전반에 긍정적인 파급 효과를 가져오고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;제주도는 올해 워케이션 유치 대상을 국내 뿐만 아니라 직항 노선이 있는 국가의 글로벌 기업, 디지털노마드까지 확대해 나갈 예정이다.&lt;br&gt;&lt;br&gt;김미영 제주도 경제활력국장은 “기업 멤버십과 워케이션 패스 등을 도입해 워케이션 지원 정책을 더욱 확충할 계획”이라면서 “지역 상권과의 제휴를 확대하고 문화 프로그램과 연계해 ‘제주다움’을 체감할 수 있는 콘텐츠도 강화할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘법정 소란·감치' 김용현 변호인단 징계 개시 신청</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/05/Y3OVMKPYGNHQFBGQR5J7EJP23I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/Y3OVMKPYGNHQFBGQR5J7EJP23I/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 05:44:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDINLFMRRTCNLFME4DKZLFG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관 변호인단인 이하상 변호사가 작년 11월 6일 서울 서초구 서울중앙지법에서 열린 김 전 장관의 내란 혐의 공판준비기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 5일 대한변호사협회에 김용현 전 국방부 장관 변호인 3명(권우현·유승수·이하상 변호사)에 대한 징계 개시를 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 작년 11월 27일 내란 특검 요청을 받은 후 공판 조서 등을 검토해 김 전 장관 변호인단의 일부 언행이 변론권의 범위를 벗어난 품위 손상 행위에 해당한다고 판단해 징계 개시를 신청했다고 설명했다. 징계 대상 재판은 내란 중요임무종사, 위계에 의한 공무집행방해 등의 혐의로 각각 기소된 김 전 장관 재판 2개와, 김 전 장관이 증인으로 출석했던 한덕수 전 국무총리의 내란 중요임무종사 재판 1개이다.&lt;br&gt;&lt;br&gt;변호사법은 지방검찰청검사장 등이 업무 수행 중 변호사에게 관련 법 위반, 변호사로서의 품위를 손상하는 행위 등 징계 사유를 발견했을 때 대한변협에 징계 개시를 신청하도록 하고 있다. &lt;br&gt;&lt;br&gt;김 전 장관 변호인단은 작년 11월 19일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 국무총리 재판에 나와 “증인석에 앉은 김 전 장관과 같이 앉게 해 달라”고 요청했다. 재판장이 “범죄 피해자만 증인 출석 시 변호인이 동석할 수 있다”며 허락하지 않자, 변호인단은 계속 손을 들며 발언하려 하고 발언권을 얻지 못하자 “직권남용”이라고 소리치며 반발했다. 이에 재판장은 감치 15일을 선고했다.&lt;br&gt;&lt;br&gt;이후 변호인단은 유튜브 채널 ‘진격의 변호사들’에 출연해 욕설 등을 하며 재판부를 비난했다. 대법원 법원행정처는 이들을 법정모욕 및 명예훼손 혐의로 경찰에 고발했고, 서울중앙지법도 대한변호사협회와 서울지방변호사회에 이들에 대한 징계를 요청했다. 이와 별도로 내란 특검도 징계 요청 권한이 있는 검찰에 관련 자료를 송부했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘10년 도피’ 전세금 사기 브로커, 승진해 돌아온 부장검사가 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/01/05/OTJJSYY5SFFQPJ4KI2GSQQ6JME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/05/OTJJSYY5SFFQPJ4KI2GSQQ6JME/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 05:39:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43TMYZWG43GKYRRGIYWIMRUGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산고등·지방검찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰의 수사를 피해 전국을 떠돌았던 전세 사기 조직 브로커가 10년 만에 부장이 돼 돌아온 당시 사건 담당 검사에게 붙잡혀 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 강력범죄수사부(부장 서정화)는 사기 혐의로 50대 남성 A씨를 구속 기소했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A씨는 2013년 11월 22일부터 2014년 9월 26일까지 허위 대출자들을 모집해 위조한 재직 서류와 전세 계약서를 제출하는 수법으로 금융기관으로부터 16억원 상당의 대출금을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사건은 강력부 소속 서정화 검사가 맡았었다. 당시 서 검사는 수감된 마약 사범에게서 단서를 포착해 A씨의 전세 대출금 사기 조직을 적발했다. 검찰 관계자는 “강력부는 주로 마약이나 조직범죄 수사를 전담하는 곳으로, 전세 사기 분야에 대한 수사는 이례적이었다”고 했다.&lt;br&gt;&lt;br&gt;대출 브로커였던 A씨는 검찰이 공범들을 수사하자 추적을 피하기 위해 본인 명의 휴대전화를 해지한 채 일용직 노동을 하며 전국을 전전했다. A씨를 제외한 나머지 피의자들은 모두 검거돼 재판을 받았다.&lt;br&gt;&lt;br&gt;결국 검찰은 A씨에 대해 기소중지 처분을 내렸고, 서 검사는 인사 이동으로 A씨를 검거하지 못한 채 부산지검을 떠나게 됐다.&lt;br&gt;&lt;br&gt;이후 서 검사는 10년이 흐른 작년 8월 자신이 근무했던 부산지검 강력부 부장검사로 돌아왔다. 공교롭게도 최근 A씨는 지인과 다투다가 지인의 112 신고로 검찰에 구속됐다. &lt;br&gt;&lt;br&gt;부산지검 관계자는 “죄를 짓고 도피하더라도 누군가는 이를 기억하고 끝까지 추적해 반드시 상응하는 처벌을 받는다는 교훈을 준 사안”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘서해 피살 공무원’ 유족, 국무총리·중앙지검장 공수처 고발한다</title>
       <link>https://www.chosun.com/national/court_law/2026/01/05/XNMTSS3NMFGMHMO5KLH77SPYV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/XNMTSS3NMFGMHMO5KLH77SPYV4/</guid>
@@ -271,27 +387,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/IZS57XNM5BBMDPUP2ROUHX533M.png?auth=ee84c3dcf81990e01ca66f6719cad65cca0757d837f0fd8f1fb04f08a202fc99&amp;smart=true&amp;width=2570&amp;height=1440" type="image/png" height="1440" width="2570"/>
     </item>
     <item>
-      <title>‘쿠팡 해킹’은 시작일 뿐… 소리없는 ‘디지털 전쟁’ 터졌다</title>
-      <link>https://www.chosun.com/economy/industry-company/2025/12/22/7HV5N47IHVDE7PBO4R7HKOQ3WM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/economy/industry-company/2025/12/22/7HV5N47IHVDE7PBO4R7HKOQ3WM/</guid>
-      <dc:creator>주성환 美 텍사스 A&amp;M 인터내셔널대 범죄학 조교수, 안별 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSDMMTEGA3GMZJQG5QWKMTBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구에 위치한 쿠팡 본사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;☞ 세상에는 수많은 보고서가 있습니다. 모든 보고서를 일일이 보는 건 너무 많은 시간이 필요해 불가능에 가깝습니다. 그 시간을 대폭 줄여주는 게 AI입니다. 주성환 범죄학 박사가 구글 AI ‘노트북LM’을 활용, 지금 우리 안전을 위협하는 범죄의 흐름을 추적합니다. 안별 기자가 정리합니다.&lt;br&gt;&lt;br&gt;☞ 이번 시리즈는 유엔무역개발회의(UNCTAD)·유럽연합 경찰 기구(EUROPOL)·미국 국립표준기술연구소(NIST)·세계경제포럼(WEF)·미 연방수사국(FBI) 등에서 발간한 보고서를 토대로 분석한 ‘21세기 골드러시’입니다.&lt;br&gt;&lt;br&gt;1848년 미국 캘리포니아에서 대규모 금광이 발견되면서 ‘일확천금’을 꿈꾸는 사람들이 곡괭이를 들고 몰려들었습니다. 이른바 ‘골드러시’입니다. 2025년, 그 욕망의 무대는 금광에서 디지털 세계로 옮겨왔습니다. 데이터가 21세기 황금이자 석유로 불리는 시대, 총성 대신 ‘디지털 약탈자’들의 키보드 두드리는 소리가 들리는 전쟁터 한복판에 서 있습니다.&lt;br&gt;&lt;br&gt;최근 쿠팡 개인정보 유출 사건이 터졌습니다. 쿠팡 고객 3370만명의 개인 정보가 유출됐습니다. 고객 이름과 전화번호, 이메일, 주소, 최근 주문 이력 등이 털렸습니다. 쿠팡은 “결제 정보와 카드 번호 같은 금융 정보는 노출되지 않았다”고 해명하며 고객들을 안심시켰습니다. 직접적인 금융 피해는 없을 것이니 큰 걱정을 하지 않아도 된다는 논리입니다. &lt;br&gt;&lt;br&gt;하지만 과연 전화번호와 이메일 같은 단순 개인 정보는 직접적인 금융 피해를 만들지 않을까요? 전문가 집단은 ‘아니다’라고 단언합니다.&lt;br&gt;&lt;br&gt;흔히 영화나 소설 같은 콘텐츠에서 ‘해커’는 홀로 움직이는 늑대와도 같은 ‘장난꾸러기’로 그려집니다. 콘텐츠 속 주인공을 돕고 악당을 물리치며 정의를 구현합니다. 하지만 현실 세계의 해커는 전혀 다릅니다. 해커는 거대 기업의 자산을 직접적으로 강탈하는 조직화된 범죄 집단으로 성장했습니다. &lt;br&gt;&lt;br&gt;‘디지털 약탈자’는 누구를 노릴까요. 구글 클라우드 보안 조직 ‘맨디언트’의 침해 사고 조사 결과에 따르면, 해커들은 ‘돈’과 ‘미래 가치’가 있는 곳을 주로 노렸습니다. 해커의 공격을 가장 많이 받은 곳은 은행 같은 금융 서비스(17.3%)였습니다. 그 뒤를 비즈니스 전문 서비스(13.3%), 최첨단 기술 기업(12.4%), 유통 및 숙박 서비스(8.6%) 등이 이었습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P474ICKUPNFEVMZ47DWVYX2LXM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해커는 즉각적인 현금화가 가능한 금융 데이터를 1차적으로 노리지만, 동시에 기업의 독점적인 비즈니스 정보와 미래 먹거리인 지식재산권(IP)을 탈취해 장기적인 이득 역시 함께 노립니다. 기업이 보유한 기술 도면 같은 영업 기밀, 고객의 이름과 전화번호·이메일 등이 담긴 개인 식별 정보는 해커에게는 현찰과 다름없는 ‘노다지’인 셈입니다.&lt;br&gt;&lt;br&gt;금융 서비스에서 탈취한 금융 정보는 해커에게 최고 수준의 가치를 갖고 있습니다. 탈취한 정보로 수억 달러어치의 암호화폐를 단 한 번에 탈취할 수 있습니다. 해커에게 가장 ‘가성비’가 좋고 직접적인 수익을 제공합니다.&lt;br&gt;&lt;br&gt;기업의 영업 기밀 같은 지식재산권은 해커에게 장기적인 전략 가치를 갖고 있습니다. 예를 들어 국방부의 정보를 해킹할 경우, 군사적으로도 이용할 수 있습니다. &lt;br&gt;&lt;br&gt;최근 이어지고 있는 기업 해킹 사례처럼 이름과 전화번호 등이 담긴 개인 식별 정보와 개인 의료 정보는 해커에게 광범위한 탈취 기반을 만들어줍니다. 해커가 개인 식별 정보를 활용해 첩보나 신원 도용, 온라인 스캠 사기 등 피해자들을 여러 방법으로 갈취할 수 있게 됩니다.&lt;br&gt;&lt;br&gt;해커는 이제 대기업의 단단한 성벽을 직접 넘지 않습니다. 대신 ‘약한 고리’인 중소 협력사를 먼저 공격합니다. 여기서 ‘사이버 불평등(Cyber Inequity)’의 문제가 발생합니다. 대기업은 막대한 자본으로 해킹 방어막을 치지만, 인건비와 만성적인 자금난 등에 시달리는 중소기업은 보안에 투자할 여력이 없습니다. &lt;br&gt;&lt;br&gt;중소 협력사의 소프트웨어 업체 하나만 뚫으면, 해당 서비스를 쓰는 대기업들 안방까지 ‘프리패스’로 뚫을 수 있게 됩니다. 기업 보안이 아무리 철저해도, 납품받는 부품사 혹은 사용하는 소프트웨어 업체가 뚫리면 모든 것이 무용지물이 됩니다. 세계경제포럼(WEF)은 “기술의 격차가 해킹 방어 능력의 격차로 이어져 ‘승자와 패자’를 만들 수 있다”고 경고합니다.&lt;br&gt;&lt;br&gt;해킹은 어느새 전 세계 최고경영자(CEO)들의 ‘악몽’이 됐습니다. WEF가 발간한 2024년 보고서에 따르면, 전 세계 CEO들은 ‘사이버 불안정(Cyber insecurity)’을 향후 2년 내 닥칠 4번째로 심각한 위협으로 꼽았습니다. 1위는 허위 및 조작 정보, 2위 극심한 기상 이변, 3위 사회적 양극화가 각각 차지했습니다. &lt;br&gt;&lt;br&gt;설문조사에서 CEO들은 사이버 불안정에서 오는 금전적인 손실보다 ‘신뢰와 평판의 붕괴’를 더욱 두려워하는 것으로 나타났습니다. 2025년 상황을 보면, 예상하고 있던 위협이 실제 위협으로 이어지는 모양새입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/435AGVZOSFAE5KEJK7DCM6RD5Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 한국이 이 전쟁터의 최전선에 있다는 점입니다. 글로벌 보고서들을 종합하면, 한국과 아시아·태평양 지역은 매우 특수한 위협에 노출돼 있습니다. 국가가 주도하는 ‘첩보 전쟁(Espionage)’에 직접적으로 엮여 있습니다.&lt;br&gt;&lt;br&gt;우리와 가장 가까운 위협인 ‘북한’은 물론이고, 중국과 연계된 해커 그룹들 역시 아시아 지역의 외교와 무역 데이터를 집요하게 노리고 있습니다. 2023년 기상청에 납품된 중국산 기상 장비에서 악성 코드가 발견된 사건은, 우리가 사용하는 장비조차 믿을 수 없는 ‘공급망 오염’의 현실을 적나라하게 보여주고 있습니다.&lt;br&gt;&lt;br&gt;심지어 우리는 해킹 당한 줄도 모릅니다. 맨디언트에 따르면, 아시아·태평양 지역 기업들이 해킹 사실을 인지하게 된 경로의 69%가 ‘외부 통보’였습니다. 이는 글로벌 평균(54%)보다 훨씬 높은 수치입니다. 우리 기업 10곳 중 7곳은 해커가 안방을 휘젓고 다녀도 까맣게 모르고 있다가, 수사기관이 알려주거나 해커에게 협박 메일을 받고 나서야 해킹 사태를 파악한다는 의미입니다. 쿠팡 역시 해킹 당한 후 5개월간 보안에 구멍 뚫린 줄도 몰랐습니다.&lt;br&gt;&lt;br&gt;이제 보안은 비용 절감의 대상인 ‘지원 업무’가 아닙니다. 기업의 생존을 결정짓는 핵심 비즈니스 업무가 됐습니다. 정부와 기업들은 ‘아무도 믿지 마라(Zero Trust)’는 기조 아래 보안 가이드라인을 강화하고 있습니다. &lt;br&gt;&lt;br&gt;다음에는 개인정보가 어떻게 털리는지, 해커들 정체는 누구인지 알아보겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MQ2TANDGGYYWKMJVMZQTQZTDGU.jpg?auth=3bf1e1796ea814948868a4b70a1f17939454f457e7c210ab90bb88435e02fcea&amp;smart=true&amp;width=3297&amp;height=2107" type="image/jpeg" height="2107" width="3297">
-        <media:description type="plain">서울 송파구에 위치한 쿠팡 본사 모습. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>인천 백령도 해상 모터보트 전복 사고… 1명 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/01/05/G5IADNAPFNGP7HQ3GW23P7SLJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/05/G5IADNAPFNGP7HQ3GW23P7SLJI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 23:14:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 로고. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해 최북단 인천 백령도 인근 해상에서 모터보트가 전복돼 1명이 숨졌다. &lt;br&gt;&lt;br&gt;5일 인천소방본부와 인천해양경찰서 등에 따르면 전날 오후 1시 10분쯤 인천 옹진군 백령도 두무진항 인근 해상에서 0.85t 모터보트가 뒤집어졌다.&lt;br&gt;&lt;br&gt;이 사고로 보트에 타고 있던 50대 남성 A씨가 숨지고, B씨 등 2명은 자력으로 대피했다. &lt;br&gt;&lt;br&gt;사고 지점은 두무진항과 멀리 떨어지지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 모터보트가 항구로 입항하던 중 사고를 당한 것으로 보고 정확한 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>영화 명대사 100선 중 1위 “I don’t give a damn” </title>
       <link>https://www.chosun.com/national/education/2026/01/05/GQCW646CNNGDDOLRP2RVHT2FPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/05/GQCW646CNNGDDOLRP2RVHT2FPY/</guid>
@@ -300,15 +395,6 @@
       <pubDate>Sun, 04 Jan 2026 18:00:00 +0000</pubDate>
       <content:encoded>오늘부터는 영화에 나오는 대사 내용을 소재로 다양한 영어 표현을 살펴볼까 합니다. 회화체 문구여서 실용적이고, 영화 장면을 상상할 수 있으니 더 재미있는 공부가 될 듯합니다. &lt;br&gt;&lt;br&gt;미국영화연구소(AFI)는 ‘미국영화 100선’ 같은 선정 작업으로 유명합니다. AFI가 2005년 선정한 ’미국 영화 명대사 100’, 여기서 1위로 뽑힌 대사를 보겠습니다. &lt;br&gt;&lt;br&gt;“Frankly, my dear, I don’t give a damn.”&lt;br&gt;&lt;br&gt;이 대사는 1939년 영화 ‘바람과 함께 사라지다(Gone with the Wind)’에서 레트 버틀러(클라크 게이블)가 마지막 순간 스칼렛 오하라(비비안 리)에게 던지는 말입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DOM3GME3TCYLGME2DIMTEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 소설 '바람과 함께 사라지다'의 초판본, 그리고 영화 '바람과 함께 사라지다' 포스터. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버틀러와 오하라의 인연은 이어질듯 끊어지고, 끊어졌다 다시 이어집니다. 영화 막바지에 스칼렛이 “이제 나는 어디로 가야 하지? 어떻게 해야 하지?” 하고 울면서 매달립니다. 레트가 이 한마디를 차갑게 던지며 문을 열고 떠나갑니다. 그리고 이렇게 말합니다. &lt;br&gt;&lt;br&gt;“솔직히 말해서, 내 사랑아, 내가 알 바 아니야.”&lt;br&gt;&lt;br&gt;오랜 사랑과 갈등 끝에 완전히 마음을 접는 순간을 단적으로 정리한 명대사로 꼽히지요.&lt;br&gt;&lt;br&gt;이 대사에 나오는 “not give a damn”은 “전혀 신경 쓰지 않다” “아무 관심도 없다” “내 알 바 아니다”라는 매우 강한 표현입니다. damn이라는 단어가 들어간 대단히 거칠고 무례한 어조이지요. 이 관용구 뒤에는 통상 전치사 about가 따라다닙니다.&lt;br&gt;&lt;br&gt;예를 들어 I don’t give a damn about what she thinks라고 하면 “나는 그녀가 무슨 생각을 하든 전혀 신경 쓰지 않는다”라는 의미이지요.&lt;br&gt;&lt;br&gt;damn은 라틴어 damnare(비난하다·저주하다)에서 유래한 단어로, 원래는 종교적 의미의 “저주하다”라는 뜻의 동사였는데, 점차 “빌어먹을” 같은 욕설로 쓰이게 됐습니다.&lt;br&gt;&lt;br&gt;그렇게 해서 ‘not give a damn’은 “전혀 중요하지 않아 저주 한마디조차 주지 않는다”라는 관용구로 굳어지게 된 겁니다. &lt;br&gt;&lt;br&gt;damn이 들어간 또 다른 표현으로는 not worth a damn(전혀 값어치 없는), not care a damn(전혀 신경 쓰지 않는) 등이 있습니다.&lt;br&gt;&lt;br&gt;‘not give a damn’과 같은 뜻을 가진 관용구로는 not care, couldn’t care less가 있습니다. “상관하지 않는다” “그보다 더 신경 안 쓸 수가 없다”라는 어감의 표현이지요.&lt;br&gt;&lt;br&gt;I don’t care what time the meeting starts. (회의가 언제 시작하든 난 상관 안 해)&lt;br&gt;&lt;br&gt;She couldn’t care less about office politics. (그녀는 사무실 정치 따위엔 털끝만큼도 개의치 않는다)&lt;br&gt;&lt;br&gt;not care a fig 또는 not give a fig라는 표현도 있는데요, fig는 ‘무화과’라는 뜻이지만, 여기에서는 ‘사소한 것’이라는 의미로 활용된 것입니다.&lt;br&gt;&lt;br&gt;He doesn’t give a fig for his boss’s opinion. (그는 상사의 의견 따위는 아예 신경도 안 쓴다) &lt;br&gt;&lt;br&gt;She doesn’t care a fig whether he comes or not. (그녀는 그가 오든 말든 전혀 신경 쓰지 않는다)&lt;br&gt;&lt;br&gt;not care a hoot 또는 not give a hoot라는 속어 관용구도 있습니다. hoot은 ‘폭소’ ‘비웃음’ 뜻 외에 ‘콧방귀’라는 의미로도 종종 사용됩니다. 여기선 우리말로 ‘콧방귀도 안 뀐다’라는 맥락으로 쓰인 것이지요.&lt;br&gt;&lt;br&gt;He doesn’t care a hoot what people say. (그는 사람들이 뭐라고 하든 전혀 신경 안 쓴다)&lt;br&gt;&lt;br&gt;They don’t give a hoot about the rules. (그들은 규칙 따위는 아예 신경도 안 쓴다)&lt;br&gt;&lt;br&gt;오늘의 표현 not give a damn은 공식적인 자리에선 쓰면 안 됩니다. damn이 욕설처럼 들려 상당한 거부감을 일으킬 수 있습니다. 대신 이렇게 표현하면 됩니다.&lt;br&gt;&lt;br&gt;I don’t really care. (아무 관심 없다)&lt;br&gt;&lt;br&gt;It doesn’t matter to me. (나에겐 중요하지 않다) &lt;br&gt;&lt;br&gt;I couldn’t care less. (전혀 관심이 안 간다)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DTCSJGBWFCUHDML7VTVLTGKKY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/CFXTA3HEYNCWBI4QGAD45MSPLE.gif?auth=766d491f6d9b345f4ccb4d12f3ce6ef0bfce79180e2fe6480f2cf66230095d2c&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
-    </item>
-    <item>
-      <title>‘종각역 사고’ 운전자도 70대 후반… 고령 면허자 10년새 2배, 반납은 2%뿐 </title>
-      <link>https://www.chosun.com/national/national_general/2026/01/05/TE6EWVK7YVH63PPD2HR2LK6D5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/TE6EWVK7YVH63PPD2HR2LK6D5M/</guid>
-      <dc:creator>구아모 기자, 최하연 기자, 원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TMMJVHAZDGODGHEZDSMBYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 6시쯤 서울 지하철 1호선 종각역 인근에서 택시가 인도로 돌진해 횡단보도에서 신호 대기 중이던 시민들을 들이받는 사고가 발생했다. 이 사고로 외국인 5명을 포함해 9명의 시민이 중경상을 입었으며, 이 중 40대 한국인 여성 1명은 심정지 상태로 발견돼 인근 병원으로 이송됐으나 끝내 사망했다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사망자 1명, 부상자 13명이 발생한 지난 2일 서울 종각역 차량 돌진 사고를 낸 70대 후반 택시 기사 A씨에 대해 경찰이 4일 구속영장을 신청했다. 사고 직후 A씨를 상대로 실시한 약물 간이 검사에서 모르핀 성분이 검출됐는데, 경찰은 감기약 등 병원 처방약을 장기간 복용한 결과일 수 있다고 보고 수사 중이다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 이날 A씨에 대한 구속영장을 신청하면서 교통사고처리 특례법 위반, 약물 운전 혐의(도로교통법 위반)와 함께 특정범죄가중처벌법상 위험 운전 치사상 혐의를 적용했다. 위험 운전 치사상은 음주 또는 약물 복용 이후 자동차 등을 운전해 피해자를 상해(최고 징역 15년) 또는 사망(최고 무기징역)에 이르게 한 경우 적용된다.&lt;br&gt;&lt;br&gt;종각역 인근 택시 돌진 사고는 지난 2일 오후 6시 7분쯤 발생했다. 택시는 서울 지하철 1호선 종각역 인근 횡단보도에서 보행자들과 전신주를 먼저 들이받은 뒤, 좌측으로 회전하면서 신호 대기 중이던 승용차 2대를 잇달아 추돌했다. 차에 받힌 40대 여성 1명은 심정지 상태로 심폐소생술(CPR)을 받으며 병원으로 이송됐지만 숨졌다. 나머지 부상자 13명은 생명에 지장이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “(운전하기 전) 감기약을 먹었다”고 진술한 것으로 전해졌다. 감기약의 코데인 성분은 체내에서 모르핀 구조로 바뀔 수 있다. A씨는 급발진을 주장하지는 않았고 “사고 당시가 잘 기억나지 않는다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCTNSOZUB5CC7C2TWTSGO3M444.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨 같은 65세 이상 고령 운전자 비율은 2014년 7%에서 2024년 14.9%로 10년 사이 2배 이상 늘었다. 65세 이상 운전자가 낸 교통사고도 2020년 3만1072건에서 2024년 4만2369건으로 증가하고 있다. 작년 10월 서울 용산구에서 70대 택시 기사가 페달을 오조작해 반대편 승용차와 충돌했다. 당시 사고로 택시에 타고 있던 20대 일본인 부부의 생후 9개월 된 딸이 숨졌다. 이달 3일 충남 당진에서도 77세 운전자가 몰던 승합차가 신호 없는 교차로에서 길을 건너던 70대 여성을 들이받았다. 이 여성은 심정지 상태로 병원에 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;정부는 고령 운전자 사고를 줄이기 위해 ‘운전면허 자진 반납 제도’를 시행하고 있다. 그러나 면허 반납률은 매년 2% 초반에 머물러 있다. 이는 고령화와 맞물려 생계 유지를 위해 운전대를 놓지 못하는 이른바 ‘생계형 고령 운전자’가 빠르게 증가하는 것도 영향을 미친다는 분석이다. 국가데이터처가 지난달 발표한 ‘한국의 사회동향’에 따르면 버스·택시·화물차 등 사업용 차량을 운전하는 고령자의 사고는 2005년 이후 연평균 10% 이상 증가하고 있다. 이수범 서울시립대 교통공학과 교수는 “월 3회 정도 택시 이용 쿠폰을 제공하는 등 노령 운전자들이 운전하지 않고도 이동할 수 있는 체계적인 제도를 설계해야 한다”고 했다.&lt;br&gt;&lt;br&gt;경찰청은 신체·인지 기능이 저하된 고위험군에 대해 야간·고속도로 통행 제한, 속도 제한, 안전장치 장착 차량만 운전 등의 조건을 부여하는 ‘조건부 면허제’도 검토 중이다.&lt;br&gt;&lt;br&gt;전문가들은 “고령 운전자들이 만성 질환으로 인지 능력을 저하시킬 수 있는 약물을 일상적으로 복용하는 경우가 많은데도 이를 관리하는 별도 규정이 전무하다”고 지적했다. 2024년 7월 70대 택시 기사가 서울 국립중앙의료원으로 돌진해 3명이 다쳤다. 이 기사는 간이 검사에서 모르핀 양성 반응이 나오자 “처방 약을 다량으로 복용하고 있다”고 했다. 오는 4월부터 약물 운전 처벌 수위를 높이는 법안이 시행되지만, 사후 처벌 강화에만 초점이 맞춰져 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;호주는 일부 주에서 의사 등 의료진이 환자의 운전 적합성 여부를 판단해 당국에 보고하는 시스템을 갖춰 관련 사고를 예방하고 있다. 영국은 의사가 환자의 운전 부적합 상태를 면허청(DVLA)에 직접 통보할 수 있는 고지 권한을 부여하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>2030년부터 신차 절반은 전기·수소차 의무화</title>
@@ -330,24 +416,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ME3TCOJQGFRDIZBSMJSDSYRWMQ.gif?auth=10101fac44a1f5727056261127c2710eb69dbcfa86f902911c254e791a3e3343&amp;smart=true&amp;width=800&amp;height=524" type="image/jpeg" height="524" width="800">
         <media:description type="plain">김현지 제1부속실장이 지난 12월 9일 서울 용산 대통령실 청사에서 열린 국무회의에 참석해 있다. photo 뉴시스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 서울대 교수 95% 호봉제 버리고 성과연봉제 택했다</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/05/AOSX4ROUXJFP3BDXWNYP4ET2XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/AOSX4ROUXJFP3BDXWNYP4ET2XU/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 20:00:00 +0000</pubDate>
-      <content:encoded>서울대가 교수들의 성과에 따라 연봉을 차등 지급하는 성과 연봉제 시행에 들어간 가운데 교수들의 95%가 종전 호봉제 대신 성과 연봉제를 선택한 것으로 4일 확인됐다. 서울대는 성과와 무관하게 연차가 쌓이면 일률적으로 월급이 오르는 호봉제를 시행해오다가 우수 교수 이탈이 잇따르자 작년 9월부터는 성과 연봉제와 호봉제 중 하나를 선택하도록 했다. 그런데 대부분이 성과에 따른 ‘연봉 차등 지급’을 선택했다는 것이다.&lt;br&gt;&lt;br&gt;본지가 입수한 ‘서울대 연봉·호봉제 선택 현황’ 문건에 따르면 정년을 보장받는 교수(정교수 및 일부 부교수 등 1534명) 중 연봉제를 택한 교수는 1467명(95.6%)이었다. 호봉제를 택한 교수는 67명(4.4%)에 불과했다. 성과 연봉제 시행에 따라 서울대는 교수 성과를 만족(S·Satisfied), 보통1(N1·Normal1), 보통2(N2), 불만족(U·Unsatisfied) 등 네 등급으로 평가해 성과급을 달리 지급한다. S 등급은 상위 5%(기준 성과급의 200%), N1 등급은 45%(기준 성과급의 150%), N2 등급은 50% 안팎(기준 성과급의 100%)이다. U 등급은 징계를 받거나 표절 문제가 불거진 교수 등이 해당되는데, 이들에겐 성과급이 지급되지 않는다. 서울대는 이 조사를 토대로 지난달 24일 성과연봉제에 따른 성과급을 처음으로 지급한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;특히 근속 연수가 11~20년인 교수들은 전원 성과연봉제를 선택했고, 근속 21년 이상인 교수들은 약 96%가 성과연봉제를 택했다. 한 서울대 교수는 “연구를 가장 왕성하게 할 10~20년차 교수들은 대부분 연봉제를 택했다”며 “정년을 1~2년 앞둔 ‘말년 교수’들이 상당수 호봉제를 유지한 것으로 나타났다”고 했다.&lt;br&gt;&lt;br&gt;성과연봉제 도입 이후 승진 신청을 하는 교수 비율도 늘어난 것으로 나타났다. 오는 3월부터 서울대에 임용될 정교수·부교수로 승진을 신청한 부교수·조교수는 승진 대상자 대비 각각 46.9%, 64.0%로 파악됐다. 서울대 부교수들의 정교수 승진 신청 비율은 최근 40% 미만이었지만 성과연봉제 도입 이후 40%를 처음으로 넘겼다. 서울대의 한 보직 교수는 “성과연봉제 대상을 정년 보장 교수로 한정하면서, 정교수로 승진해 책임을 지는 만큼 확실한 보상을 받겠다는 분위기가 조금씩 형성되고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 재판 도중 “내 남편은 부장판사”... 문병욱 딸의 변론 논란</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/05/327I4EYZ2JA7DD2BUVSPPUYGFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/327I4EYZ2JA7DD2BUVSPPUYGFU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 20:00:00 +0000</pubDate>
-      <content:encoded>문병욱 라미드그룹(옛 썬앤문그룹) 회장의 딸이자 라미드그룹 계열사 대표인 문모씨가 자신의 민사 소송에서 재판부에 “남편이 현직 부장판사”라고 수차례 밝힌 것으로 4일 확인됐다. 이를 두고 법조계에선 “남편이 현직 법관이라는 점을 강조해 유리한 판결을 받으려고 시도한 것 아니냐”는 지적이 나온다.&lt;br&gt;&lt;br&gt;이 사건은 문씨가 대표로 있던 회사가 지은 서울 강남의 한 아파트 계약자들과 분양·매수 계약을 두고 다툼을 벌인 것이 발단이다. 갈등이 심해지자 계약자들은 SNS에 ‘문씨가 상습 음주운전을 했다’ ‘부친인 문병욱 회장은 성매매에 관여했다’ 등 비방성 게시물을 올렸다. 그러자 문 회장과 문씨 측이 “게시물을 삭제하라”며 가처분 소송을 낸 것이다. 문 회장은 노무현 전 대통령의 고교 후배로 과거 노 전 대통령 측에 대선 자금을 건넨 혐의로 유죄가 확정됐고, 이후 성매매 알선 혐의로 처벌받았다.&lt;br&gt;&lt;br&gt;그런데 문씨 변호인단은 재판부에 낸 서면에서 문씨 남편이 서울의 한 법원에 근무 중인 현직 판사라는 점을 여러 차례 강조했다고 한다. 문씨 측은 의견서에서 “계약자들은 문씨 남편이 현직 부장판사(OO법원 근무 중)라는 점을 악용했다” “현직 법관의 아내로서 치욕스러운 공격에 노출됐다” “청렴이 생명인 현직 부장판사 문씨 남편이 침해받을 법익이 심히 크다” 등의 주장을 담았다. 다만 남편의 실명은 공개하지 않았다.&lt;br&gt;&lt;br&gt;이에 대해 법원 한 관계자는 “사건과 크게 관련도 없는데 소송 당사자가 남편이 판사라고 반복해 언급하는 것은 부적절하다”고 했다. 서면을 검토한 서울중앙지법 민사51부(재판장 박상언)는 최근 게시물 삭제 결정을 내렸다.&lt;br&gt;&lt;br&gt;문씨 측 관계자는 “계약자들이 SNS를 통해 문씨에 대한 허위 사실을 퍼뜨리고, 남편이 판사라는 점을 거론해 큰 두려움을 느꼈다. 이에 맞대응하는 과정에서 부득이하게 남편 신원을 밝히게 된 것”이라고 해명했다. 문씨 남편은 소송 사실 자체를 몰라 사건과 무관하다고도 주장했다.&lt;br&gt;&lt;br&gt;문씨를 대리한 한 변호인은 “계약자들이 SNS에 남편이 먼저 판사라고 언급했기 때문에 서면에 관련 내용을 적은 것뿐”이라며 “판결에 영향을 미치려는 의도로 남편 신원을 공개한 것이 아니다”고 말했다. 이어 “문씨가 허위 사실을 퍼뜨린 계약자들을 상대로 명예훼손 등 혐의로 형사 고소도 진행한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[굿모닝 멤버십] 새해에는 당하지 말자… 요즘 해커들 타겟은</title>
@@ -410,24 +478,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 드론으로 촬영한 부산 사하구 다대포해수욕장. 겨울 바람이 강하게 불어 백사장에 물결 무늬가 생겼다. 고운 모래가 쌓여 사막처럼 보인다. 이날 부산과 울산, 강원·경북 동해안 지역에는 건조특보가 발령된 가운데 강한 바람이 불었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 김숙자씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/05/G5XQDXNMWNCFJCYWNQ6YOOFESU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/05/G5XQDXNMWNCFJCYWNQ6YOOFESU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김숙자&lt;/b&gt; 별세, &lt;b&gt;김현미&lt;/b&gt;·&lt;b&gt;김정현&lt;/b&gt;·&lt;b&gt;김한집&lt;/b&gt;·&lt;b&gt;김정억&lt;/b&gt; 지엠컴 상무 모친상, &lt;b&gt;이문석&lt;/b&gt; 장모상, &lt;b&gt;허예란&lt;/b&gt;·&lt;b&gt;이경화&lt;/b&gt;·&lt;b&gt;서지은&lt;/b&gt; 시모상=3일8시44분 여의도성모병원, 발인 5일7시, (02)3779-1526&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박종문&lt;/b&gt; 前 원주 산현초 교장 별세, &lt;b&gt;장은순&lt;/b&gt; 남편상, &lt;b&gt;박도순&lt;/b&gt; 한국펌프 앤 시스템즈 상무·&lt;b&gt;박애경&lt;/b&gt;·&lt;b&gt;박윤경&lt;/b&gt;·&lt;b&gt;박우진&lt;/b&gt; 한국과학연구원 수석연구원 부친상, &lt;b&gt;송윤성&lt;/b&gt; 한국열쇠협회 이사 장인상, &lt;b&gt;정미경&lt;/b&gt;·&lt;b&gt;정수연&lt;/b&gt; 시부상=2일23시50분 강동경희대병원, 발인 5일7시30분, (02)440-8800&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오만득&lt;/b&gt; 별세, &lt;b&gt;오애란&lt;/b&gt;·&lt;b&gt;오부현&lt;/b&gt;·&lt;b&gt;오부경&lt;/b&gt;·&lt;b&gt;오부명 &lt;/b&gt;경북경찰청장 부친상, &lt;b&gt;박미옥&lt;/b&gt;·&lt;b&gt;임경숙&lt;/b&gt; 시부상=3일0시55분 쉴낙원 양산시민장례식장, 발인 5일10시30분, (055)381-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오판수&lt;/b&gt; 별세, &lt;b&gt;오상범&lt;/b&gt;·&lt;b&gt;오한근&lt;/b&gt;·&lt;b&gt;오현&lt;/b&gt;·&lt;b&gt;오희&lt;/b&gt;·&lt;b&gt;오진&lt;/b&gt; 부친상, &lt;b&gt;안찬수&lt;/b&gt; 내일신문 주필·&lt;b&gt;김성준&lt;/b&gt; 장인상, &lt;b&gt;유성은&lt;/b&gt;·&lt;b&gt;이경애&lt;/b&gt; 시부상=3일10시 광주광역시 그린장례문화원, 발인 5일9시, (062)250-4455&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이상화&lt;/b&gt; 별세, &lt;b&gt;강우영&lt;/b&gt; 제일기획 경영지원실장·&lt;b&gt;강우혁&lt;/b&gt; 진성씨앤아이 전무·&lt;b&gt;강주화&lt;/b&gt; 모친상, &lt;b&gt;은성한&lt;/b&gt; 유진엠에스 소장 장모상=3일4시50분 삼성서울병원, 발인 5일11시, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이호남&lt;/b&gt; 별세, &lt;b&gt;박경한&lt;/b&gt; 아내상, &lt;b&gt;박균섭&lt;/b&gt;·&lt;b&gt;박균철&lt;/b&gt;·&lt;b&gt;박균택 &lt;/b&gt;더불어민주당 국회의원 모친상, &lt;b&gt;최정희&lt;/b&gt;·&lt;b&gt;고지연&lt;/b&gt;·&lt;b&gt;이병희&lt;/b&gt; 시모상, &lt;b&gt;박창용&lt;/b&gt;·&lt;b&gt;박전용&lt;/b&gt;·&lt;b&gt;박민용&lt;/b&gt;·&lt;b&gt;박소영&lt;/b&gt;·&lt;b&gt;박승민&lt;/b&gt;·&lt;b&gt;박주영&lt;/b&gt;·&lt;b&gt;박해강&lt;/b&gt;·&lt;b&gt;박정훈&lt;/b&gt; 조모상=4일10시30분 광주광역시 빛장례식장, 발인 6일9시, (062)452-4000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조문자&lt;/b&gt; 별세, &lt;b&gt;손수연&lt;/b&gt; 조선일보 CS성주센터 대표 장모상=4일5시15분 대구 한성병원, 발인 6일8시30분, (053)253-3444&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[어떻게 생각하십니까?] 국토부 “코레일, 안전 책임자 1000명 지정하라”</title>
-      <link>https://www.chosun.com/national/labor/2026/01/05/GSHMQGECJ5B4TD27QQVB3POD3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/01/05/GSHMQGECJ5B4TD27QQVB3POD3Y/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MLQ3CVHZZEYDELXRKMVZL5GB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국철도노동조합(철도노조) 조합원들이 지난달 2일 서울역 광장에서 열린 총파업 예고 기자회견 시작에 앞서 청도 무궁화호 사고 등에 대한 묵념을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 코레일 직원 1000명을 모든 선로 공사 현장에 ‘안전 책임자’로 임명하는 방안을 추진한다. 이는 지난해 8월 외주 업체 직원 2명이 사망하는 등 7명의 사상자가 발생한 청도역 사고의 후속 대책으로 ‘위험의 외주화’를 막겠다는 취지다. 감리(監理) 역할을 하는 안전 책임자는 공사 현장에서 발생하는 사고에 대한 책임을 지게 된다.&lt;br&gt;&lt;br&gt;이 같은 정책은 일명 ‘노란봉투법’(노동조합 및 노동관계조정법)을 통해 원청의 책임을 강화하는 정부 정책 기조와도 맞닿아 있다는 분석이다. 원청인 코레일이 하청 업체에서 발생하는 사고를 막기 위해 더 신경을 쓰라는 취지다. 그러나 일각에선 외주 업체에서 일어난 사고에 대해 무조건 코레일이 책임을 지라는 건 지나치다는 비판도 나온다. 전문성이 없는 코레일 직원이 안전 책임자를 맡을 경우 안전 업무가 부실화될 수 있는 데다, 노란봉투법에 따라 코레일이 외주 업체의 사용자가 될 가능성도 있기 때문이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 국토교통부는 최근 이런 내용을 골자로 한 ‘경부선 청도 작업자 사망 사고 안전 대책 알림 공문’을 코레일에 발송했다. 이 같은 정책 추진은 청도 사고처럼 외주 업체에서 사고가 났을 때 누가 책임을 지느냐는 문제와 직결돼 있다. 코레일은 선로 작업의 규모나 종류에 따라 직접 감리 업무를 하기도 하고, 외부에 맡기기도 한다. 만약 정부 방침대로 안전 책임자 지정이 이뤄지면 외주 업체 사고에서도 코레일이 전적으로 책임져야 할 가능성이 커진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJY2VN5SXFFGZGGHBGEQNH7CDM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토부는 코레일이 이제껏 본인들이 져야 할 책임을 회피해 왔다는 입장이다. 철도안전법 등에 안전 책임자(작업 책임자)를 지정하게 돼 있는데, 외주 용역을 주는 경우엔 이를 하청 업체에 떠넘겨 왔다는 것이다. 코레일이 1년에 외주 용역을 주는 건 1000~1500건 정도로, 사망 사고는 대부분 여기서 발생한다. 국토부 관계자는 “철도 안전법 취지를 감안했을 때 선로 안전 책임은 코레일이 지는 게 맞는다”고 했다.&lt;br&gt;&lt;br&gt;반면 코레일 측은 정부 정책이 오히려 안전 문제를 악화시킬 것이라고 반박한다. 안전 책임자를 반드시 코레일 직원으로 지정할 이유가 없는데다, 내부 인원으로만 안전 문제를 처리하면 감시 체계가 제대로 작동하지 않을 수 있다는 것이다. 코레일 노조 측은 “안전에 대한 전문성이 없는 코레일 관계자가 직을 맡으면 문제가 더 커질 수 있고, 증원 없이 코레일 본사 전체 인력과 맞먹는 1000명을 확보한다는 것도 비현실적”이라고 했다.&lt;br&gt;&lt;br&gt;코레일이 외주 업체의 안전 관련 업무에 깊숙이 관여하면 노란봉투법상 사용자로 인정될 가능성도 있다. 노란봉투법에 따르면 원청이 하청의 안전·보건 관리 체계를 지배·통제하는 경우 사용자성이 인정된다. 하청 노조가 코레일이 안전 책임을 지는 점을 들며 교섭을 요구할 수도 있는 것이다. 정부 관계자는 “사용자성 확대 등 문제가 있는지는 검토해 보겠다”며 “1000명 확보 방안 마련을 위해 연구 용역을 시행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“엄마, 말이 신기하게 생겼어요”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/01/05/PWBTVFS3KZABLLA5S52LL2RXDE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/05/PWBTVFS3KZABLLA5S52LL2RXDE/</guid>
@@ -474,16 +524,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7KTZIZNKVAI3FBRGGQ7TU6PBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;캐리 파울러 지음 l 허형은 옮김 l 출판사 마농지 l 가격 2만5000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘노아의 방주’ 이야기를 들어본 사람이 많지요? 방주는 네모 모양 배입니다. 이야기 속에서는 신이 세상을 뒤덮는 큰 홍수를 일으켜 인간에게 벌을 주지요. 노아는 홍수가 일어나기 전 미리 큰 방주를 만들어 온갖 동물을 싣고 홍수를 피합니다. 홍수가 끝난 뒤 동물들은 땅에 내려와 자손을 낳고 생명을 이어갑니다. 각종 식물의 씨앗을 보관하고 있는 스발바르 국제종자저장고는 ‘현대판 노아의 방주’라고 불려요. 북극과 가까운 노르웨이령 스발바르제도의 바위산 플라토베르게에 있습니다.&lt;br&gt;&lt;br&gt;2008년 완공된 저장고는 해발 고도 약 130m 높이의 바위산에 있습니다. 영구 동토층(2년 이상 평균 온도가 0도 이하인 땅)에 수평으로 146m 길이 터널을 파고 끝 부분에 창고 3개를 만들었어요. 저장고에는 전 세계 1750개 종자은행(씨앗을 보관하는 시설)에서 보내온 100만 종 이상, 5억개 이상의 종자 표본이 보관돼 있습니다. 우리나라도 44종, 2만3185개 토종 종자를 맡겼습니다. 종자 소유권은 종자를 맡긴 기관에 있고, 원하면 언제든 다시 꺼낼 수 있습니다.&lt;br&gt;&lt;br&gt;국제종자저장고는 왜 스발바르제도에 있을까요? 전쟁이나 테러, 자연 재난, 환경오염에서 먼 곳이기도 하지만 가장 중요한 이유는 영하 18도를 유지하는 냉각 장치가 고장 나도 영구 동토층이 천연 냉동고가 될 수 있기 때문입니다. 지구온난화로 해수면이 상승해도 높은 산에 자리 잡고 있어 끄떡없습니다. 가장 중요한 질문이 남았습니다. 왜 이런 저장고가 필요할까요?&lt;br&gt;&lt;br&gt;19세기 미국에서 재배된 콩 578종 가운데 20세기 말까지 남아 있던 것은 32종입니다. 같은 기간 양배추는 544종에서 28종으로, 당근은 287종에서 21종으로 줄었습니다. 우리나라에서는 1985년에 재배되던 토종 벼 5171종이 1993년 908종으로 줄었습니다. 개량을 하면서 많은 종자가 멸종됐습니다. 종자의 다양성이 줄어들수록 남은 종은 병충해나 기후 변화 등 충격에 약해지고 인류의 생존도 위협받게 되지요.&lt;br&gt;&lt;br&gt;뜻하지 않은 사고나 질병에 대비해서 가입하는 보험은 보험금을 받아야 하는 상황이 발생하지 않는 것이 좋습니다. 국제종자저장고도 마찬가지입니다. 종자를 꺼낼 일이 없는 것이 좋지요. 시리아에 본부가 있는 국제건조지역농업연구센터는 2011년 국제종자저장고에 11만6000종의 종자를 맡겼습니다. 그러나 2015년 9월 이 종자들을 다시 돌려받았습니다. 시리아 내전으로 시리아에 보관 중이던 종자들이 대부분 소실됐기 때문입니다. 이 책의 저자이자 국제종자저장고 계획을 이끈 캐리 파울러는 이를 두고 “저장고를 건립 목적에 따라 이용하는 마지막 사례이기를 바란다”고 말했습니다.&lt;br&gt;&lt;br&gt;사과, 수박, 감, 대추 같은 과일을 먹을 때가 아니면 우리가 식물의 씨앗을 볼 기회는 별로 없습니다. 어떤 식물의 씨앗이 사라지면 지구에 사는 생명의 운명이 바뀔 수도 있습니다. 스발바르 국제종자저장고는 평소에 보기 힘든 씨앗 하나하나의 소중함을 일깨워줍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [명화 돋보기] 순수한 영혼 가진 생명체… 화가들 사랑 받았어요</title>
-      <link>https://www.chosun.com/national/nie/2026/01/05/ZXWPSLMORRDZJGKFTRD2KM7EXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/05/ZXWPSLMORRDZJGKFTRD2KM7EXY/</guid>
-      <dc:creator>이주은 건국대 문화콘텐츠학과 교수, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:39:00 +0000</pubDate>
-      <content:encoded>올해 초는 말처럼 한 해를 멋있고 힘 있게 살아보자는 신년 인사가 곳곳에서 들립니다. 병오년이 말띠 해이기 때문이죠. 말을 생각하면 말을 탄 영웅, 경마장의 말, 마차, 그리고 초원을 달리는 얼룩말 등이 떠오릅니다. 말은 크게 두 부류로 나눌 수 있을 거예요. 자유로운 야생마와 마구간에 묶인 길들인 말입니다. &lt;br&gt;&lt;br&gt;말은 자유로운 본성을 지니고 있어서 인간의 도움이 없어도 자연에서 스스로 살아갈 수 있는 동물이에요. 하지만 튼튼하고 성품이 순해서 오래도록 인간과 함께해 왔어요. 사람들은 채찍으로 말을 길들여 말 등에 타거나 무거운 짐을 실어 옮기게 했어요. 말발굽에 편자(U자 모양의 쇳조각)를 박아 하루 종일 마차를 끌게도 하고요. 말을 이동 수단으로 사용한 것이죠.&lt;br&gt;&lt;br&gt;오늘은 말의 해를 맞아 말에 애정을 가지고 그림을 그린 화가들을 찾아보고, 말이 주인공으로 등장하는 그림을 살펴보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOZF7PAOTFH5DAUZIE3YA7WDRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30년 넘게 말을 그린 화가 조지 스텁스의 ‘휘슬자켓’. 휘슬자켓은 경주에서 우승한 말의 이름으로, 스텁스가 휘슬자켓 주인의 요청을 받고 그렸어요. /런던 내셔널 갤러리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;명마(名馬) 초상화&lt;/b&gt;&lt;br&gt;&lt;br&gt;18세기 말에 활동한 영국의 조지 스텁스(1724~1806)는 30년이 넘도록 말을 그린 말 전문 화가예요. 그는 살아 있는 말처럼 생생하게 그리려고 부단히 노력했는데요. 죽은 말을 해부한 것을 관찰하며 근육과 혈관 모양을 공부했고, 수시로 연습 스케치를 했습니다. &amp;lt;작품 1&amp;gt;은 스텁스가 그린 ‘휘슬자켓’이에요. 휘슬자켓은 경주에서 우승한 말의 이름으로, 말 주인의 요청을 받아 그린 것입니다. 이 그림은 사람이 아닌 말이 주인공으로 나오는 당시 획기적인 ‘말 초상화’였죠. &lt;br&gt;&lt;br&gt;작품 ‘휘슬자켓’에는 스텁스의 풍부한 동물 해부학 지식이 그대로 드러납니다. 안장을 얹지 않아서 사람으로 치면 벗은 몸처럼 근육이 잘 표현돼 있어요. 마치 보정한 사진처럼 연습과 경기로 생긴 상처나 흠집이 전혀 눈에 띄지 않고, 반질반질 윤기 있는 털을 가진 완벽하게 아름다운 자태로 등장합니다. 말의 모습에 집중할 수 있도록 배경은 사진관처럼 아무것도 없이 어두운 단색으로 칠해져 있어요. 말을 사람의 초상화 형식에 맞추어 그린 것입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2D3NBGEUBBBEJK6ELVKOEW2TRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;앙리 드 툴루즈 로트레크의 그림 ‘백마 가젤’. 열 살쯤 성장이 멈춘 로트레크는 열일곱 살 때 이 그림을 그렸습니다. /알베르티나 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&amp;lt;작품 2&amp;gt;는 가젤이라는 이름의 백마를 그린 ‘백마 가젤’입니다. 이 말의 주인이자 화가인 앙리 드 툴루즈 로트레크(1864~1901)는 프랑스에서 손꼽힐 만큼 이름 있고 부유한 집안의 장남으로 태어나 부모의 큰 기대를 받으며 자랐어요. 하지만 선천적으로 뼈가 약했던 그는 열 살 무렵부터 연이은 골절로 고생했고 곧 성장이 멈추고 말았습니다. ‘백마 가젤’은 로트레크가 열일곱 살 되던 해에 그린 거예요.&lt;br&gt;&lt;br&gt;그가 남들처럼 건강하게 자랐더라면 이 잘생기고 우아한 흰 말의 등에 올라타 마음껏 바람을 맞으며 달렸겠지요. 하지만 빗장으로 잠겨 갇혀 있는 이 말은 달리지도 못하고 마냥 주인을 기다리고만 있어요. 스무 살이 된 그는 가젤에게 새 주인을 찾아주고자 이별을 고하고, 가난한 화가들이 모여 사는 파리의 몽마르트르로 향합니다. 가젤은 명마가 됐고, 7년이 지난 후 로트레크는 시선을 확 사로잡는 감각적인 광고 포스터를 그려 그 분야의 최고가 되지요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GJ6F6YAUZDSZMO5ED42NKSFOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; ‘말 시장’. 여성 화가 로자 보뇌르의 그림입니다. 보뇌르는 말을 편하게 관찰하기 위해 머리카락을 짧게 자르고 치마 대신 바지를 입었어요. /메트로폴리탄 박물관
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;날뛰는 말을 그린 여성 화가&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;lt;작품 3&amp;gt;은 말 시장에서 아직 주인을 만나지 못한 말들을 보여줍니다. 길들여지지 않은 채 날뛰고 있죠. 19세기 프랑스 화가 로자 보뇌르(1822~1899)가 제작한 ‘말 시장’이라는 작품으로, 가로 5m가 넘는 커다란 캔버스에 그려졌어요. 보뇌르가 살던 때는 여자가 말처럼 움직임이 많은 동물을 그리는 전문 화가로 활동하는 데 제약이 많았던 시기였어요. 그는 말의 다양한 동작을 하나하나 스케치로 그리면서 연구하려고 말 시장에서 매일 살다시피 했어요.&lt;br&gt;&lt;br&gt;그렇지만 말을 따라 뛰어다니며 관찰하기에 긴 치마는 골칫거리였고, 긴 곱슬머리는 바람 때문에 엉켜 빗질이 되지 않았죠. 보뇌르는 머리카락을 짧게 자르고, 여자는 꼭 치마를 입어야 한다는 당시의 엄격한 전통을 어기고, 경찰청에 바지를 입게 해달라고 허가 요청을 냈습니다. 경찰은 이를 허가해 줬죠. 그로 인해 여성으로서 평범하게 살 수는 없었지만, 동물을 실제처럼 자연스럽게 그리는 데 최고 수준이라는 만인의 인정을 받게 됐답니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLTBVIRETBFLDA4Y2MF3D7FSB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프란츠 마르크의‘거대한 푸른 말들’. /워커 아트센터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;말의 순수한 영혼&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;lt;작품 4&amp;gt;는 독일의 프란츠 마르크(1880~1916)가 그린 ‘거대한 푸른 말들’이에요. 마르크는 말의 겉모습보다는 내면의 영혼을 화폭에 담으려 했어요. 그는 말을 볼 때마다 가슴이 뛰었다고 해요. 사악함이 전혀 깃들지 않은 순수한 영혼을 가진 생명체로 느껴졌대요.&lt;br&gt;&lt;br&gt;색 중에서는 파란색이 정신적으로 가장 고결한 상태를 나타낼 수 있다고 그는 생각했어요. 파란 말을 타고 오는 사람은 오염된 인간 사회를 구원할 예언자와도 같은 존재일 거라고 믿기도 했습니다. 마르크는 20세기 초 독일의 표현주의(객관적 사실보다 주관적 감정을 표현하는 예술) 그룹인 ‘청기사파’로 활동했는데, 청기사가 바로 푸른 말을 탄 사람을 뜻해요. ‘거대한 푸른 말들’은 말의 순수한 영혼과 파란색의 고결함이 합쳐진 그림입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [식물 이야기] 나이 들수록 하얘지는 소나무… ‘헌법재판소 백송’ 한국서 가장 오래됐대요</title>
       <link>https://www.chosun.com/national/nie/2026/01/05/QV43ABUMYRATFOUTOXUO2G3EBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/05/QV43ABUMYRATFOUTOXUO2G3EBY/</guid>
@@ -492,42 +532,6 @@
       <pubDate>Sun, 04 Jan 2026 15:39:00 +0000</pubDate>
       <content:encoded>김연수의 단편 ‘쉽게 끝나지 않을 것 같은, 농담’엔 서울 종로구 재동 헌법재판소(헌재)에 있는 백송이 중요한 소재로 나옵니다. 주인공은 우연히 지하철에서 1년 전 이혼한 여자와 만나 안국역에서 내려 골목길을 정처 없이 걷습니다. 그런데 같이 걸은 길을 지도에 표시해 보고, 어떤 나무 한 그루를 중심으로 돌았다는 것을 깨닫습니다. 바로 헌재 백송이었습니다. 소설은 이것이 우연인지 아닌지, 농담인지 아닌지를 묻습니다. 그러면서 ‘삶의 행로가 하나의 거대한 농담’일 수도 있다는 생각에 이릅니다.&lt;br&gt;&lt;br&gt;헌재 백송은 추정 수령이 600년 이상인, 우리나라에서 가장 오래된 백송입니다. 지금부터 600년 전이면 세종 초기입니다. 이곳에 헌재가 들어서기 전에는 창덕여고가 있었고, 그 전에는 연암 박지원의 손자이며 개화파 주요 인물인 우의정 박규수의 집터였다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVYM33LPVZGRZNJMXC2X6O25HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소에 있는 백송. 이 나무는 600년이 넘은 것으로 추정됩니다.
 /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가까이서 보면 천연기념물인 이 백송의 위용을 실감할 수 있습니다. 높이는 17m이고 지표면에서부터 75㎝ 높이에서 줄기가 두 갈래로 갈라져 V자 모양을 만들고 있습니다. 가까이 다가가면 혹시 흰 페인트를 칠해 놓은 것 아닌가 싶을 정도로 나무껍질이 새하얀 색입니다. 2024년 말 폭설에 가지 5곳이 찢어지거나 부러지는 피해를 입었지만 잘 견디고 있습니다.&lt;br&gt;&lt;br&gt;백송은 중국이 원산지로, 헌재 백송도 조선 시대에 중국을 왕래하던 사신들이 가져다 심은 것이라고 합니다. 백송은 젊어서는 나무껍질이 푸르스름하지만 나이가 들면서 상당히 큰 얼룩무늬로 벗겨지면서 흰빛을 띱니다. 그래서 이름이 백송(白松)입니다. 상당히 나이를 먹어야만 제대로 된 백송 색깔이 나온다고 합니다. 백송은 바늘잎(바늘처럼 가늘고 길게 생긴 침엽수 잎)이 3개씩 모여 나는 것으로도 구분할 수 있습니다. 소나무, 곰솔, 반송은 바늘잎이 2개씩, 리기다소나무와 백송은 3개씩, 잣나무는 5개씩 모여 달립니다.&lt;br&gt;&lt;br&gt;백송은 우리나라에 들어온 지 오래됐지만 씨앗 발아율이 낮은 데다 옮겨 심으면 죽는 경우가 많아 널리 퍼지지 못했습니다. 그래서 고목의 수도 적습니다. 헌재 백송 외에 서울 조계사 백송, 경기 고양 송포 백송, 경기 이천 신대리 백송, 충남 예산 용궁리 백송 등이 천연기념물로 지정돼 관리를 받는 정도입니다. 대부분의 천연기념물 백송이 수도권에 있는 것도 특징입니다. 과거 중국에 왕래할 만한 고위 관리가 주로 수도권에 살았기 때문이라고 합니다. 예산 백송은 추사 김정희가 베이징에 사신 수행원으로 갔다가 가져와 심은 것이라고 합니다. 서울 창경궁 춘당지 옆에도 나무껍질이 눈이 부실 정도로 새하얀 백송 세 그루가 자라고 있습니다.&lt;br&gt;&lt;br&gt;요즘에는 발아율을 높이는 기술과 뿌리분(나무를 옮겨 심을 때 뿌리 부분을 어느 정도 크기의 덩어리로 만든 것)을 크게 떠서 잘 이식하는 방법 등이 알려져 곳곳에서 백송을 볼 수 있습니다. 다만 대부분 나무껍질이 아직 푸르스름한 젊은 나무들입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 말살(抹殺)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/01/05/54RCA6NSDJD3TPTQK7OS5BZQ7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/01/05/54RCA6NSDJD3TPTQK7OS5BZQ7M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDG5YUAON5HN7OTPRGBDWK4Z6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] find one’s feet</title>
-      <link>https://www.chosun.com/national/nie/english/2026/01/05/R52542E7UZDHBKQW6RE7RXJ4MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/01/05/R52542E7UZDHBKQW6RE7RXJ4MM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REBNQ55MY5COTAOZQDP2LIWPZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 망설이다, 주저하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/01/05/EJTYNIVRJBFQFIB37AO365XQRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/01/05/EJTYNIVRJBFQFIB37AO365XQRU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FJFUEBGQNA5JDWE52NIMAWJTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 복주머니를 사다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/01/05/MEYGQCCH75EMJKB6K4AALCKBBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/01/05/MEYGQCCH75EMJKB6K4AALCKBBY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRC5PYULJ5DQVNTJKLT6ZN4XHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 쓰레기통 악취에 신문지</title>
