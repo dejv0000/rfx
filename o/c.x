@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘서해 피살 공무원’ 유족, 국무총리·중앙지검장 공수처 고발한다</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/05/XNMTSS3NMFGMHMO5KLH77SPYV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/XNMTSS3NMFGMHMO5KLH77SPYV4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 05:22:41 +0000</pubDate>
+      <content:encoded>서해 피살 공무원 고(故) 이대준씨의 유족이 오는 7일 김민석 국무총리와 박철우 서울중앙지검장을 직권남용 혐의로 고위공직자범죄수사처에 고발할 예정이라고 밝혔다. 정성호 법무장관에 대해선 국가인권위원회에 진정을 제기할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRGMNZRGRRTGOJTMQYDCNRXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘서해 피살 공무원’ 고(故) 이대준씨의 친형 이래진씨가 지난달 26일 서울 서초구 중앙지방법원에서 열린 1심 선고 공판을 마친 후 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유족을 대리하는 김기윤 변호사는 5일 고발 이유에 대해 “김 총리는 서해 공무원 피살 사건에 대한 검찰의 기소를 공개적으로 ‘조작 기소’라고 하면서 항소 포기가 당연하다는 취지로 말했다”며 “검찰의 항소에 부당한 정치적 압박을 가했다”고 했다. 박 지검장에 대해선 “수사 검사 및 실무 검사들이 제시한 항소 의견에 대해 재검토를 지시하면서 국가 책임과 직결된 직권남용·은폐 등 핵심 공소사실에 대한 항소를 포기했다”며 “선택적·전략적인 ‘반쪽짜리 항소’가 직권남용에 해당하는지 파악할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;유족 측은 정성호 법무장관에 대해서는 오는 6일 국가인권위원회에 진정을 제기하기로 했다. 김 변호사는 “정 장관은 지난 2일 서해 공무원 피살 사건을 두고 ‘정치적 사건이자 정치 보복 수사’라고 말했다”며 “피해자의 죽음과 유족의 문제 제기를 정치적이라고 왜곡하고 낙인찍어 인권과 명예를 침해한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;이번 고발과 진정은 서울중앙지검이 지난 2일 이 사건 피고인 5명 중 서훈 전 청와대 국가안보실장, 김홍희 전 해양경찰청장 등 2명에 대해서만 항소한 데 따른 것이다. 중앙지검은 “이씨의 월북 여부가 불분명한 상황에서 자진 월북한 것으로 오인될 수 있는 수사 결과를 발표하고, 망인과 유족의 명예를 훼손한 부분에 대해 항소를 제기했다”고 설명했다. 2020년 9월 이씨가 서해에서 북한군에 피살·소각된 사실을 은폐하기 위해 국정원과 국방부 첩보를 삭제하도록 지시한 혐의로 기소된 박지원(현 국회의원) 전 국가정보원장, 서욱 전 국방부 장관, 노은채 전 국정원장 비서실장은 무죄가 확정된 것이다.&lt;br&gt;&lt;br&gt;이에 대해 유족 측은 지난 3일 “검찰이 항소권이란 권력을 특정 고위 공직자를 보호하는 수단으로 사용했다”며 강하게 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무면허 운전 걸리자 “100만원 줄 테니 봐달라” 외국인 벌금형</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/AXTQBE2H3ZG4JIYWYUT7WAHUVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/AXTQBE2H3ZG4JIYWYUT7WAHUVE/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 04:51:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4DENDGMM3WIOLFMU4DKMJUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지방법원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 광진구에서 도로에서 무면허로 운전한 뒤 경찰에 단속되자 상황을 무마하려 현금을 건네려고 한 30대 외국인 남성이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사11단독 서보민 판사는 지난달 24일 도로교통법위반 및 뇌물공여의사표시 혐의로 재판에 넘겨진 외국인 한모(39)씨에 대해 벌금 700만원 선고한 것으로 5일 알려졌다. &lt;br&gt;&lt;br&gt;한씨는 지난해 8월 광진구의 한 도로에서 약 7km를 면허 없이 운전했다. 이후 경찰에 단속되자 범행을 무마하기 위해 갖고 있던 100만원권 수표 1장을 건네려 해 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 양형 이유에 대해 “면허 없이 운전하고 단속되자 담당 경찰공무원에게 뇌물을 주려했다”며 “잘못을 인정하는 점, 국내에서 처벌받은 적이 없는 점 등을 종합했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BTS 정국 집 또 찾아간 외국인 女… 우편물 던지고 사진 걸며 난동</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/SY3JLM4YCFAQVKWFYTBC6JLSKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/SY3JLM4YCFAQVKWFYTBC6JLSKY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 04:43:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZWKYLBMMYDGNZSMZSWIOJYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 방탄소년단(BTS) 멤버 정국. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버 정국(29·본명 전정국)의 주거지를 반복해 찾아간 외국인 여성이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;5일 경찰 등에 따르면, 서울 용산경찰서는 전날 오후 2시 50분쯤 용산구 소재 정국의 주거지에서 난동을 부리는 사람이 있다는 보안 요원의 신고를 받았다. 이후 스토킹 처벌법 위반 혐의로 브라질 국적 30대 여성 A씨를 입건했다.&lt;br&gt;&lt;br&gt;A씨는 정국의 집 근처로 우편물을 던지고 난간에 사진을 내거는 등 행패를 부린 것으로 전해졌다. A씨는 이미 100m 이내 접근 금지 조치를 받은 상태였으나, 이를 어기고 재차 접근을 시도했다고 한다.&lt;br&gt;&lt;br&gt;앞서 지난달 두 차례 정국의 집을 찾았던 A씨는, 당시에도 우편물을 넣거나 벨을 눌러 주거 침입 등 혐의로 입건됐었다. 이때 정국 측은 A씨에 대한 접근 금지 조치를 신청한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정국은 이전에도 여러 차례 자택 침입 사건을 겪은 바 있다. 작년 9월엔 라이브 방송을 켜고 “찾아오면 내가 가둬버릴 거다. 다 기록되니까 증거 확보돼서 그냥 끌려가는 것”이라며 “경찰서로 가고 싶지 않으면 절대 오지 마시라”고 경고하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘권장량 4배’…트럼프, 아스피린 고용량 복용법 논란</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/01/03/OA7EFXEKMJB6HA6DCM4GJZRHPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/03/OA7EFXEKMJB6HA6DCM4GJZRHPQ/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 02:40:03 +0000</pubDate>
+      <content:encoded>도널드 트럼프 미국 대통령이 최근 20년 넘게 매일 325㎎의 아스피린을 복용해 왔다고 밝힌 가운데, 의료계에선 “이 복용법을 계속하다간 오히려 부작용이 생길 수 있다”는 우려가 커지고 있다. 특히 고령자에겐 아스피린을 고용량으로 복용하는 것이 더욱 위험하다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAU4VNYXVBHE5HJOBGRTYS3IVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프 미국 대통령이 작년 12월 2일 워싱턴DC 백악관에서 열린 국무회의 도중 오른손 두 손가락을 관자놀이에 댄 채 눈을 감고 있다. 이날 트럼프는 각료들의 보고가 이어질 때마다 눈을 감은 채 10~15초간 움직이지 않으면서 건강 이상설에 불을 붙였다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일(현지 시각) 뉴욕타임스(NYT)에 따르면, 트럼프 대통령은 언론 인터뷰에서 20년 넘게 매일 325㎎의 아스피린을 복용하고 있다고 밝혔다. 심장마비와 뇌졸중을 일으킬 수 있는 혈전 형성을 예방하기 위한 목적이라는 설명이다. &lt;br&gt;&lt;br&gt;그러나 325㎎은 통상 심혈관 질환 예방에 쓰이는 저용량 아스피린(81㎎)의 네 배에 해당하는 고용량으로, 의료계에선 부작용이 나타날 수 있다는 지적이 나온다. 최근 연구 결과 중에선 아스피린이 심장병 병력이 없는 사람들에게 출혈이나 암 등 부작용에 따른 사망 위험을 높일 수 있다는 결과도 있다는 것이다.&lt;br&gt;&lt;br&gt;아스피린은 혈소판이 서로 달라붙는 것을 억제해 혈전 생성을 줄이는 항혈소판제다. 혈전이 심장이나 뇌혈관을 막으면 심근경색이나 뇌졸중으로 이어질 수 있기 때문에, 이미 심혈관 질환 병력이 있는 환자에게는 재발을 막기 위한 약물로 사용돼 왔다. &lt;br&gt;&lt;br&gt;문제는 병력이 없는 일반 성인이 아스피린을 장기간 복용할 경우, 혈소판 작용을 억제하는 아스피린의 효과 때문에 내부 출혈 위험이 더 커질 수 있다는 점이다. 미국심장학회(ACC)와 미국심장협회(AHA) 등 의료단체들은 심장마비나 뇌졸중 병력이 없는 고령자가 예방을 목적으로 아스피린 복용을 시작하거나 정기 복용하는 것을 권고하지 않는다. 고령자는 혈관이 약하기 때문에 출혈 위험이 더욱 높다는 것이다.&lt;br&gt;&lt;br&gt;트럼프 대통령의 경우 80세의 고령이면서 심근경색이나 뇌졸중 병력이 없는 것으로 알려져 있지만, 오히려 고용량으로 복용을 이어가고 있는 것이다.&lt;br&gt;&lt;br&gt;최근 트럼프 대통령은 아스피린 부작용 탓에 건강 이상설에 휘말리기도 했다. 오른손등에 큰 멍 자국이 포착된 것이다. 일각에서 ‘비타민 결핍’ 등 다양한 추측이 제기되자 백악관은 ‘아스피린 복용’ 때문이라고 설명했다. 아스피린의 대표적인 부작용은 내부 출혈과 멍이 쉽게 드는 현상이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올겨울 첫 한강 결빙...지난해보다 37일 빨라</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/03/I44IUGXDMVALPMB5METI3YQYFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/03/I44IUGXDMVALPMB5METI3YQYFE/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 01:28:31 +0000</pubDate>
+      <content:encoded>지난 연말부터 이어진 한파의 영향으로 올겨울 들어 첫 한강 결빙이 관측됐다. 올해 한강 결빙은 평년보다 7일, 지난겨울보다 37일 빠른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW3KTUQ2NZAA5NV5YFQN3WEPO4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 한강대교 교각 상류 100m 위치에 있는 직사각형 구간이 얼음으로 덮여 있는 모습. 얼음에 강물이 보이지 않는 때를 결빙으로 기록한다./기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 기상청은 최근 차가운 대륙 고기압의 영향으로 추위가 지속되며 이날 올겨울 처음으로 한강이 얼었다고 발표했다. 평균적으로 한강은 1월 10일 무렵 어는데, 올해는 연초부터 맹추위가 몰아치며 이른 시기에 결빙된 것이다. 작년보다는 37일이 빨랐다. 지난해엔 ‘따뜻한 겨울’이 이어지다 늦추위로 인해 2월 9일에서야 한강이 처음 얼었다. &lt;br&gt;&lt;br&gt;한강은 보통 닷새 이상 일 최저기온이 영하 10도 이하에 머무르고 일 최고기온이 영하인 수준의 추위가 나타나면 결빙된다. 한강 결빙 관측은 1906년에 시작됐다. 결빙이 가장 빨랐던 해는 1934년 12월 4일이었고, 관측되지 않은 해도 9차례가 있었다.&lt;br&gt;&lt;br&gt;한강 결빙은 서울 동작구와 용산구를 잇는 한강대교 교각 상류 100m 위치에 설정한 직사각형 구간이 완전히 얼음으로 덮여 강물이 보이지 않는 때를 말한다. 결빙은 관측 담당자가 한강대교가 지나는 노들섬 관측 지점에서 직접 눈으로 확인하고 기록을 남긴다.&lt;br&gt;&lt;br&gt;한강 결빙 관측일은 점점 늦어지는 추세다. 1906년에서 1940년대까지는 평균적으로 12월 20일 전후 시작됐지만, 1960년대 이후엔 12월 말에서 1월 10일 전후 얼고 있다. 최근 10년 사이엔 결빙이 되지 않은 해가 두 차례(2019∙2021년) 있었고, 당일 얼었다가 녹아버려 결빙 일수가 0일인 해도 네 차례(2014∙2016∙2018∙2023년) 있었다. 하지만 올해는 예년보다 일찍 찾아온 한파로 일찍부터 한강이 언 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서해 공무원 유족 측 “檢, 항소권력을 특정인 보호하는 데 써”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/03/D2JVW7MLPVDTTM5ZCGCKVCLVYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/03/D2JVW7MLPVDTTM5ZCGCKVCLVYQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 01:01:26 +0000</pubDate>
+      <content:encoded>‘서해 피살 공무원’ 유족 측 변호인이 “검찰이 항소권이란 권력을 특정 고위 공직자를 보호하는 수단으로 사용했다”고 3일 밝혔다. 전날(2일) 검찰이 ‘서해 공무원 피살 은폐’ 사건의 1심 무죄 판결에 대해 항소하면서 피고인과 혐의를 선별해 ‘부분 항소’한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQWEMLEMU4DGMBRMFSDCZBUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'서해 공무원 피살 사건' 은폐 시도 및 '월북 몰이' 혐의로 기소된 서훈 전 국가안보실장(왼쪽부터), 박지원 전 국가정보원장, 서욱 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 유족 측 변호를 맡은 김기윤 변호사는 입장문을 통해 “피고인 서훈 및 김홍희에 대해서는 일부 항소가 이뤄졌으나 박지원 전 국가정보원장(현 국회의원)과 서욱 전 국방장관을 포함한 중요 피고인들에 대해서는 무죄 판단이 그대로 확정되는 결과가 초래됐다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;김 변호사는 “대통령, 국무총리, 여당 당대표 등 정치권 고위 인사들이 해당 사건의 기소 자체를 공개적으로 비판해 온 상황과 맞물려 검찰의 반쪽짜리 항소는 법리적인 판단이 아닌 정치적 압박에 따른 것으로 볼 수밖에 없다”며 “지난해 9월 국회에서 박지원 의원이 정성호 법무부 장관에게 ‘검찰은 반드시 공소를 취소해야 한다’고 공개적으로 발언한 사실이 있는데, 이번 항소에서 박 의원이 제외된 것이 법리적 판단에 따른 것인지, 아니면 정치적 압박에 의한 것인지 검찰 스스로가 답해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;그는 특히 “형사소송법에서 민사소송과 달리 고소인이나 피해자에게 항소권을 부여하지 않고 검사에게만 항소권을 부여한 이유는 검사가 공익의 대표자로서 형벌권 행사의 적정성을 판단할 것이라고 신뢰하기 때문”이라며 “이번 반쪽짜리 항소는 검사가 과연 형사소송법상 공익의 대표자로서의 역할을 충실히 수행하고 있는지 중대한 의문을 낳는다”고 했다.&lt;br&gt;&lt;br&gt;전날 서울중앙지검은 ‘서해 공무원 피살 은폐’ 사건의 피고인 5명 중 서훈 전 청와대 국가안보실장, 김홍희 전 해양경찰청장 등 2명에 대해서만 항소했다. 서해 공무원에 대한 ‘월북 몰이’ 관련 서훈·김홍희 두 사람의 허위 공문서 작성·행사, 명예훼손 등 혐의에 대해서만 항소한 것이다. 이에 따라 2020년 9월 해양수산부 공무원이 서해에서 북한군에 피살·소각된 사실을 은폐하기 위해 국정원과 국방부 첩보를 삭제하도록 지시한 혐의로 기소된 박지원 전 원장, 서욱 전 장관, 노은채 전 국정원장 비서실장은 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 2022년 12월 서훈 전 실장 등 5명을 기소했으나, 1심 재판을 맡은 서울중앙지법은 지난달 26일 “증거가 부족하다”며 5명 모두에게 무죄를 선고했다. 이에 이재명 대통령과 김민석 국무총리 등이 1심 무죄 판결 직후 “조작 기소”라며 사실상 항소 포기를 압박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위 “공동주택 승강기 공사 중 장애인 불편 최소화해야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/3LMJZ5UKAVA2VL4PETBMUYJFJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/3LMJZ5UKAVA2VL4PETBMUYJFJA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 04:21:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 아파트 등 공동주택 승강기 공사 기간 동안 장애인 등의 보행상 불편을 최소화해야 한다고 권고했다. &lt;br&gt;&lt;br&gt;인권위는 지난달 3일 A아파트 입주자대표회장과 관리사무소장에게 노후 승강기 교체 공사 기간 동안 장애인·노인·임산부 등이 불편을 겪지 않도록 대책을 마련할 것을 권고했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;진정인은 A아파트에 거주하는 지체 장애 1급 장애인이다. 아파트 승강기 교체 공사 기간 동안 승강기 대체 수단을 아파트 측에 요구했으나 거부당해 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;피진정인인 A아파트 측은 안내문과 방송을 통해 공사에 대해 미리 고지했다는 입장을 밝혔다. 또 아파트 계단에 3층 간격으로 쉬어갈 수 있는 의자를 마련하는 등 불편을 줄이기 위한 노력을 충분히 기울였다고 해명했다. &lt;br&gt;&lt;br&gt;하지만 인권위 장애인차별시정위원회는 “공사가 진행되는 2주 가량 계단 이용이 어려운 고령자, 장애인, 보행에 불편을 겪는 환자 등의 불편과 피해의 정도가 크다는 점에서 차별”이라고 봤다. 더욱이 진정인은 승강기 공사 기간 동안 요양 보호사의 장기 요양 서비스를 이용하는 데도 어려움을 겪어 피해의 정도가 크다고 판단했다. &lt;br&gt;&lt;br&gt;이에 인권위는 아파트 측에 보행 불편을 겪는 입주민의 피해를 최소화하기 위해 승강기 공사 일정을 사전에 협조하고, 지역 사회와 협조해 식료품 전달, 건강 상태 확인, 응급 상황 대응 등 실질적 지원 체계를 마련하라고 권고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘카카오 폭파 글’ 총 11건…경찰, 10대 용의자 1명 수사 중</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/05/C6YEH4PT3VHHRJCVLKNMDMENRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/C6YEH4PT3VHHRJCVLKNMDMENRQ/</guid>
+      <dc:creator>수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 04:15:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2E7GGI2VWFGA3AO5SWTGE5ISN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;카카오 사옥에 폭발물 설치 의심 신고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오, 네이버 등 기업을 폭파하겠다는 협박 글이 잇따른 사건에 대해 경찰이 10대 용의자 1명을 지목해 수사에 나섰다. &lt;br&gt;&lt;br&gt;경기남부경찰청은 5일 정례간담회에서 작년 12월 15일부터 23일까지 발생한 ‘폭발물 설치 협박글’은 총 11건이라고 밝혔다. &lt;br&gt;&lt;br&gt;이 중 경찰에 신고된 건수는 8건이며 경찰이 수사 과정에서 3건을 추가 발견한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;총 11건 중 1건은 10건은 카카오 CS센터(고객센터) 게시판에, 1건은 분당KT 온라인 간편 가입신청에 각각 게시글을 남긴 것으로 파악됐다. &lt;br&gt;&lt;br&gt;글 게시자는 해당 글에 자신을 각각 대구 모 고교 자퇴생, 광주 모 중학교 재학생, 이름만 ○○○이라고 쓰면서 “폭발물을 설치했다”고 협박했다.&lt;br&gt;&lt;br&gt;경찰이 조사한 10대 3명은 모두 명의도용 피해를 봤다고 주장했다. 그러면서 이들은 또 다른 10대인 A군을 용의자로 지목한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 명의도용 피해를 주장하는 3명과 A군이 사이버 상에서 관계를 맺은 것으로 보고 A군의 혐의 여부에 대해 조사 중이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “11차례의 범행이 모두 유사성이 있다고 보고 수사 중”이라며 “A군과 명의도용 피해를 주장하는 이들과 연관성은 어느 정도 있다고 보인다. 자세한 내용은 말해줄 수 없다”고 했다. &lt;br&gt;&lt;br&gt;한편 카카오가 이 사건을 계기로 가상사설망(VPN) 등을 통해 해외 IP로 접속해 글을 쓰는 차단, 작년 12월 23일 이후 폭파 협박 글은 올라오지 않고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 초교 입학대상자 작년보다 5% 감소...인천은 2만명 밑으로 </title>
       <link>https://www.chosun.com/national/education/2026/01/05/4UFZUV7HLNAITN54AZFTONQPB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/05/4UFZUV7HLNAITN54AZFTONQPB4/</guid>
@@ -449,15 +521,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FJFUEBGQNA5JDWE52NIMAWJTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2779] 사다리를 타자</title>
-      <link>https://www.chosun.com/national/nie/2026/01/05/NJ7Y3TTC4JHPXEAPDYHWNN5MUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/05/NJ7Y3TTC4JHPXEAPDYHWNN5MUU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJ7FZMD52BBBFO6OOD3O3SLIUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[입에 착착 붙는 일본어] 복주머니를 사다</title>
       <link>https://www.chosun.com/national/nie/japanese/2026/01/05/MEYGQCCH75EMJKB6K4AALCKBBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/01/05/MEYGQCCH75EMJKB6K4AALCKBBY/</guid>
@@ -485,18 +548,6 @@
       <content:encoded>절기상 ‘소한’… 이어지는 강추위&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HU4JNF4PFFF27J6SLWHGLDMLUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울에서 공주까지 가서 여성 살해 60대 남성 구속</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/04/NS4PR4EJCZBRNKVAG7IE3FZHTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/NS4PR4EJCZBRNKVAG7IE3FZHTU/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 11:20:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6FJ2QBDYL2JCPUJQ6EU4QQPIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법 공주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보했다는 이유로 서울에서 공주까지 이동해 여성을 살해한 혐의를 받는 60대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;4일 경찰 등에 따르면 대전지법 공주지원은 이날 살인 혐의를 받는 60대 남성 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 4시 43분쯤 충남 공주시의 한 빌라에서 50대 여성 B씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 자녀의 신고를 받고 출동한 구급대원들에 의해 심정지 상태로 병원에 이송됐지만, 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “B씨가 이별을 통보하자 범행을 저질렀다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨가 범행 당일 흉기를 준비한 뒤 서울에서 공주로 이동해 B씨를 살해한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K6FJ2QBDYL2JCPUJQ6EU4QQPIA.jpg?auth=15b51bae83e0c8f4a12cd139b18289b88ea1305be30cd05c9aab25f6ea16bb26&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
-        <media:description type="plain">대전지법 공주지원. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>서울 안양천서 50대 女 시신 발견...경찰 “타살 정황 없어”</title>
       <link>https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</guid>
@@ -504,16 +555,6 @@
       <description/>
       <pubDate>Sun, 04 Jan 2026 08:57:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRPGU4MKCCOEOCJNDIMHIBZEOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 8시쯤 서울 양천구 안양천에서 50대 여성이 숨진 채 발견돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오전 소방 당국에 접수된 신고를 받고 현장에 출동해 신원 미상의 50대 여성 시신을 수습했다고 밝혔다. 경찰은 타살 정황은 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시신에 별다른 외상이 없는 점으로 미루어 보아 아직까지 범죄 혐의점은 없다고 보고 있다”며 “현재 사망자의 신원 확인 중”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 1월 5일 월요일 (음력 11월 17일 己卯)</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/04/PGTMAMYUQFCV3P4NRBICLP2TNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/PGTMAMYUQFCV3P4NRBICLP2TNM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/2LZZQML6OJBITPXHEQORH4PUUM.gif?auth=5f05c3ac3af7209b10f115bbf8056cd1f3e8c142299c2f82c12698398f2be6ea&amp;smart=true&amp;width=120&amp;height=60" alt="" height="60" width="120"/&gt;&lt;p&gt;子36년생 본업 외 일에 관여 않는 게 상책. 48년생 안과·심장 질환 있다면 재발 주의. 60년생 좌고우면 말고 일로매진하라. 72년생 부적절한 일에는 가담하지 않는 게 상책. 84년생 아이처럼 응석 부리거나 투덜대지 마라. 96년생 금전이나 이성으로 인한 번뇌.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HSODKZ63WZAXBHMW2TI672NLB4.png?auth=ba587455ef9b6e29d44e8b035903c5f5aea3c45618c63f8c67ccc42f5a7ec75f&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
       <title>평년보다 따뜻한 ‘소한’...최저기온 영하 10도</title>
@@ -561,15 +602,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YN276BXVINCIXJYASQFMLGRZPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 애프터스쿨 출신 배우 나나. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 애프터스쿨 출신 배우 나나가 자택에 침입해 강도 행각을 벌인 30대 남성 A씨에게 살인미수 등 혐의로 역고소를 당한 가운데, A씨가 옥중 편지를 보내 “나나에게 되레 폭행당했다”고 주장하고 나섰다. 나나는 “이런 말도 안 되는 상황은 지금도 벌어지고 있고, 그걸 헤쳐나가야 할 상황에 놓여 있다”며 “옳고 그름을 냉정하게 잘 바라봐야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;2일 JTBC ‘사건반장’은 나나 모녀의 집에 흉기를 들고 침입해 상해를 가하고 돈을 요구한 혐의(특수강도상해)로 구속된 30대 남성 A씨가 보낸 옥중 편지 5장을 공개했다.&lt;br&gt;&lt;br&gt;A씨는 편지에서 “나나의 집에 들어갈 때 장갑과 헤드셋만 낀 상태였다”면서 “절도 목적이었을 뿐 흉기를 미리 준비하지 않았다”고 주장했다. 이어 “(몸싸움 과정에서 자신이) 발로 차거나 (흉기를) 휘두른 게 아니라 밀고 당기다가 모친을 꽉 껴안아 못 움직이게 했을 뿐”이라며 “나나가 달려와 (집에 있던) 흉기로 내 목을 찌르려고 했지만, 가까스로 피해서 귀와 목 사이를 7㎝ 깊이로 찔렸다”고 했다.&lt;br&gt;&lt;br&gt;그는 “처음 대면한 순간부터 단 한 번도 나나의 신체 어느 부분, 털끝 하나 건드린 적 없다. 오히려 흉기에 찔린 뒤에도 나나에게 폭행당했다”고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 어머니 병원비가 필요해 범행을 저질렀다면서 “나나 모녀에게 제압당한 이후 사실대로 말한 뒤 사과했다. 그러자 나나 측이 경찰에 흉기를 가지고 침입했다고 말하면 제가 필요하다고 한 4000만원을 주겠다고 제안했다”고 주장했다. 그러면서 “나나의 말을 믿고 경찰 조사에서 합의한 대로 진술했던 건데 유치장에 들어간 뒤 나나 모녀가 상해진단서를 제출했다는 소식을 듣고 진실을 밝히기 위해 편지를 쓰게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 나나 측은 “A씨의 주장은 전부 사실이 아니다”라며 강경 대응을 예고했다.&lt;br&gt;&lt;br&gt;소속사 써브라임은 “병원비나 금전 제안, 흉기 관련 합의는 전혀 사실이 아니며 오히려 가해자가 경찰에 신고하지 말아 달라고 요구했다”고 밝혔다. 이어 “가해자는 반성 없이 피해자를 상대로 역고소를 제기하며 유명인이라는 점을 악용해 2차 피해를 야기하고 있다”며 “선처는 없으며 민·형사상 가능한 모든 법적 조치를 취할 것”이라고 강조했다.&lt;br&gt;&lt;br&gt;나나는 2일 직접 소셜미디어에 올린 글에서 “고소당한 사실을 안 지 시간이 꽤 되었다”며 “다행히도 혼자만의 시간을 보내면서 어느 정도 안정을 되찾았고, 스스로 조금 더 단단해진 느낌을 받았다”고 했다.&lt;br&gt;&lt;br&gt;나나는 “앞으로 이런 안 좋은 일들이 생기지 않길 너무나도 바라지만, 혹여나 예상치 못한 안 좋은 일들이 생겼을 때를 대비해 스스로가 덜 다치도록, 옳고 그름을 냉정하게 잘 바라봐야 할 것 같다”고 했다. 이어 “저는 무너지지 않을 거고 흔들리지 않도록 제 자신을 잘 다스릴 것”이라며 “그러니 너무 걱정마시라. 의도치 않게 이런 일이 벌어져서 필요치 않은 불안감을 드린 것 같아 미안하다. 이번 일 잘 바로잡을 테니 걱정 마시고 믿어 달라”고 했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 앞서 지난해 11월 경기도 구리시 나나의 자택에 흉기를 들고 침입해, 나나 모녀를 위협하고 상해를 가하고 돈을 요구했다. 당시 A씨는 집안에서 나나의 어머니를 발견하자 상해를 가했고, 어머니의 비명을 듣고 깨어난 나나가 어머니와 함께 몸싸움을 벌여 A씨를 제압하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;이 과정에서 A씨는 흉기에 의해 턱 부위에 열상을 입은 것으로 조사됐으나, 경찰은 나나 모녀가 A씨에게 가한 상해가 정당방위에 해당한다고 판단해 입건하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 수사 초기 범행을 인정했으나 이후 진술을 번복했다. 그는 “범행 당시 흉기를 소지하지 않았고 피해자들에게 상해를 가한 적 없다”고 주장하고 있으며, 나나를 경찰에 살인미수 및 특수상해 혐의로 역고소했다.&lt;br&gt;&lt;br&gt;경찰은 이미 정당방위가 인정된 사안이지만, 고소장이 접수된 만큼 절차에 맞게 사건을 처리한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>초고령 사회 본격 진입… 65세 이상 인구 비중 21% 넘겼다</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/04/TX3NQTE6Z5H3DPTSF5VNJIKDBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/TX3NQTE6Z5H3DPTSF5VNJIKDBQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 06:48:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTMY3EG5TDKODEMRSGEOBSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구청에서 열린 노인일자리 박람회에서 어르신들이 노인공익활동 및 역량활용사업 신청서를 작성하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;65세 이상 인구가 전체 주민등록 인구의 21%를 차지하면서 초고령 사회가 본격화하고 있다.&lt;br&gt;&lt;br&gt;행정안전부가 4일 발표한 ‘2025년 주민등록 인구통계 분석’을 보면, 작년 65세 이상 고령 인구는 1084만822명으로 전년(1025만6782명)보다 58만4040명(5.69%) 증가했다. 전체 주민등록 인구(5011만7378명) 가운데 21.21%를 차지하는 비율이다.&lt;br&gt;&lt;br&gt;유엔(UN)은 65세 이상 인구 비율이 전체 인구의 7% 이상이면 고령화 사회, 14% 이상이면 고령 사회, 20% 이상이면 초고령 사회로 분류한다. 이에 따라 우리나라는 작년 65세 이상 비율이 20%를 넘어서면서 초고령 사회에 진입하게 됐다.&lt;br&gt;&lt;br&gt;고령 인구 성별 구성을 봤을 땐 여성이 23.39%로 남성(19.00%)보다 4.39%포인트 높았다. 권역별로는 수도권이 전체의 18.82%, 비수도권이 23.69%였다. 65세 이상 인구 비율이 20%를 넘는 시·도는 전남(28.46%), 경북(27.46%), 강원(26.81%), 전북(26.61%), 부산(25.26%), 충남(23.43%), 경남(23.24%), 충북(23.05%), 대구(22.07%), 서울(20.43%), 제주(20.09%) 등 11곳으로 나타났다.&lt;br&gt;&lt;br&gt;기초자치단체 중에선 경북 의성군(49.20%), 대구 군위군(48.96%), 경남 합천군(47.39%), 전남 고흥군(47.25%), 경북 청도군(46.49%) 순으로 고령 인구 비율이 높았다. 전체 시·군·구 중 65세 이상 인구 비율이 20%를 넘는 곳은 총 170곳으로 집계됐다.&lt;br&gt;&lt;br&gt;1인 가구 증가세도 이어졌다. 작년 말 기준 주민등록 가구 수는 2430만 87가구로 전년보다 18만 1159가구 늘었고, 이 가운데 1인 가구는 1027만 2573가구로 전체의 42.27%를 차지했다. 이 밖에 2인 가구(25.31%), 3인 가구(16.77%), 4인 이상 가구(15.65%) 순이었다.&lt;br&gt;&lt;br&gt;연령대별 1인 가구를 보면 70대 이상이 221만8764명으로 전체의 21.60%를 기록해 가장 많았다. 이어 60대(18.90%), 30대(16.92%), 50대(15.92%), 20대(13.94%), 40대(12.29%), 20대 미만(0.44%) 순이었으며, 20~60대에서는 남성 1인 가구가 많았고 70대 이상과 20대 미만에선 여성 비율이 더 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이대근·김희라의 액션 사부... ‘원조 스턴트맨’ 김영인 별세</title>
       <link>https://www.chosun.com/national/national_general/2026/01/04/2ZNYVJQFFVFC5GSUK73IPSPXME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/2ZNYVJQFFVFC5GSUK73IPSPXME/</guid>
@@ -597,15 +629,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6K4PEL65YBCBZD2C6N74MTMD64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김광석 30주기 추모제 포스터./대구 중구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김광석 30주기 추모제가 오는 6일 대구 중구에서 열린다. &lt;br&gt;&lt;br&gt;대구 중구는 한국 대중음악사에 큰 발자취를 남긴 고(故) 김광석의 30주기를 맞아 이날 오후 2시 중구 대봉동 ‘김광석스토리하우스’에서 추모제를 연다고 4일 밝혔다. 평소 유료로 운영되는 김광석 스토리하우스는 이날 무료 개방하고, 유튜브 생중계를 병행해 시민들과 함께하는 비대면 추모의 장도 마련할 계획이다. &lt;br&gt;&lt;br&gt;추모제에선 추모식과 첼리스트 채송아, 싱어송라이터 김성준, 소프라노 심규연 등이 무대에 올라 김광석의 대표곡을 새롭게 재해석해 선보이는 무대가 진행된다. 김광석 30주기 추모 ‘김광석 노래 이야기 &amp;amp; 인생 이야기’ LP 청음회도 열린다. &lt;br&gt;&lt;br&gt;태성길 (사)김광석행복나눔 이사장은 “30주기를 맞아 화려한 무대보다 김광석의 노래가 지닌 위로와 온기를 담아내고자 했다”며 “그의 노래가 여전히 우리 곁에 살아 있음을 함께 느끼는 시간이 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;김광석스토리하우스가 자리 잡고 있는 중구 대봉동은 김광석이 태어나 유년 시절을 보낸 곳이다. 이런 인연을 바탕으로 대구 중구는 2010년 11월 20일 대봉동 인근 90m 구간에 ‘김광석 다시 그리기 길’을 만들었다. 이후 계속해서 작품 수를 늘려가서 현재 수성교~송죽미용실 350m 구간으로 확장했다. 이곳에서는 김광석의 삶과 노래를 테마로 한 벽화와 조형물 등을 만나볼 수 있다. &lt;br&gt;&lt;br&gt;류규하 대구 중구청장은 “앞으로도 김광석의 음악적 가치와 예술 정신이 문화 콘텐츠로 이어질 수 있도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>불법 새총 만든 미등록 외국인 3명, 긴급 체포</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/04/2XOQJ56BTBEOHMYYZCTLIHNQUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/04/2XOQJ56BTBEOHMYYZCTLIHNQUI/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 05:40:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3WEYJWMMZWMNJQHAYGIZBTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충주경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새를 잡기 위해 불법으로 새총을 만든 미등록 외국인 3명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충북 충주경찰서는 총포·도검·화약류 등의 안전관리에 관한 법률 위반 혐의로 태국 국적 40대 A씨 등 외국인 3명을 긴급 체포했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;미등록 외국인 신분인 A씨 등 3명은 지난달 29일 충북 충주시 주덕읍의 한 야산에서 “외국인들이 긴 총을 들고 있다”는 주민 신고로 출동한 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;이들은 새를 사냥하기 위해 인터넷에서 동영상을 보고 새총을 제작한 것으로 알려졌다. 이들이 만든 새총은 고무줄을 이용해 쇠구슬을 발사하는 구조였다. &lt;br&gt;&lt;br&gt;경찰은 이들이 지내던 충주의 한 농장 기숙사에서 새총 5정과 쇠구슬 등을 압수했다. 새총은 실제 위해를 가할 수 있는 장비인지 확인하기 위해 국립과학수사연구원에 감정 의뢰한 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “미등록 외국인인 A씨 등은 출입국관리소에 인계해 출국 조치했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>후배들 앞에서 부하 질책해 징계받은 공무원… 법원 “취소해야”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/04/H26FPIYSZREZFMG6FZWO6A6Y24/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/04/H26FPIYSZREZFMG6FZWO6A6Y24/</guid>
@@ -624,15 +647,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TMMJVHAZDGODGHEZDSMBYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 6시쯤 서울 지하철 1호선 종각역 인근에서 택시가 인도로 돌진해 횡단보도에서 신호 대기 중이던 시민들을 들이받는 사고가 발생했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울 지하철 1호선 종각역 차량 돌진 사고를 낸 70대 남성에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울경찰청은 택시기사 A씨에 대해 교통사고처리 특례법(치사상), 특정범죄 가중처벌 등에 관한 법률(위험운전 등 치사상), 도로교통법(약물운전) 혐의로 구속영장을 신청했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 6시 5분쯤 서울 종로구 종각역 인근에서 전기차 택시를 몰다 알 수 없는 이유로 급가속을 하며 횡단보도 신호등 기둥, 승용차 2대와 잇달아 부딪쳤다.&lt;br&gt;&lt;br&gt;이 사고로 횡단보도 신호를 기다리던 보행자 6명이 택시에 치였고 이 가운데 40대 여성 1명이 숨지는 등 14명의 사상자가 발생했다.&lt;br&gt;&lt;br&gt;A씨는 약물 간이 검사에서 마약성 진통제인 모르핀 성분이 검출됐다. 경찰은 국립과학수사연구원에 정밀 검사를 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경북 의성 단독주택서 불… 일가족 3명 사상</title>
-      <link>https://www.chosun.com/national/regional/2026/01/04/EMBME5TPW5GBTCH4DE5K2UJB64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/04/EMBME5TPW5GBTCH4DE5K2UJB64/</guid>
-      <dc:creator>의성=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 04:07:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4C2QV5VMHNDLDEWOL3TKT4PNJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 8시 59분쯤 경북 의성군 안평면 한 주택 내에서 불이나 소방 당국이 진화 작업을 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군 한 주택에서 화재가 발생해 일가족 중 2명이 숨지고, 1명이 다쳤다. &lt;br&gt;&lt;br&gt;4일 경북소방본부에 따르면 이날 오전 8시 59분쯤 경북 의성군 안평면 한 주택 내에서 불이 나 이곳에 살던 60대와 30대 모녀(母女)가 숨진 채 발견됐다. 같이 있던 80대 아버지는 2도 화상을 입어 인근 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;불이 나자 소방 당국은 소방차 16대와 소방관 39명을 동원해 1시간여 만에 불을 잡았다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 부엌에서 불이 시작된 것으로 보고, 정확한 화재 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>유가족 조롱·비하 글 700건…경찰, 2차 가해 전담팀 첫 구속</title>
       <link>https://www.chosun.com/national/national_general/2026/01/04/RMAA27XW7BB3VNXLC2AMCKSKU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/RMAA27XW7BB3VNXLC2AMCKSKU4/</guid>
@@ -640,27 +654,6 @@
       <description/>
       <pubDate>Sun, 04 Jan 2026 03:26:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYGCY3GMJRTOY3FHA3GKNBTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10·29 이태원 참사 3주기를 맞은 지난해 10월 29일 오전 서울 용산구 이태원 참사 현장 골목에서 한 시민이 헌화 후 절을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 이태원 참사 희생자와 유가족을 대상으로 온라인상 ‘2차 가해’를 반복해 온 피의자를 처음으로 구속했다. 전담 조직인 2차가해범죄수사과 신설 이후 첫 구속 사례다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 4일 “온라인에서 희생자와 유가족을 조롱·비하하거나 ‘조작·연출’, ‘마약 테러’, ‘시신은 리얼돌’ 등 허위 주장을 담은 영상·게시글 약 700개를 반복 게시한 A씨에 대해 지난 2일 법원이 구속영장을 발부했다”고 밝혔다. 경찰은 사안의 중대성과 증거인멸 우려, 재범 위험성 등을 이유로 구속영장을 신청했다고 설명했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이태원 참사 유가족은 지난해 9월 25일 희생자 모욕과 음모론, 비방 게시물 119건에 대해 모욕·명예훼손 혐의로 고소장을 제출했다. 이후 경찰은 디지털 추적 기법 등을 통해 A씨를 특정했으며, A씨가 해외 영상 플랫폼과 국내 주요 커뮤니티에 조작·편집 영상을 게시하면서 후원 계좌를 노출하는 방식으로 금전적 이득을 취하려 한 정황도 추가로 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 사회적 참사 유가족과 희생자를 겨냥한 악성 댓글·조롱이 극단적 선택으로까지 이어진 사례가 있다며, 2차 가해 범죄에 대해 무관용 원칙을 적용하겠다는 방침을 거듭 강조했다.&lt;br&gt;&lt;br&gt;경찰청은 지난해 7월 출범한 2차가해범죄수사과가 유가족 신고 대응, 정책·법령 보완, 악성 댓글 수사 등을 전담하고 있으며, 신설 이후 2차 가해 사건 154건을 접수해 20건을 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서해안고속도로서 ‘2차 사고’… 경찰·견인기사 등 2명 사망</title>
-      <link>https://www.chosun.com/national/incident/2026/01/04/T32AHCR7FVELXAEL77H7CXX72Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/04/T32AHCR7FVELXAEL77H7CXX72Y/</guid>
-      <dc:creator>고창=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 03 Jan 2026 23:47:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPN3O5UWNVMO3K4F2AS7UG7KOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 1시 23분쯤 전북 고창군 서해안고속도로 상행선 고창 나들목 인근에서 발생한 잇따른 교통사고로 사고 차량이 크게 파손돼 있다. 이날 발생한 사고로 경찰관과 견인차 기사 등 2명이 숨지고 구급대원 등 9명이 다쳤다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 새벽 서해안고속도로에서 교통사고 수습 현장을 뒤따르던 차량이 덮치는 ‘2차 사고’가 발생했다. 이 사고로 현장에서 교통 통제와 구조 활동을 벌이던 경찰관과 견인차(렉카) 기사가 숨지고, 구급대원 등 9명이 중경상을 입었다.&lt;br&gt;&lt;br&gt;전북경찰청 등에 따르면 이날 오전 1시 23분쯤 전북 고창군 고수면 서해안고속도로 상행선 73㎞ 지점(서울 방향)에서 승용차 간 1차 추돌 사고가 접수됐다. 사고 직후 신고를 받고 출동한 고속도로 순찰대와 119구급대, 견인 차량 등이 현장에 도착해 사고 처리를 진행하고 있었다.&lt;br&gt;&lt;br&gt;이 과정에서 SUV 차량이 사고 현장에 정차해 있던 승용차와 견인 조치 중이던 차량, 그리고 현장 인력들을 잇달아 들이받았다. 2차 충격으로 현장에 출동해 있던 고속도로 순찰대 소속 A(50대) 경찰관과 견인차 운전자 B(30대)씨가 숨졌다.&lt;br&gt;&lt;br&gt;함께 출동했던 40대 구급대원 1명도 중상을 입고 병원에서 치료를 받고 있다. 1차 사고 그랜저 차량 운전자 2명, 또 다른 구급대원 1명, 가해 차량인 GV80에 타고 있던 일가족 5명 등 총 8명이 경상을 입었다.&lt;br&gt;&lt;br&gt;사고 충격으로 승용차 1대가 전소되는 등 소방서 추산 700만 원 상당의 재산 피해도 발생했다. 이날 사고 수습을 위해 소방 헬기 1대를 포함해 차량 22대와 소방·경찰 인력 63명이 투입됐다.&lt;br&gt;&lt;br&gt;경찰은 SUV 운전자가 야간 고속도로에서 선행 사고 현장을 미처 발견하지 못해 사고가 난 것으로 보고, 운전자의 전방 주시 태만 여부 및 과속 여부 등 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“방송 활동 중단 중인데”…박나래, 김숙 SNS에 ‘좋아요’ 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/03/W255W6CMNNFOLJWVJEK76HW5CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/W255W6CMNNFOLJWVJEK76HW5CI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 03 Jan 2026 14:29:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNW2M22PKFBIHMCDYIY6C3BYJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래와 김숙. /박나래 소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매니저 갑질 의혹 및 주사 이모 논란으로 활동을 중단한 방송인 박나래가 최근 동료 방송인 김숙의 소셜미디어 게시물에 ‘좋아요’를 누른 사실이 알려져 논란이 일고 있다. &lt;br&gt;&lt;br&gt;3일 연예계에 따르면, 박나래는 최근 김숙이 지난달 30일 ‘2025 MBC 연예대상’ 참석 당시의 모습이 담긴 사진을 올린 소셜미디어 게시글에 ‘좋아요’를 눌렀다. &lt;br&gt;&lt;br&gt;최근 박나래의 전 매니저들은 박나래가 직장 내 괴롭힘을 비롯해 폭언·특수상해, 대리 처방 심부름, 비용 미정산 등 여러 문제를 일으켰고, 이른바 ‘주사 이모’로부터 불법 의료 서비스를 제공받았다고 주장했다. 이에 박나래는 지난달 8일 입장문을 통해 “모든 문제가 명확히 해결되기 전까지 방송 활동을 중단하겠다”고 선언한 바 있다.&lt;br&gt;&lt;br&gt;네티즌들은 박나래가 사실상 자숙 기간임에도 소셜미디어 활동을 한 것은 부적절하다고 비판하고 있다. &lt;br&gt;&lt;br&gt;김숙은 앞서 지난달 29일 열린 ‘2025 MBC 방송연예대상’에서 최우수상을 받은 뒤 소감에서 ‘구해줘 홈즈’에 함께 출연했던 출연진들을 언급하며 박나래도 함께 언급한 바 있다. &lt;br&gt;&lt;br&gt;이와 관련, 박나래를 옹호하는 네티즌들은 “수상 소감에서 본인을 언급해 준 사람에게 고마움도 표시 못하나” “자숙 기간에도 소셜미디어에 좋아요 누르는 정도의 활동은 해도 된다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;반면 박나래의 행동을 비판하는 네티즌들은 “본인 때문에 동료 연예인들도 피해를 입었는데 소셜미디어를 할 때인가” “그냥 개인적으로 연락을 해도 되는데 반성을 안 하고 있는 것” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;박나래는 갑질 의혹이 제기된 후 자신을 고소한 전 매니저들을 공갈 혐의로 맞고소했다. 박나래 측은 전 매니저들이 허위 주장을 바탕으로 박나래에게 거액의 금전을 요구했다는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BZIXTJIS6ZF27II6CJKEICOT7M.jpg?auth=5c9cea798960b37ef9d95fb4133a2d3412c3beb42404c84a3b9c00d3d019d54c&amp;smart=true&amp;width=715&amp;height=536" type="image/jpeg" height="536" width="715">
-        <media:description type="plain">방송인 박나래와 김숙. /박나래 소셜미디어</media:description>
-      </media:content>
     </item>
     <item>
       <title>‘1분 빨랐던 수능벨’ 사건…수험생 배상액 2심서 200만원 늘어</title>
