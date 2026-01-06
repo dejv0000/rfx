@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>추계 결과 또 고친 추계위... “2040년 부족한 의사 최소 5704→5015명"</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/01/06/TDVVK5V4MZEGTK6TONZCQCRUTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/06/TDVVK5V4MZEGTK6TONZCQCRUTI/</guid>
+      <dc:creator>조성호 기자, 오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 10:22:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W37A5BDQJRI5RFEWTDI6SOMYM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2027학년도 의대 정원 증원 논의가 본격화되는 가운데 5일 서울의 한 대학교 의과대학 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미래 의사 인력 양성 규모를 결정하는 보건의료 정책심의 위원회(보정심)가 본격 논의를 시작했다. 보정심은 지난달 말 활동을 종료한 의사인력 수급추계 위원회(추계위)의 보고서를 바탕으로 2027학년도 이후 의대 정원을 결정하는데, 추계위가 당초 발표했던 추산 결과를 이날 보고에선 수정해 올리면서 또 다른 논란이 예상된다.&lt;br&gt;&lt;br&gt;보건복지부는 6일 오후 서울 중구 컨퍼런스하우스달개비에서 보정심 회의를 열었다고 밝혔다. 이번 회의에서 보정심 위원들은 지난달 30일 활동을 마친 추계위 위원장으로부터 추계 결과를 보고받았다. 활동 종료 당시 대중에 발표했던 추계 결과와 더불어 수요·공급 추계 방법과 이에 활용한 가정 등 세부 사항도 함께 보고됐다.&lt;br&gt;&lt;br&gt;이날 보고에서 추계위는 미래에 부족할 것으로 보이는 의사 수를 발표하면서 2035년에 1055~4923명, 2040년에 5015~1만1136명이 부족할 것이라고 밝혔다. 당초 지난달 발표에서 2035년에 1535~4923명, 2040년에 5704~1만1136명 부족할 것이라고 밝혔던 것에서 최솟값이 480명, 689명씩 줄어들었다.&lt;br&gt;&lt;br&gt;추계위는 추계 결과의 변동에 대해 “미래에 공급될 의사 수를 계산하는 과정에서 변수를 조정한 데 따른 것”이라고 설명했다. 앞선 계산에선 의사 면허를 취득한 인력 중 실제 임상 활동을 하는 비율을 95%로 봤는데, 의사들의 은퇴나 사망 등 현장 이탈 정도를 고려했을 때 그 비율을 96.01%까지 끌어올려야 한다는 주장이 제기됐고, 향후 공급될 의사의 예상치도 더 늘었단 것이다. 추계위는 마지막 회의 말미에 이런 의견이 제기돼 발표 당시엔 반영되지 못했고, 최종 보고가 이뤄진 6일에야 해당 내용을 담았다고 설명했다.&lt;br&gt;&lt;br&gt;다만 이런 추계위의 설명에도 논란은 피할 수 없을 것으로 보인다. 추계위의 추계 수치 조정이 이번이 처음이 아니기 때문이다. 추계위가 지난달 30일 내놓은 1만1136명(2040년 기준 최대 부족치)도 같은 달 8일에 나왔던 1만8700명보다는 대폭 줄어든 수치였다. 이 때문에 추계위 내부에서 의사 인력의 부족분을 최대한 적게 추산하고자 하는 의료계의 의견이 지나치게 크게 반영된 것 아니냐는 지적이 나왔다.&lt;br&gt;&lt;br&gt;보정심은 추계위에서 보고한 추계 결과를 토대로 3차 회의에서 의사 인력 양성 규모에 대한 논의를 이어갈 계획이다. 본지 취재를 종합하면 이날 보정심에선 이달 안으로 대략적인 결론을 내기로 사실상 데드라인을 설정했다고 한다. 4월 30일엔 2027학년도 의대 입학 정원을 정해야 한다는 목소리가 반영된 것이다. 이를 위해 매주 보정심 회의도 열 예정이다.&lt;br&gt;&lt;br&gt;정은경 복지부 장관은 “현실적 제약 속에서도 현 시점에서 관측 가능한 자료를 도출해 주신 추계위 위원들의 노고에 감사드린다”며 “추계 결과를 존중한다는 기본 전제하에 앞으로 본격적으로 2027학년도 이후 의사 인력 양성 규모를 논의해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>여야 아동수당법 처리 합의...7일 복지위 처리 예정</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/01/06/QDXR5TPQXFATZGBMEMTOK4AXOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/06/QDXR5TPQXFATZGBMEMTOK4AXOU/</guid>
@@ -922,15 +931,6 @@
       <description/>
       <pubDate>Mon, 05 Jan 2026 05:59:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FSHMBVBSFG2NFEZIVCNJTVI3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 제주 워케이션에 참여한 인공지능 의료 솔루션 업체 직원들이 제주시 애월읍에 위치한 중력가속도 카트 레이싱 체험장을 찾아 액티비티 체험을 하고 있다. /제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 온 워케이션(휴가지 원격근무) 참여자들의 평균 소비금액은 약 64만원으로 조사됐다.&lt;br&gt;&lt;br&gt;5일 제주도에 따르면 제주창조경제혁신센터가 지난해 4월1일부터 5월26일까지 워케이션 참여자 130명을 대상으로 설문 조사한 결과 이같이 나타났다.&lt;br&gt;&lt;br&gt;워케이션 참여자들은 제주 체류 기간 식당 등에서 외식비로 19만5257원을, 숙박비로 19만5074원을 썼다. 교통비로 8만4587원을, 기념품 구매비로 4만5866원, 문화생활비로 4만4528원 등 모두 64만원(항공비 제외)을 지출했다.&lt;br&gt;&lt;br&gt;지난해 12월28일 기준 제주 워케이션 연간 참여자는 10만360명을 기록했다. 제주도는 당초 2026년에 한 해 워케이션 참여자가 10만명을 돌파할 것으로 예상했었다. 제주에 워케이션을 올때 함께 하는 동반인구는 1.13명으로 조사됐다. 이들의 체류기간은 평균 4박5일인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;제주도는 설문조사 결과를 토대로 지난해 워케이션 참여자 10만명의 누적 소비 총액은 약 640억원으로 추산된다고 밝혔다.&lt;br&gt;&lt;br&gt;제주연구원이 설문조사 결과를 토대로 워케이션 인구 10만명 달성에 따른 경제 파급효과를 분석한 결과 생산유발효과 862억원, 부가가치유발효과 306억원, 취업유발효과 927명으로 나타났다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “워케이션은 단순한 관광형 소비만이 아니라 체류하면서 소비해 지역경제 구조 전반에 긍정적인 파급 효과를 가져오고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;제주도는 올해 워케이션 유치 대상을 국내 뿐만 아니라 직항 노선이 있는 국가의 글로벌 기업, 디지털노마드까지 확대해 나갈 예정이다.&lt;br&gt;&lt;br&gt;김미영 제주도 경제활력국장은 “기업 멤버십과 워케이션 패스 등을 도입해 워케이션 지원 정책을 더욱 확충할 계획”이라면서 “지역 상권과의 제휴를 확대하고 문화 프로그램과 연계해 ‘제주다움’을 체감할 수 있는 콘텐츠도 강화할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘법정 소란·감치' 김용현 변호인단 징계 개시 신청</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/05/Y3OVMKPYGNHQFBGQR5J7EJP23I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/Y3OVMKPYGNHQFBGQR5J7EJP23I/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Jan 2026 05:44:34 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDINLFMRRTCNLFME4DKZLFG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관 변호인단인 이하상 변호사가 작년 11월 6일 서울 서초구 서울중앙지법에서 열린 김 전 장관의 내란 혐의 공판준비기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 5일 대한변호사협회에 김용현 전 국방부 장관 변호인 3명(권우현·유승수·이하상 변호사)에 대한 징계 개시를 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 작년 11월 27일 내란 특검 요청을 받은 후 공판 조서 등을 검토해 김 전 장관 변호인단의 일부 언행이 변론권의 범위를 벗어난 품위 손상 행위에 해당한다고 판단해 징계 개시를 신청했다고 설명했다. 징계 대상 재판은 내란 중요임무종사, 위계에 의한 공무집행방해 등의 혐의로 각각 기소된 김 전 장관 재판 2개와, 김 전 장관이 증인으로 출석했던 한덕수 전 국무총리의 내란 중요임무종사 재판 1개이다.&lt;br&gt;&lt;br&gt;변호사법은 지방검찰청검사장 등이 업무 수행 중 변호사에게 관련 법 위반, 변호사로서의 품위를 손상하는 행위 등 징계 사유를 발견했을 때 대한변협에 징계 개시를 신청하도록 하고 있다. &lt;br&gt;&lt;br&gt;김 전 장관 변호인단은 작년 11월 19일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 국무총리 재판에 나와 “증인석에 앉은 김 전 장관과 같이 앉게 해 달라”고 요청했다. 재판장이 “범죄 피해자만 증인 출석 시 변호인이 동석할 수 있다”며 허락하지 않자, 변호인단은 계속 손을 들며 발언하려 하고 발언권을 얻지 못하자 “직권남용”이라고 소리치며 반발했다. 이에 재판장은 감치 15일을 선고했다.&lt;br&gt;&lt;br&gt;이후 변호인단은 유튜브 채널 ‘진격의 변호사들’에 출연해 욕설 등을 하며 재판부를 비난했다. 대법원 법원행정처는 이들을 법정모욕 및 명예훼손 혐의로 경찰에 고발했고, 서울중앙지법도 대한변호사협회와 서울지방변호사회에 이들에 대한 징계를 요청했다. 이와 별도로 내란 특검도 징계 요청 권한이 있는 검찰에 관련 자료를 송부했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>동작서 수사하던 김병기 차남 의혹, 서울경찰청이 수사한다</title>
