@@ -13,6 +13,159 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“연기금 해체하겠다” 국민연금공단 폭파 협박 글…경찰, 긴급 수색</title>
+      <link>https://www.chosun.com/national/incident/2026/01/06/TMNQ6AK4YRCFFHGSAQ2YAERUAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/06/TMNQ6AK4YRCFFHGSAQ2YAERUAE/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 03:53:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2WSZHYK4HHL3TT2WD6OURVD7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 혁신도시 국민연금공단 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주시에 있는 국민연금공단 본사 건물을 폭파하겠다는 테러 협박 글이 온라인에 게시돼 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;6일 전북경찰청 등에 따르면, 이날 오전 한 인터넷 커뮤니티 사이트에 “연기금을 해체하겠다”며 공단 건물을 폭파하겠다는 내용의 글이 올라왔다.&lt;br&gt;&lt;br&gt;이 글을 포착한 국가정보원이 경찰에 즉각 관련 내용을 통보했다. 신고를 접수한 경찰은 현장에 경찰특공대와 형사들을 긴급 투입해 폭발물 수색 작업을 벌이고 있다. 현재까지 폭탄이나 인명 피해를 유발할 만한 위험 물질은 발견되지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 글을 올린 작성자를 검거하기 위해 인터넷 접속 주소를 추적하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>직원들 메신저 강제 열람… “험담했지” 추궁한 의성군 간부 공무원</title>
+      <link>https://www.chosun.com/national/2026/01/06/VRSJ3RXD5BBIBAONAZAL54UXCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/06/VRSJ3RXD5BBIBAONAZAL54UXCY/</guid>
+      <dc:creator>의성=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:19:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRGCMTGG43DMMTBHE4DMNTEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군청 소속 간부 공무원들이 내부 통신망 익명 게시판과 연관된 직원 간 메신저 내용을 당사자 동의 없이 열람한 혐의로 경찰이 수사에 착수했다. &lt;br&gt;&lt;br&gt;의성군과 경찰, 피해자 등에 따르면, 의성군청 한 부서 소속 5급 사무관 A씨는 지난해 10월 23일 오전 타 부서에 근무 중이던 여성 공무원 B(7급)씨와 C(7급)씨를 호출한 뒤 “네가 발설했나. 누구한테 들었나”라며 반말과 고성을 섞어 추궁했다. 자신의 부서와 관련된 험담이나 부정적인 소문의 출처를 밝히기 위해서였다. &lt;br&gt;&lt;br&gt;B씨는 무슨 이유로 불려 왔는지 알지 못한 채 A씨의 질문에 답하지 못하자 A씨는 같은 부서 D(6급)씨와 함께 B씨와 C씨 부서를 방문해 업무용 컴퓨터를 열려고 시도했다. 컴퓨터 열람은 A씨가 먼저 제의했다고 한다. &lt;br&gt;&lt;br&gt;당시 D씨는 A씨가 지켜보는 가운데 C씨 컴퓨터를 열람했지만 뚜렷한 흔적이 나오지 않자 B씨의 컴퓨터도 열려고 시도했다. 하지만 B씨는 “컴퓨터를 열지 말라”며 D씨에게 저항하는 과정에서 불가피한 신체 접촉도 발생했다. &lt;br&gt;&lt;br&gt;그러자 A씨는 B씨를 자신의 부서로 데려가 “네가 소문을 퍼뜨렸느냐”며 재차 추궁했다. 그 사이 D씨는 B씨의 개인 메신저 내용을 열람한 뒤 휴대전화로 촬영한 것이다. B씨는 “당시 촬영된 사진을 삭제할 것을 요구했으나 받아들여지지 않았다”고 말했다. &lt;br&gt;&lt;br&gt;해당 메신저에는 B씨가 다른 직원과 사적인 대화를 나누는 과정에서 “A 과장 부서가 잘 안 돌아간다”는 등의 내용인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;사건 이후 의성군청 내부 익명 게시판에는 ‘상급자라면 뭐든 할 수 있나’, ‘도저히 이해가 안 된다’, ‘이건 진짜 아닌 것 같다’ 등 A씨와 D씨 행위를 비판하는 댓글 80여 건이 달렸다. 해당 사건을 목격한 뒤 경찰에 진술한 공무원들만 10명에 이른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;앞서 B씨는 지난해 6월까지 A씨 부서에서 근무했다. 사건 이후 B씨는 불안 증세가 심해져 병가를 냈고, 정신과 치료도 받는 중이다. B씨는 “사적인 내용이 담긴 컴퓨터 열람을 시도하고 촬영한 대화 내용을 인쇄해 다수 직원에게 공개하는 등 도무지 이해할 수 없는 행동에 수치심을 많이 느꼈다”고 말했다. &lt;br&gt;&lt;br&gt;이에 대해 A씨는 “타 부서 직원이 자신의 부서를 비난한 내용이 무엇인지 확인하려 했을 뿐”이라며 “자세한 내용은 경찰 조사에서 밝히겠다”고 해명했다. &lt;br&gt;&lt;br&gt;의성군 공무원노조는 지난달 14일 해당 사안을 문제 삼아 A씨 등을 경찰에 고발했다. 경찰은 같은 달 23일 피해자 진술 조사를 진행하는 등 본격적인 수사에 착수했다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨와 D씨의 혐의는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반이다. 비밀 누설도 이 법에 해당한다. 경찰 관계자는 “피해자의 진술을 통해 다각도로 수사했다”며 “곧 가해자들을 소환 조사한 후 검찰에 송치할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;의성군은 진상 파악을 위해 A씨와 D씨에 대한 감찰 조사를 진행하기로 했다. 공무원노조 관계자는 “직원 개인의 통신 내용을 동의 없이 열람한 것은 불법적이고 명백한 인권 침해”라며 “피해자 보호와 재발 방지를 위해 끝까지 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“너 벼르는 사람 많다” 킹크랩 저울치기 폭로한 유튜버가 들은 말 </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/Q5G3NA6CRBCUTDB5DV5L5OHTBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/Q5G3NA6CRBCUTDB5DV5L5OHTBA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 02:34:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2VRYGMILJE43N3ZXR4YKT6DTM.png"&gt;&lt;figcaption&gt;&lt;small&gt;수산시장 킹크랩 중량 눈속임 수법을 설명하는 모습./ 유튜브 '입질의추억TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 130만명을 보유한 수산물 전문 유튜버가 저울치기와 물치기 등 소비자를 속이는 행위를 폭로했다가 일부 상인으로부터 항의를 받았다고 밝혔다. &lt;br&gt;&lt;br&gt;어류 칼럼니스트 김지민씨는 최근 자신이 운영하는 유튜브 채널 ‘입질의추억TV’를 통해 ‘저울치기 폭로하자 돌아온 건 상인의 협박, 그래서 결단을 내렸습니다’라는 제목의 영상을 올렸다.&lt;br&gt;&lt;br&gt;앞서 김씨는 작년 12월 킹크랩 판매 과정에서 벌어지는 물치기와 저울치기 수법을 공개했다. 물치기는 수산물을 물에 담가 중량을 부풀리는 수법이고, 저울치기는 바구니 무게를 포함해 재거나 저울을 조작해 무게를 늘리는 행위다. 그는 당시 실험을 통해 킹크랩에 물을 먹이면 60~120g, 바구니를 이용하면 최대 500g에서 1㎏까지 무게를 늘릴 수 있다고 했다. 이렇게 중량을 속이면 킹크랩 가격이 kg당 10만원일 때 100g만 늘려도 1만원, 200g이면 2만원이 더 붙는다는 설명이다.&lt;br&gt;&lt;br&gt;그는 다만 “상인이 이런 수법으로 차익을 보았다고 하기엔 다소 무리가 있다”며 “킹크랩 유통업자들도 물무게를 포함해 킹크랩을 사들인다. 수출입 과정에서 물무게를 완전히 배제해서 계산할 수는 없다”고도 했다. &lt;br&gt;&lt;br&gt;그러나 이 같은 영상이 올라온 후 일부 상인들이 불편한 심경을 드러냈다고 한다. 그의 영상에 ‘힘든 상인들 그만 괴롭혀라. 너 벼르는 사람들 많다’ ‘그거 한 마리 팔아도 몇천 원 남지 않는다’ ‘수조 유지비에 물값, 자리값, 인건비 생각하라’ ‘네가 영상 올리면 상인들이 피해 많이 입는다’ ‘사회의 악, 네가 해양수산부 장관이냐?’ 등의 댓글이 달린 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBK3MZSBNJBVTGTUIQEHBF7NUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜버 '입질의추억TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 영상을 올린 목적에 대해 “이렇게 판매하는 분들이 계시다면 ‘지금부터라도 중지해 주십시오’라는 취지이고 소비자들에겐 현명하게 대처할 수 있게끔 올린 영상”이라며 “이후 킹크랩 영상 좀 그만 올리라는 연락을 받았다”고 했다. &lt;br&gt;&lt;br&gt;그는 “요즘 장사하기 힘들다는 것과 킹크랩 물치기·저울치기 수법을 통해 얼마나 속이는지는 무슨 상관이냐. 돼지고기, 소고기도 중량을 따지면서 먹는데 수산물이라고 다르냐”고 했다. &lt;br&gt;&lt;br&gt;이어 “양심적으로 장사하는 상인이라면 저를 싫어할 이유가 없다. 오히려 부당한 관행 때문에 피해를 보던 상인들로부터 ‘속이 시원하다’는 반응도 많았다”고 했다. 그러면서 “수산시장을 애정하는 사람으로서 많은 사람이 수산시장을 찾아왔으면 하는 바람에서 좋은 면만 부각하려고 노력해 왔다”며 “채널의 대부분 콘텐츠는 수산물 상식, 손질법, 소비 촉진을 위한 정보다. 피해자들의 제보가 들어올 경우에만 이를 소개해왔다”고 했다. &lt;br&gt;&lt;br&gt;그는 “수산시장 카르텔이 존재하고, 한 집이 여러 점포를 독점 형식으로 운영하면서 신규 점포에 갑질을 하거나 공급가를 올리는 일이 벌어지고 있다”고 주장하며 “수산시장이 많은 소비자로부터 입방아에 오르는데 자정 능력을 길러야 한다”고 했다. &lt;br&gt;&lt;br&gt;그는 “정말 양심적으로 장사하는 상인이라면 직접 제보해 달라”며 “제가 찾아가서 홍보해 주고 싶다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 제자 성추행·학점 빌미 협박 의혹 동국대 교수, 정직 3개월</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/KXX5Q3U3LJEAVCE6H5V5DSQFZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/KXX5Q3U3LJEAVCE6H5V5DSQFZE/</guid>
+      <dc:creator>구아모 기자, 지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:58:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3TMYTGGQYWCYLDMMYTQYZQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동국대학교 전경./동국대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동국대학교 교수가 술에 취해 제자들에게 성희롱성 발언과 성추행을 하고 학점을 빌미로 협박을 일삼았다는 의혹이 제기됐던 사건과 관련해, 학교 측이 최근 정직 3개월 징계를 의결한 것으로 6일 확인됐다.&lt;br&gt;&lt;br&gt;해당 사안은 지난해 11월 동국대 문화유산학과 학생회 등이 교내에 대자보를 붙이면서 공론화됐다. 대자보에는 문화유산학과 A 교수가 학생들에게 노래를 시킨 뒤 “목소리가 섹스 어필적이다”, “오늘 너랑 면담하자고 한 건 사실 너랑 술을 마시고 싶어서다”, “(남녀 학생이 모두 있는 자리에서) ΟΟ학(해당 교수의 전공)이 주는 기쁨이 여자랑 자는 것보다 훨씬 크다” 등 성적 발언을 했다는 내용이 적혔다.&lt;br&gt;&lt;br&gt;또한 학생들의 손을 잡아 주무르거나 다리를 툭툭 치는 등 불필요한 신체 접촉이 있었고, 반복적으로 허벅지를 쓰다듬었다는 주장도 포함됐다. 술자리에서 “2차 가면 시험 문제를 알려 주겠다”, “성적 잘 받고 싶으면 술값은 네가 내라”는 취지의 발언을 했다는 내용과 함께, 다른 전공을 택하려는 학생에게 “너는 (학점) A 어차피 안 줄 거야”라고 말하는 등 학점을 거론하며 면박을 줬다는 주장도 제기됐다.&lt;br&gt;&lt;br&gt;학교 측은 사건 인지 후 인권센터 조사와 교원 인사위원회를 거쳐 징계 절차를 밟았다. 지난달 2일 법인 이사회에서 징계 의결을 요구했고, 이어 지난달 8일 열린 교원 징계위원회에서 정직 3개월 처분을 최종 확정했다. A 교수에 대한 징계는 지난달 15일부터 시작됐으며, 오는 3월 14일 종료된다. 학교 관계자는 “인권센터 조사 결과 사안의 심각성이 인정되어 절차에 따라 징계를 진행했다”고 했다.&lt;br&gt;&lt;br&gt;처분 결과가 알려지자 학생들 사이에서는 “정직 3개월이면 사실상 겨울방학을 쉬고 복귀하는 것 아니냐”는 반응이 나왔다. 의혹 당사자인 A 교수는 본지와의 통화에서 “어떤 말도 할 수 없다. 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유출된 경기용 실탄 4만9000발…경찰, 실업팀 감독 등 40명  검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/XLDVISHFPBC33OTWVOKAHGO5RM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/XLDVISHFPBC33OTWVOKAHGO5RM/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:39:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVA5Y5FYNDPRGAQW6B2KEJALQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./김은진기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선수용 실탄을 불법 유출한 실업팀 감독과 유통업자들이 무더기로 검거됐다.&lt;br&gt;&lt;br&gt;경기북부경찰청 형사기동대는 총포·화약류 단속법 위반 혐의로 A(40대)씨를 구속하는 등 피의자 40명을 입건하고 이 중 7명을 구속했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;또 경찰은 이들로부터 선수용 실탄 4만9000발과 총기류 57정(사제 총기 15정) 등을 압수 조치했다. &lt;br&gt;&lt;br&gt;지자체 체육회 소속 실업팀 사격 감독인 A씨는 22구경 경기용 실탄 등 3만발을 빼돌려 전 국가대표 사격팀 감독인 B(60대)씨에게 넘긴 혐의를 받고 있다. B씨는 작년 7월 지병으로 숨졌다. &lt;br&gt;&lt;br&gt;주범인 A씨를 비롯해 유통에 적극 관여했거나 소지한 실탄과 총기 수가 많은 피의자 7명은 구속됐으며 나머지 33명은 A씨에게 실탄을 구매한 이들로 파악됐다. &lt;br&gt;&lt;br&gt;구매자들은 주로 유해 야생동물을 쫓거나 사냥을 하기 위해, 취미용으로 구입했다. 실탄은 1발당 1000원 정도로 지인, 동호회 등을 통해 알음알음 거래된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이번 사건은 국가대표 사격 선수 출신인 국민의힘 진종오 의원이 작년 “사제 총 100여 정과 경기용 실탄 2만 발 이상이 시중에 불법 유통된 정황이 포착돼 경찰이 수사 중”이라며 정부에 정보 공개를 요구하면서 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 사건을 마무리 짓고 다음 주쯤 검찰에 넘길 계획이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, ‘전현희 표적감사’ 의혹 최재해 전 감사원장 등 기소 요구</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/06/PNAKFSZG55BRNLKGZEQG2YWQME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/06/PNAKFSZG55BRNLKGZEQG2YWQME/</guid>
+      <dc:creator>유희곤 기자, 김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:55:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U72WP42CJFHRXC7SMM7R4YKPSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최재해 전 감사원장. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처가 윤석열 정부 감사원의 전현희 당시 국민권익위원장(현 더불어민주당 의원) ‘표적 감사’ 의혹과 관련해 최재해 전 감사원장과 유병호 전 감사원 사무총장(현 감사위원) 등을 기소(공소 제기)해 달라고 6일 검찰에 요구했다.&lt;br&gt;&lt;br&gt;공수처 수사1부(부장 나창수)는 감사원 최 전 원장, 유 전 사무총장, 전 공직감찰본부장, 전 기획조정실장, 전 특별조사국장, 전 특별조사국 제5과장 등 6명을 직권남용 및 공용전자기록 등 손실 혐의로 기소해 달라고 검찰에 요구했다고 밝혔다. 전현희 의원이 2022년 12월 감사원 관계자들을 고발한 지 3년 1개월 만이다.&lt;br&gt;&lt;br&gt;최 전 원장과 유 위원 등은 2023년 6월 9일 감사원 사무처 직원 4명과 공모해 권익위 관련 감사보고서에 대한 감사위원들의 문안 심의·확정 절차가 완료되지 않았고, 주심 감사위원의 열람 결재가 되지 않았는데도 해당 감사보고서를 확정·시행해 감사위원의 권리행사를 방해한 혐의를 받고 있다. 감사원 규정상 감사보고서는 감사위원들을 대표하는 주심위원의 열람·결재를 받아야만 시행된다.&lt;br&gt;&lt;br&gt;또한 최 전 원장 등은 이 과정에서 전산 유지보수 직원을 통해 감사원 전자감사관리시스템 데이터베이스 서버에 직접 접속한 다음 주심 감사위원의 결재 관련 데이터베이스 자체를 삭제해 감사보고서를 볼 수 없게 한 혐의도 있다. &lt;br&gt;&lt;br&gt;또한 공수처는 전 전 위원장 제보자인 전 권익위 기획조정실장 A씨를 국회에서의 증언·감정 등에 관한 법률 위반 혐의로 기소 요구했다. A씨는 2022년 10월 국회 정무위원회 국정감사에 나와 “감사원에 제보한 사실이 있냐”는 위원 질문에 “없다”고 허위 증언한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이날 감사원 수사 결과는 헌법재판소가 작년 3월 13일 최 전 원장 탄핵심판에서 기각 결정을 하면서 밝힌 내용과는 다른 결론이다. 헌재는 최 전 원장 등의 전산조작이 위법했다면서도 “주심위원의 시행 지연을 막기 위한 부득이한 조치였다”는 최 전 원장 측 주장을 받아들여 직권남용죄로 판단하지는 않았다. 그러나 공수처는 수사 결과 주심위원이 감사보고서 처리 과정 시행을 지연시키지 않았고, 주심위원에게 결재 상신된 뒤 불과 1시간여 만에 전산을 조작해 시행한 사실을 확인했다고 했다.&lt;br&gt;&lt;br&gt;또한 헌재 탄핵 심판에서는 주심위원의 결재권 침해만 심리됐지만, 공수처는 수사 결과 감사보고서 본문 내용에 대한 감사위원들의 심의·확정 절차가 완료되지 않았는데도 사무처가 독단으로 문안을 확정해 시행한 사실도 확인했다고 했다.&lt;br&gt;&lt;br&gt;감사원은 2022년 8월 권익위 내부 제보를 토대로 전 전 위원장에 대해 상습 지각 출근, 추미애 민주당 의원 아들의 군 특혜 의혹 관련한 유권 해석 부당 개입 의혹 등 13개 항목에 대한 특별 감사를 실시했다. 그러자 민주당은 “윤석열 정부의 감사원이 전 전 위원장 사퇴를 압박하기 위해 표적 감사를 벌였다”며 최 전 원장 등을 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성남시, “남욱 재산 2000억 추가 확인... 끝까지 추적”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/3B3BXYDWT5DMNL5IN7HFS5VFSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/3B3BXYDWT5DMNL5IN7HFS5VFSI/</guid>
+      <dc:creator>성남=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:54:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYWCNJSHE4DONRRMVSTGZJWME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대장동 개발 비리 의혹 사건에 연루돼 특정경제범죄 가중처벌법상 배임 등 혐의로 기소된 남욱 변호사가 지난해 10월 31일 서울 서초구 서울중앙지방법원에서 열린 1심 선고공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시는 대장동 개발 비리 사건 민간 업자인 남욱씨의 재산 약 2000억원을 추가로 파악했다고 6일 밝혔다. 성남시는 범죄 수익 환수를 위해 법원에 추가 가압류를 신청하기로 했다.&lt;br&gt;&lt;br&gt;성남시에 따르면, 성남도시개발공사는 최근 남씨의 차명 재산으로 판단되는 천화동인 4호(현 엔에스제이홀딩스)를 상대로 낸 300억원 규모의 예금 채권 가압류 인용 결정을 받았다. 이후 금융기관이 법원에 제출한 채권·채무 관련 진술서를 확인하던 중, 검찰이 앞서 해당 계좌에 1010억원 상당의 추징보전 조처를 해둔 사실을 파악했다.&lt;br&gt;&lt;br&gt;또 남씨 소유의 서울 강동구 소재 부동산에 대해, 검찰이 1000억원 상당으로 평가해 추징보전 조치를 해둔 사실도 확인했다.&lt;br&gt;&lt;br&gt;성남시는 “해당 계좌(엔에스제이홀딩스)에 대한 가압류 가액을 기존 300억원에서 1000억여 원으로 확대하고, 남씨의 강동구 소재 부동산도 권리관계 확인을 거쳐 가액을 산정한 뒤, 가압류를 신청할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;성남시는 검찰에 요청해 받은 자료가 구체적이지 않아 추가 재산들을 제대로 파악하지 못하고 있었다고 했다. 검찰이 성남시에 넘겨준 건, 1심 수사·재판 과정에서 추가로 파악돼 실제 보전 조치된 ‘실질적 추징보전 재산 내역’이 아니라, 사건 초기에 파악된 재산을 근거로 한 법원의 ‘추징보전 결정문’이라는 것이다.&lt;br&gt;&lt;br&gt;성남시는 이 추징보전 결정문을 토대로 작년 12월 법원에 총 14건의 가압류 신청을 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7AW6GXIINPN7GIBLBQ4FVOW74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신상진 경기 성남시장이 작년 11월 19일 대장동 사건 항소 포기 관련 정성호 법무부 장관, 이진수 차관, 노만석 전 검찰총장 직무대행, 정진우 전 서울중앙지검장 등에 대한 고발장 제출을 위해 경기도 과천 정부과천청사 내 고위공직자범죄수사처로 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성남시 관계자는 “26만 쪽에 달하는 형사기록을 등사·열람하며 검찰이 알려주지 않은 은닉 재산을 직접 찾아내고 있다”고 했다. 성남시는 “남씨 측이 부동산 처분을 시도하고 있다”며 “재산 누수가 현실화되고 있다”고 했다.&lt;br&gt;&lt;br&gt;성남시는 남씨 관련 법인이 소유한 서울 강남구 역삼동 부지에 대해 가압류를 신청했는데, 서울남부지법은 검찰이 이미 추징보전을 했다는 이유로 이를 지난달 16일 기각했다. 시는 즉각 항고한 상태다.&lt;br&gt;&lt;br&gt;신상진 성남시장은 “성남시가 직접 ‘탐정’처럼 범죄자들의 숨겨진 재산을 찾아내야 한다”며 “자체적인 은닉 재산 추적과 전방위적 가압류 조치를 단행하며 고군분투 중이다”고 했다.&lt;br&gt;&lt;br&gt;한편, 성남도개공이 작년 12월 1일 민간 업자 4명(김만배·남욱·정영학·유동규)을 상대로 법원에 낸 가압류 및 가처분 신청 14건 중 현재까지 12건(5173억원)이 인용됐다. 항고 1건(400억원)과 미결정 1건(5억원)이 남아 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 무면허로 훔친 차 몰다 주유소서 흉기 위협… 도주 끝에 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/MYUT6FG6XNFZXAJEGJW6J3JHX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/MYUT6FG6XNFZXAJEGJW6J3JHX4/</guid>
+      <dc:creator>황채영 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:45:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OW75EDVNDQAPXGFCIOXD52K22M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 상태로 훔친 차량을 몰고 도주하다가 주유비를 내지 않겠다며 흉기로 주유소 직원을 위협한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 3일 오전 11시쯤 서울 서초구 반포동의 한 주유소에서 절도와 특수협박 혐의로 이모(34)씨를 현행범으로 체포했다고 밝혔다. 이씨는 범행 당시 운전면허가 없는 상태였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이씨는 지난 2일 오후 2시쯤 경기도 광명시에서 타인의 차량을 훔쳐 달아난 뒤, 다음 날 주유를 하기 위해 서울 서초구 반포동의 한 주유소를 찾았다. 이 과정에서 주유비를 내지 않기 위해 주머니에 있던 커터칼을 꺼내 주유소 직원을 위협한 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 순찰차 3대를 투입해 도주로를 차단한 뒤, 이씨가 몰던 차량을 세워 주유소 인근에서 검거했다.&lt;br&gt;&lt;br&gt;조사 결과 이씨는 범행 당시 주거침입 혐의로 지명통보가 내려진 수배자 신분이었던 것으로 확인됐다. 경찰은 이씨에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “현대제철 909억원 과징금 취소”… 고철 담합은 인정 </title>
+      <link>https://www.chosun.com/national/court_law/2026/01/06/F3GEW37FLBGYNIAECUICBGUDIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/06/F3GEW37FLBGYNIAECUICBGUDIA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:57:16 +0000</pubDate>
+      <content:encoded>법원이 고철 구매 가격 담합 행위로 공정거래위원회로부터 900억원대 과징금을 부과받은 현대제철에 대해 과징금 처분을 취소하라고 판결했다. 법원은 담합 행위 자체는 인정하면서도 공정위의 과징금 산정 방식에 문제가 있었다고 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AO7NWIDDYPZVYAHME2T27R4UWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대제철 잠원동 사옥. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울고법 행정7부(재판장 구회근)는 현대제철이 공정위를 상대로 낸 시정명령 및 과징금 납부 명령 취소 소송에서 지난해 11월 원고 일부 승소 판결했다.&lt;br&gt;&lt;br&gt;현대제철을 포함한 제강사 7곳은 2010년부터 2018년까지 약 8년간 고철(철스크랩) 구매 가격 담합을 벌인 것으로 조사됐다. 제강사들은 영남권과 경인권 권역별로 구매팀장 회의를 120회 열어 고철 기준 가격 변동 계획, 재고·입고량, 수입 계획 등 기준 가격 결정에 핵심이 되는 정보를 서로 공유하고 기준 가격을 합의한 것으로 공정위는 판단했다. 공정위는 제강사들에 시정 명령과 함께 총 3000억8300만원의 과징금을 부과했다. 이 중 현대제철은 담합을 주도한 업체로 지목돼 가장 많은 909억5800만원의 과징금을 부과받았다. 현대제철은 공정위의 과징금 처분에 불복해 소송을 제기했다.&lt;br&gt;&lt;br&gt;법원은 먼저 현대제철을 포함한 7개 제강사가 철스크랩 관련 담합 행위를 한 사실은 인정했다. 재판부는 “영남권과 경인권 사업자들은 월 1회 정도의 간격으로 정례적인 구매팀장 모임을 개최해 왔고, 이 모임에서 철스크랩 관련 중요 정보를 논의하고 기준가격 인상·인하 여부와 그 시기·폭에 관한 합의도 지속해 왔다”며 “2010년 6월부터 2018년 2월까지 구매팀 실무자 간에 빈번하게 유선·문자 등으로 접촉·교류하며 부당하게 경쟁을 제한하는 공동행위에 대한 명시적·묵시적 합의를 했다고 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 법원은 공정위가 과징금을 산정하는 과정에서 일부 관련 매출액과 위반 행위 횟수를 잘못 산정했다고 판단했다. 재판부는 “법원으로서는 재량권의 범위 내에서 어느 정도로 산정 기준을 가중하는 것이 적정한 것인지에 관해서는 판단할 수 없으므로 피고로 하여금 다시 재량권을 행사하도록 과징금을 전부 취소할 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;현대제철과 공정위 양측 모두 판결에 불복해 상고하면서 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;이번 사건은 공정위의 행정 처분에 대한 불복 소송으로, 공정거래법 제55조에 따라 서울고법이 사실상 1심 법원 역할을 하고, 바로 대법원으로 상고할 수 있는 2심제로 운영된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쌍방울 진술 회유’ 의혹 방용철, 서울고검 출석</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/06/HJFVT5KD2BGZ5MNG6TEXPDAGV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/06/HJFVT5KD2BGZ5MNG6TEXPDAGV4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 00:56:20 +0000</pubDate>
+      <content:encoded>‘진술 회유’ 의혹을 받는 방용철 전 쌍방울 부회장이 6일 서울고등검찰청에 출석했다. 서울고검 인권침해 태스크포스(TF)는 쌍방울 그룹이 대북 송금 재판의 핵심 증인을 매수하려고 했다는 의혹을 수사 중이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RWKMTFHE3DQMLFMY2TKNTBGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 10일 서울중앙지법에 도착한 방용철 전 쌍방울 부회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방 전 부회장은 이날 오전 9시 55분쯤 서울 서초구에 있는 서울고검에 도착했다. 방 전 부회장이 TF에서 조사받는 건 이번이 세 번째다. ‘대북 송금 비용을 이재명 대통령의 방북 비용이라고 진술을 바꾼 이유가 무엇이냐’는 취재진의 질문에 방 전 부회장은 “(검사가) 그런 질문한 적이 없다”며 “조사 결과를 받고 보면 알 것”이라고 했다. 방 전 부회장 측 변호인은 “오늘이 마지막 조사라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;방 전 부회장은 ‘쌍방울 불법 대북 송금’ 재판의 핵심 증인이었던 안부수 아태평화교류협회 회장을 매수했다는 혐의를 받고 있다. 검찰에 따르면 쌍방울 측은 안 회장의 변호사비 500만원 상당을 회삿돈으로 대신 납부하고, 그의 딸에게는 오피스텔을 마련해준 뒤 임대료와 보증금 등을 대신 내는 방식으로 7280만원을 지원한 것으로 조사됐다. 또 안 회장의 딸을 쌍방울 계열사에 취업한 것처럼 꾸미고 허위 급여 2705만원을 지급한 혐의도 있다.&lt;br&gt;&lt;br&gt;TF는 오는 7일에는 쌍방울 박모 전 이사, 8일에는 쌍방울 김성태 전 회장을 불러 조사하는 것으로 알려졌다. 앞서 작년 12월 법원은 이들에 대한 구속영장을 기각한 바 있다. 법조계에서는 검찰이 핵심 관계자들을 연이어 소환하는 만큼 조만간 관련 수사가 마무리될 것이란 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허위 계약서로 동거녀 모친 속여 3억 뜯어낸 30대, 징역 4년 </title>
+      <link>https://www.chosun.com/national/regional/2026/01/06/FAGM4B7Q25DC5GLNW2L4MQT2SY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/06/FAGM4B7Q25DC5GLNW2L4MQT2SY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 01:36:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2WGMBTMY2DIMTEMFQTKMBWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 금전대차 계약서 등으로 동거녀 모친을 속여 3억원을 가로챈 혐의로 재판에 넘겨진 30대에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사8단독 김미경 부장판사는 사기 등의 혐의로 재판에 넘겨진 A씨에게 징역 4년을 선고했다고 6일 밝혔다. A씨는 동거녀인 B씨의 모친에게 “B씨가 지인에게 돈을 빌려주기 위해 사채를 썼는데 갚지 못하면 사채업자가 딸에게 해를 입힐 것”이라고 겁을 주는 방식으로 2024년 3월부터 지난해 3월까지 20여 차례에 걸쳐 3억여 원을 가로챈 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 B씨가 모친과 연락을 끊고 지낸다는 점을 알고, 허위 금전대차 계약서를 만들어 속인 것으로 드러났다. A씨는 가로챈 돈을 도박 자금 등으로 사용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;김 부장판사는 “피해자가 경제적 피해에 더해 심한 정신적 고통을 입어 A씨에 대한 엄벌을 탄원하고 있다”며 “A씨는 동종 범행 등으로 여러 차례 형사처벌을 받은 전력이 있고, 누범 기간 중 범행을 저질러 엄중한 처벌이 필요하다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“소대가리가 더 똑똑” “터진 입이라고 지껄여”…직내괴 사례 보니</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/G4EMXIDZS5BLBKGBUGXDZ5G3LI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/G4EMXIDZS5BLBKGBUGXDZ5G3LI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 00:33:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVOIWFIXYFCOTND3UCYEJ2XYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장인 10명 중 3명은 폭언 등 직장 내 괴롭힘을 당했다는 설문조사 결과가 나왔다. 괴롭힘 유형은 모욕, 비하, 무시, 폭행, 폭언, 협박 등 다양했다.&lt;br&gt;&lt;br&gt;6일 직장갑질119가 여론조사 전문 기관 ‘글로벌리서치’에 의뢰해 지난달 1일부터 14일까지 직장인 1000명을 대상으로 진행한 설문조사 결과에 따르면, 직장인 33%가 직장 내 괴롭힘을 경험했다. 이 중 17.8%는 모욕·비하·무시 등을, 15.4%는 폭행·폭언·협박·태움 등을 겪었다고 답했다.&lt;br&gt;&lt;br&gt;직장갑질119가 지난 한 해 제보를 받아 정리한 사례에 따르면, 언어 폭력의 주요 유형은 ▲“죽여 버릴까, 난 여자도 때릴 수 있다” 등 협박형 ▲“소대가리도 너보다 똑똑하겠다” 등 비교·비난형 ▲“네 머리에는 그게 이해가 되냐” 등 능력 모욕형 ▲“터진 입이라고 맘대로 지껄이냐” 등 신체 비하형 ▲“국어 못하냐”와 같은 인격 말살형 등으로 다양했다.&lt;br&gt;&lt;br&gt;특히 “죽여 버린다”는 식의 협박형 폭언이 비일비재한 것으로 나타났다. 작년 10월 한 제보자는 “대면으로 일을 질책하는 과정에서 ‘목을 졸라 버릴까’ ‘죽여 버릴까’ ‘머리 박아’ 등 심한 폭언을 당했다”고 했다. 같은 해 1월 한 회사원은 “법만 아니었으면 저를 죽여 버리고 싶다고 말한 사람이 하루에도 몇 번씩 째려보며 지나간다”며 “너무 두렵다”고 했다.&lt;br&gt;&lt;br&gt;직장갑질119는 최근 불거진 이혜훈 기획예산처 장관 후보자 갑질 의혹을 언급하며 일반 직장에서도 유사 사례가 빈번히 발생하고 있다고 짚었다. 그러면서 “직장인들이 일터에서 겪는 가장 크고 일상적인 고통은 무엇보다 상사의 폭언과 막말”이라며 “인간의 존엄성을 파괴하는 ‘이혜훈 언어 폭력’을 추방하고 안하무인 사장, 인격 말살 상사는 일터에서 사라져야 한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 후보자는 2017년 바른정당 의원이던 시절 자신의 이름이 언급된 언론 기사를 보고하지 않았다는 이유로 인턴 직원을 나무라는 통화 녹취가 공개되며 갑질 의혹이 불거졌다. 녹취에 따르면, 이 후보자는 당시 인턴 직원에게 고성을 지르며 “너 아이큐가 한 자리냐” “내가 정말 널 죽였으면 좋겠다” 등의 발언을 했다. 해당 인턴은 이 같은 폭언 이후 보름 만에 의원실을 그만둔 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공동현관 출입에 월 3만3000원… 택배기사에 출입료 부과한 아파트</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/ESUR5I2DWBAEZC4Q6NRVAWMYAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/ESUR5I2DWBAEZC4Q6NRVAWMYAI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 00:22:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRTEOJUMUZTGYZQMQZGEMTDMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 인천시 남동구 한 아파트의  ‘공동현관 마스터키 발급 및 인수 확인서'./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트가 택배 기사에게 공동 현관 출입 카드를 발급해 주는 대가로 월 사용료를 요구한 사실이 알려져 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난 2일 한 온라인 커뮤니티에는 ‘택배 아파트 출입 사용료에 대해서 어떻게 생각하시나요?’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨가 공개한 인천시 남동구 한 아파트의 ‘공동현관 마스터키 발급 및 인수 확인서’에는 택배 회사 및 택배 기사가 아파트에 상시 출입하기 위해 마스터키를 발급받고 보증금 10만원과 월 사용료 3만3000원을 납부해야 한다는 내용이 담겼다.&lt;br&gt;&lt;br&gt;해당 문서에는 “모든 층의 승강기 버튼을 한꺼번에 눌러서 이용하지 않는다” “카드는 타인에게 양도 및 대여하지 않는다” “분실된 출입키로 인한 사고에 대한 모든 책임은 분실자에게 있음을 확인한다” “위반 시 어떠한 조치에도 이의를 제기하지 않는다”는 조항이 포함돼 있었다. &lt;br&gt;&lt;br&gt;A씨는 “출입 카드 보증금 10만원까지는 이해를 하겠는데 사용료로 월 3만3000원을 내라는 건 뭐냐”며 “아파트 출입과 엘리베이터 사용을 위해 매달 사용료를 받겠다는 것”이라고 했다. 그는 또 “이제는 아파트도 구독료를 내야 하냐”며 “9개 단지 모두 같은 조건이라면 월 29만7000원이 든다”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “돈을 내면서도 이의 제기를 하지 말라는 건 과하다” “보증금까지만 이해가 된다” “주민이 주문한 물건을 배달하는 기사에게 왜 비용을 떠넘기느냐” “이기적이고 배려 없는 조치” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;비슷한 사례는 과거에도 있었다. 작년 8월 전남 순천시의 한 아파트 단지는 택배기사들에게 공동 현관과 승강기 이용요금을 받겠다고 했다가 ‘갑질 논란’에 휩싸인 끝에 이를 철회했다.&lt;br&gt;&lt;br&gt;당시 해당 아파트는 공동 현관문 카드 보증금 5만원과 이용료 5000원(연 5만원)을 부과하기로 했고, 택배 기사들은 사전 협의 없이 통보받아 연 10만원에 달하는 비용을 부담해야 했다. 논란이 커지자 순천시는 해당 아파트를 찾아 협조를 요청하고, 관내 아파트 단지에 택배 기사에게 요금을 받지 말 것을 권고하는 공문을 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동료 교수 아들 점수 ‘부풀리기’ 의혹…한체대 교수 2명 입건  </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/VBEM2LU4O5CRNHWRYH7NW36DQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/VBEM2LU4O5CRNHWRYH7NW36DQU/</guid>
+      <dc:creator>정동하 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 00:42:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUTIG2Q6PEKP5Y2KE6TXPZLDOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 한국체육대 교수 자녀가 부정 입학한 정황을 파악해 수사 중이다.&lt;br&gt;&lt;br&gt;서울경찰청 형사기동대는 한체대 A·B교수를 업무방해 등 혐의로 불구속 입건했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A교수는 2021학년도 한체대 입학시험에 정시로 지원한 동료 B교수 아들의 실기 점수를 부풀린 혐의를 받는다. 경찰은 B교수의 청탁을 의심하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 실기 종목은 10m 왕복 달리기·제자리멀리뛰기·윗몸일으키기 등으로, A교수는 실기 종목 감독관으로 들어가 B교수 아들의 윗몸일으키기 개수를 부풀리는 등 점수를 후하게 줬다는 의혹을 받는다. 경찰은 작년 10월 한체대 입시학생팀을 압수수색해 관련 영상을 확보한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 조만간 수사를 마무리하고 두 교수의 송치 여부를 결정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통일교 검·경 합동수사단장에 김태훈 서울남부지검장</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/06/WQKFLSAM4BDJNNLZKCBUYPZN3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/06/WQKFLSAM4BDJNNLZKCBUYPZN3Q/</guid>
+      <dc:creator>유희곤 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 00:27:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLIZKOVLHRBEJMVRRB2Z27CSUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태훈 서울남부지검장이 작년 10월 23일 서울 여의도 국회 법제사법위원회에서 열린 서울고검·서울중앙지검 등에 대한 국정감사에서 의원 질의에 답하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘통일교·신천지 정교(政敎) 유착 의혹’을 수사할 검·경 합동수사본부 단장에 김태훈(55·30기) 서울남부지검장이 내정된 것으로 6일 알려졌다.&lt;br&gt;&lt;br&gt;법무부와 대검찰청은 김 지검장을 단장으로 내정하고, 서울고검 등에 수사본부를 설치하는 방안을 검토 중이다. 수사본부는 파견 검사와 파견 경찰 등 수십 명 규모로 구성될 예정이다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 작년 12월 30일 정치권이 추진하는 ‘통일교 특검’과 별개로 검·경 합동수사본부 설치 검토를 지시했다. 이 대통령은 “종교가 정치에 개입하고, 매수하고, 유착한 부분은 나라의 미래를 위협하는 중대 사안”이라며 “특검만 기다리지 말고 경찰과 검찰 합수본을 만들든지 검토해 달라”고 했다.&lt;br&gt;&lt;br&gt;단장으로 내정된 김 지검장은 문재인 정부 때 법무부 검찰과장을 맡아 윤석열 당시 검찰총장에 대한 징계 등을 총괄한 인사다. 윤석열 정부에서 좌천됐다가 정권 교체 후 작년 7월 검찰 인사에서 검사장으로 승진했다. 작년 11월 노만석 전 검찰총장 직무대행의 ‘대장동 항소 포기’ 논란 때에는, 일선 지검장들이 낸 항소 포기 경위에 대한 설명을 요청하는 성명서에 임은정 동부지검장과 함께 이름을 올리지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나 의사인데 돈 좀 빌려줘” 베트남서 의사 사칭한 50대 집유</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/06/ZQTJJ7OPNRAQFGCG47LSP72CUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/ZQTJJ7OPNRAQFGCG47LSP72CUU/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 00:18:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNH5ZV5RB7PRA7HRLZGR4IF3ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남에서 성형외과 의사 행세를 하며 지인으로부터 수천만원을 가로챈 50대 남성이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사14단독 강경묵 판사는 지난해 12월 9일 사기 혐의로 재판에 넘겨진 A씨에게 징역 8개월에 집행유예 2년을 선고하고, 사회봉사 80시간을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2020년 11월 베트남 호치민시에서 피해자 B씨가 운영하는 미용실을 방문한 뒤, 자신을 국내 의과대학 성형외과 출신이자 베트남 대형 성형외과에서 근무하는 의사라고 속인 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 2020년 12월 피해자에게 “연말까지 갚을 테니 시술에 필요한 의약품 구입 비용을 빌려달라”고 요청했고, 이를 시작으로 2021년 9월까지 총 6차례에 걸쳐 3500만원을 가로챘다.&lt;br&gt;&lt;br&gt;A씨는 수술복을 착용한 사진을 소셜 미디어에 게시하는 등 의사 행세를 했지만 실제 의사가 아니었으며, 해당 금액을 의약품 구입에 사용할 의사나 변제 능력도 없었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 수술복을 착용한 사진을 소셜 미디어에 게시하는 등 의사 행세를 하며 범행을 저질러 죄질이 불량하다”면서도 “범행을 모두 인정하며 반성하고 있고 피해자에게 총 4840만원을 지급해 원만히 합의한 점, 형사처벌 전력이 없는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘화물차 정비하다가’… 30대 男, 차량에 끼여 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/01/06/E6JGQYIAEVCODNBWTKSC6AZTNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/06/E6JGQYIAEVCODNBWTKSC6AZTNI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 00:11:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4WGNZUMJRGCNZVMQ2DIYJWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 화물차 정비소에서 작업 중이던 30대 남성이 사고로 숨졌다. &lt;br&gt;&lt;br&gt;6일 인천소방본부와 인천경찰청 형사기동대 등에 따르면, 전날 오전 10시 9분쯤 인천 중구 신흥동의 한 화물차 정비소에서 30대 A씨가 25t 트럭 정비 작업 중 사고를 당했다. &lt;br&gt;&lt;br&gt;A씨는 차량 밑에서 앞바퀴 쪽 누유 여부 등을 점검하던 중 동료 근로자가 핸들을 조작하면서 바퀴와 판 스프링 사이에 머리가 끼어 크게 다친 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 119구급대에 의해 병원으로 옮겨지던 중 숨진 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 A씨 시신 부검을 의뢰하고, 안전 수칙 준수 여부 등 구체적인 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>딸기가 고기보다 비싸다는데… 밭에선 따자마자 버린다?</title>
       <link>https://www.chosun.com/national/national_general/2026/01/06/U4LFCYGM55H5TGQN4ZA62EYN4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/U4LFCYGM55H5TGQN4ZA62EYN4U/</guid>
@@ -714,15 +867,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/7YXGPFMYAJFOBJ2MUQNLR4YFYQ.gif?auth=cd181e71c52f5aed9c3f05c591d2874dd6331353d7124d6bb38bcb563cc3f88f&amp;smart=true&amp;width=800&amp;height=446" type="image/jpeg" height="446" width="800"/>
     </item>
     <item>
-      <title>점심값이 두려운 직장인들 따릉이 타고 전통시장 간다</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/05/LPPKM4GNL5CCDKNT2QHFTKW3YE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/LPPKM4GNL5CCDKNT2QHFTKW3YE/</guid>
-      <dc:creator>김병권 기자, 윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OJXCATV3BAGPDUMHT4AQZLWUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 오후 서울 영등포시장의 한 국밥집. 여의도에서 온 직장인들로 붐볐다. /윤성우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 30일 오후 12시쯤 찾은 서울 영등포구 영등포중앙시장은 직장인들로 북적였다. 약 2km 떨어진 여의도 직장에서 동료와 함께 차를 운전해 순대국밥집을 찾은 박모(31)씨는 “회사 근처 식당은 점심값이 기본은 1만5000원, 비싸게는 2만~3만원까지 한다”며 “시장은 많아도 1만원이면 한 끼를 든든하게 해결할 수 있어 자주 찾는다”고 했다. 이 시장에선 콩나물비빔밥이 4000원, 잔치국수는 5000원이다. &lt;br&gt;&lt;br&gt;다음 날 오후 12시 30분 서울 강남구의 영동전통시장도 수십 명의 직장인들이 몰려 대기 줄이 생겼다. 정장을 차려입은 직장인들이 전체 고객의 30%는 돼 보였다. 영등포시장에서 10년 넘게 순대국밥집을 운영하고 있는 서모(47)씨는 “점심시간에 여의도에서 ‘따릉이’(서울시 공공 자전거)를 타고 밥 먹으러 오는 직장인들이 부쩍 늘었다”고 했다.&lt;br&gt;&lt;br&gt;쌀국수 한 그릇에 1만5000원, 파스타 3만원 하는 시대. 고금리·고물가와 경기 한파가 계속되면서 직장인들이 식비를 아끼려고 점심 시간마다 전통시장이나 주변 구내식당으로 ‘원정 식사’에 나서고 있다. 직장인들은 “회사 인근 음식점에서 밥을 먹으면 ‘식후 커피’까지 예산을 적어도 2만원 이상 잡아야 하는데 월급이 밥값으로 다 나갈 판”이라며 “조금이라도 아끼려 발품을 팔고 있다”고 했다.&lt;br&gt;&lt;br&gt;직장인들은 비싼 점심값을 줄이려고 주변 구내식당도 찾고 있다. 서울 용산역·청량리역에 있는 코레일 직원 식당은 가격이 7000원(용산역은 6500원) 정도라 점심시간만 되면 인근 직장인들로 북적인다. 밥과 국이 기본으로 나오고 두부찜, 깍두기, 숙주나물 등 반찬 3개 정도가 매일 바뀐다. 김치찌개, 돈가스, 두부조림, 오징어젓갈 등 매일 메뉴가 바뀌는 서울 중구 코리아나호텔 구내식당도 도심 직장인들의 ‘성지’로 꼽힌다. 소셜미디어에선 “합리적 가격에 든든하게 한 끼 먹을 수 있다”는 구내식당 체험 후기가 이어지고 있다.&lt;br&gt;&lt;br&gt;간편 결제 서비스 업체 NHN페이코에 따르면 작년 상반기 수도권 주요 업무 지구 12곳의 직장인 평균 점심값은 1만1583원이었다. 특히 강남(1만4000원), 여의도·서초(각 1만3000원) 등은 평균보다 2000~3000원 비쌌다. 점심값이 가장 비싼 곳은 대기업 본사가 밀집한 삼성동(1만5000원)이었다.&lt;br&gt;&lt;br&gt;이은희 인하대 소비자학과 교수는 “전통시장이나 구내식당 음식들은 가심비(가격 대비 심리적 만족도)가 높은 편”이라며 “색다른 분위기에서 식사할 수 있는 것도 젊은 직장인들을 끌어들이는 비결”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“김병기, 尹정부 실세 의원에 아내 수사 무마 청탁”</title>
       <link>https://www.chosun.com/national/national_general/2026/01/05/FRR3DIXBXVBXRBOBDGE4I2T3A4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/FRR3DIXBXVBXRBOBDGE4I2T3A4/</guid>
@@ -730,107 +874,6 @@
       <description/>
       <pubDate>Sun, 04 Jan 2026 15:55:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2GINRTMQZWGNLEMM3GEMDEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 원내대표가 지난달 30일 서울 여의도 국회에서 열린 원내대책회의에서 본인과 가족을 둘러싼 각종 특혜·갑질 의혹에 대해 입장을 밝힌 뒤 입장문을 주머니에 넣고 있다. 김 원내대표는 이날 입장 발표를 통해 원내대표직에서 사퇴한다고 밝혔다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 김병기 의원이 2024년 아내 이모씨의 서울 동작구의회 업무추진비 사적 유용 의혹에 대한 경찰 수사를 무마해 달라고 국민의힘 중진 A 의원에게 청탁했다는 관련자 진술을 경찰이 확보한 것으로 4일 확인됐다. A 의원은 경찰 고위 간부 출신으로 윤석열 정부 때 실세로 꼽혔다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 김 의원 아내 이씨가 2022년 7∼9월 민주당 소속 동작구의회 조모 부의장의 업무용 법인카드를 사용했다는 의혹에 대해 2024년 5월부터 내사를 진행 중이었다. 이런 상황에서 김 의원이 A 의원에게 사건 무마를 청탁했고, A 의원은 당시 B 동작경찰서장에게 전화해 “무리하게 수사하지 말라”는 뜻을 전했다는 의혹이 제기된 것이다. 동작서는 그해 8월 이씨 법인카드 유용 의혹에 대한 내사를 ‘혐의 없음’으로 종결했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“김병기, 尹정부 쪽 인사와 따로 식사도… 한달 지나 아내 무혐의"&lt;/b&gt;&lt;br&gt;&lt;br&gt;경찰은 지난해 11월 과거 김병기 의원실에서 비서관으로 근무했던 C씨를 조사하는 과정에서 김 의원이 2024년 당시 정권 실세로 꼽힌 A 의원에게 수사 무마 청탁을 했다는 취지의 진술을 확보했다. 작년 11월 동작서는 김 의원 차남의 대학 편입 특혜 및 취업 청탁 의혹을 수사하고 있었다. 김 의원 아내의 업무 추진비 유용 의혹과는 별개 사건이다. 그런데 경찰에 출석한 C씨가 “김 의원이 2024년 A 의원을 찾아가 법인카드 유용 의혹 사건과 관련해 동작서장에게 전화를 해 달라고 부탁했다고 말하는 걸 들었다”고 진술했다는 것이다.&lt;br&gt;&lt;br&gt;본지가 입수한 김 의원의 비서관 출신 C씨의 작년 11월 경찰 참고인 진술서를 보면, 김 의원은 2024년 아내 이씨의 법인카드 유용 의혹 사건과 관련해 보좌진들과 대책을 논의했다. 이 과정에서 김 의원은 “(국민의힘) A 의원이 동작서장을 잘 안다고 하더라”면서 “(내가 찾아갔더니) 바로 그 자리에서 (동작서장에게) 전화해서 ‘무리하게 수사하지 말라’고 하더라”라고 했다. 김 의원은 그해 7월엔 A 의원과 조찬도 함께한 것으로 알려졌다. 결국 동작서는 한달 후인 그해 8월 무혐의로 내사를 종결했다. &lt;br&gt;&lt;br&gt;A 의원과 당시 동작서장이었던 B 총경은 관련 의혹을 부인했다. A 의원은 “김 의원에게 이 사건과 관련해 전화를 받은 적도 없고, 당시 동작서장과 통화한 적도 없다”고 말했다. B 총경은 “A 의원과 통화한 기억도 없고 하지도 않았을 것”이라고 했다. &lt;br&gt;&lt;br&gt;이런 가운데 김 의원이 2024년 아내 사건과 관련해 경찰에서 작성한 것으로 보이는 문건을 입수한 것 아니냐는 의혹도 제기됐다. C씨가 작년 11월 경찰에 제출한 진술서에서 “(경찰의 김 의원 아내에 대한) 내사가 한창 진행되던 2024년 5월 20일 오후 5시쯤 김 의원이 서울 방배동에 있는 한 카페에서 문을 닫아 놓고 보좌관과 만나 동작서에서 작성한 서류를 전달받았다. 서류 내용은 법인카드를 갈취당한 (동작구의회 부의장) 조모씨 진술서였다”고 밝힌 것이다. C씨는 통화에서 “법인카드 소유자인 조모 동작구의회 부의장의 향후 진술 방향을 짚어준 문서에 가까웠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산의 ‘사하라’… 사막처럼 변신한 다대포해수욕장</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/05/STDYYTV3WNDM3B6VX43SUDOB6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/05/STDYYTV3WNDM3B6VX43SUDOB6A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIQ5WJCQJRHLVC7ZDSFCWO2ISI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 드론으로 촬영한 부산 사하구 다대포해수욕장. 겨울 바람이 강하게 불어 백사장에 물결 무늬가 생겼다. 고운 모래가 쌓여 사막처럼 보인다. 이날 부산과 울산, 강원·경북 동해안 지역에는 건조특보가 발령된 가운데 강한 바람이 불었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엄마, 말이 신기하게 생겼어요”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/01/05/PWBTVFS3KZABLLA5S52LL2RXDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/05/PWBTVFS3KZABLLA5S52LL2RXDE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTJGK77XMNAJTMRN7VFAFCNLHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 종로구 국립민속박물관에서 열린 2026년 병오년 말띠해 특별전 ‘말들이 많네-우리 일상 속 말’에서 어린이 관람객이 전시물을 보고 있다. 국립민속박물관은 2002년부터 매년 띠와 관련된 전시를 개최해 십이지 동물에 대한 민속 문화를 소개해왔다. 해당 전시는 3월 2일까지 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대 정원, 늦어도 설 연휴 전까지 결론</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/01/05/K6EMIOGQRFG7VNE5VRGNC4XPZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/05/K6EMIOGQRFG7VNE5VRGNC4XPZE/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>미래 의사 인력에 대한 전망을 내놓는 의사인력 수급추계 위원회(추계위)가 지난달 말 활동을 종료함에 따라 2027학년도 의과대학 정원에 대한 논의가 본격적으로 시작된다. 결과는 늦어도 다음 달 설 연휴 전에는 나올 것으로 전망된다.&lt;br&gt;&lt;br&gt;보건복지부는 6일 보건의료 정책심의 위원회(보정심) 2차 회의를 열어 추계위가 지난달 말 내놓은 보고서를 논의한다고 4일 밝혔다. 앞서 추계위는 국민의 의료 이용량 등을 바탕으로 2040년 기준 5704~1만1136명의 의사가 부족할 것으로 내다봤다.&lt;br&gt;&lt;br&gt;보정심이 회의에서 다룰 추계위 보고서에는 의사 인력 전망과 함께 추계위원들의 의견이 함께 담길 예정이다. 현재 추계 결과가 과학적이지 않고 의료계 입김이 과도하게 반영됐다는 지적이 나오고 있어 보정심이 추계위에서 오간 다양한 주장을 살펴보겠다는 것이다. &lt;br&gt;&lt;br&gt;이와 함께 정부는 보정심에서 정부 측 인사 비율을 줄이기로 했다. 현재 보정심(총 25명)은 복지부 장관 등 정부 측 8명, 수요자·공급자 대표 각 6명, 전문가 5명으로 이뤄져 있는데, 이 중 정부 위원을 2명 줄이고 민간 위원을 늘리기로 했다. 의료계 안팎에선 “보정심 결과가 공정하다는 걸 외부에 보여주려는 것”이라는 해석이 나왔다. &lt;br&gt;&lt;br&gt;보정심은 당장 3월 고3이 되는 학생이 치르는 2027학년도 입시의 의대 정원을 정해야 한다. 이 때문에 앞으로 매주 회의를 열어 이르면 이달 안에, 늦어도 내달 설 연휴 전에는 결론을 내놓을 것으로 보인다. &lt;br&gt;&lt;br&gt;2027학년도 모집 정원은 2026학년도 정원에서 최소 150명 늘어날 것이란 전망이 나온다. 이재명 정부가 ‘지역의사제’를 신설해 국공립 의대 정원의 5%(50명) 정도를 뽑고, 전남에는 100명 이상 규모의 의대 신설을 추진하고 있기 때문이다.&lt;br&gt;&lt;br&gt;이보다 증원 규모가 더 늘어날 가능성도 점쳐진다. 추계위가 내놓은 부족한 의사 인력을 채우려면 2027학년도부터 2034학년도까지 8년간 매년 713~1392명의 의대생을 추가로 뽑아야 하기 때문이다. 다만 의대 증원 규모가 지나치게 커질 경우 2024년 2000명 의대 증원 발표로 촉발된 ‘의정 갈등 시즌2′가 시작될 것이라는 우려도 나오고 있다. 실제로 추계위 결과가 나온 이후 서울시의사회 등 의사 단체들은 “정원 확대를 강행하는 정부 방침을 단호히 규탄한다”고 반발했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞보건의료 정책심의 위원회&lt;/b&gt;&lt;br&gt;&lt;br&gt;보건의료 분야 주요 정책 방향을 심의하는 보건복지부 장관 소속 기구. 복지부 장관이 위원장을 맡고, 정부 위원 7명(차관급), 수요·공급자 대표 각 6명, 전문가 5명 등 25명으로 구성된다. 의대 정원 등 심의 사안이 발생할 때만 개최된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광역 지자체 행정 통합 논의에 교육감 선거 대혼란</title>
-      <link>https://www.chosun.com/national/education/2026/01/05/PDK3BD6QMVD2JIL5YDWPPX3N7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/05/PDK3BD6QMVD2JIL5YDWPPX3N7A/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>정치권에서 대전·충남, 광주·전남 행정 통합 논의가 급물살을 타고 있는 가운데, 해당 지역의 교육감 선거 후보들의 혼란이 커지고 있다. 6월 3일 지방선거에서 치러지는 교육감 선거 후보자는 당장 다음 달 3일 예비 후보자 등록을 해야 하는데, 대전·충남, 광주·전남 통합시 교육감 선출 방식을 어떻게 할지 불투명하기 때문이다. &lt;br&gt;&lt;br&gt;현재 국회에 발의된 대전·충남 통합에 관한 특별법은 3월 통과할 것이라는 전망이 나온다. 이재명 대통령도 지난 2일 X(옛 트위터)에 광역 지자체 간 행정 통합을 추진하자는 메시지를 올리기도 했다. &lt;br&gt;&lt;br&gt;대전과 충남 모두 현직 교육감이 ‘3선까지만 연임할 수 있다’는 제한 규정에 걸려 ‘무주공산’인 지역으로, 후보가 10명 가까이 난립하고 있다. 대전 교육감 선거에 출마 예정인 한 후보는 “선거가 어떻게 이뤄질지 종잡을 수 없어 혼란스러운 상황”이라며 “도심 지역인 대전과, 농어촌이 많은 충남은 교육 환경이 다르고 후보들도 지역 상황에 맞춰 출마를 준비하고 있는데 이번엔 따로 선출하는 게 맞지 않나 생각한다”고 말했다. &lt;br&gt;&lt;br&gt;대전교육감 선거에서 진보 진영 단일화를 추진하는 ‘미래 교육을 위한 대전시민교육감 단일화기구’는 최근 입장을 내고 “교육계에 미치는 영향 등을 논의하지 않고 통합 논의에 속도를 내는 것은 미래 교육에 전혀 도움이 되지 않는다”고 밝혔다. &lt;br&gt;&lt;br&gt;광주·전남 지역도 상황은 비슷하다. 관련 특별법이 지난달 발의됐고, 강기정 광주시장과 김영록 전남지사는 이번 선거에서 통합 단체장을 선출하겠다는 뜻을 밝힌 상황이다. 이에 따라 광주시와 전남도 역시 통합 교육감을 선출해야 하는 것 아니냐는 의견이 나오는 것이다. 현역인 이정선 광주교육감과 김대중 전남교육감 모두 첫 임기를 마치는 상황이라 올해 선거에 출마하는 데 아무런 제한이 없다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>매킬로이 “LIV 선수들, PGA 복귀한다면 징계 필요 없다”</title>
-      <link>https://www.chosun.com/national/people/2026/01/05/X5A7HPLHQNDRZIAZNRRPWQRLDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/05/X5A7HPLHQNDRZIAZNRRPWQRLDA/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 15:42:00 +0000</pubDate>
-      <content:encoded>PGA(미 프로골프) 투어를 대표하는 스타 로리 매킬로이(37·북아일랜드)가 LIV 선수들의 PGA 복귀를 찬성하며 징계도 필요 없다는 입장을 밝히고 나섰다. 간판 스타 이탈, 신규 영입 부진 등 이유로 흔들리는 LIV를 더욱 세차게 몰아붙이려는 의도적 발언으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOHRI2WEVREZDEKTKSKDQXL6FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매킬로이는 지난 2일(현지 시각) 영국 한 스포츠 팟캐스트 인터뷰에서 “LIV 선수들은 많은 돈을 벌었지만 그쪽에 가면서 명성 등 여러 가지를 잃었기 때문에 이미 대가(consequence)를 치렀다”고 주장했다. 그러면서 “브라이슨 디섐보든 누구든 PGA 투어를 더 강하게 만드는 선수라면 복귀를 찬성한다”고도 했다. 자신과 앙숙인 디섐보까지 언급하며 LIV 선수들의 복귀를 적극적으로 부추긴 셈이다.&lt;br&gt;&lt;br&gt;매킬로이는 2022년 LIV 출범 초기에는 “LIV 선수들 때문에 회복 불가능한 피해가 발생했다. 그들을 받아들일 수 없다”며 강경한 입장을 보였다. 2024년 들어선 “복귀는 수용할 수 있다”고 한발 물러섰고, 이번엔 ‘징계가 필요 없다’는 주장을 한 것이다.&lt;br&gt;&lt;br&gt;이에 대해 골프다이제스트는 “매킬로이가 물속의 피 냄새를 맡았다”고 했다. 사우디아라비아 국부펀드(PIF)가 주도하는 LIV는 최근 간판 스타 브룩스 켑카를 조기 계약 해지로 떠나보냈다. 신규 영입은 부진한 가운데, 올해 계약이 만료되는 디섐보와의 연장 협상도 완료되지 않았다. 이에 매킬로이가 마치 상어처럼 LIV 내부 균열 조짐이라는 ‘피 냄새’를 감지하고 공세에 나섰다는 분석이다. &lt;br&gt;&lt;br&gt;실제 매킬로이는 같은 날 “켑카가 TGL에서 함께 뛰면 정말 좋겠다. 그가 원하면 방법을 찾아볼 것”이라는 말도 했다. TGL은 PGA 투어 선수들이 출전하는 스크린 골프 리그다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 쓰레기통 악취에 신문지</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/04/6JMZISI3IBF7HFU3RW6EBMHGAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/6JMZISI3IBF7HFU3RW6EBMHGAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 14:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JAPHUVIDBDVJB5SAPB5FVNTNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방 안 쓰레기통에 신문지를 잘라 넣어보자. 신문지가 악취와 습기를 흡수한다. 창문을 열어 환기하기 어려운 겨울철에 유용하다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 1월 5일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/04/NUXI5M6BQNDMZFOKNKWB6UOVFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/04/NUXI5M6BQNDMZFOKNKWB6UOVFE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 14:32:00 +0000</pubDate>
-      <content:encoded>절기상 ‘소한’… 이어지는 강추위&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HU4JNF4PFFF27J6SLWHGLDMLUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 안양천서 50대 女 시신 발견...경찰 “타살 정황 없어”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/4KCN4VPDJVBIZH2P55EUYS7XTU/</guid>
-      <dc:creator>임희재 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 08:57:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRPGU4MKCCOEOCJNDIMHIBZEOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 8시쯤 서울 양천구 안양천에서 50대 여성이 숨진 채 발견돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오전 소방 당국에 접수된 신고를 받고 현장에 출동해 신원 미상의 50대 여성 시신을 수습했다고 밝혔다. 경찰은 타살 정황은 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시신에 별다른 외상이 없는 점으로 미루어 보아 아직까지 범죄 혐의점은 없다고 보고 있다”며 “현재 사망자의 신원 확인 중”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>평년보다 따뜻한 ‘소한’...최저기온 영하 10도</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/04/SCB5RBLSINF3LDGE7VJC72ZRNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/04/SCB5RBLSINF3LDGE7VJC72ZRNY/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 07:44:18 +0000</pubDate>
-      <content:encoded>5일은 절기상 1년 중 가장 춥다는 소한(小寒)이지만, 새해 첫날부터 나타난 강추위보다는 기온이 다소 높게 나타날 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VL2EFKERTJKHPGTCBBZJS5SME4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 최저기온이 영하 12도를 기록하며 한파특보가 발효된 2일 서울 영등포구 여의도 한강변에 얼음이 얼어있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 아침 최저기온은 영하 10도에서 영상 2도, 낮 최고기온은 0~10도로 예보됐다. 평년(아침 영하 12~0도·낮 영상 1~9도)과 비슷하거나 조금 높은 수준이다. &lt;br&gt;&lt;br&gt;우리나라 겨울 기온은 시베리아 고기압의 영향을 크게 받는다. 시베리아 고기압의 찬 공기 덩어리는 1월 초 소한 무렵 가장 강하게 영향을 미치는데, 올해는 새해 첫날부터 최저기온이 영하 16도까지 떨어지는 등 일찍 맹추위가 찾아왔다. 추위의 강도와 시점은 해마다 대기 흐름에 따라 조금씩 달라질 수 있다. 북쪽에서 남하한 찬 공기 덩어리는 1월 말 대한(大寒)쯤에 그 영향이 차차 약해진다.&lt;br&gt;&lt;br&gt;이날 경기 북부 내륙과 강원 내륙·산지를 중심으로 아침 기온이 영하 10도 안팎으로 낮겠고, 바람도 강하게 불어 체감 온도는 더욱 낮겠다. 새벽과 오전 사이 제주도와 울릉도·독도는 눈이나 비가 오겠다. 예상 적설량은 제주도 산지 1∼5㎝, 울릉도·독도 1∼3㎝다.&lt;br&gt;&lt;br&gt;이날 전국에는 구름이 많다가 중부지방은 오전부터, 남부지방과 제주도는 차차 맑아지겠다. 동쪽 지역은 당분간 대기가 매우 건조할 것으로 전망돼 화재에 유의해야 한다. 미세먼지 농도는 전국에서 ‘좋음’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘강제추행’ 혐의 현직 부장검사 무혐의 처분 </title>
-      <link>https://www.chosun.com/national/court_law/2026/01/04/5XEUKB5AIFBSBPZFDJH7XVAL3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/04/5XEUKB5AIFBSBPZFDJH7XVAL3E/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 07:40:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44WIMBVGU4WCYTFGZRWENLFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 강제추행 혐의로 송치한 현직 부장검사가 검찰에서 무혐의 처분을 받았다. 4일 법조계에 따르면 서울중앙지검 여성아동범죄조사1부(부장 박은혜)는 현직 부장검사 A씨 사건을 증거 불충분에 따라 혐의없음 처분했다.&lt;br&gt;&lt;br&gt;A씨는 서울 강남 자택에서 지인인 여성 B씨의 어깨 등을 강제로 접촉한 혐의를 받고 있다. A씨는 자신의 혐의를 부인했지만, 앞서 사건을 수사한 서울 강남경찰서는 기소 의견으로 A씨를 검찰에 송치했다. A씨는 당시 수원지검 성남지청 소속이었다.&lt;br&gt;&lt;br&gt;사건을 넘겨받은 검찰은 A씨의 혐의를 입증할 증거가 충분치 않다고 판단한 것으로 전해졌다. 강제추행죄는 피해자의 고소가 있어야만 처벌할 수 있는 친고죄나 피해자 의사에 반해 처벌할 수 없는 반의사불벌죄도 아니지만, 검찰은 B씨가 A씨와 합의 후 고소를 취하한 점도 고려했다.&lt;br&gt;&lt;br&gt;검찰은 형사처벌과 별개로 A씨에 대한 감찰을 진행 중이다. 노만석 당시 검찰총장 직무대행은 경찰이 A씨를 검찰에 송치하자 작년 10월 22일 법무부에 A씨의 직무집행 정지를 요청했고, 정성호 장관은 이를 받아들였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의료사고 당하고도 병원에 5억원 물어주게 된 환자...사건 전말은?</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/04/TRFUTX4FNRFXBDLZZNPNZWI7Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/04/TRFUTX4FNRFXBDLZZNPNZWI7Y4/</guid>
-      <dc:creator>김병권 기자, 임희재 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 Jan 2026 07:27:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DQMZWGNRGGZTGME2WEMJZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합의를 어기고 병원의 의료 사고 사실을 폭로한 환자가 병원에 위약벌을 지급해야 한다는 법원 판결이 나왔다. &lt;br&gt;&lt;br&gt;서울남부지법 제13민사부(재판장 정원)은 지난해 11월 병원과 환자의 맞소송에 대해 환자 측이 병원에 5억원을 지급해야 한다는 결론을 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사건은 지난 2018년으로 거슬러 올라간다. 환자 A씨는 잘못된 각도로 붙어버린 관절을 교정하기 위해 서울의 한 병원을 찾았지만, 의료진의 착오로 문제가 생긴 왼팔이 아닌 오른팔에 수술을 받았다. 병원 측에선 합의금으로 15억원을 지급하는 대신 비밀을 유지할 것을 환자에게 요청했다. 환자 측이 민·형사 소송을 제기하거나 외부에 의료사고를 알리면 위약벌로 합의금의 2배(30억원)를 물리는 조건이었다.&lt;br&gt;&lt;br&gt;이에 A씨 측은 수술 부위를 지속적으로 관찰해서 오른팔에 후유증이 남으면 3억원을 추가로 받기로 했다. 후속 치료를 받던 A씨 측은 수술 부위에 염증이 생기고 후유장애가 생겼다며 2020년쯤 추가 합의금 3억원을 요구했다. 하지만 병원 측은 이를 거절했고, A씨 측도 2020년 돌연 합의를 취소한다고 했다. 원본에 따르면 18억원을 지급해야 하는데 15억원만 지급했다며 병원에서 합의서를 위조했다는 주장도 했다. 2021년 9월에는 병원 앞에서 1인 시위도 진행했다.&lt;br&gt;&lt;br&gt;사건은 결국 법원까지 가게 됐다. 법원은 “A씨 측에서 5억원을 병원에 지급하는 게 맞는다”고 결론 내렸다. 비밀유지 조건을 어긴 이상 위약벌을 물어야 한다고 본 것이다. 재판부는 수술 부위에 심각한 후유증이 남지 않았고, “2018년에 합의금을 지급받았을 땐 아무 말도 없다가 추가 합의금을 요구한 2020년에야 비로소 합의서 위조를 주장했다는 점에서 합의서가 위조됐다고 볼 만한 증거도 없다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨 측에서 1인 시위에 사용한 피켓엔 수술에 관한 내용이 포함돼 있다”며 “피켓의 내용과 시위가 진행된 장소 등을 고려할 때 비밀을 유지하기로 한 합의를 어긴 게 맞다”고 판단했다. 법원도 계약서에 기재된 위약벌 30억원을 모두 지급하는 건 부당하다고 보면서도 “유효한 위약벌 금액이 적어도 5억원을 넘는 건 타당하다”고 결론 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘1분 빨랐던 수능벨’ 사건…수험생 배상액 2심서 200만원 늘어</title>
@@ -849,19 +892,6 @@
       <description/>
       <pubDate>Sat, 03 Jan 2026 00:25:03 +0000</pubDate>
       <content:encoded>연말·연초 맹추위가 이어지는 가운데, 일요일인 4일에는 추운 날씨가 한층 누그러지며 낮 최고기온이 10도까지 오르겠다. 전국 아침 최저기온은 영하 10도~영상 2도, 낮 최고기온은 1∼10도로 예보됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJTGGMLEGJSTENLCMY2DKNRSGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 기상청에 따르면, 일요일 오후부터 찬바람이 그치며 날이 차츰 풀리겠고, 다음 주(5∼11일)에는 기온이 평년 수준으로 회복될 전망이다. 하지만 1월 초중순은 1년 중 가장 추운 시기라 기온이 오르더라도 아침엔 영하권 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;4일 전국은 대체로 흐리다가 오후부터 수도권과 강원도에서 차차 맑아지겠다. 충남 서해안에는 비나 눈이 내리겠고, 경기 남부 서해안 지역과 전북에는 0.1㎝ 미만의 눈발이 날리겠다. 예상 적설량은 충남 서해안 1㎝ 미만이다.&lt;br&gt;&lt;br&gt;미세먼지는 서울·경기 남부를 비롯한 중부권 일부 지역이 ‘나쁨’, 그 밖의 지역은 ‘좋음’∼‘보통’으로 예보됐다.&lt;br&gt;&lt;br&gt;4일까지 강원 산지와 동해안엔 순간풍속 55㎞/h 안팎의 강풍이 불겠다. 당분간 동해안 지역엔 너울에 의한 높은 물결이 백사장에 강하게 밀려오거나 방파제를 넘는 곳이 있겠으니, 시설물 관리와 해안가 안전사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>떠난 엄마께… 미얀마 소녀가장 열창에 ‘눈물의 하트’</title>
-      <link>https://www.chosun.com/national/people/2026/01/03/DOG44F6INBAYHI7XAKWIQQARLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/03/DOG44F6INBAYHI7XAKWIQQARLA/</guid>
-      <dc:creator>김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFB2RH3IW5EHDPE4LLGGLYSUCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 방송된 TV조선 ‘미스트롯4’ 무대에서 유지나의 ‘모란’을 열창하는 완이화(19). 여섯 살 때 미얀마에서 아버지를 잃었고, 2016년 내전을 피해 어머니와 두 남동생과 함께 한국으로 이주했다. 어머니마저 간암으로 세상을 떠나며 소녀 가장이 된 그는 “두 동생과 한국에서의 행복한 삶을 위해 미스트롯4에 도전했다”고 했다./TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미얀마 내전을 피해 한국으로 건너온 19세 소녀 가장의 목소리가 ‘미스트롯4’ 무대를 가득 채웠다. 난민 신분으로 살아가며 두 동생을 책임지고 있는 완이화(19)는 마스터 예심 무대에서 유지나의 ‘모란’을 불렀다. &lt;br&gt;&lt;br&gt;그리 길지 않은 삶의 무게가 노래에도 고스란히 실렸다. 무대가 끝나자 ‘하트 18개’가 켜졌고, 박세리 마스터는 “가장이라는 무게가 너무 무거울 것 같다”며 끝내 눈물을 보였다. 지난 1일 방송된 TV조선 ‘미스트롯4’는 한 참가자의 삶을 비추는 장면으로 마스터 예심의 마지막을 장식했다.&lt;br&gt;&lt;br&gt;완이화는 미얀마 소수 민족인 카렌족 출신이다. 본명은 완이화 퐁파타난던. 여섯 살 때 아버지를 사고로 잃었고, 지난 2016년 어머니와 두 남동생과 함께 한국으로 이주했다. ‘기역·니은’도 모른 채 초등학교 3학년 과정에 입학했지만, 맏딸로서 책임감을 짊어지고 자랐다. &lt;br&gt;&lt;br&gt;아버지는 생전 미얀마에서 가수로 활동했다. 어린 시절 아버지를 대신해 무대에 섰던 인연으로 한국에 정착한 뒤에도 가요제와 오디션을 거치며 무대 경험을 쌓았다. 2018년 이주민 가요제를 계기로 주목받았고, 2020년 KBS ‘트롯 전국체전’을 시작으로 ‘유희열의 스케치북’과 ‘불후의 명곡’ 등에 출연하며 이름을 알렸다.&lt;br&gt;&lt;br&gt;하지만 무대 뒤의 삶은 순탄하지 않았다. 중학교 3학년이던 2022년, ‘불후의 명곡’ 출연을 앞두고 어머니는 간암으로 세상을 떠났다. 녹화를 불과 일주일 앞둔 순간이었다. 당시 완이화는 “이 무대는 꼭 보고 가셨으면 좋겠다고 기도했다”고 했다. 이젠 홀로 두 동생을 책임져야 하는 소녀 가장. 그가 다시 도전한 무대가 ‘미스트롯4’였다. 그는 “두 동생과 한국에서의 행복한 삶을 위해 도전했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AABXB5H3IBF4HALDP3VO6BOATI.png"&gt;&lt;figcaption&gt;&lt;small&gt;완이화와 두 동생들./TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 ‘미스트롯4’는 완이화의 무대를 비롯한 마스터 예심을 마무리한 뒤, 곧바로 본격적인 본선 1차 팀 대결에 들어갔다. 예심을 통과한 참가자들은 이제 개인이 아닌 팀으로 무대에 올라 생존을 건 경쟁에 나섰다. 본선 첫 관문은 한 장르에서 두 팀이 맞붙어 승리한 팀만 살아남고, 패배 팀은 전원 탈락 후보가 되는 팀 데스매치 방식으로 진행됐다. 마스터 평가에 더해 현장을 찾은 200인의 국민대표단 표심이 반영되며, 첫 대결부터 결과를 예측하기 어려운 승부가 이어졌다.&lt;br&gt;&lt;br&gt;가장 치열했던 승부는 대학부가 나선 ‘록 트롯’ 대결이었다. 간호대생 길려원, 현대 무용 전공 유수비, 국악과 윤예원이 뭉친 대학부와 ‘현모양처’ 구희아, 무속인 최희재, 미국 마이애미에서 온 니나, 한의원 직원 이제나가 있는 직장부A는 각각 ‘날이 날이 갈수록’과 ‘마음 약해서’를 파격적인 록 트롯 무대로 재해석하며 팽팽히 맞섰다. 마스터 점수는 8대 8 동률을 이뤘고, 승부는 국민대표단의 단 한 표에서 갈렸다. 현장 투표 결과 대학부가 극적으로 승리를 거두며 본선 시작부터 무대의 긴장감은 최고조가 됐다.&lt;br&gt;&lt;br&gt;‘국악 트롯’ 대결에서는 유소년부가 또 하나의 변곡점을 만들었다. 100만 유튜버 윤윤서, 고교 1학년 김수빈, 옌볜(延邊) 출신 전하윤, 초등학교 4학년 배서연, 미얀마 난민 소녀가장 완이화로 구성된 유소년부는 ‘흥아리랑’을 시원한 가창과 완성도 높은 퍼포먼스로 풀어내며 타장르부B를 제쳤다. 국악인재 홍성윤, 생황 연주자 허새롬, 가요제 대상 신현지, 고구려북 황현송이 있는 타장르부B 역시 ‘아라리’로 울림 있는 무대를 완성했지만, 결과는 12대 5로 유소년부의 승리였다. 박선주 마스터는 무대를 두고 “돌아가신 아버지를 추모할 수 있었던 시간”이라고 평했다. 본선 1차 첫 관문에서는 대학부와 유소년부 등 ‘젊은 피’가 통과하며 세대 교체의 신호탄을 쐈다. &lt;br&gt;&lt;br&gt;이날 방송에서는 마스터 예심을 통해 선발된 진선미도 함께 공개됐다. 진(眞)은 ‘울고 넘는 박달재’로 정통 트롯의 정수를 보여준 현역부 이소나가 차지했고, 선(善)은 타장르부 국악 인재 홍성윤, 미(美)는 대학부 간호대생 길려원이 각각 이름을 올렸다. 이날 치열한 예심을 통과해 본선에 오른 팀은 총 53팀. 오는 8일 오후 10시 방송에서는 팀 데스매치와 함께 1대1 데스매치가 이어진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PDQABFAX4ZC4NNSGPW7NUQGPIM.jpg?auth=b53bbfbaa7f5c963ca153a0281d173c481f4f3c41b1c9c82c76351c3ed19cec7&amp;smart=true&amp;width=2117&amp;height=1191" type="image/jpeg" height="1191" width="2117">
-        <media:description type="plain">지난 1일 방송된 TV조선 ‘미스트롯4’ 무대에서 유지나의 ‘모란’을 열창하는 완이화(19). 여섯 살 때 미얀마에서 아버지를 잃었고, 2016년 내전을 피해 어머니와 두 남동생과 함께 한국으로 이주했다. 어머니마저 간암으로 세상을 떠나며 소녀 가장이 된 그는 “두 동생과 한국에서의 행복한 삶을 위해 미스트롯4에 도전했다”고 했다./TV조선</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>검찰, 서해 피살 은폐 사건 ‘반쪽 항소’</title>
@@ -910,15 +940,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGPUZ6LJGVJSFOWJNXX5KVM5GU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;교육부가 올해 중학교 2학년 학생부터 적용되는 2028학년도 대학입시제도 개편 확정안을 지난달 27일 발표했다. 2028학년도 수능부터는 현행 국어, 수학, 사회·과학탐구, 직업탐구 영역에서 실시하던 선택과목제를 폐지하고 통합형으로 치러진다. 모든 수험생은 2028학년도 수능부터 문·이과 구분 없이 같은 과목을 치르게 된다. 사진은 지난달 서울 양천구 목동 학원가 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 서울 대치동의 한 수학·과학 학원은 고3 물리1 수업 1개를 없앴다. 50명 정원인데 5명도 신청하지 않았기 때문이다. 이 학원 관계자는 “작년 11월 수능 직후 물리1 수능반을 예약했던 학생(현 고2)들이 대거 수강 신청을 취소했다”며 “2022학년도 ‘문·이과 통합 수능’ 실시 이후에도 과학탐구영역(과탐) 수강자가 20~30명은 됐는데, 최근 1~2년 사이 급격하게 줄어 수업을 아예 열지 못하는 과학 강사도 있다”고 했다. 목동 등 다른 지역 학원가에서도 물리·화학 과목 수능반이 점점 없어지고 있다.&lt;br&gt;&lt;br&gt;대학수학능력시험(수능)에서 이공계 학생이 과학 대신 사회탐구영역(사탐)에 몰리는 이른바 ‘사탐런’ 현상이 심화되고 있다. 상대적으로 학습 부담이 적으면서도 고득점에 유리한 사탐에 응시하는 자연계 수험생이 갈수록 늘고 있는 것이다. &lt;br&gt;&lt;br&gt;수능에서 사탐 1과목 이상을 본 수험생 비율은 2023년 52.2%, 2024년 62.2%에서 지난해 77.3%까지 올랐다. 올해 수능을 보는 현 고2에선 이 비율이 80%대를 기록할 것으로 종로학원 등 사교육 업계는 보고 있다. 이번 수능 사탐에서 2등급 이상을 받은 수험생은 전년 대비 30%(1만8375명) 증가한 반면, 과탐은 응시자가 줄면서 경쟁이 치열해져 2등급 이상이 25.3%(1만2612명) 줄었다. 한 입시 전문가는 “올해는 과탐 응시자 비율이 처음으로 10%대까지 내려갈 수 있을 것”이라고 했다. &lt;br&gt;&lt;br&gt;이런 현상은 서울대 등 주요 상위권 대학이 그동안 자연계 수험생에게 내건 과탐 응시 조건을 2025학년도 대입부터 폐지한 데다, 과탐 응시자에 대한 가산점 영향이 줄어든 탓이 크다. 서울대 자유전공학부는 수시 지역균형 전형에서 탐구 과목 선택에 제한을 두지 않는다. 이에 사탐을 택한 자연계열 상위권 학생이 늘면서 2026학년도 서울대 수시에서 의예과·첨단융합학부 등 기존 인기 학과 경쟁률은 줄어든 반면, 자유전공학부 경쟁률은 올랐다. 고려대·부산대·경북대 등 주요 대학은 2026학년도 정시부터 자연계 학과뿐 아니라 의대에서도 탐구 지정 과목을 없애 사탐 응시자의 지원이 가능해졌다. 2027학년도 입시에선 성균관대·서강대·한양대 등 서울 소재 대학이 학생부 교과 전형에서도 자연 계열 학과 지원 시 수능 최저 충족 여부에 사탐 과목을 인정하기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2026년 1월 3일</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/03/RXU3RHKKCNBVBNCQP2J6OOKVFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/RXU3RHKKCNBVBNCQP2J6OOKVFQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOYYJSL7DJBHTOWCRRLWBJGY6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“외국 기업에 불리한 러 소송서 부당 과징금 126억 받아냈죠”</title>
       <link>https://www.chosun.com/national/people/2026/01/03/V64T4MOMWNDK7CTP5JXW6AWESE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/03/V64T4MOMWNDK7CTP5JXW6AWESE/</guid>
@@ -926,33 +947,6 @@
       <description/>
       <pubDate>Fri, 02 Jan 2026 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2CRBTX6CBGB5IHQYVQLLWRL6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10여년 동안 러시아에 진출한 우리 기업을 대신해 법률 소송을 진행해온 법무법인 율촌의 러시아·CIS 전담팀. 왼쪽부터 한혜진 통역사, 정규진 변호사, 이화준 변호사, 조은진 변호사, 김영주 변호사, 이태은 변호사. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“러시아에서의 법적 분쟁은 출발선부터 외국 기업에 불리합니다. 강력한 행정 권한 때문에 한국 기업들은 부당함을 느끼면서도 소송을 포기해 왔지요.” &lt;br&gt;&lt;br&gt;지난달 초 서울 삼성동에서 만난 법무법인 율촌의 이화준 변호사는 그 통념을 깨온 인물이다. &lt;br&gt;&lt;br&gt;그는 최근 한국 의료기기 업체 오스템임플란트를 대리해 러시아 중앙관세청을 상대로 한 행정소송에서 승소, 부당하게 부과된 과징금 126억원을 전액 반환받았다. 여기에 지난해 12월 이자 33억원까지 추가로 받아내는 판결을 이끌어냈다. 러시아 관세 행정의 관행처럼 여겨지던 ‘사후적 관세율 변경’에 정면으로 제동을 건 사례였다. 이번 승소는 주러시아 한국대사관과 러시아에 진출한 한국 기업들 사이에서도 한국과 러시아의 수교 35년 동안 전례없는 판결로 회자되고 있다.&lt;br&gt;&lt;br&gt;이 변호사는 국내 로펌 가운데 유일하게 6명으로 구성된 러시아·CIS(독립국가연합) 전담팀을 이끌고 있다. 그는 “팀원들은 러시아어·영어·한국어 3개어를 자연스럽게 구사한다”며 “러시아 법정 싸움의 가장 중요한 요소는 언어라서 번역이나 통역을 통하면 한계가 있다”고 했다. 또 “러시아 법원과 행정기관을 상대할 땐 법률 문장 하나, 용어 하나가 판결을 좌우하기 때문에 6명이 총동원된다”고 했다. &lt;br&gt;&lt;br&gt;이번 126억원 과징금 사건에서도 이 구조는 그대로 작동했다. 러시아는 소송 규모와 관계없이 1심이 단독판사 체제로 진행돼 판사 개인의 판단 영향이 크다는 점을 활용했다. 사건을 하나로 묶지 않고 통지서 발송 순서에 따라 3건으로 분리해 제소한 전략은 러시아 사법 구조를 정확히 파고든 것이었다. &lt;br&gt;&lt;br&gt;이 변호사는 러시아에서 초·중·고교를 졸업하고, 모스크바국립대학교 법학부와 동 대학원을 최우등으로 마쳤다. 군 복무를 위해 귀국해 국방부 조달본부와 방위사업청에서 러시아 무기 도입 프로젝트인 ‘불곰사업’의 법률 자문을 하면서 러시아의 국가 시스템과 관료 구조를 직접 경험했다. &lt;br&gt;&lt;br&gt;이 변호사와 러시아·CIS 팀은 지난 10여 년 동안 한국 기업들의 러시아 내 법정 싸움을 도맡아왔다. 현대·기아차의 러시아 공장 매각 및 철수 자문, 삼성전자와 LG전자의 공장 임대 및 제재 대응, 대한항공의 대규모 과징금 감액 소송, 한국항공우주공사(KAI)의 러시아 군사 기술 관련 손해배상 소송을 맡아 승소했다. 모두 러시아 정부 또는 공공기관을 상대로 한 것이었다.&lt;br&gt;&lt;br&gt;이 변호사는 “우크라이나 전쟁 이후 글로벌 로펌이 러시아에서 철수했지만, 율촌은 모스크바 사무소를 유지하고 있다”며 “러시아에 남아 있는 한국 기업과 철수 과정에서 분쟁에 휘말린 기업을 위한 법적 창구가 필요하다는 판단에서다”라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>프로게이머 ‘페이커’ 이상혁, e스포츠 첫 체육훈장 청룡장</title>
-      <link>https://www.chosun.com/national/people/2026/01/03/LP4IIGFSJFCUZNZALFY7YT2QOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/03/LP4IIGFSJFCUZNZALFY7YT2QOA/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIK7KWBREBMSRFZZRF3POEY2HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 2일 청와대 영빈관에서 열린 신년 인사회에서 프로게이머 '페이커' 이상혁 선수에게 포상한 뒤 박수를 치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 리그 오브 레전드(LoL) 월드 챔피언십(롤드컵) 3년 연속 우승으로 e스포츠의 새 역사를 쓴 ‘페이커’ 이상혁(30)이 2일 청와대 신년 인사회에서 체육훈장 청룡장을 받았다. 청룡장은 체육훈장 중 최고 등급으로 앞서 손기정, 박찬호, 박세리, 김연아, 손흥민 등이 받았다. 프로게이머 최초로 훈장을 받은 페이커는 “한국 e스포츠를 사랑하는 모든 분들께 작은 자부심이 되기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>처음의 마음 그대로</title>
-      <link>https://www.chosun.com/national/weekend/2026/01/03/U3IVQYFP5BBK7HNNAFKVAYYQAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/01/03/U3IVQYFP5BBK7HNNAFKVAYYQAA/</guid>
-      <dc:creator>김승범 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQU4ASBRI5CW3NPKIBCWYEEKSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 새해 첫 해맞이를 위해 많은 사람들이 전남 장흥군 정남진 전망대를 찾았다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026년 새해가 밝고 나서 사흘째 되는 날입니다. ‘작심삼일(作心三日) 공식’에 따라, 새해 첫날 세운 결심이 벌써 흔들리는 분도 계실지 모르겠습니다. 시경(詩經)에 ‘미불유초, 선극유종(靡不有初, 鮮克有終)’이라는 말이 나옵니다. 처음에는 누구나 노력하지만 끝까지 해내는 사람은 드물다는 뜻인데요. 중국 최초의 시가집인 시경에 이 내용이 담긴 것만 봐도, ‘작심삼일’의 역사가 얼마나 유구한지 알 수 있습니다. 결심을 세우는 마음의 설렘, 하지만 그것을 끝까지 지켜내는 것의 어려움은 시대와 공간을 넘어 인간에게 공통된 숙명 아닌가 싶습니다.&lt;br&gt;&lt;br&gt;오늘날 연구 결과를 보면, 새해 결심의 80%가 1분기 안에 중단되고 목적을 최종 달성하는 비율은 8%에 그친다고 합니다. 이는 단순히 의지 부족만의 문제가 아닐 겁니다. 많은 사람이 큰 목표를 세우지만 구체적인 계획이나 실천 방법을 마련하지 못하고, 일상 속 여러 변수와 유혹에 쉽게 흔들리곤 합니다. 운동이나 금연, 다이어트, 독서 같은 목표를 세우고 나서 처음에는 의욕이 넘치지만, 시간이 지나면서 이러저러한 이유로 계획이 깨지기 쉽습니다. &lt;br&gt;&lt;br&gt;성공 확률을 높이는 핵심은 작은 습관의 축적, 그리고 지속적인 점검과 조정에 있습니다. 완벽함보다는 지속성을 우선순위에 두고, 혹시라도 며칠 만에 계획을 지키지 못했더라도 실패로 규정하며 포기할 필요는 없습니다. 계획이 잠시 어긋나더라도 마음을 다잡고 또 도전하는 유연함은 목표를 향해 나아가게 하는 동력이 됩니다. &lt;br&gt;&lt;br&gt;‘아무튼, 주말’ 지면과 관련해서 드릴 말씀이 있습니다. 이번 주부터 김황식 전 국무총리가 ‘풍경이 있는 세상’을 다시 연재합니다. 2023년 12월30일 자로 ‘풍경이 있는 세상’의 창(窓)을 닫았었는데, 2년 만에 독자님들 곁으로 돌아온 것입니다. 김 전 총리는 다정한 시선으로 바라본 세상의 풍경을 섬세하고 따뜻한 이야기로 풀어내 많은 이들의 공감을 불러일으켰습니다. ‘시즌2’에서도 김 전 총리가 연륜과 지혜를 담아 들려줄 세상 이야기가 기대됩니다. &lt;br&gt;&lt;br&gt;올해도 ‘아무튼, 주말’은 화제의 인물과 사건을 다각도로 조명하고, 현장의 생생한 이야기를 담아 독자님들께서 주말에 여유롭게 즐길 수 있는 읽을거리를 듬뿍 준비하겠습니다. 새해 복 많이 받으십시오. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>꼴도 보기 싫을 때, 내버려두는 게 상책일까요?</title>
-      <link>https://www.chosun.com/national/weekend/2026/01/03/IMRLFAOJKBCB7OTO2H7CMPVAXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/01/03/IMRLFAOJKBCB7OTO2H7CMPVAXQ/</guid>
-      <dc:creator>박성덕 연리지가족부부연구소장(정신건강의학과 전문의)</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XE6PKJV4LZE5TG2LPVEDEX5IHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=유현호&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q.&lt;/b&gt; 남편과 외출할 때 조용한 날이 없습니다. 남편은 늘 약속 시간에 딱 맞춰 나가려고 합니다. 저는 좀 일찍 출발하려 하고요. 어릴 적 약속 시간에 늦었다가 아버지한테 크게 혼난 경험 때문에 저는 무조건 빨리 나가는 습관이 생겼어요. 준비를 다 해놓고 남편을 기다리는 동안 안절부절못하다 결국 폭발합니다. “언제 나가?” 소리를 지릅니다. 그러면 남편은 “아직 시간 남았잖아”라고 맞섭니다. 말다툼이 이어집니다. “뭐 하는데?” “안 늦어. 먼저 가든지.” 언성이 높아지고 결국 기분이 상한 채 문밖을 나섭니다. 이뿐 아닙니다. 사소한 일로 시작된 다툼이 감정싸움으로 번지는 경우가 잦은데, 대부분 생활 습관 차이에서 비롯됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;A.&lt;/b&gt; 연애 초기에는 서로 다른 생활 습관과 취미조차 매력으로 느껴집니다. 이 시기에는 차이가 문제가 되지 않고, 비교적 쉽게 극복되기도 합니다. 하지만 결혼해 가정을 이루고 함께 보내는 시간이 늘면서 상황은 달라집니다. 직장과 사회생활, 가사와 육아로 부담이 커질수록 부부는 점차 부조화와 상처를 경험하게 됩니다. 스트레스가 쌓이면서 이전의 여유로운 반응은 줄어들고 실망과 오해가 늘어납니다. 관계에 거리감이 생기면 일상을 공유하는 영역도 줄어듭니다. 말만 꺼내도 싸움으로 번지는 경우가 늘다 보니 공유 자체가 위험한 일처럼 느껴지기 때문입니다. 힘든 일이 있어도 털어놓지 않고, 내적 실망은 눈덩이처럼 불어납니다.&lt;br&gt;&lt;br&gt;“말해 봤자 소용없어. 들어주지 않을 게 뻔해.”&lt;br&gt;&lt;br&gt;“말하면 자기가 피해자인 척할 게 분명해. 차라리 말을 하지 말자.”&lt;br&gt;&lt;br&gt;“내가 얼마나 힘든지는 안중에도 없어.”&lt;br&gt;&lt;br&gt;이렇게 부부는 점차 일상을 나누지 못하고 거리감은 커져 갑니다. 그 과정에서 이전에 호감으로 느껴졌던 생활 습관의 차이는 부정적으로 보이게 됩니다.&lt;br&gt;&lt;br&gt;부부치료 분야에서 성공 모델로 인정받는 ‘정서중심 부부치료’는 이럴 때 부부가 서로 접근·반응·교감하지 못하게 됐다고 진단합니다. 건강한 부부는 자신의 긍정적·부정적 경험과 생각, 가치관·상처 등을 배우자에게 표현하고, 상대는 이해와 수용으로 반응합니다. 이때 핵심은 정서적 교감입니다. 건성으로 반응하는 게 아니라, 상대의 마음에 적절히 응답하는 것입니다. 이처럼 접근·반응·교감이 유기적으로 이어질 때 갈등이 완화되고 차이가 희미해지며 부부의 정서적 유대가 강해집니다.&lt;br&gt;&lt;br&gt;하지만 상담을 의뢰한 부부는 이와 같은 건강한 접근·반응·교감이 무너진 상태입니다. 그 결과 유대감은 약해지고 거리감은 더 크게 느껴지며 갈등은 깊어집니다. 이 과정에서 부부 사이에 존재하던 차이가 크게 다가옵니다. &lt;br&gt;&lt;br&gt;이런 상호작용이 지속되면 결혼 생활 전반에서 사소한 일이 감정싸움으로 번지고, 냉랭한 기류가 자리 잡습니다. 문제의 핵심은 생활 습관의 차이 자체가 아니라 접근·반응·교감이 없어진 관계에 있습니다. 처음에는 매력으로 다가왔던 차이가 부부 간 갈등을 적절하게 풀지 못하면서 문제로 인식되는 것입니다. 부부가 취미와 습관이 같다고 해서 반드시 행복한 것도, 다르다고 해서 불행해지는 것도 아닙니다. 갈등이 있는 상태에서는 같은 취미조차 고통이 될 수 있습니다. “꼴도 보기 싫은데 취미까지 함께해야 하나.” 갈등은 차이를 실제보다 훨씬 크게 느끼게 만듭니다. &lt;br&gt;&lt;br&gt;갈등을 증폭시키는 것은 생활 습관의 차이 그 자체라기보다 이를 다루는 과정에서 드러나는 부정적인 접근과 반응입니다. 우선 아내가 돌아볼 부분이 있습니다. 어린 시절 아버지와의 부정적 경험이 남편과의 관계에서 불안과 분노를 촉발하고 있음을 인식해야 합니다. 아버지와 다른 지금의 남편과 결혼해서 상황이 달라졌음에도 아내는 여전히 약속 시간에 대해 예민하게 반응합니다. 아내에게 ‘약속’이란 즐거운 경험이 아니라 좋지 않은 아픈 기억, 즉 트라우마인 셈이지요. 일상에서 되풀이된 부정적 경험은 상처가 됩니다. 아내는 이를 자각하고, 아버지로부터 받은 아픔을 남편에게 솔직하게 표현하는 것이 회복의 중요한 열쇠입니다. 건강한 접근이란 상대를 비난하지 않고, 자신의 아픈 마음을 솔직히 전하는 것입니다. “약속에 늦으면 나는 많이 힘들어. 어릴 때부터 그런 경험이 반복돼서 그래. 조금만 내 마음을 알아주면 좋겠어.”&lt;br&gt;&lt;br&gt;관계 회복을 위해 남편이 이해해야 할 부분도 있습니다. 이 순간 남편에게 필요한 것은 맞서는 게 아니라 아내의 감정을 이해하는 것입니다. “당신이 예민하고 화를 잘 낸다고만 생각했지, 그런 아픔이 있는 줄은 몰랐어. 나도 조금 더 서둘러 준비해 볼게.”&lt;br&gt;&lt;br&gt;이처럼 서로 비난하거나 고함치기보다 자신의 마음을 솔직하게 표현할 때, 생활 습관의 차이는 갈등의 원인이 아니라 위로와 이해의 계기가 됩니다.&lt;br&gt;&lt;br&gt;부부가 생활 습관의 차이 때문에 다투는 경우는 많습니다. 거듭 강조하지만, 부부치료 전문가들은 생활 습관의 차이가 갈등의 본질은 아니라고 설명합니다. 이미 언급했듯이, 연애 초기에는 차이가 있더라도 그것이 갈등으로 인식되기보다 설렘과 호기심 속에서 유대감을 넓히는 계기로 작용하는 경우가 많습니다. 하지만 부부가 돼 함께 살아가며 일상 속에 작은 오해와 실망이 쌓이고, 서로에게 제대로 접근하지도, 반응하지도 못하는 순간이 늘면서 결속력은 점차 약해질 수 있습니다. 고통과 아픔을 표현하지 못할수록 갈등은 깊어집니다. 각기 다른 환경에서 자라온 부부에게 차이는 자연스러운 것입니다. 문제는 그 차이보다 그것을 다루는 과정에서 보이는 비난·무시·경멸·분노·무관심 등 태도가 더 큰 차이를 만든다는 점입니다.&lt;br&gt;&lt;br&gt;부부가 생활 습관의 차이로 고통을 겪고 있다면, 이는 자신과 배우자의 아픔을 바라보고 위로하라는 내적 신호입니다. 아픔을 드러내고 상대의 고통에 반응하며 교감할 때 차이는 작아집니다. 서로 상관하지 않고 내버려 두는 것을 ‘차이를 인정하는 것’으로 생각하는 부부가 많습니다. 그렇지 않습니다. 진정으로 차이를 인정하는 것은 다름에서 비롯되는 불편함을 이해하고 서로를 위로하는 것입니다. 그럴 때 비로소 차이는 극복될 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
