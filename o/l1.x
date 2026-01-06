@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'삼화페인트 3세' 김현정 부사장 신임 대표이사 취임</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: left;"&gt;고(故) 김장연 삼화페인트공업 회장의 장녀&amp;nbsp;&lt;span class="lawmanlink" serial="33803" style="font-weight: bold;"&gt;김현정&lt;/span&gt;(변호사시험 7회) 삼화페인트 부사장이 대표이사로 선임됐다. 이에 따라 삼화페인트는&amp;nbsp;&lt;span class="lawmanlink" serial="33803" style="font-weight: bold;"&gt;김현정&amp;nbsp;&lt;/span&gt;대표와 배맹달 대표 2인 각자대표 체제로 운영된다.&lt;/div&gt;&lt;br /&gt;이번 대표이사 선임은 지난달 16일 김장연 회장이 별세한 데 따른 것이다. 김 신임 대표는 지난달 29일 김 회장이 가지고 있던 주식 전액을 상속받아 지분 25.8%를 보유하며 최대주주에 올라섰다.&lt;br /&gt;&lt;br /&gt;그는 서울 청담고와 고려대 경영학과를 졸업하고 2012년 제46회 공인회계사시험에 합격했다. 이후 한양대 로스쿨을 졸업하고 제7회 변호사시험에 합격해 변호사 자격을 취득했다. &lt;br /&gt;&lt;br /&gt;삼화페인트에서는 2019년부터 근무했으며 글로벌전략지원실장, 경영지원부문장 등을 역임했다.</description>
+			<pubDate>Tue, 06 Jan 2026 04:56:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214747</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214747</guid>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
 			<title>공수처, '전현희 표적감사' 의혹 최재해·유병호 공소제기 요구</title>
 			<description>고위공직자범죄수사처는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6874"&gt;전현희&amp;nbsp;&lt;/span&gt;전 국민권익위원장(현 더불어민주당 의원)에 대한 표적 감사 의혹과 관련해, 최재해 전 감사원장과 유병호 전 감사원 사무총장(현 감사위원) 등에 대해 검찰에 공소제기를 요구했다. 민주당이 2022년 8월 감사원 관계자들을 고발한 지 3년 5개월 만이다.&lt;br /&gt;&lt;br /&gt;공수처는 6일 최 전 원장과 유 위원을 비롯해 전 공직감찰본부장, 전 기획조정실장, 전 특별조사국장, 전 특별조사국 제5과장 등 6명을 직권남용 권리행사방해 및 공용전자기록 등 손상 혐의로 공소제기해달라고 서울중앙지검에 요구했다. 해당 의혹을 감사원에 제보한 것으로 알려진 전 권익위 기획조정실장도 국회증언·감정법 위반 혐의로 검찰에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;최 전 원장과 유 위원은 2023년 6월 9일 감사원 사무처 직원 4명과 공모해 전 전 위원장 관련 감사보고서에 대한 위원들의 문안 심의·확정 절차가 완료되지 않았을 뿐 아니라, 주심 위원의 열람 결재가 되지 않았음에도 감사보고서를 확정·시행해 감사위원의 권리행사를 방해한 혐의를 받고 있다. 감사원 규정상 감사보고서는 감사위원들을 대표하는 주심위원의 열람·결재를 받아야만 시행된다. 당시 주심 위원은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사였다.&lt;br /&gt;&lt;br /&gt;또 최 전 원장 등은 이 과정에서 전산 유지보수업체 직원을 시켜 감사원 전자감사관리시스템 데이터베이스 서버에 직접 접속한 다음 주심 감사위원의 결재 관련 데이터베이스 자체를 삭제해 감사보고서 자체를 볼 수 없게 만든 혐의도 있다. &lt;br /&gt;&lt;br /&gt;공수처 관계자는 "수사 결과 이들은 주심위원에게 결재 상신된 뒤 불과 1시간여 만에 전산을 조작해 시행한 사실이 확인됐다"고 설명했다. &lt;br /&gt;&lt;br /&gt;전 권익위 기획조정실장 A씨는 2022년 8월 3일경 김사원에게 권익위 관련 감사 사항을 제보했음에도, 같은 해 10월 국회 정무위원회 국정감사에 증인으로 출석해 "감사원에 제보한 사실이 있느냐"는 질의에 "없습니다"라고 답변하는 등 허위 진술을 한 혐의를 받고 있다.</description>
 			<pubDate>Tue, 06 Jan 2026 04:11:13 -0000</pubDate>
@@ -223,16 +232,6 @@
 			<link>https://www.lawtimes.co.kr/news/214671</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214671</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>K팝 발목 잡는 송사</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/214648.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/214648.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;뉴진스 분쟁이 일단락됐지만, 2026년에도 K팝 업계의 송사는 이어진다. 하이브와 민희진 전 대표 간 소송을 비롯해 피프티피프티 분쟁, BTS 관련 명예훼손 소송, 양현석 YG엔터테인먼트 총괄의 시계 밀반입 사건, SM엔터테인먼트와 엑소 멤버 간 계약 분쟁 등 굵직한 재판들이 연이어 예정돼 있다. 업계 전반의 계약 구조와 책임 소재를 가를 판결들이 잇따라 나올 것으로 전망된다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;1월: 민희진 vs 하이브 전면전&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;첫 재판은 1월 9일 열리는 하이브 산하 레이블 ‘빌리프랩’과 민희진 전 어도어 대표 간 손해배상 소송 1심이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;담당 재판부는 서울서부지법 민사12부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2180"&gt;김진영&amp;nbsp;&lt;/span&gt;부장판사)다. 빌리프랩은 2024년 4월 민 전 대표가 기자회견에서 아일릿이 뉴진스를 베꼈다는 취지의 발언을 하자, 근거 없는 의혹 제기라며 소송으로 대응했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2025년 11월 변론에서 빌리프랩 측은 “민 전 대표가 어도어를 독립적으로 지배하기 위해 하이브에 배신행위를 했고, 기자회견을 통해 아일릿이 뉴진스를 표절했다는 좌표 찍기를 했다”고 주장했다. 민 전 대표 측은 “기자회견 전 쏟아진 무수한 인격권 침해 기사야말로 하이브가 기획한 여론전”이라며 “빌리프랩과 하이브가 민 전 대표의 입을 막고 매장하려 했다”고 반박했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1월 15일에는 하이브와 민희진 전 대표 간 주주 간 계약 해지 확인 소송 1심, 주식매매대금 청구 소송 1심 변론이 진행된다. 하이브는 2024년 7월 민 전 대표가 어도어와 뉴진스를 사유화하려 한다며 주주 간 계약을 해지했다. 같은 해 8월엔 민 전 대표를 어도어 대표직에서 해임했다. 민 전 대표는 어도어 사내이사직에서 물러난 뒤 260억 원 상당의 풋옵션(주식 매수 청구권)을 행사하겠다고 하이브에 통보했다. 하이브는 주주 간 계약이 해지된 만큼 풋옵션의 효력도 없다고 주장하지만, 민 전 대표는 풋옵션이 유효하다고 반박한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;같은 날 피프티피프티 소속사 ‘어트랙트’가 2023년 9월 안성일 더기버스 대표를 상대로 낸 21억여 원 규모의 손해배상 소송 1심 결론이 나온다. 전홍준 어트랙트 대표와 안 대표는 피프티피프티 전 멤버 새나, 시오, 아란의 소속사 탈퇴 문제를 두고 대립 중이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1월 23일에는 BTS 소속사 ‘빅히트’가 유튜브 채널 ‘탈덕수용소’ 운영자 박모 씨를 상대로 낸 손해배상 소송 항소심 판결이 선고된다. 빅히트는 박 씨가 허위 영상을 올려 BTS 멤버들의 명예를 훼손하고, 회사 업무를 방해했다며 2024년 3월 소를 제기했다. 2025년 2월, 1심 재판부는 “박 씨가 빅히트에 5100만 원, BTS 정국에게 1500만 원, BTS 뷔에게 1000만 원을 배상하라”고 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;2~3월: 130억 손배소, 양현석 밀반입&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2월에는 어트랙트와 피프티피프티 전 멤버 3인·안성일 대표 간 손해배상 소송 1심이 잡혀 있다. 소송 가액이 130억 원으로 크고, 피고 숫자도 12명으로 피프티피프티 관련 분쟁 가운데 가장 많다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;3월에는 양현석 YG엔터테인먼트 총괄 프로듀서의 시계 밀반입 사건 1심 공판이 열린다. 검찰은 2024년 9월 양 씨를 특정범죄가중처벌법 위반(관세) 혐의로 기소했다. 양 씨는 2014년 싱가포르에서 스위스 시계 브랜드 ‘리처드 밀’로부터 받은 수억 원대 명품 시계 2개를 세관에 신고하지 않고 국내에 반입한 혐의를 받는다. 양 씨 측은 리처드 밀이 홍보 차원에서 시계를 협찬했고, 시계를 받은 장소도 싱가포르가 아닌 서울이라고 주장한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;같은 달 SM엔터테인먼트가 엑소 멤버 첸·백현·시우민(이하 첸백시)을 상대로 낸 계약 이행 청구 소송 1심 변론도 진행된다. 양측은 2023년 6월 엑소 그룹 활동은 SM엔터테인먼트에서 하되 개인과 유닛 활동은 첸백시 측의 독자 레이블에서 하기로 합의했지만, 약속 이행에 대한 견해차로 법정 공방을 벌이고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 밖에 어도어가 2025년 12월 뉴진스 전 멤버 다니엘과 민희진 전 대표를 상대로 낸 430억여 원 규모의 손해배상 소송 1심도 주목된다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;이상우 기자&amp;nbsp; &amp;nbsp;lee845859@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;신나영 기자&amp;nbsp; &amp;nbsp;young@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 02 Jan 2026 20:06:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214648</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214648</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214648.jpg</media:thumbnail>
-			<dc:creator>이상우 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
