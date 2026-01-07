@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법사위, 통일교·2차 종합 특검법 안건조정위 회부</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214780.jpg" alt="121221.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;추미애 위원장이 1월 7일 국회에서 열린 법제사법위원회 전체회의에서 통일교 특검법과 2차 종합 특검법의 안건조정위원회 회부를 의결한 뒤 의사봉을 두드리며 정회를 선포하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회 법제사법위원회(법사위)가 통일교 특검법과 2차 종합 특검법을 더불어민주당 주도로 안건조정위원회에 회부했다.&lt;br /&gt;&lt;br /&gt;더불어민주당 소속&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&amp;nbsp;&lt;/span&gt;법사위원장은 1월 7일 서울 여의도 국회에서 열린 법사위 전체회의에서 본인을 포함한 10명의 법사위원이 안건조정위 구성요구서를 제출했다며 이같이 밝혔다.&lt;br /&gt;&lt;br /&gt;안건조정위는 박지원·&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3570"&gt;김기표&amp;nbsp;&lt;/span&gt;민주당 의원,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4009"&gt;곽규택&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="5963"&gt;주진우&amp;nbsp;&lt;/span&gt;국민의힘 의원, 비교섭단체인 박은정 조국혁신당 의원으로 구성됐다. 추 위원장은 "조정위원 선임과 안건조정위 심사 등을 위해 정회하겠다"고 정회를 선포했다.&lt;br /&gt;&lt;br /&gt;국회법 제57조의2에 따르면 상임위원회 안건에 대해 이견 조정이 필요할 경우 재적 위원 3분의 1 이상의 요구로 안건조정위를 구성할 수 있다. 안건조정위는 구성일로부터 최장 90일간 활동할 수 있으나, 위원 6명 중 4명 이상이 찬성하면 상임위원회로 회부돼 즉시 의결이 가능하다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1588"&gt;나경원&amp;nbsp;&lt;/span&gt;국민의힘 의원은 "안건조정위는 충분한 논의가 안 되고 다수당이 (법안을) 일방적으로 처리하려 할 때 충분히 논의하라는 것인데, 민주당이 오늘 특검법안을 일방적으로 통과시키겠다고 하는 것"이라고 비판했다.&lt;br /&gt;&lt;br /&gt;이어 "내란 곰탕 끓이면서 이렇게 대한민국 의회를 파탄 내는 것에 경악을 금치 못하겠다"며 "언제까지 내란을 우려먹을 것이냐"고 반발했다.&lt;br /&gt;&lt;br /&gt;한편 이날 전체회의에 상정된 군사법원법, 공탁법 각 개정안은 법안심사1소위원회로 회부됐다.</description>
+			<pubDate>Wed, 07 Jan 2026 09:36:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214780</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214780</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214780.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>특검, 쿠팡 수사 외압 의혹 김동희 검사 첫 피의자 조사</title>
+			<description>관봉권 띠지 폐기 의혹 및 쿠팡 퇴직금 불기소 외압의 진상규명을 위한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3207"&gt;안권섭&lt;/span&gt;&amp;nbsp;특별검사팀이 쿠팡 퇴직김 사건을 불기소 처분하라고 지시한 의혹을 받는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11577"&gt;김동희&lt;/span&gt;&amp;nbsp;부산고검 검사(당시 부천지청 차장검사)를 7일 소환 조사했다. &lt;br /&gt;&lt;br /&gt;특검팀은 이날 오전 직권남용, 공무상 비밀누설 등 혐의를 받는 김 검사를 피의자 신분으로 불러 조사 중이다.&lt;br /&gt;&lt;br /&gt;김 검사는 조사에 앞서 '수사 외압이 있었다는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14771"&gt;문지석&lt;/span&gt;&amp;nbsp;부장검사의 주장에 대해 입장이 있느냐'는 질문에 "문부장검사의 일방적인 주장이고, 특검에서 진실을 밝혀줄 것으로 믿는다""고 말했다.&lt;br /&gt;&lt;br /&gt;김 검사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9758"&gt;엄희준&lt;/span&gt;&amp;nbsp;광주고검 검사(당시 부천지청장)는 올해 초 쿠팡의 퇴직금 미지급 의혹을 수사 중이던 문지석 부장검사에게 무혐의 처분을 하라고 압력을 행사한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;쿠팡 측 변호를 맡았던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11226"&gt;권선영&lt;/span&gt;&amp;nbsp;변호사에게 압수수색 정보와 대검찰청의 보완 지시 사항 등 수사 정보를 알려줬다는 혐의도 있다.&lt;br /&gt;&lt;br /&gt;특검팀은 지난달 24일 김 검사와 엄 검사의 사무실 등을 압수수색하며 관련 수사를 본격화했다.&lt;br /&gt;&lt;br /&gt;쿠팡 퇴직금 미지급 사건은 쿠팡이 2023년 5월 근로자들에게 불리하게 취업규칙을 변경해 퇴직금을 체불했다는 의혹이다.&lt;br /&gt;&lt;br /&gt;당시 쿠팡은 퇴직금 지급 규정을 '일용직 근로자도 1년 이상 근무하는 경우 주당 근로 시간이 15시간 미만인 기간만 제외'에서 '1년 이상 근무하고 주당 근로 시간이 15시간 이상인 경우'로 바꿨다. 근무 기간 중 하루라도 주당 근로 시간이 15시간 미만인 경우가 발생하면, 그 시점부터 퇴직금 산정 기간을 다시 계산하도록 한 것이다. 이로 인해 '퇴직금 리셋 규정'이라는 의혹이 제기됐다.&lt;br /&gt;&lt;br /&gt;부천지청은 중부지방고용노동청이 기소 의견으로 송치한 해당 사건을 지난해 4월 무혐의·불기소 처분했다.&lt;br /&gt;&lt;br /&gt;당시 사건을 수사한 문 부장검사는 2025년 10월 국회 국정감사에서 상급자인 엄 검사와 김 검사가 쿠팡에 무혐의 처분을 하라고 압력을 가했다고 주장했다.&lt;br /&gt;&lt;br /&gt;문 부장검사는 김 검사가 '무혐의가 명백한 사건'이라며 회유했고, 엄 검사가 새로 부임한 주임 검사를 따로 불러 무혐의 가이드라인을 줬다는 취지로 주장했다. &lt;br /&gt;&lt;br /&gt;엄 검사와 김 검사 측은 일용직 근로자는 퇴직금 지급 대상이 아니어서 무혐의 처분에 문제가 없고, 문 부장검사도 무혐의 처분을 결정한 회의에 참석했기 때문에 외압도 없었다는 입장을 냈다.&lt;br /&gt;&lt;br /&gt;또 무혐의 처분에 대한 문 부장검사의 입장과 주요 증거 모두 대검에 보고했다고 밝혔다.&lt;br /&gt;</description>
+			<pubDate>Wed, 07 Jan 2026 06:50:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214778</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214778</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>서울고법, 내란전담재판부 설치 착수… 15일 전체판사회의 개최</title>
 			<description>서울고등법원이 '내란·외환·반란 범죄 등의 형사절차에 관한 특례법'(이하 특례법) 시행에 따라 대상 사건을 전담할 재판부 설치 절차에 본격 착수한다.&lt;br /&gt;&lt;br /&gt;서울고법은 1월 6일 특례법 공포·시행에 맞춰 전담재판부 구성 기준 마련과 2026년도 사무분담 기본원칙 등을 논의하기 위해 1월 15일 오후 2시 전체판사회의를 개최할 예정이라고 7일 밝혔다.&lt;br /&gt;&lt;br /&gt;특례법은 내란·외환·반란 등 사건을 신속하고 집중적으로 심리하기 위해, 서울고법과 서울중앙지법에 각각 2개 이상의 전담재판부를 두도록 규정하고 있다. 전담재판부는 판사 3명의 대등재판부로 구성하고, 심리 기간 동안 해당 사건만을 전담한다.&lt;br /&gt;&lt;br /&gt;또한 전담재판부 구성 기준은 각 법원의 판사회의에서 마련하고, 이어 사무분담위원회가 1주일 내에 사무를 분담해 판사회의 의결을 거치도록 규정하고 있다.&lt;br /&gt;&lt;br /&gt;서울고법은 이번 전체판사회의에서 △전담재판부 수 △전담재판부 배치 판사의 요건 등 특례법상 전담재판부 구성 기준과 시행에 필요한 사항을 논의할 예정이다. 논의 경과에 따라 회의가 추가로 열릴 가능성도 있다.&lt;br /&gt;&lt;br /&gt;서울고법 사무분담위원회는 이미 전담재판부 구성안을 포함하는 사무분담안을 마련하기 위한 검토에 착수한 상태다. 향후 여러 차례 회의를 진행할 예정이다. 다만 사무분담위원회의 개최 일정과 구체적 논의 내용은 비공개다. &lt;br /&gt;&lt;br /&gt;서울고법은 "특례법상 대상사건의 공정하고 신속한 심리를 위한 준비에 만전을 기하겠다"고 밝혔다.&lt;br /&gt;</description>
 			<pubDate>Wed, 07 Jan 2026 03:19:44 -0000</pubDate>
@@ -219,26 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214761</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214761.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>광장, 강은호 전 방위사업청장 영입</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214757.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;강은호 전 방위사업청장. 《사진=법무법인 광장》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 K-방산 관련 자문 등 역량 강화를 위해 강은호 전 방위사업청장을 영입했다. &lt;br /&gt;&lt;br /&gt;강 고문은 광장 방위산업팀에서 비상근 고문으로 근무하며 방산 수출 증대, 대·중소기업 상생, 방산 생태계 조성 방안 등에 대한 자문과 지원을 맡을 예정이다.&lt;br /&gt;&lt;br /&gt;연세대 행정학과를 나와 동 대학교의 행정학 석사학위를 취득한 강 고문은 1982년 제33회 행정고시에 합격해 공직에 입문했다. 이후 병무청, 국방부, 방위사업청 등 국방 분야 주요 부처에 근무했다. 그는 1999년부터 무기체계의 기획·개발·도입 전반을 담당하는 국방 획득분야에서 오래 근무하며, 국방 R&amp;D 정책, 방위력개선사업, 방산육성 정책 등의 업무를 수행했다. &lt;br /&gt;&lt;br /&gt;강 고문은 방위산업청이 2006년 1월 개청할 당시부터 근무하며 유도무기사업부장, 기획조정관. 사업관리본부장 차장 등 주요 보직을 역임했다. 2020년에는 방위사업청 내부 출신으로는 처음으로 방위사업청장에 임명돼 2022년 6월 말 퇴직했다. 방위사업청장 재직 시 K-방산 수출 산업화를 주도한 것으로 알려져있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;(사법연수원 23기) 광장 대표변호사는 “강은호 고문 영입을 통해 광장 방위산업팀의 전문성을 더욱 강화했다”며 “광장 방위산업팀이 지금처럼 국내 최고의 자리를 유지하도록 계속해서 노력할 것”이라고 말했다.</description>
-			<pubDate>Tue, 06 Jan 2026 07:07:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214757</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214757</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214757.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 화우, 김장리 '크로스보더 기업자문' 전문가팀 3명 영입</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214756.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;왼쪽부터 임석진 뉴욕·홍콩변호사, 채연정 변호사, 제갈민정 뉴욕변호사.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)가 법무법인 김장리의 크로스보더 기업자문 전문가들을 한꺼번에 영입하며 글로벌 기업자문 역량 강화에 나섰다.&lt;br /&gt;&lt;br /&gt;화우는 임석진 뉴욕·홍콩변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10221"&gt;채연정&lt;/span&gt;(사법연수원 33기) 변호사, 제갈민정 뉴욕변호사를 자문그룹 선임외국변호사 및 파트너변호사로 영입했다고 1월 6일 밝혔다.&lt;br /&gt;&lt;br /&gt;화우는 “이번에 영입된 세 명의 변호사는 같은 로펌에서 오랜 기간 크로스보더 기업자문 업무를 함께 수행해 온 인물들로, 팀 전체가 합류했다는 점에서 더욱 주목된다”고 설명했다.&lt;br /&gt;&lt;br /&gt;임 선임외국변호사는 미국 뉴욕주와 뉴저지주 변호사 자격(1997년)과 홍콩 외국변호사 자격(2001년)을 보유하고 있다. 28년간 클리포드 챈스(Clifford Chance) 홍콩 오피스를 비롯해 국내 대형 로펌에서 근무했으며, 대기업·다국적기업은 물론 PE·VC·스타트업을 대상으로 초기 자본조달, 시드 라운드, 시리즈 A~E 파이낸싱, 메자닌 파이낸싱 등 다양한 투자 거래 설계 분야에서 전문성을 쌓아왔다.&lt;br /&gt;&lt;br /&gt;채 변호사는 20년 이상 국내 기업의 해외 매각, 해외 법인의 국내 인수·투자, 국내외 기업 간 합작법인 설립 등 다양한 크로스보더 거래를 수행해 왔다. 특히 텐센트의 국내 게임사 및 엔터테인먼트사 지분 투자, 해외 펀드의 국내 게임회사 지분 투자 등 게임·엔터테인먼트 분야의 주요 거래를 다수 자문했다.&lt;br /&gt;&lt;br /&gt;제갈 선임외국변호사는 미국 뉴욕주 변호사 자격(2007년)을 취득한 뒤 미주·중국·아시아 등 여러 국가의 투자자와 투자 대상 회사를 위한 거래 구조 설계, 규제 검토, 기업자문 업무에 관여하며 크로스보더 실무 경험을 쌓아왔다.&lt;br /&gt;</description>
-			<pubDate>Tue, 06 Jan 2026 07:06:31 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214756</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214756</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214756.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
