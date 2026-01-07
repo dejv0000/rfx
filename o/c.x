@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>헌재, ‘검찰청 폐지’ 시민단체 헌소 각하… “자기관련성 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/07/T7AAV7BORJGWPBKBIZW462HLWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/07/T7AAV7BORJGWPBKBIZW462HLWY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Jan 2026 04:35:24 +0000</pubDate>
+      <content:encoded>검찰청을 폐지하고 공소청·중대범죄수사청(중수청)을 신설하는 내용의 개정 정부조직법이 위헌이라며 시민단체가 낸 헌법소원에 대해 헌법재판소가 자기 관련성이 없다며 각하 결정을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DKNRQMYZWEM3FGZSWGNTGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 헌재는 지난달 30일 시민단체 ‘서민민생대책위원회’가 낸 개정 정부조직법 관련 헌법소원을 각하했다.&lt;br&gt;&lt;br&gt;헌재는 재판관 3인으로 구성된 지정재판부에서 “이 사건 기록상 청구인들의 법적 이익 또는 권리가 침해됐다고 볼 만한 사정이 없으므로 기본권 침해의 자기 관련성을 결여해 부적법하다”고 판단했다. 개정 정부조직법으로 직무나 신분에 실질적인 변화가 발생할 당사자가 아니라는 점에서 자기 관련성이 없다는 취지다.&lt;br&gt;&lt;br&gt;헌재 지정재판부는 헌법소원 심판의 사전 심사를 담당하는 재판관 3명으로 구성된 소규모 재판부다. 헌법소원 사건이 전원재판부로 넘어갈지 여부를 결정하는 1차 심사를 진행한다.&lt;br&gt;&lt;br&gt;최근 김성훈 청주지검 부장검사 등이 개정 정부조직법에 대해 제기한 헌법소원 사건은 현재 심리가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노인쉼터에 ‘화투방’ 만든 뒤 입장료 받은 70대… 도박장소 개소로 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2026/01/07/EHDX2QFF2NG5RMTEUTOQL44ZVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/07/EHDX2QFF2NG5RMTEUTOQL44ZVY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 07 Jan 2026 04:23:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI7VDPGFJ5G7D5MCCJMYIXFHSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도심 상가 내에 속칭 ‘화투방’을 만들어 입장료를 받은 혐의로 재판에 넘겨진 70대에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사7단독 박용근 부장판사는 대구 중구 한 상가에 속칭 ‘화투방’을 만든 뒤 불특정 다수 손님에게 입장료를 받은 혐의(도박장소 개설)로 기소된 A씨에게 벌금 300만원을 선고했다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2022년 11월부터 지난해 10월까지 대구 중구 경상감영길 한 상가에 ‘노인쉼터’라는 간판을 내걸고, 그 안에 원형 테이블 7개, 의자 35개, 화투 등을 갖춘 뒤 불특정 다수의 손님에게 1인당 하루 입장료 3000원을 받고 입장시켜 이곳에서 ‘고스톱’ 도박을 할 수 있도록 공간을 마련해준 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;박 부장판사는 “피고인은 영리를 목적으로 도박하는 장소를 개설했다”며 “법정 진술과 참고인의 통장 거래 내용 등을 고려했다”며 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인권위 “정신의료기관 내 강박은 최소 범위에서”</title>
       <link>https://www.chosun.com/national/national_general/2026/01/07/5YE37PBGSRHGNGECLXMOAKRDQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/5YE37PBGSRHGNGECLXMOAKRDQ4/</guid>
@@ -868,15 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVOIWFIXYFCOTND3UCYEJ2XYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장인 10명 중 3명은 폭언 등 직장 내 괴롭힘을 당했다는 설문조사 결과가 나왔다. 괴롭힘 유형은 모욕, 비하, 무시, 폭행, 폭언, 협박 등 다양했다.&lt;br&gt;&lt;br&gt;6일 직장갑질119가 여론조사 전문 기관 ‘글로벌리서치’에 의뢰해 지난달 1일부터 14일까지 직장인 1000명을 대상으로 진행한 설문조사 결과에 따르면, 직장인 33%가 직장 내 괴롭힘을 경험했다. 이 중 17.8%는 모욕·비하·무시 등을, 15.4%는 폭행·폭언·협박·태움 등을 겪었다고 답했다.&lt;br&gt;&lt;br&gt;직장갑질119가 지난 한 해 제보를 받아 정리한 사례에 따르면, 언어 폭력의 주요 유형은 ▲“죽여 버릴까, 난 여자도 때릴 수 있다” 등 협박형 ▲“소대가리도 너보다 똑똑하겠다” 등 비교·비난형 ▲“네 머리에는 그게 이해가 되냐” 등 능력 모욕형 ▲“터진 입이라고 맘대로 지껄이냐” 등 신체 비하형 ▲“국어 못하냐”와 같은 인격 말살형 등으로 다양했다.&lt;br&gt;&lt;br&gt;특히 “죽여 버린다”는 식의 협박형 폭언이 비일비재한 것으로 나타났다. 작년 10월 한 제보자는 “대면으로 일을 질책하는 과정에서 ‘목을 졸라 버릴까’ ‘죽여 버릴까’ ‘머리 박아’ 등 심한 폭언을 당했다”고 했다. 같은 해 1월 한 회사원은 “법만 아니었으면 저를 죽여 버리고 싶다고 말한 사람이 하루에도 몇 번씩 째려보며 지나간다”며 “너무 두렵다”고 했다.&lt;br&gt;&lt;br&gt;직장갑질119는 최근 불거진 이혜훈 기획예산처 장관 후보자 갑질 의혹을 언급하며 일반 직장에서도 유사 사례가 빈번히 발생하고 있다고 짚었다. 그러면서 “직장인들이 일터에서 겪는 가장 크고 일상적인 고통은 무엇보다 상사의 폭언과 막말”이라며 “인간의 존엄성을 파괴하는 ‘이혜훈 언어 폭력’을 추방하고 안하무인 사장, 인격 말살 상사는 일터에서 사라져야 한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 후보자는 2017년 바른정당 의원이던 시절 자신의 이름이 언급된 언론 기사를 보고하지 않았다는 이유로 인턴 직원을 나무라는 통화 녹취가 공개되며 갑질 의혹이 불거졌다. 녹취에 따르면, 이 후보자는 당시 인턴 직원에게 고성을 지르며 “너 아이큐가 한 자리냐” “내가 정말 널 죽였으면 좋겠다” 등의 발언을 했다. 해당 인턴은 이 같은 폭언 이후 보름 만에 의원실을 그만둔 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공동현관 출입에 월 3만3000원… 택배기사에 출입료 부과한 아파트</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/06/ESUR5I2DWBAEZC4Q6NRVAWMYAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/06/ESUR5I2DWBAEZC4Q6NRVAWMYAI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 06 Jan 2026 00:22:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRTEOJUMUZTGYZQMQZGEMTDMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 인천시 남동구 한 아파트의  ‘공동현관 마스터키 발급 및 인수 확인서'./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트가 택배 기사에게 공동 현관 출입 카드를 발급해 주는 대가로 월 사용료를 요구한 사실이 알려져 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난 2일 한 온라인 커뮤니티에는 ‘택배 아파트 출입 사용료에 대해서 어떻게 생각하시나요?’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨가 공개한 인천시 남동구 한 아파트의 ‘공동현관 마스터키 발급 및 인수 확인서’에는 택배 회사 및 택배 기사가 아파트에 상시 출입하기 위해 마스터키를 발급받고 보증금 10만원과 월 사용료 3만3000원을 납부해야 한다는 내용이 담겼다.&lt;br&gt;&lt;br&gt;해당 문서에는 “모든 층의 승강기 버튼을 한꺼번에 눌러서 이용하지 않는다” “카드는 타인에게 양도 및 대여하지 않는다” “분실된 출입키로 인한 사고에 대한 모든 책임은 분실자에게 있음을 확인한다” “위반 시 어떠한 조치에도 이의를 제기하지 않는다”는 조항이 포함돼 있었다. &lt;br&gt;&lt;br&gt;A씨는 “출입 카드 보증금 10만원까지는 이해를 하겠는데 사용료로 월 3만3000원을 내라는 건 뭐냐”며 “아파트 출입과 엘리베이터 사용을 위해 매달 사용료를 받겠다는 것”이라고 했다. 그는 또 “이제는 아파트도 구독료를 내야 하냐”며 “9개 단지 모두 같은 조건이라면 월 29만7000원이 든다”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “돈을 내면서도 이의 제기를 하지 말라는 건 과하다” “보증금까지만 이해가 된다” “주민이 주문한 물건을 배달하는 기사에게 왜 비용을 떠넘기느냐” “이기적이고 배려 없는 조치” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;비슷한 사례는 과거에도 있었다. 작년 8월 전남 순천시의 한 아파트 단지는 택배기사들에게 공동 현관과 승강기 이용요금을 받겠다고 했다가 ‘갑질 논란’에 휩싸인 끝에 이를 철회했다.&lt;br&gt;&lt;br&gt;당시 해당 아파트는 공동 현관문 카드 보증금 5만원과 이용료 5000원(연 5만원)을 부과하기로 했고, 택배 기사들은 사전 협의 없이 통보받아 연 10만원에 달하는 비용을 부담해야 했다. 논란이 커지자 순천시는 해당 아파트를 찾아 협조를 요청하고, 관내 아파트 단지에 택배 기사에게 요금을 받지 말 것을 권고하는 공문을 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>AI시대, 컴공 아닌 철학·언어학 뜬다</title>
       <link>https://www.chosun.com/national/education/2026/01/06/WEKVC6ZQMBHLBDMSVSAFOCJGXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/06/WEKVC6ZQMBHLBDMSVSAFOCJGXE/</guid>
@@ -943,15 +952,6 @@
       <description/>
       <pubDate>Mon, 05 Jan 2026 12:39:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDMZTBMI3DCYJZMFTDMMRRGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 김병기 의원이 2024년 아내 이모씨의 서울 동작구의회 업무추진비 사적 유용 의혹에 대한 경찰 수사를 무마해 달라고 경찰서장과 직접 통화했다는 증언이 나왔다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 김 의원 아내 이씨가 2022년 7∼9월 민주당 소속 동작구의회 조모 부의장의 업무용 법인 카드를 사용했다는 의혹에 대해 2024년 5월부터 내사를 진행 중이었다.&lt;br&gt;&lt;br&gt;김 의원의 전직 보좌관 A씨는 당시 김 의원이 복수의 보좌진이 지켜보는 자리에서 동작서장이던 B 총경과 통화했다고 5일 설명했다. &lt;br&gt;&lt;br&gt;A씨는 김 의원이 B 총경과 통화하며 “서장”이라고 언급했고, B 총경은 김 의원에게 ‘크게 걱정하실 일이 있겠냐’는 취지로 답한 것을 들었다고 했다.&lt;br&gt;&lt;br&gt;경찰은 김 의원이 경찰 수사 무마를 위해 국민의힘 중진 C 의원에게 청탁했다는 관련자 진술도 확보한 것으로 파악됐다. C 의원은 경찰 고위 간부 출신으로 윤석열 정부 때 실세로 꼽혔다.&lt;br&gt;&lt;br&gt;A씨의 작년 11월 경찰 참고인 진술서를 보면 김 의원은 2024년 아내 이씨의 법인카드 유용 의혹 사건과 관련해 보좌진들과 대책을 논의했다.&lt;br&gt;&lt;br&gt;이 과정에서 김 의원은 “(국민의힘) A 의원이 동작서장을 잘 안다고 하더라”면서 “(내가 찾아갔더니) 바로 그 자리에서 (동작서장에게) 전화해서 ‘무리하게 수사하지 말라’고 하더라”라고 했다.&lt;br&gt;&lt;br&gt;김 의원은 B 총경과 직접 통화한 후에도 불안한 마음에 A 의원에게 찾아가 수사 무마를 청탁했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 경찰이 수사 중인 김 의원 관련 사건은 대한항공 의전 로비 의혹, 차남 숭실대 편입 의혹, 배우자 업무추진비 유용 의혹 등 총 13건이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 “‘계엄 돕는 대가로 수당 올려주겠다’ 곽종근 진술, 어이가 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/05/O2722OSLGFAOLHY5ARXFLETP34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/05/O2722OSLGFAOLHY5ARXFLETP34/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 05 Jan 2026 09:37:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYWGMJWG4ZTGYZVMU4DCNDGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령(왼쪽)과 김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령은 5일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 내란 우두머리 혐의 재판에서 계엄 당시 특전사 수당을 올리겠다고 한 것을 곽종근 전 특전사령관이 계엄 동조 유인책으로 이해한 데 대해 “어이가 없다”고 말했다. 이날 재판에는 김용현 전 국방장관이 증인으로 나와 신문이 진행됐다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인이 “곽 전 사령관이 2024년 10월 계엄에 부정적 의견을 피력하자 김 전 장관이 특전사 수당을 올려주겠다고 해 마치 계엄에 동조하게 하려는 유인책으로 이해했다고 주장한다”고 하자, 김 전 장관은 “이해가 안 가는 부분”이라며 “제 기억에는 이진우 당시 수방사령관이 수당 이야기를 먼저 했고, 윤 전 대통령이 ‘장관께서 잘 챙기라’고 하자 곽 전 사령관이 ‘저희도 있습니다’라고 말해 함께 챙기게 된 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;윤 전 대통령도 증인 신문 중 발언 기회를 얻어 “곽 전 사령관이 ‘점프 수당을 (지급)해달라’고 한 것이 생각난다”며 “(그걸) 계엄을 돕는 대가라고 하는 건 참 어이가 없다”고 말했다. 김 전 장관도 “수당 관련 이야기는 많았고 그 외에도 다양한 요구가 있었다”는 취지로 말했다.&lt;br&gt;&lt;br&gt;김 전 장관은 2024년 11월 말~12월 초 계엄 준비 과정에서 윤 전 대통령이 “검사들 탄핵은 몰라도 헌법기관인 감사원에 대한 탄핵은 부담이 돼서 (야당이) 안 할 수도 있다”며 “감사원장 탄핵이 없으면 계엄 선포는 없는 걸로 하자”고 말했다고 증언했다. 윤 전 대통령이 감사원장 탄핵을 두고 1964년 한일회담 반대 시위나 1972년 10월 대통령 특별선언(국회 해산) 등 과거 정치적 격변 사례와 비교하며 “이 상황이 더 비상사태”라는 취지로 말했다고도 했다. 그런데 당시 야당이던 민주당이 감사원장 탄핵 발의를 하자 그다음 날 밤에 계엄을 선포했다는 것이다.&lt;br&gt;&lt;br&gt;김 전 장관은 이날 재판에서도 윤 전 대통령의 ‘국민 호소 목적의 메시지 계엄’이라는 주장에 동조하는 증언을 이어갔다. 윤 전 대통령이 “이전처럼 많은 병력을 투입하는 계엄 말고 다르게 하고 싶다”고 했으며 계엄 선포 뒤에는 “국회가 해제 의결을 하면 즉시 해제하겠다”고 말했다고 했다. 다만 ‘두 번, 세 번 선포하면 된다’거나 ‘병력을 더 투입해서라도 국회의 계엄 해제를 막았어야 한다’는 말을 들었느냐는 질문에는 “없다”고 답했다. 김 전 장관이 여인형 전 방첩사령관에게 전달한 이른바 ‘체포 명단’에 대해 윤 전 대통령은 “왜 안 해도 될 일을 했느냐, 불필요한 일을 한 것 같다”는 취지로 질책했다고 진술했다.&lt;br&gt;&lt;br&gt;김 전 장관은 또 곽 전 사령관이 “윤 전 대통령 등이 ‘끌어내라’는 지시를 받았다”고 진술한 것에 대해 “그런 지시를 한 적도, 받은 적도 없다”고 부인했다. ‘국회 침투, 봉쇄 지시’에 대해서도 “국회가 적진도 아닌데 왜 침투하겠느냐”며 “합법적 계엄을 내란으로 몰아가려는 선동적 표현”이라고 했다. &lt;br&gt;&lt;br&gt;김 전 장관은 계엄 선포 전 국무회의를 소집하는 과정에서 의사 정족수를 채우는 동안 치열한 논의가 이뤄졌다고도 주장했다. 변호인단이 “국무회의 소집 전부터 의사 정족수를 갖춘 회의를 열기 위해 소집한 게 정확한 건가”라고 묻자, 김 전 장관은 “국무회의를 소집한 건 (국무위원들의) 의견을 듣기 위해 한 것”이라며 “1시간 반 정도를 수십 차례 회의에 참석했지만, 그날 자유롭고 치열한 의견 개진이 있었던 것 처음”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
