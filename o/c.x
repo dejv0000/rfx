@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 사형? 무기징역?… 내란 특검, 구형 앞두고 6시간 회의</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/08/EJBZSTO52NASNKEUAZO6ZCBT5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/08/EJBZSTO52NASNKEUAZO6ZCBT5E/</guid>
+      <dc:creator>방극렬 기자, 김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 13:36:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZGCNZZMU3GGZBSGVRWKYRQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;체포 방해 등 혐의로 기소된 윤석열 전 대통령이 작년 12월 26일 서울 서초구 중앙지방법원에서 열린 1심 결심 공판에서 최후 진술을 하고 있다. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검팀이 윤석열 전 대통령의 내란 우두머리 혐의 결심 공판을 하루 앞둔 8일 6시간 동안 회의를 열었다. 특검은 내란 우두머리 혐의의 법정형인 사형과 무기징역형 등을 두고 논의했지만 최종 결론은 내리지 못하고 고심 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 오후 3시부터 9시까지 서울고검의 사무실에서 윤 전 대통령 등 내란 사건 피고인들의 구형량을 논의하기 위한 회의를 열었다. 회의에는 조은석 특검과 특검보, 수사팀장 등이 참여한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 9일 열리는 결심 공판에서 윤 전 대통령에게 구형할 형량을 두고 여러 의견을 교환했다. 형법은 내란 우두머리죄에 대해 ‘사형, 무기징역 또는 무기금고에 처한다’고 정한다. 특검 고위 관계자는 “참석자들이 구형량에 따라 선고 결과 등이 어떻게 될지 의견을 냈고 결론을 내지는 못했다”며 “조 특검이 더 고민하다 최종 결정을 내릴 것”이라고 말했다.&lt;br&gt;&lt;br&gt;법조계에서는 “윤 전 대통령이 혐의를 전면 부인하며 반성하지 않고 하급자에게 책임을 미루는 점을 고려해 특검이 중형을 구형할 것”이라는 전망이 나온다. 한 고법 부장판사는 “죄질이 나쁘고 혐의도 중한 만큼 특검이 사형을 구형할 가능성이 높아 보인다”고 말했다.&lt;br&gt;&lt;br&gt;다만 특검이 실제 선고 가능한 형을 고려해 구형량을 조정할 수도 있다. 과거 내란 수괴 등 혐의로 기소됐던 전두환 전 대통령은 대법원에서 무기징역이 확정됐다. 앞서 특검은 내란 방조 등 혐의를 받는 한덕수 전 국무총리에게 ‘실질 구형’을 하겠다며 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 쿠팡 해럴드 로저스 대표 소환 통보</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/08/I6WX4IUCQFD6JLMXN574CD5RNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/I6WX4IUCQFD6JLMXN574CD5RNE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 13:18:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3DCZJTMU4WIYZTMM4DIMBXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 30일 국회 청문회에 참석한 해롤드 로저스 쿠팡 대표이사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡의 개인정보 유출 사건을 조사 중인 경찰이 해럴드 로저스 쿠팡 대표에게 소환을 통보했다. &lt;br&gt;&lt;br&gt;서울경찰청 쿠팡TF가 이날 로저스 대표에게 피의자 신분으로 소환을 통보했다. 구체적인 대면 조사 날짜는 조율 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 쿠팡의 대규모 개인정보 유출 사건과 관련해 ‘개인정보 유출’ ‘자체 조사 및 포렌식 의혹’ ‘홈페이지 접속 기록 삭제·방치’ 등 크게 세 갈래를 중심으로 수사를 진행 중이다. 이번 소환 통보는 ‘셀프 면죄부’ 논란을 일으켰던 ‘자체 조사 및 포렌식 의혹’ 관련이다. 그 외 5개월 치 홈페이지 접속 기록 삭제 등은 이번 소환 대상은 아니다. &lt;br&gt;&lt;br&gt;앞서 쿠팡은 지난달 25일 “정보 유출자는 3300만 계정에 접근했으나 실제 저장한 정보는 3000여 개에 불과하며 제3자 유출 정황은 없는 등 피해가 미미하다”는 내용의 자체 조사 결과를 발표했다. 또 “디지털 지문(digital fingerprints) 등 포렌식 증거를 활용해 고객 정보를 유출한 전직 직원을 특정했고 유출자는 일체의 행위를 자백했다”고도 했다. &lt;br&gt;&lt;br&gt;하지만 이 과정에서 쿠팡이 해당 직원에게서 범행에 사용된 노트북을 하천에 버렸다는 진술서를 받고 이를 회수한 뒤 자체적으로 포렌식하는 과정에서 증거를 인멸한 것 아니냐는 의혹이 제기됐다. 이를 두고 당시 쿠팡과 과학기술정보통신부는 각각 “정부 지시에 따라 기기를 회수했다” “일방적 주장”이라는 공방을 주고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수사 시작되자 출국한 김경, 美 CES에서 ‘엄지 척’</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/08/EHYCTIW3PBFX3J63M255WZN4OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/EHYCTIW3PBFX3J63M255WZN4OY/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 12:40:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7F5DMLVTBDJTB3I3OWOJS4WBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김경 서울시의원 사진. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강선우 무소속 의원에게 공천 헌금 명목으로 1억원을 준 혐의를 받는 김경 서울시의원이 미국 최대 가전 전시회 ‘CES’ 행사장에서 포착됐다. 현재 김 시의원은 경찰로부터 ‘귀국해 조사받으라’는 요구를 받고 있다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 6일 김 시의원은 미국 라스베이거스에서 열리고 있는 CES에 참석했다. 공천 헌금 의혹의 ‘키맨’인 김 시의원이 경찰 수사가 진행되는 와중에도 사실상 외유성 일정을 소화한 것이다. 그는 서울시 산하 기관인 서울관광재단을 통해 CES 출입증을 발급받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;김 시의원은 2022년 지방선거를 앞둔 당시 더불어민주당 소속이던 강 의원 측에 공천 대가로 1억원을 건넨 혐의를 받는다. 이와 관련해 작년 12월 31일 서울경찰청 공공범죄수사대가 수사에 착수하자, 김 시의원은 ‘자녀를 만난다’는 이유로 미국으로 출국한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;지난 5일 법무부에 입국 시 통보 조치를 요청한 경찰은 김 시의원이 귀국하는 대로 조사할 계획이다. 경찰은 김 시의원과 출석 날짜를 조율 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김병기 탄원서’ 쓴 前 동작구의원 측 “1000만원 전달”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/08/6PQUDZJOK5ENZIOENE6RQZQCCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/6PQUDZJOK5ENZIOENE6RQZQCCU/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 11:25:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSWMOBTHFRWCYRTGFSDAMZXGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 의원에게 ‘공천 헌금’을 건넸다는 내용의 탄원서를 작성한 전직 동작구 의원 A씨가 8일 서울 마포구 서울경찰청 공공범죄수사대에 피의자 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 김병기 전 원내대표 의혹 관련 탄원서를 작성한 전 동작구의원 측이 8일 ‘공천 헌금’ 공여를 사실상 인정했다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시 17분쯤 서울경찰청 공공범죄수사대에 피의자 신분으로 출석했다. 함께 온 A씨 변호인은 “탄원서 내용은 1000만원을 전달했다는 것”이라며 “탄원서 내용 외 (김 전 원내대표 측과) 주고받은 것이 없다”고 했다. 탄원서에 쓴 의혹을 사실상 인정한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;A씨는 총선을 앞둔 2020년 3월 김 전 원내대표에게 1000만원을 건넸다가 3개월 만에 돌려받았다는 내용의 탄원서를 쓴 인물이다. 2023년 12월 작성된 이 탄원서는 이수진 전 의원 등을 통해 당시 이재명 당 대표실의 김현지 보좌관(현 대통령실 제1부속실장)에게 전달됐지만, 당 윤리감찰단에서 사건을 묵인했다는 주장이 제기됐다. 김 전 원내대표 측은 탄원서 내용에 대해 “사실무근”이라며 전면 부인하고 있다.&lt;br&gt;&lt;br&gt;한편 이 건과 관련한 고발장을 낸 김한메 사법정의바로세우기시민행동 대표는 9일 오후 경찰에 출석해 고발인 조사를 받을 예정이다. A씨와 같은 탄원서에서 ‘김 전 원내대표 측에 2000만원을 전달했다가 돌려받았다’는 취지로 주장한 전 동작구의원 B씨도 같은 날 피의자 조사를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수도권 쓰레기 안돼!”... 충북도, 강력 반발</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/08/EKFULKDYLFCNNI4YIUFD6GVU5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/08/EKFULKDYLFCNNI4YIUFD6GVU5U/</guid>
+      <dc:creator>충북=신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 10:25:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGRH4IBC7KA7OHMJSPFZSHDLJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북도청 전경/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북도가 수도권 생활폐기물 직매립 금지 시행 이후 수도권 쓰레기가 도내로 유입되자 강하게 반발하고 나섰다.&lt;br&gt;&lt;br&gt;충북도는 8일 자료를 내고 “수도권의 쓰레기 문제를 다른 지역에 떠넘기는 방식이 돼서는 안 된다”며 “제도의 취지에는 공감하지만, 준비 부족으로 인한 부담이 비수도권에 전가될 경우 심각한 지역 갈등으로 이어질 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;수도권 생활폐기물 직매립 금지 제도는 올해부터 서울·인천·경기에서 발생한 종량제봉투 쓰레기를 그대로 매립하지 않고 재활용하거나 소각 처리하도록 한다. &lt;br&gt;&lt;br&gt;하지만 수도권 내 재활용·소각시설이 충분하지 않아, 처리 물량이 수도권과 거리가 가까운 충청권으로 이동할 수 있다는 우려가 꾸준히 제기돼 왔다.&lt;br&gt;&lt;br&gt;기후에너지환경부에 따르면 실제 이 제도가 시행된 지난 1일 이후 수도권에서 발생한 생활폐기물 4만6600여t 가운데 약 1.8%인 800t이 수도권 밖 민간시설에서 처리됐다고 밝혔다. &lt;br&gt;&lt;br&gt;충북에서는 청주시의 3개 민간시설이 지난 1일부터 경기 광명시, 인천 강화군 ·서울 강남구 등 3개 지방자치단체와 반입 계약을 체결했다. &lt;br&gt;&lt;br&gt;이에 대해 청주시는 “민간시설 4곳이 수도권 생활폐기물 처리를 위해 계약한 물량은 총 6700t으로, 이는 2025년 기준 전체 소각량의 약 3% 수준”이라며 “소각시설은 허가 용량의 130% 이내에서만 운영할 수 있어 구조적으로 대량 반입에는 한계가 있다”고 설명했다.&lt;br&gt;&lt;br&gt;충북도는 교통 여건과 거리 등을 감안할 때 충북이 수도권 쓰레기를 대신 처리하는 지역으로 굳어질 가능성을 우려하고 있다. &lt;br&gt;&lt;br&gt;우선 도는 지역 내 모든 민간 소각·재활용시설을 중심으로 관리·감독을 대폭 강화하기로 했다.&lt;br&gt;&lt;br&gt;각 시·군과 협력해 민간 소각시설의 일일 소각허가량 준수 여부, 야적장 운영 관리 실태, 이동·보관 과정에서의 비산먼지 및 대기오염물질 배출 여부 등을 중점 점검할 계획이다. 위법 사항이 확인될 경우 허가 취소 등 강력한 행정 조치를 할 방침이다. &lt;br&gt;&lt;br&gt;또 민간시설 주변 주민들의 환경 부담을 고려해 발생지 처리 원칙을 강화하고, 반입협력금 제도 확대와 지역자원시설세 확대 개정 등 제도 개선을 정부와 국회에 지속적으로 건의할 예정이다.&lt;br&gt;&lt;br&gt;김영환 충북지사는 “수도권 생활폐기물 직매립 금지 제도의 취지는 공감하지만, 그 과정에서 지역 갈등이 발생해서는 안 된다”며 “중앙정부에 제도 개선을 적극 요구하고, 지역 정치권과 민간단체와도 협력해 대응 방안을 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 검찰, 사랑제일교회 전광훈 목사 구속영장 청구</title>
       <link>https://www.chosun.com/national/national_general/2026/01/08/CFQ2GRRTTRB5DJNCVTAPGKQ3VE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/CFQ2GRRTTRB5DJNCVTAPGKQ3VE/</guid>
@@ -856,15 +901,6 @@
       <content:encoded>‘12·3 비상계엄’이 해제된 직후 안가 회동에 참석했다는 의혹에 대해 허위 증언을 했다는 혐의로 재판에 넘겨진 이완규 전 법제처장이 내란 특검법에 대한 위헌법률심판 제청을 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FREE7AHBPB4PU7JHXIC3CG7SZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이완규 전 법제처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 이 전 처장은 자신의 국회증언감정법 위반 혐의 사건 재판을 맡은 서울중앙지법 형사33부(재판장 이진관)에 지난달 31일 위헌법률심판 제청 신청서를 냈다.&lt;br&gt;&lt;br&gt;이 전 처장이 위헌 여부를 따져달라고 요청한 법 조항은 내란특검법 3조 2~5항이다. 이 조항들은 ‘특별검사의 임명’에 대한 내용을 규정하는데, 특별검사 후보자 추천 의뢰를 받은 더불어민주당과 비교섭 단체 중 의석수가 가장 많은 단체가 대통령에게 각 1명씩 후보자를 서면으로 추천하도록 하는 것이 골자다.&lt;br&gt;&lt;br&gt;사실상 더불어민주당과 조국혁신당만 추천권을 갖게 한 이 조항들이 헌법에 위배된다는 게 이 전 처장 주장이다. 이 전 처장 측은 “헌법은 정당의 설립은 자유이며 복수정당제는 보장된다고 규정한다”며 “복수의 정당이 다른 정당과 차별 없이 평등하게 활동하고 정치 활동에 참여할 수 있어야 한다”고 주장했다. 위 조항들은 사실상 국민의힘이 특검 후보자 추천권을 행사할 수 없도록 한 것이라 복수정당 보장 원칙을 위배하고, 정당의 평등권을 침해했다는 것이다.&lt;br&gt;&lt;br&gt;이 전 처장 측은 민주당과 혁신당이 특검 후보자를 추천할 권한을 가질 수 있는 민주적 정당성의 근거가 없다는 주장도 펼쳤다. 국회의원이 헌법상 직접적인 민주적 정당성을 갖고, 이들이 모여 국회를 구성하지만, 민주당·혁신당은 다양한 정당 중 하나에 불과할 뿐이라는 것이다. 이 전 처장은 “사실상 두 정당이 특검 임명권을 행사한 것인데, 두 정당은 국민으로부터 민주적 정당성을 부여받은 단체가 아니어서 특검 임명의 인적 정당성도 결여됐다”고 했다.&lt;br&gt;&lt;br&gt;또 이 전 처장 측은 조은석 내란 특별검사의 임명 절차가 마치 고발인이 검사를 지정한 것과 같다고도 지적했다. 민주당은 계엄 해제 직후인 2024년 12월 4일부터 윤석열 전 대통령, 김용현 전 국방장관, 추경호 전 국민의힘 원내대표 등 여러 사람을 고발했고, 이후 특검 추천권을 독점적으로 가졌다는 것이다. 이 밖에도 이 전 처장 측은 심판대상 조항들이 헌법에 의해 직접 부여되는 대통령의 행정권을 침해하는 것인데, 이러한 국회의 입법이 가능하다면 의회 독재 체제가 성립될 수밖에 없다고 지적했다.&lt;br&gt;&lt;br&gt;이 전 처장은 이런 문제점을 가진 내란 특검이 자신을 기소해 ‘공정한 재판을 받을 권리’를 침해당했다는 입장이다. 이 전 처장 측은 “(조은석) 특검은 사실상 고발인 격인 정당에 의해 임명돼 중립적이고 공평하지 않다”며 “미리 예단을 가진 상태에서 편파적으로 수사하고 공소를 제기했다”고 했다.&lt;br&gt;&lt;br&gt;한편 법원은 오는 19일 이 전 처장과 박성재 전 법무장관의 첫 공판준비기일을 열 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>음식물쓰레기 뒤섞인 수도권 폐기물 충남 유입… 사법·행정 조치 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/07/TJHBCY3CENGW5HRJFW47BRYZ4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/07/TJHBCY3CENGW5HRJFW47BRYZ4Y/</guid>
-      <dc:creator>홍성=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 09:03:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Y36HODTFNEBLN24W5FD6MVCNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남도가 폐기물 관리법 위반 혐의로 적발한 폐기물 처리 업체에 수도권에서 반입된 쓰레기가 쌓여있다. /충남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권 생활 폐기물 직매립 금지 이후 수도권 쓰레기 일부가 충남으로 들어온 것으로 확인됐다. 충남도는 수도권 쓰레기 반입 사실을 점검하는 과정에서 폐기물 처리 업체의 위법 사항을 적발했다.&lt;br&gt;&lt;br&gt;충남도는 도내 수도권 생활 쓰레기 위탁 처리 업체 2곳에 대한 점검을 실시한 결과 폐기물 관리법 위반 사항을 적발해 사법·행정 조치를 취하고 있다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;공주와 서산에 있는 폐기물 재활용 업체 2곳은 지난 1일부터 6일 사이 서울 금천구의 생활 폐기물 216t을 위탁 처리했다. 이 업체들이 처리한 생활 폐기물에는 음식물 쓰레기도 섞여 있었다고 한다.&lt;br&gt;&lt;br&gt;폐기물 관리법에 따르면 음식물 쓰레기 처리 시설이 없는 폐기물 재활용 업체는 음식물 쓰레기를 처리할 수 없다. 이를 위반하면 3년 이하 징역이나 3000만원 이하 벌금 등 사법 처분과 영업정지 1개월 등 행정 조치가 내려진다.&lt;br&gt;&lt;br&gt;충남도는 이번 적발에 따라 공주·서산시를 통해 사법·행정 조치를 병행 추진하도록 했다.&lt;br&gt;&lt;br&gt;위법 사항이 적발되자 금천구는 충남으로 보낼 생활 폐기물을 경기 화성의 폐기물 처리 업체로 보낸다는 방침이다.&lt;br&gt;&lt;br&gt;충남도 관계자는 “수도권 생활 폐기물 직매립 금지로 인한 부담이 도내로 전가되는 일이 없도록 앞으로도 강도 높은 점검을 실시하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“SK하이닉스, 수익률 323%… 더 샀더라면” 장예원 한숨</title>
       <link>https://www.chosun.com/national/national_general/2026/01/07/HUKESIKDFZBV3NWBEVPNFPDWNA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/HUKESIKDFZBV3NWBEVPNFPDWNA/</guid>
@@ -893,24 +929,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/HSODKZ63WZAXBHMW2TI672NLB4.png?auth=ba587455ef9b6e29d44e8b035903c5f5aea3c45618c63f8c67ccc42f5a7ec75f&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>울산 태화강 다리서 이탈리아, 우즈벡 등 외국음식 맛본다 </title>
-      <link>https://www.chosun.com/national/regional/2026/01/07/BVRO2MBOBFFRPNQIGJZSDBYITI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/07/BVRO2MBOBFFRPNQIGJZSDBYITI/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 07:40:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2DEODEGNSDKZTGGJSTEZRQGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 중구 성남동 울산교 위에 조성된 울산세계음식문화관. /울산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 태화강을 가로지르는 인도교인 ‘울산교’에 다른 나라 음식과 문화를 즐길 수 있는 세계 음식 문화관이 들어선다.&lt;br&gt;&lt;br&gt;울산시는 울산교에 지난 5일 ‘울산 세계 음식 문화관’을 준공하고, 이달 중 외국인 셰프나 이주 여성 등 입점 사업자를 모집해 3월부터 운영할 예정이라고 7일 밝혔다.&lt;br&gt;&lt;br&gt;울산교에서는 태화강의 자연경관과 노을을 한눈에 조망할 수 있다.&lt;br&gt;&lt;br&gt;시는 지난해 사업비 20억원을 들여 가로 20ｍ, 세로 2.6ｍ 규모의 건축물 4개 동을 교량 위에 만들었다.&lt;br&gt;&lt;br&gt;이 중 3개 동에는 이탈리아, 튀르키예, 우즈베키스탄 등 6개국의 음식점과 공동 식사 공간 등이 들어선다. 나머지 1개 동에는 사무실과 카페, 휴게 공간이 설치된다.&lt;br&gt;&lt;br&gt;시는 안전성 확보를 위해 설계 단계부터 울산교 안전 점검과 구조 검토 용역을 했고, 강풍에 대비한 풍하중 구조 설계도 반영했다.&lt;br&gt;&lt;br&gt;음식 문화관 운영과 관리는 울산시설공단이 맡는다.&lt;br&gt;&lt;br&gt;울산은 제조업 종사자를 중심으로 외국인 거주자가 빠르게 늘어나, 인구 100명 중 3명이 외국인일 정도로 다문화 비율이 높다.&lt;br&gt;&lt;br&gt;시는 이런 도시 환경 변화에 맞춰 외국인 주민에게는 고향 음식을 통한 정서적 위안을 주고, 시민에게는 세계 미식 문화를 체험하는 기회를 주고자 세계 음식 문화관을 조성했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2A7KEXQRKFGBNMTCZZ2H7XONBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 준공된 울산세계음식문화관 내부 모습. /울산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산시 관계자는 “2028 울산국제정원박람회를 찾는 국내외 관광객에게 울산의 음식 문화를 알리는 역할을 할 것”이라며 “야간 조명, 축제·행사, 체험 프로그램 등과의 연계도 추진해 태화강을 따라 관광·여가 벨트가 이어지도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘비계 삼겹살 논란’에 사과했지만… 울릉도 1년새 관광객 10% 감소</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/07/DICB4FE5F5CXXMVTPVY6467BZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/DICB4FE5F5CXXMVTPVY6467BZQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 06:52:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WK22FJPPWJEKRIBEXN2GHB2BN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 유튜버가 울릉도에서 절반이 비계인 1인분 (120g) 1만5000원짜리 삼겹살을 먹은 영상을 공개해 바가지 논란이 일고 있다. /유튜브 '꾸준 kkujun'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바가지요금 및 비계 삼겹살 논란이 일었던 경북 울릉군의 관광객이 1년 사이 10%가량 줄어든 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 울릉군 등에 따르면 작년 울릉도를 찾은 관광객 수는 34만7086명으로 전년 대비 3만7513명 감소했다. 울릉군 관광객은 2022년 46만1375명으로 정점을 찍은 뒤 2023년 40만8204명, 2024년 38만4599명으로 매년 줄었다. &lt;br&gt;&lt;br&gt;울릉도 관광객 감소는 독도 관광객 감소로도 이어졌다. 독도 관광객은 2022년 28만312명으로 역대 최고를 기록한 뒤 2024년 22만1273명, 작년 19만2122명으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IV6UXN2RXSINRDE2CITMYNJU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울릉도 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바가지 논란과 동절기 정기 여객선 운항 등이 관광객 감소에 영향을 미친 것으로 분석된다. &lt;br&gt;&lt;br&gt;여행 유튜버 꾸준은 작년 울릉도 한 고깃집에서 돼지고기 1인분(120g)을 1만5000원에 주문했으나 비계가 70% 이상인 고기를 받았다고 폭로해 논란이 됐다. 영상 속 식당은 “결국 자리를 비운 사이 직원이 찌개용 앞다리살을 잘못 내준 것”이라고 해명했다. 이후 식당은 식품위생법 위반으로 군에서 영업 정지 7일 처분을 받았다.&lt;br&gt;&lt;br&gt;또한 울릉군은 기름값이 육지보다 ℓ당 300원 이상 비싸고 렌터카 사용료가 2배 이상에 이르는 등 생활 물가가 다른 지역보다 높은 것으로 알려졌다. 이 밖에도 혼밥 거절 등 논란이 지속되자 남한권 울릉군수가 “최근 온라인 플랫폼을 통해 알려진 관광 서비스와 관련한 전반적인 품질 및 가격 문제 이슈에 대해 심심한 사과의 입장을 밝힌다”며 사과에 나서기도 했다. &lt;br&gt;&lt;br&gt;다만 군은 울릉과 포항을 잇는 쾌속 여객선이 고장으로 장기간 운항을 중단한 것도 관광객 감소에 영향을 미친 것으로 보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“라이더님, 포장 알아서 해주세요” 무인매장 ‘셀프포장’ 논란</title>
       <link>https://www.chosun.com/national/national_general/2026/01/07/UJPIZQPCXNAHTMF2DQKE6L42YU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/UJPIZQPCXNAHTMF2DQKE6L42YU/</guid>
@@ -927,24 +945,6 @@
       <description/>
       <pubDate>Wed, 07 Jan 2026 07:13:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORN3AIJRONKNPPYHEZUTSBZWEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 7월 30일 전북 새만금에서 열리는 세계스카우트잼버리에 참가하기 위해 온 독일 대표단이 전남 순천시 순천만국제정원박람회장 그린아일랜드를 찾아 입장 행사를 하고 있다. /순천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023 순천만국제정원박람회를 앞두고 전남 순천시가 조성한 ‘그린아일랜드’가 관련 법령을 어기고 만들어진 것이라고 감사원이 7일 지적했다. 감사원은 순천시에 그린아일랜드를 없애고 이전에 있던 도로를 원상 복구하거나, 도로를 정식으로 없애고 해당 구역을 녹지로 전환하라고 요구했다.&lt;br&gt;&lt;br&gt;감사원이 7일 공개한 ‘순천시 강변로 녹지 조성 사업과 기후 대응 도시 숲 조성 사업 관련’ 감사 보고서에 따르면, 순천시는 2023 순천만국제정원박람회를 앞둔 2022년 10월부터 순천동천변에 있는 도로 약 1㎞ 구간을 그린아일랜드로 바꾸는 공사를 했다. 자동차 통행을 막고, 왕복 4차로 차도와 양옆 인도에 흙을 덮고 잔디를 심었다. 공사에는 29억원이 들었다.&lt;br&gt;&lt;br&gt;시간당 자동차가 최대 1534대 통행하던 도로를 없애는 것을 두고 민원이 제기되자, 순천시는 ‘그린아일랜드는 임시 시설이고 박람회가 끝나면 차량 통행이 가능하도록 복구할 것’이라고 안내했다. 노관규 순천시장은 시의회에 출석해 ‘그린아일랜드는 차량이 원활히 통행할 수 있도록 복구할 계획’이라고 답했다.&lt;br&gt;&lt;br&gt;그러나 2023년 11월 박람회가 끝난 뒤에도 순천시는 ‘이용자의 만족도가 높다’는 이유로 도로를 원상 복구하지 않고 그대로 뒀다. 감사원은 현장 조사를 나간 지난해 7월까지 1년 8개월 이상 차량이 이 도로를 지나갈 수 없는 상태가 지속되고 있다고 지적했다.&lt;br&gt;&lt;br&gt;감사원에 따르면, 그린아일랜드 같은 공원·녹지를 설치하려면 국토계획법에 따라 시장이 주민과 지방의회의 의견을 먼저 들은 뒤 이어서 도시계획위원회의 심의를 거쳐 도시관리계획을 변경해야 한다.&lt;br&gt;&lt;br&gt;그러나 순천시는 그린아일랜드 조성이 도로법 시행령상 ‘수목 식재 목적의 도로 점용’이라서 도시관리계획을 변경하지 않아도 된다고 임의로 해석하고 그린아일랜드를 만든 것으로 드러났다. 감사원은 “도로 점용 허가를 받을 수 있는 공작물은 도로 구조의 안전과 교통에 지장이 없다고 인정한 수목 등인데, 그린아일랜드는 해당 구간의 일부가 아니라 전체를 녹지로 조성해 차량이 통행하지 못하게 하는 등 교통에 지장을 발생시켰기 때문에 도로 점용 허가(만으로 할 수 있는) 요건에 해당한다고 보기 어렵다”고 비판했다.&lt;br&gt;&lt;br&gt;순천시는 2022년 그린아일랜드 조성을 밀어붙이면서 지방계약법도 어긴 것으로 드러났다. 민간 기업에 그린아일랜드 설계 용역을 맡겨야 하는 상황에서 순천시는 ‘박람회까지 남은 시간이 많지 않다’며, 인근 우회도로를 설계하고 있는 기업에 그린아일랜드 설계까지 맡겼다. 그린아일랜드 설계는 우회도로 설계와는 별개의 사업이므로 별도로 공개 경쟁 입찰을 해야 하는데, 이런 절차 없이 기존 우회도로 공사 수주 기업에 일을 떠넘긴 것이다. 그러고는 민간 기업이 요구하는 추가 용역비 2539만원을 그대로 줬다.&lt;br&gt;&lt;br&gt;한편 그린아일랜드 조성 사업은 총사업비가 20억원이 넘어, 순천시 투자심사위원회의 심사를 받아야 했다. 그러자 순천시는 사실이 아닌 내용을 적은 의뢰서를 내고 심사를 받았고, ‘투자가 적정하다’는 답을 이끌어냈다. 전남도에도 사실이 아닌 내용을 적은 문서를 제출해. 이를 바탕으로 국비 지원을 받았다.&lt;br&gt;&lt;br&gt;감사원은 여러 문제점이 발견된 그린아일랜드에 대해 “주민과 지방의회의 의견 청취, 도시계획위원회 심의 등의 절차를 거쳐 녹지로 도시관리계획을 변경 결정하거나, 현행 도시 관리 계획에 맞게 도로로 원상 복구하는 방안을 마련하라”고 순천시에 통보했다. 투자 심사 의뢰서와 특별교부세(정부 지원금) 신청 자료 등을 사실과 다르게 적어 낸 것에 대해서는 주의를 줬다.&lt;br&gt;&lt;br&gt;순천시는 그린아일랜드 조성 사업비가 20억원이 넘어 전남도의 투자 심사를 받아야 했는데, &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김의승 전 서울 부시장, 안동시장 출마… “말 아닌 성과로 책임지는 시장되겠다”</title>
-      <link>https://www.chosun.com/national/people/2026/01/07/6WASDNUJZRETZC65IKQKFIMVXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/07/6WASDNUJZRETZC65IKQKFIMVXQ/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 07:08:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUPYXTWRBVAGBG2HPTNLXISGQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김의승 전 서울시 행정1부시장이 7일 안동시청 브리핑룸에서 기자회견을 통해 오는 6월 전국동시지방선거 안동시장 선거에 출마할 것을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김의승 전 서울시 행정1부시장이 6월3일 치러지는 제9회 전국동시지방선거 안동시장 출마를 선언했다. &lt;br&gt;&lt;br&gt;국민의 힘 소속인 김 전 부시장은 7일 안동시청 브리핑룸에서 기자회견을 열고 “중앙과 지방행정을 두루 경험한 공직자로서 그동안 쌓아온 행정 역량과 인적 네트워크를 고향 안동의 미래를 위해 온전히 쓰는 것이 시민에 대한 도리라고 판단했다”며 출마의 변을 밝혔다. &lt;br&gt;&lt;br&gt;그는 “지금 이 시점에 제가 나서는 것이 과연 안동에 도움이 되는 선택인가를 수없이 고민했다”며 “여의도가 아니라 안동을 위해 일해 달라는 시민들의 요구를 더 이상 외면할 수 없었다”고 말했다.&lt;br&gt;&lt;br&gt;국회의원 선거를 준비하다가 안동시장 출마로 선회한 이유를 묻는 질문에 김 전 부시장은 “2년여 동안 안동에 머무르면서 지역의 가장 큰 문제와 구심점이 행정이라고 느꼈고 행정 경험에 대한 시민들의 열망과 기대가 있었다”며 “가장 잘 할 수 있는게 행정”이라고 했다. &lt;br&gt;&lt;br&gt;안동에서 초·중·고를 졸업한 김 전 부시장은 고려대 행정학과와 서울대 행정대학원 석사, 제36회 행정고시에 합격해 공직에 입문했다. 서울시 일자리기획관·행정국장·대변인·관광체육국장·경제정책실장·기획조정실장 등 주요 요직을 거쳐 차관급인 행정1부시장을 역임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“부정선거 반박하면 1억”… 유튜버 토론 제안에 이준석 승낙</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/07/V24YUWJR6NHCXMSMVSNIM64P7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/V24YUWJR6NHCXMSMVSNIM64P7I/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 05:48:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4TGYJZMRTDGNJQMZRDIOJYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 지난달 29일 서울 여의도 국회에서 열린 최고위원회의에서 모두 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이준석 개혁신당 대표가 서울대를 졸업한 유명 유튜버의 ‘부정선거 토론’ 요청을 승낙했다. 이 유튜버는 이 대표가 자신의 부정선거론을 반박하는 데 성공할 경우 1억원을 주겠다고 약속했다.&lt;br&gt;&lt;br&gt;이 대표는 6일 자신의 페이스북에 “부정선거론자 중에서 토론하면 1억원을 준다는 사람이 나타났다”며 “인스타그램 DM(다이렉트 메시지)으로 몇 달째 계속 이 사람이랑 토론해 보라고 연락 오던데, 서울대 물리학과 졸업에 굴지의 반도체 기업 근무 경험에 자영업 컨설팅까지. 장난치는 분은 아닌 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이어 “1억원 받으면 동탄 어디 도서관에 책이라도 사줘야겠다 싶어서 설레고 있다”며 “이분 아니더라도 부정선거론자 토론은 누구라도 언제나 환영”이라고 했다. 그러면서 “얼굴 까고 토론하시고, 저에게 돈 줄 필요 없으니 1000만원 이상 제가 인정하는 곳에 기부하고 오시면 된다”고 했다.&lt;br&gt;&lt;br&gt;앞서 구독자 약 26만명을 보유한 유튜브 채널 ‘자영업의 모든 것’ 운영자 박세범씨는 지난달 9일 이 대표를 향해 공개적으로 부정 선거 토론을 요청했다. 박씨가 당시 올린 영상에는 이 대표가 부정 선거는 음모론에 불과하다고 주장하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;이 대표는 그간 부정 선거 의혹을 적극적으로 반박해 왔다. 작년 1월에는 국회에서 기자회견을 열고 부정 선거 의혹을 제기한 황교안 전 미래통합당(국민의힘 전신) 대표와 한국사 강사 전한길씨 등을 상대로 무제한 토론을 제안하기도 했다. 당시 이 대표는 “나는 2020년 4월에도 부정 선거 음모론자들과 치열한 토론을 했던 적이 있다”며 “언제 어디서든 어떤 방식으로든 토론할 용의가 있으니 연락 달라”고 했다.&lt;br&gt;&lt;br&gt;박씨는 이 대표의 토론 승낙 이후 자신의 유튜브 채널에 “이준석 대표님, 토론에 응해 주셔서 감사하다”며 “반박해 주시면 원하시는 동탄에 기꺼이 1억원 기부하겠다”고 했다. 그러면서 “반박 못 하시면 저는 돈은 괜찮고, 이준석 대표님의 부정 선거 관련 과거 발언에 대해 사과만 해 주시면 된다. 다시 한번 진심으로 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;서울대총동창회에 따르면, 박씨는 서울대 물리천문학부 졸업 후 전공을 살려 외국계 반도체 회사에 취직했다가 퇴사했다. 이후 가업을 이어 식당을 운영하게 됐고, 식당 운영 과정에서 쌓은 세무·노무·회계·인터넷 마케팅 노하우를 유튜브 등을 통해 공유하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
