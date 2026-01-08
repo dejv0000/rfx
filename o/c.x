@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>산책하던 여성에 날아든 ‘화살’...경찰, 용의자 2명 추적 </title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/08/GVZLV3CLTRFB3H3TDMIRKTOI74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/08/GVZLV3CLTRFB3H3TDMIRKTOI74/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 05:04:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMUY3U4SYSI2ZMAYFC5VLO6MZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주청원경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 강아지와 산책하던 여성 주변으로 화살이 날아와 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;청주청원경찰서는 지난 7일 오후 11시 40분쯤 청주시 상당구 청소년광장에서 50대 여성 A씨가 “이상한 소리가 나서 봤더니 옆에 화살이 꽂혀 있다”고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;당시 화살은 강아지로부터 1.5m, A씨로부터 2.5m 거리의 광장 화단에 꽂힌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;시중에 판매하는 양궁용으로 보이는 화살은 80㎝ 길이로 금속재질의 촉이 달린 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 인근 방범카메라를 분석해 남성 2명이 약 70m 거리에서 활로 추정되는 물체로 화살을 쏘는 모습을 확인했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “여성을 겨냥해 쏜 것은 아닌 것 같지만, 굉장히 위험할 수 있었다”라며 “방범카메라에 포착된 남성 2명을 현재 추적하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김병기에 오찬 접대’ 박대준 전 쿠팡 대표, 경찰 출석</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/08/TEEJX6I2NZA2JAFIRKB7WEYUGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/TEEJX6I2NZA2JAFIRKB7WEYUGQ/</guid>
+      <dc:creator>김도균 기자, 김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 05:01:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEYMPE7CCRKZ7AFVIBMOSC2MXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김병기 전 원내대표에게 오찬 접대를 했다는 의혹을 받는 박대준 전 쿠팡 대표. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 김병기 전 원내대표에게 오찬을 접대했다는 의혹을 받는 박대준 전 쿠팡 대표가 8일 경찰에 출석했다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오후 1시 51분쯤 참고인 신분으로 출석한 박 전 대표를 조사하고 있다. 박 전 대표는 국회 국정감사를 앞둔 작년 9월 쿠팡 고위 임원진을 대동해 서울 여의도 호텔에서 김 전 원내대표에게 고가의 점심식사를 접대했다고 지목된 인물이다.&lt;br&gt;&lt;br&gt;김 전 원내대표는 당시 식사 자리에서 자신의 전직 보좌진 출신 쿠팡 직원들의 인사상 불이익을 청탁했다는 의혹을 받고 있다. 이와 관련해 경찰은 작년 12월 31일 고발인 조사를 진행하는 등 수사를 본격화한 상황이다.&lt;br&gt;&lt;br&gt;‘오찬 접대’ 의혹이 불거지자 김 전 원내대표는 “만남 당시 한 보좌진은 쿠팡에 입사하기도 전이었다”며 “제 전직 보좌진이 제 이름을 팔고 다닌다는 얘기가 있는데 앞으로 제 이름을 이용해서 대관 업무를 하지 못하도록 해달라고 요청했다”고 해명한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XILKVKJC3BIRJBFNMDZ2PQSP4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김병기 전 원내대표에게 '공천 헌금'을 건넸다는 내용의 탄원서를 작성한 전직 동작구의원 A 씨가 8일 피의자 신분으로 경찰에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 경찰은 이날 김 전 원내대표에게 수천만원을 건넸다가 돌려받았다는 내용의 탄원서를 작성한 전 동작구의원 A씨도 피의자 신분으로 불러 조사 중이다. 오후 1시 17분쯤 서울경찰청 마포청사에 도착한 A씨는 취재진 질문에 “성실히 조사받겠다”고 했다. 함께 출석한 A씨의 변호인은 “탄원서 내용 외에 (김 전 원내대표와) 주고받은 것이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초등생 목덜미 잡아 교실 밖으로 쫓아낸 교사...법원 “교사 해임 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/08/E5IM76NVQ5AQJMUEVYIPN5E6KY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/08/E5IM76NVQ5AQJMUEVYIPN5E6KY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 Jan 2026 04:58:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZMG2EFRPISHO5JLXNQMHD73RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교실 책상./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생의 목덜미를 잡아끌어 교실 밖으로 내쫓은 초등학교 교사가 해임 처분에 불복해 소송을 냈지만 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 울산지법 행정1부(이윤직 부장판사)는 A씨가 울산교육청을 상대로 제기한 해임 처분 취소 소송을 기각했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 초등 저학년 반에서 수업하던 중 한 학생이 다른 학생들이 쌓아 올린 탑을 향해 컵을 던져 무너뜨리자 격분해 해당 학생에게 소리를 질렀다. 이후 학생의 목덜미를 잡아끌어 복도 쪽으로 밀어내듯 내보냈고, 수업이 끝날 때까지 약 20분간 혼자 서 있게 했다.&lt;br&gt;&lt;br&gt;당시 A씨는 이미 두 차례 아동 학대 관련 비위로 징계 절차가 진행 중이었으며, 이번 사건까지 겹치면서 아동학대범죄의 처벌 등에 관한 특례법 위반 혐의로 기소됐다. 법원은 유죄를 인정해 벌금형을 선고했고, 울산교육청은 국가공무원법상 품위 유지 의무 위반을 근거로 해임 처분을 내렸다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 징계가 과중하다며 처분 취소를 요구하는 소송을 제기했다. 하지만 재판부는 교육청의 판단이 재량권을 벗어난 것이 아니라고 봤다. A씨의 행위가 “학생 인격을 교육하거나 교육 활동 참여를 독려하는 지도 행위로 보기 어렵다”고 판단한 것이다.&lt;br&gt;&lt;br&gt;법원은 또 평균적 교원 기준에서 볼 때 A씨의 언행은 “교육자로서 교원 사회 전체의 신뢰를 실추시킬 행위를 하지 않아야 할 의무를 위반한 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;재판부는 “초등학교 교사가 보호하는 아동을 상대로 저지른 학대 행위는 가중 처벌되고, 징계를 감경할 수 없도록 규정돼 있다”며 “해임 처분이 사회 통념상 타당성을 상실했다고 볼 수 없다”고 기각 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영화 ‘대부’의 말론 브란도 명대사 “거절할 수 없는 제안”</title>
+      <link>https://www.chosun.com/premium/2026/01/06/A6NKKCHAHFDS7HZNPICW7EEBPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/premium/2026/01/06/A6NKKCHAHFDS7HZNPICW7EEBPA/</guid>
+      <dc:creator>윤희영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 Jan 2026 18:00:00 +0000</pubDate>
+      <content:encoded>1972년 영화 ‘대부(The Godfather)’에선 이 문장이 명대사로 꼽힙니다. &lt;br&gt;&lt;br&gt;배우 말론 브란도가 연기한 극중 인물 돈 코를레오네가 조카 조니 폰세의 문제를 해결해주겠다며 하는 말입니다. 조카가 영화 감독에게서 역할을 얻지 못해 고통스러워하자 이렇게 말합니다. &lt;br&gt;&lt;br&gt;“내가 그에게 거절할 수 없는 제안을 하지.” &lt;br&gt;&lt;br&gt;얼핏 평범한 말처럼 들리지만, 그 말속엔 모든 힘을 총동원하고 온갖 위협을 가해서 그 작자를 박살내 놓겠다는 어마무시한 메시지를 담고 있습니다.&lt;br&gt;&lt;br&gt;이 대사에선 make an offer와 동사 refuse를 들여다 보기로 하겠습니다. &lt;br&gt;&lt;br&gt;아시다시피 &lt;mark class="hl_yellow"&gt;make an offer&lt;/mark&gt;는 ‘제의하다’ ‘제안하다’라는 뜻의 구동사이지요. ‘I’ll make you an offer(내가 당신에게 제안을 하나 하겠다)’ 식으로 쓰이지요.&lt;br&gt;&lt;br&gt;I’d like to make a proposal for the new project. (새 프로젝트에 대해 제안을 하나 하고 싶다)&lt;br&gt;&lt;br&gt;The company put forward a proposal to expand overseas. (회사는 해외 진출을 위한 제안을 내놓았다)&lt;br&gt;&lt;br&gt;Let me throw out an idea for the meeting agenda. (회의 안건에 대해 아이디어를 하나 제시해 보겠다)&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;refuse&lt;/mark&gt;는 ‘거절하다’ ‘거부하다’라는 뜻으로 흔히 쓰이는 동사이지요. ‘뒤로 밀다’라는 뜻의 라틴어 refusare에서 유래한 단어입니다.&lt;br&gt;&lt;br&gt;동의어로는 &lt;mark class="hl_yellow"&gt;reject, decline, turn down, spurn, rebuff, repudiate&lt;/mark&gt; 등이 있는데요, 각각 미묘한 어감 차이는 있습니다.&lt;br&gt;&lt;br&gt;The committee rejected his application for the scholarship. (위원회는 그의 장학금 신청을 거부했다)&lt;br&gt;&lt;br&gt;refuse는 요청·제안 등을 받아들이지 않고 거절하는 것인데 비해 ​reject는 심사·검토 등 후에 퇴짜 놓아 거절하는 느낌이 들어가 있습니다.&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;decline&lt;/mark&gt;은 상대적으로 예의를 갖춰 공손하게 거절하는 어감이 반영돼 있습니다.&lt;br&gt;&lt;br&gt;She politely declined the invitation to the party. (그녀는 파티 초대를 정중하게 거절했다.)&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;turn down&lt;/mark&gt;과 &lt;mark class="hl_yellow"&gt;say no to&lt;/mark&gt;는 회화체로 많이 쓰이며, 일반적이고 자연스러운 거절 표현입니다.&lt;br&gt;&lt;br&gt;He turned down the job offer because the salary was too low. (그는 급여가 너무 낮아서 일자리 제안을 거절했다.)&lt;br&gt;&lt;br&gt;It’s hard to say no to such a generous offer. (그렇게 관대한 제안을 거절하기는 어렵다.)&lt;br&gt;&lt;br&gt;이에 비해 &lt;mark class="hl_yellow"&gt;spurn&lt;/mark&gt;과 &lt;mark class="hl_yellow"&gt;rebuff&lt;/mark&gt;는 매몰차게·냉담하게 뿌리치는 걸 묘사할 때 쓰입니다.&lt;br&gt;&lt;br&gt;She coldly spurned his offer of help. (그녀는 그의 도움 제의를 싸늘하게 뿌리쳤다.)&lt;br&gt;&lt;br&gt;The proposal was immediately rebuffed by the board. (그 제안은 이사회에 의해 즉각 일축됐다.)&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;repudiate&lt;/mark&gt;는 주로 주장·관계·계약 등을 공식적으로 부인·거부하는 경우에 사용됩니다.&lt;br&gt;&lt;br&gt;The minister firmly repudiated the suggestion. (그 장관은 그 제안을 단호히 거부했다.)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSXAR3TFCVDYVDEIEJHZZJ23G4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TIWODM5INRBVXARWBZGH3XEPSI.gif?auth=ffd46d94630a1af2d8e5e783be889fe339f4a9b312e1bbdf76569a232d1cc35b&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
+    </item>
+    <item>
       <title>“아빠, 버스 운전석에서 숨졌는데” 산재 인정 안돼 분노한 핸드볼 국대</title>
       <link>https://www.chosun.com/national/national_general/2026/01/08/IQPKV7XS5BHSPB2PA6GMBKABN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/IQPKV7XS5BHSPB2PA6GMBKABN4/</guid>
@@ -821,24 +858,6 @@
       <content:encoded>검찰청을 폐지하고 공소청·중대범죄수사청(중수청)을 신설하는 내용의 개정 정부조직법이 위헌이라며 시민단체가 낸 헌법소원에 대해 헌법재판소가 자기 관련성이 없다며 각하 결정을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DKNRQMYZWEM3FGZSWGNTGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 헌재는 지난달 30일 시민단체 ‘서민민생대책위원회’가 낸 개정 정부조직법 관련 헌법소원을 각하했다.&lt;br&gt;&lt;br&gt;헌재는 재판관 3인으로 구성된 지정재판부에서 “이 사건 기록상 청구인들의 법적 이익 또는 권리가 침해됐다고 볼 만한 사정이 없으므로 기본권 침해의 자기 관련성을 결여해 부적법하다”고 판단했다. 개정 정부조직법으로 직무나 신분에 실질적인 변화가 발생할 당사자가 아니라는 점에서 자기 관련성이 없다는 취지다.&lt;br&gt;&lt;br&gt;헌재 지정재판부는 헌법소원 심판의 사전 심사를 담당하는 재판관 3명으로 구성된 소규모 재판부다. 헌법소원 사건이 전원재판부로 넘어갈지 여부를 결정하는 1차 심사를 진행한다.&lt;br&gt;&lt;br&gt;최근 김성훈 청주지검 부장검사 등이 개정 정부조직법에 대해 제기한 헌법소원 사건은 현재 심리가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>노인쉼터에 ‘화투방’ 만든 뒤 입장료 받은 70대… 도박장소 개소로 벌금형</title>
-      <link>https://www.chosun.com/national/regional/2026/01/07/EHDX2QFF2NG5RMTEUTOQL44ZVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/07/EHDX2QFF2NG5RMTEUTOQL44ZVY/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 04:23:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI7VDPGFJ5G7D5MCCJMYIXFHSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도심 상가 내에 속칭 ‘화투방’을 만들어 입장료를 받은 혐의로 재판에 넘겨진 70대에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사7단독 박용근 부장판사는 대구 중구 한 상가에 속칭 ‘화투방’을 만든 뒤 불특정 다수 손님에게 입장료를 받은 혐의(도박장소 개설)로 기소된 A씨에게 벌금 300만원을 선고했다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2022년 11월부터 지난해 10월까지 대구 중구 경상감영길 한 상가에 ‘노인쉼터’라는 간판을 내걸고, 그 안에 원형 테이블 7개, 의자 35개, 화투 등을 갖춘 뒤 불특정 다수의 손님에게 1인당 하루 입장료 3000원을 받고 입장시켜 이곳에서 ‘고스톱’ 도박을 할 수 있도록 공간을 마련해준 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;박 부장판사는 “피고인은 영리를 목적으로 도박하는 장소를 개설했다”며 “법정 진술과 참고인의 통장 거래 내용 등을 고려했다”며 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 “정신의료기관 내 강박은 최소 범위에서”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/07/5YE37PBGSRHGNGECLXMOAKRDQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/5YE37PBGSRHGNGECLXMOAKRDQ4/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 03:57:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 환자에게 지나친 격리·강박 조치를 취한 정신 의료 기관에 지도·감독을 권고했다. 강박으로 인한 환자 폭행에 대해선 경찰에 수사를 의뢰했다. &lt;br&gt;&lt;br&gt;인권위는 지난달 13일 A 병원장에게 필요 이상으로 환자에 강박 조치를 취한 소속 간호사에 대한 징계와 정기적인 인권 교육을 실시할 것을 권고했다. B 구청장에게는 A 병원의 의료진이 주의 의무 조치를 소홀히 하지 않도록 지도·감독을 하도록 했다. A 병원 보호사 3명에 대해선 강박으로 인한 폭행 혐의로 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;해당 병원의 환자였던 진정인은 의료진이 환자들의 얼굴에 담요를 덮어놓고 강박하는 등 부당하게 대우했다며 진정을 제기했다. 반면 피진정인들은 당시 환자들의 저항이 격렬하여 피진정인들이 다치는 등 강박이 불가피한 상황이었다고 했다.&lt;br&gt;&lt;br&gt;하지만 인권위 장애인차별시정위원회는 의료진이 환자를 주먹으로 가격하거나 목 부위를 잡고 보호실로 이동시킨 행위, 발길질, 베개로 얼굴을 덮은 행위 등은 정신건강복지법이 금지하는 가혹 행위에 해당한다고 봤다. 또 인권위는 환자들에 대한 강박이 병원 기록과 달리 24분을 초과했으며, 정신건강의학과 전문의가 지시한 ‘4포인트 강박’이 아닌 ‘5포인트 강박’이 시행된 점도 발견했다. 양쪽 손목과 발목을 제한하는 것을 4포인트 강박, 여기에 더해 가슴 부위까지 함께 제한하는 것을 5포인트 강박이라 한다. &lt;br&gt;&lt;br&gt;이에 인권위는 “정신의료기관에서의 격리·강박은 의사의 전문적 판단하에 최소 범위에서 이뤄져야 한다”고 했다. 이어 “이번 결정이 격리와 강박 과정에서의 폭력과 자의적 집행을 예방하기 위한 관리·감독과 교육을 강화하는 계기가 되어야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제주공항 도착 즉시 ‘1인당 3만원’ 지역화폐 지급... 단체관광객 11만명 혜택</title>
       <link>https://www.chosun.com/national/regional/2026/01/07/7MMU6TEG5NG77KARHSHYMUMLDE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/07/7MMU6TEG5NG77KARHSHYMUMLDE/</guid>
@@ -866,19 +885,6 @@
       <content:encoded>성균관대 인근 약 100m 떨어진 곳에 호텔업을 하려다 ‘학습과 교육 환경에 나쁜 영향을 준다’는 이유로 허가를 거부당한 업체에 대해 법원이 교육청의 처분을 취소했다. 법원은 학생들에게 악영향을 끼칠 우려가 없다면 학교 인근이라 하더라도 숙박업소 설치를 제한해선 안 된다는 취지로 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZ4EHVMNNZFSJISZXBPENOG6JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 성균관대 전경. /성균관대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 서울행정법원 행정7부(재판장 이주영)는 지난해 11월 말 A 업체가 서울시중부교육지원청 교육장을 상대로 낸 ‘교육환경보호구역 내 금지 행위 및 시설 제외 신청 거부 처분 취소’ 소송에서 원고 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;A 업체는 2024년 4월 서울 종로구 성균관대 인근 건물에 숙박업소를 임차해 호텔업을 하겠다고 교육청에 신고했으나, 교육청은 “학습과 교육 환경에 나쁜 영향을 준다”는 이유로 이를 거부했다. A 업체는 이에 불복해 소송을 제기했다.&lt;br&gt;&lt;br&gt;A 업체가 호텔업을 하겠다는 건물은 성균관대 출입문으로부터 136.69m, 학교 용지 경계로부터 132.15m 떨어진 곳에 있다. 이는 교육 환경 보호 구역 중 ‘상대 보호 구역(50~200m 내)’에 있는 것으로, 관광 호텔과 숙박 업소를 설치하려면 교육청의 심의를 받아야 한다.&lt;br&gt;&lt;br&gt;법원은 업체 측의 손을 들어줬다. 재판부는 “성균관대 학생들은 신체적·정신적으로 성숙해 자신의 판단에 따라 자율적으로 행동하고 책임을 질 수 있는 시기에 이르렀다고 볼 수 있다”면서 “이러한 점을 고려하면 해당 숙박 업소에서 호텔업을 영위하는 것을 금지해야 할 만큼 숙박 업소가 대학생들의 학습과 교육 환경에 나쁜 영향을 준다고 볼 수 있을지 의문”이라고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 이어 “해당 숙박 업소는 1인 객실로만 구성돼 혼숙이 불가능하고, 일반 숙박 업소에 비해 윤락행위나 음란행위가 은밀하게 이뤄질 가능성도 상대적으로 낮다”고 했다. 또 “해당 숙박 업소는 성균관대 학생들의 주요 통학로에 있기는 하나, 건물 4층에 있어 출입구를 통해서는 내부를 볼 수 없고 창문이 가려져 있어 창문을 통해서도 내부를 볼 수 없다”고도 했다. 재판부는 “성균관대 측도 숙박 시설이 설치되더라도 학생들의 학습과 교육 환경에 아무런 지장을 주지 않는다는 의견을 밝혔다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>광주시, 5·18 암매장 추정지역 발굴조사 예고</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/07/Z63W2K4SZVHMNCDPCWXVDDGVMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/Z63W2K4SZVHMNCDPCWXVDDGVMY/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 02:57:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OSAO37BPDBCPXTECZ27JVFGLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 1월 30일 광주광역시와 5·18 기념재단이 광주 북구 문흥동 옛 광주교도소 무연고자 묘지 인근에 있는 텃밭에서 암매장 의심지 발굴 조사를 벌이고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시가 1980년 5·18 민주화운동 당시 암매장 추정 지역에 대한 발굴 조사에 나선다.&lt;br&gt;&lt;br&gt;광주시는 7일 “광주 북구 효령동 산 123 일원에 5·18 행방불명자 암매장지로 추정되는 묘의 발굴을 위해 분묘 개장 공고를 했다”고 밝혔다. 북구 효령동 산 123 일원은 공동묘지로, 1만8585㎡ 면적에 139기의 묘가 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;광주시는 2024년 6월 종료한 5·18 민주화운동진상규명조사위원회(조사위) 조사 과정에서 확인한 민간인과 군인 등의 암매장 진술이 효령동 일대를 공통적으로 지목한 점을 근거로 암매장 조사에 착수했다.&lt;br&gt;&lt;br&gt;효령동 일대는 5·18 당시에도 공동묘지였던 곳이다. 인근 주민들은 조사위에 “5·18 당시 암매장이 의심되는 군인들의 움직임이 있었다”는 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;광주시는 4월 5일까지 분묘 개장 공고를 진행한 뒤 발굴 조사에 착수할 계획이다. 조사위 조사 결과 5·18 이후 생사가 확인되지 않은 행방불명자는 총 73명이다.&lt;br&gt;&lt;br&gt;조사위는 암매장 추정지 21곳에 대한 발굴 조사 결과 무연고 유골 9구를 찾았지만, 유전자 검사 결과 5·18 행방불명자와 일치하는 사례는 없었다.&lt;br&gt;&lt;br&gt;옛 광주교도소 공동묘지에서 발굴된 유해 262구에 대한 유전자 검사에서 1구가 5·18과 연관성이 확인됐지만, 행방불명자로 인정되진 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2OSAO37BPDBCPXTECZ27JVFGLI.jpg?auth=d35e4082958b99cda176d194f3dff5e6840b7e2a65dbe3910fd2a4b69fcf6fa8&amp;smart=true&amp;width=600&amp;height=348" type="image/jpeg" height="348" width="600">
-        <media:description type="plain">2020년 1월 30일 광주광역시와 5·18 기념재단이 광주 북구 문흥동 옛 광주교도소 무연고자 묘지 인근에 있는 텃밭에서 암매장 의심지 발굴 조사를 벌이고 있다. /김영근 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>서해 피격 유족, 검찰 ‘반쪽 항소’에 국무총리·중앙지검장 고발</title>
       <link>https://www.chosun.com/national/court_law/2026/01/07/TSKFB32A5FFB7H6RCERCYK4I6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/07/TSKFB32A5FFB7H6RCERCYK4I6I/</guid>
@@ -904,15 +910,6 @@
       <description/>
       <pubDate>Wed, 07 Jan 2026 02:32:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7YROVHAWRFNVHI3INTJ6YLGLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 올린 X(옛 트위터) 게시글. /이재명 대통령 X 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 국내외를 돌며 일본군 위안부 피해자를 모욕하고, 기림비인 평화의 소녀상을 훼손하는 등의 혐의를 받는 ‘위안부법폐지국민행동’ 대표 김모씨 등의 사건을 한데 모아 집중 수사하기로 했다. 이재명 대통령이 소셜미디어(SNS)를 통해 김씨의 행위에 대해 비판하자 나온 조치다. &lt;br&gt;&lt;br&gt;7일 본지 취재를 종합하면 지난 6일 국가수사본부는 경남 양산경찰서에서 진행 중인 김씨 등에 대한 사건을 서울서초경찰서로 이첩하라는 공문을 보냈다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “전국 각 서에서 단건 수사하던 것을 모아 병합해 수사하겠다는 것”이라며 “사건을 병합해 신속한 집중 수사로 범죄의 실체를 보다 빨리 규명하겠다는 것”이라고 했다. 김씨에 대한 수사는 양산뿐만 아니라 서울에서도 이뤄지고 있던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;양산경찰서는 집회 및 시위에 관한 법률 위반, 재물손괴, 정보통신망 이용 촉진 및 정보 등에 관한 법률 위반(명예훼손) 혐의 등으로 김씨를 입건해 수사 중이다. 김씨의 활동에 가담한 3명에 대해서도 신원을 특정해 수사하고 있다. 경찰은 지난해 9월 24일 관련 고발장이 접수되자 수사에 나섰다고 한다. &lt;br&gt;&lt;br&gt;김씨가 운영하는 단체는 전국 각지에 있는 평화의 소녀상 앞이나 일본군 위안부 피해자들의 자택 앞 등을 찾아가 소셜미디어(SNS)에서 이뤄지는 ‘챌린지’ 방식으로 소녀상 등을 모욕하는 시위를 벌여왔다. 위안부 문제를 공론화한 일본 아사히신문사 앞에서 ‘위안부 사기 이제 그만’이라는 현수막을 들고 찍은 사진을 SNS에 게시하기도 했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 10월 양산 한 초등학교 인근에서 소녀상 철거 시위를 예고했다. 이곳 주변은 초등학교 등이 위치해 있어 김씨가 속한 단체의 시위가 알려지자, 학부모와 시민사회단체 등에서 우려의 목소리를 냈다. 경찰은 집회 전날 주변 초등학교 학습권 침해 우려를 이유로 집회 제한을 통고했고, 집회는 무산됐다. 양산경찰서는 고발장 내용을 토대로 김씨 등을 조사해왔다. &lt;br&gt;&lt;br&gt;이 사건이 한 언론 매체를 통해 지난 6일 대중에게 알려지자, 중국 순방 중인 이재명 대통령은 자신의 SNS에 “이런 얼빠진… 사자 명예훼손입니다”라고 비판했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “대검 특활비 지출 내역 공개해야”... 항소심도 시민단체 손 들어줘</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/07/XI55DKQV75B2JOUAIJT57GOW3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/07/XI55DKQV75B2JOUAIJT57GOW3Y/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 02:46:09 +0000</pubDate>
-      <content:encoded>대검찰청이 각 부서 특수활동비 지출 내역에 대한 시민단체의 정보공개 청구에 응해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2TOYRVG43DAYJUGVSWIZBXGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 서울고법 행정9-2부(재판장 김동완)는 지난달 시민단체 ‘세금도둑잡아라’가 제기한 정보공개 거부 처분 취소 소송에서 검찰총장의 항소를 기각하고 세금도둑잡아라 측의 손을 들어줬다. &lt;br&gt;&lt;br&gt;이번 소송은 지난 2023년 9월 하승수 대표의 대검 특활비 정보공개 청구를 대검이 거부한 데 따른 것이다. 대검은 특활비 지출 내역을 공개할 경우 순차적·반복적 정보공개 청구가 발생할 수 있고, 언론사가 관련 의혹을 제기하는 등 직무 수행을 현저히 곤란하게 할 우려가 있다며 정보공개 청구에 응하지 않았고, 하 대표가 이에 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;1심은 “대검이 기밀을 요하는 사건 수사의 직접적인 주체라고 보기 어렵고, 특활비 집행 일자, 금액 등을 공개하는 것만으로 직무 수행에 어려움이 따를 가능성은 크지 않다”며 작년 2월 원고 승소로 판결했다. &lt;br&gt;&lt;br&gt;항소심도 원심 판단에 잘못이 없다고 봤다. 재판부는 “공공기관에 대한 감시와 비판 기능의 수행을 그 사명 중 하나로 하는 언론이 특활비 집행 자료에 대해 의문을 제기하고 비판적인 기사를 작성한다는 사정만으로 수사 등 직무의 수행에 장애를 줄 고도의 개연성이 있다고 보기 어렵다”고 판결 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>2036년 올림픽 서울 유치 나선다… 시민위원회 출범</title>
