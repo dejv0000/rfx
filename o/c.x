@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전국 대부분 눈…강원·호남에는 ‘폭설’ </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/10/FBP5TEDG3FA3XBI5DIS7SHT6GA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/10/FBP5TEDG3FA3XBI5DIS7SHT6GA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 23:10:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRDIMTFGY2DIYJWGRSGIMDCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 5일 폭설 후 한파로 도로 곳곳이 얼어붙은 5일 시민들이 출근길 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말 동안 전국에 눈과 비가 예고된 가운데, 강원도와 경기도 가평, 경북 북부에는 대설주의보가 내려졌다. 호남의 경우 11일까지 최대 20㎝의 폭설이 예보됐다. &lt;br&gt;&lt;br&gt;기상청에 따르면 10일 새벽 중부지방에서 시작된 눈과 비는 오전 남부지방, 오후부터는 제주도로 확대될 예정이다. 충남을 제외한 중부지방은 이날 밤 비나 눈이 그치겠으나 충남과 전라권, 경남 서부 내륙은 11일까지 이어지겠다. &lt;br&gt;&lt;br&gt;경기 동부와 강원 내륙‧산지, 충북 북부, 전북을 중심으로 시간당 1~3㎝(일부 5㎝ 안팎)의 많은 눈이 내릴 수 있으니 안전사고에 유의해야 한다. 비나 눈이 내리는 지역에서는 돌풍과 함께 천둥‧번개가 치는 곳도 있겠다. &lt;br&gt;&lt;br&gt;이날부터 11일까지 이틀간 예상 적설량은 서울‧인천 1~3㎝, 경기 서부‧대전‧세종‧충남‧충북 중남부‧경북 남서 내륙‧경북 북부 내륙‧북동 산지‧제주도 해안 1~5㎝다. &lt;br&gt;&lt;br&gt;서해 5도‧충북 북부‧전남 동부 남해안‧제주도 중산간에는 2~7㎝, 경기 동부·경남 서부 내륙 3∼8㎝, 강원 내륙·산지 3∼10㎝(많은 곳 강원 북부 내륙·강원 산지 15㎝ 이상), 충남 남부 서해안 5∼10㎝, 광주·전남(동부 남해안 제외)·전북·울릉도·독도·제주도 산지 5∼15㎝(많은 곳 전북 서해안·남부 내륙·전남 서해안·제주도 산지 20㎝ 이상)의 눈이 예보됐다.&lt;br&gt;&lt;br&gt;예상 강수량은 대구·경북 중부 내륙·경북 동해안·경남 중부 내륙 1㎜ 안팎, 강원 동해안·전남 동부 남해안·경북 남서 내륙·경북 북부 내륙·북동 산지 5㎜ 미만, 경남 서부 내륙 5㎜ 안팎, 서울·인천·경기·강원 내륙과 산지·대전·세종·충남·충북 5∼10㎜, 서해 5도·광주·전남(동부 남해안 제외)·전북 5∼15㎜, 울릉도·독도·제주도 5∼20㎜다.&lt;br&gt;&lt;br&gt;이날 오전 서울 기온은 7도지만, 낮 기온은 4도로 예상된다. 늦은 오후부터는 강한 한기가 남하하면서 11일 서울의 아침 기온은 영하 8도까지 내려갈 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#만화계수퍼히어로짐리#보좌관갑질전쟁</title>
       <link>https://www.chosun.com/national/weekend/2026/01/10/JGKL3N33ZBDZRL5FNRUWFCIMTE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/01/10/JGKL3N33ZBDZRL5FNRUWFCIMTE/</guid>
@@ -964,15 +973,6 @@
       <description/>
       <pubDate>Thu, 08 Jan 2026 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WQ7G6Z7RNC4NMFH4CTBZCCOC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] pay the piper</title>
-      <link>https://www.chosun.com/national/nie/english/2026/01/09/VAJEWNS7NVF3XBXPBUZ4Z5BAHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/01/09/VAJEWNS7NVF3XBXPBUZ4Z5BAHE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EXMAE42E5AXNDS7DS4IYAAQA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 사형? 무기징역?… 내란 특검, 구형 앞두고 6시간 회의</title>
