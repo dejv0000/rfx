@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“트렁크서 활 꺼내 쐈다”...산책하던 여성 주변에 화살 쏜 2명 입건</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/09/JNV4ZPMSG5BUFL25YD4NYJ2KVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/09/JNV4ZPMSG5BUFL25YD4NYJ2KVU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 02:46:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76RPG2RYPBGEJHFY4NP6D3VFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주 도심에서 반려견과 산책하던 여성 주변으로 활을 겨누는 남성 2명의 모습./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주 도심에서 반려견과 산책하던 여성 주변으로 활을 겨누는 남성 2명의 모습이 방범 카메라(CCTV)에 포착됐다. 경찰은 이들을 특수폭행 혐의로 불구속 입건해 소환 통보했다.&lt;br&gt;&lt;br&gt;청주 청원경찰서는 강아지와 산책 중이던 여성 주변으로 화살을 쏜 20대 남성 2명을 특수폭행 혐의로 입건해 소환을 통보했다고 9일 밝혔다. 경찰은 전날 저녁 이들의 신원을 특정해 주거지를 찾아갔으나 부재중이었고, 연락을 취해 출석을 요구했으나 아직 답을 받지 못했다고 했다.&lt;br&gt;&lt;br&gt;사건은 지난 7일 오후 11시 40분쯤 충북 청주시 상당구 청소년광장에서 발생했다. 강아지와 산책하던 50대 여성은 “누군가 화살을 쏜 것 같다. 이상한 소리가 나서 봤더니 옆에 화살이 꽂혀 있다”고 112에 신고했다.&lt;br&gt;&lt;br&gt;당시 화살은 산책 중이던 여성으로부터 약 2.5m, 강아지로부터 약 1.5m 떨어진 광장 화단에 꽂힌 것으로 전해졌다. 길이 80㎝인 화살에는 금속(무쇠) 재질의 화살촉이 달려 있었으며, 경찰은 살상력이 있는 양궁용 화살로 추정하고 있다. 화살이 꽂힌 지점에서 2~3m 옆에는 평화의 소녀상도 있었다.&lt;br&gt;&lt;br&gt;지난 8일 JTBC가 공개한 CCTV 영상에는 남성 2명이 약 70m 떨어진 도로변에 주차된 차량 뒤로 이동한 뒤 활을 준비하는 장면이 담겼다. 화면 속에서 야구 점퍼를 입은 남성이 차량 트렁크에서 활을 꺼내고, 함께 있던 다른 남성이 활 시위를 당겼다 놓자 화살이 그대로 광장 쪽으로 날아갔다. 두 사람은 화살을 쏜 뒤 각자 자신의 차량을 타고 현장을 떠났다. 인근 CCTV에는 이들이 약 70m 떨어진 도로변에 주차된 차량 트렁크에서 활을 꺼낸 뒤 시위를 당기는 모습도 포착됐다. &lt;br&gt;&lt;br&gt;경찰은 이들이 인근 식당에서 술을 마시고 나온 뒤 이 같은 범행을 저지른 것으로 보고 있다. 동시에 우발적인 범행이었는지, 사람이나 평화의 소녀상을 겨냥한 테러였는지 등 모든 가능성을 열어두고 수사를 이어갈 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘방역수칙 위반 집회’ 양경수 민주노총 위원장, 벌금형 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/09/D5ND32R55NBXPGTLMOYT26VAQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/D5ND32R55NBXPGTLMOYT26VAQM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 03:01:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/327Z4QRHVFM5RAIG6VYU26P4WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오전 경기도 남양주시 모란공원 전태일 열사 묘역에서 열린 전국민주노동조합총연맹 2026년 시무식에서 양경수 민주노총 위원장이 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 확산 시기 방역 수칙을 어기고 불법 집회를 주도한 혐의로 기소된 양경수 민주노총 위원장에게 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 집회및시위에관한법률 위반 등 혐의로 기소된 양 위원장에게 원심이 선고한 벌금 400만원을 확정했다. 함께 기소된 한성규 민주노총 부위원장과 김호규 전 금속노조 위원장에게는 벌금 200만원, 나머지 20여 명 간부에게도 벌금 200만~400만원이 확정됐다.&lt;br&gt;&lt;br&gt;이들은 2021년 5월 1일 당시 방역 수칙을 어기고 서울 여의도에서 제131주년 세계노동절 서울대회를 주도한 혐의를 받았다. 서울시는 코로나 방역 조치로 10인 이상 집회를 제한하고 있었다. 당시 행진 중 거리 두기가 이뤄지지 않아 경찰이 현장 조치에 나섰고 몸싸움이 벌어지기도 했다.&lt;br&gt;&lt;br&gt;1심과 항소심 재판부는 “감염병 확산을 막기 위한 국민적 노력과 희생을 도외시한 것으로 책임이 가볍지 않다”면서도 “해당 집회로 인해 감염병 확산 위험이 현실화되거나 방역에 중대한 지장이 초래된 것으로 보이지는 않는다”고 했다. 대법원도 이러한 원심 판단에 문제가 없다고 보고 형을 확정했다.&lt;br&gt;&lt;br&gt;양 위원장은 2021년 7월 서울 종로구 일대에서 5000여 명이 참석한 ‘전국노동자대회’를 개최하는 등 서울 도심에서 수차례 방역 조치를 위반한 불법 집회를 주도한 혐의로 별도 기소돼 지난 1월 대법원에서 징역 1년에 집행유예 2년, 벌금 300만원이 확정된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처 신임 인권감찰관에 김승태 변호사 임명</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/09/BAM5RKWJTFFY5MFHZRP4SCXKWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/BAM5RKWJTFFY5MFHZRP4SCXKWE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 02:36:43 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처)는 9일 신임 인권감찰관에 김승태(53·사법연수원 29기) 변호사를 임명했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDCNDBGIYDSNBTG4ZTGZBZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승태 신임 감찰관 /고위공직자범죄수사처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 감찰관은 2000년 2월 대구지검에서 검사 생활을 시작한 뒤, 광주지검 목포지청·서울지검 서부지청(현 서울서부지검)을 거쳤다. 퇴직 후에는 변호사로 활동했고 전라남도교육청 감사관(3급), 한국가스공사 감사실 부장 등을 지냈다.&lt;br&gt;&lt;br&gt;공수처 인권감찰관은 내부 감사와 감찰, 직무 수행 중 인권 보호·개선 등을 맡는다. 임기는 3년이며, 5년까지 연장이 가능하다. 앞서 공수처는 지난해 7월 남수환 전 인권감찰관 임기 만료를 앞두고 한 차례 공모를 진행했지만 적격자를 찾지 못했고, 그동안 김수환 수사2부 부장검사가 직무를 대행해 왔다. &lt;br&gt;&lt;br&gt;공수처는 인사혁신처 주관으로 인권감찰관 임용 후보자를 선발한 뒤 인사 검증 등 절차를 거쳐 대통령의 재가를 받았다고 설명했다. 오동운 공수처장은 “새로운 인권감찰관 임명을 계기로 공수처는 청렴한 공직 사회를 만들기 위한 노력과 더불어 내부적으로도 청렴하고 부패 없는 건강한 공수처 조직이 되도록 내부 공직 기강을 확립하고 감찰도 강화할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 탈북 남동생 살해한 혐의 50대... 경찰 “금전적 이유로 살해 추정” </title>
+      <link>https://www.chosun.com/national/incident/2026/01/06/E54X44QPNRAHZHLJWZLS3TR55E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/06/E54X44QPNRAHZHLJWZLS3TR55E/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 Jan 2026 05:43:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 기장군 탈북민 남동생 살인 사건과 관련, 경찰은 피의자인 50대 여성이 경제적인 이유로 동생을 살해한 것으로 판단했다. 함께 용의 선상에 올랐던 피의자의 남편은 이번 사건과 아무런 연관이 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;부산 기장경찰서는 6일 살인 혐의로 구속된 50대 여성 A씨를 오는 8일 검찰에 송치할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 8월 29일 부산 기장군 한 아파트에서 40대 남동생 B씨를 살해한 혐의를 받는다. 외출했다 집에 들어온 A씨가 거실에 누워 있던 B씨를 깨웠으나 반응이 없어 경찰에 신고했다고 한다.&lt;br&gt;&lt;br&gt;당시 범행 현장에는 A씨의 남편인 C(50대)씨가 안방에 있었다. 경찰은 A씨 부부를 참고인 조사했으나 당시에는 “용의자로 특정할 증거가 없다”며 긴급 체포하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1차 검안 결과 B씨의 사인은 ‘경부 압박 질식사’였다. 타인이 목을 졸라 살해한 것이다.&lt;br&gt;&lt;br&gt;그런데 사건 발생 며칠 뒤인 C씨가 자신의 차량에서 유서를 남기고 스스로 목숨을 끊었다. 유서에는 억울한 심정을 토로하는 내용이 담겨 있었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “함께 탈북한 동생을 죽일 이유가 없다”며 혐의를 강하게 부인했다. 그러면서 남편이 동생을 죽였다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;용의자를 특정하는 데 어려움을 겪던 경찰은 최근 A씨를 피의자로 입건했다. 국립과학수사연구원 감정 결과, B씨의 시신에서 A씨가 복용하던 수면제와 동일한 약물이 검출된 것이다. 또 범행 당일 채취한 C씨의 혈액에서도 A씨가 복용하던 수면제 성분이 발견됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 밖에 나갔다 집에 들어오니 B씨가 숨졌다고 신고했는데 실제론 A씨가 외출하기 전 B씨가 숨진 것으로 추정된다”며 “당시 남편 C씨는 수면제 성분에 취해 잠이 들어 범행을 인지하지 못한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 경제적인 목적으로 동생을 살해한 것으로 보고 있다. 실제로 B씨는 여러 보험에 가입돼 있었던 것으로 알려졌다. 또 수억 원에 달하는 사망 보험금의 법정 상속인은 A씨인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;부산지법 동부지원은 지난달 30일 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “증거인멸 우려가 있다”며 구속영장을 발부했다. A씨의 진술이 모순된 점이 많고, B씨와 C씨에게서 A씨의 수면제 성분이 검출된 점 등이 영장 발부에 크게 작용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김동연 “용인 반도체 이전 논란, 청와대 정리대로 가는 게 정답” </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/09/MVJCW7LOSBAZ7LB3BCQFFNKXKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/09/MVJCW7LOSBAZ7LB3BCQFFNKXKI/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 01:29:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4DENJVGY3TEOJUHAZTIN3CGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 9일 용인 반도체 클러스터 이전 논란과 관련해 “청와대에서 어제 정리한 대로 가는 것이 정답”이라고 밝혔다.&lt;br&gt;&lt;br&gt;김동연 지사는 이날 CBS 라디오 ‘박성태의 뉴스쇼’에 출연해 “청와대에서 ‘투자하는 기업에 맡길 일’이라며 선을 그었기 때문에 다행이라고 생각한다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;앞서 김남준 청와대 대변인은 전날 브리핑에서 “클러스터 대상 기업 이전을 검토하고 있지 않다”며 “기업 이전은 기업이 판단해야 할 몫”이라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “치열한 국제 경쟁 상황에서 반도체 산업은 속도가 가장 중요하고, 클러스터 형성이 핵심”이라며 “경기도에 100조원 규모의 투자 유치가 이뤄진 것도 반도체 기업들이 클러스터 경쟁력을 높게 평가했기 때문”이라고 했다. 이어 “전라북도나 전라남도 역시 각 지역의 특성에 맞는 발전 전략을 세워 새로운 산업을 구상해야지, 이미 추진 중인 사업을 놓고 제로섬 방식으로 접근하는 것은 바람직하지 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이번 논란은 김성환 기후에너지환경부 장관이 최근 “전기가 생산되는 곳으로 기업이 가야 한다”는 취지의 발언을 하면서 촉발됐다. 이후 용인 반도체 클러스터를 전북 새만금 등으로 이전해야 한다는 주장이 호남 지역을 중심으로 제기되며 지역 간 신경전으로까지 확산됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>30년 전 전두환 사형 구형 ’417호 법정' 서는 尹… 특검 판단은</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/09/ML72XHERSJH2XAUXXMVVPPPKJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/ML72XHERSJH2XAUXXMVVPPPKJY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 01:38:18 +0000</pubDate>
+      <content:encoded>9일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 윤석열 전 대통령의 내란 우두머리 혐의 결심 공판은 417호 법정에서 열렸다. 이 법정은 전두환·노태우·이명박·박근혜 등 역대 기소된 전직 대통령 모두가 섰던 법정이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이 법정 피고인석에 앉은 다섯 번째 전직 대통령이다. 특히 그는 전두환·노태우 두 전직 대통령 이후 약 30년 만에 관련 혐의로 같은 법정에 서게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SDGZJRHFTDGM3DGE3TGMBYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 검찰은 1996년 12·12 군사 반란과 5·18 광주민주화항쟁 관련 내란 수괴, 뇌물 수수 등 10개 혐의로 기소됐던 전두환 전 대통령에게 사형을 구형했다. 내란 중요 임무 종사 등 9개 혐의로 기소됐던 노태우 전 대통령에게는 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;당시 검찰은 구형 사유를 밝히면서 “다시는 이 땅에서 헌정 질서를 파괴하고 국민의 자유를 억압하거나 뇌물 수수로 국가 경제를 총체적으로 부패시키는 범죄 행위가 되풀이되지 않도록 하는 것이 우리의 시대적 소명”이라고 했다.&lt;br&gt;&lt;br&gt;전 전 대통령은 1심에서 검찰의 구형대로 사형이 선고됐으나, 2심에서 무기징역으로 감형됐고 이 판결은 대법원에서 확정됐다. 노 전 대통령은 1심에서 징역 22년 6개월을 선고받고, 2심에서 징역 17년으로 감형된 뒤 대법원에서 확정됐다. 그로부터 약 30년이 지난 이번에는 윤 전 대통령이 같은 혐의로 특검 구형을 받게 된 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 내란혐의 결심공판 시작... 30년 전 전두환과 같은 법정</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/09/IUHNOOR5WNB7TIURBGB4DYR6CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/IUHNOOR5WNB7TIURBGB4DYR6CI/</guid>
+      <dc:creator>오유진 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 00:26:40 +0000</pubDate>
+      <content:encoded>서울중앙지법 형사25부(재판장 지귀연)는 9일 오전 9시 20분 윤석열 전 대통령의 내란 우두머리 혐의, 김용현 전 국방장관과 조지호 전 경찰청장 등 군·경 수뇌부 7명의 내란 중요 임무 종사 혐의 사건 결심 공판을 열었다. 심리를 마무리 짓는 결심 공판에서는 특검팀의 최종 의견과 구형, 변호인의 최후 변론, 피고인의 최후 진술이 이뤄진다.&lt;br&gt;&lt;br&gt;이날 서울중앙지법은 재판을 방청하려는 시민 다수로 북적였다. 재판 시작을 앞둔 8시쯤부터 방청객들이 모여들었고, 417호 대법정으로 이어지는 4번 출입구 앞에는 방청객 70여 명이 한 줄로 길게 늘어섰다. 서울중앙지법은 대법정이 방청객과 취재진으로 가득 차자 358호를 중계법정으로 지정해 재판 진행 상황을 지켜볼 수 있게 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLKSDWWTVFFSHLXCZEBE4MB6CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령은 재판이 시작한 직후 법정에 들어섰다. 최근 법정에 나올 때와 마찬가지로 검은색 양복에 흰색 와이셔츠 차림이었다. 오른손에는 갈색 서류봉투를 들었다. 윤 전 대통령처럼 구속 수감 중인 김용현 전 국방장관, 노상원 전 정보사령관도 어두운색 양복을 입고 법정에 출석했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 김 전 장관 등과 공모해 전시·사변 또는 이에 준하는 국가 비상사태의 징후 등이 없었는데도 위헌·위법한 비상계엄을 선포하는 등 국헌 문란을 목적으로 폭동을 일으킨 혐의를 받는다. 형법상 내란 우두머리죄의 법정형은 사형과 무기징역, 무기금고 세 가지뿐이다. 특검팀도 이 가운데 하나를 재판부에 요청할 것으로 예상된다. 이날 재판은 김 전 장관을 시작으로 피고인 측 서증 조사를 진행한 뒤, 특검 측이 최종 의견을 진술하고 구형하는 순서로 진행될 예정이다.&lt;br&gt;&lt;br&gt;특검팀은 결심 공판을 하루 앞둔 전날(8일) 주요 피고인들의 구형량을 논의하기 위해 약 6시간 동안 회의를 진행했다. 이들은 내란 우두머리 혐의의 법정형인 사형과 무기징역 중 어떤 형을 구형할지를 두고 다양한 의견을 나눴다. 회의에는 조은석 특검과 특검보, 수사팀장 등이 참여한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령 재판은 작년 4월 14일 첫 공판을 시작으로 이날 결심까지 총 42차례 열렸다. 이 가운데 윤 전 대통령은 26차례 법정에 출석했다. 윤 전 대통령은 초기에는 법정에 나와 적극적으로 자기 변호에 나섰지만, 작년 7월 10일 체포 방해 등 또 다른 혐의로 내란 특검에 구속된 이후로는 16차례 연속 재판에 불출석했다. 그러다 곽종근 전 특수전사령관이 증인으로 출석해 작년 10월 30일 공판부터 다시 법정에 모습을 드러냈다.&lt;br&gt;&lt;br&gt;재판은 지난달 30일 김 전 장관, 조 전 청장 등 군·경 수뇌부의 내란 중요 임무 종사 혐의 사건과 병합됐다. 병합 전까지 김 전 장관과 노 전 사령관 등 군 관계자 3명의 재판에는 55명의 증인이 출석했다. 조 전 청장과 김봉식 전 서울경찰청장 등 경찰 수뇌부 4명의 재판에는 71명의 증인이 나왔다. 중복 출석 등을 제외하면 이날 종결되는 내란 재판에 총 160여 명의 증인이 법정에 출석한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DHAA7JF2QRF6NELCG3JVBGKJDY.jpg?auth=f0a0a9bc26e7ec9446d4b0dbb2f4055c700c04f187ba692064b8b309daff386f&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
+        <media:description type="plain">피고인석 앉은 윤석열 전 대통령</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>상설특검, 엄희준 검사 첫 출석…“문지석, 일방적 허위 주장”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/09/AHFGN4GUMBBMVDO2R63CU53UHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/AHFGN4GUMBBMVDO2R63CU53UHI/</guid>
+      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 00:51:14 +0000</pubDate>
+      <content:encoded>검찰의 ‘관봉권 띠지 분실’ 및 ‘쿠팡 수사 외압’ 의혹을 수사하는 안권섭 상설특검에 엄희준(전 부천지청장) 광주고검 검사가 9일 출석했다. 엄 검사가 특검 조사를 받는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJTDSNRSG44GEMRZMQ4DMMBZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡 사건을 무혐의 처분하도록 외압을 행사한 인물로 지목된 엄희준 광주고검 검사가 9일 오전 서울 서초구 광봉권·쿠팡 상설특검팀 사무실에서 피의자 조사를 받기 위해 출석하며 취재진 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 9시 49분쯤 서울 서초구 특검 사무실에 모습을 드러낸 엄 검사는 “수사 외압이 있었다는 문지석 검사(현 광주지검 부장검사)의 주장을 어떻게 보냐”는 취재진 질문에 “일방적인 허위 무고 주장이다. 특검에서 객관적 물증을 토대로 충분히 적극적으로 설명드릴 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “당시 (쿠팡 무혐의) 처분에 문제가 없다고 생각하느냐”고 묻는 질문에는 “그때 수사 상황에서 최선의 결론을 내렸다. 16개 검찰청에서 모두 무혐의가 나왔고 무죄 판결도 있다. 법리적으로 문제가 없겠다고 판단해 무혐의한 것”이라고 했다. “대검도 (당시) 같은 취지로 지휘했다”고 했다.&lt;br&gt;&lt;br&gt;당시 주임 검사였던 신가현 검사에게 ‘무혐의 가이드라인’을 줬다는 의혹에 대해서는 “가이드라인이 어떤 의미인지 모르겠지만 주임 검사의 의견은 처음부터 무혐의였다”라며 부인했다.&lt;br&gt;&lt;br&gt;특검 출범 한 달 만에 소환된 데 대해서는 “(문 검사의) 허위 주장으로 이렇게 큰일을 만드는 것이 과연 적절한 일인지 (의문이다)”라며 “특검에서 수사를 통해 객관적인 진실을 잘 밝혀줄 것이라고 생각하고, 특검을 신뢰한다는 게 기본 입장”이라고 말했다.&lt;br&gt;&lt;br&gt;특검이 수사 중인 쿠팡 관련 의혹은 엄 검사가 인천지검 부천지청장이던 지난해 4월 쿠팡 자회사인 쿠팡풀필먼트서비스(CFS)의 퇴직금 미지급을 수사하던 문 검사에게 무혐의 처분을 강요했다는 내용이다.&lt;br&gt;&lt;br&gt;문 검사는 지난해 10월 국회 국정감사에서 “엄 검사와 김동희(전 부천지청 차장검사) 부산고검 검사가 무혐의 처분을 압박했다”고 주장했다. 문 검사는 쿠팡의 취업 규칙 변경이 불법이라 기소해야 한다는 취지로 의견을 냈지만, 엄 검사 등이 “무혐의가 명백한 사건”이라며 회유했다는 것이다. 이에 대해 엄 검사는 문 검사의 주장이 모두 허위라며 특검에 무고 혐의 수사를 요청한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSTMMBQGA3DGOJVGVTDGYLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'관봉권 띠지 폐기 의혹'과 '쿠팡 퇴직금 불기소 외압 의혹'을 수사하는 안권섭 특별검사 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 특검은 이날 권도형 특검보 등이 서울 강남구 역삼동의 신한은행 강남 별관에 대한 수색·검증 영장을 집행하고 있다고 밝혔다. 특검은 신한은행 띠지와 관련된 제반 정보 및 시중은행에서 관봉권(사용권)을 수납한 후 처리 과정 등을 확인하기 위한 절차라고 설명했다.&lt;br&gt;&lt;br&gt;특검은 서울남부지검이 2024년 12월 ‘건진 법사’ 전성배씨의 자택을 압수 수색해 5000만원어치 한국은행 관봉권을 포함한 현금다발을 확보했으나, 수사 과정에서 띠지와 스티커를 분실한 과정에 위법한 내용이 없는지 수사 중이다. 작년 12월 19일에는 한국은행에 대한 수색·검증 영장을 집행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>버스정류장서 10대에 강제 ‘볼뽀뽀’...30대 중국인 징역 2년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/09/DM6NL5XJ3NB4NJSDO6DBHRM6PQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/DM6NL5XJ3NB4NJSDO6DBHRM6PQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 00:16:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZGIMTFGAYTCN3EGY3GIZBQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주공항에 도착한 관광객들. 기사와 관련 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스정류장에서 술에 취한 채 10대 청소년의 볼에 입을 맞춘 30대 중국인에게 검찰이 징역형을 구형했다.&lt;br&gt;&lt;br&gt;제주지검은 8일 제주지법 제2형사부(재판장 임재남) 심리로 열린 30대 중국인 A씨의 아동·청소년의 성보호에 관한 법률 위반(강제추행) 혐의 첫 공판 겸 결심공판에서 징역 2년을 구형했다. 또 성폭력 치료 프로그램 이수 명령, 신상정보 공개·고지, 아동·청소년 및 장애인 관련 기관 취업 제한 3년도 함께 명령해 달라고 했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난해 9월 19일 제주시의 한 버스정류장에서 10대 청소년에게 다가가 볼에 입을 맞춰 강제추행한 혐의로 구속 기소됐다. 이 과정에서 피해자에게 성적 수치심을 유발하는 등 성적으로 학대한 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰은 “피고인의 죄질이 불량하지만, 뒤늦게 자백한 점과 국내에서 처벌 전력이 없는 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 측은 공소사실을 모두 인정했다. 변호인은 “처음부터 의도적으로 피해자에게 접근한 것은 아니고, 길을 묻는 과정에서 순간적인 감정에 휩싸여 범행한 것으로 보인다”며 “피고인의 모친이 병원에 입원해 있어 고향으로 돌아갈 수 있도록 관대하게 처벌해 달라”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 “당시 술에 취해 한순간의 충동으로 법을 어겼다”며 “하지만 술에 취했다는 것은 핑계가 될 수 없고, 진심으로 반성하고 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 22일 오전 A씨에 대한 선고 공판을 열 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘與 공천헌금 수사’ 미적대는 경찰… 김경, 美 CES서 ‘엄지척’</title>
       <link>https://www.chosun.com/national/national_general/2026/01/09/JBZP5JIGKBBPHANIYYYFOSKYFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/09/JBZP5JIGKBBPHANIYYYFOSKYFM/</guid>
@@ -732,33 +816,6 @@
       </media:content>
     </item>
     <item>
-      <title>서울대 첫 ‘AI 가이드라인’ 제정...“AI 결과물 책임은 본인에게” </title>
-      <link>https://www.chosun.com/national/national_general/2026/01/08/V5Y7TEN5RNFE7D7OLZMZST4ZZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/V5Y7TEN5RNFE7D7OLZMZST4ZZY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 00:07:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2WGOJZMYYGCMRZGU2DQM3GMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AI(인공지능) 네이티브 캠퍼스 구축, AI 대학원 설립 등 학내 인공지능 관련 사업을 늘리는 서울대가 처음으로 ‘AI 가이드라인’을 제정해 학내에 배포했다. &lt;br&gt;&lt;br&gt;서울대는 지난 7일 학내 공지를 통해 ‘서울대학교 AI 가이드라인’을 제정했다고 밝혔다. 서울대는 “급변하는 기술 환경 속에서 AI를 생산적이고 책임 있게 활용할 수 있도록 가이드라인을 제정했다”며 “이 가이드라인은 AI 활용을 일률적으로 제한하거나 금지하기 위한 규범이 아니라, 자율성과 신뢰를 바탕으로 한 합리적 판단과 창의적 접근, 윤리적 활용을 지원하기 위한 원칙과 권고 사항을 제시하는 데 목적이 있다”고 설명했다.&lt;br&gt;&lt;br&gt;본지가 입수한 7쪽짜리 가이드라인에는 교육·학습, 연구·개발, 행정 등 분야에서 권고하는 윤리 가이드라인이 담겼다. 최근 대학가에서 문제가 된 ‘AI 부정행위’와 관련해 서울대는 “학생들이 AI를 부당하게 활용해 과제나 시험에서 이익을 얻는 일이 발생하지 않도록 유의한다”고 권고했다. 교수자의 평가에 있어서도 “교수자는 학생 평가를 함에 있어 AI에 전적으로 의존하는 것을 지양한다”고 명시했다.&lt;br&gt;&lt;br&gt;서울대는 AI 결과물에 대한 책임은 본인에게 있다고 봤다. 가이드라인에는 “교육, 연구, 행정 등에서 AI 도구를 빌려 산출한 결과물의 제출과 활용에 따른 진실성 여부, 저작권 침해 여부 등의 모든 책임은 본인에게 있음을 인지해야 한다”고 기재됐다.&lt;br&gt;&lt;br&gt;AI의 편향성을 우려해야 한다는 조항도 있었다. 가이드라인에는 “AI 도구는 사회에 내재된 편견과 차별 등을 발현시키거나 이를 강화, 확산시킬 수 있다”며 “이를 최소화하는 등 AI의 윤리적 사용을 위한 적극적 조치 및 노력을 해야 한다”는 내용이 포함됐다.&lt;br&gt;&lt;br&gt;서울대가 이 같은 AI 가이드라인을 제정한 배경에는 AI 네이티브 캠퍼스, AI 대학원 설립 등 인공지능 관련 신사업이 있다. 서울대는 지난해 오픈AI와 업무 협약을 체결하며 ‘AI 네이티브 캠퍼스’를 구축하겠다는 계획을 발표했다. AI 네이티브 캠퍼스란 AI를 활용하여 교육, 연구, 행정 등 대학의 모든 영역에서 효율적이고 개인 맞춤형 경험을 제공하는 연구 모델을 뜻한다.&lt;br&gt;&lt;br&gt;유홍림 서울대 총장은 지난 2일 신년사에서 “2027년 개원을 목표로 AI 대학원 설립을 추진하겠다”며 “AI 가이드라인을 마련하고, 생성형 AI 캠퍼스 라이선스를 도입해 교육과 연구에 적절히 활용할 수 있게 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 지난해 11월 서울대 자체 조사 결과, 재학생의 97% 이상이 학업 중 AI를 사용하고 있는 것으로 파악됐다. 리포트 작성, 논문 초안 구성, 발표문 작성 등 학습 전 단계에서 AI 활용이 일상화된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김태훈 정교유착 합수본부장 “좌고우면 없이 의혹의 실체 규명할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/08/4H7THDTKC5CXZPVNSVFUMDVTUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/08/4H7THDTKC5CXZPVNSVFUMDVTUI/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 23:58:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3CABGTZLVJYVDBSPMUKJYVKTA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;통일교와 신천지의 정교유착 의혹을 수사하는 합동수사본부를 이끌게 된 김태훈 서울남부지검장이 8일 오전 서울 서초구 서울고등검찰청에 마련된 사무실로 출근하며 수사에 임하는 포부를 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태훈 정교 유착 비리 검·경 합동수사본부장이 8일 합수본 사무실이 마련된 서울 서초구 서초동 서울고검으로 첫 출근하면서 “지위고하를 막론하고 좌고우면함 없이 오직 증거가 가리키는 방향대로 의혹의 실체를 규명하기 위해 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 합수본부장으로서 첫 출근하는 소감을 묻는 취재진에게 “본부장에게 맡겨진 막중한 책임감을 느낀다”며 “이번 합수본은 검경이 합동해서 구성한 만큼 서로 협력해서 국민들이 원하는 결과를 내놓을 수 있도록 최선을 다하겠다”며 이같이 밝혔다. 그는 또 ‘통일교와 신천지 의혹 중 (수사의) 우선순위를 둔 의혹이 있느냐’는 질문에 “아직 검토 중이고, 천천히 논의해 나갈 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;김 본부장은 신천지 의혹 관련 인지수사가 진행되는지 여부, 특검 도입에 따른 합수본 수사 계획 관련 질문에는 답하지 않고 사무실로 향했다. 김태훈 서울남부지검장이 이날 합수본부장으로서 첫 출근하면서 통일교와 신천지를 둘러싼 각종 의혹을 수사하는 합수본이 본격 가동됐다.&lt;br&gt;&lt;br&gt;합수본은 서울고검과 서울중앙지검에 설치됐다. 본부장 아래 검찰과 경찰로 나뉜 2개 수사팀이 있는데, 검찰에서는 검사와 수사관 등 25명이, 경찰에서는 총경 등 22명이 각각 파견돼 총 47명 규모로 운영된다. &lt;br&gt;&lt;br&gt;합수본은 경찰청 국가수사본부가 수사하던 통일교의 정치권 금품 로비 의혹과 여권이 제기한 신천지의 국민의힘 당원 가입 의혹 등을 수사할 계획이다. 대검찰청 관계자는 “통일교와 신천지 등 종교 단체의 정관계 인사에 대한 금품 제공, 특정 정당 가입을 통한 선거 개입 등 정교 유착과 관련된 의혹 일체가 수사 대상”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>논란의 다이어트약 ‘나비약’...현직 의사 “마약이랑 똑같아” 경고</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/08/UB6NMTF3WBFF7HANEBFS6CVVUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/08/UB6NMTF3WBFF7HANEBFS6CVVUU/</guid>
-      <dc:creator>정채빈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 22:29:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Q35AC63S5BRNOKDWVW22K7OAQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브 채널 '동네 의사 이상욱' 캡처 화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부작용과 오남용으로 우려의 목소리가 나오고 있는 일명 ‘나비약’(식욕억제제)과 관련해 한 현직 의사의 경험담이 주목받고 있다.&lt;br&gt;&lt;br&gt;2일 유튜브 채널 ‘동네 의사 이상욱’을 운영하는 이상욱 원장은 ‘운동으로 뺐다더니.... 유명 유튜버의 다이어트약, 의사인 저도 사실 먹어봤습니다’라는 제목의 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상 속 이 원장은 “박나래씨 때문에 요즘에 진짜 막 연예인들 이런 파장이 되게 커졌다”며 “거기에 또 무슨 나비약인가? 이슈가 됐다”며 “이게 엄청나게 큰 문제가 있다”고 말했다. &lt;br&gt;&lt;br&gt;그는 “사실 저도 옛날에 아기 코끼리 몸무게가 나갈 때가 있었다. 거의 90㎏ 넘게”라며 “아기 코끼리 몸무게가 100㎏인데 도저히 안 되겠다, 나비약을 처방받아야겠다 하고 먹은 적이 있다“고 밝혔다. 그러면서 ”나비약으로 20㎏을 뺐다“며 “2017년도쯤 한번 먹어보고 이후 한 번도 먹어본 적은 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 “효과는 너무 좋다”면서도 “제가 다이어트 진료를 더 이상 안 하는 이유 중 하나가 여기에 있다“고 했다. 그는 나비약 섭취를 두고 “만약에 도둑이 들어와서 너무 놀랐다. 그러면 어떠냐. 심장이 두근두근하지 않냐”며 “너무 놀라서 그 와중에 먹고 싶겠나. 식욕이 있겠나? 그리고 식은땀도 난다. 잠이 오겠나. 잠이 안 온다. 이 현상이 나비약을 먹으면 똑같이 나타난다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GX3XPMUWLRCHJJITVHB32AQLOM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브 채널 '동네 의사 이상욱' 캡처 화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “나비약의 가장 큰 효과는 중추신경계다. 머리에 작용해서 노르에피네프린을 항진시키면서 체내 대사를 빨라지게 하는 것”이라며 “지방 연소에 도움이 되고 식욕이 떨어지니까 체중 감량 효과가 굉장히 크다”고 했다. 영상에 따르면 노르에피네프린은 스트레스 상황에서 분비돼 심박수 및 혈압을 높이고 각성과 집중을 강화하는 신경전달물질이자 호르몬이다.&lt;br&gt;&lt;br&gt;그러면서 이 원장은 나비약의 중독성에 대해 언급했다. 그는 “나비약은 끊기가 어렵다. 마약이랑 똑같다”며 “나비약이 펜타민이라고 하는 성분이다. 펜타민은 필로폰, 암페타민과 화학 구조가 거의 똑같다. 마약이라 해도 과언이 아니다. 이걸 끊게 되면 불안하기도 하고 내성이 생긴다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “저는 나비약을 6주 정도 먹었는데도 끊을 때 너무 힘들었다”며 “2~3시간 자도 각성돼서 안 피곤하더라. 끊는 순간 너무 피곤해진다. 각성됐던 효과가 없어지는 거다. 잠을 열몇 시간 자도 피곤하다. 그래서 제가 시체처럼 진짜 잠을 잤다. 그래도 피곤하다. 기분도 다운돼 있고 우울감도 좀 있었다”고 했다. 그는 “항상성을 찾아가는 데 3~4주 소요됐다”고 했다. &lt;br&gt;&lt;br&gt;또한 “청소년 당연히 먹으면 안 된다. 어릴 때부터 그런 약에 노출되면 성인 돼서 진짜 뇌가 망가진다”며 “다이어트는 약으로 끝내는 게 절대 아니다. 행동치료, 인지치료, 습관 이런 것들을 교정하지 않으면 절대 다이어트를 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;아울러 그는 약물에 의한 건조증에 대해서도 설명했다. 그는 “펜타민 같은 계열을 먹으면 입이 또 바짝바짝 마른다. 굉장히 건조해진다”며 “당연히 피부도 건조해진다. 피부뿐만 아니라 몸의 모든 대사를 항진시키다 보니까 건조증을 유발한다. 안구건조증도 생길 수 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김병기와 세여인 앞에선 경찰은 왜 작아지는가?</title>
       <link>https://www.chosun.com/national/court_law/2026/01/08/EGC5J2MQJFDQNF5XOCT7Y6D45Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/08/EGC5J2MQJFDQNF5XOCT7Y6D45Q/</guid>
@@ -852,15 +909,6 @@
       </media:content>
     </item>
     <item>
-      <title>국가무형유산 ‘대금정악’ 보유자 조창훈씨 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/08/3SV4HI3F7BBPXNAJAGAUQOKXLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/08/3SV4HI3F7BBPXNAJAGAUQOKXLQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSSGFCQVXNFMVKSJEKM672NSSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가무형유산 ‘대금정악’ 보유자 조창훈(86)씨가 별세했다. 7일 국가유산청은 “고인이 지난 6일 세상을 떠났다”고 밝혔다. 1955년 국악사양성소 1기로 입학한 고인은 고(故) 김성진 보유자를 사사했고, 1989년 대금정악 이수자가 됐다. 과거 궁정이나 관아 등에서 연주하던 우아한 정악 가락을 대금으로 섬세하게 살려내며 국악 발전에 힘써왔다. 유족으로는 아들 조광복·광석 씨 등이 있다. 빈소는 신촌세브란스병원, 발인은 8일 오전, (02)2227-7500. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>아스피린, 트럼프처럼 권장량의 4배 먹으면 안 돼요</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/01/08/ZHQ76RU3WVFXBODYQR74J6PFYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/08/ZHQ76RU3WVFXBODYQR74J6PFYA/</guid>
@@ -904,51 +952,6 @@
       <description/>
       <pubDate>Wed, 07 Jan 2026 11:27:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRGCMRVGNRTAODBGQYDQN3FG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 조은석 특별검사, 민중기 특별검사, 이명현 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 정부 관련 의혹을 수사했던 3대 특검(내란·김건희·순직 해병)이 6개월 동안 852건의 출국 금지를 신청했고, 이 중 기각은 단 3건뿐이었던 것으로 확인됐다. 법조계에서는 별건·과잉 수사 논란이 계속된 3대 특검이 한 번도 부르지 않은 피의자나 참고인까지 계속 출국 금지했고, 법무부도 특검 신청을 대부분 받아줬다는 비판이 나온다.&lt;br&gt;&lt;br&gt;7일 국회 법제사법위원회 소속 주진우 국민의힘 의원실이 법무부에서 제출받은 자료에 따르면, 3대 특검은 작년 6~11월 총 852건의 출국 금지를 요청했고 이 중 849건이 인용됐다. 인용률 99.65%는 작년 검찰의 출국 금지 인용률(97.01%)보다 높은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;출국 금지는 출입국관리법에 따라 수사기관이 범죄 수사를 위해 필요하다고 요청하면 법무부 장관이 승인 또는 연장할 수 있다.&lt;br&gt;&lt;br&gt;그러나 이 중에는 특검이 조사도 하지 않은 경우도 포함돼 있다. 원희룡 전 국토교통부 장관과 한동훈 전 국민의힘 대표가 대표적이다. 김건희 특검은 작년 7월 2일 수사 개시 직후 ‘서울~양평 고속도로 노선 변경 특혜 의혹’과 관련해 원 전 장관을 출국 금지했다. 국토부가 2023년 5월 서울~양평 고속도로 종점을 김건희 여사 일가 땅이 많은 경기 양평군 강상면으로 변경하는 데 원 전 장관도 관여했다고 의심했기 때문이다. 그러나 특검은 작년 12월 28일 수사 종료 때까지 원 전 장관을 조사하지 않은 채 출국 금지만 계속 연장했다.&lt;br&gt;&lt;br&gt;한 전 대표도 약 3개월 동안 출국 금지됐다. 해병 특검은 2024년 3월 이종섭 전 국방장관이 주(駐)호주 대사에 임명될 때 한 전 대표가 이 전 장관의 출국 금지 해제에 관여했다는 취지의 고발장을 접수했다며 한 전 대표를 입건했다. 그러나 한 전 대표는 당시 국민의힘 비상대책위원장이었고, 이 전 장관에 대한 출국 금지 해제에 영향력을 미쳤다는 증거도 나오지 않았다. 결국 해병 특검은 한 전 대표를 무혐의 처분했다. 한 전 대표는 이에 대해 작년 11월 “말 안 되는 정치 수사”라고 비판했다.&lt;br&gt;&lt;br&gt;한편 특검의 출국 금지 미통지 비율은 56.42%(849건 중 479건)였다. 출입국관리법상 법무부 장관은 출국 금지 또는 기간 연장을 할 때 당사자에게 사유와 기간 등을 서면 통지해야 한다. 다만 범죄 수사에 중대하고 명백한 장애가 생길 우려가 있거나, 대한민국의 안전 또는 공공의 이익에 중대하고 명백한 위해(危害)를 끼칠 우려가 있을 때는 통지하지 않을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, ‘서해 공무원 피살’ 관련자 수사 의뢰 보고 받은 뒤 “직접 고발하라” 지시... 판결문에 담겨</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/07/KKGXM5QV3RCJFOSFT3NS5MUW4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/07/KKGXM5QV3RCJFOSFT3NS5MUW4M/</guid>
-      <dc:creator>오유진 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 09:49:18 +0000</pubDate>
-      <content:encoded>2020년 9월 해양수산부 공무원 고(故) 이대준씨가 서해상을 표류하다 북한군에 피격돼 숨진 ‘서해 공무원 피살’ 사건과 관련해, 윤석열 전 대통령이 취임 후 국가정보원장에게 관련자들의 수사를 의뢰하겠다는 취지의 보고를 받고 “국정원이 직접 고발하라”고 지시한 것으로 7일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXCIJJQHS5ILBLMKDSCSBT4XLY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 국민의힘 대선 후보가 2022년 1월 31일 오후 서울 여의도 당사에서 '서해 피살 공무원'의 유족과 면담하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 박지원(현 국회의원) 전 국정원장 등의 699쪽 분량 1심 판결문에는 윤 전 대통령과 대통령실이 국정원의 관련자 고발에 직접 개입한 정황이 담겼다. 2022년 7월 5일 오전 9시 30분쯤 김규현 당시 국정원장이 윤 전 대통령에게 ‘박지원 전 원장 등을 수사 의뢰하겠다’고 보고하자, 윤 전 대통령이 “국정원이 직접 고발하라”고 지시했다는 것이다.&lt;br&gt;&lt;br&gt;김 전 원장은 당시 윤 전 대통령에게 가져간 보고 문건에 ‘대통령 고발 지시’라는 메모를 직접 남긴 것으로 알려졌다. 실제로 국정원은 다음 날 박 전 원장을 첩보 보고서 무단 삭제 혐의 등으로 대검찰청에 고발했다. 국정원은 지난달 29일 고발을 취하했다.&lt;br&gt;&lt;br&gt;판결문에는 국방부의 ‘서해 사건 관련 안보실 협의 결과’ 문건 내용도 담겼다고 한다. 2022년 6월 10일 김태효 당시 국가안보실 1차장 주관으로 해경과 국방부 실무자들이 참석한 회의가 열렸는데, 이때 이씨 유족 측이 제기한 정보 공개 청구 소송에 대한 항소를 취하하고 해경과 국방부는 ‘월북 추정’ 판단을 뒤집는 발표를 하기로 결정했다는 것이다.&lt;br&gt;&lt;br&gt;이 사건 1심을 심리한 서울중앙지법 형사25부(재판장 지귀연)는 지난달 26일 박 전 원장과 서훈 전 청와대 국가안보실장, 서욱 전 국방장관, 노은채 전 국정원장 비서실장, 김홍희 전 해양경찰청장에게 무죄를 선고했다. 검찰은 이 중 서 전 실장과 김 전 청장의 허위 공문서 작성 및 행사, 명예훼손, 사자 명예훼손 혐의에 대해서만 항소했다. 다른 세 명에게는 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>상설특검, 9일 엄희준 검사 소환...‘쿠팡 외압’ 의혹 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/07/R7NP3EYLJBEW7LWV7EWXMP4N2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/07/R7NP3EYLJBEW7LWV7EWXMP4N2M/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 10:01:39 +0000</pubDate>
-      <content:encoded>‘쿠팡 수사 외압 의혹’ 사건을 수사하는 안권섭 상설특검팀이 오는 9일 엄희준 광주고검 검사(전 부천지청장)를 소환한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZTMMBYGU3WKYZRMI3WCYTBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엄희준 광주고검 검사가 작년 10월 서울 여의도 국회 법제사법위원회에서 열린 서울고등검찰청·서울중앙지방검찰청 등에 대한 국정감사에서 의원 질의에 답변하고 있다. 왼쪽은 문지석 광주지검 부장검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 상설특검은 최근 엄 검사 측에 오는 9일 오전 10시, 특검 사무실로 출석할 것을 통보한 것으로 전해졌다. 이날 김동희 부산고검 검사(전 부천지청 차장검사)를 이 사건 직권남용 혐의 등의 피의자로 불러 조사한 지 이틀 만이다.&lt;br&gt;&lt;br&gt;엄 검사와 김 검사는 지난해 초 부천지청에서 쿠팡의 퇴직금 미지급 사건을 수사하던 문지석 부장검사에게 무혐의 처분을 하라고 압박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 문 부장검사는 지난해 10월 국회 국정감사에서 “엄 전 지청장과 김 전 차장이 무혐의 처분을 압박했다”고 주장했다. 문 부장검사는 엄 검사가 쿠팡 사건을 대검찰청에 보고하면서 노동청 압수물 등 핵심 증거를 누락하고, 당시 주임검사에게 무혐의 가이드라인을 제시했다고도 했다.&lt;br&gt;&lt;br&gt;그러나 엄 검사는 문 부장검사의 주장이 모두 허위라며 지난달 6일 특검에 문 부장검사에 대한 무고 혐의 수사를 요청했다. 엄 검사 측은 증거 누락 의혹과 관련해 “작년 4월 18일 대검에 노동청 압수물 내용과 문 부장검사의 입장까지 보고했다”며 “검찰 메신저 대화 내역 등 객관적 증거 자료가 그대로 남아 있다”고 주장했다. &lt;br&gt;&lt;br&gt;수사 외압 의혹에 대해서도 “작년 3월 5일 회의에서 문 부장검사는 쿠팡 사건을 무혐의하는 것에 대해 동의했고 관련 메신저 내역이 남아 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;9일 조사에서는 수사 외압 의혹을 비롯해 문 부장검사의 무고 혐의 관련 조사도 함께 이뤄질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 내일 “김병기에 수천만원 건넸다”는 전 동작구의원들 소환</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/07/2V65ICNGUBBZ5DYDC2QUFBTB3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/07/2V65ICNGUBBZ5DYDC2QUFBTB3M/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 09:47:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRGCNDBGEYWCZBSG5TGMOBYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 의원이 지난해 12월 30일 서울 여의도 국회에서 열린 원내대책회의에서 본인과 가족을 둘러싼 각종 특혜·갑질 의혹에 대해 입장을 밝힌 뒤 입장문을 주머니에 넣고 있다. 김 의원은 이날 입장 발표를 통해 원내대표직에서 사퇴한다고 밝혔다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기 전 더불어민주당 원내대표에게 정치자금 수천만원을 건넸다가 돌려받았다는 의혹을 받는 전 동작구의원들이 8일 경찰 조사를 받는다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 전 동작구의원 A·B씨는 이날 서울경찰청 공공범죄수사대에 피의자 신분으로 출석해 조사받을 예정이다. 이들은 2020년 초 김 전 원내대표 측의 요구로 각각 1000만원과 2000만원을 건넸다가 3~5개월 뒤 돌려받았다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;A·B씨는 2023년 12월 당시 민주당의 총선 예비후보자검증위원장 겸 공천관리위원회 간사였던 김 전 원내대표의 정치자금법 위반과 김 전 원내대표 부인의 동작구의회 부의장 법인카드 부당 사용을 폭로하는 3쪽 분량의 탄원서를 작성했다.&lt;br&gt;&lt;br&gt;이 탄원서는 이수진 전 의원 등을 통해 당시 이재명 당 대표실의 김현지 보좌관(현 대통령실 제1부속실장)에게 전달됐다. 하지만 이 전 의원은 당 윤리감찰단에서 사건을 묻었다고 주장하고 있다. 김 전 원내대표의 전직 보좌관이 작년 11월 이 탄원서를 서울 동작경찰서에 제출했지만 2개월 동안 조사가 이뤄지지 않은 사실이 알려지기도 했다.&lt;br&gt;&lt;br&gt;현재 김 전 원내대표 측은 탄원서에 담긴 내용을 “사실무근”이라며 강하게 부인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3대 특검·상설특검, 반년 만에 200억 썼다…특활비만 40억</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/07/57TFBWYFXBGERPLPO3CZ5OUKYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/07/57TFBWYFXBGERPLPO3CZ5OUKYA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 09:38:21 +0000</pubDate>
-      <content:encoded>이재명 정부 출범 이후 가동된 3대 특검(김건희·내란·해병 특검)과 상설특검이 이미 200억원 이상의 예산을 쓴 것으로 7일 파악됐다. &lt;br&gt;&lt;br&gt;3대 특검은 수사를 마쳤지만 재판과 공소 유지에 수년이 걸릴 전망이고, 상설특검의 수사가 한창인 상황에서 상당한 예산을 사용한 것이다. 특히 과거 여권이 ‘깜깜이 예산’이라며 비판했던 특수활동비(특활비)를 특검이 40억원 이상 쓴 것으로 확인돼 논란이 이어지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P72URY5HFT2SV4ESGRG43IJUOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;특검 3명- 내란 특검 조은석·김건희 특검 민중기·순직해병 특검 이명현/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 국회 법제사법위원회 신동욱·나경원 국민의힘 의원실에 따르면, 김건희 특검팀은 지난 12월 28일 수사 종료까지 약 6개월 동안 배정 예산 106억4000만원 중 90억6000만원(85%)을 사용했다. 내란 특검은 예산 100억3000만원 중 60억6000만원(60%)을, 해병 특검은 68억원 가운데 47억원(69%)을 수사 종료 시점까지 썼다. &lt;br&gt;&lt;br&gt;지난달 6일 출범한 관봉권·쿠팡 관련 상설특검도 수사에 나선 지 약 한 달 만에 예산 12억6000만원 중 9억5000만원(75%)을 썼다. 이재명 정부 출범 반년여 만에 특검 수사에만 200억원이 넘는 세금이 들어간 셈이다. &lt;br&gt;&lt;br&gt;특히 네 특검이 쓴 특활비를 모두 합하면 43억여 원에 달한다. 특활비는 기밀 유지를 필요로 하는 정보 수집이나 수사 활동 등에 쓰이는 경비로, 영수증 증빙이 필요 없어 ‘깜깜이 예산’이라고 불린다. 내란 특검은 수사 종료 시점까지 특활비 21억3000만원을, 김건희 특검은 14억700여 만원을, 해병 특검은 6억9000만원을 사용했다. 상설특검은 수사 개시 약 한 달 만에 특활비 7000만원을 썼다. 국회가 특검팀에 특활비 집행 내역 공개를 요구했지만, 특검팀은 “수사와 관련된 사안”이라며 모두 응하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 윤석열 정부 시절 야당이었던 민주당은 검찰이 특활비 사용 내역을 제대로 제출하지 않았다며 특활비 80억원을 전액 삭감한 바 있다. 이와 대비해 민주당 주도로 출범한 특검이 특활비를 대규모로 집행하면서 ‘이중 잣대’라는 비판도 나온다.&lt;br&gt;&lt;br&gt;수사 종료 이후에도 특검의 예산 지출은 이어질 전망이다. 특검이 기소한 사건 대부분이 2심과 3심까지 이어질 가능성이 큰 만큼, 공소 유지와 형 집행 과정에서도 상당한 세금이 투입될 수 있다. 과거 국정 농단 특검 역시 수사 기간에는 61억원이 들었지만, 5년에 걸친 공소 유지 과정에서 92억7300만원이 집행된 바 있다.&lt;br&gt;&lt;br&gt;여기에 정치권에서 논의 중인 ‘2차 종합 특검’과 ‘통일교 특검’이 출범할 경우 수백억 원의 예산이 추가로 쓰일 전망이다. 2차 종합 특검만 해도 이미 154억3000만원가량의 세금이 필요하다는 비용 추계 분석이 나온 상태다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이완규 前법제처장, 내란특검법 위헌심판제청 신청... “의회 독재”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/07/CSAIX5ZFUZDQRJLTZMIZQ4ZSCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/07/CSAIX5ZFUZDQRJLTZMIZQ4ZSCQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 09:07:14 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’이 해제된 직후 안가 회동에 참석했다는 의혹에 대해 허위 증언을 했다는 혐의로 재판에 넘겨진 이완규 전 법제처장이 내란 특검법에 대한 위헌법률심판 제청을 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FREE7AHBPB4PU7JHXIC3CG7SZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이완규 전 법제처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 이 전 처장은 자신의 국회증언감정법 위반 혐의 사건 재판을 맡은 서울중앙지법 형사33부(재판장 이진관)에 지난달 31일 위헌법률심판 제청 신청서를 냈다.&lt;br&gt;&lt;br&gt;이 전 처장이 위헌 여부를 따져달라고 요청한 법 조항은 내란특검법 3조 2~5항이다. 이 조항들은 ‘특별검사의 임명’에 대한 내용을 규정하는데, 특별검사 후보자 추천 의뢰를 받은 더불어민주당과 비교섭 단체 중 의석수가 가장 많은 단체가 대통령에게 각 1명씩 후보자를 서면으로 추천하도록 하는 것이 골자다.&lt;br&gt;&lt;br&gt;사실상 더불어민주당과 조국혁신당만 추천권을 갖게 한 이 조항들이 헌법에 위배된다는 게 이 전 처장 주장이다. 이 전 처장 측은 “헌법은 정당의 설립은 자유이며 복수정당제는 보장된다고 규정한다”며 “복수의 정당이 다른 정당과 차별 없이 평등하게 활동하고 정치 활동에 참여할 수 있어야 한다”고 주장했다. 위 조항들은 사실상 국민의힘이 특검 후보자 추천권을 행사할 수 없도록 한 것이라 복수정당 보장 원칙을 위배하고, 정당의 평등권을 침해했다는 것이다.&lt;br&gt;&lt;br&gt;이 전 처장 측은 민주당과 혁신당이 특검 후보자를 추천할 권한을 가질 수 있는 민주적 정당성의 근거가 없다는 주장도 펼쳤다. 국회의원이 헌법상 직접적인 민주적 정당성을 갖고, 이들이 모여 국회를 구성하지만, 민주당·혁신당은 다양한 정당 중 하나에 불과할 뿐이라는 것이다. 이 전 처장은 “사실상 두 정당이 특검 임명권을 행사한 것인데, 두 정당은 국민으로부터 민주적 정당성을 부여받은 단체가 아니어서 특검 임명의 인적 정당성도 결여됐다”고 했다.&lt;br&gt;&lt;br&gt;또 이 전 처장 측은 조은석 내란 특별검사의 임명 절차가 마치 고발인이 검사를 지정한 것과 같다고도 지적했다. 민주당은 계엄 해제 직후인 2024년 12월 4일부터 윤석열 전 대통령, 김용현 전 국방장관, 추경호 전 국민의힘 원내대표 등 여러 사람을 고발했고, 이후 특검 추천권을 독점적으로 가졌다는 것이다. 이 밖에도 이 전 처장 측은 심판대상 조항들이 헌법에 의해 직접 부여되는 대통령의 행정권을 침해하는 것인데, 이러한 국회의 입법이 가능하다면 의회 독재 체제가 성립될 수밖에 없다고 지적했다.&lt;br&gt;&lt;br&gt;이 전 처장은 이런 문제점을 가진 내란 특검이 자신을 기소해 ‘공정한 재판을 받을 권리’를 침해당했다는 입장이다. 이 전 처장 측은 “(조은석) 특검은 사실상 고발인 격인 정당에 의해 임명돼 중립적이고 공평하지 않다”며 “미리 예단을 가진 상태에서 편파적으로 수사하고 공소를 제기했다”고 했다.&lt;br&gt;&lt;br&gt;한편 법원은 오는 19일 이 전 처장과 박성재 전 법무장관의 첫 공판준비기일을 열 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“라이더님, 포장 알아서 해주세요” 무인매장 ‘셀프포장’ 논란</title>
