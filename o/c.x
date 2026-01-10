@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>삼척 16.5㎝ 폭설에 강원도 ‘비상 1단계’…밤부터 강력 한파</title>
+      <link>https://www.chosun.com/national/regional/2026/01/10/X2ZQDV5FHRGDBOZG6TRHGYFHE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/10/X2ZQDV5FHRGDBOZG6TRHGYFHE4/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 03:01:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43DAOLGG44TONJZGNRTINBWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 산지와 내륙 곳곳에 대설주의보가 발효된 지난달 23일 춘천시 도심 하천 인근에 폭설이 내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 강원 삼척 하장면에 16.5㎝의 눈이 쌓이는 등 강원 산간 지역을 중심으로 많은 눈이 쏟아졌다. 강원도는 재난안전대책본부를 가동하고 긴급 제설 작업에 돌입했다.&lt;br&gt;&lt;br&gt;강원지방기상청에 따르면 이날 오전 11시 기준 적설량은 산지인 삼척 하장 16.5㎝, 삼척 오두재 14.1㎝, 삽당령 13.2㎝, 태백 장성동 12.8㎝ 등을 기록했다. 내륙 지역인 양구 오천터널(7㎝), 홍천 아홉싸리재(6.7㎝), 원주 신림터널(6.4㎝) 등에도 눈이 쌓였다.&lt;br&gt;&lt;br&gt;기상청은 강원 내륙과 산지에 오후까지 시간당 1~3㎝의 눈이 더 내릴 것으로 예보했다. 현재 춘천, 원주 등 도내 12개 시군에는 대설주의보가 발효 중이다.&lt;br&gt;&lt;br&gt;밤부터는 강력한 추위가 찾아올 전망이다. 기상청은 이날 오후 9시를 기해 철원 등 강원 10곳에 한파경보를, 원주 등 11곳에는 한파주의보를 발효한다고 밝혔다. 눈이 그친 뒤 기온이 급격히 떨어지면서 도로 결빙 등에 따른 피해가 우려되는 상황이다.&lt;br&gt;&lt;br&gt;강원도는 전날 오후 10시부터 재난안전대책본부 비상 1단계를 가동하고 총력 대응에 나섰다. 현재 공무원 596명과 제설 장비 1123대, 제설제 4409t이 투입돼 도로 제설과 취약 시설 점검을 진행하고 있다. 이번 눈으로 원주·평창·태백에서 차량 고립 3건, 철원에서 차량 미끄러짐 사고 1건 등 총 4건의 사고가 발생해 안전 조치를 완료했다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “밤사이 기온 급강하로 빙판길 사고 위험이 큰 만큼 운전자들의 각별한 주의가 필요하다”고 당부했다.&lt;br&gt;&lt;br&gt;이날 경북 북부 지역에도 대설주의보가 발효되는 등 많은 눈이 내리면서 고속도로와 지방도 곳곳의 차량 통행이 통제되고 있다.&lt;br&gt;&lt;br&gt;경북 안동시는 이날 오전 내린 눈으로 도로 결빙이 발생하자 중앙고속도로 남안동나들목(IC) 진입을 전면 통제했다. 안동시는 해당 구간 이용 차량을 서안동IC로 우회 조치하고 있으며, 제설 작업 후 통행을 재개할 방침이다.&lt;br&gt;&lt;br&gt;국도와 지방도 통제도 잇따랐다. 이날 오전 10시 10분부터 지방도 901호선 영주 봉현면 두산리~예천 효자면 고항리 구간의 통행이 막혔다.&lt;br&gt;&lt;br&gt;또한 지방도 920호선 청송군 신촌~영양군 답곡터널 구간과 지방도 901호선 영주시 봉현면 두산리 고항재 구간 등 2곳도 결빙으로 차량 운행이 제한된 상태다. 당국은 재난 문자를 발송해 운전자들에게 우회 도로 이용을 당부했다.&lt;br&gt;&lt;br&gt;현재 문경, 영주, 봉화 등 경북 북부 지역에는 대설주의보가 발효 중이다. 오전 10시 기준 적설량은 석포 9.3㎝, 영주 8.3㎝, 봉화 8.1㎝, 문경 0.8㎝ 등을 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주행 티웨이항공 기내서 보조 배터리 연기 소동… 승무원 3명 이송</title>
+      <link>https://www.chosun.com/national/incident/2026/01/10/JY2QTJBV7RBXPDZ2HIXD7BDWHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/10/JY2QTJBV7RBXPDZ2HIXD7BDWHU/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 02:43:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2TEMRVMYYGIZTEHA4GCNJXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티웨이항공 여객기. /티웨이항공 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 하이난성 싼야를 출발해 청주로 향하던 티웨이항공 여객기 기내에서 승객의 보조 배터리에서 연기가 발생해 한때 소동이 빚어졌다.&lt;br&gt;&lt;br&gt;10일 티웨이항공 등에 따르면, 이날 오전 2시 10분쯤 싼야국제공항을 이륙한 티웨이항공 TW634편(승객 32명·승무원 6명 탑승) 기내 앞쪽 좌석 승객의 가방 속 보조 배터리에서 연기가 피어올랐다.&lt;br&gt;&lt;br&gt;승무원들은 즉시 해당 보조 배터리를 물에 담그는 등 초기 진화를 한 것으로 알려졌다. 해당 여객기는 당초 예정보다 약 40분 이른 오전 6시 37분쯤 청주국제공항에 착륙했다.&lt;br&gt;&lt;br&gt;이 과정에서 승객 5명과 승무원 3명이 연기를 흡입했다. 초기 대응에 나섰던 승무원 3명은 착륙 직후 119구급대에 의해 인근 병원으로 이송돼 치료를 받고 있다. 승객들은 전원 귀가한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;국토교통부와 항공사 측은 해당 보조 배터리의 용량 및 기내 반입 규정 준수 여부 등 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서산영덕고속도로서 차량 30대 연쇄 추돌… 5명 사망</title>
+      <link>https://www.chosun.com/national/incident/2026/01/10/6M72DKDVYFEDNIY3JTMOKFVJEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/10/6M72DKDVYFEDNIY3JTMOKFVJEA/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 00:19:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYTGMZZGEZDIY3EGU2TGOBSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 서산영덕고속도로 남상주 부근에서 다중 추돌 사고가 발생해 운전자 등 4명이 숨졌다./한국도로공사 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전 서산영덕고속도로 경북 구간 곳곳에서 차량 30여 대가 추돌하는 사고가 잇따라 발생해 5명이 숨졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국에 따르면 이날 오전 6시 10분쯤 서산영덕고속도로 남상주나들목(IC) 인근 영덕 방향에서 4중 추돌 사고가 발생한 데 이어, 인근에서 5중 추돌 사고가 겹치는 등 연쇄 사고가 일어났다. &lt;br&gt;&lt;br&gt;이어 오전 6시 35분쯤엔 반대편인 청주 방향 도로에서 SUV 차량이 트럭을 들이받은 뒤 가드레일과 충돌하며 화재가 발생, 차량이 전소됐다.&lt;br&gt;&lt;br&gt;경찰은 현재 이 일대 4곳 이상에서 동시다발적으로 사고가 난 것으로 파악하고 있다. 이 사고들로 현재까지 총 5명의 사망자가 발생했다.&lt;br&gt;&lt;br&gt;사고 수습 여파로 청주 방향 남상주IC 일대와 영덕 방향 의성 단밀4터널 부근 통행이 제한되고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 새벽 시간대 내린 비나 눈이 도로 위에 얇게 얼어붙으며 생긴 결빙(블랙아이스) 현상이 사고의 원인인 것으로 보고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김병기에 ‘공천헌금’ 건넨 전직 구의원들 줄줄이 경찰 소환</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/10/AIOZQ57ZLNAVPGG3EZSTAXPYSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/10/AIOZQ57ZLNAVPGG3EZSTAXPYSM/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 01:01:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2WCZJWGY4DCOBRGBQTGODBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 의원에게 공천 헌금을 제공했다는 내용의 탄원서를 작성한 서울 동작구의회 전직 구의원 김모씨가 지난 9일 서울 마포구 서울경찰청 공공범죄수사대로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기 더불어민주당 의원에게 이른바 ‘공천 헌금’을 건넸다는 의혹이 제기된 전직 구의원들이 줄줄이 경찰에 소환됐다. 서울경찰청 공공범죄수사대는 지난 9일 오전 10시쯤 전직 서울 동작구 구의원 김모씨를 피의자 신분으로 불러 3시간 넘게 조사했다. 김씨는 김병기 의원에게 2000만원을 전달했다는 의혹을 받고 있다. 경찰은 김씨를 상대로 금품 전달 및 반환 과정 등 구체적인 사실관계를 확인한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김씨는 2023년 이와 관련한 탄원서를 작성한 바 있다. 그가 작성한 탄원서에 따르면 2020년 1월 제21대 총선을 앞두고 김씨는 김병기 의원의 동작구 자택에서 김병기 의원 배우자에게 현금 2000만원을 5만원권 다발로 전달했다. 같은 해 6월엔 김병기 의원 배우자에게 “딸을 주라”는 말과 함께 5만원권 1500만원과 1만원권 500만원이 담긴 쇼핑백을 돌려받았다.&lt;br&gt;&lt;br&gt;조사를 마치고 나온 김씨는 아무 말도 하지 않았지만 김씨의 변호인은 “있는 그대로 다 말씀하고 나왔다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3DQMZYMI4GENRXMY4WKNZRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 의원에게 공천헌금을 건넸다는 내용의 탄원서를 작성한 서울 동작구의회 전직 구의원 전모씨가 지난 8일 서울 마포구 서울경찰청 공공범죄수사대에 피의자 신분으로 출석했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 전날인 8일 김병기 의원의 배우자에게 1000만원을 건넸다가 돌려받았다고 주장한 또 다른 전직 구의원 전모씨도 소환해 6시간 넘게 조사했다. 전씨 측은 경찰 출석에 앞서 “탄원서 내용에 대해 진술할 것”이라며 “이 외에 다른 금품을 주고받은 사실은 없다”고 한 바 있다. &lt;br&gt;&lt;br&gt;김씨와 전씨는 2023년 12월 관련 탄원서를 작성해 당시 이재명 더불어민주당 대표 시절 보좌관이었던 김현지 현 청와대 제1부속실장에 전달했지만, 별다른 조치가 이뤄지지 않았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ’6700억원대 입찰 담합' LS일렉·일진전기 전현직 임직원 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/10/3SVENM6OXBCV5EBVLCOST7RHQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/10/3SVENM6OXBCV5EBVLCOST7RHQU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 01:01:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCN3FG42GEODBGEZTCOBQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 8년 동안 한국전력공사가 발주한 6700억원 규모의 설비 장치 입찰에 담합한 업체 관계자 2명을 구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;지난 9일 서울중앙지검 공정거래조사부(부장 나희석)는 공정거래법 위반 혐의로 LS일렉트릭 전 실장 송모씨와 일진전기 고문 노모씨를 구속 기소했다. 두 사람은 작년 12월 22일 구속됐다.&lt;br&gt;&lt;br&gt;이들은 한국전력이 2015~2022년 가스절연개폐장치를 구매하기 위해 실시한 6700억원 규모의 일반경쟁·지역제한 입찰 134건에서 사전에 물량을 배분하기로 합의한 후 차례로 낙찰받는 데 관여한 혐의를 받는다. 검찰은 업체 간 담합으로 낙찰가가 오르고 그 부담이 전기 요금 인상 등 소비자 피해로 이어졌다고 본다.&lt;br&gt;&lt;br&gt;검찰에 앞서 담합 사건을 조사한 공정거래위원회는 총 10개 사업자에 시정 명령과 과징금 총 391억원을 부과하고, 이 중 6개 사업자를 검찰에 고발했다. 담합 규모는 공정위 조사 단계에서 약 5600억원이었지만, 검찰 수사에서 6700억원대로 늘어난 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 지난 7일 검찰은 같은 혐의를 받는 효성중공업 상무 최모씨와 현대일렉트릭 부장 정모씨의 사전 구속 영장도 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다음 주 초반엔 중부지방에 눈비, 후반엔 중부·호남에 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/10/KJCNFCLRFZFY7IRSPARZIGWAY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/10/KJCNFCLRFZFY7IRSPARZIGWAY4/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 01:11:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSWKMJTGVTGCZJZMIZTQMJSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시민들이 우산을 쓰고 눈길을 걷고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 주(12~16일) 초반엔 중부지방에 눈비가, 후반엔 중부지방과 호남에 비가 내리겠다.&lt;br&gt;&lt;br&gt;10일 기상청에 따르면 12일 늦은 오후 인천·경기북부와 강원북부 내륙에서 눈 또는 비가 내리기 시작해 밤엔 중부지방 나머지 지역으로 확대될 것으로 예상된다. 13일 새벽엔 서울·인천·경기북부를 제외한 중부지방과 전북에 눈비가 내리겠다.&lt;br&gt;&lt;br&gt;15일 오전에는 강원영동을 제외한 중부지방과 호남에 비가 예상된다. 이때 강원영서에는 눈이 내릴 수 있다.&lt;br&gt;&lt;br&gt;다음 주 초중반까지는 대체로 추운 날씨가 계속되다가 후반부터 추위는 누그러질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>겨울 축제의 백미, ’2026 얼음나라 화천산천어축제' 오늘 개막</title>
+      <link>https://www.chosun.com/national/regional/2026/01/10/Q4X4GMMPENH53MRD2RDOQICBLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/10/Q4X4GMMPENH53MRD2RDOQICBLM/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 00:41:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBFHCMD32ZCVPI3X72R5BW34PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 대표 겨울축제인 ‘2026 얼음나라 화천산천어축제’가 내년 1월 10일부터 2월 1일까지 화천읍 화천천 일원에서 열린다. 2006년 첫 선을 보인 산천어축제는 매년 100만 명 이상이 찾는 우리나라 대표 겨울축제로 자리잡았다. 지난해엔 186만 명이 축제장을 찾아 역대 최다 방문 기록을 세웠다. /화천군 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국을 대표하는 겨울 축제, ’2026 얼음나라 화천산천어축제’가 10일 강원도 화천군 화천천 일원에서 화려한 막을 올렸다.&lt;br&gt;&lt;br&gt;이번 축제는 ‘얼지 않는 인정, 녹지 않는 추억’을 슬로건으로 내달 1일까지 23일간 펼쳐진다. 개막 첫날인 오늘부터 축제장은 얼음 낚시의 짜릿한 손맛을 즐기려는 관광객들로 북적이고 있다.&lt;br&gt;&lt;br&gt;화천산천어축제의 하이라이트는 단연 산천어 얼음 낚시다. 꽁꽁 언 화천천 위에 뚫린 2만여 개의 얼음 구멍 사이로 낚싯대를 드리우고 산천어를 기다리는 모습은 이곳에서만 볼 수 있는 진풍경이다. 특히 추위도 잊은 채 반팔, 반바지 차림으로 물에 뛰어드는 ‘산천어 맨손 잡기’ 체험은 보는 이들에게도 짜릿함을 선사한다. 올해는 150톤에 달하는 산천어가 방류되어 관광객들을 맞이한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KLAEDKNK5O6DC6Y5LLBAFWOOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2026 얼음나라 화천산천어축제 개막을 하루 앞둔 9일 오전부터 축제가 열리는 화천천에 축양장에서 수온 적응을 마친 산천어들이 방양되고 있다./화천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;낚시 외에도 겨울을 만끽할 수 있는 다양한 액티비티가 마련됐다. 화천천을 가로지르는 100m 길이의 눈썰매장에서는 전용 튜브를 타고 질주하는 스릴을 느낄 수 있으며, 얼음썰매, 콩닥콩닥 봅슬레이, 하늘 가르기(짚라인) 등 온 가족이 함께 즐길 수 있는 프로그램이 가득하다. 또한 얼음축구, 컬링, 피겨스케이팅 체험존도 운영되어 동계 스포츠의 묘미를 체험할 수 있다.&lt;br&gt;&lt;br&gt;볼거리 또한 풍성하다. 세계 최대 규모의 실내 얼음 조각 광장에서는 중국 하얼빈 빙설대세계의 전문가들이 빚어낸 대형 태극기, 경주 황룡사지 등 30여 점의 정교한 얼음 예술 작품을 감상할 수 있다. 핀란드 로바니에미의 산타마을을 그대로 옮겨온 **‘산타 우체국‘**에서는 핀란드 현지에서 온 ‘리얼 산타’와 요정 엘프가 어린이들에게 잊지 못할 추억을 선물한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGIXR273LRJTXEB5QRTFGBR7ME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 화천군 화천읍 서화산터널에 조성된 실내얼음조각광장에서 한 어린이가 얼음 썰매를 타고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤이 되면 화천은 빛의 도시로 변모한다. 화천읍 중앙로의 선등거리는 수만 개의 산천어 등이 불을 밝히며 환상적인 야경을 연출한다. 매주 토요일 밤에는 이곳이 ‘차 없는 거리’로 운영되어 다채로운 공연과 퍼레이드가 펼쳐지는 야간 페스티벌이 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3F26ZV5RVAAXIAD6OJOKZG52M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천 실내얼음조각광장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화천군은 안전한 축제를 위해 매일 얼음 두께를 점검하고 수중 상태를 확인하는 등 만반의 준비를 마쳤다. 미 CNN이 선정한 ‘겨울철 7대 불가사의’이자 문체부 지정 ‘글로벌 축제’인 화천산천어축제는 올해도 100만명 이상의 국내외 관광객이 찾을 것으로 기대된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6KLAEDKNK5O6DC6Y5LLBAFWOOQ.JPG?auth=653491053f9114852d0879ba653658e9cd5b9c6ad1bcc1f3a7c712cfc970f935&amp;smart=true&amp;width=5161&amp;height=3441" type="image/jpeg" height="3441" width="5161">
+        <media:description type="plain">(화천=뉴스1) 한귀섭 기자 = 2026 얼음나라 화천산천어축제 개막을 하루 앞둔 9일 오전부터 축제가 열리는 화천천에 축양장에서 수온 적응을 마친 산천어들이 방양되고 있다.(화천군 제공, 재판매 및 DB금지)
+ 2026.1.9/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(화천=뉴스1) 한귀섭 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>전국 대부분 눈…강원·호남에는 ‘폭설’ </title>
       <link>https://www.chosun.com/national/transport-environment/2026/01/10/FBP5TEDG3FA3XBI5DIS7SHT6GA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/10/FBP5TEDG3FA3XBI5DIS7SHT6GA/</guid>
@@ -870,15 +938,6 @@
 28일 개장하는 대전 유성구 ‘유성 복합 터미널’.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 대전시에 따르면, 유성 복합 터미널이 오는 28일 개장해 운영에 들어간다. 대전 도시철도 1호선 구암역 인근에 있다. 대전과 서울, 청주, 공주 등을 잇는 32개 노선의 시외 직행·고속버스가 운행된다. 하루 최대 6500명이 이용할 수 있다. 지상 2층, 연면적 3858㎡ 규모로 지었다. 사업비는 총 449억원이다.&lt;br&gt;&lt;br&gt;이전까지 대전 유성엔 시외버스 정류소와 고속버스 터미널이 따로 떨어져 있었다. 특히 고속버스 터미널은 시설이 낡고 지하철 역에서도 멀어 이용하는 사람이 적었다. 이번에 복합 터미널이 생기면서 시외버스와 고속버스, 지하철을 편하게 갈아탈 수 있게 됐다.&lt;br&gt;&lt;br&gt;복합 터미널 건립은 대전의 숙원 사업 중 하나였다. 2010년부터 민간 사업자 공모 방식으로 추진했으나 공모가 4차례나 무산됐다. 건설 경기가 침체한 데다 시외버스를 타는 사람도 점점 줄어 선뜻 나서는 사업자가 없었던 탓이다. 결국 2023년 대전시가 공영 터미널을 짓기로 계획을 바꿨다. 대전시 관계자는 “전국의 버스 터미널이 문을 닫고 있기 때문에 지방자치단체가 적극적으로 나서야 하는 상황이었다”고 했다. 대신 안정적으로 버스를 운행하기 위해 전문성 있는 민간 사업자에게 차량 운행 관리를 맡겼다. &lt;br&gt;&lt;br&gt;대전시는 터미널 이용객을 늘리기 위해 터미널을 도시철도, 간선 급행버스 체계(BRT)와도 연결할 계획이다. 유성구 외삼동에서 터미널로 이어지는 BRT 연결 도로는 지난해 임시 개통했다. 2030년 이 도로가 완전 개통하면 복합 터미널에서 BRT를 타고 세종시까지 갈 수 있게 된다. 이장우 대전시장은 “터미널이 대전 서북부 지역의 핵심 교통 관문이 될 수 있도록 접근성을 높여나갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>1.5㎏ 안 되는 이른둥이 생존율 90%까지 높아져</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/01/09/HIFHZHADE5HFXN623WQF2VK7T4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/09/HIFHZHADE5HFXN623WQF2VK7T4/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:53:00 +0000</pubDate>
-      <content:encoded>태어날 때 몸무게가 1.5㎏가 안 되는 ‘극소 저체중아’가 20년 사이 두 배 가까이 늘어난 것으로 조사됐다. 이들 10명 중 9명은 생존하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;8일 질병관리청 산하 국립보건연구원은 이런 내용의 ‘2024 한국 신생아 네트워크 연차 보고서’를 발표했다. 보고서에 따르면, 2024년 약 23만8000명의 아이가 새로 태어났는데, 이 중 0.8%(약 1900명)가 몸무게 1.5㎏ 미만의 ‘극소 저체중아’였다. 극소 저체중아는 2004년엔 연간 1000명 정도였는데, 20년 사이 2배 가까이 늘었다. 갈수록 심각해지는 만혼(晩婚) 현상과 이로 인해 출산 연령이 늦춰졌기 때문으로 풀이된다. &lt;br&gt;&lt;br&gt;극소 저체중아의 생존율은 2014년 83.4%에서 2024년 90%로 올랐다. 의료 기술 발달 덕분으로 분석된다. &lt;br&gt;&lt;br&gt;2024년 고위험 미숙아 중 39.7%는 다태아였다. 국내 전체 출생아 가운데 다태아 비율은 5.7%였는데, 고위험 미숙아는 이 비율이 7배 넘게 높은 것이다. 고위험 미숙아를 낳은 산모 가운데 35세 이상은 48.8%로 전체 산모 중 35세 이상 비율(35.9%)보다 12.9%포인트 높았다. 연구원 측은 “고위험 미숙아를 낳은 산모의 평균 연령은 34.4세로 일반 산모 평균(33.7세)보다 높았고, 인공수정으로 임신을 하는 경우도 더 많았다”고 설명했다.&lt;br&gt;&lt;br&gt;극소 저체중아의 뇌성마비 진단율은 크게 줄어든 것으로 나타났다. 2014년 만 1.5세가 된 극소 저체중아가 뇌성마비를 진단받은 비율은 6.2%였으나 2019년에는 4.5%, 2022년에는 3.1%로 떨어졌다. 만 3세 때 뇌성마비를 진단받은 비율도 2014년 6.1%에서 2021년 3.5%로 줄었다.&lt;br&gt;&lt;br&gt;연구원은 “출산 연령 고령화 등으로 향후 전체 신생아 중 고위험 미숙아 비율은 더 늘어날 것”이라며 “초저출산이라는 위기 극복을 위해서라도 고위험 신생아에 대한 치료 역량을 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한강도 얼린 강추위</title>
       <link>https://www.chosun.com/national/national_general/2026/01/09/TUUVMBKH4FHOJG6VSJMHN46I34/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/09/TUUVMBKH4FHOJG6VSJMHN46I34/</guid>
@@ -898,27 +957,6 @@
 179명이 사망한 무안 제주항공 참사 1주기인 지난달 29일 전남 무안공항에서 유가족들이 사고기가 충돌한 둔덕 주변을 지나가고 있다. 둔덕 안에 매립된 콘크리트 구조물이 외부로 드러나 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연구진은 “화재와 폭발은 고려하지 않았다”는 단서를 달았다. 둔덕이 없더라도 항공기가 담장 등에 충돌해 화재와 폭발이 발생할 가능성이 남아 있는데, 이 부분은 고려하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;연구진은 또 2020년 국토부가 로컬라이저 개량 공사를 하면서 둔덕 위에 덧댄 콘크리트 상판은 사고에 영향을 주지 않았다고 밝혔다. 당시 국토부는 길이 40m, 폭 4.4m, 높이 0.3m의 콘크리트 상판을 추가했다. 보고서는 “상판이 없는 개선 전 둔덕 구조가 승객에게 더 큰 영향을 준다”고 했다. 항공기가 상판에 충돌하면서 속도가 줄어서 엔진 부분이 받은 충격이 오히려 적었다는 것이다. &lt;br&gt;&lt;br&gt;이날 국토부는 ‘콘크리트 둔덕’에 대해 “규정에 부합하지 않고, 2020년 개량 사업 때 개선해야 했다”는 의견서를 국회에 낸 것으로 확인됐다. 국토부는 사고 직후엔 “법 위반이 없었다”고 했다가, 여론이 악화하자 “규정의 물리적 해석만 좇았다”고 한발 물러선 적이 있다. 그런데 갑자기 이날 둔덕이 규정을 위반했다고 처음 인정한 것이다. 이를 놓고 국토부 관계자들이 현재 경찰 수사를 받고 있는 점과 이날 공개된 시뮬레이션 충돌 연구 결과가 영향을 줬다는 분석이 나온다. 항공 분야 소송 전문인 하종선 변호사는 “기소를 피하기 어려운 상황에서, 사후 개선 노력을 강조하는 방향으로 전략을 수정한 것으로 보인다”며 “이달 말까지 진행되는 국정조사에서 위증을 하면 처벌받는다는 것도 고려했을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘한국인 대학생 살해’ 캄보디아 조직 총책 잡았다</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/09/7IBVZXZYKZAZ3JLEYTCRVOMENE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/7IBVZXZYKZAZ3JLEYTCRVOMENE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:53:00 +0000</pubDate>
-      <content:encoded>작년 8월 캄보디아에서 발생한 한국인 대학생 피살 사건의 주범들이 몸담았던 캄보디아 스캠(온라인 사기) 조직 총책이 태국에서 검거됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCI54QN3BVHYXKEJHVCFBMUK3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴스1
-지난 7일 태국 파타야의 한 은신처에서 캄보디아 스캠(온라인 사기) 조직 총책인 중국 국적의 함모씨가 검거돼 경찰의 조사를 받고 있다. 법무부·경찰청·국가정보원은 태국 검경과 협조해 함씨를 붙잡았다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부·경찰청·국가정보원은 8일 합동 보도자료를 내고 “태국 당국과 긴밀히 협력한 끝에 한국인 대학생 살인 사건에 관여한 혐의를 받는 중국 국적의 함모(42)씨를 지난 7일 태국 파타야에서 검거했다”고 밝혔다. 이 사건은 지난해 7월 20대 한국인 대학생 박모씨가 가족에게 “현지 박람회에 다녀오겠다”며 캄보디아로 출국한 뒤 그해 8월 캄보디아 캄폿주 보코산 인근에서 살해된 채 발견되면서 알려졌다. 박씨는 캄보디아 캄폿주 보코시 범죄 단지에 감금된 채 고문을 당하다가 함씨 조직원들에게 살해된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건을 계기로 캄보디아에서 한국인을 대상으로 한 강력 범죄가 잇따른다는 사실이 알려져 논란이 일었다. 정부는 작년 10월 김진아 외교부 2차관을 단장으로 하는 정부합동대응팀을 캄보디아에 급파해 사태 수습에 나섰다.&lt;br&gt;&lt;br&gt;박씨 살해에 가담한 중국인 3명은 작년 10월 캄보디아 경찰에 체포돼 구속 기소됐다. 그해 11월에는 박씨 살해의 주범인 중국 동포 리광하오가 현지에서 체포됐는데, 이번에는 이들이 몸담은 범죄 조직의 총책을 한국과 태국 당국이 공조해 검거한 것이다. &lt;br&gt;&lt;br&gt;법무부 등에 따르면, 중국 동포인 함씨는 중국·한국 국적의 공범들과 캄보디아에서 스캠 범죄 단체를 조직했다. 작년 5월부터 7월까지 고수익 아르바이트 명목으로 한국인 피해자들을 캄보디아로 유인한 혐의를 받고 있다. 이들은 캄보디아로 온 피해자들을 총기 등으로 위협해 계좌 비밀번호를 말하게 강요하는 등 범행을 저질렀다고 한다. 함씨는 대학생 박씨를 유인해 감금해 놓고 공범들에게 폭행 등 고문하게 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;법무부는 박씨 사망 후 함씨 소재를 추적하다가 작년 11월 그가 태국에 입국했다는 첩보를 국정원에서 넘겨받아 태국 정부에 함씨에 대한 긴급인도구속청구를 했다고 한다. 긴급인도구속청구는 정식 범죄인 인도 청구 전 범죄인의 신병을 우선 확보해 달라고 상대국에 요청하는 제도다. 이런 과정을 거쳐 법무부·경찰청·국정원은 태국 검경과 CCTV 추적·통신 수사 등을 통해 지난 7일 함씨를 은신처에서 붙잡았다.&lt;br&gt;&lt;br&gt;함씨는 국적이 중국이기 때문에 한국으로 송환하려면 정식 범죄인 인도 청구와 태국 내 범죄인 인도 재판을 거쳐야 한다. 법무부는 이날 “태국 당국에 범죄인 인도를 청구하고, 범죄인을 한국으로 최종 송환하기 위해 노력하겠다”며 “향후에도 국내외 관계 기관과 협력해 ‘대학생 살인 사건’ 관련 내·외국인 범죄자들을 끝까지 추적해 국내로 송환하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이런 가운데 지난 7일 캄보디아 정부는 대규모 스캠 범죄 단지 운영의 배후로 지목된 프린스그룹의 천즈(38) 회장을 체포해 중국으로 송환했다고 발표했다. 천 회장의 측근으로 알려진 중국 국적자 쉬지량, 샤오지후 등 2명도 함께 중국으로 송환됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RH5ZZUATQJAPJJI3BRJUAGFAII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; CCTV
-중국으로 송환된 천즈 프린스그룹 회장
-천즈 프린스그룹 회장이 중국으로 송환되고 있다. 캄보디아 정부는 7일 천 회장 등을 체포해 중국으로 송환했다고 밝혔다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2014년 캄보디아 국적을 취득한 천 회장은 훈 센 상원의장(전 총리) 등 캄보디아 고위 정치인들과 유착해 프린스그룹을 일궜다. 천 회장은 캄보디아에서 활동하며 최소 10곳에 달하는 대규모 사기 범죄 단지를 운영해왔다.&lt;br&gt;&lt;br&gt;그가 운영한 범죄 단지들은 가짜 투자 계획을 미끼로 각국의 피해자들로부터 돈을 가로챘다. 이 과정에서 인신매매된 노동자들을 감금·고문한 사실이 알려져 국제사회의 비판과 제재 대상이 됐다.&lt;br&gt;&lt;br&gt;프린스그룹과 천 회장을 1년 이상 추적한 미국과 영국 정부는 지난해 10월 천 회장 등이 소유한 비트코인 12만7271개(약 17조원)를 압류하고 영국 런던에 있는 천 회장 소유 호화 부동산 자산을 동결했다. 한국 정부도 지난해 11월 프린스그룹과 천 회장 등 개인 15명과 단체 132곳을 독자 제재 대상에 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김국희 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/09/BSKK5D6D7BEDLFFRPRF26DBXE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/09/BSKK5D6D7BEDLFFRPRF26DBXE4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김국희&lt;/b&gt; 별세, &lt;b&gt;김성균&lt;/b&gt; 참회계법인 대표·&lt;b&gt;김도균&lt;/b&gt; 경희대 재무처장·&lt;b&gt;김도헌 &lt;/b&gt;사업 부친상, &lt;b&gt;정윤재&lt;/b&gt;·&lt;b&gt;김정희&lt;/b&gt;·&lt;b&gt;박미숙&lt;/b&gt; 시부상, &lt;b&gt;김형진&lt;/b&gt;·&lt;b&gt;김주연&lt;/b&gt;·&lt;b&gt;김형수&lt;/b&gt;·&lt;b&gt;김형태&lt;/b&gt;·&lt;b&gt;김유진&lt;/b&gt; 조부상=7일20시45분 경북 상주시민장례식장, 발인 10일8시, (054)536-8800&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김태선 &lt;/b&gt;별세, &lt;b&gt;김재청&lt;/b&gt;·&lt;b&gt;김재의&lt;/b&gt;·&lt;b&gt;김재박 &lt;/b&gt;前 프로야구 감독·&lt;b&gt;김연경 &lt;/b&gt;모친상, &lt;b&gt;고경애&lt;/b&gt;·&lt;b&gt;사공희&lt;/b&gt;·&lt;b&gt;정복희 &lt;/b&gt;시모상=8일6시15분 삼육서울병원, 발인 10일7시, (02)2215-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이상진&lt;/b&gt; 별세, &lt;b&gt;이은희&lt;/b&gt; 수원가정법원장 부친상, &lt;b&gt;최창범&lt;/b&gt; 중앙대 지식경영학부 교수 장인상=8일3시15분 포항세명기독병원, 발인 10일11시, (054)275-0005&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정기승 &lt;/b&gt;별세, &lt;b&gt;이유숙&lt;/b&gt; 남편상, &lt;b&gt;정현주&lt;/b&gt;·&lt;b&gt;정현아&lt;/b&gt;·&lt;b&gt;정제용&lt;/b&gt;·&lt;b&gt;정수용 &lt;/b&gt;루시아치과 원장 부친상=8일8시30분 신촌세브란스병원, 발인 10일9시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정진수&lt;/b&gt; 별세, &lt;b&gt;정성영 &lt;/b&gt;시흥아트센터 운영과장 부친상, &lt;b&gt;이주철 &lt;/b&gt;더리포트 경기본부 편집부장 장인상=7일0시15분 수원시연화장, 발인 10일10시, (031)218-6560&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[수퍼 스트롱] 91세 시작해 입상 20번… 세월도 격파하는 ‘태권 노년’</title>
       <link>https://www.chosun.com/national/people/2026/01/09/5ZHAL4QH2JA6LPWTOOUVFTKMZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/09/5ZHAL4QH2JA6LPWTOOUVFTKMZU/</guid>
@@ -929,24 +967,6 @@
 충북 음성에 사는 102세 한종상씨가 태권도 도복을 입고 플라스틱 송판을 격파하는 시범을 보이고 있다. 11년 전 태권도에 입문해 각종 대회에서 수집한 메달과 트로피만 20개에 달하는 그는 “태권도 수련을 할 때는 외로움이 달아난다”고 했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가장 앞줄 중앙에 선 한종상씨가 유독 눈에 띄었다. 키 167㎝, 몸무게 67㎏의 크지 않은 체격이지만, 몸통은 단단한 기운이 풍겼고 허리는 꼿꼿했다. 새치 하나 없이 검게 염색한 머리카락은 가지런하게 고정됐다. 한씨의 올해 나이는 상수(上壽·100세)를 넘긴 102세. 그는 “나랑 같이 태권도를 시작한 수련생들이 이젠 몸이 아파서 못 나오더라”며 멋쩍게 웃었다.&lt;br&gt;&lt;br&gt;한씨가 태권도에 입문한 것은 11년 전인 91세 때다. 인삼 농사를 그만두고 무료함을 느끼던 차에 집 근처 문화회관에 붙은 ‘실버 태권도 수련생 모집’ 포스터를 보고 무작정 신청서를 냈다. 그렇게 태권도를 시작해 11년째 매주 화요일과 목요일 아침이면 어김없이 도복을 챙겨 입는다.&lt;br&gt;&lt;br&gt;그는 지난달 6일 전북 전주에서 열린 시니어 태권도 경연 대회에서 여러 동생을 제치고 동상과 최우수 선수상을 거머쥐었다. 비결을 묻자 그는 “내가 나이가 제일 많으니 챙겨준 것 아니겠느냐”고 겸손하게 말했다. 하지만 지난 11년간 그가 전국 실버 태권도 대회를 누비며 따낸 메달과 트로피만 20개에 달한다.&lt;br&gt;&lt;br&gt;한씨의 침대 옆에는 2㎏짜리 아령 두 개가 놓여 있다. “젊을 적 목공소에 출근하던 습관이 몸에 배어 새벽 5시면 눈이 떠진다”는 그는 일어나자마자 아령부터 잡는다. 횟수를 세기보다 20분간 꾸준히 팔 근육을 자극한다. “팔에 힘이 들어가고 탄탄해야 생활하는 데 불편함이 없다”는 것이 그의 지론이다.&lt;br&gt;&lt;br&gt;팔 운동 후에는 훌라후프를 돌리며 허리와 몸통을 단련하고, 스트레칭까지 마치고 나서야 아침 식사를 한다. 식단은 소박하다. 딸이 만들어준 나물 반찬에 고기나 생선 같은 단백질을 반드시 곁들인다. 밥은 딱 반 공기만 먹는다. 술은 체질에 맞지 않아 평생 멀리했고, 담배는 하루 한 갑 정도씩 피우다가 75세에 단번에 끊었다.&lt;br&gt;&lt;br&gt;한씨는 “건강만큼이나 남들한테 단정하게 보이려고 신경을 쓴다”고 했다. 집 안방과 거실, 화장실 등 손 닿는 곳마다 빗을 놓아뒀다. 수시로 거울을 보며 머리를 정돈하고, 한 달에 두 번씩 직접 새치를 염색한다. 그는 “겉으로 보이는 게 젊어야 마음도 젊어지는 법”이라며 “나이 들고 몸이 불편하다고 외관 가꾸기를 소홀히 하면 누가 함께 어울리려고 하겠느냐”고 했다.&lt;br&gt;&lt;br&gt;충북 괴산이 고향인 그는 가구 만드는 일로 평생 가족을 부양했다. “젊을 적 고생을 많이 해서인지 오히려 지금 몸이 더 튼튼한 것 같다”는 그는 지난해 3월, 78년 동안 동고동락한 아내를 먼저 떠나보냈다. 텅 빈 듯한 적적함을 달래준 것도 다시 태권도였다. “혼자 남은 삶이 적적하지 않다면 거짓말이지요. 하지만 매주 두 번 도복을 입고 동생들과 어울리면 외로움이 달아납니다.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;80~90대에도 놀라운 활력을 뽐내며 ’100세 시대’를 살아가는 이들이 있습니다. 자신만의 운동법과 식단 관리, 마음가짐 등으로 ‘엄청나게 강력한(super strong)’ 노년을 누리는 비결을 소개합니다. 더 자세한 수퍼스트롱의 건강 팁은 ‘조선멤버십’에서 확인할 수 있습니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>장경섭·이경진·김성녀·이상영 ‘3·1문화상’</title>
-      <link>https://www.chosun.com/national/people/2026/01/09/55IAANBBGBHHJPJWEZJO5JWM6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/09/55IAANBBGBHHJPJWEZJO5JWM6E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOBIINCXTRDY3L2CGDJGFVPTSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터)장경섭, 이경진, 김성녀, 이상영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재단법인 3·1문화재단(이사장 안동일)은 제67회 3·1문화상 수상자로 장경섭(학술상 인문사회과학) 서울대 석좌교수, 이경진(학술상 자연과학) KAIST 석좌교수, 김성녀(예술상) 동국대 석좌교수, 이상영(기술·공학상) 연세대 특훈교수를 선정했다고 8일 발표했다. 3·1운동 정신을 이어받아 우리나라의 문화 향상과 산업 발전의 기반을 마련하자는 취지로 1960년 제정됐다. 시상식은 3월 1일 오전 10시 서울시 중구 웨스틴 조선 서울에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/01/09/N5ZXVPTMR5GWVBKOMQ3WHYVBIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/01/09/N5ZXVPTMR5GWVBKOMQ3WHYVBIQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWGVCF24WJAVDMDJGUEL4ISOGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-1-9일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 2일 ‘우리 아기가 태어났어요’ 코너에 실린 김채민&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" rel=""&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2층 침대 세 개, 취침 시간 준수… 6남매 육아 ‘기숙사’ 같죠?</title>
       <link>https://www.chosun.com/culture-life/culture_general/2026/01/09/MAR4ELMT6FD53HZ4QEMW7VTBQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2026/01/09/MAR4ELMT6FD53HZ4QEMW7VTBQY/</guid>
@@ -955,24 +975,6 @@
       <pubDate>Thu, 08 Jan 2026 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYMXFRPRCVCN7EWWWXNMA74VJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 고운호 기자
 6남매를 키우는 서지성·김동욱씨 부부가 지난 6일 오후 경기도 안양 자택에서 아이들과 함께 있는 모습. 뒷줄 왼쪽부터 승민·승준·완규·승후, 아랫줄 왼쪽부터 김씨, 하린, 서씨, 완결.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승준(13·아들)·승민(12·아들)·완규(9·아들)·하린(6·딸)·승후(3·아들), 그리고 완결(2·아들). 경기도 안양에 사는 서지성(43)·김동욱(38) 부부가 키우는 6남매의 이름이다. “딸을 만나고 싶어 다둥이 부부가 됐다”는 이들에게 막내 이름 ‘완결’의 의미를 물었다. 아빠 김씨는 “‘아들은 마지막’이라는 뜻”이라고 했다. 엄마 서씨는 “아들 셋, 딸 셋을 원했는데 아들 다섯에 딸 하나를 얻었다”며 “주변에선 ‘출산 완결’이 아니고 ‘아들 완결’ 아니냐는 농담을 던진다”며 웃었다.&lt;br&gt;&lt;br&gt;여섯 아이를 키우다 보니 여느 집과는 다른 특징도 있다. 우선 이 집에는 2층 침대가 3개 있다. 여섯 아이의 잠자리를 만든 것이다. 서씨는 “이전에는 3층 침대를 제작해 썼는데, 아이들이 크면서 2층 침대로 바꿨다”며 “‘기숙사’ ‘군대’ 같은 느낌도 든다”고 했다. 아침 등교 전쟁을 줄이기 위해 옷과 가방을 미리 꺼내두고, 잠드는 시간도 정했다. 서씨는 “제가 편하려고요. 깜빡하거나 정신없는 상황을 줄이자는 거죠”라고 했다.&lt;br&gt;&lt;br&gt;요새 보기 힘든 이 ‘대가족’은 어떻게 탄생했을까. 부부는 2011년 처음 만났다고 한다. 늦깎이 대학생인 서씨와 군 제대 후 복학한 김씨가 같은 학년이 되면서다. 나이가 다섯 살 더 많은 서씨는 학과 조교를 맡았고, 김씨는 학생회장이었다. 오가며 자주 마주치던 두 사람은 이듬해 2월 자연스레 ‘CC(캠퍼스 커플)’가 됐다. 첫아이가 생긴 건 그해 말이다. 졸업·취업 준비로 바쁘던 두 사람에게 승준이가 찾아온 것이다. 서씨는 “막막했다”고 했다. 하지만 2013년 3월 결혼한 두 사람은 그해 7월에 첫째를 낳자마자, 바로 이듬해 둘째를 가졌다. 이후 유산이란 아픔도 겪었지만, 셋째가 다시 찾아오면서 부부는 더욱 단단해졌다고 한다. 서씨는 “‘이게 운명’이란 생각을 했다”며 “세 아이를 키우면서부터 몸도, 마음도 긍정적이고 밝아졌다”고 했다.&lt;br&gt;&lt;br&gt;‘딸’은 부부에게 오래된 바람이었다. 셋째가 유난히 빠르게 크는 모습을 보며 “키우는 건 두렵지 않다”고 마음먹었다. 코로나 유행 시기인 2020년에 그렇게 넷째 하린이가 찾아왔다. 집에 딸이 생기자 양가 부모님도 첫 손주를 본 것처럼 기뻐했다고 한다. 부부는 “하린이에게도 자매가 있었으면 좋겠다”는 마음을 품게 됐다. 그런데 다섯째도 아들, 여섯째도 아들이었다. 여섯째의 성별을 들었을 때, 부부는 “배꼽을 잡고 웃었다”고 했다.&lt;br&gt;&lt;br&gt;여섯 아이 육아는 ‘좌충우돌’이다. 서씨가 꼽는 최대 난관은 ‘날씨’다. 비 오고 눈 오면 등하원은 곧바로 고난이 된다. “한 명 안고 한 명 업고도 다녀봤고요. 유모차, 트레일러, 웨건 안 써본 게 없어요.” 그러면서도 아이들이 물웅덩이를 밟고 싶어 하면 “그래, 밟아 봐라” 하고 웃어넘긴다. 아빠 김씨는 “아들이 많다 보니, 심심하면 누가 어디서 떨어져서 울고, 부러지고, 피나고 그런다”면서도 “노래를 따라 막춤 추는 아이들을 보면 피로가 사라지고, 모든 고생이 보상받는 기분”이라고 했다. &lt;br&gt;&lt;br&gt;외출과 여행은 또 다른 이야기다. 집에 카니발 한 대가 있지만, 유모차와 웨건이 트렁크를 꽉 채운다. 여덟 식구가 한 차로 움직이려니 카시트를 제대로 쓰기 어려운 현실도 있다. 짐을 싣는 순간 누군가는 ‘끼여 타야’ 해서 결국 싸움이 난다. 그래도 간식이 오가면 누군가는 잠들고, 그 위에 또 누군가 잠든다. 아빠 김씨는 “이런 여행도 다둥이 가족만의 재미다. 첫째, 둘째는 조금 있으면 기차표 끊어주고 따라오라고 할 거다”라며 웃었다. &lt;br&gt;&lt;br&gt;가족이 지금 사는 집은 안양시의 ‘다둥이 보금자리’ 주거 지원으로 마련됐다. 엄마 서씨는 “주거 부담이 크게 줄어 감사하다”면서도 “평수가 작은 점은 아쉽다”고 했다. 그는 “주변에서는 ‘다자녀면 각종 지원이 많지 않느냐’고 하는데, 저희가 체감하기엔 크지 않다”고도 했다.&lt;br&gt;&lt;br&gt;그럼에도 두 사람은 ‘다자녀만의 행복’을 강조했다. 아무리 힘들고 벅차도 아이들이 그 빈틈을 메우고도 남는다는 것이다. 한 명 한 명 맞춰주기 어렵다가도, 형이 동생 손을 잡고 챙기는 장면을 보면 마음이 풀린다. 김씨는 “하루하루가 공포 스릴러이자 판타지”라며 “울음이 웃음으로 바뀌는 순간이 있다”고 했다.&lt;br&gt;&lt;br&gt;출산과 육아를 고민하는 이들에게 해주고 싶은 조언을 물었다. 서씨는 “아이를 낳으면 두려움이 사라지는 게 있다”며 “계획 없이 시작했어도 어떻게든 헤쳐나가게 돼 있고, 아이들이 있기에 가능한 행복도 있다”고 했다. 자녀들이 다자녀를 낳으면 어떨까. 김씨는 “여섯이 각자 여섯을 낳으면 서른여섯”이라며 “‘손주 서른여섯은 내가 봐줄 테니, 너희는 놀다 와라’고 말하는 게 목표”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(betterfuture@korea.kr)로 사연을 보내주세요.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 김새별·유동영 딸 예린 외</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2026/01/09/MDGLWMV6TZE4BA3HN2ITTZN2CU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2026/01/09/MDGLWMV6TZE4BA3HN2ITTZN2CU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FX7Q4KJWSZCS7JMF33EFIFH2W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(&lt;a href="https://maeili.com" target="_self" rel="" title="https://maeili.com"&gt;maeili.com&lt;/a&gt;)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 1월 9일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/09/PK7QTFCUWBAMTMYR5XNGVSTPIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/09/PK7QTFCUWBAMTMYR5XNGVSTPIY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WQ7G6Z7RNC4NMFH4CTBZCCOC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 사형? 무기징역?… 내란 특검, 구형 앞두고 6시간 회의</title>
