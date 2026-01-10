@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘강선우에 공천헌금 1억 의혹’ 김경, 12일 귀국 직후 경찰 조사 받는다</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/10/4V2RWHNUSJCW5P2ZLVGJGJC5V4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/10/4V2RWHNUSJCW5P2ZLVGJGJC5V4/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 09:06:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRWCYLEMNSDOMBYG5TDOZTDHA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 지방선거 당시 더불어민주당 강선우 국회의원(왼쪽)이 김경 서울시의원 후보의 유세차에 올라 지지 발언을 하고 있는 모습./강선우 의원 블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 지방선거에서 강선우 당시 더불어민주당 의원에게 공천헌금 1억원을 전달한 의혹을 받는 김경 서울시의원이 오는 12일 경찰조사를 받게 될 것으로 보인다. 10일 경찰 등에 따르면 김 시의원은 오는 12일 오전 인천국제공항을 통해 귀국할 예정이다. 서울경찰청 공공범죄수사대는 김 시의원 측과 소환 조사 일정을 조율해 왔는데, 귀국 후 곧바로 피의자 조사가 이뤄질 수 있다는 것이다. &lt;br&gt;&lt;br&gt;김 시의원은 2022년 지방선거를 앞두고 강 의원 측에 1억원을 건넸다가 돌려받았다는 의혹을 받고 있다. 최근 김 시의원은 경찰에 제출한 자술서에서 이를 인정한 바 있다. &lt;br&gt;&lt;br&gt;김 시의원은 지난달 31일 ‘자녀를 보러 간다’며 미국으로 출국했다. 그러나 정작 자녀를 만나지 못한 것으로 알려지며 수사 회피를 위한 출국이 아니냐는 의혹도 제기되고 있다. 김 시의원이 미국에 머무르는 동안 두 차례에 걸쳐 텔레그램에서 탈퇴하고 재가입한 것도 확인된 것으로 전해졌다. 텔레그램 뿐만 아니라 통화 기록이나 대화 내용도 삭제돼 증거를 인멸했을 수 있다는 우려도 제기된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 의성 산불에 행안부 “조기 진화에 총력.. 모든 장비와 인력 신속 투입”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/10/F3UH5BHTHJCGDAQUA6DFEWGE4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/10/F3UH5BHTHJCGDAQUA6DFEWGE4Y/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 08:58:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPDDOAU6PNIUBMLIDZJW2KV2YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤호중 행정안전부 장관이 10일 정부서울청사 상황실에서 경북 의성군 산불 상황점검 회의를 주재하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오후 3시 15분쯤 경북 의성군 비봉리 산 135-1에서 발생한 산불과 관련해 행정안전부가 모든 장비와 인력을 신속하게 투입해 조기 진화에 총력을 다할 것을 지시했다. &lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 이날 정부서울청사 상황실에서 경북 의성군 산불 상황점검 회의를 열어 “산림청과 소방청, 경상북도, 의성군 등에서는 가용할 수 있는 모든 장비와 인력을 신속히 투입하여 산불 조기 진화에 총력을 기울일 것”이라고 했다. &lt;br&gt;&lt;br&gt;윤 장관은 또 “산불 영향이 우려되는 지역의 주민을 신속히 대피시키고 선제적으로 방화선을 구축하는 등 인명피해가 발생하지 않도록 최우선적으로 조치”할 것을 지시했다. 윤 장관은 또 진화 인력의 안전에도 각별히 유의해 줄 것을 당부했다. &lt;br&gt;&lt;br&gt;앞서 김승룡 소방청장 직무대행도 이번 화재에 대해 “인근 민가와 사찰 등의 화재 방어선 구축과 연소 확대 방지를 철저히 하라”고 지시한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경북 의성 야산서 산불… 소방 ‘대응 2단계’ 발령해 총력 대응</title>
       <link>https://www.chosun.com/national/incident/2026/01/10/MNIXI4ORSFA77IO4RF2YHCXVCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/10/MNIXI4ORSFA77IO4RF2YHCXVCQ/</guid>
@@ -888,15 +906,6 @@
       </media:content>
     </item>
     <item>
-      <title>상설특검, 엄희준 검사 첫 출석…“문지석, 일방적 허위 주장”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/09/AHFGN4GUMBBMVDO2R63CU53UHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/AHFGN4GUMBBMVDO2R63CU53UHI/</guid>
-      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Jan 2026 00:51:14 +0000</pubDate>
-      <content:encoded>검찰의 ‘관봉권 띠지 분실’ 및 ‘쿠팡 수사 외압’ 의혹을 수사하는 안권섭 상설특검에 엄희준(전 부천지청장) 광주고검 검사가 9일 출석했다. 엄 검사가 특검 조사를 받는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJTDSNRSG44GEMRZMQ4DMMBZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡 사건을 무혐의 처분하도록 외압을 행사한 인물로 지목된 엄희준 광주고검 검사가 9일 오전 서울 서초구 광봉권·쿠팡 상설특검팀 사무실에서 피의자 조사를 받기 위해 출석하며 취재진 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 9시 49분쯤 서울 서초구 특검 사무실에 모습을 드러낸 엄 검사는 “수사 외압이 있었다는 문지석 검사(현 광주지검 부장검사)의 주장을 어떻게 보냐”는 취재진 질문에 “일방적인 허위 무고 주장이다. 특검에서 객관적 물증을 토대로 충분히 적극적으로 설명드릴 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “당시 (쿠팡 무혐의) 처분에 문제가 없다고 생각하느냐”고 묻는 질문에는 “그때 수사 상황에서 최선의 결론을 내렸다. 16개 검찰청에서 모두 무혐의가 나왔고 무죄 판결도 있다. 법리적으로 문제가 없겠다고 판단해 무혐의한 것”이라고 했다. “대검도 (당시) 같은 취지로 지휘했다”고 했다.&lt;br&gt;&lt;br&gt;당시 주임 검사였던 신가현 검사에게 ‘무혐의 가이드라인’을 줬다는 의혹에 대해서는 “가이드라인이 어떤 의미인지 모르겠지만 주임 검사의 의견은 처음부터 무혐의였다”라며 부인했다.&lt;br&gt;&lt;br&gt;특검 출범 한 달 만에 소환된 데 대해서는 “(문 검사의) 허위 주장으로 이렇게 큰일을 만드는 것이 과연 적절한 일인지 (의문이다)”라며 “특검에서 수사를 통해 객관적인 진실을 잘 밝혀줄 것이라고 생각하고, 특검을 신뢰한다는 게 기본 입장”이라고 말했다.&lt;br&gt;&lt;br&gt;특검이 수사 중인 쿠팡 관련 의혹은 엄 검사가 인천지검 부천지청장이던 지난해 4월 쿠팡 자회사인 쿠팡풀필먼트서비스(CFS)의 퇴직금 미지급을 수사하던 문 검사에게 무혐의 처분을 강요했다는 내용이다.&lt;br&gt;&lt;br&gt;문 검사는 지난해 10월 국회 국정감사에서 “엄 검사와 김동희(전 부천지청 차장검사) 부산고검 검사가 무혐의 처분을 압박했다”고 주장했다. 문 검사는 쿠팡의 취업 규칙 변경이 불법이라 기소해야 한다는 취지로 의견을 냈지만, 엄 검사 등이 “무혐의가 명백한 사건”이라며 회유했다는 것이다. 이에 대해 엄 검사는 문 검사의 주장이 모두 허위라며 특검에 무고 혐의 수사를 요청한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSTMMBQGA3DGOJVGVTDGYLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'관봉권 띠지 폐기 의혹'과 '쿠팡 퇴직금 불기소 외압 의혹'을 수사하는 안권섭 특별검사 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 특검은 이날 권도형 특검보 등이 서울 강남구 역삼동의 신한은행 강남 별관에 대한 수색·검증 영장을 집행하고 있다고 밝혔다. 특검은 신한은행 띠지와 관련된 제반 정보 및 시중은행에서 관봉권(사용권)을 수납한 후 처리 과정 등을 확인하기 위한 절차라고 설명했다.&lt;br&gt;&lt;br&gt;특검은 서울남부지검이 2024년 12월 ‘건진 법사’ 전성배씨의 자택을 압수 수색해 5000만원어치 한국은행 관봉권을 포함한 현금다발을 확보했으나, 수사 과정에서 띠지와 스티커를 분실한 과정에 위법한 내용이 없는지 수사 중이다. 작년 12월 19일에는 한국은행에 대한 수색·검증 영장을 집행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘與 공천헌금 수사’ 미적대는 경찰… 김경, 美 CES서 ‘엄지척’</title>
       <link>https://www.chosun.com/national/national_general/2026/01/09/JBZP5JIGKBBPHANIYYYFOSKYFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/09/JBZP5JIGKBBPHANIYYYFOSKYFM/</guid>
@@ -960,16 +969,6 @@
       <pubDate>Thu, 08 Jan 2026 15:53:00 +0000</pubDate>
       <content:encoded>179명의 사망자를 낸 무안 제주항공 여객기 참사 현장에 ‘콘크리트 둔덕’이 없었다면 사망자가 거의 발생하지 않았을 것이라는 정부 연구 용역 결과가 나왔다. 무안공항에 있는 콘크리트 둔덕은 참사 직후부터 사고 규모를 키운 주요 원인으로 지목됐지만, 정부는 “둔덕은 법 위반이 아니다”라는 입장을 보여 왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXPNS7U4EZFDLMOP6LQC6P4RIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 김은혜 국민의힘 의원이 국토교통부 산하 항공철도사고조사위원회(사조위)에서 받은 ‘충돌 시뮬레이션 보고서’에는 이런 내용이 담겼다. 이 보고서는 사조위가 지난해 한국전산구조공학회에 로컬라이저(방위각 시설)가 설치된 콘크리트 둔덕이 사고에 미치는 영향을 분석하는 연구 용역을 의뢰한 결과다. 연구진은 수퍼컴퓨터로 사고 기체와 활주로, 각종 구조물에 대한 시나리오를 만들어 충돌 시뮬레이션을 진행해 분석했다. &lt;br&gt;&lt;br&gt;보고서에 따르면, 사고가 발생한 2024년 12월 29일 항공기는 시속 374㎞로 활주로에 착륙해 시속 280㎞로 콘크리트 구조물이 매립된 둔덕과 부딪혔다. 충돌 시 항공기 앞부분이 둔덕 상판에 충돌했고, 0.2초 후 엔진 부분이 충돌했다. 이 순간 폭발이 나 항공기가 크게 손상됐다는 게 연구진의 조사 결과다. 보고서는 “충돌 시점에 항공기가 완전히 정지한 게 아니었기 때문에 속도와 폭발력에 따른 충격이 컸던 것”이라고 했다.&lt;br&gt;&lt;br&gt;사고 당시 무안공항에는 활주로 끝에서 264m 떨어진 지점에 콘크리트 둔덕이 있고, 그 뒤에 담장이 있었다. 연구진이 콘크리트 둔덕이 없을 경우를 가정해 시뮬레이션을 진행한 결과, 항공기는 활주로에 내린 후 담장과 충돌해서 둔덕이 있던 지점에서 630m 떨어진 곳에서 멈추는 것으로 나타났다. 보고서는 “항공기는 담장을 뚫고 지나가지만, 이런 충격은 중상자가 생길 정도로 크지 않았을 것”이라고 밝혔다. 둔덕 충돌과 이에 따른 폭발이 일어나지 않았다면 항공기는 시속 162㎞로 앞으로 나가다가 멈췄을 것이고, 이 경우 사망자가 거의 발생하지 않는다는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TC4YUENR3RCNVI7VXYTTWBPDVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴스1
 179명이 사망한 무안 제주항공 참사 1주기인 지난달 29일 전남 무안공항에서 유가족들이 사고기가 충돌한 둔덕 주변을 지나가고 있다. 둔덕 안에 매립된 콘크리트 구조물이 외부로 드러나 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연구진은 “화재와 폭발은 고려하지 않았다”는 단서를 달았다. 둔덕이 없더라도 항공기가 담장 등에 충돌해 화재와 폭발이 발생할 가능성이 남아 있는데, 이 부분은 고려하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;연구진은 또 2020년 국토부가 로컬라이저 개량 공사를 하면서 둔덕 위에 덧댄 콘크리트 상판은 사고에 영향을 주지 않았다고 밝혔다. 당시 국토부는 길이 40m, 폭 4.4m, 높이 0.3m의 콘크리트 상판을 추가했다. 보고서는 “상판이 없는 개선 전 둔덕 구조가 승객에게 더 큰 영향을 준다”고 했다. 항공기가 상판에 충돌하면서 속도가 줄어서 엔진 부분이 받은 충격이 오히려 적었다는 것이다. &lt;br&gt;&lt;br&gt;이날 국토부는 ‘콘크리트 둔덕’에 대해 “규정에 부합하지 않고, 2020년 개량 사업 때 개선해야 했다”는 의견서를 국회에 낸 것으로 확인됐다. 국토부는 사고 직후엔 “법 위반이 없었다”고 했다가, 여론이 악화하자 “규정의 물리적 해석만 좇았다”고 한발 물러선 적이 있다. 그런데 갑자기 이날 둔덕이 규정을 위반했다고 처음 인정한 것이다. 이를 놓고 국토부 관계자들이 현재 경찰 수사를 받고 있는 점과 이날 공개된 시뮬레이션 충돌 연구 결과가 영향을 줬다는 분석이 나온다. 항공 분야 소송 전문인 하종선 변호사는 “기소를 피하기 어려운 상황에서, 사후 개선 노력을 강조하는 방향으로 전략을 수정한 것으로 보인다”며 “이달 말까지 진행되는 국정조사에서 위증을 하면 처벌받는다는 것도 고려했을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[수퍼 스트롱] 91세 시작해 입상 20번… 세월도 격파하는 ‘태권 노년’</title>
-      <link>https://www.chosun.com/national/people/2026/01/09/5ZHAL4QH2JA6LPWTOOUVFTKMZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/09/5ZHAL4QH2JA6LPWTOOUVFTKMZU/</guid>
-      <dc:creator>음성=김동현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:51:00 +0000</pubDate>
-      <content:encoded>한겨울 냉기가 감도는 오전 10시, 충북 음성군 설성문화회관에 하얀 태권도 도복에 검은 띠를 맨 어르신 20명이 들어섰다. 능숙하게 좌우 간격을 맞춰 도열하더니 구령에 맞춰 무릎을 돌리고 손뼉을 치며 몸을 풀기 시작했다. 10분간의 예열을 마치고 시작된 ‘태극 1장’ 품새. 동작을 머뭇거리는 이는 없었다. 스무 명이 한 몸처럼 일사불란한 ‘칼각’으로 정권을 내질렀다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3O3DYQEWJDTLINKWPVXBEB5BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 신현종 기자
-충북 음성에 사는 102세 한종상씨가 태권도 도복을 입고 플라스틱 송판을 격파하는 시범을 보이고 있다. 11년 전 태권도에 입문해 각종 대회에서 수집한 메달과 트로피만 20개에 달하는 그는 “태권도 수련을 할 때는 외로움이 달아난다”고 했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가장 앞줄 중앙에 선 한종상씨가 유독 눈에 띄었다. 키 167㎝, 몸무게 67㎏의 크지 않은 체격이지만, 몸통은 단단한 기운이 풍겼고 허리는 꼿꼿했다. 새치 하나 없이 검게 염색한 머리카락은 가지런하게 고정됐다. 한씨의 올해 나이는 상수(上壽·100세)를 넘긴 102세. 그는 “나랑 같이 태권도를 시작한 수련생들이 이젠 몸이 아파서 못 나오더라”며 멋쩍게 웃었다.&lt;br&gt;&lt;br&gt;한씨가 태권도에 입문한 것은 11년 전인 91세 때다. 인삼 농사를 그만두고 무료함을 느끼던 차에 집 근처 문화회관에 붙은 ‘실버 태권도 수련생 모집’ 포스터를 보고 무작정 신청서를 냈다. 그렇게 태권도를 시작해 11년째 매주 화요일과 목요일 아침이면 어김없이 도복을 챙겨 입는다.&lt;br&gt;&lt;br&gt;그는 지난달 6일 전북 전주에서 열린 시니어 태권도 경연 대회에서 여러 동생을 제치고 동상과 최우수 선수상을 거머쥐었다. 비결을 묻자 그는 “내가 나이가 제일 많으니 챙겨준 것 아니겠느냐”고 겸손하게 말했다. 하지만 지난 11년간 그가 전국 실버 태권도 대회를 누비며 따낸 메달과 트로피만 20개에 달한다.&lt;br&gt;&lt;br&gt;한씨의 침대 옆에는 2㎏짜리 아령 두 개가 놓여 있다. “젊을 적 목공소에 출근하던 습관이 몸에 배어 새벽 5시면 눈이 떠진다”는 그는 일어나자마자 아령부터 잡는다. 횟수를 세기보다 20분간 꾸준히 팔 근육을 자극한다. “팔에 힘이 들어가고 탄탄해야 생활하는 데 불편함이 없다”는 것이 그의 지론이다.&lt;br&gt;&lt;br&gt;팔 운동 후에는 훌라후프를 돌리며 허리와 몸통을 단련하고, 스트레칭까지 마치고 나서야 아침 식사를 한다. 식단은 소박하다. 딸이 만들어준 나물 반찬에 고기나 생선 같은 단백질을 반드시 곁들인다. 밥은 딱 반 공기만 먹는다. 술은 체질에 맞지 않아 평생 멀리했고, 담배는 하루 한 갑 정도씩 피우다가 75세에 단번에 끊었다.&lt;br&gt;&lt;br&gt;한씨는 “건강만큼이나 남들한테 단정하게 보이려고 신경을 쓴다”고 했다. 집 안방과 거실, 화장실 등 손 닿는 곳마다 빗을 놓아뒀다. 수시로 거울을 보며 머리를 정돈하고, 한 달에 두 번씩 직접 새치를 염색한다. 그는 “겉으로 보이는 게 젊어야 마음도 젊어지는 법”이라며 “나이 들고 몸이 불편하다고 외관 가꾸기를 소홀히 하면 누가 함께 어울리려고 하겠느냐”고 했다.&lt;br&gt;&lt;br&gt;충북 괴산이 고향인 그는 가구 만드는 일로 평생 가족을 부양했다. “젊을 적 고생을 많이 해서인지 오히려 지금 몸이 더 튼튼한 것 같다”는 그는 지난해 3월, 78년 동안 동고동락한 아내를 먼저 떠나보냈다. 텅 빈 듯한 적적함을 달래준 것도 다시 태권도였다. “혼자 남은 삶이 적적하지 않다면 거짓말이지요. 하지만 매주 두 번 도복을 입고 동생들과 어울리면 외로움이 달아납니다.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;80~90대에도 놀라운 활력을 뽐내며 ’100세 시대’를 살아가는 이들이 있습니다. 자신만의 운동법과 식단 관리, 마음가짐 등으로 ‘엄청나게 강력한(super strong)’ 노년을 누리는 비결을 소개합니다. 더 자세한 수퍼스트롱의 건강 팁은 ‘조선멤버십’에서 확인할 수 있습니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>2층 침대 세 개, 취침 시간 준수… 6남매 육아 ‘기숙사’ 같죠?</title>
