@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김경 “강선우 측 사무국장 카페에서 만나 1억 건네”...금품 수수 전말 드러나나</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/10/FQ25VE4UZNBPZMYZ2ZOQODHL44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/10/FQ25VE4UZNBPZMYZ2ZOQODHL44/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Jan 2026 04:04:39 +0000</pubDate>
+      <content:encoded>강선우 의원에게 ‘공천헌금’ 1억원을 건넸다 돌려받은 혐의를 받는 김경 서울시의원이 이같은 혐의를 시인하는 내용의 자술서를 경찰에 제출한 것으로 10일 알려졌다. 김 시의원은 해당 문건에 구체적인 전달 장소까지 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TANBQMU2TEN3CGE4DCZTDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'공천 헌금' 논란에 휩싸인 김경 서울시의원이 금품 전달 사실을 인정한 것으로 10일 알려졌다. 사진은 강선우(왼쪽) 무소속 의원과 김경 서울시의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 시의원은 변호인을 통해 서울경찰청 공공범죄수사대에 이같은 자술서를 제출했다. 경찰에 따르면 김 시의원은 자술서에서 2022년 지방선거를 앞두고 한 카페에서 강 의원 측의 남모 전 사무국장 등을 만나 1억원을 건넸고, 이후 돌려받았다고 주장했다.&lt;br&gt;&lt;br&gt;다만 남씨는 지난 6일 경찰 조사에서 김 시의원을 만난 사실은 인정했지만 돈을 받진 않았다는 취지로 진술한 것으로 알려졌다. 남씨는 “차량에 (김 시의원에게 건네받은) 쇼핑백을 직접 실었지만, 내용물은 확인하지 못했다”고 주장한 것으로 전해졌다. 구체적인 금품 수수 경위에 대해 양측의 입장이 엇갈리고 있는 것이다. 강 의원은 “남씨를 통한 현금 전달 사실을 인지하고 즉시 반환을 지시했다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;경찰은 오는 12일 김 시의원이 귀국하는 대로 불러 1억원을 건넸다가 돌려받은 정황을 추가로 조사할 방침이다. 김 시의원은 금품 수수 의혹이 불거지고 이틀 후인 작년 12월 31일 출국해 현재 미국에 머물고 있다.&lt;br&gt;&lt;br&gt;일각에서는 경찰이 해당 의혹을 인지하고 빠르게 강제 수사 등에 나서지 않으면서 사건 관련자들이 증거를 인멸하거나 말을 맞추는 시간을 벌어줬다는 비판도 나온다. 경찰이 아직까지 강 의원, 강 의원과 공천 헌금 문제를 논의한 녹음이 공개된 김병기 의원 등에 대한 압수 수색에 나서지 않은 가운데, 김 시의원 등이 텔레그램 계정에서 탈퇴하는 등 증거를 인멸하는 듯한 정황이 포착되기도 했다.&lt;br&gt;&lt;br&gt;2022년 강 의원은 당시 민주당 공천관리위 간사였던 김 의원과 만나 김 시의원에게서 1억원을 수수한 사실을 털어놓으며 “저 좀 살려 달라”고 읍소한 사실이 최근 드러났다. 실제로 이튿날 김 시의원이 단수 공천을 받으면서 공천 과정이 석연치 않다는 의구심이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>삼척 16.5㎝ 폭설에 강원도 ‘비상 1단계’…밤부터 강력 한파</title>
       <link>https://www.chosun.com/national/regional/2026/01/10/X2ZQDV5FHRGDBOZG6TRHGYFHE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/10/X2ZQDV5FHRGDBOZG6TRHGYFHE4/</guid>
@@ -916,16 +925,6 @@
       <description/>
       <pubDate>Thu, 08 Jan 2026 15:54:00 +0000</pubDate>
       <content:encoded>강원 평창군은 9일부터 다음 달 9일까지 진부면 오대천에서 ‘평창 송어 축제’를 연다. 송어 얼음 낚시, 맨손으로 송어 잡기 등 체험 프로그램이 열린다. 직접 잡은 신선한 송어는 즉석에서 회나 구이, 매운탕 등으로 요리해 먹을 수 있다.&lt;br&gt;&lt;br&gt;경북 청송군 아이스클라이밍 월드컵 경기장에서 10~11일 ‘2026 청송 전국 아이스클라이밍 선수권대회’가 열린다. 대한산악연맹이 주최하고 경북도 산악연맹이 주관하는 대회로, 세계 18국에서 120여명의 선수가 참가한다. 경기장에는 빙벽을 배경으로 사진을 찍을 수 있는 ‘빙벽네컷 포토존’ 등 체험 부스도 설치한다.&lt;br&gt;&lt;br&gt;부산영화체험박물관은 8일부터 ‘씬 앤 라인(Scene &amp;amp; Line) : 한국영화를 읽는 법’ 기획 전시를 연다. 2000~2025년 발표된 한국 영화 가운데 시대성과 작품성을 인정받은 100편을 선정, 영화 속 대사를 집중 조명한다. 실제 영화 세트장처럼 만든 포토존에서 기념사진도 찍을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>작년에만 113팀 찾아… 스포츠 전지훈련 성지된 강원 양구</title>
-      <link>https://www.chosun.com/national/regional/2026/01/09/MNNCK5T4U5HWZIVTS4KIDEAFAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/09/MNNCK5T4U5HWZIVTS4KIDEAFAE/</guid>
-      <dc:creator>양구=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:54:00 +0000</pubDate>
-      <content:encoded>지난 6일 오전 강원 양구군 양구읍 청춘체육관. 조용한 시골 마을 실내 체육관이다. 문을 열고 들어가니 10·20대 태권도 선수 100여 명이 발차기를 하고 있었다. “얍! 얍!” 한겨울인데도 체육관 안은 기합 소리로 뜨거웠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FXSIHJY7JDNBPWUAQ4D4N36JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 박성원 기자
-6일 오전 강원 양구군 청춘체육관에서 태권도 선수들이 발차기 훈련을 하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 강원 춘천·철원, 경기 수원, 인천 등에서 전지훈련을 온 태권도 선수들이다. 지난 2일부터 20일 일정으로 양구를 찾았다. 김익현 춘천 강원체중 태권도팀 코치는 “전국 곳곳에 전지훈련을 다녀봤지만 양구처럼 체육관을 무료로 빌려주고 난방까지 틀어주는 곳은 드물다”고 했다.&lt;br&gt;&lt;br&gt;이 중엔 홍콩 태권도 대표팀 선수단 13명도 있었다. 관쯔록(Kwan Tsz Lok) 코치는 “한국 태권도 코치의 소개로 양구를 알게 됐다”며 “걸어서 3분 거리에 체육관과 트레이닝장이 모여 있는데 전지훈련지로 최고”라고 했다. &lt;br&gt;&lt;br&gt;인구 2만명 양구가 ‘스포츠 성지’로 떠올랐다. 작년 한 해 양구에선 역도, 축구 등 111개 전국 대회가 열렸다. 또 113팀이 전지훈련을 했다. 양구군 관계자는 “선수, 감독 등 총 34만여 명이 양구를 찾은 것으로 추산한다”고 했다. 양구 인구의 17배다. 올해 1~2월에만 해도 각종 테니스 대회와 유도 대회, 유소년 야구·농구 대회가 잇따라 열린다. 현재 양구에서 전지훈련 중인 태권도·테니스·야구 선수만 해도 700여 명이다. &lt;br&gt;&lt;br&gt;양구가 스포츠 전진 기지로 자리 잡은 비결은 ‘밀집형 체육 인프라’다. 종합운동장을 중심으로 축구장과 야구장, 테니스장, 체육관 등이 도보 10분 이내 거리에 몰려 있다. 주변엔 선수들이 머무를 수 있는 숙소도 줄줄이 들어서 있다. 김성규 강원체고 태권도 코치는 “숙소와 경기장이 가까워 하루에 여러 번 훈련할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;양구는 원래 군부대 의존도가 높았던 지역이다. 2019년 육군 2사단이 해체되면서 병력 2300여 명이 빠져나갔고, 지역 경제도 급격히 위축됐다. 이때 양구군이 찾은 해법이 스포츠 마케팅이다. 허남원 양구군 스포츠재단 사무국장은 “대규모 산업 단지를 유치하는 건 현실적으로 어려웠기 때문에 체육 시설을 활용해 스포츠 산업에 본격적으로 뛰어들기로 했다”며 “다행히 전략이 제대로 먹혔다”고 했다. &lt;br&gt;&lt;br&gt;양구는 스포츠 산업을 장기 성장 동력으로 삼는다는 구상이다. 올 상반기엔 종합 스포츠 타운과 역도 전용 연습장을 열고, 하반기엔 축구장·야구장을 갖춘 종합 체육공원을 완공한다. 2030년까지 1179억원을 투입해 양구읍 하리에 ‘스포츠 행정 복합 타운’도 조성할 계획이다. 서흥원 양구군수는 “재활과 스포츠 교육, 관광까지 아우르는 사계절 스포츠 도시를 만드는 게 목표”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대전 유성복합터미널, 28일 문 열어</title>
