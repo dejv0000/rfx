@@ -13,6 +13,16 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“추석 연휴에도, 알프스 눈밭을 뒹굴었다”</title>
+      <link>https://www.chosun.com/national/people/2025/10/18/J5EGMLC5E5BUDHWSVWJMBH33Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/18/J5EGMLC5E5BUDHWSVWJMBH33Q4/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR5B7UWNPNCIJAAQBHPQZWYECA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 장련성 기자
+“나만의 기술 더 갈고 닦겠다”   한국 스노보드 하프파이프 국가대표 이채운이 자신의 보드를 들고 폴짝 뛰어 올랐다. 그는 “나만의 기술을 더 갈고닦아 올림픽 때 완벽하게 선보이겠다”고 말했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;눈만 뜨면 알프스 설산(雪山)으로 뛰쳐나가 종일 눈밭을 구르며 자신만의 기술을 갈고닦았다. &lt;br&gt;&lt;br&gt;앳된 얼굴의 이채운(19)은 내년 2월 이탈리아 밀라노에서 한국 동계 스포츠의 새 역사에 도전한다. 스노보드 하프파이프 종목에 출전하는 그는 우리나라 선수가 한 번도 해내지 못한 설상(雪上) 금메달에 도전한다. &lt;br&gt;&lt;br&gt;한국은 1948년(스위스 생모리츠) 처음 동계 올림픽에 참가한 이후 대부분의 메달을 쇼트트랙과 스피드스케이팅 같은 빙상 종목에서 획득했다. 2018년 썰매 종목에서도 금메달(스켈레톤 윤성빈)이 나왔지만, 스키나 스노보드 같은 설상 종목에선 세계 정상에 오른 적이 없다. 2018년 은메달(스노보드 알파인 이상호)이 최고 성적이다. &lt;br&gt;&lt;br&gt;2006년생 이채운은 2023년 FIS(국제스키연맹) 세계선수권 스노보드 하프파이프에서 한국인으로 처음 우승하면서 올림픽 기대주로 급부상했다. 하프파이프는 보드를 타고 반원통형 경기장에서 회전, 착지 같은 기술을 수행한 점수로 순위를 가린다. &lt;br&gt;&lt;br&gt;이채운은 당시를 떠올리며 “세계에서 인정받는 게 어떤 기분인지 처음 알았다”며 “온몸에서 자신감이 뿜어져 나오는 것 같았던, 내 인생의 ‘터닝 포인트’가 된 순간”이라고 돌아봤다. 이채운은 그 기세를 이어가며 지난해 강원도 유스올림픽에서 2관왕에 올랐고, 올해 초 하얼빈 아시안게임에서도 금메달을 따냈다.&lt;br&gt;&lt;br&gt;이채운은 내년 밀라노-코르티나 올림픽 무대에서 자신만 할 수 있는 기술 2개를 선보인다는 계획이다. 금메달을 위한 비장의 카드는 공중에서 뒤로 세 바퀴 도는 걸 포함해 총 네 바퀴 반을 회전하는 ‘프런트 트리플 콕 1620’이다. 그는 “다른 선수들을 따라 하다가 더 배울 게 없어서 ‘나만의 스노보드 세계를 만들어야겠다’며 개발한 기술”이라고 했다. &lt;br&gt;&lt;br&gt;백투백 1440(네 바퀴 회전) 기술도 이채운의 특기다. 하프파이프의 좌우를 오가며 4회전 기술을 연속으로 구사해야 한다. 이채운은 “두려움을 떨치는 게 중요한 기술인데 다른 나라 선수들은 시도조차 잘 하지 않는다”고 했다. 이런 자신감을 키우기 위해 이채운은 평소 트램펄린을 활용해 연속 회전과 어지럼에 대처하는 훈련을 반복한다. &lt;br&gt;&lt;br&gt;이채운은 지난달부터 유럽 전지훈련을 시작, 스위스 사스페 지역의 국가대표팀 캠프에서 체력 보강과 기술 훈련을 병행하고 있다. 올해 3월 무릎 연골판 수술을 받았는데 현재는 90%까지 컨디션을 끌어올렸다고 했다. &lt;br&gt;&lt;br&gt;그는 “처음 수술했을 땐 많이 울었는데, 부상도 함께 가야 할 부분이라고 여기며 견뎠다”고 했다. 현재 오전 8시 30분에 일어나 5시간 이상 눈밭에서 훈련하고, 무릎을 관리한 뒤 다시 러닝으로 체력을 다지고 있다. FIS 월드컵은 건너뛰고 12월 프로 대회인 스노리그에서 실전 복귀할 계획이다. 성적 부담이 덜한 대회에서 실전 감각을 유지하면서 올림픽 무대에서 완벽한 연기를 펼친다는 구상이다. &lt;br&gt;&lt;br&gt;세계 최정상급 선수가 된 그는 스노보드 종목에선 굳이 롤 모델을 찾지 않는다고 했다. “호주의 스코티 제임스 같은 레전드 선수도 이제는 경쟁자일 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;대신 축구 국가대표팀 손흥민이 자신의 우상이라고 했다. 그는 “경기 때 눈빛과 태도뿐 아니라 인터뷰 자세까지 보고 배우려 한다”고 말했다. 그는 “손흥민 선수의 ‘찰칵’ 세리머니처럼 나만의 금메달 세리머니도 만들었다”면서 손가락으로 ‘W’를 그려 보였다. ‘Win’을 뜻하는 표시라고 한다. “매일 밤 올림픽에서 경기하는 ‘이미지 트레이닝’을 하고, 세리머니까지 상상하며 잠든다”며 “밀라노 올림픽에서 반드시 W 세리머니를 보여줄 것”이라고 했다. &lt;br&gt;&lt;br&gt;혈기왕성한 10대답게 취미 생활에도 열심이다. 최근엔 골프에 푹 빠졌고, 친구들과 풋살도 하고, 바닷가에선 서핑을 한다. 또래들과 달리 게임은 잘 하지 않고, 노래방에 가서 ‘아저씨 감성’의 발라드 곡을 즐겨 부른다고 했다. 이채운은 “내년을 시작으로 올림픽에서 3연속 금메달을 따는 게 인생의 목표”라면서 “최선을 다해 준비하고 있기 때문에 내가 하려는 연기만 실수 없이 보여준다면 만족스러운 결과를 얻을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>케데헌 열풍에 ‘짝퉁 굿즈’까지 신났다</title>
       <link>https://www.chosun.com/national/national_general/2026/01/12/F5F5MNOMNRBARN4GGJYRWGPGDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/12/F5F5MNOMNRBARN4GGJYRWGPGDM/</guid>
@@ -842,15 +852,6 @@
       <description/>
       <pubDate>Fri, 09 Jan 2026 15:36:00 +0000</pubDate>
       <content:encoded>전국 곳곳에 많은 눈·비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAFAHUOVZBC4TGR4TODXYDNGDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한쪽 귀 가린 아이 외면할 수 없어” 희귀병 中 학생 도운 교사</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/10/PDXN7MLD6NEXNFA4SMMQDGFCDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/10/PDXN7MLD6NEXNFA4SMMQDGFCDY/</guid>
-      <dc:creator>고유찬 기자, 이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Jan 2026 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEXTGSDCZJE3JCJBJAV7QVELHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 경기 용인구 송전중학교에서 국어 교사 김유진씨가 팔짱을 끼고 환하게 웃고 있다. /이나윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“수업 시간마다 덥수룩한 머리카락으로 귀를 가린 채 앉아 있었어요. 의욕을 잃은 듯한 눈빛이 마음에 걸렸습니다.”&lt;br&gt;&lt;br&gt;8일 오후 경기 용인시 송전중학교에서 만난 국어 교사 김유진(49)씨는 지난해 3월을 이렇게 떠올렸다. 방과 후 보충 수업에서 처음 만난 중국 국적의 2학년 A(15)군은 쉬는 시간에도 교실 구석에서 홀로 있었다. 김씨는 “처음엔 말수가 적은 학생인 줄로만 알았다”며 “수업을 지켜볼수록 표정이 굳어 있었고, 친구들과도 거리를 두고 있다는 게 느껴졌다”고 했다.&lt;br&gt;&lt;br&gt;알고보니 A군은 선천성 희귀 질환인 ‘소이증’을 앓고 있었다. 귓바퀴가 제대로 형성되지 않아 외형 이상과 청력 손실이 함께 나타나는 병이다. 할머니가 홀로 돌보는 형편 탓에 병원 진단을 한 번도 받지 못한 채 지내왔다고 한다.&lt;br&gt;&lt;br&gt;김씨는 여러 대학 병원에 문의한 끝에 수술이 가능하다는 답을 들었다. 문제는 비용이었다. 1차 귀 성형 수술에 필요한 300만원은 A군과 할머니 입장에선 큰 부담이었다. 김씨는 외부 기관 지원금으로 100만원을 마련했다. 대학 동문회에 사정을 설명해 200만원도 추가로 구할 수 있었다. A군은 오는 2월 방학 기간 수술을 받을 예정이다. 수술 이후 청력 보완 치료도 받을 수 있다고 한다.&lt;br&gt;&lt;br&gt;김씨는 저녁마다 혼자 끼니를 해결하던 A군과 함께 밥을 먹고, 손재주가 드러난 도자기 수업을 계기로 베이킹을 장래 진로로 키울 수 있도록 돕고 있다. A군 할머니는 “너무 감사하다. 손자가 학교에 다니는 동안 선생님이 곁에 있어줬으면 소원이 없겠다”고 했다. 김씨는 “마음이 작아진 아이에게 작은 발판을 놓아줄 수 있다면, 교사로서 더 바랄 게 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 강광원 별세 외</title>
