@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘1억 공천헌금’ 강선우·김경 자택 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/11/NV6VVZ5LEBBF5MGQDDLNSNLLUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/11/NV6VVZ5LEBBF5MGQDDLNSNLLUE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Jan 2026 10:14:28 +0000</pubDate>
+      <content:encoded>경찰이 김경 서울시의원으로부터 2022년 지방선거 전 공천헌금 1억원을 수수했다는 의혹을 받는 강선우 무소속 의원 등에 대한 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TMM3EMZSGKMZYGQZTIOBVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선우(왼쪽) 무소속 의원, 김경 서울시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 1월 12일 월요일 (음력 11월 24일 丙戌)</title>
       <link>https://www.chosun.com/national/national_general/2026/01/11/WFSV75Q6NBAHTAGIMWX2GPC7LY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/11/WFSV75Q6NBAHTAGIMWX2GPC7LY/</guid>
@@ -942,15 +951,6 @@
       <description/>
       <pubDate>Fri, 09 Jan 2026 07:02:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장 살해 협박 혐의로 경찰에 붙잡혔다가 피해자 선처로 풀려났던 20대가 이번에는 장애인단체를 상대로 테러 협박 글을 올려 다시 경찰 수사를 받게 됐다.&lt;br&gt;&lt;br&gt;경기 화성동탄경찰서는 9일 공중협박 혐의로 A씨를 불구속 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난달 25일 온라인 커뮤니티 디시인사이드에 전국장애인차별철폐연대(전장연)와 관련해 “전장연과 그 후원자들을 납치해 살해하겠다”는 내용의 글을 게시한 혐의를 받고 있다. 해당 글을 본 누리꾼의 신고로 수사에 착수한 경찰은 A씨의 신원을 특정했다.&lt;br&gt;&lt;br&gt;A씨는 이미 여러 차례 협박 글을 올린 전력이 있다. 지난해 8월 29일 디시인사이드에 “오세훈 서울시장을 서부간선도로에서 떨어뜨려 죽이겠다”는 글을 올려 경찰에 붙잡혔지만, 당시 오 시장 측이 처벌을 원하지 않아 조사 직후 석방됐다. 경찰은 당시 범행 대상이 특정 개인이라는 점을 고려해 공중 협박이 아닌 단순 협박죄를 적용했다. 협박죄는 피해자의 처벌 의사가 있어야 처벌할 수 있는 반의사불벌죄다.&lt;br&gt;&lt;br&gt;같은 해 11월에는 고 전두환 전 대통령 자택을 대상으로 한 테러 협박 글을 올렸으나, 이 역시 피해자 측 선처로 처벌을 받지 않았다. 조사 결과 A씨는 2023년 8월 ‘압구정 롤스로이스 사건’ 범인의 집에 불을 지르겠다는 글 등을 여러 차례 게시한 혐의로 재판에 넘겨져 집행유예를 선고받은 사실도 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 집행유예 기간 중인 2024년 3월 통일교를 상대로, 같은 해 10월에는 주한 중국대사관을 상대로 각각 살해·방화 협박을 한 혐의로 추가 기소돼 현재 법원의 선고를 앞두고 있다.&lt;br&gt;&lt;br&gt;이번 전장연 협박 사건과 관련해 A씨는 경찰 조사에서 혐의를 인정했으나 범행 동기에 대해서는 뚜렷한 진술을 하지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자의 정신질환 여부를 포함해 범행 경위 전반을 조사하고 있다”며 “사안의 중대성을 고려해 구속영장 신청 여부도 검토 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“용인 반도체 이전, 함께 해법 찾자”… 안호영, 도지사 선거 경쟁자들에 제안</title>
-      <link>https://www.chosun.com/national/regional/2026/01/09/YO2UHZ7K3ZEAXDZHBWM3STYBCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/09/YO2UHZ7K3ZEAXDZHBWM3STYBCQ/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Jan 2026 07:02:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTGEYJWG5QWGZBYMI2WINZQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안호영 더불어민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안호영 민주당 의원(전북 완주·진안·무주)이 9일 자신의 소셜미디어를 통해 “용인 반도체 지방 이전을 통한 지방 주도의 성장 해법을 이재명 대통령에게 함께 제안하자”며 김관영 전북도지사와 이원택 민주당 의원(전북 군산·김제·부안을)의 동참을 요청했다. 김관영 지사와 이원택 의원은 6월 지방선거에서 민주당 전북도지사 후보 자리를 두고 안호영 의원과 경쟁하고 있다. &lt;br&gt;&lt;br&gt;안 의원은 “용인 반도체 지방 이전 이슈는 이제 여야와 수도권을 넘어 전국적 논쟁 단계에 진입했다”며 “국민의힘 소속 포항시장까지 나서 ‘국가 전략 과제’라고 언급한 것은 지방이 국가 성장의 주역으로 나서겠다는 신호”라고 했다. &lt;br&gt;&lt;br&gt;그는 용인 반도체 클러스터가 안고 있는 문제를 지적하며 지방 이전의 당위성을 강조했다. 안 의원은 “용인 이전 논의가 시작된 근본 원인은 송전탑 갈등, 전력·용수 대란, RE100(재생에너지 100% 사용) 대응 불가능성 때문”이라며 “전력 없는 입지에 산업을 고정시키고 전력 부담을 지방이 떠안는 구조는 지속 불가능하다”고 했다. &lt;br&gt;&lt;br&gt;이어 “지금 필요한 건 송전선을 어떻게 받을지가 아니라, 송전선이 필요 없는 곳으로 산업 입지를 재설계하는 것”이라고 주장했다. 안 의원은 그 대안으로 전북을 지목했다. 그는 “전북은 재생에너지, 용수, 부지 등 반도체 산업의 필수 조건을 모두 갖춘 곳”이라며 “단순한 기업 유치가 아닌 국가 성장 전략의 거점으로 전북을 제시해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 김관영 지사와 이원택 의원을 향해 “기존 구조를 인정하는 데서 벗어나 판을 바꾸는 해법을 제시하는 데 동참해달라”며 “지방 주도 성장 해법을 고심 중인 이재명 대통령에게 전북이 그 답을 제시하자”고 제안했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRTONZXGQ4GGMTEME3GMOBUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김관영 전북도지사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김관영 지사도 이날 ‘용인 반도체 클러스터 새만금 이전 관련 입장문’을 통해 “향후 계획되는 대규모 첨단 전략 산업에 대해서는 수도권 집중이 아닌 지방 분산 배치를 정책적으로 적극 검토할 필요가 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;김 지사는 “청와대에서 밝힌 바와 같이 기업의 입지 선택은 전적으로 기업의 판단에 맡겨져야 한다는 원칙을 전북도 역시 존중한다”면서도 “재생에너지 자원이 풍부하고 산업용 부지·항만·물류 기반을 갖춘 지역으로의 ‘재생에너지 생산 지역 연계형 분산 배치’는 충분히 검토할 만한 선택지다”라고 했다. &lt;br&gt;&lt;br&gt;그는 “에너지 생산지가 일방적 희생을 감내하고 소비지가 혜택을 누리는 시대는 끝내야 하며 이제는 에너지가 생산되는 곳에 사람이 모이고, 삶이 피어나는 선순환 구조를 설계해야 한다”며 “최고 수준의 주거와 교육, 친환경 여건을 보장하고, 세제 혜택과 규제 개선 등 파격적인 정책을 더한다면 기업의 남방 한계선은 저절로 무너질 것이고, 에너지가 산업과 삶을 동시에 풍요롭게 만드는 대한민국 대전환의 모델, 전북에서 시작하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“강선우측에 1억 줬다가 받아” 김경, 경찰에 ‘공천헌금 자술서’</title>
