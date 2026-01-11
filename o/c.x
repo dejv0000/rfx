@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“애들 보여줘”... 전 남편 협박하고 불지른 40대 징역형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/11/4YMGVZFDIFCVTGLWHJHHEGFUEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/11/4YMGVZFDIFCVTGLWHJHHEGFUEU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Jan 2026 01:55:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HXDMSFRP6FDNPFQYU5INWTN6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지방법원 전경/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀를 만나게 해 달라며 이혼한 전 남편을 찾아가 협박하고 불을 지른 여성에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;청주지법 형사22부(한상원 부장판사)는 현주건조물방화미수·특수협박 등 혐의로 기소된 A(46)씨에게 징역 1년6개월에 집행유예 3년을 선고했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 8월 3일 오후 2시 42분쯤 이혼한 전 남편 B(43)씨가 거주하는 청주시 서원구의 아파트를 찾아가 “아이들을 보여달라”며 면도날로 자해하며 협박하고 불을 지르려 한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;당시 A씨는 남편 B씨가 집 밖으로 자리를 피하자 바닥에 식용유를 뿌리고, 주방 가스레인지로 B씨의 옷에 불을 붙인 뒤 이를 던졌다. 다행히 불길은 크게 번지지 않고, 출동한 소방당국에 의해 곧바로 진화됐다. &lt;br&gt;&lt;br&gt;한 부장판사는 “방화죄는 다수의 생명과 재산에 중대한 피해를 야기할 수 있어 엄한 처벌이 필요하다”며 “다만 피해자가 형사 처벌 전력이 없는 초범이고, 방화 범행도 다행히 미수에 그친 점을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의사는 한 명, 의료법인 산하 병원은 여럿… 대법 “‘1인 1개소’ 원칙 위반 아닐 수도” </title>
+      <link>https://www.chosun.com/national/court_law/2026/01/11/N4DSQXCUE5HGXNCLB7RYIDDWA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/11/N4DSQXCUE5HGXNCLB7RYIDDWA4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Jan 2026 03:51:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QMIF3AQ7FAMFCSULPKWJZDQZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 15일 오후 서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 한 명이 의료법인 명의를 이용해 여러 병원 운영에 관여하더라도 병원을 실질적으로 지배·관리한 것이 인정되지 않으면 중복 운영으로 처벌할 수 없다는 대법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;“의료인은 어떤 명목으로도 둘 이상의 의료기관을 개설·운영할 수 없다”는 의료법상 ‘1인 1기관 원칙’에 대해 대법원이 구체적인 해석을 처음 내놓은 것이다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 최근 의료법 위반 등 혐의로 기소된 치과의사 이모씨에게 유죄를 선고한 원심 판결을 깨고 사건을 대전고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;이씨는 A 의료법인 대표로서 치과병원을 운영하면서 B 사단법인 명의를 이용해 다른 치과와 일반 병원을 중복 운영한 혐의 등으로 재판에 넘겨졌다. 의료의 공공성 등을 고려해 의사가 하나의 의료기관만 개설·운영하도록 하는 1인 1기관 원칙(의료법 33조 8항)을 위반했다는 것이다. &lt;br&gt;&lt;br&gt;1심과 2심은 “이씨가 치과병원을 비롯한 병원들을 실질적으로 중복 운영했다”며 의료법 위반 혐의를 유죄로 인정했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 원심을 뒤집고 파기환송했다. 대법원은 “의료기관을 운영하는 의사가 의료법인 명의로 개설된 다른 의료기관의 경영사항에 관해 의사결정 권한을 보유하며 관련 업무를 처리하더라도, 이런 사정만으로 1인 1기관 원칙을 규정한 의료법을 위반했다고 볼 수는 없다”면서 “1인 1기관 원칙 위반으로 처벌하려면 재산을 출연하지 않아 실체가 없는 의료법인을 병원 개설·운영을 위한 수단처럼 악용하는 등의 사정이 추가로 인정돼야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 이어 “원심은 이씨가 A 의료법인을 탈법적으로 악용했는지 등에 대해 아무런 심리를 하지 않은 채 A 법인 산하 치과병원을 운영했다는 전제만으로 공소사실을 유죄로 판단했다”며 “원심 판단에는 1인 1기관 원칙을 규정한 의료법 등에 관한 법리를 오해한 잘못이 있다”고 했다. 이씨가 A 의료법인을 통해 치과병원을 운영한 것이 1인 1기관 원칙을 위반한 것인지 추가로 따져봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“기분 나쁘게 쳐다봐”... 식당 종업원·손님 흉기로 찌른 60대</title>
+      <link>https://www.chosun.com/national/2026/01/11/A2RWSLD475FZVFC7I3CFRCEA44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/11/A2RWSLD475FZVFC7I3CFRCEA44/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Jan 2026 01:29:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRUAZWDDAX3KCO2QEGA7K6TP4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무시하고 홀대한다고 생각해 식당 종업원과 손님을 흉기로 살해하려 한 60대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사4부(재판장 김인택)는 살인미수 혐의로 기소된 60대 A씨에게 징역 3년 6개월을 선고했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 12일 오후 2시 55분쯤 경남 김해시 한 식당에서 50대 여성 종업원 B씨와 40대 손님 C씨를 흉기로 찔러 살해하려 한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;검찰 공소사실 등에 따르면 A씨는 평소 해당 식당 종업원들이 자신을 무시하듯 쳐다본다고 생각해 불만을 갖고 있었다고 한다.&lt;br&gt;&lt;br&gt;사건 당일 해당 식당을 찾아 김밥을 계산하는 과정에서 A씨는 종업원 B씨가 자신을 기분 나쁘게 쳐다보며 홀대했다고 생각했다.&lt;br&gt;&lt;br&gt;이에 조리대 도마 위에 있던 칼을 들어 B씨의 팔과 어깨 쪽을 수차례 찔렀다. A씨는 이 장면을 목격하고 자신을 말리러 오는 손님 C씨에게도 흉기를 휘둘렀다. 다행히 C씨가 흉기를 빼앗아 식당 밖으로 도망가면서 살인은 미수에 그쳤다.&lt;br&gt;&lt;br&gt;A씨의 범행으로 B씨는 전치 12주, C씨는 8주의 상해를 입었다. &lt;br&gt;&lt;br&gt;재판 과정에서 A씨는 피해자들을 살해할 고의는 없었다고 주장했다. 하지만 재판부는 A씨가 사람에게 치명적인 부위를 여러 차례 찌른 점, 이를 통해 피해자들이 중상을 입은 점 등을 들어 자신의 범행으로 피해자들이 사망에 이를 수 있다는 것을 충분히 인식 또는 예견하고도 범행한 것으로 판단했다. &lt;br&gt;&lt;br&gt;김 부장판사는 “A씨는 대낮에 아무 잘못 없는 피해자들에게 흉기를 휘둘러 범행 대담성과 위험성에 비춰 엄중한 처벌이 불가피하고, 피해자들의 후유증도 상당할 것으로 보인다”며 “다만 이 사건 범행 전까지 형사처벌 전력이 없는 점, 범행 직후 직접 경찰에 신고한 점, 평소 불안정한 생활 환경과 정서 상태가 범행에 어느 정도 영향을 미친 것으로 보이는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산역 폭파 예고 메일에 긴급 수색 소동… 폭발물 미발견</title>
+      <link>https://www.chosun.com/national/regional/2026/01/11/ENPWILE4QBBPHEZBKKROCQY3GQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/11/ENPWILE4QBBPHEZBKKROCQY3GQ/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Jan 2026 01:39:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2SVKNVKH7H7DEIRQMW6HCD7NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산역 전경. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산역을 폭파하겠다는 협박 메일이 접수돼 경찰과 소방당국이 긴급 수색을 벌였다. &lt;br&gt;&lt;br&gt;11일 부산경찰청에 따르면 지난 10일 오후 6시37분쯤 “부산역을 폭파하겠다”는 협박 메일이 부산소방재난본부에 접수됐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 이날 오후 6시46분쯤 부산역에 도착해 2시간 넘게 수색을 벌였다. 경찰특공대 등 60여명이 투입됐다. 폭발물은 발견되지 않았다. &lt;br&gt;&lt;br&gt;경찰은 거짓 협박인 것으로 보고 이날 오후 9시16분쯤 수색을 마쳤다. 경찰은 메일 발송자에 대해 수사 중이다. &lt;br&gt;&lt;br&gt;앞서 부산역에는 2021년과 2023년에도 폭탄 테러 등을 예고하는 협박 신고가 접수됐으나 모두 허위로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>증기기관차의 마지막...용광로에서 1대당 200만원 고철로</title>
       <link>https://www.chosun.com/national/national_general/2026/01/11/TJRFIUR7PVECJDWCZV2O3YUXTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/11/TJRFIUR7PVECJDWCZV2O3YUXTQ/</guid>
@@ -888,33 +924,6 @@
       <content:encoded>고위공직자범죄수사처(공수처)는 9일 신임 인권감찰관에 김승태(53·사법연수원 29기) 변호사를 임명했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDCNDBGIYDSNBTG4ZTGZBZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승태 신임 감찰관 /고위공직자범죄수사처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 감찰관은 2000년 2월 대구지검에서 검사 생활을 시작한 뒤, 광주지검 목포지청·서울지검 서부지청(현 서울서부지검)을 거쳤다. 퇴직 후에는 변호사로 활동했고 전라남도교육청 감사관(3급), 한국가스공사 감사실 부장 등을 지냈다.&lt;br&gt;&lt;br&gt;공수처 인권감찰관은 내부 감사와 감찰, 직무 수행 중 인권 보호·개선 등을 맡는다. 임기는 3년이며, 5년까지 연장이 가능하다. 앞서 공수처는 지난해 7월 남수환 전 인권감찰관 임기 만료를 앞두고 한 차례 공모를 진행했지만 적격자를 찾지 못했고, 그동안 김수환 수사2부 부장검사가 직무를 대행해 왔다. &lt;br&gt;&lt;br&gt;공수처는 인사혁신처 주관으로 인권감찰관 임용 후보자를 선발한 뒤 인사 검증 등 절차를 거쳐 대통령의 재가를 받았다고 설명했다. 오동운 공수처장은 “새로운 인권감찰관 임명을 계기로 공수처는 청렴한 공직 사회를 만들기 위한 노력과 더불어 내부적으로도 청렴하고 부패 없는 건강한 공수처 조직이 되도록 내부 공직 기강을 확립하고 감찰도 강화할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산서 탈북 남동생 살해한 혐의 50대... 경찰 “금전적 이유로 살해 추정” </title>
-      <link>https://www.chosun.com/national/incident/2026/01/06/E54X44QPNRAHZHLJWZLS3TR55E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/06/E54X44QPNRAHZHLJWZLS3TR55E/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 06 Jan 2026 05:43:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 기장군 탈북민 남동생 살인 사건과 관련, 경찰은 피의자인 50대 여성이 경제적인 이유로 동생을 살해한 것으로 판단했다. 함께 용의 선상에 올랐던 피의자의 남편은 이번 사건과 아무런 연관이 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;부산 기장경찰서는 6일 살인 혐의로 구속된 50대 여성 A씨를 오는 8일 검찰에 송치할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 8월 29일 부산 기장군 한 아파트에서 40대 남동생 B씨를 살해한 혐의를 받는다. 외출했다 집에 들어온 A씨가 거실에 누워 있던 B씨를 깨웠으나 반응이 없어 경찰에 신고했다고 한다.&lt;br&gt;&lt;br&gt;당시 범행 현장에는 A씨의 남편인 C(50대)씨가 안방에 있었다. 경찰은 A씨 부부를 참고인 조사했으나 당시에는 “용의자로 특정할 증거가 없다”며 긴급 체포하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1차 검안 결과 B씨의 사인은 ‘경부 압박 질식사’였다. 타인이 목을 졸라 살해한 것이다.&lt;br&gt;&lt;br&gt;그런데 사건 발생 며칠 뒤인 C씨가 자신의 차량에서 유서를 남기고 스스로 목숨을 끊었다. 유서에는 억울한 심정을 토로하는 내용이 담겨 있었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “함께 탈북한 동생을 죽일 이유가 없다”며 혐의를 강하게 부인했다. 그러면서 남편이 동생을 죽였다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;용의자를 특정하는 데 어려움을 겪던 경찰은 최근 A씨를 피의자로 입건했다. 국립과학수사연구원 감정 결과, B씨의 시신에서 A씨가 복용하던 수면제와 동일한 약물이 검출된 것이다. 또 범행 당일 채취한 C씨의 혈액에서도 A씨가 복용하던 수면제 성분이 발견됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 밖에 나갔다 집에 들어오니 B씨가 숨졌다고 신고했는데 실제론 A씨가 외출하기 전 B씨가 숨진 것으로 추정된다”며 “당시 남편 C씨는 수면제 성분에 취해 잠이 들어 범행을 인지하지 못한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 경제적인 목적으로 동생을 살해한 것으로 보고 있다. 실제로 B씨는 여러 보험에 가입돼 있었던 것으로 알려졌다. 또 수억 원에 달하는 사망 보험금의 법정 상속인은 A씨인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;부산지법 동부지원은 지난달 30일 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “증거인멸 우려가 있다”며 구속영장을 발부했다. A씨의 진술이 모순된 점이 많고, B씨와 C씨에게서 A씨의 수면제 성분이 검출된 점 등이 영장 발부에 크게 작용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김동연 “용인 반도체 이전 논란, 청와대 정리대로 가는 게 정답” </title>
-      <link>https://www.chosun.com/national/national_general/2026/01/09/MVJCW7LOSBAZ7LB3BCQFFNKXKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/09/MVJCW7LOSBAZ7LB3BCQFFNKXKI/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Jan 2026 01:29:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4DENJVGY3TEOJUHAZTIN3CGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 9일 용인 반도체 클러스터 이전 논란과 관련해 “청와대에서 어제 정리한 대로 가는 것이 정답”이라고 밝혔다.&lt;br&gt;&lt;br&gt;김동연 지사는 이날 CBS 라디오 ‘박성태의 뉴스쇼’에 출연해 “청와대에서 ‘투자하는 기업에 맡길 일’이라며 선을 그었기 때문에 다행이라고 생각한다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;앞서 김남준 청와대 대변인은 전날 브리핑에서 “클러스터 대상 기업 이전을 검토하고 있지 않다”며 “기업 이전은 기업이 판단해야 할 몫”이라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “치열한 국제 경쟁 상황에서 반도체 산업은 속도가 가장 중요하고, 클러스터 형성이 핵심”이라며 “경기도에 100조원 규모의 투자 유치가 이뤄진 것도 반도체 기업들이 클러스터 경쟁력을 높게 평가했기 때문”이라고 했다. 이어 “전라북도나 전라남도 역시 각 지역의 특성에 맞는 발전 전략을 세워 새로운 산업을 구상해야지, 이미 추진 중인 사업을 놓고 제로섬 방식으로 접근하는 것은 바람직하지 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이번 논란은 김성환 기후에너지환경부 장관이 최근 “전기가 생산되는 곳으로 기업이 가야 한다”는 취지의 발언을 하면서 촉발됐다. 이후 용인 반도체 클러스터를 전북 새만금 등으로 이전해야 한다는 주장이 호남 지역을 중심으로 제기되며 지역 간 신경전으로까지 확산됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>30년 전 전두환 사형 구형 ’417호 법정' 서는 尹… 특검 판단은</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/09/ML72XHERSJH2XAUXXMVVPPPKJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/ML72XHERSJH2XAUXXMVVPPPKJY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 Jan 2026 01:38:18 +0000</pubDate>
-      <content:encoded>9일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 윤석열 전 대통령의 내란 우두머리 혐의 결심 공판은 417호 법정에서 열렸다. 이 법정은 전두환·노태우·이명박·박근혜 등 역대 기소된 전직 대통령 모두가 섰던 법정이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이 법정 피고인석에 앉은 다섯 번째 전직 대통령이다. 특히 그는 전두환·노태우 두 전직 대통령 이후 약 30년 만에 관련 혐의로 같은 법정에 서게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SDGZJRHFTDGM3DGE3TGMBYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 검찰은 1996년 12·12 군사 반란과 5·18 광주민주화항쟁 관련 내란 수괴, 뇌물 수수 등 10개 혐의로 기소됐던 전두환 전 대통령에게 사형을 구형했다. 내란 중요 임무 종사 등 9개 혐의로 기소됐던 노태우 전 대통령에게는 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;당시 검찰은 구형 사유를 밝히면서 “다시는 이 땅에서 헌정 질서를 파괴하고 국민의 자유를 억압하거나 뇌물 수수로 국가 경제를 총체적으로 부패시키는 범죄 행위가 되풀이되지 않도록 하는 것이 우리의 시대적 소명”이라고 했다.&lt;br&gt;&lt;br&gt;전 전 대통령은 1심에서 검찰의 구형대로 사형이 선고됐으나, 2심에서 무기징역으로 감형됐고 이 판결은 대법원에서 확정됐다. 노 전 대통령은 1심에서 징역 22년 6개월을 선고받고, 2심에서 징역 17년으로 감형된 뒤 대법원에서 확정됐다. 그로부터 약 30년이 지난 이번에는 윤 전 대통령이 같은 혐의로 특검 구형을 받게 된 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 내란혐의 결심공판 시작... 30년 전 전두환과 같은 법정</title>
       <link>https://www.chosun.com/national/court_law/2026/01/09/IUHNOOR5WNB7TIURBGB4DYR6CI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/09/IUHNOOR5WNB7TIURBGB4DYR6CI/</guid>
@@ -924,20 +933,6 @@
       <content:encoded>서울중앙지법 형사25부(재판장 지귀연)는 9일 오전 9시 20분 윤석열 전 대통령의 내란 우두머리 혐의, 김용현 전 국방장관과 조지호 전 경찰청장 등 군·경 수뇌부 7명의 내란 중요 임무 종사 혐의 사건 결심 공판을 열었다. 심리를 마무리 짓는 결심 공판에서는 특검팀의 최종 의견과 구형, 변호인의 최후 변론, 피고인의 최후 진술이 이뤄진다.&lt;br&gt;&lt;br&gt;이날 서울중앙지법은 재판을 방청하려는 시민 다수로 북적였다. 재판 시작을 앞둔 8시쯤부터 방청객들이 모여들었고, 417호 대법정으로 이어지는 4번 출입구 앞에는 방청객 70여 명이 한 줄로 길게 늘어섰다. 서울중앙지법은 대법정이 방청객과 취재진으로 가득 차자 358호를 중계법정으로 지정해 재판 진행 상황을 지켜볼 수 있게 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLKSDWWTVFFSHLXCZEBE4MB6CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령은 재판이 시작한 직후 법정에 들어섰다. 최근 법정에 나올 때와 마찬가지로 검은색 양복에 흰색 와이셔츠 차림이었다. 오른손에는 갈색 서류봉투를 들었다. 윤 전 대통령처럼 구속 수감 중인 김용현 전 국방장관, 노상원 전 정보사령관도 어두운색 양복을 입고 법정에 출석했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 김 전 장관 등과 공모해 전시·사변 또는 이에 준하는 국가 비상사태의 징후 등이 없었는데도 위헌·위법한 비상계엄을 선포하는 등 국헌 문란을 목적으로 폭동을 일으킨 혐의를 받는다. 형법상 내란 우두머리죄의 법정형은 사형과 무기징역, 무기금고 세 가지뿐이다. 특검팀도 이 가운데 하나를 재판부에 요청할 것으로 예상된다. 이날 재판은 김 전 장관을 시작으로 피고인 측 서증 조사를 진행한 뒤, 특검 측이 최종 의견을 진술하고 구형하는 순서로 진행될 예정이다.&lt;br&gt;&lt;br&gt;특검팀은 결심 공판을 하루 앞둔 전날(8일) 주요 피고인들의 구형량을 논의하기 위해 약 6시간 동안 회의를 진행했다. 이들은 내란 우두머리 혐의의 법정형인 사형과 무기징역 중 어떤 형을 구형할지를 두고 다양한 의견을 나눴다. 회의에는 조은석 특검과 특검보, 수사팀장 등이 참여한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령 재판은 작년 4월 14일 첫 공판을 시작으로 이날 결심까지 총 42차례 열렸다. 이 가운데 윤 전 대통령은 26차례 법정에 출석했다. 윤 전 대통령은 초기에는 법정에 나와 적극적으로 자기 변호에 나섰지만, 작년 7월 10일 체포 방해 등 또 다른 혐의로 내란 특검에 구속된 이후로는 16차례 연속 재판에 불출석했다. 그러다 곽종근 전 특수전사령관이 증인으로 출석해 작년 10월 30일 공판부터 다시 법정에 모습을 드러냈다.&lt;br&gt;&lt;br&gt;재판은 지난달 30일 김 전 장관, 조 전 청장 등 군·경 수뇌부의 내란 중요 임무 종사 혐의 사건과 병합됐다. 병합 전까지 김 전 장관과 노 전 사령관 등 군 관계자 3명의 재판에는 55명의 증인이 출석했다. 조 전 청장과 김봉식 전 서울경찰청장 등 경찰 수뇌부 4명의 재판에는 71명의 증인이 나왔다. 중복 출석 등을 제외하면 이날 종결되는 내란 재판에 총 160여 명의 증인이 법정에 출석한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/DHAA7JF2QRF6NELCG3JVBGKJDY.jpg?auth=f0a0a9bc26e7ec9446d4b0dbb2f4055c700c04f187ba692064b8b309daff386f&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
         <media:description type="plain">피고인석 앉은 윤석열 전 대통령</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘與 공천헌금 수사’ 미적대는 경찰… 김경, 美 CES서 ‘엄지척’</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/09/JBZP5JIGKBBPHANIYYYFOSKYFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/09/JBZP5JIGKBBPHANIYYYFOSKYFM/</guid>
-      <dc:creator>김도균 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Jan 2026 15:57:00 +0000</pubDate>
-      <content:encoded>더불어민주당 김병기·강선우 의원 등의 ‘공천 헌금 수수’ 의혹에 연루된 핵심 피의자들이 최근 휴대폰을 교체하는 등 증거 인멸을 시도하는 정황이 속속 드러나고 있다. 그러나 경찰은 8일에서야 강 의원에게 공천 헌금 1억원을 전달한 혐의를 받는 김경 서울시의원 등 관련자들에 대한 통신 영장을 신청한 것으로 전해졌다. 수사 착수 9일이 지나도록 압수 수색 등 강제 수사는 시도도 못하고 있는 것이다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 의원 아내 이모씨의 최측근으로 알려진 이지희 동작구의회 부의장은 최근 휴대전화를 교체한 것으로 알려졌다. 이 부의장은 김 의원이 전직 동작구의원들에게 공천 헌금을 받을 때, 중간에서 돈을 대신 요구하거나 전달한 인물이다. 그는 또 김 의원 차남의 숭실대 편입을 위해 숭실대를 방문하거나, 입시 브로커를 소개했다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47WDTWSPSJDQLPFEEFK2VLZQZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; MBC
-6일(현지 시각) 미국 라스베이거스 ‘CES 2026’ 행사장에서 포착된 김경 서울시의원.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 강 의원에게 공천 헌금 1억원을 준 혐의를 받고 있는 김 시의원과 김 의원의 비서관으로 있는 A씨도 최근 텔레그램에서 탈퇴한 뒤 다시 가입한 사실이 확인됐다. 경찰이 압수 수색을 통해 이들의 휴대폰을 빨리 확보하지 않을 경우, 증거 확보는 사실상 어려워질 수 있는 상황이다. 통신 영장을 통한 통화내역 확보 만으로는 4~5년 전 있었던 금품 수수 의혹을 증명하기가 쉽지 않을 것이라는 게 법조계 시각이다. 형사 전문 한 변호사는 “의혹 당사자들에게 시간만 벌어주고 있다는 느낌이 든다”면서 “경찰의 수사 능력이 부족하거나, 의도적으로 지연시키고 있는 것 아닌지 의심스럽다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김 시의원은 경찰 수사가 시작되는 당일(12월 31일) 미국으로 출국했고, 경찰은 뒤늦게 ‘입국 시 통보 조치’를 했다. 김 시의원은 다음날 미국 최대 가전 전시회 CES 행사장에서 기업 관계자들과 함께 웃으며 사진을 찍고 있는 모습이 취재진에 포착됐다. 국민의힘 등 야권에선 “뇌물 공여 의혹 등을 받는 당사자가 수사 기관을 농락하고 있다”는 비판이 나왔다. 경찰 관계자는 “귀국 날짜를 조율 중”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 경찰은 이날 김 의원에게 공천 헌금 명목으로 1000만원을 건넨 혐의를 받는 전직 동작구의원 B씨를 피의자 신분으로 불러 조사했다. 경찰은 또 작년 9월 국정감사를 앞두고 김 의원에게 고가(高價)의 식사를 접대했다는 의혹을 받는 박대준 전 쿠팡 대표도 이날 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/47WDTWSPSJDQLPFEEFK2VLZQZQ.jpg?auth=283a37e35cec1548f7fcd2439245563f004a88063b8ca76b51b44546a4a3cade&amp;smart=true&amp;width=668&amp;height=861" type="image/jpeg" height="861" width="668">
-        <media:description type="plain"> MBC
-6일(현지 시각) 미국 라스베이거스 ‘CES 2026’ 행사장에서 포착된 김경 서울시의원.</media:description>
       </media:content>
     </item>
     <item>
