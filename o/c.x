@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] ‘홈플러스 사태’ 김병주 회장 등  MBK 임원 4명 구속영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/14/OCTZJBIRFFE4BLKKS6PSRNLFDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/OCTZJBIRFFE4BLKKS6PSRNLFDA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Jan 2026 23:02:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TG25YLYS3ZGPTKZKAAH7XT6U2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홈플러스 사태와 관련해 사기와 자본시장법 위반 등 혐의를 받는 김병주 MBK파트너스 회장이 13일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰, ‘공천헌금 묵인’ 의혹 김병기 의원 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2026/01/14/IU4LPOWKJRCZHG637IKBOCKMSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/14/IU4LPOWKJRCZHG637IKBOCKMSU/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Jan 2026 23:06:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTZEA5PRNJHYLLD5WVR37PD4A4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴스1
+더불어민주당 김병기 의원이 지난 12일 서울 여의도 민주당사에서 열린 윤리심판원 회의에 출석하는 모습. 민주당 윤리심판원은 김 의원에 대해 제명 처분을 의결했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 14일 오전 김병기 더불어민주당 의원 주거지 등 6개 장소에 대한 압수수색에 나섰다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;김 의원은 강선우(서울 강서갑) 의원이 지난 2022년 지방선거를 앞두고 김경 서울시의원에게 공천 헌금 1억원을 수수했다는 의혹에 연루돼 수사받고 있다. 이 의혹은 지난달 29일 MBC가 강 의원과 김병기 의원의 2022년 4월 대화 녹음을 공개하면서 불거졌다. 녹음을 들어보면, 강 의원은 다주택 문제로 지방선거 공천에서 배제될 것을 미리 안 김 시의원이 강 의원의 지역구 사무국장에게 전화해 1억원을 준 사실을 폭로하겠다고 했다고 김 의원에게 말한다. 김 의원이 “1억원 받은 걸 사무국장이 보관하고 있었다는 것 아니냐”고 하자 강 의원은 “그렇죠. 그냥 아무 생각이 없었던 거죠”라고 했다. 강 의원은 김 의원에게 “살려 주세요”라고도 했다. &lt;br&gt;&lt;br&gt;이번 압수수색 대상에는 김 의원뿐 아니라 동작구의회 업무추진비 사적 유용 혐의를 받고 있는 아내 이모씨와 함께 김 의원 일가의 각종 일을 도와주며 불법 선거자금 전달책 역할을 한 혐의도 받고 있는 이지희 동작구의원도 포함됐다.&lt;br&gt;&lt;br&gt;김 의원은 아내 등이 2020년 총선을 앞두고 공천 대가로 자신의 지역구인 동작구 구의원 2명에게서 3000만원을 받은 혐의도 받고 있다. 전직 동작구 구의원 2명이 2023년 12월 작성한 탄원서를 보면 2020년 총선 전 김 의원 아내 이모씨와 측근(이 구의원)에게 각각 2000만원과 1000만원을 줬다가 총선이 끝난 후 돌려받았다는 내용이 담겼다. 구의원들은 김 의원 측에 돈을 준 시기와 방법은 물론 “딸 주라며 새우깡 한 봉지를 담은 쇼핑백에 돈을 돌려받았다”는 구체적인 정황도 탄원서에 적었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정부 “늘어나는 의대 모집 인원, 지역의사제 몫으로”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/01/14/CUXQ4B7RXFBOBIZCWDX6DVD7U4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/14/CUXQ4B7RXFBOBIZCWDX6DVD7U4/</guid>
@@ -899,15 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FR4W6B3ERJHRLAC5DLC2EVIE6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오후 서울 중구 남대문시장 가게에 '케이팝 데몬 헌터스' 속 캐릭터 인형이 걸려 있다./조민희 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“엄마, 저 인형 키링(열쇠고리 인형)!”&lt;br&gt;&lt;br&gt;지난 7일 오후 3시 부모 손을 잡고 서울 중구 남대문시장을 구경하던 아이가 진열돼 있던 인형들을 가리키면서 사달라고 졸랐다. 가게 앞 진열대엔 넷플릭스 애니메이션 ‘케이팝데몬헌터스’(케데헌)의 주인공 중 한 명인 ‘루미’ 인형이 주렁주렁 걸려 있었다. &lt;br&gt;&lt;br&gt;그런데 이 굿즈는 ‘짝퉁(가품)’이다. 케데헌의 저작권을 갖고 있는 넷플릭스가 공식 판매하는 상품이 아니다. 케데헌이 세계적으로 인기를 끌면서 등장 캐릭터를 상품화한 짝퉁 상품이 시장에서 급속도로 늘고 있다.&lt;br&gt;&lt;br&gt;이날 본지가 가품 단속 순찰에 나선 서울시 소속 특별사법경찰(특사경) 4명과 고속터미널역, 남대문시장 등을 돌아보니 가게마다 케데헌 짝퉁 상품들이 진열대 앞에 빼곡히 걸려 있었다. 호랑이 캐릭터 ‘더피’로 만든 인형이나 주인공 루미∙미라∙조이 얼굴이 그려진 에코백, 휴대폰 액세서리도 있었다.&lt;br&gt;&lt;br&gt;이 물건들은 케데헌 제작사가 인증한 상품이 아니다. 인형이나 가방의 완성도는 제각각이었다. 그런데도 손바닥만한 인형 한 개가 1만5000원, 에코백은 2만원에 팔리고 있었다. 남대문시장의 한 상인은 “외국인이 케데헌에 열광하다보니 조금 가격이 비싸더라도 날개 돋친 듯 팔린다”고 했다.&lt;br&gt;&lt;br&gt;현행 상표법상 특사경은 지식재산처에 상표 등록을 마친 브랜드와 관련한 가품만 단속할 수 있다. 지난달 넷플릭스는 케데헌 캐릭터를 상표로 출원했지만 등록까지는 1년 정도 소요될 것으로 예상된다. 저작권이 있는 애니메이션 캐릭터를 무단으로 상품화하는 건 저작권법 위반이기도 하다. 그러나 특사경 관계자는 “특사경이 주로 가품 단속을 하다보니, 경찰이 직접 수사에 나서는 경우는 많이 없다”며 “상인들이 ‘단속 공백’을 노리고 짝퉁을 집중적으로 판매하고 있다”고 했다.&lt;br&gt;&lt;br&gt;짝퉁 판매 경로는 은밀해지고 있다. 지난해 7월 경기도 특사경은 유튜브 라이브 방송으로 가품 의류∙가방 등을 판매한 일당을 무더기로 적발했다. 이들은 홈쇼핑처럼 유튜브 생방송으로 짝퉁 물건을 소개한 뒤 구매 의사를 밝힌 시청자를 카카오톡 채널로 안내해 구매를 유도했다. 주로 밤늦게 라이브 방송을 하고, 곧바로 방송 내용을 삭제해 단속을 피해왔다.&lt;br&gt;&lt;br&gt;서울시에 접수된 상표법 위반 민원 건수는 2024년 511건, 2025년 105건으로 급감했다. 판매가 음지화되면서 시민 신고가 줄어든 것이다. 그러나 특사경이 상표법 위반 혐의로 입건한 건수는 2024년 125건에서 2025년 128건으로 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>복귀 앞둔 백해룡 “검찰 감시 벗어나 독립팀이 수사해야”…또 수사기록 공개</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/13/G6U3DXUTYNDC5L5TCKH42ODPCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/13/G6U3DXUTYNDC5L5TCKH42ODPCE/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Jan 2026 01:19:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRTCMDGMJRGCOJZMZSDGNRTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백해룡 경정/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 마약 밀수 연루 의혹’을 제기한 백해룡 경정이 서울동부지검 검경 합동수사단(합수단) 파견 해제를 하루 앞두고 또 검찰 수사 기록을 공개했다. 그는 “검찰의 감시를 벗어나 독립된 팀으로 수사해야 한다”고 했다. &lt;br&gt;&lt;br&gt;백 경정은 13일 오전 A4용지 97장 분량 보도자료를 언론에 공개했다. 이 자료엔 파견 종료를 앞둔 백 경정의 심경, 자료 공개 이유, 검찰 수사 기록 등이 포함됐다. 앞서 동부지검은 지난달 수사 기록을 무단으로 배포한 백 경정에 “공보 규칙 위반”이라고 경고했다. 그로부터 한 달이 지나 파견 종료를 앞둔 백 경정이 재차 수사 기록을 공개한 것이다. &lt;br&gt;&lt;br&gt;그는 “국민적 의혹이 큰 사안인 만큼 수사자료 공개가 불가피하다”며 “수사 자료 중 왜곡된 내용 일부만 공개한다거나, 짜깁기해 허위 사실을 유포하는 행위는 기만이자 형사사법 절차를 방해하는 범죄 행위”라고 했다. ‘실체 없는 의혹’이라는 동부지검의 주장은 거짓이며 수사 기록을 공개함으로써 이를 바로잡아야 한다는 주장이다. 이어 “경찰청장의 기이한 파견 명령으로 지난 3개월 간 오욕의 시간을 견뎠다”며 “검찰의 감시와 통제를 벗어나 독립된 팀으로 수사를 다시 해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;백 경정이 공개한 자료에는 말레이시아 마약 운반책 3명의 피의자 신문조서 내용 등이 그대로 나와있다. 백 경정은 지난 2023년 운반책들의 마약 밀수 상황을 재현하기 위해 인천국제공항에서 현장검증을 진행했다. 당시 입국 심사대 앞에서 운반책 A씨는 “세관 직원이 손들고 오라고 하는 것을 봤다”고 진술했다고 나와 있다. “직원이 ‘그린 라인’(초록색 줄) 따라 나가라’고 했다”고 한 운반책 B씨의 진술도 적혀 있다. 그러나 이들이 지목한 세관 직원은 당시 연가를 쓴 것으로 확인됐다. B씨가 언급한 그린 라인 또한 운반책들이 입국할 당시 없었던 것으로 드러났다. 합수단은 지난달 세관 직원이 마약 밀수를 도왔다는 운반책들의 진술이 허위였고, 백 경정 수사에 경찰·관세청 지휘부가 외압을 행사한 사실도 없었다며 그의 의혹이 “사실무근”이라는 수사 결과를 발표했다. &lt;br&gt;&lt;br&gt;수사 기록은 원칙상 외부에 공개할 수 없다. 확정 판결이 난 사건이라 하더라도 수사 기록 전반을 공개하는 것은 불법이다. 피의자의 인적사항 등이 담겨있어 개인정보보호법 위반 소지도 있다. 앞서 동부지검은 지난달 수사 기록을 공개한 백 경정에 대해 경찰청에 조치를 요구하는 공문을 보내기도 했다. &lt;br&gt;&lt;br&gt;백 경정은 “현재 5000쪽에 이르는 수사 기록이 생성됐다”며 “만약 이대로 파견이 종료되면 이 사건기록은 갈 곳을 잃고 폐기될 위험에 놓이게 될 것”이라고 했다. 앞서 그는 본지 통화에서 “지난 9일 경찰청과 행정안전부에 (백해룡) 수사팀을 유지해달라고 요청했다”고 했으나, 경찰은 따로 검토하고 있지 않다고 밝혔다. 그는 오는 15일 파견을 마치고 서울 강서경찰서 화곡지구대장으로 복귀할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 시내버스 첫차부터 파업… 출·퇴근길 교통 대란 우려</title>
       <link>https://www.chosun.com/national/national_general/2026/01/13/OU5U5SCCLRD5ZFUKGBIN6AZ6I4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/13/OU5U5SCCLRD5ZFUKGBIN6AZ6I4/</guid>
@@ -963,16 +973,6 @@
 &lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">이동해</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>검찰 해체하면서… 중수청, 검사 역할하는 수사사법관 둔다</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/13/6LRLTFEOVJGARJC6R3ZZBSNFSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/13/6LRLTFEOVJGARJC6R3ZZBSNFSM/</guid>
-      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 Jan 2026 15:56:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCO73NOXXRBGLIAUHY3JKMB4TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 연합뉴스
-정부는 12일 중대범죄수사청법안과 공소청법안을 입법예고했다. 오는 10월 신설하는 중수청과 공소청의 역할 등을 담은 법안이다. 중대 범죄 수사는 중수청이, 기소와 재판은 공소청이 맡게 된다. 검찰청은 폐지된다. 이날 서울 서초구 대검찰청에 눈이 내리고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 공소청과 중대범죄수사청(중수청) 법안을 발표한 윤창렬(국무조정실장) 검찰개혁추진단장은 “검찰의 직접 수사 개시 권한을 중대범죄수사청으로 이관해 집중된 권한을 분산하고, 중대범죄 수사와 관련한 역량을 강화하는 것을 기본 방향으로 삼았다”고 밝혔다. 검찰의 수사 기능은 중수청이, 기소와 공소유지(재판)는 공소청이 담당한다는 기존 방침을 유지하면서도, 중수청에는 변호사 자격증을 가진 수사사법관을 두도록 했다. 수사의 적법성과 전문성을 강화하기 위해 검찰청 검사의 전직(轉職)을 유도하겠다는 취지다. 이를 두고 정치권과 법조계에선 “사실상 검사와 수사관을 두고 기존 검찰보다 더 권한이 커진 거대 수사기관이 만들어지는 것 아니냐”는 우려가 나왔고, 사실상 이름만 바꾼 검찰청을 유지하는 게 아니냐는 지적도 나왔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇공소청 검사, 권한 줄고 통제 강화돼&lt;/b&gt;&lt;br&gt;&lt;br&gt;공소청법·중수청법안에 따르면, 공소청 검사는 공소 제기 여부 결정 및 유지, 영장 청구, 특별사법경찰관 지휘·감독, 경찰관과의 협의·지원, 국가 관련 소송 수행 및 지휘 등을 담당한다. 검찰청 검사의 ‘범죄 수사 및 개시’ 권한만 빠졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CDJQXVCTBC7JIETCJNS7FXWZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조직 체계도 법원 조직에 대응해 구성돼 있던 ‘대검찰청-고등검찰청-지방검찰청’처럼 ‘대공소청-고등공소청-지방공소청’으로 설치된다. 다만 기관장 이름은 기존처럼 검찰총장을 유지한다. 이는 헌법 제89조가 “검찰총장 임명은 국무회의 심의를 거쳐야 한다”고 정한 만큼, 검찰청을 폐지하면서 검찰총장 명칭까지 없앨 경우 위헌 논란이 불거질 수 있다는 점을 고려한 것으로 보인다.&lt;br&gt;&lt;br&gt;정부는 공소청 검사에 대한 통제 장치를 강화했다. 각 고등공소청마다 영장 청구 등을 외부인이 심의하는 사건심의위원회를 설치하고, 검사 적격심사에 참여하는 외부위원 비율을 높이기로 했다. 또한 불기소 처분에 불복하는 절차인 항고·재항고 인용률이나 무죄율이 높은 검사에 대한 근무 평가도 철저히 하기로 했다. 이에 대해 검찰 출신 한 법조인은 “공소청 검사의 권한은 매우 제한적인데, 공소 여부와 재판 결과에 따른 책임만 강화된 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇중수청, 수사사법관 둔 3000명 규모&lt;/b&gt;&lt;br&gt;&lt;br&gt;정부는 오는 10월 출범할 중수청 인력을 약 3000명, 연간 담당 사건을 2만~3만건으로 예상한다고 했다. 본청과 지방청으로 구분해, 현재 고등검찰청이 있는 6곳(서울·수원·부산·대구·대전·광주) 등 총 7곳에 설치될 예정이다. 검찰개혁추진단 노혜원 부단장은 “다음 달 내에 공소청법과 중수청법이 국회를 통과해야 오는 10월 출범에 맞춰 검찰청 등에서 중수청으로 인력 이동이 가능할 것”이라고 했다.&lt;br&gt;&lt;br&gt;그동안 검찰이 했던 중요 범죄 수사는 앞으로 중수청이 맡게 된다. 수사 대상도 현재 검찰의 2대 범죄에서 9대 범죄로 대폭 확대된다. 정부는 부패·경제 등 현재 검찰의 수사 대상 범죄에 공직자·선거·방위사업·대형참사·마약·국가보호(내란·외환)·사이버 등 범죄를 중수청이 수사할 수 있도록 했다. 또 중수청은 공소청을 비롯해 고위공직자범죄수사처(공수처), 경찰 등 다른 수사기관 소속 공무원 범죄와 개별 법령에 따라 고발된 사건도 수사할 수 있게 된다. &lt;br&gt;&lt;br&gt;특히 중수청과 다른 수사기관들의 수사가 중복될 경우 혼선을 최소화하기 위한 규정도 포함시켰다. 공수처와 경찰 등이 수사 중인 사건을 이첩하라고 요구해 중수청이 직접 수사할 수 있게 했다. 다만 공수처 사건의 경우 이첩 여부를 공수처장이 결정하도록 했다. &lt;br&gt;&lt;br&gt;중수청 수사 인력은 ‘수사사법관’과 ‘전문수사관’으로 이원화한다. 수사사법관은 변호사 자격증이 있거나 별도 시험에 합격한 사람으로 법리 적용 및 증거 분석 업무를, 전문수사관은 증거 수집 등을 담당한다. 법적으로 수사사법관과 7급 이상 전문수사관은 사법경찰관(경위~경무관) 직무를 수행한다. 노 부단장은 “검찰청 검사가 중수청 수사사법관으로 갈 수 있고, 전문수사관도 수사사법관으로 전직이 가능하다”며 “수사사법관이 전문수사관을 지휘·감독하는 관계는 아니다”라고 했다. 이에 대해 법조계에선 “경찰 조직에 검사를 두는 것은 세계적으로 입법례가 없는 기형적인 구조”라는 비판이 나온다. &lt;br&gt;&lt;br&gt;중수청에 대한 통제는 행정안전부 장관이 일반적인 지휘·감독권을 갖고, 구체적 사건에 대해선 중수청장만을 지휘할 수 있도록 했다. 현재 법무부 장관이 검찰을 지휘·감독하는 방식과 유사하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해커는 범죄자 아닌 ‘사이버 용병’... 해커 감싸는 ‘중·북·러’</title>
