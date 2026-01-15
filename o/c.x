@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“살려주세요” 5m 아래 배수로서 들린 치매 노인의 목소리 </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/16/DKD3YGWF65FGNCJGPJMXEDPKAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/DKD3YGWF65FGNCJGPJMXEDPKAE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 22:15:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4GENRYGRRDIM3FHEYTCMZXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 서귀포시에서 치매 노인이 수풀 사이 5m 높이 배수로 아래로 추락해 구조작업이 벌어지고 있다. /제주경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 경찰이 실종 신고가 접수된 치매 노인을 신속하게 발견해 무사히 가족의 품으로 돌려보냈다. &lt;br&gt;&lt;br&gt;16일 제주경찰청에 따르면 지난 13일 오전 서귀포시에서 치매 노인에 대한 구조 요청이 접수됐다. 67세 치매 어머니가 ‘(장소를 모르는) 어딘가에 떨어져 다리와 허리를 다친 것 같다’는 신고였다. &lt;br&gt;&lt;br&gt;서귀포경찰서 중동지구대 김량훈 경장은 실종자의 휴대전화 위치로 출동했다. 서귀포시 토평동의 과수원 인근이었다. 하지만 당시 한파와 강풍이 불고 있는 데다 과수원 풀숲이 우거져 시야가 확보되지 않는 등 수색에 난항을 겪었다. &lt;br&gt;&lt;br&gt;김 경장 등 수색 인원들은 포기하지 않고 큰 소리로 치매 노인의 이름을 불렀고, 수풀 5m 아래 배수로에서 “살려주세요. 여기 있어요”라는 소리가 들려왔다. 김 경장의 목소리를 들은 어머니가 ‘살려주세요’를 반복해 외친 것이었다. 김 경장은 15분 만에 배수로에 빠진 노인을 발견해 구조했다. &lt;br&gt;&lt;br&gt;김 경장은 “말보다는 행동으로 업무를 책임지는 경찰이 되겠다”고 소회를 밝혔다. &lt;br&gt;&lt;br&gt;같은 날 제주동부경찰서 남문지구대 문지용 순경도 실종 신고가 접수된 치매 노인을 구조했다. &lt;br&gt;&lt;br&gt;13일 새벽 1시 29분쯤 “치매 아버지가 전날 낮 12시에 집을 나가서 귀가하지 않고 있다”는 신고가 접수됐다. 치매를 앓는 A(85)씨는 위치추적기를 갖고 있었지만, 전원이 꺼져 있는 상태였다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 마지막 위치가 주거지에서 약 10㎞ 떨어진 제주시 월평동에서 최종 확인됨에 따라 인근 주변을 샅샅이 수색했다. 그러나 3시간이 넘도록 A씨의 행방은 묘연했다. &lt;br&gt;&lt;br&gt;그때 A씨를 발견한 건 퇴근하던 문 순경이었다. 그는 오전 3시 52분쯤 심야 근무를 마치고 귀가하던 중 인적이 드문 조천읍 신촌리 진드르 교차로에서 길을 헤매고 있는 A씨를 발견했다. A씨의 마지막 발신지로부터 9.3㎞ 떨어진 곳이었다. &lt;br&gt;&lt;br&gt;문 순경은 타 지역 관할에서 발생한 실종 사고임에도 A씨의 인상착의를 정확하게 기억하고 있었고, 즉각 차를 멈추고 A씨를 살폈다. 수색 대상자라는 사실을 확인한 문 순경은 바로 보호 조치한 뒤 응급처치 후 보호자에게 돌려보냈다. &lt;br&gt;&lt;br&gt;경찰이 된 지 1년 된 새내기 경찰인 문 순경은 “저의 작은 관심과 행동이 국민의 안전으로 이어진다는 점을 항상 마음에 새기고, 초심을 잃지 않는 국민의 경찰이 되겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] ‘1억’ 자백해놓고… 텔레그램·카톡 대화 왜 지웠나</title>
       <link>https://www.chosun.com/national/national_general/2026/01/16/X5SJROEJDBBOXIJVY5YJHLGW6U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/X5SJROEJDBBOXIJVY5YJHLGW6U/</guid>
@@ -851,15 +860,6 @@
       <description/>
       <pubDate>Thu, 15 Jan 2026 02:03:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELK6EJWLZZCGVIW5CWIU6O7L6Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;김성제 경기 의왕시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성제 의왕시장이 시정을 옹호하기 위한 온라인 여론 조작에 개입한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 의왕경찰서는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반 혐의로 김 시장을 불구속 송치했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;김 시장은 지난 2023년 7월 의왕시 간부 공무원 A씨와 시민 B씨 등 2명이 온라인에서 시정에 대한 여론 조작을 하는 과정에 관여한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 A씨는 아파트 입주민 온라인 커뮤니티에서 시정에 반대하는 여론에 대해 반박하는 글을 작성, 허용된 접근 권한을 넘어 정보통신망에 침입한 혐의(정보통신망법 위반)로 유죄 판결을 받았다.&lt;br&gt;&lt;br&gt;당시 의왕 백운밸리 일부 부지 내 상업용지에 대한 건축허가 논란으로 부정적인 여론이 이어지자 B씨는 다른 주민 C씨의 아이디와 비밀번호를 이용해 이를 반박하는 게시글을 올렸던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 과정에서 김 시장은 A씨를 통해 상황을 보고받고 의견을 전달한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 작년 6월 다른 네티즌으로부터 김 시장에 대한 고소장을 받고 수사에 나섰다. 경찰은 A씨 등이 C씨의 동의를 구하지 않은 채 게시글을 올렸고, 김 시장이 개입한 혐의가 인정된다고 봤다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 사항과 관련해 자세한 내용은 확인해주기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전세보증금 16억 떼먹고 해외 도피 50대... 경찰, 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/01/15/423MOCTLC5F7HL5SJBEMISTG4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/423MOCTLC5F7HL5SJBEMISTG4A/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 02:02:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경 /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16억원 넘는 전세 보증금을 챙긴 뒤 해외로 도피한 50대가 붙잡혀 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;대전경찰청은 다가구주택 세입자 17명을 상대로 보증금 16억6000만원을 편취한 혐의(사기)로 50대 건물주 A씨를 구속 송치했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 대전 중구의 다가구주택 2채를 이른바 ‘갭투자’ 방식으로 매입한 뒤 2022년부터 20∼40대 세입자 17명과 16억6000만원 상당의 전세 계약을 체결한 뒤 보증금을 반환하지 않은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 다가구주택 선순위 보증금이 바로바로 열람되지 않는다는 점을 악용해 세입자들에게 “다른 전세계약이나 근저당권이 설정된 집이 아니다”라고 속인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;임대보증금을 반환할 능력이 없던 그는 2023년 12월 태국으로 출국해 2년여 동안 도피 생활을 했다. 현지 호텔에서 말소된 여권을 제시했다가 태국 파타야 현지 경찰에 체포돼 국내로 강제 송환됐다.&lt;br&gt;&lt;br&gt;2024년 3월 세입자들의 고소로 수사에 착수한 경찰은 국제형사경찰기구(인터폴)에 적색수배(체포영장 발부 피의자에게 내리는 국제 수배)를 요청하는 한편 피해 세입자들을 대상으로 국내 수사를 진행해 왔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “다가구주택 전세를 계약할 때 등기부등본과 확정일자 부여 현황, 전입세대 내역을 반드시 열람하고 보증금을 돌려받을 수 있는지 확인해야 피해를 막을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국회의원은 공천권 쥐고, 지방의원은 이권 챙겼다</title>
