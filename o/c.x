@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>金총리 “충청·전북 초미세먼지 비상저감조치 철저히 시행하라”</title>
+      <link>https://www.chosun.com/politics/goverment/2026/01/15/DMWPKJTXDZENFJ5NAGRCOV5QF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/01/15/DMWPKJTXDZENFJ5NAGRCOV5QF4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 09:36:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RKVA642LBMJLLNPFUB6T3YMMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충청권과 전북에 초미세먼지 위기 경보가 발령된 15일 세종시 호수공원에서 호수 너머로 아파트 단지가 흐릿하게 보인다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 충청권과 전북에 초미세먼지 위기 경보가 발령되자, 김민석 국무총리가 관계 기관에 초미세먼지 비상 저감 조치를 철저히 시행하라고 지시했다.&lt;br&gt;&lt;br&gt;초미세먼지 비상 저감 조치는 초미세먼지 농도가 하루 평균 50㎍/㎥을 넘어서고, 다음 날에도 50㎍/㎥을 넘어설 것으로 예측되는 경우 등에 발령되는 것으로, 초미세먼지 농도를 긴급하게 낮추기 위한 조치를 다음 날 오전 6시부터 오후 9시까지 시행하게 된다. 공공기관 보유 차량에 2부제가 적용돼 차량 절반의 운행이 금지되고, 공공기관이 운영하는 사업장과 민간의 비상 저감 조치 참여 사업장, 공공·민간 건설 공사장의 운영·조업 시간이 단축된다. 노후 경유차 등의 운행도 제한된다.&lt;br&gt;&lt;br&gt;기후환경에너지부는 15일 오후 5시를 기해 대전과 세종, 충남, 충북, 전북에 초미세먼지 위기 경보 ‘관심’ 단계를 발령했다.&lt;br&gt;&lt;br&gt;국무총리실에 따르면, 김 총리는 기후부와 관련 지방정부에 “대응 매뉴얼 등에 따라 비상 저감 조치를 신속하게 취하고 국민께 충분히 안내하라”고 지시했다.&lt;br&gt;&lt;br&gt;또 기후부와 국토교통부, 지방정부에 “석탄발전소 일부 가동 제한, 공사장·사업장 배출 감축, 5등급 차량 운행 제한 등의 조치를 철저히 실시하라”고 당부했다.&lt;br&gt;&lt;br&gt;교육부와 보건복지부, 지방정부에는 “학생과 취약계층, 야외 근무자에 대한 보호 조치를 다하라”고 강조했다.&lt;br&gt;&lt;br&gt;아울러 기후부에 “각 부처와 지방정부의 대응 상황을 점검하고, 협조 체계도 빈틈없이 관리하라”고 했다.&lt;br&gt;&lt;br&gt;총리실은 이번 비상 저감 조치가 지난해 3월 11일 이후 10개월여 만에 시행되는 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘10명 사상 울산 에쓰오일 사고’ 실무 팀장 실형…경영진은 무죄</title>
+      <link>https://www.chosun.com/national/regional/2026/01/15/T4Y4FTXNPFEJBAA5OLCADOEQZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/T4Y4FTXNPFEJBAA5OLCADOEQZY/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 09:40:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4년 전 사상자 10명이 발생한 에쓰오일 온산공장 폭발 사고와 관련해 실무책임자에게 실형이 선고됐다. 회사 법인에는 1억2000만원의 벌금형이 내려졌으나 경영진에게는 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사3단독 이재욱 부장판사는 15일 화학물질관리법 위반 혐의 등으로 재판에 넘겨진 에쓰오일 팀장급 직원 A씨에게 금고 1년 6개월을 선고했다고 밝혔다. 금고형은 징역형처럼 교도소에 가두지만 노역은 시키지 않는 처벌이다.&lt;br&gt;&lt;br&gt;임원급인 공장장 B씨에겐 금고 10개월에 집행유예 2년, 직원 5명에겐 금고 8개월에서 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;온산공장 책임자인 C씨 등 본부장 2명은 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;온산공장 폭발 사고는 지난 2022년 5월 19일 오후 8시 51분쯤 부탄을 이용해 휘발유 옥탄값을 높이는 첨가제인 ‘알킬레이트’ 제조 공정에서 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 협력업체 직원 1명이 숨지고 원·하청 노동자 9명이 다쳤다.&lt;br&gt;&lt;br&gt;사고 원인은 정비 작업을 위해 가동을 정지한 구역과 생산을 위해 가동 중인 구역을 완전히 분리해 가스를 차단해야 하는데, 이를 제대로 하지 않아 부탄이 새어 나온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;재판부는 사고의 가장 큰 책임은 실무책임자인 현장 팀장 A씨에게 있다고 판단했다. 기한을 맞추기 위해 공정 일부 재가동을 지시하면서 정비 중인 구역과 가스 차단 조치가 완벽히 이뤄졌는지 확인하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;다른 직원들에게도 안전 관리를 정상적으로 하지 않은 책임을 물었다. 당초 작업허가서에는 ‘폭발·화재 위험이 없어 가스차단조치 불필요하다’고 잘못 적혀 있었지만 직원들은 서로 교차 확인을 하지 않았던 것으로 드러났다.&lt;br&gt;&lt;br&gt;공장장 B씨에게는 위험성에 관한 보고나 가스 차단 조치의 이행 여부 등을 보고받거나 확인하지도 않고 작업을 승인한 잘못을 물었다.&lt;br&gt;&lt;br&gt;재판부는 다만 C씨 등 온산공장 안전보건총괄책임자인 본부장급에게는 사고 책임이 없다고 봤다.&lt;br&gt;&lt;br&gt;경영자로서 산업재해 예방을 위한 계획 수립과 재발 방지 대책 등을 총괄 관리할 뿐이지, 구체적인 개별 작업에 관해 직접적으로 산업안전을 예방할 업무를 담당한다고 할 수는 없다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 또 C씨가 사고 당일 연수로 하루 종일 온산공장에 없었던 점을 참작했다.&lt;br&gt;&lt;br&gt;재판부는 “수백명이 근무하는 대규모 석유화학공장에서 근로자 중 일부가 업무절차나 안전 규칙을 지키지 않는 경우는 어느 정도 발생할 수밖에 없고, 이는 정기적인 감사 등을 통해서 지속적으로 개선해 나가야 할 사안이지, 경영자 등의 과실이라고 할 수는 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;에쓰오일 법인은 직원 업무 관리를 제대로 않은 책임으로 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;선고 직후 시민단체인 중대재해 없는세상만들기 울산운동본부는 입장문을 내고 “무거운 책임을 져야 할 책임자들은 모두 무죄를 선고받았고 현장 관리자들과 작업자들에게만 유죄가 판결됐다”며 “분노를 넘어 참담하다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “중대재해에 대해 똑바로 수사해야 할 검찰은 대표이사도, 안전경영책임자도 기소를 안했고 법원은 솜방망이라고 하기에도 부끄러운 판결을 내렸다”며 “검찰은 지금이라도 반성하고 항소하라”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부천 금은방 여주인 살해’ 40대 남성 검거</title>
+      <link>https://www.chosun.com/national/regional/2026/01/15/JSDJ2M7PMBAUFO3LYLDLC7DO5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/JSDJ2M7PMBAUFO3LYLDLC7DO5Y/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 09:29:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWND7CZ2CJNNNVOUDB3DMMYPWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천 원미경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천의 한 금은방에서 여성 주인을 흉기로 찔러 살해한 뒤 도주한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 부천원미경찰서는 살인 혐의로 40대 A씨를 붙잡아 경찰서로 압송했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시 1분쯤 경기 부천시 원미구 금은방에서 이곳 주인인 50대 여성 B씨를 흉기로 찔러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 현장 CCTV 등을 분석해 용의자를 특정한 뒤 서울경찰청 공조를 통해 이날 오후 5시 34분쯤 서울 종로구에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 자세한 범행 동기 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울고법, 내란전담재판부 2개 우선 설치... 2월 초 판사 보임</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/15/U2K7QGT3GFDEDCRDQOOGSMUGWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/U2K7QGT3GFDEDCRDQOOGSMUGWM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 08:32:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDLCGLHLIZIBLP5GWKOCM5ZARE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고등법원이 내란·외환 사건을 전담할 재판부를 우선 2개 설치하고 추후 사건 부담이 커지면 추가 설치를 검토하기로 했다. 내란전담재판부 판사는 다음 달 초에 결정된다.&lt;br&gt;&lt;br&gt;서울고법은 15일 서울법원종합청사에서 전체판사회의를 열고 내란전담재판부 설치법(내란·외환·반란 범죄 등의 형사절차에 관한 특례법) 시행에 따른 전담재판부 구성 기준과 2026년도 법관 사무분담의 기본 원칙을 논의했다. &lt;br&gt;&lt;br&gt;회의 결과, 이달 30일 발표되는 법관 정기 인사 결과를 반영해 내란전담재판부 판사를 보임하기로 했다. 다음 달 초에 내란전담재판부가 구성되는 것이다. 내란전담재판부는 이후 실제 법관 인사 이동이 이뤄지는 다음 달 23일부터 가동된다.&lt;br&gt;&lt;br&gt;다만, 인사 이동 전에 관련 사건이 서울고법에 접수될 경우를 대비해 수석부장판사가 재판장을 맡는 형사20부를 ‘관리재판부’로 두기로 했다. 관리재판부는 전담재판부 배당 전까지 사건 기록 관리와 부수적 결정 등 본안 심리 전 업무를 담당한다.&lt;br&gt;&lt;br&gt;내란전담재판부 수는 우선 2개로 하되 향후 사건 경과와 업무 부담 등을 고려해 추가 설치 여부를 검토한다는 방침이다. 내란전담재판부의 형태와 구체적인 구성 방식 등은 추가로 회의를 열어 결정하기로 했다. 오는 29일 2차 전체판사회의를 열어 관련 논의를 이어간다.&lt;br&gt;&lt;br&gt;서울고법은 내란전담재판부 운영과 관련한 세부 절차를 마련하기 위해 대법원에 특례법 시행을 위한 예규 제정도 건의하기로 했다. 앞서 대법원은 무작위 배당을 원칙으로 하는 전담재판부 설치 예규를 제정했다가 국회에서 내란전담재판부 설치법이 통과되자 예규 수정을 위한 검토에 들어갔다.&lt;br&gt;&lt;br&gt;지난 6일 공포·시행된 내란전담재판부 설치법은 서울고법과 서울중앙지법에 각각 2개 이상의 전담재판부를 두고 해당 사건만 전담하도록 규정하고 있다. 내란전담잼판부는 지위·경력이 비슷한 판사 3명으로 구성된 대등재판부로 구성하고, 이 중 1명이 재판장을 맡게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>KLPGA 방신실, 고향 평택 어려운 이웃에 1억원 기부</title>
+      <link>https://www.chosun.com/national/people/2026/01/15/MF4EJE24NJAWVOCDSV3F6SGNSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/15/MF4EJE24NJAWVOCDSV3F6SGNSQ/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 09:21:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4WMMBVHBQTANJXME4TAZRSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 고액 기부자 모임 '아너 소사이어티' 가입 행사를 가진 방신실(가운데). /평택시청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KLPGA(한국여자프로골프) 투어에서 활동하는 프로골퍼 방신실이 경기 평택시의 어려운 이웃에게 1억원을 기부하고 아너 소사이어티 회원으로 가입했다고 사랑의열매가 15일 밝혔다. &lt;br&gt;&lt;br&gt;아너 소사이어티는 1억원 이상 기부하거나 기부를 약정한 고액 기부자들 모임이다. 2004년생인 방신실은 이번 기부로 경기 지역 아너 소사이어티 최연소 회원이 됐다. &lt;br&gt;&lt;br&gt;방신실은 “태어나고 자란 평택의 어려운 이웃들에게 조금이나마 힘이 되고 싶어 기부를 결심했다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “지금까지 많은 분들의 응원과 사랑 덕분에 지금 이 자리까지 올 수 있었다”면서 “앞으로도 기부와 봉사를 통해 받은 사랑을 돌려드리겠다”고 했다. &lt;br&gt;&lt;br&gt;방신실은 지난해 평택시 홍보대사로 위촉돼 다양한 홍보, 사회공헌 활동에 참여하고 있다.&lt;br&gt;&lt;br&gt;권인욱 경기 사랑의열매 회장은 “어린 나이에도 지역 사회에 대한 깊은 애정과 책임감을 보여준 방신실 선수에게 감사하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, 전국 검찰청에 ‘공소청·중수청법 의견 청취'</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/15/DLKIWN2ARJG5XCATXKLEYYNIPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/DLKIWN2ARJG5XCATXKLEYYNIPA/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 09:14:20 +0000</pubDate>
+      <content:encoded>정부가 지난 12일 공소청·중대범죄수사청(중수청)법 제정안을 입법 예고한 데 따라, 대검찰청이 일선 검찰청 검사들의 의견 취합에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2DMOJVGRTGKOJQHFTGMNRWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 대검 관계자는 “지난 13일 대검 중간 간부와 일선 검찰청에 공문을 보내 오는 19일까지 공소청법과 중수청법에 대한 의견을 취합해 달라고 요청했다”고 했다. 이는 법안의 미비점 등을 입법 내용에 반영하기 위한 것으로, 법안 신설 규정에 따른 필수 절차다.&lt;br&gt;&lt;br&gt;공소청과 중수청은 각각 법무부와 행정안전부 산하에 설치될 예정인데, 이와 관련해 두 부처는 최근 대검에 의견 조회를 요청한 것으로 전해졌다. 대검은 일선 청 의견을 취합해 다음 주 중 행안부에 의견서를 전달할 것으로 보인다.&lt;br&gt;&lt;br&gt;이번 의견 수렴 과정에서는 공소청·중수청 설치의 최대 쟁점이었던 공소청의 보완 수사권과 전건 송치 제도와 관련한 의견도 제시될 것으로 보인다. 정부는 지난 12일 입법 예고 주요 내용을 발표했지만, 공소청의 보완 수사권이나 전건 송치 제도 도입 관련 내용은 빠졌다.&lt;br&gt;&lt;br&gt;당시 국무총리실 산하 검찰개혁추진단 관계자는 “(공소청이) 송치받은 사건에 대한 보완 수사 관련 사안은 형사소송법 개정 과정에서 검토할 예정”이라며 “올해 상반기 내에 정부안을 마련하는 것이 목표”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 지구대로 간 ‘백해룡 기록’ 5000쪽 반환 요청… 경찰은 감찰 착수</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/15/B2BVOICUWNCPFH5KRXQJMV4RMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/B2BVOICUWNCPFH5KRXQJMV4RMA/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 08:34:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZWENRWMNSTANLDHE4TIMJRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검에 파견돼 3개월간 '세관 마약수사 은폐 의혹'을 수사한 백해룡 경정이 지난 14일 오전 서울 송파구 동부지검에서 파견 종료 입장을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 직원 마약 밀수 연루 의혹’ 수사를 위해 서울동부지검 검·경 합동수사단(합수단)에 파견됐던 백해룡 경정이 원대로 복귀하며 수천 쪽의 사건 기록을 들고 나온 것으로 전해졌다. 합수단은 반환을 요구했다. &lt;br&gt;&lt;br&gt;서울동부지검은 백 경정이 현재 소지하고 있는, 지난 3개월간 합동수사단에서 작성한 사건 기록 원본 5000쪽에 대해 반환을 요구했다고 15일 밝혔다. 백 경정은 지난 14일 파견 종료와 함께 원 소속인 서울 강서경찰서 화곡지구대장으로 복귀하면서 5000쪽 분량의 사건 기록을 들고 나왔다. &lt;br&gt;&lt;br&gt;백 경정은 현재까지 합수단의 반환 요구에 거부 의사를 밝힌 것으로 알려졌다. 법조계에선 검찰이 보관해야 할 수사 기록 원본을 마음대로 가져가는 것은 공용서류은닉 등 범죄 행위라는 의견도 나온다. &lt;br&gt;&lt;br&gt;백 경정은 지난해 10월 합수단에 파견되고 수사 기록을 수차례 소셜미디어 등에 공개해 논란을 일으켰다. 사건 관련자의 가족 사진과 주소 등을 공개해 국가인권위원회에 진정이 제기되기도 했다. &lt;br&gt;&lt;br&gt;이처럼 논란이 계속되자, 경찰청은 15일 서울경찰청에 백 경정에 대한 감찰을 지시했다. 또 대검 요청에 따라 경정급 팀장을 포함한 경찰관 5명을 새로 합수단에 파견하기로 했다. 이들은 백 경정이 맡았던 관련 수사를 마무리하는 역할을 맡게 될 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘개인정보 유출’ 카카오, 151억 과징금 불복해 소송냈지만... 법원 “과징금 부과 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/15/I74PBSWA6FBX5K3LYSB4NSFOAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/I74PBSWA6FBX5K3LYSB4NSFOAM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 08:42:15 +0000</pubDate>
+      <content:encoded>오픈 채팅방 개인정보 유출로 과징금 151억원을 부과받은 카카오가 과징금을 취소해 달라며 소송을 냈으나 15일 1심에서 패소했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정14부(재판장 이상덕)는 이날 카카오가 개인정보보호위원회(개보위)를 상대로 낸 시정 명령 등 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMACP7RZO5JZVNCPWKH6JF57MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 영평동 카카오 본사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 소송은 개보위가 지난 2024년 5월 카카오에게 개인정보보호법 위반을 이유로 과징금 151억4196만원, 과태료 780만원을 부과한 게 발단이 됐다. 개보위는 2023년 3월 카카오톡 오픈 채팅방 이용자들의 개인정보가 불법 거래되고 있다는 언론 보도를 계기로 조사에 착수했다. 최소 6만5000여 건의 개인정보가 유출된 것으로 조사됐다. 해커는 오픈 채팅방의 보안 취약점을 노려 참여자 정보를 알아내고, 카카오톡의 친구 추가 기능 등을 이용해 일반 채팅 이용자 정보를 알아냈다고 한다. 이 정보들을 대조하고 결합해 만든 개인정보 파일을 판매한 것이다.&lt;br&gt;&lt;br&gt;개보위는 2023년부터 카카오가 이용자들의 개인정보 유출 사실을 알고도 이를 신고하거나 이용자들에게 알리지 않아 개인정보보호법을 어겼다고 보고 과징금을 부과했다. 그러나 카카오는 2024년 11월 이에 불복해 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 개보위의 과징금 부과 처분 사유가 모두 정당하다고 봤다. 우선 이용자들의 휴대전화번호, 프로필명, 오픈채팅방 내 프로필명 등이 결합된 다수 이용자들의 정보가 데이터베이스 형태로 구축돼 온라인에 공개·판매된 것은 개인정보 유출로 인정할 수 있다고 판단했다. 이어 재판부는 “카카오가 개인정보 유출을 신고하거나 이용자들에게 이를 알리지 않은 것은 위법하다”고 봤다.&lt;br&gt;&lt;br&gt;재판부는 카카오가 적어도 2020년 8월부터는 개인정보 유출의 위험성을 알았을 것이라고 봤다. 카카오가 2020년 8월 5일쯤부터 새로 만들어지는 오픈 채팅방에 한해서만 암호화 조치를 시행했을 뿐, 추가적인 개선 조치는 하지 않았다는 것이다. 이어 재판부는 “카카오가 기본적으로 보안 시스템을 구축하고, 여러 보안 정책을 설정하는 등 일정한 수준으로 외부 위협의 접근 제한 및 유출 탐지 기능을 수행한 것 자체는 부인할 수 없다”면서도 “카카오톡 프로그램의 특징에 충분히 부합하는 접근 제한·유출 탐지 기능을 적절히 운영했다고 평가하긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이를 토대로 개보위의 과징금 부과 처분에 사실을 오인하거나 비례·평등 원칙에 위반되는 사유가 있다고 보이지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지인 흉기로 찌른 40대女… 상대는 무단결근 경찰관</title>
+      <link>https://www.chosun.com/national/incident/2026/01/15/4QPYEYJRWVDO7APTP6Z2LXIRLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/15/4QPYEYJRWVDO7APTP6Z2LXIRLA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 08:33:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TKMRRHFRTSNBSMJQTIZBWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에 함께 있던 현직 경찰관을 흉기로 찌른 40대 여성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 부평경찰서는 특수상해 혐의로 40대 여성 A씨를 입건해 수사하고 있다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 12일 오전 11시쯤 인천 부평구 자택에서 50대 남성 B씨를 흉기로 찔러 다치게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 생명에는 지장이 없는 상태로, 병원 치료를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 인천 미추홀경찰서 소속 현직 경찰관으로 파악됐다. 그는 사건 당일 무단 결근한 상태로 A씨 집에 머물렀던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨를 상대로 정확한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;또 특수상해 혐의 수사와는 별개로, 무단 결근한 B씨에 대해 징계 절차를 밟을 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>10·15 부동산 대책 규제 지역 주민 “통계 조작”...국토부 “적법한 통계 사용”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/15/7WOJZZQCA5GPBINWXE7UJ3MDKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/7WOJZZQCA5GPBINWXE7UJ3MDKY/</guid>
@@ -818,33 +899,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBXUR4GZSFBBHO7VREH7NS3SMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2787] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2026/01/15/ER3GZUISXNAKJBCSCZWIXFNUPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/15/ER3GZUISXNAKJBCSCZWIXFNUPM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RO3N3XPNZDKFDGIAVSNBI2EK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] (all) for the best</title>
-      <link>https://www.chosun.com/national/nie/english/2026/01/15/ZTXMHSFD7JEWTJTGXFZXT6BQTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/01/15/ZTXMHSFD7JEWTJTGXFZXT6BQTM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMS4MTCGV5AF7BEDRHQJGGO6NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 피로하다, 지치다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/01/15/N7QHJS7RXRBQZA6O5MNBTUV5LI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/01/15/N7QHJS7RXRBQZA6O5MNBTUV5LI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRDPJ5VYDZCGROBFY2EHJOQLSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 혼비백산(魂飛魄散)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2026/01/15/BEDXJCPRLRE6FFQTKMYH44KNLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/01/15/BEDXJCPRLRE6FFQTKMYH44KNLI/</guid>
@@ -872,42 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TIY3CMFQTQMBYGU2TSZLFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내버스 파업이 이어지고 있는 가운데 14일 서울 마포구 마포역 인근 버스정류장 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 서울 시내버스 노사 협상 타결...내일 첫차부터 운행 재개&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 美 CES서 활보했던 김경, 무료출입증 사적 유용했다</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/14/ONUDEHNYE5GUZAUP3QHDZPEEDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/14/ONUDEHNYE5GUZAUP3QHDZPEEDA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 12:36:01 +0000</pubDate>
-      <content:encoded>공천 헌금 의혹으로 수사를 받고 있는 김경 서울시의회 의원이 미국 라스베이거스에서 열린 ‘CES 2026’의 무료 출입증을 확보해 자신의 측근들을 데려간 것으로 14일 파악됐다. 시의원 지위를 이용해 본인과 측근들의 무료 출입증을 받아 사적으로 유용했다는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZGGNLFHA3TIOJXMZTDGMDFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'공천뇌물 의혹'으로 고발된 김경 서울시의원이 미국 라스베이거스에서 열린 세계 최대 IT·가전 전시회 CES에 참석해 엄지를 들어보이고 있다. /MBC뉴스 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진종오 국민의힘 의원실이 서울경제진흥원(SBA)으로부터 제출받은 자료 등에 따르면, 김 의원은 작년 11월 CES 무료 출입증 11장을 신청해 출입 명단에 이름을 올렸다. CES 출입증은 전시 부스의 원활한 운영을 위해 부스 관계자들에 무료로 발급 가능하다. 이에 김 시의원은 CES에서 전시 부스 3개를 운영하기로 한 서울관광재단을 통해 무료 출입증을 받았다. 서울관광재단의 부스 운영을 위해 투입된 세금은 3600만원이다.&lt;br&gt;&lt;br&gt;본지 취재에 따르면 서울관광재단 측은 지난달 2일부터 22일까지 ‘김경’을 대표자로 5차례 이메일을 통해 무료 출입증을 신청했는데, 처음에는 4명이던 신청 인원이 마지막에 11명까지 늘어난 것으로 나타났다. CES 출입증은 1장당 100만원 상당이다.&lt;br&gt;&lt;br&gt;무료 출입증을 받기 위해 김 시의원이 신청한 명단을 분석해보니, 다수는 서울시나 시의회 관계자가 아닌 김 시의원의 개인 측근으로 알려진 인물들이었다. 무료 출입증 명단에 이름을 올린 김모씨는 데이터 기반 플랫폼 업체의 대표이사이고, 조모씨는 한 컨설팅 업체 상무로 알려진 개인 사업가다. 두 사람 모두 김 시의원이 올해 지방선거를 앞두고 영등포구청장 출마를 준비하는 과정에서 도움을 줘 왔던 것으로 알려졌다. 서울관광재단을 통해 무료 출입증을 받은 11명 가운데 김 시의원이 소속된 서울시의회 문화체육관광위원회 소속은 한 명도 없다.&lt;br&gt;&lt;br&gt;김 시의원이 이번 CES 출장을 서울시의회에 공무 국외 활동으로 보고하지도 않은 사실도 확인됐다. 이에 서울시의회 윤리특별위원회 신동원 위원장은 전날 “(김 시의원이) 미국 체류 중 CES 2026 출입증을 서울시의회 문화체육관광위원회 위원 자격으로 발급받고도 의회에 어떠한 보고도 하지 않았다”며 “이는 서울특별시의회의원 윤리강령 및 윤리실천규범 조례 중 국외 활동에 관한 보고 위반에 해당한다”며 김 시의원의 징계 요구안을 발의했다. &lt;br&gt;&lt;br&gt;이와 관련해 진 의원 측은 “공천 헌금 의혹으로 경찰 수사를 받고 있는 김 시의원이 시의회에 사전 보고나 승인 없이 미국 출장을 다녀온 사실이 확인되고 있다”면서 “지인 10명의 CES 무료 출입증을 서울관광재단에 의뢰한 정황은 공적 지위를 사적으로 활용했는지 여부를 따져볼 사안으로, 경찰은 지체 없이 신속 수사해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 영천 주택 화재, 산불로 확산… 1시간 만에 주불 진화</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2026/01/14/WM5EGRVIC5GHRA4SLXXZGETZAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/01/14/WM5EGRVIC5GHRA4SLXXZGETZAM/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 11:36:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4GEMDFMUZWEMZSGMYGKNJUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 7시 11분쯤 경북 영천시 화산면 가상리 단독주택에서 시작된 불이 인근 산으로 번졌다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 영천시의 한 주택 화재가 산불로 번지자 산림·소방당국의 진화 작업을 벌여 1시간여 만에 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;14일 오후 7시 11분쯤 경북 영천시 화산면 가상리 한 단독주택에서 불이 시작됐다. 주택을 모두 태운 불길은 인근 백학산으로 옮겨붙었다. &lt;br&gt;&lt;br&gt;신고를 접수한 산림·소방당국은 산불 진화 차량 54대와 119산불특수대응단 등 진화인력 231명을 투입해 오후 8시 33분쯤 주불 진화를 완료했다. 현재 산림·소방당국은 잔불 정리 작업 중이다. 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;한때, 영천시는 불길이 번지자 “주민들은 먼 곳으로 이동하고, 차량은 우회하라”고 안전안내문자를 발송했다.&lt;br&gt;&lt;br&gt;산림당국은 진화 작업을 끝내는 대로 산불조사감식반을 투입해 정확한 피해 면적과 재산 피해 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“새우 싸게 팔지마!”…이웃상인 흉기로 위협한 소래포구 상인</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/14/LPIQZ77JCBABFOBZ7GUQGJ3NVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/14/LPIQZ77JCBABFOBZ7GUQGJ3NVQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 08:27:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIG67P6W45V5HIXQOQADWSAEDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 소래포구 종합어시장 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 소래포구 종합어시장에서 이웃 상인을 흉기로 위협한 40대 상인이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;14일 인천 논현경찰서는 특수폭행과 특수협박 등 혐의로 40대 상인 A씨를 불구속 입건해 검찰에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 인천시 남동구 소래포구 종합어시장의 한 점포에서 이웃 상인 40대 B씨를 흉기로 위협하고 폭행한 혐의다. A씨는 이를 말리던 B씨의 40대 동업자를 폭행한 혐의도 받는다.&lt;br&gt;&lt;br&gt;B씨와 동업자의 고소를 접수한 경찰은 조사를 거쳐 A씨의 혐의가 인정된다고 보고 검찰에 송치했다.&lt;br&gt;&lt;br&gt;B씨는 경찰 조사에서 “내가 다른 상인들보다 새우를 싸게 판다며 가게를 찾아와 협박했다”는 취지로 진술한 것으로 알려졌다. A씨가 ‘다른 상인들과 가격을 맞춰야 한다’며 담합을 요구했고, 이를 거부하자 범행을 했다는 것이다. &lt;br&gt;&lt;br&gt;다만 A씨는 경찰 조사에서 범행 사실은 인정하면서도 B씨 측이 주장한 범행 동기에 대해서는 부인하는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 가맹점주들, 배민에 단체 소송 “안 받은 돈에도 수수료”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/14/XMHBBJ4NFVHAXMMUPL74BS74XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/XMHBBJ4NFVHAXMMUPL74BS74XA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 09:00:00 +0000</pubDate>
-      <content:encoded>BBQ·배스킨라빈스 등 전국 대형 프랜차이즈 가맹점주들이 배달 앱 ‘배달의민족’ 운영사 우아한형제들을 상대로 “부당하게 수수료를 징수했다”며 단체소송을 제기했다. 점주들은 배달의민족이 할인 전 금액을 기준으로 수수료를 매겨 “받지도 않은 매출에까지 돈을 떼 갔다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVTGEYRYGZTDMYJXGJSDQYZUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 음식점에 배달앱 배달의민족(배민) 스티커가 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 본지 취재를 종합하면, 프랜차이즈 가맹점주 366명은 지난 12일 서울동부지법에 부당이득금 반환 청구 소송을 냈다. 청구 금액은 1인당 100만원씩 총 3억6600만원이다. 소송 참여 의사를 밝힌 점주가 600여 명에 달해 소송 규모는 더 커질 전망이다.&lt;br&gt;&lt;br&gt;소장에 따르면, 가맹점주들은 고객이 배달의민족 앱에서 결제한 금액의 약 10%를 중개 이용료와 결제 수수료로 낸다. 문제는 수수료 산정 기준이다. 점주들은 “배민이 실제 결제 금액이 아니라 할인 전 금액을 기준으로 수수료를 매겨 왔다”고 했다.&lt;br&gt;&lt;br&gt;예컨대 점주가 10% 할인 쿠폰을 제공해 소비자가 2만원짜리 음식을 1만8000원에 결제해도, 배민은 2만원을 기준으로 수수료를 계산했다는 것이다. 점주 측은 “실제로 받지 않은 2000원에 대해서도 수수료를 냈다”고 주장했다.&lt;br&gt;&lt;br&gt;소송을 대리한 법무법인 YK는 “배민은 점주들의 실질 매출을 왜곡해 근거 없는 과다 수수료를 징수했다”며 “배달 앱 점유율 1위의 우월적 지위를 이용한 횡포”라고 했다.&lt;br&gt;&lt;br&gt;소장에는 이런 수수료 산정 방식이 “중개하지 않은 영역에 대해서까지 대가를 요구하는 것”이라는 주장도 담겼다. 부동산 중개 수수료가 ‘호가’가 아닌 실제 체결된 매매 가격을 기준으로 산정되는 것처럼 중개인은 거래 성립에 기여한 범위 내에서만 보수를 받을 수 있다는 논리다.&lt;br&gt;&lt;br&gt;가맹점주들은 현행 기업회계기준과 부가가치세법도 근거로 들었다. 기업회계기준상 매출액은 고객이 실제로 부담한 금액을 기준으로 하고, 부가가치세 역시 실제 거래 금액을 과세표준으로 삼고 있다.&lt;br&gt;&lt;br&gt;배민은 지난해 5월 약관을 개정해 점주가 부담한 할인액은 수수료 산정에서 공제하도록 했다. 하지만 ‘점주 부담분이 본사를 통해 공식 자료로 제출된 경우에만 반영한다’는 단서 조항을 뒀다. 이 때문에 “할인을 실제로 부담했어도 증빙 방식이 다르면 종전처럼 할인 전 금액을 기준으로 수수료를 내야 한다”는 게 점주 측 주장이다.&lt;br&gt;&lt;br&gt;YK는 이에 대해 “배민이 일방적으로 정한 증빙 절차를 따르지 않으면 여전히 할인 전 금액을 기준으로 수수료를 부과할 수 있도록 길을 열어둔 것”이라며 “약관 개정 취지와도 배치되는 ‘꼼수’에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;앞서 공정거래위원회도 지난해 10월 배달 앱 사업자 약관을 심사하면서 할인 전 금액을 기준으로 수수료를 부과하는 조항은 불공정하다고 보고 시정명령을 내렸다. 공정위는 “중개 수수료는 실제 결제된 거래 금액을 기준으로 하는 것이 거래의 실질에 부합한다”며 “매출이 발생하지 않은 부분에까지 수수료를 부과하는 것은 입점 업체에 부당하게 불리하다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 ‘이종섭 도피’ 혐의 부인 “출국금지 해제 관여 안 했다”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/14/OAWO3N6OPNCBLBK5244X3BNGBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/OAWO3N6OPNCBLBK5244X3BNGBA/</guid>
@@ -915,25 +933,6 @@
       <description/>
       <pubDate>Wed, 14 Jan 2026 09:05:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4TKNZVMVTDCNZSGU4DOYTEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘이종섭 전 주(駐)호주 대사 도피’ 의혹으로 기소된 윤석열 전 대통령 측이 첫 공판 준비 기일에서 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 서울중앙지법 형사22부(재판장 조형우) 심리로 14일 열린 범인 도피 사건 첫 공판 준비 기일에서 “이 전 장관을 호주 대사로 임명하긴 했지만 출국 금지 해제나 공관장 임명 절차에는 전혀 관여하지 않았다”고 주장했다. &lt;br&gt;&lt;br&gt;윤 전 대통령과 같은 혐의로 함께 기소된 조태용 전 국가안보실장, 장호진 전 외교부 1차관, 이시원 전 공직기강비서관, 박성재 전 법무부 장관, 심우정 전 검찰총장(당시 법무차관) 측도 전부 혐의를 부인했다. 공판 준비 기일에는 피고인 출석 의무가 없어 이들은 모두 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 고(故) 채수근 상병 사망 사건으로 고위공직자범죄수사처(공수처)에 입건된 이종섭 전 국방장관을 호주 대사로 임명해 도피시키려 했다는 혐의로 기소됐다. 이명현 순직해병 특검은 윤 전 대통령이 이 전 장관에 대한 수사가 진전될 경우 본인에게도 수사가 확대될 것을 우려해 호주 대사 임명을 지시했다고 보고 있다. 윤 전 대통령의 변호인은 이날 “세세한 것은 밑에서 알아서 할 일이지 대통령에게 보고되지 않는다”며 “관련자들과 상의한 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;조태용 전 실장과 장호진 전 차관은 2023년 11월 이후 외교부에 호주 대사 교체 절차를 부당하게 지시·독촉한 혐의를 받는다. 조 전 실장 측은 “외교부에 공관장 임명 관련 지시를 ‘전달’했을 뿐”이라고 했다. 장 전 차관 측은 “대통령이나 그 밖의 공동 피고인들과 모의한 사실이 전혀 없다”고 했다.&lt;br&gt;&lt;br&gt;이 전 장관에 대해 ‘문제 없음’으로 인사 검증을 진행한 혐의를 받는 이시원 전 비서관 측은 “부실 검증을 지시받거나 한 적 없고 출금 해제에 관여하지도 않았다”고 했다. 요건에 맞지 않는데도 이 전 장관 출국 금지를 해제해 해외 출국을 도운 혐의(직권남용)를 받는 박 전 장관 측은 “출국 해제는 출국금지심사위원회 의결에 따른 장관의 후속 조치였을 뿐”이라고 했다. 심 전 총장 측도 “출국 연장·해제에 관한 권한이 없어 직권남용이 성립하지 않고 위법·부당한 지시를 한 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 특검이 적용한 ‘직권남용’과 ‘국가공무원법 위반’ 혐의에 대해 “독립된 범죄로 보려면 범인도피 혐의와 구분되는 구체적 범죄 행위를 특정할 필요가 있다”며 공소사실을 정리해 달라고 요구했다. 특검 측은 의견서 등을 제출해 보완하겠다고 했다. 재판부는 다음 달 11일 공판 준비 기일을 한 차례 더 열어 증인과 향후 신문 계획을 정리하기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤석열 구형 “왜 무기징역이 아니라 사형이었나”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/15/FEYEH2CXEZGARLTXDAKXHGDZNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/FEYEH2CXEZGARLTXDAKXHGDZNM/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 08:42:51 +0000</pubDate>
-      <content:encoded>특검이 지난 13일 ‘내란 우두머리’ 재판에서 윤석열 전 대통령에게 사형을 구형했습니다. 윤 전 대통령은 최후 진술에서 “12·3 비상계엄은 국민에게 경종을 울리려 한 것일 뿐 내란은 아니다”라고 강조했습니다. 이날 윤 전 대통령은 자정을 넘겨 다음 날 오전 1시 40분까지 89분간 최후 진술을 했습니다. 글자 수로는 1만3117자에 달합니다. &lt;br&gt;&lt;br&gt;반면 특검은 “비극적 역사가 반복되지 않도록 전두환·노태우 단죄보다 더 엄정한 단죄가 필요하다”며 사형을 구형했습니다. 전직 대통령에게 사형이 구형된 것은 과거 전두환·노태우 두 전직 대통령 사건 이후 30년 만입니다. &lt;br&gt;&lt;br&gt;이번 재판 쟁점은 12·3 비상계엄 선포와 그 집행 과정이 형법상 ‘내란’에 해당하는가로 압축됩니다. 여론이나 정치적 평가가 아니라, 형법 제87조가 정한 내란죄 요건을 충족하는지를 따지는 형사재판입니다.&lt;br&gt;&lt;br&gt;형법은 내란을 &lt;mark class="hl_yellow"&gt;“국토를 참절하거나 국헌을 문란할 목적으로 폭동을 일으킨 행위”&lt;/mark&gt;로 규정합니다. 이에 따라 재판부가 판단해야 할 핵심 요소는 네 가지로 요약됩니다. &lt;br&gt;&lt;br&gt;특검과 윤 전 대통령 측 모든 공방은 결국 이 네 가지 요소를 둘러싼 해석 차이로 수렴됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DK7KJMGPOBGFDCMPTB5R645GWU.png"&gt;&lt;figcaption&gt;&lt;small&gt;특검이 12·3 비상계엄 관련 내란 우두머리 혐의를 받는 윤석열 전 대통령에 사형을 구형한 13일 오후 서울역 대합실에서 시민들이 관련 뉴스를 시청하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 비상계엄 자체를 문제 삼지 않습니다. 계엄을 ‘내란을 실행하기 위한 도구’로 사용했다는 점을 핵심으로 봅니다.&lt;br&gt;&lt;br&gt;이를 위해 북한 무력 도발을 유인하는 방식으로 비상계엄 선포 요건을 조성하려 했다가 여의치 않자 야당의 입법 활동과 공직자 탄핵, 예산 삭감 등을 반국가 행위로 몰아 ‘반국가 세력 척결’이라는 사유로 비상계엄을 선포하기로 모의했다는 게 특검의 시각입니다. &lt;br&gt;&lt;br&gt;법적으로 중요한 지점은 &lt;mark class="hl_yellow"&gt;헌법에 규정된 권한이라도, 그 목적과 집행 방식이 국헌 문란에 해당하면 보호되지 않는다&lt;/mark&gt;는 점입니다. 과거 전두환·노태우 내란 판결에서도 “계엄이라는 형식을 취했더라도 실질이 헌정 질서 파괴라면 내란”이라고 판시한 바 있습니다. &lt;br&gt;&lt;br&gt;반면 윤 전 대통령은 계엄을 ‘국민에게 호소하기 위한 상징적 긴급권 행사’로 규정합니다.&lt;br&gt;&lt;br&gt;이 주장이 법적으로 성립하려면, &lt;mark class="hl_yellow"&gt;계엄이 실질적으로 국회·선관위 기능을 마비시킬 위험이 없었음이 인정&lt;/mark&gt;돼야 합니다.&lt;br&gt;&lt;br&gt;형법상 내란에서 가장 중요한 요소는 ‘폭동성’, 즉 실질적 물리력 행사 여부입니다. 특검은 국회 봉쇄 → 본회의장 진입 차단 → 선관위 서버실 점거 시도를 통해 국가기관에 대한 실력 행사가 현실화됐다고 주장합니다. 특검은 이 같은 사실은 국회 CCTV 영상, 김봉식 전 서울경찰청장과 서울청 경비부장 진술, 휴대전화 통화 내역, 출동 현황, 작전 일지 및 작전 경과 등 여러 증거로 입증된다고 했습니다.&lt;br&gt;&lt;br&gt;반면 윤 전 대통령 측은 &lt;br&gt;&lt;br&gt;이른 시간 내에 국회가 계엄 해제 요구를 의결할 것이라고 판단하고 김용현 장관에게 그런 점을 강조했다는 입장입니다. 병력은 2개 중대 규모 250~280명으로 2개 팀, 1개 팀은 국회 주변 질서 유지, 다른 1개 팀은 선관위 보안 시스템을 점검하려 했다는 설명합니다.&lt;br&gt;&lt;br&gt;법원은 여기서 ‘결과’보다 ‘위험성’을 봅니다. 실제로 국회가 해제 결의를 했다는 사실만으로 폭동성이 부정되지는 않습니다. “국회가 저항하면 무력으로 제압할 수 있는 상태였는가”가 판단 기준입니다.&lt;br&gt;&lt;br&gt;이 재판에서 가장 무거운 쟁점은 단연 정치인 체포 지시 여부입니다. 특검은 윤 전 대통령이 국회의원과 주요 정치인 등 이른바 ‘반국가 세력’으로 지목한 인사들의 신병을 확보할 목적으로 합동 체포조를 편성·운영했다고 했습니다.&lt;br&gt;&lt;br&gt;형법상 입법부 구성원을 체포해 입법 기능을 정지시키려 했다면, 이는 내란의 전형적 형태에 가깝습니다.&lt;br&gt;&lt;br&gt;이에 대해 윤 전 대통령은 ‘정치인 체포 지시’는 허위 조작 주장임이 법정에서 밝혀졌다고 반박합니다. 조지호 전 경찰청장 법정 증언에 대해 그가 비화폰 통화 내역이 드러난 후 말을 바꿨다며 신빙성을 집중 공략하고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ADMVKJ6AND2VGOSGRPP57Q74Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령과 조지호 전 경찰청장의 통화 내용은 직접증거가 거의 없는 사건에서 핵심 정황증거입니다.&lt;br&gt;&lt;br&gt;법적으로 중요한 원칙은 다음과 같습니다.&lt;br&gt;&lt;br&gt;조 전 청장과 여인형 전 사령관이 진술을 일부 번복한 사실 자체는 치명적이지 않습니다. 다만 그 번복이 &lt;br&gt;&lt;br&gt;이 통화에 대해 윤 전 대통령은 11시15분 통화에선 국회 주변 상황을 물었고, 조 전 청장은 “군이 아직 오지 않았는데 사람들이 밀려와 일단 국회 출입문을 닫았는데 김봉식 서울청장이 법적으로 국회의원과 관계자는 들여보내야 한다고 해서 들여보내고 있다”고 대답했다고 합니다. 그러자 “김 청장이 수사통이라 법을 잘 아는구먼, 당연히 그래야지 잘했어”라고 했다고 주장합니다.&lt;br&gt;&lt;br&gt;이후 짧은 통화에 대해서는 국회 주변 상황 안전 점검 차원에서 이뤄졌다고 했습니다. 그러면서 조 전 청장이 검찰 조사 때는 ‘국회로 들어가려는 의원들을 모두 체포하라’는 지시를 들었다고 진술했다가 비화폰 통화 내역이 밝혀진 후 법정에서는 ‘월담 의원’을 체포하라고 들었다는 새로운 증언을 내놨다는 것입니다. 그런데 그 시간대는 이미 국회의원과 국회 관계자 출입이 자유로운 시간이어서 월담할 필요가 없었기 때문에 조 전 청장 진술이 신빙성이 떨어진다고 지적합니다.&lt;br&gt;&lt;br&gt;반면 조 전 청장은 지난달 29일 “‘체포해라’ ‘불법이다’를 말씀하신 것은 정확히 기억난다” “‘월담’이라는 단어를 쓰셨는지는 확실하게 기억나지는 않지만 의원들을 체포하라고 말씀하신 것으로 기억한다”고 했습니다. 지난달 24일엔 ‘월담’에 대해 “처음에는 (대통령이) ‘국회를 통제해 달라’고 했지만 ‘법률적 근거가 없어 안 된다’고 했다”며 “이후에는 ‘(대통령이) 국회 담이 낮아 쉽게 월담할 수 있고 월담하는 의원들은 불법이니 체포하라’고 했다”고 증언했습니다. &lt;br&gt;&lt;br&gt;그러다가 29일에 ‘월담이라고 했는지 확실하게 기억나지 않는다’고 한 부분은 ‘이미 출입 통제가 해제된 상태여서 월담이 필요 없었다’는 윤 전 대통령 측 주장을 고려한 증언으로 보입니다. &lt;br&gt;&lt;br&gt;조 전 청장은 윤 전 대통령과 통화 전인 계엄 당일 밤 10시 30분쯤 여인형 전 방첩사령관에게 안보수사요원 100명 지원을 비롯, 정치인 체포조 지원을 요청하는 텔레그램 전화를 받았다고도 했습니다.&lt;br&gt;&lt;br&gt;여 전 사령관도 군 검찰에서 “김 장관으로부터 연락을 받아 체포대상자를 들었다” “조지호에게 전화 걸어 체포 대상자를 알려 주고 위치 확인을 도와달라고 했다”고 진술했습니다. 다만 법정에선 “나중에 보니까 이때 왜 이런 말을 썼지 싶은 것들이 있었다” “체포나 검거 같은 말은 기본적으로 군인들 입에 배어 있는 말”이라며 검찰 진술을 부인했습니다.&lt;br&gt;&lt;br&gt;특검이 무기징역이 아닌 사형을 구형한 이유는 감정이나 정치적 선언이 아니라 법적 평가의 기준선에 있기 때문입니다. 형법상 내란 우두머리 법정형은 사형·무기징역·무기금고뿐이며, 검사는 사건을 어떻게 규정하는지에 따라 가장 강한 가설을 제시합니다. 전직 대통령이란 지위는 책임의 무게를 키울 수는 있어도, 법적으로 별도 특권이나 불이익을 주는 요소는 아닙니다.&lt;br&gt;&lt;br&gt;따라서 재판부가 이번 사건을 “유죄”라고 판단하는 순간, 반드시 사형이든, 무기징역이든, 무기금고든 셋 중 하나를 선고해야 합니다. 유기징역(10년·20년 등)은 법적으로 불가능합니다. 석방도 원칙적으로 불가능합니다. 사면·가석방은 별도 정치·행정 절차입니다. 윤 전 대통령은 전면 무죄일 때, 즉 내란 우두머리 혐의 자체가 성립하지 않는다고 판단되면 즉시 석방 대상이 됩니다.&lt;br&gt;&lt;br&gt;특검은 이번 사건을 ‘미수 내란’이나 ‘불발된 시도’가 아니라, 대통령이 군·경을 실제 동원해 국회와 선관위의 기능을 무력화하려 한 실행 단계의 내란으로 판단했습니다. 무기징역을 구형할 경우 행위 성격을 스스로 낮춰 해석하는 효과가 발생하기 때문에, 특검 논리에서는 사형 구형이 불가피했다는 것입니다.&lt;br&gt;&lt;br&gt;이는 결과보다 행위의 본질과 위험성을 기준으로 한 판단이며, 헌정 질서에 대한 최고 수준 경고를 제시하려는 의미도 담겨 있습니다. 다만 사형 구형이 곧 사형 선고를 의미하는 것은 아니며, 최종적으로 인명 피해 여부와 헌정 질서 회복 가능성 등을 종합해 재판부가 무기징역으로 감형할 재량을 갖습니다.&lt;br&gt;&lt;br&gt;전직 대통령에게 법정 최고형인 ‘사형’이 구형된 이번 사건에서 재판부는 계엄의 성격은 물론, 핵심 쟁점인 ‘체포 지시’ 여부를 둘러싸고 깊이 고심할 듯합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/647KHMMFTZBHRLIFMUA3KD6I4A.png?auth=3415e97df23f0e3c090e55e18927f050b4d59cd748663ff8ac27e4426d3eadbe&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560"/>
-    </item>
-    <item>
-      <title>훔친 시험지로 전교 1등 안놓친 딸… 범행 주도 엄마, 조력 교사 ‘징역형’</title>
-      <link>https://www.chosun.com/national/2026/01/14/UGZOKLAJUFEFPEKLGRGLMLGAHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/14/UGZOKLAJUFEFPEKLGRGLMLGAHU/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 08:19:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3WIYZQGY3DMYJSMY3GKNBWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 대구지법 안동지원에서 시험지 유출사건의 피고인인 학부모 A씨가 호송차량에서 내리고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딸이 다니는 고등학교에 침입해 시험지를 훔친 학부모와 이를 도운 학교 기간제 교사에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 안동지원 형사1단독 손영언 부장판사는 14일 건조물침입과 업무방해, 특수절도 등 혐의로 구속 기소된 학부모 A(48)씨에게 징역 4년 6개월, 기간제 교사 B(32)씨에게 징역 5년에 추징금 3150만원을 선고했다. 이들의 범행을 도운 학교 행정실장 C(38)씨에게는 징역 1년 6개월, 빼돌린 시험지로 시험을 치른 A씨의 딸 D(19)양에게 징역 1년에 집행유예 2년이 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYGEMJZMY2TKYJVMEZGIOJYMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 대구지법 안동지원에 서 시험지 유출사건의 피고인 기간제 교사 B씨가 호송차량에서 내려 법정으로 향하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 4일 오전 1시 20분쯤 B씨와 함께 경북 안동 한 사립 고등학교 교무실에 침입해 시험지를 빼돌리는 등 2023년부터 11차례 걸쳐 범행한 혐의를 받는다. C씨는 이들이 학교에 침입하는 것을 사전에 알고도 묵인했고, 방범카메라(CCTV) 시간을 조정해 범행 장면이 삭제되도록 조작했다. &lt;br&gt;&lt;br&gt;A씨의 딸 D양은 빼돌린 시험지의 문제와 답을 미리 외워 시험을 치렀고, 고교 재학 시절 내내 전교 1등을 놓치지 않았다. D양은 시험지를 훔치러 직접 교무실에 침입한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URCHQMADERL2RBDDSNDOF6CG4Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 대구지방법원 안동지원에서 시험지 유출사건의 피고인 D양(검은색 패딩)이 재판 후 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들의 마지막 범행은 기말고사 기간이었던 지난해 7월 4일이었다. A씨 등은 사설 경비 시스템을 해제한 후 학교에 침입했으나 공교롭게도 경비 시스템이 오작동하면서 범행 일체가 발각됐다. &lt;br&gt;&lt;br&gt;재판부는 공통 양형 사유로 이들의 죄질이 매우 불량하며 교육의 본질과 공적 교육기관에 대한 사회적 신뢰를 근본적으로 흔든 중대한 범죄라고 했다. &lt;br&gt;&lt;br&gt;손 부장판사는 “이번 사건으로 학생들의 학습권과 공정하게 평가받을 기회를 침해했다”며 “치열한 입시 환경 속에서 성실히 노력해온 수험생들과 학부모에게 깊은 허탈감과 분노를 만들었고, 묵묵히 일한 교직원들의 자긍심마저 훼손했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 학부모 A씨에게 징역 8년을, B씨에게 징역 7년과 추징금 3150만원, C씨에게 징역 3년, D양에 대해선 장기 3년∼단기 2년의 징역형을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘국가대표 유격수’ 김민재 현 롯데 코치 별세</title>
