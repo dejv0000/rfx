@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[스피킹이 강해지는 영어] (all) for the best</title>
+      <link>https://www.chosun.com/national/nie/english/2026/01/15/ZTXMHSFD7JEWTJTGXFZXT6BQTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/01/15/ZTXMHSFD7JEWTJTGXFZXT6BQTM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Jan 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMS4MTCGV5AF7BEDRHQJGGO6NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>金총리 “충청·전북 초미세먼지 비상저감조치 철저히 시행하라”</title>
       <link>https://www.chosun.com/politics/goverment/2026/01/15/DMWPKJTXDZENFJ5NAGRCOV5QF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/01/15/DMWPKJTXDZENFJ5NAGRCOV5QF4/</guid>
@@ -888,15 +897,6 @@
       <description/>
       <pubDate>Wed, 14 Jan 2026 15:44:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GP2VCPCTGBEMROBHNRBJAJ2PW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시장 비서실에 설치되어 있던 휴대폰 보관함. /통영시민참여연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 통영시가 그동안 시장실에 출입하는 시민과 공무원들의 휴대전화를 강제로 수거해온 사실이 알려져 논란이 일고 있다. &lt;br&gt;&lt;br&gt;통영시민참여연대는 14일 경남도청 프레스센터에서 기자회견을 열고 “천영기 통영시장이 시장실을 방문하는 시민과 공무원의 휴대전화를 비서실에 맡기게 하는 행태는 독재 시대를 방불케 하는 시대착오적이며 고압적 갑질”이라며 “시대착오적인 휴대전화 영치를 즉각 중단하고 공개 사과하라”고 했다. &lt;br&gt;&lt;br&gt;단체에 따르면 통영시는 현재 시장실을 방문하려는 시민과 소속 공무원들의 휴대전화를 강제로 수거해 보관하는 휴대전화 보관함을 운영하고 있다.&lt;br&gt;&lt;br&gt;단체는 “시민과 공직자를 잠재적 범죄자나 감시자로 규정하는 오만한 발상”이라며 “동료 공직자조차 믿지 못해 휴대전화부터 뺏는 폐쇄적 리더십이 행정의 질적 저하와 시민의 피해로 이어지고 있다”고 했다.&lt;br&gt;&lt;br&gt;단체는 특히 공무원에 대한 휴대전화 수거에 대해서는 “직무 수행 자율성을 침해할 뿐만 아니라 조직 내 상호 불신과 감시 문화를 조장한다”며 “공무원의 인격권을 처참히 짓밟는 행위”라고 했다. &lt;br&gt;&lt;br&gt;단체는 “시장실은 시장의 개인 밀실이 아닌 공적 업무가 수행되는 공간이다. 행정이 투명하고 당당하다면 녹취를 두려워할 이유가 없다”며 “법적 근거도 없이 방문객의 소지품을 강제로 영치하는 행위는 인권침해적 요소가 다분하다”고 했다. &lt;br&gt;&lt;br&gt;단체는 또 이 같은 고압적 행정으로 통영시가 국민권익위원회의 ‘공공기관 종합청렴도 평가’에서 최하위 등급을 받았다며 천영기 시장의 사과를 촉구했다.&lt;br&gt;&lt;br&gt;통영시 측은 휴대전화 보관함 운영에 대해 “휴대전화 벨소리 때문에 업무나 면담이 영향받지 않게 하려 한 조치”라고 해명했다. &lt;br&gt;&lt;br&gt;통영시 측은 논란이 커지자 시장 비서실에 있던 휴대전화 보관함과 안내문을 모두 철거했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 빗방울이 똑똑 떨어지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/01/15/NHD2P5EFMJHEFKTQAUXXDP46RM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/01/15/NHD2P5EFMJHEFKTQAUXXDP46RM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBXUR4GZSFBBHO7VREH7NS3SMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문으로 배우는 실용한자] 혼비백산(魂飛魄散)</title>
