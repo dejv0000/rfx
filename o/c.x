@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 건보공단, 담배 회사 상대 손해배상 2심도 패소</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/01/15/D4SZZMBDMFB4ZJMVQPAR5H2CZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/15/D4SZZMBDMFB4ZJMVQPAR5H2CZQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 04:54:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSWINRUMMZDKMBRMY3TGMBTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 편의점에서 직원이 담배를 정리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단이 담배회사 3곳을 상대로 제기한 손해배상 소송 2심에서 패소했다. &lt;br&gt;&lt;br&gt;서울고등법원 민사 6부(재판장 박해빈)는 15일 오후 건보공단이 KT&amp;amp;G와 한국필립모리스, BAT코리아 등을 상대로 제기한 533억 규모의 손해배상 소송에서 공단 측의 주장을 모두 기각했다.&lt;br&gt;&lt;br&gt;2014년 4월 처음 소송이 제기된 이후 12년간 이어진 담배 소송에서 2020년 1심 판결에 이어 2심에서도 법원이 담배회사 손을 들어준 것이다. &lt;br&gt;&lt;br&gt;533억원은 흡연력이 20갑년(20년 이상을 하루 한 갑씩 흡연) 이상, 흡연 기간이 30년 이상이면서 폐암 및 후두암으로 진단받은 환자 3465명에 대해 공단이 지급한 건강보험 급여비다. 국내 공공기관이 담배 회사들을 상대로 낸 첫 소송이었다.&lt;br&gt;&lt;br&gt;그러나 2심 법원은 이날 1심과 마찬가지로 “건보공단의 급여 지출은 손해배상 청구의 대상이 될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;1심 법원은 2020년 폐암이나 후두암이 흡연 외에 다른 요인들에 의해서도 발생할 수 있고, 공단이 보험 급여를 지출했다 하더라도 구상권을 행사할 수 있을 뿐 손해배상을 구할 권리는 없다며 공단 청구를 기각한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건보공단 500억대 ‘담배 소송’ 2심도 패소</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/15/R6QV2UTX2FH65F6TRU6ME3VALU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/R6QV2UTX2FH65F6TRU6ME3VALU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 04:50:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42GGM3EMJRWGOBUMY2TGMBUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 편의점에서 직원이 담배를 정리하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험공단이 국내외 주요 담배 회사들을 상대로 낸 이른바 ‘담배 소송’ 항소심에서도 패소했다. 법원은 1심과 마찬가지로 “건보공단의 보험 급여 지출은 손해배상 청구의 대상이 될 수 없다”며 건보공단의 항소를 기각했다.&lt;br&gt;&lt;br&gt;서울고등법원 민사6부(재판장 박해빈)는 15일 건보공단이 KT&amp;amp;G와 한국필립모리스, BAT코리아 등을 상대로 낸 손해배상 청구 소송 항소심에서 “원고의 항소를 모두 기각한다”고 판결했다. 이번 사건은 공단이 30년 넘게 20갑년 이상으로 흡연한 폐암·후두암 환자 3465명에 대해 2003년부터 2012년까지 지급한 급여비 약 533억원을 담배 회사들이 배상해야 한다며 2014년 제기한 소송이다.&lt;br&gt;&lt;br&gt;건보공단은 담배 회사들이 유해 성분인 ‘타르’, 중독을 일으키는 ‘니코틴’ 등을 줄이는 방식으로 상대적으로 안전한 담배를 생산할 수 있는데도 그러지 않고 ‘저타르’ ‘저니코틴’ 등 소비자를 속이는 광고 문구로 흡연을 조장한 것이 불법 행위라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 1심에 이어 2심도 담배 회사 손을 들어줬다. 재판부는 먼저 “건보공단이 지급한 보험 급여는 국민건강보험법에 따른 보험자의 의무 이행에 불과하다”며 “그 자체로 공단의 보호 법익이 침해됐다고 보기 어렵다”고 판단했다. 건보공단의 보험급여 지출은 ‘손해’로 볼 수도 없다는 것이다.&lt;br&gt;&lt;br&gt;담배 제조 과정의 설계상·표시상 결함이 있다는 주장도 모두 인정되지 않았다. 재판부는 “설계상 결함이 인정되려면, 대체 설계를 채택했을 경우 위험이 실질적으로 감소한다는 점이 특정돼야 한다”며 “니코틴을 어느 수준까지 낮추면 안전하다고 일반화할 수 있는지에 대해 학계의 확립된 기준이 있다고 보기 어렵다”고 밝혔다. 흡연자마다 니코틴 흡수율과 흡연 습관이 달라 ‘안전한 함량 기준’을 정할 수 없다는 취지다.&lt;br&gt;&lt;br&gt;‘천공(미세 구멍) 필터’가 이른바 ‘보상 흡연’을 유발해 오히려 더 많은 연기를 흡입하게 만든다는 건보공단 주장에 대해서도 재판부는 “필터는 기본적으로 유해 물질 흡입을 줄이기 위해 도입된 설계”라며 “천공 없는 단순 필터가 더 안전한 대체 설계라고 일반화할 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 담배 회사가 경고 문구를 제대로 표시하지 않아 1960~1970년대 흡연자들이 담배의 중독성과 위험성을 알지 못한 채 흡연을 시작했다는 건보공단 주장도 배척했다. 재판부는 1960년대 이후 신문 기사와 연구 자료 등을 근거로 “담배가 건강에 해롭고 중독성이 있다는 점은 오래전부터 사회 전반에 알려져 왔다”고 했다. &lt;br&gt;&lt;br&gt;건보공단은 1심 패소 후 흡연이 암 발병률을 높인다는 의학적 근거를 재판부에 제출하며 인과관계 입증에 주력해 왔다. 흡연 외에 가족력·생활 습관 등 다른 발병 요인이 확인되지 않은 폐암 환자 1467명의 의무 기록 등을 제출했고, 작년에는 2004~2013년 민간 검진센터 수검자 13만6956명을 2020년까지 추적 관찰한 결과 ‘30년 이상 20갑년 이상’ 흡연자의 경우 비흡연자보다 폐암 발병률이 최대 55배가량 높다는 연구 결과를 발표하기도 했다.&lt;br&gt;&lt;br&gt;그러나 흡연과 암 발병 사이 인과관계에 대한 판단도 달라지지 않았다. 2심 재판부는 “역학적·통계적 상관관계만으로는 특정 개인의 질병 원인을 단정할 수 없다”며 “흡연 시기와 기간, 건강 상태, 생활 습관 등 개별 사정을 추가로 살펴야 한다”고 밝혔다. 이는 기존 대법원 판례의 입장이기도 하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검경 합수본, 통일교 압수 수색·윤영호 접견 조사 실시</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/15/DIP5CCVGC5BVFKWEWHFJN6Z5MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/DIP5CCVGC5BVFKWEWHFJN6Z5MA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 04:59:06 +0000</pubDate>
+      <content:encoded>‘정교 유착’ 의혹을 수사하는 검경 합동수사본부(합수본)가 15일 윤영호 전 통일교 세계본부장을 조사하고 있는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZWGZJYMZQTAYLFGZTDSMZYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치인 금품 수수 의혹을 폭로한 윤영호 전 통일교 세계본부장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합수본은 이날 오전부터 서울구치소를 찾아 수감 중인 윤씨를 접견 조사했다. 윤씨는 앞서 김건희 특검의 조사를 받으면서 전재수 더불어민주당 의원 등의 정치인 금품 수수 의혹을 처음으로 제기한 인물이다. 이번 조사는 합수본 내 경찰팀에서 진행한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 합수본은 지난 13일엔 경기도 가평군 설악면에 위치한 통일교 천정궁 일대와 통일교 관계자에 대한 압수 수색도 벌인 것으로 전해졌다. 합수본은 회계자료와 출입기록, 내부 컴퓨터 및 관계자 휴대전화 등을 확보한 것으로 알려졌다. 압수 수색 영장에 적시된 혐의는 정치자금법 위반 등이었다.&lt;br&gt;&lt;br&gt;합수본은 조만간 신천지에 대한 수사에도 본격적으로 착수할 전망이다. 신천지는 2021년 신도들을 조직적으로 동원해 국민의힘 경선에 개입했다는 이른바 ‘10만 신도 당원설’ 의혹을 받고 있다. 또 신천지는 앞서 이명박·박근혜 전 대통령이 당선된 대선 때도 교인들을 조직적으로 국민의힘 진영에 당원으로 가입시켜 당내 경선에 개입했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘하수 악취가 사라졌네’... 제주 도두 하수처리장 친환경시설로 변신</title>
+      <link>https://www.chosun.com/national/regional/2026/01/15/COSBHGICZBEGTFKQGLET2BT46I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/COSBHGICZBEGTFKQGLET2BT46I/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 05:07:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERQY3NWD25HZHILPVGKXP23N3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 도두동에 위치한 하수처리장./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 하수의 60%를 처리하는 제주시 도두동 하수처리장이 친환경시설로 탈바꿈했다. 여기에 한라산과 제주공항, 용담 앞 바다를 한 눈에 볼 수 있는 ’50m 전망대’가 조성되면서 관광 명소로 부상할 전망이다.&lt;br&gt;&lt;br&gt;제주도는 15일 제주 하수처리시설 현대화 1단계 사업을 완료했다고 밝혔다. 이번 현대화사업은 제주시 인구 증가에 따른 하수량 증가에 대비해 처리 용량을 하루 13만 t에서 22만 t으로 9만 t을 늘리는 것을 목표로 한다. 2028년 1월 전체 완공 예정이며, 현재 공정률은 54.1%다.&lt;br&gt;&lt;br&gt;이번 1단계 시설의 가장 큰 변화는 처리시설을 모두 땅 밑으로 옮겼다. 이에 따라 기존 하수처리시설이 지상에 있어 하수 악취가 퍼지기도 했으나, 이제는 하수처리 과정을 모두 지하 밀폐 공간에서 진행하도록 설계해 악취 발산을 원천 차단했다. &lt;br&gt;&lt;br&gt;특히 높이 50m의 통합배출구가 전망대로 만들어져 제주공항과 앞바다를 한눈에 볼 수 있게 됐다. 기존 배출구(17.5m)보다 30m 이상 높아져 배출 가스가 더 효과적으로 흩어진다. 엘리베이터가 설치된 3층 규모로, 한 번에 40~50명이 이용할 수 있다.&lt;br&gt;&lt;br&gt;새 시설 가동 후 수질이 크게 개선됐다. 대표적인 오염물질인 생물학적산소요구량(BOD)은 기존 리터(L) 당 4.7㎎에서 0.5㎎로 10분의 1 수준으로 떨어졌다. 법적 기준인 10㎎/L을 크게 밑도는 매우 우수한 수준이다. &lt;br&gt;&lt;br&gt;부유물질(물속 떠다니는 찌꺼기)도 리터당 7.4㎎에서 0.4㎎로 대폭 줄어 방류수가 훨씬 맑아졌으며, 대장균은 검출되지 않아 위생 안전성도 확보했다.&lt;br&gt;&lt;br&gt;주민들이 가장 불편해하던 악취 저감 효과도 뚜렷하다. 악취 정도를 나타내는 복합악취가 기존 300~400배수에서 절반 이하인 173배수로, 법적 기준(500배수 이하)을 대폭 하회하는 수준이다. 시설 전면 지하하와 완전 밀폐 설계, 무중단 공법 적용으로 공사 과정에서도 악취 발생을 최소화했다. &lt;br&gt;&lt;br&gt;제주도는 2단계 사업으로 전처리시설, 찌꺼기 처리시설, 분뇨 처리시설을 완공한다. 하수를 받아 큰 이물질을 걸러내고, 처리 과정에서 나오는 찌꺼기를 말려서 처리하는 핵심 시설이다. 12월 완공을 목표로 무중단 공법으로 공사를 진행해 하수 처리는 계속된다.&lt;br&gt;&lt;br&gt;내년에는 3단계로 시설 상부에 생태공원과 주민친화시설을 조성해 주민들이 찾는 친환경 문화공간으로 완성한다. &lt;br&gt;&lt;br&gt;좌재봉 제주도 상하수도본부장은 “1단계 완공으로 수질과 악취가 눈에 띄게 개선됐고, 50m 전망대는 새로운 명소가 될 것”이라며 “올해 핵심 시설을 완공하고 내년 공원까지 조성해 주민들이 찾는 친환경 공간으로 만들겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강도 살인죄로 20년 복역 전과자, 이번엔 60대女 살해  </title>
+      <link>https://www.chosun.com/national/regional/2026/01/15/2AZZQ2XVJFGGPFQGHBJEA64SV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/2AZZQ2XVJFGGPFQGHBJEA64SV4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 05:06:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVX2J24S5QA5IHHKMVWRVSWRKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치정 문제로 60대 여성을 살해한 혐의로 재판에 넘겨진 살인 전과자에게 검찰이 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 김주관)는 15일 살인 혐의로 기소된 50대 남성 A씨에 대한 결심 공판을 진행했다. 검찰은 이날 A씨에게 무기징역을 구형하고, 5년간 보호관찰과 30년간 위치추적 전자장치(전자발찌) 부착을 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “A씨는 살인죄 누범 기간 중 이 사건 범행을 저질렀으며 피해자를 살해한 직후 범행을 반성하거나 당황하기는커녕 오히려 범행의 증거가 될 수 있는 혈흔을 지우고 옷을 세탁하는 등 범행 은폐를 시도했다”며 “죄의식이 전혀 없는 것으로 보이며 사회에서의 영원한 격리가 필요하다”고 구형 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨 측은 이 사건 범행이 수면제를 다량 복용한 심신미약 상태에서 저지른 것이라고 주장했다. A씨는 이날 최후 진술에서 “피해자와 함께 목숨을 끊으려고 했지만 그러지 못한 점이 천추의 한”이라면서 “돌아가신 피해자와 유가족께 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 30일 오전 부산 북구 한 아파트에서 60대 여성 B씨를 흉기로 살해한 혐의를 받는다. A씨는 B씨에게 지속적으로 호감을 표현하고 수차례 돈을 빌려주기도 했지만, B씨가 이성 문제를 정리하지 않은 것에 불만을 품고 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2004년 부산 해운대구에서 지인과 함께 동업자를 살해하고, 현금과 신용카드를 훔쳐 사용한 혐의로 기소돼 징역 20년을 선고받고 복역한 전력도 있다.&lt;br&gt;&lt;br&gt;이번 사건 선고는 다음 달 12일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소상공인 상대로 38억 가로챈 캄보디아 ‘노쇼사기’ 일당 구속</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/15/FVAM54ZQUBE2NCFLRLJ5KF4K4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/FVAM54ZQUBE2NCFLRLJ5KF4K4I/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 04:59:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNFI6BZP2VHRNC6Z5ETKKADR6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검 보이스피싱 정부 합동수사부가 검거한 캄보디아 보이스피싱 조직./서울동부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군부대와 공공기관을 사칭해 국내 소상공인들을 상대로 ‘노쇼 사기’를 벌인 캄보디아 보이스피싱 일당이 붙잡혔다. &lt;br&gt;&lt;br&gt;서울동부지검 보이스피싱 정부 합동수사부(합수부)는 범죄단체 가입 및 활동, 통신사기피해환급법 위반 등의 혐의로 조직원 23명을 전원 구속기소 했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 캄보디아 시아누크빌을 거점으로 지난해 5월부터 11월까지 주요 기관 직원을 사칭해 소상공인 215명으로부터 38억원을 뜯어낸 혐의를 받는다. 주로 병원∙군부대∙대학 등을 사칭하고 업체에 대량 주문을 넣을 것처럼 접근한 뒤, 특정 업체에서만 파는 물품을 대신 결제해달라고 요구하고 잠적하는 노쇼 사기 수법을 쓴 것으로 드러났다. 1차 유인책이 특정 업체를 통한 대리구매를 요청하면 2차 유인책이 해당 업체를 사칭해 구매대금을 가로채는 식이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YCRXFECVZCZFB6APU3S77UZXY.png"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에 거점을 둔 보이스피싱 조직이 '노쇼 사기'를 벌이면서 제작한 허위 명함./서울동부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 총책∙한국인 총괄∙팀장∙유인책으로 이어지는 위계 구조를 갖추고 조직적으로 범행을 해온 것으로 나타났다. 범행 수법도 치밀했다. 병원∙대학교∙군부대 로고가 그려진 허위 명함이나, 국방부 명의로 된 허위 구매 공문서를 제작했다. 명함에는 ‘시설기획팀 업무 총괄’이라는 직책도 적혀있었다. &lt;br&gt;&lt;br&gt;지난해 소상공인을 노린 노쇼 사기 피해 신고가 전국적으로 접수된 바 있다. 합수부는 지난해 6월 국가정보원이 확보한 국제범죄 정보를 토대로 수사에 착수했다. 캄보디아 수사당국과 실시간 국제공조로 3개월 만에 23명을 검거했다. &lt;br&gt;&lt;br&gt;합수부는 외국에 체류 중인 것으로 파악되는 해당 조직 총책 등을 추적 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 여경 손가락 물어뜯은 유학생</title>
+      <link>https://www.chosun.com/national/regional/2026/01/15/FGNVICX3FJE4XDWDM67A53CG2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/FGNVICX3FJE4XDWDM67A53CG2M/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 05:02:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYVATS6BVBD37DH6OAQOCNOVTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 20대 유학생이 출동한 여경을 폭행하고 약지 손가락까지 물어뜯어 절단시켜 구속됐다.&lt;br&gt;&lt;br&gt;15일 제주 서귀포경찰서에 따르면 공무집행방해와 상해 혐의로 20대 대학생 A씨를 구속해 조사하고 있다. 구속 사유는 도주 우려 등이다. &lt;br&gt;&lt;br&gt;A씨는 지난 12일 오전 2시 40분쯤 서귀포시 대정읍 영어교육도시 내 한 식당에서 술에 취한 상태로 출동한 경찰관들을 폭행해 다치게 한 혐의다.&lt;br&gt;&lt;br&gt;영업이 종료됐지만 귀가하지 않는다는 업주의 신고를 받고 출동한 경찰은 A씨를 제지하는 과정에서 폭행을 당했다.&lt;br&gt;&lt;br&gt;A씨는 경찰관 한 명에게 주먹질과 발길질을 했고 특히 이를 말리던 여자 경찰관의 손가락 약지를 물어뜯어 약 1.5㎝를 절단시켰다.&lt;br&gt;&lt;br&gt;손가락이 절단된 경찰관은 병원에서 수술을 받았으며 전치 4개월의 부상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>상설특검, ‘쿠팡 퇴직금 미지급’ 고용부 실장·주임검사 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/15/PC73GMBAVNAMZME7YC42YAZLP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/PC73GMBAVNAMZME7YC42YAZLP4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 04:45:59 +0000</pubDate>
+      <content:encoded>‘쿠팡 퇴직금 수사 외압’ 의혹 등을 수사 중인 안권섭 특별검사팀이 쿠팡의 취업규칙 변경을 승인한 고용노동부 전 실장을 15일 소환했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSDIYZYMRTGEODEHEZGGYRUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관봉권·쿠팡 의혹 진상규명을 위한 안권섭 특검 현판./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 고용노동부 전 노동정책실장 김모씨를 참고인 신분으로 불러 조사하고 있다고 밝혔다. 특검은 쿠팡이 2023년 5월 근로자에게 불리한 방향으로 취업 규칙을 변경해, 사실상 상근 근로자에 해당하는 일용직 노동자들에게 퇴직금을 제대로 지급하지 않았다는 의혹을 들여다보고 있다.&lt;br&gt;&lt;br&gt;당시 쿠팡은 퇴직금 지급 기준을 기존의 ‘일용직 근로자도 1년 이상 근무하는 경우 주당 근로 시간이 15시간 미만인 기간만 제외’에서 ‘1년 이상 근무하고 주당 근로 시간이 15시간 이상인 경우’로 바꿨다. 근무 기간 중 하루라도 주당 근로 시간이 15시간에 미치지 않으면, 그날부터 퇴직금 산정 기간을 다시 계산하도록 한 것이다. 이를 두고 현장에서는 이른바 ‘퇴직금 리셋 규정’이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;특검은 김씨를 상대로 취업 규칙 변경 당시 노동부의 기준 설정과 관리·감독 내용, 신고 사건 처리 절차 전반을 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 퇴직금 미지급 사건의 주임 검사를 참고인 신분으로 재차 소환했다. 지난달 30일 첫 조사 이후 세 번째다. 특검 관계자는 “주임 검사를 피의자로 전환할지 여부는 내부 검토 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>中 바둑 부흥 이끈 ‘철의 수문장’ 녜웨이핑 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/01/15/C5HU6DBBGFAABBNLUHNGU2OVF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/15/C5HU6DBBGFAABBNLUHNGU2OVF4/</guid>
+      <dc:creator>양승수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 04:36:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQTEZRZHA4GCNLCHA4WEMBWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지병으로 별세한 녜웨이핑 9단. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 현대 바둑의 상징적 인물로 꼽히는 녜웨이핑(聶衛平·74) 9단이 14일 중국 베이징에서 지병으로 별세했다. &lt;br&gt;&lt;br&gt;중국바둑협회는 15일 “협회 명예 회장인 녜웨이핑 9단이 전날 밤 병으로 세상을 떠났다”고 밝혔다.&lt;br&gt;&lt;br&gt;1952년 중국 허베이성 선저우에서 태어난 녜웨이핑은 아홉 살 때 바둑을 배웠다. 1975년 중국바둑선수권대회에서 첫 우승을 차지하며 이름을 알렸고, 1979년까지 다섯 차례 정상에 오르며 중국 최정상 기사로 자리 잡았다. 1982년 9단에 올랐다.&lt;br&gt;&lt;br&gt;녜웨이핑의 이름을 중국 전역에 각인시킨 무대는 1985년부터 열린 ‘중·일 수퍼대항전’이었다. 그는 중국의 최종 주자로 나서 일본의 강호들을 연달아 꺾으며 11연승을 기록했다. ‘철의 수문장’이라는 별칭도 이때 붙었다. 중국 내 바둑 열풍의 출발점으로도 거론된다. 당시 중국은 일본을 바둑 종주국이자 최강으로 보던 시기였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTB3VU2HKI27LDUED5Y7GWB4TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국과 중국의 바둑 전설인 조훈현(왼쪽) 9단과 녜웨이핑(오른쪽) 9단이 1989년 열린 잉씨배 1회 대회에서 마주하고 있다. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 팬들에게는 1989년 제1회 잉씨배 세계바둑선수권 결승이 가장 익숙한 장면이다. 그의 한자 이름을 우리 식으로 읽어 섭위평이라는 이름으로도 널리 알려진 녜웨이핑은 결승 5번기에서 조훈현 9단과 맞붙어 5국까지 가는 접전 끝에 2대3으로 패했다. 이후에도 1990년 후지쓰배, 1995년 동양증권배 등 세계 대회에서 준우승을 기록했지만 끝내 우승컵과는 인연을 맺지 못했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRTOMLFME4WGN3GMZRTONRWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 세상을 떠난 중국 바둑 영웅 녜웨이핑의 현역 모습. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 지도자와 행정가로서도 영향력이 컸다. 1986년 중국 국가대표 바둑팀 총감독을 맡았고 후학 양성에 힘썼다. 창하오 9단, 구리 9단 등 중국 바둑을 이끈 차세대 기사들이 그의 이름과 함께 자주 언급된다.&lt;br&gt;&lt;br&gt;중국 바둑계는 녜웨이핑을 ‘부흥의 상징’으로 평가해 왔다. 국가체육위원회와 중국바둑협회로부터 ‘기성(棋聖)’ 칭호를 받은 것도 그런 맥락이다. 바둑 애호가로 알려진 시진핑 주석이 공식 석상에서 그를 만나 “중국 바둑의 자존심” 등으로 치켜세웠다는 일화도 여러 차례 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>천대엽 “사법부 배제한 개혁 전례 없어...구성원 목소리 귀 기울여달라”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/15/PJ6HQEDCNNDYZB7HY7FC4KPWQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/PJ6HQEDCNNDYZB7HY7FC4KPWQ4/</guid>
@@ -852,81 +933,6 @@
       <content:encoded>숙박비를 받고도 숙박 시설에 송금하지 않아 ‘숙박비 먹튀’ 논란으로 재판에 넘겨진 온라인 호텔 예약 대행사 에바종 대표가 1심에서 징역 1년을 선고받았다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 서울중앙지법 형사12단독 구창규 판사는 사기 혐의로 기소된 에바종 대표 에드몽 드 퐁뜨네에게 이같이 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGQZDHYHT3BIAKDIFTUT7XQJ7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퐁뜨네 대표는 회사 경영이 악화돼 호텔 이용료 등을 지불할 능력이 없었음에도 숙박 할인권 등 호텔 투숙 상품을 판매하고, 선입금으로 받은 숙박비를 숙박 시설에 송금하지 않은 혐의로 2023년 12월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;사건을 수사한 경찰은 범죄 피해액이 7억원을 넘는다고 보고 특정경제범죄가중처벌법상 사기 혐의를 적용해 사건을 검찰에 넘겼지만, 검찰은 범죄 형태가 다르고 개별 피해자의 피해액이 5억원을 넘지 않는다는 이유로 일반 사기 혐의를 적용했다.&lt;br&gt;&lt;br&gt;재판부는 “상품 판매 당시 에바종 운영 회사의 재무 상태는 굉장히 불량했다”며 “상품 판매 결정에 이르는 과정에서 수익 구조에 대한 면밀한 검토보다는 급박한 운영 자금 충당에 초점이 맞춰져 있었던 것으로 보인다”면서 “편취한 금액이 적지 않고 상당수 피해자가 피해를 회복하지 못하고 있다”고 했다. 다만 퐁트네 대표의 편취가 미필적인 것으로 보이는 점, 일부 피해자의 피해가 회복된 점 등을 양형에 참작했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘환경미화원 상습 폭행·강요’ 양양군 공무원, 법정서 혐의 모두 인정</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/14/BBDUF6PZEJA5BCPFIHV2B253HM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/BBDUF6PZEJA5BCPFIHV2B253HM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 04:24:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K54CSDLWHRJIPO37RJ4CM5VYYY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강원 양양군청 직장 내 괴롭힘 의혹 피의자 A 씨가 지난해  12월5일 춘천지법 속초지원에서 열린 구속 전 피의자 심문(영장실질심사)을 받은 후 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경미화원들을 상대로 수개월간 폭행과 강요를 일삼은 혐의로 강원 양양군청 소속 7급 운전직 공무원 A(43)씨가 법정에 섰다.&lt;br&gt;&lt;br&gt;춘천지법 속초지원 형사1단독 이은상 판사는 14일 강요·상습폭행·협박·모욕 혐의로 구속 기소된 A씨의 첫 공판을 열었다. &lt;br&gt;&lt;br&gt;A씨는 지난해 7월부터 11월까지 양양군 한 면사무소에서 쓰레기 수거 차량을 운행하며, 지휘 관계에 있던 20대 환경미화원 3명(공무직 1명·기간제 2명)에게 60차례 강요와 60차례 폭행, 10차례 협박, 7차례 모욕을 한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;검찰 공소장에 따르면 A씨는 차량을 일부러 먼 곳에 세워 피해자들을 뛰게 하거나, 고의로 천천히 운행해 업무를 방해하는 등의 방식으로 괴롭혔다. 주식 가격 하락을 이유로 “주가가 오를 때까지 비상계엄을 선포한다”, “말을 안 들으면 제물로 바치겠다”는 폭언을 하고, 피해자들에게 서로 발로 밟게 하는 ‘멍석말이’ 폭행도 강요한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 “주가를 올리려면 빨간 속옷을 입어야 한다”고 강요하고, 착용 여부를 확인하는가 하면 특정 주식 매수까지 강요했다. 또 담배꽁초와 불붙은 성냥을 던지고 비비탄 총을 쏘거나 물을 뿌리고 발로 차는 등 폭행을 반복한 것으로 드러났다. 수거차량을 운전하며 “다 같이 죽자. 보험금 5000만원 나온다”며 급히 핸들을 꺾어 위협한 혐의도 포함됐다. &lt;br&gt;&lt;br&gt;A씨는 이날 법정에서 공소사실을 모두 인정했다. 변호인 측은 “피고인이 깊이 반성하고 있다”고 밝혔다. 재판에 참석한 피해자들은 “엄중한 처벌을 내려 달라”고 호소했다.&lt;br&gt;&lt;br&gt;재판부는 “사안이 중대하고 국민적 관심도 크다”며 “피해 회복의 기회를 마련하겠다”고 했다. 다음 공판은 3월 11일 열린다.&lt;br&gt;&lt;br&gt;한편 고용노동부는 이번 사건과 관련해 직권조사에 착수하지 않는 등 양양군의 미흡한 대응을 지적하며 과태료 800만원을 부과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 카지노서 2억 날린 중국인, 호텔 객실서 환전상 잔혹 살해</title>
-      <link>https://www.chosun.com/national/regional/2026/01/14/R3PR2NTC35E3DLFKEJUDVQJPNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/14/R3PR2NTC35E3DLFKEJUDVQJPNQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 04:07:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPJOZPU2XNCLXKSML2CNCZDJOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 카지노에서 거액을 탕진한 후 환전상을 살해하고 현금을 빼앗은 중국인이 항소심에서도 무기징역을 선고받았다.&lt;br&gt;&lt;br&gt;광주고법 제주 형사1부(재판장 송오섭 부장판사)는 14일 강도살인, 범죄수익 은닉 규제 및 처벌 등에 관한 법률 위반 혐의를 받는 A(30대)씨에 대한 항소심 결심 공판에서 무기징역을 선고한 원심판결을 유지했다.&lt;br&gt;&lt;br&gt;공소사실에 따르면 A 씨는 지난해 2월 24일 제주시 소재 특급호텔 객실에서 환전상 B(30대)씨를 흉기로 12차례 찔러 살해하고 1억원 상당의 현금과 카지노 칩을 훔쳐 달아난 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;A 씨는 호텔 카지노에서 2억3000만원을 잃었고, 여권을 담보로 지인들에게 4억원 가량을 빚진 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A 씨는 채무 변제를 목적으로 범행을 계획한 뒤 중국에 머물던 공범 C 씨와 D 씨를 제주로 불렀다. A 씨는 환전을 핑계로 B씨를 객실로 유인한 뒤 미리 준비한 흉기로 범행을 저질렀다.&lt;br&gt;&lt;br&gt;A 씨는 범행으로 빼앗은 현금과 카지노 칩을 객실 밖에서 대기하던 공범들에게 전달했다. 공범들은 일명 ‘환치기 수법’으로 범죄수익을 은닉하는 데 동조했다.&lt;br&gt;&lt;br&gt;A 씨는 법정에서 살인 혐의를 인정하면서도 강도살인 혐의는 부인하고, 1심 이후 양형 부당을 이유로 항소했다.&lt;br&gt;&lt;br&gt;하지만 항소심 재판부는 “돈을 빼앗을 목적으로 범행을 계획했고, 잔혹한 범행 수법 등을 보아 살인 중에서도 죄질이 매우 중한 경우에 해당한다”며 “유족도 피고인에 대한 엄벌을 탄원하고 있고, 피고인을 사회로부터 격리할 필요가 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“9500원인데 카다이프 대신 소면이”... 두쫀쿠 열풍에 ‘사기’ 사례도</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/14/MJZ2A3CJ5JBCRNV3TKP5XQFSVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/14/MJZ2A3CJ5JBCRNV3TKP5XQFSVE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 01:15:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AAJMBMT6JEI7JM2GZNFSNDBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배달 플랫폼을 통해 두쫀쿠 불만 후기를 남긴 소비자들. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피스타치오 페이스트로 버무린 카다이프 면을 마시멜로로 감싼 형태의 디저트 ‘두바이 쫀득 쿠키’(두쫀쿠) 열풍이 이어지는 가운데, 일부 업자가 본래 재료와 요리법에서 벗어난 제품을 판매해 논란이 일고 있다. 얇고 식감이 좋은 카다이프 면 대신 두꺼운 소면을 쓰거나, 피스타치오 페이스트가 아닌 다른 크림을 사용하는 식이다. 전문가는 소비자를 오인하게 만드는 광고는 처벌 대상이 될 수 있다고 지적했다.&lt;br&gt;&lt;br&gt;14일 온라인상에는 ‘슬슬 나오는 두쫀쿠 사기 매물’ 등을 제목으로 두쫀쿠 피해 사례를 모아 놓은 게시물이 확산했다. 이를 보면, 업자가 ‘두쫀쿠’라는 이름으로 판매해 개당 5000원이 훌쩍 넘는 가격에도 구매했지만 먹어 보니 실제 두쫀쿠와 맛과 식감이 전혀 달랐다는 내용이 대부분이다. 이 외에도 온라인에 ‘두쫀쿠 사기’를 검색하면 관련 피해 사례를 쉽게 찾아볼 수 있다.&lt;br&gt;&lt;br&gt;두쫀쿠는 작년 유행한 두바이 초콜릿에서 착안해 국내에서 만들어진 디저트로, 겉은 쫀득하고 안은 바삭한 식감을 살린 것이 특징이다. 실처럼 가는 형태의 중동식 면 카다이프를 버터에 볶아 바삭하게 만든 후 피스타치오 크림을 섞어 속재료를 만들고, 이를 동그랗게 뭉친 뒤 코코아 가루와 함께 녹인 마시멜로로 얇게 감싸 만든다.&lt;br&gt;&lt;br&gt;다만 품절 대란으로 핵심 재료 수급이 어려워지자, 일부 업자들은 이런 재료와 요리법에서 벗어난 제품을 두쫀쿠라는 이름으로 판매하는 것으로 알려졌다. 한 소비자는 한 배달 플랫폼 리뷰에 “처음에 (속재료 보고) 멸치인 줄 알고 깜짝 놀랐다”며 “개당 9500원이면 작은 금액도 아닌데 카다이프가 없어서 이렇게 만든 거냐”고 했다. 또 다른 소비자도 “사진 속 내용물과 실제 내용물이 다르다. 소면을 넣으신 거냐”며 “어디에도 소면으로 제작했다는 정보가 없다. 이건 사기 아니냐”고 했다. 속이 퍽퍽해 보이는 질감의 사진과 함께 “2개 1만1000원에 구매했는데, 카다이프도 없고 겉이 마시멜로도 아니다”라며 “이런 걸 두쫀쿠로 판다니 속상하다”고 토로하는 네티즌도 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWU3J6TOFRGX7F5GUGLAQCPSY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소셜미디어에 올라온 두쫀쿠 '사기' 사례들. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGI35EIWJFBWZOC2U2ZEYA3ASQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌이 실제 두쫀쿠와 다른 제품이 배송됐다고 토로하고 있다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 사례를 접한 네티즌들은 “비싼 이유가 원가와 공정 때문인데 원가는 원가대로 낮추고 공정은 공정대로 안 지키면서 왜 가격은 다른 두쫀쿠 가격으로 받는 거냐” “돈은 비싸게 받고 싶은데 원재료에는 비싼 돈 쓰기 싫다는 생각은 도둑 심보와 다를 바 없다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이와 관련, 이돈호 변호사는 지난 9일 자신의 소셜미디어를 통해 “비싸게 판다고 해서 불법은 아니지만, 소비자를 오인하게 만드는 광고는 처벌 대상이 될 수 있다”고 지적했다. 그는 “만약 ‘100% 두바이산 최고급 피스타치오를 사용했다’고 광고해 1만2000원에 판매했는데 실제로는 저가 페이스트를 사용했다면, 이는 가격의 문제가 아니다”며 “소비자를 기만한 행위이고 원산지 표시법 위반에 해당할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;아울러 가격 논란에 대해서는 “판매자들 간 가격 담합이 있거나, 특정 업체가 시장을 독점해 가격을 좌우하는 경우에만 처벌이 가능하다”며 “단순히 가격을 올렸다는 이유만으로는 처벌할 수 없다”고 했다. 그러면서 “두쫀쿠는 쌀이나 물처럼 가격 규제를 받는 생필품이 아니라 기호식품”이라며 “피스타치오 스프레드와 카다이프 품귀 현상, 인건비 상승 등 원가 부담이 가격에 반영된 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 두쫀쿠 열풍으로 최근엔 디저트와 거리가 먼 국밥집, 한식당, 초밥집까지 마케팅 상품으로 두쫀쿠를 팔고 나섰다. 소비 침체로 어려움을 겪는 자영업자들이 두쫀쿠를 앞세워 손님을 끌어들이려는 묘수를 짜낸 것이다. 일부 매장에선 메뉴 하나를 시키면 두쫀쿠 하나를 구매할 수 있도록 하는 식으로 ‘끼워팔기’ 상술을 쓰기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UBX4VE654JEJTDNHW7GGD73HNE.jpg?auth=e5acc9011c9a1a8994d9c6ae6dab7512842c7baa1bdf6c1de97a79956f1f6af2&amp;smart=true&amp;width=277&amp;height=208" type="image/jpeg" height="208" width="277">
-        <media:description type="plain">배달 플랫폼을 통해 두쫀쿠 불만 후기를 남긴 소비자들. /온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>정성호 법무장관 “검찰 개혁, 국민 위한 제도 뭔지 숙의해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/14/LEOEBZN475EIJHMEXCSZYZEMJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/LEOEBZN475EIJHMEXCSZYZEMJM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 02:36:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C635FQYNO5IW5HTNYHYTTRJ62A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 지난 12일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 현재 추진 중인 검찰 개혁에 대해 “어떤 게 국민을 위한 가장 좋은 제도인지 논의를 잘 해봐야 한다”고 14일 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 이날 과천정부청사 출근길에서 기자들과 만나 이같이 말했다. 보완수사권 존치 여부에 대해 정 장관은 “이번 공소청 법안에는 보완수사에 관련한 조항이 하나도 없다”며 “보완수사 요구 문제는 추후에 시간을 갖고 논의할 예정”이라고 했다. 공소청과 중대범죄수사청의 조직 구성을 큰 틀에서 먼저 논의해야 한다는 것이다.&lt;br&gt;&lt;br&gt;앞서 지난 13일 김민석 국무총리가 “보완수사권에 대해서는 그동안 일관되게 폐지가 원칙임을 밝혀왔다”고 페이스북에 적은 것에 대해 정 장관은 “총리가 어떤 뜻으로 말씀하신 건지 제가 모르겠다”면서 “다만 대통령께서 (일본으로) 출국하면서 여러 의견을 잘 들어서 숙의를 했으면 좋겠다고 말씀하셨다”고 했다. 보완수사권을 없앤다고 단정할 수 없다는 취지다.&lt;br&gt;&lt;br&gt;정 장관은 검찰 개혁의 또 다른 핵심인 ‘수사-기소 분리’ 문제는 현 상황에서도 실현되고 있다고 했다. 그는 “이재명 정부가 출범한 이후에 수사 검사들은 기소에 참여하고 있지 않고, 사실상 경찰이 다 수사하고 검찰은 보완하는 정도”라며 “수사 검사들이 재판에 참여했던 관행 자체도 완전히 없어졌다”고 했다. 앞서 정 장관은 지난 12일 국회 법제사법위원회에서 “이재명 정부의 검찰은 과거와는 다르다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;개혁안에 대해 검찰개혁 자문위원회 등에서 반발이 나오는 상황에 대해선 “총리 산하의 자문위원님들의 거취에 관련해 제가 얘기하는 것은 적절치 않다”면서도 “지금 법안은 숙의 끝에 나왔지만 그래도 부족한 점이 있을 테니까 그런 점들은 국회에서 국민과 함께 차분하게 논의되기를 기대한다”고 했다.&lt;br&gt;&lt;br&gt;총리실 산하 검찰개혁추진단은 지난 12일 검찰청을 폐지하고, 공소청과 중수청을 신설하는 법안을 입법 예고했다. 다만 공소청에 보완수사권을 남길지 등 핵심 쟁점에 대해선 추후 논의하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울에 경기 광역버스 474대 투입…  버스 파업 이틀째 비상수송 대책</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/14/O767HV2G5VFZ5J7GSF2OQWFQRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/14/O767HV2G5VFZ5J7GSF2OQWFQRQ/</guid>
-      <dc:creator>수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 02:33:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZR2TJ6V665GM7L7SIHXZOFCSD4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청./경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시내버스 파업이 이틀째 이어지고 있는 가운데 경기도가 서울로 진입하는 광역버스를 무료로 운행하는 비상 수송 대책을 발표했다. &lt;br&gt;&lt;br&gt;김동연 경기도지사는 14일 경기도청 브리핑룸에서 서울시 시내버스 파업에 따른 도 비상 수송 대책 발표 기자회견을 열고 “날씨가 추워지고 도로 결빙이 우려되는 상황에서 대중교통 이용에 큰 지장을 받으셨을 도민 여러분의 고충에 깊이 공감하며 도민의 발이 멈추지 않도록 즉각적인 수송 대책을 시행하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;경기도는 15일 첫차부터 서울로 진입하는 경기도 광역버스 중 공공 관리제가 적용되는 41개 노선, 버스 474대를 전면 무료로 운행한다. &lt;br&gt;&lt;br&gt;승차무료 공공관리제 노선은 전체의 26.5%로, 고양 6개, 광명 4개, 군포 2개, 남양주 1개, 부천 1개, 안양 6개, 의정부 1개, 하남 2개, 성남 18개 등이다.&lt;br&gt;&lt;br&gt;김 지사는 ‘경기도 시내버스 공공관리제’로 무료 운행 조치가 가능하다고 설명했다. 김 지사는 “현재 우리 경기도는 약 3500억원 규모의 시내버스 공공관리제 예산을 확보하고 있다”며 “예산 문제로 도민의 교통 기본권이 침해받는 일은 결코 없을 것”이라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “파업의 원인이 어디에 있든 그로 인한 피해가 우리 경기도민에게 전가되는 것은 결코 용납할 수 없다”며 “파업이 종료되는 순간까지 현장을 철저히 관리하고 도민 여러분의 출퇴근길을 끝까지 책임지고 지키겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 경기도는 전날 서울시 파업으로 인한 128개 대체 노선에 1788대를 집중배차했다. 경기도를 경유하는 서울시 파업노선은 111개노선, 2505대다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “개인정보 유출, 손해 없었다면 ‘법정손배책임’도 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/14/FGIOQCNOTRHCRKHFZSMB6SBJWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/FGIOQCNOTRHCRKHFZSMB6SBJWQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 02:32:41 +0000</pubDate>
-      <content:encoded>해킹으로 고객의 개인정보가 유출됐더라도 고객에게 손해가 발생하지 않은 점을 입증하면 기업에 법정손해배상 책임을 물을 수 없다는 대법원 첫 판단이 나왔다. 법정손해배상 제도는 피해자 측에서 구체적인 손해를 입증하지 않더라도 사전에 법에서 정한 범위 내에서 손해배상을 청구할 수 있는 제도다. 이에 대해 대법원은 “피해자가 손해를 입증할 필요는 없지만, 손해가 발생하지 않은 경우까지 손해배상 의무가 인정되는 건 아니다”라고 판단했다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 유모씨가 지식거래 사이트 해피캠퍼스를 상대로 낸 손해배상청구 소송에서 원심의 원고 패소 판결을 지난달 상고 기각으로 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRWCMZXMU4TOMTGG5STINLBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 지난 2021년 9월 해피캠퍼스에서 해킹 사고가 발생해 원고를 포함한 40만3000여명의 개인정보가 유출된 게 발단이 됐다. 유씨는 암호화된 비밀번호와 이메일 주소가 유출되는 피해를 입었다. 유씨는 해피캠퍼스가 보안 대책을 소홀히 해 개인정보가 유출됐고, 이후 스팸 메일을 받고 있고, 보이스피싱을 비롯한 2차 피해가 우려된다는 등 정신적 손해를 주장하며 법정 손해배상금 30만원을 청구했다. 현행 개인정보보호법에 따르면, 개인정보처리자의 고의 또는 과실로 개인정보가 유출됐을 경우엔 최대 300만원의 법정손해배상을 청구할 수 있다.&lt;br&gt;&lt;br&gt;이 사건의 경우 1, 2심에 이어 대법원도 해피캠퍼스의 손해배상책임이 인정되지 않는다며 원고 패소로 판결했다. 대법원은 우선 “정보 주체는 개인정보처리자를 상대로 법정 손해배상을 청구하기 위해 개인정보가 유출됐다는 사실만 주장·증명하면 되고, 손해 발생 사실을 구체적으로 주장·증명할 필요는 없다”는 점을 전제로 했다. 이어 대법원은 “손해가 발생하지 않은 것이 분명한 경우까지 손해배상 의무를 인정하라는 것이 해당 조항의 취지는 아니다”라며 “개인정보처리자로서는 정보 주체에게 정신적 손해가 발생하지 않았음을 주장·증명해 법정 손해배상 책임을 면할 수 있다”고 봤다.&lt;br&gt;&lt;br&gt;대법원은 개인정보 유출로 인한 정신적 손해 발생 여부를 판단할 때는 ▲유출된 개인정보의 종류와 성격 ▲개인정보 유출로 정보 주체를 식별할 가능성이 발생했는지 ▲제3자가 유출된 개인정보를 열람했는지 ▲유출된 개인정보의 확산 범위 등을 고려해 구체적 사건에 따라 개별적으로 판단해야 한다고 판시했다. 다만 손해에 관한 증명 없이 피해자의 권리 구제가 가능하게 하려는 법정 손해배상 제도의 취지가 형해화되지 않도록 주의해야 한다고 덧붙였다.&lt;br&gt;&lt;br&gt;대법원은 해피캠퍼스 사건의 경우 유출된 비밀번호가 암호화돼 있어 제3자가 그 내용을 파악하거나 이용했을 가능성은 매우 낮고, 이메일 주소나 성명 등 다른 개인정보와 결합한 상태로 유출되지 않아 추가적 정보 없이 정보 주체가 누구인지 식별하기 어렵다고 판단했다. 이어 “이 사건에서 이메일 주소가 유출됐다고 해서 정보 주체에게 사생활·명예의 침해나 재산적 피해 등이 발생할 위험성은 낮고, 유출된 개인정보가 영리 목적으로 이용되거나 확산할 위험성도 높지 않아 보인다”며 유씨의 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘신세계 장녀’ 애니, 美 컬럼비아대 복귀...가수 활동 잠시 중단</title>
-      <link>https://www.chosun.com/national/people/2026/01/14/L4G5PLHWZRC45LLTZZKAXWBDAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/14/L4G5PLHWZRC45LLTZZKAXWBDAA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 02:30:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6T3YBFBYPRABZNKL3DCSTGIMQM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 올데이 프로젝트 멤버 애니./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 올데이 프로젝트 멤버 애니(본명 문서윤)가 잠시 가수 활동을 멈추고 미국으로 돌아가 학업에 전념한다.&lt;br&gt;&lt;br&gt;14일 소속사 더블랙레이블에 따르면 애니는 미국 컬럼비아대학교 2026년 봄 학기에 복귀해 당분간 학업에 집중할 예정이다.&lt;br&gt;&lt;br&gt;애니는 컬럼비아대학교에서 미술사학과 시각예술학을 전공 중이며, 학기가 끝나는 오는 5월까지 미국 현지에 머문다. 이 기간에도 학업과 병행해 중간에 예정된 팬사인회 등 일부 일정은 소화할 것으로 보인다. 다른 멤버들은 그동안 각자 음악 작업과 개인 활동에 나선다.&lt;br&gt;&lt;br&gt;애니는 데뷔 전부터 재계 출신 배경으로 주목받은 인물이다. 그는 이명희 신세계그룹 총괄회장의 외손녀이자 정유경 신세계 회장의 딸로, ‘재벌돌’이라는 수식어가 붙었다.&lt;br&gt;&lt;br&gt;가수 데뷔 과정에서 가족의 반대가 적지 않았던 사실도 알려진 바 있다. 애니는 데뷔 전 공개된 다큐멘터리에서 “가수 데뷔에 대한 가족들의 반대가 컸다. 그래도 포기하지 못하겠다고 하니 엄마가 대학에 붙으면 나머지 가족들 설득을 도와주겠다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;정유경 회장이 제시한 조건은 ‘아이비리그 진학’이었다. 애니는 “잠도 포기하며 입시 준비를 해서 대학에 붙었다”며 “엄마는 제가 진짜 합격할 줄 몰랐다더라”고 전했다.&lt;br&gt;&lt;br&gt;이후 올데이 프로젝트로 데뷔한 애니는 화제성과 함께 높은 관심을 받았다. 그는 최근 팬 플랫폼을 통해 “이 길을 선택하길 진짜 잘했다고 생각한다”고 소감을 밝히기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>창원국가산단 고무공장 화재...40명 대피 </title>
-      <link>https://www.chosun.com/national/2026/01/14/PYZTW3I5JVHQHAJXETFCGL5D24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/14/PYZTW3I5JVHQHAJXETFCGL5D24/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 02:36:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTH22C5QUNC2FANKOSM4QWT2AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 화재가 발생한 경남 창원시 성주동 한 공장. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 10시 13분쯤 경남 창원시 성산구 성주동 창원국가산업단지 내 고무 제품 제조 공장에서 불이 났다. &lt;br&gt;&lt;br&gt;창원소방본부는 장비 19대와 인력 70여 명을 투입해 불을 끄고 있다. 불이 나자 공장 관계자 등 40명이 대피했다. 현재까지 인명 피해는 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 당국은 오전 10시 34분쯤 관할 소방서 인력을 모두 동원하는 대응 1단계를 발령해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;이 불로 검은 연기가 치솟으면서 인근 주민 등의 119 신고가 빗발쳤다. 창원시는 오전 10시 46분쯤 ‘성주동 인근 공장 화재로 다량의 연기가 발생하고 있으니 통행에 주의해 주시길 바란다’는 내용의 안전 안내 문자를 보냈다. &lt;br&gt;&lt;br&gt;소방 당국은 불을 끄는 대로 구체적인 화재 경위와 피해 규모를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹, 한밤 최후진술... 끝내 사과는 없었다</title>
       <link>https://www.chosun.com/national/court_law/2026/01/14/W3SFSWGJF5EF3GCNNII4RCUNRE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/W3SFSWGJF5EF3GCNNII4RCUNRE/</guid>
@@ -938,15 +944,6 @@
         <media:description type="plain">윤석열 전 대통령이 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석하고 있다. 형사 법정에서 윤 전 대통령의 모습이 공개된 것은 지난 4월 내란 사건 재판 이후 약 5개월 만이다. 2025.9.26/뉴스1 ⓒ News1 사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu">koseongjoon</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>尹 내란 1심 2월 19일 선고... 결심 17시간 만에 종료</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/14/YQAAJ5KSSFEXJDK56P4YYN6Z6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/14/YQAAJ5KSSFEXJDK56P4YYN6Z6U/</guid>
-      <dc:creator>이민준 기자, 김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 Jan 2026 17:25:48 +0000</pubDate>
-      <content:encoded>조은석 내란 특검이 사형을 구형한 윤석열 전 대통령의 내란 우두머리 혐의 1심 선고가 내달 19일 나온다. 전날 오전 9시 30분 시작한 결심 공판은 17시간여 만인 14일 오전 2시 25분이 돼서야 마쳤다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 변론을 종결하면서 “2월 19일 목요일 오후 3시에 이 법정에서 선고한다”고 했다. 이날 재판은 417호 대법정에서 열렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSDMNBVGYYDSZJRMY4GCYZZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 관련 내란 우두머리 혐의로 기소된 윤석열 전 대통령과 내란 중요임무 종사 혐의를 받는 김용현 전 국방부 장관 등이 13일 서울 서초구 서울중앙지방법원 417호 형사대법정에 출석해 있다. /서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 결심은 총 두 차례에 걸쳐 진행됐다. 재판부는 당초 지난 9일 결심 공판을 진행하고 변론을 종결할 계획이었지만, 함께 재판받는 김용현 전 장관 변호인단의 서증조사가 8시간 넘게 이어지면서 윤 전 대통령 측의 서증조사가 이뤄지지 못했다. 이에 재판부가 전날을 추가기일로 지정했고, 이례적으로 2차 결심 공판이 열린 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 전날 오전 시작된 재판에서 9시간가량을 서증조사에 썼다. 특검의 최종의견 진술은 오후 8시 57분이 돼서야 시작됐다. 박억수 특검보는 12·3 비상계엄에 대해 “내란죄는 폭동에 의해 불법으로 국가 조직의 기본제도를 파괴함으로써 헌법이 설계한 민주적 기본 질서와 국가의 존립을 위태롭게 하는 범죄“라며 ”그 성격과 중대성에 있어 어떠한 범죄와도 비교될 수 없는 중대 범죄“라고 했다. 이어 ”피고인은 반성하지 않고 있다. 양형에 참작할 사유가 없다“며 ”법정형 중 최저형이 아니면은 사형밖에 없어 사형을 구형한다”고 했다.&lt;br&gt;&lt;br&gt;최후 진술에 나선 윤 전 대통령은 “근현대사에서 가장 짧은 계엄을 내란으로 몰아서 국내 모든 수사기관이 달려들어 수사했고, 초대형 특검까지 만들어 수사했다”며 “임무에 충실했던 수많은 공직자가 마구잡이로 입건·구속되고 무리한 기소가 남발됐다”고 했다. 이어 “저도 과거 26년간 수사와 공판을 담당했지만 이렇게 지휘 체계도 없이 중구난방으로 여러 수사기관이 미친 듯이 달려들어 수사하는 것은 처음 본다”며 “무조건 내란이란 목표로 수사 아닌 조작과 왜곡을 해왔다”고 했다. 윤 전 대통령은 그러면서 “대통령이 헌법에 따라 내린 비상계엄에서 계엄 사무를 맡았거나 지원 업무를 했다고 해서 (내란에 가담했다고) 얘기하는 것은 그야말로 망상이고 소설일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 내란 중요 임무 종사 혐의를 받는 김용현 전 국방장관에게 무기징역을, 조지호 전 경찰청장에게 징역 20년을 구형했다. 노상원 전 정보사령관에게는 징역 30년을, 김용군 예비역 육군 대령에겐 징역 10년을 구형했다. 김봉식 전 서울경찰청장은 징역 15년을 구형받았고, 목현태 전 서울경찰청 국회경비대장과 윤승영 전 경찰청 국가수사본부 수사기획조정관은 각각 징역 12년과 징역 10년을 구형받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>지금 돈 공부는 선택이 아니라 의무</title>
