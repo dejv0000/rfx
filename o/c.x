@@ -13,6 +13,95 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정부 “통합특별시에 20조 지원” 대전·충남 단체장 “기대에 못 미쳐”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/16/DXFXSQRBEVHNHFRYSBHRUQ2CE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/16/DXFXSQRBEVHNHFRYSBHRUQ2CE4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 05:10:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OJABNYUYFMXVC7F6EL5CU3NUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이장우 대전시장이 16일 오전 시청 브리핑룸에서 대전·충남 행정통합 관련 긴급 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이장우 대전시장과 김태흠 충남지사가 정부의 행정통합특별시 지원 방안에 대해 “기대에 상당히 못 미친다”며 실망감을 나타냈다.&lt;br&gt;&lt;br&gt;이장우 대전시장은 16일 시청에서 기자회견을 열고 “대통령이 그간 약속한 과감한 권한 이양과 지원에 비해 매우 미흡한 내용”이라고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “행정통합특별시 지원을 명확히 명문화해야 하는데 포괄적인 발표에 그쳤다”며 “4년간 20조원 지원 외에 재정 확보나 재정권에 대한 구체적 언급이 없다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “고도의 자치권·조직권·인사권·사무 이양과 관련해 일부 긍정적인 발표도 있었다”면서도 “국가직이면서 예산은 지방정부가 부담하는 소방본부나 자치경찰제의 조직·인사권 등은 명확한 정리가 필요하다”고 강조했다. &lt;br&gt;&lt;br&gt;김태흠 지사도 이날 도청 기자회견에서 “재정 지원 등 인센티브 방안을 발표했지만 실망스럽다”고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “정부 발표는 대전시와 충남도가 요구한 권한·재정을 담은 특례 조항 257개와 결이 다르고 미흡하다”며 “전면적 세제 개편을 법제화 없이 4년간 한시 지원하는 방식은 중장기 운영에 부담될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;또 “예비타당성 조사 면제나 국가산단 지정 등 논의됐던 내용이 빠졌다”고 지적했다.&lt;br&gt;&lt;br&gt;김 지사는 “대전·충남이 제시한 법안을 숙고해 다시 결단해 달라”고 요청했다.&lt;br&gt;&lt;br&gt;앞서 김민석 총리는 이날 정부서울청사에서 행정통합 인센티브 브리핑을 열고, 통합 특별시에 연간 최대 5조원, 4년간 최대 20조원을 지원하고 서울시에 준하는 지위를 부여하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 비상계엄 적법했나... 법원 첫 판단 나온다</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/16/TG7AUE4YDFDSZFMAWTHWE3ASKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/TG7AUE4YDFDSZFMAWTHWE3ASKY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 04:43:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCRB4LIRWZPGNLPLAASQPSKF4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 13일 서울 서초구 서울중앙지방법원 417호 형사대법정에서 열린 내란 우두머리 혐의 결심공판에서 최후진술하고 있다. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 ‘체포 방해’ 등 혐의 사건 1심 선고가 16일 오후 2시 시작됐다. 윤 전 대통령이 피고인으로 받고 있는 8건의 형사재판 가운데 처음 결론이 나오는 것이다. 이날 선고 공판은 TV로 생중계된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 이날 선고를 통해 12·3 비상계엄 선포 과정에서 불법 행위가 있었는지, 공수처의 내란 수사 및 체포영장 집행에 절차적 하자가 있었는지에 대해 처음으로 사법적 판단을 내놓게 된다.&lt;br&gt;&lt;br&gt;이 재판의 최대 쟁점은 윤 전 대통령이 지난해 1월 3일 대통령경호처 직원을 동원해 공수처의 체포영장 집행을 방해한 혐의다. 윤 전 대통령 측은 공수처의 내란죄 수사권과 영장 발부 절차 자체에 중대한 위법이 있어 애초에 정당한 공무 집행이 아니었고, 경호처 조치는 대통령 관저에 대한 정당한 시설 보호였다고 맞서왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOX2OWJZHBGF7DBD4AICWKTZQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울중앙지방법원에서 열린 윤석열 전 대통령 체포방해등 혐의 1심 선고 공판에서 백대현 재판장이 선고 요지를 읽고 있다 ./KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNG7754IGFHIRJ32G3XFZP7HWI.png"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울중앙지방법원에서 열린 윤석열 전 대통령 체포방해등 혐의 1심 선고 공판 모습./KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령이 12·3 비상계엄을 선포하면서 국무회의 심의를 사실상 무력화했는지에 대한 판단도 나온다. 특검은 윤 전 대통령이 특정 국무위원만 소집해 나머지 위원들의 심의 참여를 원천적으로 배제했고 의사정족수가 채워지자마자 실질적 토론 없이 계엄을 선포해 계엄 심의권을 침해했다고 본다. 윤 전 대통령 측은 비상계엄은 보안 유지가 불가피했고 실제로 국무위원 11명이 참석해 실질적인 논의가 이뤄졌다고 주장한다.&lt;br&gt;&lt;br&gt;비상계엄 선포문을 사후에 작성·폐기한 행위도 쟁점이다. 특검은 절차적 하자를 은폐하기 위해 사후에 국무총리와 국방장관의 부서가 있는 것처럼 허위 공문서를 작성·행사했고, 이후 이를 파쇄해 공용서류 손상과 대통령기록물법을 위반했다고 봤다. 윤 전 대통령은 계엄 선포 후 외신 대변인에게 허위 내용이 담긴 프레스 가이던스(PG)를 배포하도록 지시하고, 내란 수사 개시 이후에는 주요 군 사령관들의 비화폰 통화 기록을 수사기관이 볼 수 없게 조치하라고 지시해 증거인멸을 시켰다는 혐의도 받는다. &lt;br&gt;&lt;br&gt;특검은 지난달 26일 결심 공판에서 윤 전 대통령에게 총 징역 10년을 구형했다. 체포영장 집행 방해 혐의에 징역 5년, 국무위원 심의·의결권 침해와 허위 공보 지시, 비화폰 증거 인멸 혐의에 징역 3년, 비상계엄 선포문 사후 작성·폐기 혐의에 징역 2년을 선고해 달라고 요청했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 선고 일주일 전인 지난 9일 재판부에 “심리가 더 필요하다”며 변론 재개를 신청하고 전날(15일)에는 선고 기일 연기 신청서까지 제출했으나 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2XIJGBKBAZAKLEBSPCDYQII4DI.png?auth=a6d6ade1034ba5f5d3cb134220dc9368ade52a9906b35dfc3c5b40236f9b4011&amp;smart=true&amp;width=2820&amp;height=1628" type="image/png" height="1628" width="2820">
+        <media:description type="plain">16일 오후 서울중앙지방법원에서 열린  체포 방해 등 혐의 1심 선고 공판에 윤석열 전 대통령이 입장하고 있다./KBS</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[속보] 서울 서대문역 인근 건물에 시내버스 돌진...부상자 13여 명, 중상자 2명</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/16/JVPJ7YA22RDFHMRYSBURWM63SE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/JVPJ7YA22RDFHMRYSBURWM63SE/</guid>
+      <dc:creator>장윤 기자, 정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 04:41:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OQVIQVQBVIRBOMTS6OZS2QHAA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 중구 NH농협은행 본점영업부를 시내버스가 들이받는 사고가 발생해 경찰과 소방당국이 이를 수습하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 1시 15분쯤 서울 중구 서대문역 사거리에서 704번 시내버스가 인도를 덮쳐 NH농협은행 본점영업부로 돌진하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;경찰에 따르면 현재까지 부상자는 버스 운전자 포함 총 13명으로, 이중 중상자는 2명이다.&lt;br&gt;&lt;br&gt;사고 당시 버스를 운전하던 기사에게서 음주 정황은 발견되지 않았다. 경찰은 다만 정확한 사고 원인을 파악하기 위해 약물 검사 등을 진행할 예정이다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 사고 경위와 피해 규모를 조사하고 있다. &lt;br&gt;&lt;br&gt;현재 사고 수습을 위해 통일로 일부 구간이 통제되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4OQVIQVQBVIRBOMTS6OZS2QHAA.JPG?auth=a51c4a236883be1c8ca154fabb4067323fb68a660dfe540380dd8054676908e2&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">(서울=뉴스1) 황기선 기자 = 16일 오후 서울 중구 NH농협은행 본점영업부를 시내버스가 들이받는 사고가 발생해 경찰과 소방당국이 이를 수습하고 있다. 2026.1.16/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 황기선 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[Dr.이은봉의 의학 연구 다이제스트] 밀가루에 예민한 장? 모르게 먹였더니 ‘멀쩡’</title>
+      <link>https://www.chosun.com/medical/2026/01/15/43DBO4J6ARD2TLIK3OORPCSBSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/01/15/43DBO4J6ARD2TLIK3OORPCSBSY/</guid>
+      <dc:creator>이은봉</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Jan 2026 15:51:00 +0000</pubDate>
+      <content:encoded>과민성 대장증후군은 대장에 뚜렷한 병리 소견이 없으면서도 자주 배가 아프고 설사와 변비가 반복되는 질환이다. 한 해 140만여 명이 이 질환으로 의료기관을 찾는다. 환자들 상당수는 밀가루와 글루텐이 들어간 음식을 먹으면 장 증상이 악화된 경험이 있어서 빵을 포함한 밀가루와 글루텐 음식을 먹지 않으려 한다. 최근 국제학술지 랜싯 소화기 편에 글루텐에 과민성이 있다고 호소하는 환자들이 실제로 그런지를 조사한 연구가 발표됐다.&lt;br&gt;&lt;br&gt;연구는 과민성 대장증후군 환자로서 밀가루 음식을 먹으면 증상이 생겨서 글루텐-프리 식이를 실천하는 캐나다인 28명을 대상으로 했다. 먼저 밀가루/글루텐이 포함되지 않은 시리얼바(영양 간식)와 밀가루가 들어간 것, 글루텐이 들어간 것을 동일한 모양, 색깔, 맛을 갖도록 제작했다. 연구 대상자들이 3종류 시리얼바를 무작위 순서로 각각 일주일씩 먹게 한 후, 그 기간마다 소화기 증상이 어떤지를 조사했다.&lt;br&gt;&lt;br&gt;그 결과, 소화기 증상이 증가한 환자 수는 밀가루 시리얼바에서 11명, 글루텐 시리얼바는 10명, 밀가루/글루텐이 없는 시리얼바에서는 8명이었다. 통계적으로 차이가 없었다. 과민성 대장증후군 증상 점수도 각 군 간에 차이가 없었다.&lt;br&gt;&lt;br&gt;과민성 대장증후군 환자들은 뇌와 대장과의 상호작용을 통해 신경의 예민한 변화가 장 증상을 유발한다. 밀가루를 먹고 나서 장 증상을 한 번 경험하게 되면, 밀가루를 볼 때마다 장 증상이 생길 것이라는 믿음이 생겨서 실제로는 밀가루나 글루텐이 문제를 일으키지 않아도 장 증상을 경험하게 되는 것으로 추정된다. 뇌-장 신경 반사에 당하는 꼴이다. 환자들은 밀가루 음식이 실제로 문제를 일으키는지, 제대로 테스트해 볼 필요가 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ULL5QPHHUVDRRAIOX3Y7C3HOPI.jpg?auth=98dfa24c57315226884d1113c22627028cede8c47e971e81cb01259967db7029&amp;smart=true&amp;width=480&amp;height=322" type="image/jpeg" height="322" width="480">
+        <media:description type="plain">밀가루 중심의 정제 탄수화물 중심 식단은 이성적 매력에도 영향을 미친다는 연구결과가 6일 발표됐다 /조선DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘임금체불’ 박영우 전 대유위니아 회장, 추가 사건도 실형… 징역 6개월</title>
+      <link>https://www.chosun.com/national/incident/2026/01/16/53CJSFYRCJCGVJPRAAGY6KBRHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/16/53CJSFYRCJCGVJPRAAGY6KBRHU/</guid>
+      <dc:creator>성남=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 04:37:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHJX2OO5HSDKTQQOHUDCAFB7IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영우 전 대유위니아 그룹 회장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백억 원대 임금·퇴직금을 체불한 혐의로 1심에서 징역 4년을 선고받고 항소심 재판을 받고 있는 박영우 전 대유위니아그룹 회장이 추가 기소된 임금 체불 사건에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 수원지법 성남지원 형사11단독 강면구 판사는 근로기준법·근로자퇴직급여보장법 위반 혐의로 기소된 박 전 회장에게 징역 6개월을 선고했다. 다만 재판부는 도주 우려가 없다는 이유 등으로 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;같은 사건으로 기소된 계열사 전·현직 대표이사들에게는 징역형의 집행유예가 선고됐다. 김혁표 위니아 대표이사는 징역 3년에 집행유예 4년과 벌금 1000만원을, 박현철 위니아전자 대표이사는 징역 1년에 집행유예 2년을 선고받았다. 안병덕 전 위니아전자 대표이사는 징역 4개월에 집행유예 1년, 위대성 전 위니아 MF 대표이사는 징역 1년 6개월에 집행유예 3년을 각각 선고받았다.&lt;br&gt;&lt;br&gt;재판부는 “박영우 피고인은 그룹 회장으로서 계열사 재정 상황이 악화해 임금 등을 지급하지 못하게 된 것에 대해 가장 책임이 크다고 여겨지고, 다른 피고인들도 각 회사의 대표이사 등으로 재직하면서 이 같은 상황을 막지 못한 책임이 존재한다”고 판시했다.&lt;br&gt;&lt;br&gt;이번 사건에서 박 전 회장은 근로자 70여 명의 임금과 퇴직금 등 15억원을 체불한 혐의를 받는다. 나머지 계열사 전·현직 대표이사들은 각각 140억원, 9억원, 4000만원, 25억원 규모의 임금·퇴직금을 체불한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;박 전 회장은 별개 사건으로 2020~2023년 위니아전자와 위니아 근로자 800여 명의 임금·퇴직금 470여억원을 체불한 혐의로 지난해 2월 징역 4년을 선고받고 항소심 재판을 받고 있다. 그는 구속 기간 만료를 앞두고 신청한 보석이 인용돼 지난해 9월부터 불구속 상태로 재판을 받고 있다. 검찰과 피고인 측은 이번 판결에도 모두 불복해 항소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘분당 흉기난동’ 유족에 4억4000만원 배상 판결…최원종 부모 책임은 불인정</title>
+      <link>https://www.chosun.com/national/incident/2026/01/16/J3YYYDPEA5E3TE2YN2XWAEBQCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/16/J3YYYDPEA5E3TE2YN2XWAEBQCA/</guid>
+      <dc:creator>성남=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 04:29:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DANLBGA3DGZLDMI2GCMJSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14명의 사상자를 낸 '서현역 흉기난동' 사건 피의자 최원종. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 경기 성남시 분당 서현역 일대에서 흉기 난동을 벌여 시민 2명을 숨지게 하고 12명을 다치게 한 최원종(25)이 피해자 유족에게 손해를 배상해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 제3민사부(재판장 송인권)는 16일 고(故) 김혜빈(사건 당시 20세)씨 유족이 최씨와 그의 부모를 상대로 8억8000여 만원을 배상하라며 낸 손해배상 청구 소송에서 “최씨는 김씨의 유족에게 4억4000여 만원을 배상하라”고 판결했다. 다만 최씨 부모에 대한 배상 청구는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 이날 선고 이유를 따로 밝히지 않았다. 유족 측 소송 대리인은 항소할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;최씨는 2023년 8월 3일 성남시 분당구 AK플라자 분당점 인근 서현역 일대에서 승용차로 인도로 돌진해 시민 5명을 들이받은 뒤, 백화점 내부로 들어가 흉기를 휘둘러 9명을 다치게 한 혐의로 재판에 넘겨졌다. 이 사건으로 김씨와 이희남(당시 65세)씨가 치료 중 숨졌고, 나머지 피해자들도 중경상을 입었다. 최씨는 2024년 11월 무기징역이 확정됐다.&lt;br&gt;&lt;br&gt;김씨 유족은 형사 처벌과 별개로 민사상 책임도 묻겠다며 지난해 5월 소송을 제기했다. 유족 측은 최씨가 범행 전 피해망상을 호소하고 흉기를 구입·소지하는 등 위기 징후가 있었는데도, 부모가 이를 막기 위한 조치를 제대로 하지 않았다고 주장하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>혈흔 자국에 드러난 거짓말… 소주병으로 지인 찌른 50대 ‘징역 7년’</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/16/3K7GRBESFVGZVIA5VDPNSU43QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/3K7GRBESFVGZVIA5VDPNSU43QM/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>소주병으로 지인을 찌른 50대가 1심에 이어 항소심에서도 중형을 선고받았다.
+서울고법 춘천재판부 형사1부(재판장 이은혜)는 특수중상해 혐의로 기소된 A(55)씨에게 원심과 같은 징역 7년을 선고했다고 16일 밝혔다.
+</description>
+      <pubDate>Fri, 16 Jan 2026 04:23:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2TSYRXMZTDEYJZGI3DKOBZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지방법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소주병으로 지인을 찌른 50대가 1심에 이어 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 특수중상해 혐의로 기소된 A(55)씨에게 원심과 같은 징역 7년을 선고했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 12월 강원 강릉시 한 식당에서 지인 B(53)씨와 술을 마시던 중 깨진 소주병으로 B씨의 눈과 이마를 찔러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 당시 소주병으로 자신의 머리를 내리쳐 깨뜨린 뒤 범행을 저질렀으며, B씨는 이 사건으로 한쪽 눈이 실명됐다.&lt;br&gt;&lt;br&gt;A씨는 1심에 이어 항소심 과정에서도 “몸싸움 도중 바닥에 함께 뒹구는 과정에서 소주병 파편에 피해자의 눈이 찔렸을 가능성이 있다”며 혐의를 부인했다. 그러나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “식당 벽면과 탁자 등에 생긴 ‘핏자국’의 위치와 형태 등을 보면 바닥이 아니라 탁자에 앉아 있는 상태에서 눈 부위에 상처를 입은 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통합하면 최대 20조원 지원 정부 발표에 광주·전남 “환영”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/16/2QZQ2LFUCVD7RNWKXTL6TIMS7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/2QZQ2LFUCVD7RNWKXTL6TIMS7M/</guid>
+      <dc:creator>광주광역시=진창일 기자, 무안=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 04:20:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OSJP7XTK5JFNKQ5Q5N4NHBWS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정(왼쪽) 광주광역시장과 김영록 전남지사가 9일 오후 광주 서구 김대중컨벤션센터에서 열린 광주ㆍ전남 행정통합 시도민 보고회에서 합의문을 발표한 뒤 기념사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시와 전남도가 한 몸으로 통합하면 4년간 최대 20조원의 재정 지원을 하겠다는 정부 발표에 시·도지사들이 환영의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 16일 광주시청에서 기자들과 만나 “김민석 국무총리가 직접 통합 특별시에 대한 지원 방안을 신속히 발표해 주신 데 대해 감사드린다”며 “이번 지원은 단순한 재정 투자를 넘어 광주·전남이 하나의 생활권이자 하나의 경제권으로 도약하는 출발점이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 정부 서울청사에서 브리핑을 열고 대전·충남, 광주·전남 통합 특별시에 행정 통합 인센티브로 각각 연 최대 5조원씩 4년간 최대 20조원을 지원하겠다고 밝혔다. 또 서울특별시에 준하는 지위와 자치권을 주고, 공공기관을 주로 이전받을 수 있는 혜택도 주겠다고 했다.&lt;br&gt;&lt;br&gt;강 시장은 “이번 발표는 예산 규모 약 25조원에 이르는 ‘광주·전남특별시’ 탄생을 예고하는 것”이라며 “이는 서울·경기에 이은 세 번째 규모”라고 했다.&lt;br&gt;&lt;br&gt;이어 “충북 청주시와 청원군이 통합할 때 4600억원, 경남 창원·마산·진해 때는 4400억원 정부 지원이 있었던 것을 감안하면 연간 5조원은 큰 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;김영록 전남지사도 정부 발표 뒤 전남도청에서 열린 시·군 상생 협력 간담회에서 “4년간 20조원을 지원하면 통합시가 적극적으로 미래를 향해서 출범할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 정부가 제시한 공공기관 우선 이전 지원안에 대해 “농협중앙회와 수협중앙회, 지역난방공사, 환경관리공단, 한국공항공사 등이 우리 지역에 오면 큰 힘이 될 것”이라며 “(공공기관) 유치에 적극 나서겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7OSJP7XTK5JFNKQ5Q5N4NHBWS4.jpg?auth=403099a9bc09b124cdfe60c62961b7b00f091b9fd0d5c27dd433aa6decf530e3&amp;smart=true&amp;width=3024&amp;height=2248" type="image/jpeg" height="2248" width="3024">
+        <media:description type="plain">강기정(왼쪽) 광주광역시장과 김영록 전남지사가 9일 오후 광주 서구 김대중컨벤션센터에서 열린 광주ㆍ전남 행정통합 시도민 보고회에서 합의문을 발표한 뒤 기념사진을 찍고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">조남수</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>대법, ‘옵티머스 펀드 돌려막기’ 하나은행 직원 무죄 확정…“단순 장부 처리”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/16/BFDBGXTY6RGA7PTNEI3MI67ZEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/BFDBGXTY6RGA7PTNEI3MI67ZEY/</guid>
@@ -807,24 +896,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42GGM3EMJRWGOBUMY2TGMBUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 편의점에서 직원이 담배를 정리하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험공단이 국내외 주요 담배 회사들을 상대로 낸 이른바 ‘담배 소송’ 항소심에서도 패소했다. 법원은 1심과 마찬가지로 “건보공단의 보험 급여 지출은 손해배상 청구의 대상이 될 수 없다”며 건보공단의 항소를 기각했다.&lt;br&gt;&lt;br&gt;서울고등법원 민사6부(재판장 박해빈)는 15일 건보공단이 KT&amp;amp;G와 한국필립모리스, BAT코리아 등을 상대로 낸 손해배상 청구 소송 항소심에서 “원고의 항소를 모두 기각한다”고 판결했다. 이번 사건은 공단이 30년 넘게 20갑년 이상으로 흡연한 폐암·후두암 환자 3465명에 대해 2003년부터 2012년까지 지급한 급여비 약 533억원을 담배 회사들이 배상해야 한다며 2014년 제기한 소송이다.&lt;br&gt;&lt;br&gt;건보공단은 담배 회사들이 유해 성분인 ‘타르’, 중독을 일으키는 ‘니코틴’ 등을 줄이는 방식으로 상대적으로 안전한 담배를 생산할 수 있는데도 그러지 않고 ‘저타르’ ‘저니코틴’ 등 소비자를 속이는 광고 문구로 흡연을 조장한 것이 불법 행위라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 1심에 이어 2심도 담배 회사 손을 들어줬다. 재판부는 먼저 “건보공단이 지급한 보험 급여는 국민건강보험법에 따른 보험자의 의무 이행에 불과하다”며 “그 자체로 공단의 보호 법익이 침해됐다고 보기 어렵다”고 판단했다. 건보공단의 보험급여 지출은 ‘손해’로 볼 수도 없다는 것이다.&lt;br&gt;&lt;br&gt;담배 제조 과정의 설계상·표시상 결함이 있다는 주장도 모두 인정되지 않았다. 재판부는 “설계상 결함이 인정되려면, 대체 설계를 채택했을 경우 위험이 실질적으로 감소한다는 점이 특정돼야 한다”며 “니코틴을 어느 수준까지 낮추면 안전하다고 일반화할 수 있는지에 대해 학계의 확립된 기준이 있다고 보기 어렵다”고 밝혔다. 흡연자마다 니코틴 흡수율과 흡연 습관이 달라 ‘안전한 함량 기준’을 정할 수 없다는 취지다.&lt;br&gt;&lt;br&gt;‘천공(미세 구멍) 필터’가 이른바 ‘보상 흡연’을 유발해 오히려 더 많은 연기를 흡입하게 만든다는 건보공단 주장에 대해서도 재판부는 “필터는 기본적으로 유해 물질 흡입을 줄이기 위해 도입된 설계”라며 “천공 없는 단순 필터가 더 안전한 대체 설계라고 일반화할 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 담배 회사가 경고 문구를 제대로 표시하지 않아 1960~1970년대 흡연자들이 담배의 중독성과 위험성을 알지 못한 채 흡연을 시작했다는 건보공단 주장도 배척했다. 재판부는 1960년대 이후 신문 기사와 연구 자료 등을 근거로 “담배가 건강에 해롭고 중독성이 있다는 점은 오래전부터 사회 전반에 알려져 왔다”고 했다. &lt;br&gt;&lt;br&gt;건보공단은 1심 패소 후 흡연이 암 발병률을 높인다는 의학적 근거를 재판부에 제출하며 인과관계 입증에 주력해 왔다. 흡연 외에 가족력·생활 습관 등 다른 발병 요인이 확인되지 않은 폐암 환자 1467명의 의무 기록 등을 제출했고, 작년에는 2004~2013년 민간 검진센터 수검자 13만6956명을 2020년까지 추적 관찰한 결과 ‘30년 이상 20갑년 이상’ 흡연자의 경우 비흡연자보다 폐암 발병률이 최대 55배가량 높다는 연구 결과를 발표하기도 했다.&lt;br&gt;&lt;br&gt;그러나 흡연과 암 발병 사이 인과관계에 대한 판단도 달라지지 않았다. 2심 재판부는 “역학적·통계적 상관관계만으로는 특정 개인의 질병 원인을 단정할 수 없다”며 “흡연 시기와 기간, 건강 상태, 생활 습관 등 개별 사정을 추가로 살펴야 한다”고 밝혔다. 이는 기존 대법원 판례의 입장이기도 하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검경 합수본, 통일교 압수 수색·윤영호 접견 조사 실시</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/15/DIP5CCVGC5BVFKWEWHFJN6Z5MA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/DIP5CCVGC5BVFKWEWHFJN6Z5MA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 04:59:06 +0000</pubDate>
-      <content:encoded>‘정교 유착’ 의혹을 수사하는 검경 합동수사본부(합수본)가 15일 윤영호 전 통일교 세계본부장을 조사하고 있는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZWGZJYMZQTAYLFGZTDSMZYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치인 금품 수수 의혹을 폭로한 윤영호 전 통일교 세계본부장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합수본은 이날 오전부터 서울구치소를 찾아 수감 중인 윤씨를 접견 조사했다. 윤씨는 앞서 김건희 특검의 조사를 받으면서 전재수 더불어민주당 의원 등의 정치인 금품 수수 의혹을 처음으로 제기한 인물이다. 이번 조사는 합수본 내 경찰팀에서 진행한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 합수본은 지난 13일엔 경기도 가평군 설악면에 위치한 통일교 천정궁 일대와 통일교 관계자에 대한 압수 수색도 벌인 것으로 전해졌다. 합수본은 회계자료와 출입기록, 내부 컴퓨터 및 관계자 휴대전화 등을 확보한 것으로 알려졌다. 압수 수색 영장에 적시된 혐의는 정치자금법 위반 등이었다.&lt;br&gt;&lt;br&gt;합수본은 조만간 신천지에 대한 수사에도 본격적으로 착수할 전망이다. 신천지는 2021년 신도들을 조직적으로 동원해 국민의힘 경선에 개입했다는 이른바 ‘10만 신도 당원설’ 의혹을 받고 있다. 또 신천지는 앞서 이명박·박근혜 전 대통령이 당선된 대선 때도 교인들을 조직적으로 국민의힘 진영에 당원으로 가입시켜 당내 경선에 개입했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘하수 악취가 사라졌네’... 제주 도두 하수처리장 친환경시설로 변신</title>
-      <link>https://www.chosun.com/national/regional/2026/01/15/COSBHGICZBEGTFKQGLET2BT46I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/COSBHGICZBEGTFKQGLET2BT46I/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 05:07:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERQY3NWD25HZHILPVGKXP23N3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 도두동에 위치한 하수처리장./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 하수의 60%를 처리하는 제주시 도두동 하수처리장이 친환경시설로 탈바꿈했다. 여기에 한라산과 제주공항, 용담 앞 바다를 한 눈에 볼 수 있는 ’50m 전망대’가 조성되면서 관광 명소로 부상할 전망이다.&lt;br&gt;&lt;br&gt;제주도는 15일 제주 하수처리시설 현대화 1단계 사업을 완료했다고 밝혔다. 이번 현대화사업은 제주시 인구 증가에 따른 하수량 증가에 대비해 처리 용량을 하루 13만 t에서 22만 t으로 9만 t을 늘리는 것을 목표로 한다. 2028년 1월 전체 완공 예정이며, 현재 공정률은 54.1%다.&lt;br&gt;&lt;br&gt;이번 1단계 시설의 가장 큰 변화는 처리시설을 모두 땅 밑으로 옮겼다. 이에 따라 기존 하수처리시설이 지상에 있어 하수 악취가 퍼지기도 했으나, 이제는 하수처리 과정을 모두 지하 밀폐 공간에서 진행하도록 설계해 악취 발산을 원천 차단했다. &lt;br&gt;&lt;br&gt;특히 높이 50m의 통합배출구가 전망대로 만들어져 제주공항과 앞바다를 한눈에 볼 수 있게 됐다. 기존 배출구(17.5m)보다 30m 이상 높아져 배출 가스가 더 효과적으로 흩어진다. 엘리베이터가 설치된 3층 규모로, 한 번에 40~50명이 이용할 수 있다.&lt;br&gt;&lt;br&gt;새 시설 가동 후 수질이 크게 개선됐다. 대표적인 오염물질인 생물학적산소요구량(BOD)은 기존 리터(L) 당 4.7㎎에서 0.5㎎로 10분의 1 수준으로 떨어졌다. 법적 기준인 10㎎/L을 크게 밑도는 매우 우수한 수준이다. &lt;br&gt;&lt;br&gt;부유물질(물속 떠다니는 찌꺼기)도 리터당 7.4㎎에서 0.4㎎로 대폭 줄어 방류수가 훨씬 맑아졌으며, 대장균은 검출되지 않아 위생 안전성도 확보했다.&lt;br&gt;&lt;br&gt;주민들이 가장 불편해하던 악취 저감 효과도 뚜렷하다. 악취 정도를 나타내는 복합악취가 기존 300~400배수에서 절반 이하인 173배수로, 법적 기준(500배수 이하)을 대폭 하회하는 수준이다. 시설 전면 지하하와 완전 밀폐 설계, 무중단 공법 적용으로 공사 과정에서도 악취 발생을 최소화했다. &lt;br&gt;&lt;br&gt;제주도는 2단계 사업으로 전처리시설, 찌꺼기 처리시설, 분뇨 처리시설을 완공한다. 하수를 받아 큰 이물질을 걸러내고, 처리 과정에서 나오는 찌꺼기를 말려서 처리하는 핵심 시설이다. 12월 완공을 목표로 무중단 공법으로 공사를 진행해 하수 처리는 계속된다.&lt;br&gt;&lt;br&gt;내년에는 3단계로 시설 상부에 생태공원과 주민친화시설을 조성해 주민들이 찾는 친환경 문화공간으로 완성한다. &lt;br&gt;&lt;br&gt;좌재봉 제주도 상하수도본부장은 “1단계 완공으로 수질과 악취가 눈에 띄게 개선됐고, 50m 전망대는 새로운 명소가 될 것”이라며 “올해 핵심 시설을 완공하고 내년 공원까지 조성해 주민들이 찾는 친환경 공간으로 만들겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강도 살인죄로 20년 복역 전과자, 이번엔 60대女 살해  </title>
       <link>https://www.chosun.com/national/regional/2026/01/15/2AZZQ2XVJFGGPFQGHBJEA64SV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/15/2AZZQ2XVJFGGPFQGHBJEA64SV4/</guid>
@@ -852,24 +923,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYVATS6BVBD37DH6OAQOCNOVTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 20대 유학생이 출동한 여경을 폭행하고 약지 손가락까지 물어뜯어 절단시켜 구속됐다.&lt;br&gt;&lt;br&gt;15일 제주 서귀포경찰서에 따르면 공무집행방해와 상해 혐의로 20대 대학생 A씨를 구속해 조사하고 있다. 구속 사유는 도주 우려 등이다. &lt;br&gt;&lt;br&gt;A씨는 지난 12일 오전 2시 40분쯤 서귀포시 대정읍 영어교육도시 내 한 식당에서 술에 취한 상태로 출동한 경찰관들을 폭행해 다치게 한 혐의다.&lt;br&gt;&lt;br&gt;영업이 종료됐지만 귀가하지 않는다는 업주의 신고를 받고 출동한 경찰은 A씨를 제지하는 과정에서 폭행을 당했다.&lt;br&gt;&lt;br&gt;A씨는 경찰관 한 명에게 주먹질과 발길질을 했고 특히 이를 말리던 여자 경찰관의 손가락 약지를 물어뜯어 약 1.5㎝를 절단시켰다.&lt;br&gt;&lt;br&gt;손가락이 절단된 경찰관은 병원에서 수술을 받았으며 전치 4개월의 부상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>상설특검, ‘쿠팡 퇴직금 미지급’ 고용부 실장·주임검사 참고인 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/15/PC73GMBAVNAMZME7YC42YAZLP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/PC73GMBAVNAMZME7YC42YAZLP4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 04:45:59 +0000</pubDate>
-      <content:encoded>‘쿠팡 퇴직금 수사 외압’ 의혹 등을 수사 중인 안권섭 특별검사팀이 쿠팡의 취업규칙 변경을 승인한 고용노동부 전 실장을 15일 소환했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSDIYZYMRTGEODEHEZGGYRUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관봉권·쿠팡 의혹 진상규명을 위한 안권섭 특검 현판./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 고용노동부 전 노동정책실장 김모씨를 참고인 신분으로 불러 조사하고 있다고 밝혔다. 특검은 쿠팡이 2023년 5월 근로자에게 불리한 방향으로 취업 규칙을 변경해, 사실상 상근 근로자에 해당하는 일용직 노동자들에게 퇴직금을 제대로 지급하지 않았다는 의혹을 들여다보고 있다.&lt;br&gt;&lt;br&gt;당시 쿠팡은 퇴직금 지급 기준을 기존의 ‘일용직 근로자도 1년 이상 근무하는 경우 주당 근로 시간이 15시간 미만인 기간만 제외’에서 ‘1년 이상 근무하고 주당 근로 시간이 15시간 이상인 경우’로 바꿨다. 근무 기간 중 하루라도 주당 근로 시간이 15시간에 미치지 않으면, 그날부터 퇴직금 산정 기간을 다시 계산하도록 한 것이다. 이를 두고 현장에서는 이른바 ‘퇴직금 리셋 규정’이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;특검은 김씨를 상대로 취업 규칙 변경 당시 노동부의 기준 설정과 관리·감독 내용, 신고 사건 처리 절차 전반을 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 퇴직금 미지급 사건의 주임 검사를 참고인 신분으로 재차 소환했다. 지난달 30일 첫 조사 이후 세 번째다. 특검 관계자는 “주임 검사를 피의자로 전환할지 여부는 내부 검토 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>中 바둑 부흥 이끈 ‘철의 수문장’ 녜웨이핑 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/15/C5HU6DBBGFAABBNLUHNGU2OVF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/15/C5HU6DBBGFAABBNLUHNGU2OVF4/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 04:36:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQTEZRZHA4GCNLCHA4WEMBWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지병으로 별세한 녜웨이핑 9단. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 현대 바둑의 상징적 인물로 꼽히는 녜웨이핑(聶衛平·74) 9단이 14일 중국 베이징에서 지병으로 별세했다. &lt;br&gt;&lt;br&gt;중국바둑협회는 15일 “협회 명예 회장인 녜웨이핑 9단이 전날 밤 병으로 세상을 떠났다”고 밝혔다.&lt;br&gt;&lt;br&gt;1952년 중국 허베이성 선저우에서 태어난 녜웨이핑은 아홉 살 때 바둑을 배웠다. 1975년 중국바둑선수권대회에서 첫 우승을 차지하며 이름을 알렸고, 1979년까지 다섯 차례 정상에 오르며 중국 최정상 기사로 자리 잡았다. 1982년 9단에 올랐다.&lt;br&gt;&lt;br&gt;녜웨이핑의 이름을 중국 전역에 각인시킨 무대는 1985년부터 열린 ‘중·일 수퍼대항전’이었다. 그는 중국의 최종 주자로 나서 일본의 강호들을 연달아 꺾으며 11연승을 기록했다. ‘철의 수문장’이라는 별칭도 이때 붙었다. 중국 내 바둑 열풍의 출발점으로도 거론된다. 당시 중국은 일본을 바둑 종주국이자 최강으로 보던 시기였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTB3VU2HKI27LDUED5Y7GWB4TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국과 중국의 바둑 전설인 조훈현(왼쪽) 9단과 녜웨이핑(오른쪽) 9단이 1989년 열린 잉씨배 1회 대회에서 마주하고 있다. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 팬들에게는 1989년 제1회 잉씨배 세계바둑선수권 결승이 가장 익숙한 장면이다. 그의 한자 이름을 우리 식으로 읽어 섭위평이라는 이름으로도 널리 알려진 녜웨이핑은 결승 5번기에서 조훈현 9단과 맞붙어 5국까지 가는 접전 끝에 2대3으로 패했다. 이후에도 1990년 후지쓰배, 1995년 동양증권배 등 세계 대회에서 준우승을 기록했지만 끝내 우승컵과는 인연을 맺지 못했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRTOMLFME4WGN3GMZRTONRWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 세상을 떠난 중국 바둑 영웅 녜웨이핑의 현역 모습. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 지도자와 행정가로서도 영향력이 컸다. 1986년 중국 국가대표 바둑팀 총감독을 맡았고 후학 양성에 힘썼다. 창하오 9단, 구리 9단 등 중국 바둑을 이끈 차세대 기사들이 그의 이름과 함께 자주 언급된다.&lt;br&gt;&lt;br&gt;중국 바둑계는 녜웨이핑을 ‘부흥의 상징’으로 평가해 왔다. 국가체육위원회와 중국바둑협회로부터 ‘기성(棋聖)’ 칭호를 받은 것도 그런 맥락이다. 바둑 애호가로 알려진 시진핑 주석이 공식 석상에서 그를 만나 “중국 바둑의 자존심” 등으로 치켜세웠다는 일화도 여러 차례 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법 “피자헛 차액가맹금 반환해야”… 프랜차이즈 ‘유통 마진’ 관행 제동</title>
       <link>https://www.chosun.com/national/court_law/2026/01/15/QQU3QM3BCVH77LVW57BL3YYBIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/QQU3QM3BCVH77LVW57BL3YYBIY/</guid>
@@ -888,27 +941,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52Q4RJNODJMHPJUET2EN2LRBY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 체포 방해 및 비화폰 기록 삭제 혐의 사건 선고를 하루 앞둔 15일 서울 서초구 서울중앙지방법원에 경찰 질서유지선이 설치되어 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 16일 열리는 윤석열 전 대통령의 체포 방해 등 사건 1심 선고 장면이 TV로 생중계된다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 특수공무집행방해 등 사건을 맡고 있는 서울중앙지법 형사35부(재판장 백대현)는 15일 “방송사의 중계방송 신청을 허가함에 따라 법원 자체 장비로 촬영한 영상을 방송사에 실시간 송출할 예정”이라고 밝혔다. 선고는 16일 오후 2시 311호 법정에서 열린다.&lt;br&gt;&lt;br&gt;과거 박근혜 전 대통령과 이명박 전 대통령의 경우도 1심 재판이 생중계됐다. 2018년 4월 박근혜 전 대통령의 국정농단 혐의 사건 1심 선고가 처음으로 생중계됐고, 같은 해 7월 박 전 대통령의 국가정보원 특수활동비 수수 사건 1심 선고가 중계됐다. 그해 10월엔 이명박 전 대통령의 다스 사건 1심 선고가 생중계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>친일파 후손 땅 58억원어치…법무부, 소송으로 되찾는다</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/15/HYYGVDDFCJEIDDYTXBVNLOHRAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/HYYGVDDFCJEIDDYTXBVNLOHRAE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 02:30:07 +0000</pubDate>
-      <content:encoded>법무부가 친일파 후손들이 보유한 땅을 국가가 돌려받기 위한 법적 절차에 나섰다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 친일반민족행위자인 신우선·박희양·임선준의 후손이 소유한 경기 고양시 일산동구 토지 등 24필지(약 4만5000㎡)에 대해 소유권이전등기 및 부당이득반환을 구하는 소송을 서울중앙지법 등에 제기했다고 밝혔다. 이 토지들의 가액은 약 58억4000만원에 달하는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;법무부는 일제강점기 토지조사부와 임야조사부, 폐쇄등기부등본 등 각종 자료를 확인하고, 국가기록원에 보관 중인 친일반민족행위자재산조사위원회의 조사 기록을 검토해 이들의 땅을 찾아냈다. 법무부는 이 토지들이 일제에 협력한 대가로 취득한 친일 재산에 해당하고, 매각 대금 환수가 가능하다고 판단해 소송에 나섰다고 설명했다. &lt;br&gt;&lt;br&gt;신우선은 일제강점기 조선총독부 중추원 부찬의로 활동하며 한국병합기념장과 다이쇼대례기념장을 서훈받는 등 친일반민족행위를 했다. 박희양 역시 조선총독부 중추원 부찬의와 참의로 활동하며 한국병합기념장을 받은 인물이다. 임선준은 고종의 강제 퇴위와 한·일 신협약(정미 7조약) 체결에 적극 협력해 일제로부터 자작 작위를 받고 한국병합기념장을 서훈받았다.&lt;br&gt;&lt;br&gt;‘친일반민족행위자 재산의 국가 귀속에 관한 특별법’ 제3조에 따르면 러·일 전쟁 개전 시부터 광복 때까지 일제에 협력한 대가로 취득한 재산은 국가에 귀속된다. 다만 제3자가 정당한 대가를 지급하고 친일반민족행위자의 후손 등으로부터 해당 재산을 취득한 경우에는, 국가는 매각 대금을 부당이득으로 환수할 수 있다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “친일반민족행위로 형성된 재산을 국가에 귀속시켜 3·1운동의 헌법 이념을 구현하겠다”며 “환수가 보다 철저히 이뤄지도록 친일 재산 조사 위원회를 재설치하는 내용의 법안 제정에도 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국회의원은 공천권 쥐고, 지방의원은 이권 챙겼다</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/15/PF4ATR5UDVDRPHGBGIDLRDVREE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/PF4ATR5UDVDRPHGBGIDLRDVREE/</guid>
-      <dc:creator>강지은 기자, 장윤 기자, 김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:57:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2DEOBYGUZDOMTFMVRTIMLBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진 왼쪽부터 무소속 강선우 의원과 김경 서울시의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 불거진 더불어민주당 김병기·강선우 의원의 ‘공천 헌금’ 수수 의혹은 정치권에 뿌리 깊게 남아 있는 국회의원과 지방의원 간 유착 관계를 수면 위로 끌어올렸다. 지역 주민을 대변해야 할 지방의원들이 의정 활동을 하는 대신 공천권을 쥔 국회의원들의 ‘비서’나 ‘집사’ 역할에 열중했다는 사실이 드러난 것이다. 전문가들은 “단순한 갑을(甲乙) 관계를 넘어 정치 후원금과 이권 등으로 얽힌 경우도 많다”고 지적했다. &lt;br&gt;&lt;br&gt;김 의원의 공천 헌금 수수와 아들 부정 편입 의혹의 ‘키맨’은 이지희 서울 동작구의원이다. 그는 2020년 구의원들에게서 공천 헌금을 걷어 김 의원의 아내에게 전달했다는 의혹을 받고 있다. 2022년 김 의원 차남의 숭실대 편입을 위해 직접 대학을 찾아가거나 입시 브로커를 소개했다는 의혹도 있다. 사실상 김 의원 가족 일까지 도맡아 처리한 것이다. 정치권 관계자는 “이 구의원이 김 의원 아내의 심복 역할을 했다”며 “시시콜콜한 개인 심부름까지 전담했던 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LU5DHUEFWRCIVA3ZW5ZQQKDEYQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 구의원은 2018년 비례대표로 구의회에 입성했다. 2022년 지역구를 받아 재선에 성공했고 부의장까지 됐다. 지역에선 그 배경에 김 의원이 있다는 말이 나온다.&lt;br&gt;&lt;br&gt;김 의원의 아내는 조진희 전 동작구의회 부의장이 갖고 있던 구의회 법인카드를 사적으로 썼다는 의혹도 받고 있다. &lt;br&gt;&lt;br&gt;지난달 3일 서울 강동구의회 본회의에선 황당한 일이 벌어졌다. 민주당 소속 구의원들이 “지역 행사에 참석한 지역구 국회의원의 배우자가 발언 기회를 얻지 못했다”며 구청장에게 항의한 것이다.&lt;br&gt;&lt;br&gt;지방선거를 앞두고 공천을 받기 위해 지역구 국회의원이나 지역위원장(당협위원장)에게 금품을 전달하는 관행도 여전하다. 공천 헌금에 시세가 있다는 말도 돈다. 한 전직 국회의원은 “서울 기준으로 구청장은 5000만원, 시의원은 3000만원, 구의원은 2000만원 안팎을 내야 한다”며 “당선 가능성이 높은 지역은 금액이 배 이상 뛴다”고 했다. 김경 서울시의원이 2022년 지방선거 때 민주당 강세 지역인 강서구에 출마하기 위해 강 의원에게 건넸다고 알려진 돈은 1억원이다. 경기도의 한 전직 시의원은 “공천 헌금은 지방의원이 국회의원을 압박할 수 있는 무기가 되기도 한다”며 “공천을 도와주지 않으면 기자회견을 열겠다고 협박하는 지방의원도 봤다”고 했다.&lt;br&gt;&lt;br&gt;정치권에선 “지역구 국회의원들이 지방의원이 낸 ‘공천 헌금’으로 자기 선거를 치른다”는 말이 공공연하게 나온다. 그 경로는 후원금, 출판기념회, 경조사 등으로 다양하다. &lt;br&gt;&lt;br&gt;투명사회를 위한 정보공개센터에 따르면, 2018년 이후 당선된 서울시의원 중 7명은 지역구 국회의원에게 연간 300만원이 넘는 고액을 후원한 것으로 나타났다. 이들은 “정치자금법상 허용된 범위 내에서 후원한 것”이라고 설명하지만 “시의원이 공천권을 쥔 지역구 국회의원에게 고액을 후원하는 게 적절하냐”는 지적이 나온다. 김병기 의원 지역구의 전직 구의원 2명이 민주당에 낸 탄원서에도 이들이 2020년 총선 전 김 의원의 아내 등에게 공천을 대가로 3000만원을 줬다는 내용이 담겨 있다. &lt;br&gt;&lt;br&gt;지방의원들이 국회의원에게 수천만원을 상납하다시피 하고 ‘집사’ 역할까지 도맡아 하는 건 누릴 수 있는 권한과 이권이 크기 때문이다. &lt;br&gt;&lt;br&gt;서울 지역의 한 구의원은 “부동산 사업을 하다 구의원이 되니 구청 공무원들이 인사하는 각도가 달라지더라”며 “단번에 을에서 갑이 됐다”고 했다. 경기도의 한 시의원은 “정치권에선 지방의원을 무시할지 몰라도 지역에선 어디 가나 VIP 대접을 받는다”며 “시장도 자기 공약을 추진하려면 시의원들 눈치를 안 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;지방의원들은 지역의 크고 작은 사업에 영향력을 발휘한다. &lt;br&gt;&lt;br&gt;전북 지역의 한 시의원은 태양광 업체에서 8600만원을 수수한 혐의로 기소돼 지난해 징역 5년 6개월에 벌금 9000만원을 선고받았다. 그는 당시 태양광 사업을 심의하는 시의회 도시계획위원으로 활동했다.&lt;br&gt;&lt;br&gt;수도권의 한 청소업체 관계자는 “지방의원을 끼지 않고선 지역에서 청소 등 용역을 따낼 수가 없다”며 “작은 입찰, 인허가까지 지방의원의 입김이 미치지 않는 곳이 없다”고 했다.&lt;br&gt;&lt;br&gt;지방의원은 의정 활동비라고 불리는 연봉도 만만치 않다. 서울시의원은 연 7200만원, 구의원은 연 4000만~5000만원 수준이다. 겸업도 가능해 대부분 당선 전 하던 사업을 계속한다. 수도권의 전직 시의원은 “학원장이 교육위원회, 공인중개사가 도시계획위원회에 들어가 활동하는 경우도 있다”고 했다.&lt;br&gt;&lt;br&gt;최창렬 용인대 교양학부 교수는 “사실상 지방의원이 지역에서 얻은 이익을 국회의원과 공유하는 이권 카르텔이 작동하는 셈”이라며 “국회의원의 지방의원 공천권을 배제하지 않는 한 지방의회에 대한 불신은 사라지지 않을 것”이라고 했다. 이재묵 한국외대 정치외교학과 교수는 “의정 활동 실적과 공천 과정을 투명하게 공개해 지방의원들이 국회의원보다 주민들을 더 신경 쓰게끔 만들어야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5LUEZN56FBAKDPQH7UROYQM73U.jpg?auth=6c388b8f792f2d0ab13dfd0ff69b1e58a076de1aada572dfcdda9b12a6cf5238&amp;smart=true&amp;width=1169&amp;height=658" type="image/jpeg" height="658" width="1169">
-        <media:description type="plain">지난 2022년 5월 김경 서울시의원 후보의 유세를 돕는 강선우 의원. / 강선우 의원 블로그</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>변비 환자 절반이 65세 이상… 천연 변비 완화제 ‘프룬’이 뜬다</title>
       <link>https://www.chosun.com/medical/2026/01/15/HGKFHTBYKBGITOXADILXYNKSMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/01/15/HGKFHTBYKBGITOXADILXYNKSMQ/</guid>
@@ -916,16 +948,6 @@
       <description/>
       <pubDate>Wed, 14 Jan 2026 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLSTZZUC6BEITLLLARKXMCHK5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;변비 개선하는 소르비톨을 함유한 프룬./게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김모(72) 씨는 요즘 아침이 두렵다. 식사를 마치고 화장실에 앉아도 소식이 없다. 사흘에 한 번 겨우 배변을 하는데, 그마저도 딱딱해서 오래 힘을 줘야 한다. 병원 검사에서는 특별한 장질환이 없다고 했다. “나이 들면 다 그렇다”는 말로 넘기기엔, 복부 불편과 식욕 저하, 우울감까지 겹친다.&lt;br&gt;&lt;br&gt; 고령 인구가 늘면서 ‘질병이 없어도’ 변비로 고생하는 사람이 증가하고 있다. 2024년 변비로 의료기관을 찾은 환자는 68만5000여 명, 그중 65세 이상이 33만7000여 명으로 절반(49%)을 차지한다.&lt;br&gt;&lt;br&gt; 고령자에게 변비가 늘어나는 이유는 나이 들면 노화로 장운동 자체가 느려지기 때문이다. 대변이 대장을 통과하는 시간이 길어진다. 그 과정에서 수분이 빠져 대변이 딱딱해진다. 항문·직장 감각의 둔화로 변이 마려운 줄을 잘 모르는 경우도 있다. 변이 직장으로 내려와도 배변 신호를 늦게 느끼고 참게 된다. 변의를 조금이라도 느끼면, 바로 화장실을 가는 게 좋다. 복근의 약화로 변을 밀어내는 힘도 약해진다. &lt;br&gt;&lt;br&gt;걷지 않으면 장도 안 움직인다. 활동량이 적은 노인은 변비 발생 위험이 커진다. 나이 들면 ‘목마름 감각’의 노화로 수분 섭취가 충분하지 않을 수 있는데, 그러면 대변이 딱딱해지기 쉽다. 식이섬유를 많이 먹어도 수분 섭취를 먼저 충분히 하지 않으면 대변량이 늘지 않을 수 있다.&lt;br&gt;&lt;br&gt; 고령자 만성 변비를 줄이려면, 대변을 부드럽게 만들고, 대장 연동을 촉진해야 한다. 최근 이런 요소들을 개선하는 식품으로 프룬(말린 서양자두)이 관심을 끈다. &lt;br&gt;&lt;br&gt;프룬이 변비를 개선하는 핵심 성분은 소르비톨(sorbitol)이다. 이는 자두 속에 있는 천연 당 알코올로, 장내 수분을 유지하는 작용을 한다. 소르비톨이 ‘물먹는 하마’처럼 대변에 머물러 있으면서 수분을 끌어와, 경미한 삼투성 설사를 유도한다. 변을 묽게 하는 효과다. 그래서 프룬은 자연에서 나온 삼투성 완하제로 불린다. 보라색 껍질 속 폴리페놀 성분이 장내 미생물 환경을 개선하여 배변 환경을 좋게 하기도 한다. 프룬 외에 소르비톨이 많이 함유된 식품은 사과, 키위, 배, 아보카도, 가지 등이다.&lt;br&gt;&lt;br&gt; 만성 변비가 있다면, 위-대장 신경 반사를 이용하여 식사 후 변의가 오면 바로 화장실에 가는 게 좋다. 걷기는 장운동이라고 생각하고 자주 걸어야 한다. 수분 섭취를 충분히 하면서, 식이섬유 섭취를 늘리는 것이 좋다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[대변 묽게 하여 변비 개선하는 소르비톨 함유 식품]&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;과일&lt;/b&gt;&lt;br&gt;&lt;br&gt;프룬(말린 서양자두), 사과, 키위, 배, 체리, 복숭아, 자두&lt;br&gt;&lt;br&gt;&lt;b&gt;채소&lt;/b&gt;&lt;br&gt;&lt;br&gt;아보카도, 옥수수(스위트콘), 가지, 순무, 청경채, 일부 버섯, 당근, 고구마, 양배추&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대·충’ 통합 놓고, 정청래 “법 통과 먼저” 장동혁 “협의 먼저”</title>
-      <link>https://www.chosun.com/politics/assembly/2026/01/15/Z24QCQWNHVEBBFC4MOF7I3BNVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/01/15/Z24QCQWNHVEBBFC4MOF7I3BNVY/</guid>
-      <dc:creator>김경필 기자, 김상윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:57:00 +0000</pubDate>
-      <content:encoded>여야 지도부는 14일 행정 통합 논의가 한창인 충남과 대전을 찾았다. 민주당은 “충남·대전 통합을 반드시 이루겠다”며 6·3 지방선거 전 통합을 약속했다. 국민의힘은 “이 문제는 급하게 밀어붙일 사안이 아니다”라며 “민주당이 일방 추진하면 지방선거를 앞둔 정략적 의도로 해석될 수 있으니 여야가 국회에 특별위원회를 만들어 논의하자”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKL4B65X7VHN3BJJVC3KFNJG2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴시스
-충남 지역 시민단체 회원들이 14일 더불어민주당 최고위원회가 열린 충남 서산 축산물종합센터 앞에서 ‘숙의·공론 없는 졸속 대전·충남 행정 통합 중단’을 요구하는 기자회견을 하고 있다. 민주당은 6월 지방선거 전 통합 절차를 끝내겠다고 하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 정청래 대표는 이날 충남 서산축산종합센터에서 최고위원회의를 열고 “국회에서 조속한 시일 안에 법을 통과시켜 지방선거를 통합시로 치를 수 있게 속도를 내겠다”고 했다. 대전·충남 통합론은 최근 이재명 대통령이 언급하면서 정치권의 주요 이슈로 떠올랐다. 정 대표는 “충남·대전 통합은 그동안 국민의힘 소속 광역자치단체장들이 지금까지 밀고 온 이슈”라며 “저희는 통 크게, 국가 발전 차원에서 과감하게 수용하는 결정을 한 것”이라고 했다. 이어 “그런데 국민의힘이 걱정”이라며 “장동혁 국민의힘 대표 발언이 수상하다. 충남·대전 통합을 반대하는 알리바이를 만드는 과정이 아니기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 장동혁 대표는 같은 날 대전시청에서 이장우 시장을 만나 “특례가 포함되지 않으면 아무런 의미가 없다. 특례 없이는 정치공학적 눈속임에 불과하다”고 했다. 특별법에 10년간 재정 위기 단체 지정 면제, 투자 심사 면제, 예비 타당성 조사(예타) 면제, 타당성 조사 면제, 각종 조세 감면 등 특례 257개를 포함시켜야 한다는 것이다. 장 대표는 충남도청에서 김태흠 지사를 만나서도 “큰 방향성에 대해 여야가 충분히 협의한 다음 추진해야 한다”며 여야 특위 구성을 주장했다. &lt;br&gt;&lt;br&gt;반면 정부는 관련 특별법 내용을 이르면 16일 발표할 예정인데, 국민의힘이 주장하는 특례 257개 중 절반가량만 수용하겠다는 입장이다. 당정은 ‘충남대전통합특별시’(가칭) 설치 근거와 ‘경제과학중심도시’ 개발 관련 내용 등 특례 185개를 담은 특별법을 준비 중이다. 여기에는 공공기관 지방 이전에서 충남대전특별시를 우대하는 내용이 담기고, 국민의힘이 원하는 예타 면제 등의 특례는 빠진 것으로 알려졌다. 민주당은 관련 법안을 1월 임시국회에서 심사한 뒤 2월 본회의에서 통과시킬 방침이다. &lt;br&gt;&lt;br&gt;민주당은 또 대전·충남 행정 통합에 관해 국민의힘과 합의가 반드시 있어야만 하는 것은 아니라는 입장인 것으로 알려졌다. 통합이 특별법 제정을 통해 이뤄지는 것이고 통합시에 대한 특례나 예산 지원은 중앙정부가 하는 것인 만큼, 중앙정부의 동의와 국회 본회의 의결만 있으면 충분하다는 것이다.&lt;br&gt;&lt;br&gt;민주당과 정부는 광주·전남 통합 논의도 가속에 들어갔다. 김민석 국무총리는 이날 민주당 광주·전남 통합 추진 특별위원회와 간담회를 갖고, 조만간 정부가 공개할 광주·전남 통합 특별법안에 광주·전남 통합시에 줄 특례를 논의했다. 김 총리는 광주·전남 통합시에 중앙정부가 대규모로 재정 지원을 하고 공공기관 이전과 산업·기업 유치도 지원하겠다는 계획을 재확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>건반 위 한 손… 완벽하지 않아도 계속된다, 연주도 삶도</title>
@@ -938,19 +960,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/HFAQAGZWNVBSHINRDULWO37WCQ.jpg?auth=514b9a0af54652b8d7b09a20db28dd6cac34ab2510580476b402123dbe89c5c0&amp;smart=true&amp;width=2090&amp;height=1166" type="image/jpeg" height="1166" width="2090">
         <media:description type="plain"> 장경식 기자
 14일 서울 서초구의 한 공연장에서 김솔씨가 피아노를 연주하고 있다. 서울대 음대 4학년인 김씨는 왼손 없이 태어나 오른손으로 피아노를 친다. 오는 31일 서울대 음대 콘서트홀에서 독주회를 연다.</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘국가대표 유격수’ 김민재 현 롯데 코치 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/14/J5TKI2XDWZFLZC2PEBFK33TJQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/14/J5TKI2XDWZFLZC2PEBFK33TJQU/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 05:46:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWKTWJZXI5AOLDECCKUL6Y5EJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민재 롯데 코치. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 롯데의 1992년 우승 멤버이자 국가대표 유격수로 활약했던 김민재(53) 롯데 드림팀 총괄 코치가 투병 끝에 별세했다.&lt;br&gt;&lt;br&gt;김민재 코치는 부산공업고등학교를 졸업하고 1991년 롯데에 입단, 이듬해인 1992년 팀의 두 번째 한국시리즈 우승에 기여하며 프로 생활을 시작했다. 현역 시절 리그 정상급의 견고한 수비 능력을 자랑했던 그는 2006년 월드 베이스볼 클래식(WBC)에서 투혼 넘치는 주루 플레이를 선보이며 한국 야구의 4강 신화에 일조했고, KBO(한국야구위원회)리그 최초로 두 차례(SK·한화) FA 이적을 했다. 2008 베이징 올림픽 한국 야구의 전승 우승을 이룬 박진만 현 삼성 감독과 함께 유격수 자리에 선발됐던 것이 김민재 코치였다. &lt;br&gt;&lt;br&gt;은퇴 후에는 한화, 두산, KT, SSG 등 여러 구단에서 지도자 생활을 이어갔고 지난 2023년 친정팀 롯데 자이언츠의 수석코치로 복귀해 팀을 이끌었다. &lt;br&gt;&lt;br&gt;2026년에는 롯데 잔류군 수석코치로 임명됐고 투병 생활 중에도 끝까지 현장을 떠나지 않은 야구인이었다.&lt;br&gt;&lt;br&gt;유족으로는 부인 장윤정씨와 자녀 김동욱, 김현지씨가 있다. 빈소는 부산 시민장례식장, 발인은 16일 오전 6시 30분. (051)636-4444&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VKXUHBFJEZBCTDKIVVGWKT4MFY.jpg?auth=79abed41535b525d5154df7b9134a6c3498ba52fee3f43217a90325841e2ef14&amp;smart=true&amp;width=460&amp;height=345" type="image/jpeg" height="345" width="460">
-        <media:description type="plain">김민재 롯데 코치. 스포츠조선DB</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
     </item>
   </channel>
