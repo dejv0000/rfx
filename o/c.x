@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘총선 자원봉사자에 현금 제공’ 與 이정헌 선거사무장, 항소심도 벌금 200만원</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/16/T5GVMVKPFRDLVMZSY7ELGMMQNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/T5GVMVKPFRDLVMZSY7ELGMMQNI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 10:14:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFP2IALRUL3N2S2EGWVRAQE4W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정헌 더불어민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 2024년 4·10 총선에서 선거사무원으로 등록되지 않은 캠프 자원봉사자에게 현금을 건넨 혐의로 기소된 이정헌 더불어민주당 의원의 선거사무장 노모씨에게 16일 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;노씨는 2024년 총선을 앞두고 캠프 자원봉사자 A씨에게 선거운동 대가로 세 차례에 걸쳐 현금 총 300만원을 건넨 혐의로 재판에 넘겨졌다. 공직선거법은 선거사무원으로 등록되지 않은 사람에게 수당이나 실비 등 어떤 명목으로도 선거운동 대가 금품을 주면 안 된다고 규정한다. 공직선거법상 선거사무장의 선거범죄로 벌금 300만원 이상의 형이 선고되면 의원직을 잃게 되는데, 이를 넘지 않아 이 의원은 의원직을 유지하게 됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 노씨에게 벌금 200만원을 선고하면서 “선거운동과 관련된 금품 제공을 엄격히 금지한 공직선거법 취지를 고려할 때 실책이 가볍지 않다”고 지적했다. 다만 1심은 “범행이 선거 결과에 영향을 미쳤다고 단정하기 어려운 점 등을 고려했다”며 양형 이유를 밝혔다. 항소심도 이러한 원심 판단에 문제가 없다고 보고 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김학의 허위보고서 작성’ 이규원, 항소심도 벌금형 선고유예</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/16/23DB4GMZDVCERIPSTK43KTIDQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/23DB4GMZDVCERIPSTK43KTIDQE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 09:44:45 +0000</pubDate>
+      <content:encoded>김학의 전 법무부 차관의 ‘별장 성 접대 의혹’ 조사 과정에서 허위 보고서를 작성한 혐의로 기소된 이규원 조국혁신당 전략위원장이 16일 항소심에서 벌금형의 선고를 유예받았다.&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 이날 허위 공문서 작성·행사 및 공무상 비밀 누설 등 혐의를 받는 이 위원장에게 벌금 200만원형의 선고를 유예했다. 선고 유예란 피고인의 범죄 혐의가 인정되나 그 정도가 경미할 경우 선고를 미루고 2년 뒤 면소(공소권이 없어져 기소를 면함)된 것으로 간주하는 제도다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUUGROJP52UNTLCV5EQ22EBP7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이규원 조국혁신당 전략위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 위원장은 검사 시절이던 2018년 11월~2019년 5월 대검찰청 과거사진상조사단 단원으로 활동하면서, 성 접대 의혹의 핵심 인물인 건설업자 윤중천씨와 박관천 전 청와대 행정관 등이 말하지 않은 내용을 허위로 꾸며 면담 보고서를 작성한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 이 중 이 위원장이 윤씨와의 면담 중 3회차 면담의 결과서를 녹취 없이 진술 요지를 허위로 복기해 작성한 혐의(허위 공문서 작성)는 유죄로 인정했으나, 공무상 비밀 누설, 개인정보보호법 위반, 업무방해, 정보통신망법상 명예훼손, 형사전자절차화법 위반 혐의는 무죄로 봤다.&lt;br&gt;&lt;br&gt;항소심은 1심이 무죄로 본 혐의 중 개인정보법 위반, 형사전자절차화법 위반에 대한 판단을 뒤집었다. 이 위원장이 면담 과정에서 알게 된 개인정보를 누설했고, 형사사법정보시스템(KICS)에서 확인한 정보를 무단으로 제공했다는 혐의다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 범행의 위법성, 법익 침해 정도는 미약한 것으로 보이고, 피고인은 기본적 사실관계를 모두 인정하고 있다”며 “이런 사정만으로 위법 행위가 정당화될 순 없지만 참작할 만한 사정으로 고려했다”고 밝혔다. 당시 과거사진상조사단을 향한 국민적 관심이 컸고, 다수의 언론이 2013년부터 상당한 양의 정보를 수집했던 만큼 이 전 검사가 실체적 진실에 가까운 진술을 확보하기 위해 언론인과 접촉했다고 본 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 구형량 절반 선고에....내란 특검 “무죄 사유 정밀 검토”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/16/5BBANDTKCRDZVJJUAAKXWOBT4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/5BBANDTKCRDZVJJUAAKXWOBT4U/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 09:43:58 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령의 고위공직자범죄수사처 체포 방해 지시 등 혐의 재판의 1심 선고가 16일 나오자, 내란 특검이 판결문을 분석해 항소 여부를 결정할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYGKMBQMUZGCZJWHEYTANZUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 16일 오후 서울 서초구 중앙지방법원에서 체포 방해와 국무위원 심의권 침해 등 혐의 1심 징역 5년을 선고받은 뒤 퇴장하고 있다./중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 내란 특검은 공지를 내고 “판결문 분석을 통해 법원의 양형 및 일부 무죄 사유를 정밀하게 검토할 예정”이라고 했다. 서울중앙지법 형사35부(재판장 백대현)는 이날 특수공무집행방해 등 혐의로 기소된 윤 전 대통령에게 징역 5년을 선고했다. 당초 특검은 윤 전 대통령에게 도합 징역 10년을 구형했지만, 실제 형량은 절반에 그쳤다.&lt;br&gt;&lt;br&gt;재판부는 대부분의 혐의를 유죄라고 판단했지만, 일부 혐의는 무죄를 선고했다. 예를 들어 재판부는 비상계엄 해제 후 작성된 사후 계엄 선포문은 허위공문서로 봤지만, 이를 대통령비서실 부속실에 보관한 혐의(허위작성공문서행사)에 대해선 무죄로 판단했다.&lt;br&gt;&lt;br&gt;또 비상계엄 해제 후 대통령실 외신 대변인 등에게 “비상계엄은 정당했다”는 내용이 담긴 입장문을 배포하게 한 혐의(직권남용) 역시 “대통령실 비서관에게는 대통령이 전달을 요청한 입장의 내용에 대해 사실관계 여부를 가리거나, 사실관계와 일치하지 않는 내용이 있는지까지 판단할 의무나 권한이 있다고 보기 어렵다”며 무죄로 봤다.&lt;br&gt;&lt;br&gt;한편 이날 선고가 나오자 윤 전 대통령 측은 즉각 항소하겠다는 입장을 밝혔다. 윤 전 대통령 측은 이날 선고가 끝난 후 취재진과 만나 “이번 판결은 대통령의 헌법상 권한 행사와 형사 책임의 경계를 지나치게 단순화한 결정”이라며 “유죄 판결 논리가 그대로 유지된다면 향후 어떤 대통령도 위기 상황에서 결단을 내릴 수 없게 된다”고 했다. 윤 전 대통령 측은 다음 주 중에 항소장을 제출할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20년 청와대 셰프 “盧, 직원과 맞담배 …朴 삭힌홍어 먹다 입천장 벗겨져"</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/16/ZBPBIMFGNRH33M33RHVLAW45QY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/ZBPBIMFGNRH33M33RHVLAW45QY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 09:38:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDTZIQWWIBHIBIHJJVPF6HTIII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 김대중, 노무현, 이명박 전 대통령&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;넷플릭스 ‘흑백요리사: 요리 계급 전쟁 시즌 2’에 출연한 천상현 셰프가 20년간 청와대에서 일하며 역대 대통령과 얽힌 일화를 공개했다. &lt;br&gt;&lt;br&gt;신라호텔 중식부 출신인 천 셰프는 1998년 4월 31세 때 청와대 중식 요리사로 발탁됐다. 20년 4개월간 총괄조리팀장으로 근무하며 김대중, 노무현, 이명박, 박근혜, 문재인 전 대통령의 밥상을 책임졌고 2018년 7월 명예퇴직했다. &lt;br&gt;&lt;br&gt;천 셰프는 15일 MBC라디오 ‘권순표의 뉴스하이킥’에 출연해 “현존 청와대 요리사 중 처음으로 연금을 받았다”며 청와대 재직 시절 이야기를 꺼냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7I6SKANR2FFADCTGJBFBSER46U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2001년 김대중 대통령이 청와대에서 쇠고기 음식을 시식하였다./e영상역사관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 셰프는 중식을 선호하는 김 전 대통령이 중식 요리사를 뽑으라고 지시하면서 청와대에 입성하게 됐다. 천 셰프는 미식가이자 대식가로 알려진 김대중 전 대통령에 대해 “1, 2년간은 유도 선수 못지않게 드셨다. 그때 IMF 시기여서 일도 많으셨다. 일반 음식을 서너 코스 모시면 접시에 남기는 것 없이 싹싹 드셨다”며 “2~3년 후 체력이 떨어지셔서 양이 좀 줄었다”고 말했다. 그는 “김 전 대통령은 산낙지, 홍어 같은 전라도 음식뿐 아니라 중식도 좋아했다”며 “특히 계란탕, 양장피, 해산물 요리를 좋아하셨다”고 떠올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWMLENLEHRHDFJ2SYDRF5DUV6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노무현 전 대통령이 청와대 경호실을 방문하여 구내식당에서 직원들과 식사하고 있다./ 노무현 사료관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노 전 대통령에 대해선 “서민적인 이미지와 똑같다. 해물파전에 막걸리 한 잔 즐겨 드셨다. 저희가 모시는 대로 드시고 ‘잘 먹었다’고 피드백도 주셨다”고 했다. 이어 “주말에는 요리사들에게 ‘아침밥 안 해줘도 된다. 늦게 나와도 된다’고 한 뒤 가족끼리 직접 라면을 끓여 드셨다”고 했다.&lt;br&gt;&lt;br&gt;그는 노 전 대통령의 소탈한 모습을 보여주는 또 다른 일화로 맞담배 기억을 떠올렸다. “휴게실 구석에서 담배를 피우고 있으면 대통령님이 ‘어이 같이 피워’ 하고 오셨다. 대통령과 맞담배를 피운 것이다. 쉬운 게 아니다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3SJE27PFJFH5MFGXOPRRJ2XOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2012년 11월 13일 세종특별자치시 정부세종청사 국무총리동을 방문한 박근혜 당시 대선후보가 구내식당에서 직접배식을 해 자리에 앉고있다./ 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 전 대통령에 대해선 적게 먹지만 편식을 안 하는 입맛으로 기억했다. 그는 “삭힌 홍어도 잘 드셨다. 한 번은 삭힌 홍어와 뜨거운 국물을 같이 드셨다가 입천장이 벗겨지셨다. 대통령 입천장이 벗겨진 건 큰 사고다. 의무실장이 이후 ‘다음부터는 좀 덜 삭힌 홍어로 내달라’고 했다”며 가슴 철렁했던 일화를 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAI64RY2G5EKDDUHII7G5SVELI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이명박 대통령 당선인이 2008년 2월 3일 설을 앞두고 관악구 봉천11동 원당재래시장을 찾아 순대국을 시식하고 있다./ 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZDBWA5DKQO3XM3ECGEVGQK75U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 대통령이 2020년 7월 17일 구로디지털단지 내 에이스하이엔드타워 구내식당을 깜짝 방문해 직장인들과 점심식사를 하고 있다./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 셰프는 이 전 대통령에 대해선 “사업가 스타일이다. 여럿이 모여서 소고기, 돼지고기를 숯불에 구워 먹는 걸 좋아하셨다”고 했고, 문 전 대통령에 대해선 “노 전 대통령처럼 막회나 해장국 같은 걸 좋아하셨다”고 했다.&lt;br&gt;&lt;br&gt;천 셰프는 청와대를 나오게 된 이유에 대해 “2018년 다른 중식 요리사 한 명을 다시 입사시킨다고 해서 ‘여기까지인가 보다’ 생각해 명예퇴직을 신청했다”며 “또 오너 셰프를 한번 해보는 게 꿈이었고 대통령을 모셨던 마음으로 고객들을 위해 음식을 하고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NN4G5M5GXBB5JAFRRQXG4EXGCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;넷플릭스 '흑백요리사2'에 출연한 천상현 셰프./ 넷플릭스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 셰프는 넷플릭스 ‘흑백요리사 2’에 백수저로 출연했다. 그는 4라운드 ‘1대1 사생전’에서 자신을 청와대로 추천했던 사부 후덕죽 셰프와 맞대결을 펼친 뒤 탈락했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>미성년자에 전동바이크 빌려줘 사고 유발…업체 대표 3명 기소</title>
+      <link>https://www.chosun.com/national/regional/2026/01/16/OMNJR465GFASXBVUGL5DE5FX2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/16/OMNJR465GFASXBVUGL5DE5FX2U/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 09:22:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKE24FZJBF2MH6W755CW7B26NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 서부지청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;면허가 없는 미성년자에게 안전 교육과 면허 확인 없이 전동 바이크를 빌려줘 교통사고를 일으킨 혐의(업무상 과실치상)로 개인형 이동 수단(PM) 대여 업자들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 서부지청 형사1부(부장 김상문)는 이 같은 혐의로 대구 지역 PM 대여 업자 A씨 등 3명을 불구속 기소했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 낙동강변 유원지인 대구 달성군 강정보 일대에서 PM 대여 업체를 운영 중인 A씨는 2020년 10월 면허 확인과 안전 교육 등의 아무런 조치 없이 10대 청소년 B군에게 전동 바이크를 대여했고, 이를 타고 가던 B군이 교통사고를 일으켰다. 이 사고로 6살 여자 아이가 전치 6주에 달하는 부상(두개골 골절)을 입었다. A씨는 지난해 5월까지 이런 방식으로 미성년자에게 PM을 대여해 총 4건의 교통사고를 일으켜 사람을 다치게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;같은 지역에서 활동 중인 또 다른 대여업자인 C씨와 D씨도 같은 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이 기간 피고인 3명이 운영하는 PM 대여 업체에서 면허 없이 PM을 빌려 타다가 교통사고를 낸 10대 미성년자는 모두 7명이었으며, 이들 대부분은 수사받은 뒤 소년보호사건으로 송치됐다.&lt;br&gt;&lt;br&gt;낙동강변 유원지인 강정보(대구 달성군) 일대는 10여 곳의 PM 대여 업체가 성업 중이고, 이 중 일부는 무면허 운전 방조죄로 다수 처벌받았음에도 가벼운 처벌로 인해 무면허 미성년자에게 PM 대여를 계속해왔다. 이런 탓에 강정보는 서울 제외 지역 중 전국 최고 PM 사고율을 기록하고 있는 상황이었다고 검찰은 전했다. &lt;br&gt;&lt;br&gt;서부지검 관계자는 “적절한 규제 미비로 교통사고가 빈발해 무면허 운전 방조죄(법정 최고형 벌금 15만원)로 처벌하는 것만으로는 불법적 PM 대여 행위를 방지할 수 없어 사고 발생의 근본적 원인을 제공한 대여업자들에게 교통사고 책임을 물어 기소했다”며 “국민 안전을 위협하는 PM 무면허 운전 및 관련 교통사고 사건에 대해 엄정 대응할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 서울 주요 대학들, 학폭 가해자 99% 탈락시켰다</title>
+      <link>https://www.chosun.com/national/education/2026/01/16/KWI5OE7P3FCUZOUOMW7OEWTCDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/16/KWI5OE7P3FCUZOUOMW7OEWTCDI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 08:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UZ7RNUBKNATDF7LHOQT43LCVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 권혜인·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 대입 수시 전형에서 4년제 대학에 지원한 ‘학교폭력 가해 전력’ 수험생의 75%가 불합격한 것으로 확인됐다. 서울 주요 대학에 지원한 학폭 가해자는 99%가 탈락한 것으로 나타났다. &lt;br&gt;&lt;br&gt;16일 본지가 진선미 더불어민주당 의원실을 통해 확보한 ‘2026학년도 수시 전형 학폭 반영 현황’ 자료에 따르면, 전국 4년제 대학 170곳에 학폭 가해 전력을 가진 수험생 총 3273명이 지원해 감점을 받았다. 이 중 최종 불합격한 수험생은 2460명(75%)이었다. 학폭 가해자 4명 중 3명이 대학 입학의 문턱을 넘지 못한 것이다.&lt;br&gt;&lt;br&gt;서울 주요 대학의 경우, 학폭 가해자를 합격시킨 사례는 거의 전무했다. 서울대와 연세대·고려대·서강대·성균관대·한양대· 이화여대·중앙대·경희대·한국외대·서울시립대 등 서울 주요 대학 11곳에서 학폭 가해 전력으로 감점 처리한 수험생은 151명이다. 이 중 150명(99%)이 최종 불합격 처리됐다. 학폭 가해자가 서울 주요 대학에 입학하기는 거의 불가능에 가까운 것이다. &lt;br&gt;&lt;br&gt;학교별로 살펴보면, 연세대·고려대는 수시에서 각각 5명과 12명의 학폭 가해자에게 감점을 줬고 모두 탈락시켰다. 서강대·성균관대(3명), 한양대(7명), 이화여대(1명), 중앙대(32명), 한국외대(14명), 서울시립대(12명)도 학폭으로 감점된 수험생을 전부 불합격시켰다. 경희대는 감점을 준 62명의 학폭 가해자 중 61명을 불합격시켰다. 서울대는 이번 수시 전형에 ‘학폭 가해 전력’ 지원자가 없었다.&lt;br&gt;&lt;br&gt;대학들은 교육부 방침에 따라 이번 대입부터 학생부 위주 전형뿐만 아니라, 논술과 실기 등 모든 수시 전형에서 학폭 가해 전력을 평가 감점 요인으로 의무 반영했다. 학교별로 감점 정도는 다르지만, 고교 학생부에 기재된 학폭 가해 처분(1~9호)이 높을수록 평가에서 감점되는 점수가 크다. 아예 지원을 하지 못하게 한 대학도 많다. 여러 처분을 받은 학생에 대해선, 대학들 대부분이 제일 높은 처분 호수를 기준으로 감점 처리한다.&lt;br&gt;&lt;br&gt;대학 관계자들은 대입은 1~2점 차이로 합격과 불합격이 갈리기에, 학폭 가해 처분 호수와 상관없이 학폭 가해자가원하는 대학에 합격하기는 어려울 수밖에 없다고 설명한다. &lt;br&gt;&lt;br&gt;현재 2026학년도 정시 전형이 진행되고 있어, 앞으로 학폭 가해자의 대학 불합격 사례는 더 늘어날 전망이다. 정시 전형도 수시와 마찬가지로 평가에서 학폭 가해 전력을 감점 처리해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검경 합수본, 한학자 총재 ‘금고지기’ 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/16/SH67AJWGF5GWJOQ4PXVHMTL2LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/SH67AJWGF5GWJOQ4PXVHMTL2LA/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 09:49:35 +0000</pubDate>
+      <content:encoded>통일교와 정치권 유착 의혹을 수사하는 검경 합동수사본부(합수본)가 한학자 통일교 총재의 측근 A씨를 최근 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRGEZDBG42TKMRVHE4GKMJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 합수본은 최근 A씨를 참고인 신분으로 불러 조사했다. A씨는 과거 한 총재 비서실에서 근무한 이력이 있고, 한 총재의 개인 금고를 관리하는 ‘금고지기’로 알려져 있다.&lt;br&gt;&lt;br&gt;합수본은 A씨를 상대로 로비 의혹이 제기된 정치권 인사들이 천정궁에 방문했는지, 한 총재 개인 금고에 보관된 280억원 상당의 현금 뭉치가 로비 자금으로 쓰였는지 등을 조사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;합수본 관계자는 “합수본은 기존에 경찰청 국가수사본부가 하던 통일교 사건을 넘겨받아 통일교 관계자들에 대한 조사를 이어가고 있다”고 밝혔다. 합수본은 지난 13일 경기 가평군 천원단지 일대와 통일교 관계자를 압수수색하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“360kg 부품이 머리로”... 인천서 40대 근로자 숨져, 경찰 조사 </title>
+      <link>https://www.chosun.com/national/incident/2026/01/16/O7BOX7A4TVALBGHVRZ6VMPSOZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/16/O7BOX7A4TVALBGHVRZ6VMPSOZU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 09:48:35 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TKMRRHFRTSNBSMJQTIZBWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 공장에서 작업 중이던 40대 남성이 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;16일 인천경찰청 등에 따르면 이날 오전 11시 29분쯤 인천 미추홀구의 한 제조업체에서 근무하던 40대 남성 A씨가 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 크레인으로 옮기던 360㎏이 넘는 변압기 부품이 머리 위로 떨어지면서 변을 당한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 확인하기 위해 사고 현장 인근 방범카메라(CCTV) 영상을 확보해 분석하고, 현장 관계자와 안전관리 책임자 등을 조사할 예정이다. &lt;br&gt;&lt;br&gt;노동 당국은 해당 업체에 작업 중지 명령을 내리고 중대재해법 위반 여부를 조사 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘공천 그림 청탁’ 김상민 전 검사 징역 6년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/16/NFUCY3PAFZAX5A74JRYXXA7UAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/NFUCY3PAFZAX5A74JRYXXA7UAA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 08:53:19 +0000</pubDate>
+      <content:encoded>민중기 특별검사팀이 16일 김건희 여사에게 공천 청탁 대가로 1억원대 그림을 건넨 혐의를 받는 김상민 전 부장검사에게 징역 6년을 구형했다. 지난해 10월 특검팀이 김 전 검사를 구속 상태로 기소한 지 약 3개월 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYJC3R43K4UR4QSPWBOTCG4RMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 부장검사가 9일 서울 종로구 광화문에 마련된 김건희 특검팀 사무실에 조사를 받기 위해 출석하고 있다. 2025.9.9/뉴스1 ⓒ News1 박지혜 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 이날 서울중앙지법 형사21부(재판장 이현복)에서 열린 결심 공판에서 김 전 검사에게 청탁금지법 위반 혐의에 징역 3년, 정치자금법 위반 혐의에 징역 3년 등 총 6년을 구형했다. 재판부에 추징금 4139만2760원을 명령해 달라고도 요청했다.&lt;br&gt;&lt;br&gt;김 전 검사는 2024년 4·10 총선 공천 등을 대가로 김 여사의 오빠 김진우씨에게 2023년 1월, 1억4000만원 상당의 이우환 화백 그림 ‘점으로부터(From Point No.800298)’를 전달한 혐의를 받는다. 김 전 검사는 2024년 공천 심사에서 탈락했지만, 같은 해 8월 국가정보원 법률특보에 임명됐다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 그림을 대가로 김 전 검사의 공천과 국정원 특보 임명에 관여했다고 의심 중이다. 반면 김 전 검사는 김진우씨의 부탁으로 그림을 중개했을 뿐 청탁은 없었다는 입장이다.&lt;br&gt;&lt;br&gt;이날 재판에서도 김 전 검사는 청탁을 부인했다. 김 전 검사는 최후진술에서 “김 여사에게 그림을 전달한 적 없으며 전달할 상황도 아니었다”고 했다. 김 전 검사는 “그림 전달을 위해선 관저에 가거나 제3의 장소에 가야 하는데, (관저는) 신분증 검사, 차량 등록 등 여러 절차를 거쳐야 한다”고 했다. 이어 “(관저) 출입 내역도 안 나오고 외부에서 김 여사에게 줬다는 건 증명할 수 없다”며 “외부에서 만나는 상황은 영부인 동선을 생각하면 있을 수 없는 일”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;김 전 검사는 2023년 12월 총선 출마를 준비하면서 사업가 김모씨로부터 선거용으로 사용하는 차량의 리스 선납금 및 보험금 등 4200만원을 불법 기부받은 혐의(정치자금법 위반)도 받는다. 이에 대해 김 전 검사는 “김씨에게 정치자금을 받을 생각이었다면 훨씬 엄밀한 방법으로, 현금을 받아 차를 샀을 것”이라며 “검사 출신이 검사직 그만두고 정치한다면서 정치자금 수사받는다는 건 거의 사망 선고와 다름없다”고 했다.&lt;br&gt;&lt;br&gt; 김 전 검사에 대한 선고는 다음 달 9일 나올 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘北 무인기’ 민간인 용의자 특정… 군경 합동조사단, 소환 조사</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/16/V6CCADR7CZEXFHCXDO25C5MLNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/V6CCADR7CZEXFHCXDO25C5MLNM/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 09:00:03 +0000</pubDate>
+      <content:encoded>북한의 한국 무인기 침투 주장에 대해 수사하는 군경 합동조사단이 무인기를 북한으로 날린 혐의를 받는 민간인 용의자를 소환해 조사 중이라고 16일 밝혔다. 경찰청 국가수사본부는 지난 12일 이번 무인기 사안 관련 경찰 20여명, 군 10여명 등 30여명 규모의 수사팀을 구성해 수사에 나섰다. 팀장은 국수본 안보수사국장이 맡았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3GEOBZME2DSNBSGIZDQYZQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한이 한국발 무인기라며 지난 4일 공개한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한 조선인민군 총참모부 대변인은 지난 10일 성명을 발표해 이달 초 한국이 개성 지역에 침투시킨 무인기를 격추했다고 주장했다. 이에 이재명 대통령은 “사실이라면 한반도 평화와 국가 안보를 위협하는 중대 범죄”라며 수사를 지시했다. &lt;br&gt;&lt;br&gt;전문가들에 따르면 당시 북한이 공개한 무인기는 외관상 중국 스카이워커 테크놀로지사의 ‘스카이워커 타이탄 2160’ 모델과 유사하다. 보안에 취약한 저가형 상용 부품으로 구성된 무인기로, 군사용 무인기로는 보기 어렵다는 해석이 나왔다. 이 때문에 민간 무인기일 가능성이 제기됐고 실제로 민간인이 용의자로 특정된 것이다.&lt;br&gt;&lt;br&gt;일부 전문가들은 지난해 11월 경기 여주 일대에서 추락한 무인기가 북한이 공개한 기종과 유사해 동일범 소행이 의심된다는 의혹도 제기하고 있다. 당시 체포된 대학원생 A씨는 “연구실에서 제작한 기체를 실험하는 차원이었다”고 설명한 것으로 전해졌고, 대공 혐의점은 발견되지 않아 항공보안법 위반 혐의로 최근 검찰에 송치됐다. 수사팀에선 이번 무인기 추락 사건과 여주 사건은 무관하다고 보는 분위기가 지배적인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안규백 등 자랑스러운 성균인상</title>
+      <link>https://www.chosun.com/national/people/2026/01/16/TRL5Q6YPTVEB5A5M2KI5KGJX2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/16/TRL5Q6YPTVEB5A5M2KI5KGJX2U/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 Jan 2026 08:47:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENNKUHL3RFFBDBO3O7FV2MD4AY.png"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 배기호 회장, 김현겸 회장, 안규백 장관, 김정욱 회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성균관대학교 총동창회(회장 김성집)는 ‘2025년 자랑스러운 성균인상’ 수상자로 배기호 전 북미주연합동문회장, 김현겸 팬스타그룹 회장, 안규백 국방부 장관, 김정욱 대한변호사협회 회장 등 4명을 선정했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;자랑스러운 성균인상은 교학 정신인 인의예지와 리더십을 바탕으로 모교의 명예를 높인 동문에게 수여되는 상이다. 시상식은 지난 15일 서울 광진구 그랜드워커힐호텔 워커홀에서 열린 총동창회 신년 인사회에서 진행됐다.&lt;br&gt;&lt;br&gt;김성집 총동창회장은 새해 병오년 붉은 말의 해를 맞아 “적토마의 기상과 도전 정신을 가지고 글로벌 명문대학을 지향하는 모교의 여정에 성균 가족 모두가 동참해 주실 것을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 경찰 ‘서울교통 리디자인’ 프로젝트, 두 달간 교통사고 4.5% 줄여</title>
       <link>https://www.chosun.com/national/national_general/2026/01/16/5Z6SGMFTLRDQLBGCKOFX5Q2LCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/5Z6SGMFTLRDQLBGCKOFX5Q2LCA/</guid>
@@ -777,15 +876,6 @@
       <content:encoded>오픈 채팅방 개인정보 유출로 과징금 151억원을 부과받은 카카오가 과징금을 취소해 달라며 소송을 냈으나 15일 1심에서 패소했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정14부(재판장 이상덕)는 이날 카카오가 개인정보보호위원회(개보위)를 상대로 낸 시정 명령 등 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMACP7RZO5JZVNCPWKH6JF57MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 영평동 카카오 본사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 소송은 개보위가 지난 2024년 5월 카카오에게 개인정보보호법 위반을 이유로 과징금 151억4196만원, 과태료 780만원을 부과한 게 발단이 됐다. 개보위는 2023년 3월 카카오톡 오픈 채팅방 이용자들의 개인정보가 불법 거래되고 있다는 언론 보도를 계기로 조사에 착수했다. 최소 6만5000여 건의 개인정보가 유출된 것으로 조사됐다. 해커는 오픈 채팅방의 보안 취약점을 노려 참여자 정보를 알아내고, 카카오톡의 친구 추가 기능 등을 이용해 일반 채팅 이용자 정보를 알아냈다고 한다. 이 정보들을 대조하고 결합해 만든 개인정보 파일을 판매한 것이다.&lt;br&gt;&lt;br&gt;개보위는 2023년부터 카카오가 이용자들의 개인정보 유출 사실을 알고도 이를 신고하거나 이용자들에게 알리지 않아 개인정보보호법을 어겼다고 보고 과징금을 부과했다. 그러나 카카오는 2024년 11월 이에 불복해 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 개보위의 과징금 부과 처분 사유가 모두 정당하다고 봤다. 우선 이용자들의 휴대전화번호, 프로필명, 오픈채팅방 내 프로필명 등이 결합된 다수 이용자들의 정보가 데이터베이스 형태로 구축돼 온라인에 공개·판매된 것은 개인정보 유출로 인정할 수 있다고 판단했다. 이어 재판부는 “카카오가 개인정보 유출을 신고하거나 이용자들에게 이를 알리지 않은 것은 위법하다”고 봤다.&lt;br&gt;&lt;br&gt;재판부는 카카오가 적어도 2020년 8월부터는 개인정보 유출의 위험성을 알았을 것이라고 봤다. 카카오가 2020년 8월 5일쯤부터 새로 만들어지는 오픈 채팅방에 한해서만 암호화 조치를 시행했을 뿐, 추가적인 개선 조치는 하지 않았다는 것이다. 이어 재판부는 “카카오가 기본적으로 보안 시스템을 구축하고, 여러 보안 정책을 설정하는 등 일정한 수준으로 외부 위협의 접근 제한 및 유출 탐지 기능을 수행한 것 자체는 부인할 수 없다”면서도 “카카오톡 프로그램의 특징에 충분히 부합하는 접근 제한·유출 탐지 기능을 적절히 운영했다고 평가하긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이를 토대로 개보위의 과징금 부과 처분에 사실을 오인하거나 비례·평등 원칙에 위반되는 사유가 있다고 보이지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지인 흉기로 찌른 40대女… 상대는 무단결근 경찰관</title>
-      <link>https://www.chosun.com/national/incident/2026/01/15/4QPYEYJRWVDO7APTP6Z2LXIRLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/15/4QPYEYJRWVDO7APTP6Z2LXIRLA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 08:33:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TKMRRHFRTSNBSMJQTIZBWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에 함께 있던 현직 경찰관을 흉기로 찌른 40대 여성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 부평경찰서는 특수상해 혐의로 40대 여성 A씨를 입건해 수사하고 있다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 12일 오전 11시쯤 인천 부평구 자택에서 50대 남성 B씨를 흉기로 찔러 다치게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 생명에는 지장이 없는 상태로, 병원 치료를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 인천 미추홀경찰서 소속 현직 경찰관으로 파악됐다. 그는 사건 당일 무단 결근한 상태로 A씨 집에 머물렀던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨를 상대로 정확한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;또 특수상해 혐의 수사와는 별개로, 무단 결근한 B씨에 대해 징계 절차를 밟을 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>10·15 부동산 대책 규제 지역 주민 “통계 조작”...국토부 “적법한 통계 사용”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/15/7WOJZZQCA5GPBINWXE7UJ3MDKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/7WOJZZQCA5GPBINWXE7UJ3MDKY/</guid>
@@ -793,15 +883,6 @@
       <description/>
       <pubDate>Thu, 15 Jan 2026 08:18:23 +0000</pubDate>
       <content:encoded>’10·15 부동산 대책' 규제 지역 주민들이 정부가 법령상 요건을 갖추지 못한 위법한 정책을 발표했다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLW264RRCBKPJHH2O6RT3TGTSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개혁신당 천하람 원내대표가 10.15 부동산 대책 행정소송 및 효력정지 신청을 위해 지난해 11월 서울 서초구 서울행정법원을 방문, 취재진에게 관련사항을 설명하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정14부(재판장 이상덕)는 15일 규제 지역 일부 주민들과 천하람 개혁신당 원내대표 등이 국토교통부 장관을 상대로 낸 10·15 부동산 대책 집행정지 및 지정처분 무효확인 소송의 첫 변론기일을 열었다.&lt;br&gt;&lt;br&gt;이들은 지난해 11월 정부가 의도적으로 집값 통계를 조작해 과열 정도가 덜한 지역까지 포함해 과잉 규제했다며 10·15 부동산 대책 무효확인 및 취소소송 소장과 효력정지신청서를 법원에 접수했다. 주택법 시행령에 따라 조정대상지역은 ‘3개월간의 해당 지역 주택 가격 상승률이 소비자물가상승률의 1.3배를 초과’할 때 지정 가능한데, 정부가 규제 발표 전달인 9월을 제외한 6~8월 통계를 임의로 적용했다는 것이다. 이로 인해 서울 도봉·강북·금천·중랑과 경기 의왕·성남 중원·수원 장안·팔달 등 8곳의 조정대상지역 주민들이 재산상 손해를 입었다는 게 원고 측 주장이다.&lt;br&gt;&lt;br&gt;이날 원고 측은 부동산 대책이 법령상 요건을 갖추지 못해 위법하다고 강조했다. 원고 측 변호인은 “(국토교통부가) 이미 9월 통계를 확보했음에도 인위적으로 9월을 적용하지 않아 법령상 요건을 갖추지 못했다”고 했다.&lt;br&gt;&lt;br&gt;반면 국토부 측은 적법한 통계가 사용됐다고 반박했다. 국토부 측 변호인은 “주거정책심의위원회 개최 전날까지 9월 통계가 없어 6~8월 통계를 사용한 것”이라며 “공표되기 전 통계를 주거정책심의위원회가 사용하는 건 통계법 위반이며 사회적 신뢰가 오히려 훼손될 수 있다”고 했다. 주거정책심의위원회는 투기과열지구 지정·해제 등 주요 주거정책 및 부동산 대책을 심의하는 곳으로, 국토부장관이 위원장이다.&lt;br&gt;&lt;br&gt;재판부는 이날 변론기일을 끝으로 추가 변론 없이 선고를 예고했다. 선고는 오는 29일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2026 연세동문 새해인사의 밤...이윤재 G&amp;G스쿨 이사장·오가실 연세대 간호대학 명예교수 등 시상 </title>
-      <link>https://www.chosun.com/national/people/2026/01/15/VI663ZK4OZBMLNRXYMGVQE6DAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/15/VI663ZK4OZBMLNRXYMGVQE6DAE/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 08:15:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSCHPZUDCJEBFMBPJM7HOQWGVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 총동문회가 지난 13일 18시 서울 강남구 그랜드 인터컨티넨탈호텔 그랜드볼룸에서 '2026 연세동문 새해인사의 밤' 행사를 개최했다./연세대 총동문회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대 총동문회가 ’2026 연세동문 새해인사의 밤' 행사를 개최하고, ‘자랑스러운 연세인상’과 ‘연세를 빛낸 동문상’ 등을 시상했다. &lt;br&gt;&lt;br&gt;연세대 총동문회는 지난 13일 18시 서울 강남구 그랜드 인터컨티넨탈호텔 그랜드볼룸에서 ’2026 연세동문 새해인사의 밤' 행사를 개최하고, 이윤재 G&amp;amp;G스쿨 이사장에 ‘자랑스러운 연세인상’을 시상했다. ‘연세를 빛낸 동문상’은 오가실 연세대 간호대학 명예교수·故 케빈 오록 경희대 명예교수·안덕선 연세대 의과대학 교수·허인철 오리온그룹 부회장이 수상했다.&lt;br&gt;&lt;br&gt;또 박종범 영산그룹 회장·김동준 초록뱀미디어 대표이사·천근아 연세대학교 의과대학 교수가 ‘공로상’을 수상했고, 조현 외교부 장관·임문영 국가인공지능전략위원회 상근부위원장·손인혁 헌법재판소 사무처장·임광현 국세청장·박진영 대중문화교류위원회 공동위원장·원민경 성평등가족부 장관·송경희 개인정보보호위원회 위원장이 축하패를 수상했다. &lt;br&gt;&lt;br&gt;이 자리에는 이경률 연세대 총동문회 회장, 윤동섭 연세대학교 총장을 비롯한 총동문회 임원진과 연세대 관계자들이 참석해 수상자들을 축하했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘IQ 204’ 백강현, 옥스퍼드 도전 결과는...“기대 컸는데 눈물도”</title>
@@ -813,24 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6BJD7ING5AW3PRZCLWWRTOS5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;IQ 204의 영재소년으로 유명한 백강현(13)군이 2023년 서울과학고를 자퇴한 후 근황을 전했다. /유튜브 '백강현'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영국 옥스퍼드대학교 컴퓨터과학과 입시에 도전했던 백강현 군이 최종 불합격 소식을 전했다. SBS ‘영재발굴단’ 출신으로 알려진 그는 만 12세의 나이에 세계 최고 학부 과정에 지원해 관심을 모은 바 있다. &lt;br&gt;&lt;br&gt;백군은 13일 자신의 유튜브 채널을 통해 결과를 공개했다. 그는 “기다리던 옥스퍼드 컴퓨터과학과 합격자 발표가 있었다”며 “많은 응원을 받았지만 오퍼를 받지 못했다”고 밝혔다. 이어 “기대가 컸던 만큼 너무 속상해서 주저앉아 눈물도 흘렸다”고 심경을 털어놨다. 그러면서 “의미 있는 도전이었고 많은 것을 배웠다. 여기서 멈추지 않겠다”며 “응원해 주신 모든 분께 감사를 드린다”고 했다.&lt;br&gt;&lt;br&gt;백군은 작년 9월 옥스퍼드 지원 사실을 직접 공개했다. 그는 당시 “옥스퍼드 컴퓨터과학과 합격을 목표로 하고 있다”며 모의 기출 풀이에서 높은 점수를 유지하고 있다고 말했다. 실제로 옥스퍼드 입시의 핵심 단계인 수학·논리 시험(MAT)을 응시했고, 지원자 약 1600명 가운데 400여 명에게만 주어지는 인터뷰 초청도 받았다.&lt;br&gt;&lt;br&gt;다만 나이가 적은 지원자에게는 행정적 제약이 따르는 것으로 알려졌다. 영국 대학 통합 지원 시스템(UCAS)은 만 13세 미만 가입을 제한하고 있어, 백군은 직접 UCAS와 옥스퍼드 입학처에 이메일과 국제전화를 통해 절차를 확인했다. 그는 당시 “어린 지원자 한 명을 위해 매우 친절하게 응대해줘 감사했다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;영국 학생 비자 발급 연령도 변수였다. 영국 비자는 만 16세부터 신청할 수 있어, 백군이 합격하더라도 실제 입학 시기 조정이 필요했다. 앞서 그는 “성적이 상위 1% 이내에 속한다고 알고 있다”며 “합격하더라도 학생 비자가 16세부터 가능해 실제 입학은 3년 뒤가 될 수 있다. AI 전문가가 되는 것이 목표”라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;백군은 2016년 SBS ‘영재 발굴단’에 출연하며 이름을 알렸다. 당시 생후 41개월이던 그는 방송에서 방정식을 푸는 모습 등을 보여 수학과 음악 분야에서 뛰어난 재능을 인정받았다. 그의 지능 지수는 웩슬러 기준 IQ 164, 멘사 기준 IQ 204로 측정됐다.&lt;br&gt;&lt;br&gt;2023년 3월 만 10세의 나이로 서울과학고에 입학했지만 한 학기 만에 자퇴했다. 백군은 자퇴 이유로 “창의적인 활동을 하고 싶었다”고 설명했으나, 이후 아버지가 자퇴 배경에 학교 폭력이 있었다고 주장하며 논란이 일기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘아들·조카 입시비리’ 이병천 前 서울대 교수, 1심서 실형</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/15/35C3J2SZZNGJ3FWFJBYYQFALSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/35C3J2SZZNGJ3FWFJBYYQFALSY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 08:00:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTEZRXGVTDSNTFGY2WCNBZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이병천 전 서울대 수의대 교수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아들·조카 입시 비리 혐의로 기소된 이병천 전 서울대 수의과대 교수가 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사20단독 임정빈 판사는 15일 위계 공무집행 방해와 사기 등 혐의를 받는 이 교수에게 징역 1년 6개월을 선고했다. 다만 증거 인멸이나 도주 우려가 없다는 이유로 법정 구속은 하지 않았다. 이 교수는 황우석 전 서울대 교수의 제자로, 과거 복제견 실험을 주도한 인물로 알려졌다.&lt;br&gt;&lt;br&gt;이 교수는 미성년 아들을 논문에 공저자로 허위 등록한 뒤 이를 강원대 수의대 편입에 활용하고, 서울대 대학원 입시 문제를 아들에게 알려준 혐의 등으로 2020년 불구속 기소됐다. 2013~2014년 조카의 서울대 수의대 대학원 지원 사실을 알고도 이를 학교에 알리지 않은 채 직접 문제 출제와 채점에 관여한 혐의도 받았다.&lt;br&gt;&lt;br&gt;외국인 유학생 인건비 1600만원을 편취하고 실험견 공급 대금을 부풀려 연구비를 빼돌린 혐의, 동물실험윤리위원회 승인 없이 실험한 혐의도 있었다. 이 전 교수는 연구비 유용과 입시 비리가 감사에서 드러난 뒤 2022년 9월 서울대에서 파면됐다.&lt;br&gt;&lt;br&gt;재판부는 이 교수의 입시 비리 혐의를 유죄로 판단했다. 재판부는 “서울대는 2010년부터 친인척 응시 시 회피 의무를 확대해 왔고 이 전 교수는 이를 충분히 알 수 있는 위치였다”며 “조카의 지원 사실을 의도적으로 숨긴 것은 대학원 입시의 공정성과 적정성을 해치고 업무를 방해한 것”이라고 했다. 아들에게 시험 문제를 유출한 혐의에 대해서도 재판부는 “당락 여부와 관계없이 대학원 신입생 선발 업무의 방해 위험을 초래했다”며 유죄로 인정했다.&lt;br&gt;&lt;br&gt;연구비 관련 혐의 중에는 외국인 유학생 인건비를 돌려받아 빼돌린 사기 혐의가 유죄로 인정됐다. 재판부는 “인건비와 장학금은 연구 참여자에게 주어져야 하는데 이를 반환하게 한 것은 사업비 유용이자 연구 참여의 목적을 훼손하는 것”이라고 했다. &lt;br&gt;&lt;br&gt;다만, 아들을 논문 공저자로 끼워 넣은 혐의에 대해 재판부는 “아들이 논문에 참여해 실제 실험과 영문 교정 등을 수행했다”며 허위 등재가 아니라고 봤다. 실험견 공급 대금 과다 청구와 동물보호법 위반 혐의도 증거 부족 등으로 무죄 판결했다. 이날 이 전 교수 자녀 대학 편입에 관여한 혐의로 함께 기소된 대학교수 3명과 미승인 동물 실험·불법 채혈 등에 관여한 연구실 직원, 식용견 사육 농장 업주에게도 무죄가 선고됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“지방선거 투표율 높이자” 전북선관위, ‘SNS 스타’ 박지수 주무관과 협업</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/15/WYCWDMC6SVFJXOX2UN6AWPK4JQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/WYCWDMC6SVFJXOX2UN6AWPK4JQ/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 08:01:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URB6B7FGWFH4DF6AY4SIV4ZQYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박지수 주무관이 출연해 600만뷰를 돌파한 영상. /군산시 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북특별자치도선거관리위원회(전북선관위)가 제9회 전국동시지방선거 흥행을 위해 ‘스타 공무원’과 손을 잡았다. &lt;br&gt;&lt;br&gt;전북선관위는 15일 지난 대선 당시 숏폼(짧은 영상) 콘텐츠로 화제를 모았던 군산시청 소속 박지수 주무관과 협업해 투표 참여 홍보 영상을 제작한다고 밝혔다. 전북선관위 관계자는 “지방선거가 ‘풀뿌리 민주주의’의 핵심임에도 불구하고, 대선이나 총선에 비해 상대적으로 저조한 투표율을 기록해 온 현실을 타개하기 위한 조치”라고 했다. &lt;br&gt;&lt;br&gt;앞서 지난 제8회 지방선거의 전국 투표율은 50.9%에 그쳤다. 이는 제21대 대통령선거(79.4%), 제22대 국회의원선거(67%)와 비교해 현저히 낮은 수치다. &lt;br&gt;&lt;br&gt;박 주무관은 지난 21대 대선 당시 군산시 공식 인스타그램에 출연한 ‘투표 시 유의사항’ 영상으로 누적 조회수 610만회를 기록하며 대중의 호응을 얻은 바 있다. &lt;br&gt;&lt;br&gt;전북선관위는 박 주무관과 함께 선거의 의미, 투표 방법 등을 담은 숏폼 콘텐츠를 제작해 정치에 거리감을 느끼는 유권자들에게 친근하게 다가간다는 계획이다. 해당 영상은 유튜브와 소셜미디어(SNS) 등을 통해 순차적으로 공개된다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘안산 ITS 비리’ 뇌물 받은 전직 공무원, 징역 5년 </title>
       <link>https://www.chosun.com/national/national_general/2026/01/15/YCPBA7BZHRCYDAATKXHAF5CCAY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/YCPBA7BZHRCYDAATKXHAF5CCAY/</guid>
@@ -838,43 +901,6 @@
       <description/>
       <pubDate>Thu, 15 Jan 2026 08:00:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPTYCCMUOZHLRGHGYHKVIXKW6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시 지능형교통체계(ITS) 사업과 관련해 민간 업체 관계자로부터 뇌물을 받은 전직 공무원이 실형을 선고받았다. &lt;br&gt;&lt;br&gt;수원지법 안산지원 형사2부(재판장 박지영)는 15일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의로 기소된 전 안산시 6급 공무원 A씨에게 징역 5년과 벌금 6천만원을 선고하고 5천100여만원의 추징을 명령했다.&lt;br&gt;&lt;br&gt;또 A씨에게 뇌물을 건넨 혐의(뇌물공여) 등으로 함께 기소된 업체 대표 B씨에게는 징역 5년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 안산도시정보센터 근무 당시 ITS 사업과 관련해 B씨 업체 측에 편의를 제공하는 대가로 5000여만원의 뇌물을 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 B씨 업체가 안산시 ITS 사업자로 선정되도록 관계자들에게 추천하고 시내에 교통정보 상황판을 설치하는 과정에서 비공개 자료를 넘기는 등 특혜를 준 것으로 확인됐다. &lt;br&gt;&lt;br&gt;그는 B씨로부터 체크카드를 받아 2023년 7월부터 작년 2월까지 생활비 등에 사용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 A씨에 대해 “공무원으로서 직무를 공정하게 수행해야 하지만 뇌물을 수수했다”며 “특히 B씨의 체크카드를 사용하는 방식으로 범행을 은폐하려 한 점 등 죄질이 무겁다”고 판시했다. &lt;br&gt;&lt;br&gt;B씨에 대해선 “자신의 경제적 이익을 극대화하기 위해 현직 도의원과 공무원들에게 거액의 뇌물을 공여하는 등 비리의 정점에 있어 엄한 처벌이 불가피하다”고 했다. &lt;br&gt;&lt;br&gt;한편 A씨 등이 연루된 ITS 사업 비리 사건은 안산상록경찰서가 작년 4월부터 6개월간의 수사를 거쳐 21명(구속 7명·불구속 14명)을 검찰에 송치했다. 현재 피고인별로 재판이 진행 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 1월 16일 금요일 (음력 11월 28일 庚寅)</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/15/G6GA65YADFBVJKMH6N5XSQJGXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/G6GA65YADFBVJKMH6N5XSQJGXI/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>‘빗나간 화살 하마터면’... 경찰 조사 받은 20대 회사원</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/15/BEYA43U555FIZBFAVQLWUYTZ6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/15/BEYA43U555FIZBFAVQLWUYTZ6M/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 07:58:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTAM3FMIYDGYJYMZTDSY3FMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 자정쯤 충북 청주 상당구 청소년광장에서 강아지와 함께 산책 중이던 50대 여성을 향해 날아든 화살이 땅바닥에 박혀 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주 도심에서 행인 주변으로 화살을 쏜 20대가 경찰 조사를 받았다. &lt;br&gt;&lt;br&gt;청주청원경찰서는 20대 A씨를 특수폭행 혐의로 입건해 조사 중이라고 15일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 7일 오후 11시40분쯤 청주시 상당구 청소년광장에서 강아지와 산책하던 50대 여성 인근으로 활을 쏜 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 화살은 여성으로부터 약 2.5m, 강아지로부터 약 1.5ｍ 떨어진 광장 화단에 꽂혔다. 발견된 화살은 길이 약 80㎝로 금속 재질의 화살촉이 달려 있었다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 직장 동료인 B(20대)씨와 인근 식당에서 술을 마시고 약 70m 떨어진 지점에서 활을 쏜 것으로 확인됐다.&lt;br&gt;&lt;br&gt;B씨는 자신의 차량 트렁크에서 활을 꺼내 5m 앞 나무를 향해 쏴서 맞췄다. 이후 A씨가 화살을 회수해 같은 나무를 향해 쐈으나 빗나간 화살이 여성 쪽으로 날아간 것으로 조사됐다. 이들은 화살을 쏜 뒤 각자 차량을 몰아 귀가했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “나무를 향해 화살을 쐈을 뿐 사람이 지나가는 줄 몰랐다”고 진술했다. &lt;br&gt;&lt;br&gt;같은 혐의로 입건된 B씨는 활과 화살을 호기심에 인터넷 쇼핑몰에서 구입한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰관계자는 “이들에 대해 음주운전 혐의 적용도 검토하고 있다”며 “고의성 여부 등을 추가로 조사한 뒤 사건을 검찰에 송치할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘1억 공천 헌금’ 강선우 의원 20일 소환 통보</title>
-      <link>https://www.chosun.com/national/incident/2026/01/15/QP5MJXLRORH4PETYHFKW66O6GY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/15/QP5MJXLRORH4PETYHFKW66O6GY/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 05:24:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42DGMBTMI4WKOLGGZRGEN3FME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선우 무소속 의원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘1억 공천 헌금’을 수수한 혐의를 받는 강선우(무소속) 의원을 20일 불러 조사할 계획이다.&lt;br&gt;&lt;br&gt;15일 경찰 등에 따르면, 서울경찰청 공공범죄수사대는 20일 강 의원 측에 출석을 통보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;강 의원은 지난 2022년 지방선거를 앞두고 당시 후보였던 김경 서울시의원으로부터 공천 헌금 1억원을 받은 혐의를 받고 있다. 강 의원은 당시 더불어민주당 서울시당 공천관리위원이었다. 이 의혹은 지난달 29일 언론에 강 의원과 김병기 더불어민주당 의원이 2022년 4월 나눈 대화 녹음이 공개되면서 불거졌다.&lt;br&gt;&lt;br&gt;녹음을 들어보면, 강 의원은 다주택 문제로 지방선거 공천에서 배제될 것을 미리 안 김 시의원이 강 의원의 지역구 사무국장에게 전화해 1억원 준 사실을 폭로하겠다고 했다고 김 의원에게 말한다. 김병기 의원이 “1억원 받은 걸 사무국장(A씨)이 보관하고 있었다는 것 아니냐”고 묻자, 강 의원은 “그렇죠. 그냥 아무 생각이 없었던 거죠”라고 했다. 강 의원은 “살려주세요” 하며 읍소도 했다.&lt;br&gt;&lt;br&gt;강 의원에게 공천 헌금 1억원을 줬다는 김 시의원은 15일 경찰에 출석해 재조사를 받았다. 김 시의원은 경찰에 “카페에서 강 의원을 직접 만나 1억원을 전달했다”는 취지의 자수서를 제출했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경로 실랑이 끝에 택시 기사 살해한 20대, 징역 35년</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/15/DP2SCWDU3NFM5HJWBEHG4DQMYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/DP2SCWDU3NFM5HJWBEHG4DQMYQ/</guid>
-      <dc:creator>수원=김수언 기자, 수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 07:14:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BW3IZBQTIVHENNCSTIH2L2FH5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시 운전기사를 흉기로 찔러 살해한 20대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사15부(재판장 정윤섭)는 15일 살인 및 살인미수, 절도 등 혐의를 받는 A(22)씨에게 징역 35년을 선고했다. 또 재판부는 20년간 위치추적 전자장치 부착 명령을 선고했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 A씨에게 사형과 함께 전자장치 부착 및 5년간 보호관찰 명령을 구형했다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 26일 오전 3시 27분쯤 화성시 비봉면 삼화리의 한 도로에서 60대 택시 운전기사 B씨를 흉기로 수십차례 찌른 뒤 택시를 훔쳐 달아난 혐의로 구속기소됐다. 당시 B씨는 병원으로 옮겨졌지만 끝내 숨졌다.&lt;br&gt;&lt;br&gt;또 A씨는 도주 과정에서 자신의 범행을 목격한 마을 주민 2명을 훔친 택시로 잇따라 치어 각각 골절과 타박상을 입힌 혐의도 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 1시간여 뒤인 오전 4시 40분쯤 서울 서초구에서 긴급체포됐다.&lt;br&gt;&lt;br&gt;그는 자신이 알려준 대로 B씨가 운전했지만 목적지가 나오지 않자 30분간 헤매자 실랑이 끝에 B씨를 살해한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;재판부는 “피해자를 잔인하고 참혹하게 살해했고 신고를 막을 목적으로 현장 부근에 있던 주민도 다치게 했다”며 “잔인하고 포악한 정도, 경위와 태도, 수단 및 결과를 고려할 때 죄책에 상응하는 엄한 처벌이 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;다만 검사가 구형한 사형에 대해서는 “피고인의 질환이 일부 범행에 영향을 미친 것으로 보이는 점 등을 비춰보면 사형을 정당화할 사정이 명백하게 밝혀졌다고 단정할 수 없다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김기현 사퇴’ 관련 MBC 라디오 징계...2심도 “취소해야”</title>
@@ -908,15 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 1월 24일 양승태 전 대법원장 구속으로 사법부가 뒤숭숭한 가운데 서울 서초구 중앙지법에서 법원 직원들과 민원인들이 오가고 있다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘인보사케이주(인보사)’ 성분 조작 사태로 투자 손실을 입었다며 소액 주주들이 코오롱티슈진과 증권사 등을 상대로 손해배상 소송을 냈으나 1심에서 패소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사30부(재판장 김석범)는 15일 주주 302명이 코오롱티슈진과 이웅열 전 코오롱 회장 등을 상대로 제기한 85억원대 손해배상 청구를 기각했다. 재판부는 동종 사건의 기존 판결 결과를 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 재판부는 지난달 주주 192명이 청구한 67억원 규모 손해배상 소송에서도 원고 패소로 판결했다. 재판부는 “주성분이 다르다고 해서 효능이나 안전성에 본질적인 차이가 있다고 보기 어렵다”며 “투자 판단에 중대한 영향을 미치는 사항을 허위로 기재하거나 누락했다고 단정하기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;인보사는 코오롱그룹 계열사인 코오롱티슈진이 개발한 골관절염 유전자 치료제다. 코오롱은 1999년부터 18년간 2000억원 이상을 들여 연구를 진행했고, 2017년 11월 국내에서 세계 최초로 판매를 시작했다. 그러나 2019년 미국 식품의약국(FDA) 3상 임상시험 중 핵심 성분이 당초 신고 내용과 다르다는 게 드러났다. 국내 허가 과정에서 식품의약품안전처에 ‘연골 유래 세포’라고 보고했지만, 실제 사용된 것은 ‘신장 유래 세포’였다. 이후 국내 허가가 취소됐고 주가가 급락했다.&lt;br&gt;&lt;br&gt;이와 관련해 형사재판에 넘겨진 이웅열 명예회장은 지난해 11월 1심에서 무죄를 선고받았다. 1심 재판부는 코오롱 측이 성분을 고의로 속이거나, 성분 차이를 인지한 상태에서 이를 은폐했다고 보기 어렵다고 판단했다. 또 이 명예회장이 2015년 FDA의 임상 중단 조치 등을 숨긴 채 상장을 추진하거나 투자를 유치했다는 혐의도 받아들이지 않았다. 함께 기소된 이우석 코오롱생명과학 대표 등 임원 6명에게도 모두 무죄가 선고됐다. 이들에 대한 항소심 선고는 다음 달 5일로 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰 조사받으러 가면서도 ‘한잔’… 상습 음주운전 60대, 구속기소</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/15/MV4Z2OWLJ5C3ZOOB4WTQK3QOOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/MV4Z2OWLJ5C3ZOOB4WTQK3QOOU/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 06:14:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJP4VWZRWNFM7JCKFKLYV6EPUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지검./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 상습 음주운전자가 구속 상태로 재판에 넘겨졌다. 그는 음주운전으로 단속돼 경찰 조사를 받으러 가는 도중에도 술을 마시고 운전대를 잡았다가 적발됐다. &lt;br&gt;&lt;br&gt;의정부지검 형사1부(부장 이정민)는 도로교통법 위반(음주운전) 등 혐의로 A(60대)씨를 구속 기소했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 음주운전 혐의로 불구속 기소돼 1심 재판을 받고 있는 상태였다.&lt;br&gt;&lt;br&gt;재판이 진행 중이던 10월에 A씨는 면허취소 수준의 만취 상태로 운전을 하다 3번 적발됐고 교통사고도 냈다. 특히 A씨는 음주 단속에 걸린 후 경찰 조사를 받으러 갈 때도 음주운전을 하다 적발됐다.&lt;br&gt;&lt;br&gt;검찰은 음주운전을 계속할 위험성이 높다고 판단, A씨를 구속하는 한편 범행 도구인 승용차도 압수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>건보공단 500억대 ‘담배 소송’ 2심도 패소</title>
       <link>https://www.chosun.com/national/court_law/2026/01/15/R6QV2UTX2FH65F6TRU6ME3VALU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/R6QV2UTX2FH65F6TRU6ME3VALU/</guid>
@@ -935,15 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNFI6BZP2VHRNC6Z5ETKKADR6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검 보이스피싱 정부 합동수사부가 검거한 캄보디아 보이스피싱 조직./서울동부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군부대와 공공기관을 사칭해 국내 소상공인들을 상대로 ‘노쇼 사기’를 벌인 캄보디아 보이스피싱 일당이 붙잡혔다. &lt;br&gt;&lt;br&gt;서울동부지검 보이스피싱 정부 합동수사부(합수부)는 범죄단체 가입 및 활동, 통신사기피해환급법 위반 등의 혐의로 조직원 23명을 전원 구속기소 했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 캄보디아 시아누크빌을 거점으로 지난해 5월부터 11월까지 주요 기관 직원을 사칭해 소상공인 215명으로부터 38억원을 뜯어낸 혐의를 받는다. 주로 병원∙군부대∙대학 등을 사칭하고 업체에 대량 주문을 넣을 것처럼 접근한 뒤, 특정 업체에서만 파는 물품을 대신 결제해달라고 요구하고 잠적하는 노쇼 사기 수법을 쓴 것으로 드러났다. 1차 유인책이 특정 업체를 통한 대리구매를 요청하면 2차 유인책이 해당 업체를 사칭해 구매대금을 가로채는 식이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YCRXFECVZCZFB6APU3S77UZXY.png"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에 거점을 둔 보이스피싱 조직이 '노쇼 사기'를 벌이면서 제작한 허위 명함./서울동부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 총책∙한국인 총괄∙팀장∙유인책으로 이어지는 위계 구조를 갖추고 조직적으로 범행을 해온 것으로 나타났다. 범행 수법도 치밀했다. 병원∙대학교∙군부대 로고가 그려진 허위 명함이나, 국방부 명의로 된 허위 구매 공문서를 제작했다. 명함에는 ‘시설기획팀 업무 총괄’이라는 직책도 적혀있었다. &lt;br&gt;&lt;br&gt;지난해 소상공인을 노린 노쇼 사기 피해 신고가 전국적으로 접수된 바 있다. 합수부는 지난해 6월 국가정보원이 확보한 국제범죄 정보를 토대로 수사에 착수했다. 캄보디아 수사당국과 실시간 국제공조로 3개월 만에 23명을 검거했다. &lt;br&gt;&lt;br&gt;합수부는 외국에 체류 중인 것으로 파악되는 해당 조직 총책 등을 추적 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대법 “피자헛 차액가맹금 반환해야”… 프랜차이즈 ‘유통 마진’ 관행 제동</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/15/QQU3QM3BCVH77LVW57BL3YYBIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/QQU3QM3BCVH77LVW57BL3YYBIY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 02:25:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKQQEW76WRMDVPVEUUBPYRCGFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울시내 피자헛 매장 앞에서 시민들이 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치킨·피자 등 프랜차이즈 본사가 가맹점에 식자재를 공급하며 남겨 온 ‘차액가맹금’에 제동을 거는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 15일 한국피자헛 가맹점주 94명이 본사를 상대로 낸 부당이득금 반환 청구 소송 상고심에서 본사가 가맹점주들에게 2016~2022년 차액가맹금 214억원을 돌려주라고 한 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;차액가맹금은 본사가 원·부자재를 시장 도매가격보다 높은 가격에 납품하면서 얻는 이윤으로 일종의 유통 마진이다. 앞서 점주들은 “본사가 매출의 6%를 로열티(가맹수수료)로 받아가면서, 계약서에 없는 마진까지 식재료값에 포함해 이중으로 챙겼다”며 2020년 소송을 냈다. 본사 측은 “차액가맹금은 가맹사업법이 인정하는 정당한 수익원이며 물류 관리와 브랜드 유지를 위한 필수적 비용”이라고 맞서 왔다.&lt;br&gt;&lt;br&gt;앞서 1심은 “계약서에 근거가 없는 차액가맹금은 부당 이득”이라며 2019~2020년분 75억원을 반환하라고 판결했다. 항소심은 기간을 2016~2022년으로 확대해 반환액을 214억원으로 늘렸다. 본사가 원가 자료 제출을 거부하자, 항소심 재판부는 점주 측이 제시한 역산 방식을 받아들였다.&lt;br&gt;&lt;br&gt;대법원 판단도 같았다. 대법원은 “본사가 차액가맹금을 받으려면 점주와 구체적인 합의가 필요하다”고 판단했다. 법령에 차액가맹금이 가맹금의 한 형태로 규정돼 있다고 해서 별도 합의 없이 이를 받아가선 안 된다는 것이다. ‘묵시적 합의’가 있었다는 본사 측 주장도 받아들이지 않았다. &lt;br&gt;&lt;br&gt;재판부는 특히 통상 본사가 정보력과 교섭력에서 우위를 가지는 가맹계약의 특수성을 강조했다. 점주에게 불리한 내용의 묵시적 합의를 인정하려면, 가맹점에 충분한 정보를 제공했는지, 계약서에 명시하지 않을 특별한 이유가 있는지 등을 종합적으로 고려해 신중하게 판단해야 한다는 것이다.&lt;br&gt;&lt;br&gt;이번 판결은 프랜차이즈 본사가 차액가맹금을 수익원으로 삼아 온 관행에 제동을 건 첫 대법원 판단이다. 현재 BHC, 배스킨라빈스, 교촌치킨, BBQ 등 다른 프랜차이즈를 상대로도 유사 소송이 잇따르고 있어, 이번 판결이 업계 전망에 영향을 미칠 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 尹 ‘체포 방해’ 1심 선고 생중계 허용</title>
       <link>https://www.chosun.com/national/court_law/2026/01/15/FFLFZQZ4NBBB5POGBNRVJ637WQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/15/FFLFZQZ4NBBB5POGBNRVJ637WQ/</guid>
@@ -951,15 +959,6 @@
       <description/>
       <pubDate>Thu, 15 Jan 2026 02:05:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52Q4RJNODJMHPJUET2EN2LRBY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 체포 방해 및 비화폰 기록 삭제 혐의 사건 선고를 하루 앞둔 15일 서울 서초구 서울중앙지방법원에 경찰 질서유지선이 설치되어 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 16일 열리는 윤석열 전 대통령의 체포 방해 등 사건 1심 선고 장면이 TV로 생중계된다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 특수공무집행방해 등 사건을 맡고 있는 서울중앙지법 형사35부(재판장 백대현)는 15일 “방송사의 중계방송 신청을 허가함에 따라 법원 자체 장비로 촬영한 영상을 방송사에 실시간 송출할 예정”이라고 밝혔다. 선고는 16일 오후 2시 311호 법정에서 열린다.&lt;br&gt;&lt;br&gt;과거 박근혜 전 대통령과 이명박 전 대통령의 경우도 1심 재판이 생중계됐다. 2018년 4월 박근혜 전 대통령의 국정농단 혐의 사건 1심 선고가 처음으로 생중계됐고, 같은 해 7월 박 전 대통령의 국가정보원 특수활동비 수수 사건 1심 선고가 중계됐다. 그해 10월엔 이명박 전 대통령의 다스 사건 1심 선고가 생중계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변비 환자 절반이 65세 이상… 천연 변비 완화제 ‘프룬’이 뜬다</title>
-      <link>https://www.chosun.com/medical/2026/01/15/HGKFHTBYKBGITOXADILXYNKSMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/01/15/HGKFHTBYKBGITOXADILXYNKSMQ/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLSTZZUC6BEITLLLARKXMCHK5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;변비 개선하는 소르비톨을 함유한 프룬./게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김모(72) 씨는 요즘 아침이 두렵다. 식사를 마치고 화장실에 앉아도 소식이 없다. 사흘에 한 번 겨우 배변을 하는데, 그마저도 딱딱해서 오래 힘을 줘야 한다. 병원 검사에서는 특별한 장질환이 없다고 했다. “나이 들면 다 그렇다”는 말로 넘기기엔, 복부 불편과 식욕 저하, 우울감까지 겹친다.&lt;br&gt;&lt;br&gt; 고령 인구가 늘면서 ‘질병이 없어도’ 변비로 고생하는 사람이 증가하고 있다. 2024년 변비로 의료기관을 찾은 환자는 68만5000여 명, 그중 65세 이상이 33만7000여 명으로 절반(49%)을 차지한다.&lt;br&gt;&lt;br&gt; 고령자에게 변비가 늘어나는 이유는 나이 들면 노화로 장운동 자체가 느려지기 때문이다. 대변이 대장을 통과하는 시간이 길어진다. 그 과정에서 수분이 빠져 대변이 딱딱해진다. 항문·직장 감각의 둔화로 변이 마려운 줄을 잘 모르는 경우도 있다. 변이 직장으로 내려와도 배변 신호를 늦게 느끼고 참게 된다. 변의를 조금이라도 느끼면, 바로 화장실을 가는 게 좋다. 복근의 약화로 변을 밀어내는 힘도 약해진다. &lt;br&gt;&lt;br&gt;걷지 않으면 장도 안 움직인다. 활동량이 적은 노인은 변비 발생 위험이 커진다. 나이 들면 ‘목마름 감각’의 노화로 수분 섭취가 충분하지 않을 수 있는데, 그러면 대변이 딱딱해지기 쉽다. 식이섬유를 많이 먹어도 수분 섭취를 먼저 충분히 하지 않으면 대변량이 늘지 않을 수 있다.&lt;br&gt;&lt;br&gt; 고령자 만성 변비를 줄이려면, 대변을 부드럽게 만들고, 대장 연동을 촉진해야 한다. 최근 이런 요소들을 개선하는 식품으로 프룬(말린 서양자두)이 관심을 끈다. &lt;br&gt;&lt;br&gt;프룬이 변비를 개선하는 핵심 성분은 소르비톨(sorbitol)이다. 이는 자두 속에 있는 천연 당 알코올로, 장내 수분을 유지하는 작용을 한다. 소르비톨이 ‘물먹는 하마’처럼 대변에 머물러 있으면서 수분을 끌어와, 경미한 삼투성 설사를 유도한다. 변을 묽게 하는 효과다. 그래서 프룬은 자연에서 나온 삼투성 완하제로 불린다. 보라색 껍질 속 폴리페놀 성분이 장내 미생물 환경을 개선하여 배변 환경을 좋게 하기도 한다. 프룬 외에 소르비톨이 많이 함유된 식품은 사과, 키위, 배, 아보카도, 가지 등이다.&lt;br&gt;&lt;br&gt; 만성 변비가 있다면, 위-대장 신경 반사를 이용하여 식사 후 변의가 오면 바로 화장실에 가는 게 좋다. 걷기는 장운동이라고 생각하고 자주 걸어야 한다. 수분 섭취를 충분히 하면서, 식이섬유 섭취를 늘리는 것이 좋다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[대변 묽게 하여 변비 개선하는 소르비톨 함유 식품]&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;과일&lt;/b&gt;&lt;br&gt;&lt;br&gt;프룬(말린 서양자두), 사과, 키위, 배, 체리, 복숭아, 자두&lt;br&gt;&lt;br&gt;&lt;b&gt;채소&lt;/b&gt;&lt;br&gt;&lt;br&gt;아보카도, 옥수수(스위트콘), 가지, 순무, 청경채, 일부 버섯, 당근, 고구마, 양배추&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
