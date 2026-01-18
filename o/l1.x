@@ -6,12 +6,51 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 법원 "의사 국시 실기 채점 기준 비공개 타당"</title>
+			<description>의사 국가시험 실기시험의 세부 평가 항목과 채점 기준 비공개 처분은 적법하다는 법원 판단이 나왔다. 서울행정법원 행정8부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9397"&gt;양순주&amp;nbsp;&lt;/span&gt;부장판사)는 2025년 11월 12일, 의사 국가시험의 실기시험에 불합격한 응시자 A 씨가 한국보건의료인국가시험원(이하 시험원)을 상대로 제기한 정보공개 거부 처분 취소소송에서 원고 패소로 판결했다(&lt;b&gt;2025구합53454&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;2024년에 실시된 2025년도 제89회 의사 국가시험 실기시험 총점 합격선은 718점, 통과 문제 수 합격선은 6개였다. A 씨는 합격선에서 0.103점 모자란 717.897점을 얻었고 통과 문제 수도 5개에 그쳐 불합격했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;A 씨는 자신이 통과하지 못한 문제의 평가 요소, 채점 척도, 단계별 점수 및 합격 기준 점수 등의 공개를 청구했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;시험원은 비공개 결정했다. A 씨는 ‘시험은 이미 종료됐으므로 정보를 공개하더라도 업무의 공정한 수행에 현저한 지장을 초래한다고 볼 수 없다’며 법원에 정보공개 거부 처분 취소소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 시험원의 비공개 결정이 타당하다고 봤다. 재판부는 “의사 국가시험의 채점 항목은 시험과목의 특성상 어느 정도 주관적일 수밖에 없다”며 “채점 항목의 내용과 구성을 공개할 경우 그 정합성을 둘러싼 시시비비에 휘말리는 상황이 초래될 우려가 크다”고 판시했다. 재판부는 “평가 업무의 수행 자체에 막대한 지장을 초래해 궁극적으로는 실기시험의 존립이 무너질 가능성도 있다”고도 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;해당 시험이 문제 은행 출제 방식으로 운영되고 있다는 점이 인정됐다. 채점 항목과 구성이 공개될 경우 응시생들이 의학적 역량을 함양하는 것보다는 공개된 항목 위주로만 대비하는 등 부작용이 우려된다는 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;시험의 채점 항목의 내용과 구성을 공개하면 변별력을 유지하기 위해 매년 채점 항목을 변경해야 하는데, 시험에 출제할 수 있는 임성 표현과 기본 진료 술기가 정해져 있어 이를 매년 변경하는데 한계가 있다는 점도 재판부는 지적됐다.&lt;/p&gt;</description>
+			<pubDate>Sun, 18 Jan 2026 22:10:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215043</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215043</guid>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 수용자 자해 치료비, 국가가 돌려받을 수 있다</title>
+			<description>교정시설 수용자가 자해로 치료받은 뒤 출소했다가 다른 범죄로 다시 구금된 경우, 국가는 치료비에 대해 구상권을 행사할 수 있다는 대법원 판단이 나왔다. 대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;대법관)는 2025년 12월 11일 대한민국 정부가 A 씨를 상대로 낸 구상금 청구 소송 상고심에서 원심 판결 중 구상금 부분을 파기하고 사건을 수원지법으로 돌려보냈다(&lt;b&gt;2025다215041&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2012년부터 교정 기관에 수용돼 있다가 2022년 1월 대구교도소에서 자해했다. 같은 해 7월 형기 종료로 출소했다.&lt;p&gt;&lt;br /&gt;A 씨는 10월 특수협박죄로 다시 구속돼 수원구치소에 입소했다. 이듬해 2월까지 앞선 자해 행위로 인한 수술 및 통원 치료를 받았다. 정부는 A 씨 치료비로 약 3535만 원을 지출했다. 정부는 “A 씨의 자해로 발생한 치료비를 국가가 대신 부담했으므로 그 상당액을 반환하라”며 구상금 청구 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;‘형의 집행 및 수용자의 처우에 관한 법률’ 제37조 제5항은 “수용자가 자신의 고의 또는 중대한 과실로 부상 등이 발생해 외부 의료시설에서 진료를 받은 경우, 소장은 그 진료비의 전부 또는 일부를 수용자에게 부담하게 할 수 있다”고 규정한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;1·2심은 이 조항을 근거로 국가가 치료비를 구상하려면 수용자의 지위가 유지된 상태에서 부상이 발생하고 진료가 이뤄져야 한다고 해석했다. A 씨는 자해 후 출소해 수용자 지위를 상실했다가 다시 구금된 뒤 치료를 받았으므로, 해당 조항을 적용할 수 없다고 보고 국가 패소로 판결했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 국가가 치료비를 구상하기 위해 반드시 부상 발생 시점과 치료 시점 모두에서 수용자 지위가 유지돼야 하는 것은 아니라고 판단했다. 대법원은 “교정시설의 장은 수용자가 자신의 고의 또는 중대한 과실로 부상 등이 발생해 외부 의료시설에서 진료를 받은 경우에는 그 진료비의 전부 또는 일부를 그 수용자에게 부담하게 할 수 있다고 규정하고 있다”며 “수용자 스스로의 고의 또는 중대한 과실에 따라 부상 등이 발생하는 예외적인 경우에는 국가는 수용자에게 지급한 진료비·치료비의 전부 또는 일부의 구상을 청구할 권리가 있다”고 판시했다. 이어 “반드시 수용자가 동일한 사유로 수용된 상태에서 부상과 치료 행위가 이뤄질 필요까지는 없다”고 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원은 “자해 행위 당시의 수용자 지위가 외부 의료시설에서 부상을 치료할 당시까지 유지되지 않았다 등의 이유로 구상금 청구를 기각한 원심 판결에는 형집행법상 구상권 발생 요건에 관한 법리 등을 오해해 판결에 영향을 미친 잘못이 있다”고 판시했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 18 Jan 2026 21:08:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215037</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215037</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>인텔리콘연구소, 교육박람회서 교권 보호 AI '나눔이' 선보인다...양석용 대표 특별 강연도</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215090.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;AI나눔이 교권침해 질의응답 화면&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;리걸테크 기업 인텔리콘연구소(공동대표 임영익·&lt;span style="font-weight: bold;" class="lawmanlink" serial="26019"&gt;양석용&lt;/span&gt;)가 1월 21일부터 23일까지 서울 강남구 삼성동 코엑스에서 열리는 '제23회 대한민국 교육박람회(Education Korea 2026)'에서 교원 전용 AI인 'AI 나눔이(AI-Nanumi)'를 선보인다고 밝혔다.&lt;br /&gt;&lt;br /&gt;인텔리콘은 최근 교권 침해가 사회적 문제로 대두된 데 따라 이번 박람회에서 교사들이 스스로를 보호할 수 있는 AI 기술을 제시한다는 계획이다.&lt;br /&gt;&lt;br /&gt;'AI 나눔이'는 교육 관련 법령, 판례, 지침 등 약 8000건의 데이터를 학습한 생성형 AI다. 교사가 '학생의 팔을 잡고 제지했는데 아동학대가 될까?'와 같은 질문을 입력하면, AI가 대법원 판례와 최신 가이드라인을 분석해 법적 판단과 대응책을 제시한다. &lt;br /&gt;&lt;br /&gt;인텔리콘에 따르면 'AI 나눔이'는 현재 경기·부산 등 주요 시도교육청과 전국 일선 학교에서 학교폭력 사안 처리 및 법률 지원에 사용되고 있으며, 한국교육학술정보원(KERIS)이 주관한 서울·부산 지역 초·중등학교 대상 에듀테크 실증 사업에서 현장 적합성 검증을 완료했다.&lt;br /&gt;&lt;br /&gt;인텔리콘은 특히 이번 전시회에서 '행정 문서 자동 생성' 기능을 집중 시연할 계획이라고 밝혔다. '행정 문서 자동 생성'은 교사가 진술서와 신고서, 진단서 등의 기초 자료를 입력하면 △사안 개요 △진술자별 진술 요약 △교육활동 침해유형 구분 △교권보호 조치의 필요성 등을 포함한 사안조사 보고서를 단 몇 분 만에 완성해주는 기능이다.&lt;br /&gt;&lt;br /&gt;이 밖에도 인텔리콘은 현장 부스 방문객을 대상으로 'AI 나눔이 1개월 무료 이용권'과 '학교 도입 상담 프로모션' 등의 혜택을 제공할 예정이다. 행사 첫날인 21일에는 양석용 대표가 'AI 시대, 학교 현장의 법률 문제 해결 방안'을 주제로 특별 강연을 진행한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="26019"&gt;양석용&lt;/span&gt;(사법연수원 43기) 인텔리콘 대표는 "선생님들이 법률적 불안감과 과도한 행정 업무에서 벗어나, 오직 학생 교육에만 전념할 수 있도록 돕는 것이 개발 취지"라며 "이번 박람회를 통해 전국의 선생님들이 '내 손 안의 AI 법률비서'를 직접 경험해보시길 바란다"고 전했다.&lt;br /&gt;&lt;br /&gt;인텔리콘 관계자는 "앞으로 학교폭력 및 교권보호 분야를 넘어 생활교육, 교원복무, 안전사고, 학사행정 등 교원들이 자주 마주하는 다양한 영역으로 지원 범위를 확장할 계획"이라고 말했다. &lt;br /&gt;</description>
+			<pubDate>Sun, 18 Jan 2026 13:11:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215090</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215090</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215090.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>광주전남지방법무사회, 전남사회복지공동모금회에 성금 1950만 원 기탁</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215085.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;2025년 12월 29일 진행된 성금 전달식 참석자들이 기념사진을 촬영하고 있다.《사진=광주전남지방법무사회》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;광주전남지방법무사회(회장 정덕안)가 지난 12월 29일 전남사회복지공동모금회에 성금 1950만 원을 기탁했다. 이번 이웃돕기 성금 모금에 회원 303명이 참여했다. &lt;br /&gt;&lt;br /&gt;정덕안 회장은 "지역사회로부터 받은 신뢰와 사랑을 다시 지역사회에 환원하는 것은 우리의 중요한 책무"라며 "회원들의 정성이 모여 이웃들에게 작은 희망이 되길 바라며, 앞으로도 꾸준한 나눔활동을 이어가겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;광주전남지방법무사회는 1998년부터 매년 이웃돕기 성금 모금을 진행하고 있다. 지금까지 모두 4억 4640만 원을 기탁하는 등 사회공헌 활동을 이어오고 있다.</description>
+			<pubDate>Sun, 18 Jan 2026 13:08:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215085</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215085</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215085.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독] 김선화 판사, 지은수 변호사 서울대 로스쿨 교수 임용</title>
-			<description>김선화(사법연수원 42기) 서울가정법원 판사와 지은수(변호사시험 10회) 김·장 법률사무소 변호사가 서울대 로스쿨 교수로 임용됐다. 김 판사는 젠더법 전공, 지 변호사는 민사소송법 전공 조교수로 임용됐으며 올해 3월부터 강단에 설 예정이다.&lt;br /&gt;&lt;br /&gt;김 판사는 서울대 사회과학대학에서 정치학을 전공한 뒤 같은 학교 법과대학에서 법학석사와 박사 학위를 취득했다. 사법연수원 수료 후 2014년 대전지법 판사로 임관했다. 서울중앙지법을 거쳐 현재 서울가정법원에서 근무하고 있다.&lt;br /&gt;&lt;br /&gt;주요 논문으로는 〈양육비 미지급자에 대한 신상공개 논의의 법사회학적 분석-'베드파더스' 사례를 중심으로-〉(저스티스, 2025), 〈제노사이드적 강간(Genocidal Rape)의 독자적 불법성과 그 함의-ICTR의 Akayesu 판결을 중심으로-〉(사법, 2024) 등이 있다.&lt;br /&gt;&lt;br /&gt;지 변호사는 미국 매사추세츠공과대학교(MIT)에서 수학을 전공한 뒤 서울대 로스쿨에서 법학전문석사 학위를 취득했다. 2024년 8월부터 김·장 법률사무소에서 변호사로 활동해 왔다.〈청구의 선택적·예비적 병합의 요건 재검토〉(저스티스, 2025), 〈본안판결을 받을 이익〉(민사법학, 2025) 등의 논문을 발표했다.&lt;br /&gt;&lt;br /&gt;공익법 분야 외국인 교수로는 에르말 알프레드 프라셰리(Ermal Alfred Frasheri) 미국 덴버대 로스쿨 겸임교수가 임용됐다. 프라셰리 교수는 알바니아 법무부에서 근무한 뒤 하버드 로스쿨에서 법학박사(S.J.D.) 학위를 취득했다. 하버드대 국제개발센터(CID) 선임연구원 및 프로젝트 매니저 등으로 활동했다.&lt;br /&gt;&lt;br /&gt;서울대 로스쿨은 2025년 2학기에도 세법 전공으로 김범준(36기) 교수를, 상법 전공으로 이혜민(38기) 교수를 각각 신임 교수로 임용한 바 있다. 두 교수 모두 대법원 재판연구관을 지냈다. &lt;br /&gt;&lt;br /&gt;허성욱(29기) 서울대 로스쿨 교수(교무부원장)는 "서울대 로스쿨은 국내 최고 수준의 법학교육과 연구를 통해 세계 유수의 다른 로스쿨과 경쟁하기 위한 노력을 하고 있다"며 "국내외 최고 수준의 신임 교수 채용은 그 노력의 가장 근간에 해당한다"고 말했다. &lt;br /&gt;</description>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 375px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215088.jpg" alt="23423.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김선화 판사, 지은수 변호사&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22100"&gt;김선화&lt;/span&gt;(사법연수원 42기) 서울가정법원 판사와 지은수(변호사시험 10회) 김·장 법률사무소 변호사가 서울대 로스쿨 교수로 임용됐다. 김 판사는 젠더법 전공, 지 변호사는 민사소송법 전공 조교수로 임용됐으며 올해 3월부터 강단에 설 예정이다.&lt;br /&gt;&lt;br /&gt;김 판사는 서울대 사회과학대학에서 정치학을 전공한 뒤 같은 학교 법과대학에서 법학석사와 박사 학위를 취득했다. 사법연수원 수료 후 2014년 대전지법 판사로 임관했다. 서울중앙지법을 거쳐 현재 서울가정법원에서 근무하고 있다.&lt;br /&gt;&lt;br /&gt;주요 논문으로는 〈양육비 미지급자에 대한 신상공개 논의의 법사회학적 분석-'베드파더스' 사례를 중심으로-〉(저스티스, 2025), 〈제노사이드적 강간(Genocidal Rape)의 독자적 불법성과 그 함의-ICTR의 Akayesu 판결을 중심으로-〉(사법, 2024) 등이 있다.&lt;br /&gt;&lt;br /&gt;지 변호사는 미국 매사추세츠공과대학교(MIT)에서 수학을 전공한 뒤 서울대 로스쿨에서 법학전문석사 학위를 취득했다. 2024년 8월부터 김·장 법률사무소에서 변호사로 활동해 왔다.〈청구의 선택적·예비적 병합의 요건 재검토〉(저스티스, 2025), 〈본안판결을 받을 이익〉(민사법학, 2025) 등의 논문을 발표했다.&lt;br /&gt;&lt;br /&gt;공익법 분야 외국인 교수로는 에르말 알프레드 프라셰리(Ermal Alfred Frasheri) 미국 덴버대 로스쿨 겸임교수가 임용됐다. 프라셰리 교수는 알바니아 법무부에서 근무한 뒤 하버드 로스쿨에서 법학박사(S.J.D.) 학위를 취득했다. 하버드대 국제개발센터(CID) 선임연구원 및 프로젝트 매니저 등으로 활동했다.&lt;br /&gt;&lt;br /&gt;서울대 로스쿨은 2025년 2학기에도 세법 전공으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14172"&gt;김범준&lt;/span&gt;(36기) 교수를, 상법 전공으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16535"&gt;이혜민&lt;/span&gt;(38기) 교수를 각각 신임 교수로 임용한 바 있다. 두 교수 모두 대법원 재판연구관을 지냈다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5038"&gt;허성욱&lt;/span&gt;(29기) 서울대 로스쿨 교수(교무부원장)는 "서울대 로스쿨은 국내 최고 수준의 법학교육과 연구를 통해 세계 유수의 다른 로스쿨과 경쟁하기 위한 노력을 하고 있다"며 "국내외 최고 수준의 신임 교수 채용은 그 노력의 가장 근간에 해당한다"고 말했다. &lt;br /&gt;</description>
 			<pubDate>Sun, 18 Jan 2026 10:03:29 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/215088</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215088</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215088.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
 		</item>
 		<item>
@@ -198,46 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215059</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215059.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>서울중앙지방법무사회, 시각중복장애아동시설 '라파엘의집' 봉사 재개</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215057.jpg" alt="215057.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;류선재 서울중앙지방법무사회 회장(오른쪽). 《사진=서울중앙지방법무사회》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울중앙지방법무사회(회장 류선재)는 1월 15일 서울 종로구 체부동 사회복지법인 하상복지재단 ‘라파엘의집’을 방문해 코로나19로 중단됐던 봉사활동을 5년 만에 재개했다.&lt;br /&gt;&lt;br /&gt;서울중앙지방법무사회는 2011년부터 매년 라파엘의집에서 장애아동 식사 보조, 시설 청소 등 봉사활동을 이어왔으나 코로나19 여파로 중단됐다.&lt;br /&gt;&lt;br /&gt;이날 재개된 봉사에는 류선재 회장, 서선진 제2부회장, 봉사단장·부단장 등 6명이 참여해 장애아동 식사 보조와 시설 환경 정비 등 실질적인 활동을 진행했다. 아울러 150만 원 상당의 후원금을 전달하며 지속적인 나눔을 약속했다.&lt;br /&gt;&lt;br /&gt;라파엘의집은 1986년 가톨릭 신앙을 가진 시각장애인들이 더 어려운 환경의 시각중복장애아동을 돌보기 위해 설립된 기관으로, “올바른 사랑을 실천하고 가치 있는 삶을 구현하는 가정공동체”를 지향한다. 성장기 장애아동에게 개별 특성에 맞춘 교육·의료 재활, 특수교육 연계지원 프로그램 등을 제공하며 보편적인 일상생활을 할 수 있도록 지원한다.&lt;br /&gt;&lt;br /&gt;류선재 회장은 “코로나로 끊겼던 봉사 전통을 되살리는 상징적 행사로, 법률 전문성을 넘어 지역사회 복지 활동에 힘쓰겠다”고 말했다.</description>
-			<pubDate>Fri, 16 Jan 2026 13:06:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215057</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215057</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215057.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>'회계법인 대륙아주' 출범...법무법인 대륙아주와 협업해 회계·재무자문 제공</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215062.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이영식 회계사, 이동우 법무법인 대륙아주 파트너변호사·회계사, 안진욱 회계사&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;법무법인 대륙아주&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)는 '회계법인 대륙아주'가 1월 20일 공식 출범한다고 밝혔다.&lt;br /&gt;&lt;br /&gt;회계법인 대륙아주는 △회계감사 및 회계자문 △재무자문 △기업가치평가 등의 서비스를 제공할 계획이다.&lt;br /&gt;&lt;br /&gt;초대 대표는 이영식 회계사가 맡는다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="30181"&gt;이동우&lt;/span&gt;(변호사시험 5회) 회계사와 안진욱 회계사는 설립 파트너로 참여한다.&lt;br /&gt;&lt;br /&gt;이 대표는 2010년 공인회계사 시험에 합격해 삼일회계법인 Deal 본부에서 근무를 시작했다. 이후 회계법인 세종과 참회계법인, 현대회계법인에서 15년 동안 M&amp;A, 기업가치평가, 사업타당성 검토, 회계감사 등을 담당했다. &lt;br /&gt;&lt;br /&gt;부대표를 맡은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="30181"&gt;이동우&lt;/span&gt;&amp;nbsp;회계사는 2008년 공인회계사 시험에 합격해 딜로이트 안진회계법인에서 활동하다 2016년 제5회 변호사시험에 합격한 후 법무법인 대륙아주에 합류해 M&amp;A, 금융규제(분식회계), 기업자문 등의 부문에서 주로 활동하고 있다. 앞으로 법무법인과 회계법인 사이의 협업을 적극 조율할 예정이다. 안진욱 회계사는 2008년 안진회계법인 감사본부에서 근무를 시작한 이후 삼덕회계법인, 농협중앙회에서 17년 동안 실무를 담당했다. &lt;br /&gt;&lt;br /&gt;이 대표는 "지난 30여 년간 쌓아온 법무법인 대륙아주의 전문성과 신뢰를 바탕으로 회계법인 대륙아주가 힘차게 첫 발을 내딛는다"며 "법률과 회계가 어우러진 최상의 서비스를 고객들에게 제공하겠다"고 포부를 밝혔다.</description>
-			<pubDate>Fri, 16 Jan 2026 13:05:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215062</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215062</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215062.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한법률구조공단, '창원 개인회생·파산종합지원센터' 개소...파산·면책 절차 무료 지원</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215064.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김영진 이사장(앞 줄 오른쪽 네번째)등 창원 개인회생·파산종합지원센터 개소식 참석자들이 기념촬영을 하고 있다.《사진=대한법률구조공단》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한법률구조공단(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2697"&gt;김영진&lt;/span&gt;)이 창원 개인회생·파산종합지원센터(이하 창원 파산센터)를 개소했다. 창원 파산센터 개소는 2009년 서울 센터 개소 이후 대구, 부산, 광주, 대전, 수원, 울산, 인천, 의정부에 이어 열번째다.  &lt;br /&gt;&lt;br /&gt;이번 개소는 창원시 등 경상남도 지역 내 채무 문제로 어려움을 겪는 금융취약계층의 조속한 사회 복귀를 지원하기 위한 것이며, 기획재정부 복권위원회의 복권기금 지원을 통해 추진됐다. &lt;br /&gt;&lt;br /&gt;개인회생·파산종합지원센터는 중위소득 125% 이하 국민을 대상으로 개인회생·파산·면책절차 전반에 대한 전문 법률서비스를 무료로 제공한다. 또한 채무자가 불법추심으로부터 보호받을 수 있도록 채무자대리인 선임 지원도 함께 제공하고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2697"&gt;김영진&lt;/span&gt;(사법연수원 21기) 이사장은 "이번 창원 파산센터 개소로 경상남도 지역 금융취약계층에게 보다 실질적인 법률서비스를 제공할 수 있게 됐다"며 "앞으로도 공단은 채무 문제로 고통 받는 국민들이 사회의 일원으로 다시 자리 잡을 수 있도록 적극 지원하겠다"고 말했다.&lt;br /&gt;</description>
-			<pubDate>Fri, 16 Jan 2026 13:00:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215064</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215064</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215064.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>포항범방, 정기총회 및 회장 이·취임식...이복우 신임 회장 취임</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215071.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;포항범방 '2026 정기총회 및 회장 이·취임식' 참석자들이 단체사진을 촬영하고 있다.《사진=포항범방》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;범죄예방위원 포항지역협의회(이하 포항범방) '2026 정기총회 및 회장 이·취임식'이&amp;nbsp;1월 14일 경북 포항시 북구 양덕동 포항지청 대회의실에서 열렸다.  이날 이복우 신임 회장이 취임했다. &lt;br /&gt;&lt;br /&gt;이 신임 회장은 "학교폭력 예방 활동, 기소유예 청소년 선도보호 활동, 탈북민·다문화가정 청소년의 안정적 정착 등에 지원을 아끼지 않겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;이임하는 나주영 회장은 지난 4년간 제12·13대 회장을 재임하며 지역사회 발전과 범죄예방 활동에 기여했다. 그는 그 공로를 인정받아 재직 중에 국민훈장 '모란장'을 받기도 했다.&lt;br /&gt;&lt;br /&gt;행사에는 포항지청의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13256"&gt;최나영&lt;/span&gt;(사법연수원 35기) 지청장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16233"&gt;이주용&lt;/span&gt;(38기) 1부장 검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17262"&gt;유시동&lt;/span&gt;(39기) 2부장 검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="39125"&gt;최은민&lt;/span&gt;(변호사시험 10회) 검사, 이호종 사무과장이 참석했다. 포항범방에서는 김승유 수석부회장, 주지홍 운영부위원장을 비롯해 부회장, 운영위원, 협의회 위원장 등 위원 80여 명이 함께했다.&lt;br /&gt;&lt;br /&gt;이날 우수 범죄예방위원 표창 수여식도 진행됐다. 김진홍·이문형 위원이 법무부 장관 표창을, 김윤수 위원이 검찰총장 표창을, 장혁준 위원이 검사장 표창을 받았다. 지청장 표창은 박선호 위원 등 6명이 받았다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13256"&gt;최나영&lt;/span&gt;&amp;nbsp;지청장은 "지역사회의 사회적 약자인 소외계층과 청소년들이 건강하게 성장할 수 있도록 따뜻한 사회 만들기에 지원을 아끼지 않겠다"며 "더 나아가 범죄 없는 행복한 포항 만들기에 힘을 모으겠다"고 말했다.</description>
-			<pubDate>Fri, 16 Jan 2026 12:59:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215071</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215071</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215071.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
