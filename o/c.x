@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>10·15 대책 후 서울 토지거래허가 신청 건수 9935건…매달 증가세</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/18/F3P65CJV2RBENFSY2V2MM4ZEKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/F3P65CJV2RBENFSY2V2MM4ZEKQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 05:01:00 +0000</pubDate>
+      <content:encoded>지난해 정부의 ’10·15 대책’이 시행된 이후 서울 전역의 토지 거래 허가 신청 건수가 1만건에 육박한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTDAOLGGAZTSODBGEYGCMZWGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 남산 전망대에서 바라본 시내에 아파트가 빼곡히 들어차 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난해 10~12월 서울의 토지 거래 허가 신청 건수가 9935건으로 집계됐다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;월별 신청 건수는 지난해 10월 1066건, 11월 3981건, 12월 4888건으로 매달 늘었다.&lt;br&gt;&lt;br&gt;작년 11월 서울의 아파트 매매 실거래가는 한 달 전보다 1.28% 상승한 것으로 파악됐다. 1년 전인 2024년 11월과 비교하면 12.95% 올랐다. 지역별로는 도심권·동남권·서남권에서 실거래가가 상승했고, 특히 도심권이 한 달 전보다 3.46% 올랐다. 전세 실거래가는 한 달 전 대비 0.94% 오른 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울시는 앞으로 토지 거래 허가 신청 현황과 한국부동산원 실거래 가격 지수 등 주택 시장 정보를 매달 공개할 예정이다. 생활권, 규모 등 시장 동향도 분석해 ‘서울주택 정보마당’ 홈페이지에 매달 말 공개한다.&lt;br&gt;&lt;br&gt;최진석 주택실장은 “실거래 기반의 정확한 시장 정보를 서울시가 지속적으로 제공하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“다친 소 약물 맞고 출전까지” 청도 소싸움 동물학대 논란에 실태조사</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/18/OWFITZB7UBE3NMSJ3OFBA4GJDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/OWFITZB7UBE3NMSJ3OFBA4GJDQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 04:18:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSWCZJUGIYDONRZMY3WCYRXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청도소싸움축제 장면. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농림축산식품부(이하 농식품부)가 18일 동물 학대라는 지적이 거듭 제기된 청도 소싸움에 대한 실태 조사를 실시하고 필요한 조치를 하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;농식품부는 경북 청도군과 함께 소싸움 운영 관리를 강화하겠다고 예고하며 싸움소 등록 정보 전수 조사, 비문(코 무늬) 채취 시스템 도입, 싸움소 복지 증진을 위한 외부 전문가 위원회 운영, 우권(牛券·소싸움 경기에 돈을 걸고 사는 표) 발매 건전화 등을 추진할 계획이라고 설명했다.&lt;br&gt;&lt;br&gt;특히 약물 과다 주입, 부상 싸움소 경기 출전 등 동물 학대 행위에 대해서는 동물보호법에 따라 강력하게 조치할 것이라고 강조했다. 동물에 도구·약물 등 물리·화학적 방법을 사용해 상해를 입히는 행위는 2년 이하 징역 또는 2000만원 이하 벌금에 처한다.&lt;br&gt;&lt;br&gt;앞서 녹색당 대구광역시당은 성명에서 상당수 싸움소가 다친 채 진통제 등 약물을 맞고 출전한다면서 싸움소에 대한 잔혹한 학대를 중단하라고 촉구했다. 동물복지단체들도 오래 전부터 소싸움 폐지를 요구하고 있다.&lt;br&gt;&lt;br&gt;지난해 11월 진보당 손솔 의원은 ‘전통소싸움경기에 관한 법률 폐지법률안’을 대표 발의하기도 했다.&lt;br&gt;&lt;br&gt;이 법안은 소싸움 관련 사행 행위를 금지하고 싸움소도 동물보호법을 적용받도록 하는 것이 골자다.&lt;br&gt;&lt;br&gt;현행 동물보호법은 ‘도박·공고·오락·유흥 등의 목적으로 동물에게 상해를 입히는 행위’를 동물 학대로 규정하지만, 전통소싸움법에 따른 소싸움은 예외로 하고 있다.&lt;br&gt;&lt;br&gt;농식품부는 “청도 소싸움의 발전적 개선을 위해 싸움소 농가, 청도군 등 이해 관계자, 동물 보호 단체가 함께 논의 할 수 있는 협의체를 구성하고 이를 통해 추가 보완 대책을 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MRSWCZJUGIYDONRZMY3WCYRXGI.jpg?auth=eac9ba9bdb22c427868fd5478a20838af57d6275746c909592f56e3d6017e7cd&amp;smart=true&amp;width=2946&amp;height=1756" type="image/jpeg" height="1756" width="2946">
+        <media:description type="plain">청도소싸움축제 장면. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>삼전·하이닉스 등 대기업 계약학과 정시 지원 40% 증가 </title>
+      <link>https://www.chosun.com/national/education/2026/01/18/H6SF75MLYBA6RNVCU77ACYCBVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/18/H6SF75MLYBA6RNVCU77ACYCBVY/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 04:40:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZD7GJZX7FLLLHGXOIETF7LBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 서울 종로구 성균관대학교 600주년 기념관에서 열린 종로학원 주최 2026 정시 합격 가능선 예측 및 지원전략 설명회에서 참석자들이 배치표를 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 대학 정시 모집에서 대기업과 연계된 대학 계약학과 지원자가 전년 대비 40% 가까이 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;18일 종로학원에 따르면, 이번 정시 모집에서 삼성전자, SK하이닉스 등 7개 대기업 16개 계약학과 지원자는 2478명으로 집계됐다. 2025학년도(1787명)보다 38.7%(691명) 증가했다. 전체 경쟁률은 9.77대1에서 12.77대1로 올랐다.&lt;br&gt;&lt;br&gt;삼성전자와 연계된 대구경북과기원 반도체공학과의 경우 3명 모집에 267명이 몰려 89대1 경쟁률을 기록했다. 울산과기원 반도체공학과(5명 모집, 296명 지원)는 59.2대1이다. 고려대 차세대통신학과는 10명 모집에 67명이 지원해 6.7대1, 성균관대 지능형소프트웨어학과는 16명 모집에 100명이 몰려 6.25대1 경쟁률을 기록했다.&lt;br&gt;&lt;br&gt;SK하이닉스와 연계된 한양대 반도체공학과는 10명 모집에 118명이 지원했다. 삼성SDI와 연계된 성균관대 배터리학과 경쟁률은 46.17대1(12명 모집, 554명 지원)에 달했다.&lt;br&gt;&lt;br&gt;정시에서 대기업 계약학과들이 뽑는 인원은 2022학년도 78명, 2023학년도 140명, 2024학년도 178명, 2025학년도 183명, 2026학년도 194명으로 증가세다.&lt;br&gt;&lt;br&gt;앞서 종로학원은 2026학년도 전국 의약학 계열 정시 지원자는 1만8297명으로, 전년보다 24.7%(6001명) 감소했다고 밝힌 바 있다. 임성호 종로학원 대표는 “의약학 계열 지원자가 감소한 것과는 대조적으로, 계약학과에 대한 자연계 최상위권 학생들의 선호도가 높아지는 분위기가 뚜렷하다”며 “대학들은 지속적으로 계약학과 신설을 추진하고 있는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기후위기가 바꾼 재난 현장… 벌집제거 줄고 온열질환자 이송 늘어</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/18/AHGBPUKRTRHS3HA3KFNBY7TEUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/AHGBPUKRTRHS3HA3KFNBY7TEUQ/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 04:19:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDQOBWGJQWIYRRHFRDSZBWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북소방안전본부에 따르면 지난해 경북지역에서는 3000건이 넘는 화재로 60명이 사망하고 재산 피해액은 1조1600억원에 이른 것으로 집계됐다. 사진은 지난해 3월 23일 경북 의성군 화재 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후위기와 고령화가 맞물리면서 재난 현장의 양상도 달라지고 있다. 폭우와 폭염 같은 이상기후가 반복되면서 벌집 제거 등 일부 구조 출동은 줄어든 반면, 온열질환자 이송과 고령층 구급 출동은 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;소방청이 18일 발표한 ‘2025년 소방활동 분석’에 따르면, 지난해 화재·구조·구급 출동은 모두 452만501건으로 전년 대비 3.4% 감소했다. 다만 화재는 늘고 구조·구급 출동은 줄어드는 등 분야별로 엇갈린 흐름을 보였다.&lt;br&gt;&lt;br&gt;화재는 지난해 3만8341건 발생해 전년 대비 1.9% 증가해 전체 소방활동 지표 가운데 유일하게 늘어난 항목으로 나타났다. 화재 사망자도 346명으로 12.3% 증가했다. 소방청은 건조한 기후의 영향과 함께 전동킥보드·전기차 확산에 따른 배터리 관련 화재 등 화학적 요인 화재가 16.7% 늘어난 점을 주요 원인으로 분석했다.&lt;br&gt;&lt;br&gt;반면 구조 출동은 119만7158건으로 전년보다 9.2% 감소했다. 소방청은 통상 구조 출동의 상당 부분을 차지하던 벌집 제거 요청이 지난해 가을철 잦은 강수로 크게 줄어든 영향이라고 설명했다. &lt;br&gt;&lt;br&gt;구급 출동은 전체적으로는 1.2% 감소했지만, 폭염의 영향은 뚜렷했다. 짧은 장마 이후 이어진 역대급 폭염으로 온열질환자 이송은 전년 대비 12% 증가했다.&lt;br&gt;&lt;br&gt;한편 연령대별로는 60대 이상 이송 환자가 102만1423명으로 전체의 58.4%를 차지해 절반을 넘었다. 반면 10세 미만 소아 환자 이송은 5만3977명으로 1년 전보다 11.2% 줄었다. 소방청은 저출산·고령화로 구급 수요의 중심이 노년층으로 이동하고 있다고 분석했다.&lt;br&gt;&lt;br&gt;소방청은 “기후위기와 사회 구조 변화가 재난 현장에 직접적인 영향을 미치고 있다”며 “앞으로 데이터에 기반한 보다 정교한 재난 대응 체계를 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>北 침투 무인기, 날린 사람도 만든 사람도 尹 대통령실 출신</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/18/LMKGJYGSH5DLFMTRTJADAQOB6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/LMKGJYGSH5DLFMTRTJADAQOB6E/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 04:15:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4TKYJUGU4DEMRWGMZTGMRXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한이 한국발 무인기라며 공개한 사진 . /평양 노동신문=뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 무인기를 날려 보냈다고 주장하는 30대 남성 A씨와, 해당 무인기를 제작한 혐의를 받는 30대 남성 B씨 모두가 윤석열 정부 당시 대통령실에서 근무한 이력이 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, A씨는 윤석열 정부 당시 대통령실 대변인실에서 뉴스 모니터링 요원으로 근무한 경력이 있다. 현재 서울의 한 유명 사립대 언론대학원에 재학 중인 것으로 알려졌다. 그는 과거 보수 성향 대학생 단체 회장을 지낸 바 있다.&lt;br&gt;&lt;br&gt;B씨 또한 A씨와 비슷한 시기에 대통령실에서 근무한 것으로 알려졌다. B씨는 지난해 11월 경기 여주 일대에서 미신고 무인기를 날린 혐의(항공보안법 위반)로 검찰에 송치된 바 있다. 당시 적발된 무인기 기종은 이번 논란이 된 기체와 동일한 것으로 전해졌다. 군과 경찰은 “연구실에서 제작한 기체를 시험 비행했다”는 B씨 해명에 따라 대공 혐의점은 없다고 판단했었다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 서울의 한 사립대 선후배 사이로, 2024년 대학의 지원을 받아 무인기 제작 업체를 창업해 각각 대표와 이사를 맡았다. 두 사람은 2020년에도 통일 관련 청년단체를 조직해 함께 활동한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 최근 한 언론과의 인터뷰에서 “B씨가 중국 온라인 마켓에서 기체를 구입해 1차 개량했고, 내가 카메라를 장착해 무인기를 날렸다”라고 설명했다. 그는 무인기 비행 목적이 북한 예성강 인근 우라늄 공장의 방사선 및 중금속 오염도를 측정하기 위한 것이었다고 주장하며, 정부가 사실이 아니라고 밝힌 ‘북한 핵 폐수의 서해 유입 의혹’을 검증하려는 시도였다고 덧붙였다.&lt;br&gt;&lt;br&gt;B씨는 A씨의 요청으로 무인기를 제작했을 뿐 실제 운용에는 관여하지 않았다는 입장이다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨 간 무인기 제작과 운용 과정에서의 역할 분담, 사전 공모 여부, 범행 동기와 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘해외대학 경력 허위 기재’ 이유로 면직된 대학교수…법원 “부당”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/18/3R7LAYEQABHEPC5RZ7LNKNR3HE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/18/3R7LAYEQABHEPC5RZ7LNKNR3HE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 04:17:29 +0000</pubDate>
+      <content:encoded>해외 대학 경력을 허위로 기재했다는 이유로 대학교수를 면직 처분한 것은 부당하다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 학교법인 홍익학원이 교원소청심사위원회를 상대로 제기한 결정 취소 소송에서 원고 패소 판결했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXIGAUEI4LUHQAJHZAZF53CS7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍익대학교는 2020년도 1학기 A씨를 전임 교원으로 임용한 뒤 부교수로 정식 임용했지만, 2023년 8월 면직 처분을 내렸다. A씨가 외국 대학에서 전임 교원으로 근무한 사실이 없는데도 15년가량 재직한 것처럼 경력을 허위로 기재해 부정한 방법으로 임용됐다는 이유였다.&lt;br&gt;&lt;br&gt;A씨는 면직 처분을 취소해 달라며 교원소청심사위에 소청 심사를 청구했고, 이듬해 1월 교원소청심사위는 면직 처분을 취소하는 결정을 내렸다. 교원소청심사위는 A씨가 근무한 해외 대학에 우리나라의 조교수·부교수에 해당하는 직위가 공식적으로 존재하지는 않지만, A씨가 수행한 지위가 현지 대학에서 정교수로 임용되기 위해 거쳐야 하는 단계에 해당해 전임교원에 미치지 못한다고 보기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;이에 홍익학원은 교원소청심사위 결정을 취소해달라며 행정소송을 제기했다. 그러나 법원은 교원소청심사위의 판단이 합리적이라고 보고 홍익학원 측 청구를 기각했다. &lt;br&gt;&lt;br&gt;재판부는 A씨가 일한 해외 대학과 우리나라의 교수제도가 달라 전임·비전임 여부를 명확히 구분하는 게 불가능하다고 했다. 재판부는 “외국 대학과 우리나라는 교수제도와 지위, 개념이 달라 A씨가 수행한 지위가 우리나라의 전임교원에 해당하는지, 비전임교원에 해당하는지 명확히 구분하는 것이 불가능하다”며 “A씨로서는 우리나라의 조교수·부교수에 준하는 경력이라면 전임교원에 해당한다고 판단했을 가능성이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 또 A씨의 학문적 성취나 권한 등이 전임교원에 미치지 못한다고 볼 수 없고, 자기소개서 기재 내용이 허위라고 볼 만한 사정을 찾을 수 없다고도 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>분양권 불법 전매 1141건 신고하고 “포상금 달라”… 대법 “안 줘도 된다”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/18/ALJ4D55SIVAOPCC4HDN3WDT4GI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/18/ALJ4D55SIVAOPCC4HDN3WDT4GI/</guid>
@@ -840,69 +897,6 @@ TV에 생중계된 1심 선고  16일 윤석열 전 대통령이 서울 서초�
         <media:description type="plain">(서울=뉴스1) 황기선 기자 = 16일 오후 서울 중구 NH농협은행 본점영업부를 시내버스가 들이받는 사고가 발생해 경찰과 소방당국이 이를 수습하고 있다. 2026.1.16/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 황기선 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 밀가루에 예민한 장? 모르게 먹였더니 ‘멀쩡’</title>
-      <link>https://www.chosun.com/medical/2026/01/15/43DBO4J6ARD2TLIK3OORPCSBSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/01/15/43DBO4J6ARD2TLIK3OORPCSBSY/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 15:51:00 +0000</pubDate>
-      <content:encoded>과민성 대장증후군은 대장에 뚜렷한 병리 소견이 없으면서도 자주 배가 아프고 설사와 변비가 반복되는 질환이다. 한 해 140만여 명이 이 질환으로 의료기관을 찾는다. 환자들 상당수는 밀가루와 글루텐이 들어간 음식을 먹으면 장 증상이 악화된 경험이 있어서 빵을 포함한 밀가루와 글루텐 음식을 먹지 않으려 한다. 최근 국제학술지 랜싯 소화기 편에 글루텐에 과민성이 있다고 호소하는 환자들이 실제로 그런지를 조사한 연구가 발표됐다.&lt;br&gt;&lt;br&gt;연구는 과민성 대장증후군 환자로서 밀가루 음식을 먹으면 증상이 생겨서 글루텐-프리 식이를 실천하는 캐나다인 28명을 대상으로 했다. 먼저 밀가루/글루텐이 포함되지 않은 시리얼바(영양 간식)와 밀가루가 들어간 것, 글루텐이 들어간 것을 동일한 모양, 색깔, 맛을 갖도록 제작했다. 연구 대상자들이 3종류 시리얼바를 무작위 순서로 각각 일주일씩 먹게 한 후, 그 기간마다 소화기 증상이 어떤지를 조사했다.&lt;br&gt;&lt;br&gt;그 결과, 소화기 증상이 증가한 환자 수는 밀가루 시리얼바에서 11명, 글루텐 시리얼바는 10명, 밀가루/글루텐이 없는 시리얼바에서는 8명이었다. 통계적으로 차이가 없었다. 과민성 대장증후군 증상 점수도 각 군 간에 차이가 없었다.&lt;br&gt;&lt;br&gt;과민성 대장증후군 환자들은 뇌와 대장과의 상호작용을 통해 신경의 예민한 변화가 장 증상을 유발한다. 밀가루를 먹고 나서 장 증상을 한 번 경험하게 되면, 밀가루를 볼 때마다 장 증상이 생길 것이라는 믿음이 생겨서 실제로는 밀가루나 글루텐이 문제를 일으키지 않아도 장 증상을 경험하게 되는 것으로 추정된다. 뇌-장 신경 반사에 당하는 꼴이다. 환자들은 밀가루 음식이 실제로 문제를 일으키는지, 제대로 테스트해 볼 필요가 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ULL5QPHHUVDRRAIOX3Y7C3HOPI.jpg?auth=98dfa24c57315226884d1113c22627028cede8c47e971e81cb01259967db7029&amp;smart=true&amp;width=480&amp;height=322" type="image/jpeg" height="322" width="480">
-        <media:description type="plain">밀가루 중심의 정제 탄수화물 중심 식단은 이성적 매력에도 영향을 미친다는 연구결과가 6일 발표됐다 /조선DB</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘임금체불’ 박영우 전 대유위니아 회장, 추가 사건도 실형… 징역 6개월</title>
-      <link>https://www.chosun.com/national/incident/2026/01/16/53CJSFYRCJCGVJPRAAGY6KBRHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/16/53CJSFYRCJCGVJPRAAGY6KBRHU/</guid>
-      <dc:creator>성남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 04:37:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHJX2OO5HSDKTQQOHUDCAFB7IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영우 전 대유위니아 그룹 회장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백억 원대 임금·퇴직금을 체불한 혐의로 1심에서 징역 4년을 선고받고 항소심 재판을 받고 있는 박영우 전 대유위니아그룹 회장이 추가 기소된 임금 체불 사건에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 수원지법 성남지원 형사11단독 강면구 판사는 근로기준법·근로자퇴직급여보장법 위반 혐의로 기소된 박 전 회장에게 징역 6개월을 선고했다. 다만 재판부는 도주 우려가 없다는 이유 등으로 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;같은 사건으로 기소된 계열사 전·현직 대표이사들에게는 징역형의 집행유예가 선고됐다. 김혁표 위니아 대표이사는 징역 3년에 집행유예 4년과 벌금 1000만원을, 박현철 위니아전자 대표이사는 징역 1년에 집행유예 2년을 선고받았다. 안병덕 전 위니아전자 대표이사는 징역 4개월에 집행유예 1년, 위대성 전 위니아 MF 대표이사는 징역 1년 6개월에 집행유예 3년을 각각 선고받았다.&lt;br&gt;&lt;br&gt;재판부는 “박영우 피고인은 그룹 회장으로서 계열사 재정 상황이 악화해 임금 등을 지급하지 못하게 된 것에 대해 가장 책임이 크다고 여겨지고, 다른 피고인들도 각 회사의 대표이사 등으로 재직하면서 이 같은 상황을 막지 못한 책임이 존재한다”고 판시했다.&lt;br&gt;&lt;br&gt;이번 사건에서 박 전 회장은 근로자 70여 명의 임금과 퇴직금 등 15억원을 체불한 혐의를 받는다. 나머지 계열사 전·현직 대표이사들은 각각 140억원, 9억원, 4000만원, 25억원 규모의 임금·퇴직금을 체불한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;박 전 회장은 별개 사건으로 2020~2023년 위니아전자와 위니아 근로자 800여 명의 임금·퇴직금 470여억원을 체불한 혐의로 지난해 2월 징역 4년을 선고받고 항소심 재판을 받고 있다. 그는 구속 기간 만료를 앞두고 신청한 보석이 인용돼 지난해 9월부터 불구속 상태로 재판을 받고 있다. 검찰과 피고인 측은 이번 판결에도 모두 불복해 항소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘분당 흉기난동’ 유족에 4억4000만원 배상 판결…최원종 부모 책임은 불인정</title>
-      <link>https://www.chosun.com/national/incident/2026/01/16/J3YYYDPEA5E3TE2YN2XWAEBQCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/16/J3YYYDPEA5E3TE2YN2XWAEBQCA/</guid>
-      <dc:creator>성남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 04:29:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DANLBGA3DGZLDMI2GCMJSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14명의 사상자를 낸 '서현역 흉기난동' 사건 피의자 최원종. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 경기 성남시 분당 서현역 일대에서 흉기 난동을 벌여 시민 2명을 숨지게 하고 12명을 다치게 한 최원종(25)이 피해자 유족에게 손해를 배상해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 제3민사부(재판장 송인권)는 16일 고(故) 김혜빈(사건 당시 20세)씨 유족이 최씨와 그의 부모를 상대로 8억8000여 만원을 배상하라며 낸 손해배상 청구 소송에서 “최씨는 김씨의 유족에게 4억4000여 만원을 배상하라”고 판결했다. 다만 최씨 부모에 대한 배상 청구는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 이날 선고 이유를 따로 밝히지 않았다. 유족 측 소송 대리인은 항소할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;최씨는 2023년 8월 3일 성남시 분당구 AK플라자 분당점 인근 서현역 일대에서 승용차로 인도로 돌진해 시민 5명을 들이받은 뒤, 백화점 내부로 들어가 흉기를 휘둘러 9명을 다치게 한 혐의로 재판에 넘겨졌다. 이 사건으로 김씨와 이희남(당시 65세)씨가 치료 중 숨졌고, 나머지 피해자들도 중경상을 입었다. 최씨는 2024년 11월 무기징역이 확정됐다.&lt;br&gt;&lt;br&gt;김씨 유족은 형사 처벌과 별개로 민사상 책임도 묻겠다며 지난해 5월 소송을 제기했다. 유족 측은 최씨가 범행 전 피해망상을 호소하고 흉기를 구입·소지하는 등 위기 징후가 있었는데도, 부모가 이를 막기 위한 조치를 제대로 하지 않았다고 주장하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>혈흔 자국에 드러난 거짓말… 소주병으로 지인 찌른 50대 ‘징역 7년’</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/16/3K7GRBESFVGZVIA5VDPNSU43QM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/3K7GRBESFVGZVIA5VDPNSU43QM/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>소주병으로 지인을 찌른 50대가 1심에 이어 항소심에서도 중형을 선고받았다.
-서울고법 춘천재판부 형사1부(재판장 이은혜)는 특수중상해 혐의로 기소된 A(55)씨에게 원심과 같은 징역 7년을 선고했다고 16일 밝혔다.
-</description>
-      <pubDate>Fri, 16 Jan 2026 04:23:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2TSYRXMZTDEYJZGI3DKOBZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지방법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소주병으로 지인을 찌른 50대가 1심에 이어 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 특수중상해 혐의로 기소된 A(55)씨에게 원심과 같은 징역 7년을 선고했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 12월 강원 강릉시 한 식당에서 지인 B(53)씨와 술을 마시던 중 깨진 소주병으로 B씨의 눈과 이마를 찔러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 당시 소주병으로 자신의 머리를 내리쳐 깨뜨린 뒤 범행을 저질렀으며, B씨는 이 사건으로 한쪽 눈이 실명됐다.&lt;br&gt;&lt;br&gt;A씨는 1심에 이어 항소심 과정에서도 “몸싸움 도중 바닥에 함께 뒹구는 과정에서 소주병 파편에 피해자의 눈이 찔렸을 가능성이 있다”며 혐의를 부인했다. 그러나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “식당 벽면과 탁자 등에 생긴 ‘핏자국’의 위치와 형태 등을 보면 바닥이 아니라 탁자에 앉아 있는 상태에서 눈 부위에 상처를 입은 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>통합하면 최대 20조원 지원 정부 발표에 광주·전남 “환영”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/16/2QZQ2LFUCVD7RNWKXTL6TIMS7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/2QZQ2LFUCVD7RNWKXTL6TIMS7M/</guid>
-      <dc:creator>광주광역시=진창일 기자, 무안=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 04:20:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OSJP7XTK5JFNKQ5Q5N4NHBWS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정(왼쪽) 광주광역시장과 김영록 전남지사가 9일 오후 광주 서구 김대중컨벤션센터에서 열린 광주ㆍ전남 행정통합 시도민 보고회에서 합의문을 발표한 뒤 기념사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시와 전남도가 한 몸으로 통합하면 4년간 최대 20조원의 재정 지원을 하겠다는 정부 발표에 시·도지사들이 환영의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 16일 광주시청에서 기자들과 만나 “김민석 국무총리가 직접 통합 특별시에 대한 지원 방안을 신속히 발표해 주신 데 대해 감사드린다”며 “이번 지원은 단순한 재정 투자를 넘어 광주·전남이 하나의 생활권이자 하나의 경제권으로 도약하는 출발점이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 정부 서울청사에서 브리핑을 열고 대전·충남, 광주·전남 통합 특별시에 행정 통합 인센티브로 각각 연 최대 5조원씩 4년간 최대 20조원을 지원하겠다고 밝혔다. 또 서울특별시에 준하는 지위와 자치권을 주고, 공공기관을 주로 이전받을 수 있는 혜택도 주겠다고 했다.&lt;br&gt;&lt;br&gt;강 시장은 “이번 발표는 예산 규모 약 25조원에 이르는 ‘광주·전남특별시’ 탄생을 예고하는 것”이라며 “이는 서울·경기에 이은 세 번째 규모”라고 했다.&lt;br&gt;&lt;br&gt;이어 “충북 청주시와 청원군이 통합할 때 4600억원, 경남 창원·마산·진해 때는 4400억원 정부 지원이 있었던 것을 감안하면 연간 5조원은 큰 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;김영록 전남지사도 정부 발표 뒤 전남도청에서 열린 시·군 상생 협력 간담회에서 “4년간 20조원을 지원하면 통합시가 적극적으로 미래를 향해서 출범할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 정부가 제시한 공공기관 우선 이전 지원안에 대해 “농협중앙회와 수협중앙회, 지역난방공사, 환경관리공단, 한국공항공사 등이 우리 지역에 오면 큰 힘이 될 것”이라며 “(공공기관) 유치에 적극 나서겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7OSJP7XTK5JFNKQ5Q5N4NHBWS4.jpg?auth=403099a9bc09b124cdfe60c62961b7b00f091b9fd0d5c27dd433aa6decf530e3&amp;smart=true&amp;width=3024&amp;height=2248" type="image/jpeg" height="2248" width="3024">
-        <media:description type="plain">강기정(왼쪽) 광주광역시장과 김영록 전남지사가 9일 오후 광주 서구 김대중컨벤션센터에서 열린 광주ㆍ전남 행정통합 시도민 보고회에서 합의문을 발표한 뒤 기념사진을 찍고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">조남수</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>대법, ‘옵티머스 펀드 돌려막기’ 하나은행 직원 무죄 확정…“단순 장부 처리”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/16/BFDBGXTY6RGA7PTNEI3MI67ZEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/BFDBGXTY6RGA7PTNEI3MI67ZEY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 6월 30일 서울 서초구 대법원 모습. 이날 대법원의 이재명 대통령 사건 파기환송 논란으로 열린 전국법관대표회의에서 5개 의안이 모두 부결됐다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옵티머스자산운용 펀드 환매 자금을 ‘돌려막기’한 혐의로 기소된 하나은행 직원에게 무죄가 확정됐다. 대법원은 수탁 은행이 회계 마감 처리를 위해 펀드 비운용 자금을 일시적으로 조정했다고 해도 실제 손해가 없다면 자본시장법상 금지된 ‘펀드 간 거래’로 처벌할 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 최근 특정경제범죄가중처벌법상 사기 방조와 자본시장법 위반 등 혐의로 기소된 김재현 전 옵티머스자산운용 대표와 조모 전 하나은행 수탁영업부 부장의 상고심에서 무죄를 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;이들은 2018년 8~12월 옵티머스 펀드 투자자들로부터 맡긴 돈을 돌려달라는 환매 요청이 몰리자, 하나은행에 수탁된 다른 펀드 자금 약 92억원을 끌어다 쓴 혐의를 받았다. 자본시장법은 수탁 은행이 펀드 재산을 구분해서 관리하도록 규정하고 있다. 펀드 사이의 권리나 의무 관계가 바뀌거나 투자자 피해가 생길 수 있기 때문이다. &lt;br&gt;&lt;br&gt;검찰은 하나은행에서 돌려막기를 해준 탓에 옵티머스가 사실상 부도 난 시점보다 1년 10개월 뒤인 2020년 6월이 돼서야 환매 중단 사태가 터졌다고 보고 조씨에게 사기방조 혐의도 적용했다.&lt;br&gt;&lt;br&gt;그러나 1·2심은 모두 조씨의 ‘돌려막기’가 자본시장법이 금지하는 ‘펀드 간 거래’라고 보기 어렵다며 무죄를 선고했다. 문제가 된 행위는 한 신탁계정의 여유 자금을 다른 신탁계정에 단기간 빌려주는 ‘은대조정’이라고 불리는 은행 업계 관행인데, 법원은 이는 실제 돈이 오간 거래와는 다르다고 판단했다. 그 결과 다른 펀드가 손해를 봤거나 투자자 피해가 발생했는지도 명확하지 않았다. 돈이 실제로 옮겨갔다면 이자도 바뀐 잔액 기준으로 계산돼야 하는데 그러지 않았다는 게 무죄의 핵심 근거가 됐다.&lt;br&gt;&lt;br&gt;특히 2심 재판부는 “은행의 마감 업무를 처리하기 위해 재무상태표의 항목을 입력한 행위에 불과하고 다른 펀드의 채권액이 감소했다고 보기 어렵다”고 판시했다. 사기 방조 혐의에 대해서도 재판부는 “조씨가 옵티머스 투자 대상 자산이 실재하지 않는다는 사실을 인식하고 있었다고 볼 증거가 부족하다”며 무죄로 판단했다.&lt;br&gt;&lt;br&gt;대법원도 원심 판단에 법리 오해나 심리 미진이 없다며 검사 상고를 기각했다. 다만 김 전 대표는 옵티머스 펀드 사기 사건으로 별도로 기소됐고 징역 40년과 벌금 5억원, 추징금 약 751억원이 확정돼 복역 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>역대 최악 ‘경북산불’ 유발했지만… 피고인 2명 징역형 집행유예</title>
