@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>은퇴 후 소득공백 메운다...경남도민연금 19일부터 가입 신청 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/01/18/L5Y526YN5JGKRJZBEKR2GZUR7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/01/18/L5Y526YN5JGKRJZBEKR2GZUR7Y/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 13:05:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DEMTBGQ4GKMRZGRSGEYTGMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도민연금 홍보포스터. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도가 은퇴 후 국민연금을 받기 전까지 발생하는 소득 공백을 메워주기 위한 경남도민연금 가입 신청을 받는다. 경남도민연금은 지방자치단체에서는 처음으로 시행하는 복지 시책이다.&lt;br&gt;&lt;br&gt;경남도는 19일부터 22일까지 경남도민연금 가입자 모집에 나선다고 18일 밝혔다. 있는 경남도민으로 1971~1985년 사이 출생자다. 연 소득 금액이 지난 2024년 귀속 소득 금액 증명 기준 9352만4227원 이하면 된다. 경남도민연금은 가입자가 월 8만원을 내면, 경남도가 2만원을 보태는 방식이다. 가령 50세의 도민이 매월 8만원씩 10년간 정기예금형(연 복리 2%)으로 납입하면 총 납입액은 960만원이 된다. 여기에 도의 지원금 2만원을 더하면 총 적립액은 1302만원이 된다. 이를 60세부터 5년간 분할 수령하면, 다달이 21만7000원의 연금을 받을 수 있게 된다. &lt;br&gt;&lt;br&gt;경남도는 60세 정년퇴직을 하면 65세(1969년생 이후 기준)에 국민연금 수령까지 5년간 발생하는 소득 공백을 메우고자 지방정부형 연금을 추진하기로 했다. 지난해 8월 보건복지부와 사회보장제도 신설 협의를 완료하고, 9월 조례를 제정하며 법적 기반을 마련했다.&lt;br&gt;&lt;br&gt;올해 모집 인원은 총 1만명이다. 시·군별 40~54세 인구비율에 따라 모집 인원을 배정할 계획이다. 매년 1만명씩 신규 가입자를 모집해 10년 차에 누적 가입자 10만명을 확보하는 것이 목표다.&lt;br&gt;&lt;br&gt;경남도 관계자는 “그동안 정책 사각지대에 있던 40~50대의 기대감이 매우 높다”며 “다른 시‧도에서도 경남도민연금을 주목하는 만큼 전국적인 모범 정책이 될 수 있도록 제도 안착에 최선을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임성근 셰프, 음주운전 자백 “무거운 짐… 사죄"</title>
+      <link>https://www.chosun.com/national/people/2026/01/18/HDZPW42E5FGM3E7YA3MQ536EGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/18/HDZPW42E5FGM3E7YA3MQ536EGQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 12:57:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVSCKYHKJFD7XN3MIWM6KQVQ7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '임성근 임짱TV' 캡처 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;넷플릭스 예능 ‘흑백요리사: 요리 계급 전쟁 시즌2’로 주목받은 임성근 셰프가 과거 세 차례 음주 운전 사실을 스스로 밝히고 사과문을 게재했다.&lt;br&gt;&lt;br&gt;임성근은 18일 유튜브 채널 ‘임성근 임짱TV’에 “안녕하세요. 임성근입니다”라는 글과 함께 자필 사과문을 공개했다. 그는 “먼저 저를 아껴주시고 응원해 주시는 많은 팬분과 시청자 여러분께 고개 숙여 깊은 사죄의 말씀을 올린다”며 “오늘 저는 제 가슴 한구석에 무거운 짐으로 남아있던 과거의 큰 실수를 고백하고 이에 대해 진심으로 사과와 용서를 구하고자 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 그는 같은 날 공개한 ‘음식 그리고 음주’ 영상에서 “술을 좋아하다 보니까 실수를 했다. 10년에 걸쳐서 세 번 정도 음주 운전을 했던 게 있다”며 “형사처벌을 받아서 면허가 취소됐고, 면허를 다시 땄다”고 말했다.&lt;br&gt;&lt;br&gt;임성근은 사과문에서 “음주 운전은 어떤 이유로도 변명할 수 없는 내 잘못이며 실수”라고 했다. 이어 “최근 과한 사랑을 받게 되면서 과거의 잘못을 묻어둔 채 활동하는 것이 나를 믿어주시는 여러분에게 기만이자 예의가 아니라는 생각이 들었다”며 자발적으로 공개한 이유를 설명했다. 그는 “더 늦기 전에 내 입으로 이 사실을 고백하고 사과드리는 것이 도리라고 판단해 오늘 이 글을 올리게 됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 “부주의한 행동으로 실망을 드려 다시 한번 진심으로 사과드린다”며 “과거의 잘못을 잊지 않고 사회에 선한 영향력을 끼칠 수 있는 조리사가 되도록 나 자신을 다스리며 살겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;임성근은 2015년 tvN ‘한식대첩 3’ 우승자로 이름을 알렸다. 이후 ‘알토란’, ‘아침마당’, ‘생생정보’ 등에 출연했고, 최근 넷플릭스 오리지널 예능 ‘흑백요리사: 요리 계급 전쟁 시즌2’로 인기를 얻으며 운영 중인 유튜브 채널 구독자 수가 35만명에서 약 99만명까지 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CJJKOZTNEJCG5JAZRRMCPQJMMQ.JPG?auth=bada04a5bf2b19389695140a7a746f45239b1b27a7977e57c8fd5249d995762b&amp;smart=true&amp;width=786&amp;height=442" type="image/jpeg" height="442" width="786">
+        <media:description type="plain">유튜브 채널 '임성근 임짱TV' 캡처</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>공채 탤런트 출신 정신우 셰프, 12년 암 투병 끝 별세</title>
+      <link>https://www.chosun.com/national/people/2026/01/18/MPHGGN6LJRBEDPV3M4WCGHHGQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/18/MPHGGN6LJRBEDPV3M4WCGHHGQ4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 11:13:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNYJJAPOSZGCDLTRTNC2F7C6FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 정신우씨./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC 공채 탤런트 출신으로 요리 분야에서 활동해 온 정신우(본명 정대열) 셰프가 56세의 나이로 별세했다.&lt;br&gt;&lt;br&gt;18일 요식업계에 따르면 오랜 기간 암으로 투병해 온 정 셰프는 이날 새벽 세상을 떠났다. &lt;br&gt;&lt;br&gt;강지영 세계음식문화평론가는 이날 자신의 인스타그램을 통해 부고를 전하며 “흉선암 선고를 받고 12년간 힘들게 투병을 하면서도 긍정의 힘으로 잘 버텨왔는데, 이제는 아프지 않고 고통 없는 곳에서 평안하게 지내기를 바란다”고 애도했다.&lt;br&gt;&lt;br&gt;고인은 1988년 뮤지컬 ‘가스펠’로 데뷔한 뒤 드라마 ‘박봉숙 변호사’ ‘갈채’ 등에 출연하며 배우로서 활동을 시작했다. 1998년 MBC 공채 탤런트로 선발된 이후에는 정신우라는 예명으로 ‘장미와 콩나물’ ‘상도’ 등 드라마에 출연했다.&lt;br&gt;&lt;br&gt;그러나 2000년을 끝으로 연기 활동을 접고 요리로 방향을 틀었다. 국내 1세대 푸드 스타일리스트 조은정 요리연구가가 운영하는 ‘조은정 식공간연구소’에서 푸드 스타일링을 공부한 뒤, EBS ‘최고의 요리 비결’ 등 여러 요리 프로그램에 출연했다.&lt;br&gt;&lt;br&gt;정 셰프는 2014년 흉선암 진단을 받은 뒤 12년간 투병해 왔다. 유족으로는 아내가 있으며, 빈소는 따로 마련하지 않는다. 장례 미사는 19일 오전 11시 서울 강남성모병원 장례식장에서 거행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>증평 성인PC방서 방화 추정 불...40대 용의자 전신화상 </title>
+      <link>https://www.chosun.com/national/2026/01/18/FGZELFF7QFALVMR5M3VCN27PFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/18/FGZELFF7QFALVMR5M3VCN27PFE/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 11:11:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHFOVIJG7RAWLPZJWYJH5ZT4VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 증평군 한 성인 PC방에서 방화로 추정되는 불이 났다. &lt;br&gt;&lt;br&gt;충북 괴산경찰서는 18일 현주건조물 방화 혐의로 A(40대)씨를 불구속 입건했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오후 3시 10분쯤 증평군 증평읍에 있는 한 2층짜리 건물 1층에 있는 성인 PC방에 불을 낸 혐의를 받는다. &lt;br&gt;&lt;br&gt;이 불로 A씨는 전신에 화상을 입어 병원에서 치료를 받고 있다. PC방 업주는 현장에서 대피했고, 당시 PC방에 손님은 없었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;불은 건물 내부 일부를 태운 뒤 20여 분 만에 꺼졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 PC방 내부에 인화성 물질을 이용해 고의로 불을 낸 것으로 보고 정확한 사건 경위를 조사하고 있다. 경찰은 A씨가 회복되는 대로 범행 동기 등 정확한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1억 공천 헌금’ 강선우 전 보좌관 연이틀 출석… 3차 조사</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/18/MZVO2Y7P35CVHAPFADIC7DHDJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/MZVO2Y7P35CVHAPFADIC7DHDJU/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 Jan 2026 10:22:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMEEVMOY2NIJRFRXGEZCZP5SCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무소속 강선우 의원의 전직 보좌관 남씨가 경찰 조사를 위해 17일 서울 마포구 서울경찰청 광역수사단으로 향하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 헌금’ 의혹의 핵심 인물인 강선우 무소속 의원의 전직 보좌관 남모씨가 18일 경찰에 출석했다. 전날 10시간이 넘는 고강도 조사를 받은 데 이어 연이틀 소환이다. 최근 김경 서울시의원과 강 의원 등 3명의 주장이 모두 엇갈린 데 따른 연속 조사로 풀이된다.&lt;br&gt;&lt;br&gt;이날 오후 서울경찰청 공공범죄수사대는 남씨를 피의자 신분으로 불러 조사하고 있다. 남씨는 ‘김 시의원에게 공천 헌금을 먼저 제안했느냐’ ‘1억원이란 액수도 먼저 정했느냐’ 등 취재진 질문에 답하지 않고 조사실로 들어갔다. 현재 김 시의원도 오전부터 출석해 조사받고 있다.&lt;br&gt;&lt;br&gt;남씨는 2022년 지방선거를 앞둔 당시 강 의원의 지역구 사무국장을 지내며 ‘공천 헌금’ 중간책 역할을 했다는 의혹을 받고 있다. 그간 그는 강 의원과 함께 김 시의원을 만난 사실은 인정하나, 자신이 잠시 자리를 비운 새 돈이 오갔다는 취지로 경찰에 진술한 것으로 전해졌다. 이후 강 의원이 ‘물건을 차에 옮기라’고 지시해 돈인지 모르고 차량 트렁크에 실었다는 것이다.&lt;br&gt;&lt;br&gt;하지만 김 시의원은 최근 경찰 조사에서 ‘남씨가 먼저 강 의원의 상황을 설명하며 공천 헌금을 제안했다’고 주장한 것으로 전해졌다. 특히 남씨가 ‘1억원’이라는 액수까지 정해줬고, 강 의원에게 이를 건넬 때 남씨도 함께 있었다고 진술했다고 한다. 이는 공천 헌금을 아예 인지하지 못했다는 남씨의 진술과 전면 배치되는 대목이다.&lt;br&gt;&lt;br&gt;둘의 진술은 강 의원의 해명과도 다르다. 강 의원은 공천 헌금 의혹이 불거지자 “남씨가 돈을 받았다는 보고를 뒤늦게 받고 즉시 반환을 지시해 반환된 것을 확인했다”며 부인해왔다.&lt;br&gt;&lt;br&gt;이런 가운데 경찰은 오는 20일 강 의원의 첫 소환 조사 전까지 김 시의원과 남씨 주장을 교차 검증하겠다는 방침이다. 향후 강 의원의 진술 향방에 따라 이들의 3자 대질 조사 가능성도 거론되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘대한’에 극한 한파 찾아온다...주말까지 영하 10도 미만 추위 계속</title>
       <link>https://www.chosun.com/national/transport-environment/2026/01/18/SFPAPRFINBC3XMGR2VTE32ISNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/18/SFPAPRFINBC3XMGR2VTE32ISNM/</guid>
@@ -863,15 +912,6 @@ TV에 생중계된 1심 선고  16일 윤석열 전 대통령이 서울 서초�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD2IGMYSW5HR7OIOJ46HVKKNQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김재원 국민의힘 최고위원과 서영교 더불어민주당 의원. /뉴스1·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서영교 더불어민주당 의원이 자신을 향해 ‘서팔계(서영교+저팔계)’라는 표현을 사용한 김재원 국민의힘 최고위원을 모욕 혐의로 고소했다. 이에 김 최고위원은 “도대체 무엇이 모욕이란 말인지 궁금하다”고 반응했다.&lt;br&gt;&lt;br&gt;16일 경찰 등에 따르면 서울 영등포경찰서는 최근 김 최고위원에 대한 모욕 혐의고소장을 접수해 수사에 착수했다.&lt;br&gt;&lt;br&gt;김 최고위원도 지난 13일 자신의 페이스북에 “서 의원이 모욕죄로 경찰에 고소해 놓은 모양”이라고 밝혔다. 김 최고위원이 첨부한 카카오톡 메시지 화면에는 서울영등포경찰서가 “고소인 서영교로부터 고소장(모욕)이 접수돼 문의할 사항이 있으니 아래 전화번호로 전화 주시기 바란다”고 연락을 요구하는 내용이 담겼다.&lt;br&gt;&lt;br&gt;김 최고위원은 “우리 당 곽규택 의원이 지난 국회 국정감사 회의 중에 서 의원을 ‘서팔계’라고 반격한 사실이 있다”며 “저는 최고회의에서 이를 인용하며 ‘이번 국정감사 기간 중에 밝혀진 것은 서영교 의원 본명이 저팔계라는 사실이다’라고 한 적이 있다”고 했다. 그는 그러면서 “도대체 무엇이 모욕이란 말인지 궁금하다”고 했다. &lt;br&gt;&lt;br&gt;앞서 김 최고위원은 작년 11월 3일 국민의힘 최고위원회의에서 ‘동물 국회’를 언급하며 “서영교 의원 본명이 ‘서팔계’였다는 사실이 드러났다”고 말했다.&lt;br&gt;&lt;br&gt;이는 같은 해 10월 30일 국회 법제사법위원회에서 곽규택 의원이 서 의원을 향해 “서팔계”라고 표현한 것을 인용한 것으로 보인다. 당시 곽 의원은 서 의원이 “못된 짓은 ‘꽥꽥이’가 제일 많이 하지”라며 ‘곽’이라는 성씨를 활용해 자신을 조롱하자, “서팔계, 그만 좀 해요”라고 맞받아쳤다.&lt;br&gt;&lt;br&gt;다만 서 의원은 먼저 ‘서팔계’라고 표현한 곽 의원에 대해서는 형사고소를 하지 않은 것으로 전해졌다. 헌법 제45조는 국회의원은 국회에서 직무상 행한 발언과 표결에 관해 국회 밖에서 책임을 지지 않는다고 명시하는데, 이를 감안한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘체포 방해’ 1심 징역 5년에...尹 측 “항소할 것” </title>
-      <link>https://www.chosun.com/national/court_law/2026/01/16/JRUS3AWTPFF4FCEJMANORO6XQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/JRUS3AWTPFF4FCEJMANORO6XQM/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 07:15:49 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 16일 특수공무집행방해 등 혐의 1심 재판에서 징역 5년을 선고받자, 변호인단은 즉각 “항소하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTINTDGBSTIOJZGVRWKNBQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 이날 서울중앙지법 형사35부(재판장 백대현) 심리로 열린 ‘체포 방해’ 사건 선고 직후 “오늘 판결은 상급심에서 재검토돼야 하는 중대한 법리적 오류를 포함하고 있다”며 “당연히 항소할 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;윤 전 대통령 측은 특히 “이번 판결은 대통령의 헌법상 권한 행사와 형사 책임의 경계를 지나치게 단순화한 결정”이라며 “유죄 판결 논리가 그대로 유지된다면 향후 어떤 대통령도 위기 상황에서 결단을 내릴 수 없게 된다”고 강조했다. 그러면서 “국가원수의 지위와 책임, 헌정 질서상의 특수성을 모두 삭제한 채로 형사 책임만을 절단해서 판단하는 건 결코 법치의 완성으로 볼 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인은 대통령으로서 헌법과 법 질서 수호할 의무가 있는데도 대통령의 독단을 막기 위한 절차를 경시했으므로 이는 비난받아 마땅하다”며 윤 전 대통령에게 징역 5년을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 지난해 1월 3일 윤 전 대통령이 대통령경호처 직원들을 동원해 고위공직자범죄수사처(공수처)의 체포영장 집행을 방해했다는 혐의에 대해 “공수처의 윤 전 대통령 체포영장 집행은 적법했다”며 “경호처와 공무원들에게 의무 없는 일을 하게 했다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 ‘체포방해’ 1심 징역 5년 “계엄 절차 경시, 경호처 사병화”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/16/GBDSVFTLZ5AHJJC7MV2XLT5GAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/16/GBDSVFTLZ5AHJJC7MV2XLT5GAU/</guid>
@@ -882,36 +922,6 @@ TV에 생중계된 1심 선고  16일 윤석열 전 대통령이 서울 서초�
       <media:content url="https://www.chosun.com/resizer/v2/ZZG4STI22BHRHN4FSUFZW7MP4E.gif?auth=59e596b35eef6c28cb7d9b8e04b554d7d7ab338292673af763f948d3c135e8f7&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
         <media:description type="plain">지난해 1월 3일 고위공직자범죄수사처의 내란 우두머리 혐의 체포영장 집행을 방해한 혐의 등을 받는 윤석열 전 대통령에게 법원이 16일 징역 5년을 선고했다.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘초등생 살해’ 명재완… 항소심도 무기징역</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/16/YQ3NDCCON5A4HMNGKJJZ5EQWJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/16/YQ3NDCCON5A4HMNGKJJZ5EQWJU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 05:43:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5IVPXRC5W532NGR5FRIIPA2PM.png"&gt;&lt;figcaption&gt;&lt;small&gt;자신이 교사로 재직한 대전의 한 초등학교 1학년생을 살해한 교사 명재완의 머그샷. /대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 한 초등학교에서 1학년 학생을 살해한 명재완(49)씨에게 항소심에서도 무기징역이 선고됐다.&lt;br&gt;&lt;br&gt;대전고법 제1형사부(재판장 박진환)는 16일 명씨의 특정범죄 가중처벌 등에 관한 법률 위반(영리약취·유인 등) 혐의에 대한 항소심에서 검사와 피고인의 항소를 모두 기각하고 무기징역을 선고한 원심판결을 유지했다.&lt;br&gt;&lt;br&gt;재판부는 “1심 이후에 새롭게 참작할 만한 사정 변경은 없어 피고인과 검사의 양형 부당 주장을 받아들이지 않는다”고 밝혔다. &lt;br&gt;&lt;br&gt;명씨 측이 제기한 심신미약 주장도 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “범행 대상 선별과 도구 준비, 발각을 피하려는 행동 등을 볼 때 심신미약이라고 보기 어렵다”며 “설령 그렇다 하더라도 사건의 중대성에 비춰 형 감경 사유가 되지 않는다”고 했다. &lt;br&gt;&lt;br&gt;또한 “1심은 사형이 인간의 생명을 박탈하는 예외적인 형벌임을 고려해 양형을 종합적으로 판단했다”며 “피고인의 생명을 박탈하기보다는 사회에서 격리해 평생 잘못을 참회하고 여생 동안 참회하도록 한 만큼 1심의 양형이 합리적인 범위를 벗어났다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;명씨는 지난해 2월 10일 오후 5시쯤 자신이 근무하던 초등학교에서 돌봄 교실을 마치고 귀가하는 김모(당시 7세)양을 “책을 주겠다”며 시청각실로 유인해 미리 준비한 흉기로 살해한 혐의로 재판에 넘겨졌다. 그는 범행 수일 전 동료 교사를 폭행한 혐의도 받는다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 이 사건을 “교사였던 피고인이 만 7세에 불과한 학생을 잔혹하게 살해한 전대미문의 범죄”로 규정하고 무기징역을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DSYUQAFUCRDFTNI2YJRJTYM6DI.jpg?auth=a7625414cb5d7c30298f30b26b10f57001be017d230a6abefa09a2db0375c682&amp;smart=true&amp;width=422&amp;height=237" type="image/jpeg" height="237" width="422">
-        <media:description type="plain">김하늘 살해 피의자 명재완 신상공개</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>부천 금은방 주인 살해 40대… 범행 뒤 정장으로 갈아입고 도주</title>
-      <link>https://www.chosun.com/national/incident/2026/01/16/HIAASSMHIRHKVBAK7NPFKJ2NN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/16/HIAASSMHIRHKVBAK7NPFKJ2NN4/</guid>
-      <dc:creator>부천=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 06:36:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천의 한 금은방에서 여성 업주를 흉기로 살해하고 귀금속을 빼앗아 달아난 40대 남성이 범행 직후 옷을 갈아입고 택시를 갈아타며 도주한 것으로 전해졌다. 경찰은 A씨가 사전에 옷을 준비하는 등 계획적으로 범행을 저지른 것으로 보고 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;경기 부천원미경찰서는 강도살인 혐의로 40대 A씨에 대한 구속영장을 신청할 예정이라고 16일 밝혔다. A씨는 전날 오후 12시 7분쯤 부천시 원미구의 한 금은방에서 업주인 50대 여성 B씨를 흉기로 찔러 살해한 뒤 시가 2000만원 상당의 귀금속 50여 점과 현금 200만원을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과, A씨는 범행 직후 미리 챙겨온 정장으로 갈아입고 범행 당시 착용했던 옷을 길거리에 버린 채 여러 차례 택시를 이용해 서울 종로구로 도주한 것으로 파악됐다. A씨와 피해자 B씨는 서로 모르는 사이로, A씨는 여성 혼자 운영하는 금은방을 범행 대상으로 삼은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 현장 감시 카메라 분석 등을 통해 용의자를 특정한 뒤 서울경찰청과 공조해 사건 발생 약 5시간 만인 전날 오후 5시 34분쯤 서울 종로구 길거리에서 A씨를 긴급 체포했다. A씨는 훔친 귀금속을 여러 금은방에 되팔았으며, 검거 당시 범행에 사용한 흉기와 현금, 여권 등을 소지하고 있던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “빚이 많아 범행을 저질렀다”는 취지로 진술한 것으로 알려졌다. 피해자 B씨는 남편이 전날 오후 1시 1분쯤 금은방에서 쓰러진 모습을 발견해 “아내가 흉기에 찔렸다”고 119에 신고한 뒤 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 구속영장이 발부되면 A씨의 신상 정보 공개 여부도 검토할 방침이다. 특정 중대 범죄 피의자 등 신상 공개에 관한 법률은 범행 수단이 잔인하고 중대한 피해가 발생한 사건에서 범죄 사실이 충분히 입증될 경우 신상을 공개할 수 있도록 규정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구룡마을 화재 8시간 만에 완진… “인명피해 없어”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/16/YAVNEX4N2BGL5IYVPOH3YS3IR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/YAVNEX4N2BGL5IYVPOH3YS3IR4/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 05:55:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTAZLEGNRDSYZXGQ3TMZLFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 서울 강남구 개포동 구룡마을에서 발생한 화재로 불길이 치솟고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 개포동 구룡마을에서 난 불이 16일 오후 1시 28분쯤 완전히 꺼졌다. 화재 발생 8시간여 만이다.&lt;br&gt;&lt;br&gt;소방청은 이날 “불은 오후 1시 28분쯤 완전 진화됐다”며 “잔화 정리 후 화재 감식과 조사를 통해 정확한 화재 원인과 재산 피해 규모를 확인할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;화재는 이날 오전 5시쯤 구룡마을 4지구 마을회관 인근에서 시작돼 인근 5지구와 6지구까지 번졌다. 소방 당국은 같은 시각 “빈집에서 불이 났다”는 신고를 받고 출동했으며, 인근 야산으로 불이 번질 우려가 있다고 보고 5시 10분쯤 대응 1단계를 발령했다. 이어 화재 규모가 커지자 오전 8시 49분쯤 대응 2단계로 상향해 진화에 나섰다.&lt;br&gt;&lt;br&gt;진화 작업에는 인원 324명과 장비 106대가 투입됐다. 임시 가건물이 밀집한 지역 특성상 불길이 빠르게 확산됐고, 새벽 시간대 안개와 미세먼지로 시야 확보가 어려워 초기 진화에 어려움을 겪은 것으로 전해졌다. 이로 인해 소방헬기 투입도 지연됐다.&lt;br&gt;&lt;br&gt;소방 당국은 오전 11시 34분쯤 큰 불길을 잡아 초진에 성공했고, 이후 잔불 정리 작업을 거쳐 오후 1시 28분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;이 불로 구룡마을 4지구 35가구 59명, 5지구 39가구 68명, 6지구 91가구 131명 등 모두 165가구 258명이 긴급 대피했다. 현재까지 인명 피해는 발생하지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;서울시는 인근 구룡중학교에 이재민을 위한 임시 대피소를 마련했으며, 소방 당국은 잔화 정리가 끝나는 대로 정확한 화재 원인과 재산 피해 규모를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 비상계엄 적법했나... 법원 첫 판단 나온다</title>
@@ -938,15 +948,6 @@ TV에 생중계된 1심 선고  16일 윤석열 전 대통령이 서울 서초�
         <media:description type="plain">(서울=뉴스1) 황기선 기자 = 16일 오후 서울 중구 NH농협은행 본점영업부를 시내버스가 들이받는 사고가 발생해 경찰과 소방당국이 이를 수습하고 있다. 2026.1.16/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 황기선 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>역대 최악 ‘경북산불’ 유발했지만… 피고인 2명 징역형 집행유예</title>
-      <link>https://www.chosun.com/national/2026/01/16/3SRIXDNSUBCEDC62HFQT2NBBWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/16/3SRIXDNSUBCEDC62HFQT2NBBWE/</guid>
-      <dc:creator>의성=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 03:23:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QY32UXMZKBMBXA3OO3YHD65SFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 대구지법 의성지원에서 징역형 집행유예를 선고받은 '경북 산불' 실화자 신모씨가 법정 밖으로 나가고 있다. /연합뉴스. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 3월 역대 최악의 피해가 발생한 ‘경북 산불’을 낸 혐의로 기소된 피고인들에게 법원이 징역형 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;대구지법 의성지원 형사1단독 문혁 판사는 16일 산림보호법 위반 혐의로 불구속 기소된 성묘객 신모(55)씨에게 징역 2년에 집행유예 3년을 선고했다. 또 사회봉사 120시간을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 같은 혐의로 기소된 과수원 임차인 정모(63)씨에게 징역 2년 6개월에 집행유예 3년을 선고하고, 보호관찰 및 사회봉사 120시간을 명했다.&lt;br&gt;&lt;br&gt;신씨는 지난해 3월 22일 의성군 안평면 괴산리 한 야산에서 조부모 묘에 자라난 어린나무를 태우려고 나무에 불을 붙였다가 대형 산불로 확산하게 한 혐의로 기소됐다. 정씨는 같은 날 의성군 안계면 용기리 한 과수원에서 영농 부산물을 태우다 대형 산불로 확산하게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GXBI2G75VJVVEPGRL5X6SZ5AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 대구지법 의성지원에서 징역형 집행유예를 선고받은 '경북 산불' 실화자 과수원 임차인 정모씨가 법정을 나서고 있다. /연합뉴스. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 피고인 신씨에 대한 양형 사유로 법정에서 모든 범행을 인정한 점과 성묘를 위해 산을 찾았다가 우발적으로 나뭇가지를 태운 점, 산불 발화 후 스스로 119에 신고한 점 등을 들었다. 피고인 정씨에 대해서도 모든 범행을 인정하고 정씨가 당시 물로 불을 끌려고 노력한 점 등 재범 위험성 적다고 봤다.&lt;br&gt;&lt;br&gt;문 판사는 “산불로 인한 피해 정도가 매우 중대하나 당시 극도로 건조한 날씨로 다른 산불과의 결합 등을 피고인들이 사전에 예견할 수 없었다”며 “부상 및 사망 등 인명피해를 피고인들 행위와 연관 지으려면 상당한 인과관계가 합리적 의심 없이 증명되어야 하나, 제출된 증거로는 명확히 증명됐다고 볼 수 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;신씨 등 당시 두 사람으로 의성에서 촉발된 산불은 강풍을 타고 안동, 청송, 영양 등 경북 북부 5개 시·군으로 번져 28명이 숨지고 산림 약 10만㏊가 불타는 등 역대 최악의 피해를 냈다.&lt;br&gt;&lt;br&gt;검찰은 앞서 열린 결심공판에서 신씨 등 두 사람에게 산불 실화 혐의를 적용해 징역 3년을 구형했다. 현행 ‘산림보호법’상 방화범은 7년 이상 15년 이하 징역형이 가능하지만, 실화범의 경우 3년 이하 징역형 또는 3000만원 이하 벌금이 최대 형량이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>올해 최악 ‘중국發 미세먼지’ 내일까지 전국 덮는다</title>
