@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울중앙지법 ‘내란전담재판부’ 구성 기준 다음 달에 정한다</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/19/2HZTH5QAEBDPHKJNXGDWVDR2GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/2HZTH5QAEBDPHKJNXGDWVDR2GE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 10:13:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울법원종합청사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법이 내란·외환 사건을 전담할 영장 전담 법관의 기준을 마련했다. 다음 달 법원 인사가 발표된 뒤에 내란 영장 전담 법관을 지정하되, 그 전까지는 현재 영장 전담 부장판사 가운데 2명을 임시 전담 법관으로 지정하기로 했다.&lt;br&gt;&lt;br&gt;서울중앙지법은 19일 전체 판사회의를 열고 내란전담재판부 구성과 내란 영장 전담 법관 지정 기준을 논의한 뒤 이같이 의결했다. 이날 회의는 지난 12일에 이어 두 번째로 열렸다.&lt;br&gt;&lt;br&gt;판사회의는 우선 현재 4명의 영장 전담 부장판사 4명 가운데 2명을 임시 영장전담법관으로 지정하기로 했다. 이후 다음 달 법관 정기 사무분담 때 ‘법조경력 14년 이상 25년 이하’이면서 ‘법관경력 10년 이상’ 요건을 모두 충족한 판사 중 2명을 새 영장 전담 법관으로 뽑을 방침이다. 임시 영장 전담 법관은 사무분담위원회가 안을 마련한 뒤, 전체 판사회의 온라인 투표로 확정하기로 했다. &lt;br&gt;&lt;br&gt;영장 전담 법관이 통상 1년 단위 보직으로 운영되고, 다음 달 법관 정기 인사 이후 바뀔 예정인 점을 고려할 때 공백을 최소화하기 위해 임시 전담 법관을 먼저 지정한 것으로 보인다.&lt;br&gt;&lt;br&gt;한편, 내란전담재판부 구성 기준은 다음 달 법관 정기 인사 이후에 정하기로 미뤄졌다. 서울중앙지법은 인사 결과를 반영한 뒤 다시 전체 판사회의를 열어 전담재판부 구성 기준을 정하기로 했다. 추가 논의를 위한 전체 판사회의는 지방법원 인사가 발표되는 다음 달 6일 직후인 9일 오후 2시에 다시 열릴 예정이다. &lt;br&gt;&lt;br&gt;앞서 서울고법은 전담재판부를 우선 2개 설치하고 관리재판부를 두는 등 구체적인 운영 방안을 의결한 바 있다. 서울중앙지법은 수사 단계에서 체포·구속·압수수색 영장을 전담해야 하는 1심 사건의 특성을 고려해 영장 전담 법관을 먼저 지정하기로 한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검 “당정대 회동서 ‘尹 탄핵 막아야’ 메모 작성...증거로 제출할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/19/QUFKHOM7EFBCDD2TD5NJT2PVYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/QUFKHOM7EFBCDD2TD5NJT2PVYY/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 09:13:29 +0000</pubDate>
+      <content:encoded>조은석 내란 특별검사팀이 당정대 회동 당시 윤석열 전 대통령의 탄핵을 막아야 한다는 내용의 메모가 작성됐다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDCOLCGE2DQZRXMNSGCNZSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 19일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 총리의 ‘헌법재판관 미임명·지명 의혹' 관련 직무유기 등 혐의 사건 첫 공판준비기일에서 이같이 말했다.&lt;br&gt;&lt;br&gt;이날 재판에서 한 전 총리 측은 해당 사건이 특검의 수사 대상이 아니라고 주장했다. 이에 특검은 “압수 수색 과정에서 당정대 당시 작성된 ‘윤석열 전 대통령의 탄핵을 막아야 한다’는 취지의 메모가 발견됐다”며 “이 사건 중요 증거로 신청할 예정”이라고 했다. 특검이 언급한 당정대 회의는 2024년 12월 4일 삼청동 국무총리 관저에서 열린 회의다. 한 전 총리를 비롯해 박성재 전 장관, 한동훈 전 국민의힘 대표, 추경호 전 원내대표, 정진석 전 비서실장 등이 참석했다.&lt;br&gt;&lt;br&gt;한 전 총리는 윤 전 대통령의 탄핵 소추 이후 국회가 추천한 헌법재판관 후보자를 임명하지 않은 혐의를 받는다. 특검은 한 전 총리가 헌법재판관 임명을 거부했다며 직무를 유기했다고 판단했다. 한 전 총리는 지난해 4월 제대로 된 검증 없이 함상훈·이완규 후보자를 헌법재판관 후보로 지명한 혐의(직권남용)도 받고 있다.&lt;br&gt;&lt;br&gt;이후 탄핵된 한 전 총리를 대신해 대통령 ‘대행의 대행’이 된 최상목 전 부총리는 정계선·조한창 후보자를 임명했으나 마은혁 후보자에 대해선 여전히 여야 합의가 필요하다며 임명을 보류했다. 최 전 부총리는 이와 관련해 직무유기 혐의로 함께 기소됐다. 이외에도 김주현 전 수석, 정진석 전 실장, 이원모 전 공직기강비서관도 의사 결정에 가담했다며 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;다음 재판은 다음 달 3일 오후 2시에 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 전체 인구는 계속 감소하는데 외국인은 증가… “유학생 순이동 때문” </title>
+      <link>https://www.chosun.com/national/court_law/2026/01/19/JYTZGX6URRB4TE6YSCTI47QKGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/JYTZGX6URRB4TE6YSCTI47QKGU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 08:58:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQWW4UK6VZHD5GVBY37WIWLNM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한글날을 하루 앞둔 2024년 10월 8일 서울 서대문구 연세대 한국어학당에서 열린 외국인 한글백일장 참가 학생들이 글쓰기를 하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 한 해 서울의 일반 외국인(외국국적동포 제외) 인구가 순증한 것으로 나타났다. 서울 전체 인구가 2011년 이후 감소세를 유지하는 것과 달리, 일반 외국인은 유학생이 늘면서 순유입된 것으로 집계됐다.&lt;br&gt;&lt;br&gt;법무부는 19일 ‘2025년 국내 체류 외국인·동포 지역 이동 현황 집계' 결과를 발표하고 작년 일반 외국인의 서울 전입은 5만2601명, 전출은 5만416명을 기록해 순전입 인구가 2195명으로 조사됐다고 밝혔다. 이는 전국 17개 광역단체 중 가장 큰 규모였다. 2~5위는 경남(939명), 경북(756명), 인천(745명), 대구(399명) 순이었다. 반면 일반 외국인이 가장 많이 순감한 광역단체는 경기(-3462명), 제주(-821명), 부산(-661명), 전남(-350명), 전북(-274명) 등이었다.&lt;br&gt;&lt;br&gt;이에 대해 법무부는 일반 외국인에서 큰 비중을 차지하는 비전문취업(E-9) 외국인과 외국인 유학생(D-2)의 순이동 때문으로 분석했다. 비전문취업 비자의 경우 경기(-2736명)의 순유출이 가장 많았고, 충남(786명)과 충북(735명) 등으로의 순유입이 많았다. 반대로 외국인 유학생은 충남(-756명)과 충북(-740명) 등에서 많이 나갔고, 서울(2818명)로의 순유입이 가장 많았다.&lt;br&gt;&lt;br&gt;다만 재외동포(F-4) 및 기타체류자격이 있는 외국국적동포까지 합한 전체 외국인의 작년 순전입 인구는 인천(3770명)이 가장 많았다. 이어 경북(882명), 경남(782명), 충남(536명), 대구(289명) 순이었다. 전체 외국인이 감소한 지역은 서울(-2439명), 경기(-1890명), 제주(-802명), 부산(-590명), 전북(-393명) 등이었다. 법무부 관계자는 “외국국적동포 중 비중이 큰 재외동포(F-4)와 영주권자(F-5)는 서울 순유출이 가장 많았고, 인천·경기 지역 순유입이 컸던 것으로 나타났다”고 했다.&lt;br&gt;&lt;br&gt;한편 행정안전부에 따르면 서울 전체 인구는 2010년 1031만명을 기록한 후 2011년 1025만명으로 줄어든 후 감소세를 유지하고 있다. 2016년 993만명을 기록하며 1000만명 아래로 줄었고, 작년에는 930만명까지 감소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산·경남 행정통합 실무협의체 첫 가동 </title>
+      <link>https://www.chosun.com/national/regional/2026/01/19/BGFSXSZOLRETDL5AKZL7TJEZPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/19/BGFSXSZOLRETDL5AKZL7TJEZPU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 08:45:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNIX6MNWONDZPBMDHBW2QN2HVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 부산시청에서 박형준(왼쪽) 부산시장과 박완수 경남지사가 행정 통합 등 지역 공동 현안 논의를 위해 만나 악수하고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시와 경남도는 19일 오전 경남도청 중앙회의실에서 행정 통합을 실무적으로 논의할 ‘부산·경남 행정 통합 실무 협의체’ 첫 회의를 진행했다.&lt;br&gt;&lt;br&gt;이 실무 협의체는 부산과 경남의 통합 추진 과정에서 발생하는 실무적인 쟁점을 조율하고 진정한 자치권 확보를 위한 권한 이양 사항에 대해 중앙 부처와 국회 공동 대응 전략 등을 모색하려고 구성됐다.&lt;br&gt;&lt;br&gt;협의체에는 양 시도 기획조정실장을 공동 단장으로 정책수석보좌관, 행정자치국장, 시도 연구원 등 총 10명이 참여한다.&lt;br&gt;&lt;br&gt;이날 회의에서는 행정 통합에 대한 입장문, 대정부 건의문에 담길 핵심 내용, 통합 정당성 확보, 시·도민 의견을 충분히 반영하는 주민투표 방안 등에 대해 논의했다.&lt;br&gt;&lt;br&gt;양 시도는 실무 협의체를 통해 양 시도 간 정책을 긴밀히 조정하고 행정 통합이 주민에게 가장 도움이 되도록 행정력을 집중할 방침이다.&lt;br&gt;&lt;br&gt;앞서 지난 13일 부산·경남 행정통합 공론화위원회(공론화위)가 “행정통합을 주민투표로 결정하자”는 내용의 최종 의견서를 박완수 경남도지사와 박형준 부산시장에게 전달했다. 행정통합에 대한 최종 판단은 두 시도지사가 내달쯤 공동으로 밝힐 전망이다.&lt;br&gt;&lt;br&gt;김경태 부산시 기획조정실장은 “실무협의체를 통해 양 시도의 입장을 충분히 조율해 진정한 행정통합을 이루도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘천공기 끼임 사망’ 포스코이앤씨 현장소장 구속 기소 </title>
+      <link>https://www.chosun.com/national/2026/01/19/ACF7KPDPDBAGVIWQODUKHTFWGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/19/ACF7KPDPDBAGVIWQODUKHTFWGY/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 08:44:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKTDY6ZA6V7FZ2W3JF6RHTJB7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 29일 정희민 전 포스코이앤씨 사장이 인천 송도 본사에서 연이은 현장 사망사고와 관련한 담화문 발표에 앞서 관계자들과 사과 인사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 포스코이앤씨가 시공을 맡은 경남 의령군 함양울산고속도로 공사 현장에서 60대 작업자가 건설기계에 끼여 숨진 사고와 관련해 검찰이 현장 소장을 구속 기소했다. &lt;br&gt;&lt;br&gt;창원지검 마산지청 형사1부(부장 방준성)는 산업안전보건법 위반 및 업무상과실치사 혐의로 현장 소장 A씨를 구속 기소하고, 공사팀장 등 2명은 업무상과실치사 혐의로 불구속 기소했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;지난해 7월 28일 의령군 부림면 함양울산고속도로 의령나들목 공사 현장에서 사면 보강 작업을 하던 60대 근로자가 건설기계인 천공기(지반을 뚫는 건설기계)에 끼여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;현장 안전보건관리책임자 A씨는 사고 당시 천공기 덮개 설치 등 기본적인 안전 조치를 이행하지 않은 혐의다. 공사팀장 등 2명은 안전 관리상 주의의무를 다하지 않은 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰에 따르면 사고가 난 작업 공정은 분당 최대 100회로 고속 회전하는 천공기를 사용해 지면에 구멍을 뚫는 고위험 작업이다. 이때 회전축 부위가 노출된 상태에서 작업자가 착용한 장비 등이 회전체에 닿으면 강한 회전력에 의해 작업자가 기계에 말려 들어가 중대한 인명 피해로 이어질 수 있다.&lt;br&gt;&lt;br&gt;검찰은 “피해자가 사고 전 ‘기계 회전부에 생명줄이 말려 들어갈 위험이 있다’는 의견을 제시했음에도 현장에선 단기적 비용 절감 등을 이유로 실효적인 안전 조치가 마련되지 않아 주요 책임자인 현장 소장을 구속했다”고 설명했다. &lt;br&gt;&lt;br&gt;고용노동부는 이 사건과 관련해 정희민 전 포스코이앤씨 대표이사를 중대재해 처벌 등에 관한 법률 위반 혐의로 불구속 입건해 수사하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조훈현, ‘영원한 라이벌’ 녜웨위핑 영결식서 “50년 친구 잃었다”</title>
       <link>https://www.chosun.com/national/national_general/2026/01/19/2DVVM7XIA5CDPAQM67MWZZJCGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/19/2DVVM7XIA5CDPAQM67MWZZJCGU/</guid>
@@ -441,15 +486,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKE24FZJBF2MH6W755CW7B26NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 서부지청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;면허가 없는 미성년자에게 안전 교육과 면허 확인 없이 전동 바이크를 빌려줘 교통사고를 일으킨 혐의(업무상 과실치상)로 개인형 이동 수단(PM) 대여 업자들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 서부지청 형사1부(부장 김상문)는 이 같은 혐의로 대구 지역 PM 대여 업자 A씨 등 3명을 불구속 기소했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 낙동강변 유원지인 대구 달성군 강정보 일대에서 PM 대여 업체를 운영 중인 A씨는 2020년 10월 면허 확인과 안전 교육 등의 아무런 조치 없이 10대 청소년 B군에게 전동 바이크를 대여했고, 이를 타고 가던 B군이 교통사고를 일으켰다. 이 사고로 6살 여자 아이가 전치 6주에 달하는 부상(두개골 골절)을 입었다. A씨는 지난해 5월까지 이런 방식으로 미성년자에게 PM을 대여해 총 4건의 교통사고를 일으켜 사람을 다치게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;같은 지역에서 활동 중인 또 다른 대여업자인 C씨와 D씨도 같은 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이 기간 피고인 3명이 운영하는 PM 대여 업체에서 면허 없이 PM을 빌려 타다가 교통사고를 낸 10대 미성년자는 모두 7명이었으며, 이들 대부분은 수사받은 뒤 소년보호사건으로 송치됐다.&lt;br&gt;&lt;br&gt;낙동강변 유원지인 강정보(대구 달성군) 일대는 10여 곳의 PM 대여 업체가 성업 중이고, 이 중 일부는 무면허 운전 방조죄로 다수 처벌받았음에도 가벼운 처벌로 인해 무면허 미성년자에게 PM 대여를 계속해왔다. 이런 탓에 강정보는 서울 제외 지역 중 전국 최고 PM 사고율을 기록하고 있는 상황이었다고 검찰은 전했다. &lt;br&gt;&lt;br&gt;서부지검 관계자는 “적절한 규제 미비로 교통사고가 빈발해 무면허 운전 방조죄(법정 최고형 벌금 15만원)로 처벌하는 것만으로는 불법적 PM 대여 행위를 방지할 수 없어 사고 발생의 근본적 원인을 제공한 대여업자들에게 교통사고 책임을 물어 기소했다”며 “국민 안전을 위협하는 PM 무면허 운전 및 관련 교통사고 사건에 대해 엄정 대응할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“北에 무인기” 주장 대학원생... 尹정부 대통령실서 계약직 근무</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/16/V6CCADR7CZEXFHCXDO25C5MLNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/V6CCADR7CZEXFHCXDO25C5MLNM/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 09:00:03 +0000</pubDate>
-      <content:encoded>북한이 최근 한국 측에서 이륙한 무인기가 북측 영공을 침범했다며 설명과 사과를 요구한 것과 관련해, 군경 합동조사 태스크포스(TF)가 16일 해당 무인기를 제작한 것으로 추정되는 민간인을 불러 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3GEOBZME2DSNBSGIZDQYZQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한이 한국발 무인기라며 지난 4일 공개한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직은 형사 입건하기 전에 사실 관계를 확인하는 단계”라며 “항공안전법 위반 등 혐의를 적용할지는 조사 이후 결정될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;북한은 지난해 9월과 이달 4일 한국이 개성 지역에 침투시킨 무인기를 격추했다고 지난 10일 주장했다. 이재명 대통령은 “사실이라면 한반도 평화와 국가 안보를 위협하는 중대 범죄”라며 수사를 지시했다. 이에 경찰청 국가수사본부는 지난 12일 경찰과 군으로 구성된 합동조사TF를 꾸렸다. 그로부터 4일 만에 관련 혐의자를 소환해 조사한 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 30대 대학원생 A씨는 이날 자기가 해당 무인기를 북한에 날려보냈다고 채널A 인터뷰에서 주장했다. A씨는 인터뷰에서 지난해 9월부터 총 3번 무인기를 보냈다며, 북이 공개한 파란색 무인기는 자기가 위장 색을 칠한 것이라고 주장했다. A씨는 이날 경찰 조사를 받은 사람은 지인이라고 했다. 지인이 중국 온라인 마켓에서 본체를 산 뒤 1차 개량했고, 자기가 카메라를 달아 날렸다고 했다. 그는 최대 6시간 뒤면 돌아오도록 설정했는데, 두 차례 돌아오지 않았다고 했다.&lt;br&gt;&lt;br&gt;A씨는 무인기를 보낸 이유에 대해선 예성강 인근의 우라늄 공장의 방사능 오염도를 직접 확인하고 싶어 드론으로 일대를 촬영하려 했다고 했다. 그는 북한이 공개한 무인기의 외관과 위장색, 무늬가 자신이 개량하고 칠한 것과 일치한다면서 관련 증거를 제시했다. 무인기를 3차례 보낸 과정에서 촬영한 영상이라며 북한 평산군 촬영 영상도 공개했다. 그는 “우리 군을 찍거나 그러지는 않았다. 동기가 있었기 때문에 날려도 괜찮다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A씨를 불러 주장의 진위를 확인할 계획인 것으로 알려졌다. 대학에서 기계항공우주 공학을 전공한 A씨는 윤석열 정부 때 대통령실 대변인실에서 뉴스 모니터 계약직으로 근무했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘검정고무신’ 성우 선은혜, 40세로 별세…동료들 추모 물결</title>
       <link>https://www.chosun.com/national/people/2026/01/19/HKC3HXITJNHFJDGR7DI2MCBAL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/19/HKC3HXITJNHFJDGR7DI2MCBAL4/</guid>
@@ -670,42 +706,6 @@
       <description/>
       <pubDate>Sun, 18 Jan 2026 06:13:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TC4YUENR3RCNVI7VXYTTWBPDVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;179명이 사망한 무안 제주항공 참사 1주기인 지난달 29일 전남 무안공항에서 유가족들이 사고기가 충돌한 둔덕 주변을 지나가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부가 지난 2020년 무안공항 콘크리트 둔덕의 개량 공사 관련 공고를 내면서 참가 업체를 ‘정보통신 업체’로 제한했던 것으로 확인됐다. 당시 이 공사에서 공항안전운영기준에 위배되는 둔덕을 제거하기 위해선 ‘도로·공항 분야의 엔지니어링 업체’를 필수로 포함했어야 했는데, 입찰 과정에서부터 배제한 것이다.&lt;br&gt;&lt;br&gt;18일 국회 국토교통위원회 소속 김은혜 국민의힘 의원에 따르면, 정부는 그해 3월 개량 공사 입찰공고문을 내면서 입찰 참가 자격 업체의 조건을 ‘기술사사무소-정보통신 또는 엔지니어링사업-정보통신’에 등록된 업체로 제한했다. &lt;br&gt;&lt;br&gt;무안 제주항공 참사 초기, 일각에선 2020년 개량 공사 당시 업체에 내려진 과업 내용서에 ‘계기착륙시설 설계 시 부러지기 쉬움 방안을 고려하여 설계하여야 한다’고 기재된 점을 들어 설계 업체 등의 책임론이 불거졌다. 정부가 제대로 된 가이드를 줬음에도, 업체가 제대로 된 설계와 공사를 하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;그러나 정부가 입찰 참가 자격 자체를 정보통신 업체로 제한한 탓에 로컬라이저(방위각 시설) 공사만 할 수 있었고, 콘크리트 둔덕 부분은 애초부터 시행할 수도 없었다는 게 전문가들의 공통된 견해다. 정부 역시 김은혜 의원실에 제출된 자료에서 “당시 둔덕의 철거는 고려하지 않았다”고 답했다.&lt;br&gt;&lt;br&gt;이는 업무상 과실차사 혐의에 해당할 가능성이 크다. 한국공항공사는 무안공항이 개항하기 직전인 지난 2007년 국토부에 “활주로 끝으로부터 300m 이내 지점에 콘크리트 둔덕이 존재해 설치 기준에 부적합하다”며 “둔덕 경사도 등을 감안할 때 ‘장애물’로 간주되니 설치 기준에 맞게 보완이 필요하다”고 건의했다. 당시 공사는 무안공항 건설이 끝난 후 현장 점검에서 둔덕 설치가 부적합하다고 보고 국토부에 개선이 필요하다고 의견을 낸 것이다. &lt;br&gt;&lt;br&gt;그러나 결과적으로 국토부는 이를 계속 방치했고, 2020년 개량 사업 때도 업체를 제한한 탓에 공사가 불가능 했던 것이다. 김은혜 의원은 “정부의 행태는 ‘둔덕만 없었으면 모두를 살릴 수 있었다’며 개량 공사에서 개선됐어야 한다고 스스로 말한 것과 배치된다”며 “정부가 책임을 시공사로 돌리기 위한 목적을 갖고 있지 않았는지, 진상 규명 의지가 있는지 심각한 의문이 제기된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“피자라도 보내라” 이 대통령이 칭찬한 경찰, 특별포상 수상자 선정</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/18/X36BJQV7B5DGFJ4KIILEGT7W6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/X36BJQV7B5DGFJ4KIILEGT7W6I/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 05:35:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYWKY3EMMYTSZRRGNQTKNBRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 직접 칭찬한 것으로 알려진 경찰관이 올해 신설된 특별 포상의 수상자로 선정됐다.&lt;br&gt;&lt;br&gt;18일 경찰 등에 따르면, 경찰청은 지난주 제1회 포상금 심의위원회를 열고 서울청 치안정보분석과 허정훈 경감에게 200만원을 포상하기로 결정했다. &lt;br&gt;&lt;br&gt;허 경감은 1626개 공공기관 누리집을 전수 조사해 동해를 ‘일본해’로, 독도를 ‘리앙쿠르 암초’로 잘못 표기한 10곳을 찾아 보고한 공로를 인정받았다.&lt;br&gt;&lt;br&gt;강훈식 대통령 비서실장은 앞서 지난 2일 ‘김어준의 겸손은 힘들다 뉴스공장’ 유튜브 방송에 출연해 이 대통령이 허 경감을 직접 칭찬한 사실을 공개한 바 있다. &lt;br&gt;&lt;br&gt;강 실장에게 관련 보고를 받은 이 대통령은 “높은 사람이 낸 의견이 아닐 텐데, 담당 공무원의 아이디어일 것”이라며 “찾아서 포상이라도 좀 하라”고 주문했다고 한다. &lt;br&gt;&lt;br&gt;당시 이 대통령은 ‘포상은 절차와 기준이 있다’는 취지의 보고를 받고는 “그렇다면 대통령실에서 피자라도 보내주라”라고 지시했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 지난해 12월 ‘탁월한 성과를 내는 공무원에게 파격 포상을 하라’는 이 대통령 지시에 따라 최근 ‘특별성과 포상금 제도’를 신설하고 허 경감 등 31건을 선정했다. &lt;br&gt;&lt;br&gt;첫 포상금 심의위에서는 캄보디아 ‘코리아 전담반’에서 50여 일 만에 보이스피싱 연루자 135명을 검거하고 4명을 구출한 경남청 소속 박동기 경정 등 7명이 2000만원 포상 대상자로 뽑혔다. 고등학교 허위 폭파 협박범을 검거한 인천청 소속 윤희철 경감 등 5명, 콘서트 암표 조직을 검거한 경기북부청 소속 이영재 경감 등 6명에게도 각각 500만원씩을 포상한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10·15 대책 후 서울 토지거래허가 신청 건수 9935건…매달 증가세</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/18/F3P65CJV2RBENFSY2V2MM4ZEKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/F3P65CJV2RBENFSY2V2MM4ZEKQ/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 05:01:00 +0000</pubDate>
-      <content:encoded>지난해 정부의 ’10·15 대책’이 시행된 이후 서울 전역의 토지 거래 허가 신청 건수가 1만건에 육박한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTDAOLGGAZTSODBGEYGCMZWGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 남산 전망대에서 바라본 시내에 아파트가 빼곡히 들어차 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난해 10~12월 서울의 토지 거래 허가 신청 건수가 9935건으로 집계됐다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;월별 신청 건수는 지난해 10월 1066건, 11월 3981건, 12월 4888건으로 매달 늘었다.&lt;br&gt;&lt;br&gt;작년 11월 서울의 아파트 매매 실거래가는 한 달 전보다 1.28% 상승한 것으로 파악됐다. 1년 전인 2024년 11월과 비교하면 12.95% 올랐다. 지역별로는 도심권·동남권·서남권에서 실거래가가 상승했고, 특히 도심권이 한 달 전보다 3.46% 올랐다. 전세 실거래가는 한 달 전 대비 0.94% 오른 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울시는 앞으로 토지 거래 허가 신청 현황과 한국부동산원 실거래 가격 지수 등 주택 시장 정보를 매달 공개할 예정이다. 생활권, 규모 등 시장 동향도 분석해 ‘서울주택 정보마당’ 홈페이지에 매달 말 공개한다.&lt;br&gt;&lt;br&gt;최진석 주택실장은 “실거래 기반의 정확한 시장 정보를 서울시가 지속적으로 제공하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼전·하이닉스 등 대기업 계약학과 정시 지원 40% 증가 </title>
-      <link>https://www.chosun.com/national/education/2026/01/18/H6SF75MLYBA6RNVCU77ACYCBVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/18/H6SF75MLYBA6RNVCU77ACYCBVY/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 04:40:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZD7GJZX7FLLLHGXOIETF7LBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 서울 종로구 성균관대학교 600주년 기념관에서 열린 종로학원 주최 2026 정시 합격 가능선 예측 및 지원전략 설명회에서 참석자들이 배치표를 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 대학 정시 모집에서 대기업과 연계된 대학 계약학과 지원자가 전년 대비 40% 가까이 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;18일 종로학원에 따르면, 이번 정시 모집에서 삼성전자, SK하이닉스 등 7개 대기업 16개 계약학과 지원자는 2478명으로 집계됐다. 2025학년도(1787명)보다 38.7%(691명) 증가했다. 전체 경쟁률은 9.77대1에서 12.77대1로 올랐다.&lt;br&gt;&lt;br&gt;삼성전자와 연계된 대구경북과기원 반도체공학과의 경우 3명 모집에 267명이 몰려 89대1 경쟁률을 기록했다. 울산과기원 반도체공학과(5명 모집, 296명 지원)는 59.2대1이다. 고려대 차세대통신학과는 10명 모집에 67명이 지원해 6.7대1, 성균관대 지능형소프트웨어학과는 16명 모집에 100명이 몰려 6.25대1 경쟁률을 기록했다.&lt;br&gt;&lt;br&gt;SK하이닉스와 연계된 한양대 반도체공학과는 10명 모집에 118명이 지원했다. 삼성SDI와 연계된 성균관대 배터리학과 경쟁률은 46.17대1(12명 모집, 554명 지원)에 달했다.&lt;br&gt;&lt;br&gt;정시에서 대기업 계약학과들이 뽑는 인원은 2022학년도 78명, 2023학년도 140명, 2024학년도 178명, 2025학년도 183명, 2026학년도 194명으로 증가세다.&lt;br&gt;&lt;br&gt;앞서 종로학원은 2026학년도 전국 의약학 계열 정시 지원자는 1만8297명으로, 전년보다 24.7%(6001명) 감소했다고 밝힌 바 있다. 임성호 종로학원 대표는 “의약학 계열 지원자가 감소한 것과는 대조적으로, 계약학과에 대한 자연계 최상위권 학생들의 선호도가 높아지는 분위기가 뚜렷하다”며 “대학들은 지속적으로 계약학과 신설을 추진하고 있는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기후위기가 바꾼 재난 현장… 벌집제거 줄고 온열질환자 이송 늘어</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/18/AHGBPUKRTRHS3HA3KFNBY7TEUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/18/AHGBPUKRTRHS3HA3KFNBY7TEUQ/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 04:19:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDQOBWGJQWIYRRHFRDSZBWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북소방안전본부에 따르면 지난해 경북지역에서는 3000건이 넘는 화재로 60명이 사망하고 재산 피해액은 1조1600억원에 이른 것으로 집계됐다. 사진은 지난해 3월 23일 경북 의성군 화재 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후위기와 고령화가 맞물리면서 재난 현장의 양상도 달라지고 있다. 폭우와 폭염 같은 이상기후가 반복되면서 벌집 제거 등 일부 구조 출동은 줄어든 반면, 온열질환자 이송과 고령층 구급 출동은 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;소방청이 18일 발표한 ‘2025년 소방활동 분석’에 따르면, 지난해 화재·구조·구급 출동은 모두 452만501건으로 전년 대비 3.4% 감소했다. 다만 화재는 늘고 구조·구급 출동은 줄어드는 등 분야별로 엇갈린 흐름을 보였다.&lt;br&gt;&lt;br&gt;화재는 지난해 3만8341건 발생해 전년 대비 1.9% 증가해 전체 소방활동 지표 가운데 유일하게 늘어난 항목으로 나타났다. 화재 사망자도 346명으로 12.3% 증가했다. 소방청은 건조한 기후의 영향과 함께 전동킥보드·전기차 확산에 따른 배터리 관련 화재 등 화학적 요인 화재가 16.7% 늘어난 점을 주요 원인으로 분석했다.&lt;br&gt;&lt;br&gt;반면 구조 출동은 119만7158건으로 전년보다 9.2% 감소했다. 소방청은 통상 구조 출동의 상당 부분을 차지하던 벌집 제거 요청이 지난해 가을철 잦은 강수로 크게 줄어든 영향이라고 설명했다. &lt;br&gt;&lt;br&gt;구급 출동은 전체적으로는 1.2% 감소했지만, 폭염의 영향은 뚜렷했다. 짧은 장마 이후 이어진 역대급 폭염으로 온열질환자 이송은 전년 대비 12% 증가했다.&lt;br&gt;&lt;br&gt;한편 연령대별로는 60대 이상 이송 환자가 102만1423명으로 전체의 58.4%를 차지해 절반을 넘었다. 반면 10세 미만 소아 환자 이송은 5만3977명으로 1년 전보다 11.2% 줄었다. 소방청은 저출산·고령화로 구급 수요의 중심이 노년층으로 이동하고 있다고 분석했다.&lt;br&gt;&lt;br&gt;소방청은 “기후위기와 사회 구조 변화가 재난 현장에 직접적인 영향을 미치고 있다”며 “앞으로 데이터에 기반한 보다 정교한 재난 대응 체계를 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“공천헌금, 나만 그런 게 아닌데”... ‘키맨’ 김경의 이유있는 항변 </title>
