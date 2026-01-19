@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “나눔의집, 후원 목적과 다르게 사용한 후원금 돌려줘야” 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/19/5ZHO54TG7RFGTJLBMAGFDGYQRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/5ZHO54TG7RFGTJLBMAGFDGYQRA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 04:59:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTDENZSHE4DKN3EMVSTOYLBGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 광주시 퇴촌면 나눔의집에 설치된 위안부 피해자 할머니들의 흉상. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본군 위안부 피해자 지원 시설인 ‘나눔의집’이 후원자들에게 후원금을 돌려줘야 한다는 판단이 대법원에서 최종 확정됐다. &lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 대법원 3부(주심 이숙연 대법관)는 지난 15일 후원자 이모씨가 “155만원의 후원금을 돌려달라”며 나눔의집을 상대로 낸 소송 재상고심에서 나눔의집 측 상고를 심리불속행으로 기각했다. 이에 따라 나눔의집이 이씨에게 후원금 155만원과 지연손해금을 지급하라고 한 파기환송심 판결이 그대로 확정됐다.&lt;br&gt;&lt;br&gt;나눔의집은 위안부 피해자 쉼터로, 피해자 생활 지원과 역사관 운영 등을 명목으로 후원금을 받아왔다. 이씨는 2017년 8월부터 2020년 4월까지 2년 8개월 동안 매달 5만원씩 총 155만원을 위안부 피해자 생활 지원 명목으로 후원했다. 그런데 2020년 실제로는 나눔의집 후원금이 피해자 지원보다 법인 자산 축적 등에 사용됐다는 내부 폭로가 나오며 ‘후원금 유용 의혹’이 불거졌고, 이씨는 “후원 목적이 지켜지지 않았다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;1·2심은 “후원금이 후원 목적과 다르게 사용됐다고 보기 어렵다”며 원고 패소로 판결했다. 그러나 대법원은 지난 2024년 “후원자가 인식한 후원 목적과 실제 사용 내역 사이에 불일치가 존재한다”며 판단을 뒤집었다. 지난해 파기환송심은 대법원 취지에 따라 나눔의집의 반환 책임을 인정했고, 나눔의집이 재차 상고했으나 대법원이 이번에 이를 확정한 것이다.&lt;br&gt;&lt;br&gt;법조계에서는 이번 판결이 정의기억연대(정의연) 후원자들이 윤미향 전 의원을 상대로 제기한 후원금 반환 소송에도 기준이 될 수 있다는 평가가 나온다. 서울서부지법은 지난해 1월 정대협과 윤 전 의원 측에 후원금 반환을 권고하는 화해 권고 결정을 내렸으나, 윤 전 의원 측이 이의신청을 하면서 재판이 계속되고 있다. 윤 전 의원은 정대협 후원금을 횡령한 혐의로 기소돼 지난해 11월 대법원에서 징역 1년 6개월에 집행유예 3년이 확정됐고, 이후 광복절 특별사면을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김경 ‘가족 회사’ 서울시 사업 특혜 수주…서울시, 자체 감사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/19/KBGDJNZ7LNDL5FNJDURUPMWZVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/19/KBGDJNZ7LNDL5FNJDURUPMWZVU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 05:13:01 +0000</pubDate>
+      <content:encoded>김경 서울시의원의 가족들이 서울시 사업을 수주하는 과정에서 특혜를 받았다는 의혹이 나오자, 서울시가 자체 감사에 착수하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GKOLDMI2TCYRZGFSWMY3CGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김경 서울시의원이 지난 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 서울시에 따르면, 오세훈 서울시장은 이날 관련 언론 보도를 접하고 구체적인 내용 파악과 감사를 지시했다.&lt;br&gt;&lt;br&gt;본지는 이날 김 시의원이 시의회 상임위원회를 옮겨갈 때마다 김 시의원의 가족 회사가 해당 상임위 관련 서울시 사업을 수의 계약 등을 통해 잇따라 수주했다고 보도했다. 수의 계약은 2019년부터 지난해 6월까지 이뤄졌다.&lt;br&gt;&lt;br&gt;관련 사업을 수주한 김 시의원 가족 회사는 부동산 시행사와 시공사, 교육 컨설팅 법인 등 7곳으로 수주 금액은 수백억 원대다. 이에 ‘김 시의원 가족 회사가 사업을 수주하는 과정에서 김 시의원의 영향력이 작용한 것 아니냐’는 의혹도 나왔다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “자체 감사와 동시에 사법 기관 수사에도 적극 협조할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>징역 5년에 尹 변호인단 “사라진 법리·붕괴된 법치… 판결 유감”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/17/F6FIV54W6VFCVK3UHWN7YVA4LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/17/F6FIV54W6VFCVK3UHWN7YVA4LA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Jan 2026 07:20:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNTUHZTZZBBTVFJAWULT4ESRIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 16일 서울 서초구 서울중앙지법에서 열린 재판에서 고위공직자범죄수사처의 체포 영장 집행을 방해한 혐의 등에 대해 징역 5년을 선고받고 퇴장하고 있다. 1심 재판부는 윤 전 대통령에게 적용된 5가지 혐의 가운데 4가지를 유죄로 판단했다. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 윤석열 전 대통령의 체포 방해 등 혐의에 대해 징역 5년을 선고한 데 대해 윤 전 대통령 측이 17일 “사라진 법리에 붕괴된 법치, 오로지 정치 논리”라며 “판결에 깊은 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 이날 입장문을 통해 전날 서울중앙지법 형사35부(재판장 백대현)의 유죄 판결을 조목조목 비판했다. 윤 전 대통령 측은 먼저 “고위공직자범죄수사처(공수처)는 내란죄 수사권이 없다”며 재판부가 인정한 공수처의 내란 수사권을 문제 삼았다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “공수처법은 공수처의 수사 대상을 고위 공직자의 직무 범죄 및 부패 범죄로 한정하고, 그에 파생되는 일정한 관련 범죄만을 예외적으로 포함하도록 규정하고 있다”면서 “이는 공수처의 수사권이 본질적으로 제한적·예외적임을 전제로 한 입법 구조”라고 설명했다. 이어 “이러한 법률 체계에 비추어 보면 국가의 존립과 헌정 질서에 대한 침해를 처벌하는 내란죄는 직무 범죄나 부패 범죄의 범주에 포함될 수 없고, 공수처법 2조 3호가 열거한 수사 대상 범죄에도 명시적으로 포함되어 있지 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “사건 당시 공수처가 직권남용죄 수사를 계기로 내란죄까지 수사권을 확장한 것은 공수처법이 예정한 권한 범위를 벗어난 자의적이고 위법한 권한 행사”라며 “위법 수사에 기초해 이뤄진 체포영장 및 구속영장 청구와 집행에 대한 저항을 형사처벌의 대상으로 삼는 것은 허용될 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “재판부는 공수처의 수사의 적법성에 관해 불과 몇 줄의 간략한 판단만으로 이를 긍정했을 뿐, 변호인단이 제기한 구체적이고 다층적인 법률적 쟁점들에 대해서는 실질적인 판단을 제시하지 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 또 중앙지법 다른 재판부에서 진행 중인 내란 사건 선고 전에 먼저 이 사건을 선고한 것도 문제라고 주장했다. 윤 전 대통령 측은 “재판부는 해당 (내란죄) 판단의 전제가 되는 핵심 사실관계가 확정되기도 전에 (체포 방해 등) 재판을 서둘러 종결했다”며 “형법의 기본 구조와 절차적 정합성에 대한 충분한 검토 없이 미리 설정된 특검의 결론을 전제로 법원이 논리를 구성한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 밖에 재판부가 계엄 당시 국무회의에서 국무위원들의 심의권을 침해했다고 인정한 부분 등에 대해서도 윤 전 대통령 측은 “판례와 맞지 않는다”며 반발했다. 윤 전 대통령 측은 1심 판결에 대해 다음 주에 항소할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 ‘남산 곤돌라’ 공사 중단 계속... 법원, 집행정지 재신청도 인용</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/19/VRCBDYROGRFJTP7DIZ5UWMD66E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/VRCBDYROGRFJTP7DIZ5UWMD66E/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 04:37:20 +0000</pubDate>
+      <content:encoded>서울시가 추진 중인 남산 곤돌라 공사를 중단하라며 남산 케이블카 운영사가 1심 판결 이후 다시 제기한 집행정지 신청을 법원이 받아들였다. 항소심 결과가 나올 때까지 곤돌라 공사는 중단된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AB2CPHWJXNLZJI7PIOKC4327X4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원은 지난달 19일 남산 케이블카 운영사인 한국삭도공업이 서울시를 상대로 제기한 도시관리계획결정 처분 취소 소송의 선고기일을 열고 원고 승소 판결을 내렸다. 사진은  서울 중구 남산 예장공원 곤돌라 승강장 공사현장 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 서울행정법원 행정8부(재판장 양순주)는 남산 케이블카 운영사인 한국삭도공업 등이 서울시를 상대로 제기한 도시관리계획 결정 처분 취소 청구 소송의 두 번째 집행정지 신청을 지난 16일 인용했다. 재판부는 ‘항소심 판결 선고일로부터 30일이 되는 날’까지도시관리계획 결정정 처분의 효력을 정지하도록 했다. 서울시가 판결 결과에 불복해 항소했으나, 항소심으로 기록 이관이 늦어지자 한국삭도공업 측이 집행정지를 1심 법원인 서울행정법원에 다시 신청했고, 법원이 이를 받아들인 것이다.&lt;br&gt;&lt;br&gt;이 사건은 서울시가 2023년 6월 남산 곤돌라 건설 계획을 발표한 게 발단이 됐다. 서울시는 2024년 8월 곤돌라 기둥을 설치할 땅의 용도구역을 근린공원으로 변경하며 공사를 시작했고, 한국삭도공업 등이 “서울시 결정은 위법하다”며 취소 소송을 내고, 집행정지도 신청했다. 법원이 2024년 10월 집행정지를 인용하면서 공사는 중단됐다.&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 작년 12월 19일 남산 곤돌라 사업 추진을 위해 서울시가 남산 곤돌라를 설치하기 위해 공원녹지법이 정한 요건을 갖추지 않고 도시자연공원구역을 해제한 게 위법이라며 한국삭도공업 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포근한 주말... 대기질은 오후부터 나아져</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/17/ABXHGV7ZWZGIRKMXXSGTD4375A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/17/ABXHGV7ZWZGIRKMXXSGTD4375A/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Jan 2026 01:18:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYTQNLBGI3WIZDBG4YWGOBZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포근한 날씨를 보인 지난 16일 부산 해운대해수욕장에서 반팔 차림을 한 어린이가 갈매기의 군무를 보며 즐거운 시간을 보내고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국이 대체로 맑고 포근하겠다. 대기질은 토요일 오후부터 차차 나아질 전망이다.&lt;br&gt;&lt;br&gt;기상청은 “17일 토요일 낮 기온이 2~14도”라며 “전국 대부분 지역에서 어제보다 5도가량 낮지만 평년보다는 조금 높은 기온으로 온화한 날씨가 나타나겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;또 “18일 일요일은 전국 대부분 아침 기온이 영하권에 들지만, 낮 동안 기온이 크게 오른다”며 “강이나 하천에 얼었던 얼음이 녹아 깨질 수 있으니 안전 사고에 각별히 유의해야 한다”고 했다. 18일 낮 기온은 4~14도로 예보됐다.&lt;br&gt;&lt;br&gt;기상청은 건조특보가 발효 중인 동해안과 일부 경상권은 대기가 매우 건조하다며, 야외 활동 시 산불을 포함한 각종 화재 예방에 각별히 유의해야 한다고 주의했다.&lt;br&gt;&lt;br&gt;대기질은 토요일 오후부터 나아질 것으로 보인다. 국립환경과학원에 따르면 17일 세종과 충북·대구는 미세먼지 농도가 ‘나쁨’으로 전망됐지만, 나머지 지역은 ‘보통’으로 예측됐다. &lt;br&gt;&lt;br&gt;다만 수도권은 아침까지, 강원영서·충청권은 오전까지, 전북·경북은 낮까지 미세먼지가 ‘나쁨’일 것으로 나타났다. &lt;br&gt;&lt;br&gt;광주·전남·부산·울산·경남·제주권은 이른 오전부터 낮까지 ‘나쁨’으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘1억 공천헌금’ 전달책 강선우 의원실 전 보좌관 재소환</title>
+      <link>https://www.chosun.com/national/incident/2026/01/17/KSSVRLP6NJBEBH6V6PGJNFGWOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/17/KSSVRLP6NJBEBH6V6PGJNFGWOQ/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 Jan 2026 01:00:28 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3TINZQGE4WGZTDGNSDCOJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선우 무소속 의원(왼쪽), 김경 서울시의원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘1억원 공천 헌금’ 사건을 수사 중인 경찰이 17일 금품 전달책 역할을 한 것으로 알려진 남모씨를 불러 조사한다. 지난 6일 조사 후 이뤄진 두 번째 조사다. 남씨는 2022년 4월 당시 강선우 전 더불어민주당 의원의 지역 사무실에서 사무국장을 지냈는데, 지방선거 공천을 앞두고 후보였던 김경 서울시의원 측으로부터 1억원을 전달받아 보관한 인물로 지목됐다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 10시부터 남모씨를 피의자 신분으로 불러 조사하고 있다. 남씨는 지난 6일 조사에서 “‘물건을 차에 옮기라’는 강 의원 지시에 따라 돈인지 모르고 차량 트렁크에 실었다”는 취지로 진술한 것으로 알려졌다. 하지만 이후 두 차례 경찰 조사를 받은 김경 서울시의원은 남씨가 먼저 시의원 출마를 고민하던 김 시의원에게 강 의원 측 상황을 설명하며 ‘공천헌금’을 제안했다고 주장해 양측 진술이 엇갈렸다.&lt;br&gt;&lt;br&gt;2022년 4월 강선우 의원에게 ‘공천 헌금’ 1억원을 건넨 혐의를 받는 김경 서울시의원이 미국에서 귀국하기 전 경찰에 제출한 자수서에서 2022년 한 카페에서 강 의원에게 직접 1억원을 건넸다고 밝힌 것으로 알려졌다. 당시 만남에는 강 의원 지역구 사무국장 남씨도 있었는데 잠시 자리를 비운 사이에 돈을 건넸다는 것이다. 남씨도 지난 6일 경찰 조사에서 강 의원이 당시 만남 현장에 있었다고 진술했다고 한다.&lt;br&gt;&lt;br&gt; 강 의원은 2022년 민주당 지방선거 공천관리위원이었다. 앞서 강 의원은 주변에 “(내가 직접) 돈을 받은 적이 없고, 뒤늦게 알게 되자마자 반환을 지시했다”고 했었다. 하지만 김 시의원은 강 의원 해명과 달리 경찰 조사에서 “공천이 확정되고 수개월 뒤에 돈을 돌려받았다”고 진술한 것으로 전해졌다. 경찰은 강·김·남 세 사람의 삼자 대질 조사를 검토 중이다.&lt;br&gt;&lt;br&gt;이 의혹은 지난달 29일 MBC가 강 의원과 김병기 더불어민주당 의원의 2022년 4월 대화 녹음을 공개하면서 불거졌다. 녹음을 들어보면, 강 의원은 다주택 문제로 지방선거 공천에서 배제될 것을 미리 안 김 시의원이 강 의원의 지역구 사무국장에게 전화해 1억원을 준 사실을 폭로하겠다고 했다고 김 의원에게 말한다. 김 의원이 “1억원 받은 걸 사무국장이 보관하고 있었다는 것 아니냐”고 하자 강 의원은 “그렇죠. 그냥 아무 생각이 없었던 거죠”라고 했다. 강 의원은 김 의원에게 “살려 주세요”라고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대통령 선거 앞두고 “김문수, 대통령 타입” 설교한 목사 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/19/GEYEBSHVIVFIHGMRRC4UZNA2UE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/GEYEBSHVIVFIHGMRRC4UZNA2UE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 04:31:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3DKMRXMZTGMN3DHFSDCNDEGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 치러진 제21대 대통령 선거를 앞두고, 교회 설교에서 특정 후보를 지지한 목사에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사15부(재판장 김정헌)는 공직선거법 위반 혐의로 기소된 목사 A(72)씨에게 벌금 70만원을 선고했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 5월 14일 오후 7시 30분쯤 자신이 담임목사인 인천 서구의 한 교회에서 국민의힘 김문수 후보를 지지하는 내용으로 설교한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 ‘참 친구 예수님과 나, 전광훈 목사와 김 후보, 다윗과 요나단’을 주제로 설교하면서 “(김 후보가) 대통령 타입이야. 박정희 대통령보다 더 대통령 타입이 됐더라고” “김문수 후보는요, 그 눈물이 성령 받은 눈물입니다” 등의 내용을 발언한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 종교상의 직무를 이용해 신도들이 듣는 가운데 선거운동을 한 것으로, 선거의 투명성과 공정성을 확보하려는 공직선거법 취지 등을 고려했을 때 죄책이 가볍지 않다”고 했다. 이어 “자신의 잘못을 인정하고 반성하는 점, 설교를 들은 교인이 6명에 불과해 선거에 영향을 미친 정도가 높지 않은 것으로 보이는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산에 ‘스마트 양식 빅데이터 센터’ 설립… 전국 최초</title>
+      <link>https://www.chosun.com/national/regional/2026/01/19/56WX7244HFFVRJ6YTWVVV2W56A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/19/56WX7244HFFVRJ6YTWVVV2W56A/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 04:29:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2GENZRME2DGN3CGI3TGN3FHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시청 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에 전국 최초로 스마트 양식 빅데이터 센터가 생긴다. &lt;br&gt;&lt;br&gt;부산시는 19일 ‘스마트 양식 빅데이터 센터 구축 사업’ 착수 보고회를 열었다. 이번 센터 구축에는 약 100억원(국비 70%, 시비 30%)이 투입된다. 2027년 6월까지 부경대 용당캠퍼스에 설치될 예정이다.&lt;br&gt;&lt;br&gt;스마트 양식 빅데이터 센터는 양식업의 스마트화를 위한 필수 기반 시설이다. 양식 시설에서 생성되는 다양한 데이터를 수집·분석하고, 인공지능(AI) 기술 등을 결합해 양식장 운영과 관련된 사육·경영 정보 등을 제공한다. &lt;br&gt;&lt;br&gt;앞서 해양수산부는 2023년 전국 시도 대상으로 사업 공모를 진행한 결과 부산시가 최종 선정됐다.&lt;br&gt;&lt;br&gt;조영태 부산시 해양농수산국장은 “이번 사업은 부산이 데이터 기반의 미래 지향형 스마트 양식 산업을 선도할 좋은 기회”라며 “지역의 우수한 인재 양성에도 기여할 수 있도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>계좌 빌려주면 월 150만원… 주부 등에 대포통장 모집한 일당 검거</title>
       <link>https://www.chosun.com/national/regional/2026/01/19/B3GFBFDNENCUDD3JPC4TKYVH2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/19/B3GFBFDNENCUDD3JPC4TKYVH2Y/</guid>
@@ -438,15 +510,6 @@
       <content:encoded>올해 대입 정시 모집에서 삼성전자·SK하이닉스 등 대기업과 연계된 계약학과 지원자가 전년 대비 40% 가까이 증가한 것으로 나타났다. 최근 AI(인공지능) 개발과 맞물려 반도체 업계가 호황을 보이자, 대학 졸업 후 이들 회사로의 취업이 보장된 계약학과로 수험생들이 더 몰렸다는 분석이다. &lt;br&gt;&lt;br&gt;18일 종로학원에 따르면, 2026학년도 정시 모집에서 7개 대기업의 16개 계약학과 지원자는 총 2478명으로, 지난해(1787명)보다 38.7% 늘어난 것으로 집계됐다. 평균 경쟁률도 9.77대1에서 12.77대1로 올라갔다. 계약학과는 기업이 대학과 손잡고 자사에 필요한 반도체·배터리 분야 등의 전문 인력을 양성하는 학과다. 장학금을 지원하고 졸업 후엔 채용 우대도 해준다.&lt;br&gt;&lt;br&gt;특히 삼성전자와 연계된 대학 7곳의 8개 학과에는 총 96명 모집에 1290명이 몰리면서 경쟁률이 13.44대1에 달했다. 이 중 대구경북과학기술원 반도체공학과의 경쟁률이 89대1로 가장 높았고, 울산과학기술원 반도체공학과(59.2대1), 광주과기원 반도체공학과(50.2대1), 고려대 차세대통신학과(6.7대1), 성균관대 지능형소프트웨어학과(6.25대1), 연세대 시스템반도체공학과(5.84대1) 등의 순이다. &lt;br&gt;&lt;br&gt;SK하이닉스와 연계된 대학 3곳의 3개 학과는 총 35명 모집에 320명이 지원해 9.14대1의 경쟁률을 보였다. 한양대 반도체공학과 11.8대1, 서강대 시스템반도체공학과 9대1, 고려대 반도체공학과 7.47대1이다. &lt;br&gt;&lt;br&gt;이 밖에도 삼성SDI와 연계된 성균관대 배터리학과는 경쟁률 46.17대1(모집 12명), LG유플러스와 연계된 숭실대 정보보호학과는 8.75대1(모집 12명), 현대자동차와 연계된 고려대 스마트모빌리티학부는 4.71대1(모집 21명) 등을 기록했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 김연매 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/19/ZAMUKJ7Y6VBW3EDSTAFGZIDR4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/19/ZAMUKJ7Y6VBW3EDSTAFGZIDR4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김연매&lt;/b&gt; 별세, &lt;b&gt;김우연&lt;/b&gt; 대전테크노파크 원장 모친상=18일17시 충남 서천장례식장, 발인 20일9시10분, (041)952-4402&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김창년&lt;/b&gt; 前 KGC인삼공사 감사 별세, &lt;b&gt;김상일&lt;/b&gt; 성원FC 상무·&lt;b&gt;김지현&lt;/b&gt;·&lt;b&gt;김지수&lt;/b&gt;·&lt;b&gt;김희수&lt;/b&gt; 부친상, &lt;b&gt;장정현&lt;/b&gt; 경향신문 전무·&lt;b&gt;박종운&lt;/b&gt; 성원FC 대표·&lt;b&gt;김대진&lt;/b&gt; 디바이오 대표 장인상=18일16시 신촌세브란스병원, 발인 20일10시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박옥열&lt;/b&gt; 별세, &lt;b&gt;김욱한&lt;/b&gt;·&lt;b&gt;김성한&lt;/b&gt; 前 iM라이프 대표·&lt;b&gt;김진한&lt;/b&gt;·&lt;b&gt;김은숙&lt;/b&gt; 모친상=17일14시 서울아산병원, 발인 19일8시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이동걸&lt;/b&gt; 前 프린스호텔 대표 별세, &lt;b&gt;이정선&lt;/b&gt; 前 한나라당 국회의원·&lt;b&gt;이승호&lt;/b&gt; 부친상=18일4시40분 신촌세브란스병원, 발인 20일6시40분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;하도호&lt;/b&gt; 별세, &lt;b&gt;최경은&lt;/b&gt;·&lt;b&gt;최진영&lt;/b&gt;·&lt;b&gt;최진&lt;/b&gt; 대통령리더십연구원장·&lt;b&gt;최성&lt;/b&gt; 前 고양시장 모친상=16일16시30분 서울성모병원, 발인 20일8시, (02)2258-5940 &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대한체육회, 신동빈에 감사패</title>
       <link>https://www.chosun.com/national/people/2026/01/19/GRAET635XVA6BI2PLEC2U7A2MQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/19/GRAET635XVA6BI2PLEC2U7A2MQ/</guid>
@@ -456,72 +519,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYTZN2KCUJDEZOBTQVBIEHRUZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신동빈(왼쪽) 롯데그룹 회장이 16일 유승민 대한체육회장으로부터 감사패를 받고 있다.
 /대한체육회
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한체육회가 동계 스포츠 발전과 선수 육성에 기여한 공로로 신동빈(71) 롯데그룹 회장에게 감사패를 전달했다고 18일 밝혔다. 신 회장은 “최근 우리 선수들이 국제 대회에서 선전하고 있다. 다음 달 밀라노 코르티나 동계 올림픽에서도 좋은 성적을 내기를 기원한다”고 말했다. &lt;br&gt;&lt;br&gt;롯데는 대한스키스노보드협회 회장사로서 2014년부터 현재까지 300억원 이상을 후원했다. 이는 선수단 장비 지원, 훈련 여건 개선, 국제 대회 출전비 등으로 사용됐다. 롯데는 밀라노 올림픽 참가 선수들을 지원하기 위해 이탈리아 현지에서 지원 센터도 운영할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속 신화] 고난 끝에 왕이 된 두 영웅, 오만함이 운명 갈랐어요</title>
-      <link>https://www.chosun.com/national/nie/2026/01/19/3ZPPFSLTHRDQ3E67F3AKDPPT5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/19/3ZPPFSLTHRDQ3E67F3AKDPPT5M/</guid>
-      <dc:creator>김원익 홍익대 문과대학 교수·사단법인 세계신화연구소장, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:38:00 +0000</pubDate>
-      <content:encoded>전 세계 신화에 등장하는 영웅들은 비슷한 특징이 있어요. 두려움 없이 당당하게 고난에 맞선다는 거죠. 그리스 신화에 나오는 테세우스가 아테네의 왕이 되기까지 온갖 고난과 악당을 물리쳐 가며 영웅으로 거듭나는 과정도 마찬가지입니다.&lt;br&gt;&lt;br&gt;하지만 성공한 뒤에도 영웅들은 겸손을 잃지 말아야 합니다. 괴물을 물리치고 왕의 자리에 올랐던 벨레로폰은 한순간의 오만으로 영웅이 추락한 사례예요. 오늘은 그리스 신화에 나오는 영웅의 덕목에 대해 같이 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74SALCAL65D2DFMMUVFA7ISJRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;땅속에 묻힌 아버지의 칼을 찾는 테세우스(오른쪽) 모습입니다. 프랑스 화가 니콜라 푸생이 그렸어요.
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;바위 아래 숨겨진 왕의 칼&lt;/b&gt;&lt;br&gt;&lt;br&gt;테세우스의 아버지는 아테네의 왕 아이게우스였어요. 하지만 그는 아버지가 누구인지 모르고 자랐습니다. 그는 아버지 아이게우스가 여행 중 사랑에 빠진 트로이젠 공주 아이트라와의 사이에서 생긴 아이예요. 하지만 아이게우스는 자신의 반대파가 득실거리는 아테네로 자기 아이를 임신한 아이트라를 데려갈 수 없었죠. 고민 끝에 아이게우스는 트로이젠을 떠나기 전, 공주를 숲속 커다란 바위로 데려가 그 옆에 구덩이를 파고 칼 한 자루를 넣었대요. 이어 흙으로 구덩이를 덮고 그 위에 바위를 올려놓은 다음 이렇게 말했어요. “당신이 장차 아들을 낳아 그 아이가 이 바위를 들어 올릴 만큼 장성하여 나를 찾거든 이 칼을 들려 내게 보내시오!”&lt;br&gt;&lt;br&gt;아이트라는 열 달 후 아들이 태어나자 테세우스라고 이름 지었어요. 세월이 흘러 테세우스는 유난히 강인하고 지혜로운 청년으로 성장했어요. 어느 날 그는 어머니에게 어려서부터 마음에 담아 두고 있던 말을 꺼냈어요. “어머니, 우리 아버지는 어디 계신가요?”&lt;br&gt;&lt;br&gt;아이트라는 아들을 아버지에게 보낼 때가 됐다는 것을 직감하고 아들을 숲속으로 데려가 바위 밑을 파보라고 한 다음 칼을 가리키며 이렇게 말했어요. “아들아, 네 아버지는 아테네의 왕 아이게우스다. 이제 아버지를 찾아가거라! 이 칼을 갖고 가면 아버지가 너를 금방 알아볼 것이다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;험난한 길을 택하는 영웅&lt;/b&gt;&lt;br&gt;&lt;br&gt;트로이젠에서 아테네로 가는 방법은 육지 길과 바닷길 두 가지가 있었어요. 그런데 육지 길은 긴 데다 길목마다 악당이 들끓었고, 바닷길은 짧고 바람도 불지 않아 안전했어요. 어머니는 아들에게 안전한 바다로 가라고 충고했어요. &lt;br&gt;&lt;br&gt;하지만 테세우스는 굳이 위험한 육지로 가겠다고 고집을 피웠어요. 어머니의 만류에도 육지 길을 택해 수많은 악당을 하나씩 해치우면서 아테네에 도착했습니다. 쉽고 밋밋한 길을 피하고 어렵고 꼬불꼬불한 길을 찾아다닌 거죠. 그는 결국 아테네의 왕인 아버지 아이게우스를 만나 후계자가 됩니다&lt;b&gt;. &lt;/b&gt;그는 왕이 된 후에는 아테네에서 처음으로 민주정을 도입하기도 했어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBG5GTMHRNG5PCFPGJ3S7EDO5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;페가수스를 탄 벨레로폰이 키마이라를 무찌르는 장면을 담은 로마 시대 모자이크 작품입니다.
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;괴물을 물리친 벨레로폰&lt;/b&gt;&lt;br&gt;&lt;br&gt;고난을 극복하고 영웅이 된 뒤에 겸손함을 잊어버리는 경우도 있어요. 그리스 신화의 영웅 벨레로폰처럼 말이죠. 벨레로폰은 코린토스의 왕자였어요. 그는 실수로 형제를 죽인 뒤, 나라에서 추방당해 티린스의 왕 프로이토스의 손님이 돼서 그의 궁전에서 살았어요. 그런데 프로이토스의 왕비 안테이아가 벨레로폰에게 첫눈에 반해 사랑을 고백했다가 거절당하자, 자신을 겁탈하려 했다는 누명을 씌웠어요.&lt;br&gt;&lt;br&gt;프로이토스는 아내의 말만 믿고 복수심에 불타올랐어요. 하지만 손님을 죽였다는 비난을 받고 싶지 않았어요. 그래서 밀봉한 편지와 함께 벨레로폰을 리키아의 왕 이오바테스에게 보냈어요. 이오바테스는 프로이토스의 장인이었죠. 편지에는 이렇게 쓰여 있었어요. “장인어른, 이 편지를 갖고 가는 자를 없애주십시오. 그자는 안테이아를 겁탈하려고 한 자입니다.”&lt;br&gt;&lt;br&gt;사위의 편지를 읽고 난 이오바테스도 손님을 죽였다는 비난을 듣기 싫었어요. 그래서 벨레로폰에게 골칫거리 괴물 키마이라를 죽여 달라고 부탁했어요. 키마이라는 사자의 머리와 뱀 꼬리를 하고, 몸통에서는 염소의 상반신이 솟아나 있었으며, 입으로는 화염을 뿜어댔어요. 녀석은 사람·짐승 할 것 없이 닥치는 대로 해치고 다녔어요. 숱한 영웅들이 키마이라를 잡으러 갔다가 목숨을 잃었죠.&lt;br&gt;&lt;br&gt;벨레로폰은 영웅들의 수호 여신 아테나에게 간청해 날개 달린 말 페가수스를 얻은 뒤 키마이라를 찾아갑니다. 벨레로폰은 페가수스를 타고 납덩어리가 연결된 창을 키마이라의 주둥이에 던져 넣었어요. 키마이라의 화염이 납을 녹였고, 납은 목구멍을 타고 내려가 키마이라의 내장을 태웠어요.&lt;br&gt;&lt;br&gt;이오바테스는 괴물을 물리친 벨레로폰에게 상을 내리기는커녕 그 후 두 번이나 연거푸 다른 과업을 줬어요. 벨레로폰은 아무 불평 없이 페가수스를 타고 하늘을 날아다니며 그 과업들도 가뿐히 완수했어요. 초조해진 이오바테스는 벨레로폰에게 왕실 수비대를 보내 그를 암살하려 했어요. 하지만 그들도 오히려 벨레로폰에게 몰살을 당하고 말았어요. 이오바테스는 그제서야 벨레로폰이 신의 보호를 받고 있다는 사실을 깨닫고 그에게 사위 프로이토스의 편지를 보여주며 용서를 구했어요. 진실이 밝혀지자 이오바테스는 벨레로폰과 자신의 딸 필로노에를 결혼시키고 벨레로폰을 후계자로 삼았어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QC6B4DQJNNABNFCCWU4M4SG7BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;페가수스에서 떨어지는 벨레로폰과 그 모습을 내려다보는 제우스. 17세기에 그려진 것으로 추정됩니다.
-/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;벨레로폰의 추락&lt;/b&gt;&lt;br&gt;&lt;br&gt;여기까지만 보면 벨레로폰은 누명을 딛고 성공한 영웅이에요. 하지만 그는 이후 왕위에 올라 행복이 최고조에 오르자, 그만 오만에 빠지고 말았어요. 어느 날 벨레로폰은 신하들에게 신들의 왕 제우스와 식사하고 오겠다고 말한 뒤 페가수스를 타고 하늘의 올림포스 궁전을 향해 날아갔어요. 마치 자신이 신이 된 것처럼 말이죠. 올림포스 궁전은 신들의 영역이기 때문에 인간인 벨레로폰이 마음대로 드나들 수 없는 곳이에요.&lt;br&gt;&lt;br&gt;그 광경을 내려다보고 있던 제우스는 크게 분노해 벨레로폰에게 커다란 쇠파리 한 마리를 날려 보냈어요. 쇠파리가 페가수스를 물자, 깜짝 놀란 페가수스는 하늘로 치솟아 올랐어요. 그 바람에 벨레로폰은 페가수스에서 떨어져 다리가 부러지고 눈이 멀었어요. 그는 죽을 때까지 사람들을 피해 다니며 쓸쓸히 거리를 맴돌았어요.&lt;br&gt;&lt;br&gt;벨레로폰처럼 추락하지 않으려면 사람은 높은 자리에 올랐을수록 초심을 잃지 말고 더욱 겸손해야 해요. 신화 속 신은 최정상에 오른 사람에게 오만이라는 함정을 파놓고 시험해요. 성공한 사람에게 오만은 꿀처럼 달콤한 법이죠. 그래서 선뜻 오만을 맛보다가 벨레로폰처럼 한순간에 추락하고 말아요. 전성기를 누리던 스타가 한순간에 추락하는 것도, 힘들었던 무명 시절을 까맣게 잊어버리고 오만에 빠졌기 때문이에요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책] 책이 불타는 온도 화씨 451도… 독서 멀리하는 미래 세상 그렸죠</title>
-      <link>https://www.chosun.com/national/nie/2026/01/19/IQ7HIMBL3FHEHLGZLL2NGW3OFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/19/IQ7HIMBL3FHEHLGZLL2NGW3OFI/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EK3VY52QHNGLJNWRHXRJDQN36E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;레이 브래드버리 지음 l 박상준 옮김 l 출판사 황금가지 l 가격 1만5000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;학교와 사회, 국가가 책을 많이 읽으라고 권합니다. ‘독서문화진흥법’이라는 법까지 있지요. 그런데 레이 브래드버리의 과학소설(SF) ‘화씨 451’의 배경은 정부가 사람들의 책을 빼앗아 불태우는 사회입니다. 화씨는 온도를 표시하는 단위인데, 물이 어는 온도와 끓는 온도가 각각 화씨 32도와 212도예요. 이 작품의 이름인 화씨 451도는 책이 불타기 시작하는 온도라고 합니다.&lt;br&gt;&lt;br&gt;주인공 몬태그는 책을 태우는 방화수입니다. “몬태그는 100만권은 됨직한 금서(금지된 책)들의 목록을 쳐다보았다. 그 책들은 그의 점화기에서 나온 불꽃들에 의해 한 줌의 재로 변해가고 있다.” 어느 날 몬태그는 책 태우러 출동한 현장에서 책을 훔치고 맙니다. “그의 머리가, 양심과 호기심이, 떨리는 손가락들이 갑자기 도둑으로 변했다. 몬태그의 손가락들이 가슴에 대고 비비던 책을 방화복 안으로 쑤셔 넣었다.”&lt;br&gt;&lt;br&gt;몬태그는 책을 훔치고 난 뒤 아내 밀드레드에게 이렇게 말합니다. “생각을 책으로 정리하기 위해 아마 일생을 바치다시피 한 사람도 있을 거야. 온 세상을 돌아다니고 온갖 사람을 만나 보면서 이룩해 낸 업적을 나는 단지 1~2분 만에 재로 만들어 버리는 거야.”&lt;br&gt;&lt;br&gt;몬태그가 일하는 방화서 서장 비티는 정부가 책을 불태우게 되기까지의 역사를 말해줍니다. “‘햄릿(셰익스피어의 4대 비극 중 하나)’에 대해 전문적인 지식을 가진 사람들은 차츰 줄어들었네. 기껏해야 한 페이지 정도 설명해 놓은 게 다가 되었지. 책들이 점점 더 단순하고 말초적으로 일회용 비슷하게 전락하기 시작했네. 책들이 점점 얇아지기 시작했지. 내용들도 죄다 말장난 비슷하게 가볍고 손쉬운 것들로 변해 갔지.”&lt;br&gt;&lt;br&gt;눈여겨볼 점은 처음에 책을 태우기 시작한 것은 정부가 아니라 책 읽기 싫어하는 보통 사람들이었다는 겁니다. 어렵거나 깊이 생각해야 하는 책은 멀리하고, 쉽고 재미있는 책만 읽다 보니 그렇게 됐던 것입니다. 쉬운 책만 읽으면 깊이 생각하는 힘을 기르기 어렵죠.&lt;br&gt;&lt;br&gt;책이 금지되기 전 시대를 기억하는 파버 교수가 몬태그에게 말합니다. “책에는 아주 작은 숨구멍들이 셀 수 없이 많이 붙어 있소. 책들은 있는 그대로의 삶의 모습, 숨구멍을 통해서 생생하게 보이는 삶의 이야기들을 전해준다오.” 위험을 무릅쓰고 책을 훔치고 책의 가치를 깨달은 몬태그는 어떻게 행동할까요? 책 지키는 일에 앞장서 나설까요? 줄거리를 다 얘기하면 곤란하니까, 소설의 결말이 절망적이라는 것만 말하겠습니다.&lt;br&gt;&lt;br&gt;작가의 상상력이 만들어낸 사회가 현실이 돼가고 있습니다. 책을 빼앗지 않아도 사람들 스스로 책과 멀어지고 있으니까요. 부록으로 실린 인터뷰에서 작가는 지진 뒤 온전히 남은 건물이 두 채뿐이라면, 하나는 병원으로 다른 하나는 도서관으로 써야 한다고 말합니다. “독서가 우리네 삶의 중심이에요. 도서관은 바로 우리의 두뇌죠. 도서관이 없다면 문명도 없습니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 교정에 많던 추억의 나무… 공해에는 강하지만 강풍에는 약하대요</title>
-      <link>https://www.chosun.com/national/nie/2026/01/19/ILLD5IMPHBA2PMVL6F7A6KOLNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/19/ILLD5IMPHBA2PMVL6F7A6KOLNM/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:38:00 +0000</pubDate>
-      <content:encoded>초등학교 시절 교정에 커다란 히말라야시다(개잎갈나무)가 있었습니다. 그 나무는 큰 그늘을 만들어 여름이면 그 아래에서 작은 나무 의자에 앉아 수업하곤 했죠. 멀리서도 보이는, 어린 눈으로 보기에 엄청 큰 나무였기에 초등학교를 추억할 때 늘 함께 떠오릅니다. 그래서 히말라야시다를 보면 고향 친구를 만난 듯 반가운 마음이 들지요.&lt;br&gt;&lt;br&gt;성석제의 단편 ‘내가 그린 히말라야시다 그림’은 이 히말라야시다가 선명한 이미지로 남는 소설입니다. 소설 속 ‘나’는 우리나라에서 가장 유명한 화가입니다. 아무도 내 재능을 의심하지 않지만 ‘나’는 의심하고 있습니다. 초등학교 4학년 때 학교 대표로 군 사생 대회에서 히말라야시다가 있는 풍경을 그려 장원을 했지만 사실은 내 그림이 아니었기 때문이죠. 내 앞에서 그린 여자아이가 그린 그림이었습니다. 그 여자아이가 착각해 내 번호를 잘못 쓴 것이었어요. 내 크레파스에는 진작에 떨어지고 없는 회색이 히말라야시다 가지 끝 앞부분에 살짝 칠해져 있었기 때문에 확실히 알 수 있었습니다. ‘나’는 내 재능에 대한 의심 때문에 어떤 작품이라도 내가 가진 능력 전부를, 그 이상을 쏟아부으며 살아야 했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L33NOJN2ORG3PE3O4RNN7A2BMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;히말라야시다는 우리나라에 1930년대 처음 들여온 나무로, 생장 속도가 빠르고 수형이 아름다워서 학교나 공원에 많이 심었습니다. 게다가 공해에도 강해서 도심에 많이 심었죠. 지금도 대구 동대구로 히말라야시다 가로수길이 유명한데, 주로 1970년대 심은 나무들입니다.&lt;br&gt;&lt;br&gt;그런데 히말라야시다는 우리나라에서 자랄 때 뿌리가 약해서 강풍이 불면 잘 쓰러지는 약점이 있는 것으로 드러났어요. 이 때문에 많이 베어 냈지만 아직도 곳곳에 남아 있습니다. 요즘 서울 광화문에서도 건물 구석 같은 곳에서 히말라야시다가 자라는 것을 볼 수 있습니다.&lt;br&gt;&lt;br&gt;히말라야시다는 히말라야 지역에서 자라는 시다(Cedar)라는 뜻입니다. 시다는 우리말로 잎갈나무인데, 가을에 잎갈이를 하는 나무, 그러니까 낙엽이 지는 나무라는 뜻이에요. 히말라야시다의 정식 이름은 ‘개잎갈나무’인데요. 잎갈나무와 나무 생김새가 비슷하지만 좀 다른 나무라는 뜻입니다. 잎갈나무는 가을에 낙엽이 지지만, 개잎갈나무는 상록수라는 차이가 있습니다. 잎갈나무는 백두산에 울창한 원시림을 이룬 토종 한반도 나무로, 남한에선 광릉숲과 오대산, 가리왕산 등에서 극소수만 자생하고 있습니다.&lt;br&gt;&lt;br&gt;개잎갈나무를 다루면서 일본잎갈나무에 대한 설명을 하지 않을 수 없겠네요. 일본잎갈나무는 흔히 낙엽송이라고 부르는 나무입니다. 추운 지방에서 자라는 잎갈나무와 달리 일본잎갈나무는 중부 이남에서 잘 자랍니다. 그런데 이 나무는 일본잎갈나무라는 이름 때문에 대량 벌목 등 수난을 당하고 있어요. 편백이나 화백, 삼나무 같은 다른 일본 원산 나무들은 별다른 시비가 없는데, 왜 유독 이 나무만 일본 나무라며 베어내자고 하는지 모르겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 철창(鐵窓)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/01/19/GZZF3J7QU5A63BYB4P3ZOOGJUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/01/19/GZZF3J7QU5A63BYB4P3ZOOGJUU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57U2BIYXUFGDZKOJNJYFBOBNKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 월요병</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/01/19/VA5ECT622VA5NGKTDLCZDFCU3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/01/19/VA5ECT622VA5NGKTDLCZDFCU3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7YWPACSEBET3GTVL2PYVHRXJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] a drama queen</title>
-      <link>https://www.chosun.com/national/nie/english/2026/01/19/H6MSFLV7PVAUPF3DAVJJIRIKSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/01/19/H6MSFLV7PVAUPF3DAVJJIRIKSI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXVX2G576JEY7F7VXVLFG6XYJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2789] 알록달록 단어 팔레트</title>
-      <link>https://www.chosun.com/national/nie/2026/01/19/2A5CI6LDYFHATP5JFOIUTMUVO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/19/2A5CI6LDYFHATP5JFOIUTMUVO4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4J5JBPTCU5E6FHDYIVVISK4M3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[기자의 시각] 이런 경찰을 국민이 어떻게 믿나</title>
