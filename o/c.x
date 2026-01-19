@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, 21일 한덕수 내란 사건 1심 선고도 생중계 허가</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/19/N5IND3TTDZHXRO6SQLGKMWRAWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/N5IND3TTDZHXRO6SQLGKMWRAWU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 10:40:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDCOLCGE2DQZRXMNSGCNZSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리의 내란 사건 1심 선고 장면이 TV로 생중계된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 한 전 총리의 내란 우두머리 방조 사건 선고 공판에 대한 방송사의 중계방송 신청을 허가했다고 19일 밝혔다. 생중계는 법원 자체 장비로 촬영한 영상을 방송사에 실시간 송출하는 방식으로 이뤄진다. 한 전 총리 1심 선고는 21일 오후 2시 서울중앙지법 417호 대법정에서 열린다.&lt;br&gt;&lt;br&gt;1·2심 재판이 생중계되는 것은 이번이 다섯 번째다. 2018년 4월 박근혜 전 대통령의 국정농단 혐의 사건, 7월 박 전 대통령의 국가정보원 특수활동비 수수 사건, 10월 이명박 전 대통령의 뇌물 사건 1심 선고에 대해 생중계가 이뤄졌다. &lt;br&gt;&lt;br&gt;앞서 지난 16일 윤석열 전 대통령의 ‘체포 방해’ 사건 재판 1심 선고 공판도 실시간으로 중계됐다. 전직 대통령이 아닌 피고인에 대한 하급심 재판 생중계는 이번이 처음이다. &lt;br&gt;&lt;br&gt;한 전 총리는 대통령의 자의적 권한 행사를 견제할 수 있는 대통령 보좌기관의 의무를 다하지 않고 비상계엄 선포를 방조한 혐의로 내란 특검에ㅜ기소됐다. 특히 비상계엄에 절차적 정당성을 부여하기 위해 윤 전 대통령에게 국무회의 소집을 건의하고 의사정족수를 채우기 위해 국무위원 출석을 독촉하는 등 ‘국무회의 외관’을 만드는 데 기여했다는 것이 핵심 혐의다. &lt;br&gt;&lt;br&gt;특검은 또 한 전 총리가 비상계엄 선포 후에는 국무위원들에게 비상계엄 선포문에 서명하라고 설득하고, 이상민 전 행정안전부 장관과 언론사 단전·단수 조치 이행 방안을 협의하는 등 단계적으로 비상계엄 실행을 보좌했다고 보고 있다. &lt;br&gt;&lt;br&gt;한 전 총리는 계엄 이후 강의구 전 대통령실 부속실장이 비상계엄의 절차적 하자를 은폐하기 위해 허위로 작성한 사후 계엄 선포문에 서명한 혐의, 이후 강 전 실장에게 해당 문건을 폐기하라고 요청한 혐의 등도 받고 있다. 작년 2월 헌법재판소의 윤 전 대통령 탄핵 심판에 나와 ‘계엄 선포문을 받거나 보지 못했다’는 취지로 위증한 혐의도 적용됐다.&lt;br&gt;&lt;br&gt;특검은 한 전 총리를 애초 ‘내란 우두머리 방조’ 혐의로 기소했다가 재판부 요청에 따라 ‘내란 중요 임무 종사’ 혐의를 공소장에 추가했고, 작년 11월 결심 공판에서 한 전 총리에게 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노동부 “현대제철, 하청 노동자 1213명 직접 고용”지시</title>
+      <link>https://www.chosun.com/national/labor/2026/01/19/GFVVJV63WVHKBKGXXBTXI6ZRJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/01/19/GFVVJV63WVHKBKGXXBTXI6ZRJY/</guid>
+      <dc:creator>김아사 기자, 이정구 기자, 윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 10:57:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3B73FVNXBF63F4YO5XDXUAT2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2021년 민주노총 금속노조 현대제철 비정규직지회 소속 조합원들이 현대제철 당진제철소 통제센터를 불법 점거하는 모습./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부 천안지청은 19일 현대제철 당진공장에서 일하는 사내 하청업체 노동자 1213명을 현대제철이 직접 고용하라는 시정 지시를 내렸다. 하청 노동자들의 실질적 사용자를 원청 업체인 현대제철로 보고, 사내하청 구조를 ‘불법 파견’으로 판단한 것이다. 현대제철은 25일 내 해당 노동자들을 직접 고용해야 한다. 이를 이행하지 않을 경우 1인당 3000만원 이하의 과태료가 부과된다. &lt;br&gt;&lt;br&gt;노동부가 1000명 이상 대규모 직접 고용 지시를 내린 건 3668명을 직접 고용하라고 한 현대차 사건(2020년 12월) 이후 5년여 만이다. 산업계에선 문재인 정부 출범 초기인 2017년 파리바게뜨 전국 가맹점에서 일하는 제빵 기사 5378명을 직고용하라는 노동부 명령 이후 5년 내내 논란이 이어졌는데, 또다시 비슷한 상황이 전개될 것이란 우려가 나온다. 특히 이번엔 노란봉투법 시행과 맞물리며 대기업의 사내하청 구조 재편이 불가피할 것이란 전망도 제기된다.&lt;br&gt;&lt;br&gt;현대제철 불법 파견 의혹 사건의 시작은 지난 2018년이다. 그해 11월 하청 노조 측은 자신들의 진짜 사장이 하청 업체가 아닌 원청인 현대제철이라며, 노동부에 불법 파견 혐의를 조사해달라는 진정을 냈다. 대규모 근로 감독을 벌인 노동부는 2021년 2월 현대제철에 749명을 직접 고용하라는 시정 지시를 내렸다. 이에 현대제철은 모든 사내 하청업체를 통폐합해 ‘현대 ITC’라는 자회사를 세우고, 하청 노동자 4500명가량을 이 회사 정직원으로 전환했다. &lt;br&gt;&lt;br&gt;그러나 문제는 끝나지 않았다. 노조는 자회사 고용이 원청의 고용 책임 회피 꼼수라며 비판했고, 52일간 당진공장 통제센터를 점거하고 농성을 벌였다. 그 과정에서 노동부에 불법 파견 문제를 다시 살펴달라고 고발을 넣었는데, 이번 시정 지시는 이 고발에 따른 것이다. 노동부는 이후 전담 TF(태스크포스)를 꾸려 사건을 조사해 2024년 6월 1213명 불법 파견 혐의로 사건을 검찰에 송치했다. 검찰은 이재명 정부가 출범한 후 지난달 이를 기소했다.&lt;br&gt;&lt;br&gt;현대제철은 당혹스러운 분위기다. 사내 하청이 불법 파견에 해당하는지에 대해 법원 판단을 받고 있는 상황에서 이같은 정부 지시가 나왔기 때문이다. 법원은 지난 2022년 당진공장 하청 노조가 제기한 민사 소송에서 923명 전원에 대해 불법 파견을 인정했지만, 지난해 11월 2심 항소심에서는 324명에 대해선 불법 파견이 아니라고 했다. 재계 관계자는 “법원 판단이 엇갈리고 있는 사안에 대해 무조건 시정 지시를 해서 과태료 압박을 하는 것 자체가 기업 부담을 키우는 조치”라면서 “이런 일들이 결국 장기적으로는 기업의 국내 고용을 위축시킨다”고 했다. 현대제철 입장에선 시정 지시를 따르자니 인건비가 대폭 늘어나게 되고, 시정 지시를 따르지 않으면 수백억 원의 과태료를 내야한다. 과태료를 내지 않으려면 고용부 조치에 대해 집행정지 신청 등 별도의 행정소송을 제기해 법정 다툼을 또 벌여야 한다. &lt;br&gt;&lt;br&gt;이번 정부 지시가 대기업이 채택해 온 사내 하청을 통한 외주 전략을 막아선 행위라는 비판도 제기된다. 외주를 주는 건 비용 절감뿐 아니라 전문성 강화 등 여러 경영상 목적이 있는데, 이 자체를 무력화하는 시도란 것이다. 한 철강업계 관계자는 “중국산 저가 철강발(發) 공급 과잉, 연간 1조원 수준 전기료 부담, 대미 수출 관세 인상까지 삼중고를 겪고 있는 상황에서 비용 부담이 더 커지게 됐다”고 했다.&lt;br&gt;&lt;br&gt;시정 명령의 여파가 사내 하청을 가진 다른 제조 대기업으로 확대될 가능성도 있다. 특히 사내 하청 비율이 60%가 넘는 조선업이나 철강, 건설업 등에서 현대제철과 비슷한 불법 파견 논란이 반복될 수 있다는 전망이 나온다. 이 경우 기업들이 고용 형태 자체를 재편하는 압박에 직면해, 인건비와 법률 비용이 증가할 수밖에 없다는 게 전문가들의 공통된 견해다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울중앙지법 ‘내란전담재판부’ 구성 기준 다음 달에 정한다</title>
       <link>https://www.chosun.com/national/court_law/2026/01/19/2HZTH5QAEBDPHKJNXGDWVDR2GE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/2HZTH5QAEBDPHKJNXGDWVDR2GE/</guid>
@@ -477,15 +495,6 @@
       <content:encoded>윤석열 전 대통령의 고위공직자범죄수사처 체포 방해 지시 등 혐의 재판의 1심 선고가 16일 나오자, 내란 특검이 판결문을 분석해 항소 여부를 결정할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYGKMBQMUZGCZJWHEYTANZUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 16일 오후 서울 서초구 중앙지방법원에서 체포 방해와 국무위원 심의권 침해 등 혐의 1심 징역 5년을 선고받은 뒤 퇴장하고 있다./중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 내란 특검은 공지를 내고 “판결문 분석을 통해 법원의 양형 및 일부 무죄 사유를 정밀하게 검토할 예정”이라고 했다. 서울중앙지법 형사35부(재판장 백대현)는 이날 특수공무집행방해 등 혐의로 기소된 윤 전 대통령에게 징역 5년을 선고했다. 당초 특검은 윤 전 대통령에게 도합 징역 10년을 구형했지만, 실제 형량은 절반에 그쳤다.&lt;br&gt;&lt;br&gt;재판부는 대부분의 혐의를 유죄라고 판단했지만, 일부 혐의는 무죄를 선고했다. 예를 들어 재판부는 비상계엄 해제 후 작성된 사후 계엄 선포문은 허위공문서로 봤지만, 이를 대통령비서실 부속실에 보관한 혐의(허위작성공문서행사)에 대해선 무죄로 판단했다.&lt;br&gt;&lt;br&gt;또 비상계엄 해제 후 대통령실 외신 대변인 등에게 “비상계엄은 정당했다”는 내용이 담긴 입장문을 배포하게 한 혐의(직권남용) 역시 “대통령실 비서관에게는 대통령이 전달을 요청한 입장의 내용에 대해 사실관계 여부를 가리거나, 사실관계와 일치하지 않는 내용이 있는지까지 판단할 의무나 권한이 있다고 보기 어렵다”며 무죄로 봤다.&lt;br&gt;&lt;br&gt;한편 이날 선고가 나오자 윤 전 대통령 측은 즉각 항소하겠다는 입장을 밝혔다. 윤 전 대통령 측은 이날 선고가 끝난 후 취재진과 만나 “이번 판결은 대통령의 헌법상 권한 행사와 형사 책임의 경계를 지나치게 단순화한 결정”이라며 “유죄 판결 논리가 그대로 유지된다면 향후 어떤 대통령도 위기 상황에서 결단을 내릴 수 없게 된다”고 했다. 윤 전 대통령 측은 다음 주 중에 항소장을 제출할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>미성년자에 전동바이크 빌려줘 사고 유발…업체 대표 3명 기소</title>
-      <link>https://www.chosun.com/national/regional/2026/01/16/OMNJR465GFASXBVUGL5DE5FX2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/16/OMNJR465GFASXBVUGL5DE5FX2U/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 09:22:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKE24FZJBF2MH6W755CW7B26NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 서부지청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;면허가 없는 미성년자에게 안전 교육과 면허 확인 없이 전동 바이크를 빌려줘 교통사고를 일으킨 혐의(업무상 과실치상)로 개인형 이동 수단(PM) 대여 업자들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 서부지청 형사1부(부장 김상문)는 이 같은 혐의로 대구 지역 PM 대여 업자 A씨 등 3명을 불구속 기소했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 낙동강변 유원지인 대구 달성군 강정보 일대에서 PM 대여 업체를 운영 중인 A씨는 2020년 10월 면허 확인과 안전 교육 등의 아무런 조치 없이 10대 청소년 B군에게 전동 바이크를 대여했고, 이를 타고 가던 B군이 교통사고를 일으켰다. 이 사고로 6살 여자 아이가 전치 6주에 달하는 부상(두개골 골절)을 입었다. A씨는 지난해 5월까지 이런 방식으로 미성년자에게 PM을 대여해 총 4건의 교통사고를 일으켜 사람을 다치게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;같은 지역에서 활동 중인 또 다른 대여업자인 C씨와 D씨도 같은 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이 기간 피고인 3명이 운영하는 PM 대여 업체에서 면허 없이 PM을 빌려 타다가 교통사고를 낸 10대 미성년자는 모두 7명이었으며, 이들 대부분은 수사받은 뒤 소년보호사건으로 송치됐다.&lt;br&gt;&lt;br&gt;낙동강변 유원지인 강정보(대구 달성군) 일대는 10여 곳의 PM 대여 업체가 성업 중이고, 이 중 일부는 무면허 운전 방조죄로 다수 처벌받았음에도 가벼운 처벌로 인해 무면허 미성년자에게 PM 대여를 계속해왔다. 이런 탓에 강정보는 서울 제외 지역 중 전국 최고 PM 사고율을 기록하고 있는 상황이었다고 검찰은 전했다. &lt;br&gt;&lt;br&gt;서부지검 관계자는 “적절한 규제 미비로 교통사고가 빈발해 무면허 운전 방조죄(법정 최고형 벌금 15만원)로 처벌하는 것만으로는 불법적 PM 대여 행위를 방지할 수 없어 사고 발생의 근본적 원인을 제공한 대여업자들에게 교통사고 책임을 물어 기소했다”며 “국민 안전을 위협하는 PM 무면허 운전 및 관련 교통사고 사건에 대해 엄정 대응할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘검정고무신’ 성우 선은혜, 40세로 별세…동료들 추모 물결</title>
       <link>https://www.chosun.com/national/people/2026/01/19/HKC3HXITJNHFJDGR7DI2MCBAL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/19/HKC3HXITJNHFJDGR7DI2MCBAL4/</guid>
@@ -697,15 +706,6 @@
         <media:description type="plain">F3레이서 신우현(왼쪽)과 정윤이 해비치호텔앤드리조트 고문./MBC</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 무안 둔덕, ‘철거 불가능’ 업체 선정했다</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/18/U7YAC7HQH5CEXJUZAGYMG5AYNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/18/U7YAC7HQH5CEXJUZAGYMG5AYNA/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 06:13:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TC4YUENR3RCNVI7VXYTTWBPDVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;179명이 사망한 무안 제주항공 참사 1주기인 지난달 29일 전남 무안공항에서 유가족들이 사고기가 충돌한 둔덕 주변을 지나가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부가 지난 2020년 무안공항 콘크리트 둔덕의 개량 공사 관련 공고를 내면서 참가 업체를 ‘정보통신 업체’로 제한했던 것으로 확인됐다. 당시 이 공사에서 공항안전운영기준에 위배되는 둔덕을 제거하기 위해선 ‘도로·공항 분야의 엔지니어링 업체’를 필수로 포함했어야 했는데, 입찰 과정에서부터 배제한 것이다.&lt;br&gt;&lt;br&gt;18일 국회 국토교통위원회 소속 김은혜 국민의힘 의원에 따르면, 정부는 그해 3월 개량 공사 입찰공고문을 내면서 입찰 참가 자격 업체의 조건을 ‘기술사사무소-정보통신 또는 엔지니어링사업-정보통신’에 등록된 업체로 제한했다. &lt;br&gt;&lt;br&gt;무안 제주항공 참사 초기, 일각에선 2020년 개량 공사 당시 업체에 내려진 과업 내용서에 ‘계기착륙시설 설계 시 부러지기 쉬움 방안을 고려하여 설계하여야 한다’고 기재된 점을 들어 설계 업체 등의 책임론이 불거졌다. 정부가 제대로 된 가이드를 줬음에도, 업체가 제대로 된 설계와 공사를 하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;그러나 정부가 입찰 참가 자격 자체를 정보통신 업체로 제한한 탓에 로컬라이저(방위각 시설) 공사만 할 수 있었고, 콘크리트 둔덕 부분은 애초부터 시행할 수도 없었다는 게 전문가들의 공통된 견해다. 정부 역시 김은혜 의원실에 제출된 자료에서 “당시 둔덕의 철거는 고려하지 않았다”고 답했다.&lt;br&gt;&lt;br&gt;이는 업무상 과실차사 혐의에 해당할 가능성이 크다. 한국공항공사는 무안공항이 개항하기 직전인 지난 2007년 국토부에 “활주로 끝으로부터 300m 이내 지점에 콘크리트 둔덕이 존재해 설치 기준에 부적합하다”며 “둔덕 경사도 등을 감안할 때 ‘장애물’로 간주되니 설치 기준에 맞게 보완이 필요하다”고 건의했다. 당시 공사는 무안공항 건설이 끝난 후 현장 점검에서 둔덕 설치가 부적합하다고 보고 국토부에 개선이 필요하다고 의견을 낸 것이다. &lt;br&gt;&lt;br&gt;그러나 결과적으로 국토부는 이를 계속 방치했고, 2020년 개량 사업 때도 업체를 제한한 탓에 공사가 불가능 했던 것이다. 김은혜 의원은 “정부의 행태는 ‘둔덕만 없었으면 모두를 살릴 수 있었다’며 개량 공사에서 개선됐어야 한다고 스스로 말한 것과 배치된다”며 “정부가 책임을 시공사로 돌리기 위한 목적을 갖고 있지 않았는지, 진상 규명 의지가 있는지 심각한 의문이 제기된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“공천헌금, 나만 그런 게 아닌데”... ‘키맨’ 김경의 이유있는 항변 </title>
