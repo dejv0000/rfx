@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>불법 공천헌금 1억 의혹 강선우, 21시간 조사 마쳐</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/21/IF4K5XGGLBC3PMPZNJ6IRTDM6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/IF4K5XGGLBC3PMPZNJ6IRTDM6M/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 21:21:37 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDGNBQMU4GKNRQG5QTCYJTMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선우 의원이 21일 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 조사를 마치고 나왔다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 5시 53분쯤 강선우 의원이 21시간의 경찰 조사를 마쳤다. 강 의원은 “성실하게 사실대로 최선을 다해서 조사에 임했다, 이런 일로 국민들께 심려 끼쳐 죄송하다”며 “남아 있는 수사에도 지금처럼 최선을 다해서 성실하게 사실대로 임하겠다”고 했다. &lt;br&gt;&lt;br&gt;그러면서도 강 의원은 “1억원 옮길 때 직접 옮겼느냐” “지방선거 앞두고 김경 시의원 왜 만났느냐” 등의 취재진의 질문에 아무런 대답을 하지 않고 차에 올라탔다. &lt;br&gt;&lt;br&gt;강 의원은 2022년 지방선거를 앞두고 김경 서울시의원으로부터 1억원의 불법 공천 헌금을 수수한 혐의를 받는다. 강 의원은 그동안 공천 헌금이 오간 것은 김씨와 강 의원의 전 사무국장 남모씨 사이의 일이며, 자신은 사후 보고받고 즉시 반환을 지시했을 뿐이라고 주장해왔다. &lt;br&gt;&lt;br&gt;하지만 앞서 세 차례 조사를 받은 김씨와 남씨 모두 사건 당일 강 의원이 동석했다고 경찰에 진술한 것으로 알려지면서, 이날 경찰 조사에서 강 의원이 어떻게 진술했을지에 눈길이 쏠린다. 경찰은 강 의원이 금품을 받은 것을 안 시점과 대가성이 있는지 여부를 중점으로 추궁한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 정보사, 李정부서도 ‘北무인기’ 대학원생에 돈 댔다</title>
       <link>https://www.chosun.com/national/national_general/2026/01/21/6VTOTWAQDBALFOHCGLGZELTLOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/6VTOTWAQDBALFOHCGLGZELTLOU/</guid>
@@ -920,15 +929,6 @@
       <description/>
       <pubDate>Mon, 19 Jan 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAZN6EACGZF7HP3CSPB2DXHY5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선일보 박준모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국편집기자협회(회장 김형진)는 조선일보 박준모 기자의 ‘한국 육상 100m, 누가 좀 9해줘’(12월 20일 자 A21면) 등 5편을 이달의 편집상 수상작으로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] ‘서울베이비앰배서더’ 3기 가족 모집</title>
-      <link>https://www.chosun.com/national/people/2026/01/20/3TKDMPIW5FEJFPSE3X2GPYQQNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/20/3TKDMPIW5FEJFPSE3X2GPYQQNY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;서울시&lt;/b&gt;는 시의 임신·출산·육아 정책을 소개할 ‘서울베이비앰배서더’ 3기 가족을 이달 30일까지 모집한다고 19일 밝혔다. 신청 자격은 서울에 주민등록상 주소지를 둔 임신부 또는 만 0∼7세 영유아가 있는 가족이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [뉴스 고사성어] 두 손 묶인 채 체포된 베네수엘라 대통령… 나라 앞길은 안갯속갯속</title>
