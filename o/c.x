@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“세 딸이 불길에 갇혔어요!”…엄마가 아파트 외벽 타고 내려가 구조했다</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/20/UNCEZ57DJVGKDEWFM3IX2GF2QY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/UNCEZ57DJVGKDEWFM3IX2GF2QY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 12:59:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VU7YDLH2HZAJ5OUGY4AFT5OFO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광양소방서가 지난 19일 광양시 한 아파트에서 화재가 발생하자 사다리차를 동원해 인명을 구조하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트에 화재가 발생해 어린 딸들이 고립되자 외벽을 타고 내려가 자녀들을 구한 40대 어머니의 사연이 알려졌다.&lt;br&gt;&lt;br&gt;20일 전남 광양소방서에 따르면, 전날 오후 5시 23분쯤 광양시 한 아파트 5층 거실에서 불이 났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;화재 당시 집 안에는 5세 미만의 여아 3명이 있었다. 잠시 집 밖에 있다가 화재가 발생한 것을 인지한 어머니 A씨는 집안으로 진입하려 했으나 거실에서 발생한 불과 연기로 인해 진입에 실패했다. &lt;br&gt;&lt;br&gt;A씨는 곧바로 바로 윗집인 6층으로 올라간 뒤 베란다 창문을 통해 나와 외벽을 타고 자신의 집으로 들어가 아이들을 안방으로 대피시켰다.&lt;br&gt;&lt;br&gt;A씨와 자녀들은 신고를 받고 출동한 소방 당국의 도움으로 사다리차를 타고 무사히 탈출했다. 네 사람 모두 큰 부상은 입지 않은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소방 당국은 소방차와 사다리차 등 진화·구조 장비 10대, 인력 30명을 투입해 26분 만에 진화와 구조 작업을 완료했다.&lt;br&gt;&lt;br&gt;네 모녀는 현재 임시 숙소에 머물고 있으며, 광양시는 화재로 지낼 곳을 잃은 이들에 대한 지원 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>우연히 만난 고교 시절 첫사랑에게 2억원 뜯어낸 30대 남성</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/20/CK7XJLVKPNF6XD2M7FHX74S3ZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/CK7XJLVKPNF6XD2M7FHX74S3ZA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 11:56:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학교 시절 사귀었던 첫사랑 여성에게 접근해 8년간 2억원이 넘는 돈을 뜯어낸 30대 남성이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 부산지법 서부지원 형사2단독(백광균 부장판사)은 최근 사기 혐의로 재판을 받아온 30대 남성 A씨에게 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 고등학교 시절 교제했던 30대 여성 B씨에게 접근해 2015년부터 2023년까지 수술비, 병원비, 항공권 구매 등 명목으로 419차례에 걸쳐 2억5000여 만원을 편취한 혐의다.&lt;br&gt;&lt;br&gt;고등학교 시절에 사귀었던 사이인 두 사람은 헤어졌다가 2015년 우연히 다시 만나 인연이 이어진 것으로 알려졌다. &lt;br&gt;&lt;br&gt;여성 B씨는 A씨에게 줄 돈을 마련하려고 빚까지 내다가 결국 개인회생 절차까지 밟았다.&lt;br&gt;&lt;br&gt;재판부는 “과거 연인의 연민과 신뢰를 악용해 수억 원을 뜯어내고도 피해자에게 한 푼도 갚지 않아 죄질이 불량하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘부천 금은방 강도살인범’은 42세 김성호...경찰, 머그샷 공개</title>
       <link>https://www.chosun.com/national/national_general/2026/01/20/VV7IIE3VWRAFRJJHBTYLZTTLMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/VV7IIE3VWRAFRJJHBTYLZTTLMU/</guid>
@@ -910,15 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYTIMRTGYZTCMBSMM4DCMDEMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 김영환 충북지사가 도청 브리핑룸에서 기자회견을 열고 행정통합과 관련한 내용에 대해 기자회견을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영환 충북지사가 행정 통합 지방정부에 파격적 혜택을 주기로 한 정부 방침에 대해 “충북을 철저히 소외시키는 역차별”이라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;김 지사는 19일 도청 브리핑룸에서 기자회견을 열고 “대전·충남 통합과 관련한 정부 발표는 충북 도민을 역차별로 몰아넣는 조치”라며 “모든 가능성을 열어두고 소외를 극복하기 위해 도민과 함께 투쟁하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “국가 발전을 위해 행정 통합에는 찬성하고, 비용 보전과 인센티브 부여 필요성에도 공감한다”면서도 “특정 지역에 일방적 특혜를 주는 것은 부당하며, 다른 비수도권 지자체에도 형평에 맞게 적용돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “광역시가 없는 충북은 통합을 시도할 여건조차 없고, 강원·전북·제주처럼 특별자치도 지위도 없다”며 “공공기관 이전에서도 충북이 겪는 불평등이 더 심화될 것”이라고 우려했다. &lt;br&gt;&lt;br&gt;이어 “역차별과 소외를 해소하기 위해 모든 수단을 강구하겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 그는 ‘충북특별자치도 설치 특별법’ 제정과 ‘중부내륙 특별법 개정’을 동시에 추진하는 투 트랙 전략을 제시했다. 또 10대 규제 완화·특례 요구안을 정부에 전달하기로 했다.&lt;br&gt;&lt;br&gt;요구안에는 충북형 다목적 돔 구장 건립 지원, 카이스트·서울대 R&amp;amp;D 병원 예타 면제, 청주공항 민간 전용 활주로 건설, 청주공항~김천 철도 미싱 링크 국가 철도망 반영, 문화 시설 건립 지원, 청남대 수변 지역 규제 전면 완화, 환경영향평가·농업진흥구역 지정 권한 시도지사 이양, 수도법 제한 완화, 자연공원법 합리적 조정 등이 포함된다. &lt;br&gt;&lt;br&gt;김 지사는 “어떤 형태가 되든 행정 통합 특별법과 동시에 논의되고 함께 심사받을 수 있도록 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 정부는 행정 통합을 선택한 시·도에 연간 최대 5조원(4년간)을 지원하고, 이에 상응하는 자율성과 책임성을 부여하기 위해 행정 통합 교부세와 지원금을 신설하겠다고 밝혔다. 또 서울시에 준하는 위상과 지위를 부여하고, 공공기관 우선 이전, 행정 절차 간소화, 규제 우선 정비 등 각종 혜택을 주기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>20년 전 강간·살인하고 또 성범죄 저지른 30대, 징역 7년6개월</title>
-      <link>https://www.chosun.com/national/regional/2026/01/19/3IUEZYZQXFEJJNWJRPAJ25B5TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/19/3IUEZYZQXFEJJNWJRPAJ25B5TA/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 05:57:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFMERL2TVFH3ZOE3O53YGE6HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20년 전 초등학생을 성추행하고 살해해 15년을 복역한 뒤 또다시 성범죄를 저지른 30대 남성에게 징역 7년 6개월이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사11부(재판장 박우근)는 19일 강제추행 상해 등 혐의로 기소된 A(37)씨에게 징역 7년 6개월을 선고하고, 위치추적 전자장치 부착 10년을 명령했다. 또 A씨의 신상 정보를 10년간 공개하도록 하고, 아동·청소년·장애인 관련 기관 취업 제한 10년도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5∼7월 아르바이트를 하면서 알게 된 피해자를 여러 차례 성추행하고 폭행한 혐의로 재판에 넘겨졌다. 그는 “강간·살인으로 교도소에 15년 갔다 왔다”고 말하거나 전자발찌를 보여주면서 피해자를 위협한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 만 16세였던 2005년 충북 증평에서 같은 체육관을 다니던 초등학생(당시 10세)을 강제 추행하고, 피해자가 저항하자 때려 숨지게 해 징역 15년을 확정받아 복역했다.&lt;br&gt;&lt;br&gt;재판부는 “범행 수법이나 피해 정도 등에 비춰 죄질이 매우 좋지 않고, 강간 등 살인죄로 실형을 선고받은 전력이 있는데도 재범해 비난 가능성이 크다”며 “피해자는 이 사건으로 극도의 성적 수치심과 정신적 고통을 받아 엄한 처벌을 원하는데도 피고인은 피해 회복을 위한 아무런 노력도 하지 않았다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법 “나눔의집, 후원 목적과 다르게 사용한 후원금 돌려줘야” 확정</title>
       <link>https://www.chosun.com/national/court_law/2026/01/19/5ZHO54TG7RFGTJLBMAGFDGYQRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/5ZHO54TG7RFGTJLBMAGFDGYQRA/</guid>
@@ -926,15 +935,6 @@
       <description/>
       <pubDate>Mon, 19 Jan 2026 04:59:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTDENZSHE4DKN3EMVSTOYLBGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 광주시 퇴촌면 나눔의집에 설치된 위안부 피해자 할머니들의 흉상. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본군 위안부 피해자 지원 시설인 ‘나눔의집’이 후원자들에게 후원금을 돌려줘야 한다는 판단이 대법원에서 최종 확정됐다. &lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 대법원 3부(주심 이숙연 대법관)는 지난 15일 후원자 이모씨가 “155만원의 후원금을 돌려달라”며 나눔의집을 상대로 낸 소송 재상고심에서 나눔의집 측 상고를 심리불속행으로 기각했다. 이에 따라 나눔의집이 이씨에게 후원금 155만원과 지연손해금을 지급하라고 한 파기환송심 판결이 그대로 확정됐다.&lt;br&gt;&lt;br&gt;나눔의집은 위안부 피해자 쉼터로, 피해자 생활 지원과 역사관 운영 등을 명목으로 후원금을 받아왔다. 이씨는 2017년 8월부터 2020년 4월까지 2년 8개월 동안 매달 5만원씩 총 155만원을 위안부 피해자 생활 지원 명목으로 후원했다. 그런데 2020년 실제로는 나눔의집 후원금이 피해자 지원보다 법인 자산 축적 등에 사용됐다는 내부 폭로가 나오며 ‘후원금 유용 의혹’이 불거졌고, 이씨는 “후원 목적이 지켜지지 않았다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;1·2심은 “후원금이 후원 목적과 다르게 사용됐다고 보기 어렵다”며 원고 패소로 판결했다. 그러나 대법원은 지난 2024년 “후원자가 인식한 후원 목적과 실제 사용 내역 사이에 불일치가 존재한다”며 판단을 뒤집었다. 지난해 파기환송심은 대법원 취지에 따라 나눔의집의 반환 책임을 인정했고, 나눔의집이 재차 상고했으나 대법원이 이번에 이를 확정한 것이다.&lt;br&gt;&lt;br&gt;법조계에서는 이번 판결이 정의기억연대(정의연) 후원자들이 윤미향 전 의원을 상대로 제기한 후원금 반환 소송에도 기준이 될 수 있다는 평가가 나온다. 서울서부지법은 지난해 1월 정대협과 윤 전 의원 측에 후원금 반환을 권고하는 화해 권고 결정을 내렸으나, 윤 전 의원 측이 이의신청을 하면서 재판이 계속되고 있다. 윤 전 의원은 정대협 후원금을 횡령한 혐의로 기소돼 지난해 11월 대법원에서 징역 1년 6개월에 집행유예 3년이 확정됐고, 이후 광복절 특별사면을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김경 ‘가족 회사’ 서울시 사업 특혜 수주…서울시, 자체 감사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/19/KBGDJNZ7LNDL5FNJDURUPMWZVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/19/KBGDJNZ7LNDL5FNJDURUPMWZVU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 05:13:01 +0000</pubDate>
-      <content:encoded>김경 서울시의원의 가족들이 서울시 사업을 수주하는 과정에서 특혜를 받았다는 의혹이 나오자, 서울시가 자체 감사에 착수하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GKOLDMI2TCYRZGFSWMY3CGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김경 서울시의원이 지난 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 서울시에 따르면, 오세훈 서울시장은 이날 관련 언론 보도를 접하고 구체적인 내용 파악과 감사를 지시했다.&lt;br&gt;&lt;br&gt;본지는 이날 김 시의원이 시의회 상임위원회를 옮겨갈 때마다 김 시의원의 가족 회사가 해당 상임위 관련 서울시 사업을 수의 계약 등을 통해 잇따라 수주했다고 보도했다. 수의 계약은 2019년부터 지난해 6월까지 이뤄졌다.&lt;br&gt;&lt;br&gt;관련 사업을 수주한 김 시의원 가족 회사는 부동산 시행사와 시공사, 교육 컨설팅 법인 등 7곳으로 수주 금액은 수백억 원대다. 이에 ‘김 시의원 가족 회사가 사업을 수주하는 과정에서 김 시의원의 영향력이 작용한 것 아니냐’는 의혹도 나왔다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “자체 감사와 동시에 사법 기관 수사에도 적극 협조할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대통령 선거 앞두고 “김문수, 대통령 타입” 설교한 목사 벌금형</title>
