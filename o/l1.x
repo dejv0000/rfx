@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>보완 수사권·인력 구성 두고 "검찰 개혁" vs "기득권 유지"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215160.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;1월 20일 서울 여의도 국회에서 열린 더불어민주당 공소청법·중대범죄수사청법 공청회 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당이 정부가 발의한 공소청·중대범죄수사청(중수청) 설치 법안의 수정 가능성을 열어둔 가운데 20일 국회에서 공청회를 개최했다. 공청회에서 전문가들은 수사 인력 구성과 보완 수사권, 공소청 조직 체계를 두고 첨예하게 맞섰다. 정부안에 찬성하는 측은 수사·기소 분리 원칙을 훼손하지 않는 범위의 제도 설계라고 평가했지만, 반대 측은 검찰의 기존 권한과 조직을 우회적으로 유지하려는 시도라고 지적했다. 민주당은 22일 의원총회를 열고 추가 의견 수렴에 나설 예정이다.&lt;p&gt;   &lt;br /&gt;이날 공청회의 첫 번째 쟁점은 조직 구조였다. 정부안은 중수청 인력을 ‘사법수사관’과 ‘전문수사관’으로 나누고, 공소청을 기존 검찰처럼 ‘대-고등-지방’의 3단 구조로 설계했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;정부안에 찬성하는 최호진 단국대 교수는 사법수사관과 전문수사관에 대해 “상하 관계가 아니라 기능적 협력 관계로 설정해 놓았기 때문에 사법수사관이 검사처럼 전문수사관을 지휘할 수 있다는 것은 사실과 다르다”고 말했다. 반대 토론자로 나선 황문규 중부대 경찰행정학과 교수는 “표면적으로는 수사·기소 분리지만 기존 검찰 기득권을 변칙적으로 유지 강화하려는 시도”라고 꼬집었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;더 큰 쟁점은 ‘보완 수사권’이다. 공소청법안은 검사의 직무와 관련 ‘범죄 수사’를 삭제했지만, 제4조 8호에 ‘법령에 따른 검사 직무를 수행하기 위해 형사소송법 등에 규정된 사항’을 포함해 검사가 직접 수사권이나 보완 수사권을 행사할 수 있는 여지가 남아 있다는 해석이 나왔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;최 교수는 “공소권자로서 법적 공백을 막기 위한 최소한의 조항일 뿐, 새로운 수사권 창출은 불가능하다”고 주장했다. 반면 황 교수는 “검사의 보완 수사권은 그냥 수사권이고, 수사 인력을 두기 위한 것”이라고 맞섰다. 그는 “보완 수사권은 제 식구 감싸기와 전관예우 장치로도 작동할 텐데, 누가 (이를) 통제할 것인가”라고 반문했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;공소청의 조직 체계를 검찰청처럼 3단으로 설정할지도 쟁점으로 논의됐다. 최 교수는 “이견이 있는 것을 알지만, 고등검찰청이 담당하는 항고·재항고 등 기능을 담당할 기관이 필요한 것은 분명하다”고 했다. 황 교수는 “기존 검찰청에서 고검은 사실상 ‘놀고먹는 것이나 다름없다’는 지적이 있었다. 복잡한 3단 구조로 설치할 필요가 있느냐”고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;정청래 민주당 대표는 이날 공청회 시작 전 인사말에서 “민주당은 수사와 기소 분리라는 대원칙 아래 국민 눈높이에 맞는 검찰개혁안을 국민과 함께, 역사와 함께, 시대정신과 함께 이뤄가야 한다”고 밝혔다. 그는 “공소청과 중수청 신설도 민주주의 발전이라는 큰 물줄기 마련을 위해서 논의 시행돼야 할 것”이라고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;민주당은 26일 두 법안의 입법 예고 마감 시한에 앞서 22일 의원총회를 열고 소속 의원들의 의견을 청취할 방침이다.&lt;/p&gt;</description>
+			<pubDate>Tue, 20 Jan 2026 06:41:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215160</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215160</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215160.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>'바람픽쳐스 고가인수' 항소심서 공소장 변경 논의</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215156.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;드라마제작사 고가 인수 의혹을 받는 김성수 카카오엔터테인먼트 대표(왼쪽)와 이준호 투자전략부문장의 변호인이 2024년 2월 1일 오후 서울남부지법에서 열린 특정경제범죄가중처벌법상 배임, 범죄수익은닉규제법 위반 등 혐의에 대한 구속 전 피의자 심문(영장실질심사)를 받기 위해 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;카카오엔터테인먼트(이하 카카오엔터)의 바람픽쳐스 고가 인수 의혹을 다루는 항소심에서 검찰의 공소장 변경에 대한 논의가 진행됐다. &lt;br /&gt;&lt;br /&gt;서울고법 형사3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9082"&gt;이승한&amp;nbsp;&lt;/span&gt;부장판사)는 1월 20일 카카오엔터의 김성수 전 대표와 이준호 전 투자전략부문장 관련 공판을 열었다. &lt;br /&gt;&lt;br /&gt;앞서 검찰은 공소장을 일부 변경했다. 이 전 부문장이 김 전 대표에게 바람픽쳐스 인수를 부탁할 때 일반인(비신분범)으로서 청탁한 점을 고려해 공소장을 바꾼 것이다. 항소심은 이 전 부문장의 이중적 지위를 공소장에 반영하라고 검찰에 재주문했다. 이 전 부문장이 배임죄에선 카카오엔터 임원(신분범), 배임증재죄를 따질 땐 비신분범이라는 취지다. &lt;br /&gt;&lt;br /&gt;피고인 측 변호인은 "항소심이 검찰에 공소장 변경 방향을 구체적으로 지시하는 건 이례적"이라고 반발했다. 하지만 항소심은 입장을 바꾸지 않았다. 다음 공판은 3월 3일 속행된다.&lt;br /&gt;&lt;br /&gt;검찰은 2024년 8월 김 전 대표와 이 전 부문장을 재판에 넘겼다. 검찰에 따르면 두 사람은 2020년 카카오엔터가 바람픽쳐스를 고가 인수하도록 공모해 회사에 319억 원의 손해를 끼쳤다. 김 전 대표는 이 전 부문장에게서 바람픽쳐스 인수 청탁을 받고 12억5000만여 원을 수수하기도 했다. &lt;br /&gt;&lt;br /&gt;1심은 2025년 9월 김 전 대표에게 무죄를 선고했다. 검찰이 카카오엔터의 재산상 손해를 합리적 의심의 여지 없이 증명하지 못했다는 이유에서다. 이 전 부문장은 바람픽쳐스 회삿돈 10억5000만 원을 개인 용도로 사용한 혐의가 인정돼 징역 2년에 집행유예 3년 판결을 받았다.</description>
+			<pubDate>Tue, 20 Jan 2026 06:40:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215156</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215156</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215156.jpg</media:thumbnail>
+			<dc:creator>신나영 기자</dc:creator>
+		</item>
+		<item>
 			<title>윤태영 아주대 교수 한국경찰법학회장 취임</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215146.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤태영 아주대 로스쿨 교수&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;윤태영 아주대 로스쿨 교수가 1월 16일 아주대에서 개최된 한국경찰법학회 총회에서 신임 회장으로 선임됐다. 임기는 1년이다. &lt;br /&gt;&lt;br /&gt;윤 회장은 중앙대 법대를 졸업하고 같은 대학원에서 민사법 전공으로 법학석사와 법학박사 학위를 받았다. 2006년 한림대, 2007년부터 아주대 교수로 재직하며 후학을 양성하고 있다. 현재 한국법학교수회 부회장으로 활동하고 있다.&lt;br /&gt;&lt;br /&gt;한국경찰법학회는 2002년에 설립됐다. 형사법, 행정법, 법일반, 경찰실무 분야 전문연구자들이 모여 경찰과 질서, 안전 관련 법제, 형사사법체계, 경찰과 관련된 사법 분야 등을 포괄하는 넓은 의미의 경찰법을 학제간 연구로서 활발히 해 왔다. 조국 전 장관도 학회장을 역임한 바 있다.&lt;br /&gt;&lt;br /&gt;윤 회장은 "민사법 전공으로서 검찰·사법제도 개편 논의가 활발한 시기에 학회장을 맡아 부담감이 크다"며 "역대 회장들이 쌓아온 성과를 이어가면서, 올해 새롭게 경찰관직무집행법 주석서 발간 사업을 추진할뿐만 아니라 고령자, 장애인, 외국인 근로자 등 사회적 약자들에 대한 경찰법제의 연구에 특히 관심을 쏟겠다"라고 밝혔다.</description>
 			<pubDate>Tue, 20 Jan 2026 02:18:13 -0000</pubDate>
@@ -212,25 +232,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/215074</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215074</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2026년 1월 17일</title>
-			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 손솔 의원실, 차별금지법 제정을 위한 손솔의 작전회의(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Fri, 16 Jan 2026 22:30:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215079</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215079</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[그림 소풍] 내 집 앞뜰엔</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/215004.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;조수정&lt;/b&gt;&amp;nbsp; 내 집 앞뜰엔&lt;span style="font-size: 14px;"&gt;&amp;nbsp; 72.7X90.91cm 황마에 백토와 혼합재료 2025&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;살아가노라면 나도 모르게 삶의 무게에 눌려 마음이 가라앉고는 한다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;일상을 반복하는 우리 삶은 때로는 지루하게 느껴질 때도 있다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;그러나 가끔은 숨겨져 있던 신비한 의미와 현상들이&lt;/p&gt;&lt;p style="text-align: left;"&gt;슬그머니 끼어들어 예기치 않게 삶을 환하게 비추어 준다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;바람과 숲과 음악과 여행과 햇빛과 아이들의 꺄르륵 거리는 웃음 소리들이&lt;/p&gt;&lt;p style="text-align: left;"&gt;독특한 질감을 가진 백토와 황마 위로 쏟아진다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;그 위에 질감을 더하는 혼합재료들을 얹어 말리고 긁어내고 누르고 다시 칠하고 또 사포로 갈아낸다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;작업이 진행되며 화면에는 따뜻한 집이나 꽃을 비롯한 갖가지 문양이 환하게 피어난다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;나에게 작업은 위로이며 카타르시스이고, 대화를 나누는 친구이고,&lt;/p&gt;&lt;p style="text-align: left;"&gt;나를 찾아가는 길이고, 마음에 기쁨을 채워주는 충전기이며인생이기도 하다.&lt;/p&gt;</description>
-			<pubDate>Fri, 16 Jan 2026 20:08:52 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215004</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215004</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215004.jpg</media:thumbnail>
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
