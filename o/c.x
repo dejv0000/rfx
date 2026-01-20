@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“40년 넘게 불우 이웃 밥 챙기던 엄마”… 3명 살리고 하늘로</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/20/DK7T4ZD24ZEL5JUTQUOLJ4N7HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/DK7T4ZD24ZEL5JUTQUOLJ4N7HY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 05:20:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHHIAWXPFBAEDCLDDROG2UVXTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새 생명을 선물하고 떠난 이화영씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수십 년간 봉사 활동으로 이웃 사랑을 실천하던 70대 여성이 이름 모를 3명의 생명을 살리고 하늘의 별이 됐다.&lt;br&gt;&lt;br&gt;20일 한국장기조직기증원에 따르면, 이화영(73)씨는 지난달 5일 간장과 좌우 신장을 기증하고 세상을 떠났다. 앞서 이씨는 자택에서 호흡 곤란 증상을 느끼고 쓰러져 병원으로 긴급 이송됐다. 이후 의료진의 적극적인 치료가 있었으나 끝내 의식을 회복하지 못하고 뇌사에 빠졌다.&lt;br&gt;&lt;br&gt;이씨는 2019년 이미 장기 기증 희망 등록을 신청해 둔 상태였다. 가족들은 생전 고인의 희망에 따라 기증을 결심했다고 한다. 이씨의 마지막 모습이 다른 생명을 살리는 아름다운 추억으로 기억되길 바라는 마음에서였다.&lt;br&gt;&lt;br&gt;경북 포항에서 6남매 중 둘째로 태어난 이씨는 꼼꼼하고 다정한 성격으로 남에게 베푸는 걸 좋아했다. 숙명여대 교육학과를 졸업한 후 대한항공 승무원으로 일했고, 은퇴 후엔 고향에서 꽃집을 운영했다. 책 읽기와 여행 다니기도 좋아했다.&lt;br&gt;&lt;br&gt;이씨는 주말이면 교회에 나갔고 40년 넘게 봉사 활동을 다녔다. 식사를 꼬박꼬박 챙기지 못하는 불우한 노인들에게도 음식을 만들어 줬다. 늘 주변의 어려운 이웃을 먼저 찾아가 도움을 나누는 따뜻한 사람이었다고 가족들은 추억했다.&lt;br&gt;&lt;br&gt;이씨의 아들 김대현씨는 “엄마, 남에게 베풀기 좋아하던 그 모습 그대로 마지막 순간까지 모든 걸 주고 떠나네”라며 “하늘나라에서는 마음 편히 잘 지내. 그리고 우리 항상 내려봐 줘. 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;이삼열 한국장기조직기증원 원장은 “생명 나눔을 실천해 주신 기증자님과 유가족들의 따뜻한 사랑의 마음에 감사드린다”며 “누군가의 생명을 살리는 기적 같은 일이 우리 사회를 더 건강하고 밝게 밝히는 힘이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“호텔에 2주 머물면 300만원” 제안에 속아… 국정원, 캄보디아 스캠 사례 공개</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/20/OXABOCBP2FC6JHJLWGAOAS5EQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/OXABOCBP2FC6JHJLWGAOAS5EQE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 05:19:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X7OIJBLCZNZLL5GLCVZNRI7BM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 범죄단지서 검거된 한국인 피싱범들. /경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가정보원은 캄보디아 스캠 조직의 잇단 검거에도 청년 피해가 여전히 이어지고 있다며 관련 사례를 공개하고 각별한 주의를 요구했다.&lt;br&gt;&lt;br&gt;20일 국정원에 따르면, 최근 ‘아들이 범죄 조직에 감금됐다’는 어머니의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;아들 A(25)씨는 텔레그램으로 알게 된 정체불명 인물로부터 “베트남에 있는 호텔에 2주 정도만 있으면 현금으로 2,000달러(약 300만원)를 주겠다”는 제안을 받고 호찌민으로 떠났다.&lt;br&gt;&lt;br&gt;하지만 이는 A씨를 유인하기 위한 허위 취업 광고였고, A씨는 베트남에 도착하자마자 범죄 조직에 여권과 휴대전화를 빼앗긴 뒤 여러 조직에 팔려 다니며 베트남과 캄보디아를 전전하는 신세가 됐다. 호찌민에서 캄보디아 포이펫으로 넘겨진 뒤 프놈펜을 거쳐 다시 베트남 목바이로 보내졌다가, 최종적으로 캄보디아 몬돌끼리주(州)의 스캠 단지에 감금됐다.&lt;br&gt;&lt;br&gt;A씨는 “불법 월경 사실이 알려지면 현지 경찰에 체포된다”는 범죄 조직원의 협박에 위축돼 감금 생활을 이어갔다. 심지어 몬돌끼리 스캠 단지는 주거·상업 지역이 없는 베트남 국경 밀림 지대로, 타인의 도움 없이는 탈출도 불가능했다.&lt;br&gt;&lt;br&gt;감금 생활 기간 조직은 A씨에게 “6개월간 일을 잘하면 집에 보내 주겠다”며 범죄에 가담하도록 강요했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCXUYHLKUFBAZO623DOYFN3S2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;감금 당시 A씨와 모친의 통화 내용. /국가정보원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJ6MPFM3KROLVAPTQFTZPHGEHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가정보원이 공개한 캄보디아 몬돌끼리주의 스캠단지 모습. /국가정보원 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국정원과 경찰은 A씨 모친의 신고 전화를 토대로 위치 추적 등을 통해 A씨를 구출하고 총 26명의 한국인 조직원을 검거했다.&lt;br&gt;&lt;br&gt;A씨는 감금 당시 한 한국인이 실적이 저조하다는 이유로 고문을 당하기도 했다고 진술했다. 그는 “스캠 단지에 있던 한국인 중 1명이 실적이 저조하다는 이유로 전기충격기와 몽둥이로 맞는 것을 목격하고 심리적 압박이 심했다”고 했다.&lt;br&gt;&lt;br&gt;정부는 작년 11월 캄보디아 경찰과 한-캄 코리아 전담반을 설치하고 현지 스캠 단지를 집중 단속해 현재까지 한국인 3명을 구출하고 스캠 가담자 157명을 검거했다. 국정원은 “동남아 취업 사기와 감금·폭행·고문 범죄 피해가 무수히 알려졌지만, 일부 청년들이 고수익 제의에 현혹돼 동남아로 출국하는 사례가 이어지고 있다”며 “앞으로도 ‘초국가범죄 특별대응TF’와 협력해 동남아 스캠 범죄 예방과 피해자 보호에 총력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘크루즈 1척 경제 파급효과 8억’... 올해 크루즈 348척 제주 찾는다</title>
+      <link>https://www.chosun.com/national/regional/2026/01/20/C352XTZQAJHQ5P6BNZSOZH4FGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/20/C352XTZQAJHQ5P6BNZSOZH4FGE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 04:18:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PELC3SJZ3JNARNJCLZPNLVMFEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 제주 서귀포시 강정항에 크루즈 아도라 매직시티호가 입항했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제주에 크루즈 관광객 80만명이 찾을 전망이다.&lt;br&gt;&lt;br&gt;20일 제주도에 따르면 올해 제주를 찾는 국제 크루즈는 제주항 137회, 강정항 211회 등 총 348회 예정됐다. 승객은 모두 80만명으로 예상하고 있다. 이는 2023년 10만명에서 3년 만에 7배 급증하는 것으로, 지난해 75만명에 비해서는 5만명 늘어난 수치다.&lt;br&gt;&lt;br&gt;최근 3년간 현황을 보면 2023년 입항 71회·관광객 10만1594명, 2024년 입항 274회·관광객 64만1139명, 2025년 입항 321회·관광객 75만6031명으로 지속해서 늘고 있다.&lt;br&gt;&lt;br&gt;제주도는 준모항 운용과 제주국제크루즈포럼 개최, 유치 마케팅 강화 등으로 크루즈 관광에 대한 인지도가 높아진 것이 크루즈 관광객 증가 요인으로 분석했다. 여기에 무인 자동심사대 도입과 크루즈 선석 배정 디지털 전환 등도 효과를 거뒀다고 분석했다.&lt;br&gt;&lt;br&gt;특히 무인 자동 심사대를 총 38대(제주항 10, 강정항 28) 도입해 관광객의 제주 체류 시간이 늘어 소비 지출 증가로 이어지고 있다고 제주도는 설명했다.&lt;br&gt;&lt;br&gt;제주도는 올해 글로벌 크루즈 기항지로 도약하기 위해 ‘크루즈 산업 활성화 시행 계획’을 수립해 시행한다. 지역 어촌계와 협업해 해녀 문화를 체험하는 기항 상품을 개발하고, 크루즈 터미널 유휴 공간을 활용해 상업 광고를 유치해 신규 세원 발굴과 함께 관광객 환대 분위기를 함께 조성한다.&lt;br&gt;&lt;br&gt;준모항 운용에 따른 관광객 편의 제공을 위해 강정항에 위탁 수하물 시스템을 구축하고, 노인·장애인 등 교통약자를 위한 크루즈 전용 갱웨이를 설치해 선박과 터미널 간 이동 편의를 높인다.&lt;br&gt;&lt;br&gt;마케팅도 강화한다. 올해 아시아 포트세일즈와 씨트레이드크루즈글로벌에 참가하고, 9개국 82개 기관이 참여하는 아시아 크루즈 리더스 네트워크(ACLN) 등 네트워크를 활용해 국제 크루즈 박람회에 참가한다. 지난해 100대 1의 높은 경쟁률을 보였던 준모항 크루즈 체험단을 확대 운영하고, 지난해부터 공직자를 대상으로 추진한 크루즈 십 투어(Ship tour)를 도민까지 확대한다.&lt;br&gt;&lt;br&gt;제주도는 크루즈 1척이 입항해 승객 3000명이 제주를 방문하면 쇼핑·식음료 등 6억6000만원(1인당 22만원), 전세버스·관광통역안내원·예선료 등 민간 수입 9300만원, 터미널 이용료·입항료 등 항만 수입 4400만원을 포함해 8억원에 이르는 지역경제 파급효과가 발생한다고 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘사건 핑퐁’ 감사원 간부 뇌물 사건 일부 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/20/TINUEQLATJCJJH7GC5SQG7AE4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/20/TINUEQLATJCJJH7GC5SQG7AE4Y/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 04:14:04 +0000</pubDate>
+      <content:encoded>검찰이 ‘감사원 뇌물 의혹’ 사건과 관련해 일부 관련자를 재판에 넘긴 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RDIYJXG5STGOJYGI3TCNDCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 감사원의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 작년 6월 서울중앙지검 형사5부(부장 김태헌)는 특정범죄 가중처벌 등에 관한 법률상 뇌물 혐의를 받는 감사원 3급 공무원 김모씨를 뇌물 혐의로 기소했다. &lt;br&gt;&lt;br&gt;김씨는 전기공사 업체를 차명으로 설립해 운영하면서 2018년 감사 대상 기업과 2억원 규모의 하도급 계약을 체결한 뒤 이 중 일부를 사적으로 사용한 혐의를 받는다. 공수처는 김씨가 민간 건설사와 토목 공기업 등에서 받은 금액이 15억8000여 만원에 이른다고 보고 있다. 다만 검찰은 공소시효가 임박한 점을 고려해, 이 중 일부 건에 대해 기소한 것으로 알려졌다. 뇌물 액수가 3000만원이 넘지 않는 일반 뇌물죄의 공소시효는 7년이다. &lt;br&gt;&lt;br&gt;해당 사건은 감사원이 2021년 10월 내부 감사 과정에서 김씨의 비위 정황을 포착해 수사를 요청하면서 시작됐다. 앞서 고위공직자범죄수사처(공수처)는 김씨에 대해 뇌물 혐의로 검찰에 공소제기를 요구했으나, 서울중앙지검은 작년 1월 추가 수사와 법리 재검토가 필요하다며 사건을 다시 공수처로 돌려보냈다. 하지만 공수처는 “검찰의 사건 이송은 법적 근거가 없다”며 접수를 거부하는 등 양 수사기관이 갈등을 빚으면서 관련 수사가 4년 넘게 이어지고 있다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 정례 브리핑에서 “추가 수사 범위와 관련해서 검찰과 협의가 필요하다”라며 “나머지 혐의를 추가 수사하게 될지, 어디까지 하게 될지 등은 협의가 필요한 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일도 전국에 냉동고 추위...서울 체감 -18도</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/20/OZMOIZWUKVE2VLFTAKKOAED6FE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/20/OZMOIZWUKVE2VLFTAKKOAED6FE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 04:15:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOMPEH25QNLPXKTILWTLFOKMEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'1년 중 가장 춥다'는 절기상 대한(大寒)인 20일 경기 화성시 우정읍의 갯벌이 얼어있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;절기상 대한(大寒)인 20일 전국에 냉동고 추위가 찾아왔다. 한파는 21~22일 절정에 달할 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 20일 중국 북부지방에서 확장하는 찬 시베리아 고기압의 영향으로 서울(동작구)의 아침 최저기온이 -14.5도까지 떨어지는 등 전국에 한파가 발생했다.&lt;br&gt;&lt;br&gt;특히 찬 북풍을 가장 먼저 맞는 중부지방을 중심으로 아침 수은주가 크게 떨어졌다. 강원 철원은 아침 최저기온이 -20.7도, 경기 포천과 파주는 각각 -18.2도와 -18도까지 떨어졌다. &lt;br&gt;&lt;br&gt;이번 한파는 21~22일 가장 매서울 것으로 예상된다. 우리나라 북쪽에 형성된 절리 저기압(북극에서 떨어져 나온 찬 공기 덩어리)에서 -35도의 찬 바람이 내려오기 때문이다.&lt;br&gt;&lt;br&gt;서울의 경우 21일 최저기온이 -13도, 체감온도는 -18도까지 떨어지겠다. 22일에는 기온이 더 내려가면서 최저 -14도, 체감 -19도로 올겨울 들어 가장 춥겠다. 21일 전국 아침 최저기온은 -17~-4도, 낮 최고기온은 -7~3도로 예보됐다.&lt;br&gt;&lt;br&gt;21~22일 호남과 제주를 중심으로는 많은 눈이 내리겠다. 예상 적설량은 호남 1~10㎝, 제주산지 5~20㎝, 제주중산간 5~10㎝, 제주해안 3~8㎝ 등이다.&lt;br&gt;&lt;br&gt;현재 중부지방과 경북·경남·전북 대부분 지역에 한파특보가 발효됐다. 경기·인천과 강원·충북·경북 일부 지역에는 한파경보(이틀 이상 아침 최저기온 -15도 이하)가, 그밖의 지역에는 한파주의보(이틀 이상 아침 최저기온 -12도 이하)가 내려졌다. &lt;br&gt;&lt;br&gt;기상청 관계자는 “바람이 강하게 불면서 체감온도는 실제 기온보다 5~10도가량 낮을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘나나집 침입’ 30대 “일방적 구타당했다” 주장에… 판사 “입장 바꿔 생각해라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/20/NO44ZA5WS5EXRII5H3NMFUZZ6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/NO44ZA5WS5EXRII5H3NMFUZZ6M/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 04:05:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVQTAMJWMNSDKOJVMFTGEZRSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나나&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 애프터스쿨 출신 배우 나나(본명 임진아)의 집에 침입해 돈을 요구하며 나나 모녀를 위협한 혐의로 재판에 넘겨진 30대 남성이 공소 내용을 대부분 부인했다.&lt;br&gt;&lt;br&gt;20일 법조계 등에 따르면 의정부지법 남양주지원 형사1부(부장판사 김국식)는 이날 오전 10시 20분 강도상해 등 혐의로 구속기소된 김모(34)씨에 대한 첫 공판을 진행했다.&lt;br&gt;&lt;br&gt;김씨 측은 사다리를 이용해 발코니 창문이 열려 있던 나나의 집에 침입한 사실은 인정하면서도 강도 목적은 아니라는 취지로 주장했다. 김씨의 변호인은 이날 “빈집인 줄 알고 들어가 절도만 하려 했다”며 “흉기를 소지하지 않았고 일방적으로 구타를 당했다”고 했다.&lt;br&gt;&lt;br&gt;김씨도 “흉기를 들고 가지 않았다. 흉기는 피해자가 집에서 가지고 나온 것”이라며 “경제적으로 어려운 상태에서 인터넷 검색을 통해 아천동에 연예인 등 부유한 사람이 많이 산다는 것을 알고 범행했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “나나 어머니 목을 조른 사실도 없다. 놀라서 소리를 지르는 나나 어머니를 진정시키기 위해 옆에서 어깨를 붙들어 잡은 것”이라며 “나나가 갑자기 뛰어나오며 흉기를 휘둘렀고 이후 몸싸움을 벌였으나 제가 저항하는 모양새였다”고 주장했다. &lt;br&gt;&lt;br&gt;이에 김 부장판사는 “누군가 집에 들어와 그런 짓을 하는데 가만히 있을 수 있느냐. 입장 바꿔 생각해 보라”고 김씨에게 되묻기도 했다.&lt;br&gt;&lt;br&gt;김씨 측은 흉기에 있는 지문을 감정해달라고 재판부에 요청했다. 재판부는 나나와 나나 어머니를 증인으로 부를 예정이며 다음 공판은 오는 3월 10일 열린다.&lt;br&gt;&lt;br&gt;김씨는 작년 11월 15일 오전 6시쯤 경기 구리시 아천동 소재 나나의 주거지에 침입해 흉기로 나나 모녀를 위협하며 돈을 요구한 과정에서 상해를 입힌 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 나나 모녀는 몸싸움 끝에 김씨를 제압한 뒤 경찰에 신고했다. 나나 모녀는 김씨의 범행으로 각각 전치 33일, 31일에 해당하는 상해를 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이후 구치소에 수감된 김씨는 작년 12월 나나를 살인 미수 및 특수상해 혐의로 역고소했으나 경찰은 “정당방위에 해당한다”며 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘70세 이상 63%’...제주 해녀 고령화로 명맥 끊기나</title>
       <link>https://www.chosun.com/national/regional/2026/01/20/BE3GZVE4D5EDBF43TGCIDVNDUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/20/BE3GZVE4D5EDBF43TGCIDVNDUU/</guid>
@@ -807,31 +861,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2BV6CT3JFIBMDHFHGNR73MJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울행정법원 청사. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 국가시험 응시자가 실기시험의 채점 항목과 구체적인 채점 기준을 공개하라며 소송을 냈으나 1심에서 패소했다. 법원은 채점 기준이 공개될 경우 시험의 공정성이 훼손되고 이른바 ‘족보’ 위주의 학습이 이뤄질 위험이 있다고 판단했다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 서울행정법원 행정8부(재판장 양순주)는 최근 A씨가 한국보건의료인국가시험원(국시원)을 상대로 낸 정보공개 거부 처분 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 제89회 의사 국가시험 실기시험에 응시했으나 0.1점 차이로 불합격한 뒤 국시원에 채점 항목별 세부 점수와 채점 기준 등 정보공개를 청구했다. 그러나 국시원이 “시험의 공정한 업무 수행에 지장을 초래할 수 있다”는 이유로 이를 거부하자 소송을 제기했다.&lt;br&gt;&lt;br&gt;법원은 “의사 실기시험의 특성상 세부 항목이 공개되면 시험 본연의 목적이 왜곡될 수 있다”며 국시원 손을 들어줬다. 재판부는 “문제은행 방식에서 채점 항목의 내용과 구성이 공개되는 경우 응시자들로서는 병력 청취, 신체 진찰, 환자와의 의사소통, 진료 태도 등 전반적인 능력 향상을 도모하기보다는 공개된 채점 항목만을 기준으로 실기시험을 준비하게 될 가능성이 매우 높다”며 “그렇게 되면 국시원이 실기시험을 통해 응시자들의 온전한 능력을 측정하는 데 상당한 지장을 받게 될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;매년 새로운 문항을 개발하는 데 한계가 있다는 점도 지적했다. 재판부는 “시험에 출제할 수 있는 임상 표현과 기본 진료 술기가 정해져 있어 문제별 평가 내용과 평가 방법을 매년 변경하는 데 한계가 있고, 설령 가능하다고 하더라도 적지 않은 시간과 비용의 부담이 발생할 것으로 보인다”고 했다. 이미 검증된 평가 내용과 방법을 활용할 수 없어 해가 갈수록 지엽적인 평가가 이뤄질 위험이 있다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 또 “실기시험 채점 항목은 특성상 어느 정도 주관적일 수밖에 없는데, 그 내용과 구성을 공개할 경우 정합성을 둘러싼 시시비비에 일일이 휘말리는 상황이 초래될 우려가 높다”는 점도 기각 사유로 덧붙였다.&lt;br&gt;&lt;br&gt;서울행정법원은 지난 2018년에도 의사 국시 응시자가 제기한 비슷한 소송에서 “응시자가 얻은 항목별 점수는 알 권리 보장을 위해 공개해야 하지만, 구체적인 채점 기준은 시험의 변별력 유지를 위해 비공개하는 것이 타당하다”고 판결한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김경, 강선우 전 보좌관과의 대질 조사 거부</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/19/QLGLJGDTSZG4TOHAQT4ZX6LE2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/19/QLGLJGDTSZG4TOHAQT4ZX6LE2I/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 01:29:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YLDIIMSLNNHDKO2ASURD2HBW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공천 헌금 의혹을 받는 김경 서울시의원이 18일 서울 마포구 공공범죄수사대에서 경찰 조사를 받기위해 출석하며 고개를 숙이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강선우(서울 강서갑) 의원에게 ‘공천 헌금’ 1억원을 건넨 혐의를 받는 김경 서울시의원이 경찰 조사에서 강 의원의 전직 보좌관 남모씨와의 대질 조사를 거부한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 18일 김 시의원과 남씨를 피의자 신분으로 불러 조사했다. 두 사람 모두 이번이 세 번째 소환으로, 남씨는 전날(17일)에도 10시간이 넘는 고강도 조사를 받았다.&lt;br&gt;&lt;br&gt;이날 경찰은 김 시의원과 남씨의 대질 조사를 추진했고, 남씨는 응했지만 김 시의원은 거부한 것으로 알려졌다. 대질 조사는 당사자 모두 동의해야만 가능하다. 경찰이 대질 조사를 추진한 건 1억원 전달 경위를 두고 양측 진술이 엇갈려 교차 검증이 필요하다는 판단으로 풀이된다.&lt;br&gt;&lt;br&gt;그간 김 시의원은 경찰 조사에서 ‘2022년 지방선거 출마지를 고민하던 시기 남씨가 먼저 액수까지 특정해 강 의원에게 공천 헌금을 줄 것을 제안했다’는 취지로 진술한 것으로 알려졌다. 반면 남씨는 강 의원과 함께 한 카페에서 김씨를 만났지만 돈이 오간 건 몰랐다는 입장이다. 강 의원은 돈 거래가 김씨와 남씨 사이의 일이었을 뿐, 사후 보고를 받고 즉시 반환을 지시했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;경찰은 20일 강 의원을 처음 불러 조사한다. 강 의원의 진술에 따라 김씨와 남씨를 포함한 3자 대질 조사가 추진될 가능성도 거론된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XYGYSNRVVRKPFHZ3AHZMPGB36U.jpg?auth=5ade8f49ecd6b79ea895e90c8b8f3073cd5821ae3f4b45a225c4b2ccd169c47f&amp;smart=true&amp;width=4000&amp;height=2777" type="image/jpeg" height="2777" width="4000">
-        <media:description type="plain">&lt;YONHAP PHOTO-3367&gt; 취재진 질문에 답변하는 김경 시의원
-    (서울=연합뉴스) 이진욱 기자 = 무소속(전 더불어민주당) 강선우 의원에게 '공천헌금' 1억원을 전달한 혐의를 받는 김경 서울시의원이 피의자 신분으로 조사를 받기 위해 18일 서울경찰청 공공범죄수사대로 출석하면서 취재진 질문에 답변하고 있다. 2026.1.18
-    cityboy@yna.co.kr/2026-01-18 10:26:58/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">이진욱</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 강남서 음주운전한 몽골대사관 직원, 면책특권 행사</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/19/KXGS5MHNMZCXXDT2E5C3DHPTGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/19/KXGS5MHNMZCXXDT2E5C3DHPTGY/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 01:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTSMJWGNTGKMLCMEYDANRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강남에서 음주 상태로 운전하다 3중 추돌 사고를 낸 주한몽골대사관 직원이 면책특권을 행사하겠다고 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 도로교통법상 음주운전 등의 혐의로 수사하던 주한몽골대사관 행정 직원 A씨의 사건을 조만간 공소권 없음으로 불송치할 예정이라고 19일 밝혔다.&lt;br&gt;&lt;br&gt;몽골 국적의 A씨는 지난달 12일 오전 6시쯤 강남구 신사역 인근에서 음주 상태로 3중 추돌 사고를 낸 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허 취소 수준이었다. 사고를 당한 앞 차 운전자 2명은 모두 경상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 외교관이 아니지만 주재국의 형사처벌 절차를 면제받도록 한 면책특권 대상이다. 면책특권은 국제 협약상 외교관 등에게 부여된 법적 지위다. ‘외교관계에 관한 비엔나 협약’에 따르면, 외교관은 자신이 주재하는 국가에서 민형사상 책임이 면제되고, 체포나 구금도 되지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>상설특검 ‘관봉권 띠지 폐기 의혹’ 건진법사 참고인 조사</title>
       <link>https://www.chosun.com/national/court_law/2026/01/19/WDSMD6VMNRHB7O3X4X6UBBVUGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/19/WDSMD6VMNRHB7O3X4X6UBBVUGM/</guid>
@@ -936,45 +965,6 @@ TV에 생중계된 1심 선고  16일 윤석열 전 대통령이 서울 서초�
       <description/>
       <pubDate>Fri, 16 Jan 2026 15:54:00 +0000</pubDate>
       <content:encoded>2026학년도 대입 수시 전형에서 학교 폭력 가해자들이 대거 탈락한 것으로 확인됐다. 정부가 이번 입시부터 학교 폭력 가해 사실을 의무적으로 반영하게 한 결과다. &lt;br&gt;&lt;br&gt;16일 본지가 진선미 더불어민주당 의원실을 통해 확보한 ‘수시 전형 학폭 반영 현황’ 자료에 따르면, 전국 4년제 대학 170곳이 고교 때 학교 폭력 전력이 있는 수험생 3273명에게 감점을 줬다. 이 가운데 최종 2460명(75%)이 불합격했다. 학폭 가해자 4명 중 3명이 대학 입학 문턱을 넘지 못한 것이다. &lt;br&gt;&lt;br&gt;서울 주요 대학은 학폭 가해자에게 더 엄격했다. 서울 지역 주요 대학 11곳이 학폭 가해 전력을 이유로 감점한 수험생은 총 151명이었다. 이 중 150명(99%)이 최종 불합격 처리됐다. 학폭 가해자가 서울 주요 대학에 입학하기는 거의 불가능했던 것이다. &lt;br&gt;&lt;br&gt;연세대와 고려대는 각각 5명과 12명의 학폭 가해자에게 감점을 줬고, 그 결과 모두 탈락했다. 서강대·성균관대(3명), 한양대(7명), 이화여대(1명), 중앙대(32명), 한국외대(14명), 서울시립대(12명)도 학폭으로 감점된 수험생을 전부 불합격시켰다. 경희대는 학폭 감점자 62명 가운데 61명을 불합격시켰다. 서울대는 이번 수시 전형에 학폭 가해 전력이 있는 지원자가 없었다. 지방 거점 국립대 9곳에 지원한 학폭 가해자 180명 중엔 162명(90%)이 탈락했다. &lt;br&gt;&lt;br&gt;정부는 2023년 ‘학폭에는 반드시 불이익이 따른다’는 무관용 원칙을 담은 학교 폭력 근절 종합 대책을 발표했다. 여기에 2026학년도 입시부터 모든 대학이 학폭 가해 이력이 있는 지원자에게 감점을 주라는 내용도 포함됐다. 각 대학은 고교 학생부에 기재된 학폭 가해 처분(1~9호)에 따라 감점 기준을&lt;b&gt; &lt;/b&gt;만들었고, 호수가 높은 경우 아예 지원하지 못하게 한 대학도 많다. &lt;br&gt;&lt;br&gt;대학 관계자들은 “보통 1~2점 차이로 합격과 불합격이 갈리는 경우가 많기 때문에 일단 학폭으로 감점이 되면 최종 합격은 어려울 수밖에 없다”고 말했다. &lt;br&gt;&lt;br&gt;2026학년도 수시 모집 합격자 발표는 지난달 끝났고, 아직 정시 전형은 진행되고 있다. 다음 달 초 합격자 발표가 시작된다. 정시 전형에서도 학폭 가해자들은 감점을 받기 때문에 학폭 가해자의 불합격 사례는 더 늘어날 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>반미 시위에 뿔난 이란인들 “우리더러 그냥 죽으란 거냐”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/17/MPT622VUGJBUBDDMMBYBG3KPQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/17/MPT622VUGJBUBDDMMBYBG3KPQE/</guid>
-      <dc:creator>구아모 기자, 김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLQ7GRADOZBQTGHYCUFKRPBPVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 서울 용산구 주한 이란 대사관 앞에서 열린 재한 이란인 집회./김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“미국 정부는 개입을 중단하라!” ”평화 같은 한가한 소리 멈춰라." &lt;br&gt;&lt;br&gt;16일 오후 5시 서울 용산구 주한 이란 대사관 앞. 폭 10m 남짓한 도로를 사이에 두고 국내 단체와 재한 이란인들 간에 ‘맞불 집회’가 열렸다. 미국이 최근 반(反)정부 시위가 계속되는 이란을 상대로 군사 개입 가능성을 시사했다. 그러자 마르크스주의와 반미(反美)를 표방하는 ‘노동자연대’ 회원들은 이날 이란 대사관 앞에서 “미국 정부는 이란에서 손을 떼라”고 주장했다. 이에 수m 떨어진 반대편에서 이란인 10여 명이 “당신들의 구호는 우리더러 죽으라는 소리” ”우리의 절박한 이야기를 들어달라”고 외쳤다.&lt;br&gt;&lt;br&gt;이날 집회에 나선 이란인들은 “우리에게 전쟁은 이미 닥쳐온 현실”이라며 “우리의 절박함을 쉽게 이야기하지 말라”고 했다. 국내 IT 기업 AI(인공지능) 연구원인 사나즈(33)씨는 이날 집회 때 맨 앞에 섰다. 2019년 박사 과정을 밟기 위해 한국에 왔다는 그가 거리로 나선 것은 며칠 전 여동생에게 받은 문자 메시지 때문이라고 했다. 그의 여동생은 “이번에 (반정부 시위에서) 이기지 못하면 모조리 감옥에 가게 될 것”이라고 걱정했다고 한다. 사나즈씨는 본지에 “1만2000명이 도살당하고 있는 상황에서 ‘미국 개입 반대’는 계속 사람을 죽이라고 독려하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAWX2E7VMFGT5MBFS43PPLZI5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 서울 용산구 주한 이란 대사관 인근 카페에서 재한 이란인 사나즈(33) 씨가 본지와 인터뷰하고 있다. 사나즈 씨를 제외한 다른 참석자들은 이란 당국의 색출과 본국 가족에 대한 보복을 우려해 신원을 밝히지 않았다. 한 참석자는 “정권은 사람을 죽여놓고 시신을 볼모로 유족들을 협박하고 있다”며 분통을 터뜨렸다. /김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기자회견에 참석한 고그누스(23)씨는 “임신한 상태로는 매장할 수 없다는 이슬람 율법을 구실 삼아 이란 정부가 시신의 배를 갈라 임신 여부를 확인하고 있다. 죽은 자의 존엄성마저 훼손하는 야만적인 처사”라고 했다. 유학생 A씨는 “거동이 힘든 70·80대 노인들까지 집에서 창문을 열고 함성을 지르면서 반정부 시위대와 함께하고 있다”고 했다. 집회에 나온 이란인들은 팔레비 왕조(1925~1979) 때 이란 국기와 미국에서 망명 생활 중인 레자 팔레비 왕세자 사진을 들고 나왔다. 팔레비 왕세자는 이란의 반정부 시위를 지지하고 있다.&lt;br&gt;&lt;br&gt;이날 재한 이란인들의 항의를 받은 노동자연대란 단체는 한미 동맹을 부정하며 국가보안법 폐지를 주장하는 단체다. 이들은 이날도 미국의 제재와 군사 행동이 이란 사태를 악화시키고 있다고 했다. 노동자연대는 2024년 12월 북한군의 우크라이나 파병설이 돌자 ‘윤석열 정부의 사기’라고도 했었다. 최근엔 “이란 경제난은 미국의 제재 탓”이라는 성명을 냈다. 이란인들의 항의를 의식했는지 이날 일부 노동자연대 회원은 ‘이란 반정부 시위 지지한다’ 등이 적힌 피켓도 들었다. &lt;br&gt;&lt;br&gt;재한 이란인들은 17일 오후에도 서울 광화문에서 이란 시민이 겪는 참상을 알리는 집회를 열 예정이다. 이들은 “우리가 바라는 건 거창한 정치 논리가 아니다. 그저 가족이 살아서 돌아올 수 있도록 도와줄 손길이 필요할 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VLQ7GRADOZBQTGHYCUFKRPBPVE.jpg?auth=19f1232ca573a3ff3e8e32ddd71b1234191c3d296a5deb1b8e31bbbdf8e4cb3a&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600">
-        <media:description type="plain">16일 서울 용산구 주한 이란 대사관 앞에서 열린 재한 이란인 집회./김민혁 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“北에 무인기 보냈다” 30대 대학원생 주장</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/17/U5SC4LCETRFQBINQCF4KKFYGBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/17/U5SC4LCETRFQBINQCF4KKFYGBA/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 15:54:00 +0000</pubDate>
-      <content:encoded>북한이 최근 한국 측에서 이륙한 무인기가 북측 영공을 침범했다며 설명과 사과를 요구한 것과 관련해, 군경 합동조사 태스크포스(TF)가 16일 해당 무인기를 제작한 것으로 추정되는 민간인을 불러 조사했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 형사 입건 전에 사실 관계를 확인하는 단계”라며 “항공안전법 위반 등 혐의로 입건할지는 조사 이후 결정될 것”이라고 밝혔다. 항공안전법은 휴전선 인근 등 비행금지구역에서 국방부 허가 없이 무인기를 날리는 것을 금지하고 있다.&lt;br&gt;&lt;br&gt;북한은 지난해 9월과 이달 4일 한국이 개성 지역에 침투시킨 무인기를 격추했다고 지난 10일 주장했다. 이재명 대통령은 “사실이라면 한반도 평화와 국가 안보를 위협하는 중대 범죄”라며 수사를 지시했다. 이에 경찰청 국가수사본부는 지난 12일 경찰과 군으로 구성된 합동조사TF를 꾸렸다. &lt;br&gt;&lt;br&gt;이와 관련해 30대 대학원생 A씨는 이날 자기가 해당 무인기를 북한에 날려보냈다고 채널A 인터뷰에서 주장했다. A씨는 인터뷰에서 지난해 9월부터 총 3번 무인기를 보냈다며, 북한이 공개한 무인기의 외관과 위장색, 무늬가 자기가 개량하고 칠한 것과 일치한다고 주장했다. &lt;br&gt;&lt;br&gt;그는 이날 경찰 조사를 받은 사람은 지인이라고 했다. 지인이 중국 온라인 마켓에서 본체를 산 뒤 1차 개량했고, 북으로 날려보낸 것은 자기란 주장이다. A씨는 최대 6시간 뒤면 돌아오도록 설정했는데, 세 번 중 두 번은 무인기가 돌아오지 않았다고 했다.&lt;br&gt;&lt;br&gt;A씨는 무인기를 보낸 이유에 대해 예성강 인근 우라늄 공장의 방사능 오염도를 직접 확인하고 싶었다고 했다. 무인기에 방사능 측정기를 달았다고 했다. 그는 무인기를 3차례 보내는 과정에서 촬영한 영상이라며 북한 평산군 촬영 영상도 공개했다. 그는 “우리 군을 찍거나 그러지는 않았다. 동기가 있었기 때문에 날려도 괜찮다고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 조만간 A씨를 불러 주장의 진위를 확인할 계획인 것으로 전해졌다. 대학에서 기계항공우주공학을 전공한 A씨는 우파 성향 대학생 단체 회장을 지냈다. 그는 윤석열 정부 때 대통령실 대변인실에서 뉴스를 확인하는 계약직으로 6개월 정도 근무했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서영교, ‘서팔계 발언’ 김재원 모욕죄로 고소</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/17/3FJ6FZWVHRAD3HSKJB4OBGREGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/17/3FJ6FZWVHRAD3HSKJB4OBGREGQ/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUT2YY2VENCNXFYBGYXKRYKAFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 서영교 의원이 자신을 ‘서팔계’라고 지칭한 김재원 국민의힘 최고위원을 모욕죄로 고소했다. 서울 영등포경찰서는 최근 이런 내용을 담은 서 의원의 고소장을 접수해 수사에 나섰다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;김 최고위원은 지난해 11월 3일 열린 국민의힘 최고위원 회의에서 국회 상황을 ‘동물 국회’라고 비판하면서 “서영교 의원의 본명이 ‘서팔계’였다는 사실도 드러났다”고 말했다. 서팔계는 서 의원의 성(姓)에 중국 고전 소설 서유기에 등장하는 돼지 요괴 ‘저팔계’를 합친 말이다. 이에 서 의원이 반발하자 김 최고위원은 지난 13일 페이스북을 통해 “도대체 무엇이 모욕이란 말인지 궁금하다”고 했다.&lt;br&gt;&lt;br&gt;공개 석상에서 서 의원을 ‘서팔계’라고 처음 지칭한 건 국민의힘 곽규택 의원이다. 지난해 10월 30일 열린 국회 법제사법위원회 국정감사장에서였다. 서 의원이 곽 의원의 성씨에 빗대 “못된 짓은 ‘꽥꽥이’가 제일 많이 한다”고 하자, 곽 의원은 ‘서팔계’라고 맞받았다. &lt;br&gt;&lt;br&gt;다만 서 의원은 곽 의원을 고소하지는 않았다. 국회의원이 직무상 행한 발언에 대해 국회 밖에서 책임을 지지 않는다는 헌법상 면책 특권이 있고, 서 의원도 곽 의원을 ‘꽥꽥이’라고 부른 점 등을 고려한 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 1월 17일</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/17/7LTG7QUY4NAQFCKRGPZV5VWF34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/17/7LTG7QUY4NAQFCKRGPZV5VWF34/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCIB6ZT745DD3DICQQENBNUQVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아줌마 혼자 여행의 필수… 낯선 이에게 말 걸기, 그리고 아침 뷔페</title>
