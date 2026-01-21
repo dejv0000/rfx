@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>학생이 준 ‘두쫀쿠’ 자랑했다가…‘김영란법 위반’ 신고당한 교사</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/21/YGN7X6PWWVH43LQKEZ7Z5LQ4LY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/YGN7X6PWWVH43LQKEZ7Z5LQ4LY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 12:55:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POYBAVEOGBCCDF2HMXK3KRTNM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학생으로부터 두바이쫀득쿠키(두쫀쿠)를 받았다는 교사 사례가 알려져 청탁금지법 위반 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;21일 온라인에는 ‘방학에 뇌물 받은 교사 민원 넣는다’라는 제목으로 네티즌 A씨가 작성한 글이 확산했다.&lt;br&gt;&lt;br&gt;A씨는 “교사들 인스타그램 계정을 찾다 보니 이런 게 뜬다”며 한 인스타그램 게시물을 캡처해 올렸다. 여기에는 교사로 추정되는 이가 한 입 베어 문 두쫀쿠 사진과 함께 “방학인데 누추한 교무실에 귀한 OO이가 찾아와서 투척한 두쫀쿠”라는 문구가 담겼다.&lt;br&gt;&lt;br&gt;A씨는 “방학인데 담당 학생이 찾아와서 간식을 주는 게 합법이냐”며 “교육청에 민원을 넣었다”고 했다.&lt;br&gt;&lt;br&gt;이른바 ‘김영란법’으로도 불리는 청탁금지법에 따르면, 재학 중인 학생이나 그 보호자가 교사에게 제공하는 금품·선물은 금액과 관계없이 원칙적으로 금지된다. 이는 교사가 학생의 평가·지도 등 직무와 직접적인 관련성을 갖고 있기 때문이다. 다만 졸업 등으로 직무 관련성이 완전히 소멸한 경우에는 사회상규에 따라 예외적으로 허용될 수 있다. A씨가 민원을 넣었다는 교사가 현재 재학 중인 학생으로부터 두쫀쿠를 받은 것인지는 알려지지 않았다.&lt;br&gt;&lt;br&gt;이번 일을 두고 네티즌 사이에서는 엇갈린 반응이 나왔다. “팍팍하다”는 의견과 “원칙은 원칙”이라는 반응으로 갈렸다. 네티즌들은 “원칙적으로는 잘못됐지만, 도의적으로 봤을 때 너무 어거지 같다” “그냥 교사가 학생과 훈훈하게 음식 주고받는 모습 아니냐” “세상 너무 각박하다” “저런 거 받은 학생한테는 객관적으로 평가 못 하고 주관이 들어가기 마련” “요즘 두쫀쿠 가격 생각하면 뇌물로 볼 수 있을 것 같다” 등 다양한 의견을 냈다.&lt;br&gt;&lt;br&gt;특히 현직 교사로 추정되는 네티즌은 “실제 학교 현장에서는 스승의 날에도 음료 한 병 받지 않는 분위기”라며 “편지 외에는 모두 돌려보낸다”고 했다. &lt;br&gt;&lt;br&gt;일부는 “청탁금지법 취지는 이해하지만, 일선 교사에게만 지나치게 엄격하게 적용되는 측면이 있다”며 법과 현실 사이의 괴리를 지적하기도 했다.&lt;br&gt;&lt;br&gt;교육 당국은 개별 민원에 대한 조사 여부와 별개로 “교사는 학생·학부모로부터 오해의 소지가 있는 금품 수수를 철저히 경계해야 한다”는 기존 입장을 유지하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환율, 李대통령 ‘구두 개입’에 나흘 만에 하락… 장중 1460원대까지</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/21/PBXIZQDPZFGKVCFAQ7S4XQDK5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/PBXIZQDPZFGKVCFAQ7S4XQDK5Y/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 11:32:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYDCMBWGYZDCMDEGYYTAY3BGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 서울 중구 우리은행 본점 딜링룸 전광판에 달러·원 환율과 코스닥 지수가 표시되어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 환율 언급에 장중 1480원대까지 올라섰던 원·달러 환율이 1460원대까지 내려갔다. 환율이 하락한 건 지난 15일 스콧 베선트 미국 재무장관의 이례적 구두 개입 이후 4거래일 만이다.&lt;br&gt;&lt;br&gt;21일 서울 외환시장에서 미국 달러화 대비 원화 환율의 주간 거래 종가(오후 3시 30분 기준)는 전 거래일보다 6.8원 떨어진 1471.3원이었다. ‘베선트 효과’가 나타났던 지난 15일 1469.7원 이후 4거래일 만에 최저를 기록한 것이다.&lt;br&gt;&lt;br&gt;환율은 이날 2.3원 오른 1480.4원으로 출발했다가 장 초반 1481.4원까지 상승했다. 장중 1480원을 넘어선 것은 지난달 24일 이후 17거래일 만이다.&lt;br&gt;&lt;br&gt;이후 이 대통령의 환율 발언이 나온 직후 1467.7원까지 내려갔다. 이 대통령이 이례적으로 환율 전망을 언급하며 대응 의지를 강조한 것이 원화 약세에 제동을 건 것으로 풀이된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZNIOL5JV5C35IXSZBBFFNKI4U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 이 대통령은 이날 신년 기자회견에서 최근 환율 급등 문제에 대해 “당국에 의하면 한두 달 정도 지나면 1400원 전후로 떨어질 것이라 예측한다”고 했다. 아울러 “지속적으로 가능한 수단을 발굴하고 환율이 안정되도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;국정 책임자인 대통령이 특정 수준의 환율뿐 아니라 시기까지 콕 집어 언급한 건 전례를 찾기 어렵다는 평가가 나온다. 베선트 장관이 “최근 원화 가치 하락은 한국의 강력한 펀더멘털과는 부합하지 않는다”고 보기 드문 구두 개입에 나선 것과 비교해도 훨씬 무게감이 큰 발언으로 해석됐다. 정부와 한국은행도 최근 달러 수급 불균형 해소 대책을 중심으로 한 환율 안정 대책을 발표하면서 내부적인 환율 전망치나 목표치를 언급한 적이 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HDNENPHBKVCZNJTTULWXW276LQ.jpg?auth=29cd84420b595e50125f5f0dd67739d83eac5efb6d15039f7d62def130db1ac8&amp;smart=true&amp;width=2189&amp;height=1642" type="image/jpeg" height="1642" width="2189">
+        <media:description type="plain">[서울=뉴시스] 김근수 기자 = 이재명 대통령의 신년 기자회견이 열린 21일 오전 서울 중구 하나은행 딜링룸 전광판에 원·달러 환율이 장중 한때 1,469.3원을 기록하고 있다. 2026.01.21. ks@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">fsw2004</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>컬리 대표 남편, 수습 직원 성추행 의혹… “정직 처분, 업무 배제”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/21/6VIQFC4BSVB4FD7QC6TCALWWH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/6VIQFC4BSVB4FD7QC6TCALWWH4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 10:49:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKJPQSRZKZQKK6ATPVTF3GE5IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/컬리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 이커머스 업체 컬리 김슬아 대표의 남편인 넥스트키친 대표가 수습 직원을 성추행했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;넥스트키친은 21일 입장문을 내고 “당사 대표이사의 불미스러운 사건으로 많은 분들께 심려를 끼쳐 드린 것에 대해 깊이 사과드린다”며 “피해 직원분께도 다시 한번 진심으로 사과의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;넥스트키친은 2024년 사업보고서상 컬리가 지분 46.4%를 보유한 관계사로, 컬리에 가정간편식(HMR) 등을 납품한다.&lt;br&gt;&lt;br&gt;넥스트키친은 “회사는 이번 사안의 엄중함을 무겁게 인식하고 있다”며 “이에 확실한 재발 방지책을 전면적으로 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “우선 독립적인 외부 전문 기관을 통해 본 사안에 있어 피해자 보호를 포함한 회사의 조치가 적절했는지에 대한 전면적인 점검을 진행하겠다”며 “점검이 완료될 때까지 대표이사에게 정직 처분을 내리고 어떠한 영향력도 발휘할 수 없도록 회사의 모든 업무에서 배제하겠다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “금일 보도를 접하며 회사는 피해자께서 겪으셨을 당시의 고통을 다시 한번 통감하고 반성한다”며 “피해 직원분께 다시 한번 진심으로 사과의 말씀을 드린다. 앞으로 더욱 좋은 직장 문화를 가진 회사로 거듭날 것을 약속드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이날 디스패치는 넥스트키친 대표 정모씨가 작년 6월 사내 회식에서 수습 직원 A씨를 성추행했다고 보도했다. A씨는 사건 이후 정신과에서 PTSD(외상 후 스트레스 장애) 등을 진단받았으며, 결국 정씨를 강제추행죄로 고소했다고 한다. 서울동부지검은 지난달 31일 강제추행 혐의로 정씨를 불구속 기소한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가습기 살균제 피해자들 또 일부승소… 법원 “국가도 책임 있다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/21/5DJWYO2I6RAJRMJAQTERC5VIK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/5DJWYO2I6RAJRMJAQTERC5VIK4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 10:42:40 +0000</pubDate>
+      <content:encoded>‘가습기 살균제 사건’에 대해 국가의 배상 책임을 인정하면서도, 이미 국가로부터 구제급여를 받은 피해자에게는 추가 배상이 필요 없다는 법원 판단이 또 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2DSZDCHE3GMYTCMJQTOY3EGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가습기살균제 참사 피해자 가족과 환경시민단체 회원이 지난 2023년 2월6일 서울 광화문광장 이순신동상 앞에서 가습기살균제 참사 피해조정안 수용 촉구와 옥시·애경 불매운동 및 살균성분제품 제조판매사의 유죄판결 촉구 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 서울중앙지법 민사46부(재판장 김형철)는 가습기 살균제 피해자 7명이 국가와 가습기 살균제 업체들을 상대로 제기한 손해배상 청구 소송에서 “국가 책임을 인정하지만, 손익상계를 거칠 경우 국가가 책임질 부분이 남아있지 않다”며 원고 일부 승소 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “(가습기 살균제 제조 업체인) ‘세퓨’는 피해자 3명에게 800만~1000만원을 지급하라”고 판결했다. 가습기 살균제 제조·판매자 ‘옥시레킷벤키저’(옥시)와 원료 제조사인 ‘한빛화학’ 등에 대한 청구는 모두 기각했다.&lt;br&gt;&lt;br&gt;이번 판결은 2012년 8월 소송이 제기된 지 13년 만에 나왔다. 소송에는 한때 피해자 80명까지 늘어나기도 했으나, 7명을 제외하고는 대부분 피해자가 소송을 취하하거나 화해 권고를 받아들였다.&lt;br&gt;&lt;br&gt;가습기 살균제 사건은 1994년 처음 판매된 가습기 살균제 제품이 사용자들의 폐 손상 등을 일으킨 사건이다. 어린이와 임산부를 중심으로 ‘원인을 알 수 없는 폐 질환’이 잇따랐고, 2011년 질병관리본부 역학조사를 통해 살균제와의 인과관계가 확인됐다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 2018년 1월 옥시 전직 대표가 업무상 과실치사 등 혐의로 대법원에서 징역 6년이 확정됐고, 이후 2024년 2월에는 가습기 살균제 피해에 대한 국가 책임을 처음으로 인정하는 서울고법 판결이 나왔다. 다만 당시 법원은 특별법에 따라 국가로부터 구제급여를 받은 경우에는 추가 배상을 받을 수 없다고 판단했고, 이 판결은 그해 6월 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>새 대법관 후보에 김민기·박순영·손봉기·윤성식</title>
       <link>https://www.chosun.com/national/court_law/2026/01/21/FGTOEJL67NGTRIQMONRNYBCMCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/FGTOEJL67NGTRIQMONRNYBCMCE/</guid>
@@ -901,24 +941,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방의회 의원들의 국외 출장 ‘항공료 부풀리기’ 의혹과 관련해 피의자 신분으로 경찰 조사를 받았던 경기도의회 직원이 20일 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경기 용인서부경찰서에 따르면 이날 오전 10시 10분쯤 용인시 수지구의 한 도로에 주차된 차량 안에서 경기도의회 7급 공무원 30대 A씨가 숨진 상태로 발견됐다. 차량 안에서는 A씨가 남긴 것으로 추정되는 유서가 함께 발견된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 지방의회 국외 출장 항공료를 부풀린 의혹과 관련해 경찰 수사를 받아왔다. &lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 전날 오후 1시 50분쯤 수원영통경찰서에 피의자 신분으로 출석해 1시간 30분가량 조사를 받았다. A씨는 지난해 5월에도 같은 사건과 관련해 한 차례 출석해 조사받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경기도의회 내부에서는 A씨가 전날 경찰 조사 이후 연락이 닿지 않았다는 이야기도 나온다. A씨는 용인 지역에서 근무한 이력이 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 현장 증거 등을 토대로 A씨의 사망 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한국웰니스노르딕워킹협회, 공공복지 증진 부문 사회공헌상 수상</title>
-      <link>https://www.chosun.com/national/people/2026/01/20/WHYU3PSUZBBMLONABDZ6TT4LDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/20/WHYU3PSUZBBMLONABDZ6TT4LDU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 05:40:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PU3MV46B7RB7LO2ZNXRCNNTY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국웰니스노르딕워킹협회(KWNA·회장 정봉화)는 지난 17일 서울 여의도 국회의원회관 제1소회의실에서 열린 '제2회 대한민국 사회적가치 시상식'에서 '공공복지 증진 부문 사회공헌상'을 수상했다고 20일 밝혔다. /KWNA 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국웰니스노르딕워킹협회(KWNA·회장 정봉화)는 지난 17일 건강한 걷기 문화 확산과 공공복지 증진에 기여한 공로를 인정받아 한국사회공헌협회가 주관하는 ‘제2회 대한민국 사회적가치 시상식’에서 ‘공공복지 증진 부문 사회공헌상’을 수상했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;KWNA는 단발성 이벤트가 아닌 연중 상시 운영되는 지속 가능한 웰니스 프로그램 모델을 구축한 점에서 높은 평가를 받았다.&lt;br&gt;&lt;br&gt;KWNA는 노르딕워킹을 기반으로 한 통합형 웰니스 프로그램을 지역별로 주 1~6회 정기 운영한다. 이 프로그램에는 연간 약 4500명 이상의 시민이 참여하고 있다. 또한 ‘교육–자격–현장 활동’이 연계된 시스템을 통해 전문 지도자 68명을 양성했다.&lt;br&gt;&lt;br&gt;KWNA는 특히 고령층을 대상으로 한 낙상 예방 프로그램을 통해 안전한 걷기 자세와 균형감각 향상 중심의 예방형 공공복지 모델을 실천하고 있다.&lt;br&gt;&lt;br&gt;‘웰니스 노르딕워킹’은 두 개의 폴을 사용하는 북유럽식 걷기에 심신 회복과 사회적 교류 요소를 결합한 통합형 프로그램이다. 상체 사용을 통해 운동 효율을 높이는 동시에, 함께 걷는 과정에서 자연스러운 소통이 이뤄져 스트레스 완화, 사회적 고립감 해소, 지역 커뮤니티 활성화에 기여하는 한국형(K-웰니스) 모델로 주목받고 있다.&lt;br&gt;&lt;br&gt;정봉화 회장은 “노르딕워킹은 단순한 운동을 넘어 삶의 리듬을 회복하고 사람과 사람을 다시 연결하는 웰니스 활동”이라며 “개인의 건강이 사회의 건강으로 확장되는 웰니스 생태계를 지속적으로 구축해 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“40년 넘게 불우 이웃 밥 챙기던 엄마”… 3명 살리고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/20/DK7T4ZD24ZEL5JUTQUOLJ4N7HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/DK7T4ZD24ZEL5JUTQUOLJ4N7HY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 05:20:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHHIAWXPFBAEDCLDDROG2UVXTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새 생명을 선물하고 떠난 이화영씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수십 년간 봉사 활동으로 이웃 사랑을 실천하던 70대 여성이 이름 모를 3명의 생명을 살리고 하늘의 별이 됐다.&lt;br&gt;&lt;br&gt;20일 한국장기조직기증원에 따르면, 이화영(73)씨는 지난달 5일 간장과 좌우 신장을 기증하고 세상을 떠났다. 앞서 이씨는 자택에서 호흡 곤란 증상을 느끼고 쓰러져 병원으로 긴급 이송됐다. 이후 의료진의 적극적인 치료가 있었으나 끝내 의식을 회복하지 못하고 뇌사에 빠졌다.&lt;br&gt;&lt;br&gt;이씨는 2019년 이미 장기 기증 희망 등록을 신청해 둔 상태였다. 가족들은 생전 고인의 희망에 따라 기증을 결심했다고 한다. 이씨의 마지막 모습이 다른 생명을 살리는 아름다운 추억으로 기억되길 바라는 마음에서였다.&lt;br&gt;&lt;br&gt;경북 포항에서 6남매 중 둘째로 태어난 이씨는 꼼꼼하고 다정한 성격으로 남에게 베푸는 걸 좋아했다. 숙명여대 교육학과를 졸업한 후 대한항공 승무원으로 일했고, 은퇴 후엔 고향에서 꽃집을 운영했다. 책 읽기와 여행 다니기도 좋아했다.&lt;br&gt;&lt;br&gt;이씨는 주말이면 교회에 나갔고 40년 넘게 봉사 활동을 다녔다. 식사를 꼬박꼬박 챙기지 못하는 불우한 노인들에게도 음식을 만들어 줬다. 늘 주변의 어려운 이웃을 먼저 찾아가 도움을 나누는 따뜻한 사람이었다고 가족들은 추억했다.&lt;br&gt;&lt;br&gt;이씨의 아들 김대현씨는 “엄마, 남에게 베풀기 좋아하던 그 모습 그대로 마지막 순간까지 모든 걸 주고 떠나네”라며 “하늘나라에서는 마음 편히 잘 지내. 그리고 우리 항상 내려봐 줘. 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;이삼열 한국장기조직기증원 원장은 “생명 나눔을 실천해 주신 기증자님과 유가족들의 따뜻한 사랑의 마음에 감사드린다”며 “누군가의 생명을 살리는 기적 같은 일이 우리 사회를 더 건강하고 밝게 밝히는 힘이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“호텔에 2주 머물면 300만원” 제안에 속아… 국정원, 캄보디아 스캠 사례 공개</title>
       <link>https://www.chosun.com/national/national_general/2026/01/20/OXABOCBP2FC6JHJLWGAOAS5EQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/OXABOCBP2FC6JHJLWGAOAS5EQE/</guid>
@@ -926,15 +948,6 @@
       <description/>
       <pubDate>Tue, 20 Jan 2026 05:19:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X7OIJBLCZNZLL5GLCVZNRI7BM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 범죄단지서 검거된 한국인 피싱범들. /경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가정보원은 캄보디아 스캠 조직의 잇단 검거에도 청년 피해가 여전히 이어지고 있다며 관련 사례를 공개하고 각별한 주의를 요구했다.&lt;br&gt;&lt;br&gt;20일 국정원에 따르면, 최근 ‘아들이 범죄 조직에 감금됐다’는 어머니의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;아들 A(25)씨는 텔레그램으로 알게 된 정체불명 인물로부터 “베트남에 있는 호텔에 2주 정도만 있으면 현금으로 2,000달러(약 300만원)를 주겠다”는 제안을 받고 호찌민으로 떠났다.&lt;br&gt;&lt;br&gt;하지만 이는 A씨를 유인하기 위한 허위 취업 광고였고, A씨는 베트남에 도착하자마자 범죄 조직에 여권과 휴대전화를 빼앗긴 뒤 여러 조직에 팔려 다니며 베트남과 캄보디아를 전전하는 신세가 됐다. 호찌민에서 캄보디아 포이펫으로 넘겨진 뒤 프놈펜을 거쳐 다시 베트남 목바이로 보내졌다가, 최종적으로 캄보디아 몬돌끼리주(州)의 스캠 단지에 감금됐다.&lt;br&gt;&lt;br&gt;A씨는 “불법 월경 사실이 알려지면 현지 경찰에 체포된다”는 범죄 조직원의 협박에 위축돼 감금 생활을 이어갔다. 심지어 몬돌끼리 스캠 단지는 주거·상업 지역이 없는 베트남 국경 밀림 지대로, 타인의 도움 없이는 탈출도 불가능했다.&lt;br&gt;&lt;br&gt;감금 생활 기간 조직은 A씨에게 “6개월간 일을 잘하면 집에 보내 주겠다”며 범죄에 가담하도록 강요했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCXUYHLKUFBAZO623DOYFN3S2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;감금 당시 A씨와 모친의 통화 내용. /국가정보원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJ6MPFM3KROLVAPTQFTZPHGEHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가정보원이 공개한 캄보디아 몬돌끼리주의 스캠단지 모습. /국가정보원 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국정원과 경찰은 A씨 모친의 신고 전화를 토대로 위치 추적 등을 통해 A씨를 구출하고 총 26명의 한국인 조직원을 검거했다.&lt;br&gt;&lt;br&gt;A씨는 감금 당시 한 한국인이 실적이 저조하다는 이유로 고문을 당하기도 했다고 진술했다. 그는 “스캠 단지에 있던 한국인 중 1명이 실적이 저조하다는 이유로 전기충격기와 몽둥이로 맞는 것을 목격하고 심리적 압박이 심했다”고 했다.&lt;br&gt;&lt;br&gt;정부는 작년 11월 캄보디아 경찰과 한-캄 코리아 전담반을 설치하고 현지 스캠 단지를 집중 단속해 현재까지 한국인 3명을 구출하고 스캠 가담자 157명을 검거했다. 국정원은 “동남아 취업 사기와 감금·폭행·고문 범죄 피해가 무수히 알려졌지만, 일부 청년들이 고수익 제의에 현혹돼 동남아로 출국하는 사례가 이어지고 있다”며 “앞으로도 ‘초국가범죄 특별대응TF’와 협력해 동남아 스캠 범죄 예방과 피해자 보호에 총력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일도 전국에 냉동고 추위...서울 체감 -18도</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/20/OZMOIZWUKVE2VLFTAKKOAED6FE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/20/OZMOIZWUKVE2VLFTAKKOAED6FE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 04:15:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOMPEH25QNLPXKTILWTLFOKMEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'1년 중 가장 춥다'는 절기상 대한(大寒)인 20일 경기 화성시 우정읍의 갯벌이 얼어있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;절기상 대한(大寒)인 20일 전국에 냉동고 추위가 찾아왔다. 한파는 21~22일 절정에 달할 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 20일 중국 북부지방에서 확장하는 찬 시베리아 고기압의 영향으로 서울(동작구)의 아침 최저기온이 -14.5도까지 떨어지는 등 전국에 한파가 발생했다.&lt;br&gt;&lt;br&gt;특히 찬 북풍을 가장 먼저 맞는 중부지방을 중심으로 아침 수은주가 크게 떨어졌다. 강원 철원은 아침 최저기온이 -20.7도, 경기 포천과 파주는 각각 -18.2도와 -18도까지 떨어졌다. &lt;br&gt;&lt;br&gt;이번 한파는 21~22일 가장 매서울 것으로 예상된다. 우리나라 북쪽에 형성된 절리 저기압(북극에서 떨어져 나온 찬 공기 덩어리)에서 -35도의 찬 바람이 내려오기 때문이다.&lt;br&gt;&lt;br&gt;서울의 경우 21일 최저기온이 -13도, 체감온도는 -18도까지 떨어지겠다. 22일에는 기온이 더 내려가면서 최저 -14도, 체감 -19도로 올겨울 들어 가장 춥겠다. 21일 전국 아침 최저기온은 -17~-4도, 낮 최고기온은 -7~3도로 예보됐다.&lt;br&gt;&lt;br&gt;21~22일 호남과 제주를 중심으로는 많은 눈이 내리겠다. 예상 적설량은 호남 1~10㎝, 제주산지 5~20㎝, 제주중산간 5~10㎝, 제주해안 3~8㎝ 등이다.&lt;br&gt;&lt;br&gt;현재 중부지방과 경북·경남·전북 대부분 지역에 한파특보가 발효됐다. 경기·인천과 강원·충북·경북 일부 지역에는 한파경보(이틀 이상 아침 최저기온 -15도 이하)가, 그밖의 지역에는 한파주의보(이틀 이상 아침 최저기온 -12도 이하)가 내려졌다. &lt;br&gt;&lt;br&gt;기상청 관계자는 “바람이 강하게 불면서 체감온도는 실제 기온보다 5~10도가량 낮을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 김건희 “브이는 살짝 걱정” 김성훈 “막을 수 있어”… 법원 “공수처 尹 수사·체포 적법”</title>
@@ -953,15 +966,6 @@
       <description/>
       <pubDate>Tue, 20 Jan 2026 03:20:11 +0000</pubDate>
       <content:encoded>국군정보사령부에서 일하면서 중국 측에 대량의 군사 기밀을 넘긴 혐의를 받는 전직 군무원에게 대법원이 징역 20년을 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZGKNZRMQ2GIODEGY4DMOJQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 대법원 3부(주심 이흥구 대법관)는 일반이적 등 혐의를 받는 전직 정보사 공작팀장 천모씨에게 징역 20년과 벌금 10억원, 추징금 1억6205만원을 선고한 원심 판결을 최근 상고 기각으로 확정했다.&lt;br&gt;&lt;br&gt;천씨는 2000년대 중반부터 정보사 군무원으로 근무했다. 2017년 4월 중국을 방문했을 때 중국 정보기관 소속으로 추정되는 인물 B씨에게 포섭됐다. 이후 2022년 6월부터 2024년까지 문서 12건, 음성 메시지 18건 등 총 30건의 정보를 중국 정보 당국에 유출한 것으로 조사됐다. 천씨가 유출한 정보에는 블랙 요원 명단, 정보사 조직 편성, 작전 계획 등이 포함됐다고 한다. 이 대가로 천씨는 1억6205만원을 수수했다.&lt;br&gt;&lt;br&gt;원심은 “피고인은 오랜 기간 정보사에 근무하면서 정보관들의 인적 정보가 누설되었을 때 정보관들의 생명에 큰 위해가 가해질 수 있음을 충분히 알고 있었다”며 “동료들의 생명을 거래한 것과 다를 바 없다”고 지적했다. 이어 “노출된 공작원들이 무사히 대한민국으로 귀국하였다고 하더라도 그의 신상이 알려진 이상 완전히 안전한 상태라고 장담하기도 어렵다”며 “이 사건 범행은 어떠한 변명으로도 정당화될 수 없어 엄한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;천씨는 재판 과정에서 “B씨에게 2017년 4월 납치됐다”며 “요구하는 대로 행동하지 않으면 가족에게 위해를 가할 것이라는 협박을 받아 범행을 저질렀다”고 주장했다. 원심은 그러나 “피고인의 진술 외에는 증거가 없고, 범행 과정에서 천씨가 오히려 B씨에게 일정 금액을 요구하는 등 협박에 의해 강요된 행위를 했다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대법원도 이 같은 원심 판단에 잘못이 없다고 보고 형을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“피부 망치는 음식만 먹었다”...피부과 의사가 직접 체험한 결과는</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/20/4VPN5FZIHRF5ZBWV2NRNTFGPQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/4VPN5FZIHRF5ZBWV2NRNTFGPQQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 02:50:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSFYWOYP5VELRFI3E7ORSNC2Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피부 진단 기기로 측정한 결과, 실험 전 31세 수준이던 전문의의 피부 나이가 36세로 측정됐다./유튜브 '피친남이승주'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평소 환자들에게 “피부를 위해 피해야 한다”고 강조해 온 음식들만 골라 일주일 동안 먹어본 한 피부과 전문의의 피부 나이가 단 7일 만에 5세나 늙은 것으로 나타났다.&lt;br&gt;&lt;br&gt;지난 15일 피부과 전문의 이승주씨가 운영하는 유튜브 채널 ‘피친남이승주’에는 ‘피부과 의사가 일부러 7일간 피부 망치면 생기는 일’이라는 제목의 영상이 올라왔다. 이승주 전문의는 “피부과 의사가 일주일 동안 본인이 먹지 말라고 한 음식만 먹었을 때 피부 변화가 어떻게 되냐에 대해 찍어보도록 하겠다”고 실험 취지를 설명했다.&lt;br&gt;&lt;br&gt;그는 일주일 동안 설탕이 많이 들어간 음식, 정제 탄수화물, 유제품, 기름진 인스턴트 식품 등 평소 진료실에서 환자들에게 ‘피하라’고 권해 온 메뉴만 집중적으로 섭취했다. 첫날부터 카스텔라와 각종 달콤한 간식, 저지방 우유를 먹고 공복 상태에서 단 커피를 마셨다. 이후에도 과자와 단 음료, 달콤한 라테, 햄버거 세트, 피자, 떡볶이, 라면, 감자튀김, 탄산음료 등 고당·고지방 식단이 이어졌다. 삼겹살과 술을 곁들이기도 했다. &lt;br&gt;&lt;br&gt;며칠 지나지 않아 몸과 피부는 바로 반응했다. 그는 얼굴이 붓고 피로감이 심해졌다고 했다. 유분과 피지 분비가 눈에 띄게 늘면서 좁쌀 여드름과 염증성 트러블이 올라왔고, 기존에 있던 아토피도 악화돼 다리 부위에 가려움과 염증 반응이 나타났다. 특히 음주 이후에는 “알코올로 인한 히스타민 반응 때문에 가려움이 더욱 심해졌다”고 덧붙였다. 이 전문의는 “사실 피부도 피부인데, 컨디션도 굉장히 떨어지고, 몸이 굉장히 피곤하다. 속이 계속 불편하다”고 말했다. &lt;br&gt;&lt;br&gt;실험 기간 내내 그는 단 음료와 야식을 끊지 않았고, 마지막에는 달고나 라테 등 고당 음료까지 더하며 실험을 마무리했다. 이 전문의는 “중간중간 트러블이 생기는 걸 보니 피부 나이가 더 늙게 나올 것 같았다”고 결과를 예상했다.&lt;br&gt;&lt;br&gt;측정 결과는 예상대로 나쁘게 나왔다. 피부 진단 기기로 확인한 결과, 실험 전 31세 수준이던 그의 피부 나이는 36세로 나와 일주일 사이 다섯 살이 늘어났다. 피부 타입 역시 복합성에서 지성으로 바뀌었고, 자외선 촬영에서는 코 주변을 중심으로 피지량 증가와 모공 상태 악화가 뚜렷하게 관찰됐다.&lt;br&gt;&lt;br&gt;이 전문의는 “이 결과를 환자들에게 꼭 보여주고 싶다”며 “먹는 것을 신경 쓰라고 해온 말이 더 타당해진 것 같다”고 전했다. 그는 “단 일주일만 이렇게 먹었는데도 피부가 이 정도로 변했다. 식습관 관리만으로도 피부 상태는 충분히 좋아질 수 있다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
