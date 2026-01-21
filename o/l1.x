@@ -6,6 +6,34 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"'제2의 검찰청' 안돼"…추진단 자문위, 중수청법 수정 요구</title>
+			<description>국무총리 산하 검찰개혁추진단 자문위원회가 정부에 중대범죄수사청(중수청) 설치법 초안을 재고해 달라고 요구했다. 수사사법관과 전문수사관으로 이원화한 중수청이 '제2의 검찰청'으로 오해받을 수 있다며 수정이 필요하다는 것이다.&lt;br /&gt;&lt;br /&gt;자문위는 1월 20일 입장문을 내고 조직 이원화 방안은 "중수청이 자칫 제2의 검찰청이라는 오해를 받을 수 있으므로 대폭 수정해야 한다고 의견을 모았다"고 밝혔다. 이원화가 현직 검사를 유입하려는 고육지책임은 인정하지만 세계적으로 유례를 찾기 어렵다고 이유를 설명했다.&lt;br /&gt;&lt;br /&gt;앞서 자문위는 직역을 수사관으로 일원화하는 방안을 다수의견으로 정리해 추진단에 제출했다. 추진단은 1월 12일 이와 반대되는 법안을 발표했다. 이튿날 자문위는 공식입장을 내고 유감을 표했다. 위원 16명 중 6명은 정부가 추진단을 무시하고 일방적으로 의사결정을 했다며 반발하고 사퇴했다.&lt;br /&gt;&lt;br /&gt;자문위는 중수청의 수사 권한도 9대 범죄에서 '부패, 경제, 공직자, 내란·외환' 등 4대 범죄로 축소해야 한다고 주장했다. 다른 수사기관의 사건을 가져올 수 있는 우선수사권(58조)은 삭제하자고 제안했다. 어느 수사기관이 우선권을 가질지는 구체적인 요건을 법률에 규정해야 한다는 것이다. 행정안전부 장관에게 있는 구체적 사건의 지휘·감독권(제5조)도 없애자고 했다.&lt;br /&gt;&lt;br /&gt;공소청법안도 수정해야 한다고 했다. 자문위는 "공소청 구조를 대·고등·지방공소청의 3단 구조에서 공소청과 지방공소청 2단 구조로 변경해야 한다"고 촉구했다. 새로운 형사구조를 만든다는 취지에 맞게 검찰청과 달라야 한다는 것이다. 자문위는 애초 2단 구조를 다수의견으로 채택해 추진단에 넘겼다.&lt;br /&gt;&lt;br /&gt;공소청의 장 명칭도 '공소청장'으로 해야 한다고 주장했다. '공소청장은 검찰총장에 해당한다'고 명시하면 헌법 위반을 피할 수 있다는 것이다. 공소청 설치법안에는 '공소청의 장은 검찰총장으로 한다'(제6조)는 규정이 들어갔다.&lt;br /&gt;&lt;br /&gt;자문위는 또 공소청 검사는 징계만으로도 파면할 수 있게 하자고 했다. 공소청 검사는 기존 검찰청 검사처럼 탄핵이나 금고 이상의 형을 선고받은 경우를 제외하고는 파면되지 않게 신분보장이 규정됐다(제45조).&lt;br /&gt;&lt;br /&gt;자문위는 이 외에도 정기적격심사에 더해 수시적격심사 규정도 둬서 직무수행능력이 떨어지는 검사는 퇴직을 명령할 수 있게 해야 한다고 제안했다. 법무부 탈검찰화를 위한 명문 규정을 신설해야 한다는 의견도 냈다.</description>
+			<pubDate>Wed, 21 Jan 2026 04:46:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215177</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215177</guid>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>태평양, '국제조세·투자센터' 출범··· 김명준·이경근 고문 공동센터장</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215176.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;법무법인 태평양 국제조세·투자센터. 《사진=법무법인 태평양》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)이 급변하는 글로벌 조세 환경 변화와 복잡해지는 크로스보더 투자 이슈에 대응하기 위해 ‘국제조세·투자센터(KITIC, Korea International Tax &amp; Investment Center)’를 출범했다.&lt;br /&gt;&lt;br /&gt;최근 국제조세는 기업의 투자구조, 규제대응, 외환관리, 분쟁 가능성까지 동시에 고려해야 하는 핵심 경영 리스크로 부상하고 있다. 경제개발협력기구(OECD)의 다국적기업 조세회피(BEPS) 프로젝트와 글로벌 최저한세(Pillar 2) 도입, 각국 과세당국의 조사 강화 역시 기업의 전략적 의사결정에 직접적인 영향을 미치고 있다.&lt;br /&gt;&lt;br /&gt;태평양 국제조세·투자센터는 이러한 변화에 맞춰 외국 기업의 국내 투자(Inbound)와 국내 기업의 해외 진출(Outbound) 전 과정의 리스크 관리와 전략적 투자에 대한 원스톱 서비스를 제공한다. 투자 초기 단계의 최적 투자 구조 설계·조세 감면 검토, 운영 단계의 이전가격(TP) 정책 수립·글로벌 최저한세 대응·관세·외환 컴플라이언스 자문, 세무조사 및 분쟁 대응, 철수 단계에서의 자산 처분 및 자금 회수 전략까지 지원할 방침이다.&lt;br /&gt;&lt;br /&gt;센터는 법무, 조세, 관세, 외환 전문가가 유기적으로 협업하는 다학제적(Multi-disciplinary) 체계를 갖추고, 반도체, 배터리, IT, 바이오 등 주요 산업별 맞춤형 솔루션을 제공한다. 전 세계 주요 로펌 및 회계법인과의 글로벌 네트워크도 활용한다.&lt;br /&gt;&lt;br /&gt;센터장은 국제조세 및 세정 분야 전문가인 김명준 고문(전 서울지방국세청장)과 이경근 고문(전 법무법인 율촌 조세자문부문장)이 공동으로 맡았다.&lt;br /&gt;&lt;br /&gt;주요 구성원은 태평양 조세그룹의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8415"&gt;유철형&lt;/span&gt;(사법연수원 23기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14723"&gt;장성두&lt;/span&gt;(36기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="24927"&gt;방진영&lt;/span&gt;(변호사시험 1회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="27743"&gt;박창수&lt;/span&gt;(변시 4회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="41366"&gt;빈은솔&lt;/span&gt;(변시 8회) 변호사를 비롯해 김태균·이은홍 회계사, 김용수·송병호 세무사, 조민경·박희윤 외국변호사, 제레미 에버렛 외국회계사 등으로 구성됐다.&lt;br /&gt;&lt;br /&gt;경제·외교 통상 전문가도 함께한다. 기획재정부 차관 및 OECD 대사, 국제통화기금(IMF) 시니어 이코노미스트를 지낸 허경욱 고문, 외교부 제1차관 출신 임성남 고문, 국제통상 분야 권위자인 최병일 고문과 함께 국세청 차장 출신 이전환 고문, 관세청 차장 출신 이찬기 고문이 전략적 자문을 제공한다.&lt;br /&gt;&lt;br /&gt;김명준·이경근 공동 센터장은 “국제조세는 기업의 투자 판단과 사업 전략 전반에 영향을 미치는 핵심 리스크”라며 “센터는 고객이 가장 어렵고 복잡한 의사결정을 내려야 하는 순간 함께 판단하고 책임지는 파트너로서 성공적인 투자를 이끌어낼 수 있도록 돕는 나침반 역할을 하겠다”고 말했다.</description>
+			<pubDate>Wed, 21 Jan 2026 04:45:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215176</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215176</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215176.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결][단독] 법원, "한국가스공사, 삼성중공업에 3000억 원 지급하라"</title>
+			<description>한국형 LNG 화물창(KC-1)의 설계 결함으로 발생한 막대한 손해에 대해 기술 개발 주체인 한국가스공사가 건조사인 삼성중공업에 약 3000억 원을 지급해야 한다는 판결이 나왔다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 민사20부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9434"&gt;이세라&amp;nbsp;&lt;/span&gt;부장판사)는 1월 16일, 삼성중공업(소송대리인 &lt;b&gt;&lt;a href="https://www.kimchang.com/ko/main.kc" target="_blank"&gt;김·장 법률사무소&lt;/a&gt;&lt;/b&gt;&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6697"&gt;변동열&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="4777"&gt;신원일&lt;span style="font-weight: 400;"&gt;·&lt;/span&gt;홍진호&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="28754"&gt;김동평&lt;/span&gt;)이 한국가스공사를 상대로 제기한 구상금 청구 소송(&lt;b&gt;2024가합63098&lt;/b&gt;)에서 가스공사의 책임을 인정하며 "가스공사는 삼성중공업에 2996억 원 및 이자를 지급하라"고 판결했다.&lt;br /&gt;&lt;br /&gt;사건은 가스공사가 주도해 개발한 한국형 LNG 화물창 기술인 'KC-1'이 탑재된 LNG 운반선에서 콜드스팟 현상이 발견되면서 시작됐다. 콜드스팟은 선체의 온도가 허용 범위보다 낮아지는 결함으로, 이로 인해 선박의 안전한 운항이 불가능해졌다. &lt;br /&gt;&lt;br /&gt;삼성중공업은 해외 중재 재판 결과에 따라 선주사 측에 선박 가치 하락분 등 약 3964억 원의 손해배상금과 276억 원의 합의금을 지급했다. 이후 가스공사의 설계에 부실이 있다며 구상금 소송을 제기했다. &lt;br /&gt;&lt;br /&gt;재판부는 "한국가스공사는 KC-1 기술의 실질적 개발자이자 제공자로서 하자 없는 설계를 제공할 주의의무가 있음에도 이를 게을리했다"며 불법행위에 따른 손해배상 책임을 인정했다. &lt;br /&gt;&lt;br /&gt;다만 삼성중공업의 책임도 일부 인정해 가스공사의 배상 범위를 손해액의 70%로 제한했다.</description>
+			<pubDate>Wed, 21 Jan 2026 04:40:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215178</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215178</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 도아·메가MGC커피 가맹점주협의회 MOU 체결...단체협상 등 지원</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215174.jpg" alt="215174.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;협약식에서 기념촬영을 하고 있는 박종명 법무법인 도아 대표변호사(왼쪽)와 추승일 메가MGC커피 가맹점주협의회장.《사진=법무법인 도아》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 도아(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13889"&gt;박종명&lt;/span&gt;)가 1월 15일 서울 종로구 안국동 법무법인 도아 안구분사무소에서 메가MGC커피 가맹점주협의회(회장 추승일)와 가맹점주 권익보호를 위한 업무협약(MOU)을 체결했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;양측은 이날 협약식을 열고 가맹사업법 개정에 따른 법률 자문과 분쟁 대응, 점주 복지 증진 등에 협력하기로 했다. 개정 가맹사업법은 가맹점주단체의 법적 지위와 협상권을 대폭 강화하는 내용을 담고 있다. 이번 협약에 따라 가맹점주협의회는 본사와의 협상 과정에서 전문적인 법률 지원을 받을 수 있게 됐다.&lt;br /&gt;&lt;br /&gt;구체적으로 △가맹본부와의 단체 협상 법률 자문 △차액가맹금 및 부당 판촉비 전가 등 불공정 거래 행위에 대한 대응 △가맹사업 관련 최신 법령 및 공정거래위원회 정책 트렌드 분석 제공 등을 지원 받는다. &lt;br /&gt;&lt;br /&gt;법무법인 도아는 최신 판례와 공정거래위원회 가이드를 분석해 계약상 근거 없는 차액가맹금 수취 여부를 검토하고, 부당한 부분이 발견될 경우 단체 협상을 통한 시정 요구나 반환 소송 등 단계별 법률 대응을 진행할 계획이다.&lt;br /&gt;&lt;br /&gt;정기적인 법률 세미나 개최와 점주 전용 법률 상담 창구 개설도 추진하기로 했다. 세미나에서는 가맹사업법 개정 내용, 최신 판례 동향, 본사와의 협상 전략 등을 다룰 예정이다.&lt;br /&gt;&lt;br /&gt;이날 협약식에는 양측 임원진 10여 명이 참석했다. 추승일 메가MGC커피 가맹점주협의회 회장은 "그동안 본사와의 정보 비대칭성으로 인해 정당한 권리를 요구하는 데 한계가 있었다"며 "법무법인 도아와의 협력을 통해 점주들이 안심하고 영업에만 전념할 수 있는 공정한 상생 환경을 만들겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13889"&gt;박종명&lt;/span&gt;(사법연수원 35기) 대표변호사는 "가맹사업의 핵심은 본사와 점주의 동반 성장이며, 그 기초는 투명한 계약과 법 규정 준수"라고 말했다. 이어 "차액가맹금 소송 등 최근의 법적 트렌드를 면밀히 분석해 실질적인 승소와 권익 개선 결과를 도출할 것"이라고 덧붙였다.</description>
 			<pubDate>Wed, 21 Jan 2026 01:37:10 -0000</pubDate>
@@ -209,34 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/215164</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215164</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215164.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 위온, 법무법인 채움과 합병… 이영훈 서울남부지검 검사 합류</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215163.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;법무법인 위온이 2025년 12월 19일 법무법인 채움을 흡수합병했다고 1월 20일 밝혔다. 이에 따라 채움에서 근무하던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="23932"&gt;방민주&lt;/span&gt;(변호사시험 1회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="23995"&gt;윤광훈&lt;/span&gt;(변시 1회) 변호사와 김철 미국변호사 등이 위온에 합류해 각각 경영권 분쟁·프랜차이즈, 지식재산권·IT·공공조달, 기업법무 자문 업무를 수행할 예정이다.&lt;br /&gt;&lt;br /&gt;또 최근까지 서울남부지검 금융조사부에서 근무하던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32187"&gt;이영훈&lt;/span&gt;(변시 6회) 검사도 변호사로 개업해 위온에 합류했다. 경찰대학을 수석 졸업한 이 변호사는 금융범죄와 마약 등 형사사건을 주로 다뤄왔다.&lt;br /&gt;&lt;br /&gt;위온은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="38057"&gt;손원우&lt;/span&gt;(변시 6회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="36429"&gt;곽중혁&lt;/span&gt;(변시 5회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="34192"&gt;전병모&lt;/span&gt;(변시 5회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="36283"&gt;박찬호&lt;/span&gt;(변시 6회) 변호사 등 젊은 변호사들이 주축이 돼 2023년 3월 설립된 법무법인이다. 설립 이후 지속적으로 사세를 확장해 왔으며, 현재 서울을 비롯해 대구와 울산에도 분사무소를 두고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="38057"&gt;손원우&lt;/span&gt;&amp;nbsp;대표변호사는 경북고와 서울대 법대, 서울대 로스쿨을 졸업했다. 법무법인 율촌 등에서 근무했으며, 현재 대한변협 법제위원회 위원과 민주평화통일자문회의 자문위원으로 활동하고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="36429"&gt;곽중혁&lt;/span&gt;&amp;nbsp;대표변호사는 협성고와 서울대 법대, 서울대 로스쿨을 졸업했다. 대통령실 법률비서관실 행정관으로 근무한 뒤 법무법인 지평과 법무법인 태평양 등에서 활동했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34192"&gt;전병모&lt;/span&gt;&amp;nbsp;대표변호사는 대원외고와 연세대 경영학과, 서울대 로스쿨을 졸업했다. 국민권익위원회와 대한법률구조공단, 법무부에서 법무관으로 근무했으며, 이후 법무법인 율촌에서 활동했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="36283"&gt;박찬호&lt;/span&gt;&amp;nbsp;대표변호사는 충북과학고와 KAIST 기계공학과를 졸업하고 서울대 로스쿨을 나왔다. 법무부 법무관과 제주출입국외국인청 법무관으로 근무했으며, 법무법인 율촌에서도 활동했다.</description>
-			<pubDate>Tue, 20 Jan 2026 07:51:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215163</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215163</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215163.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '블랙요원 명단 유출' 정보사 군무원, 징역 20년 확정</title>
-			<description>북한 정보를 수집하는 블랙 요원의 명단을 유출한 전 국군정보사령부 공작팀장(군무원) A 씨가 징역 20년을 확정받았다. 대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8024"&gt;이흥구&amp;nbsp;&lt;/span&gt;대법관)는 2025년 12월 11일 A 씨의 상고를 기각했다(&lt;b&gt;2025도13775&lt;/b&gt;). 이로써 군형법상 일반 이적 등 혐의로 A 씨에게 징역 20년을 선고한 원심(항소심)이 확정됐다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;군 검찰은 2024년 A 씨를 기소했다. 군 검찰에 따르면 A 씨는 2017년 중국 정보기관 소속 인물로 추정되는 B 씨에게 포섭됐다. A 씨는 2019년부터 블랙 요원 명단 일부와 정보 부대 작전 계획 등을 B 씨에게 유출했다. 범행 대가로 A 씨는 B 씨에게 2억7852만 원을 요구해 1억6205만 원을 수수했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심(군사법원)은 A 씨에게 징역 20년, 벌금 12억 원, 추징금 1억6205만 원을 선고했다. 1심은 "A 씨가 국가 안보에 심각한 위험을 초래할 수 있는 군사 기밀을 유출했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;항소심은 1심 판결을 유지하면서 벌금만 10억 원으로 감형했다. 일부 뇌물 요구 행위가 중복 산정됐다는 이유였다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단] &lt;/b&gt;&lt;br /&gt;대법원은 A 씨의 상고를 기각하고, 원심 판결을 확정했다. 대법원은 "원심 판단에 자유심증주의의 한계를 벗어나거나 법리를 오해한 잘못이 없다"고 판시했다.</description>
-			<pubDate>Tue, 20 Jan 2026 07:42:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215093</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215093</guid>
-			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>2027학년도 법학적성시험 7월 19일 시행...원서접수 5월 26일부터</title>
-			<description>법학전문대학원협의회(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6014"&gt;홍대식&lt;/span&gt;)가 2027학년도 법학적성시험(Legal Education Eligibility Test, LEET)을 7월 19일에 시행한다고 19일 밝혔다.&lt;br /&gt;&lt;br /&gt;원서접수 기간은 5월 26일 오전 9시부터 6월 4일 오후 6시까지다. 법학적성시험 홈페이지에서 온라인으로만 접수를 받는다.&lt;br /&gt;&lt;br /&gt;시험은 △서울 △수원·용인 △부산 △대구·경산 △광주 △전주△대전·청주 △춘천 △제주 등 9개 지구에서 실시되며, 수험생은 원서 접수 시 하나의 지구를 선택해야 한다. 원서접수 기간 이후에는 시험 지구 변경이 불가하다.&lt;br /&gt;&lt;br /&gt;춘천과 제주를 제외한 다른 지구에서는 수험생 편의를 위해 원서접수 시 응시 희망 학교를 선택하도록 하고 있다. 다만, 수용인원에 따라 원하는 장소에 배정되지 않을 수 있다. 응시 학교 배정은 7월 1일 수험표 출력 시에 확인할 수 있다.&lt;br /&gt;&lt;br /&gt;성적 발표는 8월 18일 오전 10시로 예정돼 있다.</description>
-			<pubDate>Tue, 20 Jan 2026 07:18:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215162</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215162</guid>
 			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
