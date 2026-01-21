@@ -13,6 +13,118 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>월세 밀려 ‘명도 집행’ 하자… 건물과 몸에 휘발유 뿌린 50대 </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/21/GGSNWBXZX5BQLGUOR4ZXKRS6RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/GGSNWBXZX5BQLGUOR4ZXKRS6RE/</guid>
+      <dc:creator>남양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 03:05:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDNCUY2V5VHRVGG3RJA3EMRBNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남양주남부경찰서 전경./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명도(明度) 집행에 저항하기 위해 몸에 휘발유를 뿌리고 경찰과 대치하던 50대가 붙잡혔다. 명도 집행은 법원이 ‘나가라’는 판결이나 명령을 점유자가 버틸 경우 부동산을 실제로 비워서 소유자에게 넘겨주는 강제 절차다. &lt;br&gt;&lt;br&gt;경기 남양주남부경찰서는 현주건조물방화예비 혐의로 50대 A씨를 붙잡아 조사 중이라고 21일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 지난 20일 오후 1시쯤 남양주시의 한 상가주택 건물에서 법원 집행관들이 명도 집행을 시도했다. &lt;br&gt;&lt;br&gt;이에 이 건물에 가족과 거주하고 있던 A씨는 건물 입구를 차로 막고 자기 몸과 건물에 휘발유를 뿌리며 저항했다. 이 과정에서 화재나 인명 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;약 30분 동안 건물 안에서 버티던 A씨는 경찰관들의 설득으로 스스로 나왔다. &lt;br&gt;&lt;br&gt;A씨는 거주하던 집 월세가 체납되며 명도 소송이 집행되자 이에 반발해 범행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이날 A씨에 대한 구속영장을 신청할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한덕수 재판서 위증’ 尹측, 혐의 부인... “특검 기소 근거는 韓 발언뿐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/21/JVBEWOS2HVESNB256XBE4OQRH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/JVBEWOS2HVESNB256XBE4OQRH4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 03:16:08 +0000</pubDate>
+      <content:encoded>작년 11월 한덕수 전 국무총리의 내란 혐의 재판에서 위증한 혐의로 기소된 윤석열 전 대통령 측이 21일 첫 재판에서 혐의를 부인했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 한 전 총리 재판에 증인으로 출석해 “한 전 총리가 건의하기 전부터 비상계엄 선포를 위한 국무회의를 계획했다”는 취지로 증언했는데, 특검은 계엄 선포 시각이 당초 2024년 12월 3일 오후 10시에서 10시 27분으로 미뤄진 점 등을 근거로 윤 전 대통령이 한 전 총리 건의를 받은 뒤 뒤늦게 국무회의를 소집했다고 본다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYDEMTGMIYTOZLDMY3GGYRXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난해 11월 19일 오후 서울 서초구 서울중앙지방법원에서 열린 한덕수 전 국무총리의 내란 재판에 증인으로 출석한 모습./서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련해 윤 전 대통령 측은 이날 서울중앙지법 형사32부(재판장 류경진)에서 열린 위증 혐의 첫 공판 준비 기일에서 혐의를 부인하며 “한 전 총리의 건의를 받기 전에도 국무회의를 개최할 의사를 갖고 국무위원들을 소집했다”고 말했다. 그러면서 “검찰이 위증을 주장하는 논거는 한 전 총리의 말뿐”이라고 했다.&lt;br&gt;&lt;br&gt;한 전 총리는 지난해 11월 24일 재판에서 “국무위원 의견을 들어보라는 취지로 윤 전 대통령에게 국무위원 소집을 건의했느냐”는 특검 질문에 “네”라고 답했다. 건의 배경에 대해선 “좀 더 많은 국무위원이 와서 반대 의견을 밝혀야 한다고 생각했다”고 설명했다. 한 전 총리는 계엄 선포 직전 윤 전 대통령이 “비상계엄은 고도의 통치 행위라 굳이 국무회의를 거칠 필요가 없다”고 말했다는 입장이다.&lt;br&gt;&lt;br&gt;재판부는 “윤 전 대통령의 법정 발언 자체는 녹취록이나 법정 증인 신문 조서로 확인이 될 것”이라며 “해당 발언이 위증인지 여부에 대한 법적 공방만 남은 것 같다”고 했다. 윤 전 대통령이 계엄 선포 전 국무회의를 거쳐 선포할 생각이었는지 여부에 대한 해석만 따져보면 된다는 얘기다.&lt;br&gt;&lt;br&gt;재판부는 내달 26일 한 차례 더 준비 기일을 열어 특검과 윤 전 대통령 측의 주장을 확인하기로 했다. 이후 4월 16일 정식 재판을 열어 양측이 제출한 증거를 조사한 뒤, 변론을 마치겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정교유착 합수본, 신천지 이만희 전직 경호원 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/21/4VYCGWWAIVAKNEWSLKH52KZ6DA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/4VYCGWWAIVAKNEWSLKH52KZ6DA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 01:57:10 +0000</pubDate>
+      <content:encoded>통일교와 신천지 관련 정교 유착 의혹을 수사하는 검경 합동수사본부(합수본)가 21일 신천지 이만희 총회장의 전직 경호원을 소환 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZDSMRTMMZDQM3CHEZGIYZXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교와 신천지의 정교유착 의혹을 수사하는 합동수사본부를 이끌게 된 김태훈 본부장이 지난 8일 오전 서울 서초구 서울고등검찰청으로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 합수본은 이날 오전 10시부터 이 회장의 경호원을 지낸 이모씨를 참고인으로 소환 조사 중이다. 이씨는 신천지 회장의 경호 조직인 ‘일곱 사자’의 일원으로서 이 회장을 지근거리에서 수행한 인물이다. 이날 9시 57분쯤 서울고검 청사에 도착한 이씨는 당원 가입 의혹에 대해 “주로 요한지파장과 청년회장 등의 지시를 받았다”며 “가입자 명부를 오늘 제출할 것”이라고 했다.&lt;br&gt;&lt;br&gt;합수본은 이씨를 상대로 이 회장을 경호하는 과정에서 국민의힘 당원 가입이나 신천지 본부의 후원금 모집 정황을 어떻게 인지하게 됐는지 등을 캐물을 예정이다.&lt;br&gt;&lt;br&gt;합수본은 신천지 전직 간부들을 연일 참고인으로 불러 조사하고 있다. 지난 19일에는 내부 횡령 의혹을 제기한 전직 지파(지역)장 최모씨와 조모씨 등을 불러 조사했고, 전날에는 신천지 청년회장 출신 차모씨를 소환했다. &lt;br&gt;&lt;br&gt;신천지는 2021년 신도들을 조직적으로 동원해 국민의힘 경선에 개입했다는 이른바 ‘10만 신도 당원설’ 의혹을 받고 있다. 또 신천지는 앞서 이명박·박근혜 전 대통령이 당선된 대선 당시에도 교인들을 조직적으로 국민의힘 진영에 당원으로 가입시켜 당내 경선에 개입했다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이번에는 꼭 사야지” 했더니…‘21억원’ 연금복권 당첨 ‘대박’</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/21/V7BZPNCKGNHPTIE725I7R6CAZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/V7BZPNCKGNHPTIE725I7R6CAZQ/</guid>
+      <dc:creator>정채빈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 02:05:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3CSML45JRBWDM5EHBFFH3G2V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연금복권720+ 제295회차 당첨자./동행복권&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매주 로또와 연금복권을 구매하던 남성이 결국 연금복권 1·2등에 동시 당첨됐다.&lt;br&gt;&lt;br&gt;최근 동행복권 홈페이지에는 연금복권 720+ 제295회차에서 1등 1매와 2등 4매에 동시 당첨된 후기가 올라왔다. 해당 회차는 지난달 25일에 추첨됐다.&lt;br&gt;&lt;br&gt;A씨는 대구광역시 달서구 본리동의 한 복권 판매점에서 해당 복권을 구매했다. &lt;br&gt;&lt;br&gt;그는 “복권 판매점이 보이면 일주일에 한 번씩 로또와 연금복권을 구매하고 있다”며 “어느 날 ‘이번에는 꼭 사야겠다’는 생각이 들어 복권을 구매했다”고 밝혔다. 이어 “며칠 후 집에서 복권을 확인하다가 놀랍게도 1·2등에 동시 당첨이 됐다”고 말했다. &lt;br&gt;&lt;br&gt;A씨는 당시 “너무 놀란 나머지 1~2분간 몸이 굳은 듯 움직이지 못했다”며 “목소리도 나오지 않고 심장만 빠르게 뛰었다”고 했다. 그는 “배우자도 처음에는 실감 나지 않아 별다른 반응을 보이지 않다가 이내 함께 기뻐했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 당첨금을 “대출금 상환과 양가 부모님 생활비 지원에 사용할 예정”이라고 밝혔다. 그러면서 “새해 복 많이 받으세요. 열심히 살겠습니다”라는 소감을 덧붙였다.&lt;br&gt;&lt;br&gt;연금복권 720+는 1등은 20년간 매월 700만원씩, 2등은 10년간 매월 100만원씩 연금 형식으로 당첨금을 수령한다.&lt;br&gt;&lt;br&gt;해당 복권은 조 번호와 숫자 6자리를 포함한 총 7자리를 맞춰야 한다. 보통 1세트당 5장으로 판매되는데, 모든 조를 같은 번호로 구매해 당첨되면 1등 1장과 2등 4장에 동시 당첨되는 방식이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI 활용 법률구조 통합시스템 서비스 시작</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/21/BFGCHEFNJJDK7PZV76C7BXC7YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/BFGCHEFNJJDK7PZV76C7BXC7YQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 00:58:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4WIMZZGZQWIZJYMVRTGY3DMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 21일 법률구조 서비스 통합시스템을 구축해 ‘법률구조 플랫폼’(www.helplaw24.go.kr) 서비스를 선보였다고 밝혔다.&lt;br&gt;&lt;br&gt;법률구조 플랫폼은 대한법률구조공단, 한국가정법률상담소 등 35개 기관의 법률구조 서비스를 하나의 플랫폼에서 이용할 수 있도록 했다. 이용자는 ‘나의 서비스 찾기’에서 주제별로 서비스 제공 기관과 서비스 내용을 확인할 수 있고, ‘법률복지지도’에서 가까운 서비스 제공 기관을 찾아볼 수 있다. 또한 각종 법률 서식, 법률 상담·법률구조 사례도 검색해 확인할 수 있다.&lt;br&gt;&lt;br&gt;또한 이용자가 자신의 법률 고민을 물어보면, AI가 플랫폼에 참여한 35개 기관의 기존 사례를 바탕으로 이용자의 상황에 맞는 여러 유형의 서비스를 제안한다. 법률 상담이 필요할 때는 자신의 상황에 맞는 면접·화상·전화·사이버 등 상담 채널을 선택할 수 있고, 대한상사중재원의 사이버상담 신청도 가능하다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “법률구조 플랫폼이 차질 없이 운영되고, 국민이 원하는 서비스를 편리하고 신속하게 이용할 수 있도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GUYGINJSMJSDONZVGYYTGZDFG4.jpg?auth=5eb9b6590fb5cd689fef628806bf9411fd8dab78a302dbdc7cfe4f15e9a2a4cc&amp;smart=true&amp;width=2446&amp;height=1631" type="image/jpeg" height="1631" width="2446">
+        <media:description type="plain">경기 정부과천청사 법무부./뉴스1 ⓒ News1 안은나 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">NEWS1 AHN EUN NA</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘9명 사상 울산화력 붕괴’ HJ중공업 대표 등 6명 구속영장 기각</title>
+      <link>https://www.chosun.com/national/regional/2026/01/21/DRNLDSAFNNGBZA3CKCKPJPZ6UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/21/DRNLDSAFNNGBZA3CKCKPJPZ6UU/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 01:10:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4W53NXXA3JHDFFO5X3VRMCUWN4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 6일 오후 울산 남구 용잠로 동서발전 울산화력발전소에서 붕괴 사고가 발생해 소방 당국이 구조 작업에 나서고 있다. 이 사고로 근로자 7명이 숨지고 2명이 다쳤다./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 11월 사상자 9명이 발생한 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고와 관련해 시공사인 HJ중공업과 발파 전문 하도급업체 코리아카코 대표이사 등 6명에 대한 사전구속영장이 모두 기각됐다.&lt;br&gt;&lt;br&gt;울산지법은 21일 구속 전 피의자 심문(영장실질심사)에서 도주나 증거 인멸 우려가 없는 점, 피의자들에게 방어권 보장이 필요한 점, 유족과 합의한 점 등을 참작해 사전구속영장을 기각했다.&lt;br&gt;&lt;br&gt;앞서 울산경찰청은 16일 업무상 과실치사상, 부산고용노동청은 중대재해처벌법·산업안전보건법 위반 혐의 등으로 김완석 HJ중공업 대표와 석철기 코리아카코 대표, 현장 책임자와 관리자 등 6명에 대한 사전구속영장을 신청했다.&lt;br&gt;&lt;br&gt;현장 책임자들은 보일러 타워 해체 공사를 시방서와 다르게 진행하거나, 안전하지 않은 방법으로 시행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;대표이사들은 현장 위험성을 제대로 살피지 않거나 안전 조치하지 않은 혐의다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “검찰, 고용노동청과 논의 후 구속영장 재신청을 검토할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이와 별도로 발주처인 동서발전 울산화력발전소 해체공사 관련자 3명도 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;지난해 11월 6일 오후 2시 2분쯤 울산화력발전소에선 해체 준비 작업 중인 높이 63ｍ, 가로 25ｍ, 세로 15.5ｍ 규모의 보일러 타워 5호기가 무너졌다.&lt;br&gt;&lt;br&gt;이 사고로 작업자 9명 중 7명이 매몰돼 모두 숨졌고, 2명은 매몰 직전 자력으로 탈출했으나 중경상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘김병기 아내 법인카드 유용’ 의혹 사건 재배당</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/21/E3ACVT3TZ5C65E7JEIEI6IDIRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/E3ACVT3TZ5C65E7JEIEI6IDIRA/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 00:45:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYDANZTGI2WMMRQGY4TAMRTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기(서울 동작갑) 의원이 지난 19일 서울 여의도 국회 소통관에서 당 윤리심판원의 제명 결정에 대한 입장을 밝히는 기자회견을 마치고 지하주차장으로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 김병기(서울 동작갑) 의원 배우자의 법인카드 유용 의혹 사건 담당 부서를 변경했다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울중앙지검은 반부패수사1부(부장 이희찬)에 있던 김 의원 배우자 사건을 지난 12일 공공수사2부(부장 송봉준)로 재배당했다. &lt;br&gt;&lt;br&gt;공공수사2부는 선거 사건 전담 부서로서, 현재 서울경찰청 공공범죄수사대가 수사 중인 김 의원의 공천 헌금 의혹 및 김 의원 배우자 이모씨의 법인카드 유용 의혹 사건에 대한 경찰 신청 영장의 청구 등을 맡고 있다.&lt;br&gt;&lt;br&gt;이씨는 2022년 7~9월 당시 동작구의회 조진희 부의장의 업무 추진용 법인카드를 들고 다니며 식사비 등으로 수백만원을 썼다는 혐의를 받고 있다. 이와 관련해 이씨와 조 전 부의장은 작년 4월 동작경찰서의 내사를 받았다. 당시 동작서가 무혐의 의견을 보고하자, 서울경찰청이 3차례 보완수사를 지시한 것으로 알려졌다. 하지만 동작서는 4개월 뒤 결국 무혐의로 내사를 종결했다. 이 과정에서 김 의원이 윤석열 정권의 실력자였던 C 의원을 통해 수사를 무마했다는 의혹도 나왔다.&lt;br&gt;&lt;br&gt;검찰도 조씨의 업무상 횡령 혐의 등의 첩보를 입수해 별도 내사에 착수해 2024년 5월 사건을 서울중앙지검 수사1과에 배당했고, 작년 7월 반부패수사1부가 사건을 송치받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“설악산 유리다리 어떻게 가나”… 가짜뉴스에 공원사무소 업무 마비</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/21/A2J326UW2ZAKLPLJAYXIMLNCMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/A2J326UW2ZAKLPLJAYXIMLNCMY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 00:43:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZ7LZNKYQBCLJAKUO4QV7R3YPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘세계에서 가장 위험한 설악산의 다리’ 등의 제목으로 게시된 가짜 영상./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설악산에 유리 다리가 생겼다는 가짜 뉴스가 유튜브를 통해 확산하면서 설악산국립공원사무소가 업무에 차질을 빚고 있다. &lt;br&gt;&lt;br&gt;21일 설악산국립공원사무소에 따르면 “설악산에 유리 다리가 생겼냐” “어디로 가면 볼 수 있느냐”는 등의 문의 전화가 최근 잇따르고 있다. &lt;br&gt;&lt;br&gt;이는 작년 연말 유튜브 쇼츠에 ‘세계에서 가장 위험한 설악산의 다리’라는 제목으로 올라온 17초짜리 영상 때문이다. 영상에는 차량들이 산과 산을 잇는 긴 도로를 달리고 등산객들은 아슬아슬하게 유리 다리를 건너는 모습이 담겼다. “이 다리는 해발 600m 높이에 떠 있고 기둥이나 케이블이 없어 다리가 흔들릴 정도다” 등의 가짜 정보를 포함한 음성도 나온다. &lt;br&gt;&lt;br&gt;이를 그대로 베낀 ‘한국에서 가장 위험한 다리, 설악산 옆에 있다’라는 영상도 비슷한 내용을 담고 있다. 인공지능(AI)을 활용해 생성한 것으로 보이는 이 영상들의 조회 수는 각각 263만회, 174만회에 달한다. &lt;br&gt;&lt;br&gt;영상 댓글에는 ‘가짜 뉴스’ ‘사기’라는 지적이 나왔지만, 영상을 사실로 오인한 일부 네티즌의 문의가 빗발치면서 설악산국립공원의 업무가 마비될 정도라고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OTE5WTGHVFWNDJ3K3GEBQ65GU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘세계에서 가장 위험한 설악산의 다리’ 등의 제목으로 게시된 가짜 영상./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제 설악산국립공원 내에는 현수교나 전망대 등 유리다리 형태의 시설이 존재하지 않는다. 설악산국립공원 측은 “허위 정보에 속아 헛걸음하지 않도록 정확한 내용은 공식 채널을 통해 확인해 달라”고 했다.&lt;br&gt;&lt;br&gt;이처럼 정보성 영상으로 위장한 가짜 AI 뉴스가 한국 유튜브에 퍼지면서 검색 신뢰도 하락, 콘텐츠 품질 저하 등의 문제를 낳고 있다. 한국은 생성형 AI를 이용해 맥락 없이 대량 복제된 저품질 콘텐츠인 ‘AI 슬롭’을 가장 많이 소비하는 국가로 나타났다. AI 영상 편집 플랫폼 카프윙이 작년 11월 국가별 인기 유튜브 채널 상위 100개를 분석한 결과, 한국 기반 AI 슬롭 채널의 누적 조회 수는 84억5000만회로 조사 대상 국가 중 가장 많았다. 2위인 파키스탄(53억회)과 3위인 미국(34억회)을 크게 웃도는 수치다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“더불어민X당” “한남XX” 총선 전 워마드 글…대법 “선거법 위반 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/21/GQAGM65BANDL5G2R73Y7H6FBFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/GQAGM65BANDL5G2R73Y7H6FBFU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 00:35:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2020년 총선을 앞두고 ‘워마드’(급진 여성주의 커뮤니티)에 올라온 남성 비하 게시글에 대해 대법원이 공직선거법 위반이 아니라고 판단했다. 성별 비하·모욕적 표현이 사용됐더라도, 특정 정당이나 후보자 선거에 직접 영향을 미친 게 아니라면 위법으로 볼 수 없다는 취지다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 대법원 1부(주심 마용주 대법관)는 최근 워마드 운영자 A씨가 대전시선거관리위원회를 상대로 낸 ‘정보 삭제 요청 처분 취소’ 소송 상고심에서 원고 패소로 판결한 원심을 깨고 사건을 대전고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;대전선관위는 21대 총선을 앞둔 2020년 4월, 워마드 게시판에 올라온 선거 관련 남성 비하 표현과 욕설이 포함된 게시물 3건에 대해 삭제를 요청했다. ‘선거운동 목적의 특정 성별 비하·모욕 금지’를 규정한 공직선거법 조항(110조 2항)을 위반했다는 이유였다.&lt;br&gt;&lt;br&gt;문제가 된 글은 우파 정당에 대한 지지를 촉구하면서 ‘더불어민X당을 위시한 위성 정당 좌빨들’이라고 한 글, 한 남성이 선거운동을 하던 여성의당 당원에게 돌을 던졌다는 기사를 공유하면서 ‘여성 앞길 방해만 하는 역겨운 한남 X퀴벌레 새끼’라고 쓴 글 등이었다. 그러나 워마드 운영자 A씨는 게시글을 임시로 보이지 않게 차단한 뒤 “정보 삭제 요청은 표현의 자유를 침해한 위법한 처분”이라며 삭제 요청 처분 취소 소송을 제기했다.&lt;br&gt;&lt;br&gt;1·2심은 선관위 손을 들어줬다. 특히 2심 재판부는 “성별 비하 표현이 정당이나 후보자를 지지·반대하는 맥락과 ‘관련’돼 있으면 족하다”며 후보자에게 직접 향하지 않아도 법 위반이 될 수 있다고 판단했다.&lt;br&gt;&lt;br&gt;그러나 대법원 판단은 달랐다. 대법원은 선거법이 금지하는 비하 발언의 요건을 ▲선거운동을 위해 ▲정당·후보자 등과 관련해 ▲특정 성별을 공연히 비하·모욕하는 경우 등 세 가지로 구분한 뒤 이 요건을 모두 충족해야만 위법이라고 판시했다. &lt;br&gt;&lt;br&gt;대법원은 “비하·모욕하는 ‘행위’가 정당·후보자 등과 관련이 있는 것만으로는 부족하고, 그 표현의 ‘내용’ 자체가 정당·후보자 등과 직접적으로 관련이 있어서 그로 인해 특정 후보자의 선거에 영향을 미칠 수 있어야 한다”고 했다. 그러면서 3건의 글은 “정치적 의견 표명과 정당 비판의 성격은 인정되지만 선거운동을 목적으로 특정 후보자와 관련돼 사용된 표현이라고 볼 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 北 무인기 관련 피의자 3명 압수 수색</title>
+      <link>https://www.chosun.com/national/incident/2026/01/21/DZLOWMS7PNDENIA2K2F66ZH5W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/21/DZLOWMS7PNDENIA2K2F66ZH5W4/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 Jan 2026 23:56:02 +0000</pubDate>
+      <content:encoded>민간인들이 북한에 무인기를 침투시켰다는 의혹을 수사 중인 군·경 합동 태스크포스(TF)가 21일 피의자 3명에 대한 압수 수색에 나섰다. TF는 이날 “무인기 사건 관련 민간인 피의자 3명의 주거지 및 사무실에 대해 항공안전법 등 위반 혐의로 압수 수색 영장을 집행하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4GINTFGMYDEOBSGBSWKYRVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문이 지난 10일 인민군 총참모부 대변인 성명을 게재하며 한국 측에서 보냈다고 설명한 무인기 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;TF가 수사하고 있는 민간인 피의자들은 30대 대학원생 오모씨와 그 대학 후배 장모씨, 이들이 창업한 무인기 스타트업에 합류한 김모씨로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 오씨는 지난 16일 채널A 인터뷰에서 “북한 평산군 우라늄 공장으로 인한 방사능 오염 수치를 확인하기 위해 세 차례 무인기를 보냈다”고 밝혔다. 오씨는 대학 후배인 장씨에게 무인기 구매·개량을 부탁했다고도 밝혔다. 두 사람은 2020년 통일 관련 청년 단체를 만들어 함께 활동했고 윤석열 정부 대통령실에서 계약직 뉴스 모니터링 요원으로 근무하기도 했다.&lt;br&gt;&lt;br&gt;이들은 2023년 9월 무인기 스타트업을 공동 창업했다. 장씨가 대표, 오씨가 이사를 맡았다. 김씨도 이 스타트업에서 ‘대북 전문 이사’로 활동했다. 그는 2024년 10월 한 기고문에서 “평양의 방공망이 형편없다는 것이 알려졌기 때문에 자유로운 민간 영역에서의 평양 침투가 더욱 가속화될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“왜 말려”... 말다툼하던 지인 흉기로 찌른 50대 긴급체포 </title>
+      <link>https://www.chosun.com/national/2026/01/21/I33DEDZEEBFFDM4OI37DA2PDKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/21/I33DEDZEEBFFDM4OI37DA2PDKE/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 00:27:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼을 벌인 지인을 흉기로 찌르고 달아난 50대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경남 마산동부경찰서는 21일 살인 미수 혐의로 50대 남성 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;A씨는 이날 0시 46분쯤 창원시 마산회원구 회원동 한 주택에서 B(50대)씨를 흉기로 찔러 살해하려 한 혐의를 받는다. 옆구리 쪽에 부상을 입은 B씨는 현장을 빠져나가 이웃의 도움으로 경찰 신고와 함께 인근 병원으로 옮겨져 치료를 받고 있다. 생명에는 지장이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 범행 직후 도주했다. 신고를 받고 출동한 경찰은 범행 현장 주변 감시카메라(CCTV) 추적 끝에 2㎞ 떨어진 모텔에 숨어있던 A씨를 붙잡았다. A씨는 범행을 시인한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰에 따르면 두 사람은 평소 알고 지내던 동네 선후배 사이다. 범행 전 술을 마신 A씨는 B씨 집을 찾아가 ‘나와 다툰 사람이 있는데, 가만두지 않겠다’며 B씨 집에 있던 흉기를 들고 나가려고 했다고 한다. 이에 B씨가 A씨를 제지하며 말렸고, A씨는 B씨 옆구리를 한 차례 찔렀던 것으로 경찰은 보고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 사건 경위를 조사한 뒤 구속영장을 신청할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음]이도근(뉴시스 충북본부 차장) 씨 모친상</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/01/21/K4I42ERJPRBTTIL7ILALGXZX6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/21/K4I42ERJPRBTTIL7ILALGXZX6A/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 00:28:52 +0000</pubDate>
+      <content:encoded>▲신숙자씨 별세, 이건표(전 단양군수)씨 부인상, 이도근(뉴시스 충북본부 차장)씨 모친상=21일 오전 2시 단양군노인요양병원장례식장 1호실, 발인 23일 오전 8시, (043)423-0044&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>불법 공천헌금 1억 의혹 강선우, 21시간 조사 마쳐</title>
       <link>https://www.chosun.com/national/national_general/2026/01/21/IF4K5XGGLBC3PMPZNJ6IRTDM6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/IF4K5XGGLBC3PMPZNJ6IRTDM6M/</guid>
@@ -758,33 +870,6 @@
       </media:content>
     </item>
     <item>
-      <title>조개 채취 조업하던 60대 잠수부 숨져  </title>
-      <link>https://www.chosun.com/national/2026/01/20/7TBZ57IYTNEZJDPKK73OI4MR2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/20/7TBZ57IYTNEZJDPKK73OI4MR2Q/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 23:49:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3TAYRVMFQWIOBUMRRDSZTDMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원해양경찰서. /창원해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원 해상에서 조업 중이던 잠수부가 숨진 채 발견돼 해경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;20일 창원해양경찰서에 따르면, 지난 19일 오전 11시 23분쯤 창원 진해구 소쿠리섬 인근 해상에서 ’60대 선원 A씨가 물에 빠져 움직이지 않는다’는 신고가 접수됐다. 신고는 A씨와 함께 조업에 나선 3t 잠수기 어선 선장으로 전해졌다. 해경 관계자는 “조개 조업 허가를 받은 어선으로, 확인된다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 구조돼 인근 병원으로 이송됐지만, 낮 12시 9분쯤 사망 판정을 받았다. &lt;br&gt;&lt;br&gt;해경은 A씨가 잠수복을 입고 수중에서 조개 채취 작업을 하던 중 숨진 것으로 보고 목격자 등을 상대로 정확한 사고 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>흉기로 친형 살해, 치매 노모까지 공격… 50대 피의자 “생활고 탓”</title>
-      <link>https://www.chosun.com/national/incident/2026/01/20/SQJABAA3ANCJJNU6NVYPRUPH6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/20/SQJABAA3ANCJJNU6NVYPRUPH6I/</guid>
-      <dc:creator>용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 23:46:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한집에 사는 형을 살해한 뒤 80대 노모까지 살해하려던 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 용인동부경찰서는 살인 및 존속살인 미수 혐의로 50대 A씨를 조사하고 있다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 19일 오후 11시쯤 용인시 처인구의 한 빌라에서 함께 살던 50대 형 B씨를 흉기로 살해한 혐의를 받는다. 같은 집에 있던 80대 어머니 C씨도 흉기로 공격해 살해하려 했으나 미수에 그친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;C씨는 A씨가 휘두른 흉기에 찔린 뒤 밖으로 피신해 인근 편의점에서 경찰에 신고했다. 출동한 경찰은 집 안에서 자해해 크게 다친 상태였던 A씨를 발견해 병원으로 이송했다. 경찰은 현장에서 숨진 B씨 시신도 수습했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “생활고에 시달리다가 극단적인 선택을 했다”는 취지로 진술한 것으로 전해졌다. 숨진 B씨는 정신질환을 앓고 있었고, C씨는 치매가 있다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 병원에서 치료받고 있어 자세한 경위 파악은 아직”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10명 중 1명 꼴… 아무나 못 받는 개근상</title>
-      <link>https://www.chosun.com/national/education/2026/01/20/AQCOOAYI2FEDZHIGGK5XHE7PHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/20/AQCOOAYI2FEDZHIGGK5XHE7PHA/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>이달 초 졸업식을 한 서울 동작구 한 고등학교는 졸업생 222명 가운데 22명(9.9%)만 개근상을 받았다. 2000년대 초만 해도 10명 중 8명꼴로 받았는데, 코로나 때 급감한 뒤 계속 이 상태라고 한다. 학교 관계자는 “예전엔 몸이 아파도 양호실에서 쉬는 한이 있어도 출석은 하자는 분위기가 있었는데 이젠 전혀 그렇지 않다”고 말했다.&lt;br&gt;&lt;br&gt;과거 대부분 학생이 졸업식 때 받았던 개근상이 이제는 소수만 받는 ‘희귀한 상’이 됐다. 학교에 빠짐없이 출석하는 성실함과 책임감이 귀한 덕목으로 받아들여지던 문화가 사라진 탓이다. 해외여행 등으로 학교를 빠지는 애들이 워낙 많아서 오히려 학교에 성실하게 나오는 학생을 ‘개근 거지’라고 폄훼하는 문화까지 생겼다. 특히 코로나를 계기로 ‘아프면 집에서 쉬어야 한다’는 분위기가 자리 잡은 것이 결정적 이유가 됐다. 서울시교육청 관계자는 “요즘 대다수 학교가 학교생활기록부에만 개근 사실을 기재하고, 졸업식 때 수여하는 개근상을 없애는 추세”라고 말했다.&lt;br&gt;&lt;br&gt;이런 현상이 안타깝다는 의견도 많다. 학부모 김모씨는 “졸업식에 갔는데 고작 몇 명만 개근상을 받는 것을 보고 깜짝 놀랐다”면서 “아이들이 앞으로 조금만 힘들면 그만두거나 빠지는 게 습관이 될까 봐 걱정”이라고 말했다. &lt;br&gt;&lt;br&gt;방학이나 졸업식을 앞둔 학기 말에 학교 교육이 제대로 이뤄지지 않는 것이 이런 문화를 확산시켰다는 분석도 있다. 서울의 한 중학생 학부모는 “애가 ‘어차피 학교 가봤자 영화만 보니까 차라리 집에서 학원 숙제하면 안 되느냐’고 조른 적이 있다”면서 “학기 말 교육을 제대로 해야 한다”고 말했다. 실제 시민단체 사교육걱정없는세상이 서울시 일반고 110곳의 고3 학생들의 2023학년도 12월 출결 자료를 분석한 결과, 등교율이 57.3%에 불과했다.&lt;br&gt;&lt;br&gt;아직 개근상에 특별한 의미를 부여하는 학교도 있다. 서울 이화여고는 개근상에만 학교 상징인 배꽃을 붙여 ‘배꽃상’이라고 칭하고 배꽃이 그려진 특별 상품도 준다고 한다. 다음 달 4일 열리는 올해 졸업식에서는 졸업생 395명 중 80명(20%)이 개근상을 받는다. 박혜영 이화여고 교장은 “의외로 학생들이 배꽃상을 가장 자랑스러운 상으로 생각하더라”며 “성실함이나 인내 같은 가치가 희미해지는 요즘 시대에 오히려 희소성이 있어 가치가 크다고 판단하는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 김경 ‘교육위→ 도시위’ 상임위 이동하자 가족 교육업체는 시공사 인수</title>
       <link>https://www.chosun.com/national/incident/2026/01/20/DOANRIOUURBEVHSYYA3ECCL77A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/20/DOANRIOUURBEVHSYYA3ECCL77A/</guid>
@@ -806,48 +891,6 @@
       <content:encoded>2022년 6월 지방선거를 앞두고 당시 더불어민주당 강선우(서울 강서갑) 의원에게 공천 뇌물 1억원을 건넨 혐의를 받는 김경 서울시의원이 최근 경찰 조사에서 “(강 의원 측이) 뚜렷한 이유를 설명하지 않고 갑자기 공천 헌금을 돌려줘 의아했다”는 취지로 진술한 것으로 19일 알려졌다. 김 시의원은 앞선 경찰 조사에서 “2022년 강 의원에게 1억원을 줬고 그해 4월 공천이 확정되고 수개월 뒤 돈을 돌려받았다”고 진술했다. &lt;br&gt;&lt;br&gt;통상 정치권에서 오가는 공천 대가성 뇌물은 공천이 성사되면 반환하지 않는 경우가 많다. 서로 ‘윈윈’한 셈이라 분란이 생길 가능성이 적기 때문이다. 반면 돈을 준 사람이 공천에 탈락했을 때는 뒷말이 날 것을 우려해 반환하는 경우가 적잖다고 한다. 그런데 김경씨는 2022년 4월 22일 강서 제1선거구의 민주당 서울시의원 후보로 단수 공천됐다. 그런데도 강 의원이 나중에 1억원을 반환한 것을 두고는 “컷오프(공천 탈락) 방침을 알게 된 김씨가 1억원을 준 사실을 기자회견을 통해 알리겠다고 압박한 일 때문 아니냐”는 말이 나온다. 강 의원이 김씨에게 제대로 코가 꿰어 공천도 성사시키고 돈도 돌려준 것 아니냐는 얘기다.&lt;br&gt;&lt;br&gt;이번 공천 뇌물 의혹은 지난달 29일 언론 보도로 강 의원과 김병기(서울 동작갑) 의원의 대화 녹음이 공개되며 처음 알려졌다. 2022년 4월 21일 강 의원이 당시 민주당 공천관리위원회 간사였던 김 의원에게 ‘김씨가 컷오프 될 것을 알고 공천 헌금 제공 사실을 폭로하려 한다’는 내용을 상의하는 대화가 담겼다. 김 의원은 김씨 공천에 반대했지만 어찌 된 일인지 그 이튿날 김씨는 단수 공천돼 당선됐다. 선거를 앞두고 김씨가 ‘공천 뇌물’을 폭로할 것을 우려해 김·강 의원 너머 윗선의 힘이 작용한 것 아니냐는 의구심이 제기된다.&lt;br&gt;&lt;br&gt;경찰은 지금까지 김경씨와, 김씨가 강 의원에게 1억원을 제공하는 과정에 연루된 혐의를 받는 강 의원 지역 사무국장 출신 남모씨를 각각 세 차례 불러 조사했다. 그간 김씨는 경찰 조사에서 ‘지방선거를 앞두고 남씨가 먼저 액수까지 특정해 강 의원에게 공천 헌금을 줄 것을 제안했다’는 취지로 진술한 것으로 전해졌다. 반면 남씨는 강 의원과 함께 한 카페에서 김씨를 만났지만 자기는 잠시 자리를 비워 돈이 오간 건 몰랐다는 입장으로 알려졌다. 경찰은 지난 18일 김씨와 남씨의 대질 조사를 추진했지만 김씨가 거부해 이뤄지지 않았다. 경찰은 20일 강 의원을 불러 추가 조사할 계획이다.&lt;br&gt;&lt;br&gt;이런 가운데 경찰은 19일 공천 뇌물 묵인 의혹을 받는 김병기 의원의 아내 이모씨의 동작구의회 법인카드 사적 유용 의혹과 관련해 조진희 전 동작구의회 부의장의 주거지와 사무실, 동작구의회 등 3곳을 압수 수색했다. 이씨는 2022년 7~9월 조 전 부의장의 업무 추진용 법인 카드를 들고 다니며 식사비 등으로 수백만 원을 썼다는 혐의를 받고 있다. 이번 압수 수색은 재작년 4월 이씨의 법인 카드 유용 관련 탄원서를 접수하고 내사에 착수한 서울 동작경찰서가 무혐의로 내사를 종결한 지 17개월 만이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[굿모닝 멤버십] “성실하면 망한다?” 의사·변호사도 위협하는 AI 생존법</title>
-      <link>https://www.chosun.com/national/2026/01/20/5T3FGKX2UJDQHI22EFECWJV2YY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/20/5T3FGKX2UJDQHI22EFECWJV2YY/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;mark class="hl_tblue"&gt;다카이치의 승부수 ⋅ 부자가 될 베짱이 ⋅ 딤섬 사천왕&lt;/mark&gt;&lt;br&gt;&lt;br&gt;오늘 멤버십에서 확인할 키워드입니다. ✉️&lt;br&gt;&lt;br&gt;📅 1월 20일 화요일, 오늘은 지구 반대편 미국에서 ‘새로운 시대’가 열리는 날, 바로 ‘취임식’이 있는 날짜입니다. 1937년 루즈벨트 대통령 이후, 헌법에 따라 미국 대통령의 임기는 1월 20일 정오에 시작되는 것으로 고정되었죠. 케네디가 “국가가 당신을 위해 무엇을 할 수 있는지 묻지 마십시오”라고 외쳤던 그 역사적인 순간도 바로 1월 20일이었습니다.&lt;br&gt;&lt;br&gt;🏛️ 한 나라의 리더가 전 세계를 향해 새로운 비전을 선포하고 엄숙한 약속을 건네는 날. 비록 우리는 그 자리에 없지만, 오늘 하루만큼은 내 삶의 경영자로서 스스로에게 지키고 싶은 단단한 약속 하나를 떠올려보는 건 어떨까요. 거창한 선언이 아니더라도 좋습니다. 회원님의 화요일을 승리로 이끌어줄 통찰과 지혜, 오늘 조선멤버십이 그 &lt;mark class="hl_tblue"&gt;든든한 길잡이&lt;/mark&gt;가 되어드리겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVRYFRATGNGRRK4LKK764LMBBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 35대 대통령 케네디.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🗳️ 지지율 70%의 고공 행진을 달리는 다카이치 사나에 일본 총리가 돌연 국회 해산이라는 주사위를 던졌습니다. 새해 벽두부터 아베 신조 전 총리의 묘역을 참배하며 ‘목숨을 건 정치’를 천명하더니, 2030년까지 이어질 장기 집권의 판을 짜기 시작한 것입니다. 자민당 원로들조차 예상치 못한 이 결단 뒤에는, 앞으로 마주할 트럼프와 시진핑이라는 거대한 외교 상수를 대비하려는 치밀한 계산이 깔려 있습니다.&lt;br&gt;&lt;br&gt;🌪️ 문제는 이 ‘일본발 강풍’이 한반도에 미칠 파장입니다. 필자는 일본의 급변은 늘 한국에 위기였다고 경고하며, 감정이 아닌 철저한 이성으로 대비해야 한다고 강조합니다. 과거사 논쟁을 넘어 오직 ‘힘의 논리’만이 지배하게 될 동북아 정세 속에서, 과연 우리는 어떤 생존 전략을 세워야 할까요? &lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/international/japan/2026/01/20/6LYO7KNGGZGX7CSKPUHBWFXKIE/" target="_self" rel="" title="https://www.chosun.com/international/japan/2026/01/20/6LYO7KNGGZGX7CSKPUHBWFXKIE/"&gt;아베보다 강한 우익… 세습 떼고 실리 택한 다카이치&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNYYOBJCQBNTNMMAESB4RHPXLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 나라 한 매장에 진열된 다카이치 총리 기념풍. /AFP·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🤖 자본주의는 더 이상 당신의 ‘성실함’에 높은 값을 지불하지 않습니다. 그동안 의사, 변호사, 개발자 등 ‘어려운 일’을 하는 전문직이 고소득을 보장받았지만, AI가 등장하며 이 공식이 송두리째 흔들리고 있습니다. 우리가 인간만의 고유한 지적 능력이라 믿었던 계산, 법률 상담, 심지어 예술 창작이 오히려 AI에겐 가장 정복하기 쉬운 영역이었음이 드러났기 때문입니다.&lt;br&gt;&lt;br&gt;🎻 기술적 장벽이 무너진 미래, 끝까지 살아남아 부를 거머쥘 진짜 인재는 과연 누구일까요? 필자는 기계가 결코 흉내 낼 수 없는 ‘감정적 난도’를 견디는 사람, 묵묵히 일하는 ‘개미’보다 즐길 줄 아는 ‘베짱이’가 승자가 될 것이라 역설합니다. 단순한 노동을 넘어, AI 시대에 가장 희소하고 비싼 가치로 평가받게 될 인간의 ‘이 능력’은 과연 무엇일까요.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/money/2026/01/20/ZBYK4PNWS5EILI6RS7U4U3IB6Q/" target="_self" rel="" title="https://www.chosun.com/economy/money/2026/01/20/ZBYK4PNWS5EILI6RS7U4U3IB6Q/"&gt;개미보다 베짱이가 부자 되는 시대&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQ5M6T2WF5AALSCY5Y45FILIJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이세돌 9단이 15일 서울 광화문 포시즌스호텔 특별 대국장에서 진행된 알파고와의 5국에 첫 착수를 하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;♨️ 흔히 ‘딤섬’ 하면 만두를 떠올리지만, 사실 만두는 딤섬의 극히 일부일 뿐입니다. 어묵, 닭발, 심지어 달콤한 디저트까지 수십 가지 요리가 모두 딤섬의 세계에 포함되죠. 수많은 메뉴 앞에서 무엇을 골라야 할지 망설여진다면, 홍콩 사람들이 절대 실패하지 않는다고 손꼽는 ‘딤섬 사천왕’을 기억해 두는 건 어떨까요.&lt;br&gt;&lt;br&gt;👨‍🍳 특히 투명한 새우 만두 ‘하가오’는 주방장의 실력을 가늠하는 척도가 됩니다. 얇은 피에 잡힌 주름의 개수만 봐도 그 식당의 내공을 알 수 있다고 하죠. 영국과 포르투갈의 역사가 섞인 ‘에그타르트’에도 미식가들만 아는 디테일이 숨어 있습니다. 홍콩식과 마카오식, 겉모습은 비슷해 보여도 한입 베어 무는 순간 확연히 갈린다는 결정적 차이를 알려드립니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/culture-life/travel/2026/01/20/GPXGKA7FWJFMXB247EWKNP3N3Y/" target="_self" rel="" title="https://www.chosun.com/culture-life/travel/2026/01/20/GPXGKA7FWJFMXB247EWKNP3N3Y/"&gt;​​딤섬은 만두가 아니다… 얌차의 오해와 진실&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57D7LKGNXZE2BH452ANWNFDJJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/더들스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://members.chosun.com/membership/join/index.html" target="_self" rel="" title="https://members.chosun.com/membership/join/index.html"&gt;&lt;b&gt;조선멤버십 회원이 되시려면 여기 누르세요.&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;💡 &lt;b&gt;오늘의 시리즈&lt;/b&gt; &lt;a href="https://www.chosun.com/membership/" target="_self" rel="" title="https://www.chosun.com/membership/"&gt;멤버십&lt;/a&gt;에서 깊이 있는 콘텐츠를 읽어보세요! &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
-    </item>
-    <item>
-      <title>“왜 자꾸 글자를 빼먹어?” 묻기 전...이야기 흐름부터 붙잡으세요</title>
-      <link>https://www.chosun.com/national/education/2026/01/20/F3SHSI66HJAZ7CL3P5XO7L4LO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/20/F3SHSI66HJAZ7CL3P5XO7L4LO4/</guid>
-      <dc:creator>김다정 초등독서강사·'엄마의 질문력' 저자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 18:00:00 +0000</pubDate>
-      <content:encoded>“눈으로 대충 읽지 말고 제대로 읽어야지!”&lt;br&gt;&lt;br&gt;아이의 손가락이 페이지를 넘기는 속도가 빨라지자, 엄마는 다그칩니다. 천천히 정독하며 읽어야 한다는 걸 알지만 마음은 자꾸 조급해집니다. 답답한 마음에 상담을 요청한 엄마는 이렇게 말합니다.&lt;br&gt;&lt;br&gt;“선생님, 우리 아이가 책 읽을 때 글자를 자꾸 빼먹는 것 같아요. 줄을 건너뛰기도 하고, 분명 있는 단어를 없는 것처럼 읽어요.”&lt;br&gt;&lt;br&gt;엄마의 눈에는 아이가 집중력이 부족해 보입니다. 혹시 읽기에 문제가 있는 건 아닐지 걱정도 따라옵니다. 그래서 책을 제대로 읽었는지 확인하려 들수록 아이의 목소리는 점점 작아집니다. &lt;br&gt;&lt;br&gt;하지만 읽기가 습관화되지 않은 아이들은 책을 읽을 때 모든 글자를 하나하나 짚어가며 읽지 않습니다. 특히 저학년일수록 아이의 뇌는 ‘글자’보다 먼저 ‘의미가 되는 덩어리’를 잡으려 합니다. 이미 이야기를 알고 있거나 맥락이 익숙한 문장이라면, 몇 개의 글자를 건너뛰어도 내용이 이어진다고 느끼는 것이죠. 그래서 줄을 넘기거나 단어를 빼먹는 읽기가 나타나기도 합니다. 이는 집중력이 부족해서라기보다, 이야기를 놓치지 않으려는 아이의 방식에 가깝습니다. 아이는 지금 글자보다 이야기 흐름을 먼저 붙잡고 있는 중입니다. &lt;br&gt;&lt;br&gt;이때, 부모나 교사의 반응이 중요합니다. 글자의 정확성만을 바로잡으려 할수록, 아이는 읽기 자체의 즐거움보다 ‘틀리지 않아야 한다’는 압박을 먼저 느끼게 됩니다. 아이의 읽는 목소리가 점점 작아지고, 책을 펴는 속도도 느려집니다. &lt;br&gt;&lt;br&gt;아이에게 “왜 글자를 자꾸 빼먹고 읽어?”라고 다그치는 대신, 아이의 시선을 다시 이야기로 돌려주는 질문이 아이의 읽기를 이어가게 할 수 있습니다. 예를 들어 “방금 읽은 부분에서 네가 가장 먼저 떠올린 질문은 뭐였어?”, “이 장면에서 중요한 인물은 누구 같아?”라는 질문은 아이에게 이렇게 말해줍니다. ‘너는 지금 이야기를 잘 따라가고 있어.’&lt;br&gt;&lt;br&gt;중요한 것은 아이에게 읽기 감각을 묻는 질문을 통해 읽기 상태를 아이가 말로 꺼내볼 수 있는 여유입니다. “이 문장은 조금 헷갈렸어?”, “빨리 넘어가고 싶었어?”처럼 감각을 묻는 질문에는 정답이 없습니다. 그래서 아이는 자신의 읽기를 솔직하게 설명하기 시작합니다. &lt;br&gt;&lt;br&gt;읽기의 초반 단계에서는 정확성보다 흐름이 먼저입니다. 이야기를 끝까지 따라가고, 읽는 시간이 불편하지 않다고 느낄 때 비로소 글자는 아이의 눈에 다시 들어옵니다. 제가 생각하는 정독은 글자를 하나도 놓치지 않는 읽기가 아닙니다. 이야기를 끝까지 따라가며 의미를 놓치지 않는 것을 의미하죠. 아이들은 글자부터 붙잡으려 하면 읽기를 멈추고, 반대로 이야기를 붙잡아 주면 다시 글자로 돌아올 힘을 얻었습니다. 질문은 정독을 방해하는 도구가 아니라 정독을 가능하게 하는 준비 도구로 훌륭하게 사용될 수 있습니다. &lt;br&gt;&lt;br&gt;아이의 읽기가 불안해 보일수록 엄마가 먼저 한 박자 늦추는 것이 필요합니다. 화내기 전에 질문해 보세요. “이야기는 즐겁게 잘 따라가고 있어?” 그 질문 하나가, 아이의 읽기를 다시 앞으로 나아가게 할 것입니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PRUXWEKN3NHBLBRENI57SNZCGA.gif?auth=30af696698e19e347b100fe2d774db22e8579e12f3ecdb4fd9dcccab92afa11b&amp;smart=true&amp;width=800&amp;height=446" type="image/jpeg" height="446" width="800"/>
-    </item>
-    <item>
-      <title>‘no place like home’...왜 ‘house’는 안쓸까?</title>
-      <link>https://www.chosun.com/national/education/2026/01/20/RT7L5UAY5JCVFKAPX3GI3RWWGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/20/RT7L5UAY5JCVFKAPX3GI3RWWGI/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 18:00:00 +0000</pubDate>
-      <content:encoded>“집만 한 곳은 없어.”&lt;br&gt;&lt;br&gt;영화 ‘오즈의 마법사(The Wizard of Oz)’에 나오는 대사로 유명해진 문구입니다. 주인공 도로시(배우 주디 갈랜드)가 마법의 나라 오즈에서 온갖 모험을 겪은 끝에 집으로 돌아가고 싶어 빨간 구두 뒤꿈치를 톡톡 부딪치면서 주문처럼 되뇌이는 말입니다. 환상의 나라 오즈보다 보잘 것 없는 캔자스의 농장 집이 훨씬 소중하다는 걸 깨달은 거지요. 집은 단순한 물리적 공간이 아니라 사랑하는 사람들과 함께 교감하며 끈끈한 정을 나누는 곳이라는 의미를 담고 있습니다.&lt;br&gt;&lt;br&gt;“집이 최고”라는 비슷한 의미의 표현으로는 “Home sweet home”이 있지요. 1823년 영국 런던에서 초연된 오페라 ‘Clari, or the Maid of Milan’에 삽입된 노래 제목이자 후렴구였습니다. 이후 미국 남북전쟁 시기 등 여러 시대를 거치면서 “역시 집이 최고”라는 뜻의 감탄사이자 관용적 표현으로 전파됐다고 합니다. &lt;br&gt;&lt;br&gt;가수 지드래곤도 ‘홈 스윗 홈(HOME SWEET HOME)’이라는 노래를 발매해 2025년 국내 연간차트 2위를 차지한 바 있습니다. 가족들이 기다리고 있는 도로시의 ‘집’대신, 멤버들과 팬들이 함께하는 무대를 ‘집’으로 표현했지요. 긴 공백기 끝에 자신이 있어야 할 곳은 결국 무대이며, 가장 나를 나답게 하는 진정한 집이라는 메시지를 담았습니다.&lt;br&gt;&lt;br&gt;유사한 뉘앙스의 문장으로는 “Home is where the heart is.”가 있습니다. 직역하면 “집은 마음이 머무는 곳”이라는 뜻으로, 정말 정 붙이고 살 곳은 집밖에 없다는 표현입니다.&lt;br&gt;&lt;br&gt;그런데 왜 “There’s no place like house”가 아니라 “There’s no place like home”이라고 하는 걸까요. 우리말로는 둘 다 ‘집’인데, ‘home’과 ‘house’에는 어떤 차이가 있고, 어떻게 구분해서 써야 하는 걸까요.&lt;br&gt;&lt;br&gt;익히 아시다시피 &lt;mark class="hl_yellow"&gt;house&lt;/mark&gt;는 물리적인 건물 그 자체, 부동산으로서의 집, 감정이 배제된 객관적 공간을 일컫는 단어이지요.&lt;br&gt;&lt;br&gt;이에 비해 &lt;mark class="hl_yellow"&gt;home&lt;/mark&gt;은 가족·추억 등 정서적 애정이 함께 머무는 보금자리를 말합니다.&lt;br&gt;&lt;br&gt;그래서 “나 집에 간다”는 “I’m going home”이라고 하지, “I’m going to my house”라고 하지는 않지요. 물론 문법적으로 틀린 것은 아니고, 말뜻도 이해는 되지만, 단순히 집이라는 건물로 간다는 거니까 적절한 표현이 아니지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUSZYIYASNFONL2S3HVN6GDXPY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 오어진·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2CDRLLLAMBHE3C6JMKFFD7TQVY.jpg?auth=0dbe21c248290032e4fd65623b5abbd7a19a574926485fe2051e811a591d04a1&amp;smart=true&amp;width=1480&amp;height=1080" type="image/jpeg" height="1080" width="1480">
-        <media:description type="plain">배우 주디 갈란드와 빌리 버크가 극중에서 말을 하고 있다. (배급사: 워너 브라더스, 1939)</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>국대 재활 전문가의 관절 관리법은 ‘설렁설렁’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/01/20/SU3MD5WDXBBCHCY7TVUPYL7FBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/20/SU3MD5WDXBBCHCY7TVUPYL7FBA/</guid>
-      <dc:creator>이위재 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 15:43:00 +0000</pubDate>
-      <content:encoded>“몸이 좀 아프다고 아예 움직이지 않으면, 노화는 훨씬 빠르게 진행됩니다. 그렇다고 고통을 참아가며 운동할 필요는 없습니다. 운동은 몸을 괴롭히는 시간이 아니라, 편안함을 회복하는 과정이니까요.”&lt;br&gt;&lt;br&gt;밝은 음악에 맞춰 웃으며 운동 동작을 안내하는 사람이 있다. 영상과 책을 통해 이미 ‘재활 운동계 스타’로 자리 잡은 홍정기(55) 차의과대 스포츠의학대학원 원장. 어렵고 힘든 운동 대신, 누구나 따라 할 수 있는 움직임을 제시한다는 점에서 반응이 뜨겁다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VG7ZI5NZ7FH4ZDTDN6MJSW4C2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍정기 차의과대 스포츠의학대학원 원장. 조선멤버십 연재를 통해 편안하게 운동하면서 건강히 사는 비법을 소개한다.
-/박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그가 최근 조선일보 멤버십에서 ‘리듬으로 통증 리셋’ 연재를 시작했다. 주 5회, 짧은 글과 영상으로 통증에 대한 두려움을 낮추고 노화를 늦추는 방법을 소개한다. 동작은 단순하다. 운동 같지 않게 느껴지지만, 끝나고 나면 몸이 한결 가벼워진다. “나이가 들면 관절이 아픈 건 당연하다고들 생각하죠. 하지만 스포츠 과학과 신경과학은 조금 다르게 봅니다. 먼저 무너지는 건 관절이 아니라 몸의 감각입니다.”&lt;br&gt;&lt;br&gt;그의 문제의식은 현장에서 출발했다. 청소년 국가대표 역도 선수로 활동하며 크고 작은 부상을 반복적으로 겪었다. 그 경험이 재활에 대한 관심으로 이어졌다. 한국체대에서 스포츠의학 석사를 마치고 프로 농구단 트레이너로 일하다, 공부를 더 하려고 미국으로 건너갔다. 오리건주립대에서 운동과학 박사를 받은 뒤 윌라멧대 교수로 재직하며 ‘올해의 교수’로 선정되기도 했다.&lt;br&gt;&lt;br&gt;귀국 후 국민대를 거쳐 차의과대에 자리 잡았다. 한동안 주요 무대는 엘리트 스포츠였다. 김민재, 기성용, 윤성빈 등 정상급 선수들 재활과 컨디션 회복을 책임졌다. 트레이너, 요가·필라테스 지도자, 물리치료사들 사이에서 ‘전문가를 가르치는 전문가’, 이른바 ‘트레이너의 트레이너’로 불린 이유다. 유명인이나 재계 인사들 사이에서도 인기 개인 운동 강사로 통한다.&lt;br&gt;&lt;br&gt;하지만 관심은 점차 다른 쪽으로 이동했다. 선수는 기록이 떨어지면 은퇴를 선택하지만, 일반인은 통증이 시작되는 순간 일상 활동 범위가 줄어든다. 걷는 걸 피하고, 계단을 멀리하며, 결국 삶이 축소된다. 그 차이가 그를 움직였다.&lt;br&gt;&lt;br&gt;홍 원장이 제시하는 해법은 ‘리듬 운동’이다. 특별한 기구도, 넓은 공간도 필요 없다. 집이든 사무실이든 맨손 스트레칭이면 충분하다. 하루 10분, 일주일로 치면 30분 남짓이면 된다. 대신 같은 동작을 매일 반복하는 건 경계. “오늘은 어깨, 내일은 고관절, 그다음 날은 발목. 변화가 관절을 살립니다.”&lt;br&gt;&lt;br&gt;움직일 때 원칙도 분명하다. 힘을 빼고, 여러 관절을 함께 쓰라는 것이다. “통증이 있는 분들에게 과도한 긴장이나 고립된 동작은 도움이 되지 않습니다. ‘설렁설렁’ 느슨해 보일 정도 움직임이 낫습니다.” 여기서 말하는 ‘설렁설렁’은 대충이 아니다. 불필요한 힘을 내려놓고, 관절을 연결하며, 흐름을 되찾으라는 뜻이다. 기준은 “무겁고 정확하게”가 아니라 “가볍게 이어서”다.&lt;br&gt;&lt;br&gt;이 접근은 선수 재활 현장에서 확신으로 굳어졌다. 전방 십자인대 파열이나 근육 손상 이후, 지나치게 조심하는 대신 염증이 가라앉는 시점부터 과거 움직임 패턴을 단계적으로 회복시켰다. 회복 기간은 눈에 띄게 짧아졌고, 부작용은 거의 없었다. 일반인에게도 결과는 같았다. 오랜 허리 통증으로 고생하던 이가 일상에서 편안함을 되찾았고, 보행이 두려웠던 사람은 다시 걷기 시작했다. 새로운 능력을 덧붙인 게 아니다. 이미 갖고 있던 기능을 복원한 결과였다.&lt;br&gt;&lt;br&gt;“‘원래 아픈 거다’, ‘움직이면 더 망가질 것 같다’는 생각이 통증을 고착시킵니다.” 그는 이를 ‘움직임 공포’라고 부른다. 해법은 단순하다. 말로 설득하기보다, 움직임을 통해 몸이 먼저 안전하다고 느끼게 하는 것. “몸이 괜찮다는 신호를 보내면, 마음은 자연스럽게 따라옵니다.”&lt;br&gt;&lt;br&gt;그가 꼽는 노화 관리 ‘골든 타임’은 35~45세다. 이 시기에 생활 루틴을 만들어 두면 80~90대까지 기능을 유지하는 데 유리하다는 판단이다. 다만 ‘너무 열심히’는 금물이다. 하루 한 시간씩 몰아서 하다간 오히려 독이 될 수 있다. 또 하나 피해야 할 습관이 있다. 스마트폰을 보며 하는 운동. “(스마트폰 보면서) 50분을 흘려보내는 것보다, 10분을 온전히 집중하는 편이 훨씬 낫습니다.”&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/tag/rhythm-reset/" target="_self" rel="" title="https://www.chosun.com/tag/rhythm-reset/"&gt;홍정기 리듬으로 통증 리셋&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>大寒에 온 大寒… 오늘 아침 -17도 </title>
       <link>https://www.chosun.com/national/transport-environment/2026/01/20/IEE42CWKS5HMPKPWNIXIK7U47I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/20/IEE42CWKS5HMPKPWNIXIK7U47I/</guid>
@@ -864,16 +907,6 @@
       <description/>
       <pubDate>Mon, 19 Jan 2026 15:46:00 +0000</pubDate>
       <content:encoded>검경 합동수사본부가 수사 중인 신천지 교인의 국민의힘 집단 가입 의혹과 관련해 국민의힘 대선 경선이 있었던 2021년 11월부터 윤석열 전 대통령 재임 기간인 2025년까지 신천지 신도 5만명이 국민의힘에 집단 가입했다는 내부 증언이 나왔다.&lt;br&gt;&lt;br&gt;신천지 지파(지역)장 출신인 A씨는 19일 본지 통화에서 이같이 밝히며 “신천지 본부에서 교인당 1000원씩을 내 투표권이 있는 책임당원에 가입하라고 했다”고 했다. 당시 신천지 신도의 국민의힘 집단 입당 프로젝트는 ‘필라테스’ ‘빨간색 당’이라고 불렸다고 한다. &lt;br&gt;&lt;br&gt;국민의힘에서는 2021년엔 대선 경선, 2022년엔 지방선거 공천, 2023년엔 당대표 경선, 2024년에는 총선 공천이 있었다. &lt;br&gt;&lt;br&gt;A씨는 2021년 대선 경선에서 윤 전 대통령에게 패했던 홍준표 전 대구시장이 주장했던 ‘신천지 10만명 가입설’에 대해서는 “일종의 구호일 뿐이고 현실적으로 가능한 숫자가 아니다”라고 했다. 홍 전 시장은 당시 경선에서 윤 전 대통령이 검찰총장 시절 신천지에 대한 압수 수색을 막아준 대가로 신천지 신도 10만명이 투표권이 있는 책임 당원으로 가입해 윤 전 대통령을 도왔다고 주장했었다.&lt;br&gt;&lt;br&gt;A씨는 또 “이만희 신천지 총회장이 코로나 방역 활동 방해 등의 혐의로 2020년 8월 구속된 후에는 후원비로 20만~50만원씩 교단 본부 측에 납부하라는 공지가 있었다”고도 했다.&lt;br&gt;&lt;br&gt;이와 관련, 합수본은 이날 신천지 내부 고발자인 전 지파장 최모씨와 또 다른 전직 지파장 조모씨를 참고인으로 불러 조사했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“손 잘 씻어야 노로바이러스 안 걸려요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/20/MOA7G4OZMJHP7C35DIHMOPML5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/20/MOA7G4OZMJHP7C35DIHMOPML5Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLNWMS7OJZBNXKAY33EGOHJIHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오전 광주광역시 북구청 직장 어린이집에서 노로바이러스 예방 교육이 열렸다. 아이들이 바이러스를 검출하는 기기 안에 손을 넣어보고 있다. 화면에 손 상태를 보여준다. 노로바이러스 감염증은 겨울철 주로 발생한다. 노로바이러스에 오염된 굴이나 조개 등을 먹으면 감염된다. 환자와 악수하거나 대화하다가 전파되는 경우가 많아 손을 잘 씻는 게 중요하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘北에 무인기’ 30대, 정보사 돈 받은 정황</title>
@@ -904,33 +937,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;절기상 대한(大寒)을 하루 앞둔 19일, 부산 남구 동명대 캠퍼스 안에서 학생들이 일찍 핀 매화를 바라보며 스마트폰으로 사진을 찍는 모습. 매화는 가장 먼저 봄을 알리는 꽃으로 통상 1월 하순부터 피는데, 최근에는 온난화 등의 영향으로 개화 시기가 앞당겨지고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] KBS 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/20/ZE55H4WV5ZCEPEQUHNVF5MLUSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/20/ZE55H4WV5ZCEPEQUHNVF5MLUSQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;KBS&lt;/b&gt;◇전략기획실&amp;lt;대외협력국&amp;gt;▷대외협력부장 장덕수◇보도시사본부▷보도기획부장 이정민&amp;lt;보도국:편집&amp;gt;▷뉴스제작1부장 이승철▷뉴스제작3부장 이호을&amp;lt;보도국:취재1&amp;gt;▷정치외교부장 정아연▷네트워크부장 이효연▷경인취재센터장 송명희&amp;lt;보도국:취재2&amp;gt;▷경제산업부장 박예원▷정책행정부장 김희용▷문화과학부장 김성주▷국제부장 김명주&amp;lt;디지털뉴스국&amp;gt;▷디지털뉴스2부장 모은희&amp;lt;시사제작국&amp;gt;▷시사제작2부장 박에스더&amp;lt;보도영상국&amp;gt;▷영상취재1부장 노동수▷영상취재2부장 김대원▷뉴스영상콘텐츠부장 김태석▷보도그래픽부장 김현석&lt;br&gt;&lt;br&gt;▲&lt;b&gt;매일경제신문&lt;/b&gt;▷편집국 산업부장 정욱▷〃 증권부장직대 강두순&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김정자씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/19/6DHEKSERQBE55DERSSZHXFCG24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/19/6DHEKSERQBE55DERSSZHXFCG24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김정자&lt;/b&gt; 별세, &lt;b&gt;송훈상&lt;/b&gt; 前 한국기상산업기술원 실장·&lt;b&gt;송현상&lt;/b&gt;·&lt;b&gt;송봉숙&lt;/b&gt;·&lt;b&gt;송명숙&lt;/b&gt;·&lt;b&gt;송문숙&lt;/b&gt; 경남 무형유산위원회 위원장 모친상=18일16시48분 삼성서울병원, 발인 21일7시, (02)3410-6902&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정금순&lt;/b&gt; 별세, &lt;b&gt;송창대&lt;/b&gt; 前 전북도 비서실장 모친상=19일5시20분 전주고려병원, 발인 21일9시, (063)242-9944&lt;br&gt;&lt;br&gt;&lt;b&gt;▲정상권&lt;/b&gt; 前 새전북신문 편집국장 별세, &lt;b&gt;하미수&lt;/b&gt; 남편상, &lt;b&gt;정록환&lt;/b&gt; SK온 PM·&lt;b&gt;정현의&lt;/b&gt; 전북대 수의대 연구교수 부친상, &lt;b&gt;김성수&lt;/b&gt; GY광야 대표변호사 장인상=18일20시13분 전북대병원, 발인 20일12시, (063)250-2441&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>本紙 박준모 기자 ‘이달의 편집상’</title>
-      <link>https://www.chosun.com/national/people/2026/01/20/XBCYZBVBY5EBDISAQAXR5XQVUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/20/XBCYZBVBY5EBDISAQAXR5XQVUM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAZN6EACGZF7HP3CSPB2DXHY5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선일보 박준모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국편집기자협회(회장 김형진)는 조선일보 박준모 기자의 ‘한국 육상 100m, 누가 좀 9해줘’(12월 20일 자 A21면) 등 5편을 이달의 편집상 수상작으로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [뉴스 고사성어] 두 손 묶인 채 체포된 베네수엘라 대통령… 나라 앞길은 안갯속갯속</title>
       <link>https://www.chosun.com/national/nie/2026/01/20/ULA3YO4B7RBJHMP5LONCW6QJOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/20/ULA3YO4B7RBJHMP5LONCW6QJOM/</guid>
@@ -956,18 +962,6 @@
       <description/>
       <pubDate>Mon, 19 Jan 2026 09:13:29 +0000</pubDate>
       <content:encoded>조은석 내란 특별검사팀이 당정대 회동 당시 윤석열 전 대통령의 탄핵을 막아야 한다는 내용의 메모가 작성됐다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDCOLCGE2DQZRXMNSGCNZSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 19일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 총리의 ‘헌법재판관 미임명·지명 의혹' 관련 직무유기 등 혐의 사건 첫 공판준비기일에서 이같이 말했다.&lt;br&gt;&lt;br&gt;이날 재판에서 한 전 총리 측은 해당 사건이 특검의 수사 대상이 아니라고 주장했다. 이에 특검은 “압수 수색 과정에서 당정대 당시 작성된 ‘윤석열 전 대통령의 탄핵을 막아야 한다’는 취지의 메모가 발견됐다”며 “이 사건 중요 증거로 신청할 예정”이라고 했다. 특검이 언급한 당정대 회의는 2024년 12월 4일 삼청동 국무총리 관저에서 열린 회의다. 한 전 총리를 비롯해 박성재 전 장관, 한동훈 전 국민의힘 대표, 추경호 전 원내대표, 정진석 전 비서실장 등이 참석했다.&lt;br&gt;&lt;br&gt;한 전 총리는 윤 전 대통령의 탄핵 소추 이후 국회가 추천한 헌법재판관 후보자를 임명하지 않은 혐의를 받는다. 특검은 한 전 총리가 헌법재판관 임명을 거부했다며 직무를 유기했다고 판단했다. 한 전 총리는 지난해 4월 제대로 된 검증 없이 함상훈·이완규 후보자를 헌법재판관 후보로 지명한 혐의(직권남용)도 받고 있다.&lt;br&gt;&lt;br&gt;이후 탄핵된 한 전 총리를 대신해 대통령 ‘대행의 대행’이 된 최상목 전 부총리는 정계선·조한창 후보자를 임명했으나 마은혁 후보자에 대해선 여전히 여야 합의가 필요하다며 임명을 보류했다. 최 전 부총리는 이와 관련해 직무유기 혐의로 함께 기소됐다. 이외에도 김주현 전 수석, 정진석 전 실장, 이원모 전 공직기강비서관도 의사 결정에 가담했다며 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;다음 재판은 다음 달 3일 오후 2시에 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조훈현, ‘영원한 라이벌’ 녜웨위핑 영결식서 “50년 친구 잃었다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/19/2DVVM7XIA5CDPAQM67MWZZJCGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/19/2DVVM7XIA5CDPAQM67MWZZJCGU/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 Jan 2026 08:20:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDEYLEME3GCNDGGFSGIZLEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조훈현 9단이 녜웨이핑의 장례식장 방명록을 작성하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“다음 세상에서 다시 만나 바둑 한 판 둡시다.”&lt;br&gt;&lt;br&gt;바둑계 통산 최다 우승(161회) 기록 보유자인 조훈현 9단이 지난 14일 별세한 중국의 ‘바둑 영웅’ 녜웨이핑(聶衛平·74) 9단의 영결식에 참석해 고인의 마지막 길을 배웅했다. &lt;br&gt;&lt;br&gt;18일 중국 베이징 바바오산 빈의관 동례당에서 녜웨이핑 9단의 영결식이 엄수됐다. 영결식에는 중국 바둑계 주요 인사들과 시진핑 주석의 동생 등 각계 유력 인사들이 참석했다. 한국에서는 조훈현 9단을 비롯해 한국기원 양재호 사무총장, 홍민표 바둑 국가대표 상비군 감독 등이 고인을 추모했다. &lt;br&gt;&lt;br&gt;조훈현은 중국 언론과의 인터뷰에서 “작년 3월 싱가포르에서 만났을 때만 해도 건강해 보였는데, 갑작스러운 비보에 큰 충격을 받았다”며 “50년을 함께한 친구를 잃어 마음이 아프다”고 했다. 이어 “부디 그곳에서는 아프지 말고 편안하게 쉬길 바란다”며 “다음 세상에서 다시 만나 바둑 한 판 두자”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTB3VU2HKI27LDUED5Y7GWB4TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1989년 열린 '잉씨배' 1회 대회에 참석한 조훈현 9단과 녜웨이핑 9단. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 현대 바둑의 상징적 인물로 꼽히는 녜웨이핑 9단은 1985년 시작된 ‘중일 수퍼대항전’에서 11연승을 거두며 ‘철의 수문장’으로 이름을 날렸다. 조훈현과 녜웨이핑은 1980년대 세계 바둑의 패권을 놓고 치열하게 경쟁하며 한중 바둑의 황금기를 이끈 주역이다. 특히 1989년 ‘바둑 올림픽’이라는 제1회 잉씨배 결승에서 조훈현이 녜웨이핑에게 3대2로 승리하면서 국내 바둑 팬들에게도 깊은 인상을 남겼다. 그는 2013년 직장암 수술 후에도 왕성한 활동을 이어왔으나 최근 병세가 악화돼 지난 14일 지병으로 별세했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GFRDEYLEME3GCNDGGFSGIZLEGE.jpg?auth=2a849a7c1224d06f8c361b06d39107217420fb1802294a64ca5c87ef7608ca43&amp;smart=true&amp;width=1080&amp;height=1440" type="image/jpeg" height="1440" width="1080">
-        <media:description type="plain">조훈현 9단이 녜웨이핑의 장례식장 방명록을 작성하고 있다. /뉴스1</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
