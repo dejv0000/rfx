@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 282억 수주한 남동생 회사, 김경이 상임위 옮기자 폐업</title>
+      <link>https://www.chosun.com/national/incident/2026/01/20/DOANRIOUURBEVHSYYA3ECCL77A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/20/DOANRIOUURBEVHSYYA3ECCL77A/</guid>
+      <dc:creator>안상현 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 Jan 2026 20:00:00 +0000</pubDate>
+      <content:encoded>더불어민주당 ‘1억 공천 뇌물’ 사건 피의자인 김경 서울시의원의 가족 회사가 서울시의 임대주택 공급 사업을 수주해 282억원의 매출을 올리기 전, 김 시의원은 해당 사업을 심의하는 시의회 도시계획관리위원회로 자리를 옮겼다. 이후 김 시의원 가족 회사가 해당 사업을 마무리하자, 김 시의원은 상임위를 사업과 관련 없는 곳으로 옮기고 회사는 폐업한 것으로 19일 확인됐다. 이런 가운데 김 시의원 가족 회사들이 수백억 원대 규모의 서울시 사업을 수주하는 과정에서 김 시의원이 영향력을 행사했을 가능성이 있다는 의혹&amp;lt;본지 1월 19일 자 A5면&amp;gt;이 제기되자, 서울시는 이날 감사에 착수했다.&lt;br&gt;&lt;br&gt;서울의 한 전문대 아동복지학과 교수 출신인 김 시의원은 2018년 지방선거 때 민주당의 비례대표 서울시의원으로 당선됐다. 처음엔 시의회 교육위원회 부위원장으로 활동했다. 이 시기 김 시의원이 제안한 2300만원짜리 서울시 연구 용역 과제를 막내 여동생이 대표로 있던 교육업체가 2019년 경쟁 입찰이 아닌 수의 계약으로 따낸 것으로 나타났다. 이 회사는 이듬해 2월 폐업했다. 이익을 남겼는데도 문을 닫는 흑자 폐업이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOQ2XVVBMBFGDACQJ6LCHUDQXU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 김 시의원은 2020년 7월 상임위를 교육위에서 도시계획관리위로 옮겼다. 서울시의 주택 공급 계획과 관련 예산 등을 심의하는 핵심 상임위다. 본지가 확보한 김 시의원 가족 회사의 내부 회계 자료 등을 분석해 봤더니, 김 시의원이 도시계획관리위로 옮긴 지 몇 개월 뒤인 2021년 초 김 시의원의 남동생 김모(56)씨는 ‘A연구원’이라는 법인을 세운 것으로 드러났다. 회사 이름에 ‘교육’ ‘복지’ 등이 들어갔지만, 주된 사업은 부동산 시행업이었다. 대표와 최대 주주(지분 35%)는 김씨였고 주요 주주는 김 시의원의 다른 동생들이었다.&lt;br&gt;&lt;br&gt;A사는 2021년 2~3월 서울 강동구 천호동 일대 땅 두 필지(941㎡·약 285평)를 매입하면서 서울시 산하 서울주택도시개발공사(SH)와 임대주택 공급 약정을 체결했다. A사는 11층과 9층짜리 오피스텔 건물 2동 시공에 들어갔고, 2022~2023년 두 차례에 걸쳐 SH에 총 282억원에 매각했다. 김씨가 최대주주로 있었던 시공사 B사도 이 사업으로 같은 기간 101억원의 매출을 냈다.&lt;br&gt;&lt;br&gt;김 시의원은 오피스텔 사업 막바지 단계였던 2022년 7월 도시관리위를 떠나 운영위로 옮겼다. 이후 A사는 이렇다 할 부동산 사업 실적이 없었고 지난달 A사는 돌연 폐업했다. 서울시의회 관계자는 “김 시의원이 도시계획위로 옮기자마자 남동생이 회사를 세우고 굵직한 사업을 따내고 얼마 안 가 폐업한 것은 김 시의원 일가가 그의 영향력을 활용한 프로젝트형 사업을 벌인 것 아니냐는 의구심을 낳는다”고 했다. 김 시의원이 해당 사업에 영향력을 행사할 수 있는 상임위에 있을 때 관련 사업을 벌이고 다른 상임위로 옮기면 폐업하는 ‘먹튀’ 아니냐는 것이다.&lt;br&gt;&lt;br&gt;김 시의원 아들(35)이 지분 100%를 갖고 있는 회사를 둘러싼 자금 흐름을 두고도 의혹이 제기된다. 본지가 입수한 회계 자료를 보면, 경기 남양주시의 한 건물에 있는 교육업체 F사는 김 시의원 아들이 지분을 100% 보유하고 있는데 회사 대표는 김 시의원 어머니 박모(82)씨였다. 그런데 박씨가 대주주로 있는 또 다른 교육업체 C사는 F사에 용역비 명목으로 5500만원을 지급했다. A사 대표인 김 시의원 동생 김씨가 운영하는 교육업체 D사도 용역비 명목으로 F사에 1500만원을 지급했다.&lt;br&gt;&lt;br&gt;당시 김 시의원 가족 회사들의 세무·회계를 담당했던 인사는 본지 통화에서 “법인 외형을 유지하기 위해 가족 회사끼리 허위 명목의 계산서를 끊어준 것 아닌지 의구심이 든다”고 했다. 김 시의원 일가 회사들은 급여나 사업 소득 지급 내역이 거의 없었던 것으로 알려졌다. 사실상 1인 또는 형제 회사였다는 뜻이다.&lt;br&gt;&lt;br&gt;김경 시의원 측은 의정활동과 연결된 시 사업 수주 의혹에 대해 “독립적인 법인이 정당한 절차를 거쳐 진행한 기업 활동의 일환”이라며 “사실무근”이란 입장을 전했다.&lt;br&gt;&lt;br&gt;이런 가운데 이민경 서울시 대변인은 이날 정례 브리핑에서 “(김 시의원 의혹과 관련해) 감사위원회를 꾸리고 실태 조사에서 (문제가 되는) 사항들이 나올 경우 고발 조치 등을 검토할 예정”이라며 “사법기관에도 적극적으로 협조를 요청하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HEZTGOJXG5QWGYJVMI2DSOBYMQ.jpg?auth=215a4b6ce873b08b30e7ceec508026b04b9eee0ef7be20c3dd96e6a36c7a583c&amp;smart=true&amp;width=3342&amp;height=2226" type="image/jpeg" height="2226" width="3342">
+        <media:description type="plain">김경 서울시의원이 지난 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 취재진의 질문에 답하고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>서부지법 난동 배후 혐의 전광훈 구속 송치 </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/22/SYC7SUS6BNBARAJ5RJ67OVW534/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/SYC7SUS6BNBARAJ5RJ67OVW534/</guid>
+      <dc:creator>장윤 기자, 권우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 Jan 2026 22:34:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYGEYTFHFSGKNJWGY4GGYZVMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 난동 사태의 배후로 지목돼 구속된 전광훈 사랑제일교회 목사가 15일 서울 마포구 서부지방법원에서 구속적부심사를 마친 후 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태 배후로 지목된 전광훈 사랑제일교회 목사가 구속된 채 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 안보수사과는 22일 전 목사를 특수건조물침입 교사 등의 혐의로 서울서부지검에 구속송치 했다고 밝혔다.&lt;br&gt;&lt;br&gt;전 목사는 작년 1월 19일 서부지법에서 윤석열 전 대통령의 구속 영장을 발부하자 시위대의 서부지법 난입을 부추긴 혐의를 받는다. 그는 서부지법 사태 전날인 작년 1월 18일 서울 지하철 광화문역 인근 집회에서 “서부지법으로 모여 윤 대통령 구속영장을 저지하기 위해 국민 저항권을 발동해야 한다”고 했다. 다음 날 새벽 윤 대통령 구속 영장이 발부되자 서부지법 주변에서 시위를 벌이던 지지자 중 63명이 서부지법 청사에 침입해 기물을 부수는 등 난동을 벌였다.&lt;br&gt;&lt;br&gt;법원은 지난 13일 전 목사에 대해 구속 전 피의자 심문(영장실질심사)을 연 뒤 “증거를 인멸하고 도망할 염려가 있다”며 구속영장을 발부했다. 이튿날인 14일 전 목사는 구속적부심을 청구했으나, 법원이 기각해 구속 상태로 수사받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IHE27ZSNNGGJM2LKTK2223VXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 서울 성북경찰서 유치장에서 출발한 전광훈 사랑제일교회 목사가 서울서부지검에 도착하자 지지자 60여 명이 양손을 들어 전 목사에게 인사하고 있다./권우석 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 7시 20분 전 목사의 지지자들 60여 명은 서부지검에 모여 서울 성북경찰서 유치장에서 출발한 전 목사가 도착하기를 기다리고 있었다. 일부 지지자들은 바리케이드를 잡고 흔들었고, 한 지지자는 “목사님 몸도 마음도 얼마나 추우실까”라며 눈물을 흘렸다. 이들은 오전 8시 전 목사가 서부지검에 도착하자 양손을 들어 전 목사에게 인사했다. &lt;br&gt;&lt;br&gt;한편 전 목사는 구속 이후 17일부터 페이스북 계정에 일곱 차례에 걸쳐 옥중 서신 형태의 게시글을 올렸다. 전 목사는 자신에 대한 구속에 “처음에는 검찰이 반려했으나 위에서 지시하자 결국 구속영장을 발부했다는데 이는 북한의 지시로 보인다”며 “이제 광화문 광장에 천만이 모여 국민 저항권을 발동하여 나라를 살려야 할 것”이라고 지지층을 자극했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘몇 시간 잤나’보다 일정한 시간에 자고 깨는 게 중요</title>
+      <link>https://www.chosun.com/medical/2026/01/15/PP7RLAAGCZHDTEXG4DP5OYIGQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/01/15/PP7RLAAGCZHDTEXG4DP5OYIGQA/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 Jan 2026 15:51:00 +0000</pubDate>
+      <content:encoded>A씨는 매일 7시간 반을 꼭 잔다. 야간 당직을 선 날은 밤 1시에 자고 아침에 늦게 일어난다. 회식이 없는 날은 밤 10시에 잔다. 주말에는 늦잠을 몰아 잔다. 7시간 반을 자도 피곤하고, 낮에 집중력이 떨어진다고 느낀다.&lt;br&gt;&lt;br&gt;B씨는 매일 6시간을 잔다. 항상 밤 11시에 자서 아침 5시에 일어난다. 주말에도 비슷하다. 그래도 낮에 졸리지 않고, 머리가 맑다. 수면 시간만 놓고 보면 ‘7시간 반’ 자는 A씨가 ‘모범생’이다. 그러나 의학적으로는 B씨의 수면이 더 건강하다. 거기에는 ‘수면 규칙성’이 있기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6FHH3Q7ORBSRNRHPG3H7EMNNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오랫동안 수면의 질을 이야기할 때 “몇 시간 잤나”에 집중해 왔다. 그러나 최근에는 수면 시간보다 같은 시간에 자고 같은 시간에 일어나는 일관성을 더 중요하게 여기는 수면 규칙성(sleep regularity) 연구가 속속 나오고 있다. &lt;br&gt;&lt;br&gt;우리 몸에는 생체시계가 있다. 뇌 시상하부의 시교차상핵이 하루 24시간 주기로 혈압, 체온, 호르몬, 면역 기능을 조율한다. 이 시계는 규칙적인 신호를 전제로 작동한다. 매일 비슷한 시간에 잠들고, 비슷한 시간에 깨면, 혈압 리듬이 안정되고, 인슐린 분비가 일정해지며, 염증 반응이 준다. 하루 동안 뇌에 쌓인 퇴적물을 자는 동안에 제거하는 청소 시스템(글림프계)도 제대로 작동한다.&lt;br&gt;&lt;br&gt;서울대병원 이유진(정신건강의학과) 수면의학센터 교수는 “수면 규칙성은 낮잠을 포함하여 하루 24시간에서 자고 깨는 것을 얼마나 일관되게 하는지를 나타내는 개념”이라며 “최근 연구들은 얼마나 잤는지의 수면 시간보다 이러한 수면 규칙성이 사망률, 심혈관대사질환, 우울증, 삶의 질과 더 많은 연관성을 갖는다는 것을 보여준다”고 말했다. &lt;br&gt;&lt;br&gt;반대로 수면 시간대가 들쭉날쭉하면, 몸은 매일 새로운 시간표에 적응하느라 과도한 스트레스를 받는다. 수면-각성 리듬이 깨진 사람일수록 기억력, 집중력, 실행 기능이 떨어지고, 알츠하이머병 관련 단백질 축적이 많다는 보고들이 이어지고 있다. 치매 예방의 시작은 규칙적인 취침 시각인 셈이다.&lt;br&gt;&lt;br&gt;수면 규칙성은 스마트 워치로 수면 기록을 하고, 일주일 수면 시간대를 비교해 보면 알 수 있다. 스마트 워치가 없다면, 일상의 수면 패턴을 기록해서 비교해 보면 된다. 만약 평일·주말 기상 시각이 2시간 이상 차이 나거나, 밤마다 스마트폰을 보다 잠드는 시간이 달라지며, 알람이 없으면 비슷한 시각에 잠에서 깰 수 없거나, 야식이나 음주로 잠드는 시간이 자주 바뀐다면, 수면 규칙성이 낮은 상태로 봐야 한다&amp;lt;그래픽 참조&amp;gt;.&lt;br&gt;&lt;br&gt; 이런 수면 패턴을 의학적으로는 ‘사회적 시차(social jet lag)’라고 부른다. 매주 시차 여행을 하는 것과 같은 스트레스를 몸에 준다는 의미다. &lt;br&gt;&lt;br&gt;수면 규칙성을 높여야 잠으로 얻는 건강 이득을 높일 수 있다. 우선 기상 시각부터 일정하게 하는 게 중요하다. 주말과 휴일에도 평일 기상 시각과 1시간 이내로 유지해야 한다. 밤 10시 이후에 강한 빛의 자극을 줄이고, 스마트폰 사용을 절제해야 한다. 빛은 수면 호르몬 멜라토닌을 억제하고, 스마트폰 사용은 잠을 뒤척이게 하는 흔한 원인이다.&lt;br&gt;&lt;br&gt;아침 햇빛을 쬐라. 아침 햇볕은 생체시계를 재설정하는 가장 강력한 신호다. 10~20분이면 충분하다. 낮잠을 자야 한다면, 일정 시간대에 30분 이내로 오후 3시 이전에만 하라. &lt;br&gt;&lt;br&gt;수면은 질서다. 의지의 문제가 아니라 일정한 리듬의 영역이다. 매일 비슷한 시간에 자고, 비슷한 시간에 일어나는 것. 이 단순한 습관이 인지기능을 지키고, 심혈관을 보호한다. 같은 7시간 수면이라도, 제때 자고, 제때 일어나는 사람이 더 건강하다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘서부지법 난동’ 전광훈 구속 유지...구속적부심 기각</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/15/QIMLC4Z2ENGPRNFZNA362TE2LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/15/QIMLC4Z2ENGPRNFZNA362TE2LU/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 Jan 2026 07:21:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XLZIWKWSFJD7JLKZVIVH3OHME.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 난동 사태의 배후로 지목돼 구속된 전광훈 사랑제일교회 목사가 15일 서울 서부지방법원에서 구속적부심사를 마친 후 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서부지법 난동 사태의 배후로 지목된 사랑제일교회 설립자 전광훈(70) 목사가 법원에 자신의 구속이 적합한지 다시 판단해달라고 요청했으나 15일 기각됐다. &lt;br&gt;&lt;br&gt;서울서부지법 제11형사부(재판장 최정인)는 이날 오전 10시 30분부터 약 2시간 동안 특수건조물침입 교사 등 혐의로 구속된 전 목사의 구속적부심 심문을 진행한 뒤 “이 사건 청구는 이유 없다”며 기각 결정을 내렸다. &lt;br&gt;&lt;br&gt;앞서 13일 밤 서울서부지법은 “증거를 인멸할 염려와 도망할 염려가 있다”며 전 목사에 대해 구속영장을 발부했다. 전 목사는 작년 1월 19일 서부지법에서 윤석열 전 대통령의 구속 영장을 발부하자 시위대의 서부지법 난입을 부추긴 혐의(특수건조물침입교사)로 기소됐다. &lt;br&gt;&lt;br&gt;이에 전 목사는 14일 법원에 구속적부심을 청구했다. 구속적부심은 구속 피의자가 구속이 적법한지를 판단해달라고 요청하는 절차다.&lt;br&gt;&lt;br&gt;영장 실질 심사 당시 경찰은 전 목사가 자신이 꾸린 지역별 조직인 ‘자유마을’이나 해외로 도주할 우려가 있다며 구속이 필요하다고 주장했다. 경찰의 압수수색이 있기 직전인 지난해 7월 교회 내 사무실 PC가 교체된 점 등을 근거로 증거인멸 우려도 크다고 경찰은 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서부지법 난동 배후 혐의 전광훈 구속</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/14/EYQR6JCO2NH6TOF7EKKCDLCTHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/14/EYQR6JCO2NH6TOF7EKKCDLCTHQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 Jan 2026 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K75QDP2V2BHQTDGQI2HJK5VPTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태의 배후로 지목된 사랑제일교회 설립자 전광훈(70) 목사가 13일 밤 구속됐다. 서부지법 난동 사태가 벌어진 지 1년 만이다. &lt;br&gt;&lt;br&gt;서울서부지법 김형석 영장전담 부장판사는 이날 “증거를 인멸할 염려와 도망할 염려가 있다”며 전 목사 구속영장을 발부했다. 전 목사는 작년 1월 19일 서부지법에서 윤석열 전 대통령의 구속 영장을 발부하자 시위대의 서부지법 난입을 부추긴 혐의(특수건조물침입교사)를 받는다. 이날 영장 실질 심사에서 경찰은 전 목사가 자신이 꾸린 지역별 조직인 ‘자유마을’이나 해외로 도주할 우려가 있다며 구속이 필요하다고 주장했다. 경찰의 압수수색이 있기 직전인 지난해 7월 교회 내 사무실 PC가 교체된 점 등을 근거로 증거인멸 우려도 크다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;전 목사는 서부지법 사태 전날인 작년 1월 18일 서울 지하철 광화문역 인근 집회에서 “서부지법으로 모여 윤 대통령 구속영장을 저지하기 위해 국민 저항권을 발동해야 한다”고 했다. 다음 날 새벽 윤 대통령 구속 영장이 발부되자 서부지법 주변에서 시위를 벌이던 지지자 중 63명이 서부지법 청사에 침입해 기물을 부수는 등 난동을 벌였다.&lt;br&gt;&lt;br&gt;사랑제일교회는 전 목사의 구속영장이 발부된 직후 입장문을 내고 “깊은 유감과 강한 분노를 표한다”며 “법률과 증거에 기초한 판단이라기보다 정치적 압박과 여론의 눈치를 의식한 결과”라고 했다. 교회 측은 “구속 결정에 대해 모든 법적 수단을 통해 끝까지 다툴 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김경, 다른 민주당 인사들에도 금품 건넨 정황</title>
       <link>https://www.chosun.com/national/national_general/2026/01/22/F2SKIG7BMRAPRAFHZMNBFH2NUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/F2SKIG7BMRAPRAFHZMNBFH2NUQ/</guid>
@@ -892,52 +940,6 @@
         <media:description type="plain">(서울=뉴스1) 김진환 기자 = 김동명 한국노총 위원장이 29일 서울 중구 을지로 기업은행 본점 앞에서 열린 기업은행 노동조합 임금투쟁 총파업 결의대회에서 발언하고 있다.  2025.12.29/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김진환 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>턱없이 부족한 혈액</title>
-      <link>https://www.chosun.com/national/education/2026/01/21/6TBH65HKOVF3RGYTLTTCNPX4LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/21/6TBH65HKOVF3RGYTLTTCNPX4LA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXP665ZURFH2LPSNMBDSDSJJBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 대한적십자사 대전세종충남혈액원에서 적십자사 관계자가 바닥을 드러낸 혈액 보관 냉장고를 바라보는 모습. 20일 기준 적혈구 제제 보유량이 4.2일분으로, 적정 보유량(5일분)에 미치지 못했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이수지, 세브란스병원에 3000만원</title>
-      <link>https://www.chosun.com/national/people/2026/01/21/5USUJSHXDZC6BPIJ7Y4YM2QBVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/21/5USUJSHXDZC6BPIJ7Y4YM2QBVY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7AWRVUOYVE4RNNAHBNFOGJJBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 세브란스병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 이수지가 중증 소아·청소년 환아들을 위해 세브란스병원에 3000만원을 기부했다. 세브란스병원에 따르면, 이수지는 지금은 세상을 떠난 한 환아가 자신의 개그를 따라 하는 영상을 보게 된 것을 계기로 2024년 크리스마스부터 세브란스병원 소아암 병동을 꾸준히 찾아 아이들과 만나왔다. 작년 크리스마스에도 동료 김아영과 함께 소아암 병동을 찾았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김영자 별세 외 </title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/21/6HRFAPZTRJDXZGBMSL7U4Y3KZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/21/6HRFAPZTRJDXZGBMSL7U4Y3KZ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김영자&lt;/b&gt; 별세, &lt;b&gt;안종범&lt;/b&gt; 에쓰오일 사장·&lt;b&gt;안종필&lt;/b&gt;·&lt;b&gt;안경희&lt;/b&gt; 모친상, &lt;b&gt;김호열&lt;/b&gt; 장모상, &lt;b&gt;손희정&lt;/b&gt;·&lt;b&gt;조현진&lt;/b&gt; 시모상=20일0시47분 서울성모병원, 발인 22일8시, (02)2258-5979 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;김태순&lt;/b&gt; 별세, &lt;b&gt;안경자&lt;/b&gt;·&lt;b&gt;안춘임&lt;/b&gt;·&lt;b&gt;안제섭&lt;/b&gt;·&lt;b&gt;안봉근&lt;/b&gt; 前 대통령비서실 국정홍보비서관 모친상=20일7시47분 대구의료원, 발인 22일8시30분, (053)560-9552&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김필분&lt;/b&gt; 별세, &lt;b&gt;성대규&lt;/b&gt; 동양생명 대표 모친상=20일8시20분 대구파티마병원, 발인 22일9시30분, (053)958-9000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박완규&lt;/b&gt; 前 민주한국당 의원 별세, &lt;b&gt;정양해&lt;/b&gt; 남편상, &lt;b&gt;박종구&lt;/b&gt; SK바이오사이언스 자문·&lt;b&gt;박소애&lt;/b&gt;·&lt;b&gt;박종희&lt;/b&gt; SK온 정보보호실장 부친상=20일6시35분 서울대병원, 발인 22일8시, (02)2072-2018&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최복남&lt;/b&gt; 별세, &lt;b&gt;오길녀&lt;/b&gt;·&lt;b&gt;오병순&lt;/b&gt;·&lt;b&gt;오복순&lt;/b&gt;·&lt;b&gt;오병철&lt;/b&gt;·&lt;b&gt;오병삼&lt;/b&gt;·&lt;b&gt;오병근 &lt;/b&gt;데일리로그 편집국장 모친상=20일0시3분 강원 태백문화장례식장, 발인 22일8시, (033)552-4444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>웰니스노르딕워킹협회 사회공헌상</title>
-      <link>https://www.chosun.com/national/people/2026/01/21/V3LTGOL5LRBRFINZS6XTPQUDUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/21/V3LTGOL5LRBRFINZS6XTPQUDUI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3M7JTC37NDIVDO3CFV3SZYWWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국웰니스노르딕워킹협회(KWNA·회장 정봉화·사진)가 건강한 걷기 문화 확산과 공공복지 증진에 기여한 공로를 인정받아 17일 ‘제2회 대한민국 사회적가치 시상식’에서 공공복지 증진부문 사회공헌상을 수상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 전자신문</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/01/21/HOVZWUKN4BBFVET6H6R7OYWTLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/21/HOVZWUKN4BBFVET6H6R7OYWTLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 Jan 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;전자신문&lt;/b&gt;◇국장 승진▷영업마케팅국 김원석▷편집국 이호준◇부국장 승진▷편집국 전자모빌리티부 김원배◇부장 승진▷편집국 디지털금융부 성현희▷〃 SW/AI산업부 김지선▷〃 통신미디어부 박지성▷〃 편집팀 한주성▷영업마케팅국 정보사업팀 성은안◇차장 승진▷편집국 디지털금융부 송혜영▷〃 SW/AI산업부 정현정▷경영지원실 경영지원팀 유하나▷전자신문인터넷 시스템팀 이한나◇전보&amp;lt;전문위원&amp;gt;▷국장 정동수▷국장 소성열&amp;lt;영업마케팅국&amp;gt;▷정보사업팀 부국장(팀장) 김태형▷프로젝트영업팀 부국장(팀장) 윤대원▷회원영업팀 부국장(팀장) 장대일▷부국장 봉기녕&amp;lt;편집국&amp;gt;▷소재부품부 부장 안호천▷정치정책부 부장 조정형▷전국부 부장 김정희&amp;lt;영업마케팅국&amp;gt;▷프로젝트영업팀 부장 김현민▷회원영업팀 부장 이경민▷〃 부장 박석호▷〃 부장 한기웅▷〃 부장 윤건일▷정보사업팀 부장 홍선표&amp;lt;논설위원실&amp;gt;▷부장 이종천&amp;lt;경영지원실&amp;gt;▷경영지원팀 부장 정화섭 &amp;lt;온라인뉴스팀&amp;gt;▷파견 부국장 김태권&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [동물 이야기] 머리·몸통 길이 1.2m인 작은 사슴… 뿔·송곳니로 맹수에 맞서요</title>
