@@ -13,6 +13,136 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘차은우 탈세 의혹’ 母 법인 전 주소지 봤더니 장어집</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/22/WXURKY66A5CUXMQTR6MYBR36MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/WXURKY66A5CUXMQTR6MYBR36MI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:59:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBM7H4HU3VBBDPLL4VE2P7QRPI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 차은우/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 차은우(28)가 모친 명의 법인을 활용해 200억원대 세금을 탈루했다는 의혹에 휩싸인 가운데, 페이퍼컴퍼니로 의심받는 법인의 과거 주소지가 강화도의 한 장어집이었던 것으로 나타났다. &lt;br&gt;&lt;br&gt;앞서 이데일리는 차은우가 작년 봄 서울지방국세청 조사4국으로부터 200억원 이상의 소득세를 내지 않은 혐의로 고강도 조사를 받았다고 21일 보도했다. &lt;br&gt;&lt;br&gt;차은우 소속사 판타지오는 차은우의 모친이 설립한 법인과 매니지먼트 용역 계약을 맺고 수익을 나눠 가졌는데, 국세청은 이 소득 분배 구조를 문제 삼았다. 차은우가 최고 45%에 달하는 개인 소득세율보다 낮은 법인세율을 적용받도록 실체 없는 모친의 법인을 끼웠다는 것이다. 국세청은 모친 법인의 주소지가 강화도여서 연예 매니지먼트 업무를 수행하기 부적절하다고 판단한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이후 온라인에선 논란이 된 페이퍼 컴퍼니로 A법인이 지목됐다. A법인의 주소지가 과거 차은우 부모님이 운영한 것으로 알려진 장어 가게와 일치한다는 의혹이다. &lt;br&gt;&lt;br&gt;등기사항 확인 결과 A 법인은 2022년 10월 설립됐으며 매니지먼트업으로 등록돼 있다. 대표자는 차은우 모친 이름으로 돼 있다. 법인은 당초 인천 강화군 불은면 덕성리에 주소지를 등록했는데, 이곳은 차은우 부모가 운영해온 장어 가게 주소와 같다. 이 주소지를 인터넷에 검색해 보면 “차은우 성지” “장어 맛집” 등의 블로그 소개 글이 여럿 나온다. A법인은 작년 12월 23일 주소지를 서울 강남구 논현동의 한 사무실로 변경했다.&lt;br&gt;&lt;br&gt;판타지오 관계자는 A법인의 이전 주소지가 장어 가게인 이유와 관련해 조선닷컴에 “공식 입장 이외에 추가 확인은 어렵다”고 했다.&lt;br&gt;&lt;br&gt;차은우는 작년 7월 입대해 육군 군악대로 복무 중이다. 국세청은 차은우 군 입대가 마무리된 후 세무조사 결과 통지서를 보낸 것으로 전해졌다. 차은우 측은 통지서를 받은 후 과세적부심을 통해 국세청 결정의 적정성 여부를 따져달라고 요구한 상태다. &lt;br&gt;&lt;br&gt;소속사 판타지오 측은 차은우 모친의 법인이 페이퍼 컴퍼니가 아닌 대중문화예술기획업 정식 등록 업체라는 입장을 밝혔다. 판타지오는 이날 “이번 사안은 차은우의 모친이 설립한 법인이 실질 과세 대상에 해당되는지가 주요 쟁점인 사안으로, 현재 최종적으로 확정 및 고지된 사안이 아니며 법 해석 및 적용과 관련된 쟁점에 대해 적법한 절차에 따라 적극 소명할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “절차가 조속히 마무리될 수 있도록 아티스트와 세무 대리인은 성실히 협조할 예정이다. 차은우는 앞으로도 국민의 한 사람으로서 세무 신고 및 법적 의무를 성실히 이행할 것을 약속드린다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주지검, 피싱 당해 압수한 비트코인 분실</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/22/SOKWXORYSNBIJODGZXUJZY2TH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/SOKWXORYSNBIJODGZXUJZY2TH4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 10:09:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주고등지방검찰청. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 피싱 범죄에 당해 압수 절차를 거쳐 보관 중이던 ‘비트코인’을 분실했다.&lt;br&gt;&lt;br&gt;22일 광주지검 등에 따르면 최근 범죄 수사 과정에서 압수한 가상 자상(비트코인)을 분실했다. 검찰은 압수 금융 자산 정기 점검 과정에서 다수의 비트코인 분실 사실을 파악한 것으로 전해졌다. 검찰이 USB(이동식 저장 장치)에 보관해왔던 압수 비트코인 관련 암호가 외부로 유출되면서 가상 자산을 분실한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 비트코인을 회수하기 위한 수사에 착수했다. 검찰 관계자는 “피싱 피해를 당해 비트코인을 분실했다”며 “피해 경위와 잃은 가상 자산 금액은 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg?auth=e45977eefd6b2734f3b188c81b5ce6bab6e3b55e4a315af7a162dc05cb87a70e&amp;smart=true&amp;width=890&amp;height=501" type="image/jpeg" height="501" width="890">
+        <media:description type="plain">광주고등지방검찰청. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘안보실 인사개입 의혹’ 윤재순·임종득, 첫 재판서 “청탁 아냐” 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/22/T3EMGH5J6FEF3BGU25P425RGDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/T3EMGH5J6FEF3BGU25P425RGDA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 10:21:12 +0000</pubDate>
+      <content:encoded>2023년 인사 청탁을 받고 국가안보실 인사에 개입한 혐의로 재판에 넘겨진 윤재순 전 대통령실 총무비서관과 임종득 국민의힘 의원 측이 22일 첫 재판에서 혐의를 모두 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27N5ZJS5URAD3EM7BGBTCOC7DQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 윤 전 비서관과 임 의원의 직권남용 등 혐의 사건 첫 공판 준비 기일을 열었다. 피고인 출석 의무가 없어 이날 재판에 두 사람은 모두 나오지 않았다.&lt;br&gt;&lt;br&gt;이 사건은 윤 전 비서관이 2023년 9월 지인으로부터 인사 청탁을 받고 당시 국가안보실 2차장이던 임 의원과 임기훈 전 국방비서관 등에게 부탁해, 국가안보실 산하 국가위기관리센터 파견 직원으로 A씨가 임용되도록 한 혐의를 받고 있다. 국가안보실에 직원을 파견하려면 국방부가 육·해·공군에서 적합자를 추천받는 절차를 거쳐야 하는데, A씨는 이 적합자 추천 명단에 포함되지 않았던 것으로 조사됐다. 조은석 내란 특검팀은 12·3 비상계엄 관련 외환 의혹을 수사하는 과정에서 이 사건을 인지했다며 지난해 12월 두 사람을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;윤 전 비서관 측은 “A씨를 추천한 사실은 인정한다”면서도 “청탁금지법에서 규정하는 인사 청탁은 아니었다”며 혐의를 부인했다. 윤 전 비서관 측은 “이 사건이 내란특검법상 수사 대상에 해당하는지 여부를 정리해야 한다”는 주장도 펼쳤다.&lt;br&gt;&lt;br&gt;임 의원 측도 “특검이 제시한 공소사실을 전부 부인한다”고 말했다. 윤 전 비서관 등과 공모해 A씨가 안보실에 근무할 수 있도록 공모한 사실이 없다는 것이다. 재판부는 증인 신청 일정 등을 논의하기 위해 오는 3월 6일 공판 준비 기일을 한 차례 더 열기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘제2 푸바오’ 광주로 오나… 김성환 기후장관, 판다 도입 앞두고 현장 점검 </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/22/PPGVYEJZY5BDHNA46ZIOTS6ICA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/22/PPGVYEJZY5BDHNA46ZIOTS6ICA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 10:19:37 +0000</pubDate>
+      <content:encoded>최근 한중 정상회담에서 이재명 대통령이 판다 한 쌍 대여를 요청한 가운데, 주무 부처인 기후에너지환경부가 판다가 올 가능성에 대비해 시설 점검에 나섰다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDONJRGYYTMYJUGNRGGOLBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 광주 북구 생용동 우치공원 동물원에서 김성환 기후에너지환경부 장관이 강기정 광주시장과 판다 수용 여건을 점검한 뒤 판다가 새겨진 벽화를 바라보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 김성환 기후부 장관은 광주 우치동물원을 방문해 판다 도입에 대비해 동물원 시설과 인력 등을 점검했다. 지난 5일 이재명 대통령은 한중 정상회담에서 광주 우치동물원에 판다 한 쌍을 대여해 달라고 제안했었다. 다만 아직 실제 도입 여부는 정해지지 않은 상황이다.&lt;br&gt;&lt;br&gt;김 장관은 이날 우치동물원의 시설 및 인력 운영 현황과 판다 보호 시설 조성 계획 등을 보고받았다. 또한 우치동물원 내 동물병원과 현재 동물원 측이 판다 보호 시설 조성 후보 부지로 검토하고 있는 4300㎡(1300평) 부지를 확인했다. 기후부는 우치동물원의 수용 여건 등을 점검하고, 중국 측과 실무 협의를 이어나갈 방침이다.&lt;br&gt;&lt;br&gt;우치동물원의 수의 인력은 4명, 사육 인력은 13명이며, 반달가슴곰 4마리를 포함해 89종 667마리 동물이 있다. &lt;br&gt;&lt;br&gt;중국 측은 2016년 우리나라에 판다 아이바오·러바오를 보냈다. 이 판다들이 2020년 푸바오, 2023년 루이바오와 후이바오를 낳으면서 국내 판다는 총 5마리까지 늘었다. 하지만 푸바오가 2024년 중국 방침에 따라 반환되면서 현재 국내에 남은 판다는 총 4마리다. 김성환 장관은 “판다 추가 도입에 대비해 소중한 생명을 맞이할 준비를 철저히 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘청와대 셰프’ 천상현 셰프, 암 투병 고백…“폐 두 번 절제”</title>
+      <link>https://www.chosun.com/national/people/2026/01/22/LV3ARZ4DVNDX3AZ6M46K2ELG6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/22/LV3ARZ4DVNDX3AZ6M46K2ELG6M/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 09:58:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHQNY5FLWFBOHBLITL5EZ6Z4PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천상현 셰프./유튜브 '원마이크'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;넷플릭스 요리 예능 ‘흑백요리사2’에 출연해 주목받은 전 청와대 대통령 총괄 셰프 천상현(58)이 폐암 투병 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;천상현은 지난 21일 유튜브 채널 ‘원마이크’에 공개된 인터뷰 영상에서 “사실 ‘흑백요리사’ 시즌1 때 섭외가 왔고, 출연할 생각이었는데 몸이 아팠다”고 했다.&lt;br&gt;&lt;br&gt;천 셰프는 신라호텔에서 경력을 쌓은 뒤 1998년 청와대에 들어가 20년 동안 역대 대통령들의 식사를 책임졌다. 김대중 전 대통령부터 문재인 전 대통령까지 총 5명의 대통령을 거쳐 온 인물이다.&lt;br&gt;&lt;br&gt;그는 “암이 재발해서 다시 또 수술을 해야 하는 상황이라 시즌1은 촬영을 못 했다”면서 “지금은 수술을 한 뒤 항암제를 먹고 있다. 두 번의 수술을 해서 폐를 두 번 절제했다. 하루에 하나씩 항암제를 먹고 있는 상황”이라고 설명했다. 또 “머리에 종양이 하나 있었는데 내수막종이 의심된다고 하더라. 방사능 치료를 받았고, 소음성 난청도 있어서 말귀를 잘 못 알아먹는다”고도 했다.&lt;br&gt;&lt;br&gt;천 셰프는 ‘흑백요리사2’에서 후덕죽 셰프와 함께 출연해 사제 관계로서의 호흡을 보여주며 화제가 되기도 했다. 그는 “청와대 대통령 요리사로 추천해준 분이 (후덕죽) 사부님이다. 사부님한테 (청와대 셰프를 뽑아달라는) 의뢰가 들어왔다고 하더라. 신라호텔 중식이 많이 알려졌기 때문에 추천을 해달라고 한 것”이라고 말했다. 이어 “이력서를 냈는데 거기서 1차적으로 검토를 했고, 또 두 달 간의 신원 조회를 거쳐 최종 낙점이 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;20년 동안 청와대에 남을 수 있었던 이유에 대해 그는 “사부님한테 ‘5년 동안 대통령님 잘 모시고 오겠다’고 하니까 ‘원대 복귀 다 얘기해놨다’고 하시더라. 원래 대통령이 바뀔 때 셰프도 바뀐다. 운이 좋게 20년간 저만 남았다. 과연 이게 실력이냐. 저는 그렇게 생각하진 않는다. 운이 40~50%는 있었다”고 말했다.&lt;br&gt;&lt;br&gt;후 셰프와의 관계에 대해서는 “사부님을 되게 어려워하는 편”이라며 “사부님이 제가 입사했을 때 직책이 부장이었다. 후 부장에서 후 이사, 후 상무님이 된 거다. 그분 자체가 다가가기도 쉽지 않고, 부드러운 카리스마가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무, 민주당 추미애·한병도 예방…‘민생 10대 법안’ 입법 추진 </title>
+      <link>https://www.chosun.com/national/court_law/2026/01/22/ZT7Q47Q3YZB4JIGNEVXUFERC3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/ZT7Q47Q3YZB4JIGNEVXUFERC3A/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 09:37:49 +0000</pubDate>
+      <content:encoded>법무부가 올해 상반기에 ‘민생‧안전 10대 법안’을 선정해 집중적인 입법을 추진할 계획이라고 22일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLTNTYSWJFNKJCGWTJ6Q5TRCTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부장관(오른쪽)이 22일 서울 여의도 국회에서 추미애 국회 법제사법위원회 위원장을 예방, 기념 촬영하고 있다. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 이날 국회를 찾아 한병도 더불어민주당 원내대표와 추미애 국회 법제사법위원장을 예방하고, ‘민생·안전 10대 법안’을 설명하며 신속한 심사를 요청했다고 밝혔다. &lt;br&gt;&lt;br&gt;정 장관은 이 자리에서 최근 쿠팡 개인정보 유출 사건 등 소액·다수 피해가 발생하는 불법행위에 대한 구제 필요성을 강조하며, 집단소송 제도의 적용 범위를 확대하는 ‘집단소송법 개정안’을 우선 논의해 달라고 요청했다.&lt;br&gt;&lt;br&gt;10대 법안에는 불법 사금융 범죄로 얻은 수익을 국가가 직접 피해자에게 돌려주도록 하는 ‘부패재산몰수법 개정안’, 계약법 체계를 현실에 맞게 손질하는 ‘민법 개정안’, 친일재산 환수를 위한 조사위원회를 다시 설치하는 ‘친일재산귀속법 제정안’, 유죄 판결 없이도 범죄 수익 몰수가 가능하도록 하는 독립 몰수제를 도입하는 ‘범죄수익은닉규제법 개정안’ 등이 포함됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBLPA2N2KRLMND3WO2MYUZQA2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부장관(왼쪽)이 22일 서울 여의도 국회에서 더불어민주당 한병도 원내대표를 예방, 기념 촬영하고 있다. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 함께 인구 감소와 지역 소멸에 대응해 적극적인 이민 정책과 사회 통합을 추진하기 위한 법안도 포함됐다. 이민자가 납부하는 수수료를 재원으로 ‘이민자 기여 사회통합기금’을 신설하는 ‘재한외국인처우기본법 개정안’과, 수용자와 교도관의 인권을 함께 보호하기 위한 ‘교정공무원복지기본법 제정안’이 중점 추진 대상이다. 교제 폭력 피해자를 보호하고 스토킹 피해자보호명령제도를 도입하는 ‘스토킹 처벌법 개정안’과 외국인 아동의 권리 보호를 위한 ‘외국인아동출생등록법 제정안’도 해당된다.&lt;br&gt;&lt;br&gt;한 원내대표는 “법질서 확립과 민생·국민 안전 확보를 위해 조속한 입법이 필요하다는 점에 공감한다”며 “실질적인 입법 성과가 도출되도록 노력하겠다”고 말했다. 추 위원장은 “법사위는 국민 체감 효과가 큰 법안부터 책임 있게 심사해 본연의 역할을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 “국민이 범죄로부터 안전한 나라를 만들고 민생을 지키기 위한 법안인 만큼 여야 합의로 신속히 통과되길 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>펜션서 수면제 탄 술 먹이고 성폭행… 남친·BJ 구속 기소 </title>
+      <link>https://www.chosun.com/national/court_law/2025/09/23/D3TAYFVZUFF4PBCOTDJNQOGTBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/D3TAYFVZUFF4PBCOTDJNQOGTBY/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Sep 2025 04:06:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSI5GOPHWOI4QG5KRCNPAGITCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성을 펜션으로 불러들여 수면제를 섞은 술을 마시게 한 다음, 성폭행한 30대 남자친구와 40대 인터넷방송 BJ가 구속상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 여성아동범죄조사부(부장 손명지)는 지난 22일 성폭력처벌법 위반(특수강간) 및 성폭력처벌법 위반(카메라 등 이용촬영) 혐의로 A씨 등 2명을 구속 기소했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨 등은 지난달 27일 경기 화성시 제부도의 한 펜션에서 여성 B씨를 성폭행하고, 그 모습을 휴대전화로 촬영한 혐의를 받는다. 이들은 함께 인터넷 소통 방송을 명목으로, B씨를 펜션으로 부른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피의자들 간 통화녹음 파일 등 철저한 증거분석과 보완 수사를 통해 공모관계 등 혐의를 명백히 했다”며 “이들에 대해 죄에 상응하는 엄중한 처벌이 이뤄질 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오동운 공수처장, 직무유기 혐의 부인... “오해로 기소해”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/22/6MY7VKNKM5AO3I2BENSVH6NBRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/6MY7VKNKM5AO3I2BENSVH6NBRM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:49:51 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처) 소속 부장검사가 고발된 사건을 1년 가까이 방치한 혐의로 기소된 오동운 공수처장 등 공수처 전현직 지휘부 측이 22일 첫 재판에서 혐의를 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTGOJSMUZWKY3CGEZTAZLEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 처장과 이재승 공수처 차장, 박석일 전 공수처 부장검사 측 변호인은 이날 서울중앙지법 형사23부(재판장 오세용)에서 열린 직무유기 혐의 사건 첫 공판 준비 기일에서 공소사실을 모두 부인했다. 오 처장 등은 2024년 5월 공수처장에 취임한 뒤, 송창진 전 부장검사가 변호사 시절 이종호 전 블랙펄인베스트 대표를 변호하고도 국회에서 “이 전 대표가 채 상병 의혹에 연루된 사실을 모른 채 사건 보고를 받았다”며 위증한 혐의 사건의 수사를 고의로 지연시켰다는 혐의를 받는다. 공수처법에 따라 해당 사건을 대검찰청에 이첩하지 않고 11개월 동안 수사를 뭉갰다는 것이다.&lt;br&gt;&lt;br&gt;오 처장 측은 “공수처엔 딱 네 개 부만 있고, 박석일 전 부장검사 등의 퇴직으로 송 전 부장검사가 퇴직한 수사2부에 송 전 부장검사의 위증 사건을 잠시 가배당할 수밖에 없었다”고 했다. 그러면서 “공수처 부장검사에 대한 임명 재가 요청이 작년 5월 말에야 이뤄져 그 이후 배당해 적법하게 사건을 처리했다”며 “어떠한 직무유기도 없었다. 현저한 오해로 공소가 이뤄졌다”고 했다. 부장검사가 없는 상황에서 사건을 이첩할 경우 절차적 문제가 불거질 소지가 있어 신중하게 처리했을 뿐이란 얘기다.&lt;br&gt;&lt;br&gt;송 전 부장검사를 무혐의로 사전 결론 내린 신속 검토 보고서를 보고받고도 아무런 대응을 하지 않았다는 혐의에 대해 이 차장 변호인은 “해당 보고서에 동의하지 않았고, 당시 상황을 고려해 신중하게 검토하느라 지연됐을 뿐 직무유기 고의가 없었다”고 했다.&lt;br&gt;&lt;br&gt;문제가 된 보고서를 작성한 혐의를 받는 박 전 부장검사 측도 “무조건 대검에 이첩하지 않겠다고 한 게 아니고, 사건을 받은 지 두 달 만에 퇴직해 사건을 방치한 것도 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;순직 해병 수사 외압 의혹 수사를 방해한 혐의로 기소된 송 전 부장검사, 김선규 전 부장검사 측도 공소장에 적시된 사실관계를 인정할 수 없다는 입장을 밝혔다. 김 전 부장검사는 2024년 2∼4월 총선에 영향을 미칠 수 있으니 관련 소환 조사를 하지 말라고 지시한 혐의, 송 전 부장검사는 같은 해 6월 윤석열 전 대통령 등에 대한 압수수색영장 청구를 방해한 혐의로 기소됐다. 송 전 부장검사는 위증 혐의도 적용됐다.&lt;br&gt;&lt;br&gt;재판부는 증거 목록 및 증인 신문 순서를 결정하기 위해 오는 3월 5일 공판 준비 기일을 한 번 더 열기로 했다. 오 처장 등 피고인 5명은 출석 의무가 없어 이날 법정에 나오지는 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>SK하이닉스 용인 반도체 클러스터 도로 밑에 전력망 깐다 </title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/01/22/XYWBLDJX6FBG7AJO4GI3KALKWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/01/22/XYWBLDJX6FBG7AJO4GI3KALKWA/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:58:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYWIMJZG4YGGOBTGQYWGMBYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 용인시 처인구 원삼면 용인반도체클러스터 일반산업단지 공사현장에서 분주하게 공사가 진행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 용인 반도체 클러스터 SK하이닉스 일반산업단지의 전력 확보를 위해 도로 밑에 전력망을 구축하기로 했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;김동연 경기도지사와 김동철 한국전력공사 사장은 이날 경기도청에서 이런 내용을 골자로 하는 ‘도로-전력망 공동 건설 협력 체계 구축 협약’을 맺었다.&lt;br&gt;&lt;br&gt;협약 내용에 따르면 경기도와 한전은 이천 대죽 교차로(설성면)~용인 기상 삼거리(처인구 원삼면)를 잇는 지방도 318호선 27.02㎞ 구간 신설 및 확장 공사와 전력망 설치를 공동 시행한다. 경기도는 도로 포장과 용지 확보를, 한전은 도로 밑 부분에 전력망을 구축하는 공사를 맡는다. 용인 처인구 원삼면에는 SK하이닉스 일반산단이 들어선다. 이곳에선 현재 반도체 팹(fab) 골조 공사가 진행 중이다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “이 공사가 완료되면 용인 반도체 클러스터 가운데 SK하이닉스 일반산단에 필요한 전력 6GW 중 이미 확보한 3GW 외에 나머지 부족분의 전력망 확보가 가능해지는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZDSZBRGY4DGZBSGE2GGZJTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지방도 318호선 위치도. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 공사는 이르면 내년 착공해 2032년 완공을 목표로 한다. 경기도는 단독으로 도로 공사만 추진할 경우 공사비 5568억원이 소요되는데, 한전과 함께 진행하면 중복 공사 비용을 2000억원 이상 절감할 수 있을 것으로 추산했다.&lt;br&gt;&lt;br&gt;또 기존 전력망 구축에 흔히 쓰이는 송전탑은 주민 반발이 거세 진행이 어려운데, 지중화는 이런 문제와 교통 혼잡, 소음, 분진 등의 문제도 줄일 수 있을 것으로 경기도는 기대했다.&lt;br&gt;&lt;br&gt;김동연 지사는 이날 협약식에서 “반도체 산업은 규모가 크고 안정적인 전력 공급이 핵심 경쟁력인데, 오늘 용인 반도체 클러스터 전력망을 구축하는 마지막 퍼즐이 완성됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최고 경쟁률 956대 1… 신혼부부 몰린 서울 한복판 한옥 정체</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/22/G456NP5PN5DDVORFIQAH3FC7WQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/G456NP5PN5DDVORFIQAH3FC7WQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:33:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOWBWXVEOFAR3AVDPCKJCCKV44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미리내집 한옥. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 신혼부부의 주거 안정을 위해 공급한 ‘미리내집 연계형 공공한옥’ 7가구에 2093명이 신청해 평균 299대 1의 경쟁률을 기록한 것으로 나타났다.&lt;br&gt;&lt;br&gt;22일 서울시에 따르면, 이번 공급에서 가장 인기를 끈 곳은 보문동 7호로 956대 1을 기록했다. 종전까지 미리내집 단일 매물 최고 경쟁률이었던 제4차 미리내집 호반써밋 개봉의 759대 1을 경신한 것이다. 원서동 5호는 284대 1, 가회동 1호는 263대 1로 뒤를 이었다.&lt;br&gt;&lt;br&gt;‘미리내집 연계형 공공한옥’은 신생아 가구·신혼부부·예비 신혼부부 등에게 공공한옥을 시세의 60∼70% 수준으로 빌려주는 임대주택으로, 작년 말 최초 입주자 모집을 공고했다. 원래 공방이나 한옥 체험 시설로 활용하던 집을 개조해 신혼부부용으로 꾸몄다. 서울시가 한옥을 개조해 공공임대주택으로 공급하는 것은 이번이 처음이다. 거주 중 자녀를 출산하면 10년 거주 후 장기전세주택으로 우선 이주를 신청할 수 있다.&lt;br&gt;&lt;br&gt;보문동 7호는 아파트와 단독주택이 섞인 일반 주거지역에 있어 생활 상권 접근성이 좋고, 방 3개를 갖춘 51.1㎡ 면적의 평면 구성이 큰 호응을 얻었다. 원서동 5호는 내부 공간을 다양하게 분할해 사용할 수 있는 가변성과 창덕궁 조망이, 가회동 1호는 넓은 마당과 다락 공간이 주는 한옥의 매력이 장점이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36G323XQ3JCDHEJE5P7FTKHCE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미리내집 한옥. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTDIY3FGQ2DOYJVHA3TIYLEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미리내집 연계형 공공한옥. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번에 공급된 한옥들은 중심업무지구와 인접해 원룸형부터 방 4개에 가족실 등을 갖춘 대형 한옥까지 위치·규모·구조가 다양한 것이 특징이다. 시는 이달 7∼14일 공급 예정인 한옥 7곳을 둘러볼 수 있도록 개방했는데, 3754명이 다녀가며 신청 흥행을 예고했다.&lt;br&gt;&lt;br&gt;시는 서울한옥포털과 서울주택도시개발공사(SH) 누리집을 통해 서류심사 대상자를 발표하고, 3월까지 대상자의 입주 자격을 확인한다. 당첨자는 4월 2일 발표하고, 4월 13∼15일 계약을 체결한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPQY5Q2F6BK67OZD34THFGBS7E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울 종로구 가회동 미리내집 연계형 공공한옥 1호에서 실제 공급 예정인 한옥을 둘러볼 수 있는 개방행사가 진행됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CY5GZAES4VMKFMBIOJUU5IVT2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이번에 공급되는 한옥 중 가장 큰 규모로 '3대 이상 대가족'에 해당하는 신청자를 우선 선정하는 종로구 원서동 4호 공공 한옥 모습. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “미리내집 공공한옥 개방 행사와 입주 신청에 시민 참여가 몰리며 한옥의 자연·육아 친화 주거에 대한 높은 관심과 수요가 뚜렷하게 확인됐다”고 했다. 이어 “이번 공급을 출발점으로 2026년에는 사업이 종료되는 공공한옥 7개소를 미리내집으로 전환해 추가 공급을 신속히 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘영하 19도’ 극한 한파, 이번 주말까지 계속된다</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/22/4OVISGKDLRDUTMYCITNKXPRZOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/22/4OVISGKDLRDUTMYCITNKXPRZOU/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:37:16 +0000</pubDate>
+      <content:encoded>이번 주 내내 전국을 강타한 ‘극한 한파’가 주말까지 이어질 전망이다. 추위는 다음 주 초부터 차차 누그러지겠지만, 평년보다 낮은 기온이 계속될 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65MLY2HFUFPRBLTXEFSNTSTHMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 서울 종로구 세종대로 사거리에서 패딩 점퍼에 달린 모자를 쓴 채 이동하고 있는 시민들의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 기상청에 따르면, 23일 전국 아침 최저기온은 영하 19도에서 영하 2도, 낮 최고기온은 영하 4도에서 영상 7도로 강추위가 계속 이어지겠다. 한파는 주말인 25일까지 이어질 전망이다. 24일과 25일에도 전국 최저기온은 영하 18도까지 떨어지겠다. 낮 동안에도 많은 지역의 기온이 영하권에 머물 것으로 예상된다. 여기에 강한 바람까지 불면서 체감 온도는 더욱 낮아지겠다.&lt;br&gt;&lt;br&gt;이번 한파가 이례적으로 길게 이어지는 것은 대기 상층에서 공기 흐름이 정체되며 북쪽에서 내려온 찬 공기가 빠져나가지 못하고 한반도 상공에 머물고 있기 때문이다.&lt;b&gt; &lt;/b&gt;특히 찬 북풍의 영향을 가장 먼저 받는 중부 내륙 지역을 중심으로 주말까지 아침 기온이 영하 10도를 밑도는 강추위가 이어질 전망이다.&lt;br&gt;&lt;br&gt;찬 공기의 영향으로 눈 소식도 잇따르겠다. 찬 공기가 상대적으로 따뜻한 바다를 지나며 눈구름대를 만들고, 이 구름이 육지로 이동하면서 눈을 뿌리는 것이다. 23일에는 경기 남부, 충남권, 전라 서부 지역에 눈이 내릴 가능성이 있다. 예상 적설량은 1~3㎝ 수준이다. 토요일인 24일에도 충남 서해안과 전라 서부를 중심으로 눈구름대의 영향이 이어질 전망이다. &lt;br&gt;&lt;br&gt;눈이 내리거나 이미 눈이 쌓인 중부 일부 지역과 전라권에서는 도로가 매우 미끄럽겠다. 빙판길과 도로 살얼음(블랙 아이스)이 곳곳에서 나타날 가능성이 있어 운전 시 주의해야 한다. &lt;br&gt;&lt;br&gt;다음 주부터는&lt;b&gt; &lt;/b&gt;대기 흐름이 원활해지면서 ‘극한 한파’는 다소 누그러질 것으로 예상된다. 그러나 북쪽에서 찬바람이 계속 불어와 평년보다 추운 날씨는 계속될 전망이다. 26~27일 전국 최저기온은 영하 12도에서 0도, 낮 기온은 영하 1도에서 영상 8도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캄보디아 보이스피싱 조직에 지인 넘긴 20대...2심서 징역 8년</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/22/MJSKYBYX5JCUBD57EGP7KRBL4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/MJSKYBYX5JCUBD57EGP7KRBL4Y/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:43:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXFQY2EFDNNMHB47OOPJWEU5TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울법원종합청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인을 캄보디아 보이스피싱 범죄 조직에 넘겨 20일 넘게 감금시킨 혐의로 기소된 20대가 항소심에서 징역 8년을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사2부(재파장 김종호)는 22일 국외이송유인과 공동감금 등 혐의를 받는 신모씨에게 징역 10년을 선고한 1심 판결을 파기하고 징역 8년을 선고했다. 재판부는 “엄히 처벌할 필요가 있다”면서도 신씨가 범행을 인정하고 반성하면서 피해자를 위해 1000만원을 공탁하는 등 피해 회복을 위해 노력한 점 등을 고려해 소폭 감형했다. 공범 박모씨와 김모씨에게는 각각 1심과 같이 징역 5년, 징역 3년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;이들은 피해자 A씨에게 사기 범행을 제안했다가 A씨가 거절하면서 준비 비용 등 손해가 발생하자 캄보디아 범죄조직에 넘긴 혐의를 받았다. A씨에게 “캄보디아에 가서 계약서만 받아오면 채무를 없애주겠다”고 속여 비행기에 태웠고, 현지 범죄 조직원들은 A씨를 캄보디아와 베트남 국경 인근에 있는 범죄단지에 감금한 뒤 여권과 휴대전화를 빼앗고 계좌를 범행에 이용한 것으로 조사됐다. 또 A씨 부모에게 A씨를 범죄단지에서 꺼내주겠다며 돈을 요구한 혐의도 받았다. A씨는 20여일간 캄보디아 범죄단지와 숙박업소 등에 감금됐다가 주캄보디아 한국대사관 도움으로 구출됐다. &lt;br&gt;&lt;br&gt;지난해 10월 1심 재판부는 범행을 지시한 신씨와 범행에 공모·가담한 박씨와 김씨에게 모두 실형을 선고하고 “피해자가 제때 구출되지 않았다면 언제까지 감금됐을지, 어느 정도의 정신적·신체적 고통을 겪었을지 가늠하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“피의자로 전환되고 싶냐” 협박... 변호인이 뽑은 최악·최고의 검사</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/22/OMJNW4CL6RHXBPSWOHOSHI4OLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/OMJNW4CL6RHXBPSWOHOSHI4OLI/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:23:25 +0000</pubDate>
+      <content:encoded>“피의자로 전환되고 싶냐. 솔직하게 말하라.”&lt;br&gt;&lt;br&gt;검사 A씨는 조사 과정에서 참고인 신분으로 소환된 B씨에게 이같이 말했다. 두려움을 느낀 B씨는 손을 떨며 말을 제대로 하지 못했는데, A씨는 “솔직하게 말하라”며 같은 질문을 5차례 이상 반복했다. B씨는 거듭 자신의 생각을 말했지만 A씨는 계속해서 솔직하게 말하라며 강압적인 분위기를 조성했다. 이에 B씨의 변호인은 “이런 분위기는 적절하지 않다. 참고인으로 참석했으니 강압적으로 질문하지 마라”며 말렸다. 하지만 A씨는 “빠져 있으라”며 변호인에게 발언 기회를 주지 않았다.&lt;br&gt;&lt;br&gt;또 다른 검사는 심야 조사를 하면서도 참고인 C씨의 동의를 구하지 않았다. 법무부령인 인권보호수사규칙에 따라 오후 9시∼오전 6시에 심야 조사를 하려면 피의자가 동의해야 한다. 하지만 담당 검사는 참고인 조사를 이어가면서 “거짓말을 하고 있다. C씨 때문에 공범의 구속 가능성이 높아진다”며 진술을 강요했고, 범죄 사실과 무관한 별건에 대해서도 “죄가 된다”며 추궁했다. 검사는 동석한 변호인을 비난하는 언행을 하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTGYZQHFTGMOBRMNRTQZJZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한변호사협회(변협)가 22일 전국 검찰청 검사를 평가한 ‘2025년 검사 평가’ 결과를 발표했다. 변협은 2024년 11월부터 지난해 10월까지 전국 검찰청의 수사 및 공판 검사를 대상으로 한 변호인 평가 총 9519건을 접수했다. 이 중 5인 이상의 변호인들로부터 평가를 받은 수사 검사 396명과 공판 검사 329명에 대한 평가와 우수·하위 검사 사례를 수집했다. &lt;br&gt;&lt;br&gt;하위 검사들은 위 사례처럼 참고인이나 피의자를 상대로 강압적인 분위기를 조성하거나 정당한 방어권 행사를 막는 모습을 보였다. 변협이 소개한 사례 중에는 검사가 조사 일정을 금요일 오후에 토요일로 통보했는데, 다시 토요일이 불가하다며 일요일로 소환 요청을 한 내용이 포함됐다. 담당 변호인은 강압적인 조사 일정으로 변호인과 의뢰인 모두 힘들어했다며 정당한 방어권 행사가 어려웠다고 설명했다. &lt;br&gt;&lt;br&gt;피의자가 자백에 가까운 진술을 했음에도 재차 보완수사를 내린 일도 있었다. 검사는 경찰이 오랜 기간 수사해 송치한 사건에 대해 보완수사를 지시했는데, 이후 경찰이 피의자의 자백에 가까운 진술을 확보했음에도 재차 보완수사를 지시했다. 이에 대해 변호인은 “수사 지연으로 피해자들의 피해는 가중되고 피의자는 반성 없이 편하게 살아가고 있다”며 “수사권 조정 이후에 보완수사 제도를 미제 처리를 위한 방편으로 악의적으로 사용하는 대표 사례“라고 지적했다. 이외에도 재판장의 석명 요구에도 두 차례 의견서를 제출하지 않거나 재판부에서 요청한 사항에 대한 확인을 미뤄 재판을 지연시키는 등 재판 준비가 미흡한 사례도 담겼다.&lt;br&gt;&lt;br&gt;변협은 우수 수사검사와 공판검사 각 10명씩 선정하기도 했다. 우수 수사검사에는 김유진(인천지검 부천지청)·김진희(서울중앙지검)·모형민(광주지검) 검사 등이 소개됐으며, 우수 공판검사로는 강기보(수원지검 평택지청)·김미선(부산지검 서부지청)·김상순(수원지검 안산지청) 검사 등이 이름을 올렸다.&lt;br&gt;&lt;br&gt;우수검사 사례로는 진술이 엇갈리는 사건에서 검사가 당사자들의 진술을 전체적으로 청취해 합리적인 결론을 내리거나 치밀한 기록 검토와 객관적인 증거 판단으로 사건의 쟁점을 파악한 내용이 소개됐다. 이외에도 증인신문 과정에서 아동인 피해자의 원활한 진술을 듣기 위해 노력하거나 성범죄 피해자 조사에서 피해자의 고통과 상황을 이해하며 수사에 임하는 등 피해자를 배려한 사례도 담겼다.&lt;br&gt;&lt;br&gt;변협은 2025년 검사 평가 전체 평균 점수는 83.39점이라고 밝혔다. 전년 점수인 84.56점보다 1.17점 낮아졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“운영계획서 오류” 막판 반전… 제지업체 고형연료 소송 패소</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/22/36E4S4MN2ZCI3KRZEHYE4K6EJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/36E4S4MN2ZCI3KRZEHYE4K6EJM/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Jan 2026 08:22:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주시의 한 제지업체가 “발전 시설 고형연료(SRF) 사용 허가를 내달라”며 관할 관청을 상대로 소송을 냈지만 패소했다.&lt;br&gt;&lt;br&gt;전주지법 행정1-2부(재판장 임현준)는 종이 제조업체 A사가 전주시 등을 상대로 제기한 고형연료 제품 사용 불허가 처분 취소 소송에서 원고의 청구를 기각했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A사는 지난 2017년 SRF 시설 설치 허가를 받고 가동을 준비해 왔으나, 2024년 전주시가 “주민 수용성이 검증되지 않았고 환경 오염 우려가 있다”며 사용을 허가하지 않자 행정 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 당초 전주시의 처분에 대해 부정적인 입장이었다. &lt;br&gt;&lt;br&gt;재판부는 “법령에 규정되지 않은 주민 동의를 처분 근거로 삼을 수 없다”며 이미 적법하게 설치 허가를 받은 시설을 주민 민원 때문에 막는 것은 행정청의 재량권 일탈·남용에 해당한다고 봤다. 고형연료 사용 시 대기오염 물질 배출이 우려되는 것은 사실이나, 이것만으로 불허할 수는 없다는 판단이었다.&lt;br&gt;&lt;br&gt;하지만 전주시가 뒤늦게 제출한 자료로 재판 흐름은 급변했다. 전주시가 변론 종결 이후 “업체가 제출한 운영 계획서를 정밀 검토한 결과 오류가 발견됐다”며 법원에 추가 자료를 제출했다. 전주시가 당초 불허가 처분을 내릴 당시에는 운영 계획서를 구체적으로 검토하지 않았으나, 소송이 제기된 후에야 이를 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;원칙적으로 행정소송에서는 처분 당시에 없던 사유를 사후에 추가할 수 없으나, A사 측이 전주시의 추가 자료에 대한 심리에 동의하면서 재판이 속행됐다. 재판부는 “원고(A사)가 동의한 이상, 새로운 결함 문제도 재판 심리 대상이 된다”고 판단했다.&lt;br&gt;&lt;br&gt;전주시의 새로운 주장을 검토한 법원은 결국 A사의 허가 신청을 거부할 사유가 충분하다고 결론 내렸다. &lt;br&gt;&lt;br&gt;재판부는 “원고의 운영 계획서상 약품 사용량 및 촉매 성분 등에 대한 근거 제시가 미비하다”며 “이러한 내용의 보완 없이는 신청을 불허해도 타당하다”고 판시했다.&lt;br&gt;&lt;br&gt;판결 직후 전주시 SRF 소각장 반대 대책위원회는 “이번 판결은 시민의 끈질긴 투쟁과 연대가 만든 값진 성과이자 이윤만을 앞세운 기업을 향한 경고”라며 “A사는 이번 판결을 겸허히 받아들여 고형 연료 시설 추진을 즉각 중단하라”고 촉구했다. 전주시도 “법원의 결정을 존중하며 원고가 항소할 경우 적극적으로 대응하겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘너무 울어서…’, 생후 9개월 아들 숨지게 한 아빠 중형 선고</title>
       <link>https://www.chosun.com/national/court_law/2026/01/22/ZMZSONKQ6RHIDE2DWNWWYPHBZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/ZMZSONKQ6RHIDE2DWNWWYPHBZI/</guid>
@@ -819,24 +949,6 @@
       </media:content>
     </item>
     <item>
-      <title>[오늘의 날씨] 2026년 1월 22일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/21/V2CG3YWJEFD25N2UT7AANU7KFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/21/V2CG3YWJEFD25N2UT7AANU7KFY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 14:31:00 +0000</pubDate>
-      <content:encoded>강추위 이어져...빙판길 주의&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESQBQUIKARBJZJDKIJOXZ75VJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학생이 준 ‘두쫀쿠’ 자랑했다가…‘김영란법 위반’ 신고당한 교사</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/21/YGN7X6PWWVH43LQKEZ7Z5LQ4LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/YGN7X6PWWVH43LQKEZ7Z5LQ4LY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 12:55:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POYBAVEOGBCCDF2HMXK3KRTNM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학생으로부터 두바이쫀득쿠키(두쫀쿠)를 받았다는 교사 사례가 알려져 청탁금지법 위반 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;21일 온라인에는 ‘방학에 뇌물 받은 교사 민원 넣는다’라는 제목으로 네티즌 A씨가 작성한 글이 확산했다.&lt;br&gt;&lt;br&gt;A씨는 “교사들 인스타그램 계정을 찾다 보니 이런 게 뜬다”며 한 인스타그램 게시물을 캡처해 올렸다. 여기에는 교사로 추정되는 이가 한 입 베어 문 두쫀쿠 사진과 함께 “방학인데 누추한 교무실에 귀한 OO이가 찾아와서 투척한 두쫀쿠”라는 문구가 담겼다.&lt;br&gt;&lt;br&gt;A씨는 “방학인데 담당 학생이 찾아와서 간식을 주는 게 합법이냐”며 “교육청에 민원을 넣었다”고 했다.&lt;br&gt;&lt;br&gt;이른바 ‘김영란법’으로도 불리는 청탁금지법에 따르면, 재학 중인 학생이나 그 보호자가 교사에게 제공하는 금품·선물은 금액과 관계없이 원칙적으로 금지된다. 이는 교사가 학생의 평가·지도 등 직무와 직접적인 관련성을 갖고 있기 때문이다. 다만 졸업 등으로 직무 관련성이 완전히 소멸한 경우에는 사회상규에 따라 예외적으로 허용될 수 있다. A씨가 민원을 넣었다는 교사가 현재 재학 중인 학생으로부터 두쫀쿠를 받은 것인지는 알려지지 않았다.&lt;br&gt;&lt;br&gt;이번 일을 두고 네티즌 사이에서는 엇갈린 반응이 나왔다. “팍팍하다”는 의견과 “원칙은 원칙”이라는 반응으로 갈렸다. 네티즌들은 “원칙적으로는 잘못됐지만, 도의적으로 봤을 때 너무 어거지 같다” “그냥 교사가 학생과 훈훈하게 음식 주고받는 모습 아니냐” “세상 너무 각박하다” “저런 거 받은 학생한테는 객관적으로 평가 못 하고 주관이 들어가기 마련” “요즘 두쫀쿠 가격 생각하면 뇌물로 볼 수 있을 것 같다” 등 다양한 의견을 냈다.&lt;br&gt;&lt;br&gt;특히 현직 교사로 추정되는 네티즌은 “실제 학교 현장에서는 스승의 날에도 음료 한 병 받지 않는 분위기”라며 “편지 외에는 모두 돌려보낸다”고 했다. &lt;br&gt;&lt;br&gt;일부는 “청탁금지법 취지는 이해하지만, 일선 교사에게만 지나치게 엄격하게 적용되는 측면이 있다”며 법과 현실 사이의 괴리를 지적하기도 했다.&lt;br&gt;&lt;br&gt;교육 당국은 개별 민원에 대한 조사 여부와 별개로 “교사는 학생·학부모로부터 오해의 소지가 있는 금품 수수를 철저히 경계해야 한다”는 기존 입장을 유지하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>환율, 李대통령 ‘구두 개입’에 나흘 만에 하락… 장중 1460원대까지</title>
       <link>https://www.chosun.com/national/national_general/2026/01/21/PBXIZQDPZFGKVCFAQ7S4XQDK5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/PBXIZQDPZFGKVCFAQ7S4XQDK5Y/</guid>
@@ -850,61 +962,6 @@
       </media:content>
     </item>
     <item>
-      <title>컬리 대표 남편, 수습 직원 성추행 의혹… “정직 처분, 업무 배제”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/21/6VIQFC4BSVB4FD7QC6TCALWWH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/6VIQFC4BSVB4FD7QC6TCALWWH4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 10:49:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKJPQSRZKZQKK6ATPVTF3GE5IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/컬리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 이커머스 업체 컬리 김슬아 대표의 남편인 넥스트키친 대표가 수습 직원을 성추행했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;넥스트키친은 21일 입장문을 내고 “당사 대표이사의 불미스러운 사건으로 많은 분들께 심려를 끼쳐 드린 것에 대해 깊이 사과드린다”며 “피해 직원분께도 다시 한번 진심으로 사과의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;넥스트키친은 2024년 사업보고서상 컬리가 지분 46.4%를 보유한 관계사로, 컬리에 가정간편식(HMR) 등을 납품한다.&lt;br&gt;&lt;br&gt;넥스트키친은 “회사는 이번 사안의 엄중함을 무겁게 인식하고 있다”며 “이에 확실한 재발 방지책을 전면적으로 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “우선 독립적인 외부 전문 기관을 통해 본 사안에 있어 피해자 보호를 포함한 회사의 조치가 적절했는지에 대한 전면적인 점검을 진행하겠다”며 “점검이 완료될 때까지 대표이사에게 정직 처분을 내리고 어떠한 영향력도 발휘할 수 없도록 회사의 모든 업무에서 배제하겠다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “금일 보도를 접하며 회사는 피해자께서 겪으셨을 당시의 고통을 다시 한번 통감하고 반성한다”며 “피해 직원분께 다시 한번 진심으로 사과의 말씀을 드린다. 앞으로 더욱 좋은 직장 문화를 가진 회사로 거듭날 것을 약속드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이날 디스패치는 넥스트키친 대표 정모씨가 작년 6월 사내 회식에서 수습 직원 A씨를 성추행했다고 보도했다. A씨는 사건 이후 정신과에서 PTSD(외상 후 스트레스 장애) 등을 진단받았으며, 결국 정씨를 강제추행죄로 고소했다고 한다. 서울동부지검은 지난달 31일 강제추행 혐의로 정씨를 불구속 기소한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가습기 살균제 피해자들 또 일부승소… 법원 “국가도 책임 있다”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/21/5DJWYO2I6RAJRMJAQTERC5VIK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/5DJWYO2I6RAJRMJAQTERC5VIK4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 10:42:40 +0000</pubDate>
-      <content:encoded>‘가습기 살균제 사건’에 대해 국가의 배상 책임을 인정하면서도, 이미 국가로부터 구제급여를 받은 피해자에게는 추가 배상이 필요 없다는 법원 판단이 또 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2DSZDCHE3GMYTCMJQTOY3EGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가습기살균제 참사 피해자 가족과 환경시민단체 회원이 지난 2023년 2월6일 서울 광화문광장 이순신동상 앞에서 가습기살균제 참사 피해조정안 수용 촉구와 옥시·애경 불매운동 및 살균성분제품 제조판매사의 유죄판결 촉구 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 서울중앙지법 민사46부(재판장 김형철)는 가습기 살균제 피해자 7명이 국가와 가습기 살균제 업체들을 상대로 제기한 손해배상 청구 소송에서 “국가 책임을 인정하지만, 손익상계를 거칠 경우 국가가 책임질 부분이 남아있지 않다”며 원고 일부 승소 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “(가습기 살균제 제조 업체인) ‘세퓨’는 피해자 3명에게 800만~1000만원을 지급하라”고 판결했다. 가습기 살균제 제조·판매자 ‘옥시레킷벤키저’(옥시)와 원료 제조사인 ‘한빛화학’ 등에 대한 청구는 모두 기각했다.&lt;br&gt;&lt;br&gt;이번 판결은 2012년 8월 소송이 제기된 지 13년 만에 나왔다. 소송에는 한때 피해자 80명까지 늘어나기도 했으나, 7명을 제외하고는 대부분 피해자가 소송을 취하하거나 화해 권고를 받아들였다.&lt;br&gt;&lt;br&gt;가습기 살균제 사건은 1994년 처음 판매된 가습기 살균제 제품이 사용자들의 폐 손상 등을 일으킨 사건이다. 어린이와 임산부를 중심으로 ‘원인을 알 수 없는 폐 질환’이 잇따랐고, 2011년 질병관리본부 역학조사를 통해 살균제와의 인과관계가 확인됐다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 2018년 1월 옥시 전직 대표가 업무상 과실치사 등 혐의로 대법원에서 징역 6년이 확정됐고, 이후 2024년 2월에는 가습기 살균제 피해에 대한 국가 책임을 처음으로 인정하는 서울고법 판결이 나왔다. 다만 당시 법원은 특별법에 따라 국가로부터 구제급여를 받은 경우에는 추가 배상을 받을 수 없다고 판단했고, 이 판결은 그해 6월 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새 대법관 후보에 김민기·박순영·손봉기·윤성식</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/21/FGTOEJL67NGTRIQMONRNYBCMCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/FGTOEJL67NGTRIQMONRNYBCMCE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 09:38:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKYVLVLFYRAP3HH5R2P54KFNLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 대법관 후보로 추천된 후보자. 왼쪽 위부터 시계방향으로 김민기(55·사법연수원 26기) 수원고법 판사, 박순영(59·25기) 서울고법 판사, 윤성식(57·24기) 서울고법 부장판사, 손봉기(60·22기) 대구지법 부장판사/대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법관후보추천위원회는 오는 3월 임기 만료로 퇴임하는 노태악 대법관 후임으로 김민기(55·사법연수원 26기) 수원고법 판사, 박순영(59·25기) 서울고법 판사, 손봉기(60·22기) 대구지법 부장판사, 윤성식(57·24기) 서울고법 부장판사를 조희대 대법원장에게 추천했다고 21일 밝혔다. 4명 모두 현직 법관이다.&lt;br&gt;&lt;br&gt;대법관추천위는 “갈등과 분열이 격화되는 사회에서 대법원은 상식적이고 공정한 판결로 분쟁을 해소하고 기본권을 보장해야 한다”며 “전문적인 법률 지식, 합리적 판단 능력, 균형감 등 법률가로서의 기본적 자질과 능력은 물론, 국민의 눈높이에 맞는 보편적 양심과 청렴성, 국민의 자유와 권리 보장에 대한 사명감, 법치주의와 사법부 존엄에 대한 신념, 사회적 약자와 소수자 보호에 대한 의지, 시대의 변화를 읽어내고 사회의 다양한 가치를 아우르는 통찰력과 식견을 두루 갖춘 후보자를 추천하는 데 집중했다”고 밝혔다.&lt;br&gt;&lt;br&gt;김민기 고법판사는 서울지법·서울행정법원 등을 거쳐 대법원 재판연구관을 지냈다. 박순영 고법판사도 재판연구관 경력이 있고 서울고법과 대전고법에서 근무했다. 손봉기 부장판사는 사법연수원 교수와 대구지법원장을 지냈다. 윤성식 부장판사는 사법연수원 교수와 법원행정처 공보관·기획조정 실장 등을 역임했다.&lt;br&gt;&lt;br&gt;조 대법원장은 26일까지 법원 안팎의 의견을 수렴한 뒤 이 가운데 1명을 다음 주 이재명 대통령에게 임명 제청할 예정이다. 후보자가 국회 인사청문회와 본회의 표결을 통과하면 대통령이 대법관으로 최종 임명한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PXR4RH72QVBBJJK7VIGDXDTOMQ.jpg?auth=4d8f2b73ba9dc203245aa671e053aed42dc8d3b017283149af22ed0b7d9d13a3&amp;smart=true&amp;width=1890&amp;height=1417" type="image/jpeg" height="1417" width="1890"/>
-    </item>
-    <item>
-      <title>[단독] 정교유착 합수본, ’20년 신천지 활동 후 탈퇴' 현직 목사 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/21/J6WTENVIXVEBRPLSBS5DYEJ7PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/J6WTENVIXVEBRPLSBS5DYEJ7PQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 09:54:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNXBSIX35FNOJMMQW3H37JJNPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교와 신천지 등 특정 종교단체가 정치권에 영향을 끼쳤다는 내용의 '정교유착' 의혹을 수사하는 검찰·경찰 합동수사본부 김태훈 본부장이 지난 8일 서울 서초구 서울고검으로 출근하며 취재진의 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교와 신천지 관련 정교 유착 의혹을 수사하는 검경 합동수사본부(합수본)가 21일 20년 동안 신천지 활동을 한 후 탈퇴한 현직 목사를 소환 조사했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 합수본은 이날 신천지 출신 목사 A씨를 참고인으로 불러 조사했다. A씨는 1986년부터 2006년까지 신천지 교육장을 지내는 등 활발히 활동하다가 현재는 이단상담소를 운영하고 있는 인물이다. 교육장은 신천지에서 가장 높은 단계의 직위로, 이만희 총회장의 핵심 측근 역할을 한다. 신천지는 이 회장을 정점으로 교육장 7명, 지파장 12명, 장로 24명의 조직 구조로 이뤄져 있다.&lt;br&gt;&lt;br&gt;신천지의 국민의힘 집단 당원 가입 의혹을 수사하는 합수본은 A씨를 상대로 신천지의 조직 구조와 의사결정 과정 등 기초적인 사실 관계를 조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 같은 날 합수본은 이 회장의 경호원을 지낸 이모씨도 참고인으로 소환 조사 중이다. 이씨는 신천지 회장의 경호 조직인 ‘일곱 사자’의 일원으로서 이 회장을 지근거리에서 수행한 인물이다.&lt;br&gt;&lt;br&gt;신천지는 2021년 11월 국민의힘에 집단으로 입당해 당시 치러진 대선 경선에서 윤석열 전 대통령이 대선 후보로 선출되도록 지원했다는 의혹을 받는다. 합수본은 이 같은 집단 입당이 이 회장의 지시로 이뤄졌다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“계엄이 빨리 끝난 건 국민 덕분”… 선고 중 울컥한 이진관 부장판사</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/21/UL6VRQX6O5H4DM5YU2PHJXPTRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/UL6VRQX6O5H4DM5YU2PHJXPTRA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 09:57:02 +0000</pubDate>
-      <content:encoded>서울중앙지법 형사33부 이진관 부장판사는 21일 한덕수 전 국무총리에게 징역 23년을 선고하면서 12·3 비상계엄을 ‘친위 쿠데타에 해당하는 내란’으로 규정했다. 이 부장판사는 이날 선고 과정에서 잠시 목이 메는 듯한 모습을 보이기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2TIMDGGU3GEOLGGI2DONZYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진관 부장판사가 21일 서울 서초구 서울중앙지방법원에서 열린 한덕수 전 국무총리 내란 우두머리 방조, 내란 중요임무 종사 혐의 사건 1심 선고공판에서 선고문을 읽고 있다. /서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 부장판사는 판결 선고 내내 이번 사건을 ‘12·3 내란’으로 지칭하며 위법성을 강조했다. 그는 “12·3 내란은 국민이 선출한 권력자인 윤석열 전 대통령과 그 추종 세력에 의한 것으로, 성격상 위로부터의 내란에 해당한다”며 “이런 형태의 내란은 이른바 ‘친위 쿠데타’라고 불린다”고 했다. 이어 “그 위험성은 아래로부터의 내란과 비교할 수 없다”며 “국민이 선출한 권력자가 내란 행위를 함으로써 국민이 가진 민주주의·법치주의 신념 자체를 뿌리째 흔들기 때문”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이 부장판사는 계엄이 비교적 빠른 시간 내 해제된 점에 대해서도 “무장한 계엄군을 맨몸으로 맞서며 국회를 지킨 국민 용기에 의한 것”이라고 했다. 이 대목을 읽던 이 부장판사는 약 5초간 말을 잇지 못하고 안경을 만지며 숨을 고르기도 했다.&lt;br&gt;&lt;br&gt;그는 이어 “국민의 저항을 바탕으로 신속히 국회에 진입해 계엄 해제를 의결한 일부 정치인들의 노력, 암울한 내란의 기억을 상기하면서 위법한 지시에 저항하거나 소극적으로 참여한 일부 군인과 경찰에 의한 것”이라며 “결코 내란 가담자들에 의한 것이 아니다”라고 했다. 그러면서 “가담자의 형을 정하는 데 있어 (계엄이) 짧은 시간 동안만 진행됐다는 사정을 고려할 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사람이 피 흘리며 쓰러져 있다”…양산서 20대 숨져 </title>
-      <link>https://www.chosun.com/national/2026/01/21/SEJH7MY5AZCFHCKDKRNPO4H44E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/21/SEJH7MY5AZCFHCKDKRNPO4H44E/</guid>
-      <dc:creator>양산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 09:40:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산 한 공장 주차장에서 피를 흘리며 쓰러진 채 발견된 20대 남성이 숨져 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;21일 소방 당국과 경찰에 따르면, 이날 오전 5시 38분쯤 “주차장에 사람이 넘어져 피를 흘리고 있다”는 신고가 접수됐다. 구급대가 현장에 도착했을 때 이 남성은 머리에 피를 흘린 채 웅크린 자세로 발견됐다고 한다. 의식과 호흡, 맥박이 없는 심정지 상태였다. &lt;br&gt;&lt;br&gt;소방 당국은 남성을 인근 병원으로 긴급 이송했지만 끝내 숨졌다. &lt;br&gt;&lt;br&gt;사고 현장 주변에는 약 5m 높이의 옹벽이 있다고 한다. 옹벽 아래 콘크리트 구조물에는 숨진 남성의 것으로 추정되는 모발 등이 발견됐다. &lt;br&gt;&lt;br&gt;경찰 등은 A씨가 옹벽 위에서 발을 헛디뎌 추락했을 가능성에 무게를 두고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 범죄 혐의점은 없는 것으로 보인다”며 “주변 감시 카메라(CCTV) 분석과 목격자 진술 등을 토대로 정확한 사고 경위를 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원 “한국가스공사, 삼성중공업에 2996억 지급하라... 설계 결함”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/21/O6Q7PYXLFZGLLCEGCOTMZM55JU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/O6Q7PYXLFZGLLCEGCOTMZM55JU/</guid>
@@ -912,66 +969,6 @@
       <description/>
       <pubDate>Wed, 21 Jan 2026 09:09:13 +0000</pubDate>
       <content:encoded>한국형 LNG 화물창(KC-1)을 개발한 한국가스공사가 설계 결함으로 발생한 손해에 대해 건조사인 삼성중공업에 약 2996억원을 지급해야 한다는 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NEONNL5P2FATE6IJ2JWQHXZ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사20부(재판장 이세라)는 지난 16일 삼성중공업이 한국가스공사를 상대로 제기한 구상금 청구 소송에서 가스공사에 책임이 있다며 삼성중공업에 2995억9700만원 가량을 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;삼성중공업은 2015년 1월 SK해운의 특수목적법인인 SHIKC1, SHIKC2와 KC-1을 적용한 LNG 운반선 2척의 건조 계약을 체결했다. 이후 2018년 2월과 3월 각각 선박을 인도했는데, 선주사는 이 과정에서 화물창의 최저 온도보다 선체의 온도가 낮아지는 ‘콜드스팟’ 현상이 나타났다며 운항을 중단하고 수리를 맡겼다. 이후 선주사는 선박의 화물창 하자 수리 지연 등으로 선박 가치가 하락하고 미운항 손실 등이 발생했다며 영국 중재재판소에 삼성중공업을 상대로 손해배상을 청구했고, 영국 중재재판소는 삼성중공업이 SK해운에 2억9000만달러(약 3900억원)를 배상하라고 판단했다. 이에 따라 삼성중공업은 SK해운에 중재 판결금 3900억원을 지급했고, 가스공사의 설계가 부실했다며 가스공사에 구상금 청구 소송을 걸었다.&lt;br&gt;&lt;br&gt;재판부는 가스공사의 손해배상 책임을 인정했다. 재판부는 “한국가스공사는 새로 개발된 화물창이 기본적인 안전성을 갖출 수 있도록 하자 없는 기술을 개발하여야 할 주의의무가 있음에도 이를 게을리했다”며 “한국가스공사의 귀책에 의한 위법행위로 평가된다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광양 옥곡면 산불, 대응 2단계 격상... 주민 대피, 강풍에 진화 어려워</title>
-      <link>https://www.chosun.com/national/regional/2026/01/21/ZXQD7PO6KFEKRHNDAOFCXX7JPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/21/ZXQD7PO6KFEKRHNDAOFCXX7JPI/</guid>
-      <dc:creator>광양=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 08:41:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSTKMZTGAZWINLDMI3TOMJQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 전남 광양 옥곡면 백운산 자락서 불이 나 소방당국이 대응 2단계를 발령하고 화재를 진화하고 있다./전남소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 광양시 옥곡면에서 발생한 산불이 강한 바람을 타고 인근 야산으로 빠르게 확산하면서 소방 당국이 ‘대응 2단계’를 발령하고 총력 진화에 나섰다.&lt;br&gt;&lt;br&gt;21일 소방 당국에 따르면 이날 오후 3시 2분쯤 광양시 옥곡면 묵백리 한 주택에서 불이 시작됐다. 건조한 날씨 속에 불길은 인근 백운산 자락으로 옮아붙었다. 소방 당국은 오후 3시 48분쯤 소방 대응 1단계를 발령하고 나서 오후 4시 41분쯤 2단계로 대응 단계를 격상했다. &lt;br&gt;&lt;br&gt;헬기 16대 등 소방 장비 54대와 대원 88명을 투입해 불을 끄고 있다. 산불영향구역은 15㏊로, 화선 길이는 1.76㎞다. 이 중 0.35㎞는 진화 완료돼 진화율은 20%다.&lt;br&gt;&lt;br&gt;현재까지 확인된 인명 피해는 없지만 불이 시작된 주택 1동이 전소했다. 여기서 시작한 불길이 산등성이를 타고 진상면 내금마을 방향으로 확산해 추가 피해가 우려된다고 소방 당국은 밝혔다. &lt;br&gt;&lt;br&gt;광양시는 긴급 재난 문자를 통해 화재 현장 인근 주민들에게 안전한 곳으로 대피해 달라고 당부했다. 주민들은 안내에 따라 면사무소 등으로 분산 대피하고 있다. 당국은 가택 수색을 통해 미처 대피하지 못한 주민이 있는지 확인하고 있다.&lt;br&gt;&lt;br&gt;당국은 가용한 모든 장비와 인력을 투입해 방화선을 구축하고 있다. 현재 광양 지역에는 건조주의보가 내려졌다. 산 정상부를 중심으로 강한 바람이 불고 있어 헬기 접근과 진화 작업에 큰 어려움을 겪고 있다. 서풍의 바람이 평균 풍속 초속 3.6ｍ로 불고 있다. 앞서 산림청은 지난 13일 전국의 산불 재난 국가 위기 경보를 ‘관심’에서 ‘주의’ 단계로 상향했다&lt;br&gt;&lt;br&gt;소방 당국은 일몰 전까지 주불을 잡는 것을 목표로 진상면 방면 확산 저지에 집중하고 있다. 소방과 경찰 관계자는 “진화가 마무리되는 대로 정확한 화재 원인과 피해 규모를 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>韓 구형보다 센 선고 이진관 판사... 대장동·성남FC 재판 연기하기도</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/21/MNAPFIQMZJFM3CJHMNQAQRDRQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/MNAPFIQMZJFM3CJHMNQAQRDRQQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 06:56:00 +0000</pubDate>
-      <content:encoded>21일 한덕수 전 국무총리에게 징역 23년을 선고한 서울중앙지법 형사33부 재판장 이진관 부장판사는 엄격하게 재판을 지휘하는 모습을 보여 화제가 됐다. 법정에 나온 윤석열 정부 국무위원들에게 “계엄을 말렸어야 하는 것 아니냐”고 묻는 등, 유죄의 예단(豫斷)을 갖고 재판을 이끈 것 같다는 비판도 함께 제기됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXFEL4F5VVGA5M2NWHCRDISRQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 한덕수 전 국무총리의 내란중요임무 종사 1심에서 징역 23년을 선고한 이진관 부장판사./서울중앙지방법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 부장판사는 한 전 총리 재판에 증인으로 출석한 국무위원들에게 ‘계엄 선포를 적극적으로 막았어야 했다’는 취지의 지적을 수차례 던졌다. 이 부장판사는 작년 11월 10일 법정에 출석한 송미령 농림축산식품부 장관에게 “국무위원들이 계엄 선포를 모두 반대했다고 말씀하셨는데, 실제로 영향을 미친 건 없지 않느냐”고 지적했다. 이 부장판사는 같은 달 24일 한 전 총리의 피고인 신문 때는 “피고인이 계엄 선포를 막을 의사가 있었다면, 최상목 전 경제부총리가 ‘계엄 선포를 재고해달라’고 윤 전 대통령에게 말할 때 왜 가만히 계셨느냐”고 질타하기도 했다. 이런 모습이 유튜브를 통해 공개되며 화제가 된 것이다.&lt;br&gt;&lt;br&gt;재판 모습이 공개되자 법조계 일각에선 “이 부장판사의 재판 지휘가 이례적일 정도로 강경하다”며 “내란 혐의가 유죄라는 예단을 갖고 재판한 느낌을 받는다”는 반응도 나왔다. 이 부장판사는 작년 10월 한 전 총리의 3차 공판에서 특검에 “내란 중요 임무 종사 혐의를 추가해 공소장을 변경해 달라”고 요구했고, 이날 해당 혐의를 유죄로 인정했다. 이 부장판사는 또 윤석열 전 대통령, 김용현 전 국방장관, 이상민 전 행정안전부 장관 세 명을 작년 11월 증인으로 소환했으나 이들이 모두 재판에 나오지 않자 과태료 500만원씩을 부과하고, 구인장도 발부했다. 세 사람은 그달 19일 모두 법정에 나왔다. 이 과정에서 이 부장판사는 김 전 장관 변호인단이 법정에서 소란을 일으켰다며 이례적으로 감치 재판을 열고 감치 15일을 선고하기도 했다.&lt;br&gt;&lt;br&gt;다만 법원 안팎에선 이 부장판사가 뚜렷한 정치색 없이 재판을 이끌었다는 평가가 나온다. 증인 소환 등 계획을 꼼꼼히 세워 재판을 엄격하게 지휘했을 뿐이란 것이다. 이 부장판사는 2003년 사법연수원을 32기로 수료한 뒤 수원지법 판사로 임관했고, 작년 2월 중앙지법 형사33부 재판장을 맡았다. 이 부장판사는 이재명 대통령의 ‘대장동·위례·백현동·성남FC' 사건 재판을 맡았다가 이 대통령이 당선된 뒤 헌법상 불소추 특권을 이유로 재판을 무기한 연기했다. 함께 기소된 정진상 전 더불어민주당 정무조정실장 재판은 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4S3V5OEN7BCY3AS2Z5TWRDCZKQ.png?auth=deae1812b86e412927d794379b521e15875756b6fb97c9c2c6d09c76f00145ab&amp;smart=true&amp;width=1894&amp;height=1111" type="image/png" height="1111" width="1894">
-        <media:description type="plain">2026년 1월 21일 오후 서울 서초구 서울중앙지법 417호 대법정에서 열린 한덕수 전 국무총리의 내란중요임무 종사 1심 선고 공판에서 한덕수 전 총리가 선고때 일어서 있다./서울중앙지법</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>법원, 한덕수 전 국무총리에 징역 23년 선고... 법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/21/MPCGIA4CYBEUFKUTMM4IDELCUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/MPCGIA4CYBEUFKUTMM4IDELCUQ/</guid>
-      <dc:creator>오유진 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 06:03:31 +0000</pubDate>
-      <content:encoded>서울중앙지법 형사33부(재판장 이진관)는 21일 한덕수 전 국무총리의 내란중요임무종사 혐의를 유죄로 인정하며 징역 23년을 선고하고 법정 구속했다. 특검은 앞서 한 전 총리에게 징역 15년을 구형했는데, 형량을 크게 늘려 선고한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GAE6RF6QBIEBEN2TMVRM6AOQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 21일 서울중앙지법 형사33부(재판장 이진관)에서 열린 선고 공판에 출석한 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 이날 윤석열 전 대통령이 2024년 선포했던 ‘12·3 비상계엄’을 ‘위로부터의 내란’으로 보고 ‘친위 쿠데타’에 해당한다고 밝혔다. 이러한 친위 쿠데타는 역사적으로도 많은 경우에 성공했고, 권력자가 독재자에 올라 국민의 기본권을 침해했다는 것이다. 재판부는 비상계엄의 위험성에 대해 “아래로부터의 내란과 비교할 수 없다”며 “기존 내란 범죄에 대한 대법원 판결들은 형을 정하는 데 있어 기준이 될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;구체적으로 재판부는 “국민이 선택한 권력자가 헌법과 법률을 경시하고, 이를 위반한 내란 행위를 한 것”이라며 “국민이 가진 민주주의와 법치주의에 대한 신념 자체를 뿌리째 흔들었다”고 했다. 이어 “위헌·위법한 계엄이 계몽적 계엄이라거나 경고성 계엄이라고 주장하는 사람들, 자신의 정치적 입장을 위해서는 헌법을 위반할 수 있고 피해를 줄 수 있다는 걸 당연하다고 생각하는 사람들이 있다”고 했다. 12·3 계엄이 잘못된 주장과 생각을 양산하고, 사회적 갈등을 더 심하게 만들었다는 게 재판부 판단이다.&lt;br&gt;&lt;br&gt;재판부는 계엄 당시 사망자가 발생하지 않았고, 내란 행위 자체는 몇 시간 만에 종결된 점을 고려했다고 밝혔다. 그러나 이러한 단시간의 계엄은 국민의 용기에 의한 것일 뿐, 내란 가담자에 의한 게 아니라고 했다. 그러면서 한 전 총리를 향해 “간접적으로나마 민주적 정당성과 책임을 부여받은 국무총리로서, 헌법과 법률을 준수하고 헌법을 수호하는 데 모든 노력을 기울일 의무가 있다”고 했다. 이어 “피고인은 계엄이 성공할지도 모른다는 생각에 의무와 책임을 끝내 외면하고 오히려 그 일원으로 가담하기를 선택했다”며 “이러한 피고인의 행위로 인해 대한민국은 자칫하면 기본권과 자유민주적 기본 질서를 유린당한 어두운 과거로 돌아갈 수 있었다”고 지적했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 합당한 책임을 지기는커녕 사후 자신의 안위를 위해 계엄 선포 관련 문건을 은닉하고, 적법절차를 따른 것처럼 보이기 위해 허위공문서를 작성·폐기하고, 헌법재판소 탄핵심판에서 위증을 했다“며 ”이러한 책임을 벗어나려는 행위로 인해 우리 사회의 갈등이 더 심화됐다“고 했다. 이어 “피고인은 최후 진술에 이르러서야 국민이 겪은 혼란에 가슴 깊이 사과한다고 했다”며 “사과의 진정성을 인정하기 어렵다”고 했다. 또 “피고인이 반성하고 있거나 국가와 국민이 입은 피해를 회복할 수 있도록 노력했다고 볼 아무런 자료가 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 특검이 구형한 징역 15년보다 8년을 늘려 징역 23년을 선고했다. 선고를 마친 뒤엔 별도로 구속 심문을 열고, “증거인멸 우려가 있다”며 법정 구속을 명했다. 한 전 총리는 “구속 여부에 대해 하고 싶은 말이 있냐”는 재판부 질문에 “재판장님 결정을 겸허하게 받아들이겠습니다”라고 했다. 한 전 총리 변호인 측은 “도주의 가능성이 있을 수 없고, 구속에 필요한 증거인멸의 우려도 없다”며 “1심 판단을 존중하지만 구속될 경우 항소심과 상고심 과정에서 방어권에 중대한 장애가 생길 수밖에 없다”고 했다. 다만 재판부는 이러한 한 전 총리 측 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MRRTIOJQHFSDANDCMRRTGMLGMM.jpg?auth=c7da4d3f14cda9b89390781fc0aee71dd924892b0de91c42f130805d5b52ebd0&amp;smart=true&amp;width=3006&amp;height=2082" type="image/jpeg" height="2082" width="3006">
-        <media:description type="plain">한덕수 전 국무총리가 21일 오후 서울 서초구 서울중앙지법에서 열린 내란 우두머리 방조, 내란 중요임무 종사 혐의 사건 1심 선고공판에 출석하고 있다. 이날 내란 중요임무 종사 혐의로 기소된 한 전 총리는 1심에서 징역 23년을 선고받고 법정구속됐다. 2026.1.21/뉴스1 ⓒ News1 박지혜 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘김병기 3000만원 공천헌금 전달’ 의혹 이지희 동작구의원 경찰 출석</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/21/ONCSKNT475GPREOQ2YPOQ6CPGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/21/ONCSKNT475GPREOQ2YPOQ6CPGI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 04:50:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJA4LTVNBRJXNDPKJXERQAVB6E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 의원의 공천헌금 수수·아들 부정 편입 의혹의 핵심으로 지목되는 이지희 동작구의원이 21일 오후 서울 마포구 서울경찰청 공공범죄수사대에서 피의자 신분으로 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당을 탈당한 김병기 의원의 측근으로 알려진 이지희(45) 동작구의회 부의장이 21일 경찰에 출석했다. 그는 지난 2020년 김 의원 지역구인 동작구 구의원들에게서 공천 헌금을 걷어 김 의원 아내에게 전달했다는 혐의(정치자금법 위반)를 받는다.&lt;br&gt;&lt;br&gt;이날 오후 1시 49분쯤 서울 마포구 서울경찰청 공공범죄수사대에 피의자 신분으로 출석한 이 부의장은 굳은 표정으로 청사에 들어갔다. ‘김 의원 아내 지시로 공천헌금을 요구했냐’ ‘돈을 왜 다시 돌려준 것이냐’ 등 취재진 질문엔 답하지 않았다.&lt;br&gt;&lt;br&gt;김 의원이 민주당 소속 동작구의원들에게 불법 선거 자금을 받는 과정에 이 부의장이 관여했다는 의혹은 2023년 12월 처음 제기됐다. 전직 동작구의원 A씨와 B씨는 당시 동작을 지역구 의원이었던 이수진 전 더불어민주당 의원 사무실을 찾아가 탄원서를 전달했다. 이 탄원서에는 2020년 총선을 앞두고 이 부의장이 A씨와 B씨에게 김 의원 측에 전달할 선거 자금을 요구했다는 내용이 담겼다. A씨와 B씨는 김 의원 아내 이모씨에게 각각 1000만원과 2000만원을 전달했다가 수 개월 후 되돌려받았는데, A씨에게 돈을 돌려준 것도 이 부의장이었다고 한다.&lt;br&gt;&lt;br&gt;이 부의장은 김 의원을 둘러싼 각종 의혹의 ‘키맨’으로 꼽힌다. 동작구의회 관계자는 “이 부의장은 김 의원 내외의 심복 역할을 했다”며 “시시콜콜한 개인 심부름까지 전담했던 것으로 안다”고 했다. 이 부의장은 2018년 비례대표로 구의회에 입성했다. 2022년 지역구를 받아 재선에 성공했고 부의장까지 됐다. 지역에선 그 배경에 김 의원이 있다는 말이 나온다.&lt;br&gt;&lt;br&gt;이 부의장은 김 의원 차남의 숭실대 편입을 위해 대학을 직접 방문하거나, 입시 브로커를 소개했다는 의혹도 받고 있다. 지난 14일 경찰은 이 부의장 사무실을 압수수색하는 과정에서 컴퓨터에 저장된 숭실대 관련 파일을 발견하고 다음날 이를 확보했다.&lt;br&gt;&lt;br&gt;한편, 이 부의장이 구의회 업무 추진비를 사적으로 유용했다는 의혹에 대해 경찰은 “고발이 들어오지 않아 수사에 착수하지 않았다”고 했다. 2024년 7월부터 작년 11월까지 이 부의장의 업무 추진용 법인카드 사용 내역을 보면, 동작구의 한 닭발집에서 만원 또는 십만원 단위로 결제가 반복됐다. 이 부의장의 전임자인 조진희 전 동작구의원과 김 의원의 아내 이씨가 2022년 7~9월 사이 업무용 법인카드를 사적으로 사용했다는 의혹으로 내사를 받은 적이 있어, 이 부의장의 법인카드 사용 내역에 대해서도 수사가 시작될 것이란 예측이 나왔었다. 그러나 경찰은 정식으로 고발장이 접수되기 전까진 수사를 시작하지 않겠다는 입장이다. 법조계 일각에선 “언론 보도 등을 통해 범죄 행위의 단서가 발견됐으면 고발 여부와 상관없이 내사라도 해야 하는 것 아니냐”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “12·3 계엄은 내란... 국헌 문란 목적의 폭동”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/21/RTP5NL4A3NB7FNJG63F5GIIPNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/21/RTP5NL4A3NB7FNJG63F5GIIPNE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 04:45:40 +0000</pubDate>
-      <content:encoded>한덕수 전 국무총리의 내란 혐의가 21일 법원에서 인정됐다. 서울중앙지법 형사33부(이진관 부장판사)는 이날 오후 2시 417호 대법정에서 한 전 총리의 1심 선고 공판을 열고 “12·3 비상계엄 선포로 위헌·위법한 포고령을 발령하고 군경을 동원해 국회와 선거관리위원회 등을 점거한 행위는 형법 87조가 규정한 내란 행위에 해당한다”며 “한 전 총리의 내란 중요 임무 종사 혐의가 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 법원은 윤석열 전 대통령의 ‘국무위원 계엄 심의권 침해’ 혐의와 노상원 전 정보사령관의 ‘부정선거 수사단 구성’ 관련 혐의를 유죄로 판결하면서 “비상계엄은 실체적·절차적 요건을 갖추지 못해 위헌·위법하다”는 판단을 내놨지만, 형법상 내란죄(87조)를 직접 다루는 것은 한 전 총리 사건이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRTOYJUGU3TGMBRMIYGKMZXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 작년 11월 26일 자신의 내란 사건 1심 결심 공판에서 최후 진술을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 총리는 계엄 선포 전, 윤 전 대통령에게 국무회의 소집을 건의하고 국무위원 출석을 독촉해 비상계엄의 절차적 정당성을 갖추는 데 기여했다는 혐의를 받고 있다. 또 계엄 후에 이상민 전 행정안전부 장관과 언론사 단전·단수 조치 이행 방안을 협의하고, 국회의 계엄 해제 요구 결의 후 ‘해제 국무회의’ 소집을 지연시킨 혐의도 있다. 특검은 작년 11월 결심 공판에서 한 전 총리에게 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;한 전 총리는 당초 윤 전 대통령 ‘내란 우두머리’ 범행의 방조범으로 기소됐다. 그런데 재판부 요청에 따라 특검이 공소장을 변경하면서, 그에게 ‘내란 중요 임무 종사’ 혐의가 추가됐다. 단순히 범행을 도왔을 뿐 아니라 내란의 계획을 알고 적극적으로 실행에 옮긴 혐의를 받게 된 것이다. &lt;br&gt;&lt;br&gt;이번 판결의 최대 쟁점은 비상계엄이 위헌·위법한 것을 넘어 헌법 질서를 무력으로 파괴하려는 목적과 실질적인 폭력 사태가 있었는지다. 형법상 내란죄는 ‘국헌 문란’의 목적과 ‘한 지역의 평온을 해할 정도의 폭동’이 인정돼야 성립한다. 재판부가 계엄 선포, 국회·정치 활동 금지 포고령, 군경 투입 등을 국헌 문란을 위한 폭동으로 본다면, 이를 알고도 절차적 외관을 만드는 데 관여한 한 전 총리의 가담 여부도 폭넓게 인정될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>꺾이지 않는 동장군 기세...내일 ‘영하 19도’ 한파 절정</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/21/DRBGLTVMOFGM7AJ5GFGHBGD6DM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/21/DRBGLTVMOFGM7AJ5GFGHBGD6DM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 04:41:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LTRE34A4ZL5VGQQKC2E3KUR4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 계속되고 있는 21일 서울 서대문구 인왕시장에서 상인들이 난로에 손을 녹이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동장군의 기세가 좀처럼 꺾이지 않고 있다. 22일 한파가 절정에 달하며 올겨울 들어 가장 추울 것으로 예보됐다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 우리나라 북쪽에 있는 절리 저기압(북극에서 떨어져 나온 찬 공기 덩어리)이 영하 35도의 ‘얼음 공기’를 내려보내면서 22일 서울의 아침 수은주가 영하 13도, 체감온도는 영하 19도까지 떨어질 것으로 예상된다.&lt;br&gt;&lt;br&gt;22일 아침 최저기온은 영하 19~영하 5도, 낮 최고기온은 영하 7~영상 2도로 예보됐다. 찬 바람의 영향으로 체감온도는 실제 기온 보다 5~10도가량 더 낮겠다.&lt;br&gt;&lt;br&gt;올 1월 들어 수은주가 영하 10도 아래로 떨어지는 강력한 한파가 잦아지고 있다. 온난화 여파로 겨울 전반은 따뜻해졌지만, 역설적으로 올겨울은 온난화가 동장군의 기세를 매섭게 만들고 있다.&lt;br&gt;&lt;br&gt;21일 서울(종로구 기준)의 최저기온이 영하 12.2도, 체감온도는 영하 17.9도까지 떨어지면서, 이날 기준 서울은 이달 일 최저기온이 영하 10도 이하를 기록한 날이 5일(24%)이 됐다. 기상청은 이달 말까지 최소 4일 정도는 더 기온이 영하 10도 아래로 내려갈 것으로 보고 있다. 한 달 중 총 9일(29%)로, 3일에 하루 꼴로 한파가 찾아오는 셈이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YECKYW6TDFILPPLBQB74VAC3AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 한파가 덮친 21일 부산 사하구 다대포해수욕장 백사장 일부에 바닷물이 얼어 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1월은 겨울(12월~2월) 중에서도 한겨울 구간에 속하는 가장 추운 달이지만, 최근 5년 간은 온난화 여파로 비교적 포근했다. 서울의 경우 1월 일 최저기온이 영하 10도 아래로 떨어진 날은 2022~2024년에 각 4일, 작년은 2일에 불과했다. 그런데 올해는 작년 보다 4배 이상 늘어나게 된 것이다. &lt;br&gt;&lt;br&gt;올 1월 한파가 폭증하게 된 원인은 영하 35도의 찬 공기를 품은 ‘절리 저기압’(북극에서 떨어져 나온 찬 공기 덩어리)이 우리나라 북쪽에 자주 형성됐기 때문이다. 이는 북극 찬 공기를 고위도에 묶어두는 ‘제트기류’(고위도에서 서에서 동으로 빠르게 부는 바람)가 온난화로 인해 느슨해지면서 얼음 공기가 북극을 자주 이탈해 발생한 결과다. &lt;br&gt;&lt;br&gt;원래 우리나라에 한겨울 추위를 몰고오는 시베리아 고기압은 찬 바람의 온도가 영하 15도 정도인데, 올겨울은 영하 35도의 영향권에 더 자주 놓인 것이다. &lt;br&gt;&lt;br&gt;원래 추위가 풀리기 시작하는 대한(1월 20일) 무렵에 이례적 고기압 정체가 발생한 것도 긴 한파의 원인이 됐다. 우리나라 동쪽으로 이례적으로 긴 고기압 정체가 발생했고, 이 ‘고기압 벽’이 온난한 서풍 계열 대신 찬 북풍 계열의 바람이 불도록 바람 길을 만들어 이번 주말까지 약 6일 정도 한파가 지속될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
