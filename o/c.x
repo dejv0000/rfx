@@ -13,6 +13,123 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>공수처, ‘통일교 편파 수사’ 김건희 특검·특검보 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/7MJA4E4DLBGWDHXVFBJEHPJI4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/7MJA4E4DLBGWDHXVFBJEHPJI4Y/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 03:20:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3GIZBYMU4TEZTDGE2WENZRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희와 명태균·건진법사 관련 국정농단 및 불법 선거 개입 사건 등 진상규명을 위한 특별검사팀 민중기 특별검사가 2025년 12월 29일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 특별검사팀 브리핑룸에서 특검 수사 결과 종합 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처 수사4부(부장 차정현)는 23일 오전 11시 30분쯤부터 ‘김건희 특검 직무유기 의혹 사건’과 관련해 민중기 특별검사와 박상진 특별검사보 등을 압수수색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 이날 김건희 특검 사무실이 있는 서울 종로구 KT광화문빌딩 웨스트 등에 수사관 등을 보내 민 특검과 박 특검보의 휴대전화를 확보 중인 것으로 전해졌다. 또한 공수처는 김건희 특검 통일교 수사팀이 사용했던 PC 등에서 관련 자료도 압수 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 공수처는 작년 8월 윤영호 전 통일교 세계본부장을 조사하고 관련 수사보고서를 작성했던 조모 검사와 하모 수사관도 최근 불러 조사한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;민 특검의 통일교 담당 수사팀은 국민의힘 권성동 의원과 ‘건진 법사’ 전성배씨에게 청탁성 금품을 전달한 혐의를 받는 윤영호씨에게서 “2018~2020년 민주당 전재수 의원과 임종성 전 의원 등 여당 의원들에게도 수천만원대의 금품을 전달했다”는 진술을 받았다. 그러나 민 특검과 담당 특검보는 이런 진술을 보고받고도 “특검법상 수사 대상이 아니다”라면서 수사에 소극적이었다고 한다.&lt;br&gt;&lt;br&gt;특검은 윤씨가 작년 12월 이같은 내용을 법정에서 밝히면서 ‘편파 수사’ 논란이 불거지자 진술 확보 4개월 만인 작년 12월 9일 관련 기록을 경찰청 국가수사본부에 이첩했다. 국민의힘은 민 특검과 특검보 등을 직무유기 혐의로 12월 11일 경찰에 고발했지만, 경찰은 “(수사 대상인) 검사는 관련법에 따라 공수처가 수사해야 한다”며 12월 16일 사건을 공수처에 넘겼다. 이에 공수처는 사건을 배당하고 수사에 착수했다.&lt;br&gt;&lt;br&gt;공수처는 작년 12월 27일에도 민중기 특검 사무실을 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유승민 딸 ‘임용 특혜 의혹’… 경찰, 인천대 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/23/TVN7OVSOABF3BBBW7N2I6C3AKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/TVN7OVSOABF3BBBW7N2I6C3AKU/</guid>
+      <dc:creator>인천=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 03:52:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UH45AYGQ6FECRPKN7KW3UAH25I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유승민 전 의원 딸 유담./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유승민 전 의원 딸 유담의 ‘인천대 특혜 채용 사건’과 관련해 경찰이 강제 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천경찰청은 이날 오전 인천대에 수사관을 보내 압수수색 영장을 집행했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;이날 압수수색 영장에는 이번 사건 피고발인 23명 중 1명의 부정청탁 및 금품 등 수수의 금지에 관한 법률 위반 등 혐의가 적시된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 인천대 무역학부 사무실 등에서 압수수색을 벌이면서 유 교수 채용 관련 서류 등을 확보한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 경찰은 작년 11월 4일 공공기록물 관리에 관한 법률 위반 혐의로 인천대 이인재 총장과 교무처 인사팀, 채용 심사 위원, 채용 기록 관리 담당자 등 23명을 조사해달라는 고발장을 접수하고 수사를 벌였다.&lt;br&gt;&lt;br&gt;고발인은 유 교수 채용 과정이 불공정했다고 하면서 인천대가 ‘전임 교원 신규 임용 지침’에 따라 영구 보존해야 하는 채용 관련 문서를 보관하고 있지 않다고 주장했다. &lt;br&gt;&lt;br&gt;유 교수는 작년 2학기 인천대 전임교원 신규 채용에 합격해 글로벌 정경대학 무역학부 교수로 임용됐고, 지난 국회 국정감사 과정에서 특혜 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;더불어민주당 진선미 의원실은 당시 참고 자료를 통해 “인천대 무역학부는 유 교수 임용 이전에 전임교원 채용을 4차례 진행했으나 조건에 부합하는 지원자가 없어 채용하지 않았다”며 “인천대 전임교원 신규 임용 지침 제36조에 따르면 채용 관련 문서는 영구 보존해야 하지만, 지원자들의 정보와 서류가 모두 소멸했다”고 했다. &lt;br&gt;&lt;br&gt;이에 대해 인천대는 내부 지침과 가이드라인에 따라 공정하게 채용 심사가 진행됐다는 입장을 유지 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마스크에 고개 푹…‘캄보디아 범죄단지’ 한국인 범죄자 73명 강제 송환</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/WF6BPCU6PVBIZDNDWVM5DFVAKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/WF6BPCU6PVBIZDNDWVM5DFVAKI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 00:44:39 +0000</pubDate>
+      <content:encoded>캄보디아에서 각종 사기와 인질 강도 등을 저지른 한국인 범죄자 73명을 23일 오전 전세기를 타고 국내로 강제 송환됐다. 해외에서 범죄를 저지른 한국인 피의자를 한꺼번에 송환하는 사례로는 역대 최대 규모다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG7US6ZERVGE5NIVP4IZCGQR3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 스캠 사기 피의자 75여 명이 23일 인천국제공항 제2여객터미널을 통해 송환돼 수사기관으로 압송되고 있다. 2026.1.23 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초국가범죄 특별대응 태스크포스(TF)는 우리 국민 869명을 상대로 약 486억원을 편취한 혐의를 받는 한국인 피의자 73명(남성 65명, 여성 8명)을 이날 국내로 송환했다. 이들을 태운 대한항공 KE9690편은 캄보디아 프놈펜을 출발해 이날 오전 9시 41분쯤 인천국제공항 제2터미널에 도착했다. 한국인 범죄자들을 해외에서 전세기로 집단 송환한 것은 이번이 네 번째다.&lt;br&gt;&lt;br&gt;피의자들은 마스크를 쓴 채 두 손을 앞으로 모아 수갑을 찬 상태였다. 수갑을 찬 손은 짙은 푸른색 수건으로 가린 채 이동했다. 피의자 1명당 경찰관이 양옆에 2명씩 붙어, 피의자의 양팔을 붙잡고 호송했다.&lt;br&gt;&lt;br&gt;피의자들은 이날 새벽 4시 15분쯤 전세기에 탑승한 직후 기내에서 체포됐다. 이들에 대한 체포영장이 이미 발부돼 있었기 때문이다. 국적법상 국적기 내부는 대한민국 영토로 간주돼 영장 집행이 가능하다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LZKMDIV3RCJRDEXVTKJNWRCTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 스캠 사기 피의자 75여 명이 23일 인천국제공항 제2여객터미널을 통해 송환돼 수사기관으로 압송되고 있다. 2026.1.23 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피의자 73명 가운데 70명은 로맨스 스캠이나 투자 리딩방 운영 등 스캠 범죄 혐의를, 나머지 3명은 인질 강도와 도박 등 혐의를 받는다. 이번 송환 대상에는 미성년자를 상대로 성범죄를 저지른 뒤 캄보디아로 도주해 스캠 범죄에 가담한 도피 사범, 투자 전문가를 사칭해 사회 초년생과 은퇴자 등을 상대로 194억원을 편취한 사기 조직 총책, 스캠 단지에 감금된 피해자를 인질로 삼아 가족을 협박해 금품을 갈취한 조직원 등도 포함됐다.&lt;br&gt;&lt;br&gt;특히 성형 수술로 얼굴을 바꾼 뒤 도주한 ‘로맨스 스캠 부부 사기단’도 이번에 송환됐다. 한국인 부부 강모(32)씨와 안모(29)씨는 데이팅 앱을 통해 피해자들에게 접근한 뒤 “같이 투자 공부를 하자”고 유도하는 수법으로 104명에게서 120억원을 뜯어낸 혐의를 받는다. 아내는 AI 딥페이크 기술을 활용해 남성을 상대로 로맨스 스캠 방식의 투자 사기를 벌였고, 남편은 여성을 대상으로 범행을 저지르며 총책에 가까운 역할을 한 것으로 파악됐다. 이들은 도피를 목적으로 쌍꺼풀과 코 성형 수술을 했다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이들 부부는 지난해 2월 캄보디아 현지 경찰에 체포됐으나, 현지 경찰에 뒷돈을 건네 넉 달 만에 풀려난 것으로 알려졌다. 부부가 풀려났다는 사실을 파악한 법무부는 캄보디아에 즉시 인력을 파견해 캄보디아 경찰과 공조에 나섰고, 재체포에 성공했다. 다만 캄보디아 당국이 한국에 체류 중인 반정부 인사의 송환을 조건으로 부부를 인도하겠다고 해 송환이 지연됐다가, 법무부의 설득 끝에 캄보디아 정부가 인도를 결정했다.&lt;br&gt;&lt;br&gt;전성환 법무부 국제형사과 검사는 “부부 사기단의 석방 첩보를 입수한 뒤 법무부 장관 지시로 검사들이 급파돼 캄보디아 법무부 장관을 두 차례 직접 만나 설득했고, 이후에도 동남아 공조 네트워크를 통해 10차례 이상 화상 회의를 진행하는 등 지속적으로 협의했다”며 “앞으로도 스캠 범죄자들을 끝까지 추적해 송환하고 범죄 수익 환수에도 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGQE5OVGSRNCPGJTFILUKEMP4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초국가범죄 특별대응 TF 유승렬 치안감이 23일 오전 인천국제공항 제2터미널에서 한국 국적 캄보디아 스캠조직 73명 강제 송환 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범죄가 이뤄진 것으로 확인된 스캠 단지는 총 7곳이다. 캄보디아 시아누크빌에서 51명, 태국 접경 포이펫에서 15명, 베트남 접경 몬돌끼리에서 26명이 적발됐다. 단지에서는 감금과 고문을 당하던 20대 남성 피해자들이 구출되기도 했다. &lt;br&gt;&lt;br&gt;피의자들은 입국 직후 전국 각지 경찰서로 호송돼 유치장에 입감된 뒤 조사를 받는다. 부산경찰청 반부패경제범죄수사대에서 49명, 충남경찰청 형사기동대에서 17명, 울산경찰청 반부패경제범죄수사대에서 2명 등의 수사를 맡는다. &lt;br&gt;&lt;br&gt;TF에는 경찰청·법무부·국가정보원·외교부 등이 참여했다. 이날 송환이 이뤄진 전세기에는 의사와 간호사가 동승했고, 인천공항에는 질서 유지를 위해 경찰 인력 181명이 투입됐다. 호송에는 버스 10대와 승합차 7대가 동원됐다.&lt;br&gt;&lt;br&gt;유승렬 경찰청 수사기획조정관은 “국경을 넘나들며 우리 국민에게 피해를 끼치는 초국가 범죄에 대해 엄정하게 대응하겠다”며 “외국에서 범죄를 저지르면 처벌을 피할 수 있다고 생각하는 것은 큰 오산이며, 끝까지 추적해 반드시 책임을 묻겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경호처 전직 간부들 ‘尹 체포 방해’ 1심 재판 시작...박종준 “정당 행위였다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/AKWC5NLA5VG3DNITFSUWBGPEBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/AKWC5NLA5VG3DNITFSUWBGPEBY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 03:13:13 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령에 대한 고위공직자범죄수사처(공수처)의 체포영장 집행을 저지한 혐의 등으로 기소된 대통령경호처 전직 간부들에 대한 재판이 23일 시작됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZDSMZXGQ2WKYZUHA3WKMJUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처 처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사26부(재판장 이현경)는 이날 오전 박종준 전 경호처장, 김성훈 전 경호차장, 이광우 전 경호본부장, 김신 전 가족부장의 특수공무집행방해·직권남용·범인도피·대통령경호법 위반 혐의 사건의 공판 준비 기일을 열었다.&lt;br&gt;&lt;br&gt;공판 준비 기일은 정식 재판에 앞서 검찰과 피고인 측의 의견을 듣고 입증 계획을 세우는 절차로 피고인의 출석 의무는 없다. 다만 이날 박 전 처장과 이 전 본부장은 법정에 출석했다. 두 사람은 국민참여재판을 희망하지 않는다고 밝혔다.&lt;br&gt;&lt;br&gt;박 전 처장 등은 법원이 2024년 12월 31일 윤 전 대통령의 내란 우두머리 등 혐의에 대한 체포영장을 발부하자 윤 전 대통령과 공모해 대통령 공관촌에 저지선을 구축한 뒤 2025년 1월 3일 경호처 직원들로 하여금 영장을 집행하러 온 공수처 공무원들에게 유형력을 행사하도록 해 영장 집행을 방해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김 전 차장과 이 전 본부장은 윤 전 대통령과 공모해 작년 1월 3일부터 15일 사이 체포영장 재집행을 막기 위해 경호처 직원들에게 차량과 철조망을 설치하게 하고, 인간 스크럼 훈련을 실시하게 하며, 기관단총을 소지한 채 위력 순찰을 하도록 지시하는 등 경호 범위를 벗어난 의무 없는 일을 시킨 혐의도 받는다.&lt;br&gt;&lt;br&gt;김 전 차장은 또 12·3 비상계엄 이후 2024년 12월 7일 윤 전 대통령 지시에 따라 경호처 소속 공무원들을 지휘·감독하는 권한 등 직권을 남용해 김대경 당시 경호처 지원본부장에게 경호처 직원들의 비화폰 통화 기록 등 정보를 수사기관이 볼 수 없도록 조치하라고 지시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;박 전 처장 측은 “객관적인 사실관계는 대체로 인정한다”면서도 “특수공무집행방해와 직권남용 혐의에 대해서는 고의가 없었다”고 주장했다. 이어 “공소사실에 기재된 행위는 대통령경호법에 따른 정당한 행위였다”고 했다.&lt;br&gt;&lt;br&gt;김 전 차장 측은 “공소사실 중 (1차 영장 집행 저지를 위한) 차벽 설치 등 직권남용 부분은 인정하지만, (2차 저지와 관련한) 경호법 위반과 총기 소지 관련 직권남용 부분은 부인한다”며 “총기 소지 지시나 경호법 위반 사실은 없다”고 했다.&lt;br&gt;&lt;br&gt;이 전 본부장 측은 “윤 전 대통령 등과 사전에 공모한 사실이 없다”며 “경호처 상급자인 처장의 지시를 거역할 수 없었고, 위법성을 인식하기 어려웠기 때문에 책임이 조각된다”고 주장했다. 김 전 부장 측도 “사전 공모를 부인한다”고 했다.&lt;br&gt;&lt;br&gt;이날 내란 특검 측은 재판부에 윤 전 대통령의 체포 방해 등 사건 1심 판결문을 증거로 제출했다. 앞서 법원은 윤 전 대통령이 공수처의 체포 시도를 막은 행위가 수사기관의 정당한 영장 집행을 방해한 위법 행위에 해당한다며 유죄로 인정했다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 13일 공판 준비 기일을 한 차례 더 열어 심리를 이어가기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “지적 장애 앓는 소년, 법원이 방어권 보장 위한 조치 취했어야” 파기환송</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/XKRWMR52KBDJVKYAZLPK3I2HEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/XKRWMR52KBDJVKYAZLPK3I2HEI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 03:00:00 +0000</pubDate>
+      <content:encoded>범죄를 저질러 재판받는 미성년자 소년이 지적장애를 앓고 있었다면, 법원이 방어권 보장을 위해 적절한 사법적 조치를 취했어야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대법원 1부(주심 마용주 대법관)는 살인미수 혐의로 기소된 김모(19)군에게 징역 장기 9년, 단기 6년을 선고한 원심판결을 최근 파기하고 사건을 수원고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSDENRSGBRGCMDBMFTDAZDDMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김군은 중학생이던 2023년 11월 같은 중학교에 재학 중이던 피해자 안모양을 알게 된 후 안양을 이성적으로 좋아하게 됐다. 그런데 안양이 자기를 만나주지 않고 친구 관계마저 끊으려 하자 범행을 결심했다. 김군은 2024년 6월 망치, 공업용 칼을 구입했고, 그해 8월 오전 망치, 과도, 비수, 공업용 칼, 부탄가스와 토치 등을 챙겨 안양 집 근처에서 기다렸다. 안양이 학교를 가기 위해 집을 나서자, 김군은 안양의 머리를 수차례 내려치고, 얼굴, 목, 팔 등을 과도로 수회 찔렀다. 주변에 있던 시민들이 김군을 말리면서 범행은 미수에 그쳤다.&lt;br&gt;&lt;br&gt;김군은 재판 과정에서 지적장애, 활동성 및 주의력 장애 등 정신장애를 호소하며 심신미약을 주장했다. 1심 재판부는 진료 기록상 김군의 정신장애를 인정하면서도, “범행 당시 심신미약 상태에 있었다고 보기 어렵다”며 징역 장기 8년, 단기 5년을 선고했다. 1심은 “피고인의 지능이 다소 낮은 수준(지능지수 55)이긴 하나 일반 중·고등학교에 다닐 정도는 됐다”며 “인지 능력이나 사고 능력에 큰 문제가 있다고 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;항소심은 1심보다 형량을 늘려 징역 장기 9년, 단기 6년을 선고했다. 항소심은 “피고인은 자신보다 어리고 약한 피해자를 이른 아침 등굣길에 공격했다는 점에서 그 죄질이 매우 불량하고, 살해 의도도 매우 강력하다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 재판 과정에서 김군이 적절한 도움을 받지 못했다고 본 것이다. 대법원은 “피고인은 2018년 11월부터 2024년 5월까지 정신 질환 등을 이유로 정신과 입원·통원 치료를 받았고, 2024년 7월 2~29일엔 한 병원 정신과에 입원해 치료를 받았다”며 “범행은 퇴원 후 약 20일 만에 이뤄졌다”고 했다. 김군이 앓던 정신 장애가 범행에 어느 정도 영향을 미쳤다고 본 것이다. &lt;br&gt;&lt;br&gt;대법원은 “원심은 소년이자 정신적 장애인이고 구속된 상태에 있던 피고인에 대해 절차적 권리와 방어권을 충분히 보장하기 위해 적절한 조치를 취해야 할 사유가 있는지 살펴볼 필요가 있었다”고 지적했다. 1심 재판에선 임상심리 전문가인 전문심리위원이 참여해 김군에 대한 심리검사를 하고, 이를 바탕으로 한 의견 진술이 이뤄졌다. 그러나 대법원은 “1심과 원심에서 피고인의 정신 질환이나 정신적 장애의 내용과 정도, 징역형 복역 후 재범의 위험성, 치료의 필요성 등과 관련된 감정은 이뤄지지 않았다”고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 이어 “원심은 이와 같은 사정을 충실히 심리하지 않고 첫 공판 기일에 변론을 종결하고 형량을 가중했다”며 “장애인인 소년에 대한 형사사건의 심리 및 적합한 처분 등에 대한 법리를 오해해 필요한 조치와 심리를 다하지 않은 잘못이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정교 유착 합수본, 통일교 다시 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/GZYVIW6YYZACTBSNC7LMUCJWCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/GZYVIW6YYZACTBSNC7LMUCJWCQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 02:30:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSGMMBUMUZGIYLFGM4TGMJWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 가평군 통일교 시설 일대 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교와 신천지 등의 정교 유착 의혹을 수사하는 검경 합동수사본부가 23일 통일교를 다시 압수 수색했다.&lt;br&gt;&lt;br&gt;법조계에 따르면 합수본은 이날 오전부터 경기 가평군 천정궁 등 통일교 관련 시설 7곳을 압수 수색하고 있다.&lt;br&gt;&lt;br&gt;합수본은 통일교가 2018~2020년 더불어민주당 전재수 의원과 임종성 전 의원, 김규환 전 미래통합당 의원 등에게 수천만원과 명품 시계 등을 건넨 혐의(정치자금법 위반)를 수사 중이다.&lt;br&gt;&lt;br&gt;작년 말에는 법인 자금 1300만원을 국회의원 11명에게 불법 후원한 혐의로 통일교 산하단체인 천주평화연합(UPF) 전 회장 송광석씨를 불구속 기소했다. 공범 혐의를 받는 통일교 한학자 총재, 윤영호 전 세계본부장, 정운주 전 비서실장은 계속 수사 중이다.&lt;br&gt;&lt;br&gt;합수본은 지난 13일과 20일에도 통일교 천승전 등을 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 동작경찰서 압수수색…‘김병기 수사 무마 청탁’ 의혹</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/23/GSEFD6NGRNGVVMZ5LF2FVE3ERI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/GSEFD6NGRNGVVMZ5LF2FVE3ERI/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 01:27:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BOXEZGCWTTBIBF7BYZYZOQOKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김병기(서울 동작갑) 의원의 ‘수사 무마 청탁’ 의혹과 관련해 23일 강제수사에 착수했다.&lt;br&gt;&lt;br&gt;이날 서울경찰청 공공범죄수사대는 오전 9시 50분부터 서울 동작경찰서를 압수 수색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 김 의원 아내 이모씨는 2022년 7~9월 조진희 전 동작구의원의 업무용 법인 카드를 사적으로 유용했다는 의혹이 제기됐다. 이에 대해 동작서는 2024년 4월 내사를 진행했다. 그로부터 4개월 뒤 동작서는 서울청의 3차례 보완수사 지시에도 불구하고 사건을 무혐의로 종결했다.&lt;br&gt;&lt;br&gt;경찰은 작년 11월 김 의원의 전직 보좌관을 조사하는 과정에서 김 의원이 아내의 ‘법인 카드 유용 의혹’ 수사를 무마하기 위해 경찰 고위 간부 출신 국민의힘 A 의원 등을 동원했다는 진술을 확보했다. 김 의원이 당시 A 의원을 찾아가 동작서장에게 전화를 해 달라고 부탁했다고 말하는 것을 들었다는 내용이다.&lt;br&gt;&lt;br&gt;동작서는 김 의원이 동작구의원으로부터 공천 헌금을 받았다는 취지의 탄원서를 제출받고도 서울청에 보고하지 않았다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 경찰은 지난 15일 전 동작서 지능범죄수사팀장 박모 경감을 피의자 신분으로 불러 조사했다. 박 경감은 김 의원 아내의 ‘법인 카드 유용 의혹’을 내사하면서 수사 관련 문건을 김 의원 측에 넘겨준 인물로 지목됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>6·3 지방선거 선거비 한도 확정… 경기지사 49억, 서울시장 37억</title>
+      <link>https://www.chosun.com/politics/politics_general/2026/01/23/5ONGXW5K7ZDOHFZF74IWM6GRLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2026/01/23/5ONGXW5K7ZDOHFZF74IWM6GRLA/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 01:24:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJQ2PH72U5NNNC2H7HSDDUAHZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경기 과천시 중앙선거관리위원회에서 열린 중앙선관위 2026년 주요 업무 계획 회의에서 허철훈 사무총장을 비롯한 중앙선관위 관계자들이 청렴 실천 서약서를 낭독하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거에서 시도지사 후보들이 쓸 수 있는 선거비 한도가 평균 15억8700만원으로 정해졌다.&lt;br&gt;&lt;br&gt;중앙선거관리위원회는 23일 지방선거 후보자들이 선거운동을 위해 쓸 수 있는 비용의 한도액인 ‘선거비용 제한액’을 공고했다. 선거비용 제한액은 각 선거구의 인구수와 읍·면·동수 등에 따라 달라진다. 물가 상승 등으로 2022년 지방선거 때보다 평균 8.3% 늘었다.&lt;br&gt;&lt;br&gt;시도지사 후보자의 선거비 한도는 평균 15억8700만원으로, 인구가 가장 많은 경기도에 출마하는 경우 49억4500만원, 서울시장으로 출마하는 경우 37억2100만원, 인구가 가장 적은 세종시에 출마하는 경우 3억8900만원이다.&lt;br&gt;&lt;br&gt;교육감 후보자의 선거비 한도는 평균 15억8600만원으로, 경기도에 출마하는 경우 49억4500만원, 세종시에 출마하는 경우 3억8900만원이다.&lt;br&gt;&lt;br&gt;구청장·시장·군수 등 기초자치단체장 선거 후보자의 선거비 한도는 평균 1억8400만원이다. 수원시 출마자는 4억6400만원, 울릉군 출마자는 1억900만원까지 쓸 수 있다.&lt;br&gt;&lt;br&gt;시·도의원 후보자는 지역구 출마자의 경우 평균 5600만원, 비례대표 후보인 경우 평균 2억1800만원까지 쓸 수 있다. 구·시·군의원 후보자는 지역구는 평균 4800만원, 비례대표는 평균 5700만원이 한도다.&lt;br&gt;&lt;br&gt;후보자가 이 한도 내에서 쓴 선거비용은 후보자가 당선되거나 15% 이상 득표한 경우 전액을 국가로부터 보전받을 수 있다. 득표율이 10% 이상 15% 미만인 경우에는 절반을 보전받는다. 지방의회 비례대표 후보자들이 쓴 선거비용은 해당 비례 후보 명부에서 당선자가 1명 이상 나온 경우에 한해, 명부에 있는 후보자들이 전액을 보전받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 金여사·권성동 1심 선고 당일 청사 보안 강화… 차량 출입 전면 통제·정문 폐쇄</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/Z7O5XIKPAJGELHTAIJ3RXILQLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/Z7O5XIKPAJGELHTAIJ3RXILQLQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 00:35:23 +0000</pubDate>
+      <content:encoded>서울고등법원은 김건희 여사와 권성동 국민의힘 의원의 1심 선고가 예정된 오는 28일 청사 보안을 강화하고, 차량 출입을 전면 통제한다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMRBXSPZJ5ITRPCCA3MLH4HNLU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울법원종합청사 내 보안이 강화된 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법은 오는 27일 오후 8시부터 29일 0시까지 소송 당사자, 소송 대리인 등 일반 차량의 서울법원종합청사 출입을 전면 차단한다고 밝혔다. 법관 등 법원 구성원에게도 승용차 사용을 자제하고 대중교통 이용을 권고했다. 도보를 이용한 출입도 이 기간엔 검찰청 쪽 정문과 서울회생법원 쪽 북문을 제외한 동문만 가능하다. 동문에선 강화된 보안 검색을 실시한다. &lt;br&gt;&lt;br&gt;서울고법은 “청사 경내에서는 일체의 집회와 시위가 금지된다”며 “집회 또는 시위 용품을 소지한 경우 경내 출입이 제한될 수 있다”고 했다. 또 사전에 서울고법 관계자의 허가를 받지 않았다면 촬영도 불가하다고 안내했다.&lt;br&gt;&lt;br&gt;서울고법은 앞서 지난 16일 윤석열 전 대통령의 ‘체포 방해’ 등 혐의 1심 선고 당일에도 이 같은 보안 강화 조치를 한 바 있다. 그동안 주요 재판이 있는 날엔 북문만 재판 당일 오전 9시부터 폐쇄하고, 검찰청 쪽 정문과 동문은 개방하되 도보 출입자에 대해 보안 검색을 실시했었다.&lt;br&gt;&lt;br&gt;28일 서울중앙지법 형사27부(재판장 우인성)는 도이치모터스 주가 조작 등 혐의를 받는 김건희 여사, 통일교 불법 정치자금 수수 혐의를 받는 권성동 국민의힘 의원, 두 사람에게 금품을 건넨 혐의를 받는 윤영호 전 통일교 세계본부장의 1심 선고를 진행한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘대장동 항소 포기 반발’ 김형석 검사장 사의</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/GK26EUOEPNED5FQLXZ2TANR3BY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/GK26EUOEPNED5FQLXZ2TANR3BY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 00:35:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH6G4RKDEZIKTHKVHIS4TVZS7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형석 대검찰청 마약·조직범죄부장이 작년 10월 27일 서울 여의도 국회 법제사법위원회에서 열린 2025년 국정감사에서 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대장동 항소 포기’ 사태 당시 노만석 전 검찰총장 직무대행에게 경위 설명 등을 요구한 것으로 알려진 김형석(사법연수원 32기) 대검찰청 마약·조직범죄부장(검사장)이 23일 사의를 표명했다. 오는 27일자로 법무연수원 연구위원으로 이동한다는 법무부 인사 발표가 나온 지 하루 만이다.&lt;br&gt;&lt;br&gt;김 검사장은 이날 오전 검찰 내부게시판(이프로스)에 ‘사직인사’ 글을 올렸다. 그는 “이제 마무리할 때가 되었다”면서 “지나온 23년을 스스로에게 부끄럽지는 않았는지 돌이켜봤는데, 그렇지는 않았다는 생각이 든다”고 했다. 그러면서 “몹시도 시리고 힘든 시기이지만, 검찰 구성원들의 목소리가 이기적 욕심이 아닌 경험한 진심임을, 국민들께서 이해하고 받아주실 날이 꼭 올 것으로 믿어본다”고 했다.&lt;br&gt;&lt;br&gt;김 검사장은 작년 11월 대장동 항소 포기 사태 후, 서울중앙지검에 항소 포기를 지시한 노 전 대행에게 경위 설명과 용퇴를 적극적으로 건의한 것으로 알려졌다. 김 검사장과 함께 노 전 대행의 결단을 요구한 장동철 형사부장, 최영아 과학수사부장 등 다른 대검 참모들은 지난 22일 발표된 검찰 고위 간부 인사에서 한직인 법무연수원 연구위원으로 좌천됐다. 공동 성명서를 냈던 일선 검사장 18명 중 4명도 법무연수원 연구위원 인사 발령이 났고, 이 중 박영빈 인천지검장은 인사 발표 직후 사의를 나타냈다.&lt;br&gt;&lt;br&gt;김 검사장은 서울 출신으로 개포고와 서울대 법대를 졸업했다. 서울동부지검 사이버범죄형사부장, 수원지검 형사1부장, 서울중앙지검 형사8부장·형사7부장, 법무부 감찰담당관, 대구지검 서부지청장 등을 지냈다. 이재명 정부 출범 후 첫 검찰 고위 간부 인사에서 검사장으로 승진했지만, 대장동 항소 포기 사태로 6개월 만에 좌천성 인사가 났고 결국 검찰을 떠나게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 전역 맹추위… 지난밤 수도 계량기 95건 동파</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/23/2I7SL6XSUJBXRD4PJBZY3LPVZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/2I7SL6XSUJBXRD4PJBZY3LPVZA/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 00:49:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIA24AUXEJOVLIP22RWCB4IPZ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 서울 강북구 서울북부수도사업소에서 수도계량기 교체반 직원이 동파된 수도계량기를 정리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 전역에 한파주의보가 내려진 가운데 수도 계량기 동파가 잇따르고 있다.&lt;br&gt;&lt;br&gt;23일 서울시에 따르면 전날 오후 5시부터 이날 오전 5시까지 서울에서 발생한 수도 계량기 동파는 95건으로 집계됐다. 한랭 질환자나 수도관 동결 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;지난 19일 오후 9시 서울 전역에 한파주의보가 발효됨에 따라 서울시는 위기경보 단계를 ‘관심’에서 ‘주의’로 상향했다.&lt;br&gt;&lt;br&gt;한파주의보 발효 이후 현재까지 누적된 수도 계량기 동파 피해는 모두 210건으로, 하루 평균 60건 수준이다.&lt;br&gt;&lt;br&gt;서울시는 한파 대응을 위해 비상근무 82개반 260명과 순찰 인력 82명 규모의 한파 종합지원 상황실을 운영하고 있다. 밤사이에는 노숙인 급식 제공과 함께 독거 어르신에 대한 안부 확인도 진행했다.&lt;br&gt;&lt;br&gt;아울러 한파쉼터와 한파 응급대피소, 기후동행쉼터 등 한파 대응 시설과 인프라 5960곳을 운영 중이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 서울은 주말인 24~25일에도 최저기온이 영하 11도까지 떨어질 것으로 전망된다. 체감온도는 영하 15도 안팎까지 내려갈 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 여행 숙박예약, ‘온라인 여행사’가 대세</title>
+      <link>https://www.chosun.com/national/regional/2026/01/23/WRUOWJ7GZ5DJHN6WGKLQAAAMRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/23/WRUOWJ7GZ5DJHN6WGKLQAAAMRE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 00:27:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7IQUVZZ4HNIIDF4QZHDSVB34TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오전 제주 서귀포시 남원읍 휴애리자연생활공원을 찾은 관광객들이 활짝 피어난 유채꽃을 감상하며 한겨울 속 봄 정취를 만끽하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 유행 이후 온라인 여행사(OTA)를 이용한 숙박업체 거래 비중이 제주가 전국에서 가장 높은 수준인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;23일 한국은행 제주본부에 따르면 ‘엔데믹 이후 제주지역 숙박업 현황, 특징 및 정책적 시사점’이라는 보고서를 냈다.&lt;br&gt;&lt;br&gt;보고서에 따르면 코로나 팬데믹이 엔데믹으로 전환된 2023년 야놀자, 마이리얼트립, 네이버 여행 등 국내 온라인 여행사와 에어비앤비, 부킹닷컴, 트립닷컴 등 해외 온라인 여행사를 통한 제주지역 숙박업체 거래 비중은 79.9% 다. 이는 전국 평균 57.2%보다 22.7%포인트 높은 것이다. 제주에 이어 2위는 강원도 60.5%, 3위는 부산 54.1% 다.&lt;br&gt;&lt;br&gt;숙박업태별 OTA 거래 비중은 관광숙박업 88%, 농어촌민박업 83%, 레지던스호텔 등 생활숙박업 및 기타(80.6%), 모텔·여관 등 일반숙박업 54.8% 순이다.&lt;br&gt;&lt;br&gt;엔데믹 이후 내국인 관광객이 감소하고, 체류 기간도 짧아지면서 숙박 수요는 감소했다. 실제 1일 평균 제주 체류 인원은 2022년 15만9000명에서 2025년 1∼9월 13만3000명으로 감소하고, 1일 평균 객실 수요도 2022년 3만8000실에서 지난해 3만2000실로 줄었다.&lt;br&gt;&lt;br&gt;특히 ‘맛집 여행’ 등을 중시하는 경향에 따라 식음료비 지출을 늘리는 대신 ‘가성비 숙소’에 대한 선호도가 증가하면서 내국인 관광객 1인당 지출 중 숙박비 감소 폭이 18.1%로 가장 컸다.&lt;br&gt;&lt;br&gt;제주지역 숙박객실은 2017년 이전까지 큰 폭으로 증가한 이후 매년 소규모 숙박객실을 중심으로 공급이 계속 증가해 팬데믹 초기인 2020년 4만8000실가량 초과 공급됐다. 이후 2021∼2022년 내국인 관광객 증가 영향으로 초과 공급 규모가 다소 축소됐다가 2023년 이후 공급 과잉 양상이 심화했다.&lt;br&gt;&lt;br&gt;지난해 9월 기준 제주지역 숙박객실은 총 7만9169실이다. 이 가운데 관광숙박업이 41.9%, 일반숙박업 26.1%, 농어촌민박업 19.5%, 생활숙박업 10.4%, 기타 2.1% 순이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강선우 반박에 전직 보좌관 재소환… 계속되는 진실 공방 </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/23/WM5PQG2XFZBYVBKQHFXX3FNSZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/WM5PQG2XFZBYVBKQHFXX3FNSZE/</guid>
+      <dc:creator>김도균 기자, 권우석 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 00:05:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMEEVMOY2NIJRFRXGEZCZP5SCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무소속 강선우 의원의 전직 보좌관 남씨가 경찰 조사를 위해 17일 서울 마포구 서울경찰청 광역수사단으로 향하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강선우(서울 강서갑) 의원의 지역 사무국장 출신 남모씨가 23일 경찰에 출석했다. 이번이 네 번째 출석으로, 지난 20일 강 의원 소환 조사 이후로는 처음이다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 9시부터 남씨를 피의자 신분으로 불러 조사하고 있다. 경찰에 출석한 남씨는 ‘강선우 의원의 전세금을 전달했나’ ‘쇼핑백 옮기면서 돈인 줄 몰랐나’ 등 취재진 질문에 별다른 답변 없이 조사실로 향했다.&lt;br&gt;&lt;br&gt;남씨는 2022년 6월 지방선거를 앞두고 김경 서울시의원이 강 의원에게 ‘공천 뇌물’ 1억원을 제공하는 과정에 연루된 혐의를 받는다.&lt;br&gt;&lt;br&gt;당초 남씨는 김 시의원과 강 의원 간 돈이 오간 사실을 전혀 몰랐다는 취지로 진술한 것으로 알려졌다. 자신은 강 의원 지시로 쇼핑백을 차에 옮겼을 뿐, 그 안에 돈이 든 줄은 몰랐다는 것이다.&lt;br&gt;&lt;br&gt;하지만 최근 남씨는 기존 입장을 뒤집고 “강 의원이 1억원을 받아 전세자금으로 썼다”고 진술한 것으로 전해졌다. 그는 2022년 1월 서울 용산구 하얏트 호텔에서 강 의원과 함께 김 시의원을 만났다고 한다. 이 자리에서 김 시의원이 쇼핑백을 강 의원에게 건네자, 강 의원이 “뭘 이런 걸 다”라고 했다는 진술도 경찰이 최근 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 시의원도 당시 강 의원을 만나 1억원을 전달했으며, 2022년 6월 지방선거 이후 돌려받았다고 경찰에 진술한 것으로 알려졌다. 남씨와 김 시의원의 진술 모두 강 의원이 1억원을 직접 받았다는 것이어서, 남씨로부터 보고받고서야 1억원 수수 사실을 알았다는 강 의원의 입장과는 배치됐다.&lt;br&gt;&lt;br&gt;반면 강 의원은 첫 소환 조사 때 ‘남씨가 카페에서 김 시의원이 준 쇼핑백을 내 자택에 가져다 놓았다’는 취지로 주장한 것으로 알려졌다. 또 그해 3월 이사하면서 지불한 전세 계약금도 시부상 때 들어온 부의금으로 조달했고, 이때까지도 남씨가 옮겨둔 쇼핑백에 1억원이 있는 줄 몰랐다는 입장이다. 강 의원은 김씨가 1억원을 준 사실을 그해 4월 20일에야 인지했고 8월 중순 서울 광화문의 일식당에서 만나 돌려줬다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이처럼 1억원 전달·반환 경위를 놓고 여전히 핵심 피의자들의 진술이 엇갈리고 있다. 경찰의 이번 남씨 소환 역시 최근 확보한 강 의원 진술과 상충하는 내용을 교차 검증하기 위한 것으로 풀이된다. 경찰은 이들에 대한 조사를 이어가면서 사실관계를 가려내겠다는 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>학생이 교사 폭행하면, 교장이 바로 출석정지 조치</title>
       <link>https://www.chosun.com/national/education/2026/01/23/TCPQYRM2CRB5XL7WNSASZVKGYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/23/TCPQYRM2CRB5XL7WNSASZVKGYA/</guid>
@@ -716,15 +833,6 @@
       <content:encoded>검찰이 밀가루 가격을 담합한 의혹을 받는 제분 회사 임직원들에 대한 구속 영장을 청구한 것으로 22일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44GEZLGGY4WGMTEGUZTIZLFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 지난 21일 대한제분, 사조동아원의 전현직 대표이사 등 임직원 4명에 대한 구속영장을 청구했다. 이들은 수년에 걸쳐 생필품인 밀가루 가격을 담합한 혐의(공정거래법 위반)를 받는다.&lt;br&gt;&lt;br&gt;검찰은 이 기업들이 사전 협의를 통해 밀가루 가격을 올리거나 출하 물량을 조절하는 방식으로 짬짜미한 것으로 보고 있다. 이와 관련해 작년 12월에는 대한제분·CJ제일제당·사조동아원 등 제분 회사 5곳과 관련자들에 대한 압수 수색에도 나섰다. &lt;br&gt;&lt;br&gt;이재명 대통령은 작년 9월 국무회의에서 생필품 등의 물가가 치솟는 상황과 관련해 “업체 간 담합 가능성이 있다”는 취지로 언급하며 정부 부처의 적극 대응을 지시했다. 이후 공정거래위원회는 제분 회사들의 담합 정황을 포착해 대한제분·CJ제일제당·사조동아원·대선제분·삼양사·삼화제분·한탑 등 7개사를 상대로 현장 조사를 벌이며 조사에 나섰다.&lt;br&gt;&lt;br&gt;앞서 검찰은 이번 사건과 유사하게 설탕 가격을 담합해 3조원대 이익을 챙긴 제당업체 전현직 임직원 11명도 작년 11월 재판에 넘겼다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘설탕 담합 의혹’ CJ제일제당·삼양사 임직원 11명 기소...담합액 3조원대</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/26/2WTOATTEUBESLNCHUGDKIPWUWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/2WTOATTEUBESLNCHUGDKIPWUWM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 05:27:11 +0000</pubDate>
-      <content:encoded>검찰이 설탕 가격을 담합해 3조원대 이익을 챙긴 제당업체 관련자들을 무더기로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSDKYJZGQ4TCZBVHE2DIOJWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰이 '설탕 담합' 의혹을 받는 제당업체 관련자들을 26일 무더기 기소했다. 사진은 서울 도심의 한 대형마트에 설탕이 진열되어 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 26일 CJ제일제당·삼양사·대한제당의 설탕 가격 담합 사건과 관련해 총 11명을 기소했다고 밝혔다. 제일제당 전 대표 A씨와 삼양사 전 대표이사 B씨는 구속 기소됐고, 나머지 9명은 불구속 상태로 재판에 넘겨졌다. 소속 직원이 위법 행위를 하면 법인도 함께 처벌하는 양벌규정에 따라 CJ제일제당과 삼양사 법인도 기소됐다. 이들은 모두 공정거래법 위반 혐의를 받는다. 검찰 수사에 협조한 대한제당은 ‘리니언시(자진 신고자 감면 제도)’ 제도에 따라 재판에 넘겨지지 않았다.&lt;br&gt;&lt;br&gt;일명 ‘설탕 담합’이라 불리는 이 사건은 국내 설탕시장을 과점하는 제당 3사가 2021년 2월부터 올해 4월까지 약 4년 간 국내 설탕 가격 변동 여부와 변동 폭 등을 합의했다는 내용이다. 중앙지검은 “범행 기간 동안 설탕가격은 최고 66.7%까지 인상됐다가, 이후 원당가 하락요인이 발생했음에도 소폭 인하에 그쳤다”고 지적했다. 검찰이 파악한 담합 규모는 3조2715억원이다.&lt;br&gt;&lt;br&gt;담합의 결과로 설탕가격 상승률은 전체 물가지수 상승폭을 훨씬 웃돌았다. 중앙지검에 따르면 2020~2024년 설탕가격 상승률은 59.7%로, 같은 시기 물가지수 상승폭(14.18%)보다 4배 이상 높았다.&lt;br&gt;&lt;br&gt;검찰은 지난 9월 사건을 접수한 후 업체 및 관계자들에 대한 압수 수색을 해 관련 자료를 확보했다. 공정위에도 고발 요청권을 행사해 세 차례에 걸쳐 고발장을 접수했다. 지난 19일엔 A·B씨에 대한 구속영장이 발부돼 이들의 신병을 확보했다.&lt;br&gt;&lt;br&gt;중앙지검은 “향후에도 경쟁질서를 해쳐 국가 경제를 교란하는 각종 공정거래사범에 대해 법과 원칙에 따라 적극 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“청담동 성형외과 때문에 김밥세트 50만원”…병원 결국 사과</title>
       <link>https://www.chosun.com/national/national_general/2026/01/22/SVRFQWOQG5CUTD4LQADLUUVVBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/SVRFQWOQG5CUTD4LQADLUUVVBU/</guid>
@@ -765,24 +873,6 @@
       </media:content>
     </item>
     <item>
-      <title>내란 특검, ‘尹 체포 방해’ 1심 판결 항소 </title>
-      <link>https://www.chosun.com/national/court_law/2026/01/22/LWX34YNZ2NDLVLB6OA4E6OINCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/LWX34YNZ2NDLVLB6OA4E6OINCY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 01:43:02 +0000</pubDate>
-      <content:encoded>내란 특검이 윤석열 전 대통령의 체포 방해 지시 혐의 등의 1심 판결에 대해 항소했다고 22일 밝혔다. 지난 19일 윤 전 대통령 측이 항소한 데 이어 특검도 항소장을 제출하면서 양측은 법정 다툼을 이어가게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DKMTCGIZWGZRQMJSDOZJRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 16일 서울 서초구 중앙지방법원에서 체포 방해와 국무위원 심의권 침해 등 혐의 1심 징역 5년을 선고받은 뒤 퇴장하고 있다./중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 특검은 “윤 전 대통령의 사건에서 무죄 선고 부분 및 양형에 대해 항소를 제기했다”고 했다. 지난 16일 1심 재판부가 윤 전 대통령에 대해 징역 5년형을 선고한 지 6일 만이다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사35부(재판장 백대현)는 국무위원 계엄 심의권 침해(직권남용)와 계엄 선포문 사후 작성·폐기 승인(허위 공문서 작성 및 행사), 외신 허위 공보 지시(직권남용), 비화폰 기록 삭제 지시(직권남용 교사), 공수처 체포 방해(특수공무집행방해) 등 윤 전 대통령의 다섯 가지 혐의 가운데 네 가지를 유죄로 판단했다.&lt;br&gt;&lt;br&gt;다만 계엄 선포문을 대통령비서실 부속실에 보관한 혐의와 외신에 허위 공보를 지시한 혐의에 대해선 무죄를 선고했다. 재판부는 “문서가 허위로 작성됐다는 사정을 알지 못하는 다른 사람들이 해당 문서를 열람할 수 있는 상태에 있었다고 볼 수 없었다”고 했다. 허위 공보 지시 부분에 대해선 “대통령실 해외홍보비서관은 대통령이 전달을 요청한 입장 내용 중 사실관계와 일치하지 않는 내용이 있는지 여부까지 판단할 권한 또는 의무가 있다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;또 윤 전 대통령이 형사처벌을 받은 전력이 없는 점, 일부 범행의 경우 계획 하에 이뤄진 게 아니라는 점 등을 고려해 특검 구형량의 절반인 징역 5년형을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양재·개포엔 정보기술, 성수엔 문화콘텐츠…서울시, 특정개발진흥지구 지정</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/MGVLZFQDKFABNJH5BRZHQALWOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/MGVLZFQDKFABNJH5BRZHQALWOA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 02:00:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WT5K6JRKFPADIWN3DYMOOJTS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 서울시청 브리핑룸에서 김설희 서울시 창조산업기획관이 양재·개포ICT, 성수IT 문화콘텐츠 개발진흥지구 추진 계획을 브리핑하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초구 양재동과 개포동에 정보기술(ICT) 기업이, 성동구 성수동에 문화 콘텐츠 기업이 입주하면 세제 감면 등 혜택을 받을 수 있게 될 전망이다.&lt;br&gt;&lt;br&gt;서울시는 지난 21일 도시계획위원회를 열고 이처럼 산업·특정개발진흥지구(진흥지구)를 지정하는 내용의 도시관리계획 결정안을 통과시켰다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;진흥지구는 2007년 도입한 제도다. 진흥지구에 입주한 기업들은 취득세와 재산세 50% 감면, 자치구 보조금, 용적률 등 건축 규제 완화와 같은 인센티브도 받을 수 있다.&lt;br&gt;&lt;br&gt;서울시는 지금까지 종로 귀금속 지구, 동대문 한방 지구, 면목 패션봉제 지구 등 도시 제조업 보호 정책을 중심으로 진흥지구 정책을 추진해 왔다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “AI, 바이오 등 첨단 산업 중심으로 구조가 변하고 있는 만큼 이에 대응할 필요를 느껴 ICT와 문화 콘텐츠 진흥지구를 지정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;결정안에 따르면, 서초구 양재1·2동과 강남구 개포4동 일대는 ICT 진흥지구로, 성동구 성수동 일대가 문화콘텐츠 진흥지구로 지정된다.&lt;br&gt;&lt;br&gt;양재·개포 ICT 진흥지구는 양재 AI 혁신 특구의 배후 지역과 2000년대 ‘포이밸리’로 벤처 열풍을 이끌었던 지역이 포함됐다.&lt;br&gt;&lt;br&gt;성수동 일대는 현재 IT 진흥지구로 지정돼 있는데, 이 범위를 뚝섬역 인근까지 넓히고 문화콘텐츠 산업도 권장 업종에 추가하기로 했다.&lt;br&gt;&lt;br&gt;서울시는 진흥지구 제도 개편을 위해 현재 운영 중인 6개 진흥지구를 대상으로 실태 조사를 추진한다. 상반기까지 개편 방향을 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;이수연 서울시 경제실장은 “각 지역의 특화 산업이 성장할 수 있도록 적극 지원해, 서울의 산업 경쟁력을 한층 강화해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2조원대 판돈 굴린 기업형 도박 조직 적발… 조폭·메달리스트도 가담</title>
       <link>https://www.chosun.com/national/regional/2026/01/22/2EC6SDHCQ5D4RBXN2LD62ZXYWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/22/2EC6SDHCQ5D4RBXN2LD62ZXYWM/</guid>
@@ -790,42 +880,6 @@
       <description/>
       <pubDate>Thu, 22 Jan 2026 02:02:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CCUNHDAFBBB5JL3GBJIK6UDIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도박 조직이 베팅하는 모습. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 2조1000억원대 판돈을 굴린 기업형 도박 조직이 경찰에 적발됐다. 이 조직엔 조직폭력배와 전직 국가대표 메달리스트도 가담한 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산경찰청 형사기동대는 상습 도박, 전기통신사업법 위반 등 혐의로 총책인 40대 남성 A씨 등 23명을 검거해 이 중 조직폭력배 2명을 포함한 7명을 구속했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2022년 4월부터 지난해 9월까지 부산 해운대구 일대 오피스텔에 마련한 사무실을 거점으로 불법 사이트에서 2조1000억원 규모의 ‘양방 베팅’ 사무실을 운영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;양방 베팅은 홀짝 게임 등 양쪽에 돈을 반반씩 걸어도 적중 환급금(1.95배~2배) 배당이 높기 때문에 수익을 얻는 구조다. 통상적으로 불법 도박 사이트들은 양방 베팅하는 이용자에 대해 계정 정지를 하거나 출금 거부 등의 방식으로 대응한다. &lt;br&gt;&lt;br&gt;A씨 일당은 다른 IP에서 접속하거나 여러 계정을 통해 베팅해 불법 도박 사이트의 규제를 피해왔다고 한다. 또 불법 도박 사이트 운영자들이 판돈을 키우기 위해 A씨 일당에게 수수료를 건네고 베팅을 부탁하기도 했다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;이를 통해 A씨 일당은 36억원 상당의 부당 수익을 올린 것으로 경찰은 파악했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이 사건은 조직폭력배 2명이 운영 전반에 깊숙이 관여하고, 아시안게임 국가대표 출신 메달리스트가 ‘베팅 기술자’로 동원됐다”고 했다.&lt;br&gt;&lt;br&gt;특히 A씨는 도박 사이트 회원 가입과 ‘양방 베팅’에 필요한 도박 자금, 사무실 임대료, 타인 명의로 개통한 선불 유심칩을 관리자와 종업원에게 제공하는 등 범행을 총괄했다고 한다.&lt;br&gt;&lt;br&gt;이들은 수사기관의 추적을 피하기 위해 해운대구 일대 오피스텔 8곳을 단기로 임차해 수개월 단위로 거점을 옮겨다녔다.&lt;br&gt;&lt;br&gt;경찰은 조폭이 연루된 대규모 도박 사무실 운영 첩보를 입수, 거점을 차례로 급습해 일당을 검거했다. 또 A씨에 대해 2억7000만원 상당의 기소 전 추징 보전을 법원으로부터 인용받았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “필리핀으로 도주한 다른 총책 1명과 도박 사이트 운영 조직에 대해 인터폴 적색 수배를 요청했다”며 “앞으로도 조폭이 개입된 민생 침해 범죄와 불법 도박 범죄에 대해 수사력을 집중해 뿌리 뽑겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘김병기 차남 채용 특혜’ 업체 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/KVWNYZY4YRCM7CQM4DCPYFL6OA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/KVWNYZY4YRCM7CQM4DCPYFL6OA/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 02:03:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4GKOJSGI2TOMDFGQ3DMY3FHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김병기(서울 동작갑) 의원 차남의 숭실대 편입, 채용 특혜 의혹과 관련해 22일 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 10시 35분부터 김 의원 차남을 채용한 A사 등 3곳에 대한 압수 수색을 진행하고 있다고 밝혔다. A사는 김 의원 차남이 2022년 5월부터 3년간 재직한 업체다.&lt;br&gt;&lt;br&gt;앞서 김 의원의 전직 보좌진들은 김 의원 차남이 숭실대 계약학과 편입 요건인 ‘중소기업 10개월 재직’을 충족하기 위해 A사에 입사·근무하는 과정에서 특혜가 있었다는 의혹을 제기했다. 김 의원이 A사의 편의를 봐주는 대신 차남의 취업을 청탁했다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 최근 A사 대표를 참고인 신분으로 불러 조사한 뒤 뇌물 등 혐의를 적용해 피의자 신분으로 전환했다.&lt;br&gt;&lt;br&gt;김 의원 차남은 A사에 입사하고도 제대로 회사를 다니지 않았다는 의혹도 제기됐다. 이와 관련해 경찰은 그가 업무 시간 중 다닌 것으로 의심되는 헬스장 출입 기록 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시의회, 27일 윤리특위서 김경 징계 수위 논의…‘제명’ 의결 전망</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/GIACSFNBLJEWNAVL4HAMJOQBXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/GIACSFNBLJEWNAVL4HAMJOQBXE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 02:10:18 +0000</pubDate>
-      <content:encoded>서울시의회가 27일 윤리특별위원회(윤리특위)를 열고 김경 시의원에 대한 징계 수위를 정한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTGOJXG5QWGYJVMI2DSOBYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김경 서울시의원이 지난 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의회에 따르면, 시의회는 27일 오후 5시 윤리특위를 열고 김 시의원에 대한 징계안을 처리할 방침이다.&lt;br&gt;&lt;br&gt;현재 윤리특위는 전체 15석 가운데 국민의힘 10석, 민주당 5석으로 이뤄져 있다. 국민의힘 소속 위원들이 과반을 차지하고 있어, 김 시의원에 대한 징계 수위로는 최고 수준인 ‘제명’이 유력하게 거론된다.&lt;br&gt;&lt;br&gt;징계 효력은 본회의 의결로 확정된다. 시의회는 다음 달 24일부터 3월 13일까지 본회의를 열고 징계를 확정한다는 방침이다. 윤리특위가 제명을 의결하면, 본회의에서 재적 의원의 3분의 2가 동의해야 한다.&lt;br&gt;&lt;br&gt;김 의원은 공천 헌금, 공무 국외 활동 미신고와 직권남용, 당원 위장 전입, 당비 대납과 당원 동원, 업무 추진비 유용과 허위 보고 등 비위 혐의 5건으로 징계 요구를 받았다.&lt;br&gt;&lt;br&gt;시의회 국민의힘은 지난 21일 성명을 내고 “서울시의회 윤리특별위원회는 김 시의원에 대해 조속히 제명 처분을 의결하라”며 “경찰은 김 시의원의 중대 비위 의혹을 성역 없이 수사하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“집값보다 일자리”… 서울서 4만명 빠져나갈 때 2030은 ‘인서울’</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/D2N3ZSDAB5GOZBPRZ2ULGS6ZZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/D2N3ZSDAB5GOZBPRZ2ULGS6ZZY/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 02:16:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OMKLRBNRNN65A3VGFY5MCBS7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 남산에서 바라본 서울 시내 아파트 단지의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울을 떠나는 인구 규모가 점차 줄어든 가운데, 20∼30대 청년층에서는 타 시도로 전출한 인원보다 서울로 전입한 인원이 더 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울시는 22일 서울 인구의 이동 규모와 방향, 전입 사유, 연령대별 이동 특성 등을 종합 분석한 ‘서울시 인구이동 분석(2001∼2024)’ 결과를 공개했다. 이번 분석은 읍면동 경계를 넘어 이뤄진 거주지 이동을 대상으로 국가데이터처 국내이동통계 마이크로데이터를 활용해 진행됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEBLJXGT5VFBBFBZB7MZZXGKGI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;분석 결과 서울시에 전입한 인구에서 전출한 숫자를 뺀 ‘순이동’은 전출이 전입보다 많은 순유출 구조가 유지됐다. 다만 2024년 순유출은 4만4692명으로, 2001년의 순유출 11만3949명보다 절반 이하로 줄었다.&lt;br&gt;&lt;br&gt;서울을 ‘최종 목적지’로 선택하는 이동도 늘고 있다. 서울 전체 전입자 가운데 서울 내 다른 지역에서 이동한 비중은 2001년 72.2%에서 2024년 64.9%로 감소한 반면, 타 시도에서 서울로 전입한 비중은 같은 기간 27.8%에서 35.1%로 확대됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRJOQGIPBRFNHMOJZ7PFS5SY3E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청년층에서는 흐름이 달랐다. 20∼30대의 경우 2019년 이후 서울로 전입한 인원이 서울을 떠난 인원보다 많아졌고, 2019년 순유입 1만9000명으로 전환된 뒤 2021년을 제외하고는 매년 순유입이 이어졌다.&lt;br&gt;&lt;br&gt;다만 청년 순유입 규모는 2022년 2만6000명으로 정점을 찍은 뒤 2023년 2만3000명, 2024년에는 1만명 수준으로 감소해 주거 비용 부담이 청년 이동 흐름에 영향을 미치고 있다는 분석이 나온다. &lt;br&gt;&lt;br&gt;전입 사유를 보면 일자리 요인이 갈수록 커지고 있다. 경기도에서 서울로 이동한 인구 가운데 직업을 이유로 전입한 비중은 2013년 24.2%에서 2024년 30.6%로 늘었다. 같은 기간 주택을 이유로 한 전입 비중은 32.5%에서 20.5%로 감소했다. 특히 20∼30대의 경우 2024년 기준 39.2%가 직업을 전입 사유로 꼽아, 주거 비용 부담 속에서도 일자리 접근성을 우선하는 이동이 늘어난 흐름이 확인됐다.&lt;br&gt;&lt;br&gt;이동 방식도 개인 단위로 바뀌고 있다. 2024년 기준 서울 전입자의 79.8%는 1인 이동으로, 2001년(57.7%)보다 크게 증가했다. 1인 이동자 가운데 19∼39세 청년층 비중은 68.8%였으며, 주요 전입 사유는 직업(36.5%)과 가족(22.7%) 순으로 나타났다.&lt;br&gt;&lt;br&gt;서울시는 이번 분석 결과를 이날부터 서울열린데이터광장을 통해 공개하고, 오는 6월에는 2001~2024년 인구이동 흐름을 한눈에 볼 수 있는 시각화 서비스도 선보일 계획이다.&lt;br&gt;&lt;br&gt;강옥현 서울시 디지털도시국장은 “서울로의 인구 유입은 단순한 규모보다 전입 목적과 이동 방식의 변화에 주목할 필요가 있다”며 “개인 단위 전입과 청년층 유입 확대 흐름에 맞춰 인구이동 데이터를 기반으로 정책 분석과 도시 전략 수립의 정밀도를 높여 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최경환 전 경제부총리, 박근혜 정부 경제 정책 성과 담은 책 출간</title>
-      <link>https://www.chosun.com/national/regional/2026/01/22/HRY5VLV4OVHSVDQ3QUY5BDLC7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/22/HRY5VLV4OVHSVDQ3QUY5BDLC7Y/</guid>
-      <dc:creator>경산=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 02:26:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSU5BAVYU5OUXMRKW73DHYI6GY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최경환 전 경제부총리./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 6월 지방선거 경북도지사 출마 의사를 밝힌 최경환 전 경제부총리가 박근혜 정부 시절 추진했던 경제 정책들을 정리한 정책서 ‘박근혜 정부의 경제 정책-초이노믹스’와 자신의 인생 역정을 담은 자전적 에세이 ‘최경환입니다’를 동시 출간했다.&lt;br&gt;&lt;br&gt;최 전 총리 측 관계자는 “정책서는 2016년 최 전 부총리 퇴임 당시 이미 집필을 마쳤던 원고를 바탕으로 한다. 하지만 탄핵과 수감 등 10년의 풍파를 거치며 묻혀 있던 기록이 뒤늦게 세상에 나오게 된 것”이라고 22일 설명했다. &lt;br&gt;&lt;br&gt;최 전 부총리는 서문을 통해 “역대 대통령 중 박근혜 대통령만큼 공은 묻히고 과만 부각되어 평가받는 인물이 없다”며 안타까움을 드러냈다. 창조경제를 비롯한 뛰어난 경제 정책 성과들이 ‘탄핵’이라는 부정적 이미지에 가려 정당한 평가를 받지 못하는 현실을 바로잡고자 묵혀두었던 원고를 꺼냈다고 최 전 부총리는 밝혔다. &lt;br&gt;&lt;br&gt;정책서와 함께 출간된 에세이에는 최 전 총리의 신참 사무관 시절의 패기 어린 일화부터, 농구 문외한임에도 불구하고 여자농구연맹을 맡아 팀 해체를 막고 20년 만의 아시안게임 금메달 획득을 이끌어낸 이야기들을 담았다고 한다. &lt;br&gt;&lt;br&gt;최 전 부총리는 “경제 정책의 최종 평가는 국민의 먹고사는 형편이 나아졌는지 여부로 결정된다고 믿는다”며 “이번 책이 단순 기록을 넘어 저성장의 늪에서 고군분투하는 후배 공무원들에게 실질적 도움이 되고, 경제 재도약의 담론 형성과 국민들께 따뜻한 위안을 주는 통로가 되길 소망한다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>명함 5장 뿌려 기소된 김문수 “경선 운동 고의 없었다”... 혐의 부인</title>
@@ -844,15 +898,6 @@
       <description/>
       <pubDate>Thu, 22 Jan 2026 02:37:08 +0000</pubDate>
       <content:encoded>한덕수 전 국무총리의 ‘내란 중요 임무 종사’ 혐의 1심 판결문에는 한 전 총리를 비롯한 윤석열 정부 고위 각료들의 12·3 비상계엄 전후 행적이 구체적으로 담겼다.&lt;br&gt;&lt;br&gt;22일 본지가 확보한 한 전 총리의 내란 혐의 1심 판결문은 총 348쪽 분량이다. 이 중 재판부 판단이 담긴 본문(125쪽)에 ‘윤석열’이 300여 차례, ‘이상민’이 170여 차례, ‘김용현’이 140여 차례 언급됐다. 223쪽 분량의 별지에는 국무회의 참석자 등 관련자들의 진술과 대통령실 CCTV 영상을 ‘초 단위’로 분석해 기록해 놨다. 재판부는 이를 토대로 증거 능력을 가려 한 전 총리의 실제 의중을 판단한 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTQZRXGI2DCMBZMU2TQZLBGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 지난 21일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 방조, 내란 중요임무 종사 혐의 사건 1심 선고공판에 출석해 자리에 앉아있다. /서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 “계엄 선포, 내 ‘처’도 몰라”&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 판결문에서 “피고인은 윤 전 대통령이 계엄 선포 계획을 재고할 의사가 없음을 확인하고는 생각을 바꿔 ‘계엄을 선포하기 위해서는 국무회의를 거쳐야 한다’는 취지로 건의했다”고 판시했다.&lt;br&gt;&lt;br&gt;판결문 별지에 담긴 한 전 총리 진술에 따르면, 그는 “윤 전 대통령의 계엄 선포 의사가 확고해 보였고, 제 만류에도 ‘계엄 선포 의사를 철회하겠다’는 말을 하지 않았다”며 “그대로 두면 대통령 뜻대로 계엄을 선포할 수도 있겠다는 우려에 ‘국무회의라는 장치를 통해 법률가이자 정치인인 윤 전 대통령을 설득해야겠다’는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;이후 한 전 총리 등은 계엄 선포 예정 시각이었던 밤 10시 안에 대통령실에 도착할 수 있는 국무위원들을 중심으로 소집하기 시작했다. 밤 8시 56분쯤 대통령 집무실에 들어간 조태열 전 외교부 장관과 조태용 전 국가정보원장은 윤 전 대통령으로부터 “내가 원래 국무위원들도 안 부르고 그냥 (계엄) 선포하려고 하다가 부른 것이다. 내 처도 모른다”는 말을 듣기도 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇이상민 ‘언론사 단전·단수 지시’ 사실로 인정&lt;/b&gt;&lt;br&gt;&lt;br&gt;판결문에는 이상민 전 행정안전부 장관의 ‘언론사 단전·단수 지시’ 혐의(내란 중요 임무 종사)와 관련한 내용도 상당 부분 담겼다. 재판부는 한 전 총리가 이 전 장관과 특정 언론사에 대한 단전·단수 지시 이행 방안을 논의한 사실을 인정하면서, 이 전 장관에 대해서도 “윤 전 대통령과 김 전 장관에게서 특정 언론사 단전·단수 지시가 기재된 문건을 교부받았고 그 이행 여부를 확인하기 위해 조지호 전 경찰청장, 허석곤 전 소방청장 등 관련자들에게 전화를 걸었다”고 했다. 이는 다음 달 12일로 선고가 예정돼 있는 이 전 장관 내란 재판에도 적잖은 영향을 미칠 것으로 보인다.&lt;br&gt;&lt;br&gt;판결문에는 이와 관련한 이 전 장관의 구체적인 행적도 나온다. 계엄 당일 밤 9시 13분 대통령실 대접견실에서 이 전 장관이 휴대전화로 ‘헌법’을 검색한 뒤 대통령 집무실에 들어갔다가, 다시 나와 밤 9시 19분에는 ‘정부조직법’을 검색한 것으로 나타났다. 재판부는 “이 전 장관이 ‘헌법’을 검색해 ‘비상계엄이 선포되면 언론의 자유에 대해 특별한 조치를 할 수 있다’는 규정을 찾아 윤 전 대통령에게 보고했고, 이후 ‘정부조직법’을 검색해 행정안전부 장관으로서 경찰청장과 소방청장에게 봉쇄와 단전·단수 조치 등 업무를 지시할 법률상 근거가 있는지 찾아봤다고 봄이 합리적”이라고 했다.&lt;br&gt;&lt;br&gt;당일 대통령실 CCTV에는 이 전 장관이 밤 9시 16분 대접견실에서 조태열 전 장관과 대화하며 왼손 손날로 무언가를 연달아 내려치는 동작을 4차례 취하고, 10분 뒤 윤 전 대통령도 집무실에서 나와 같은 동작을 2~3차례 하자 이 전 장관이 고개를 끄덕이는 장면이 찍혔다. 재판부는 “이러한 동작은 일반적으로 무언가를 끊는다는 의미를 담고 있는 바, ‘단전·단수’를 의미하는 것으로 이해된다”며 “이 전 장관이 윤 전 대통령의 이야기를 듣고 고개를 끄덕인 것은 ‘동의한다’ 내지 ‘따르겠다’는 취지로 이해된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김재규·이석기 내란 판례 인용...“폭행·협박 없어도 내란 종사자"&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 한 전 총리에게 내란 중요 임무 종사 혐의가 성립하는지 판단하는 과정에서 김재규 내란 살인 사건과 이석기 내란 음모 사건에 관한 대법원 판례를 인용했다. 두 사건은 내란의 개념과 가담 범위를 정립한 대표적인 판례로 꼽힌다. 법조계에서는 “윤 전 대통령이 ‘종북 척결’을 이유로 계엄을 정당화했지만, 사법부는 그와 무관하게 헌정 질서를 무너뜨리려 한 행위를 내란으로 동일하게 평가한 셈”이라는 해석이 나왔다.&lt;br&gt;&lt;br&gt;재판부는 내란을 가능하게 한 행정·조정 역할도 공범에 포함된다고 보고 한 전 총리가 내란 중요 임무 종사자에 해당한다고 판단했다. 형법 제87조 제2호에서 ‘중요 임무 종사자’는 보급, 경리, 연락, 통신, 서무 등의 책임을 부담하는 사람까지 포함하며 반드시 폭행·협박을 수반할 필요는 없다는 김재규 내란 살인 사건 대법원 전원합의체 판결 법리를 적용한 것이다.&lt;br&gt;&lt;br&gt;재판부는 또 ‘국헌을 문란하게 할 목적’과 내란 중요 임무 종사의 고의가 있었는지 여부를 판단하는 데 미필적 인식으로도 충분하다고 봤다. 이 역시 이석기 등 내란 음모 사건 대법원 전원합의체 판결 법리를 인용한 것으로, 피고인 진술만이 아니라 외부로 드러난 행위와 그 행위에 이르게 된 경위 전체를 종합적으로 판단해야 한다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“장애 영아 살해 도왔다”... 산부인과 의사 징역형</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/22/KCGAXWN3EBFBZLJ4MKMUNWD2E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/22/KCGAXWN3EBFBZLJ4MKMUNWD2E4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 02:50:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애를 안고 태어난 아이를 살해한 부모의 범행을 도운 산부인과 의사에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사22부(한상원 부장판사)는 22일 살인 혐의로 불구속기소 된 청주 모 산부인과 의사 A씨에게 징역 3년을 선고했다. &lt;br&gt;&lt;br&gt;다만법정구속은하지않았다.&lt;br&gt;&lt;br&gt;A씨는 “공동 범행 또는 기능적 행위지배가 없었으므로 살인에 가담했다고 볼 수 없다”고 주장했지만, 재판부는 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은피해자의장애를미리발견하지못했다는압박에서벗어나고자범행을저질렀다”며 “사건이질식사로종결될수있도록수사를방해하고증거가드러났음에도변명으로일관했다”고 지적했다. &lt;br&gt;&lt;br&gt;그러면서 “다만 이 사건 범행 전까지 산부인과 의사로서 성실하게 직무를 수행했고, 다수 지인이 선처를 탄원하는 점 등을 참작해 형을 정했다”고 판시했다. &lt;br&gt;&lt;br&gt;지난 2024년 11월 10일 오전 6시쯤 B씨 부부는 한쪽 팔에 장애를 갖고 태어난 생후 1주일 된 아이를 A씨 산부인과 산모실 내 침대에 엎어놓아 질식사하게 했다. &lt;br&gt;&lt;br&gt;A씨는 이들 부부에게 사망진단서를 써주겠다고 말하거나 이용객이 없는 층에 있는 산모실을 이용할 수 있게 배정해주는 등 당시 범행을 도운 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;검찰은 A씨가 사전에 장애 여부를 진단하지 못해 B씨 부부로부터 항의를 받게 되자 범행을 공모했다고 판단했다.&lt;br&gt;&lt;br&gt;앞서 B씨와 그의 남편은 항소심에서 각각 징역 3년과 징역 2년 6개월에 집행유예 4년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘기업·금융 수사 전문' 용성진 순천지청장 사의… 검찰 고위 간부 인사 임박</title>
@@ -896,43 +941,6 @@
       </media:content>
     </item>
     <item>
-      <title>北에 무인기 날린 혐의 피의자 3명 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2026/01/22/XD6MMZGEIBF7DLIFP53KHBJG6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/22/XD6MMZGEIBF7DLIFP53KHBJG6M/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>북한의 ‘한국 무인기 침투’ 주장 사건을 수사하는 군·경 합동 태스크포스(TF)가 21일 휴전선 인근에서 허가 없이 무인기를 북한으로 날린 혐의(항공안전법 위반 등)로 민간인 3명을 압수수색했다. &lt;br&gt;&lt;br&gt;무인기를 제작했다고 주장하는 장모씨, 최근 방송 인터뷰에서 자신이 무인기를 날려 보냈다고 주장한 30대 대학원생 오모씨, 장·오씨가 창업한 무인기 스타트업에서 활동한 김모씨가 압수수색 대상이다. 이번 압수수색은 오씨가 방송 인터뷰에서 자기가 북한으로 무인기를 날려 보냈다고 주장한 지 5일 만에 이뤄졌다. 오씨는 지난 16일 채널A 인터뷰에서 북한 평산군 우라늄 공장 인근 방사능 오염 실태를 확인하기 위해 지난해 9월부터 세 차례 무인기를 보냈고, 장씨에게 무인기 구매와 개량을 요청했다고 했다.&lt;br&gt;&lt;br&gt;대학 선후배인 장·오씨는 2020년 통일 관련 단체를 만들어 함께 활동했다. 윤석열 정부 대통령실에서 계약직으로 함께 근무했다. 대통령실에선 대변인실 뉴스 모니터 업무를 했다고 한다. 두 사람은 2023년에는 무인기 스타트업 ‘에스텔엔지니어링’을 함께 설립해 장씨가 대표를, 오씨가 이사를 맡았다. 김씨는 이 회사에서 ‘대북 전문 이사’를 맡아 무인기 관련 언론 인터뷰와 기고 등을 해왔다. &lt;br&gt;&lt;br&gt;군경 TF는 이날 장씨가 몸담았던 대학 연구실도 압수수색했다. 장씨는 지난해 11월 경기 여주에서도 무인기를 날렸지만 추락했다. TF는 오씨 등이 국군정보사령부에서 지원금을 받았다는 의혹도 수사 중이다. 군 당국은 정보사 요원들의 접촉을 승인했던 정보사 A대령을 조사할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5년새 제일 추운 1월</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/22/X7BRXQVYAZCBPNGP67K2733LDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/22/X7BRXQVYAZCBPNGP67K2733LDY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>올 1월 들어 수은주가 영하 10도 아래로 떨어지는 강력한 한파가 잦아지고 있다. 온난화 여파로 겨울이 전반적으로 따뜻해졌지만, 연초부터 동장군 기세가 매섭게 이어지고 있다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 21일 서울(종로구 기준)의 최저기온은 영하 12.2도, 체감온도는 영하 17.9도까지 떨어졌다. 올 들어 서울은 일 최저기온이 영하 10도 이하를 기록한 날이 5일(23.8%)이었다. 기상청은 이달 말까지 최소 4일 정도는 기온이 영하 10도 아래로 내려갈 것으로 예상했다. 한 달 중 총 9일(29%)로, 3일에 하루 꼴로 한파가 찾아오는 셈이다.&lt;br&gt;&lt;br&gt;1월은 겨울(12월~2월) 중에서도 가장 추운 달이지만, 최근 5년간은 온난화 여파로 비교적 포근했다. 서울의 경우 1월 일 최저기온이 영하 10도 아래로 떨어진 날은 2022~2024년에 각 4일, 작년은 2일에 불과했다. 그런데 올해는 작년보다 4배 이상 늘어나게 되는 셈이다. &lt;br&gt;&lt;br&gt;올 1월 한파가 폭증하게 된 원인은 영하 35도의 찬 공기를 품은 ‘절리 저기압’(북극에서 떨어져 나온 찬 공기 덩어리)이 우리나라 북쪽에 자주 형성됐기 때문이다. 이는 북극 찬 공기를 고위도에 묶어두는 ‘제트기류’(고위도에서 서에서 동으로 빠르게 부는 바람)가 온난화로 인해 느슨해지면서 얼음 공기가 북극을 자주 이탈해 발생한 결과다. 이 때문에 올겨울은 영하 35도의 영향권에 더 자주 놓이게 된 것이다. 보통 우리나라에 한겨울 추위를 몰고 오는 시베리아 고기압의 찬 바람은 영하 15도 정도다. &lt;br&gt;&lt;br&gt;절리 저기압이 자주 발생하자 겨울철 기압계 패턴이 망가졌다. 원래 추위가 풀리기 시작하는 대한(1월 20일) 무렵에 이례적 고기압 정체가 발생해 한파가 계속 이어지는 것도 이런 배경에서다. 우리나라 동쪽에 고기압이 이례적으로 정체됐고, 이 ‘고기압 벽’이 온난한 서풍 계열 대신 찬 북풍 계열의 바람이 불도록 길을 만들어 6일 정도 한파가 지속됐다. &lt;br&gt;&lt;br&gt;최소 주말까지 이어질 이번 한파는 22일 절정에 달할 전망이다. 22일 아침 최저기온은 영하 19~영하 5도, 낮 최고기온은 영하 7~영상 2도로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수도 꼭지도 꽁꽁</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/26N7KLVNDNAGVFVHYAGFH76L4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/26N7KLVNDNAGVFVHYAGFH76L4M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEIHT454ABDJ3NNISUZNJGAIYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 세종시의 한 농가에서 주민이 얼어붙은 샤워기를 뜨거운 물로 녹이고 있다. 이날 세종시의 아침 기온은 영하 11도까지 떨어졌다. 기상청은 “22일 이번 한파가 절정에 달하며 올겨울 들어 가장 추울 것”이라고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김병기 개인 심부름도 전담’ 이지희 동작구의원 경찰 조사</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/GYSMBTWWAZAPJFT5SVOF2IR5EQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/GYSMBTWWAZAPJFT5SVOF2IR5EQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>2020년 제21대 총선 직전 구의원들로부터 공천 헌금을 받아 더불어민주당 김병기(서울 동작갑) 의원 측에 전달한 혐의를 받는 이지희 서울 동작구의회 부의장이 21일 경찰 조사를 받았다.&lt;br&gt;&lt;br&gt;이 부의장은 이날 오후 1시 49분쯤 검은색 마스크를 쓰고 서울 마포구 서울경찰청 공공범죄수사대 청사에 출석했다. 그는 출석 길에 ‘김 의원 아내 지시로 공천 헌금을 요구했냐’ 등 취재진 질문엔 답하지 않았다.&lt;br&gt;&lt;br&gt;김 의원의 공천 헌금 수수 의혹은 2023년 말 처음 제기됐다. 전직 동작구의원 A씨와 B씨가 당시 동작을 지역구 의원이었던 이수진 전 민주당 의원에게 전달한 탄원서에는 김 의원 아내 등이 2020년 총선 전 A씨와 B씨에게서 3000만원을 받았다가 몇 달 뒤 돌려줬다는 의혹과 함께 김 의원 아내의 동작구의회 업무추진비 사적 유용 의혹 등이 담겨 있었다. 선거 자금 명목으로 A·B씨에게 돈을 요구하고, 나중에 돈을 되돌려준 사람은 이 부의장이라고 적혀 있었다.&lt;br&gt;&lt;br&gt;이 부의장은 2022년 김 의원 차남의 숭실대 편입을 알아보기 위해 대학을 직접 방문하고 입시 브로커를 소개했다는 의혹에도 휘말렸다. 지난 14일 경찰은 이 부의장 사무실을 압수수색하는 과정에서 컴퓨터에 저장된 숭실대 관련 파일을 발견하고 이를 확보했다.&lt;br&gt;&lt;br&gt;경찰은 최근 김 의원 차남이 다녔던 서울 영등포구 여의도의 한 헬스장을 방문해 회원 계약서 및 출입 내역 자료도 임의제출 받은 것으로 전해졌다. 김 의원 차남이 편입한 숭실대 계약학과는 회사 근무와 학습을 병행해야 한다. 그런데 김 의원 차남은 일과 시간인 평일 오전 9시부터 오후 6시 사이에 헬스장을 수시로 드나들었다는 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;이 부의장이 구의회 업무 추진비를 사적으로 유용했다는 의혹도 받고 있다. 그러나 경찰 관계자는 “고발이 들어오지 않아 수사에 착수하지 않았다”고 했다. 2024년 7월부터 작년 11월까지 이 부의장의 업무 추진용 법인카드 사용 내역을 보면, 동작구의 한 닭발집에서 만원 또는 십만원 단위로 결제가 반복됐다. 이 부의장의 전임자인 조진희 전 동작구의원과 김 의원의 아내 이씨는 2022년 7~9월 사이 업무용 법인카드를 사적으로 사용했다는 의혹으로 내사를 받았었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>1만1136명→4800명… 회의할 때마다 줄어드는 ‘의사 부족 규모’</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/01/22/W5PM2OYYZREILGFGZSH2X2XOAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/22/W5PM2OYYZREILGFGZSH2X2XOAE/</guid>
@@ -940,15 +948,6 @@
       <description/>
       <pubDate>Wed, 21 Jan 2026 15:44:00 +0000</pubDate>
       <content:encoded>2027학년도 이후 의대 정원을 논의하는 보건의료정책심의위원회(보정심)에서 적정 정원 결정에 기반이 되는 국내 ‘미래 부족 의사’ 규모가 계속 축소돼 논란이 일고 있다. 일각에선 “정원 증원에 반대하는 의료계의 눈치를 보는 것 아니냐”는 지적도 나온다. &lt;br&gt;&lt;br&gt;당초 보정심은 지난달 말 의사인력수급추계위원회(추계위)에서 오는 2040년 국내 부족한 의사 규모가 최소 5704명, 최대 1만1136명이란 추산 결과를 넘겨받았다. 하지만 이달 초 열린 2차 보정심 회의에선 부족한 최소 의사 수가 5704명에서 5015명으로 줄었다. &lt;br&gt;&lt;br&gt;이뿐 아니라 기준 연도를 2040년이 아닌 2037년으로 바꾸면서 부족한 의사 규모를 이전보다 더 적은 ‘최소 2530명, 최대 7261명’으로 보고 심의를 진행하기로 했다. 보정심에서 논의해야 할 의대 정원이 2027학년도부터 2031학년도까지인 만큼 부족한 미래 의사 규모 기준을 2040년이 아닌 2037년으로 봐야 한다는 설명이었다.&lt;br&gt;&lt;br&gt;그런데 지난 20일 보정심 회의 때 2037년 기준 부족한 최대 의사 수를 7261명에서 4800명으로 또 줄였다. 정부 관계자는 “보정심 위원들 표결을 거쳐 추계위로부터 받았던 의사 인력 수요·공급 모형 12개를 6개로 줄이면서 최대값도 변하게 된 것”이라고 했다. &lt;br&gt;&lt;br&gt;이를 놓고 “의료계의 입김이 들어간 것 아니냐”는 말들이 나오고 있다. 장부승 일본 관서대 교수는 지난 20일 페이스북에 올린 글에서 “추계위원회가 완전히 들러리가 됐다. 보정심에서 다 바꿔 버릴 거면 추계는 왜 하느냐”며 “추계가 잘못됐으면 추계위로 다시 돌려보내면 될 일”이라고 했다. &lt;br&gt;&lt;br&gt;보정심에 참여하는 일부 위원들 사이에서도 반발 기류가 감지되고 있다. 한 보정심 위원은 “회의를 할 때마다 미래 의사 부족 규모가 줄어들고 있다”며 “의료계가 받아들일 수 있는 의사 부족분을 찾기 위한 회의가 아닌가 생각될 정도”라고 했다. &lt;br&gt;&lt;br&gt;보정심은 일부 위원들로 ‘태스크포스(TF)’를 꾸려 선별된 6개 안에 대해 집중 논의한다는 계획이다. 보정심 관계자는 “수요자와 공급자, 중립적 전문가가 모여 심층적으로 토의해 보정심에 보고할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr. 이은봉의 의학 연구 다이제스트] 가공식품 속 보존제, 전립선암 발생 32% 높여</title>
-      <link>https://www.chosun.com/medical/2026/01/22/VG5FWHDQNBDONFTYFYOBA2SAY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/01/22/VG5FWHDQNBDONFTYFYOBA2SAY4/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 Jan 2026 15:43:00 +0000</pubDate>
-      <content:encoded>가공식품 제조 시 식품의 부패나 산패를 막기 위해서 흔히 보존제를 사용한다. 가공식품 중 약 20%가 보존제를 함유하고 있다. 보존제는 비항산화제(항균제) 계열로 소르빈염, 아질산염, 벤조산염, 이산화황, 아세테이트 등이 있고, 항산화제 계열로는 아스코르빈산, 토코페롤, 에리소르베이트 등이 있다.&lt;br&gt;&lt;br&gt;최근 영국의학회지에 음식에 포함된 보존제가 암 발생에 미치는 영향을 조사한 연구가 발표됐다. 연구는 암이 없는 프랑스인 10만5260명(평균 나이 42세)을 대상으로 했다. 대상자들이 하루 섭취한 음식을 설문지를 통해 조사한 후, 데이터베이스를 이용해 음식에 포함된 보존제 양을 계산한 후, 평균 8년간 추적하면서 암 발생 여부를 조사했다. &lt;br&gt;&lt;br&gt;관찰 기간 동안 총 4226명에서 암이 발생했다. 유방암 1208건, 전립선암 508건, 대장암 352건, 기타 암 2158건이었다. 비항산화제는 모든 암의 발생을 16%, 유방암 발생을 22% 증가시켰다. 개별적으로 포타슘 소르빈산이 암 발생을 14%, 이산화황은 12%, 아세테이트는 15% 증가시켰다. 아질산염은 전립선암 발생을 32% 증가시켰다.&lt;br&gt;&lt;br&gt;식품 가공에 사용되는 각종 보존제는 세포의 증식을 직접 촉진할 뿐만 아니라, 혈청 내 단백질과 결합해서 암을 유발할 수 있는 물질을 만들고, 세포를 자극해서 각종 염증 물질을 생산할 뿐만 아니라, 면역세포를 억제해서 암을 유발할 가능성을 높인다. 보존제로 음식을 오래 보관해도 상하지 않고, 맛있게 먹을 수 있다고 좋아할 일이 아니다. 건강을 위해서라면 가능한 한 보존제가 든 가공식품을 피하고, 신선한 재료로 식사를 하는 게 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
