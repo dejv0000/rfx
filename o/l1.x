@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>해송, 이성호 전 서울중앙지법원장·이정미 전 헌법재판관 영입</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215263.jpg" alt="23423.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이성호 대표변호사, 이정미 대표변호사&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="9034"&gt;이성호&lt;/span&gt;(사법연수원 12기) 전 서울중앙지법원장과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8103"&gt;이정미&lt;/span&gt;(16기) 전 헌법재판관이 법무법인 해송의 대표변호사로 합류했다.&lt;/p&gt;&lt;br /&gt;이 전 법원장은 서울 신일고와 서울대 법학과를 졸업하고 제22회 사법시험에 합격했다. 그는 1985년 서울지법 의정부지원 판사로 공직생활을 시작했다. &lt;br /&gt;&lt;br /&gt;이후 마산지법·부산고법·서울고법 판사, 대법원 재판연구관, 대전지법 천안지원장, 수원지법·서울지법 동부지원·서울지법 부장판사, 특허법원·서울고법 수석부장판사, 서울남부지법원장 등을 거쳐 서울중앙지법원장을 지냈다. 2015년 7월부터 2018년 8월까지 제7대 국가인권위원회 위원장을 지낸 뒤 2019년 변호사로 개업했다.  &lt;br /&gt;&lt;br /&gt;이 전 헌법재판관은 마산여고와 고려대 법학과를 졸업했다. 제26회 사법시험에 합격하고 1987년 대전지법 판사로 임관했다. 이후 인천지법·수원지법·서울가정법원·서울지법·서울고법 판사, 서울서울지법·서울중앙지법·부산고법·대전고법 부장판사 등을 역임했다. &lt;br /&gt;&lt;br /&gt;2011년에 헌법재판관으로 임명됐다. 당시 그는 최초의 40대 재판관이자 두 번째 여성 재판관이었다. 임기 중 헌법재판소장 권한대행을 두 차례 맡은 바 있으며 2017년 3월 퇴임하며 30년간의 법관생활을 마무리했다. 퇴임 후에는 고려대 로스쿨 석좌교수, 남양유업 컴플라이언스위원회 위원장 등을 맡았다.</description>
+			<pubDate>Fri, 23 Jan 2026 02:55:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215263</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215263</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215263.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2026년 1월 23일</title>
 			<description>&lt;b&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 재정경제기획위원회 전체회의(본관 430호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 소병훈 의원실 등, (회복과 성장을 위한) 정년연장 특별위원회(더불어민주당 원내대표회의실)&lt;br /&gt;&lt;br /&gt;10:00 김윤 의원실 등, 스튜어드십코드 실효성 제고를 위한 내실화 방안 모색 토론회(의원회관 신관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 김영호 의원실 등, 독서국가 선포식: AI 시대 독서국가로 가는 길(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;14:00 남인순 의원실 등, 민·관·기업·언론·종교계가 함께하는 어린이안전법·제도·정책 강화 대토론회(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 이재강 의원실 등, 비무장지대(DMZ) 관련 법체계와 평화적 이용(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김선민 의원실 등, 충동적 자살 예방 토론회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 정을호 의원실 등, 해외 한국어교육 발전을 위한 현황 진단 및 과제(의원회관 제10간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:20 박홍배 의원, [쿠팡 명절 휴업 촉구 및 생활물류서비스법 개정안 발의 공동 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 백승아 의원, [청소년 스마트폰 사용 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 김현 의원, [더불어민주당 국민소통위원회 민주파출소 정례브리핑]&lt;br /&gt;&lt;br /&gt;14:20 강득구 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Thu, 22 Jan 2026 22:39:24 -0000</pubDate>
@@ -224,15 +234,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215179</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215179.jpg</media:thumbnail>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>"'제2의 검찰청' 안돼"…추진단 자문위, 중수청법 수정 요구</title>
-			<description>국무총리 산하 검찰개혁추진단 자문위원회가 정부에 중대범죄수사청(중수청) 설치법 초안을 재고해 달라고 요구했다. 수사사법관과 전문수사관으로 이원화한 중수청이 '제2의 검찰청'으로 오해받을 수 있다며 수정이 필요하다는 것이다.&lt;br /&gt;&lt;br /&gt;자문위는 1월 20일 입장문을 내고 조직 이원화 방안은 "중수청이 자칫 제2의 검찰청이라는 오해를 받을 수 있으므로 대폭 수정해야 한다고 의견을 모았다"고 밝혔다. 이원화가 현직 검사를 유입하려는 고육지책임은 인정하지만 세계적으로 유례를 찾기 어렵다고 이유를 설명했다.&lt;br /&gt;&lt;br /&gt;앞서 자문위는 직역을 수사관으로 일원화하는 방안을 다수의견으로 정리해 추진단에 제출했다. 추진단은 1월 12일 이와 반대되는 법안을 발표했다. 이튿날 자문위는 공식입장을 내고 유감을 표했다. 위원 16명 중 6명은 정부가 추진단을 무시하고 일방적으로 의사결정을 했다며 반발하고 사퇴했다.&lt;br /&gt;&lt;br /&gt;자문위는 중수청의 수사 권한도 9대 범죄에서 '부패, 경제, 공직자, 내란·외환' 등 4대 범죄로 축소해야 한다고 주장했다. 다른 수사기관의 사건을 가져올 수 있는 우선수사권(58조)은 삭제하자고 제안했다. 어느 수사기관이 우선권을 가질지는 구체적인 요건을 법률에 규정해야 한다는 것이다. 행정안전부 장관에게 있는 구체적 사건의 지휘·감독권(제5조)도 없애자고 했다.&lt;br /&gt;&lt;br /&gt;공소청법안도 수정해야 한다고 했다. 자문위는 "공소청 구조를 대·고등·지방공소청의 3단 구조에서 공소청과 지방공소청 2단 구조로 변경해야 한다"고 촉구했다. 새로운 형사구조를 만든다는 취지에 맞게 검찰청과 달라야 한다는 것이다. 자문위는 애초 2단 구조를 다수의견으로 채택해 추진단에 넘겼다.&lt;br /&gt;&lt;br /&gt;공소청의 장 명칭도 '공소청장'으로 해야 한다고 주장했다. '공소청장은 검찰총장에 해당한다'고 명시하면 헌법 위반을 피할 수 있다는 것이다. 공소청 설치법안에는 '공소청의 장은 검찰총장으로 한다'(제6조)는 규정이 들어갔다.&lt;br /&gt;&lt;br /&gt;자문위는 또 공소청 검사는 징계만으로도 파면할 수 있게 하자고 했다. 공소청 검사는 기존 검찰청 검사처럼 탄핵이나 금고 이상의 형을 선고받은 경우를 제외하고는 파면되지 않게 신분보장이 규정됐다(제45조).&lt;br /&gt;&lt;br /&gt;자문위는 이 외에도 정기적격심사에 더해 수시적격심사 규정도 둬서 직무수행능력이 떨어지는 검사는 퇴직을 명령할 수 있게 해야 한다고 제안했다. 법무부 탈검찰화를 위한 명문 규정을 신설해야 한다는 의견도 냈다.</description>
-			<pubDate>Wed, 21 Jan 2026 04:46:29 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215177</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215177</guid>
-			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
