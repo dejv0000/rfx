@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 라움·세무법인 로마, 조세·세무조사 대응 위한 업무협약 체결</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215272.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;1월 22일 서울 서초구 서초동 법무법인 라움 본사에서 열린 업무협약체결식.《사진=법무법인 라움》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 라움(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15028"&gt;부종식&lt;/span&gt;)이 세무법인 로마(대표세무사 김국현)와 1월 22일 서울 서초구 서초동 법무법인 라움 본사에서 업무협약(MOU)을 체결했다. 이번 업무협약은 조세 및 세무조사 대응 역량 강화를 위해 추진됐다. &lt;br /&gt;&lt;br /&gt;양측은 법무법인 라움의 조세전략센터를 중심으로 협력한다. 라움 관계자는 "특히 조사 범위의 부당한 확대를 방어하고, 세무조사가 조세형사 사건으로 비화되는 것을 초기 단계에서 차단하는 풀 스코프(Full-Scope) 방어 시스템을 선보일 예정"이라고 전했다.&lt;br /&gt;&lt;br /&gt;라움에 따르면 조세전략센터는 중소기업과 병·의원, 학원 등 전문직 사업자를 대상으로 △업종별 세무 리스크 진단 △법인 가지급금 정비 및 가업상속·증여 설계 △부동산 단계별 절세 솔루션 등의 서비스를 제공한다. 조세전략센터는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11065"&gt;박종우&lt;/span&gt;(사법연수원 33기) 변호사가 이끌고 있다. 박 센터장은 조세범칙조사 대응 및 조세포탈 등 형사 고발 방어 분야에서 전문성을 쌓았다.  &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15028"&gt;부종식&lt;/span&gt;(37기) 대표변호사는 "이번 협약을 통해 라움의 법률 전문성과 세무법인 로마의 현장 실무를 결합한 원팀 시스템을 구축했다"며 "특히 병·의원과 중소법인 경영자들이 세무조사와 조세 분쟁의 두려움에서 벗어나 경영에만 전념할 수 있도록 법률·세무 서비스를 제공하겠다"고 말했다.</description>
+			<pubDate>Fri, 23 Jan 2026 05:46:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215272</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215272</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215272.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>이광범 LKB평산 이사회의장, 농협개혁위 위원장으로 선출</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215274.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이광범 LKB평산 이사회의장&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8664"&gt;이광범&lt;/span&gt;(사법연수원 13기) &lt;b&gt;&lt;a href="https://lkbps.com/" target="_blank"&gt;법무법인 LKB평산&lt;/a&gt;&lt;/b&gt; 이사회의장이 1월 20일 출범한 농협개혁위원회 위원장으로 선출됐다. &lt;br /&gt;&lt;br /&gt;농협은 서울 중구 농협중앙회 본관에서 열린 제1차 회의에서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8664"&gt;이광범&amp;nbsp;&lt;/span&gt;위원을 위원장으로 호선하고 '농협개혁위원회(이하 개혁위)'를 공식 출범했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;개혁위는 농협의 구조적 개혁과 체질 개선 등을 위한 논의기구다. 농협은 이를 통해 자체 개혁에 속도를 낸다는 방침이다. 개혁위는 학계·농업인단체·소비자단체·법조인으로 구성됐으며 외부 인원 11명, 내부 인원 3명으로 총 14명이다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8664"&gt;이광범&amp;nbsp;&lt;/span&gt;위원장은 광주제일고와 서울대 법학과를 졸업하고 같은 대학교 대학원에서 법학 석사 학위를 취득했다. 1986년 서울민사지법 판사로 임관한 뒤 서울지법 북부지원·광주지법·서울고법 ·서울지법 판사, 대법원 재판연구관, 광주지법·서울지법·광주고법·서울고법 부장판사, 서울행정법원 수석부장판사 직무대리 등을 역임했다. &lt;br /&gt;&lt;br /&gt;2005년에는 법원행정처 인사실장, 대법원장 비서실장을 지냈다. 2011년 변호사로 개업한 뒤 이명박 전 대통령 내곡동 사저부지 매입의혹 특별검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(23기) 전 대통령 탄핵심판 사건 국회 측 대리인단 공동대표 등을 맡았다. &lt;br /&gt;&lt;br /&gt;개혁위 위원에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&lt;/span&gt;(18기) 대통령실 민정수석비서관을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1890"&gt;오광수&lt;/span&gt;(18기) &lt;b&gt;&lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;법무법인 대륙아주&lt;/a&gt;&lt;/b&gt; 변호사도 포함됐다. &lt;br /&gt;&lt;br /&gt;오 변호사는 전주고와 성균관대 법학과를 졸업하고 같은 대학교 대학원에서 법학 박사 학위를 취득했다. 부산지검 검사로 임관한 그는 서울지검 부부장검사, 대전지검 서산지청창, 부산지검·서울서부지검·대구지검 차장검사, 청주지검장, 대구지검장 등을 역임했다.</description>
+			<pubDate>Fri, 23 Jan 2026 05:44:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215274</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215274</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215274.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>공수처, '편파수사' 김건희 특검 재차 압수수색</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215276.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;민중기 특별검사팀의 '통일교 편파 수사 의혹'을 수사하는 고위공직자범죄수사처가 민 특검을 상대로 압수수색에 나선 1월 23일 서울 종로구 KT광화문빌딩 웨스트 내 민중기특검 입구 모습.  《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;고위공직자범죄수사처(공수처)가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)의 '통일교 편파수사 의혹' 수사를 위해 특검 사무실을 재차 압수수색했다.&lt;br /&gt;&lt;br /&gt;공수처 수사4부(부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14137"&gt;차정현&lt;/span&gt;)는 1월 23일 낮부터 서울 종로구에 있는 김건희 특검 사무실을 압수수색하고 있다고 밝혔다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&lt;/span&gt;(사법연수원 14기) 특검과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="847"&gt;박상진&lt;/span&gt;(29기) 특검보의 PC와 휴대전화 등이 확보 대상이다. &lt;br /&gt;&lt;br /&gt;공수처가 김건희 특검을 압수수색한 건 2025년 12월에 이어 이번이 두 번째다. 앞서 공수처는 윤영호 전 통일교 세계본부장을 조사한 수사팀 관계자들도 불러 조사했다.&lt;br /&gt;&lt;br /&gt;김건희 특검은 2025년 8월 더불어민주당 소속 정치인들도 금품을 받았다는 윤 전 본부장의 진술을 듣고도 국민의힘 소속 정치인들만 수사했다는 의혹을 받는다.&lt;br /&gt;&lt;br /&gt;김건희 특검은 민주당 정치인들 수사는 특검법에서 정한 수사범위가 아니라는 입장이다. 김건희 특검은 진술을 확보하고 4개월 가량 지나 수사기간이 종료될 때에야 사건을 경찰에 이첩했다.</description>
+			<pubDate>Fri, 23 Jan 2026 05:41:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215276</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215276</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215276.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>해송, 이성호 전 서울중앙지법원장·이정미 전 헌법재판관 영입</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215263.jpg" alt="23423.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이성호 대표변호사, 이정미 대표변호사&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="9034"&gt;이성호&lt;/span&gt;(사법연수원 12기) 전 서울중앙지법원장과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8103"&gt;이정미&lt;/span&gt;(16기) 전 헌법재판관이 법무법인 해송의 대표변호사로 합류했다.&lt;/p&gt;&lt;br /&gt;이 전 법원장은 서울 신일고와 서울대 법학과를 졸업하고 제22회 사법시험에 합격했다. 그는 1985년 서울지법 의정부지원 판사로 공직생활을 시작했다. &lt;br /&gt;&lt;br /&gt;이후 마산지법·부산고법·서울고법 판사, 대법원 재판연구관, 대전지법 천안지원장, 수원지법·서울지법 동부지원·서울지법 부장판사, 특허법원·서울고법 수석부장판사, 서울남부지법원장 등을 거쳐 서울중앙지법원장을 지냈다. 2015년 7월부터 2018년 8월까지 제7대 국가인권위원회 위원장을 지낸 뒤 2019년 변호사로 개업했다.  &lt;br /&gt;&lt;br /&gt;이 전 헌법재판관은 마산여고와 고려대 법학과를 졸업했다. 제26회 사법시험에 합격하고 1987년 대전지법 판사로 임관했다. 이후 인천지법·수원지법·서울가정법원·서울지법·서울고법 판사, 서울서울지법·서울중앙지법·부산고법·대전고법 부장판사 등을 역임했다. &lt;br /&gt;&lt;br /&gt;2011년에 헌법재판관으로 임명됐다. 당시 그는 최초의 40대 재판관이자 두 번째 여성 재판관이었다. 임기 중 헌법재판소장 권한대행을 두 차례 맡은 바 있으며 2017년 3월 퇴임하며 30년간의 법관생활을 마무리했다. 퇴임 후에는 고려대 로스쿨 석좌교수, 남양유업 컴플라이언스위원회 위원장 등을 맡았다.</description>
 			<pubDate>Fri, 23 Jan 2026 02:55:52 -0000</pubDate>
@@ -204,36 +234,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215190</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/34543535435353.png</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 법원, 내란 혐의 한덕수 전 국무총리 징역 23년, 법정구속</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215185.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;내란 우두머리 방조 혐의를 받는 한덕수 전 국무총리가 1월 21일 서울중앙지법에서 열린 1심 선고 공판에 출석하기 위해 법정으로 향하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;내란 우두머리 방조 등 혐의로 기소된 한덕수 전 국무총리가 징역 23년을 선고받고 법정 구속됐다. 내란 혐의 국무위원에 대한 법원의 첫 판단이다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사33부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9645"&gt;이진관&amp;nbsp;&lt;/span&gt;부장판사)는 1월 22일 오후 2시 열린 한 전 총리의 내란 우두머리 방조, 내란 중요임무 종사 혐의 사건 재판에서 이같이 선고했다(&lt;b&gt;2025고합1219&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;재판부는 한 전 총리의 내란 중요임무 종사와 허위공문서 작성, 대통령기록물법 위반, 공용 서류 은닉·손상, 헌법재판소에서 위증 혐의에 대해 유죄로 판단했다. 다만 내란 방조 혐의에 대해서는 내란죄는 여러 사람이 결합해 실행하는 필요적 공범에 해당하므로 내란 방조 혐의는 성립하지 않는다고 봤다.&lt;br /&gt;&lt;br /&gt;재판부는 12·3 비상계엄이 국헌문란을 목적으로 한 내란 행위였다고 봤다. 12·3 비상계엄이 형법 87조가 정한 '내란'의 요건은 국헌문란의 목적 및 폭동을 모두 충족한다는 판단이다. 재판부는 "군과 경찰을 동원해 국회와 중앙선거관리위원회를 장악한 행위는 평온을 해칠 정도의 폭동이고, 형법 87조에서 정한 내란 행위로 보는 것이 타당하다"라고 설명했다.&lt;br /&gt;&lt;br /&gt;재판부는 한 전 총리가 국무회의 의결 정족수를 채워 계엄의 절차적 외관을 갖추는 등 내란의 중요한 임무에 종사했다고 봤다. 재판부는 "한 전 총리는 (&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령이) 비상계엄 선포 사유로 든 국회의 탄핵 소추와 예산 삭감 등의 의혹에 공감했고, 국무회의 당시 추가 소집한 국무위원들이 도착했음에도 윤 전 대통령에게 반대하거나 국무위원들에게 반대하라는 의사를 표시하지도 않았다"고 밝혔다. 비상계엄의 필요성과 정당성을 동의해서 그 실행을 지지했기 때문이라고 보여진다는 취지다. 재판부는 국무위원들에게 관련 문서에 서명을 받으려 한 행위도 인정했다. &lt;br /&gt;&lt;br /&gt;재판부는 한 전 총리가 이상민 전 행정안전부 장관에게 특정 언론사의 단전·단수를 지시한 것 역시 내란중요임무종사에 해당한다고 판단했다. 비상계엄 해제 뒤 최초 계엄 선포문 표지의 법률적 결함을 보완하기 위해 강의구 전 대통령실 부속실장이 작성한 사후 선포문에 윤 전 대통령, 김용현 전 국방부 장관 등과 함께 서명하고 부서한 뒤 이를 파쇄한 혐의도 유죄로 봤다. 또 헌법재판소 윤 전 대통령 탄핵 심판 변론에서 '계엄 선포문과 포고령 등 문건을 전달받지 않았다'는 내용과 '김용현 전 국방부 장관이 이 전 행안부 장관에게 문건을 전달하는 것을 본 적 없다'는 내용의 위증한 혐의 역시 유죄로 인정했다. &lt;br /&gt;&lt;br /&gt;다만 비상계엄 선포 후 추경호 당시 국민의힘 원내대표에게 전화해 국회 상황을 확인하고 점검한 행위와 계엄 해제 후 국무회의 심의를 지연시킨 행위, 하위 공문서인 사후 계엄 선포문을 행사한 혐의는 무죄로 판단했다. &lt;br /&gt;&lt;br /&gt;재판부는 12·3 비상계엄은 윤 전 대통령과 그 추종 세력에 의한 내란으로서, 친위 쿠데타로 판단했다. 그러면서 가담자들을 무겁게 처벌하는 것은 불가피하다고 밝혔다. 재판부는 "위로부터의 내란이라는 점에서 기존에 대법원 판례가 있는 아래로부터의 내란과 위험성을 비교할 수 없고, 민주주의와 법치주의의 신뢰를 훼손했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;한 전 총리는 자리에서 일어서 직접 발언에 나서 "재판장님 결정을 겸허하게 받도록 하겠다"라고 말했다. 구속에 관한 논의가 이어지자 얼굴이 빨갛게 변하기도 했다.&lt;br /&gt;&lt;br /&gt;재판부는 이날 선고 중계가 종료된 후 증거인멸 우려 등을 이유로 한 전 총리를 법정 구속했다. 전직 국무총리가 법정에서 구속된 것은 헌정사상 처음이다.&lt;br /&gt;&lt;br /&gt;특검은 2025년 11월 26일 한 전 총리에게 징역 15년을 구형했다. 11월 26일 특검 측은 "한 전 총리를 엄하게 처벌함으로써 다시는 대한민국에 이런 불행한 역사가 반복되지 않도록 해야 한다"고 주장했다.</description>
-			<pubDate>Wed, 21 Jan 2026 07:56:29 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215185</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215185</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215185.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] 내란 혐의 한덕수 전 국무총리 징역 23년 선고, 법정구속</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215181.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;내란 우두머리 방조 혐의를 받는 한덕수 전 국무총리가 1월 21일 서울중앙지법에서 열린 1심 선고 공판에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;내란 혐의로 기소된 한덕수 전 국무총리에게 징역 23년이 선고됐다(&lt;b&gt;2025고합1219&lt;/b&gt;). 내란 혐의로 재판에 넘겨진 국무위원에 대한 사법부의 첫 판단이다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사33부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9645"&gt;이진관&amp;nbsp;&lt;/span&gt;부장판사)는 1월 22일 오후 2시 열린 한 전 총리의 내란 우두머리 방조, 내란 중요임무 종사 혐의 사건 재판에서 이같이 선고했다.&lt;br /&gt;&lt;br /&gt;재판부는 12·3 비상계엄이 국헌문란을 목적으로 한 내란 행위였다고 설명했다.&lt;br /&gt;&lt;br /&gt;앞서 특검은 11월 26일 한 전 총리에게 징역 15년을 구형했다. 특검 측은 "한 전 총리를 엄하게 처벌함으로써 다시는 대한민국에 이런 불행한 역사가 반복되지 않도록 해야 한다"고 주장했다. 이날 한 전 총리도 직접 발언에 나서 "대통령(&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령)에게 비상계엄을 선포하겠다는 말을 듣고 엄청난 충격을 받아 절벽에서 떨어지는 것처럼 느껴졌다. 절대 동의할 수 없는 이야기였기에 어떻게든 대통령의 의견을 돌리고자 노력했으나 힘이 닿지 않았고, 저로서는 막을 도리가 없다고 판단해서 다른 국무위원들을 모셔서 다 함께 대통령의 의견을 돌리려고 했지만 역부족이었다"고 했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 21 Jan 2026 06:08:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215181</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215181</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215181.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] 일본 법원, 아베 전 총리 살해범에게 무기징역 선고</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/215179.jpg" alt="1111.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 21 Jan 2026 04:54:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215179</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215179</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215179.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
