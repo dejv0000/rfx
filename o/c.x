@@ -13,6 +13,48 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해병대 1사단 前공보실장 “임성근, 법 심판 받아야” 법정서 작심 발언</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/WUNS2WEHYJGVBFYKED2XEM5AJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/WUNS2WEHYJGVBFYKED2XEM5AJY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 14:20:06 +0000</pubDate>
+      <content:encoded>고(故) 채수근 상병 순직과 관련해 임성근 전 해병대 1사단장에게 진술 회유를 당했다고 밝힌 정훈장교 출신 간부가 법정에서 임 전 사단장을 가리켜 “법의 심판을 받아야 한다”고 발언했다.&lt;br&gt;&lt;br&gt;이기원 전 해병대 1사단 공보정훈실장(중령)은 23일 서울중앙지법 형사22부(재판장 조형우)에서 열린 임 전 사단장의 업무상과실치사 혐의 사건 재판에 출석해 이같이 말했다. 이 중령은 채 상병이 순직한 2023년 7월 19일 오전 임 전 사단장에게 해병대원들의 실종자 수색 모습이 담긴 언론 스크랩을 메신저로 보고했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDSOJVMUYDONZUHBTDINJWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 언론에는 이 중령이 제공한 사진이 다수 보도됐는데, 사진에는 해병대원들이 하천에 들어가 실종자를 수색하는 모습이 담겼다. 당시 임 전 사단장은 이를 보고 “훌륭하게 공보활동이 이뤄졌구나”라고 메시지를 보낸 것으로 조사됐는데, 이 메시지는 임 전 사단장이 수중 수색 사실을 알고 있었다는 핵심 증거로 지목됐다.&lt;br&gt;&lt;br&gt;이 중령은 이날 “임 전 사단장이 채 상병 순직 직후인 2023년 7월 26일 자신과의 통화에서 ‘사전에 보고 없이 언론에 사진을 배포한 것으로 징계를 받을 수 있다’고 엄포를 놨다”고 밝혔다. 그러나 이 사건 경찰 수사가 이뤄지던 2024년 3월 14일 이 중령은 임 전 사단장으로부터 그러한 징계 발언이 없었던 것처럼 진술해 달라는 요청을 받았다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;이 중령은 “(임 전 사단장이 보낸) 사실확인요청서에는 ‘징계 언급을 한 적이 없다’는 내용이 포함돼 있었다”며 “더 이상 이분에게 인간 된 도리를 다할 필요가 없다고 생각했다. 법의 심판을 받아야 한다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 임 전 사단장에게 유리한 진술을 해왔던 이 중령은 사실확인요청서를 받은 날을 기점으로 임 전 사단장과의 연락을 차단했다고 한다. 경찰에서 “임 전 사단장이 눈이 나빠 언론 스크랩 사진을 확인하지 못했을 것”이라고 한 진술도 특검 수사 단계에서 뒤집었다. 이 중령은 “(언론 스크랩을) 임 전 사단장이 꼼꼼히 살펴본 것으로 보이냐”는 특검 측 질문에 “그렇게 생각한다”고 답했다.&lt;br&gt;&lt;br&gt;이 중령은 재판부가 발언 기회를 주자 “죄인이 된 심정으로 살고 있다”며 “줄곧 사단장님께 ‘법의 심판을 받자’고 했는데 심판이 오래 걸린 것 같다. 진실이 밝혀지기를 간절히 소망한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>극한 한파에 ‘폭설대란’까지... 한밤에 시간 빼고 다 덮힌다</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/23/WW2EEFLBWFAMJFZGKAVIWWLPEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/23/WW2EEFLBWFAMJFZGKAVIWWLPEE/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 13:30:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOHTMB24IBJLZPRBM6SPHE36WA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영하권의 날씨가 계속되는 23일 저녁 서울 종로구 광화문광장 일대에 많은 양의 눈이 내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주 내내 ‘극한 한파’가 이어지는 가운데, 수도권에 많은 눈이 내리며 대설주의보가 내려졌다. &lt;br&gt;&lt;br&gt;23일 기상청에 따르면, 이날 오후 10시 기준으로 서울 서북권과 동북권, 광명, 인천 등 수도권 곳곳에 대설주의보가 내려졌다. 이들 지역엔 밤사이 5㎝ 안팎의 눈이 쌓일 것으로 예상된다. &lt;br&gt;&lt;br&gt;강한 눈은 수도권을 중심으로 이날 자정까지 1~2시간가량 지속될 것으로 보인다. 눈이 내리거나 이미 눈이 쌓인 중부 일부 지역과 전라권에서는 도로가 매우 미끄럽겠다. 빙판길과 도로 살얼음(블랙 아이스)이 곳곳에서 나타날 가능성이 있어 운전 시 주의해야 한다.&lt;br&gt;&lt;br&gt;한파와 눈은 주말인 24~25일까지 이어질 전망이다. 토요일인 24일에도 중부지방과 충남 서해안·전라 서부를 중심으로 눈구름대가 영향을 미칠 것으로 보인다. 이날 중부지방과 전라권엔 새벽부터 눈이 내리는 곳이 있겠고, 대체로 1~3cm 눈이 내릴 것으로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/P6H7LJTSVRFZTIIY2MKVYFQ5LQ.gif?auth=3c56a15ad0699bec94d88340021a6fe2ce24e9bc194f9ae20279212b6ffc4748&amp;smart=true&amp;width=500&amp;height=333" type="image/jpeg" height="333" width="500">
+        <media:description type="plain">23일 밤 서울 광화문 광장 앞에 폭설이 내려 귀가길 시민들이 눈을 맞으며 귀가하고 있다. / 연합뉴스 뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>닷새째 한파에 서울 수도 계량기 동파 하루 115건… 누적 325건</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/23/TTFWYH5ZLVDBXIJGI54EU7YTFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/TTFWYH5ZLVDBXIJGI54EU7YTFU/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 13:05:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JF5EOXEJJKHTPMFT7AKAKV2YM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 서울 강북구 미아가압장에 동파된 수도계량기가 놓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 전역에 한파주의보가 닷새째 이어지는 가운데 수도 계량기 동파가 누적 300건을 넘어섰다.&lt;br&gt;&lt;br&gt;23일 서울시에 따르면 이날 오전 5시부터 오후 5시까지 서울에서 발생한 수도 계량기 동파는 115건, 수도관 동결은 2건으로 집계됐다. 모두 복구를 마쳤으며, 한랭 질환자는 발생하지 않았다.&lt;br&gt;&lt;br&gt;서울 전역에는 지난 19일 오후 9시부터 한파주의보가 발효됐다. 이후 현재까지 누적된 수도 계량기 동파는 325건으로, 하루 평균 81건 수준이다. 이에 따라 서울시는 한파 위기경보 단계를 ‘관심’에서 ‘주의’로 상향하고 대응 수위를 높였다.&lt;br&gt;&lt;br&gt;서울시는 비상근무 59개 230명과 순찰 인력 70명 규모의 한파 종합지원 상황실을 운영하며 피해 대응에 나서는 한편, 한파특보 발효 이후 거리 노숙인과 독거 어르신, 쪽방 주민 등 취약 시민 1만4751명을 대상으로 안부 확인과 보호 활동을 진행했다.&lt;br&gt;&lt;br&gt;아울러 한파쉼터와 한파 응급대피소, 기후동행쉼터, 한파 저감시설 등 한파 대응 시설 6581곳을 가동 중이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 서울은 주말인 24~25일에도 최저기온이 영하 11도 안팎까지 떨어질 것으로 전망된다. 체감온도는 영하 15도 수준까지 낮아질 수 있어 추가 피해가 우려된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이해찬 전 총리, 베트남 출장 중 건강 악화로 위독… 한때 심정지</title>
+      <link>https://www.chosun.com/national/2026/01/23/H2UG5IPLYFE6FJZTDFEZKJD2II/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/23/H2UG5IPLYFE6FJZTDFEZKJD2II/</guid>
+      <dc:creator>김정은 기자(조선비즈)</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 12:38:33 +0000</pubDate>
+      <content:encoded>이해찬 민주평화통일자문회의 수석부의장이 23일 베트남 출장 중 건강이 급격히 악화해 위독한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTQMZVGQ4GGYTGGEYDMNLBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이해찬 전 국무총리. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주평통 관계자 등에 따르면 베트남 출장 중이던 이 부의장은 이날 오후 1시쯤 귀국을 위해 베트남 떤선녓 공항에 도착한 이후 호흡이 약해지는 증상이 나타나 심폐 소생술을 받으며 구급차를 타고 현지 병원 응급실로 이송됐다.&lt;br&gt;&lt;br&gt;병원 이송 과정에서 심정지도 있었지만 지금은 호흡이 돌아온 것으로 전해졌다. 현지 심장 전문 의료진은 심근경색 진단을 내리고 이 부의장에게 스텐트를 삽입하는 시술을 시행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 부의장은 평통 베트남 운영협의회 참석차 전날 호찌민으로 출국했다. 이 부의장은 전날 베트남으로 출국하기 전 몸살 기운을 호소했으며, 이날 오전 ‘몸 상태가 안 좋다’는 판단으로 귀국 절차를 준비 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 부의장은 7선 의원 출신으로 총리까지 지냈다. 지난해 10월에는 민주평통 수석부의장으로 임명됐다.&lt;br&gt;&lt;br&gt;청와대는 조정식 정무특보를 24일 베트남 현지로 보내 이 부의장을 지원할 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3SD6QSG27JBN7F3QZ7UUXD7JXI.jpg?auth=61e9bbb6f2e05aac0a2b7e29b4cf870776e5872a529cee126ae4feda45b5410b&amp;smart=true&amp;width=2994&amp;height=1684" type="image/jpeg" height="1684" width="2994">
+        <media:description type="plain">이해찬 전 국무총리. /연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>‘e스포츠 최초 청룡장’ 페이커, 현충원 안장 가능할까...보훈부 입장은</title>
       <link>https://www.chosun.com/national/people/2026/01/23/DT6H7RWDTVCTFMNUXUQMUKGWVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/23/DT6H7RWDTVCTFMNUXUQMUKGWVE/</guid>
@@ -863,16 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경쟁 관계에 있는 이웃 청과물 가게 사장을 흉기로 찔러 살해한 혐의로 구속 기소된 50대 중국인에게 2심 법원도 징역 25년을 선고했다.&lt;br&gt;&lt;br&gt;수원고법 형사3부(재판장 김종기)는 22일 A씨의 살인 등 혐의 사건 항소심 선고 공판을 열고 징역 25년을 선고한 1심 판결을 그대로 유지했다.&lt;br&gt;&lt;br&gt;재판부는 “원심의 양형은 여러 사정을 고려해 적정하게 결정된 것으로 보이며, 이후 유리하거나 불리하게 반영할 특별한 사정 변경은 없는 것으로 판단된다”고 했다. 검찰은 징역 30년을 구형했었다.&lt;br&gt;&lt;br&gt;A씨는 작년 3월 7일 오전 3시 29분쯤 피해자 B(65)씨가 사는 경기도 수원시 장안구의 한 아파트 출입 통로 앞에서 B씨에게 흉기를 23차례 휘둘러 숨지게 한 혐의로 구속 기소됐다. 당시 A씨는 헬멧을 쓴 채 기다리다가, 미리 준비한 과도로 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 오토바이를 타고 현장을 벗어났다. 경찰은 방범 카메라(CCTV) 영상을 통해 A씨의 오토바이를 추적해 그의 주거지 앞에서 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 “B씨가 손님들에게 내 청과물 가게에 대해 험담하는 등 영업을 방해했고, 그와 대화하러 찾아갔다가 우발적으로 범행했다”는 취지로 진술했다. A씨는 그러면서 “나를 알아본 B씨가 욕설하며 도발했고, 맨손으로 실랑이를 하다가 바닥에 넘어진 후 바지 주머니에서 과도를 꺼내 찌른 것”이라고 주장하기도 했다.&lt;br&gt;&lt;br&gt;그러나 CCTV 영상을 분석한 결과, A씨는 오토바이를 타고 범행 현장에 도착한 후, 헬멧을 착용한 상태로 아파트 출입 통로에서 나오는 B씨를 뒤따라가 그의 등 뒤에서 급습한 것으로 조사됐다. 또 A씨는 범행 장소로 출발하기 전 자신의 주거지 앞에서 오토바이 번호판을 가리는 등 계획적으로 움직이기도 했다.&lt;br&gt;&lt;br&gt;A씨는 B씨의 청과물 가게에서 약 40m 떨어진 곳에서 가게를 운영하고 있었는데, B씨의 방해로 자신의 가게 수입이 줄었다고 오인해 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피고인은 동종 업체를 운영하는 피해자가 자신을 험담하고 영업을 방해한다는 혼자만의 생각으로 살해를 마음먹고 출근하는 피해자를 뒤따라가 미리 준비한 흉기로 찔러 살해했다”며 “피고인은 일관성 없고 납득하기 어려운 변명을 하며 책임을 축소하려는 모습을 보여 진심으로 잘못을 뉘우치는지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 1월 23일 금요일 (음력 12월 5일 丁酉)</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/LBG6LONFYZGWHMSKQ3LLYHA6YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/LBG6LONFYZGWHMSKQ3LLYHA6YM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
       <title>대법원 전합 “5·18 피해 가족 ‘정신적 위자료’ 청구권 유효”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/22/S5AVOPEHPJFA7NUF2P7QRTPMEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/S5AVOPEHPJFA7NUF2P7QRTPMEU/</guid>
@@ -882,15 +914,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDMZBRMJSTSMBVG4YDIZBUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 대법원 전원합의체 선고 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5·18광주민주화운동 피해자 가족들이 2021년 국가를 상대로 낸 정신적 손해배상 소송은 청구권 시효가 지나지 않아 적법하다는 대법원 전원합의체 판단이 나왔다. 위자료를 청구할 수 있는 기간이 끝나 소송을 낼 수 없다고 본 원심 판결을 뒤집은 것이다.&lt;br&gt;&lt;br&gt;대법원 전원합의체(주심 노태악 대법관)는 22일 5·18 관련자 가족 33명이 국가를 상대로 낸 손해배상 청구 소송 상고심에서 원고 패소 판결한 원심을 깨고 사건을 광주고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이번 소송은 1980년 계엄군의 폭행·구금·고문 등으로 숨지거나 다친 피해자의 가족들이 낸 것이다. 이들은 1990년대 초 5·18보상법에 따라 정부로부터 보상금과 생활지원금을 받았다. 당시 법에는 보상금 지급에 동의하면 ‘재판상 화해’가 성립해 더 이상 소송을 낼 수 없다는 조항이 있었다. 법원도 오랫동안 이를 근거로 가족들이 다시 국가를 상대로 손해배상을 청구할 수 없다고 봐 왔다.&lt;br&gt;&lt;br&gt;하지만 헌법재판소는 2021년 5월 이 조항이 가족이 입은 정신적 피해에 대한 배상 청구까지 막는 것은 위헌이라고 판단했다. 이후 가족들은 같은 해 11월 “피해 당사자에 대한 보상과는 별도로, 가족이 겪은 고통에 대해서도 국가가 책임져야 한다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;소송에서는 국가를 상대로 위자료를 청구할 수 있는 ‘유효 기간’이 쟁점이 됐다. 국가배상법상 손해배상 청구권은 피해자나 가족이 손해와 가해자를 안 날부터 3년이 지나면 사라진다고 본다.&lt;br&gt;&lt;br&gt;1심은 30여 년 전 보상금을 받은 가족들의 위자료 청구권을 인정했다. 이들은 ‘재판상 화해’ 간주 조항 때문에 그동안은 별도 위자료 소송을 낼 수 없었다며 헌재의 위헌 결정이 나온 2021년 10월부터 3년 내에 다시 청구할 수 있다고 봤다. 반면 2심은 “가족 고유의 위자료 청구권은 보상금 수령 여부와 관계없이 보상금 지급 결정 시점(1990년대)부터 시효가 흘러 이미 완성됐다”며 원고 전원 패소로 판결했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이를 뒤집고, 가족들이 현실적으로 소송을 낼 수 없었던 기간에는 시효가 진행되지 않는다고 판단했다. 대법원은 “가족들은 과거 보상금을 받으면서 ‘다시는 문제 삼지 않겠다’는 서약까지 했고, 국가도 이를 근거로 더 이상 청구할 수 없다는 입장을 유지해 왔다”며 “이런 상황에서 가족들이 소송을 제기할 것을 기대하는 것은 현실적으로 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 1990년대 보상금을 받지 않은 가족들 역시 당시에는 국가를 상대로 소송을 내는 것이 사실상 불가능했다고 판단했다.피해 당사자조차 국가 보상 외에는 다른 방법이 없다고 여겨지던 상황에서, 가족들이 따로 소송에 나설 것을 기대하기는 현실적으로 어려웠다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 그러면서 “헌재가 위헌 결정을 내린 2021년 5월이 돼서야 비로소 가족들이 정신적 피해에 대해 국가에 책임을 물을 수 있다는 점이 법적으로 분명해졌다”며, 그때부터 시효를 계산해야 한다고 판단했다. 이에 따라 2021년 헌재 위헌 결정 후 3년 이내에 소를 제기한 가족들은 배상을 받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;다만 노태악 대법관은 반대 의견을 내고 “5·18민주화운동으로 관련자와 가족들이 겪은 고통에 대해 충분한 배상이 이뤄져야 하지만, 현재 법리로서는 가족 고유의 위자료 청구권은 소멸시효가 완성됐다고 봐야 한다”며 “이들에 대한 구제는 입법에 따라 이뤄져야 한다”고 했다.&lt;br&gt;&lt;br&gt;오경미 대법관은 별개 의견에서 “결론에는 동의하지만, 법적 안정성을 확보하면서 과거사 사건 피해자들을 총체적으로 구제하려면, 청구권 소멸시효는 지났다고 보되, 국가가 소멸시효 항변을 하는 것은 신의성실의 원칙에 반하는 권리남용으로 허용될 수 없다고 봐야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>펜션서 수면제 탄 술 먹이고 성폭행한 남친·BJ 1심서 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/22/ZJ6O7ZW5F5EW7N62YMYY2IMJV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/ZJ6O7ZW5F5EW7N62YMYY2IMJV4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 07:42:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4WIZLBMNSGGMDGGNTGCNJXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성을 펜션으로 불러들여 수면제를 섞은 술을 마시게 한 다음 성폭행한 남자친구와 인터넷방송 BJ에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사13부(재판장 장석준)는 22일 성폭력범죄의 처벌 등에 관한 특례법 위반(특수강간) 혐의로 기소된 30대 A씨와 40대 B씨에 대해 각각 징역 3년 6월을 선고했다. 또 성폭력 치료 강의 80시간 수강, 아동·청소년·장애인 관련 기관에 5년간 취업 제한을 명령했다.&lt;br&gt;&lt;br&gt;A씨 등은 작년 8월 27일 경기 화성시 제부도의 한 펜션에서 여성 C씨를 성폭행하고, 그 모습을 휴대전화로 촬영한 혐의를 받는다. 이들은 함께 인터넷 소통 방송을 명목으로, C씨를 펜션으로 부른 것으로 파악됐다. 당시 이들은 C씨에게 수면제를 탄 술을 먹인 뒤, C씨가 잠들자 이같이 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피해자는 극심한 성적 불쾌감과 정신적 고통을 받았을 것으로 보인다”면서도 “다만 피고인들 모두 범행을 인정하면서 반성하고 있고, 피해자와 합의해 피해자는 피고인들에 대한 처벌을 원하지 않고 있는 점, 인터넷 사이트에 영상이 유포되지 않은 점 등을 참작했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>외도 발각되자 “강간당했다”… 檢, 보완수사로 무고 사범 4명 기소</title>
       <link>https://www.chosun.com/national/national_general/2026/01/22/SZTJVYIPXRFV3OOW2BVTES2HDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/SZTJVYIPXRFV3OOW2BVTES2HDA/</guid>
@@ -898,24 +921,6 @@
       <description/>
       <pubDate>Thu, 22 Jan 2026 06:16:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3GMZRVGRSWIZTGG44DMZJQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지방검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합의 하에 성관계를 했음에도 배우자에게 외도 사실이 발각되자 “강간당했다”며 무고한 사람 등 검찰이 성범죄 무고 사범 4명을 기소했다.&lt;br&gt;&lt;br&gt;서울남부지검 여성아동범죄조사부(부장 최희정)는 지난해 12월부터 올해 1월까지 무고 사범 4명을 적발해 불구속 기소했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;이 중 A씨는 배우자에게 외도 사실을 들키게 되자 외도 상대를 강간죄로 허위 고소한 혐의를 받는다. A씨는 노래방 도우미로 일하던 중 손님과 합의 하에 성관계를 했으나, 사실혼 배우자에게 외도 사실이 발각되자 해당 손님을 강간죄로 고소했다.&lt;br&gt;&lt;br&gt;B(33)씨는 지난해 4월 술에 취해 잠든 외국인 C씨를 강간한 뒤, 오히려 “C씨가 합의 하에 성관계를 하고도 준강간으로 신고하겠다 협박하며 돈을 뜯으려 했다”고 허위 신고를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이외에도 합의 하에 성관계를 한 뒤 강간죄로 신고하겠다며 합의금을 요구하고, 거부당하자 상대를 강간죄로 고소한 D씨 등이 함께 기소됐다.&lt;br&gt;&lt;br&gt;한편 이번 사건은 당초 경찰에서 불송치로 종결됐으나, 검찰이 보완 수사한 끝에 무고 혐의가 드러나며 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “경찰에서 불송치로 종결된 사건들을 면밀히 재검토해 다수의 성범죄 무고 범행을 밝혀냈다”며 “억울한 피해자를 발생시키는 무고 등 범죄에 엄정 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대검 “캄보디아 스캠 사건, 경찰과 협력해 철저 대응”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/22/RWUTMTONGRADXOZSC4D3PCMVV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/RWUTMTONGRADXOZSC4D3PCMVV4/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 07:18:28 +0000</pubDate>
-      <content:encoded>캄보디아 현지에서 로맨스 스캠(온라인 사기), 보이스피싱 등 각종 사기 범죄를 저지른 한국인 피의자 73명이 오는 23일 국내로 송환될 예정인 가운데, 대검찰청은 “경찰과 협력해 캄보디아 사기 사건 피의자들을 엄단하고, 불법 수익 또한 철저히 박탈하겠다”고 22일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQTCZRQG42WGM3DMQ4DSNJRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 대검은 언론 공지를 통해 “캄보디아 등으로 출국해 보이스피싱 등 범죄 조직에 가담한 국민들이 현지 경찰의 단속으로 체포돼 대규모 송환이 예정돼 있는 상황”이라며 “부산지검과 홍성지청은 관할 경찰과 긴밀히 협력해 이번에 송환되는 범죄 조직 사건을 송치 전 영장 단계에서부터 면밀히 검토하는 등 철저하고 신속하게 대응할 수 있도록 준비하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “검찰은 경찰과 함께 보이스피싱 범죄 조직 사건을 신속·전문적으로 대응하기 위해 이미 작년 10월 전담 협력 체계인 ‘신속 대응팀’을 구성했다”며 “보이스피싱 범죄 수사를 진행하면서 전담 경찰과 협의 창구로 역할할 수 있는 전담 검사를 지정하는 등 조치를 마친 상태”라고 설명했다.&lt;br&gt;&lt;br&gt;대검은 특히 이번 송환 대상에 포함돼 있는 이른바 ‘캄보디아 부부 사기단’ 사건의 주범 2명에 대해 “울산지검에서 수사했던 보이스피싱 조직의 총책”이라며 “울산지검에서는 작년 4~10월, 이들에 대한 범죄인인도청구를 건의하고 범죄수익환수를 위한 형사사법공조를 요청하는 등 범죄자 엄단과, 범죄 수익 박탈을 위해 노력한 바 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “향후 검찰은 경찰과 긴밀히 협력해 송환된 범죄자들을 엄단하고 불법 수익 또한 철저히 박탈해 보이스피싱 범죄가 근절될 수 있도록 노력할 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란 선동’ 황교안 前총리, 재판부 기피 신청</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/22/5RQIU6IRQRHXVBFAQL72OGDRGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/5RQIU6IRQRHXVBFAQL72OGDRGE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 07:17:49 +0000</pubDate>
-      <content:encoded>내란 선동 등 혐의로 기소된 황교안 전 국무총리가 재판부 기피를 신청했다. 이에 따라 황 전 총리 재판은 기피 신청에 관한 결정이 나올 때까지 중단될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2DKNZQMJTDONTGGMZGKYZUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 법조계에 따르면, 황 전 총리 측은 지난 20일 서울중앙지법 형사35부(재판장 백대현)에 기피 신청을 냈다. 당초 재판부는 이날 오전 11시부터 황 전 총리의 내란 선동 등 혐의 첫 공판 준비 기일을 열 예정이었으나 재판 시작 지전 기일을 변경하고 추후 지정하기로 했다.&lt;br&gt;&lt;br&gt;황 전 총리 측에서 기피 신청을 한 데 따라 이에 대한 판단을 위해 재판을 미룬 것으로 보인다. 형사소송법에 따라 기피 신청이 있는 때에는 소송 진행을 정지해야 한다.&lt;br&gt;&lt;br&gt;황 전 총리는 계엄 당일 자신의 소셜미디어에 “나라를 망가뜨린 종북 주사파 세력과 부정선거 세력을 이번에 반드시 척결해야 한다”며 지지 의사를 표명하는 등 내란 선동과 특수공무집행 방해, 내란 특검법 위반 혐의로 작년 12월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난해 11월 황 전 총리에 대한 구속영장을 청구했으나, “구속 필요성이 부족하고, 도주 우려나 증거 인멸 염려 등 구속 사유에 대한 소명이 부족하다”는 이유로 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, ‘별건 수사 논란’ 국토부 서기관 뇌물수수 사건 공소기각... “특검 수사·기소 대상 아냐”</title>
