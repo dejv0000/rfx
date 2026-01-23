@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘e스포츠 최초 청룡장’ 페이커, 현충원 안장 가능할까...보훈부 입장은</title>
+      <link>https://www.chosun.com/national/people/2026/01/23/DT6H7RWDTVCTFMNUXUQMUKGWVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/23/DT6H7RWDTVCTFMNUXUQMUKGWVE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 10:02:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2WKM3FMEYTMM3EGNTGKNZUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 청와대 영빈관에서 열린 2026년 신년 인사회에서 이상혁(페이커) 프로게이머에게 체육훈장 청룡장을 수여하고 기념촬영을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로게이머 이상혁(페이커)이 e스포츠 선수로는 처음으로 체육훈장 최고 등급인 청룡장을 받은 가운데, 국가보훈부가 그의 국립현충원 안장 여부에 대해 “심의를 거쳐 안장이 결정된다면 가능한 일”이라고 밝혔다.&lt;br&gt;&lt;br&gt;국가보훈부는 23일 공식 인스타그램에 ‘체육훈장 청룡장 받은 페이커, 현충원 안장도 가능할까’라는 제목의 카드 뉴스를 게시했다.&lt;br&gt;&lt;br&gt;보훈부는 “페이커도 국립현충원에 안장될 수 있느냐” “국가유공자에 해당하느냐”는 질문이 이어지고 있다며, 올해 서른인 이상혁의 국립묘지 안장 가능성에 대해 미리 설명에 나선 배경을 전했다.&lt;br&gt;&lt;br&gt;보훈부에 따르면 체육훈장 청룡장 수훈자는 ‘국가유공자 등 예우 및 지원에 관한 법률’상 국가유공자에는 해당하지 않는다. 다만 국립현충원 안장 문제와 관련해서는 별도의 기준이 적용된다. 보훈부는 ‘국립묘지의 설치 및 운영에 관한 법률’ 제5조에 따라 국가사회공헌자로 인정될 경우, 안장대상심의위원회의 심의를 거쳐 체육훈장 수훈자도 사후 안장이 가능하다고 설명했다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 지난 2일 청와대 영빈관에서 열린 ‘2026년 신년 인사회’에서 대한민국 e스포츠 발전에 기여한 공로로 이상혁에게 체육훈장 청룡장을 수여했다.&lt;br&gt;&lt;br&gt;체육훈장은 체육 발전에 공을 세워 국민 체육 향상과 국가 발전에 기여한 공적이 뚜렷한 인물에게 수여하는 훈장으로, 청룡장은 그중에서도 최고 등급이다. 보훈부는 “이번 수훈은 마라토너 손기정, 축구 감독 거스 히딩크, 골퍼 박세리, 피겨스케이팅 선수 김연아, 축구 선수 손흥민 등에 이은 체육훈장 청룡장 수훈”이라며 “e스포츠 선수로서는 최초 사례”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘건진법사 공천 청탁’ 박창욱 경북도의원에 징역 4년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/MVBTPVTT3NHZHLKX4IAUCXG6TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/MVBTPVTT3NHZHLKX4IAUCXG6TM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 09:12:03 +0000</pubDate>
+      <content:encoded>2022년 6·1 지방선거를 앞두고 ‘건진 법사’ 전성배씨에게 공천을 청탁하며 금품을 건넨 혐의를 받는 박창욱 경북도의원에게 민중기 특별검사팀이 23일 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LUQSAS2BY5GIGAJN4XGJR4LWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박창욱 경북도의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 박 도의원의 정치자금법 위반 등 혐의 결심공판에서 정치자금법 위반 혐의에 대해 징역 3년, 금융실명법 위반 혐의에 대해 징역 1년을 각각 구형했다. 함께 기소된 브로커 김모씨에겐 징역 3년과 추징금 9900만원을 선고해달라고 요청했다. 박 도의원의 아내 A씨에게도 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;박 도의원은 지난 2022년 6월 지방선거를 앞두고 전씨에게 공천을 청탁한 혐의를 받는다. 특검은 “박 도의원의 범행으로 인해 대의민주주의가 심각하게 훼손됐다”며 “죄책이 매우 중대한데도 박 도의원은 객관적 증거에 배치되는 변명으로 일관하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 지방선거를 앞두고 전씨에게 박 도의원 공천을 청탁한 김씨에 대해선 “청탁 알선 대가로 9900만원을 수수해 죄책이 중대하다”고 했다. 박 도의원과 공모해 쪼개기 송금 및 공천 헌금 1억원을 마련한 혐의를 받는 A씨에 대해선 “초범임을 감안해도 중대성 및 범죄 정황 등을 고려하면 엄히 처벌할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;박 도의원은 “김씨와 공모해 전씨에게 불법 정치자금 1억원을 교부한 사실이 없다”며 “아내가 모은 돈은 결코 공천 헌금이 아니다”라고 했다. 그러면서 “저의 부도덕에 대해선 깊이 반성하고 있다”며 “실체적 진실을 밝혀 억울함을 풀어주길 간절한 마음으로 부탁드린다”고 했다. 김씨는 “제 잘못으로 물의를 일으키고 심려를 끼쳐드려 깊이 사죄드린다”며 “뼈저리게 반성하고 있다”고 말했다. A씨는 울먹이며 “선거운동으로 힘들어하는 남편에게 힘이 되고 싶었다”며 “어리석은 판단이었다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 오는 3월 10일 선고를 내리겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 ‘최민희 딸 축의금‘ 국회사무처 압수수색 </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/23/PEGL7WFBNNFINJBEVGHV4FJHDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/PEGL7WFBNNFINJBEVGHV4FJHDY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 08:54:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REC2BJ7PEVFSVCIJKEX7T2NYUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 소속 최민희 과방위원장이 지난해 10월 서울 여의도 국회 과학기술정보방송통신위원회에서 열린 종합감사에 본인 관련 의원 질의를 듣고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 윤리심판원이 최민희 의원의 딸 결혼식 논란에 대해 직권 조사에 나서자 관련 의혹을 수사 중인 경찰이 국회 사무처를 압수 수색했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 23일 오후 3시부터 2시간가량 국회 사무처 운영지원과를 압수 수색했다고 밝혔다.&lt;br&gt;&lt;br&gt;국회 과학기술정보방송통신위원장인 최 의원은 국정감사 기간인 작년 10월 국회에서 딸 결혼식을 치르며 피감기관 등에서 축의금을 받았다는 혐의를 받는다.&lt;br&gt;&lt;br&gt;또한 최 의원은 딸의 결혼식을 준비하는 과정에서 본인의 계정으로 국회 사랑재 결혼식장을 대리 신청했다는 의혹도 받고 있다. 경찰은 이 의혹을 들여다보기 위해 국회 사무처에서 자료를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 경찰은 청탁금지법 위반, 직권남용 등의 혐의로 최 의원을 고발한 보수 성향 유튜브 채널 가로세로연구소 운영자 김세의씨를 지난해 11월 불러 조사하기도 했다.&lt;br&gt;&lt;br&gt;지난 21일 더불어민주당 윤리심판원은 최 의원의 결혼식 축의금 의혹에 대해 직권 조사 명령을 발령했다. 민주당 당규에 따르면 윤리심판원장은 당원의 해당(害黨) 행위가 있었다고 판단할 때 윤리심판원에 조사를 명령할 수 있다.&lt;br&gt;&lt;br&gt;한동수 민주당 윤리심판원장은 21일 “수사와 징계는 별개다. 각각의 증명의 정도나 원리는 좀 달리한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원행정처, 사법인공지능심의관 신설... ‘사법 AI’ 정책 전담한다</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/23/BRNOE6MCGNFYNCWJQTV273DZYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/BRNOE6MCGNFYNCWJQTV273DZYM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 Jan 2026 08:44:52 +0000</pubDate>
+      <content:encoded>대법원 법원행정처는 23일 사법부 인공지능(AI) 정책을 전담할 사법인공지능심의관 보직을 신설하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNPT436XDVEH7BB3J3V2KE5XHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 지난 22일 올해 첫 대법관회의를 열고 사법인공지능심의관 신설이 담긴 ‘법원사무기구에 관한 규칙 일부개정규칙안’을 의결했다. 개정 규칙에 따라 법원행정처는 사법정보화실에 사법인공지능심의관을 신설하고 정보화기획심의관과 분장 사무를 조정한다.&lt;br&gt;&lt;br&gt;사법인공지능심의관은 사법 AI 정책 수립에 관해 사법정보화실장을 보좌하게 된다. AI·빅데이터 등 지능 정보 기술에 관한 업무, 다른 실·국의 재판과 사법 행정 제도 개선 사항의 AI 시스템 반영·개발 관련 업무도 맡는다.&lt;br&gt;&lt;br&gt;법원행정처는 지난해 4월 법원행정처장 자문 기구로 사법부 인공지능위원회(위원장 이숙연 대법관)를 만든 뒤 재판 업무에 AI 기술을 접목할 방안을 논의해 왔다.&lt;br&gt;&lt;br&gt;인공지능위원회는 지난달 ‘인간 중심 AI를 통한 사법 정의 구현’을 목표로 2030년까지 단계별 사법부 AI 로드맵을 내놨다. 올해까지 사법부 내 AI 기반을 구축하고 2028년까지 재판 데이터 표준화와 품질 고도화 등을 통해 AI를 구현하고 확산시키며, 2030년까지 고도화해 AI 활용을 안착시킨다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대장동 일당 “추징 풀어달라”... 혼자 나온 검사 “의견 없다”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/23/6IDP4YVUFVENTG3ZJGVCNHQEPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/6IDP4YVUFVENTG3ZJGVCNHQEPE/</guid>
@@ -882,33 +918,6 @@
       <content:encoded>내란 선동 등 혐의로 기소된 황교안 전 국무총리가 재판부 기피를 신청했다. 이에 따라 황 전 총리 재판은 기피 신청에 관한 결정이 나올 때까지 중단될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2DKNZQMJTDONTGGMZGKYZUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 법조계에 따르면, 황 전 총리 측은 지난 20일 서울중앙지법 형사35부(재판장 백대현)에 기피 신청을 냈다. 당초 재판부는 이날 오전 11시부터 황 전 총리의 내란 선동 등 혐의 첫 공판 준비 기일을 열 예정이었으나 재판 시작 지전 기일을 변경하고 추후 지정하기로 했다.&lt;br&gt;&lt;br&gt;황 전 총리 측에서 기피 신청을 한 데 따라 이에 대한 판단을 위해 재판을 미룬 것으로 보인다. 형사소송법에 따라 기피 신청이 있는 때에는 소송 진행을 정지해야 한다.&lt;br&gt;&lt;br&gt;황 전 총리는 계엄 당일 자신의 소셜미디어에 “나라를 망가뜨린 종북 주사파 세력과 부정선거 세력을 이번에 반드시 척결해야 한다”며 지지 의사를 표명하는 등 내란 선동과 특수공무집행 방해, 내란 특검법 위반 혐의로 작년 12월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난해 11월 황 전 총리에 대한 구속영장을 청구했으나, “구속 필요성이 부족하고, 도주 우려나 증거 인멸 염려 등 구속 사유에 대한 소명이 부족하다”는 이유로 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“응급실 뺑뺑이 막는다”… 부산시, 경증외상 맡는 지역외상거점병원 지정</title>
-      <link>https://www.chosun.com/national/regional/2026/01/22/IT7QFZZLMJHB5HIYDBU6ZRVYGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/22/IT7QFZZLMJHB5HIYDBU6ZRVYGA/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 07:16:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTAMJSMUYWGOLCGY3GCYZUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시가 응급실 뺑뺑이를 줄이기 위해 ‘지역외상거점병원’을 새롭게 지정한다. 지정된 병원은 경증 외상 환자 치료와 진료를 담당해 권역외상센터의 부담을 줄이는 역할을 하게 된다. &lt;br&gt;&lt;br&gt;부산시는 오는 2월 5일까지 ‘2026년 지역외상거점병원 보조사업자 선정’ 공모를 진행한다고 22일 밝혔다. 지역외상거점병원은 부산 지역에서 발생한 경증 외상 환자의 치료와 중증 외상환자의 초기 대응 등을 맡는다.&lt;br&gt;&lt;br&gt;이전엔 중증·경증 상관없이 외상 환자가 발생하면 권역외상센터로 바로 이송됐다. 이번에 경증 외상 환자를 맡는 지역외상거점병원이 생기면 권역외상센터는 고난도 수술과 치료에 집중할 수 있게 된다.&lt;br&gt;&lt;br&gt;부산시는 24시간 외상 응급진료가 가능한 부산 지역 응급의료기관 중 진료 인력과 시설, 장비 등을 갖춘 2곳을 선정할 계획이다. 선정된 병원은 인건비 4억원을 지원받는다. &lt;br&gt;&lt;br&gt;부산시 관계자는 “중증 외상 환자의 이송 지연과 병원 미수용을 줄이고, 권역외상센터 과밀 문제 완화에도 기여할 것으로 기대된다”고 했다.&lt;br&gt;&lt;br&gt;아울러 부산시는 급성 약물 중독 환자를 대상으로 중증도별 ‘순차 진료 체계’를 도입한다. 급성 약물 중독 환자는 중증도 편차가 크고 정신과 진료 연계가 필요한 경우가 많아 병원 미수용과 전원이 잦은 대표적인 응급 질환군이다.&lt;br&gt;&lt;br&gt;이 사업이 시행되면 부산 지역 급성 약물 중독 환자는 중증도에 따라 중증 치료 기관과 경증 치료 기관으로 구분해 이송된다. 부산시는 경증 환자는 건당 20만원, 중증 환자는 건당 40만원을 지원한다.&lt;br&gt;&lt;br&gt;조규율 부산시 시민건강국장은 “맞춤형 정책으로 응급실 미수용과 환자 이송 지연을 완화해 신속하게 치료받을 수 있는 응급 의료 환경을 조성하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “‘2인 체제’ 방통위 KBS 이사 임명 취소”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/22/XE6NY2HIIJAVPM2VTPQAYR2QLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/XE6NY2HIIJAVPM2VTPQAYR2QLM/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 07:10:41 +0000</pubDate>
-      <content:encoded>‘2인 체제’ 방송통신위원회(현 방송미디어통신위원회)가 KBS 이사진을 임명하는 건 부적법하다며 임명을 취소해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DANZUMJRDAYZZGQYGIOLFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경. 서울가정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 22일 김찬태, 류인형, 이상요, 정재권, 조숙현 등 KBS 전·현직 이사진이 방미통위와 윤석열 전 대통령을 상대로 낸 이사 임명 무효 확인 소송에서 “대통령이 2024년 7월 31일 임명한 권순범, 류현순, 서기석 등 7명을 한국방송공사 이사로 임명한 점을 취소한다”고 판단했다. &lt;br&gt;&lt;br&gt;재판부는 이진숙 전 위원장과 김태규 전 부위원장 2인으로 구성된 위원회는 위법하다고 봤다. 방통위법에 따라 위원회가 실질적으로 기능하기 위해선 3인 이상의 위원이 재적하는 상태에서 재적위원 과반수의 찬성이 필요하다는 것이다. &lt;br&gt;&lt;br&gt;이 전 위원장은 취임 당일인 2024년 7월 31일 김 전 부위원장과 함께 KBS 이사 선임 안건을 의결했다. 이들은 KBS 이사 11명 중 7명을 여권 몫으로 추천했고, 이후 윤 전 대통령은 임명안을 재가했다. KBS 이사는 방미통위가 추천하면 대통령이 임명하는 방식이다.&lt;br&gt;&lt;br&gt;이에 김찬태 이사 등 KBS 이사진은 2인 체제로 임명한 건 무효라며 지난해 10월 처분 무효 확인 소송을 제기했다. 다만 재판부는 류일형, 김찬태 이사 등 후임자 지명이 이뤄지지 않은 원고 4명의 소는 각하했다. 재판부는 “이들은 추천 의결 및 처분 이후로도 한국방송공사 이사 직무를 계속 수행했다”며 “이 사건 처분으로 법적 지위와 권한에 영향을 받지 않는다”고 봤다. 조숙현 이사에 대해서도 소를 각하하며 “문제가 되는 추천 의결은 대통령이 KBS의 이사 임명을 위한 중간적 절차로 보인다”며 “위원회의 추천 의결은 대통령이 KBS 이사를 임명하는 중간적 절차로 보이고, 원고의 법률적 이익에 영향을 준다고 보기 어렵다”고 설명했다. 조 전 이사는 당시 야권 이사진 중 유일하게 임기가 2024년 8월 종료됐다. &lt;br&gt;&lt;br&gt;재판부는 이날 권태선 방송문화진흥회(방문진) 이사장 등이 방미통위를 상대로 제기한 이사 임명 처분 무효 확인 소송도 각하했다. 재판부는 “지난해 8월 같은 처분을 다투는 사건에서 임명을 취소하는 판결을 선고했다”며 “행정소송법에 따라 재처분 의무 규정에 의해 다툴 법률상 이익을 인정하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;지난해 8월 서울행정법원은 조능희 전 MBC플러스 사장, 송요훈 전 아리랑국제방송 방송본부장, 송기원 전 전주MBC 사장이 방미통위를 상대로 제기한 이사 임명 처분 취소 소송에서 “지난해 7월 31일 자 방문진 이사 임명 처분을 취소하라”고 판결한 바 있다. 이 전 위원장과 김 전 부위원장은 KBS 이사 선임 안건을 의결한 같은 날 방문진 이사 정원 9명 중 6명을 여권 몫으로 임명했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>SK 용인 반도체 공사현장서 ‘주52시간’ 위반 적발</title>
-      <link>https://www.chosun.com/national/labor/2026/01/22/RRB77UIZ4JCLBKMNC4KWXHX5XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/01/22/RRB77UIZ4JCLBKMNC4KWXHX5XI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 07:01:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCY4LA7TWNJZZCY3FNNPGQMWYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기도 용인시 처인구 원삼면 용인반도체클러스터 일반산업단지 공사현장/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부는 ‘SK하이닉스 용인 반도체 클러스터 공사 현장’에서 주 52시간 근로 한도 위반과 휴일근로수당 미지급 등이 확인됐다고 22일 밝혔다. 이 현장에서는 지난해 11월 형틀목공 노동자가 사망했고, 이달 13일 하청업체 건설노동자가 철근 작업 중 쓰려져 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;노동부가 SK에코플랜트 하청업체 4개소에 대해 근로감독한 결과, 출역 인원 1248명 중 827명(66.3%)이 1주당 연장근로 한도 12시간을 넘어 근로한 사실이 확인됐다. 근로기준법상 법정 근로 시간은 1주 40시간으로 이를 초과한 연장근로 한도는 1주 최대 12시간까지다. &lt;br&gt;&lt;br&gt;또한, 하청업체 4곳에서 휴일근로수당 등 3700만원을 미지급한 사실도 이번 감독을 통해 적발됐다.&lt;br&gt;&lt;br&gt;노동부는 연장 근로 한도 위반에 대해 오는 28일까지 근로시간 개선 계획서를 제출하도록 했다. 이와 함께 근태내역 확인 자료 등 실제 개선 결과를 5월 8일까지 제출하고, 개선되지 않는 경우 즉시 사법 조치한다는 계획이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, ‘별건 수사 논란’ 국토부 서기관 뇌물수수 사건 공소기각... “특검 수사·기소 대상 아냐”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/22/JHLXMKVZJNFZNFJQAIQ5HYRQYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/22/JHLXMKVZJNFZNFJQAIQ5HYRQYA/</guid>
@@ -916,15 +925,6 @@
       <description/>
       <pubDate>Thu, 22 Jan 2026 06:44:58 +0000</pubDate>
       <content:encoded>김건희 특검팀의 ‘별건 수사’ 논란이 불거졌던 국토부 서기관 김모씨의 뇌물 수수 사건에 대해 법원이 22일 공소 기각 판결을 내렸다. 특검은 ‘서울~양평 고속도로 종점 변경’ 의혹을 수사하다가 김씨의 뇌물 수수 정황을 확인했다며 지난해 10월 그를 구속 기소했다. 그러나 법원은 “양평 고속도로 사건과 뇌물 수수 사건 사이 관련성을 인정하기 어렵다”며 특검의 수사·기소를 무효라고 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3GINBUMUYWKMRZMY4GGNTDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법의 모습. 2026.1.19/뉴스1 ⓒ News1 김도우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 이날 특정범죄가중처벌법상 뇌물 혐의를 받는 김씨에 대해 “특검 수사 대상인 양평 고속도로 사건과, 용역업체 대표로부터 뇌물을 받았다는 이 사건은 연관성이 전혀 없다”며 특검의 공소를 기각했다. 공소 기각이란 공소 제기에 중대한 하자가 있는 경우 심리 없이 소송을 끝내는 결정이다. 구속 수감돼 있던 김씨는 곧바로 풀려났다.&lt;br&gt;&lt;br&gt;특검은 양평 고속도로 사건으로 김씨를 지난해 7월 14일 압수 수색했다. 이후 김씨 휴대전화를 디지털 포렌식하다가 김씨가 용역업체 대표에게 뇌물을 받은 정황이 담긴 통화 녹음 파일을 확인했다. 이후 별도의 압수 영장을 발부받아 해당 파일들을 확보했다. 법조계에선 “별건 수사”라는 지적이 나왔지만 특검은 김건희 특검법에 수사 대상으로 규정된 양평 고속도로 사건을 수사하다 뇌물 수수 범행을 인지했고, 관련 범죄를 수사할 수 있다며 김씨를 재판에 넘긴 것이다.&lt;br&gt;&lt;br&gt;재판부는 “지난해 9월 26일 특검법이 개정되면서 특검이 수사 가능한 관련 범죄의 범위가 ‘증거물을 공통으로 하는 범죄’로 규정됐는데, 양평 고속도로 사건과 뇌물 수수 사건 각각의 녹음 파일은 공통된 증거로 보기 어렵다”고 했다. 재판부는 “특검은 양평 고속도로 사건의 진상 규명과 뇌물 수수 사건이 무관한 점을 이 시기엔 충분히 알 수 있었다”며 “기소 직전에라도 수사를 중단하고 다른 수사기관으로 사건을 보냈어야 했다”고 지적했다.&lt;br&gt;&lt;br&gt;또 재판부는 두 사건 사이에 시간적·장소적 연관성이 없다고 봤다. 양평고속도로 관련 사건은 김씨가 국토부 기술서기관이던 2022년 벌어졌고, 뇌물 수수 범행은 김 서기관이 원주지방국토관리청 도로관리국장으로 부임한 뒤인 2023년 6월~2024년 12월에 있었다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “특검법이 또 시행되는 상황에서 이러한 사안은 없어야 하지 않나 싶다”며 “피고인의 죄가 경미해 공소기각 판결을 한 것이 아니니 향후 수사와 재판이 다시 진행되면 반드시 충실히 임해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김건희 특검은 이 같은 별건 수사 논란 외에도 ‘양평 공흥지구 개발 특혜’ 의혹으로 조사받은 공무원이 극단적 선택을 하는 등 강압 수사 논란을 빚은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2조원대 판돈 굴린 기업형 도박 조직 적발… 조폭·메달리스트도 가담</title>
-      <link>https://www.chosun.com/national/regional/2026/01/22/2EC6SDHCQ5D4RBXN2LD62ZXYWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/22/2EC6SDHCQ5D4RBXN2LD62ZXYWM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 02:02:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CCUNHDAFBBB5JL3GBJIK6UDIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도박 조직이 베팅하는 모습. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 2조1000억원대 판돈을 굴린 기업형 도박 조직이 경찰에 적발됐다. 이 조직엔 조직폭력배와 전직 국가대표 메달리스트도 가담한 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산경찰청 형사기동대는 상습 도박, 전기통신사업법 위반 등 혐의로 총책인 40대 남성 A씨 등 23명을 검거해 이 중 조직폭력배 2명을 포함한 7명을 구속했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2022년 4월부터 지난해 9월까지 부산 해운대구 일대 오피스텔에 마련한 사무실을 거점으로 불법 사이트에서 2조1000억원 규모의 ‘양방 베팅’ 사무실을 운영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;양방 베팅은 홀짝 게임 등 양쪽에 돈을 반반씩 걸어도 적중 환급금(1.95배~2배) 배당이 높기 때문에 수익을 얻는 구조다. 통상적으로 불법 도박 사이트들은 양방 베팅하는 이용자에 대해 계정 정지를 하거나 출금 거부 등의 방식으로 대응한다. &lt;br&gt;&lt;br&gt;A씨 일당은 다른 IP에서 접속하거나 여러 계정을 통해 베팅해 불법 도박 사이트의 규제를 피해왔다고 한다. 또 불법 도박 사이트 운영자들이 판돈을 키우기 위해 A씨 일당에게 수수료를 건네고 베팅을 부탁하기도 했다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;이를 통해 A씨 일당은 36억원 상당의 부당 수익을 올린 것으로 경찰은 파악했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이 사건은 조직폭력배 2명이 운영 전반에 깊숙이 관여하고, 아시안게임 국가대표 출신 메달리스트가 ‘베팅 기술자’로 동원됐다”고 했다.&lt;br&gt;&lt;br&gt;특히 A씨는 도박 사이트 회원 가입과 ‘양방 베팅’에 필요한 도박 자금, 사무실 임대료, 타인 명의로 개통한 선불 유심칩을 관리자와 종업원에게 제공하는 등 범행을 총괄했다고 한다.&lt;br&gt;&lt;br&gt;이들은 수사기관의 추적을 피하기 위해 해운대구 일대 오피스텔 8곳을 단기로 임차해 수개월 단위로 거점을 옮겨다녔다.&lt;br&gt;&lt;br&gt;경찰은 조폭이 연루된 대규모 도박 사무실 운영 첩보를 입수, 거점을 차례로 급습해 일당을 검거했다. 또 A씨에 대해 2억7000만원 상당의 기소 전 추징 보전을 법원으로부터 인용받았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “필리핀으로 도주한 다른 총책 1명과 도박 사이트 운영 조직에 대해 인터폴 적색 수배를 요청했다”며 “앞으로도 조폭이 개입된 민생 침해 범죄와 불법 도박 범죄에 대해 수사력을 집중해 뿌리 뽑겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김경, 다른 민주당 인사들에도 금품 건넨 정황</title>
