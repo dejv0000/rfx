@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국내 송환 ‘캄보디아 스캠 사기단’ 한국인 73명 전원 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/24/75OSKQ4GLJDB3IPG65FM4WONXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/24/75OSKQ4GLJDB3IPG65FM4WONXQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 09:57:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M76W2AMVABPDRHYP7L2QA4NT6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 범죄조직의 범행에 가담했다가 국내로 강제 송환 후 압송된 한국인 피의자들이 23일 오후 부산 동래경찰서에 도착해 호송차에서 내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 캄보디아에서 ‘로맨스 스캠’ 사기, 인질 강도 등 범행을 저지른 한국인 피의자 73명 전원에 대해 24일 구속영장을 신청했다. 전날 오전 인천국제공항을 통해 국내로 강제 송환된 지 하루 만이다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 이날 언론 공지를 통해 “범정부 초국가범죄 특별대응 태스크포스(TF)를 통해 피의자 73명의 범죄 혐의를 수사하고 있다”며 “오늘 전원에 대한 구속영장 신청을 완료했다”고 밝혔다. 이들은 캄보디아 프놈펜에서 국내로 향하는 전세기에 타자마자 기내에서 체포돼 관할 경찰관서로 압송됐고, 경찰 조사 후 유치장에 수용됐다.&lt;br&gt;&lt;br&gt;피의자 73명은 ▲부산경찰청 반부패경제범죄수사대 49명 ▲충남경찰청 형사기동대 17명 ▲서울경찰청 형사기동대·금융범죄수사대 각 1명 ▲인천경찰청 사이버범죄수사대 1명 ▲울산경찰청 반부패경제범죄수사대 2명 ▲창원중부경찰서 1명 ▲서초경찰서 1명 등으로 분산됐다.&lt;br&gt;&lt;br&gt;피의자들은 한국인 869명에게서 약 486억원을 가로챈 혐의를 받는다. 70명은 로맨스 스캠이나 투자 리딩방 운영 등 스캠 범죄 혐의를, 3명은 인질 강도와 도박 등 혐의를 받는다.&lt;br&gt;&lt;br&gt;가상 인물로 위장하는 딥페이크 기술을 활용해 104명에게서 약 120억원을 가로챈 로맨스 스캠 부부 사기단도 포함됐다. 이들은 수사 당국의 추적을 피하기 위해 성형수술로 얼굴을 바꾸며 도피하다 끝내 검거됐으나 지난해 10월 송환 때는 제외됐다.&lt;br&gt;&lt;br&gt;투자 전문가를 사칭해 사회 초년생과 은퇴자들에게서 약 194억원을 받아 가로챈 사범 등도 이번 송환 대상자에 포함됐다. 미성년자를 대상으로 성범죄를 저지른 뒤 캄보디아로 도주해 사기에 가담한 도피 사범, 스캠 단지에 감금된 피해자를 인질 삼아 국내에 있는 가족을 협박하고 금품을 뜯어낸 조직원 등이 송환됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 담양서 줄넘기학원차 농지로 추락…어린이 등 8명 경상</title>
+      <link>https://www.chosun.com/national/regional/2026/01/24/F6NOUSE2XZBN5B75VPIR4MA2QI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/F6NOUSE2XZBN5B75VPIR4MA2QI/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 09:27:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDCYZWGY3WGZRVGQZDOODCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 전남 담양 가사문학면에서 학원차량이 도로 옆으로 추락해 8명이 부상을 입었다./전남소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 4시 24분쯤 전남 담양군 가사문학면 한 도로에서 줄넘기학원 승합차가 인근 농지로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 차량에 타고 있던 운전기사 A씨와 어린이 등 8명이 경상을 입어 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 음주나 무면허 상태는 아니었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢 ‘김학의 허위보고서 작성’ 이규원 선고 유예에 상고 포기</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/24/HGKPWEO4HZFZ5CGCIFDSVCRJP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/24/HGKPWEO4HZFZ5CGCIFDSVCRJP4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 09:04:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW3ECOWEWZDFXICSOXSILBOSXU.jpg"&gt;&lt;br&gt;&lt;br&gt;검찰이 허위 공문서 작성 등 혐의로 기소된 이규원 조국혁신당 조국혁신당 전략위원장에게 벌금형 선고 유예가 내려진 항소심 판결에 대한 상고를 포기했다. 24일 법조계에 따르면 검찰은 상고 기한이었던 전날(23일)까지 상고장을 제출하지 않았다. 반면 이 전 검사 측은 지난 22일 상고해 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;이 위원장은 2019년 대검찰청 과거사진상조사단 활동 당시, ‘김학의 전 법무부 차관 성 접대’ 의혹 핵심 인물인 건설업자 윤중천씨를 면담한 뒤 허위 내용이 포함된 보고서를 작성하고 이를 언론에 유출한 혐의로 재판에 넘겨졌다. 보고서에는 “윤씨가 ‘윤석열 검찰총장이 원주 별장에 온 적이 있는 것도 같다’고 말했다”는 취지의 내용도 포함됐다. 이 보고서를 토대로 법무부 과거사위원회는 김 전 차관 사건에 대한 수사 권고를 했다. &lt;br&gt;&lt;br&gt;앞서 1심은 이 전 검사가 윤씨와의 3차례 면담 중 녹취 없이 복기해 작성한 부분을 허위 공문서 작성으로 인정했다. 다만 “범행 비중이 크지 않다”며 벌금 50만원의 선고를 유예했다. 선고유예는 유죄는 인정되나, 2년간 추가 범죄가 없으면 면소(免訴)로 간주되는 제도다. 2심은 1심이 무죄로 본 개인정보보호법 위반, 형사사법절차전자화법 위반 혐의를 유죄로 판단해 벌금 200만원의 선고를 유예했다. 나머지 혐의에 대해서는 1심 판단을 유지했다.&lt;br&gt;&lt;br&gt;이 전 검사는 판결 뒤 자신의 SNS에 “이제 선고유예된 벌금 200만원이 양형의 상한이 됐다”며 “이 부분도 시정돼야 마땅하니 대법원을 설득하기 위해 최선을 다하겠다”고 밝혔다. 이 전 검사는 2019년 3월 김 전 차관의 출국을 불법으로 금지한 혐의로도 기소됐으나 대법원에서 무죄 확정 판결을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 1월 25일 일요일 (음력 12월 7일 己亥)</title>
       <link>https://www.chosun.com/national/national_general/2026/01/24/ZHY4XEULMBB3VNQETA44T6VQSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/24/ZHY4XEULMBB3VNQETA44T6VQSE/</guid>
@@ -823,15 +850,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJQ2PH72U5NNNC2H7HSDDUAHZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경기 과천시 중앙선거관리위원회에서 열린 중앙선관위 2026년 주요 업무 계획 회의에서 허철훈 사무총장을 비롯한 중앙선관위 관계자들이 청렴 실천 서약서를 낭독하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거에서 시도지사 후보들이 쓸 수 있는 선거비 한도가 평균 15억8700만원으로 정해졌다.&lt;br&gt;&lt;br&gt;중앙선거관리위원회는 23일 지방선거 후보자들이 선거운동을 위해 쓸 수 있는 비용의 한도액인 ‘선거비용 제한액’을 공고했다. 선거비용 제한액은 각 선거구의 인구수와 읍·면·동수 등에 따라 달라진다. 물가 상승 등으로 2022년 지방선거 때보다 평균 8.3% 늘었다.&lt;br&gt;&lt;br&gt;시도지사 후보자의 선거비 한도는 평균 15억8700만원으로, 인구가 가장 많은 경기도에 출마하는 경우 49억4500만원, 서울시장으로 출마하는 경우 37억2100만원, 인구가 가장 적은 세종시에 출마하는 경우 3억8900만원이다.&lt;br&gt;&lt;br&gt;교육감 후보자의 선거비 한도는 평균 15억8600만원으로, 경기도에 출마하는 경우 49억4500만원, 세종시에 출마하는 경우 3억8900만원이다.&lt;br&gt;&lt;br&gt;구청장·시장·군수 등 기초자치단체장 선거 후보자의 선거비 한도는 평균 1억8400만원이다. 수원시 출마자는 4억6400만원, 울릉군 출마자는 1억900만원까지 쓸 수 있다.&lt;br&gt;&lt;br&gt;시·도의원 후보자는 지역구 출마자의 경우 평균 5600만원, 비례대표 후보인 경우 평균 2억1800만원까지 쓸 수 있다. 구·시·군의원 후보자는 지역구는 평균 4800만원, 비례대표는 평균 5700만원이 한도다.&lt;br&gt;&lt;br&gt;후보자가 이 한도 내에서 쓴 선거비용은 후보자가 당선되거나 15% 이상 득표한 경우 전액을 국가로부터 보전받을 수 있다. 득표율이 10% 이상 15% 미만인 경우에는 절반을 보전받는다. 지방의회 비례대표 후보자들이 쓴 선거비용은 해당 비례 후보 명부에서 당선자가 1명 이상 나온 경우에 한해, 명부에 있는 후보자들이 전액을 보전받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, 金여사·권성동 1심 선고 당일 청사 보안 강화… 차량 출입 전면 통제·정문 폐쇄</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/23/Z7O5XIKPAJGELHTAIJ3RXILQLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/Z7O5XIKPAJGELHTAIJ3RXILQLQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Jan 2026 00:35:23 +0000</pubDate>
-      <content:encoded>서울고등법원은 김건희 여사와 권성동 국민의힘 의원의 1심 선고가 예정된 오는 28일 청사 보안을 강화하고, 차량 출입을 전면 통제한다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMRBXSPZJ5ITRPCCA3MLH4HNLU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울법원종합청사 내 보안이 강화된 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법은 오는 27일 오후 8시부터 29일 0시까지 소송 당사자, 소송 대리인 등 일반 차량의 서울법원종합청사 출입을 전면 차단한다고 밝혔다. 법관 등 법원 구성원에게도 승용차 사용을 자제하고 대중교통 이용을 권고했다. 도보를 이용한 출입도 이 기간엔 검찰청 쪽 정문과 서울회생법원 쪽 북문을 제외한 동문만 가능하다. 동문에선 강화된 보안 검색을 실시한다. &lt;br&gt;&lt;br&gt;서울고법은 “청사 경내에서는 일체의 집회와 시위가 금지된다”며 “집회 또는 시위 용품을 소지한 경우 경내 출입이 제한될 수 있다”고 했다. 또 사전에 서울고법 관계자의 허가를 받지 않았다면 촬영도 불가하다고 안내했다.&lt;br&gt;&lt;br&gt;서울고법은 앞서 지난 16일 윤석열 전 대통령의 ‘체포 방해’ 등 혐의 1심 선고 당일에도 이 같은 보안 강화 조치를 한 바 있다. 그동안 주요 재판이 있는 날엔 북문만 재판 당일 오전 9시부터 폐쇄하고, 검찰청 쪽 정문과 동문은 개방하되 도보 출입자에 대해 보안 검색을 실시했었다.&lt;br&gt;&lt;br&gt;28일 서울중앙지법 형사27부(재판장 우인성)는 도이치모터스 주가 조작 등 혐의를 받는 김건희 여사, 통일교 불법 정치자금 수수 혐의를 받는 권성동 국민의힘 의원, 두 사람에게 금품을 건넨 혐의를 받는 윤영호 전 통일교 세계본부장의 1심 선고를 진행한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] ‘대장동 항소 포기 반발’ 김형석 검사장 사의</title>
       <link>https://www.chosun.com/national/court_law/2026/01/23/GK26EUOEPNED5FQLXZ2TANR3BY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/GK26EUOEPNED5FQLXZ2TANR3BY/</guid>
@@ -906,25 +924,6 @@
       <description/>
       <pubDate>Thu, 22 Jan 2026 15:45:00 +0000</pubDate>
       <content:encoded>더불어민주당 주도로 새벽 배송 제한 등을 논의하는 ‘택배 사회적 대화 기구’에서 민주노총이 사용자 측에 산재보험료를 전부 부담하라고 주장한 것으로 확인됐다. 전문가들은 이런 주장이 현행법과 헌법재판소 결정과 어긋난다고 지적한다. &lt;br&gt;&lt;br&gt;22일 본지 취재를 종합하면, 민노총 택배노조는 이달 진행된 택배 사회적 대화 기구에서 마켓컬리와 쿠팡 등이 택배 노동자에 대한 산재보험료를 모두 지급해야 한다고 주장했다. 택배 기사 건강권을 위해 산재보험 가입을 늘려야 한다는 것이다.&lt;br&gt;&lt;br&gt;택배 기사들은 근로자와 사업자 성격을 동시에 가진 특수형태근로종사자(노무제공자)다. 현행법은 이를 감안해 근로자의 산재보험료는 사측이 내도록 하고, 노무제공자는 사용자와 반반씩 부담하게 했다. 택배 기사뿐 아니라 배달 기사, 대리운전 기사, 골프장 캐디 등 다른 노무제공자도 절반씩 산재보험료를 낸다. &lt;br&gt;&lt;br&gt;헌법재판소 역시 이런 방침이 문제가 없다고 밝힌 상태다. 지난 2023년 배달 노동자 노조가 헌재에 “근로자와 달리 노무 제공자가 산재보험료를 절반씩 부담하는 것은 부당하다”며 헌법소원을 냈다. 이에 대해 헌재는 “특수 형태 근로 종사자들은 자영업자와 근로자의 모습을 동시에 갖고 있어, 불합리한 차별이 아니다”라며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;수입을 따졌을 때도 택배 기사가 예외를 적용받을 이유가 적다는 견해가 많다. 한국노동경제학회에 따르면, 야간 택배 기사의 월평균 소득은 581만원이고, 이 중 10%는 월 900만원 이상 소득을 올린다. 김주영 민주당 의원이 내놓은 자료를 보면 지난해 1~6월 기준 택배 기사의 월평균 보수액은 441만원으로, 골프장 캐디(321만원), 방문 판매원(223만원), 관광통역안내사(174만원) 등보다 많다. 민노총은 사용자 측이 산재보험료를 모두 부담해 보험 가입률을 높여야 한다고 주장하지만, 택배 기사 가입률은 이미 94.6%에 달한다.&lt;br&gt;&lt;br&gt;업체에 직고용돼 일하는 택배 기사들은 형평성 문제도 제기하고 있다. 근로자로 분류된 자신들의 처우 개선은 뒷전인 채, 노무 제공자 보호에만 회사 예산을 집중하는 것이 맞느냐는 것이다. 정진영 쿠팡 노조위원장은 “현재 논의는 특정 고용 형태에만 특혜를 제공하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세 쌍둥이 위한 6명의 ‘육아팀’… 주 2회 육아회의도 해요</title>
-      <link>https://www.chosun.com/national/education/2026/01/23/FZMVFWETVVHEPC577DHSFQV6KU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/23/FZMVFWETVVHEPC577DHSFQV6KU/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 15:39:00 +0000</pubDate>
-      <content:encoded>지난 18일 오후 태어난 지 5개월 된 세 쌍둥이를 키우는 심여진·박현재 씨 부부 집에 친가·외가 조부모가 모두 모였다. 조부모들은 자녀 부부와 함께 세 쌍둥이 손주인 박진하(딸)·태하(아들)·세하(딸) 목욕을 시키고, 한 명씩 품에 안은 채 낮잠을 재웠다. 조부모들은 세 쌍둥이의 얼굴 사진이 인쇄된 단체 티셔츠를 입고 있었다. 티셔츠 뒷면에는 ‘재곤할비’ ‘경희할미’ ‘정원할비’ ‘영희할미’ 등 각자 이름이 적혀 있었다. 박씨는 “지난해 8월 세 쌍둥이가 태어난 뒤부터 양가 부모님들이 함께 아이를 봐주시기 시작한 걸 기념해서 가족 티셔츠를 맞췄는데 이제는 정말 하나의 ‘육아팀’이 된 느낌”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23LRKV6ABZDLHK37EA5SCFQN2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세 쌍둥이를 키우는 심여진·박현재(가운데)씨 부부가 18일 친조부모인 박정원·유영희(왼쪽)씨, 외조부모 심재곤·이경희(오른쪽)씨와 함께 활짝 웃고 있다.
-/박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양가 조부모는 세 쌍둥이 출산 직후부터 번갈아 서울에 있는 자녀 집에서 손자들을 돌보고 있다. 친조부모가 일요일 오후부터 목요일 오전까지, 외조부모가 목요일 오후부터 일요일 오전까지 세 쌍둥이 집에 머물며 아이들을 봐주는 식이다.&lt;br&gt;&lt;br&gt;양가 할아버지·할머니는 육아 업무를 교대하는 목요일과 일요일마다 함께 모여 다음 육아 당번에게 필요한 주의 사항 등을 전달하는 ‘인수인계’ 시간을 갖는다. 집에 붙어 있는 화이트보드에 세 쌍둥이의 수유 시간과 수유량, 건강 관련 특이 사항을 적어둔 기록을 보며 육아 회의를 하는 것이다. &lt;br&gt;&lt;br&gt;두 부부는 지금처럼 양가 어른들이 모두 투입돼 공동 육아를 하게 될 것이라고는 한 번도 생각하지 못했다고 했다. 2024년 4월 결혼한 부부는 그해 12월 자연 임신으로 아이를 가졌다. 얼마 뒤 병원 진찰에서 뱃속에 세 쌍둥이가 있다는 것을 알게 됐다. 자연 임신으로 세 쌍둥이를 임신하는 것은 1만분의 1의 매우 낮은 확률이라고 한다. 심씨는 “임신 안정기에 해당하는 12주차 이후에 임신 사실을 공개하려고 했는데 세 쌍둥이 임신 소식을 듣자마자 ‘이건 우리 둘만의 문제가 아니다’라는 생각에 바로 부모님께 말씀드렸다”며 “양가 부모님이 축하 말씀과 함께 ‘같이 아이들을 돌봐줄테니 걱정말라’고 안심시켜주셨다”고 말했다.&lt;br&gt;&lt;br&gt;양가 부모들은 출산 전부터 사실상 ‘비상 체제’에 돌입했다. 심씨가 ‘고위험 산모’ 진단을 받는 등 수차례 위기를 겪었기 때문이다. 두 명 이상을 동시에 임신하는 다(多)태아 임신은 상대적으로 산모의 신체 변화가 커서 임신 중 합병증 발생 위험이 높다. 심씨는 다른 산모보다 입덧을 자주 했고, 호르몬 변화 등으로 밤마다 온몸에 두드러기가 나는 증상을 겪었다. 남들보다 빠르고 크게 나오는 배로 인해 이미 임신 20주차때 만삭 단태아 임산부와 배 크기가 비슷해졌고, 이로 인해 침대에서 혼자 눕고 일어나는 것조차 하기 어려웠다. 임신 23주 차에는 자궁 경부가 열려 이를 닫는 응급 수술도 받았다.&lt;br&gt;&lt;br&gt;친정 어머니 이경희씨는 임신 이후 집 근처에도 나가기 힘들 정도로 거동이 불편해진 딸 심씨를 대신해 세 쌍둥이를 키울 수 있는 넓은 아파트를 알아보고 부동산 계약까지 했다. 또 심씨가 수술로 입원할 당시 매일 영양식을 만들어 줬다. 시어머니 유영희씨는 세 쌍둥이 임신 소식을 듣고 난 직후 ‘첫 손주를 최선을 다해 키워주고 싶다’며 산후 관리사 자격증 학원에 등록했고, 한 번에 자격증을 땄다. 현재도 두 할머니는 자녀 부부의 육아 부담을 덜어주기 위해 새벽마다 세 쌍둥이에게 분유를 먹이는 일을 맡고 있다. 양가 할머니와 심씨는 카카오톡 단톡방에서 아이들 육아 정보를 주고받는다. 심씨는 “임신 기간에 조금만 배가 당겨도 ‘자궁 수축이 아닌가’ 불안해 매일이 살얼음판을 걷는 기분이었는데 남편과 양가 부모님의 헌신이 있었기에 조기 진통이나 수축 없이 세 쌍둥이 만출 출산 기준으로 35주를 채우고 건강하게 출산했고 육아 부담도 덜 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;반년 가까이 손주 육아에 헌신하는 조부모들은 “몸은 힘들지만 보람이 더 크다”고 말했다. 체력적으로 세 아기를 돌보는 게 쉽지 않지만 하루가 다르게 커가는 모습은 삶의 활력이 되고 있다. 친할아버지 박정원씨는 “젊은 시절 아이들과 시간을 많이 보내지 못해서 미안한 마음이 컸기 때문에 손주 육아에 온 정성을 쏟고 있다”며 “아들이 가장으로서 책임감을 느끼고 화목한 가정을 꾸리기 위해 최선을 다하는 모습을 보니 뿌듯하다”고 했다. 외할아버지 심재곤씨도 “매주 사돈과 육아 인수인계를 하면서 식사를 함께하다 보니 사이가 매우 가까워졌다”며 “손주들 덕분에 모처럼 집안에 웃음이 끊이지 않는다”고 말했다. &lt;br&gt;&lt;br&gt;세 쌍둥이 엄마 심씨는 곧 출산 휴가가 끝나 조만간 회사에 복귀한다. 대신 아빠 박씨가 다음 달부터 ‘육아 휴직’을 사용해 육아 바통을 이어받기로 했다. 박씨는 “아이들을 낳고 키우는 과정에서 부모님들의 헌신이 가장 큰 도움이 됐다. 이 뿐 아니라 세 쌍둥이를 가진 걸 알고 아내의 몸상태가 좋지 않을때 ‘절대 무리하면 안된다’며 재택근무 전환 등 특별히 배려해주신 아내 회사 팀장님, 회사에 출근한 저를 대신해서 매일같이 집에 와 시간을 보내준 장모님과 아내의 친구, 동료들 등 주변의 관심과 도움이 컸다”며 “많은 도움과 사랑을 받고 키우고 있는 만큼 나중에 주변 사람들에게 따뜻한 온정을 베풀 수 있는 아이들로 키우고 싶다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 1월 23일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/22/PARHTN34GJAKDF5YHYSZTPMWMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/22/PARHTN34GJAKDF5YHYSZTPMWMM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 14:34:00 +0000</pubDate>
-      <content:encoded>23(금) - 강추위 이어지고 일부 지역 눈&lt;br&gt;&lt;br&gt;토~일 - 춥고 대체로 맑지만, 일부 지역 흐려&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2UESOQQYJDRVHKQ7G4BVGZH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘200억 탈세 의혹’ 차은우에... ‘100억 벌면 41억 내는’ 유재석 재조명</title>
