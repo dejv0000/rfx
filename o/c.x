@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>90대 母 때려 숨지게 한 60대 딸 체포…범행 후 119에 신고</title>
+      <link>https://www.chosun.com/national/regional/2026/01/24/R35GIU4TMJC3NOWG7RNBCNY4JU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/R35GIU4TMJC3NOWG7RNBCNY4JU/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 05:11:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSGEOJYMEYTGZTGMRSWIZTCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 부평경찰서는 함께 살던 90대 어머니를 폭행해 살해한 혐의(존속폭행치사)로 60대 딸 A씨를 붙잡아 조사 중이라고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 인천시 부평구 자택에서 어머니인 90대 B씨를 여러 차례 때려 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 5시 41분쯤 “어머니가 숨을 쉬지 않는다”며 119에 직접 신고했다.&lt;br&gt;&lt;br&gt;경찰은 B씨 얼굴 등에서 멍 자국이 발견된 점을 토대로 범죄 혐의가 있다고 보고 당일 오후 8시쯤 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “어머니를 폭행한 것이 맞다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사망 시점과 원인 등을 파악하기 위해 국립과학수사연구원에 B씨의 시신 부검을 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨와 B씨 외에도 다른 가족 1명이 동거 중”이었다며 “범행 시기와 동기 등 사건 경위를 조사한 뒤 구속영장 신청을 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경북 영주서 주택 화재가 산불로 번져…1시간만에 주불 진화</title>
       <link>https://www.chosun.com/national/regional/2026/01/24/ESFANQXP55GHBENHJDDCLP5ZOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/ESFANQXP55GHBENHJDDCLP5ZOU/</guid>
@@ -925,15 +934,6 @@
       <description/>
       <pubDate>Thu, 22 Jan 2026 12:32:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BB7COICEM5BJHO4E46APQHOZVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상주 곶감/상주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 상주시 태평성대경상감영공원 일대에서 23~25일 사흘간 ‘2026 상주 곶감 축제’가 열린다. 상주시 인구가 약 9만명에 달하는데, 이 축제에만 매년 10만명 이상이 찾는 지역 대표 축제다.&lt;br&gt;&lt;br&gt;상주시는 예부터 쌀과 명주, 곶감 등 흰색을 띤 특산물로 유명해 ‘삼백(三白)의 고장’으로도 불렸다. 전국에서 생산되는 곶감 60% 이상이 상주에서 난다. 조선왕조 예종 시절에도 ‘상주의 곶감을 (임금께) 진상하였다’는 기록이 있다. 상주는 습한 바람을 인근의 속리산이 막아주면서 겨울철에 건조하고 찬 바람이 많이 불고, 일교차가 커 곶감이 달게 잘 익는다. 상주에는 올해로 수령(樹齡) 546년에 달하는 국내 최고령 접목 재배 감나무이자 국가산림문화자산으로 지정된 ‘하늘 아래 첫 감나무’를 비롯해 수령 200년이 넘는 감나무 7개가 있다. 2005년에는 상주 곶감 특구로 지정됐고, 2015년엔 외남면에 곶감 공원도 조성됐다. 내서 구마이곶감마을에선 곶감 강정 만들기, 곶감 양갱 만들기 등도 체험할 수 있다.&lt;br&gt;&lt;br&gt;올해 상주시는 코레일관광개발과 협업해 곶감 축제 기간인 24일 하루 동안 ‘팔도장터 관광열차’를 운영한다. 코레일관광개발 홈페이지를 통해 예약하면 서울역·청량리역·덕소역·양평역·원주역 등에서 기차를 타고 상주곶감축제장으로 이동할 수 있다. 곶감 축제를 즐긴 이후엔 상주의 청년 농부들이 운영하는 농장 카페 ‘파머스룸’, 국립낙동강생태자원관, 상주자전거박물관, 함창명주테마파크 등 지역 내 명소를 둘러볼 수 있다. &lt;br&gt;&lt;br&gt;곶감 축제장에선 농가별로 48개 곶감 판매 부스를 설치·운영한다. 관광객이 다양한 곶감을 비교해가며 구매할 수 있다. 감껍질 추출물을 활용한 화장품 전시와 축제장 내 무대에서 실시간으로 곶감 판매도 진행한다. 곶감을 활용한 디저트 조리와 시식, 곶감 따기 체험을 비롯해 연날리기와 얼음썰매도 즐길 수 있다. &lt;br&gt;&lt;br&gt;상주시는 이번 축제와 연계해 다음 달 28일까지 곶감을 추가로 증정하는 고향사랑 기부 이벤트를 진행한다. 상주시에 10만원을 기부한 30명을 추첨해 기존 3만원 상당의 답례품에 더해 곶감 24개를 추가로 증정한다. 축제장에서 직접 고향사랑 기부를 할 경우 상주의 명주로 짠 스카프도 추가 증정한다. 강영석 상주시장은 “상주의 보물인 곶감과 함께 새해 겨울을 달콤하게 보내시길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 장병 밥값 내주고 사라진 부부… 김포시, 찾아 나섰다</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/JV3ZGY2GI5CCXNN3YCOBYUF6KY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/JV3ZGY2GI5CCXNN3YCOBYUF6KY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 11:31:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWQJAU2RC5AL3O2NPXUS2VQYTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병 장병의 밥값을 대신 내주는 부부./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김포시가 최근 한파 속에서도 군 장병에게 따뜻한 식사를 대접한 부부를 찾기 위해 나섰다.&lt;br&gt;&lt;br&gt;이번 미담은 김포 해병대 2사단 소속 장병 A씨가 온라인 커뮤니티에 올린 글을 통해 알려졌다. 식당에서 홀로 식사하던 장병의 계산을 한 부부가 대신 치르고 “고생이 많다”며 격려했다는 내용이 알려지자, 언론 보도와 방범 카메라(CCTV) 영상까지 더해지며 큰 관심을 모았다.&lt;br&gt;&lt;br&gt;해당 장병은 이후 글을 통해 “부부에게 뛰쳐나가 감사하다고는 했는데 제대로 인사를 드리지 못한 거 같아 죄송하다”며 “군 생활 열심히 하다가 전역하고 기회가 된다면 다음엔 제가 아이한테 멋진 장난감을 사주겠다”고 감사의 마음을 전했다.&lt;br&gt;&lt;br&gt;이에 김포시는 보이지 않는 곳에서 묵묵히 선행을 실천해 김포시민의 자부심을 높여준 해당 부부를 찾아, 시를 대표해 공식적인 감사의 뜻을 전하고 예우를 다할 계획이다.&lt;br&gt;&lt;br&gt;김병수 김포시장은 “어려운 시기에 타인을 배려하는 마음을 보여준 부부의 선행은 우리 김포시의 큰 자산”이라며 “이 따뜻한 이야기의 주인공을 찾아 50만 김포시민을 대신해 감사의 마음을 꼭 전하고 싶다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘차은우 탈세 의혹’ 母 법인 전 주소지 봤더니 장어집</title>
