@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 1월 25일 일요일 (음력 12월 7일 己亥)</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/24/ZHY4XEULMBB3VNQETA44T6VQSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/24/ZHY4XEULMBB3VNQETA44T6VQSE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>서해안고속도로 목포방면 팔탄분기점 인근서 6중 추돌…男 1명 심정지</title>
+      <link>https://www.chosun.com/national/regional/2026/01/24/MCWTNSFIDZAOJBZXR7OQOULGKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/MCWTNSFIDZAOJBZXR7OQOULGKA/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 06:42:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2QFFM6UIFNVLIGH7RPCN4OS3I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 고속도로순찰대가 지난 16일 경남 양산시 동면 경부고속도로 양산휴게소 인근에서 유관기관과 합동으로 2차 교통사고 예방을 위해 실제 교통사고 상황을 가정한 모의훈련을 하고 있다. 위 사진은 기사와 직접적인 관련은 없다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 1시쯤 경기 화성시 서해안고속도로 목포방면 팔탄분기점 부근에서 2차로를 달리던 3.5t 화물차가 앞서 달리던 SM3 승용차를 들이받았다.&lt;br&gt;&lt;br&gt;이후 사고 충격으로 SM3 승용차를 비롯한 차량 5대가 밀려나면서 연달아 부딪혔고, 이 중 한 대가 1차로 쪽으로 튕겨 나가며 다른 차량을 들이받아 총 6중 추돌사고로 이어졌다.&lt;br&gt;&lt;br&gt;이 사고로 SM3에 동승하고 있던 남성 A씨가 심정지 상태로 병원에 이송됐다. A씨는 현재 위독한 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다른 차량 운전자들은 경상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;또 사고 차량 견인을 위해 도로가 한동안 통제되면서 후방 3㎞까지 차량 정체가 빚어졌다. 통제는 오후 2시 30분쯤 모두 해제됐다.&lt;br&gt;&lt;br&gt;경찰은 화물차 운전자 60대 B씨가 정체 구간에서 속도를 줄이지 못해 사고를 낸 것으로 보고 구체적인 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>90대 母 때려 숨지게 한 60대 딸 체포…범행 후 119에 신고</title>
       <link>https://www.chosun.com/national/regional/2026/01/24/R35GIU4TMJC3NOWG7RNBCNY4JU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/R35GIU4TMJC3NOWG7RNBCNY4JU/</guid>
@@ -822,15 +841,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH6G4RKDEZIKTHKVHIS4TVZS7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형석 대검찰청 마약·조직범죄부장이 작년 10월 27일 서울 여의도 국회 법제사법위원회에서 열린 2025년 국정감사에서 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대장동 항소 포기’ 사태 당시 노만석 전 검찰총장 직무대행에게 경위 설명 등을 요구한 것으로 알려진 김형석(사법연수원 32기) 대검찰청 마약·조직범죄부장(검사장)이 23일 사의를 표명했다. 오는 27일자로 법무연수원 연구위원으로 이동한다는 법무부 인사 발표가 나온 지 하루 만이다.&lt;br&gt;&lt;br&gt;김 검사장은 이날 오전 검찰 내부게시판(이프로스)에 ‘사직인사’ 글을 올렸다. 그는 “이제 마무리할 때가 되었다”면서 “지나온 23년을 스스로에게 부끄럽지는 않았는지 돌이켜봤는데, 그렇지는 않았다는 생각이 든다”고 했다. 그러면서 “몹시도 시리고 힘든 시기이지만, 검찰 구성원들의 목소리가 이기적 욕심이 아닌 경험한 진심임을, 국민들께서 이해하고 받아주실 날이 꼭 올 것으로 믿어본다”고 했다.&lt;br&gt;&lt;br&gt;김 검사장은 작년 11월 대장동 항소 포기 사태 후, 서울중앙지검에 항소 포기를 지시한 노 전 대행에게 경위 설명과 용퇴를 적극적으로 건의한 것으로 알려졌다. 김 검사장과 함께 노 전 대행의 결단을 요구한 장동철 형사부장, 최영아 과학수사부장 등 다른 대검 참모들은 지난 22일 발표된 검찰 고위 간부 인사에서 한직인 법무연수원 연구위원으로 좌천됐다. 공동 성명서를 냈던 일선 검사장 18명 중 4명도 법무연수원 연구위원 인사 발령이 났고, 이 중 박영빈 인천지검장은 인사 발표 직후 사의를 나타냈다.&lt;br&gt;&lt;br&gt;김 검사장은 서울 출신으로 개포고와 서울대 법대를 졸업했다. 서울동부지검 사이버범죄형사부장, 수원지검 형사1부장, 서울중앙지검 형사8부장·형사7부장, 법무부 감찰담당관, 대구지검 서부지청장 등을 지냈다. 이재명 정부 출범 후 첫 검찰 고위 간부 인사에서 검사장으로 승진했지만, 대장동 항소 포기 사태로 6개월 만에 좌천성 인사가 났고 결국 검찰을 떠나게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 전역 맹추위… 지난밤 수도 계량기 95건 동파</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/23/2I7SL6XSUJBXRD4PJBZY3LPVZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/2I7SL6XSUJBXRD4PJBZY3LPVZA/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Jan 2026 00:49:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIA24AUXEJOVLIP22RWCB4IPZ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 서울 강북구 서울북부수도사업소에서 수도계량기 교체반 직원이 동파된 수도계량기를 정리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 전역에 한파주의보가 내려진 가운데 수도 계량기 동파가 잇따르고 있다.&lt;br&gt;&lt;br&gt;23일 서울시에 따르면 전날 오후 5시부터 이날 오전 5시까지 서울에서 발생한 수도 계량기 동파는 95건으로 집계됐다. 한랭 질환자나 수도관 동결 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;지난 19일 오후 9시 서울 전역에 한파주의보가 발효됨에 따라 서울시는 위기경보 단계를 ‘관심’에서 ‘주의’로 상향했다.&lt;br&gt;&lt;br&gt;한파주의보 발효 이후 현재까지 누적된 수도 계량기 동파 피해는 모두 210건으로, 하루 평균 60건 수준이다.&lt;br&gt;&lt;br&gt;서울시는 한파 대응을 위해 비상근무 82개반 260명과 순찰 인력 82명 규모의 한파 종합지원 상황실을 운영하고 있다. 밤사이에는 노숙인 급식 제공과 함께 독거 어르신에 대한 안부 확인도 진행했다.&lt;br&gt;&lt;br&gt;아울러 한파쉼터와 한파 응급대피소, 기후동행쉼터 등 한파 대응 시설과 인프라 5960곳을 운영 중이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 서울은 주말인 24~25일에도 최저기온이 영하 11도까지 떨어질 것으로 전망된다. 체감온도는 영하 15도 안팎까지 내려갈 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 김경, 강선우 의원에 1억3000만원 두 차례 ‘쪼개기 후원’ 정황…“전액 반환”</title>
       <link>https://www.chosun.com/national/national_general/2026/01/23/L6EATMJBIZDABFOSCOWRBTC5CY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/L6EATMJBIZDABFOSCOWRBTC5CY/</guid>
@@ -925,15 +935,6 @@
       <pubDate>Thu, 22 Jan 2026 13:10:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VD7HNKKRN5G7LEE477FJHAJUPY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 차은우가 모친의 법인을 통해 200억 원대 탈세를 했다는 의혹에 휩싸인 가운데, 과거 고강도 세무조사에서 아무런 문제점이 드러나지 않았던 방송인 유재석이 재조명되고 있다.&lt;br&gt;&lt;br&gt;차은우 소속사 판타지오는 22일 입장을 내고 “차은우 모친이 설립한 법인이 실질 과세 대상에 해당하는지가 주요 쟁점인 사안”이라며 “최종적으로 확정·고지된 사안이 아니다. 법 해석·적용과 관련된 쟁점은 적법한 절차에 따라 적극 소명할 예정이다. 해당 절차가 조속히 마무리될 수 있도록 성실히 협조할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQYGMNTBMI4WCYZTGQZDEM3EME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 차은우./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 이데일리는 차은우가 소득세 등 탈세 혐의로 국세청으로부터 200억 원이 넘는 세금 추징 통보를 받았다고 보도했다. 연예인에게 부과된 액수 가운데 역대 최고 수준이다. &lt;br&gt;&lt;br&gt;국세청은 차은우의 모친 A씨가 설립한 B법인과 소속사 판타지오 사이의 용역 계약 구조를 문제 삼은 것으로 알려졌다. 수익이 판타지오·B법인·차은우 개인에게 나뉘는 방식이 실질이 없다고 보고, B법인을 “용역을 제공하지 않은 페이퍼컴퍼니”로 판단했다는 것이다. 차은우 측은 이에 불복해 ‘과세 전 적부심사’를 청구한 상태로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGW4SMHGERNC5JVGHJYRTORJLM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 유재석./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;논란이 커지면서 ‘국민 MC’ 유재석의 세무조사 사례가 다시 주목받고 있다. 유재석은 2024 세무조사에서 고의적 누락이나 탈세 정황이 전혀 없었고, 신고 역시 성실했다고 알려졌다.&lt;br&gt;&lt;br&gt;윤나겸 세무사는 지난 8월 유튜브 채널 ‘절세TV’를 통해 “연예인들은 보통 개인사업자로 분류가 되어 있어서 장부기장 신고 또는 기준경비율 신고(추계 신고) 중 하나를 선택한다”며 유재석의 신고 방식을 설명했다. 장부기장 신고는 세무사가 수입·지출을 정리해 비용 처리를 극대화하는 방식이고, 기준경비율 신고는 증빙 수집이 필요 없는 대신 세금이 더 나올 수 있다.&lt;br&gt;&lt;br&gt;그는 “만약 연봉 100억원을 벌어 경비 40억원을 빼면 과표 60억원이 되는데 장부 신고 시 납부 세액이 약 27억원 정도 나온다”며 “그런데 유재석의 경우 기준 경비율 8.8%를 빼고 나면 실제 과세 표준이 91억2000만원이다. 세금으로 41억원을 내는 거다. 파격적인 숫자”라고 했다.&lt;br&gt;&lt;br&gt;유재석이 ‘더 많은 세금을 내는 방식’을 택한 데 대해 윤 세무사는 전략적 판단이 깔려 있다고 봤다. 세금 논란을 애초에 막아 이미지를 지키고, 복잡한 세무 처리 대신 방송에 집중하기 위해 시간과 에너지를 아끼려는 선택이라는 것이다.&lt;br&gt;&lt;br&gt;윤 세무사는 “세무조사는 5년 치 장부를 검토한다. 증빙이 충분치 않으면 추징과 가산세가 붙는다”며 “근데 유재석은 두렵지 않을 거다. 추징될 것도, 가산세 걱정도 없다. 리스크를 제로로 만드는 것”이라고 했다. 이어 “이 방법이 모두에게 맞는 건 아니다. 돈보다 신뢰를 선택한 예외적인 케이스”라며 “진정한 노블레스 오블리주를 실천한 것 같다. 세금을 떳떳하게 내는 건 자랑할 만하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/VD7HNKKRN5G7LEE477FJHAJUPY.png?auth=0fefa97476bc2b689b47766d9478765b6c11a959d57eb8e47b6799cfc631faba&amp;smart=true&amp;width=600&amp;height=400" type="image/png" height="400" width="600"/>
-    </item>
-    <item>
-      <title>‘삼백의 고장’ 상주에서 곶감 축제 열린다</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/22/PDHKNYPNGNF65GRY72R4ON25BQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/22/PDHKNYPNGNF65GRY72R4ON25BQ/</guid>
-      <dc:creator>상주=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 12:32:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BB7COICEM5BJHO4E46APQHOZVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상주 곶감/상주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 상주시 태평성대경상감영공원 일대에서 23~25일 사흘간 ‘2026 상주 곶감 축제’가 열린다. 상주시 인구가 약 9만명에 달하는데, 이 축제에만 매년 10만명 이상이 찾는 지역 대표 축제다.&lt;br&gt;&lt;br&gt;상주시는 예부터 쌀과 명주, 곶감 등 흰색을 띤 특산물로 유명해 ‘삼백(三白)의 고장’으로도 불렸다. 전국에서 생산되는 곶감 60% 이상이 상주에서 난다. 조선왕조 예종 시절에도 ‘상주의 곶감을 (임금께) 진상하였다’는 기록이 있다. 상주는 습한 바람을 인근의 속리산이 막아주면서 겨울철에 건조하고 찬 바람이 많이 불고, 일교차가 커 곶감이 달게 잘 익는다. 상주에는 올해로 수령(樹齡) 546년에 달하는 국내 최고령 접목 재배 감나무이자 국가산림문화자산으로 지정된 ‘하늘 아래 첫 감나무’를 비롯해 수령 200년이 넘는 감나무 7개가 있다. 2005년에는 상주 곶감 특구로 지정됐고, 2015년엔 외남면에 곶감 공원도 조성됐다. 내서 구마이곶감마을에선 곶감 강정 만들기, 곶감 양갱 만들기 등도 체험할 수 있다.&lt;br&gt;&lt;br&gt;올해 상주시는 코레일관광개발과 협업해 곶감 축제 기간인 24일 하루 동안 ‘팔도장터 관광열차’를 운영한다. 코레일관광개발 홈페이지를 통해 예약하면 서울역·청량리역·덕소역·양평역·원주역 등에서 기차를 타고 상주곶감축제장으로 이동할 수 있다. 곶감 축제를 즐긴 이후엔 상주의 청년 농부들이 운영하는 농장 카페 ‘파머스룸’, 국립낙동강생태자원관, 상주자전거박물관, 함창명주테마파크 등 지역 내 명소를 둘러볼 수 있다. &lt;br&gt;&lt;br&gt;곶감 축제장에선 농가별로 48개 곶감 판매 부스를 설치·운영한다. 관광객이 다양한 곶감을 비교해가며 구매할 수 있다. 감껍질 추출물을 활용한 화장품 전시와 축제장 내 무대에서 실시간으로 곶감 판매도 진행한다. 곶감을 활용한 디저트 조리와 시식, 곶감 따기 체험을 비롯해 연날리기와 얼음썰매도 즐길 수 있다. &lt;br&gt;&lt;br&gt;상주시는 이번 축제와 연계해 다음 달 28일까지 곶감을 추가로 증정하는 고향사랑 기부 이벤트를 진행한다. 상주시에 10만원을 기부한 30명을 추첨해 기존 3만원 상당의 답례품에 더해 곶감 24개를 추가로 증정한다. 축제장에서 직접 고향사랑 기부를 할 경우 상주의 명주로 짠 스카프도 추가 증정한다. 강영석 상주시장은 “상주의 보물인 곶감과 함께 새해 겨울을 달콤하게 보내시길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘차은우 탈세 의혹’ 母 법인 전 주소지 봤더니 장어집</title>
