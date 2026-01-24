@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>1208회 로또 1등 6명 ‘대박’…당첨금 각 50억 171만원</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/24/OD44XVY3DBCY7CDP4MCFRSVSV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/24/OD44XVY3DBCY7CDP4MCFRSVSV4/</guid>
+      <dc:creator>정채빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 13:22:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZDGMTEHEYDCZTEGYYDKODGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;로또 복권 추첨기 테스트 장면. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 동행복권에 따르면 1208회 로또 1등 당첨 번호는 ‘6·27·30·36·38·42’이다. 2등 보너스 번호는 ’ 25′다.&lt;br&gt;&lt;br&gt;이날 당첨 번호 6개를 모두 맞힌 1등은 6명이다. 이들은 각각 50억171만3625원을 수령한다. &lt;br&gt;&lt;br&gt;1등 배출점은 총 6곳으로 모두 자동 선택이었다. 자동 선택 6곳은 고척대박복권&amp;amp;카페(서울 구로구), 인터넷 복권판매사이트, 가로판매점(서울 영등포구), 왕대박 복권판매점(대전 유성구), 지에스25 안성칠곡(경기 안성시), 로또복권(경기 오산시)이다.&lt;br&gt;&lt;br&gt;당첨 번호 5개와 보너스 번호를 맞힌 2등은 68명으로 1인당 7355만4613원씩 받는다.&lt;br&gt;&lt;br&gt;당첨 번호 5개가 일치한 3등은 2932명으로, 1인당 170만5906원을 수령한다. 당첨 번호 4개를 맞힌 4등(고정 당첨금 5만원)은 14만9359명, 당첨 번호 3개가 일치한 5등(고정 당첨금 5000원)은 254만4535명이다.&lt;br&gt;&lt;br&gt;당첨금 지급 기한은 지급 개시일로부터 1년이며, 휴일인 경우 다음 영업일까지 지급 가능하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 북구 명촌교 인근 갈대밭 화재…1시간 만에 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/01/24/5UCJH67IWFAPNEATI5USXGNMKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/5UCJH67IWFAPNEATI5USXGNMKQ/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 12:05:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU24CU7CPFCJXA7XK4KSJJDKWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 북구 한 갈대밭에서 불이 나 1시간만에 꺼졌다. /울산소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 7시 26분쯤 울산 북구 명촌동 명촌교 인근 갈대밭에서 불이 나 1시간 만에 꺼졌다.&lt;br&gt;&lt;br&gt;불이 난 곳이 아파트 단지와 인접해 인근 주민들에게 대피하라는 문자가 발송되기도 했다.&lt;br&gt;&lt;br&gt;화재로 인한 인명피해는 없었다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인과 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>국내 송환 ‘캄보디아 스캠 사기단’ 한국인 73명 전원 구속영장 신청</title>
       <link>https://www.chosun.com/national/national_general/2026/01/24/75OSKQ4GLJDB3IPG65FM4WONXQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/24/75OSKQ4GLJDB3IPG65FM4WONXQ/</guid>
@@ -889,16 +907,6 @@
       </media:content>
     </item>
     <item>
-      <title>눈도 쌓이고 추억도 쌓이고</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/23/ICKJY74CXFCXFJ6EVDCU64EU5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/ICKJY74CXFCXFJ6EVDCU64EU5A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D4L5GBEPUVHFPO4PBSMH5JJ5AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 전북 고창군 고창읍성 눈밭에서 관광객들이 기념 사진을 찍고 있다. 고창엔 전날부터 이날 아침까지 5.4㎝ 눈이 내려 쌓였다. 기상청은 “23일에도 강추위가 이어지는 가운데 서해안과 내륙 일부 지방에는 눈이 내릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국토부 서기관 ‘뇌물 수수 사건’ 공소기각</title>
       <link>https://www.chosun.com/national/court_law/2026/01/23/5YT6BRMA5ZEQVHRX5EE2OZNLDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/23/5YT6BRMA5ZEQVHRX5EE2OZNLDM/</guid>
@@ -915,15 +923,6 @@
       <description/>
       <pubDate>Thu, 22 Jan 2026 15:46:00 +0000</pubDate>
       <content:encoded>법무부가 오는 27일자로 단행하는 검사장급 이상 검찰 고위 간부 32명(신규 7명·전보 25명)에 대한 인사를 22일 발표했다. 이재명 정부 출범 7개월 만에 다섯 번째로 단행된 인사다. 이번에도 ‘대장동 항소 포기’ 사태에 집단 반발했던 검사들이 좌천되거나 승진 대상에서 제외됐다. 반면 친여권 성향으로 분류되는 김태훈 서울남부지검장은 이재명 정부 출범 직후 검사장으로 승진한 데 이어 6개월 만에 다시 고검장으로 영전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUEMZ4HZR5GPLGH2OW67YUAPR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘항소 포기 반발’ 검사장들 줄줄이 좌천&lt;/b&gt;&lt;br&gt;&lt;br&gt;박현준 서울북부지검장과 박영빈 인천지검장·유도윤 울산지검장·정수진 제주지검장 등 일선 지검장 4명과 장동철 형사부장·김형석 마약조직범죄부장·최영아 과학수사부장 등 대검찰청 참모(검사장) 3명이 한직으로 꼽히는 법무연수원 연구위원으로 인사 조치됐다. 박영빈 지검장은 이날 인사 발표 직후 사의를 표명했다.&lt;br&gt;&lt;br&gt;이들은 작년 11월 노만석 당시 검찰총장 직무대행이 대장동 사건 항소 포기를 결정했을 때 적극적으로 문제 제기를 했던 것으로 전해졌다. 당시 일선 지검장 18명은 노 전 직무대행에게 “구체적인 경위를 설명해달라”는 내용의 공동 성명서를 냈고, 대검 참모 일부는 직접 노 전 대행에게 용퇴를 건의한 바 있다. 그러자 여권에서는 “검사들의 집단 항명이자 정치 행위”라고 반발했고, 청와대와 법무부도 이들에 대한 감찰을 검토하기도 했다.&lt;br&gt;&lt;br&gt;이후 연대 성명에 참여했던 지검장 18명 중 최선임인 박재억 전 수원지검장이 작년 11월 사의를 표명하면서 감찰은 없던 일이 됐지만, 법무부는 작년 12월 인사에서 박현철·김창진·박혁수 전 지검장을 법무연수원 연구위원으로 전보시켰다. 이어 이번 인사에서 당시 성명서에 이름을 올린 지검장 4명과 노 전 대행에게 사실상 항의성 의견을 낸 대검 참모 3명이 좌천된 것이다.&lt;br&gt;&lt;br&gt;당시 검사장들에 이어 입장문을 냈던 차장검사급 지청장 8명도 이번 인사에서 한 명도 승진하지 못했다. 이 중 용성진 순천지청장과 하담미 안양지청장, 신동원 대구서부지청장, 이동균 안산지청장은 최근 사의를 표명했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇지검장 승진 6개월 만에 고검장 승진&lt;/b&gt;&lt;br&gt;&lt;br&gt;반면 김태훈 서울남부지검장은 이번 인사에서 유일하게 고검장(대전고검장)으로 승진했다. 작년 7월 검사장으로 승진한 지 6개월 만이다. 김 지검장은 문재인 정부에서 대검 정책기획과장·법무부 검찰과장·서울중앙지검 4차장검사 등 요직을 거쳤다. 윤석열 정부 때는 부산·서울고검 검사 등으로 한직에 있었지만, 현 정부로 바뀌면서 다시 중용돼 이달부터 통일교·신천지 등 정교 유착 검경 합동수사본부장을 맡고 있다.&lt;br&gt;&lt;br&gt;신임 검사장 승진 명단에는 김건희 특검에 파견됐던 정광수 대전지검 서산지청장과 장혜영 서울중앙지검 2차장검사 등 7명이 이름을 올렸다. 정 지청장은 대전고검 차장검사로, 장 차장검사는 대검 과학수사부장으로 발령났다.&lt;br&gt;&lt;br&gt;한편 구자현 검찰총장 직무대행과 이진수 법무부 차관은 이번 인사 대상에서 제외됐다. 또 대장동 항소 포기 사태 때 전국 지검장 연대 성명에 참여하지 않았던 임은정 서울동부지검장과 대검 반부패부장으로 항소 포기에 관여한 박철우 서울중앙지검장은 유임됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법무부 “검찰 개혁 위한 새 진용 구축”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법무부에서 검찰 인사·예산을 담당하고 주요 수사 상황을 보고받는 검찰국장에는 이응철 춘천지검장이 임명됐다. 법무 정책 및 대외 업무를 총괄하는 기획조정실장에는 차범준 대검 공판송무부장이, 법령 심사 및 국가 소송 업무를 맡는 법무실장에는 서정민 대전지검장이 각각 보임됐다. 성상헌 현 법무부 검찰국장은 금융·증권 범죄 및 선거 사범 사건을 주로 수사하는 서울남부지검장으로 자리를 옮겼다. &lt;br&gt;&lt;br&gt;법무부는 이번 인사에 대해 “검찰청의 공소청 전환 등 검찰 개혁 과제를 안정적으로 추진하고, 검찰 본연의 업무에 매진할 수 있도록 새로운 진용을 구축하기 위한 것”이라고 설명했다. 검찰 안팎에서는 이번 인사를 두고 “대장동 항소 포기나 검찰청 폐지 등과 관련해 반대 목소리를 낸 검사들에게 사실상 불이익을 준 인사”라는 평가가 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KIR4TFFYNDMRGL3KO4KIE7UWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>택배 기사 산재 보험료, 민노총 “사측이 다 내야”</title>
-      <link>https://www.chosun.com/national/labor/2026/01/23/NV4ZZYQQTBDVDOQJUJJDD5UUOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/01/23/NV4ZZYQQTBDVDOQJUJJDD5UUOY/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>더불어민주당 주도로 새벽 배송 제한 등을 논의하는 ‘택배 사회적 대화 기구’에서 민주노총이 사용자 측에 산재보험료를 전부 부담하라고 주장한 것으로 확인됐다. 전문가들은 이런 주장이 현행법과 헌법재판소 결정과 어긋난다고 지적한다. &lt;br&gt;&lt;br&gt;22일 본지 취재를 종합하면, 민노총 택배노조는 이달 진행된 택배 사회적 대화 기구에서 마켓컬리와 쿠팡 등이 택배 노동자에 대한 산재보험료를 모두 지급해야 한다고 주장했다. 택배 기사 건강권을 위해 산재보험 가입을 늘려야 한다는 것이다.&lt;br&gt;&lt;br&gt;택배 기사들은 근로자와 사업자 성격을 동시에 가진 특수형태근로종사자(노무제공자)다. 현행법은 이를 감안해 근로자의 산재보험료는 사측이 내도록 하고, 노무제공자는 사용자와 반반씩 부담하게 했다. 택배 기사뿐 아니라 배달 기사, 대리운전 기사, 골프장 캐디 등 다른 노무제공자도 절반씩 산재보험료를 낸다. &lt;br&gt;&lt;br&gt;헌법재판소 역시 이런 방침이 문제가 없다고 밝힌 상태다. 지난 2023년 배달 노동자 노조가 헌재에 “근로자와 달리 노무 제공자가 산재보험료를 절반씩 부담하는 것은 부당하다”며 헌법소원을 냈다. 이에 대해 헌재는 “특수 형태 근로 종사자들은 자영업자와 근로자의 모습을 동시에 갖고 있어, 불합리한 차별이 아니다”라며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;수입을 따졌을 때도 택배 기사가 예외를 적용받을 이유가 적다는 견해가 많다. 한국노동경제학회에 따르면, 야간 택배 기사의 월평균 소득은 581만원이고, 이 중 10%는 월 900만원 이상 소득을 올린다. 김주영 민주당 의원이 내놓은 자료를 보면 지난해 1~6월 기준 택배 기사의 월평균 보수액은 441만원으로, 골프장 캐디(321만원), 방문 판매원(223만원), 관광통역안내사(174만원) 등보다 많다. 민노총은 사용자 측이 산재보험료를 모두 부담해 보험 가입률을 높여야 한다고 주장하지만, 택배 기사 가입률은 이미 94.6%에 달한다.&lt;br&gt;&lt;br&gt;업체에 직고용돼 일하는 택배 기사들은 형평성 문제도 제기하고 있다. 근로자로 분류된 자신들의 처우 개선은 뒷전인 채, 노무 제공자 보호에만 회사 예산을 집중하는 것이 맞느냐는 것이다. 정진영 쿠팡 노조위원장은 “현재 논의는 특정 고용 형태에만 특혜를 제공하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘200억 탈세 의혹’ 차은우에... ‘100억 벌면 41억 내는’ 유재석 재조명</title>
