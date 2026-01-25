@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>캄보디아 송환 ‘로맨스 스캠’ 부부 구속…“도주 우려 있어”</title>
+      <link>https://www.chosun.com/national/regional/2026/01/25/NX5XBQOFRZBR7FXL3DBKZERCXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/25/NX5XBQOFRZBR7FXL3DBKZERCXA/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Jan 2026 09:38:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3DKNZQME3WMMJVGNTGEMLCHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아를 거점 삼아 120억원대 '로맨스스캠' 사기를 벌인 혐의를 받는 한국인 총책 부부가 지난 23일 울산경찰청으로 연행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 120억원대 ‘로맨스스캠’ 사기를 벌인 혐의를 받는 한국인 총책 부부가 국내 강제 송환 이틀 만에 구속됐다.&lt;br&gt;&lt;br&gt;울산지법은 25일 오후 2시 구속 전 피의자 심문(영장실질심사)을 열고 강모(33)씨와 안모(30)씨에 대한 구속영장을 발부했다고 밝혔다. 법원은 이들 부부에 대해 “증거를 인멸할 염려가 있고 도주할 염려가 있다”며 영장 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;울산경찰청은 지난 23일 이들 부부를 인천공항에서 울산경찰청으로 압송해 조사를 진행했고, 24일 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;이들 부부는 딥페이크로 가상 인물을 만들고 채팅 앱을 통해 이성에게 접근해 투자 사기 행각을 벌인 혐의를 받는다. 이들이 지난 2024년 3월부터 지난해 2월까지 한국인 100여명을 상대로 가로챈 범죄 수익금만 약 120억원에 달한다.&lt;br&gt;&lt;br&gt;지난해 2월 초에는 캄보디아 현지에서 체포됐다가 풀려나 현지 기관과 ‘뒷거래’를 했다는 의혹도 받고 있다. 석방 이후에는 도주를 위해 성형수술을 받기도 했다.&lt;br&gt;&lt;br&gt;초국가 범죄 대응 범정부 태스크포스(TF)는 이들 부부를 포함한 캄보디아 범죄조직원 73명을 지난 23일 한국으로 송환했다.&lt;br&gt;&lt;br&gt;로맨스 스캠 사건을 수사 중인 울산경찰은 이들 부부를 상대로 조직 총책을 맡게 된 경위와 범죄수익금 은닉 여부, 캄보디아 현지에서 체포됐다가 석방됐던 배경 등을 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 구속된 부부를 대상으로 범죄단체 조직, 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의 등을 계속 수사한 후 이르면 이달 중 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 1월 26일 월요일 (음력 12월 8일 庚子)</title>
       <link>https://www.chosun.com/national/national_general/2026/01/25/23KYT7BGLREZ3GD4IS3GMZ24EA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/25/23KYT7BGLREZ3GD4IS3GMZ24EA/</guid>
@@ -905,15 +914,6 @@
         <media:description type="plain">임영보 감독이 야마나시 퀸비즈 선수들을 지도하고 있다. /야마나시 퀸비즈</media:description>
         <media:credit role="author" scheme="urn:ebu">Tomoaki Sasaki</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>이화여대, 멀티스케일 물질·시스템 연구소(IMMS) 출범</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/23/IVKWAJMC4VBEBB3P2OSOHNVU4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/IVKWAJMC4VBEBB3P2OSOHNVU4M/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Jan 2026 07:19:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QLL72PO2VACTH7FITOFJULWPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 이화여대 ECC 이삼봉홀에서 열린 ‘멀티스케일 물질 및 시스템 연구소(IMMS)’ 개소식. /이화여대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대가 화학·물리·신소재·인공지능 등 미래 전략기술을 선도해 갈 국가연구소를 출범한다.&lt;br&gt;&lt;br&gt;이화여대는 22일 교내 ECC 이삼봉홀에서 ‘멀티스케일 물질 및 시스템 연구소(IMMS)’ 개소식을 열고 학문 간 경계를 허무는 초경계적 융합 연구를 수행할 국가연구소(NRL 2.0)를 출범했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;IMMS는 과학기술정보통신부와 교육부가 공동 지원하는 ‘2025 국가연구소(NRL 2.0) 사업’에 선정된 연구소다. 원자·분자 수준의 소재 설계부터 나노·마이크로 구조 및 시스템 구현에 이르는 멀티스케일 통합 연구·기술 개발의 혁신을 목표로 한다.&lt;br&gt;&lt;br&gt;구체적인 3대 목표로는 물질·시스템 분야 세계 선도 연구 성과 창출, 초경계적 소재 공정 난제 연구 플랫품 구축, 글로벌 과학 인력 양성 파이프라인 가동 등이 제시됐다.&lt;br&gt;&lt;br&gt;IMMS는 향후 10년간 연간 100억원씩 총 1000억원 규모의 블록펀딩 지원을 받게 된다. 이를 통해 실험·이론·인공지능·데이터 기반 연구를 결합해 차세대 에너지 소재, 기능성 신물질, 지능형 시스템 등 국가첨단전략분야에서 연구를 수행할 계획이다.&lt;br&gt;&lt;br&gt;이날 개소식은 이향숙 총장, 김은미 이화학당 이사장, 문회리 IMMS연구소장 등 교내 인사를 비롯해 구혁채 과학기술정보통신부 1차관, 이해숙 교육부 고등평생정책실장, 홍원화 한국연구재단 이사장, 오상록 한국과학기술원 원장, 이영국 한국화학연구원 원장, 류석현 한국기계연구원 원장, 이종찬 동우화인켐 대표이사, 김주성 LiBEST 대표 등 정부 기관 및 학계·산업계 인사 등이 두루 참석했다.&lt;br&gt;&lt;br&gt;구혁채 과학기술정보통신부 1차관은 축사에서 “2026년은 대한민국의 과학기술이 전환기를 맞는 중요한 해”라며 “이화여대가 지금까지 쌓아온 학문적 깊이를 바탕으로 좋은 연구 성과를 창출할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;이향숙 총장은 환영사를 통해 “국가연구소 선정과 멀티스케일 물질 및 시스템 연구소의 출범은 과학기술 혁신을 통해 국가 발전에 기여하는 연구중심대학으로서 이화의 역할을 한층 확장하는 중요한 전환점”이라고 했다. 또한 “국가연구소로서 에너지·환경 등 인류가 직면한 복합적 난제 해결에 기여하고, 지속 가능한 세계적 연구 성과를 창출할 수 있도록 대학 차원의 전폭적인 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;문회리 IMMS 소장은 “IMMS는 대학의 창의적인 연구 역량과 출연연의 인프라와 축적된 경험, 국가의 연구 정책이 현장에서 연결되는 출발점”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“남편이 외도했다”...인천서 남편 중요 부위 절단한 50대 아내 징역 7년</title>
