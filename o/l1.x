@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>문형배 전 헌법재판소장 권한대행, 카이스트 초빙석학교수 부임</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215353.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;문형배 전 헌재소장 권한대행 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1143"&gt;문형배&lt;/span&gt;(사법연수원 18기) 전 헌법재판소장 권한대행이 한국과학기술원(KAIST) 문술미래전략대학원 초빙석학교수로 부임했다고 1월 26일 알려졌다. 그의 거취가 결정된 것은 작년 4월 퇴임한 이후 약 9개월 만이다. &lt;br /&gt;&lt;br /&gt;문 전 대행은 1월 26일 "카이스트 문술미래전략대학원 초빙석학교수로 임용돼 출근 중"이라고 말한 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;그는 퇴임 이후 "영리 목적의 변호사 개업 신고는 하지 않을 것", "정치에는 뜻이 없다"는 취지의 발언 등을 해왔다. 작년 5월에는 서울시립대 로스쿨 교수직을 고민 중인 것으로 알려지기도 했다.&lt;br /&gt;&lt;br /&gt;그는 1월 26일 광주지법에서 열린 '2026 광주고등·지방법원 명사초청 북토크' 강연자로 나서 "많은 대학에서 초빙 의사를 밝혔지만, 로스쿨이 있는 곳으로 가고 싶지 않았다"고 말한 것으로 전해졌다.&lt;br /&gt;</description>
+			<pubDate>Mon, 26 Jan 2026 13:01:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215353</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215353</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215353.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
 			<title>김준기 연대 로스쿨 교수, 밀라노 올림픽 특별중재판정부 중재인으로</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215351.jpg" alt="1.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김준기 연세대 로스쿨 교수&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김준기 연세대 로스쿨 교수가 2026 밀라노 동계올림픽 스포츠중재재판소(CAS) 특별 중재판정부 중재인으로 선임됐다.&lt;br /&gt;&lt;br /&gt;1월 23일 CAS는 특별 중재판정부의 구성원 9명을 발표했다. 그중 김 교수는 유일한 한국인이자 아시아계 중재인이다. CAS는 "이번 특별 중재판정부의 구성원들은 모두 스포츠 법과 중재 분야에 전문성을 갖춘 경험 많은 변호사, 판사, 교수들로 구성했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;밀라노에 상주할 중재인으로는 김 교수를 포함해 제임스 드레이크 호주와 영국 변호사, 이사벨 펠라스 스위스 변호사, 루이지 푸마갈리 이탈리아 교수, 아네트 롬바흐 독일 변호사, 마리안 사롤리 캐나다 변호사 등이 선임됐다. &lt;br /&gt;원격 지원하는 중재인으로는 스테파노 바스티아논 이탈리아 교수, 앙드레 브란트예스 네덜란드 변호사, 조르디 로페즈 스페인 변호사가 선임됐다. &lt;br /&gt;&lt;br /&gt;CAS는 스포츠계의 대법원으로 통하는 국제기구로 본부는 스위스 로잔에 있다. 특별 중재판정부는 올림픽 대회 기간에 일어나는 스포츠 관련 분쟁을 전담 처리한다. 올림픽이나 월드컵 같은 큰 대회 때는 신속한 판정을 위해 현지에 중재인을 상주시켜 경기장 안팎에서 벌어지는 분쟁을 중재나 조정으로 해결한다. 국제올림픽위원회(IOC)가 내린 결정에 선수가 불복하는 경우 등이 해당한다.</description>
 			<pubDate>Mon, 26 Jan 2026 11:20:59 -0000</pubDate>
@@ -220,15 +230,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/215290</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215290</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2026년 1월 24일</title>
-			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;10:00 김준혁 의원실, (2026 더민주 하나되는 대한민국)역사 토크 콘서트(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 23 Jan 2026 22:36:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215293</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215293</guid>
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
