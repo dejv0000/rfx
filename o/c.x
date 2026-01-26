@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울시의회 국민의힘 “김경 제명 직전 사퇴는 꼼수 탈출”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/26/JY4ZK5E2MNFFHM33RFRK6FXETA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/JY4ZK5E2MNFFHM33RFRK6FXETA/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 14:06:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3DINLEMRRDSNDFGJSTANJVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'공천 헌금' 의혹을 받는 김경 서울시의원이 지난달 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 ‘1억 공천 뇌물’ 사건의 핵심 피의자인 김경 서울시의원이 26일 시의원직 사퇴 입장을 밝힌 것을 두고 서울시의회 국민의힘이 “시민을 기만하는 비겁한 도주이자 꼼수 탈출”이라고 강하게 비판했다.&lt;br&gt;&lt;br&gt;서울시의회 국민의힘 채수지 대변인은 이날 논평에서 “김경 시의원의 제명 직전 사퇴는 결코 책임 있는 결단이 아니다”라며 “제명을 하루 앞두고 던진 사퇴는 진정성 있는 사죄가 아니라 자신의 유불리를 저울질하며 선택한 전략적 ‘꼼수 탈출’”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “윤리특별위원회를 통한 강제 퇴출이 임박하자 ‘제명 의원’이라는 불명예만은 피하겠다는 계산 끝에 사퇴서를 제출한 것”이라며 “이는 책임 정치가 아닌 책임 회피”라고 했다. 또 “의원직을 내려놓았다고 해서 지은 죄가 사라지는 것은 아니며, 사퇴는 결코 면죄부가 될 수 없다”고 강조했다.&lt;br&gt;&lt;br&gt;채 대변인은 “1억 공천헌금 상납 등 매관매직, 업무추진비 유용과 가족회사 특혜 수주, 직원 갑질과 권력 남용 등 각종 비위 의혹이 눈덩이처럼 불어났다”며 “그 과정에서도 김 의원은 반성은커녕 구차한 변명으로 일관했다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “경찰은 증거 인멸 상습범 김경에 대해 즉각 구속영장을 신청하라”며 “사법당국은 김경–강선우–김병기로 이어지는 민주당 공천헌금 게이트의 윗선을 성역 없이 수사해야 한다”고 요구했다. 더불어민주당을 향해서는 “‘휴먼 에러’라는 궤변을 멈추고 시스템 부패에 대해 서울 시민 앞에 석고대죄하라”고 했다.&lt;br&gt;&lt;br&gt;한편 김 시의원은 이날 입장문을 내고 “서울시의회 의장에게 시의원직 사직서를 제출했다”며 “공직자로서 지켜야 할 도덕적 책무를 다하지 못한 점에 대해 무거운 책임을 통감한다”고 밝혔다. 지난해 12월 29일 공천헌금 정황이 담긴 녹음 파일이 공개된 지 28일 만이다.&lt;br&gt;&lt;br&gt;김 시의원은 2022년 지방선거를 앞두고 당시 더불어민주당 공천관리위원이던 강선우 의원에게 공천 대가로 1억원을 건넨 혐의로 서울경찰청 공공범죄수사대의 수사를 받고 있다. 최근에는 다른 민주당 인사들에게 금품을 전달하려 한 정황이 담긴 추가 녹취가 확보되면서 수사가 확대됐고, 지난 24일에는 관련 압수수색도 이뤄졌다. 김 시의원을 둘러싼 가족회사 특혜 수주 의혹에 대해서는 서울시 감사도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 송환 ‘캄보디아 로맨스 스캠’ 피의자 17명 전원 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/01/26/ZXXA2R2NERF7ZPRXEVWFJOX4JU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/26/ZXXA2R2NERF7ZPRXEVWFJOX4JU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 13:29:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4DON3EGEZDAM3CMQYTOOJSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 로맨스스캠 사기를 벌인 혐의를 받는 피의자들이 26일 구속 전 피의자 심문(영장실질심사)을 받기 위해 대전지법 홍성법원으로 이송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 로맨스 스캠(사기) 등에 가담한 혐의로 국내로 압송돼 충남경찰청에서 수사받아온 피의자 17명이 경찰에 전원 구속됐다.&lt;br&gt;&lt;br&gt;대전지법 홍성지원은 이날 오후 이들에 대한 구속 전 피의자 심문(영장실질심사)을 진행해 구속영장을 발부했다고 밝혔다.&lt;br&gt;&lt;br&gt;주요 구속 사유는 ‘증거 인멸’과 ‘도망의 염려’다.&lt;br&gt;&lt;br&gt;이날 영장실질심사를 앞두고 6명이 심문을 포기해 11명이 법정에 출석했다.&lt;br&gt;&lt;br&gt;일부 피의자는 혐의를 부인했으나 법원은 범죄 혐의가 소명됐다고 판단했다.&lt;br&gt;&lt;br&gt;현지 1개 범죄 조직에 속했던 이들은 인터넷 사이트를 통해 피해자들에게 여성을 매칭시켜 주겠다고 속여 30여명의 피해자로부터 약 50억원을 편취한 혐의(범죄단체 가입 및 활동·통신사기피해환급법 위반)를 받는다.&lt;br&gt;&lt;br&gt;경찰은 이들이 2024년 12월부터 지난달까지 3개의 사이트를 운영하며 피해자들로부터 가입비·인지비 명목의 입금을 받고 일부를 출금해 주는 방식으로 신뢰를 쌓다가 나중에 거액을 편취하는 수법으로 범행한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;피의자들은 주로 지인의 소개를 받거나 텔레그램 등 SNS를 통해 고수입 일자리를 찾아 캄보디아로 출국했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;일부는 국내 범죄에 연루돼 처벌받을 위기에 처하자 이를 피해 캄보디아로 넘어간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;대부분 20∼30대인 이들은 대체로 범행을 사전에 인지하고도 범죄에 가담했고 범죄 수익금 일부를 성과금으로 받았다.&lt;br&gt;&lt;br&gt;전체 조직원 규모는 60여명으로, 경찰은 아직 검거되지 않은 외국인 총책의 신원을 파악해 적색 수배를 내렸다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “구속한 피의자들에 대해서는 범행 가담 경위 등 추가 부분을 신속히 수사해 이번 주 내로 송치할 계획”이라며 “총책 등에 대한 추적도 이어가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정보과 부활, 물갈이... 경찰은 승진시험 열공 중</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/26/QKICYP4MLBHNNHCOG46PSYPMR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/QKICYP4MLBHNNHCOG46PSYPMR4/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 13:17:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLH55IUCYJJ63FEFNKL3XPG45Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 충남 아산 경찰대학 이순신홀에서 열린 '2025년 신임경찰 경위·경감 임용식'에 신규 임용 경찰들이 참석해 있다. /경찰대학&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 이번 주 경정 이하급 승진 인사를 발표할 것으로 26일 알려졌다. 이번 인사에선 경정 승진자가 예년보다 대폭 늘어날 것으로 예상돼 일선 경찰관들이 승진을 기대하고 있다. 경정은 경찰서 과장, 시·도 경찰청 계장, 경찰서 지구대장 등을 맡는 경감 위, 총경 아래 계급이다.&lt;br&gt;&lt;br&gt;경정 승진자가 늘어나는 건 올해 상반기 일선 경찰서 대부분에서 폐지됐던 정보과가 다시 설치되는 것과 관련 있다. 정보과 신설에 따라 정보과장을 맡을 경정급 간부가 대규모로 필요해졌다는 것이다. 경찰에선 예년에 비해 올해 정년 퇴직자가 많은 것도 영향을 미쳤다는 말이 나온다.&lt;br&gt;&lt;br&gt;이번 인사에선 경찰청(본청)에서만 경정 승진자가 50~60명 나올 것이란 전망이 나온다. 지난해 인사 때 경찰청에서 경정으로 승진한 사람은 32명이었는데 이번 인사에선 두 배가 될 가능성이 있다는 것이다. 경찰청에 근무하는 한 경감은 “경찰청 주요 과마다 1명 이상 경정으로 승진할 것이라는 소문도 돈다”고 했다.&lt;br&gt;&lt;br&gt;경정 승진 방법은 두 가지로 나뉜다. 근무 평정 등을 통해 대상자들의 승진 여부를 결정하는 ‘승진 심사’와 시험을 치르는 ‘승진 시험’이다. 경찰은 28~29일 승진 심사를 통해 대상자 명단을 발표한다. 이와는 별도로 31일에는 전국 경찰관을 대상으로 승진 시험도 실시한다. 시험을 보려는 경감급 경찰관들 사이에선 막바지 ‘열공(열심히 공부)’ 분위기가 감지된다. 승진 시험 결과는 다음 달 5일 발표된다. &lt;br&gt;&lt;br&gt;반면 총경급 이상 승진 인사는 계속해서 지연되고 있다. 통상 경찰은 매년 12월부터 치안정감, 치안감 등 고위 간부 승진 인사를 먼저 진행한 후 1월까지 경무관, 총경 등 승진 인사를 발표했다. 하지만 이번에는 고위 간부 인사는 미뤄둔 채 경정급 인사부터 하는 것이다.&lt;br&gt;&lt;br&gt;비상 계엄 가담 여부를 조사하고 있는 ‘헌법존중 정부혁신 태스크포스(TF)’ 때문에 임명이 미뤄진다는 관측이 나온다. 헌법존중 TF는 지난 16일까지 각 기관에 대한 조사를 마무리했다. 국무총리실은 각 기관의 조사 결과를 모아 이달 안에 발표할 전망이다.&lt;br&gt;&lt;br&gt;TF 조사가 완료되면서 대대적인 물갈이 인사가 이뤄질 수 있다는 관측도 나온다. 총경급부터는 계엄 당시 지휘 책임을 물어 승진 취소나 징계 등의 처분을 받는 인원이 적지 않을 것으로 전해졌다. 경찰 안팎에선 “새 정부가 경찰 간부들을 대상으로 피아(彼我) 식별 작업 중”이란 말이 나온다. 올해 총경 승진 대상자인 8~9년 차 경정급 경찰관들은 “일이 손에 안 잡힌다”며 인사 동향을 살피고 있다.&lt;br&gt;&lt;br&gt;계엄 당시 상부 지시에 따라 중앙선거관리위원회 연수원에 경찰관을 보냈던 경기 지역 모 경찰서장은 지난해 말 정년 퇴임을 앞두고 정직 3개월의 징계를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“휴먼 에러인데 왜 시스템 손대나” 문형배, 與 사법개혁안 또 비판</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/26/LPDWJGV32VD7XL34PACY7LUWCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/LPDWJGV32VD7XL34PACY7LUWCM/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 12:38:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZTQNRZGAYGIOBXGIYWEYRRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 전 헌법재판소장 권한대행이 26일 광주 동구 광주고법 대회의실에서 열린 '2026년 광주고법·지법 새해맞이 명사 초청 북토크'에 참석해 강연하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 전 헌법재판소장 권한대행이 광주를 찾아 더불어민주당이 추진하는 사법 개혁안을 비판했다. 사법 개혁안이 사법부 독립성을 약화시킬 수 있다는 반대 입장을 거듭 내놓은 것이다.&lt;br&gt;&lt;br&gt;문 전 대행은 26일 광주고법 대회의실에서 열린 ‘명사 초청 북토크’에 나서 “‘휴먼 에러’(인간적 실수)가 있다면 휴먼을 고쳐야지, 왜 시스템에 손을 쓰려고 하느냐”며 “사법의 독립은 사법부가 존재하기 위한 근본 조건”이라고 말했다.&lt;br&gt;&lt;br&gt;민주당은 대법관 증원, 재판소원(법원 재판에 대한 헌법소원), 법원행정처 폐지 등을 담은 사법 개혁안을 추진 중이다. 이를 두고 사법부의 독립성은 줄고 정치적 영향력이 커질 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;문 전 대행은 지난해 12월 11일 대법원이 개최한 ‘사법 제도 개편’ 공청회 마지막 날 토론에서 “분노는 사법 개혁의 동력이지만 내용이 될 순 없다”며 “민주당이 제시한 법안이 진정 사법 개혁을 실현할 수 있는 내용인지 묻고 싶다”고 했었다.&lt;br&gt;&lt;br&gt;문 전 대행은 이날 공개 석상에서 “정치인은 정치인의 역할을, 법률가는 법률가의 역할을 해야 한다”며 사법 개혁 반대 목소리를 이어갔다.&lt;br&gt;&lt;br&gt;그러면서도 “독립만으로는 사법부가 존재할 수 없다. 국민의 신뢰를 받지 못하면 무슨 역할을 하겠는가”라며 법원을 향한 쓴소리도 했다.&lt;br&gt;&lt;br&gt;문 전 대행은 “구속 기간을 날이 아니라 시간으로 계산한 것을 한 번도 본 적이 없다. 관행을 바꿀 필요가 있으면 민초 사건에서 바꿔야지 왜 대통령 사건에서 바꾸느냐”며 윤석열 전 대통령 구속 사건을 언급했다.&lt;br&gt;&lt;br&gt;문 전 대행은 최근 한국과학기술원(KAIST) 석학교수로 초빙받은 근황도 전했다. 그는 “많은 대학에서 초빙 의사를 밝혔지만 로스쿨로는 가고 싶지 않았다. AI(인공지능) 산업의 고민거리를 해결하기 위해 법률가의 역할이 필요하다는 생각”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X4AAFHE5NRAZTPGHITPN7HXRKQ.jpg?auth=eab7886fe5838aabef2cb7739c9f991cd25aaf963afde7c84770cc0fc4a95973&amp;smart=true&amp;width=576&amp;height=359" type="image/jpeg" height="359" width="576">
+        <media:description type="plain">광주법원 특강하는 문형배 전 대행</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>대전통영고속도로서 멈춰있던 승용차 추돌 사고…60대 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/01/26/EBJIBRB2UVDP7OIKQBCDX7TYTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/26/EBJIBRB2UVDP7OIKQBCDX7TYTU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 11:53:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4TEZBWGYZTOZJWG44TKOLBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1 2016.3.22/뉴스1 ⓒ News1 신채린 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오후 5시 18분쯤 전북 무주군 적상면 대전통영고속도로 졸음쉼터 인근에서 20대 A씨가 몰던 아이오닉 차량이 도로에 멈춰 있던 아반떼 차량을 들이받는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 아반떼 운전자인 60대 B씨가 심정지 상태로 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;당시 사고는 단독 사고로 멈춰 선 아반떼를 뒤에서 달려오던 아이오닉이 추돌하면서 발생했다.&lt;br&gt;&lt;br&gt;경찰은 아이오닉 운전자 A씨를 입건하는 한편 차량 블랙박스 등을 토대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 알리익스프레스 ‘셀러 계정 해킹 의혹’ 내사 착수</title>
       <link>https://www.chosun.com/national/regional/2026/01/26/FEVM3PXXKNEY5DK47HLJ5G6INE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/26/FEVM3PXXKNEY5DK47HLJ5G6INE/</guid>
@@ -612,16 +660,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAG3KHDPNRBVPM6C6LKTRFAY6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문네거리에서 바라본 코리아나 호텔 전광판 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방탄소년단(BTS)이 3월 21일 서울 광화문광장에서 컴백 공연을 열기로 한 가운데, 코리아나호텔 등 광화문광장 주변에 설치된 대형 전광판으로도 공연을 볼 수 있을 전망이다. 공연 전후 서울광장과 여의도공원 등에서는 팬들을 위한 부대행사가 열릴 것으로 보인다.&lt;br&gt;&lt;br&gt;25일 서울시 등에 따르면, 서울시와 종로구, BTS의 소속사인 하이브 등은 이러한 내용의 공연 계획을 협의 중이다. 좀 더 많은 팬이 안전하게 공연을 즐길 수 있게 하자는 취지다. 업계에 따르면, BTS 컴백 공연에는 약 20만명이 몰릴 것으로 예상된다. 광화문광장 수용 인원(1만8000명)의 11배 수준이다. 무료 공연이라 해외 팬들도 들썩이고 있다. 광화문광장 주변에는 코리아나호텔, KT광화문빌딩 웨스트 등에 대형 전광판이 설치돼 있어 공연 영상을 생중계할 수 있다. 업계 관계자는 “전광판을 활용하면 광화문광장 밖에 있는 팬들도 공연을 감상할 수 있다”며 “관련 영상을 틀어 공연을 더 다이내믹하게 연출할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;하이브와 서울시는 공연 전후 서울광장, 여의도공원, 여의도한강공원 등에서 부대행사를 여는 방안도 검토하고 있다. 하이브 측이 서울시에 “팬들이 즐길 수 있는 체험 공간이 있으면 좋겠다”고 요청한 데 따른 것이다. 앞서 2023년 6월에는 여의도한강공원에서 BTS 데뷔 10주년 기념 행사가 열렸다. 기념 사진을 찍을 수 있는 ‘포토 존’을 만들고 불꽃 축제도 했다. 당시 BTS 팬 약 40만명이 참여했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “서울 곳곳에서 다양한 컴백 축하 행사를 열어 시민과 BTS 팬들이 함께 즐길 수 있게 할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [산 이야기] 우리나라에서 다섯째로 높지만… 오르기 쉬워 ‘개방적인 산’으로 불려요</title>
-      <link>https://www.chosun.com/national/nie/2026/01/26/UBX5OLQS7JGE5NNFHOUFCVTLZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/26/UBX5OLQS7JGE5NNFHOUFCVTLZE/</guid>
-      <dc:creator>신준범 월간 산 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 25 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQJTMHJBVBEHPCKOSGUWP6TYFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 조선일보 DB
-계방산 1492m 봉우리를 찾은 산행객들이 강원도 산줄기를 바라보고 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 등산을 할 땐 동상과 저체온증, 미끄러짐 사고를 조심해야 해요. 그런데 겨울에 가장 인기 있는 산이 있습니다. 바로 강원도 평창과 홍천의 경계에 솟은 계방산(1577m)입니다. 한겨울에 초보자도 등산할 수 있는 산이기 때문이에요. 그래서 ‘계방산은 개방적’이라는 농담도 있습니다. &lt;br&gt;&lt;br&gt;그런데 계방산 높이만 생각하면 초보자에게 쉽지 않아 보여요. 우리나라에서 다섯째로 높은 산이거든요. 한라산(1950m), 지리산(1915m), 설악산(1708m), 덕유산(1614m) 다음이 계방산입니다. 흙이 많은 산을 사람의 살[肉]에 빗대어 육산(肉山), 바위가 많은 산을 뼈[骨]에 빗대어 골산(骨山)이라고 부르는데요. 계방산은 크고 높은 육산입니다. &lt;br&gt;&lt;br&gt;이렇게 높은데도 계방산 산행이 쉬운 건 운두령(雲頭嶺) 덕분이에요. 운두령은 해발 1089m에 있는 고개로, 우리나라에서 국도로 갈 수 있는 가장 높은 곳이에요. 그래서 이름도 ‘항상 구름이 걸쳐 있는 고개’라고 붙여졌습니다. 운두령에서 산행을 시작하면 계방산 정상까지 고도 488m만 올라가면 되고, 거리도 4㎞ 정도입니다. 정상까지 완만한 오르막이 계속 이어지며, 넉넉히 잡아도 3시간이면 정상에 갈 수 있습니다.&lt;br&gt;&lt;br&gt;계방산(桂芳山)이란 이름은 계수나무 계(桂) 자와 향기 날 방(芳) 자를 써서 ‘계수나무 향기가 나는 산’이라고 알려져 있습니다. 그런데 계방산에는 옛날부터 계수나무가 없었다고 합니다. 조선 시대에는 계방산을 ‘연방산(燕方山)’이라 불렀습니다. 제비 연(燕) 자를 썼는데, 이는 ‘편안하다’는 뜻으로 해석되기도 합니다. 산세가 완만해 문턱이 낮은 계방산과 어울리는 이름입니다.&lt;br&gt;&lt;br&gt;대표적인 하산 코스는 노동계곡입니다. 노동계곡에는 수령 1000년에 이르는 주목 군락이 있어 겨울 숲의 분위기를 느낄 수 있습니다. 운두령에서 출발해 정상을 거쳐 노동계곡으로 내려오는 산행은 9㎞이고, 5~6시간 정도 걸립니다. 계방산은 초보자에게 너그러운 산이지만 바람이 강해 방심하면 안 됩니다. 바람을 막아주는 외투와 두꺼운 장갑, 모자, 얼굴을 가릴 수 있는 장비가 필요합니다.&lt;br&gt;&lt;br&gt;계방산은 경치도 개방적입니다. 정상에 가까워질수록 시야가 시원하게 트이는데요. 첩첩이 이어진 강원도 산줄기와 백두대간 줄기가 한눈에 들어옵니다. 정상과 1492m 봉우리에 전망대가 있습니다. 강원도 산들은 대체로 숲이 울창해 전망이 트인 곳이 드문데, 계방산에서는 멋진 풍경을 즐길 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>어린이에게 ‘두쫀쿠’ 받은 李대통령 “두바이에서 왔나, 참 희한”</title>
       <link>https://www.chosun.com/national/national_general/2026/01/25/YXQSZI6IHRDYZKHZHQOJQT7HE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/25/YXQSZI6IHRDYZKHZHQOJQT7HE4/</guid>
@@ -662,15 +700,6 @@
       </media:content>
     </item>
     <item>
-      <title>흉기로 저항한 중국 불법조업 어선 2척 나포… 해경대원 1명 부상</title>
-      <link>https://www.chosun.com/national/regional/2026/01/25/RYADIV3SHJD35NYID354M7C5XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/25/RYADIV3SHJD35NYID354M7C5XA/</guid>
-      <dc:creator>목포=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 25 Jan 2026 06:02:43 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTAYZRG5RTQZRXMIZDOYJSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;목포해양경찰서 대원들이 지난 24일 전남 신안군 가거도 해상에서 불법 조업 중인 중국어선을 단속하고 있다./목포해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 신안군 가거도 인근 우리 측 배타적 경제수역(EEZ)에서 불법 조업을 하던 중국 어선 2척이 해경에 나포됐다. 중국 선원들은 단속 과정에서 흉기까지 휘두르며 격렬히 저항했다. 특히 해경 대원은 너울성 파도 탓에 추락해 부상을 입었다.&lt;br&gt;&lt;br&gt;목포해양경찰서는 지난 24일 오후 7시쯤 신안군 가거도 남서쪽 약 103㎞ 해상에서 무허가 조업을 하던 중국 국적 범장망 어선 A호와 B호를 ‘경제수역어업주권법 위반’ 혐의로 나포했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;해경은 나포한 어선 두 척을 목포해경전용부두로 압송했고, 선원 28명을 조사하고 있다. 흉기를 사용해 단속을 방해한 중국 선원들은 특수공무집행방해 혐의를 적용해 엄중히 처벌할 방침이다. &lt;br&gt;&lt;br&gt;채수준 목포해양경찰서장은 “대한민국 해양 주권을 침해하고 정당한 공권력에 대항하는 불법 행위는 무관용 원칙으로 엄정하게 대처하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;해경에 따르면, 최근 야간을 틈타 치어까지 싹쓸이하는 ‘게릴라식’ 불법 조업이 기승을 부리고 있다. 해경은 이를 근절하기 위해 항공기와 경비 함정을 동시에 투입하는 입체 작전을 펼치고 있다. &lt;br&gt;&lt;br&gt;이번에도 항공기는 불법 양망(그물을 걷어 올리는 행위) 현장을 하늘에서 포착했고, 고속 단정이 해당 어선에 빠르게 접근해 검색 작전을 벌였다. 이를 통해 각종 치어 등 불법 어획물 1.2t을 압수했다.&lt;br&gt;&lt;br&gt;검거 과정에서 해경 대원이 부상을 입었다. 도주하는 중국 어선에 등선하던 해경 대원 1명이 중국 어선에 위태롭게 접안해 있던 해경 고속 단정에 추락해 다쳐 육지로 긴급 이송됐다. 거센 너울성 파도가 치고 있어 어선과 고속 단정이 크게 출렁거렸고, 이때 추락 사고가 났다고 해경은 전했다. 당시 일부 중국 선원이 흉기를 들고 위협하며 해경 단속에 강력히 저항하기도 했다. &lt;br&gt;&lt;br&gt;해경 관계자는 “흉기 저항이 추락 사고의 직접적인 원인은 아니었다”며 “다행히 검진 결과 대원은 크게 다치지 않아 입원하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>압수 비트코인 분실하고 입 닫은 검찰… 수백억대 피싱 범죄 추정만</title>
       <link>https://www.chosun.com/national/national_general/2026/01/25/KXWAIZ5D5ZA5JG32DFHBXJXGVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/25/KXWAIZ5D5ZA5JG32DFHBXJXGVE/</guid>
@@ -682,37 +711,6 @@
         <media:description type="plain">광주고등지방검찰청. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>‘조카 허위취업 시켜 뇌물수수’ 前 환경산업기술원장 1심 실형</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/25/647C4VBZE5FEVHS7CO7XZVICYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/25/647C4VBZE5FEVHS7CO7XZVICYU/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 25 Jan 2026 03:51:49 +0000</pubDate>
-      <content:encoded>폐플라스틱 재생 업체에 도움을 주는 대가로 조카를 허위 취업시킨 후 약 4500만원을 수수한 혐의를 받는 최흥진 전 한국환경산업기술원장이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NEONNL5P2FATE6IJ2JWQHXZ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 서울중앙지법 형사21부(재판장 이현복)는 특정범죄가중처벌법상 뇌물 혐의로 기소된 최 전 원장에게 지난 12일 징역 2년 6개월과 벌금 5000만원을 선고했다. 4500여 만원의 추징도 명했다.&lt;br&gt;&lt;br&gt;최 전 원장은 지난 2021년 폐플라스틱 재생 업체 대표 정모씨를 알게 된 후 업무를 도우며 친분을 쌓았다. 최 전 원장은 정씨에게 환경부 고위 공무원, 지방 중소벤처기업청장을 소개해주는 등 지원을 이어갔다고 한다. 그러던 중 최 전 원장은 2022년 5월 정씨와의 식사 자리에서 조카 A씨를 소개했다. 최 전 원장은 이 자리에서 “조카가 몸이 불편해 일자리를 구하기 쉽지 않다” 등의 말을 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이후 최 전 원장은 같은 해 9월 한국환경산업기술원장에 취임했는데, 정씨는 A씨의 아내를 회사 직원으로 허위 등재한 후 2022년 11월부터 2023년 11월까지 총 13회에 걸쳐 급여 명목으로 4500만원을 계좌로 송금했다. 해당 계좌는 최 전 원장이 직접 관리·사용한 것으로 파악됐으며, 검찰은 최 전 원장이 정씨에 대한 지원 대가로 뇌물을 받았다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 최 전 원장 등에 대해 공소사실을 인정하며 유죄로 판단했다. 재판부는 “최 전 원장과 직무관련성 있는 회사를 운영하는 정씨가 최 전 원장의 조카를 가장 취업시키는 방법으로 급여 명목의 뇌물을 지급했다”며 “발각되기 어려운 형태의 범행으로 죄질이 좋지 않다”고 했다. 이어 “그 이익도 현재까지 보유하고 있는 점 등에 비춰 피고인에 대해 실형 선고는 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;다만 범행이 최 전 원장의 구체적 직무수행에 영향을 미치진 않은 것으로 보이는 점, 벌금형을 초과하는 전과가 없는 점, 오랜 시간 공직에서 업무를 담당하며 일정 부분 공익에 기여한 점 등이 고려돼 법정구속은 하지 않았다. 재판부는 특가법상 뇌물 방조 혐의를 받는 정씨와 뇌물공여 혐의를 받는 A씨에게는 각각 징역 1년 6개월에 집행유예 2년, 징역 10개월에 집행유예 2년을 선고했다. A씨에게는 벌금 2500만원도 선고됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“감자튀김 쌓아놓고 같이 먹으실 분” …이런 모임도 있다고?</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/25/USSPPGFBZVFI3JDZ2QYFKWHKBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/25/USSPPGFBZVFI3JDZ2QYFKWHKBM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 23:59:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEWS3ZD32NH2PCH5BDRVE7P35Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인에서 화제가 된 감자튀김 모임 게시물. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 지역 생활 커뮤니티에서 감자튀김을 주제로 한 ‘감튀 모임’이 잇따라 생기고 있다. 특정 활동이나 목적 없이, 단순히 감자튀김을 좋아한다는 공통점 하나로 모이는 동네 모임이다. &lt;br&gt;&lt;br&gt;감자튀김 모임이 가장 먼저 화제가 된 건 온라인 커뮤니티다. 한 일본인이 올린 게시물로, 감자튀김을 좋아하는 이들이 맥도날드에 모여 햄버거 없이 오로지 감자튀김과 음료만을 먹는 사진이었다. 또 다른 사진에는 모임 탄생 11주년을 맞아 한 남성이 같은 장소에서 홀로 감자튀김을 먹는 모습이 담겼는데, 네티즌들은 “약한 자는 살아남지 못하는 모임”이라며 놀라워했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GBG4PKOLZBNREN7LX2JETIDHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;동네생활 커뮤니티 당근 모임 탭에 생성된 '감튀 모임' 목록. /당근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇게 온라인에서 회자되던 사례가 동네 단위 모임으로 옮겨오며 실제 참여로 이어지고 있다. 지역 생활 커뮤니티 당근에 따르면, 성산제2동의 ‘감튀 동아리’ 모임은 최근 가입자 수 500명을 넘어섰다. 지난 7일 개설된 대치동 ‘맥도날드 감튀 모임’에는 2주 만에 266명이 모였다. 이달 1일부터 20일까지 당근 모임 내 ‘감자튀김’ 관련 검색량은 전월 동기 대비 약 2배 증가했다. &lt;br&gt;&lt;br&gt;감자튀김 모임은 별다른 규칙 없이 자유롭게 운영된다. 동네 프랜차이즈 패스트푸드점을 중심으로 여러 명이 감자튀김을 함께 주문해 나눠 먹는 오프라인 모임이 열리면, 자신이 원하는 때에 참석하면 된다. 모임 소개 글도 간단하다. “감튀를 좋아하는 사람들끼리 모여서 같이 먹는 모임입니다” “맥도날드에 모여 감튀만 잔뜩 시켜 먹을 분 구해요” 등이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQULBPZ6XFBBHE5GCUCBFXJSCA.png"&gt;&lt;figcaption&gt;&lt;small&gt;감자튀김 모임 게시물. /당근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;감자튀김을 더 맛있게 먹을 수 있는 자신만의 비법도 공유된다. 한 참가자는 ‘가장 맛있는 감튀 조합’으로 “감튀에 맥플러리 오레오”를 꼽았고, ‘감자튀김이 가장 맛있는 순간’으로는 “튀기고 있는 감튀 기다리다가 소금 더 뿌려서 달라고 한 다음 눅눅해지기 전”을 꼽았다. 간혹 어느 브랜드의 케찹과 맛 궁합이 가장 좋은지, 감자튀김은 왜 꼭 사각형인 것인지, 삼각형으로 하면 안 되는 것인지 등 진지한 토론이 벌어지기도 한다. &lt;br&gt;&lt;br&gt;당근 관계자는 “젊은 세대를 중심으로 하나의 음식이나 취향을 주제로 한 가벼운 모임들이 다양하게 만들어지고 있다”며 “감자튀김 모임처럼 일상적인 소재를 중심으로 한 동네 모임이 이용자들 사이에서 흥미로운 사례로 주목받고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZEWS3ZD32NH2PCH5BDRVE7P35Q.jpg?auth=0ef2d4bb3f96ca5f4a130f3e1013ad0f17f9cdf13f66c7bf90f012e9def810cf&amp;smart=true&amp;width=481&amp;height=361" type="image/jpeg" height="361" width="481">
-        <media:description type="plain">온라인에서 화제가 된 감자튀김 모임 게시물. /온라인 커뮤니티</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>“전자담배는 담배 아냐” 부담금 취소 소송 낸 사업자들…법원 “담배 맞지만 부담금 취소”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/25/SOFC45CFPNDZ3NBFGZQCWYFWRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/25/SOFC45CFPNDZ3NBFGZQCWYFWRY/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 25 Jan 2026 03:15:47 +0000</pubDate>
-      <content:encoded>보건복지부가 수입한 액상 니코틴이 ‘연초의 잎’이 아닌 ‘뿌리·대줄기’에서 추출됐다고 신고한 전자담배 수입업자들에게 부과한 국민건강증진부담금을 취소해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIGDJAOFDDISKIKUSQRTDLCPOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경. /서울가정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정9부(재판장 김국현 법원장)는 지난해 11월 17일 한국에서 전자담배 액상을 판매하는 A씨 등 사업자 6명이 보건복지부 장관을 상대로 제기한 국민건강증진부담금 부과처분 취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;A씨 등은 2018년부터 2020년 사이 61회에 걸쳐 전자담배 용액 약 6100L를 수입했다. 이들은 니코틴을 ‘연초의 뿌리·대줄기’에서 추출했다고 세관에 신고했는데, 해당 물품이 담배사업법상 담배가 아니라고 봐 국민건강증진부담금을 제품 가격에는 반영하지는 않았다. &lt;br&gt;&lt;br&gt;앞서 기획재정부는 2016년 잎이 아닌 줄기나 뿌리에서 추출한 니코틴은 담배사업법상 담배에 해당하지 않아 부담금 부과 대상이 아니라는 유권해석을 내린 바 있다. 그러나 보건복지부는 이들이 수입한 액상 니코틴이 ‘연초의 잎’을 원료로 한 담배에 해당한다고 보고 A씨 등에게 각각 2억7860만~10억3710만원의 부담금을 부과했고, A씨 등은 담배가 아니라며 부담금 취소 소송을 제기했다.&lt;br&gt;&lt;br&gt;우선 재판부는 이들이 수입한 물품이 담배사업법상 담배에 해당한다고 판단했다. 재판부는 A씨 등이 액상 니코틴을 수입한 동일 제조사가 과거 생산했던 니코틴 용액을 연초의 대줄기가 아닌 연초의 잎에서 추출된 것으로 인정한 선행 판결을 고려했다고 설명했다. 재판부는 “원고들이 제출한 증거만으로는 확정된 선행 판결들에서 인정된 사실을 뒤집고 업체가 생산한 담배가 연초의 잎이 아닌 연초의 대줄기에서 추출됐다는 사실을 인정하기 부족하다”고 했다.&lt;br&gt;&lt;br&gt;다만 보건복지부의 부담금 부과 처분이 비례의 원칙·평등의 원칙에 위배된다며 부담금은 취소해야 한다고 판단했다. 재판부는 A씨 등이 수입한 니코틴 용액을 담배사업법상 담배에 해당한다고 인식하지 못한 과실은 있으나, 이들이 해당 용액이 연초의 잎에서 추출됐음을 인식했다고 볼 자료가 부족하다고 봤다. 또 원고가 제조사로부터 받아 세관에 제출한 서류가 허위로 작성됐다고 볼 자료 역시 부족하다고 판단했다. 이외에도 A씨 등에게 부과된 국민건강증진부담금이 업체 매출액의 약 3.5배에 달하는 등 “부담금 액수가 원고들이 더 이상 사업을 영위할 수 없을 압살적·몰수적인 수준이라 직업수행의 자유와 재산권을 본질적으로 제한한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;재판부는 이 같은 판단과 함께 담배를 ‘연초의 잎’과 ‘연초의 뿌리·대줄기’로 구분한 법령을 지적하기도 했다. 재판부는 “합성니코틴이 오히려 잎 추출 니코틴에 비해 높은 순도로 제조되거나 유해물질을 더 많이 함유할 수도 있다”며 “담배 소비를 억제해 흡연으로 인한 건강상 피해를 감소시키고자 하는 국민건강증진부담금의 목적에서 보면 잎 추출 니코틴, 대줄기 추출 니코틴, 합성니코틴 모두 같이 규제돼야 한다”고 짚었다.&lt;br&gt;&lt;br&gt;한편 판결이 선고된 이후 국회에선 연초의 뿌리나 대줄기 등에서 추출된 액상 니코틴 역시 담배로 봐야 한다는 내용의 담배사업법 개정안이 국회를 통과했다. 1998년 담배사업법 제정 이후 37년 만이다. 오는 4월부터는 규제 사각지대에 놓여있던 액상 니코틴 역시 궐련형 담배와 동일한 규제를 받게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사회복무요원 공무원 재직기간 산입, ‘현역병’ 기준 제한은 합헌”...대법원 첫 판단</title>
