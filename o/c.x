@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전북, 2036년 하계올림픽 유치 경제성 분석 ‘합격점’</title>
+      <link>https://www.chosun.com/national/regional/2026/01/26/JFN6Q6UF4FAFLI3IQDKTKGMBKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/26/JFN6Q6UF4FAFLI3IQDKTKGMBKU/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 05:04:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDL5DZ3JQBOLRO6JHQBRNXJH44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 16일 전북 전주월드컵경기장 일원에서  2036 전주 하계올림픽·페럴림픽 유치를 염원하는 '올림픽데이런 2025 in 전주'가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도가 ‘2036년 전주 하계 올림픽’ 유치를 위한 첫 번째 관문을 넘었다. 경제적 타당성 분석(B/C)에서 기준치인 1.0을 넘어서고, 국민 10명 중 8명이 찬성한다는 조사 결과가 나오면서다. &lt;br&gt;&lt;br&gt;전북도는 26일 ‘2036 하계 올림픽 유치 사전 타당성 조사 용역’ 최종 보고회를 열고, 비용편익분석(B/C) 결과가 1.03으로 도출됐다고 밝혔다. B/C 분석은 1.0 이상일 경우 경제적 타당성이 있는 것으로 간주한다. 이번 조사는 문화체육관광부 지정 전문 기관인 한국스포츠과학원이 지난해 4월부터 10개월간 진행했다. &lt;br&gt;&lt;br&gt;전북도가 제시한 총사업비는 6조 9086억원이다. 경기장 신축을 최소화하고 기존 시설을 개보수하거나 임시 시설을 활용하며, 서울·대구 등과 분산 개최로 ‘저비용·고효율’ 전략을 택했다. 실제 전체 예산 중 시설비는 1조 7608억원(25.5%)에 불과하며, 운영비가 5조 1478억원(74.5%)으로 대부분을 차지한다.&lt;br&gt;&lt;br&gt;올림픽 경기가 열리는 51개 경기장 중 32개는 전북 도내에 배치하되, 육상·야구·테니스 등 대형 인프라가 필요한 종목은 서울(9개), 광주(3개), 경기(2개) 등 다른 지역 경기장 19곳을 활용하기로 했다. 메인 무대인 전주에서는 개·폐회식을 비롯해 메달 수가 가장 많은 수영과 인기 종목인 양궁, 태권도, 축구 결승 등이 열린다. &lt;br&gt;&lt;br&gt;올림픽 유치에 대한 여론의 지지도 확보했다. 한국스포츠과학원이 전국 성인 남녀 1100명을 대상으로 진행한 조사 결과, 국민 82.7%가 전주 올림픽 유치에 찬성했다. 전북 도민의 찬성률은 87.6%에 달했다. 도 관계자는 “미국 보스턴이나 독일 함부르크가 주민 반대로 유치를 철회했던 사례를 고려할 때, 높은 찬성률은 IOC 평가에서 강력한 경쟁력이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;전북도는 이번 결과를 바탕으로 다음 달 6일 도의회 유치 동의안 의결을 거쳐 문체부에 국제경기대회 유치 승인을 공식 신청할 계획이다. 전북이 유치에 성공할 경우 1988년 서울 올림픽 이후 48년 만에, 지방 도시로서는 최초로 하계 올림픽을 개최하게 된다.&lt;br&gt;&lt;br&gt;유희숙 2036 하계 올림픽 유치단장은 “전주 올림픽은 수도권이 아닌 지방 도시도 국제 대회를 성공적으로 치를 수 있다는 것을 보여주는 국가 균형 발전의 새 모델이 될 것”이라며 “경제성과 국민 공감대를 모두 갖춘 준비된 계획으로 유치에 총력을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘北 무인기 침투’ 의혹 대학원생 소환 조사</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/26/GKNIVFSQCNDDPFUVDZFBX6GBSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/GKNIVFSQCNDDPFUVDZFBX6GBSU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 04:37:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYWMMTFMRSGIOBQMIZDKYTBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문이 지난 10일 인민군 총참모부 대변인 성명을 게재하며 한국 측에서 보냈다고 설명한 무인기 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 무인기를 침투시킨 의혹을 받는 대학원생 오모씨 등 민간인 3명에 대해 군·경 합동조사 태스크포스(TF)가 지난 주말 이들을 소환해 조사하며 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;군경합동조사 TF는 지난 24일 30대 대학원생 오모씨를 소환해 조사했다고 26일 밝혔다. 하루 전인 23일에는 오씨와 함께 무인기 스타트업을 운영했던 장모씨도 경찰에 출석해 조사를 받았다. 장씨에 대한 소환 조사는 지난 16일에 이어 두 번째다.&lt;br&gt;&lt;br&gt;오씨는 앞서 지난 16일 한 언론 인터뷰에서 북한 평산군 우라늄 공장 인근의 방사능 오염 수치를 확인하기 위해 세 차례 무인기를 북한으로 날려 보냈다고 주장했다. 그는 무인기 구매와 개량을 위해 장씨에게 도움을 요청했다고도 밝혔다.&lt;br&gt;&lt;br&gt;이번 사건과 관련해 경찰이 입건해 수사 중인 피의자는 오씨를 비롯해 무인기 제작업체 ‘에스텔엔지니어링’ 대표 장씨, 이 업체에서 대북 전문 이사로 활동해 온 김모씨 등 3명이다. 경찰은 이들에게 허가 없이 무인항공기를 날려 보낸 혐의(항공안전법 위반)와 함께 무인기를 이용해 국내 군사시설을 촬영한 혐의(군사기지 및 군사시설 보호법 위반)도 적용했다.&lt;br&gt;&lt;br&gt;무인기가 북한 측으로 이동하는 과정에서 우리 군 시설이 촬영됐다는 의혹도 제기됐다. 경찰은 피의자들이 고의로 국군 시설을 촬영했는지 여부에 대해서도 수사를 벌이고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;TF는 오씨 등이 국군정보사령부에서 지원금을 받았다는 의혹도 수사 중이다. 군 당국은 정보사 요원들의 접촉을 승인했던 정보사 A대령을 조사할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 군경 TF는 오씨가 무인기를 북한으로 보냈다고 공개적으로 밝힌 점 등을 근거로 사건 관련 피의자 3명 전원의 출국을 금지했다. TF는 압수수색을 통해 확보한 자료와 소환 조사 내용을 토대로 무인기 비행 경위와 배후 여부 등을 추가로 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다음주도 평년보다 추운 날씨 이어져...“산불·화재 각별히 유의” </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/24/WTZTKAHJUBBT7EACZEBDQ2WESA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/24/WTZTKAHJUBBT7EACZEBDQ2WESA/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Jan 2026 01:53:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2TANTBME3TSNZUMI3DANJZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 이어진 23일 오전 서울 종로구 세종대로사거리에서 두터운 옷차림을 한 시민들이 발걸음을 서두르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한파가 이어진 가운데, 다음 주도 평년보다 추운 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;월요일인 26일은 전국이 대체로 흐리겠다. 아침 최저기온은 영하 14도~영하 3도, 낮 최고기온은 영하 4도~영상 7도로 예보됐다. 전남 해안과 제주도 곳에 따라 오후부터 밤사이 비 또는 눈이 내리겠다.&lt;br&gt;&lt;br&gt;화요일인 27일은 아침 최저기온은 영하 12도~영상 1도, 낮 최고기온은 영하 5도~영상 7도로 예보됐다. 중부 지방은 가끔 구름이 많고, 남부 지방과 제주도는 대체로 흐리겠다.&lt;br&gt;&lt;br&gt;28~30일 아침 기온은 영하 14도~영하 2도, 낮 기온은 영하 3도~영상 6도로 평년(최저기온 영하 10도~0도, 최고기온 영상 3~영상 9도)보다 낮겠다. 29~30일 동해 중부 해상에는 물결이 1~4m로 높게 일겠다. &lt;br&gt;&lt;br&gt;동쪽 지역을 중심으로 대기가 건조하겠다. 산불 및 각종 화재 예방에 각별히 유의해야 한다고 기상청은 전했다.&lt;br&gt;&lt;br&gt;24일 10시 현재 서울 영하 7.2도, 부산 2.4도, 대구 영하 1.1도, 광주 영하 0.6도, 춘천 영하 5.7도, 대관령 영하 10.9도 등이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아이 허리 굽을라”··· 대치동 ‘어린이 필라테스’ 인기</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/26/SNXJC2PUEFHRJMEPLG6BTWSIRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/SNXJC2PUEFHRJMEPLG6BTWSIRY/</guid>
+      <dc:creator>고유찬 기자, 이유경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 04:24:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MIXH35V3NAGPALKR4DMYGTI44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 강남구 대치동의 한 필라테스 학원에서 초등학생 4명이 팔 뻗기 동작을 하고 있다./이유경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“오늘 하루 종일 팔 활짝 뻗은 적 있는 사람?” “없어요!”&lt;br&gt;&lt;br&gt;서울 강남구 대치동의 한 어린이 필라테스 학원. 수업에 참여한 초등학생 4명이 다리를 허리 높이까지 들어 올린 뒤 천천히 필라테스 기구 위에 발을 올렸다. 강사의 신호에 맞춰 팔을 위로 곧게 뻗어 스트레칭을 하고, 몸을 바로 세우는 데 집중했다.&lt;br&gt;&lt;br&gt;“하나, 둘, 셋, 허리 펴자!” 분홍색과 파란색, 보라색 운동복을 입은 아이들이 머리 위 손잡이를 잡기 위해 팔을 뻗었다. 흙먼지를 뒤집어쓰며 운동장을 뛰노는 또래들과 달리, 아이들은 어른들 사이에서 차분히 동작을 따라했다.&lt;br&gt;&lt;br&gt;최근 대치동 학원가에서 어린이 필라테스가 새로운 ‘필수 코스’로 자리 잡고 있다. 20~40대 여성들 사이에서 유행하던 필라테스가 국어·영어·수학 학원에 더해 초등학생 일정표에까지 들어온 것이다. 장시간 책상 앞에 앉아 있는 생활이 일상화되면서, 어린 나이부터 자세와 체형 관리가 필요하다는 인식이 확산되고 있다.&lt;br&gt;&lt;br&gt;이날 수업에 참석한 한모(13)양은 “엄마가 체형 교정에 도움이 된다며 같은 반 친구들과 함께 등록해줬다”며 “하루 종일 앉아 있으면 허리가 굽는 느낌이었는데, 초등학교 3학년 때부터 필라테스를 하면서 몸이 펴진 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;이 학원 수강생의 약 30%는 어린이다. 성인 수업과 달리 줄넘기나 공놀이를 접목해, 무거운 가방과 학습량 증가로 생기는 척추 측만이나 거북목을 교정하는 데 초점을 맞추고 있다. 학원 측은 “아이들 자세가 학습에 영향을 줄 수 있다는 우려로 등록하는 경우가 많고, 정형외과 의사의 권유로 오는 학부모도 있다”고 했다.&lt;br&gt;&lt;br&gt;학부모들 사이에서는 자세 교정 역시 교육의 연장선이라는 인식이 강하다. 11살 자녀를 둔 이모(43)씨는 “가방이 무겁고 앉아 있는 시간이 길다 보니 아이가 목이 아프다고 했다”며 “내가 필라테스를 오래 해보니 효과를 느껴 자녀에게도 권했다”고 말했다. 이씨는 “같은 반 25명 중 9명 정도가 필라테스를 배우는 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;12살 자녀를 둔 김모(46)씨는 “축구나 농구보다 소규모 수업이라 아이가 친구들과 더 가까워질 수 있다”며 “앞으로 공부 시간이 늘어날 것을 생각하면 초등학생 때부터 자세를 바로잡아두는 게 낫다고 봤다”고 말했다.&lt;br&gt;&lt;br&gt;대치동에서는 어린이 킥복싱 수업도 인기를 끌고 있다. 한 킥복싱 학원은 겨울방학을 맞아 수강생이 몰리면서 신규 등록을 받지 못할 정도라고 했다. 학원 관계자는 “수강생 비율은 초등학생과 중학생이 각각 40%, 고등학생이 20%”라며 “따로 운동 시간을 내기 어려워 학원에서 활동량을 채우려는 수요가 늘고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘성추행 혐의’ 국민의힘 손범규 전 대변인, 검찰 송치 </title>
+      <link>https://www.chosun.com/national/incident/2026/01/26/CUTKCJN2ERHY5J7NHSXJSGLWPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/26/CUTKCJN2ERHY5J7NHSXJSGLWPY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 26 Jan 2026 04:15:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDKNZYGIYTEYLCGU2DCYRXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 손범규 전 대변인./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성추행 혐의로 경찰 수사를 받아온 국민의힘 손범규 전 대변인이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 강제추행 혐의로 손 전 대변인을 검찰에 송치했다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;손 전 대변인은 지난 2023년 2월 인천시 남동구의 한 주점에서 같은 당 소속 여성 구의원 A씨를 강제 추행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 11월 “손 전 대변인이 불필요한 신체적 접촉을 했다”며 경찰에 고소장을 제출했다. &lt;br&gt;&lt;br&gt;손 전 대변인은 경찰 조사에서 “그런 적 없다” “기억나지 않는다”며 혐의를 부인한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;손 전 대변인은 이번 논란으로 당 대변인직에서 사임하면서도, 고소 내용은 사실이 아니라는 입장을 나타냈다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 주점 동석자들의 진술 등을 토대로 손 전 대변인의 범죄 혐의가 인정돼 사건을 검찰에 송치했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘이재석 경사 순직’ 해경 과실 함구 지시… 前 인천해경서장 등 ‘혐의 부인’</title>
       <link>https://www.chosun.com/national/court_law/2026/01/26/BH3MG7BDUZGSDLH2QI766AWE7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/26/BH3MG7BDUZGSDLH2QI766AWE7Q/</guid>
@@ -670,16 +715,6 @@
       </media:content>
     </item>
     <item>
-      <title>명동에 나가 주식 사던 시절엔 주가 지수 394.19… 언제적 이야기? </title>
-      <link>https://www.chosun.com/national/national_general/2026/01/25/22MTYSMUBZDWHEFVKOUH6NUOMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/25/22MTYSMUBZDWHEFVKOUH6NUOMY/</guid>
-      <dc:creator>채승우 사진아카이브 전문기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2Z3ZJTNENGPLENPO654WS2RK4.png"&gt;&lt;figcaption&gt;&lt;small&gt;1984년 10월 11일 증권 시장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1956년 명동에 대한증권거래소가 설립되어 경매 방식으로 주식 거래가 시작됐습니다. 초기에는 일반인들도 이 경매에 참가한 듯합니다. 1958년 10월 경향신문 기사에는 증권협회가 항의했다는 내용이 있습니다. “일반인과 증권업자의 구별 없이 동등한 자격으로 주권을 사고팔고 한다면 증권업자들의 수수료 수입이 줄지 않느냐”는 항의였지요. 1963년 5월 조선일보 기사는 휴장했다가 다시 문 연 증권거래소 모습을 전합니다. “시장에는 일반 투자자의 입장이 금지된 채 거래원과 시장 대리인 및 보조원들만이 참석한 가운데...” 이즈음부터 일반인들은 증권거래소의 거래에 참여하지 못한 듯합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CB73INJM35DTLELXQZQMJL7S6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;1962년 12월 12일 명동 대한증권거래소 뒤뜰이 장외 거래를 하는 인파들로 가득하다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시에는 정말 장외시장이 있었습니다. 지금 장외시장이란 상장이 안 된 중소기업이나 벤처기업의 주식을 증권회사에서 거래하는 것으로 1987년에 제도화된 것입니다. 그런데 60년대에는 명동 증권거래소 뒷마당에서 투자자들이 모여서 상장 주식을 직거래했습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VBHXQUKU5BTDITJ6ZA6CZZ63I.png"&gt;&lt;figcaption&gt;&lt;small&gt;1982년 1월 15일 증권사에서 직원이 망원경을 이용해 시세판을 보고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제가 기억하는 증권회사의 대표적인 모습은 벽면 전체가 온통 숫자로 가득 찬 전광판입니다. 그 앞에 놓인 여러 줄의 소파에 투자자들이 앉아 전광판의 숫자를 보다가, 창구의 직원에게 찾아가 거래 주문을 했지요. 마치 은행처럼요. 1970년대 증권회사에는 전광판이 아니라, 칠판으로 만든 시세판이 있었습니다. 직원들이 직접 칠판 숫자들을 바꿔 써넣었습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FAYQE36CVBZFAOBFK44Q5HERA.png"&gt;&lt;figcaption&gt;&lt;small&gt;1983년 4월 16일 동서증권 객장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최초의 전광 시세판을 도입한 명동 대신증권에 관한 이야기가 매일경제신문 1985년 기사에 있습니다. 1976년 옛 국립극장 자리에 자리 잡은 대신증권은 1979년에 업계 최초로 온라인 전광 시세판을 설치했습니다. 당시의 분위기를 기사가 전합니다. “명동에 나오는 투자자라면 거래가 있든 없든 한 번쯤 들러 시장 돌아가는 이야기를 나누던 장소이다 ... 증시의 호불황을 살피기 위해서는 대신증권 명동 지점 분위기를 보면 알 수 있을 정도였다. ... 주가는 대신증권에서 보고 주문은 단골 증권사 창구에서” 내기도 했다고 하네요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4RSWVGH3VDS7KXH63ZLWLM64I.png"&gt;&lt;figcaption&gt;&lt;small&gt;1984년 6월 20일 대신증권 명동지점의 전광 게시판.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 발달로 증권사 객장을 찾는 이도, 전광판도 사라졌습니다. 2016년 여의도 대신증권 본사는 시세 전광판 운영을 중단했습니다. 심지어 기념 행사도 열었습니다. 이즈음 증권회사 객장에서 투자자를 위한 소파도 사라지기 시작했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXXCT5OQFNDDNHRLINFL7BGJAI.png"&gt;&lt;figcaption&gt;&lt;small&gt;1983년 6월 13일 서울 명동 증권가에 설치된 증권 시황판. 종합주가지수가 121을 가리키고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷을 사용한 주식거래는 1998년에 시작합니다. 조선일보 1998년 4월 15일 기사에는 LG증권이 국내 최초의 인터넷을 통한 주식거래 시범 서비스를 10월부터 시작한다고 소개합니다. 1999년 12월 매경 기사의 제목은 “PC, 인터넷 주식거래 100조 돌파, 거래 비중 2년 만에 30% 육박”이라고 말합니다.&lt;br&gt;&lt;br&gt;기사들을 살피다 보니, 1979년 10월 매경의 투자자 수기 한편에 김경숙 씨가 “장세가 좋아져 칠판이 온통 붉어지면”이라는 표현을 썼더군요. 칠판을 사용하던 시대에도 상승에는 붉은색 하락에는 초록색을 쓴 듯합니다. 하지만 전광판을 본격적으로 사용하면서 신문 기사들에 증권의 호경기를 일컫는 “거래소 전광판 오렌지색으로 가득”(81, 1, 5 매경)이라는 표현이 자리를 잡습니다. &lt;br&gt;&lt;br&gt;한창 한국 경제가 어려웠던 1997년, 사진기자인 저도 명동의 증권사 객장들을 찾아다니며 투자자들의 표정을 사진에 담았습니다. 그중 한 장을 다시 보니 종합주가지수가 394였네요. 2026년에도 한국 경제의 성장을 응원합니다!&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSYZYQWKABDARHHHEA5YPYET5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;1997년 12월 1일 증권사 객장의 모습. /사진=채승우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/T2TLP477SVHVNF4ZPT6OWQC6XE.jpg?auth=4d05033d5e0a5e5a8bcda1e242d0cc9a8dc320a536e2458fe169e01bc2589d64&amp;smart=true&amp;width=2560&amp;height=1707" type="image/jpeg" height="1707" width="2560"/>
-    </item>
-    <item>
       <title>1208회 로또 1등 6명 ‘대박’…당첨금 각 50억 171만원</title>
       <link>https://www.chosun.com/national/national_general/2026/01/24/OD44XVY3DBCY7CDP4MCFRSVSV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/24/OD44XVY3DBCY7CDP4MCFRSVSV4/</guid>
@@ -689,33 +724,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZDGMTEHEYDCZTEGYYDKODGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;로또 복권 추첨기 테스트 장면. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 동행복권에 따르면 1208회 로또 1등 당첨 번호는 ‘6·27·30·36·38·42’이다. 2등 보너스 번호는 ’ 25′다.&lt;br&gt;&lt;br&gt;이날 당첨 번호 6개를 모두 맞힌 1등은 6명이다. 이들은 각각 50억171만3625원을 수령한다. &lt;br&gt;&lt;br&gt;1등 배출점은 총 6곳으로 모두 자동 선택이었다. 자동 선택 6곳은 고척대박복권&amp;amp;카페(서울 구로구), 인터넷 복권판매사이트, 가로판매점(서울 영등포구), 왕대박 복권판매점(대전 유성구), 지에스25 안성칠곡(경기 안성시), 로또복권(경기 오산시)이다.&lt;br&gt;&lt;br&gt;당첨 번호 5개와 보너스 번호를 맞힌 2등은 68명으로 1인당 7355만4613원씩 받는다.&lt;br&gt;&lt;br&gt;당첨 번호 5개가 일치한 3등은 2932명으로, 1인당 170만5906원을 수령한다. 당첨 번호 4개를 맞힌 4등(고정 당첨금 5만원)은 14만9359명, 당첨 번호 3개가 일치한 5등(고정 당첨금 5000원)은 254만4535명이다.&lt;br&gt;&lt;br&gt;당첨금 지급 기한은 지급 개시일로부터 1년이며, 휴일인 경우 다음 영업일까지 지급 가능하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>울산 북구 명촌교 인근 갈대밭 화재…1시간 만에 진화</title>
-      <link>https://www.chosun.com/national/regional/2026/01/24/5UCJH67IWFAPNEATI5USXGNMKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/5UCJH67IWFAPNEATI5USXGNMKQ/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 12:05:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU24CU7CPFCJXA7XK4KSJJDKWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 북구 한 갈대밭에서 불이 나 1시간만에 꺼졌다. /울산소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 7시 26분쯤 울산 북구 명촌동 명촌교 인근 갈대밭에서 불이 나 1시간 만에 꺼졌다.&lt;br&gt;&lt;br&gt;불이 난 곳이 아파트 단지와 인접해 인근 주민들에게 대피하라는 문자가 발송되기도 했다.&lt;br&gt;&lt;br&gt;화재로 인한 인명피해는 없었다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인과 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국내 송환 ‘캄보디아 스캠 사기단’ 한국인 73명 전원 구속영장 신청</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/24/75OSKQ4GLJDB3IPG65FM4WONXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/24/75OSKQ4GLJDB3IPG65FM4WONXQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 09:57:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M76W2AMVABPDRHYP7L2QA4NT6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 범죄조직의 범행에 가담했다가 국내로 강제 송환 후 압송된 한국인 피의자들이 23일 오후 부산 동래경찰서에 도착해 호송차에서 내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 캄보디아에서 ‘로맨스 스캠’ 사기, 인질 강도 등 범행을 저지른 한국인 피의자 73명 전원에 대해 24일 구속영장을 신청했다. 전날 오전 인천국제공항을 통해 국내로 강제 송환된 지 하루 만이다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 이날 언론 공지를 통해 “범정부 초국가범죄 특별대응 태스크포스(TF)를 통해 피의자 73명의 범죄 혐의를 수사하고 있다”며 “오늘 전원에 대한 구속영장 신청을 완료했다”고 밝혔다. 이들은 캄보디아 프놈펜에서 국내로 향하는 전세기에 타자마자 기내에서 체포돼 관할 경찰관서로 압송됐고, 경찰 조사 후 유치장에 수용됐다.&lt;br&gt;&lt;br&gt;피의자 73명은 ▲부산경찰청 반부패경제범죄수사대 49명 ▲충남경찰청 형사기동대 17명 ▲서울경찰청 형사기동대·금융범죄수사대 각 1명 ▲인천경찰청 사이버범죄수사대 1명 ▲울산경찰청 반부패경제범죄수사대 2명 ▲창원중부경찰서 1명 ▲서초경찰서 1명 등으로 분산됐다.&lt;br&gt;&lt;br&gt;피의자들은 한국인 869명에게서 약 486억원을 가로챈 혐의를 받는다. 70명은 로맨스 스캠이나 투자 리딩방 운영 등 스캠 범죄 혐의를, 3명은 인질 강도와 도박 등 혐의를 받는다.&lt;br&gt;&lt;br&gt;가상 인물로 위장하는 딥페이크 기술을 활용해 104명에게서 약 120억원을 가로챈 로맨스 스캠 부부 사기단도 포함됐다. 이들은 수사 당국의 추적을 피하기 위해 성형수술로 얼굴을 바꾸며 도피하다 끝내 검거됐으나 지난해 10월 송환 때는 제외됐다.&lt;br&gt;&lt;br&gt;투자 전문가를 사칭해 사회 초년생과 은퇴자들에게서 약 194억원을 받아 가로챈 사범 등도 이번 송환 대상자에 포함됐다. 미성년자를 대상으로 성범죄를 저지른 뒤 캄보디아로 도주해 사기에 가담한 도피 사범, 스캠 단지에 감금된 피해자를 인질 삼아 국내에 있는 가족을 협박하고 금품을 뜯어낸 조직원 등이 송환됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남 담양서 줄넘기학원차 농지로 추락…어린이 등 8명 경상</title>
-      <link>https://www.chosun.com/national/regional/2026/01/24/F6NOUSE2XZBN5B75VPIR4MA2QI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/F6NOUSE2XZBN5B75VPIR4MA2QI/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 09:27:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDCYZWGY3WGZRVGQZDOODCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 전남 담양 가사문학면에서 학원차량이 도로 옆으로 추락해 8명이 부상을 입었다./전남소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 4시 24분쯤 전남 담양군 가사문학면 한 도로에서 줄넘기학원 승합차가 인근 농지로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 차량에 타고 있던 운전기사 A씨와 어린이 등 8명이 경상을 입어 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 음주나 무면허 상태는 아니었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢 ‘김학의 허위보고서 작성’ 이규원 선고 유예에 상고 포기</title>
       <link>https://www.chosun.com/national/court_law/2026/01/24/HGKPWEO4HZFZ5CGCIFDSVCRJP4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/24/HGKPWEO4HZFZ5CGCIFDSVCRJP4/</guid>
@@ -723,15 +731,6 @@
       <description/>
       <pubDate>Sat, 24 Jan 2026 09:04:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW3ECOWEWZDFXICSOXSILBOSXU.jpg"&gt;&lt;br&gt;&lt;br&gt;검찰이 허위 공문서 작성 등 혐의로 기소된 이규원 조국혁신당 조국혁신당 전략위원장에게 벌금형 선고 유예가 내려진 항소심 판결에 대한 상고를 포기했다. 24일 법조계에 따르면 검찰은 상고 기한이었던 전날(23일)까지 상고장을 제출하지 않았다. 반면 이 전 검사 측은 지난 22일 상고해 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;이 위원장은 2019년 대검찰청 과거사진상조사단 활동 당시, ‘김학의 전 법무부 차관 성 접대’ 의혹 핵심 인물인 건설업자 윤중천씨를 면담한 뒤 허위 내용이 포함된 보고서를 작성하고 이를 언론에 유출한 혐의로 재판에 넘겨졌다. 보고서에는 “윤씨가 ‘윤석열 검찰총장이 원주 별장에 온 적이 있는 것도 같다’고 말했다”는 취지의 내용도 포함됐다. 이 보고서를 토대로 법무부 과거사위원회는 김 전 차관 사건에 대한 수사 권고를 했다. &lt;br&gt;&lt;br&gt;앞서 1심은 이 전 검사가 윤씨와의 3차례 면담 중 녹취 없이 복기해 작성한 부분을 허위 공문서 작성으로 인정했다. 다만 “범행 비중이 크지 않다”며 벌금 50만원의 선고를 유예했다. 선고유예는 유죄는 인정되나, 2년간 추가 범죄가 없으면 면소(免訴)로 간주되는 제도다. 2심은 1심이 무죄로 본 개인정보보호법 위반, 형사사법절차전자화법 위반 혐의를 유죄로 판단해 벌금 200만원의 선고를 유예했다. 나머지 혐의에 대해서는 1심 판단을 유지했다.&lt;br&gt;&lt;br&gt;이 전 검사는 판결 뒤 자신의 SNS에 “이제 선고유예된 벌금 200만원이 양형의 상한이 됐다”며 “이 부분도 시정돼야 마땅하니 대법원을 설득하기 위해 최선을 다하겠다”고 밝혔다. 이 전 검사는 2019년 3월 김 전 차관의 출국을 불법으로 금지한 혐의로도 기소됐으나 대법원에서 무죄 확정 판결을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘캄보디아 사기단’ 부산경찰청, 49명 영장 신청 예정 </title>
-      <link>https://www.chosun.com/national/regional/2026/01/24/S7LW3E24IRD3ZPIVG5SAGXX4HI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/24/S7LW3E24IRD3ZPIVG5SAGXX4HI/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 02:04:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4DKYRTGEYTAZRRMU3WEZBXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 대규모 스캠 범죄를 저질러 강제 송환된 한국인 피의자들이 지난 23일 오후 부산 동래구 동래경찰서로 압송되고 있다. 이날 인천국제공항을 통해 강제 송환된 한국인 피의자 73명 중 49명은 부산으로 압송돼 조사를 받는다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산경찰청 캄보디아 범죄조직 수사 태스크포스(TF)는 캄보디아에서 스캠(사기), 인질강도 등에 가담한 혐의로 전날 국내로 압송된 한국인 73명 중 49명에 대한 구속영장을 신청할 예정이라고 24일 밝혔다. &lt;br&gt;&lt;br&gt;피의자들은 입국 직후 전국 각지 경찰서로 호송돼 유치장에 입감된 뒤 조사를 받고 있다. 부산경찰청 반부패경제범죄수사대에서 49명, 충남경찰청 형사기동대에서 17명, 울산경찰청 반부패경제범죄수사대에서 2명 등의 수사를 맡는다.&lt;br&gt;&lt;br&gt;경찰은 이들 피의자에 대해 전날 오후 6시부터 오후 11시 10분까지 조사를 벌인 뒤 지역 경찰서 유치장 6곳에 나눠 입감했다.&lt;br&gt;&lt;br&gt;구속영장이 청구되면 이들에 대한 구속 전 피의자 심문(영장실질심사)은 25일 오후 2시 부산지방법원에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;현지 1개 범죄 조직에 속했던 49명은 지난해 10월을 전후로 관공서 공무원을 사칭하면서 “감사를 앞두고 있으니 특정 업체로부터 물품을 대리 구매해 달라”고 속여 돈을 챙기는 이른바 ‘노쇼 사기’ 범행에 가담한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들이 속했던 조직은 서로 역할을 나눠 한쪽은 공무원을 사칭하고 나머지는 물품 업체 관계자 역할을 하면서 범행을 벌인 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, ‘공천 헌금’ 추가 의혹 김경 시의원 주거지 등 압수 수색</title>
