@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울시의회 윤리특별위원회, 만장일치로 김경 시의원 ‘제명’ 의결</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/27/47AEVKEBYJG2FBF6EALJSI6NFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/27/47AEVKEBYJG2FBF6EALJSI6NFQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Jan 2026 08:52:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRTQFKED35B3FJE7XOCZI2C2IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공천 헌금 의혹을 받는 김경 서울시의원이 18일 서울 마포구 공공범죄수사대에서 경찰 조사를 받기위해 출석하며 고개를 숙이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의회 윤리특별위원회(윤리특위)는 27일 회의를 열고 김경 시의원에 대한 제명을 만장일치로 의결했다고 밝혔다. 윤리특위가 시의원에 대한 제명을 의결한 것은 2023년 ‘성 비위’ 의혹으로 제명당한 정진술 전 시의원에 이어 이번이 두 번째다.&lt;br&gt;&lt;br&gt;당초 전날 김 시의원이 사퇴 의사를 표명하면서 윤리특위가 취소될 수 있다는 전망도 나왔다. 그러나 사표 수리 권한을 가지고 있는 최호정 서울시의회 의장이 이날까지도 김 시의원의 사표를 수리하지 않으면서 원래 계획대로 윤리특위가 열렸다.&lt;br&gt;&lt;br&gt;윤리특위는 김경 시의원이 지방자치법 44조 2항의 지방의회 의원 청렴 의무와 품위 유지 의무를 위반했다고 판단했다.&lt;br&gt;&lt;br&gt;서울시의회 관계자는 “김경 시의원이 ‘공천 헌금을 냈다’는 사실을 본인이 인정하고 있다”며 “사실 관계를 확정할 수 있다고 봤다”고 했다.&lt;br&gt;&lt;br&gt;윤리특위는 김 시의원이 주민 대표로서의 청렴성과 도덕성을 심각하게 훼손한 점, 서울시의회의 위상과 시민 신뢰에 중대한 손상을 초래한 점 등도 고려했다.&lt;br&gt;&lt;br&gt;이날 윤리특위에는 위원 15명 중 12명이 참석해 만장일치로 제명을 의결했다. 서울시의회 관계자는 “지난 16일 열린 윤리심사자문위원회의 자문 결과에 따른 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤리특위가 김 시의원에 내린 ‘제명’ 처분은 본회의 의결로 확정된다. 시의회는 다음 달 24일부터 3월 13일까지 본회의를 열고 징계를 확정한다는 방침이다. 본회의에서 재적 의원 3분의2 이상이 동의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HA3DINLEMRRDSNDFGJSTANJVG4.jpg?auth=01849a9ecea700b3fea63322c99e662e1f5eea24621e568d40d16d9f8935cae6&amp;smart=true&amp;width=3342&amp;height=2226" type="image/jpeg" height="2226" width="3342">
+        <media:description type="plain">'공천 헌금' 의혹을 받는 김경 서울시의원이 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 취재진의 질문에 답하고 있다. 2026.1.18/뉴스1 ⓒ News1 김성진 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>도서관에서 기억하는 국채보상운동, 대구서 열린다</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/27/NC63AYK5GFHHJH47MYJGZRDRJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/27/NC63AYK5GFHHJH47MYJGZRDRJI/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Jan 2026 09:48:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SDMZLGHFRDINDCGI4TKOJXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 대구 중구 콘서트하우스에 있는 '국채보상운동기념비'. /대구보훈청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시교육청 산하 국채보상운동기념도서관은 다음 달 국채보상운동기념일을 맞아 구국 정신을 계승하고 시민 참여를 독려하기 위한 다채로운 행사를 개최한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;이번 행사에선 국채보상운동의 역사적 숫자를 활용한 프로그램이 눈길을 끈다. 우선, 기념일인 2월 21일을 상징하는 ‘국채보상운동 221% 기억하기 - 21권의 의미’ 행사가 진행된다. 대구시민주간인 다음 달 21일부터 28일까지 기존 10권이던 1인당 도서 대출 한도를 21권으로 한시적 확대 운영한다.&lt;br&gt;&lt;br&gt;‘국채 1300만원’의 역사적 의미를 되새기는 참여형 이벤트도 마련됐다. 국채보상운동기념도서관은 다음 달 28일까지 ‘국채 1300만원 보상 취지서’를 읽고 감명 깊은 문장을 필사해 응모한 시민 중 5명을 추첨, 1만원 상당의 문화 상품권을 증정한다. &lt;br&gt;&lt;br&gt;또한 21일부터 2주간 도서관 전체 대출 권수 1만3000권 달성을 목표로 하는 ‘책으로 모으는 1300만원’ 캠페인도 전개한다. 대출 도서 1권당 1000원이라는 의미를 담고 있다. 목표 달성 시 대출자 중 추첨을 통해 10명에게 소정의 경품을 지급할 예정이다.&lt;br&gt;&lt;br&gt;교육 및 전시 프로그램도 이어진다. 다음 달 27일에는 유아(만 6~7세) 및 초등 저학년을 대상으로 나눔의 가치를 함양하는 ‘기부 저금통 만들기’ 체험이 열린다. 이 밖에도 대구 민주화 역사를 조명하는 특강 ‘대구시민주간 역사의 발자취 따라가기’와 ‘2·28 민주운동 특별 사진전’이 시민들을 맞이한다. &lt;br&gt;&lt;br&gt;특강과 기부 저금통 만들기는 국채보상운동기념도서관 홈페이지를 통해 다음 달 3일부터 선착순으로 사전 신청을 통해 참가할 수 있다.&lt;br&gt;&lt;br&gt;이은숙 국채보상운동기념도서관 관장은 “이번 행사를 통해 국채보상운동기념도서관에 담긴 역사적 의미를 시민과 학생들이 자연스럽게 알고, 대구 사랑의 가치를 되새기는 계기가 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“혼술 값이 2200만원?”... 유흥주점 신고 잇따라</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/27/6CEQRUJZ2VE5LEFB7BB7FZ4VTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/27/6CEQRUJZ2VE5LEFB7BB7FZ4VTY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Jan 2026 09:05:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TENDBMU4GENJZGZQWEZBUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음성경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성에서 정신 잃은 손님을 상대로 술값 바가지를 씌웠다는 신고가 잇따라 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;충북 음성경찰서는 준사기·공갈 등의 혐의로 30대 A씨를 불구속 입건해 조사하고 있다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월부터 12월까지 여러 차례에 걸쳐 자신의 가게를 찾아온 손님이 정신을 잃은 틈을 타 술값을 과다 청구한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰에는 여러 명의 피해 신고가 접수됐고, 이들 중에는 최대 2200만원에 달하는 술값을 낸 피해자도 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 지난 23일 밤 A씨의 유흥업소를 압수수색했다. 이 과정에서 경찰은 방범카메라 영상과, 판매용 음료, 성분을 알 수 없는 약물 등을 확보했다. &lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 압수한 약물의 성분 분석을 의뢰하고, 휴대전화 등의 기록물도 분석하고 있다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “손님들이 술값을 내기 싫어서 거짓 신고를 한 것”이라며 혐의를 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피해신고가 5건에 이르고 금액도 커 다방면으로 수사를 진행하고 있다”며 “다만 수사 초기 단계고 의뢰한 분석 결과도 확인해야 정확한 것은 알 수 있을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>法, 안면 인식기 뜯어낸 HD현대중 노조 간부들에게 ‘무죄’ 선고</title>
       <link>https://www.chosun.com/national/regional/2026/01/27/K6I6CUY7UNCOJKNQFF3B4EYBOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/27/K6I6CUY7UNCOJKNQFF3B4EYBOY/</guid>
@@ -904,15 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYWMMTFMRSGIOBQMIZDKYTBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문이 지난 10일 인민군 총참모부 대변인 성명을 게재하며 한국 측에서 보냈다고 설명한 무인기 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 무인기를 침투시킨 의혹을 받는 대학원생 오모씨 등 민간인 3명에 대해 군·경 합동조사 태스크포스(TF)가 지난 주말 이들을 소환해 조사하며 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;군경합동조사 TF는 지난 24일 30대 대학원생 오모씨를 소환해 조사했다고 26일 밝혔다. 하루 전인 23일에는 오씨와 함께 무인기 스타트업을 운영했던 장모씨도 경찰에 출석해 조사를 받았다. 장씨에 대한 소환 조사는 지난 16일에 이어 두 번째다.&lt;br&gt;&lt;br&gt;오씨는 앞서 지난 16일 한 언론 인터뷰에서 북한 평산군 우라늄 공장 인근의 방사능 오염 수치를 확인하기 위해 세 차례 무인기를 북한으로 날려 보냈다고 주장했다. 그는 무인기 구매와 개량을 위해 장씨에게 도움을 요청했다고도 밝혔다.&lt;br&gt;&lt;br&gt;이번 사건과 관련해 경찰이 입건해 수사 중인 피의자는 오씨를 비롯해 무인기 제작업체 ‘에스텔엔지니어링’ 대표 장씨, 이 업체에서 대북 전문 이사로 활동해 온 김모씨 등 3명이다. 경찰은 이들에게 허가 없이 무인항공기를 날려 보낸 혐의(항공안전법 위반)와 함께 무인기를 이용해 국내 군사시설을 촬영한 혐의(군사기지 및 군사시설 보호법 위반)도 적용했다.&lt;br&gt;&lt;br&gt;무인기가 북한 측으로 이동하는 과정에서 우리 군 시설이 촬영됐다는 의혹도 제기됐다. 경찰은 피의자들이 고의로 국군 시설을 촬영했는지 여부에 대해서도 수사를 벌이고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;TF는 오씨 등이 국군정보사령부에서 지원금을 받았다는 의혹도 수사 중이다. 군 당국은 정보사 요원들의 접촉을 승인했던 정보사 A대령을 조사할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 군경 TF는 오씨가 무인기를 북한으로 보냈다고 공개적으로 밝힌 점 등을 근거로 사건 관련 피의자 3명 전원의 출국을 금지했다. TF는 압수수색을 통해 확보한 자료와 소환 조사 내용을 토대로 무인기 비행 경위와 배후 여부 등을 추가로 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>다음주도 평년보다 추운 날씨 이어져...“산불·화재 각별히 유의” </title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/24/WTZTKAHJUBBT7EACZEBDQ2WESA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/24/WTZTKAHJUBBT7EACZEBDQ2WESA/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 01:53:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2TANTBME3TSNZUMI3DANJZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 이어진 23일 오전 서울 종로구 세종대로사거리에서 두터운 옷차림을 한 시민들이 발걸음을 서두르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한파가 이어진 가운데, 다음 주도 평년보다 추운 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;월요일인 26일은 전국이 대체로 흐리겠다. 아침 최저기온은 영하 14도~영하 3도, 낮 최고기온은 영하 4도~영상 7도로 예보됐다. 전남 해안과 제주도 곳에 따라 오후부터 밤사이 비 또는 눈이 내리겠다.&lt;br&gt;&lt;br&gt;화요일인 27일은 아침 최저기온은 영하 12도~영상 1도, 낮 최고기온은 영하 5도~영상 7도로 예보됐다. 중부 지방은 가끔 구름이 많고, 남부 지방과 제주도는 대체로 흐리겠다.&lt;br&gt;&lt;br&gt;28~30일 아침 기온은 영하 14도~영하 2도, 낮 기온은 영하 3도~영상 6도로 평년(최저기온 영하 10도~0도, 최고기온 영상 3~영상 9도)보다 낮겠다. 29~30일 동해 중부 해상에는 물결이 1~4m로 높게 일겠다. &lt;br&gt;&lt;br&gt;동쪽 지역을 중심으로 대기가 건조하겠다. 산불 및 각종 화재 예방에 각별히 유의해야 한다고 기상청은 전했다.&lt;br&gt;&lt;br&gt;24일 10시 현재 서울 영하 7.2도, 부산 2.4도, 대구 영하 1.1도, 광주 영하 0.6도, 춘천 영하 5.7도, 대관령 영하 10.9도 등이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“아이 허리 굽을라”··· 대치동 ‘어린이 필라테스’ 인기</title>
       <link>https://www.chosun.com/national/national_general/2026/01/26/SNXJC2PUEFHRJMEPLG6BTWSIRY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/SNXJC2PUEFHRJMEPLG6BTWSIRY/</guid>
@@ -920,15 +941,6 @@
       <description/>
       <pubDate>Mon, 26 Jan 2026 04:24:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MIXH35V3NAGPALKR4DMYGTI44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 강남구 대치동의 한 필라테스 학원에서 초등학생 4명이 팔 뻗기 동작을 하고 있다./이유경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“오늘 하루 종일 팔 활짝 뻗은 적 있는 사람?” “없어요!”&lt;br&gt;&lt;br&gt;서울 강남구 대치동의 한 어린이 필라테스 학원. 수업에 참여한 초등학생 4명이 다리를 허리 높이까지 들어 올린 뒤 천천히 필라테스 기구 위에 발을 올렸다. 강사의 신호에 맞춰 팔을 위로 곧게 뻗어 스트레칭을 하고, 몸을 바로 세우는 데 집중했다.&lt;br&gt;&lt;br&gt;“하나, 둘, 셋, 허리 펴자!” 분홍색과 파란색, 보라색 운동복을 입은 아이들이 머리 위 손잡이를 잡기 위해 팔을 뻗었다. 흙먼지를 뒤집어쓰며 운동장을 뛰노는 또래들과 달리, 아이들은 어른들 사이에서 차분히 동작을 따라했다.&lt;br&gt;&lt;br&gt;최근 대치동 학원가에서 어린이 필라테스가 새로운 ‘필수 코스’로 자리 잡고 있다. 20~40대 여성들 사이에서 유행하던 필라테스가 국어·영어·수학 학원에 더해 초등학생 일정표에까지 들어온 것이다. 장시간 책상 앞에 앉아 있는 생활이 일상화되면서, 어린 나이부터 자세와 체형 관리가 필요하다는 인식이 확산되고 있다.&lt;br&gt;&lt;br&gt;이날 수업에 참석한 한모(13)양은 “엄마가 체형 교정에 도움이 된다며 같은 반 친구들과 함께 등록해줬다”며 “하루 종일 앉아 있으면 허리가 굽는 느낌이었는데, 초등학교 3학년 때부터 필라테스를 하면서 몸이 펴진 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;이 학원 수강생의 약 30%는 어린이다. 성인 수업과 달리 줄넘기나 공놀이를 접목해, 무거운 가방과 학습량 증가로 생기는 척추 측만이나 거북목을 교정하는 데 초점을 맞추고 있다. 학원 측은 “아이들 자세가 학습에 영향을 줄 수 있다는 우려로 등록하는 경우가 많고, 정형외과 의사의 권유로 오는 학부모도 있다”고 했다.&lt;br&gt;&lt;br&gt;학부모들 사이에서는 자세 교정 역시 교육의 연장선이라는 인식이 강하다. 11살 자녀를 둔 이모(43)씨는 “가방이 무겁고 앉아 있는 시간이 길다 보니 아이가 목이 아프다고 했다”며 “내가 필라테스를 오래 해보니 효과를 느껴 자녀에게도 권했다”고 말했다. 이씨는 “같은 반 25명 중 9명 정도가 필라테스를 배우는 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;12살 자녀를 둔 김모(46)씨는 “축구나 농구보다 소규모 수업이라 아이가 친구들과 더 가까워질 수 있다”며 “앞으로 공부 시간이 늘어날 것을 생각하면 초등학생 때부터 자세를 바로잡아두는 게 낫다고 봤다”고 말했다.&lt;br&gt;&lt;br&gt;대치동에서는 어린이 킥복싱 수업도 인기를 끌고 있다. 한 킥복싱 학원은 겨울방학을 맞아 수강생이 몰리면서 신규 등록을 받지 못할 정도라고 했다. 학원 관계자는 “수강생 비율은 초등학생과 중학생이 각각 40%, 고등학생이 20%”라며 “따로 운동 시간을 내기 어려워 학원에서 활동량을 채우려는 수요가 늘고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘성추행 혐의’ 국민의힘 손범규 전 대변인, 검찰 송치 </title>
-      <link>https://www.chosun.com/national/incident/2026/01/26/CUTKCJN2ERHY5J7NHSXJSGLWPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/26/CUTKCJN2ERHY5J7NHSXJSGLWPY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Jan 2026 04:15:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDKNZYGIYTEYLCGU2DCYRXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 손범규 전 대변인./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성추행 혐의로 경찰 수사를 받아온 국민의힘 손범규 전 대변인이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 강제추행 혐의로 손 전 대변인을 검찰에 송치했다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;손 전 대변인은 지난 2023년 2월 인천시 남동구의 한 주점에서 같은 당 소속 여성 구의원 A씨를 강제 추행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 11월 “손 전 대변인이 불필요한 신체적 접촉을 했다”며 경찰에 고소장을 제출했다. &lt;br&gt;&lt;br&gt;손 전 대변인은 경찰 조사에서 “그런 적 없다” “기억나지 않는다”며 혐의를 부인한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;손 전 대변인은 이번 논란으로 당 대변인직에서 사임하면서도, 고소 내용은 사실이 아니라는 입장을 나타냈다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 주점 동석자들의 진술 등을 토대로 손 전 대변인의 범죄 혐의가 인정돼 사건을 검찰에 송치했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“자기야 힘들지? 사랑해” 감정을 학습한 AI...그 대가는 ‘악성 코드’  </title>
@@ -953,15 +965,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4R7SZX4P4JBJ5HY54MAYEX2OLQ.jpg?auth=ee511204c521f0793710eaf32ebd0f28d3a1ab2ba6e89504ff794e82a9ffbb40&amp;smart=true&amp;width=1800&amp;height=1350" type="image/jpeg" height="1350" width="1800">
         <media:description type="plain">배우 비비안 리가 극중에서 대사를 하고 있다./배급사: 메트로-골드윈-메이어(MGM)</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>檢 ‘김학의 허위보고서 작성’ 이규원 선고 유예에 상고 포기</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/24/HGKPWEO4HZFZ5CGCIFDSVCRJP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/24/HGKPWEO4HZFZ5CGCIFDSVCRJP4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 24 Jan 2026 09:04:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW3ECOWEWZDFXICSOXSILBOSXU.jpg"&gt;&lt;br&gt;&lt;br&gt;검찰이 허위 공문서 작성 등 혐의로 기소된 이규원 조국혁신당 조국혁신당 전략위원장에게 벌금형 선고 유예가 내려진 항소심 판결에 대한 상고를 포기했다. 24일 법조계에 따르면 검찰은 상고 기한이었던 전날(23일)까지 상고장을 제출하지 않았다. 반면 이 전 검사 측은 지난 22일 상고해 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;이 위원장은 2019년 대검찰청 과거사진상조사단 활동 당시, ‘김학의 전 법무부 차관 성 접대’ 의혹 핵심 인물인 건설업자 윤중천씨를 면담한 뒤 허위 내용이 포함된 보고서를 작성하고 이를 언론에 유출한 혐의로 재판에 넘겨졌다. 보고서에는 “윤씨가 ‘윤석열 검찰총장이 원주 별장에 온 적이 있는 것도 같다’고 말했다”는 취지의 내용도 포함됐다. 이 보고서를 토대로 법무부 과거사위원회는 김 전 차관 사건에 대한 수사 권고를 했다. &lt;br&gt;&lt;br&gt;앞서 1심은 이 전 검사가 윤씨와의 3차례 면담 중 녹취 없이 복기해 작성한 부분을 허위 공문서 작성으로 인정했다. 다만 “범행 비중이 크지 않다”며 벌금 50만원의 선고를 유예했다. 선고유예는 유죄는 인정되나, 2년간 추가 범죄가 없으면 면소(免訴)로 간주되는 제도다. 2심은 1심이 무죄로 본 개인정보보호법 위반, 형사사법절차전자화법 위반 혐의를 유죄로 판단해 벌금 200만원의 선고를 유예했다. 나머지 혐의에 대해서는 1심 판단을 유지했다.&lt;br&gt;&lt;br&gt;이 전 검사는 판결 뒤 자신의 SNS에 “이제 선고유예된 벌금 200만원이 양형의 상한이 됐다”며 “이 부분도 시정돼야 마땅하니 대법원을 설득하기 위해 최선을 다하겠다”고 밝혔다. 이 전 검사는 2019년 3월 김 전 차관의 출국을 불법으로 금지한 혐의로도 기소됐으나 대법원에서 무죄 확정 판결을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
