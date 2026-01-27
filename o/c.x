@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>진주 버섯농장서 불… 새송이버섯 5t 불에 타 </title>
+      <link>https://www.chosun.com/national/2026/01/28/WMHVBGRTING3FMIHLXZA6ILNEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/28/WMHVBGRTING3FMIHLXZA6ILNEI/</guid>
+      <dc:creator>진주=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 Jan 2026 23:10:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVPVILG5NVFEPPS4CDNXGYNG5Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;28일 새벽 발생한 경남 진주 금곡면 버섯농장 화재 현장. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 새벽 경남 진주의 한 버섯 재배 농장에서 화재가 발생해 소방 당국이 진화 작업에 나섰다. &lt;br&gt;&lt;br&gt;소방 본부에 따르면 이날 오전 0시 13분쯤 경남 진주시 금곡면 정자리에 있는 한 버섯 재배 농장에서 불이 났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;불이 나자 소방 당국은 관할 소방서 인력 전체가 출동하는 대응 1단계를 넘어, 오전 0시 43분 인근 소방서 인력·장비까지 동원하는 대응 2단계를 발령했다. 현장에는 소방대원과 경찰 등 인력 97명, 소방차 등 장비 35대가 현장에 투입됐다. &lt;br&gt;&lt;br&gt;화재 발생 4시간여 만인 오전 4시 20분쯤 큰 불길이 잡혔다. 현재 소방대원들은 현장에 남아 잔불 정리 작업을 이어가고 있다.&lt;br&gt;&lt;br&gt;이번 화재로 인한 인명 피해는 없었다. 하지만 1700㎡ 규모 버섯재배사 등 건물 2개동이 불에 탔다. 또 이곳에서 키우던 새송이버섯 약 5t이 불에 타거나 소실된 것으로 추정된다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 잔불 정리가 끝나는 대로 정확한 화재 원인과 구체적인 피해 규모를 조사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>베트남 날아간 서울대 교수들… ‘과학 인재’ 잡으려 마이크 잡았다</title>
       <link>https://www.chosun.com/national/national_general/2026/01/28/I3E5QLTMNZFGXIZPEI5NJINACM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/28/I3E5QLTMNZFGXIZPEI5NJINACM/</guid>
@@ -876,15 +885,6 @@
       <description/>
       <pubDate>Mon, 26 Jan 2026 15:50:00 +0000</pubDate>
       <content:encoded>겨울에 날씨가 영하로 떨어지면 강이나 호수의 표면은 얼음으로 덮입니다. 그런데 꽁꽁 언 물속 생물들은 어떻게 지내고 있을까요? 사실 강이나 호수의 표면 아래 물은 쉽게 얼지 않아요. 그래서 요즘처럼 추운 겨울에도 물속에서는 생명이 살고 있지요. 물고기들은 얼어붙은 강에서 어떻게 추위를 견디며 생활할까요? 이 질문에 대한 해답은 물고기의 능력만으로는 설명할 수 없답니다. 물고기의 생존 전략과 물의 특별한 성질이 함께 작용하기 때문이죠. 오늘은 겨울에도 물고기의 생명을 지켜주는 물에 숨겨진 과학을 살펴볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKYEXXII6JDKRCYKZXIFKE4OSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;물이 가장 무거워지는 온도? 4도&lt;/b&gt;&lt;br&gt;&lt;br&gt;물질마다 차지하는 공간의 크기와 무거운 정도는 조금씩 다릅니다. 과학에서는 이렇게 물질이 차지하는 공간의 크기를 ‘부피’, 같은 크기일 때 얼마나 무거운지를 ‘밀도’라고 부릅니다. 대부분의 물질은 온도가 내려가면 부피는 작아지고, 밀도는 커집니다. 하지만 물은 이 일반적인 규칙을 따르지 않아요. &lt;br&gt;&lt;br&gt;물은 4도일 때 가장 부피가 작고 밀도가 큽니다. 4도일 때 가장 무거워지는 것이죠. 그런데 4도보다 온도가 더 내려가면 부피는 다시 커지고 밀도는 다시 작아지기 시작해요. 그러다 0도에서 얼음이 되면 액체 상태의 물보다 가벼워져 물 위에 뜨게 됩니다. 컵에 담긴 얼음물에서도 얼음이 항상 동동 떠 있지요. 이런 성질 덕분에 겨울에도 강과 호수의 물이 아래부터 얼어붙는 일은 일어나지 않습니다.&lt;br&gt;&lt;br&gt;그렇다면 왜 물은 4도일 때 가장 무거울까요? 비밀은 수소 결합에 있어요. 물을 이루는 아주 작은 알갱이인 ‘물 분자’(H₂O)는 1개의 산소(O) 원자와 2개의 수소(H) 원자로 이루어져 있는데요. 여기서 수소 원자는 이웃한 물 분자의 산소 원자와 서로 끌어당기는 힘이 작용하는데 이를 수소 결합이라고 해요. &lt;br&gt;&lt;br&gt;물이 차가워지면 물 분자들의 움직임이 점점 느려집니다. 따뜻할 때는 이리저리 많이 움직이던 물 분자들이 차가워질수록 덜 움직이는 거예요. 온도가 낮아질수록 물 분자들은 수소 결합으로 연결된 상태를 유지한 채로 분자 사이 빈틈을 좁혀나가요. 그렇게 물은 4도까지 점점 무거워집니다.&lt;br&gt;&lt;br&gt;하지만 물이 4도보다 더 차가워지면 상황이 달라져요. 어는 온도인 0도와 가까워지면서, 물 분자들이 얼음이 되기 전 단계에 들어가기 때문입니다. 얼기 위해 가장 안정적인 모양으로 줄을 서려고 하는데요. 4도에서 0도로 갈수록 물 분자들은 얼음이 되기 위해 규칙적인 모양을 잡으려고 움직입니다. 이때 물 분자 사이 빈 공간이 점점 커져서 물이 차지하는 공간도 커지게 됩니다. 이렇게 되면 더 가벼워지죠. 그래서 0~4도 사이의 물은 아래로 가라앉지 않고 표면에 머물게 됩니다. 그러다 마침내 0도에서 얼음이 되면, 0~4도 물보다 가벼운 얼음이 위로 떠오르게 되는 거죠.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;얼지 않는 바다&lt;/b&gt;&lt;br&gt;&lt;br&gt;겨울에 강과 호수는 얼음으로 덮이는데, 바다는 얼지 않지요. 한겨울에도 바닷물이 출렁이는 모습을 쉽게 볼 수 있어요. 왜 바닷물은 강물처럼 쉽게 얼지 않는 걸까요?&lt;br&gt;&lt;br&gt;그 이유 중 하나는 바닷물 속에 소금(염화나트륨)이 들어 있기 때문이에요. 바닷물에는 소금이 녹아서 물 분자들 사이에 섞여 있는데요. 물이 얼음이 되려면 물 분자들이 가지런히 줄을 서야 하는데, 소금이 그 사이에 끼어들어 물 분자들이 제대로 줄을 서지 못하게 합니다. 그래서 강물은 0도에서 얼기 시작하지만, 바닷물은 더 낮은 온도가 돼야 얼 수 있지요.&lt;br&gt;&lt;br&gt;소금 외에도 바닷물이 쉽게 얼지 않는 또 다른 이유는 바다에 늘 파도가 치고, 물이 계속 움직이기 때문이에요. 물이 섞이면 차가운 물이 한곳에 머무르기 어려워서 얼음이 만들어질 시간도 줄어들게 됩니다. 또 다른 원인으로는 난류 영향도 꼽을 수 있어요. 난류를 따라 따뜻한 물이 흐르면서, 바닷물이 어는 것을 막아 주지요.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;물고기의 겨울나기&lt;/b&gt;&lt;br&gt;&lt;br&gt;강·호수 위 얼음은 물속 생물들을 지켜 주는 보호막 역할을 합니다. 얼음이 뚜껑처럼 덮여 있으면, 바깥의 차가운 공기를 막아줍니다. 그래서 얼음 아래 물은 비교적 안정적으로 온도를 유지할 수 있습니다.&lt;br&gt;&lt;br&gt;얼음 아래 강·호수 물은 보통 4도 정도인데요. 이 온도는 물고기와 여러 생물이 겨울을 견딜 수 있는 최소한의 온도예요. 4도면 그래도 차가운 물인데, 물고기들은 어떻게 겨울을 견디며 살아갈 수 있을까요?&lt;br&gt;&lt;br&gt;물고기는 바깥 온도에 따라 체온이 변하는 ‘변온 동물’이에요. 사람처럼 몸 속에서 열을 만들어 체온을 유지하지 못하죠. 그래서 물 온도가 내려가면 물고기의 체온도 함께 내려가요. 하지만 물고기들은 이런 변화를 미리 예상하고 생활 방식을 바꿉니다. 겨울이 되면 강바닥이나 물 속 깊은 곳에서 움직임을 줄이고 먹이도 거의 먹지 않으며 에너지를 최대한 아낍니다. 심장 박동과 호흡 횟수도 줄어들어 적은 에너지로도 오랫동안 버틸 수 있게 되는 것이죠.&lt;br&gt;&lt;br&gt;물고기는 얼마나 추워야 생명이 위험해질까요? 우리나라 강에 사는 붕어나 잉어 같은 물고기들은 비교적 추위에 강해 물의 온도가 0도 가까이 내려가도 얼음 아래에서 살 수 있어요. 반면 열대 지방에서 사는 물고기들은 차가운 물에 약해 수온이 크게 내려가면 생존이 어렵지요.&lt;br&gt;&lt;br&gt;여기서 중요한 점은 물고기에게 낮은 온도 자체보다 급격한 온도 변화가 더 위험하다는 사실이에요. 물이 천천히 차가워지면 물고기는 적응할 시간을 갖지만, 갑자기 차가워지면 큰 스트레스를 받게 됩니다. 그래서 겨울철 물고기들이 온도가 비교적 안정적인 깊은 물속을 선택해 머무는 것이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 1월 27일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/01/27/CSFTEINURRE5LBLXRYEMAT3VFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/27/CSFTEINURRE5LBLXRYEMAT3VFI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPZROBTQERA2DD6R5JLAATS4WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울시의회 국민의힘 “김경 제명 직전 사퇴는 꼼수 탈출”</title>
