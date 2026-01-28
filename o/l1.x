@@ -6,6 +6,86 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>변리사회, '변리사 비밀유지권' 입법 발의 환영</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/215402.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;대한변리사회(회장 김두규)가 28일 변리사 비밀유지권 도입을 주요 골자로 하는 ‘변리사법 일부개정법률안’ 발의를 환영하며 조속한 국회 통과를 촉구한다는 성명을 냈다. &lt;br /&gt;&lt;br /&gt;27일 김종민(무소속) 의원은 변리사법 일부개정법률안을 대표 발의했다. ‘변리사 비밀유지권(Patent Attorney-Client Privilege)’은 변리사와 의뢰인이 주고받은 비밀의 의사교환 내용 및 관련 자료에 대해 일정한 범위에서 비밀유지권을 인정하는 제도다. &lt;br /&gt;&lt;br /&gt;변리사회는 성명에서 “‘한국형 증거개시제도’ 도입과 함께 ‘변리사 비밀유지권’을 주요 내용으로 하는 변리사법 개정안의 조속한 국회 통과를 촉구한다”고 밝혔다. 기업과 연구개발현장에서 제품개발부터 특허확보, 이와 관련한 주요 기밀 사항까지 변리사의 법률적 조력을 받고 있다는 설명이다. &lt;br /&gt;&lt;br /&gt;변리사회는 변리사 비밀유지권이 “한국형 증거개시제도에 대한 여러 우려를 불식시킬 수 있는 근원적 해결책”이라고 강조했다. 기업들이 변리사 등 전문가로부터 충분한 법률적 조력을 받기 위해 주고받은 교신내용과 작성된 자료의 보호가 필수적이라는 설명이다. 변리사회는 한국형 증거개시제도가 특허침해소송에 도입되면 변리사 비밀유지권의 중요성이 더욱 커진다고도 했다.&lt;br /&gt;&lt;br /&gt;변리사회에 따르면 미국 등 증거개시제도를 운영하는 대부분의 해외 국가들이 변리사 비밀유지권을 함께 운영하고 있다. 변리사회는 “국내소송에서의 변리사 비밀유지권은 해외 특허침해소송에서 우리 기업의 비밀정보를 보호하는 데에도 결정적 역할을 한다”고 했다.</description>
+			<pubDate>Wed, 28 Jan 2026 06:48:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215402</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215402</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215402.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 통일교 청탁 윤영호 전 본부장, 1심서 징역 1년 2개월</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/215404.jpg" alt="1111.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 28 Jan 2026 06:45:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215404</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215404</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215404.jpg</media:thumbnail>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 위례 개발 비리 유동규, 남욱 등 민간업자 일당 1심서 무죄</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215401.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;유동규·남욱 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;위례 신도시 개발 특혜 의혹으로 기소된 유동규 전 성남도시개발공사 기획본부장과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15796"&gt;남욱&amp;nbsp;&lt;/span&gt;변호사, 정영학 회계사 등 대장동 민간업자 일당이 1심에서 무죄를 선고받았다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사1단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9902"&gt;이춘근&amp;nbsp;&lt;/span&gt;부장판사는 1월 28일 부패방지권익위법 위반 혐의로 기소된 유 전 본부장과 남 변호사, 정 회계사에게 모두 무죄를 선고했다(&lt;b&gt;2022고단4898&lt;/b&gt;). 위례자산관리 대주주로 사업에 참여한 정재창 씨와 특수목적법인 푸른위례프로젝트 대표 주지형씨도 무죄를 선고받았다.&lt;br /&gt;&lt;br /&gt;이 부장판사는 민간업자에게 넘어간 정보가 부패방지법상 '비밀'에 해당한다고 판단했다. 다만 "공소사실과 같이 피고인들이 개발사업 과정에서 부패방지법에 규정된 비밀을 이용해 구체적인 '배당 이익'을 재산상 이익으로 취득했다고 보기는 어렵다"라고 설명했다.&lt;br /&gt;&lt;br /&gt;재판부는 '비밀'을 이용해 '사업자 지위'를 취득하면 역시 재산상 이익을 얻은 것으로 인정할 수 있다면서도 이 사건의 공소사실에서는 사업자 지위가 재산상 이익으로 적시되지 않아 별도로 판단하지 않겠다고 밝혔다.&lt;br /&gt;&lt;br /&gt;유 전 본부장 등은 2013년 7월 위례신도시 A2-8블록 개발사업에 관한 공사의 내부 비밀을&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15796"&gt;남욱&amp;nbsp;&lt;/span&gt;변호사, 정영학 회계사, 정재창 씨에게 공유해 이들이 설립한 위례자산관리가 민간사업자로 선정되게 한 혐의를 받는다.</description>
+			<pubDate>Wed, 28 Jan 2026 06:36:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215401</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215401</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215401.jpg</media:thumbnail>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 김건희 1심 징역 1년 8개월·1281만 원 추징·그라프 목걸이 압수</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215400.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김건희 여사 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;도이치모터스 주가조작 및 통일교 청탁 금품 수수 혐의 등을 받는 김건희 여사가 1심에서 징역 1년 8개월을 선고받았다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사27부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1123"&gt;우인성&amp;nbsp;&lt;/span&gt;부장판사)는 1월 28일 오후 2시 10분 김 여사의 자본시장법·정치자금법 위반 등 혐의 1심 선고기일(&lt;b&gt;2025고합1223&lt;/b&gt;)을 열고 이같이 선고했다. 추징금 1281만 5000원도 명령했다. 재판부는 "그라프 목걸이는 압수하되, 샤넬 가방 등은 현재 몰수 불가능하니 추징한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;재판부는 김 여사가 자본시장법을 위반했다는 도이치모터스 주가조작 혐의에 대해서 무죄로 판단했다. 재판부는 "시세조종 행위와 관련해서 김 여사가 조종 세력과 공동정범으로 실행했다고 보기는 어렵다"라고 했다. 정치 브로커 명태균 씨와 관련된 정치자금법 위반 혐의에 대해서도 무죄 판단했다. 재판부는 "명 씨와 김 여사 부부 사이에 계약 체결이 없었고, 김 여사 부부가 (명 씨로부터) 보고 받은 바도 없으며, 명 씨가 자발적으로 여론조사를 진행한 점도 있고, 명 씨가 김 여사 부부 외에도 다른 방법으로 이미 여론조사 비용을 충당한 점을 비춰 봤을 때 범죄사실에 증명이 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;다만 통일교 측으로부터 청탁과 함께 고가 물품을 전달받은 혐의만 일부 유죄로 봤다. 재판부는 "김 여사가 받은 금품의 가액과 청탁 실현을 위한 지원금 사이에 대가관계가 있다는 점을 부인할 수 없어 유죄"라고 설명했다. 재판부는 이 부분에 관해서 알선 목적이 있었다는 취지로 판단했다.&lt;br /&gt;&lt;br /&gt;재판부는 "영리 추구는 인간의 본성이지만 사회적 지위가 영리 추구의 수단이 돼서는 안 된다"라고 설명했다. 선출된 대통령의 영부인이었던 김 여사가 그 지위를 이용해 영리 추구를 했다는 점을 지적한다는 취지다. 재판부는 김 여사가 금품 수수와 관련해서 주변인들에게 허위 진술을 권유한 점을 불리한 양형으로 보되, 뒤늦게 반성하고 자책한 점과 별다른 범죄 전력이 없는 점을 유리한 양형으로 인정했다. &lt;br /&gt;&lt;br /&gt;앞서 12월 3일 민중기 특검팀은 김 여사에게 징역 15년을 구형했다. 특검팀은 김 여사에게 자본시장법 위반 및 알선수재 혐의에 대해 징역 11년과 벌금 20억 원, 추징금 8억 1000만 원을 선고해달라고 요청했다. 정치자금법 위반 혐의에 대해서는 징역 4년과 추징금 1억 3000만원을 구형했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;이날 특검팀은 "김 여사가 종교단체와 결탁해 헌법상 정교분리 원칙을 무너뜨리고, 민주주의의 근간인 선거 공정성과 대의제 민주주의 국가 통치 시스템을 붕괴시켰다"고 했다.&lt;br /&gt;&lt;br /&gt;김 여사는 2010년 10월∼2012년 12월 도이치모터스 주가조작에 가담해 8억 1000만 원 상당의 부당이득을 취득한 혐의 등으로 작년 8월 구속기소 됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2021년 4월∼2022년 3월 윤 전 대통령과 공모해 명태균 씨로부터 58회에 걸쳐 2억 7000만여 원 상당의 여론조사 결과를 제공받은 혐의, 2022년 4∼7월 건진법사 전성배 씨와 공모해 통일교 측으로부터 교단 지원 청탁과 함께 8000만 원 상당의 금품을 수수한 혐의도 받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Wed, 28 Jan 2026 06:24:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215400</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215400</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215400.jpg</media:thumbnail>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] '위례 개발비리' 유동규·남욱 등 민간업자 일당 1심서 무죄</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215399.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;유동규·남욱 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;br /&gt;</description>
+			<pubDate>Wed, 28 Jan 2026 05:58:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215399</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215399</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215399.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 김건희, 자본시장법·정치자금법 위반 혐의 '무죄'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/215398.jpg" alt="1111.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 28 Jan 2026 05:58:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215398</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215398</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215398.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] '통일교 금품 수수' 김건희, 징역 1년 8개월·1281만 원 추징·그라프 목걸이 압수</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215397.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김건희 여사 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;br /&gt;</description>
+			<pubDate>Wed, 28 Jan 2026 05:55:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215397</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215397</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215397.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 법원 "김건희, 시세조종 인식했어도 공동정범 단정 어려워"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215396.jpg" alt="1111.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 28 Jan 2026 05:29:07 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/215396</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215396</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215396.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2026년 1월 28일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 시민개헌넷 개헌 간담회(의장집무실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇상임위원회&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;10:00 외교통일위원회 전체회의(본관 401호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:30 박홍배 의원실 등, 야간노동 규제방안 촉구 국회 토론회(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 윤후덕 의원실 등, 2026 한반도와 국제정세 전망(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 위성곤 의원실 등, 기후시민회의를 통한 시민 참여방안 토론회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;10:30 임미애 의원실 등, 지방자치 30년 평가와 과제(의원회관 신관 제1세미나실)&lt;br /&gt;&lt;br /&gt;11:50 최형두 의원실 등, AI·SW 정책 및 산업 현안 브라운백 3차 포럼(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;13:00 문대림 의원실 등, 에너지 주권을 위한 농촌 재생에너지플랜: 제3회 KAFS 2026 지속가능농업포럼(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김승원 의원실 등, 스테이블코인 확산에 따른 자금세탁방지(AML) 시스템 동향 및 점검 포럼(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 서영석 의원실, 2026년 국가금연지원서비스의 역할, 이대로 괜찮은가?: 국민건강보호를 위한 금연정책 강화 방안 모색토론회(의원회관 신관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 서미화 의원실 등, 교통약자이동편의증진법 20주년 평가와 교통약자이동권보장법 제정 필요성 토론회(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 민홍철 의원실 등, 국민주권시대, 국가보훈정책 어떻게 가야 하나?: 2026 제2차 보훈정책포럼(국회박물관 국회체험관)&lt;br /&gt;&lt;br /&gt;14:00 남인순 의원실 등, 지역 일차의료 강화를 위한 의과대학 교육과정 혁신: 의과대학에서 무엇을 가르칠 것인가?(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 유용원 의원실 등, 한국형 핵추진잠수함(K-SSN) 특별법 제정을 위한 긴급토론회(의원회관 신관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 남인순 의원실 등, 현행 기초연금의 문제점과 개편방안(의원회관 제11간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 오세희 의원실 등, 화원업종 의무교육 제도 마련을 위한 정책 간담회(의원회관 제5간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:40 전종덕 의원, [광주·전남 통합과 호남 대통합을 위한 정책 제언 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 조배숙 의원, ['정교분리' 곡해로 교회 폐쇄와 재산 몰수하는 악법 반대 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 윤종오 의원, [도서산간 지역 택배 추가배송료 부과금지 생활물류법 개정안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 신장식 의원, [조국혁신당 지방선거 공천 방침 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Tue, 27 Jan 2026 22:35:33 -0000</pubDate>
@@ -160,83 +240,6 @@
 			<link>https://www.lawtimes.co.kr/news/215387</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215387</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215387.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, 이달 말 중간 간부·평검사 인사…검사들 사직 행렬</title>
-			<description>법무부가 이달 말 차장·부장검사 등 검찰 중간간부와 평검사 인사를 단행한다. 이르면 오는 29일 인사 결과가 발표될 전망이다.&lt;br /&gt;&lt;br /&gt;법무부는 27일 정부과천청사에서 검찰인사위원회를 열고 고검검사급(차장·부장검사) 검사와 일반검사 인사 원칙 등을 심의했다.&lt;br /&gt;&lt;br /&gt;사법연수원 40기 일부를 부장검사로, 법조 경력 14년 상당의 41기 검사들을 부부장검사로 각각 신규 보임할 방침이다. 인사 발표는 이달 말 이뤄지고, 부임 시기는 고검검사급은 2월 첫째 주, 일반검사는 2월 9일이다.&lt;br /&gt;&lt;br /&gt;평검사 인사는 일선 기관장의 인사 의견을 충분히 반영해 전국 각지에서 검찰 본연의 업무를 충실히 수행해온 검사들을 주요 부서에 발탁할 계획이다. &lt;br /&gt;&lt;br /&gt;법무부는 "대검 검사급 검사 신규 보임에 따른 중간간부 재편 필요성과 직제 개편으로 인한 보직 신설 등을 고려해 고검검사급 인사를 실시한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;또 "필수 보직 기간을 충족한 검사를 대상으로 경향 교류 원칙과 지방청 권역별 분산 배치 등 인사 원칙에 따라 정기 인사를 실시한다. 출산·육아 목적 장기근속제 등을 폭넓게 적용하고, 질병·출산·육아 등 개별 고충도 최대한 반영했다"고 말했다. &lt;br /&gt;&lt;br /&gt;인사를 앞두고 연쇄 사직이 시작됐다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13786"&gt;홍용화&lt;/span&gt;(사법연수원 35기·부천지청장 직무대리) 인천지검 부천지청 차장검사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14837"&gt;송봉준&lt;/span&gt;(36기) 서울중앙지검 공공수사2부장검사가 사의를 표명했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14139"&gt;최재만&lt;/span&gt;(36기) 서울중앙지검 형사3부장과 쌍방울 대북 송금 의혹 사건 수사를 지휘했던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13338"&gt;서현욱&lt;/span&gt;(35기) 부산고검 창원지부 검사도 사의를 표했다. &lt;br /&gt;</description>
-			<pubDate>Tue, 27 Jan 2026 11:30:17 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215388</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215388</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희 특검, 국토부 서기관 공소기각에 항소</title>
-			<description>국토교통부 서기관의 뇌물 혐의 공소기각 판결에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&lt;/span&gt;&amp;nbsp;특별검사팀(김건희 특검)이 항소했다.&lt;br /&gt;&lt;br /&gt;김건희 특검은 1월 27일 서울중앙지법 형사22부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9671"&gt;조형우&amp;nbsp;&lt;/span&gt;부장판사)에 항소장을 냈다. 앞서 22일 재판부는 김 모 국토부 서기관의 뇌물 혐의를 특검이 수사하고 기소한 것 모두 잘못이라며 공소기각 판결했다(&lt;b&gt;2025고합1267&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;특검은 압수수색 중 김 서기관의 집에서 3000여만 원을 발견했다. 김건희 여사나 양평고속도로 개발사업 때문에 받은 돈은 아니었다. 1심 재판부는 특검이 합법적으로 찾은 증거라 해도 결국 "양평고속도로 사건의 진실 규명에 영향"을 주지 않아 '합리적 관련성'이 없는 별건수사라고 판단했다.&lt;br /&gt;&lt;br /&gt;특검은 반발했다. 특검은 특검법의 취지에 비춰보면 법원이 '합리적 관련성' 범위를 폭넓게 인정해야 한다고 주장했다. 헌법은 특검의 수사범위에 국회의 폭넓은 입법재량을 인정해 왔고 역대 특검도 수사범위가 개방적이었다는 것이다.&lt;br /&gt;&lt;br /&gt;특히 2025년 9월 김건희 특검법이 개정되면서 '관련 범죄행위'의 정의가 신설된 취지도 수사범위를 넓히려는 것이라고 주장했다. 당시 국회 법제사법위원회는 개정안의 제안이유에 "수사대상이 매우 방대하고, 새로운 인지사건과 의혹도 늘어나고 있는 상황"이라고 썼다.&lt;br /&gt;&lt;br /&gt;특검은 특검법 개정으로 특검보와 파견검사 수가 늘고 수사기간 연장 횟수가 추가된 점도 근거로 들었다. 적극적 수사를 바라는 것이 입법 취지라는 것이다. 그러면서 "1심 재판부는 신설된 규정이 마치 특검의 수사범위를 제한하는 것으로 해석했다"고 주장했다.&lt;br /&gt;&lt;br /&gt;1심 재판부는 적법한 수사기관에서 사건을 다시 수사하면 특검이 아닌 공소기관이 재기소할 수 있다고 설명했다.</description>
-			<pubDate>Tue, 27 Jan 2026 11:28:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215386</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215386</guid>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>특검, 노상원 전 정보사령관에 징역 3년 구형</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215384.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;노상원 전 국군정보사령관. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태 당시 중앙선거관리위원회 수사를 맡을 별동 조직 '제2수사단'을 결성하고 군사정보를 불법으로 빼돌린 혐의를 받는 노상원 전 국군 정보사령관에 대해 조은석 내란특별검사팀이 징역 3년을 구형했다.&lt;br /&gt;&lt;br /&gt;내란 특검팀은 27일 서울고법 형사3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9082"&gt;이승한&amp;nbsp;&lt;/span&gt;부장판사) 심리로 열린 노 전 사령관의 개인정보보호법 위반, 특정범죄 가중처벌법상 알선수재 혐의 사건의 결심 공판에서 징역 3년을 구형했다(&lt;b&gt;2025노3719&lt;/b&gt;). 또 진급 청탁 명목으로 받은 2490만 원을 추징해달라고도 요청했다. 2심 선고 공판은 오후 2월 12일 오후 2시 30분에 열린다.&lt;br /&gt;&lt;br /&gt;앞서 2025년 12월 15일 1심 재판부는 노 전 사령관에게 징역 2년의 실형을 선고하고 추징금 2490만 원을 명령했다(&lt;b&gt;2025고합901&lt;/b&gt;). 이날 재판부는 공소사실에 대해 전부 유죄로 판단했다. 재판부는 "노 전 사령관은 민간인 지위에 있으면서도 현역 국방부 장관 군인 인사권자의 개인적인 관계를 내세워 절박한 심정인 후배 군인들의 인사에 관여하려고 시도했다"고 말했다. 또 "계엄 상황 염두에 둔 준비행위로 수사단을 구성하면서 인사에 대해 도움받던 후배 군인들까지 주요 역할을 수행하도록 끌어들인 범행을 저질렀다"라고 설명했다. &lt;br /&gt;&lt;br /&gt;내란 특검팀은 양형부당을 이유로 항소했다. &lt;br /&gt;&lt;br /&gt;노 전 사령관은 민간인 신분이던 2024년 11월 부정선거 의혹을 수사할 '2수사단'을 구성하기 위해 문상호 전 정보사령관으로부터 정보사 소속 요원들에 대한 인적 정보 등 군사정보를 건네받은 혐의를 받는다. 같은 해 진급 청탁 명목으로 김봉규 정보사 대령과 구삼회 전 육군 2기갑여단장으로부터 2600만 원 상당 금품을 받은 혐의도 있다.</description>
-			<pubDate>Tue, 27 Jan 2026 11:27:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215384</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215384</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215384.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>"과학자와 법률가가 대화하는 새로운 분야에 도전"... 문형배 전 헌법재판소장 권한대행, 카이스트 초빙석학교수 부임</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215383.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;문형배 전 헌법재판소장 권한대행《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1143"&gt;문형배&lt;/span&gt;(사법연수원 18기) 전 헌법재판소장 권한대행이 1월 9일 한국과학기술원(KAIST) 문술미래전략대학원 초빙석학교수로 부임했다. 그의 거취가 결정된 것은 작년 4월 퇴임한 이후 약 9개월 만이다. &lt;br /&gt;&lt;br /&gt;문 전 대행은 법률신문과의 통화에서 과학과 인문을 추구하는 카이스트의 방향성이 자신의 생각과 궤를 같이 했다고 설명했다. 그는 "AI 시대는 과학기술만 필요한 것이 아니라 법률가가 필요하다"며 "저는 특강을 통해 AI와 관련된 법적 쟁점을 설명하고, 카이스트 학생들은 과학자의 관점에서 이를 이해하는 방식으로 과학자와 법률가가 대화할 수 있을 것"이라 말했다.  &lt;br /&gt;&lt;br /&gt;로스쿨을 선택하지 않은 이유에 대해서는 "예비법조인들을 가르치는 일은 지금까지 해왔던 일의 연장선이지만, 과학자들에게 법을 가르치는 일은 과학과 법이 융합되는 새로운 지점"이라며 "서로 다른 분야 간의 교류라는 점에서 도전했다"고 설명했다. 또한 "서울을 가지 않으려 한 것도 하나의 이유였다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;앞으로의 계획에 대해서는 "정규과목을 맡기보다는 AI 관련 특강을 통해 학생들을 만날 것"이라 말했다. &lt;br /&gt;</description>
-			<pubDate>Tue, 27 Jan 2026 08:35:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215383</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215383</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215383.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>고려대 로스쿨, 데이터·AI법 전문과정 3기 수료식 열어</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/215381.jpg" alt="345345.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;1월 20일 열린 '2025학년도 ESEL 데이터·인공지능법 전문과정 3기 수료식'에서 수료생들이 단체사진을 촬영하고 있다.《사진=고려대 로스쿨》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;고려대 로스쿨(원장 김상중)이 1월 20일 서울 성북구 안암동 고려대 수당삼양 패컬티하우스에서 'ESEL(Evolving Society Evolving Law) 데이터·인공지능법 전문과정 3기 수료식'을 열었다고 23일 밝혔다. 2기에 이어 이번 3기 과정에서도 수강생 40명 전원이 수료했다.&lt;br /&gt;&lt;br /&gt;고려대 로스쿨은 2025년 4월 8일부터 총 19주 동안 33개의 주제 강연과 국내 워크숍을 운영했다. 작년 11월에는 '2025년 데이터·AI법 이슈의 분석과 과제'를 주제로 공개세미나를 열기도 했다. &lt;br /&gt;&lt;br /&gt;수료식에서는 모범적으로 참여한 수강생들에게 최우수상·우수상·공로상을, 1년 동안 빠짐없이 참여한 3명에게 개근상을 수여했다.  &lt;br /&gt;&lt;br /&gt;이성엽 주임교수는 "제3기가 수료함으로써 총 120여 명의 데이터·인공지능법 전문가를 배출하게 되어 아주 기쁘다"며 "향후 이 분야의 선도적 역할을 수행해 나갈 것을 기대한다"고 말했다.&lt;br /&gt;&lt;br /&gt;고려대 로스쿨의 데이터·인공지능법 전문과정은 데이터와 AI 분야의 법 전문가 양성을 위해 2022년 개설됐다. 국내 로스쿨 중 처음으로 개설됐으며 김상중 교수와 이성엽 교수가 주임교수를 맡고 있다. &lt;br /&gt;&lt;br /&gt;현재 제4기 과정생을 모집하는 중이다. 제4기 과정 교육기간은 2026년 4월 7일부터 2026년 12월 1일까지다.&lt;br /&gt;</description>
-			<pubDate>Tue, 27 Jan 2026 07:40:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215381</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215381</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215381.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>기아, 글로벌 사회공헌활동 '부트캠프' 성장 다큐멘터리 공개</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/215380.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;- ‘25년 부트캠프 1.0 활동 성과 및 ‘26년 부트캠프 2.0 비전 공유 영상 제작 및 공개&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;- 부트캠프, 실질적이고 지속가능한 선순환 구조 지향하는 기아의 대표적 사회공헌활동&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;… 내연기관 및 하이브리드, 전기차 등 미래 자동차 기술 관련 장비 및 교육 제공&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;- 지난해 전문 정비사 87명 양성… ‘25년 4개국에서 추가 확대해 ‘26년 총 7개국 운영&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;기아가 글로벌 지역사회의 자립 기반 마련을 돕기 위해 미래 세대에게 정비기술 교육을 제공하는 사회공헌활동 ‘부트캠프(Bootcamp)’의 성장 다큐멘터리를 21일(수) 공개했다.&lt;br /&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;부트캠프는 일회성 물품 지원이 아닌 실질적이고 지속가능한 선순환 구조를 지향하는 기아의 대표적 사회공헌활동으로 깊은 우물을 끌어올리기 위해 펌프 위에 붓는 물을 의미하는 ‘마중물’을 핵심 키워드로 삼고 있다.&lt;/p&gt;&lt;br /&gt;이에 따라 기아는 실제 현장에 필요한 차량을 제공하는 것을 비롯해 내연기관뿐 아니라 하이브리드와 전기차 등 미래 자동차 기술과 관련된 다양한 장비 및 교육을 제공하고 있다.&lt;br /&gt;&lt;br /&gt;이번 다큐멘터리는 2025년 부트캠프 1.0의 활동 성과를 공유하고 2026년 추진할 부트캠프 2.0의 비전을 공유하기 위해 제작된 영상이다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/215380.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;기아는 지난해 부트캠프 1.0을 통해 멕시코, 페루, 필리핀, 모로코 등 4개국에서 총 87명의 전문 정비사를 양성했으며 이를 통해 지금까지 34명이 현지 딜러사에 취업을 완료하였다.&lt;br /&gt;&lt;br /&gt;현지 교육기관 및 딜러사와 산학협력을 구성해 각 지역별 상황에 맞는 맞춤형 교육 과정을 제공하고 있는 만큼 아직 교육을 진행 중인 모로코 교육생 50명에게도 교육 종료 후 현지 딜러사와 연계한 각종 지원을 계획 중이다.&lt;br /&gt;&lt;br /&gt;한편 올해 진행할 부트캠프 2.0은 2025년 기준 4개국에서 에콰도르, 남아프리카공화국, 싱가포르 등 국가를 추가 확대해 총 7개국에서 교육 활동을 진행할 예정이다.&lt;br /&gt;&lt;br /&gt;기아 관계자는 “부트캠프는 글로벌 청년들의 잠재력이라는 깊은 우물에서 밝은 미래를 끌어올리는 매우 의미 있고 소중한 활동”이라며 “글로벌 수준의 교육 시설에서 현지 파트너들에게 새로운 기술을 습득할 기회를 제공하는 동시에 기아 브랜드를 직접 경험할 수 있는 다양한 프로그램을 지속 확대해 나갈 예정”이라고 밝혔다.</description>
-			<pubDate>Tue, 27 Jan 2026 07:30:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215380</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215380</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215380.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 최광식 전 경찰청 차장, 검찰 수사 5개월 만에 구속</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: left;"&gt;'해결사'로 활동하며 거액의 금품을 수수한 의혹을 받는 최광식 전 경찰청 차장이 구속됐다. 검찰이 불법 로비 의혹과 관련해 변호사법 위반 및 사기 혐의로 수사에 나선 지 약 5개월 만이다.&lt;/div&gt;&lt;br /&gt;법률신문 취재를 종합하면 법원은 지난주 최 전 차장이 증거인멸 우려 등이 있다고 보고 구속영장을 발부했다.&lt;br /&gt;&lt;br /&gt;최 전 차장은 2025년 8월 분쟁 합의를 명목으로 현금과 고급 승용차 등을 수수한 혐의로 피소됐다. 검찰은 고소인과 피고소인 조사를 차례로 진행한 뒤, 최 전 차장의 휴대전화를 확보해 디지털 포렌식 조사 등 구체적인 사실관계 확인에 주력해 왔다. 이후 검찰은 증거인멸 가능성 등을 종합적으로 고려해 구속영장을 청구한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;한 건설사의 회장인 고소인은 최 전 차장이 2025년 2월 후배인 전직 경찰관 최모씨를 대동해 찾아와 또 다른 피해 사건을 돕겠다는 제안을 했다고 주장했다. &lt;br /&gt;&lt;br /&gt;당시 고소인은 자신의 조카를 포함한 회사 재무담당 임직원 4명이 법인 자금과 개인 자금을 약 650억 원을 빼돌렸다며 이들을 배임·횡령 혐의로 고소한 상태였다. 고소인은 최 전 차장이 '수사 검사에게 압력을 넣겠다, '검사 간부 회의에 유력 정치인의 비서관을 참석시키겠다'는 등의 제안을 했다고 주장했다. 서울중앙지검에서 시작된 이 사건 수사는 이후 진척을 보이지 못했고 무혐의 종결과 항고를 거듭한 끝에 현재 서울서부지검에서 답보상태에 빠져 있는 것으로 알려졌다.   &lt;br /&gt;&lt;br /&gt;고소인 주장에 따르면 최 전 차장은 로비·활동비 명목으로 5회에 걸쳐 총 10억 원을 요구했다. 또 부장검사 퇴직 선물 명목으로 2억6500만 원 상당의 고가 승용차도 준비하라고 지시했다는 내용도 고소장에 포함됐다. 고소인은 최 전 차장이 약속했던 어떠한 중재 활동도 하지 않았다고 주장하고 있다.&lt;br /&gt;&lt;br /&gt;최 전 차장은 피소 후 법률신문에 "고소장 내용은 전혀 사실과 다르다"며 혐의를 전면 부인해 왔다. 하지만 검찰은 최 전 차장이 전직 경찰 간부였던 인맥을 내세워 거액을 편취한 점 등 사안의 중대성을 고려할 때 구속 수사가 불가피하다고 판단했다. 법원 역시 검찰이 제시한 증거와 정황을 검토한 끝에 구속의 필요성을 인정하고 영장을 발부했다.&lt;br /&gt;&lt;br /&gt;최 전 차장은 1999년 '옷 로비 의혹 사건' 당시 사직동팀장(총경)으로 최종보고서를 작성했던 인물이다. 보고서 작성 지시자가 박주선 당시 청와대 법무비서관으로 확인됐고, 박 비서관은 즉각 자리에서 물러났다. 최 전 차장은 2005년 경찰청 차장으로 승진한 뒤 2006년 은퇴했다.&lt;br /&gt;</description>
-			<pubDate>Tue, 27 Jan 2026 07:12:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215375</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215375</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>공군검찰단, 제5기 장병기자단 21명 위촉...군 수사 현장 취재</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/215379.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;1월 26일 충청남도 계룡시 공군본부에서 열린 '제5기 공군검찰단 장병기자단 위촉식'.《사진=공군검찰단》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;공군검찰단(단장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13968"&gt;김형찬&lt;/span&gt;)이 1월 26일 충남 계룡시 공군본부에서 '제5기 공군검찰단 장병기자단 위촉식'을 열었다.  21명의 공군 장병이 이날 위촉장을 받았다. &lt;br /&gt;&lt;br /&gt;장병기자단은 앞으로 1년간 군 수사기관의 임무 현장과 평소 장병들이 방문하기 어려운 형사사법 시설, 군사법원 등을 취재한다. 형사법 관련 카드뉴스를 제작해 장병들에게 법 지식도 공유할 예정이다.&lt;br /&gt;&lt;br /&gt;이번 제5기 장병기자단에는 총 68명의 장병들이 지원했다. 이 중 장교 2명과 병사 19명이 최종 선발됐다. 김준석 일병(병 872기)은 "정확하고 공정한 보도를 통해 공군검찰의 임무와 가치를 올바르게 전달하겠다"며 "공군검찰단의 신뢰를 높이는 데 기여하고 싶다"고 포부를 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13968"&gt;김형찬&lt;/span&gt;(군법무관 17회) 공군검찰단장은 "공군검찰단이 국민과 장병들로부터 신뢰 받는 수사기관으로 자리매김할 수 있도록 많이 도와달라"고 당부하며 "사명감과 책임감을 가지고 군 수사 현장의 목소리를 생생하게 전달해달라"고 말했다. &lt;br /&gt;&lt;br /&gt;장병기자단 제도는 다양한 계급·경력의 공군 현역 장병들을 기자로 선발해 공군 수사기관의 임무 수행 활동을 알리는 제도다. 2022년에 처음 도입된 뒤 현재까지 총 83명이 선발돼 기자단으로 활동했다.</description>
-			<pubDate>Tue, 27 Jan 2026 07:09:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/215379</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/215379</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/215379.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
