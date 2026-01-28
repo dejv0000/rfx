@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘아무 것도 아닌 사람’ 김건희... 법원은 어떤 판단 내릴까</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/28/E3R7TPLKMNACXHZYBSRQVE5EL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/28/E3R7TPLKMNACXHZYBSRQVE5EL4/</guid>
+      <dc:creator>이민준 기자, 오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Jan 2026 04:43:51 +0000</pubDate>
+      <content:encoded>역대 대통령 영부인 중 처음으로 구속 기소된 김건희 여사에 대한 법원의 첫 선고가 28일 오후 나온다. 이날 재판은 TV 등을 통해 생중계된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 이날 오후 2시 10분 김 여사의 자본시장법 위반, 특정범죄가중처벌법상 알선수재, 정치자금법 위반 혐의 사건의 1심 선고 공판을 진행한다. 역대 대통령 영부인 중 헌정 사상 처음으로 구속 기소돼 법원의 판단을 받는 것이다. 전·현직 공직자가 아닌 사람 중 선고 공판이 생중계되는 것도 김 여사가 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4WCNJSGIYDKYRSG42TSMJVMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난해 12월 3일 서울 서초구 서울중앙지방법원에서 열린 자본시장법 위반 혐의 결심 공판에 출석한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 선고가 나오는 김 여사 혐의는 세 갈래다. ‘도이치모터스 주가조작’ 가담 의혹(자본시장법 위반), ‘건진 법사’ 전성배씨에게 통일교 현안 청탁과 함께 샤넬백 2개, 그라프 목걸이 등을 전달받은 혐의(특가법상 알선수재), 20대 대선 당시 명태균씨에게 2억7440만원 상당의 무상 여론조사 결과 58건을 제공받은 혐의(정치자금법 위반)다.&lt;br&gt;&lt;br&gt;특검은 작년 12월 열린 결심 공판에서 김 여사에게 총 징역 15년을 구형했다. 특검은 “법 위에 선 피고인이 정교분리 원칙과 민주주의의 근간인 선거의 공정성, 민주주의 국가 통치 시스템을 무너뜨렸다”며 자본시장법 위반 혐의와 알선수재 혐의에 대해 징역 11년과 벌금 20억원, 추징금 8억1144만3596원을 구형했다. 정치자금법 위반 혐의에 대해선 징역 4년과 추징금 1억3720만원을 구형했다.&lt;br&gt;&lt;br&gt;김 여사는 “특검 주장에 다툴 여지는 있는 것 같다”면서도 “국민들께 큰 심려를 끼친 점은 진심으로 죄송하다”고 말했다.&lt;br&gt;&lt;br&gt;김 여사는 지난해 8월 민중기 특검팀 소환 조사에 출석할 당시 “국민 여러분께 아무 것도 아닌 사람이 심려를 끼쳐서 진심으로 죄송합니다. 조사 잘 받고 오겠습니다”라고 말하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 서울시의회 의장, 김경 시의원 사표 수리…의원직 ‘상실’</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/28/KACLZXA4SJHRPCIRFHMLRGTCDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/28/KACLZXA4SJHRPCIRFHMLRGTCDQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Jan 2026 05:17:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATAPMXWBMNN4FA7LYDF5I6R5WM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'공천 헌금' 의혹을 받는 김경 서울시의원이 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 고개 숙여 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의회는 지난 26일 김경 서울시의원이 제출한 사직서를 28일 최호정 의장이 수리했다고 밝혔다. 김 시의원은 이에 따라 즉시 시의원직을 상실했다.&lt;br&gt;&lt;br&gt;최 의장은 이날 입장문을 내고 “김 전 의원에게 단 하루라도 시민의 대표 자격을 허용할 수 없다”며 “김 전 의원에게 단 한 푼의 세금도 지급돼서는 안 된다고 판단해 사직서를 수리했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “시민의 시각에서는 이미 제명을 받은 것과 다름없다”며 “다음 달 24일로 예정된 본회의를 기다리는 것보다 하루 빨리 신속하게 의원직을 박탈하는 것이 시민의 요구에 더 부합하는 것이라 판단해 사직서를 처리했다”고 했다.&lt;br&gt;&lt;br&gt;최 의장은 “시민들께 심려를 끼쳐드리고 공직자들께 어려움을 안겨드려 의장으로서 송구하다”며 “깊이 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘김병기 차남 편입 특혜’ 숭실대 전 총장 소환</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/28/Q7GCZTHTMRAOLBLSODI2VUXP44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/28/Q7GCZTHTMRAOLBLSODI2VUXP44/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Jan 2026 05:07:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZWEZBZHA3DMZLCMUZTGZLCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 의원이 지난 19일 서울 여의도 국회 소통관에서 당 윤리심판원의 제명 결정에 대한 입장을 밝히는 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기(서울 동작갑) 의원 차남의 대학 편입 특혜 의혹과 관련해 장범식 전 숭실대 총장이 28일 경찰에 출석했다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 6시 30분부터 약 6시간 동안 장 전 총장을 참고인 신분으로 불러 조사했다고 밝혔다. 지난 24일 장 전 총장의 요청으로 소환 조사가 한 차례 취소된 지 사흘 만이다.&lt;br&gt;&lt;br&gt;장 전 총장은 지난 2023년 김 의원 차남이 숭실대 계약학과에 편입하는 과정에서 편의를 제공했다는 의혹을 받고 있다. 앞서 김 의원이 숭실대를 방문해 편입 방법을 묻자, 장 전 총장은 배석한 교수들에게 도움을 주라는 취지로 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 의원 차남이 입학한 숭실대 혁신경영학과는 일반 학과와 다른 ‘재교육형 계약학과’로, 기업체 10개월 이상 재직자만 지원할 수 있다. 김 의원은 이 조건을 충족하기 위해 차남을 A사에 입사시키는 대신 A사의 편의를 봐주는 방식으로 취업 청탁을 했다는 의혹도 불거졌다.&lt;br&gt;&lt;br&gt;이와 관련해 경찰은 최근 A사 사무실 등을 압수 수색하고 A사 대표도 뇌물 등 혐의를 적용해 피의자 신분으로 전환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘이상직 인사 특혜’ 조현옥 前 수석 1심 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/28/XO6YFZQ6RVFC5M35DQOOBVMCCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/28/XO6YFZQ6RVFC5M35DQOOBVMCCQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Jan 2026 04:51:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X72ES4F63BLFLHH6GCOQEZPYVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조현옥 전 청와대 인사수석비서관이 2024년 4월 서울 서초구 서울중앙지법에서 열린 문재인 정부의 '산업부 블랙리스트' 의혹 직권남용 혐의 관련 1차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 당시 이상직 전 더불어민주당 의원을 중소벤처기업진흥공단(중진공) 이사장으로 내정한 의혹을 받는 조현옥 전 청와대 인사수석이 28일 1심에서 무죄 판결을 받았다. 검찰은 징역 1년을 구형한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>젊을수록 차 안 산다… 서울 자동차 등록 3년째 감소</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/28/BEBJ4Z2FEJEBROVZBDGRRIGBCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/28/BEBJ4Z2FEJEBROVZBDGRRIGBCI/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Jan 2026 04:42:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SRZGHRICFAGVMKPKXHJVU22GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 서울 서초구 한 자동차운전전문학원. 면허학원이 한산한 모습을 보이고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 자동차 등록 대수가 3년 연속 감소한 것으로 나타났다. 특히 20·30대를 중심으로 차량 보유가 빠르게 줄고 있다.&lt;br&gt;&lt;br&gt;서울시가 28일 국토교통부 자동차관리정보시스템과 행정안전부 주민등록인구 통계를 분석한 결과, 지난해 말 기준 서울의 자동차 등록 대수는 315만8598대로 전년보다 1만8335대(0.58%) 감소했다. 서울은 전국 17개 시·도 가운데 유일하게 3년 연속 감소세를 기록했다. 같은 기간 전국 자동차 등록 대수는 0.82% 늘었다.&lt;br&gt;&lt;br&gt;연령별로 보면 젊을수록 감소 폭이 컸다. 20대의 자동차 등록 대수는 1년 새 8.1% 줄어 가장 큰 감소율을 기록했고, 30대는 2.2%, 40대는 1.6%, 50대는 0.9% 감소했다. 반면 60대 이상에서는 증가 흐름이 나타났다. 60대는 0.5% 늘었고, 70대는 2021년 대비 18.01% 증가해 증가 폭이 가장 컸다.&lt;br&gt;&lt;br&gt;서울의 인구 대비 자동차 보유 수준은 2.94명당 1대로 전국에서 가장 낮았다. 전국 평균은 1.93명당 1대다. 자치구별로 보면 강남구는 인구 2.21명당 1대로 보유 수준이 가장 높았고, 관악구는 4.12명당 1대로 가장 낮았다. 서울시는 지하철·버스 등 대중교통 접근성이 높은 지역일수록 자동차 보유 비율이 낮게 나타났다고 설명했다.&lt;br&gt;&lt;br&gt;전체 등록 대수는 줄었지만 전기·하이브리드·수소차 등 친환경차는 늘었다. 지난해 말 기준 친환경차 등록 대수는 42만4568대로 전년 대비 7만4429대(21.26%) 증가했고, 전기차는 처음으로 10만대를 넘어섰다. 반면 경유차는 감소세가 이어졌다. 경유차의 전년 대비 등록 대수 감소율은 2021년 2.12%에서 2022년 2.53%, 2023년 4.62%, 2024년 5.88%, 2025년 6.46%로 해마다 확대됐다.&lt;br&gt;&lt;br&gt;외국산 차량 비중도 꾸준히 늘고 있다. 지난해 말 기준 외국산 차량은 전체의 22.58%(71만3108대)였으며 외국산 차량 등록 대수가 많은 자치구는 강남구(10만7067대), 서초구(7만182대), 송파구(6만4706대), 강서구(3만5389대), 강동구(3만4488대) 순이었다.&lt;br&gt;&lt;br&gt;여장권 서울시 교통실장은 “통계를 반영해 자동차 수요 관리와 대중교통 강화, 친환경 인프라 확충 등 교통 정책을 지속적으로 보완해 나가겠다”며 “변화하는 수요에 맞춰 교통 안전 대책도 함께 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오세훈 재판부 “지선 앞두고 재판, 정치 개입 인상 줄 수 있어... 우려 불식시키겠다”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/28/WBUXEFO76NEBFHX4SAW2YEW2UM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/28/WBUXEFO76NEBFHX4SAW2YEW2UM/</guid>
@@ -833,27 +878,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFEAKHCRCQ5XXECIPCW5KJIJZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한법률구조공단 청사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 후 친권자와 실제 양육자가 달라 자녀의 교육·의료 절차마다 전 남편의 동의를 받아야 했던 양육자가 대한법률구조공단 도움으로 친권 변경과 양육비 증액 판결을 받았다. 대한법률구조공단은 최근 A씨가 청구한 친권자 지정·변경 청구 심판에서 이 같은 결과를 이끌어냈다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2019년 이혼 당시 두 자녀의 친권·양육권을 전 남편에게 맡기고 자녀 1인당 월 10만원의 양육비를 지급하기로 했다. 이후 재결합을 시도했으나 남편의 음주와 폭력으로 다시 별거에 들어갔다. A씨는 2020년 조정을 거쳐 양육권을 가져오고, 전 남편에게 월 20만원의 양육비를 받기로 했다. 그런데 친권자는 바뀌지 않아 A씨는 자녀들의 교육, 의료, 각종 행정 절차에서 매번 전 남편의 동의를 받아야 했다. 여기에 물가 상승에도 불구하고 양육비가 월 20만원 수준에 5년간 머물러 경제적 부담도 점차 커지자 법원에 친권자 변경과 양육비 증액 심판을 청구했다.&lt;br&gt;&lt;br&gt;A씨를 대리한 공단 측은 “친권자와 실제 양육자의 불일치로 긴급 의료 동의 등에서 문제가 발생할 수 있다”며 자녀 복리를 침해할 우려가 크다고 주장했다. 또 상대방의 소득 증가와 자녀 양육비 상승을 들어 양육비 증액을 요청했다.&lt;br&gt;&lt;br&gt;춘천지법 가사2비송 김청미 부장판사는 지난달 공단 주장을 받아들여 친권자를 A씨로 변경하고 양육비를 자녀 1인당 월 50만원으로 올리라고 판결했다. 기존 양육비 약정 이후 5년이 지났다는 점과 그사이 자녀들 학령이 높아진 점 등을 고려했다. 공단 소속 유서연 변호사는 “친권과 양육권 분리가 실제 양육 환경에 미치는 위험성을 인정한 판결이자 과거에 이미 합의된 양육비라도 현실에 맞게 조정될 수 있다는 것을 확인한 사례”라며 “앞으로도 취약 계층 양육자 지원을 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“판결문 받으러 법원 두 번 갈 필요 없어요”... 법원행정처, 재판기록 열람·복사 예약제 전국 확대</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/27/K7HQUXDOQ5H3FH6MHVKSFY6VXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/27/K7HQUXDOQ5H3FH6MHVKSFY6VXI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Jan 2026 01:03:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZC7DES3JBZOBBDQH4GI6ZMQJIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;판결문 등 재판기록을 열람하거나 복사하기 위해 법원을 두 번씩 방문해야 했던 번거로움이 해소될 전망이다. 27일 대법원 법원행정처는 ‘이메일을 이용한 재판기록 열람·복사 예약신청 제도’를 내달 1일부터 전국 법원에서 확대 실시한다고 밝혔다. &lt;br&gt;&lt;br&gt;기존에는 민원인이 법원을 직접 방문해 신청서를 제출하면, 신청인 자격에 부합하는지 여부를 심사한 뒤 기록을 제공하는 것이 원칙이었다. 재판기록 안에는 소송관계인과 관련된 중요한 정보들이 다수 들어 있어, 법원의 면밀한 심사가 필요하기 때문이다. &lt;br&gt;&lt;br&gt;그런데 재판장의 허가나 비실명 처리 등 사전 준비가 필요한 경우 법원을 찾은 당일 안에 처리가 되지 않아 민원인이 며칠 뒤 법원을 재방문해야 하는 불편이 있었다. 이에 법원행정처가 일부 대형 법원에서 자체적으로 실시하던 예약신청 제도를 소규모 법원(지원과 시·군법원)까지 전면 확대하기로 한 것이다.&lt;br&gt;&lt;br&gt;이메일로 재판기록 열람·복사 예약을 신청하려면, 대한민국 법원 전자소송포털(https://ecfs.scourt.go.kr/)에서 열람·복사 신청서 양식을 다운로드해 작성해야 한다. 이후 각 법원의 이메일 주소로 신청서를 보내면 신청이 완료된다. 담당자가 기록 준비 상황을 확인해 방문 일시를 통지하면 그 일정에 맞춰서 법원을 방문하면 된다.&lt;br&gt;&lt;br&gt;각 법원의 예약 신청용 공용 이메일 주소는 해당 법원 홈페이지에 게시될 예정이다. 별도의 홈페이지를 운영하지 않는 지원 및 시·군법원의 공용 이메일 주소는 지방법원 본원 홈페이지에서 확인하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>메그 라이언 때문에 ‘19금 유머’가 된 음식 주문법</title>
-      <link>https://www.chosun.com/national/education/2026/01/27/H7ISJBSNO5CQLP2KKK2BTSJLT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/27/H7ISJBSNO5CQLP2KKK2BTSJLT4/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Jan 2026 18:00:00 +0000</pubDate>
-      <content:encoded>“저 여자가 먹는 걸로 줘요.”&lt;br&gt;&lt;br&gt;1989년 개봉된 로맨틱 코미디 ‘해리가 샐리를 만났을 때(When Harry Met Sally)’에서 폭소를 터뜨리는 명대사입니다.&lt;br&gt;&lt;br&gt;이 대사가 나오는 장면은 뉴욕 맨해튼의 카츠 델리카트슨이라는 유대인 식당입니다. 해리(배우 빌리 크리스탈)가 샐리(배우 메그 라이언)에게 여자들이 섹스할 때 실제와 달리 가짜로 오르가즘에 오른 것처럼 가장한다는 걸 모른다고 말합니다. 그러자 샐리가 “남자들은 절대 모른다”면서 여자들이 오르가즘을 가짜로 할 수 있음을 증명해보이겠노라 갑자기 신음 소리를 내며 아주 사실적인 오르가즘 연기를 펼칩니다.&lt;br&gt;&lt;br&gt;당연히 주변 손님들이 다들 화들짝 놀라 쳐다봅니다. 그때 옆 테이블에 앉아 있던 중년 여성이 웨이터를 불러 조용히 말합니다. “저 여자가 먹는 걸로 줘요.” 식당에서 주문할 때 흔히 사용하는 표현이지만, 이 장면에선 “저 여자가 느끼는 황홀한 쾌감을 나도 경험하고 싶다”는 코믹하고 성적인 뉘앙스의 이중적 의미여서 폭소를 자아내는 거지요.&lt;br&gt;&lt;br&gt;“Same here”과 같이 캐주얼한 표현으로는 걸그룹 뉴진스의 노래 제목에 쓰인 “Ditto”도 있습니다. 노래 후렴구에 나오는 “Say it ditto”는 “내 마음과 같다고 말해줘”, 즉 “너도 나를 좋아한다고 말해줘”라는 뜻으로 쓰였지요. ‘ditto’는 원래 이탈리아어 ‘detto(말한 것)’에서 온 말로, ‘위와 같음’이라는 뜻의 ‘상동(上同)’, ‘앞서 말한 것과 마찬가지’를 뜻하는 사무 용어였는데, 지금은 일상 회화에서 “나도”라는 뜻으로 쓰입니다. &lt;br&gt;&lt;br&gt;“같은 걸로 주세요”라고 말하는 표현은 여러 상황에서 쓸 수 있습니다. 예문을 통해 다양한 주문법을 익혀보세요. &lt;br&gt;&lt;br&gt;I’ll have the same in a different size, please. (똑같은 디자인으로 사이즈만 다른 거 주시겠어요?)&lt;br&gt;&lt;br&gt;This style is exactly what I want. I’ll have the same, please. (이 스타일이 딱 제가 원하던 거예요. 사진이랑 똑같이 해주세요.)&lt;br&gt;&lt;br&gt;That looks delicious. Same for me, please. (그거 맛있어 보이네. 나도 같은 걸로 주세요.)&lt;br&gt;&lt;br&gt;I’ll have the usual, please. (늘 먹던 걸로 주세요.)&lt;br&gt;&lt;br&gt;One more of the same, please. (똑같은 걸로 한 잔 더요.)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7L4FAHD6RCSHNRY5KY33JG7HQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4HLV2JH7VBCB3M7CRNO7FPT63U.jpg?auth=92d54ce95b34a5e30461f1ab068a2e91567f56b1ebd0e78c9d6cd94a6a0329d8&amp;smart=true&amp;width=1000&amp;height=820" type="image/jpeg" height="820" width="1000">
-        <media:description type="plain">영화 '해리가 샐리를 만났을 때' 속 장면/배급사: 컬럼비아 픽처스</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>발뺌하던 김경 “처벌받겠다” 시의원 사퇴… 與중진에도 후원금 정황</title>
       <link>https://www.chosun.com/national/incident/2026/01/27/S34D4OYGEJDN3M7Q2ZO7Q35F7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/27/S34D4OYGEJDN3M7Q2ZO7Q35F7I/</guid>
@@ -920,15 +944,6 @@
 지난 13일 서울아산병원에서 유은서(왼쪽)양이 김혜리(오른쪽) 소아청소년종양혈액과 교수에게 진료받는 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이제 약 없이 마음껏 뛰어놀 수 있게 돼 너무 좋아요.”&lt;br&gt;&lt;br&gt;만 8년 넘게 희귀 난치성 질환(과호산구증후군)과 싸워온 13세 유은서양이 어머니 박모(44)씨로부터 간과 말초혈 조혈모세포(적혈구·백혈구 등을 만들어내는 세포)를 차례로 이식받는 치료법을 통해 약(면역 억제제) 없이도 평범한 일상을 살 수 있게 됐다. 과호산구증후군이란 세균, 바이러스 등과 싸우는 세포인 ‘백혈구’의 일종인 ‘호산구’가 혈액 속에서 비정상적으로 늘어나 주요 장기를 공격하는 병이다. 유양의 경우엔 그동안 면역 체계가 간을 공격했었다고 한다. &lt;br&gt;&lt;br&gt;26일 서울아산병원에 따르면, 유양은 성인이 아닌 소아 환자가 간과 조혈모세포를 이식 받은 뒤 면역 체계가 간을 공격하지 않는 첫번째 국내 사례가 됐다고 한다. 세계적으로도 드문 성공 사례라는 게 병원 측 설명이다. 지난 2017년 과호산구증후군 진단을 받았던 유양은 그동안 소장에 구멍이 나는 등의 여러 차례 수술을 받아왔다. 비정상적으로 늘어난 호산구가 간도 공격했고, 결국 간경화로 이어진 상태였다. 특히 2024년에는 간경화 합병증도 심해져 결국 간 이식이 필요한 상황이었다. &lt;br&gt;&lt;br&gt;비록 의료진이 유양에게 어머니 간을 이식했지만, 골수에서 호산구를 지나치게 많이 만들어 내는 게 근본 원인이었던 만큼 간 이식만으로는 완치가 어려웠다고 한다. 이에 의료진은 작년 2월 어머니에게서 말초혈 조혈모세포를 채취해 유양에게 추가 이식했다. 보통의 경우 면역 체계는 외부에서 이식돼 들어온 장기를 ‘침입자’로 간주해 공격한다. 이런 거부 반응을 막기 위해 환자는 평생 면역억제제를 먹어야 한다. &lt;br&gt;&lt;br&gt;하지만 유양의 경우는 달랐다. 어머니의 조혈모세포를 통해 새롭게 형성된 면역 체계가 이식받은 간을 ‘외부 장기’가 아닌 ‘자기 것’으로 인식했기 때문이다. 덕분에 유양은 면역억제제 복용을 작년 10월 중단했고, 최근 조직검사에서 ‘이상이 없다’는 소견을 받았다. 소아청소년종양혈액과 김혜리 교수는 “이번 사례가 비슷한 고통을 겪는 환아들에게 새로운 희망이 될 수 있기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울시의회 국민의힘 “김경 제명 직전 사퇴는 꼼수 탈출”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/26/JY4ZK5E2MNFFHM33RFRK6FXETA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/JY4ZK5E2MNFFHM33RFRK6FXETA/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Jan 2026 14:06:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3DINLEMRRDSNDFGJSTANJVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'공천 헌금' 의혹을 받는 김경 서울시의원이 지난달 18일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에서 피의자 신분으로 경찰 조사를 받기 위해 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 ‘1억 공천 뇌물’ 사건의 핵심 피의자인 김경 서울시의원이 26일 시의원직 사퇴 입장을 밝힌 것을 두고 서울시의회 국민의힘이 “시민을 기만하는 비겁한 도주이자 꼼수 탈출”이라고 강하게 비판했다.&lt;br&gt;&lt;br&gt;서울시의회 국민의힘 채수지 대변인은 이날 논평에서 “김경 시의원의 제명 직전 사퇴는 결코 책임 있는 결단이 아니다”라며 “제명을 하루 앞두고 던진 사퇴는 진정성 있는 사죄가 아니라 자신의 유불리를 저울질하며 선택한 전략적 ‘꼼수 탈출’”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “윤리특별위원회를 통한 강제 퇴출이 임박하자 ‘제명 의원’이라는 불명예만은 피하겠다는 계산 끝에 사퇴서를 제출한 것”이라며 “이는 책임 정치가 아닌 책임 회피”라고 했다. 또 “의원직을 내려놓았다고 해서 지은 죄가 사라지는 것은 아니며, 사퇴는 결코 면죄부가 될 수 없다”고 강조했다.&lt;br&gt;&lt;br&gt;채 대변인은 “1억 공천헌금 상납 등 매관매직, 업무추진비 유용과 가족회사 특혜 수주, 직원 갑질과 권력 남용 등 각종 비위 의혹이 눈덩이처럼 불어났다”며 “그 과정에서도 김 의원은 반성은커녕 구차한 변명으로 일관했다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “경찰은 증거 인멸 상습범 김경에 대해 즉각 구속영장을 신청하라”며 “사법당국은 김경–강선우–김병기로 이어지는 민주당 공천헌금 게이트의 윗선을 성역 없이 수사해야 한다”고 요구했다. 더불어민주당을 향해서는 “‘휴먼 에러’라는 궤변을 멈추고 시스템 부패에 대해 서울 시민 앞에 석고대죄하라”고 했다.&lt;br&gt;&lt;br&gt;한편 김 시의원은 이날 입장문을 내고 “서울시의회 의장에게 시의원직 사직서를 제출했다”며 “공직자로서 지켜야 할 도덕적 책무를 다하지 못한 점에 대해 무거운 책임을 통감한다”고 밝혔다. 지난해 12월 29일 공천헌금 정황이 담긴 녹음 파일이 공개된 지 28일 만이다.&lt;br&gt;&lt;br&gt;김 시의원은 2022년 지방선거를 앞두고 당시 더불어민주당 공천관리위원이던 강선우 의원에게 공천 대가로 1억원을 건넨 혐의로 서울경찰청 공공범죄수사대의 수사를 받고 있다. 최근에는 다른 민주당 인사들에게 금품을 전달하려 한 정황이 담긴 추가 녹취가 확보되면서 수사가 확대됐고, 지난 24일에는 관련 압수수색도 이뤄졌다. 김 시의원을 둘러싼 가족회사 특혜 수주 의혹에 대해서는 서울시 감사도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정보과 부활, 물갈이... 경찰은 승진시험 열공 중</title>
       <link>https://www.chosun.com/national/national_general/2026/01/26/QKICYP4MLBHNNHCOG46PSYPMR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/QKICYP4MLBHNNHCOG46PSYPMR4/</guid>
@@ -936,27 +951,6 @@
       <description/>
       <pubDate>Mon, 26 Jan 2026 13:17:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLH55IUCYJJ63FEFNKL3XPG45Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 충남 아산 경찰대학 이순신홀에서 열린 '2025년 신임경찰 경위·경감 임용식'에 신규 임용 경찰들이 참석해 있다. /경찰대학&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 이번 주 경정 이하급 승진 인사를 발표할 것으로 26일 알려졌다. 이번 인사에선 경정 승진자가 예년보다 대폭 늘어날 것으로 예상돼 일선 경찰관들이 승진을 기대하고 있다. 경정은 경찰서 과장, 시·도 경찰청 계장, 경찰서 지구대장 등을 맡는 경감 위, 총경 아래 계급이다.&lt;br&gt;&lt;br&gt;경정 승진자가 늘어나는 건 올해 상반기 일선 경찰서 대부분에서 폐지됐던 정보과가 다시 설치되는 것과 관련 있다. 정보과 신설에 따라 정보과장을 맡을 경정급 간부가 대규모로 필요해졌다는 것이다. 경찰에선 예년에 비해 올해 정년 퇴직자가 많은 것도 영향을 미쳤다는 말이 나온다.&lt;br&gt;&lt;br&gt;이번 인사에선 경찰청(본청)에서만 경정 승진자가 50~60명 나올 것이란 전망이 나온다. 지난해 인사 때 경찰청에서 경정으로 승진한 사람은 32명이었는데 이번 인사에선 두 배가 될 가능성이 있다는 것이다. 경찰청에 근무하는 한 경감은 “경찰청 주요 과마다 1명 이상 경정으로 승진할 것이라는 소문도 돈다”고 했다.&lt;br&gt;&lt;br&gt;경정 승진 방법은 두 가지로 나뉜다. 근무 평정 등을 통해 대상자들의 승진 여부를 결정하는 ‘승진 심사’와 시험을 치르는 ‘승진 시험’이다. 경찰은 28~29일 승진 심사를 통해 대상자 명단을 발표한다. 이와는 별도로 31일에는 전국 경찰관을 대상으로 승진 시험도 실시한다. 시험을 보려는 경감급 경찰관들 사이에선 막바지 ‘열공(열심히 공부)’ 분위기가 감지된다. 승진 시험 결과는 다음 달 5일 발표된다. &lt;br&gt;&lt;br&gt;반면 총경급 이상 승진 인사는 계속해서 지연되고 있다. 통상 경찰은 매년 12월부터 치안정감, 치안감 등 고위 간부 승진 인사를 먼저 진행한 후 1월까지 경무관, 총경 등 승진 인사를 발표했다. 하지만 이번에는 고위 간부 인사는 미뤄둔 채 경정급 인사부터 하는 것이다.&lt;br&gt;&lt;br&gt;비상 계엄 가담 여부를 조사하고 있는 ‘헌법존중 정부혁신 태스크포스(TF)’ 때문에 임명이 미뤄진다는 관측이 나온다. 헌법존중 TF는 지난 16일까지 각 기관에 대한 조사를 마무리했다. 국무총리실은 각 기관의 조사 결과를 모아 이달 안에 발표할 전망이다.&lt;br&gt;&lt;br&gt;TF 조사가 완료되면서 대대적인 물갈이 인사가 이뤄질 수 있다는 관측도 나온다. 총경급부터는 계엄 당시 지휘 책임을 물어 승진 취소나 징계 등의 처분을 받는 인원이 적지 않을 것으로 전해졌다. 경찰 안팎에선 “새 정부가 경찰 간부들을 대상으로 피아(彼我) 식별 작업 중”이란 말이 나온다. 올해 총경 승진 대상자인 8~9년 차 경정급 경찰관들은 “일이 손에 안 잡힌다”며 인사 동향을 살피고 있다.&lt;br&gt;&lt;br&gt;계엄 당시 상부 지시에 따라 중앙선거관리위원회 연수원에 경찰관을 보냈던 경기 지역 모 경찰서장은 지난해 말 정년 퇴임을 앞두고 정직 3개월의 징계를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“휴먼 에러인데 왜 시스템 손대나” 문형배, 與 사법개혁안 또 비판</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/26/LPDWJGV32VD7XL34PACY7LUWCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/26/LPDWJGV32VD7XL34PACY7LUWCM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Jan 2026 12:38:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZTQNRZGAYGIOBXGIYWEYRRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 전 헌법재판소장 권한대행이 26일 광주 동구 광주고법 대회의실에서 열린 '2026년 광주고법·지법 새해맞이 명사 초청 북토크'에 참석해 강연하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 전 헌법재판소장 권한대행이 광주를 찾아 더불어민주당이 추진하는 사법 개혁안을 비판했다. 사법 개혁안이 사법부 독립성을 약화시킬 수 있다는 반대 입장을 거듭 내놓은 것이다.&lt;br&gt;&lt;br&gt;문 전 대행은 26일 광주고법 대회의실에서 열린 ‘명사 초청 북토크’에 나서 “‘휴먼 에러’(인간적 실수)가 있다면 휴먼을 고쳐야지, 왜 시스템에 손을 쓰려고 하느냐”며 “사법의 독립은 사법부가 존재하기 위한 근본 조건”이라고 말했다.&lt;br&gt;&lt;br&gt;민주당은 대법관 증원, 재판소원(법원 재판에 대한 헌법소원), 법원행정처 폐지 등을 담은 사법 개혁안을 추진 중이다. 이를 두고 사법부의 독립성은 줄고 정치적 영향력이 커질 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;문 전 대행은 지난해 12월 11일 대법원이 개최한 ‘사법 제도 개편’ 공청회 마지막 날 토론에서 “분노는 사법 개혁의 동력이지만 내용이 될 순 없다”며 “민주당이 제시한 법안이 진정 사법 개혁을 실현할 수 있는 내용인지 묻고 싶다”고 했었다.&lt;br&gt;&lt;br&gt;문 전 대행은 이날 공개 석상에서 “정치인은 정치인의 역할을, 법률가는 법률가의 역할을 해야 한다”며 사법 개혁 반대 목소리를 이어갔다.&lt;br&gt;&lt;br&gt;그러면서도 “독립만으로는 사법부가 존재할 수 없다. 국민의 신뢰를 받지 못하면 무슨 역할을 하겠는가”라며 법원을 향한 쓴소리도 했다.&lt;br&gt;&lt;br&gt;문 전 대행은 “구속 기간을 날이 아니라 시간으로 계산한 것을 한 번도 본 적이 없다. 관행을 바꿀 필요가 있으면 민초 사건에서 바꿔야지 왜 대통령 사건에서 바꾸느냐”며 윤석열 전 대통령 구속 사건을 언급했다.&lt;br&gt;&lt;br&gt;문 전 대행은 최근 한국과학기술원(KAIST) 석학교수로 초빙받은 근황도 전했다. 그는 “많은 대학에서 초빙 의사를 밝혔지만 로스쿨로는 가고 싶지 않았다. AI(인공지능) 산업의 고민거리를 해결하기 위해 법률가의 역할이 필요하다는 생각”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/X4AAFHE5NRAZTPGHITPN7HXRKQ.jpg?auth=eab7886fe5838aabef2cb7739c9f991cd25aaf963afde7c84770cc0fc4a95973&amp;smart=true&amp;width=576&amp;height=359" type="image/jpeg" height="359" width="576">
-        <media:description type="plain">광주법원 특강하는 문형배 전 대행</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김상민 前 검사, “특검, 별건 기소... 공소 기각돼야” 의견서 제출</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/26/FLQDNCFZQJGINIUNBBRZ6HMOWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/26/FLQDNCFZQJGINIUNBBRZ6HMOWE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 Jan 2026 09:36:53 +0000</pubDate>
-      <content:encoded>정치자금법 위반 혐의 등을 받는 김상민 전 부장검사 측이 공소 기각을 주장하는 의견서를 법원에 제출했다. 김 전 검사 측은 특검이 수사 대상을 벗어난 위법한 수사를 했다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQWMYLEGRQTEN3EGEZDAYRSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 연루된 '공천 청탁' 의혹의 핵심 인물 김상민 전 부장검사가 지난해 9월 17일 오후 서울 서초구 서초동 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 김 전 검사 측은 지난 16일 서울중앙지법 형사21부(재판장 이현복) 심리로 진행된 결심 공판에서 정치자금법 위반 혐의에 대해 공소를 기각해야 한다는 주장이 담긴 의견서를 제출했다. 김 전 검사는 2024년 총선 출마를 준비하며 사업가 김모씨에게 선거용 차량 리스 보증금 4000여 만원을 대납하게 한 혐의(정치자금법 위반)를 받고 있다. 김건희 여사에게 총선 공천을 대가로 고액의 그림을 전달한 혐의(청탁금지법 위반)도 있다.&lt;br&gt;&lt;br&gt;김 전 검사 측은 “이 사건 정치자금법 위반 혐의는 특검법 수사 대상이 되지 않는다”고 주장했다. 김 전 검사 측은 “차량을 제공한 김씨가 김 전 검사의 개인적인 지인”이라며 “김 여사, 명태균씨, 전성배씨 등 특검법이 명시한 핵심 수사 대상 인물들과 일면식이 없고 어떠한 공모 관계도 확인된 바 없다”고 했다. 그러면서 “김 전 검사가 검사 재직 시절 윤석열 대통령 부부와 인연이 있었다는 사정만으로 모든 개인적 금전 거래를 ‘국정농단’이나 ‘불법 선거 개입’으로 의율할 수 없다”고 덧붙였다. &lt;br&gt;&lt;br&gt;김 여사와 관련된 각종 의혹과 무관하다는 내용도 담겼다. 김 전 검사 측은 “창원 의창구 총선에 출마하기 위해 개인적으로 지인에게 차량 편의를 부탁한 사안일 뿐, 대통령 배우자의 국정농단 의혹과는 무관하다”며 “코바나컨텐츠 협찬 의혹, 명품 수수 의혹 등과 사실관계의 동일성이 있거나 범행 동기나 수단 등에 있어서 어떠한 연결고리도 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 법원은 김 여사 관련 각종 의혹을 수사한 민중기 특별검사팀이 수사·기소한 국토부 김모 서기관의 뇌물 수수 사건에 대해 공소 기각 판결을 내린 바 있다. 재판부는 지난 22일 김씨의 선고 공판에서 “양평고속도로 사건과 뇌물 수수 사건 사이에 시간적·장소적·인적 연관성이 없다”며 공소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, ‘北 무인기 침투’ 의혹 대학원생 소환 조사</title>
