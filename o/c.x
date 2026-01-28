@@ -13,6 +13,30 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>양주서 60대 남성 흉기에 찔려 숨져… 아들 유력 용의자</title>
+      <link>https://www.chosun.com/national/incident/2026/01/28/B4WZCWXM3NHALJRBWOQFIWUS2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/28/B4WZCWXM3NHALJRBWOQFIWUS2U/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>경기 양주시에서 60대 남성이 흉기에 찔려 숨진 채 발견돼 경찰이 수사에 나섰다.
+28일 경찰에 따르면 지난 27일 낮 12시쯤 경기 양주시 한 주택에서 60대 남성 A씨가 흉기에 찔려 숨져 있는 것을 A씨의 형이 발견했다.
+</description>
+      <pubDate>Wed, 28 Jan 2026 13:13:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIIWAEXOKRDJBI2JTO7JAQAQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 양주에서 60대 남성이 흉기에 찔려 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;28일 경찰에 따르면 지난 27일 낮 12시쯤 경기 양주시 한 주택에서 60대 남성 A씨가 흉기에 찔려 숨져 있는 것을 A씨의 형이 발견했다.&lt;br&gt;&lt;br&gt;A씨의 형은 동생과 연락이 닿지 않자 집을 찾았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 함께 살던 30대 아들 B씨의 행방이 묘연한 점을 수상히 보고 추적에 나섰고, 이날 오후 경기도 부천에서 B씨를 붙잡았다.&lt;br&gt;&lt;br&gt;경찰은 B씨를 유력한 용의자로 보고 범행 여부 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5ALTBIDVFUKNMMBUC3DAW356KM.jpg?auth=d4292654c38260ce504119830fa5cc32b55c6676b2630fb30c68f31ae38cf143&amp;smart=true&amp;width=3352&amp;height=2076" type="image/jpeg" height="2076" width="3352">
+        <media:description type="plain">경찰 로고. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“손주가 준 용돈인데”… 80대 할머니, 양말 속 100만원 되찾은 사연</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/28/J5ORTVN355H3ZOANCN5UWP2SVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/28/J5ORTVN355H3ZOANCN5UWP2SVE/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Jan 2026 13:04:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBDOOEGVF5BETA5SEFYIYMQREA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;발견한 금색 봉투(경기 김포경찰서 제공/뉴스1)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손주가 준 용돈을 모아 마련한 쌈짓돈을 길거리에서 잃어버린 80대 할머니가 경찰관 도움으로 현금을 되찾았다.&lt;br&gt;&lt;br&gt;28일 경기 김포경찰서에 따르면, 지난달 29일 오전 10시 30분쯤 사우지구대를 찾은 A(82)씨는 “손주에게 받아 모은 돈 100만원을 잃어버렸다”며 도움을 청했다. 당시 A씨는 현금을 양말에 넣고 은행에 가던 중 분실했고, 추위 속 혼자 2㎞가량 길거리를 오가며 돈을 찾았으나 결국 실패한 상황이었다.&lt;br&gt;&lt;br&gt;사연을 전해 들은 사우지구대 소속 정현조 경위는 A씨를 순찰차에 태우고 수색에 나섰다. 그리고 약 10분 뒤 사우동 한 도로에서 현금이 든 낡은 금색 봉투를 발견했다. A씨 집과 은행 사이 중간 지점이었다.&lt;br&gt;&lt;br&gt;A씨는 자기 일처럼 나서 준 정 경위에게 고마움을 전하며 사례금을 건네려 했지만, 정 경위는 정중히 거절했다고 한다. 이후 A씨의 은행 업무를 안내하고 안전하게 귀가할 수 있도록 도운 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정 경위는 “할머니가 명절마다 손주에게 받은 용돈을 모은 돈이라고 해서 찾아드리고 싶은 마음이 컸다”며 “작은 도움이었지만 경찰관으로서 큰 보람을 느꼈다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김건희 변호인 반격 “특검이 정치적 수사”</title>
       <link>https://www.chosun.com/national/court_law/2026/01/28/EWCBUYFIM5CBXCPWKVFWIQBFPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/28/EWCBUYFIM5CBXCPWKVFWIQBFPI/</guid>
@@ -928,24 +952,6 @@
       <description/>
       <pubDate>Tue, 01 Oct 2024 07:34:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGDDHNF2GE2GQZ3JILNRR6DJ5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장 구명 로비 의혹을 제기한 김규현 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 임성근 전 해병대 1사단장 구명 로비 의혹을 제기한 김규현 변호사를 피의자 신분으로 소환했다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 임 전 해병대 1사단장 ‘구명 로비’ 의혹의 진원지인 이른바 ‘멋쟁해병’ 단체 카카오톡 대화방 참여자들이 이번 의혹을 공익 신고했던 변호사 등을 고소한 사건을 수사 중인 가운데, 지난달 30일 핵심 피의자인 김규현 변호사를 소환해 조사했다.&lt;br&gt;&lt;br&gt;앞서 ‘도이치모터스 주가조작 사건’의 공범 이종호씨는 자신이 임성근 전 해병대 1사단장의 구명 로비에 관여했다는 의혹을 제기한 김규현 변호사와 김종대 전 정의당 의원, 이를 보도한 JTBC 등을 허위 사실에 의한 명예훼손 혐의로 지난 7월 24일 고소했다. 고소장을 접수한 수원 중부경찰서는 해당 사건을 서울 마포서로 이송했다.&lt;br&gt;&lt;br&gt;이씨와 전직 청와대 경호처 직원 송모씨, 사업가 최모씨 등은 김 변호사와 함께 작년 3월부터 ‘해병대 골프 모임’을 만들고 카카오톡 단체대화방에 참여했다. 김 변호사는 최근 이들과 주고받은 메시지, 통화 녹취록을 고위공직자범죄수사처(공수처)에 내고 “작년 7월 해병대원 순직 사건 이후 이씨 등이 임 전 사단장 구명에 나섰다”고 주장했다.&lt;br&gt;&lt;br&gt;김 변호사와 이씨의 작년 8월 9일 통화 녹취록에 따르면, 이씨는 “임 사단장이 사표 낸다고 송씨에게 전화 와서, 내가 ‘절대 내지 마라. 내가 VIP한테 이야기를 하겠다’고 했다”고 말했다. 송씨도 같은 날 김 변호사와의 전화에서 “나는 사단장만 잘 살피고 있다”고 했다. 김 변호사와 김 전 의원은 방송과 유튜브 등에서 “이씨가 말한 VIP는 김건희 여사나 윤석열 대통령”이라는 취지로 주장했다. 이에 임 전 사단장은 “작년 7월 28일 사의를 표명하기 전, 어떤 민간인과도 사표 관련 얘기를 나눈 적이 없다”고 반박했다.&lt;br&gt;&lt;br&gt;김 변호사는 1일 본지 통화에서 전날 소환 조사와 관련해 “언론에 보도된 내용을 위주로 성실하게 답변했다”며 “왜 고소했는지 경위를 이해할 수 없으나 수사기관 출신으로서 경찰에 출석해 성실하게 답변했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 이씨 등은 “근거 없는 의혹 제기와 실체 없는 음모론으로 인생이 망가졌다”며 “제3의 수사 기관(경찰)에서 사실관계 확인을 통해 (구명 로비설을) 교차 검증 받겠다”고 고소 이유를 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;[알려왔습니다] &lt;br&gt;&lt;br&gt;조선닷컴은 2024년 10월 1일자 &amp;lt;[단독] ‘임성근 구명 로비 의혹 제보’ 김규현 변호사, 피의자 소환&amp;gt;이라는 제목의 기사에서 임성근 전 해병대 1사단장 구명 로비 의혹을 제기한 김규현 변호사를 경찰이 피의자 신분으로 소환했다고 보도했습니다. 수사를 진행한 서울 마포경찰서는 2025년 7월 10일 김 변호사에 대해 ‘혐의 없음’으로 불송치 처분을 한 것으로 확인돼 알려드립니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아빠, 출근하면 말 걸지 마세요”...55세 인턴에게 아들이 한 충고</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/16/3OLK6HJEEJHKFMBZ4SKTDS6G5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/16/3OLK6HJEEJHKFMBZ4SKTDS6G5Y/</guid>
-      <dc:creator>김수경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YEEXVUJJYVCJJGMVCAKQJCDWSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;은퇴 후 50대에 인턴부터 다시 시작한 홍재현씨/ 그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광고기획사 부사장, 관광업체 대표를 지낸 홍재현(55)씨는 2024년 다시 첫 출근을 했다. 인턴 홍재현. 명함에서 직함이 사라진 뒤 맞이한 ‘인생 2막’ 첫 장면이었다.&lt;br&gt;&lt;br&gt;&lt;a href="https://50plus.or.kr/org/index.do" target="_self" rel="" title="https://50plus.or.kr/org/index.do"&gt;서울시50플러스재단&lt;/a&gt;의 ‘4050 인턴십 프로그램’. 홍씨는 이 프로그램에 지원해 4대 1의 경쟁률을 뚫었다. 그리고 한 ESG 컨설팅 회사에서 인턴으로 근무한 뒤 정규직 전환에 성공했다. 그 회사에서 3년째 일하고 있다.&lt;br&gt;&lt;br&gt;재단에 따르면 최근 10년간 한국의 평균 퇴직 연령은 49.4세다. 법정 정년 60세보다 10년 이상 빠르다. 회사를 떠난 뒤 “다시 일하고 싶다”고 답한 비율은 46%. 두 명 중 한 명에 가깝다. 홍씨 역시 그 통계 안에 있었다.&lt;br&gt;&lt;br&gt;다만 그의 선택은 조금 달랐다. 예전 업계로 돌아가지 않았다. ‘경력직’이라는 안전한 문을 두드리지도 않았다. 대신 완전히 다른 분야로 전환을 택했다. 홍씨가 근무 중인 아이엠에스알은 국내에서 손꼽히는 ESG 컨설팅 회사다. 환경(Environment), 사회(Social), 지배 구조(Governance). 기업의 지속 가능성을 평가하는 이 세 가지 기준은 이제 선택이 아니라 필수가 됐다. 유럽을 중심으로 ESG가 기업 가치 평가의 핵심 축으로 자리 잡으면서, 국내 기업들의 문의도 빠르게 늘고 있다.&lt;br&gt;&lt;br&gt;첫 출근 날, 홍씨는 아들의 말을 떠올렸다. “아빠, 회사 가시면 젊은 친구들한테 말하지 마세요.” 스물아홉 살 아들이 건넨 조언이었다. 그는 “정말 현실적인 말이었다”고 했다. “2030 세대가 많은 회사에서 50대 아저씨가 이것저것 훈수 두면 얼마나 불편하겠어요.”&lt;br&gt;&lt;br&gt;인턴 신분은 불안했다. 출근은 주 2~3회였지만, 마음은 늘 회사에 가 있었다. 정규직 전환이 보장된 자리는 아니었다. 그는 출근 시간 외에 ESG 관련 공부를 이어갔다. 국제기구 보고서, 글로벌 규정, 낯선 용어들을 하나씩 정리했다. “인턴은 언제든 대체 가능한 존재라는 생각이 들면 더 초조해졌다”고 했다.&lt;br&gt;&lt;br&gt;3개월 뒤, 결과가 나왔다. 홍씨는 정규직으로 전환됐다. 서동욱 아이엠에스알 대표는 홍씨를 이렇게 평가했다. “일단 성실했다. 마감이 있는 회사인데 한 번도 어긴 적이 없었다.” 이어 “재취업을 원하는 50대 가운데는 위축되거나 소극적인 경우도 많은데, 굉장히 적극적이었다. 함께 일하고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;‘적응’이라는 새로운 벽이 생겼다. 지난 25년간 해온 일과는 전혀 다른 분야였다. 업계 용어부터 다시 배워야 했다. 홍씨는 “20대 때 첫 회사에 들어가 직무 교육을 받던 기분이 들었다”고 했다. ESG는 국제 사회의 논의 흐름과 규정을 빠르게 따라잡아야 하는 영역이다. 정규직 전환 이후 동료들과 컵라면으로 저녁을 때우고, 회사에 간이 침대를 들여놓고 밤을 새웠다.&lt;br&gt;&lt;br&gt;“솔직히 50대 중반이 20대처럼 한 번 읽고 바로 기억되는 나이는 아니지 않습니까.” 남들이 한 번 훑고 넘어갈 자료를 세 번씩 확인했다. 잊지 않기 위해 메모를 남겼고, 다시 열어봤다. 작년에는 ESG 관련 박사 과정도 시작했다. “전문성을 갖추고 싶었다. 확실히 업무의 깊이가 달라졌다. 기업의 고민을 보는 눈도 넓어졌다”고 했다.&lt;br&gt;&lt;br&gt;젊은 동료들과 협업에 대해 홍씨는 분명한 원칙을 갖고 있다. “같이 일하는 젊은 친구들도 ‘내부 고객’이라고 생각한다. 함부로 대하지 않는 게 기본이다.” 그는 “내가 예전에 임원이었고, 30년 경력이 있고, 이런 태도는 내려놔야 한다”고 했다. “다시 일하려면 인생의 반 이상은 내려놓아야 한다.”&lt;br&gt;&lt;br&gt;은퇴 이후를 고민하는 또래들에게 그는 ‘정년 연장’이라는 말에 선을 긋는다. “정년을 늘리는 건 임시방편이다. 중요한 건 자신의 노하우를 실제로 활용할 수 있는 자리를 찾는 것이다.” 기다리는 것이 아니라, 적극적으로 찾아야 한다는 의미다.&lt;br&gt;&lt;br&gt;홍씨 이야기는 거창한 성공담은 아니다. 메시지는 단순하다. 다시 일하고 싶다면, 내려놓을 준비부터 해야 한다는 것. 그리고 그 출발선은 생각보다 낮고, 또 생각보다 치열하다는 사실이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알려왔습니다] &lt;‘임성근 구명 로비 의혹 제보’ 김규현 변호사, 피의자 소환 기사&gt; 관련 </title>
-      <link>https://www.chosun.com/national/national_general/2026/01/27/DGTBYO6OFZGZTAQAFZXJANFH6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/27/DGTBYO6OFZGZTAQAFZXJANFH6Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 Jan 2026 07:12:23 +0000</pubDate>
-      <content:encoded>조선닷컴은 2024년 10월 1일자 &amp;lt;[단독] ‘임성근 구명 로비 의혹 제보’ 김규현 변호사, 피의자 소환&amp;gt;이라는 제목의 기사에서 임성근 전 해병대 1사단장 구명 로비 의혹을 제기한 김규현 변호사를 경찰이 피의자 신분으로 소환했다고 보도했습니다. 수사를 진행한 서울 마포경찰서는 2025년 7월 10일 김 변호사에 대해 ‘혐의 없음’으로 불송치 처분을 한 것으로 확인돼 알려드립니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“항소할 테면 해보라” “법정서 끌어내라”...‘막말’ 판사</title>
