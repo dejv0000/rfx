@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 권성동 판결문에 나온… ‘현금 1억’ 이후의 문자들</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/29/2VO3EVKCJVB4VMSALGRVGGQUPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/29/2VO3EVKCJVB4VMSALGRVGGQUPQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 Jan 2026 13:29:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTCNDGG42WGMBVMZRGIZBXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 3일 자신의 정치자금법 위반 혐의 사건 1차 공판에 출석한 권성동 국민의힘 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)가 지난 28일 정치자금법 위반 혐의를 받는 국민의힘 권성동 의원에게 징역 2년과 추징금 1억원을 선고했다. 29일 본지가 확보한 57쪽 분량의 1심 판결문에는 권 의원이 윤영호 전 통일교 세계본부장과 접촉을 시작한 때부터 ‘현금 1억원’을 받은 이후의 상황까지 상세히 담겼다. 판결문에는 당시 통일교 내부 인사들이 나눈 대화에 권 의원이 여러 차례 언급된 정황도 포함됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“관계 긴밀해졌다”… 점심 식사 뒤 이어진 와인·고기&lt;/b&gt;&lt;br&gt;&lt;br&gt;판결문에는 권 의원이 2022년 1월 5일 윤씨에게서 불법 정치자금 1억원을 받은 뒤 윤씨와 주고받은 문자메시지 내용이 담겼다. 재판부는 “당일 점심 식사 이후 피고인과 윤영호의 관계가 긴밀하게 발전했던 것으로 보인다”고 판단했다.&lt;br&gt;&lt;br&gt;윤씨는 같은 달 11일 권 의원에게 “다음 주 화·수·목 가운데 일정 하나 주시면 점심 식사 모시고 싶습니다”라고 연락했다. 이후 만남은 1월 19일로 정해졌다. 이틀 전인 17일에는 윤씨가 “작은 정성이지만 선물을 좀 보내드리고 싶은데, 주소 하나 알려주시면 좋겠습니다”라는 문자를 보냈다. 이에 권 의원은 서울 강남구 개포동 자택의 동·호수까지 전달한 것으로 판결문에 적시됐다.&lt;br&gt;&lt;br&gt;만남 이후 20일 윤씨는 “점심 감사하다. 어제(19일) 약소하나마 와인과 고기를 보냈는데 발송인 카드가 안 보였던 것 같다”며 “아까 말씀드린 것은 방안을 좀 더 정리해 말씀드리겠다”고 문자를 보냈다. 권 의원은 “고맙습니다”라고 답했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇통일교 내부 대화에 등장한 ‘권성동’&lt;/b&gt;&lt;br&gt;&lt;br&gt;판결문에는 통일교 내부 인사들이 주고받은 대화 내용도 담겼다. 여기엔 권 의원의 이름이 여러 차례 등장한다. 재판부는 “통일교 내부에서 이뤄진 대화를 보더라도 윤씨가 피고인 등을 통해 윤석열 전 대통령 측에 접근했고, 권 의원 역시 윤씨 등과 통일교의 각종 현안에 대해 논의한 것으로 보인다”고 판단했다.&lt;br&gt;&lt;br&gt;윤씨는 2022년 1월 25일 당시 통일교 부회장과의 대화에서 “여야 둘 다 사실 우리 거부한다. 야권(당시 더불어민주당)은 3개 라인을 가지고 했고, 거기 기획자까지 만났다. ‘권 의원’ 이런 정도가 아니다”라며 “통일교는 리스크가 있다는 것. 그건 내가 ‘어머님’께 말씀드렸다”고 말했다. 이후 석 달 뒤인 4월 23일에는 정원주 전 통일교 총재 비서실장이 이씨와의 대화에서 “그런 정치적인 문제는 ‘윤영호 본부장’ 통해 들어왔다. ‘권 의원’도 얘기하더라”고 언급했다. 이어 이씨는 “유엔 제5사무국 유치 관련 일을 ‘권 의원’을 통해 추진하고 있다”고도 했다.&lt;br&gt;&lt;br&gt;판결문 별지에는 윤씨의 아내이자 통일교 재정국장인 이모씨가 2024년 12월 23일 정씨에게 보낸 메시지 전문도 담겼다. 이 문자에는 “당시 선거를 두고 TM(한학자)께서는 금전적 지원도 하셨습니다. 아울러 ‘권 의원’이 직접 천정궁에서 두 차례 TM을 만났고, TM께서 여러 말씀과 함께 선물과 금일봉도 주셨습니다”라는 내용이 적시됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇재판부, ‘위법 수집 증거’ 주장 배척한 이유&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 권 의원 측이 제기한 ‘위법 수집 증거’ 주장을 받아들이지 않았다. 판결문에는 ‘위법하게 수집된 증거의 예외적인 증거 능력 인정’ 부분이 11쪽에 걸쳐 담겼다.&lt;br&gt;&lt;br&gt;권 의원 측은 그간 재판 과정에서 윤씨의 다이어리와, 윤씨가 권 의원에게 보낸 문자메시지 등이 위법하게 수집된 증거라고 주장해 왔다. 하지만 재판부는 “형사소송법이 압수 수색에서 관련성을 요구하는 취지는 무분별한 강제 수사가 자행되지 않도록 통제하기 위한 것이지, 그것이 정당한 수사를 방해하거나 실체적 진실 발견과 범죄 처벌을 통한 사법 정의의 실현을 저해하는 것이 아님은 분명하다”고 판시했다.&lt;br&gt;&lt;br&gt;재판부는 일부 증거가 영장에 기재 혐의와 직접 관련되지는 않는다고 보면서도, 고액 현금이 선물용 포장 박스에 담긴 사진 등 증거가 “범행의 동기와 경위, 범행의 수단과 방법 등을 증명하기 위한 ‘간접 증거’ 내지 ‘정황 증거’로 사용될 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;권 의원 측은 또 남부지검이 김건희 여사 관련 청탁금지법 사건과 관련해 발부받은 압수 수색 영장을 이용해 권 의원 관련 자료까지 선별 없이 압수한 것은 위법하다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “윤씨와 (건진 법사) 전성배씨의 문자메시지에서 김 여사가 언급됐고, 전씨는 다수의 유력 정치인과의 친분을 과시하는 소위 ‘정치 브로커’”라며 “영장에 기재된 윤 전 대통령의 직무와 관련한 청탁 내용에 비춰볼 때, 전씨 외에 윤 전 대통령에게 접근할 수 있는 다른 핵심 관계자의 조력을 받았을 가능성도 존재한다”고 했다. 그러면서 소위 ‘윤핵관(윤석열 핵심 관계자)’ 중 한 명으로 거론돼 온 권 의원과 주고받은 대화 역시 혐의 사실과 무관하다고 볼 수는 없다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “한학자, ‘국모의 품격’ 거론하며 김건희 목걸이 선물 지시“</title>
       <link>https://www.chosun.com/national/court_law/2026/01/29/YDD7A4N7G5DZLAALOZDMQKRXYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/29/YDD7A4N7G5DZLAALOZDMQKRXYI/</guid>
@@ -930,18 +939,6 @@
       <description/>
       <pubDate>Wed, 28 Jan 2026 08:15:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35YTV5U5EFEKZITT6IUOA7NDOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '유병장수걸' 프로필 사진./ 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신장암 진단을 받고 투병기를 공개해 온 유튜버 ‘유병장수걸(유병장수girl)’이 28세 나이로 세상을 떠났다.&lt;br&gt;&lt;br&gt;유병장수걸의 남자친구는 28일 유튜브를 통해 “장수걸이 오랜 투병 끝에 하늘의 별이 됐다”고 전했다. 이어 “기약 없는 투병 생활을 시작하며 뭔가 해보자고 시작했던 유튜브가 이렇게 많은 분의 사랑을 받게 됐고 여러분의 따뜻한 관심은 장수걸에게 정말 큰 힘이 됐다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “유병장수걸 채널을 사랑해 주신 모든 분께 진심으로 감사드린다. 이제는 고통 없이 편안히 쉬기를 바란다. 삼가 고인의 명복을 빕니다”라며 글을 마무리했다.&lt;br&gt;&lt;br&gt;1997년생인 유병장수걸은 희소암인 비투명세포 신장암 4기를 진단받았다. 그는 2022년부터 치료 과정과 일상을 담은 ‘암 환자 브이로그’를 올렸다. 항암 치료, 시술, 병원 생활 속에서도 희망을 잃지 않고 긍정적인 메시지를 전하면서 구독자들의 응원을 받았다. .&lt;br&gt;&lt;br&gt;그는 작년 호스피스 병동에 입원한 뒤에도 구독자 20만명을 넘기며 유튜브에서 실버 버튼을 받았다. 작년 11월 올린 마지막 영상에선 “통증이 너무 심해져서 자가통증조절장치(PCA) 시술을 하고 왔다. 시술이 실패해 액체가 새고 있지만 기다려 보려 한다”고 근황을 전하며 “갑자기 날씨가 너무 추워졌는데 옷 따스하게 입으시고 다음 영상에서 또 만나요”라고 했다. &lt;br&gt;&lt;br&gt;부고를 접한 네티즌들은 “거기선 아프지말고 맘껏 웃고 즐기길” “이제 고통 없이 편안하고 행복하세요” “좋은 곳 가시길 기도할게요” 등 글을 남기며 고인을 추모했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘어쿠스틱 콜라보’ 보컬 모수진, 27세 나이로 사망...“사인은 비공개”</title>
-      <link>https://www.chosun.com/national/people/2026/01/28/EDHYVK6ECZDTBJXPBJVXV5SF2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/28/EDHYVK6ECZDTBJXPBJVXV5SF2Y/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 Jan 2026 07:57:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZGMZJSGI2TSZBRMZRTMMRWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;혼성 밴드 어쿠스틱 콜라보의 보컬리스트 모수진./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼성 듀오 어쿠스틱 콜라보의 보컬 모수진이 27세의 나이로 세상을 떠났다. &lt;br&gt;&lt;br&gt;패닉버튼은 27일 인스타그램을 통해 “갑작스러운 비보에 유가족분들은 깊은 슬픔에 빠져 있다”며 “유가족의 뜻에 따라 고인의 사망 원인을 비롯한 상세 내용은 공개하지 않기로 했으니 너른 양해를 부탁드린다”고 했다. &lt;br&gt;&lt;br&gt;이어 “모든 장례 절차는 유가족의 뜻에 따라 가족, 친지, 지인만 참석한 가운데 조용히 비공개로 진행될 예정”이라며 “고인의 마지막 가는 길이 평온하도록 모두가 조용히 애도해 달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;발인은 이날 오전 10시 30분, 남양주 에덴추모공원에서 엄수된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;1999년생인 모수진은 아이돌 연습생 생활을 거쳐 2020년 어쿠스틱 콜라보의 3기 보컬로 합류하며 본격적인 음악 활동을 시작했다. 모수진은 어쿠스틱 콜라보로 ‘이젠 보낼게’, ‘그리워하는 나, 그리워지는 너’, ‘헤어지자’ 등의 노래를 냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MYZGMZJSGI2TSZBRMZRTMMRWHA.jpg?auth=b31f54590bb50df5952572dd027d9f1cbb293115166fd0fac848d7731a1a8b7d&amp;smart=true&amp;width=600&amp;height=544" type="image/jpeg" height="544" width="600">
-        <media:description type="plain">혼성 밴드 어쿠스틱 콜라보의 보컬리스트 모수진./인스타그램</media:description>
-      </media:content>
     </item>
     <item>
       <title>[속보] ‘통일교 1억원 수수’ 권성동 징역 2년 선고</title>
