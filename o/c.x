@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강남 4중 추돌 낸 운전자, 정신과 약 먹고 차 몰았다</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/30/I7UKXOTEYZC7XM55NQLTH2WREE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/30/I7UKXOTEYZC7XM55NQLTH2WREE/</guid>
+      <dc:creator>조민희 기자, 김진영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 13:25:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTSMJWGNTGKMLCMEYDANRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에서 50대 남성이 운전하던 차가 차량 3대를 잇달아 들이받는 4중 추돌 사고가 발생했다. 운전자에 대한 간이시약 검사 결과 향정신성의약품 성분이 검출됐다. &lt;br&gt;&lt;br&gt;서울 강남경찰서에 따르면, 지난 23일 오후 8시쯤 서울 강남구 신사동 압구정역 5번 출구 인근에서 운전자 A씨가 4중 추돌 사고를 냈다. 이 사고로 4명이 경상을 입었다. &lt;br&gt;&lt;br&gt;경찰은 특정범죄가중처벌법상 위험운전치상 및 약물운전 혐의로 A씨를 불구속 입건해 조사하고 있다고 30일 밝혔다. 법에서 규정하는 ‘약물 운전’이란 마약류관리법에서 규정하는 마약·향정신성의약품 등을 복용한 상태로 운전하는 것을 말한다.&lt;br&gt;&lt;br&gt;경찰이 A씨를 상대로 간이시약 검사를 한 결과 ‘벤조디아제핀’ 양성 반응이 나온 것으로 확인됐다. 벤조디아제핀은 병원에서 주로 불면증 치료제 등으로 쓰인다. A씨는 경찰 조사에서 “정신과 치료를 위해 처방받은 약을 복용한 채 운전했다”고 진술했다고 한다. &lt;br&gt;&lt;br&gt;앞서 지난 2일 서울 종각역 인근에서 추돌사고를 일으켜 14명의 사상자를 낸 택시기사는 감기약을 복용하고 운전한 것으로 알려졌다. 오는 4월부터는 약물운전하다 적발되면 최대 5년 징역 또는 3000만원 벌금에 처해진다. 현행 3년 이하 징역·1000만원 이하 벌금에서 대폭 상향된 수준이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金총리 “TF 구성해 강화 색동원 성적 학대 사건 진상 규명하라”</title>
+      <link>https://www.chosun.com/politics/goverment/2026/01/30/TCBRRVNNKNDFRM6N4TW4G6J7LI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/01/30/TCBRRVNNKNDFRM6N4TW4G6J7LI/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 13:13:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4GMZJVHEYDSYJWGU4DMMZRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 중증 장애인 거주 시설 색동원 성폭력 사건 공동대책위원회가 지난 21일 인천시청 앞에서 기자회견을 하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 30일 인천 강화군에 있는 중증 장애인 거주 시설 ‘색동원’에서 장애인들을 상대로 성폭력이 벌어져 왔다는 의혹과 관련해 진상 규명을 지시했다.&lt;br&gt;&lt;br&gt;국무총리실은 김 총리가 이날 색동원 사건 관련 상황을 보고받고, “총리실을 중심으로 범부처 합동 대응 TF(태스크포스)를 구성해 색동원 사건에 대해 신속하고 철저하게 진상을 규명하고, 피해자 등에 대한 보호 및 구제에 만전을 기하며, 정책 사각지대에 대한 보완책을 마련하라”고 지시했다고 밝혔다.&lt;br&gt;&lt;br&gt;김 총리는 TF에 총리실과 보건복지부, 경찰청, 관련 지방자치단체 등이 참여하라고 지시했다. 특히 경찰청에는 “장애인 전문 수사 인력과 외부 전문가 등이 참여하는 특별 수사팀을 편성해, 신속하고 철저한 진상 규명을 위해 수사력을 집중하고, 피해자 보호 등에 소홀함이 없도록 최선을 다하라”고 했다. 복지부에는 “관계 기관 합동으로, 전국 장애인 거주 시설에 대한 인권 보호 등 관리 실태 전반에 대해 전수조사를 실시하고, 제도 개선책을 마련하라”고 했다.&lt;br&gt;&lt;br&gt;앞서 색동원에서는 시설장이 시설에 거주하던 중증 장애 여성 전원에 대해 지속적으로 성폭력을 가했다는 의혹이 제기돼, 경찰이 수사에 착수한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 학교서 수업 시간에 동급생 집단폭행... 중학생 3명 송치</title>
+      <link>https://www.chosun.com/national/regional/2026/01/30/LL52AQOX3REFDGCJ2ZHPZRTNZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/30/LL52AQOX3REFDGCJ2ZHPZRTNZQ/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 11:36:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YS36WXMOMMR3PPVGCR6374RBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 중학교에서 동급생을 집단 폭행한 혐의를 받는 3명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 해운대경찰서는 폭력행위 등 처벌에 관한 법률상 공동 상해 등 혐의로 A군 등 중학생 3명을 검찰에 불구속 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난해 12월 26일 교내 강당에서 진행된 체육 수업 시간에 다른 동급생을 집단 폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;사건 당시 강당에는 지도 교사가 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘민주당 돈봉투’ 박용수 2심도 징역형… 증거능력 판단 달라졌지만 형량 유지</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/30/ISBVOHSMHBHP3OSKNX7MSAEQEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/30/ISBVOHSMHBHP3OSKNX7MSAEQEE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 10:49:06 +0000</pubDate>
+      <content:encoded>‘더불어민주당 전당대회 돈봉투 살포 의혹’ 등으로 재판에 넘겨진 송영길 전 민주당 대표의 보좌관 출신 박용수씨가 2심에서도 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRWGMDFHBRDSZLDGAZTAYJRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전당대회 돈봉투 살포 의혹의 핵심으로 지목된 송영길 전 민주당 대표의 전직 보좌관 출신 박용수씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 30일 정당법·정치자금법 위반 등 혐의로 기소된 박씨에 대한 선고 공판을 열고 검사의 항소를 기각했다. 이에 따라 징역 1년 2개월과 추징금 9240만원을 선고한 1심 판결이 유지됐다.&lt;br&gt;&lt;br&gt;박씨는 2021년 4월 송 전 대표의 당대표 당선을 목적으로 이정근 전 민주당 사무부총장 등 경선 캠프 관계자들과 공모해 6750만원을 살포한 혐의 등으로 2023년 7월 기소됐다. 박씨는 또 2020년 5~10월 컨설팅 업체 ‘얌전한 고양이’에 송 전 대표 관련 여론조사를 의뢰하면서 비용 9240만원을 송 전 대표의 외곽 조직인 ‘평화와 먹고사는 문제연구소(먹사연)’가 대신 내도록 한 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 여론조사 비용 대납 혐의에 대해 유죄로 인정했다. 1심 재판부는 “박씨는 정치자금법을 위반해 먹사연으로부터 9000만원 상당의 정치자금을 수수하고 그 사실을 은폐하기 위해 허위 견적서 등을 작성한 후 적극적으로 증거인멸 교사 행위를 해 죄질이 좋지 않다”고 했다. 2심 재판부도 이에 대해 사실오인이나 법리 오해가 없다며 원심 판단을 그대로 유지했다.&lt;br&gt;&lt;br&gt;다만 1심은 돈봉투 관련 혐의에 대해서는 무죄로 판단했다. 핵심 증거로 제시된 이정근씨의 휴대전화 녹음 파일을 위법하게 수집된 증거로 보고 증거능력을 인정하지 않았기 때문이다. 이씨는 2022년 10월 별도의 비리 사건으로 검찰 수사를 받는 과정에서 자신의 휴대전화를 동의하에 제출했는데, 1심 재판부는 “돈봉투 사건의 핵심 공범인 이씨가 자신이 처벌받을 것을 알면서도 제출했겠느냐”며 “검찰이 위법하게 수집한 증거로 증거능력이 없다”고 봤다.&lt;br&gt;&lt;br&gt;항소심 재판부는 휴대전화 제출의 임의성 판단에 대해 1심과 다른 결론을 내렸다. 항소심 재판부는 “이정근씨가 휴대전화 3대를 임의로 검사에게 제출한 사실은 인정된다”며 휴대전화를 임의로 제출하지 않았다고 판단한 원심 판단은 잘못된 것으로 보인다고 했다. 그러나 재판부는 “검사가 전자 정보 제출 범위를 명확히 확인하지 않고 전체를 압수한 것은 위법하다”며 해당 녹음 파일은 위법 수집 증거에 해당해 증거 능력이 없다고 판단했다. 이에 따라 돈봉투 관련 무죄 판단과 전체 형량은 유지됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 정시합격자, 외고·과고 출신 반토막… 일반고는 10년새 최고</title>
+      <link>https://www.chosun.com/national/education/2026/01/30/C3FWPUCMVBBSLMRMV7COCEJRPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/30/C3FWPUCMVBBSLMRMV7COCEJRPI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 11:14:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3TAMRQHE2TGMJRGNQTOZDBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 정시모집 합격자 중 일반고 출신 비율이 최근 10년 사이 최고치를 기록했다. 반면 외국어고등학교와 과학고등학교 등 특목고 출신 수험생은 전년 대비 반 토막 난 것으로 파악됐다. &lt;br&gt;&lt;br&gt;30일 종로학원이 2026학년도 서울대 정시 모집 합격자들의 고등학교를 분석한 결과, 과고 출신은 모두 10명으로 전년(22명)보다 54.5% 감소했다. 외고 출신도 전년 59명에서 올해 31명으로 47.5% 줄었다. 국제고 출신(16명→14명)과 영재학교 출신(48명→40명) 역시 각각 16.7%, 12.5% 적어졌다.&lt;br&gt;&lt;br&gt;반면, 일반고 출신은 전년 999명에서 올해 1037명으로 3.8% 증가했다. 자율형사립고 출신 역시 전년 287명에서 올해 310명으로 8.0% 뛰었다. &lt;br&gt;&lt;br&gt;특히 올해 서울대 정시 합격자 중 일반고 출신 비율은 63.5%로 자료 집계를 시작한 2016학년도 이후 10년 새 가장 높았다. &lt;br&gt;&lt;br&gt;특목고 약세 현상은 상위권 학생의 ‘특목고 쏠림’이 완화된 것과 연관됐다는 분석이다. 과거와 비교하면 일반고에 다니는 우수 인재가 늘었다는 이야기다. 임성호 종로학원 대표는 “과고와 영재학교는 의대 입시가 원천 차단돼 두 학교 대신 일반고로 진학하는 최상위권 학생이 많아졌다”며 “외고와 국제고는 내신 경쟁이 워낙 치열해 상위권 학생들이 예전보다 기피하는 경향이 있다”고 말했다. 이어 “내신 5등급제로 내신 성적에 대한 부담이 더 커진 만큼 올해 같은 서울대 정시 합격자 비율이 지속될 수 있다”고 예상했다. &lt;br&gt;&lt;br&gt;이른바 ‘N수’를 통해 서울대 정시에 합격한 수험생 역시 전년 901명에서 올해 879명으로 2.4% 줄어들었다. N수생이 전체 정시 합격자에서 차지하는 비율은 55.39%로, 2018학년도 이후 8년 만에 가장 적었다. &lt;br&gt;&lt;br&gt;종로학원은 대학수학능력시험(수능)에서 고득점을 받는 최상위권 N수생들이 지난해 모집 인원을 증원한 의대에 대거 합격하며 입시판을 떠났기 때문이라고 추정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1800억 부당대출’ 새마을금고 임직원·건설사 대표 재판행</title>
+      <link>https://www.chosun.com/national/regional/2026/01/30/G3DCZFRADZBSHBMS2WZAGIFWUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/30/G3DCZFRADZBSHBMS2WZAGIFWUM/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 11:20:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2TSMZTHE3TQMTDME3DENRXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 성남지청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1800억원대 새마을금고 부당 대출 사건에 연루된 임직원과 건설사 대표 등이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 성남지청 형사1부(부장 정재신)는 30일 특정경제범죄가중처벌법상 사기 혐의로 지역 건설사 대표 A씨를 구속 기소했다고 밝혔다. 검찰은 또 경기 성남시 소재 새마을금고 임직원 B씨 등 29명을 특경법상 사기·수재 등 혐의로 불구속 기소했다. 재판에 넘겨진 이들 중 새마을금고 직원은 B씨를 포함해 총 3명이다.&lt;br&gt;&lt;br&gt;A씨 등은 2020년 8월부터 2024년 1월까지 깡통 법인 22개를 만들어 새마을금고의 동일인 대출 한도 100억원 규정을 어기고 약 1800억원 상당의 부당 대출을 받아 편취한 혐의를 받는다. 이렇게 받은 대출금은 부동산 개발 사업 자금 등으로 활용됐다고 한다.&lt;br&gt;&lt;br&gt;A씨 등은 부당 대출을 받기 위해 B씨에게 아파트 1억4100만원을 할인해 분양해 줬다고 검찰은 전했다. B씨 등 새마을금고 직원들은 자신의 업무 실적을 위해 이 사건 범행을 공모한 것으로 알려졌다. 현재도 이 사건 부당 대출 중 절반 이상이 연체 중이라고 한다.&lt;br&gt;&lt;br&gt;검찰은 “일부 새마을금고 직원들이 사실상 건설사 사금융 조직처럼 움직였고, 그로 인해 새마을금고의 재정건전성이 상당히 악화했다”며 “서민 금융기관 부실을 초래하는 금융기관 종사자와 건설업자, 대출브로커의 유착 관계를 철저히 끊어낼 수 있도록 엄정 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;새마을금고에서는 이전에도 여러 차례 부당 대출 사건이 발생했다. 2023년 서울 청구동새마을금고에서 금고 임원과 공모해 담보 평가액을 부풀리고, 차명으로 동일인 한도 규제를 초과해 700억원대 부당 대출을 받은 사건이 대표적이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 음성 공장 화재 3시간 만에 불길 잡아…  소방 로봇 투입</title>
+      <link>https://www.chosun.com/chosunbiz/topics_biz/2026/01/30/X4Q2SKNVQBCOXGTQXFW5TKYKKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/chosunbiz/topics_biz/2026/01/30/X4Q2SKNVQBCOXGTQXFW5TKYKKI/</guid>
+      <dc:creator>권오은 기자(조선비즈)</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 11:11:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDINLGGUYGKMLDMQZTQMLFGA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;충북 음성군의 한 공장에서 30일 불이 난 가운데 무인 소방로봇이 불을 끄고 있다. /소방청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성군의 한 공장에서 난 불이 3시간여 만에 잡혔다.&lt;br&gt;&lt;br&gt;소방청은 30일 오후 6시 2분쯤 맹동면의 한 위생용품 제조 공장에서 발생한 화재의 큰 불길을 껐다고 밝혔다.&lt;br&gt;&lt;br&gt;소방당국은 이날 오후 3시 5분부터 화재 진압에 나섰다. 이어 3시 25분부터 대응 2단계를 발령하고 헬기 6대를 비롯해 소방 장비와 인력을 추가 투입해 불을 껐다. 무인 소방로봇도 동원했다.&lt;br&gt;&lt;br&gt;물티슈와 기저귀 등을 보관하는 이 공장에선 이날 오후 2시 56분쯤 원인을 알 수 없는 화재가 났다. 불길은 빠르게 확산해 인근 공장까지 번졌다.&lt;br&gt;&lt;br&gt;화재 직후 공장에서 일하던 직원 83명 중 81명은 대피했다. 다만 외국인 직원 2명은 소재가 파악되지 않고 있다.&lt;br&gt;&lt;br&gt;소방당국은 불을 모두 끄는대로 실종자 수색에 나설 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GNRDINLGGUYGKMLDMQZTQMLFGA.gif?auth=b3cf2166b020ce4e631dbcb271b405b48fe58eb9052df69fbb1da827a2d56da8&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">충북 음성군의 한 공장에서 30일 불이 난 가운데 무인 소방로봇이 불을 끄고 있다. /소방청 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘폐수 무단 배출’ HD현대오일뱅크 전·현직 임원 2심도 실형</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/30/JKMCGBAD7JEQBODB76Q7FIPUEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/30/JKMCGBAD7JEQBODB76Q7FIPUEQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 10:43:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDPQSELIBRBJ4RAWMNG7ZNR4GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 봉은사로 인근 현대오일뱅크 주유소. 코람코자산신탁 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독성 물질이 함유된 공업용수를 계열사 공장과 대기 중에 무단 배출한 혐의로 기소된 HD현대오일뱅크 전·현직 임직원들이 2심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 30일 물환경보전법 위반 혐의로 재판에 넘겨진 강달호 전 HD현대오일뱅크 대표에게 1심과 같이 징역 1년6개월을 선고했다. 같은 혐의를 받는 정해원 전 HD현대오일뱅크 안전생산본부장도 징역 1년2개월이 선고됐고, 회사 법인은 벌금 5000만원이 유지됐다.&lt;br&gt;&lt;br&gt;재판부는 폐수량을 130만㎥로 판단했다. 앞서 1심 재판부는 350㎥의 폐수가 배출됐다고 인정했는데, 2심은 불고불리 원칙에 따라 이를 파기하고 검찰이 기소한 130만㎥만 폐수량으로 인정했다. 불고불리의 원칙에 따라 법원은 검사가 기소한 사건에 관해서만 심판할 수 있다. &lt;br&gt;&lt;br&gt;HD현대오일뱅크의 수질오염 방지시설인 습식가스세정시설(WGS)에 대해선 “적법한 방지시설로 보기 어렵다”는 판단이 나왔다. 재판부는 “WGS 등에 투입된 폐수는 굴뚝이나 폐수처리장으로 이동하게 되며, 이 과정에서 폐수는 관리·통제를 벗어나 외부 위험에 노출될 가능성이 상당하다”며 “사건 이후 WGS 등에서 페놀이 검출되지 않았다고 하나, 이는 사후 조치에 불과하다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;강 전 대표 등은 2019년 10월부터 2021년 11월까지 HD현대오일뱅크 대산공장의 폐수 배출시설에서 나온 페놀 및 페놀류 함유 폐수 33만t을 자회사인 현대OCI공장으로 배출한 혐의를 받는다. 2016년 10월부터 2021년 11월까지는 페놀 폐수를 자회사인 현대케미칼 공장에 배출하기도 했다. 이에 대해 현대오일뱅크 측은 “물 부족에 따라 공업용수를 재활용한 것”이라고 설명했지만, 검찰은 처리가 안 된 폐수인 ‘원폐수를 다른 시설로 보내 재사용한 것은 불법 배출에 해당한다며 이들을 기소했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “우리나라 최초의 민간 정유사인 현대오일뱅크는 굴지의 기업으로, 수질오염시설을 새로 설치하기 어려울 정도로 영세하지 않다”며 실형을 선고했다. 재판부는 이들이 비용 절감을 위해 조직적으로 범죄를 저질렀다고 봤고, 인근 거주 주민들의 악취 민원으로 지역 관할 행정관청 공무원 점검이나 단속이 있을 때만 폐수 공급을 중단하는 등 주도면밀함도 보였다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>KT사옥·철도역 폭파 협박 반복한 10대 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2026/01/30/CNZ7URXIWZFFFDCFETIZICPRHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/30/CNZ7URXIWZFFFDCFETIZICPRHY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 Jan 2026 10:28:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2TSMZTHE3TQMTDME3DENRXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 성남지청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 사이트 게시판에서 KT 사옥과 철도역 등을 폭파하겠다고 글을 쓴 혐의를 받는 10대가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 성남지청 형사3부(부장 강명훈)는 30일 공중협박과 위계공무집행방해 혐의로 A군을 구속 기소했다.&lt;br&gt;&lt;br&gt;A군은 지난 5~11일 경기 성남 분당 KT 사옥과 강남역, 부산역, 천안아산역, SBS, MBC 등 6곳을 대상으로 각각 한 차례씩 폭파 협박을 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;특히 A군은 지난 5일 KT 휴대전화 개통 상담 게시판에 “분당 KT 사옥에 폭탄을 설치해 놨으며 오후 9시에 폭파할 예정”이라며 “100억원을 입금하지 않으면 칼부림하겠다”고 글을 썼다. 그러면서 A군은 글쓴이 명의를 ‘김○○’이라고 밝혔으며 이 명의의 토스뱅크 계좌번호를 적어놨다.&lt;br&gt;&lt;br&gt;A군은 메신저 애플리케이션인 디스코드에서 활동해 왔는데, 다른 디스코드 이용자인 김○○과 사이가 틀어지자 그를 곤란하게 할 목적으로 명의를 도용해 범행을 저지르기 시작했다고 한다. &lt;br&gt;&lt;br&gt;A군은 자신의 존재를 숨기기 위해 가상사설망(VPN)을 통해 해외 IP를 이용했다. 또 별다른 인증 절차 없이 글을 쓸 수 있는 인터넷 사이트 게시판만 골라 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “자신들이 괴롭히고 싶은 제삼자 행세를 하며 허위 테러 예고를 해 신고 현장에 경찰특공대가 출동하게 하는 일명 ‘스와팅(Swatting)’ 범죄가 10대 사이에서 마치 놀이 문화처럼 빈번히 이뤄지는 실태를 확인했다”며 “죄질에 상응하는 형이 선고될 수 있도록 공소 유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법원 고위법관 인사… 고법원장 2명 보임·행정처 차장에 첫 고법판사</title>
       <link>https://www.chosun.com/national/court_law/2026/01/30/GQWRDRQ4TZGJ7D6I3GGIC5YIMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/30/GQWRDRQ4TZGJ7D6I3GGIC5YIMQ/</guid>
@@ -841,65 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7RGFG75XFEMHMMMH66G4FFUZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;한글표시사항 기재되지 않은 과자. /부산본부세관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국 과자와 의약품을 신고 없이 수입한 뒤 세계과자 할인점에서 판매한 업주들이 세관에 적발됐다.&lt;br&gt;&lt;br&gt;부산본부세관은 관세법과 식품위생법, 약사법 위반 혐의로 세계과자 할인점 업주 4명을 검찰에 불구속 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2021년 1월부터 지난해 6월까지 식품의약품안전처 신고 없이 외국산 과자와 진통제, 소화제 등 일반의약품을 불법적으로 수입해 세계과자 할인점 12곳에서 판매한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 시가 3억원에 달하는 7만5000여 개 물품을 수입했다. 또 수사기관의 단속을 피하기 위해 직원과 친인척 등 30여 명의 명의로 나눠 수입했다.&lt;br&gt;&lt;br&gt;밀수한 제품은 포장을 뜯은 뒤 매장에 낱개로 진열했으며, 유통 기한 표시를 하지 않거나 식품위생법에 따른 한글 표시 사항을 기재하지 않고 판매했다. 특히 밀수한 제과류 중엔 소아 질식을 유발할 가능성이 있어 국내 유통이 금지된 제품도 있었다고 세관은 전했다.&lt;br&gt;&lt;br&gt;부산세관은 이들이 과자 등을 불법 수입하는 과정에서 관세 등 4900만원가량을 가로챈 사실을 확인했으며, 가산세 등을 포함해 약 8300만원을 추징할 계획이다.&lt;br&gt;&lt;br&gt;부산본부세관 관계자는 “해외 직구 제품의 경우 정식 수입 제품과 달리 유통 경로 확인이 어려워 소비자에게 피해가 발생해도 구제받기 힘들다”며 “전자상거래의 간이 통관 제도를 악용한 위법 행위를 엄정히 단속해 건전한 해외 직구 환경을 조성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>술 자리서 직장 동료 흉기로 찌른 50대 중국인 체포 </title>
-      <link>https://www.chosun.com/national/incident/2026/01/29/ZN5DFRF4NRH4RMT5DAQLQ6XVGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/29/ZN5DFRF4NRH4RMT5DAQLQ6XVGI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 06:12:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ALTBIDVFUKNMMBUC3DAW356KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 술을 마시던 직장 동료를 흉기로 찌른 50대 중국인이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 논현경찰서는 살인미수 혐의로 중국 국적의 50대 남성 A씨를 체포해 조사하고 있다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 10시 55분쯤 인천 남동구 논현동의 한 빌라에서 직장 동료인 중국 국적의 50대 남성 B씨를 흉기로 찔러 살해하려 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 A씨가 휘두른 흉기에 등 부위를 다쳐 병원에서 수술을 받고 입원한 것으로 파악됐다. 생명에 지장은 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 B씨와 술을 마신 뒤 업무 처리 문제 등으로 말다툼을 벌이다 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨 신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 구체적인 사건 경위를 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최경환 전 경제부총리, 박정희 생가서 경북지사 출마 선언</title>
-      <link>https://www.chosun.com/national/regional/2026/01/29/V2P4QGEQUFHBHIHQRM3PCGLVDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/29/V2P4QGEQUFHBHIHQRM3PCGLVDY/</guid>
-      <dc:creator>구미=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 07:09:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2GCNBVGJQTIZLEGIZDAMJSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최경환 전 경제부총리가 29일 경북 구미시 박정희 전 대통령 생가에서 지방선거 경북도지사 출마를 공식 선언하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최경환 전 경제부총리가 29일 오는 6월 지방선거 경북지사 출마를 공식 선언했다.&lt;br&gt;&lt;br&gt;박근혜 정부 경제 사령탑이었던 최 전 부총리는 이날 경북 구미 박정희 대통령 생가에서 기자회견을 열고 ““한강의 기적을 일군 ‘할 수 있다’는 정신으로 무너져가는 경북을 재건하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “지난 수개월간 경북 전역 1만 5000㎞를 누비며 각계각층의 목소리를 경청한 결과, 민생 현장은 절체절명의 위기 앞에 서 있다. 이념 과잉의 부동산 정책과 무능한 포퓰리즘이 지방 소멸을 방치하는 동안 매년 8000명의 청년이 고향을 떠나고 있다”며 “이제는 단순히 관리 위주의 행정 전문가가 아니라 중앙정부의 판을 읽고 예산을 끌어올 수 있는 ‘경제 도지사’가 나서야 할 때”라고 주장했다. &lt;br&gt;&lt;br&gt;최 전 부총리는 “도지사에게 중요한 것은 말이 아니라 성과이며, 경제 위기 속에서 대한민국 경제를 지휘했던 경험을 이제 경북 재건을 위해 모두 쏟아붓겠다”며 “중앙의 무관심으로 인한 ‘경북 패싱’의 고리를 끊어내고, 과거의 구태를 깨는 실용적 리더십으로 웅도 경북의 자존심을 반드시 되찾겠다”고 강조했다. &lt;br&gt;&lt;br&gt;앞서 지난 24일 최 전 부총리는 경산시민회관에서 박근혜 정부 시절 추진했던 경제 정책들을 정리한 정책서 ‘박근혜 정부의 경제 정책-초이노믹스’와 자신의 인생 역정을 담은 자전적 에세이 ‘최경환입니다’ 출판기념회를 가졌다. 이날 출판기념회에는 김기춘 전 청와대 비서실장, 이관섭 전 대통령실 비서실장, 윤재옥, 이만희 국회의원 등 박근혜 정부 시절의 관료와 친박계 의원들이 참석했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘12·3 계엄, 내란 혐의' 한덕수·이상민 제주 명예도민증 박탈</title>
-      <link>https://www.chosun.com/national/regional/2026/01/29/7WYFRLVOFVAT3EEPOXMKGVNO4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/29/7WYFRLVOFVAT3EEPOXMKGVNO4M/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 05:56:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZTGMJQMZRTCYZYGU4TMNZWG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 관련 내란 방조 등 혐의를 받는 한덕수 전 국무총리가 지난 21일 서울 서초구 서울중앙지법에서 열린 1심 선고공판에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 계엄’과 관련해 내란중요임무종사 혐의로 기소된 한덕수 전 국무총리와 이상민 전 행정안전부 장관의 제주 명예도민증이 취소된다.&lt;br&gt;&lt;br&gt;29일 제주도에 따르면 지난 21일 1심에서 징역 23년을 선고받은 한덕수 전 총리와 2월 선고를 앞둔 이상민 전 장관의 명예도민증 취소 절차에 착수했다.&lt;br&gt;&lt;br&gt;명예도민은 제주 발전에 기여하고 도민의 긍지를 높인 인사에게 제주도민을 대표해 제주도가 수여하는 제도로 제주지역 관광지 등에서 도민 수준의 다양한 혜택을 제공받는다.&lt;br&gt;&lt;br&gt;명예도민 박탈은 1966명 12월 27일 이 조례가 제정된 이후 처음이다.&lt;br&gt;&lt;br&gt;제주도는 두 전직 고위 공직자가 12·3 계엄 사태로 내란특검에 기소된 것은 사회적 물의이자 민주주의 훼손 행위로 판단하고, 명예도민 수여 취지에 부합하지 않는다고 밝혔다.&lt;br&gt;&lt;br&gt;제주도는 계엄 이후인 지난해 4월 14일 명예도민증 취소 사유를 구체화하는 내용으로 관련 조례를 개정했다.&lt;br&gt;&lt;br&gt;개정 조례에는 4·3 왜곡을 하거나 사회적 물의를 일으켜 제주도의 명예를 실추한 경우, 도정조정위원회 심의와 도의회 동의를 거쳐 명예도민증을 취소할 수 있도록 하는 내용이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>흡연으로 인한 사회경제 비용 15조 육박</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/01/29/VBZUWE7BCBBSDN6GYSUQ2UW4JA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/29/VBZUWE7BCBBSDN6GYSUQ2UW4JA/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 07:00:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TQZBQGA2WIMBSG4ZTSM3DG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전자담배/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흡연으로 인한 사회·경제적 비용이 꾸준히 늘어 15조원에 육박한다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;29일 질병관리청의 ‘흡연 기인 사망 및 사회·경제적 부담 산출 연구(2025)’에 따르면 2023년 기준 한국의 직접 흡연으로 인한 사회·경제적 비용은 14조9517억원으로 조사됐다. 이는 직전 해인 2022년 대비 8.8% 증가한 규모다.&lt;br&gt;&lt;br&gt;사회·경제적 비용은 흡연에 따른 질병으로 인해 발생하는 의료비와 교통비 등 직접 비용과 조기 사망, 의료 서비스 이용으로 인한 생산성 손실 등 간접 비용을 모두 합한 것이다. 2020년 기준 12조8912억원 수준이었던 이 비용은 2021년 12조9754억원, 2022년 13조6316억원을 기록하며 매년 증가하는 추세다.&lt;br&gt;&lt;br&gt;이 같은 비용 증가는 좀처럼 줄어들지 않는 국내 흡연율 때문이라는 분석이 나오고 있다. 2020년 20.6%였던 국내 흡연율은 2022년 17.7%로 줄어드는 듯했으나 2023년 다시 19.6%로 올랐다. 최근엔 여성과 젊은 층 중심으로 전자담배 흡연이 늘면서 흡연율 저하에 부정적인 영향을 미치는 것으로 조사되고 있다.&lt;br&gt;&lt;br&gt;특히 사회경제적 비용에서는 간접 비용인 조기 사망으로 인한 생산성 손실이 7조7860억원으로 절반 이상을 차지했다. 직접 비용인 의료비(5조3388억원), 의료 이용으로 인한 생산성 손실(1조3571억원), 간병비(3747억원) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;이번 조사에서 직접 흡연으로 인한 사망자 수는 2023년 기준 6만8536명에 이르는 것으로 확인됐다. 남성이 6만216명, 여성이 8320명이었다. 흡연으로 인한 사망 중에선 폐암으로 인한 사람이 가장 많아 남성은 9480명, 여성은 699명이 폐암으로 사망했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김치냉장고에 여친 시신 1년간 숨긴 40대 살해범 징역 30년</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/29/4SHAILSO7RGVXBDAODQUP2CKJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/29/4SHAILSO7RGVXBDAODQUP2CKJE/</guid>
-      <dc:creator>군산=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 06:45:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYGWKIFEPRIL7KQPA5WFN3MP4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;여자친구를 살해한 뒤 김치냉장고에 1년 동안 시신을 숨긴 A(40대)씨가 지난해 9월 30일 전북 군산시 전주지방법원 군산지원에서 열린 구속 전 피의자심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교제하던 여자친구를 살해하고 시신을 김치냉장고에 넣어 1년 가까이 보관해 온 40대 남성에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;전주지법 군산지원 형사1부(재판장 백상빈)는 29일 살인 및 시체유기 등의 혐의로 기소된 A(41)씨에게 징역 30년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “사람의 생명은 연령이나 지위를 막론하고 절대적으로 존중받아야 함에도 피고인은 언쟁 끝에 피해자를 살해했다”며 “나아가 시신을 11개월 동안 김치냉장고에 유기해 고인의 마지막 존엄성마저 훼손했다”고 질타했다. 이어 “피고인이 반성한다고 하나 피해 복구를 위한 노력이 없고, 유족에게 씻을 수 없는 상처를 준 점을 고려할 때 장기간 사회에서 격리할 필요가 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 10월 20일 전북 군산시 조촌동의 한 빌라에서 4년간 교제해 온 B씨를 목 졸라 살해하고, 시신을 김치냉장고에 유기한 혐의로 기소됐다. 조사 결과 A씨는 범행 직후 김치냉장고를 새로 구입해 시신을 넣은 뒤, B씨가 살던 빌라에 그대로 둔 것으로 드러났다. 발견 당시 시신은 냉동 상태로 보관돼 부패가 거의 진행되지 않은 상태였다.&lt;br&gt;&lt;br&gt;A씨는 범행을 은폐하기 위해 치밀하게 행동했다. 그는 B씨가 살아있는 것처럼 위장하기 위해 B씨의 휴대전화로 가족과 지인에게 문자를 보내고, 1년 동안 빌라 월세를 대신 납부하기도 했다.&lt;br&gt;&lt;br&gt;그러나 “언니와 연락이 닿지 않는다”는 B씨 여동생의 신고로 A씨의 범행은 덜미가 잡혔다. 지난해 9월 29일 실종 신고를 접수한 경찰이 B씨에게 전화를 걸자, A씨는 B씨인 척 “무사히 잘 있다”는 문자를 보냈다. 이에 경찰이 “직접 통화하거나 대면해야 한다”고 압박하자, A씨는 동거녀인 C씨에게 대리 통화를 부탁했다.&lt;br&gt;&lt;br&gt;경찰 통화에서 B씨 행세를 했던 C씨는 A씨의 행동에 수상함을 느껴 추궁했고, 결국 A씨로부터 “내가 B씨를 살해했다”는 자백을 받아냈다. C씨의 신고로 출동한 경찰은 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PYGWKIFEPRIL7KQPA5WFN3MP4A.JPG?auth=9347601cb9301e5f5a3a8aea0f5d7c1a8a15b44b2f6638455aa952501ce2eae4&amp;smart=true&amp;width=1486&amp;height=2328" type="image/jpeg" height="2328" width="1486">
-        <media:description type="plain">여자친구를 살해한 뒤 김치냉장고에 1년 동안 시신을 숨긴 A(40대)씨가 지난해 9월 30일 전북 군산시 전주지방법원 군산지원에서 열린 구속 전 피의자심문(영장실질심사)에 출석하고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(군산=뉴스1) 유경석 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>이웃 살해·시신 훼손 유기한 70대 ‘징역 30년’</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/29/T2B37SHSHRGNTAEFV6FUYS23XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/29/T2B37SHSHRGNTAEFV6FUYS23XU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>80대 이웃을 살해한 뒤 시신을 유기한 70대가 1심에서 중형을 선고받았다.
-춘천지법 형사2부(재판장 김성래)는 살인 등 혐의로 기소된 A(78)씨에게 징역 30년을 선고했다고 29일 밝혔다.</description>
-      <pubDate>Thu, 29 Jan 2026 06:29:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2GEZBSGM4DONTCGI4WIZTCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80대 이웃을 살해한 뒤 시신을 유기한 70대가 1심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 살인 등 혐의로 기소된 A(78)씨에게 징역 30년을 선고했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 3일 강원 화천군 상서면에서 80대 B씨를 살해한 뒤 시신을 훼손해 하천변에 유기한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨의 가족은 범행 사흘 뒤인 같은 달 6일 “추석을 맞아 집을 찾았는데 B씨가 보이지 않는다”며 경찰에 신고했다. 경찰은 수색 이틀 만에 하천 인근에서 숨진 B씨를 발견했으며, 시신은 훼손된 상태였다.&lt;br&gt;&lt;br&gt;A씨는 수사망이 좁혀오자 약물을 복용했으나 병원에서 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 다른 남자를 만난다고 생각해 피해자를 살해했다”면서 “범행 동기나 방법 등을 비춰봤을 때 엄벌이 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] “김건희 같은 싸가지 시스터스 말고” 도이치 무죄 근거 됐다</title>
       <link>https://www.chosun.com/national/court_law/2026/01/29/TGN4UQAVWZCXFGPVBMBM7GJYHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/29/TGN4UQAVWZCXFGPVBMBM7GJYHA/</guid>
@@ -916,36 +941,6 @@
       <description/>
       <pubDate>Thu, 29 Jan 2026 01:40:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRTOYJTMEYTOOJUGRQTAYTBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;함영주 하나금융그룹 회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 29일 채용 비리로 재판에 넘겨진 함영주 하나금융 회장에 대해 유죄로 판단했던 2심을 깨고 무죄 취지로 파기환송했다. 대법원 판단에 따라 함 회장은 회장직을 유지할 수 있게 됐다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 업무방해 및 남녀고용평등법 위반 혐의로 징역 6개월에 집행유예 2년, 벌금 300만원을 선고받은 함 회장에 대해 업무방해 부분을 다시 심리하라고 판단했다. 남녀고용평등법 위반 혐의에 대한 상고는 기각해 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;함 회장은 하나은행장이던 2015년 공개채용 선발 절차에 개입한 혐의(업무방해)를 받는다. 당시 함 회장은 국민은행 고위 관계자로부터 그의 아들이 하나은행에 지원했다는 얘기를 듣고 인사부에 잘 봐줄 것을 지시했고, 인사부에 합숙 면접에서 자신이 잘 봐주라고 했던 지원자들이 통과하지 못할 경우 이들을 합격시키라고 지시한 혐의로 기소됐다. 신입사원 선발 과정에서 남녀 비율을 4대1로 해 남자를 더 많이 뽑으라고 지시한 혐의(남녀고용평등법 위반)도 포함됐다. &lt;br&gt;&lt;br&gt;1심 재판부는 두 혐의에 대해 무죄를 선고했다. 재판부는 2015년 채용 과정에서 함 회장이 일부 지원자들에 대한 추천 의사를 인사부에 전달한 사실은 인정했으나, 합격권이 아니었던 지원자들이 합격할 수 있도록 한 것은 아니라고 판단했다. 남자 직원을 더 많이 뽑으라고 지시한 것 역시 “하나은행의 남녀 차별적 채용 방식이 적어도 10년 이상 관행적으로 지속됐다고 보이고, 은행장들의 의사결정과 무관하게 시행돼 피고인이 영향을 미쳤다고 보기 어렵다”고 봤다.&lt;br&gt;&lt;br&gt;2심은 두 혐의를 모두 유죄로 판단하고 징역 6개월에 집행유예 2년, 벌금 300만원을 선고했다. 재판부는 “함 회장이 합숙 면접 합격자 선정과 지원자의 부정 합격에 개입한 것으로 판단된다”며 “합격 기준에 미달하는 지원자라도 추천 내지 청탁을 이유로 다음 전형에 응시할 기회를 부여했다”고 설명했다. 남녀고용평등법 위반 혐의에 대해선 “성 역할에 대한 고정관념을 기반으로 합리적인 이유 없이 지원자들의 성별을 근거로 합격 기준을 달리했다”고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 1심과 2심에서 나온 인사부 채용 담당자들의 증언이 신빙성 있다고 판단했다. 대법원은 “1심에서 2016년 합숙면접 당시 인사부 채용 담당자들은 일관되게 함 회장으로부터 합격기준에 미달하는 지원자에 대한 재검토를 지시받은 사실이 없고, 인사부장이 함 회장에게 보고하기 전후로 합격자 변동도 없다는 취지로 진술했다”며 “1심은 이 증언의 신빙성을 인정했다”고 했다. 그러면서 “2심에서도 이와 다른 취지의 증언이 없었고, 여러 간접 사실들은 논리와 경험칙, 과학법칙에 의해 뒷받침된다고 보기 부족한 것으로 보인다”고 봤다.&lt;br&gt;&lt;br&gt;남녀고용평등법 위반 혐의에 대해선 유죄를 확정했다. 대법원은 “2심 판단에 필요한 심리를 다하지 않은 채 자유심증주의의 한계를 벗어나거나 법리를 오해한 잘못이 없다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼성전자 일부 성과급… 대법 “퇴직금 반영해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/29/6AFMWKVG6NGMLPAXFAO2GHBPWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/29/6AFMWKVG6NGMLPAXFAO2GHBPWA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 01:32:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4TCN3CMRRWENBUG4YWMMRRMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자가 근로자들에게 지급해 온 각종 경영 성과급이 퇴직금 산정 기준인 ‘평균임금’에 포함되는지를 둘러싼 소송에서 대법원이 일부 성과급의 임금성을 인정했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 29일 전직 삼성전자 근로자 15명이 회사를 상대로 낸 퇴직금 청구 소송 상고심에서 회사 손을 들어준 원심 판결을 깨고 서울고법으로 돌려보냈다. 2019년 1심 제기 이후 7년 만에 나온 결론이다.&lt;br&gt;&lt;br&gt;쟁점은 삼성전자가 연 2회 상·하반기 지급해 온 ‘목표 인센티브’와 연 1회 지급하는 ‘성과 인센티브’가 근로기준법상 임금에 해당해 평균임금 산정에 포함되는지 여부였다. 평균임금은 퇴직 전 3개월 동안 지급된 임금을 기준으로 산정되는데, 각종 경영 성과급이 평균임금 산정에 포함되는지에 따라 퇴직금 규모가 크게 달라진다.&lt;br&gt;&lt;br&gt;대법원은 ‘성과 인센티브’에 대해서는 임금에 해당하지 않는다고 판단했다. 재판부는 “성과 인센티브의 지급 기준인 사업부별 경제적 부가가치(EVA)의 발생 여부와 규모는 근로자가 제공하는 근로의 양과 질에 비례하기보다, 근로자가 통제하기 어려운 다른 요인들이 더 큰 영향을 미친다”며 근로의 대가로 보기 어렵다고 밝혔다.&lt;br&gt;&lt;br&gt;반면 ‘목표 인센티브’에 대해서는 임금에 해당한다고 봤다. 대법원은 “목표 인센티브는 그 지급 규모가 사전에 어느 정도 확정된 고정적 금원”이라며 “평가 항목의 기능과 목적, 내용, 평가 방식 등을 고려하면 근로 성과에 대한 사후적 정산에 더 가깝다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 대법원은 원심이 두 인센티브 모두 임금성이 없다고 본 부분을 문제 삼아 전부 파기환송했다. 파기환송심에서는 목표 인센티브를 평균임금에 포함해 퇴직금 차액을 다시 산정하게 된다.&lt;br&gt;&lt;br&gt;한편, 이날 대법원 1부(주심 대법관 서경환)는 회사와 노동조합이 매년 노사 합의로 지급 기준을 정해 장기간 지급해 온 ‘특별성과급’에 대해서도 평균임금에 해당하지 않는다고 판단했다. 대법원은 “회사가 노사 관행에 따라 매년 한 차례씩 특별 성과급을 지급할 의무가 있었다고 볼 수 없고, 특별 성과급은 근로자들의 근로 제공 외 다른 요인의 영향력이 상당하기 때문에 그 성과를 근로자들에게 분배하는 성격으로 봐야 한다”며 특별 성과급을 평균임금으로 본 원심 판결을 파기환송했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘관공서 사칭 사기’ 알고보니...캄보디아 범죄단지서 한국인 소행이었다</title>
-      <link>https://www.chosun.com/national/incident/2026/01/29/D5F4H4XLBVGANJT2SM7ZL5VZ3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/29/D5F4H4XLBVGANJT2SM7ZL5VZ3Y/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 02:27:39 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3DSZDGME2TOMJVGU2GMMJXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강제송환 캄보디아 범죄단체 가담 한국 조직원들 부산 압송. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“국가정보자원관리원 화재 때문에 구청 감사가 갑자기 잡혀서 가스 감지기 대신 구매해 주실 수 있나요?” &lt;br&gt;&lt;br&gt;캄보디아 현지에 있는 중국 범죄 조직에 가입해 이 같은 수법으로 ‘노쇼 사기’를 벌인 한국인 일당이 구속됐다. 이들은 지난 23일 단체 송환된 보이스피싱 조직 중 하나다.&lt;br&gt;&lt;br&gt;부산경찰청 반부패경제범죄수사대는 전기통신사기피해환급법 위반과 범죄단체가입 등 혐의로 52명을 구속했다고 29일 밝혔다. 경찰은 이들을 30일까지 두 차례에 걸쳐 검찰에 송치할 계획이다.&lt;br&gt;&lt;br&gt;이들은 지난해 8~12월 공공기관 등을 사칭해 물품 대리구매 등을 요구하는 이른바 ‘노쇼 사기’로 피해자 210명으로부터 71억원을 뜯어낸 혐의를 받는다. 이들은 캄보디아 시아누크빌 지역 범죄 단지에서 범행을 저질렀다. 관공서와 공공기관, 군부대, 병원, 사기업 등 144개에 이르는 각종 기관을 사칭해 특정 거래처에서 물품을 대리 구매해 달라고 속여 대금을 가로챘다.&lt;br&gt;&lt;br&gt;우선 관공서 등과 수의계약을 찾은 업체들을 물색했다. 이후 과거에 맺었던 수의계약과 비슷한 내용으로 재계약을 하고 싶다고 피해자들의 환심을 샀다. 이어 가스 감지기나 소화포 등 물품이 급하게 필요하다며 특정 업체에서 대리 구매를 해주면 높은 가격에 사겠다고 속였다고 한다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “이들은 피해 업체들이 관공서와 원활한 거래 관계를 유지하려는 심리를 악용했다”면서 “성공과 실패 사례를 분석해 사기 시나리오를 수정하는 등 치밀하게 범행을 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FOACHWDX5GUBKG3AZKZUMY7SQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 노쇼 사기 중국 홍후이 그룹 조직도. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 이들이 속한 조직은 ‘홍후이 그룹’이라는 중국 노쇼 사기 범죄 조직으로, 중국인 총책과 관리책, 한국인 팀장과 팀원 등 직급 체계를 갖추고 있다. 피의자들은 대부분 20~30대 남성이며, 53명 중 23명은 다른 범죄로 지명 수배된 상태였다고 한다. 경찰은 피의자들이 자발적으로 사기 조직에 가담했고, 성과급(범죄 수익금 5~13%)을 받기 위해 적극적으로 범행에 가담했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청은 지난달 15일 부산경찰청 반부패경제범죄수사대를 집중 수사 관서로 지정했다. 부산경찰청은 192명 규모의 ‘캄보디아 범죄단체 전담 TF’를 꾸리고, 같은 달 21일 캄보디아 현지에 수사관 10명을 파견해 검거자 조사와 증거물 확보했다. 그 결과 154명의 피해자를 추가로 밝혀냈다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “지난 단속에서 검거되지 않은 한국인 여성 관리책 등 2명에 대해 인터폴 적색수배 조치 및 국제 공조수사를 진행하고, 범죄수익의 추적·환수도 철저히 하겠다”면서 “누구든지 대리 구매해 달라고 요청하는 것은 노쇼 사기의 전형적인 형태이니 구매 대리 요청에 절대 응하지 마시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LGPBKVZ43JCCHNZELQX4FTJYWY.jpg?auth=4a741a4b5e0c0527ea0d0a5c0adeb5594ba93001cf04f98db35631810912fba7&amp;smart=true&amp;width=591&amp;height=443" type="image/jpeg" height="443" width="591">
-        <media:description type="plain">강제송환 캄보디아 범죄단체 가담 한국 조직원들 부산 압송</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>남원시, 모노레일 소송 최종 패소…408억 배상 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/29/ZAYTNZJPANDF7HKEADL546PPPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/29/ZAYTNZJPANDF7HKEADL546PPPM/</guid>
-      <dc:creator>남원=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 02:17:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVSY6MVTPJA7DJJSHCKQHZUJGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;논란이 된 남원춘향테마파크 모노레일./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 남원시가 춘향테마파크 모노레일 사업과 관련해 대주단(금융사)과 벌인 400억원대 손해배상 소송에서 최종 패소했다. 대법원은 남원시가 맺은 실시협약이 유효하며, 협약 해지에 따른 손해배상 책임이 있다고 판단한 원심을 그대로 확정했다. 이번 판결로 남원시는 원금 408억원에 연 12% 이자까지 합쳐 막대한 배상금을 시민 혈세로 물어주게 됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 29일 남원 춘향테마파크 모노레일 사업 대주단이 남원시를 상대로 제기한 손해배상 청구 소송 상고심에서 남원시의 상고를 기각하고 원고 승소 판결한 원심을 확정했다. &lt;br&gt;&lt;br&gt;이번 사태는 지난 2022년 민선 8기 출범 이후 사업 방향을 두고 빚어진 갈등에서 비롯됐다. 춘향테마파크 모노레일 사업은 2020년 남원시가 민간 사업자인 ‘남원테마파크’와 개발 사업 협약을 맺으며 시작됐다. 업체가 405억원을 들여 시설을 짓고 기부채납하는 대신 20년간 운영권을 갖는 방식이었다.&lt;br&gt;&lt;br&gt;그러나 2022년 7월 최경식 시장이 취임하며 제동이 걸렸다. 최 시장은 “사업성이 불투명하다”며 협약서에 명시된 사용·수익 허가를 내주지 않았다. “모노레일 이용 수요가 부풀려졌다”며 사업을 재검토할 것을 지시했다. 내부 감사를 벌여 담당 공무원 5명을 징계했다. 남원테마파크 측은 “전임 시장의 역점 사업을 하루아침에 뒤집었다”고 반발했다. &lt;br&gt;&lt;br&gt;이 때문에 모노레일은 개통식도 열지 못하고 완공 2개월 뒤인 2022년 8월에야 임시 운행을 시작했다. 결국 모노레일은 개통 1년 6개월 만에 운행이 중단됐고, 남원테마파크에 사업비를 빌려준 대주단은 2023년 12월 남원시를 상대로 408억원 손해배상 청구 소송을 냈다. 원금 405억원에 이자 3억원을 더한 금액이다.&lt;br&gt;&lt;br&gt;1·2심 재판부는 줄곧 “실시 협약을 무효라고 볼 사유가 없다”며 대주단의 손을 들어줬다. 하지만 남원시는 지난해 9월 5일 “지방재정과 행정 운영 전반에 중대한 영향을 미치는 사안”이라며 “대법원의 종국적 판결을 통해 공공재산 관리의 정당성을 끝까지 지켜나갈 것”이라며 대법원에 상고를 했다. 법조계 안팎에서 “뒤집힐 가능성이 희박하다”는 의견이 많았지만 남원시는 고집을 꺾지 않았고, 소송이 길어지면서 하루 1000만원이 넘는 지연 이자가 쌓였다. &lt;br&gt;&lt;br&gt;열악한 남원시 재정에는 비상이 걸렸다. 올해 남원시 확정된 본예산 규모는 총 1조 583억원이다. 이번에 결정된 배상액은 남원시 1년치 가용 예산의 4%가량을 차지한다. 당장 올해 추진하려던 각종 지역 개발 사업과 복지 예산의 축소가 불가피해졌다. 지방채 발행이나 예비비 지출까지 검토해야 할 처지다.&lt;br&gt;&lt;br&gt;책임 공방도 거세질 전망이다. 최경식 남원시장은 그동안 “과거 부당한 계약을 맺은 게 잘못”이라고 주장해왔다. 반면 공무원노조와 시민단체는 “패소가 뻔한 소송을 끌어오며 이자 폭탄을 키운 건 현 집행부의 독선 행정”이라며 구상권 청구까지 거론하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 김경 4차 소환…구청장 공천 로비도 본격 수사</title>
