@@ -13,6 +13,65 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 2월 1일 일요일 (음력 12월 14일 丙午)</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/31/YPU54OXHVRHERC4FSSY2PV3VFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/31/YPU54OXHVRHERC4FSSY2PV3VFY/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Jan 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>경기 용인 42번 국도에서 7중 추돌사고… 1명 숨지고 3명 다쳐</title>
+      <link>https://www.chosun.com/national/incident/2026/01/31/TIM6WK2MK5GDDGRW2VE6OHO7WY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/31/TIM6WK2MK5GDDGRW2VE6OHO7WY/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Jan 2026 07:44:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYWKNJTGFRDAM3GMYYDSOLGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 경기 용인시 42번 국도 7중 추돌사고 현장. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시 42번 국도에서 7중 추돌사고가 발생해 1명이 숨지고 3명이 다쳤다. &lt;br&gt;&lt;br&gt;31일 경기도소방재난본부 등에 따르면 이날 오후 1시 38분쯤 경기 용인시 처인구 양지면 남곡리 42번 국도에서 오토바이와 차량 등 7대가 잇따라 부딪히는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 오토바이 운전자인 60대 남성 A씨가 심정지 상태로 인근 병원에 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;다른 차량에 타고 있던 40대 여성과 30대 여성, 70대 남성 등 3명도 다쳐 병원으로 옮겨졌다. 이들은 생명엔 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;사고는 양지 방면 도로에서 주행하던 25t 화물차가 신호 대기 중이던 A씨의 오토바이를 들이받으면서 발생했다. &lt;br&gt;&lt;br&gt;이후 사고 충격으로 앞서 있던 승합차와 승용차, 탱크로리, 경차, SUV 차량 등이 잇따라 추돌한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 화물차 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한동훈 지지자 6000여 명 “부당 징계 규탄, 장동혁 퇴진하라”… 여의도 집회</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/31/QAKZDONJCBCKXPH5NTAPFTNMOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/31/QAKZDONJCBCKXPH5NTAPFTNMOI/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Jan 2026 07:28:53 +0000</pubDate>
+      <content:encoded>국민의힘 지도부가 한동훈 전 대표에 대한 제명 징계를 확정한 것과 관련, 한 전 대표 지지자들이 집회를 열어 징계 철회를 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4WCNTGGYZTSMRWME4DAZDBGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘에서 제명된 한동훈 전 대표 지지자들이 31일 오후 서울 여의도공원 앞에서 열린 당 지도부 규탄 집회에서 '부당징계 규탄' 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 대표 지지자들은 31일 서울 여의도공원 주변에서 장외 집회를 열고 ‘진짜 보수 한동훈 수호’와 ‘부당 징계 장동혁 사퇴’ 등 구호를 외쳤다. &lt;br&gt;&lt;br&gt;한 전 대표는 이날 집회에 불참했다. 한 전 대표는 다음 달 8일 잠실 실내체육관에서 열리는 토크콘서트에서 당 안팎 현안 등에 관한 구체적인 메시지를 낼 전망이다.&lt;br&gt;&lt;br&gt;이날 집회에 참석한 김종혁 전 최고위원은 “제명이 확정된 날 국민의힘은 죽고 ‘윤 어게인 당’으로 복귀했다”며, “헌정 사상 유례가 없는 정치 학살을 자행한 장동혁 대표는 퇴진해야 한다”고 했다.&lt;br&gt;&lt;br&gt;집회 전 경찰에 참석 인원을 6000명 정도로 신고했던 주최 측은 “지난 집회보다 2∼3배 넓은 공간이 가득 찼다”며 수만 명을 넘는 인파가 모였을 것으로 추산했다.&lt;br&gt;&lt;br&gt;지난 29일 당적을 박탈당한 한 전 대표는 앞으로 5년간 재입당이 금지된다. 2028년 총선과 2030년 대선까지 국민의힘 간판을 달고 출마할 수 없게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다이소 매장서 ‘YOON AGAIN’ 만들고 인증...온라인서 갑론을박</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/31/LCX7WL7ZKZAATABCB3MXSGBE5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/31/LCX7WL7ZKZAATABCB3MXSGBE5Q/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Jan 2026 06:04:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQHU77LTUJD2VHKZWWGXWPCTHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다이소 매장에 진열된 'YOON AGAIN'(윤 어게인) 알파벳 풍선./디시인사이드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 지지자들이 다이소에 배치된 물품을 활용해 ‘YOON YAGAIN’(윤 어게인)이라는 문구를 만든 후 사진을 찍어 인증샷으로 온라인에 올려 논란이 일고 있다. &lt;br&gt;&lt;br&gt;30일 관련 업계에 따르면 최근 윤 전 대통령의 일부 지지자들이 다이소 매장에서 알파벳 풍선을 재배치해 ‘YOON AGAIN’ ‘YOON ONLY’ ‘CCP OUT’ 등의 문구를 만들어 사진을 찍은 후 인증샷을 온라인에 공유했다. CCP는 Chinese Communist Party(중국공산당)의 약자로, 반중 정서를 담은 문구다. &lt;br&gt;&lt;br&gt;이를 두고 국민의힘 일부 지지층은 “귀엽다” “기발하다” “애국이다” 등 반응을 보였다. 하지만 많은 네티즌이 “영업 방해 아니냐” “모두가 이용하는 공간에서 정치 표현을 하는 건 제재해야 한다”며 비판하는 의견을 냈다. &lt;br&gt;&lt;br&gt;이 같은 행위가 반복될 경우 업무방해 혐의가 적용될 수도 있다. 형법 314조에 따르면 업무를 방해한 경우 인정되면 5년 이하의 징역 또는 1500만원 이하의 벌금에 처할 수 있다. 앞서 지난해 9월 이재명 대통령도 국무회의에서 명동 반중 시위를 거론하며 “깽판 쳐 가지고 손님을 내쫓으면 (법적으로) 업무 방해 아니냐”며 특정 국가 관광객 모욕에 대해 경고한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HY5B7FHUNNDM7C4PDPZ634CGRY.jpg?auth=799f85b397492001dfc974e4289c79e42ef110aa3e2cd46687daf8f71fea2102&amp;smart=true&amp;width=898&amp;height=505" type="image/jpeg" height="505" width="898">
+        <media:description type="plain">다이소 매장에 진열된 'YOON AGAIN'(윤 어게인) 알파벳 풍선./디시인사이드</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>여수산단 공장서 작업하던 40대 근로자, 설비 끼어 의식불명</title>
+      <link>https://www.chosun.com/national/incident/2026/01/31/QNOIHJJXQBDZZPE6WYMN6ITE4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/31/QNOIHJJXQBDZZPE6WYMN6ITE4M/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Jan 2026 06:27:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTSYRUGVQWCOJTMNQTMYJSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수산단 내 공장에서 40대 근로자가 점검 중이던 설비에 끼어 크게 다쳤다.&lt;br&gt;&lt;br&gt;31일 소방 당국 등에 따르면 이날 오전 0시 39분쯤 전남 여수시 국가산단 내 한 공장에서 40대 근로자 A씨가 포장용 로봇 설비에 끼어 크게 다치는 사고를 당했다. &lt;br&gt;&lt;br&gt;A씨는 동료의 신고를 받고 출동한 119 구급차에 의해 인근 병원으로 옮겨졌으나, 의식을 찾지 못하는 상태인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 포장 설비가 작동하지 않아 혼자 내부로 들어가 점검하던 중 사고를 당한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 당진서 25t 덤프트럭 옆으로 넘어져… 운전자  중태</title>
+      <link>https://www.chosun.com/national/incident/2026/01/31/2V5EK2H7LVAIBANRMEJ4LFEEZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/31/2V5EK2H7LVAIBANRMEJ4LFEEZM/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Jan 2026 05:57:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMVA3KLG4NDMVB7NMZMNM6SBW4.png"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 10시 33분쯤 충남 당진시 송산면의 한 비탈길에서 옆으로 넘어진 25t 덤프트럭./ 충남 당진소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 당진에서 대형 덤프트럭이 옆으로 넘어져 40대 운전자가 크게 다쳤다. &lt;br&gt;&lt;br&gt;31일 충남 당진소방서 등에 따르면 이날 오전 10시 33분쯤 충남 당진시 송산면의 한 비탈길에서 흙을 싣고 가던 25t 덤프트럭이 넘어졌다. &lt;br&gt;&lt;br&gt;이 사고로 40대 운전자 A씨가 머리 등을 크게 다쳐 의식을 잃은 채 인근 병원으로 이송돼 치료를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 사고 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이관희 “재밌으려고 했는데 상처” ...홍진경에 결국 사과</title>
       <link>https://www.chosun.com/national/people/2026/01/31/EZ5I3UK2AZCMZJAIWTX4U2TC5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/31/EZ5I3UK2AZCMZJAIWTX4U2TC5Y/</guid>
@@ -842,15 +901,6 @@
       <content:encoded>검찰의 관봉권 띠지 분실 폐기 의혹을 수사하는 안권섭 상설특검이 30일 ‘건진법사’ 전성배씨를 수사했던 최재현 검사를 소환조사하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQTIYJXHAZDIZTBGFSWCOLEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관봉권·쿠팡 의혹 진상규명을 위한 안권섭 특검 현판./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 특검은 “오전 10시부터 최재현 전 남부지검 검사에 대해 피의자 신분으로 소환 조사가 진행되고 있다”고 밝혔다. 최 검사는 증거인멸교사, 직무유기 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;남부지검은 2024년 12월 전씨 집에서 한국은행 관봉권을 압수했는데, 보관 과정에서 5000만원 현금 다발에 둘러져 있던 띠지와 스티커를 분실해 ‘고의 분실’ 의혹이 제기됐다. 특검은 최 검사를 상대로 관봉권 띠지의 분실 경위 등을 캐묻고 있는 것으로 알려졌다. 특검은 지난 20일에는 최 검사가 현재 근무하고 있는 서울중앙지검을 압수 수색에 그의 휴대전화 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최 검사는 지난해 9월 열린 국회 청문회에서 ‘관봉권 띠지 등 분실이 고의적 증거 인멸 아니냐’는 질의에 “검찰에서 고의로 인멸하고 은폐했다는 취지로 (청문회가) 진행되고 있는데, 그건 사실이 아니다”라고 반박한 바 있다.&lt;br&gt;&lt;br&gt;대검찰청은 작년 10월 감찰을 통해 실무자 과실로 띠지 등이 분실됐으며 담당 검사 등 윗선의 지시에 따른 것은 아니라고 결론 내렸다. 그러나 법무부는 대검의 감찰 결과를 검토한 끝에 추가 조사가 필요하다고 보고 상설특검을 통해 다시 조사에 나서기로 했다. &lt;br&gt;&lt;br&gt;특검은 해당 의혹과 함께 쿠팡 퇴직금 수사 외압 의혹도 함께 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주서 초등생 납치 시도한 30대… 징역 2년</title>
-      <link>https://www.chosun.com/national/regional/2026/01/30/SLKH2C2CBFGS7LRBX3BAOXEWI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/30/SLKH2C2CBFGS7LRBX3BAOXEWI4/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Jan 2026 01:51:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7URD5QJONHGVDT2OFECGI2EDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 초등학생을 유인해 끌고 가려던 30대 남성에게 징역 2년이 선고됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 최근 제주지법 형사2부(재판장 임재남)는 미성년자약취유인 미수 등 혐의로 구속기소된 30대 남성 A씨에 대해 징역 2년을 선고했다. 또 3년간 신상정보 공개 고지와 7년간 아동·청소년 및 장애인 관련기관 취업제한, 5년간 보호관찰을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 9일 오후 2시 40분쯤 서귀포시 한 초등학교에서 170ｍ 떨어진 도로변에서 길을 걷던 초등학생 B양에게 구경거리를 보여준다며 “알바할래?” 등의 말로 유인해 차에 태우려 한 혐의를 받는다. 이때 B양이 거부하며 차량번호를 확인하려 하자 A씨는 곧바로 달아났다. B양은 직접 파출소를 찾아가 기억해 둔 차량번호를 알렸다. 경찰은 방범카메라(CCTV) 영상을 분석해 3시간여 만에 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 과거에도 13세 미만 미성년자를 추행해 처벌받은 전력이 있는 것으로 파악됐다. A씨는 재판 과정에서 공소 사실을 모두 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>밴스 美부통령도 우려한 손현보 목사... ‘선거법 위반’ 징역 6개월·집유 1년</title>
       <link>https://www.chosun.com/national/regional/2026/01/30/IVBCQYGREVAELKD23HOFTNBJBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/30/IVBCQYGREVAELKD23HOFTNBJBQ/</guid>
@@ -860,15 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZDSYRTME4DQNBXGUYTKYLDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손현보 부산 세계로교회 목사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 구속 기소된 손현보 부산 세계로 교회 목사가 징역형 집행유예를 받고 풀려났다. 경찰 수사 단계에서 구속영장이 발부된 이후 143일만이다. 손 목사는 지난해 초 윤석열 전 대통령 탄핵 반대 집회를 열었던 개신교계 단체 ‘세이브코리아’의 대표다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 30일 공직선거법 위반 등 혐의로 기소된 손 목사에게 징역 6개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;손 목사는 지난해 4월 부산시교육감 재선거를 앞두고 보수 진영 정승윤 후보와 교회에서 대담하는 영상을 찍어 유튜브와 SNS에 올린 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;정 후보의 선거 사무실에서 ‘승리 기원 예배’를 갖고 마이크를 사용해 “우리의 교육을 김석준 같은 사람이 맡으면 되겠습니까”라고 발언한 혐의도 있다.&lt;br&gt;&lt;br&gt;대선을 앞둔 지난해 5~6월 5차례에 걸쳐 세계로교회에서 열린 기도회와 예배에서 마이크를 이용해 당시 김문수 후보의 당선과 이재명 후보의 낙선을 도모한 혐의도 있다. 현행법은 종교단체 성직자가 직무상 지위를 이용해 선거운동을 하는 것을 금지하고 있다.&lt;br&gt;&lt;br&gt;손 목사 측은 “사실 관계는 인정한다”면서도 “혐의에 대해선 전부 부인한다. 손 목사의 발언은 선거운동과 무관하다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 이날 “피고인의 범행 경위와 방법, 죄질이 좋지 않다”며 “목사의 직무 영향력이 상당한데 조직적으로 부정 선거 운동을 한 것으로 보인다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “유튜브 송출 게시는 국민들의 의사 결정 판단에 영향을 끼쳐 선거 공정성을 해칠 위험성이 있다”며 “동종 범죄로 받은 형사 처벌 전력이 있고, 선관위 경고 뿐 아니라 압수수색을 받고도 이를 멈추지 않고 이행한 점, 벌금형을 초과한 전력은 없는 점 등을 감안했다”고 했다.&lt;br&gt;&lt;br&gt;이 사건으로 손 목사가 구속된 사안은 외교적으로도 관심사가 됐다. &lt;br&gt;&lt;br&gt;지난 23일 JD 밴스 미국 부통령이 백악관에서 김민석 국무총리를 만나 손 목사 구속에 대해 우려를 표하기도 했다. 이에 김 총리는 “한국은 미국에 비해 정치와 종교가 엄격히 분리돼 있는 상황에서 선거법 위반에 대한 조사가 있는 것임을 설명했다”고 했다.&lt;br&gt;&lt;br&gt;도널드 트럼프 미국 대통령도 작년 8월 한미 정상회담에서 순직 해병 특검팀의 김장환·이영훈 목사, 여의도순복음교회에 대한 압수수색을 언급하기도 했다. &lt;br&gt;&lt;br&gt;이에 대해 야당에선 “이재명 정부가 ‘종교 길들이기’를 하고 있다”며 “국제사회에서도 분명한 우려의 대상이 되고 있다”고 지적했다. 주진우 국민의힘 의원은 페이스북을 통해 “국제적 망신”이라면서 “김민석 총리는 밴스 지적에 적극 공감했지만 이재명 대통령은 개신교도 수사해야 한다는 앞뒤가 다른 메시지를 냈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“누군가 나 대신 뛸 수 있길” 럭비 국대 윤태일, 장기기증으로 4명 살려</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/30/KSYX3EXK4NGUXCXQMPINUBY3VM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/30/KSYX3EXK4NGUXCXQMPINUBY3VM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Jan 2026 01:33:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7BPM4PMTFF3HE5DDETW26IDOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아시안 게임 남자 럭비 동메달리스트 윤태일(왼쪽 두번째)씨./한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시안게임 남자 럭비 동메달리스트 윤태일(42)씨가 뇌사 장기 기증으로 4명에게 새 삶을 선물하고 세상을 떠났다. &lt;br&gt;&lt;br&gt;30일 한국장기조직기증원에 따르면, 윤씨는 지난 14일 부산대학교병원에서 뇌사 장기 기증으로 심장과 간, 양쪽 신장을 기증했다. 인체 조직도 함께 나눠 100여 명 환자의 기능적 장애 회복에 희망을 전했다. &lt;br&gt;&lt;br&gt;윤씨는 지난 8일 퇴근길에 불법 유턴 차량과 부딪쳐 심정지 상태가 됐다. 병원으로 이송돼 치료받았지만 끝내 의식을 찾지 못하고 뇌사 판정을 받았다. &lt;br&gt;&lt;br&gt;윤씨는 사고 나기 얼마 전 가족들과 미국 의학 드라마를 보면서 “삶의 마지막 순간에 다른 생명을 살릴 수 있다면 어디선가 살아 숨 쉴 수도 있고 남은 가족에게 위로가 돼 좋은 일 같다”는 말을 했다고 한다. 가족은 장기 기증을 하면 윤씨 몫만큼 누군가가 운동장을 달릴 수 있지 않겠느냐며 기증에 동의했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3FA7PFITRBJBPEBKAL7Z377EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아시안 게임 남자 럭비 동메달리스트 윤태일씨./한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤씨는 경북 영주시에서 2남 1녀 중 막내로 태어났다. 여섯 살 많은 형을 따라 중학생 때부터 럭비를 배우기 시작했다. 이후 연세대 럭비부에서 뛰던 그는 국가대표로 선발됐고 2010년 광저우, 2014년 인천 아시안게임에 출전해 2회 연속 동메달을 목에 걸었다. 이 공로로 2016년에 체육 발전 유공자 체육 포장을 받았다.&lt;br&gt;&lt;br&gt;유족에 따르면 윤씨는 삼성중공업 럭비단이 해체된 뒤 모회사에서 일을 시작했고, 회사 생활을 하면서도 재능 기부로 한국해양대학교 럭비부 코치로 10년 넘게 활동했다. 연차 휴가를 모아 합숙 훈련을 가고, 일본 럭비를 공부하고자 일본어를 1년 넘게 공부할 만큼 럭비에 진심이었다고 한다. &lt;br&gt;&lt;br&gt;윤씨의 아내 김미진씨는 “여보, 마지막 모습까지 멋있고 대단한 사람이었어. 가족으로 함께한 모든 순간이 고마워. 우리가 사랑으로 키운 지수 잘 돌볼 테니 걱정하지 말고 하늘에서 편히 잘 지내 사랑해”라고 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 검경 합수본, 신천지 총회·평화연수원 등 압수 수색</title>
       <link>https://www.chosun.com/national/court_law/2026/01/30/DKRZ3JVABREJ3FVDDRVDZZBQJU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/30/DKRZ3JVABREJ3FVDDRVDZZBQJU/</guid>
@@ -876,28 +917,6 @@
       <description/>
       <pubDate>Thu, 29 Jan 2026 23:36:43 +0000</pubDate>
       <content:encoded>정교유착 비리 검경 합동수사본부(본부장 김태훈 대전고검장)가 30일 신천지에 대한 압수 수색에 나섰다. 신천지에 대한 강제 수사는 지난 6일 합수본이 출범한 뒤 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4REVIGT6NN6AFA5WVWNUKNZKOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 가평군 청평면 신천지 평화연수원. 평소 이만희 총회장이 별장으로 사용하는 장소다./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 합수본은 이날 오전부터 경기 과천시에 있는 신천지 총회본부, 경기 가평군 고성리 소재 평화연수원(평화의 궁전) 등에 대한 압수 수색을 진행하고 있다. 평화연수원은 이만희 총회장이 거주하는 곳으로 알려진 곳이다. 이날 압수 수색 대상에는 국민의힘 집단 당원 가입 의혹을 주도한 고모 전 총무 등 관계자들도 포함된 것으로 전해졌다. 압수 수색 영장에는 이 총회장과 고 전 총무, 민모씨 등이 정당법 위반, 업무 방해 등 혐의 피의자로 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신천지는 21대 총선과 20대 대선 등 선거에서 국민의힘에 집단으로 입당해 정치적 영향력을 행사했다는 의혹을 받는다. 합수본은 이 같은 집단 입당이 이 회장의 지시로 이뤄졌다고 보고 최근 신천지 관계자들을 연이어 소환해 사실관계 파악에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>톰 행크스의 “no crying”… 울지 말라는 위로가 아니다</title>
-      <link>https://www.chosun.com/national/education/2026/01/30/NWXJGSF4KZHCVOOM7KJS3FWDCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/30/NWXJGSF4KZHCVOOM7KJS3FWDCE/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 20:56:08 +0000</pubDate>
-      <content:encoded>“야구 선수는 울면 안 돼!”&lt;br&gt;&lt;br&gt; 1992년 개봉된 영화 ‘그들만의 리그(A League of Their Own)’에 나오는 대사입니다.&lt;br&gt;&lt;br&gt;2차 세계대전 중 만들어진 여성 야구 리그 경기에서 감독 지미 두건(배우 톰 행크스)이 실수를 한 선수 에블린(배우 비티 슈람)을 호되게 꾸짖습니다. 그러자 원래 울보인 에블린은 끝내 울음을 터뜨렸고, 감독은 그녀를 향해 야단 겸 격려로 소리지릅니다. “야구에선 울면 안 돼” “야구엔 울음 같은 거 없어” “야구에선 울어봐야 소용 없어”라는 뜻이지요. 이후 이 문구는 미국 대중문화에 스며들어 지금도 “프로답게 행동하라”는 뜻으로 자주 인용되고 있습니다.&lt;br&gt;&lt;br&gt; ‘~는 없다/안 된다’는 뜻에서 출발해 ‘~해도 소용없다’는 의미로 확장되면서 형태도 다양해졌습니다. 예문을 통해 그 활용법을 익혀보시길 바랍니다.&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;There’s no talking&lt;/mark&gt; during the exam.”(시험 볼 때 대화는 금지다.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;There’s no smoking&lt;/mark&gt; in this building”(이 건물에선 담배를 피우면 안 된다.)&lt;br&gt;&lt;br&gt;의미 없다, 쓸데없다는 표현은 모두 현실을 직시하게 하는 조언이지만 적용하는 상황이 다릅니다. 예문으로 뉘앙스의 차이를 느껴보세요.&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;There’s no use&lt;/mark&gt; crying over spilled milk.” (엎질러진 물인데 울어봐야 &lt;mark class="hl_yellow"&gt;소용없다&lt;/mark&gt;.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;It’s useless&lt;/mark&gt; worrying about the test now.” (이제 와서 시험 &lt;mark class="hl_yellow"&gt;걱정해봤자&lt;/mark&gt; 속만 상해.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;There’s no use&lt;/mark&gt; regretting what you did.” (네가 한 짓을 후회해 봤자 &lt;mark class="hl_yellow"&gt;소용없다&lt;/mark&gt;.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;There’s no good&lt;/mark&gt; trying to change her mind.” (그녀 마음을 바꾸려 하는 건 &lt;mark class="hl_yellow"&gt;헛짓거리다&lt;/mark&gt;.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;There’s no point in&lt;/mark&gt; arguing with him. He never listens.” (그와 말싸움을 해봐야 &lt;mark class="hl_yellow"&gt;의미없다&lt;/mark&gt;. 그는 듣지 않아.)&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;“There’s no point in&lt;/mark&gt; rushing the decision.”(결정을 서두를 &lt;mark class="hl_yellow"&gt;이유가 없다&lt;/mark&gt;.)&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;There’s no sense in&lt;/mark&gt; investing more money right now.(지금 추가로 투자할 &lt;mark class="hl_yellow"&gt;합리성/근거가 없다&lt;/mark&gt;.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;There’s no sense in&lt;/mark&gt; waiting here.” (여기서 기다릴 하등의 &lt;mark class="hl_yellow"&gt;이유가 없다&lt;/mark&gt;.)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z52BEJERHZDZJGCKFZZH57SBGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 오어진·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7U5MHSCS3RAB7IR74J4SXOZBUU.jpg?auth=109510d3b9db49b0d2e8851f76a424f949f716e71646e1d0d59375d64dfe9ba5&amp;smart=true&amp;width=2048&amp;height=1424" type="image/jpeg" height="1424" width="2048">
-        <media:description type="plain">배우 톰 행크스가 소리치고 있다. (배급사: 콜럼비아트라이스타, 1992)</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>알바 계좌로 900만원 넣고선 “실수”… 김경 “이 계좌로 보내달라” 뇌물세탁</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/30/ATQB7GB7XNCULDWXRBW37BTZ74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/30/ATQB7GB7XNCULDWXRBW37BTZ74/</guid>
-      <dc:creator>김수경 기자, 강지은 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 15:46:00 +0000</pubDate>
-      <content:encoded>김경(61) 전 서울시의원이 차명으로 더불어민주당 현역 국회의원들에게 고액을 후원한 정황을 경찰이 포착하고 수사 중인 것으로 29일 알려졌다. 경찰은 김씨가 2023년 10월 서울 강서구청장 보궐선거를 앞두고 구청장 공천을 받기 위해 의원들에게 금품 로비를 시도했을 가능성을 의심하는 것이다. 이와 관련해 경찰은 김씨가 국회의원의 보좌관이나 구·시의원 개인 계좌 등을 거쳐 의원들에게 후원금을 보냈는지 자금 흐름을 추적 중인 것으로 전해졌다. 김씨가 이른바 ‘계좌 세탁 후원’을 했을 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MF3JOFANNFYRGLYQXDRGHHEEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 서울 마포구 서울경찰청 공공범죄수사대에 도착한 김경 전 서울시의원이 차에서 내리고 있는 모습. 지난 11일, 15일에 이어 이날 세 번째 소환된 김 전 시의원은 17시간 동안 조사받았다. 경찰은 29일에도 김 전 시의원을 소환 조사했다. 경찰은 최근 김 전 시의원이 더불어민주당 국회의원들에게 쪼개기 방식으로 고액을 후원한 정황을 포착한 것으로 알려졌다.
-/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울지방경찰청 공공범죄수사대는 이날 김씨를 소환해 금품 로비 여부를 조사했다. 네 번째 소환이다. 경찰은 김씨가 민주당 인사들과 강서구청장 공천을 받기 위해 로비를 하는 방안을 논의하는 대화 녹음 파일을 입수해 조사하다가, 김씨가 민주당 의원들을 후원할 때 남동생과 어머니가 대표로 있는 가족 회사에서 일하는 계약직과 아르바이트생 계좌를 이용한 정황을 포착한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김씨는 이들에게 ‘급여’ ‘수고비’ 명목으로 500만~900만원을 송금했다가, “실수로 0을 하나 더 붙여 송금했다. 잘못 보낸 돈은 다른 계좌로 송금해달라”고 요청했다고 한다. 그런데 김씨가 다시 송금해달라고 요구한 계좌 가운데 민주당 국회의원 보좌관이나 구·시의원 개인 계좌가 다수 포함된 것으로 전해졌다. ‘김경→가족 회사 관계자→민주당 의원 보좌관이나 구·시의원’으로 돈이 흘러갔다는 것이다. &lt;br&gt;&lt;br&gt;김씨가 이런 식으로 돈을 보낸 민주당 보좌관 등이 소속된 현역 의원실은 4곳 이상인 것으로 알려졌다. 경찰은 김씨 돈을 송금받은 의원 보좌관이나 구·시의원들이 돈을 의원에게 전달했을 가능성을 규명하려는 것으로 알려졌다. 정치자금법상 타인 명의로 정치자금을 기부하거나 공식 후원 계좌가 아닌 다른 계좌로 후원하는 건 불법이다.&lt;br&gt;&lt;br&gt;김씨는 가족 회사 관계자들에게 주로 900만원대 이하를 송금하고 이를 다른 계좌로 돌려 받은 것으로 알려졌다. 1000만원 이상 현금을 계좌 이체 등을 통해 거래하면 금융 당국에 즉시 보고되는데 이를 피하려 한 것 아니냐는 의구심을 낳는다. 정치권 관계자는 “구·시의원은 해당 지역구 국회의원과 밀접한 관계라 김씨가 돈을 세탁해 의원들에게 금품 로비를 벌인 것 아닌지 의심스럽다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 김씨가 가족, 지인 명의로 의원들에게 공식 후원금을 보내는 이른바 ‘쪼개기 후원’ 의혹도 수사 중이다. 경찰은 김씨가 2022~2023년 강선우(서울 강서갑) 의원에게 가족·지인 명의로 두 차례에 걸쳐 후원금 1억3000만원을 입금한 정황을 포착해 조사 중이다.&lt;br&gt;&lt;br&gt;본지가 입수한 강 의원 후원 계좌 목록을 보면, 2022년 10월 17명이 강 의원에게 300만~500만원을 내는 등 총 8200만원을 강 의원 후원 계좌에 입금했는데, 상당수가 김씨 지인이나 가족으로 추정되는 인물이었다. 강 의원실은 그해 11~12월 순차적으로 후원금을 반환한 것으로 나타났다. 2023년 12월 8~12일에도 강 의원 후원 계좌에 5000만원이 입금되자 강 의원은 김씨가 또 ‘쪼개기 후원’을 한 것이라 판단해 전액 반환한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이런 가운데 최근 민주당을 탈당한 김병기(서울 동작갑) 의원 사건과 관련해 경찰은 이날 서울 송파구 쿠팡 본사와 서초구 쿠팡 사회공헌위원회를 압수수색했다. 김 의원이 국회 국정감사를 앞둔 지난해 9월 박대준 전 한국 쿠팡 대표와 식사하며 쿠팡에 취업한 자기 전직 보좌진에 대한 인사상 불이익을 요구한 혐의를 규명하기 위해서다. 당시 김 의원은 집권 민주당의 원내대표였다. 김 의원이 자기와 불화를 빚고 의원실을 떠난 보좌진들에 대해 직위를 이용해 사적 보복에 나선 것 아닌지 수사하는 것이다. 경찰은 최근 2020년 총선 때 전직 동작구의원 2명에게서 불법 선거 자금을 받은 혐의 등으로 김 의원 자택을 압수수색하면서 김 의원이 쓰던 휴대전화 등을 확보해 포렌식 작업을 시도 중인 것으로 알려졌다. 정치권에선 “지난 총선 때 민주당 후보 검증위원장을 맡았던 김 의원 휴대전화에 뭐가 저장돼 있을지 모르는 상황이라 여권 인사들이 긴장하는 분위기”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“IMF·육아로 10년 공백...AI 강사로 부활” 40대 경단녀의 재취업 성공기</title>
@@ -925,24 +944,6 @@
       <description/>
       <pubDate>Thu, 29 Jan 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 29일 차장·부장검사 569명과 평검사 358명 등 총 927명에 대한 전보 인사를 발표했다. 시행일은 다음 달 4일과 9일이다.&lt;br&gt;&lt;br&gt;이재명 정부 출범 8개월 만에 두 번째로 단행된 이번 인사에서는 전국 최대 검찰청인 서울중앙지검의 1·2·3·4차장이 6개월도 안 돼 모두 교체됐다. 최재아 1차장, 박준영 3차장, 이준호 4차장은 각각 안양지청장, 인천지검 1차장, 고양지청장으로 발령 났다. 중앙지검 차장검사는 검사장 승진 1순위 보직으로 꼽히는데, 최근 장혜영 전 2차장(현 대검찰청 과학수사부장)만 검사장으로 승진하고 나머지 3명은 승진에 실패했다. 이들 중 일부는 작년 11월 정진우 전 중앙지검장이 ‘대장동 항소 포기’ 사태로 물러나고 부임한 박철우 현 중앙지검장과 사건 처리나 정부의 검찰 개혁 법안 등과 관련해 갈등이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신임 중앙지검 1차장에는 안동건 대검찰청 반부패1과장, 2차장에는 김태헌 법무부 검찰개혁지원TF단장, 3차장에는 김태훈 법무부 대변인, 4차장에는 이승형 대구지검 2차장이 각각 임명됐다. 특별 수사 경험이 많은 안동건 신임 1차장은 박철우 지검장과 대검 반부패부에서 함께 근무한 인연이 있다. 기획·공안 업무를 주로 했던 김태헌 2차장과 김태훈 3차장은 작년 7월 정성호 법무장관 취임 후 법무부에서 장관 참모로 일했다. 이승형 4차장은 기업·금융 수사를 주로 맡아 왔다.&lt;br&gt;&lt;br&gt;앞서 지난 22일 검사장 인사에 이어 이번 인사에서도 검찰의 대장동 항소 포기 사태 당시 반발했던 일부 검사가 좌천됐다. 임일수·김윤선·손찬오·조민우·윤원기 지청장 등이 고검 검사 등으로 전보됐다. 반면 조은석 내란 특검에 파견됐던 장준호 대검 인권정책관과 국원 국가재정범죄합동수사단장은 요직으로 꼽히는 성남지청장과 중앙지검 반부패수사1부장으로 각각 발령났다. 법무부는 이번 인사에 대해 “오는 10월 공소청 전환을 앞두고 국민을 위한 검찰 개혁을 충실히 준비하기 위해 검찰 조직을 새롭게 정비했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “정기적 성과급은 임금… 삼성전자, 퇴직금에 반영해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/30/V4QSSS6PDZFM3CP3Q4VACG3F7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/30/V4QSSS6PDZFM3CP3Q4VACG3F7A/</guid>
-      <dc:creator>오유진 기자, 박순찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRWMMDDMYYDQNRZGA2GGNLGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서초대로 삼성전자 서초사옥 ./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자가 부서별 목표 달성도에 따라 지급했던 정기적인 성과급은 통상 임금으로 볼 수 있어 퇴직금에 반영돼야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 29일 삼성전자 퇴직자 15명이 회사를 상대로 낸 퇴직금 청구 소송 상고심에서 회사 측 승소로 판결한 원심을 파기하고 사건을 수원고법으로 돌려보냈다. 2019년 소송이 시작된 지 7년 만에 나온 결론이다.&lt;br&gt;&lt;br&gt;대법원은 이 사건에서 직원들의 성과급을 크게 두 가지로 구분했다. 부서별로 일정한 목표를 달성하는지에 따라 반기별로 연 2회 지급하는 ‘목표 인센티브’와 회사의 경영 성과에 따라 이익 배분 차원에서 연 1회 지급하는 ‘성과 인센티브’로 나눴다. 먼저 목표 인센티브에 대해 대법원은 “지급 규모가 사전에 어느 정도 확정된 고정적 금원이고, 전략 과제나 매출 실적 등 성과가 근로 제공과 밀접하게 관련된다”며 “(목표 인센티브는) 은혜적으로 지급된 일시적 금품이 아니라 제도화된 임금 체계 내에서 지급되는 변동급임을 보여준다”고 했다. 근로의 대가로 인정돼 통상 임금에 해당된다고 판단한 것이다.&lt;br&gt;&lt;br&gt;반면 대법원은 ‘성과 인센티브’의 경우 “근로 제공과 밀접한 관련성이 없고, 시장 상황과 경영 판단 등 근로자들이 통제하기도 어려운 다른 요인들이 더 큰 영향을 미친다고 볼 수 있다”며 통상 임금으로 볼 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;이날 판결에 대해 삼성전자는 별도 입장을 내놓지 않았다. 다만 재계에선 이번 판결로 퇴직금 등 인건비 부담이 크게 늘어날 것을 우려하고 있다. 그간 삼성을 비롯해 많은 대기업이 성과 중심의 보상 강화를 위해 각종 인센티브를 확대하는 움직임을 보여왔기 때문이다. 재계 한 관계자는 “성과 인센티브는 퇴직금에 연동되지 않는다고 법원이 확실하게 선을 그어준 것은 다행이지만, 전반적으로 인건비 부담이 갑자기 커진 만큼 기업들이 성과급 체계 재편을 놓고 고심할 수밖에 없을 것”이라고 했다. 현재 SK하이닉스와 삼성디스플레이, 현대해상화재보험 등의 성과급 관련 사건이 대법원에 계류 중이다.&lt;br&gt;&lt;br&gt;한 대기업 관계자는 “이번 판결을 보면 취업 규칙에 지급 기준이 미리 정해져 있다는 점이 하나의 근거가 됐는데, 회사마다 상황이 제각각이기 때문에 성과급과 퇴직금 체계를 바꾸려는 노사 간 줄다리기가 올해 큰 화두가 될 것”이라고 했다. 한국경영자총협회 김동희 근로기준정책팀장은 “이번 판결이 목표 인센티브도 전략 과제 이행 정도, 재무 성과 달성도, 매출 등 성과 인센티브처럼 근로자가 통제할 수 없는 외부 요인에 의해 좌우된다는 점을 간과한 점은 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;이날 판결 직후 한국노총은 논평을 내고 “그동안 기업의 ‘재량’이란 이름으로 배제됐던 노동자의 권리를 일부 회복시킨 결정”이라면서도 “성과 인센티브를 임금으로 인정하지 않은 한계는 여전히 남아 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 동부화물터미널, 49층 주상복합 아파트로</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/30/GIM3Q4H4SBGSHJWNWQ44X6S3VA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/30/GIM3Q4H4SBGSHJWNWQ44X6S3VA/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R43C2ZEPAVFZBMZCBGHGMNVXWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문구 동부화물터미널 재개발 조감도, /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20여 년간 개발이 멈춰 있었던 서울 동대문구 장안동 동부화물터미널 자리에 최고 49층 높이의 주상복합 아파트가 들어서게 됐다. 기존 물류 시설은 지하로 옮기고, 지상엔 아파트와 도서관, 체육 시설, 입체 공원 등을 세울 계획이다.&lt;br&gt;&lt;br&gt;서울시는 도시계획위원회를 열고 이 같은 내용이 담긴 ‘동부화물터미널 지구단위계획 변경안’을 통과시켰다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;1979년 조성된 동부화물터미널은 대형 화물차 전용 터미널로, 한때 서울 동북권의 물류 거점으로 활용됐다. 그러나 대규모 물류 창고 등 기반 시설이 서울 밖으로 빠져나가면서 터미널도 2000년대 중반 이후 사실상 방치돼 있었다. 인근 주민들은 “주거지 한복판에 있으니 빨리 개발을 해야 한다”고 주장해 왔으나, 물류 전용 부지로 묶여 20여 년간 개발이 지지부진했다.&lt;br&gt;&lt;br&gt;이번 지구단위계획 변경안은 개발 밀도를 낮춘 것이 특징이다. 2022년 마련한 계획안에선 건물 높이를 최고 39층으로 정했으나, 이번에 최고 49층으로 올렸다. 대신 건물 사이 간격을 기존 17m에서 25m로 넓혀 저층 아파트 주민들의 일조권을 보장했다. 임대주택 76가구를 포함해 총 620가구 규모가 들어설 계획이다.&lt;br&gt;&lt;br&gt;주상복합 외에 짓기로 했던 9~16층짜리 사무용 건물 5동은 짓지 않기로 했다. 그 자리에 7140㎡ 크기의 대규모 입체 녹지를 조성하고, 내부에는 도서관과 체육관 등 문화 시설을 넣어 지역 주민에게 개방한다. 중랑천과 인접한 곳엔 러너와 자전거 이용자들을 위한 일명 ‘펀스테이션’이 생긴다. 그룹 운동 시설과 샤워실 등이 마련된 공간이다. 민간 개발 사업에 ‘펀스테이션’ 조성 계획이 들어간 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;서울시는 오는 3월 중 지구단위계획을 결정 고시할 계획이다. 2027년 착공, 2031년 준공이 목표다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
