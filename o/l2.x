@@ -6,6 +6,17 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>취재, 後 : 교도관이 일할 만한 교도소였으면 - 민원·소송에 시달리는 교도관 
+열악한 근무 환경 개선 시급</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/256/215497.jpg" alt="2023_reporter_bin" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;교도소는 ‘살’ 만한 곳이지만, 그곳을 지키는 이들에게는 ‘할’ 만한 일이 아니었다. 크고 작은 사고를 수습하며 하루 평균 2만 보를 걷고, 8일에 하루를 쉬면서 교정·교화의 책임을 다해야만 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;제복을 갖춰 입고 ‘하루짜리 8급 교사’가 돼 1월 29일 화성직업훈련교도소를 방문했다. 이곳은 수용자들 사이에서 ‘서울대급’으로 통한다. 직업훈련 신청자 중 수용 생활이 모범적인 이들만 엄선해 들어올 수 있는 상급 시설이기 때문이다. 그러나 전체 수용자 1800여 명 중 직업훈련을 받는 인원은 659명뿐이다. 나머지는 미결수와 기결수들로, 교도소 과밀화 탓에 일반 수용자도 받고 있어서다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전체 직원은 350명, 수용자는 1800여명이다. 야간 4부제 근무 체계에서 각 부마다 27명이 투입돼 수용자 전원을 관리하고 있다. 출정에 동행하고 수용자 수사와 조사 등의 업무로 인력이 빠져나가면 교도관 1인이 감당할 수용자 숫자는 더 늘어난다. 주야비휴 주야비윤이라는 반쪽짜리 4교대 근무를 이어갈 수밖에 없는 환경이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;26개 훈련 공과에는 1명의 보안과 직원이 배치돼야 하지만, 인원이 부족해 2개 공과를 1명이 담당하기도 한다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;타일과 건축과는 1명이 두 곳을 지키고 있다. 타일 작업에 쓰이는 공구들이 있고, 몇 년에 한 번씩 사고가 발생해 일과 종료까지 긴장감을 놓을 수 없다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;훈련 종료 후 매번 하는 정밀 신체검사는 ‘사투’다. 사동으로 위험 물품이 유입되는 걸 막기 위해 659명의 머리카락 속부터 손가락, 발가락 사이까지 샅샅이 살핀다. 하지만 이 인원을 감당해야 하는 교도관은 고작 5~6명이다. 수용자는 가만히 서 있고, 교도관이 100번 넘게 앉았다 일어서기를 반복한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;수용자들의 악의적인 민원과 소송은 교도관들의 정신을 갉아먹고 있다. 수용자들은 자신의 요구가 관철되지 않으면 국가인권위원회, 국민신문고 등에 같은 내용으로 반복해서 민원을 넣는다. 대부분 ‘나는 억울하다. 가석방이 안 되면 책임질 거냐’라는 내용이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한 수용자는 펜을 날카롭게 개조한 것이 적발돼 징벌 위기에 처하자 본인의 것이 아니라고 우겼다. 결국 징벌 유예 처분을 받았음에도 ‘이 기록 때문에 가석방이 안 되면 책임질 것이냐’라며 인권위와 신문고 등을 통해 같은 내용의 민원을 14차례나 넣었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;수용자 가족까지 동원되면 상황은 더 나빠진다. 가족들은 전화로 교도관에게 욕설을 퍼붓기도 하지만, 교도관은 듣고 있을 수밖에 없다. 수용자의 가족은 외부인이기 때문에 규정상 끊거나 제지하기가 어렵다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;수용자가 교도관을 상대로 소송도 제기한다. 2025년 화성직업훈련교도소의 행정심판은 35건, 소송은 4건이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;모두 교도관이 승소했다. 수용자들은 질 걸 알면서도 소송을 제기한다. 교도관을 괴롭히고 싶다는 이유에서다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;수용 인원 6만5000명, 평균 수용률 130%. 교정 공무원은 1만7000명이다. 범죄자가 상전이 된 역설의 풍경 속 낭비되는 행정력과 교도관의 피로는 누구도 보상하지 않는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;교정 행정은 바뀌어야 한다. 교도소는 수용자가 살 만한 곳이기 이전에, 교도관이 일할 만한 곳이 돼야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;우빈 기자&amp;nbsp; &amp;nbsp;wb0604@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 01 Feb 2026 20:08:59 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/215497</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/215497</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/215497.jpg</media:thumbnail>
+			<dc:creator>우빈</dc:creator>
+		</item>
+		<item>
 			<title>법신논단 : 행간이 사라진 시대 - 석달 동안 읽은 책이  
 2시간짜리 영화 되고  
 이젠 15분 영상으로 
@@ -157,16 +168,6 @@ AI가 끝까지 대체 못할 것</title>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/215321</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/215321.jpg</media:thumbnail>
 			<dc:creator>김소리</dc:creator>
-		</item>
-		<item>
-			<title>최호식의 가족법 이야기 : (12) 이혼이냐, 졸혼이냐</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/256/215320.jpg" alt="1000000055.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;인생 100세 시대, 30대에 결혼한 부부도 70년 가까이 결혼생활을 하게 된다. 그러니 인생 후반부에 이르러 부부가 ‘결혼생활을 계속 유지할 것인가’를 고민하는 것이 이해가 된다. 특히 서로 맞지 않음에도 견뎌왔다고 생각하거나 갈등이 잦았던 부부는 고민이 깊다. 이대로 살 것인가? 이혼을 할 것인가? 아니면 졸혼을 할 것인가?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;자녀를 다 키운 후 이제 좀 자유롭게 돌아다니고 싶은데 남편이 “어디 가냐”, “왜 나가냐” 간섭과 잔소리를 할 때, 퇴직한 남편이 끼니때마다 밥을 달라고 할 때, 이제는 은퇴하고 아내와 함께 시간을 보내고 싶은데, 아내의 스케줄에 남편을 위한 시간이 없을 때, 퇴직 후 전원에서 생활하고 싶은데 아내가 혼자 가라고 할 때, 정년퇴직으로 돈 버는 일은 다 했다고 생각했는데 계속 돈 벌어오라고 재촉하는 아내를 마주할 때 등 사소하다면 사소하고, 무겁다면 무거운 사유로 부부는 결혼생활에 마침표를 찍거나 쉼표를 찍고 싶어 한다. 또는 아이들이 대학에 들어갈 때까지만, 아이들을 결혼시킬 때까지만, 은퇴할 때까지만 하면서 참고 또 참았던 부부들도 결혼생활을 마무리하는 것, 그 방식에 대하여 깊은 고민을 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 160px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/256/215320.jpg" alt="1.jpg" style="text-align: center; width: 160px; height: 226px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;스기야마 유미코가 쓴 책 《졸혼을 권함》.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이혼은 많이 알려져 있으나 오늘은 아직까지는 약간 낯설게 느껴지는, 졸혼에 대해서 얘기를 해볼까 한다. 졸혼은 ‘결혼생활을 졸업한다’는 뜻으로 일본의 작가 스기야마 유미코가 &lt;b&gt;《졸혼을 권함》&lt;/b&gt;이라는 책에서 사용한 이후 우리나라에서도 심심치 않게 사용되고 있다. 사전적 의미는 ‘이혼하지 않은 부부가 서로 간섭하지 않고 독립적으로 살아가는 것’이다. 실제 여러 가지 이유로 이혼이 부담스러운 경우에 법적인 혼인관계는 유지하지만(따라서 상속권도 있고, 부부간 부양의무도 있다) 합의 하에 별거하면서 서로 사생활을 간섭하지 않고 독립적으로 살아가는 방식을 졸혼이라고 부르는 것 같다. 졸혼은 이혼으로 생기는 주변의 불필요한 참견이나 동정을 피하고, 자녀의 결혼식 등에서 부모의 모습을 유지함으로써 자녀의 심리적 부담을 덜고 사회적 체면을 유지하되, 일상에서 부부가 서로 간섭받지 않고 자유로운 삶을 유지하기 위해 선택하는 것 같다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이렇게 개념적으로 정리하면 졸혼이 부담은 덜고, 자유로움은 더한 멋진 선택지로 보이지만 유념해야 할 것들이 많다. 일단 졸혼을 위해서는 서로가 졸혼에 대한 이해와 합의를 해야 한다. 그동안의 갈등에 졸혼으로 생긴 분쟁까지 더하지 않으려면 부부관계에서 발생하는 여러 의무(동거의무, 부양의무, 정조의무, 협조의무) 중 어떤 의무를 면제할 것인지에 관하여 그 범위를 명확히 정해 둘 필요가 있다. 또 주거의 지정, 생활비의 부담, 재산관리나 처분, 이성과의 만남(명확한 합의가 없으면 부정행위가 문제될 수 있다) 등에 관하여도 구체적으로 합의할 필요가 있다. 졸혼이라는 대전제에 대한 합의를 하더라도 구체적인 부분에 이르러 합의가 결렬될 수 있다. 졸혼은 법적으로 인정되는 개념이 아니므로 분쟁을 피하기 위해서는 이혼으로 인한 재산분할 못지않은 세심한 검토가 필요하고, 전문가와의 상담이 필요할 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부부 사이의 갈등이 깊어지거나 이제는 자신을 위한 삶을 살아야겠다는 생각이 들 때 이를 해결하는 방법으로 이혼을 할지, 졸혼을 할지는 당사자의 선택의 몫이다. 어느 쪽이든 부부가 합의로 선택할 수 있지만 의견의 일치가 되지 않을 경우에는 결국 이혼소송으로 이어지고, 졸혼이 이혼으로 이어지는 경우도 많다. 특히 다른 이성을 만나고 싶다거나 재혼을 생각하는 경우에는 이혼을 하는 것이 좋다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;졸혼이나 이혼, 어떤 선택을 하든 그것은 자신의 남은 삶의 질에 기준을 두고 선택해야 한다. 결혼생활의 마침표이든, 쉼표이든 그것은 결국 당신이 더 나은 삶으로 나아가기 위한 선택이기 때문이다.&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;b&gt;최호식 대표변호사(법무법인 우승)·전 서울가정법원장&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 27 Jan 2026 20:08:46 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/215320</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/215320</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/215320.jpg</media:thumbnail>
-			<dc:creator>최호식</dc:creator>
 		</item>
 	</channel>
 </rss>
