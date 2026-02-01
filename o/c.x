@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울에 3~10㎝ 눈 예보…서울시, 비상 근무 2단계 돌입</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/01/3YDT2I4YZZBSXBTRTJDGMM5SM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/01/3YDT2I4YZZBSXBTRTJDGMM5SM4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Feb 2026 05:32:43 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6G3T2XYKF5ED3OJT7BUP7S7W4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 12일 서울 종로구 광화문 일대에 눈이 내리고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 1일 오후 5시부터 강설 대응 2단계를 발령하고 비상 근무에 돌입한다고 밝혔다. 이날 오전 기상청이 서울 전역에 대설 예비 특보를 발표한 데 따른 조치다. 기상청은 이날 오후 9시부터 다음날 오전 6시까지 서울에 3~10㎝ 눈이 내릴 것으로 보고 있다.&lt;br&gt;&lt;br&gt;서울시는 이번 조치에 따라 눈에 대비하기 위한 선제 대응에 나설 방침이다. 우선 인력 8299명과 장비 2841대를 투입해 제설제를 사전 살포한다. 서해안 지역 5곳에 설치된 강설 예측 카메라를 활용해 눈구름의 이동에 맞춰 제설제를 뿌린다.&lt;br&gt;&lt;br&gt;서울시청 지하 3층에 마련된 제설 종합 대책 상황실에서는 서울 전역 도로를 확인할 수 있는 방범 카메라로 실시간 교통 상황과 제설 현황을 모니터링한다.&lt;br&gt;&lt;br&gt;서울시는 눈이 쌓이면 시민들도 내 집 앞, 내 가게 앞 눈 치우기에 동참하고, 차를 타고 눈길이나 빙판길을 지날 땐 체인이나 스노우타이어 등을 사용해 줄 것을 당부했다.&lt;br&gt;&lt;br&gt;한병용 서울시 재난안전실장은 “제설 작업에 총력을 기울이겠다”며 “시민분들도 월요일 출근길엔 안전을 위해 개인 차량 대신 대중교통을 이용해주시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 보이스피싱 통합대응단 대표 번호, 1일부터 ‘1394′로</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/01/QBGK7SFYWVA4TMHHFI3XD7VUVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/01/QBGK7SFYWVA4TMHHFI3XD7VUVI/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Feb 2026 05:11:33 +0000</pubDate>
+      <content:encoded>경찰청이 운영하는 보이스피싱 통합대응단이 각종 보이스피싱 신고 및 상담을 접수하기 위한 대표 전화번호 ‘1394’를 1일부터 운영한다. 이 번호는 ‘일상(13)을 구(9)하는 사(4)람들’이라는 의미를 가진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN254B34WJBN7LCDHIJTQTG62Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 9월 서울 종로구 보이스피싱 통합대응단에서 한 상담원이 보이스피싱 신고 전화를 접수하고 있는 모습. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 지난해 9월부터 기존의 보이스피싱 신고대응센터를 통합대응단으로 확대 개편하고 운영 시간을 365일 24시간으로 늘렸다. 이후 상담 건수가 전년 동기 대비 23% 증가하는 등 신고 수요가 크게 늘었다. &lt;br&gt;&lt;br&gt;이렇게 통합대응단 신고가 늘어나게 되면서, 기존의 대표 전화번호 1566-1188번이 일반 전화 상담실 번호와 비슷해 스팸 전화나 광고성 번호로 오인되기 쉽고 번호 자체도 기억하기 어렵다는 지적이 나왔다. 이 때문에 경찰은 과기정통부를 통해 특수 번호 1394를 새로 발급받았다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “보이스피싱 피해가 발생하는 등 긴급 상황에는 112로 신고하되, 보이스피싱 등 시도가 의심되는 경우 국번 없이 1394번으로 전화하면 365일 24시간 피해 상담, 전화번호·사이트 제보, 관계기관 연계 조치 등 전문적인 지원을 받을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;통합대응단은 당분간 기존에 사용하던 전화번호 1566-1188 역시 1394와 함께 운영한다. 이 번호로 걸려오는 각종 신고·제보 역시 통합대응단에서 기존과 동일한 절차를 거쳐 접수된다. 이후 대표 번호를 1394로 통일하는 과정을 단계적으로 밟아 나가겠다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법 ”사망 직전 가족에 주식 매각, 조세회피 의심된다면 실질과세 원칙 적용 여부 따졌어야”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/01/ZVT4GI43OFCWJKANYB6V2J36XM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/01/ZVT4GI43OFCWJKANYB6V2J36XM/</guid>
@@ -914,16 +932,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7UUKKDGPRPMTIHAE7SD4WNFYU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 이어지는 30일 서울 종로구 광화문광장에서 외국인 관광객들이 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한파가 막바지에 다다랐으나, 이번 주말까진 강추위가 이어질 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 토요일인 31일 서울의 수은주가 영하 10도까지 떨어지는 등 전국 아침 최저기온이 영하 16~영하3도 수준에 머물겠다. 일요일인 내달 1일에도 최저기온이 영하 13~영하1도로 춥겠다. 찬 바람이 불면서 체감온도는 실제 기온 보다 1~2도 가량 낮을 전망이다. &lt;br&gt;&lt;br&gt;현재 중부지방과 전북·경북 곳곳에 내려진 한파특보는 주말까지 유지될 것으로 보인다. 경기북부와 강원 일부 지역에는 한파경보(이틀 이상 최저기온 영하 15도 이하)가, 나머지 지역에는 한파주의보(이틀 이상 최저기온 영하 12도 이하)가 발효됐다.&lt;br&gt;&lt;br&gt;내달 1일 중부지방엔 북쪽을 지나는 기압골의 영향으로 눈이나 비가 내리겠다. 1일 예상 적설량은 인천·경기북부·강원북부 1㎝, 서해5도 1~3㎝, 충남·전북·전남서해안 1㎝ 미만으로 예보됐다. 이들 지역에선 1㎜ 내외의 비도 내리겠다.&lt;br&gt;&lt;br&gt;내주부터는 비나 눈 소식 없이 기온이 소폭 오를 것으로 보인다. 월요일인 2일에는 최저기온이 전날 보다 3~4도 가량 오른 영하 9도 수준을 보이겠다. 특히 주 중반에는 낮 기온이 최고 12도까지 오르며 잠시 추위가 가실 것으로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 1월 31일 토요일 (음력 12월 13일 乙巳)</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/30/4QZKU4HX3RC73OWD6M77OW75IM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/30/4QZKU4HX3RC73OWD6M77OW75IM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Jan 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
       <title>대구·경북 행정통합 특별법안 30일 발의… 7월 ‘대구경북특별시’ 출범</title>
       <link>https://www.chosun.com/national/regional/2026/01/30/DLKSXOJU7BFYFCXG2J44JRONXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/30/DLKSXOJU7BFYFCXG2J44JRONXE/</guid>
@@ -949,15 +957,6 @@
       <description/>
       <pubDate>Fri, 30 Jan 2026 03:00:00 +0000</pubDate>
       <content:encoded>지난 22대 총선에서 더불어민주당 당내 경선 여론조사 결과를 자신에게 유리하게 왜곡해 공표한 혐의로 재판에 넘겨진 정봉주 전 의원에게 벌금형이 최종 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44G7WQQEJVB7XN6VYHZUXDDYFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정봉주 더불어민주당 최고위원 후보가 18일 서울 송파구 KSPO DOME(올림픽체조경기장)에서 열린 더불어민주당 제1차 정기전국당원대회에서 이재명 더불어민주당 신임 대표의 당선을 축하하고 있다. 2024.08.18 이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 공직선거법 위반 혐의로 기소된 정 전 의원에게 벌금 300만원을 선고한 원심 판결을 확정했다고 30일 밝혔다. 함께 기소된 카드뉴스 제작자 양모씨에게도 벌금 200만원이 확정됐다.&lt;br&gt;&lt;br&gt;정 전 의원 등은 2024년 2월 민주당 서울 강북을 후보 경선에서 당내 경쟁자였던 박용진 전 의원과의 지지율 격차가 비교적 적게 나온 ‘적극 투표층’ 대상 여론조사 결과를 ‘전체 유권자’ 대상 조사인 것처럼 왜곡해 카드뉴스를 제작·배포한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;1심과 2심은 이들에게 각각 벌금 300만원과 200만원을 선고했다. 1심 재판부는 “피고인들이 양씨의 단독 범행일 뿐 공모한 사실이 없다고 주장하지만, 피고인들 사이에 주고받은 메시지와 통화 내역 등을 고려하면 공모가 인정된다”며 “공직선거법의 취지에 비춰 죄책이 가볍지 않다”고 했다.&lt;br&gt;&lt;br&gt;2심도 “정 전 의원이 카드뉴스의 제작 경위와 목적 등에 비춰 자신에게 더 유리하게 해석될 수 있는 지지율을 표시해 지지층을 확장·결집하는 방향으로 선거 운동을 하는 것에 동의했다”며 검사와 피고인 측의 항소를 모두 기각했다. 대법원 역시 이러한 판단에 문제가 없다고 보고 상고를 기각했다.&lt;br&gt;&lt;br&gt;한편 정 전 의원은 당시 경선에서 이른바 ‘비명계’였던 박 전 의원을 꺾고 강북을 민주당 총선 후보로 공천됐지만, 과거 지뢰 피해를 본 장병들에게 막말을 했다는 파문과 이에 대한 ‘거짓 해명’ 논란이 불거지면서 결국 공천이 취소돼.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>밴스 美부통령도 우려한 손현보 목사... ‘선거법 위반’ 징역 6개월·집유 1년</title>
-      <link>https://www.chosun.com/national/regional/2026/01/30/IVBCQYGREVAELKD23HOFTNBJBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/30/IVBCQYGREVAELKD23HOFTNBJBQ/</guid>
-      <dc:creator>부산=권태완 기자, 김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Jan 2026 01:29:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZDSYRTME4DQNBXGUYTKYLDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손현보 부산 세계로교회 목사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 구속 기소된 손현보 부산 세계로 교회 목사가 징역형 집행유예를 받고 풀려났다. 경찰 수사 단계에서 구속영장이 발부된 이후 143일만이다. 손 목사는 지난해 초 윤석열 전 대통령 탄핵 반대 집회를 열었던 개신교계 단체 ‘세이브코리아’의 대표다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 30일 공직선거법 위반 등 혐의로 기소된 손 목사에게 징역 6개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;손 목사는 지난해 4월 부산시교육감 재선거를 앞두고 보수 진영 정승윤 후보와 교회에서 대담하는 영상을 찍어 유튜브와 SNS에 올린 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;정 후보의 선거 사무실에서 ‘승리 기원 예배’를 갖고 마이크를 사용해 “우리의 교육을 김석준 같은 사람이 맡으면 되겠습니까”라고 발언한 혐의도 있다.&lt;br&gt;&lt;br&gt;대선을 앞둔 지난해 5~6월 5차례에 걸쳐 세계로교회에서 열린 기도회와 예배에서 마이크를 이용해 당시 김문수 후보의 당선과 이재명 후보의 낙선을 도모한 혐의도 있다. 현행법은 종교단체 성직자가 직무상 지위를 이용해 선거운동을 하는 것을 금지하고 있다.&lt;br&gt;&lt;br&gt;손 목사 측은 “사실 관계는 인정한다”면서도 “혐의에 대해선 전부 부인한다. 손 목사의 발언은 선거운동과 무관하다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 이날 “피고인의 범행 경위와 방법, 죄질이 좋지 않다”며 “목사의 직무 영향력이 상당한데 조직적으로 부정 선거 운동을 한 것으로 보인다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “유튜브 송출 게시는 국민들의 의사 결정 판단에 영향을 끼쳐 선거 공정성을 해칠 위험성이 있다”며 “동종 범죄로 받은 형사 처벌 전력이 있고, 선관위 경고 뿐 아니라 압수수색을 받고도 이를 멈추지 않고 이행한 점, 벌금형을 초과한 전력은 없는 점 등을 감안했다”고 했다.&lt;br&gt;&lt;br&gt;이 사건으로 손 목사가 구속된 사안은 외교적으로도 관심사가 됐다. &lt;br&gt;&lt;br&gt;지난 23일 JD 밴스 미국 부통령이 백악관에서 김민석 국무총리를 만나 손 목사 구속에 대해 우려를 표하기도 했다. 이에 김 총리는 “한국은 미국에 비해 정치와 종교가 엄격히 분리돼 있는 상황에서 선거법 위반에 대한 조사가 있는 것임을 설명했다”고 했다.&lt;br&gt;&lt;br&gt;도널드 트럼프 미국 대통령도 작년 8월 한미 정상회담에서 순직 해병 특검팀의 김장환·이영훈 목사, 여의도순복음교회에 대한 압수수색을 언급하기도 했다. &lt;br&gt;&lt;br&gt;이에 대해 야당에선 “이재명 정부가 ‘종교 길들이기’를 하고 있다”며 “국제사회에서도 분명한 우려의 대상이 되고 있다”고 지적했다. 주진우 국민의힘 의원은 페이스북을 통해 “국제적 망신”이라면서 “김민석 총리는 밴스 지적에 적극 공감했지만 이재명 대통령은 개신교도 수사해야 한다는 앞뒤가 다른 메시지를 냈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
