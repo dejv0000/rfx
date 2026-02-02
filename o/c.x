@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>초속 5~7m 바람 못 버텼나… 풍력발전기, 도로에 ‘꽈당’</title>
+      <link>https://www.chosun.com/national/2026/02/02/J36SSUU3YRCPFA2BKBLUTI6CII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/02/J36SSUU3YRCPFA2BKBLUTI6CII/</guid>
+      <dc:creator>영덕=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Feb 2026 11:17:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37XYSSWPTBCHBCM3SPZOSIPQOM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 4시 40분쯤 영덕군 영덕읍 창포리 풍력발전단지 내 21호기 풍력발전기가 기둥 중간 부분이 꺾이며 도로 쪽으로 쓰러졌다. 당시 현장을 지나던 한 운전자가 전화 통화를 위해 차량을 갓길에 세웠을 때 차량 블랙박스에 거대한 발전기가 쓰러지는 모습이 포착됐다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMKTZSPBEBCONKPRXVUHGFUVDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 영덕군 영덕읍 창포풍력발전단지에 있던 풍력발전기가 도로에 쓰러져 있다. 영덕군과 소방당국은 풍력단지로 연결되는 도로를 무기한 차단했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 동해안 영덕의 대형 풍력발전기 기둥이 넘어져 도로를 덮치는 아찔한 사고가 발생했다. &lt;br&gt;&lt;br&gt;2일 오후 4시 40분쯤 영덕군 창포리 별파랑공원 내 풍력발전단지에서 높이 80m 풍력발전기 기둥 중간 부분이 꺾이면서 기둥과 날개가 공원 내 도로를 덮쳤다. 마침 공원 내 전시관이 휴관이어서 차량 통행이 적어 다행히 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;이 사고로 도로가 막혀 현재 차량 통행이 불가능한 상태다. 사고 시점 풍속은 초속 5~7m였다. 영덕군 관계자는 “경찰과 합동으로 사고가 난 지역 1.6㎞ 구간을 2차 사고 방지를 위해 사고 원인이 밝혀질 때까지 무기한 차량 통제를 하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;영덕군과 목격자 등에 따르면 당시 발전기 날개가 돌아가던 중 갑자기 발전기를 지지하는 기둥이 꺾였다. 발전기 날개 등 흩어진 잔해가 떨어져 도로를 지나던 차량이 불과 몇 초 차이로 아찔하게 참변을 피한 것으로 드러났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JB6IMVN2RNEDCECCBNAR57MPM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 영덕군 영덕읍 창포풍력발전단지에 있던 풍력발전기가 도로에 쓰러져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2005년 완공된 해당 풍력단지는 1650kw급 발전기 24기를 갖췄다. 이곳 시설은 덴마크에 본사를 둔 베스타스 기업이 제조&lt;b&gt;·&lt;/b&gt;설치했다. 사고가 난 풍력발전기 21호기는 2005년 5월부터 현재까지 20년 넘게 운용됐다. 발전기 높이는 약 80m로 한쪽 날개 길이만 41m에 달한다. 발전기 기둥은 강철 재질이고, 날개는 탄소섬유 소재로 만들었다고 한다. 중급 태풍에 준하는 초속 20m까지 버티도록 설계됐다.&lt;br&gt;&lt;br&gt;사고는 풍력발전기 날개 한 개가 찢어져 발생한 것으로 나타났다. 영덕군 관계자는 “시공사 측과 영상을 확인한 결과 세차게 돌던 발전기 날개가 찢어져 균형을 잃은 후 기둥을 쳐 사고가 발생한 것으로 보인다”며 “대나무가 꺾이면 꺾이지, 찢어지진 않는다. 날개 재질 상 도저히 찢어질 순 없는데 그 부분을 집중 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;풍력발전기 날개 수명은 20년 전후인 것으로 알려졌다. 사고가 난 발전기는 올해 21년째 가동 중이었다. 최근 안전 점검에서는 이상이 없는 것으로 조사됐다고 한다.&lt;br&gt;&lt;br&gt;영덕군은 시공사를 상대로 인허가적인 부분을 조사하는 한편 기후에너지환경부와 함께 해당 풍력 단지의 발전기 23기에 대한 안전 점검을 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XD74BXRPSJIKJBYODDWWGMLCL4.JPG?auth=90d39f5f0f271c2d14564ccd5a849909110b32d67414a5d6595cf249b0a0b51b&amp;smart=true&amp;width=12288&amp;height=6912" type="image/jpeg" height="6912" width="12288">
+        <media:description type="plain">2일 오후 영덕군 영덕읍 창포풍력발전단지에 있던 풍력발전기가 도로에 쓰러져 있다. 영덕군과 소방당국은 풍력단지로 연결되는 도로를 무기한 차단했다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(영덕=뉴스1) 최창호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>첨단 원전기술 해외 유출될 뻔…한국원자력안전기술원 전 원장 등 재판행 </title>
+      <link>https://www.chosun.com/national/2026/02/02/YWDUSITE5VDOFHJWTZPODKJE4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/02/YWDUSITE5VDOFHJWTZPODKJE4I/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Feb 2026 12:55:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSTMMBSGA2GMNZUGUYDEZTBMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지검 청사 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 원자로 핵심 첨단 기술을 대량 유출한 혐의로 한국원자력안전기술원(KINS) 전 원장 A씨 등 임직원 4명이 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;대전지검 특허범죄조사부(부장 조은수)는 2일 산업기술보호법 위반, 부정경쟁방지법 위반(영업 비밀 누설) 등의 혐의로 KINS 전 원장 A씨 등을 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2023년 12월과 2024년 7월 두 차례에 걸쳐 KINS 서버에 저장된 한국형 신형 가압 경수로(APR-1400) 관련 산업 기술 파일 140여 개와 영업 비밀 파일 1만8000여 개 등 150GB(기가바이트) 용량의 문건을 외장 하드에 복사하고 외부로 유출한 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰에 따르면 퇴직을 앞두고 있던 원장 A씨는 당시 KINS 지능정보실장이었던 B씨에게 기술 유출을 지시했다. B씨는 지능정보실 서버 담당자였던 C씨와 보안 담당이었던 D씨에게 각각 지시해 KINS 서버의 외부 저장 매체 제한을 일시적으로 해제하게 만든 뒤 A씨 개인 외장 하드디스크에 해당 문건을 담은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;여기에는 국가 선도 기술 개발 사업으로 2329억원을 투입한 차세대 원자로 기술로, 기존 원자로의 발전량을 획기적으로 늘린 첨단·핵심 기술 등도 다수 포함된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰 조사 결과 A씨는 퇴직한 뒤 해외 소재 원자력 관련 유관 기관과 대학에 취업하려고 한 정황이 확인됐다. 다만 수사가 신속히 진행되면서 A씨가 유출한 기술이 실제로 국외로 누설되거나 사용되지는 않았다고 한다. &lt;br&gt;&lt;br&gt;국가정보원으로부터 기술 유출 관련 첩보를 제공받은 검찰은 작년 8월부터 이들의 사무실과 주거지를 압수·수색하는 등 광범위한 수사를 벌였다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “핵심 기술 자료가 해외 경쟁국이나 기업에 넘어갔을 경우 천문학적인 피해가 발생할 수 있었다”며 “공소 유지에 만전을 기하고, 향후 기술 유출 범죄에도 엄정 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유산 후 성관계 거부한 아내 살해… 30대 남성, 2심도 징역 25년</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/02/Q3AMI2S7VVCNBAUC4BCQG4DOMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/02/Q3AMI2S7VVCNBAUC4BCQG4DOMQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Feb 2026 13:12:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQTCZDDGY4TONJSGIYDINDCGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원의 모습. /뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유산한 뒤 성관계를 거부하는 아내를 살해한 혐의로 재판에 넘겨진 남성에게 2심에서도 중형이 선고됐다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 서울고법 형사7부(이재권 부장판사)는 지난달 30일 살인 혐의를 받는 서모씨에게 1심과 같이 징역 25년을 선고했다.&lt;br&gt;&lt;br&gt;서씨는 결혼 3개월 만인 지난해 3월 서울 강서구 자택에서 술에 취한 채 아내의 목을 졸라 살해한 혐의를 받는다. 검찰에 따르면 그는 임신 초기부터 유산 후 병원 진료를 받는 동안에도 아내에게 지속적으로 성관계를 요구했다. 그러다 같은 해 1월 아내로부터 이혼을 통보받은 뒤, 아내가 지인들에게 ‘남편의 요구로 힘들다’ ‘결혼을 후회한다’는 취지의 메시지를 보낸 사실을 확인하고 격분해 범행에 이른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서씨는 아내의 빈소에서 상주 역할을 하다 경찰에 긴급 체포됐다. 그는 체포 이후 혐의를 부인하다가 경찰이 증거를 제시하자 우발적인 범행이었다고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 항소심에서 서씨는 스스로 범행을 신고해 자수에 버금가는 사정이 있고, 피해자가 성관계를 거부하고 지인들에게 자신을 욕하는 등 범행을 유발했다고 주장했으나 재판부는 이를 받아들이지 않았다. 재판부는 “사건 당시 피해자는 범행에 취약한 상태에 있었을 뿐”이라며 “설령 피고인이 주장하는 사정들을 바탕으로 보더라도 살인 범행에 대한 피해자의 귀책 사유에 해당한다고 평가할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 서씨가 수사기관의 객관적 증거에 따라 진술을 조금씩 바꿔 온 점, 피해자가 수면제 과다 복용으로 사망한 것으로 수사기관이 오인하게 할 목적으로 피해자 유족에게 진술을 사주한 점 등을 들어 “적극적으로 범행을 은폐·가장하는 행위를 했다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인구 106만 화성시, 4개 일반구청 공식 출범 </title>
       <link>https://www.chosun.com/national/regional/2026/02/02/A2NXTXZRANACBCVGBFZUXXTHJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/02/A2NXTXZRANACBCVGBFZUXXTHJM/</guid>
@@ -519,15 +550,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3TAMRQHE2TGMJRGNQTOZDBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 정시모집 합격자 중 일반고 출신 비율이 최근 10년 사이 최고치를 기록했다. 반면 외국어고등학교와 과학고등학교 등 특목고 출신 수험생은 전년 대비 반 토막 난 것으로 파악됐다. &lt;br&gt;&lt;br&gt;30일 종로학원이 2026학년도 서울대 정시 모집 합격자들의 고등학교를 분석한 결과, 과고 출신은 모두 10명으로 전년(22명)보다 54.5% 감소했다. 외고 출신도 전년 59명에서 올해 31명으로 47.5% 줄었다. 국제고 출신(16명→14명)과 영재학교 출신(48명→40명) 역시 각각 16.7%, 12.5% 적어졌다.&lt;br&gt;&lt;br&gt;반면, 일반고 출신은 전년 999명에서 올해 1037명으로 3.8% 증가했다. 자율형사립고 출신 역시 전년 287명에서 올해 310명으로 8.0% 뛰었다. &lt;br&gt;&lt;br&gt;특히 올해 서울대 정시 합격자 중 일반고 출신 비율은 63.5%로 자료 집계를 시작한 2016학년도 이후 10년 새 가장 높았다. &lt;br&gt;&lt;br&gt;특목고 약세 현상은 상위권 학생의 ‘특목고 쏠림’이 완화된 것과 연관됐다는 분석이다. 과거와 비교하면 일반고에 다니는 우수 인재가 늘었다는 이야기다. 임성호 종로학원 대표는 “과고와 영재학교는 의대 입시가 원천 차단돼 두 학교 대신 일반고로 진학하는 최상위권 학생이 많아졌다”며 “외고와 국제고는 내신 경쟁이 워낙 치열해 상위권 학생들이 예전보다 기피하는 경향이 있다”고 말했다. 이어 “내신 5등급제로 내신 성적에 대한 부담이 더 커진 만큼 올해 같은 서울대 정시 합격자 비율이 지속될 수 있다”고 예상했다. &lt;br&gt;&lt;br&gt;이른바 ‘N수’를 통해 서울대 정시에 합격한 수험생 역시 전년 901명에서 올해 879명으로 2.4% 줄어들었다. N수생이 전체 정시 합격자에서 차지하는 비율은 55.39%로, 2018학년도 이후 8년 만에 가장 적었다. &lt;br&gt;&lt;br&gt;종로학원은 대학수학능력시험(수능)에서 고득점을 받는 최상위권 N수생들이 지난해 모집 인원을 증원한 의대에 대거 합격하며 입시판을 떠났기 때문이라고 추정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘민주당 돈봉투’ 박용수 2심도 징역형… 증거능력 판단 달라졌지만 형량 유지</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/30/ISBVOHSMHBHP3OSKNX7MSAEQEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/30/ISBVOHSMHBHP3OSKNX7MSAEQEE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Jan 2026 10:49:06 +0000</pubDate>
-      <content:encoded>‘더불어민주당 전당대회 돈봉투 살포 의혹’ 등으로 재판에 넘겨진 송영길 전 민주당 대표의 보좌관 출신 박용수씨가 2심에서도 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRWGMDFHBRDSZLDGAZTAYJRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전당대회 돈봉투 살포 의혹의 핵심으로 지목된 송영길 전 민주당 대표의 전직 보좌관 출신 박용수씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 30일 정당법·정치자금법 위반 등 혐의로 기소된 박씨에 대한 선고 공판을 열고 검사의 항소를 기각했다. 이에 따라 징역 1년 2개월과 추징금 9240만원을 선고한 1심 판결이 유지됐다.&lt;br&gt;&lt;br&gt;박씨는 2021년 4월 송 전 대표의 당대표 당선을 목적으로 이정근 전 민주당 사무부총장 등 경선 캠프 관계자들과 공모해 6750만원을 살포한 혐의 등으로 2023년 7월 기소됐다. 박씨는 또 2020년 5~10월 컨설팅 업체 ‘얌전한 고양이’에 송 전 대표 관련 여론조사를 의뢰하면서 비용 9240만원을 송 전 대표의 외곽 조직인 ‘평화와 먹고사는 문제연구소(먹사연)’가 대신 내도록 한 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 여론조사 비용 대납 혐의에 대해 유죄로 인정했다. 1심 재판부는 “박씨는 정치자금법을 위반해 먹사연으로부터 9000만원 상당의 정치자금을 수수하고 그 사실을 은폐하기 위해 허위 견적서 등을 작성한 후 적극적으로 증거인멸 교사 행위를 해 죄질이 좋지 않다”고 했다. 2심 재판부도 이에 대해 사실오인이나 법리 오해가 없다며 원심 판단을 그대로 유지했다.&lt;br&gt;&lt;br&gt;다만 1심은 돈봉투 관련 혐의에 대해서는 무죄로 판단했다. 핵심 증거로 제시된 이정근씨의 휴대전화 녹음 파일을 위법하게 수집된 증거로 보고 증거능력을 인정하지 않았기 때문이다. 이씨는 2022년 10월 별도의 비리 사건으로 검찰 수사를 받는 과정에서 자신의 휴대전화를 동의하에 제출했는데, 1심 재판부는 “돈봉투 사건의 핵심 공범인 이씨가 자신이 처벌받을 것을 알면서도 제출했겠느냐”며 “검찰이 위법하게 수집한 증거로 증거능력이 없다”고 봤다.&lt;br&gt;&lt;br&gt;항소심 재판부는 휴대전화 제출의 임의성 판단에 대해 1심과 다른 결론을 내렸다. 항소심 재판부는 “이정근씨가 휴대전화 3대를 임의로 검사에게 제출한 사실은 인정된다”며 휴대전화를 임의로 제출하지 않았다고 판단한 원심 판단은 잘못된 것으로 보인다고 했다. 그러나 재판부는 “검사가 전자 정보 제출 범위를 명확히 확인하지 않고 전체를 압수한 것은 위법하다”며 해당 녹음 파일은 위법 수집 증거에 해당해 증거 능력이 없다고 판단했다. 이에 따라 돈봉투 관련 무죄 판단과 전체 형량은 유지됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 옷값 의혹 김정숙 조사 없이 또 무혐의… 검찰 “보완 수사 검토”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/02/YG4M6DJ76FHU7NMT6K4LFY6JWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/02/YG4M6DJ76FHU7NMT6K4LFY6JWE/</guid>
@@ -755,24 +777,6 @@
       <description/>
       <pubDate>Sun, 01 Feb 2026 03:51:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NY2UXVMWAOIWJ6SHX6445LRUBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서부경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수협 이사를 사칭해 치매 노인 등으로부터 1억원이 넘는 돈을 가로챈 60대 여성이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 지난해 12월 서모씨를 사기 혐의로 인천지검에 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;서씨는 자신이 “수협 이사를 지낸 수십억 원대 자산가”라며 피해자 3명에게 1억2000만원이 넘는 금액을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;서씨는 “수협에서 수질 검사 관련 사업을 진행하고 있다” “돈을 빌려주면 불려주겠다”며 피해자들을 유인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;피해자 중에는 치매 환자도 있는 것으로 알려졌다. 인천 계양구에 거주하는 치매 5급 환자 이모(82)씨는 2021년부터 서씨에게 현금으로 9000만원이 넘는 금액을 빌려줬지만, 그중 돌려받은 돈은 약 1000만원에 불과하다고 했다.&lt;br&gt;&lt;br&gt;서씨는 동종 전과도 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “세운지구·태릉CC 개발 이중 잣대…대통령이 정리해야”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2026/02/01/HYJGLOOBCNFMNCLEJOKU2T4XXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2026/02/01/HYJGLOOBCNFMNCLEJOKU2T4XXE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Feb 2026 03:45:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIGF354NRBE6VJ3OROGF2QXFTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 21일 서울시청 시장 집무실에서 오세훈 서울시장이 본지와 인터뷰하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 종묘의 가치 훼손을 이유로 종로구 세운4구역 개발을 반대하면서 태릉 앞 노원구 태릉골프장(태릉CC)에 주택 공급을 추진하는 것에 대해, 오세훈 서울시장이 1일 “정부의 기준이 무엇인지 대통령이 명확히 정리해 주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 1일 페이스북에 ‘국가유산청과 국토부는 각각 다른 나라 정부입니까’라는 제목의 글을 올리고 “국가유산청이 세운지구 개발에 적용하는 잣대를 태릉CC에 적용한다면 서로 다른 결론이 있을 수 없다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “태릉CC는 13%가 역사 문화 환경 보존 지역에 직접 포함돼 있고 세운지구는 그 범위 밖에 있다”며 “세운지구가 안 된다면 태릉CC는 더더욱 안 되는 것이고, 태릉CC가 될 수 있다면 세운지구도 될 수 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “그런데도 국가유산청은 세운지구 개발은 반대하면서 명백히 세계유산 영향 범위에 들어 있는 태릉CC는 이렇다 할 반대를 하고 있지 않다”며 “대통령과 정부가 보이는 행태야말로 모순이고 이중 잣대”라고 했다.&lt;br&gt;&lt;br&gt;그는 “두 부처가 각각 다른 나라 정부가 아니고서야 국가유산청과 국토부의 결론이 다를 수 있겠느냐. 문화유산에 친명과 반명이 있을 수는 없는 것 아니겠느냐”며 “이번 기회에 이 정부의 기준이 무엇인지 대통령께서 명확히 정리해 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공용차 180회 사적 이용하고, 사무실에서 담배 피운 경찰관... 법원 “정직 1개월은 적법”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/01/32ZILNVNXNCP5GTIH3CPFJFDWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/01/32ZILNVNXNCP5GTIH3CPFJFDWA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Feb 2026 03:42:47 +0000</pubDate>
-      <content:encoded>경찰 공용차량을 180번이나 사적으로 이용하고 사무실에서 담배를 피는 행위 등으로 정직 처분을 받은 경찰이 불복 소송을 냈으나 패소했다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 서울행정법원 행정6부(재판장 나진이)는 경찰관 이모씨가 서울경찰청장을 상대로 낸 정직 처분 취소 소송에서 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSWKZTFMRRGCZBYGQYTEMRQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 2019년 7월∼2023년 6월 180회에 걸쳐 소속 팀 공용차량을 사적으로 이용하고, 이에 관해 이뤄진 감찰 조사에서 ‘탐문 수사 목적으로 차를 이용했다’고 허위 진술해 감찰을 방해한 것으로 조사됐다. 사무실 내에서 흡연했다는 것도 밝혀지면서 정직 2개월과 징계금 부과 처분을 받았다. 이씨는 소청 심사를 제기해 정직 기간이 1개월로 줄었는데, 징계 자체를 취소해 달라며 소송을 냈다.&lt;br&gt;&lt;br&gt;구체적으로 이씨는 공용차량을 사적으로 쓴 경우는 6회에 불과할 뿐, 나머지 174회는 수사 활동으로 인해 새벽·심야에 출퇴근하거나 일과 중 위장복으로 갈아입기 위해 집에 들르는 등 업무와 밀접하게 관련된 일로 사용했다고 주장했다. 그러나 재판부는 동료 직원들이 ‘이씨는 외근을 거의 나가지 않았다’고 일관되게 진술한 점 등을 토대로 이씨 주장을 받아들이지 않았다. 또 이씨가 행정부의 ‘공용차량 관리·운영 매뉴얼’에 따라 출퇴근에 공용차량을 쓸 수 있는 고위 공무원도 아니라고 봤다.&lt;br&gt;&lt;br&gt;이씨는 재판 과정에서 감찰 당시 허위 진술을 한 이유에 대해 “업무용 차량을 무단으로 사용한 것은 사실이지만, 이 차를 이용해 골프장에 간 사실은 없는데도 그런 소문이 나서 이를 불식시키려 했다”고 설명했다. 감찰을 방해한 게 아니라는 얘기다. 하지만 재판부는 “이런 주장이 사실이라도 허위 진술을 정당화할 순 없고, 만약 이씨의 허위 진술이 사실로 인정됐다면 징계를 면할 수 있었다”며 감찰 방해가 맞다고 판단했다.&lt;br&gt;&lt;br&gt;이씨는 사무실에서 흡연한 경우는 1번에 그친다며 징계 수준이 과하다고도 주장했다. 그러나 이씨와 같은 팀에 있던 팀원들은 “이씨가 사무실에서 수차례 담배를 피웠다”고 진술했다. 재판부는 “징계 사유는 이씨가 금연구역으로 지정된 사무실 내에서 흡연을 했다는 것이라 징계 사유에 장애가 없다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한동훈 지지자 6000여 명 “부당 징계 규탄, 장동혁 퇴진하라”… 여의도 집회</title>
