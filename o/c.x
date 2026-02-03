@@ -13,6 +13,193 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 옥인파출소, 6년 넘게 빌라 지하에 방치된 개 20여 마리 구출</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/E3N2NBMPLNEFJK43EXG5AA7U74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/E3N2NBMPLNEFJK43EXG5AA7U74/</guid>
+      <dc:creator>이나윤 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 08:19:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3GRST6ZDRDZRL6M43IJLGLY7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 14일 서울 종로구 옥인동의 한 빌라 지하에 6년 넘게 개 여러 마리가 방치돼 있다. 이날 경찰은 이곳에서 개 18마리를 구출하고 사체 3개를 수습했다./경찰 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 넘게 서울 종로구의 한 빌라 지하에 방치된 개 20여 마리가 경찰의 적극 행정으로 구조됐다. 구조 당시 빌라 지하에선 개 3마리의 사체도 발견됐는데, 이와 관련해 서울시 민생사법경찰국은 개 주인인 80대 여성을 동물보호법 위반 혐의로 내사 중이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울 종로경찰서 옥인파출소는 지난달 두 차례에 걸쳐 서울 종로구 옥인동의 한 빌라 지하에 갇혀 있던 개 23마리를 구출하고 같은 공간에 방치된 개 3마리의 사체도 함께 발견했다. &lt;br&gt;&lt;br&gt;개들을 방치한 이는 이 빌라 세대주인 80대 여성 A씨로, 2019년 5월쯤부터 빌라 지하에 개 수십 마리를 키워온 전형적인 ‘애니멀 호더(Animal hoarder·동물 수집에 강박을 가진 사람)’로 전해졌다. 그는 일주일에 한 번 정도만 빌라에 방문하는 등 동물 관리에 소홀했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;방치된 개들로 인한 악취와 개 짖는 소리 때문에 그간 인근 주민들은 경찰과 종로구청 등에 관련 민원을 수십건씩 제기했지만, 이들은 “사유지라 강제조치가 어렵다” “민사소송을 내라”는 식으로 책임을 회피했던 것으로 전해졌다. 인근 주민 30대 이모씨는 “매일 새벽 3~4시부터 수십 마리의 개가 짖어대 잠도 제대로 못 잤고, 악취와 배설물 문제도 심각했다”며 “한번은 지하실 문이 열렸는지 개들이 밖으로 나와 인근 주민들 모두 두려움에 떨었다”고 했다. A씨는 인근 주민의 민원이 이어지는데도 핸드폰 번호를 바꾸는 등의 방법으로 책임을 회피한 것으로 전해졌다. A씨는 최근 개를 방치해 이웃들에게 피해를 준 부분은 인정하면서도 경찰에 “개를 자식처럼 키웠다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQJ3DSU2XBA67FJ5A4XKJEDYSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 두 차례에 걸쳐 서울 종로구 옥인동의 한 빌라 지하에 6년 넘게 갇혀 있던 개 23마리를 구조한 옥인파출소 순찰 1팀. 왼쪽부터 이재구 경위(순찰1팀장), 전인환 경위, 김수진 순경, 손영채 순경, 최인범 경사./경찰 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상황이 반전된 건 지난해 12월 이재명 대통령이 청와대로 복귀하면서부터다. 같은달 30일 인근 주민의 신고를 접수한 이재구 옥인파출소 순찰1팀장과 전인환 경위 등 팀원들은 즉시 현장 확인에 나섰다. 그간 경찰관 2명만이 오전 9시부터 오후 6시까지만 근무를 서던 옥인파출소는 청와대 복귀로 24시간 근무 체제로 전환된 바 있다.&lt;br&gt;&lt;br&gt;상황이 심각하다고 판단한 옥인파출소 경찰관들은 지난달 6일 1차 구조 작전에 돌입했다. A씨로부터 “지하에 개가 총 11마리가 있는데, 그중 6마리는 내가 책임지고 다른 곳으로 옮기겠다”는 약속을 받은 경찰들은 우선 개 5마리만 구조했다. 하지만, 이후에도 “아직도 개가 짖는다”는 신고가 빗발치자 경찰은 이번엔 소방, 구청 등과 함께 지난달 14일 2차 구조에 나섰다. 4시간에 걸쳐 이뤄진 이번 작전에서 개 18마리와 사체 3개가 발견됐다고 한다.&lt;br&gt;&lt;br&gt;이번 구조 작전을 책임진 이재구 옥인파출소 순찰1팀장은 “처음 출동하자마자 현장 상황과 주민들의 고통이 심각해 더 이상 방치할 수 없다고 판단해 적극적으로 개입했다”며 “앞으로도 사각지대에 놓인 시민들 위해 파출소 직원들은 꾸준히 노력할 것”이리고 했다.&lt;br&gt;&lt;br&gt;사건이 알려지자 서울시 민생사법경찰국은 A씨를 동물보호법 위반 혐의로 내사 중이다. 민생사법경찰국 관계자는 “사체 부검 결과가 나오는 대로 수사 전환 여부를 결정할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검경 합수본, ‘신천지 실세’ 이만희 변호인도 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/03/2N3ZUCRV3ZEBLLSDFQ3LDA6YNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/2N3ZUCRV3ZEBLLSDFQ3LDA6YNM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 08:21:48 +0000</pubDate>
+      <content:encoded>통일교와 신천지의 정교유착 의혹을 수사하는 검경 합동수사본부가 최근 신천지에 대한 강제 수사에 나서면서 이만희 총회장의 변호인도 압수 수색한 것으로 3일 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2TSOLGMJQTANZZGFSGEMRXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신천지와 통일교의 정교유착 의혹을 수사 중인 검경 합동수사본부가 이만희 신천지 총회장의 변호사도 압수 수색한 것으로 알려졌다. 사진은 이 총회장의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 합수본은 지난달 30일 신천지 총회의 법무부장 A씨의 휴대전화 등을 압수했다. 현직 변호사인 A씨는 신천지 관련 수사와 재판에 대응하는 업무를 맡고 있다. 그는 코로나 당시 이 총회장이 방역 활동 방해 혐의로 재판을 받을 당시에도 이 총회장의 변호를 맡은 바 있다. &lt;br&gt;&lt;br&gt;신천지가 2022년 대선 등 주요 선거를 앞두고 국민의힘에 교인들을 대거 가입시켰다는 의혹을 수사 중인 합수본은 앞서 신천지 관계자들을 연이어 참고인 신분으로 불러 조사한 바 있다. 이후 지난달 30일에는 경기 과천시에 있는 신천지 총회 본부와 경기 가평군 평화의 궁전 등 신천지 주요 시설에 대한 대대적인 강제 수사에 나섰다. &lt;br&gt;&lt;br&gt;합수본은 압수물 분석을 마친 뒤 이 총회장과 총무를 지낸 고모씨, A씨 등 주요 피의자들을 순차적으로 불러 조사할 방침이다. 이들은 정당법 위반, 업무방해 등 혐의를 받는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쌍용차 인수 주가 조작’ 前 에디슨모터스 회장 징역 3년 선고</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/6VWOB2MVHFBUJDLVPPFUG6NHZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/6VWOB2MVHFBUJDLVPPFUG6NHZU/</guid>
+      <dc:creator>김혜민 기자, 임희재 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 08:08:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DCMLCMQYGKNJVGFRGKMBYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강영권 전 에디슨모터스 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍용차를 인수한다는 호재성 정보를 퍼뜨려 주가를 띄우고 1600억대 부당이득을 얻은 의혹을 받는 강영권 전 에디슨모터스 회장이 1심에서 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의13부(재판장 김상연)는 3일 자본시장법 위반 등 혐의로 기소된 강 전 회장에게 징역 3년과 벌금 5억원을 선고했다.&lt;br&gt;&lt;br&gt;강 전 회장의 특정경제범죄가중처벌법상 배임과 입찰방해 혐의에 대해서는 무죄가 선고됐다. 재판부는 강 전 회장이 장기간 구속됐고, 재판에 빠짐없이 참석한 점 등을 고려해 법정 구속하지는 않았다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 에디슨모터스와 에디슨EV를 실질적으로 지배하는 지위에서 주가에 영향을 줄 목적으로 허위 사실을 유포했다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “에디슨EV는 상장폐지됐고, 투자자들은 심대한 피해를 입어 죄질이 불량하고 사회적 비난 가능성이 매우 크다”며 “투자자들이 지속적으로 엄벌을 탄원하는 점, 대부분의 범행을 부인하며 반성하는 모습을 보이지 않는 점 등을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;강 전 회장은 지난 2021년 5월부터 2022년 3월까지 쌍용차를 인수해 전기차 사업에 뛰어들겠다는 호재성 정보를 퍼뜨려 관계사인 에디슨EV의 주가를 인위적으로 띄우고, 약 1621억원의 부당이득을 얻은 혐의로 2022년 10월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;에디슨모터스는 2021년 10월 쌍용차 인수 우선협상대상자로 선정돼 인수·합병(M&amp;amp;A) 계약을 체결했으나, 이후 인수 대금 조달에 실패해 계약은 무산됐다. 이후 에디슨EV 주가는 급락했고 결국 상장폐지됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 상설특검 ‘퇴직금 미지급’ 쿠팡 CFS 전현직 대표 기소…특검 첫 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/03/GDS64HSSVNGNDH6SRWBWOW35HE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/GDS64HSSVNGNDH6SRWBWOW35HE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 07:54:31 +0000</pubDate>
+      <content:encoded>쿠팡의 ‘퇴직금 미지급 의혹’을 수사 중인 안권섭 상설특검팀이 3일 쿠팡풀필먼트서비스(CFS) 전·현직 대표 등을 재판에 넘겼다. 지난해 12월 6일 수사를 개시한 지 약 두 달 만의 첫 기소다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBGPI3JKW5OE3LQUUYZA7TFJH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 21일 오전 서울 송파구 쿠팡 본사에 쿠팡 로고가 보이고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 엄성환 전 쿠팡 CFS 대표이사와 정종철 쿠팡CFS 대표이사, 쿠팡 CFS 법인을 근로자퇴직급여보장법(퇴직금법) 위반 혐의로 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;엄 전 대표 등은 2023년 5월 26일 근로자들에게 불리하게 취업규칙을 변경해, 사실상 상근 근로자에 해당하는 일용직 노동자들에게 퇴직금을 제대로 지급하지 않았다는 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 쿠팡CFS는 퇴직금 지급 기준을 ‘일용직 근로자도 1년 이상 근무하는 경우 주당 근로 시간이 15시간 미만인 기간만 제외’에서 ‘1년 이상 근무하고 주당 근로 시간이 15시간 이상인 경우’로 바꿨다. 근무 기간 중 하루라도 주당 근로 시간이 15시간에 미치지 못하면, 그 날부터 퇴직금 산정 기간을 다시 계산하도록 한 것이다. &lt;br&gt;&lt;br&gt;업계에서는 이를 두고 “퇴직금 지급 기준을 리셋해 일용직 근로자들이 받아야 할 퇴직금을 줄이려는 독소 규정”이라는 지적이 나왔고, 이를 계기로 수사가 시작됐다. 특검은 이러한 방식으로 쿠팡CFS가 일용직 근로자 40명에게 총 1억2000여 만원 상당의 퇴직금을 지급하지 않은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;특검은 쿠팡CFS가 취업규칙을 바꾸기 약 두 달 전인 그해 4월 1일부터 이미 내부 지침을 변경해, 일용직 근로자에 대한 퇴직금 지급 기준을 일방적으로 변경해 적용한 사실을 확인했다고 밝혔다. &lt;br&gt;&lt;br&gt;특검 관계자는 “쿠팡 CFS는 일용직 근로자들의 의견을 전혀 청취하지 않았고, 외부 법률 자문도 받지 않은 채 일용직 근로자에 대한 퇴직금 지급 기준을 변경해 시행했다”면서 “그 후속 절차로 이뤄진 취업규칙 변경 과정에서도 절차적 하자가 확인됐다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “인천지검 부천지청이 앞서 혐의 없음 의견을 냈던 것과 달리, 피의자들의 혐의를 입증할 다수의 증거를 확보했다”며 “이번 사건은 쿠팡CFS 일용직 근로자뿐 아니라, 동일한 형태로 채용돼 근무하는 다수의 플랫폼 노동자들의 상용 근로자성 판단에 중요한 이정표가 될 사안”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘재판서 소란’ 김용현 변호인 감치 집행... 16일까지 구금</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/03/4ULEZE6OXJFINMNIPUBVVZVSD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/4ULEZE6OXJFINMNIPUBVVZVSD4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 07:58:26 +0000</pubDate>
+      <content:encoded>지난해 11월 한덕수 전 국무총리 재판에서 소란을 일으켰다는 이유로 감치 15일을 선고 받은 이하상 변호사에 대한 감치가 3일 집행됐다. 이 변호사는 김용현 전 국방장관을 대리하고 있다. 감치 기간은 오는 16일까지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZDOMRTGUZWENZTGQZWCMJTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관을 대리하는 이하상 변호사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 변호사는 이날 서울중앙지법 형사34부(재판장 한성진) 심리로 열린 김 전 장관의 위계공무집행방해 등 혐의 재판에 출석했다. 오후 4시 20분쯤 재판이 끝났고, 방청객이 모두 퇴정하자 대기 중이던 교정공무원들이 이 변호사에 대한 감치 명령을 집행했다.&lt;br&gt;&lt;br&gt;두 변호사는 작년 11월 19일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한 전 총리의 내란 혐의 재판에서 소란을 피워 퇴정 조치됐다. 증인으로 나온 김 전 장관과 함께 증인석에 앉게 해달라고 요청했으나, 재판부가 이를 받아들이지 않자 계속 발언을 이어간 것이다. 두 변호사는 재판부로부터 감치 15일을 선고받았으나 서울구치소에서 집행 불능으로 풀려났다. 이후 두 달 반 만인 이날 감치가 집행된 것이다.&lt;br&gt;&lt;br&gt;이 변호사는 서울구치소로 이동해 오는 16일까지 14일간 구금될 예정이다. 감치 선고 당일 서울구치소에서 밤까지 대기한 것이 반영돼 총 15일 중 하루가 줄었다고 한다. 함께 감치 선고를 받은 권우현 변호사는 이날 재판에 나오지 않아 감치 명령이 집행되지 않았다.&lt;br&gt;&lt;br&gt;이에 따라 이 변호사는 오는 19일로 예정된 김 전 장관의 내란 중요 임무 종사 혐의 1심 선고에는 참석할 수 있을 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 2월 4일 수요일 (음력 12월 17일 己酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/SSCQPTZINFCMLNXO6WFTDFVATM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/SSCQPTZINFCMLNXO6WFTDFVATM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>충북경찰, ‘꿀잼 도시 사업’ 특혜 의혹 청주시 압수수색</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/03/CY4B5M7NF5ECVORSFWLRGAHUYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/03/CY4B5M7NF5ECVORSFWLRGAHUYE/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 07:51:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A64UEAPS5EHB4X7ENC42ZELZEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주시청 임시청사/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘꿀잼도시 사업 특혜 의혹’과 관련해 청주시청을 압수수색했다. &lt;br&gt;&lt;br&gt;충북경찰청 반부패경제범죄수사대는 이날 오전 청주시청 제2 임시청사 내 관광과와 정보통신과를 압수수색했다. 동시에 꿀잼도시 사업(푸드트럭 운영)과 관련된 행사 업체 2곳에도 수사관을 보내 관련 자료를 확보했다. &lt;br&gt;&lt;br&gt;압수수색 영장에는 입찰방해, 공무상비밀누설 등 혐의가 적시된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 사업 담당 팀장 A씨가 꿀잼도시 사업에 참여하려는 업체에 제안서 정보를 전달하고, 심사위원 명단을 공유했다는 의혹에 대해 확인하기 위한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;앞서 더불어민주당 소속 박승찬 청주시의원은 이런 의혹을 제기하면서 공무원과 참여 업체 대표가 이를 논의하는 문자메시지를 공개했다.&lt;br&gt;&lt;br&gt;행정안전부는 감찰을 통해 A팀장에 대한 중징계 처분과 수사 의뢰를 요구했다. 이에 충북도는 지난달 A팀장에 대해 정직 3개월 처분을 의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“불륜 들킬까 봐”… 사산아 냉동실 넣고 도망간 베트남 귀화 여성</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/HCQFE7SH35BZTHXY3BDGSIPPJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/HCQFE7SH35BZTHXY3BDGSIPPJM/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 07:28:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사산아를 냉동실에 유기하고 도주한 30대 베트남 귀화 여성에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 형사4단독 강현호 판사는 3일 사체유기 혐의로 기소된 A씨에게 징역 1년 6개월을 선고했다. 전 남편 B씨에게는 징역 1년에 집행유예 2년 판결이 내려졌다.&lt;br&gt;&lt;br&gt;강 판사는 “피고인이 출산한 사산아는 형태와 크기 등에 비춰볼 때 상당히 많이 자란 상태였다”며 “그런데도 경찰에 신고하거나 가족들에게 알리지 않고 장기간 냉장고에 보관해 인간의 존엄을 해쳐 엄한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2024년 1월 15일 충북 증평군 증평읍 자택 화장실에서 홀로 사산아를 출산한 뒤 시신을 냉동실에 유기한 혐의를 받는다. 시신은 약 한 달 뒤 냉장고를 청소하던 시어머니에게 발견됐고, 아들 B씨는 시신을 인근 공터에 묻었다가 이튿날 경찰에 자수했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “오랫동안 각방 생활을 했던 남편에게 불륜 사실을 들킬까 봐 아이를 냉동실에 숨겼다”며 “고향에 데려가 장례를 치러줄 예정이었다”는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 슬하에 초등학생 딸이 있는데도 도주한 점을 고려해 구속영장을 신청했으나, 법원은 “수사에 협조적이고 추가 도주 우려가 없다”며 기각했다. 그러나 A씨는 재판에 넘겨진 후 약 1년간 행방이 묘연했다가 지난달 처음 법정에 출석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘제조업 1번지’ 경남에 인공지능 DNA 이식한다 </title>
+      <link>https://www.chosun.com/national/2026/02/03/TU2QLH5RTRE3JMI5ASAWH2WAMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/03/TU2QLH5RTRE3JMI5ASAWH2WAMY/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 07:45:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZTMMBUMY2TOMTGHFRTIOLEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 박완수 경남도지사가 창원컨벤션센터에서 열린 '경남 인공지능(AI) 대전환 선포식'에서 발언하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도가 주력 산업인 제조업 강화와 도민 생활 혁신을 골자로 ‘경남형 인공지능(AI) 대전환’에 나선다. &lt;br&gt;&lt;br&gt;경남도는 3일 창원컨벤션센터에서 ‘경남 AI 대전환 선포식’을 열고 제조 특화 AI 전략과 중장기 AI 산업 육성 계획을 발표했다.&lt;br&gt;&lt;br&gt;‘대한민국 AI 대전환(AX) 중심지 경상남도’를 비전으로 정하고, 이를 실행하기 위해 4대 핵심 전략을 추진한다.&lt;br&gt;&lt;br&gt;먼저 산업 전환이다. 조선·기계·항공·자동차 등 경남의 주력 제조 분야에 AI를 접목해 공정 혁신과 품질 고도화를 이끌고, 산업 전반의 경쟁력을 미래형 구조로 전환한다. &lt;br&gt;&lt;br&gt;다음은 산업 확장이다. 농·어·임업 등의 산업에 AI와 디지털 기술을 결합한다. 이를 통해 스마트팜·스마트양식 등 생산성 향상 모델을 확산하고, 기후·환경 변화에 선제적으로 대응해 지속 가능한 성장을 이끈다는 계획이다.&lt;br&gt;&lt;br&gt;재난·안전, 복지, 의료 등 공공 서비스 전반에도 AI를 접목한다. 산불·재난 예측, 응급 대응, 취약 계층 돌봄 등 생활 밀착형 분야에서 AI 기반 선진 복지 시스템을 만들어 도민이 체감하는 안전한 사회를 구현한다는 방침이다.&lt;br&gt;&lt;br&gt;AI를 통해 관광·문화·정주 여건 개선 등 도시 전반의 활력도 높일 계획이다. AI 기반 관광 서비스와 문화 콘텐츠 혁신으로 방문객 유입을 늘린다는 목표다.&lt;br&gt;&lt;br&gt;박완수 경남도지사는 “세계가 AI 패권 시대로 가는 만큼 대한민국 제조업의 중심지인 경남이 제조업에 AI 기술을 접목해 대전환을 열어가야 한다”며 “인구 감소와 고령화 속에서 AI는 새로운 생존 전략”이라고 했다.&lt;br&gt;&lt;br&gt;도는 이번 선포를 기점으로 오는 2030년을 목표로, 기반 구축부터 완성·확산 단계로 이어지는 4단계 로드맵도 수립했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여기저기서 팔더니 “곰팡이인지 카카오 가루인지”…두쫀쿠 위생 신고 속출 </title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/BEKQN5BOSBFMFLEOYZOXXXUKCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/BEKQN5BOSBFMFLEOYZOXXXUKCI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 07:16:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7R5HVQNWZE3JCWSVXYVHIXTVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두쫀쿠/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 열풍이 불고 있는 ‘두바이 쫀득 쿠키(두쫀쿠)’ 관련 식품위생법 위반 신고가 잇따라 접수되고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;3일 서미화 더불어민주당 의원실에 따르면, 작년 말부터 올해 1월까지 부정·불량식품통합신고센터에 두쫀쿠 관련 식품위생법 위반 현황이 총 19건 보고됐다. 최초 신고는 두쫀쿠가 본격적으로 유행하기 시작한 작년 11월 접수돼 12월까지 8건이 들어왔다. 올해 들어 한 달 동안 11건의 신고가 보고됐다.&lt;br&gt;&lt;br&gt;가장 많은 위반 유형은 위생 관리와 무허가 영업으로 각각 7건이다. 이어 이물 발견(2건), 기타(2건), 표시 사항(1건) 등으로 나타났다. &lt;br&gt;&lt;br&gt;위생 관리 신고 사유는 ‘카페에서 제품을 구매해 보니 곰팡이인지 카카오 가루인지 구분이 안 됨’, ‘카페에서 제품을 먹고 식중독 증상이 있음’, ‘행사 매장에서 제품을 구매해 먹었는데 손톱 크기 이물이 보임’ 등의 내용이다. 이 밖에 ‘제품 섭취 중 딱딱한 이물질 발견’ ‘소비 기한 표시가 없고 보건증, 마스크 착용 등 위생 점검이 필요하다’ 등의 신고도 접수됐다. &lt;br&gt;&lt;br&gt;무허가 영업 신고 내용으로는 ‘개인이 제품을 판매함’ ‘중고 판매 사이트에서 가정에서 제조한 제품을 판매함’ 등이 보고됐다. 개인이 제품을 판매한 사례는 고발 조처됐다. 식약처는 고발 처분된 1개 사례를 제외한 나머지 위반 행위에 대해 행정 지도 처분했다.&lt;br&gt;&lt;br&gt;앞서 식약처는 오는 6일까지 두쫀쿠 등 디저트류를 조리·판매하는 배달 음식점 3600여 곳을 집중 점검한다고 밝혔다. 두쫀쿠 열풍으로 국밥집, 일식집 등 디저트와 관련 없는 외식 업체도 두쫀쿠를 미끼 상품으로 팔자 위생 관리에 착수한 것이다. 특히 최근 온라인 커뮤니티에 이불 가게에서 두쫀쿠를 파는 사진이 올라와 소비자들 사이에선 위생을 우려하는 목소리가 나오는 상황이다.&lt;br&gt;&lt;br&gt;서 의원은 “식약처는 변화하는 식품 유행과 트렌드를 면밀히 파악하고 선제적인 위생 점검을 통해 국민이 안심할 수 있는 식품 환경을 조성해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/M7R5HVQNWZE3JCWSVXYVHIXTVY.jpg?auth=7a8de42b5009cadf6c7357b7e36e4d9c86ef6e01bc9cd417b72c245402350e0b&amp;smart=true&amp;width=3024&amp;height=4032" type="image/jpeg" height="4032" width="3024">
+        <media:description type="plain">두쫀쿠/조선일보DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“왜 퇴근 시간에 일 시켜”… 직장동료 폭행한 60대, 벌금형으로 감형</title>
+      <link>https://www.chosun.com/national/regional/2026/02/03/XQPE2PDKUNGSLM43727IEZ4G7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/03/XQPE2PDKUNGSLM43727IEZ4G7Q/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 07:23:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZDKNJZGRRDSNLBGQ4DEZTFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근 시간에 일을 시켰다는 이유로 직장 동료를 폭행해 1심에서 징역형을 선고받은 60대가 항소심에서 벌금형으로 감형받았다. &lt;br&gt;&lt;br&gt;대구지법 형사항소 2-1부(재판장 부장판사)는 상해 혐의로 재판에 넘겨진 A씨에 대한 항소심에서 징역 8개월을 선고한 원심을 파기하고 벌금 500만원을 선고했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2024년 5월 25일 같은 업체에서 일하는 50대 B씨가 퇴근 시간에 작업 지시를 하자 “네가 뭔데 나한테 이래라 저래라 하느냐, 내가 이 바닥에서 너보다 짬밥을 더 먹었다”고 화를 내며 B씨를 때려 전치 6주간 병원 치료가 필요할 정도의 상해를 입힌 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “1심 판결 선고 후 피고인이 상당한 액수를 지급하고 피해자와 원만히 합의한 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 작년 5월에 이뤄진 1심 재판에서 법원은 피해자 회복이 이뤄지지 않은 점 등을 들어 A씨에게 징역 8개월을 선고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민중기 특검, ‘통일교 금품’ 권성동·윤영호 1심 판결에 항소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/03/VSLBJDCH4VC7BCVFIPOPMPTBRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/VSLBJDCH4VC7BCVFIPOPMPTBRQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 06:06:55 +0000</pubDate>
+      <content:encoded>민중기 특별검사는 3일 통일교 측에서 불법 정치자금 1억원을 받은 혐의로 1심에서 실형을 선고받은 국민의힘 권성동 의원에 대해 항소했다. 권 의원에게 돈을 건넨 혐의로 실형을 선고받은 윤영호 전 통일교 세계본부장에 대해서도 같은 날 항소했다. &lt;br&gt;&lt;br&gt;특검은 두 사람의 1심 판결에 대해 “형량이 죄책에 상응한다고 보기 어렵다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGE4ZRBAMVO7LA5LTVCVUUPUNA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난해 11월 3일 서울 서초동 서울중앙지법에서 통일교로부터 불법 정치자금을 수수한 혐의 사건 1차 공판에 출석해 자리에 앉고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사27부(재판장 우인성)는 지난달 28일 정치자금법 위반 혐의로 구속 기소된 권 의원에게 징역 2년과 추징금 1억원을 선고했다. 민 특검은 권 의원에게 징역 4년을 구형한 바 있다. &lt;br&gt;&lt;br&gt;권 의원은 윤 전 본부장으로부터 통일교 현안 청탁을 대가로 정치자금 1억원을 불법으로 받은 혐의를 받는다. 권 의원은 2021년 12월 29일 윤씨와 만나 “2022년 2월 개최될 통일교 행사인 한반도 평화 서밋에 윤석열 당시 대선 후보가 참석할 경우 윤 후보의 대선 자금을 지원하는 등 통일교 신도들의 조직적인 투표 및 통일교 재정 지원으로 대선을 도울 수 있다”는 취지의 제안을 받은 것으로 조사됐다. 이후 권 의원은 2022년 1월 5일 서울 영등포구 중식당에서 윤씨를 다시 만나 현금 1억원을 수수한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이에 재판부는 “국회의원은 양심에 따라 국가 이익을 우선해야 함에도 피고인은 통일교에서 1억원을 받아 국민의 기대와 헌법에 대한 책무를 저버렸다”며 “그럼에도 공소 사실을 부인하고 반성의 기미가 없다”고 판단했다.&lt;br&gt;&lt;br&gt;권 의원 측은 판결 당일인 지난달 28일 바로 항소했다. 권 의원은 입장문을 내고 “판결은 도저히 납득할 수 없다”며 “즉시 항소해 이 판결의 오류를 바로잡을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSGCYRUGY2WKZBYMZRWIYRWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사에게 청탁할 목적으로 명품 가방과 목걸이를 전달한 혐의를 받는 윤영호 전 통일교 세계본부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 권 의원에게 1억원을 건넨 윤씨에게는 1심에서 징역 1년 2개월이 선고됐다. 재판부는 윤씨가 권 의원에게 1억원을 건넨 혐의(정치자금법 위반)에 대해 징역 8개월을, 김건희 여사에게 샤넬백과 그라프 목걸이 등을 건넨 혐의(청탁금지법 위반) 등에 대해선 징역 6개월을 각각 선고했다. 금품 구매 과정에서 통일교 자금을 횡령한 혐의도 유죄로 인정했다.&lt;br&gt;&lt;br&gt;윤씨 역시 1심 판결에 불복해 이날 법원에 항소장을 제출했다. 권 의원과 윤씨 측, 그리고 특검까지 모두 항소함에 따라 2심에서 법리와 쟁점을 둘러싼 치열한 다툼이 벌어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시흥 시화공단 내 SPC 공장서 화재… 3명 연기 흡입</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/LANISOCMHJBVTKHQPCJEYZJCRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/LANISOCMHJBVTKHQPCJEYZJCRI/</guid>
+      <dc:creator>시흥=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 06:27:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHX2C3DT4VMQ3ETMMLJ2B72LMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 2시59분께 경기 시흥시 정왕동 SPC 삼립 시화공장에 불이 나 소방당국이 진화에 나섰다./경기도소방재난본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥의 SPC삼립 시화공장에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;3일 경기도소방재난본부에 따르면 이날 오후 2시 59분쯤 시흥시 정왕동의 SPC삼립 시화공장에서 불이 났다.&lt;br&gt;&lt;br&gt;공장 건물에 검은 연기가 난다는 신고를 받고 출동한 소방당국은 이날 오후 3시 6분쯤 대응 1단계를 발령하고 펌프차 등 장비 57대와 인력 15명을 동원해 진화 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;이 불로 인해 3명이 연기를 흡입하는 등의 부상을 입고 인근 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;현재까지 건물 안 고립자는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;불은 건물 생산동 내 식빵 생산라인에서 발생한 것으로 현장에는 주간 근무자 12명이 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;불이 나자 시흥시는 재난 문자를 통해 “화재 현장 주변 차량은 우회하고, 인근 주민은 창문을 닫는 등 안전에 유의해 달라”고 안내했다.&lt;br&gt;&lt;br&gt;소방 당국은 불을 끄는 대로 정확한 화재 원인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSGCOBRGRSGENBZGZQWMMBQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SPC삼립 시화공장서 화재 발생. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GNSGCOBRGRSGENBZGZQWMMBQHE.jpg?auth=c0d1656914be5969bec71b58d372d3df8b4661f64a91d390e6c875842271ac9f&amp;smart=true&amp;width=424&amp;height=247" type="image/jpeg" height="247" width="424">
+        <media:description type="plain">SPC삼립 시화공장서 화재 발생. /뉴스1 </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“절대 입금하지 마세요”… 1300만 유튜버 쯔양, 사칭 사기에 경고</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/436AIEFVUBFWJIDDGM4SMBIZMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/436AIEFVUBFWJIDDGM4SMBIZMU/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 06:16:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GD6PJNLK2RC2JGMXIMKXJ5PPR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쯔양의 사진과 영상을 무단 게재한 틱톡 사칭 계정. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 1300만명을 보유한 먹방 유튜버 쯔양(29·본명 박정원)이 사칭 사기 행위에 대한 주의를 당부했다.&lt;br&gt;&lt;br&gt;쯔양은 2일 유튜브 채널 커뮤니티에 공지를 올리고 “최근 틱톡 등 숏폼 플랫폼에서 쯔양을 사칭해 영상을 무단 업로드하고 개인 명의 계좌로 후원금을 요구하는 사기 행위가 확인됐다”며 “절대 입금하지 말라”고 했다.&lt;br&gt;&lt;br&gt;이어 “문제가 된 계정은 쯔양과 전혀 무관한 제3자 명의로 된 계좌를 게시해 불특정 다수에게 금전을 편취하려 하고 있다. 이는 명백한 금융 범죄”라며 “저작권법 위반 및 형법상 사기죄 등의 사유로 틱톡 측에 긴급 게시 중단을 요청했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “무관용 원칙에 따라 형법상 사기 및 사기 미수, 저작권법 위반, 정보통신망법 위반, 부정경쟁방지법 위반 등 혐의로 형사 고소 및 민사 소송을 포함한 모든 법적 조치를 착수할 예정”이라며 “쯔양은 어떤 경우에도 개인 계좌로 후원을 요청하거나 금전을 요구하지 않는다”고 강조했다.&lt;br&gt;&lt;br&gt;사칭 계정에는 쯔양 유튜브 계정과 똑같은 프로필 사진이 등록돼 있고, 쯔양이 공개했던 영상과 사진이 무단으로 게재돼 있다. 여기에 ‘쯔양 불우이웃돕기 성금 모금 계좌’라는 문구와 함께 은행 계좌번호가 적혀 있다.&lt;br&gt;&lt;br&gt;쯔양이 사칭 사기에 이용된 건 이번이 처음은 아니다. 앞서 자신을 쯔양 또는 촬영팀 관계자라고 소개한 사칭범이 음식점 등에 전화해 고가의 와인과 그 대금을 선입금하고 요구한 일명 ‘노쇼 사기’ 사례가 있었다. 당시에도 쯔양 측은 “모든 공식적인 업무 협의 및 진행은 채널에 등록된 공식 이메일을 통해서만 이루어진다”며 주의를 당부했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코레일, 열차 출발 30분 전까지 승차권 무료 변경 가능해진다</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/03/LERHDOVQDFBYZECPGLVP4ABPRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/03/LERHDOVQDFBYZECPGLVP4ABPRY/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 06:06:21 +0000</pubDate>
+      <content:encoded>출발 30분 전까지는 위약금 없이 열차 출발 시간을 앞당기거나 늦출 수 있게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBGPUUL645JXZAWQXDXRMQ3TMI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 서울역에서 열차를 이용하고 있는 시민들의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국철도공사(코레일)는 3일 ‘승차권 변경 서비스’의 적용 시간과 범위를 대폭 확대해 위약금 부담을 줄였다고 밝혔다. &lt;br&gt;&lt;br&gt;그동안 승차권 변경은 동일 구간의 당일 열차에 한해, 출발 3시간 전까지만 가능했다. 출발 3시간 이내 승차권을 변경하려면 기존 승차권을 환불한 뒤 다시 구매해야 했고, 이 과정에서 고객은 위약금을 내야 했다.&lt;br&gt;&lt;br&gt;이젠 열차 출발 30분 전까지는 출발 시각 이전 또는 이후 열차로 위약금 없이 시간 변경이 가능해진다. 열차 시간 변경은 ‘코레일톡’ 앱에서 할 수 있다.&lt;br&gt;&lt;br&gt;변경할 수 있는 열차 범위도 확대됐다. 기존에는 승차 당일 열차로만 변경할 수 있었지만, 앞으로는 동일 구간이라면 승차일 기준 앞뒤 7일 이내에 운행하는 열차 중에서 자유롭게 선택할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“6·27 대출 규제로 내집 마련 막혀”… 50대 맞벌이 가장, 국가 상대 손배소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/03/XAT3FWBPQFFQ3MNNQMH4SBNRKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/XAT3FWBPQFFQ3MNNQMH4SBNRKQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 06:02:53 +0000</pubDate>
+      <content:encoded>50대 맞벌이 가장이 지난해 6·27 대출 규제 시행 이후 주거 마련에 큰 차질을 빚었다며 국가 등을 상대로 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, A(50)씨는 지난달 29일 서울중앙지법에 국가와 이재명 대통령을 상대로 2000만원 상당의 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PKEFLM2EVMKBCCTSH2BMWUS44.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 서울 강남, 서초 일대 아파트 단지의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5살과 1살 자녀를 둔 맞벌이 가정인 A씨 부부는 지난해 9월 신혼부부 특별공급분 신생아 우선공급분 청약에 당첨돼 분양가 18억6190만원의 아파트 계약을 체결했다. 이후 계약금과 중도금 일부를 납부했지만, 오는 26일 잔금일을 앞두고 자금 마련이 막혔다. &lt;br&gt;&lt;br&gt;지난해 6월 27일 정부가 수도권 주택 구입 시 주택 담보 대출을 6억원까지로 제한하는 부동산 대책을 발표하면서 이를 초과하는 대출이 사실상 차단됐기 때문이다.&lt;br&gt;&lt;br&gt;A씨는 소장에서 “잔금을 내지 못하면 계약이 무산돼 앞으로는 청약 제도를 통해 집을 마련할 수 없게 되고, 현재 살고 있는 집도 새로운 세입자가 들어올 예정이어서 거주할 곳마저 잃게 된다”고 했다. 이어 “정부가 규제를 전격 시행하면서 향후 실수요자, 서민·취약계층 등을 배려해 나갈 수 있도록 유도해 나갈 방침이라고 했지만 이후 더 강력한 규제 이외에 실수요자 등에 대한 배려가 전혀 없었다”고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 정부의 6·27 대출 규제가 명확한 법적 근거 없이 시행돼 주거권 박탈 위기에 놓였고, 이로 인한 정신적 고통이 크다며 소송을 제기한 이유를 밝혔다. 또 해당 규제가 개별 행정기관 차원을 넘어 대통령의 정책적 의중 아래 추진된 것으로 보인다며 대통령을 상대로도 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘서부지법 난동 배후’ 혐의 전광훈 구속 기소</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/5FSGVGE3RJHSTLUG23CKDVGRKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/5FSGVGE3RJHSTLUG23CKDVGRKQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 05:45:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDCN3CG5STSNZTGJSTCYZRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 난동 사태의 배후로 지목돼 구속된 전광훈 사랑제일교회 목사가 지난달 15일 서울 마포구 서부지방법원에서 구속적부심사를 마친 후 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태의 배후로 지목된 전광훈 사랑제일교회 목사가 구속 상태로 재판에 넘겨졌다. 서울서부지검 형사5부(부장검사 김진혁)는 3일 전 목사를 특수건조물침입교사, 특수공무집행방해교사 등의 혐의로 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;전 목사는 서부지법 사태 전날인 지난해 1월 18일 서울 지하철 광화문역 인근 집회에서 “서부지법으로 모여 윤 대통령 구속영장을 저지하기 위해 국민저항권을 발동해야 한다”고 발언한 혐의를 받는다. 이튿날 새벽 윤 대통령에 대한 구속영장이 발부되자, 서부지법 인근에서 시위를 벌이던 지지자 63명이 청사에 침입해 기물을 파손하는 등 난동을 벌였다. &lt;br&gt;&lt;br&gt;검찰은 전 목사가 교회 신도 등에게 ‘국민저항권’ 발동을 주장하며 다수의 사람들을 서부지법에 침입하도록 부추기고, 이를 저지하던 경찰관들을 폭행하게 했다고 보고 있다. 또 전 목사는 집회 신고 범위를 넘어 참가자들을 서부지법으로 이동하게 한 혐의(집시법 위반)와, 서부지법 인근 집회를 통해 왕복 8차선의 마포대로를 점거한 혐의(일반교통방해)도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남원시, 모노레일 소송 판결 수용… “지방채 없이 505억 상환”</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/02/03/QORGKOQZGZCZTP5WZ5MY2KXP7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/03/QORGKOQZGZCZTP5WZ5MY2KXP7Y/</guid>
+      <dc:creator>남원=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 05:43:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVSY6MVTPJA7DJJSHCKQHZUJGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남원 춘향테마파크에 있는 모노레일./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 남원시가 춘향테마파크 모노레일 민간 개발 사업 손해배상 소송에 대한 대법원의 상고 기각 판결을 수용하고, 배상금 505억원을 지방채 발행 없이 자체 기금으로 상환하겠다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;최경식 남원시장은 이날 시청 회의실에서 기자회견을 열고 대법원 판결에 따른 공식 입장과 재정 피해 최소화를 위한 후속 대책을 발표했다. 최 시장은 “대법원 판결을 겸허히 수용한다”며 예산 절감액을 활용한 조기 상환을 골자로 하는 ‘4대 추진 계획’을 공개했다.&lt;br&gt;&lt;br&gt;핵심 사안인 505억원 규모의 배상 재원은 ‘통합재정안정화기금’을 통해 마련된다. 시는 별도의 지방채 발행 없이 그동안 예산 절감으로 확보한 기금을 투입해 재정 부담을 최소화할 계획이다. 특히 시의회와 협의해 관련 예산을 신속히 편성함으로써, 판결 확정 이후 발생할 수 있는 불필요한 이자 지출을 선제적으로 차단할 방침이다.&lt;br&gt;&lt;br&gt;재정 손실 보전을 위한 법적 대응도 병행한다. 시는 시설물 소유주인 남원테마파크를 상대로 구상권을 청구하고, 관련 채권 정리 등 시의 재정적 피해를 복구하는 데 행정력을 집중할 예정이다.&lt;br&gt;&lt;br&gt;또한, 현재 시행사가 소유한 모노레일 등 관광 시설물에 대한 인수 절차에 착수한다. 정밀 안전 점검과 리뉴얼 과정을 거쳐 시설 운영을 정상화할 방침이다. 최 시장은 “향후 대규모 민자 사업 추진 시 전문 인력을 통한 타당성 검증을 의무화하는 등 검증 시스템을 전면 재정비해 유사 사례 재발을 막겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴대전화 전자파 ‘발암 논란’ 종결?… “연관성 없다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/P3JYIMB3QVAINPELT5HUV7IGPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/P3JYIMB3QVAINPELT5HUV7IGPQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 05:41:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWYOGQ65GZEFVMABK6OVHPNNOU.png"&gt;&lt;figcaption&gt;&lt;small&gt;연구진이 장기 전자파 노출 동물실험을 통해 수집된 주요 데이터를 분석하며 발암 연관성 검토 결과를 논의하고 있다. /ETRI&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴대전화 전자파 노출이 뇌종양과 심장종양 발생과 관련이 없다는 한·일 공동 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;3일 한국전자통신연구원(ETRI)은 일본과 함께 대규모 국제공동 동물실험을 수행한 결과, 휴대전화에서 발생하는 무선주파수(RF) 전자파 노출과 뇌·심장 종양 발생 간 유의미한 관련성을 발견하지 못했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 ETRI는 일본 연구진과 함께 ‘휴대전화 RF 전자파의 발암성 및 유전독성에 관한 한·일 공동연구’를 기획하고, 2019년부터 장기 동물실험에 나섰다. 미국 국립보건원(NIH) 산하 국립독성연구프로그램(NTP)과 같은 연구 시스템을 적용하고, OECD 독성 시험 가이드라인에 근거한 공동 규정을 수립해 한·일 양국이 동일한 실험동물·사료·장비, 동일한 전자파 노출 환경 등 통일된 조건에서 연구를 수행했다.&lt;br&gt;&lt;br&gt;실험은 RF 전자파 노출군, 허위 노출군, 케이지 대조군 등 3개 그룹으로 구성됐다. 각 군당 70마리의 수컷 쥐를 대상으로 생애 전 주기인 104주 동안 실험을 진행했으며, 전자파 노출군에는 인체 안전기준 설정에 근거가 된 4W/㎏ 강도의 900MHz CDMA 전자파를 노출했다.&lt;br&gt;&lt;br&gt;연구 결과, 전자파 노출에 따른 체온·체중·사료 섭취량 변화 양상은 한·일 양국에서 전반적으로 유사하게 나타났다. 종양 발생 분석에서도 한국은 모든 실험군의 종양 발생률이 자연 발생 범위였으며, 심장·뇌·부신 등 주요 장기에서 RF 노출군과 허위 노출군 간 통계적으로 유의미한 차이가 없었다. 일본 역시 종양 발생률과 발생 시점에서 실험군 간 차이가 없었고, 주요 표적 장기 종양은 낮은 발생률을 보였다.&lt;br&gt;&lt;br&gt;이번 연구는 휴대전화 전자파 인체 안전기준의 근거가 된 노출 강도에서 발암성 여부를 확인하고, 2018년 NTP가 6W/㎏ 수준의 900MHz CDMA 전자파에 평생 노출된 수컷 쥐에서 뇌·심장·부신 종양 증가를 보고한 결과를 과학적으로 검증하기 위해 추진됐다. 당시 세계보건기구(WHO) 등 국제기구가 해당 연구의 재현성·타당성 검증을 위한 추가 연구 필요성을 권고한 점도 이번 연구의 배경이 됐다.&lt;br&gt;&lt;br&gt;결론적으로 한·일 양국 연구팀은 모두 CDMA 휴대전화 전자파의 장기 노출과 뇌·심장 및 부신 종양 발생 간 유의미한 관련성을 확인하지 못했다. 책임연구자인 아주대 의대 안영환 교수는 “이번 연구는 인체 보호 기준의 근거가 되는 노출 수준에서 NTP가 보고한 종양 증가 결과가 재현되지 않았다는 점에서 의미가 있다”며 “휴대전화 전자파에 대한 과도한 우려를 해소하는 데 도움이 될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사랑의열매 새 회장에 윤여준 전 한경부 장관</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/03/SIPWJVSPKNC3ZFQX7MYKLS6UTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/03/SIPWJVSPKNC3ZFQX7MYKLS6UTI/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 06:06:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYCQDBDY4ZCWNKJOIBTOOFCMTQ.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;사랑의열매 사회복지공동모금회 제12대 회장으로 추대된 윤여준 전 환경부 장관./사랑의열매&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑의열매 사회복지공동모금회가 12대 회장에 윤여준 전 환경부 장관을 이사회 만장일치로 추대했다고 3일 밝혔다. 위임식은 오는 5일 오후 3시 사랑의열매 대강당에서 열린다. 임기는 3년이다.&lt;br&gt;&lt;br&gt;윤 회장은 1939년 충남 논산 출생으로 단국대 정치학과를 졸업하고, 동아일보와 경향신문에서 언론인으로 활동했다. 1977년 주일본 한국 대사관 공보관으로 공직에 입문한 후, 주싱가포르 대사관 공보관, 국회의장 공보비서관, 대통령비서실 대변인 등을 역임한 후 1997년 4월 환경부 장관으로 입각해 16대 국회의원과 여의도연구소장을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, ‘김현지 부속실장 명예훼손’ 보수 매체 압수수색</title>
       <link>https://www.chosun.com/national/national_general/2026/02/03/UJNLGFMPQRHH7GODCMVU6RYTAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/UJNLGFMPQRHH7GODCMVU6RYTAM/</guid>
@@ -737,78 +924,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2H44IBCKS5EKBEEOV3FMJHIYSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두바이 쫀득 쿠키 최초 개발자인 김나라 제과장 ./SBS '생활의 달인'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘두쫀쿠’(두바이 쫀득 쿠키)를 최초 개발해 시장에 내놓은 것으로 알려진 ‘몬트쿠키’의 김나라 제과장이 방송을 통해 두쫀쿠 개발 뒷얘기를 소개했다. 두쫀쿠는 초콜릿을 넣은 마시멜로와 피스타치오, 중동에서 먹는 면인 카다이프를 이용해 만든 디저트로 오픈런 현상이 일고 외신도 주목할 만큼 인기를 끌고 있다.&lt;br&gt;&lt;br&gt;김 제과장은 지난달 26일 방송된 SBS ‘생활의 달인’에 출연해 두쫀쿠를 개발하게 된 계기를 밝혔다. 해군 항공 부사관 출신인 그는 군 복무 시절 선후임 관계로 인연을 맺은 몬트쿠키 이윤민 대표와 함께 전역 이후 디저트 시장에 뛰어들었다. 그는 당초 쿠키에 마시멜로가 코팅된 ‘쫀득 쿠키’를 선보이며 고객들에게 좋은 반응을 얻었다고 한다. &lt;br&gt;&lt;br&gt;그러다 두바이 초콜릿 열풍이 불던 작년 4월 한 단골손님이 두바이 스타일의 쫀득쿠키를 만들어 달라고 요청했다. 이에 그는 수개월에 걸쳐 겉은 쫀득하고 속은 피스타치오와 카다이프를 넣어 고소하고 바삭한 현재의 두쫀쿠를 완성했다. &lt;br&gt;&lt;br&gt;이 두쫀쿠는 소셜미디어를 통해 입소문을 타며 대박을 터뜨렸다. 김 제과장은 50명에 이르는 제조 직원과 함께 하루 3만개 이상의 두쫀쿠를 만들고 있다. 하루 매출은 1억3000만원 수준이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBVI4GZIAVF5TJYPTEKAAIKHZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SBS '생활의 달인'에 나온 두쫀쿠./SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두쫀쿠가 큰 인기를 끌자 다른 가게에서도 김 제과장의 조리법을 바탕으로 한 쿠키를 팔며 수익을 내고 있다. 일각에서는 특허라도 냈어야 하는 것 아니냐는 말이 나오지만 김 제과장은 ‘두쫀쿠’ 명칭이나 조리법을 독점하고 싶은 생각은 없다고 했다. &lt;br&gt;&lt;br&gt;그는 “과정도 단순하고 누구나 만들 수 있다고 생각했는데 이렇게까지 많은 사랑을 받을 줄 몰랐다”며 “많은 가게에서 본인들만의 스타일대로 두쫀쿠가 여러 형태로 많이 나왔다. 다 같이 유행을 만들어줘서 이런 사랑을 받을 수 있었다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;김 제과장은 이날 방송에서 조리법을 공개했다. 그는 바삭한 식감을 살리기 위해 카다이프에 현미를 넣어 오븐에 여러 번 굽는다고 한다. 이후 카다이프에 화이트 초코를 섞어 단맛을 더하고 피스타치오 스프레드까지 넣으면 쿠키의 속재료가 완성된다. 겉을 감싸는 마시멜로 피는 버터와 마가린을 이용해 약불에서 천천히 녹인다. 마시멜로를 너무 많이 녹이면 오히려 딱딱해진다고 한다. 이후 코코아 가루와 탈지분유를 넣어 쫀득함을 살린다고 김 제과장은 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 채 상병 수사 기록 회수 관여한 간부 소환 조사</title>
-      <link>https://www.chosun.com/national/incident/2026/02/02/LIKRIDKM25AK3JYQDV6TK5X4F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/02/LIKRIDKM25AK3JYQDV6TK5X4F4/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 05:26:21 +0000</pubDate>
-      <content:encoded>해병 특검 인계 사건을 수사하는 경찰이 사건 당시 경찰로 이첩된 수사 기록을 국방부가 회수하는 데 관여한 의혹을 받는 경찰 관계자를 2일 소환해 조사했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4DGOBVGM4DAMJWHE4DMZBZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 국가수사본부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 3대 특검 특별수사본부(본부장 김보준)는 당시 국가수사본부 강력범죄수사과장이었던 이모 경무관을 이날 오전 10시부터 참고인 신분으로 소환해 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;이 경무관은 2023년 8월 박정훈 전 해병대 수사단장이 이끌던 해병대 수사단이 경북경찰청에 이첩한 채 상병 순직 사건 수사 기록을 국방부가 회수하는 과정에 관여했다는 의혹을 받는다. 당시 이시원 전 대통령실 공직기강비서관은 비서관실에 근무하던 박모 총경을 통해 경찰에 이첩된 수사 기록을 회수할 방안을 검토하도록 지시했다. &lt;br&gt;&lt;br&gt;이에 박 총경이 당시 경찰청 국수본 수사과장이던 이 경무관에게 연락해 “공직기강비서관 지시”라며 “국방부에서 기록 반환을 요청하고 있으니 검토해 달라”고 했고, 이 경무관이 경북청 수사 책임자에게 국방부의 기록 회수에 협조해 달라고 요청했다는 것이다.&lt;br&gt;&lt;br&gt;앞서 채 상병 순직 관련 외압 의혹을 수사한 이명현 해병 특검은 윤석열 전 대통령의 지시로 국가안보실·공직기강비서관실·국방부검찰단·국가수사본부·경북경찰청 등이 채 상병 순직 사건 기록 회수에 불법적으로 동원됐다고 봤다. 이에 따라 윤 전 대통령과 조태용 전 국가안보실장, 이종섭 전 국방부 장관 등 기록 회수에 관여한 6명을 직권남용·공용서류무효 혐의로 기소했다. &lt;br&gt;&lt;br&gt;다만 당시 특검은 이 전 비서관에 대해선 직권 면책 결정 뒤 기소유예 처분했다. 이 전 비서관에게 연락받은 후 경북경찰청에 협조를 요청한 박 총경과 이 경무관에 대해서도 참고인 조사만 진행했다. 이후 특검 수사가 종료됐고 경찰이 이 사건을 넘겨받아 수사하고 있는 것이다. 경찰은 두 사람에 대한 조사를 마친 후 입건 여부를 검토할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘1심 징역 1년 8개월’ 김건희 여사, 항소장 제출... 통일교 청탁·금품 수수 부인</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/02/4ZAACCCR3RHG3GBYB2666QZGVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/02/4ZAACCCR3RHG3GBYB2666QZGVI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 05:22:12 +0000</pubDate>
-      <content:encoded>통일교 청탁·금품 수수 의혹 일부가 유죄로 인정돼 1심에서 징역 1년 8개월을 선고받은 김건희 여사 측이 2일 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4GMZDGGBQWCMLBGI3DMNBYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난달 28일 서울중앙지법 311호 형사중법정에서 1심 선고를 받고 있는 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법조계에 따르면, 김 여사 측은 2022년 7월 ‘건진 법사’ 전성배씨를 통해 통일교로부터 청탁과 함께 6220만원짜리 그라프 목걸이, 1271만원짜리 샤넬백 등을 수수한 혐의가 유죄로 인정된 데 대해 항소했다. 김 여사 측은 샤넬백을 받았다는 사실 자체는 인정하나 통일교 현안 등 청탁은 전달받은 바가 없다는 입장이다. 또 목걸이는 샤넬백과 달리 받은 사실 자체가 없다고 주장한다.&lt;br&gt;&lt;br&gt;구체적으로 김 여사 측은 “통일교 현안이라고 하는 UN 제5사무국 한국 유치는 회원국들의 정치적 이해관계에 따라 UN 총회에서 표결로 결정되는 사안”이라며 “윤영호(전 통일교 세계본부장)씨의 표현대로, ‘가방 하나로 해결될 수 있는 일이 아닌 것’”이라고 했다. 또 목걸이에 대해선 “김 여사는 이전에 통일교 측으로부터 선물을 받은 뒤엔 통상적인 감사 메시지를 보냈던 반면, 문제의 목걸이 이후에는 어떠한 응답이나 연락도 없었다”고 했다. 목걸이가 실제로 전달되지 않았을 ‘배달 사고’ 가능성이 있다는 얘기다. 김 여사 측은 “윤씨는 해당 선물이 단순히 당선과 취임을 축하하기 위한 의례적 성격임을 분명히 했다”며 “항소심에서 법리적·사실적으로 철저히 다퉈나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 김 여사 측은 “재판부의 엄중한 지적을 겸허히 수용하고 있고, 일부 부적절한 처신에 대해선 다시 한번 국민 여러분께 깊이 사과드린다”고 했다. 또 “항소심에서는 특검이나 정치권의 선동·왜곡이 아닌, 증거와 법리에 기초한 공명정대한 판단이 다시 한 번 확인되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사27부(재판장 우인성)는 지난달 28일 김 여사의 도이치모터스 주가 조작 가담 및 ‘명태균 여론조사’ 관련 혐의에 대해 무죄를 선고했다. 통일교 청탁·금품 수수 의혹 중 2022년 4월 샤넬백 1개를 받은 혐의도 무죄로 봤다. 특검은 무죄 부분에 대한 1심 법원의 판단에 심각한 사실오인 및 법리오해의 위법이 있고, 유죄 부분에 대해서도 형이 지나치게 가볍다며 지난달 30일 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>나이 많다고 채용 불이익 준 신한은행 관계자들... 헌재 “처벌 조항은 합헌”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/02/722SJWXINBDAZJEBJJHGYICMCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/02/722SJWXINBDAZJEBJJHGYICMCM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 03:00:00 +0000</pubDate>
-      <content:encoded>2013~2016년 사이 있었던 ‘신한은행 채용 비리’에 연루돼 일부 유죄가 확정된 전직 인사·채용 담당자들이 합리적 이유 없이 나이가 많다는 이유로 불이익을 줄 경우 처벌하도록 한 법조항에 대해 위헌 여부를 심리해 달라며 헌법소원을 냈으나 합헌이라는 헌법재판소 판단이 나왔다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 헌재는 지난달 29일 전직 신한은행 인사·채용 담당자 김모씨와 이모씨 등이 낸 고령자고용법에 대한 헌법소원에서 재판관 7(합헌)대 2(위헌)로 합헌 결정을 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTQMJWHE4GCMZYGQ2GCN3BHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨 등은 신입사원 모집 과정에서 지원자 연령이 자체 기준을 초과한 경우 일부 예외를 제외하고 모두 서류 전형에서 탈락시킨 것으로 조사됐다. 이 기준을 넘지 않았더라도 연령별로 차등을 둬 점수를 매겼다고 한다.&lt;br&gt;&lt;br&gt;김씨와 이씨 등은 ‘합리적인 이유 없이 연령을 이유로 근로자가 되려는 사람을 차별해서는 안된다’는 ‘고용상 연령차별 금지 및 고령자 고용 촉진에 관한 법률’(고령자고용법) 규정의 의미가 불분명해 죄형법정주의의 명확성 원칙에 위배된다고 주장했다. &lt;br&gt;&lt;br&gt;그러나 헌재는 ‘합리적인 이유’의 사전적 의미는 ‘어떠한 결론이나 결과에 이른 근거가 이론이나 이치에 합당한 것’이고, ‘연령을 이유로 차별’의 사전적 의미는 ‘사람이 살아온 햇수에 따라 등급이나 수준 따위의 차이를 두어서 구별하는 것’을 의미한다고 봤다. 이어 “대법원과 고용노동부 등은 각 구절의 의미에 대해 통일된 기준이나 의미를 일관되게 설명하고 있다”고 했다. 구체적인 의미를 충분히 이해할 수 있기 때문에 명확성 원칙에 위배되지 않는다는 것이다. 헌재는 고령자고용법 조항에 의해 인사권자가 채용활동 등 일부 자유를 제한받는 측면이 있으나, 차별 금지라는 공익이 매우 중대한 만큼 법익의 균형성도 갖췄다고 봤다.&lt;br&gt;&lt;br&gt;다만 소수의견을 낸 김상환 헌재소장과 김복형 재판관은 ‘합리적인 이유’라는 고령자고용법 조항 표현에 대해 “추상적인 문언의 해석만으로 판단 기준이나 방향을 알아내기 어렵고, 법집행기관에 지나치게 넓은 재량의 여지를 부여하고 있다”며 명확성 원칙에 위배된다고 판단했다.&lt;br&gt;&lt;br&gt;한편 청구인들은 업무방해죄를 구성하는 ‘위계’ ‘업무’ ‘방해’ 등 용어의 의미가 불분명하다며 헌법소원도 냈으나, 헌재는 죄형법정주의의 명확성 원칙에 위배되지 않는다며 재판관 전원일치 의견으로 합헌 판단을 내렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘설탕·밀가루 등 생필품 담합’ 관련자 52명 기소...총 10조원대 규모</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/02/WRD4PRLDVRFLBATZ75KJKKMGUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/02/WRD4PRLDVRFLBATZ75KJKKMGUA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 01:30:00 +0000</pubDate>
-      <content:encoded>검찰이 설탕, 밀가루 등 생활필수품을 담합한 업체와 관계자들을 무더기로 재판에 넘겼다. 검찰 조사 결과 이들이 저지른 담합 규모는 10조원에 가까운 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZDCOJSGU4GGZRXMEZDQOJXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검에서 검찰 깃발이 휘날리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 2일 일명 ‘서민경제 교란사범’에 대한 수사 결과를 발표하며 이 같이 밝혔다. 검찰은 작년 9월부터 지난 1월까지 약 5개월 간 관련 범죄에 대해 집중 수사를 벌였다.&lt;br&gt;&lt;br&gt;검찰은 “빵·라면 등 국민 식생활의 근간을 이루는 원재료인 설탕·밀가루의 가격 담합으로 식품 물가 전반을 뒤흔들고, 전기료의 가파른 상승으로 인해 가정경제를 위협하는 담합의 전모를 밝혔다”며 “대표이사 및 고위급 임원을 포함한 총 52명에에 대해 6명을 구속 기소, 46명을 불구속 기소했다”고 했다. 소속 직원이 위법 행위를 하면 법인도 함께 처벌하는 양벌규정에 따라 16개 법인도 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;밀가루 담합과 관련해, 검찰은 6개 제분 업체 대표이사를 포함한 20명을 불구속 기소했다. 이들은 총 5조 9913억원에 달하는 담합을 벌인 것으로 조사됐다. 앞서 검찰은 대한제분·사조동아원의 전현직 대표이사 등 임직원 4명에 대한 구속영장을 청구했지만 지난달 23일 법원에서 기각됐다. 검찰에 따르면 이들의 담합으로 밀가루 가격은 1㎏당 649원(2021년 1월)에서 924원(2023년 1월)으로 최고 42.4%까지 인상됐고, 이후 가격이 다소 내려갔지만 여전히 담합 전에 비해 22.7% 인상 수준의 가격을 유지했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXLI2S37KBJ7PKXXC223M6WW3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대형마트에 대한제분 밀가루 제품이 진열돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 앞서 작년 11월엔 설탕 담합과 관련해 CJ제일제당·삼양사 전직 대표급 임원 2명을 구속 기소하고, 11명을 불구속 기소했다. 이들 업체와 대한제당 등 총 3개 제당 업체가 벌인 담합의 규모는 총 3조 2715억원으로 조사됐다. 검찰은 이들이 설탕의 원재료인 원당가가 상승할 때는 설탕 가격을 곧바로 올리면서, 원당가가 하락할 때는 설탕 인하 폭을 조금만 낮추는 식으로 막대한 이익을 거뒀다고 봤다.&lt;br&gt;&lt;br&gt;한국전력공사가 발주한 설비 장치 입찰에서 7년 6개월 간 6776억원대 담합을 벌인 관계자들도 지난달 20일 공정거래법 위반 혐의로 재판에 넘겨졌다. 효성중공업·현대일렉트릭·LS일렉트릭·일진전기 소속 임직원 4명은 구속 기소됐고, 15명은 불구속 기소됐다.&lt;br&gt;&lt;br&gt;일부 업체는 검찰 수사에 협조하는 ‘리니언시(자진 신고자 감면 제도)’를 신청해 기소를 면했다. 다만 검찰은 “재판 경과에 따라 진술 태도가 달라지는 등 사정 변경이 있다면 다시 수사가 재개될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMCTPYEBZVPGFASJ774IH56XSI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 공정거래조사부 나희석 부장검사가 2일 서울 서초구 서울고검에서 서민경제 교란사범 집중 수사 결과에 대해 브리핑하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 담합 관련자들이 담합을 꾀하고 증거를 인멸한 정황도 구체적으로 확보했다. 검찰에 따르면, 이들은 공정거래위원회를 ‘공 선생’이라고 칭하며 공정위의 감시망을 피해 담합하는 방법을 모의했다. 예컨대 주요 제분업체 관계자들은 통화에서 “강력분·박력분은 4000원, 중력분은 3000원을 올리자”라고 담합한 뒤, “공 선생(공정거래위원회)한테 들키면 안 되니까 앞으로는 연락을 자제하자”라고 말한 것으로 알려졌다. 이들은 밀가루 가격 인상 소식을 거래 업체에 통보하는 순서를 ‘사다리 타기’를 통해 정한 것으로도 조사됐다. &lt;br&gt;&lt;br&gt;또 검찰 수사가 시작되자 설탕 업체들은 압수 수색에 대비해 각종 자료에 대한 증거 인멸에 나섰는데, 이때 담합 의심을 피하기 위해 ‘자기가 올린 건 자기가 지우자’라고 말한 것으로도 조사됐다. 검찰 관계자는 이같은 증거를 공개하면서 “범행이 얼마나 노골적이었고, 담합 업체들이 얼마나 법 무시적 행태로 일관하고 있는지를 보여주는 증거”라고 설명했다.&lt;br&gt;&lt;br&gt;검찰은 “국민 생필품 담합으로 인한 식료품 물가와 전기료 상승 피해는 고스란히 소비자인 국민들에게 전가된 사실을 확인했다”며 “이번 기소로 ‘담합 범행으로 서민경제를 교란시킨 민생침해 사범은 반드시 엄벌한다’는 강력한 메시지를 시장에 전파했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카카오·네이버 폭파 협박… 경찰, ‘허위 신고’ 10대 용의자 3명 특정</title>
-      <link>https://www.chosun.com/national/incident/2026/02/02/7B7XUGTZNNAJBF3CIV5FHMUDZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/02/7B7XUGTZNNAJBF3CIV5FHMUDZI/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 03:41:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오 등 대기업을 상대로 한 폭파 협박 사건을 수사 중인 경찰이 ‘스와팅(swatting·허위 신고)’ 범죄의 유력 용의자로 10대 3명을 특정해 조사하고 있다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 2일 정례 간담회에서 “카카오 사건과 관련해 3명의 용의자를 압축했다”며 “이들이 총 11건의 범행을 모두 저질렀는지는 추가 수사가 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난해 12월 15일부터 23일까지 카카오 CS센터 게시판 등에 폭발물 설치를 예고하는 글이 11차례에 걸쳐 게시됐다. 협박 대상에는 카카오를 비롯해 네이버, KT, 삼성전자 등 대기업이 포함됐다. 글 작성자들은 매번 타인의 명의를 도용해 범행을 이어갔다.&lt;br&gt;&lt;br&gt;경찰은 최근 수사를 통해 A군 등 10대 3명을 유력 용의자로 특정했다. 이들은 메신저 앱 ‘디스코드’에서 활동하던 이들로, 직접 스와팅 범행을 하거나 다른 이용자들에게 이를 권유해 온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 카카오 사건 외에도 경기남부 지역에서 발생했으나 아직 해결되지 않은 스와팅 사건 1건을 추가해 모두 12건을 수사 중이다. 추가 사건은 지난해 12월 31일 토스뱅크를 상대로 폭파와 칼부림을 예고하며 “100억원을 입금하라”고 요구한 사건이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 특정된 용의자 중 토스뱅크 사건에 관여한 인물이 있을 가능성을 두고 압수물 분석과 디지털 포렌식 등을 진행하고 있다”며 “이들은 앞서 구속된 디스코드 내 스와팅 가담자들과도 일정한 관계를 맺어온 것으로 파악됐다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 6~8일 경찰은 ‘경기 광주 초월고 정수기에 독을 탔다’는 글을 게시한 촉법소년, 오세훈 서울시장 살해 협박과 장애인단체 테러 글을 쓴 20대, 고속철도역과 지상파 방송국 폭파를 협박한 10대 등을 잇따라 검거했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>체포 영상에 음란물까지… AI로 허위 영상물 만든 30대 유튜버 구속</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/02/3I4JQYIFPBHWPDQMY55PGQ3W2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/02/3I4JQYIFPBHWPDQMY55PGQ3W2I/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 03:56:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFXUL2PFVBDBHP766PKEAZIZW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 AI를 통해 만든 허위 영상물./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 112신고 현장 출동 장면, 음란물 등 AI로 허위 영상물을 제작해 유통 및 판매한 유튜버가 구속됐다.&lt;br&gt;&lt;br&gt;경기북부경찰청은 전기통신기본법 위반, 자본시장법 위반, 정보통신망법 위반 혐의로 30대 A씨를 구속 송치했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 작년 8월부터 챗 지피티 등을 통해 허위 영상물을 제작, 유튜브 채널 ‘순찰 24시’에 게시해 유포한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 처음엔 뉴스를 참고해 사회적 이슈가 되는 내용을 중심으로 제작했다. 이후 영상물 시나리오를 각색했고, 여러 개의 영상을 만들어 각도, 상황 등 가장 나은 영상을 최종본으로 정했다. &lt;br&gt;&lt;br&gt;그는 자극적이고 사람들이 관심을 가질만 한 것을 영상물로 제작한 것으로 알려졌다. 조회수와 구독자 수를 늘려 채널에 광고를 넣고 수익을 얻기 위함이었다.&lt;br&gt;&lt;br&gt;A씨가 만든 영상엔 경찰이 112신고를 받고 현장에 출동해 과잉 진압을 하는 것처럼 꾸민 것도 있었다. 해당 영상들은 경찰의 ‘바디캠’ 시점으로 제작된 것으로 중국인에게 테이저건을 쏘거나 인터넷 BJ를 과하게 진압하는 등의 내용이다. 특히 경찰 출동 허위 영상물의 경우 실제로 경찰청에 과잉진압 민원이 들어가기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이렇게 A씨가 만든 허위 영상은 총 54개. 유튜브, 인스타그램, 틱톡 등 SNS에 게시했고 영상 조회수는 1개당 1000만회를 넘기기도 했다. &lt;br&gt;&lt;br&gt;또 A씨는 작년 9월부터 지난달까지 AI를 이용해 해외 유료 구독형 SNS 채널을 운영, 일정 구독료를 받고 41회에 걸쳐 음란물을 제작 및 판매하기도 했다. &lt;br&gt;&lt;br&gt;음란물 영상의 경우 실존 인물이 아닌 허위 인물을 만들어 낸 것으로 파악됐다. 경찰은 허위 음란물 영상을 통해 얻은 수익을 정확하게 조사 중이다.&lt;br&gt;&lt;br&gt;이 사건 외에도 A씨는 무허가 사설 선물거래 HTS, 해외선물 투자리딩방 운영에 가담했다. AI를 통해 기업의 허위 수익 전망 등을 만들어 리딩방에 배포해 회원들의 투자 손실을 유도했다. &lt;br&gt;&lt;br&gt;그는 사업 광고 의뢰도 받았다. 유튜브 썸네일은 1건당 1만원, 허위 영상물은 1건당 20만원 등으로 가격을 매겼다. 이러한 방법으로 A씨는 3000만원 상당의 부당이득을 취득한 것으로 확인됐다. 투자리딩방의 정확한 피해자 수와 공범은 아직까지 파악되지 않았다.&lt;br&gt;&lt;br&gt;A씨는 AI 전문직에 종사한 것은 아니지만 IT 지식을 어느 정도 갖추고 있었고, 허위 영상물을 제작하면서 AI 관련 지식을 키운 것으로 알려졌다. A씨는 범죄 수익을 생활비 등에 사용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “영상을 통해 수익을 얻지 않았지만 시청자 입장에서 실제라고 인식할 수 있어 허위 영상물이라고 판단했다”며 “허위 영상물로 인해 피해자가 있는지 등 조사 중이다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 우도 렌터카 사고 “급발진 흔적 없고, 가속페달 작동”</title>
-      <link>https://www.chosun.com/national/regional/2026/02/02/JJX5POZGTBFKTESQSPZSRL3UCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/02/JJX5POZGTBFKTESQSPZSRL3UCI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 03:57:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPC2472FLRE4DET4OPH3HC2344.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 24일 제주 우도에서 60대 운전자가 몰던 흰색 스타리아 승합차가 천진항 대합실 건물과 전봇대를 들이받고 멈춰선 모습. 차량이 형체를 알아보기 어려울 정도로 파손됐다. 대합실의 콘크리트 계단도 일부 깨졌다. 주차돼 있던 전동 카트는 창문이 깨지고 찌그러졌다. /우도 주민 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 우도에서 14명의 사상자를 낸 렌터카 사고차량은 사고 직전까지 가속 페달이 작동된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;제주동부경찰서는 교통사고처리특례법 위반(치사상) 혐의로 60대 운전자 A씨를 검찰에 구속 송치했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 24일 오후 2시 47분쯤 제주시 우도면 천진항에서 승합차를 몰다 행인들을 잇따라 들이받아 3명을 숨지게 하고 자신을 포함해 11명을 다치게 한 혐의다.&lt;br&gt;&lt;br&gt;당시 A씨 등 6명이 탑고 있던 차량은 도항선에서 내린 직후 갑자기 약 150m를 돌진해 행인들을 치고 전신주를 들이받은 뒤 멈춰섰다. 이 사고로 차량 동승자 1명과 보행자 2명이 숨지고 A씨를 포함한 11명이 중경상을 입었다.&lt;br&gt;&lt;br&gt;사고 당일 병원에서 긴급체포된 A씨는 경찰 조사에서 “차량 RPM이 갑자기 올라갔고 그대로 앞으로 갔다”고 급발진을 주장했다.&lt;br&gt;&lt;br&gt;하지만 경찰이 국립과학수사연구원 등에 의뢰해 차량 정밀 감식을 진행한 결과 급발진 정황은 발견되지 않았다.&lt;br&gt;&lt;br&gt;특히 당시 속도와 브레이크 작동 여부, 엔진 회전수(RPM), 가속 페달, 핸들 각도 등이 기록되는 차량 사고기록장치(EDR) 분석 결과 사고 직전 5초 전부터 가속 페달이 작동한 것으로 나타났다.&lt;br&gt;&lt;br&gt;차량에 블랙박스가 설치되지 않았지만 경찰이 확보한 인근 방범카메라(CCTV) 영상에는 사고 당시 차량 브레이크등이 켜지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>통일교서 1억 수수 권성동, 1심 징역 2년 판결에 항소</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/02/VBOAGK5SRZCNVKZMSAJPHYLQCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/02/VBOAGK5SRZCNVKZMSAJPHYLQCQ/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 02:11:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3TINZRGM2GMNJXGMYTMMJRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 권성동 국민의힘 의원이 통일교로부터 불법 정치자금을 수수한 혐의 사건 1차 공판에 출석해 자리에 앉아 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교 측에서 불법 정치자금 1억원을 받은 혐의로 1심에서 징역 2년이 선고된 권성동 국민의힘 의원이 판결에 불복해 항소했다. 해당 의혹을 수사한 민중기 특별검사팀은 권 의원에게 징역 4년과 추징금 1억원을 구형한 바 있다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 권 의원 측은 선고 당일인 지난달 28일 사건을 심리한 서울중앙지법 형사27부(재판장 우인성)에 항소장을 제출했다.&lt;br&gt;&lt;br&gt;재판부는 정치자금법 위반 혐의를 받는 권 의원에게 징역 2년과 추징금 1억원을 선고했다. 재판부는 “권 의원이 2022년 1월 5일 통일교 전 세계본부장 윤영호씨로부터 1억원을 교부받은 사실이 인정된다”며 “국회의원은 양심에 따라 국가 이익을 우선해야 함에도 피고인은 통일교에서 1억원을 받아 국민의 기대와 헌법에 대한 책무를 저버렸다”고 설명했다.&lt;br&gt;&lt;br&gt;권 의원 측 변호인단은 선고 이후 “도저히 납득할 수 없다”며 항소하겠다고 밝혔다. 권 의원 측은 “법리 면이나 사실 판단도 모두 형사소송법이 정한 증거 법칙에 어긋난다”며 “항소심에서 이 판결의 오류를 바로잡겠다”고 했다.&lt;br&gt;&lt;br&gt;권 의원과 김건희 여사에게 각각 현금 1억원과 6220만원 상당의 그라프 다이아몬드 목걸이 등 금품을 건넨 혐의로 같은 재판부에서 재판을 받은 윤씨는 징역 1년 2개월을 선고받았다. 김 여사는 알선수재 혐의 중 일부만 유죄로 인정돼 징역 1년 8개월이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>마약 총책 잡고보니... 국내 공장 외국인 노동자였다 </title>
       <link>https://www.chosun.com/national/2026/02/02/IOBC53ZU7NGKDOHRXZVVMRU6H4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/02/02/IOBC53ZU7NGKDOHRXZVVMRU6H4/</guid>
@@ -816,42 +931,6 @@
       <description/>
       <pubDate>Mon, 02 Feb 2026 02:13:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4GIYLGHAYTMYJSGQYDIMLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 노동자들이 해외에서 대량의 마약을 밀수해 국내에 유통하다 적발됐다. &lt;br&gt;&lt;br&gt;진주경찰서는 해외에서 필로폰과 야바(필로폰과 카페인 등을 혼합한 합성 마약) 등을 국내로 밀수·유통한 혐의(마약류관리에관한법률 위반)로 태국 국적의 국내 총책 A(20)씨와 유통책 18명, 투약 사범 2명 등 내·외국인 총 21명을 붙잡았다고 2일 밝혔다. 이 중 A씨 등 16명은 구속했다. &lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난해 9월쯤 소셜미디어(SNS)를 통해 태국에 있는 마약류 판매 총책의 지시로 태국 식품에 은닉·포장된 야바 7만9000정을 국내로 밀수했다. 또 다른 마약 유통책으로부터 필로폰 5㎏을 전달받아, 국내에 재차 유통한 혐의를 받는다. 이렇게 유통된 마약은 중국인·태국인 등을 통해 다시 퍼져 나갔다고 한다. &lt;br&gt;&lt;br&gt;경찰은 지난해 10월 필로폰 거래 현장을 잠복한 끝에 중간 유통책 3명을 검거하고, 마약 유통망 상선과 하선을 쫓았다. 이후 3개월간 유통책 15명, 투약 사범 2명 등 17명을 추가로 붙잡았다. 경찰이 검거한 21명 중 내국인은 3명이고 나머지는 태국인 15명, 라오스인 1명, 중국인 2명이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZWKNZZGVSTEYJZGU2WMYTFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진주경찰서가 압수한 야바 6만7000정이 들어 있는 박스. /진주경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총책 A씨는 지난 2024년 8월쯤 비전문 취업 비자로 국내로 들어와 천안에 있는 한 제조업체에서 일해왔던 것으로 조사됐다. A씨 외에도 태국인·라오스인 15명 대부분은 국내 공장에서 근로자로 일하며 기숙사 생활을 해왔다고 한다. 이 중 불법 체류자도 있었다. &lt;br&gt;&lt;br&gt;경찰은 이들을 체포하는 과정에서 국내에 들어온 필로폰 5㎏ 중 2.92㎏ 상당(2억9000만원)을 압수했다. 이는 9만7000여 명이 동시에 투약할 정도의 양이다. 또 야바 7만9000정 중 6만8043정(13억6000만원 상당)도 압수했다. &lt;br&gt;&lt;br&gt;진주경찰서 관계자는 “마약류 유통 과정에서 이용된 자금과 불법 수익의 이동 및 경로 수사도 병행하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;한편, 이들을 체포한 진주경찰서 마약팀은 국제 마약 밀반입 및 국내 유통책을 일망타진한 공로로 경찰청 제1회 특별 성과 포상금을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구시 올해 신규 공무원 771명 선발… 작년보다 112% 증가</title>
-      <link>https://www.chosun.com/national/regional/2026/02/02/JPNOM2XDVBBJJOG7GBS36YUYKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/02/JPNOM2XDVBBJJOG7GBS36YUYKI/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 02:13:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MH7EUCLVOQU6PA34X6UNQ34C3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격청사 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 올해 26개 직류에서 신규 공무원 771명을 뽑는다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;이날 대구시에 따르면, 올해 채용 규모는 작년(364명)보다 112% 늘어난 것으로, 최근 3년 내 최대 규모다. 앞서 대구시는 2023년 422명, 2024년 210명, 지난해에는 364명을 선발했다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “통합 돌봄과 재난 안전 상황실 전담 인력 보강 등을 통해 시민 안전과 민생 안정에 행정 역량을 집중하고, 대구·경북 행정 통합과 AI 정책 등 핵심 현안 사업을 차질 없이 추진하기 위한 것”이라고 채용 규모 확대 배경을 설명했다. &lt;br&gt;&lt;br&gt;올해 선발하는 공무원 인원은 행정직 7급 5명, 수의직 7급 9명, 간호직 8급 28명, 행정직 9급 305명, 세무직 72명, 사회복지직 108명 등 7급 14명, 8·9급 743명, 연구·지도직 14명 등이다. 환경연구직 등 3개 직류는 4월 25일, 행정 9급 등 20개 직류는 6월 20일, 행정 7급과 기술계 고졸 등 8개 직류는 10월 31일 치러진다.&lt;br&gt;&lt;br&gt;앞서 홍준표 시장 재임 당시 폐지한 지방공무원 임용시험의 ‘거주지 제한 요건’을 올해부터 재도입하기로 해 지역 청년 일자리 창출에도 도움을 줄 것으로 대구시는 기대하고 있다. &lt;br&gt;&lt;br&gt;시험 일정, 달라지는 시험 제도 등 시험 관련 확정된 내용들은 대구시 홈페이지(www.daegu.go.kr) 내 ‘시험정보란’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>눈 그친 뒤 맑은 날씨... 이번주 평년 수준 기온 이어져</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/02/5RLUVVPE6BBP7LG6X3P3KXVZGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/02/5RLUVVPE6BBP7LG6X3P3KXVZGQ/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 01:52:32 +0000</pubDate>
-      <content:encoded>2일 전국에 많은 눈이 내린 가운데, 눈이 그친 뒤부터는 평년과 비슷하거나 다소 높은 기온이 나타날 전망이다. 현재 일부 남부 지역을 제외하면 대설특보는 대부분 해제된 상태로, 남부 지방에는 이날 저녁까지 눈이나 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJS2LBXKNRNKVMNDOX2YZV45GU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 종로구 자하문로 인근 골목길이 쌓인 눈으로 얼어붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 기상청에 따르면 이날 전국 대부분 지역에 강하고 많은 눈이 내렸으며, 강원 동해안·산지와 경상권을 중심으로는 대기가 매우 건조해 산불 등 화재 위험이 있겠다.&lt;br&gt;&lt;br&gt;이날 눈이 그친 뒤에는 대체로 맑고 평년 수준의 날씨가 이어지겠지만, 기온이 영하권에 머물면서 빙판길과 도로 살얼음에 대한 주의가 필요하다. 다만 지난주처럼 한파가 장기간 이어지지는 않을 것으로 보인다.&lt;br&gt;&lt;br&gt;화요일인 3일에는 고기압의 영향을 받아 전국이 대체로 맑겠다. 아침 최저기온은 영하 13도∼영하 2도, 낮 최고기온은 영상 2∼10도로 예보됐다. 수요일(4일)은 중국 상하이 부근에서 제주도 남쪽 해상으로 이동하는 고기압의 가장자리에 들면서 전국이 대체로 흐리겠다. 아침 최저기온은 영하 8도∼영상 1도, 낮 최고기온은 영상 4∼12도로 전망된다.&lt;br&gt;&lt;br&gt;목요일과 금요일에는 고기압 가장자리에 들어 전국에 구름이 많겠고, 주말부터는 다시 맑은 날씨가 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>70대 행인 오토바이로 치고 뺑소니… 30대 배달기사 검거</title>
-      <link>https://www.chosun.com/national/incident/2026/02/02/YM3E6ZFW4FBFNMBCMBLB6U6P3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/02/YM3E6ZFW4FBFNMBCMBLB6U6P3E/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 02:31:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORKWVIMOIZEE5JNSYNMQVN6MWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;70대 노인 치고 도주하는 오토바이 뺑소니. /부산 북부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오토바이로 70대 여성을 치고 달아난 배달 기사가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 북부경찰서는 특정범죄가중처벌법상 도주치상 혐의로 30대 남성 A씨를 검찰에 불구속 송치했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 2일 오후 7시 17분쯤 부산 북구 덕천동 한 주택가 골목길 이면도로(도로와 인도가 구분되지 않은 좁은 도로)에서 70대 여성 B씨를 오토바이로 치고 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사고로 B씨는 머리를 바닥에 강하게 부딪쳐 의식을 잃었다. 다행히 인근을 지나던 20대 여성이 B씨를 발견해 신고했다. 병원으로 옮겨진 B씨는 다행히 생명에는 지장이 없다고 한다.&lt;br&gt;&lt;br&gt;경찰은 CCTV 동선 추적을 통해 A씨가 배달 중이었다는 사실을 파악했다. 이후 배달업체 압수수색 영장 집행을 통해 A씨를 피의자로 특정해 검거했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “배달 업무가 급했고, 경찰 조사를 받게 되면 면허가 정지 또는 취소되는 것이 겁나 도주했다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “영하의 날씨에 도로에 쓰러진 피해자를 발견하고 신속히 구호 조치를 취한 분에게 감사장을 수여할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김지연 측 “롯데 정철원에게 가정폭력 당해… 외도 의심 정황도”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/02/EQ2QJXSEYBDUNF7O6GUGJHR4BI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/02/EQ2QJXSEYBDUNF7O6GUGJHR4BI/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 01:32:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FN6R5HC56RDMDKXZGUHXGL2RPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인플루언서 김지연과 롯데자이언츠 투수 정철원. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인플루언서 김지연(30)이 이혼 소송 중인 롯데 자이언츠 투수 정철원(27)의 가정폭력과 외도 의혹을 제기하며 법적 대응에 나섰다.&lt;br&gt;&lt;br&gt;김지연 법률대리인 법무법인 해든 이재희 변호사는 2일 공식 입장을 내고 “다양한 추측성 루머가 난무하고 있고 그중 허위 사실이 포함돼 2차 피해를 발생시키는 경우도 다수 확인됐다”며 “특히 정철원 측에서 양육권 등을 언급했기 때문에 김지연을 대리해 공식 입장을 표명한다”고 했다.&lt;br&gt;&lt;br&gt;이 변호사는 “언론을 통해 접하신 바와 같이 김지연은 혼인 이후 어린아이를 양육하면서 가정폭력 등으로 끊임없는 고통을 받아왔다”며 “최근 정철원의 외도가 의심되는 정황을 많은 분께서 제보해 주신 바도 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 김지연은 아이를 생각해 최대한 원만한 방법으로 문제를 해결하고 혼인 관계를 유지하려 노력했으나, 정철원이 아이를 두고 나간 뒤 양육비 지급을 중단한 채 법률대리인을 통해 이혼과 양육권에 대해 언급하는 것에 많은 좌절감을 느끼는 상황”이라고 전했다.&lt;br&gt;&lt;br&gt;그러면서 “김지연은 향후 모든 절차를 진행함에 있어 아이를 보호하고 양육권을 가지는 것을 최우선 순위로 삼고 법적 절차를 진행할 계획”이라며 “이 사건은 어디까지나 개인사일 뿐으로, 정철원 소속 구단이나 동료 선수들에게 어떠한 피해가 가지 않도록 도와달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 김지연과 정철원은 2024년 3월 혼전 임신 소식을 알렸고 같은 해 8월 아들을 품에 안았다. 작년 12월 결혼식을 올렸으나 불과 한 달 만에 불화설이 제기됐다. 이후 김지연은 “남편이 가출 후 일방적으로 양육권을 갖겠다고 소송을 걸어왔다. 엄마로서 이제는 참을 수 없다”며 파경 사실을 간접적으로 밝혔다.&lt;br&gt;&lt;br&gt;이 과정에서 김지연은 “정철원이 아들 돌반지와 팔찌를 녹여 금목걸이를 했다” “비시즌에도 집에 없으니 (아들이 아빠를) 못 알아본다” “정철원이 연봉 대부분을 시댁에 보내 제가 혼수와 육아용품을 다 마련하고 만삭 때까지 일했다” “용돈 없이 제 모든 수입을 생활비로 지출했다”고 폭로했고, 정철원의 외도를 목격했다는 네티즌 글을 공유하며 “증거는 많다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;이에 정철원은 지난달 법률대리인을 통해 “아이의 아빠로서 책임감 있게 행동할 것이고 양육권도 최대한 가지고 올 수 있도록 하겠다”며 “선수로서 운동에 집중하고, 좋은 성과를 낼 수 있도록 최선을 다할 것”이라는 입장을 냈다.&lt;br&gt;&lt;br&gt;김지연은 한양대 무용학과를 졸업한 뒤 Mnet 예능 프로그램 ‘러브캐처’ 시즌1에 출연하며 얼굴을 알렸다. 현재는 인플루언서 겸 유튜버로 활동 중이다. 정철원은 2018년 KBO 신인 드래프트 2차 2라운드 전체 20순위로 두산 베어스에 지명됐고, 2022년 신인왕을 받았다. 2024년 말 롯데 자이언츠로 이적해 불펜 투수로 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>악귀 때려잡으려 새해 아침 마시는 찬술</title>
@@ -873,83 +952,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/PKBCY6UOOVHCLBL4M44DWHETLY.png?auth=184e4477305e7e8994c56c85986e9068d1ab708263ce5b26803d8089a0699cb5&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560">
         <media:description type="plain">/조선디자인랩·Midjourney</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>학원 안 가겠다는 아이… 사춘기 반항이라고 생각했다</title>
-      <link>https://www.chosun.com/national/education/2026/02/02/EUDTAK7BTZH5BMLCE5RF54FPDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/02/EUDTAK7BTZH5BMLCE5RF54FPDE/</guid>
-      <dc:creator>별별맘</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Feb 2026 18:00:00 +0000</pubDate>
-      <content:encoded>학원 앞에 차를 대놓고, 작은애가 나오기를 기다리고 있는 지금 창밖에는 눈이 펄펄 내린다. 보온병에 싸 온 차를 마시며 건물에서 쏟아져 나오는 남학생, 여학생들을 보고 있다. 다들 듬직하고, 예쁘고, 귀엽다. 그래서 더 안타깝다. 저 싱그러운 아이들이 이렇게 펑펑 눈 오는 밤에, 늦도록 학원에 붙잡혀 미적분 문제나 풀어야 하다니... &lt;br&gt;&lt;br&gt;그러나 의외로 아이들 표정은 밝다. 1층의 편의점에 들러 군것질거리를 사 들고 나오며 서로 이름을 부르고, 어깨동무를 하고, 까르르 웃기도 한다. 하긴 십대들 아닌가? 아무리 삭막하고 살벌한 곳에서도 재미있고 웃기는 뭔가를 찾아낸다. 그들만의 초능력이다. 어쩌면 어른들은 그 초능력을 믿고 아이들을 가혹한 사교육의 쳇바퀴 속으로 자꾸 밀어 넣고 있는 건지도 모르겠다. 어떻게든 견뎌낼 거라 믿으며...&lt;br&gt;&lt;br&gt;나도 그런 어른들 중 하나였다. 지난 십여 년 간 두 아들을 이런저런 학원들에 줄기차게 보내왔다. 우리 깜냥에는 과한 학원비를 매달 지출하며, 몇 과목씩 듣게 했다. 유아 때부터 고강도 영재 교육을 시작하는 엄마들에 비하면, 초등 5학년에야 뛰어든 나는 양반이라고 변명하고 싶지만, 솔직히 말하면 오십보 백보다. &lt;br&gt;&lt;br&gt;애초에 나는 ‘학교 수업만 충실히 들어서는 원하는 대학에 가기 어렵다’고 생각한 엄마였다. 필요에 따라 최소한의 학원만 보내려는 게 아니라, 내 능력만 되면 한 과목이라도 더 보내고 싶어 하는 엄마였다. 둘째 아이가 학원에 안 다니겠다고 선언했을 때도 수학만은 놓지 말라고 통사정했었고, 기어이 다 그만두고 몇 달을 집에서 펑펑 놀 때는 불안감 때문에 깊은 잠을 못 이루었었다. &lt;br&gt;&lt;br&gt;왜 그랬을까? 학원에 안 다니는 아이를 보면 나는 어째서 그렇게 불안했을까? 정작 나 자신은 학생 때 학원을 다닌 적이 없었다. 학교 수업만 듣고도 원하던 학교에 진학했다. 그런데 왜 내 아이들은 그럴 수 없다고 생각한 걸까? &lt;br&gt;&lt;br&gt;세월이 변해서 요즘은 다들(?) 학원에 다니기 때문에, 내 아이만 안 다니면 불리해진다는 생각이 물론 깔려 있었다. 다른 엄마들도 모두 그런 생각으로 무턱대고 아이를 학원에 보낸다고 생각했었다. 그런데 요즘 가만히 생각해 보면 꼭 그런 이유만은 아니다. 실제로 학원은 공부하기에 매우 효율적인 시스템을 갖추고 있다. 학교와는 다르게, 내게 맞는 수준의 수업을 골라, 비슷한 수준의 학생들로 이루어진 소규모 반에서 집중적으로 들을 수 있다. 선생님도 선택할 수 있다. &lt;br&gt;&lt;br&gt;게다가 그 선생님은 오직 자신이 맡은 학생의 시험 점수를 올리기 위해 열과 성을 다한다. 시간을 허비할 새가 없도록 숙제도 과하게 내주고, 시험을 앞두고는 기출 테스트, 모의 테스트도 보게 한다. 그뿐인가? 아이들과 밀접하게 소통하며 멘탈 관리까지도 해준다. 그 모든 과정을 엄마에게 알려주면서 말이다. 그러니 엄마가 보기에, 아이는 반드시 학원에 가야 할 것만 같다. 학원만 잘 다니면 성적은 오르게 돼 있다고 생각하게 된다. &lt;br&gt;&lt;br&gt;그런데 바로 이 대목에 함정이 있다. 학원을 그냥 다니면 안 되고, ‘잘’ 다녀야 한다. 아이 본인의 결단과 의지로, 선생님을 믿고 따르며, 매 수업에 집중하고 숙제를 철저히 완료하며, 선생님이 내준 방대한 자료를 잠시도 손에서 놓지 않는 불타는 열정으로 학원에 다녀야 한다. 그렇게만 한다면 당연히 성적은 오를 것이다. 엄마들은 내 아이가 그렇게 하길 바라고, 할 거라고 믿는다. 그래서 어떻게든 학원에 보내려고 하는 거다. &lt;br&gt;&lt;br&gt;그러나 대개의 아이는 그렇게까지는 열심히 하고 싶지 않거나, 할 수가 없다. 그래서 적지 않은 아이들이 ‘학원에 전기요금 내주러 다닌다’는 웃지 못할 농담의 제물이 되는 것이다. 이 세상 엄마들은 왜 ‘어린 시절’을 겪어보지 않은 사람들처럼 굴곤 할까? ‘질풍노도의 시기’를 단숨에 건너뛴 사람들처럼 굴까? 이토록 좋은 환경에, 아이 대신 자기가 학원 다니며 공부하면 S대라도 너끈히 가겠다고 말하는 엄마들. 그 엄마들은 정말로, 멍하니 수업 시간만 때워본 적이 없을까? 선생님이 꼴도 보기 싫었던 적이 없을까? &lt;br&gt;&lt;br&gt;하긴 나도 이런 말을 할 자격은 없다. 중3이 된 작은 아이가 더 이상 학원에 가지 않겠다고 선언했을 때, 속이 바짝 타는 기분이었다. 학원이라는 효율적 시스템을 잘 따라가기만 하면 될 텐데 왜 이런 고집을 부리나 싶었다. 더구나 나에게는 큰애를 학원에 보내서 입시를 성공적으로 마친 나름의 경험치가 있었다. &lt;br&gt;&lt;br&gt;큰애가 간 길을 뒤따라만 가면, 꼭 의대나 스카이 같은 데는 아니더라도 제 나름의 상한선에는 도달할 수 있을 텐데, 철없는 녀석이 사춘기의 반항을 한다고 생각했다. 그러나 지금 생각하니, 우리 작은 애는 그 당시 견딜 수 없이 힘들었던 거다. 학원의 효율적인 시스템이 자기에겐 별 효과를 내지 못하고 있다는 걸 느끼고 있었다. &lt;br&gt;&lt;br&gt;본인 말에 의하면, 그때는 ‘마음이 안 열려서 귀도 안 열리는 상태’였단다. 가슴이 답답해서 수업을 듣는 건 포기하고, 집에서 혼자 교재를 읽고 숙제를 해 갔단다. 그러고도 반에서 쫓겨나지 않고 어찌어찌 따라갈 수는 있었지만, 그런 시간 낭비는 이제 그만하고 싶었단다. 그게 결국은 ‘사춘기의 반항심’이라고 요약될 수도 있겠지만, 나는 ‘심리적인 어려움’이라고 에둘러 말하고 싶다. &lt;br&gt;&lt;br&gt;세상에는 여러 종류의 아이가 있다. 사춘기가 언제 지나갔는지도 모르게 지나가고, 일찌감치 철이 드는 아이도 있고, 둘째처럼 남달리 길게 끌며 깊은 자국을 남기는 아이도 있다. 누르면 쪼그라드는 아이도 있고, 버티는 아이도 있으며, 튕겨 나가는 아이도 있다. 물처럼 그릇에 담기는 아이도 있고, 얼음처럼 그릇을 깨는 아이도 있다.&lt;br&gt;&lt;br&gt;엄마 입장에선 그릇에 순순히 담기는 아이가 물론 편하다. 그런 아이는 주어지는 것들을 받아들이고, 자기를 강하게 주장하지 않는다. 학교도 잘 다니고, 학원도 잘 다닌다. 그러나 그런 아이가 반드시 잘 자라고 있는 건 아니라고 생각한다. 언젠가는 때늦은 사춘기를 지독히 앓아야 할지도 모른다. &lt;br&gt;&lt;br&gt;그런 애 중 하나가 우리 큰애다. 어려서부터 이 녀석은 또래보다 어른스러웠고, 온순했다. 결과적으로 입시에 성공할 수 있었던 요인의 8할은 바로 그 조숙함과 온순함에서 왔다고 생각한다. 나는 아이가 언제 사춘기를 겪었는지 잘 알지 못한다. 6학년 때 잠깐 고집이 세지는가 싶더니 중1부터는 다시 원래의 성격으로 돌아왔다. &lt;br&gt;&lt;br&gt;중·고등 6년 동안 아이는 공부가 안 될 만큼 마음이 동요되는 일은 겪지 않는 듯했다. 친구들과도 무난하게 지냈고, 학교생활에 비교적 쉽게 적응했다. 많은 아이들이 이성문제나 외모 고민, 또는 남다른 꿈 때문에 생각이 많을 때, 우리 큰애는 공부에만 힘을 쏟을 수 있었다. 아이는 특히 학원을 ‘잘’ 다녔다. 학원 선생님들을 유독 따랐고, 숙제나 테스트에 성실히 임했다. 5학년 때 수학학원에 등록한 뒤부터, 공부량이 많아졌고, 실제 성적도 올랐다. 내신 경쟁이 치열한 고등학교에서도 아이는 학원 덕을 적잖이 봤다. 그 지루하고도 소모적인 시험 기간의 터널들을 학원 선생님의 채찍질과 당근 덕에 느슨해지지 않고 뚫어낼 수 있었단다. 주어진 것들을 잘 참아내고, 시키는 걸 다 해내는 단순 성실한 성격이 학원이라는 시스템과 맞아떨어진 것이다. &lt;br&gt;&lt;br&gt;입시 성공의 비결을 묻는 사람들에게 좀 더 이상적인 대답을 할 수 있었더라면 나도 좋았겠다. 학교 공부만 충실히 했다든지, 독서의 즐거움만은 끝까지 포기하지 않았다는 그런 멋진 대답 말이다. 그러나 진실은 그렇지 않다. 우리 아이는 가장 흔하고 뻔한 방법으로 원하던 대학에 갔다. 학교를 즐겁게 다니고, 더하여 학원을 열심히 다니는 방법으로.... &lt;br&gt;&lt;br&gt;어떤 분에겐 실망스러운 대답일 수도 있다. 이런 사람들 때문에 사교육 시장만 커지는 거라는 비난을 들을지도 모르겠다. 그러나 나는 그럴 듯하게 꾸며서 말하고 싶지는 않다. 입시라는 흰 코끼리를 눈먼 내가 더듬어 본 그대로 말할 수밖에 없다.&lt;br&gt;&lt;br&gt;아이의 입시 이야기를 하려면 반드시 ‘학원’ 이야기를 꺼내야 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6XKFLLC6AVDR5FQA3NJBF4L7T4.gif?auth=f624918e51fbd96e3da2d998177a7d91692f8d467ab9097140ffa4ea5f6c41ee&amp;smart=true&amp;width=700&amp;height=398" type="image/jpeg" height="398" width="700"/>
-    </item>
-    <item>
-      <title>혼자 사는 사람이 사망 위험 더 높아</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/02/02/NAHUMJ5YXJC27JGF7XXG5DU2UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/02/NAHUMJ5YXJC27JGF7XXG5DU2UI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>혼자 사는 사람은 가족과 함께 사는 사람보다 65세 이전에 사망할 확률이 35~43% 더 높다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;질병관리청 국립보건연구원은 1일 이런 내용의 연구 결과를 국제 학술지 메이요 클리닉 회보에 발표했다고 밝혔다. 연구는 국립보건연구원 지원을 받아 윤재승·이준엽·이승환·한경도 공동 연구팀이 진행했다. 연구팀은 2006년부터 2021년까지 15년간 한국의 국민건강보험공단 데이터(244만명)와 영국 바이오뱅크(50만명)의 자료를 활용해 1인 가구의 건강 위험을 분석했다.&lt;br&gt;&lt;br&gt;분석 결과 가족과 함께 사는 경우에 비해 1인 가구의 사망 위험이 한국은 25%, 영국은 23% 더 높았다. 특히 1인 가구는 65세 이전에 사망하는 ‘조기 사망 위험’이 한국은 35%, 영국은 43% 더 높았다. 5년 이상 독거 생활을 하면 사망 위험은 더 높아졌고, 가족 수가 많을수록 사망 위험은 낮아졌다. 연구원 측은 “혼자 살면서 사회적으로 고립되고, 생활 습관이 나빠지는 것이 건강을 악화시키기 때문”이라고 설명했다. 1인 가구는 영양 불균형이 더 심했고, 아침 식사나 질 좋은 수면, 운동을 하는 비율이 더 낮았다고 연구원은 덧붙였다.&lt;br&gt;&lt;br&gt;1인 가구의 사망 위험을 높이는 데는 다양한 요인이 복합적으로 작용했다. 특히 낮은 소득 수준은 사망 위험을 높이는 데 42.3%나 기여하는 것으로 나타났다. 흡연은 14.8%, 고독감은 10.9%, 우울감은 6.3% 기여했다. &lt;br&gt;&lt;br&gt;반대로 생활 습관을 교정하면 1인 가구의 사망 위험이 크게 낮아졌다. 담배와 술을 하지 않으면서 규칙적인 운동을 하는 등 건강한 생활 습관을 가진 1인 가구는 생활 습관 관리를 하지 않는 1인 가구보다 전체 사망 위험이 57%, 조기 사망 위험은 44%까지 낮아졌다. &lt;br&gt;&lt;br&gt;1인 가구는 세계적으로 증가 추세로, 우리나라는 지난해 전체 가구의 36.1%를 차지했다. 연구원은 “1인 가구로 건강한 생활 습관을 유지하면 혼자 사는 데서 오는 문제점을 상당 부분 극복할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한동훈 지지자 6000여 명 “부당 징계 규탄, 장동혁 퇴진하라”… 여의도 집회</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/31/QAKZDONJCBCKXPH5NTAPFTNMOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/31/QAKZDONJCBCKXPH5NTAPFTNMOI/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 Jan 2026 07:28:53 +0000</pubDate>
-      <content:encoded>국민의힘 지도부가 한동훈 전 대표에 대한 제명 징계를 확정한 것과 관련, 한 전 대표 지지자들이 집회를 열어 징계 철회를 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4WCNTGGYZTSMRWME4DAZDBGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘에서 제명된 한동훈 전 대표 지지자들이 31일 오후 서울 여의도공원 앞에서 열린 당 지도부 규탄 집회에서 '부당징계 규탄' 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 대표 지지자들은 31일 서울 여의도공원 주변에서 장외 집회를 열고 ‘진짜 보수 한동훈 수호’와 ‘부당 징계 장동혁 사퇴’ 등 구호를 외쳤다. &lt;br&gt;&lt;br&gt;한 전 대표는 이날 집회에 불참했다. 한 전 대표는 다음 달 8일 잠실 실내체육관에서 열리는 토크콘서트에서 당 안팎 현안 등에 관한 구체적인 메시지를 낼 전망이다.&lt;br&gt;&lt;br&gt;이날 집회에 참석한 김종혁 전 최고위원은 “제명이 확정된 날 국민의힘은 죽고 ‘윤 어게인 당’으로 복귀했다”며, “헌정 사상 유례가 없는 정치 학살을 자행한 장동혁 대표는 퇴진해야 한다”고 했다.&lt;br&gt;&lt;br&gt;집회 전 경찰에 참석 인원을 6000명 정도로 신고했던 주최 측은 “지난 집회보다 2∼3배 넓은 공간이 가득 찼다”며 수만 명을 넘는 인파가 모였을 것으로 추산했다.&lt;br&gt;&lt;br&gt;지난 29일 당적을 박탈당한 한 전 대표는 앞으로 5년간 재입당이 금지된다. 2028년 총선과 2030년 대선까지 국민의힘 간판을 달고 출마할 수 없게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>다이소 매장서 ‘YOON AGAIN’ 만들고 인증...온라인서 갑론을박</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/31/LCX7WL7ZKZAATABCB3MXSGBE5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/31/LCX7WL7ZKZAATABCB3MXSGBE5Q/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 Jan 2026 06:04:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQHU77LTUJD2VHKZWWGXWPCTHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다이소 매장에 진열된 'YOON AGAIN'(윤 어게인) 알파벳 풍선./디시인사이드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 지지자들이 다이소에 배치된 물품을 활용해 ‘YOON YAGAIN’(윤 어게인)이라는 문구를 만든 후 사진을 찍어 인증샷으로 온라인에 올려 논란이 일고 있다. &lt;br&gt;&lt;br&gt;30일 관련 업계에 따르면 최근 윤 전 대통령의 일부 지지자들이 다이소 매장에서 알파벳 풍선을 재배치해 ‘YOON AGAIN’ ‘YOON ONLY’ ‘CCP OUT’ 등의 문구를 만들어 사진을 찍은 후 인증샷을 온라인에 공유했다. CCP는 Chinese Communist Party(중국공산당)의 약자로, 반중 정서를 담은 문구다. &lt;br&gt;&lt;br&gt;이를 두고 국민의힘 일부 지지층은 “귀엽다” “기발하다” “애국이다” 등 반응을 보였다. 하지만 많은 네티즌이 “영업 방해 아니냐” “모두가 이용하는 공간에서 정치 표현을 하는 건 제재해야 한다”며 비판하는 의견을 냈다. &lt;br&gt;&lt;br&gt;이 같은 행위가 반복될 경우 업무방해 혐의가 적용될 수도 있다. 형법 314조에 따르면 업무를 방해한 경우 인정되면 5년 이하의 징역 또는 1500만원 이하의 벌금에 처할 수 있다. 앞서 지난해 9월 이재명 대통령도 국무회의에서 명동 반중 시위를 거론하며 “깽판 쳐 가지고 손님을 내쫓으면 (법적으로) 업무 방해 아니냐”며 특정 국가 관광객 모욕에 대해 경고한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HY5B7FHUNNDM7C4PDPZ634CGRY.jpg?auth=799f85b397492001dfc974e4289c79e42ef110aa3e2cd46687daf8f71fea2102&amp;smart=true&amp;width=898&amp;height=505" type="image/jpeg" height="505" width="898">
-        <media:description type="plain">다이소 매장에 진열된 'YOON AGAIN'(윤 어게인) 알파벳 풍선./디시인사이드</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>이관희 “재밌으려고 했는데 상처” ...홍진경에 결국 사과</title>
-      <link>https://www.chosun.com/national/people/2026/01/31/EZ5I3UK2AZCMZJAIWTX4U2TC5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/31/EZ5I3UK2AZCMZJAIWTX4U2TC5Y/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 Jan 2026 05:29:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTOZJVGNSTAZBZGAYDIY3BMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이관희, 홍진경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농구 선수 이관희가 방송인 홍진경을 향한 발언으로 논란이 일자 사과했다.&lt;br&gt;&lt;br&gt;홍진경은 31일 자신의 소셜미디어에 “솔로지옥, 사과지옥”이라는 문구와 함께 이관희와 주고받은 메시지 내용을 공개했다.&lt;br&gt;&lt;br&gt;이관희는 메시지에서 “정말 좋아하는 누나인데 제 실수로 이렇게 논란을 만들어서 죄송하다. 재밌으려고 한 말이 누나한테 상처를 준 것 같아 반성 많이 하고 있다. 전 욕 먹어도 괜찮지만, 누나 마음 상할 일은 절대 없었으면 좋겠다. 다시 한번 죄송하다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6M4ZLGRMRBY3J5TAKGSR6AH2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이관희와 홍진경이 주고 받은 문자./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 홍진경은 “관희야, 어제도 전화해 놓고 오늘 또 문자까지. 사과 좀 그만해”라며 “나도 방송하다 본의 아니게 말실수 많이 해. 괜찮아. 넌 빨리 ‘찐천재’(홍진경 유튜브 채널) 나와서 농구나 가르쳐줘. 이제 사과 그만하고 좋은 하루 보내”라고 답했다.&lt;br&gt;&lt;br&gt;논란은 지난 26일 공개된 유튜브 채널 ‘농구선수갓관희’ 영상에서 불거졌다. 이관희는 넷플릭스 예능 ‘솔로지옥5’를 보며 “(홍)진경 누나는 연애도 잘 모를 것 같은데 저기서 연애 훈수를 두고 있는 게 화난다”고 말했다.&lt;br&gt;&lt;br&gt;이관희는 2011년 서울 삼성 썬더스에 입단해 KBL 무대에 데뷔했으며 가드로 활약하고 있다. 넷플릭스 연애 프로그램 ‘솔로지옥3’ 출연 이후 방송 프로그램과 유튜브 채널을 통해 팬들과 소통하고 있다.&lt;br&gt;&lt;br&gt;이관희와 ‘솔로지옥’ 시즌3에 함께 출연한 배우 윤하빈은 “(홍진경은) 결혼도 하고 아이도 있지 않느냐”고 물었고, 이관희는 “결혼하면 나보다 나은 거냐. 나도 결혼할 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “MC 덱스, 한해, 이다희는 다 인정한다”면서도 “그런데 진경 누나는 솔직히 이해를 못 하겠다. 연애를 나보다 더 잘할 거라고 생각을 못 하겠다”고 연신 홍진경을 공격하는 발언을 했다. 그러면서 “진경 누나, 누나는 나랑 안 맞는 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;영상이 공개된 후 네티즌들은 이관희의 발언이 무례했다며 비판을 쏟아냈다. 논란이 커지자 이관희 채널 측은 영상을 비공개 처리했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“야구는 스포츠 아냐” 김남일 발언 논란...결국 사과</title>
-      <link>https://www.chosun.com/national/people/2026/01/31/DMKUNCWHEVBKRG3W5Q32TXVCEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/31/DMKUNCWHEVBKRG3W5Q32TXVCEA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 Jan 2026 05:02:10 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2EF4ATJBVCXXBMXD75AK73ZCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김남일 /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 축구 선수 김남일이 예능 프로그램에서 한 발언으로 논란이 일자 공개 사과했다.&lt;br&gt;&lt;br&gt;김남일은 30일 JTBC 예능 유튜브 채널에 공개된 영상을 통해 야구 선수 윤석민과 야구 팬들에게 고개를 숙였다. 그는 “1200만명 관중이 부러워서 그랬던 것 같다”며 “그런 발언을 한 것에 대해 정말로 깊이 반성한다. 제가 잘못했다고 생각한다. 좋게 봐주시면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;논란은 지난 24일 방송된 JTBC 예능 프로그램 ‘예스맨’에서 시작됐다. 당시 김남일은 윤석민과 종목 이야기를 나누던 중 “야구는 스포츠라고 생각하지 않는다”고 말했다. 예능적 상황에서 나온 발언이었지만 방송 이후 해당 장면이 온라인에 확산되며 비판이 이어졌다.&lt;br&gt;&lt;br&gt;이후 세 사람은 대기실에서 윤석민을 마주한 자리에서 무릎을 꿇었다. 윤석민은 당황하며 함께 무릎을 꿇었다. 야구를 두고 거친 표현을 했던 농구 선수 출신 하승진과 테니스 선수 출신 이형택도 사과했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TQNDFMNTGIMJVHBRGKOBYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 축구 선수 김남일이 “야구는 스포츠라고 생각하지 않는다”고 발언한 장면./ JTBC &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하승진은 “포맷 자체가 물고 뜯고 하는 것이다 보니, 저도 욕심을 내서 재미있는 얘기를 만들어내려고 한 것 같다. 넘지 말아야 할 선을 넘어 불쾌감을 드린 것에 죄송하다”며 “야구 정말 사랑한다”고 말했다.&lt;br&gt;&lt;br&gt;이형택도 “방송을 기분 나쁘게 보신 분들이 많으신 것 같아서 진심으로 사과 드린다. 앞으로 저의 발언 하나하나 신경 써서 할 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;윤석민은 출연자들을 감싸며 “사적으로 (선수들끼리) 많이 하는 대화다. 진심으로 야구, 농구가 싫은 게 아니라 재밌게 얘기한 것”이라며 “스포츠를 사랑하는 마음으로 재밌게 봐주시면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법조계 “차은우, 고의성 입증되면 징역도 가능”...200억대 탈세 논란</title>
-      <link>https://www.chosun.com/national/people/2026/01/31/23WDQZJJWJAFHAZ5AKVP6G7DTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/31/23WDQZJJWJAFHAZ5AKVP6G7DTQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 Jan 2026 02:26:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4DAMZYG5RGMMDBGA2TQNTCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 차은우./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 차은우(본명 이동민)의 200억원대 탈세 논란과 관련해, 법조계에서 형사처벌 가능성까지 거론하는 분석이 나왔다. &lt;br&gt;&lt;br&gt;30일 YTN 라디오 ‘이원화 변호사의 사건X파일’에서 김정기 변호사는 차은우의 200억원대 세금 추징 통보와 관련한 쟁점을 다뤘다.&lt;br&gt;&lt;br&gt;김 변호사는 “(차은우에게 추징된) 200억원은 국내 연예인 개인에게 부과된 추징액 중 역대 최대 규모이자 세계적으로도 손꼽히는 엄청난 액수”라고 말했다. 이어 “전문가들은 차은우가 벌어들인 소득 규모가 최소 1000억원 이상일 것으로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 현재 단계는 최종 확정 전 절차라는 점도 강조했다. 그는 “지금은 국세청이 ‘조사해 보니 이만큼 세금을 더 내야 한다’고 예고한 단계로 완전히 확정된 상태는 아니다”라며 “차은우 측은 과세 전 적부심사를 청구해 국세청 판단이 맞는지 다투는 중”이라고 설명했다.&lt;br&gt;&lt;br&gt;김 변호사는 추징을 피하려면 차은우 모친이 설립한 법인이 실제 경영 활동을 했다는 점을 입증해야 한다고 봤다. 그는 “차은우 측은 ‘우리는 꼼수를 쓴 게 아니라 진짜 일했다’는 사실을 입증할 서류를 직접 풀어야 한다”며 “제대로 증명하지 못하면 국세청이 통보한 세금을 그대로 내야 할 가능성이 크다”고 말했다.&lt;br&gt;&lt;br&gt;입증 자료로는 직원 급여 지급 내역, 사무실 임대차 계약서, 활동 스케줄 관리 기록, 업무 관련 이메일이나 메신저 대화 등이 거론됐다. 김 변호사는 “국세청은 차은우 모친이 세운 법인이 경영 활동 없이 오직 세금을 줄이는 통로 역할만 했다고 의심하고 있기에 이 법인이 실제로 차은우 활동을 돕고 매니지먼트했다는 걸 보여줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;이번 조사는 서울지방국세청 조사4국이 진행한 것으로 알려졌다. 김 변호사는 “조사4국은 정기 세무 조사가 아니라 고의 탈세 정황이 짙을 때 불시에 투입되는 곳”이라며 “국세청이 이 사안을 아주 무거운 범죄 혐의로 보고 있다는 강력한 신호”라고 주장했다. 그는 “조사4국이 칼을 뽑아 부과한 세금이 적부심에서 뒤집히는 경우는 매우 드물다”며 “이미 같은 건으로 소속사가 청구한 적부심이 기각된 선례가 있고, 장어집 주소지 문제나 유한책임회사 전환 등 은폐 시도 정황이 뚜렷하다면 인용되기는 쉽지 않아 보인다”고 했다.&lt;br&gt;&lt;br&gt;형사 책임 가능성도 언급했다. 김 변호사는 “단순히 세금 계산 착오라면 추징금으로 끝나겠지만 고의적인 속임수가 드러나면 검찰에 고발되어 형사 처벌까지 받을 수 있다”며 “허위 세금계산서를 발행하거나 장부를 조작하는 등 국가를 적극적으로 속인 정황이 입증되면 ‘조세범 처벌법’ 위반으로 징역형이나 무거운 벌금형에 처할 수 있는 매우 심각한 사안”이라고 말했다.&lt;br&gt;&lt;br&gt;또 “포탈 세액이 10억원을 넘으면 특정범죄가중처벌법이 적용돼 무기 또는 5년 이상 징역까지 가능하다”며 “이 경우 법인의 대표인 차은우 모친뿐만 아니라 그 법인의 주인이자 실질적인 수익자인 차은우도 공범으로 조사를 받고 처벌 대상이 될 수 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;차은우는 지난해 7월 서울지방국세청 조사4국 고강도 비정기 세무조사를 받은 뒤, 200억원이 넘는 세금 추징을 통보받은 것으로 알려졌다. 논란 이후 그는 지난 26일 인스타그램에 “최근 저와 관련된 여러 가지 일들로 많은 분께 심려와 실망을 안겨드린 점, 진심으로 고개 숙여 사과드린다. 이번 일을 계기로 대한민국의 국민으로서 납세의 의무를 대하는 제 자세가 충분히 엄격했는지, 스스로 돌아보며 깊이 반성하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일요일까지 막바지 추위… 낮 기온은 영상까지 오를 듯</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/31/PGQC7OP4ZRDW7KLDXUZSG3LCHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/31/PGQC7OP4ZRDW7KLDXUZSG3LCHM/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 Jan 2026 01:37:19 +0000</pubDate>
-      <content:encoded>토요일인 31일 중부 지방을 중심으로 아침 기온이 -10도 안팎까지 떨어졌다. 낮에는 추위가 누그러들어 최고기온이 영상권에 들겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVTDQYJWMY2TQY3DGEYDMZDBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두터운 옷차림을 한 시민들이 발걸음을 서두르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오전 5시 기준 한파특보가 발효된 수도권과 강원 내륙·산지, 충청 내륙, 전북 북동부, 경북권을 중심으로 아침 기온이 -10도 안팎까지 하락했다. 일부 북부 내륙과 강원 내륙·산지는 -15도 안팎으로, 강원 봉평(평창)은 -18도까지 떨어졌다.&lt;br&gt;&lt;br&gt;기상청은 “바람의 영향으로 체감온도는 더 낮겠으니, 면역력이 약한 노약자와 어린이는 가급적 야외 활동을 자제하는 등 건강관리에 유의해야 한다”고 했다. &lt;br&gt;&lt;br&gt;낮에는 최고기온이 0~8도까지 오르는 등 영상권으로 기온이 오르겠다. 이날 제주도를 제외한 전국 대부분 지역에 건조특보가 발효된 가운데 대기가 매우 건조하겠다. 31일 늦은 밤부터 인천·경기 남서부와 충남 북부 서해안, 1일 새벽부터 오전 사이 인천·경기 남부와 충북 중·북부, 전남(서해안 제외), 경상 서부 내륙에 0.1㎝ 미만의 눈이 날리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청은 일요일인 다음 달 1일까지는 기온이 평년보다 낮은 추위가 이어지다, 월요일인 2일부터 기온이 평년과 비슷하게 회복될 것이라고 예보했다. 일요일 아침 최저기온은 -13도에서 -1도, 낮 최고기온은 0에서 7도다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
