@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘김현지 부속실장 명예훼손’ 보수 매체 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/UJNLGFMPQRHH7GODCMVU6RYTAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/UJNLGFMPQRHH7GODCMVU6RYTAM/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 05:38:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5W6QGQKTJHLDNA5CGEZ7PPNAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김현지 대통령비서실 제1부속실장과 관련해 음모론을 제기한 우파 성향 언론사와 소속 기자를 상대로 3일 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이날 서울 마포구 A 언론사 사무실과 이 회사 기자 B씨 등에 대한 압수 수색을 진행했다. 현재 B씨는 A사의 발행인이다. 압수물에는 B씨의 휴대전화도 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 작년 10월 A사는 익명의 제보자를 인용해 이재명 대통령과 김 실장이 불륜 관계로 의심된다는 취지의 보도를 했다. 또 한 칼럼니스트는 A사에 실은 칼럼을 통해 “(김 실장은) 출신은 물론 학력조차 미지의 영역에 있을 뿐이다. 일각의 추측대로 그녀는 과연 이재명의 세컨드일까, 아니면 남파 간첩일까”라고 했다.&lt;br&gt;&lt;br&gt;이를 두고 당시 더불어민주당 국민소통위원회는 “허위보도는 개인에 대한 인격살인이자, 공당을 향한 정치적 테러 행위”라며 해당 기자와 칼럼 작성자를 정보통신망법 위반 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;B씨는 지난 2024년 12·3 계엄 때 계엄군이 선거연수원에서 중국인 간첩 99명을 체포했다고 허위보도한 혐의로 이듬해 7월 검찰에 송치되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“함께 투자해요, 내 사랑”…70대 여성 노린 사기, 경찰·은행직원이 막았다</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/KBH2BXKGLVCMXLYLVMFMCUDII4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/KBH2BXKGLVCMXLYLVMFMCUDII4/</guid>
+      <dc:creator>정채빈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 05:19:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BUVA5ZKL5DYJKHAQXSQGJNUPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;70대 여성 A씨가 카카오톡 오픈채팅방에서 모르는 상대와 나눈 대화./전북경찰 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연인이 된 것처럼 행세하며 금품을 뜯어가는 로맨스 스캠을 당할 뻔한 70대 여성을 은행직원과 경찰관이 설득해 피해를 막았다.&lt;br&gt;&lt;br&gt;3일 전북경찰청에 따르면 지난 20일 오전 9시쯤 70대 여성 A씨가 전북 익산농협 동산지점을 방문했다. &lt;br&gt;&lt;br&gt;경찰이 공개한 당시 폐쇄회로(CC)TV 영상을 보면 A씨는 창구로 찾아가 직원에게 “500만원을 이체해달라”고 한다. A씨는 사용처를 묻는 직원에게 자신의 휴대전화 화면을 보여준다.&lt;br&gt;&lt;br&gt;A씨가 보여준 화면에는 A씨가 누군가와 나눈 카카오톡 오픈채팅방 대화내용이 떠 있었다. 오픈채팅방에서 상대방이 “지금 500만원을 보내줄 수 있어요?”라고 묻자 A씨는 “월요일 오후에 될 것 같아요”라고 답했다. 이어 상대가 “이건 비밀로 해줘. 다른 누구에게도 말하지 마”라고 하자 A씨는 “알겠습니다 사랑해요”라고 했다.&lt;br&gt;&lt;br&gt;상대는 금 투자를 빌미로 A씨에게서 돈을 뜯어내려 했다. 상대는 A씨에게 금괴가 나오는 영상 등을 보내며 “50억원 상당의 가치가 있어요”라며 “호주에서는 금값이 아주 싸거든요. 저와 함께 투자해서, 물건을 사서 50억원을 벌어 볼 생각이 있으신지 궁금합니다”라고 말했다. 그러면서 “내 사랑을 이해하시나요?”라고 덧붙였다. &lt;br&gt;&lt;br&gt;대화 내용을 확인한 농협 직원은 수상함을 느껴 경찰에 신고했다. 이후 출동한 경찰이 확인한 결과, A씨는 모르는 상대와 연락을 주고받은 뒤 타 은행에서 대출받은 금액까지 더하여 총 1000만원을 송금하려던 상황이었다. &lt;br&gt;&lt;br&gt;이에 농협 직원과 경찰은 30분 정도 A씨를 설득해 송금을 막았다. 지적 장애가 있는 A씨는 사기임을 이해하지 못하며 ‘생활비로 사용하겠다’고 거짓말을 하기도 했으나 모두의 설득 끝에 피해를 막을 수 있었던 것으로 전해졌다. 이후 경찰은 A씨를 보호자인 아들에게 인계했다. &lt;br&gt;&lt;br&gt;A씨의 피해를 막은 이승호 익산농협 동산지점 업무과장 대리는 “평소 관련 교육을 받은 내용과 같아서 이것이 로맨스 스캠이라는 것을 알게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;현장에 출동한 익산경찰서 평화지구대 고은성 순경은 “(A씨에게) 30분간 사기 수법임을 설명하며 지속적으로 설득한 끝에 피해를 막을 수 있었다”며 “보호자에게 안전하게 인계할 수 있었다”고 했다. 이어 “경찰은 어떤 신고도 가볍게 여기지 않으니 유관 기관과 은행 직원, 시민 여러분의 적극적인 신고를 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“시끄럽다”며 태어난 지 일주일 된 신생아 학대해 죽게 한 친부... 대법, 징역 10년 확정</title>
       <link>https://www.chosun.com/national/court_law/2026/02/03/SG5VATE2EJD6ZKYFIAQVR5LNDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/SG5VATE2EJD6ZKYFIAQVR5LNDA/</guid>
@@ -836,15 +854,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FN6R5HC56RDMDKXZGUHXGL2RPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인플루언서 김지연과 롯데자이언츠 투수 정철원. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인플루언서 김지연(30)이 이혼 소송 중인 롯데 자이언츠 투수 정철원(27)의 가정폭력과 외도 의혹을 제기하며 법적 대응에 나섰다.&lt;br&gt;&lt;br&gt;김지연 법률대리인 법무법인 해든 이재희 변호사는 2일 공식 입장을 내고 “다양한 추측성 루머가 난무하고 있고 그중 허위 사실이 포함돼 2차 피해를 발생시키는 경우도 다수 확인됐다”며 “특히 정철원 측에서 양육권 등을 언급했기 때문에 김지연을 대리해 공식 입장을 표명한다”고 했다.&lt;br&gt;&lt;br&gt;이 변호사는 “언론을 통해 접하신 바와 같이 김지연은 혼인 이후 어린아이를 양육하면서 가정폭력 등으로 끊임없는 고통을 받아왔다”며 “최근 정철원의 외도가 의심되는 정황을 많은 분께서 제보해 주신 바도 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 김지연은 아이를 생각해 최대한 원만한 방법으로 문제를 해결하고 혼인 관계를 유지하려 노력했으나, 정철원이 아이를 두고 나간 뒤 양육비 지급을 중단한 채 법률대리인을 통해 이혼과 양육권에 대해 언급하는 것에 많은 좌절감을 느끼는 상황”이라고 전했다.&lt;br&gt;&lt;br&gt;그러면서 “김지연은 향후 모든 절차를 진행함에 있어 아이를 보호하고 양육권을 가지는 것을 최우선 순위로 삼고 법적 절차를 진행할 계획”이라며 “이 사건은 어디까지나 개인사일 뿐으로, 정철원 소속 구단이나 동료 선수들에게 어떠한 피해가 가지 않도록 도와달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 김지연과 정철원은 2024년 3월 혼전 임신 소식을 알렸고 같은 해 8월 아들을 품에 안았다. 작년 12월 결혼식을 올렸으나 불과 한 달 만에 불화설이 제기됐다. 이후 김지연은 “남편이 가출 후 일방적으로 양육권을 갖겠다고 소송을 걸어왔다. 엄마로서 이제는 참을 수 없다”며 파경 사실을 간접적으로 밝혔다.&lt;br&gt;&lt;br&gt;이 과정에서 김지연은 “정철원이 아들 돌반지와 팔찌를 녹여 금목걸이를 했다” “비시즌에도 집에 없으니 (아들이 아빠를) 못 알아본다” “정철원이 연봉 대부분을 시댁에 보내 제가 혼수와 육아용품을 다 마련하고 만삭 때까지 일했다” “용돈 없이 제 모든 수입을 생활비로 지출했다”고 폭로했고, 정철원의 외도를 목격했다는 네티즌 글을 공유하며 “증거는 많다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;이에 정철원은 지난달 법률대리인을 통해 “아이의 아빠로서 책임감 있게 행동할 것이고 양육권도 최대한 가지고 올 수 있도록 하겠다”며 “선수로서 운동에 집중하고, 좋은 성과를 낼 수 있도록 최선을 다할 것”이라는 입장을 냈다.&lt;br&gt;&lt;br&gt;김지연은 한양대 무용학과를 졸업한 뒤 Mnet 예능 프로그램 ‘러브캐처’ 시즌1에 출연하며 얼굴을 알렸다. 현재는 인플루언서 겸 유튜버로 활동 중이다. 정철원은 2018년 KBO 신인 드래프트 2차 2라운드 전체 20순위로 두산 베어스에 지명됐고, 2022년 신인왕을 받았다. 2024년 말 롯데 자이언츠로 이적해 불펜 투수로 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>치과위생사에 570명 채혈 지시한 치과의사... 법원 “자격정지 3개월 정당”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/02/2WBYU477DRHHZLA7AKY6UX4ABU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/02/2WBYU477DRHHZLA7AKY6UX4ABU/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 01:30:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STOXUAIFANIHTAXEW4IDITKCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치과위생사에게 의료인이 해야 하는 채혈을 지시한 치과의사가 보건복지부로부터 3개월 자격정지를 처분 받은 것은 정당하다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 작년 11월 치과의사 A씨가 보건복지부를 상대로 제기한 ‘의사면허자격정지처분 취소’ 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 서울 성북구 소재 치과에서 근무하던 중 치과위생사들에게 환자 570명의 채혈을 지시한 혐의(의료법 위반)로 2023년 10월 서울북부지법에서 벌금 1000만원을 선고받았다. 보건복지부는 2024년 9월 해당 판결과 관련해 A씨가 의료인이 아닌 자에게 의료행위를 하게 하는 등 의료법 27조 1항을 위반했다고 보고, 의료법 66조 1항 5호와 10호에 따라 2024년 12월 23일부터 2025년 3월 22일까지 3개월간 자격정지 처분을 내렸다.&lt;br&gt;&lt;br&gt;그러나 A씨는 자신이 치과위생사에게 채혈을 지시한 건 의료인이 아닌 ‘의료기사’에게 업무 범위를 벗어나게 한 경우(의료법 66조 1항 6호)에 해당한다며 자격정지 15일이 맞다고 반박했다. 현행 의료법에 따르면 의료기사가 아닌 사람에게 의료기사 업무를 하게 한 경우나 의료기사에게 그 업무 범위를 벗어나게 한 경우 자격정지 15일을 처분할 수 있다. A씨는 치과위생사가 ‘의료기사’에 해당한다며 ‘의료인’을 대상으로 한 법이 아닌 ‘의료기사’를 대상으로 하는 법이 적용돼야 한다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 보건복지부의 처분이 문제가 없다며 A씨 주장을 기각했다. 재판부는 의료기사의 종류가 다양하고 의료행위의 범위가 매우 넓기에 의료기사라 하더라도 허가된 업무 범위 외 업무에 대해선 충분한 지식과 경험이 없다고 설명했다. 또한 의료기사가 의료인만 할 수 있는 행위를 하는 것이 의료인이 면허 범위를 벗어나 의료행위를 하는 것과 비교했을 때 더 큰 위해 가능성이 있음에도 경미한 행정처분을 받게 된다고 짚었다.&lt;br&gt;&lt;br&gt;재판부는 아울러 “의료법 66조 1항 5호가 의료행위에 관해 포괄적으로 규율하는 형식을 취하고 있다”며 “의료기사에게 의료인이 직접 해야 하는 업무를 수행하게 하는 것은 의료기사에게 진료기록부를 대신 작성하도록 하는 것과 같이 업무 범위를 벗어나게 하는 것을 의미한다고 보는 게 타당하다”고 판단했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>악귀 때려잡으려 새해 아침 마시는 찬술</title>
       <link>https://www.chosun.com/national/weekend/2026/01/31/WJ275XHPBFE4PK75RM7RWR4PZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/01/31/WJ275XHPBFE4PK75RM7RWR4PZI/</guid>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Sat, 31 Jan 2026 01:37:19 +0000</pubDate>
       <content:encoded>토요일인 31일 중부 지방을 중심으로 아침 기온이 -10도 안팎까지 떨어졌다. 낮에는 추위가 누그러들어 최고기온이 영상권에 들겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVTDQYJWMY2TQY3DGEYDMZDBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두터운 옷차림을 한 시민들이 발걸음을 서두르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오전 5시 기준 한파특보가 발효된 수도권과 강원 내륙·산지, 충청 내륙, 전북 북동부, 경북권을 중심으로 아침 기온이 -10도 안팎까지 하락했다. 일부 북부 내륙과 강원 내륙·산지는 -15도 안팎으로, 강원 봉평(평창)은 -18도까지 떨어졌다.&lt;br&gt;&lt;br&gt;기상청은 “바람의 영향으로 체감온도는 더 낮겠으니, 면역력이 약한 노약자와 어린이는 가급적 야외 활동을 자제하는 등 건강관리에 유의해야 한다”고 했다. &lt;br&gt;&lt;br&gt;낮에는 최고기온이 0~8도까지 오르는 등 영상권으로 기온이 오르겠다. 이날 제주도를 제외한 전국 대부분 지역에 건조특보가 발효된 가운데 대기가 매우 건조하겠다. 31일 늦은 밤부터 인천·경기 남서부와 충남 북부 서해안, 1일 새벽부터 오전 사이 인천·경기 남부와 충북 중·북부, 전남(서해안 제외), 경상 서부 내륙에 0.1㎝ 미만의 눈이 날리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청은 일요일인 다음 달 1일까지는 기온이 평년보다 낮은 추위가 이어지다, 월요일인 2일부터 기온이 평년과 비슷하게 회복될 것이라고 예보했다. 일요일 아침 최저기온은 -13도에서 -1도, 낮 최고기온은 0에서 7도다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘조계종 비판해 승적 박탈’ 명진스님... 항소심도 “징계 무효”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/31/UH3A3DTY6ZF43NR6BIKOMGSJSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/31/UH3A3DTY6ZF43NR6BIKOMGSJSU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 Jan 2026 01:29:38 +0000</pubDate>
-      <content:encoded>자승 총무원장 시절인 2017년 대한불교조계종 지도부를 비판하다 승적을 박탈당한 명진 스님이 1심에 이어 항소심에서도 징계 무효 판결을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2GEZDEGE4DKNDDGJRGKOBYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;명진스님./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 서울고법 민사15-2부(재판장 신용호)는 지난 16일 명진 스님이 조계종을 상대로 낸 징계무효확인 등 청구 소송에서 원심과 동일하게 원고 일부 승소로 판결했다. 재판부는 “명진 스님과 조계종이 주장하는 내용은 1심에서의 주장과 크게 다르지 않다”며 명진 스님과 조계종의 항소를 모두 기각했다. 다만 명진 스님이 요구한 위자료 3억원에 대해서는 소멸시효가 지났다는 이유로 청구를 기각했다.&lt;br&gt;&lt;br&gt;이 사건은 명진 스님이 2016년 12월 TBS 프로그램 ‘김어준의 뉴스공장’에 출연해 “템플스테이나 문화재 관리 비용이 총무원장의 통치 자금처럼 변했다”고 말하는 등 종단 운영을 비판한 게 발단이 됐다.&lt;br&gt;&lt;br&gt;조계종 종단 내 비위 조사, 징계 요청 등 검찰과 같은 역할을 하는 호법부는 이 같은 명진 스님 발언이 “근거 없이 승가의 존엄성과 종단의 명예를 훼손하고 종단 집행부와 주요 종무직에 있는 스님들을 폄하하고 명예를 실추시켰다”며 명진 스님의 제적을 요구했다.&lt;br&gt;&lt;br&gt;종단 사법기구 역할을 하는 초심호계원은 명진 스님이 이 사건 심리를 위한 출석 요구에 응하지 않자 호법부의 청구를 그대로 받아들여 2017년 4월 5일 제적을 결정했다. 이에 명진 스님은 2023년 2월 조계종을 상대로 제적 결정이 무효라며 소송을 냈고 지난해 6월 징계 8년 만에 무효 판결을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
