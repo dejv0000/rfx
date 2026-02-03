@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘채상병 수사 외압’ 尹·이종섭, 첫 재판서 혐의 부인...“근거없는 삼인성호”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/03/5RD5WLFI2BDMRJ3LCKHAOKTOZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/5RD5WLFI2BDMRJ3LCKHAOKTOZ4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 09:07:54 +0000</pubDate>
+      <content:encoded>해병대원 순직 사건 수사에 외압을 가하고 이를 은폐했다는 혐의로 기소된 윤석열 전 대통령 측이 첫 재판에서 혐의를 모두 부인했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 3일 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 공판 준비 기일에서 “임성근 전 해병대 1사단장을 혐의자에서 제외하라고 지시한 사실이나 의도가 전혀 없다”고 밝혔다. 공판 준비 기일은 본격적인 재판에 앞서 쟁점과 입증 계획을 정리하는 절차로, 피고인의 출석 의무는 없다. 이날 윤 전 대통령은 직접 출석하지는 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSWEMJQG43DANLBGMYTQMZRGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난해 9월 서울중앙지법에서 열린 체포 방해 등 사건 1심 선고 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채상병 수사 외압 의혹은 2023년 7월 경북 예천군 수해 복구 및 실종자 수색 작업에 투입됐던 채수근 상병이 급류에 휩쓸려 순직한 뒤 불거졌다. 사건을 수사한 특검은 윤 전 대통령이 같은 달 31일 박정훈 당시 해병대 수사단장의 초동 조사 결과를 보고받고 “이런 일로 사단장을 처벌해도 되느냐”며 격노했고, 이후 임 전 사단장을 혐의자에서 제외하라고 지시했다고 판단했다. 특검은 이후 이종섭 전 국방장관 등 국방부 수뇌부가 수사에 개입해 임 전 사단장을 피의자에서 제외하고, 박 전 단장에 대해 항명 혐의 수사·기소를 진행했다고 보고 이들을 기소했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 이날 재판에서 “기록 회수나 수사 결과 변경 등 공소장에 기재된 어떠한 지시를 한 바 없고, 누구와도 공모하지 않았다”며 “설령 지시가 있었다 하더라도 군 통수권자로서 정당한 권한 행사로 직권남용죄가 성립하지 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령과 함께 기소된 이종섭 전 장관, 조태용 전 국가안보실장, 신범철 전 국방부 차관 측도 모두 혐의를 부인했다.&lt;br&gt;&lt;br&gt;이 전 장관 측은 “박정훈 전 수사단장이 사건 이첩 보류의 목적이나 의도를 왜곡해 ‘수사 외압’이라는 일방적 주장을 언론에 발표하면서 의혹이 불거졌다”며 “마치 ‘삼인성호(三人成虎)’와 같이 근거 없는 주장이 사실로 받아들여졌다”고 했다. 삼인성호는 ‘세 사람이면 호랑이를 만든다’는 뜻으로, 근거 없는 주장이라도 여러 사람이 반복해서 말하면 사실처럼 받아들여질 수 있다는 의미의 고사성어다. 이어 “윤 전 대통령으로부터 특정인을 피혐의자에서 제외하라는 지시를 받은 사실도 없다”고 했다.&lt;br&gt;&lt;br&gt;조 전 실장 측은 “윤 전 대통령으로부터 기록 회수를 지시받은 적이 없고, 이를 이시원 전 공직기강비서관에게 전달한 사실도 없다”며 “특검 공소사실은 전제부터 사실과 다르다”고 주장했다. 신 전 차관 측은 “이 전 장관의 해외 출장 중 채상병 사건과 관련해 ‘상황만 잘 관리하라’는 취지의 전화를 받고 이를 확인하고 관리했을 뿐”이라는 취지로 밝혔다.&lt;br&gt;&lt;br&gt;이 밖에 함께 기소된 유재은 전 국방부 법무관리관, 박진희 전 군사보좌관, 김동혁 전 국방부 검찰단장, 김계환 전 해병대사령관도 대부분 혐의를 부인했다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 18일 공판 준비 기일을 한 차례 더 연 뒤, 4월부터 본격적인 재판을 진행하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 옥인파출소, 6년 넘게 빌라 지하에 방치된 개 20여 마리 구출</title>
       <link>https://www.chosun.com/national/national_general/2026/02/03/E3N2NBMPLNEFJK43EXG5AA7U74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/E3N2NBMPLNEFJK43EXG5AA7U74/</guid>
@@ -904,15 +913,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/PGA7BMSP2VNZZC7YSAXWUDVVZY.jpg?auth=4ea719eb684f9c9001152fbe5db2eb3618b4e1aa474538e6beab4885562a5e93&amp;smart=true&amp;width=4111&amp;height=3083" type="image/jpeg" height="3083" width="4111">
         <media:description type="plain">[광주=뉴시스] 이현행 기자 = 더불어민주당 민형배(광주 광산을)의원이 2일 오전 광주 서구 치평동 광주시의회 브리핑룸에서 전남광주통합특별시장 출마 기자회견을 하고 있다. 2026.02.02. lhh@newsis.com</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>이강덕 경북 포항시장… 2일 경북지사 선거 출마 공식 선언</title>
-      <link>https://www.chosun.com/national/regional/2026/02/02/SWGNFKEBTJEYNA7NEPA35V7ZIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/02/SWGNFKEBTJEYNA7NEPA35V7ZIM/</guid>
-      <dc:creator>구미=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 05:35:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRTCYTEGU3GEZRVHEZGKNJRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이강덕 경북 포항시장이 2일 구미코에서 기자회견을 열고 6·3지방선거에 경북지사 출마를 선언했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이강덕 경북 포항시장이 2일 “경북의 미래를 위해 제2의 박정희가 되겠다”며 경북지사 선거 출마를 공식 선언했다.&lt;br&gt;&lt;br&gt;이 시장은 이날 경북 구미시 구미코에서 기자회견을 열고 “박정희 대통령께서 평생을 조국과 민족을 위해 헌신하셨듯 제 삶을 경북과 도민을 위해 바치겠다”며 “박 대통령께서 물려주신 경북의 철강·전자·자동차·기계 산업의 유산 위에 이차전지, 반도체, 방산, 항공이 결합한 AI로봇 산업으로 경북 중흥의 길을 새롭게 열겠다”고 말했다. &lt;br&gt;&lt;br&gt;그는 “실천 없는 약속은 의미가 없다”며 “포항시장 재임 기간 철강 중심 산업 구조를 이차전지 등 첨단 산업으로 전환하고, 16조5000억원의 투자 유치와 1만7000여 개의 일자리를 창출한 것은 말이 아닌 실천의 결과”라고 설명했다.&lt;br&gt;&lt;br&gt;이 시장은 “지금 경북에는 말로 싸우는 정치가가 아니라, 경북의 미래를 준비할 행정가가 필요하다. 정치가는 여의도로 가서 정치를 하시라”며 “행정가로서 경북의 미래를 책임질 행정을 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“두쫀쿠로 日매출 1억3000만원”… 최초 개발자는 해군 부사관 출신 </title>
