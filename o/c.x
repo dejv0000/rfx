@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전원주 “곱게 늙고 싶어”... 500만원 들여 시술 받았다</title>
+      <link>https://www.chosun.com/national/people/2026/02/03/B2AD7D4L4JB6NFSEUQ4WWD2SSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/03/B2AD7D4L4JB6NFSEUQ4WWD2SSM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 13:59:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBFGDD5PYFDBDGQ4JYLKAWZEGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 전원주가 피부 리프팅을 받고 난 전후 모습./유튜브 '전원주인공'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 전원주가 500만원의 돈을 들여 피부 리프팅 시술을 받는 모습을 공개했다.&lt;br&gt;&lt;br&gt;3일 유튜브 채널 ‘전원주인공’에는 전원주가 서울 청담동의 한 피부과를 찾아 상담과 시술을 받는 과정이 담긴 영상이 올라왔다. &lt;br&gt;&lt;br&gt;전원주는 시술을 결심한 이유에 대해 “이제는 늙는 것도 좋지만 곱게 늙는 게 소원”이라며 “거울을 들여다보다가 얼굴이 빨래판처럼 쭈글쭈글해 보이면 ‘TV에서 안 쓰겠구나, 늙었다고 안 쓰겠구나’라는 생각이 든다”고 털어놨다. 이어 “10년만 젊어졌으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;이날 전원주는 절친한 동생인 배우 서우림과 함께 병원을 찾았다. 그는 “얼마 전 보톡스를 맞았더니 주름이 없어지는 것 같았다”며 “연예계에서는 늙으면 안 쓴다고 해서 젊어지려고 왔는데, 고령 환자들은 어떤 시술을 많이 받느냐”고 물었다. 이에 의료진은 “고령 환자는 성형외과에서 거상을 하거나, 피부과에서는 티가 덜 나고 자연스럽게 예뻐지는 시술을 선택하는 경우가 많다”고 설명했다.&lt;br&gt;&lt;br&gt;전원주는 볼에 생긴 흑자 제거를 포함해 울쎄라, 티타늄, 온다, 보톡스 시술 등을 받기로 했다. 예상 비용이 약 500만원이라는 설명에 놀라면서도 “잘해달라”고 당부했다.&lt;br&gt;&lt;br&gt;옆에서 이를 지켜보던 서우림은 “말도 안 된다. 500만원을 들여서 왜 그런 걸 하느냐”고 말렸지만, 전원주는 “1000만원이 넘는 것도 있다. 젊은 사람들은 다 한다더라”며 미모 관리를 위한 투자를 마다하지 않겠다는 뜻을 보였다.&lt;br&gt;&lt;br&gt;시술이 진행되는 동안 전원주는 통증에 얼굴을 찡그리면서도 끝까지 견뎠다. 시술이 끝난 뒤 서우림은 전원주의 얼굴을 보며 “완전 동생이 됐다. 주름 하나 없이 매끈해졌다. 피부가 진짜 젊어졌다”고 말했다.&lt;br&gt;&lt;br&gt;전원주는 달라진 모습을 확인한 뒤 “예뻐진다는 게 쉬운 일이 아니다”며 만족감을 드러냈고, 시술비 500만원을 결제하며 웃음을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BBFGDD5PYFDBDGQ4JYLKAWZEGM.jpg?auth=5ffa4baa28a4bcd240ca8830fe3dc55afa52c7207a9d0b735b525a02c8d9fb10&amp;smart=true&amp;width=540&amp;height=295" type="image/jpeg" height="295" width="540">
+        <media:description type="plain">배우 전원주가 피부 리프팅을 받고 난 전후 모습./유튜브 '전원주인공'</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>제헌절, 18년 만에 다시 ‘공휴일’된다</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/03/YHMQXQAA25C3RFW4LCNOHF7CZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/YHMQXQAA25C3RFW4LCNOHF7CZM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Feb 2026 10:51:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4GENZZHA4WCYJTHA3TKYZVGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 7월 17일 오후 경기 수원시의 한 아파트단지에 태극기가 게양돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7월 17일 제헌절이 18년 만에 다시 공휴일로 지정된다.&lt;br&gt;&lt;br&gt;인사혁신처는 3일 제헌절을 공휴일로 지정하는 내용을 담은 ‘공휴일에 관한 법률’ 개정안의 공포안이 국무회의에서 의결됐다고 밝혔다. 해당 법안은 공포 후 3개월이 지나 시행된다.&lt;br&gt;&lt;br&gt;이에 따라 올해부터는 3·1절, 제헌절, 광복절, 개천절, 한글날 등 5대 국경일이 모두 공휴일로 운영된다.&lt;br&gt;&lt;br&gt;제헌절은 대한민국 헌법이 공포된 1948년 7월 17일을 기념하는 날이다. 1949년 국경일이자 공휴일로 지정됐지만, 주 5일제 도입에 따른 공휴일 조정 과정에서 2008년부터 공휴일에서 제외됐다.&lt;br&gt;&lt;br&gt;정부는 헌법 제정의 의미를 되새길 수 있는 계기가 필요하다는 판단 아래 제헌절의 공휴일 재지정을 추진해 왔다. 국회는 지난달 29일 본회의에서 관련 법 개정안을 처리했다.&lt;br&gt;&lt;br&gt;인사혁신처는 앞으로 ‘관공서의 공휴일에 관한 규정’ 개정 등 후속 절차를 신속히 진행할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘채상병 수사 외압’ 尹·이종섭, 첫 재판서 혐의 부인...“근거없는 삼인성호”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/03/5RD5WLFI2BDMRJ3LCKHAOKTOZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/5RD5WLFI2BDMRJ3LCKHAOKTOZ4/</guid>
@@ -882,15 +903,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBRGHJ5LVZBWHMX7IXGZBEFYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부경찰서 전경./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부에서 아내를 살해한 70대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;의정부경찰서는 살인 혐의로 A씨를 긴급체포했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 10시쯤 의정부의 한 가게에 A씨가 찾아왔다. 가게 주인은 횡설수설하는 A씨의 말 내용이 범죄와 연루됐다고 판단해 경찰에 신고했다. &lt;br&gt;&lt;br&gt;출동한 경찰이 A씨의 집을 방문했지만 그의 아내 80대 여성 B씨가 숨져 있는 것을 확인해 A씨를 긴급체포했다. 현장에선 흉기 등 범행 도구는 발견되지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “아내와 다투다 범행을 했다”고 진술했지만 범행 동기나 시점에 대해선 “잘 기억이 나지 않는다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>더불어민주당 임미애 의원, 2일 TK행정통합 특별법 발의</title>
-      <link>https://www.chosun.com/national/regional/2026/02/02/XTIQ263SBJCCTDXSZOBGRJZSJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/02/XTIQ263SBJCCTDXSZOBGRJZSJY/</guid>
-      <dc:creator>안동=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 05:43:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5SQKD5IOZMEPP34VEBYVG3COE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임미애 더불어민주당 국회의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도의원을 지낸 임미애(더불어민주당·비례대표) 국회의원은 대구시와 경북도를 통합해 고도의 자치권이 보장되는 정부 직할 ‘대구경북특별시’를 설치하는 내용의 ‘대구경북행정통합특별법안’을 대표 발의했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;이날 임 의원이 대표 발의한 법안에 따르면, 현행 대구시와 경북도를 각각 폐지하고 그 관할 구역을 포괄하는 정부 직할 ‘대구경북특별시’를 신설하고, 서울특별시에 준하는 지위를 부여하도록 했다. 특별시의 종합계획 수립과 행정·재정·자주권 강화, 중앙 권한 이양 및 지원·우대 조치는 국무총리 소속 ‘대구경북특별시 지원위원회’에서 심의하도록 했다.&lt;br&gt;&lt;br&gt;또 중앙사무의 단계적 이양도 법안에 담았다. 외교·국방·사법 등 국가 존립 사무를 제외한 중앙사무를 대상으로 전수조사와 이양 계획을 수립하고 주민 편의와 지역경제, 삶의 질과 직결되는 사무를 우선 이관하도록 했다. &lt;br&gt;&lt;br&gt;이와 함께 통합 특별시장이 특별시 관할 구역 내 격차 해소와 낙후 지역의 균형 발전을 위한 시책을 우선적으로 수립하고 지원하도록 하는 의무 규정도 포함돼 있다. 특히 통합 이전 경상북도 지역에 국립의과대학과 부속병원을 설치하도록 했고, 과학기술의학전문대학원 설치 규정도 담았다. &lt;br&gt;&lt;br&gt;임 의원은 “행정 통합이 대구·경북을 비롯한 지방의 성장과 5극 3특 체제의 완성으로 연결될 수 있도록 국회 논의 과정에서 꼼꼼히 점검하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난달 30일 국민의힘 경북도당 위원장인 구자근 의원, 대구시당 위원장인 이인선 의원은 대구·경북 행정통합 내용을 담은 ‘대구경북특별시 설치 및 한반도 신경제 중심축 조성을 위한 특별법안’을 국회 의안과에 제출했다. 특별법안에는 국민의힘 소속 대구 지역 국회의원 12명 전원, 경북 지역 국회의원 13명 중 10명이 공동 발의자로 이름을 올렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>태국발 마약밀수 총책 잡고 보니, 전직 프로야구 선수</title>
       <link>https://www.chosun.com/national/regional/2026/02/02/ZXMW3HEX3RFNHEBROMJBJPYI6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/02/ZXMW3HEX3RFNHEBROMJBJPYI6Q/</guid>
@@ -922,15 +934,6 @@
       <description/>
       <pubDate>Mon, 02 Feb 2026 05:14:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2H44IBCKS5EKBEEOV3FMJHIYSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두바이 쫀득 쿠키 최초 개발자인 김나라 제과장 ./SBS '생활의 달인'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘두쫀쿠’(두바이 쫀득 쿠키)를 최초 개발해 시장에 내놓은 것으로 알려진 ‘몬트쿠키’의 김나라 제과장이 방송을 통해 두쫀쿠 개발 뒷얘기를 소개했다. 두쫀쿠는 초콜릿을 넣은 마시멜로와 피스타치오, 중동에서 먹는 면인 카다이프를 이용해 만든 디저트로 오픈런 현상이 일고 외신도 주목할 만큼 인기를 끌고 있다.&lt;br&gt;&lt;br&gt;김 제과장은 지난달 26일 방송된 SBS ‘생활의 달인’에 출연해 두쫀쿠를 개발하게 된 계기를 밝혔다. 해군 항공 부사관 출신인 그는 군 복무 시절 선후임 관계로 인연을 맺은 몬트쿠키 이윤민 대표와 함께 전역 이후 디저트 시장에 뛰어들었다. 그는 당초 쿠키에 마시멜로가 코팅된 ‘쫀득 쿠키’를 선보이며 고객들에게 좋은 반응을 얻었다고 한다. &lt;br&gt;&lt;br&gt;그러다 두바이 초콜릿 열풍이 불던 작년 4월 한 단골손님이 두바이 스타일의 쫀득쿠키를 만들어 달라고 요청했다. 이에 그는 수개월에 걸쳐 겉은 쫀득하고 속은 피스타치오와 카다이프를 넣어 고소하고 바삭한 현재의 두쫀쿠를 완성했다. &lt;br&gt;&lt;br&gt;이 두쫀쿠는 소셜미디어를 통해 입소문을 타며 대박을 터뜨렸다. 김 제과장은 50명에 이르는 제조 직원과 함께 하루 3만개 이상의 두쫀쿠를 만들고 있다. 하루 매출은 1억3000만원 수준이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBVI4GZIAVF5TJYPTEKAAIKHZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SBS '생활의 달인'에 나온 두쫀쿠./SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두쫀쿠가 큰 인기를 끌자 다른 가게에서도 김 제과장의 조리법을 바탕으로 한 쿠키를 팔며 수익을 내고 있다. 일각에서는 특허라도 냈어야 하는 것 아니냐는 말이 나오지만 김 제과장은 ‘두쫀쿠’ 명칭이나 조리법을 독점하고 싶은 생각은 없다고 했다. &lt;br&gt;&lt;br&gt;그는 “과정도 단순하고 누구나 만들 수 있다고 생각했는데 이렇게까지 많은 사랑을 받을 줄 몰랐다”며 “많은 가게에서 본인들만의 스타일대로 두쫀쿠가 여러 형태로 많이 나왔다. 다 같이 유행을 만들어줘서 이런 사랑을 받을 수 있었다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;김 제과장은 이날 방송에서 조리법을 공개했다. 그는 바삭한 식감을 살리기 위해 카다이프에 현미를 넣어 오븐에 여러 번 굽는다고 한다. 이후 카다이프에 화이트 초코를 섞어 단맛을 더하고 피스타치오 스프레드까지 넣으면 쿠키의 속재료가 완성된다. 겉을 감싸는 마시멜로 피는 버터와 마가린을 이용해 약불에서 천천히 녹인다. 마시멜로를 너무 많이 녹이면 오히려 딱딱해진다고 한다. 이후 코코아 가루와 탈지분유를 넣어 쫀득함을 살린다고 김 제과장은 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마약 총책 잡고보니... 국내 공장 외국인 노동자였다 </title>
-      <link>https://www.chosun.com/national/2026/02/02/IOBC53ZU7NGKDOHRXZVVMRU6H4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/02/IOBC53ZU7NGKDOHRXZVVMRU6H4/</guid>
-      <dc:creator>진주=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 02:13:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4GIYLGHAYTMYJSGQYDIMLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 노동자들이 해외에서 대량의 마약을 밀수해 국내에 유통하다 적발됐다. &lt;br&gt;&lt;br&gt;진주경찰서는 해외에서 필로폰과 야바(필로폰과 카페인 등을 혼합한 합성 마약) 등을 국내로 밀수·유통한 혐의(마약류관리에관한법률 위반)로 태국 국적의 국내 총책 A(20)씨와 유통책 18명, 투약 사범 2명 등 내·외국인 총 21명을 붙잡았다고 2일 밝혔다. 이 중 A씨 등 16명은 구속했다. &lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난해 9월쯤 소셜미디어(SNS)를 통해 태국에 있는 마약류 판매 총책의 지시로 태국 식품에 은닉·포장된 야바 7만9000정을 국내로 밀수했다. 또 다른 마약 유통책으로부터 필로폰 5㎏을 전달받아, 국내에 재차 유통한 혐의를 받는다. 이렇게 유통된 마약은 중국인·태국인 등을 통해 다시 퍼져 나갔다고 한다. &lt;br&gt;&lt;br&gt;경찰은 지난해 10월 필로폰 거래 현장을 잠복한 끝에 중간 유통책 3명을 검거하고, 마약 유통망 상선과 하선을 쫓았다. 이후 3개월간 유통책 15명, 투약 사범 2명 등 17명을 추가로 붙잡았다. 경찰이 검거한 21명 중 내국인은 3명이고 나머지는 태국인 15명, 라오스인 1명, 중국인 2명이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZWKNZZGVSTEYJZGU2WMYTFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진주경찰서가 압수한 야바 6만7000정이 들어 있는 박스. /진주경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총책 A씨는 지난 2024년 8월쯤 비전문 취업 비자로 국내로 들어와 천안에 있는 한 제조업체에서 일해왔던 것으로 조사됐다. A씨 외에도 태국인·라오스인 15명 대부분은 국내 공장에서 근로자로 일하며 기숙사 생활을 해왔다고 한다. 이 중 불법 체류자도 있었다. &lt;br&gt;&lt;br&gt;경찰은 이들을 체포하는 과정에서 국내에 들어온 필로폰 5㎏ 중 2.92㎏ 상당(2억9000만원)을 압수했다. 이는 9만7000여 명이 동시에 투약할 정도의 양이다. 또 야바 7만9000정 중 6만8043정(13억6000만원 상당)도 압수했다. &lt;br&gt;&lt;br&gt;진주경찰서 관계자는 “마약류 유통 과정에서 이용된 자금과 불법 수익의 이동 및 경로 수사도 병행하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;한편, 이들을 체포한 진주경찰서 마약팀은 국제 마약 밀반입 및 국내 유통책을 일망타진한 공로로 경찰청 제1회 특별 성과 포상금을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>악귀 때려잡으려 새해 아침 마시는 찬술</title>
