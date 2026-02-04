@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대장동 이어 위례도 포기... 검찰의 ‘항소 내로남불’</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/JCUUHASXABHIFFFAYDIYIXMI5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/JCUUHASXABHIFFFAYDIYIXMI5U/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 10:48:38 +0000</pubDate>
+      <content:encoded>검찰이 ‘위례 신도시 개발 비리 의혹’ 사건으로 1심에서 무죄를 선고받은 민간업자들에 대해 4일 항소를 포기했다. 문재인 정부 시절 이상직 전 더불어민주당 의원의 중소벤처기업진흥공단 이사장 임명 과정에 부당하게 개입한 혐의(직권남용 등)로 기소됐다가 마찬가지로 1심에서 무죄를 선고받은 조현옥 전 청와대 인사수석에 대해서도 같은 날 항소하지 않기로 결정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DMMBQMMZTKM3DHEZTGNLFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 지난해 11월 대장동 사건 1심에서 항소를 포기한 이후, 현 정부와 맞물린 정치적으로 민감한 사건들에 대해 잇따라 항소하지 않고 있다. 이를 두고 검찰 안팎에서는 “검찰이 정치권을 의식해 항소 여부를 선택적으로 결정하고 있다”는 지적이 나온다. &lt;br&gt;&lt;br&gt;서울중앙지검은 이날 위례 사건에 대해 “법리 검토 결과 및 항소 인용 가능성 등을 고려해 항소를 제기하지 않도록 했다”고 밝혔다. 조 전 수석에 대해서는 “증거 관계와 항소 인용 가능성을 고려해 항소를 제기하지 않기로 했다”고 밝혔다. 조 전 수석 사건을 수사했던 전주지검은 항소 의견이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 여권 정치인이 연루된 ‘서해 공무원 피살 은폐’ 사건에서도 1심에서 피고인 5명 전원에 무죄가 선고되자, 지난 1월 서훈 전 청와대 국가안보실장과 김홍희 전 해양경찰청장 등 일부 피고인에 대해서만 항소했다. 더불어민주당의 공직선거법·고위공직자범죄수사처법 신속처리안건(패스트트랙) 지정 과정에서 발생한 ‘패스트트랙 충돌’ 사건에서도, 1심에서 벌금형 등이 선고된 민주당과 국민의힘 전·현직 의원들에 대해 서울남부지검은 항소를 포기했다.&lt;br&gt;&lt;br&gt;이와 달리 전 정부 인사들이 연루된 사건들에 대해서는 항소가 이어지고 있다. 민중기 특별검사는 지난달 28일 김건희 여사를 비롯해, ‘통일교 금품 수수 의혹’과 관련된 권성동 국민의힘 의원, 윤영호 전 통일교 세계본부장의 1심 판결이 나오자 모두 항소했다. 현 정권 관련 사건에서는 항소 포기가 이어지는 반면, 전 정권 인사들에 대해서는 항소가 적극 이뤄지고 있는 셈이다. &lt;br&gt;&lt;br&gt;한편 서울중앙지검은 이날 대장동 사건의 1심에서 선고된 추징금을 토대로 일당들의 외제 차량과 각종 채권 등 재산에 대한 압류 조치에 나섰다고 밝혔다. 김만배씨에게는 약 428억원, 정민용씨에게는 약 37억2000만원, 유동규씨에게는 약 8억1000만원의 추징금이 각각 선고됐으며, 검찰이 항소하지 않음에 따라 추징금이 사실상 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘세종호텔 복직 농성’ 노조 지부장 구속영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/R4Z2KB4IW5CIPBDD4QM5DNGSPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/R4Z2KB4IW5CIPBDD4QM5DNGSPQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 13:08:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YA62VPXJ5ONLGKN7QKRET4QEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;업무방해 등 혐의를 받는 고진수 민주노총 서비스연맹 세종호텔지부장이 4일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종호텔 해고 노동자들의 복직을 요구하며 로비에서 농성을 벌인 혐의로 체포된 고진수 민주노총 서비스연맹 세종호텔지부장에 대한 구속영장이 4일 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장 전담 부장판사는 이날 퇴거불응 등 혐의를 받는 고 지부장의 구속영장 실질심사를 진행한 뒤 “피의자가 혐의를 인정하고, 같은 범행을 반복하지 않을 것을 다짐하고 있으며, 대부분의 증거가 확보된 점 등을 고려하면 피의자가 도망하거나 증거를 인멸할 염려가 있다고 보기 어렵다”고 기각 이유를 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난 2일 업무방해 및 퇴거불응 혐의로 고 지부장 등 12명을 체포했고, 이 중 고 지부장에 대해서만 구속영장을 신청했다. 고 지부장이 호텔 영업에 심각한 피해를 줬다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;고 지부장은 작년 2월부터 호텔 앞 10m 높이 구조물에서 336일간 고공농성을 했었다. 지난달 이를 중단한 뒤 호텔 안에서 농성을 계속해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건보공단 ‘담배 소송’ 대법원으로… 2심 패소에 상고</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/AGIYFJBRPJDH3GY5E6JH535AGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/AGIYFJBRPJDH3GY5E6JH535AGM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 11:39:00 +0000</pubDate>
+      <content:encoded>건강보험공단이 담배 회사들을 상대로 제기한 이른바 ‘담배 소송’ 항소심 패소에 불복해 대법원에 상고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASDQRMT6HJN65GQDB2BLSS27LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정기석 건강보험공단 이사장이 지난달 15일 서울 서초구 서울고등법원에서 열린 '담배 소송' 항소심 선고 직후 입장을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 건보공단은 서울고법 민사6부(재판장 박해빈)가 선고한 항소심 판결에 불복해 이날 상고장을 제출했다. 항소심 재판부는 지난달 15일 건보공단이 KT&amp;amp;G와 한국필립모리스, BAT코리아를 상대로 낸 손해배상 청구 소송에서 1심과 마찬가지로 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;건보공단은 담배 회사들이 건보 급여비 533억원을 배상해야 한다며 2014년 소송을 제기했다. 그러나 1심에 이어 2심에서도 패했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “건보공단이 지급한 보험 급여는 건강보험법에 따른 보험자의 의무 이행에 불과해 손해배상 청구 대상이 될 수 없다”고 판단했다. 폐암·후두암 환자 치료비 지급은 건보공단이 당연히 부담해야 할 비용이지, 담배 회사로부터 배상을 받을 ‘손해’로 볼 수 없다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 담배 회사들이 더 안전하고 중독성이 낮은 제품을 제조할 수 있었음에도 그러지 않았다는 건보공단 주장을 받아들이지 않았다. 또 1960~70년대 흡연자들이 담배의 중독성과 위험성을 제대로 인식하지 못했다는 주장도 배척했다. “담배가 건강에 해롭고 중독성이 있다는 것은 오래전부터 사회 전반에 알려졌다”는 것이다.&lt;br&gt;&lt;br&gt;건보공단은 이날 “담배 회사가 유해 물질을 제조·판매한 주체로서 그에 상응하는 법적 책임을 져야 한다는 점을 상고심에서 명확히 다룰 필요가 있다”며 “흡연과 폐암 간 인과관계가 그동안 수많은 연구를 통해 입증된 만큼 이에 대한 법적 판단도 보다 분명하게 정리돼야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;정기석 건보공단 이사장은 “이번 상고는 승패를 넘어 흡연으로 인한 건강 피해를 우리 사회가 어떻게 인식하고 책임을 배분할 것인지에 대한 기준을 묻는 과정”이라며 “대법원의 책임 있는 판단을 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초속 5~7m 바람 못 버텼나… 풍력발전기, 도로에 ‘꽈당’</title>
+      <link>https://www.chosun.com/national/2026/02/02/J36SSUU3YRCPFA2BKBLUTI6CII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/02/J36SSUU3YRCPFA2BKBLUTI6CII/</guid>
+      <dc:creator>영덕=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Feb 2026 11:17:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMKTZSPBEBCONKPRXVUHGFUVDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 영덕군 영덕읍 창포풍력발전단지에 있던 풍력발전기가 도로에 쓰러져 있다. 영덕군과 소방당국은 풍력단지로 연결되는 도로를 무기한 차단했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 동해안 영덕의 대형 풍력발전기 기둥이 넘어져 도로를 덮치는 아찔한 사고가 발생했다. &lt;br&gt;&lt;br&gt;2일 오후 4시 40분쯤 영덕군 창포리 별파랑공원 내 풍력발전단지에서 높이 80m 풍력발전기 기둥 중간 부분이 꺾이면서 기둥과 날개가 공원 내 도로를 덮쳤다. 마침 공원 내 전시관이 휴관이어서 차량 통행이 적어 다행히 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37XYSSWPTBCHBCM3SPZOSIPQOM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 4시 40분쯤 영덕군 영덕읍 창포리 풍력발전단지 내 21호기 풍력발전기가 기둥 중간 부분이 꺾이며 도로 쪽으로 쓰러졌다. 당시 현장을 지나던 한 운전자가 전화 통화를 위해 차량을 갓길에 세웠을 때 차량 블랙박스에 거대한 발전기가 쓰러지는 모습이 포착됐다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사고로 도로가 막혀 현재 차량 통행이 불가능한 상태다. 사고 시점 풍속은 초속 5~7m, 순간 최대 풍속은 12m였다. 영덕군 관계자는 “경찰과 합동으로 사고가 난 지역 1.6㎞ 구간을 2차 사고 방지를 위해 사고 원인이 밝혀질 때까지 무기한 차량 통제를 하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;영덕군과 목격자 등에 따르면 당시 발전기 날개가 돌아가던 중 갑자기 발전기를 지지하는 기둥이 꺾였다. 발전기 날개 등 흩어진 잔해가 떨어져 도로를 지나던 차량이 불과 몇 초 차이로 아찔하게 참변을 피한 것으로 드러났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JB6IMVN2RNEDCECCBNAR57MPM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 영덕군 영덕읍 창포풍력발전단지에 있던 풍력발전기가 도로에 쓰러져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2005년 완공된 해당 풍력단지는 1650kw급 발전기 24기를 갖췄다. 이곳 시설은 덴마크에 본사를 둔 베스타스 기업이 제조&lt;b&gt;·&lt;/b&gt;설치했다. 사고가 난 풍력발전기 21호기는 2005년 5월부터 현재까지 20년 넘게 운용됐다. 발전기 높이는 약 80m로 한쪽 날개 길이만 41m에 달한다. 발전기 기둥은 강철 재질이고, 날개는 탄소섬유 소재로 만들었다고 한다. 중급 태풍에 준하는 초속 20m까지 버티도록 설계됐다.&lt;br&gt;&lt;br&gt;사고는 풍력발전기 날개 한 개가 찢어져 발생한 것으로 나타났다. 영덕군 관계자는 “시공사 측과 영상을 확인한 결과 세차게 돌던 발전기 날개가 찢어져 균형을 잃은 후 기둥을 쳐 사고가 발생한 것으로 보인다”며 “대나무가 꺾이면 꺾이지, 찢어지진 않는다. 날개 재질 상 도저히 찢어질 순 없는데 그 부분을 집중 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;풍력발전기 날개 수명은 20년 전후인 것으로 알려졌다. 사고가 난 발전기는 올해 21년째 가동 중이었다. 최근 안전 점검에서는 이상이 없는 것으로 조사됐다고 한다.&lt;br&gt;&lt;br&gt;영덕군은 시공사를 상대로 인허가적인 부분을 조사하는 한편 기후에너지환경부와 함께 해당 풍력 단지의 발전기 23기에 대한 안전 점검을 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PMKTZSPBEBCONKPRXVUHGFUVDU.jpg?auth=6732834881560f8278e152b31c8128bfdb1356bc78ee1631bdde32062e489c28&amp;smart=true&amp;width=1000&amp;height=667" type="image/jpeg" height="667" width="1000">
+        <media:description type="plain">2일 오후 영덕군 영덕읍 창포풍력발전단지에 있던 풍력발전기가 도로에 쓰러져 있다. 영덕군과 소방당국은 풍력단지로 연결되는 도로를 무기한 차단했다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>서울고검 ‘대북송금 진술회유’ TF 검사, 4명 중 3명 인사로 공백...수사 차질 우려</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/5WAR7LW4LBBBTF25BTY4FZG7UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/5WAR7LW4LBBBTF25BTY4FZG7UQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 10:32:00 +0000</pubDate>
+      <content:encoded> ‘쌍방울 대북 송금 사건’ 재판에서 제기된 진술 회유 의혹을 수사하는 서울고검 인권침해 태스크포스(TF) 구성원 대부분이 인사 발령에 따라 TF를 떠나게 된 것으로 4일 확인됐다. 기존 수사팀 인력 변동에 따라 사건 처분도 늦어질 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTIMLFG43TMNRXGQZDAYZYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 청사에서 검찰 깃발이 바람에 날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 TF 수사팀에서 활동했던 4명 중 3명이 지난달 29일 법무부가 발표한 2026년 상반기 검사 인사 대상에 포함된 것으로 알려졌다. 수사팀장을 맡고 있는 곽영환 서울고검 감찰부장을 제외하고 부부장 검사 2명과 평검사 1명이 인사 이동을 하게 됐다. 이 중 부부장 검사들은 이날 새 부임지로 출근했고, 평검사 1명은 오는 9일자로 전보됐다.&lt;br&gt;&lt;br&gt;수사팀에 공백이 생긴 만큼 서울고검은 TF 충원 방안 등을 논의하고 있는 것으로 알려졌다. 법조계에서는 TF가 김성태 전 쌍방울 회장과 방용철 전 부회장, 안부수 아태평화교류협회장 등 주요 피의자들을 상대로 소환 조사를 마무리한 만큼 별도의 인력 보강 없이 기소 여부를 결정할 수 있다는 관측도 나온다.&lt;br&gt;&lt;br&gt;김 전 회장을 비롯한 쌍방울 관계자들은 ‘쌍방울 불법 대북 송금’ 재판의 핵심 증인인 안 회장을 매수했다는 혐의를 받고 있다. 검찰에 따르면 쌍방울 측은 안 회장의 변호사비 500만원 상당을 회삿돈으로 대신 납부하고, 그의 딸에게는 오피스텔을 마련해준 뒤 임대료와 보증금 등을 대신 내는 방식으로 7280만원을 지원한 것으로 조사됐다. 또 안 회장의 딸을 쌍방울 계열사에 취업한 것처럼 꾸미고 허위 급여 2705만원을 지급한 혐의도 있다.&lt;br&gt;&lt;br&gt;김 전 회장은 쌍방울 대북 송금 수사를 하던 검사실에 술을 반입해 이화영 전 경기도 평화부지사를 회유했다는 ‘연어·술파티 회유 의혹’도 받는다. 앞서 이 부지사는 재작년 10월 국회 청문회에 증인으로 나와 “2023년 5∼6월쯤 검찰청에서 연어·술파티가 있었다”는 취지로 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘박원순 아들 병역 비리 의혹’, 양승오 2심서 무죄... 10년만에 뒤집혀</title>
       <link>https://www.chosun.com/national/court_law/2026/02/04/WNFXITE6ZBC77EBCG5CUT45QYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/WNFXITE6ZBC77EBCG5CUT45QYU/</guid>
@@ -886,24 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDCN3CG5STSNZTGJSTCYZRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 난동 사태의 배후로 지목돼 구속된 전광훈 사랑제일교회 목사가 지난달 15일 서울 마포구 서부지방법원에서 구속적부심사를 마친 후 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태의 배후로 지목된 전광훈 사랑제일교회 목사가 구속 상태로 재판에 넘겨졌다. 서울서부지검 형사5부(부장검사 김진혁)는 3일 전 목사를 특수건조물침입교사, 특수공무집행방해교사 등의 혐의로 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;전 목사는 서부지법 사태 전날인 지난해 1월 18일 서울 지하철 광화문역 인근 집회에서 “서부지법으로 모여 윤 대통령 구속영장을 저지하기 위해 국민저항권을 발동해야 한다”고 발언한 혐의를 받는다. 이튿날 새벽 윤 대통령에 대한 구속영장이 발부되자, 서부지법 인근에서 시위를 벌이던 지지자 63명이 청사에 침입해 기물을 파손하는 등 난동을 벌였다. &lt;br&gt;&lt;br&gt;검찰은 전 목사가 교회 신도 등에게 ‘국민저항권’ 발동을 주장하며 다수의 사람들을 서부지법에 침입하도록 부추기고, 이를 저지하던 경찰관들을 폭행하게 했다고 보고 있다. 또 전 목사는 집회 신고 범위를 넘어 참가자들을 서부지법으로 이동하게 한 혐의(집시법 위반)와, 서부지법 인근 집회를 통해 왕복 8차선의 마포대로를 점거한 혐의(일반교통방해)도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>남원시, 모노레일 소송 판결 수용… “지방채 없이 505억 상환”</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/02/03/QORGKOQZGZCZTP5WZ5MY2KXP7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/03/QORGKOQZGZCZTP5WZ5MY2KXP7Y/</guid>
-      <dc:creator>남원=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 05:43:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVSY6MVTPJA7DJJSHCKQHZUJGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남원 춘향테마파크에 있는 모노레일./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 남원시가 춘향테마파크 모노레일 민간 개발 사업 손해배상 소송에 대한 대법원의 상고 기각 판결을 수용하고, 배상금 505억원을 지방채 발행 없이 자체 기금으로 상환하겠다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;최경식 남원시장은 이날 시청 회의실에서 기자회견을 열고 대법원 판결에 따른 공식 입장과 재정 피해 최소화를 위한 후속 대책을 발표했다. 최 시장은 “대법원 판결을 겸허히 수용한다”며 예산 절감액을 활용한 조기 상환을 골자로 하는 ‘4대 추진 계획’을 공개했다.&lt;br&gt;&lt;br&gt;핵심 사안인 505억원 규모의 배상 재원은 ‘통합재정안정화기금’을 통해 마련된다. 시는 별도의 지방채 발행 없이 그동안 예산 절감으로 확보한 기금을 투입해 재정 부담을 최소화할 계획이다. 특히 시의회와 협의해 관련 예산을 신속히 편성함으로써, 판결 확정 이후 발생할 수 있는 불필요한 이자 지출을 선제적으로 차단할 방침이다.&lt;br&gt;&lt;br&gt;재정 손실 보전을 위한 법적 대응도 병행한다. 시는 시설물 소유주인 남원테마파크를 상대로 구상권을 청구하고, 관련 채권 정리 등 시의 재정적 피해를 복구하는 데 행정력을 집중할 예정이다.&lt;br&gt;&lt;br&gt;또한, 현재 시행사가 소유한 모노레일 등 관광 시설물에 대한 인수 절차에 착수한다. 정밀 안전 점검과 리뉴얼 과정을 거쳐 시설 운영을 정상화할 방침이다. 최 시장은 “향후 대규모 민자 사업 추진 시 전문 인력을 통한 타당성 검증을 의무화하는 등 검증 시스템을 전면 재정비해 유사 사례 재발을 막겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>휴대전화 전자파 ‘발암 논란’ 종결?… “연관성 없다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/03/P3JYIMB3QVAINPELT5HUV7IGPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/P3JYIMB3QVAINPELT5HUV7IGPQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 05:41:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWYOGQ65GZEFVMABK6OVHPNNOU.png"&gt;&lt;figcaption&gt;&lt;small&gt;연구진이 장기 전자파 노출 동물실험을 통해 수집된 주요 데이터를 분석하며 발암 연관성 검토 결과를 논의하고 있다. /ETRI&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴대전화 전자파 노출이 뇌종양과 심장종양 발생과 관련이 없다는 한·일 공동 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;3일 한국전자통신연구원(ETRI)은 일본과 함께 대규모 국제공동 동물실험을 수행한 결과, 휴대전화에서 발생하는 무선주파수(RF) 전자파 노출과 뇌·심장 종양 발생 간 유의미한 관련성을 발견하지 못했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 ETRI는 일본 연구진과 함께 ‘휴대전화 RF 전자파의 발암성 및 유전독성에 관한 한·일 공동연구’를 기획하고, 2019년부터 장기 동물실험에 나섰다. 미국 국립보건원(NIH) 산하 국립독성연구프로그램(NTP)과 같은 연구 시스템을 적용하고, OECD 독성 시험 가이드라인에 근거한 공동 규정을 수립해 한·일 양국이 동일한 실험동물·사료·장비, 동일한 전자파 노출 환경 등 통일된 조건에서 연구를 수행했다.&lt;br&gt;&lt;br&gt;실험은 RF 전자파 노출군, 허위 노출군, 케이지 대조군 등 3개 그룹으로 구성됐다. 각 군당 70마리의 수컷 쥐를 대상으로 생애 전 주기인 104주 동안 실험을 진행했으며, 전자파 노출군에는 인체 안전기준 설정에 근거가 된 4W/㎏ 강도의 900MHz CDMA 전자파를 노출했다.&lt;br&gt;&lt;br&gt;연구 결과, 전자파 노출에 따른 체온·체중·사료 섭취량 변화 양상은 한·일 양국에서 전반적으로 유사하게 나타났다. 종양 발생 분석에서도 한국은 모든 실험군의 종양 발생률이 자연 발생 범위였으며, 심장·뇌·부신 등 주요 장기에서 RF 노출군과 허위 노출군 간 통계적으로 유의미한 차이가 없었다. 일본 역시 종양 발생률과 발생 시점에서 실험군 간 차이가 없었고, 주요 표적 장기 종양은 낮은 발생률을 보였다.&lt;br&gt;&lt;br&gt;이번 연구는 휴대전화 전자파 인체 안전기준의 근거가 된 노출 강도에서 발암성 여부를 확인하고, 2018년 NTP가 6W/㎏ 수준의 900MHz CDMA 전자파에 평생 노출된 수컷 쥐에서 뇌·심장·부신 종양 증가를 보고한 결과를 과학적으로 검증하기 위해 추진됐다. 당시 세계보건기구(WHO) 등 국제기구가 해당 연구의 재현성·타당성 검증을 위한 추가 연구 필요성을 권고한 점도 이번 연구의 배경이 됐다.&lt;br&gt;&lt;br&gt;결론적으로 한·일 양국 연구팀은 모두 CDMA 휴대전화 전자파의 장기 노출과 뇌·심장 및 부신 종양 발생 간 유의미한 관련성을 확인하지 못했다. 책임연구자인 아주대 의대 안영환 교수는 “이번 연구는 인체 보호 기준의 근거가 되는 노출 수준에서 NTP가 보고한 종양 증가 결과가 재현되지 않았다는 점에서 의미가 있다”며 “휴대전화 전자파에 대한 과도한 우려를 해소하는 데 도움이 될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사랑의열매 새 회장에 윤여준 전 한경부 장관</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/02/03/SIPWJVSPKNC3ZFQX7MYKLS6UTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/03/SIPWJVSPKNC3ZFQX7MYKLS6UTI/</guid>
@@ -922,28 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5W6QGQKTJHLDNA5CGEZ7PPNAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김현지 대통령비서실 제1부속실장과 관련해 음모론을 제기한 우파 성향 언론사와 소속 기자를 상대로 3일 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이날 서울 마포구 A 언론사 사무실과 이 회사 기자 B씨 등에 대한 압수 수색을 진행했다. 현재 B씨는 A사의 발행인이다. 압수물에는 B씨의 휴대전화도 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 작년 10월 A사는 익명의 제보자를 인용해 이재명 대통령과 김 실장이 불륜 관계로 의심된다는 취지의 보도를 했다. 또 한 칼럼니스트는 A사에 실은 칼럼을 통해 “(김 실장은) 출신은 물론 학력조차 미지의 영역에 있을 뿐이다. 일각의 추측대로 그녀는 과연 이재명의 세컨드일까, 아니면 남파 간첩일까”라고 했다.&lt;br&gt;&lt;br&gt;이를 두고 당시 더불어민주당 국민소통위원회는 “허위보도는 개인에 대한 인격살인이자, 공당을 향한 정치적 테러 행위”라며 해당 기자와 칼럼 작성자를 정보통신망법 위반 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;B씨는 지난 2024년 12·3 계엄 때 계엄군이 선거연수원에서 중국인 간첩 99명을 체포했다고 허위보도한 혐의로 이듬해 7월 검찰에 송치되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“함께 투자해요, 내 사랑”…70대 여성 노린 사기, 경찰·은행직원이 막았다</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/03/KBH2BXKGLVCMXLYLVMFMCUDII4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/KBH2BXKGLVCMXLYLVMFMCUDII4/</guid>
-      <dc:creator>정채빈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 05:19:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BUVA5ZKL5DYJKHAQXSQGJNUPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;70대 여성 A씨가 카카오톡 오픈채팅방에서 모르는 상대와 나눈 대화./전북경찰 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연인이 된 것처럼 행세하며 금품을 뜯어가는 로맨스 스캠을 당할 뻔한 70대 여성을 은행직원과 경찰관이 설득해 피해를 막았다.&lt;br&gt;&lt;br&gt;3일 전북경찰청에 따르면 지난 20일 오전 9시쯤 70대 여성 A씨가 전북 익산농협 동산지점을 방문했다. &lt;br&gt;&lt;br&gt;경찰이 공개한 당시 폐쇄회로(CC)TV 영상을 보면 A씨는 창구로 찾아가 직원에게 “500만원을 이체해달라”고 한다. A씨는 사용처를 묻는 직원에게 자신의 휴대전화 화면을 보여준다.&lt;br&gt;&lt;br&gt;A씨가 보여준 화면에는 A씨가 누군가와 나눈 카카오톡 오픈채팅방 대화내용이 떠 있었다. 오픈채팅방에서 상대방이 “지금 500만원을 보내줄 수 있어요?”라고 묻자 A씨는 “월요일 오후에 될 것 같아요”라고 답했다. 이어 상대가 “이건 비밀로 해줘. 다른 누구에게도 말하지 마”라고 하자 A씨는 “알겠습니다 사랑해요”라고 했다.&lt;br&gt;&lt;br&gt;상대는 금 투자를 빌미로 A씨에게서 돈을 뜯어내려 했다. 상대는 A씨에게 금괴가 나오는 영상 등을 보내며 “50억원 상당의 가치가 있어요”라며 “호주에서는 금값이 아주 싸거든요. 저와 함께 투자해서, 물건을 사서 50억원을 벌어 볼 생각이 있으신지 궁금합니다”라고 말했다. 그러면서 “내 사랑을 이해하시나요?”라고 덧붙였다. &lt;br&gt;&lt;br&gt;대화 내용을 확인한 농협 직원은 수상함을 느껴 경찰에 신고했다. 이후 출동한 경찰이 확인한 결과, A씨는 모르는 상대와 연락을 주고받은 뒤 타 은행에서 대출받은 금액까지 더하여 총 1000만원을 송금하려던 상황이었다. &lt;br&gt;&lt;br&gt;이에 농협 직원과 경찰은 30분 정도 A씨를 설득해 송금을 막았다. 지적 장애가 있는 A씨는 사기임을 이해하지 못하며 ‘생활비로 사용하겠다’고 거짓말을 하기도 했으나 모두의 설득 끝에 피해를 막을 수 있었던 것으로 전해졌다. 이후 경찰은 A씨를 보호자인 아들에게 인계했다. &lt;br&gt;&lt;br&gt;A씨의 피해를 막은 이승호 익산농협 동산지점 업무과장 대리는 “평소 관련 교육을 받은 내용과 같아서 이것이 로맨스 스캠이라는 것을 알게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;현장에 출동한 익산경찰서 평화지구대 고은성 순경은 “(A씨에게) 30분간 사기 수법임을 설명하며 지속적으로 설득한 끝에 피해를 막을 수 있었다”며 “보호자에게 안전하게 인계할 수 있었다”고 했다. 이어 “경찰은 어떤 신고도 가볍게 여기지 않으니 유관 기관과 은행 직원, 시민 여러분의 적극적인 신고를 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대 합격한 이부진 아들, 대치동 학원서 “3년간 스마트폰·게임 단절 추천"</title>
-      <link>https://www.chosun.com/national/education/2026/02/03/35TEFE6UXFCJLHYDGXXMRK7QU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/03/35TEFE6UXFCJLHYDGXXMRK7QU4/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 01:57:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4TMZJWGJRWIYRQGNRTQZLGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장이 아들 임동현군과 함께 미국 워싱턴DC 스미스소니언 국립아시아미술관에서 열린 이건희 컬렉션 특별전 갈라 행사장에 입장하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부진 호텔신라 사장의 아들 임동현 군이 대치동 한 입시학원에서 진행한 휘문고 내신 설명회에 등장해 화제가 되고 있다. 휘문고를 졸업한 임 군은 2026학년도 대입 수시모집에서 서울대 경제학부에 합격했다.&lt;br&gt;&lt;br&gt;입시업계에 따르면, 임 군은 지난 2일 오후 서울 강남구 다원교육 대치본관에서 열린 ‘예비 고1 휘문고 내신 설명회’에 휘문고 출신 서울대 진학 선배로 참석했다. 이날 임 군은 ‘후회 없는 휘문 생활’이라는 제목의 직접 만든 강연 자료를 가지고서, 휘문고 후배들이 알아두면 좋을 내신 관리 방법과 수능 공부 노하우 등을 자세히 설명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;임 군은 “내신 시험마다 약 2000문제씩 푼 연습량이 수학 체력을 향상시켰다”며 “사고력을 요구하는 문제에 대비하는 공부를 권장한다”고 밝힌 것으로 전해진다. 또 그는 “어려운 당부일 수 있지만 3년간 스마트폰과 게임을 완전히 단절하는 걸 적극 추천하고 싶다”며 “집중력과 몰입에 큰 도움이 됐고, 모든 시험을 마치고서 3년 만에 맛보는 즐거움도 꽤 괜찮았다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;임 군은 휘문고 내신 대비를 위해 다원교육에서 국어와 수학 등을 공부했고, 수능 대비를 위해 시대인재에서 단과 수업을 들었다고 한다. 다원교육은 대치동에서 영재고 보내고 싶은 중학생 학부모들에게 인기가 많고, 강남 8학군 고교 내신 대비 수업으로도 유명하다. 2023년 시대인재에 인수됐다. &lt;br&gt;&lt;br&gt;이부진 호텔신라 사장은 아들 임 군의 교육을 위해 2018년 주소지를 서울 용산구 이태원동에서 강남구 대치동으로 이전했다가, 최근 다시 이태원으로 옮겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MI4TMZJWGJRWIYRQGNRTQZLGGQ.jpg?auth=e7ce3d368671f0b3d908f4961baf86922515afe5d413eb3ee7b5f48cf4f08311&amp;smart=true&amp;width=553&amp;height=415" type="image/jpeg" height="415" width="553">
-        <media:description type="plain">이부진 호텔신라 사장이 아들 임동현군과 함께 미국 워싱턴DC 스미스소니언 국립아시아미술관에서 열린 이건희 컬렉션 특별전 갈라 행사장에 입장하는 모습. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">이정선</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“오늘 돈 좀 썼다”…하이닉스 직원 성과급 1억 앞두고 올린 인증샷</title>
       <link>https://www.chosun.com/national/national_general/2026/02/03/L6NT6BTPKJAIXE6FJES2AUO4FE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/L6NT6BTPKJAIXE6FJES2AUO4FE/</guid>
@@ -951,15 +959,6 @@
       <description/>
       <pubDate>Tue, 03 Feb 2026 00:07:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJHTBT5IKNC6LPKL5WM536ITJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SK하이닉스 직원이 블라인드에 올린 사진./ 블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK하이닉스가 작년 사상 최대 실적을 거두면서 직원당 1억원 수준의 성과급을 받을 것으로 예상되는 가운데, 한 하이닉스 직원이 보육원을 찾아 간식을 기부한 사연이 알려졌다.&lt;br&gt;&lt;br&gt;지난 2일 직장인 익명 커뮤니티 블라인드에는 SK하이닉스 직원 A씨가 “오늘 자랑 좀 할게. 나 돈 좀 쓰고 왔어”라며 글을 올렸다. &lt;br&gt;&lt;br&gt;A씨는 “세종시의 한 보육원에 피자 10판에 과일과 간식을 사서 전달했다”며 “전화로 물어보니까 애들이 견과류를 많이 못 먹는단 얘길 듣고 견과류도 종류별로 다 사서 전달했다”고 했다.&lt;br&gt;&lt;br&gt;그는 “학창 시절이 너무 힘들어서 그때 취업하고 자리 잡으면 꼭 고아원에 기부도 하고 맛있는 거 사서 보내준다고 다짐했는데, 그걸 이루는 데 시간이 너무 오래 걸렸다”며 “갔다 오니까 행복하면서도 너무 슬픈 그런 복잡한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 “뭔가 그냥 내가 위로를 받고 온 건가 싶고 그냥 아이들이 다 행복했으면 좋겠는데 현실은 그게 아닐까 봐 속상하고 나도 아이를 키우고 있다 보니까 더 마음이 쓰인다”며 “지금까지 아등바등 살았는데 오늘 처음으로 돈을 돈답게 쓴 기분”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “혹시 이런 생각을 해본 적이 있으면 한번 도전해보라. 남에게 베푼다는 게 꼭 부자들만 하는 건 아니더라”고 했다. 그는 딸기, 샤인머스캣, 귤과 피자 박스가 담긴 사진도 함께 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYTGNBRMUYWKOBVGA3GGM3FMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네티즌들은 “이 분은 성과급 5000% 받아도 되겠다” “SK하이닉스 성과급으로 부동산이나 외제차 산다는 기사만 본 것 같은데 감동” 등의 반응을 보이며 A씨의 행동을 칭찬했다. &lt;br&gt;&lt;br&gt;SK하이닉스는 반도체 슈퍼사이클에 힘입어 작년 매출액 97조1000억원, 영업이익 47조2000억원이라는 역대 최고 실적을 올렸다. 이에 영업이익의 10%를 재원으로 1년에 한 번 연봉의 일정 비율을 지급하는 ‘초과이익분배금(PS)’은 직원 1명당 1억4000만원에 달할 것으로 추정된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>업체 수주 돕고, 수천만원 뇌물도 받고… 경북 의성군 간부 공무원 구속</title>
-      <link>https://www.chosun.com/national/incident/2026/02/02/X7XSVMPW7FFKPCKEDIUBUYZFZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/02/X7XSVMPW7FFKPCKEDIUBUYZFZY/</guid>
-      <dc:creator>부산=권태완 기자, 의성=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 06:53:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KP2U3YMFR5HS7M6Q2FIN23AI6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌물 수수./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군의 한 간부가 부산지역 자재납품 한 업체로부터 수천만 원을 받은 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;부산 연제경찰서는 뇌물수수 혐의로 경북 의성군 소속 6급 공무원인 50대 남성 A씨를 구속했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난달 30일 부산지법은 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “증거인멸과 도주 우려가 있다”며 영장을 발부했다. &lt;br&gt;&lt;br&gt;A씨는 2024년 초 부산 지역 전기 배전판 업체로부터 2000만원 상당의 뇌물을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;의성군은 2일 A씨에 대해 직위해제하고 자체 감찰에 들어갔다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “수사가 마무리되면 이번 주 내로 A씨를 뇌물 공여자와 함께 검찰에 송치할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
