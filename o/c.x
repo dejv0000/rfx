@@ -13,6 +13,164 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대통령과 논쟁 벌였던 이학재... 인천공항공사 직원들에 피소</title>
+      <link>https://www.chosun.com/national/incident/2026/02/04/BTL22VDKBZB4VHVNQ6JH4QP7VE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/04/BTL22VDKBZB4VHVNQ6JH4QP7VE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 01:48:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDOOLCMEZTMYJZME3DMZRXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이학재 인천국제공항공사 사장./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지방경찰청이 인사권을 남용했다는 등의 혐의로 고소된 이학재 사장 등 인천국제공항공사 임직원 5명을 반부패경제범죄수사대에서 수사한다고 4일 밝혔다. &lt;br&gt;&lt;br&gt;인천공항공사 항공교육원 수석 전임교수 2명은 앞서 지난달 20일 이학재 사장 등이 인사권을 남용해 자신들의 부서장 보직을 박탈했다며 인천 중부경찰서에 고소장을 접수했다. 고소 이유는 직권남용 혐의와 업무방해, 부정청탁금지법 위반 혐의 등이다. 인천경찰청은 청탁금지법 위반 혐의가 적시된 점 등을 고려해 사건을 반부패수사대로 넘겼다고 한다.&lt;br&gt;&lt;br&gt;고소인들은 이 사장 등 인천공항공사 임직원들이 지난 2023년 정부 지침인 ‘직무급제’ 도입과 관련한 노조 동의를 얻기 위해 비조합원인 자신들의 인사를 협상 수단으로 이용했다고 주장하는 것으로 알려졌다. 직무급제는 연공서열 대신 업무의 성격과 난이도, 책임 등에 따라 임금을 매기는 직무 평가 성과급제를 말한다. 경찰은 최근 고소인들에 대한 조사를 진행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이학재 사장은 작년 12월 12일 국토교통부 업무보고 당시 이 대통령으로부터 “아는 게 하나도 없다” “말이 참 길다”는 힐난을 들은 뒤 대통령실과 각을 세워왔다. 당시 이 대통령은 책갈피에 달러를 끼워 반출하는 행위에 대해 질문했으나 이 사장이 명확히 답변하지 못하자 공개적으로 질타했다. 이후 이 사장은 소셜 미디어 등을 통해 공개 반박했다. 그는 지난달 20일에는 대통령실의 인사 개입 의혹을 공개적으로 제기하며 “실무자들을 괴롭히지 말고 차라리 사장인 저를 해임하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [뉴스 속의 한국사] 조선 초 지어진 성곽… 일제 식민지 개조에 허물어졌죠</title>
+      <link>https://www.chosun.com/national/nie/2026/01/29/CPFP6WU3G5F57LXEWKPBA42CLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/29/CPFP6WU3G5F57LXEWKPBA42CLU/</guid>
+      <dc:creator>유석재 역사문화전문기자, 기획·구성=정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 Jan 2026 15:40:00 +0000</pubDate>
+      <content:encoded>서울 흥인지문(동대문) 근처에 있는 한양도성박물관에서 오는 3월 8일까지 ‘한양도성 훼철(毁撤), 한양의 경계를 허물다’ 특별전을 열고 있어요. ‘훼철’이란 헐어서 치워 버린다는 뜻입니다. 일제의 침탈과 근대화 과정에서 허물어진 한양도성의 역사를 재조명하고, 도성의 역사적 가치와 보존 의미를 생각해볼 수 있도록 기획한 전시입니다.&lt;br&gt;&lt;br&gt;최근 넷플릭스 애니메이션 ‘케이팝 데몬 헌터스’에 나와 외국인에게도 알려진 한양도성은 훼손되지 않은 흥인지문 북쪽의 낙산 구간 안에 있어요. 한양도성의 나머지 여러 곳은 언제 어떻게 훼손됐던 걸까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM6HTVAVXBCJLDL2EKV5BN3Y24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문구 흥인지문공원. 한양도성 낙산 구간의 성벽이 남아 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;4대문·4소문 갖춘 18.6㎞ 한양도성&lt;/b&gt;&lt;br&gt;&lt;br&gt;1392년 조선을 개국한 태조 이성계는 1396년 ‘한양도성’, 즉 수도인 한양(지금의 서울 한강 북쪽 4대문 안) 성곽을 쌓기 시작했습니다. 근대 이전에 성은 외부 침입으로부터 도시를 방어하는 동시에 도시의 경계를 물리적으로 구분 짓는 역할을 했습니다. 임금의 권위를 드러내는 상징물이기도 했죠.&lt;br&gt;&lt;br&gt;이렇게 건설된 한양도성의 길이는 약 18.6㎞였어요. 4대문은 동대문인 흥인지문, 서대문인 돈의문, 남대문인 숭례문, 북대문인 숙청문(숙정문)이었고, 4소문은 동소문인 홍화문(혜화문), 서소문인 소덕문(소의문), 남소문 역할을 한 광희문(수구문), 북소문인 창의문(자하문)이었죠. 한양도성 출입은 엄격하게 관리됐고, 백성들은 성문이 열리고 닫히는 시각에 따라 일상생활을 했습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;사라진 숭례문·오간수문 성벽&lt;/b&gt;&lt;br&gt;&lt;br&gt;1905년 을사늑약 이후 일제의 대한제국 내정 간섭으로 1907년 대한제국 내각령 1호에 따라 ‘성벽처리위원회’가 설치돼 한양도성을 철거하기 시작했습니다. 근대화와 도시 정비를 명분으로 성문과 성벽을 파괴한 것인데, 겉으로는 대한제국의 위원회로 보였지만 위원장은 일본인 기노우치 주시로였습니다. 이후 펼쳐졌던 일제의 식민 통치를 원활하게 하려는 획책이었다고 볼 수 있죠.&lt;br&gt;&lt;br&gt;가장 먼저 허물기 시작한 곳은 숭례문의 두 팔과 같은 양쪽 성벽이었습니다. 성벽처리위원회는 이곳에 도로를 만들기로 결정하고 1908년 3월 성벽 철거에 들어갔습니다. 다음은 흥인지문 근처의 오간수문이었어요. 반원형 수문 다섯 개가 있던 이곳은 물길이 도성 밖으로 빠져나가는 통로였습니다. 그런데 1907년 하천 흐름을 원활하게 해야 한다는 이유로 철거됐고, 이듬해 성벽처리위원회가 남아 있던 오간수문 성벽마저 철거하기로 결정했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5QAQB7MZNENZC2PZ5QWFZNFSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1904년 숭례문 근처를 촬영한 사진. 근처에 성벽이 보인다. 성벽처리위원회는 1908년 이 성벽을 허물었다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W75I2MQU6NCA3CLLKKYFC65O24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;돈의문의 성문을 전차가 지나다닌다. 돈의문은 1915년 철거됐다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;총독부가 철거한 서대문·서소문&lt;/b&gt;&lt;br&gt;&lt;br&gt;1910년 대한제국이 멸망하고 일제의 통치를 위해 들어선 조선총독부는 식민 통치를 위한 도시 계획을 본격적으로 설계했습니다. 1912년 11월 총독부는 한양도성 내부 주요 도로를 정비하는 도시계획 사업을 시작했어요. 한양의 전통적 공간 체계를 무너뜨리고 식민지 도시로 개조하려는 거였죠. 도로와 전차 노선이 확장됐고, 이를 위해 주요 교통로에 있던 성문과 성벽은 철거됐습니다.&lt;br&gt;&lt;br&gt;한양도성의 동쪽 흥인지문을 드나드는 교통량이 늘어나자 1911년 흥인지문 북측 성벽이 허물어지고 도로 확장 공사가 진행됐습니다. 1914년엔 서소문인 소의문이 헐렸습니다. 소의문은 조선 시대 교통 요충지로 물자와 사람이 몰려들던 곳이었어요. 일제는 “도시 발전을 가로막는 장애물이고 보전할 가치도 없다”면서 부재(성문 뼈대를 이루는 재료)를 경매로 처분한 뒤 헐어 버렸습니다.&lt;br&gt;&lt;br&gt;다음 차례는 서대문인 돈의문이었습니다. 지금의 종로구 정동 사거리에 있던 돈의문은 서쪽으로 향하는 임금의 행렬이 지나갔고 중국을 오가는 사신들도 드나들던 곳이었죠. 우리나라 최초의 전차(트램)는 1899년 개통됐는데 홍릉에서부터 서대문 밖까지 운행했어요. 성문으로 철길을 깔아 도성을 훼손하지 않고도 전차가 쏙 드나들 수 있었습니다. 그러나 1915년 돈의문 역시 도로 확장과 전차 궤도 복선화를 위해 철거가 결정됐어요. 돈의문 부재는 경매에서 205원에 팔렸다고 합니다. 1910년 쌀 한 가마(약 80㎏)가 7원이었으니까, 대략 쌀 29가마 가격에 팔린 셈이네요.&lt;br&gt;&lt;br&gt;이런 식으로 한양도성 곳곳은 서서히 허물어졌습니다. 1928년 혜화문과 광희문 문루(성문 위에 지은 다락)가 철거됐고, 1938년엔 혜화문의 석축(돌담) 부분이 해체됐어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HBLJT2PVFGJLFQB3R7ME7YI74.png"&gt;&lt;figcaption&gt;&lt;small&gt;4대문과 4소문 등의 위치를 표시한 지도입니다. /서울시·서울역사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;도성 철거 자리에 조선신궁과 경성운동장이&lt;/b&gt;&lt;br&gt;&lt;br&gt;일제는 한양도성을 철거한 자리에 시설물을 세우기도 했습니다. 대표적인 것이 남산에 세워진 ‘조선신궁’이었죠. 이것은 당시 경성(지금의 서울)에 세워진 신사(神社) 중에서도 가장 격이 높은 것이었는데요. 신사는 일본에서 왕실의 조상이나 나라에 공로가 큰 사람 등을 신으로 모신 사당을 말합니다. 한마디로 조선인과는 무관할뿐더러 오히려 우리 입장에선 침략자를 숭배하는 경우도 생기는 종교 시설이었어요.&lt;br&gt;&lt;br&gt;당시 일제는 우리나라 여러 곳에 신사를 세우고 참배를 강요해 조선인을 정신적으로 지배하려 했습니다. 1925년 조선신궁이 생기면서 부지와 진입로를 만들기 위해 일제는 남산 구간의 한양도성 성벽을 철거했어요. 조선신궁은 해방 이후 헐렸고 지금은 그 자리에 한양도성유적전시관과 안중근의사기념관이 들어서 있습니다.&lt;br&gt;&lt;br&gt;1925년에는 흥인지문과 광희문 사이의 성벽도 훼손됐답니다. 일본 왕세자의 결혼을 기념하는 동시에 ‘일본이 조선을 이렇게 근대화시켰다’고 선전하려고 ‘경성운동장’을 만들었어요. 체육 시설은 물론 군사 훈련, 황국 신민화 행사 등 식민 통치를 선전하는 공간으로 활용됐다고 합니다. 해방 이후 서울운동장이 됐으며 1984년부터는 동대문운동장으로 불렸지만 2008년 철거됐고 그 자리엔 지금 동대문디자인플라자(DDP)가 들어섰습니다.&lt;br&gt;&lt;br&gt;물론 이런 의견도 있을 거예요. 대한제국이 멸망하지 않고 지속됐더라도 도시 개발을 위해 어차피 한양도성 일부는 철거돼야 하는 것 아니겠느냐고요. 일리가 있지만, 중요한 것은 일제가 ‘무슨 목적으로’ ‘언제’ ‘한양도성의 어디를’ ‘어떻게’ 훼손했는지는 우리가 꼭 기억해야 한다는 것입니다. 그리고 그 과정에서 문화유산을 아끼는 태도는 찾아볼 수 없었고, 한국인의 의사가 거의 반영되지 않았다는 점도 지적돼야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“희원아, 인사해”...구준엽, 강원래 업고 묘지 오른 사연</title>
+      <link>https://www.chosun.com/national/people/2026/02/04/S57ELC3OLNB2BIOKMGHZXPI2CQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/04/S57ELC3OLNB2BIOKMGHZXPI2CQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 03:05:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4QBY2MBBJHKFGRRCICNIZXICE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 여름 고 서희원의 묘지를 함께 찾은 클론 강원래, 구준엽./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 강원래가 구준엽과 함께 고(故) 서희원의 묘지를 처음 찾았던 때를 떠올리며 당시 심정을 전했다.&lt;br&gt;&lt;br&gt;강원래는 4일 인스타그램에 지난해 여름 타이베이에서 찍은 사진을 올리고, 대만을 찾게 된 배경을 설명했다. 그는 “준엽과 관련된 기사를 보다가, 매일 따에스(서희원) 묘지를 혼자 찾는다는 내용을 접했다”며 “결혼식에도, 장례식에도 함께하지 못한 미안함이 커서 곧장 타이베이로 향했다”고 적었다.&lt;br&gt;&lt;br&gt;강원래는 당초 혼자 묘지를 찾아갈 생각이었으나, 연락이 닿을지 모른다는 마음에 구준엽에게 메시지를 보냈다고 했다. 그는 “묘지 주차장에서 만나자고 해서 다음 날 오전 바로 만났다”고 전했다.&lt;br&gt;&lt;br&gt;이튿날 묘지에서 만난 구준엽이 강원래를 업어 계단을 올랐고, 이후 차로 돌아가 도시락 세 개를 꺼내왔다는 이야기도 전했다. 도시락은 각각 서희원, 강원래, 구준엽을 위한 것이었다. 강원래는 “약 40년 전 준엽이 집에 놀러 가면 자주 해줬던 계란 비빔밥이었다”라며 “준엽이가 ‘원래야 인사해 희원이야’, ‘희원아 오랜만에 원래가 왔다. 같이 맛있게 밥 먹자’고 말했다. 전 눈물이 쏟아져 밥을 한 숟가락도 뜨지 못했다. 옆에서 준엽이도 숨죽여 펑펑 울었다”고 했다.&lt;br&gt;&lt;br&gt;구준엽과 서희원은 1998년 대만에서 처음 만나 연인으로 발전했으나 장거리 연애와 소속사 반대 등으로 1년 만에 헤어졌다. 이후 서희원은 2011년 왕소비와 결혼해 두 자녀를 두었고, 2021년 11월 이혼했다. 구준엽은 20여 년 전 번호로 다시 연락을 시도해 서희원과 재회했고, 두 사람은 결혼에 골인했다.&lt;br&gt;&lt;br&gt;그러나 결혼 3년 만에 서희원이 세상을 떠났다. 서희원은 지난해 2월 2일 일본 여행 중 폐렴성 독감 증세로 갑작스럽게 사망했다. 향년 48세였다. 유해는 화장 후 대만 신베이시 진바오산 추모공원에 안치됐다. 구준엽은 장례를 조용히 마친 뒤 공식 활동을 중단하고 묘소를 찾아 애도의 시간을 보내왔으며, 최근 1주기를 맞아 직접 디자인에 참여한 추모 조각상을 공개하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘바가지 요금’ 논란 제주축제 퇴출된다...보조금도 ‘싹뚝’</title>
+      <link>https://www.chosun.com/national/regional/2026/02/04/LAKZ5SJJJBECDL7OMYTSSCPOTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/04/LAKZ5SJJJBECDL7OMYTSSCPOTY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 03:40:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWPPCVTW2L7HMP6K6GWL3Y7WYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 전농로에서 열린 벚꽃축제를 찾은 한 네티즌이 고발한 노점에서 주문한 2만5000원짜리 순대볶음의 모습. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 열리는 축제에서 바가지요금 등 논란이 불거졌을 경우 제주도 지정 축제에서 즉시 퇴출된다.&lt;br&gt;&lt;br&gt;제주도는 바가지 요금이나 예산 낭비 등 사회적 논란으로 축제육성위원회가 평가대상 제외를 결정한 축제에 대해 제주도 지정 축제 선정평가에서 배제한다고 4일 밝혔다. 결정일로부터 3년간 축제육성위원회 평가대상 진입도 불가능하다. 같은 기간 축제 예산 보조율을 최대 50%로 제한하는 페널티도 부여된다.&lt;br&gt;&lt;br&gt;축제 평가 기준도 한층 엄격해진다. 축제 평가에서 ▲바가지요금 등 사회적 논란 발생 ▲연예인 초청 등 과도한 예산 낭비 ▲축제 정체성을 저해하는 무분별한 프로그램 운영 등 3개 항목에 대한 감점을 종전 각각 1점 등 3점에서 7점, 4점, 4점 등 모두 15점으로 상향 조정했다. &lt;br&gt;&lt;br&gt;이번에 제주도 지정축제 선정평가에 공공성과 책임성을 강화한 기준을 마련하면서 글로벌 경쟁력 강화를 위한 장치도 신설했다. ‘글로벌 수용태세’ 가점 항목을 새로 만들어 세계인이 함께 즐길 수 있는 축제 환경을 조성한 경우 인센티브를 부여한다.&lt;br&gt;&lt;br&gt;김양보 제주도 관광교류국장은 “바가지요금 등 사회적 논란을 일으킨 축제에는 분명한 대가가 따른다는 것을 보여주겠다”며 “평가 결과가 실제 개선으로 이어지도록 하고, 제주 축제가 글로벌 경쟁력을 갖추도록 현장 관리하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰, 전한길 12일 소환...  ‘李대통령 명예훼손’ 혐의</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/04/SDW3RFYUFNEW5M2YDEQOJ4LXK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/04/SDW3RFYUFNEW5M2YDEQOJ4LXK4/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 02:34:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRDAYRTHBQWMMDBMRRGGNTCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 강사 출신 전한길씨가 3일 인천국제공항 제2여객터미널로 귀국해 기자회견을 갖고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 이재명 대통령에 대한 허위 사실을 유포한 혐의로 고발당한 한국사 강사 출신 전한길(55)씨를 12일 소환 조사한다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울경찰청 형사기동대는 전씨를 정보통신망법상 명예훼손 등 혐의를 적용해 피의자로 입건하고 12일 오전 출석해 조사받으라고 통보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당 국민소통위원회는 작년 10월 이 대통령과 김현지 청와대 제1부속실장과 관련해 허위 사실을 유포하고 협박성 발언을 했다며 전씨를 경찰에 고발했다. 전씨와 관련한 고발은 총 8건인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전씨는 지난 3일 인천국제공항 제2터미널을 통해 미국에서 귀국했다. 그는 국제사회에 윤석열 전 대통령에 대한 인권 탄압을 알리겠다며 작년 8월 출국했었다.&lt;br&gt;&lt;br&gt;경찰 조사와 관련해 전씨는 “55년간 법 없이 살아왔는데 이재명 정권 들어서서 8건이나 고발을 당했다”며 “표현의 자유를 막기 위한 지나친 고발·고소”라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 중간간부 인사 엿새만에 24명 ‘줄사직’ …오늘 새 업무 시작</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/TZCEZBFMERCC7O73ME6F7R5X3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/TZCEZBFMERCC7O73ME6F7R5X3U/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 02:57:48 +0000</pubDate>
+      <content:encoded>법무부가 지난달 29일 고검 검사급(차장·부장검사)과 일반 검사(평검사) 등 927명에 대한 전보 인사를 발표 이후 4일 오전까지 간부급 검사 24명이 사표를 낸 것으로 파악됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DMMBQMMZTKM3DHEZTGNLFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고검 공판부장에서 수원고검 검사로 발령받았던 박주성(사법연수원 32기) 검사는 검찰 내부망 이프로스에 전날 “도움을 받아 여기까지 왔고 그동안 감사했다”며 사직 인사를 남겼다. 박 검사는 과거 이재명 대통령이 조직폭력배와 연루됐다는 의혹의 근거가 된 편지가 조작됐다는 실무진의 감정 결과를 묵살했다는 의혹이 제기돼 감찰 조사를 받아왔다.&lt;br&gt;&lt;br&gt;수원지검의 이른바 ‘집단 퇴정 사태’ 당시 공판팀을 지휘했던 김현아(33기) 수원지검 1차장검사도 사의를 밝혔다. 김 차장검사는 지난달 30일 이프로스에 “20여 년간 검사로 품어주신 검찰과 국가에 감사한다”며 “남아 계신 분들께 함께 지던 짐을 손 놓아버리는 것 같아 송구스럽고 미안하다”고 했다.&lt;br&gt;&lt;br&gt;이 밖에도 서울고검 검사로 발령받은 김해경(34기) 의정부지검 차장검사, 창원지검 인권보호관으로 발령받은 김윤정(35기) 안산지청 차장검사, 부천지청 형사3부장을 지낼 예정이었던 홍정연(38기) 대검찰청 노동수사지원과장도 사의를 표명했다. &lt;br&gt;&lt;br&gt;장재완(34기) 대검 반부패기획관, 임선화(34기) 대검 형사선임연구관, 김태형(35기) 천안지청 차장검사, 이경민(38기) 서울남부지검 형사6부장도 사표를 냈다.&lt;br&gt;&lt;br&gt;한편 이번 인사 발표 전부터 사의를 밝혔던 김우(32기) 대구고검 검사는 전날 이프로스에 글을 올려 “지난 20년간 제가 검사로서 우리 사회에 조금이라도 기여한 부분이 있었다면 검찰 구성원들께서 도와주신 덕택”이라며 “검찰이 어려운 시기임에도 저는 제 운명을 감당하느라 다른 검찰 구성원분들께 송구한 마음”이라고 했다. 김 검사는 ‘건진법사’ 전성배씨를 통해 인사 청탁을 했다는 의혹이 제기됐었다. 김 검사는 관련 의혹을 부인한다. 김 검사는 소포클레스의 비극 ‘오이디푸스 왕’을 언급하며 “정해진 운명을 거부하며 발버둥치다가 그 운명으로 끌려 들어가는 이야기처럼, 저도 한 인간으로 퇴직이라는 운명 속으로 걸어들어가지만 삶은 결과를 성취하는 것 이외에 자신의 스타일을 창조해 나아갔던 것에도 의미가 있었다고 독백해본다”고 적었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유치원 15년 조리 경력, 어린이집 오면 반토막?...인권위 “경력 차별”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/04/APBYYM2PE5D33LSXW2GNWSBFZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/04/APBYYM2PE5D33LSXW2GNWSBFZI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 교육기관에 종사하는 조리사의 경력을 근무 기관에 따라 달리 인정하는 것은 차별에 해당한다고 보고 제도 개선을 권고했다. &lt;br&gt;&lt;br&gt;인권위는 조리사가 유치원에서 어린이집으로 이직할 때 유치원 경력을 인정하지 않는 것은 차별이라고 보고 제도 개선을 권고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;조리사 자격증을 보유한 피해자 A씨는 유치원에서 15년 2개월 일한 뒤 지난 2013년 B 국공립 어린이집으로 이직했다. 하지만 A씨는 유치원 조리사 경력의 절반만 호봉 산정에 인정받았다. 현행 교육부 지침이 “국공립 어린이집 조리원은 보육교사 자격증을 갖추고 방과 후 과정을 운영하는 유치원에서 조리원으로 근무한 경우에 한해서만 경력의 절반을 호봉 산정에 인정한다”고 정하고 있기 때문이다. 반면 어린이집에서 어린이집으로 이직한 조리사는 경력의 100%를 인정받는다. B국공립어린이집 원장은 동일한 업무를 수행하고도 근무 기관이 다르다는 이유로 경력 인정 비율을 다르게 적용하는 것은 부당한 차별이라고 보고 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;이에 대해 교육부는 “조리사를 포함한 모든 보육교직원은 보육교사 자격을 기준으로 호봉을 산정한다”는 입장을 밝혔다. 또 지방자치단체별로 예외를 허용하면 호봉 체계에 혼선이 생길 우려가 있다고도 했다. &lt;br&gt;&lt;br&gt;하지만 인권위 차별시정위원회는 어린이집과 유치원 모두 조리사 업무의 본질은 같다고 봤다. 유치원에서 일하든 어린이집에서 일하든 업무의 성격은 변하지 않는데, 소속 기관을 기준으로 경력을 달리 인정하는 건 차별이라는 것이다. &lt;br&gt;&lt;br&gt;이에 인권위는 “유치원 조리사의 업무는 조리와 위생 관리에 중점을 두며, 영유아 보육이나 식사 지도에 직접 참여하지 않으므로 직무 수행에 보육교사 자격이 필수적이라 보기 어렵다”며 관련 제도 개선을 권고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“국밥 하나에 깍두기 리필하면 적자”… 고물가에 자영업자들 ‘추가 반찬 유료화’ 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/04/ELG2A7KAMFBFLPYJFUIIOC2RF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/04/ELG2A7KAMFBFLPYJFUIIOC2RF4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 01:27:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLVILTHSGNIITFY543IM7QL6PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;명동의 한 식당 앞에 음식 가격이 써붙어 있다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고물가 상황이 이어지면서 자영업자들 사이에선 추가 반찬 유료화를 두고 투표가 진행되고 있다. 식자재 값이 부담되지만 ‘밑반찬은 서비스’라는 인식이 강해 손님에게 추가 요금을 받는 것은 쉽지 않다는 의견이 지배적이다.&lt;br&gt;&lt;br&gt;4일 대표 자영업자 커뮤니티 ‘아프니까 사장이다’에서 진행 중인 추가 반찬 유료화 투표에서 총 투표 수 1367명 중 찬성이 524명(38.3%), 반대는 843명(61.7%)으로 집계됐다.&lt;br&gt;&lt;br&gt;찬성 측은 식자재 가격 상승에 따른 추가 비용 지불, 음식물 쓰레기 절감 등을 고려해 추가 반찬 유료화를 도입해야 한다고 주장한다. “먹지도 않을 거면서 반찬 잔뜩 달라고 하고 다 남기는 사람들 보면 추가 반찬에 돈을 더 받고 싶다” “혼자 와서 국밥 하나 시켜 먹고 김치, 깍두기 어마어마하게 리필해서 먹으면 적자다” “명함만 한 김 한 장이 25원이 넘는다” “반찬 버리는 거 보면 씁쓸하다” 등의 의견이 나왔다.&lt;br&gt;&lt;br&gt;반면 추가 반찬 유료화에 반대하는 이들은 밑반찬은 인심으로 주는 것이라는 인식이 강한 국내 정서상 소비자들의 외면을 받을 수 있고 외식 물가 상승을 더 부추길 수 있다고 우려한다. “외식 물가 오를수록 집밥족 늘어남” “인심이 야박하면 손님 발길 끊길 듯” “반찬 가짓수를 줄이는 게 더 현실적” 등의 반응이 나왔다. 김치나 콩나물 무침 같은 밑반찬은 유료화에 반대하지만 계란찜 등 메인 요리급 반찬이라면 추가 비용을 낼 의사가 있다는 댓글도 눈에 띄었다.&lt;br&gt;&lt;br&gt;투표 결과 반대 의견이 우세했지만 댓글에는 반찬 무료 제공 자체가 부담되고, 배달 수수료처럼 점차 변화가 생길 수 있다는 데는 다수가 공감했다. “샐러드 유료화했는데 매출에 타격 없다. 메뉴 가격이 낮으니 고객들은 신경 안 쓴다” “1회 리필 무료 2회부터 추가금 받는다고 써놓으니 버리는 잔반이 좀 줄었다” 등 이미 반찬 추가금을 도입한 식당 업주도 있었다.&lt;br&gt;&lt;br&gt;최철 숙명여대 소비자경제학과 교수는 연합뉴스에 “관행적으로 반찬값이 메뉴값에 포함돼 있다고 생각하는 우리나라 소비자 특성상 무료로 제공되던 반찬이 유료로 전환될 경우 그 식당에 가지 않으려는 반발이 당연히 나타날 수 있다”며 “해외 곳곳에서 이미 시행하고 있기는 하지만 우리나라에 도입하기는 힘들지 않을까 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“70시간 일 시키고 수당 없어”… 젠틀몬스터, 무급 노동 의혹에 사과</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/04/PK74BZW7XBEOLDVS62H3UHQW7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/04/PK74BZW7XBEOLDVS62H3UHQW7M/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 02:26:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LK3J5KU3ANFBVERD5U7QQVBFGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/젠틀몬스터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;젠틀몬스터 운영사 아이아이컴바인드가 근로자의 장기간 근로와 무급 노동 의혹에 대해 공식 사과했다.&lt;br&gt;&lt;br&gt;아이아이컴바인드는 3일 김한국 대표이사 명의로 사과문을 내고 “당사는 근로 환경 전체에 대한 운영 실태를 점검한 결과, 부족한 부분이 있었음을 명확히 인식하게 됐다”며 “과로와 이에 대한 적절치 못한 처우로 불편을 겪은 모든 직원분께 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “근로 제도와 보상 체계를 전면 개선하겠다”며 “근로 감독 기관과 외부 전문가 의견을 적극 반영하겠다”고 했다.&lt;br&gt;&lt;br&gt;아이아이컴바인드는 일부 직군을 중심으로 ‘재량근로제’를 운영해 왔다. 재량근로제는 디자인 업무 등 근로자 재량이 크게 필요한 업무에 대해 실제 근무 시간과 관계없이 노사가 서면 합의로 정한 시간을 근로 시간으로 간주하는 제도다.&lt;br&gt;&lt;br&gt;그러나 일부 직원들 사이에서 사측이 재량근로제를 이유로 주 70시간이 넘는 장시간 노동을 시키고도 제대로 된 휴가나 보상을 주지 않았다는 주장이 나왔다. 명목상 재량만 부여했을 뿐 출퇴근 시간이 고정돼 있고, 업무에 있어 사용자의 구체적 지시를 받으면서 사실상 사업장에서 장시간 노동을 했다는 것이다. 재량근로제가 업무 방식을 개인 자율에 맡기는 취지를 살리기보다 장시간 노동을 합법화하는 수단으로 악용됐다는 지적이 제기됐다. &lt;br&gt;&lt;br&gt;이에 고용노동부는 지난달 기획 감독에 나서 재량근로제 운영의 적정성 여부를 살피기 시작했고, 이후 아이아이컴바인드는 문제가 된 재량근로제를 즉시 폐지하기로 했다.&lt;br&gt;&lt;br&gt;이달부터는 구성원들이 각자의 업무 일정에 따라 퇴근 시간을 자율적으로 조정할 수 있는 선택적 근로시간제를 시행하기로 했다. 오는 4월에는 체계적인 인사·근태 관리 시스템을 도입하고, 부서장 교육을 주기적으로 진행하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘극한 한파’ 몰아친 1월, 이례적으로 춥고 건조했다</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/04/R4AUSVKTH5DWXB5SZSHE4O7UFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/04/R4AUSVKTH5DWXB5SZSHE4O7UFQ/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 02:38:50 +0000</pubDate>
+      <content:encoded>‘극한 한파’가 몰아친 올해 1월은 평년보다 춥고 건조했던 것으로 나타났다. 1월 전국 평균기온은 영하 1.6도로 평년보다 0.7도 낮았고, 강수량과 상대습도는 역대 가장 낮은 수준을 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4DCYTEHEYTIZRVMVTDIMDFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 기상청이 발표한 ‘2026년 1월 기후특성’ 자료에 따르면, 강추위가 이어졌던 지난 1월 전국 평균기온은 영하 1.6도로 나타났다. 온난화 영향으로 ‘따뜻한 겨울’이 이어지고 있는 최근 흐름과 반대였던 것이다. 1월 평균기온이 평년보다 낮았던 것은 2018년 이후 8년 만이다.&lt;br&gt;&lt;br&gt;이번 1월의 강추위는 역설적으로 온난화 영향이라는 분석이 나온다. 북극의 찬 공기를 가두는 역할을 하는 제트기류가 온난화로 약해지면서, 북극의 얼음 공기가 한반도로 자주 내려왔기 때문이다. 여기에 바람의 흐름이 느려지며 대기가 정체되는 ‘블로킹 현상’이 잦아진 것도 영향을 미쳤다. 그 결과 북극 찬 공기가 한반도에 오래 머물며 추위가 지속됐다. 이러한 영향으로 지난해 말부터 영하권 날씨가 이어지면서, 한강은 평년보다 7일 이른 1월 3일에 첫 결빙이 관측되기도 했다.&lt;br&gt;&lt;br&gt;건조한 날씨도 두드러졌다. 1월 전국 강수량은 4.3㎜로 평년(26.2㎜)의 20%에도 못 미쳤다. 전국적으로 기상관측망이 확충된 1973년 이후 역대 두 번째로 적은 수치다. 강수일수도 3.7일로 평년보다 2.8일 적었다. 이는 1월 동안 차고 건조한 북서풍이 주로 불었기 때문으로 분석된다.&lt;br&gt;&lt;br&gt;건조한 바람이 불어오며 상대습도 역시 크게 낮았다. 지난달 전국 평균 상대습도는 53%로, 역대 가장 낮은 수준을 기록했다. 특히 강원 영동과 경상도 지역에서는 건조특보가 지속됐고, 상대습도가 50% 이하로 평년보다 10%포인트 이상 낮았다. 습기를 머금은 동풍 계열 바람이 불지 않았던 점도 영향을 미쳤다.&lt;br&gt;&lt;br&gt;눈이 온 날은 6.6일로 평년(6.2일)과 비슷했지만, 내린 눈의 양은 평년보다 적었다. 기온이 낮아 강수의 대부분이 눈으로 내렸지만, 전체 강수량 자체가 적었던 탓이다.&lt;br&gt;&lt;br&gt;반면 지난달 우리나라 주변 해역의 평균 해수면 온도는 12.4도로, 최근 10년 중 두 번째로 높았다. 온난화가 지속되며 바다가 품고 있는 열의 수준이 높아진 가운데, 우리나라로 따뜻한 해류가 계속 유입된 결과로 풀이된다. 해역별로는 남해의 평균 해수면 온도가 16도로, 최근 10년 평균(15.3도)보다 높아 가장 높은 수준을 기록했다. 반면 북극 찬 공기의 영향을 크게 받는 서해의 해수면 온도는 7.1도로, 최근 10년 평균과 비슷한 수준에 머물렀다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>친언니 집에 심부름 갔더니 모르는 사람이... 헌재 “도어락 강제 개방, 기소유예 처분 취소”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/IWBXEFVPKNC37KRRNVAEWIBOM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/IWBXEFVPKNC37KRRNVAEWIBOM4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 02:24:35 +0000</pubDate>
+      <content:encoded>친언니의 부탁을 받고 심부름을 하러 갔다가, 집 문이 열리지 않자 도어락을 강제 개방했다는 이유로 재물손괴 혐의 기소유예 처분을 받은 사람에 대해 헌법재판소가 처분 취소 결정을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJM6SMOK65FBJLDUWOPPNFCZOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 재동  헌법재판소./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 헌재는 선모씨가 부산지검 검사를 상대로 청구한 기소유예 처분 취소 사건에서 최근 재판관 전원일치 의견으로 처분 취소를 결정했다.&lt;br&gt;&lt;br&gt;이 사건은 선씨가 지난 2024년 1월 언니가 세를 들었던 부산의 한 아파트에 ‘옷가지를 가져다놔달라’는 심부름을 하러 방문한 게 발단이 됐다. 선씨는 언니에게 아파트의 공동현관문과 세대 출입문 도어락 비밀번호 등을 전달 받았는데, 비밀번호를 입력해도 세대 출입문이 열리지 않았다. 이에 선씨는 열쇠 수리공을 불러 도어락을 강제로 열고 집에 들어갔다. 그런데 검찰은 선씨가 집주인 소유의 도어락과 현관문 등 100만원 상당의 재물을 손괴했다며 기소유예 처분을 내린 것이다.&lt;br&gt;&lt;br&gt;선씨가 문을 강제로 열게 된 것은 집주인이 언니 몰래 다른 사람에게 집을 이중으로 임대해 줬기 때문이었던 것으로 조사됐다. 언니는 직장 문제로 이 집을 장기간 비워 둔 채 타지에서 살고 있었는데, 집주인이 이를 악용한 것이다. 실제로 선씨가 문을 열었을 때 선씨와 언니 모두 모르는 사람이 집 안에서 자고 있었다고 한다.&lt;br&gt;&lt;br&gt;헌재는 “선씨는 언니의 지시를 받아 열쇠 수리공을 불렀을 뿐”이라며 “열쇠 수리공이 도어락을 원상복구한 점, 도어락 기기 자체가 파손되지는 않은 점 등을 고려하면 재물손괴의 고의를 인정하기 어렵다”고 판단했다. 이어 “검찰의 기소유예 처분에는 중대한 수사미진 또는 증거판단의 잘못이 있다”며 “선씨의 평등권과 행복추구권이 침해됐다”고 처분 취소 이유를 밝혔다.&lt;br&gt;&lt;br&gt;한편 검찰은 선씨의 친언니를 주거침입 및 재물손괴 교사 혐의로 약식기소했으나, 언니는 법원에 정식 재판을 청구했다. 사건을 심리한 부산지법은 작년 5월 언니에게 무죄를 선고했고, 이 판결은 그대로 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고령자 10명 중 7명은 일한다…고용률 70% 첫 돌파</title>
+      <link>https://www.chosun.com/national/labor/2026/02/04/DZ4CZSQD75CDHLEHDCS4AMC6AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/02/04/DZ4CZSQD75CDHLEHDCS4AMC6AA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 02:20:11 +0000</pubDate>
+      <content:encoded>우리 사회의 고령화가 빠르게 진행되면서 작년 고령자(55~64세) 고용률이 통계 집계 이후 처음으로 70%를 넘어선 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSW2663Y3BNJLNXOMDMUWR4FUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 서울 강남구 대치동 세텍에서 열린 '서울시 시니어 일자리박람회 2025'를 찾은 구직자들이 채용공고를 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 고용노동부의 ‘고령자 고용 동향’ 자료에 따르면, 작년 고령자 고용률은 70.5%로 1983년 관련 통계 집계 이후 처음으로 70%를 넘었다. 전년(69.9%)보다 소폭 상승한 수치다. 이 통계는 55~64세 취업자를 ‘고령자 고용’으로 정의한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAAGLER6H5HUZCFBRBHEFQJTAI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 오어진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령자 고용률은 고령화 영향으로 2007년 이후 60%를 넘어선 뒤 꾸준히 상승해 왔다. 2013년에는 64.4%로 60%대 중반에 진입했고, 2022년에는 68.8%를 기록하며 60%대 후반까지 상승했다. 지난해 고령자 경제활동 참가율도 72.0%로 역대 최고치를 기록했다. 경제활동 참가율은 취업자뿐 아니라 일자리를 찾고 있는 실업자까지 포함한 지표다.&lt;br&gt;&lt;br&gt;생산가능인구(15~64세) 가운데 고령자(55~64세)가 차지하는 비율은 지난해 18.4%로 집계됐다. 15세 이상 인구 다섯 명 중 한 명가량이 고령자인 셈이다. 고령자 실업률도 하락하는 추세다. 고령자 실업률은 2024년 2.4%에서 작년 2.1%로 0.3%포인트 하락했다. 2021년(3.3%) 이후 점점 낮아지고 있다. 다만 고령자 일자리는 양질의 일자리가 부족하고 대부분 임시·일용직 비율이 크다는 지적도 제기된다. &lt;br&gt;&lt;br&gt;노동부는 “2차 베이비부머 세대(1964~1974년생)의 순차적 은퇴로 경제활동인구 부족이 우려되고 있다”고 밝혔다. 2차 베이비부머 세대 인구는 약 954만명으로, 우리나라 전체 인구의 18.6%에 달한다. &lt;br&gt;&lt;br&gt;일하는 고령자가 늘어나면서 국회에서는 법정 정년을 현행 60세에서 65세로 높이는 정년 연장 논의가 이어지고 있다. 노사정 모두 정년 연장의 필요성에는 공감하지만, 노동계는 연금 수급 연령에 맞춰 정년을 65세로 상향해야 한다는 입장인 반면 경영계는 사업장 자율에 맡기는 ‘정년 후 재고용’ 방식을 요구하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남서 아프리카돼지열병 발생...3900마리 살처분 </title>
+      <link>https://www.chosun.com/national/2026/02/04/AITD36YO5RHALEBTAMENUKKPHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/04/AITD36YO5RHALEBTAMENUKKPHY/</guid>
+      <dc:creator>창녕=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 01:52:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WIMDBMI3GMOJTME3DMYZQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 전남 영광 아프리카돼지열병 방역 현장 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에서 올해 첫 아프리카돼지열병(ASF)이 발생했다. 국내 돼지 농가에 아프리카돼지열병이 처음 확인된 2019년 9월 이후 경남에서는 지금껏 이 병이 확인된 적이 없었다.&lt;br&gt;&lt;br&gt;4일 농림축산식품부와 경남도에 따르면 지난 3일 경남 창녕군 대합면의 한 돼지 농장에서 폐사가 잇따르고 있다는 신고가 접수됐다. 이후 당국이 정밀 검사를 실시한 결과, 아프리카돼지열병이 확진됐다. 이 농장에서는 돼지 2400마리를 키우고 있다. &lt;br&gt;&lt;br&gt;창녕에서의 아프리카돼지열병 발생은 올해 1월 강원 강릉을 시작으로 경기 안성·포천, 전남 영광, 전북 고창, 충남 보령에 이어 전국 일곱 번째다. &lt;br&gt;&lt;br&gt;그동안 경남은 아프리카돼지열병과 관련해서는 상대적으로 안전 지역으로 여겨졌지만, 이번에는 피하지 못했다. &lt;br&gt;&lt;br&gt;경남도와 아프리카돼지열병 중앙사고수습본부(중수본)는 발생 농가를 비롯한 500m 내 가축 돼지 3900마리를 긴급 살처분할 계획이다. 또 해당 농장에 초동방역팀·역학조사반을 파견해 외부인·가축·차량의 농장 출입을 통제하고 있다. &lt;br&gt;&lt;br&gt;또 아프리카돼지열병 발생 농장과 주변 도로를 집중 소독하고, 5일 새벽 2시 30분까지 24시간 동안 창녕군 및 인접 8개 시·군(경남 합천, 의령, 함안, 창원, 밀양, 경북 청도, 고령, 대구 달성군)의 돼지 농장과 도축장, 사료 공장 등 축산 관계 시설 종사자 및 차량에 대해 일시 이동 중지 명령도 발령했다.&lt;br&gt;&lt;br&gt;아프리카돼지열병은 한 번 발생하면 돼지와 멧돼지에 치명적인 영향을 미친다. 고열, 식욕 부진, 기립 불능, 구토, 출혈, 폐사 등의 증상이 나타나며 암퇘지는 유산 확률이 높아진다. 사람에게는 감염되지 않는다고 알려졌다. &lt;br&gt;&lt;br&gt;경남도는 중수본과 함께 아프리카돼지열병 발생 농가 주변 10㎞ 14개 농가에 대해서도 이동 제한 및 임상·정밀검사를 실시할 계획이다. 14개 농가에는 총 3만9100여 마리의 돼지를 사육하고 있다. &lt;br&gt;&lt;br&gt;경남도 관계자는 “아프리카돼지열병이 확산되지 않도록 농가에서는 농장 내부와 외부 소독, 축사 출입 때 장화 갈아신기 등 기본적인 방역 수칙을 지켜달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오산 고가도로 옹벽 붕괴 사망사고...시장 입건 이어 시청 또 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2026/02/04/TJYTZCT6QJGD7MAGJ3KLSO6BBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/04/TJYTZCT6QJGD7MAGJ3KLSO6BBM/</guid>
+      <dc:creator>오산=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 01:36:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 오산 고가도로 옹벽 붕괴 사망 사고와 관련해 경찰이 지난해 7월에 이어 다시 오산시청을 압수수색했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 광역수사단 형사기동대는 4일 오전 10시 10분부터 오산시청에 수사관 26명을 투입해 압수수색 영장을 집행했다. 경찰은 지난해 7월 16일 발생한 오산 고가도로 옹벽 붕괴 사망 사고와 관련해, 옹벽 설치·관리 전반과 사고 이후 대응 과정에서의 책임 소재를 확인하기 위해 관련 자료를 확보하고 있다.&lt;br&gt;&lt;br&gt;경찰은 앞서 지난해 7월 22일에도 오산시청을 상대로 한 차례 압수수색을 진행해 옹벽 안전 점검 자료와 내부 보고 문건 등을 확보했었다.&lt;br&gt;&lt;br&gt;경찰은 이 사건과 관련해 지난해 12월 오산시장을 중대시민재해 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘무혐의 판단’ 뒤집은 특검...‘쿠팡 수사 외압’ 의혹 김동희 검사 소환</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/DW6DCGP5YVC4PIQPJAWULE2N6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/DW6DCGP5YVC4PIQPJAWULE2N6I/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 00:10:20 +0000</pubDate>
+      <content:encoded> ‘쿠팡 수사 외압’ 의혹을 수사하는 안권섭 상설특검팀이 4일 김동희 부산고검 검사(전 부천지청 차장검사)를 피의자 신분으로 소환한다. 김 검사가 특검 조사를 받는 것은 지난달 7일에 이어 두번째다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2K4FIUTORJ3VAOKZNSDYI2SVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동희 부산고검 검사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오전 10시부터 김 검사를 불러 직권남용 등 혐의에 대해 조사할 예정이다. 특검팀은 지난해 4월 김 검사 등 인천지검 부천지청 지휘부가 쿠팡풀필먼트서비스(CFS)의 ‘퇴직금 미지급 사건’을 무혐의 처분하도록 외압을 행사했다는 의혹을 수사중이다.&lt;br&gt;&lt;br&gt;이와 관련해 특검팀은 전날 엄성환 전 CFS 대표이사와 정종철 대표이사 등을 근로자퇴직급여보장법 위반 혐의로 기소했다. CFS를 무혐의 처분한 부천지청의 판단을 뒤집은 이후 처음으로 김 검사에 대한 조사가 이뤄지는 것이다.&lt;br&gt;&lt;br&gt;특히 특검팀은 지난해 3~4월 부천지청이 대검찰청에 쿠팡 사건을 보고하는 과정에 주목하고 있는 것으로 전해졌다. 당시 부천지청은 노동청이 압수수색을 통해 확보한 쿠팡의 취업규칙 변경에 관한 ‘내부지침서’를 대검 보고서에 누락한 것으로 알려졌는데, 특검팀은 이 보고서 작성을 김 검사가 주도한 정황을 포착하고 허위공문서 작성 혐의 적용을 검토중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 당시 부천지청장으로 있던 엄희준 광주고검 검사와 김 검사 측은 “작년 4월 18일 대검에 노동청 압수물 내용 등을 보고했다”며 “검찰 메신저에 대화 내역 등 객관적 증거 자료가 그대로 남아 있다”고 반박했다. 또 “수사 외압 의혹을 제기한 문지석 부장검사도 작년 3월 5일 회의에서 쿠팡 사건 무혐의 처분에 동의했다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>光州 출생아 7.7% 증가… 결혼도 6.2% 늘어</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/04/4VDHIRYC3NHQXOGC2A57VZ4P2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/04/4VDHIRYC3NHQXOGC2A57VZ4P2U/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 01:05:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRTMOLDGE3DGMRYMFSGCNJQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 광주광역시에서 태어난 출생아 수를 분석한 결과 전년 동기 대비 7.7% 늘어난 것으로 파악됐다. 결혼도 6.2% 늘었다.&lt;br&gt;&lt;br&gt;광주시는 4일 “국가통계포털(KOSIS·전 통계청)이 발표한 ‘2025년 11월 인구동향’을 분석한 결과, 작년 1~11월 광주 지역 출생아 수는 6017명으로 전년 동기 5587명 대비 430명(7.7%) 증가했다”고 밝혔다.&lt;br&gt;&lt;br&gt;혼인 건수도 작년 같은 기간 5421건으로 전년 동기 대비 315건(6.2%) 늘었다. 광주시는 “광주 출생아 증가율은 전국 평균인 6.2%를 상회하는 수치”라며 “혼인 증가세가 출산으로 이어지는 것으로 보인다”고 전했다.&lt;br&gt;&lt;br&gt;광주시는 저출생 대책으로 결혼, 임신, 출생, 양육, 일·생활 등 생애 주기별 출생 정책을 추진하고 있다. 양육 초기 소득 감소와 양육비 부담을 완화하는 정책들도 담겼다.&lt;br&gt;&lt;br&gt;현금성 지원으로는 출생가정축하상생카드, 첫만남이용권, 부모급여, 아동수당, 다태아출산축하금 등이 있다. 의료 지원으로는 공공 심야 어린이 병원, 난임 부부 지원, 영구적 불임 예상 생식세포 동결·보전 지원 등이다.&lt;br&gt;&lt;br&gt;돌봄 지원으로는 손자녀 가족 돌봄, 아이돌봄 서비스, 입원 아동 돌봄, 삼삼오오 이웃 돌봄 등이다. 일·생활 균형 지원으로 임신부·한 부모 가족 가사 지원 서비스, 육아휴직 대체 인력 근로자 지원 등도 이뤄지고 있다.&lt;br&gt;&lt;br&gt;광주시는 올해 저출생 대응 52개 과제에 총 2909억원을 투입하는 ‘광주아이키움 2.0’ 정책을 추진한다. 출산 전 지원에 그치지 않고 출산 이후 자녀 양육까지 함께하는 통합 돌봄 체제를 구축·운영한다는 계획이다.&lt;br&gt;&lt;br&gt;최경화 광주시 여성가족국장은 “아이가 안전하게 자라고 부모가 안심하고 일할 수 있는 ‘맘 편한 광주’를 만들어 가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GBRTMOLDGE3DGMRYMFSGCNJQHE.jpg?auth=c9b2e31b8ac35210d6eda133576bed5c6a8518ab004f60c125c19390d75a4230&amp;smart=true&amp;width=2820&amp;height=1800" type="image/jpeg" height="1800" width="2820">
+        <media:description type="plain">광주광역시청. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">GJI</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘신도 세뇌해 성폭행 무고 유도’ 교회 장로...대법서 무죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/04/CJ7R2TELNJEH5K2TCMOV3XPSBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/CJ7R2TELNJEH5K2TCMOV3XPSBA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Feb 2026 00:53:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3TQYRYGI2DIM3EGVRWEOJXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교인에게 “친아버지로부터 성폭행당했다”는 가짜 기억을 주입해 허위 고소하도록 유도한 혐의로 재판에 넘겨진 교회 관계자들이 대법원에서 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 작년 12월 무고 혐의로 기소된 교회 장로이자 검찰 수사관 출신의 이모 장로와 이모 권사, 오모 집사에 대해 무죄를 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;이 장로 등은 교인인 20대 세 자매에게 “친아버지에게 지속적으로 성폭행당했다”는 거짓 기억을 심어주고 2019년 8월 세 자매가 친부를 성폭행 혐의로 검찰에 고소하게 한 혐의로 기소됐다. 또 다른 신도에게는 “삼촌에게 성폭행당했다”는 기억을 주입해 허위 신고를 유도하기도 했다.&lt;br&gt;&lt;br&gt;검찰은 세 자매의 아버지 A씨가 이 장로 등에 대한 이단 의혹을 제기하자 A씨를 형사처벌 위험에 빠뜨리기 위해 악감정을 갖고 허위 주장을 만들었다고 봤다. 실제로 교회 내에서 이 장로와 이 권사의 권한은 막강했던 것으로 파악됐다. 이들은 교인들 사이에서 하나님이 주신 특별한 능력을 갖고 있는 사람들로 인식됐고, 다수의 교인은 이들을 전폭적으로 신뢰하고 추종한 것으로 조사됐다. 오 집사는 과거 성폭력 상담소에서 상담 업무에 종사했던 경력이 있으며, 이 장로와 이 권사의 신임을 받으며 교인들의 성 관련 문제에 대해 이 권사와 상담을 진행해 왔다.&lt;br&gt;&lt;br&gt;1심 재판부는 이 장로 등이 유도와 암시, 강요로 허위 성폭행 피해를 만들어낸 것으로 판단된다며 이 장로에게 징역 4년, 이 권사에 징역 4년, 오 집사에 징역 3년을 선고했다. 재판부는 이들이 A씨에게 앙심을 품고, 형사처벌을 받게 할 목적으로 세 자매에게 A씨를 고소하게 했다고 판단했다.&lt;br&gt;&lt;br&gt;반면 2심 재판부는 무죄를 선고했다. 재판부는 “피해 사실은 객관적 진실에 반하는 허위 진실”이라며 세 자매의 고소 내용이 거짓이라는 점은 인정했다. 하지만 검사가 제출한 증거만으로는 이 장로 등이 공모해 고의로 허위 기억을 형성 또는 주입했다는 점이 증명됐다고 보기 어렵다고 판단했다. 또 이들이 세 자매가 말한 피해 사실이 허위 사실임을 인식했다는 점이 증명됐다고도 보기 어렵다고 설명했다. A씨가 형사처벌을 받게 할 목적으로 세 자매에게 허위 사실을 신고하도록 했다는 점을 인정할 증거도 없다고 봤다.&lt;br&gt;&lt;br&gt;대법원은 검사 측 상고를 기각하며 무죄를 확정했다. 대법원은 원심과 같이 피고인들에 대한 각 공소사실은 모두 범죄의 증명이 없다고 했다. 대법원은 “원심의 판단에 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 무고죄의 성립과 공동정범 등에 관한 법리를 오해해 판결에 영향을 미친 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] 8억에서 30억… 노후한 저층 주거지의 변신</title>
       <link>https://www.chosun.com/national/2026/02/04/AMC4JZOUWND7JMH2L7UQ4PYGVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/02/04/AMC4JZOUWND7JMH2L7UQ4PYGVU/</guid>
@@ -778,42 +936,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/7KXV3STKVBFGPN2TWLO2JC4OCA.gif?auth=85a2fa5beabea43b13dfc681ab18ef32962e578b17a0856953c770fb58e9b3dd&amp;smart=true&amp;width=1000&amp;height=558" type="image/jpeg" height="558" width="1000"/>
     </item>
     <item>
-      <title>“입춘방은 이렇게 쓰는 거구나”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/03/Z67H6YIQ65FTNHO4NSCRPDDYDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/Z67H6YIQ65FTNHO4NSCRPDDYDA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFX3IZ47TVBLPNJ6HWVZZ5CGKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 광주광역시 북구청 민원실에서 노인복지센터 서예반 어르신들이 어린이들에게 입춘방(立春榜) 쓰는 법을 알려주고 있다. 입춘방은 24절기 중 첫 번째인 입춘에 벽이나 문지방에 써 붙이는 글을 뜻한다. 봄의 시작을 상징하는 입춘에 맞춰 한 해의 평안과 복을 기원하는 풍습이다. 올해 입춘은 2월 4일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유행성결막염 환자, 코로나 이후 ‘최대’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/02/03/UH63SNXNSFGUJMM5GW5Z5KAQ4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/03/UH63SNXNSFGUJMM5GW5Z5KAQ4U/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VA4W2RBBYFHDPABPR6E4ZQ3NI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 달 19일 광주 북구어린이집 원생들이 손에 묻은 바이러스를 검사하는 형광기기에 손을 넣어 상태를 점검하며 손씻시 교육을 받고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흔히 여름철에 유행한다고 알려진 유행성결막염이 최근 들어 빠른 증가세를 보이고 있다. 갑작스러운 추위에 실내에서 생활하는 사람이 늘어난 데다 코로나 팬데믹이 끝나고 개인 위생 관념이 느슨해지면서 2020년 이후 1월에 가장 많은 환자가 나타났다.&lt;br&gt;&lt;br&gt;2일 질병관리청에 따르면 1월 넷째 주(18~24일) 유행성결막염 의심 환자는 1000명당 7.2명을 기록했다. 이는 같은 기간 기준 2020년 14.5명 이후 최대치다. 이후엔 2021년 3.8명, 2022년 2.9명, 2023년 5.1명, 2024년 4명, 지난해 5.7명 정도로 낮은 수준을 유지해왔다.&lt;br&gt;&lt;br&gt;올겨울 유행성결막염이 늘어난 건 갑작스러운 한파 탓이라는 해석이 나온다. 실내에 몰려 생활하는 사람이 늘면서 집단 감염이 발생했다는 것이다. 특히 어린이집이나 유치원에 다니는 영유아들이 많이 걸렸다. 1월 넷째 주 의심 환자는 0~6세가 1000명당 33.3명으로, 7~19세(12명), 20세 이상(6.2명)보다 많았다. &lt;br&gt;&lt;br&gt;유행성 결막염에 걸리면 충혈, 눈곱, 이물감, 간지러움 등이 나타난다. 심할 경우 각막 손상이 생길 수 있다. 이성준 대한안과의사회 부회장은 “유행성 결막염을 예방하려면 손 씻기 등 개인 위생을 철저하게 관리해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>건보료, 2035년엔 소득의 10% 낼 수도</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/02/03/MBHIH6WLZRH7BHBQR7OJFRGMUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/03/MBHIH6WLZRH7BHBQR7OJFRGMUI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:54:00 +0000</pubDate>
-      <content:encoded>고령화로 인한 의료비 급증 때문에 현재 소득의 7.19%인 건강보험료율을 2035년에는 10.4%, 2050년에는 20.1%로 올려야 한다는 연구 결과가 나왔다. 의료비 지출을 획기적으로 줄이지 않으면 향후 감당하기 어려운 수준으로 건강보험료가 늘어날 수 있다는 것이다.&lt;br&gt;&lt;br&gt;서울대 경제학부 홍석철 교수는 이런 내용의 ‘초고령사회 대응을 위한 건강보험 필요 보험료율 추정과 지출효율화 방안’ 연구를 6일 한국경제학회 경제학공동학술대회에서 발표할 예정이다. 홍 교수는 지난 정부 때 대통령 직속 저출산고령사회위원회 상임위원을 지냈다. 건보 재정을 포함한 보건경제학의 권위자다.&lt;br&gt;&lt;br&gt;홍 교수에 따르면, 올해 건보 재정은 6년 만에 적자 전환이 확실시된다. 2031년쯤에는 적립금이 모두 소진될 것으로 예상된다. 이번 연구는 이런 상황에서 보험료율을 얼마나 올려야 건보 시스템을 유지할 수 있는지 예측한 것이다. &lt;br&gt;&lt;br&gt;홍 교수는 지금처럼 의료비를 지출하면 급속한 고령화로 보험료율 인상이 불가피하다고 밝혔다. 고령일수록 의료 서비스를 많이 이용하게 되고 의료비도 덩달아 늘어나기 때문이다. 전체 건강보험 지출액 가운데 65세 이상의 진료비 비율은 2023년 44.1%에서 2030년 53.1%, 2050년에는 70.2%에 달할 전망이다. &lt;br&gt;&lt;br&gt;하지만 2050년 20%까지 치솟는 보험료율을 국민들이 감당하기는 쉽지 않을 것이라고 연구는 지적한다. 국민들은 건보료뿐 아니라 장기요양보험료, 국민연금, 고용보험 등 각종 사회보험과 소득세 등도 내야 하는데, 건보료에만 소득의 5분의 1을 지출하는 것은 사실상 불가능하기 때문이다.&lt;br&gt;&lt;br&gt;홍 교수는 대안으로 ‘의료 지출 효율화’를 제안했다. 경증 질환 진료와 불필요한 검사비 등 ‘저가치 의료서비스’에 대한 본인부담금을 높여 의료 이용을 적정 수준으로 조절할 필요가 있다는 것이다. 비대면 진료와 호스피스·완화치료서비스를 활성화해 의료비를 줄이는 것도 대안으로 제시됐다. 홍 교수는 “급증하는 건보 지출에 대한 부담을 우리 사회가 어떻게 감당할지 논의를 시작해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>영덕 풍력발전기, 도로에 쿵… 인명피해는 없어</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/03/OAQBQ3LKBVF6LFQ2PRNMEU224I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/03/OAQBQ3LKBVF6LFQ2PRNMEU224I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRLWM4EBG5HTBJW7XNENUGGTOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 경북 영덕군 영덕읍 창포풍력발전단지에 있는 풍력발전기 1기가 도로를 덮쳤다. 발전기 기둥이 뚝 꺾인 모습이다. 당시 지나가던 차량이 없어 인명 피해는 발생하지 않았다. 영덕군에 따르면, 창포풍력발전단지는 2005년 완공됐다. 높이 80m 크기의 발전기 24기가 설치돼 있다. 영덕군 관계자는 “사고 당시 영상을 보면 날개가 파손되면서 발전기가 균형을 잃은 것으로 보인다”며 “구체적인 원인을 조사하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>밀가루·설탕 어쩐지 비싸더라… 검찰 ’10조 담합' 무더기 기소</title>
       <link>https://www.chosun.com/national/court_law/2026/02/03/UEMRYVHUORBKVFHTKDC3AK6KTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/03/UEMRYVHUORBKVFHTKDC3AK6KTQ/</guid>
@@ -823,79 +945,6 @@
       <content:encoded>검찰이 설탕·밀가루 등 생활필수품 가격을 담합한 업체 관계자들을 무더기로 재판에 넘겼다고 2일 밝혔다. 이들의 담합 규모는 약 10조원에 이르는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 밀가루 담합을 벌인 대한제분과 사조동아원 등 6개 제분업체 전현직 관계자 20명을 공정거래법 위반 혐의로 불구속 기소했다. 앞서 검찰은 작년 11월과 올 1월 설탕과 한전 입찰 등을 담합한 10개 업체 32명(6명 구속)을 기소한 바 있다. 검찰은 작년 9월 이재명 대통령이 생필품 물가 인상을 언급하며 “업체 간 담합 가능성을 배제할 수 없다”고 한 뒤 약 5개월 동안 담합 범죄 단속에 나섰다.&lt;br&gt;&lt;br&gt;검찰 조사 결과, 제분업체들은 2020년 1월부터 담합을 시작했고, 총 규모가 5조9913억원에 이르는 것으로 조사됐다. 이에 따라 최근 밀가루 가격은 담합 전보다 22.7% 올랐고, 최고 42.4%까지 인상된 때도 있었다.&lt;br&gt;&lt;br&gt;업체 관계자들은 공정거래위원회를 ‘공 선생’이라고 부르면서 감시망을 피해온 것으로 조사됐다. 검찰은 이들이 “강력분·박력분은 4000원, 중력분은 3000원을 올리자” “‘공 선생’한테 들키면 안 되니까 앞으로는 연락을 자제하자” 등의 대화를 나누는 통화 녹음 파일을 확보했다고 한다. 또 “자기가 올린 문서는 자기가 지우자” “너무 많이 (자료를) 지우면 증거인멸로 갈 것 같다” 등의 메시지를 주고받은 증거 인멸 정황도 확보했다. 이들 업체는 가격도 사전에 기준액을 정해 놓고, 업체마다 각기 다른 인상액을 제시하는 척하다가 결국엔 같은 금액을 맞추는 방식을 썼다. 가격 인상 소식을 업계에 알리는 순서도 ‘사다리 타기’로 미리 정해 돌아가며 알렸다고 한다.&lt;br&gt;&lt;br&gt;앞서 적발된 CJ제일제당과 삼양사 등의 설탕 담합의 규모는 총 3조2715억원으로 조사됐다. 검찰은 이들이 설탕의 원재료인 원당(原糖) 가격이 오를 때는 설탕 가격을 대폭 올리고, 원당 가격이 내릴 때는 설탕 값을 조금만 낮추는 수법으로 이익을 챙겼다고 봤다. 다만 제분업체 중 CJ제일제당과 설탕업체 중 대한제당 등은 검찰 수사에 협조하는 리니언시(자진 신고자 감면 제도)를 신청해 기소를 면했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘5124억’ 가장 뜨거운 사랑의 온도</title>
-      <link>https://www.chosun.com/national/people/2026/02/03/Y2YRFBYFJ5ETZJCQI67KWJZ3EI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/03/Y2YRFBYFJ5ETZJCQI67KWJZ3EI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWUB4VLDWVFR5CZ4H5OB4E5Z6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 서울 종로구 광화문 광장에서 열린 사랑의 온도탑 폐막식 기념 사진 촬영을 하고 있다. 사랑의열매 사회복지공동모금회는 캠페인을 통해 총 5124억원을 모금, 사랑의온도탑 나눔온도 113.9도를 달성했다고 밝혔다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑의열매 사회복지공동모금회는 연말연시 이웃 돕기 캠페인인 ‘희망 2026 나눔 캠페인’을 통해 총 5124억원을 모금했다고 2일 밝혔다. 역대 희망 나눔 캠페인 가운데 최고 모금액이다. &lt;br&gt;&lt;br&gt;사랑의열매는 이날 오후 서울 광화문광장에서 ‘희망 2026 나눔 캠페인’ 폐막식을 열었다. 폐막식에는 김병준 사랑의열매 회장과 ‘사랑의 온도탑’ 디자인을 기획한 전주대 박예찬 학생, 기부자 대표로 강원도 소방본부의 이유미 소방장이 참석했다. 강원도 소방본부는 2015년부터 ‘강원119행복기금’을 운영하고 있다. 소방관들이 매달 최소 1190원을 자발적으로 기부해 화재 피해 주민이나 소외 계층을 돕는다. 지난해 기준으로 이 소방장 등 매달 2500여 명의 소방공무원이 기부에 참여하고 있다. 작년 12월까지 누적 성금은 8억9000만원에 달한다.&lt;br&gt;&lt;br&gt;희망 2026 나눔 캠페인은 지난해 12월 1일부터 올해 1월 31일까지 진행됐다. 나눔 목표액(4500억원)의 1%가 모일 때마다 1도씩 오르는 사랑의 온도탑은 최종 나눔 온도 113.9도를 기록했다.&lt;br&gt;&lt;br&gt;올해 모금액 증가는 법인 기부금이 늘어난 영향이 컸다. 캠페인 모금액 5124억원 중 법인 기부금은 3920억원으로 전년(3667억원) 대비 6.9% 늘었다. 반면 개인 기부금은 1204억원으로 전년(1248억원) 대비 3.5% 줄었다. 김병준 회장은 “경제적으로 불확실한 해였지만, 국민 한 분 한 분의 마음이 모여 모금액이 최초로 5000억원을 넘어섰다”며 “사랑의 열매는 국민들의 소중한 성금으로 복지 사각지대에 놓인 이웃의 기본 생활을 보장하고, 기후 위기와 재난 등 새로운 사회 문제에 신속하게 대응해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;사랑의열매는 지난해 연간 모금액이 9864억원으로, 1998년 설립 이후 처음으로 9000억원을 돌파했다고 밝혔다. 이는 전년(8477억원) 대비 16.4% 증가한 수치다. 법인 기부금이 6817억원, 개인 기부금이 3047억원이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 유병연 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/03/3ACBLHGAP5HCRNTM5D2IAO2KVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/03/3ACBLHGAP5HCRNTM5D2IAO2KVU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:52:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;유병연&lt;/b&gt; 별세, &lt;b&gt;정기채&lt;/b&gt;·&lt;b&gt;정흥채&lt;/b&gt;·&lt;b&gt;정영채&lt;/b&gt; 메리츠증권 고문 모친상, &lt;b&gt;김말태&lt;/b&gt;·&lt;b&gt;김미화&lt;/b&gt;·&lt;b&gt;배금현&lt;/b&gt; 시모상, &lt;b&gt;정현이&lt;/b&gt;·&lt;b&gt;정진영&lt;/b&gt;·&lt;b&gt;정현숙&lt;/b&gt;·&lt;b&gt;정진호&lt;/b&gt;·&lt;b&gt;정진경&lt;/b&gt;·&lt;b&gt;정진웅&lt;/b&gt;·&lt;b&gt;정진주&lt;/b&gt; 조모상, &lt;b&gt;김수봉&lt;/b&gt; 외조모상=1일23시28분 대구보훈병원, 발인 4일8시, (053)625-4466&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전복수&lt;/b&gt; 별세, &lt;b&gt;이재근&lt;/b&gt; 前 남성여고 교사·&lt;b&gt;이재수&lt;/b&gt; DHP제약 대표·&lt;b&gt;이재훈&lt;/b&gt; 유정시스템 대표·&lt;b&gt;이재승&lt;/b&gt; 동의대 무역학과 교수·&lt;b&gt;이재혁&lt;/b&gt; 리얼티네트웍스 대표 모친상, &lt;b&gt;이정은&lt;/b&gt; 포브스코리아 기자 조모상=31일13시45분 부산 해운대백병원, 발인 4일8시30분, (051)893-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍태준&lt;/b&gt; 별세, &lt;b&gt;최영랑&lt;/b&gt; 남편상, &lt;b&gt;홍경표&lt;/b&gt; 연합인포맥스 차장·&lt;b&gt;홍경훈&lt;/b&gt; 씨티닷츠 차장 부친상=1일18시23분 경기 용인세브란스병원, 발인 4일9시, (031)678-7600&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>우윤근 한러대화 조정위원장</title>
-      <link>https://www.chosun.com/national/people/2026/02/03/B7CHKGKKQRG5NKY4AHXHCC4UTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/03/B7CHKGKKQRG5NKY4AHXHCC4UTA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXAIYA6FDRDELCU6JR7JIBCZWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사단법인 한러대화(KRD)는 29일 서울 중구 한국프레스센터에서 정기총회를 열고 신임 조정위원장으로 우윤근(오른쪽) 전 주러시아대사를 선임했다. 왼쪽은 이규형 전임 조정위원장. 한러대화는 한국과 러시아 양국 정부와 국민 간 우호협력 증진을 위해 2008년 한러 정상회담 직후 설립됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아버지가 독립 외치던 땅… 남겨진 동포가 보였다</title>
-      <link>https://www.chosun.com/national/people/2026/02/03/MTT5MKA5MFH7NNIMTATYSHYTEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/03/MTT5MKA5MFH7NNIMTATYSHYTEI/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XDWRGSP7FHGPHI2NA4KATV4DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 서울 강남구 통일문화연구원에서 본지와 만난 라종억 통일문화연구원 이사장이 최근 발간한 현장 답사기 시리즈를 들어 보이고 있다. 이 시리즈에는 그가 2001년부터 2024년까지 23년간 세계 곳곳을 다니며 고려인 등 다문화인을 대상으로 교육·의료 지원을 벌인 경험이 담겼다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“보고 들은 걸 기록하지 않았다면, 척박한 현장에서 함께 울고 웃었던 동포들의 얼굴은 진즉 잊혔을 겁니다.” &lt;br&gt;&lt;br&gt;라종억(79) 통일문화연구원 이사장은 지난달 22일 본지 인터뷰에서 “소외된 해외 동포들을 한 울타리로 엮고 지원하는 건 통일 기반 조성에 필수 사업”이라며 “(내 인생은) 우리 민족의 흩어진 파편을 모으는 과정이었다”고 했다. 독립운동가이자 제헌의원을 지낸 백봉(白峰) 라용균(1896~1984) 선생의 아들인 라 이사장은 1998년 통일문화연구원을 설립한 뒤 탈북민과 고려인·다문화인에 대한 교육과 의료 지원, 사회 통합 활동을 해왔다. 최근 그는 2001년부터 2024년까지 23년간 세계 곳곳을 방문한 기록을 담은 9권의 현장 답사기를 출간했다.&lt;br&gt;&lt;br&gt;20여 년 동안 라 이사장의 발길은 화려한 도시보다 중앙아시아의 황무지와 오지를 향했다. 그가 고려인들에게 관심을 갖게 된 건 부친의 활동 덕분이다. 아버지 라용균 선생은 청년 시절 상하이와 시베리아를 누비며 독립운동을 펼치다 투옥됐다. 라 이사장은 “아버지가 고초를 겪으셨던 그 길을 따라가다 보니, 자연스레 그 땅에 남겨진 고려인들이 보였다”며 “고려인은 러시아어·우크라이나어를 쓰지만 분명한 조선인의 후손”이라고 했다. &lt;br&gt;&lt;br&gt;9권의 현장 답사기 중 ‘중앙아시아를 품다’에서 그는 지난 2017년부터 2023년까지 7년간 카자흐스탄과 우즈베키스탄을 오간 경험을 생생하게 풀어놓는다. 라 이사장은 “현장을 다니다 보니 고려인 동포를 돕는 일이나 그들을 받아준 카자흐스탄·우즈베키스탄 국민을 돕는 일이나 본질적으로 다르지 않다는 생각이 들었다”고 했다. &lt;br&gt;&lt;br&gt;그는 고려인 정착에 도움을 준 카자흐스탄 국민에게 감사하는 마음을 전하기 위해 현대병원(원장 김부섭)과 2018년부터 현지에서 의료 봉사를 하고 있다. 2019년엔 카자흐스탄 우슈토베에 고려인 희생자들을 기리는 추모비를 세웠고 2020~2021년 한국·카자흐스탄 우호 공원을 조성했다.&lt;br&gt;&lt;br&gt;통일문화연구원은 2014년부터는 본지와 함께 ‘통일과나눔 아카데미’를 운영하면서 탈북민과 고려인을 대상으로 한국어 교육과 함께 한국 정착을 위한 직업 교육을 하고 있다. 2017년부터는 국내에서 탈북민을 대상으로 진행하던 통일나눔아카데미 중앙아시아 지부를 카자흐스탄 알마티에 설립해 고려인에게 한글 교육 지원을 시작했다. 라 이사장은 책에서 “2018년 알마티 고려극장을 방문했을 때, 통일나눔아카데미의 추천으로 한국예술종합학교에 장학생으로 입학한 고려인 학생이 다른 고려인·카자흐스탄인 친구 10여 명과 함께 북을 연주하며 나를 맞아줘 보람찼다”고 했다.&lt;br&gt;&lt;br&gt;라 이사장은 ‘아시아의 색채’에서는 지난 2002년 라이따이한(한국인과 베트남인 사이에서 태어난 혼혈아)을 지원하는 베트남 호찌민시의 ‘휴메인 직업훈련학교’를 방문한 경험을 소개했다. 이곳에서 만난 베트남 한인 2세들은 국내 대학에서 기술 연수생으로 교육받은 뒤 베트남으로 돌아가 다른 라이따이한을 가르치면서 현지 산업화에도 기여하고 있다. 그는 “현지를 찾아보니 두 나라는 베트남 참전이라는 대립의 역사를 넘어 적극적으로 협력하고 있었다”고 했다.&lt;br&gt;&lt;br&gt;라 이사장은 “단순한 한글 교육을 넘어 고려인과 탈북 청소년들이 한국 사회에 안정적으로 정착할 수 있도록 교육을 계속해 나갈 예정”이라며 “망국(亡國)의 한이 서린 중앙아시아에 고려인을 추모하는 공간을 만들어 우리 국민과 고려인, 탈북 청소년, 다문화 청소년에게 올바른 역사와 문화를 가르치고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/03/ZFL3NJU6QBANTEMIBFLCSJEJOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/03/ZFL3NJU6QBANTEMIBFLCSJEJOE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:52:00 +0000</pubDate>
-      <content:encoded>▲법무부◇고위공무원&amp;lt;승진&amp;gt;▷정책기획관 김상권▷법무부 박진열◇출입국·외국인정책본부 부이사관&amp;lt;승진&amp;gt;▷외국인보호위원회 사무국장 장희정&lt;br&gt;&lt;br&gt;▲문화체육관광부◇과장급 전보▷예술인권리보호과장 문지희&lt;br&gt;&lt;br&gt;▲한국콘텐츠진흥원◇본부장 전보▷글로벌혁신부문 경영전략본부 본부장 엄윤상▷〃 콘텐츠수출본부 본부장 박인남▷콘텐츠기반본부 본부장 구경본◇본부장 신임▷방송영상본부 본부장 전우영▷게임신기술본부 본부장 김성준▷콘텐츠IP진흥본부 본부장 이도형◇팀장 전보▷전략혁신팀 팀장 박혁태▷수출전략팀 팀장 유성훈▷OTT글로벌유통팀 팀장 최승연▷게임유통팀 팀장 강경석▷게임기반조성팀 팀장 주성호▷기업육성팀 팀장 강소현▷미래정책팀 팀장 이강훈▷홍보팀 팀장 김소연◇팀장 신임▷인사팀 팀장 최윤수▷재무팀 팀장 이우진▷안전경영팀 팀장 조기영▷아시아중동수출지원팀 팀장 이영훈▷미주유럽수출지원팀 팀장 심희대▷게임전략팀 팀장 곽혁수▷인재양성팀 팀장 오영은▷산업정책팀 팀장 김희숙&lt;br&gt;&lt;br&gt;▲KBS▷보도시사본부 선거방송기획단장 박진영▷전주방송총국 보도국장 한주연▷대전방송총국 기술국장 장재경▷〃 총무국장 김창민 ▷청주방송총국 보도국장 구병회▷춘천방송총국 편성제작국장 안진&lt;br&gt;&lt;br&gt;▲뉴시스◇승진▷전무 박상권▷편집국장 이진우▷금융증권부장 김형섭(직대)▷건설부동산부장 강세훈(직대)◇전보▷경제부장 김현섭▷산업부장 장시복▷산업2부장 오종택▷사회정책부장 김경원▷전국부장 우은식▷동영상부장 원종태▷이슈팀장 김종민&lt;br&gt;&lt;br&gt;▲OBS경인TV▷보도본부장(부사장 겸임) 박진용▷상무(미디어본부장) 차규남&lt;br&gt;&lt;br&gt;▲고려대◇교원 보직▷이과대학장 최기항▷정보대학장 겸 SW·AI 융합대학원장 유헌창▷디자인조형학부장 이예승▷방사선안전관리센터장 이은진▷안암학사 관장 박제원▷농장장 이상현&lt;br&gt;&lt;br&gt;▲덕성여대▷대학교육혁신원장 겸 DS-혁신사업단장 원동환▷기획처장 허집▷교무처장 이형규▷산학연구처장 겸 산학협력단장 주황수▷학생·인재개발처장 겸 대학일자리본부장 정지용▷입학처장 유병희▷국제처장 김상만▷캠퍼스타운조성단장 강남희&lt;br&gt;&lt;br&gt;▲삼성서울병원▷진료부원장 손태성▷외래부장 이광혁▷수술실장 겸 마취통증의학과장 곽미숙▷SMC파트너즈센터 부센터장 장원혁▷감염내과장 정두련▷암병원장 김희철▷암병원 운영지원실 실차장 유재민▷암병원 운영지원실 실차장 양경미▷암병원 암데이터관리팀장 신동현▷환자성과가치혁신실장 조주희▷혁신신약개발센터장 박세훈▷지능형의료로봇연구센터장 정규환▷AI연구센터장 양광모▷기획총괄 겸 기획실장 조익준▷기획부실장 서성욱▷기획부실장 강철인▷커뮤니케이션실 실차장 박혜윤▷디지털혁신추진단장 이규성▷데이터혁신센터 부센터장 강미라▷간호부원장 함윤희▷QI실장 김덕경▷QPS실차장 전병준▷위기대응·PI실차장 강원석▷환자행복 실차장 홍상덕▷교육인재개발실 실차장 허규연▷병원발전지원실장 문일준&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 실의 품질 확인 위해 옷감 장수가 개발… 박테리아·곰팡이 세상에 알렸죠</title>
-      <link>https://www.chosun.com/national/nie/2026/02/03/CEQEG3HUEJCPBFCNKQ7GSBCAEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/03/CEQEG3HUEJCPBFCNKQ7GSBCAEU/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:50:00 +0000</pubDate>
-      <content:encoded>지난달 21~23일 열린 대한민국 교육박람회에서 여러 명이 동시에 볼 수 있는 현미경이 눈길을 끌었다고 해요. 원래 현미경은 렌즈에 눈을 대고 봐야 하기에 수업 시간에 학생들이 한 명씩 돌아가며 사용해야 하죠. 하지만 이 현미경은 렌즈 부분에 모니터를 연결해 모든 학생이 렌즈에 보이는 걸 모니터로 동시에 볼 수 있도록 만들었답니다. 오늘은 현미경이 처음에 어떻게 발명됐고, 인류 역사에 어떤 영향을 미쳤는지 한번 알아볼까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42E7X5OXYBDWLBNBKLBZFMCLKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 위키피디아
-18세기 사용된 현미경입니다. 프랑스 파리의 국립기술공예박물관에 전시돼 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16세기 후반 네덜란드의 안경 제작자였던 얀센 부자는 여러 렌즈를 조합하는 방법을 연구해 가까이 있는 물체를 크게 볼 수 있는 현미경을 발명했어요. 이 현미경은 초점을 맞출 때 빛이 심하게 번져 널리 사용되진 못했어요. 확대 배율도 10배 정도에 그쳤기 때문에 유의미한 발견을 하긴 어려웠죠.&lt;br&gt;&lt;br&gt;약 80년 뒤 네덜란드의 옷감 장수였던 레벤후크가 고배율 현미경을 발명했어요. 옷감을 이루고 있는 실의 품질을 자세히 확인하고 싶은 마음에 당시 쓰이던 확대 렌즈보다 더 확대할 수 있는 렌즈를 개발한 것이죠. 무려 275배까지 확대할 수 있었다고 해요. 레벤후크는 자신이 만든 현미경으로 여러 궁금증을 해소하려고 머리카락, 피, 정자, 손톱 등을 관찰했답니다.&lt;br&gt;&lt;br&gt;레벤후크는 어느 날 집 근처 호수에서 퍼 온 물을 현미경으로 들여다봤어요. 물 안에 엄청나게 많은 생명체가 우글거리며 살아 있었죠. 깜짝 놀란 레벤후크는 이를 ‘극미동물(animalcules)’이라고 부르면서, 이 사실을 당시 가장 권위 있는 과학 분야 기관인 영국 왕립학회에 보고해 과학적 성과를 인정받았답니다. 그는 학회 회원이 됐고, 이후에도 박테리아, 각종 광석, 빗물, 곤충, 곰팡이 등을 현미경으로 관찰해 학계에 보고했어요.&lt;br&gt;&lt;br&gt;레벤후크 이후 ‘자연발생설’을 의심하는 분위기가 커져 자연스레 과학이 발전했어요. 자연발생설이란 고대 그리스 철학자인 아리스토텔레스의 주장으로, 구더기나 진드기 같은 작은 생물은 고깃국이나 땀에 젖은 옷 같은 무생물에서 자연적으로 생긴다는 내용이에요. 이 주장은 14~16세기까지 정설처럼 여겨졌어요. 레벤후크는 눈에 보이지 않는 박테리아나 곰팡이 같은 미생물이 존재한다는 것을 세상에 알렸죠.&lt;br&gt;&lt;br&gt;이후 과학자들은 미생물을 더 자세히 연구하게 됐어요. 18세기 이탈리아의 생물학자 스팔란차니는 끓인 육즙 두 개 중 하나를 완전히 밀봉했더니 미생물이 생기지 않았다는 실험으로 자연발생설을 반박했어요. 1861년 미생물학의 대표 격인 루이 파스퇴르는 미생물의 접근이 어려운 S자 입구 플라스크에 육즙을 넣어두었을 때는 미생물이 생기지 않다가, 플라스크 입구에 육즙을 묻혔을 때는 미생물이 생겨났다는 ‘백조 목 플라스크 실험’을 통해 미생물은 생물에서 태어난다는 ‘생물속생설’을 주장하게 됐죠.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 2월 3일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/03/R4JS3226EFDQDLZB4GW5BGWICU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/03/R4JS3226EFDQDLZB4GW5BGWICU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GVOFC4AUZCQVANOC3SQQRICS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [디자인·건축 이야기] 일본이 만든 최고의 문화 수출 상품… 카드 1장이 ’77억원’에 팔리기도 했죠</title>
-      <link>https://www.chosun.com/national/nie/2026/02/03/KNOPZK5YTRBPLH3TUJV4N5JGJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/03/KNOPZK5YTRBPLH3TUJV4N5JGJ4/</guid>
-      <dc:creator>전종현 디자인·건축 저널리스트</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:50:00 +0000</pubDate>
-      <content:encoded>오는 27일은 포켓몬스터(포켓몬) 탄생 30주년입니다. 포켓몬은 1996년 일본 닌텐도의 비디오 게임으로 처음 시작했어요. 게임에는 포켓몬 151마리가 등장했는데요. 사용자는 이 포켓몬들을 잡아서 키우고, 친구와 대결하고, 교환도 했어요. 소비자가 직접 게임 줄거리에 영향을 미치는 참여형 게임의 몰입도와 귀여운 캐릭터의 인기가 겹치며 포켓몬 열풍이 시작됐죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UM5DZSXMZVATNMJ6CTBY2RR4GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 로건 폴 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 포켓몬은 만화책, TV 애니메이션, 트레이딩 카드(수집·교환용 카드) 게임, 영화, 다른 캐릭터 협업 등으로 사업 범위를 확장했어요. 이렇게 다양한 분야에서 매출을 올리는 지식재산권(IP) 사업을 ‘미디어 프랜차이즈’라고 불러요. 우리에게 익숙한 헬로키티, 미키마우스, 스타워즈, 해리포터 등이 대표적이에요. 그중 포켓몬 프랜차이즈가 지금까지 올린 누적 매출액은 무려 1500억달러(약 218조원)로 압도적 1위랍니다. 전 세계를 휘어잡은 인기 덕분에 ‘일본이 만든 최고의 문화 수출 상품’이란 별명까지 붙었어요.&lt;br&gt;&lt;br&gt;우리가 알고 있는 포켓몬 캐릭터는 대부분 일본의 게임 개발자이자 캐릭터 디자이너인 스기모리 켄이 만들었는데요. 막상 포켓몬의 상징이나 다름없는 피카츄는 여성 디자이너 니시다 아츠코가 디자인했어요. 포켓몬을 떠올릴 때 강하고 거친 이미지만 생각나서 남성의 관점에서 벗어날 수 있는 니시다에게 부탁했다고 해요. 니시다는 다람쥐가 볼에 먹이를 저장하는 습성에서 영감을 받아 볼에 전기 주머니가 달린 귀여운 피카츄를 탄생시켰답니다. 피카츄의 이름도 니시다가 지었는데요. 전기 스파크를 표현하는 일본어 ‘피카(반짝)’와 어감이 귀여운 ‘츄’를 합친 것입니다.&lt;br&gt;&lt;br&gt;포켓몬 디자인은 결코 만만치 않은 일이에요. 동물, 식물, 광물, 신화 등 온갖 소재에서 영감을 얻는데 최종 디자인을 채택할 때 목표치의 5~10배에 달하는 초기 아이디어가 탈락한다고 합니다. 그렇게 차근차근 자리 잡은 다채로운 포켓몬 총 1025마리는 수집욕을 불러일으키죠. 탄생 30년이 되도록 포켓몬의 인기가 꺼지지 않는 비밀이기도 해요. &lt;br&gt;&lt;br&gt;특히 실물 트레이딩 카드의 인기는 정말 엄청나요. 희귀한 소장용 카드는 예상을 뛰어넘을 정도로 높은 가격에 거래된답니다. 지난달 미국 뉴욕의 한 포켓몬 카드 가게에 무장 강도가 침입해 3분 만에 10만달러(약 1억4500만원)어치를 챙겨 달아나기도 했어요.&lt;br&gt;&lt;br&gt;현재 가장 비싼 포켓몬 카드는 미국의 프로레슬러이자 유명 유튜버 로건 폴이 2022년 경매에서 527만5000달러(약 77억원)에 낙찰받은 ‘피카츄 일러스트레이터’예요. 1998년 39장만 제작한 특별 카드 중 완벽하게 보존된 유일한 경우입니다. 로건 폴은 이 카드를 포켓몬 30주년을 앞두고 이달 열리는 경매에 다시 내놓았는데, 기존 기록을 경신할지 관심을 모으고 있어요.&lt;br&gt;&lt;br&gt;오는 5일에는 포켓몬 최초의 테마파크 ‘포켓파크 칸토’가 일본 도쿄에 문을 엽니다. 숲속을 걸으며 곳곳에 배치된 포켓몬 조형물 600여 개를 관찰할 수 있어요. 추첨 방식으로 판매하는 입장권은 이미 두 달 치가 매진됐다고 해요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재미있는 과학] 경찰 호위 받으며 이사한 125세 전구의 장수 비결은?</title>
       <link>https://www.chosun.com/national/nie/2026/02/03/7HZXLBAL6NBETMLSCJKAANDRZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/03/7HZXLBAL6NBETMLSCJKAANDRZ4/</guid>
@@ -903,51 +952,6 @@
       <description/>
       <pubDate>Mon, 02 Feb 2026 15:50:00 +0000</pubDate>
       <content:encoded>무려 120년 넘게 불을 밝히고 있는 전구가 있다는 사실을 아시나요? 이 전구의 이름은 ‘센테니얼 전구(Centennial Light)’예요. 미국 캘리포니아주 리버모어의 한 소방서에 설치돼 있어요. 가장 오래 켜진 전구로 기네스북에도 올라 있죠. 리버모어 시와 소방서는 센테니얼 전구 덕분에 지역 명물을 넘어 국제적인 명소가 됐어요. 전구를 보려고 세계 각지에서 해마다 수많은 관광객이 몰려들고 있거든요. &lt;br&gt;&lt;br&gt;2026년은 센테니얼 전구가 설치된 지 125주년 되는 해입니다. 이를 기념하기 위해 리버모어 시는 대대적인 행사를 준비 중이래요. 사람들은 꺼지지 않는 이 전구를 ‘영원한 빛’이라고 부르는데요. 오늘은 센테니얼 전구가 어떻게 이토록 오랜 기간 빛을 내고 있는지 그 원리를 살펴볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZTNDDXCPJBFVIGJQHUU6HI7ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1901년부터 지금까지 108만 시간 점등&lt;/b&gt;&lt;br&gt;&lt;br&gt;센테니얼 전구는 1901년 6월 처음 이 소방서에 설치돼 불을 밝혔습니다. 미국의 ‘셸비 일렉트릭’ 회사가 1890년대 후반에 만들어 기증한 거래요. 이 전구는 인위적인 이유로 잠시 꺼진 적이 있긴 하지만, 전구가 고장 나 꺼진 적은 없답니다. 1976년 소방서가 다른 곳으로 이전할 때 한 번, 정전이나 유지 보수를 위해 몇 번 꺼진 걸 제외하곤 계속 켜 있는 상태예요. 소방서 이전으로 전구를 옮겨야 했을 때도 특별히 설계된 상자에 넣어 경찰차와 소방차의 호위를 받으며 옮겼대요. 이때 전기 차단 시간은 단 22분밖에 안 됩니다. 새 소방서에서는 전기 기술자가 전구를 설치했다고 합니다.&lt;br&gt;&lt;br&gt;센테니얼 전구가 1901년부터 지금까지 켜진 시간은 약 108만 시간이에요. 과거 백열전구의 점등 시간은 약 1000시간, 형광전구는 5000~1만5000시간, 요즘 주로 사용하는 LED 전구는 평균 2만5000시간에서 최대 5만 시간인 것과 비교하면 엄청나게 긴 수명이죠. 센테니얼 전구는 원래 60W(와트)의 전력으로 작동하도록 설계됐는데요. 시간이 지나면서 4W로 조정했어요. 4W는 야간등 정도의 밝기예요. 지금도 4W 희미한 주황색 불빛을 내뿜으며 소방서를 비추고 있답니다.&lt;br&gt;&lt;br&gt;센테니얼 전구는 프랑스의 엔지니어 아돌프 샤일레가 설계하고 셸비 일렉트릭이 수작업으로 만들었어요. 당시 전구 수명은 50일에 불과했대요. 그래서 오래 사용할 수 있는 전구 개발이 이 회사의 목표였죠. 물론 당시에도 셸비 일렉트릭의 상업용 전구는 수명이 길기로 유명했다고 해요. 그렇다고 해도 셸비 일렉트릭이 센테니얼 전구를 처음 만들었을 때, 이 전구가 120년 이상 켜져 있을 거라곤 예상하지 못했을 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;센테니얼 전구의 수명이 긴 이유&lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 센테니얼 전구는 왜 이렇게 수명이 긴 걸까요? 가장 큰 비밀은 전구 안 ‘필라멘트’에 있습니다. 필라멘트는 전류가 가열하면 빛을 발하는 가는 금속선이에요. 지금 우리가 쓰고 있는 전구의 필라멘트는 보통 ‘텅스텐’이란 금속으로 만들지요. 그런데 센테니얼 전구는 얇은 텅스텐 필라멘트가 아닌, 두껍고 내구성(물질이 변하지 않고 오래 견디는 성질)이 뛰어난 ‘탄소’로 필라멘트를 만들었어요. 초기 백열전구는 대부분 탄소 필라멘트로 만들었는데, 센테니얼 전구는 다른 전구보다도 더 두껍고 튼튼한 탄소 필라멘트로 만들었답니다.&lt;br&gt;&lt;br&gt;전구 유리도 다른 전구보다 두꺼웠어요. 전구 생산 장인이 직접 손으로 다듬어서 두꺼운 유리구를 만든 거예요. 전구 받침대도 묵직하고 튼튼한 황동을 재료로 썼고, 전구의 내부 충전 가스도 아르곤이나 크립톤 가스 대신 구하기 쉽고 저렴한 질소 가스로 채웠어요. 질소는 탄소 필라멘트가 녹스는 것을 막아주기 때문에 전구의 수명을 연장하는 데 직접적인 도움이 됩니다. &lt;br&gt;&lt;br&gt;과학자들은 센테니얼 전구 수명이 긴 또 하나의 비결로 365일 내내 켜져 있는 점을 꼽아요. 전구는 켜는 순간에 강한 전류가 흘러 필라멘트가 손상될 수 있어요. 그래서 전구를 자주 켰다 껐다 하면 필라멘트가 팽창과 수축을 거듭하면서 끊어져 전구 수명이 짧아지죠. 센테니얼 전구는 켜고 끄는 과정이 거의 없어서 전력 소모와 발열이 적어 필라멘트에 가해지는 부담이 줄어든 거예요. 과학자들은 앞으로 센테니얼 전구가 100년 정도 더 켜질 수 있다고 보고 있습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;전구 회사들이 전구 수명 제한&lt;/b&gt;&lt;br&gt;&lt;br&gt;그럼, 왜 요즘 나오는 전구들은 이렇게 튼튼한 탄소 필라멘트가 아닌 텅스텐 필라멘트로 만드는 걸까요? 이는 탄소의 녹는점이 텡스텐보다 휠씬 낮기 때문이랍니다. 탄소 필라멘트 전구는 1800도 정도가 되면 탄소가 점점 타면서 소모돼 유리구가 검게 변해요. 반면 텅스텐은 현존하는 금속 중 녹는점이 약 3422도로 가장 높아요. 텅스텐 필라멘트는 고온에서 타기에 탄소 필라멘트보다 더 밝게 빛을 낼 수 있어요. 녹는점이 높은 텅스텐 필라멘트의 등장으로 탄소 필라멘트는 점차 사라졌습니다. 센테니얼 전구도 원래보다 밝기를 낮게 설정해 필라멘트 소모 속도를 늦춰놓은 상태죠.&lt;br&gt;&lt;br&gt;센테니얼 전구는 전구 이상의 의미를 지닙니다. 단순히 수명 최장 전구를 넘어, 현대 소비 사회에 대한 비판을 상징하게 됐어요. 물건이 자주 고장 나야 다시 구매할 이유가 생기는데, 셸비 일렉트릭의 전구는 수명이 길어 오히려 회사의 성공을 막았거든요. 이로 인해 이 회사는 1914년 ‘제너럴 일렉트릭(GE)’에 흡수되며 문을 닫게 됐죠. 그러면서 센테니얼 전구의 기술도 역사 속에 묻혀버렸습니다.&lt;br&gt;&lt;br&gt;이후 1925년 제너럴 일렉트릭과 네덜란드 필립스, 독일 오스람 등 거대 기업들이 연합해 전구 수명을 1000시간으로 제한하는 데 합의했어요. 전구 수명 기준을 낮춰 소비자들이 전구를 자주 교체하도록 유도하는 것이었죠. 이후 수명이 긴 형광 전구와 LED 전구 등이 발명됐지만, 20세기 초 만들어진 센테니얼 전구는 지속성과 불멸성의 가치를 보여주는 대표적 존재로 자리잡았습니다.&lt;br&gt;&lt;br&gt;센테니얼 전구는 리버모어-플레젠턴 소방서, 로렌스 리버모어 국립연구소, 센테니얼 전구위원회 등에서 관리하고 있어요. 전구가 수명을 다하면 어떻게 할지 계획은 아직 없지만, 전 세계에 30여 곳 있는 ‘믿거나 말거나 박물관’에서 소장품으로 요청한 상태입니다. 불이 켜진 센테니얼 전구 모습은 누구나 볼 수 있도록 온라인(bulbcam.cityofpleasantonca.gov)을 통해 실시간으로 보여 주고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2800] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2026/02/03/EBC2CQWIGBCKTJW2R3BQUBDWXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/03/EBC2CQWIGBCKTJW2R3BQUBDWXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXVL3DKJ3NBQBMHOBSQCZSLBOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 장손(長孫)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/02/03/7M5OGKL3XZC2DGL727N3OX4A7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/02/03/7M5OGKL3XZC2DGL727N3OX4A7I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVAS3SK73NBL5DGC4OOTYBCCI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 휴가를 내다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/02/03/CB3JETPZNZGMHAUZWW3OIVD7MA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/02/03/CB3JETPZNZGMHAUZWW3OIVD7MA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OK5KQ2RT5RBIPLTEWZALY7JFSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 미끄러져 나가다, 활강하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/02/03/LBCT7KKLSFGM7AA5CNCUSSAFGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/02/03/LBCT7KKLSFGM7AA5CNCUSSAFGI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3R6HMW7ADFDKHCSDMLYZJKQMZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] Get out of here!</title>
-      <link>https://www.chosun.com/national/nie/english/2026/02/03/6MZ6RX4FBVEELIFZAD4P6QOW2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/02/03/6MZ6RX4FBVEELIFZAD4P6QOW2Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WQHOEEVTFE5JF3BEJ3DJIE4YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>면허 취소되자 사무장 병원 차린 의사...마약류 의약품 대리처방까지</title>
