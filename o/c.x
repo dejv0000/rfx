@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 서울고법 형사1·12부 ‘내란전담재판부’ 지정</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/05/4YJ22NIZAFEGDOPVCJ5UV3K2NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/4YJ22NIZAFEGDOPVCJ5UV3K2NY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Feb 2026 05:36:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBQWGFO7K5KAJNFU3SWB2OPTUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울고법은 내란전담재판부 구성원을 확정하는 3차 전체 판사회의를 개최했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사1부와 형사12부가 윤석열 전 대통령의 내란 사건을 도맡는 ‘내란전담재판부’로 지정됐다.&lt;br&gt;&lt;br&gt;서울고법은 5일 전체 판사회의를 열고 내란전담재판부 설치법(내란·외환·반란 범죄 등의 형사절차에 관한 특례법) 시행에 따라 무작위 추첨 방식으로 전담재판부를 지정했다며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;형사1부는 윤성식(사법연수원 24기) 부장판사와 민성철(29기), 이동현(36기) 판사로 구성됐다. 형사12부는 이승철(26기), 조진구(29기), 김민아(34기) 판사로 이뤄졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘인보사 사태’ 이웅열 코오롱 명예회장, 항소심도 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/05/3UXZE4QGVJBYNPVXW6HHODML4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/3UXZE4QGVJBYNPVXW6HHODML4A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Feb 2026 05:40:03 +0000</pubDate>
+      <content:encoded>골관절염 치료제 ‘인보사케이주(인보사)’의 성분을 조작해 정부 허가를 받아 판매한 혐의로 재판에 넘겨진 이웅열 코오롱 명예회장에게 법원이 1심에 이어 항소심에서도 무죄를 선고했다. 검찰이 2020년 7월 이 회장에게 7개 혐의를 적용해 기소한지 5년 7개월여 만이다. 이 회장과 함께 기소된 코오롱 임원들도 인보사 관련 혐의는 모두 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZWEOJSGUYTEYTDHA2DMMDCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웅열 코오롱그룹 명예회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남서 “가상화폐 직거래 하자”고 속여 현금 빼앗은 10대 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/05/ZZEWFWJ4EFC7TFYAC722SF7TOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/ZZEWFWJ4EFC7TFYAC722SF7TOY/</guid>
+      <dc:creator>윤성은 기자, 조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Feb 2026 05:38:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTSMJWGNTGKMLCMEYDANRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에서 가상 화폐 직거래를 빌미로 피해자를 유인해 현금을 빼앗고 도망친 10대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 4일 A군을 특수절도 혐의로 검거했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A군은 지난달 17일 오후 9시 28분쯤 강남구 논현동에서 가상 화폐를 직거래하자며 유인한 뒤 피해자가 가져온 현금 600만원을 들고 달아난 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 지난달 27일에도 강남구 청담동의 한 아파트 주차장에서 같은 방식으로 피해자를 속여 현금 약 2800만원을 가로챈 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이날 경찰은 공범인 10대 남성 B군과 C군을 우선 긴급 체포하고 도주한 A군을 추적해 4일 검거했다. &lt;br&gt;&lt;br&gt;경찰은 정확한 범행 경위를 조사한 뒤 A군을 상대로 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰이 엉뚱한 영상보고 ‘죄 없다’고 본 사건... 검찰이 오류 잡아 피의자 법정행</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/05/VJMW7IA4A5D43PPWAD4XTW5IDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/05/VJMW7IA4A5D43PPWAD4XTW5IDE/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Feb 2026 05:07:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCWM7IM66YOY5S7REFULVOCG6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰의 엉터리 수사로 처벌을 피할 뻔한 피의자가 검찰의 수사로 덜미가 잡혔다. &lt;br&gt;&lt;br&gt;청주지검 충주지청은 성폭력처벌법상 업무상 위력 등에 의한 추행 혐의로 60대 남성 A씨를 불구속 기소했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 초순 자신이 운영하는 충북의 한 편의점 안에서 근무복으로 갈아입던 여직원 B씨를 약 3초간 강제로 끌어안은 혐의를 받는다. 그는 같은 달 말 다이어트를 하고 있다는 B씨에게 “살 뺄 곳이 어디 있느냐”며 B씨의 신체를 만진 혐의도 받는다.&lt;br&gt;&lt;br&gt;애초 경찰은 범행 시점 기준으로 한 달가량 지난 방범 카메라 영상을 보고 B씨의 진술을 신뢰할 수 없다며 A씨에 대해 불송치 결정했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 경찰이 본 영상의 날짜가 범행 시점과 다르다는 점을 확인하고 경찰에 재수사를 요청했다. 결국 경찰의 재수사에서 A씨의 추행 사실이 드러났다.&lt;br&gt;&lt;br&gt;검찰은 또 직접 보완 수사를 통해 A씨가 B씨를 차량으로 귀가시켜 주면서 상습적으로 성적인 발언을 한 사실도 확인, 혐의를 더해 재판에 넘겼다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “성범죄를 당한 사회 초년생의 억울함을 풀어주고, 피해자 지원을 통해 회복적 사법 이념을 실천했다”며 “송치·불송치 기록을 충실히 검토해 범죄로부터 국민을 보호하도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 정치자금법 위반 혐의 명태균 1심서 무죄 </title>
+      <link>https://www.chosun.com/national/regional/2026/02/05/HLL25JRPHNC75JC6JQYQPPO33M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/05/HLL25JRPHNC75JC6JQYQPPO33M/</guid>
+      <dc:creator>창원=김준호 기자, 권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Feb 2026 05:18:33 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“베트남 처녀 수입” 논란 부른 김희수 진도군수, 공식 사과</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/05/T4JDCJKYSFHG5GDINR3M34I2ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/T4JDCJKYSFHG5GDINR3M34I2ZU/</guid>
+      <dc:creator>진도=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Feb 2026 05:15:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRGEMRUMY3TMNBTME4GKOJWGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;김희수 진도군수가 지난 4일 전남 해남문화예술관에서 열린 광주·전남 행정통합 '찾아가는 타운홀미팅'에서 발언하고 있다. /목포 MBC 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남 자치단체장들과 주민이 행정 통합을 논의하는 생중계 행사에서 “베트남 처녀를 수입해 농촌 총각들을 장가보내자”고 발언해 논란을 부른 김희수 진도군수가 공식 사과했다. 김 군수는 “특정 국가나 개인을 비하하려는 의도가 아니라 단어를 잘못 선택했다”고 해명했다.&lt;br&gt;&lt;br&gt;광주광역시와 전남도는 지난 4일 해남문화예술회관 다목적실에서 ‘광주·전남 행정 통합 서남권 타운홀 미팅’을 개최했다. 강기정 광주시장과 김영록 전남지사를 비롯해 전남 진도, 영암, 해남, 강진 등 군수와 주민 120여 명이 참석했다.&lt;br&gt;&lt;br&gt;행사는 광주시장과 전남도지사가 통합 필요성을 설명하고, 군수나 군의원 등이 자유롭게 질문하는 형태로 치러졌다. 참석자들의 발언은 모두 생중계로 방송됐다.&lt;br&gt;&lt;br&gt;김 군수는 이 자리에서 “전국 89개 인구 소멸 지역 중 20%가 전남에 있다”며 “광주·전남이 통합을 할 때 인구 소멸에 대한 것도 법제화하자. 스리랑카나 베트남 젊은 처녀들 수입도 해 농촌 총각 장가도 보내고, 이런 특별 대책을 마련해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;답변에 나선 강 시장은 “2004년 처음으로 저출생·고령사회기본법이 만들어져 수십 년간 돈은 돈대로 썼는데 잘 안 됐다”며 “여러 해법이 있을 수 있는데 아까 외국인, 결혼·수입 이건 잘못된 이야기”라고 했다.&lt;br&gt;&lt;br&gt;김 군수의 발언을 두고 특정 국가 여성을 ‘수입’ 대상으로 표현한 것은 부적절했다는 논란이 불거졌다.&lt;br&gt;&lt;br&gt;김 군수는 사과문을 통해 “해당 발언은 농어촌 지역의 인구 감소와 결혼·출산 기반 약화라는 구조적 문제를 지적하며 광주·전남 통합 지자체 및 국가 차원의 제도적 대응이 필요하다는 취지에서 나온 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “농어촌의 지속 가능성을 높이고자 외국 미혼 여성의 ‘유입’을 늘려야 한다고 발언하는 과정에서 수입이라는 단어를 잘못 선택해 부적절한 발언을 한 것”이라며 “특정 국가나 개인을 비하하려는 것은 아니었다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MVRGEMRUMY3TMNBTME4GKOJWGQ.png?auth=974d905ed3670236d5b3c6fb54eedf4341b9613c7335f79cde1d7a5fc19bec11&amp;smart=true&amp;width=600&amp;height=337" type="image/png" height="337" width="600">
+        <media:description type="plain">김희수 진도군수가 지난 4일 전남 해남문화예술관에서 열린 광주·전남 행정통합 '찾아가는 타운홀미팅'에서 발언하고 있다. /목포 MBC 유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>시속 110㎞ 고속도로 터널에 킥보드가...위험천만 주행 논란</title>
       <link>https://www.chosun.com/national/national_general/2026/02/05/4J35RLH5LRHP3K27UNWIIC4HCI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/4J35RLH5LRHP3K27UNWIIC4HCI/</guid>
@@ -838,15 +895,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WIMDBMI3GMOJTME3DMYZQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 전남 영광 아프리카돼지열병 방역 현장 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에서 올해 첫 아프리카돼지열병(ASF)이 발생했다. 국내 돼지 농가에 아프리카돼지열병이 처음 확인된 2019년 9월 이후 경남에서는 지금껏 이 병이 확인된 적이 없었다.&lt;br&gt;&lt;br&gt;4일 농림축산식품부와 경남도에 따르면 지난 3일 경남 창녕군 대합면의 한 돼지 농장에서 폐사가 잇따르고 있다는 신고가 접수됐다. 이후 당국이 정밀 검사를 실시한 결과, 아프리카돼지열병이 확진됐다. 이 농장에서는 돼지 2400마리를 키우고 있다. &lt;br&gt;&lt;br&gt;창녕에서의 아프리카돼지열병 발생은 올해 1월 강원 강릉을 시작으로 경기 안성·포천, 전남 영광, 전북 고창, 충남 보령에 이어 전국 일곱 번째다. &lt;br&gt;&lt;br&gt;그동안 경남은 아프리카돼지열병과 관련해서는 상대적으로 안전 지역으로 여겨졌지만, 이번에는 피하지 못했다. &lt;br&gt;&lt;br&gt;경남도와 아프리카돼지열병 중앙사고수습본부(중수본)는 발생 농가를 비롯한 500m 내 가축 돼지 3900마리를 긴급 살처분할 계획이다. 또 해당 농장에 초동방역팀·역학조사반을 파견해 외부인·가축·차량의 농장 출입을 통제하고 있다. &lt;br&gt;&lt;br&gt;또 아프리카돼지열병 발생 농장과 주변 도로를 집중 소독하고, 5일 새벽 2시 30분까지 24시간 동안 창녕군 및 인접 8개 시·군(경남 합천, 의령, 함안, 창원, 밀양, 경북 청도, 고령, 대구 달성군)의 돼지 농장과 도축장, 사료 공장 등 축산 관계 시설 종사자 및 차량에 대해 일시 이동 중지 명령도 발령했다.&lt;br&gt;&lt;br&gt;아프리카돼지열병은 한 번 발생하면 돼지와 멧돼지에 치명적인 영향을 미친다. 고열, 식욕 부진, 기립 불능, 구토, 출혈, 폐사 등의 증상이 나타나며 암퇘지는 유산 확률이 높아진다. 사람에게는 감염되지 않는다고 알려졌다. &lt;br&gt;&lt;br&gt;경남도는 중수본과 함께 아프리카돼지열병 발생 농가 주변 10㎞ 14개 농가에 대해서도 이동 제한 및 임상·정밀검사를 실시할 계획이다. 14개 농가에는 총 3만9100여 마리의 돼지를 사육하고 있다. &lt;br&gt;&lt;br&gt;경남도 관계자는 “아프리카돼지열병이 확산되지 않도록 농가에서는 농장 내부와 외부 소독, 축사 출입 때 장화 갈아신기 등 기본적인 방역 수칙을 지켜달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오산 고가도로 옹벽 붕괴 사망사고...시장 입건 이어 시청 또 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2026/02/04/TJYTZCT6QJGD7MAGJ3KLSO6BBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/04/TJYTZCT6QJGD7MAGJ3KLSO6BBM/</guid>
-      <dc:creator>오산=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Feb 2026 01:36:25 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 오산 고가도로 옹벽 붕괴 사망 사고와 관련해 경찰이 지난해 7월에 이어 다시 오산시청을 압수수색했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 광역수사단 형사기동대는 4일 오전 10시 10분부터 오산시청에 수사관 26명을 투입해 압수수색 영장을 집행했다. 경찰은 지난해 7월 16일 발생한 오산 고가도로 옹벽 붕괴 사망 사고와 관련해, 옹벽 설치·관리 전반과 사고 이후 대응 과정에서의 책임 소재를 확인하기 위해 관련 자료를 확보하고 있다.&lt;br&gt;&lt;br&gt;경찰은 앞서 지난해 7월 22일에도 오산시청을 상대로 한 차례 압수수색을 진행해 옹벽 안전 점검 자료와 내부 보고 문건 등을 확보했었다.&lt;br&gt;&lt;br&gt;경찰은 이 사건과 관련해 지난해 12월 오산시장을 중대시민재해 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>光州 출생아 7.7% 증가… 결혼도 6.2% 늘어</title>
       <link>https://www.chosun.com/national/national_general/2026/02/04/4VDHIRYC3NHQXOGC2A57VZ4P2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/04/4VDHIRYC3NHQXOGC2A57VZ4P2U/</guid>
@@ -882,24 +930,6 @@
       </media:content>
     </item>
     <item>
-      <title>상설특검, ‘퇴직금 미지급’ 쿠팡 전현직 대표 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/04/LKA6TYSO5RC5VJWUQPVLXBGUIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/LKA6TYSO5RC5VJWUQPVLXBGUIU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>‘쿠팡 퇴직금 수사 외압’ 의혹을 수사하는 안권섭 상설특검팀이 3일 쿠팡풀필먼트서비스(CFS) 엄성환 전 대표이사와 정종철 대표이사, 쿠팡CFS 법인을 근로자퇴직급여보장법 위반 혐의로 기소했다. 지난해 12월 6일 출범한 지 약 두 달 만의 첫 기소다. 쿠팡CFS는 쿠팡 물류센터를 총괄하며 근로자 등을 관리하는 계열사다.&lt;br&gt;&lt;br&gt;이번 특검은 인천지검 부천지청 지휘부가 쿠팡CFS의 ‘퇴직금 미지급 사건’을 무혐의 처분하도록 외압을 행사했다는 의혹을 밝히기 위해 출범했다. 퇴직금 미지급 사건은 쿠팡CFS가 2023년 5월 일용직 근로자들에게 불리하게 취업 규칙을 변경해 퇴직금을 체불했다는 내용이다.&lt;br&gt;&lt;br&gt;이 사건을 수사한 인천지검 부천지청은 지난해 4월 쿠팡CFS에 혐의가 없다고 보고 불기소 처분했다. 그런데 같은 해 10월 당시 사건을 담당했던 문지석 부장검사가 국회 국정감사에서 “쿠팡 사건을 무혐의 처분하라는 엄희준 당시 부천지청장과 김동희 차장검사 등 상부의 압력이 있었다”고 폭로하면서 특검 수사로 이어졌다.&lt;br&gt;&lt;br&gt;특검은 두 달간 수사 끝에 쿠팡CFS가 취업규칙을 변경해 퇴직금을 지급하지 않은 행위에 혐의점이 있다고 보고 이날 관련자들을 기소했다. 쿠팡CFS에 혐의가 없다고 본 부천지청의 판단을 뒤집은 것이다.&lt;br&gt;&lt;br&gt;특검은 이날 “부천지청의 혐의 없음 의견과 달리, 쿠팡CFS 관계자들의 혐의를 입증할 다수의 증거를 확보했다”며 “쿠팡CFS가 일용직 근로자 40명에게 1억2000여 만원 상당의 퇴직금을 지급하지 않았고, 취업 규칙을 변경하는 과정에서의 절차적 하자도 확인했다”고 했다.&lt;br&gt;&lt;br&gt;법조계에서는 “특검이 쿠팡 관계자들을 먼저 기소한 것은 앞서 검찰의 판단이 잘못됐다고 본 것이며, 사건을 무혐의 처분한 부천지청 지휘부의 사건 처리 과정에 문제가 있다고 판단한 것”이라는 해석이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[서초동 25시] 사법부에 AI 심의관 만들고, 판사는 AI 도우미 쓰고</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/04/7HXP3P5JRZB35MRBXCSJFXF2KE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/04/7HXP3P5JRZB35MRBXCSJFXF2KE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>사법부에도 인공지능(AI) 열풍이 불고 있다. 법원은 최근 AI 전문가를 주요 보직에 배치하고 AI 관련 위원회를 출범시키는 등 법원 내 AI 도입에 열중하고 있다. 재판은 물론 행정 업무에 AI 도입을 위한 논의가 진행 중이다.&lt;br&gt;&lt;br&gt;3일 서울 서초구 대법원에선 ‘등기 제도의 AI 대전환’이라는 주제의 학술 대회가 열렸다. 주제 발표에 나선 임영익 인텔리콘연구소 대표는 “등기 서비스 사용시 법률 용어를 쉬운 언어로 변환해 제공하는 ‘열람도우미 GPT’를 탑재해야 한다”고 했다. 임서경 법원행정처 사법정책심의관실 서기관은 “디지털 취약 계층에 대한 AI 리터러시(문해력) 교육이 필요하다”며 “인터넷등기소 모의 프로그램을 통해 장애인, 고령자 등을 대상으로 실습형 교육을 해야 한다”고 제안했다.&lt;br&gt;&lt;br&gt;지난달 30일 단행된 고위 법관 인사에서도 AI 도입이 화두였다. 기우종(사법연수원 26기) 서울고법 인천재판부 판사가 법원행정처 차장으로 파격 임명된 것을 두고 “AI 전문가를 발탁한 것 아니냐”는 말이 나왔다. 그동안 고법 부장판사가 임명돼 온 행정처 차장 자리에 고법 판사가 임명된 건 처음인 데다 그가 법원 내 ‘법원 인공지능연구회’ 회장을 맡고 있는 게 발탁의 배경이라는 해석이 나온 것이다. &lt;br&gt;&lt;br&gt;2023년 10월 법원 내 커뮤니티에서 시작된 인공지능연구회는 판사들이 AI를 이용한 재판 업무 효율화를 논의하는 모임이다. 이 연구회 회원인 한 판사는 “연구회 소속 판사들이 활발히 AI 공부를 하고 있다”며 “해외 법원이 어떻게 AI를 이용하는지 등을 판사들이 사례를 찾아 발표하며 토의한다”고 했다. 기 차장은 사법부의 전산화 실무를 담당하는 법원행정처 정보화심의관을 지냈다. &lt;br&gt;&lt;br&gt;대법원 법원행정처는 지난달 사법부 AI 정책을 전담할 사법인공지능심의관 보직을 신설했다. 사법인공지능심의관은 사법정보화실 소속으로, 사법부 내 AI 기술 관련 업무를 담당한다. 재판과 사법 행정 제도 개선 사항에 AI 시스템을 개발하고 반영하는 업무도 맡는다. 조희대 대법원장은 올해 시무식에서 “AI 기반 재판 지원 모델 개발을 통해 업무 효율성을 높여야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;앞서 작년 4월에는 법원행정처장 자문 기구로 사법부 인공지능위원회(위원장 이숙연 대법관)가 출범했다. 인공지능위원회는 작년 12월 ‘인간 중심 AI를 통한 사법정의 구현’을 목표로 2030년까지 단계별 사법부 AI 로드맵을 발표했고, 올해까지 사법부 내 AI 기반을 구축하는 것을 목표로 하고 있다. 위원장을 맡고 있는 이 대법관은 인공지능연구회 초대 회장을 지냈다.&lt;br&gt;&lt;br&gt;이르면 올 상반기 법원에는 판사들이 쓸 AI 검색 시스템이 도입된다. 법원행정처 사법정보화실은 판사들이 배당된 사건과 비슷한 유형의 판결문을 찾아주는 ‘지능형 검색 시스템’을 개발 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>금연구역서 액상형 전자담배도 못 핀다</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/02/04/2V4XRZWYLJHPHAB4QGF4KN2ATA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/04/2V4XRZWYLJHPHAB4QGF4KN2ATA/</guid>
@@ -907,25 +937,6 @@
       <description/>
       <pubDate>Tue, 03 Feb 2026 15:53:00 +0000</pubDate>
       <content:encoded>오는 4월 24일부터 금연 구역에서 합성 니코틴을 사용하는 액상형 전자담배도 일반 담배나 궐련형 전자담배처럼 피울 수 없게 된다. 어기면 10만원 이하의 과태료가 부과된다. 또 액상형 전자담배에도 일반 담배나 궐련형 전자담배처럼 ‘건강 경고’ 그림과 문구가 들어간다. 그동안 액상형 전자담배는 현행법상 ‘담배’로 분류되지 않아 각종 담배 제품 규제에서 벗어나 있었다. 작년 말 관련 법 개정으로 규제 대상에 포함됐다. &lt;br&gt;&lt;br&gt;3일 보건복지부에 따르면, 작년 12월 초 국회를 통과한 ‘담배사업법’ 개정안이 오는 4월 24일부터 본격 시행된다. 담배의 정의를 ‘연초(煙草) 잎을 원료로 한 것’에서 ‘연초나 니코틴을 원료로 한 것’으로 확대한 게 골자다. 이에 따라 합성 니코틴을 사용하는 액상형 전자담배도 이제 ‘담배’ 분류로 돼 다른 종류의 담배 제품과 마찬가지로 규제를 받게 됐다. &lt;br&gt;&lt;br&gt;일반 담배처럼 온라인 쇼핑몰이나 소셜미디어(SNS)를 통한 판매도 불가능해진다. 관련 광고는 정기 간행물이나 소매점 내부·국제선 여객기 등에서만 제한적으로 허용된다. &lt;br&gt;&lt;br&gt;액상형 전자담배 무인 자판기에 대한 규제도 강화된다. 자판기에는 성인 인증 장치를 의무적으로 갖춰야 한다. 19세 미만 출입 금지 장소와 소매점 내부, 흡연실 외 다른 장소에는 무인 자판기를 설치할 수 없다. 그동안 액상형 전자담배는 온·오프라인에서 무분별하게 판매돼 청소년들을 흡연에 노출시킨다는 지적을 받아 왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>韓 AI 연구… 논문수는 세계 6위, 인용은 26위</title>
-      <link>https://www.chosun.com/national/education/2026/02/04/5MV4T77JYZG35CZJOERWZRYVVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/04/5MV4T77JYZG35CZJOERWZRYVVM/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>한국이 ‘인공지능(AI)’ 분야에서 논문 출판 규모는 세계 상위권에 근접했지만 논문당 피인용 수 등 연구의 질(質)을 나타내는 지표 실적은 아직 뒤처지는 것으로 나타났다. 과학계에선 “연구 질을 획기적으로 끌어올리지 못한다면 정부가 목표로 하는 ‘AI 3대 강국’ 진입 달성은 쉽지 않을 것”이라는 지적이 나온다. &lt;br&gt;&lt;br&gt;본지가 세계적 학술 출판사인 엘스비어에 의뢰해 최근 5년간(2020~2024년) 세계 최대 색인·인용 데이터베이스인 스코퍼스(Scopus)에 등재된 전 세계 연구 논문을 분석한 결과, 한국은 AI 관련 논문이 총 5만8913건으로 세계 6위를 기록했다. 1~3위인 중국(68만4914건), 미국(28만9794건)·인도(22만2981건)와 비교하면 아직 차이가 크지만, 상위권에 근접했다. 4위는 영국(9만56건), 5위는 독일(7만7423건)이었다. 그동안 한국은 AI 분야 투자나 인재 규모에서 세계 10위 정도로 평가받았는데, 연구의 양적 지표에서는 비슷한 성과를 거둔 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHU66VGBSJGQFNAQ7JBHXS7JI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 연구의 질적 측면에선 순위가 낮았다. ‘논문 수’ 상위 50국을 ‘논문당 피인용 수’로 순위를 매겼을 때 한국은 22위(평균 18.3회)에 그쳤다. 1위 싱가포르(28.5회), 2위 홍콩(27.8회), 3위 호주(27.4회), 4위 스위스(24회) 등과 비교하면 차이가 크다. &lt;br&gt;&lt;br&gt;‘논문 피인용 영향력 지수’(FWCI) 기준으로는 50국 중 26위였다. FWCI(Field-Weighted Citation Impact)는 논문이 같은 학문 분야, 같은 기간에 출판된 다른 논문과 비교해 얼마나 많이 인용됐는지를 나타낸 지표다. 보통 의학이나 공대 등 응용 분야는 논문 수도 많고 인용 횟수도 많지만, 기초 학문이나 인문학은 논문 수 자체가 적어 인용도 적기 때문에 일률적 비교가 어려웠다. FWCI는 이런 차이를 보정한 것으로 최근 논문의 영향력 지표로 많이 쓰인다. FWCI가 1보다 크면 해당 분야에서 세계 평균보다 많이 인용된 것이다. 한국은 AI 분야 논문의 FWCI가 1.6으로 세계 평균보다는 높았지만, 1위 홍콩(2.81), 2위 싱가포르(2.69), 3위 호주(2.36), 6위 미국(2.17) 등에는 크게 뒤처졌다. &lt;br&gt;&lt;br&gt;이런 결과에 대해 전문가들은 연구의 양을 위주로 보는 평가 시스템과 국제 협력이 부족한 영향이 크다고 지적한다. 국내 대학들은 교수 업적 평가 때 논문 발표 건수에 가장 큰 비중을 둔다. 논문 피인용 지수 등 연구의 질이 높으면 가중치를 주는 경우도 있지만 전체 평가에서 비중은 적은 편이다. &lt;br&gt;&lt;br&gt;반면 홍콩, 싱가포르 대학에서는 논문 수뿐 아니라 피인용 수, 국제 협력 비율, 특허 출원 규모 등 다양한 지표를 고르게 평가한다. 조남준 싱가포르 난양공대 교수는 “기술 사업화 여부도 교수 평가에 비중 있게 들어가기 때문에 싱가포르 대학 교수들은 논문을 상대적으로 적게 쓰더라도 영향력 있는 연구에 집중한다”고 말했다. &lt;br&gt;&lt;br&gt;해외 연구자와 함께한 논문 비율을 보는 ‘국제 연구 협력’ 지표에서 한국(33%)은 50국 중 43번째에 그쳤다. 반면 FWCI 지표 1위인 홍콩은 국제 연구 협력 지표(82.4%)에서도 1위를 기록했다. 2위는 사우디아라비아(77.1%)였다. 엘스비어 장현주 이사는 “다양한 데이터 확보가 관건인 AI 분야에선 3~4국 이상 대학·기업과 공동 연구 프로젝트를 하는 경우가 많다”면서 “해외 연구자와 함께 논문을 쓰면 해외에서도 인용될 가능성이 높아지고 추가 공동 연구 기회도 많아지는데 우리나라는 아직 그 부분이 매우 부족한 상황”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>평년보다 따뜻한 입춘, 오늘 낮 최고 12도</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/04/QQ6Y5I63ONGCFCOVFOB6M2HQ5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/04/QQ6Y5I63ONGCFCOVFOB6M2HQ5M/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>절기상 봄에 접어든다는 입춘(立春)인 4일 낮 기온이 최고 12도까지 오르며 전국 대부분 지역이 영상권에 머물겠다. 하지만 6일부터 북쪽에서 내려오는 찬 공기의 영향으로 다시 추워질 전망이다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 4일은 전국적으로 전날보다 기온이 뚜렷하게 오르겠다. 아침 최저기온은 영하 8도에서 영상 2도, 낮 최고기온은 4도에서 12도로, 평년(아침 영하 12도~0도, 낮 2~9도)보다 따뜻한 날씨가 나타나겠다. 미세먼지는 전 권역에서 ‘보통’으로 예상된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWG7VL3D7FF2XCHH2OY6GVAK7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴시스
-봄 알리는 홍매화  입춘을 하루 앞둔 3일, 경남 남해군에서 홍매화가 꽃망울을 터뜨렸다. 홍매화는 다른 꽃보다 일찍 펴 ‘봄의 전령’으로 불린다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일에도 평년보다 높은 기온이 이어질 전망이다. 5일 아침 최저기온은 영하 4도에서 영상 5도, 낮 최고기온은 영상 5도에서 15도까지 오르겠다. 낮 동안 기온이 오르면서 하천이나 호수의 얼음이 녹아 깨질 우려가 있는 만큼 안전사고에 유의해야 한다. 내륙 지역 곳곳에 쌓여 있는 눈이 낮 동안 녹았다가 밤사이 다시 얼 수 있기 때문에 빙판길과 도로 살얼음도 조심해야 한다. 특히 교량과 고가도로, 터널 입·출구를 중심으로 미끄럼 사고 위험이 크다. &lt;br&gt;&lt;br&gt;대기는 강원 동해안과 산지, 경상권을 중심으로 매우 건조한 상태가 이어질 전망이다. 여기에 동해안을 따라 순간풍속 시속 55㎞ 안팎의 강한 바람이 불 것으로 보인다. 건조한 날씨와 강풍이 겹쳐 작은 불씨가 큰불로 번질 수 있으니 화재 위험에 대비해야 한다.&lt;br&gt;&lt;br&gt;하지만 6일에는 아침 최저기온이 영하 13도에서 영상 2도, 낮 최고기온은 영하 4도에서 영상 8도로, 5일보다 기온이 5~10도 정도 큰 폭으로 떨어질 것으로 보인다. 6일 저녁부터 7일 새벽 사이엔 제주도에 비 또는 눈이, 7일 오후부턴 전라 서해안과 제주도에 눈이 내리는 곳도 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘가성비의 추억’ 학생 식당이 사라진다</title>
@@ -939,15 +950,6 @@
         <media:description type="plain">1월 26일 오전 서울 마포구 서강대 엠마오관. 한 학생이 폐업한 학생 식당 앞을 지나고 있다./정동하 기자</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>낮엔 목수, 밤엔 작곡가… “나사도 음표도 버릴 게 없다”</title>
-      <link>https://www.chosun.com/national/people/2026/02/04/ZKROQR3ILJDIHKRCTZFBVKTKAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/04/ZKROQR3ILJDIHKRCTZFBVKTKAA/</guid>
-      <dc:creator>김휘원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Feb 2026 15:52:00 +0000</pubDate>
-      <content:encoded>“작곡가와 목수의 일이 다르지 않아요. 음표 하나, 나사 하나도 다 쓸모가 있고 머릿속 상상을 작품으로 만들면 세상 부러울 게 없어요.”&lt;br&gt;&lt;br&gt;‘엄마야 누나야’ 등 한국의 정서가 녹아든 음악을 만드는 클래식 작곡가 이영조(83) 전 한국예술종합학교 음악원장은 목수 혹은 철물점 주인에 가까운 모습이었다. 지난 1일 경기도 용인의 자택에서 만난 그는 따스한 피아노 방 대신 찬바람이 들어오는 뒤뜰 작업실에서 군데군데 구멍 뚫린 앞치마 차림으로 서 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FNSNR7PN5DWTGS2TJURYSJ62I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;독일 도르트문트 오페라극장에서 의뢰한 오페라 ‘춘향’을 준비 중인 이영조 전 한국예술종합학교 음악원장은 작곡으로 머리가 복잡해질 때마다 이 작업실을 찾아 육체노동을 한다. 손에 든 악보는 그가 작곡한 오페라 ‘황진이’의 아리아 ‘청산리 벽계수야’.  /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작곡이 업이라면 나무와 쇠를 다루는 일은 그의 오랜 취미다. 20대에 자동차 정비사 자격증을 따며 공구와 친해졌고, 독일과 미국을 거쳐 귀국한 뒤에도 쭉 전원 생활을 하며 전기톱과 용접기를 써서 웬만한 것은 스스로 만들어왔다. 칠 벗겨진 프라이팬으로 만든 해시계, 뚝배기로 만든 풍경(風磬), 술병으로 만든 식물 조명 등 정원 곳곳을 장식한 작품이 이곳에서 탄생했다.&lt;br&gt;&lt;br&gt;올해 자신의 6번째 오페라 작품이 될 ‘춘향’의 곡 작업에 들어간다. 내년 상반기까지 약 1년 2개월간 작곡을 마친 뒤, 2029년 독일에서 초연하는 대장정이다. 그는 “한국을 대표하는 오페라 ‘춘향’을 만드는 게 목표”라고 했다.&lt;br&gt;&lt;br&gt;독일 도르트문트 오페라 극장이 지난해 “중국 배경의 ‘투란도트’, 일본 배경의 ‘나비부인’과 어깨를 나란히 할 한국의 사랑 이야기로 ‘춘향’을 유럽에 소개하고 싶다”고 제안했는데 뜻이 맞았다. 1950년 초연한 ‘춘향전’은 최초의 한국어 오페라라는 상징성이 있지만 국제 무대에서의 존재감은 약했다. 그는 “클래식의 임윤찬부터 팝의 BTS 등 우리 예술가들이 세계를 휩쓸고 있는 지금이야말로 K오페라를 대표하는 작품이 나올 시점”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65OBUPAJE5FBJGJ23TM3DGEPKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신감의 근거는 한국 설화를 서양 오케스트라로 연주한 창작 오페라 ‘처용’(1987년 초연)을 해외 무대에 올려 본 경험이다. 이 전 원장은 “2024년 프랑스 파리 오페라 코미크 극장에서 ‘처용’을 들려주면서 한국에 대한 달라진 관심을 느꼈다”며 “이제 춘향전의 ‘쑥대머리’가 무슨 뜻인지 모르는 유럽인들도 한국 음악이 궁금해서 제 발로 극장을 찾는 시대”라고 했다.&lt;br&gt;&lt;br&gt;고된 작업인 만큼 체력 부담이 없지 않다. 오페라는 인물이 노래하는 장면 외에도 이야기에 반주를 깔아주는 ‘레치타티보 아콤파냐토’ 등 30~40개의 크고 작은 곡이 필요하다. 1년을 작업한다면 매일 최소 6시간 이상 고강도 집중을 요구한다. 하지만 그는 “어머님이 90대까지 장수하셨으니 나도 오래 살지 않겠나. 배고프면 먹고, 졸리면 자고 남는 시간에 작업하는 게 내 건강 관리”라며 웃었다. 악상이 잘 떠오르는 밤에 주로 작업한다.&lt;br&gt;&lt;br&gt;그러다 지치면 다시 전기톱과 드라이버를 찾는다. 귀를 때리는 모터 소리에 몰두하면 머릿속에 24시간 떠오르는 악상이 잠시 멈춘다. 낮에 이런 육체노동을 하고 나면 머리가 말끔하게 비워져 밤에는 작곡에 더 몰입할 수 있다. “작곡은 아기를 낳는 일과 비슷해요. 산통이 시작되면 완성될 때까지 작업을 멈출 수가 없어요.” &lt;br&gt;&lt;br&gt;그의 오랜 뚝심은 클래식이라는 서양 그릇 안에 한국인의 정서를 담는 것이었다. 해외에서 ‘왜 한국인이 한국 음악을 하지 않느냐’는 질문에 평생 음악으로 답해 왔다고 했다. “3월에 컴백 앨범으로 ‘아리랑’을 내는 BTS에게 이 말을 전하고 싶습니다. 결국 우리 음악은 국악이에요. 흔히 아는 아리랑 말고 ‘정선 아리랑 엮음’처럼 해학이 녹아 있는 음악을 들어보고 세계에 널리 알려주기 바랍니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEJ3K76RSVARRGFMIDLUZXJNAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;클래식 작곡가 이영조 선생이 1일 오후 경기 용인시 자택에서 직접 만든 풍경(風磬) 작품들 앞에 앉아 있다.  /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전원주 “곱게 늙고 싶어”... 500만원 들여 시술 받았다</title>
