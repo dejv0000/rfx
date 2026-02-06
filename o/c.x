@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의대 증원 10일 최종 결정...580명 안팎 유력</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/06/GOZTPUU2TBGALNYRMRPRVUDAEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/06/GOZTPUU2TBGALNYRMRPRVUDAEU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 10:04:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2NTE6SRRBOF5IK7BUIOKEZK6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정은경 보건복지부 장관(사진 오른쪽)이 6일 오후 서울 서초구 건강보험심사평가원 전문가자문회의장에서 열린 제6차 보건의료정책 심의위원회에서 모두 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 오는 10일 열릴 보건의료정책심의위원회(보정심)에서 2027학년도~2031학년도 5년간의 의대 정원을 확정·발표하기로 했다.&lt;br&gt;&lt;br&gt;보건복지부는 “보정심에서 다음 주 추가 논의를 거쳐 의사 인력 증원 규모를 최종 결정할 예정”이라고 6일 밝혔다. &lt;br&gt;&lt;br&gt;당장 올해 입시가 치러지는 2027학년도부터 현재의 모집 인원(3058명)보다 580명 안팎의 인원이 늘어날 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;복지부에 따르면, 보정심은 이날 서울 서초구 건강보험심사평가원 전문가 자문회의장에서 6차 회의를 열고 의사 인력 부족 규모를 6개 모형에서 3개 모형으로 줄이는 안을 논의했다. &lt;br&gt;&lt;br&gt;보정심은 당초 지난달 20일 4차 회의에서 의사 인력 규모를 6개 모형으로 산출하기로 합의한 바 있다. 이에 따라 2037년 부족한 의사 수를 ‘최소 2530명~최대 4800명’으로 내다보기로 했었다.&lt;br&gt;&lt;br&gt;이후 지난달 27일 5차 회의부터 6개 모형을 3개 모형으로 줄이는 안을 논의했다. 6개 모형을 3개 모형으로 줄이게 되면 2037년 부족한 의사 수는 ‘최소 4262명~최대 4800명’이 된다. 최소치가 2530명에서 4262명으로 1732명 올라가는 것이다.&lt;br&gt;&lt;br&gt;하지만 의사 부족 예측치가 크게 올라가게 되면서, 대한의사협회(의협)가 강하게 반발했다. 결국 5~6차 회의 모두 위원 전원의 합의에는 이르지 못했다. 복지부 관계자는 “의협을 제외한 다른 위원들은 모두 3개 모형으로 줄이는 데 동의했다”고 했다.&lt;br&gt;&lt;br&gt;하지만 보정심은 급격한 의대 정원 변동이 교육 현장에 부담이 되지 않도록 증원 상한선을 설정하는 데는 합의했다. 복지부는 앞서 지난 5차 보정심에서 위원들에게 2027학년도 대입에서 의대 모집 인원을 579~585명 증원하는 방안을 제시한 바 있다. 의대 정원을 급격하게 늘리면 교육 여건에 문제가 생길 수 있다고 보고, 각 대학별로 증원 상한선을 정해 실제로 늘릴 수 있는 인원을 계산한 것이다. &lt;br&gt;&lt;br&gt;이날 보정심이 증원 상한선을 설정하는 데 합의하면서 의대 증원 규모가 580명 안팎으로 결정될 것이란 전망이 나온다. 다만, 공공의대와 신설될 지역 의대 정원이 각각 100명씩 추가되는 점을 고려하면 2030학년도~2031학년도에는 증원 규모가 779~785명으로 올라갈 것으로 보인다.&lt;br&gt;&lt;br&gt;복지부 관계자는 “의대 증원 규모와 관련해 현재까지 확정된 것은 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차량 적재 화물선 제주항 앞바다서 화재</title>
+      <link>https://www.chosun.com/national/regional/2026/02/06/NFONNNT3HFDFHCGJ3JFUDWPTBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/06/NFONNNT3HFDFHCGJ3JFUDWPTBA/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 09:39:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6PVCDQIYZDZHAEDZS4T7R6URI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 5시34분쯤 제주항 북쪽 약 17km 해상에서 화물선(9952t) 내 차량에 불이 났다./제주지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주를 출발해 목포로 향하던 화물선에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;6일 제주해양경찰서에 따르면, 이날 오후 5시 34분쯤 제주항 북쪽 약 17km 해상에서 화물선 A(9952t)호 내 차량에 불이 났다. 화재가 발생한 직후 화물선 선원들이 자체 진화를 나서고 있고, 화물선은 뱃머리를 돌려 제주항으로 돌아왔다. &lt;br&gt;&lt;br&gt;이번 화재로 선박내 5t 화물차 등 차량 3대가 불에 탄 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 화물선에는 차량 127대(화물차 86대, 승용차 41대)가 적재돼 있고, 승선원은 모두 28명인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 함정 4척과 헬기 1대, 특공대를 동원해 화재 진압에 나서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지귀연 부장판사, 尹 내란 재판 1심 선고 후 북부지법행</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/PZ4FPYOZTFHNNOF2OX44EHWWCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/PZ4FPYOZTFHNNOF2OX44EHWWCY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 09:10:59 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령의 내란 우두머리 사건 1심 재판장인 지귀연 서울중앙지법 부장판사가 법관 정기 인사에 따라 서울북부지법으로 이동한다. 다만 1심 선고일이 법관 이동일(2월 23일) 이전인 19일로 예정돼 있어, 지 부장판사가 직접 선고한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYDGZJVGRSGEZRRGEYTSNRVMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 서울중앙지법 부장판사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 6일 지방법원 부장판사 이하 법관 정기 인사를 발표했다. 김건희 여사의 ‘도이치모터스 주가 조작’ 사건 1심에서 징역 1년 8개월을 선고한 우인성 부장판사는 중앙지법에 남는다. 지난달 한덕수 전 국무총리의 내란 중요 임무 종사 혐의에 징역 23년을 선고한 이진관 부장판사, 윤 전 대통령의 체포 방해 등 혐의에 징역 5년을 선고한 백대현 부장판사도 중앙지법에 잔류한다.&lt;br&gt;&lt;br&gt;이번 인사 전체 규모는 1003명으로, 지방법원 부장판사 561명과 지방법원 판사 442명이다. 새로 보임된 지방법원 부장판사는 총 132명이다. 그중 여성 법관은 60명으로 45.5%를 차지한다. 신규 보임된 지원장 22명 중에서는 여성 법관이 5명(22.7%)이다.&lt;br&gt;&lt;br&gt;대법원은 사법부 예산·시설 관리와 법령 검토 등 업무 역량을 강화하고, 판결문 공개와 재판 중계, 재판 지원 인공지능(AI) 도입 등 주요 사법 과제를 원활하게 추진하기 위해 법원행정처 기획조정실에 기획조정심의관 1명을 증원했다고 밝혔다. 사법인공지능심의관과 사법연수원 교수도 각각 1명씩 늘렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘민주당 돈봉투’ 송영길 前 보좌관 항소심에 상고</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/5SDOVUUAMJAMDGHWLNDEMJSYF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/5SDOVUUAMJAMDGHWLNDEMJSYF4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 08:53:59 +0000</pubDate>
+      <content:encoded>검찰이 ‘더불어민주당 전당대회 돈봉투 살포 의혹’ 등을 받는 송영길 전 민주당 대표의 보좌관 출신 박용수씨의 항소심에 불복해 6일 상고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4TONLCMM4TKZRYMIZDGZLBMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전당대회 '돈봉투' 의혹의 핵심 피의자로 지목된 송영길 전 대표의 전직 보좌관 박용수씨가 2023년 7월 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울고검은 “박용수씨의 정당법·정치자금법 위반 등 사건 항소심 판결에 대한 상고장을 제출했다”며 “최근 디지털 증거의 확보 절차 적법성과 관련해 재판부에 따라 판단이 엇갈리고 있는 바, 통일적 기준이 필요하다는 점을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난달 30일 서울고법 형사7부(재판장 이재권)는 박씨에 대한 선고 공판을 열고 검사의 항소를 기각했다. 이에 따라 징역 1년 2개월과 추징금 9240만원을 선고한 1심 판결이 유지됐다.&lt;br&gt;&lt;br&gt;박씨는 2021년 4월 송 전 대표의 당대표 당선을 목적으로 이정근 전 민주당 사무부총장 등 경선 캠프 관계자들과 공모해 6750만원을 건넨 혐의 등으로 2023년 7월 기소됐다. 박씨는 또 2020년 5~10월 컨설팅 업체 ‘얌전한 고양이’에 송 전 대표 관련 여론조사를 의뢰하면서 비용 9240만원을 송 전 대표의 외곽 조직인 ‘평화와 먹고사는 문제연구소(먹사연)’가 대신 내도록 한 혐의도 있다.&lt;br&gt;&lt;br&gt;1·2심 재판부는 박씨의 여론조사 비용 대납 혐의에 대해선 유죄로 인정했다. 그러나 주요 혐의인 돈봉투와 관련해선 무죄 판단이 나왔다. 검찰 측이 핵심 증거로 제시한 이정근씨의 휴대전화 녹음 파일이 위법하게 수집된 증거라고 봤기 때문이다. 이씨는 2022년 10월 별도의 비리 사건으로 검찰 수사를 받는 과정에서 자신의 휴대전화를 임의로 제출한 바 있다. 이에 대해 항소심 재판부는 “검사가 전자 정보 제출 범위를 명확히 확인하지 않고 전체를 압수한 것은 위법하다”며 증거능력을 인정하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원 “‘한동훈 녹취록 오보’ 신성식 前검사장 해임은 정당”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/06/NBJOTY3VPFBQ3DHW2IDAA3UNHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/NBJOTY3VPFBQ3DHW2IDAA3UNHA/</guid>
@@ -881,42 +917,6 @@
 강원 원주경찰서는 살인미수 혐의로 A(16)군을 붙잡아 조사 중이라고 5일 밝혔다.</description>
       <pubDate>Thu, 05 Feb 2026 06:29:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무시했다는 이유로 세 모녀를 살해하려 한 10대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 원주경찰서는 살인미수 혐의로 A(16)군을 붙잡아 조사 중이라고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 이날 오전 9시 12분쯤 강원 원주시 단구동 한 아파트에서 40대 B씨와 10대 딸 C·D양을 미리 준비한 흉기로 살해하려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 목 부위를, C·D양은 팔과 어깨 등을 다쳐 병원에서 치료를 받고 있다. 다행히 모두 생명엔 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A군은 범행 직후 달아났으나, 이웃의 신고를 받고 출동한 경찰에 의해 아파트 화단에 숨어 있던 중 붙잡혔다.&lt;br&gt;&lt;br&gt;A군은 경찰 조사에서 “같은 중학교에 다니던 동창 C양이 창피를 주고 무시했다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A군을 상대로 정확한 범행 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명 두 아들 군 면제” 페북 글 올린 이수정, 1심서 벌금 300만원</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/05/IJH3QL423VDCBDAWS42A6C4XKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/IJH3QL423VDCBDAWS42A6C4XKM/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 06:06:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4GEZDFMMZGEYTEMNQTEYZRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이수정 국민의힘 수원정 당협위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선을 앞두고 자신의 소셜미디어에 ‘이재명 대통령(당시 더불어민주당 대선 후보)의 두 아들이 군 면제를 받았다’는 허위 글을 게시한 혐의를 받는 이수정 국민의힘 수원정 당협위원장(경기대 교수)에게 5일 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사13부(재판장 장석준)는 이날 이 위원장의 공직선거법(허위사실공표) 및 정보통신망법(명예훼손) 위반 혐의에 대해 “미필적 고의가 인정된다”며 모두 유죄로 판단하고, 벌금 300만원을 선고했다. 앞서 검찰은 벌금 500만원을 구형했다. 선거법 위반 사건에서 벌금 100만원 이상의 형이 선고돼 확정되면, 5년간 피선거권을 박탈당해 국회의원 등 선출직에 출마할 수 없게 된다.&lt;br&gt;&lt;br&gt;이 위원장은 21대 대선을 앞둔 작년 5월 28일 자신의 페이스북 계정에 “이 후보와 두 아들이 모두 군대 면제를 받았다”는 글을 게시해 허위사실을 공표하고, 이 대통령과 그의 자녀들의 명예를 훼손한 혐의를 받는다. 해당 글 내용과 달리 이 대통령의 두 아들은 모두 병역의무를 이행했다. &lt;br&gt;&lt;br&gt;당시 이 위원장은 이 글을 올린 후 곧바로 삭제하고, “온라인에 떠도는 정보를 공유했다가 잘못된 정보임을 확인하고 즉시 삭제했다. 용서해 달라”고 사과문을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 위원장 측은 재판 과정에서 사실관계는 모두 인정하면서도, “가짜 뉴스에 속아 착각해서 글을 올린 것이고, 곧바로 삭제했으며 허위 사실을 공표할 고의는 없었다”고 했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인이 게시한 글이 진실인지 확인할 시간이 있었음에도 그런 노력 없이 곧바로 글을 올렸다”며 “단시간 내 글을 삭제했다고 하더라도 인터넷의 파급력을 고려하면 죄책이 가볍다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “다만 사실관계를 인정하고 5분 만에 글을 삭제했으며, 사과 및 해명 글을 게시하기도 한 점, 허위 사실은 선거 공보물로 진위 여부가 쉽게 밝혀질 수 있어서 영향이 크다고 볼 수 없고, 이재명 후보가 당선된 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이 위원장은 선고가 끝나고 “항소할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“노을 보려고”… 접경지역 강화 교동도에서 드론 띄운 40대 男</title>
-      <link>https://www.chosun.com/national/incident/2026/02/05/BJECUCZWYFDFZGIVJ4PADQFHQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/05/BJECUCZWYFDFZGIVJ4PADQFHQQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 06:02:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYWCNTFGJSWMOJYHE2DONBYGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;접경 지역인 인천 강화군 교동도에서 드론을 띄운 40대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 강화경찰서는 항공안전법 위반 혐의로 40대 남성 A씨를 붙잡아 수사하고 있다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 6시쯤 드론 비행 금지 구역인 인천 강화군 교동도 남측 월선포구 선착장에서 인근 상공에 드론을 날린 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 군 당국으로부터 비행이나 촬영 승인을 받지 않고 약 3분간 드론을 날린 것으로 파악됐다. &lt;br&gt;&lt;br&gt;군 당국의 신고를 받고 출동한 경찰은 A씨를 임의 동행했다. A씨는 교동도 남쪽 석모도와 강화도 본도 방면으로 드론을 날린 것으로 조사됐다. A씨는 경찰 조사에서 “노을을 보려고 드론을 띄웠다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “손바닥만 한 크기의 A씨 드론에서 사진이나 영상이 확인되진 않았다”며 “드론 촬영이 이뤄졌는지 등에 대해 추가로 조사할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“일베 가짜 사진 때문에”... 故 이해찬 묘소에 CCTV 설치</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/OIBMXRFZN5ESFPHQ6AI2F7MJZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/OIBMXRFZN5ESFPHQ6AI2F7MJZA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 06:01:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNRSQEL5WRCBZNCJ4SJPWDGJ5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인에 떠돈 훼손된 묘비석 합성 사진(왼쪽)과 최민희 의원이 공개한 실제 묘비석 모습. /온라인 커뮤니티·최민희 의원 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 이해찬 전 국무총리의 묘지 표지석 훼손을 막기 위해 묘소 주변에 방범 카메라(CCTV)가 설치된다. 앞서 온라인에서는 이 전 총리 묘지 표지석을 훼손한 사진이 확산했으나 이는 합성 사진인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;최민희 더불어민주당 의원은 5일 페이스북을 통해 “이해찬 대표 묘역에 CCTV를 설치 중”이라며 세종 산울동 은하수공원에 안장된 이 전 총리 묘역 주변에 방범 카메라를 달고 있는 사진을 올렸다.&lt;br&gt;&lt;br&gt;최 의원은 “며칠 전 일베에 올라온 표지석 사진 때문에 놀라지 않으셨냐”며 “가짜 뉴스였다”고 했다. 그러면서 “그러나 그런 못된 일이 벌어질 수 있어 CCTV를 설치하고 있다고 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “세종시갑 민주당 이강진 지역위원장님, 정말 고생 많으시다. 오랫동안 이해찬 대표님을 모시고 일해 왔음에도 오히려 최측근이라 불이익을 받아 오지 않았느냐”며 “이번 장례 과정에서도 보니 혼자 궂은 일을 도맡아 하시더라. 세세하게 살피고 대책을 마련해 주셔서 고맙고 미안하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/544Y3U325BBTDDGUY4WKQPT36Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;이해찬 전 국무총리 묘역에 방범 카메라를 설치 중인 모습. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 온라인에는 이 전 총리 표지석이 훼손된 사진이 확산했다. 이 사진을 보면, 표지석이 쓰러져 비스듬히 누워 있고 상단 가장자리가 찢긴 듯 파손돼 있다. 표면에는 긁힌 자국이 여기저기 보인다. 이름이 새겨진 부분 역시 일부가 훼손된 모습이다. 한 네티즌은 이 사진을 공유하며 “민주당은 당장 훼손된 묘비석을 회복시켜라”며 “훼손시킨 사람을 잡아서 꼭 처벌시켜라”라고 했다. &lt;br&gt;&lt;br&gt;그러나 은하수공원을 관리하는 세종시시설관리공단은 “관계자들이 현장에 나가 봤는데 인터넷에 나도는 훼손된 묘지 표지석은 없었다”며 “인공지능(AI) 합성 사진으로 보인다”고 했다. 이 사진은 지난달 31일 안장식을 위해 유족 측에서 임시로 제작해 회수해 간 것을 활용해 조작한 것으로 추정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 서울고법 형사1·12부 ‘내란전담재판부’ 지정</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/05/4YJ22NIZAFEGDOPVCJ5UV3K2NY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/4YJ22NIZAFEGDOPVCJ5UV3K2NY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 05:36:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBQWGFO7K5KAJNFU3SWB2OPTUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울고법은 내란전담재판부 구성원을 확정하는 3차 전체 판사회의를 개최했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사1부와 형사12부가 윤석열 전 대통령의 내란 사건을 도맡는 ‘내란전담재판부’로 지정됐다.&lt;br&gt;&lt;br&gt;서울고법은 5일 전체 판사회의를 열고 내란전담재판부 설치법(내란·외환·반란 범죄 등의 형사절차에 관한 특례법) 시행에 따라 무작위 추첨 방식으로 전담재판부를 지정했다며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;형사1부는 윤성식(사법연수원 24기) 부장판사와 민성철(29기), 이동현(36기) 판사로 구성됐다. 형사12부는 이승철(26기), 조진구(29기), 김민아(34기) 판사로 이뤄졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] ‘인보사 사태’ 이웅열 코오롱 명예회장, 항소심도 무죄</title>
