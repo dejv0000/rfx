@@ -13,6 +13,137 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원 “‘한동훈 녹취록 오보’ 신성식 前검사장 해임은 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/NBJOTY3VPFBQ3DHW2IDAA3UNHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/NBJOTY3VPFBQ3DHW2IDAA3UNHA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 08:30:57 +0000</pubDate>
+      <content:encoded>‘한동훈 녹취록 오보 사건’의 당사자인 신성식(60·사법연수원 27기) 전 검사장에 대한 법무부의 해임 징계 처분이 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBQWV2NOTF3U3DVVDVLXDTSZIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신성식 전 검사장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 6일 신 전 검사장이 법무부 장관을 상대로 제기한 해임 처분 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;KBS는 지난 2020년 한동훈 당시 법무장관(전 국민의힘 대표)과 이동재 전 채널A 기자가 유시민 전 노무현재단 이사장의 신라젠 주가조작 관련 의혹을 제기하기로 공모했다는 내용이 담긴 ‘검언 유착’ 녹음 파일을 보도했다. KBS는 하루 만에 오보를 인정하고 사과했는데, 이를 KBS 기자들에게 알린 게 신 전 검사장이라는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;법무부 검사징계위원회는 지난 2024년 2월 징계위를 열고 신 전 검사장에 대한 해임 처분을 의결했고, 그는 이에 불복해 같은 해 4월 행정소송을 냈다. 검사징계법상 징계는 견책, 감봉, 정직, 면직, 해임 등 5단계로 나뉘는데 해임은 가장 높은 수준이다. 해임 징계를 받으면 3년간 변호사가 될 수 없다. 다만 총선에 출마하거나 퇴직 후 공무원 연금을 받는 데는 제약이 없다.&lt;br&gt;&lt;br&gt;신 전 검사장은 이와 관련해 한 전 대표의 명예를 훼손한 혐의로 형사재판에도 넘겨졌으나 작년 8월 1심에서 무죄를 선고받았다. 신 전 검사장의 발언 일부가 허위 사실로 보이지만 허위라는 인식이 없었고 고의 또한 인정되지 않는다는 이유였다.&lt;br&gt;&lt;br&gt;신 전 검사장은 2023년 12월 사직서를 낸 뒤 2024년 4·10 총선에서 전남 순천·광양·구례·곡성갑 선거구에 무소속으로 출마했으나 낙선했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>84년 만에 다시 수면 위로… 일본 조세이탄광 희생자 유해 추가 발굴</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/06/OMCUOU5UFJCMPN7ZDK7MKZFLYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/OMCUOU5UFJCMPN7ZDK7MKZFLYE/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 08:29:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSTGM3GMZQTQMZQMUZDSMLBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 조세이탄광 수몰사고 희생자 중 1명의 유해가 추가로 발굴됐다. /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 조세이탄광 수몰사고 희생자의 유해 1점이 추가로 발굴됐다. 정부는 새로 수습된 유해의 신원 확인을 위해 일본 정부와 공동 유전자 감정을 추진할 예정이다.&lt;br&gt;&lt;br&gt;행정안전부는 6일 일본 야마구치현 우베시에 있는 조세이탄광 해저 갱도에서 수몰사고 희생자 유해 1점이 발굴·수습됐다고 밝혔다.&lt;br&gt;&lt;br&gt;지난해 8월 유골 4점이 처음 확인된 이후 약 6개월 만이자, 지난 3일 잠수 조사가 재개된 지 나흘 만이다. 이번에 수습된 유해는 두개골 1점을 포함한 뼈 조각과 금니 등인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조세이탄광은 우베시에 있었던 해저 탄광으로, 조선인 노동자가 유독 많아 ‘조선탄광’이라고도 불렸다. 조세이탄광 수몰사고는 일제강점기인 1942년 2월 3일 갱내로 해수가 침투하면서 조선인 136명과 일본인 47명 등 인부 183명이 숨진 사고다. 당시 회사 측은 사고를 축소·은폐했고, 태평양전쟁과 함께 사건은 오랫동안 잊혀졌다. 유해 수습도 제대로 이뤄지지 않아 유가족들의 아픔이 수십 년간 이어져 왔다.&lt;br&gt;&lt;br&gt;1991년 결성된 일본 시민단체 ‘조세이탄광 수몰사고를 역사에 새기는 모임’은 자체 모금으로 수중 탐사와 잠수 조사를 이어오다 지난해 8월 처음으로 유골 4점을 발굴했다. 이후 지난달 열린 한·일 정상회담에서 양국 정상은 수습된 유해에 대한 유전자(DNA) 감정을 공동으로 추진하기로 합의했다.&lt;br&gt;&lt;br&gt;시민단체는 이달 3일부터 일본·핀란드·태국·인도네시아·대만 국적 잠수사들을 투입해 발굴 작업을 재개했고, 그 과정에서 추가 유해가 확인됐다. 정부는 이번에 수습된 유해 역시 기존 유해와 함께 한·일 공동 유전자 감정을 진행할 방침이다.&lt;br&gt;&lt;br&gt;장동수 과거사관련업무지원단장은 “추가 유해 발굴을 계기로 한·일 공동 DNA 감정을 포함한 후속 조치가 차질 없이 진행되도록 관련 협의에 최선을 다하겠다”며 “최대한 많은 희생자가 유가족의 품으로 돌아갈 수 있도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;유해 발굴 작업은 오는 11일까지 이어질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>말다툼하다 친아들 살해한 60대 교수 ‘징역 4년’</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/06/37FU6LQYO5HPVCHASC2NWYYMCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/37FU6LQYO5HPVCHASC2NWYYMCE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 08:24:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30대 아들과 말다툼을 벌이다 홧김에 흉기를 휘둘러 살해한 60대 대학교수가 1심에서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;6일 의정부지법 고양지원 형사1부(김희수 부장판사)는 살인 혐의로 구속기소 된 60대 A씨에게 징역 4년을 선고했다. 검찰이 요구한 보호 관찰 명령은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;대학교수인 A씨는 지난해 9월 경기 고양시 일산동구 자기 아파트에서 30대 아들 B씨를 흉기로 살해한 혐의로 구속돼 재판을 받아왔다.&lt;br&gt;&lt;br&gt;A씨는 오래전부터 아들 B씨와 갈등을 겪어왔으며, 사건 당일 말다툼을 벌이다 홧김에 범행을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 1월 결심공판에서 A씨에게 징역 7년을 구형하고 보호관찰 명령을 청구했다.&lt;br&gt;&lt;br&gt;재판부는 “살인은 사람의 생명을 빼앗는 중대한 범죄로 어떤 방법으로도 피해 회복이 불가능해 상응하는 처벌이 불가피하다”면서도 “피고인이 범행을 우발적으로 한 것으로 보이고, 이 사건 외 범죄 전력이 없는 점 등을 판단했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;또 피해자인 아들 B씨가 평소 A씨에게 협박을 일삼은 점, A씨가 양육의 의무를 다한 점, 가족인 딸이 처벌을 원하지 않는 점도 판결에 유리하게 작용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 검찰, ‘사법농단’ 양승태·박병대·고영한 2심 상고</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/N55HXJMLJ5EBRGJ6W7QVAHRV6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/N55HXJMLJ5EBRGJ6W7QVAHRV6Y/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 08:07:08 +0000</pubDate>
+      <content:encoded>검찰이 양승태 전 대법원장 등의 ‘사법 행정권 남용’ 사건의 항소심에 6일 불복해 상고했다. 지난달 30일 항소심에서 일부 유죄 판결이 나온 지 일주일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSDGNLCGM2TSNBQHBSTMYRWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 양승태 전 대법원장이 ‘사법 행정권 남용’ 사건 항소심 선고 공판에 출석하기 위해 서울 서초구 서울중앙지법에 들어서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울고검은 “양 전 대법원장, 박병대·고영한 전 대법관의 직권남용권리행사방해 등 사건 항소심 판결에 대한 상고장을 제출했다”고 밝혔다. 검찰은 “‘직권남용’의 법리 부분 등에 대한 대법원의 통일된 판단을 받아볼 필요가 있고, 관련 사건이 대법원에서 재판 진행 중인 점과 고 전 대법관에 대한 형사상고심의위원회의 의견을 종합적으로 고려했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 서울고법 형사14부(재판장 박혜선)는 지난달 30일 양 전 대법원장에게 징역 6개월에 집행유예 1년을 선고했다. 전직 대법원장이 형사 사건으로 기소돼 유죄 판결을 받은 첫 사례였다. 재판부는 양 전 대법원장이 받는 47개 혐의 중 재판 개입과 관련한 2개 혐의를 유죄라고 판단했다. 재판부는 박 전 대법관에게도 양 전 대법원장과 범행을 공모했다며 징역 6개월에 집행유예 1년을 선고했다. 반면 고 전 대법관은 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 이들의 핵심 혐의인 ‘직권남용’의 범위를 전부 무죄가 나왔던 1심 판단보다 넓게 해석했다. 재판부는 “사법 행정권자의 행위가 외형적으로는 법관에게 행정 사무에 관한 협조를 요청하는 것으로 보여도, 실질은 구체적 사건의 재판에 개입하거나 영향을 미치는 경우 직권남용에 해당할 수 있다”고 밝혔다. 다만 이같은 판단이 그간 나왔던 다른 사법 행정권 남용 사건에서 나온 대법원 판결과 배치되는 만큼, 상고심에서 쟁점이 될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“한국 가고 싶다” 북한군 포로 2명, 러·우 포로 교환 대상서 제외</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/06/7S75UOA7YFAMTMVPQNPYQB5H5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/7S75UOA7YFAMTMVPQNPYQB5H5Y/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 07:41:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZQXGPZELBDLLJNKTPTLGHJUEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한군 포로 백모(왼쪽)씨와 이모씨./정철환 특파원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 귀순 의사를 공개적으로 밝힌 북한군 포로 2명이 러시아와 우크라이나의 전쟁 포로 교환 대상에서 빠진 사실이 알려졌다. &lt;br&gt;&lt;br&gt;6일 국회 국방위원회 소속 유용원 국민의힘 의원 등에 따르면 미·러·우 3자 협상을 통해 러시아와 우크라이나 양측이 총 314명의 포로를 교환하기로 합의했지만 우크라이나에 억류된 북한군 포로 2명은 명단에 포함되지 않았다. &lt;br&gt;&lt;br&gt;북한군 포로 백모씨와 이모씨는 여전히 러시아군 포로들과 함께 우크라이나 포로 수용소에 수감돼 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;외교부는 이날 “북한군은 헌법상 우리 국민으로, 정부는 이들의 한국행 요청 시 전원 수용하고 본인들의 자유의사에 반한 러·북으로의 강제 송환은 절대 수용 불가라는 기본 원칙 및 관련 법령에 따라 필요한 보호와 지원을 제공해 나가겠다”라며 “우리 정부 입장을 우크라이나 측에도 이미 전달했으며, 계속 필요한 협의를 해나갈 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;북한군 포로 2명은 지난 2024년 러시아에 파병돼 쿠르스크 전투에 투입됐다가, 지난해 1월 우크라이나에 생포됐고 본지 인터뷰를 통해 대한민국에 가고 싶다는 뜻을 처음 밝혔다. &lt;br&gt;&lt;br&gt;유용원 의원은 “현재 이들은 일반 수용소에 수감되어 있으나, 신분이 완전히 보장된 상태는 아니다”라며 “만약 종전이 예상보다 빠르게 이루어질 경우, 제네바 협약 제118조의 ‘적대행위 종료 시의 포로의 석방과 송환’에 따라 원치 않게 북한으로 송환될 가능성이 있다. 이들이 북한으로 돌아가는 것은 죽음과 다름없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울~거제 2시간 시대 열린다… 남부내륙철도 착공 </title>
+      <link>https://www.chosun.com/national/2026/02/06/A7AC5TO6YZC6HDRJ4KLUJHO77I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/06/A7AC5TO6YZC6HDRJ4KLUJHO77I/</guid>
+      <dc:creator>거제=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 07:48:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2GKYTBHA3WMNTCGNRDMZDEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 경남 거제시 견내량 인근에서 남부내륙철도 착공식이 열렸다. 왼쪽부터 이성해 국가철도공단 이사장, 박완수 경남도지사, 김윤덕 국토교통부 장관, 이재명 대통령, 김경수 지방시대위원장, 이철우 경북도지사, 거제시민 김정자씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제에서 KTX를 타고 서울까지 2시간대로 이어줄 ‘남부내륙철도’ 건설 사업이 시작됐다.&lt;br&gt;&lt;br&gt;6일 오전 11시 30분 거제 아그네스파크에서 남부내륙철도 착공 기념식이 열렸다. 이날 착공식에는 이재명 대통령과 김윤덕 국토교통부 장관, 김경수 지방시대위원장, 박완수 경남도지사 등이 참석했다. &lt;br&gt;&lt;br&gt;이 대통령은 “수도권에 모든 것이 집중된 일극체제에서 벗어나 사람과 지역을 잇고, 기회를 연결하며 지역의 성장동력을 만들어 내는 국토 대전환의 시작”이라고 했다. &lt;br&gt;&lt;br&gt;남부내륙철도는 경북 김천에서 경남 거제까지 총 연장 174.6㎞ 구간에 총 사업비 7조 974억원이 투입되는 국가 기간 교통망 확충 사업이다. 오는 2031년 개통이 목표다. 노선이 개통하면 고속열차(KTX·SRT)가 경북 김천역을 기점으로 거제까지 오게 된다. 또 진주역에서 마산역까지 운행하는 노선이 구축된다.&lt;br&gt;&lt;br&gt;그동안 거제를 비롯해 경남 서부지역은 고속철도 서비스 소외지역으로 꼽혔다. 하지만 남부내륙철도가 개통하면 서울에서 거제까지 버스로 4시간 이상 걸리던 것이 2시간 40분대로 대폭 단축된다. 하루 25회 고속열차 운행을 계획하고 있다. &lt;br&gt;&lt;br&gt;경남도는 이번 사업이 단순한 교통망 확충을 넘어 막대한 경제적 부가가치를 창출할 것으로 기대하고 있다. 이 사업을 통한 생산 유발 효과는 13조5000억원에 달한다. 부가가치 유발 5조8000억원, 8만6000명의 취업 유발 효과도 예상된다. &lt;br&gt;&lt;br&gt;박성준 경남도 교통건설국장은 “이번 착공은 남부내륙철도가 실제 공사 단계로 진입하는 중요한 전환점”이라며 “장기 공사에 따른 주민 불편을 최소화하고, 적기 개통을 위해 모든 행정력을 집중하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 2월 7일 토요일 (음력 12월 20일 壬子)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/06/5QJNVUQ5UBHQ7HGGL3JTILPGU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/5QJNVUQ5UBHQ7HGGL3JTILPGU4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>전주 하계올림픽 유치 동의안 도의회 통과… 정부 심의 ‘본궤도’</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/06/DQR7NU3O5JE6JJJHFJVZX3IGEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/DQR7NU3O5JE6JJJHFJVZX3IGEU/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 07:12:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RVPV7YOLJO6VKMCXRCBBJPJHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2036 전주 하계올림픽·패럴림픽 홍보대사로 위촉된 쇼트트랙 김아랑(왼쪽)과 배트민턴 서승재(오른쪽)가 김관영 전북특별자치도지사와 기념 촬영을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도가 추진 중인 전주 하계 올림픽·패럴림픽 유치전이 전북도의회의 공식 지지를 확보하며 추진 동력을 얻었다. 도의회 동의라는 필수 관문을 통과함에 따라 전북도는 중앙정부 심의 등 후속 절차에 속도를 낼 전망이다. &lt;br&gt;&lt;br&gt;전북도는 6일 제424회 도의회 본회의에서 ‘전주 하계 올림픽·패럴림픽 대회 유치 동의안’이 최종 가결됐다고 밝혔다. 재석 의원 24명 중 22명이 찬성, 2명이 반대했다.&lt;br&gt;&lt;br&gt;이번 의결은 ‘국제경기대회 지원법’에 의거, 주무 부처인 문화체육관광부에 개최 계획서를 제출하기 전 반드시 이행해야 하는 법적 절차다. 이로써 전북도는 유치 추진의 정당성을 확보하고 정부 심의 단계로 진입하기 위한 교두보를 마련했다.&lt;br&gt;&lt;br&gt;전북도는 이번 가결을 기점으로 정부 설득에 행정력을 집중할 계획이다. 특히 사전 타당성 조사로 확인된 경제적 타당성과 압도적인 찬성 여론을 핵심 전략으로 내세울 방침이다. &lt;br&gt;&lt;br&gt;한국스포츠과학원의 조사 결과에 따르면, 이번 사업의 비용편익비(B/C)는 1.03으로 산출돼 경제성이 충분한 것으로 분석됐다. 여론조사 결과도 올림픽 유치를 지지한다는 의견이 전국 82.7%, 전북 지역은 이보다 높은 87.6%를 기록했다. &lt;br&gt;&lt;br&gt;향후 전북도는 문화체육관광부와 기획예산처 등 관계 부처 심의에서 대회의 당위성을 구체화하는 데 주력할 계획이다. 재정 건전성 확보, 지속 가능한 경기 운영, 지역 유산(Legacy) 창출 방안 등을 부각해 최종 승인을 이끌어낸다는 전략이다.&lt;br&gt;&lt;br&gt;유희숙 전주하계올림픽유치단장은 “이번 동의안 가결은 유치를 향한 도민과 도의회의 결연한 의지를 보여준 것”이라며 “정부 심의와 국제적 경쟁 과정에서도 독보적인 경쟁력을 확보할 수 있도록 전방위적 노력을 다하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사제 총기로 아들 살해 60대 男… 법원,  ‘무기징역’ 선고</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/XIFKSHATVNH4XOETBRL7HGOQEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/XIFKSHATVNH4XOETBRL7HGOQEA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 05:52:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYYSWTEYIPIXLJTVV6QJ22UQBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사제 총기로 아들 살해한 60대. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직접 만든 총기로 아들을 살해하고 며느리와 손주 등을 살해하려 한 60대 남성이 법원에서 무기징역형을 선고받았다. &lt;br&gt;&lt;br&gt;인천지법 형사13부(재판장 김기풍)는 6일 살인, 살인미수, 총포·도검·화약류 등의 안전관리에 관한 법률 위반 등 혐의로 구속 기소된 조모(63)씨에 대한 선고공판에서 무기징역을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 또 조씨에게 20년간 위치추적 전자장치 부착을 명령했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 아들을 살해하고 며느리와 손자녀, 지인까지 살해하려고 했을 뿐만 아니라, 자신이 거주하는 아파트에 다량의 인화물질과 점화장치를 설치해 참사가 발생할 수 있는 위험을 야기했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인은 1년 전부터 총기를 제작했고, 20년 전에 구입한 총알의 살상력을 높이기 위해 개조하는 등 범행을 치밀하게 준비했다”며 “(며느리 등) 피해자들은 범행으로 인해 일상생활이 어려울 정도로 큰 정신적 충격 등을 받은 것으로 보임에도 피고인의 피해 회복 노력은 없었고, 피해자들은 여전히 엄벌을 요구하고 있다. 형사처벌 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;검찰은 앞서 지난해 12월 결심공판에서 “피고인은 아들을 살해한 뒤 다른 가족과 지인도 살해하려 해 죄질이 불량하고 범죄가 중대하다”며 조씨에게 사형을 구형했다. &lt;br&gt;&lt;br&gt;조씨는 지난해 7월 20일 오후 9시 31분쯤 인천시 연수구 송도동의 한 아파트 33층 집에서 직접 만든 총기로 산탄 2발을 쏴 아들 A(33)씨를 살해한 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;조씨는 당시 집안에 함께 있던 며느리와 손주 2명, 외국인 가정교사 등 4명도 총기로 살해하려 한 혐의를 받았다. &lt;br&gt;&lt;br&gt;범행 장소는 아들 A씨의 집으로, 당시 A씨 가족 등은 당시 조씨의 생일 잔치를 위해 모였었다. &lt;br&gt;&lt;br&gt;조씨는 2024년 8월부터 범행을 계획하고 유튜브로 사제 총기와 자동 발화 장치 제조법 등을 익히고, 살상력을 높이기 위해 20년 전 구입한 실탄을 개조한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;조씨는 자신이 거주하는 서울 도봉구 쌍문동 아파트 자택에 시너가 든 페트병 등 인화성 물질 15개와 점화 장치를 설치해 범행 다음 날 폭발시키려 한 것으로도 조사됐다. &lt;br&gt;&lt;br&gt;조씨는 20년 넘게 일정한 직업 없이 살면서 월 600만원이 넘는 돈을 전처와 아들로부터 받아 생활해 오다가, 2023년 말부터 전처가 지원을 중단하자 앙심을 품고 아들을 살해한 것으로 드러났다. &lt;br&gt;&lt;br&gt;검찰은 조씨가 전처와 아들이 함께 자신을 속이고 고립시킨다는 망상에 빠져 전처가 아끼는 아들과 그 가족을 살해해 복수하려 한 것으로 봤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PWOV3BMOUBDLXCYX2XSLG6BYUA.jpg?auth=6be29dd7eab128aa7ce891513f0833df2ebbb1bc126155eb89ee966c0f1f747d&amp;smart=true&amp;width=682&amp;height=384" type="image/jpeg" height="384" width="682">
+        <media:description type="plain">사제총기로 아들 살해한 60대, 구속 송치</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>전문 공연인 무료공연… 선관위, 포항시장 입후보예정자 등 고발</title>
+      <link>https://www.chosun.com/national/regional/2026/02/06/6SZRJWCJVVD7XA2N3FMT5Z6O7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/06/6SZRJWCJVVD7XA2N3FMT5Z6O7Y/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 06:58:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DKMJUGNRDINZQGNRTOMBUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포항시남구선거관리위원회 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출판 기념회에서 선거구민에게 무료로 공연을 보여준 혐의로 포항시장 선거 입후보 예정자 등이 검찰에 고발됐다. &lt;br&gt;&lt;br&gt;경북 포항시남구선거관리위원회는 공직선거법 위반 혐의로 포항시장 선거 입후보 예정자 A씨와 그의 가족 B씨를 검찰에 고발했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;B씨는 지난해 말 열린 A씨의 출판 기념회에서 자신의 지인 5명과 함께 무료 공연을 진행한 혐의를 받고 있다. 당시 출판 기념회 현장에는 선거구민이 포함된 1000명가량이 있었다고 한다. &lt;br&gt;&lt;br&gt;선관위 관계자는 “B씨와 B씨의 지인들은 출연료를 받고 공연하는 전문 공연인”이라며 “전문 공연인이 무상으로 공연을 제공한 것은 관람료 상당의 이익을 제공한 것과 같다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“창원을 제조AX를 세계 최고로”... 국립창원대·산업통상부 업무협약 </title>
+      <link>https://www.chosun.com/national/2026/02/06/G6WP6B6AWJGBDFT46CTHSGGKEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/06/G6WP6B6AWJGBDFT46CTHSGGKEM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 06:36:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QL7ZSXLLSVJF3BADI4KUTKFOOY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6일 경남 국립창원대학교에서 김정관 산업통상부 장관과 박민원 국립창원대학교 총장이 '산업통상부-국립창원대학교 M.AX 업무협약'을 체결하고, 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원국가산업단지가 인공지능(AI) 기반의 ‘자율 제조 산단’으로 탈바꿈한다. 대학과 정부 부처가 손을 잡고, 공장 스스로 최적의 공정을 찾아내는 ‘제조 AX(인공지능 전환)’로 창원을 글로벌 제조 거점으로 만들겠다는 구상이다.&lt;br&gt;&lt;br&gt;국립창원대학교는 6일 대학본부 인송홀에서 산업통상부와 ‘M.AX(Manufacturing AX) 업무협약(MOU)’을 체결했다고 밝혔다. 창원국가산단을 중심으로 제조업의 AI 전환을 본격화하기 위해 ‘M.AX 테스트베드 등 실증 인프라 구축·운영’ ‘전문 인력 양성 및 재직자 직무 전환 교육’ ‘입주 기업 M.AX 지원을 위한 종합 지원 체계 구축·운영’ ‘산업단지 M.AX 데이터 활용 체계 구축’ ‘M.AX 창업 생태계 조성’ ‘규제 특례 및 제도 개선 방안 연구’ 등 6대 협력 과제가 담겼다. 협약 이행을 위해 정기적인 실무 협의체를 통해 이행 상황을 챙길 계획이다.&lt;br&gt;&lt;br&gt;협약식 이후 열린 간담회에서 국립창원대는 ‘데모 다크 팩토리(Demo Dark Factory, D²F)’ 구축을 통한 실증 기반 조성을 설명했다. 데모 다크 팩토리란 학생·기업이 로봇·피지컬 AI 기반 제조 공정을 실시간으로 체험하고 실증하는 시설로, 공장 내부에 사람이 없어도 문제없이 운영되는 완전 무인 자율 공장을 체험·실증할 수 있는 공간이다. &lt;br&gt;&lt;br&gt;국립창원대는 이 실증 인프라를 중심으로 ‘데이터센터 구축’ ‘산단 입주 기업 AI 전환 지원’ ‘현장 밀착형 AX 실무 인재 양성’ 등의 패키지 추진을 제안했다. 단순히 시연에 그치지 않고, 실제 현장의 어려운 과제를 해결하는 ‘실행형 플랫폼’을 지향하고 있다. &lt;br&gt;&lt;br&gt;국립창원대는 “데모(시범) 실증을 넘어 실제 공정에서 검증된 모델을 산업단지 전반으로 확산시키는 것이 목표”라고 했다. &lt;br&gt;&lt;br&gt;김정관 산업부 장관은 “창원국가산단은 대한민국 제조 혁신의 상징적인 공간”이라며 “인프라, 인력, 제도 개선을 원스톱으로 지원해 산단 전반의 AX 전환 속도를 획기적으로 높이겠다”고 강조했다. &lt;br&gt;&lt;br&gt;박민원 국립창원대 총장은 “우리 대학은 현장 문제를 ‘교육-연구-실증-확산’으로 연결하는 실행형 플랫폼 역할을 하겠다”며 “창원산단이 제조 AX 확산의 대표 거점으로 자리 잡도록 협력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“퇴계의 귀향길, 동양의 산티아고 순례길로”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/06/ORXI5V2MS5BC5MQDYXM44VGLPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/ORXI5V2MS5BC5MQDYXM44VGLPI/</guid>
+      <dc:creator>안동=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 06:31:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4DMMLFMM4TIMTEHBSDIMRQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도와 경북문화재단이 ‘제6회 퇴계 선생 마지막 귀향길 재현행사’를 앞두고 참가자를 오는 22일까지 모집한다. 사진은  ‘제3회 퇴계선생 귀향길 재현행사’./국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 조선 중기 유학자인 퇴계 이황(1501~1570) 선생이 관직을 그만두고 고향인 경북 안동시로 내려온 귀향길을 재현하는 행사 참가자를 모집한다.&lt;br&gt;&lt;br&gt;경북도·경북문화재단은 ‘제6회 퇴계 선생 마지막 귀향길 재현행사’ 참가자를 모집한다고 6일 밝혔다. 모집 기간은 이달 22일까지이며, 퇴계의 귀향길을 따라 걷는 일정은 오는 3월 29일부터 4월 12일까지 진행된다.&lt;br&gt;&lt;br&gt;퇴계는 1569년(선조 2년)에 이조판서에 임명됐지만, 임금과 조정의 만류에도 불구하고 연로한 나이를 이유로 벼슬을 거듭 사양했다. 결국 같은 해 3월 4일 사직을 허락받은 뒤, 퇴계는 한양에서 고향인 안동으로 돌아와 도산서당에서 후학 양성에 힘쓰다 이듬해 타계했다. &lt;br&gt;&lt;br&gt;경북도 관계자는 “권력의 중심인 서울을 떠나 실천·배려·존중의 선비정신과 지역공동체 회복에 전념했던 선생의 철학을 본받아, 수도권 집중 현상에서 벗어나 지방 시대의 새로운 방향을 모색하고자 행사를 열고 있다”고 했다.&lt;br&gt;&lt;br&gt;참가자들은 내달 30일 서울 경복궁 사정전을 출발해 경기도 남양주·여주, 충북 충주와 제천, 경북 영주를 거쳐 4월 12일에 안동 도산서원에 도착할 예정이다. 귀향길 총 구간은 270km(700리)에 달한다. 귀향길에 들르는 각 지역의 문화유산을 체험하고, 퇴계의 삶을 조명한 공연과 강연 등 프로그램도 참관할 수 있다. 경복궁에선 개막식을, 안동 도산서원에선 폐막식이 열리고 서울 봉은사와 충주 관아공원, 제천 한벽루, 영주 이산 서원 등에서도 관련 문화 행사가 진행된다.&lt;br&gt;&lt;br&gt;이번 행사는 총 200명의 인원을 선발할 예정이며 경북문화재단 홈페이지에서 참가 신청을 할 수 있다. 성인은 참가비 10만원을 내지만 청소년과 어린이는 무료다.&lt;br&gt;&lt;br&gt;박찬우 경북도 문화관광체육국장은 “퇴계 선생의 귀향길은 지역의 미래를 고민했던 성찰의 길”이라며 “퇴계의 삶과 철학이 녹아있는 귀향길을 동양의 산티아고 순례길로 만들어 세계인이 찾는 브랜드로 육성하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이범수·이윤진, 합의 이혼...“상호 간 오해 해소”</title>
+      <link>https://www.chosun.com/national/people/2026/02/06/DO4XBQT7TBFBJNTF4JZR4KFMSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/06/DO4XBQT7TBFBJNTF4JZR4KFMSY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 06:16:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TERZ3IUO24FKZKEYRRVA5A7JNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이범수, 이윤진(오른쪽)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이범수와 통번역가 이윤진이 파경 2년 만에 합의 이혼했다.&lt;br&gt;&lt;br&gt;이범수 소속사 와이원엔터테인먼트는 6일 “이혼과 관련된 법적 절차를 원만한 합의를 통해 마무리했다”며 “이범수씨와 이윤진씨는 충분한 협의를 거쳐 상호 간의 오해를 해소하였으며 앞으로는 자녀들의 부모로서 각자의 자리에서 서로를 존중하고 응원하기로 합의했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이혼 절차가 진행되는 과정에서 일부 사실과 다른 추측성 보도 및 왜곡된 해석이 확산된 바 있어 이에 대해 바로잡고자 한다”며 “이범수씨와 관련한 추측성 보도는 사실이 아니며 당사자 간의 합의는 원만하게 이루어졌다. 이에 향후 이범수씨 및 이윤진씨, 그리고 가족을 향한 억측, 비난 및 허위 사실 유포는 중단해 주시기를 정중히 요청드린다”고 당부했다.&lt;br&gt;&lt;br&gt;이윤진도 이날 인스타그램에 직접 이혼 소식을 알렸다. 이윤진은 “약 15년간의 결혼 생활을 마무리하고, 이범수 씨와 원만한 합의를 거쳐 협의 이혼을 하게 됐다”고 했다. 그러면서 “혼인 기간 중 대화와 소통의 부재로 생겼던 서로에 대한 오해를 풀고, 앞으로는 자녀들의 부모로서 각자의 자리에서 서로를 존중하며 응원하기로 했다”며 “배우 이범수 씨의 앞으로의 행보에도 따뜻한 응원 부탁드린다. 감사하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이범수는 이윤진과 2010년 재혼해 딸 소을, 아들 다을을 두었다. 그러나 2023년 두 번째 결혼 역시 파경을 맞았다. &lt;br&gt;&lt;br&gt;이혼 소송이 제기된 뒤 이윤진은 인도네시아 발리에서 딸 소을양과 함께 지내왔고, 최근에는 아들 다을군과 함께하는 근황도 공개했다. 발리에서 호텔리어로 새로운 삶을 시작한 그는 해당 호텔의 한국 대표로 활동하고 있다고 전했다.&lt;br&gt;&lt;br&gt;이범수는 이혼 소송이 진행되는 동안에도 작품 활동을 이어갔다. 넷플릭스 오리지널 ‘광장’, 티빙 오리지널 ‘빌런즈’ 등에 출연했고, 영화 ‘범죄도시’ 시리즈에서는 장태수 역을 맡았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박종준 “국회서 尹 비화폰 노출돼 삭제”… 첫 공판서 증거인멸 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/GIJPAJUHUNGRZGE2GVWMJ5GUGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/GIJPAJUHUNGRZGE2GVWMJ5GUGM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 06:13:44 +0000</pubDate>
+      <content:encoded>박종준 전 대통령경호처장이 12·3 비상계엄 이후 윤석열 전 대통령과 홍장원 전 국가정보원 1차장의 비화폰 정보를 삭제한 것은 “보안 사고에 따른 조치였다”며 혐의를 거듭 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRVYEMLRGJLMHFW6OIZ2YEU5Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처장이 6일 서울 서초구 서울중앙지법에서 열린 '비화폰 삭제·내란 증거인멸' 혐의 1차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사32부(재판장 류경진)는 6일 박 전 처장의 증거인멸 혐의 사건 첫 공판을 열었다. 박 전 처장은 계엄 이후 윤 전 대통령과 홍 전 차장, 김봉식 전 서울경찰청장의 비화폰 정보를 ‘원격 로그아웃’ 방법으로 삭제한 혐의를 받는다. 비화폰은 경호처 서버에서 원격 로그아웃을 하면 통신 내역 등 관련 정보가 삭제된다.&lt;br&gt;&lt;br&gt;특검은 박 전 처장이 윤 전 대통령의 내란 행위와 관련한 증거를 없앨 목적으로 고의로 비화폰 정보를 삭제했다고 보고 있다. 홍 전 차장이 2024년 12월 6일 국회 정보위원회에 출석해 윤 전 대통령의 정치인 체포 지시 등을 폭로한 직후 비화폰 정보가 삭제된 점을 근거로 들었다.&lt;br&gt;&lt;br&gt;박 전 처장 측은 이날 재판에서 홍 전 차장의 비화폰 정보를 삭제한 것은 보안 사고에 따른 조치였을 뿐 증거인멸 의도는 없었다고 주장했다. 박 전 처장 측은 “홍 전 차장이 국회에서 비화폰 통화 내역 화면을 제시하면서, 언론에 윤 전 대통령의 비화폰 아이디와 통화 기록이 노출되는 보안 사고가 발생했다”며 “이후 국정원 비화폰 담당자가 경호처 담당자에게 전화해 ‘보안 조치가 필요할 것 같으니 확인해 보라’고 했다”고 설명했다.&lt;br&gt;&lt;br&gt;재판부가 박 전 처장에게 “(국정원과) 비화폰을 어떻게 처리할지 협의한 것이 아니라, 보안 사고 발생에 따른 조치였다는 주장이냐”고 묻자, 박 전 처장 측은 “맞다”며 “비화폰을 사용하고 있다는 것 자체가 국가 기밀”이라고 답했다.&lt;br&gt;&lt;br&gt;한편, 재판부는 “4월 초를 목표로 변론을 종결할 계획”이라며, 이달 25일과 다음 달 9·19일 세 차례 공판에서 증인 신문을 한 뒤 4월 2일 결심 공판을 열겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘50억 클럽’ 곽상도 1심 공소기각... 아들은 뇌물 혐의 무죄</title>
       <link>https://www.chosun.com/national/court_law/2026/02/06/BFRZMALKPVGIVLLJXSTMFLX5YU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/BFRZMALKPVGIVLLJXSTMFLX5YU/</guid>
@@ -797,24 +928,6 @@
       <content:encoded>골관절염 치료제 ‘인보사케이주(인보사)’의 성분을 조작해 정부 허가를 받아 판매한 혐의로 재판에 넘겨진 이웅열 코오롱 명예회장에게 법원이 1심에 이어 항소심에서도 무죄를 선고했다. 검찰이 2020년 7월 이 회장에게 7개 혐의를 적용해 기소한지 5년 7개월여 만이다. 이 회장과 함께 기소된 코오롱 임원들도 인보사 관련 혐의는 모두 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZWEOJSGUYTEYTDHA2DMMDCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웅열 코오롱그룹 명예회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>강남서 “가상화폐 직거래 하자”고 속여 현금 빼앗은 10대 검거</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/ZZEWFWJ4EFC7TFYAC722SF7TOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/ZZEWFWJ4EFC7TFYAC722SF7TOY/</guid>
-      <dc:creator>윤성은 기자, 조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 05:38:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTSMJWGNTGKMLCMEYDANRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에서 가상 화폐 직거래를 빌미로 피해자를 유인해 현금을 빼앗고 도망친 10대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 4일 A군을 특수절도 혐의로 검거했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A군은 지난달 17일 오후 9시 28분쯤 강남구 논현동에서 가상 화폐를 직거래하자며 유인한 뒤 피해자가 가져온 현금 600만원을 들고 달아난 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 지난달 27일에도 강남구 청담동의 한 아파트 주차장에서 같은 방식으로 피해자를 속여 현금 약 2800만원을 가로챈 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이날 경찰은 공범인 10대 남성 B군과 C군을 우선 긴급 체포하고 도주한 A군을 추적해 4일 검거했다. &lt;br&gt;&lt;br&gt;경찰은 정확한 범행 경위를 조사한 뒤 A군을 상대로 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰이 엉뚱한 영상보고 ‘죄 없다’고 본 사건... 검찰이 오류 잡아 피의자 법정행</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/05/VJMW7IA4A5D43PPWAD4XTW5IDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/05/VJMW7IA4A5D43PPWAD4XTW5IDE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 05:07:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCWM7IM66YOY5S7REFULVOCG6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰의 엉터리 수사로 처벌을 피할 뻔한 피의자가 검찰의 수사로 덜미가 잡혔다. &lt;br&gt;&lt;br&gt;청주지검 충주지청은 성폭력처벌법상 업무상 위력 등에 의한 추행 혐의로 60대 남성 A씨를 불구속 기소했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 초순 자신이 운영하는 충북의 한 편의점 안에서 근무복으로 갈아입던 여직원 B씨를 약 3초간 강제로 끌어안은 혐의를 받는다. 그는 같은 달 말 다이어트를 하고 있다는 B씨에게 “살 뺄 곳이 어디 있느냐”며 B씨의 신체를 만진 혐의도 받는다.&lt;br&gt;&lt;br&gt;애초 경찰은 범행 시점 기준으로 한 달가량 지난 방범 카메라 영상을 보고 B씨의 진술을 신뢰할 수 없다며 A씨에 대해 불송치 결정했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 경찰이 본 영상의 날짜가 범행 시점과 다르다는 점을 확인하고 경찰에 재수사를 요청했다. 결국 경찰의 재수사에서 A씨의 추행 사실이 드러났다.&lt;br&gt;&lt;br&gt;검찰은 또 직접 보완 수사를 통해 A씨가 B씨를 차량으로 귀가시켜 주면서 상습적으로 성적인 발언을 한 사실도 확인, 혐의를 더해 재판에 넘겼다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “성범죄를 당한 사회 초년생의 억울함을 풀어주고, 피해자 지원을 통해 회복적 사법 이념을 실천했다”며 “송치·불송치 기록을 충실히 검토해 범죄로부터 국민을 보호하도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 정치자금법 위반 혐의 명태균 1심서 무죄 </title>
       <link>https://www.chosun.com/national/regional/2026/02/05/HLL25JRPHNC75JC6JQYQPPO33M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/05/HLL25JRPHNC75JC6JQYQPPO33M/</guid>
@@ -822,93 +935,6 @@
       <description/>
       <pubDate>Thu, 05 Feb 2026 05:18:33 +0000</pubDate>
       <content:encoded> &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“베트남 처녀 수입” 논란 부른 김희수 진도군수, 공식 사과</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/T4JDCJKYSFHG5GDINR3M34I2ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/T4JDCJKYSFHG5GDINR3M34I2ZU/</guid>
-      <dc:creator>진도=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 05:15:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRGEMRUMY3TMNBTME4GKOJWGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;김희수 진도군수가 지난 4일 전남 해남문화예술관에서 열린 광주·전남 행정통합 '찾아가는 타운홀미팅'에서 발언하고 있다. /목포 MBC 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남 자치단체장들과 주민이 행정 통합을 논의하는 생중계 행사에서 “베트남 처녀를 수입해 농촌 총각들을 장가보내자”고 발언해 논란을 부른 김희수 진도군수가 공식 사과했다. 김 군수는 “특정 국가나 개인을 비하하려는 의도가 아니라 단어를 잘못 선택했다”고 해명했다.&lt;br&gt;&lt;br&gt;광주광역시와 전남도는 지난 4일 해남문화예술회관 다목적실에서 ‘광주·전남 행정 통합 서남권 타운홀 미팅’을 개최했다. 강기정 광주시장과 김영록 전남지사를 비롯해 전남 진도, 영암, 해남, 강진 등 군수와 주민 120여 명이 참석했다.&lt;br&gt;&lt;br&gt;행사는 광주시장과 전남도지사가 통합 필요성을 설명하고, 군수나 군의원 등이 자유롭게 질문하는 형태로 치러졌다. 참석자들의 발언은 모두 생중계로 방송됐다.&lt;br&gt;&lt;br&gt;김 군수는 이 자리에서 “전국 89개 인구 소멸 지역 중 20%가 전남에 있다”며 “광주·전남이 통합을 할 때 인구 소멸에 대한 것도 법제화하자. 스리랑카나 베트남 젊은 처녀들 수입도 해 농촌 총각 장가도 보내고, 이런 특별 대책을 마련해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;답변에 나선 강 시장은 “2004년 처음으로 저출생·고령사회기본법이 만들어져 수십 년간 돈은 돈대로 썼는데 잘 안 됐다”며 “여러 해법이 있을 수 있는데 아까 외국인, 결혼·수입 이건 잘못된 이야기”라고 했다.&lt;br&gt;&lt;br&gt;김 군수의 발언을 두고 특정 국가 여성을 ‘수입’ 대상으로 표현한 것은 부적절했다는 논란이 불거졌다.&lt;br&gt;&lt;br&gt;김 군수는 사과문을 통해 “해당 발언은 농어촌 지역의 인구 감소와 결혼·출산 기반 약화라는 구조적 문제를 지적하며 광주·전남 통합 지자체 및 국가 차원의 제도적 대응이 필요하다는 취지에서 나온 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “농어촌의 지속 가능성을 높이고자 외국 미혼 여성의 ‘유입’을 늘려야 한다고 발언하는 과정에서 수입이라는 단어를 잘못 선택해 부적절한 발언을 한 것”이라며 “특정 국가나 개인을 비하하려는 것은 아니었다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MVRGEMRUMY3TMNBTME4GKOJWGQ.png?auth=974d905ed3670236d5b3c6fb54eedf4341b9613c7335f79cde1d7a5fc19bec11&amp;smart=true&amp;width=600&amp;height=337" type="image/png" height="337" width="600">
-        <media:description type="plain">김희수 진도군수가 지난 4일 전남 해남문화예술관에서 열린 광주·전남 행정통합 '찾아가는 타운홀미팅'에서 발언하고 있다. /목포 MBC 유튜브</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>시속 110㎞ 고속도로 터널에 킥보드가...위험천만 주행 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/4J35RLH5LRHP3K27UNWIIC4HCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/4J35RLH5LRHP3K27UNWIIC4HCI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 02:53:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBIAHEQHVRD4LNTDSPVMA6WUSI.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 운전자가 고속도로 지하 터널에서 전동 킥보드로 주행하고 있다./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로 지하 터널에서 전동 킥보드를 타고 달리는 운전자가 포착돼 논란이 되고 있다.&lt;br&gt;&lt;br&gt;지난 3일 한 온라인 커뮤니티에는 ‘경부고속도로 동탄터널 킥보드 출현’이라는 제목의 게시물이 올라왔다. &lt;br&gt;&lt;br&gt;함께 공개된 사진과 영상에는 한 운전자가 전동 킥보드를 타고 터널 내부 가장 바깥 차선을 따라 이동하는 모습이 담겼다. 운전자는 헬멧 등 보호 장비를 착용했고, 킥보드와 등에 멘 가방에는 LED 불빛도 켜져 있었다. 대형 트럭과 승용차가 고속으로 오가는 터널에서 개인형 이동장치가 주행하는 모습이 포착되면서 아찔한 상황이 빚어진 것이다.&lt;br&gt;&lt;br&gt;사진이 찍힌 장소는 경기 화성시를 지하로 관통하는 경부고속도로 동탄터널이다. 길이 1210m에 왕복 10차로(편도 5차로) 규모로, 평소에도 교통량이 많은 구간으로 알려져 있다. 특히 기흥동탄IC에서 동탄JCT로 이어지는 이 구간은 지난해 1월부터 최고 제한속도가 시속 80㎞에서 110㎞로 상향 조정돼 차량들이 빠른 속도로 주행하고 있다.&lt;br&gt;&lt;br&gt;반면 전동 킥보드 등 개인형 이동장치의 법정 최고속도는 시속 25㎞로 제한돼 있다. 시속 100㎞ 안팎으로 달리는 차량 흐름에 섞일 경우 사고 위험이 커질 수밖에 없다는 지적이다. 터널 특성상 시야가 제한돼 뒤따르던 차량이 킥보드를 뒤늦게 발견하면 대형 사고로 이어질 가능성도 제기된다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “사고가 안 난 게 용하다” “부디 처벌됐으면 좋겠다” “차들이 자기를 잘 피해 갈 것으로 생각하는 건가” “2차 사고가 나지 않은 게 다행” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이 장면을 목격한 작성자는 해당 운전자를 한국도로공사에 신고했다고 밝혔다. 현행 도로교통법은 전동 킥보드를 비롯한 개인형 이동장치와 오토바이 등 이륜차의 고속도로 및 자동차전용도로 진입을 전면 금지하고 있다. 이를 위반할 경우 30만원 이하의 벌금이나 구류 처분을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NKPG26MRONA2TM4OTDLWV4JPVA.png?auth=03e4da63d8ce1f08fbbe4e3bd386b5653c0c1b69b5f8e8099ecb165d920475e0&amp;smart=true&amp;width=499&amp;height=374" type="image/png" height="374" width="499">
-        <media:description type="plain">한 운전자가 고속도로 지하 터널에서 전동 킥보드로 주행하고 있다./보배드림</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>코로나 기간 불법 집회 주도한 민경욱...대법서 벌금형 집행유예 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/05/2UHSQCVAFFBB5CZKQDE3JC6WTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/2UHSQCVAFFBB5CZKQDE3JC6WTM/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 04:17:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TINLDG4YGGNTBGFRTOY3CGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민경욱 전 미래통합당(현 국민의힘) 의원. photo 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 시기 광복절 광화문 불법 집회를 주도한 혐의로 재판에 넘겨진 민경욱 전 미래통합당 의원에게 징역형 집행유예가 확정됐다. &lt;br&gt;&lt;br&gt;5일 법조계에 따르면 대법원 2부(주심 권영준 대법관)는 작년 12월 민 전 의원에 대해 벌금 50만원에 집행유예 1년을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;민 전 의원은 2020년 8월 15일 광장 등에서 집회를 제한하는 내용의 서울시 집회 금지 명령을 어기고 4·15 부정선거 국민투쟁본부(국투본) 상임대표로서 8·15 국민대회에 참석해 집회를 주도한 혐의를 받는다. 민 전 의원은 집회 당일 오후 5시 28분쯤부터 오후 7시 15분까지 서울 종로구에 있는 직선교차로에서 주차된 승용차 보닛 위에 올라가 확성기를 이용해 구호를 제창하며 집회를 이끌기도 했다. &lt;br&gt;&lt;br&gt;검찰은 민 전 의원을 감염병예방법위반 등 혐의로 불구속기소했다. 이에 민 전 의원 측은 서울시의 집회 금지 명령은 집회 자유의 본질을 침해한다며 위법하다고 반박했다. 그러면서 당시 열린 집회는 적법하게 허가받은 집회며, 직선교차로에서 진행된 모임은 ‘집회’에 해당하지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;1심 재판부는 민 전 의원에게 벌금 50만원에 집행유예 1년을 선고했다. 재판부는 서울시의 집회 금지 명령은 감염병 예방을 위해 필요한 조치를 취한 것으로, 지역사회의 안전보장을 위해 불가피한 제한을 둔 것으로 보인다고 했다. 지방자치단체장은 주민의 생명권과 건강권을 최우선으로 보호해야 할 의무가 있기에 집회에 대해 취할 수 있는 조치에 상당한 재량권도 가진다고 봤다. 민 전 의원이 참석한 8·15 국민대회는 당시 법원이 허용한 보수 성향 단체 ‘일파만파’의 동화면세점 앞 100명 규모 집회 신고를 구실로 내세운 것이라며, 신고 없이 불법 집회를 개최했다고 판단했다. 집회가 개최된 장소 및 소요 시간, 참가자 수, 의견표현 수단과 방식 등을 고려했을 때 해당 모임이 ‘집회’에 해당한다고도 판단했다.&lt;br&gt;&lt;br&gt;2심 재판부 또한 민 전 의원과 검사의 항소를 모두 기각했다. 재판부는 원심의 판단은 정당한 것으로 수긍할 수 있고, 피고인이 주장하는 사실오인의 위법이 있다고 할 수 없다고 판단했다. 민 전 의원의 연령, 환경, 범행 동기, 결과 등 여러 사정을 종합하면 원심의 양형 판단이 재량의 합리적인 한계를 벗어났다고 보이지 않는다고 덧붙였다.&lt;br&gt;&lt;br&gt;대법원은 민 전 의원의 상고를 기각하고 벌금 50만원, 집행유예 1년을 확정했다. 대법원은 “원심의 판단에 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 행정처분의 적법성 및 감염병예방법위반죄의 성립, 고의 등에 관한 법리를 오해한 잘못이 없다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘학교· 철도역 등 폭발물 설치' 협박 글 올린 고교생… 첫 재판서 일부 혐의 부인</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/05/S7AAYXZZ3NAIFOWWKXRVPV63WM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/S7AAYXZZ3NAIFOWWKXRVPV63WM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 03:00:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFVL2UWTEDQH52VZUVLB53KB6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭발물이 설치됐다는 신고가 접수된 인천 서구의 한 고등학교에 출동한 소방 당국 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교와 철도역 등에 폭발물을 설치했다는 내용의 협박 글을 올린 혐의로 재판에 넘겨진 고등학생이 법정에서 자신의 혐의를 일부 부인했다. &lt;br&gt;&lt;br&gt;인천지법 형사9단독 정제민 판사는 5일 공중협박과 위계에 의한 공무집행 방해 혐의로 구속 기소된 A군에 대한 첫 공판을 진행했다. &lt;br&gt;&lt;br&gt;A군 측 변호인은 이날 “공소사실 중 일부를 부인한다”며 “10월 13일 단독 범행 외에 다른 공범들의 행위엔 가담하지 않았다”고 했다. &lt;br&gt;&lt;br&gt;A군은 “구치소에 온 지 두 달이 넘었다. 잘못을 깊이 반성하고 있다. 어떤 죄든 달게 받겠다. 사회에 나갈 기회가 생긴다면 학생들과 소방, 경찰들께 무릎 꿇고 사죄하겠다. 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;A군은 지난해 12월 기소 이후 첫 재판이 열리기 전까지 10차례 넘게 법원에 반성문을 제출했고, 그의 부모도 40여 차례 탄원서를 내며 선처를 구한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;정 판사는 “A군 부모의 탄원서를 보면 A군이 다른 유사 사건 해결에 도움을 주고 검거까지 이어졌다고 하는데, 사실관계를 확인해 달라”고 A군 변호인 측에 요청했다. &lt;br&gt;&lt;br&gt;A군은 지난해 10월 13일부터 21일까지 자신이 다니는 인천 서구의 한 고등학교에 폭발물을 설치했다거나 설치할 예정이라는 글을 119안전신고센터에 7차례 올린 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A군은 지난해 9~10월 경기 광주와 충남 아산의 중·고등학교, 철도역 등에 폭발물을 설치했다는 협박 글을 온라인 커뮤니티에 올리기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 A군이 게시한 폭발물 협박 글이 모두 13건인 것으로 파악했다. &lt;br&gt;&lt;br&gt;인천경찰청은 A군에 대한 민사상 손해배상 청구를 추진 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘인보사 사태로 투자 손실’ 주주들, 손해배상 소송 1심 패소</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/05/L73BWDQNKJDR3BK7XC4QMP5QRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/L73BWDQNKJDR3BK7XC4QMP5QRI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 03:00:15 +0000</pubDate>
-      <content:encoded>‘인보사케이주(인보사)’의 성분 조작 사태로 투자 손실을 입었다며 개발사 코오롱티슈진 등을 상대로 손해배상 소송을 낸 주주들이 5일 1심에서 패소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사30부(재판장 김석범)는 이날 주주 총 1296명이 코오롱티슈진 등을 상대로 낸 합계 262억6500만원대 손해배상 청구를 기각했다. 이 재판부는 주주 192명이 코오롱 측을 상대로 낸 67억원대 손해배상 청구를 지난해 12월 기각했고, 또 다른 주주 302명이 제기한 85억원대 손해배상 청구 소송에서도 지난달 원고 패소로 판결한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6SCPD3VU3FNE5LEDO7NMOAAHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인보사 사태는 코오롱티슈진이 개발한 골관절염 치료제 인보사의 주성분이 국내 허가 과정에서 보고된 ‘연골 유래 세포’가 아니라 종양 유발 가능성이 있는 ‘신장 유래 세포’였다는 점이 핵심이다. 인보사는 2017년 7월 식약처의 허가를 받아 그해 11월 국내에서 판매를 시작했는데, 2년 뒤 미국 식품의약국(FDA) 3상 임상 시험 중 이 같은 사실이 드러난 것이다. 식약처는 2019년 인보사의 국내 허가를 취소했고, 코오롱티슈진 주가는 급락했다.&lt;br&gt;&lt;br&gt;재판부는 지난해 12월 주주들의 청구를 기각하면서 “인보사의 주성분이 다르다고 해서 효능이나 안전성에 본질적인 차이가 있다고 보기 어렵다”며 “코오롱티슈진이 투자 판단에 중대한 영향을 미치는 사항을 허위로 기재하거나 누락했다고 단정하기 어렵다”고 했다. 이날 1심 선고가 나온 재판에도 동일한 판단이 적용된 것으로 풀이된다.&lt;br&gt;&lt;br&gt;이 사태와 관련해 약사법 위반 등 혐의로 기소된 이웅열(70) 코오롱 명예회장에 대한 항소심 선고는 이날 오후 나온다. 이 회장과 임원들의 형사재판 1심 재판부는 지난 2024년 11월 이들에게 인보사 사태와 관련한 혐의를 무죄로 선고했다. 코오롱 측에서 인보사의 주성분을 고의로 속이거나, 이를 알고도 은폐했다고 볼 증거가 부족하다는 이유였다. 재판부는 이 회장이 2015년 FDA의 임상 중단 명령을 숨기고 코오롱티슈진의 코스닥 상장을 추진했다는 혐의도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘강도로 돌변’ 흉기 들고 고객 집 턴 농협 직원, 징역 7년 </title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/GUZMDY7PIFDNFMAX4NIHZDURZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/GUZMDY7PIFDNFMAX4NIHZDURZA/</guid>
-      <dc:creator>김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 02:40:30 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/443M6PK2TJEL5O7HQ7HIXN3WHU.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의정부시 가능동 의정부지방법원에서 강도상해 혐의로 구속영장이 청구된 30대 농협 직원 A씨가 구속 전 피의자 심문을 위해 법정으로 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고객 집에 침입해 흉기로 위협하며 금품을 훔친 경기 포천농협 직원이 실형을 선고받았다. &lt;br&gt;&lt;br&gt;의정부지법 형사11부(재판장 오창섭)는 5일 강도치상 혐의로 기소된 A(30대)씨에게 징역 7년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 작년 7월 28일 오전 4시쯤 경기 포천시 어룡동의 한 아파트 3층에 침입해 80대 부부를 흉기로 위협하며 케이블 타이로 묶은 뒤, 귀금속과 현금 2000만원을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 아파트 단지 주변 방범 카메라(CCTV)를 뒤져 A씨를 추적했고, 같은 날 낮 12시쯤 포천농협 한 지점에서 근무 중이던 그를 붙잡았다.&lt;br&gt;&lt;br&gt;체포 당시 A씨의 가방에서는 금 등 귀금속 약 70돈이 발견됐고, 현금 2000만원은 본인 계좌로 입금한 상태였다.&lt;br&gt;&lt;br&gt;A씨는 포천농협 창구 직원으로 일하며 80대 노부부가 현금 3억원을 인출한 사실을 알게 돼 범행을 계획한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;그는 아파트 외벽을 타고 올라가 흉기로 베란다 방충망을 찢고 집 안에 들어갔으며, 얼굴을 가리기 위해 검은색 모자와 마스크를 썼다. 범행에 사용한 케이블 타이는 범행 전 온라인에서 구입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨 측은 재판 과정에서 과거 특수부대에 근무하다 낙상으로 희소병의 일종인 복합 부위 통증 증후군(CRPS)에 걸려 고통에 시달려 왔고, 범행 직전에 불면증과 진통제로 인한 심신미약을 주장해왔다.&lt;br&gt;&lt;br&gt;하지만 재판부는 이를 받아들이지 않았다. 재판부는 “정신감정 의견 등을 보면 피고인이 주장하는 환각 등이 이 사건에 미친 영향은 없다고 볼 수 있다”며 “처벌을 면하기 위해 과도한 주장을 하고 있다고 보여 진정 반성하고 있는지 의심스럽다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “근무하던 은행에서 피해자의 재력을 알게 된 후 계획적으로 범행을 하는 등 죄질이 매우 좋지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아기가 왜 경찰서에?”...19개월 아이가 경찰 지구대 찾은 사연</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/M6BGRRLKBNFGVCR6CVJCFN2GXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/M6BGRRLKBNFGVCR6CVJCFN2GXY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 02:06:55 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZ4B6DXEFZEDNNXPSIHNC6RR3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아이가 회복한 후 경찰서를 방문한 모습./유튜브 '경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;열성 경련으로 호흡 곤란을 겪던 19개월 영아를 신속히 병원으로 이송한 경찰관에게 보호자가 직접 찾아와 감사 인사를 전했다. &lt;br&gt;&lt;br&gt;지난 3일 경찰청의 공식 유튜브 채널에는 통해 경기 고양시 도래울지구대를 찾은 30대 보호자와 아기의 모습이 담긴 영상이 올라왔다. 영상에는 경찰관들이 아이와 보호자를 맞이하며 함께 기념사진을 찍는 장면이 담겼다.&lt;br&gt;&lt;br&gt;이들이 지구대를 다시 찾은 데에는 2주 전의 일이 계기가 됐다. 보호자는 열성 경련 증세로 호흡이 가빠진 19개월 아기를 데리고 병원으로 이동하던 중 긴급 상황에 놓여 도움을 요청했다. 119 구급대의 도착이 지연되자 경찰에 환자 이송 협조 요청이 접수됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NS3ZF2IHFE5BMUGTE27NMO4XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰관이 아이와 함께 기념사진을 찍었다./유튜브 '경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출동한 경찰관들은 현장에서 아기 상태를 확인한 뒤 병원으로 급히 이동했다. 경찰은 약 4㎞ 거리를 4분 만에 주파해 병원에 도착했고, 이후 의료진의 치료로 아이는 건강을 회복한 것으로 전해졌다. 보호자는 이 같은 조치에 감사를 전하기 위해 아기와 함께 지구대를 찾았다.&lt;br&gt;&lt;br&gt;현장에 출동했던 정성인 고양 도래울지구대 경장은 당시 상황에 대해 “신고자가 운전석 뒤쪽에 (아기와 함께) 앉아 있었고, 아기 상태를 보니 호흡이 거칠고 몸에 힘이 풀린 상황이었다”며 “빨리 병원으로 옮기지 않으면 큰일이 나겠다는 생각이 들어 신속하게 병원으로 옮겼다”고 말했다.&lt;br&gt;&lt;br&gt;정 경장은 “보호자 분의 말씀으로는 아기가 갑작스러운 열성 경련을 보였고 진정되지 않아 급하게 신고를 했다고 하더라”며 “구급대가 멀어서 도착이 늦어진다고 했는데, 경찰이 먼저 와줘서 고맙다고 말해주셨다”고 전했다. 이어 “지구대에서 아기가 밝게 웃는 모습을 보니까 정말 다행이었다”며 “아이가 건강하게 자랐으면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘관악구 피자가게 살인’ 김동원, 1심 무기징역… “계획적 범행·비난 가능성 커”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/05/NDDGGYHK6JF5HAULKEKCE2OIZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/NDDGGYHK6JF5HAULKEKCE2OIZM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 01:47:18 +0000</pubDate>
-      <content:encoded>서울 관악구 한 피자가게에서 흉기를 휘둘러 3명을 살해한 혐의로 구속 기소된 김동원(41)씨에게 1심에서 무기징역이 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 5일 김씨에 대한 1심 선고 공판을 열고 이같이 선고했다. 앞서 검찰은 지난달 12일 결심 공판에서 김씨에게 사형을 구형한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRZIMC2WJ5C5PIJX4IOUDKKO4E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 오어진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피자 프랜차이즈 가맹점 주인 김씨는 지난해 9월 관악구 조원동(옛 신림8동) 자신의 가게에서 본사 임원과 인테리어 업자 부녀 등 3명을 칼로 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김씨는 매장 보수 공사를 두고 본사와 인테리어 업체가 보증 기간 만료를 이유로 무상 수리를 거절하자 갈등을 겪다 범행을 저지른 것으로 조사됐다. 사건을 넘겨받은 검찰은 보완 수사를 거쳐 지난해 10월 김씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;재판부는 이날 “피고인은 범행을 구체적으로 계획했고, 특히 A씨에 대한 살해는 당초 계획에 없었음에도 계획한 범행이 이뤄지지 않을 것을 염려해 (추가로) 저지른 점에서 비난 가능성이 매우 크다”고 밝혔다. 이어 “범행 당시 피해자들이 느꼈을 고통과 공포는 상당했을 것으로 보이고, 피고인은 피해자 유가족에게 용서받지도 못했다”며 “이 사건은 결과가 중대해 이에 상응하는 무거운 책임을 물을 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 김씨가 이 사건 이전에 극단적인 반사회적 성향을 보였다고 단정하기 어렵고, 재범 위험성에 대한 여러 차례 평가에서도 대부분 ‘중간 수준’으로 나타난 점 등을 고려해 형을 정했다고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 검찰은 김씨에게 사형을 구형하면서 “단란한 두 가정이 파탄에 이르렀고, 피해자들이 생명을 잃어 돌이킬 수 없는 피해가 발생했다”며 “인간의 생명을 침해한 살인죄를 엄중히 처벌해야 한다”고 했다. 김씨는 최후 진술에서 “피해자와 유족에게 진심으로 죄송하다”며 “평생 속죄하며 살겠다. 죄송하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“베트남 젊은 처녀 수입해 농촌 총각 장가” 진도군수 발언 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/6WJQLSGOMJFKLOKLPHBOM4L7RM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/6WJQLSGOMJFKLOKLPHBOM4L7RM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 02:26:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRGEMRUMY3TMNBTME4GKOJWGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;김희수 진도군수가 4일 전남 해남문화예술관에서 열린 광주·전남 행정통합 '찾아가는 타운홀미팅'에서 발언하고 있다. /목포 MBC 유튜브 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도군수가 인구 소멸 극복의 ‘해결책’과 관련, “스리랑카·베트남 처녀를 수입하자”고 주장해 논란이 일고 있다.&lt;br&gt;&lt;br&gt;4일 전남 해남문화예술회관에서 열린 ‘찾아가는 타운홀 미팅’에서 강기정 광주시장과 김영록 전남지사는 광주·전남 행정 통합과 관련해 군민들의 질문에 직접 궁금증을 해소해 주는 시간을 가졌다. 이날 행사는 생방송으로 중계됐다.&lt;br&gt;&lt;br&gt;김희수 진도군수는 이 자리에서 “전국 89개 인구 소멸 지역 중 20%가 우리 전남에 있다”며 “통합을 빌미로 소멸 위기를 해결할 수 있는 대응책을 법제화하는 게 좋을 것 같다”고 말했다. 이어 “2000년대부터 인구 절벽이 예견됐을 텐데 정부도, 학자도, 국회의원이셨던 두 분도 가만히 계셨다”며 “시·군의 열악한 형편으로는 자구책을 하려 해도 될 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;문제의 발언은 이후에 나왔다. 김 군수는 인구 소멸 해결책으로 “광주·전남이 통합을 할 때 인구 소멸에 대한 것도 법제화하자”며 “정 뭣하면 스리랑카나 베트남 젊은 처녀들 수입도 해 갖고 농촌 총각 장가도 보내고, 이런 특별 대책을 마련해야 한다”고 제안했다. 김 군수는 그러면서 “사람도 없는데 산업만 살리면 제대로 되겠냐”고 했다.&lt;br&gt;&lt;br&gt;김 군수의 ‘젊은 처녀 수입’ 발언 이후 장내에서는 웃음이 터졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TEYZYHE4TMMRSMYZWGY3BGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김희수 전남 진도군수가 4일 해남문화예술회관서 열린 '광주·전남 행정통합 찾아가는 타운홀미팅'에서 “스리랑카나 베트남 젊은 처녀들을 수입해 농촌 총각들 장가보내자”고 말하자 이에 강기정 광주시장이 손사래를 치고 있다. /목포MBC 유튜브 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 답변을 시작한 강 시장은 손사래를 치며 김 군수의 발언을 지적했다. 강 시장은 “제가 국회의원 하던 2004년 처음으로 저출생·고령사회기본법이 만들어져 수십 년간 돈은 돈대로 꼬라박았는데 잘 안 됐다”며 “여러 해법이 있을 수 있는데 아까 외국인, 결혼·수입 이건 잘못된 이야기”라고 했다. 그러면서 “지역에 산업이 있어야 출생률도 인구도 늘어난다”며 “결국 산업을 키워야 한다”고 했다.&lt;br&gt;&lt;br&gt;산업 육성 중심의 통합으로는 농어촌 인구 감소 문제를 해결할 수 없다는 취지의 문제 제기였지만, 외국인을 수입 대상으로 표현하고 특정 국가를 거론했다는 점에서 일부 참석자 사이에서도 비판이 제기됐다. 한 참석자는 “아무리 그래도 표현이 지나쳤다. 다문화·인권·성인지 감수성이 부족한 발언”이라고 했다. 다른 참석자는 “외국인을 노동력이나 결혼 대상자로만 바라보는 시각이 그대로 드러났다. 지역 미래를 다루는 공론의 장에서 언어 선택에 신중했어야 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한국은 솔로지옥, 해외로 갈래요</title>
@@ -919,37 +945,6 @@
       <pubDate>Wed, 04 Feb 2026 15:54:00 +0000</pubDate>
       <content:encoded>직장인 조모(35)씨는 작년 연말 일본 도쿄 신주쿠를 찾았다. 관광 목적이 아니었다. 그는 이곳에서 이틀간 머물며 일본 여성 20여 명과 소개팅을 했다. 항공권과 숙박비, 참가비 등을 합쳐 100만원 넘게 썼다. 그 결과 조씨는 지금 열한 살 연하의 일본 여성과 연애 중이다. 그는 “한국 여성과 사귈 때는 이도 저도 아닌 관계란 기분이 들거나 관계를 발전시키기가 조심스러울 때가 많았는데 일본 여성과는 뭔가 마음이 통한다는 느낌을 받았다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXX3L5NUFFDIBOFRSUYUAMXYOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 독자 제공
 한국 남성·일본 여성, 도쿄서 소개팅  도쿄에서 한국인 남성과 일본인 여성이 소개팅을 하고 있다. 최근 국제 연애에 관심을 갖는 20·30대가 증가하면서 이런 소개팅에 신청자가 몰리고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 ‘국제 연애’에 관심을 갖는 한국 20·30세대가 늘고 있다. 한국인 이성 상대와 교제하는 데 어려움을 겪는 젊은 층 사이에서 외국인 이성이 돌파구로 떠오른 것이다. &lt;br&gt;&lt;br&gt;이런 바람을 타고 외국인 이성과의 교제를 알선하는 업체도 성업 중이다. 조씨가 이용한 업체는 지난해 2월부터 ‘일본 원정 소개팅’을 주선 중이다. 지금까지 2000여 명의 신청자가 몰렸다고 한다. 실제 짝을 찾아 일본으로 건너간 400여 명 중 약 40%가 마음에 드는 이성과 맺어져 서로를 알아가고 있다고 업체 측은 밝혔다. 업체 대표 황규하(35)씨는 “올여름엔 일본인이 한국을 찾는 역주행 소개팅도 계획 중”이라고 했다.&lt;br&gt;&lt;br&gt;지난 1일 서울 성동구의 한 대여 공간에서는 다국적 남녀 12명이 모여 이른바 ‘로테이션 소개팅’을 했다. 참가자 국적은 한국, 미국, 모로코, 필리핀 등이었다. 15분마다 상대를 바꿔가며 영어와 한국어를 섞어 “국제 연애 경험이 있느냐” “외국인과 결혼할 마음이 있느냐” 같은 질문을 주고받았다. 참가자 윤모(31)씨는 “연애를 해보니 한국 남성은 성격이나 생활 패턴이 잘 안 맞았다”며 “일을 하며 외국인을 접할 기회가 많다 보니 자연스레 외국인 이성을 찾게 됐다”고 했다.&lt;br&gt;&lt;br&gt;손뼉도 마주쳐야 소리가 나는 법. K콘텐츠 바람을 타고 외국인의 한국인에 대한 호감이 높아진 것도 젊은 층 사이에서 국제 교제 바람이 이는 것과 관련이 있다. 한국인과의 집단 소개팅에 참가한 미국인 A(28)씨는 한국에서 영어 강사로 일하고 있다. A씨는 “한국 여행을 왔다가 고궁과 한국 소설의 매력에 빠져 정착했는데 이제는 한국에서 연인을 만나고 싶다”고 했다. 양난미 경상대 심리학과 교수는 “과도한 경쟁으로 인한 비교와 서열화에 지친 한국 청년들이 국제 교제를 대안으로 찾는 측면도 있어 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>설 앞두고 알부민 과장 광고 극성… 식약처는 손 놓고 있어</title>
-      <link>https://www.chosun.com/medical/2026/02/05/QVLDRXMVIBAPFEMDVR4ZJIHGVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/02/05/QVLDRXMVIBAPFEMDVR4ZJIHGVM/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Feb 2026 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWT6AWYEH5ANJINYNFTPEW3C4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;간에서 생성된 알부민은 위와 장에서 분해된 각종 영양소를 우리 몸 전체로 배달하며 독성 물질까지 흡착한다. /게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 간질환자를 보는 대학병원 소화기내과 외래 진료실에서 환자 열 명 중 대여섯이 “알부민을 먹어야 하느냐”고 의사에게 묻는다고 한다. 어떤 이는 알부민 제품을 가지고 와서 의사에게 보여준다. 의사들은 한결같이 “식품 알부민 먹어도 체내 알부민은 올라가지 않아요. 비싼 돈 들여 먹지 않아도 돼요”라고 말한다. &lt;br&gt;&lt;br&gt;홈쇼핑, 광고, 일부 방송 프로그램에서 알부민 제품 홍보가 폭발적으로 늘면서 벌어지는 현상이다. 요즘 특히 설날을 앞두고 어르신 선물용으로 알부민 광고와 선전이 극성을 부리고 있다.&lt;br&gt;&lt;br&gt;의약 전문가들은 계란 흰자위나 유청 단백질로 만든 식품을 의사나 한의사, 방송인이 등장해 핏속에서 돌아다니는 혈장 알부민 기능과 교묘히 연결해 홍보하는 지금의 상황은 ‘대국민 사기’에 가깝다고 지적한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNSVVVBK7FA4NLXCXRZYA4O4RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;핏속에 있는 혈장 알부민은 영양소와 호르몬을 운반하고 혈관 내 삼투압을 유지하며 면역 기능에도 관여한다. 의학적으로 맞는 설명이다. 하지만 알부민 식품 광고와 방송에서는 “나이가 들면 이런 알부민이 줄어든다”, “기력이 떨어지면 알부민을 보충해야 한다”는 말을 덧붙이며 식품 알부민 섭취를 권한다. 그러면 소비자는 그렇게 중요한 혈장 알부민 보충을 위해 식품 알부민을 먹어야겠구나 하고 인식하게 된다.&lt;br&gt;&lt;br&gt;하지만 혈장 알부민과 식품 알부민은 별개다. 혈장 알부민은 간에서 합성돼 혈액으로 들어가는 단백질이다. 반면 시중에서 판매되는 식품 알부민은 섭취 후 소화 과정에서 아미노산으로 분해되어 흡수되기 때문에 먹은 알부민이 혈중 알부민으로 전환되는 일은 극히 드물다.&lt;br&gt;&lt;br&gt;혈중 알부민 수치가 낮아지는 경우도 매우 드물다. 기력이 떨어진 노인이더라도 혈장 알부민 수치는 거의 모두 정상 범위에 있다. 혈장 알부민 농도가 떨어지는 경우는 간경화, 투석이 필요한 만성 신부전, 중증 염증처럼 중대한 질환이 있을 때뿐이다. 그러기에 의약전문가들은 “기력이 떨어지면 알부민을 먹어서 보충하라”는 선전에 “거의 사기”라는 표현을 쓰는 것이다.&lt;br&gt;&lt;br&gt;알부민 식품 과대·과장 광고가 성행하고 있음에도 식품의약품안전처는 단속 대응 계획이 없다. 상·하반기 정기 점검이라는 원론적 답변만 반복하고 있다. 지난해 국정감사에서 알부민 식품이 의약품처럼 오인되는 과장 광고에 대한 문제 지적이 있었음에도 식약처 대응이 미지근하니, 지금과 같은 알부민 대국민 사기가 성행하고 있다는 지적이다. 그사이 소비자 피해만 늘고 있다.&lt;br&gt;&lt;br&gt;대한의사협회는 “의사라면 혈장 알부민과 식품 알부민은 별개라는 것을 알고 있을 텐데, 방송에 나와 이런 얘기는 하지 않고, 알부민 광고와 선전에 동조하는 태도를 보이는 것은 윤리적으로 문제”라며 “이런 ‘쇼닥터’ 행태를 짚어보겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 김경 “난 계좌이체도 잘 못할 만큼 순진”</title>
-      <link>https://www.chosun.com/national/incident/2026/02/05/UE5N5DWZONEEJNF6Q54GZ6QU6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/05/UE5N5DWZONEEJNF6Q54GZ6QU6I/</guid>
-      <dc:creator>안상현 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Feb 2026 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7F4EFH5PNAHPPTHWT7LYFZTEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당의 시의원 공천을 받기 위해 현역 의원에게 뇌물을 준 혐의로 수사를 받고 있는 김경(61) 전 서울시의원이 경찰 조사에서 “나는 학교에만 오래 있어 세상 물정 모르는 순진한 사람”이라고 진술한 것으로 4일 알려졌다. 김씨는 2018년 민주당 소속 비례대표 서울시의원에 당선될 때까지 서울의 한 전문대 교수를 지냈다. 김씨가 범행의 계획성이나 고의성을 희석해 처벌 수위를 낮추려는 전략을 쓰고 있다는 분석이 나온다. &lt;br&gt;&lt;br&gt;김씨는 최근 서울경찰청 공공범죄수사대 조사에서 “나는 혼자서는 계좌 이체도 잘 못하는 사람”이라고 진술했다고 한다. 김씨는 2022년 6월 지방선거를 앞두고 서울 강서구 제1선거구의 민주당 시의원 후보로 공천받기 위해 강선우(서울 강서갑) 의원에게 1억원을 준 혐의로 한 달간 수사를 받아왔다. 이 과정에서 김씨가 2023년 10월 강서구청장 보궐선거를 앞두고 구청장 공천을 받기 위해 민주당 실세 의원들에게 로비를 시도한 정황도 드러났다.&lt;br&gt;&lt;br&gt;김씨는 경찰에 “순진하게 정치 브로커에게 당한 것”이라는 취지로 진술한 것으로 전해졌다. 그러나 경찰은 김씨 진술에 무게를 두지 않고 있는 것으로 알려졌다. 김씨가 강 의원에게 1억원을 전달했다가 반환받은 뒤로도, 차명 후원금 형태로 추가 금품 로비를 시도한 정황이 포착됐기 때문이다. 김씨가 가족 회사 비위 의혹과 관련해 주도적으로 개입했음을 의심케 하는 정황도 불거졌다. 김씨 가족 회사 회계·세무를 맡았던 인사는 최근 본지에 “김경씨가 직접 남동생 둘을 데리고 찾아와 함께 가족 사업을 한다고 소개했고, 세금 같은 비용 처리 문제도 직접 전화해 물었다”고 했다. 당시 그는 자신을 ‘김현 재무이사’라고 소개했다고 한다. 서울시의회가 지난달 21일 경찰에 제출한 시의회 PC에선 김씨 가족 회사 5곳의 세금 계산서도 발견됐다. 김씨를 보좌하던 정책지원관이 쓰던 이 PC에선 김씨가 민주당 관계자들과 통화하면서 현역 의원들에게 공천 뇌물을 전달하는 방안을 논의하는 녹음 파일도 발견됐다.&lt;br&gt;&lt;br&gt;김씨는 강 의원으로부터 1억원을 돌려받은 뒤인 2022~2023년 두 차례에 걸쳐 10여 명의 고액 후원금 형태로 1억3000만원을 ‘쪼개기 후원’ 형태로 다시 강 의원실 계좌로 입금한 정황을 경찰이 포착했다. 이와 관련, 김씨는 최근 경찰 조사에서 “강 의원이 먼저 (쪼개기) 후원금 형태로 돈을 다시 보내달라고 요청했다”고 진술한 것으로 전해졌다. 이와 같은 취지의 보도가 나오자 강 의원은 페이스북 글에서 “(김씨에게) 후원금을 요구한 사실이 전혀 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양승태 ‘2심유죄’가 만든 심각한 결론… 사법행정이 재판개입 가능하다?</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/05/QOC3XDPA4VBDZP3CVEUD2KCUAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/QOC3XDPA4VBDZP3CVEUD2KCUAI/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Feb 2026 18:00:00 +0000</pubDate>
-      <content:encoded>양승태 전 대법원장이 ‘사법행정권 남용’ 혐의로 기소된 사건에서 항소심에서 일부 유죄를 선고받았습니다. 47개 혐의 전부에 대해 무죄를 선고했던 1심 판단이 뒤집히며, 두 개 혐의가 유죄로 인정됐습니다. 이에 따라 양 전 대법원장과 박병대 전 법원행정처장에게 각각 징역 6개월, 집행유예 1년이 선고됐습니다.&lt;br&gt;&lt;br&gt;이 사건은 출발부터 논란이 컸습니다. 사법행정 영역을 형법으로 처벌할 수 있는지, 다시 말해 &lt;mark class="hl_tblue"&gt;‘재판 개입’이라는 행위를 형법상 직권남용으로 구성할 수 있는지가 근본 쟁점&lt;/mark&gt;이었습니다. 그동안 법원 안팎에서는 “법리적으로 성립하기 어려운 사안을 무리하게 형사처벌로 끌고 간 사건”이라는 평가가 적지 않았습니다. 문재인 정부 시기 ‘사법 개혁’ 기조 속에서, 김명수 대법원이 검찰 수사를 통해 전임 사법부를 정리하려 했다는 의심도 따라붙었습니다. 검찰 수사는 서울중앙지검이 맡았는데 당시 서울중앙지검장은 윤석열 전 대통령, 수사책임자인 지검 3차장 검사는 한동훈 전 국민의힘 대표였습니다.&lt;br&gt;&lt;br&gt;그런 의미에서 2심의 ‘일부 유죄’ 판단은 단순한 결론 변경이 아닙니다. 사건 성격 자체를 다시 규정한 판결이라는 점에서 의미가 있습니다. 과연 항소심은 어떤 논리로 1심 판단을 뒤집었고, 그 논리는 법적으로 설득력이 있는지 짚어보겠습니다.&lt;br&gt;&lt;br&gt;양 전 대법원장과 박병대·고영한 전 법원행정처장 등에게 적용된 47개 혐의 핵심은 ‘재판 개입’이었습니다. 강제징용 손해배상 사건, 한정위헌 취지의 위헌법률심판 제청 사건, 통합진보당 의원직 상실 사건 등 개별 재판에 관여해 직권을 남용했다는 혐의입니다.&lt;br&gt;&lt;br&gt;1심 재판부(재판장 이종민·임정택·민소영) 결론은 명확했습니다. “사법행정권자에게는 개별 재판에 개입할 법적 권한이 없다. 따라서 남용할 ‘직권’ 자체가 존재하지 않으므로 형법 제123조 직권남용죄는 성립할 수 없다”는 것입니다.&lt;br&gt;&lt;br&gt;직권남용죄는 이럴 때 성립합니다.&lt;br&gt;&lt;br&gt;&lt;mark class="hl_tblue"&gt;1심은 이 중 첫 단계에서 범죄 성립을 부정했습니다.&lt;/mark&gt; 아무리 대법원장이나 법원행정처장이라 하더라도 재판에 개입할 일반적 직무 권한은 헌법상 인정될 수 없으며, 그렇다면 ‘남용’의 대상이 되는 직권도 없다는 논리였습니다.&lt;br&gt;&lt;br&gt;하지만 2심 재판부(재판장 박혜선·오영상·임종효)는 이 중 두 개를 뒤집었습니다. 사법행정권자 직무 권한을 더 넓게 본 겁니다.&lt;br&gt;&lt;br&gt;2심은 “사법행정권자는 국회·헌법재판소 등 대외 관계 업무를 수행하기 위해 법관 등을 상대로 정보 제공이나 협조를 요청할 일반적 직무 권한을 가진다”고 판단했습니다. 그리고 이 일반적 권한이 형식적으로는 사법행정 외관을 띠지만, 실질적으로 재판에 영향을 미치는 방향으로 행사될 경우 직권남용이 될 수 있다고 봤습니다.&lt;br&gt;&lt;br&gt;이런 논리에 따라 2심은 두 가지 사안을 유죄로 인정했습니다.&lt;br&gt;&lt;br&gt;2015년 서울남부지법은 사립학교 교직원연금법 일부 조항에 대해 ‘한정위헌’ 취지 위헌법률심판 제청을 결정했습니다. 이에 대해 이규진 당시 대법원 양형위 상임위원(고법 부장판사)이 재판장에게 연락해 제청 결정을 취소해 달라고 요청한 일이 있었습니다.&lt;br&gt;&lt;br&gt;‘한정위헌’은 대법원과 헌법재판소가 오랫동안 충돌한 영역입니다. 대법원은 법률을 특정 방향으로 해석할 경우 위헌이라고 하는 한정위헌은 법원의 법 해석 권한을 침해한다는 입장이고, 헌재는 한정위헌은 위헌 결정의 한 형태로서 문제가 없다고 주장해 왔습니다. &lt;br&gt;&lt;br&gt;이런 상황에서 대법원이 불편해하는 ‘한정위헌’ 판단을 일선 재판장이 헌재에 구하자 행정처가 나서서 이 위원을 통해 이를 취소시켰다는 판단입니다.&lt;br&gt;&lt;br&gt;1심도 이 같은 사실관계는 인정했습니다. 다만 “재판에 개입할 권한은 헌법상 존재하지 않는다”는 법리적 이유로 역시 무죄를 선고한 바 있습니다. 반면 2심은 이 위원 연락 행위가 외형상 헌재 관련 대외 업무로 보이지만, 실질적으로는 재판 결과에 영향을 미치려는 개입이라고 판단했습니다. 그리고 양 전 대법원장 등이 이를 보고받고 인지한 점을 들어 공모·관여를 인정했습니다.&lt;br&gt;&lt;br&gt;헌법재판소 정당 해산 결정 이후, 구 통합진보당 의원들이 “의원 지위를 확인해 달라”며 제기한 소송도 문제가 됐습니다. 1심은 법원의 판단 권한이 없다는 이유로 소를 각하했습니다.&lt;br&gt;&lt;br&gt;그런데 이민걸 전 법원행정처 기획조정실장이 항소심 재판장을 만나 “의원직 상실 여부에 대한 판단 권한은 사법부에 있다”는 취지의 행정처 문건을 전달했습니다. 2심은 이를 판단 방향을 유도하는 재판 개입으로 봤습니다. 이 역시 “직무 집행의 외관을 띠었지만 실질은 재판 개입”이라는 논리입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALVWJJUCTNA67FVFELCYAJDMKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'사법농단' 의혹을 받는 양승태 전 대법원장이 30일 서울 서초구 서울고등법원에서 열린 직권남용 권리 행사 방해 혐의 2심 선고 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2심 논리에 대해 법원 내부에서는 적지 않은 의문을 제기합니다. 이 논리를 받아들이면 사법 행정이 재판에 관여할 수 있는 여지를 전제로 인정하는 셈이 되기 때문이란 겁니다. 즉 대법원 양형위원이 일선 재판장에게 전화를 걸어 ‘위헌제청 결정을 취소해 달라’고 하는 행위 등을 ‘일반적 직무 권한’ 행사로 보게 되면 그 자체로 사법 행정 재판 개입 가능성을 인정하게 된다는 자기 모순에 빠집니다. 2심이 ‘외형적으로 직무 권한을 행사하는 모습’을 근거로 ‘직권’을 너무 쉽게 인정한 게 아니냐는 비판도 있습니다.&lt;br&gt;&lt;br&gt;한 법원장 출신 변호사는 “대법원 판례가 말하는 직권은 ‘법령에 의해 부여된 구체적·현실적 권한’이지, 조직 내 상급자라는 지위에서 발생하는 사실상 영향력을 의미하지 않는다”고 지적합니다. 법원행정처 차장 등이 전화를 걸었거나, 공문을 보냈다고 해서 이를 ‘직무집행의 외관’으로 볼 수는 없다는 말입니다.&lt;br&gt;&lt;br&gt;또 형법 체계상으로도 &lt;mark class="hl_tblue"&gt;직권이 있는지 따진 후 → 직권을 남용했는지 따져야 하는데&lt;/mark&gt;, 남용이 예상된다는 이유로 소급해 직권의 존재를 인정하는 것은 오류라는 지적이 나옵니다. 이런 사고방식으로는 “나쁜 의도가 보이면 직권은 있었던 것으로 본다”는 무리한 결론에 도달하는 셈입니다. 한 현직 판사는 “(논리를 억지로 꿰맞추기보다)차라리 사법 독립을 보장하기 위해 이런 사례는 무조건 처벌해야 한다고 하는 게 솔직한 거 아니냐”고 반응합니다.&lt;br&gt;&lt;br&gt;물론 사법행정권자가 특정 사건 판사들에게 연락한다거나 이미 이뤄진 결정을 취소해 달라고 하는 건 사법권 독립을 침해하는 행위입니다. 그렇지만 이를 형법의 ‘직권남용’으로 처벌하는 건 또 다른 차원입니다. 의도가 의심스럽다는 이유로 ‘직무 권한’ 범위를 넓히면 법원장이 사건을 맡은 판사에게 전화를 걸거나, 서류 송부를 요청하는 행위도 ‘직무 권한’ 범위로 인정하는 격이 됩니다.&lt;br&gt;&lt;br&gt;다만 직권의 범위가 정해져 있는 게 아니기 때문에 이런 식으로 탄력적으로 해석할 수 있다는 견해도 있습니다.&lt;br&gt;&lt;br&gt;이 논란은 결국 대법원에서 정리될 것으로 보고 있습니다. 대법원은 지난 2021년 신광렬 전 중앙지법 형사수석부장 ‘재판 개입 의혹’ 사건에서 사법행정권자가 재판에 개입하는 직무 권한은 존재하지 않는다는 판결(주심 천대엽 대법관·전 법원행정처장)을 내놓은 바 있습니다. 법원장, 대법원장이라고 하더라도 ‘재판 개입’ 직권남용은 불가능하다는 겁니다.&lt;br&gt;&lt;br&gt;그럼에도 이번 2심은 이 대법원 판결에 대해 “일반적이고 확립된 판례로 보기 어렵다”면서 유죄를 선고했습니다. 사실상 상급심 판단을 부정한 셈입니다. 신 전 부장 사건은 1-2-3심이 모두 무죄를 선고했지만, 이번엔 1심 무죄, 2심 유죄로 판단이 달라졌습니다.&lt;br&gt;&lt;br&gt;이제 앞으로 있을 이 사건에 대한 대법원 판결은 단순히 한 전직 대법원장의 유무죄를 넘어, 사법행정 한계와 형사처벌 경계선을 어디에 그을 것인지라는 한국 사법사의 중요한 질문을 다시 던지고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MWMF6YQH35D2HHPBBFIYAZUAXE.jpg?auth=31b7f729cf1cf16009f0a8c45b9265484d2777391a0decb78e2c9fac7fa42dd9&amp;smart=true&amp;width=3840&amp;height=2160" type="image/jpeg" height="2160" width="3840">
-        <media:description type="plain">일러스트=조선디자인랩·Midjourney</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
