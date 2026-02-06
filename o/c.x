@@ -13,6 +13,52 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[기자의 시각] 항소 포기도 ‘내로남불’인가</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/VHUA5E76OBDONIWJ2X2O2JXPQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/VHUA5E76OBDONIWJ2X2O2JXPQ4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 14:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4TSNJSGYZWMYRSHBRTGNLGMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령은 지난 5일 새벽 0시 46분 소셜미디어에 “법리상 되지도 않는 사건으로 나를 엮어 보겠다고 녹취록을 변조까지 해서 증거로 내더니”라는 글을 남겼다. 4일 오후 검찰이 ‘위례 신도시 개발 비리 의혹’ 사건으로 1심에서 무죄를 선고받은 민간업자들에 대한 항소를 포기한 직후였다.&lt;br&gt;&lt;br&gt;이 대통령은 대장동 개발 비리 사건을 비롯해 그 ‘예행연습’으로 알려진 이 사건에도 연루돼 별도로 기소된 상태다. 그런데 이 대통령 자신이 관련된 사건에 대해 검찰이 항소를 포기하자 직접 ‘당연한 결과’라는 취지의 생각을 밝힌 것이다.&lt;br&gt;&lt;br&gt;이 대통령은 취임 이후 줄곧 검찰의 항소 관행을 비판해왔다. 검찰이 무죄 판결이 나오면 면책을 위해 기계적으로 항소하고, 그 과정에서 재판받는 국민만 고통받게 된다는 것이다.&lt;br&gt;&lt;br&gt;검찰이 이런 이 대통령의 눈치를 본 것일까. 검찰은 지난해 11월 ‘대장동 사건’ 1심 판결에 대한 항소를 포기했고, 지난 4일에는 ‘위례 사건’과 조현옥 전 청와대 인사수석 사건에 대해서도 항소하지 않기로 했다. 조 전 수석은 문재인 정부 시절 이상직 전 더불어민주당 의원의 중소벤처기업진흥공단 이사장 임명 과정에 부당하게 개입한 혐의로 기소됐지만, 1심 재판부는 지난달 그에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;그러나 법조계에서는 검찰이 1심 결과에 대해 항소하는 것을 ‘기계적 항소’로 보는 시각은 많지 않다. 2심에서조차 무죄 판결이 나온 사건을 다시 대법원에 상고하는 경우와는 달리, 1심 무죄 판결에 대해 1심과 같은 사실심인 2심 판단을 한번 더 구해보는 것은 지극히 자연스러운 형사 절차이기 때문이다. 사실심이란 재판부가 검사의 공소 사실을 인정할지 여부 등을 따져보는 것을 말한다. 특히 ‘위례 사건’의 1심 재판부가 판사 한 명으로 구성된 단독 재판부였던 점을 감안하면 다른 재판부의 사실관계 판단을 추가로 구해볼 필요성이 충분했다는 법조계 의견도 많다.&lt;br&gt;&lt;br&gt;민중기 특별검사는 김건희 여사의 주가조작·정치자금법 위반 혐의에 대해 1심 재판부가 지난달 28일 무죄를 선고하자 즉각 항소했다. 또 김 여사에게 샤넬백 등을 건넨 혐의 등으로 기소된 윤영호 전 통일교 세계본부장의 경우도 1심 재판부가 무죄 판단한 혐의에 대해선 모두 항소했다. 이 대통령 기준으로는 특검이 ‘기계적 항소’로 평가될 수 있는 관행을 되풀이한 셈이다.&lt;br&gt;&lt;br&gt;그런데 이 대통령은 민중기 특검의 항소에는 침묵하고 있다. 자신과 여권 인사가 관련된 사건에 대한 항소 포기는 당연하다고 여기면서도, 지난 정부 관계자들을 수사한 특검의 항소는 문제 삼지 않는 것이다. 검찰의 항소 관행에 관한 이 대통령 주장이 힘을 얻으려면, 특검이 ‘기계적 항소’를 해 국민에게 고통을 준 것은 아닌지 대통령이 답해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PGEUWZXBKFA77G55DBYTAJSBBU.png?auth=51d400c8c92639fdc9af8b295d09dc3e3c204a3dec4fe4a5561448b0b5187b70&amp;smart=true&amp;width=500&amp;height=500" type="image/png" height="500" width="500"/>
+    </item>
+    <item>
+      <title>‘조수석 사망 사고’ 가해 운전자, 4일 뒤 다른 교통사고로 사망</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/06/4BMABNKP7JH7BBSTY2O7ULCGTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/4BMABNKP7JH7BBSTY2O7ULCGTY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 14:24:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSTOZBVGUZDSMZTGU2GMM3DMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 발생한 사고로 파손된 차량. /안성소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화물차에 대형 크레인을 싣고 운행하다가 국도의 중앙분리대 구조물을 들이받아 반대 차로의 차량 조수석 탑승자를 숨지게 한 혐의를 받던 화물차 운전자가 또 다른 교통사고로 사망했다.&lt;br&gt;&lt;br&gt;6일 경찰에 따르면 이날 오전 1시 28분쯤 경기도 화성시의 한 교량 부근에서 50대 A씨가 몰던 승합차가 교량 표지석을 들이받았다. A씨는 병원으로 이송됐으나 숨졌다. 당시 차량에는 A씨 혼자 타고 있었고 다른 인명 피해는 없었다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 숨진 A씨는 4일 전 경기도 안성에서 반대 차로 차량 조수석 탑승자를 숨지게 한 사고를 낸 운전자로 확인됐다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 2일 안성의 한 국도에서 화물차에 대형 크레인을 싣고 운행하다가 중앙분리대를 충격하는 사고를 냈다. &lt;br&gt;&lt;br&gt;사고 충격으로 중앙분리대에 설치된 철판 형태의 방현망(전조등 불빛 눈부심 방지 시설)이 꺾인 채 돌아가 반대편에서 달려오던 쏘렌토 차량과 부딪혔다.&lt;br&gt;&lt;br&gt;이 사고로 쏘렌토 차량 조수석에 타고 있던 운전자의 아내 50대 여성 B씨가 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 이 사고로 경찰에서 1차 조사를 받은 뒤 2차 조사를 앞둔 상태에서 이날 새벽 단독 교통사고로 사망한 것이다. 경찰은 A씨가 사망함에 따라 안성 교통사고 사건을 ‘공소권 없음’으로 종결할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 김인택 부장판사 ‘청탁금지법 위반’ 혐의 약식기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/06/XW7J33455RGZ5FRXKP23WB46LI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/XW7J33455RGZ5FRXKP23WB46LI/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 12:29:20 +0000</pubDate>
+      <content:encoded>검찰이 김인택 창원지법 부장판사를 청탁금지법 위반 혐의로 약식 기소했다. 김 부장판사는 정치자금법 위반 등 혐의로 재판을 받는 정치 브로커 명태균씨와 김영선 전 국민의힘 의원 1심의 재판장이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSDQN3BGFRTSYJXHFRTANTDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 서울중앙지검 관계자는 “지난 4일 김 부장판사를 청탁금지법 위반 혐의로 약식기소했다”고 밝혔다. 김 부장판사는 HDC신라면세점의 A팀장이 회사 법인카드를 이용해 구입한 수백만원대 명품 의류를 지난해 2~5월 사이 A팀장으로부터 건네받은 혐의를 받고 있다. 또 A팀장은 김 부장판사의 해외여행에도 두 차례 동행한 것으로 알려졌는데, 이를 두고 A팀장이 여행 경비를 대신 내준 것 아니냐는 접대 의혹이 제기되기도 했다.&lt;br&gt;&lt;br&gt;청탁금지법에 따르면, 판사 등 공무원이 한 번에 100만원 이상의 금품을 받은 경우에는 3년 이하의 징역 또는 3000만원 이하의 벌금형에 처해진다. 다만 서울중앙지검은 김 부장판사의 구체적인 금품 수수 금액에 대해서는 밝히지 않았다.&lt;br&gt;&lt;br&gt;김 부장판사는 사법연수원 26기로 서울중앙지법 부장판사, 서울동부지법 부장판사 등을 거쳐 창원지법에서 이른바 ‘명태균 게이트’ 사건의 1심 재판장을 맡았다. 그는 지난 5일 명씨와 김영선 전 의원의 정치자금법 위반 혐의에 대해 무죄를 선고했다. 김 부장판사는 이후 이날 발표된 대법원 법관 인사에서 수원지법 부장판사로 전보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 완도 노화도 인근서 양식장관리선 전복…승선원 1명 실종 </title>
+      <link>https://www.chosun.com/national/incident/2026/02/06/6JI45PAPIJHLZL7SWZVEFQBCYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/06/6JI45PAPIJHLZL7SWZVEFQBCYI/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 10:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2TSMZWMY3DCZRQGZTDINDCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완도 노화도 양식장관리선 전복. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오후 5시 13분쯤 전남 완도군 노화도 인근 해상에서 양식장관리선 A호(2.3t)가 전복돼 발견됐으며, 이 사고로 승선원 1명이 실종됐다.&lt;br&gt;&lt;br&gt;완도해양경찰서에 따르면, A호는 완도군 흑일도에서 출항해 보길도 정도리항으로 입항할 예정이었으나 연락이 끊겼다. 해경은 신고를 받고 수색에 나서 노화도 북서쪽 약 2.8㎞ 해상에서 전복된 선박을 발견했다.&lt;br&gt;&lt;br&gt;해경은 전복된 선체 위로 올라가 내부 생존 여부를 확인하기 위해 선체 타격 신호를 보냈으나 반응은 없었다. 현재까지 승선원 1명은 실종 상태다.&lt;br&gt;&lt;br&gt;사고 해역에는 강풍주의보가 내려진 가운데 강한 바람과 높은 파도가 이어져 수색 여건이 좋지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해경은 선체 내부 수색과 함께 사고 해역을 중심으로 가용 세력을 총동원해 해상 수색을 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 진주 시멘트 공장서 LNG 폭발 화재…직원 11명 부상</title>
+      <link>https://www.chosun.com/national/incident/2026/02/06/JA642VGPZVCAVPQXTSIQP64BWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/06/JA642VGPZVCAVPQXTSIQP64BWM/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Feb 2026 10:42:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3TANRRGM3TKNZSMY2DKNBYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 진주시 진성면 공장 화재 및 산불 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오후 3시 33분쯤 경남 진주시 진성면의 한 시멘트 기둥 제조 공장에서 액화천연가스(LNG) 폭발로 인한 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 공장 직원인 30대 남성 1명이 중상을 입었고, 다른 직원 10명이 경상을 입었다. 부상자들은 모두 생명에는 지장이 없는 것으로 전해졌다. 당시 공장에 있던 직원 수십 명은 스스로 대피했다.&lt;br&gt;&lt;br&gt;‘공장에서 가스가 폭발했다’는 신고를 받고 출동한 소방당국은 장비 41대와 인력 163명을 투입해 약 2시간 만인 오후 5시 49분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;폭발로 인한 화재는 공장 인근 야산으로도 번져, 같은 날 오후 3시 56분쯤 산불로 이어졌다. 산림당국은 진화 인력 146명과 헬기 7대, 차량 38대를 동원해 약 1시간 만에 주불을 잡았다.&lt;br&gt;&lt;br&gt;경찰은 시멘트 양생기에 열을 가하던 중 내부 압력이 높아지면서 양생기 덮개가 떨어져 날아갔고, 이 덮개가 인근 LNG 탱크를 충격해 폭발이 발생한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 폭발 및 화재 원인과 재산 피해 규모를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의대 증원 10일 최종 결정...580명 안팎 유력</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/02/06/GOZTPUU2TBGALNYRMRPRVUDAEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/06/GOZTPUU2TBGALNYRMRPRVUDAEU/</guid>
@@ -873,15 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTGGM3GHBQTGZRXMY4TCNRWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태흠 충남지사와 국민의힘 장동혁 대표. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태흠 충남지사는 5일 여야 지도부를 만나 통합 특별시에 과감한 재정·권한을 이양해 줄 것을 요청하고 나섰다.&lt;br&gt;&lt;br&gt;김 지사는 이날 국회를 방문해 국민의힘 장동혁 대표, 더불어민주당 한병도 원내대표, 민주당 한정애 정책위의장, 신정훈 국회 행정안전위원장 등을 차례로 만났다.&lt;br&gt;&lt;br&gt;김 지사는 이 자리에서 “행정 통합은 수도권 일극화를 막고 균형 발전을 이끌 국가 생존 전략”이라며 “광역 통합이 성공하려면 중앙이 쥐고 있는 재정·권한의 과감한 이양이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “여당안대로 재정 이양 시 국세·지방세 비율은 71대29로, 이재명 대통령이 신년 기자회견 때 약속한 65대35에도 미치지 못한다”고 했다. 최근 민주당이 발의한 충남·대전 통합특별시 설치 법안에선 재정 이양 규모가 3조7000억원 수준이다.&lt;br&gt;&lt;br&gt;김 지사는 “양도소득세 100%, 법인세 50%, 부가가치세 5% 항구적 이양을 통해 연 8조8000억원의 추가 세수를 확보, 60대 40의 재정 분권을 실현해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSWEMTFGEYDIZJVGVRTAZRRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태흠 충남지사와 더불어민주당 한병도 원내대표 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 지사는 권한 이양 부분에 대해 “예비 타당성 조사와 투자 심사 면제, 농업 진흥 지역 지정·해제 등이 행정 통합 특별법안에 담겨야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 또 “민주당이 발의한 대전·충남과 광주·전남의 통합 특별법안의 내용이 달라 지역 갈등이 유발될 수 있어 동일한 기준 제시가 필요하다”면서 “‘충남대전통합특별시’ 명칭도 통합을 삭제하고 약칭으로 제시한 ‘대전특별시’에도 충남이 반드시 반영돼야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘ITS 사업 뇌물 수수’ 의혹...이민근 안산시장, 증거 불충분 무혐의</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/M5I25ORYZBF4TG3KCW3I7G25CQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/M5I25ORYZBF4TG3KCW3I7G25CQ/</guid>
-      <dc:creator>안산=김수언 기자, 안산=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 07:02:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UWXCHUXF5ENBCRZKVPNMWSC4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이민근 안산시장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시 등의 ITS(Intelligent Transport Systems·지능형 교통 체계) 사업 관련 뇌물 수수 의혹이 제기된 이민근 안산시장이 검찰에서 무혐의 처분을 받았다. &lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 수원지검 안산지청 형사4부(부장 최수경)는 지난 3일 뇌물수수 등 혐의로 송치된 이 시장에 대해 증거 불충분을 이유로 불기소 처분했다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “본인이 혐의를 부인하는 상황에서 공여자 진술 외에 객관적인 증거가 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;이 시장은 작년 4월 ITS 관련 사업체를 운영하는 김모씨가 이기환 전 도의원을 통해 건넨 현금을 받았다는 혐의로 작년 10월 검찰에 불구속 송치됐다. 이 시장은 해당 혐의에 대해 모두 부인하고 있었다. &lt;br&gt;&lt;br&gt;검찰의 무혐의 처분에 대해 이 시장은 “사실관계가 명확히 밝혀져 늦었지만 다행스럽게 생각한다”며 “검찰에서 객관적이고 명확한 증거를 바탕으로 철저히 조사해 무고함을 밝혀주신 데 대해 감사하다”고 했다. 그러면서 “이번 일로 시민 여러분께 심려를 끼치고 시정의 도덕성과 공정성에 오해를 불러일으킨 점에 대해서는 유감스럽게 생각한다”며 “정치 활동을 시작한 이후 지금까지 단 한 번도 사적인 이익을 추구하거나 부당한 도움을 받은 적이 없다”고 했다. &lt;br&gt;&lt;br&gt;사건의 중심에 있는 김씨는 경기도 내 여러 지역에서 ITS 구축 사업을 추진하기 위해 전현직 공무원과 경기도의원들에게 뇌물을 건넨 혐의로 작년 8월 구속 기소됐다.&lt;br&gt;&lt;br&gt;김씨는 여러 지역에서 ITS 구축 사업을 추진하기 위해 도의원 등에게 “경기도에 관련 특별조정교부금을 배정받을 수 있도록 요청해달라”는 취지의 청탁을 한 것으로 파악됐다. 특조금은 시군의 재정 격차 해소 등을 위해 도지사 재량으로 시군에 지원할 수 있는 예산이다.&lt;br&gt;&lt;br&gt;경찰은 작년 4월부터 6개월간 수사를 통해 김씨와 안산시 소속 공무원 A씨(알선수재 혐의), 도의원 3명 및 자금 세탁책 2명 등 총 7명을 구속했으며 관련자 14명을 불구속해 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;김씨와 A씨는 지난달 15일 1심 재판에서 각각 징역 5년의 실형을 선고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘감치 15일’ 집행된 김용현 변호인, 대법원에 집행정지 신청</title>
       <link>https://www.chosun.com/national/court_law/2026/02/05/GI64KFFZ5ZGE7KMWNZDJQC4JI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/GI64KFFZ5ZGE7KMWNZDJQC4JI4/</guid>
@@ -891,34 +928,6 @@
       <content:encoded>김용현 전 국방장관의 변호인단 소속 이하상 변호사가 법정 소란으로 감치 15일을 선고받아 지난 3일 실제 집행되자, 변호인단이 그날 대법원에 감치 집행정지를 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RWIOJWMY4TSYRZMFTDMMBQMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관의 변호인단 소속 이하상 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 김 전 장관 변호인단은 감치가 집행된 지난 3일 저녁 대법원에 집행정지 신청을 냈다. 감치는 재판부가 법정에서 난동을 부리는 등 질서를 위반한 사람을 구치소 등에 일정 기간 가두는 조치다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사33부(재판장 이진관)는 지난해 11월 19일 이 변호사 등이 법정에서 소란을 피웠다며 감치 15일을 선고했다. 변호인단은 이에 불복해 항고했으나 기각됐고, 이후 대법원에 재항고해 현재 심리 중이다. 변호인단은 감치 처분에 대한 재항고 사건을 대법원에서 심리 중인 만큼, 집행정지도 같은 법원에 신청한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 감치 선고 당시 즉시 집행을 명령했지만, 구치소 측이 인적 사항이 특정되지 않았다는 이유로 집행을 거부하면서 실제 감치는 선고 두 달 만인 지난 3일에 이뤄졌다. 이 변호사는 오는 16일까지 서울구치소에 수용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희母 암사동 80억 부동산, 결국 공매 매물로 나와</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/53UKEMOXDRAPPC7IRXY3UG75DA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/53UKEMOXDRAPPC7IRXY3UG75DA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 06:39:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2TCZJXMUYDAZDGGIYGMOJSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사의 모친 최은순씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25억원대 과징금을 내지 않아 ‘체납액 전국 1위’에 이름을 올린 김건희 여사의 모친 최은순(79)씨의 부동산이 공매 매물로 나왔다. 공매는 공공기관이 체납으로 인한 압류 재산을 강제로 처분하는 것이다.&lt;br&gt;&lt;br&gt;5일 경기도와 성남시 등에 따르면, 한국자산관리공사(캠코)는 전날(4일) 오후 공매 전자입찰 사이트인 온비드에 최씨 소유 서울시 강동구 암사동 502-22 지하 1층, 지상 6층짜리 건물과 368㎡ 규모 토지를 공매 공고했다. 지하철 8호선 암사역에서 도보로 1분 정도 역세권에 위치한 이 부동산의 감정가는 80억676만9000원이다.&lt;br&gt;&lt;br&gt;최씨는 이 부동산을 2016년 11월 43억원에 사들였는데, 10년 만에 37억원이 넘게 올랐다. 이 매물에 대한 입찰은 3월 30일~4월 1일 진행된다.&lt;br&gt;&lt;br&gt;앞서 성남시는 작년 12월 16일 해당 부동산에 대해 한국자산관리공사에 공매를 의뢰했다. 최씨가 최종 납부 시한(12월 15일)까지 성남시에 내야 할 체납 과징금 25억500만원을 내지 않아서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZWKNZVG43DCYZVGNSDMOLCME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 성남시가 “과징금 납부를 하지 않으면, 공매를 추진하겠다”고 최씨 측에 알리자, 최씨는 “절반이라도 내겠다”고 했다. 체납액이 일부 납부되면 공매 절차는 일단 중단된다. 과징금에 대한 가산세는 붙지 않는다. 하지만 최씨는 끝내 납부하지 않았다.&lt;br&gt;&lt;br&gt;최씨는 작년 행정안전부가 발표한 ‘고액·상습 체납자 명단’에 체납액 전국 1위로 이름을 올렸다. 최씨는 지방자치단체에 과징금이나 변상금 등을 내지 않은 ‘지방 행정 제재·부과금 체납자’에 해당하는데, 작년 처음 공개된 사람 중에서 액수가 가장 컸다. 최씨는 2013년 성남시 중원구 도촌동 땅 55만3231㎡를 차명으로 매입하는 등 ‘부동산 실명법’을 위반해 과징금을 부과받았다.&lt;br&gt;&lt;br&gt;김동연 경기도지사는 이번 공매 절차 개시와 관련해 “권력을 사유화해서 배를 불린 김건희 일가에 대한 첫 번째 단죄”라며 “반드시 추징해 조세정의를 세우겠다는 약속을 지키게 됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4중 추돌 후 불길 일자 달려간 시민들… 경찰 “영웅 찾아요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/05/ANDGAUPPQZFP3J5ISQ36WYRAIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/05/ANDGAUPPQZFP3J5ISQ36WYRAIE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 06:33:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSGCMBQMU4TOZTDHA3GCOLCGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰은 지난 1월 7일 울산에서 발생한 차량 사고에서 구조를 도운 의인을 찾고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로에서 승용차 화재 현장을 목격하자 구조를 돕고 화재를 진압한 뒤 떠난 시민들이 화제가 되고 있다. 경찰은 구조를 도운 시민에게 감사장을 전달한 한편, 개인 소화기로 진화에 나선 또 다른 한 명의 ‘의인’을 수소문하고 나섰다.&lt;br&gt;&lt;br&gt;울산경찰청은 5일 ‘대한민국 경찰청’ 공식 유튜브를 통해 “4중 추돌 사고 현장 속 시민 영웅을 찾는다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난달 7일 오후 5시 31분께 울산 북구 강동번영로 경주 방면 도로에서 스포츠유틸리티차량(SUV)이 정체 구간에 있던 승용차 3대를 추돌하는 사고가 발생했다. 이 사고로 승용차 1대 보닛에서 화재가 발생했고, 마침 인근에서 이동 중이던 울산경찰청 안보수사과 경찰관 5명은 차량을 세운 뒤 곧바로 수습에 나섰다. 화재 차량에 탑승 중이던 운전자와 동승자를 끌어내 갓길로 옮기고, 체온이 떨어지지 않도록 조치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTXFFAJ365BVLBQ44SGA3SFU5Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 화재 진압에 나선 시민을 수소문하고 나섰다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 가운데 현장을 지나던 시민들도 팔을 걷어붙였다. 한 40대 시민은 부상자 구조에 도움을 줬다. 또 다른 시민은 화재 진압에 결정적인 역할을 했다. 흰색 카니발 차량에서 내리더니 소화기를 꺼내 화재 차량 엔진룸을 향해 분사했고, 불은 점차 잦아들더니 마침내 꺼졌다. 이 남성은 불이 진화되자 다시 차를 타고 현장을 떠났다.&lt;br&gt;&lt;br&gt;당시 현장에 있었던 경찰관은 “불을 끄지 않았더라면 차량이 폭발할 수도 있는 위험한 상황이었다”며 “그 시민이 아니었다면 큰 사고로 이어질 뻔했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이 시민을 찾아 감사장을 수여할 방침이다. 부상자 구조에 도움을 준 40대 시민에게는 북부경찰서장 명의의 감사장을 전달했다. 울산경찰청은 영상에서 “소화기를 들고 화재를 진압한 시민을 찾는다”며 “영상을 보면 울산북부경찰서 교통사고조사계로 꼭 연락 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“무시 당했다”… 흉기로 세 모녀 살해하려 한 10대 붙잡혀</title>
-      <link>https://www.chosun.com/national/incident/2026/02/05/IVP6VRBJOFHWHA7QF2NQJU7BW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/05/IVP6VRBJOFHWHA7QF2NQJU7BW4/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>자신을 무시했다는 이유로 세 모녀를 살해하려 한 10대가 경찰에 붙잡혔다.
-강원 원주경찰서는 살인미수 혐의로 A(16)군을 붙잡아 조사 중이라고 5일 밝혔다.</description>
-      <pubDate>Thu, 05 Feb 2026 06:29:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무시했다는 이유로 세 모녀를 살해하려 한 10대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 원주경찰서는 살인미수 혐의로 A(16)군을 붙잡아 조사 중이라고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 이날 오전 9시 12분쯤 강원 원주시 단구동 한 아파트에서 40대 B씨와 10대 딸 C·D양을 미리 준비한 흉기로 살해하려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 목 부위를, C·D양은 팔과 어깨 등을 다쳐 병원에서 치료를 받고 있다. 다행히 모두 생명엔 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A군은 범행 직후 달아났으나, 이웃의 신고를 받고 출동한 경찰에 의해 아파트 화단에 숨어 있던 중 붙잡혔다.&lt;br&gt;&lt;br&gt;A군은 경찰 조사에서 “같은 중학교에 다니던 동창 C양이 창피를 주고 무시했다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A군을 상대로 정확한 범행 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] ‘인보사 사태’ 이웅열 코오롱 명예회장, 항소심도 무죄</title>
       <link>https://www.chosun.com/national/court_law/2026/02/05/3UXZE4QGVJBYNPVXW6HHODML4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/05/3UXZE4QGVJBYNPVXW6HHODML4A/</guid>
@@ -926,15 +935,6 @@
       <description/>
       <pubDate>Thu, 05 Feb 2026 05:40:03 +0000</pubDate>
       <content:encoded>골관절염 치료제 ‘인보사케이주(인보사)’의 성분을 조작해 정부 허가를 받아 판매한 혐의로 재판에 넘겨진 이웅열 코오롱 명예회장에게 법원이 1심에 이어 항소심에서도 무죄를 선고했다. 검찰이 2020년 7월 이 회장에게 7개 혐의를 적용해 기소한지 5년 7개월여 만이다. 이 회장과 함께 기소된 코오롱 임원들도 인보사 관련 혐의는 모두 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZWEOJSGUYTEYTDHA2DMMDCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웅열 코오롱그룹 명예회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 정치자금법 위반 혐의 명태균 1심서 무죄 </title>
-      <link>https://www.chosun.com/national/regional/2026/02/05/HLL25JRPHNC75JC6JQYQPPO33M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/05/HLL25JRPHNC75JC6JQYQPPO33M/</guid>
-      <dc:creator>창원=김준호 기자, 권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Feb 2026 05:18:33 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한국은 솔로지옥, 해외로 갈래요</title>
