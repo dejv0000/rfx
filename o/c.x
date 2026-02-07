@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>일요일 전국 한파 계속... 전라권·제주에 많은 눈</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/07/NRJGF6SHR5EUVCI7LEI2PDWP7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/07/NRJGF6SHR5EUVCI7LEI2PDWP7Y/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Feb 2026 09:43:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OS3VXARLZVP77D2QVS26YAKRPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;폭설이 내린 2일 오전 서울 용산구 남산에서 작업자가 제설 작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 8일은 전국에 한파가 이어지며 전라권 서부와 제주도를 중심으로 많은 눈이 내리겠다.&lt;br&gt;&lt;br&gt;기상청은 “내일 제주도에, 새벽까지 충남 서해안·충남권 북부 내륙과 충북 중·남부에, 오전까지 전라권에 눈이 내리는 곳이 있겠다”고 7일 예보했다.&lt;br&gt;&lt;br&gt;예상 적설량은 ▲충남서해안 1~3㎝ ▲세종·충남 북부 내륙 1㎝ 안팎 ▲충북 중·남부 1㎝ 미만 ▲전북 서해안, 전북 남부 내륙, 광주·전남 서부 3~8㎝(많은 곳 10㎝ 이상) ▲전남 북·동부 1~3㎝ ▲전북 북부 내륙, 전남 남·동부 1㎝ 미만 ▲울릉도, 독도 10~30㎝ ▲제주도 산지 10~20㎝(많은 곳 30㎝ 이상) ▲제주도 중산간, 제주도 동부 5~15㎝ ▲제주도 해안(동부 제외) 3~10㎝다.&lt;br&gt;&lt;br&gt;예상 강수량은 ▲서해5도 1㎜ 미만 ▲세종, 충남 서해안, 충남 북부 내륙 1㎜ 안팎 ▲충북 중·남부 1㎜ 미만 ▲전북 서해안, 전북 남부 내륙, 광주·전남 서부 5㎜ 안팎 ▲전북 북부 내륙, 전남 동부 1㎜ 안팎 ▲울릉도, 독도 10~30㎜ ▲제주도 5~20㎜다.&lt;br&gt;&lt;br&gt;눈이 내리는 지역에서는 가시거리가 급격히 짧아지겠고, 눈이 쌓이고 얼어 빙판길이 되는 곳이 많겠으니 차량 운행 시 감속 운행해야겠다.&lt;br&gt;&lt;br&gt;강풍특보가 발효된 경북남부동해안과 울산은 오후까지, 충남서해안과 전라해안은 밤까지 바람이 순간풍속 시속 70km 이상(산지 시속 90km 이상)으로 매우 강하게 불겠다. 당분간 그 밖의 전국 대부분 지역에서도 바람이 순간풍속 시속 55km 안팎(산지 시속 70km 안팎)으로 강하게 부는 곳이 있겠다.&lt;br&gt;&lt;br&gt;건조특보가 발효된 서울과 일부 경기내륙, 강원동해안·산지, 일부 충청권, 전남동부, 경상권은 대기가 매우 건조하겠다. 기온은 평년(최저 -10~0도, 최고 2~9도)보다 낮겠고, 모레 낮부터 평년과 비슷하겠다. &lt;br&gt;&lt;br&gt;중부지방(동해안 제외)과 경북중·북부내륙·북동산지, 전북동부, 일부 경남내륙에 한파특보가 발효된 가운데 모레(9일)까지 전국 대부분 지역의 아침 기온이 -15~-5도(내일 중부내륙과 전북동부, 경북북부내륙, 모레 강원내륙·산지 -15도 이하)로 낮겠다.&lt;br&gt;&lt;br&gt;당분간 바람도 강하게 불어 체감온도는 더욱 낮아 매우 춥겠다. &lt;br&gt;&lt;br&gt;아침 최저기온은 -18~-5도, 낮 최고기온은 -4~3도를 오르내리겠다. 주요 지역 아침 최저기온은 서울 -8도, 인천 -13도, 수원 -13도, 춘천 -16도, 강릉 -10도, 청주 -11도, 대전 -12도, 전주 -10도, 광주 -8도, 대구 -10도, 부산 -8도, 제주 -1도다.&lt;br&gt;&lt;br&gt;낮 최고기온은 서울 -3도, 인천 -3도, 수원 -2도, 춘천 -1도, 강릉 2도, 청주 -2도, 대전 -1도, 전주 0도, 광주 0도, 대구 1도, 부산 3도, 제주 3도다.미세먼지 농도는 전 권역에서 ‘좋음’ 수준으로 예상된다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘글로컬대학’ 취소 위기 충북대, 교통대와 통합 찬반 재투표</title>
+      <link>https://www.chosun.com/national/education/2026/02/07/5E24DH7ZSVFZVJ5OVZSYD6K52M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/07/5E24DH7ZSVFZVJ5OVZSYD6K52M/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Feb 2026 09:37:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIH4W7ONNVO67P2CMLTHQAUCZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북대학교와 한국교통대학교가 최종 통합신청서 제출 여부를 놓고 학내 구성원의 찬반을 묻는 투표가 진행된 작년 12월 교통대 정문 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국교통대와 대학 통합을 두고 갈등을 겪는 충북대가 학내 구성원들을 대상으로 통합 추진 여부를 묻는 찬반 투표를 재실시한다.&lt;br&gt;&lt;br&gt;7일 교육계에 따르면, 대학 본부 측과 교수회, 직원회, 총학생회, 학장협의회 대표단은 전날 연석회의를 열고 논의 끝에 통합 찬반 재투표를 실시하기로 결정했다. 구체적인 일정과 방식은 조만간 충북대 홈페이지에 공고한다.&lt;br&gt;&lt;br&gt;대학 측은 기존 통합 합의서에 대한 두 대학 구성원 사이의 입장 차이가 좁혀지지는 않았지만, 글로컬대학 사업 중간평가 일정 등을 고려해 학내 구성원들의 의견을 다시 확인할 필요가 있다고 의견을 모은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;충북대와 한국교통대는 2023년 11월 교육부의 혁신하는 지역 대학에 1000억원을 지원하는 글로컬대학 사업에 선정된 뒤 통합 협상을 진행했다. 그러나 두 대학 구성원 간의 의견이 엇갈리며 2년 넘게 협상이 지지부진했다.&lt;br&gt;&lt;br&gt;작년 12월 두 대학은 통합 합의서와 부속 합의서를 마련해 교수·직원·학생을 대상으로 투표를 실시했다. 투표 결과 교통대는 교수·직원·학생 모두가 찬성한 데 반해 충북대는 모두 반대 의견이 앞섰다.&lt;br&gt;&lt;br&gt;이후 충북대 구성원들은 대학 통합 부속합의서에 담긴 통합 대학 초대 총장 선출 절차, 교원 정원 보전, 학생 정원 유지 감축 등의 내용이 고창섭 전 총장의 독단적인 결정이라며 합의서 수정을 요구했다.&lt;br&gt;&lt;br&gt;두 대학은 2027년 3월 통합 대학을 출범해야 한다. 교육부는 올해 상반기 내년도 대입시행계획이 확정되기 전까지 두 대학이 통합 협의를 보지 못하면, 글로컬대학 사업 지정을 취소하고 그간 지원한 사업비도 몰수한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한파 속 서울 도심 곳곳 보수·진보 단체 집회</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/07/URXIHOCLERETZONOUU75FW2W2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/07/URXIHOCLERETZONOUU75FW2W2Q/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Feb 2026 09:24:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4DKNBUMNTGKNTBGIZWKZJYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두터운 옷차림의 시민들이 발걸음을 옮기고 있다.(사진은 기사 내용과 무관함) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 7일 강추위에도 서울 도심 곳곳에서 보수·진보 단체들의 집회가 열렸다.&lt;br&gt;&lt;br&gt;전광훈 사랑제일교회 목사가 이끄는 대한민국바로세우기국민운동본부(대국본)는 이날 오후 1시부터 종로구 동화면세점 앞에서 ‘광화문 국민대회’를 개최했다. 참가자들은 서울서부지법 난동 사태 배후 의혹으로 구속 기소된 전 목사의 석방을 촉구하며 정부를 비판하는 구호를 외쳤다. 집회 이후에는 동화면세점에서 효자동까지 행진했다.&lt;br&gt;&lt;br&gt;진보 성향 시민단체 촛불행동은 오후 4시부터 서초구 대법원 인근에서 ‘제177차 촛불대행진’ 집회를 열었다. 이들은 사법부를 비판하며 관련 구호를 외쳤고, 집회 종료 후 고속터미널역까지 행진할 예정이다.&lt;br&gt;&lt;br&gt;서울시 교통정보시스템(TOPIS)에 따르면 이날 오후 5시 30분 기준 서울 도심 평균 통행 속도는 시속 15.4㎞를 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건조주의보 거창·고성서 잇따라 산불… “작은 불씨도 조심”</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/02/07/RLT6QO3V5BGEBB2XBIR7HWPGIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/02/07/RLT6QO3V5BGEBB2XBIR7HWPGIY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Feb 2026 08:54:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4TEMRRMM2WMMRUHBSTQZJZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산불조심. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건조주의보가 발효된 경남 거창과 고성에서 잇따라 산불이 발생했다.&lt;br&gt;&lt;br&gt;7일 오후 2시 6분쯤 거창군 주상면의 한 야산에서 원인을 알 수 없는 불이 났다. 산림당국은 산불 진화 헬기 2대와 산불 진화 차량 9대, 진화인력 13명을 투입해 오후 2시 30분쯤 주불을 껐다.&lt;br&gt;&lt;br&gt;앞서 이날 오후 12시 31분쯤 고성군 삼산면의 한 야산 인근 밭에서도 불이 났다. 소방당국은 소방차 12대와 소방대원 36명을 동원해 오후 2시 15분쯤 불길을 잡았다. 거창과 고성 두 곳 모두 인명피해는 발생하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;산림당국은 “작은 불씨라도 소홀히 할 경우 대형산불로 확산할 위험이 있다”면서 “쓰레기·영농부산물 불법소각 행위 등을 금지하고 불씨 관리를 철저히 해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 2월 8일 일요일 (음력 12월 21일 癸丑)</title>
       <link>https://www.chosun.com/national/national_general/2026/02/07/TLKQ5D7A35AUXJOISHYUPMLOY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/07/TLKQ5D7A35AUXJOISHYUPMLOY4/</guid>
@@ -878,42 +914,6 @@
       <description/>
       <pubDate>Fri, 06 Feb 2026 01:56:09 +0000</pubDate>
       <content:encoded> ▲&lt;b&gt;홍문자&lt;/b&gt; 별세, &lt;b&gt;홍희경 &lt;/b&gt;前 한국문화정보원장·&lt;b&gt;홍민수 &lt;/b&gt;이세계 프로젝트 공동대표 부친상, &lt;b&gt;안준호 &lt;/b&gt;서울대 미래혁신연구원 책임연구원 장모상, &lt;b&gt;정은선 &lt;/b&gt;서울시 청년도약팀장 시모상=5일19시46분 고대안암병원, 발인 8일9시, (02)923-4442&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한양사이버대, 이연복 셰프와 함께하는 ‘글로벌 미식 최고경영자 과정’ 1기 모집</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/06/KMXGG2MPE5FNRC427ZL6K2QTAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/KMXGG2MPE5FNRC427ZL6K2QTAA/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 01:28:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VWDBJIEKBDPRJG4D7NDRO5KHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이연복 셰프. /한양사이버대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한류 열풍과 함께 K-푸드가 전 세계적 문화 콘텐츠로 자리 잡은 가운데, 글로벌 미식 시장을 선도할 인재 양성을 위한 교육 과정이 열린다.&lt;br&gt;&lt;br&gt;한양사이버대 호텔외식경영학과는 ‘글로벌 미식문화산업 최고경영자 과정(Global Gastronomy &amp;amp; Culture Industry AMP, GGCIA)’ 1기 수강생을 모집한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이번 과정의 핵심은 대한민국 중식의 거장 이연복 셰프가 직접 진행하는 ‘목란에서 함께하는 미식 체험’이다. 수강생들은 이 셰프의 조리 현장과 레스토랑 운영을 직접 경험하고, 이 셰프의 요리를 직접 맛보며 미식 경험을 나눌 예정이다.&lt;br&gt;&lt;br&gt;오는 6월에는 ‘대만 미식문화 답사’도 진행된다. 미식의 성지로 불리는 대만의 미슐랭 레스토랑 및 현지 로컬 식문화를 경험하는 3박 4일 일정의 답사에는 이 셰프와 미식 인문학 권위자인 예종석 한양대 명예교수가 동행한다.&lt;br&gt;&lt;br&gt;교육 과정은 오는 3월 17일 개강해 6월 9일까지 총 12주간 매주 화요일 저녁 7시에 진행된다. ‘대한민국 식탁 변천사’ ‘지속 가능한 미식’ ‘선재 스님의 사찰 음식 시연 및 체험’ 등의 수업이 열린다.&lt;br&gt;&lt;br&gt;모집 대상은 외식 기업 경영자, F&amp;amp;B 비즈니스 리더, 푸드 콘텐츠 크리에이터, 호텔·관광 산업 종사자 등 약 30명이다. 수강생 모집은 오는 2월 22일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권창영 2차 특검 “내란·계엄 가담 행위 철저한 사실규명 필요”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/06/ZQPFD2NRGFBXPL5RRS4DXSZIZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/ZQPFD2NRGFBXPL5RRS4DXSZIZU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 00:22:03 +0000</pubDate>
-      <content:encoded>2차 종합특검을 임명된 권창영 특별검사가 6일 “내란에 가담한 행위에 대한 철저한 사실규명이 필요하다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAZAOMDAVJNBBMYLSWPF4PDPRQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2차 종합특검의 권창영 특별검사가 6일 오전 서울 중구 사무실로 출근하며 소감을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권 특검은 이날 오전 서울 중구 법무법인 지평 사무실에서 기자들과 만나 “3대 특검이 출범 후 소기의 성과를 거뒀지만, 여전히 국민 기대에 미치지 못하고 있다”며 이 같이 말했다. 그러면서 “현재로서는 내란 관련 사건이 가장 중요하고 규모도 방대하다”며 12·3 비상계엄을 둘러싼 각종 의혹에 중점을 두겠다는 방침을 밝혔다.&lt;br&gt;&lt;br&gt;판사 출신 특검이라는 우려에 대해선 “판사 생활 18년 하면서 형사 재판을 8년 했다”며 “형사 사건 경험은 충분히 있다고 본다”고 했다. 그러면서 “특검보나 파견 검사, 수사관들이 수사 능력이 출중할 테니까 그분들이 최대한 역량 발휘할 수 있도록 지휘 감독하고 방향 정하는데 최선을 다하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;권 특검은 윤석열 전 대통령 부부에 대한 소환 계획에 대해선 “수사의 성역은 존재하지 않는다. 법 앞에 모두가 공평하기 때문”이라며 “지위나 직무에 관계 없이 범죄에 가담했다면 어느 누구도 예외 없이 소환해서 조사할 것”이라고 강조했다.&lt;br&gt;&lt;br&gt;권 특검은 지난달 16일 본회의를 통과한 2차 종합특검법에 따라 3대(내란·김건희·해병) 특검에서 다루지 않은 총 17개 의혹을 수사하게 된다. 수사 준비기간 20일을 포함해 최장 170일이다.&lt;br&gt;&lt;br&gt;권 특검은 곧바로 특검보 인선을 포함한 수사팀 구성과 사무실 물색 등 준비 작업에 착수할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“3억 빚내서 5억 베팅” SK하이닉스 올인한 30대 공무원, 결말은</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/06/JPYNLF56OZHHFLXGYVZZ7CTOH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/06/JPYNLF56OZHHFLXGYVZZ7CTOH4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 00:51:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRRUYX7T2RDIRD7U7YOBNE7WEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;SK하이닉스 주가에 레버리지로 5억원을 투자했던 공무원의 사례./네이버 블로그 '방구석 청년 이야기'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK하이닉스 주가에 레버리지로 5억원을 베팅한 한 공무원의 투자 사례가 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;경제 전문가 A씨는 최근 자신의 블로그를 통해 지난해 11월 30대로 추정되는 공무원 B 씨의 투자 사례를 소개했다. A 씨는 “지난 11월 30대로 추정되는 공무원 B씨는 하이닉스 주가에 5억원을 베팅하며 사람들의 이목을 집중시켰던 적이 있다”며 “재미있는 건 모든 투자금이 자기 자본이 아니라 5억원 중 3억 9000만원이 융자였다는 점”이라고 적었다.&lt;br&gt;&lt;br&gt;A씨가 공개한 계좌 사진에 따르면 B씨의 SK하이닉스 매수 금액은 5억3866만원이었고, 평균 매입 단가는 61만 9000원, 보유 수량은 814주로 나타났다. 전체 투자금 가운데 융자 금액은 3억 9049만6000원이었다.&lt;br&gt;&lt;br&gt;당시 시장 상황도 쉽지 않았다고 A씨는 전했다. 그는 “다시금 불이 붙은 현재의 코스피와 달리 당시엔 대부분 사람이 현금화하는 분위기였고 기관과 외국인도 차익 실현 매물을 쏟아내고 있던 터라 많은 사람이 걱정하기도 했다”며 “그중에는 ‘한강 엔딩’이라며 B 씨를 조롱하는 사람들도 적지 않았다”고 썼다. 실제로 B 씨가 글을 올린 이후 SK하이닉스 주가는 한동안 하락세를 이어가 50만1000원 선까지 내려갔다.&lt;br&gt;&lt;br&gt;B씨는 이후 익명 커뮤니티를 통해 당시 상황을 설명했다. 그는 “주가가 50만1000원 선까지 하락했을 당시 담보 비율 부족으로 증권사로부터 연락을 받았고, 신용거래 구조상 일정 금액을 담보로 설정해야 했으며 본인의 경우 그 금액이 8000만원이었다”고 했다. 이어 “반대매매를 피하기 위해 해당 8000만원을 유통융자 상태에서 현금 주식으로 바꿨고, 신용거래로 인해 3억원 기준 한 달 이자가 260만원 수준에 달했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이후 주가가 반등하자 B씨는 약 10% 수익 구간에서 보유 물량을 모두 매도했다. 그는 “작년부터 현재까지 반도체 종목을 사고파는 과정에서 약 1억4000만원의 수익을 거뒀다”며 “당시를 돌아보면 주가가 50만원 선까지 내려갔을 때는 한강에 갈 뻔했다. 이후에는 조롱이나 비판도 웃으며 넘길 수 있게 됐다”고 밝혔다. 그러면서 “반도체 업종이 2028년까지 우상향 흐름을 이어갈 것으로 보고 있으며, 자금이 정산되는 대로 일부는 저축하고 남은 자금은 다시 투자에 활용할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;공개된 계좌 내역에 따르면 B씨는 SK하이닉스 매매에서 약 10% 수익을 기록했다. 실현 손익은 약 5000만원 수준이었고, 2025년 6월부터 2026년 1월까지 누적 손익은 1억4100만원으로 집계됐다.&lt;br&gt;&lt;br&gt;A씨는 이 사례를 두고 자신의 생각도 덧붙였다. 그는 “과연 나라면 저렇게 투자할 수 있었을까라는 생각이 들었지만, 답은 아니었다”며 “애초에 나라면 레버리지를 활용하지도 않았을 것이고 11월 당시에는 반도체 종목을 쳐다보지도 않았을 것”이라고 했다. 이어 “물론 지금도 이상적인 투자 방법이라고 생각하지는 않고, B 씨 역시 스스로의 행동을 ‘광기와 집착’이라고 표현한 만큼 한동안은 안정적인 투자를 지향할 것으로 보인다”면서도 “그럼에도 한 명의 청년이 원하는 결과를 이뤘다는 점만 놓고 보면 다행스러운 일이 아닐까 싶다”고 평가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“화학사고 걱정 마세요”… 청주시, ‘지능형 유해화학물질 감시 체계’ 구축</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/06/UFKYX5B2ANHTFOX4ZF4KXEWJRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/06/UFKYX5B2ANHTFOX4ZF4KXEWJRM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 00:43:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3DCOJTGZSTGOLFHA2GGZJVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주시가 화학사고에 신속히 대응하기 위해 '지능형 유해화학물질 모니터링 시스템'을 구축했다. 사진은 이동식 측정차량 모습/청주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주시가 화학 사고에 신속 대응하기 위한 감시 시스템을 구축했다.&lt;br&gt;&lt;br&gt;청주시는 ‘지능형 유해 화학 물질 모니터링 시스템’을 구축했다고 6일 밝혔다. 청주산업단지·오창산업단지·옥산산업단지 등 20곳에 감시장비를 설치해 염화수소, 불화수소, 휘발성유기화합물(VOCs) 등 유해 가스 농도를 24시간 실시간 측정한다. 측정 정보는 서버로 전송돼 통합 관리된다.&lt;br&gt;&lt;br&gt;수집된 데이터는 기상 정보와 연동돼 유해 물질 확산을 예측하는 데 활용된다. 사고 발생 시에는 영향 지역을 신속히 파악해 주민에게 긴급 재난 문자를 발송하는 등 2차 피해를 최소화할 수 있도록 했다.&lt;br&gt;&lt;br&gt;시는 고정형 장비의 한계를 보완하기 위해 유해 화학 물질 측정기와 카메라를 탑재한 이동식 측정 차량도 도입했다. 평상시에는 산업단지와 공장 주변의 화학 물질 유출 여부와 대기질을 점검하고, 사고 발생 시에는 현장에서 공장 외부 유출 여부를 즉각 확인할 수 있다.&lt;br&gt;&lt;br&gt;시 관계자는 “이번 시스템 구축으로 화학 사고에 더 신속하고 정확하게 대응할 수 있을 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 합수본, ‘신천지 2인자’ 前 총무 첫 피의자 소환 조사</title>
