@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>美 수퍼볼, 실리콘밸리 인사들 대거 몰려.. 선수 아닌 ‘관객’ 몸 값 사상 최고 기록할 듯</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/08/2GSJYCSZWJBSBJ72U6ZTV72XRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/08/2GSJYCSZWJBSBJ72U6ZTV72XRQ/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Feb 2026 05:56:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJCNBT6LLRN6LMNIOGB46VN424.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 제60회 수퍼볼 경기가 치러지는 미국 캘리포니아 산타클라라의 리바이스 스태디움./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일(현지 시각) 치러지는 미국 프로풋볼(NFL) 챔피언 결정전인 60회 수퍼볼(Super Bowl) 경기에서는 선수보다 더 유명한 관객들이 몰릴 예정이다. 올해 결승은 캘리포니아주 산타클라라의 리바이스 스타디움에서 열리는데, 이 지역은 실리콘밸리에서도 글로벌 IT 기업들이 모여 있는 중심지다. 애플 본사가 있는 쿠퍼티노에서는 자동차로 약 10분, 구글 본사인 마운틴뷰에서 약 15분, 엔비디아 본사에서는 걸어서도 갈 수 있을 만큼 가깝다. &lt;br&gt;&lt;br&gt;덕분에 이번 수퍼볼 경기를 찾는 관객들의 연봉은 사상 최고가가 될 것으로 보인다. 미국 뉴욕타임스, 샌프란시스코 크로니클 등에 따르면 이날 수퍼볼 관람 예정인 인물로는 닐 모한 유튜브 CEO, 팀 쿡 애플 CEO, 캘리포니아 주지사 개빈 뉴섬, 앨런 왁스먼 식스 스트리트의 CEO, F1 드라이버 루이스 해밀턴, 저스틴 비버 등이 참석할 예정이다. 포브스에 따르면 닐 모한의 연봉은 840만달러(약 100억원)이고, 순자산은 최대 5000억원으로 추정된다. 그가 이직하려 할 때, 구글이 그를 붙잡기 위해 1억달러(약 1300억원) 규모의 주식을 지급한 일도 있었다. 팀 쿡은 2024년 기준으로 기본급 300만달러(약 44억원)에 약 856억원 상당의 주식을 수령해 총 1100억원의 보상을 받은 것으로 알려져 있다. 올해 수퍼볼 주간에는 특히 실리콘밸리 중심의 IT·테크 대표들이 참석하는 ‘혁신 서밋(invitation-only)’ 행사가 함께 열리고 있는 만큼 수백억 연봉을 자랑하는 실리콘밸리 기업 관계자들이 수퍼볼 경기를 관람하기로 예정돼 있다고 한다. &lt;br&gt;&lt;br&gt;한편, NFL에서 가장 높은 몸값을 자랑하는 선수는 댈러스 카우보이스의 쿼터백 닥 프레스콧으로 작년 기준 6000만달러(약 800억원)를 받았다. 하지만 이번 수퍼볼에는 댈러스 카우보이스가 결승에 오르지 못했다. 이번 경기에서 맞붙는 시애틀 시호크스와 뉴잉글랜드 패트리어츠 선수 중에는 연봉 10위 내 드는 선수가 없다. &lt;br&gt;&lt;br&gt;이미 지난 7일 몇몇 IT 기업 임원들은 VIP 초대석에서 우버, 스포티파이 등이 주최한 파티를 즐겼다고 한다. 올리비아 딘, 포스트 말론, 체인스모커스, 카디 비, SZA 등 글로벌 가수들도 수퍼볼 경기장 근처에서 열리는 콘서트와 행사에 등장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;유명 인사와 그들과 친분을 쌓고자 하는 사람들이 몰리면서 일반 관객에게 판매되는 티켓은 전체 티켓 6만5000장 중 약 4분의 1에 그쳤다. 각 구단에 배분한 티켓도 2차 판매 형태로 일반 관객에게 판매되는데, 티켓 판매업체인 시트긱(SeatGeek)에 따르면 7일 기준 티켓 평균 가격은 6687달러(약 980만원)이다. 가장 저렴한 티켓도 수수료 포함 4237달러(620만원)였다. 이는 작년 수퍼볼의 가장 저렴한 좌석 가격(3000달러)의 1.4배로 미국 일반 노동자의 주급의 약 4배다. &lt;br&gt;&lt;br&gt;실리콘 밸리 투자 회사인 멘로 벤처스의 파트너인 벤키 가네산은 “실리콘밸리의 수퍼볼은 체육 시간에 마지막으로 뽑힌 기술 억만장자들이 체육 시간에 1등으로 뽑힌 사람들과 친구인 척하려고 5만 달러를 내는 것과 같다”고 NYT에 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경주 곳곳 동시다발 산불에 산림청, 대응 1단계 발령</title>
       <link>https://www.chosun.com/national/2026/02/08/EJZHKQJSAZBBFCZX6TNI6NW4TQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/02/08/EJZHKQJSAZBBFCZX6TNI6NW4TQ/</guid>
@@ -946,15 +955,6 @@
       <description/>
       <pubDate>Fri, 06 Feb 2026 01:56:09 +0000</pubDate>
       <content:encoded> ▲&lt;b&gt;홍문자&lt;/b&gt; 별세, &lt;b&gt;홍희경 &lt;/b&gt;前 한국문화정보원장·&lt;b&gt;홍민수 &lt;/b&gt;이세계 프로젝트 공동대표 부친상, &lt;b&gt;안준호 &lt;/b&gt;서울대 미래혁신연구원 책임연구원 장모상, &lt;b&gt;정은선 &lt;/b&gt;서울시 청년도약팀장 시모상=5일19시46분 고대안암병원, 발인 8일9시, (02)923-4442&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 합수본, ‘신천지 2인자’ 前 총무 첫 피의자 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/06/OG6N6J3YZRGLJIZXRALVGXU2IM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/OG6N6J3YZRGLJIZXRALVGXU2IM/</guid>
-      <dc:creator>김희래 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 00:41:35 +0000</pubDate>
-      <content:encoded>정교유착 의혹을 수사하는 검경 합동수사본부(본부장 김태훈 대전고검장)가 6일 신천지 ‘옛 2인자’로 알려진 고모 전 총무를 소환 조사한다. 고씨가 합수본에 출석하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57E6DMQMZ5KUPA2LC6AHUYY6RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교·신천지의 정교 유착 의혹을 수사하는 검·경 합동수사본부가 '당원 가입 의혹'을 주도한 신천지 고모 전 총무를 6일 소환 조사한다. 사진은 지난달 30일 경기도 과천시 신천지 총회 본부의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 합수본은 이날 고씨를 정당법 위반 등 혐의 피의자 신분으로 불러 조사할 계획이다. 합수본은 지난달 30일 신천지 총회 본부 등에 대한 압수수색을 진행하면서 영장에 고씨를 정당법 위반과 업무방해 피의자로 적시했다. 신도들의 의사에 반해 정당 가입을 강제하고 대선·총선 등 국민의힘 당내 경선 관리 업무를 방해했다는 것이다.&lt;br&gt;&lt;br&gt;앞서 합수본은 신천지 전직 간부 등 관계자들을 참고인 신분으로 소환해 2022년 대선과 2024년 총선 전 신도들을 국민의힘에 당원으로 가입시킨 계기와 경위 등을 추궁한 바 있다. 조사 과정에서 합수본은 신천지가 ‘필라테스’라는 이름의 작전명을 가지고 신도들의 당원 가입을 조직적으로 추진했고, 지역별 할당량을 부여해 윗선에서 가입 현황을 관리해 왔다는 진술을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;합수본은 또 고씨가 지난 2021년 코로나 사태 당시 더불어민주당 등 정치권에 접촉해 이만희 총회장에 대한 세무조사와 검찰 수사를 무마하려 한 정황도 포착한 것으로 전해졌다. 다만 이에 대해 신천지 측은 “국민의힘, 더불어민주당을 포함한 어떤 정당에 대해서도 당원 가입이나 로비 활동을 지시한 사실이 없다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
