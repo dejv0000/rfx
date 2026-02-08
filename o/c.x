@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>20시간 만에 주불 잡혔던 경주 산불, 2시간 만에 재발화</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/08/JOW5QBUMD5F2PPGJRUDIGRZZUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/08/JOW5QBUMD5F2PPGJRUDIGRZZUM/</guid>
+      <dc:creator>경주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Feb 2026 13:01:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAMSUFOUW5DIFI2GU2VDRYPARA.png"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 8시 20분쯤 주불 진화가 완료됐던 경북 경주시 문무대왕면 입천리 산불이 재발화돼 산림과 소방당국이 진화작업에 나섰다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20시간 만에 주불 진화가 됐던 경북 경주 산불이 재발화했다. &lt;br&gt;&lt;br&gt;8일 산림청은 이날 오후 8시20분쯤 잔불이 재발화 하는 등 완진까지는 시간이 더 걸릴 것으로 보인다고 밝혔다. &lt;br&gt;&lt;br&gt;안동 교차로 인근에서 발화된 산불은 강한 바람이 불면서 화선을 넓히며 정상 쪽으로 번지고 있다. &lt;br&gt;&lt;br&gt;앞서 이날 오후 6시에 주불 진화를 완료한 산림당국은 인력과 장비를 동원해 잔불 감시에 들어갔는데, 재발화로 투입하지 못하고 진화에 난항을 겪고 있다. &lt;br&gt;&lt;br&gt;재발화한 곳은 급경사지에다 지형이 높아 진입이 어려운 것으로 알려졌다. 또한 송전탑으로 인해 헬기 가동이 되지 않아 방어선을 구축하고 있다는 게 당국의 설명이다. &lt;br&gt;&lt;br&gt;이 산불은 지난 7일 오후 9시 40분쯤 발생했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 여수 야산에서 화재… 산림당국, 진화 중</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/08/KWPBT7GFPZALJGAZNTK5IU5AWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/08/KWPBT7GFPZALJGAZNTK5IU5AWI/</guid>
+      <dc:creator>여수=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Feb 2026 12:04:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23U6ZHT7FFBTXLHT3SXCFVAUDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 7시 47분쯤 전남 여수시 묘도동의 한 야산에서 불이 나 소방당국이 불길을 잡고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수의 한 야산에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;8일 산림당국 등에 따르면 이날 오후 7시 47분쯤 여수시 묘도동의 한 야산에서 불이 났다.&lt;br&gt;&lt;br&gt;산림·소방 당국은 펌프 차량과 산불 진화 차량 등 장비 18대와 인력 86명을 동원해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;주변 민가 주민들은 대피했으며 현재까지 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;강한 바람으로 밤샘 진화 작업이 이어질 것으로 보인다. 이날 오후 8시 30분 기준 전남 여수 여수산단 인근에는 13.5㎧의 바람이 불고 있으며 강풍주의보가 내려진 상태다.&lt;br&gt;&lt;br&gt;산림당국은 불길을 잡는대로 정확한 화재 원인 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “을숙도 내 길고양이 급식소 설치시 철새 보존에 영향“</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/08/6BGI3PTSP5FBXLNCM5HXLPDICA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/08/6BGI3PTSP5FBXLNCM5HXLPDICA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Feb 2026 11:42:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPD4PYNCTQ35GNL5UL2G4NWMSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동물학대방지협회(동물협회)가 부산 을숙도에 길고양이 급식소를 설치할 수 있도록 허가해 달라며 국가유산청장을 상대로 낸 소송에서 패소했다. 재판부는 “급식소를 설치할 경우 길고양이 개체 수가 증가할 우려가 있고, 철새와 먹잇감을 사냥해 인근 생태계에 더 심한 악영향을 미칠 우려가 있을 것으로 보인다”고 판단했다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울행정법원 행정13부(재판장 진현섭)는 지난달 22일 동물협회가 국가유산청장을 상대로 낸 국가지정유산 현상변경허가신청 불허처분 취소 소송에서 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;동물학대방지협회는 2016년 10월 국가유산청에 을숙도 내 고양이 급식소 설치를 허가해 달라며 국가지정유산 현상변경허가를 신청했다. 하지만 국가유산청은 “길고양이 번식력 증진과 개체 수 증가는 철새 포식 피해 등 부정적 영향이 미칠 우려가 있다”며 이를 불허했다.&lt;br&gt;&lt;br&gt;국가유산청은 몇 년 뒤 부산시와 부산시 사하구에 급식소를 철거해 달라는 공문을 보내기도 했다. 현상변경행위 허가 없이 고양이 급식소가 설치된 사실이 확인됐다는 이유에서다. 이에 부산시는 2023년 11월 고양이 급식소 15개를 회수했고, 사하구는 동물협회에 길고양이 급식소를 철거하고 원상회복해달라는 내용의 공문을 발송했다.&lt;br&gt;&lt;br&gt;동물협회는 2024년 2월 급식소 16개 설치를 허가해달라며 또한번 현상변경허가를 신청했다. 하지만 국가유산청은 “자연유산 보존에 부정적 영향을 미칠 우려가 있다”며 다시 불허했고, 동물협회는 행정소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 “고양이 급식소 설치·운영은 철새도래지 보존과 관리에 영향을 미칠 우려가 있는 것으로 보인다”고 판단했다. 그러면서 “국가유산청이 급식소 설치를 허가할 경우 을숙도 내 길고양이 개체 수가 증가할 우려가 있고, 증가한 길고양이가 을숙도 내 철새와 그 먹잇감을 사냥해 인근 생태계에 더 심한 악영향을 미칠 우려가 있을 것”이라고 했다. &lt;br&gt;&lt;br&gt;길고양이 급식소가 설치될 경우 급식소 인근에 고양이 개체 수가 많아져 먹이 경쟁에서 밀린 개체들이 타 지역으로 이동해 길고양이 서식권이 확대될 가능성이 있다는 점도 언급됐다. 또 동물협회가 불허 처분 이후 정당한 사유 없이 8년 이상 무허가 상태로 급식소를 설치·운영해 왔다고 짚기도 했다.&lt;br&gt;&lt;br&gt;동물협회는 을숙도 내에 문화회관, 축구장, 수영장 등 시설이 이미 있으며, 각 시설이 철새도래지의 보존·관리에 부정적 영향을 준다고 볼 수 없다고 반박하기도 했다. 하지만 재판부는 “위 시설들은 고양이가 아닌 사람이 이용하는 장소이므로 급식소와 유의미한 비교 대상이라고 볼 수 없다”며 “각 시설이 철새 개체 수나 생태계에 직접적인 영향을 미칠 우려가 있는 시설로 보이지 않고 주민들의 편의나 생활 환경 개선 등 공익에 기여하므로 차별에는 합리적인 이유가 있다고 봄이 타당하다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 아침도 영하 15도... 화요일 풀리면서 ‘어는 비’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/08/T2OXLEC2B5DIJDRMTKX2UNDCZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/08/T2OXLEC2B5DIJDRMTKX2UNDCZA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Feb 2026 10:52:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQZNU2F73VK7DAPBOPFKLZWH4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영하권 강추위를 보인 8일 서울 중구 명동을 찾은 여행객들이 두꺼운 옷차림을 한 채 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국을 꽁꽁 얼린 한파가 월요일인 9일에도 기세를 떨치다 10일부터 급격히 누그러질 전망이다. 하루 사이 아침 최저기온 차이가 10도 안팎에 달하며 날씨 변화를 뚜렷하게 느끼겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 8일 서울의 체감온도가 영하 18도까지 떨어지는 등 올겨울 막바지 한파가 전국을 강타했다. 제주도와 남해안을 중심으로는 폭설과 강풍이 겹쳐 한때 제주국제공항 운영이 중단되는 등 곳곳에서 교통 혼잡이 발생했다. 이 같은 한파의 기세는 9일까지 이어지면서 전국 아침 최저기온이 영하 15도에서 영하 3도, 낮 최고기온은 영상 3도에서 11도를 보이겠다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;하지만 화요일인 10일부터 북쪽에서 내려온 찬 공기 세력이 약해지면서 아침 최저기온은 영하 6도에서 영상 2도로 오르겠다. 하루 전날과 비교하면 지역에 따라 10도 이상 차이가 나는 곳도 있을 전망이다. 낮 기온 역시 영상 3도에서 10도까지 오르며 평년 수준을 회복하겠다. &lt;br&gt;&lt;br&gt;10일엔 기온 상승과 함께 전국 곳곳에 눈이나 비가 내릴 것으로 예보됐다. 오전 인천·경기 북부와 강원, 충청권 등에서 시작된 강수는 오후엔 강원 동해안을 제외한 전국 대부분으로 확대되겠다. 수도권을 포함한 대부분 지역에는 1~3㎝ 안팎의 눈이 쌓일 것으로 보이며, 강원 내륙과 산지 일부 지역은 최대 5㎝의 적설이 예상된다. 특히 9일까지 이어진 강추위로 지상 부근의 온도가 낮은 상태에서 강수가 시작되면서, 내륙을 중심으로 ‘어는 비’가 내리는 곳도 있겠다. 어는 비는 차가운 땅이나 물체에 닿는 순간 곧바로 얼어버리는 비를 말한다. 도로에 얇은 얼음막이 생겨 ‘블랙 아이스’가 생길 위험이 커지니 이동 시 유의해야 한다.&lt;br&gt;&lt;br&gt;설 연휴를 앞둔 12일(목)과 13일(금)에는 전국이 대체로 맑은 가운데 평년 수준의 기온이 이어질 전망이다. 아침 최저기온은 영하 6도에서 영상 3도, 낮 기온은 영상 5~15도로 비교적 온화한 날씨가 나타나겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OQZNU2F73VK7DAPBOPFKLZWH4Q.jpg?auth=7f637a75b1f6117df8e573a22fee8e604b260ce5f24afd77d8f478a381edd502&amp;smart=true&amp;width=3616&amp;height=2415" type="image/jpeg" height="2415" width="3616">
+        <media:description type="plain">영하권 강추위를 보인 8일 서울 중구 명동을 찾은 여행객들이 두꺼운 옷차림을 한 채 이동하고 있다./뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>경주 산불 “송전탑서 ‘펑’ 소리 후 불길” 증언 나와</title>
       <link>https://www.chosun.com/national/2026/02/08/JJAZTFKBCVHPJKIT243UXBC6UU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/02/08/JJAZTFKBCVHPJKIT243UXBC6UU/</guid>
@@ -917,45 +957,6 @@
       <description/>
       <pubDate>Fri, 06 Feb 2026 05:09:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DT5VFVUFFD63CY5FKJUIVM2LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캠프 콜번 위치도. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미군 반환 이후 20년 가까이 빈터로 남아 있던 경기 하남시 캠프 콜번 부지 개발이 본궤도에 올랐다. &lt;br&gt;&lt;br&gt;하남도시공사는 6일 캠프 콜번 도시개발사업 우선협상대상자로 선경이엔씨 컨소시엄을 선정했다고 밝혔다.&lt;br&gt;&lt;br&gt;캠프 콜번은 하남시 하산곡동 209번지 일원 약 23만4000㎡ 규모의 반환 공여지로, 총사업비 2800억원이 투입되는 대형 복합개발 사업이다. 주한미군이 떠난 뒤 2007년 부지가 반환됐지만, 부동산 경기 침체와 사업성 문제 등으로 세 차례 공모가 무산되며 장기간 표류해 왔다.&lt;br&gt;&lt;br&gt;이번 공모는 네 번째 도전 끝에 성사됐다. 1·2차 공모는 응찰자가 없었고, 3차 공모는 단독 응찰에 그쳤다. 반면 이번 4차 공모에는 2개 컨소시엄이 참여해 경쟁을 벌였다.&lt;br&gt;&lt;br&gt;우선협상대상자로 선정된 선경이엔씨 컨소시엄은 선경이엔씨를 비롯해 신한은행, 계룡건설, 로지스밸리 등으로 구성됐다. 이 컨소시엄은 공동주택과 문화·유통시설, 업무시설이 결합된 복합 도시공간 조성 계획을 제안했다. 부족했던 자족 기능을 보완하고, 우량 기업 유치를 통해 일자리 창출 기반을 마련하겠다는 점에서 높은 평가를 받았다는 게 하남도시공사의 설명이다.&lt;br&gt;&lt;br&gt;우선협상대상자 선정은 도시계획·교통·재무 분야 외부 전문가 12명으로 구성된 평가위원회를 통해 이뤄졌다. 캠프콜번 사업이 속도를 낼 수 있었던 배경으로는 규제 완화가 꼽힌다. 하남시는 지난해 10월 개발제한구역(GB) 해제 지침 개정으로 임대주택과 공원·녹지 비율을 조정할 수 있게 되면서 사업성이 크게 개선됐다.&lt;br&gt;&lt;br&gt;하남도시공사는 우선협상대상자와 협의를 거쳐 올해 12월 시의회 의결을 마친 뒤, 2027년 2월 특수목적법인(SPC)을 설립할 계획이다. 이후 2028년 4월 개발제한구역 해제를 완료하고, 2029년 10월 착공을 목표로 사업을 추진한다는 구상이다.&lt;br&gt;&lt;br&gt;최철규 하남도시공사 사장은 “이번 사업은 하남시의 글로벌 경쟁력을 완성하는 핵심 퍼즐이 될 것”이라며 “미래 세대에게 자랑스럽게 물려줄 수 있는 지역의 랜드마크를 만들기 위해 총력을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘제주항공 참사 조작설’ 허위사실 퍼뜨린 유튜버들… 징역형 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/06/7S36QCAOJNBNDGRTWRTSN4SIHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/06/7S36QCAOJNBNDGRTWRTSN4SIHI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 05:28:52 +0000</pubDate>
-      <content:encoded>재작년 12월 전남 무안국제공항에서 발생한 ‘제주항공 여객기 참사’와 관련해 허위 사실을 유포한 혐의로 기소된 유튜버들에게 징역형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFISJQR5JKLUKKKACSXLGUN3S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 무안공항 참사, 활주로에 남은 흔적. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 지난 5일 정보통신망법상 명예훼손 등 혐의로 기소된 60대 남성 유튜버 A씨의 상고를 기각하고 징역 3년을 선고한 원심을 확정했다. 같은 혐의로 재판에 넘겨진 80대 남성 유튜버 B씨에 대해서도 징역 8개월형이 확정됐다.&lt;br&gt;&lt;br&gt;A씨 등은 제주항공 참사가 있은 2024년 12월 29일 이후 한 달 동안 “제주항공 여객기 사고는 실제 발생하지 않았다”, “사고 영상은 컴퓨터 그래픽(CG)으로 처리된 허위 영상이다”, “유족들은 세월호·이태원 참사 때 등장한 배우들이다” 등의 허위 내용이 담긴 영상을 100여 차례 유튜브에 게시해 피해자와 유족들의 명예를 훼손한 혐의를 받았다.&lt;br&gt;&lt;br&gt;1심은 “안타까운 사고를 두고 자신들의 이익을 위해 온갖 억측과 음모로 점철된 거짓 영상을 제작해, 불특정 다수가 볼 수 있는 유튜브에 게시해 죄질이 좋지 않다”며 A씨에게 징역 3년, B씨에게 징역 1년을 각각 선고했다.&lt;br&gt;&lt;br&gt;2심은 A씨에 대해서는 징역 3년을 유지하고, B씨에 대해서는 “A씨에 비해 범행 가담 정도가 경미하고 범죄 전력이 없는 점 등을 고려했다”며 징역 8개월로 감형했다. 대법원은 이 같은 원심 판단에 문제가 없다고 보고 피고인들의 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ALGELFBMQBEHPFFM6RXK6LB4WM.jpg?auth=ef9c5c19ef9c1be167cb0a4597a50923806934883ffa7a16a821c606e0fca252&amp;smart=true&amp;width=700&amp;height=394" type="image/jpeg" height="394" width="700">
-        <media:description type="plain">활주로에 남은 참사의 흔적 - 30일 ‘제주항공 참사’가 발생한 전남 무안군 무안국제공항 활주로의 모습. 활주로에 전날 사고 항공기가 동체 착륙을 하면서 남긴 검은색 ‘스키드 마크(급제동 시 도로에 남는 자국)’가 보인다. 사고기는 활주로를 벗어나 약 250m를 더 나아간 뒤 로컬라이저(방위각 지시 장치)를 세우기 위해 설치한 콘크리트 둔덕과 충돌했다. 충돌 직후 항공기는 폭발하며 두 동강이 났다. /장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>부랑자 수용시설에 20여년간 강제수용 60대 소송… 법원 “국가가 13억원 배상” </title>
-      <link>https://www.chosun.com/national/regional/2026/02/06/KKLHN6XHYZF43KALB3KVRD5EFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/06/KKLHN6XHYZF43KALB3KVRD5EFE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 04:58:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTIYJRGA2DAY3GGVSGKNZUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성인 부랑인 수용 시설인 대구시립희망원에 20여 년간 강제 수용됐던 60대 남성에게 국가가 13억원을 배상하라는 법원의 판단이 나왔다. &lt;br&gt;&lt;br&gt; 대구지방법원 제12민사부(재판장 김태균)는 대구시립희망원 강제 수용 피해자인 전봉수(62)씨가 국가를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소를 판결하며, 청구한 손해배상액 18억8800만원 가운데 13억원을 인정했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 전씨는 2014년 12월 ‘대구시립희망원 강제 수용 사건 국가배상청구소송’을 제기했다. 전씨는 국가로부터 1년에 8000만원의 손해배상금을 받은 부산 형제복지원 사례를 근거로 23년 6개월에 해당하는 18억 8800만원 배상을 요구했다. &lt;br&gt;&lt;br&gt;재판부는 “원고가 본인 의사와 무관하게 대구시립희망원에 강제로 수용된 사실, 시설에 감금되거나 정당한 대가를 받지 못하고 근로를 한 부분 등은 모두 인권 침해로 원고의 권리가 침해된 점이 인정된다”며 “대구시립희망원에 대한 지도·관리·감독 사무는 국가의 사무로서 국가에 배상 책임이 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;재판 이후 전씨는 “기쁘다. 집을 사서 농사를 지을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2TQMDGME4TIYLCMZRWEZRUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시립희망원에 강제 수용됐던 전봉수 씨가 대구지법 앞에서 시민단체와 함께 기자회견을 열고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 소송은 진실·화해를 위한 과거사정리위원회의 조사 결과에 따라 이뤄졌다.&lt;br&gt;&lt;br&gt;2024년 9월 ‘진실·화해를 위한 과거사 정리 위원회’는 대구시립희망원과 서울시립갱생원 등 성인 부랑인 수용 시설 4곳의 인권 침해에 대한 진실 규명 결과를 공개했다. &lt;br&gt;&lt;br&gt;위원회에 따르면 지적장애가 있는 전씨는 1998년 11월 충남 천안역에서 놀다가 신원 미상의 스님에게 “국밥을 사준다”는 말을 듣고 따라갔다가 대구시립희망원에 강제 수용됐다. 이후 전씨는 7~8명과 한 방에서 생활하며 종이가방을 만드는 등 강제 노역을 했다. 그렇게 20년 넘게 가족과 헤어져 살아야 했다. 그러다 2022년 대구시립희망원 인권침해 논란이 불거지면서 대구시는 자진 퇴소 희망자를 접수했고, 전씨는 그해 7월 퇴소했다. 이후 대구 지역 장애인단체가 운영하는 자립주택에서 생활하다가 한 사회복지사의 도움으로 가족을 만났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신임 인권위원에 오영근·김학자·조숙현 임명</title>
-      <link>https://www.chosun.com/national/people/2026/02/06/OVEGH7LOMZGR3IEMMZWFQJ5MSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/06/OVEGH7LOMZGR3IEMMZWFQJ5MSI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 05:21:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FJBYSNKSZBETEXWEDCTRD7L6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 오영근 위원(69), 조숙현 위원(53), 김학자 위원(58)/국가인권위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회 신임 인권위원으로 오영근 한양대 법학전문대학원 명예교수, 김학자 변호사, 조숙현 변호사가 임명됐다.&lt;br&gt;&lt;br&gt;국가인권위원회는 대통령 지명과 국회 선출 절차를 거쳐 오영근·김학자·조숙현 위원이 6일 자로 인권위원에 임명됐다고 밝혔다.&lt;br&gt;&lt;br&gt;오영근 위원(69)은 상임위원으로 임명돼 군인권보호관을 겸임한다. 오 위원은 한양대 법학전문대학원 명예교수다. 지난 1월 인권위원후보추천위원회가 추천한 후보 4명 가운데 대통령이 지명해 임명됐다.&lt;br&gt;&lt;br&gt;김학자 위원(58)도 상임위원으로 임명됐다. 김 위원은 지난해 11월 국회에서 선출된 뒤 인사 검증 절차를 거쳐 이날 임명됐다. 대검찰청 검사 출신으로, 한국여성변호사회 회장과 대한변호사협회 인권이사·부협회장 등을 지낸 법률 전문가다.&lt;br&gt;&lt;br&gt;조숙현 위원(53)은 비상임 인권위원으로 임명됐다. 조 위원은 지난해 11월 국회에서 선출됐으며, 법무법인 한울과 한결에서 변호사로 활동했고, 이화여대 법학전문대학원 겸임교수를 지냈다. 현재는 법무법인 원의 파트너 변호사로 활동 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 홍문자씨 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/06/RRV67VBCGNA25JUDUNWTYW7TQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/06/RRV67VBCGNA25JUDUNWTYW7TQU/</guid>
-      <dc:creator>조선일보, 원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 01:56:09 +0000</pubDate>
-      <content:encoded> ▲&lt;b&gt;홍문자&lt;/b&gt; 별세, &lt;b&gt;홍희경 &lt;/b&gt;前 한국문화정보원장·&lt;b&gt;홍민수 &lt;/b&gt;이세계 프로젝트 공동대표 부친상, &lt;b&gt;안준호 &lt;/b&gt;서울대 미래혁신연구원 책임연구원 장모상, &lt;b&gt;정은선 &lt;/b&gt;서울시 청년도약팀장 시모상=5일19시46분 고대안암병원, 발인 8일9시, (02)923-4442&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
