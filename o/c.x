@@ -13,6 +13,136 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이병훈, 전남·광주특별시장 출마 선언… 5대 발전 공약 제시</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/09/MSHEVDSIDBA23B6U742H4ALLGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/MSHEVDSIDBA23B6U742H4ALLGE/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 08:37:22 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOTF23SU25N4RDN4VVS4XDUKFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이병훈 더불어민주당 호남발전특위 수석부위원장이 9일 광주 5·18 민주광장(옛 전남도청)에서 전남광주특별시장 출마를 선언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이병훈 더불어민주당 호남발전특별위원회 수석부위원장이 다가오는 지방선거에서 전남·광주특별시장 출마를 공식 선언했다.&lt;br&gt;&lt;br&gt;이 부위원장은 9일 광주 동구 5·18 민주광장에서 기자회견을 열고 “광주와 전남의 지속적인 인구 감소, 청년 유출, 산업 정체 위기를 극복하고 새로운 성장의 길을 열기 위해 전남·광주특별시장에 출마한다”고 밝혔다. 이 부위원장은 지난 4일 예비 후보 등록도 마쳤다.&lt;br&gt;&lt;br&gt;이 부위원장은 아시아문화중심도시 초대 추진단장으로 국립아시아문화전당 건립에 앞장섰던 이력을 배경으로 옛 전남도청 앞 5·18 민주광장에서 출마를 선언했다.&lt;br&gt;&lt;br&gt;이 부위원장은 출마 선언과 함께 광주 도시권, 광주 연계권, 전남 동부권, 전남 서남권, 전남 남부권 등으로 나눈 5대 광주·전남 공약을 제시했다. 광주 도시권은 AI 반도체, 모빌리티, 바이오·헬스 문화 콘텐츠 산업을 집적한 첨단·문화 산업 핵심 거점으로 육성한다.&lt;br&gt;&lt;br&gt;광주 연계권(나주·장성·함평·담양·화순)은 광주의 AI·자동차 산업과 나주 혁신도시의 에너지 공공기관, 인근 지역의 농생명·식품·바이오·관광 자원을 활용해 자족형 경제권으로 구축한다.&lt;br&gt;&lt;br&gt;전남 동부권(여수·순천·광양·고흥·보성·곡성·구례)은 여수·광양의 석유화학과 철강 산업을 키우고 순천은 산업·생활 거점으로 육성한다. 고흥은 나로우주센터를 중심으로 국가 우주 산업 거점으로 조성한다. 보성·곡성·구례는 스마트팜과 문화·관광 산업을 중심으로 미래 성장 동력을 키운다.&lt;br&gt;&lt;br&gt;전남 서남권(목포·무안·영암·영광)은 목포를 수산물 가공·유통과 해양 관광 산업의 중심지로 육성하고 공공 의료·보건 서비스 기능을 확충한다. 또 인근 해상 풍력과 해양 에너지 산업을 단계적으로 늘린다.&lt;br&gt;&lt;br&gt;무안은 도청 소재지와 무안공항을 중심으로 행정·교통 연계 거점으로 기능을 강화한다. 영암과 영광은 각각 자동차·모터스포츠 산업과 에너지·전기차·배터리 산업을 중심으로 미래 에너지·자동차 산업 거점으로 키운다.&lt;br&gt;&lt;br&gt;전남 남부권(장흥·강진·해남·완도·진도·신안)은 수산식품 가공·유통 산업을 집중 지원하고 해양·문화 관광 산업과 신재생에너지 연계 산업을 함께 육성한다. 해남은 유치가 확정된 국가 AI 컴퓨팅센터를 토대로 미래 산업 성장 기반을 구축한다.&lt;br&gt;&lt;br&gt;이 부위원장은 “30대에 광양군수로 재직하며 동광양시와 광양군 통합을 완수했고, 전남도와 광주시에서 모두 일해본 유일한 전남·광주특별시장 후보”라며 “광주·전남 통합시대에는 지역을 가장 잘 이해하고, 위기를 정확히 진단해 실질적인 해법을 설계하고 끝까지 책임질 수 있는 시장이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BOTF23SU25N4RDN4VVS4XDUKFY.jpg?auth=59c3d3f0dea8c6ce26fe5c247c6df7dd2fe87ef8fb4625573d95c15f0f4a5d5d&amp;smart=true&amp;width=5437&amp;height=3235" type="image/jpeg" height="3235" width="5437">
+        <media:description type="plain">이병훈 더불어민주당 호남발전특위 수석부위원장이 9일 광주 5·18 민주광장(옛 전남도청)에서 전남광주특별시장 출마를 선언하고 있다. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘1억 공천헌금 의혹’ 강선우·김경 구속영장 청구 </title>
+      <link>https://www.chosun.com/national/court_law/2026/02/09/B7GZNEQWDRDRHB54GQLXNHYEKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/B7GZNEQWDRDRHB54GQLXNHYEKU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 08:16:08 +0000</pubDate>
+      <content:encoded>검찰이 9일 공천 헌금 1억원을 주고받은 혐의를 받는 강선우(서울 강서갑) 무소속 의원과 김경 전 서울시의원에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 이날 강 의원과 김 전 시의원에 대해 정치자금법 위반, 배임수증재, 청탁금지법 위반 혐의로 구속영장을 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3TSZDGMJTGIMJZMVSWIMLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 5일 '1억원 공천 헌금' 의혹을 받고 있는 강선우 무소속 의원(왼쪽)과 김경 전 서울시의원에 대해 구속영장을 신청했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰에 따르면 강 의원은 제8회 전국지방선거를 약 5개월 앞둔 2022년 1월, 서울 용산구 하얏트호텔에서 김 전 시의원으로부터 ‘서울시의원 후보자로 공천해달라’는 부정한 청탁을 받고 현금 1억원을 받은 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰은 강 의원이 이러한 청탁을 받고 난 뒤 김 전 시의원이 강서구 시의원 후보로 공천받는 과정에 영향력을 행사한 것으로 보고 있다. 김 전 시의원은 청탁의 대가로 강 의원에게 1억원을 건넨 혐의로 영장이 청구됐다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청 공공범죄수사대는 지난 5일 두 사람에 대해 구속영장을 신청했고, 검찰은 이를 검토한 끝에 이날 영장을 청구했다. 검찰 관계자는 “수집된 증거를 면밀히 검토한 결과 범행이 중대하고 도주 우려 및 증거인멸의 우려가 있는 점 등을 고려해 영장을 청구했다”고 설명했다.&lt;br&gt;&lt;br&gt;구속영장이 청구됨에 따라 김 전 시의원에 대해서는 2~3일 안에 서울중앙지법에서 영장실질심사가 열릴 예정이다. 다만 현역 국회의원인 강 의원에게는 ‘불체포 특권’이 있어서, 영장실질심사가 열리기 위해서는 국회 본회의에서 재적 의원 과반 출석과 출석 의원 과반 찬성으로 체포동의안이 가결돼야 한다. 이 같은 절차를 고려하면 강 의원에 대한 영장실질심사가 열리기까지는 3주 안팎의 시간이 걸릴 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검, 1심서 줄줄이 무죄·공소기각...수사·기소 적절했나</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/09/QI4MPNNUJNEA5DI6GXHVUXUYPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/QI4MPNNUJNEA5DI6GXHVUXUYPI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 08:23:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUDBMEHFD5NPROK2UHAXVUBJ4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사가 지난 12월 29일 오전 서울 종로구 KT 광화문빌딩 웨스트에서 열린 김건희 여사의 각종 의혹 관련 최종 수사 결과 발표 브리핑에서 자료를 살펴보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 측근 김예성씨의 47억원대 횡령 혐의에 대해 법원이 9일 무죄와 공소기각 판결을 내렸다. 민중기 특검은 김씨가 김 여사 일가의 ‘집사’ 역할을 했고 기업들이 김 여사 측에 청탁할 목적으로 김씨 회사에 특혜성 투자를 했다며 ‘집사 게이트’라는 이름으로 수사해 재판에 넘겼다. 그러나 법원은 특검이 혐의를 입증하지 못했거나 권한 없는 수사를 했다고 판단했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26부(재판장 이현경)는 9일 특정경제범죄가중처벌법상 횡령 혐의를 받는 김씨에게 무죄와 공소기각 판결을 내렸다. 공소기각은 소송 조건이 갖춰지지 않았을 때 법원이 심리 없이 소송을 종결하는 절차다. 특검팀은 앞서 김씨에게 징역 8년과 추징금 약 4억원을 구형했었다. &lt;br&gt;&lt;br&gt;재판부는 우선 김씨가 자신이 운영하는 이노베스트코리아 자금 24억3000만원을 횡령했다는 핵심 혐의에 대해 “비마이카의 투자 유치를 성사시키기 위한 일련의 경제적 이익 실현 과정의 일부였고, 김씨가 회사 자금을 불법으로 취득하려는 의사가 있었다고 단정하기 어렵다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;회삿돈 약 24억원을 가족에게 허위 급여로 지급하거나 생활비로 유용했다는 나머지 혐의에 대해서는 공소기각 판결을 내렸다. 재판부는 “특검법상 수사 대상은 김건희 여사 관련 의혹이나 수사 과정에서 인지된 관련 범죄여야 한다”며 “나머지 혐의들은 김 여사와의 관련성이 확인되지 않은 피고인 개인의 비리에 불과해 특검의 수사 대상에 포함되지 않는다”고 했다. 특검이 권한 없는 수사를 통해 공소를 제기했기 때문에 기소 자체가 무효라는 것이다.&lt;br&gt;&lt;br&gt;법원이 특검의 수사권을 문제 삼아 공소를 기각하거나 특검이 혐의 입증을 하지 못했다며 무죄 판결을 내리는 사례가 잇따르고 있다. 법조계에선 특검이 수사 대상을 지나치게 확대하고 부실 수사를 했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;법원은 이른바 ‘양평고속도로 특혜 의혹’과 관련해 기소된 김모 국토교통부 서기관 사건에서도 특검의 수사권이 인정되지 않는다며 공소를 기각했다. 김 서기관은 한 용역업체로부터 3600만원의 뇌물을 받은 혐의를 받았으나 서울중앙지법 형사22부(재판장 조형우)는 이 사건이 김건희 특검법이 정한 수사 대상과는 연관이 없다고 판단했다.&lt;br&gt;&lt;br&gt;윤영호 전 통일교 세계본부장도 일부 혐의에 대해 공소기각 판결을 받았다. 특검은 윤 전 본부장이 김 여사에게 청탁 목적으로 샤넬백 등 금품을 건넨 혐의를 수사하면서, 한학자 통일교 총재의 불법 원정 도박에 관한 증거를 인멸한 혐의를 잡아 수사한 뒤 재판에 넘겼다. 이에 대해 서울중앙지법 형사27부(재판장 우인성)는 “특검법상 수사 대상 규정은 엄격하게 해석돼야 한다”며 “국민적 관심을 이유로 수사 범위를 느슨하게 확대하는 것은 헌법 원리에 반한다”고 지적했다.&lt;br&gt;&lt;br&gt;법원은 이날 김상민 전 부장검사가 김건희 여사에게 이우환 화백의 고가 그림을 건네며 총선 공천을 청탁했다는 혐의(청탁금지법 위반)에 대해서도 대해 무죄를 선고했다. 서울중앙지법 형사21부(재판장 이현복)는 “특검이 제출한 증거만으로는 김 검사가 그림을 자비로 구매해 김 여사에게 전달했다는 사실이 합리적 의심 없이 증명되지 않았다”고 밝혔다. &lt;br&gt;&lt;br&gt;김 여사의 도이치모터스 주가조작 혐의와 무상 여론조사 제공 의혹에 대해서도 1심 재판을 맡은 서울중앙지법 형사27부는 지난달 모두 무죄를 선고했다. 재판부는 일부 정황은 인정하면서도 “범죄 사실의 증명이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민의힘 유영하 의원, 대구시장 출마 선언</title>
+      <link>https://www.chosun.com/national/regional/2026/02/09/E6RV2VA46JAH5F5IGRAH6E2JJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/09/E6RV2VA46JAH5F5IGRAH6E2JJE/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 08:16:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZGGMJTHE3DKYZUHAZDGYTBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유영하 국민의힘 의원(대구 달서구갑)이 9일 대구 중구 인교동 옛 삼성상회 터 앞에서 6·3 지방선거 대구시장 출마를 선언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 유영하(대구 달서구 갑) 의원이 9일 대구 중구 삼성상회 터 앞에서 대구시장 출마를 공식 선언했다. &lt;br&gt;&lt;br&gt;유 의원은 이날 출마 선언에서 “지금이야말로 대구의 생존을 건 과감한 결단이 필요한 때다. 대구의 내일을 열기 위해 시장 선거에 나선다”고 밝혔다. 유 의원은 “2년간의 의정 활동 동안, 진영과 이념을 넘어 정부·여당 인사들과 맺은 인적 네트워크가 대구를 위한 디딤돌이 될 것”이라며 “시민들을 위해 실리를 챙기며, 어떠한 경우라도 대구가 가진 자긍심은 절대 훼손하지 않겠다”고 약속했다. &lt;br&gt;&lt;br&gt;이날 출마 선언 장소로 삼성상회 터를 선택한 것에 대해 유 의원 측은 “삼성의 출발점에서 대구의 내일을 열기 위한 상징적 선택”이라고 설명했다. &lt;br&gt;&lt;br&gt;그는 핵심 공약으로 삼성 반도체 공장 대구 유치, 삼성병원 분원 대구 유치를 제시했다.&lt;br&gt;&lt;br&gt;유 의원은 “대구의 내일을 여는 길을 함께해 달라. 더 낮은 자세로 시민들과 함께하겠다”고 출마 각오를 밝혔다.&lt;br&gt;&lt;br&gt;출마 기자회견 이후 유 의원은 국민의힘 대구시당에서 기자회견을 열었다. &lt;br&gt;&lt;br&gt;이 자리에서 박근혜 전 대통령의 지원 가능성에 대한 질문에 유 의원은 “지난 2022년 대구시장 출마 때처럼 박 전 대통령께서 후원회장을 다시 하시거나 경선 과정에서 지원 유세를 하지 않을 것”이라고 선을 그었다. &lt;br&gt;&lt;br&gt;대구·경북 행정 통합과 관련해서는 “행정 통합은 전체 주민 의사가 중요하다. 주민의 삶의 질이 나아가는 방향으로 가야지, 번갯불에 콩 구워 먹듯 서두를 일은 아니다”라며 신중한 입장을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“납품 지연 장기화”…서울교통공사, 다원시스 사기 혐의로 고소</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/09/4XWPBFJBOBCKLDMYFLZ5KTSHFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/4XWPBFJBOBCKLDMYFLZ5KTSHFM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 06:47:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZW2V25QLVKEHDYB74V72K3IUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 12일 오전 서울 지하철 5호선 광화문역에 도착한 시민들이 바쁘게 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사는 9일 지하철 차량 제작 업체인 다원시스와 박선순 대표를 특정경제범죄 가중처벌 등에 관한 법률(사기) 혐의로 고소했다고 밝혔다. 다원시스의 납품 지연 장기화와 계약 위반 등에 대한 법적 책임을 묻기 위한 조치다.&lt;br&gt;&lt;br&gt;앞서 공사는 서울 지하철 5호선 200칸 구매를 위해 2023년 다원시스와 2200억원 규모 계약을 맺었다. 다원시스는 계약상 이달부터 납품을 시작해야 했지만, 경영 악화 등을 이유로 지금까지 한 칸도 납품을 못 하고 있다. 공사 조사 결과, 다원시스는 납품을 위한 설계 단계조차 완료하지 못한 것으로 드러났다.&lt;br&gt;&lt;br&gt;공사 관계자는 “당초 내년까지 납품을 끝내기로 했는데 기한을 지키지 못할 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;다원시스는 계약 과정에서 공사가 지급한 선금을 목적과 다르게 사용하고 있다는 의혹도 받는다. 다원시스가 선금 중 407억원의 세부 증빙 자료를 제출하지 않았다는 것이다. 공사는 다원시스가 적자 보전 등을 위해 임의로 선금을 유용한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;한편 공사가 2021년 다원시스와 계약한 5호선과 8호선 총 298칸도 납품 지연이 장기화하고 있다. 지난해 납품 정상화를 위해 김천 공장에 전용 라인을 확보하기로 했지만 이것도 지키지 않았다.&lt;br&gt;&lt;br&gt;공사 관계자는 “납품이 늦어지면서 열차 유지 보수에 104억원을 추가로 썼다”며 “지난달 이를 배상하라고 다원시스에 통보했다”고 했다.&lt;br&gt;&lt;br&gt;공사는 서울시 용역과 종합 감사 결과에 따라 추가 고소도 진행한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 김병기 전자기기 포렌식 작업 중… ‘아내 법카 유용’ 의혹 관련</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/09/GIB7G6WHWJDKDOR6NHAAX2WINE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/GIB7G6WHWJDKDOR6NHAAX2WINE/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 08:04:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DGM3CHFSDEMBSGZRDIYTBMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기(서울 동작갑) 무소속 의원의 아내 이모씨가 동작구의회 법인 카드를 사적 유용했다는 의혹과 관련해, 9일 경찰이 김 의원 전자기기 포렌식 작업에 착수했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울경찰청 공공범죄수사대는 이날 오전부터 김 의원 측 변호인 입회 하에 김 의원의 PC 등 전자기기에 대한 포렌식 선별 작업을 진행하고 있다. 선별 작업은 포렌식을 마치고 혐의와 관련한 전자정보만 따로 분류하는 막바지 절차다. 통상 피의자의 법률대리인이 참관한다.&lt;br&gt;&lt;br&gt;앞서 지난달 14일 경찰은 김 의원 자택과 국회 의원회관 사무실 등 6곳을 압수 수색해 PC·휴대전화 등을 확보했다. 당시 김 의원은 경찰에 아이폰을 제출하면서도 비밀번호를 제공하지 않았는데, 이날도 휴대전화는 포렌식 선별 작업에서 빠진 것으로 전해졌다. 최신형 아이폰은 보안성이 뛰어나 비밀번호 없이는 내부 전자정보를 들여다보기 어렵다.&lt;br&gt;&lt;br&gt;경찰은 이씨가 지난 2022년 7~9월 동작구의회 업무추진비 법인 카드를 식대 등 개인적 용도로 사용했다고 보고 있다. 이와 관련해 이씨는 지난달 22일 정치자금법 위반 등 혐의로 소환 조사를 받았다.&lt;br&gt;&lt;br&gt;한편 이씨에게 구의회 법인 카드를 준 혐의를 받는 조진희 전 동작구의원도 이날 오전 피의자 신분으로 경찰에 출석했다. 경찰은 지난달 19일 조 전 구의원의 자택과 사무실, 동작구의회 등에 대한 압수 수색을 진행한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 자료 분석과 관련자 조사를 마친 후, 조만간 김 의원을 소환할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“온라인 게임 계정 판다”...사기·공갈 혐의 20대 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/2026/02/09/5PUT6NU7CFDWVEPSNGX3BUFEEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/09/5PUT6NU7CFDWVEPSNGX3BUFEEQ/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 06:35:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임 계정을 판매한다고 속여 피해자들로부터 500여 만원을 뜯어낸 20대가 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전둔산경찰서는 사기 및 공갈 혐의로 20대 A씨를 검찰에 구속 송치했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월부터 지난달까지 인터넷 게임 커뮤니티에 게임 계정을 판매한다고 속인 뒤 피해자 10명에게서 560만원을 받아 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 피해자들에게서 대금을 송금받으면 바로 접속 비밀번호를 변경해 피해자가 접속하지 못하게 한 뒤 게임사 측 오류라고 속였다고 한다. &lt;br&gt;&lt;br&gt;그는 문제 해결을 위해 게임사를 방문해야 한다며 교통비 등을 추가로 뜯어내기도 했다. 또 ‘돈을 갚으라’고 하는 일부 피해자들에게는 ‘자살하겠다’고 협박을 하기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;피해 신고를 접수한 경찰은 계좌 명의자와 A씨가 일치하는 점 등을 토대로 A씨를 대전 주거지에서 검거했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 출석에 불응하거나 수사를 받는 중에도 추가 범행을 저지르기도 했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 범행으로 인한 피해자가 더 있을 것으로 보고 여죄를 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 “사이버상에서 상품 대금을 현금 결제(계좌 이체)로만 유도하는 경우에는 거래를 자제하고 에스크로(결제 대금 예치) 제도를 활용하는 것이 좋다”고 말했다. 이어 “‘경찰청 사이버캅’ 앱 등으로 검색해 송금 계좌번호와 휴대전화 번호가 범죄와 관련이 있는지 확인하는 것도 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주민·등산객 대피하라”...양산 원동면 야산서 산불 확산 </title>
+      <link>https://www.chosun.com/national/2026/02/09/ZNS5OIAINBEM5LDUVMSQSWKUFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/09/ZNS5OIAINBEM5LDUVMSQSWKUFU/</guid>
+      <dc:creator>양산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 08:04:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4DKZJZGAYGEMDDGZSTIOLCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 경남 양산시 원동면에 발생한 산불 현장. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산 원동면에서 9일 오후 농막에서 시작된 것으로 추정되는 산불이 발생해 산림 당국이 진화에 나섰다. &lt;br&gt;&lt;br&gt;산림청 중앙사고수습본부와 양산시 등에 따르면 이날 오후 3시 31분쯤 양산시 원동면 용당리 한 야산 일원에서 불이 났다. &lt;br&gt;&lt;br&gt;오후 4시 30분 기준 진화 헬기 20대, 진화 차량 22대, 진화 인력 123명이 투입돼 산불 확산을 막기 위해 진화 작업을 펼치고 있다. 현장에는 서남서풍이 초속 1.2m로 불고 있다고 한다. &lt;br&gt;&lt;br&gt;현재까지 인명 피해는 발생하지 않았다. 불은 주택 뒤 대밭 인근 농막에서 시작한 것으로 추정된다. &lt;br&gt;&lt;br&gt;양산시는 이날 오후 4시 19분쯤 ‘용당리 인근 산불이 확산 중으로 인근 주민과 등산객은 원동초등학교로 즉시 대피하라’는 대피 명령을 발령했다. 현재 신곡리 주민 67명, 중리 주민 55명이 원동초등학교와 원동중학교에 대피했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 2월 10일 화요일 (음력 12월 23일 乙卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/09/56HF6557BNE6TEWUNW2JL3PNIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/56HF6557BNE6TEWUNW2JL3PNIQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>특검, 김예성 석방-김상민 집행유예 1심 선고에 “항소”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/09/UZGP7HAETRCTTKBZB24QYQ3YZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/UZGP7HAETRCTTKBZB24QYQ3YZM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 07:41:07 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3WCODGMY3GCYTEMI4WKOLCGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희와 명태균·건진법사 관련 국정농단 및 불법 선거 개입 사건 등 진상규명을 위한 특별검사팀 민중기 특별검사. photo 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검은 9일 김건희 여사 측근으로 불렸던 김예성씨에게 1심에서 공소기각과 무죄가 선고되고, 김상민 전 부장검사도 김 여사 관련 혐의에 대해서는 무죄가 선고되자 “항소하겠다”고 했다.&lt;br&gt;&lt;br&gt;특검은 이날 김씨와 김 전 검사에 대한 법원 선고 후 “김씨에 대한 무죄 및 공소기각 판결, 김 전 검사에 대한 무죄 및 집행유예 판결은 관련 법리 및 증거에 비추어 수긍하기 어렵다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26부(재판장 이현경)는 이날 특정경제범죄가중처벌법상 횡령 등의 혐의를 받는 김씨에게 일부 공소기각과 일부 무죄를 선고하고 김씨의 석방을 지휘했다. &lt;br&gt;&lt;br&gt;재판부는 특검이 기소한 김씨 개인 및 가족 비리 혐의는 특검법상 수사 대상이 되지 않는다며 공소기각했다. 공소기각은 수사나 기소가 위법해 기소 자체를 무효로 하고 심리를 종결하는 것이다. 재판부는 “관련 혐의는 김건희 여사와의 관련성에서 비롯됐다고 보이지 않고, 의혹의 중요한 수사 대상인 투자금과도 무관하고 범행 시기도 광범위하다”며 “단지 피고인이 동일하다거나 소유 법인이 횡령 피해자가 된다는 사실만으로 특검법상 수사 대상인 ‘관련 범죄’로 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;또한 법원은 김씨가 자신의 차명법인인 이노베스트코리아 자금 24억3000만원을 빼돌린 혐의는 무죄로 판단했다. &lt;br&gt;&lt;br&gt;특검은 김씨가 2023년 IMS모빌리티 투자사 중 일부가 출자금을 50억원에서 35억원으로 낮추면서 펀드 설립이 무산되려 하자, 조영탁 IMS모빌리티(옛 비마이카) 대표가 개인 채무로 펀드 출자금을 충당했다고 봤다. 투자 유치가 확정돼 이노베스트코리아에 IMS모빌리티 구주 매매대금 46억원이 들어오자 김씨는 2023년 6~7월 조 대표에게 24억3000만원을 보내 채무를 갚도록 했다. &lt;br&gt;&lt;br&gt;특검은 김씨와 조 대표가 공모해 이노베스트코리아 법인 자금을 빼돌렸다고 주장했지만, 재판부는 “조 대표가 15억원을 빌려서 투자를 성사시켰고, 이에 이노베스트코리아도 IMS모빌리티 주식을 46억원에 매도해 경제적 이익을 얻을 수 있었다”면서 “IMS모빌리티 주식 대금 일부를 조 대표에게 준 금액을 횡령이라고 단정할 수 어렵다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김건희 특검은 김씨에게 징역 8년과 추징금 4억3233만원을 구형했다.&lt;br&gt;&lt;br&gt;김상민 전 부장검사는 이날 징역 6개월에 집행유예 1년을 선고받았다. 서울중앙지법 형사21부(재판장 이현복)는 이날 김 전 검사 1심 선고 공판에서 청탁금지법 위반 혐의는 무죄를 선고했다. &lt;br&gt;&lt;br&gt;특검은 재판에서 김 전 검사가 2023년 2월 김 여사 측에 시가 1억4000만원 상당의 이우환 화백 작품을 건네며 제22대 총선 공천과 국가정보원 공직 인사를 청탁했다고 주장했다. 그러나 재판부는 “김 전 검사가 그림을 실제 구매했거나, 김 전 검사가 그림을 김 여사에게 제공했다는 점이 합리적 의심의 여지 없이 증명됐다고 보기 어렵다”며 인정하지 않았다.&lt;br&gt;&lt;br&gt;법원은 김 전 검사가 총선 출마를 준비하던 2023년 12월 선거운동에 사용할 카니발 차량의 리스 선납금과 보험료 약 4139만여 원을 사업가 김모씨에게 대납시킨 혐의(정치자금법 위반)만 유죄라고 보고 징역 6개월에 집행유예 1년, 추징금 4139만여 원을 선고했다. 김건희 특검은 구형은 징역 6년이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이부진, 서울대 합격한 아들 졸업식서 환한 미소</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/09/U2WLJTVNKJFITGCGUECGYXXPZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/U2WLJTVNKJFITGCGUECGYXXPZ4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 07:35:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUF4SWE2NNMA5PNOVIYDWR564U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장이 9일 서울 강남구 휘문고등학교에서 열린 아들 임동현군의 졸업식에 참석해 기념 촬영을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부진 호텔신라 사장이 아들 임동현 군의 고등학교 졸업식에 참석한 모습이 포착됐다.&lt;br&gt;&lt;br&gt;이 사장은 9일 휘문고등학교 졸업식을 찾아 이모인 홍라영 전 리움미술관 총괄부관장과 함께 행사장을 찾았다. 이날 모습은 언론 카메라에 포착됐다. 약 1시간가량 진행된 졸업식 동안 그는 공연 무대를 바라보며 박수를 보냈고, 멀리서 아들을 향해 손을 흔들며 밝은 표정을 지었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ETUK47T3NNCFCTLEPOF3NBPWI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;홍라영 전 삼성미술관 리움 총괄부관장(왼쪽)과 이부진 신라호텔 사징이 9일 서울 강남구 휘문고등학교에서 열린 임동현 군의 졸업식에 참석해 즐거운 시간을 보내고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸업식은 오전 9시 35분쯤 식전 공연과 함께 시작됐다. 무대에 오른 임 군과 친구들은 부활의 ‘네버엔딩 스토리’와 신해철의 ‘그대에게’를 부른 것으로 알려졌다. &lt;br&gt;&lt;br&gt;임 군은 초·중·고교 과정을 모두 국내에서 이수했다. 어머니 이부진 사장이 졸업한 서울 경기초등학교를 시작으로 휘문중학교와 휘문고등학교를 거쳤다. 최근에는 대학수학능력시험에서 우수한 성적을 거두고 서울대 경제학과에 합격한 사실이 알려지며 화제를 모았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDPPDRMG7NMGZBMFU7PGW4CUMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;홍라영 전 삼성미술관 리움 총괄부관장(왼쪽)과 이부진 신라호텔 사징이 9일 서울 강남구 휘문고등학교에서 열린 임동현 군의 졸업식에 참석해 기념 촬영을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸업에 앞서 임 군은 지난 2일 서울 강남구 대치동의 한 입시학원에서 예비 고등학교 1학년을 대상으로 열린 내신 설명회에 연사로 나섰다. 임 군은 ‘후회 없는 휘문 생활’이라는 제목의 강연 자료를 직접 만들어, 내신 관리 방법과 수능 공부 노하우 등을 설명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;임 군은 “내신 시험마다 약 2000문제씩 푼 연습량이 수학 체력을 향상시켰다”며 “사고력을 요구하는 문제에 대비하는 공부를 권장한다”고 했다. 또 “3년간 스마트폰과 게임을 완전히 단절하는 것을 적극 추천하고 싶다”며 “집중력과 몰입에 도움이 됐고, 모든 시험을 마친 뒤 3년 만에 맛보는 즐거움도 꽤 괜찮았다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서해 피살 유족, 유엔 北인권보고관 면담...“한미일 피해자 연대에 관심 보여”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/09/2ISI2FNVUFHHHB5IMPCBHUMGDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/2ISI2FNVUFHHHB5IMPCBHUMGDM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 07:20:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMPHOC55PBGPRCOULGBL6YZ3KA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 종로구에서 '서해 피살 사건'의 유족 이래진(왼쪽에서 두 번째)씨와 이씨를 대리하는 김기윤(맨 왼쪽) 변호사가 엘리자베스 살몬 유엔 북한인권특별보고관과 면담하고 있다./김기윤 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘서해 공무원 피살 은폐’ 사건 유가족 측이 9일 유엔 북한인권 담당자와 면담하며 “한·미·일 피해자 연대에 관심을 가져달라”고 촉구했다.&lt;br&gt;&lt;br&gt;고(故) 이대준씨의 친형 이래진씨와 유족 측 법률 대리인인 김기윤 변호사는 이날 오전 서울 종로구 서울글로벌센터에서 엘리자베스 살몬 유엔 북한인권특별보고관과 면담했다고 밝혔다. 면담 자리에서 유족 측은 살몬 보고관에게 지난 12월 26일 서훈 전 국가안보실장 등에 대한 1심 판결문과, 작년 2월 북한을 상대로 손해배상 청구를 해 승소한 판결문을 제출했다. &lt;br&gt;&lt;br&gt;김 변호사는 “판결문에 적힌 ‘표류자 들여오지 말고 7.26㎜ (총기로 사살)하라고 한다' 등 구체적인 내용에 대해 설명했다”고 했다. 이래진씨는 “판결문에 보면 동생이 호루라기를 불어 구조를 요청했다는 내용이 여러 차례 나오는데, 그럼에도 북한이나 한국 정부에서 구조에 나서지 않았다”고도 했다.&lt;br&gt;&lt;br&gt;유가족 측은 한국을 비롯한 일본, 미국 등에서도 북한의 책임을 인정하는 사법 판결이 나온 만큼, 세 국가의 연대가 필요하다는 입장도 전했다고 한다. 김 변호사는 “정신적 연대뿐만 아니라, 북한을 상대로 한 재산 회수를 어떻게 할지 등을 논의할 수 있는 자리를 만들어달라고 요청했다”며 “살몬 보고관이 ‘상당히 좋은 아이디어(very good idea)’라고 했다”고 했다.&lt;br&gt;&lt;br&gt;유가족 측은 오는 11월 감사원 유병호 감사위원과도 면담을 진행할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>티웨이항공 여객기, 대만 착륙중 바퀴 빠져…인명피해는 없어 </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/09/LS7WI2SQXBA5DJUXFNOC5OLW3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/09/LS7WI2SQXBA5DJUXFNOC5OLW3Y/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 06:39:26 +0000</pubDate>
+      <content:encoded>대만에서 착륙 중이던 티웨이항공 여객기의 바퀴가 이탈하는 사고가 발생했다. 다행히 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQYGEM3DMJRGKZRVMRRTCOLCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 대만 타오위안 국제공항에 착륙한 티웨이 여객기에서 바퀴가 이탈하는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 항공업계에 따르면, 제주에서 출발한 티웨이항공 TW687편(B737-800)이 전날 오후 3시 50분쯤(현지 시각) 대만 타오위안 국제공항에 착륙하는 과정에서 우측 랜딩기어의 타이어가 빠지는 사고가 발생했다. 활주로에 착륙해 감속하던 중 바퀴가 이탈한 것으로 알려졌다. 이 항공기에는 승객 185명이 탑승하고 있었다.&lt;br&gt;&lt;br&gt;다행히 여객기는 활주로에 안전하게 멈췄으며, 탑승객과 승무원 모두 무사한 것으로 나타났다. 항공사와 관계 당국은 현재 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;공항 당국은 사고 수습을 위해 활주로를 일시 폐쇄하고 활주로 표면 이상 여부 등을 점검했다. 이로 인해 출발·도착이 지연된 항공편은 모두 14편인 것으로 알려졌다. 폐쇄됐던 활주로는 약 1시간 40분 뒤인 오후 5시 35분쯤 운영이 재개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘정치자금법 위반’ 김경욱 전 인천국제공항공사 사장, 1심서 벌금형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/09/OMJKP44NANCGNBCXJPDOKPL3WY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/09/OMJKP44NANCGNBCXJPDOKPL3WY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 06:54:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Q6ELNGU7NHV5GVEB467PYHUV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치자금법 위반 혐의로 재판에 넘겨진 김경욱 전 인천국제공항공사 사장이 1심에서 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;청주지법 충주지원 형사2단독 조정익 부장판사는 9일 &lt;br&gt;&lt;br&gt; 21대 총선을 앞두고 전기설비 업자로부터 1000만원을 받은 혐의(정치자금법 위반)로 재판에 넘겨진 김 전 사장에게 벌금 500만원을 선고하고, 1000만원 추징을 명령했다.&lt;br&gt;&lt;br&gt;김 전 사장은 지난 2020년 4월 1일 충주시 호암동의 한 카페에서 전기설비 업자 A씨로부터 1000만원을 받은 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 부인하며 반성하지 않고 있고, 죄책도 가볍지 않다”며 “형사처벌 전력이 없는 점은 유리한 사정으로 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;재판부는 같은 혐의로 기소된 A씨에게는 벌금 50만원을 선고했다.&lt;br&gt;&lt;br&gt;김 전 사장은 21·22대 총선 충주 선거구에 더불어민주당 후보로 출마했으나 모두 낙선했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 김상민 前 검사, ‘김건희 그림 청탁’ 무죄…불법 정치자금 유죄, 징역6개월·집유1년</title>
       <link>https://www.chosun.com/national/court_law/2026/02/09/D5YBGCBIDRHOXFF4XHRLVWV5GQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/D5YBGCBIDRHOXFF4XHRLVWV5GQ/</guid>
@@ -455,24 +585,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJGLSWJ77FAG7PRZE6TIWQFWVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 오후 9시 40분쯤 경북 경주시 문무대왕면 입천리에서 산불이 발생했다. 경북 경주와 포항 일대에 강풍 특보와 건조 특보가 동시에 내려진 상황이었다. 산불은 강한 바람을 타고 번졌고 소방 당국은 8일 오전 11시 33분 ‘국가소방동원령’을 내렸다. 산림청은 헬기 45대 등을 투입한 끝에 이날 오후 6시쯤 큰불(주불)을 잡았다고 밝혔다. 산불이 난 지 20시간 20분 만이었다. 산림청 관계자는 “순간 초속 21m가 넘는 태풍급 강풍이 부는 데다 송전탑까지 있어 불길을 잡는 데 시간이 걸렸다”고 했다. 이날 오후 8시20분쯤 잔불이 재발화 하는 등 ‘완진’까지는 시간이 더 걸릴 것으로 보인다고 산림청은 밝혔다. 이번 불로 축구장 76개 넓이와 비슷한 약 54㏊ 숲이 불탔다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재밌다, 이 책] 손가락 모두 붙어 발가락으로 삯바느질… 조선 후기 서민들의 ‘치열한 삶’ 이야기</title>
-      <link>https://www.chosun.com/national/nie/2026/02/09/U42GU2CGHBBJ3PCS6YEI2ID67Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/09/U42GU2CGHBBJ3PCS6YEI2ID67Y/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5XNGEN3TZCA7D5BVVM3FTZQH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;조수삼 지음 l 허경진 옮김 l 출판사 서해문집 l 가격 9500원&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘추재기이’는 조선 후기 시인 조수삼(1762~1849)이 자신이 살던 시대의 인물들을 기록한 책이에요. 조수삼은 양반이 아니라 중인 신분으로 영조·정조 시대에 주로 활동했습니다. ‘추재’는 그의 호(號)입니다. ‘기이(紀異)’에서 ‘기’는 기록한다는 뜻이고, ‘이’는 이상하다·낯설다는 의미예요. 결국 ‘추재기이’는 ‘조수삼이 기록한 이상한 사람들’이란 뜻이 되겠네요.&lt;br&gt;&lt;br&gt;책에는 거지, 기생, 도둑, 악사, 약재상, 장애인, 소금 장수, 낚시꾼, 상여꾼, 등짐꾼, 갓 만드는 사람 등 총 71명이 나옵니다. 조선 사회에서 사람들이 바람직하다고 여기는 삶과는 다르게 사는 ‘이상한’ 사람들이죠.&lt;br&gt;&lt;br&gt;자주 굶는 한 물지게꾼이 있었습니다. 동네 사람들은 그가 가여워 밥을 먹이곤 했지요. 가뭄이 들고 마을의 우물과 샘물이 말라 버리면, 물지게꾼은 한밤중에 산으로 올라 누워 기다리다가 샘물이 차오르면 새벽에 물을 길어 동네 사람들에게 나눠 줬습니다. 이유를 묻자 그는 “밥 얻어먹은 은혜를 갚지 않을 수 없다”고 답했습니다.&lt;br&gt;&lt;br&gt;다리 저는 한 장애인은 안경알을 갈고 닦는 일로 먹고살았습니다. 종일 앉아서도 할 수 있는 일이라 택한 직업이죠. 그는 어느 날 집으로 돌아가다가 떠오르는 달을 바라보며 말했습니다. “달이 떠오르는 것을 보면 안경을 갈고 닦는 법을 깨닫게 되지.” 달과 안경알은 모두 둥근 모양이고, 안경알을 갈고 닦는 일이 달을 보며 마음을 갈고 닦는 일과 비슷하기 때문이라고 합니다. &lt;br&gt;&lt;br&gt;손가락이 모두 붙어버린 여인이 있었습니다. 절구질도 다듬이질도 발가락으로 해냈습니다. 밤이면 발가락으로 삯바느질을 해 살림을 꾸렸습니다. 그렇게 할 수 있기까지 눈물겨운 노력을 기울였을 것입니다.&lt;br&gt;&lt;br&gt;책에 소개되는 인물 중 한 명인 김호응은 서쪽 한강에서 배를 운행하며 가난하게 살았지만 어려운 이를 돕는 의협심이 깊었습니다. 길에서 말썽이 일어나면 늘 약한 사람 편을 들었고 때로는 자기 목숨까지 걸었습니다. 그가 있어서 마을 사람들은 옳지 못한 짓을 감히 하지 못했습니다.&lt;br&gt;&lt;br&gt;‘추재기이’에는 형편이 어렵고 조건이 불리하지만 전문적인 기술이나 재주를 익혀 먹고사는 사람들이 많이 나옵니다. 신분도 낮고 사람들이 낮춰 보는 일을 하지만, 노력으로 삶을 당당히 꾸려가는 사람들입니다. ‘추재기이’에 나오는 인물들 가운데 우리가 이름을 알 수 있는 사람은 몇 명 되지 않습니다.&lt;br&gt;&lt;br&gt;큰 업적을 남긴 사람을 기록한 위인전은 많지만, 사실상 잊힌 보통 사람들을 기록한 책은 매우 드뭅니다. 조수삼 덕분에 오늘날 우리는 조선 후기 보통 사람들의 삶과 사회의 모습을 제대로 그려볼 수 있습니다. 오늘 우리의 하루하루 삶도 미래의 이야기이자 역사가 될 수 있습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 2월 9일</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/09/O2K6MKGERBHKBF5KPZKOFE2POE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/O2K6MKGERBHKBF5KPZKOFE2POE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEBCRPN7KFAHJCCYY5QPPUK7XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님 [세계 미술관 산책] 세 명의 여성, 20대 관장이 키운 현대 미술 중심지</title>
       <link>https://www.chosun.com/national/nie/2026/02/09/CH5MI2C255AERERXWSVAUAAH5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/09/CH5MI2C255AERERXWSVAUAAH5M/</guid>
@@ -492,51 +604,6 @@
 월악산에서 등산객들이 설경을 바라보고 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 제천의 월악산(1095m)은 달 월(月), 큰 산 악(岳) 자를 써요. 옛사람들은 이 산을 두고 ‘달이 걸리는 산’이라 불렀어요. 능선 위로 달이 뜨면 바위와 숲은 은은한 달빛으로 물들어요. 정상인 영봉(靈峰)은 ‘신령스러운 봉우리’라는 의미를 지녔죠. ‘삼국사기’에는 신라가 이곳에서 나라의 제사를 지냈다는 기록이 나와요.&lt;br&gt;&lt;br&gt;월악산 남쪽 산줄기에는 ‘하늘재’라는 고개가 있어요. 충북 충주와 경북 문경을 잇는 고개로, 중부와 영남 지방의 통로였습니다. 고려 말까지는 중요하게 여겨졌지만 조선 초에 다른 고개인 ‘새재’가 개통되며 하늘재는 쇠퇴했어요. 하늘재 기슭의 ‘미륵대원지’는 이곳의 흥망성쇠를 보여주는 곳입니다. 과거에는 미륵대원이 대형 사찰로 번창했지만, 하늘재 역할이 쇠락한 조선 초 이후엔 빈터만 남았죠.&lt;br&gt;&lt;br&gt;역사서를 살펴보면 하늘재가 과거 군사적 요충지였다는 사실도 알 수 있습니다. ‘고려사’에 따르면, 고려 시대에 몽골군이 쳐들어와 고려군이 충주에서 패하고 월악산으로 피해 진을 쳤는데, 갑자기 비바람이 치고 우박이 쏟아졌다고 해요. 몽골군은 월악산에서 산신령이 고려군을 돕는다고 생각해서 더 이상 공격하지 못하고 물러갔다고 해요. &lt;br&gt;&lt;br&gt;월악산을 둘러싸고 전해지는 이야기는 이뿐만이 아닙니다. 한국학중앙연구원에 따르면, 신라 마지막 왕인 경순왕의 장남 마의태자와 딸 덕주공주가 신라의 부활을 꿈꾸며 지금의 강원도 오대산으로 가던 중 두 사람 꿈에 관음보살이 나타나 ‘월악산에 불상을 세우라’고 전했다고 해요. 마의태자는 미륵사(미륵대원)에 석조여래입상(보물 96호)을 만들고, 덕주공주는 덕주사를 세워 마애여래입상(보물 406호)을 만들었답니다. 이후 마의태자는 8년을 미륵사에서 지내다 오대산으로 떠나고, 덕주공주는 월악산에 머물다 숨을 거두었다고 해요. 다만 마의태자는 역사서에 기록이 남아 있는 인물이지만, 덕주공주는 지리서 ‘신증동국여지승람’과 덕주사 창건 기록 등으로 전해지는 설화 속 인물이랍니다.&lt;br&gt;&lt;br&gt;‘악’ 자가 들어가는 산은 산세가 험악해 산행이 힘들다는 말이 있는데요. 월악산도 그렇습니다. 영봉을 가려면 가파른 계단을 피할 수 없기 때문입니다. 산악인 엄홍길 대장은 “월악산은 계단이 너무 많아서 히말라야보다 더 힘들게 느껴지더라”라고 말한 적도 있어요.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 위용(威容)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/02/09/7W64F2TEN5H4VIVSVG4PSX6CPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/02/09/7W64F2TEN5H4VIVSVG4PSX6CPE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSKTKOMDLFGG3JTOPQRX5AVBDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 일하고 휴식하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/02/09/N7U5H2P6UZGHTFAEFWG2JFCIAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/02/09/N7U5H2P6UZGHTFAEFWG2JFCIAQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQY4OVTKEJGUPO2XV7C46QB5WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2804] 강세 바꿔 읽기</title>
-      <link>https://www.chosun.com/national/nie/2026/02/09/JUMTJORZ25HQJHDZDNFRE4B2GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/09/JUMTJORZ25HQJHDZDNFRE4B2GE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKBMRHIR7NAT3MA2CMPWDJ63P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 벽에 부딪히다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/02/09/RXSFVMD3KFC6BPY7KRYYEWUTJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/02/09/RXSFVMD3KFC6BPY7KRYYEWUTJE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FTN35ISENBOPMMXIBDA6V2BDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] come from money</title>
-      <link>https://www.chosun.com/national/nie/english/2026/02/09/LWMNGXH42ZAOHI3N7Y44EDGEGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/02/09/LWMNGXH42ZAOHI3N7Y44EDGEGI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIWPSKFUB5FURKKCM22IFJEGDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“실업팀 없어 대학 졸업 후 막노동” 한국 첫 메달 안긴 김상겸 누구?  </title>
       <link>https://www.chosun.com/national/people/2026/02/09/TD5R65A4QFDCJCH4MY4ARXJFCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/09/TD5R65A4QFDCJCH4MY4ARXJFCM/</guid>
@@ -546,24 +613,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4AIUC2BQJPVLEKW3WSFOZHOUI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 스노보드 남자 평행 대회전에서 값진 은메달을 획득한 김상겸이 8일(현지시각) 이탈리아 리비뇨의 스노파크에서 열린 2026 밀라노·코르티나담페초 동계올림픽 스노보드 남자 평행 대회전 시상식을 마친 뒤 기뻐하고 있다. 2026.2.8/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026 밀라노·코르티나담페초 동계 올림픽에서 한국 선수단에 첫 메달을 안긴 스노보드 김상겸(37·하이원)에 대한 관심이 쏟아지고 있다. &lt;br&gt;&lt;br&gt;김상겸은 8일 이탈리아 리비뇨 스노 파크에서 열린 대회 남자 평행 대회전 결승에서 베냐민 카를(오스트리아)을 맞아 0.19초 차로 패하며 은메달을 목에 걸었다. 이번 올림픽 한국 선수단의 첫 메달이자, 하계 포함 한국 올림픽 역사상 400번째 메달이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNNARAOTKRFX5CXHLW4BRG3LFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후(현지시간) 이탈리아 리비뇨 스노우 파크에서 열린 2026 밀라노 코르티나 동계 올림픽 남자 평행대회전에 출전한 김상겸이 은메달을 확정지은 뒤 포효하고 있다. 리비뇨=장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 평창 출신인 김상겸은 초등학교 저학년 때 천식으로 2주간 병원에 입원할 정도로 허약한 아이였다. 보다 못한 부모가 운동을 시켰고 육상과 씨름을 하며 체력을 키웠다고 한다. 중학교 2학년 때 스노보드부가 창단하면서 체육 교사의 권유를 받고 본격적으로 슬로프를 밟았다. &lt;br&gt;&lt;br&gt;2011년 한체대를 졸업한 후에는 실업팀이 없어 생계를 유지하기 위해 막노동에 뛰어들었다. 훈련 기간에도 주말 하루는 아르바이트를 하며 운동과 일을 병행했다. 시즌이 끝난 휴식기에도 일용직을 해왔다고 한다. 2019년 현 소속팀에 입단하며 생계 걱정에서 벗어났고 비로소 훈련에 집중할 수 있게 됐다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UF3I4UGI4BLM7MI6ZIR4TUNEOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;스노보드 남자 평행 대회전에서 값진 은메달을 획득한 김상겸이 8일(현지시간) 이탈리아 리비뇨의 스노파크에서 열린 2026 밀라노·코르티나담페초 동계올림픽 스노보드 남자 평행 대회전 시상식을 마친 뒤 메달을 깨물며 기뻐하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자기 관리에도 철저하다. 한때 주량이 소주 4병을 넘길 만큼 술을 즐겼지만 실업팀 입단 후에는 더 좋은 선수가 되기 위해 술도 끊었다고 한다. 그는 과거 인터뷰에서 컨디션을 최상으로 끌어올리기 위해 매일 꼭 10시간의 수면 시간을 유지한다고 밝히기도 했다.&lt;br&gt;&lt;br&gt;김상겸은 한국 스노보드 평행대회전 베테랑이자 대표팀 맏형이지만 유독 올림픽과는 인연이 없었다. 2014년 소치 대회(17위) 때는 예선 탈락했고, 2018년 평창 대회(15위)는 8강에 오르지 못했다. 또 2022년 베이징 대회에선 24위에 그쳐 16강 진출에 실패했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFVBCBJK4JLRZCIM7OBBGRMGYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;스노보드 남자 평행 대회전에서 값진 은메달을 획득한 김상겸이 8일(현지시간) 이탈리아 리비뇨의 스노파크에서 열린 2026 밀라노·코르티나담페초 동계올림픽 스노보드 남자 평행 대회전 시상식에서 기뻐하고 있다. 
  
 왼쪽부터 김상겸, 베냐민 카를(오스트리아), 테르벨 잠피로프(불가리아). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 개인 통산 네 번째 올림픽 무대에서 이변을 만들어내며 생애 첫 올림픽 메달을 거머쥐게 됐다.&lt;br&gt;&lt;br&gt;스노보드 평행대회전은 32명의 선수가 2명씩 나눠 블루, 레드 코스에서 한 차례씩 경기해 합산 기록에 따라 상위 16명이 결선에 오른 뒤 16강부터 결승까지 단판 승부로 순위를 가린다.&lt;br&gt;&lt;br&gt;김상겸은 예선 1, 2차 시기 합계 1분 27초 18을 기록, 8위로 16강에 진출했다. 16강에서 잔 코시르(슬로베니아)를 제친 김상겸은 8강에서 우승 후보였던 롤랜드 피슈날러(이탈리아)를 상대로 승리하고 준결승에서 테르벨 잠피로프(불가리아)를 제치며 이변을 연출했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20시간 만에 주불 잡혔던 경주 산불, 2시간 만에 재발화</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/08/JOW5QBUMD5F2PPGJRUDIGRZZUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/08/JOW5QBUMD5F2PPGJRUDIGRZZUM/</guid>
-      <dc:creator>경주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 13:01:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAMSUFOUW5DIFI2GU2VDRYPARA.png"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 8시 20분쯤 주불 진화가 완료됐던 경북 경주시 문무대왕면 입천리 산불이 재발화돼 산림과 소방당국이 진화작업에 나섰다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20시간 만에 주불 진화가 됐던 경북 경주 산불이 재발화했다. &lt;br&gt;&lt;br&gt;8일 산림청은 이날 오후 8시20분쯤 잔불이 재발화 하는 등 완진까지는 시간이 더 걸릴 것으로 보인다고 밝혔다. &lt;br&gt;&lt;br&gt;안동 교차로 인근에서 발화된 산불은 강한 바람이 불면서 화선을 넓히며 정상 쪽으로 번지고 있다. &lt;br&gt;&lt;br&gt;앞서 이날 오후 6시에 주불 진화를 완료한 산림당국은 인력과 장비를 동원해 잔불 감시에 들어갔는데, 재발화로 투입하지 못하고 진화에 난항을 겪고 있다. &lt;br&gt;&lt;br&gt;재발화한 곳은 급경사지에다 지형이 높아 진입이 어려운 것으로 알려졌다. 또한 송전탑으로 인해 헬기 가동이 되지 않아 방어선을 구축하고 있다는 게 당국의 설명이다. &lt;br&gt;&lt;br&gt;이 산불은 지난 7일 오후 9시 40분쯤 발생했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남 여수 야산에서 화재… 산림당국, 진화 중</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/08/KWPBT7GFPZALJGAZNTK5IU5AWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/08/KWPBT7GFPZALJGAZNTK5IU5AWI/</guid>
-      <dc:creator>여수=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 12:04:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23U6ZHT7FFBTXLHT3SXCFVAUDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 7시 47분쯤 전남 여수시 묘도동의 한 야산에서 불이 나 소방당국이 불길을 잡고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수의 한 야산에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;8일 산림당국 등에 따르면 이날 오후 7시 47분쯤 여수시 묘도동의 한 야산에서 불이 났다.&lt;br&gt;&lt;br&gt;산림·소방 당국은 펌프 차량과 산불 진화 차량 등 장비 18대와 인력 86명을 동원해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;주변 민가 주민들은 대피했으며 현재까지 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;강한 바람으로 밤샘 진화 작업이 이어질 것으로 보인다. 이날 오후 8시 30분 기준 전남 여수 여수산단 인근에는 13.5㎧의 바람이 불고 있으며 강풍주의보가 내려진 상태다.&lt;br&gt;&lt;br&gt;산림당국은 불길을 잡는대로 정확한 화재 원인 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원 “을숙도 내 길고양이 급식소 설치시 철새 보존에 영향“</title>
@@ -586,43 +635,6 @@
         <media:description type="plain">영하권 강추위를 보인 8일 서울 중구 명동을 찾은 여행객들이 두꺼운 옷차림을 한 채 이동하고 있다./뉴시스</media:description>
         <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경주 산불 “송전탑서 ‘펑’ 소리 후 불길” 증언 나와</title>
-      <link>https://www.chosun.com/national/2026/02/08/JJAZTFKBCVHPJKIT243UXBC6UU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/08/JJAZTFKBCVHPJKIT243UXBC6UU/</guid>
-      <dc:creator>경주=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 07:53:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CAVMJSLVJOJ7FF5JKW5EYNEKY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 경북 경주시 문무대왕면 산불이 강풍을 타고 주변으로 확산하자 산불 진화에 투입된 헬기가 송전탑 주변에서 산불을 진화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주 산불의 발화 원인으로 송전탑에서 발생한 스파크 가능성이 제기됐다. &lt;br&gt;&lt;br&gt;8일 경주시 등에 따르면 7일 오후 문무대왕면에서 발생한 산불과 관련해 인근 주민들이 송전탑에서 불이 시작됐다고 진술했다.&lt;br&gt;&lt;br&gt;발화 지점인 문무대왕면 입천 마을 바로 아래 설치된 송전탑에서 불꽃이 튀는 것을 목격한 주민도 있다. 경주시 관계자는 “산불이 난 후 현장에서 만난 입천리 마을의 한 어르신이 ‘송전탑에서 큰소리가 난 뒤 불이 나는 것을 봤다’고 진술했다”며 “‘펑’ 소리가 나서 밖으로 나와 보니 불이 송전탑에 붙어 있었다’는 진술이었다”고 전했다. &lt;br&gt;&lt;br&gt;경주시 산림과는 산불이 진화되는 대로 송전탑 스파크 여부 등 산불 전후 관계를 조사할 방침이다. &lt;br&gt;&lt;br&gt;한국전력은 조사 전이라서 아직 단정하기 어렵다는 입장이다. 한전 측은 “최초 산불이 송전탑에서 시작됐는지, 아니면 산불이 먼저 발생한 뒤 송전탑으로 옮겨붙었는지 아직 단정할 수 없다”며 “현재까지 밝혀진 것은 없지만 스파크 발생 시각을 확인 중”이라고 했다. &lt;br&gt;&lt;br&gt;경주시 문무대왕면 산불은 전날 오후 9시 40분쯤 발생했다. 8일 오후 3시 30분 기준 산불 영향 구역은 52ha이며 진화율은 85%다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 2월 9일 월요일 (음력 12월 22일 甲寅)</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/08/4V5BQZHFBBAQHDUI6M36W33POQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/08/4V5BQZHFBBAQHDUI6M36W33POQ/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>이화여대, 멀티스케일 물질·시스템 연구소(IMMS) 출범</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/23/IVKWAJMC4VBEBB3P2OSOHNVU4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/23/IVKWAJMC4VBEBB3P2OSOHNVU4M/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Jan 2026 07:19:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QLL72PO2VACTH7FITOFJULWPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 이화여대 ECC 이삼봉홀에서 열린 ‘멀티스케일 물질 및 시스템 연구소(IMMS)’ 개소식. /이화여대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대가 화학·물리·신소재·인공지능 등 미래 전략기술을 선도해 갈 국가연구소를 출범한다.&lt;br&gt;&lt;br&gt;이화여대는 22일 교내 ECC 이삼봉홀에서 ‘멀티스케일 물질 및 시스템 연구소(IMMS)’ 개소식을 열고 학문 간 경계를 허무는 초경계적 융합 연구를 수행할 국가연구소(NRL 2.0)를 출범했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;IMMS는 과학기술정보통신부와 교육부가 공동 지원하는 ‘2025 국가연구소(NRL 2.0) 사업’에 선정된 연구소다. 원자·분자 수준의 소재 설계부터 나노·마이크로 구조 및 시스템 구현에 이르는 멀티스케일 통합 연구·기술 개발의 혁신을 목표로 한다.&lt;br&gt;&lt;br&gt;구체적인 3대 목표로는 물질·시스템 분야 세계 선도 연구 성과 창출, 초경계적 소재 공정 난제 연구 플랫품 구축, 글로벌 과학 인력 양성 파이프라인 가동 등이 제시됐다.&lt;br&gt;&lt;br&gt;IMMS는 향후 10년간 연간 100억원씩 총 1000억원 규모의 블록펀딩 지원을 받게 된다. 이를 통해 실험·이론·인공지능·데이터 기반 연구를 결합해 차세대 에너지 소재, 기능성 신물질, 지능형 시스템 등 국가첨단전략분야에서 연구를 수행할 계획이다.&lt;br&gt;&lt;br&gt;이날 개소식은 이향숙 총장, 김은미 이화학당 이사장, 문회리 IMMS연구소장 등 교내 인사를 비롯해 구혁채 과학기술정보통신부 1차관, 이해숙 교육부 고등평생정책실장, 홍원화 한국연구재단 이사장, 오상록 한국과학기술연구원 원장, 이영국 한국화학연구원 원장, 류석현 한국기계연구원 원장, 이종찬 동우화인켐 대표이사, 김주성 LiBEST 대표 등 정부 기관 및 학계·산업계 인사 등이 두루 참석했다.&lt;br&gt;&lt;br&gt;구혁채 과학기술정보통신부 1차관은 축사에서 “2026년은 대한민국의 과학기술이 전환기를 맞는 중요한 해”라며 “이화여대가 지금까지 쌓아온 학문적 깊이를 바탕으로 좋은 연구 성과를 창출할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;이향숙 총장은 환영사를 통해 “국가연구소 선정과 멀티스케일 물질 및 시스템 연구소의 출범은 과학기술 혁신을 통해 국가 발전에 기여하는 연구중심대학으로서 이화의 역할을 한층 확장하는 중요한 전환점”이라고 했다. 또한 “국가연구소로서 에너지·환경 등 인류가 직면한 복합적 난제 해결에 기여하고, 지속 가능한 세계적 연구 성과를 창출할 수 있도록 대학 차원의 전폭적인 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;문회리 IMMS 소장은 “IMMS는 대학의 창의적인 연구 역량과 출연연의 인프라와 축적된 경험, 국가의 연구 정책이 현장에서 연결되는 출발점”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경주 곳곳 동시다발 산불에 산림청, 대응 1단계 발령</title>
-      <link>https://www.chosun.com/national/2026/02/08/EJZHKQJSAZBBFCZX6TNI6NW4TQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/08/EJZHKQJSAZBBFCZX6TNI6NW4TQ/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 01:58:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYQKK6TWPNJENFYEVFBYUHB22U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마을 위협하는 경주 산불. 8일 오전 경북 경주시 문무대왕면 입천리에서 발생한 산불이 강풍을 타고 확산되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주 문무대왕면, 양남면에 산불이 동시다발적으로 발생하자 산림청이 산불 대응 1단계를 발령하고 진화 작업 중이다. 경주 인근 포항에서 발생한 산불은 2시간 만에 진화됐다.&lt;br&gt;&lt;br&gt;산림 당국에 따르면 지난 7일 밤사이 경주 지역 두 곳에서 산불이 잇따라 발생했다. 이날 9시30분쯤 경주시 양남면 신대리에서 산불이 발생했다. 화선은 0.92㎞이고, 진화율은 94% 수준이다. &lt;br&gt;&lt;br&gt;10분 뒤 오전 9시 40분쯤엔 경주시 문무대왕면 입천리에서도 산불이 발생했다. 화선은 1.74㎞, 산불영향구역은 10㏊, 진화율은 60% 수준이다. 첫 산불이 발생한 양남면과는 직선거리로 약 13㎞ 떨어진 곳이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSDMOJRGY3DGYJYGFRGGNDFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 9시 31분 경북 경주시 문무대왕면 등에서 발생한 산불이 다음날까지 이어지고 있는 가운데 산불진화대원들이 밤새 진화를 하고 있다. /경북소방본부 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림 당국은 두 곳에 밤샘 진화 작업에 나섰지만, 여의치 않자 8일 오전 5시 30분쯤 산불 대응 1단계를 발령했다. 산림과 소방 당국은 현재 두 지역에 산불진화 헬기, 군 헬기 등 헬기 31대가 투입하고 인력 341명과 장비 97대를 투입해 진화 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;두 곳에서 발생한 산불로 현재까지 다친 사람은 없는 것으로 확인됐다. 특히 문무대왕면 인근엔 석굴암과 불국사가 위치해 우려가 컸지만 소방 당국은 “문화재 영향은 없다”고 설명했다. 산불이 난 현장에는 초속 4.3m 바람이 불고, 건조경보까지 내려진 상태다. &lt;br&gt;&lt;br&gt;긴급 대응에 나선 경주시는 긴급재난 문자를 통해 입산을 금지하고 산불이 인접한 마을에 대피 명령을 내렸다. 모두 10개소에 주민 88명이 대피한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경주 인근 포항에서 발생한 산불은 진화됐다. 8일 5시 53분 경북 포항시 북구 죽장면 지동리에서 발생한 산불은 2시간 만에 진화됐다. 산림청 관계자는 “헬기 등 장비 30대, 진화인력 105명을 투입해 7시 53분쯤 주불 진화를 완료했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울대 정시 최초 합격자 107명 등록 포기, 80%는 자연계열... “의대 선호 여전”</title>
@@ -677,18 +689,6 @@
       <description/>
       <pubDate>Sun, 08 Feb 2026 03:30:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3DEOBWMUYGGZDEGU2DGMZSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역주택조합의 환불 보장 약정이 총회 결의를 거치지 않아 무효라고 해도 정상적으로 설립된 조합에 조합원이 분담금을 냈다면 이를 돌려달라고 할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 대법원 2부(주심 권영준 대법관)는 작년 12월 대전 동구의 한 지역주택조합원이던 A씨가 B지역주택조합을 상대로 낸 부당이득금 반환 청구 소송에서 원고 일부승소한 원심을 깨고 사건을 서울중앙지법에 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 2021년 4월 대전 동구 일대에 신축될 아파트 중 1세대를 공급받기 위해 B조합 조합원으로 가입하는 계약을 체결했다. A씨는 계약 체결 당시 사업에 관한 업무를 대행하는 C회사 직원으로부터 분담금 환불보장약정이 기재된 안심보장증서를 교부 받았는데, 약정에는 B조합이 2021년 12월 31일까지 지역주택조합설립인가를 획득하지 못할 경우 조합원 탈퇴 및 환불을 희망하는 조합원에게 납부금 전액을 환불하겠다는 내용이 담겼다. A씨는 계약을 체결했고, 2021년 4월(2500만원), 7월(4000만원), 11월(3840만원) 등 세 번에 걸쳐 분담금 총 1억340만원을 납부했다.&lt;br&gt;&lt;br&gt;문제는 A씨가 B조합이 환불보장약정에 대한 총회 결의를 얻지 않았다는 사실을 알면서 생겼다. A씨는 총회 결의를 얻지 않은 약정은 무효라며, 이를 미리 알았더라면 조합가입계약을 체결하지 않았을 것이라 주장했다. 그러면서 B조합이 환불보장약정 부분에 관해 총회 의결이 없었다는 사실을 고지할 의무가 있음에도 이를 고지하지 않았다며 C회사와 1억340만원 및 이에 대한 지연손해금을 공동 지급해야 한다고 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심과 2심 재판부는 B조합이 A씨에게 분담금을 반환하라고 판결했다. 재판부는 “A씨가 환불보장약정이 무효에 해당한다는 사실을 고지받았더라면 조합가입계약을 체결하지 않았을 것”이라며 “B조합은 조합가입계약 체결 당시 환불보장약정 효력이 없다는 점을 고지할 의무가 있었다”고 봤다. B조합도 환불보장약정이 무효임을 알지 못했기에, 지역주택조합 업무나 절차에 관해 알기 어려운 일반인인 A씨에게 중대한 과실이 있다고 보기 어렵다고 덧붙였다.&lt;br&gt;&lt;br&gt;반면 대법원은 환불약정이 무효여도 조합가입계약 취소를 주장하는 건 신의성실의 원칙에 어긋난다고 판단했다. 대법원은 “조합원이 조합가입계약과 환불보장약정을 체결하는 주된 취지는 조합가입계약의 목적 달성 실패로 인한 손해를 최소화하려는 것”이라며 “분담금 반환을 절대적으로 보장받으려는 데 있다고 보기 어렵다”고 설명했다. &lt;br&gt;&lt;br&gt;B조합이 정상적으로 설립인가를 받은 후 A씨가 분담금을 납부했다는 사실도 언급됐다. 대법원은 B조합이 2021년 10월 조합설립인가를 받았고 A씨는 인가 이후인 같은 해 11월에도 분담금 중 적지 않은 금액을 납부했다며 “A씨가 환불보장약정에 따른 환불이 가능한지 여부와는 관계없이 조합가입계약 유지를 원한다고 신뢰해 주택건설사업을 진행한 것으로 보인다”고 짚었다. 대법원은 A씨에 대한 분담금 반환으로 B조합에 재원 부족이 발생하면 그 피해가 나머지 조합원들에게 돌아갈 수밖에 없다고 지적하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 폭설에 공항 운항 중단 뒤 재개… 여객기 155편 결항</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/08/K5C4HO2DB5FNZOWRSCS5HEJNI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/08/K5C4HO2DB5FNZOWRSCS5HEJNI4/</guid>
-      <dc:creator>제주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 03:08:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZDIOJXGZSTOMBQGQ2DONLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 강한 눈폭풍으로 활주로 운영이 중단된 제주국제공항에서 제설차들이 분주히 오가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 내린 폭설로 공항 운항이 중단됐다가 제설 작업 끝에 재개됐다. 현재 제주도 전역에 대설 특보가 내려져 기상 상황에 따라 여객기 결항이 이어질 가능성도 있다.&lt;br&gt;&lt;br&gt;제주국제공항은 8일 “이날 오전 11시부터 활주로 운영을 재개한다”고 밝혔다. 제주지방기상청에 따르면 전날 오전부터 이날 오전 8시 30분까지 한라산 어리목 21.4㎝, 사제비 19.5㎝, 삼각봉 18.1㎝, 가시리 12.5㎝, 송당 10.5㎝, 한남 10.9㎝, 와산 8.8㎝ 등 적설량을 기록했다.&lt;br&gt;&lt;br&gt;제주공항은 폭설 여파로 이날 오전 6시 5분 김포공항으로 출발하는 첫 비행기부터 운항을 멈췄다. 제주공항은 활주로 제설 작업을 마친 뒤 운항을 재개했다.&lt;br&gt;&lt;br&gt;제주공항은 이날 출발 226편, 도착 235편 등 총 461편 항공편 운항이 예정됐지만, 폭설 때문에 총 155편 항공기가 결항됐다. 현재 제주도 산지에는 대설경보, 제주도 나머지 지역에는 대설주의보가 발효돼 있다.&lt;br&gt;&lt;br&gt;해상에서는 풍랑 특보가 내려진 가운데 제주와 추자도, 완도, 목포, 진도 등을 연결하는 여객선 운항이 중단됐다. 산간 도로인 1100도로 어승생 삼거리∼구 탐라대 사거리 구간과 516도로, 비자림로, 명림로는 대형·소형 차량 모두 운행이 통제됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HEZDIOJXGZSTOMBQGQ2DONLEHA.jpg?auth=56d3b2bc12092f15fe8b8ea8a9a9e8237aef153490f5537308beaad992b081a4&amp;smart=true&amp;width=6478&amp;height=2593" type="image/jpeg" height="2593" width="6478">
-        <media:description type="plain">8일 오전 강한 눈폭풍으로 활주로 운영이 중단된 제주국제공항에서 제설차들이 분주히 오가고 있다. /뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>유명인 ‘지식인’ 답변 노출… 네이버 대표 고개 숙였다</title>
