@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[만물상] 건강수명보다 활력수명</title>
+      <link>https://www.chosun.com/opinion/manmulsang/2026/02/09/KGZJUXX57VDYHBRHORSJFG2TYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/opinion/manmulsang/2026/02/09/KGZJUXX57VDYHBRHORSJFG2TYY/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 11:53:25 +0000</pubDate>
+      <content:encoded>60대 후반 남성 A씨는 복부 비만이 살짝 있고, 과체중 범주에 속한다. 몇 년 전 고혈압, 고지혈증 진단도 받았다. 그는 아침마다 40분씩 빠르게 걷고, 헬스클럽에서 주 2회 근력 운동을 한다. 혈압과 콜레스테롤은 약물로 안정적으로 조절된다. 사람들과 어울려 산악회 활동도 열심이다. 그럼에도 그는 통계상 ‘만성질환자’다. 질병 없이 건강한 상태를 유지하는 건강 수명 계산 지표에 대입하면, 수명을 깎아 먹는 감점 대상이다. &lt;br&gt;&lt;br&gt;▶일본에서 신흥 장수마을로 떠오른 나가노 지역에서는 ‘핑핑 코로리(ぴんぴんころり)’라는 캠페인이 있다. 노년까지 활기차게 살고, 병상에 오래 눕지 않고, 생을 마무리하자는 뜻이다. 우리가 흔히 말하는 ‘9988234’(99세까지 팔팔하게 살다가 이삼일 앓고 죽자)와 같다. 나가노 노인은 동네 주치의와 함께 만성질환을 약물로 조절하며, 밭일을 하고, 산책을 하며, 이웃과 어울린다. ‘나가노 장수’는 질병이 없는 기간보다 ‘질병과 함께 활기차게’ 사는 기간이 더 중요하다는 것을 알린다. &lt;br&gt;&lt;br&gt;▶고혈압, 고혈당, 고지혈증 등 만성질환은 조폭처럼 몰려다닌다. 국내 고혈압 환자는 1045만여 명인데, 고지혈증이 같이 있는 경우가 40%다. 3개를 동시에 갖고 있는 환자는 232만여 명이다. 만성질환 시작 나이는 50대인데, 여러 개가 동시에 등장하는 경향을 보인다. 대사증후군이라는 한통속이기 때문이다.&lt;br&gt;&lt;br&gt;▶한국인 건강수명이 8년 만에 다시 70세 아래로 떨어졌다는 소식이 나왔다. 다들 건강을 위해 열심히 사는 것 같은데, 왜 건강수명이 떨어졌을까. 그 원인으로 고혈압·당뇨병 등 몰려다니는 만성질환 증가가 꼽힌다. 한국인의 건강검진 수검률은 75%대로 세계 최상위권이다. 그만큼 많이 찾아낸다는 의미다. 건강수명 하락은 적신호이자 청신호인 셈이다. 만성질환 조기 발생을 줄이고 의료서비스로 제대로 관리하면 된다.&lt;br&gt;&lt;br&gt;▶지금 쓰이는 ‘건강수명’ 개념은 만성질환과 함께 사는 초고령사회 현실을 반영하지 못한다. 고혈압·당뇨병을 약으로 잘 조절하고, 운동과 사회활동을 열심히 하며 활기차게 사는 사람도 ‘만성질환 보유’라는 이유로 건강수명이 깎이는 구조다. 관리 가능한 질병 존재를 과도하게 벌점으로 매긴다. 나이 들어 병이 있다고 해도 큰 기능 장애 없이, 돌봄 없이, 자립 생활을 하는 사람이 진정한 이 시대 애국자다. 이제는 건강수명보다 보행 속도, 근육량, 인지기능을 평가해서, 활력과 총명의 수명을 늘리는 데 힘써보자. /김철중 논설위원, 의학전문기자&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3QWP3VWZRBGDNMF54ORE53DWI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여중생 ‘성희롱’ 체조 국가대표 검찰 송치</title>
+      <link>https://www.chosun.com/national/regional/2026/02/09/F25LJFXY6VBGLFK5UMRV422ME4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/09/F25LJFXY6VBGLFK5UMRV422ME4/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 12:31:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSTEMDEGI4GEOBVGE3GCOLDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 북부경찰서의 모습./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운동하며 알게 된 여중생을 상습적으로 성희롱한 기계체조 성인 국가대표가 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;광주 북부경찰서는 9일 10대 여중생에게 성희롱 발언을 상습적으로 한 혐의(아동복지법 위반 등)로 기계체조 성인 국가대표 A(19)군을 검찰에 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A군은 작년 4월 10대 여중생 B양에게 성적수치심을 유발하는 SNS 메시지를 여러 차례 보낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;같은 종목의 운동을 배우다가 B양을 알게 된 A군은 호감이 있다는 이유로 “씻을 때 영상통화를 하자”는 취지의 메시지를 보낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B양의 피해 신고를 접수한 서울 성동경찰서는 A군의 거주지가 있는 북부경찰서로 해당 사건을 이첩했고, 4개월간 조사를 이어왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구준엽, 故서희원과 결혼 4주년… 케이크·와인 들고 묘지 찾았다</title>
+      <link>https://www.chosun.com/national/people/2026/02/09/4TYVH7TCE5GWDIKFCYU2NQ6LLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/09/4TYVH7TCE5GWDIKFCYU2NQ6LLY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 12:35:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNN5FY355VF5NFARHRNRTXJE3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 구준엽과 작년 2월 세상을 떠난 배우 서희원. 오른쪽은 온라인에 공유된 서희원의 묘역 사진. /인스타그램, 중국 바이두 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 구준엽(57)이 사별한 아내 서희원(쉬시위안·徐熙媛)과 결혼 4주년을 맞아 홀로 묘역을 찾았다.&lt;br&gt;&lt;br&gt;9일 대만 ET투데이 등 여러 중화권 매체에 따르면, 구준엽은 전날 서희원이 잠든 묘지에서 홀로 뜻깊은 날을 기념했다. 2월 8일은 구준엽과 서희원이 결혼한 지 4년째 되는 날이다. 구준엽은 초콜릿 케이크와 와인 한 병을 준비했고, 그 앞에 앉아 조용히 슬픔을 삼킨 것으로 전해졌다.&lt;br&gt;&lt;br&gt;온라인상에는 당일 묘역을 찾았다가 구준엽과 짧은 대화를 나눴다는 한 팬의 글도 눈길을 끌었다. 이 팬은 “구준엽과 몇 마디 대화하다가 ‘우리 모두 오빠가 하루빨리 음악 활동으로 돌아오길 바라고 있다’고 말씀드렸다”며 “구준엽은 ‘저를 도와주신 여러분 감사합니다’라고 대답했다”고 전했다.&lt;br&gt;&lt;br&gt;구준엽과 서희원의 만남은 영화 같은 사랑 이야기로 유명하다. 두 사람은 1998년 약 1년간 교제한 사이다. 그러나 전성기급 스타들의 열애에 민감하게 반응하던 당시 분위기와 소속사 반대로 결국 바라지 않던 이별을 맞아야 했다.&lt;br&gt;&lt;br&gt;시간이 흘러 서희원은 2011년 중국 재벌 2세 왕소비(왕샤오페이)와 결혼했고 슬하에 1남 1녀를 뒀다. 그렇게 행복한 생활을 이어가는 듯했으나 잦은 불화를 겪고 있다는 보도가 나왔고, 결혼 10년 만인 2021년 11월 이혼했다.&lt;br&gt;&lt;br&gt;이후 소식을 들은 구준엽은 용기 내 서희원에게 연락했고 2022년 혼인 신고로 부부의 연을 맺게 됐다. 당시 구준엽은 “20년 전 사랑했던 여인과 매듭 못 지은 사랑을 이어가려 한다”며 “이미 많이 지난 시간을 더 이상 허비할 수 없어 결혼을 제안했고 그녀가 받아들였다”고 밝혔었다.&lt;br&gt;&lt;br&gt;하지만 행복은 그리 길지 않았고 예기치 않은 비극을 맞게 됐다. 서희원은 작년 2월 2일 일본 가족 여행 중 독감에 의한 폐렴 합병증으로 세상을 떠났다. 구준엽은 장례를 치른 뒤 매일같이 묘역을 찾아 아내를 그리워하고 있으며, 이런 모습은 여러 차례 언론에 포착되기도 했다.&lt;br&gt;&lt;br&gt;지난 2일 1주기에는 인스타그램에 “아침에 텅 빈 방 침대 한구석에 멍하니 앉아 있을 때면 아직도 현실인지 꿈인지. 꿈이길 바라면서 가슴이 먹먹해지고 아파온다”며 “우리 다음에 만나면 영원히, 영원히 같이 있자. 보고 싶다. 너무 보고 싶다. 죽도록 보고 싶다”는 자필 편지를 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양산 원동면 야산서 산불 3시간여 만에 큰불 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/02/09/JROW4EJLGNHB7F4ANZIYOIJEW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/09/JROW4EJLGNHB7F4ANZIYOIJEW4/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Feb 2026 11:38:30 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZDMOJTMZQTAZTGGE2WENBTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 경남 양산 원동면 용당리 한 야산에서 산불이 발생해 연기가 피어오르고 있다. /산림청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오후 경남 양산 원동면에서 산불이 발생해 산림 당국이 진화에 나서 3시간만에 큰불(주불)을 잡았다. &lt;br&gt;&lt;br&gt;산림청 중앙사고수습본부와 양산시 등에 따르면 이날 오후 3시 31분쯤 양산시 원동면 용당리 한 야산 일원에서 불이 났다.&lt;br&gt;&lt;br&gt;산림당국은 헬기 23대(산림청 11대, 지자체 6대, 군 4대, 소방 2대)와 차량 39대, 인원 173명을 동원해 화재 발생 3시간 9분 만인 이날 오후 6시 40분쯤 주불을 잡았다.&lt;br&gt;&lt;br&gt;주불 진화는 화선(火線)이 다 잡혀 더 이상 불길이 확산하지 않는 상태다. 현재는 남아 있는 불씨인 잔불을 정리 중이다.&lt;br&gt;&lt;br&gt;다행히 인명피해는 발생하지 않았다. 산불 피해 면적은 8㏊로 추정된다.&lt;br&gt;&lt;br&gt;소방당국은 ‘주택 뒤 대밭에서 불이 났다’는 119신고를 접수해 긴급 출동했다고 전했다.&lt;br&gt;&lt;br&gt;양산시는 이날 오후 4시 19분쯤 ‘용당리 인근 산불이 확산 중으로 인근 주민과 등산객은 원동초동학교로 즉시 대피하라’는 대피명령을 발령했다.&lt;br&gt;&lt;br&gt;신곡리 67명, 중리 55명 등 총 122명이 원동초와 원동중학교로 대피했다가 귀가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울중앙지법 ‘내란전담재판부’ 부장판사로만 이뤄진 재판부로 2개 구성</title>
       <link>https://www.chosun.com/national/court_law/2026/02/09/C2LKHKBZBBGXVHRVO6OSVL7RRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/C2LKHKBZBBGXVHRVO6OSVL7RRM/</guid>
@@ -619,16 +655,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJGLSWJ77FAG7PRZE6TIWQFWVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 오후 9시 40분쯤 경북 경주시 문무대왕면 입천리에서 산불이 발생했다. 경북 경주와 포항 일대에 강풍 특보와 건조 특보가 동시에 내려진 상황이었다. 산불은 강한 바람을 타고 번졌고 소방 당국은 8일 오전 11시 33분 ‘국가소방동원령’을 내렸다. 산림청은 헬기 45대 등을 투입한 끝에 이날 오후 6시쯤 큰불(주불)을 잡았다고 밝혔다. 산불이 난 지 20시간 20분 만이었다. 산림청 관계자는 “순간 초속 21m가 넘는 태풍급 강풍이 부는 데다 송전탑까지 있어 불길을 잡는 데 시간이 걸렸다”고 했다. 이날 오후 8시20분쯤 잔불이 재발화 하는 등 ‘완진’까지는 시간이 더 걸릴 것으로 보인다고 산림청은 밝혔다. 이번 불로 축구장 76개 넓이와 비슷한 약 54㏊ 숲이 불탔다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [산 이야기] 신령스러운 ‘달이 걸리는 산’… 신라 부활을 꿈꾸며 세웠던 불상 남아있대요</title>
-      <link>https://www.chosun.com/national/nie/2026/02/09/6NWWQC3CI5GUXEISMZGY6TATSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/09/6NWWQC3CI5GUXEISMZGY6TATSA/</guid>
-      <dc:creator>신준범 월간 산 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUIWG6MQENCG7OBUZZK75TPSFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 영상미디어
-월악산에서 등산객들이 설경을 바라보고 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 제천의 월악산(1095m)은 달 월(月), 큰 산 악(岳) 자를 써요. 옛사람들은 이 산을 두고 ‘달이 걸리는 산’이라 불렀어요. 능선 위로 달이 뜨면 바위와 숲은 은은한 달빛으로 물들어요. 정상인 영봉(靈峰)은 ‘신령스러운 봉우리’라는 의미를 지녔죠. ‘삼국사기’에는 신라가 이곳에서 나라의 제사를 지냈다는 기록이 나와요.&lt;br&gt;&lt;br&gt;월악산 남쪽 산줄기에는 ‘하늘재’라는 고개가 있어요. 충북 충주와 경북 문경을 잇는 고개로, 중부와 영남 지방의 통로였습니다. 고려 말까지는 중요하게 여겨졌지만 조선 초에 다른 고개인 ‘새재’가 개통되며 하늘재는 쇠퇴했어요. 하늘재 기슭의 ‘미륵대원지’는 이곳의 흥망성쇠를 보여주는 곳입니다. 과거에는 미륵대원이 대형 사찰로 번창했지만, 하늘재 역할이 쇠락한 조선 초 이후엔 빈터만 남았죠.&lt;br&gt;&lt;br&gt;역사서를 살펴보면 하늘재가 과거 군사적 요충지였다는 사실도 알 수 있습니다. ‘고려사’에 따르면, 고려 시대에 몽골군이 쳐들어와 고려군이 충주에서 패하고 월악산으로 피해 진을 쳤는데, 갑자기 비바람이 치고 우박이 쏟아졌다고 해요. 몽골군은 월악산에서 산신령이 고려군을 돕는다고 생각해서 더 이상 공격하지 못하고 물러갔다고 해요. &lt;br&gt;&lt;br&gt;월악산을 둘러싸고 전해지는 이야기는 이뿐만이 아닙니다. 한국학중앙연구원에 따르면, 신라 마지막 왕인 경순왕의 장남 마의태자와 딸 덕주공주가 신라의 부활을 꿈꾸며 지금의 강원도 오대산으로 가던 중 두 사람 꿈에 관음보살이 나타나 ‘월악산에 불상을 세우라’고 전했다고 해요. 마의태자는 미륵사(미륵대원)에 석조여래입상(보물 96호)을 만들고, 덕주공주는 덕주사를 세워 마애여래입상(보물 406호)을 만들었답니다. 이후 마의태자는 8년을 미륵사에서 지내다 오대산으로 떠나고, 덕주공주는 월악산에 머물다 숨을 거두었다고 해요. 다만 마의태자는 역사서에 기록이 남아 있는 인물이지만, 덕주공주는 지리서 ‘신증동국여지승람’과 덕주사 창건 기록 등으로 전해지는 설화 속 인물이랍니다.&lt;br&gt;&lt;br&gt;‘악’ 자가 들어가는 산은 산세가 험악해 산행이 힘들다는 말이 있는데요. 월악산도 그렇습니다. 영봉을 가려면 가파른 계단을 피할 수 없기 때문입니다. 산악인 엄홍길 대장은 “월악산은 계단이 너무 많아서 히말라야보다 더 힘들게 느껴지더라”라고 말한 적도 있어요.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“실업팀 없어 대학 졸업 후 막노동” 한국 첫 메달 안긴 김상겸 누구?  </title>
       <link>https://www.chosun.com/national/people/2026/02/09/TD5R65A4QFDCJCH4MY4ARXJFCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/09/TD5R65A4QFDCJCH4MY4ARXJFCM/</guid>
@@ -660,33 +686,6 @@
         <media:description type="plain">영하권 강추위를 보인 8일 서울 중구 명동을 찾은 여행객들이 두꺼운 옷차림을 한 채 이동하고 있다./뉴시스</media:description>
         <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>서울대 정시 최초 합격자 107명 등록 포기, 80%는 자연계열... “의대 선호 여전”</title>
-      <link>https://www.chosun.com/national/education/2026/02/08/DDOV2YOVWJEWVERGSYEYAWRWTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/08/DDOV2YOVWJEWVERGSYEYAWRWTI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 04:41:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W37A5BDQJRI5RFEWTDI6SOMYM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학교 의과대학 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 대학입시 정시 모집으로 서울대에 최초 합격한 이들 중 107명이 등록을 포기한 것으로 나타났다.&lt;br&gt;&lt;br&gt;8일 종로학원이 2026학년도 정시 1차 추가 합격 현황을 분석했더니, 서울대 최초 합격자 가운데 107명이 등록하지 않은 것으로 나왔다. 107명 중 자연계열 학생이 86명(80%)으로 가장 많았다. 인문계열은 17명(16%), 예체능계열은 4명(4%)이었다. 대학들은 등록을 포기한 합격자 자리를 추가 합격자로 채운다. 1차 추가 합격자는 등록을 포기한 최초 합격자 인원만큼 선발된다.&lt;br&gt;&lt;br&gt;연도별로 살펴보면, 서울대에 최초 합격했지만 등록을 포기한 이들은 2025학년도 정시에선 총 124명이었다. 이번보다 17명(14%) 많았다. 이는 2025학년도 입시 때 늘어났던 의대 모집 인원이 2026학년도 입시에서 원상복구되면서, 2026학년도 서울대 정시 최초 합격자 가운데 의대로 빠져나간 이들이 적어진 영향으로 보인다.&lt;br&gt;&lt;br&gt;학과별로 보면 자연계열에선 전기정보공학부 10명, 산림과학부 8명, 간호대학 6명, 첨단융합학부 5명 등이 최초 합격했지만 등록하지 않았다. 미등록 비율은 산림과학부 44.4%, 물리학전공·수리과학부 33.3%, 화학교육과 28.6% 순으로 높았다. 인문계열에선 경영대학 미등록 인원이 5명으로 가장 많았고, 미등록 비율은 영어교육과와 지리학과가 각각 12.5%로 가장 높았다. 서울대 의대 최초 합격자 가운데 등록 포기 인원은 없었다.&lt;br&gt;&lt;br&gt;연세대는 2026학년도 정시 모집 최초 합격자 가운데 435명이 등록을 포기했다. 이 중 254명(58%)이 자연계열 학생이었다. 인문계열은 176명, 예체능계열은 5명이었다. 연세대 의대의 경우 최초 합격자 가운데 18명이 등록을 포기했다. 서울대 의대에 중복 합격해, 서울대 의대로 진학한 것으로 추측된다. &lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “등록을 포기한 최초 합격자들 상당수가 자연계열에서 나오고 있는 건 의대 선호도가 여전히 높다는 의미”라며 “2027학년도 입시는 의대 지역의사제가 새로 도입되는 만큼 앞으로 의대에 대한 관심과 선호도는 계속해서 높아질 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴사 통보에 경쟁사 영업비밀 빼돌려 총판권 따낸  직원들...1심 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/08/NPXUZDQUD5DHVNWBTX27Q3IPUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/08/NPXUZDQUD5DHVNWBTX27Q3IPUM/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 04:28:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2WCNBSGVRDSMRSMNRTGMJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선비즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운동기구 도매업체 우영웰니스컴퍼니의 영업비밀을 빼돌린 혐의로 재판에 넘겨진 스포츠마케팅 업체 갤럭시아에스엠 전·현직 직원들이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울중앙지법 형사5단독 류지미 판사는 지난달 20일 업무상 배임 등 혐의로 기소된 갤럭시아에스엠 전·현직 직원 김모씨와 장모씨에게 각각 징역 2년을 선고했다. 함께 영업비밀을 빼돌린 갤럭시아에스엠 전직 직원 정모씨에게는 벌금 500만원, 갤럭시아에스엠에는 벌금 5000만원을 선고했다.&lt;br&gt;&lt;br&gt;우영웰니스컴퍼니에서 영업부장으로 근무하다 2019년 퇴사 통보를 받고 이듬해 갤럭시아에스엠에 입사한 김씨는 장씨와 함께 이탈리아 운동기구 제조·판매회사인 테크노짐의 국내 독점 판권을 따내기 위해 우영웰니스컴퍼니의 내부 정보를 빼돌렸다. 이들은 우영웰니스컴퍼니의 문제점을 정리한 내용을 테크노짐 아시아 지역 담당자에게 보냈으며, 테크노짐 측에 갤럭시아에스엠과 총판 체결 제안서를 보내기도 했다. 테크노짐이 부정적인 반응을 보이자 이들은 총판 후보 업체 중 갤럭시아에스엠을 월등하게 우수한 것으로 평가한 자료를 보내기도 했다. 결국 테크노짐은 2020년 10월 우영웰니스컴퍼니에 총판 계약 종료를 통보하고 같은 해 12월 갤럭시아에스엠과 총판 계약을 맺었다.&lt;br&gt;&lt;br&gt;재판부는 김씨와 장씨 등의 형사 책임을 인정했다. 재판부는 “피고인들은 테크노짐과의 독점 총판 계약에 따른 영업으로 인한 매출액이 피해회사 전체의 매출액 대부분을 차지하는 사정을 잘 알면서도, 치밀하고 계획적으로 업무상 배임 범행을 하고 장기간 영업비밀을 반출했다”고 지적했다. 그러면서 “피고인들의 범행은 피해회사의 존립 기반이 되는 핵심 영업을 상실하게 만든 중대한 범행이고, 그로 인한 피해회사의 손해는 회복이 극히 곤란할 것으로 보이며 실제로 심각한 경영상 위기를 초래했다”고 했다.&lt;br&gt;&lt;br&gt;피고인들과 검찰 모두 지난달 1심 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “충분한 조사 없이 진실규명 신청 각하한 진화위 위법”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/08/N2ETKT6KIRETVJSS6XH7PJM4RE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/08/N2ETKT6KIRETVJSS6XH7PJM4RE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 03:51:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63JYZBTUPBELGSC63UKQWPGGE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동에 위치한 서울행정법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진실화해를위한과거사정리위원회(진화위)가 사망 원인에 대한 충분한 조사 없이 국민보도연맹 희생자 관련 진실규명 신청을 각하한 것은 위법하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 양순주)는 작년 11월 A씨가 진화위를 상대로 제기한 이의신청 기각결정 취소 소송에서 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 한국전쟁 당시 사망한 B씨의 아들이자 C씨의 조카로, 2020년 12월 진화위에 이들이 국민보도연맹원 등 집단살해 사건과 관련해 행방불명됐다며 진실규명을 신청했다. 국민보도연맹은 1949년 이승만 정부가 좌익 전향자를 관리·통제하기 위해 만든 조직으로, 6·25 전쟁 발발 이후 군·경의 집단학살 대상이 됐다.&lt;br&gt;&lt;br&gt;사건을 조사한 진화위는 2023년 11월 B씨가 국민보도연맹원이라는 이유로 1950년 6월 28일부터 7월 16일 사이 대전에서 군경에 의해 희생됐다는 내용의 진상규명결정을 내렸다. C씨는 국민보도연맹과 관련 있다는 이유로 1950년 7월 1일부터 7월 17일 사이 대전에서 군경에 의해 희생됐다고 판단했다.&lt;br&gt;&lt;br&gt;A씨는 진실규명결정 내용 중 ‘B씨는 노동당원으로 활약하다가 처형됨’ ‘C씨는 악질 부역자 처형됨’ 기재 부분이 허위사실이라며 2024년 1월 삭제를 구하는 이의신청을 냈다. 하지만 진화위는 같은 해 5월 “신원조사서는 이 사건 진실규명결정의 근거자료로 제시된 것이 위법하지 않다”며 A씨의 이의신청을 기각했다.&lt;br&gt;&lt;br&gt;이후 진화위는 ‘C씨가 1951년 고등군법회의에서 국방경비법위반으로 사형선고가 됐다’는 내용의 판결문을 발견한 후 C씨에 대한 재조사를 결정하기도 했다. 진화위는 C씨가 1951년 1월 이적행위 사건으로 사형판결을 받고 같은 해 한 형무소에서 사망 출소한 사실을 파악했고, 기존에 진실규명결정을 한 사망이유, 사망시기, 장소, 가해자, 불법성 등이 사실과 다른 것을 확인했다. 그러고는 이를 토대로 C씨의 사망이 과거사정리법에 따른 민간인 희생사건에 해당하지 않는다며 결정 중 C씨 부분을 취소하고 C씨에 관한 진실규명신청을 각하했다. 이에 A씨는 진화위의 이 같은 결정이 위법하다며 이번 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 진화위의 취소 결정은 정당하지만, 진실규명신청을 각하한 것은 위법하다고 판단했다. 재판부는 취소 결정에 대해 “당초 이 사건 진실규명결정에서 인정했던 사망 이유, 사망 시기, 사망 장소 등이 사실과 다른 것으로 확인된 이상 진실규명결정을 취소할 수 있다고 봄이 타당한 점 등을 고려하면, 이 사건 취소결정이 위법하다고 볼 수 없다”고 설명했다.&lt;br&gt;&lt;br&gt;반면 진화위가 사건을 재조사하지 않고 그대로 각하한 것은 위법하다고 봤다. 재판부는 판결에 판결 이유가 생략된 점, 출소자 명단에 출소원인으로 ‘사망출소’와 ‘사형출소’가 구분돼 기재돼 있는데 C씨는 ‘사망출소’한 것으로 기재돼 있는 점, 대전지검 집행원부와 법무부 검찰국에서 생산한 1950년 내지 1986년 사형인 명단에 C씨가 나와 있지 않은 점 등을 고려해 사형 집행이 실제로 이뤄졌다고 보기 어렵다고 했다. 그러면서 ‘C씨가 1950년 7월 초 지서에 감금된 채 구타당한 모습을 가족들이 봤다’는 A씨의 진술, C씨의 형제가 대전에서 군경에 의해 희생된 점 등을 들어 A씨의 신청 내용이 명백히 허위라고 보기 어렵다며 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>유명인 ‘지식인’ 답변 노출… 네이버 대표 고개 숙였다</title>
