@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“이재명 두 아들 군 면제” 글 올린 이수정, 1심 벌금 300만원 불복해 항소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/10/KYAQJM6FENFKPAGC3J44DZVBIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/KYAQJM6FENFKPAGC3J44DZVBIA/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 10:14:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NRGSD7USCK3IDHQOXJU3RKQKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이수정 국민의힘 수원정 당협위원장. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선을 앞두고 자신의 소셜미디어에 ‘이재명 대통령(당시 더불어민주당 대선 후보)의 두 아들이 군 면제를 받았다’는 허위 글을 게시한 혐의로 1심에서 벌금 300만원을 선고받은 이수정 국민의힘 수원정 당협위원장(경기대 교수)이 항소했다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면 이 위원장 측은 이날 수원지법에 항소장을 냈다. 검찰은 아직 항소하지 않았다.&lt;br&gt;&lt;br&gt;이 사건 1심 재판을 맡은 수원지법 형사13부는 지난 5일 이 위원장의 공직선거법(허위사실공표) 및 정보통신망법(명예훼손) 위반 혐의에 대해 “미필적 고의가 인정된다”며 모두 유죄로 판단하고, 벌금 300만원을 선고했다. 앞서 검찰은 벌금 500만원을 구형했다. 선거법 위반 사건에서 벌금 100만원 이상의 형이 선고돼 확정되면, 5년간 피선거권을 박탈당해 국회의원 등 선출직에 출마할 수 없게 된다.&lt;br&gt;&lt;br&gt;이 위원장은 21대 대선을 앞둔 작년 5월 28일 자신의 페이스북 계정에 “이 후보와 두 아들이 모두 군대 면제를 받았다”는 글을 게시해 허위사실을 공표하고, 이 대통령과 그의 자녀들의 명예를 훼손한 혐의를 받는다. 해당 글 내용과 달리 이 대통령의 두 아들은 모두 병역의무를 이행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DQY3BHFRTEYRUHA4TQNTCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. 2019.5.24 ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 이 위원장은 이 글을 올린 후 곧바로 삭제하고, “온라인에 떠도는 정보를 공유했다가 잘못된 정보임을 확인하고 즉시 삭제했다. 용서해 달라”고 사과문을 올렸다.&lt;br&gt;&lt;br&gt;이 위원장 측은 재판 과정에서 사실관계는 모두 인정하면서도, “가짜 뉴스에 속아 착각해서 글을 올린 것이고, 곧바로 삭제했으며 허위사실을 공표할 고의는 없었다”고 했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “피고인이 게시한 글이 진실인지 확인할 시간이 있었음에도 그런 노력 없이 곧바로 글을 올렸다”며 “단시간 내 글을 삭제했다고 하더라도 인터넷의 파급력을 고려하면 죄책이 가볍다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의협 “의대 증원, 숫자에 매몰된 결정…의학교육 붕괴 초래”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/10/PGXGVAPUVZHKNMLI7EV7ZPCUQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/10/PGXGVAPUVZHKNMLI7EV7ZPCUQI/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 09:50:38 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE75WBFX3ZL73DZF7SURACLUQM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김택우 대한의사협회 회장이 10일 오후 서울 용산구 의협회관에서 정부의 의대 정원 증원 방안 등에 대한 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 2027~2031학년도 의대 정원을 평균 668명 늘리기로 한 가운데, 대한의사협회는 “합리적 이성이 결여된 채 ‘숫자’에만 매몰된 정부의 결정에 깊은 유감과 우려를 표한다”고 했다. 의협이 의대 증원을 놓고 의료계 의견이 충분히 반영되지 않았다고 비판하면서 정부와 의료계의 갈등이 재차 불거질 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;김택우 대한의사협회 회장은 10일 오후 서울 용산구 의협 회관에서 긴급 기자회견을 열고 이같이 밝혔다. 김 회장은 “향후 의료 현장에서 발생하는 모든 혼란의 책임이 정부에 있음을 엄중히 경고한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “현재의 (의대) 교육 환경은 이미 붕괴 직전이며, 정부의 (증원) 강행 처리는 교육 부실을 자초하는 길”이라며 “향후 열악한 강의실과 실습실에서 양산될 질 낮은 교육 환경, 그로 인해 배출될 의사들의 자질 논란과 의학교육 붕괴의 모든 책임은 전적으로 정부에 있다”고 했다.&lt;br&gt;&lt;br&gt;김 회장은 “정부는 이번 증원의 명분으로 필수의료와 지역의료를 살리겠다고 했다”며 “정부가 약속했던 필수의료 살리기 대책을 즉시 실행하는 것으로 이를 증명하라”고 했다. 기피과 문제를 해결할 유인책, 불가항력적 의료 사고에 대한 형사처벌 면책, 의료와 무관한 사유로 면허를 박탈하는 악법 개정, 해외 의대 졸업생에 대한 인증 기준 강화 등을 정부에 요구했다.&lt;br&gt;&lt;br&gt;김 회장은 “의사인력 수급추계위원회도 전면 개편해야 한다”며 “현재는 임상 현장의 목소리를 제대로 반영할 수 없는 기형적인 구도”라고 했다. AI 기술 발전과 인구 감소 속도를 반영해 추계 주기를 현재 5년에서 3년으로 단축해야 한다고도 주장했다. &lt;br&gt;&lt;br&gt;김 회장은 또 “교육부는 지금 즉시 각 의과대학 전수 조사에 착수해야 한다”며 “실제 교육이 가능한지 직접 확인해야 하고, 2027년에는 대규모 복귀 학생 발생이라는 초유의 사태가 닥친다”고 했다. 정부가 이날 발표한 모집 정원보다 훨씬 적은 수만 정상적인 교육을 받을 수 있다는 것이다. &lt;br&gt;&lt;br&gt;김 회장은 “필수적인 제도 개선 없이 숫자만 늘리는 것은 국민을 기만하는 것”이라며 “일방적 강행에 따른 의료 붕괴 책임은 전적으로 정부에 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 의협은 당장의 ‘단체행동’에 대해서는 선을 그었다. 김성근 의협 대변인은 “(의료계의) 행동 방향에 대해 제한을 두진 않겠다”면서도 “집단행동 등에 관심이 있으실 것 같은데, 당장은 (의료계 내부의) 기본적 의견을 모으는 것이 먼저라고 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘ITS 사업 뇌물 수수 혐의’…전현직 경기도의원 3명 실형</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/10/WNWEEFTQENGFLCVHB5C6KQVUZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/WNWEEFTQENGFLCVHB5C6KQVUZA/</guid>
+      <dc:creator>안산=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 10:04:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOLMU42C7CYXFWUQOMIYPPVANU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시 등의 ITS(Intelligent Transport Systems·지능형 교통 체계) 사업과 관련해 뇌물을 받은 혐의로 구속 기소된 전·현직 경기도의원들이 각각 실형을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 형사2부(재판장 박지영)는 10일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 등 혐의를 받는 전·현직 도의원3명에게 각각 징역형과 벌금형을 선고하고, 추징금을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 박세원 의원에게 징역 10년과 벌금 3억원, 추징금 1억4000여만원을 선고했다. 또 이기환 전 의원에게는 징역 8년과 벌금 2억5000만원, 추징금 2억1000여만원을, 정승현 전 의원에게 징역 3년과 벌금 4000만원, 추징금 4000만원을 각각 선고했다. 박 의원은 무소속이고, 더불어민주당 소속이던 이 의원과 정 의원은 이 사건이 불거지자 탈당하고 의원직에서 사직해 현재는 무소속이다.&lt;br&gt;&lt;br&gt;수사 당국에 따르면, 이 사건은 ITS 관련 사업자 김모씨에서 시작됐다. 김씨는 여러 지역에서 ITS 구축 사업을 추진하기 위해 경기도의원 등에게 “경기도에 관련 특별조정교부금을 배정받을 수 있도록 요청해달라”는 취지의 청탁을 한 것으로 조사됐다. 특조금은 시군의 재정 격차 해소 등을 위해 도지사 재량으로 시군에 지원할 수 있는 예산이다.&lt;br&gt;&lt;br&gt;이 청탁에 따라 도의원 3명 등은 2023년 3월부터 작년 6월까지 ITS 구축 사업 관련 특조금이 지역구에 우선 배정될 수 있도록 편의를 봐주고 뇌물을 받은 것으로 조사됐다. 이후 도의원들은 시 또는 사업 관계자들에게 김씨의 업체를 소개하거나 추천한 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX72LSBIYYK4UJ54FBZVL7BAD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 자신의 업체가 사업에 선정된 뒤엔 의원들의 자금 세탁책들의 차명 계좌로 뇌물을 전달했다고 한다. 자금 세탁책들은 범죄 사실을 숨기기 위해 자신들이 운영하는 기업체 명의 등의 계좌를 통해 서로 거래하고 세금 계산서도 발행한 것으로 조사됐다. 이들은 각각 4000만원에서 2억8000여 만원에 이르는 금품을 챙긴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;피고인들은 그간 “돈을 빌린 것일 뿐”이라거나 “직무 관련성이 없다”며 혐의를 부인해 왔으나, 재판부는 이를 모두 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이날 재판부는 “선출직 공무원으로서 직무의 청렴성을 유지해야 할 도의원들이 금원과 향응을 수수하고, 이를 은폐하려 제3자 명의 계좌와 허위 세금계산서를 이용하는 등 범행 수법이 매우 불량하다”고 했다. 또 “이러한 비리는 지방의회와 공공기관의 의사결정 과정에 대한 사회적 신뢰를 심각하게 훼손하는 행위로, 죄책에 상응하는 엄중한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이들과 함께 특가법상 알선수재 혐의로 기소된 김홍성 전 화성시의회 의장에게는 징역 1년에 집행유예 2년, 추징금 1585만원이 선고됐다. 뇌물 전달 및 자금 세탁에 가담한 피고인 4명에게도 징역 1년 6개월~2년 6개월에 집행유예 3~4년, 벌금 3000만원~1억 5000만원이 각각 선고됐다. 사업자 김씨는 해당 사건에 앞서 다른 뇌물 공여 등 혐의로 기소돼 지난달 1심에서 징역 5년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최선규 전 아나 “3살 딸 트럭 깔려… 내 손으로 살려냈다”</title>
+      <link>https://www.chosun.com/national/people/2026/02/10/DMVTGPJMH5CIPB4HE2WUQ4DLHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/10/DMVTGPJMH5CIPB4HE2WUQ4DLHA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 09:38:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54UQBAKGWBBGRF5DA4EYFQKTDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아나운서 출신 방송인 최선규. /CGN 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아나운서 출신 방송인 최선규(67)가 교통사고로 딸을 잃을 뻔한 과거를 털어놨다.&lt;br&gt;&lt;br&gt;최선규는 10일 공개된 유튜브 채널 ‘CGN’ 영상에 출연해 기독교 신앙을 갖게 된 계기를 고백하며 34년 전 겪었던 딸의 교통사고를 회상했다. 그는 “1992년 9월 26일 토요일 아침 9시 50분. 정확히 기억한다. 오전 10시부터 12시까지 생방송을 마치고 나왔는데 후배 아나운서가 울면서 달려왔다”며 “쪽지 한 장을 주는데 ‘딸 교통사고 생명 위독 강남 성심병원 응급실’이라고 적혀있더라”고 했다.&lt;br&gt;&lt;br&gt;이어 “9시 50분에 연락을 받았다더라. 지금은 12시가 넘었는데. 딸은 세 살이었고 우리 집안 통틀어 35년 만에 태어난 공주였다”며 “이삿짐 트럭이 골목에서 후진하다가 뒷바퀴로 딸을 깔고 넘어갔고 ‘뭐가 끼었나’ 하고 앞으로 또 넘어갔다더라. 딸은 많은 피를 토하고 현장에서 즉사했다. 아내가 차 밑에 들어가 애를 건져내고 응급실에 눕혀놓은 뒤 내게 연락한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;최선규는 “차만 안 막히면 10분이면 갈 거리였다. 근데 토요일 오후 영등포 로터리를 지나야 했다. 지하철 공사 때문에 1시간 동안 차가 묶였다가 나가는 곳이었다”며 “아비가 돼서 할 수 있는 게 아무것도 없었다. 인생에서 가장 무서웠을 때가 영등포 로터리에 갇혔을 때다. 그 이후 영등포 로터리를 못 지나다녔고 그 트라우마가 10년 이상 갔다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “차 안에서 ‘우리 딸 한 번만 살려주세요’ 하고 한 시간 동안 싹싹 빌었다. 눈물 콧물 다 빼면서 나하고 바꿔 달라고 했다. 우리 딸 살려주고 나를 데려가 달라고 했다”며 “병원에 갔더니 애가 하얀 천으로 덮여 있었다. 절망적이었다. 혼자 한 시간 동안 안고 눈물을 뚝뚝 흘리면서 ‘집에 가자’ ‘미안하다’는 말만 했다”고 기억했다.&lt;br&gt;&lt;br&gt;최선규는 “아무 반응이 없다가 안고 있는지 한 시간도 더 넘었을 때 아이가 뜨끈뜨끈해지면서 온기가 느껴졌다. 꼼지락거리면서 조금씩 움직였다”며 “의료진을 불러서 ‘우리 딸 안 죽었다, 살려달라’ 했더니 도와주는 사람이 아무도 없었다. 조금 있으니 딸이 캑캑댔고, 입을 벌려 손가락을 넣고 밤톨만 한 핏덩이를 건졌다. 그때부터 호흡이 돌아왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그때부터 2년간 병원 생활이 시작됐고 다섯 살에 퇴원했다. 왼쪽 눈 신경이 덜 풀려서 후유증이 남았다. 얼굴을 항상 찡그리고 다녀서 애들이 놀리기도 했다. 그래서 아내와 결단을 내렸다”며 “아들과 딸을 캐나다 밴쿠버로 조기 유학 보내고 1년 뒤 아내가 따라갔다. 난 그때부터 20년간 기러기 생활을 했다. 다시 하라면 못 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;최선규의 딸은 이후 건강을 회복해 성악을 전공한 것으로 알려졌다. 9년 전 캐나다 항공사 웨스트젯 승무원이 됐고 현재는 현지 지상직 승무원으로 근무 중이라고 한다. 최근엔 결혼해 화목한 가정을 이루고 아들까지 품에 안았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유니스트, “부울경 제조업 AI 전환 이끌겠다” 혁신 허브 선언</title>
+      <link>https://www.chosun.com/national/regional/2026/02/10/FVMQQJRBCBEDVD2M4JMFK2L6FE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/10/FVMQQJRBCBEDVD2M4JMFK2L6FE/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 09:27:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRTCOBSMVQWIOBXME3DSNJZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종래 유니스트(UNIST·울산과학기술원) 총장이 10일 학술정보관에서 열린 언론간담회에서 모두 발언을 하고 있다. /유니스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유니스트(UNIST·울산과학기술원)가 10일 대한민국 제조업의 메카인 동남권(부산·울산·경남)의 제조업의 인공지능 전환(AX)을 선도해 나가겠다고 밝혔다.&lt;br&gt;&lt;br&gt;박종래 유니스트 총장은 이날 기자간담회를 열고 “동남권 주력 산업의 초격차 기술을 확보하고, 기업의 연구 개발 컨트롤 타워가 돼 동남권 산업 혁신을 이끌겠다”고 말했다.&lt;br&gt;&lt;br&gt;유니스트는 최근 정부가 추진하는 ‘4극 3특 지역연구개발 혁신지원사업’에 선정됐다. 이는 중부·대경·호남·동남 등 4개 권역에 위치한 4대 과학기술원을 중심으로 지역이 직접 연구개발을 기획·운영하는 사업이다. UNIST는 올해 131억원, 내년부터는 매년 최소 260억원 규모의 사업비를 지원받아 동남권 R&amp;amp;D 사업단을 이끌게 된다.&lt;br&gt;&lt;br&gt;유니스트가 제시한 핵심 비전은 제조 산업의 AX다.&lt;br&gt;&lt;br&gt;동남권 주력 산업인 조선·해양·기계·항공·철강 분야에 AI와 데이터를 접목해 생산성을 극대화하겠다는 구상이다.&lt;br&gt;&lt;br&gt;울산의 제조 AI, 부산의 전력반도체, 경남의 우주항공·방산을 잇는 거대 기술 벨트를 구축한다. 설계부터 공정, 운영까지 전주기 데이터를 연결해 기존 제조벨트를 첨단 미래 산업 거점으로 전환하는 것이다.&lt;br&gt;&lt;br&gt;HD현대중공업과 조선·해양 특화 AI 모델도 만든다. 포스코와는 철강 공정 무인화와 최적화를, 한국수력원자력과는 원전 운영 안전성 향상을 위한 AI 융합 연구를 추진한다.&lt;br&gt;&lt;br&gt;이런 앵커기업들의 실제 데이터를 바탕으로 현장에 즉시 이식 가능한 솔루션을 만들어냄으로써 동남권 제조 산업의 체질을 실질적으로 바꾸는 구체적인 결과물을 만들어낼 것으로 기대되고 있다.&lt;br&gt;&lt;br&gt;조선분야 AX도입 성과에 대해 박 총장은 “조선공정 전반을 들여다보며 인공지능이 개입할 지점과 필요한 데이터를 찾는 것 자체가 중요 연구대상”이라며 “데이터 개방과 보안 등 제도적, 기술적 문제를 해결하는 것이 우선이며 체질 개선에 집중하고 있다”고 했다.&lt;br&gt;&lt;br&gt;중소기업의 R&amp;amp;D 연구를 지원하기 위해 보유하고 있는 세계적 수준의 슈퍼컴퓨팅센터와 연구장비도 개방한다. 자체 R&amp;amp;D 능력이 부족한 중소·중견기업을 위한 것으로, 교수진과 매칭해 현장의 애로사항 해결에도 도움을 줄 계획이다.&lt;br&gt;&lt;br&gt;박 총장은 “울산은 8000여개의 중견·중소기업이 밀집해 있어 데이터 확보 차원에서는 큰 자산”이라며 “중소기업이 수십년간 축적한 특화 기술은 양질의 데이터가 되고 국제적 경쟁력을 갖춘 자산이 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;인재 양성 로드맵도 구체화했다.&lt;br&gt;&lt;br&gt;올해부터 ‘AI &amp;amp; 휴먼 융합대학’을 신설해 전교생 대상 AI 융합 교육을 실시한다.&lt;br&gt;&lt;br&gt;재직자 교육 프로그램인 ‘노바투스 아카데미아’를 통해 현장 실무형 인재를 길러내고, 연구 성과가 창업과 투자로 이어지는 ‘딥테크 창업 생태계’를 활성화해 인재들이 지역에 정주하는 선순환 구조를 만들 계획이다. 이를 위해 동남권 혁신 창업원 설립도 추진한다.&lt;br&gt;&lt;br&gt;박종래 총장은 “동남권 산업의 몸체에 두뇌인 AI와 데이터를 결합해 새로운 성장 엔진을 만들고, 현장에서 즉시 활용 가능한 기술을 구현하겠다”라며 “동남권이 첨단 산업 중심지로 도약하는데 중추 역할을 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부고] 윤정용(전 경북행복재단 대표이사)씨 별세</title>
+      <link>https://www.chosun.com/national/people/2026/02/10/DKBQQMEQTVA65F6KYB4Y2SDTKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/10/DKBQQMEQTVA65F6KYB4Y2SDTKA/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 09:20:49 +0000</pubDate>
+      <content:encoded>▲고인 : 故윤정용(전 포항시 부시장·전 경북행복재단 대표이사·향년 78세)&lt;br&gt;&lt;br&gt;▲배금옥씨 남편상, 윤수호·윤선희·윤수영씨 부친상&lt;br&gt;&lt;br&gt;▲빈소 : 대구보훈병원 장례식장 103호(053-625-4466)&lt;br&gt;&lt;br&gt;▲발인 : 11일 오전 10시 &lt;br&gt;&lt;br&gt;▲장지 : 대구 달성군 논공읍 선영&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘입원 치료 갈등’ 흉기로 아버지 찌른 20대, 항소심도 징역 5년</title>
+      <link>https://www.chosun.com/national/regional/2026/02/10/HJRCZM5MKFFODE7LRUI7752LH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/10/HJRCZM5MKFFODE7LRUI7752LH4/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 09:08:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정신질환 입원 치료를 반대한다는 이유로 아버지를 흉기로 찔러 살해하려 한 혐의로 기소된 20대가 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사3부(재판장 김병식)는 10일 존속 살해미수 혐의로 기소된 A씨에게 원심과 같은 징역 5년을 유지했다.&lt;br&gt;&lt;br&gt;재판부는 다만 원심의 위치추적 전자장치 부착 10년 명령을 파기하고, 대신 보호관찰 5년을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 2월 주거지에서 흉기로 아버지의 복부 등을 찔러 살해하려 한 혐의로 재판에 넘겨졌다. 그는 자신의 우울증, 수면장애 등 증상과 관련해 입원해 전기 치료를 받고자 했으나, 아버지가 동의하지 않자 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 “범행이 미수에 그쳤고, 피해자가 피고인에 대한 처벌을 바라지 않고 선처한다는 의사를 밝혔다”며 “어린 시절부터 정신질환을 경험한 피고인이 정신질환을 반드시 치료해야 한다는 강박에 빠진 나머지 범행에 이른 것으로 볼 여지가 있다”며 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자가 피고인의 처벌을 원하지 않는다고 거듭 밝히고 있고, 가족이 선처를 호소하고 있다”며 “정신질환 치료를 준수사항으로 부과하는 보호관찰 명령만으로도 재범을 방지할 수 있을 것으로 보여 위치추적 전자장치 부착이 부당하다는 피고인의 주장을 받아들인다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “범행 당시 피고인이 사물을 변별하거나 의사결정을 할 능력이 미약한 것으로 보이나, 이를 감경 사유로 보지 않은 1심의 판단은 타당하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 측 ‘재판 의무 중계·플리바게닝 위헌’ 헌재 판단 받는다</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/10/ZAZVQRX3ZZFDFETGKJLPESLJVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/ZAZVQRX3ZZFDFETGKJLPESLJVE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 08:57:47 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 측이 내란 특별검사법에 규정된 재판 의무 중계와 플리바게닝 조항에 대해 제기한 헌법소원이 헌법재판소의 정식 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3DGMZRMU3TGZRYMRRTQNJXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 10일 윤 전 대통령 변호인단이 지난해 10월 내란특검법 제11조 4·7항과 제25조의 위헌 여부를 확인해 달라며 낸 헌법소원을 정식 심판에 회부했다고 밝혔다.&lt;br&gt;&lt;br&gt;내란특검법 제11조 4·7항은 특검이 기소한 사건의 1심 재판을 의무적으로 중계하도록 규정하고 있다. 제25조는 특검 수사 대상과 관련해 자수하거나 타인의 범죄를 규명하는 데 주요한 진술·증언을 한 경우 형을 감경하거나 면제할 수 있도록 하고 있다.&lt;br&gt;&lt;br&gt;헌재는 재판관 3명으로 구성된 지정재판부를 통해 헌법소원이 법적 요건을 갖췄는지 먼저 심사한다. 지정재판부가 요건을 충족했다고 판단하면, 재판관 9명이 심리하는 전원재판부로 사건을 넘긴다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 재판 의무 중계 조항에 대해 “재판 참여자들이 과도한 여론의 압박을 받도록 해 공정한 재판을 받을 권리를 침해한다”는 취지로 주장한다. 플리바게닝 조항 역시 적법절차 원칙에 반한다고 보고 있다.&lt;br&gt;&lt;br&gt;앞서 윤 전 대통령 측은 같은 특검법 조항을 문제 삼아 내란 우두머리 혐의 사건을 심리 중인 재판부에 위헌법률심판 제청도 신청한 바 있다. 재판부가 이를 받아들여 헌재에 위헌 심판을 제청할 경우, 헌재 결정이 나올 때까지 재판은 중지된다. 다만 재판부는 제청 결정을 하지 않은 채 오는 19일 선고 기일을 잡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박나래, 12일 경찰 출석… 매니저 갑질 의혹 첫 피고소인 조사</title>
       <link>https://www.chosun.com/national/national_general/2026/02/10/V2QZBT3DUJGNVECW5XQFX46CPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/10/V2QZBT3DUJGNVECW5XQFX46CPY/</guid>
@@ -775,15 +848,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQWMNZXGIYTSOLDHA2DMMDEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 봉화군 국립백두대간수목원에서 판매될 두바이쫀득쿠키 `백두쫀쿠`/한국수목원정원관리원 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백두산호랑이 6마리의 보금자리가 있는 경북 봉화군 국립백두대간수목원이 설 명절에 무료 개방한다. 지역 청년들이 만든 두바이 쫀득 쿠키인 ‘백두쫀쿠’도 판매한다.&lt;br&gt;&lt;br&gt;산림청 산하 한국수목원정원관리원은 국립백두대간수목원을 오는 14일부터 18일까지, 설 당일(17일)을 제외하고 무료로 개방한다. &lt;br&gt;&lt;br&gt;방문자센터에서는 가족 단위 관람객이 즐길 수 있는 투호·윷놀이·제기차기 등 전통놀이를 즐길 수 있는 체험존이 꾸려진다.&lt;br&gt;&lt;br&gt;특히 병오년을 맞아 말띠 관람객 50명에게 매일 선착순으로 기념품으로 수건을 전달한다. 이와 별도로 이름에 ‘말’ ‘마’ ‘오’나 ‘봉’ ‘화’가 들어간 관람객도 매일 100명씩 선정해 백두대간수목원의 상징 캐릭터인 ‘백두랑이’ 휴대폰 거치대(그립톡)와 화분에 바로 심어 기를 수 있는 씨앗스틱을 선물한다. 단, 신분증을 제시해야 한다.&lt;br&gt;&lt;br&gt;백두대간수목원 가든샵에선 식물들에 대한 할인행사가 진행되고, 두바이 쫀득 쿠키도 맛볼 수 있다. 봉화군 지역 청년들이 만든 기업인 ‘봉이당’에서 만들어 판매하며, 수목원과 협업의 의미를 담아 ‘백두쫀쿠’라는 명칭을 붙였다.&lt;br&gt;&lt;br&gt;경북 봉화군 춘양면에 있는 국립백두대간수목원은 5179ha(약 1560만평) 규모로, 세계에서 둘째로 큰 수목원이다. 산림청이 생물 자원을 보전·활용하기 위해 만들었다. 수목원 내 보존 식물 수는 620만 점이 넘는다. 축구장 5.4개 크기인 ‘호랑이숲’도 인기다. 이곳에는 멸종 위기종인 백두산호랑이 6마리(우리·한·도·태범·미령)가 함께 지내고 있다. 21일에는 태범과 미령의 생일 잔치도 열린다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지난달 고용보험 가입자 증가분 80%가 60세 이상…청년은 감소 </title>
-      <link>https://www.chosun.com/national/labor/2026/02/09/Z4FTKQ2YDBB75FY65YZVUY37ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/02/09/Z4FTKQ2YDBB75FY65YZVUY37ZA/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 09:05:41 +0000</pubDate>
-      <content:encoded>지난달 고용보험 신규 가입자 대부분이 60세 이상 고령층이었던 것으로 집계됐다. 일하는 고령층이 빠르게 늘면서 신규 가입자 수 증가를 주도한 반면, 29세 이하 청년층에서는 고용보험 가입자가 오히려 줄어들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSTSZJYGQYTOM3CGQ4DIMDBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고용노동부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 고용노동부가 발표한 ‘고용행정통계로 본 노동시장 동향’에 따르면, 지난달 말 기준 고용보험 상시가입자는 1543만7000명으로 작년 같은 달보다 26만3000명(1.7%) 증가했다. 그중에서도 60세 이상(20만9000명) 고령층에서 증가분의 약 80%를 차지했다. 우리 사회의 고령화가 빠르게 진행되는 가운데, 기대 수명이 늘어나면서 퇴직 이후에도 다시 일을 구하는 중장년층이 많아진 영향으로 분석된다. 이와 달리 29세 이하에서는 인구 감소 등 영향으로 고용보험 가입자가 전년 대비 7만3000명 줄었다.&lt;br&gt;&lt;br&gt;업종별로는 서비스업 가입자 수(1071만5000명)가 전년보다 27만7000명 늘면서 꾸준한 증가세를 보였다. 이와 달리 ‘안정적인 일자리’로 꼽히는 제조업과 건설업 가입자는 각각 5000명, 1만2000명 줄었다. 제조업은 8개월 연속, 건설업은 30개월 연속 감소세다.&lt;br&gt;&lt;br&gt;정부의 일자리 플랫폼 ‘고용24’ 기준으로 지난달 신규 구인 인원은 17만명으로 전년 동월 대비 3만4000명(25.4%) 늘었다. 이 영향으로 지난달 구직자 1인당 일자리 수는 0.3개로 전년 동월(0.28개) 대비 소폭 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이병훈, 전남·광주특별시장 출마 선언… 5대 발전 공약 제시</title>
       <link>https://www.chosun.com/national/national_general/2026/02/09/MSHEVDSIDBA23B6U742H4ALLGE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/MSHEVDSIDBA23B6U742H4ALLGE/</guid>
@@ -823,15 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZGGMJTHE3DKYZUHAZDGYTBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유영하 국민의힘 의원(대구 달서구갑)이 9일 대구 중구 인교동 옛 삼성상회 터 앞에서 6·3 지방선거 대구시장 출마를 선언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 유영하(대구 달서구 갑) 의원이 9일 대구 중구 삼성상회 터 앞에서 대구시장 출마를 공식 선언했다. &lt;br&gt;&lt;br&gt;유 의원은 이날 출마 선언에서 “지금이야말로 대구의 생존을 건 과감한 결단이 필요한 때다. 대구의 내일을 열기 위해 시장 선거에 나선다”고 밝혔다. 유 의원은 “2년간의 의정 활동 동안, 진영과 이념을 넘어 정부·여당 인사들과 맺은 인적 네트워크가 대구를 위한 디딤돌이 될 것”이라며 “시민들을 위해 실리를 챙기며, 어떠한 경우라도 대구가 가진 자긍심은 절대 훼손하지 않겠다”고 약속했다. &lt;br&gt;&lt;br&gt;이날 출마 선언 장소로 삼성상회 터를 선택한 것에 대해 유 의원 측은 “삼성의 출발점에서 대구의 내일을 열기 위한 상징적 선택”이라고 설명했다. &lt;br&gt;&lt;br&gt;그는 핵심 공약으로 삼성 반도체 공장 대구 유치, 삼성병원 분원 대구 유치를 제시했다.&lt;br&gt;&lt;br&gt;유 의원은 “대구의 내일을 여는 길을 함께해 달라. 더 낮은 자세로 시민들과 함께하겠다”고 출마 각오를 밝혔다.&lt;br&gt;&lt;br&gt;출마 기자회견 이후 유 의원은 국민의힘 대구시당에서 기자회견을 열었다. &lt;br&gt;&lt;br&gt;이 자리에서 박근혜 전 대통령의 지원 가능성에 대한 질문에 유 의원은 “지난 2022년 대구시장 출마 때처럼 박 전 대통령께서 후원회장을 다시 하시거나 경선 과정에서 지원 유세를 하지 않을 것”이라고 선을 그었다. &lt;br&gt;&lt;br&gt;대구·경북 행정 통합과 관련해서는 “행정 통합은 전체 주민 의사가 중요하다. 주민의 삶의 질이 나아가는 방향으로 가야지, 번갯불에 콩 구워 먹듯 서두를 일은 아니다”라며 신중한 입장을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“납품 지연 장기화”…서울교통공사, 다원시스 사기 혐의로 고소</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/09/4XWPBFJBOBCKLDMYFLZ5KTSHFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/4XWPBFJBOBCKLDMYFLZ5KTSHFM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 06:47:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZW2V25QLVKEHDYB74V72K3IUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 12일 오전 서울 지하철 5호선 광화문역에 도착한 시민들이 바쁘게 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사는 9일 지하철 차량 제작 업체인 다원시스와 박선순 대표를 특정경제범죄 가중처벌 등에 관한 법률(사기) 혐의로 고소했다고 밝혔다. 다원시스의 납품 지연 장기화와 계약 위반 등에 대한 법적 책임을 묻기 위한 조치다.&lt;br&gt;&lt;br&gt;앞서 공사는 서울 지하철 5호선 200칸 구매를 위해 2023년 다원시스와 2200억원 규모 계약을 맺었다. 다원시스는 계약상 이달부터 납품을 시작해야 했지만, 경영 악화 등을 이유로 지금까지 한 칸도 납품을 못 하고 있다. 공사 조사 결과, 다원시스는 납품을 위한 설계 단계조차 완료하지 못한 것으로 드러났다.&lt;br&gt;&lt;br&gt;공사 관계자는 “당초 내년까지 납품을 끝내기로 했는데 기한을 지키지 못할 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;다원시스는 계약 과정에서 공사가 지급한 선금을 목적과 다르게 사용하고 있다는 의혹도 받는다. 다원시스가 선금 중 407억원의 세부 증빙 자료를 제출하지 않았다는 것이다. 공사는 다원시스가 적자 보전 등을 위해 임의로 선금을 유용한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;한편 공사가 2021년 다원시스와 계약한 5호선과 8호선 총 298칸도 납품 지연이 장기화하고 있다. 지난해 납품 정상화를 위해 김천 공장에 전용 라인을 확보하기로 했지만 이것도 지키지 않았다.&lt;br&gt;&lt;br&gt;공사 관계자는 “납품이 늦어지면서 열차 유지 보수에 104억원을 추가로 썼다”며 “지난달 이를 배상하라고 다원시스에 통보했다”고 했다.&lt;br&gt;&lt;br&gt;공사는 서울시 용역과 종합 감사 결과에 따라 추가 고소도 진행한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 김병기 전자기기 포렌식 작업 중… ‘아내 법카 유용’ 의혹 관련</title>
       <link>https://www.chosun.com/national/national_general/2026/02/09/GIB7G6WHWJDKDOR6NHAAX2WINE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/GIB7G6WHWJDKDOR6NHAAX2WINE/</guid>
@@ -839,15 +894,6 @@
       <description/>
       <pubDate>Mon, 09 Feb 2026 08:04:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DGM3CHFSDEMBSGZRDIYTBMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기(서울 동작갑) 무소속 의원의 아내 이모씨가 동작구의회 법인 카드를 사적 유용했다는 의혹과 관련해, 9일 경찰이 김 의원 전자기기 포렌식 작업에 착수했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울경찰청 공공범죄수사대는 이날 오전부터 김 의원 측 변호인 입회 하에 김 의원의 PC 등 전자기기에 대한 포렌식 선별 작업을 진행하고 있다. 선별 작업은 포렌식을 마치고 혐의와 관련한 전자정보만 따로 분류하는 막바지 절차다. 통상 피의자의 법률대리인이 참관한다.&lt;br&gt;&lt;br&gt;앞서 지난달 14일 경찰은 김 의원 자택과 국회 의원회관 사무실 등 6곳을 압수 수색해 PC·휴대전화 등을 확보했다. 당시 김 의원은 경찰에 아이폰을 제출하면서도 비밀번호를 제공하지 않았는데, 이날도 휴대전화는 포렌식 선별 작업에서 빠진 것으로 전해졌다. 최신형 아이폰은 보안성이 뛰어나 비밀번호 없이는 내부 전자정보를 들여다보기 어렵다.&lt;br&gt;&lt;br&gt;경찰은 이씨가 지난 2022년 7~9월 동작구의회 업무추진비 법인 카드를 식대 등 개인적 용도로 사용했다고 보고 있다. 이와 관련해 이씨는 지난달 22일 정치자금법 위반 등 혐의로 소환 조사를 받았다.&lt;br&gt;&lt;br&gt;한편 이씨에게 구의회 법인 카드를 준 혐의를 받는 조진희 전 동작구의원도 이날 오전 피의자 신분으로 경찰에 출석했다. 경찰은 지난달 19일 조 전 구의원의 자택과 사무실, 동작구의회 등에 대한 압수 수색을 진행한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 자료 분석과 관련자 조사를 마친 후, 조만간 김 의원을 소환할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“온라인 게임 계정 판다”...사기·공갈 혐의 20대 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/02/09/5PUT6NU7CFDWVEPSNGX3BUFEEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/09/5PUT6NU7CFDWVEPSNGX3BUFEEQ/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 06:35:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임 계정을 판매한다고 속여 피해자들로부터 500여 만원을 뜯어낸 20대가 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전둔산경찰서는 사기 및 공갈 혐의로 20대 A씨를 검찰에 구속 송치했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월부터 지난달까지 인터넷 게임 커뮤니티에 게임 계정을 판매한다고 속인 뒤 피해자 10명에게서 560만원을 받아 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 피해자들에게서 대금을 송금받으면 바로 접속 비밀번호를 변경해 피해자가 접속하지 못하게 한 뒤 게임사 측 오류라고 속였다고 한다. &lt;br&gt;&lt;br&gt;그는 문제 해결을 위해 게임사를 방문해야 한다며 교통비 등을 추가로 뜯어내기도 했다. 또 ‘돈을 갚으라’고 하는 일부 피해자들에게는 ‘자살하겠다’고 협박을 하기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;피해 신고를 접수한 경찰은 계좌 명의자와 A씨가 일치하는 점 등을 토대로 A씨를 대전 주거지에서 검거했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 출석에 불응하거나 수사를 받는 중에도 추가 범행을 저지르기도 했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 범행으로 인한 피해자가 더 있을 것으로 보고 여죄를 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 “사이버상에서 상품 대금을 현금 결제(계좌 이체)로만 유도하는 경우에는 거래를 자제하고 에스크로(결제 대금 예치) 제도를 활용하는 것이 좋다”고 말했다. 이어 “‘경찰청 사이버캅’ 앱 등으로 검색해 송금 계좌번호와 휴대전화 번호가 범죄와 관련이 있는지 확인하는 것도 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“주민·등산객 대피하라”...양산 원동면 야산서 산불 확산 </title>
@@ -859,25 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4DKZJZGAYGEMDDGZSTIOLCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 경남 양산시 원동면에 발생한 산불 현장. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산 원동면에서 9일 오후 농막에서 시작된 것으로 추정되는 산불이 발생해 산림 당국이 진화에 나섰다. &lt;br&gt;&lt;br&gt;산림청 중앙사고수습본부와 양산시 등에 따르면 이날 오후 3시 31분쯤 양산시 원동면 용당리 한 야산 일원에서 불이 났다. &lt;br&gt;&lt;br&gt;오후 4시 30분 기준 진화 헬기 20대, 진화 차량 22대, 진화 인력 123명이 투입돼 산불 확산을 막기 위해 진화 작업을 펼치고 있다. 현장에는 서남서풍이 초속 1.2m로 불고 있다고 한다. &lt;br&gt;&lt;br&gt;현재까지 인명 피해는 발생하지 않았다. 불은 주택 뒤 대밭 인근 농막에서 시작한 것으로 추정된다. &lt;br&gt;&lt;br&gt;양산시는 이날 오후 4시 19분쯤 ‘용당리 인근 산불이 확산 중으로 인근 주민과 등산객은 원동초등학교로 즉시 대피하라’는 대피 명령을 발령했다. 현재 신곡리 주민 67명, 중리 주민 55명이 원동초등학교와 원동중학교에 대피했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 2월 10일 화요일 (음력 12월 23일 乙卯)</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/09/56HF6557BNE6TEWUNW2JL3PNIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/56HF6557BNE6TEWUNW2JL3PNIQ/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>특검, 김예성 석방-김상민 집행유예 1심 선고에 “항소”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/09/UZGP7HAETRCTTKBZB24QYQ3YZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/UZGP7HAETRCTTKBZB24QYQ3YZM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 07:41:07 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3WCODGMY3GCYTEMI4WKOLCGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희와 명태균·건진법사 관련 국정농단 및 불법 선거 개입 사건 등 진상규명을 위한 특별검사팀 민중기 특별검사. photo 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검은 9일 김건희 여사 측근으로 불렸던 김예성씨에게 1심에서 공소기각과 무죄가 선고되고, 김상민 전 부장검사도 김 여사 관련 혐의에 대해서는 무죄가 선고되자 “항소하겠다”고 했다.&lt;br&gt;&lt;br&gt;특검은 이날 김씨와 김 전 검사에 대한 법원 선고 후 “김씨에 대한 무죄 및 공소기각 판결, 김 전 검사에 대한 무죄 및 집행유예 판결은 관련 법리 및 증거에 비추어 수긍하기 어렵다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26부(재판장 이현경)는 이날 특정경제범죄가중처벌법상 횡령 등의 혐의를 받는 김씨에게 일부 공소기각과 일부 무죄를 선고하고 김씨의 석방을 지휘했다. &lt;br&gt;&lt;br&gt;재판부는 특검이 기소한 김씨 개인 및 가족 비리 혐의는 특검법상 수사 대상이 되지 않는다며 공소기각했다. 공소기각은 수사나 기소가 위법해 기소 자체를 무효로 하고 심리를 종결하는 것이다. 재판부는 “관련 혐의는 김건희 여사와의 관련성에서 비롯됐다고 보이지 않고, 의혹의 중요한 수사 대상인 투자금과도 무관하고 범행 시기도 광범위하다”며 “단지 피고인이 동일하다거나 소유 법인이 횡령 피해자가 된다는 사실만으로 특검법상 수사 대상인 ‘관련 범죄’로 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;또한 법원은 김씨가 자신의 차명법인인 이노베스트코리아 자금 24억3000만원을 빼돌린 혐의는 무죄로 판단했다. &lt;br&gt;&lt;br&gt;특검은 김씨가 2023년 IMS모빌리티 투자사 중 일부가 출자금을 50억원에서 35억원으로 낮추면서 펀드 설립이 무산되려 하자, 조영탁 IMS모빌리티(옛 비마이카) 대표가 개인 채무로 펀드 출자금을 충당했다고 봤다. 투자 유치가 확정돼 이노베스트코리아에 IMS모빌리티 구주 매매대금 46억원이 들어오자 김씨는 2023년 6~7월 조 대표에게 24억3000만원을 보내 채무를 갚도록 했다. &lt;br&gt;&lt;br&gt;특검은 김씨와 조 대표가 공모해 이노베스트코리아 법인 자금을 빼돌렸다고 주장했지만, 재판부는 “조 대표가 15억원을 빌려서 투자를 성사시켰고, 이에 이노베스트코리아도 IMS모빌리티 주식을 46억원에 매도해 경제적 이익을 얻을 수 있었다”면서 “IMS모빌리티 주식 대금 일부를 조 대표에게 준 금액을 횡령이라고 단정할 수 어렵다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김건희 특검은 김씨에게 징역 8년과 추징금 4억3233만원을 구형했다.&lt;br&gt;&lt;br&gt;김상민 전 부장검사는 이날 징역 6개월에 집행유예 1년을 선고받았다. 서울중앙지법 형사21부(재판장 이현복)는 이날 김 전 검사 1심 선고 공판에서 청탁금지법 위반 혐의는 무죄를 선고했다. &lt;br&gt;&lt;br&gt;특검은 재판에서 김 전 검사가 2023년 2월 김 여사 측에 시가 1억4000만원 상당의 이우환 화백 작품을 건네며 제22대 총선 공천과 국가정보원 공직 인사를 청탁했다고 주장했다. 그러나 재판부는 “김 전 검사가 그림을 실제 구매했거나, 김 전 검사가 그림을 김 여사에게 제공했다는 점이 합리적 의심의 여지 없이 증명됐다고 보기 어렵다”며 인정하지 않았다.&lt;br&gt;&lt;br&gt;법원은 김 전 검사가 총선 출마를 준비하던 2023년 12월 선거운동에 사용할 카니발 차량의 리스 선납금과 보험료 약 4139만여 원을 사업가 김모씨에게 대납시킨 혐의(정치자금법 위반)만 유죄라고 보고 징역 6개월에 집행유예 1년, 추징금 4139만여 원을 선고했다. 김건희 특검은 구형은 징역 6년이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이부진, 서울대 합격한 아들 졸업식서 환한 미소</title>
       <link>https://www.chosun.com/national/national_general/2026/02/09/U2WLJTVNKJFITGCGUECGYXXPZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/U2WLJTVNKJFITGCGUECGYXXPZ4/</guid>
@@ -887,15 +914,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUF4SWE2NNMA5PNOVIYDWR564U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장이 9일 서울 강남구 휘문고등학교에서 열린 아들 임동현군의 졸업식에 참석해 기념 촬영을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부진 호텔신라 사장이 아들 임동현 군의 고등학교 졸업식에 참석한 모습이 포착됐다.&lt;br&gt;&lt;br&gt;이 사장은 9일 휘문고등학교 졸업식을 찾아 이모인 홍라영 전 리움미술관 총괄부관장과 함께 행사장을 찾았다. 이날 모습은 언론 카메라에 포착됐다. 약 1시간가량 진행된 졸업식 동안 그는 공연 무대를 바라보며 박수를 보냈고, 멀리서 아들을 향해 손을 흔들며 밝은 표정을 지었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ETUK47T3NNCFCTLEPOF3NBPWI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;홍라영 전 삼성미술관 리움 총괄부관장(왼쪽)과 이부진 신라호텔 사징이 9일 서울 강남구 휘문고등학교에서 열린 임동현 군의 졸업식에 참석해 즐거운 시간을 보내고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸업식은 오전 9시 35분쯤 식전 공연과 함께 시작됐다. 무대에 오른 임 군과 친구들은 부활의 ‘네버엔딩 스토리’와 신해철의 ‘그대에게’를 부른 것으로 알려졌다. &lt;br&gt;&lt;br&gt;임 군은 초·중·고교 과정을 모두 국내에서 이수했다. 어머니 이부진 사장이 졸업한 서울 경기초등학교를 시작으로 휘문중학교와 휘문고등학교를 거쳤다. 최근에는 대학수학능력시험에서 우수한 성적을 거두고 서울대 경제학과에 합격한 사실이 알려지며 화제를 모았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDPPDRMG7NMGZBMFU7PGW4CUMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;홍라영 전 삼성미술관 리움 총괄부관장(왼쪽)과 이부진 신라호텔 사징이 9일 서울 강남구 휘문고등학교에서 열린 임동현 군의 졸업식에 참석해 기념 촬영을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸업에 앞서 임 군은 지난 2일 서울 강남구 대치동의 한 입시학원에서 예비 고등학교 1학년을 대상으로 열린 내신 설명회에 연사로 나섰다. 임 군은 ‘후회 없는 휘문 생활’이라는 제목의 강연 자료를 직접 만들어, 내신 관리 방법과 수능 공부 노하우 등을 설명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;임 군은 “내신 시험마다 약 2000문제씩 푼 연습량이 수학 체력을 향상시켰다”며 “사고력을 요구하는 문제에 대비하는 공부를 권장한다”고 했다. 또 “3년간 스마트폰과 게임을 완전히 단절하는 것을 적극 추천하고 싶다”며 “집중력과 몰입에 도움이 됐고, 모든 시험을 마친 뒤 3년 만에 맛보는 즐거움도 꽤 괜찮았다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서해 피살 유족, 유엔 北인권보고관 면담...“한미일 피해자 연대에 관심 보여”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/09/2ISI2FNVUFHHHB5IMPCBHUMGDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/2ISI2FNVUFHHHB5IMPCBHUMGDM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 07:20:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMPHOC55PBGPRCOULGBL6YZ3KA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 종로구에서 '서해 피살 사건'의 유족 이래진(왼쪽에서 두 번째)씨와 이씨를 대리하는 김기윤(맨 왼쪽) 변호사가 엘리자베스 살몬 유엔 북한인권특별보고관과 면담하고 있다./김기윤 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘서해 공무원 피살 은폐’ 사건 유가족 측이 9일 유엔 북한인권 담당자와 면담하며 “한·미·일 피해자 연대에 관심을 가져달라”고 촉구했다.&lt;br&gt;&lt;br&gt;고(故) 이대준씨의 친형 이래진씨와 유족 측 법률 대리인인 김기윤 변호사는 이날 오전 서울 종로구 서울글로벌센터에서 엘리자베스 살몬 유엔 북한인권특별보고관과 면담했다고 밝혔다. 면담 자리에서 유족 측은 살몬 보고관에게 지난 12월 26일 서훈 전 국가안보실장 등에 대한 1심 판결문과, 작년 2월 북한을 상대로 손해배상 청구를 해 승소한 판결문을 제출했다. &lt;br&gt;&lt;br&gt;김 변호사는 “판결문에 적힌 ‘표류자 들여오지 말고 7.26㎜ (총기로 사살)하라고 한다' 등 구체적인 내용에 대해 설명했다”고 했다. 이래진씨는 “판결문에 보면 동생이 호루라기를 불어 구조를 요청했다는 내용이 여러 차례 나오는데, 그럼에도 북한이나 한국 정부에서 구조에 나서지 않았다”고도 했다.&lt;br&gt;&lt;br&gt;유가족 측은 한국을 비롯한 일본, 미국 등에서도 북한의 책임을 인정하는 사법 판결이 나온 만큼, 세 국가의 연대가 필요하다는 입장도 전했다고 한다. 김 변호사는 “정신적 연대뿐만 아니라, 북한을 상대로 한 재산 회수를 어떻게 할지 등을 논의할 수 있는 자리를 만들어달라고 요청했다”며 “살몬 보고관이 ‘상당히 좋은 아이디어(very good idea)’라고 했다”고 했다.&lt;br&gt;&lt;br&gt;유가족 측은 오는 11월 감사원 유병호 감사위원과도 면담을 진행할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 김상민 前 검사, ‘김건희 그림 청탁’ 무죄…불법 정치자금 유죄, 징역6개월·집유1년</title>
       <link>https://www.chosun.com/national/court_law/2026/02/09/D5YBGCBIDRHOXFF4XHRLVWV5GQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/D5YBGCBIDRHOXFF4XHRLVWV5GQ/</guid>
@@ -903,15 +921,6 @@
       <description/>
       <pubDate>Mon, 09 Feb 2026 05:56:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DANDCG44GGOBZMI3TGZDFMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 연루된 '공천 청탁' 의혹의 핵심 인물 김상민 전 부장검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에게 공천 청탁 대가로 1억원 상당의 그림을 건넨 혐의를 받는 김상민 전 부장검사가 9일 1심에서 무죄를 선고받았다. 불법 정치자금 혐의에 대해서는 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 이현복)는 이날 김 전 검사의 청탁금지법 위반에 대해 무죄를 선고하고 정치자금법 위반에 대해서는 징역 6개월 및 집행유예 1년, 추징금 4139만여 원을 선고했다. 앞서 민중기 특별검사팀은 김 전 검사에게 징역 6년을 구형했었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘김건희 최측근’ 김예성, 횡령 혐의 1심 일부 공소기각</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/09/OWK2BNK6TRHIHDHOJIAY3GTSAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/OWK2BNK6TRHIHDHOJIAY3GTSAM/</guid>
-      <dc:creator>이민준 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 05:14:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSDMMJTGQZDGMTEGY2DAZBUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 일가의 '집사'로 알려진 김예성씨가 지난해 8월 12일 인천국제공항에서 체포돼 서울 종로구에 마련된 민중기 특별검사팀 사무실로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 일가의 최측근으로 지목된 김예성씨에 대해 법원이 9일 “김건희 특검팀의 수사 대상과 관련성이 없는 개인의 횡령”이라며 일부 혐의에 대해 공소기각 판결을 내렸다. 김씨가 설립과 운영에 관여한 법인의 자금을 횡령했다는 혐의에 대해서는 특검의 수사권을 인정하면서도 “범죄의 증명이 없다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26부(재판장 이현경)는 이날 특정경제범죄가중처벌법상 횡령 등 혐의를 받는 김씨의 선고 공판을 열고, 대다수의 횡령 혐의에 대해 공소 기각 판결을 내렸다. 김씨가 IMS모빌리티의 대기업 투자 유치과정에서 자신의 법인인 이노베스트코리아의 자금 24억3000만원을 횡령한 혐의에 대해선 무죄를 선고했다. 재판부는 선고를 마친 직후 곧바로 김씨의 석방을 지휘했다. 공소기각 판결은 수사·기소가 위법한 경우 기소 자체를 무효로 보고 심리를 종결하는 것이다.&lt;br&gt;&lt;br&gt;재판부는 공소 기각 판결한 혐의들에 대해선 “김 여사와의 관련성을 확인하지 못했다”며 “개인 횡령에 불과하고, 특검 수사 대상인 IMS모빌리티 특혜성 투자 의혹과도 무관해 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 재판부는 김씨가 자신이 실소유한 법인인 이노베스트코리아의 자금 24억3000만원을 횡령해 조영탁 IMS모빌리티 대표에게 대여줬다는 혐의에 대해서는 “횡령 행위로 단정하기 어렵다”며 무죄를 선고했다. IMS모빌리티(구 비마이카)가 투자를 유치하는 과정에서 조 대표가 15억원을 먼저 차용해 투자를 성사시켰고, 이 부채의 상환을 위해 주식 매매 대금 일부를 빌려준 것을 횡령이라고 볼 수는 없다는 것이다.&lt;br&gt;&lt;br&gt;김씨 측은 이날 선고를 마친 뒤 기자들과 만나 “지금에서라도 수사 대상에 대한 통제가 이뤄졌다는 것에 대해 다행이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘한덕수 징역 23년’ 이진관 재판장, 박성재에 “계엄 반대한 거 맞나”</title>
@@ -933,15 +942,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ME3WMZJZG5QTQZJQGMYTCOJWGM.jpg?auth=892c9f7fe29986ed3b5c87521796d9ba3451dbf4195bd2e051020f5b0c3c1d44&amp;smart=true&amp;width=865&amp;height=223" type="image/jpeg" height="223" width="865">
         <media:description type="plain">9일 오전 11시 4분께 경기 가평군 조종면 현리 신하교 인근에 추락한 군 헬기가 반파된 모습. 이 사고로 조종사 등 탑승자 2명이 심정지 상태로 심폐소생술을 받으면서 병원에 이송됐다. / 뉴스1 </media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘뇌물 군인’으로 남았던 45년… 故 강창성 전 의원, 재심서 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/09/66CMADY3RRDS3KPVIFFZ6BFI3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/66CMADY3RRDS3KPVIFFZ6BFI3Y/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 02:54:19 +0000</pubDate>
-      <content:encoded>신군부 시절 불법 연행돼 구금된 뒤 뇌물죄로 옥고를 치렀던 고(故) 강창성 전 국회의원이 재심에서 무죄를 확정받았다. 1981년 4월 1심 유죄 판결 이후 45년 만이다. 이번 무죄 확정으로 강 전 의원은 평생 따라다녔던 ‘뇌물 군인’이라는 오명을 벗게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BALDLPFHLBP4TZCQCOADWVBKUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2001년 4월 열린 국회 국방위원회에서 강창성 당시 한나라당 의원이 북한 가극 ‘피바다 ’기사가실린 국방일보를 들어 보이며 질문하고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 서울고법 형사1부(재판장 윤성식)는 지난달 30일 특정가중처벌법상 뇌물, 외국환관리법 위반 혐의로 기소된 강 전 의원의 재심 사건에서 징역 3년을 선고했던 원심 판결을 전부 파기하고 무죄를 선고했다. 검찰이 상고하지 않으면서 이 판결은 그대로 확정됐다.&lt;br&gt;&lt;br&gt;1973년 보안사령관으로 재직하며 ‘윤필용 사건’을 수사했던 강 전 의원은 군 내부 사조직인 ‘하나회’ 축출을 시도했다. 이후 신군부가 권력을 장악한 1980년 7월 계엄사령부 합동수사본부에 의해 서빙고 분실로 끌려가 84일간 구금된 채 강압 수사를 받았다.&lt;br&gt;&lt;br&gt;이후 2023년 2월 진실·화해를 위한 과거사정리위원회(진실화해위)는 강 전 의원이 구속영장 없이 구금돼 불법 수사를 받았을 가능성이 있다며 재심 사유에 해당한다고 보고 조사를 개시했다. 이듬해 5월 진실화해위는 이 사건을 “합수부에 의한 불법 구금 등 인권침해 사건”으로 규정하고 진실 규명 결정을 내렸다.&lt;br&gt;&lt;br&gt;강 전 의원은 수감 과정에서 삼청교육대로 끌려가는 수난을 겪었고, 체중이 30㎏ 가까이 줄어들 정도의 심각한 후유증도 남았다. 하지만 45년 만에 다시 열린 법정에서의 판단은 달랐다.&lt;br&gt;&lt;br&gt;재심 재판부는 당시 유죄 판단의 핵심 근거였던 자백 조서들의 증거 능력을 모두 인정하지 않았다. 재판부는 “불법 체포·감금 상태에서 가혹 행위를 당하며 허위 자백 진술을 했다고 판단된다”며 위법하게 수집된 증거는 증거 능력을 인정할 수 없다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 무죄 확정으로 강 전 의원의 유죄 전력을 이유로 거부됐던 국립현충원 안장 문제도 재검토될 것으로 보인다. 유족 측은 고인이 생전 육사 동기와 부하들이 묻힌 국립현충원 6·25 전사자 묘역에 안장해 달라는 유언을 남겼다고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
