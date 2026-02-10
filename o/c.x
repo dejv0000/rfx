@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “재판소원은 희망고문”...헌재 의견서 정면 반박</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/10/7W2Q72QYKJDNTOY3DPLEEUNZRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/7W2Q72QYKJDNTOY3DPLEEUNZRY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 11:09:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZDMNJXGBSGGMRUMY2DMNLGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 재판소원(재판에 대한 헌법소원) 도입에 반대하는 내용의 의견서를 10일 국회 법제사법위원회에 제출했다. 대법원은 특히 재판소원 도입에 긍정적인 입장을 담은 헌법재판소 의견서 내용을 조목조목 반박하며 “현행 헌법과 맞지 않는다”는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;이날 법사위 소속 나경원 국민의힘 의원을 통해 확보한 대법원 법원행정처 의견서에는 “재판소원은 고비용·저효율 제도로 국민들의 권리 구제보다는 ‘희망고문’을 초래할 것”이라는 내용이 담겼다. 더불어민주당은 재판소원 도입 법안을 이달 중 임시국회에서 처리할 방침이다.&lt;br&gt;&lt;br&gt;법원행정처는 재판소원이 도입되더라도 재판이 끝나는 시점만 늦어질 뿐 실제로 뒤집힐 가능성은 낮다고 지적했다. 특히 독일에서는 재판소원 대부분이 심리도 없이 각하되고, 특히 연방최고법원재판 사건의 인용률은 0%대에 그친다는 점을 들면서 “권력자나 소송 비용을 감당할 경제적 능력이 있는 사람만 혜택을 보고 대부분의 사건은 무의미하게 종결될 가능성이 높다”고 했다. &lt;br&gt;&lt;br&gt;법원행정처는 헌재가 재판소원 허용 범위를 ‘헌법적 쟁점이 있는 사건’으로 제한하자고 한 대목도 문제 삼았다. 헌재는 지난해 국회에 제출한 의견서에서 “헌재 판단이 중요한 헌법적 의미를 가지거나 기본권 보장에 필요한 때에 한정해 재판소원을 허용할 필요가 있다”고 했었다. 법원행정처는 이를 두고 “헌재가 사실상 사건 선별권을 가지겠다는 것”이라며 “그러나 막중한 심판 부담은 피할 수 없고 ‘중요한 헌법적 의미’ 등 불확정적 개념에 대한 상당한 심리가 필요해져 심판 자원의 낭비와 심판 지연이 벌어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;법원행정처는 재판소원 도입은 입법이 아닌 헌법 개정이 필요한 사안이라는 기존 입장도 강조했다. 헌법 101조에서 ‘사법권은 법관으로 구성된 법원에 속하고 최고법원은 대법원’이라고 명시하고 있는 만큼, 대법원 판결 이후 헌재가 다시 재판을 심사·취소하는 구조는 “사법권을 법원에 맡긴 헌법과 정면으로 충돌한다”는 것이다.&lt;br&gt;&lt;br&gt;또 재판소원 도입이 헌재 본연의 기능을 후퇴시킬 수 있다고도 했다. 법원행정처는 “재판에 적용되는 법률의 위헌성을 다툴 수단은 이미 헌법소원을 통해 보장돼 있다”며 “비슷한 기능을 하는 재판소원이 도입되면 헌법소원 제도의 기능과 존재 의미가 퇴색될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IKM3HIXB3RCG7MUGYSECOGTKEA.jpg?auth=5705b7a35f2b2e35a2d1800db46015fddfdd9aff81c52d229e1be1f13c8533bd&amp;smart=true&amp;width=5956&amp;height=3350" type="image/jpeg" height="3350" width="5956">
+        <media:description type="plain">2025년 6월 30일 서울 서초구 대법원 모습. 이날 대법원의 이재명 대통령 사건 파기환송 논란으로 열린 전국법관대표회의에서 5개 의안이 모두 부결됐다. /김지호 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>“이재명 두 아들 군 면제” 글 올린 이수정, 1심 벌금 300만원 불복해 항소</title>
       <link>https://www.chosun.com/national/court_law/2026/02/10/KYAQJM6FENFKPAGC3J44DZVBIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/KYAQJM6FENFKPAGC3J44DZVBIA/</guid>
@@ -837,15 +849,6 @@
       <description/>
       <pubDate>Mon, 09 Feb 2026 08:41:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENVKTVZHGRHHZDKG4PG74MXZNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시는 만성적인 주차난 해소를 위해 '주차장 개방 공유사업'을 올해도 계속해 추진한다고 9일 밝혔다. 사진은 이 사업에 참여한 대구 서구 한 초등학교./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 주택가 밀집 지역과 상업 지역 인근의 주차난 해소를 위해 ‘주차장 개방 공유 사업’을 올해도 추진한다고 9일 밝혔다. 주차장 개방 공유 사업은 야간·주말 등 유휴 시간대에 활용하지 않는 학교나 교회 등 공공 및 민간 시설의 부설 주차장을 주민에게 개방, 공유하면 시설 개선비 등을 지원해주는 것이다. &lt;br&gt;&lt;br&gt;대구시는 2019년부터 이 사업을 시작해 지난해 말 기준 123곳 4831면의 주차장을 개방·운영 중이다.&lt;br&gt;&lt;br&gt;대구시는 최소 2년간 10면 이상 주차장을 개방하면 건물주에게 주차 차단기·방범 카메라(CCTV) 설치, 바닥 포장 공사 등 시설 개선비를 지원한다. 일반 건축물에는 최대 2000만원, 학교 부설 주차장에는 최대 3000만원을 지원한다. 또 개방 기간 만료 후 2년간 연장 개방하는 시설에 대해서는 시설 유지비로 최대 500만원을 추가 지원하고 있다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “건물주와 주차장 이용자 모두가 안심하고 이용할 수 있도록 주차장 배상 책임 보험료도 함께 지원한다”고 말했다. &lt;br&gt;&lt;br&gt;대구시 통합주차정보시스템(pis.daegu.go.kr)의 ‘개방주차장’ 테마 검색을 활용하면, 현재 위치나 목적지 인근에서 이용 가능한 개방주차장을 확인할 수 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>설 연휴 봉화 백두대간수목원에서 ‘백두쫀쿠’ 맛볼까</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/09/S7BXKENHLJA67JZQ5O2KCYVSG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/09/S7BXKENHLJA67JZQ5O2KCYVSG4/</guid>
-      <dc:creator>봉화=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 09:13:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQWMNZXGIYTSOLDHA2DMMDEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 봉화군 국립백두대간수목원에서 판매될 두바이쫀득쿠키 `백두쫀쿠`/한국수목원정원관리원 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백두산호랑이 6마리의 보금자리가 있는 경북 봉화군 국립백두대간수목원이 설 명절에 무료 개방한다. 지역 청년들이 만든 두바이 쫀득 쿠키인 ‘백두쫀쿠’도 판매한다.&lt;br&gt;&lt;br&gt;산림청 산하 한국수목원정원관리원은 국립백두대간수목원을 오는 14일부터 18일까지, 설 당일(17일)을 제외하고 무료로 개방한다. &lt;br&gt;&lt;br&gt;방문자센터에서는 가족 단위 관람객이 즐길 수 있는 투호·윷놀이·제기차기 등 전통놀이를 즐길 수 있는 체험존이 꾸려진다.&lt;br&gt;&lt;br&gt;특히 병오년을 맞아 말띠 관람객 50명에게 매일 선착순으로 기념품으로 수건을 전달한다. 이와 별도로 이름에 ‘말’ ‘마’ ‘오’나 ‘봉’ ‘화’가 들어간 관람객도 매일 100명씩 선정해 백두대간수목원의 상징 캐릭터인 ‘백두랑이’ 휴대폰 거치대(그립톡)와 화분에 바로 심어 기를 수 있는 씨앗스틱을 선물한다. 단, 신분증을 제시해야 한다.&lt;br&gt;&lt;br&gt;백두대간수목원 가든샵에선 식물들에 대한 할인행사가 진행되고, 두바이 쫀득 쿠키도 맛볼 수 있다. 봉화군 지역 청년들이 만든 기업인 ‘봉이당’에서 만들어 판매하며, 수목원과 협업의 의미를 담아 ‘백두쫀쿠’라는 명칭을 붙였다.&lt;br&gt;&lt;br&gt;경북 봉화군 춘양면에 있는 국립백두대간수목원은 5179ha(약 1560만평) 규모로, 세계에서 둘째로 큰 수목원이다. 산림청이 생물 자원을 보전·활용하기 위해 만들었다. 수목원 내 보존 식물 수는 620만 점이 넘는다. 축구장 5.4개 크기인 ‘호랑이숲’도 인기다. 이곳에는 멸종 위기종인 백두산호랑이 6마리(우리·한·도·태범·미령)가 함께 지내고 있다. 21일에는 태범과 미령의 생일 잔치도 열린다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이병훈, 전남·광주특별시장 출마 선언… 5대 발전 공약 제시</title>
