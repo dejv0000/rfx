@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘미공개정보 주식거래 의혹’ LG家 장녀 부부 1심서 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/10/AP43Z5N2AZGERDW25QDDCD4NBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/10/AP43Z5N2AZGERDW25QDDCD4NBA/</guid>
+      <dc:creator>김혜민 기자, 임희재 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 06:00:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTGMZTGA4DMMLGGY3TKNDEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미공개 정보를 이용해 주식을 취득했다는 의혹을 받는 고(故) 구본무 LG그룹 선대 회장의 맏딸 구연경 LG복지재단 대표와 남편 윤관 블루런벤처스 대표에게 1심에서 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의13부(부장 김상연)는 10일 자본시장법 위반 혐의로 기소된 구 대표와 윤 대표에게 각각 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “윤 대표가 구 대표에게 미공개 정보를 전달했다는 직접 증거가 없고, 구 대표의 주식 매수가 이례적이라고 보이지 않는다”며 “구 대표가 미공개 정보를 이용해 주식을 매수했다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이들은 코스닥 상장 바이오 기업인 메지온의 미공개 중요 정보를 이용해 부당이득을 얻은 혐의로 재판에 넘겨졌다. 구 대표는 윤 대표가 최고투자책임자(CIO)로 있던 블루런벤처스가 2023년 4월 메지온으로부터 유상증자 방식으로 자금 500억원을 조달받는다는 미공개 정보를 미리 듣고, 메지온 주식 3만5990주를 취득해 약 1억원의 부당이득을 얻었다는 의혹을 받았다.&lt;br&gt;&lt;br&gt;앞서 지난해 12월 검찰은 구 대표에게 징역 1년과 벌금 2000만원, 추징금 약 1억566만원을, 윤 대표에게 징역 2년과 벌금 5000만원을 구형했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘지역구 기업인에 금품수수’ 임종성 前 민주당 의원, 1심 징역 2년</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/10/OLM4ONS2FJBYDLPNSGP3UE37MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/10/OLM4ONS2FJBYDLPNSGP3UE37MI/</guid>
+      <dc:creator>고유찬 기자, 김진영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 05:56:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRQTGNDCGA2DIMJVMJTDINRTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임종성 전 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역구 건설업체 대표들로부터 억대 금품을 수수한 혐의로 재판에 넘겨진 임종성 전 더불어민주당 의원에게 1심에서 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;서울동부지법 형사합의12부(재판장 이정형)는 10일 특정범죄가중처벌법상 뇌물수수, 정치자금법 및 부정 청탁 및 금품 등 수수의 금지에 관한 법 위반 혐의로 기소된 임 전 의원에게 징역 2년을 선고하고, 1854만7500원의 추징을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 고도의 청렴성과 도덕성이 요구되는 사회 지도층이자 선출직 공무원임에도 관내 사업체 업자들과 어울리며 재산상 이득을 취했다”며 “이는 선출직 공무원에 대한 신뢰를 훼손하고 공직 전반에 대한 불신을 초래한 것으로, 엄중한 처벌이 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;임 전 의원은 2019년 11월부터 2021년 5월까지 자신의 지역구인 경기 광주시의 한 건설업체 대표 엄모씨로부터 선거사무실 인테리어 및 집기류 비용과 성형수술 비용 등을 대납받는 방식으로 총 1억210만원 상당의 금품을 수수한 혐의로 기소됐다. 또 다른 지역구 건설업체 임원 오모씨로부터 법인카드를 받아 사용하며 약 1354만원 상당의 금품을 받은 혐의도 받았다.&lt;br&gt;&lt;br&gt;재판부는 이 가운데 엄씨가 선거사무실 인테리어와 집기류 비용을 대납했다는 혐의에 대해서는 무죄로 판단했다. 공사 완공 이전에는 비용이 확정되지 않았고, 임 전 의원이 해당 비용을 인지했다고 단정하기 어렵다는 이유에서다. 다만 성형수술비 500만원을 대납받은 점과 오씨로부터 법인카드를 받아 사적으로 사용한 점에 대해서는 뇌물수수 및 청탁금지법 위반 혐의를 유죄로 인정했다.&lt;br&gt;&lt;br&gt;임 전 의원과 함께 기소된 엄씨에게는 징역 1년에 집행유예 2년이, 오씨에게는 징역 1년이 각각 선고됐다. 다만 재판부는 임 전 의원과 오씨에 대해 “장기간 재판에 성실히 출석했고 도주 우려가 있다고 보기 어렵다”며 법정구속은 하지 않았다.&lt;br&gt;&lt;br&gt;한편 임 전 의원은 2020년 4월 총선을 전후해 통일교 측으로부터 3000만원을 받은 혐의와 관련해 최근 검찰과 경찰의 합동수사본부 수사선상에도 올라 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김상민, 카니발 비용 대납 제안 “돈 없으니 동생이 대신 내줘…선납금은 40%로 하자”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/10/NOYBGRQVQFF3XLL6XDTI4CW6KA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/NOYBGRQVQFF3XLL6XDTI4CW6KA/</guid>
+      <dc:creator>김은경 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 05:59:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTDKNDGGIZDKMJWG42WIMTFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 부장검사가 지난해 9월 17일 서울 서초구 서초동 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 총선 준비 과정에서 한 사업가에게 선거용 차량 리스 비용을 대납시킨 혐의로 기소된 김상민 전 검사에게 징역형의 집행유예를 선고한 1심 판결문에는 김 전 검사가 대납을 요구한 정황과 복잡한 자금 전달 과정이 담긴 것으로 나타났다.&lt;br&gt;&lt;br&gt;김 전 검사는 지난 9일 김건희 여사에게 공천 청탁과 함께 1억4000원 상당의 이우환 화백 작품을 전달했다는 핵심 혐의(청탁금지법 위반)에 대해서는 무죄 판결을 받았으나, 22대 총선 준비 과정에서 선거용 카니발 차량 리스비를 불법으로 받은 혐의(정치자금법 위반)에 대해선 유죄가 인정돼 징역 6개월에 집행유예 1년을 선고받았다.&lt;br&gt;&lt;br&gt;재판부는 김 전 검사가 사업가 김모씨에게 구체적인 액수와 조건을 제시하며 대납을 요구했고, 이후 김씨로부터 여러 사람을 거쳐 복잡하게 돈이 전달된 사실을 인정했다. &lt;br&gt;&lt;br&gt;판결문에 따르면 김 전 검사는 2023년 12월, 이듬해 총선 출마를 위해 카니발 하이리무진 차량을 계약하면서 김씨에게 자금 지원을 요청했다. 김 전 검사는 “선납금 비율을 30%로 하면 월 리스료가 부담되고, 50%로 하면 당장 선납금이 부담되니 40%로 하자”며 구체적인 리스 조건을 직접 제안한 것으로 나타났다. 그러면서 김씨에게 “지금 돈이 없으니 동생이 대신 좀 내줘”라고 대납을 요구했다.&lt;br&gt;&lt;br&gt;판결문에는 리스 선납금 전달 과정도 상세하게 담겼다. 김씨는 2023년 12월 17일 한 카페에서 평소 알고 지내던 고급 차량 정비소 운영자 임모씨에게 현금이 담긴 봉투를 건넸다. 이 돈을 받은 임씨는 처남 지모씨를 통해 차량 판매사에 3354만원을 이체했다.&lt;br&gt;&lt;br&gt;겉으로는 김 전 검사가 차량을 계약하고 중간 단계의 제3자가 돈을 낸 것처럼 꾸며 자금 추적을 어렵게 만든 것으로 해석될 수 있는 대목이다. 재판부는 김 전 검사에 대한 양형 이유를 밝히며 “14년간 검사로 재직한 법률 전문가로서 자신의 행위의 법적 의미를 누구보다 잘 인식하고 있었음에도 제3자에게 먼저 기부를 요청했고 수사 과정에서 자신의 죄책을 회피하는 모습을 보이기도 했다”고 지적했다.&lt;br&gt;&lt;br&gt;김 전 검사의 변호인단은 정치자금법 위반 유죄 판단과 관련해 “차량 대금 선납금은 받은 뒤 15일 만에 반환됐고, 애초부터 돌려줄 의사가 있었다는 사실관계 자체는 재판부도 인정했다”고 했다. 다만 “선납금을 전달한 사람과 김 전 검사의 인식이 달랐다는 이유로 법률적 평가가 달라진 것”이라며 “이는 법리적으로 충분히 다툴 수 있는 사안으로, 항소심에서 무죄 취지와 공소기각 가능성, 양형 문제를 함께 다툴 것”이라고 했다. 변호인단은 “재판부가 지적한 공직자이자 법률가로서의 자세에 대한 엄중한 지적은 겸허히 받아들인다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘중처법 1호 사고’ 정도원 삼표그룹 회장, 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/10/75VD3PVHSFBZBL6TQ72FHMM63E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/10/75VD3PVHSFBZBL6TQ72FHMM63E/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 05:40:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJBVN255M5EKDBL4PMUKKQ4Z2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;정도원 삼표그룹 회장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중대재해처벌법(중처법) 시행 직후 발생해 ‘1호 사고’가 된 양주 채석장 붕괴사고와 관련, 정도원 삼표그룹 회장이 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사3단독 이영은 판사는 10일 오후 중대재해 처벌 등에 관한 법률 위반 혐의로 불구속 기소된 정 회장에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 정 회장에 대해 “그룹의 규모나 조직 등에 비춰 볼 때 피고인이 중대재해 처벌 등에 관한 법률에 규정된 의무를 구체적으로 이행할 수 있는 사람에 해당한다고 단언할 수 없다”고 판시했다. &lt;br&gt;&lt;br&gt;정 회장과 함께 기소된 이종신 전 삼표산업 대표이사와 삼표산업 법인에 대해서도 “혐의 인정이 어렵다”며 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;정 회장 등은 2022년 1월 29일 삼표산업이 운영하던 경기 양주시 은현면 도하리 골재 채취장에서 석재 발파를 위한 천공 작업 중 토사가 붕괴해 작업자 3명이 숨진 사고와 관련해, 안전보건 의무를 다하지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 사고와 관련해 중대재해처벌법 규정상 실질적이고 최종적 권한을 행사하는 경영책임자가 정 회장인 것으로 판단해 기소했다.&lt;br&gt;&lt;br&gt;이 사고는 중대재해처벌법 시행 이틀 만에 발생해 ‘중처법 1호 사고’로 기록됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“짐만 두고 사라져”...승무원 단체, 광화문 스벅에 ‘짐 방치’ 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/10/OEHX2WTUUBEDNJJSIFMR6DE3W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/10/OEHX2WTUUBEDNJJSIFMR6DE3W4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 05:55:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2GINBSGRRDCNTBHE2DMZTGGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;승무원 가방으로 가득 찬 광화문 주한 미국 대사관 인근 스타벅스 매장의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광화문 주한 미국 대사관 인근 스타벅스 매장에서 이른 아침마다 ‘짐 보관소’ 같은 풍경이 반복돼 논란이 일고 있다. 미국 대사관에서 승무원 비자 면접을 보는 항공사 신입 승무원들이 매장에 짐을 두고 자리를 비우는 일이 잦아지면서, 일반 손님들의 이용에 불편이 생기고 있다는 지적이다.&lt;br&gt;&lt;br&gt;10일 스타벅스 등에 따르면 최근 해당 매장에는 국내 한 항공사 신입 승무원 20~30명이 아침 일찍 몰려와 커피는 5~10잔가량만 주문한 뒤, 가방을 좌석에 올려둔 채 매장을 떠나는 일이 발생했다. 이후 이들이 비자 면접을 보러 대사관으로 이동하면서 매장 좌석이 사실상 ‘가방 자리’가 돼, 음료를 마시려는 다른 손님들이 자리를 찾지 못하고 발길을 돌리는 사례가 발생하고 있다는 것이다.&lt;br&gt;&lt;br&gt;스타벅스 관계자는 조선닷컴에 “지난 몇 주 사이 최소 4~5차례 비슷한 상황이 벌어졌다”며 “짐을 치워 달라고 요청하면 ‘주문을 했는데 왜 그러느냐’는 반응이 나와 매장 운영에 애로가 크다”고 말했다. 스타벅스는 좌석을 장시간 비워두면 도난·분실 위험이 있다며, 필요 시 소지품을 챙겨 이동해 달라고 안내하고 있다는 입장이다.&lt;br&gt;&lt;br&gt;주한 미국 대사관은 테러 위험 등을 이유로 비자 면접 시 캐리어 등 큰 가방의 반입을 허용하지 않는다. &lt;br&gt;&lt;br&gt;항공사 등 기업 단체가 비자 면접을 진행할 때는 버스를 대절해 짐을 보관하도록 하는 경우가 많다. 다만 해당 항공사는 최근 경쟁사에 인수된 뒤 지난해 큰 폭의 적자를 기록하면서, 그와 같은 지원을 중단한 것으로 알려졌다. 이로 인해 비자 면접을 보러 가는 승무원들이 개인 짐을 둘 곳을 찾다가 인근 카페를 이용하는 사례가 늘었다는 설명이다.&lt;br&gt;&lt;br&gt;항공업계에 따르면 승무원들은 비행 업무 외의 시간에도 규정된 복장과 물품을 갖추도록 교육받는다. 이런 이유로 승무원들 사이에서는 비자 면접을 보러 갈 때 짐이 있으면 근처 카페 좌석에 두고 가도 된다는 식의 조언이 오가고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해당 항공사 측은 논란이 재발하지 않도록 비자 면접을 보러 갈 때 소지품을 최소화하도록 직원 대상 안내와 교육을 강화하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GQ2GINBSGRRDCNTBHE2DMZTGGY.jpg?auth=4d11d99f09ad357ab3734406bc644a564e880bfb08ac65f29832c7e083a26150&amp;smart=true&amp;width=500&amp;height=375" type="image/jpeg" height="375" width="500">
+        <media:description type="plain">승무원 가방으로 가득 찬 광화문 주한 미국 대사관 인근 스타벅스 매장의 모습./연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘이화영 재판기록 유출’ 현근택, 1심서 ‘공소기각’</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/10/VXAK4SOGGBBKXJWVK652KMS7NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/VXAK4SOGGBBKXJWVK652KMS7NU/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Feb 2026 05:55:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OMF6RYB45URJ27RC533UD3X2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현근택 변호사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화영 전 경기도 평화부지사의 ‘쌍방울 불법 대북 송금’ 1심 재판에서 재판 기록과 증거 자료를 이재명 대통령(당시 더불어민주당 대표) 등에게 유출한 혐의로 기소된 현근택 변호사에게 10일 ‘공소 기각’이 선고됐다. 공소 기각은 소송 조건이 갖춰지지 않았을 때 법원이 소송을 종결하는 것이다.&lt;br&gt;&lt;br&gt;수원지법 형사5단독 김주성 판사는 이날 현 변호사의 형사소송법, 개인정보보호법 위반 혐의에 대해 “공소가 무효인 때에 해당함으로 공소를 기각한다”고 밝혔다. 앞서 검찰은 현 변호사에게 징역 1년 6개월을 선고해 달라고 요청했었다.&lt;br&gt;&lt;br&gt;현 변호사는 불법 대북 송금 등의 혐의로 구속 기소된 이 전 부지사의 변호인이었던 2023년 당시 재판과 무관한 제3자인 이 대통령과 민주당에 재판 내용을 무단 유출한 혐의로 2024년 2월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;이 사건은 2023년 3월 당시 이 대통령의 페이스북에 김성태 전 쌍방울 그룹 회장 비서실장의 재판 증인 신문 조서 사진이 게시되며 불거졌다. 법정 녹취록은 사건 관계인만 열람·복사할 수 있는데, 제3자인 이 대통령의 페이스북을 통해 공개된 것이다. 또 같은 달 민주당 홈페이지에 올라온 쌍방울 수사 관련 기자회견문에도 쌍방울 계열사 관련 자료가 첨부돼 있었는데, 이 역시 검찰이 법원에 낸 수사 자료였다.&lt;br&gt;&lt;br&gt;이에 검찰이 법정에서 항의하는 등 논란이 됐고, 당시 이 전 부지사의 변호를 맡고 있던 법무법인 해광 측은 “피고인의 검찰 수사 입회 변호사인 현근택 변호사가 기록을 알아야 한다고 해서 준 적이 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 재판에서 “피고인은 당시 이재명의 대북 송금 관련성이 언론에 보도되자, 이화영의 변호인이 돼 ‘소통 창구’를 하기로 한 뒤 (사건을 담당하는) 법무법인 측에 자료를 요청해 전달받아 민주당 관계자에게 전달했다”고 했다.&lt;br&gt;&lt;br&gt;그러나 현 변호사 측은 이를 모두 부인하며, “공소를 기각해 달라”고 요청해 왔다. 검사의 수사 범위에 이 사건이 해당하지 않는다는 것이다.&lt;br&gt;&lt;br&gt;이날 김 판사는 공소 사실에 대한 유무죄 판단 없이, 공소 자체가 무효라고 판단했다. 김 판사는 “이 사건은 대통령령으로 정하는 ‘검사가 수사할 수 있는 중요 범죄’에 해당하지 않고, 부패 범죄인 이화영 사건과 직접 관련성이 있는 범죄라고 인정하기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이날 현 변호사는 “저는 검찰의 수사권이 없어서 공소 기각해야 한다고 주장해 왔는데, 재판부가 이를 받아들인 것”이라며 “헌법과 양심에 따라 현명하게 판단해 준 재판부에 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;한편, 현 변호사는 오는 6월 지방선거에서 경기 용인시장에 출마할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘부정선거방지대’ 선거운동 혐의 황교안 前 총리, 첫 공판서 혐의 부인</title>
       <link>https://www.chosun.com/national/court_law/2026/02/10/MNATHLDPFZEH3F52FTACLEOWPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/10/MNATHLDPFZEH3F52FTACLEOWPE/</guid>
@@ -752,15 +809,6 @@
       <content:encoded>유흥업소 전광판에 자신의 이름과 함께 ‘대한민국 제일 핫한 변호사’ ‘누적 매출 강남 1등’ 등의 문구를 내건 광고 앞에서 춤을 춘 변호사에 대해 정직 1개월 징계는 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3TCMRUG4YWGMZZMIZTMMZQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정·가정법원 모습. 2012.8.31 ⓒ 뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 양순주)는 A변호사가 법무부 변호사징계위원회를 상대로 낸 이의신청 기각 처분 취소 소송에서 원고 패소 판결했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A변호사는 2021년부터 클럽 등 유흥업소 전광판에 ‘법무법인 대표 A변호사’라는 문구를 반복적으로 게시해 변호사 품위를 훼손했다는 이유로 대한변호사협회 변호사징계위원회로부터 2023년 9월 정직 1개월의 징계를 받았다. A변호사는 유흥업소 실장에게 ‘법률사무소 과장’ 명함을 주고 홍보를 맡기고, 직원들의 퇴사 사실을 서울지방변호사회에 신고하지 않은 것으로도 나타났다.&lt;br&gt;&lt;br&gt;A변호사는 “유흥업소 광고를 직접 요청한 사실이 없다”며 징계가 과도하다는 취지로 법무부에 이의신청을 냈으나 기각됐다. 법무부는 “유흥업소 전광판에 광고 게재를 직접 요청하진 않았으나, A 변호사가 광고를 지체 없이 제지하지 않고 되레 전광판 앞에서 춤을 추며 적극적으로 즐기는 등 부추기고 조장했다”며 이의신청을 기각했다. 그러자 A변호사가 소송을 제기하게 된 것이다.&lt;br&gt;&lt;br&gt;그러나 법원도 법무부 판단이 적법하다고 봤다. 재판부는 “A변호사가 클럽 전광판에 게시되는 문구를 통해 지인과 활발하게 소통한 것으로 보이고, 광고 문구가 클럽 전광판을 통해 일반 대중에게 노출된 것에 대해 원고가 정식으로 이의를 제기하지는 않은 것으로 보인다”며 “원고가 클럽 전광판에 광고 문구가 게시되는 것을 부추기거나 조장해 품위유지 의무를 위반했다”고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “변호사는 기본적 인권을 옹호하고 사회정의를 실현한다는 사명에 따라 성실히 직무를 수행하고 사회질서 유지와 법률제도 개선에 노력해야 한다”며 “징계 결정이 사회통념상 현저하게 타당성을 잃어 재량권을 일탈·남용했다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경주 산불, 잔불 잡기 총력전 “연기 나는 곳에 물폭탄”</title>
-      <link>https://www.chosun.com/national/2026/02/09/5DMU34IVOVAGTNOZG4YYKZOOHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/09/5DMU34IVOVAGTNOZG4YYKZOOHY/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 02:56:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJS34Y4RNNEUFOENRLH57H3J2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;8일 경북 경주시 문무대왕면 산불이 강풍을 타고 주변으로 확산하자 산불 진화에 투입된 헬기가 송전탑 주변에서 산불을 진화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시 문무대왕면 입천리 야산 일대에서 발생한 산불의 주불을 진화한 산림 당국이 이틀째 잔불 진화 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;경북도와 경주시, 산림청, 해병대 등은 9일 오전 문무대왕면 입천리 일대에서 진화 헬기 20대와 장비 114대, 인력 525명을 투입해 잔불 정리를 이어갔다.&lt;br&gt;&lt;br&gt;산불 진화 헬기는 낙엽 속에서 연기가 올라오는 곳을 찾아 집중으로 물을 퍼붓는 한편, 지상에선 진화대원들이 개인장비를 이용해 남은 불씨를 끄고 있다.&lt;br&gt;&lt;br&gt;앞서 지난 7일 오후 9시 40분쯤 입천리 일원에서 산불이 나 강한 바람을 타고 번졌으나 산림 당국이 20시간 만인 8일 오후 6시쯤 주불을 진화했다.&lt;br&gt;&lt;br&gt;그러나 이날 저녁 산불이 재발화하자 산림 당국이 인력과 장비를 투입해 오후 11시쯤 다시 불길을 잡았다.&lt;br&gt;&lt;br&gt;이번 산불로 축구장 약 76개 넓이와 비슷한 54㏊ 숲이 불탔다. 인명 피해는 없었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>가평서 코브라 헬기 추락해 2명 사망</title>
       <link>https://www.chosun.com/national/incident/2026/02/09/Z77YJ27WGVGALDDTESFPT6LG4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/09/Z77YJ27WGVGALDDTESFPT6LG4M/</guid>
@@ -791,15 +839,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJZIE3557VPVBPBLP37ZUCJVLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울의 한 대형마트 판매대에 설탕이 진열돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 국민 6명 중 1명은 당을 과잉 섭취하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;9일 질병관리청이 국민건강영양 조사를 이용해 분석한 당 섭취 현황에 따르면 우리 국민의 당 섭취량은 2020년 58.7g에서 2023년 59.8g으로 늘었다. &lt;br&gt;&lt;br&gt;총 에너지 섭취량 중 당을 통한 에너지 섭취량이 20%를 초과하는 ‘당 과잉 섭취자’ 비율은 2023년 16.9%로 조사됐다. 국민 6명 중 1명꼴로 당을 과잉 섭취하고 있는 것이다. 당 과잉 섭취자 비율은 2020년 15.2%, 2021년 15.8%, 2022년 15.8%, 2023년 16.9%로 매년 늘고 있다.&lt;br&gt;&lt;br&gt;당 과잉 섭취자를 나이별로 보면 1~9세에서 26.7%로 가장 높았다. 전체 연령대 중 당 과잉 섭취 비율이 20%를 넘기는 것은 1~9세가 유일했다. 어린이와 청소년, 청년에서 당 과잉 섭취 비율이 특히 높았다. 10∼18세 17.4%, 19∼29세 17.0%였다. 성별로 보면 여성이 21%로 남성(12.9%)보다 높았다. &lt;br&gt;&lt;br&gt;당 섭취를 하는 음식으로 가장 많이 꼽힌 것은 음료와 차였다. 이어 과일류, 유제품·빙과류, 빵·과자류 순이었다. 당 과잉 섭취자는 그렇지 않은 사람보다 음료류, 과일류를 3배 이상 먹는 것으로 나타났다. 질병청은 “과거보다 국민 총당 섭취량이 다소 감소했지만 첨가당 함량이 높은 음료류, 빙과류 등을 통한 당 섭취량이 여전히 많다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘조국혁신당 성비위’ 김보협 첫 재판서 혐의 부인</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/09/Y3AUP34KO5DZXIDWZEHESIGPT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/Y3AUP34KO5DZXIDWZEHESIGPT4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 02:54:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22LNO5NT6VMXNJAPW2CBZ3IZCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김보협 전 조국혁신당 수석대변인이 9일 오전 서울 서초구 서울중앙지방법원에서 열린 1차 공판에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 차례의 성추행을 저지른 혐의로 기소된 김보협 전 조국혁신당 수석대변인이 9일 첫 재판에서 혐의를 모두 부인했다.&lt;br&gt;&lt;br&gt;김 전 대변인 측은 이날 서울중앙지법 형사20단독 임정빈 판사 심리로 열린 강제추행 혐의 첫 재판에서 “검찰의 공소사실을 부인한다”는 입장을 밝혔다. 검찰에 따르면 김 전 대변인은 2024년 7월 택시 안에서 피해자인 강미정 전 조국혁신당 대변인의 볼에 입을 맞추고, 같은 해 12월엔 노래방에서 강 전 대변인의 허리를 감싸는 등 강제추행을 저지른 혐의를 받는다.&lt;br&gt;&lt;br&gt;이에 대해 김 전 대변인 측은 “택시 안에서 공소사실과 같은 행위를 한 적이 없고, 노래방과 관련해선 여러 동석자들과 어울려 노래를 부를 때 어깨동무 등 신체 접촉을 했을 수는 있지만, 고의로 추행을 한 게 아니다”라고 했다.&lt;br&gt;&lt;br&gt;이어 김 전 대변인 측은 검찰이 증거로 제출한 고소인과 참고인의 진술 조서 내용 등을 이해하기 어렵다고 주장했다. 진술인의 이름 같은 개인 정보 등을 볼 수 없게 검찰이 가려 놓아 내용을 이해할 수 없다는 것이다. 김 전 대변인 측은 “저희가 내용을 파악해야 증인신문 준비가 가능할 것 같다”고 임 판사에게 말했다. 임 판사도 이를 받아들여 검찰에 김 전 대변인 측과 조율해 달라고 했다.&lt;br&gt;&lt;br&gt;임 판사는 내달 12일 재판을 한 차례 더 열어 증인신문 계획 등을 논의하기로 했다. &lt;br&gt;&lt;br&gt;한편 김 전 대변인의 성 비위 의혹을 작년 9월 공개한 강 전 대변인은 이날 법정에 출석했으나, 재판 중 별다른 입장을 밝히지는 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘뇌물 군인’으로 남았던 45년… 故 강창성 전 의원, 재심서 무죄</title>
       <link>https://www.chosun.com/national/court_law/2026/02/09/66CMADY3RRDS3KPVIFFZ6BFI3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/09/66CMADY3RRDS3KPVIFFZ6BFI3Y/</guid>
@@ -825,15 +864,6 @@
       <description/>
       <pubDate>Sun, 08 Feb 2026 15:56:00 +0000</pubDate>
       <content:encoded> 서울 한 초등학교 5학년 사회 수업 시간. 독립운동가 일대기를 발표하던 한 학생이 “안중근 의사가 이토 히로부미에 대해 조문을 했다”고 했다. 생성형 AI가 안중근 의사의 아들 안준생이 히로부미를 추모하기 위해 지은 사찰에서 참배한 행보를 안중근 의사 본인이 한 것처럼 뒤섞어서 가짜 답변을 내놓았는데, 이를 그대로 발표한 것이다. 담당 교사는 “역사적 배경 지식이 부족한 아이들이 AI의 환각을 그대로 받아들이는 걸 보고 큰일이라고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y36MHUEQKVF5PJ65WXLDKNRECY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육 현장 깊숙이 AI(인공지능)가 들어오면서 AI의 정보에 대한 판단 능력이 중요해졌지만, 학교 현장에선 “AI를 맹신하는 문제가 심각하다”는 우려가 쏟아진다. 본지가 한국교총과 함께 전국 초·중·고 교사 941명을 대상으로 진행한 설문조사에서 응답자의 82.5%가 “과도한 AI 사용이 학생의 문해력을 떨어뜨린다”고 답했다. AI 사용이 문해력을 저하시키는 이유에 대해선 가장 많은 51.8%가 “깊이 있는 사고 과정을 건너뛰고 즉각 답을 얻기 때문”이라고 했다. ‘스스로 자료 찾는 과정 생략’(18.2%), ‘AI 결과를 검증 없이 수용’(15.3%) 등도 문제로 지적됐다.&lt;br&gt;&lt;br&gt;설문에 참여한 한 교사는 “AI 답변을 교사 설명보다 더 신뢰하는 경우가 많다”며 “숏폼 영상에 길들여진 아이들이 긴 글은 읽지 않고 AI가 정리해 준 답을 그대로 수용하는 경향이 강해진 탓”이라고 했다. 다른 교사는 “AI의 답변이 어떤 의미인지도 모르면서 사용하는 학생이 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CUIEWHFLZFWHEE6O77JB5XN6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AI가 정확한 정보를 줘도 문해력이 부족해 답변 내용을 ‘오독(誤讀)’하거나 이해를 제대로 못 하는 경우도 있다. 경기 의왕의 초등학교 교사 최모 씨는 수업 시간에 ‘탄소 중립 대안’에 대해 발표하게 했다. 그런데 한 학생이 ‘비닐봉지가 종이봉투보다 제조 에너지가 적게 든다’는 AI 답변만 보고 “비닐봉지 사용이 친환경”이라고 답했다고 한다. AI 답변 뒷부분에 ‘비닐은 썩지 않는다’는 부분은 읽지도 않고 답을 한 것이다. 그는 “아이들이 보고 싶은 것만 보고 그것이 전부인 것처럼 받아들이는 걸 보고 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;성인도 예외가 아니다. 작년 말 부산 한 사립대 사회복지학 수업에서 수강생 30명 중 절반 정도가 AI로 과제를 작성하면서 엉뚱한 내용을 적어냈다. ‘대한민국 고독사 방지 및 지원 특별법’이란 법안을 인용해 “정부가 매년 실태 조사를 하고 있다”고 썼는데, 실제 법안명(고독사 예방 및 관리에 관한 법률)과 실태 조사 주기(5년) 모두 달랐다. 담당 교수는 “AI의 잘못된 답변을 그렇게 많은 학생이 그대로 인용한 걸 보고 놀랐다”면서 “요즘 전공 서적이나 논문을 끝까지 읽는 학생을 찾아보기 힘든데, 이젠 스스로 논문이나 레포트를 쓰는 학생이 더 희귀해질 것”이라고 했다.&lt;br&gt;&lt;br&gt;교육계에선 어린 나이부터 생성형 AI에 의존할수록 학습 능력이 떨어질 수 있다는 지적이다. OECD(경제협력개발기구)는 최근 발표한 ‘2026 디지털 교육 전망’에서 튀르키예의 학교 실험 결과를 소개했다. 고교생 1000명을 대상으로 수학 문제를 풀게 했더니 생성형 AI의 도움을 받은 학생이 도움을 안 받은 학생보다 점수가 48%나 높았다. 그런데 실제 시험에서 AI를 못 쓰게 했더니 오히려 AI를 쓰지 않았던 학생보다 17%나 낮은 점수를 받았다. 스스로 사고하지 않은 결과 학습이 제대로 이뤄지지 않은 것이다.&lt;br&gt;&lt;br&gt;박형빈 서울교대 교수는 “독서는 정보의 앞뒤를 맞춰보고 맥락을 파악하면서 ‘지식의 층위’를 쌓는 훈련 과정인데, 그런 경험이 없는 학생들에겐 AI의 매끄러운 답변이 절대적 권위처럼 작용한다”면서 “정보의 신뢰도를 측정하는 기본 근육인 문해력 재건이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 학생들이 AI를 본격 사용하기 전 학교 차원에서 충분한 ‘읽기’ 훈련이 선행돼야 고급 문해력을 높일 수 있다고 강조한다. AI보다 책·신문 등 기존 매체를 통해 긴 글을 읽는 과정을 거쳐야 체계적으로 기초 배경 지식을 쌓고, 비판적 사고를 기를 수 있다는 것이다. 실제로 요미우리신문이 야마구치 신이치 일본 국제대 교수와 함께 한·미·일 3국 3000명(15~69세)을 대상으로 최근 설문조사를 실시한 결과, 신문을 읽는 사람은 그렇지 않은 이들에 비해 가짜 정보를 가려내는 확률이 5% 높았다. 반면 소셜미디어를 신뢰하는 사람과 뉴스를 수동적으로 받아들이는 사람은 가짜 정보에 잘 속는 것으로 나타났다.&lt;br&gt;&lt;br&gt;이재경 이화여대 저널리즘교육원장은 “디지털 기기보다 전통 매체로 정보를 읽어온 사람들은 믿을 수 있는 정보에 대한 자신만의 기준점이 형성돼 있어, 가짜 정보에 쉽게 넘어가지 않는다”며 “신문과 같은 기존 매체를 적극 활용하는 사람은 가짜 정보를 보면 그대로 수용하기보다 정말 사실인지 의심하고 확인하려는 경향이 높다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 쇠미산 금정봉 화재 밤샘 진화…한때 소방 대응 2단계 발령</title>
-      <link>https://www.chosun.com/national/regional/2026/02/09/NSI7OKNXNJCYJIPQXWX5YXRMI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/09/NSI7OKNXNJCYJIPQXWX5YXRMI4/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Feb 2026 20:41:03 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXUUWS7EDVCQPBIKVBL5J7PHSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 부산 쇠미산 금정봉 정상 부근에서 불이 나 소방 당국과 산림청 등이 밤샘 진화 작업을 벌였다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;지난 8일 부산 쇠미산 금정봉 정상 부근에서 불이 나 소방 당국과 산림청 등이 밤샘 진화 작업을 벌였다. &lt;br&gt;&lt;br&gt;9일 부산소방재난본부에 따르면 전날 오후 8시 40분쯤 부산 동래구 사직동과 부산진구 초읍동 경계에 있는 쇠미산 금정봉 정상 인근에서 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 화재 확산을 막기 위해 전날 오후 10시 45분 대응 1단계를 발령했다. 당시 금정봉 일대에는 초속 5~6m 수준의 바람이 불며 화재 진압이 어려웠다. &lt;br&gt;&lt;br&gt;이날 새벽 0시 41분 소방 대응 2단계를 발령해 진화 작업에 나섰다. 관할 소방서와 인근 소방서 5~6곳의 인력과 장비를 총동원하는 조치다. &lt;br&gt;&lt;br&gt;산림청은 장비 50여대와 인력 900여명을 투입해 새벽 2시 50분쯤 주불을 잡았다. &lt;br&gt;&lt;br&gt;현재까지 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;산림 당국은 잔불을 끄는 대로 정확한 화재 원인과 피해 규모를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘still water’... 외국 레스토랑에서 마주한 첫 번째 관문</title>
@@ -885,27 +915,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘고지식’이 칭찬인 줄 아는 학생… “재고해 봐” 뜻 모르는 직장인</title>
-      <link>https://www.chosun.com/national/education/2026/02/07/KQRXLHUFJBHK7EZWZNXEL2IX4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/07/KQRXLHUFJBHK7EZWZNXEL2IX4M/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGZNJQ2FMNDV3AJDFRMPO3HSUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 정목초등학교에서 열린 2024 서울 학생 문해력 수리력 진단 검사에서 4학년 학생들이 검사 준비를 하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2일 오후 12시 30분 서울 A초등학교 도서관. 점심시간을 맞아 복도는 아이들이 떠드는 소리로 시끄러웠지만, 장서 1만4000권이 빼곡한 도서관은 적막강산이었다. 점심시간 내내 도서관을 찾은 학생은 한 명도 없었다. 오후에도 도서관에 온 학생은 4학년 1명뿐이었다. 그마저도 서가에 들어서자마자 만화책 코너로 직행했다. 사서 김모(59)씨는 “유튜브 쇼츠에 익숙한 아이들에게 책을 읽으라고 하기가 민망할 지경”이라며 “그래도 고학년이 ‘정기간행물’이 무슨 뜻인지 모르는 걸 보면 큰일이라는 생각이 든다”고 말했다. &lt;br&gt;&lt;br&gt;본지가 교총과 함께 전국 초·중·고 교사 941명을 조사했더니, 학교 현장의 ‘문해력 붕괴’는 심각한 수준이었다. 성적이 낮은 학생 한두 명의 문제가 아니라, 상당수 학생의 문해력이 떨어져 정상적인 수업 진행이 힘든 곳이 많았다. &lt;br&gt;&lt;br&gt;가장 먼저 맞닥뜨리는 문제는 ‘어휘력 공백’이었다. 22년 차 고교 지리 교사는 “‘배타적 경제 수역’을 가르치려면 ‘배타적’이 뭔지, 배타적이 남을 배척하는 것이라고 하면 배척은 또 무엇인지 알려줘야 한다”면서 “한글을 영어 독해하듯 가르치는 실정”이라고 말했다. 경기 지역 한 고교 교사도 “‘민영화’라는 단어를 설명하느라 본 수업은 시작도 못 했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAXQDRK3HBEYDA6G3NMXFDYIVM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이들은 단어를 엉뚱하게 해석하기도 한다. 부산 한 중학교 영어 교사는 ‘수지가 맞다(이익이 남는다)’는 글을 읽다가 당황했다. 한 학생이 “누가 수지를 때렸느냐”고 물었기 때문이다. 강원 한 초등학교에선 ‘고지식하다’를 칭찬인 줄 알고 “우리 선생님은 고지식해”라고 노래 가사를 쓴 학생도 있었다. ‘그릇된 행동’이란 표현을 보고 “왜 갑자기 밥그릇 얘기가 나오느냐”고 물은 고등학생도 있었다. &lt;br&gt;&lt;br&gt;학습은 결국 글을 읽고 핵심을 파악하는 과정이다. 하지만 요즘 학교엔 글 읽기 자체를 어려워하는 학생이 많다. 서울 한 초등 교사는 “교과서 4쪽이 넘어가면 아이들이 집중력을 잃고 딴짓하거나 읽고도 내용을 파악하지 못한다”고 했다. 광주 한 초등 교사도 “문제가 요구하는 게 뭔지 몰라서 수학 문제를 못 푸는 일이 잦다”고 했다. &lt;br&gt;&lt;br&gt;교사들은 문해력 저하의 주범(복수 응답)으로 ‘디지털 기기 과사용(88.6%)’과 ‘독서 부족(63.9%)’을 지목했다. 그다음은 ‘생성형 AI 의존도 증가’(19.1%)였다. 디지털 화면을 들여다보는 시간이 늘고 책 보는 시간이 줄어든 것이 핵심 이유라는 것이다. &lt;br&gt;&lt;br&gt;‘생성형 AI’를 사용하는 학생이 늘어나면서 자료 검색조차 안 하는 학생도 부지기수다. 매년 탐구 보고서 쓰기 수업을 하는 이모(40) 고교 수학 교사도 AI 도입 전후 극명한 변화를 느꼈다고 한다. 재작년만 해도 “이런 주제도 괜찮나요?” 등 질문을 받았는데, 작년엔 묻는 학생이 한 명도 없었다. 이 교사는 “알고 보니 주제 정하기부터 내용까지 모든 걸 AI에 물어봐서 썼더라”며 “학생부에 독서 내용 기재해달라고 찾아오는 상위권 학생도 10명 중 8명은 챗GPT가 요약해 준 걸 읽었다더라”고 했다. 교사의 82.5%는 ‘생성형 AI 사용이 학생 문해력을 떨어뜨린다’고 답했다.&lt;br&gt;&lt;br&gt;교사들은 디지털 기기 사용을 줄이고 독서 활동을 늘리는 게 해법이라고 봤다. 문해력 개선 방안에 대해 71.4%가 ‘독서 활동 강화’를 가장 많이 꼽았다. 효과적인 독서 교육 방법으로 ‘학교의 다양한 교과목 수업에 독서 활동을 포함하는 것’(43%)이란 대답이 많이 나왔다. 그다음은 ‘0교시 독서 등 학교에서 수업 외 별도 독서 시간 지정(20.7%)’이었다. 이순영 고려대 국어교육과 교수는 “문해력 붕괴 현상을 막기 위해선 학교 교육에 독서를 편입시켜 모든 학생이 최소 수준 이상의 문해력을 가질 수 있도록 해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WGZNJQ2FMNDV3AJDFRMPO3HSUQ.jpg?auth=d7a51745a950982dc88f2d1147da93cb48a66c9317b2d9976d5d731fd52ba948&amp;smart=true&amp;width=4000&amp;height=2330" type="image/jpeg" height="2330" width="4000">
-        <media:description type="plain">서울 양천구 정목초등학교에서 열린 2024 서울 학생 문해력 수리력 진단 검사에서 4학년 학생들이 검사 준비를 하고 있다. /고운호 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>MIT의 경고 “AI 에 글쓰기 의지하면 두뇌 활동 저하”</title>
-      <link>https://www.chosun.com/national/education/2026/02/07/3U3NZ77TUBHHHITEX6BOIVHGHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/07/3U3NZ77TUBHHHITEX6BOIVHGHU/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>문해력은 단순히 글자를 읽는 능력이 아니라, 정보를 해석해 자기만의 논리로 재구성하는 ‘사고 과정’이다. 이 과정의 정점이 바로 글쓰기다. 그런데 이런 글쓰기를 생성형 AI에 맡기는 이들이 급증하면서 사고의 근육이 퇴화할 수 있다는 우려가 나온다. &lt;br&gt;&lt;br&gt;실제 미국 매사추세츠공과대(MIT) 연구팀은 생성형 AI를 활용해 글을 쓰면 뇌 활동이 떨어진다는 연구 결과를 발표했다. 연구진은 지난해 4개월 간 18~39세 참가자 54명을 세 그룹으로 나눠 SAT(미국 대입 자격 시험) 에세이를 네 차례 쓰게 했다. 한 그룹은 ‘챗GPT’를, 다른 그룹은 구글 검색 엔진을 쓰도록 했다. 마지막 그룹은 직접 작문하도록 했다.&lt;br&gt;&lt;br&gt;이후 뇌파를 측정했더니 AI 도움을 받은 그룹의 뇌 활동이 가장 낮은 것으로 나타났다. 챗GPT로 글을 쓴 그룹은 뇌의 부위 간 정보 전달 강도가 직접 글을 쓴 그룹에 비해 최대 55% 낮았다. 특히 챗GPT로 글을 쓴 그룹은 방금 전까지 쓴 문장을 정확하게 기억하지 못하거나, ‘복사·붙여넣기’로만 글을 쓰려는 경향까지 보였다. 직접 작문한 그룹의 뇌 활동이 가장 활발했고, 검색 엔진을 사용한 그룹은 중간 수준이었다.&lt;br&gt;&lt;br&gt;연구진은 “4개월에 걸쳐 실험한 결과, AI 사용 그룹은 신경과 언어 측면에서 지속적으로 저조한 성과를 보였다”며 “AI 의존이 교육·학습에 장기적으로 미칠 영향에 대해 고민해야 한다”고 했다.&lt;br&gt;&lt;br&gt;마이크로소프트(MS)와 미국 카네기멜론대 연구진도 AI가 인간의 사고를 둔화시킨다는 연구 결과를 지난해 발표했다. 연구진이 직장인 319명을 대상으로 실험한 결과, 실험자들은 생성형 AI를 사용해 작업했을 때 이해나 적용, 분석 같은 사고 활동에 적은 노력을 들이는 것으로 나타났다. 연구진은 “생성형 AI에 대한 신뢰도가 높을수록 비판적 사고 능력은 감소했고, 이는 독립적 문제 해결 능력 저하로 이어질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>AI·폰만 보는 한국, 국민 60%가 ‘책맹’</title>
       <link>https://www.chosun.com/national/education/2026/02/07/KRPROUG2EFHM3OLFT5G4NZIITM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/07/KRPROUG2EFHM3OLFT5G4NZIITM/</guid>
@@ -932,15 +941,6 @@
 노사정이 퇴직연금 방향 전환에 대해 공동 선언문 형태로 합의한 것은 20년 만에 처음으로, 기금형 퇴직연금 도입과 퇴직급여 사외적립 의무화라는 구조 개편의 틀에 노사가 뜻을 모았다는 점에서 의미가 크다./뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 안은나 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 2월 7일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/07/XA2HQMVHF5CZ7C2VULA67QPUAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/07/XA2HQMVHF5CZ7C2VULA67QPUAE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Feb 2026 15:55:09 +0000</pubDate>
-      <content:encoded>구름 많다가 맑음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQ5XTUNUXJFUFNJIXBJZEZPDLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
