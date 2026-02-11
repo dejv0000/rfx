@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>모텔서 ‘의문의 음료’ 마신 남성 잇따라 사망…20대 여성 구속 영장</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/11/DFCWBLGCW5DL5DGULTV6QQ62YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/11/DFCWBLGCW5DL5DGULTV6QQ62YI/</guid>
+      <dc:creator>김병권 기자, 황채영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Feb 2026 12:54:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22NF2ALYOHKROVLAPLET5RFGQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 약물이 든 음료를 먹여 남성 2명을 사망에 이르게 한 혐의(상해치사, 마약류관리법 위반)를 받는 20대 여성에게 11일 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 피의자 A씨는 지난 9일 오후 8시 30분쯤 피해자인 20대 남성 B씨와 서울 강북구 수유동의 한 모텔에 들어가 약물이 든 음료를 건네 사망에 이르게 한 혐의를 받는다. A씨는 B씨와 함께 모텔에 갔다가 2시간쯤 뒤 홀로 건물을 빠져나온 것으로 전해졌다. B씨는 다음날인 지난 10일 오후 숨진 채 발견됐고, 경찰은 같은 날 밤 9시쯤 A씨를 긴급체포했다. 경찰은 피해자가 마신 음료에 향정신성 약물이 포함된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨뿐 아니라 또 다른 죽음과도 밀접한 연관이 있는 것으로 의심하고 있다. 지난달 말 강북구의 다른 모텔에서도 남성 C씨가 숨진 채 발견됐는데 경찰은 당시 A씨가 C씨와 함께 모텔 방에 있던 사실을 확인했다. C씨 역시 사망 전 A씨로부터 받은 음료를 마신 정황이 드러났다고 한다.&lt;br&gt;&lt;br&gt;A씨의 범행은 이뿐만이 아니다. 경찰은 지난달 말쯤 한 20대 남성으로부터 “A씨가 건넨 음료를 마시고 기절했다”는 내용이 담긴 고소장을 접수했다. 이 피해자 역시 A씨로부터 약물이 든 음료를 받아 마시고 이틀 만에 가까스로 깨어난 것으로 전해졌다. 그는 경찰 조사에서 “A씨와 교제하던 사이였다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;구속영장을 신청한 경찰은 A씨에 대해 사이코패스 검사를 실시하는 방안도 검토 중이다. A씨는 현재 직업이 없는 상태다. 경찰도 A씨가 피해자 3명과 모두 교제했을 가능성을 염두에 두고 수사를 진행 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한학자 구속집행정지... 건강 악화로 병원 치료</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/11/QPBIPLMBXJD45D6V2JIACOBRAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/QPBIPLMBXJD45D6V2JIACOBRAU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Feb 2026 11:33:08 +0000</pubDate>
+      <content:encoded>법원이 건강 문제를 이유로 한학자 통일교 총재의 구속 집행정지 신청을 받아들였다. 이에 따라 한 총재는 오는 21일까지 구속이 정지된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTKNJTGNTDIMLBGYZTKNBZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재가 지난해 9월 서울중앙지법에서 윤석열 전 대통령 부부에게 통일교 현안을 청탁했다는 의혹과 관련 구속 전 피의자 심문(영장실질심사)을 마친 뒤 대기 장소인 서울구치소로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 서울중앙지법 형사27부(재판장 우인성)는 이날 한 총재 측이 낸 구속 집행정지 신청을 인용했다.&lt;br&gt;&lt;br&gt;재판부는 12일 오전 10시부터 21일 오후 2시까지 한 총재의 구속을 정지하기로 했다. 주거지는 치료를 받는 병원으로 제한된다. 구속 집행정지 기간 동안 병원 의료진과 변호인 등에 한해서만 접촉이 허용되고, 사건 관련 증인과는 직간접적으로 접촉하거나 연락해서는 안 된다는 조건도 붙었다.&lt;br&gt;&lt;br&gt;앞서 한 총재 측은 지난 4일 재판부에 건강 악화를 이유로 불구속 상태에서 재판을 받게 해달라고 요청했다. 한 총재는 당일 재판에도 불출석 사유서를 내고 법정에 나오지 않았다. 한 총재 측은 “세 차례 낙상 사고 후 전신 통증이 심해져 구치소에서는 치료가 어려워 입원 또는 전담 간호가 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;한 총재 측은 낙상과 심혈관 쇼크 위험으로 의료진으로부터 “구치소 내 관리가 불가능하며, 생명을 위협하는 단계”라는 소견을 받았다고 밝혔다. 또 “항응고제를 복용 중인 상태에서 낙상이 발생할 경우 뇌출혈로 직결될 위험이 있어, 구속이 지속되면 돌이킬 수 없는 결과를 초래할 수 있다”는 신경과·내과 전문의의 의견도 있다고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원행정처 차장 “재판소원, 도저히 받아들일 수 없는 법안”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/11/AZ35CBZ26ZGZ3N4N5B5UPMWA44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/AZ35CBZ26ZGZ3N4N5B5UPMWA44/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Feb 2026 12:10:31 +0000</pubDate>
+      <content:encoded>기우종 법원행정처 차장이 11일 재판소원제를 허용하는 헌법재판소법 개정안에 대해 “도저히 받아들일 수 없는 법안”이라는 입장을 밝힌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FG2LMFT3MZNJJOPMHKLIRWHNTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 법무차관(왼쪽)과 기우종 법원행정처 차장이 11일 오전 서울 여의도 국회에서 재판소원 허용법(헌법재판소법 개정안) 심사를 위해 열린 법제사법위원회 법안심사제1소위원회에 출석한 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 기 차장은 이날 비공개로 열린 국회 법제사법위원회 법안심사제1소위원회에 출석해 재판소원 제도에 대한 강한 우려를 표했다. 기 차장은 “재판소원 도입은 헌법 개정 사항”이라며 “법률 개정만으로 재판소원을 도입할 수는 없다”고 운을 뗐다. 재판소원 제도는 대법원 상고심 등으로 확정된 법원 판결이 헌법재판소 결정에 반하거나 기본권 침해 소지가 있을 시 헌법소원을 허용하는 내용으로, 사실상 4심제라는 비판을 받아왔다.&lt;br&gt;&lt;br&gt;이어 기 차장은 “헌법 제101조 제1항에서 ‘사법권은 법관으로 구성된 법원에 속한다’고 명시하고, 제2항에서 대법원이 사법권을 행사하는 최고법원임을 명시하고 있다”며 “사법권의 행사인 재판은 법원에서 하되, 최고법원인 대법원의 재판이 최종심이어야 함을 헌법에서 선언한 것”이라고 했다. &lt;br&gt;&lt;br&gt;기 차장은 그러면서 “대법원까지 3심의 재판을 거친 패소 당사자에게 새로운 불복 기회를 부여하는 것 자체가 4심의 실질을 가지게 된다”며 “당사자들은 시간과 비용을 들여 계속 다퉈야 하고, 분쟁 해결을 통한 법적 안정성은 극히 저하되므로 국민, 국가, 사회 전체의 관점에서 손실일 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;기 차장은 소송이 경제적 강자의 도구로 활용될 우려가 있다는 점도 언급했다. 1~3심을 거쳐 무죄 판결이 확정되더라도 검사가 재판소원을 제기하면 당사자는 또다시 고통의 시간을 보내야 한다는 것이다. 그러면서 “헌법 제101조는 주권자인 국민이 이러한 사태를 막고자 국민 스스로를 위해 둔 장치”라며 “궁극적으로 국민에게 피해가 가장 적은 이런 장치를 설계한 것이다. 이를 허물겠다는 법안은 도저히 받아들일 수 없다”고 했다.&lt;br&gt;&lt;br&gt;소위에 참석한 이진수 법무차관도 재판소원제 도입에 대해 “사법체계의 안정성 훼손, 재판 지연 등의 부작용이 있을 수 있다”며 “이를 종합적으로 고려해 결정할 사안이라는 의견을 밝힌다”고 했다.&lt;br&gt;&lt;br&gt;김용민 법안심사소위 위원장은 소위 종료 직후 기자들과 만나 “재판소원을 인정하는 헌법재판소법을 처리했다”면서 “재판소원 제도를 도입해 사법 신뢰를 높이는 중요한 계기로 삼고, 국민 기본권을 두텁게 보호하는 계기로 삼고자 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘김용 재판 위증교사’ 이재명 캠프 관계자들에 징역형 구형</title>
       <link>https://www.chosun.com/national/court_law/2026/02/11/DSIAESAGJNGFBM7WJD6U6XACSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/DSIAESAGJNGFBM7WJD6U6XACSE/</guid>
@@ -890,24 +917,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QR5RD4TVZZKVLDLYUA7MUVGAMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 실종자 2명이 발생한 충북 음성군 위생용품 공장 화재 현장에서 경찰, 소방, 국과수 등 관계자들이 합동감식을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성군 생활용품 제조공장 화재 현장에서 처음 수습된 시신은 네팔 국적의 20대 근로자인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;충북경찰청은 음성군 맹동면에 있는 해당 공장 A동에서 발견된 시신의 유전자정보(DNA)를 분석한 결과, 용역업체 소속 네팔 국적 근로자로 확인됐다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난달 31일 A동 2층 계단에서 불에 탄 시신 1구를 발견해 국립과학수사연구원에 신원 확인을 의뢰했다. 이로써 실종된 외국인 근로자 2명 가운데 1명의 신원이 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 안전수칙 준수 여부 등을 조사한 뒤 중대재해처벌법 적용 가능성도 검토할 방침이다.&lt;br&gt;&lt;br&gt;소방당국은 남은 실종자 1명을 찾기 위한 수색 작업을 12일째 이어가고 있다. 지난 4일 유해로 추정되는 뼛조각이 발견됐으나, 이에 대한 정밀 분석 결과는 아직 나오지 않았다.&lt;br&gt;&lt;br&gt;이번 화재는 지난달 30일 오후 2시 55분쯤 발생했다. 당시 폐기물 처리 업무를 하던 용역업체 소속 네팔 국적 근로자와 카자흐스탄 국적의 50대 근로자가 실종됐다.&lt;br&gt;&lt;br&gt;이 불로 공장 내 3개 생산동(2만4170㎡)이 모두 소실됐다. 불은 21시간 10여 분만에 모두 꺼졌다. &lt;br&gt;&lt;br&gt;경찰은 불이 난 공장과 서울 본사를 압수수색하는 등 책임 소재를 규명하기 위한 수사를 진행하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김경수 “부산·경남 통합 2년 늦추면 20년 뒤처져"</title>
-      <link>https://www.chosun.com/national/2026/02/10/S5UERLJFS5CA5MFABHB52AAHGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/10/S5UERLJFS5CA5MFABHB52AAHGQ/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 08:16:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEEAWKM6ZBK5BGVATLRGXLIVHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 김경수 지방시대위원회 위원장이 경남도의회 브리핑룸에서 부산·경남 등 행정통합에 대해 기자회견하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김경수 대통령 직속 지방시대위원회 위원장이 2028년 통합 로드맵을 밝힌 부산·경남 행정 통합 방식에 대해 “행정 통합을 2년 늦추면, 20년 이상 뒤처질 수 있다”며 전면적인 재고를 요청했다. 그러면서 주민투표 대신 시간과 비용을 줄이고, 주민 의사를 반영할 수 있는 대규모 여론조사 방식을 제안했다. &lt;br&gt;&lt;br&gt;김 위원장은 10일 오후 경남도의회 브리핑룸을 찾아 행정 통합 추진 방향 등에 대한 기자회견을 열고 이같이 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난달 말 박완수 경남도지사와 박형준 부산시장은 올해 주민투표를 거쳐 2028년 총선 때 부산·경남 통합 단체장을 선출하는 행정 통합 로드맵을 제시한 바 있다. &lt;br&gt;&lt;br&gt;김 위원장은 “정부가 4년간 20조원 지원을 포함해 공공기관 2차 이전, 대기업 투자 유치 때 인센티브를 준다는 방침을 발표했다”며 “통합 시·도에 공공기관 2차 이전, 대기업 유치 우선권을 뺏기면 부산·경남 미래가 20년 이상 뒤처질 수밖에 없다”고 주장했다.&lt;br&gt;&lt;br&gt;부산·경남이 행정 통합과 관련해 주민투표 절차를 강조하고 있는 것에 대해 김 위원장은 “행정 통합에 대해 주민 의사를 묻고 동의를 받는 절차는 반드시 필요하다”면서도 “다만 무려 400억원 이상 예산이 드는 주민투표를 고집할 필요가 있느냐”고 했다. 이어 “대규모 여론조사를 통해 주민 의사를 확인하고, 그 결과를 지방의회가 동의하는 절차를 통해서 주민투표에 준하는 주민 의사 확인 절차를 밟을 수 있다”고 대규모 여론조사 방식을 제안했다. 기자회견에 앞서 김 위원장은 박완수 경남도지사, 최학범 경남도의회 의장, 국민의힘 경남도당에 이 같은 내용을 설명했다고 덧붙였다. &lt;br&gt;&lt;br&gt;김 위원장은 부산·경남이 요구하는 권한·재정의 확실한 이양, 통합 원칙과 기준을 담은 특별법 제정과 관련해서는 “통합 후 병행 추진이 가능하다”고 했다.&lt;br&gt;&lt;br&gt;과거 마산과 창원, 진해 통합 사례에 따른 도민들의 우려에 대해 “이번에는 정부의 파격적인 재정 지원, 주민투표에 준하는 주민 동의 절차, 대통령과 정부가 약속하고 추진하는 통합”이라며 “마창진 통합 반대로만 하면 성공할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 경남도는 입장문을 내고 “정부에서 ‘통합 시기에 따른 불이익이 없다’고 밝힌 만큼 부실한 행정 통합보다 제대로 된 통합을 추진할 것”이라며 “주민투표는 대규모 여론조사로 결코 대체될 수 없다”고 반박했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDSNLCGFRWIYZUMI3DQNDCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 박완수 경남지사가 도청에서 확대간부회의를 주재하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난 9일 박완수 경남지사는 확대간부회의에서 광역 행정통합을 추진하는 대구·경북, 대전·충남 등이 요구한 권한을 중앙정부가 수용하지 않는 상황에서 뒤늦게 주민투표 요구가 빗발치고 있다는 점을 지적하며 “부산·경남이 내건 통합기본법 제정, 주민투표 요구가 정당하고 적합·적절했다는 것이 다른 지역 사례에서 나타났다”고 했다.&lt;br&gt;&lt;br&gt;이어 “절차적 정당성을 확보하지 않고, 위상과 자치권 확보가 없는 광역자치단체 간 행정 통합은 큰 의미가 없기에 정부에 주민투표, 통합 기본법 제정을 요구했다”며 “중앙정부의 실질적 권한 이양을 이끌어낼 수 있도록 부산시와 협의한 원칙이 지켜질 수 있게 부산·경남 행정 통합을 일관성 있게 추진해야 한다”고 했다.&lt;br&gt;&lt;br&gt;박 지사는 그동안 줄곧 통합의 전제 사항으로 ‘주민투표를 통한 정당성’ ‘중앙정부의 권한 이양에 따른 실익’을 강조했다. 특히 정부가 밝힌 4년간 최대 20조원 지원 등 통합 지원책에 대해서는 “지역의 특수성을 고려하지 않은 일회성 유인책”이라고 평가했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산·경남, 청와대에 행정통합 공동 건의문 전달 </title>
-      <link>https://www.chosun.com/national/regional/2026/02/10/OOBYQ4RIXBAWXDSZLQARUADWFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/10/OOBYQ4RIXBAWXDSZLQARUADWFI/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 08:13:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4WIYZQGFSGMY3CG5RTMZJYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시도지사협의회장인 유정복 인천시장을 비롯한 광역단체장이 지난 2일 서울 여의도 켄싱턴호텔에서 열린 광역자치단체 통합 관련 시장·도지사 연석회의에서 기념촬영을 하고 있다. 왼쪽부터 김태흠 충남도지사, 이장우 대전시장, 유정복 인천시장, 박형준 부산시장, 이철우 경북지사, 박완수 경남지사. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;부산시와 경남도는 10일 오후 경윤호 부산시 정무특별보좌관과 김영삼 경남도 정책기획관이 청와대를 방문해 ‘행정 통합 관련 광역자치단체장(부산·경남·대전·충남) 공동 건의문’을 직접 전달했다. &lt;br&gt;&lt;br&gt;이번 방문은 지난 2일 ‘광역자치단체 통합 관련 시도지사 연석회의’ 합의사항에 따른 후속 조치다. &lt;br&gt;&lt;br&gt;이번 공동 건의문에는 지자체 간 물리적 결합을 넘어, 통합 광역자치단체가 지속 가능한 성장을 이룰 수 있도록 하는 ‘3대 핵심 사항’(▶국가 차원의 행정통합 기본법 제정 ▶지방정부 수준의 자치권과 재정 분권 보장 ▶대통령 주재 ‘직접 소통의 장’ 마련)이 명시됐다. &lt;br&gt;&lt;br&gt;행정통합은 부처 간 칸막이를 허무는 대통령의 강력한 결단이 필요한 사안인 만큼, 대통령과 통합 관련 지자체장들이 머리를 맞대고 해법을 찾는 긴급 간담회 또는 공개회의 개최를 제언했다.&lt;br&gt;&lt;br&gt;박형준 부산시장은“세계적 위상을 갖춘 부산의 항만 인프라와 국가 우주 경제의 중추인 경남의 우주항공 산업이 결합하는 이번 행정통합은 ‘국토공간 대전환’을 실현하고 대한민국을 미래로 견인할 가장 강력한 신성장 엔진이 될 것”이라며 “정부가 확실한 법적·제도적 시스템을 보장한다면 660만 시·도민의 뜻을 받들어 당장이라도 통합의 길로 나아갈 준비가 돼있다”고 했다.&lt;br&gt;&lt;br&gt;박완수 경상남도지사는 “홍콩, 상해, 두바이 등 세계적 특별구 사례처럼 통합 자치단체의 위상과 자치권이 담보되어야 다극체제가 실현될 수 있다”며 “국가 구조를 새롭게 정비하고 지역 주도의 균형 발전을 통해 시도민의 삶을 본질적으로 바꾸는 행정통합이 돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;한편, 두 시·도는 지방정부 수준의 자치권과 재정 분권 보장을 위해 국회와 정부를 상대로 공동 대응을 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>귀성은 15일, 귀경은 17일 가장 밀린다</title>
       <link>https://www.chosun.com/national/transport-environment/2026/02/10/XUDSL2AWT5AOVFXETUKMGMK2PU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/10/XUDSL2AWT5AOVFXETUKMGMK2PU/</guid>
@@ -933,15 +942,6 @@
       <description/>
       <pubDate>Tue, 10 Feb 2026 05:40:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJBVN255M5EKDBL4PMUKKQ4Z2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;정도원 삼표그룹 회장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중대재해처벌법(중처법) 시행 직후 발생해 ‘1호 사고’가 된 양주 채석장 붕괴사고와 관련, 정도원 삼표그룹 회장이 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사3단독 이영은 판사는 10일 오후 중대재해 처벌 등에 관한 법률 위반 혐의로 불구속 기소된 정 회장에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 정 회장에 대해 “그룹의 규모나 조직 등에 비춰 볼 때 피고인이 중대재해 처벌 등에 관한 법률에 규정된 의무를 구체적으로 이행할 수 있는 사람에 해당한다고 단언할 수 없다”고 판시했다. &lt;br&gt;&lt;br&gt;정 회장과 함께 기소된 이종신 전 삼표산업 대표이사와 삼표산업 법인에 대해서도 “혐의 인정이 어렵다”며 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;정 회장 등은 2022년 1월 29일 삼표산업이 운영하던 경기 양주시 은현면 도하리 골재 채취장에서 석재 발파를 위한 천공 작업 중 토사가 붕괴해 작업자 3명이 숨진 사고와 관련해, 안전보건 의무를 다하지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 사고와 관련해 중대재해처벌법 규정상 실질적이고 최종적 권한을 행사하는 경영책임자가 정 회장인 것으로 판단해 기소했다.&lt;br&gt;&lt;br&gt;이 사고는 중대재해처벌법 시행 이틀 만에 발생해 ‘중처법 1호 사고’로 기록됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변사 사진 올리며 “선지 먹지 말아야지”…경찰 SNS 글 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/10/NLCLYTM3KBGAJN3XOUE2F3OFZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/10/NLCLYTM3KBGAJN3XOUE2F3OFZA/</guid>
-      <dc:creator>정채빈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Feb 2026 23:49:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYWGNRZMU4TSNDGMNRWGYTCMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광명경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변사 사건 현장에 출동한 경찰관이 현장 사진을 찍어 부적절한 문구와 함께 소셜미디어에 올린 사실이 드러나 감찰받고 있다.&lt;br&gt;&lt;br&gt;9일 경기남부경찰청은 경기 광명경찰서 소속 A경위에 대해 직위해제를 검토하는 등 감찰에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A경위는 지난 6일 광명에서 발생한 변사 사건 현장에 출동했다가 당시 촬영한 현장 사진을 자신의 소셜미디어에 올렸다. &lt;br&gt;&lt;br&gt;그러면서 A경위는 “이게 뭔지 맞춰보실 분?”, “한파라는데 우리의 밤은 뜨겁다” 등 문구를 적었다. 혈흔으로 추정되는 사진을 올리면서는 “선지를 앞으로 먹지 말아야지”라는 부적절한 문구를 적기도 했다.&lt;br&gt;&lt;br&gt;A경위는 해당 게시물이 스스로 부적절하다고 판단해 당일 삭제한 것으로 전해졌다. 그러나 이는 온라인 커뮤니티 등으로 확산했다. 네티즌들은 “고인에 대한 예의도 없다”, “경찰이 이게 맞나”라는 반응을 보였고 A경위의 글은 논란이 됐다. 현재 A경위의 소셜미디어는 비공개로 전환된 상태다.&lt;br&gt;&lt;br&gt;광명서 관계자는 “A 경위는 현장 경찰관들이 고생한다는 취지로 게시물을 올렸다고 진술하고 있다”고 말했다. 이어 “현재 감찰에 착수한 상태이며, 결과에 따라 엄중히 조치하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>10세 미만 어린이, 4명 중 1명은 ‘당 과잉섭취’</title>
