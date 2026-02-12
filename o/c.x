@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 李대통령 “특사경, 검사 지휘 필요한가” 했지만…부처들 “꼭 필요”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/57JMO4IFSRFQZGPQJZPCDVECCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/57JMO4IFSRFQZGPQJZPCDVECCE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 12:51:21 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWE4UTKSM5I3RO4WJGIB4ZIGOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 12일 청와대에서 열린 수석보좌관회의에서 발언하고 있다./뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령은 최근 국무회의에서 특별사법경찰(특사경)이 검사의 수사 지휘를 받아야 하는지에 의문을 제기했다. 그런데 특사경을 운영 중인 주요 정부 부처들은 “검사의 수사 지휘가 필요하다”는 의견을 정부 검찰개혁추진단에 전달한 것으로 12일 확인됐다. 특사경은 환경·식품·세무 등 경찰이 다루기 어려운 전문 분야의 공무원들이 검사의 지휘를 받아 해당 분야의 범죄를 직접 수사한 뒤 사건을 검찰에 송치하는 역할을 하고 있다.&lt;br&gt;&lt;br&gt;검찰개혁추진단이 국민의힘 신동욱 의원실에 제출한 자료를 보면, 특사경을 두고 있는 농림축산식품부, 기후에너지환경부, 특허청 등 다수 부처가 ‘특사경에 대한 검사의 수사 지휘가 필요하다’는 취지의 입장을 낸 것으로 파악됐다. &lt;br&gt;&lt;br&gt;농림축산식품부 산하 국립농산물품질관리원은 “특사경은 단속·조사의 전문성은 있으나 형사법적 지식은 상대적으로 약하다”며 “사건 수사 과정에서 검찰의 수사 지휘가 필요하다”고 밝혔다. 국립종자원도 “수사 경험 부족으로 어려움이 많아 검사의 수사 지휘와 합동 수사가 필요하다”고 했다. 식품의약품안전처는 “수사 전문성과 객관성 확보를 위해 검사의 수사 지휘 유지가 필요하다”는 의견을 냈고, 특허청 지식재산처와 기후에너지환경부도 같은 취지의 의견을 제출했다고 한다.&lt;br&gt;&lt;br&gt;이 대통령은 지난달 27일 국무회의에서 민생 범죄 대응을 강화하기 위해 특사경을 확대해야 한다면서도, 검사의 수사 지휘가 필요한지 의문을 제기했다. 이 대통령은 “법무부는 비전문가들이 수사를 하니 검찰 통제를 받아야 한다고 하는데 저는 좀 생각이 (다르다)”라며 “어차피 (특사경이) 수사하게 되면 경찰과 다를 바 없지 않냐. 왜 구조적으로 검사의 지휘를 받아야 하는 것이냐”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 정성호 법무장관은 “수사는 기본권을 직접 제한하는 고도의 공적 작용이라는 점을 고려해, 수사 개시 전 검사의 사전 협의 절차를 의무화하는 등 국민 기본권 보호를 위한 사법 통제 방안이 함께 논의될 필요가 있다”고 했다. 인권 보호 기관이자 법률 전문가인 검사의 특사경에 대한 수사 지휘가 필요하다는 취지다.&lt;br&gt;&lt;br&gt;신 의원은 “검사의 수사 지휘는 통제가 아니라 국민의 기본권을 지키기 위한 제도적 안전망”이라며 “대통령의 왜곡된 인식이 사법 체계를 전방위로 흔들고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부천 중동역서 선로에 있던 남성 전동차에 치여 사망 </title>
+      <link>https://www.chosun.com/national/2026/02/12/LC4M5UKXYFF7LNF6CUBEDKCNU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/12/LC4M5UKXYFF7LNF6CUBEDKCNU4/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 13:04:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3CXJ76HAFHDJHHTQMWFTCNR7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 서울지하철 1호선 부천 중동역에서 발생한 사고 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 1호선 중동역 선로에서 신원 미상의 남성이 전동차에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;12일 한국철도공사(코레일) 등에 따르면, 이날 오후 8시 57분쯤 경기도 부천시 중동역 선로에 있던 A씨가 전동차에 치였다.&lt;br&gt;&lt;br&gt;A씨는 이 사고로 현장에서 숨졌다. 또 560여 명이 탑승한 동인천행 급행열차 운행이 중단됐다. 승객 부상이나 시설물 피해는 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 등은 A씨가 선로에 있다가 전동차와 부딪힌 것으로 보고, A씨가 어떻게 선로 위에 있었는지 등 구체적인 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설 연휴 가장 막히는 날은 언제?...17일 ‘가장 혼잡’</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/12/4KWCT4ROU5E7VM644VTASZDGBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/4KWCT4ROU5E7VM644VTASZDGBY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 12:50:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QTGOBZGQYGENTCG4ZTKYTFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 명절을 앞둔 지난해 1월 26일 오후 서울 서초구 잠원IC 부근에서 경부고속도로 하행선 방향에 차량이 정체되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 귀성길 혼잡은 13일에 집중되고, 귀경길은 설 당일인 17일이 가장 붐빌 것이라는 예측이 나왔다. &lt;br&gt;&lt;br&gt;티맵모빌리티와 SK텔레콤은 명절 기간 이동 빅데이터를 바탕으로 설 연휴 기간 이동 소요 시간 예측치를 지난 11일 발표했다. 티맵은 설날이 연휴 후반에 위치해 귀성 수요는 연휴 초반으로 분산되지만, 귀경 수요는 연휴 후반에 집중돼 귀경길 혼잡이 상대적으로 더 클 것으로 내다봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZDCYLEGEZGCNTGMVRGIZLBMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;귀성길 가장 밀리는 시간./티맵&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;귀성길 혼잡 시간대는 13일 오후 3~5시로 예측됐다. 이 시간대 서울~부산은 6시간 2분, 서울~강릉은 3시간 34분이 걸릴 전망이다. 서울~광주는 4시간 40분, 서울~대전은 3시간 40분이 소요될 것으로 분석됐다.&lt;br&gt;&lt;br&gt;연휴 중 15일에도 귀경 차량이 몰려 오전 7시부터 오후 4시까지 정체가 이어질 것으로 전망됐다. 서울~부산은 6시간 2분, 서울~광주는 5시간이 걸릴 것으로 예측됐다. 서울~강릉과 서울~대전은 각각 3시간 19분으로, 평소보다 20~30분 더 소요될 것으로 예상됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4WKOLCGIZDKMZRGQYGKYRYME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;귀경길 가장 밀리는 시간./티맵&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;귀경길은 설 당일인 17일이 연휴 중 가장 혼잡할 전망이다. 부산~서울은 8시간으로 평소 대비 2배 수준까지 늘어날 것으로 예측됐다. 광주~서울은 6시간 45분, 강릉~서울과 대전~서울도 4시간 30분 내외가 될 것으로 보인다.&lt;br&gt;&lt;br&gt;서울에서 지방으로 내려가는 역귀경도 17일에 혼잡이 가장 클 것으로 예상됐다. 17일 오전 서울에서 출발하면 부산 구간은 최대 7시간, 광주는 5시간, 대전은 3시간 30분이 소요된다고 나타났다.&lt;br&gt;&lt;br&gt;연휴 마지막 날인 18일은 전반적으로 차량 흐름이 안정되지만, 오전 11시부터 오후 3시까지 귀경 수요가 집중될 것으로 전망됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최정윤, 5세 연하 비연예인과 재혼... “새 가족 생겼어요”</title>
+      <link>https://www.chosun.com/national/people/2026/02/12/IYDNOIW6S5CHJN43AAQVEPLE7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/12/IYDNOIW6S5CHJN43AAQVEPLE7U/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 11:35:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FT7HMSOIP5BSJOLKPIBECJGL5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 최정윤./TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 최정윤(49)이 다섯 살 연하의 비연예인과 재혼한 사실을 뒤늦게 공개했다. &lt;br&gt;&lt;br&gt;최정윤은 12일 자신의 유튜브 채널을 통해 “새 가족이 생겼다”며 재혼 소식을 알렸다. 다만 정확한 재혼 시점은 영상에서 밝히지 않았다.&lt;br&gt;&lt;br&gt;그는 “제게 ‘싱글맘’이라는 프레임이 크게 박혀 있는 듯하다. 예능 섭외가 많이 들어오는데, 제작진이 혼자서 하거나 아이와 하는 프로그램, 싱글맘 콘셉트로 섭외해서 거절했다. 이 프레임을 벗겨내야겠다는 생각이 들었다”며 “그동안 공식적으로 ‘결혼했다’는 말을 하지 못해, 이번에 커밍아웃을 하게 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “(남편은) 저와 친분이 있는 다섯 살 동생”이라며 “같이 골프를 몇 번 치고, 이 친구의 사업 홍보를 도와주다가 (친해졌다)”고 설명했다. &lt;br&gt;&lt;br&gt;그와 결혼을 결심한 계기에 대해선 “그 친구(남편)를 세 번째 보게 된 날, 제 딸이 저희를 양쪽에 앉히더니 ‘아빠, 엄마’라고 불렀다”며 “아무리 사랑하는 사람이 생겨도 아이가 싫다 하면 재혼이 힘들 수 있는데, 이게 인연인가 싶다”고 했다. &lt;br&gt;&lt;br&gt;1977년생 배우 최정윤은 1997년 SBS 드라마 ‘아름다운 그녀’로 연기 활동을 시작했다. 이후 ‘미우나 고우나’ ‘옥탑방 고양이’ ‘오작교 형제들’ ‘로맨스가 더 필요해’ ‘청담동 스캔들’ 등 드라마에 출연했다. 영화로는 ‘아버지’ ‘물고기자리’ ‘가위’ ‘폰’ ‘분신사바’ ‘라디오스타’ ‘그놈 목소리’ 등에 출연했다.&lt;br&gt;&lt;br&gt;최정윤은 2011년 박성경 이랜드재단 이사장의 장남이자 그룹 ‘이글파이브’ 출신 윤태준과 결혼해 딸 1명을 뒀다. 두 사람은 결혼 11년 만인 2022년 이혼했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>나랏돈 40억 꿀꺽...간 큰 검찰 공무원 구속 기소 </title>
+      <link>https://www.chosun.com/national/2026/02/12/LUBCXXBDQNFRDGNJRS2DFZBTVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/12/LUBCXXBDQNFRDGNJRS2DFZBTVU/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 11:36:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6EWLXCSHXK7U2HHQYQGD5JIPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국고로 귀속되는 세입금 40억원가량을 빼돌린 검찰 공무원이 구속 상태에서 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;대전지검 형사4부(부장 전영우)는 12일 특정범죄 가중처벌 등에 관한 법률 위반(국고 등 손실) 혐의로 대전지검 서산시청 소속 공무원 A씨를 구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 대전지검 서산지청에서 세입 업무를 담당하면서 2023년 4월부터 작년 12월까지 2년 8개월간 국고 39억 9600만원을 편취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰에 따르면 검찰은 벌금 등 세입금이 납부되면 이를 한국은행에 귀속시키는데, 잘못 납부된 세입금에 대해서는 납부자가 반환 신청을 하면 이를 돌려준다.&lt;br&gt;&lt;br&gt;세입 업무를 하던 A씨는 이런 점을 노려 범행했다. 디지털 예산회계시스템상에 마치 과·오납된 벌금이 있는 것처럼 허위 정보를 입력한 뒤 이 돈을 당사자에게 반환하는 것처럼 꾸며 자신의 가족 명의로 돈을 빼돌린 것.&lt;br&gt;&lt;br&gt;A씨는 이 같은 범행이 드러나자 해외로 출국했다가, 지난달 27일 자진 귀국해 공항에서 체포됐다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨의 차명 재산 등을 추적해 추징보전을 청구했다”며 “앞으로도 범죄 수익을 끝까지 추적해 국고 손실을 최소화하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘李 피습 사건 재수사' 경찰, 국정원·대테러센터 압수수색</title>
       <link>https://www.chosun.com/national/incident/2026/02/12/4CZKSSZDZNBFDOHPFEH2R524MM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/12/4CZKSSZDZNBFDOHPFEH2R524MM/</guid>
@@ -890,24 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22NF2ALYOHKROVLAPLET5RFGQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 약물이 든 음료를 먹여 남성 2명을 사망에 이르게 한 혐의(상해치사, 마약류관리법 위반)를 받는 20대 여성에게 11일 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 피의자 A씨는 지난 9일 오후 8시 30분쯤 피해자인 20대 남성 B씨와 서울 강북구 수유동의 한 모텔에 들어가 약물이 든 음료를 건네 사망에 이르게 한 혐의를 받는다. A씨는 B씨와 함께 모텔에 갔다가 2시간쯤 뒤 홀로 건물을 빠져나온 것으로 전해졌다. B씨는 다음날인 지난 10일 오후 숨진 채 발견됐고, 경찰은 같은 날 밤 9시쯤 A씨를 긴급체포했다. 경찰은 피해자가 마신 음료에 향정신성 약물이 포함된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨뿐 아니라 또 다른 죽음과도 밀접한 연관이 있는 것으로 의심하고 있다. 지난달 말 강북구의 다른 모텔에서도 남성 C씨가 숨진 채 발견됐는데 경찰은 당시 A씨가 C씨와 함께 모텔 방에 있던 사실을 확인했다. C씨 역시 사망 전 A씨로부터 받은 음료를 마신 정황이 드러났다고 한다.&lt;br&gt;&lt;br&gt;A씨의 범행은 이뿐만이 아니다. 경찰은 지난달 말쯤 한 20대 남성으로부터 “A씨가 건넨 음료를 마시고 기절했다”는 내용이 담긴 고소장을 접수했다. 이 피해자 역시 A씨로부터 약물이 든 음료를 받아 마시고 이틀 만에 가까스로 깨어난 것으로 전해졌다. 그는 경찰 조사에서 “A씨와 교제하던 사이였다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;구속영장을 신청한 경찰은 A씨에 대해 사이코패스 검사를 실시하는 방안도 검토 중이다. A씨는 현재 직업이 없는 상태다. 경찰도 A씨가 피해자 3명과 모두 교제했을 가능성을 염두에 두고 수사를 진행 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한학자 구속집행정지... 건강 악화로 병원 치료</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/QPBIPLMBXJD45D6V2JIACOBRAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/QPBIPLMBXJD45D6V2JIACOBRAU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 11:33:08 +0000</pubDate>
-      <content:encoded>법원이 건강 문제를 이유로 한학자 통일교 총재의 구속 집행정지 신청을 받아들였다. 이에 따라 한 총재는 오는 21일까지 구속이 정지된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTKNJTGNTDIMLBGYZTKNBZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재가 지난해 9월 서울중앙지법에서 윤석열 전 대통령 부부에게 통일교 현안을 청탁했다는 의혹과 관련 구속 전 피의자 심문(영장실질심사)을 마친 뒤 대기 장소인 서울구치소로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 서울중앙지법 형사27부(재판장 우인성)는 이날 한 총재 측이 낸 구속 집행정지 신청을 인용했다.&lt;br&gt;&lt;br&gt;재판부는 12일 오전 10시부터 21일 오후 2시까지 한 총재의 구속을 정지하기로 했다. 주거지는 치료를 받는 병원으로 제한된다. 구속 집행정지 기간 동안 병원 의료진과 변호인 등에 한해서만 접촉이 허용되고, 사건 관련 증인과는 직간접적으로 접촉하거나 연락해서는 안 된다는 조건도 붙었다.&lt;br&gt;&lt;br&gt;앞서 한 총재 측은 지난 4일 재판부에 건강 악화를 이유로 불구속 상태에서 재판을 받게 해달라고 요청했다. 한 총재는 당일 재판에도 불출석 사유서를 내고 법정에 나오지 않았다. 한 총재 측은 “세 차례 낙상 사고 후 전신 통증이 심해져 구치소에서는 치료가 어려워 입원 또는 전담 간호가 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;한 총재 측은 낙상과 심혈관 쇼크 위험으로 의료진으로부터 “구치소 내 관리가 불가능하며, 생명을 위협하는 단계”라는 소견을 받았다고 밝혔다. 또 “항응고제를 복용 중인 상태에서 낙상이 발생할 경우 뇌출혈로 직결될 위험이 있어, 구속이 지속되면 돌이킬 수 없는 결과를 초래할 수 있다”는 신경과·내과 전문의의 의견도 있다고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원행정처 차장 “재판소원, 도저히 받아들일 수 없는 법안”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/AZ35CBZ26ZGZ3N4N5B5UPMWA44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/AZ35CBZ26ZGZ3N4N5B5UPMWA44/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 12:10:31 +0000</pubDate>
-      <content:encoded>기우종 법원행정처 차장이 11일 재판소원제를 허용하는 헌법재판소법 개정안에 대해 “도저히 받아들일 수 없는 법안”이라는 입장을 밝힌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FG2LMFT3MZNJJOPMHKLIRWHNTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 법무차관(왼쪽)과 기우종 법원행정처 차장이 11일 오전 서울 여의도 국회에서 재판소원 허용법(헌법재판소법 개정안) 심사를 위해 열린 법제사법위원회 법안심사제1소위원회에 출석한 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 기 차장은 이날 비공개로 열린 국회 법제사법위원회 법안심사제1소위원회에 출석해 재판소원 제도에 대한 강한 우려를 표했다. 기 차장은 “재판소원 도입은 헌법 개정 사항”이라며 “법률 개정만으로 재판소원을 도입할 수는 없다”고 운을 뗐다. 재판소원 제도는 대법원 상고심 등으로 확정된 법원 판결이 헌법재판소 결정에 반하거나 기본권 침해 소지가 있을 시 헌법소원을 허용하는 내용으로, 사실상 4심제라는 비판을 받아왔다.&lt;br&gt;&lt;br&gt;이어 기 차장은 “헌법 제101조 제1항에서 ‘사법권은 법관으로 구성된 법원에 속한다’고 명시하고, 제2항에서 대법원이 사법권을 행사하는 최고법원임을 명시하고 있다”며 “사법권의 행사인 재판은 법원에서 하되, 최고법원인 대법원의 재판이 최종심이어야 함을 헌법에서 선언한 것”이라고 했다. &lt;br&gt;&lt;br&gt;기 차장은 그러면서 “대법원까지 3심의 재판을 거친 패소 당사자에게 새로운 불복 기회를 부여하는 것 자체가 4심의 실질을 가지게 된다”며 “당사자들은 시간과 비용을 들여 계속 다퉈야 하고, 분쟁 해결을 통한 법적 안정성은 극히 저하되므로 국민, 국가, 사회 전체의 관점에서 손실일 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;기 차장은 소송이 경제적 강자의 도구로 활용될 우려가 있다는 점도 언급했다. 1~3심을 거쳐 무죄 판결이 확정되더라도 검사가 재판소원을 제기하면 당사자는 또다시 고통의 시간을 보내야 한다는 것이다. 그러면서 “헌법 제101조는 주권자인 국민이 이러한 사태를 막고자 국민 스스로를 위해 둔 장치”라며 “궁극적으로 국민에게 피해가 가장 적은 이런 장치를 설계한 것이다. 이를 허물겠다는 법안은 도저히 받아들일 수 없다”고 했다.&lt;br&gt;&lt;br&gt;소위에 참석한 이진수 법무차관도 재판소원제 도입에 대해 “사법체계의 안정성 훼손, 재판 지연 등의 부작용이 있을 수 있다”며 “이를 종합적으로 고려해 결정할 사안이라는 의견을 밝힌다”고 했다.&lt;br&gt;&lt;br&gt;김용민 법안심사소위 위원장은 소위 종료 직후 기자들과 만나 “재판소원을 인정하는 헌법재판소법을 처리했다”면서 “재판소원 제도를 도입해 사법 신뢰를 높이는 중요한 계기로 삼고, 국민 기본권을 두텁게 보호하는 계기로 삼고자 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경기 하남 찾은 트럼프 차남... 한강변 둘러봐, 투자처 물색?</title>
       <link>https://www.chosun.com/national/national_general/2026/02/11/GCSRBMXHEBH77NUPNKGGCQXEJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/11/GCSRBMXHEBH77NUPNKGGCQXEJY/</guid>
@@ -916,33 +943,6 @@
       <pubDate>Wed, 11 Feb 2026 08:51:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKGTRR7QINDYVH4NTZ6ECCOSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이현재 하남시장이 11일 유니온타워 전망대에서 에릭 트럼프 트럼프그룹 총괄 부사장에게 K-스타월드 예정 부지를 안내하며 사업의 핵심 비전을 설명하고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도널드 트럼프 미국 대통령의 차남인 에릭 트럼프 트럼프그룹 총괄 부사장이 11일 경기 하남시 K-스타월드 예정 부지를 찾았다. 하남시는 글로벌 자본 유치 가능성을 타진하고 있다.&lt;br&gt;&lt;br&gt;하남시에 따르면, 에릭 부사장은 이날 오전 이현재 하남시장과 함께 미사한강 일대 사업 부지를 둘러보고 개발 구상과 입지 여건을 보고받았다. 이후 부지와 인접한 미사한강모랫길로 이동해 한강 수변 환경과 주변 인프라를 직접 확인했다.&lt;br&gt;&lt;br&gt;에릭 부사장은 한강 조망권과 수변 환경, 스타필드 하남·미사경정공원 등 기존 상업·레저 시설이 결합된 입지 여건에 관심을 보인 것으로 전해졌다. 특히 서울 강남권과 인접해 광역교통 접근성이 우수하다는 점이 글로벌 비즈니스 및 관광 수요를 끌어들일 경쟁력이 될 수 있다는 데 공감한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;K-스타월드는 호텔을 중심으로 공연·엔터테인먼트·마이스(MICE) 기능을 결합한 복합단지 조성을 목표로 한다. 이현재 시장은 “한강과 도심 접근성을 동시에 갖춘 입지”라며 “국제 관광과 비즈니스 교류의 거점으로 조성하겠다”고 했다.&lt;br&gt;&lt;br&gt;하남시는 이번 방문을 계기로 트럼프그룹을 비롯한 글로벌 자본 및 운영사와 협력 방안을 다각도로 검토할 방침이다. 직접 투자, 합작, 운영 위탁 등 다양한 방식이 거론된다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4KUPNAQGMVHPHJB3QVVE3PHN5M.jpg?auth=b2e6dbe912bed469db715b9e84c6b85a153c5423639b831a238a5b786612f069&amp;smart=true&amp;width=1100&amp;height=619" type="image/jpeg" height="619" width="1100"/>
-    </item>
-    <item>
-      <title>공수처 ‘김학의 출국금지 수사’ 대검·서울고검 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/PDGL52GOSNFZHHJKIVXN774QRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/PDGL52GOSNFZHHJKIVXN774QRQ/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 07:40:10 +0000</pubDate>
-      <content:encoded>김학의 전 법무부 차관의 ‘불법 출국 금지 사건’을 수사한 검사들에 대한 공무상비밀누설 혐의 고발 사건과 관련해 고위공직자범죄수사처(공수처)가 11일 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTGGNZRG44DGYRSMNTDIYZSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부과천청사 고위공직자범죄수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 공수처 수사3부(부장 이대환)는 “김 전 차관 출국 금지 사건의 수사 검사들이 고발된 사건과 관련해 대검찰청과 서울고검 등을 압수수색했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 차규근 조국혁신당 의원이 법무부 출입국본부장이었던 시절 불법적으로 김 전 차관의 출국을 금지했다며 직권남용 등 혐의를 적용해 그를 기소했다.&lt;br&gt;&lt;br&gt;그러나 법원은 당시 출국 금지가 법률상 요건을 갖추지 못해 위법하지만, 당시 긴박한 상황 등을 고려할 때 직권남용죄로 처벌하기 어렵다고 판단했다. &lt;br&gt;&lt;br&gt;이후 대법원에서도 무죄가 확정되자 차 의원은 자신에 대한 수사를 담당했던 이정섭 대전고검 검사와 임세진 서울고검 검사 등을 허위공문서 작성 및 행사, 공무상 비밀누설 혐의로 지난해 7월 공수처에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘제2의 프로포폴’ 6만명분 빼돌려 유통, 강남선 불법 투약… 일당 검거  </title>
-      <link>https://www.chosun.com/national/national_general/2026/02/11/KIGZPD6FKFHENANGRYVSSZWDKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/11/KIGZPD6FKFHENANGRYVSSZWDKI/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBVZGHKGMND6BJYKBJVVKZJ3XE.png"&gt;&lt;figcaption&gt;&lt;small&gt;불법 유통된 에토미데이트를 구매한 일당이 불법 시술소에서 사용한 범행 도구들. /서울경찰청 광역수사단 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제2의 프로포폴’로 불리는 전신마취제를 수출용으로 위장해 국내 암시장에 대량 유통시킨 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 마약범죄수사대는 약사법 위반 등의 혐의로 의약품 도매법인 대표 A씨와 중간 유통책인 조직폭력배 B씨 등 총 17명을 송치하고 이 중 10명을 구속했다고 11일 밝혔다. 또 이들의 범죄 수익금 4900만원을 압수하고 재산 4억2300만원을 기소 전 추징보전 조치했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 10월부터 이듬해 6월까지 약 9개월 동안 전신마취제인 ‘에토미데이트’ 3160박스(31만6000ml)를 박스당 10만~25만원에 B씨 등 3명에게 판매해 약 4억원을 벌어들인 것으로 파악됐다. A씨가 판매한 에토미데이트는 성인 기준 최대 6만3000여 명이 동시에 투약 가능한 양으로 알려졌다.&lt;br&gt;&lt;br&gt;에토미데이트는 전신마취제로 사용되는 전문의약품이다. 최근까지 식품의약품안전처가 마약류 대용 오·남용 우려 의약품으로 지정해 관리해왔다. 지난 2023년 9월 약에 취해 운전하다 흉기를 휘두른 일명 ‘람보르기니남’도 에토미데이트 중독자였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB4ZGF37NZEIVHMFHFRSR7V6UY.png"&gt;&lt;figcaption&gt;&lt;small&gt;에토미데이트를 불법 유통한 일당이 경찰 추적을 피하기 위해 해외 수출을 가장하거나 포장재 고유번호를 제거한 정황. /서울경찰청 광역수사단 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 자신이 대표자인 두 법인 간 거래로 가장한 뒤 실제 약물은 중간 유통책에게 판매하는 수법을 사용했다. 또 약물을 베트남 등지로 수출한 것처럼 위장하거나 에토미데이트 포장재에 부착된 고유번호를 제거하는 등의 방식으로 경찰 추적을 피하려 했다.&lt;br&gt;&lt;br&gt;이렇게 빼돌려진 약물은 B씨 등 중간 유통책 3명을 거쳐 불법 시술소 3곳으로 흘러 들어갔다. C씨는 강남 중심가에 피부과 간판을 걸고 무허가 시술소를 차려 약물 투약 영업을 한 것으로 드러났다. 또 다른 판매업자 D씨는 아파트·빌라를 단기 임대해 시술소를 차리고 방문 투약 형태의 ‘출장 주사’ 서비스까지 제공했다.&lt;br&gt;&lt;br&gt;이들은 당시 에토미데이트가 마약류가 아니었던 점을 내세워 간호조무사, 운전기사를 고용하는 등 조직적으로 활동했다. 또 최초 약물 조달 원가의 51배 가격으로 투약 영업을 하면서 해외 메신저를 통해 예약을 받고 차명계좌로 돈을 입금받은 것으로 조사됐다. 이들에게서 실제 약물을 투여받은 사람만 44명이다. 투약자 상당수는 20~40대 유흥업소 종사자였다.&lt;br&gt;&lt;br&gt;한편, 에토미데이트는 최근 마약류(향정신성의약품)로 지정됐다. 개정 법령이 시행되는 오는 13일부터는 에토미데이트를 불법 매수·투약하는 것은 물론 소지만 해도 형사 처벌 대상이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>AI 조작 증거로 판사까지 속였다... 20대 사기범 구속 기소</title>
-      <link>https://www.chosun.com/national/incident/2026/02/11/5CJK2RCKFZGJLKUDLUAOX3AYEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/11/5CJK2RCKFZGJLKUDLUAOX3AYEE/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 03:45:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OB3UCR6LQNCSDILADTBBMBQA4A.png"&gt;&lt;figcaption&gt;&lt;small&gt;실제 잔액잔고증명서(왼쪽)와 AI(인공지능)를 이용하여 조작된 잔액잔고증명서. /부산지검 동부지청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자 사기로 구속될 위기에 처하자 인공지능(AI)으로 위조한 잔고 증명서를 제출해 판사까지 속인 20대 남성이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 동부지청 형사3부(부장 김건)는 사기와 사문서위조, 위조사문서행사 등 혐의로 20대 남성 A씨를 구속 기소했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 8~10월 수십억 원대 자산을 보유한 의사 겸 사업가 행세를 하며 피해자로부터 투자금 명목으로 3억2000만원을 뜯은 혐의를 받는다. 그는 AI 플랫폼의 이미지 생성 기능을 이용해 의사 국가시험 합격증과 가상 화폐 보유 내역 등을 조작한 뒤 이를 피해자에게 보여주며 속였다고 한다.&lt;br&gt;&lt;br&gt;이후 A씨는 사기 혐의로 구속영장이 청구되자 또다시 AI를 활용했다. 그는 AI로 23원 남아 있던 잔고 증명서를 9억여 원이 남아있는 것처럼 위조한 것이다. 이어 A씨는 위조한 잔고 증명서를 법원에 증거로 제출했고, A씨가 변제 능력이 있다고 판단한 법원은 구속영장 청구를 기각했다.&lt;br&gt;&lt;br&gt;검찰은 직접 보완 수사에 착수해 은행 홈페이지의 제증명 발급 조회를 통해 A씨가 법원에 제출한 잔고 증명서의 잔고가 실제 계좌 정보와 일치하지 않는다는 사실을 확인했다. 이어 계좌 영장 청구를 통해 A씨가 AI로 잔고 증명서를 위조한 사실을 밝혀냈다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨가 AI 이미지 생성 기능을 이용해 육안으로 식별이 곤란할 정도로 정밀하게 위조해 일반인은 물론 판사까지 속였다”며 “이번 수사로 AI 기술의 양면성과 범죄 수단으로 악용될 수 있음을 확인했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “현재 관련 법령을 통해 AI 생성물 표시제가 도입돼 있지만 대중적인 AI 플랫폼에서 제대로 이뤄지지 않고 있어 향후 제도적 보완이 필요해 보인다”며 “앞으로도 AI 기술 재산 범죄와 사법 질서 교란 범죄에 엄정 대응할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정교유착 합수본, ‘통일교 로비 의혹’ 임종성 전 의원 소환</title>
