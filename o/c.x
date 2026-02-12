@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경복궁 경비원 폭행한 中관광객들, 경찰 조사 다음날 출국</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/AJD5UUVM4FDENF3JORBCSI63YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/AJD5UUVM4FDENF3JORBCSI63YQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 23:09:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRDSUT5IP5GDFJOQNXASGTVQZ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;입춘의 경복궁./정수윤&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경복궁을 관광하던 중국인들이 궁 경비원을 폭행하는 일이 벌어졌다. &lt;br&gt;&lt;br&gt;서울 종로경찰서는 중국 국적의 50대 남성 1명과 60대 남성 1명을 폭행 혐의로 수사중이라고 13일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 지난 2일 오후 3시 30분쯤 서울 종로구 경복궁 향정원 인근에서 경복궁 경비원을 폭행한 혐의를 받는다. 중국인 관광객들은 문화재 보호를 위해 설치된 통제선을 넘어 사진을 촬영했고, 이를 제지하자 경비원을 몸으로 밀친 뒤 주먹으로 가슴을 때린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현장에 있던 다른 직원의 신고로 경찰이 출동했고, 경찰은 임의동행 형식으로 인근 파출소에서 두 사람의 폭행 혐의를 조사했다. 경비원은 공무원 신분이 아니라 공무집행방해 혐의는 적용하지 않았다. &lt;br&gt;&lt;br&gt;중국인 관광객들은 조사가 끝난 뒤 다음날 출국한 것으로 파악됐다. 종로서 관계자는 “수사는 거의 마무리됐고, 피의자들을 검찰에 송치할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;향후 약식기소돼 벌금형이 나왔는데 국외에 있어 납부하지 않는다면 수배가 내려질 것이라고 경찰은 전했다. 또한 폭행 혐의는 출국 금지 요청 대상 범죄에 해당하지 않는다고 경찰은 설명했다. 현행법상 수사기관의 출국 정지 요청은 장기 3년 이상의 징역이나 금고에 해당하는 범죄에 한해 가능하다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김상겸·유승은 ‘비상’ 뒤에는 ‘달마’ 있었다</title>
       <link>https://www.chosun.com/national/people/2026/02/13/GU7BKNNKWZCNBCMXVJCJFA3MWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/13/GU7BKNNKWZCNBCMXVJCJFA3MWE/</guid>
@@ -916,15 +925,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 00:03:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EC4OXXT3RBFRGOITM7MM4LHJA.png"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡 수량 표기 오류로 휴지 1800롤이 2만원대에 판매되는 소동이 벌어졌다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡에서 수량 표기 오류로 화장지 1800롤이 2만원 후반대에 판매되는 소동이 발생했다.&lt;br&gt;&lt;br&gt;12일 업계에 따르면, 전날 오후 1시쯤 쿠팡에는 한 팩당 30롤이 든 화장지 ‘깨끗한나라 순수 시그니처 천연펄프 3겹 고급 롤 화장지’ 60팩이 2만8720원에 올라왔다. 한 롤당 16원꼴이다.&lt;br&gt;&lt;br&gt;이에 이용자들의 문의가 이어졌으나, 인공지능(AI) 답변 봇이 틀린 내용으로 공개 답변을 달면서 혼란은 더욱 커졌다. “총 1800롤이 오는 게 맞냐”는 문의에 AI 답변 봇이 “30개입 60팩으로 총 1800롤이 맞다”고 대응한 것이다. 답변 봇은 “30롤이 1팩이고 60팩이 배송 오는 거냐”는 질문에도 “해당 상품은 30롤이 1팩으로 구성됐으며, 총 60팩이 배송되는 것이 맞다”고 확인했다.&lt;br&gt;&lt;br&gt;이후 이 같은 사실이 온라인을 중심으로 급속도로 확산하면서 삽시간에 주문이 몰리는 소동이 벌어졌다. 일부 네티즌은 오류를 인지하면서도 “잘리기 전에 빨리 주문하라” 등의 반응을 보이기도 했다.&lt;br&gt;&lt;br&gt;오류를 파악한 쿠팡은 이날 오후 5시 30분쯤 고객들에게 안내 문자를 보냈다. 쿠팡은 주문 취소 처리를 하고, 구매자들에게 쿠팡캐시 5000원을 지급할 예정이다. 쿠팡은 안내 문자에서 “주문하신 상품은 수량 표기 오류로 부득이하게 취소될 예정”이라며 “이용에 불편을 드려 진심으로 죄송하다”고 했다. 다만 오노출 주문량은 아직 정확하게 파악되지 않았다.&lt;br&gt;&lt;br&gt;쿠팡 수량 표기 오류는 이번이 처음은 아니다. 작년 6월엔 수량 표기 오류로 농심 육개장 사발면 36개 묶음이 5040원에 판매돼 ‘육개장 대란’이 일어났다. 같은 해 7월에도 동일한 이유로 코코볼 컵 118개가 3800원에 판매되면서 5시간 만에 3만여 건의 주문이 접수되는 등의 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 색동원 시설장, 다른 중증 장애인 거주시설서도 13년 넘게 활동</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/36TBFHQ6UBDVVEAF2ID4ZCJUZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/36TBFHQ6UBDVVEAF2ID4ZCJUZ4/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 00:23:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q47EBLPZQ5PBZDC4XD2NKZPVYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성폭력 의혹으로 경찰의 수사를 받는 중증 장애인 거주 시설인 인천 강화군 색동원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화군에 있는 중증 장애인 거주 시설 ‘색동원’에서 장애인들을 상대로 성폭행한 혐의를 받는 시설장 A씨가 또 다른 중증 장애인 거주시설에서도 재직 중인 것으로 12일 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 색동원에 이사로 취임하기 한 달 전인 지난 2012년 10월 인천 계양구의 사회복지재단 B에 이사로 등록했다. B는 같은 이름의 중증 장애인 거주 시설을 두고 있는데, 이곳 이사장 C씨는 반대로 색동원 이사 가운데 한 명이다. 그는 지난해 10월 15일 이뤄진 색동원 이사회에 참석해 A씨의 ‘업무배제 2개월’ 의결에 한 표를 던지기도 했다.&lt;br&gt;&lt;br&gt;일각에선 “인력 풀이 한정돼 서로 이어져 있는 장애인 시설 특성상 A씨의 범죄가 색동원을 넘어 다른 시설에서도 이뤄졌을 수 있다”는 이야기도 나온다. B의 시설장 D씨는 본지에 “A씨가 사임 의사를 밝혔고, 더 이상 활동하지 않는다”며 “이사회가 개최되면 절차에 따라 처리될 예정”이라고 해명했다. 또 “A씨는 사실상 명예직이었을 뿐 지난 10여 년간 시설을 찾은 적 없고 이사회 회의도 외부에서만 이뤄졌다”고 했다.&lt;br&gt;&lt;br&gt;그러나 본지 취재 결과 A씨는 색동원 업무에서 배제된 뒤로도 최근까지 B 이사회에 참석해 D씨의 임명 등 주요 사안에 관여한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQTQYJRMU3DQMLFMM4DGMJSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;색동원 2층 여성 입소자 거주 시설. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 색동원 특별수사단이 지난 9일 A씨에 대한 구속영장을 신청한 가운데, A씨는 혐의를 전부 부인하고 있다. 그는 경찰의 색동원 압수수색 직후인 지난해 10월 열린 인천장애인복지시설협회 긴급 이사회 자리에서 “성폭행은 절대 없었다”며 “장애인이 음란행위를 해서 그런 소견이 나온 것 같다”는 취지로 주장한 것으로 전해졌다. 협회 이사회는 당시 이러한 해명을 받아들여 A씨의 이사직을 유지하다 뒤늦게서야 업무에서 배제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>덜 익은 스테이크를 두고 손님 왜 “I’m sorry”? </title>
