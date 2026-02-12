@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘李 피습 사건 재수사' 경찰, 국정원·대테러센터 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2026/02/12/4CZKSSZDZNBFDOHPFEH2R524MM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/12/4CZKSSZDZNBFDOHPFEH2R524MM/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 09:33:13 +0000</pubDate>
+      <content:encoded>이재명 대통령이 2024년 초 민주당 대표 시절 피습당한 사건을 재수사하는 경찰이 12일 국정원 등에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DSYJYGRRDOOJSMZSTSZLFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 1월 2일 이재명 당시 더불어민주당 대표가 가덕도 신공항 부지 현장에서 피습당한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건을 수사하는 경찰청 국가수사본부 가덕도 테러 사건 수사 태스크포스(TF)는 이날 오후 4시 30분부터 국정원과 국무조정실 대테러센터 등에 대한 압수수색을 진행하고 있다고 밝혔다. TF는 국회 정보위에 대해서도 압수수색에 나섰으나 국회 허가를 받지 못해 실패했다.&lt;br&gt;&lt;br&gt;이 대통령은 더불어민주당 대표 시절이던 2024년 1월 2일 부산 가덕도 방문 중에 60대 김모씨가 휘두른 흉기에 왼쪽 목을 찔려 수술과 입원 치료를 받았다. 김씨는 지난해 대법원에서 살인미수 혐의 등으로 징역 15년이 확정됐다. 여권은 당시 국정원 등이 피습 현장 증거를 인멸하고, 사건을 테러로 지정하지 않는 등 사건을 축소·왜곡했다는 의혹을 제기해 왔다.&lt;br&gt;&lt;br&gt;이 사건은 지난달 국무총리 주재로 열린 국가테러대책위원회 회의에서 테러로 지정됐다. 경찰은 이 사건이 당시 테러로 지정되지 않은 경위 등을 수사하겠다는 이유로 수사관 40여 명으로 구성된 TF를 꾸렸고, 최근에는 TF 인원을 69명까지 늘렸다. 이어 TF 출범 이후 처음으로 강제 수사에 나선 것이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘장애인 성폭행 의혹’ 인천 색동원 원장에 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/AN3LM3LFPBF5BOM6EAAX2SFKJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/AN3LM3LFPBF5BOM6EAAX2SFKJM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 10:01:06 +0000</pubDate>
+      <content:encoded>검찰이 인천 강화군의 중증 장애인 거주 시설 ‘색동원’에서 장애인을 성폭행한 혐의를 받는 시설장에 대해 12일 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L53Y5NTJFBLAHOJTWGGRZMOBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성폭력 의혹으로 경찰의 수사를 받는 중증장애인 거주시설인 인천 강화군 색동원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 성폭력처벌법 위반(장애인 강간·강제추행) 및 장애인복지법 위반 혐의를 받는 시설장 A씨에 대해 구속영장을 청구했다고 밝혔다. 입소자를 폭행한 혐의를 받는 시설 종사자 B씨에 대해서도 영장을 청구했다. 앞서 서울경찰청은 지난 9일 이들에 대한 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;A씨는 생활 지도 등을 명목으로 여성 장애인들을 성폭행하거나 유사 성행위를 강요한 혐의를 받고 있다. 수사 기관이 인천 강화군에서 제출받은 ‘심층 조사 보고서’에는 여성 장애인 17명 전원과 퇴소자 2명 등이 A씨에게 성폭력을 당했다는 내용이 담긴 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 현재 시설 종사자 전원과 입·퇴소자를 상대로 전수 조사를 진행 중이다. 추가 피해 여부를 확인하기 위해 색동원을 거쳐 간 장애인 87명과 종사자 152명을 대상으로 전수 조사를 진행 중이다.&lt;br&gt;&lt;br&gt;A씨는 “성폭행은 절대 없었다. 장애인이 음란 행위를 해서 그런 소견이 나온 것 같다”며 혐의를 전면 부인하는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘대장동 50억’ 곽상도 부자 1심 판결에 항소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/VHPPGA45ZZDRNEA3FCSKDZJ4BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/VHPPGA45ZZDRNEA3FCSKDZJ4BM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 10:01:49 +0000</pubDate>
+      <content:encoded>검찰이 ‘대장동 개발 비리’의 주범인 김만배씨에게 50억원(세후 25억원)을 은닉한 혐의로 기소됐다가 1심에서 공소 기각을 선고받은 곽상도 전 국민의힘 의원 등에 대해 12일 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TIOLFHFSDCMLGMU2TSYZVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽상도 전 국민의힘 의원이 지난 6일 서울 서초구 서울중앙지방법원에서 열린 범죄수익은닉규제법 위반 혐의 1심 선고 공판 후 법원을 나서며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 “곽 전 의원 등의 대장동 관련 범죄수익은닉규제법 위반 등 사건 1심 판결에 대해 증거관계 및 관련 법리를 검토해 항소를 제기했다”고 밝혔다. 그러면서 “곽 전 의원의 특정범죄가중처벌법상 뇌물 혐의 항소심과 합일적으로 판단받을 필요가 있는 점도 고려했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;지난 6일 서울중앙지법 형사23부(재판장 오세용)는 곽 전 의원과 병채씨, 김씨의 1심 선고 공판에서 곽 전 의원에 대한 공소를 기각했다. 재판부는 “검사는 곽 전 의원과 김씨 사건의 항소심 변론 대신 이 사건 공소를 제기했다”며 “1심 판단을 두 번 받아 앞선 무죄 결론을 뒤집으려는 의도로 공소권을 자의적으로 행사했다”고 지적했다. 병채씨의 특가법상 뇌물 혐의도 무죄가 선고됐다. &lt;br&gt;&lt;br&gt;김씨의 범죄수익은닉규제법 위반 혐의에 대해선 공소 기각이 나왔지만, 알선수재 및 정치자금법 위반 혐의 등에선 유죄가 인정됐다. 이날 검찰은 세 사람에 대해 모두 항소를 제기했다.&lt;br&gt;&lt;br&gt;곽 전 의원은 2021년 4월 김씨로부터 뇌물을 받으면서 화천대유 직원이던 아들 병채씨 퇴직금인 것처럼 가장해 은닉한 혐의(범죄수익은닉규제법 위반)로 기소됐다. 검찰은 이 25억원이 대장동 사업 ‘성남의뜰’ 컨소시엄에서 하나은행이 이탈하는 걸 막아달라며 김씨가 곽 전 의원에게 제공한 뇌물이라고 봤다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 곽 전 의원은 2022년 뇌물 혐의로 기소됐었다. 그런데 2023년 2월 1심 법원이 “병채씨가 받은 돈을 곽 전 의원이 받은 것으로 볼 수 없다”며 무죄를 선고하자, 검찰은 곽 전 의원 부자가 공모했다는 사실과 실제 돈을 받은 아들 혐의를 새롭게 규명해 추가로 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울중앙지법, 내란전담재판부 구성... 영장전담 법관도 지정 완료</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/YOTBESDHAZDVDCHCGMGYQUELJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/YOTBESDHAZDVDCHCGMGYQUELJ4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 10:05:04 +0000</pubDate>
+      <content:encoded>서울중앙지방법원은 12일 내란전담재판부 두 곳과 관련 사건 영장을 전담할 법관 두 명을 지정했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47MF7KUED4N5SF4LTC2ZKLJJDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙지법 사무분담위원회는 지난 전체 판사회의 의결에 따라 총 6개(18명)의 후보 재판부를 구성한 뒤, 지난 11일 무작위 추첨을 통해 부장판사 3명으로 이뤄진 대등재판부 2개를 구성했다. 각 재판부는 장성훈·오창섭·류창성 부장판사와 장성진·정수영·최영각 부장판사로 꾸려졌다. 영장전담 법관은 이종록·부동식 부장판사가 맡는다.&lt;br&gt;&lt;br&gt;장성훈 부장판사는 사법연수원을 30기로 수료한 뒤, 부산지법, 인천지법, 서울남부지법에서 부장판사를 지냈다. 오는 23일 중앙지법에 부임할 예정이다. 사법연수원 32기인 오창섭 부장판사는 2003년 검사로 임관한 뒤 2012년 법관으로 임용됐다. 2019년 청주지법에서 부장판사를 지낸 뒤, 의정부지법을 거쳐 중앙지법에 부임할 예정이다. 류창성 부장판사는 사법연수원을 33기로 수료하고 대전지법, 수원지법에서 부장판사를 지냈다. 지난해 2월 서울중앙지법 형사항소9-2부 재판장으로 부임했다.&lt;br&gt;&lt;br&gt;장성진 부장판사는 사법연수원을 31기로 수료한 뒤 전주지법 군산지원, 인천지법 부천지원에서 부장판사를 지냈다. 지난해 서울중앙지법 형사21단독에 부임했다. 사법연수원 32기인 정수영 부장판사는 변호사로 일하다 2015년 법관에 임용됐다. 2020년 춘천지법, 2023년 수원지법 안산지원을 거쳐 이달 중 중앙지법에 부임할 예정이다.&lt;br&gt;&lt;br&gt;영장 관련 업무를 전담할 이종록 부장판사는 사법연수원을 32기로 수료했다. 2006년 판사로 임관한 뒤 대법원 재판연구관, 대전지법 부장판사, 수원지법 부장판사를 거쳐 오는 23일 중앙지법에 부임할 예정이다. 부동식 부장판사는 사법연수원을 33기로 수료하고, 부산지법, 수원지법, 수원회생법원을 거쳐 이달 중 중앙지법에 부임한다.&lt;br&gt;&lt;br&gt;서울중앙지법 전체 판사회의는 지난 11일 오후 3시부터 이날 오후 6시까지 온라인 투표를 통해 의결을 진행했다고 밝혔다. 전담재판부는 법관 정기인사일인 23일에 맞춰 가동될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘패륜 배우자·자녀‘도 상속 재산 못 받는다</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/63HADK33QFAUPFTF2I3CAJMXHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/63HADK33QFAUPFTF2I3CAJMXHA/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 09:03:45 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKOVINIH2BNMLG63RT2TP3SVNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 여의도 국회에서 열린 제432회 국회(임시회) 제7차 본회의에서 민법 일부개정법률안(대안)이 재석 157인 중 찬성 157인으로 가결되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 부양의무를 중대하게 위반한 상속인의 유류분(遺留分)과 상속권은 제한하고, 부양 의무를 다한 기여상속인이 받은 증여는 보호하는 내용의 민법 개정안이 12일 국회 본회의를 통과했다고 밝혔다.&lt;br&gt;&lt;br&gt;개정법은 부모 등 직계존속에 한정됐던 패륜 상속인의 범위를 직계비속(자녀) 및 배우자 등 모든 상속인으로 확대했다. 패륜 상속인이란 미성년 자녀에 대한 부양의무를 중대하게 위반하거나, 피상속인 또는 피상속인 배우자 등에게 중대한 범죄 행위를 한 사람을 말한다. 앞서 양육 의무를 저버린 부모가 상속권을 갖지 못하게 하는 내용의 민법 개정안은 2024년 8월 28일 국회 본회의를 통과했었다.&lt;br&gt;&lt;br&gt;또한 개정법은 피상속인을 특별히 부양하거나 재산 유지·증가에 특별히 기여한 상속인에 대한 유류분 반환 청구를 제한하는 내용도 포함했다. 유류분이란 고인(故人)의 의사와 상관없이 법에 따라 유족들이 받을 수 있는 최소한의 유산 비율로서 1977년 도입됐다. 법무부는 기여 상속인에게 인정돼야 할 보상적 성격의 증여나 유증(유언에 따른 증여)을 침탈하지 못하게 하기 위한 조치라고 설명했다.&lt;br&gt;&lt;br&gt;앞서 헌법재판소는 2024년 4월 25일 패륜 상속인의 유류분을 인정하는 것은 위헌이라고 결정하고 2025년 12월 말까지 민법을 개정하라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SCGAZI7S65BMNNRSOKH7TUQ7ZQ.png?auth=40ac7fe7d4e643893285c876775deded716eec79543b5cd56600158297027ee5&amp;smart=true&amp;width=3600&amp;height=2024" type="image/png" height="2024" width="3600">
+        <media:description type="plain">/일러스트=조선디자인랩 이연주</media:description>
+        <media:credit role="author" scheme="urn:ebu">조선디자인랩 이연주</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘도이치모터스 재기 수사’ 박현철 전 검사장 변호사 개업</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/2ZOZUY7ZABG33HXRWLYNVD3WMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/2ZOZUY7ZABG33HXRWLYNVD3WMI/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 09:21:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEQENYSEONH2THU6SO5G2ABNSE.png"&gt;&lt;figcaption&gt;&lt;small&gt;박현철(사법연수원 31기) 전 광주지검장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰에서 기획·공안수사 전문가로 꼽혔던 박현철(55·사법연수원 31기) 전 광주지검장이 변호사 개업을 했다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 박 전 지검장은 최근 법무법인 더킴로펌 대표변호사로 변호사 활동을 시작했다.&lt;br&gt;&lt;br&gt;박 전 지검장은 경남 통영 출신으로 통영고와 고려대 법대를 졸업했다. 1999년 사법시험 합격 후 2002년 서울지검(현 서울중앙지검)에서 검사 생활을 시작했다. 서울북부지검 형사6부장, 대검찰청 정책기획과장, 서울서부지검 형사1부장, 서울중앙지검 형사2부장, 대검찰청 대변인, 서울중앙지검 2차장검사를 역임했다. 2024년 5월 검사장으로 승진해 서울고검 차장검사, 작년 7월 광주지검장을 지냈다. &lt;br&gt;&lt;br&gt;박 전 지검장은 작년 11월 대장동 항소 포기 사태 당시 노만석 전 검찰총장 직무대행에게 경위를 설명해 달라는 일선 지검장 공동 성명서에 이름을 올렸는데, 한 달 만에 법무연수원 연구위원으로 좌천성 인사가 나자 사의를 표했다.&lt;br&gt;&lt;br&gt;그는 서울고검 차장검사 때는 서울중앙지검이 2024년 10월 혐의없음 처분했던 김건희 여사의 도이치모터스 주가 조작 의혹 사건의 재기 수사를 지휘하기도 했다.&lt;br&gt;&lt;br&gt;박 전 지검장은 “그동안의 수사·정책·조직 운영 경험을 바탕으로 의뢰인에게 실질적인 도움이 되는 법률 서비스를 제공하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘검찰의 기소유예 처분’ 취소권, 헌재에서 떼내 법원에 준다</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/NELZUJMEZRHJZIHX4E6DHJOFPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/NELZUJMEZRHJZIHX4E6DHJOFPU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 09:07:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7B5OTFYVQVMEFFQXIAHKCSLSXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 주도로 추진 중인 '재판소원 허용법'(헌법재판소법 일부개정법률안)이 11일 국회 법제사법위원회(법사위)를 통과했다. 재판소원 허용법은 대법 상고심 등을 통해 확정된 법원 판결에 대해 헌법재판소의 결정에 반하는 취지로 재판하거나 적법 절차를 거치지 않는 등 기본권을 침해했을 시, 헌법소원심판을 청구할 수 있도록 허용하는 것이 핵심이다. 사진은 12일 서울 종로구 헌법재판소. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 검찰의 기소유예 처분을 취소하는 권한을 헌법재판소에서 법원으로 옮기는 내용의 법안을 발의했다. 재판소원(재판에 대한 헌법소원) 도입을 추진하면서 헌재의 사건 부담을 덜기 위한 사전 정비 차원 아니냐는 분석이 나온다.&lt;br&gt;&lt;br&gt;12일 국회에 따르면 김용민 민주당 의원은 지난 10일 이 같은 내용의 검찰청법 일부 개정안을 대표 발의했다. 개정안은 현행 헌법소원 대상인 기소유예 처분에 대해 일정한 절차를 거친 뒤 행정법원에 행정소송을 제기할 수 있도록 하는 불복 절차를 신설하는 내용을 담았다. &lt;br&gt;&lt;br&gt;기소유예는 범죄 혐의는 인정되지만 여러 사정을 고려해 재판에 넘기지 않는 검찰 처분이다. 형은 선고되지 않지만 수사기관이 범죄 사실을 인정한 셈이어서, 당사자 입장에선 사실상 불이익 처분이라는 지적이 제기돼 왔다. 현행 제도에서는 검찰의 항고를 거친 뒤 90일 이내에 헌법재판소에 헌법소원을 제기하는 방식으로 다툴 수 있다.&lt;br&gt;&lt;br&gt;개정안은 검찰청법에 불기소 처분에 대한 항고가 기각될 경우 30일 이내에 행정소송을 제기할 수 있도록 하는 내용을 신설했다. 김 의원은 “기소유예 처분에 대한 불복 수단이 헌법소원으로만 한정돼 있는 것은 재판 청구권을 과도하게 제한하고, 헌재의 심판 업무 적체를 초래한다”고 법안 제안 이유를 밝혔다. 김 의원은 또 헌법재판소가 헌법 해석과 통제라는 본연의 기능에 집중하고, 개별 처분의 위법성을 다투는 문제는 일반 법원 절차로 일원화하는 것이 ‘사법 시스템의 정상화’라고도 했다.&lt;br&gt;&lt;br&gt;그러나 법조계 일각에선 민주당이 법원의 재판도 헌법소원 대상으로 포함하는 이른바 ‘재판소원’ 도입을 추진하는 상황에서, 상대적으로 사실관계 판단 비중이 큰 기소유예 취소 사건을 미리 법원으로 이관하려는 것 아니냐는 해석이 나왔다. 한 법조인은 “재판소원이 도입되면 헌재 사건이 급증할 수밖에 없는데, 그 전에 부담이 되는 유형의 사건을 떼어내는 것 아니냐”며 “법원에 또 다른 사건 부담을 지우는 셈”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유재성 경찰청장 대행 “이슬이 모여 바다가 돼… 하나씩 개선해 나가야"</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/12/IPONXALBTZESNGGYLQRW6PJW4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/IPONXALBTZESNGGYLQRW6PJW4M/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 08:55:14 +0000</pubDate>
+      <content:encoded>유재성 경찰청장 직무대행이 전국 경찰 지휘부를 대상으로 “노적성해(露積成海·이슬이 모여 바다를 이룬다)의 마음가짐으로 일하는 방식을 혁신해야 한다”고 했다. 거창한 과제보다는 당장 할 수 있는 일에 집중하자는 것으로 풀이된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYWIOBYGZTGIZDBGY4GEM3DG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재성 경찰청장 직무대행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유 대행은 12일 전국 경찰 지휘부 화상회의에서 이같이 밝혔다. 그는 “성과를 내기 위해 거창한 과제에 몰두하다가 작고 사소하다고 여겨지는 일은 등한시하는 경우가 있다”며 “지역 주민과 현장 동료의 의견을 들어 하나씩 개선하다 보면 국민의 삶이 지금보다 한 단계 나아질 것”이라고 했다. &lt;br&gt;&lt;br&gt;유 대행은 이와 함께 설 명절 기간 치안 강화를 주문했다. 그는 “명절 기간에는 관계성 범죄가 증가하는 경향이 있고, 대형 교통사고, 강력범죄, 산불 등도 연이어 발생하고 있다”며 “각급 지휘관들이 지역 내 치안을 직접 챙기고, 24시간 빈틈없는 상황 대응과 신속한 보고 체계를 유지하라”고 했다. 경찰청은 지난 9일부터 18일까지 설 명절 특별치안대책을 시행하고 있다. &lt;br&gt;&lt;br&gt;경찰의 인권 존중에 대해서도 강조했다. 최근 경기 광명경찰서의 한 경찰관이 현장에서 촬영한 변사자의 시신 사진을 소셜미디어에 올려 논란이 됐다. 유 대행은 이에 대해 “국민의 인권을 지켜야 할 경찰이 피해자의 인권을 훼손했다”며 “당사자에 대해 직위 해제와 감찰 조사를 지시했다”고 했다. 또 경찰의 모든 권한 행사는 헌법과 인권이라는 기준 위에서 이뤄져야 한다고도 했다. &lt;br&gt;&lt;br&gt;올해 6월 예정된 지방선거에 대해선 “국민 판단을 흐리고 왜곡할 수 있는 허위 정보에 대해 엄정히 대처해주길 바란다”며 “구성원 모두가 정치적 중립을 지키고 오해를 야기할 수 있는 언행을 하지 않아야 한다”고 했다. 또 “업무를 중심으로 하는 합리적인 조직 문화를 조성해야 한다”며 “갑질과 같은 고질적 악습은 이번 기회에 근절해야 한다”고도 했다. &lt;br&gt;&lt;br&gt;유 대행은 끝으로 “경찰에 대한 많은 기대와 우려가 있다”며 “어려울수록 기본으로 돌아가라는 말이 있듯, 오로지 국민을 기준으로 업무에 집중해야 할 시점”이라고 했다. 또 “각자의 위치에서 최선을 다해 달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이상민 ‘징역 7년’ 선고 후 법정에 울려퍼진 “아빠 괜찮아, 사랑해” </title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/UW6AJU5G2FE3ZK54IOZSYBW55Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/UW6AJU5G2FE3ZK54IOZSYBW55Q/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 09:18:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3GCNRTMEYTCMJTGUYDKNBVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 12일 서울중앙지방법원에서 열린 내란 중요임무 종사 등 혐의 1심 선고 공판에 출석해 선고를 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 중요 임무 종사 등 혐의로 기소된 이상민 전 행정안전부 장관이 1심에서 징역 7년형을 선고받은 직후 법정에는 응원의 목소리가 울려 퍼졌다. 재판 내내 무표정을 유지하던 이 전 장관은 이를 듣고 미소를 지어 보였다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사32부(재판장 류경진)는 12·3 비상계엄 당시 소방청에 언론사 5곳의 단전·단수 지시를 한 혐의를 받는 이 전 장관의 선고 재판을 진행했다. 재판부는 “피고인은 윤석열 전 대통령에게 국회 등 봉쇄 계획 및 언론사 단전·단수 지시가 담긴 문건을 받았고, 허석곤 당시 소방청장에게 구체적인 업무 지시를 한 것으로 보는 것이 타당하다”며 이 전 장관이 내란 행위의 중요임무에 종사했다고 봤다.&lt;br&gt;&lt;br&gt;재판부가 양형 이유를 설명하는 내내 이 전 장관은 입을 굳게 다물고 정면을 바라봤다. 재판부가 기립을 요구하고 “주문, 피고인을 징역 7년에 처한다”고 선고할 당시에도 표정에는 변화가 없었다.&lt;br&gt;&lt;br&gt;재판이 끝나고 이 전 장관이 퇴장하기 직전 이 전 장관의 가족들은 응원의 메시지를 보냈다. 이 전 장관의 딸은 “아빠 괜찮아, 사랑해. 힘내”라고 말했고, 아내는 “우리가 진실을 아니까”라고 했다. 이 전 장관은 이에 방청석을 바라보며 미소를 지었고, 손을 흔들며 퇴장했다.&lt;br&gt;&lt;br&gt;선고 직후 조은석 특별검사팀의 장우성 특별검사보는 “형량에 아쉬움이 있지만, 판결 이유를 면밀히 분석한 후 항소 여부를 결정하겠다”고 했다. 이 전 장관 측도 “당연히 항소할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘피해자 보복 협박’ 부산 돌려차기 男, 징역 1년 추가</title>
       <link>https://www.chosun.com/national/regional/2026/02/12/4A7CULA7BBGOFGLU3GQ4HLVRWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/12/4A7CULA7BBGOFGLU3GQ4HLVRWY/</guid>
@@ -823,15 +908,6 @@
       <content:encoded>기우종 법원행정처 차장이 11일 재판소원제를 허용하는 헌법재판소법 개정안에 대해 “도저히 받아들일 수 없는 법안”이라는 입장을 밝힌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FG2LMFT3MZNJJOPMHKLIRWHNTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 법무차관(왼쪽)과 기우종 법원행정처 차장이 11일 오전 서울 여의도 국회에서 재판소원 허용법(헌법재판소법 개정안) 심사를 위해 열린 법제사법위원회 법안심사제1소위원회에 출석한 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 기 차장은 이날 비공개로 열린 국회 법제사법위원회 법안심사제1소위원회에 출석해 재판소원 제도에 대한 강한 우려를 표했다. 기 차장은 “재판소원 도입은 헌법 개정 사항”이라며 “법률 개정만으로 재판소원을 도입할 수는 없다”고 운을 뗐다. 재판소원 제도는 대법원 상고심 등으로 확정된 법원 판결이 헌법재판소 결정에 반하거나 기본권 침해 소지가 있을 시 헌법소원을 허용하는 내용으로, 사실상 4심제라는 비판을 받아왔다.&lt;br&gt;&lt;br&gt;이어 기 차장은 “헌법 제101조 제1항에서 ‘사법권은 법관으로 구성된 법원에 속한다’고 명시하고, 제2항에서 대법원이 사법권을 행사하는 최고법원임을 명시하고 있다”며 “사법권의 행사인 재판은 법원에서 하되, 최고법원인 대법원의 재판이 최종심이어야 함을 헌법에서 선언한 것”이라고 했다. &lt;br&gt;&lt;br&gt;기 차장은 그러면서 “대법원까지 3심의 재판을 거친 패소 당사자에게 새로운 불복 기회를 부여하는 것 자체가 4심의 실질을 가지게 된다”며 “당사자들은 시간과 비용을 들여 계속 다퉈야 하고, 분쟁 해결을 통한 법적 안정성은 극히 저하되므로 국민, 국가, 사회 전체의 관점에서 손실일 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;기 차장은 소송이 경제적 강자의 도구로 활용될 우려가 있다는 점도 언급했다. 1~3심을 거쳐 무죄 판결이 확정되더라도 검사가 재판소원을 제기하면 당사자는 또다시 고통의 시간을 보내야 한다는 것이다. 그러면서 “헌법 제101조는 주권자인 국민이 이러한 사태를 막고자 국민 스스로를 위해 둔 장치”라며 “궁극적으로 국민에게 피해가 가장 적은 이런 장치를 설계한 것이다. 이를 허물겠다는 법안은 도저히 받아들일 수 없다”고 했다.&lt;br&gt;&lt;br&gt;소위에 참석한 이진수 법무차관도 재판소원제 도입에 대해 “사법체계의 안정성 훼손, 재판 지연 등의 부작용이 있을 수 있다”며 “이를 종합적으로 고려해 결정할 사안이라는 의견을 밝힌다”고 했다.&lt;br&gt;&lt;br&gt;김용민 법안심사소위 위원장은 소위 종료 직후 기자들과 만나 “재판소원을 인정하는 헌법재판소법을 처리했다”면서 “재판소원 제도를 도입해 사법 신뢰를 높이는 중요한 계기로 삼고, 국민 기본권을 두텁게 보호하는 계기로 삼고자 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘김용 재판 위증교사’ 이재명 캠프 관계자들에 징역형 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/DSIAESAGJNGFBM7WJD6U6XACSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/DSIAESAGJNGFBM7WJD6U6XACSE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 10:17:26 +0000</pubDate>
-      <content:encoded>이재명 대통령 최측근으로 분류되는 김용(전 민주연구원 부원장)씨의 불법 정치자금 수수 혐의 재판에서 위증한 혐의를 받는 이재명 대선 캠프 관계자들에 대해 검찰이 11일 징역형을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAHA24T3RRMNLFHWYBY6CF36UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용(전 민주연구원 부원장)씨 재판에서 '거짓 알리바이' 증언을 부탁한 혐의를 받는 박모씨와 서모씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 이날 서울중앙지법 형사4단독 박강균 부장판사 심리로 열린 캠프 관계자 박모씨와 서모씨의 위증교사 혐의 사건 결심 공판에서 두 사람에게 각각 징역 2년과 징역 1년을 구형했다. 두 사람의 부탁을 받고 법정에서 위증한 혐의를 받는 이모 전 경기도시장상권진흥원장에게는 징역 6개월에 집행유예 1년을 구형했다.&lt;br&gt;&lt;br&gt;이 사건은 박·서 두 사람이 2023년 4월 이씨에게 김용씨 재판에서 거짓 증언을 해달라고 부탁했다는 게 핵심이다. 이씨는 실제로 그해 5월 법정에 증인으로 출석해, 김씨가 유동규 전 성남도시개발공사 기획본부장에게 1억원을 받았다고 지목된 2021년 5월 3일에 자신과 다른 장소에서 업무 협의를 했다는 취지로 거짓 증언을 했다. 박씨와 서씨는 이씨의 거짓 증언을 뒷받침하기 위해 허위 일정이 기재된 휴대전화 달력 화면 사진을 제출한 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 “박씨와 서씨는 김씨가 재판받게 되자 조직적으로 대응했다”며 “두 사람의 범행은 실체적 진실에 기반해 재판해야 하는 사법부의 독립성에 중대한 위험을 초래했다”고 구형 이유를 밝혔다. 반면 박씨는 “위증을 교사하지 않았다”며 “재판장이 이 사건을 법과 증거, 양심에 따라 판단해주신다면 저는 무죄일 수밖에 없다고 믿는다”고 반박했다. 서씨도 “거짓된 진술을 요구하거나 이를 유도하는 어떠한 행위도 하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 4월 1일 선고할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경기 하남 찾은 트럼프 차남... 한강변 둘러봐, 투자처 물색?</title>
       <link>https://www.chosun.com/national/national_general/2026/02/11/GCSRBMXHEBH77NUPNKGGCQXEJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/11/GCSRBMXHEBH77NUPNKGGCQXEJY/</guid>
@@ -842,33 +918,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4KUPNAQGMVHPHJB3QVVE3PHN5M.jpg?auth=b2e6dbe912bed469db715b9e84c6b85a153c5423639b831a238a5b786612f069&amp;smart=true&amp;width=1100&amp;height=619" type="image/jpeg" height="619" width="1100"/>
     </item>
     <item>
-      <title>‘백세 시대’ 新이혼 풍속도... 90세男·88세女가 상담 왔다</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/10/HXJMWQNPNNDBZHSPL3BOWYHOTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/10/HXJMWQNPNNDBZHSPL3BOWYHOTQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 00:21:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2G57UF4EZEQRESBPX5U2FU3VU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 이상 노년층 부부의 이혼 상담 비율이 최근 20년간 4배 가까이 증가했다는 조사 결과가 나왔다. &lt;br&gt;&lt;br&gt;10일 한국가정법률상담소가 공개한 ’2025년도 상담 통계’를 보면 작년 상담소가 처리한 상담 건수는 총 5만2037건이었다. 면접 상담 2만646건, 전화 상담 2만9730건, 인터넷 상담 1061건, 순회 상담 48건이었다.&lt;br&gt;&lt;br&gt;면접 상담 중 이혼 상담 비율이 24.7%(5090건)를 차지해 전년(24%)보다 소폭 늘었다. &lt;br&gt;&lt;br&gt;이 중 여성 내담자는 4013명, 남성은 1077명이었다. 이혼 상담을 받은 내담자 중 최고령자는 여성 88세, 남성 90세였다.&lt;br&gt;&lt;br&gt;이혼 상담을 받은 이들의 연령대를 보면 구체적으로 여성은 40대(30.5%)와 60대 이상(22.1%)이 많았다. 이어 50대(21.4%), 30대(20.2%), 20대(5.7%), 10대(0.1%) 순이었다. &lt;br&gt;&lt;br&gt;남성은 60대 이상이 절반에 가까운 49.1%를 차지했고 50대(21.5%), 40대(18.8%), 30대(8.4%), 20대(2.2%)가 뒤를 이었다.&lt;br&gt;&lt;br&gt;작년 내담자 연령대는 여성은 40대, 남성은 60대 이상의 상담 비율이 높았지만 20년 전인 2005년에는 남녀 모두 30대의 상담 비율이 높았다. &lt;br&gt;&lt;br&gt;2005년 기준 상담을 받은 여성의 연령대는 30대(34.5%), 40대(33.0%), 50대(19.8%) 순이었다. 남성은 30대(35.3%), 40대(26.4%), 50대(22.8%), 60대 이상(12.5%), 20대(3.1%) 순이었다.&lt;br&gt;&lt;br&gt;특히 60대 이상의 상담 비율이 20년 만에 급증했다. 여성의 경우 60대 이상의 상담 비율이 20년 전 5.8%에서 지난해 22.1%로 4배 가까이 늘었다. 60대 남성도 2005년 12.5%에서 2025년 49.1%로 4배 가까이 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZ22FMD2VVAOVDTEYZLYE3FBFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 오어진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 상담 사유를 보면 여성은 ‘폭력 등 남편의 부당 대우’(55.1%)로 가장 많이 찾아왔다. &lt;br&gt;&lt;br&gt;남성의 경우 ‘기타 혼인을 계속하기 어려운 중대한 사유(장기 별거·성격 차이·배우자의 이혼 강요·경제 갈등·불성실한 생활·처가와 갈등 등)’가 56.7%나 됐다.&lt;br&gt;&lt;br&gt;노년 여성은 주로 “맞아도 젊어서는 이혼 생각 못 했다” “자녀만 보고 살았는데 자녀들도 자기 살기 바빠 나를 외면한다” “평생 밖으로 돌던 남편이 오갈 데 없자 다시 돌아왔다” 등의 내용으로 상담을 신청했다.&lt;br&gt;&lt;br&gt;한 81세 여성은 “결혼 후 남편은 수시로 나를 때렸지만 경찰에 신고한 적 없다. 사업에 실패해 집안을 파탄 내고 윤락업소를 드나들었다. 학대당한 아들은 정신병에 걸려 밥벌이도 못 했다. 남편은 15년 전 나를 쫓아내더니 갑자기 내가 사는 집으로 돌아오겠다고 한다. 나이 들어 기댈 곳 없으니 오는 것 같은데 너무 싫고 내 재산을 지키고 싶다”고 토로했다. &lt;br&gt;&lt;br&gt;반면 노년 남성들은 “아내가 갑자기 가출했다” “평생 먹여 살렸는데 외면당했다” 등을 이유로 이혼 상담을 신청하는 경우가 많았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국토부, 인천공항 이학재 겨냥... “졸속 주차 개편, 절차도 위반”</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/11/L6WNVDYPHBAZJCMLVADE7GAFO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/11/L6WNVDYPHBAZJCMLVADE7GAFO4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 06:35:17 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3WGYLFGQYWKZDBMFQWCNJYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이학재 인천국제공항공사 사장이 지난 1월 20일 오전 서울 여의도 국회 소통관에서 대통령실의 인천공항공사 불법인사 개입 중단 촉구 기자회견에서 발언하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부가 지난해 말 추진했던 인천공항공사의 주차대행서비스 개편에 대해 “졸속으로 추진됐고, 절차를 위반했다”는 내용의 감사 결과를 11일 발표했다. 공사 안팎에선 윤석열 정부에서 임명된 3선 의원 출신인 현 이학재 사장을 정면으로 겨냥한 것이란 해석이 나온다.&lt;br&gt;&lt;br&gt;이날 국토부는 “감사 결과 인천공항공사의 개편안은 동기, 절차, 계약 등에서 다수 문제가 확인됐다”고 밝혔다. 시작부터 끝까지 전부 문제라는 취지다. 발표 자료엔 ‘졸속 개편’ ‘기강 해이’ ‘변명 일관’ 등 다른 결과 발표에서 보기 어려운 거센 워딩이 포함됐다. &lt;br&gt;&lt;br&gt;이번 감사는 인천공항공사가 지난해 12월 현재 2만원인 주차대행 서비스를 일반과 프리미엄으로 나누고, 가격을 4만원으로 올리려고 한 데 따른 것이다. 1,2 터미널 모두 주차난이 심하기 때문에 개편이 불가피하다는 게 인천공항공사 입장이었다.&lt;br&gt;&lt;br&gt;그러나 국토부는 공사의 주차대행 개편이 졸속으로 이뤄졌다고 비판했다. 국토부는 “공사는 대행업체의 과속, 난폭운전, 절도 등 문제가 대두되자 대행운전 거리를 줄이면 문제가 해결된다는 단순 논리로 개편에 착수했으며, 최소한의 전문가 검토도 없이 곧바로 개편에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;제대로 된 검토가 없으니 예측부터 엉뚱하게 진행됐다는 게 국토부 감사 결과다. 현재 나타나는 주차난은 2터미널에서 주로 발생하고 있는데, 1터미널 주차장 혼잡도 완화에 집중했다는 것이다. 국토부는 “공사 자체적으로 아시아나의 제2터미널 이전 시 주차장이 부족하지 않을 것으로 분석했던 것으로 드러났다”고 했다.&lt;br&gt;&lt;br&gt;국토부는 “사업자 선정, 계약 과정도 부실하게 진행됐다”고 밝혔다. 주차대행 사업자에게 주차 공간을 제공한 대가로 공사가 받을 임대료 산정 시, 업체의 인건비 등을 과다 산정해 적정 임대료(7억9000만원)에 못 미치는 4억9000만원을 책정했다”고 밝혔다. 업체에 부당하게 이득을 주고, 공사에 손해를 끼쳤단 뜻이다.&lt;br&gt;&lt;br&gt;또한, 개편안에 따라 차량 인도장과 제1터미널 간 셔틀버스 운영이 필수적 상황이 돼 ‘여객자동차 운송사업’ 면허가 있는 사업자를 선정했어야 함에도, 면허가 없는 일반 업체를 주차대행 사업자로 선정했다고 지적했다. 국토부는 “해당 업체는 셔틀버스를 자체 운영하는 것으로 계획해 왔는데 이는 불법 운행”이라고 했다.&lt;br&gt;&lt;br&gt;문제가 된 4만원 비용 역시 “업체 측 요구를 그대로 수용한 것”이라며 “품질은 저하되는데 가격만 두 배 인상되는 주먹구구식 개편 결과였다”고 했다.&lt;br&gt;&lt;br&gt;김윤덕 국토부 장관은 이날 “공기업이 국민 눈높이에 맞춰 이용자 편익을 먼저 생각하지 않고, 편의주의적 개편을 추진하다 가로 막히자 변명으로 일관하는 것은 중대한 기강 해이”라며 “재발 방지를 위한 공사 임직원의 공직기강 확립과 주차대행 서비스를 포함한 주차장 운영 전반에 대한 개선안 마련을 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;인천공항공사 측은 대응을 자제하는 분위기다. 표적 감사라는 시각도 있지만, 이학재 사장의 퇴진이 가시화된 시점에 국토부를 자극할 필요가 없다는 게 내부 의견이라고 한다. 이 사장은 지난 2일 자신의 페이스북에 “유례 없는 특정감사를 해가며 저와 공사를 탈탈 털고 있다”고 주장했다. 인천공항공사 측은 “국토부 방침에 따라 고객 눈높이에 맞는 주차 시스템 개편을 위해 원점에서 다시 작업하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>합수본, ‘증거인멸’ 혐의 전재수 의원실 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/X2ITTUSCFJB2PIAVZ5WB7NKDFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/X2ITTUSCFJB2PIAVZ5WB7NKDFA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 08:09:25 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQCENG7ORFM6HDVUCFRONLHTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 더불어민주당 의원이 지난 9일 부산 북구 IC에서 열린 만덕~센텀 고속화도로(대심도) 개통식에서 축사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교와 신천지 등의 정교 유착 의혹을 수사 중인 검경 합동수사본부가 범죄 증거를 인멸한 혐의로 전재수 더불어민주당 의원 사무실을 압수 수색했다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면 합수본은 지난 10일 전 의원의 서울 여의도 의원회관 사무실 등을 압수 수색했다. 강제 수사 대상은 보좌관 등 전 의원실 관계자였고, 전 의원은 포함되지 않았다.&lt;br&gt;&lt;br&gt;앞서 경찰은 통일교 측에서 2018년 현금 2000만원과 불가리 명품 시계 1점을 수수한 혐의(정치자금법 위반)로 작년 12월 15일 전 의원 자택과 국회의원 사무실을 압수 수색했다. 경찰은 당일 오전 9시쯤 압수 수색 장소에 도착했지만, 국회 측 참관인이 늦게 오면서 영장 집행은 오전 11시 20분쯤 시작됐다. 그 사이 의원실에서 문서 파쇄기가 돌아가는 소리가 들려 증거 인멸이 이뤄진 게 아니냐는 의혹이 제기됐었다.&lt;br&gt;&lt;br&gt;합수본은 당시 전 의원실이 조직적으로 관련 증거를 없앴는지를 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>공수처 ‘김학의 출국금지 수사’ 대검·서울고검 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/02/11/PDGL52GOSNFZHHJKIVXN774QRQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/PDGL52GOSNFZHHJKIVXN774QRQ/</guid>
@@ -876,54 +925,6 @@
       <description/>
       <pubDate>Wed, 11 Feb 2026 07:40:10 +0000</pubDate>
       <content:encoded>김학의 전 법무부 차관의 ‘불법 출국 금지 사건’을 수사한 검사들에 대한 공무상비밀누설 혐의 고발 사건과 관련해 고위공직자범죄수사처(공수처)가 11일 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTGGNZRG44DGYRSMNTDIYZSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부과천청사 고위공직자범죄수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 공수처 수사3부(부장 이대환)는 “김 전 차관 출국 금지 사건의 수사 검사들이 고발된 사건과 관련해 대검찰청과 서울고검 등을 압수수색했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 차규근 조국혁신당 의원이 법무부 출입국본부장이었던 시절 불법적으로 김 전 차관의 출국을 금지했다며 직권남용 등 혐의를 적용해 그를 기소했다.&lt;br&gt;&lt;br&gt;그러나 법원은 당시 출국 금지가 법률상 요건을 갖추지 못해 위법하지만, 당시 긴박한 상황 등을 고려할 때 직권남용죄로 처벌하기 어렵다고 판단했다. &lt;br&gt;&lt;br&gt;이후 대법원에서도 무죄가 확정되자 차 의원은 자신에 대한 수사를 담당했던 이정섭 대전고검 검사와 임세진 서울고검 검사 등을 허위공문서 작성 및 행사, 공무상 비밀누설 혐의로 지난해 7월 공수처에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김건희 로저비비에 선물’ 김기현 부부, 첫 재판서 혐의 부인 </title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/ZUYHIOFEDVBH5E4DHL6XQX5MME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/ZUYHIOFEDVBH5E4DHL6XQX5MME/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 07:44:54 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 부인 김건희 여사에게 260만원대 명품 가방을 건넨 혐의로 기소된 김기현 국민의힘 의원 부부 재판이 11일 시작됐다. 김 의원 측은 이날 재판에서 혐의를 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYTSMBXMQ3DQMBTMRTDINZTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김기현 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 김 의원과 배우자 이모씨의 청탁금지법 위반 혐의 사건 첫 공판 준비 기일을 열었다. 공판 준비 기일은 정식 재판에 앞서 피고인과 검찰 양측의 입장을 확인하고 입증 계획을 논의하는 절차로, 피고인 출석 의무는 없다.&lt;br&gt;&lt;br&gt;두 사람은 2023년 3월 김 의원의 국민의힘 당대표 당선에 대한 대가로 김 여사에게 267만원 상당의 로저비비에 클러치백 1개를 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 의원 측은 이날 재판에서 배우자 이씨가 가방을 준비해 김 여사에게 전달한 사실은 인정하면서도, 김 의원이 이에 관여하지 않았다며 공소사실을 부인했다.&lt;br&gt;&lt;br&gt;김 의원 측은 민중기 특검의 가방 압수 과정이 위법해 증거능력이 없다고도 주장했다. 특검은 지난해 11월 ‘대통령 관저 이전 특혜 의혹’ 수사 과정에서 윤 전 대통령 부부 자택을 압수수색하던 중 문제의 클러치백과 감사 편지를 발견했고, 즉시 수색을 중단한 뒤 법원에서 추가 영장을 발부받아 가방을 확보했다.&lt;br&gt;&lt;br&gt;김 의원 측은 “최초 압수수색 영장의 목적과 범위를 벗어난 상태에서 클러치백이 발견됐고, 이를 기초로 2차 영장을 발부받은 것은 영장 일탈에 해당할 수 있다”고 했다. 특검은 “적법 절차에 따른 압수”라고 맞섰다.&lt;br&gt;&lt;br&gt;이날 김 의원 측은 증거 목록 등 열람·복사가 완료되지 않아 구체적인 증거 의견은 추후 밝히겠다고 했다. 재판부는 다음 달 27일 공판 준비 기일을 한 차례 더 열기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노동부, 한국노총 이어 민주노총과도 ‘노정협의체’ 출범</title>
-      <link>https://www.chosun.com/national/labor/2026/02/11/W5ADCWYPOBEJPFAWW4RWC42VMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/02/11/W5ADCWYPOBEJPFAWW4RWC42VMY/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 07:34:02 +0000</pubDate>
-      <content:encoded>고용노동부가 민주노총과 ‘노정협의체’를 만들고 주요 노동 현안에 대해 논의하기로 했다. 정부와 민주노총이 정기 협의체를 운영하기로 한 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTIZTGMQ2TKYRZGM3WMYZYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고용노동부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 고용노동부는 민주노총과 노정협의체 출범식을 열었다고 밝혔다. 앞서 9일 한국노총과 협의체를 출범시킨 데 이어, 민주노총과도 일대일 대화 창구를 만든 것이다. 앞으로 노동부와 민주노총은 매월 실장급이 참석하는 실무협의체를 열고, 분기별로는 부대표급(노동부 차관–민주노총 부위원장)이 참석하는 회의를 열어 각종 노동 현안을 논의할 계획이다.&lt;br&gt;&lt;br&gt;이날 권창준 고용노동부 차관은 “그동안은 갈등이 있거나 정책 설명이 필요할 때만 마주 앉았다면, 이제는 정기적으로 만나 의견을 나누고자 한다”고 말했다. 이양수 민주노총 부위원장은 “인공지능(AI) 확산 등으로 고용과 노동 형태가 빠르게 변화하고 있는데, 모든 노동자의 노동기본권과 노조할 권리가 보장돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;다만 정부가 민주노총과 별도의 일대일 대화 창구를 만들면서, 노사정 사회적 대화 기구인 경제사회노동위원회(경사노위)의 역할이 위축될 수 있다는 지적이 나온다. 민주노총은 한국노총이나 한국경영자총협회(경총)와 달리 경사노위에 참여하지 않고 있다. 민주노총은 1999년 경사노위의 전신인 노사정위원회를 탈퇴한 이후 20년 넘게 사회적 대화에 불참하고 있는 상황이다.&lt;br&gt;&lt;br&gt;한편 고용노동부는 오는 24일 경총과 부대표급 정례 협의체도 출범시킬 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“중국 대사의 정율성 흉상 복원 요청은 내정간섭”… 광주 시민단체 반발</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/11/QZPO7RXG7ZHPNJWCMAA6F4OW54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/11/QZPO7RXG7ZHPNJWCMAA6F4OW54/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 07:35:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW7RZOLRARA3JJIS6FSWNX6RCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정율성 공원조성 철폐 범시민연대 등 38개 시민단체들이 11일 광주시의회 시민소통실에서 기자회견을 열고 다이빙 주한 중국대사의 정율성 흉상 복원 요청에 반발하는 성명서를 읽고 있다. /진창일 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다이빙(戴兵) 주한 중국 대사가 광주광역시를 찾아 정율성 흉상을 복원해 달라고 요청한 것에 대해 광주 지역 시민단체들이 반발했다.&lt;br&gt;&lt;br&gt;정율성 공원 조성 철폐 범시민연대 등 38개 단체는 11일 광주시의회에서 기자회견을 열고 “다이빙 대사가 외교관이라는 지위를 이용해 자국 특정 인물의 흉상을 복원하도록 사실상 압력을 행사하는 것은 명백한 내정간섭이며 심각한 외교적 침략”이라고 주장했다.&lt;br&gt;&lt;br&gt;이어 “대한민국의 역사·문화·정치 사안에 대한 부적절한 발언과 개입을 멈추고 대한민국 국민에게 엎드려 사죄하라”고 했다.&lt;br&gt;&lt;br&gt;다이빙 대사는 앞서 지난 6일 광주 남구 정율성 거리와 광주시청을 방문했다. 그는 강기정 광주시장을 만나 “중국에서 임시정부 등 항일 유적지를 잘 관리·보존하고 있는 만큼 (파손된) 정율성 흉상을 복원해 달라”고 요청했다.&lt;br&gt;&lt;br&gt;정율성은 1914년 광주에서 태어난 작곡가다. 일제강점기 중국으로 건너가 중국 공산당에 가입했다. 1945년 북한으로 넘어가 조선인민군 장교로 활동했다. 6·25전쟁에도 참전했다. 이후 중국으로 귀화했다. 팔로군 행진곡(중국 인민해방군가), 조선인민군 행진곡 등을 작곡했다.&lt;br&gt;&lt;br&gt;광주시와 남구는 2008년 정율성 생가가 있는 양림동 거리 이름을 ‘정율성 거리’로 바꾸고 정율성 기념 사업을 벌였다. 중국인 관광객을 유치한다는 이유였다. 2009년에는 정율성 거리에 흉상도 세웠다. 남광주청년회의소가 중국 해주구 인민정부에서 기증받은 것이다.&lt;br&gt;&lt;br&gt;2023년 그의 과거 행적을 놓고 논란이 일었다. 그해 10월 한 교회 전도사가 정율성 흉상에 밧줄을 묶은 뒤 차량으로 당겨 쓰러뜨렸다. &lt;br&gt;&lt;br&gt;이날 기자회견에서 시민단체 회원들은 “정율성은 6·25전쟁에 인민군으로 참전하고 공산국가 중국에서 호위호식(護衛好食)한 뼈속까지 공산주의자”라며 “다이빙 대사의 흉상 복원 요구는 공산주의자 정율성으로 인해 지난 3년간 벌어진 ‘이념 논쟁’에 다시 불을 지피는 것”이라고 했다.&lt;br&gt;&lt;br&gt;광주시를 향해서는 “공산군 군악대장의 흉상을 다이빙 대사의 지시로 다시 세우려 한다면 명백한 친중·친공 행보”라며 “정율성 흉상 복원 시도를 전면 파기하라”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 광주시 관계자는 “흉상 복원은 결정된 것이 없다”고 말했다. 시민단체들은 “2월 말 서울에 있는 주한 중국 대사관 앞에서 항의 집회를 열고 다이빙 대사와 면담을 요구할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CW7RZOLRARA3JJIS6FSWNX6RCE.jpg?auth=f6912262cc7eb6881502ac1a03114f219d1f0955f1d0b717860918cec53393b7&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
-        <media:description type="plain">정율성 공원조성 철폐 범시민연대 등 38개 시민단체들이 11일 광주시의회 시민소통실에서 기자회견을 열고 다이빙 주한 중국대사의 정율성 흉상 복원 요청에 반발하는 성명서를 읽고 있다. /진창일 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘한학자 도박 보고서’ 작성한 경찰...“대통령실 보고에도 미배당한 건 매우 이례적”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/D5DGFJH2P5G7DFJQALE6TS5C7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/D5DGFJH2P5G7DFJQALE6TS5C7A/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 07:02:37 +0000</pubDate>
-      <content:encoded>한학자 통일교 총재의 ‘불법 원정도박’ 의혹과 관련한 보고서를 직접 작성한 경찰이 “대통령실에 보고한 뒤에도 사건이 배당되지 않았다”며 “이례적”이라고 법정에서 증언했다.증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSTGMJRGA4DAYZQGQ2GIMTFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 11일 한 총재의 정치자금법 위반 등 혐의 재판을 열고 춘천경찰서 외사계에서 근무한 경찰관 A씨에 대한 증인신문을 진행했다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 재판에서 “2022년 5~7월 통일교 내부에서 ‘한 총재가 해외 원정 도박을 자주 한다’는 첩보를 듣고 보고서를 작성했다”고 증언했다. A씨는 “제보자로부터 미국 국세청 과세 자료 등을 받았는데, 정식 수사에 착수하면 남은 자료를 주겠다고 했다”고 말했다. &lt;br&gt;&lt;br&gt;A씨는 첩보 내용을 토대로 한 총재, 정원주 전 총재 비서실장 등 7명을 특정경제범죄가중처벌법 위반, 상습도박, 외국환거래법 위반 등 피혐의자로 명시한 첩보 보고서를 작성해 경찰 내부 시스템에 등록했다고 한다. 그런데 사건이 수사 부서에 배당되지 않고 보관 처리됐다고 주장했다. &lt;br&gt;&lt;br&gt;김씨는 “보고 내용은 ‘별보’로, 경찰청을 거쳐 대통령실까지 보고된 걸로 안다”며 “별보인데 경찰청이 사건 배당도 안 하고 보관처리한 게 상당히 이례적이라고 생각했다”고 말했다. 별보란 경찰청장이 직접 챙겨보는 보고서로, 국가안보상 중대한 위해를 미칠 수 있는 내용을 뜻한다. 김씨는 “증빙자료가 부족하다는 이유로 보관처리됐는데, 이번 도박 관련 첩보보다 더 약한 고리를 갖고도 사건이 배당된 바 있다”며 “제보자가 공소시효가 남아있는 제보를 추가로 제출하겠다고 했는데도 보관처리된 것은 이례적”이라고 말했다. &lt;br&gt;&lt;br&gt;한편 한 총재 측은 이날 재판부에 보석을 허가해달라고 거듭 요청했다. 한 총재 측은 “건강상태가 이미 한계에 넘어섰고 83세를 넘겼다”며 “인도적 차원에서라도 가족들 보살핌 속에서 건강을 회복하고 남은 재판을 받을 수 있도록 부탁드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘삼성전자 내부 비밀 빼내 美 특허 침해 소송 제기’ 안승호 전 부사장, 1심 징역 3년</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/11/MBZADLNCFVF4DMFDA6GBYTYFBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/11/MBZADLNCFVF4DMFDA6GBYTYFBU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Feb 2026 06:01:14 +0000</pubDate>
-      <content:encoded>삼성전자 내부 영업 비밀 자료를 빼돌린 뒤 미국에서 삼성전자를 상대로 특허 침해 소송을 제기한 혐의를 받는 안승호 전 삼성전자 IP센터장(부사장)이 11일 1심에서 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBJZXB3GWCJM2ROMN6OPLHW2YM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;재직 당시 내부 기밀자료를 유출한 혐의를 받는 안승호 전 삼성전자 IP센터장(부사장)이 30일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다. 2024.5.30/뉴스1 ⓒ News1 민경석 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사28부(재판장 한대균)는 이날 부정경쟁방지법상 영업비밀누설 등 혐의를 받는 안 전 부사장에게 징역 3년을 선고했다. 안 전 부사장에게 자료를 빼준 혐의를 받는 전직 삼성전자 IP센터 직원 이모씨에겐 징역 2년이, 안 전 부사장과 공모한 혐의를 받는 조모씨에겐 징역 2년에 집행유예 3년이 선고됐다.&lt;br&gt;&lt;br&gt;이 사건은 안 전 부사장이 설립한 특허관리기업(NPE) ‘시너지IP’가 음향기기·이어폰 업체 ‘스테이턴 테키야’와 함께 2021년 11월 미국 텍사스 동부법원에 특허 침해 소송을 낸 게 발단이 됐다. ‘삼성전자가 테키야의 특허를 갤럭시S20 시리즈 등에 활용했다’는 이유였다. 검찰은 삼성전자 IP센터장 출신인 안 전 부사장이 이모씨에게 내부 영업 비밀인 ‘테키야 현안 보고서’를 전달받아 이 소송에 활용했다고 판단해 이들을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;재판부는 “테키야 보고서는 삼성전자 IP센터 기술분석팀, 라이선싱팀, 법무팀 소속 여러 직원이 수개월간 상당한 비용과 노력을 들인 것으로 보이고, 소송 상대방이 이를 취득할 경우 더 유리한 위치에 설 수 있는 것으로 보인다”며 “피고인들의 행위는 모두 유죄”라고 판단했다.&lt;br&gt;&lt;br&gt;안 전 부사장은 삼성전자의 지적재산 관리를 총괄하는 IP센터의 초대 센터장으로, 2010년부터 2019년까지 10년간 NPE 방어 업무를 총괄했다. 그런데 퇴사 직후 본인이 NPE를 설립하고 삼성전자 상대로 특허 침해 소송을 내며 9000만달러라는 거액의 합의금을 요구한 것이다. 미국 법원은 한국 검찰 수사결과를 토대로 안 전 부사장 등이 부정행위를 저질렀다며 2024년 5월 소송을 기각했다.&lt;br&gt;&lt;br&gt;검찰은 안 전 부사장을 수사하는 과정에서 이모 전 삼성디스플레이 출원그룹장의 개인 비리를 포착해 함께 재판에 넘겼고, 재판부는 이날 이 전 그룹장에게 징역 3년과 추징금 5억3261만여 원을 선고했다. 안 전 부사장에게 삼성전자 내부 비밀을 건네준 이씨와 이 전 그룹장이 또 다른 영업 비밀을 거래했다가 덜미를 잡힌 것이다.&lt;br&gt;&lt;br&gt;이 전 그룹장은 이씨에게 12만달러를 받고 삼성디스플레이의 후지필름 특허 매입 협상 관련 내부 정보를 흘린 혐의, 삼성디스플레이의 선행 기술 조사 전담 업체 선정 대가로 3억7147만원을 수수한 혐의를 받는다. 이 전 그룹장은 또 정부 출자로 설립된 NPE 대표이던 김모 전 카이스트 대학원 초빙교수와 공모해 회삿돈으로 일본 기업의 가치 없는 특허를 77만달러에 사들인 뒤, 이 중 27만달러를 리베이트로 돌려받았다는 혐의를 받는다. 재판부는 이 전 그룹장과 김 교수에 대해 “합리적인 의사 결정이 이뤄졌다면 과도한 매입 비용이 책정되지 않았을 수 있다”며 유죄를 인정했다. 김 교수에겐 징역 2년 6개월이 선고됐다.&lt;br&gt;&lt;br&gt;재판부는 다만 이 전 그룹장이 삼성디스플레이의 미국·중국 출원대리인 선정 등을 대가로 총 3억1786만여 원을 업체 측으로부터 상납금 형태로 수수한 혐의는 무죄로 판단했다. 부정 청탁을 받았다는 의심은 들지만, 돈 거래 경위에 대한 수사가 부족해 범죄의 증명이 없다는 것이다. 이 밖에도 재판부는 이씨가 또 다른 삼성전자 직원 박모씨에게 임원회의 자료를 제공받았다는 혐의도 무죄로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 실형이 선고된 안 전 부사장, 이 전 그룹장, 이씨 3명을 법정 구속하지는 않았다. 1년 넘게 이어진 재판에 성실히 출석한 점 등을 고려했다고 재판부는 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘제2의 프로포폴’ 6만명분 빼돌려 유통, 강남선 불법 투약… 일당 검거  </title>
