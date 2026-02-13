@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>현직 법관 “본질 다른 독일 모델 재판소원 도입 추진엔 치명적 오류 있어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/13/TNFKI7CXKJA77KEHDKDDF365LI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/TNFKI7CXKJA77KEHDKDDF365LI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 10:10:18 +0000</pubDate>
+      <content:encoded>독일의 사례를 참고해 재판소원 제도를 도입하자는 주장에 대해 “독일 기본법과 한국 헌법의 본질적 차이점을 간과한 치명적 오류가 존재한다”는 현직 법관 비판이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2WNLRDHMNM45I3LQJXUAKVI6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 한윤옥(사법연수원 35기) 울산지법 부장판사는 13일 법원 내부게시판 코트넷에 ‘재판소원에 대한 대륙법계 학자들 및 헌재 논리의 헌법상 오류’라는 제목의 글을 올려 “재판소원 제도 도입은 국내 헌법학계에서 다수를 차지하고 있는 독일계 헌법학자들을 중심으로 주장되어 온 논의”라며 “이는 연방헌법재판소가 사법권을 행사하는 유일한 연방최고기관이라고 명시돼 있는 독일 기본법과, 사법권을 행사하는 유일한 최고기관을 미국처럼 대법원으로 명시한 한국 헌법의 차이를 간과한 것”이라고 했다. 한국과는 헌법과 법률 체계가 다른 독일 사례를 가져와 도입을 시도하는 것은 타당하지 않다는 얘기다.&lt;br&gt;&lt;br&gt;구체적으로 한 부장판사는 독일 기본법의 태생적 특성에 따라 독일 국가기관은 한국 헌법상 독립기관에 해당하는 ‘연방최고기관’과 독일 기본법에 의해 비로소 권한을 부여받은 ‘기본법상 관계기관’으로 구분된다고 설명했다. 이어 “사법권을 행사하는 기관은 연방최고기관인 연방헌법재판소와, 기본법에 의해 비로소 권한을 부여받은 관계기관인 연방법원으로 구성된다”고 했다. 독일의 법 체계상 독일 연방헌법재판소의 상급기관이라는 설명이다.&lt;br&gt;&lt;br&gt;한 부장판사는 “한국 헌법은 5장 법원 101조 1항에서 국가 사법권의 행사 주체를 법원으로 명시하고 2항에서 최고법원이 대법원임을 선언하고, 6장에 헌법재판소 규정을 처음 신설했다”고 설명했다. 독일과 달리 헌법재판소가 법원에 대한 기속력을 갖지 않는다는 것이다.&lt;br&gt;&lt;br&gt;한 부장판사는 “한국 헌법상 헌법재판소는 국가 사법권의 행사 주체가 아니다”라며 “다만 헌법 111조 1항에 열거된 각 관장 사항을 심판하는 헌법기관”이라고 했다. 이어 “헌법 111조 1항 5호는 ‘법률이 정하는 헌법소원에 관해 헌법재판소가 판결할 수 있다’고 규정하고, 그 법률에 위임된 범위는 당연히 현행 헌법의 틀 내에서 헌법을 위반하지 않는 범위에만 유보돼 있다”고 강조했다.&lt;br&gt;&lt;br&gt;국회 법제사법위원회는 지난 11일 전체회의에서 재판소원법과 대법관 증원법을 더불어민주당 주도로 의결했다. 조희대 대법원장은 이튿날 출근길에 취재진과 만나 “국민에게 엄청난 피해가 가는 문제”라며 공론화 필요성을 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기내서 경련 후 쓰러진 승객...휴가 중인 간호사가 살렸다 </title>
+      <link>https://www.chosun.com/national/2026/02/13/ZZXXVY3QKVCZRAPY3U5QUTXHCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/13/ZZXXVY3QKVCZRAPY3U5QUTXHCU/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 10:05:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33FEAR726NHARHADFXI7BCPALI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오후 울산대병원 6년차 간호사 이소영(31)씨가 울산공항에서 이륙 중이던 항공기 기내에서 경련을 일으킨 남성 승객을 살펴보고 있다. 이씨의 빠른 대처로 이 승객은 호흡을 되찾고 인근 병원으로 옮겨져 치료를 받았다. 사진은 당시 상황을 찍은 영상 캡처./울산대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴가를 위해 항공기에 탑승한 간호사가 기내에서 심한 경련을 일으키며 쓰러진 승객을 신속한 응급처치로 구한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;13일 울산대학교병원 등에 따르면, 지난 10일 오후 2시 30분쯤 울산공항 활주로 위 김포공항행 항공기에 탑승한 한 남성 승객이 심한 경련을 일으켰다. 당시 승무원들은 이륙 전 기내 복도에 서서 위급 상황 시 구명복 착용 방법 등을 안내하고 있었다. 환자가 발생했다는 승무원의 다급한 목소리에, 마침 건너편 좌석에 있던 한 여성이 망설임 없이 나섰다. &lt;br&gt;&lt;br&gt;울산대병원 소화기내과 병동에서 일하는 6년 차 간호사 이소영(31)씨였다. 이씨는 개인 휴가차 항공기에 탑승해 있었다. &lt;br&gt;&lt;br&gt;이씨는 승무원들에게 휴대전화에 저장한 자신의 간호사 자격증을 보여주며, 자신이 의료인이라는 것을 확인시킨 뒤 쓰러진 남성의 상태를 살폈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYQ4JIFCUFBUFEB7ERU2J3XUKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산대병원 6년차 간호사 이소영(31)씨. /울산대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 남성은 경련과 함께 혀가 말려 들어가 기도가 막히며 자칫 생명이 위험할 수 있는 급박한 상황이었다고 한다. &lt;br&gt;&lt;br&gt;이씨는 즉시 주변 승객들에게 119 신고를 요청하는 한편, 승무원들과 함께 환자 옷을 탈의시키고 기도를 확보하는 등 침착하게 응급처치를 했다. 이씨의 빠른 대처 덕분에 환자는 곧 의식과 함께 호흡을 회복했다. &lt;br&gt;&lt;br&gt;이씨는 신고를 받고 현장에 도착한 구급대원과 함께 끝까지 남성의 상태를 살폈다. 소지품에서 알코올 솜을 찾아내, 이 남성이 당뇨 환자인 것을 확인하고 구급대원들에게 이를 공유했다. 남성은 구급차를 타고 인근 병원으로 옮겨져 치료를 받았다. &lt;br&gt;&lt;br&gt;이씨는 “의료인으로서 당연히 해야 할 일을 했을 뿐”이라며 “비슷한 상황이 다시 발생하더라도 망설임 없이 나설 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성매매 불법 촬영해 인터넷 방송한 30대 BJ 구속송치</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/02/13/B2QRXNZ3AVDK3AOFYPIY27GH7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/02/13/B2QRXNZ3AVDK3AOFYPIY27GH7Y/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 09:33:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CTEI5DWP3QRTKZ4JBNOP7CJFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 오산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성매매 장면을 불법 촬영해 온라인 방송으로 유포한 인터넷 방송인(BJ)이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 오산경찰서는 성매매처벌법 위반 등의 혐의로 A(30대)씨를 구속해 검찰에 송치했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 2일 오산시의 한 숙박업소에서 성매매를 하면서 여성의 동의 없이 불법 촬영해 인터넷 방송으로 유포한 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 영상은 4시간 가량 온라인 방송 플랫폼을 통해 송출됐다. 신고를 받고 경찰이 현장에 출동한 뒤에야 방송은 중단됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법 촬영물이 방송된다는 신고를 받고 출동해 A씨를 붙잡았다”면서 “촬영물이 다른 이들에 의해 2차 유포된 정황은 현재까지 확인되지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아산 철강 제조 공장 화재… 직원 1명 숨진채 발견</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/13/Q54CVKWQV5DVBGYSXICY2PDRPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/13/Q54CVKWQV5DVBGYSXICY2PDRPY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 09:42:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTDONZWG4ZTCMBTGU4GINZUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아산 둔포면 공장 화재 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 아산의 한 철강 제조 공장에서 불이 나 1명이 숨졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 13일 오후 4시 27분쯤 아산시 둔포면 봉재리 한 철강 제조 공장에서 불이 났다. 이 화재로 공장 외부에 있던 60대 직원 A씨가 숨졌다.&lt;br&gt;&lt;br&gt;불은 공장 부지에 있는 야적장에서 시작돼 지상 3층 규모의 공장 건물로 옮겨붙었다. 소방당국은 인력 43명과 장비 24대를 투입해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;이날 화재로 연기가 다량 발생하자 아산시는 ‘국도 43호선 둔포면에서 배방읍 방면 차량은 봉재교차로에서 우회 바란다’는 재난 문자를 발송했다.&lt;br&gt;&lt;br&gt;소방당국은 야적장에 폐기물이 쌓여 있고, 공장이 철골 구조물로 지어져 화재 진화에 시간이 소요될 것으로 보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MZRDAYJVGJRWKNDBMM4DGYLEGY.jpg?auth=a4e5e3c4c362aa6e9ceb229ef317401e9aeb252b73154ca6bf68febb8211e3c6&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">아산 둔포면 공장 화재 현장. (아산소방서 제공, 재판매 및 DB금지) / 뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘故이예람 수사개입’ 전익수, 계급강등 취소소송 패소 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/13/75OYHR5LONCY7IBDY7BZFW3RTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/75OYHR5LONCY7IBDY7BZFW3RTI/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 08:58:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYGKMTEMMZWIZLCGQYGGYZZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 이예람 중사 사망 사건을 수사한 군 검사에게 부당한 위력을 행사한 혐의로 기소된 전익수 전 공군 법무실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 이예람 중사 사망 사건 수사에 부당하게 개입했다는 의혹으로 준장에서 대령으로 강등됐던 전익수 전 공군본부 법무실장이 징계 처분에 불복해 낸 소송에서 최종 패소했다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 대법원 3부(주심 노경필 대법관)는 지난 12일 전 전 실장이 국방부 장관을 상대로 제기한 징계 처분 취소 소송 상고심에서 심리불속행 기각으로 원고 패소 판결을 한 원심을 확정했다. 심리불속행 기각은 형사 사건을 제외한 민사·행정·가사 소송에서 하급심 판결에 법리 오해 등 잘못이 없을 때 심리를 하지 않고 종결하는 제도다.&lt;br&gt;&lt;br&gt;전 전 실장은 2022년 9월 이 중사 성추행 사건 수사에 부당하게 개입했다는 혐의로 기소됐다. 전 전 실장은 공군 20전투비행단 소속이던 이 중사가 2021년 3월 선임 부사관에게 성추행을 당한 뒤 군검찰 수사가 진행 중이던 같은 해 5월 극단적 선택을 하는 과정에서 부실 초동 수사의 책임자로 지목됐다.&lt;br&gt;&lt;br&gt;국방부는 전 전 실장의 수사 지휘에 잘못이 있었다고 보고, 같은 해 11월 징계안에 따라 전 전 실장을 ‘준장’에서 ‘대령’으로 강등했다. 민주화 이후 장군이 강등된 첫 사례였다. 이에 불복해 전 전 실장은 징계를 취소해 달라는 행정소송과 징계 처분의 효력정지를 신청했다. &lt;br&gt;&lt;br&gt;1심은 효력정지 신청을 받아들였지만 본안 소송에선 청구를 받아들이지 않았다. 2심 또한 패소로 판결했다. 다만 1심과 달리 ‘사건의 수리 보고가 적시에 이뤄지지 않도록 방치했다’거나 ‘강제추행 사건 지휘·감독 의무를 다하지 않았다’는 징계 사유는 인정하지 않았다. &lt;br&gt;&lt;br&gt;한편 전 전 실장은 작년 4월 이 사건과 관련해 특정범죄가중처벌법상 면담강요 등 혐의로 기소됐으나 무죄가 확정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 김용원 전 인권위 상임위원 강요미수 혐의로 송치</title>
+      <link>https://www.chosun.com/national/incident/2026/02/13/Y6Y5YWLSZZH3PAWILRJEU4WVR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/13/Y6Y5YWLSZZH3PAWILRJEU4WVR4/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 08:58:59 +0000</pubDate>
+      <content:encoded>3대 특검 이첩 사건을 수사하는 경찰청 특별수사본부가 김용원 전 인권위원회 상임위원을 강요미수 혐의로 13일 서울중앙지검에 불구속 송치했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDDE54GXVFLWTM23APSGTQS4BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용원 전 국가인권위원회 상임위원이 이달 초 열린 이임식에서 이임사를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 상임위원은 정보공개청구를 통해 외부에 공개된 ‘고 채 상병 순직사건 수사 관계자에 대한 부당한 수사 및 징계’ 관련, 인권위 직원에게 ‘송두환 당시 인권위원장이 불법적인 정보공개를 지시했다’는 각서를 쓰도록 강요한 혐의를 받는다. 다만 실제 각서가 작성되지는 않아 강요미수 혐의가 적용됐다. 당초 거론됐던 직권남용 혐의는 미수에 대한 처벌 규정이 없어 불송치 결정했다.&lt;br&gt;&lt;br&gt;한편 김 전 상임위원과 이충상 전 인권위 상임위원은 인권위 회의에서 중도 퇴장하거나 불참석하는 등 직무유기 혐의로도 입건됐다. 그러나 경찰 수사 결과 당시 안건은 모두 처리된 것으로 확인됐다. 이에 경찰은 이들이 의식적으로 직무 수행을 포기한 것으로는 보기 어렵다는 이유로 관련 혐의에 대해서도 불송치 결정했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>사업가에게 7억대 뇌물 받은 경무관, 1심 징역 10년·벌금 16억원 선고</title>
       <link>https://www.chosun.com/national/court_law/2026/02/13/6VF6OTHCGVELBILU7WH4M6H22Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/6VF6OTHCGVELBILU7WH4M6H22Y/</guid>
@@ -775,15 +832,6 @@
       </media:content>
     </item>
     <item>
-      <title>저출생·고령화로 2030년부터 취업자 수 감소 시작</title>
-      <link>https://www.chosun.com/national/labor/2026/02/12/MZNCQPH6JNEFDGRE6X2UTDUNRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/02/12/MZNCQPH6JNEFDGRE6X2UTDUNRQ/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 06:03:21 +0000</pubDate>
-      <content:encoded>우리 사회의 저출생·고령화 추세로 인해 2030년부터 경제활동인구(15~64세)가 감소세에 접어든다는 전망이 나왔다. 전체 인구에서 65세 이상 고령층 비율이 늘어나면서 노동력 공급이 줄어들 것이라는 분석이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KHJE3EVD5JQVJAO57ID2DYZFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 서울 마포구 서울서부고용복지플러스센터에서 구직자들이 채용 정보를 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 한국고용정보원은 2034년까지 우리나라 노동시장의 공급(경제활동인구)과 수요(취업자)를 분석한 ‘중장기 인력 수급 전망’을 발표했다. 이에 따르면 우리나라 취업자 수는 2029년 2894만2000명으로 정점을 찍은 뒤 감소한다. 2029년까지는 36만7000명 증가하겠으나, 이후 2030년부터 4년간은 30만3000명 감소할 것으로 추산된다. 취업자 수가 사실상 정체 국면에 진입한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLH7B2ATPFBM7EZFYZI3OPLFYY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산업별로는 고령화와 돌봄 수요가 늘어나며 사회복지업(69만2000명)과 보건업(29만명)에서 취업자 수가 크게 늘어날 것으로 전망됐다. 인공지능(AI)과 디지털 기술과 밀접한 연구개발업(5만8000명), 컴퓨터 프로그래밍 등 정보통신 관련 산업(5만5000명)도 취업자 수가 늘어날 것으로 예상된다.&lt;br&gt;&lt;br&gt;반면 소매업은 29만명이 감소할 것으로 예상되며 예상 감소 폭이 가장 컸다. 온라인 플랫폼에서 물건을 구입하는 경향이 확대되기 때문인 것으로 분석됐다. 인구 구조 변화와 건설업 불황으로 종합건설업(10만4000명 감소) 역시 큰 폭으로 줄어들 것으로 예상됐고, 인공지능 로봇 도입 등으로 인해 자동차 제조업(7만1000명 감소)에서도 취업자 수가 크게 줄어들 것으로 전망됐다. &lt;br&gt;&lt;br&gt;직업별로는 돌봄보건서비스직(23만1000명)이 가장 많이 늘어날 것으로 예상되고, 반대로 매장판매직(19만6000명 감소)은 가장 많이 줄어들 것으로 보인다. 고용정보원 관계자는 “인공지능 확산과 자동화 추세로 전체적으로 인력 수요가 줄어들 것으로 보인다”면서도 “인공지능이 대체하기 어려운 고숙련·기술 기반 직종은 인력 수요가 오히려 늘어날 것”이라고 말했다.&lt;br&gt;&lt;br&gt;고용정보원은 앞으로 경제성장률 전망치(2%)를 유지하려면 2034년까지 추가로 122만명의 인력이 필요하다고 분석했다. 노동력 감소에 대응하려면 청년·여성·고령자의 노동시장 진입을 촉진해야 한다는 설명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘33kg 구조물’ 야구팬 덮친 비극... 전 과정 부실이 부른 인재였다 </title>
       <link>https://www.chosun.com/national/2026/02/12/M4LAB3UPUFF4BLBFHAV5PTOQ6U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/02/12/M4LAB3UPUFF4BLBFHAV5PTOQ6U/</guid>
@@ -791,15 +839,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 08:11:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KG4ANFOIQZNEZJR4H3FWSJTV5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 경남도 사고조사위원회가 경남도청에서 작년 3월 발생한 창원NC파크 외부 구조물 탈락 사고 조사 결과를 발표하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 3월 경남 창원NC파크에서 외장 구조물(루버)이 떨어져 관중 1명이 숨진 사고가 설계부터 발주·시공·유지 및 관리 전 과정에서의 관리 미흡 등 복합적 요인에 따른 것이라는 전문가의 판단이 나왔다. 유족과 노동계는 “유족을 배제하고 내부 판단만으로 결정했다”며 반발했다.&lt;br&gt;&lt;br&gt;경남도 사고조사위원회(이하 사조위)는 12일 경남도청 브리핑룸에서 창원NC파크 외장 구조물 탈락 사고 조사 결과를 발표했다. 사고 발생 11개월여 만이다. 사조위는 구조·품질 분야, 시공·자재 분야, 법률·제도 분야 등 총 11명의 전문가로 구성됐다. &lt;br&gt;&lt;br&gt;사조위가 조사한 사고는 작년 3월 29일 오후 5시쯤 프로야구 NC다이노스의 홈구장 창원NC파크 3루 매점 쪽 4번 게이트 부근에서 발생했다. 구단 사무실 외벽에 붙어 있던 무게 33㎏짜리 알루미늄 외장 구조물 ‘루버’가 17.5m 아래로 떨어지면서 야구 팬 3명이 다쳤다. 이 중 머리를 크게 다친 20대 여성 1명이 사고 이틀 만에 숨졌다. 루버는 에너지 절약과 미관 개선용으로 쓰인다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULWLWS2Q65JWRLJ4BJMOZCOG3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 3월 29일 경남 창원NC파크에서 NC 다이노스와 LG 트윈스 경기 중 3루 방향 건물에 설치된 외장 마감 자재(알루미늄 소재 루버)가 떨어져 관람객을 덮친 사고 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 사조위는 직·간접적 요인이 복합적으로 작용해 이 루버가 떨어졌다고 판단했다. 사조위는 2022년 12월쯤 창문 유리 파손으로 보수 공사를 하는 과정에서 문제의 루버를 일시적으로 해체했다가 다시 부착한 것을 확인했다. 사조위는 루버를 외벽에 고정하는 부품들이 규격에 맞지 않는 등 적절하게 사용되지 않았다고 했다. &lt;br&gt;&lt;br&gt;구체적으로 루버 상부 화스너(볼트·너트 등 고정 부품) 체결부에 볼트 풀림 방지를 위한 부자재인 너트·와셔가 적절하게 사용되지 않았거나, 볼트 규격에 맞지 않은 와셔를 사용한 점을 확인했다고 한다. 이 같은 부적합한 부품 사용으로 체결력이 약한 상태에서 외부 바람 등에 의해 반복적인 진동이 발생했고, 볼트·너트 등이 차례로 이탈하면서 루버가 떨어졌다고 본 것이다. &lt;br&gt;&lt;br&gt;사조위 측은 유리 교체 및 재설치 과정에서 루버에 대한 전문성이 없는 업체가 공사를 한 부분에 대해 아쉬움이 있었다고 했다. 사조위는 떨어진 루버를 비롯해 야구장 시설에 부착된 루버 313개 모두가 이런 식으로 부적합한 부자재 등의 부품이 사용됐다고 했다. &lt;br&gt;&lt;br&gt;사조위는 간접적 요인으로 실시설계 도면과 시방서에서 구조물과 관련된 충분한 정보가 제공되지 않은 점, 시공 과정에서 책임 구분의 모호성, 건설사업관리자의 관리·감독 업무가 충분히 이뤄지지 않은 점, 유지 관리 단계에서 점검·관리가 충분하지 않았던 점 등을 간접적 사고 원인으로 진단했다. &lt;br&gt;&lt;br&gt;특히 루버 등 구조물에 대한 점검이 형식상에 그쳤다고 지적했다. 박구병 사조위원장은 “이번 사고는 특정한 단일 단계의 과실이기보다는 루버 체결부의 구조적·기술적 결함과 설계·발주·시공·유지 관리 등 모든 단계에서의 관리 미흡이 누적돼 발생한 사고”라는 결과를 냈다.&lt;br&gt;&lt;br&gt;사조위는 이날 사고 책임 주체에 대해서는 별다른 의견을 내지 않았다. 2019년 준공된 창원NC파크 소유주는 창원시, 구장 관리 등은 창원시설공단이 맡고 있다. NC다이노스는 이 구장을 위탁 운영하고 있다. &lt;br&gt;&lt;br&gt;사조위는 이날 결과를 바탕으로 국토교통부와 경남도 등 관계 기관에 재발 방지 대책을 제안했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SB3U53VOQRMV5ASJ7FMQ75QUNQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 4월2일 오후 경기 수원시 장안구 KT위즈파크에서 열린 '2025 신한 SOL 뱅크 KBO리그' LG 트윈스와 KT 위즈의 경기 시작 전 양 팀 선수단이 창원NC파크 사고 희생자 추모 묵념을 하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 사조위 발표와 관련해 창원시는 “사조위 결과 보고서를 받는 대로 면밀히 검토해 보완해가겠다”며 “사전적으로 공정 과정에 대한 관리 감독도 강화해 이런 불상사가 반복되지 않도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;한편, 이날 희생자 유족은 경남도청 앞에서 기자회견을 열고 “아직 누구도 책임을 지지 않았고, 유족은 여전히 사고의 전모를 알지 못한 채 남겨져 있다”며 “경찰 수사가 끝까지 흔들림 없이 진행돼, 책임 있는 자는 반드시 법적 책임을 져야 한다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이 사고와 관련해 NC다이노스 대표, 창원시설공단 전 이사장, 창원시설공단 이사장 등을 중대재해처벌법 및 업무상 과실치사상 혐의로 조사하고 있다. 경남경찰청 관계자는 “사조위 조사 결과를 참고해 형사 책임 대상자에 대해 엄정 수사할 예정”이라며, “구체적인 수사 사안은 신속한 수사 마무리 후 별도로 밝히겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 명태균 ‘공천 대가 돈 거래’ 1심 무죄에 항소 </title>
-      <link>https://www.chosun.com/national/2026/02/12/J47OAMEDMZHP3NYO76XACQLQOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/12/J47OAMEDMZHP3NYO76XACQLQOE/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 06:50:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVT2QEBKKJOC3DTL7GLIZTUJYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 정치자금법 위반 혐의로 기소된 정치 브로커 명태균씨가 1심 재판에서 무죄 선고를 받은 후 취재진 질문에 답하며 웃고 있다. 이날 명씨에게는 증거은닉 교사 혐의에 대해서만 징역 6개월에 집행유예 1년이 선고됐다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 국회의원 공천 대가로 금품을 주고받은 혐의(정치자금법 위반)로 기소된 정치 브로커 명태균씨에 대해 무죄를 선고한 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;창원지검은 12일 명씨와 김영선 전 국회의원 등 피고인 5명에 대한 정치자금법 위반 사건 1심 판결과 관련해 사실 오인과 법리 오해를 이유로 항소했다고 밝혔다. &lt;br&gt;&lt;br&gt;창원지법 형사4부(재판장 김인택)는 지난 5일 명씨와 김 전 의원 등의 정치자금법 위반 혐의에 대해 모두 무죄를 선고했다. 검찰은 명씨와 김 전 의원에게 각각 징역 5년을 선고해 달라고 요청했었다. &lt;br&gt;&lt;br&gt;명씨는 2022년 국회의원 보궐선거를 앞두고 김 전 의원의 경남 창원 의창 지역구 국민의힘 후보 공천을 도운 대가로, 같은 해 8월부터 15개월간 김 전 의원의 회계 담당자였던 강모씨를 통해 8070만원을 받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;또 김태열 전 미래한국연구소장과 함께 2022년 6·1 지방선거를 앞두고 당시 경북 고령군수와 대구시의원 예비후보로 출마한 배모씨와 이모씨에게 지방선거 공천 추천과 관련해 2억4000만원을 받은 혐의도 받는다. &lt;br&gt;&lt;br&gt;1심 재판부는 명씨와 김 전 의원, 김 전 소장과 배씨, 이씨 모두에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 명씨와 김 전 의원 사이에 오간 돈의 성격을 명씨가 김 전 의원 지역구 사무실 총괄본부장으로 일하면서 받은 급여와 채무 변제금이라고 판단했다. 공천 대가로 건네진 불법 정치자금으로 보기 어렵다는 취지다. &lt;br&gt;&lt;br&gt;배씨, 이씨와의 돈거래에 대해서도 재판부는 “당시 배씨, 이씨가 선거 출마를 확정하지도 않은 것으로 보이고 김 전 의원이 배씨, 이씨 공천을 위해 노력했다고 인정할 증거가 없는 점, 명씨 역시 유력 정치인과 교류하는 정도에 불과해 공천에 영향을 끼칠 정도의 영향력이 있었다고 보이지 않는 점” 등을 이유로 무죄를 선고했다.&lt;br&gt;&lt;br&gt;다만 재판부는 명씨가 휴대전화 3대와 USB 등을 처남에게 숨기라고 지시한 혐의(증거은닉교사)는 유죄로 보고 명씨에게 징역 6월에 집행유예 1년을 선고했다. 검찰은 이 부분도 양형이 부당하다며 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 운세] 2월 13일 금요일 (음력 12월 26일 戊午)</title>
@@ -810,15 +849,6 @@
       <pubDate>Thu, 12 Feb 2026 08:00:00 +0000</pubDate>
       <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>‘시흥서 중국인 형제 살인’ 차철남, 2심도 무기징역</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/WSNYAXNAI5D3DN2UKJ2GNL5GXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/WSNYAXNAI5D3DN2UKJ2GNL5GXA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 07:54:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DGYZAGHPBFU7OUXSTDRGUKADA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차철남이 작년 5월 19일 경찰에 긴급체포돼 경기 시흥경찰서로 압송되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥에서 중국 동포 2명을 살해하고, 내국인 2명을 흉기로 찌른 뒤 달아난 차철남(중국 국적)에게 2심 법원도 무기징역을 선고했다.&lt;br&gt;&lt;br&gt;수원고법 형사3부(재판장 김종기)는 12일 살인 및 살인 미수 혐의로 기소돼 1심에서 무기징역을 선고받은 차철남에 대한 선고 공판에서 검찰과 차철남의 항소를 모두 기각하고 1심 판결을 그대로 유지했다. 앞서 검찰은 사형을 구형했다.&lt;br&gt;&lt;br&gt;차철남은 작년 5월 17일 오후 4~5시쯤 같은 중국 동포인 50대 A씨 형제를 시흥시 정왕동에 있는 자신의 거주지와 인근에 있는 이들 형제의 집에서 둔기로 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;차철남은 이로부터 이틀 뒤인 같은 달 19일 오전 9시 34분쯤 주거지 인근 편의점에서 점주인 60대 여성 B씨를 흉기로 찌르고 달아난 뒤, 같은 날 오후 1시 21분쯤 인근 한 체육공원에서 자기 집 건물주인 70대 남성 C씨에게 흉기를 휘두른 혐의도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4WEMZWGY3WCMZTMFTDKY3FMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차철남은 경찰에 “가깝게 지낸 A씨 형제에게 2013년부터 수차례에 걸쳐 3000만원가량을 빌려줬는데, 이들이 갚지 않아 이달 초 흉기를 미리 구입해 범행을 계획했다”고 진술했다. B씨에 대해선 “험담을 해서”, C씨에 대해선 “(본인을) 무시해서”라고 각각 범행 동기를 진술한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이날 재판부는 “사형을 선고해 피고인의 생명을 박탈하는 것보다 영구히 사회에서 격리해 잘못을 진정으로 반성하게 하고 피해자들에게 속죄하면서 남은 생은 수감 생활을 하도록 하는 것이 상당하다고 본 원심의 판단은 너무 무겁거나 가볍지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한준호, 경기도지사 출마 선언... “이재명 정부 실용주의 완성할 것”</title>
@@ -840,24 +870,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ZODGFGS6LVDLLEBN5LTP2RIC3Q.jpg?auth=3ca0aba4ae54a29b7ce89864a161b62b1859485df3a8fef026172b70cb29fb76&amp;smart=true&amp;width=1920&amp;height=1080" type="image/jpeg" height="1080" width="1920">
         <media:description type="plain">12일 이상민 전 행정안전부 장관이 서울중앙지방법원에서 열린 내란 중요임무 종사 등 혐의 1심 선고 공판에서 선고를 받은 후 방청석을 보며 미소 짓고 있다. /서울중앙지법</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>민간업체에 뇌물 요구한 前 인천항만공사 임원… 징역 8년, 법정구속</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/ODFPC6R65BAKFNPFRPFRVID5LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/ODFPC6R65BAKFNPFRPFRVID5LY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 07:01:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYDKNLDHEZTQNDBMFRDEMRTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체육 시설 조성 사업 추진 과정에서 민간 업체에 수억 원의 뇌물을 요구한 인천항만공사 전·현직 임직원 2명이 중형을 선고받고 법정 구속됐다. &lt;br&gt;&lt;br&gt;인천지법 형사12부(재판장 최영각)는 12일 특정범죄가중처벌법상 뇌물 혐의로 기소된 전 인천항만공사 임원 A(62)씨에게 징역 8년과 벌금 4억원을 선고했다. 같은 혐의로 기소된 직원 B(54)씨에 대해선 징역 6년과 벌금 4억원을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “A씨가 착수금과 성공 보수, 용역비 등을 요구했는데, 뇌물을 특정해 요구하지 않았다는 건 말이 안 된다”며 “A씨는 뇌물과 관련 없다고 주장하지만, 여러 증인이 나와 일관되게 진술했다”고 했다. 이어 “(당시) 부사장 지위에 있어서 비난 가능성이 높다”며 “벌금형 외 처벌 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;B씨에 대해선 “뇌물을 요구하는 과정에서 핵심적인 역할을 했다”고 했다. &lt;br&gt;&lt;br&gt;검찰은 앞서 지난달 20일 이들의 결심 공판에서 A씨에게 징역 10년에 벌금 8억원을, B씨에게 징역 7년에 벌금 8억원을 각각 구형했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2023년 인천 북항 배후 부지 일대 체육 시설 조성 사업 추진 과정에서 민간 업체에 4억원 정도의 금품을 요구한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;이들의 뇌물 요구는 인천항만공사 자체 감사에서 일부 사실이 확인됐으나, 사업은 계획대로 추진되지 않았고 실제로 오간 금품은 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 임기가 끝나 퇴직했고, B씨는 직위 해제 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘부정선거 수사단’ 노상원, 2심도 징역 2년… “민간인 신분으로 군 인사 관여, 죄질 불량”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/3FTPGMC3PRCR3DLD7HCOWCNGMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/3FTPGMC3PRCR3DLD7HCOWCNGMU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 06:22:35 +0000</pubDate>
-      <content:encoded>부정선거 의혹을 수사할 비선 조직인 ‘제2수사단’을 구성한 혐의로 1심에서 실형을 선고받은 노상원 전 정보사령관이 항소심에서도 징역 2년을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이승한)는 12일 개인정보보호법 위반, 알선수재 혐의로 기소된 노씨와 특검 측 항소를 모두 기각하고, 1심이 선고한 징역 2년과 추징금 2490만원을 그대로 유지했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4DOOBYGAZTKMJRMYYWIMBUGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관(왼쪽). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노씨는 2024년 9~12월 부정선거 의혹 수사를 명목으로 제2수사단을 구성하기 위해 정보사에 정예 요원 46명을 선발하도록 하고, 이들의 인적 사항을 빼낸 혐의를 받는다. 또 현직 군 간부들에게 진급을 도와주겠다는 명목으로 현금 2000만원과 백화점 상품권 600만원어치를 받은 혐의도 있다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 전역한 민간인 신분임에도 군 인사권자와의 개인적 관계를 내세워 후배 군 인사에 관여하려 했고, 승진 청탁을 알선하는 목적으로 금품을 수수해 죄질이 불량하다”고 밝혔다. 또 “계엄 상황을 염두에 둔 준비 행위로 수사단 구성을 주도했고, 철저한 보안이 요구되는 특수임무요원들의 인적 사항을 권한 없이 수집해 죄책이 무겁다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “후배 군인들에게 책임을 돌리거나 진술이 허위라고 주장하는 태도로 일관하고 있다”며 “별건으로 내란 중요 임무 종사 혐의 재판을 받고 있고 선고가 예정된 점 등을 감안해 원심 형이 지나치게 무겁거나 가볍다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사람에게 달려들 줄 몰랐는데 착각이었다”…전주 공포에 떨게한 들개떼  </title>
@@ -912,15 +924,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 01:29:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4WOLNCO7FJY3CUMUDOETC6E4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 수유동의 한 모텔에서 약물이 든 음료를 건네 타인을 숨지게 한 혐의를 받는 20대 여성이 12일 오전 서울북부지법에서 열린 구속영장 실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;약물이 든 음료를 먹여 남성 2명을 사망에 이르게 한 혐의를 받는 20대 여성이 구속 기로에 놓였다.&lt;br&gt;&lt;br&gt;서울북부지법은 12일 오전 10시 30분부터 상해치사, 마약류관리법 위반 혐의를 받는 피의자 A씨에 대한 구속영장 실질심사를 연다. &lt;br&gt;&lt;br&gt;이날 오전 9시 55분쯤 법원 앞에 도착한 A씨는 “약물 건넨 이유가 뭔가” “살인할 의도가 있었나” “숨진 이들과 어떤 관계인가” 등 취재진 질문에 고개를 숙인 채 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 9일 오후 8시 30분쯤 피해자인 20대 남성 B씨와 서울 강북구 수유동의 한 모텔에 들어갔다가 그에게 약물이 든 음료를 건네 사망에 이르게 한 혐의를 받는다. A씨는 2시간쯤 뒤 홀로 건물을 빠져나온 것으로 전해졌다. B씨는 다음날인 지난 10일 오후 숨진 채 발견됐고, 경찰은 같은 날 밤 9시쯤 A씨를 긴급체포했다. 경찰은 피해자가 마신 음료에 향정신성 약물이 포함된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨뿐 아니라 또 다른 죽음과도 밀접한 연관이 있는 것으로 의심하고 있다. 지난달 말 강북구의 다른 모텔에서도 남성 C씨가 숨진 채 발견됐는데 경찰은 당시 A씨가 C씨와 함께 모텔 방에 있던 사실을 확인했다. C씨 역시 사망 전 A씨로부터 받은 음료를 마신 정황이 드러났다고 한다.&lt;br&gt;&lt;br&gt;A씨의 범행은 이뿐만이 아니다. 경찰은 지난달 말쯤 한 20대 남성으로부터 “A씨가 건넨 음료를 마시고 기절했다”는 내용이 담긴 고소장을 접수했다. 이 피해자 역시 A씨로부터 약물이 든 음료를 받아 마시고 이틀 만에 가까스로 깨어난 것으로 전해졌다. 그는 경찰 조사에서 “A씨와 교제하던 사이였다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 남성들에게 약물이 든 음료를 준 사실은 인정하면서도 “죽을 줄은 몰랐다”는 취지로 진술했다고 한다. A씨가 피해자 3명과 모두 교제했을 가능성을 염두에 두고 수사를 진행 중인 경찰은 A씨에 대해 사이코패스 검사를 실시하는 방안도 검토 하고 있다. A씨는 현재 직업이 없는 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘커피 나오셨습니다’ ‘말씀이 계시겠습니다’… 국민 93% “과도한 높임 개선돼야”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/UE2WMH5HAZC3TOTORA7PPZFFGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/UE2WMH5HAZC3TOTORA7PPZFFGI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:02:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6LVVDHJ5JDNTDVR3P6I35WCTA.png"&gt;&lt;figcaption&gt;&lt;small&gt;'개선이 필요한 공공언어 국민 설문조사' 결과. /문화체육관광부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민 10명 중 9명 이상이 ‘말씀이 계시겠습니다’와 같은 과도한 높임 표현을 바꿔야 할 잘못된 표현이라고 인식했다.&lt;br&gt;&lt;br&gt;문화체육관광부와 국립국어원은 12일 이 같은 내용을 포함한 ‘개선이 필요한 공공 언어 국민 설문조사’ 결과를 발표했다. 언론계·학계·시민단체 등이 참여한 자문회의를 통해 고쳐야 할 표현 30개를 선별한 뒤, 작년 12월 24∼30일 14∼79세 남녀 3000명을 대상으로 개선 필요 여부를 조사했다.&lt;br&gt;&lt;br&gt;조사 대상 중 개선 필요성이 가장 높게 나타난 항목은 ‘말씀이 계시겠습니다’ ‘커피 나오셨습니다’ 등 과도한 높임 표현이었다. 응답자 93.3%가 ‘바꿔야 한다고 생각한다’고 답했다.&lt;br&gt;&lt;br&gt;문장의 주어를 높이는 선어말 어미인 ‘시’는 사람이 아닌 사물이 주어인 문장에서는 사용할 필요가 없다고 문체부는 설명했다. ‘말씀이 계시겠습니다’는 ‘말씀이 있겠습니다’로, ‘커피 나오셨습니다’는 ‘커피 나왔습니다’로 바꿔 사용하면 된다.&lt;br&gt;&lt;br&gt;‘되’와 ‘돼’의 잘못된 사용에 대해서도 개선 필요성을 지적하는 응답(90.2%)이 많았다. 문체부는 ‘되’는 ‘되다’의 어간으로 ‘되어’ ‘되었’ ‘되어서’로 쓰거나, 줄여서 ‘돼’ ‘됐’ ‘돼서’로 표기하면 된다고 했다.&lt;br&gt;&lt;br&gt;이 밖에 ‘맘충·급식충’(87.1%)이나 ‘장애를 앓다’(78.7%)와 같은 혐오·차별 표현과 ‘염두하다’(74.8%), ‘알아맞추다’(71.2%)와 같은 오류 표현에 대한 개선 필요성도 높게 나타났다. ‘맘충·급식충’은 사용을 자제하고, 나머지는 ‘장애를 가지다’ ‘염두에 두다’ ‘알아맞히다’ 등으로 각각 바꿔 쓰면 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>조희대, 4심제 공개 반대... “국민에 엄청난 피해 간다”</title>
