@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>롯데 선수 4명, 전지훈련 중 ‘불법 게임장’ 방문… 구단 “즉각 귀국 조치”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/7W2S23Y4PFDS7BPMBBXTNT3FYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/7W2S23Y4PFDS7BPMBBXTNT3FYU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 14:31:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYDAMRZME3TOZLGGQ2DCNTGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 롯데 자이언츠가 대만 스프링캠프 기간 불법 장소에 출입한 선수 4명을 즉각 귀국 조치한다.&lt;br&gt;&lt;br&gt;롯데 구단은 13일 저녁 입장문을 통해 “먼저 선수단 관련 내용으로 심려를 끼쳐 드려 사과드린다”며 “선수 면담 및 사실관계 파악 결과, 나승엽·고승민·김동혁·김세민 선수가 해당 국가에서 불법으로 분류돼 있는 장소를 방문한 것을 확인했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이유를 불문하고 KBO와 구단 내규에 어긋나는 행위를 저지른 해당 선수 4명을 즉각 귀국 조치할 예정”이라며 “또한 KBO(한구야구위원회) 클린베이스볼센터에 즉각 신고하고, 결과에 따라 구단도 이에 상응하는 조치를 내리겠다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “구단은 현 상황을 심각하게 느끼고 있다”며 “전수 조사를 통해 추가로 확인되는 부분에 대해서는 엄중히 대처하겠다”고 했다. 끝으로 “물의를 일으켜 다시 한 번 사과드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 온라인상에 롯데 소속 선수들이 게임장에 방문한 모습의 영상이 확산하면서 ‘불법 도박장 방문’ 논란이 불거졌다. 게임장 모습 등을 토대로 이들이 방문한 장소가 사행성 불법 도박장이 아니냐는 지적이 나온 것이다. 영상 속 특정 장면을 두고 성추행 의혹이 제기되기도 했다. 다만 구단은 성추행 의혹에 대해서는 “접촉이 없었던 것으로 확인됐다”며 “사실이 아니다”라고 선을 그었다.&lt;br&gt;&lt;br&gt;롯데는 지난달 25일부터 대만 타이난 아시아태평양 국제야구센터에서 스프링캠프를 진행하고 있다. 선수들은 캠프 휴식일이었던 12일 게임장을 방문한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;롯데는 오는 14~15일 대만프로야구(CPBL) 타이강 호크스와 2차례 연습경기를 치른다. 19일까지 타이난에서 1차 캠프를 마친 뒤 20일 일시 귀국한 뒤 일본 미야자키로 이동해 구춘리그 참가 등 실전 연습경기를 치를 예정이다. 다만 이번 논란에 연루된 선수 4명에게 즉각 귀국 조치가 내려지면서 캠프 명단 수정이 불가피해졌다.&lt;br&gt;&lt;br&gt;징계 역시 불가피할 것이란 시각이 나온다. KBO 규약 제151조에 따르면, 등록 선수가 도박(불법 인터넷 도박 포함)을 했을 경우 1개월 이상의 참가활동정지나 30경기 이상의 출장정지 또는 300만원 이상의 제재금을 물릴 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>엄성규 부산경찰청장 직무대리, 19일자로 근무 해제</title>
+      <link>https://www.chosun.com/national/regional/2026/02/13/MFD3HML7KFFCFPAJS6LMTLGGYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/13/MFD3HML7KFFCFPAJS6LMTLGGYQ/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 12:49:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTGKY3GGIZTCOBYMVQWMYZVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엄성규 부산경찰청장 직무대리./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엄성규 부산경찰청장 직무대리의 근무가 19일 자로 해제된다.&lt;br&gt;&lt;br&gt;부산경찰청은 13일 오후 8시 30분쯤 경찰청으로부터 엄 청장의 부산경찰청장 직무대리 근무가 오는 19일자로 해제된다는 인사 명령이 하달됐다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “직무대리 체제인 엄 청장은 부산경찰청 소속이 아닌 경찰청 경무기획관실 소속”이라면서 “경찰청 경무기획관실로 복귀하게 된다”고 했다.&lt;br&gt;&lt;br&gt;엄 청장은 강원경찰청장 재직 당시 계엄 경찰 내부망에 불법 계엄에 저항하자는 취지의 글을 게시한 경찰관에게 해당 글을 삭제하라고 지시한 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;이에 대해 엄 청장은 “계엄 직후 어떤 상황인지 모르니 해당 서장에게 ‘자중하자’ ‘정치적 언행을 삼가는 게 좋겠다’는 권고 수준의 언급이었다”며 “글을 삭제하란 적도 없고, 헌법존중TF에서 조사받은 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;전날 총리실 헌법존중TF는 계엄에 가담한 경찰 16명에 대해 중징계를 요청했다. 이 중 상당수가 국회 봉쇄에 가담했던 경찰청·서울경찰청의 경비 지휘관으로 전해졌다. 또 6명에겐 경징계 조치를 요구했다. TF는 엄 청장이 징계 대상에 포함되지 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;엄 청장은 지난해 9월 25일 경찰 치안정감 인사 때 강원경찰청장에서 부산경찰청장 직무대리로 임명됐고, 같은 달 29일 취임했다.&lt;br&gt;&lt;br&gt;제주 출신인 엄 청장은 1997년 경찰 간부 후보생 45기로 입직해 충북 음성경찰서장, 서울경찰청 제3기동단장, 서울 남대문경찰서장, 서울경찰청 경비과장 등을 지냈다. 2023년 치안감으로 승진한 뒤 경찰청 경비국장과 강원특별자치도경찰청장 등을 역임했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“학폭 배우로 손해”… 지수 前 소속사, 8억8000만원 배상 판결</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/WMFCRRAVPZFHPHRZVAYF3IGIEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/WMFCRRAVPZFHPHRZVAYF3IGIEQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 13:46:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGBBYKLYVNAYZD3Z6TNNDO7ZYM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 지수. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KBS 드라마 ‘달이 뜨는 강’ 주연을 맡았다가 학교폭력 의혹이 불거져 하차한 배우 지수의 전 소속사가 드라마 제작사에 8억8000만원을 배상해야 한다는 2심 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울고법 민사38-1부(정경근·박순영·박성윤 고법판사)는 13일 드라마 제작사 빅토리콘텐츠가 지수의 옛 소속사 키이스트를 상대로 낸 손해배상 청구 소송에서, 소속사가 8억8000만여 원과 지연이자를 지급하라며 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;이는 2024년 1심이 산정한 배상액 약 14억2000만원보다 약 5억4000만원 줄어든 금액이다.&lt;br&gt;&lt;br&gt;앞서 2021년 3월 KBS 2TV 월화극 ‘달이 뜨는 강’이 6회까지 방송된 시점에 남자 주인공 온달 역을 맡은 지수에게 학교폭력 의혹이 불거졌다. 당시 온라인에는 지수로부터 학교폭력을 당했다는 글이 잇달아 올라왔고, 지수는 일부 가해 사실을 인정한 뒤 자진 하차했다. 지수는 자필 사과문에서 “용서받을 수 없는 행동들이었다”며 “저로 인해 피해를 본 모든 분께 무릎 꿇어 진심으로 사죄드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;당시 촬영은 전체 20회 중 18회까지 마친 상태였다. 지수의 자진 하차로 제작사는 7회부터 나인우를 대타로 투입해 다시 제작했고, 드라마가 안정을 되찾자 1~6회도 재촬영했다.&lt;br&gt;&lt;br&gt;이후 빅토리콘텐츠는 지수의 당시 소속사였던 키이스트를 상대로 “주연 교체에 따라 발생한 추가 제작비로 피해를 봤다”며 30억원대 손해배상 청구 소송을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 중대재해법 1호 사고 삼표그룹 회장 무죄에 항소</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/02/13/44LVVBADGZHJRMGD2LMMAD5AI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/02/13/44LVVBADGZHJRMGD2LMMAD5AI4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 11:00:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZDANDDGUYWCYTCMJQTGM3DMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중대재해 처벌 등에 관한 법률(중대재해법) 시행 이후 처음으로 발생한 사고인 양주 채석장 붕괴 사고와 관련해 무죄가 선고된 삼표그룹 정도원 회장에 대해 검찰이 항소했다.&lt;br&gt;&lt;br&gt;의정부지검은 중대재해법 위반 혐의로 기소된 정 회장에게 무죄를 선고한 1심 판결에 불복해 항소장을 제출했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;의정부지검 관계자는 “재판부의 사실 오인과 법리 오해, 양형 부당 등의 이유로 항소했다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 1심 재판에서 정 회장이 그룹 경영 전반에 대한 보고를 받고 주요 사안을 지시하는 등 중대재해법상 실질적인 경영 책임자에 해당한다고 보고 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;이에 대해 의정부지법은 지난 10일 “정 회장이 중대재해법에서 규정하는 경영 책임자에 해당한다고 인정하기에는 부족하다”면서 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰이 1심 판결에 불복함에 따라 항소심은 의정부지법에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>현직 법관 “본질 다른 독일 모델 재판소원 도입 추진엔 치명적 오류 있어”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/13/TNFKI7CXKJA77KEHDKDDF365LI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/TNFKI7CXKJA77KEHDKDDF365LI/</guid>
@@ -775,33 +811,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3GCNRTMEYTCMJTGUYDKNBVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 12일 서울중앙지방법원에서 열린 내란 중요임무 종사 등 혐의 1심 선고 공판에 출석해 선고를 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 중요 임무 종사 등 혐의로 기소된 이상민 전 행정안전부 장관이 1심에서 징역 7년형을 선고받은 직후 법정에는 응원의 목소리가 울려 퍼졌다. 재판 내내 무표정을 유지하던 이 전 장관은 이를 듣고 미소를 지어 보였다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사32부(재판장 류경진)는 12·3 비상계엄 당시 소방청에 언론사 5곳의 단전·단수 지시를 한 혐의를 받는 이 전 장관의 선고 재판을 진행했다. 재판부는 “피고인은 윤석열 전 대통령에게 국회 등 봉쇄 계획 및 언론사 단전·단수 지시가 담긴 문건을 받았고, 허석곤 당시 소방청장에게 구체적인 업무 지시를 한 것으로 보는 것이 타당하다”며 이 전 장관이 내란 행위의 중요임무에 종사했다고 봤다.&lt;br&gt;&lt;br&gt;재판부가 양형 이유를 설명하는 내내 이 전 장관은 입을 굳게 다물고 정면을 바라봤다. 재판부가 기립을 요구하고 “주문, 피고인을 징역 7년에 처한다”고 선고할 당시에도 표정에는 변화가 없었다.&lt;br&gt;&lt;br&gt;재판이 끝나고 이 전 장관이 퇴장하기 직전 이 전 장관의 가족들은 응원의 메시지를 보냈다. 이 전 장관의 딸은 “아빠 괜찮아, 사랑해. 힘내”라고 말했고, 아내는 “우리가 진실을 아니까”라고 했다. 이 전 장관은 이에 방청석을 바라보며 미소를 지었고, 손을 흔들며 퇴장했다.&lt;br&gt;&lt;br&gt;선고 직후 조은석 특별검사팀의 장우성 특별검사보는 “형량에 아쉬움이 있지만, 판결 이유를 면밀히 분석한 후 항소 여부를 결정하겠다”고 했다. 이 전 장관 측도 “당연히 항소할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘피해자 보복 협박’ 부산 돌려차기 男, 징역 1년 추가</title>
-      <link>https://www.chosun.com/national/regional/2026/02/12/4A7CULA7BBGOFGLU3GQ4HLVRWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/12/4A7CULA7BBGOFGLU3GQ4HLVRWY/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 06:13:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TEYLGGBSWKZBZMI4DOZLCGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 5월22일 부산 부산진구 서면 오피스텔 1층 복도에서 발생한 '부산 돌려차기' 사건과 관련해 가해 남성 A씨가 피해자를 발로 차고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해자에게 보복하겠다는 협박 발언을 한 혐의로 재판에 넘겨진 ‘부산 돌려차기’ 사건 가해자 이모(33)씨가 징역 1년을 추가로 받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 김주관)는 특정범죄가중처벌법상 보복 협박 등 혐의로 기소된 이씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;이씨는 2023년 2월 동료 수감자이자 유튜버인 A씨에게 ‘부산 돌려차기 사건’ 피해자인 김진주(필명)씨를 폭행해 살해하겠다는 등 보복 협박성 발언을 한 혐의를 받는다. 이씨의 이 같은 발언은 A씨가 출소한 뒤 개인 방송 등을 통해 해당 사실을 알리면서 드러났다.&lt;br&gt;&lt;br&gt;이씨는 또 부산구치소 수감 중 자신의 전 여자 친구에게 수차례 협박 편지를 보내고, 같은 방 재소자에게 접견 구매물 반입을 강요한 혐의도 받는다.&lt;br&gt;&lt;br&gt;이씨 측은 “김씨를 상대로 보복 의사가 없었다”며 무죄를 주장했다. 하지만 재판부는 이씨의 모든 혐의에 대해 유죄로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “보복 협박과 모욕 혐의와 관련해 A씨와 다른 수감자 증인들 역시 일관된 진술을 하고 있으며, 이는 상당히 구체적으로 직접적인 경험을 하지 않으면 할 수 없는 내용”이라며 “이들이 허위 진술을 할 만한 고의나 정황 역시 없고 신빙성을 의심할 만한 사정도 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 양형에 대해선 “이씨는 피해자의 생명을 위협하는 중대한 범죄를 저질러 수감돼서도 반성하지 않고 추가 범행에 이른 것으로 죄책이 무겁고 비난 가능성도 매우 높다”며 “육체적·정신적 고통을 겪은 피해자가 재차 고통을 겪은 것으로 보이는 점 등을 참작한다”고 판시했다.&lt;br&gt;&lt;br&gt;이날 선고 공판을 방청한 김씨는 “(형량이) 굉장히 작다”면서 “한 사람의 피해가 또 다른 피해로 이어지는 보복 범죄와 관련해 이게 최선인가 싶다”고 했다. 이어 “복수 피해를 막아야 하는 국가가 어떻게 보면 방임을 한 건데 굉장히 무책임하다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 13일 열린 결심 공판에서 이씨에게 징역 3년을 구형했다. 이 사건은 2023년 12월 검찰 기소 이후 2년여 만에 1심 판결이 내려졌다. 이씨는 기일 변경 신청을 하거나 공판 불출석으로 재판 절차가 지연됐다.&lt;br&gt;&lt;br&gt;이씨는 2022년 5월 22일 오전 5시쯤 부산진구 한 길거리에서 일면식도 없던 김씨를 성폭행하기 위해 뒤쫓아가 무차별 폭행한 이른바 ‘부산 돌려차기’ 사건으로 대법원에서 징역 20년형이 확정돼 현재 복역 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>살인죄로 20년 복역 전과자, 또 살인 저질러 징역 30년</title>
-      <link>https://www.chosun.com/national/incident/2026/02/12/QZKSQ2SXZNC6LBB234N55GFPCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/12/QZKSQ2SXZNC6LBB234N55GFPCA/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 08:30:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVX2J24S5QA5IHHKMVWRVSWRKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강도 살인죄로 징역 20년을 복역한 뒤 출소 10개월 만에 지인을 살해한 50대가 1심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 김주관)는 12일 살인 등 혐의로 기소된 A씨에게 징역 30년을 선고하고, 10년간의 위치추적 전자장치 부착 명령을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 심신 미약 상태에서 범행을 저질렀다고 주장했지만, 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “살인죄로 장기간 복역한 뒤 불과 10개월 만에 이 사건 범행을 저질러 죄질이 좋지 않다”면서 “범행 후 흉기에 묻은 혈흔을 씻어 범행을 은폐하고, 기억이 나지 않는다며 범행을 회피하는 등 중형 선고가 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 30일 오전 부산 북구 한 아파트에서 60대 여성 B씨를 흉기로 살해한 혐의를 받는다. A씨는 B씨에게 지속적으로 호감을 표현하고 수차례 돈을 빌려주기도 했지만, B씨가 이성 문제를 정리하지 않은 것에 불만을 품고 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2004년 부산 해운대구에서 지인과 함께 동업자를 살해한 뒤 현금과 신용카드를 훔쳐 사용한 혐의로 기소돼 징역 20년을 선고받고, 2022년 5월 가석방됐다. 이후 2024년 11월 형 집행이 종료됐다.&lt;br&gt;&lt;br&gt;검찰은 지난달 15일 열린 결심 공판에서 A씨에게 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“대관람차 사업 특혜 없었다”... 김철수 전 속초시장 ‘무죄’ 선고</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2026/02/12/RHV6ZYC4LFBOZCXNT7FGN6JWC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/02/12/RHV6ZYC4LFBOZCXNT7FGN6JWC4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 07:37:02 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ET3B44AGLVORTFDRDJ4BAR2SAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 강원 춘천지법 속초지원 앞에서 무죄가 선고된 김철수 전 속초시장이 인터뷰를 하고 있다./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관광 테마 시설(대관람차) 민간 사업자 선정 과정에서 특정 업체에 특혜를 줬다는 혐의로 기소된 김철수 전 속초시장이 무죄 판결을 받았다. &lt;br&gt;&lt;br&gt;춘천지법 속초지원 형사부(재판장 김종헌)는 12일 김철수 전 속초시장의 직권남용 권리행사방해 혐의로 재판에 넘겨진 김 전 시장, 같은 혐의로 기소된 간부급 공무원 A씨에 대해 무죄를 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “우선협상대상자 선정 과정에서 김철수 전 시장이 담당 공무원에게 평가 방법 변경 등을 지시했다고 보기 어렵다”며 “각 업체가 제안 내용을 보고받고 의견을 묻거나 반응을 보인 행위는 자연스러운 행동”이라고 밝혔다. &lt;br&gt;&lt;br&gt;두 사람과 함께 특정경제범죄 가중처벌 등에 관한 법률 위반 등 혐의로 기소된 업체 회장 B씨와 대표이사 C씨에 대해서는 일부 혐의를 유죄로 인정했다. B씨에게는 징역 1년 6개월에 집행유예 2년, C씨에게는 징역 1년에 집행유예 2년이 선고됐다. &lt;br&gt;&lt;br&gt;김 전 시장과 A 씨는 지난 2020년 대관람차 등 관광 테마시설 민간사업자 선정 과정에서 특정 업체가 선정되도록 직무 권한을 남용한 혐의로 2024년 9월 불구속 기소됐다. &lt;br&gt;&lt;br&gt;김 전 시장은 선고 직후 “3년 6개월 동안 잠을 설치며 살았다”며 “예비후보 등록 기간을 전후해 출마를 선언하고 향후 일정을 밝히겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘대북송금 제3자 뇌물’ 김성태, 공소기각… 법원 “이중기소 해당”</title>
       <link>https://www.chosun.com/national/national_general/2026/02/12/DHDRF7XN2NDTLBP54KMR3XG5TI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/DHDRF7XN2NDTLBP54KMR3XG5TI/</guid>
@@ -906,15 +915,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 03:27:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAYU6OZV2VJ4LIB4X5P6CDU4QQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관이 12일 서울 여의도 국회에서 열린 기후에너지환경노동위원회 전체회의에서 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산업재해로 연(年) 3명 이상 사망하는 기업에 영업이익의 최대 5%의 과징금을 부과하는 내용의 ‘산업안전보건법 개정안’이 12일 국회 기후에너지환경노동위를 통과했다. 야당 측은 “예상되는 부작용에 대한 논의가 더 필요하다”며 표결에 불참했지만, 여당이 밀어붙인 것이다.&lt;br&gt;&lt;br&gt;법안의 쟁점은 과징금이 이중 제재에 해당하는지 여부였다. 야당과 경영계에선 이미 사망 사고 발생 시 형사적 제재를 하고 있기 때문에 과징금까지 내게 하는 건 불합리하다는 의견이 나왔다. 특히 영업이익의 규모와 잘못된 행위 간 인과관계가 없는 데 영업이익에 따라 책임의 범위가 정해지는 건 법리에 맞지 않는다는 주장이 제기됐다. 현행 산안법에 벌칙과 과징금을 동시에 부과하는 사례가 없다는 점도 문제로 지적됐다. 그러나 여당은 ‘안전·보건 수칙 준수의 강제성 제고' 등을 이유로 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;이날 산안법 개정안엔 사망사고 등 중대재해가 반복적으로 발생한 건설사에 고용노동부가 관계 부처에 등록말소를 요청할 수 있도록 한 조항도 포함됐다. 최근 3년간 영업정지 처분을 2차례 받은 후 다시 영업정지 요청 사유가 발생하면 등록말소 요청 대상이 된다. 등록말소 처분된 건설사는 신규사업, 수주, 하도급 등 모든 영업활동이 중단된다.&lt;br&gt;&lt;br&gt;기후환경노동위원회 국민의힘 의원들은 성명을 통해 “과징금은 과도한 이중 제재이고, 등록말소제 또한 기업 활동 전반에 과도한 위축 효과를 초래할 것”이라며 “고용노동법안 날치기 강행을 중단하라”고 비판했다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 지난달 20일 산재 관련 법안이 국회에 계류 돼 있자 김영훈 고용노동부 장관에게 “국회 가서 싹싹 빌어서라도 빨리 처리하라”고 말했다. 이와 다르게 여당이 법안을 강행 처리하자 국민의힘 의원들은 “싹싹 빌라더니 오늘과 같은 입법 강행이 이뤄진 것을 보면, 당시 발언이 결론을 정해 놓은 ‘짜고 치는 고스톱’이 아니었는지 의구심이 든다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정진상 ‘대장동’ 재판부, 유동규에 과태료 이어 구인영장 발부</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/5CBZ34G5LNHMTDTWNGFICH2ICQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/5CBZ34G5LNHMTDTWNGFICH2ICQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:08:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2QXETTGJZDKHEHQYLDQEFXDNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 본부장(왼쪽)과 정진상 전 민주당 대표실 정무조정실장./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령 측근인 정진상 전 더불어민주당 당대표실 정무조정실장의 대장동 개발 비리 의혹을 심리 중인 재판부가 12일 유동규 전 성남도시개발공사 기획본부장에 대해 강제로 법정에 데려오는 구인영장을 발부했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관) 이날 정 전 실장의 대장동·위례·성남FC·백현동 뇌물 사건 재판에서 “오는 3월 11일 유 전 본부장을 구인해 반대신문을 진행하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;유 전 본부장은 애초 작년 12월 5일 증인으로 소환됐으나 법정에 나오지 않았다. 그는 허리 부상과 다리 골절로 거동이 곤란하고, 정신적 충격으로 증언이 불가능하다는 내용의 불출석 사유서를 제출하며 기일 변경을 요청했었다. 그러나 재판부는 “제출된 진단서상 골절은 이미 수개월 전 발생한 것”이라며 불출석에 대해 과태료 100만원을 부과했다.&lt;br&gt;&lt;br&gt;이후 검찰은 지난달 “유 전 본부장의 건강 상태를 확인하기 위해 구치소에 관련 자료를 요청했으나 의료법 등을 이유로 회신이 거부됐다”며 재판부에 구인영장을 발부해달라고 요청했다. &lt;br&gt;&lt;br&gt;정 전 실장은 대장동·위례·백현동 부동산 개발 비리 사건 3개와, 인허가 대가로 불법 후원금을 받았다는 성남FC사건이 병합돼 있다. 이재명 대통령과 함께 기소됐으나, 재판부가 대선 이후 이 대통령에 대한 재판만 분리해 무기한 연기하면서 혼자 재판을 받고 있다. &lt;br&gt;&lt;br&gt;한편, 재판부는 3대 특검(내란·김건희·순직해병) 사건이 늘어나 재판을 자주 진행할 수 없다는 고려해 정 전 실장의 보석 조건 완화를 검토하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;이날 정 전 실장 측이 “보석 조건으로 묶여있어 정 전 실장의 개인적·사회적 삶이 오랫동안 멈춰있는 상태”라면서 “법이 허용하는 내에서 느슨하게 풀어주십사 한다”고 요청하자, 재판부는 “재판부에 특검 사건이 너무 많아 일주일 내내 재판하고 있다”며 “대장동 사건은 6월까지 추가 기일이 불가능한데 이런 부분을 보석 조건을 판단할 때 고려하지 않을 수 없다”고 했다. &lt;br&gt;&lt;br&gt; 형사33부는 ‘헌법재판관 미임명’ 의혹을 받는 한덕수 전 국무총리 사건과 박성재 전 법무부 장관의 내란 중요 임무 종사 사건, 윤석열 전 대통령의 명태균씨 ‘무상 여론조사’ 수수 재판 등을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>모텔서 ‘약물 음료’ 마신 남성 2명 잇따라 사망…20대 女 구속 기로</title>
