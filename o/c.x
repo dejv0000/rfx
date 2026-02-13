@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“클로이 김은 놓쳤지만, 최가온은 잡아야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/14/HD4X2IQ6YZG5XEJYVJZRW7UFLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/14/HD4X2IQ6YZG5XEJYVJZRW7UFLQ/</guid>
+      <dc:creator>정병선 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 22:12:43 +0000</pubDate>
+      <content:encoded>한국(2013~2014년) 스노보드는 ‘놓친 천재’의 기억을 안고 있었다. 세계 최강으로 성장한 클로이 김(26)은 한때 한국의 지원을 기다렸지만, 결국 미국 국가대표 유니폼을 입었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQOVAHPKSFBCFCDYQZ4JMTKTDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026 밀라노 코르티나 동계올림픽에서 처음으로 애국가가 울렸다. 13일(한국 시각) 스노보드 여자 하프파이프에서 기적 같은 역전 드라마로 금메달을 목에 건 최가온(18)이 메달을 들어 보이며 깁스 상태인 왼손을 번쩍 치켜들었다.
+ 리비뇨=장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그 선택을 누구보다 가슴 아파했던 인물이 있었다. 그즈음 대한스키·스노보드협회장(2014~2018년)에 취임한 신동빈 롯데그룹 회장이었다.&lt;br&gt;&lt;br&gt;클로이 김에 대한 아픈 기억이 사라질 즈음 최가온(18)이 등장했다. 협회는 이번엔 놓치지 않았다.&lt;br&gt;&lt;br&gt;2026 밀라노 코르티나 동계올림픽 스노보드 금메달리스트 최가온의 정상 등극은 우연이 아니었다. 이는 대한스키·스노보드협회가 장기간 추진해온 ‘유망주 발굴 프로젝트’와 신 회장의 뚝심 있는 지원이 맞물린 결과였다.&lt;br&gt;&lt;br&gt;&lt;b&gt;신동빈 회장이 만든 방향 전환&lt;/b&gt;&lt;br&gt;&lt;br&gt;신 회장은 협회장을 맡으며 분명한 원칙을 세웠다. 그는 클로이 김 사례를 언급하며, “두 번 다시 같은 일을 반복하지 말자”고 주변에 수차례 강조했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDRQFVXUNVHNVBDNNMAANFUWZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 밤(현지시간) 이탈리아 리비뇨 스노파크에서 2026 밀라노 코르티나 동계올림픽 스노보드 여자 하프파이프에 출전한 최가온이 한국 스키 사상 최초로 금메달을 획득했다. 대한민국 선수단 가운데 첫 금메달의 주인공이기도 하다. (왼쪽부터) 은메달 클로이 킴, 금메달 최가온, 동메달 오노 미쓰키 리비뇨=장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 클로이 김 측은 협회에 지원을 타진했지만, 협회 내부 사정과 제도적 한계로 이를 수용하지 못했다. &lt;br&gt;&lt;br&gt;결국 그는 미국을 택했다. 물론 그의 성장 과정을 보면 미국을 선택하는 것이 맞다는 여론도 있었다. 이후 협회는 방향을 틀었다. 유망주의 해외 유출을 막고 국내에서 완성형 선수를 만들자는 프로젝트를 가동했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;롯데 출신 전·현직 협회장의 합작&lt;/b&gt;&lt;br&gt;&lt;br&gt;신 회장 이후에도 협회의 기조는 유지됐다. 롯데 출신 인사들이 스키협회장을 맡으며 ‘유망주 발굴 프로젝트’를 본격적으로 가동했다. 단순한 훈련 지원이 아니라, 장기적 관점에서 선수를 관리하는 시스템이었다.&lt;br&gt;&lt;br&gt;선수 조기 발굴과 해외 전지훈련, 국제대회 경험 축적, 부상 관리와 심리 캐어 프로그램을 만들었다. 특히, 선수들을 자극한 것은 올림픽 금메달 3억원, 은메달 2억원, 동메달 1억원이라는 파격적인 포상금제였다. 이는 선수와 지도자 모두를 자극했다. &lt;br&gt;&lt;br&gt;신 회장은 ‘하면 된다’ ‘성과에는 반드시 포상한다’는 메시지를 전달했다. 최가온 역시 이 시스템 속에서 성장했다. 재능 위에 확신을 얹어준 구조였다.&lt;br&gt;&lt;br&gt;신 회장은 단순한 후원자를 넘어 지난 2022년 롯데 스키앤스노보드팀 창단 과정에도 직접 관여한 것으로 알려졌다. 선수 구성부터 운영 방향까지 세세히 보고받았고, 설상 종목의 경쟁력 강화를 그룹 차원의 스포츠 전략으로 끌어올렸다.&lt;br&gt;&lt;br&gt;&lt;b&gt;최가은 사고 당시 “아무도 보고 못 했다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;최가온이 허리 부상 때 회자하는 한 장면이 있다. 2024년 월드컵(스위스) 대회 당시 중 최가온은 허리 부상이라는 치명적인 고비를 맞았다. 문제는 그 순간이었다. 협회 내부에서 이 사안을 회장에게 보고하지 못한 채 우왕좌왕하는 상황이 벌어졌다.&lt;br&gt;&lt;br&gt;그때 롯데 출신 전임 스키협회장이 직접 나섰다. 그는 “이건 신 회장에게 바로 보고해야 할 사안”이라며 그룹 커뮤니케이션실장에게 직접 전화해 신동빈 회장에게 상황을 전달하도록 했다. &lt;br&gt;&lt;br&gt;최가온의 비보를 보고받은 신 회장은 “당장 선수 보호와 회복을 최우선으로 하라”는 지침을 내렸고, 지원 체계는 즉각 가동됐다. &lt;br&gt;&lt;br&gt;이 에피소드는 지금도 스키인들 사이에서 회자한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZDAZLCGY4DIZLEGE4DCNJVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2017년 8월 뉴질랜드 카드로나 전지 훈련캠프장에 선수와 지도자 격려차 방문한 신동빈 롯데그룹 회장./롯데그룹 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;메달은 개인의 영광이지만 시스템이 만든 승리&lt;/b&gt;&lt;br&gt;&lt;br&gt;최가온의 금메달은 한 선수의 투혼만으로 설명되기 어렵다.&lt;br&gt;&lt;br&gt;이는 협회의 방향 설정, 기업 출신 리더들의 책임감, 그리고 신동빈 회장의 스포츠에 대한 진심이 만들어낸 결과로 이어졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임성근 ‘전과 6범’ 논란 한 달 후 근황… “식당 개업 준비 중”</title>
+      <link>https://www.chosun.com/national/people/2026/02/14/2BJSCDRLNZGSXF5FFXXGPI23ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/14/2BJSCDRLNZGSXF5FFXXGPI23ZI/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 21:38:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYWX2ASZONFVVKRXNHUIMDDBHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 셰프. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 음주 운전 등 전과 6회를 고백한 후 방송 활동을 중단했던 임성근(59) 셰프가 근황을 전했다.&lt;br&gt;&lt;br&gt;임성근은 13일 인스타그램에 글을 써 “그간 잘 지내셨는지 궁금하다. 저는 현재 제 본업인 음식점 오픈을 준비하면서 지내고 있다”며 “모든 준비가 마무리되면 부담 없이 찾아와 따뜻한 밥 한 끼와 마음 담은 음식을 드실 수 있도록 성심껏 준비하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “새해 복 많이 받으시고 명절 동안 가족과 함께 따뜻하고 평안한 시간 보내시길 바란다”는 인사도 덧붙였다. 임성근은 같은 날 지난 한 달간 업로드를 멈췄던 유튜브 채널 ‘임짱TV’에도 5분짜리 디저트 요리 영상을 게시했다.&lt;br&gt;&lt;br&gt;앞서 ‘한식대첩3’ 우승자 출신인 임성근은 넷플릭스 예능 ‘흑백요리사: 요리 계급 전쟁’ 시즌2에 출연하며 주목받았다. 그러나 지난달 18일 직접 음주 전과를 털어놓으며 논란을 불렀다. 당시 그는 “10년에 걸쳐 세 차례 음주 운전을 했다”고 말했으나, 추가 범죄 이력이 있다는 사실이 드러나며 재차 비난 여론에 휩싸이기도 했다.&lt;br&gt;&lt;br&gt;이후 임성근은 “정확하게 6회의 전과가 있다. 음주 운전이 4회이고 1회는 면허가 없는 상태에서 오토바이를 몰았다가 적발된 적 있다”며 “다른 1회는 시비가 붙어 서로 멱살잡이했다가 쌍방 폭행으로 벌금 30만원을 문 적 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;언론 취재가 시작되자 자발적 사과로 논란을 축소하려 했다는 의혹에 대해서는 “유튜브 팀으로 어마어마한 광고 제안이 들어와서 (자진 고백) 해야겠다고 생각했다”며 “작정하고 속이거나 기획하려는 의도는 없었다. 정확하지 않은 기억에 의존해 얘기하면서 3회 적발 이야기가 나온 거다. 선수 치려고 영상을 찍었다면 그렇게 허술하게 했겠나”라고 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“성폭행 정황에도 수사 소홀… 국가가 1500만원 배상해야”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/14/X3KEQG7HPBEN3FBHOW5RX22HH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/14/X3KEQG7HPBEN3FBHOW5RX22HH4/</guid>
@@ -855,24 +874,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 15:51:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;박문규&lt;/b&gt; 별세, &lt;b&gt;배영호&lt;/b&gt; 영앤미디어 대표·&lt;b&gt;배경진&lt;/b&gt; 호서대 영어영문학과 교수·&lt;b&gt;배진아&lt;/b&gt; 공주대 영상학과 교수 모친상, &lt;b&gt;류호경&lt;/b&gt; 나라치과 원장·&lt;b&gt;박재용 &lt;/b&gt;KBS 심의위원 장모상=11일22시35분 서울성모병원, 발인 14일11시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤재천&lt;/b&gt; 별세, &lt;b&gt;윤준호&lt;/b&gt; 대전과학기술대 행정부총장 부친상=12일7시15분 중앙대병원, 발인 14일8시, (02)860-3500&lt;br&gt;&lt;br&gt;&lt;b&gt;▲채정자 &lt;/b&gt;별세&lt;b&gt;, 정훈&lt;/b&gt;·&lt;b&gt;정란&lt;/b&gt;·&lt;b&gt;정현 &lt;/b&gt;공군 군무원&lt;b&gt; &lt;/b&gt;모친상, &lt;b&gt;홍삼구&lt;/b&gt; 장모상, &lt;b&gt;이상숙&lt;/b&gt;·&lt;b&gt;정미영&lt;/b&gt; 시모상, &lt;b&gt;홍규빈&lt;/b&gt; 연합뉴스 기자 조모상=11일23시57분 충남 천안하늘공원, 발인 13일6시, (041)553-8000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한선금&lt;/b&gt; 별세, &lt;b&gt;정은희&lt;/b&gt;·&lt;b&gt;정현규&lt;/b&gt; 남대구세무서 공무원·&lt;b&gt;정은주&lt;/b&gt; 모친상, &lt;b&gt;고봉환&lt;/b&gt; 前 LH 노조위원장 장모상, &lt;b&gt;고재원&lt;/b&gt; 매일경제 기자 외조모상=11일23시18분 대구의료원 국화원, 발인 14일6시30분, (053)560-8911&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황의규&lt;/b&gt; 별세, &lt;b&gt;손남태 &lt;/b&gt;NH농협생명 IT지원부장 장인상=12일8시50분 보라매병원, 발인 14일9시, (02)836-6900&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황종원&lt;/b&gt; 별세,&lt;b&gt; 이영순&lt;/b&gt; 남편상, &lt;b&gt;황재철&lt;/b&gt;·&lt;b&gt;황은영&lt;/b&gt;·&lt;b&gt;황은아&lt;/b&gt; 부친상, &lt;b&gt;조정국&lt;/b&gt;·&lt;b&gt;민병철&lt;/b&gt; 장인상, &lt;b&gt;조수연&lt;/b&gt; 시부상, &lt;b&gt;조수빈&lt;/b&gt;·&lt;b&gt;조성규&lt;/b&gt;·&lt;b&gt;민상원&lt;/b&gt;·&lt;b&gt;민준원&lt;/b&gt; 외조부상=11일4시2분 은평성모병원, 발인 13일6시15분, (02)2030-4444&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>관훈클럽정신영기금 언론인 저술 지원 대상 선정</title>
-      <link>https://www.chosun.com/national/people/2026/02/13/Q7WUSMECGFFBNKXDHU5DYCPU3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/13/Q7WUSMECGFFBNKXDHU5DYCPU3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 15:51:00 +0000</pubDate>
-      <content:encoded>관훈클럽정신영기금(이사장 이강덕)은 2026년도 상반기 언론인 저술·번역 출판 지원 대상자 16명을 선정했다고 12일 밝혔다. 강구열 세계일보 외교안보부장, 곽수근 조선일보 테크부 차장, 권근영 중앙일보 문화부 기자, 김동현 연합뉴스 워싱턴특파원, 김윤숙 경향신문 편집국 인물팀장, 김진현 전 동아일보 논설주간, 박석흥 전 문화일보 국장, 봉두완 전 TBC 앵커맨, 설태주 울산MBC 보도제작부 기자, 오광진 조선비즈 이코노미조선 편집장, 윤원섭 매일경제신문 글로벌경제부장, 이춘구 전 KBS 모스크바 지국장, 조재영 MBC 뉴스룸 차장, 최명수 뉴시스 부국장 겸 국제부장, 한성윤 KBS 스포츠취재부 선임기자, 황보연 한겨레신문 논설위원이 선정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/13/BTBOR3ZPXRD4JLAGTDMR2GSR5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/13/BTBOR3ZPXRD4JLAGTDMR2GSR5I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 15:51:00 +0000</pubDate>
-      <content:encoded>▲법무부◇부이사관&amp;lt;승진&amp;gt;▷기획재정담당관 강의곤▷혁신행정담당관 심경보◇서기관&amp;lt;전보&amp;gt;▷법무연수원 총무과장 김진섭&lt;br&gt;&lt;br&gt;▲행정안전부◇국장급 전보▷지방행정국장 장헌범▷사회재난정책국장 김영빈▷국가정보자원관리원 대구센터장 김회수▷사회연대경제국장 이방무◇과장급 전보▷국가기록원 대전분원장 노영종&lt;br&gt;&lt;br&gt;▲국가데이터처◇3급 승진▷대변인 황호숙▷경제통계기획과장 임경은▷경제총조사과장 김혜련▷사회통계기획과장 김서영▷조사기획과장 노형준◇4급 승진▷혁신행정담당관실 최기영▷조사시스템관리과 박미숙▷공간정보서비스과 김영란▷산업동향과 안아람▷물가동향과 홍현정▷농어업통계과 강정희▷표본과 임찬수▷행정통계과 이은정▷국가데이터연구원 정책통계연구실 박영실&lt;br&gt;&lt;br&gt;▲연세대◇교무위원▷대학원장 김현철▷YSP추진본부장 겸 융합과학기술원장 정재호▷문과대학장 겸 인문융합교육원장 주일선▷상경대학장 겸 경제대학원장 허현승▷공과대학장 이충용▷생명시스템대학장 이명민▷인공지능융합대학장 겸 인공지능융합대학원장, 소프트웨어중심대학사업단장, 인공지능연구원장 한승재▷신과대학장 겸 연합신학대학원장 김현숙▷사회과학대학장 조화순▷음악대학장 장현주▷교육과학대학장 윤용진▷학부대학장 홍원표▷언더우드국제대학장 존 프랭클▷글로벌인재대학장 김병수▷정보대학원장 이상우▷커뮤니케이션대학원장 이윤영▷법학전문대학원장 겸 법무대학원장 김홍기▷교육대학원장 김은주▷행정대학원장 강철희▷공학대학원장 박효선▷언론홍보대학원장 박남기▷교목실장 정용한▷기획실장 송인한▷교무처장 이무원▷입학처장 이삼열▷학생복지처장 고원건▷연구처장 겸 프론티어연구원 부원장, 프로젝트-Y연구원 부원장, 산학협력단장, 연구처G-LAMP사업단장 홍종일▷총무처장 김두진▷시설처장 이미나▷학술문화처장 겸 출판문화원장 송현주▷정보통신처장 이장원▷대외협력처장 임종백▷국제처장 김용찬&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>원종목 ‘월간 에세이’ 주간 별세</title>
