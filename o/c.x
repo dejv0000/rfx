@@ -13,6 +13,132 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강남경찰서, 수사 중 21억 비트코인 분실</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/ISY7SLQKXZG6PPHCJ5KAHCMRAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/ISY7SLQKXZG6PPHCJ5KAHCMRAQ/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 04:35:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBYCG5ZFOFHEVGDN3HOB3BMF2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서가 수사 과정에서 보관 중이던 비트코인 22개를 분실한 사실이 13일 확인됐다. 이날 시세 기준 약 21억 원 상당이다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 서울 강남경찰서는 2021년 11월 한 사건을 수사하던 중 비트코인 22개를 임의제출 형식으로 확보해 보관했으나, 최근 점검에서 해당 비트코인이 외부로 유출돼 분실된 상태인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이번 사실은 최근 광주지검에서 비트코인 320개가 사라진 사건을 계기로, 전국 수사기관을 대상으로 실시한 가상자산 보관 실태 전수 점검 과정에서 드러났다. 점검 결과 강남서가 보관 중이던 비트코인이 다른 전자지갑으로 이동한 정황이 확인됐다.&lt;br&gt;&lt;br&gt;현재 경기북부경찰청이 정확한 이체 경위와 내부 관여 여부 등을 확인하기 위해 강남서를 상대로 내사를 진행 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 경위에 대해서는 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “경찰, 몰래 영상 찍으며 수사했더라도 불법 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/13/43KSU3G4MFFHJPACVEZENCVKAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/43KSU3G4MFFHJPACVEZENCVKAA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 03:51:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRTGZLGMRQTANRYMIZDOMJVGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;게임장에서 게임을 통해 점수를 얻은 손님에게 환전 수수료를 공제한 후 현금으로 환급해 준 업주에게 벌금형이 확정됐다. 업주는 경찰이 소형 카메라를 사용해 영상을 찍는 등 위법하게 증거를 수집했다고 반박했지만, 재판부는 불법 행위가 없었다고 판단했다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 게임산업진흥에관한법률위반 혐의로 재판에 넘겨진 게임장 업주 A씨에게 벌금 2000만원을 확정했다.&lt;br&gt;&lt;br&gt;2019년 11월~2020년 5월 충북 청주시에서 게임기 130대를 설치해 놓고 게임장을 운영하던 A씨는 손님들이 게임을 통해 얻은 점수에 대한 환전을 요구하면 포인트 1만점당 10%의 환전수수료를 공제하고 9000원씩 현금으로 환급해왔다. 이에 청주상당경찰서 소속 경찰관 B씨는 A씨의 불법 환전 혐의를 수사하기 위해 손님으로 가장해 수사를 진행했고, 차키형 카메라와 안경형 카메라를 이용해 게임장 내부 모습과 A씨의 환전행위를 촬영했다. 이 같은 방법으로 수집된 증거를 통해 A씨는 게임산업진흥에관한법률위반 혐의로 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;1심은 무죄를 선고했다. 1심은 B씨가 영장 없이 동영상 촬영을 했고, 촬영 직후에도 사후영장을 발부 받지 않았다며 위법수집증거에 해당한다고 판단했다. 또한 경찰관이 타인이 인식할 수 없도록 제작된 소형 카메라를 사용해 비밀리에 동영상을 촬영한 것이 수사기관에 일반적으로 허용되는 방법이라고 인정하기 어렵다고 봤다. B씨는 해당 동영상을 소명자료로 제출해 압수 수색 영장을 받았고, 이후 압수한 운영 장부와 게임기 등을 토대로 A씨에 대한 피의자신문을 진행했기에 증거들이 모두 사용될 수 없다고 설명하기도 했다.&lt;br&gt;&lt;br&gt;항소심은 1심의 무죄 결론을 뒤집고 벌금 2000만원을 선고했다. 재판부는 B씨가 “신고자의 진술만 청취한 상태에서 보다 객관적이고 명확한 증거를 취득하기 위해 환전행위를 촬영했다”며 “객관적 증거를 확보한 이후 압수 수색 영장을 발부받아 적법 절차에 따라 추가 수사를 진행했다”고 판단했다. 그러면서 “단속 경찰관이나 신고자가 불법 영업을 유도하는 등 위법한 함정수사를 하였다고 볼 만한 사정도 보이지 않는다”고 봤다. 대법원도 원심 판단에 잘못이 없다고 보고 A씨의 상고를 기각해 벌금 2000만원을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘불법 정치자금·민주당 돈봉투' 송영길, 항소심서 전부 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/13/JDBIWUKRCZAXJGIV6W42KJ2D6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/JDBIWUKRCZAXJGIV6W42KJ2D6I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 03:43:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT3FNHD7BZJ47EXJA6FDAH2OLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송영길 소나무당 대표가 13일 서울 서초구 서울고등법원에서 열린 '더불어민주당 전당대회 돈봉투' 의혹 관련 항소심 선고기일에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘더불어민주당 전당대회 돈봉투’ 의혹 및 ‘먹사연 불법 정치자금’ 혐의로 기소된 송영길(현 소나무당 대표) 전 더불어민주당 대표가 13일 항소심에서 무죄를 선고받았다. 1심은 두 혐의 중 불법 정치자금 수수 혐의만 유죄로 인정했는데 모두 무죄로 뒤집힌 것이다. 검찰의 민주당 전당대회 돈봉투 의혹 수사를 둘러싼 위법성 시비가 불거질 것으로 보인다.&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 이날 송 전 대표가 외곽 조직 ‘평화와 먹고사는 문제 연구소(먹사연)’를 통해 불법 정치자금 7억6300만원을 수수한 혐의와 관련해 “핵심 증거인 텔레그램 메시지 등은 위법하게 수집된 증거에 해당한다”며 무죄를 선고했다. 재판부는 “검찰은 돈봉투 의혹을 수사하면서 먹사연을 압수 수색해 관련 전자 정보를 확보한 뒤 공소를 제기했는데, 관련자와 혐의 내용 모두 달라 두 사건의 관련성을 인정하기 어렵다”고 했다. 검찰이 위법 수집한 증거로 별건 기소한 사건이라고 보고 무죄를 선고한 것이다. &lt;br&gt;&lt;br&gt;재판부는 송 전 대표가 2021년 민주당 전당대회를 앞두고 국회의원 20명에게 뿌릴 돈봉투(총 6000만원)를 윤관석 전 의원에게 건넸다는 혐의와 관련해서도 1심과 같은 무죄를 선고했다. 재판부는 이 혐의를 뒷받침하는 증거인 ‘이정근 녹음 파일’과 관련해 “이정근 전 민주당 사무부총장은 자신의 알선수재 혐의가 무죄라는 점을 뒷받침하기 위해 녹음 파일을 제출한 것으로 보인다. 돈봉투 관련 녹음 파일이 휴대전화에 있다는 점을 인식하고 제출했다고 보기는 어렵다”며 위법 수집 증거로 판단했다.&lt;br&gt;&lt;br&gt;이정근 녹음 파일이 위법 수집 증거라는 법원 판단은 계속 이어지고 있다. 송 전 대표 지지 모임에서 윤 전 의원에게 300만원이 든 돈봉투를 받은 혐의 등으로 재판에 넘겨진 이성만 전 의원도 지난 12일 대법원에서 무죄가 확정됐다. 돈봉투 수수 혐의를 받는 허종식 의원과 윤관석·임종성 전 의원 사건에서도 검찰이 확보한 이 전 부총장 녹음 파일이 위법 수집 증거라는 이유로 작년 12월 항소심에서 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;송 전 대표는 이날 선고를 마친 뒤 기자들과 만나 “윤석열 정부 검찰의 표적 수사로 저와 관련된 의원님들, 우리 민주당을 먹칠하려고 한 것이 밝혀졌다”며 “소나무당을 해체하고 민주당으로 돌아가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> [추후보도] &lt;출근 안 한 날에도 임금 수령 의혹... 경찰, 진보당 前 대표 공갈 혐의로 입건해 수사 중&gt; 기사 관련</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/K6GC5ZOATNHYRFPRJMFECYSXUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/K6GC5ZOATNHYRFPRJMFECYSXUE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 02:18:10 +0000</pubDate>
+      <content:encoded>본보는 2023년 7월 12일자 &amp;lt;출근 안 한 날에도 임금 수령 의혹... 경찰, 진보당 前 대표 공갈 혐의로 입건해 수사 중&amp;gt; 제목의 기사에서 진보당 전 공동대표 장지화씨가 출근하지 않은 날에도 노임을 받았다는 의혹과 관련해 경찰이 수사에 착수했다는 내용을 보도한 바 있습니다. &lt;br&gt;&lt;br&gt;수사 결과, 장지화 공동대표는 지난해 8월 28일 서울지방경찰청으로부터 불송치결정을 받은 후 지난해 10월 24일 서울중앙지방검찰청으로부터도 기록 반환 조치가 내려져 종국적으로 무혐의 처분 받았음을 알려드립니다. &lt;br&gt;&lt;br&gt;이 보도문은 언론중재위원회의 조정에 따른 것입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘윤석열 속옷 저항’ CCTV 열람한 與 의원 전원 무혐의</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/UISO4BUC5VGTNIAJPFNCKBE22Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/UISO4BUC5VGTNIAJPFNCKBE22Q/</guid>
+      <dc:creator>김도균 기자, 권우석 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 02:00:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URPGBE4TMDGXWYKIJT5NTHN5SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용민 국회 법제사법위원회 더불어민주당 간사가 작년 9월 1일 경기도 의왕시 서울구치소에서 열린 현장검증을 마치고 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 윤석열 전 대통령 체포영장 집행 당시의 서울구치소 폐쇄회로(CC)TV 영상을 열람한 더불어민주당·조국혁신당 국회의원들을 모두 불송치했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울경찰청 반부패수사대는 개인정보보호법 위반 등 혐의로 고발당한 민주당 추미애·김용민·서영교·장경태 의원 등과 조국혁신당 박은정 의원 등을 지난 4일 무혐의 처분했다.&lt;br&gt;&lt;br&gt;이들은 작년 9월 1일 윤 전 대통령이 수감된 경기 의왕시 소재 서울구치소 구내 CCTV 영상을 무단 열람했다는 이유로 한 시민단체로부터 고발당했다.&lt;br&gt;&lt;br&gt;당시 추미애 법사위원장은 “윤 전 대통령의 수감 중 특혜 제공 여부와 특검 출석 요구 당시 상황을 확인하기 위한 것”이라며 ‘현장검증 실시 계획서 채택’을 의결하고 서울구치소를 방문했다. 이날 함께 방문한 법사위 소속 민주당·조국혁신당 의원들이 열람한 영상에는 윤 전 대통령이 속옷 차림으로 민중기 특별검사팀의 두 번째 체포영장 집행에 저항한 상황이 담긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 윤 전 대통령 측 대리인단은 “교정시설 내부 CCTV는 보안 시설 영상물로써 비공개가 원칙”이라며 “국회가 의결한 것과 같이 특혜 제공이나 수사 방해 목적을 확인하기 위해 사용하거나 열람할 수 없다”고 반발했다.&lt;br&gt;&lt;br&gt;다만 경찰은 법사위 소속 의원들이 의결을 거쳐 영상 기록 열람을 요구했고, 서울구치소도 국회법 등 관련 법령에 따라 열람하게 해 윤 전 대통령의 동의 여부와 무관하다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출근 안 한 날에도 임금 수령 의혹...경찰, 진보당 前 대표 공갈 혐의로 입건해 수사 중</title>
+      <link>https://www.chosun.com/national/national_general/2023/07/12/PJB4JE3QWBDLVJT4HHRE3J4DLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2023/07/12/PJB4JE3QWBDLVJT4HHRE3J4DLU/</guid>
+      <dc:creator>김예랑 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Jul 2023 06:24:41 +0000</pubDate>
+      <content:encoded>진보당 전 공동대표 장지화(53)씨가 11개월간 수도권 한 아파트 공사장에 이름만 올려두고 출근하지 않은 날에도 노임을 받아간 의혹과 관련해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTJNP4DFWA3UR2TZWP3RQ2SLOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 강력범죄수사대./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 강력범죄수사대는 지난 5월 말 장 전 대표를 공갈 혐의로 입건해 수사 중이라고 12일 밝혔다. 경찰은 장 전 대표를 조만간 불러 출근 기록과 실제 근무 여부를 대조하고, 통상 건설현장에서 벌어지는 건설노조 채용 강요나 태업과 물리력을 사용해 일당을 받아낸 사실이 있는지 확인할 방침이다. &lt;br&gt;&lt;br&gt;지난 4월 20일 본지 보도에 따르면 장씨는 지난해 3월부터 올해 1월까지 경기도의 한 대단지 아파트 공사장에 취업해 11개월간 일당 총 3577만원을 받았다. 하지만 해당 기간 동안 장 대표는 지난해 6월 지방선거 출마, 당대표 선거 출마, 서울 등지에서 열린 기자회견과, 집회, 스페인 마드리드 ‘국제건설목공노련 세계총회 ’ 등 행사에 참여하는 동안에도 출근 기록이 돼 있어 ‘무노동 유임금’ 의혹이 제기됐다. 이에 장씨는 “왜곡 보도”라며 해당 기사를 언론중재위원회에 제소한 바 있다.&lt;br&gt;&lt;br&gt;장씨는 민주노총 건설노조에 소속돼 수도권남부지역본부 팀장으로 활동해왔다. 2016년 20대 총선에서 민중연합당(진보당 전신) 후보로, 2020년 21대 총선은 민중당(진보당 전신) 후보로 두 차례 모두 경기 성남 수정구에 출마했다가 낙선했다. 지난해 6월 지방선거에 진보당 성남시장 후보로 출마했으나 한 차례 더 낙선하고, 8월 31일 진보당 하위 정당인 여성엄마당 당대표 선거에 출마해 당선되면서 진보당 공동대표 자격을 얻었다 최근 대표직에서 물러난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;진보당 관계자는 “조선일보의 악의적 왜곡 보도로 경찰이 수사하는 것은 수사권 남용이자 정치탄압”이라며 “경찰이 조사를 한다면 성실하게 임하고 억울한 부분의 사실관계를 바로잡겠다”라는 공식 입장을 밝혔다. 장씨도 진보당을 통해 밝힌 공식 입장문에서 “현장 팀장이 아니라 정리팀장으로 일을 했는데, 경찰은 기본적인 사실 관계도 틀리고 있다”라며 “생계를 위해 건설현장에서 일을 하고 단체협약에 근거한 노조활동을 해왔다”고 주장했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;[추후보도] &amp;lt;출근 안 한 날에도 임금 수령 의혹... 경찰, 진보당 前 대표 공갈 혐의로 입건해 수사 중&amp;gt; 기사 관련&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;본보는 2023년 7월 12일자 &amp;lt;출근 안 한 날에도 임금 수령 의혹... 경찰, 진보당 前 대표 공갈 혐의로 입건해 수사 중&amp;gt; 제목의 기사에서 진보당 전 공동대표 장지화씨가 출근하지 않은 날에도 노임을 받았다는 의혹과 관련해 경찰이 수사에 착수했다는 내용을 보도한 바 있습니다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;수사 결과, 장지화 공동대표는 지난해 8월 28일 서울지방경찰청으로부터 불송치 결정을 받은 후 지난해 10월 24일 서울중앙지방검찰청으로부터도 기록 반환 조치가 내려져 종국적으로 무혐의 처분 받았음을 알려드립니다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;이 보도문은 언론중재위원회의 조정에 따른 것입니다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 교수 38% “성과 연봉제 수준 아쉬워”...“더 파격적으로 운영돼야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/T35DVP4CDZBQ3AS3W3DNJGSGTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/T35DVP4CDZBQ3AS3W3DNJGSGTE/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 02:07:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3WIYTBGUYGEYTDMQZDMNZUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교가 지난해 9월 성과 중시 연봉제를 도입한 가운데 서울대 교수조합이 실시한 설문조사에서 38%의 교수들이 “성과급 수준에 불만족한다”고 답한 것으로 확인됐다. 이들 교수 일부는 “성과 연봉제가 잘 정착하기 위해서는 더 파격적으로 성과 연봉제를 운영해 확실한 동기 부여를 만들어줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;서울대 교수조합은 지난달 ‘2025 성과 중시 연봉제 운영 관련 의견 조사’를 실시했다. 조사 결과에 따르면 응답자 267명 중 37.9%가 성과급의 수준에 대해 불만족한다고 답했다. 만족한다는 응답은 57.7%였다.&lt;br&gt;&lt;br&gt;한 교수는 “세계적인 연구 성과를 낸 교수에게 주어지는 S 등급의 인센티브가 타 대학이나 해외 사례에 비해 파격적이지 않아, 실질적인 연구 유도 동기가 되지 못한다”고 했다. 또 다른 교수는 “성과 연봉제 예산을 늘려 성과급 수준을 높임으로써 확실한 동기 부여를 만들어야 한다”고 했다.&lt;br&gt;&lt;br&gt;대다수의 교수들은 성과 연봉제의 필요성에 공감한 것으로 나타났다. 응답자의 62.1%는 “성과 연봉제가 필요하다”고 응답했다. “성과 연봉제가 필요 없다”고 응답한 비율은 11.6%에 불과했다. 서울대 관계자는 “연구 중심 대학으로서 성과에 따른 차등 보상이 불가피하다는 인식이 공유되고 있다”고 분석했다.&lt;br&gt;&lt;br&gt;다만 최고 등급인 S등급의 비율(5%)이 너무 낮아 소규모 학과에서는 S등급인 교수가 단 1명에 불과하거나 구조적으로 배출이 불가능하다는 점 등은 한계로 지적됐다.&lt;br&gt;&lt;br&gt;임호준 서울대 교수조합 위원장은 “교수 사회가 평가의 부담을 감수하고 대승적 차원에서 성과 연봉제를 수용한 만큼, 제도의 본래 취지를 살리기 위해서는 탁월한 성과에 걸맞은 과감하고 파격적인 보상 체계가 뒤따라야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;성과 연봉제 시행에 따라 서울대는 교수 성과를 만족(S·Satisfied), 보통1(N1·Normal1), 보통2(N2), 불만족(U·Unsatisfied) 등 네 등급으로 평가해 성과급을 달리 지급한다. S 등급은 상위 5%(기준 성과급의 200%), N1 등급은 45%(기준 성과급의 150%), N2 등급은 50% 안팎(기준 성과급의 100%). U 등급은 징계를 받거나 표절 문제가 불거진 교수 등이 해당되는데, 이들에겐 성과급이 지급되지 않는다.&lt;br&gt;&lt;br&gt;지난해 서울대 교수들의 95%가 종전 호봉제 대신 성과 연봉제를 선택한 것으로 확인됐다. 특히 근속 연수가 11~20년인 교수들은 전원 성과 연봉제를 선택했고, 근속 21년 이상인 교수들은 약 96%가 성과 연봉제를 택했다. 성과 연봉제를 택한 교수들은 지난해 12월 말 처음으로 성과 연봉제에 기반한 성과급을 지급 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘충주맨’ 김선태 주무관, 10년 만에 공직 떠난다</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/SHDJACZAZZDH5FEVPMTJ7N6BPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/SHDJACZAZZDH5FEVPMTJ7N6BPU/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 01:43:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSQCTS5OIFESPHWZDE2YVVUXWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김선태 주무관. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 충북 충주시 공식 유튜브 채널인 ‘충TV’를 이끌어 오며 ‘충주맨’으로 얼굴을 알린 김선태 주무관(뉴미디어팀장)이 사직의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;13일 충주시에 따르면, 김 주무관은 현재 인사 부서에 사직서를 제출한 뒤 장기 휴가에 들어갔다.&lt;br&gt;&lt;br&gt;시 관계자는 조선닷컴과 통화에서 “김 주무관이 사직서를 제출한 것이 맞다”며 “현재 내부 처리 중”이라고 말했다.&lt;br&gt;&lt;br&gt;다만 김 주무관이 퇴직을 결정한 사유나 구체적인 퇴직 일자 등은 알려지지 않았다.&lt;br&gt;&lt;br&gt;김 주무관은 충주시의 유튜브 콘텐츠 제작·운영을 전담하며 기발한 영상으로 큰 인기를 얻었다. 그가 ‘충주맨’으로 활동하며 구독자층을 넓힌 덕에 현재 충주시 공식 유튜브 채널은 97만명이 넘는 구독자 수를 보유하게 됐다. 공무원 유튜버이자 인플루언서로 자리매김한 그는 공공기관 홍보 방식에 변화를 이끈 사례로 거론돼 왔다.&lt;br&gt;&lt;br&gt;2016년 10월 입직한 김 주무관은 이러한 공로를 인정받아 7년 만에 6급 주무관으로 초고속 승진했다. 또 그 후 1년 만에 뉴미디어팀 팀장을 맡았다.&lt;br&gt;&lt;br&gt;김 주무관은 시 유튜브를 넘어 예능 프로그램 ‘피의 게임 3′, ‘전지적 참견 시점’, ‘라디오스타’ 등에 출연했으며 ‘2024년 올해의 브랜드 대상’을 받기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “‘부산 돌려차기’ 사건 피해자에 국가가 1500만원 배상해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/13/BU6UXJ7L3ZDLDJQE3KX6PXPUXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/BU6UXJ7L3ZDLDJQE3KX6PXPUXQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 01:14:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJFCQJTJHTETDWHK7L5GDGNXWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘부산 돌려차기’ 사건의 피해자가 수사기관의 부실 수사 책임을 물어 국가를 상대로 낸 손해배상 소송 1심에서 법원이 “국가가 1500만원을 배상하라”고 판결했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사31단독 손승우 판사는 이날 피해자 김모씨가 정부를 상대로 낸 손해배상 소송에서 “범행 당시 가해자가 CCTV 사각지대로 피해자를 메고 간 뒤 7~8분가량 머무른 것으로 조사된 부분에 대해 성폭행이 강하게 의심되는데도, 수사기관은 추가 진술 등을 확보하지 않았다”며 “필요한 조치를 취하지 않은 것은 현저히 불합리하다”고 했다. 이어 “원고는 그동안 참담한 정신적 고통을 겪었을 것이 자명하다”고 했다.&lt;br&gt;&lt;br&gt;선고 이후 김씨는 재판부에 감사의 뜻을 밝혔다. 김씨는 “피해자들이 수사에 미흡한 점이 있어도 문제 제기를 하지 못하는 것을 지적하고자 소송을 시작했다”며 “남들은 이렇게 해서 뭐하겠냐고 하는데, 미래의 피해자분들께 도움이 되는 판례를 쓰고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;소송을 대리한 민주사회를 위한 변호사모임(민변)은 선고 이후 기자회견을 열고 “부실하고 위법한 수사에 대한 국가의 책임을 인정했다는 측면에서 이번 판결은 매우 의미가 깊은 것 같다”고 밝혔다. 한주현 변호사는 “형벌권을 국가가 독점하는 이상 피해자는 자신이 당한 범죄 피해의 실체를 정확히 알 권리가 있다”며 “이번 판결을 통해 국가가 앞장서서 피해자 중심적인 수사 체계와 구조를 확립해 나가기 위한 고민을 해주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;원고 측은 재판 과정에서 수사기관이 비협조적인 태도를 유지했다고도 했다. 소송 대리인은 “이번 소송 과정에서 피고 대한민국 측에 수사의 경위를 확인하기 위해 수사 매뉴얼 등 문서 제출을 요청했지만 ‘수사상 기밀’이란 추상적인 명분으로 비협조적인 태도를 유지했다”며 “거듭 요청한 끝에 매뉴얼 목차만 공개받았다”고 했다. 그러면서 “피고 측에서 국가가 피해자에게 지원금을 지급한 부분이 참작돼야 한다는 얘기도 했다”고 설명했다. &lt;br&gt;&lt;br&gt;부산 돌려차기 사건은 2022년 5월 22일 새벽에 귀가 중이던 김씨를 가해자 이모씨가 무차별 폭행하고 성범죄를 저지른 사건이다. 이씨는 범행 당시 10여 분간 김씨를 쫓아갔고, 오피스텔 현관에서 김씨를 폭행한 것으로 조사됐다. 살인미수 혐의로 기소된 이씨는 1심에서 징역 12년을 선고받았고, 항소심에서 강간살인 미수 혐의가 적용돼 징역 20년으로 더 무거운 형을 선고받았다. 2023년 9월 대법원은 이씨에게 징역 20년형을 확정했다. 지난 12일에는 김씨에게 보복하겠다는 협박 발언을 한 혐의로 재판에 넘겨져 특정가중처벌법상 보복 협박 등 혐의로 징역 1년을 추가 선고받기도 했다.&lt;br&gt;&lt;br&gt;김씨는 대법원 확정 판결 이후 수사가 부실했다며 국가배상청구 소송을 냈다. 경찰은 범행 과정에서의 성폭행 의심 정황을 제대로 조사하지 않았고, 검찰은 이씨를 살인미수로만 기소했다는 것이다. 성폭력 재판이 아니었기에 김씨는 비공개 재판을 받지 못했고 방청석에서 이씨의 얼굴을 봐야 하는 등 고통을 겪었다는 게 김씨 주장이다. 또 재판부가 피해자 재판기록 열람권을 거부해 민사 소송을 걸어야 했고, 이로 인해 집 주소가 노출돼 보복 범죄로 이어졌다고 지적하기도 했다.&lt;br&gt;&lt;br&gt;검찰은 보완수사를 통해 가해자 이씨의 성폭행 혐의를 추가로 밝혀냈고, 재판 도중 이씨의 혐의를 강간살인 미수로 변경했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나 먼저 갈게” 강북 모텔 연쇄 사망 피의자, 모텔 나가며 피해자에 메시지 전송</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/BAQPCQPO2VH6LEUW5YJLCOYLNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/BAQPCQPO2VH6LEUW5YJLCOYLNE/</guid>
+      <dc:creator>김병권 기자, 황채영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 01:21:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZWCAJBMPFBDNM57LKEWHOANYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 모텔에서 남성 2명을 잇따라 숨지게 한 혐의를 받는 20대 여성(가운데)이 지난 12일 영장실질심사를 받기 위해 서울북부지법에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;향정신성의약품을 섞은 숙취 해소 음료를 몰래 먹여 20대 남성 2명을 잇따라 숨지게 한 혐의를 받는 김모(21)씨가 2번째 범행 직후 모텔을 빠져나온 후에 피해자에게 태연하게 메시지를 보낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 김씨는 지난달 28일 오후 9시 20분쯤 20대 후반 회사원 A씨와 함께 서울 강북구 수유동의 한 모텔 객실에 들어선 뒤 벤조디아제핀계 수면제를 탄 숙취 해소 음료를 A씨에게 건넸다. 술을 마신 상태였던 A씨는 음료를 마시고 정신을 잃었다. A씨는 다음 날 숨진 채 발견됐다. 벤조디아제핀은 불면증과 불안장애 등의 완화에 쓰이는 향정신성의약품 성분이다.&lt;br&gt;&lt;br&gt;이후 혼자 모텔을 빠져나온 김씨는 A씨에게 “술에 너무 취해서 계속 잠만 자니까 나는 먼저 갈게”라는 메시지를 보냈다고 한다. 현장을 빠져나가면서 별일 없다는 듯 연락을 취한 것이다.&lt;br&gt;&lt;br&gt;계획적인 살인 가능성에 무게를 두고 수사 중인 경찰은 김씨에 대한 사이코패스 진단 검사와 프로파일링 조사를 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>위례신사선, 서울시 예산으로 짓는다…‘재정 사업’ 전환 확정</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/TPO2WJITCVCMVOVMG2D7AILGNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/TPO2WJITCVCMVOVMG2D7AILGNQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 01:13:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIQYEUBGWZEONDOSVWON5SEKDI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18년째 표류하고 있는 위례신사선을 서울시가 직접 예산을 들여 짓게 됐다.&lt;br&gt;&lt;br&gt;서울시는 13일 이 같은 내용의 ‘제2차 도시철도망 구축계획 변경안’이 국토교통부로부터 최종 승인을 받아 고시됐다고 밝혔다.&lt;br&gt;&lt;br&gt;위례신사선은 위례신도시와 서울 강남구 신사역을 연결하는 경전철이다. 서울시가 2008년부터 추진했지만 18년째 착공조차 못한 상태다. 최초 사업자인 삼성물산 컨소시엄이 2016년 수익성이 낮다는 이유로 중도 포기했고, 2020년 GS건설 컨소시엄이 우선 협상 대상자가 됐지만 또 다시 수익성을 이유로 2024년 사업을 포기했다.&lt;br&gt;&lt;br&gt;이후 서울시는 새로운 사업자를 찾기 위해 두 차례 공고를 냈지만 모두 유찰됐고, 결국 같은 해 11월 위례신사선을 서울시 예산을 들여 짓는 ‘재정 투자 사업’으로 전환하기로 했다. 이번에 국토부에서 이를 확정한 것이다.&lt;br&gt;&lt;br&gt;서울시는 기획예산처의 신속 예비타당성 조사 과정을 거쳐 기본 계획 수립과 설계 등 후속 절차를 밟는다는 계획이다.&lt;br&gt;&lt;br&gt;여장권 서울시 교통실장은 “18년간 지역 주민의 염원이었던 위례신사선 사업을 완수하기 위해 남아 있는 절차도 차질 없이 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사제 총기로 아들 살해’ 60대, 1심 무기징역 불복해 항소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/13/QNCQR6ZHSBDH7DTOPEHALCUPKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/QNCQR6ZHSBDH7DTOPEHALCUPKM/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 01:06:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGFW5X4N6G6BYJWZCBP5PRKDKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사제 총기 살해 사건 피의자 조모씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직접 만든 총기로 아들을 살해하고 며느리와 손주 등을 살해하려 한 혐의로 1심 법원에서 무기징역이 선고된 60대 남성이 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 살인, 살인미수, 총포·도검·화약류 등의 안전관리에 관한 법률 위반 등 혐의를 받는 조모(63)씨 측은 전날 인천지법에 항소장을 냈다. 양형 부당 등을 항소 이유로 든 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건 1심 선고를 맡은 인천지법 형사13부(재판장 김기풍)는 지난 6일 그에게 무기징역을 선고했다. 검찰은 조씨에게 사형을 구형했다.&lt;br&gt;&lt;br&gt;조씨가 항소하면서 이 사건은 서울고법 인천원외재판부에서 2심이 진행될 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRTKODGHA4DKYLGG5QTQNRSGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사제 총기 살해 사건 피의자 조모씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조씨는 지난해 7월 20일 오후 9시 31분쯤 인천시 연수구 송도동의 한 아파트 33층 집에서 직접 만든 총기로 산탄 2발을 쏴 아들 A(33)씨를 살해한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;조씨는 당시 집안에 함께 있던 며느리와 손주 2명, 외국인 가정교사 등 4명도 총기로 살해하려 한 혐의를 받았다.&lt;br&gt;&lt;br&gt;범행 장소는 아들 A씨의 집으로, 당시 A씨 가족 등은 조씨의 생일 잔치를 위해 모였었다.&lt;br&gt;&lt;br&gt;조씨는 2024년 8월부터 범행을 계획하고 유튜브로 사제 총기와 자동 발화 장치 제조법 등을 익힌 것으로 파악됐다. 그는 또 살상력을 높이기 위해 20년 전 구입한 실탄을 개조하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4DGNZYG5SDQZDDMMYTOMZRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조씨는 자신이 거주하는 서울 도봉구 쌍문동 아파트 자택에 시너가 든 페트병 등 인화성 물질 15개와 점화 장치를 설치해 범행 다음 날 폭발시키려 한 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;조씨는 20년 넘게 일정한 직업 없이 살면서 월 600만원이 넘는 돈을 전처와 아들로부터 받아 생활해 오다가, 2023년 말부터 전처가 지원을 중단하자 앙심을 품고 아들을 살해한 것으로 드러났다.&lt;br&gt;&lt;br&gt;검찰은 조씨가 전처와 아들이 함께 자신을 속이고 고립시킨다는 망상에 빠져 전처가 아끼는 아들과 그 가족을 살해해 복수하려 한 것으로 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최준영 기아 대표, 오는 25일 고려대 졸업식서 축사</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/13/UXDTQ5UA6JBXPFO4KHJERNTZWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/UXDTQ5UA6JBXPFO4KHJERNTZWY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 00:06:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7C2ONIGUBBW3DJYQDLFQKFLNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최준영 기아 대표/현대차그룹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최준영(63) 기아 대표가 오는 25일 고려대 졸업식에서 축사를 맡는다. 고려대 경영학과 82학번인 최 대표가 모교 졸업식 축사를 하는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;고려대는 오는 25일 2025학년도 전기 학위수여식에서 최 대표가 축사를 한다고 13일 밝혔다. 고려대를 졸업한 후 기아에 입사한 최 대표는 광주지원실장·노무지원사업부장 등을 지냈고, 2018년 기아자동차(現 기아) 대표가 됐다.&lt;br&gt;&lt;br&gt;고려대 관계자는 “2025년 고려대 개교 120주년과 기아자동차 창립 80주년이 맞물리는 해를 기념해 학교와 기업이 함께 걸어온 역사를 조명하는 의미로 최 대표를 연사로 모시게 됐다”며 “기아와 고려대 간의 미래지향적인 산학 협력 관계를 공고히 하고, 양 기관의 깊은 우정이 지속되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;한편, 2025학년도 고려대 전기 학위수여식은 오는 25일 오전 10시에 고려대 서울캠퍼스 인촌기념관 대강당에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 해운대구 아파트서 불... 70대 남매 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/02/13/EGZ3JO54JZEZJLBKVCTTJ3WB4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/13/EGZ3JO54JZEZJLBKVCTTJ3WB4A/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 23:54:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A6AGLNOERDA3MX6F7PNIWQC3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 부산 해운대구 한 아파트에서 불이 났다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVQ2HOWPHRDHBKDG7PSDOMBCXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 부산 해운대구 한 아파트에서 불이 났다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구 한 아파트에서 불이 나 70대 남매가 숨졌다.&lt;br&gt;&lt;br&gt;13일 부산소방재난본부에 따르면, 이날 오전 3시 43분쯤 부산 해운대구 한 14층짜리 아파트 5층 70대 여성 A씨의 집에서 불이 났다.&lt;br&gt;&lt;br&gt;화재 현장에서 A씨는 거실에서, A씨의 70대 남동생 B씨는 화장실에서 각각 심정지 상태로 소방에 구조돼 심폐소생술을 받으며 인근 병원으로 이송됐지만 숨졌다. 소방 관계자는 “불이 입구 쪽 방에서 시작돼 A씨 남매가 미처 대피하지 못한 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;또 이 불로 입주민 100여 명이 대피했으며, 이 과정에서 6명이 연기를 흡입했다.&lt;br&gt;&lt;br&gt;불은 아파트 내부와 가재도구 등을 태워 소방서 추산 2000만원 상당의 재산 피해를 내고, 약 40분 만에 진화됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 이날 오전 10시 30분 합동 감식을 벌여 정확한 화재 원인을 조사할 예정이다. &lt;br&gt;&lt;br&gt;화재가 발생한 아파트는 1985년에 지어진 노후 아파트로, 스프링클러가 설치돼 있지 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경복궁 경비원 폭행한 中관광객들, 경찰 조사 다음날 출국</title>
       <link>https://www.chosun.com/national/national_general/2026/02/13/AJD5UUVM4FDENF3JORBCSI63YQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/AJD5UUVM4FDENF3JORBCSI63YQ/</guid>
@@ -734,15 +860,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/OE2DJ7V35NC5VFA7RX3NDHKWPM.gif?auth=bc0c09df68e3aa0f9e35934d35e236e3379d7135980eb8b234ac59b9d039883b&amp;smart=true&amp;width=900&amp;height=506" type="image/jpeg" height="506" width="900"/>
     </item>
     <item>
-      <title>법무부, ‘공천헌금’ 강선우 체포동의안 국회 제출</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/I6A5IHB26NGZXMOHRLTEBIT7G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/I6A5IHB26NGZXMOHRLTEBIT7G4/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 03:34:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSTIMBUHA4GKZJVMQYGMMBZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공천헌금 1억원을 수수한 혐의를 받는 강선우 무소속 의원 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 무소속 강선우 의원에 대한 체포동의 요청안을 12일 국회에 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;강 의원은 제8회 전국지방선거를 약 5개월 앞둔 2022년 1월 서울 용산구 하얏트호텔에서 김경 전 서울시의원에게서 ‘서울시의원 후보자로 공천해달라’는 청탁을 받고 현금 1억원을 수수한 혐의(정치자금법 위반) 등을 받는다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 경찰이 신청한 강 의원의 정치자금법 위반, 배임수재, 청탁금지법 위반 혐의 구속영장을 지난 9일 법원에 청구했다. 김 전 시의원도 배임증재 혐의로 구속영장이 청구됐다.&lt;br&gt;&lt;br&gt;강 의원은 현역 국회의원이어서 회기 중 국회 동의가 있어야 체포 또는 구금이 가능하다. 검찰이 영장을 청구하면 법원이 체포동의요구서를 다시 검찰에 송부하고, 검찰이 이를 법무부에 보낸다. 법무부는 대통령 재가를 거쳐 국회에 체포 동의를 요청한다. 국회의장은 체포 동의를 요청받은 후 처음 개의하는 본회의에서 이를 보고하고 24시간 이후 72시간 이내에 표결한다. 재적 의원 과반 출석과 출석 의원 과반 찬성으로 체포동의안이 가결돼야 법원에서 구속 전 피의자심문(영장실질심사)을 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>산재 기업에 과징금 ‘최대 영업익 5%’ 법안 통과</title>
       <link>https://www.chosun.com/national/labor/2026/02/12/U7QLSJ2B3FDSLCAEUXOWQGYXWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/02/12/U7QLSJ2B3FDSLCAEUXOWQGYXWU/</guid>
@@ -750,15 +867,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 03:27:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAYU6OZV2VJ4LIB4X5P6CDU4QQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관이 12일 서울 여의도 국회에서 열린 기후에너지환경노동위원회 전체회의에서 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산업재해로 연(年) 3명 이상 사망하는 기업에 영업이익의 최대 5%의 과징금을 부과하는 내용의 ‘산업안전보건법 개정안’이 12일 국회 기후에너지환경노동위를 통과했다. 야당 측은 “예상되는 부작용에 대한 논의가 더 필요하다”며 표결에 불참했지만, 여당이 밀어붙인 것이다.&lt;br&gt;&lt;br&gt;법안의 쟁점은 과징금이 이중 제재에 해당하는지 여부였다. 야당과 경영계에선 이미 사망 사고 발생 시 형사적 제재를 하고 있기 때문에 과징금까지 내게 하는 건 불합리하다는 의견이 나왔다. 특히 영업이익의 규모와 잘못된 행위 간 인과관계가 없는 데 영업이익에 따라 책임의 범위가 정해지는 건 법리에 맞지 않는다는 주장이 제기됐다. 현행 산안법에 벌칙과 과징금을 동시에 부과하는 사례가 없다는 점도 문제로 지적됐다. 그러나 여당은 ‘안전·보건 수칙 준수의 강제성 제고' 등을 이유로 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;이날 산안법 개정안엔 사망사고 등 중대재해가 반복적으로 발생한 건설사에 고용노동부가 관계 부처에 등록말소를 요청할 수 있도록 한 조항도 포함됐다. 최근 3년간 영업정지 처분을 2차례 받은 후 다시 영업정지 요청 사유가 발생하면 등록말소 요청 대상이 된다. 등록말소 처분된 건설사는 신규사업, 수주, 하도급 등 모든 영업활동이 중단된다.&lt;br&gt;&lt;br&gt;기후환경노동위원회 국민의힘 의원들은 성명을 통해 “과징금은 과도한 이중 제재이고, 등록말소제 또한 기업 활동 전반에 과도한 위축 효과를 초래할 것”이라며 “고용노동법안 날치기 강행을 중단하라”고 비판했다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 지난달 20일 산재 관련 법안이 국회에 계류 돼 있자 김영훈 고용노동부 장관에게 “국회 가서 싹싹 빌어서라도 빨리 처리하라”고 말했다. 이와 다르게 여당이 법안을 강행 처리하자 국민의힘 의원들은 “싹싹 빌라더니 오늘과 같은 입법 강행이 이뤄진 것을 보면, 당시 발언이 결론을 정해 놓은 ‘짜고 치는 고스톱’이 아니었는지 의구심이 든다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구속 기로 선 김경 “강선우, 사실과 다른 주장 거듭해 유감”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/XFQ5DC7EHZDV3CCT3RJAAWR4E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/XFQ5DC7EHZDV3CCT3RJAAWR4E4/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:58:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYDMYZZGEYTOZTEMRTDCZRZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선우 무소속 의원(왼쪽)과 김경 전 서울시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 헌금’ 의혹으로 구속 전 피의자 심문(영장실질심사)을 앞둔 김경 전 서울시의원이 “강선우 의원 측에서 사실과 다른 주장을 거듭하고 있는 상황에 대해 유감을 표한다”고 했다. 공천 헌금 1억원이 오간 경위를 놓고 강 의원과 진술이 엇갈리고 있는 데 따른 불편한 심기를 드러낸 것이다. &lt;br&gt;&lt;br&gt;김씨 측은 12일 배포한 입장문을 통해 “강 의원 측의 주장 하나하나에 일일이 대응하며 소모적인 진실 공방을 벌이기보다는 법의 심판을 기다리기로 했다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “이미 수사기관에 본인이 아는 모든 사실을 있는 그대로 진술했으며 이를 증명할 자료도 제출했다”며 “이제 소모적 논쟁을 멈추고 법의 냉철한 판단을 통해 진실이 명확히 밝혀지기만을 바란다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “이제 더 이상 숨길 것도, 숨길 이유도 없다”며 “수사나 재판 과정에서 미진한 부분이 있다면 성실히 소명하고 그에 따른 책임 또한 달게 받겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김씨와 강 의원은 앞선 경찰 조사에서 2022년 지방선거를 앞두고 공천 헌금 1억원이 오간 상황을 다르게 진술한 바 있다. 김씨는 강 의원 측이 먼저 ‘1억원’이란 액수까지 특정해 만남을 주선했다고 주장하는 반면, 강 의원은 김씨가 건넨 쇼핑백에 돈이 든 사실을 뒤늦게 알고 반환했다고 한다.&lt;br&gt;&lt;br&gt;두 사람은 2023년 10월 서울 강서구청장 보궐선거 관련 공천 헌금 의혹에서도 입장이 갈렸다. 그해 6~9월쯤 김씨가 강 의원 측 요구를 받고 두 차례 현금이 든 쇼핑백을 건네려 시도했으나, 강 의원은 모두 당일에 거절하거나 반환했다는 입장이다.&lt;br&gt;&lt;br&gt;한편 지난 9일 서울중앙지검은 정치자금법 위반 및 배임수·증재 등의 혐의로 강 의원과 김씨에 대한 구속영장을 청구한 상황이다. 김씨의 영장실질심사는 이르면 이번 주에 진행될 전망이다. 강 의원은 불체포특권이 있는 현역 의원 신분으로 국회에서 체포동의안이 가결돼야 영장실질심사를 받게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>李 대통령이 띄운 ‘설탕 부담금’ 국회 토론회 열려...“진보·보수라고 입장 다르지 않아”</title>
@@ -770,24 +878,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLJB42N6KVELXDG2QLBXYP4Y3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 서울 여의도 국회 도서관 소강당에서 '설탕과다사용부담금 국회토론회'가 열렸다./서울대 건강문화사업단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당류 과다 식품에 부담금을 매기는 ‘설탕 부담금’과 관련해 서울대 건강문화사업단과 정태호 더불어민주당 의원이 12일 서울 여의도 국회 도서관에서 ‘설탕 과다사용부담금 국회 토론회’를 열었다. 지난해 9월에 이어 두 번째 토론회다. 지난달 이재명 대통령은 설탕 부담금으로 확보한 재원을 공공 의료에 쓰자고 제안했다.&lt;br&gt;&lt;br&gt;이날 윤영호 서울대 의대 교수는 “(설탕 부담금은) 부담금 성격에 맞게 국민 건강권 강화와 건강 불평등 해소 등 공익에 사용돼야 한다”며 “지역 공공 의료 등 국민적 위기 문제를 해결할 때도, 국민들이 의료비 부담을 느낄 때도 이 설탕 부담금이 사용돼야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 윤 교수는 “재원 활용 방안에 대한 정밀한 설계가 필요하다”며 “현재 의원들이 발의한 법안에는 설탕 부담금을 부과하고 어디에 쓰겠다는 내용이 있지만, 기업과 소비자 입장을 고려해서도 (재원 활용 방안이) 어떻게 설계돼야 할지 고민해 법에 담길 수 있도록 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;소득 수준, 정치적 이념에 따라 설탕 부담금에 대한 찬반이 갈린다는 논란도 언급했다. 윤 교수는 “소득 수준에 따라서, 또 진보냐 보수냐에 따라서 이것의 입장이 다른지에 대해서도 논란이 있었지만 조사 결과 찬반 입장이 전혀 다르지 않았다”며 “보수에서도 70% 이상이 (설탕 부담금에) 찬성하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;명칭을 둘러싼 논의도 이어졌다. 이진수 서울대 행정대학원 교수는 “‘설탕세’라는 명칭을 사용한다고 해서 반드시 국세 또는 지방세에 해당하는 조세를 의미하는 것은 아니다”라며 “사용 자체가 쟁점이 되는 것이 아니라 ‘과다 사용’이 쟁점이 되는 것이며 법적 성격은 ‘부담금’에 해당하는 것으로 보고 있으며 명칭은 ‘당류과다사용부담금’이 적절할 것으로 생각한다”고 했다.&lt;br&gt;&lt;br&gt;한국 식품산업협회 본부장 또한 “(설탕 부담금의) 사용 목적이 명확하더라도 국민들은 세금으로 인식할 것”이라며 “단순한 행정적 부담금이 아닌 국민 생활과 직결되는 조세 정책으로 인식되리 가능성이 커 이에 대한 사회적 공감과 검토가 선행돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;설탕 부담금으로 인한 물가 인상에 대한 우려도 제기됐다. 정지연 한국소비자연맹 사무총장은 “소비자 입장에서는 설탕세를 통한 재원이 어디에 쓰이느냐보다 더 중요한 것은 이 제도가 소비자 부담으로 전가되지 않느냐다”라며 “설탕 부담금이 세수 확대 수단이 아니라는 점을 분명히 해야 하고, 제도 시행 이후 가격 변동은 없는지 상시 모니터링이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;정태호 의원은 “WHO에 의하면 우리나라 성인 5명 중 1명, 청소년 3명 중 1명이 권고치 이상으로 설탕을 섭취하고 있고, 최근 들어서는 ‘당류 공화국’이라는 말까지 나온다”며 “이런 상황에서 설탕 부담금을 논의하지 않으면 국가가 그 책임을 방기하는 것이라는 결론에 이르렀다”고 했다.&lt;br&gt;&lt;br&gt;서울대 건강문화사업단이 한국리서치에 의뢰해 지난달 국민 1030명을 대상으로 실시한 설문조사에 따르면 응답자의 80.1%가 첨가당 과다 사용 기업에 ‘설탕 과다 사용세’를 부과하는 설탕세에 찬성하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;앞서 지난달 28일 이재명 대통령은 이 설문조사 결과를 인용하며 자신의 X(옛 트위터)에 “설탕 부담금으로 설탕 사용 억제, 그 부담금으로 지역·공공 의료 강화에 재투자(하는 방안에 대해) 여러분 의견은 어떤가요?”라고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대법 “전두환 회고록, 5·18 민주화운동 왜곡”... 배상책임 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/MKXKWC4ZHNGEVPNFIN6ZC5G334/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/MKXKWC4ZHNGEVPNFIN6ZC5G334/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 03:11:36 +0000</pubDate>
-      <content:encoded>회고록에서 5·18 민주화운동을 왜곡했다며 5월 단체 등이 고(故) 전두환 전 대통령을 상대로 제기한 손해배상 소송에서 12일 대법원이 전 전 대통령 측의 배상책임을 인정했다. 2017년 6월 소송이 제기된 지 8년 8개월 만에 나온 확정 판결이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K74Q3EOAPSJFL2VK4MA5ZCW2YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 전두환 전 대통령./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 이날 5·18기념재단 등 5월 단체 네 곳과 고(故) 조비오 신부의 조카 조영대 신부가 전 전 대통령과 아들 전재국씨를 상대로 낸 손해배상청구 소송 상고심 선고를 열고, 전 전 대통령 측이 5월 단체 네 곳에 6000만원을, 조 신부에게 1000만원을 지급하라는 원심 판결을 상고기각으로 확정했다. 다만 전 전 대통령이 항소심 재판이 진행 중이던 2021년 11월 23일 사망하면서 배우자 이순자 여사가 소송을 수계받았고, 전 전 대통령 대신 배상 책임을 지게 됐다. 고(故) 조비오 신부는 5·18 민주화운동 당시 계엄군의 헬기 사격을 목격했다고 증언한 바 있다.&lt;br&gt;&lt;br&gt;이 사건은 2017년 3~4월 전 전 대통령이 집필하고, 전씨가 발행해 판매한 ‘전두환 회고록 1권 혼돈의 시대(1979~1980)’ 제1판 제1쇄 속 내용이 발단이 됐다. 회고록 1판에는 “교도소 습격은 북한의 고정 간첩 또는 북한 특수전 요원이 개입한 것이라고 추측할 수 있게 하는 대목이다”를 비롯해, “헬기를 이용한 기총소사까지 감행했다는 등 차마 말로 하기 힘들 정도로 끔찍한 이야기들이 더해져 전해지고 있다” “광주에서 양민에 대한 국군의 의도적이고 무차별적인 살상 행위는 일어나지 않았고” 등 내용이 담겼다. 5월 단체들은 손해배상 청구 소송을 내면서 회고록 내용 중 총 70개의 표현을 삭제해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;1심은 2018년 9월 전 전 대통령 측이 5월 단체들에 총 6000만원, 조 신부에게 1000만원 등 총 7000만원을 배상해야 한다고 판단했다. 또 허위 사실이 담긴 표현 62개를 삭제하지 않으면 회고록을 출판·판매할 수 없다고 했다. 1심은 “회고록 속 표현들은 원고들의 명예를 훼손하는 허위 사실을 포함하고 있고, 5·18 민주화운동의 성격을 왜곡한다”며 “5월 단체나 5·18 민주화운동 참가자들 및 그 가족 전체를 비하하고 편견을 조장함으로써 원고들에 대한 사회적 가치 내지 평가를 저해한다고 볼 수 있다”고 했다. 전 전 대통령 측은 조영대 신부가 고(故) 조비오 신부의 배우자나 직계가족이 아니어서 손해배상을 청구할 수 없다는 주장도 펼쳤으나, 1심은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;2022년 9월 항소심도 회고록 속 북한군 개입설, 헬기 사격 등 51개 표현이 허위 사실에 해당한다며 1심과 같이 총 7000만원을 배상하라고 선고했다. 항소심은 “전 전 대통령은 5·17 군사반란, 5·18 관련 내란 및 내란목적살인의 우두머리로서 무기징역형의 유죄 확정 판결을 받은 장본인”이라며 “그럼에도 이 사건 회고록을 통해 이미 법적으로 단죄된 부분마저 자신의 책임을 전면 부인하고 억울하게 십자가를 지게 된 양 피해자 행세를 하면서 진짜 피해자인 민주화운동 세력을 비난하고 있다”고 질타했다. 항소심은 또 전 전 대통령이 회고록에서 계엄군의 헬기사격와 관련한 허위 사실을 적시하고 조비오 신부에 대해 모욕적인 표현을 했다고 인정하며, 조영대 신부의 손해배상 청구권을 인정했다.&lt;br&gt;&lt;br&gt;다만 항소심은 1심이 허위사실로 인정한 표현 중 “광주사태로 인한 직간접적인 피해와 희생이 컸던 만큼 그 상처가 아물기까지는 더 많은 시간이 필요할지 모른다” “북한의 5.18광주사태 개입과 관련한 진상을 규명하는 일은 아쉽지만 미완의 과제로 남겨놓을 수밖에 없었다” 등 표현은 그대로 유지해도 된다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 “회고록 속 표현들은 단순한 의견 표명이 아니라 ‘5·18 민주화운동 당시 북한군이 시위에 참여해 이를 격화시켰다’거나 ‘계엄군의 헬기사격은 없었다’ 등의 구체적 사실을 적시한 것에 해당한다”며 “확정판결 및 관련자들의 법정 진술, 국방부 과거사진상규명위원회의 조사결과 등을 종합하면 허위사실 적시가 인정된다”고 판단했다. 또 전 전 대통령과 아들 재국씨가 회고록을 집필·출판하는 과정에서 문제가 된 표현들이 진실이라고 믿을만한 이유가 있었다는 점이 증명되지도 않았다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2조원대 LG 상속분쟁... 1심, 구광모 손들어줬다         </title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/N6XJ7AT5QNDJ7IDAK7VIQTKZMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/N6XJ7AT5QNDJ7IDAK7VIQTKZMU/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 01:04:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42GMNZQGZRTOZDEHAZDKYZVMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방중 경제사절단 일정을 마친 구광모 LG그룹 회장이 지난달 6일 오후 서울 강서구 김포 비즈니스 항공센터(SGBAC)를 통해 귀국하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구광모 LG그룹 회장이 선친인 고(故) 구본무 전 회장의 상속 재산을 둘러싸고 벌어진 법적 분쟁에서 승소했다. &lt;br&gt;&lt;br&gt;서울서부지법 민사합의11부(재판장 구광현)는 12일 구 전 회장의 부인 김영식 여사와 두 딸인 구연경 LG복지재단 대표, 구연수씨가 구 회장을 상대로 제기한 상속회복청구 1심 소송에서 원고 측 청구를 모두 기각했다. 2023년 2월 소송을 제기한 지 약 3년 만이다.&lt;br&gt;&lt;br&gt;구 전 회장이 2018년 사망하며 남긴 재산은 LG그룹 지분 11.28%를 포함해 약 2조원 규모였다. 당시 상속인 간 합의에 따라 구 회장은 이 가운데 그룹 지분 8.76%를 상속받았고, 구 대표와 구연수씨는 각각 지분 2.01%, 0.51%과 구 전 회장의 개인 재산 등 약 5000억원 규모의 유산을 상속받았다.&lt;br&gt;&lt;br&gt;그러나 2023년 세 모녀는 “당시 LG그룹 재무관리팀이 ‘구광모 회장이 주식을 모두 상속받는다는 고인의 유언이 있었다’고 기망해 재산 분할에 합의한 것”이라며 법정 상속 비율(배우자 1.5, 자녀 각 1)에 따른 유산 재분배를 요구했다.&lt;br&gt;&lt;br&gt;이에 대해 구 회장 측은 구 전 회장이 LG그룹의 장자 승계 원칙에 따라 주식 등 경영 재산을 구 회장에게 승계하겠다는 취지의 의사를 남겼다는 직원들의 증언을 제시하며, 상속재산 분할 합의는 적법한 절차에 따라 이뤄졌다고 반박했다.&lt;br&gt;&lt;br&gt;재판부는 구 회장 측 주장을 받아들였다. 재판부는 “직원들의 증언 내용에 비춰볼 때 고인은 ‘경영 재산은 구 회장에게 상속한다’는 유지를 남겼고, 직원들이 이를 토대로 작성한 ‘유지 메모’가 존재했을 것으로 보인다”고 밝혔다. 또 “상속재산 분할 당시 원고들은 여러 차례 내용을 보고받았고, 원고 측 요청에 따라 협의 내용이 변경되기도 했다”며 재산 상속이 유효하게 이뤄졌다고 판단했다.&lt;br&gt;&lt;br&gt;이번 판결에 따라 세 모녀의 청구가 기각되면서 2018년 상속 분할 효력은 유지된다. 다만 세 모녀 측이 항소할 경우 법적 분쟁은 2심으로 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정진상 ‘대장동’ 재판부, 유동규에 과태료 이어 구인영장 발부</title>
       <link>https://www.chosun.com/national/court_law/2026/02/12/5CBZ34G5LNHMTDTWNGFICH2ICQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/5CBZ34G5LNHMTDTWNGFICH2ICQ/</guid>
@@ -795,33 +885,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 02:08:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2QXETTGJZDKHEHQYLDQEFXDNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 본부장(왼쪽)과 정진상 전 민주당 대표실 정무조정실장./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령 측근인 정진상 전 더불어민주당 당대표실 정무조정실장의 대장동 개발 비리 의혹을 심리 중인 재판부가 12일 유동규 전 성남도시개발공사 기획본부장에 대해 강제로 법정에 데려오는 구인영장을 발부했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관) 이날 정 전 실장의 대장동·위례·성남FC·백현동 뇌물 사건 재판에서 “오는 3월 11일 유 전 본부장을 구인해 반대신문을 진행하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;유 전 본부장은 애초 작년 12월 5일 증인으로 소환됐으나 법정에 나오지 않았다. 그는 허리 부상과 다리 골절로 거동이 곤란하고, 정신적 충격으로 증언이 불가능하다는 내용의 불출석 사유서를 제출하며 기일 변경을 요청했었다. 그러나 재판부는 “제출된 진단서상 골절은 이미 수개월 전 발생한 것”이라며 불출석에 대해 과태료 100만원을 부과했다.&lt;br&gt;&lt;br&gt;이후 검찰은 지난달 “유 전 본부장의 건강 상태를 확인하기 위해 구치소에 관련 자료를 요청했으나 의료법 등을 이유로 회신이 거부됐다”며 재판부에 구인영장을 발부해달라고 요청했다. &lt;br&gt;&lt;br&gt;정 전 실장은 대장동·위례·백현동 부동산 개발 비리 사건 3개와, 인허가 대가로 불법 후원금을 받았다는 성남FC사건이 병합돼 있다. 이재명 대통령과 함께 기소됐으나, 재판부가 대선 이후 이 대통령에 대한 재판만 분리해 무기한 연기하면서 혼자 재판을 받고 있다. &lt;br&gt;&lt;br&gt;한편, 재판부는 3대 특검(내란·김건희·순직해병) 사건이 늘어나 재판을 자주 진행할 수 없다는 고려해 정 전 실장의 보석 조건 완화를 검토하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;이날 정 전 실장 측이 “보석 조건으로 묶여있어 정 전 실장의 개인적·사회적 삶이 오랫동안 멈춰있는 상태”라면서 “법이 허용하는 내에서 느슨하게 풀어주십사 한다”고 요청하자, 재판부는 “재판부에 특검 사건이 너무 많아 일주일 내내 재판하고 있다”며 “대장동 사건은 6월까지 추가 기일이 불가능한데 이런 부분을 보석 조건을 판단할 때 고려하지 않을 수 없다”고 했다. &lt;br&gt;&lt;br&gt; 형사33부는 ‘헌법재판관 미임명’ 의혹을 받는 한덕수 전 국무총리 사건과 박성재 전 법무부 장관의 내란 중요 임무 종사 사건, 윤석열 전 대통령의 명태균씨 ‘무상 여론조사’ 수수 재판 등을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>SK하이닉스 성과급, 퇴직금에 안 넣는다… 대법 “평균임금 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/2ZCOOMOYV5BEDB2HTA6RV365NQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/2ZCOOMOYV5BEDB2HTA6RV365NQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 01:49:22 +0000</pubDate>
-      <content:encoded>SK하이닉스가 지급해 온 생산성격려금(PI)과 이익분배금(PS)은 퇴직금 산정의 기준이 되는 평균임금에 포함되지 않는다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 12일 SK하이닉스 퇴사자 2명이 회사를 상대로 낸 퇴직금 청구 소송에서 원고들의 상고를 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZQTIOBUMJTDSMRTMVSTAZDBME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SK하이닉스 M15X 공장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쟁점은 회사가 매년 노사 합의를 통해 지급해 온 경영 성과급이 근로기준법상 평균임금에 해당하는지 여부였다. 평균임금에 포함되면 퇴직금도 함께 늘어난다.&lt;br&gt;&lt;br&gt;SK하이닉스는 1999년부터 생산직 노조와 매년 합의를 거쳐 성과급 지급 여부와 기준을 정해왔다. 성과급은 생산량에 따라 반기마다 지급되는 ‘생산성격려금’과, 영업이익 등을 기준으로 산정되는 ‘이익분배금’으로 구성됐다. 하지만 고정적으로 지급된 것은 아니었다. 2001년과 2009년에는 노사 합의가 이뤄지지 않아 성과급이 전혀 지급되지 않았다. 지급 자체가 매년 협상 결과에 달려 있었던 셈이다.&lt;br&gt;&lt;br&gt;퇴사자들은 성과급이 사실상 매년 지급돼 온 만큼 퇴직금 산정의 기준이 되는 평균임금에 포함돼야 한다고 주장했다. 그러나 1·2심은 이를 받아들이지 않았다. 재판부는 단체협약이나 급여 규정 등에 성과급 지급 의무가 명시돼 있지 않고, 지급 여부와 조건도 매년 노사 합의에 따라 달라졌다는 점을 근거로 들었다. 또 성과급이 개별 근로자의 근로 제공과 직접적으로 연동된다고 보기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;대법원도 같은 결론을 내렸다. 재판부는 “기업 내부의 특정 관행이 근로계약의 내용을 이룬다고 보기 위해서는 그 관행이 기업 내에서 사실상의 제도로 확립돼 있어야 한다”고 밝혔다. 이어 “SK하이닉스가 연도별로 체결한 노사 합의는 효력이 당해 연도에 한정되고, 회사가 경영 상황에 따라 언제든지 성과급에 관한 합의를 거절할 수 있었다”고 했다. 연도별 노사 합의에 따라 지급 여부가 달라진 성과급에 대해 회사에 계속적·정기적인 지급 의무가 있다고 보기는 어렵다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 특히 영업이익 또는 경제적 부가가치(EVA)에 따른 성과급의 성격을 짚었다. 대법원은 “영업이익 또는 EVA의 발생 여부와 규모는 근로자의 근로 제공뿐 아니라 회사의 자본 및 지출 규모, 비용 관리, 시장 상황, 경영 판단 등 다른 요인들에 의해 결정된다”며 “실제 지급률도 연봉의 0%에서 50%까지 크게 변동했다”고 지적했다. 근로의 양과 질에 비례해 지급된 임금이라고 보기는 어렵다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 지난달 29일 선고한 삼성전자 퇴직금 소송과 같은 법리를 적용했다고 밝혔다. 당시 대법원은 삼성전자의 ‘목표인센티브(TI)’에 대해 “경영성과의 사후적 분배라기보다 근로 성과의 사후적 정산에 가깝다”며 평균임금에 포함해야 한다고 판단했다. 반면 ‘성과인센티브(PI)’는 시장 상황과 경영 판단 등 외부 요인의 영향이 크다며 평균임금에 포함되지 않는다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘경로당에 수천만원 물품 제공’ 송옥주 의원, 항소심서 무죄</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/DDV3ZOQPVRGNJNYCZTAOZXAIVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/DDV3ZOQPVRGNJNYCZTAOZXAIVE/</guid>
-      <dc:creator>수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 03:02:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPWXJLVCLJDILFSIMT6WOH5ZAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송옥주 더불어민주당 의원이 지난해 10월 24일 오후 충남 계룡대에서 열린 국회 국방위원회의 해군본부에 대한 국정감사에서 질의하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4·10 총선을 앞두고 지역 경로당에 물품과 식사를 제공하는 등 불법 기부행위를 한 혐의로 1심에서 당선 무효형을 선고받은 송옥주 더불어민주당 의원(경기 화성시 갑)이 항소심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;수원고법 형사3부(재판장 김종기)는 12일 송 의원의 공직선거법 위반(기부행위 금지 위반) 항소심 선고 공판에서 원심을 파기하고 무죄를 선고했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “(송 의원이)지역구 경로당 등에 제공된 금품 기부행위 주체로 보이지 않다”며 “인사말을 통해 기부행위 효과를 자신에게 돌리는 등 범행에 공모했다고 볼만한 증거가 없다”고 했다.&lt;br&gt;&lt;br&gt;또 송 의원과 함께 기소된 보좌관 등 5명도 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;다만 비서관 등 3명에 대해선 “행사에서 전자제품을 제공함으로써 공직선거법 취지에 어긋나는 행위를 했다. 죄책이 가볍지 않다”며 벌금 90만~300만원을 선고했다.&lt;br&gt;&lt;br&gt;송 의원은 지난 2023년 10월부터 2024년 3월까지 경기 화성시 지역구 내 경로당 20곳에서 행사를 개최하며 선거구민 319명에게 TV, 음료, 식사 등 약 2600만원 상당의 물품을 제공한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 “학생 용모 벌점 규제는 과도”…고교에 생활규정 개정 권고</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/VMUCNHEZGZEN3NDRQFVQAAEZ7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/VMUCNHEZGZEN3NDRQFVQAAEZ7Q/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 학생의 염색·화장·손톱 등 용모를 이유로 벌점을 부과해 온 고등학교에 대해 관련 규정 운영을 중단하고, 학생 인권에 부합하도록 학생생활규정을 개정할 것을 권고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;인권위 아동권리위원회는 지난해 7월 18일 한 일반계 고등학교에 대해 두발 및 용의와 관련해 벌점을 부과하는 규정의 운영을 중단하고, 학생·교사·학부모 등 교육 공동체의 의견 수렴 절차를 거쳐 규정을 개정하라고 결정했다.&lt;br&gt;&lt;br&gt;해당 사건은 재학생 학부모가 “학교가 염색, 화장, 손톱 등에 대해 용모 제한 규정을 두고 이를 위반했다는 이유로 반복적인 지적과 벌점을 부과해 자율권과 인격권이 침해됐다”며 진정을 제기하면서 시작됐다.&lt;br&gt;&lt;br&gt;학교 측은 ‘초·중등교육법’에 따라 학생생활규정을 제정·운영할 권한이 있으며, 해당 규정은 학습권 보장과 교육 환경 조성, 공동체 질서 유지를 위한 것이라고 주장했다. 규정에는 △염색은 어두운 갈색만 허용 △탈색·코팅·피어싱 금지 △모든 색조 화장 및 매니큐어 금지 등의 내용이 담겼고, 위반 시 벌점을 부과해 누적 점수에 따라 징계가 이뤄지도록 돼 있었다.&lt;br&gt;&lt;br&gt;그러나 인권위는 학생의 두발과 복장, 용모 등 외모를 스스로 결정하는 것은 헌법 제10조에서 파생되는 ‘개성을 자유롭게 발현할 권리’ 및 ‘자기결정권’에 해당한다고 판단했다. 특히 두발 형태와 색상, 화장, 손톱 표현 방식까지 일률적으로 제한하고 이를 위반할 경우 벌점을 부과하는 방식은 기본권 제한의 정도가 높다고 봤다.&lt;br&gt;&lt;br&gt;또 학교가 과거 규정 개정 과정에서 의견을 수렴했다고 주장했으나 관련 절차나 기록을 제출하지 못한 점, 이후 약 5년간 별도의 실질적 의견 수렴 없이 규정이 유지된 점 등을 들어 내용적·절차적 정당성을 인정하기 어렵다고 판단했다. 인권위는 해당 규정 운영이 과잉금지원칙을 위반해 학생의 개성 발현권과 자기결정권을 과도하게 제한한다고 밝혔다.&lt;br&gt;&lt;br&gt;이와 관련해 인권위는 같은 해 10월 29일 해당 학교에 학생의 용모를 이유로 벌점을 부과하는 ‘학생생활규정’을 개정할 것을 권고했으나, 학교 측은 벌점 부과 방식을 유지한 채 일부 제도만 개선해 권고를 ‘일부 수용’했다.&lt;br&gt;&lt;br&gt;학교는 △학생 자치 활동 참여 요건 완화 △징계 단계 세분화 △학생생활규정 제·개정위원회 재구성 △전체 의견 수렴 절차 도입 등을 조치했다고 회신했다. 하지만 인권위는 벌점을 통한 용모 규제 방식이 유지되는 한 권고의 핵심 취지가 실질적으로 이행됐다고 보기 어렵다고 판단했다. 인권위는 “벌점 등 불이익으로 학생을 규제하기보다 자율성과 자기결정권을 존중하는 방향의 생활지도가 바람직하다”며 해당 사례를 공표하기로 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>모텔서 ‘약물 음료’ 마신 남성 2명 잇따라 사망…20대 女 구속 기로</title>
@@ -840,60 +903,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 02:02:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6LVVDHJ5JDNTDVR3P6I35WCTA.png"&gt;&lt;figcaption&gt;&lt;small&gt;'개선이 필요한 공공언어 국민 설문조사' 결과. /문화체육관광부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민 10명 중 9명 이상이 ‘말씀이 계시겠습니다’와 같은 과도한 높임 표현을 바꿔야 할 잘못된 표현이라고 인식했다.&lt;br&gt;&lt;br&gt;문화체육관광부와 국립국어원은 12일 이 같은 내용을 포함한 ‘개선이 필요한 공공 언어 국민 설문조사’ 결과를 발표했다. 언론계·학계·시민단체 등이 참여한 자문회의를 통해 고쳐야 할 표현 30개를 선별한 뒤, 작년 12월 24∼30일 14∼79세 남녀 3000명을 대상으로 개선 필요 여부를 조사했다.&lt;br&gt;&lt;br&gt;조사 대상 중 개선 필요성이 가장 높게 나타난 항목은 ‘말씀이 계시겠습니다’ ‘커피 나오셨습니다’ 등 과도한 높임 표현이었다. 응답자 93.3%가 ‘바꿔야 한다고 생각한다’고 답했다.&lt;br&gt;&lt;br&gt;문장의 주어를 높이는 선어말 어미인 ‘시’는 사람이 아닌 사물이 주어인 문장에서는 사용할 필요가 없다고 문체부는 설명했다. ‘말씀이 계시겠습니다’는 ‘말씀이 있겠습니다’로, ‘커피 나오셨습니다’는 ‘커피 나왔습니다’로 바꿔 사용하면 된다.&lt;br&gt;&lt;br&gt;‘되’와 ‘돼’의 잘못된 사용에 대해서도 개선 필요성을 지적하는 응답(90.2%)이 많았다. 문체부는 ‘되’는 ‘되다’의 어간으로 ‘되어’ ‘되었’ ‘되어서’로 쓰거나, 줄여서 ‘돼’ ‘됐’ ‘돼서’로 표기하면 된다고 했다.&lt;br&gt;&lt;br&gt;이 밖에 ‘맘충·급식충’(87.1%)이나 ‘장애를 앓다’(78.7%)와 같은 혐오·차별 표현과 ‘염두하다’(74.8%), ‘알아맞추다’(71.2%)와 같은 오류 표현에 대한 개선 필요성도 높게 나타났다. ‘맘충·급식충’은 사용을 자제하고, 나머지는 ‘장애를 가지다’ ‘염두에 두다’ ‘알아맞히다’ 등으로 각각 바꿔 쓰면 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘3만원 어치 옷 6벌’ 절도 현장에 있었다고 공범으로 몰아간 검찰, 결국 1심 이어 2심서도 ‘무죄’</title>
-      <link>https://www.chosun.com/national/regional/2026/02/12/54DFOZC2B5CH5LXL5GPX2JOW6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/12/54DFOZC2B5CH5LXL5GPX2JOW6Y/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:26:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCBKQTC7BJEN7DYTH7IMLASIGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3만원어치 옷을 훔치는 것을 도왔다는 혐의로 재판에 넘겨진 피고인에게 1심에 이어 2심에서도 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;제주지법 형사1부(재판장 오창훈)는 12일 절도 방조 혐의로 재판에 넘겨진 A씨에 대한 항소심 선고공판에서 검찰 측 항소를 기각하고 A씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰 공소사실에 따르면 A씨는 지난 2024년 6월 27일 이웃 사이인 B씨가 제주 지역 의류 매장 밖에 진열된 시가 3만원 상당 옷 6벌을 훔칠 당시 가게 주인의 동향을 살피고 자신이 들고 있던 검은 비닐봉지를 B씨에게 전달해 범행을 도운 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨 측은 1심 재판 과정에서 “비닐봉지에는 B씨 약이 담겨 있었고, B씨가 약봉지를 달라고 해서 줬을 뿐 절도 사실은 알지 못했다”고 주장했다.&lt;br&gt;&lt;br&gt;1심 재판부는 방범 카메라(CCTV) 영상과 양측 진술 등을 종합해 “B씨가 옷을 꺼낼 당시 A씨가 휴대전화로 통화하고 있어 범행을 인식하지 못했을 가능성이 있고, ‘약봉지를 달라고 해 줬다’는 A씨 해명도 설득력이 있다”고 판시했다. 또 “A씨가 공소 사실과 같이 훔친 옷을 B씨와 나눠 가졌다거나 범죄 이익을 취했다고 볼 만한 증거도 없다”며 A씨 혐의를 무죄로 판단했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 이에 불복해 항소했다. 첫 항소심 공판에서 “A씨가 범행을 공모한 것이 아니라면 방조한 것은 아닌지 다퉈보겠다”며 특수절도에서 절도 방조 혐의로 공소장을 변경한 뒤 벌금 50만원을 구형했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “CCTV 영상을 보면 A씨는 B씨가 범행을 저지르는 동안 전화를 하고 있었다”며 “피고인이 매장 안쪽을 바라보는 모습이 있기는 하지만 실제 A씨가 B씨 범행을 도울 용의가 있었다면 매장 안쪽 상황을 알려줬을 텐데 그런 모습은 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인이 B씨 범행을 알았더라도 친한 지인인 데다 장애를 앓고 있어 범행을 중단시키기는 어려웠을 것”이라며 A씨 혐의를 무죄로 판단했다.&lt;br&gt;&lt;br&gt;한편 2심 재판부는 앞서 열린 첫 공판에서 “피해액이 3만원에 불과하고 1심에서 무죄가 선고된 사건인데, 항소심까지 이어지는 것이 타당한지 고민이 든다”고 밝혔었다. B씨도 경찰 조사 과정에서 A씨 공모 여부에 대해서는 언급하지 않았던 것으로 확인됐으며 B씨는 재판이 진행되던 기간에 사망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>美쿠팡 투자사 3곳, ISDS 중재의향서 추가 제출…“대응에 만전 기할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/12/6I4EBHKKN5AETNAYS4ONYXAZL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/6I4EBHKKN5AETNAYS4ONYXAZL4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:18:16 +0000</pubDate>
-      <content:encoded>쿠팡의 개인정보 유출 사건과 관련해 한국 정부의 대응에 문제를 제기하는 쿠팡의 미국 투자자들이 늘어나고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSGEYTFMFSDIYTEMU3DMMJZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 시내 쿠팡 물류센터 앞을 시민이 지나가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 12일 “미 투자회사인 에이브럼스 캐피털, 두라블 캐피털 파트너스, 폭스헤이븐 및 각 관계사는 한미 자유무역협정(FTA)에 근거한 국제투자분쟁 중재의향서를 우리 한국 정부에 추가로 제출했다”고 밝혔다. 앞서 그린옥스 캐피털과 알티미터 캐피털이 중재의향서를 제출한 데 이어, 또 다른 투자자들도 가세한 것이다. 법무부는 “추가 청구인들은 그린옥스와 알티미터의 기존 중재의향서상 사실관계와 관련 주장을 그대로 원용했다”고 밝혔다.&lt;br&gt;&lt;br&gt;중재의향서는 청구인이 중재를 제기하겠다는 의사를 상대 국가에 밝히는 서면으로, 제출 90일 이후 정식으로 중재를 제기할 수 있다.&lt;br&gt;&lt;br&gt;앞서 쿠팡 지분을 보유한 그린옥스와 알티미터는 한국 정부가 쿠팡을 차별적으로 대우해 한미 자유무역협정(FTA)을 위반했고, 이 때문에 주가 하락 등 손실을 봤다고 주장하며 지난달 22일 한국 정부를 상대로 국제투자분쟁(ISDS) 중재 절차에 착수하겠다는 의향서를 한국 정부에 보냈다.&lt;br&gt;&lt;br&gt;이들은 무역법 301조(외국의 불공정 무역에 대해 고율 관세 같은 보복 조치 규정)에 따라 한국 정부의 ‘불합리하고 차별적인 행위’를 조사하고 적절한 무역 구제 조치를 취하라고 요구하는 청원을 미 무역대표부(USTR)에 제출하기도 했다.&lt;br&gt;&lt;br&gt;법무부는 “정부는 이번 폭스헤이븐 등의 추가 중재의향서에 대해서도 ‘국제투자분쟁대응단’을 중심으로 체계적이고 전문적인 대응에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김태흠 “통합법안 심사 중단해야… 지역 여당의원들은 참여도 안해”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/12/WGI3E3YWZRBXTKYOUYXMUFR2GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/12/WGI3E3YWZRBXTKYOUYXMUFR2GM/</guid>
-      <dc:creator>홍성=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:21:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLPCFCJX4BI5HEPZPRCUZXTCCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태흠 충남지사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태흠 충남지사는 12일 행정통합 특별법안과 관련해 “국회 행정안전위원회 졸속 심사를 즉각 중단하라”고 밝혔다. 전날 국회 행안위 법안심사소위원회에서 진행된 행정통합 특별법안 심사에서 재정·권한 이양 내용이 빠지자 반발하고 나선 것이다.&lt;br&gt;&lt;br&gt;김 지사는 이날 충남도청에서 기자회견을 열고 “민주당이 발의한 대전충남 통합법안에 포함돼 있던 양도소득세 및 교부세 이양 등 재정 이양에 대한 내용이 완전히 빠졌다”면서 “항구적인 재정과 권한 이양 없는 법안으로는 결코 행정통합의 본 취지를 살릴 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “충남도민의 (행정 통합) 열망을 담은 노력은 정부·여당의 정치적 의도에 의해 철저히 외면당했다”면서 “지난 9일 열린 공청회에서는 발언권도 얻지 못한 채 배제당했고 법안 심사 과정에 충남을 지역구로 둔 강승규 의원이 위원회까지 옮겨 참여했지만 (의견을) 묵살당하고 있다”고 했다. 이어 “대전·충남에 지역구를 둔 민주당 의원들은 법안소위 심사 과정에 단 한 명도 참여하지 않은 것도 문제다”라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “단순히 행정구역만 넓히는 졸속 법안 처리가 아니라 특례와 권한을 (통합시에) 이양해야 한다”면서 “국세와 지방세 비율을 65대35로 조정하겠다는 약속을 반드시 지켜야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “더 늦기 전에 여야 동수의 특위를 구성해 행정 통합 지역의 공통된 기준을 논의해야 한다”면서 “만약 이런 요구가 받아들여지지 않으면 정치적 중대 결단 등 모든 가능성을 열어놓고 도민들과 끝까지 싸우겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>11세 아동 죽음으로 내몬 20대…  “1억 4000만원 배상하라”</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2026/02/12/6LLZD2GF6BFLFJ5BH5XIF5AGRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/02/12/6LLZD2GF6BFLFJ5BH5XIF5AGRQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:19:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X77PUOY77ZBPZDGZGAIRM6H4QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자 성착취물 범행 피해 유족이 가해자를 상대로 낸 손해배상 소송 항소심에서 일부 승소했다. 배상액은 1심 1억원에서 1억4000만원으로 늘었다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 서울고법 춘천 제2민사부(재판장 심영진)는 사망한 A(11)양 유족이 성착취물을 제작·배포한 B(29)씨를 상대로 낸 손해배상 청구 소송 항소심에서 원고 일부 승소 판결을 했다. 재판부는 B씨에게 망인 1억원, 부모에게 각 2000만원을 지급하라고 판시했다.&lt;br&gt;&lt;br&gt;A양의 유족 등은 2023년 2월 B씨가 SNS 등을 통해 접근해 성착취물을 제작·배포해 피해를 입었다며 5억원대 손해배상 소송을 제기했다. 사건 이후 A양은 극단적 선택을 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고가 형사재판 과정에서 2000만원을 공탁했지만, 망인과 유족이 입은 정신적 고통의 정도에 비춰 피해 회복에 미친 영향은 제한적”이라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피고가 피해 회복을 위해 지속적이고 진지한 노력이 확인되지 않고, 범행 경위와 사망에 이르게 된 과정 등을 종합적으로 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;이번 판결에 따라 B씨는 A양 유족 2명에게 각 7000만원씩, 총 1억4000만원을 지급해야 한다. 배상금에는 선고일까지 연 5%, 이후 연 12%의 지연이자가 붙는다.&lt;br&gt;&lt;br&gt;유족 측 변호인은 “범죄와 피해 아동의 사망 사이 인과관계를 인정한 점은 의미가 있다”면서도 “위자료 액수는 다소 아쉽다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 대법원은 2023년 12월, A양을 비롯한 아동·청소년 73명을 상대로 2976개의 성착취물을 제작하고 성적 학대한 혐의로 B씨에게 징역 15년을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>루이비통·디올·티파니 고객 555만명 정보 유출… 과징금 360억원</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/3EEMJOCCXNEYXBTVXX2Z6DHPGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/3EEMJOCCXNEYXBTVXX2Z6DHPGU/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 02:07:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDL76Z2UA5HD5GN65UKT3NTW5Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 서울의 한 백화점 앞에서 사람들이 루이비통 제품을 사기 위해 줄을 서 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;루이비통·디올·티파니 등 명품 브랜드 3곳에서 555만여 명의 고객 개인정보가 유출됐다. 개인정보보호위원회는 이들 회사에 총 360억 원대 과징금을 부과하고, 처분 사실을 홈페이지에 공개하라고 명령했다.&lt;br&gt;&lt;br&gt;개인정보보호위원회는 지난 11일 제3차 전체회의를 열고 루이비통코리아, 크리스챤디올꾸뛰르코리아, 티파니코리아의 개인정보 보호법 위반에 대해 과징금 360억3300만원과 과태료 1080만원을 부과하고, 처분 사실을 홈페이지에 공표하도록 명령했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;유출 규모는 루이비통 약 360만 명, 디올 약 195만 명, 티파니 약 4600명으로 총 555만여 명이다. 세 회사는 모두 서비스형 소프트웨어(SaaS) 기반 고객관리 시스템을 운영하는 과정에서 계정 탈취나 보이스피싱 등으로 개인정보가 외부에 노출됐다.&lt;br&gt;&lt;br&gt;루이비통은 직원 기기가 악성코드에 감염되면서 소프트웨어 계정 정보를 해커에 탈취당해 지난해 6월 약 360만명의 개인정보가 유출됐다. 유출된 정보에는 이름, 성별, 국가, 전화번호, 이메일주소, 생년월일이 포함됐다.&lt;br&gt;&lt;br&gt;루이비통은 외부 접속 시 IP 주소 제한을 두지 않았고, 일회용 비밀번호(OTP) 등 안전한 인증수단도 적용하지 않았다. 개보위는 루이비통에 과징금 213억8500만원을 부과했다.&lt;br&gt;&lt;br&gt;디올은 고객센터 직원이 보이스피싱에 속아 해커에게 소프트웨어 접근 권한을 넘겨주면서 약 195만 명의 정보가 유출됐다. 특히 디올은 개인정보 다운로드 여부 등 접속기록을 월 1회 이상 점검하지 않으면서 유출 사고를 3개월 이상 인지하지 못했던 것으로 나타났다. 또한 지난해 5월 유출 사실을 인지한 후에도 정당한 사유 없이 72시간을 넘겨 유출을 통지했다. 개보위는 디올에 과징금 122억3600만원과 과태료 360만원을 부과했다.&lt;br&gt;&lt;br&gt;티파니 역시 고객센터 직원이 보이스피싱에 속아 해커에게 소프트웨어 접근 권한을 넘겨주면서 약 4600명의 정보가 외부로 유출됐다. 티파니는 지난해 5월 9일 유출 사실을 인지하고도 같은 달 22일에야 신고·통지해 법정 기한을 넘겼다. 개보위는 티파니에 과징금 24억1200만원과 과태료 720만원을 부과했다.&lt;br&gt;&lt;br&gt;개보위 관계자는 “서비스형 소프트웨어를 도입하더라도 개인정보를 안전하게 관리할 책임은 기업에 있다”며 “IP 제한, 안전한 인증수단 적용, 접속기록 점검 등 기본적인 보호조치를 철저히 해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘주택가에 마약 공장’… 대마 재배하고 유통한 4명, 구속기소</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/PXA3KLH6ENAGVLYSHQMS6T2ZPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/PXA3KLH6ENAGVLYSHQMS6T2ZPI/</guid>
-      <dc:creator>수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 01:56:55 +0000</pubDate>
-      <content:encoded>상가와 주택 등 주거 밀집 지역에 전문 대마 재배 시설을 갖추고 대량의 대마를 재배 및 유통한 이들이 검찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;수원지검 마약범죄 정부합동수사본부(본부장 김봉현)는 마약류관리에관한법률위반(대마), 마약류관리에관한법률위반(향정) 등 혐의로 A(43)씨와 B(44)씨, C(41)씨와 D(36)씨 등 4명을 구속 기소했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWST5KSHHFEQLNL4AIFCVW3ZVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오산시에서 재배된 대마./ 수원지방검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨와 B씨는 지난 2024년 1월부터 작년 12월까지 경기 오산시 소재 상가에 대마 16주를 재배하고 대마 약 4㎏를 보관한 혐의다. 또한 A씨는 대마를 흡연하고 필로폰 약 1.91g을 소지 및 투약한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 대마 재배 범행으로 지난 2023년 실형을 선고받았음에도 도주해 형이 집행되지 않은 상태였다. 그는 도피 생활 중에도 B씨의 명의로 빌린 상가를 은신처로 사용해 이 같은 범행을 저지른 것으로 확인됐다. 해당 건물은 기존 학원 건물로 사용됐던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJVJEI63PZFBTIMCML376FSJII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화성시에서 재배된 대마./ 수원지방검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;C씨와 D씨는 작년 8월부터 올해 1월까지 경기 화성시 한 빌라에서 대마 12주를 재배하고 대마 약 496g을 보관한 혐의다. 이들은 텔레그램을 이용해 총 13회에 걸쳐 대마 약 38g을 판매하고 흡연하기도 했다. 검찰은 C씨와 D씨로부터 대마를 산 3명도 구속 기소했다. 이들은 중앙아시아 국적의 고려인들로 인터넷을 통해 대마 재배 방법을 습득한 뒤 이러한 범행을 이어갔다.&lt;br&gt;&lt;br&gt;이들은 상가와 주택 내 재배텐트를 활용해 대마를 생육했다. 온도와 습도를 조절할 수 있는 시설과 환기시설, 냄새 제거를 위한 공기청정기까지 설치했다.&lt;br&gt;&lt;br&gt;또 건조한 대마를 유리병에 보관하고 판매를 위해 소분하기까지 한 것으로 확인됐다. 이들은 텔레그램과 가상화폐를 통해 대마를 유통했다.&lt;br&gt;&lt;br&gt;검찰은 마약범죄 정부합동수사본부 경찰팀과 세관이 제공한 수입통관 내역을 분석한 결과, 이들이 사용한 대마 재배 시설은 국내가 아닌 해외에서 들여오는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “대마 추가 판매 내역 등은 포렌식을 통해 수사를 이어가고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>與 “정부 의대 증원, 尹의 폭력적 추진을 민주적으로 극복한 것”</title>
@@ -916,15 +925,6 @@
         <media:description type="plain">조희대 대법원장이 12일 오전 서울 서초구 대법원으로 출근하며 취재진의 질문에 답하고 있다./뉴시스</media:description>
         <media:credit role="author" scheme="urn:ebu">20hwan</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>쿠팡, 또 수량 표기 오류… 이번엔 휴지 1800롤 2만8000원</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/12/46HTKJFX4VACFPEKMHEGQ5SRJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/12/46HTKJFX4VACFPEKMHEGQ5SRJE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 00:03:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EC4OXXT3RBFRGOITM7MM4LHJA.png"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡 수량 표기 오류로 휴지 1800롤이 2만원대에 판매되는 소동이 벌어졌다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡에서 수량 표기 오류로 화장지 1800롤이 2만원 후반대에 판매되는 소동이 발생했다.&lt;br&gt;&lt;br&gt;12일 업계에 따르면, 전날 오후 1시쯤 쿠팡에는 한 팩당 30롤이 든 화장지 ‘깨끗한나라 순수 시그니처 천연펄프 3겹 고급 롤 화장지’ 60팩이 2만8720원에 올라왔다. 한 롤당 16원꼴이다.&lt;br&gt;&lt;br&gt;이에 이용자들의 문의가 이어졌으나, 인공지능(AI) 답변 봇이 틀린 내용으로 공개 답변을 달면서 혼란은 더욱 커졌다. “총 1800롤이 오는 게 맞냐”는 문의에 AI 답변 봇이 “30개입 60팩으로 총 1800롤이 맞다”고 대응한 것이다. 답변 봇은 “30롤이 1팩이고 60팩이 배송 오는 거냐”는 질문에도 “해당 상품은 30롤이 1팩으로 구성됐으며, 총 60팩이 배송되는 것이 맞다”고 확인했다.&lt;br&gt;&lt;br&gt;이후 이 같은 사실이 온라인을 중심으로 급속도로 확산하면서 삽시간에 주문이 몰리는 소동이 벌어졌다. 일부 네티즌은 오류를 인지하면서도 “잘리기 전에 빨리 주문하라” 등의 반응을 보이기도 했다.&lt;br&gt;&lt;br&gt;오류를 파악한 쿠팡은 이날 오후 5시 30분쯤 고객들에게 안내 문자를 보냈다. 쿠팡은 주문 취소 처리를 하고, 구매자들에게 쿠팡캐시 5000원을 지급할 예정이다. 쿠팡은 안내 문자에서 “주문하신 상품은 수량 표기 오류로 부득이하게 취소될 예정”이라며 “이용에 불편을 드려 진심으로 죄송하다”고 했다. 다만 오노출 주문량은 아직 정확하게 파악되지 않았다.&lt;br&gt;&lt;br&gt;쿠팡 수량 표기 오류는 이번이 처음은 아니다. 작년 6월엔 수량 표기 오류로 농심 육개장 사발면 36개 묶음이 5040원에 판매돼 ‘육개장 대란’이 일어났다. 같은 해 7월에도 동일한 이유로 코코볼 컵 118개가 3800원에 판매되면서 5시간 만에 3만여 건의 주문이 접수되는 등의 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>덜 익은 스테이크를 두고 손님 왜 “I’m sorry”? </title>
