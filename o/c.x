@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘언론사 단전·단수 지시’ 이상민, 징역 7년에 불복해 항소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/14/EWUAO2J5WJF4PNDL6IWBOS4TVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/14/EWUAO2J5WJF4PNDL6IWBOS4TVY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Feb 2026 09:54:45 +0000</pubDate>
+      <content:encoded>이상민 전 행정안전부 장관이 12·3 비상계엄 선포 직후 언론사 5곳에 대한 단전·단수 조치를 지시한 혐의로 1심에서 징역 7년을 선고받은 데 불복해 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTDMNBWMEYTOM3GHEYDMOBRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 지난해 10월 17일 서울 서초구 서울중앙지법에서 열린 내란 중요임무 종사 등 혐의 첫 공판기일에 출석해 피고인석에 앉아 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 이 전 장관 측은 전날 서울중앙지법 형사32부(재판장 류경진)에 항소장을 제출했다. 이 재판부는 지난 12일 내란 중요 임무 종사 등 혐의로 기소된 이 전 장관에게 징역 7년을 선고했다. 조은석 내란 특검은 앞서 이 전 장관에게 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 윤 전 대통령에게 국회 등 봉쇄 계획 및 언론사 단전·단수 지시가 담긴 문건을 받은 뒤 허석곤 당시 소방청장에게 이를 하달했다”며 “내란 행위의 중요 임무에 종사했다”고 밝혔다. 또 “언론사 단전·단수 조치는 내란 행위의 달성을 위한 수단의 일부로, 구체적인 실행 계획에 해당한다”고 했다. 윤석열 정부에 비판적인 언론사에 물리적 강제력을 가해, 비상계엄에 대한 비판 여론이 커지는 것을 막고 내란 행위를 용이하게 할 목적이 있었다는 취지다. &lt;br&gt;&lt;br&gt;오는 19일 윤 전 대통령의 내란 우두머리 사건 1심 선고를 앞두고, 지난달 21일 한덕수 전 국무총리 사건에서 ‘12·3 비상계엄이 내란에 해당한다’는 판단이 나온 데 이어 법원이 다시 같은 취지의 판단을 내린 것이다.&lt;br&gt;&lt;br&gt;재판부는 또 이 전 장관이 지난해 2월 헌법재판소의 윤 전 대통령 탄핵 심판 변론 때 증인으로 출석해 “단전·단수 지시를 받은 적 없다”고 진술하는 등 허위 증언한 혐의도 유죄로 인정했다. &lt;br&gt;&lt;br&gt;다만 계엄 선포 이후 최상목 당시 경제부총리가 윤 전 대통령으로부터 비상 입법 기구 관련 예산 편성 지시가 담긴 문건을 받는 모습을 보지 못했다고 이 전 장관이 위증했다는 혐의는 무죄로 판단했다. 이 전 장관이 일선 소방서로 하여금 언론사 단전·단수 조치를 위한 대응 태세를 갖추도록 했다는 직권남용 혐의에 대해서도 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주국제공항 고가도로서 30대 중국 여성 추락해 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/02/14/H3M4JVFWKVBJRBH6FRX2KNRPQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/14/H3M4JVFWKVBJRBH6FRX2KNRPQM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Feb 2026 09:03:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZDMNTFGY3DCMJTGJSGMZLGGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고(뉴스1 자료) ⓒ 뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 첫날 제주국제공항 고가도로에서 중국인이 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;14일 제주도 소방안전본부 등에 따르면 이날 오후 2시 44분쯤 제주국제공항 3층 출발장 앞 고가도로에서 30대 중국인 여성 A씨가 추락했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 119구급대에 의해 심폐소생술 등 응급처치를 받으며 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 중국 여권을 소지하고 있었으며, 경찰은 출국 절차를 밟기 전 사고가 발생한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“화성 궁평항에 포탄”신고에 군경 출동…조명탄 확인</title>
       <link>https://www.chosun.com/national/regional/2026/02/14/S2JMM6SLXZHZVMTL7NUMLADBPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/14/S2JMM6SLXZHZVMTL7NUMLADBPM/</guid>
@@ -877,25 +895,6 @@
         <media:description type="plain">이지혜</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>5일간의 긴 설 연휴… 박물관·고궁 문 ‘활짝’</title>
-      <link>https://www.chosun.com/national/regional/2026/02/13/BPT7SRR4QJBKVD3MEGBUXVVEVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/13/BPT7SRR4QJBKVD3MEGBUXVVEVM/</guid>
-      <dc:creator>김영우 기자, 고흥=조홍복 기자, 인제=정성원 기자, 합천=김준호 기자, 경주=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>오는 14일부터 18일까지 5일간 설 연휴가 이어진다. 가족과 함께 들를만한 전국 명소를 정리했다.&lt;br&gt;&lt;br&gt;15~17일 경북 경주엑스포대공원에서는 퓨전 국악과 마술 공연이 펼쳐진다. 공원 안에 있는 솔거미술관에선 신라 금관과 황룡사 9층 목탑 모형을 만들어볼 수 있다. 3대가 한복을 입고 방문하면 무료 입장할 수 있다. 경주 ‘천관사지’는 신라 김유신 장군이 아끼던 말 목을 베었다는 장소다. 경북문화관광공사 관계자는 “붉은 말의 해인 병오년 새해를 맞아 금연, 절주 등 새로운 목표를 세우려는 사람에게 추천한다”고 했다. 안동 유교랜드에서는 ‘고지도전’이 열린다. 고산자 김정호가 그린 ‘동여도’ 등 고지도 50여 점을 볼 수 있다. 동여도는 길이가 7m에 달한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN35S72RFNEVFJDZVHVLWGLBH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경상남도
-국내 최대 영화 세트장인 경남 ‘합천영상테마파크’의 모습. 관광객들이 일제강점기 경성 거리를 재현한 세트장에서 제기차기를 하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 합천영상테마파크는 국내 최대 규모의 영화 세트장이다. 드라마 ‘미스터 션샤인’, 영화 ‘택시운전사’ 등을 촬영한 곳이다. 청와대를 재현한 세트장도 있다. 설 연휴 정상 운영하며 설 당일은 무료 개방한다. &lt;br&gt;&lt;br&gt;충남 국립부여박물관은 설 당일인 17일을 제외하고 정상 운영한다. 작년 12월 문을 연 백제대향로관에서 국보 백제금동대향로를 감상해보자. 충남 홍성 남당항에선 ‘새조개 축제’가 열린다. 겨울 별미인 새조개를 맛볼 수 있다. 최근 새조개 가격은 1㎏당 12만~13만원이다.&lt;br&gt;&lt;br&gt;17~18일 광주광역시 광주역사민속박물관에 들르면 아이들과 자개 손거울, 복 노리개 등을 만들어볼 수 있다. 퓨전 국악 공연도 열린다. 화려한 볼거리를 원한다면 전남 고흥에 가보자. 15일 오후 8시 고흥 녹동항에선 드론 1500대가 드론쇼를 펼친다. &lt;br&gt;&lt;br&gt;강원 인제 자작나무 숲은 자작나무 70만그루 아래서 ‘힐링’할 수 있는 곳이다. 연휴 내내 문을 연다. 경북 울진은 최근 KTX가 개통해 훨씬 가까워졌다. 덕구온천과 백암온천에서 온천욕을 즐겨보자. 덕구온천은 국내 유일의 자연 용출 온천이다. &lt;br&gt;&lt;br&gt;서울 등 수도권에서도 들를 만한 곳이 많다. 경복궁·덕수궁 등 4대 궁궐은 연휴 내내 무료 개방한다. 남산골한옥마을에서는 떡, 전통 활 등을 만드는 체험을 해볼 수 있다. 경기 고양에 있는 실내 테마파크인 원마운트 스노우파크에선 날씨와 상관없이 눈썰매를 탈 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>원종목 ‘월간 에세이’ 주간 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/13/SW6H77KJ7NGAHCOON25YGBHPME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/13/SW6H77KJ7NGAHCOON25YGBHPME/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GVJJPEMXRA75HCTUXHKC3BWZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1987년 ‘월간 에세이’를 창간한 원종목(필명 원종성·89) 주간 겸 SFA 명예회장이 12일 별세했다. 동양에레베이터를 창업한 기업가이자 중등 교과서에 실린 ‘나의 자화상’ 등을 쓴 수필가이다. 고인은 과거 본지 인터뷰에서 “책 만들면서 원가 계산은 해본 적 없다”며 “정신을 기부하는 기업가도 필요하지 않으냐”고 했다. 유족으로 아내 이연복씨와 아들 준·진씨, 딸 혜진씨, 며느리 최윤희씨가 있다. 빈소는 신촌세브란스병원. 발인은 14일 오전 9시.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>만 12세 이하까지 육아휴직 2년… “덕분에 든든한 엄마 됐죠”</title>
