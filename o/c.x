@@ -13,6 +13,38 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“화성 궁평항에 포탄”신고에 군경 출동…조명탄 확인</title>
+      <link>https://www.chosun.com/national/regional/2026/02/14/S2JMM6SLXZHZVMTL7NUMLADBPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/14/S2JMM6SLXZHZVMTL7NUMLADBPM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Feb 2026 08:01:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SWKMBZGA2DQOJWMFRGMZBVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성서부경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 화성시 궁평항 부근에서 “포탄이 있다”는 신고가 접수돼 경찰과 군 당국이 현장에 출동해 조사한 결과 조명탄으로 확인됐다.&lt;br&gt;&lt;br&gt;14일 경기 화성서부경찰서에 따르면 이날 오후 2시 40분쯤 한 시민으로부터 “산책하던 중에 포탄을 발견했다”는 내용의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰과 군이 확인한 결과 발견된 탄은 포탄이 아닌 조명탄인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;조명탄의 크기는 85㎜로, 모두 3개가 발견됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아군 탄으로 대공 용의점과 폭발 위험은 없는 상황”이라고 설명했다.&lt;br&gt;&lt;br&gt;군 폭발물처리반(EOD)은 조명탄 내부의 뇌관 여부 등을 확인한 뒤 이를 수거할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 2월 15일 일요일 (음력 12월 28일 庚申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/14/Z7GZEIX66FEYRGJDSTOKSNM5DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/14/Z7GZEIX66FEYRGJDSTOKSNM5DU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>설 연휴 첫날 한남더힐 사우나서 화재...4명 연기 흡입으로 병원 이송</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/14/MVUO5YDLZFH2XLYGLYMPUGECHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/14/MVUO5YDLZFH2XLYGLYMPUGECHA/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Feb 2026 06:54:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3AE26DBZZB6TQU2BCK6LK3SLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 첫날인 14일 오후 1시 19분쯤 서울 용산구 한남동의 고급 주택인 한남더힐 내 사우나 시설에서 불이 났다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 건물에 있던 5명을 구조하고 연기를 흡입한 4명을 병원으로 이송했다. 주민 40세대는 긴급 대피했다.&lt;br&gt;&lt;br&gt;소방 당국은 인력 105명과 차량 27대를 투입해 화재 발생 1시간여 만인 오후 2시 30분쯤 초진을 완료했다. 경찰과 소방은 불이 완전히 꺼지는 대로 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;용산구청은 긴급 안전 문자를 보내 “한남동 810번지 화재로 인한 다량의 유해 연기가 발생했다”며 “인근 주민께서는 연기로 인한 호흡기 질환 발생에 주의해달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
+        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>CBS ‘박재홍의 한판승부’에 방통위 제재…항소심도 “취소”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/14/GVA7NLJHX5HCLA7XKTBQRU56RQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/14/GVA7NLJHX5HCLA7XKTBQRU56RQ/</guid>
@@ -815,15 +847,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7C2ONIGUBBW3DJYQDLFQKFLNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최준영 기아 대표/현대차그룹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최준영(63) 기아 대표가 오는 25일 고려대 졸업식에서 축사를 맡는다. 고려대 경영학과 82학번인 최 대표가 모교 졸업식 축사를 하는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;고려대는 오는 25일 2025학년도 전기 학위수여식에서 최 대표가 축사를 한다고 13일 밝혔다. 고려대를 졸업한 후 기아에 입사한 최 대표는 광주지원실장·노무지원사업부장 등을 지냈고, 2018년 기아자동차(現 기아) 대표가 됐다.&lt;br&gt;&lt;br&gt;고려대 관계자는 “2025년 고려대 개교 120주년과 기아자동차 창립 80주년이 맞물리는 해를 기념해 학교와 기업이 함께 걸어온 역사를 조명하는 의미로 최 대표를 연사로 모시게 됐다”며 “기아와 고려대 간의 미래지향적인 산학 협력 관계를 공고히 하고, 양 기관의 깊은 우정이 지속되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;한편, 2025학년도 고려대 전기 학위수여식은 오는 25일 오전 10시에 고려대 서울캠퍼스 인촌기념관 대강당에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 해운대구 아파트서 불... 70대 남매 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/02/13/EGZ3JO54JZEZJLBKVCTTJ3WB4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/13/EGZ3JO54JZEZJLBKVCTTJ3WB4A/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 23:54:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A6AGLNOERDA3MX6F7PNIWQC3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 부산 해운대구 한 아파트에서 불이 났다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVQ2HOWPHRDHBKDG7PSDOMBCXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 부산 해운대구 한 아파트에서 불이 났다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구 한 아파트에서 불이 나 70대 남매가 숨졌다.&lt;br&gt;&lt;br&gt;13일 부산소방재난본부에 따르면, 이날 오전 3시 43분쯤 부산 해운대구 한 14층짜리 아파트 5층 70대 여성 A씨의 집에서 불이 났다.&lt;br&gt;&lt;br&gt;화재 현장에서 A씨는 거실에서, A씨의 70대 남동생 B씨는 화장실에서 각각 심정지 상태로 소방에 구조돼 심폐소생술을 받으며 인근 병원으로 이송됐지만 숨졌다. 소방 관계자는 “불이 입구 쪽 방에서 시작돼 A씨 남매가 미처 대피하지 못한 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;또 이 불로 입주민 100여 명이 대피했으며, 이 과정에서 6명이 연기를 흡입했다.&lt;br&gt;&lt;br&gt;불은 아파트 내부와 가재도구 등을 태워 소방서 추산 2000만원 상당의 재산 피해를 내고, 약 40분 만에 진화됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 이날 오전 10시 30분 합동 감식을 벌여 정확한 화재 원인을 조사할 예정이다. &lt;br&gt;&lt;br&gt;화재가 발생한 아파트는 1985년에 지어진 노후 아파트로, 스프링클러가 설치돼 있지 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경복궁 경비원 폭행한 中관광객들, 경찰 조사 다음날 출국</title>
       <link>https://www.chosun.com/national/national_general/2026/02/13/AJD5UUVM4FDENF3JORBCSI63YQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/AJD5UUVM4FDENF3JORBCSI63YQ/</guid>
@@ -831,19 +854,6 @@
       <description/>
       <pubDate>Thu, 12 Feb 2026 23:09:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRDSUT5IP5GDFJOQNXASGTVQZ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;입춘의 경복궁./정수윤&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경복궁을 관광하던 중국인들이 궁 경비원을 폭행하는 일이 벌어졌다. &lt;br&gt;&lt;br&gt;서울 종로경찰서는 중국 국적의 50대 남성 1명과 60대 남성 1명을 폭행 혐의로 수사중이라고 13일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 지난 2일 오후 3시 30분쯤 서울 종로구 경복궁 향정원 인근에서 경복궁 경비원을 폭행한 혐의를 받는다. 중국인 관광객들은 문화재 보호를 위해 설치된 통제선을 넘어 사진을 촬영했고, 이를 제지하자 경비원을 몸으로 밀친 뒤 주먹으로 가슴을 때린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현장에 있던 다른 직원의 신고로 경찰이 출동했고, 경찰은 임의동행 형식으로 인근 파출소에서 두 사람의 폭행 혐의를 조사했다. 경비원은 공무원 신분이 아니라 공무집행방해 혐의는 적용하지 않았다. &lt;br&gt;&lt;br&gt;중국인 관광객들은 조사가 끝난 뒤 다음날 출국한 것으로 파악됐다. 종로서 관계자는 “수사는 거의 마무리됐고, 피의자들을 검찰에 송치할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;향후 약식기소돼 벌금형이 나왔는데 국외에 있어 납부하지 않는다면 수배가 내려질 것이라고 경찰은 전했다. 또한 폭행 혐의는 출국 금지 요청 대상 범죄에 해당하지 않는다고 경찰은 설명했다. 현행법상 수사기관의 출국 정지 요청은 장기 3년 이상의 징역이나 금고에 해당하는 범죄에 한해 가능하다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김상겸·유승은 ‘비상’ 뒤에는 ‘달마’ 있었다</title>
-      <link>https://www.chosun.com/national/people/2026/02/13/GU7BKNNKWZCNBCMXVJCJFA3MWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/13/GU7BKNNKWZCNBCMXVJCJFA3MWE/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q73FALO6LFDQFHAG35USL77DAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 경기도 남양주 봉선사 대법당 앞에서 호산 주지 스님이 자신의 스노보드를 탄 채 뛰어오르고 있다. “눈이 아닌 흙바닥에선 스피드가 나지 않아 점프를 할 수 없을 것 같다”고 걱정했지만 여러 차례 폴짝폴짝 뛰었다. 그는 “예전엔 하프파이프에서 점프도 잘 했는데, 이젠 안 한다”며 “그래도 여든까지 탈 수 있을 것 같다”고 했다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밀라노 코르티나 동계 올림픽 스노보드 부문에 출전한 김상겸·이상호·정해림(이상 알파인)·유승은·이채운·이지오(프리스타일) 선수들의 공통점은? 이들 모두 예전에 ‘달마배’ 스노보드 대회에 참가한 적이 있는 ‘달마 키즈’다. 이 대회를 만든 봉선사 주지 호산 스님을 만나기 위해 12일 절을 찾았을 때 그는 막 동계 올림픽에 출전한 스노보드 선수들의 선전과 안녕을 기원하는 기도를 마치고 나온 길이었다. 그는 “여섯 선수 중엔 초등학교 1학년 때 대회에서 처음 만난 선수도 있고, 어린 시절 집안 형편 때문에 절에서 잠시 지낸 선수도 있다”고 했다. 그는 어쩌다 봉선사뿐만 아니라 국내 스노보드계까지 뒷받침하는 주지(住持)가 됐을까. &lt;br&gt;&lt;br&gt;그는 1997년 봉선사에 있었을 때 ‘인명 사고가 잦으니 기도를 해달라’는 요청에 인근 스키장을 찾았다. 그곳에서 답례로 스키장 티켓을 받고 눈 위에 서봤다. 14세 소년 시절 출가해 인생 대부분을 절에서 지낸 그의 눈에 들어온 것은 날듯 설원을 가르는 스노보드였다. 그는 “스키는 옷과 장비, 움직임이 로봇처럼 딱딱해 보였는데, 스노보드는 자유로워 보였다”며 “프리스타일 스노보드는 앞뒤의 구분이 없이 마음대로 탈 수 있고, 그걸 타는 젊은이들도 당시로선 파격적인 힙합 스타일의 옷을 입고 있었다”고 했다. &lt;br&gt;&lt;br&gt;“그걸 보고 불교에서 얘기하는 생사해탈의 자유를 느꼈습니다.”&lt;br&gt;&lt;br&gt;스노보드의 매력에 빠진 스님은 열 살 이상 어린 동호인들을 찾아다니면서 배웠다. 승복 입고 보드를 타는 그에게 경계의 눈빛을 풀지 않던 젊은 친구들에게 자장면을 사주면서 마음을 얻었다. 캐나다로 전지훈련도 다녀왔다. 그는 “그때 숙소에서 젊은 스노보더들과 함께 끼어서 자고 밥을 지어 먹으면서 그들의 고충을 알게 됐다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UF2WC44JENGS7BAAQSTWXLGYGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'스노보드 타는 스님'으로 알려진 호산 스님(주지스님)이 12일 오후 경기 남양주시 봉선사에서  포즈를 취하고 있다. 호산 스님은 국내 최대 스노보드 대회(달마오픈)를 20년 넘게 후원하며, 국내 스노보드 선수들의 후원자 역할을 해왔다. 최근 밀라노·코르티나담페초 동계올림픽에서 메달을 딴 김상겸과 유승은도 달마 키즈들이다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 스노보더들을 도울 방법을 찾다가 2002년 대회를 열었다. 상금으로 호주머니를 탈탈 털어 1000만원을 내놨고, 대회명은 달마배로 정했다. 2018 평창 동계올림픽 유치가 확정된 후엔 잠재력 있는 어린 나이의 선수를 뽑아 후원하기 시작했다. 그는 “내 쌈짓돈과 다른 사찰에서 십시일반으로 내주는 돈, 종단에서 매년 후원해 주는 1800만원으로 운영하고 있다”고 했다. &lt;br&gt;&lt;br&gt;달마배에 참가했다가 불자(佛子)가 된 선수들도 있다. 이 중 일부는 스마트폰을 반납하고 하루 종일 말을 하지 않는 ‘묵언’ 템플스테이에 참가하기도 한다. 그는 “운동선수들은 기본적으로 강한 정신력이 필요한데, 특히 스노보드와 같은 동적인 운동일수록 정적인 정신이 필요하다. 예컨대, 가장 속도를 올려야 할 때 눈앞에 있는 것만 보지 않고 넓은 시야를 가져야 한다. 그래서 참선으로 마음을 다스리는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;호산 스님은 10여 년 전 본지 인터뷰에서 “환갑까지 스노보드를 타겠다”고 했는데, 환갑이 넘은 지금도 여전히 타고 있다. 그는 “보드를 탈 때 분별심을 끊으려고 많이 노력한다”며 “그래야 창의적이고 자유로운 방식으로 탈 수 있는 방법이 나온다”고 했다. 분별심을 끊는 대신 ‘무유정법(無有定法)’과 ‘수처작주(隨處作主)’를 떠올린다. &lt;br&gt;&lt;br&gt;“정해진 법이란 건 없고, 따라서 장소와 행위가 중요하지 않다고 생각해요. 설원에 있든, 법당에 있든 어떤 마음으로 있느냐가 중요하죠. 어디에 있든지 주체적이고 자유로우면 됩니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UGZFGNLHNJFYRE73IIJABPEB6M.jpg?auth=f33792f8121cb327112df948ddebe3878762fedf94ea9bdeb52701e5f0aa6cc8&amp;smart=true&amp;width=4489&amp;height=2525" type="image/jpeg" height="2525" width="4489">
-        <media:description type="plain">'스노보드 타는 스님'으로 알려진 호산 스님(주지스님)이 12일 오후 경기 남양주시 봉선사에서  포즈를 취하고 있다. 호산 스님은 국내 최대 스노보드 대회(달마오픈)를 20년 넘게 후원하며, 국내 스노보드 선수들의 후원자 역할을 해왔다. 최근 밀라노·코르티나담페초 동계올림픽에서 메달을 딴 김상겸과 유승은도 달마 키즈들이다. 2026.2.12 /박성원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
-      </media:content>
     </item>
     <item>
       <title>호텔방 무료 업글 가능성을 높이는 이 말 ‘any chance’</title>
@@ -867,16 +877,6 @@
         <media:description type="plain">이지혜</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>모텔서 남성 2명 잇단 사망… 20대 女 “약 탄 음료 먹였다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/13/VPXNRT3TXNADHEPTVQHQ4GEGDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/VPXNRT3TXNADHEPTVQHQ4GEGDY/</guid>
-      <dc:creator>김병권 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Feb 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4DP4BZTBJCTTCLGOOYK63LU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 연합뉴스
-모텔에서 남성 2명을 잇따라 숨지게 한 혐의를 받는 20대 여성(가운데)이 12일 영장실질심사를 받기 위해 서울북부지법에 출석하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;향정신성의약품을 섞은 숙취 해소 음료를 몰래 먹여 20대 남성 2명을 잇따라 숨지게 한 혐의를 받는 여성 김모(21)씨가 12일 서울 강북경찰서에 구속됐다. 경찰은 김씨 집을 압수수색해 범행에 쓰인 약품과, 음료를 담았던 빈 병을 확보했다. 김씨가 범행에 사용한 약물은 병원 정신건강의학과에서 처방받은 약으로 파악됐다. 경찰은 계획적인 살인 가능성에 무게를 두고 수사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 김씨는 지난해 12월 14일 경기 남양주시 한 카페 주차장에서 한 달간 사귀었던 20대 초반 남성 A씨에게 “하루 종일 운전하느라 고생했다”며 피로 회복 음료를 건넸다. 그런데 김씨는 이 음료에 벤조디아제핀계 수면제를 타 놓았다. 벤조디아제핀은 불면증과 불안장애 등의 완화에 쓰이는 향정신성의약품 성분이다. A씨는 음료를 마신 지 20여 분 뒤 의식을 잃고 쓰러졌으나 이틀 만에 깨어났다.&lt;br&gt;&lt;br&gt;김씨는 지난달 28일 오후 9시 20분쯤 20대 후반 회사원 B씨와 함께 서울 강북구 수유동의 한 모텔 객실에 들어선 뒤 수면제를 탄 숙취 해소 음료를 B씨에게 건넸다. 술을 마신 상태였던 B씨는 음료를 마시고 정신을 잃었다. B씨는 다음 날 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;김씨는 지난 9일에는 밤 8시 40분쯤 수유동의 다른 모텔에서 20대 중반 남성 C씨에게 같은 방법으로 만든 음료를 건넸다. 김씨는 빈병과 배달 음식을 챙겨 모텔을 떠났다. C씨도 다음 날 숨진 채 발견됐다. 경찰은 김씨가 B·C씨와 술집 등에서 수차례 만난 뒤 범행을 한 정황을 잡고 수사 중이다. 경찰은 이르면 13일 김씨에 대한 사이코패스 진단 검사와 프로파일링 조사를 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5일간의 긴 설 연휴… 박물관·고궁 문 ‘활짝’</title>
