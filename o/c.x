@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title> “女제자가 강간” 성폭행 교수의 황당 주장 …제자는 목숨 끊었다</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/16/PHF32K7MPZEVZPXJBV2DF2L4LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/16/PHF32K7MPZEVZPXJBV2DF2L4LQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Feb 2026 22:15:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIRGW4FHXVEGVHUKA5E5YGABTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학원생 제자를 성폭행한 전직 대학교수가 항소심에서 더 높은 형량을 선고받았다. 성범죄 피해를 입은 제자는 스스로 목숨을 끊었다. &lt;br&gt;&lt;br&gt;대구지법 형사항소2-2부(재판장 김성수)는 13일 공갈 미수 등 혐의로 구속 기소된 A(65)씨 항소심에서 원심을 파기하고 징역 5년을 선고했다. A씨는 1심에서 징역 3년 6개월을 선고받았었다. &lt;br&gt;&lt;br&gt;A씨는 2021년부터 이듬해까지 박사 학위 논문 지도를 받던 피해자를 상대로 지위와 위력을 이용해 총 14회에 걸쳐 간음한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;또한 피해자에게 1억원을 교부받으려다 미수에 그친 혐의도 있다. 피해자에게 ‘논문이 최종 통과되면 지도 교수에게 사례하는 관행이 있다’며 1억원을 요구하거나 ‘교수로서의 미래는 나에게 달려 있다’며 수회에 걸쳐 돈을 빌려달라고 요구한 것으로 조사됐다. 금전 요구가 거절되자 A씨는 극단적 선택을 암시하는 메시지를 보내거나 성관계 장면을 몰래 녹음‧녹화한 것처럼 꾸며 피해자를 겁주는 등 위협한 것으로 드러났다. &lt;br&gt;&lt;br&gt;A씨는 수사기관에서 “3~4회 정도 피해자와 성관계했다”고 진술했다가 검찰에서는 “피해자가 나를 강제로 강간했다. 서로 마음이 맞아서 성관계한 사실도 없다”고 말을 바꾼 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 2023년 학교에서 파면됐다. 피해자는 1심 판결 이후 스스로 목숨을 끊었다. &lt;br&gt;&lt;br&gt;항소심 재판부는 피해자가 숨진 점을 감안해 더 무거운 형을 선고했다. 재판부는 “교수라는 지위를 이용해 제자를 성폭행하고 1억원을 갈취하려고 하는 등 죄질이 굉장히 불량하고 책임이 무겁다”며 “피해자가 극심한 성적 수치심과 정신적 고통에 시달렸을 것으로 보이고, 원심 판결 후 극단적 선택을 한 점을 감안했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“대치동 이사 갈까 말까…” 고민 끝에 결국 안 갔다</title>
       <link>https://www.chosun.com/national/education/2026/02/16/Z34S5YIMDZCM7PYTUCV4FFAQLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/16/Z34S5YIMDZCM7PYTUCV4FFAQLU/</guid>
@@ -936,16 +945,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/MZRDAYJVGJRWKNDBMM4DGYLEGY.jpg?auth=a4e5e3c4c362aa6e9ceb229ef317401e9aeb252b73154ca6bf68febb8211e3c6&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
         <media:description type="plain">아산 둔포면 공장 화재 현장. (아산소방서 제공, 재판매 및 DB금지) / 뉴스1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세] 2월 14일 토요일 (음력 12월 27일 己未)</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/13/WALBCODNZVDUNAFCEDZ4YLOZ3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/WALBCODNZVDUNAFCEDZ4YLOZ3E/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
       <title>설에 떡 조심하세요! 질병청 “설 연휴 기도 폐쇄 및 화상 2배 늘어”</title>
