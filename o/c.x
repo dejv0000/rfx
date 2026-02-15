@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“내 보석, 좋아해” 여자 후배에 호감 표시한 장교…법원 “징계 정당”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/15/5ZWOPB434ZFKLOY22NYU4TAZII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/15/5ZWOPB434ZFKLOY22NYU4TAZII/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Feb 2026 05:06:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기혼인 후배 여성 장교에게 연애 감정을 표시한 공군 장교에 대한 징계는 정당하다는 법원의 판단이 나왔다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 서울행정법원 행정11부(김준영 부장판사)는 지난해 12월 공군 장교 A씨가 국방부 장관을 상대로 제기한 감봉 처분 취소 소송에서 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;A씨는 후배 여성 장교 B씨에게 ‘내 보석’, ‘많이 좋아한다’ 등 연애 감정을 표시했다. 당시 A씨와 B씨는 각각 배우자가 있는 상태였다. B씨는 2023년 6월 A씨에게 성희롱 피해를 당했다고 신고했다.&lt;br&gt;&lt;br&gt;이듬해 7월 국방부 징계위원회는 A씨가 B씨에게 성희롱 발언을 했다고 보고 감봉 3개월 처분을 내렸다. A씨는 불복해 국방부 항고심사위원회에 항고했지만 기각되자 감봉 처분을 취소해 달라며 행정소송을 냈다.&lt;br&gt;&lt;br&gt;A씨는 징계 절차에서 징계 혐의 사실이 분명하게 특정되지 않는 등 방어권이 침해됐고, B씨가 호감을 표시해 거절하는 과정에서 오해가 발생한 것이라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 A씨가 의견서를 제출하거나 징계위원회에 출석하는 등 방어권 행사 기회를 보장받았다고 봤다.&lt;br&gt;&lt;br&gt;또한 두 사람 사이 대화 녹음 등을 바탕으로 “오히려 A씨가 지속해 호감을 표현하고 B씨가 난처해하는 정황이 확인된다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 징계 사유는 기혼자이자 상급자인 A씨가 기혼자이자 하급자인 B씨에게 연애 감정을 표시하고 만나 달라고 요청한 것”이라며 “피해자 입장에서는 혐오스럽고 모욕적일 수 있는 내용”이라고 지적했다.&lt;br&gt;&lt;br&gt;징계 수준에 대해서도 “군인 징계령 시행규칙상 성희롱은 징계 양정 기준이 기본 ‘정직-감봉’인 점, 하급자 대상 성희롱은 가중 사유인 점과 성희롱 사건은 감경이 제한되는 점 등을 고려하면 감봉 3개월은 과중한 처분이 아니다”라고 판단했다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>크루즈 컨트롤 믿고 가다 ‘쾅’…고속도로서 최근 5년간 20명 사망</title>
       <link>https://www.chosun.com/national/transport-environment/2026/02/15/UUECLLGDDVH2PPMWMI26EVKFPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/15/UUECLLGDDVH2PPMWMI26EVKFPQ/</guid>
@@ -923,15 +932,6 @@
       <description/>
       <pubDate>Fri, 13 Feb 2026 03:43:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT3FNHD7BZJ47EXJA6FDAH2OLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송영길 소나무당 대표가 13일 서울 서초구 서울고등법원에서 열린 '더불어민주당 전당대회 돈봉투' 의혹 관련 항소심 선고기일에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘더불어민주당 전당대회 돈봉투’ 의혹 및 ‘먹사연 불법 정치자금’ 혐의로 기소된 송영길(현 소나무당 대표) 전 더불어민주당 대표가 13일 항소심에서 무죄를 선고받았다. 1심은 두 혐의 중 불법 정치자금 수수 혐의만 유죄로 인정했는데 모두 무죄로 뒤집힌 것이다. 검찰의 민주당 전당대회 돈봉투 의혹 수사를 둘러싼 위법성 시비가 불거질 것으로 보인다.&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 이날 송 전 대표가 외곽 조직 ‘평화와 먹고사는 문제 연구소(먹사연)’를 통해 불법 정치자금 7억6300만원을 수수한 혐의와 관련해 “핵심 증거인 텔레그램 메시지 등은 위법하게 수집된 증거에 해당한다”며 무죄를 선고했다. 재판부는 “검찰은 돈봉투 의혹을 수사하면서 먹사연을 압수 수색해 관련 전자 정보를 확보한 뒤 공소를 제기했는데, 관련자와 혐의 내용 모두 달라 두 사건의 관련성을 인정하기 어렵다”고 했다. 검찰이 위법 수집한 증거로 별건 기소한 사건이라고 보고 무죄를 선고한 것이다. &lt;br&gt;&lt;br&gt;재판부는 송 전 대표가 2021년 민주당 전당대회를 앞두고 국회의원 20명에게 뿌릴 돈봉투(총 6000만원)를 윤관석 전 의원에게 건넸다는 혐의와 관련해서도 1심과 같은 무죄를 선고했다. 재판부는 이 혐의를 뒷받침하는 증거인 ‘이정근 녹음 파일’과 관련해 “이정근 전 민주당 사무부총장은 자신의 알선수재 혐의가 무죄라는 점을 뒷받침하기 위해 녹음 파일을 제출한 것으로 보인다. 돈봉투 관련 녹음 파일이 휴대전화에 있다는 점을 인식하고 제출했다고 보기는 어렵다”며 위법 수집 증거로 판단했다.&lt;br&gt;&lt;br&gt;이정근 녹음 파일이 위법 수집 증거라는 법원 판단은 계속 이어지고 있다. 송 전 대표 지지 모임에서 윤 전 의원에게 300만원이 든 돈봉투를 받은 혐의 등으로 재판에 넘겨진 이성만 전 의원도 지난 12일 대법원에서 무죄가 확정됐다. 돈봉투 수수 혐의를 받는 허종식 의원과 윤관석·임종성 전 의원 사건에서도 검찰이 확보한 이 전 부총장 녹음 파일이 위법 수집 증거라는 이유로 작년 12월 항소심에서 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;송 전 대표는 이날 선고를 마친 뒤 기자들과 만나 “윤석열 정부 검찰의 표적 수사로 저와 관련된 의원님들, 우리 민주당을 먹칠하려고 한 것이 밝혀졌다”며 “소나무당을 해체하고 민주당으로 돌아가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대 교수 38% “성과 연봉제 수준 아쉬워”...“더 파격적으로 운영돼야”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/13/T35DVP4CDZBQ3AS3W3DNJGSGTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/T35DVP4CDZBQ3AS3W3DNJGSGTE/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 02:07:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3WIYTBGUYGEYTDMQZDMNZUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교가 지난해 9월 성과 중시 연봉제를 도입한 가운데 서울대 교수조합이 실시한 설문조사에서 38%의 교수들이 “성과급 수준에 불만족한다”고 답한 것으로 확인됐다. 이들 교수 일부는 “성과 연봉제가 잘 정착하기 위해서는 더 파격적으로 성과 연봉제를 운영해 확실한 동기 부여를 만들어줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;서울대 교수조합은 지난달 ‘2025 성과 중시 연봉제 운영 관련 의견 조사’를 실시했다. 조사 결과에 따르면 응답자 267명 중 37.9%가 성과급의 수준에 대해 불만족한다고 답했다. 만족한다는 응답은 57.7%였다.&lt;br&gt;&lt;br&gt;한 교수는 “세계적인 연구 성과를 낸 교수에게 주어지는 S 등급의 인센티브가 타 대학이나 해외 사례에 비해 파격적이지 않아, 실질적인 연구 유도 동기가 되지 못한다”고 했다. 또 다른 교수는 “성과 연봉제 예산을 늘려 성과급 수준을 높임으로써 확실한 동기 부여를 만들어야 한다”고 했다.&lt;br&gt;&lt;br&gt;대다수의 교수들은 성과 연봉제의 필요성에 공감한 것으로 나타났다. 응답자의 62.1%는 “성과 연봉제가 필요하다”고 응답했다. “성과 연봉제가 필요 없다”고 응답한 비율은 11.6%에 불과했다. 서울대 관계자는 “연구 중심 대학으로서 성과에 따른 차등 보상이 불가피하다는 인식이 공유되고 있다”고 분석했다.&lt;br&gt;&lt;br&gt;다만 최고 등급인 S등급의 비율(5%)이 너무 낮아 소규모 학과에서는 S등급인 교수가 단 1명에 불과하거나 구조적으로 배출이 불가능하다는 점 등은 한계로 지적됐다.&lt;br&gt;&lt;br&gt;임호준 서울대 교수조합 위원장은 “교수 사회가 평가의 부담을 감수하고 대승적 차원에서 성과 연봉제를 수용한 만큼, 제도의 본래 취지를 살리기 위해서는 탁월한 성과에 걸맞은 과감하고 파격적인 보상 체계가 뒤따라야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;성과 연봉제 시행에 따라 서울대는 교수 성과를 만족(S·Satisfied), 보통1(N1·Normal1), 보통2(N2), 불만족(U·Unsatisfied) 등 네 등급으로 평가해 성과급을 달리 지급한다. S 등급은 상위 5%(기준 성과급의 200%), N1 등급은 45%(기준 성과급의 150%), N2 등급은 50% 안팎(기준 성과급의 100%). U 등급은 징계를 받거나 표절 문제가 불거진 교수 등이 해당되는데, 이들에겐 성과급이 지급되지 않는다.&lt;br&gt;&lt;br&gt;지난해 서울대 교수들의 95%가 종전 호봉제 대신 성과 연봉제를 선택한 것으로 확인됐다. 특히 근속 연수가 11~20년인 교수들은 전원 성과 연봉제를 선택했고, 근속 21년 이상인 교수들은 약 96%가 성과 연봉제를 택했다. 성과 연봉제를 택한 교수들은 지난해 12월 말 처음으로 성과 연봉제에 기반한 성과급을 지급 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>나랏돈 40억 꿀꺽...간 큰 검찰 공무원 구속 기소 </title>
