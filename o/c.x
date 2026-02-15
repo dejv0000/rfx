@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 2월 16일 월요일 (음력 12월 29일 辛酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/15/M7KY5JVEEVGHHIGC34RZ3QEKJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/15/M7KY5JVEEVGHHIGC34RZ3QEKJ4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>코레일·SR, 지난해 명절 승차권 ‘암표’ 355건 수사 의뢰…1년새 3배 늘어</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/15/IXAFC4GK75AQPJ53JSAXI53VDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/15/IXAFC4GK75AQPJ53JSAXI53VDQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Feb 2026 07:28:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4TCYRVGEYDCYJQHAZTIOBUGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산역에서 귀성객들이 열차에 탑승하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 한국철도공사(코레일)와 수서고속철도(SRT) 운영사 SR이 설·추석 명절 기간 300건이 넘는 암표 거래 의심 사례를 적발해 경찰에 수사를 의뢰한 것으로 나타났다.&lt;br&gt;&lt;br&gt;15일 국회 국토교통위원회 소속 문진석 더불어민주당 의원이 코레일과 SR로부터 제출받은 승차권 부정거래 단속 자료에 따르면, 코레일과 SR은 지난해 명절 기간 총 355건의 암표 거래 의심 사안을 확인해 철도경찰과 경찰에 수사를 의뢰했다. 지난해 설에는 207건(코레일 25건·SR 182건), 추석에는 148건(코레일 58건·SR 90건)이었다.&lt;br&gt;&lt;br&gt;2024년에는 설 12건(코레일 2건·SR 10건), 추석 107건(코레일 107건·SR 0건) 등 119건이었던 것과 비교해 한 해 만에 3배 가까이 늘었다. 명절 연휴 암표 관련 수사 의뢰는 2021년 3건, 2023년 18건에 그쳤던 것에 비하면 수년 사이 급격히 증가했다.&lt;br&gt;&lt;br&gt;이는 지난해 설부터 승차권 부정 판매 금지 의무를 어겼거나, 위반이 의심되는 사람의 이름·주소·휴대전화 번호 등 개인 정보를 국토부가 직접 온라인 중고 거래 플랫폼 등에 요청할 수 있도록 한 철도사업법 개정안이 국회에서 통과됐기 때문이다.&lt;br&gt;&lt;br&gt;법 개정 이전에는 직접 단속 권한이 없는 코레일과 SR은 암표 거래 적발에 적극적으로 나서기 어려웠다. 지난해부터는 국토부를 통해 당근, 중고나라, 번개장터에서 암표 판매자 인적 사항을 받아 수사 의뢰를 하는 등 제재를 하고 있다. 하지만 현재는 철도 승차권을 무기명으로 발권할 수 있어 승차권 구매자와 실사용자가 다른 경우 거래 과정에서 웃돈을 받고 암표로 재판매했는지를 명확히 파악하기 어려운 한계도 있다. 문진석 의원은 “코레일과 SR 등 관련 기관에 암표 거래 근절을 위한 단속 권한을 부여하는 등 제도 강화 방안을 논의할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘딸깍 6급 팀장’ ‘암적인 존재’...충주맨 사직 배경에 ‘관심’</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/15/BO2AN323PVA27EGCUZ5I5363DY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/15/BO2AN323PVA27EGCUZ5I5363DY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Feb 2026 07:22:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3PQLQZMVFEI5OLKDU4QJSDLCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충주시에 사직 의사를 밝힌 것으로 알려진 '충주맨' 김선태 주무관이 지난 13일 유튜브를 통해 작별 인사를 전하고 있다. /충주시 공식 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘충주맨’으로 이름을 알린 충북 충주시 홍보 담당 공무원 김선태 주무관이 사직서를 제출한 배경을 두고, 공직 사회 내부의 부정적 시선과 조직 문화가 영향을 미쳤을 것이라는 추측이 제기됐다. &lt;br&gt;&lt;br&gt;지난 13일 직장인 커뮤니티 ‘블라인드’에는 ‘충주맨은 공직 사회의 암적인 존재였지’라는 제목의 글이 올라왔다. 해당 글은 김 주무관을 비난하기보다는, 그를 향해 시기와 질투를 드러낸 공직 사회의 분위기를 비판하는 취지로 작성된 것으로 보인다.&lt;br&gt;&lt;br&gt;작성자는 “남들은 20년 근속해야 오르는 6급 팀장을 딸깍하고 받았다”며 “유튜브 홍보 활동한다고 순환 근무도 안 하고 얼마나 내부에서 싫어했겠냐”라고 적었다. 이어 “자고로 자기보다 잘 나가거나 튀는 못은 절대 용납 못 하는 곳이 공직”이라며 “본인도 자기 싫어하는 사람 많다고 인정했고, 이제 나갔으니 조화롭고 평화로워지겠다”고 말했다. &lt;br&gt;&lt;br&gt;김 주무관은 특진 이후 내부에서 부담을 느껴왔다고 밝힌 바 있다. 그는 지난해 5월 유튜브 채널 ‘스튜디오 수제’에서 “승진 소식을 두고 항의하는 모습을 직접 봤다”며 “한 동료가 ‘나도 유튜브나 할 걸 그랬다’고 말하는 걸 들었다”고 털어놨다. 그는 충주시 유튜브 채널 구독자를 단기간에 크게 성장시켜 9급에서 6급으로 특별 승진했다.&lt;br&gt;&lt;br&gt;그를 공개적으로 감싸온 조길형 충주시장이 지난달 사임한 점도 사직 결정에 영향을 미쳤을 것이라는 해석도 나왔다. 다른 공무원은 “주변의 시기와 질투를 막아주던 시장이 떠난 뒤에는 6급으로 남아 있어도 마땅한 보직 없이 떠돌게 됐을 가능성이 크다”고 주장했다. &lt;br&gt;&lt;br&gt;한편, 김 주무관은 지난 13일 오후 충주시 공식 유튜브 채널을 통해 “공직에 들어온 지 10년, 충주맨으로 살아온 지 7년의 시간을 뒤로하고 이제 작별 인사를 드리려고 한다”며 사직 소식을 알렸다. &lt;br&gt;&lt;br&gt;김 주무관은 사직 이후에도 크리에이터로 활동을 이어갈 계획이다. 그는 연합뉴스와의 인터뷰에서 “충주에 거주하며 방송이나 유튜브 분야에서 새로운 도전에 나서고 싶다”고 말했다. 퇴직 배경과 관련해서는 “정해진 것은 없지만, 충주에 계속 거주하면서 방송이나 유튜브 쪽에서 새로운 도전을 해 보고 싶다”며 “아무래도 새로운 도전을 하려면 공직에서는 불가능하다고 판단했다”고 했다. &lt;br&gt;&lt;br&gt;97만명 수준이던 충주시 공식 유튜브 채널 구독자는 사직 소식이 알려진 이후 약 7만명 줄어 90만명 수준으로 감소했다. 주무관은 사직서를 제출하고 휴가를 간 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“내 보석, 좋아해” 여자 후배에 호감 표시한 장교…법원 “징계 정당”</title>
       <link>https://www.chosun.com/national/national_general/2026/02/15/5ZWOPB434ZFKLOY22NYU4TAZII/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/15/5ZWOPB434ZFKLOY22NYU4TAZII/</guid>
@@ -905,33 +933,6 @@
       <description/>
       <pubDate>Fri, 13 Feb 2026 06:56:10 +0000</pubDate>
       <content:encoded>질병관리청은 13일 “최근 6년간 설 연휴 기간에 기도 막힘과 화상 등과 같은 집안 내 안전 사고가 평소의 약 2배로 늘어났다”며 주의를 당부했다. &lt;br&gt;&lt;br&gt;질병청이 2019~2024년 설 연휴 기간 병원 23곳의 응급실 환자 데이터를 분석한 결과, 기도가 막히는 ‘기도 폐쇄’ 발생이 하루 평균 0.9건으로 평상시(0.5건)의 1.8배였다. 기도를 막히게 한 가장 큰 원인은 떡과 같은 음식물(87.5%) 때문이었다. 누워서 백설기를 먹다가 목에 걸린 경우 등이다. 연령별로는 80대(37.5%)가 가장 많았고, 그다음이 70대(18.8%)와 9세 이하(18.8%)였다. &lt;br&gt;&lt;br&gt;화상 사고는 설 연휴 기간 하루 평균 18.5건이 발생했다. 이는 평소(8.5건)의 2.2배 수준이다. 특히 화상 사고의 80.2%는 집에서 발생하는 것으로 나타났다. 압력밥솥을 열다가 뜨거운 수증기에 얼굴을 데거나, 전을 부치던 중 기름을 발에 쏟는 사고가 많았다. 화상은 설 하루 전에 가장 높은 수준(하루 평균 22.3건)으로 올라갔고, 설 이후 2~3일 차부터 다시 줄었다. &lt;br&gt;&lt;br&gt;칼과 같은 날카로운 물체에 손을 베는 사고 역시 설 연휴에 많이 발생했다. 평소에는 하루 평균 33.8건이지만, 특히 설 음식 준비가 많은 설 바로 전날엔 하루 평균 71건으로 늘어났다. 특히 베임 사고는 평소엔 남자(54.9%)가 여자(45.1%)보다 많지만, 설 연휴에는 남자(48.4%)와 여자(51.6%)의 비율이 역전됐다. &lt;br&gt;&lt;br&gt;질병청은 “연휴 기간 요리를 평소보다 많이 하고, 명절 음식을 많이 먹기 때문에 가정 내 손상 위험이 커질 수 있다”며 “기본적인 안전 수칙을 잘 지켜야 한다”고 했다.&lt;br&gt;&lt;br&gt;한편, 설 연휴에 병원에 갈 일이 생기면 정부의 응급의료포털 홈페이지(e-gen.or.kr)나 앱을 통해 문을 연 병·의원과 약국 정보를 확인할 수 있다. 또는 전화로 129(보건복지상담센터)나 지역번호+120(시·도 콜센터)에 문의해도 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘재판 청탁 대가 금품 수수’ 이종호, 1심 징역 1년 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/13/VE22BFLSBRDNDJV3RACGEMG5GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/VE22BFLSBRDNDJV3RACGEMG5GI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 05:47:12 +0000</pubDate>
-      <content:encoded>‘도이치모터스 주가 조작’ 사건의 1차 주포에게 “재판에서 징역형 집행유예를 받게 해주겠다”며 금품을 수수한 혐의로 기소된 이종호 전 블랙펄인베스트 대표가 13일 1심에서 징역형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2WIOJWMMYGMY3CME2DIN3GMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트먼트 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 이 전 대표의 변호사법 위반 혐의 선고 공판을 열고 징역 1년 6개월과 추징금 7910만원을 선고했다. 민중기 특검팀 수사 단계에서 구속 수감된 이 전 대표는 수감 생활을 이어가게 됐다.&lt;br&gt;&lt;br&gt;이 전 대표는 2022년 6월~2023년 2월 주가 조작 공범 이정필씨에게 “김건희나 VIP(윤석열 전 대통령)에게 얘기해 집행유예가 나오도록 해주겠다” 등 재판의 형량을 줄여주겠다거나 형사 사건 수사를 무마시켜주겠다며 25차례에 걸쳐 총 8390만원을 수수한 혐의를 받는다.&lt;br&gt;&lt;br&gt;재판부는 “이 전 대표는 이씨의 진술에 신빙성이 없다고 주장하지만, 이씨는 수사기관 및 재판에서 금품 전달 경위 등에 대해 구체적이고 일관되게 진술하고 있다”며 이씨 진술의 신빙성을 인정할 수 있다고 판단했다. 다만 이 전 대표의 혐의 중 일부는 범죄의 증명이 부족하다고 보고 공소사실보다 적은 총 7910만원을 수수했다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 대통령과 영부인, 고위공직자범죄수사처장, 판사와의 친분관계를 과시하면서 청탁 명목으로 금품 계속 교부받아 죄질이 매우 불량하다”며 “이씨에게 받은 돈 상당 부분을 청탁과 무관한 사람과 술을 먹는 등 개인적인 용도로 써 비난 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;이 전 대표 측은 재판 과정에서 자신의 혐의가 민중기 특검 수사 대상이 아니라며 공소를 기각해달라고 했지만 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>봄처럼 포근한 설 연휴...귀성길 짙은 안개·미세먼지 주의</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/13/FTGIQOWLJFAL7LJFCMUUFEN56E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/13/FTGIQOWLJFAL7LJFCMUUFEN56E/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 05:32:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBN5X44SWJKGHAOCKO4UBGV7WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기온이 올라 포근한 날씨를 보인 12일 제주 서귀포시 안덕면 산방산 인근에 봄의 전령 유채꽃이 활짝 피어나 상춘객들의 시선을 사로 잡고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 설 연휴는 봄처럼 포근할 것으로 예보됐다. 본격적인 귀성길에 오를 연휴 초반 짙은 안개가 낄 것으로 보여 주의가 필요하다.&lt;br&gt;&lt;br&gt;13일 기상청에 따르면, 설 연휴 초반인 14~15일 우리나라로 온화한 서풍이 불면서 전국이 대체로 포근하겠다. 14일 기온은 최저 영하 3~영상 6도, 최고 9~17도의 분포를 보이겠다. 15일에는 전날보다 최저·최고기온이 2도가량 소폭 더 오르겠다.&lt;br&gt;&lt;br&gt;14~15일 새벽부터 아침 사이 전국 대부분 지역에 안개가 끼겠고, 서해안과 일부 내륙에선 가시거리가 200m 미만까지 짧아지겠다. 이 기간 대기 정체로 전국의 초미세먼지(PM2.5) 농도가 ‘나쁨’을 기록하는 등 미세먼지까지 짙을 것으로 보여 귀성길 운전에 주의가 필요하다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKSSQUA64RIPFBEK37FGSRJLD4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;수도권 지역의 초미세먼지 농도가 '나쁨' 수준을 보인 지난 5일 서울 남산에서 바라본 도심이 뿌옇다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연휴 후반인 16~18일 우리나라는 중국 북부지방에서 확장하는 찬 대륙고기압의 영향을 받겠으나, 찬 공기가 주로 동해상을 통과해 들어오면서 백두대간 동쪽 지역의 수은주가 연휴 초반보다 5도 정도 떨어질 것으로 보인다. 다만 기온이 떨어지더라도 평년과 비슷하거나 조금 높은 수준일 것으로 예상된다.&lt;br&gt;&lt;br&gt;16일 찬 동풍이 상대적으로 따뜻한 동해상을 통과하면서 강수 구름대를 형성, 강원영동에 대설특보(24시간 동안 5㎝ 이상 적설)가 내려질 정도의 많은 눈이 내리겠다. 경북 동해안과 부산·부산에도 눈이나 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘불법 정치자금·민주당 돈봉투' 송영길, 항소심서 전부 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/13/JDBIWUKRCZAXJGIV6W42KJ2D6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/13/JDBIWUKRCZAXJGIV6W42KJ2D6I/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 03:43:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT3FNHD7BZJ47EXJA6FDAH2OLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송영길 소나무당 대표가 13일 서울 서초구 서울고등법원에서 열린 '더불어민주당 전당대회 돈봉투' 의혹 관련 항소심 선고기일에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘더불어민주당 전당대회 돈봉투’ 의혹 및 ‘먹사연 불법 정치자금’ 혐의로 기소된 송영길(현 소나무당 대표) 전 더불어민주당 대표가 13일 항소심에서 무죄를 선고받았다. 1심은 두 혐의 중 불법 정치자금 수수 혐의만 유죄로 인정했는데 모두 무죄로 뒤집힌 것이다. 검찰의 민주당 전당대회 돈봉투 의혹 수사를 둘러싼 위법성 시비가 불거질 것으로 보인다.&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 이날 송 전 대표가 외곽 조직 ‘평화와 먹고사는 문제 연구소(먹사연)’를 통해 불법 정치자금 7억6300만원을 수수한 혐의와 관련해 “핵심 증거인 텔레그램 메시지 등은 위법하게 수집된 증거에 해당한다”며 무죄를 선고했다. 재판부는 “검찰은 돈봉투 의혹을 수사하면서 먹사연을 압수 수색해 관련 전자 정보를 확보한 뒤 공소를 제기했는데, 관련자와 혐의 내용 모두 달라 두 사건의 관련성을 인정하기 어렵다”고 했다. 검찰이 위법 수집한 증거로 별건 기소한 사건이라고 보고 무죄를 선고한 것이다. &lt;br&gt;&lt;br&gt;재판부는 송 전 대표가 2021년 민주당 전당대회를 앞두고 국회의원 20명에게 뿌릴 돈봉투(총 6000만원)를 윤관석 전 의원에게 건넸다는 혐의와 관련해서도 1심과 같은 무죄를 선고했다. 재판부는 이 혐의를 뒷받침하는 증거인 ‘이정근 녹음 파일’과 관련해 “이정근 전 민주당 사무부총장은 자신의 알선수재 혐의가 무죄라는 점을 뒷받침하기 위해 녹음 파일을 제출한 것으로 보인다. 돈봉투 관련 녹음 파일이 휴대전화에 있다는 점을 인식하고 제출했다고 보기는 어렵다”며 위법 수집 증거로 판단했다.&lt;br&gt;&lt;br&gt;이정근 녹음 파일이 위법 수집 증거라는 법원 판단은 계속 이어지고 있다. 송 전 대표 지지 모임에서 윤 전 의원에게 300만원이 든 돈봉투를 받은 혐의 등으로 재판에 넘겨진 이성만 전 의원도 지난 12일 대법원에서 무죄가 확정됐다. 돈봉투 수수 혐의를 받는 허종식 의원과 윤관석·임종성 전 의원 사건에서도 검찰이 확보한 이 전 부총장 녹음 파일이 위법 수집 증거라는 이유로 작년 12월 항소심에서 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;송 전 대표는 이날 선고를 마친 뒤 기자들과 만나 “윤석열 정부 검찰의 표적 수사로 저와 관련된 의원님들, 우리 민주당을 먹칠하려고 한 것이 밝혀졌다”며 “소나무당을 해체하고 민주당으로 돌아가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>나랏돈 40억 꿀꺽...간 큰 검찰 공무원 구속 기소 </title>
