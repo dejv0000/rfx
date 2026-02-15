@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>낚싯바늘 박힌 빵 발견...나주 반려견 놀이터 ‘발칵’</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/15/6UJ4OU3NGVHC5EIF7WN3MB2NXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/15/6UJ4OU3NGVHC5EIF7WN3MB2NXY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Feb 2026 10:54:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSTINTGGYZTSNZZMJRDOMRUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 나주 반려견놀이터에 살포된 10개의 빵 안에 낚싯바늘이 꽂혀 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 나주에 조성된 반려견 놀이터에서 빵 속에 날카로운 낚싯바늘이 박힌 채 발견돼 논란이 일고 있다. &lt;br&gt;&lt;br&gt;15일 나주시에 따르면, 최근 시범 운영에 들어간 금천면 영산강 나주대교 아래 ‘나주 반려견 놀이터’에서 이 같은 일이 발생했다는 제보가 접수됐다. 피해자와 목격자들의 증언은 소셜미디어(SNS)를 통해 빠르게 확산되고 있다.&lt;br&gt;&lt;br&gt;한 견주는 전날 자신의 SNS에 “오전 10시쯤 놀이터에 갔더니 대형견 이용 공간에 낚싯바늘이 꽂힌 빵 여러 개가 흩어져 있었다”며 관련 사진을 올렸다. 공개된 사진에는 일부 녹이 슨 대형 낚싯바늘이 빵 속에 박혀 있는 모습이 담겼다.&lt;br&gt;&lt;br&gt;비영리 사단법인 드리밍애니멀즈는 해당 게시물을 공유하며, 이는 장난으로 넘길 수 없는 위험한 행위로 반려견의 신체에 중대한 피해를 입힐 수 있는 행위라고 비판했다.&lt;br&gt;&lt;br&gt;놀이터 운영 주체인 나주시는 전날 오전 11시부터 현장 점검에 나섰으나, 낚싯바늘이 꽂힌 빵을 직접 확인하지는 못했다. 시는 최근 놀이터 주변에서 수상한 행동을 한 사람이 있었는지 파악하기 위해 인근 방범 카메라(CCTV) 영상을 검수하고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;‘나주 반려견 놀이터’는 반려동물 친화 도시 조성과 체류형 펫 동반 관광 활성화를 목표로 이달부터 시범 운영에 들어갔다. 중·소형견 전용 구역 약 1100평과 대형견 전용 구역 약 440평으로 구분돼 있으며, 동물 등록 여부를 확인한 뒤 입장하는 무인 시스템을 갖추고 있다.&lt;br&gt;&lt;br&gt;다만 시범 운영 기간에는 동물 등록 여부와 관계없이 출입이 가능한 상태다. 나주시는 출입 시스템 점검이 마무리되는 대로 운영 방식을 조기 전환할 계획이다.&lt;br&gt;&lt;br&gt;나주시는 SNS를 통해 제기된 의혹의 사실관계를 확인하고 있으며, 악의적인 행위로 판단될 경우 수사기관에 협조하는 등 후속 조치에 나설 방침이다. 아울러 반려견 놀이터 조성 취지에 맞게 시설 관리와 안전 대책을 강화해 이용객 불편을 최소화하겠다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>설 연휴 고향집서 ‘점당 100원’ 고스톱...도박일까 오락일까</title>
       <link>https://www.chosun.com/national/national_general/2026/02/15/WFZQWL45RVBAPB6S4GZCHPGFBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/15/WFZQWL45RVBAPB6S4GZCHPGFBM/</guid>
@@ -924,15 +933,6 @@
       <pubDate>Fri, 13 Feb 2026 08:00:00 +0000</pubDate>
       <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;img src="https://www.chosun.com/resizer/v2/XGAIPO67CZALTOT43KSQJ5BV5M.jpg?auth=e6bfc34855839ea51a9416eaf728fabc2cf050be880a5f9d846f8f0a40da36d8&amp;smart=true&amp;width=192&amp;height=150" alt="" height="150" width="192"/&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>檢, ‘미공개 정보 주식 거래 의혹’ LG家 장녀 부부 1심 무죄에 항소</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/13/7BDQJKQDWVB5VKHOLEZO7S5BNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/13/7BDQJKQDWVB5VKHOLEZO7S5BNU/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 07:39:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADKDHPE6IRPQJGBJTFTZO4B3FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;미공개 정보를 이용해 부당이득을 취득한 혐의로 기소된 구연경 LG복지재단 대표가 10일 오후 서울 양천구 서울남부지방법원에서 열린 자본시장법 위반 혐의 선고공판에서 무죄를 선고받은 뒤 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 미공개 정보를 이용해 주식을 취득했다는 혐의로 기소된 고(故) 구본무 LG그룹 선대 회장의 맏딸 부부에 대해 1심에서 무죄를 선고한 것과 관련해 검찰이 항소했다. &lt;br&gt;&lt;br&gt;서울남부지검은 13일 구연경 LG복지재단 대표와 남편 윤관 블루런벤처스 대표의 자본시장과 금융투자업에 관한 법률 위반 혐의에 대한 1심 무죄 판결에 항소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 “이 사건은 구 대표가 윤 대표의 회사에서 500억원 규모의 유상증자에 참여한다는 미공개 정보를 이용해 그 정보가 공개되기 1주일 전 해당 종목을 대량 매집한 사안”이라고 했다.&lt;br&gt;&lt;br&gt;원심은 정보가 전달됐다는 증거가 부족하고 주식 매수 규모가 피고인 자산 규모 대비 소액이라는 이유 등으로 무죄를 선고했지만 검찰은 경제, 생활 공동체인 부부 관계의 특수성과 피고인들의 재산 관리 방식 등을 고려해 항소했다고 설명했다.&lt;br&gt;&lt;br&gt;또한 미공개 정보 생성 바로 다음 날 구 대표가 생애 처음 직접 주식을 매수한 점, 피고인의 자산 규모에 따라 미공개 정보 이용의 판단 기준이 달라져서는 안 되는 점 등을 종합적으로 고려했다고 밝혔다. &lt;br&gt;&lt;br&gt;지난 10일 서울남부지법 형사합의13부(재판장 김상연)는 자본시장법 위반 혐의로 기소된 구 대표와 윤 대표에게 각각 무죄를 선고했다. 이들은 코스닥 상장 바이오 기업인 메지온의 미공개 중요 정보를 이용해 부당이득을 얻은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;구 대표는 윤 대표가 최고투자책임자(CIO)로 있던 블루런벤처스가 메지온에 유상증자 방식으로 500억원을 투자한다는 미공개 정보를 미리 듣고, 2023년 4월 메지온 주식 3만5990주를 취득해 약 1억원의 부당이득을 얻었다는 의혹을 받았다.&lt;br&gt;&lt;br&gt;1심 재판부는 “윤 대표가 구 대표에게 미공개 정보를 전달했다는 직접 증거가 없고, 구 대표의 주식 매수가 이례적이라고 보이지 않는다”며 “구 대표가 미공개 정보를 이용해 메지온 주식을 매수했다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>설에 떡 조심하세요! 질병청 “설 연휴 기도 폐쇄 및 화상 2배 늘어”</title>
