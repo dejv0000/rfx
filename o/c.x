@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“저 시집갑니다”… ‘故 최진실 딸’ 최준희, 결혼 발표</title>
+      <link>https://www.chosun.com/national/people/2026/02/16/3MXMLAAQOZAQ7IL7SDWRT5OLJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/16/3MXMLAAQOZAQ7IL7SDWRT5OLJI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Feb 2026 13:09:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENAVPOONWZBJRAT57CI3UT4RFI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 최진실의 딸이자 인플루언서로 활동 중인 최준희(22)가 결혼을 발표했다.&lt;br&gt;&lt;br&gt;최준희는 16일 자신의 인스타그램에 웨딩 사진을 올리며 “저 시집간다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “저에게 가족은 늘 쉽지 않은 단어였다”며 “우울하기만 했던 유년기를 지나면서 언젠가는 따뜻한 내 울타리를 만들고 싶다고 마음속으로 오래 다짐해 왔다”고 했다. 그러면서 “이제는 누군가의 딸로서가 아니라 한 사람의 아내로서, 그리고 앞으로 만들어 갈 저만의 새로운 가족으로서 더 단단하고 따뜻한 삶을 살아가 보려 한다”고 했다. &lt;br&gt;&lt;br&gt;최준희는 “제 예비 신랑은 일반인이라 조심스럽다”면서도 “결혼 준비 과정과 이야기들은 준비가 됐을 때 제 방식대로 차근차근 풀어 보겠다”고 했다.&lt;br&gt;&lt;br&gt;2003년생인 최준희는 고 최진실과 고 조성민의 딸이다. 최진실 아들 최환희는 가수로 활동하고 있으며, 최준희는 인플루언서로 활동 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“사직, 갈등 때문 아니다”...구독자 급감 속 ‘충TV’ 김선태 해명</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2026/02/16/WZWWQH2CFFD3HDIJSD6L6NZP3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/16/WZWWQH2CFFD3HDIJSD6L6NZP3Y/</guid>
@@ -884,15 +893,6 @@
       <description/>
       <pubDate>Fri, 13 Feb 2026 15:54:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HS4DEEUKUCWKK2BSKY7Z5SL4CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서가 수사 과정에서 증거물로 확보해 보관 중이던 비트코인 22개를 분실해 경찰이 경위를 조사 중인 것으로 13일 알려졌다. 경찰이 분실한 비트코인은 현재 시세로 약 21억원어치라고 한다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 강남경찰서는 2021년 11월쯤 가상자산과 연관된 금융 범죄 사건을 수사하면서 피의자에게 임의제출 방식으로 비트코인을 제출받았다. 그런데 비트코인을 담은 USB 형태의 이동식 전자지갑 ‘콜드월렛’은 그대로 있었는데 그 안에 저장된 비트코인이 사라졌다고 한다. 경기북부경찰청은 강남경찰서 사건과 광주지검 사건의 연관성, 내부인 연루 여부 등을 확인하기 위해 내사에 들어갔다. &lt;br&gt;&lt;br&gt;최근 광주지검에서도 압수·보관 중이던 비트코인 320개(시가 312억원)가 사라진 사건이 발생했다. 광주지검에서도 강남경찰서 사례처럼 콜드월렛은 그대로 있었지만 내부 비트코인만 유출된 것으로 나타났다. 광주지검은 지난해 8월 업무 인수인계 과정에서 피싱 사이트 접속 등으로 인해 압수물이 탈취됐을 가능성에 무게를 두고 감찰 중이다. 강남서 분실 사례는 당국의 전국 수사기관 전수 점검 과정에서 발견됐다. 법조계에선 “검경의 가상자산 관련 수사 역량에 의문이 제기되는 사건”이란 말이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 2월 14일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/14/QTGFOW6U6NECHFFGWTQMKCPMYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/14/QTGFOW6U6NECHFFGWTQMKCPMYI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZMVCWQLZNCBZEH34D5LYSG6QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 김정근 오스코텍 창립자 별세 외</title>
