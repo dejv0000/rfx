@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“사직, 갈등 때문 아니다”...구독자 급감 속 ‘충TV’ 김선태 해명</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/02/16/WZWWQH2CFFD3HDIJSD6L6NZP3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/16/WZWWQH2CFFD3HDIJSD6L6NZP3Y/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Feb 2026 09:12:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FT5ANA2QZNA7FHKMZJ43QSOMNY.png"&gt;&lt;figcaption&gt;&lt;small&gt;충주시에 사직 의사를 밝힌 것으로 알려진 '충주맨' 김선태 주무관이 유튜브를 통해 작별 인사를 전하고 있다. /충TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주시 공식 유튜브 채널 ‘충TV’를 운영해 온 김선태(뉴미디어팀) 주무관이 사직한 가운데, 그가 내부 갈등설을 부인하는 입장문을 공개했다.&lt;br&gt;&lt;br&gt;김 주무관은 16일 충TV를 통해 최근 제기된 이른바 ‘왕따설’ 등 내부 갈등 의혹은 사실이 아니라고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “자신의 퇴사는 개인적인 목표 달성과 새로운 도전을 위한 결정이라며, 특정 인물이나 조직과의 갈등 때문은 아니다”라고 했다. &lt;br&gt;&lt;br&gt;그는 자신의 사직과 관련해 동료 공직자에 대한 비판으로 확산하는 데 대한 안타까움도 전했다. &lt;br&gt;&lt;br&gt;김 주무관은 “확인되지 않은 추측과 무분별한 비판이 더는 확대되지 않기를 바란다”고 당부했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDARTCGA3FETRKQYWLS5ZOWR3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김선태 주무관이 16일 자신의 사직과 관련해 입장글을  충TV에 올렸다/충TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 김 주무관은 지난 13일 사직서를 제출하고 장기 휴가에 들어갔다. 오는 28일 의원면직 처리될 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;16일 충주시에 따르면 이날 오후 5시 기준 충TV 구독자는 79만6000명으로 집계됐다. 이는 지난 12일 97만5000명과 비교해 나흘 만에 17만9000명이 줄어든 수치다. &lt;br&gt;&lt;br&gt;한때 100만명에 육박했던 구독자 수가 단기간에 감소하자 시 내부에서도 당혹스럽다는 반응이 나온다.&lt;br&gt;&lt;br&gt;김 주무관은 ‘충주맨’이라는 별칭으로 충TV 콘텐츠 제작과 운영을 전담해 왔다. 2016년 10월 9급으로 공직에 입문한 뒤 유튜브 활동 성과 등을 인정받아 2024년 1월 6급으로 승진했다. &lt;br&gt;&lt;br&gt;초고속 승진 때문에 한때 내부 갈등설도 흘러나왔다. 내부 갈등이 이번 사직과도 관련 있는 것 아니냐는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서대문 내품애센터, 유기견 60마리 새 가족 품에...작년 서울 시내 최다 규모  </title>
       <link>https://www.chosun.com/national/national_general/2026/02/16/S23P6PM67JD5XICVVO36Z4GC4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/16/S23P6PM67JD5XICVVO36Z4GC4Y/</guid>
@@ -884,15 +893,6 @@
       <description/>
       <pubDate>Fri, 13 Feb 2026 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZMVCWQLZNCBZEH34D5LYSG6QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 사랑의열매 사회복지공동모금회, 설 명절 맞아 20만4000명에게 154억원 지원</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/14/M67KWKITPRBYNH3XY43Y44GZLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/14/M67KWKITPRBYNH3XY43Y44GZLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 15:53:00 +0000</pubDate>
-      <content:encoded>▲사랑의열매 사회복지공동모금회가 설 명절을 맞아 주거 취약 계층 및 노인, 장애인, 위기가정 등 20만4000명에게 154억원을 지원한다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 김정근 오스코텍 창립자 별세 외</title>
