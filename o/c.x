@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘민주당 돈봉투’ 이성만 대법서 무죄 확정… “이정근 녹취록은 위법 증거”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/12/VIZADXUJ6NEWPHQXGUZ5455KXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/12/VIZADXUJ6NEWPHQXGUZ5455KXM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Feb 2026 02:50:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AW5X5HCEZNRWKAIVWLDMFI7NUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이성만 전 의원이 작년 9월 19일 오후 서울 서초구 서울고등법원에서 열린 더불어민주당 전당대회 돈봉투 사건 관련 정치자금법위반 등 2심 선고에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘더불어민주당 전당대회 돈봉투’ 사건으로 기소된 이성만 전 국회의원에게 12일 무죄가 확정됐다. 대법원은 돈봉투 사건의 핵심 증거였던 이정근 전 민주당 사무부총장의 휴대전화 녹취록을 증거로 쓸 수 없다는 2심 판단을 그대로 인정했다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 이날 정치자금법·정당법 위반 혐의를 받는 이 전 의원에게 무죄를 선고한 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;이 전 의원은 2021년 4월 송영길 전 민주당 대표(현 소나무당 대표) 지지 모임에서 윤관석 전 의원으로부터 300만원이 든 돈봉투를 받은 혐의로 기소됐다. 같은 해 3월 송 전 대표 경선캠프 운영비 명목 등으로 총 1100만원의 ‘부외 선거자금’을 제공한 혐의도 있었다.&lt;br&gt;&lt;br&gt;이 재판의 쟁점은 이 전 부총장 휴대전화에서 확보된 통화 녹음 파일과 메시지 등의 증거 능력이 인정될지 여부였다. 이 전 부총장이 2022년 자신의 알선수재 사건 수사 과정에서 검찰에 제출한 휴대전화와 USB에는 경선캠프 운영비와 지역본부장 활동비 명목의 자금 마련·전달을 논의하는 취지의 통화 내용이 담긴 것으로 알려졌다. 앞서 1심은 이를 근거로 돈봉투 수수와 부외 선거자금 제공 혐의를 인정해 이 전 의원에게 징역 9개월에 집행유예 2년을 선고하고 300만원 추징을 명령했다. &lt;br&gt;&lt;br&gt;그러나 지난해 서울고법 2심 재판부는 이를 뒤집고 무죄를 선고했다. 2심 재판부는 “이 전 부총장이 임의제출한 자료의 범위는 알선수재 사건과 관련된 정보로 한정된다”고 봤다. 알선수재 사건과 돈봉투 사건은 기본적 사실관계가 다르고 단순히 동종·유사 범행이라는 이유만으로 관련성을 인정할 수 없다는 것이다. 2심 재판부는 “그런데도 검찰이 이 전 부총장의 의사를 명확하게 확인하지 않은 채 범죄 혐의와 무관한 정보까지 탐색·복제해 별도 사건의 증거로 사용한 것은 위법 수집”이라고 했다. &lt;br&gt;&lt;br&gt;검찰은 “녹취록 등을 다른 사건에 사용해도 된다는 포괄적 동의가 있었다”고 주장했지만, 재판부는 녹취록뿐 아니라 이를 토대로 이뤄진 피고인의 법정 진술 등 2차적 증거도 증거능력이 없다고 판단했다. 대법원도 이날 “원심 판단에 압수 수색에서의 관련성, 임의제출 의사, 위법수집증거 배제법칙 등에 관한 법리를 오해해 판결에 영향을 미친 잘못이 없다”며 그대로 확정했다.&lt;br&gt;&lt;br&gt;이번 판결은 전당대회 돈봉투 사건에서 녹취록을 근거로 기소된 허종식 민주당 의원과 윤관성·임종성 전 의원 등의 재판에도 영향을 미칠 것으로 보인다. 이들 역시 1심에서 유죄가 인정돼 집행유예를 선고받았다가 2심에서 무죄로 뒤집혔다. 검찰이 상고하면서 이들은 대법원 판단을 받게 됐다. 송 전 대표 역시 관련 혐의로 오는 13일 2심 선고를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“은퇴 후 새로운 도전” 암벽 등반에 빠진 60대</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/14/55V2TJ2LH5GM5L2PL7BOGCNKIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/14/55V2TJ2LH5GM5L2PL7BOGCNKIY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Feb 2026 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSHCLS7VHBBYDO6QLKIXIL3FGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 강원 원주 판대 아이스파크에서 고철준(64)씨가 피켈(곡괭이)과 크램폰(빙벽 전용 신발에 결착하는 아이젠)을 이용해 50m 높이의 얼음벽을 오르고 있는 모습. 40~50대 때 취미로 등산을 시작했다가 60대부터 암·빙벽 등반에 도전하는 경우가 많다고 한다./ 박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 강원 속초 설악산 토왕성 폭포. 물줄기가 얼면서 만들어진 320m 높이의 빙벽(氷壁)을 등반객들이 두 손에 든 피켈(곡괭이)로 얼음을 찍어가며 아찔한 모습으로 오르고 있었다. 한 걸음 위로 올라갈 때마다 빙벽에서 찍혀나간 얼음 조각들이 등반객 아래로 떨어졌다. &lt;br&gt;&lt;br&gt;이날 토왕성 폭포를 비롯해 설악산 내 5개 폭포에 빙벽 허가를 받은 등반객은 총 42명. 이 중 ‘60대 이상’이 11명이었다. 평소 빙벽 등반을 즐기는 고철준(64)씨는 “보통 40~50대 때 취미로 등산을 시작한 사람들이 직장 은퇴 후인 60대부터 암·빙벽 등반에 본격 입문하는 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWMODKKZM5BXPKKPCDAH2FFSWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설악산국립공원사무소가 지난해부터 연령대별 암·빙벽 등반객 수 집계를 시작했는데, 암·빙벽 등반객 중 60대 이상이 3858명이었다. 50대(4816명) 다음으로 많았고, 20~40대를 훨씬 앞섰다. 암벽 등반객만 따로 떼어내 계산해 보면 지난해 60대 이상이 3601명으로 20대(955명), 30대(762명), 40대(1349명)보다 최대 5배 가까이 많았다. 60대가 3230명, 70대가 362명, 80대도 9명이었다. 빙벽도 60대 이상이 257명으로 집계됐다. 60대로만 한정(214명)해도 20대(109명), 30대(73명), 40대(113명)를 앞섰다. &lt;br&gt;&lt;br&gt;일반 등산과 달리 암·빙벽 등반은 전문적인 교육이 필요하다. 등산이 산을 ‘발’로만 올라간다면, 암·빙벽 등반은 장비를 갖춰 ‘온몸’으로 올라간다는 차이가 있다. 등산은 혼자서도 가능하지만, 암·빙벽 등반은 팀을 꾸려 서로 안전 점검을 하면서 함께 올라간다는 점 역시 다르다. 보통 빙벽은 1월 중순부터 2월 말까지 한겨울에, 암벽은 5~6월과 9~11월에 이뤄진다. &lt;br&gt;&lt;br&gt;50~60대 등반객이 많은 이유는 건강을 위해 보통 40대쯤 일반 등산을 시작하지만, 어느 정도 산에 익숙해졌다는 자신감이 생긴 뒤에야 암·빙벽 등반에 도전하기 때문이다. 또 암벽은 헬멧·안전벨트·전용 신발 등에 50만원 이상, 빙벽은 여기에 빙벽 전용 신발·크램폰(전용 아이젠) 등을 구비하는 데 150만원 이상 써야 한다는 점도 젊은 층보다 구매력 있는 50~60대의 접근성이 높은 이유다. &lt;br&gt;&lt;br&gt;김성기 대한산악연맹교육원장은 “과거보다 60대의 체력이 크게 향상되면서 물오른 등반 실력과 체력, 구매력, 시간적 여유를 모두 갖춘 암·빙벽 핵심 연령대가 됐다”고 했다.&lt;br&gt;&lt;br&gt;암·빙벽을 오르는 사람들은 등산에선 맛보기 어려운 성취감을 ‘묘미’로 꼽는다. 59세 때 처음 암벽 등반에 입문한 김창기(71)씨는 “가령 북한산 인수봉처럼 암벽을 타지 않고선 절대 닿을 수 없는 정상들이 많은데, 이런 곳에 올랐을 때 느끼는 짜릿함과 성취감은 말로 표현할 수 없을 정도”라며 “안전 수칙만 철저히 지키면 사고가 날 일이 거의 없기 때문에 암벽에 한 번 발을 들인 사람들은 계속 암벽에 오르게 된다”고 했다. &lt;br&gt;&lt;br&gt;은퇴 후 ‘인생 2막’을 앞두고 암·빙벽 등반을 통해 새로운 삶에 대한 의지를 다지기도 한다. 김철한(61)씨는 “작년부터 30m 높이의 빙벽 등반을 시작해 올해는 높이를 높여가고 있다”며 “등반 과정에서 맛본 성취감이 은퇴 후 삶에 큰 용기와 활력이 되고 있다”고 했다. 전양표(61)씨는 “등산과 암·빙벽 등반이 체력을 유지하는 데 큰 도움이 된다”며 “전국 동계 체육 대회 산악 부문에 강원도 대표로 출전하면서 체육인으로서의 삶도 시작하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BSHCLS7VHBBYDO6QLKIXIL3FGM.jpg?auth=a4786d88c158b4cadf561eb2bd46dc789ba7994abf15af1dab5eebc36486b307&amp;smart=true&amp;width=2833&amp;height=1549" type="image/jpeg" height="1549" width="2833">
+        <media:description type="plain">지난 9일 강원 원주 판대 아이스파크에서 고철준(64)씨가 피켈(곡괭이)과 크램폰(빙벽 전용 신발에 결착하는 아이젠)을 이용해 50m 높이의 얼음벽을 오르고 있는 모습. 40~50대 때 취미로 등산을 시작했다가 60대부터 암·빙벽 등반에 도전하는 경우가 많다고 한다./ 박상현 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>뉴욕 맨해튼에 퍼지는 익숙한 군고구마 냄새</title>
       <link>https://www.chosun.com/national/weekend/2026/02/14/U7NEEIBBFZDLRGSAID5M4IVXMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/02/14/U7NEEIBBFZDLRGSAID5M4IVXMY/</guid>
@@ -877,24 +898,6 @@
       <description/>
       <pubDate>Fri, 13 Feb 2026 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKAPVY6KFVIYRP27BHI7N37DDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴를 앞둔 13일 오후 서울 서초구 경부고속도로 잠원IC 인근 하행선에서 이른 귀성길에 오른 차량들이 길게 꼬리를 물고 거북이 운행을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 설 연휴는 대체로 봄처럼 포근할 것으로 예보됐다. 귀성 행렬이 시작될 주말에는 짙은 안개와 미세먼지가 겹칠 것으로 보여 주의가 필요하다.&lt;br&gt;&lt;br&gt;13일 기상청에 따르면, 14~15일 우리나라로 온화한 서풍이 불어오면서 한낮 수은주가 초봄 수준까지 오를 것으로 예상됐다. 14일 아침 최저기온은 영하 3~영상 6도, 낮 최고기온은 9~17도로 예보됐다. 15일에는 전날보다 기온이 2도가량 더 오르겠다.&lt;br&gt;&lt;br&gt;14~15일 새벽부터 아침 사이에는 전국 대부분 지역에 가시거리 1㎞ 미만의 안개가 낄 것으로 보인다. 서해안과 일부 내륙에선 가시거리가 200m 미만까지 짧아지는 곳도 있겠다. 대기 정체로 전국 초미세먼지(PM2.5) 농도가 ‘나쁨’ 수준을 보이는 등 미세먼지로 인한 시야 가림까지 더해질 전망이다.&lt;br&gt;&lt;br&gt;16~18일에는 찬 북동풍이 상대적으로 따뜻한 동해상을 통과하면서 강수 구름대를 형성, 16일 강원 영동에 대설특보(24시간 동안 5㎝ 이상 적설)가 내려질 정도의 많은 눈이 내리겠다. 경북 동해안과 부산·울산에도 이날 눈이나 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;이번 설 연휴 기간 고속도로 귀성길이 가장 막히는 날은 15일, 귀경길은 17일이 될 것으로 전망된다. 국토교통부는 15일 서울에서 부산까지 7시간, 17일 부산에서 서울까지 10시간 걸릴 것으로 예측했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강·김 영장에 前보좌관 ‘김병기 의원실 근무’ 이력은 빠져</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/14/6NROV5ROPVBHHKUWX7RIHF532M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/14/6NROV5ROPVBHHKUWX7RIHF532M/</guid>
-      <dc:creator>강지은 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRWGYRVMQZDOZRRMM2TSOJTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'1억 원 공천 헌금' 의혹을 받고 있는 강선우 무소속 의원(왼쪽)과 김경 전 서울시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘공천 헌금 1억원’ 사건과 관련해 강선우(서울 강서갑) 의원과 김경 전 서울시의원에 대한 구속영장을 신청하면서 이 사건 핵심 피의자인 강 의원 지역구 사무국장 남모씨의 경력을 잘못 기재한 것으로 13일 확인됐다. 남씨는 김경씨가 2022년 1월 서울 용산구 하얏트호텔에서 강 의원에게 시의원 공천 대가로 1억원을 건넬 때 동석한 인물이다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대(대장 박삼현)는 지난 5일 검찰에 강·김 두 사람에 대한 구속영장을 신청하면서 남씨와 관련해 “2012년부터 2016년까지 신기남 당시 민주당 의원의 보좌진으로 활동하다가, 2016년부터 2020년까지는 한정애 민주당 의원의 보좌진으로 활동했다. 이후 자리를 옮겨 2020년 8월부터 2022년 9월까지 강선우 의원의 지역구 보좌관으로 근무했다”고 적시했다. &lt;br&gt;&lt;br&gt;그런데 신 전 의원과 한 의원실 관계자는 모두 “남씨는 우리 의원실에서 근무한 적이 없다”고 밝혔다. 남씨는 2012~2016년 민주당 소속이었던 전병헌 당시 의원의 비서관으로 일했다고 한다. 남씨는 2018년엔 노웅래 당시 민주당 의원의 비서관으로 근무했다. &lt;br&gt;&lt;br&gt;남씨는 김병기(서울 동작갑) 의원실에서도 근무한 이력이 있다. 동작갑 현역이었던 전병헌 의원실에서 근무하던 남씨가 2016년 20대 총선 때 이 선거구에서 김병기 의원이 당선되자 김 의원실로 옮겼다는 것이다. &lt;br&gt;&lt;br&gt;그런데 경찰은 강선우·김경 두 사람 구속영장 신청서에서 남씨의 김 의원실 근무 경력은 적시하지 않았다. 강 의원과 김씨 간에 공천 헌금이 오간 사실은 지난해 12월 말 김 의원이 강 의원과 2022년 4월 나눈 관련 대화 녹음이 방송을 통해 공개되면서 불거졌다. 더욱이 강선우·김경 사건을 수사하는 서울경찰청 공공범죄수사대는 불법 선거 자금 수수, 보좌관 갑질 혐의 등으로 김 의원도 수사하고 있다.&lt;br&gt;&lt;br&gt;이와 관련, 경찰 관계자는 “강서구의 정치 지형을 조사하는 과정에서 다른 의원실 보좌진의 이력과 남씨의 이력이 섞이며 잘못 기재됐다”며 “단순 착오일 뿐 범죄 사실과 관련이 없다”고 했다. 그러나 법조계에선 “남씨는 강 의원에게 김경씨를 소개하고 두 사람 사이에서 공천 헌금 문제를 논의하는 등 이 사건의 핵심 피의자인데 수사 당국이 피의자에 대한 배경도 제대로 확인하지 않았다는 게 납득되지 않는다”는 지적과 함께 “고의든 실수든 경찰의 수사 역량에 의문을 들게 한다”는 말도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“할머니 할아버지 얼른 갈게요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/14/5R4J2YWAPVDHJOHKMHM2TVT4XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/14/5R4J2YWAPVDHJOHKMHM2TVT4XU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Feb 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMZBUHRJG5FY7E7FPSUS42JRXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 서울 용산구 서울역, 귀성을 위해 열차에 오른 가족이 환하게 웃으며 손을 흔들고 있다. 설 연휴를 하루 앞둔 이날, 서울역의 하행선 열차 예매율은 97.1%에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“지방 의대 입시설명회 해달라”… 지역 의사로 들뜬 교육계</title>
