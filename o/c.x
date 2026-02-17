@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>설 연휴 같은 고시원 주민에게 흉기 휘두른 60대 체포</title>
+      <link>https://www.chosun.com/national/regional/2026/02/17/GHBDI23Y4FFT7KCAHVJX2FTELA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/17/GHBDI23Y4FFT7KCAHVJX2FTELA/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 09:02:59 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTDKNTDMM2DIMJQG44WEY3EGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원팔달경찰서 전경./경기남부경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 경기 수원시의 한 고시원에서 다른 주민에게 흉기를 휘두른 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 수원팔달경찰서는 살인미수 혐의로 A씨를 현행범으로 체포해 조사하고 있다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 2시 28분쯤 수원시 팔달구의 한 고시원 복도에서 다른 주민 40대 남성 B씨의 등을 흉기로 한 차례 찌른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 병원으로 옮겨져 치료 받은 뒤 현재는 퇴원한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;범행 당시 A씨는 음주 상태였던 것으로 파악됐다. 그는 목격자 신고를 받고 출동한 경찰에 의해 고시원에서 붙잡혔다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “(B씨와) 평소 감정 다툼이 있었다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>설날 서울 곳곳 ‘거리 차례’ 행사…노동 단체와 사회적 참사 유족들 모여</title>
       <link>https://www.chosun.com/national/national_general/2026/02/17/672MBHYKSZCE3GMK6KTBVLFFJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/17/672MBHYKSZCE3GMK6KTBVLFFJQ/</guid>
@@ -897,15 +906,6 @@
       <description/>
       <pubDate>Sat, 14 Feb 2026 09:54:45 +0000</pubDate>
       <content:encoded>이상민 전 행정안전부 장관이 12·3 비상계엄 선포 직후 언론사 5곳에 대한 단전·단수 조치를 지시한 혐의로 1심에서 징역 7년을 선고받은 데 불복해 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTDMNBWMEYTOM3GHEYDMOBRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 지난해 10월 17일 서울 서초구 서울중앙지법에서 열린 내란 중요임무 종사 등 혐의 첫 공판기일에 출석해 피고인석에 앉아 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 이 전 장관 측은 전날 서울중앙지법 형사32부(재판장 류경진)에 항소장을 제출했다. 이 재판부는 지난 12일 내란 중요 임무 종사 등 혐의로 기소된 이 전 장관에게 징역 7년을 선고했다. 조은석 내란 특검은 앞서 이 전 장관에게 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 윤 전 대통령에게 국회 등 봉쇄 계획 및 언론사 단전·단수 지시가 담긴 문건을 받은 뒤 허석곤 당시 소방청장에게 이를 하달했다”며 “내란 행위의 중요 임무에 종사했다”고 밝혔다. 또 “언론사 단전·단수 조치는 내란 행위의 달성을 위한 수단의 일부로, 구체적인 실행 계획에 해당한다”고 했다. 윤석열 정부에 비판적인 언론사에 물리적 강제력을 가해, 비상계엄에 대한 비판 여론이 커지는 것을 막고 내란 행위를 용이하게 할 목적이 있었다는 취지다. &lt;br&gt;&lt;br&gt;오는 19일 윤 전 대통령의 내란 우두머리 사건 1심 선고를 앞두고, 지난달 21일 한덕수 전 국무총리 사건에서 ‘12·3 비상계엄이 내란에 해당한다’는 판단이 나온 데 이어 법원이 다시 같은 취지의 판단을 내린 것이다.&lt;br&gt;&lt;br&gt;재판부는 또 이 전 장관이 지난해 2월 헌법재판소의 윤 전 대통령 탄핵 심판 변론 때 증인으로 출석해 “단전·단수 지시를 받은 적 없다”고 진술하는 등 허위 증언한 혐의도 유죄로 인정했다. &lt;br&gt;&lt;br&gt;다만 계엄 선포 이후 최상목 당시 경제부총리가 윤 전 대통령으로부터 비상 입법 기구 관련 예산 편성 지시가 담긴 문건을 받는 모습을 보지 못했다고 이 전 장관이 위증했다는 혐의는 무죄로 판단했다. 이 전 장관이 일선 소방서로 하여금 언론사 단전·단수 조치를 위한 대응 태세를 갖추도록 했다는 직권남용 혐의에 대해서도 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주국제공항 고가도로서 30대 중국 여성 추락해 숨져</title>
-      <link>https://www.chosun.com/national/regional/2026/02/14/H3M4JVFWKVBJRBH6FRX2KNRPQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/14/H3M4JVFWKVBJRBH6FRX2KNRPQM/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Feb 2026 09:03:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZDMNTFGY3DCMJTGJSGMZLGGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고(뉴스1 자료) ⓒ 뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 첫날 제주국제공항 고가도로에서 중국인이 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;14일 제주도 소방안전본부 등에 따르면 이날 오후 2시 44분쯤 제주국제공항 3층 출발장 앞 고가도로에서 30대 중국인 여성 A씨가 추락했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 119구급대에 의해 심폐소생술 등 응급처치를 받으며 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 중국 여권을 소지하고 있었으며, 경찰은 출국 절차를 밟기 전 사고가 발생한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“클로이 김은 놓쳤지만, 최가온은 잡아야”</title>
