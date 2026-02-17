@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>원주 판부면 산불…30분 만에 주불 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/02/17/QTRHTRNW3ZDNRB7JFXAEOFZ5ME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/17/QTRHTRNW3ZDNRB7JFXAEOFZ5ME/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 05:09:06 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYWKOBQME2GEZRTHA2WCMRQGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 강원 원주 판부면 산불 현장./강원소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;17일 낮 12시 10분쯤 강원 원주시 판부면 서곡리 인근 야산에서 불이 나 30여분만에 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;산림과 소방 당국은 헬기 4대를 비롯해 진화 장비 18대와 인력 50여명을 투입해 30여분 만에 큰 불길을 잡고 잔불 정리 중이다.&lt;br&gt;&lt;br&gt;당국은 우사 뒤편에서 불이 났다는 신고 내용을 토대로 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학 등록금, 유치원처럼 물가상승률 이하로만 올리자는데… </title>
+      <link>https://www.chosun.com/national/education/2026/02/17/KTLB5HQUSNBGNNJZ5SLURKT6VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/17/KTLB5HQUSNBGNNJZ5SLURKT6VI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 05:00:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N67NSKWF3BOZDGXEXIAKGDL2UY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 학생들이 학교 측의 등록금 인상안에 항의하는 내용의 대자보를 붙이고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 주요 대학들이 작년에 이어 올해까지 2년 연속 등록금을 인상한 가운데, 등록금 인상을 규제하는 법안이 최근 국회에 발의됐다.&lt;br&gt;&lt;br&gt;17일 교육계에 따르면, 김문수 더불어민주당 의원(국회 교육위원회 소속)은 지난 3일 대학 등록금의 법정 인상 한도를 낮추는 고등교육법 개정안을 대표 발의했다. 해당 개정안은 각 대학이 ‘직전 3개 연도 평균 소비자 물가상승률’을 초과하지 않는 범위에서 등록금을 인상해야 한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;현행법은 ‘직전 3개 연도 평균 소비자 물가상승률의 1.2배’를 넘지 않는 선에서 등록금을 인상하도록 돼 있다. 만약 개정안이 국회를 통과하면 등록금 인상 상한선이 낮아지게 되는 것이다. &lt;br&gt;&lt;br&gt;김문수 의원은 “유치원 원비는 인상 상한을 직전 3개 연도 평균 소비자 물가상승률을 초과하지 않는 범위로 정하고 있고, 이와 비교할 때 대학 등록금 인상 상한이 상대적으로 높게 설정돼 있다”며 “(인상 상한을 낮춰) 대학생과 가정의 경제적 부담을 완화하려는 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;대학 등록금은 교육부가 법정 인상 한도를 발표하면, 매년 1~2월쯤 교직원과 학생 등으로 구성된 각 대학 등록금심의위원회(등심위)에서 논의해 결정한다. 지난해는 전국 4년제 일반 대학 및 교육대학 193곳 중 70.5%(136곳)에서 등록금을 인상했다. 당시 등록금 인상 상한은 직전 3개 연도 평균 소비자 물가상승률의 1.5배로 계산됐다. 16년간 이어진 정부의 등록금 동결 정책으로 직면한 재정난을 더는 참지 못하고 올린 것이다. 급격히 치솟은 물가로 인상률(5.49%)이 높게 형성된 것도 인상을 추진한 이유였다. &lt;br&gt;&lt;br&gt;그러자 지난해 7월 등록금 인상 상한선을 1.5배에서 1.2배로 낮추는 법안이 국회를 통과했다. 그런데 이젠 1.2배 상한선마저도 없애자는 개정안이 국회에 발의된 것이다.&lt;br&gt;&lt;br&gt;대학들은 해당 개정안이 국회를 통과하게 되면, 앞으로 등록금을 물가상승률만큼도 올리지 못하게 될 것이라 우려한다. 서울의 한 사립대 관계자는 “첫 등심위 회의에서 대학이 인상 상한선에 맞춘 인상률을 학생 측에 제시하지만 논의를 통해 그보다 낮은 인상률로 최종 의결된다”며 “인상 한도를 꽉 채워 올리는 경우가 많지 않은데, 1.2배 상한선이 사라지면 등록금을 물가상승률만큼도 인상할 수 없게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;교육부가 발표한 올해 등록금 인상률 최대치는 2023~2025년 평균 소비자 물가상승률(2.66%)의 1.2배인 3.19%다. 하지만 서울 주요 대학 중 3.19%를 인상한 대학은 한 곳도 없다. 이화여대와 경희대는 2.95%, 고려대와 성균관대 2.9%, 연세대와 한양대 2.6%, 서강대와 중앙대 2.5%, 한국외대 2.3% 가량 인상했다. 서울 주요 대학 9곳 중 5곳에서 직전 3개 연도 평균 소비자 물가상승률 이하로 등록금을 인상한 것이다.&lt;br&gt;&lt;br&gt;서울의 한 사립대 총장은 “1.2배에서 1배로 낮추면 1인당 등록금에서 몇 천원밖에 차이가 나지 않아 사소한 문제인데, 국회가 굳이 이런 규제로 대학의 사기를 꺾어야 하는지 모르겠다”며 “대학 경쟁력이 곧 국가 경쟁력인 만큼 규제보다는 고등교육을 살리는 정책 만드는 데 더 많이 힘써줬으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“시험도 안 쳤는데 내가 스키 강사?”…‘부실 시험’ 판 치는 스키 지도자 자격증</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/17/TJVMTZCKMVAVVCKGH5IVFNXP3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/17/TJVMTZCKMVAVVCKGH5IVFNXP3A/</guid>
+      <dc:creator>윤성우 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYWG5OW6MZTIDA4AV4EUBCL5S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 광주시 곤지암리조트 스키장에서 시민들이 스키와 보드를 타며 겨울을 만끽하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;감독관 재량으로 수시 개최가 가능해진 ‘스키 지도자 자격 시험’이 허술하게 운영되면서, 스키 경험이 많지 않은 초보자들까지 무분별하게 자격증을 발급받아 강사로 활동하고 있는 것으로 나타났다. 매년 2500여 명의 신규 강사가 쏟아지고 있지만, 일부는 시험조차 치르지 않고 자격증을 손에 넣는 등 관리 감독의 사각지대에 놓여 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;대학생 김모(23)씨는 지난 겨울 강원도의 한 스키 강습소에서 아르바이트를 시작한 지 2주 만에 ‘스키 지도자 자격증’을 받았다. 김씨는 스키장을 몇 번 가보지도 못한 초보였으나, 시험장에 발을 들이지도 않고 자격증을 취득했다. 김씨는 “같은 강습소에서 일하는 아르바이트생 20여 명도 다른 직원이 대신 시험을 응시해준 덕분에 시험 없이 자격증을 받았다”며 “중급 슬로프조차 매끄럽게 내려오기 벅찬 실력이지만 주말마다 어린이들을 가르쳤다”고 했다.&lt;br&gt;&lt;br&gt;스키 강사로 활동하려면 ‘사단법인 대한스키지도자연맹’이 발급하는 ‘레벨 1 스키 지도자’ 자격증이 있어야 한다. 문제는 이 시험이 상급 자격(레벨 3)을 보유한 감독관의 재량에 따라 장소와 일시를 불문하고 자유롭게 열 수 있다는 점이다. 올해 기준 감독관 자격을 가진 지도자는 300여 명으로 파악됐다.&lt;br&gt;&lt;br&gt;일부 감독관은 자신이 운영하거나 친분이 있는 강습소 직원들을 위해 허술하게 시험을 운영하거나 응시자가 시험을 치지 않아도 합격을 시킨다고 한다. 강원도에 있는 스키 강습소에서 7년 동안 일한 강사 A(27)씨는 “감독관 자격이 있는 선배 강사들이 신입들의 시험을 봐주며 실력과 무관하게 합격시키고 있다”며 “중급 슬로프도 겨우 내려오는 수준의 강사가 늘고 있다”고 했다. 또 다른 스키 강사는 “일부 강습소에서는 친분이 있는 감독관에게 매번 신입들의 자격 시험을 부탁해 스키 강사를 양산하고 있다”고 했다.&lt;br&gt;&lt;br&gt;자격증 취득 문턱이 낮아진 것은 지난 2017년부터다. 연맹 측이 ‘스키 대중화’를 내걸고 심사위원회가 스키장마다 연 1~3회 개최하던 시험 방식을 감독관 개인 상시 개최 방식으로 변경했기 때문이다. 연맹에 따르면 매년 1500여 명 수준이던 ‘레벨 1 스키 지도자’ 자격증 신규 취득자가 이때부터 매년 2500여 명으로 급증한 것으로 파악됐다. 이번 겨울에도 지난달 기준 1000명 이상이 자격증을 새로 땄다.&lt;br&gt;&lt;br&gt;대한스키지도자연맹 관계자는 “가장 낮은 등급인 ‘레벨 1’ 강사들은 통상 입문자만을 교육하고 있다”며 “그 이상의 중·상급 강습은 레벨 2·3 자격을 갖춘 전문 강사들이 전담하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>엄마 학력 높을수록 육아휴직 기간도 늘어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/17/HEKXHR2Y6RHP3ORQG7RWMDXXOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/17/HEKXHR2Y6RHP3ORQG7RWMDXXOY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Feb 2026 04:55:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XGVIS5QIBMEVE57ZLZCHNPZ44.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한 엄마와 아이가 서울시내 한 직장어린이집으로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엄마의 학력이 높을수록 육아휴직 이용률이 높고, 휴직 기간도 긴 것으로 나타났다. 학력이 높을수록 규모가 큰 기업에 다닐 가능성이 큰 게 영향을 미친 것으로 보인다.&lt;br&gt;&lt;br&gt;17일 한국보건사회연구원의 ‘결혼과 출산의 최근 동향과 영향 요인’ 보고서에 따르면 출산한 여성 3292명의 일·가정 양립 제도 사용 경험 등을 조사한 결과 이 같은 결과가 도출됐다.&lt;br&gt;&lt;br&gt;보고서에 따르면 출산 당시 육아휴직 제도 이용 대상의 40.7%가 육아휴직을 이용했고, 휴직 기간은 평균 12.5개월이었다. 어머니의 교육 수준별로 살펴보면 고졸 이하는 16%, 대졸은 46.9%, 대학원 졸업 이상은 57.6%가 육아휴직을 활용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;휴직 기간도 고졸 이하는 10.4개월, 대졸은 12.6개월, 대학원 졸업 이상은 13.8개월을 사용해 학력이 높아질수록 육아휴직을 길게 쓰는 것으로 나타났다.&lt;br&gt;&lt;br&gt;1명 이상의 아이를 가진 가정이 추가 출산 의향을 가졌는지와 관련해선, 소득이 큰 영향을 미치지 않은 것으로 나타났다. 중간 소득에 해당하는 3분위의 출산 의향이 37%로 소득이 가장 높은 5분위(상위 20%, 출산 의향 21.6%)보다 더 높았다. 출산 의향은 4분위(소득 상위 21~40%, 출산 의향 25.3%), 2분위(소득 하위 21~40%, 출산 의향 22.4%), 1분위(소득 하위 20%, 출산 의향 20.6%) 순으로 ‘역 유(U)자형’을 보였는데, 연구진은 집단 간 차이는 통계적으로 유의미하게 나타나지 않았다고 분석했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>설 명절에 아내 살해한 70대 남편 체포</title>
       <link>https://www.chosun.com/national/regional/2026/02/17/XREDHNW5FNE7VP3L35HL7DHTDU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/17/XREDHNW5FNE7VP3L35HL7DHTDU/</guid>
@@ -858,15 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5STOMTGMU3WKOBYGU2GMNDGGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 부산 남구 한 도로에서 경찰이 음주 운전 의심 차량을 멈춰 세우고 있다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 명절 근무를 나가던 경찰기동대가 음주운전 차량을 발견하고 현장에서 운전자를 붙잡았다.&lt;br&gt;&lt;br&gt;부산 부산진경찰서는 도로교통법 위반 혐의로 30대 남성 A씨를 조사하고 있다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 8시 40분쯤 부산 남구 대남교차로에서 황령터널을 지나는 도로에서 면허취소 수준 상태로 자신의 승용차를 운전한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 부산경찰청 기동대 직원들은 설 명절 연휴 민생치안 교통 근무를 위해 기동대 버스에 탑승해 이동하던 중에 버스 앞에서 A씨 승용차가 주행하는 것을 발견했다.&lt;br&gt;&lt;br&gt;차량은 차선을 아슬아슬 넘나들었고, 옆 차로에서 주행하던 차량들은 이 모습에 놀라 급하게 속도를 줄이는 아찔한 광경이 연출됐다.&lt;br&gt;&lt;br&gt;이에 경찰은 A씨 차량이 터널을 빠져나가길 기다렸다가 정차시킨 뒤 음주운전 여부를 확인해 검거했다.&lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허취소 수준의 만취 상태였다. 경찰은 도로교통법 위반 혐의로 A씨를 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “음주운전은 자신의 생명은 물론 타인의 삶까지 앗아갈 수 있는 중대 범죄”라고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJ6EMGDGBRHCRGIH3T2YG4FDJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 부산 황령터널 인근에서 부산경찰청 제2기동대 대원들이 버스에서 내려 음주운전 차량을 가로막고 있다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>설 연휴 기간 스토킹·데이트 폭력 급증 추세...가정폭력은 감소</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/14/OEIVOL7RJVBT7F4D6MVBGDLMBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/14/OEIVOL7RJVBT7F4D6MVBGDLMBE/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Feb 2026 03:32:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYDSNZUHE3WMZRTMU4DCMTFGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년간 설 연휴 기간 가정폭력 신고는 감소했지만, 스토킹과 데이트 폭력, 아동학대 등 신고는 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰청이 정춘생 조국혁신당 의원실에 제출한 자료를 보면, 지난해 설 연휴(1월 25∼30일) 엿새간 접수된 데이트 폭력 112신고는 일 평균 265.3건(총 1592건)으로, 전년(204.8건)보다 약 29% 늘었다. 2021년 151.8건에서 매년 증가하는 추세다.&lt;br&gt;&lt;br&gt;설 연휴 아동학대 신고 역시 2022년 일 평균 44.2건, 2023년 47.3건, 2024년 57건, 2025년 59.3건 등 3년 연속 증가세다. 스토킹 신고도 지난해 일 평균 80.2건을 기록해 전년(71건)보다 늘었다.&lt;br&gt;&lt;br&gt;반면 설 연휴 기간 접수되는 가정폭력 신고는 주춤하는 모양새다. 지난해 설 연휴 기간 접수된 가정폭력 112 신고는 총 4979건으로, 일평균 829.8건이었다. 2021년 844건, 2022년 818.4건이던 설 연휴 가정폭력 신고는 2023년 890.5건으로 정점을 찍은 뒤 2024년 846건으로 하락세에 접어들었다.&lt;br&gt;&lt;br&gt;경찰청은 이번 설 연휴에도 스토킹 등 범죄가 급증할 것에 대비해 재범 우려 가정과 고위험 대상자를 전수 점검한다. 관련 사건이 발생하면 112상황실이 지휘 본부가 되어 지역경찰, 형사기동대 등이 출동하는 식으로 대응할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>투자 손실로 학교 돈 30억 빼돌린 사립고 행정실장 항소심도 실형</title>
       <link>https://www.chosun.com/national/regional/2026/02/14/R3ZQVMBJ3JGO5HNWSN7LTFSWWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/14/R3ZQVMBJ3JGO5HNWSN7LTFSWWM/</guid>
@@ -874,33 +901,6 @@
       <description/>
       <pubDate>Sat, 14 Feb 2026 02:40:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인 채무를 갚으려고 학교법인 계좌에서 30억원을 빼돌린 고등학교 행정실장에게 항소심에서도 실형이 선고됐다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 수원고법 형사1부(재판장 신현일)는 특정 경제범죄 가중처벌 등에 관한 법률 위반(횡령), 사문서위조 등 혐의로 기소돼 1심에서 징역 7년을 선고받고 양형에 불복한 A씨의 항소를 기각했다.&lt;br&gt;&lt;br&gt;재판부는 “1심과 비교해 양형의 조건에 변화가 없고, 원심 양형이 재량의 합리적인 범위를 벗어나지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2024년부터 2025년까지 경기도에 있는 한 사립 고등학교에서 행정실장으로 근무하던 중 학교 계좌에서 30억원을 본인 계좌로 이체해 개인 채무를 갚는 등 임의로 사용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 주식 투자 등으로 인한 손실을 만회하려고 사설 선물거래소에서 해외선물거래를 시작했으나 손실액이 커지자 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 1000만원 이하의 돈은 학교법인 계좌에서 임의로 이체할 수 있다는 점을 이용해 582차례에 걸쳐 자금을 빼돌린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 자신의 횡령 범행으로 학교법인이 공사대금을 지급할 수 없게 되자 학교법인 사업자등록증명서 등을 위조한 뒤 학교법인 명의 정기예탁금 7억여원을 해지한 혐의도 받는다.&lt;br&gt;&lt;br&gt;원심은 “피고인이 4억원을 법인에 돌려주고 범행을 인정하고 반성하는 태도는 유리한 정상이지만 학교법인뿐만 아니라 다수의 학생과 근로자가 피해를 봤고 범행 죄질이 불량한 점을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>설 연휴 덮친 미세먼지, 내일까지 농도 짙어</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/14/3YJCXZF5EBAETFNWPO3YGK73VI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/14/3YJCXZF5EBAETFNWPO3YGK73VI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Feb 2026 02:50:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7WBZX62GZLEVKT7U6564J7IAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴가 시작된 14일 오전 초미세먼지와 미세먼지가 '매우 나쁨' 수준을 기록한 가운데 서울 도심이 뿌옇게 보이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 서울 전역에서 초미세먼지(PM2.5) 수치가 ‘매우 나쁨’을 기록하는 등 연휴 첫날부터 탁한 공기가 전국을 덮었다. 짙은 미세먼지는 일요일인 15일까지 이어질 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 14일 우리나라는 일본 남쪽 해상에 위치한 고기압 가장자리에 들면서 대체로 포근하겠으나, 대기 정체로 미세먼지가 갇히면서 종일 공기가 탁할 것으로 보인다.&lt;br&gt;&lt;br&gt;14일 오전 11시 기준 중부지방의 초미세먼지 농도는 ‘매우 나쁨’, 부산을 제외한 남부지방은 ‘나쁨’을 기록 중이다. 미세먼지(PM10)도 중부지방과 대구·경북·울산·광주는 ‘나쁨’, 다른 지역에선 ‘보통’ 수준이다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 15일까지 높을 것으로 예상된다. 15일 전국의 미세먼지 및 초미세먼지 수치는 종일 ‘나쁨’ 수준을 유지하겠다.&lt;br&gt;&lt;br&gt;이후 16일부터는 중국 북부지방에서 남동쪽으로 이동하는 대륙 고기압의 영향을 받으면서 찬 바람이 들어와 미세먼지가 육지 바깥으로 씻겨나갈 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허위 사실 담긴 방송 원고 읽은 패널…대법 “손해배상 책임 없어” </title>
-      <link>https://www.chosun.com/national/court_law/2026/02/14/RD4KHZTZW5AEZEMXKLBSVIJOVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/14/RD4KHZTZW5AEZEMXKLBSVIJOVY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Feb 2026 02:49:19 +0000</pubDate>
-      <content:encoded>방송에 출연한 패널이 허위 사실을 언급했더라도, 방송사가 미리 작성한 원고를 토대로 말한 것이라면 손해배상 책임을 인정하기 어렵다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTVJPRUAJZGHJPKS2PJHORDXJM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 청사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 최근 나모씨가 최진봉 성공회대 교수를 상대로 낸 손해배상 청구 소송에서 원고 패소로 판결한 원심을 깨고, 사건을 서울중앙지법으로 돌려보냈다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;최 교수는 지난 2020년 1월 YTN ‘뉴스나이트’ 시사 토론 코너에 패널로 출연해, 당시 자유한국당 ‘공약개발단 레드팀’ 위원으로 위촉됐다가 사흘 만에 해촉된 나씨에 대해 발언했다. &lt;br&gt;&lt;br&gt;방송 이틀 전 인터넷 커뮤니티에는 나씨가 작성한 것으로 보이는 “자유한국당 입당해서 분탕치고 싶다”는 내용의 트위터 글 이미지가 게시됐는데, 최 교수는 이를 언급하며 “이런 발언들을 한 것으로 알려지고 있습니다”, “이런 건 이분의 소셜미디어만 봐도 알 수 있는 내용 아니겠습니까?”라고 방송에서 말했다.&lt;br&gt;&lt;br&gt;그러나 해당 트위터 글 이미지는 누군가 나씨의 명의를 도용해 조작한 것으로 드러났다. 이에 나씨는 최 교수가 허위 사실을 적시함으로써 정신적 고통을 입었다며 3000만원의 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;1심과 2심은 최 교수가 나씨에게 500만원을 배상해야 한다고 판단했다. 1심은 “방송 무렵 해당 이미지가 조작됐다는 글이 이미 올라와 있었고, 일부 언론도 조작 가능성을 보도하고 있었다”며 “(최 교수가) 발언 전 나씨에게 해당 글을 작성했는지 문의하거나 진정 여부를 조사·확인했다고 볼 자료가 없다”고 했다. 2심도 “설령 취재 기자 등이 준비한 원고를 그대로 발언했다 하더라도 손해배상 책임을 면할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원의 판단은 달랐다. 최 교수가 ‘나씨가 해당 트위터 글을 직접 작성했다’고 단정적으로 표현하지는 않았고, 방송사에서 사전에 작성한 원고를 토대로 발언이 이뤄졌다는 점에 대법원은 주목했다. &lt;br&gt;&lt;br&gt;대법원은 “해당 발언은 패널로 출연해 진행자 질문에 답하는 과정에서 사전에 방송사가 작성한 원고를 기초로 이뤄졌다”며 “보도 주체도 아닌 패널에 불과한 피고가 전문 방송사에 의해 작성된 내용을 신뢰하지 않고 별도로 사실관계를 확인할 것을 기대하기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;또 트위터 글 이미지가 허위라는 나씨의 반박 이후 그의 트위터 계정이 비공개로 전환돼 진위를 확인하기 어려웠던 점, 이미지가 조작됐다는 취지의 일부 언론 보도 역시 나씨의 해명에 근거한 것이라 객관적인 확인이 이뤄진 것은 아니었던 점도 함께 고려해야 한다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 대법원 판결은 언론·출판을 통해 사실을 적시해 명예를 훼손한 경우라도, 공공의 이해에 관한 사안으로 공공의 이익을 목적으로 했고, 적시된 사실이 진실이라고 믿을 만한 상당한 이유가 있다면 위법성이 조각될 수 있다는 기존 판례를 다시 확인한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 술 취해 외조부와 다투다 집에 불 지르려던 유명 마술사 입건</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/14/TEZ2TSA3K5GI3LMIVO7OA6OBWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/14/TEZ2TSA3K5GI3LMIVO7OA6OBWA/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Feb 2026 02:41:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSDUP2SAKKI5ZE3RCOMN2STENM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공중파 방송프로그램에 출연하며 활발하게 활동하던 유명 20대 마술사가 자택에 불을 지르려다 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 외할아버지와 싸우다가 집에 불을 지르려 한 20대 남성 A씨를 현주건조물방화예비 혐의로 입건해 조만간 검찰에 송치할 예정이라고 14일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 5일 새벽 2시쯤 서울 은평구 불광동 집에서 술에 취한 상태로 외할아버지와 말다툼을 벌이다 불을 지르려 한 혐의를 받는다. 다행히 실제 화재로 이어지지는 않았다.&lt;br&gt;&lt;br&gt;경찰은 다시 범행할 우려가 있다고 판단해 A씨를 집에서 퇴거시키고 접근 금지를 명령하는 등 ‘긴급임시조치’를 했다.&lt;br&gt;&lt;br&gt;A씨는 50만명이 넘는 틱톡 구독자를 보유 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“클로이 김은 놓쳤지만, 최가온은 잡아야”</title>
