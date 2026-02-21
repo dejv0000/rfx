@@ -13,6 +13,44 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>만취 10대 아빠 차로 질주… 순찰차 들이받고 도주까지</title>
+      <link>https://www.chosun.com/national/regional/2026/02/21/IKLGKOLVGBHKRPZBQIWCPVMG6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/IKLGKOLVGBHKRPZBQIWCPVMG6A/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>아버지 차량으로 음주 운전을 하다 순찰차를 들이받은 10대가 경찰에 붙잡혔다.
+경기 성남중원경찰서는 도로교통법 위반 등 혐의로 A(18)군을 붙잡아 조사 중이라고 21일 밝혔다.</description>
+      <pubDate>Sat, 21 Feb 2026 06:06:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지 차량으로 음주 운전을 하다 순찰차를 들이받은 10대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 성남중원경찰서는 도로교통법 위반 등 혐의로 A(18)군을 붙잡아 조사 중이라고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 이날 오전 2시쯤 경기 성남시 중원구 한 도로에서 술에 취한 상태로 차를 몰다가 주차된 오토바이를 들이받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A군은 사고 직후 그대로 도주했으며 신고를 받고 출동한 경찰과 마주치자 순찰차를 들이받은 뒤 다시 달아났다.&lt;br&gt;&lt;br&gt;A군은 2㎞가량을 도주하다가 중앙분리대를 들이받았고, 멈춰 선 차 안에서 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;체포 당시 A군의 혈중알코올농도는 면허 취소 수준이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A군이 아버지 차량을 몰고 나와 술자리를 가진 뒤 그대로 운전대를 잡은 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 2월 22일 일요일 (음력 1월 6일 丁卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/21/ZKAG5NFY7BEY3EHFZJNYLTKI3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/ZKAG5NFY7BEY3EHFZJNYLTKI3M/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>목줄 안 채워 ‘자전거 충돌 사망사고’ 낸 견주…구호 조치 없이 현장이탈</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/21/TMK45KAASREI5GPHROBMF6L3GU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/TMK45KAASREI5GPHROBMF6L3GU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 07:51:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목줄을 풀고 반려견을 산책시키다 자전거와 충돌 사고를 일으켜 50대 남성을 숨지게 한 견주가 실형을 선고받았다. &lt;br&gt;&lt;br&gt;21일 법조계에 따르면 의정부지법 형사단독(김준영 판사)은 동물보호법 위반 혐의로 재판에 넘겨진 견주 A씨에게 징역 1년 10개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 5월 경기 의정부시 중랑천변 산책로에서 그레이하운드 품종의 반려견과 산책하던 중 목줄을 풀어 놓고 안전 조치를 하지 않은 혐의다.&lt;br&gt;&lt;br&gt;당시 목줄이 풀린 반려견은 전기자전거를 타고 지나던 50대 남성 B씨에게 달려들어 자전거와 충돌했고, B씨는 넘어지면서 머리를 다쳤다.&lt;br&gt;&lt;br&gt;B씨는 병원으로 옮겨져 치료를 받았으나 일주일 만에 뇌간 압박 등으로 숨졌다.&lt;br&gt;&lt;br&gt;특히 견주 A씨는 사고 직후 별다른 구호 조치를 하지 않고 도망가는 반려견을 쫓아간다는 명목으로 현장을 이탈한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “등록 대상 동물의 소유자는 외출 시 목줄 착용 등 위해를 예방하기 위한 안전 조치를 해야 한다”며 “피고인은 이를 지키지 않아 피해자를 사망에 이르게 했다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “사고 직후에도 피해자에 대한 구호 조치를 충분히 하지 않은 채 현장을 이탈한 것으로 보인다”며 “유족과 합의하지 못했고 유족이 엄벌을 탄원하고 있는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 예산·서산서 잇단 산불… 산림 당국 “헬기 투입 진화 중”</title>
+      <link>https://www.chosun.com/national/regional/2026/02/21/DYPHZ3H4BFEITDRVJIGEKSCKXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/DYPHZ3H4BFEITDRVJIGEKSCKXE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 07:38:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCCEVRC73VM5HDP3PKNU4M45WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 충남 서산시 대산읍 대죽리 한 야산에서 불이 났다. 산림 당국은 헬기 등을 투입해 진화 작업을 벌이고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 예산과 서산에서 잇따라 산불이 발생해 산림 당국이 진화에 나섰다.&lt;br&gt;&lt;br&gt;21일 오후 2시 22분쯤 충남 예산군 대술면 송석리 한 야산에서 불이 났다. 산림 당국은 헬기 12대를 투입해 진화 작업을 벌이고 있으며 오후 3시 30분을 기해 ‘확산 대응 1단계’를 발령했다. 현재 화선은 약 3㎞, 산불 영향 구역은 약 24ha로 추정되고 있다.&lt;br&gt;&lt;br&gt;앞서 오후 1시쯤 충남 서산시 대산읍 대죽리 한 야산에서도 불이 나 헬기 10대가 투입돼 진화 중이다. 소방 당국은 불이 나자 대응 1단계를 발령하고 확산 차단에 주력하고 있다.&lt;br&gt;&lt;br&gt;예산군과 서산시는 산불 인근 입산을 통제하고, 인근 마을 주민들에게 안전한 곳으로 대피하라는 안내 문자를 발송했다.&lt;br&gt;&lt;br&gt;현재 충남 서해안 일대엔 강한 바람이 불고 있다. 기상청은 이날 오후부터 해당 지역에 순간 최대 초속 20m의 강풍이 불 것으로 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한학자, 구속집행정지 연장 불허… 구치소 복귀</title>
       <link>https://www.chosun.com/national/court_law/2026/02/21/YURFA6JOBNHF3PII2QPAYJLAOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/21/YURFA6JOBNHF3PII2QPAYJLAOA/</guid>
@@ -764,16 +802,6 @@
       <content:encoded>산업통상부 고위 공무원이 설 연휴 직전 한국노총을 찾아 집행부와 면담을 진행한 것으로 19일 알려졌다. 앞서 지난달엔 민주노총 집행부와도 따로 만났다고 한다. 통상적으로 양대 노총과 정부의 공식 대화 채널은 고용노동부인데 이례적으로 산업부가 양대 노총과 직접 접촉한 것이다. 최근 노동부가 양대 노총과 각각 ‘노정(勞政) 협의체’를 만든 데 이어, 양대 노총의 높아진 위상을 보여주는 상징적 장면이란 해석이 나온다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 11일 박동일 산업부 산업정책실장 등이 한국노총을 방문해 류기섭 사무총장 등과 면담했다. 정부 관계자는 “산업 관련 정책이 노동계에 적지 않은 영향을 줄 뿐 아니라, 노동계의 움직임 역시 산업 정책에도 파급이 큰 만큼 양측 간에 ‘소통을 강화하자’는 취지의 대화를 나눴다”고 했다. 앞서 민주노총과의 만남 때도 비슷한 이야기가 오갔다고 한다.&lt;br&gt;&lt;br&gt;특히 산업부가 조만간 석유화학 분야 구조 재편안을 내놓을 예정이어서, 이번 만남에 더욱 이목이 쏠리고 있다. 기업들의 존폐와도 연결된 이 구조 재편안은 다음 달 시행되는 노란봉투법에 큰 영향을 받을 수밖에 없다. 노란봉투법이 노동 쟁의 범위를 ‘근로 조건에 영향을 미치는 사업 경영상 결정’으로 확대했기 때문이다. 이에 따라 합병이나 분할에 따른 정리 해고, 배치 전환 등이 이뤄지면, 노조는 합법적으로 파업하는 게 가능하다. 정부 안팎에선 석유화학 분야 재편 과정에서 대규모 인력 재배치나 감축 등 가능성이 거론되고 있는 만큼, 파업이 발생하면 정부 계획은 시작부터 차질을 빚게 된다. 한 노동계 인사는 “산업부가 양대 노총의 협력을 구해야 하는 상황이라 몸을 숙인 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;노란봉투법 시행의 주무 부처인 노동부도 비슷한 분위기다. 노동부는 노란봉투법 시행령 및 지침을 내놓는 과정에서, 혼란을 걱정하는 경영계를 향해 “과도한 우려”라고 설명해 왔다. 그런데 법 시행 후 노조의 극한 파업이나 지나친 교섭 요구 등 때문에 노사 간 소송이 이어진다면, 노동부도 비판을 피하기 어렵다. 노정 협의체나 최근 연달아 이어지는 노동 입법 역시 노동계를 자극하지 말자는 분위기가 반영됐다는 게 전문가들 견해다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>설 연휴 끝나자… 쏟아진 스티로폼 쓰레기 </title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/20/6XJVC7HF4RAYVEJ57L4PF36LPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/20/6XJVC7HF4RAYVEJ57L4PF36LPM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWV4HTHIMJFKZFPBBCJUKRKEEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 명절 연휴 다음 날인 19일 광주광역시 북구의 재활용품 선별장에서 작업자가 산더미처럼 쌓인 스티로폼을 분류하고 있다. 이곳은 북구 내 플라스틱·스티로폼 등 폐합성수지 쓰레기가 모이는 곳으로, 명절 전후에는 평소 대비 1.5배 쓰레기가 몰린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>첨단 교수 72명 뽑은 고려대… 그 뒤엔 기업 기부금 있었다</title>
       <link>https://www.chosun.com/national/education/2026/02/20/5Y4SPC5KAZCQTGX3K3Y5IOCW2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/20/5Y4SPC5KAZCQTGX3K3Y5IOCW2I/</guid>
@@ -793,26 +821,6 @@
       <content:encoded>정부·여당이 추진 중인 ‘대전·충남 행정통합 특별법안’에 대해 대전시의회와 충남도의회가 ‘반대’ 입장을 내놨다. 이들은 “재정·권한 이양 범위가 작년 국민의힘 통합안에 비해 대폭 줄어들어 수용하기 어렵다”며 반발했다.&lt;br&gt;&lt;br&gt;대전시의회와 충남도의회는 19일 각각 임시회를 열고 지난 12일 국회 행정안전위원회를 통과한 충남·대전 행정통합 특별법안에 대해 ‘반대’ 결정을 내렸다. 이들은 “알맹이가 빠진 졸속 법안을 민주당 주도로 일방 처리했다”고 지적했다. 두 곳 모두 국민의힘이 다수당이다.&lt;br&gt;&lt;br&gt;앞서 지난해 7월 대전시의회·충남도의회는 대전시장·충남지사가 제출한 행정통합 안건에 대해 ‘찬성’ 의견을 냈었다. 당시 행정통합안에는 양도소득세 100%, 법인세 50%를 통합 특별시에 이양하고 예비타당성조사·중앙투자심사를 면제해 주는 등 각종 특례가 담겨있었다. 국민의힘 성일종 의원도 작년 10월 이 같은 내용으로 특별법을 발의했다. &lt;br&gt;&lt;br&gt;그러나 정부·여당 안에는 이런 특례 조항이 빠져 있어 받아들일 수 없다는 게 지방의회 입장이다. 홍성현 충남도의회 의장은 “원래 행정통합을 찬성했던 건 재정권과 자치권이 강화될 것이라는 기대 때문이었다”며 “재정·자치권을 보장해주지 않는다면 통합에 반대한다는 의견을 분명히 밝힌다”고 했다.&lt;br&gt;&lt;br&gt;다만 시·도의회의 이번 반대 의결이 법적 효력을 가질 수 있는지에 대해선 의견이 엇갈린다. 지방자치법 5조는 지방자치단체를 폐지·설치하거나 분할·합병할 때 관계 지방의회의 의견을 들어야 한다고 규정하고 있다. 이에 대해 야당에선 ‘핵심 내용이 달라져 의회에서 새로 의결해야 한다’고 주장한다. 반면 여당은 ‘이미 행정통합은 의결된 사안이라 재의결이 불가능하다’고 반박한다.&lt;br&gt;&lt;br&gt;이장우 대전시장은 이날 대전 시민들을 대상으로 행정통합 찬반 의견을 조사하겠다는 계획을 밝혔다. 법적 구속력은 없지만, 지역 여론이 ‘반대’로 몰릴 경우 여당에 정치적 부담이 될 것이라는 전망이다. 반면 민주당 조승래 사무총장은 이날 대전시의회를 찾아 “대전·충남만 낙오할 수 있다”며 통합을 그대로 추진하겠다는 방침을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>화성시 4개 구청 출범… “2시간 가서 서류 뗐는데, 이젠 30분이면 돼”</title>
-      <link>https://www.chosun.com/national/regional/2026/02/20/SUXANLBCKJFOXJSN4U55K6SBTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/20/SUXANLBCKJFOXJSN4U55K6SBTU/</guid>
-      <dc:creator>화성=김수언 기자, 화성=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CBX3B7OJRDSHIFRLN2UHOOX4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 찾은 경기 화성시 동탄구청 민원여권과의 모습. 여권을 발급받거나 갱신하려는 시민들로 붐볐다. 동탄구청은 지난 1일 문을 연 ‘신생 구청’이다. 화성시에는 지난 1일부터 동탄구 등 4개 구(區)가 생겼다.
-/김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 오전 경기 화성시 효행구청 민원토지과. 시민 10여 명이 줄을 섰다. 효행구청은 지난 1일 문을 연 ‘신생 구청’이다. 효행구 봉담읍 와우리에 사는 김지수(42)씨는 “예전엔 간단한 서류 하나 떼는 데도 차를 몰고 18㎞ 떨어진 시청이나 10㎞ 떨어진 동부출장소까지 가야 해 스트레스를 받았는데 오늘은 5분 만에 왔다”고 했다.&lt;br&gt;&lt;br&gt;화성시는 지난 1일 만세구, 효행구, 병점구, 동탄구 등 4개 구청을 신설했다. 한 도시에 구청 4곳이 한 번에 생긴 건 전국 최초다. 지난 11일과 19일 이 네 곳을 찾아가 보니 민원실마다 시민들로 북적였다. 시민들은 “인구 106만명 도시에 구청 하나 없고 그동안 너무했다”고 했다.&lt;br&gt;&lt;br&gt;화성시는 전국에서 가장 빠르게 성장하는 도시다. 화성군이 화성시로 승격한 2001년 인구는 약 21만명. 10년도 안 된 2010년 50만명을 넘겼다. 그리고 2023년 인구 100만명을 돌파해 특례시가 됐다. 현재 인구는 106만명. 최근 15년 새 2배로 성장했다. 동탄에 삼성전자 반도체 공장을 유치하면서 인구가 급증했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBAKWHZCUBEWBLZDXITVGTKERI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 행정 서비스는 성장 속도를 따라가지 못해 시민들 불편이 컸다.&lt;br&gt;&lt;br&gt;화성시는 도·농 복합 도시로 면적이 844㎢다. 서울의 1.4배 수준이다. 서쪽에서 동쪽까지 직선거리가 약 47㎞다. 서울처럼 지하철 등 대중교통망이 촘촘한 것도 아니다. &lt;br&gt;&lt;br&gt;신도시는 동쪽에 집중적으로 조성됐으나 시청은 서쪽에 치우쳐 있다. 남양읍에 있는 시청은 화성군청이 있던 자리다. &lt;br&gt;&lt;br&gt;이 때문에 동부 지역 시민들은 버스를 1~2번 갈아타고 1~2시간씩 걸려 시청을 찾는 일도 잦았다. 직장인 박종훈(52)씨는 “예전엔 여권 갱신하려면 연차나 반차를 써야 했다”고 했다.&lt;br&gt;&lt;br&gt;시민들 민원이 쏟아지자 화성시는 동쪽 신도시 지역에 출장소 2곳을 냈다. 2001년 동부출장소와 2018년 동탄출장소다. 출장소는 시청의 단순 민원 업무만 할 수 있는 임시 사무소로 주민들의 다양한 요구를 해결하기엔 한계가 있었다. &lt;br&gt;&lt;br&gt;이번에 새로 생긴 구청에선 부동산 거래 신고, 토지 거래 허가, 여권 발급 등 생활 민원을 거의 다 볼 수 있다. 시청이 하던 개발 인·허가, 주정차 단속 등 업무도 한다. &lt;br&gt;&lt;br&gt;화성시 관계자는 “시민들이 민원 처리에 걸리는 시간이 30%는 단축된 것으로 분석된다”며 “특히 식당이나 카페를 운영하는 자영업자나 부동산 관련 민원인들 반응이 좋다”고 했다.&lt;br&gt;&lt;br&gt;구청 4곳이 생기면서 관련 법에 따라 보건소도 3곳에서 4곳으로 늘었다. 2곳인 선거관리위원회도 구마다 1곳씩 신설됐다. 구청 신설 효과다. &lt;br&gt;&lt;br&gt;구청 신설은 화성시의 오랜 숙원 사업이다. 지방자치법에 따르면, 인구 50만명을 넘으면 구청을 설치할 수 있다. 화성은 2010년 이 기준을 넘겼지만 실제 구청 신설까지 16년이 걸렸다. 화성시 관계자는 “그동안 구의 이름과 경계, 구청의 위치 등을 놓고 주민 의견이 분분했다”고 했다. &lt;br&gt;&lt;br&gt;‘임기 내 구청 설치’를 공약으로 내세운 정명근 시장이 2022년 당선되면서 속도가 붙었다. 시민 공청회, 설문조사 등을 거쳐 2024년 설치 계획을 마련했고 행정안전부가 작년 8월 최종 승인했다.&lt;br&gt;&lt;br&gt;각 구의 경계는 이른바 ‘30분 도시’를 목표로 그렸다. 화성시 관계자는 “화성시민 누구나 30분 이내 시청이나 구청에 들러 행정 업무를 볼 수 있도록 경계를 정했다”고 했다. &lt;br&gt;&lt;br&gt;구 이름은 시민 공모와 설문조사를 거쳐 확정했다. 병점구와 동탄구는 지역 이름을 그대로 썼다. 만세구는 일제강점기 독립만세운동의 역사를 반영한 이름이다. 1919년 4월 화성군 제암리에서는 주민 1000여 명이 독립만세운동을 했다. 제암리에는 화성시독립운동기념관도 있다.&lt;br&gt;&lt;br&gt;효행구에는 유네스코 세계문화유산인 융릉과 건릉이 있다. 융릉은 조선 사도세자(장조), 건릉은 정조의 능이다. 효행구란 이름은 아버지 사도세자를 향한 정조의 효행을 기리기 위해 지었다고 한다. 이를 두고 온라인 커뮤니티에선 “구가 어디에 있는지 바로 떠오르지 않는다” “지역명을 따는 게 더 실용적이다”는 지적도 나온다.&lt;br&gt;&lt;br&gt;화성시에 따르면, 구청 4곳을 신설하는 데 총 165억원이 들었다. 청사를 마련하는 것뿐 아니라 도로표지판 등도 바꿔야 한다. 화성시는 “예산을 아끼기 위해 기존 공공청사를 최대한 활용했다”고 했다. 동탄구청과 병점구청은 각각 동탄출장소와 동부출장소를 새 단장해 만들었다. 만세구청은 이례적으로 화성시종합경기타운 주경기장에 사무실을 냈다. 효행구청은 민간 건물을 임차했다. 화성시 관계자는 “화성시 인구가 더 늘어나면 중장기적으로 신청사를 짓는 방안도 검토할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;4개 구청에서 일하는 공무원은 총 793명이다. 화성시는 시청 공무원을 각 구청으로 발령 냈다. 화성시는 부족한 일손을 메우기 위해 올해 신규 채용 인원을 작년(347명)보다 10% 늘릴 계획이다.&lt;br&gt;&lt;br&gt;정명근 화성시장은 “화성은 도시 지역인 동부와 농촌 지역인 서부의 격차가 크다”며 “구청 신설은 단순히 행정기관 수만 늘리는 게 아니라 4개 권역을 균형 있게 발전시키려는 시도”라고 했다. 화성시는 지역 특성을 살린 사업을 추진한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>상암 대관람차, 예술 공간 될 노들섬… 미래 서울이 보인다</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/20/7IJW4WMARRHI5IGDGSOWFCXDPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/20/7IJW4WMARRHI5IGDGSOWFCXDPM/</guid>
-      <dc:creator>김영우 기자, 최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:46:00 +0000</pubDate>
-      <content:encoded>지난 18일 오후 4시 서울시청 지하 1층 ‘내친구서울관’. 서울을 1600분의 1 크기로 축소한 가로 15m, 세로 20m 크기의 초대형 도시 모형 앞에 시민 40여 명이 몰렸다. “우리 동네가 어딨지?” 아이들은 모형 속에서 자신이 사는 동네를 찾느라 정신이 팔렸다. 한 아이는 바닥에 깔린 LED 한강을 발로 밟아보다가 물고기 영상이 툭 튀어나오자 “우와”하고 탄성을 냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAUU34JIG5H4VASPTVMTELRFJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 서울시청 ‘서울갤러리’에서 시민들이 서울의 현재와 미래 모습을 담은 모형을 구경하고 있다. 앞으로 생길 대관람차 ‘서울링’, 제2세종문화회관 등도 볼 수 있다.
-/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시청 지하 1·2층에 조성돼 지난 5일 문을 연 ‘내 친구 서울 서울갤러리(서울갤러리)’가 시청의 새로운 볼거리로 떠올랐다. 19일 서울시에 따르면, 전날까지 서울갤러리를 찾은 사람은 3만7179명이다. 개관 2주 만에 관람객 4만명 돌파를 눈앞에 둔 것이다. 특히 설 연휴 방문객은 1만명을 넘겼다.&lt;br&gt;&lt;br&gt;원래 이곳에는 박원순 전 시장 시절에 만든 ‘시민청’이 있었다. ‘시민이 소통하는 공간’이라며 공공 회의실과 시민 발언대 등을 넣어뒀지만 인기를 끌지 못했다. 코로나 이후엔 시민 발길이 완전히 끊겼고, 공간도 낡아 거의 활용되지 않았다. 이에 서울시는 2024년 5월 서울갤러리 조성 계획을 발표하고 같은 해 12월 공사를 시작해 이번에 새롭게 선보였다.&lt;br&gt;&lt;br&gt;서울갤러리는 ‘시민 누구나 편하게 찾아와 서울의 미래 모습을 둘러볼 수 있는 공간’이라는 콘셉트로 만들었다. 가장 인기가 많은 ‘내친구서울관’에선 마포구 상암동에 생길 대관람차 ‘서울링’이나 예술 공간으로 조성 중인 노들섬 모형을 통해 달라질 서울의 모습을 가늠해볼 수 있다. &lt;br&gt;&lt;br&gt;가족 단위 방문객에겐 ‘키즈라운지’도 인기다. 키즈 카페처럼 아이들이 뛰어놀 수 있는 공간이다. 바닥엔 운동장처럼 트랙이 그려져 있고, 곳곳에 철봉 등 운동 기구도 있다. 서울시 관계자는 “서울시의 건강관리 프로그램인 ‘서울체력9988’을 아이들 눈높이에서 해석해 쉽고 재밌게 접근할 수 있게 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울시 굿즈를 살 수 있는 ‘서울마이소울샵’은 갤러리 개관 일주일 만에 매출 1161만원을 기록했다. 서울시 마스코트 ‘해치’가 그려진 메모지가 가장 많이 팔렸고, 서울갤러리 개관 기념 초콜릿과 해치 인형 키링도 인기를 끌었다고 한다. 서울시 관계자는 “서울을 잘 알릴 수 있는 콘텐츠를 지속적으로 추가해 서울시민뿐 아니라 외국인들도 한 번씩 들르는 공간으로 만들 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제주·울산·보령… 해상 풍력 사업 잇따라 스톱</title>
       <link>https://www.chosun.com/national/regional/2026/02/20/BDLN5A37CFDFJGTXQOJPLKTRMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/20/BDLN5A37CFDFJGTXQOJPLKTRMM/</guid>
@@ -830,18 +838,6 @@
       <description/>
       <pubDate>Thu, 19 Feb 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWIH2MJONVD2BI4R6U6UGDSD34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남서울대학교 설립자인 성암(星岩) 이재식(李在植·92) 이사장이 지난 17일 오전 7시40분 별세했다. 전북 장수 출신인 그는 수도학원과 남서울대학교를 설립해 교육 발전에 헌신했다. 유족은 이윤석 남서울대 부총장, 이형석 재미 사업가, 이희승 사회복지시설 운영자. 빈소 서울삼성병원, 발인 20일 오전 6시30분.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이주 여성들의 ‘해결사’ 외국인 부녀회장  </title>
-      <link>https://www.chosun.com/national/people/2026/02/20/UEAQUC2V3ZDW3BNESBFTBXWVIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/20/UEAQUC2V3ZDW3BNESBFTBXWVIE/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDN2CXDOOJBJ5ON4NYHX7PBTYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 송광령 북가좌2동 새마을부녀회장이 서대문구 북가좌2동 주민센터 앞에서 가래떡을 들고 웃고 있다. 그는 서울 시내 유일한 외국인 새마을 부녀회장이다./권우석 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“맛있는 가래떡 사세요!”&lt;br&gt;&lt;br&gt;지난 9일 오전 서울 서대문구 북가좌2동 주민센터 앞에서 초록색 새마을부녀회 조끼를 입은 송광령(55)씨가 목청껏 외쳤다. 중국인인 송씨는 서울 시내 유일한 외국인 새마을부녀회장이다. 3년 차 회장인 송씨는 매년 설을 앞두고 회원들과 함께 주민센터 앞에 매대를 차려놓고 주민들에게 떡국용 가래떡을 판매하고 있다. 수익금으로는 지역 독거 노인들에게 설 음식을 대접하고 남는 돈은 기부하고 있다. &lt;br&gt;&lt;br&gt;송씨는 지난 1996년 초 중국의 한 식품 공장에서 한국인 남편을 만났다. 같은 해 6월 한국으로 들어와 서울 용산구 보광동에 자리를 잡았고 그 해에 귀화했다. 그때만 해도 한국어를 거의 하지 못했다고 한다. 식당에서 밤낮 가리지 않고 일하면서 틈이 날 때마다 한글을 공부했지만 잘 늘지 않았다.&lt;br&gt;&lt;br&gt;보광동 이웃들은 그런 송씨에게 한국 반찬을 가져다주면서 가족처럼 챙겼다고 한다. 몇 년 전 서대문구로 이사한 송씨는 지난 2022년 새마을부녀회 모집 현수막을 봤다. “정말 힘들 때 주변에서 받았던 은혜를 돌려드리고 싶었어요.” 송씨는 이듬해인 2023년부터 부녀회장을 맡아 지금까지 회장직을 유지하고 있다. 그는 “매년 11월 홀로 사는 어르신들을 모시고 생일 잔치를 열어드린다”며 “부녀회 활동 중 가장 보람찬 일”이라고 했다.&lt;br&gt;&lt;br&gt;송씨는 서대문구 동네 이주 여성들 사이에서 ‘해결사’로 통한다. “장애인 딸의 심리 상담 치료비가 비싸 부담된다”는 이웃 중국 동포 이야기를 들은 송씨는 곧장 주민센터를 찾아가 지원금을 받을 수 있도록 했다. 결혼 후 5년간 아이가 생기지 않아 고민하던 베트남 여성에겐 난임 진료로 유명한 산부인과를 추천해줬다.&lt;br&gt;&lt;br&gt;송씨는 “우리 동네에 베트남 출신 새댁이 늘고 있어 2024년부터는 지역 다문화센터에서 주 3회 베트남어를 공부하고 있다”고 했다. 부녀회 활동 중 베트남 출신 여성들이 서툴게 “안녕하세요”라고 인사하면, 그는 베트남어로 “신짜오”라고 답한다. 이날 주민센터 앞에서 만난 베트남 국적의 홍니앤(24)씨는 “송 회장님 덕에 이제는 한국어로 말하는 게 무섭지 않다”며 “회장님처럼 유창하게 한국어를 하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;송씨는 다음 달엔 방송통신대 중어중문학과에 입학한다. 부녀회장 임기가 끝나는 2029년부터는 ‘중국어 강사’로 무료 언어 봉사를 하겠다는 계획이다. 송씨는 “학생부터 직장인, 어르신까지 중국어를 배우고 싶은 사람이 있다면 무료로 가르쳐주고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MDN2CXDOOJBJ5ON4NYHX7PBTYA.jpg?auth=c3672f87d304c52b82ba930cf0e4330e29caf456ee9b7683217d42900c8fdf2c&amp;smart=true&amp;width=3496&amp;height=2464" type="image/jpeg" height="2464" width="3496">
-        <media:description type="plain">지난 9일 송광령 북가좌2동 새마을부녀회장이 서대문구 북가좌2동 주민센터 앞에서 가래떡을 들고 웃고 있다. 그는 서울 시내 유일한 외국인 부녀회장이다./권우석 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>‘자랑스러운 평북인상’ 선정</title>
