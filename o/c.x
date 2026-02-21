@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한학자, 구속집행정지 연장 불허… 구치소 복귀</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/21/YURFA6JOBNHF3PII2QPAYJLAOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/21/YURFA6JOBNHF3PII2QPAYJLAOA/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 05:10:10 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTGKNBXGIZWKNZVMJRWIMRQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교 정교유착 의혹과 관련해 구속 기소됐다가 일시 석방됐던 한학자(83) 통일교 총재가 석방 기간을 연장해 달라고 했지만 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울중앙지법 형사27부(재판장 우인성)는 한 총재 측이 지난 19일 낸 구속집행정지 기간 연장 신청을 지난 20일 불허했다. 이에 따라 한 총재는 이날 오후 2시쯤 서울구치소로 복귀한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 재판부는 한 총재 측이 건강상 이유로 지난 11일 요청한 구속집행정지 신청을 조건부로 받아들였다. 당시 한 총재 측은 구치소 내에서 3차례에 걸쳐 낙상 사고가 있었고, 고혈압과 녹내장 등 합병증이 심각해 외부 치료를 받아야 한다고 했다. 한 총재는 작년 11월에도 구속집행정지 신청이 받아들여져 사흘간 병원 치료를 받았다.&lt;br&gt;&lt;br&gt;형사소송법상 법원은 상당한 이유가 있는 때에 결정으로 구속된 피고인을 친족·보호단체 등에게 부탁하거나 피고인의 주거를 제한해 구속의 집행을 정지할 수 있다. 대법원은 예규에서 중병, 출산, 가족의 장례 참석 등을 구속집행정지의 사유로 정했다.&lt;br&gt;&lt;br&gt;한 총재는 윤영호 전 통일교 세계본부장과 공모해 2022년 1월 권성동 국민의힘 의원에게 통일교 지원을 청탁하며 1억원을 건네고, 2022년 4∼7월 통일교 단체 자금 1억4400만원을 국민의힘 소속 의원 등에게 쪼개기 후원한 혐의(정치자금법 위반) 등으로 작년 10월 구속 기소됐다. ‘건진 법사’ 전성배씨를 통해 김건희 여사에게 2022년 7월 1271만원 상당의 샤넬 가방과 가격 미상의 천수삼 농축차 1개, 6220만원 상당의 그라프 목걸이를 건넨 혐의(청탁금지법 위반)도 있다. &lt;br&gt;&lt;br&gt;또한 한 총재는 윤석열 전 대통령이 지지하는 후보자가 2023년 3월 8일 치러진 국민의힘 당대표 경선에 당선될 수 있도록 통일교 소속 교인들이 집단으로 국민의힘에 가입하도록 하게 한 혐의(정당법 위반)로 작년 11월 추가 기소됐다.	&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“비만도 아닌데 뭘” 안심한 사이… 과체중부터 ‘뇌 혈관’ 손상된다</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/02/21/MJIFBUNZEBBENEO34FGVIHKV2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/21/MJIFBUNZEBBENEO34FGVIHKV2E/</guid>
@@ -842,15 +851,6 @@
       <description/>
       <pubDate>Thu, 19 Feb 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAS2AMKQJVC3FJL53C27UCKNJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부 평안북도(지사 이세웅)는 제2회 ‘자랑스러운 평북인상(賞)’ 수상자로 임동원(왼쪽) 전 통일부 장관과 김학남(가운데) 극동음향 회장, 김영진 한독약품 회장을 선정했다고 19일 밝혔다. 시상식은 25일 오후 2시 이북5도청 평화강당에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김영회 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/20/JMBDTYFIWJA7ZDQJWKKFJEWRRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/20/JMBDTYFIWJA7ZDQJWKKFJEWRRY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김영회&lt;/b&gt; 前 대한적십자사 충북지사 회장 별세, &lt;b&gt;김균&lt;/b&gt; SK하이닉스 TL 부친상, &lt;b&gt;한성식&lt;/b&gt; 누리플랜 전무·&lt;b&gt;이용철&lt;/b&gt; 현대자동차 연구원 장인상=18일21시 청주의료원, 발인 21일8시30분, (043)279-0144&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤석만&lt;/b&gt; 별세, &lt;b&gt;윤도원&lt;/b&gt; 시사경북 편집국장 부친상=18일21시13분 포항국화원장례식장, 발인 21일6시, (054)272-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이윤진&lt;/b&gt; 별세, &lt;b&gt;오세윤&lt;/b&gt; 아내상, &lt;b&gt;오승석&lt;/b&gt; 대원건기 대표·&lt;b&gt;오현주&lt;/b&gt;·&lt;b&gt;오현정&lt;/b&gt; 서울서부고용센터 팀장 모친상, &lt;b&gt;이광수&lt;/b&gt; MBN 前 경영지원국장 장모상,&lt;b&gt; 김명희&lt;/b&gt; 시모상=19일0시51분 강동경희대병원, 발인 21일6시30분, (02)440-8924&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>BTS 멤버 제이홉, 생일 맞아 서울아산병원 2억·초록우산 1억원</title>
