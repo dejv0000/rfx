@@ -13,6 +13,99 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“비만도 아닌데 뭘” 안심한 사이… 과체중부터 ‘뇌 혈관’ 손상된다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/21/MJIFBUNZEBBENEO34FGVIHKV2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/21/MJIFBUNZEBBENEO34FGVIHKV2E/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 00:47:19 +0000</pubDate>
+      <content:encoded>비만 전 과체중 단계부터 뇌의 미세 혈관 이상이 생길 수 있다는 연구 결과가 나왔다. 보통 과체중 판정을 받아도 별다른 조치 없이 넘어가는 경우가 많은데, 뇌 건강을 위해 이 단계에서부터 관리를 해야 한다는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Q32VHRNU5CG3D5M4HE4YDRPPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비만 직전 과체중 단계부터 뇌의 미세 혈관 이상이 생길 수 있다는 연구 결과가 나왔다./Pixabay&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인제대 해운대백병원 신경과 박강민 교수와 부산백병원 가정의학과 김진승 교수 연구팀은 체질량지수에 따른 뇌 백질의 미세구조 손상 정도를 영상 지표로 확인해 국제학술지 ‘비만 연구 및 임상진료(Obesity Research &amp;amp; Clinical Practice)’에 게재했다고 20일 밝혔다. 연구진은 세계보건기구(WHO)의 아시아·태평양 기준 체질량지수에 따라 정상체중(18.5~22.9㎏/㎡), 과체중(23~24.9㎏/㎡), 비만(25㎏/㎡ 이상)으로 구분한 성인 집단에 대해 연구를 진행했다.&lt;br&gt;&lt;br&gt;뇌에는 가느다란 혈관들이 촘촘히 분포하고 있는데, 이곳에 이상이 생기면 ‘뇌 소혈관질환’으로 이어져 인지 기능을 저하시키고 뇌졸중 위험을 높이는 요인이 된다. 연구진은 비만이 이런 손상에 어느 정도 영향을 미치는지를 알기 위해 확산 텐서 영상(DTI)을 통해 확보한 데이터를 활용했다. 이때 뇌 백질의 미세 구조 변화를 민감하게 반영하는 영상 지표인 ‘PSMD’를 적용해 손상 정도를 수치로 비교 분석했다.&lt;br&gt;&lt;br&gt;그 결과, 체질량 지수가 증가할수록 PSMD 수치도 함께 상승하는 유의미한 상관 관계가 나타났다. 특히 비만이 아닌 과체중 단계에서도 이미 정상 체중군보다 PSMD 수치가 높아지는 경향이 확인돼 뇌 백질의 미세한 손상이 시작됐을 가능성이 컸다. 연구진은 체질량 지수와 뇌의 미세 구조 변화 간 상관 관계가 나타난 이유로 만성 염증과 대사 이상을 들었다. 체중 증가와 함께 염증 반응이 늘어나고 이어 인슐린 저항성, 고혈압, 이상 지질혈증 등이 동반되는 변화가 장기적으로 이어지면 뇌의 미세 혈관에 영향을 줄 수 있다는 것이다. &lt;br&gt;&lt;br&gt;연구진은 과체중이 단순한 체형의 문제가 아니라 장기적인 뇌 건강과 밀접하게 연관될 수 있으며, 가급적 일찍 체중 관리에 나설 필요가 있다고 했다. 건강한 일반 성인 중에서도 체중 증가가 뇌 미세 구조 변화와 연관될 수 있다는 점이 연구를 통해 드러났기 때문이다. 김진승 교수는 “체질량지수가 23㎏/㎡을 넘는 단계부터 보다 적극적인 체중 관리가 필요하다는 근거를 제시한 결과”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“함께 온 일행 안 보여”… 예당저수지서 20대 낚시객 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/2026/02/21/S5KNHQ5HEJAEHBW7SAAMR2BGFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/S5KNHQ5HEJAEHBW7SAAMR2BGFE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>충남 예산군 예당저수지에서 20대 낚시객이 물에 빠져 숨졌다.
+21일 오전 2시 52분쯤 예당저수지 좌대 낚시터에서 “함께 온 일행이 보이지 않는다”는 119 신고가 접수됐다.</description>
+      <pubDate>Sat, 21 Feb 2026 01:04:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 예산군 예당저수지에서 20대 낚시객이 물에 빠져 숨졌다.&lt;br&gt;&lt;br&gt;21일 오전 2시 52분쯤 예당저수지 좌대 낚시터에서 “함께 온 일행이 보이지 않는다”는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨와 함께 낚시를 온 일행은 잠을 자고 일어난 뒤 A씨가 사라진 사실을 확인하고 소방 당국에 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 저수지 일대를 수색한 끝에 이날 오전 5시 42분쯤 심정지 상태의 A씨를 발견했다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“뇌출혈 증상 시, 두 가지 절대 금물”… 서울아산병원, ‘겨울철 뇌출혈 전조증상과 대처법’ 제시</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/21/WSBPAKQWL5GBRGSWELQUKYSL3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/21/WSBPAKQWL5GBRGSWELQUKYSL3U/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 01:38:48 +0000</pubDate>
+      <content:encoded>국내 가장 큰 병원인 서울아산병원이 최근 발간한 뉴스레터(정기 소식지)에서 ‘겨울철 뇌출혈 전조 증상과 대처법’을 소개했다. &lt;br&gt;&lt;br&gt;온라인 뉴스레터에선 이승주 서울아산병원 신경외과 교수가 출연했다. 이 교수는 “추운 날씨에는 우리 몸은 체온을 유지하기 위해 혈관이 수축 되는데 이로 인해 혈압이 급격히 오른다”고 했다. 이때 고혈압 등으로 약해진 뇌혈관이 혈압을 견디지 못하고 터지게 된다는 것이다. 그는 “따뜻한 곳에 있다가 갑자기 찬 공기를 마시거나, 사우나 후 찬바람을 쐴 때 특히 위험하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2ERC5NCINEPHPZAUATC3I5AZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울아산병원이 최근 온라인 뉴스레터를 통해 겨울철 뇌출혈 발생 시 절대 해선 안 될 민간 요법 두 가지를 설명하는 장면/서울아산병원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 반드시 응급실에 가야할 뇌출혈 전조 증상과 증상 발생 시 대처법을 ‘FATS 법칙’으로 설명했다. 이 법칙의 내용은 아래와 같다. &lt;br&gt;&lt;br&gt;F(Face): 웃을 때 한쪽 얼굴이 마비되어 입이 돌아감.&lt;br&gt;&lt;br&gt;A(Arms): 양팔을 들었을 때 한쪽 팔에 힘이 빠져 툭 떨어짐.&lt;br&gt;&lt;br&gt;S(Speech): 말이 어눌해지거나 말이 잘 떠오르지 않음.&lt;br&gt;&lt;br&gt;T(Time): 증상 발생 시 지체 없이 병원으로 이동.&lt;br&gt;&lt;br&gt;이 교수는 그러면서 뇌출혈 증상 발현 시, 절대로 해선 안 될 민간 응급 처치법도 소개했다. 오히려 병세를 악화시킨다는 것이다. 먼저 ①손가락 따기다. 왜냐하면 이렇게 할 때 통증으로 인해 교감 신경이 흥분돼 혈압이 더 올라가고 출혈을 더 일으킨다는 것이다. 두 번째로는 ②우황청심원 복용이다. 의식이 흐릿한 상태에서 물이나 약을 먹이면 기도로 넘어가 폐렴을 유발할 수 있으며, 이는 생존 확률을 크게 낮춘다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여성 BJ 얼굴에 나체 사진 합성·유포한 20대 ‘집유 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/21/4L5YAG7S5NBGPOBCQSQJR4ZZNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/21/4L5YAG7S5NBGPOBCQSQJR4ZZNM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>여성 인터넷 방송인의 얼굴을 나체 사진과 합성해 유포한 20대에게 법원이 징역형을 선고했다.
+청주지법 형사5단독 강건우 부장판사는 성폭력 범죄의 처벌 등에 관한 특례법 위반(허위 영상물 반포) 혐의로 기소된 20대 A씨에게 징역 8개월에 집행유예 2년을 선고했다고 21일 밝혔다.</description>
+      <pubDate>Sat, 21 Feb 2026 01:27:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKVLLYO2MACAHQI2M6O6T5DPKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 인터넷 방송인의 얼굴을 나체 사진과 합성해 유포한 20대에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 강건우 부장판사는 성폭력 범죄의 처벌 등에 관한 특례법 위반(허위 영상물 반포) 혐의로 기소된 20대 A씨에게 징역 8개월에 집행유예 2년을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 7월 충북 청주시 흥덕구 자택에서 인터넷 방송인 B씨의 얼굴을 합성한 나체 사진과 영상을 텔레그램 단체 채팅방에 유포하는 등 같은 해 9월까지 모두 7건의 허위 영상물을 유포한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨 외에도 다수의 여성 인터넷 방송인의 얼굴을 나체 사진과 합성해 허위 영상과 사진을 제작한 것으로 드러났다.&lt;br&gt;&lt;br&gt;강 부장판사는 “텔레그램의 익명성과 보안성에 의지해 범행이 발각되지 않을 것이라 믿고 범행을 벌인 점을 비춰보면 비난 가능성이 매우 크다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처에 고위공직자 범죄 내부고발 신고센터 설치된다</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/21/RWRP6QSYJFCKVMWPDID7GJVN2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/21/RWRP6QSYJFCKVMWPDID7GJVN2Y/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 01:15:18 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSTAMTEHBTGINBUHBSTIZDFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 정부과천청사 고위공직자범죄수사처(공수처) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)에 고위공직자 범죄 등에 대한 내부 고발 신고 전담 센터가 설치된다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 공수처는 지난 20일 ‘고위공직자범죄 내부 고발 익명 신고의 접수 및 처리 등에 관한 규칙’ 제정안을 입법 예고했다.&lt;br&gt;&lt;br&gt;예고안에 따르면 센터는 익명 신고를 접수한 날부터 50일 이내에 사실관계 등을 확인해 처리 결과를 신고자에게 통보할 예정이다. 이를 통해 신고 내용이 수사할 만한 내용이면 센터장은 수사기획관에게 보고한 후 내사 사건으로 수리되도록 사건관리담당관에게 통보한다. &lt;br&gt;&lt;br&gt;신고 내용이 불분명하거나 구체적 사실이 없으면 신고자에게 15일 이내에 내용을 보완해 달라고 요구하고, 두 차례에 걸친 요구에도 내용이 보완되지 않거나 고위공직자 범죄에 해당하지 않으면 사건을 접수하지 않고 종결하기로 했다.&lt;br&gt;&lt;br&gt;센터장은 공수처 소속 4급 또는 5급 수사관 중에서 공수처장이 지명한 사람이 겸임하고, 수사기획관의 지휘를 받아 업무를 할 예정이다. 신고자는 포상을 받을 수 있다. &lt;br&gt;&lt;br&gt;공수처는 다음 달 23일까지 익명 신고센터 규칙 제정안에 대한 의견을 접수한 후 오는 4월 2일부터 시행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전원주 “두 아들이 내 재산 노려, 인감도장 달라더라”</title>
+      <link>https://www.chosun.com/national/people/2026/02/21/3HBMMTXHFFH4JFLU27PLDFCGVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/21/3HBMMTXHFFH4JFLU27PLDFCGVM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 00:43:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3TIY3DGU3DKMZUG5TDKNJZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 전원주./유튜브 '영구TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 전원주가 두 아들이 자신의 재산을 노리고 있는 것 같다며 재산 문제에 대한 속내를 털어놨다.&lt;br&gt;&lt;br&gt;20일 유튜브 채널 ‘영구TV’에는 ‘전원주씨가 연애 전문 점집에 첫 손님으로 찾아왔습니다’라는 제목의 영상이 공개됐다. 영상에서 전원주는 코미디언 겸 영화감독 심형래와 무속인 천존암을 만나 이야기를 나눴다.&lt;br&gt;&lt;br&gt;무속인은 전원주에게 “남자 복이 없는 사주다. 치마만 둘러서 여자지, 남자 사주다. 힘든 고비도 있어서 악바리처럼 살았다”고 말했다. 이에 전원주는 “내가 장사하러 다녔다”며 고개를 끄덕였다. 무속인은 이어 “고생 많이 하셨다. 그렇게 지독하게 사셨기 때문에 지금까지 사는 거다”라고 위로했다.&lt;br&gt;&lt;br&gt;이어 무속인은 전원주의 건강 상태를 언급하며 “앞으로가 중요하다. 원래는 6년 전에 쓰러져야 했는데 한 고비 넘겼다. 이번에 쓰러지면 못 일어나니까 머리 아프면 병원에 가라”고 조언했다. 그러면서 “2027년, 2028년에는 건강을 정말 조심해야 한다. 하는 일은 잘되는데 건강 관리를 잘해야 한다. 웬만한 재산은 정리하실 건 정리하시는 게 좋다”고 말했다.&lt;br&gt;&lt;br&gt;이 대화 도중 전원주는 자신의 재산과 관련한 솔직한 심정을 꺼냈다. 그는 “가기 전에 쓰고 가야겠다. 벌써 자식들이 노리고 있다”고 말했다. 이어 “(아들이) 둘인데 내 인감도장을 달라고 한다. 벌벌 떠는 전원주가 아니라 팍팍 쓰는 전원주가 돼야겠다고 요즘 느낀다”고 덧붙였다. 심형래가 “무조건 쓰라는 것이 아니라 선배님 본인을 위해서 쓰셨으면 한다”고 하자, 전원주는 “이제는 내가 좀 쓰겠다”고 답했다.&lt;br&gt;&lt;br&gt;전원주는 연기 활동과 함께 오랜 기간 투자와 재테크에 적극적으로 나서며 자신만의 자산을 쌓아온 것으로 유명하다. 그는 주식 30억원과 금 10억원가량의 자산을 보유하고 있는 것으로 알려졌다. 특히 SK하이닉스 주식을 장기간 보유하며 상당한 수익률을 거둔 것으로 화제가 되기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전자발찌 찬 60대, 음주운전 적발되자 보호관찰관 협박·폭행… ‘징역 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/21/M4VGXOBGYBHU7BBMEI37NVTG6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/21/M4VGXOBGYBHU7BBMEI37NVTG6Q/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 00:20:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSTSOBRGU4DOZRUGY3GGNLDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성범죄 전력으로 전자발찌를 착용 중이던 60대가 음주 운전 사실이 적발되자 보호관찰관을 협박하고 폭행해 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 특정범죄 가중처벌 등에 관한 법률상 보복 협박 등 혐의로 기소된 A(63)씨에게 징역 2년을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 5일 보호관찰관 B씨가 A씨의 음주 운전 사실을 포착해 112에 신고하자 “죽여버리겠다”고 협박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 귀가를 권유받고 보호관찰소를 나서던 중 B씨의 어깨 부위를 때리는 등 폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;나흘 뒤에도 보호관찰소 소속 공무원에게 “술에 많이 취해 위험하니 귀가하라”는 지도를 받자 욕설을 퍼붓고 폭행을 가한 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 죄책이 가볍지 않고 누범 기간 중 자숙하지 않은 채 범행을 저지른 점을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>봄 같은 주말...바람 강해 산불 주의</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/21/HWHGRCL2OZETJK2G5XLKDBMGAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/21/HWHGRCL2OZETJK2G5XLKDBMGAQ/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 00:22:47 +0000</pubDate>
+      <content:encoded>토요일인 21일은 전국이 봄처럼 포근하겠다. 다만 대기가 건조한 가운데 바람이 강하게 불어 산불 등 화재 예방에 주의가 필요하다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 전국 낮 최고기온은 13~20도로 평년(5~11도)보다 높겠다. 전국 대부분 지역의 낮 기온이 15도 이상으로 오르겠으나, 중부 내륙과 경상권을 중심으로는 낮과 밤의 기온 차가 15도 이상으로 커 건강관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYGINLBGQ4TMMTDMI4TAYZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 낮 최고 기온이 10도 이상 오르며 포근한 날씨를 보인 20일 오후, 서울 청계천에서 시민들이 산책을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기온이 급격히 오르면서 강이나 호수, 저수지의 얼음이 녹아 얇아질 수 있어 해빙기 안전사고에도 대비가 필요하다.&lt;br&gt;&lt;br&gt;강원 동해안과 경상권을 중심으로 대기가 매우 건조하겠고, 그 밖의 지역도 건조한 상태가 이어지겠다. 오후부터는 대부분의 해안 지역과 중부 내륙을 중심으로 바람까지 매우 강하게 불겠다. 건조한 대기와 강풍이 맞물려 작은 불씨가 대형 화재로 번질 수 있는 만큼 화재 예방에 각별히 주의해야 한다고 기상청은 전했다. &lt;br&gt;&lt;br&gt;전국이 대체로 맑겠으나 수도권과 강원도는 가끔 구름이 많겠다. 미세먼지 농도는 수도권과 강원 영서에서 ‘나쁨’ 수준을 보이겠으며, 그 밖의 권역은 ‘좋음’~‘보통’ 수준으로 예상된다.&lt;br&gt;&lt;br&gt;해상에도 풍랑특보 가능성이 있다. 오후부터 서해상을 시작으로 밤에는 동해 먼바다, 남해 서부 서쪽 먼바다, 제주도 남쪽 먼바다에서 바람이 시속 60km로 매우 강하게 불고 물결이 1.0~4.0m로 높게 일겠다. 서해 중부 해상에는 바다 안개가 끼는 곳이 있어 항해나 조업 시 안전사고에 주의가 요구된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전시용 구권 상품권 502장 훔친 50대… ‘집유 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/21/RSTFCTTSHRAVVPUOWQ5T4JGQDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/21/RSTFCTTSHRAVVPUOWQ5T4JGQDQ/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>백화점에 전시된 구권 상품권을 상습적으로 훔친 50대 남성이 집행유예를 선고받았다.
+부산지법 형사7단독 심학식 부장판사는 절도 등 혐의로 기소된 50대 A씨에게 징역 1년에 집행유예 2년을 선고했다고 21일 밝혔다.</description>
+      <pubDate>Sat, 21 Feb 2026 00:24:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백화점에 전시된 구권 상품권을 상습적으로 훔친 50대 남성이 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사7단독 심학식 부장판사는 절도 등 혐의로 기소된 50대 A씨에게 징역 1년에 집행유예 2년을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월부터 11월까지 세 차례에 걸쳐 부산의 한 백화점에 전시돼 있던 구권 백화점 상품권 502장을 훔친 혐의를 받고 있다. 해당 상품권은 백화점 10층에 설치된 아크릴 조형물 내부에 전시돼 있었다.&lt;br&gt;&lt;br&gt;A씨는 조형물 모서리 부분이 벌어진 틈으로 손을 넣어 상품권을 빼냈으며, 이렇게 훔친 상품권 액면가는 2900만원 상당이다. 다만 해당 상품권은 이미 폐기 결정이 내려진 상태여서 실제 사용은 불가능했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;심 부장판사는 “이 사건 이전에도 절도죄로 여러 차례 형사 처벌을 받은 전력이 있음에도 같은 범행을 반복했다”면서 “이 같은 점을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>버스서 韓 여학생 성희롱하고 불법 촬영까지… 인니 남성 ‘논란’</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/21/DKNSSUH4FFAGDMPPADOZYCV3CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/DKNSSUH4FFAGDMPPADOZYCV3CU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Feb 2026 23:38:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSUOKPYTZ5CXDHSIOTYSEUTZ74.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;한국 여학생들을 상대로 성희롱 발언을 하고 그 장면을 불법 촬영해 소셜미디어(SNS)에 올린 인도네시아 남성./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 여학생들을 상대로 성적인 의미가 담긴 발언을 하고 그 장면을 불법 촬영해 소셜미디어(SNS)에 올린 인도네시아 국적 남성이 논란이 되고 있다.&lt;br&gt;&lt;br&gt;지난 20일 X(옛 트위터) 등 SNS에는 이 남성이 자신의 계정에 올린 영상이 확산했다. 영상 속 남성은 같은 버스를 타고 있던 한국인 여학생들을 향해 인도네시아어로 “Ni cilor mau”라고 말했다. &lt;br&gt;&lt;br&gt;이 표현은 문자 그대로는 “너는 간식을 원하냐”는 의미지만, 인도네시아 현지에서는 성희롱적 은어로 쓰인다는 주장이 제기됐다. ‘cilor’(간식)를 발음이 비슷한 ‘coli’(자위 행위)로 연상하게 만드는 말장난이라는 설명이다.&lt;br&gt;&lt;br&gt;여학생들이 뜻을 이해하지 못하고 당황하자, 남성은 한국인을 흉내 내며 “I don’t speak English”라고 말해 비하하는 장면도 영상에 담겼다. 이러한 일련의 장면은 당사자들의 동의 없이 촬영돼 게시된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;논란이 확산되면서 남성의 신상 일부도 온라인을 통해 알려졌다. 현재 남성의 SNS 계정은 삭제된 상태다. 그는 국내 한 축산업체에 재직 중인 것으로 전해졌고, 이를 접한 네티즌들은 해당 업체에 항의 메일을 보내기 시작했다.&lt;br&gt;&lt;br&gt;이에 업체 대표는 직접 사과했다. 대표는 “저희 직원으로 인해 큰 불쾌감과 상처를 입으신 점에 대해 진심으로 깊은 사과의 말씀을 올린다”며 “이를 묵과하지 않고 용기 내어 상세히 알려주셔서 감사하다”고 했다. 또 “저희 기업은 이번 사안을 매우 엄중하게 받아들이고 있다”며 “언급하신 부적절한 언행은 저희 기업의 가치와 운영 방침에 정면으로 위배되는 행위”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “제보 내용을 바탕으로 즉시 사실관계를 확인하고 있으며 사내 내부 규정 및 인사 원칙에 따라 단호히 조치를 취할 예정”이라며 “향후 이런 불미스러운 일이 재발하지 않도록 전 직원을 대상으로 한 윤리 교육과 조직 문화 점검을 더 강화하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>푸바오 돌아온다고? 김성환 장관 언급에 속 끓이는 기후부</title>
       <link>https://www.chosun.com/national/transport-environment/2026/02/21/MKZJDQCQARFKZEKCS7EZLROBGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/21/MKZJDQCQARFKZEKCS7EZLROBGM/</guid>
@@ -769,88 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULFVKQEF7NHF7BJG7SMYDWUPDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버인 가수 제이홉이 18일 생일을 맞아 총 3억원을 기부했다. 제이홉은 서울아산병원 어린이병원에 2억원을 전달했으며, 아동복지기관 초록우산에도 1억원을 후원했다. 장학금은 광주국제고등학교와 전남여자상업고등학교 학생들을 위해 쓰일 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘5인 5색’ 키우는 재미… “아이 낳길 잘했다는 생각 절로 들어”</title>
-      <link>https://www.chosun.com/national/people/2026/02/20/BWUBELHCVNEWDJSFSAOHHGQCZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/20/BWUBELHCVNEWDJSFSAOHHGQCZU/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2O2VWU5BBFT3KLMHV6QXMS7BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 8월 18일 둘째 강이의 생일을 맞아 조수현·이동환씨 부부와 5남매가 식탁에 모여 사진을 찍었다.
-/조수현씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금요일 저녁이면 경기도 동탄의 조수현(44)·이동환(45)씨 집은 유난히 분주해진다. 다섯 자녀와 한자리에 모여 저녁을 먹는 날이기 때문이다. 태권도 선수로 외부에서 단체 생활을 하는 셋째 아들 준(10) 군과 군포에 직장이 있는 이동환씨는 주중에는 안양에서 지내고, 금요일 퇴근 후 이씨가 준이와 함께 집에 도착하면 비로소 일곱 식구가 모두 모인다. &lt;br&gt;&lt;br&gt;가족들이 모이는 날마다 조씨 부부는 아이들과 함께 장을 본다. 떡갈비, 떡볶이, 계란 반찬, 메추리알조림⋅⋅⋅. 아이들 입맛에 맞춘 반찬을 하나씩 준비하다 보면 식탁은 금세 가득 찬다. 조씨는 “아이들과 다 같이 밥을 먹는 시간이 가장 행복하다”고 했다. 매주 반복되는 소소한 풍경이지만, 아이들이 식사 시간에 서로를 챙겨주고 한 주 동안 있었던 일을 쏟아내는 모습을 보고 있으면 “아이 낳길 잘했다”는 생각이 절로 든다고 했다.&lt;br&gt;&lt;br&gt;요즘엔 보기 드문 다섯 남매 가족이다. 첫째 산(15), 둘째 강(13), 셋째 준(10), 넷째이자 유일한 딸 서아(7), 막내 겸(5). 모두 활기찬 성격이라 집안은 늘 복닥복닥하다. &lt;br&gt;&lt;br&gt;처음부터 다섯 아이를 계획한 것은 아니었다. 두 사람의 만남부터 우연에 가까웠다. 2009년의 어느 날, 어릴 때부터 합기도를 해 온 조씨는 함께 운동을 하던 후배에게서 “소개팅을 시켜달라”는 전화를 받았다고 한다. 다소 뜬금없는 부탁. 조씨가 장난처럼 “나한테나 괜찮은 사람 소개해줘”라고 응수한 것이 인연의 시작이 돼 한 살 연상의 이동환씨를 소개받게 됐다. 큰 기대 없이 나간 자리였고, 심지어 이씨는 첫 만남부터 늦었다고 한다. 하지만 식당에 들어선 남편은 미래의 아내를 보자마자 첫눈에 반하고 말았다. 그렇게 가볍게 끝날 줄 알았던 만남은 새벽 4시까지 이어지게 됐다. 반대로 조씨는 처음부터 이씨에게 큰 호감이 있었던 것은 아니었지만, 꾸준히 전화를 걸고 ‘보고 싶다’며 집 앞까지 찾아오는 이씨의 적극적인 모습에 서서히 마음을 열게 됐다.&lt;br&gt;&lt;br&gt;이후 두 사람의 관계는 빠르게 진전됐다. 프러포즈도 없이 자연스럽게 부부가 됐다. 첫째 산이가 예상보다 일찍 찾아온 것도 계기였다. 이전부터 부부 모두 결혼은 “때가 되면 하겠지”라고 생각했지만, 아이만큼은 꼭 갖고 싶었다고 했다. 처음 임신 소식을 들었을 땐 기쁘면서도 걱정이 앞섰다. 이전에 병원에서 “건강이 좋지 않아 임신이 어려울 수 있다”는 진단을 받은 적이 있었기 때문이다. 하지만 예상과 달리 임신 기간은 순조로웠다. 다섯 아이 모두 큰 탈 없이 태어났고, 모두 자연분만이었다. 조씨는 다섯 아이에게 모두 모유수유를 했다고 한다. &lt;br&gt;&lt;br&gt;부부 모두 ‘다둥이’ 가족 출신이다. 이씨는 삼남매, 조씨는 오남매 가정에서 자랐다. 덕분에 ‘아이를 낳는다면 두 명은 낳아야지’라고 생각은 했었지만, 다섯까지 갈 줄은 몰랐다. 다둥이를 낳게 된 가장 큰 이유를 꼽자면 첫째 산이를 키운 경험이었다. “이렇게 소중한 아이를 어떻게 하나로 끝내나”라는 생각이 든 것이다. 이후 둘째는 자연스럽게 찾아왔고, 둘을 키우고 나니 어딘가 허전했다. 한 명이 더 있어도 좋겠다는 생각에 셋째를 낳을 때도 큰 고민은 없었다. 부부는 “사실 아이를 이렇게까지 좋아하는 편은 아니었는데, 생각이 180도 달라졌다”고 했다. 셋째부터는 아이를 기다리는 마음이 생겼다고 한다. “낳을수록 귀엽고 신기해 이번에는 어떤 아이가 태어날지 기대하게 됐다”는 것이다.&lt;br&gt;&lt;br&gt;물론 다섯 남매를 키우는 과정이 쉽지는 않았다. 조씨는 10년 가까이 육아에 전념해야 했다. 낮과 밤을 가리지 않고 우는 아이들을 달래며 육체적인 한계에 부딪히기도 했다. 하지만 아이들이 크면서 집안 풍경도 달라졌다. 첫째와 둘째가 자연스럽게 집안일과 육아에 동참하기 시작한 것이다. 첫째는 아이들 사이에서 ‘지도자’ 역할이다. 질서 있게 동생들을 통솔한다. 둘째는 두 팔을 걷고 넷째와 다섯째를 전담해 챙긴다. 조씨가 “동생들에게서 한순간도 눈을 떼면 안 된다”는 특명을 내리면, 아이들은 각자 맡은 몫을 척척 해낸다고 한다.&lt;br&gt;&lt;br&gt;다섯 남매 모두 성격은 제각각이다. 첫째 산이는 차분하고 논리적이다. 학교나 학원에서 선생님들에게 항상 예쁨과 신뢰를 받는 ‘모범생’ 스타일이다. 둘째 강이는 끼도 많고 손재주도 좋다. 요리도 곧잘 하고, 드론 조종 대회에서 1등을 하기도 했다. 셋째 준이는 ‘할아버지’라는 별명으로 불릴 만큼 점잖고 끈기가 강하다. 겨울 태권도부 혹한기 훈련에서 고학년 선배들이 힘들어서 포기할 동안에도 쉬지 않고 끝까지 뛰는, ‘요령 피우지 않는’ 스타일이다. 넷째 서아는 눈치가 빠르고 활달한 성격이다. 오빠들 사이에서 자란 덕에 운동신경도 좋고 강단이 있다. 막내 겸이는 집안의 사랑을 온몸으로 받으며 자랐다. 자신이 사랑받고 있다는 걸 알아서 항상 자신감이 있다고 한다.&lt;br&gt;&lt;br&gt;행복을 느끼는 순간은 특별한 날이 아니다. 남편 이씨는 “집에서 TV를 보다 가족 모두가 같은 장면에서 웃고 떠들 때도 가장 행복한 순간”이라고 말했다. 가족이 많다 보니 1년에 생일 축하 파티도 여러 번이다. 누군가의 생일이면 케이크를 가운데 두고 일곱 식구가 둘러앉고, 그 장면을 사진으로 기록해둔다. 과거 사진을 보며 아이들이 커가는 모습을 보는 것도 부부에겐 큰 보람이라고 한다.&lt;br&gt;&lt;br&gt;부부는 “아이를 키우면서 나 자신도 달라졌다는 걸 느낀다”고 했다. 자신이 뱉은 말과 행동이 언젠가 아이들에게 그대로 돌아올 수 있다는 생각에, 스스로를 돌아보며 좋은 사람이 되려고 노력하게 됐다는 것이다.&lt;b&gt; &lt;/b&gt;아이들이 학교나 운동 대회에서 성과를 내 칭찬을 받을 땐 자신이 성취했을 때보다 훨씬 더 큰 기쁨과 감동이 밀려온다는 사실도 알게 됐다. 조씨는 “아이들만큼 조건 없이 나를 사랑해 주는 존재는 없는 것 같다”며 “최근 아이 낳기를 망설이는 사람들도 많지만, 아이와 함께하는 삶은 인생에서 꼭 한 번 해볼 만한 경험이라고 말해주고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;---------------------------------------------------------------&lt;br&gt;&lt;br&gt;&lt;b&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(betterfuture@korea.kr)로 사연을 보내주세요.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/02/20/FMCDVWU64ZHQHOM2N4IDTMETVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/02/20/FMCDVWU64ZHQHOM2N4IDTMETVU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGXE6AMN3VAK3NOPKJ5UBDRWQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-2-20일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 13일 ‘우리 아기가 태어났어요’ 코너에 실린 성탄&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 이지은·홍진우 딸 예린 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/02/20/U42NIJE4XZHVRFFX47QZGP4MHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/20/U42NIJE4XZHVRFFX47QZGP4MHQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPDRKFP5IZFUFJKWAKZ5ER2ZRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] take the fall</title>
-      <link>https://www.chosun.com/national/nie/english/2026/02/20/KW46EDVHVZDWVJ6ZJXZQQQMMTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/02/20/KW46EDVHVZDWVJ6ZJXZQQQMMTY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGIC4OFABZD3HDW4TT6L4YAKMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 한 번 만난 사이</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/02/20/KRZGBDMX6RFLDMHC4LGCWRE43Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/02/20/KRZGBDMX6RFLDMHC4LGCWRE43Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWWSWALZZVCDHFFOMMW46PP5QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 안개가 끼다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/02/20/3MYQEVKOWNHUTH25CR5SSOBPSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/02/20/3MYQEVKOWNHUTH25CR5SSOBPSE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIC6DWWINRAHHDAD2G7Q24OHSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2810] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2026/02/20/AMNMJD7XTRDV3NCRRGQXMDY36A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/20/AMNMJD7XTRDV3NCRRGQXMDY36A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOOII533RBESFG4FXNWZTKRWAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 살육(殺戮)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/02/20/Z5OCOO2T2BBFZDCIF4XOX2DKRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/02/20/Z5OCOO2T2BBFZDCIF4XOX2DKRU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGBQHUBCGJEPPO3SWOGJYDCEEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“청령포에 줄 늘어섰다”…‘왕과 사는 남자’ 흥행에 관광객 급증</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/19/Z3LLJDPU3JCCRE6DRTSV3WHB5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/19/Z3LLJDPU3JCCRE6DRTSV3WHB5A/</guid>
-      <dc:creator>정채빈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 14:38:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUVOQ64B7VFHXBHA7AJMSL7CGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 영월군을 배경으로 한 영화 '왕과 사는 남자' 스틸컷/쇼박스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘왕과 사는 남자’가 흥행하면서 영화 배경이 된 강원 영월군의 관광객이 급증했다. &lt;br&gt;&lt;br&gt;최근 소셜미디어에는 강원 영월군 청령포를 방문했다는 글이 다수 올라왔다. 청령포에 들어가기 위해 배를 기다리는 줄이 길게 늘어선 사진과 영상이 여럿 게시됐다. 일부 네티즌들은 ‘영월 당일치기 코스’ 등을 공유하며 여행 후기를 전하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZVPQOYBZNAQFHDKKQ7KWB6VKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 영월군 청령포에서 배를 타기 위해 줄이 늘어선 모습을 담은 영상이 소셜미디어에 올라왔다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 영월군문화관광재단에 따르면 이번 설 연휴 기간 청령포를 방문한 관광객 수는 1만641명이다. 지난해 같은 기간 2006명이 방문한 것보다 5배 이상 많은 관광객이 이곳을 찾았다. &lt;br&gt;&lt;br&gt;이처럼 많은 관광객이 청령포에 몰린 것은 영화 ‘왕과 사는 남자’의 인기 영향이 크다. 영화관입장권 통합전산망에 따르면 이날 기준 해당 영화는 누적 관객 수 400만명을 넘어서며 설 연휴 박스오피스 1위를 차지했다. 왕위에서 쫓겨난 조선 6대 임금 단종과 충신 엄흥도 등의 이야기를 담은 만큼 단종의 유배지인 청령포에 대한 관심도 커진 것이다.&lt;br&gt;&lt;br&gt;많은 발걸음이 몰리자 군 문화관광재단은 단종문화제 등 행사 준비에 만전을 기하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBABEWZKBCFPOV5K5M6FNPZ64E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2016년 강원 영월군 영월읍 동강둔치에서 단종문화제가 진행되는 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영월의 대표 역사 문화 축제인 제59회 단종문화제는 오는 4월 24∼26일 세계유산 장릉과 동강 둔치, 청령포 등지에서 열린다. 이번 축제는 ‘왕의 귀환, 희망의 서막’ 주제로, 단종을 기리는 행사가 열릴 예정이다.&lt;br&gt;&lt;br&gt;개막식에서는 뮤지컬 ‘단종1698’이 무대에 오른다. 이는 비운의 왕이 된 단종이 숙종에 의해 복위된 해인 1698년을 상징하는 공연이다. 또 이번 축제에서는 단종과 정순왕후의 못다한 인연을 기리는 ‘단종·정순왕후 국혼(가례) 재현’도 최초로 진행된다.&lt;br&gt;&lt;br&gt;이와 함께 4월 24일 단종문화제 행사장 주 무대에서는 제26회 정순왕후 선발대회도 열린다. 정순왕후의 지혜와 절개를 기리는 해당 대회는 전국 시군구에 거주하는 기혼 여성이라면 누구나 참가할 수 있다. 참가 신청은 다음 달 27일 오후 6시까지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2026년 2월 20일</title>
       <link>https://www.chosun.com/national/transport-environment/2026/02/19/XI5PXOEETREYHL6XRC6EI4N5WY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/19/XI5PXOEETREYHL6XRC6EI4N5WY/</guid>
@@ -951,15 +962,6 @@
       <description/>
       <pubDate>Thu, 19 Feb 2026 09:04:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OFZRWRYZNHDFKWO6BWKPLZLGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 4월2일 열린 대구국제마라톤대회 10km 부문의 출발 모습. /대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내외 마라토너 4만여 명이 참가하는 ‘2026 대구마라톤대회(대구마라톤)’가 22일 열린다. 상금 규모도 세계 최고 수준으로 책정됐다.&lt;br&gt;&lt;br&gt;19일 대구시에 따르면, 올해 25회째를 맞는 이번 대회는 수성구 대구스타디움 일대와 도심 곳곳에서 열린다. 42.195㎞를 뛰는 엘리트 풀코스 및 마스터스 풀코스와 10.9㎞ 달리기, 5㎞ 내외의 건강 달리기 등 4개 종목으로 구성됐다. &lt;br&gt;&lt;br&gt;지난해 9월 17일 참가 접수가 열린 이후 21일 만에 전 세계에서 4만1254명이 몰려들며 조기 마감됐다. 지난해 엘리트 코스 남자부 우승자인 탄자니아 출신 가브리엘 제럴드 게이 선수와 여성부 우승자인 에티오피아 메세렛 베레테 선수 등도 참가한다. &lt;br&gt;&lt;br&gt;이번 대회 우승 상금은 대구마라톤 역사상 최대 규모인 20만달러(약 2억9000만원)다. 작년의 16만달러보다 25% 늘었고, 세계에서 가장 상금 규모가 크다는 미국 보스턴 마라톤 대회(15만달러)보다도 높다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “세계적 마라톤 축제인 대구마라톤의 위상에 걸맞게 상금을 책정했다”고 말했다. 대구마라톤은 현재 세계육상연맹(WA) 등급상 ‘골드라벨’이다. 최고 등급인 플래티넘 라벨까지 한 단계 남은 셈이다. &lt;br&gt;&lt;br&gt;대회 당일은 대구경찰청이 코스인 대구스타디움과 시내 일대를 오전 6시부터 오후 4시까지 통제할 방침이다. 통제 구간은 대구스타디움 일대·범어네거리·두산오거리·대구은행네거리·청라언덕역·서문시장·동대구역·아양교역·율하역·범안로 등이다. &lt;br&gt;&lt;br&gt;황보란 대구시 문화체육관광국장은 “시민 불편을 최소화할 방침이며, 시민들께서는 대구시 홈페이지를 통해 미리 우회 도로를 꼭 확인해달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쌀쌀한 雨水...내일부터 기온 오르며 주말까지 포근</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/19/B4MANM6JGJCEXAKJZ7S4ZI2MTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/19/B4MANM6JGJCEXAKJZ7S4ZI2MTU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 07:23:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWOUL6NWNJMIBGCCLA6MIWFERQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역의 아침 기온이 영하권에 머문 19일 서울 종로구 광화문 사거리에서 설 연휴를 끝낸 시민들이 출근하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘눈이 녹아 물이 된다’는 절기상 우수(雨水)인 19일, 북쪽에서 찬 공기가 내려오며 오히려 전국이 쌀쌀한 하루를 보냈다. 하지만 20일 낮부터 주말까지는 수은주가 크게 오르면서 봄처럼 포근하겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 20일 오전까지 전국 대부분 지역이 쌀쌀하겠지만, 이날 낮부터 바로 ‘반짝 추위’가 풀릴 전망이다. 찬 북풍이 그치고, 온난한 서풍이 불면서 주말까지 기온이 차츰 오를 것으로 보인다. 20일 아침 최저기온은 영하 7도에서 영상 5도, 낮 최고기온은 10~16도로 예보됐다. 주말인 21~22일에는 한낮 기온이 초봄 수준인 최고 19도까지 오르겠다.&lt;br&gt;&lt;br&gt;2월 중순을 넘어서면서 우리나라는 환절기에 진입했다. 이에 기온 등락이 심해지고, 강수 구름대가 자주 발달해 국지적인 눈과 비가 잦아질 것으로 예상된다. &lt;br&gt;&lt;br&gt;일요일인 22일에는 북쪽을 지나는 기압골의 영향을 받아 경기·강원·전북·경북 곳곳에 비가 내릴 것으로 보인다. 내주에는 24일 전국에, 25일 강원 영동에 비나 눈이 예고됐다. 27일에는 제주에 비가 올 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“설 명절 열차에서 울 뻔했다”…아기 엄마에게 창가석 양보한 중년 부부 </title>
