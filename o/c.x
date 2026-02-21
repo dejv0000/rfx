@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 무기징역’ 후 첫 주말집회…“무죄” vs “2심은 사형” 맞불</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/21/EQTQIJTUZRCHTGYDVW6M4SXA74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/EQTQIJTUZRCHTGYDVW6M4SXA74/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Feb 2026 08:25:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5PIRGZ5M5KQFJH3FWHKO3GLKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 내란 우두머리 혐의에 대한 1심 선고일인 19일 오후 서울 서초구 중앙지방법원 주변에서 윤 전 대통령 지지자들이 공소 기각을 촉구하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘내란 우두머리’ 혐의로 1심에서 무기징역을 선고받은 윤석열 전 대통령의 선고 이후 첫 주말인 21일, 서울 도심 곳곳에서 찬반 집회가 동시에 열렸다.&lt;br&gt;&lt;br&gt;보수 성향 단체인 대한민국바로세우기국민운동본부(대국본)는 이날 오전 11시 30분쯤부터 서울 종로구 동화면세점 앞과 광화문광장 일대에서 ‘광화문 국민대회’를 개최했다. 대국본은 전광훈 사랑제일교회 목사가 이끄는 단체다.&lt;br&gt;&lt;br&gt;참가자들은 태극기와 성조기를 흔들며 “윤석열을 석방하라”, “내란은 없었다” 등의 구호를 외쳤다. 일부는 “전광훈을 석방하라”고도 했다.&lt;br&gt;&lt;br&gt;이날 무대에 오른 한국사 강사 출신 유튜버 전한길씨는 1심 판결을 “정치적 판단이 개입된 재판”이라고 주장했다. 그는 “12·3 계엄은 반국가세력 척결을 위한 결단이었다”며 “국헌 문란이나 폭동은 없었다”고 했다. &lt;br&gt;&lt;br&gt;또 1심 재판을 맡은 지귀​ 재판부를 겨냥해 “성경 속 빌라도 재판과 같다”는 취지로 발언하며 “역사적 평가를 받게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 연단에 오른 김현태 전 육군 특수전사령부 707특수임무단장은 12·3 사태 당시 군의 대응과 관련해 “지휘 체계에 따라 움직였다”며 “합법적 비상계엄 선포 상황에서 상관의 명령에 따른 군인의 행위까지 범죄로 보는 것은 부당하다”는 취지로 주장했다. 김 전 단장은 관련 사안으로 파면된 인물이다.&lt;br&gt;&lt;br&gt;같은 날 오후 서울 서초구 대법원 인근에서는 진보 성향 시민단체 촛불행동이 ‘제179차 촛불대행진’을 열었다. &lt;br&gt;&lt;br&gt;참가자들은 “내란 완전 단죄”, “내란 책임에 상응하는 처벌이 필요하다” 등의 구호를 외치며 1심 판결이 충분치 않다는 입장을 밝혔다. 일부 참가자들은 “사형을 선고하라”는 구호를 외쳤다. &lt;br&gt;&lt;br&gt;연단에 선 김병주 더불어민주당 의원은 “2심에서는 반드시 사형 선고가 나와야 한다”며 “그렇지 않으면 미래에 또다시 쿠데타의 씨앗이 자랄 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>만취 10대 아빠 차로 질주… 순찰차 들이받고 도주까지</title>
       <link>https://www.chosun.com/national/regional/2026/02/21/IKLGKOLVGBHKRPZBQIWCPVMG6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/IKLGKOLVGBHKRPZBQIWCPVMG6A/</guid>
@@ -772,15 +781,6 @@
       <pubDate>Thu, 19 Feb 2026 15:48:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MT3KDICUCRAYHNQNSZFLUJIKGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 부산 수영구의 한 길가에서 매화가 꽃망울을 터뜨렸다. ‘봄의 전령’이라고 불리는 매화는 보통 2~3월 개화한다. 이날은 24절기 중 ‘눈이 녹아 비가 된다’는 우수(雨水)였다. 부산의 낮 기온은 12도까지 올라 포근했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“연초에 태어나야 친구보다 앞서”… ‘늦생’ 기피하는 예비맘들</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/20/AKI3E74345FOVAKLNFB7UOCGAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/20/AKI3E74345FOVAKLNFB7UOCGAY/</guid>
-      <dc:creator>고유찬 기자, 이유경 기자, 김진영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:48:00 +0000</pubDate>
-      <content:encoded>“둘째는 꼭 ‘연초’에 태어났으면 좋겠어요.”&lt;br&gt;&lt;br&gt;설 연휴 직후인 19일 오후 1시. 서울 강남구 역삼동에 있는 한 대형 난임 병원은 번호표를 뽑아 들고 기다리는 사람들로 북적였다. 둘째를 계획 중이라는 주부 A(37)씨는 “연말에 태어난 첫째는 체구도 작은 데다 유치원부터 학습 진도를 따라가는 것도 버거워해 가슴이 찢어졌다”며 “둘째는 그 서러움을 겪지 않게 하려고 (출산) 날짜를 연초로 맞출 예정”이라고 했다. 이 병원엔 1~2월만 되면 인공 수정과 시험관 시술 상담이 유독 몰린다고 한다. 2~3개월간 준비를 거쳐 임신에 성공하면 10개월 뒤인 이듬해 초 출산이 가능하기 때문이다. 병원 관계자는 “연말 출산 가능성이 있다고 하면 대부분 ‘연초가 좋다’며 출산을 늦추려 한다”고 했다.&lt;br&gt;&lt;br&gt;출산을 준비하는 부부들 사이에서 ‘연말 출생’을 기피하는 문화가 퍼지고 있다. 여러 이유가 꼽히지만 나중에 취학했을 때 동급생과 경쟁에서 밀릴 것을 우려하는 점이 이유로 꼽히고 있다. “연초에 태어나야 다른 아이들보다 앞설 수 있다”는 생각이 학부모들 사이에서 퍼지고 있다는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQEHUBLP2FATTA3BACLU34WB4I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제로 일부 지역 학부모들 사이에선 10~12월에 태어난 아이를 ‘늦생(늦게 출생)’, 1~3월 초에 태어난 아이를 ‘이른생(이르게 출생)’이라고 부른다. 같은 해라도 빨리 태어날수록 육체 성장은 물론 학습 경쟁에서도 유리하다고 보는 것이다. 최근 몇 년 사이 영어 유치원 붐이 이는 등 조기 경쟁이 심화하면서 학부모 사이에서 ‘월령(月齡) 격차’ 공포가 커지면서 이런 인식이 퍼지고 있다고 한다.&lt;br&gt;&lt;br&gt;서울 서초구에 사는 김모(38)씨는 지난달 21일 둘째를 출산했다. 그는 둘째를 계획하면서 연말 출산을 피하려고 작년 봄에 시험관 시술을 받았다. 김씨는 “서울 강남 학부모들 사이에서 연말에 아이를 낳았다고 하면 위로하는 분위기”라며 “난임 상담 때부터 ‘늦게 태어나면 안 된다’는 마음으로 모든 걸 계획했다”고 했다. 서초구 주민 고모(43)씨도 “둘째가 1월생이라 다행이라는 말을 주변에서 자주 들었다”며 “어릴수록 한두 달이 발달에 미치는 영향이 크고 학업 성취도에도 영향을 준다는 생각에 주변 학부모들이 (출생 월에) 민감해한다”고 했다.&lt;br&gt;&lt;br&gt;지난 10년간 국가데이터처 자료를 분석해보니 ‘연초 출생 쏠림’은 통계에서도 확인된다. 2014년 전국 기준 1월생은 12월생보다 26% 많았다. 그러나 최근 몇 년간 그 격차는 42%까지 벌어졌다. 이런 추세는 2009년 초·중등교육법이 개정돼 1·2월생이 전년도 아동과 함께 초등학교에 조기 입학하는 제도가 사라지면서 가속화되고 있다. 서울 강남구는 같은 기간 1·12월생 격차가 51%까지 늘었고 서울 서초구, 부산 해운대구, 대구 수성구 등은 60%대까지 증가했다.&lt;br&gt;&lt;br&gt;사정이 이렇다 보니 서울 강남 지역 초등학교에서는 연말 출생 학생을 찾아보기 어려울 정도라고 한다. 강남구의 한 초등학교 교사는 “요즘엔 연말 출생이 한 명도 없는 반도 있다”며 “(연말 출생 학생들 중엔) 부모가 미국에 한 학기 어학연수를 보낸 뒤 취학 유예를 하고, 다음 해에 입학시키는 경우도 종종 있다”고 했다. 서초구의 한 초등학교 2학년 담임 교사는 “작년에는 반에 12월생이 한 명뿐이라 겨울방학 전 생일 축하 이벤트를 11월생과 함께 진행했다”고 했다.&lt;br&gt;&lt;br&gt;사교육 시장도 ‘늦생 기피’ 현상에 맞춰 움직이고 있다. 서울 강남구 대치동의 한 유명 영어 유치원은 하반기 출생아들의 기저귀 처리나 배식을 돕기 위해 ‘전용 헬퍼(도우미) 교사’를 따로 두고 있다. 서울 신사동의 한 영어 유치원 원장은 “12월생은 1~2월생보다 수업을 따라가는 데 어려움을 겪는 경우가 많다”며 “일단 등록을 한 뒤 적응을 못 하면 노래나 역할놀이 중심의 ‘놀이식 수업’으로 전환한다. 그래도 적응을 못 하면 1년쯤 뒤에 등록하도록 권하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[핫코너] “가난한 뜨내기” vs “성형 괴물”… 韓·동남아 네티즌들 ‘혐오 설전’</title>
