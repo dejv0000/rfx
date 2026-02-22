@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘음주운전=사회악’…음주운전율, 10년새 12.6%→2.1%로</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/22/DEQ6FYXK2VH53OKBVSIXJMQFJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/22/DEQ6FYXK2VH53OKBVSIXJMQFJY/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 05:38:28 +0000</pubDate>
+      <content:encoded>한국 성인의 음주운전 경험률이 최근 10년 사이 6분의 1 수준으로 급감한 것으로 나타났다. 음주운전을 ‘사회악’으로 여기는 사회적 공감대가 형성된 것이 주된 배경으로 풀이된다.&lt;br&gt;&lt;br&gt;22일 보건복지부와 한국건강증진개발원의 ’2025년 알코올 통계자료집’에 따르면 2023년 기준 19세 이상 성인의 연간 음주운전 경험률은 2.1%였다. 10년 전인 2013년(12.6%)과 비교하면 10.5%포인트나 감소했다. 음주운전 경험률은 질병관리청이 매년 우리 국민 1만여명을 대상으로 실시하는 국민건강영양조사를 토대로 최근 1년간 자동차나 오토바이를 운전한 사람 중 조금이라도 술을 마신 후 운전한 적이 있는 사람의 비율을 집계한 것이다.&lt;br&gt;&lt;br&gt;성인 음주운전 경험률은 2011년 17.1%에 달했으나 이후 꾸준히 감소해 2016년 8.4%를 기록하며 처음으로 10% 아래로 떨어졌다. 2023년에는 2%대 초반까지 내려왔다. 2023년 기준 남성은 2.6%, 여성은 0.9%였다.&lt;br&gt;&lt;br&gt;특히 나이가 적을수록 음주운전 경험률이 낮았다. 70세 이상의 경험률이 4.1%로 전 연령대 중 가장 높았다. 이어 50대(3.7%), 60대(3.1%), 40대(2.3%) 순이었다. 반면 30대(1.1%)와 20대(0.8%) 등 젊은 층은 상대적으로 낮은 수치를 기록했다. 음주운전에 비교적 관대하던 과거와 달리 음주운전 처벌 수위가 강화되는 등의 사회적 변화가 2030세대의 낮은 음주운전 경험률에 영향을 미친 것으로 보인다.&lt;br&gt;&lt;br&gt;음주운전 차량에 함께 타는 ‘동승 문화’도 크게 줄었다. 성인의 연간 음주운전 차량 동승률은 2013년 14.9%에서 2023년 3.3%로 감소했다. 전체 교통사고 발생 건수 중 음주운전 사고가 차지하는 비율도 2013년 12.3%에서 2023년 6.6%로 줄었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>1980년 5월 모습 복원...옛 전남도청 28일 시범운영 돌입</title>
       <link>https://www.chosun.com/national/regional/honam/2026/02/22/CMNYZ3XPINGFBABUIU4UOTJIYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/22/CMNYZ3XPINGFBABUIU4UOTJIYQ/</guid>
@@ -822,18 +831,6 @@
       <description/>
       <pubDate>Thu, 19 Feb 2026 20:00:00 +0000</pubDate>
       <content:encoded>경찰이 ‘공천 헌금 1억원’ 사건과 관련해 강선우(서울 강서갑) 의원과 김경 전 서울시의원에 대한 구속영장을 신청하면서 여러 피의자들의 경력을 잘못 기재한 것으로 19일 확인됐다. 법조계에선 인신 구속 여부를 결정하는 구속 영장에서 오류가 다수 발견된 것을 두고 “수사 역량을 의심케 한다”는 말이 나온다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대(대장 박삼현)는 지난 5일 검찰에 신청한 구속영장 신청서에서 강 의원 이력과 관련해 “21대 국회의원 선거를 앞두고 2020년 1월 정봉주 전 의원, 2월 김남국 변호사(전 의원)가 서울 강서갑 지역에 공천을 신청했다”며 “더불어민주당은 (정 전 의원에겐) 부적격 판정과 (김 전 의원에겐) 타 지역 공천으로 정리한 뒤 해당 지역구 추가 공모를 받았다”고 적시했다. 경찰은 그러면서 “(이에) 강선우 의원이 그해 2월 추가 공모를 신청했다”고 했다.&lt;br&gt;&lt;br&gt;그러나 당시 민주당 공천 과정을 확인해보면, 정봉주 전 의원이 2020년 1월 공천 신청을 했다가 부적격 판정을 받고 탈락하면서 다음 달 추가 공모가 있었던 것으로 확인됐다. 추가 공모 단계에서 김남국 전 의원과 강선우 의원 두 사람이 공천을 신청했다. 김 전 의원이 추가 공모 전에 공천을 신청했다는 경찰 영장 기재는 틀린 것이다. 당시 추가 공모를 거쳐 강서갑 현역이었던 금태섭 전 의원과 강 의원 간 ‘2인 경선’이 치러졌고 결국 강 의원이 후보로 확정됐다. 김남국 전 의원은 그해 3월 8일 경기 안산 단원을에 전략 공천됐다.&lt;br&gt;&lt;br&gt;경찰은 또 구속영장 신청서에서 강 의원 이력과 관련해 “2020년 8월 31일부터 2021년 5월까지 민주당 상근 대변인으로 활동했다”고 적었다. 그런데 민주당 당헌·당규에 따르면 민주당엔 ‘상근 대변인’이라는 직책은 없다. 당헌·당규상 상근이란 이름을 붙이는 대변인 관련 직책은 ‘상근부대변인’ ‘비상근부대변인’ 등만 있다. 앞서 경찰은 구속영장 신청서에선 강 의원 지역구 사무국장 남모씨가 신기남 전 민주당 의원, 한정애 의원 보좌진으로 일했다고 했지만 남씨는 두 의원 보좌진으로 일한 적이 없었던 것으로 나타났다. 남씨는 김병기(서울 동작갑) 의원실에서도 근무한 이력이 있었지만 경찰은 김 의원실 근무 경력은 적시하지 않았다.&lt;br&gt;&lt;br&gt;이와 관련, 경찰 관계자는 “강 의원의 주요 범죄 혐의를 입증하는 데에는 영장 내용에 큰 문제가 없다”고 했다. 다만 경찰은 사건을 검찰에 송치할 때는 오류를 수정할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>레스토랑에서 ‘tip’ 주지 않아도 되는 상황은?</title>
-      <link>https://www.chosun.com/national/education/2026/02/20/IGSTFEK7K5BIDJKGWXX77V7OLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/20/IGSTFEK7K5BIDJKGWXX77V7OLQ/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 18:00:00 +0000</pubDate>
-      <content:encoded>외국 레스토랑에서 식사를 마치고 계산서를 받아보니 ‘Service Charge 12%’라고 씌어 있습니다. “이거 팁인가? 또 따로 줘야 하나?” 하는 생각에 웨이터에게 “Tip? More?”라고 물어보니 “아, 더 주시겠어요?” 하며 반색을 합니다. 자칫 이중으로 팁을 주는 황당한 ‘double tipping’ 상황이 벌어지는 거지요. “Tip?” 한마디만 하면 ‘팁 줄까?’라고 묻는 말이 돼 버립니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPZBWN6IFZCQFFXCXAVBF5DDR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그래서 팁이 이미 가격에 포함된 건지 정확히 묻는 것이 중요합니다. 이럴 때 확인해야 할 키워드는 ‘included(포함돼 있다)’입니다. “팁이 포함돼 있는 건가요”라고 물을 때는 이렇게 표현합니다.&lt;br&gt;&lt;br&gt;우리말로는 같은 ‘팁’인데 영어로는 ‘tip’이라고도 하고 ‘gratuity’라고도 합니다. 하지만 두 단어에는 엄연한 차이가 있습니다.&lt;mark class="hl_tblue"&gt; ‘tip’은 고객이 자발적으로 주는 것&lt;/mark&gt;이고, ‘gratuity’는 미리 자동 추가돼 있거나 의무적인 서비스 요금을 말합니다. 호텔에서 짐 보관이나 룸서비스처럼 &lt;mark class="hl_tblue"&gt;‘gratuity’가 이미 청구서에 포함된 경우 ‘tip’을 따로 주는 건 선택 사항&lt;/mark&gt;입니다.&lt;br&gt;&lt;br&gt;그 밖에 팁과 관련된 실용적 표현을 더 살펴볼까요.&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_tblue"&gt;Check&lt;/mark&gt;, please.” (계산서 갖다 주세요.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_tblue"&gt;Could we have the bill&lt;/mark&gt;, please?” (계산서 주시겠어요?)&lt;br&gt;&lt;br&gt;“Keep the change.” (잔돈 팁으로 가지세요.)&lt;br&gt;&lt;br&gt;“This is for you.” (이건 당신한테 주는 팁이에요.)&lt;br&gt;&lt;br&gt;“Can I &lt;mark class="hl_tblue"&gt;add the tip to the card&lt;/mark&gt;?” (카드에 팁을 추가할 수 있나요?)&lt;br&gt;&lt;br&gt;“Is it possible to&lt;mark class="hl_tblue"&gt; leave a tip by card&lt;/mark&gt;?” (카드로 팁 남길 수 있나요?)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_tblue"&gt;No additional tip&lt;/mark&gt; needed, right?” (추가 팁 필요 없죠?)&lt;br&gt;&lt;br&gt;“What’s &lt;mark class="hl_tblue"&gt;the total with tax and tip&lt;/mark&gt;?” (세금·팁 포함 총액은 얼마인가요?)&lt;br&gt;&lt;br&gt;“I think there might be a &lt;mark class="hl_tblue"&gt;mistake on the bill&lt;/mark&gt;.” (계산서에 오류가 있는 것 같아요.)&lt;br&gt;&lt;br&gt;“I &lt;mark class="hl_tblue"&gt;was charged twice&lt;/mark&gt; for this item.” (이 메뉴가 두 번 청구됐어요.)&lt;br&gt;&lt;br&gt;“Do you take credit cards?” (카드 결제 되나요?)&lt;br&gt;&lt;br&gt;“Can we split the bill?” (각자 계산할 수 있을까요?)&lt;br&gt;&lt;br&gt;“I’ll pay in cash.” (현금으로 낼게요.)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QW4Z4G67YBBJTLGGPDQ73OJIYI.png?auth=1791f4745ea99b2c167400bc35f5c461525182caf6a634afeda83614a21948c7&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
-      </media:content>
     </item>
     <item>
       <title>윤석열 1심서 무기징역… “내란 우두머리죄 성립”</title>
