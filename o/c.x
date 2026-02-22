@@ -13,6 +13,117 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>1980년 5월 모습 복원...옛 전남도청 28일 시범운영 돌입</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/02/22/CMNYZ3XPINGFBABUIU4UOTJIYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/22/CMNYZ3XPINGFBABUIU4UOTJIYQ/</guid>
+      <dc:creator>광주광역시=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 04:32:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QYF4J5PKZNDTNOGFUBK54WGAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문화체육관광부 옛전남도청복원추진단은 22일 옛 전남도청 복원공사를 마쳐 시범 운영에 들어간다고 밝혔다. 오는 28일부터 시작되는 시범 운영은 4월 5일까지 이뤄지며, 5월 중 정식 개관할 예정이다. 사진은 지난 20일 광주 동구 옛 전남도청 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5·18 민주화운동의 최후 항쟁지이자 시민군의 지휘부였던 옛 전남도청이 2년 5개월여 간의 복원 공사를 드디어 마무리하고 시민들의 품으로 돌아올 채비를 마쳤다. 1980년 5월 당시의 모습으로 되돌리기 위해 지난 2023년 8월 첫삽을 뜬 지 약 2년 반 만이다.&lt;br&gt;&lt;br&gt;22일 문화체육관광부 옛전남도청복원추진단에 따르면, 옛 전남도청 건물 및 시설 준공과 내부 전시 콘텐츠 설치가 대부분 완료됨에 따라 오는 28일부터 4월 5일까지 시범운영에 들어간다. 추진단은 시범 운영을 한 뒤 보완 작업을 거쳐 5월 중 정식 개관할 예정이다. &lt;br&gt;&lt;br&gt;앞서 추진단은 2023년 8월 착공식을 열고 본격적인 복원 공사에 돌입했다. 당시 약 495억 원의 사업비를 투입하여 도청 본관과 별관, 회의실, 옛 전남경찰청 본관과 민원실, 상무관 등 6개 동을 1980년 당시의 원형으로 복원하는 데 주력했다. 훼손된 공간을 되살리는 것은 물론, 5·18을 기억하고 미래 세대를 위한 교육·전시·기록이 혼합된 상징적 거점 공간으로 조성하는 작업이 병행됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI 카메라·드론 갖춘  첨단 경찰 순찰차, 4월 서울 거리 달린다</title>
+      <link>https://www.chosun.com/national/incident/2026/02/22/GBBVW5WXSBC4ZCMANQRS4VBMFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/22/GBBVW5WXSBC4ZCMANQRS4VBMFA/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 04:20:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN37VJFRMFH2RIEFE6YKF7ENZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청이 오는 4월 서남권에 도입 예정인 AI·드론 순찰차/경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능(AI) 카메라에 순찰 드론까지 탑재한 첨단 순찰차가 치안 현장에 처음 도입된다. &lt;br&gt;&lt;br&gt;서울경찰청은 이르면 4월 전국 1호 ‘AI·드론 순찰차’를 서울 서남권 지역에 투입할 계획이라고 22일 밝혔다. 서울경찰청 관계자는 “현재 특수장비차 인증 및 등록 절차를 밟는 단계로 4월 중 1대를 우선 투입할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;AI·드론 순찰차는 차량 상부 전면과 좌우 측면에 총 3대의 AI 카메라가 탑재된다. 이 카메라는 인파 밀집도나 화재 연기는 물론, 흉기 소지 여부도 즉각 구별한다. ‘염색한 사람’이나 ‘가방을 멘 사람’ 같은 조건을 입력해 식별하는 것도 가능하다. 차량 상부에는 이륙 가능한 드론이 탑재된다. 90배 확대와 열화상 기능을 갖췄고, 사람과 차량 등 77종의 객체를 판별할 수 있는 AI 기능도 장착된 드론이다. &lt;br&gt;&lt;br&gt;서울 서남권이 시범 도입지로 선택된 배경에는 치안 수요 조사 결과가 있다. 지난해 1∼10월 공공장소 흉기 소지·사용 범죄는 총 237건이었는데, 영등포구(23건), 구로구(15건), 송파·중랑구(각 14건), 금천구(13건), 강서구(12건) 순으로 서남권의 범죄 발생 빈도가 높았다. 서울청은 이 구역 일대를 담당하는 기동순찰2대에 차량을 배치해 운영할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>반도체 호황에도... 연고대 대기업 계약학과 144명 등록 포기</title>
+      <link>https://www.chosun.com/national/education/2026/02/22/H2GLVU3ESFGSNBPLKXCR4TGXA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/22/H2GLVU3ESFGSNBPLKXCR4TGXA4/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 04:19:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKYIGJ4AGJOPTKIM7RKHV2XMGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 13일 서울 성북구 고려대학교 인촌기념관에서 열린 서울시교육청 교육연구정보원, 2026 대입 정시모집 대비 진학지도 설명회에서 학부모 등 참석자들이 자료를 살펴보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반도체 호황이 이어지며 삼성전자 등이 역대 최대 규모의 실적을 기록하고 있지만, 올해 연세대·고려대 대기업 계약학과 등록을 포기한 수험생이 144명에 달하는 것으로 나타났다. 계약학과는 졸업 후 삼성전자, 현대자동차, SK하이닉스 등 주요 대기업 취업이 보장되는 학과다.&lt;br&gt;&lt;br&gt;22일 종로학원에 따르면, 고려대와 연세대 2026학년도 계약학과 정시 합격자 중 등록 포기자는 144명으로 집계됐다. 작년 103명보다 39.8% 늘어난 수치다.&lt;br&gt;&lt;br&gt;대학별로는 연세대 계약학과 등록 포기자가 68명으로 전년 대비 51.1% 증가했다. 고려대 계약학과는 76명이 등록을 포기해 작년보다 31% 늘었다.&lt;br&gt;&lt;br&gt;기업별로 보면 삼성전자 계약학과(연세대 시스템반도체공학과·고려대 차세대통신학과) 등록 포기자는 74명으로 전년보다 39.6% 증가했다. SK하이닉스 계약학과(고려대 반도체공학과)는 37명이 등록을 포기해 76.2% 늘었다.&lt;br&gt;&lt;br&gt;현대자동차 계약학과(고려대 스마트모빌리티하부)는 등록 포기자가 27명으로 전년 대비 3.8% 증가했고, LG디스플레이 계약학과(연세대 디스플레이융합공학과)는 6명으로 전년보다 두 배 늘었다.&lt;br&gt;&lt;br&gt;계약학과 등록 포기자의 대부분은 서울대 자연계열이나 의약학계열로 진학한 것으로 보인다. 자연계열 최상위권 수험생들의 정시 지원 경향을 보면 가군에는 연세대·고려대 계약학과, 나군에는 서울대 자연계열, 다군에는 타 대학 의대·치대·한의대 등에 동시 지원하는 경우가 많다.&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “대기업들의 경영 실적이 크게 좋아졌음에도 이공계열 대기업 취업보다는 대학 간판을 올리거나 의약학 계열로 진학하려는 선호가 여전히 높은 상황”이라며 “반도체 호황이 26학번이 졸업한 후에도 이어질지 확실하진 않다는 것도 학과 선택에 영향을 줬을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“어린 것들이 싸가지 없다” 자녀 담임에 폭언한 학부모...법원 “교육 활동 부당 간섭”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/22/L5GRHEL2ZVHATMBQQYAJGC5YUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/22/L5GRHEL2ZVHATMBQQYAJGC5YUI/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 03:13:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DAZBTMIYWIY3CHBTDSNJXGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정·가정법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생 자녀의 수행평가 결과에 항의하며 담임교사에게 “싸가지 없다” 등 발언을 한 학부모의 행위는 교육 활동에 부당하게 간섭한 것이라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 서울행정법원 행정12부(재판장 강재원)는 고등학교 교사이자 초등학생 학부모인 A씨가 서울시 북부교육지원청 교육장을 상대로 ‘교권보호위원회의 특별교육 12시간 이후 처분을 취소해달라’며 낸 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 자녀의 담임교사인 B씨에게 근거 없는 비난을 해 교육활동 침해신고를 당했다. A씨는 자녀의 수행평가 결과를 보고 B씨에게 자신이 고등학교 교사이자 연장자인 것을 내세워 “어린 것들이 싸가지가 없다” “혼나야 한다” “먼저 인성부터 쌓으세요 후배님” 등 폭언을 했다. “초등학교 교사들은 학교에서 논다더니 뻔하다” 등 초등학교 교사 전체를 모욕하는 발언을 하기도 했다. 이에 B씨는 A씨를 신고했고, 지역교권보호위원회는 A씨의 행동이 교육활동 침해행위에 해당한다며 2024년 10월 특별교육 12시간 이수 조치를 통지했다.&lt;br&gt;&lt;br&gt;A씨는 이 같은 조치에 불복해 행정소송을 제기했다. A씨는 “싸가지가 없더니만” 등 말을 한 사실은 있으나, 한 차례 통화한 것뿐이라 반복적인 교권침해 행위가 없었다고 주장했다. 또 자신은 B씨의 도발적인 발언에 함께 언성을 높여가며 말싸움을 한 것이라며 이로 인해 B씨가 정신적 피해를 입었다는 건 근거가 없다고 반박했다. 오히려 자신이 양극성 장애로 병가를 냈다며 자신에게만 12시간의 특별교육 이수를 명한 교육지원청이 재량권을 남용했다고 주장하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 청구를 기각했다. 재판부는 A씨가 B씨와 통화 중 자녀의 수행평가 결과에 대해 이의를 제기하다가 “먼저 인성부터 쌓으셔야겠네요 후배님” “야 요즘 어린 것들이 정말 싸가지 없다더니만” 등 발언을 한 게 사실이라고 판단했다. 이후 A씨가 B씨를 만나 “무조건 B씨가 잘못했으며 전화 내용은 B씨가 먼저 잘못해서 그런 것이다” 등 발언과 함께 고성을 질렀다고도 설명했다. &lt;br&gt;&lt;br&gt;재판부는 이 같은 내용을 토대로 A씨가 교원의 교육 활동에 부당하게 간섭했다고 봤다. 재판부는 “부모 등 보호자는 자녀의 교육에 관해 의견을 제시할 수 있으나 그 방식이 교원에 대한 교육활동 침해행위에 이르지 않을 정도여야 한다”며 “A씨는 근거 없이 B씨의 평가가 잘못됐다고 반복하거나 초등학교 교사 전체를 폄하하는 욕설 내지 인신공격적인 표현을 사용했다”고 했다. 또 A씨가 B씨에게 항의를 단기간 내 되풀이했고 그 과정에서 욕설이나 인신공격성 발언 등이 수반됐다며, 이는 교원의 정당한 교육활동에 부당하게 간섭하는 행위라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영업비밀 유출해 자문료 받은 LG엔솔 前 직원 실형</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/22/M5X7XUIEJFEJZEJZJH6ZWJHREY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/22/M5X7XUIEJFEJZEJZJH6ZWJHREY/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 03:35:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2WCNBSGVRDSMRSMNRTGMJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선비즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;LG에너지솔루션의 영업비밀을 유출한 전 직원이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 서울중앙지법 형사32부(재판장 류경진)는 산업기술보호법 위반, 부정경쟁방지법 위반 등 혐의로 구속기소된 LG에너지솔루션 전 직원 A씨에게 징역 3년을 선고하고 약 1580만원의 추징을 명했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 5월부터 2022년 3월까지 유료 자문에 사용할 목적으로 LG에너지솔루션의 이차전지 관련 영업비밀 16건을 촬영해 부정 취득한 혐의를 받는다. 이중에는 국가핵심기술 1건도 포함됐다. A씨는 업무용 노트북 모니터를 휴대전화로 촬영하는 방식으로 영업비밀을 빼돌렸다.&lt;br&gt;&lt;br&gt;이 같은 방법으로 취득한 영업비밀을 A씨는 국내외 유료 자문에 활용했다. 검찰은 A씨가 시간당 1000달러의 구두 자문을 했고, 1건당 최소 3000달러의 서면 자문 등을 하며 약 9억8000만원을 받았다고 봤다. 이 과정에서 자문료를 차명 계좌로 송금받은 혐의와 가명으로 자문료를 받기 위해 가족의 주민등록증 사진 파일의 이름 부분을 변경해 출력한 혐의도 공소사실에 포함됐다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 2021~2022년 회사의 영업비밀 16건을 불법 촬영하고 24건을 누설한 혐의 대부분을 유죄로 인정했다. A씨가 다른 사람의 주민등록 정보를 이용해 차명으로 자문한 부분도 유죄로 봤다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 피해 회사가 상당한 시간과 노력을 들여 고안한 국가핵심기술 내지 영업비밀을 부정하게 취득하거나 무단 유출하고, 영리를 목적으로 영업비밀을 국내외에 누설했다”며 “회사의 감시와 규제를 피해 차명 유료자문도 했기 때문에 죄책이 결코 가볍지 않다”고 했다. 다만 A씨가 20년간 근무하며 회사에 기여한 점과 유출한 영업비밀이 회사의 기술 경쟁력을 단기간에 현저히 침해할 만한 정보는 아닌 점 등은 유리한 양형 사정으로 고려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양양공항 강풍 탓 착륙 두차례 실패한 파라타항공기, 김포공항으로 회항</title>
+      <link>https://www.chosun.com/national/regional/2026/02/22/XJCLBUILBFHYPNN2W4JTLVTN4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/XJCLBUILBFHYPNN2W4JTLVTN4I/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 03:31:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TSMBSHEYGMOBTG5RGGNJTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양양국제공항에서 제주로 향하는 파라타항공 A330(294석) 항공기./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 8시 30분 제주공항에서 출발한 파라타항공 WE6712편이 목적지인 강원 양양공항에 불어닥친 강풍 탓에 착륙을 포기하고 김포공항으로 회항했다. 이 항공기에는 승객 200여명을 타고 있었다&lt;br&gt;&lt;br&gt;이 항공기는 9시 50분쯤 양양공항에서 첫 번째 착륙을 시도하다 실패하고 20여분 뒤 두 번째 착륙을 시도했으나 기체가 심하게 흔들려 착륙을 포기했다.&lt;br&gt;&lt;br&gt;이 항공기는 이날 오전 11시쯤 김포공항에 착륙했다.&lt;br&gt;&lt;br&gt;파라타항공은 항공기 승객들을 버스로 양양공항까지 보내기로 했다.&lt;br&gt;&lt;br&gt;22일 오전 8시 30분 제주공항에서 출발한 파라타항공 WE6712편이 목적지인 강원 양양공항에 불어닥친 강풍 탓에 착륙을 포기하고 김포공항으로 회항했다. 이 항공기에는 승객 200여명을 타고 있었다&lt;br&gt;&lt;br&gt;이 항공기는 9시 50분쯤 양양공항에서 첫 번째 착륙을 시도하다 실패하고 20여분 뒤 두 번째 착륙을 시도했으나 기체가 심하게 흔들려 착륙을 포기했다.&lt;br&gt;&lt;br&gt;이 항공기는 이날 오전 11시쯤 김포공항에 착륙했다.&lt;br&gt;&lt;br&gt;파라타항공은 항공기 승객들을 버스로 양양공항까지 보내기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배달 갔다 택배 ‘슬쩍’...복면 쓰고 주택 침입까지 한 30대</title>
+      <link>https://www.chosun.com/national/regional/2026/02/22/6F2PSZQZM5C3XKOLNNEE7DATEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/6F2PSZQZM5C3XKOLNNEE7DATEA/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 03:03:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택배로 도착한 물건을 가져가고, 복면을 쓴 채 주거지에 들어가 금품을 훔치려 한 혐의로 재판에 넘겨진 30대 남성에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;부산지법 형사7단독 심학식 부장판사는 특정범죄가중처벌법상 절도 등 혐의로 기소된 30대 쿠팡 이츠 배달 기사 A씨에게 징역 4년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 11월 24일 오후 음식을 배달하다가 부산 동구 한 주택 앞에서 20만원 상당의 화장품이 든 택배 상자를, 서구 한 주택에서 4만3000원 상당의 바지가 든 택배 상자를 각각 훔친 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 같은 해 8월 4일 오전 복면을 쓴 채 부산 중구 한 주택 2층의 창문을 열고 들어가 도둑질을 시도한 혐의도 받는다. 당시 A씨는 거실 테이블에 있던 6만원 상당의 가방을 몰래 들고나오다 마침 잠이 깨 거실로 나온 집주인과 마주치자, 가방을 던지고 그대로 달아났다.&lt;br&gt;&lt;br&gt;이 외에도 A씨는 만취 상태로 오토바이를 몰거나 술을 마시다 시비가 붙은 상대방을 폭행한 혐의로도 기소됐다.&lt;br&gt;&lt;br&gt;심 부장판사는 “A씨는 절도죄로 세 번 이상 징역형을 선고받고, 음주 운전과 폭력 등으로 형사 처벌을 받은 전력이 있다”며 “누범기간 중에 범행을 저질렀고, 죄질이 좋지 않다. 또 대부분 피해자들에게 용서를 받지 못하고 있는 점 등을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국내 연수 지원 받던 중 미국 장기체류한 연구자...대법 “연구비 환수 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/22/BR7LTQY7EVB7BBAQCBP63NKFGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/22/BR7LTQY7EVB7BBAQCBP63NKFGI/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 03:02:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YR7X5XWV5ZEHNLRFBRT5RX4OQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학술지원사업에 선정돼 연구비를 지원받았으나 연구 기간 동안 미국에 체류한 연구자의 연구비를 환수한 교육부 처분이 정당하다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 국악 관련 박사학위를 취득한 국악이론 연구자 A씨가 교육부 장관을 상대로 낸 참여 제한 처분 등 취소 소송에서 원고패소로 판결한 원심을 확정했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2019년 6월 한국연구재단이 공고한 학술지원사업에 응모해 대상자로 선정됐다. 약 한 달 뒤 A씨는 개인적인 사정으로 미국으로 출국했고, 2021년 5월까지 체류하며 연구 과제를 수행했다. 교육부는 A씨가 학술지원사업 관련 협약을 위반했다며 연구비 6600만원을 환수했고, A씨는 이에 불복해 환수 처분 취소 소송을 제기했다.&lt;br&gt;&lt;br&gt;A씨는 한국연구재단의 ‘허가 없는 해외 장기출장’을 담은 과제관리 안내서가 지원사업 공고 당시 개정중이라 안내를 받지 못했다고 주장했다. 한국연구재단이 과제관리 안내서에 관해 설명할 의무가 존재함에도 이 같은 내용을 설명하지 않았다며, 과제관리 안내서를 계약 내용으로 볼 수 없다고 주장하기도 했다. 또 과제관리 안내서는 ‘해외 출장’의 경우에만 허가를 요구하고 있기에 출장이 아닌 ‘해외 체류’는 허가가 필요 없다고 반박하기도 했다. &lt;br&gt;&lt;br&gt;1심은 교육부에 연구비 환수 처분을 취소하라고 판단했다. 재판부는 교육부가 제출한 증거들만으로는 학술지원사업 관련 협약이 A씨의 해외 체류를 금지한다고 보기는 어렵다고 봤다. 지원사업 공고가 연수기관을 국내 대학으로 제한했으나 신청자의 거주지에 관한 요건은 정하지 않았고, 연구수행 관련 출장에 허가가 요구된다는 이유만으로 A씨의 사적인 해외 체류까지 승인을 얻어야 한다고 볼 수 없다고 판단했다. 학술지원사업 관련 연구가 물리적 출근을 요구하지 않아 해외 체류 때문에 과제물 창출이 불가하거나 어려움이 존재한다고 볼 이유도 없다고 설명했다.&lt;br&gt;&lt;br&gt;2심은 판결을 뒤집고 A씨의 청구를 기각했다. 재판부는 A씨가 해외에 체류하면서 과제를 수행한 건 협약을 위반한 게 분명하다고 판단했다. 재판부는 공고 내용에 적힌 문구인 ‘박사 후 국내연수’는 ‘박사 후 국외연수’와 달리 국내연수기관에서 연구과제 수행을 전제로 하는 것이기에, 연수기관의 지리적 위치와 연구과제의 수행방법을 분리해 별개로 파악할 수 없다고 봤다. A씨가 해외에서 과제 수행에 필요한 자료 수집이 가능했다고 하더라도 이를 국내연수로는 볼 수 없으며, A씨가 연구기간 내내 지도교수와 연수기관의 장, 한국연구재단의 승인을 받지 않은 채 해외에서 체류하며 과제를 수행한 것 역시 협약 위반이라고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 A씨의 상고를 기각하고 교육부의 처분이 정당하다고 판단했다. 대법원은 “A씨가 연구 기간 중 대부분의 시간을 해외에 체류한 것을 협약 위반이라고 본 결론은 정당하다”며 “원심의 판단에 협약의 해석 및 적용에 관한 법리를 오해하거나 이유모순, 채증법칙 위반, 심리미진 또는 판단누락 등으로 판결에 영향을 미친 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 경산 자동차 부품 공장서 20대, 2t철제 받침대에 깔려 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/02/22/PN5XZJSDPNEQDCUYINXIPGPRAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/PN5XZJSDPNEQDCUYINXIPGPRAE/</guid>
+      <dc:creator>경산=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 02:53:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRWEM3FMM2TKZTEMI4GKMDFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차 응급 긴급출동./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산의 한 자동차 부품 공장에서 기계 수리 작업을 하던 20대 남성이 2t가량의 철제 받침대에 깔려 숨졌다. &lt;br&gt;&lt;br&gt;22일 경북소방본부 등에 따르면, 전날인 21일 오전 8시 52분쯤 경북 경산시 진량읍 자동차 부품 제조 공장에서 A씨가 약 2ｔ 무게의 프레스 기계 철제 받침대에 깔렸다. 사고 당시 A씨는 프레스 기기 수리 중이었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현장에서 심정지 상태로 구조된 A씨는 인근 병원으로 옮겨졌지만, 숨졌다. &lt;br&gt;&lt;br&gt;경찰과 고용노동부는 목격자 등을 상대로 정확한 사고 경위와 중대재해처벌법 위반 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘3명 사망’ 어선 충돌 사고 후 도주한 유조선 항해사 징역 6년</title>
+      <link>https://www.chosun.com/national/regional/2026/02/22/6FDH6W3UMJA2ZCNKG5LI5HMKCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/6FDH6W3UMJA2ZCNKG5LI5HMKCE/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 02:30:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQC7VYKWOJMOBI4ADQ6SESYLGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 9월 16일 오전 전북 군산시 십이동파도 인근 해상에서 8명이 탑승한 어선이 전복돼 해경이 구조 작업을 벌이고 있다. /군산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 9월 전북 군산 해상에서 어선을 들이받아 전복시킨 뒤 도주해 3명을 숨지게 한 혐의로 재판에 넘겨진 유조선 항해사가 법원으로부터 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 김주관)는 특정범죄가중처벌법상 선박교통사고도주 등 혐의로 기소된 20대 남성 이등항해사 A씨에게 징역 6년을 선고했다고 22일 밝혔다. 또 같은 혐의로 기소된 70대 남성 선장 B씨에게는 징역 1년에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 2024년 9월 16일 오전 전북 군산시 십이동파도 남쪽 7.5㎞ 인근 해상에서 유조선 C호(1618t)를 운항하던 중 어선 뒷부분을 들이받은 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이 사고로 어선 77대령호(35t)가 전복돼, 선장과 기관장 등 3명이 숨지고 1명이 다쳤다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 각각 C호의 이등항해사와 선장으로, 당시 A씨 홀로 항해 당직 근무를 서던 중 사고를 냈다. 특히 A씨는 자동 조타 상태를 설정해 둔 채 일지를 작성하다가 어선과 충돌 사고를 냈으며, 사고 직후 구호 조치를 취하지 않고 그대로 배를 몰고 도주한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 선사로부터 2인 1조로 당직 사관 근무를 편성하라는 지시를 받았지만, A씨를 홀로 항해 업무를 수행하게 한 과실로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 사고 이후 즉시 구조 작업을 실시했으면 사망의 결과 등 피해를 방지할 가능성이 있었다는 점에서 비난 가능성이 매우 높다”면서 “재판에 임하는 A씨의 태도나 피해 유족의 피해 회복을 위한 어떠한 노력도 하지 않은 점 등을 고려할 때 진정 자신의 잘못을 반성하고 있는지 의심되기도 한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “다만 인원 부족으로 A씨가 2인 1조가 아닌 혼자 당직을 서게 된 점, 1등 항해사의 부탁으로 추가 근무를 하고 있었던 점 등의 사정을 고려한다”면서 “B씨는 유가족들과 합의한 점 등을 참작한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자매 성폭행 후 도주… 노영대, 13년 만에 출소 후 춘천 택했다</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/22/JH5IJEDE7NFJHHC6SLXWH55PE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/22/JH5IJEDE7NFJHHC6SLXWH55PE4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 02:19:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYWGOBWMU2TGYZWGNRWGYRZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2012년 12월 경찰 조사 중 도주한 경기 고양시 성폭행 피의자 노영대가 검거되어 일산경찰서로 압송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 자매를 성폭행한 혐의로 구속돼 경찰서에서 조사를 받던 중 수갑을 풀고 달아났던 노영대(46)가 최근 출소 후 강원 춘천을 거주 지역으로 택했다. &lt;br&gt;&lt;br&gt;22일 뉴스1에 따르면, 과거 경기 지역에서 주로 범행을 저지른 노영대가 최근 출소 후 춘천을 거주 지역으로 택함에 따라 두 달 전쯤부터 춘천시 사농동에 있는 법무보호복지공단 강원지부에 머물고 있다. &lt;br&gt;&lt;br&gt;공단 강원지부는 출소자에게 숙소를 제공하고 직업 훈련‧취업 등 생계 활동을 돕는 갱생 시설이다. 시설 규정에 따라 노영대가 이곳에서 머무를 수 있는 보호 기간은 최장 2년이다. 기본 6개월을 머무르며, 이후 6개월 범위 내에서 3회까지 연장 가능하다. 이 시설은 야간 외출 제한 시간이 정해져 있지만 청소년 등 일부 보호자 외에는 이를 강제할 법적 근거가 없어 권유 정도에 그치는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;노영대는 2012년 12월 경기 고양시 한 아파트에 침입해 20대 자매를 성폭행한 뒤 또 다른 집에 들어가 금팔찌 1개를 훔친 혐의를 받는다. 당시 성폭행 혐의로 경찰서에서 조사받던 중 담을 넘어 도주했다가 5일 만에 다시 붙잡혔다. 노영대는 수갑에서 한쪽 손을 억지로 빼낸 뒤 도주한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;그는 검찰에 송치된 뒤에도 배가 아픈 척을 하며 화장실을 들락거리면서 수갑 2개를 풀고 재차 도망가려 했다. 그러나 이때는 교도관에게 바로 붙잡혔다. &lt;br&gt;&lt;br&gt;노영대는 징역 13년과 신상정보 공개 및 고지 명령 10년을 선고받았다. 노영대의 이름, 나이, 신체정보, 사진, 주소 등 신상정보는 성범죄자 알림e에 등록돼 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GYYWGOBWMU2TGYZWGNRWGYRZMM.jpg?auth=396a3e048724eb5801f83b62be232e969435711332192fdf8cd5b661b7836fe8&amp;smart=true&amp;width=1824&amp;height=2447" type="image/jpeg" height="2447" width="1824">
+        <media:description type="plain">2012년 12월 경찰 조사 중 도주한 경기 고양시 성폭행 피의자 노영대가 검거되어 일산경찰서로 압송되고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>함양 산불 강풍 타고 확산...주민 대피명령도</title>
+      <link>https://www.chosun.com/national/2026/02/22/46KTVLWYFBCXTHNW2VQ7AMB33A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/22/46KTVLWYFBCXTHNW2VQ7AMB33A/</guid>
+      <dc:creator>함양=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Feb 2026 01:15:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCCPYF5LLZDZVC7EGJ3JPZVNJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 9시14분쯤 함양군 마천면 창원리 한 야산에서 발생한 산불이 초속 6m에 육박하는 강한 바람에 확산하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 함양군에서 발생한 산불이 강한 바람에 밤새 번지면서 산림 당국이 이틀째 진화 작업을 펼치고 있다. &lt;br&gt;&lt;br&gt;22일 경남도에 따르면, 전날 밤 9시 14분쯤 함양군 마천면 창원리 한 야산에서 산불이 발생했다. &lt;br&gt;&lt;br&gt;현장에서는 초속 6m에 육박하는 강한 바람이 불고, 급경사 지형까지 겹쳐 야간 진화 작업에 어려움을 겪었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C653DTA4WZBHXE2ZZFNAHHPFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 9시14분쯤 함양군 마천면 창원리 한 야산에서 발생한 산불이 초속 6m에 육박하는 강한 바람에 확산하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불이 강한 바람을 타고 번지면서 산림 당국은 22일 오전 4시 산불 대응 1단계를 발령했다. 1단계는 화재로 인한 피해 면적이 10~100ha 미만으로 예상될 때 발령한다. &lt;br&gt;&lt;br&gt;함양군은 이날 오전 8시 55분 재난안전문자를 통해 “견불동 주민과 입산객은 고정마을회관으로 즉시 대피하라”는 내용의 재난안전 문자를 발송했다. 한때 인근 주민 30여 명이 대피했다. 10시 현재 견불동 마을 12가구 12명이 고정마을회관으로 대피한 상태다. &lt;br&gt;&lt;br&gt;산림 당국과 경남도는 진화 헬기 19대, 진화 차량 27대, 진화 인력 200여 명 등을 투입해 주불을 잡기 위해 총력을 기울이고 있다. 진화율은 이날 오전 4시쯤 28% 수준을 현재까지 유지하고 있다.&lt;br&gt;&lt;br&gt;다만 오전 10시부터 순간 최대 풍속 초속 10~20m 강풍이 예상되면서 진화에 어려움을 겪고 있다. 경남에서는 함양군을 비롯해 12개 시·군에 건조주의보가 이어지고 있다. &lt;br&gt;&lt;br&gt;박완수 경남도지사는 “건조하고 강한 바람이 예상되는 만큼 가용한 모든 자원을 총동원하여 신속한 진화에 최선을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“코레-” 외치고 무반주 애국가 합창… 60~70년대 스포츠 스타들</title>
       <link>https://www.chosun.com/premium/2026/02/22/2DOPN2JXFJCTPGBL4LRAHIHPSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/premium/2026/02/22/2DOPN2JXFJCTPGBL4LRAHIHPSM/</guid>
@@ -832,16 +943,6 @@
       <content:encoded>산업통상부 고위 공무원이 설 연휴 직전 한국노총을 찾아 집행부와 면담을 진행한 것으로 19일 알려졌다. 앞서 지난달엔 민주노총 집행부와도 따로 만났다고 한다. 통상적으로 양대 노총과 정부의 공식 대화 채널은 고용노동부인데 이례적으로 산업부가 양대 노총과 직접 접촉한 것이다. 최근 노동부가 양대 노총과 각각 ‘노정(勞政) 협의체’를 만든 데 이어, 양대 노총의 높아진 위상을 보여주는 상징적 장면이란 해석이 나온다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 11일 박동일 산업부 산업정책실장 등이 한국노총을 방문해 류기섭 사무총장 등과 면담했다. 정부 관계자는 “산업 관련 정책이 노동계에 적지 않은 영향을 줄 뿐 아니라, 노동계의 움직임 역시 산업 정책에도 파급이 큰 만큼 양측 간에 ‘소통을 강화하자’는 취지의 대화를 나눴다”고 했다. 앞서 민주노총과의 만남 때도 비슷한 이야기가 오갔다고 한다.&lt;br&gt;&lt;br&gt;특히 산업부가 조만간 석유화학 분야 구조 재편안을 내놓을 예정이어서, 이번 만남에 더욱 이목이 쏠리고 있다. 기업들의 존폐와도 연결된 이 구조 재편안은 다음 달 시행되는 노란봉투법에 큰 영향을 받을 수밖에 없다. 노란봉투법이 노동 쟁의 범위를 ‘근로 조건에 영향을 미치는 사업 경영상 결정’으로 확대했기 때문이다. 이에 따라 합병이나 분할에 따른 정리 해고, 배치 전환 등이 이뤄지면, 노조는 합법적으로 파업하는 게 가능하다. 정부 안팎에선 석유화학 분야 재편 과정에서 대규모 인력 재배치나 감축 등 가능성이 거론되고 있는 만큼, 파업이 발생하면 정부 계획은 시작부터 차질을 빚게 된다. 한 노동계 인사는 “산업부가 양대 노총의 협력을 구해야 하는 상황이라 몸을 숙인 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;노란봉투법 시행의 주무 부처인 노동부도 비슷한 분위기다. 노동부는 노란봉투법 시행령 및 지침을 내놓는 과정에서, 혼란을 걱정하는 경영계를 향해 “과도한 우려”라고 설명해 왔다. 그런데 법 시행 후 노조의 극한 파업이나 지나친 교섭 요구 등 때문에 노사 간 소송이 이어진다면, 노동부도 비판을 피하기 어렵다. 노정 협의체나 최근 연달아 이어지는 노동 입법 역시 노동계를 자극하지 말자는 분위기가 반영됐다는 게 전문가들 견해다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>첨단 교수 72명 뽑은 고려대… 그 뒤엔 기업 기부금 있었다</title>
-      <link>https://www.chosun.com/national/education/2026/02/20/5Y4SPC5KAZCQTGX3K3Y5IOCW2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/20/5Y4SPC5KAZCQTGX3K3Y5IOCW2I/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:47:00 +0000</pubDate>
-      <content:encoded>2009년부터 이어져 온 정부의 등록금 동결 정책으로 재정난에 직면한 대학들이 우수 교수 유치에 어려움을 겪는 가운데, 고려대가 최근 기업 기부금으로 교수 70여 명을 채용한 것으로 나타났다. &lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면, 고려대는 2023년부터 올 3월까지 기금 교수제를 통해 72명을 임용했다. 도입 첫해 4명에서 재작년 25명, 지난해 30명으로 꾸준히 늘었다. 올해도 벌써 13명이 임용됐다. 앞으로 기금을 추가로 확보해 지난해보다 더 많은 기금 교수를 임용하는 게 대학 측 목표다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ONLGHVYRBFYXLIQGUCB3EV4AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구자균 LS일렉트릭 회장(왼쪽)과 김동원 고려대 총장이 2024년 10월 고려대 백주년기념관에서 기금 교수 기부 협약식을 진행하고 있다.
-/고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기금 교수제는 기업이나 기관이 대학에 출연한 기부금으로 교수를 채용하는 제도다. 교수 임용은 대학이 책임지고 진행하지만, 기업이 원하면 교수의 전공이나 학과를 정할 수 있다. 대학은 유능한 교수를 임용해 교육 경쟁력을 높이고, 기업은 연구 파트너를 안정적으로 확보할 수 있어 양측에 모두 이득이 되는 제도다. 고대의 경우 기업은 교수 1인당 최소 10억원을 기부하고 이를 교수 인건비로 활용한다. 대학은 최소 10년간 교수를 임용하고, 그 이후엔 연구 실적과 산학 협력 기여도 등을 종합적으로 평가해 정년 보장 여부를 결정한다. &lt;br&gt;&lt;br&gt;지금까지는 기금 교수 제도가 활발하게 운영되는 곳은 많지 않았다. 서울대의 경우 기금 교수를 최근 3년간 20명 임용했는데, 주로 의대와 치의학대학원 중심이었다. 한양대와 경희대는 기금 교수 제도를 운영하지만 실제 임용된 교수는 없었다. 중앙대와 한국외대 등은 제도 자체를 운영하지 않는다. &lt;br&gt;&lt;br&gt;그런 와중에 고려대는 2023년 김동원 총장 취임 이후 기금 교수제를 적극 활용하기로 하면서 기업과 협약에 나섰다. 고려대가 지금까지 기업에서 받은 기부금은 총 760억원. 고려대는 이 기부금으로 물리학·기계공학·뇌공학 등 이공계부터 경영·경제학 등 문과 계열까지 다양한 전공 교수를 채용했다. &lt;br&gt;&lt;br&gt;예컨대 국내 전력 기기 ‘빅3’ 중 한 곳인 LS일렉트릭은 재작년 20억원을 기부했고, 고려대는 전기전자공학부 교수를 1명 임용했고 앞으로 1명을 추가로 임용할 계획이다. 채용된 교수는 LS일렉트릭과 함께 국가 전력망 기술 고도화를 위한 연구를 진행하고 있다. 디지털 금융 혁신을 고민하던 국내 대형 은행들도 고려대에 기부금을 함께 출연해 관련 분야 교수 11명이 임용되기도 했다. 손해보험협회와 생명보험협회도 재작년 각각 기부금을 내고 통계학과 경영학에서 보험 산업의 미래를 연구할 교수를 임용해 달라고 요청했다. 이차전지와 웨어러블 로봇 기업을 자회사로 둔 코스모그룹에서 설립한 재단법인 정산도 기금 교수를 위한 기부금을 냈다. &lt;br&gt;&lt;br&gt;첨단 기술에 관심 있는 문화 산업 기업들도 기금 교수제를 활용하고 있다. 전시관 기획부터 설계, 제작을 전문으로 하는 기업 시공테크는 재작년 고려대에 20억원을 기부하며 컴퓨터학과와 인공지능학과 교수를 한 명씩 뽑기를 원했다. 문화와 기술을 결합한 기업으로 성장하는 데 필요한 연구를 진행하기 위해서였다. 고대는 기업 요구대로 2명을 뽑았고 교수들은 현재 교육과 연구를 병행하고 있다. 같은 해 마케팅 대행 기업인 FM커뮤니케이션즈도 생성형 AI를 연구하는 교수 임용을 위해 10억원을 출연했다. &lt;br&gt;&lt;br&gt;김동원 총장은 “기금 교수제가 대학의 교수 유치 어려움을 해결할 뿐 아니라, 대학이 기업과 사회의 싱크탱크로 자리매김하게 하는 효과를 가져오고 있다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞기금 교수제&lt;/b&gt;&lt;br&gt;&lt;br&gt;기업·기관이 대학에 낸 기부금으로 교수를 채용하는 제도. 기금 교수는 학생을 가르치는 동시에 기업이 원하는 주제를 연구한다. 채용 절차는 대학이 진행하지만, 기업이 교수의 전공이나 학과를 정할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대전·충남도의회 “與 통합 법안에 반대”</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2026/02/20/TKRUJCOYMFFE3D3K5BLMDHC5CA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/02/20/TKRUJCOYMFFE3D3K5BLMDHC5CA/</guid>
@@ -861,36 +962,6 @@
 /에퀴노르&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 곳곳에서 추진하던 해상 풍력 사업이 잇따라 좌초 위기에 빠졌다. ‘추자 해상 풍력 발전 사업’은 지난 10일 한국중부발전이 사업을 포기해 멈춰 섰다. 이 사업은 제주 추자도 앞바다에 세계 최대 규모(2.37GW·기가와트)의 풍력 발전 단지를 짓는 사업이다. 원자력발전소 2기와 맞먹는 용량이다. 24조원을 투자해 2035년까지 완공할 계획이었다. &lt;br&gt;&lt;br&gt;업계 관계자들은 제주도가 사업자에게 무리한 요구를 하고 있다고 지적한다. 사업자는 생산한 전기를 제주도 안에서만 팔아야 하고, 20년간 매년 1300억원씩 ‘도민 이익 공유 기금’을 내야 한다.&lt;br&gt;&lt;br&gt;업계 관계자는 “수익이 얼마나 날지도 모르는데 주민들에게 매년 1300억원씩 정액을 지급하는 조건은 지나치다”고 했다.&lt;br&gt;&lt;br&gt;당초 사업을 타진하던 노르웨이 풍력 회사 에퀴노르도 이 조건을 보고 포기했다. 두 차례 공모를 진행한 끝에 공기업인 한국중부발전이 응찰했으나 한국중부발전도 사업성을 검토한 끝에 발을 뺀 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 대해 최명동 제주에너지공사 사장은 “사업 구역을 1곳에서 2~3곳으로 나누고 이익 공유 방식도 수익의 일정 비율을 내는 방식으로 바꾸는 것을 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;울산에서는 코리오·토탈에너지·SK에코플랜트가 참여한 SPC(특수목적법인) ‘바다에너지’가 최근 청산 절차를 밟고 있다. 발전 사업 허가도 반납할 예정이다. 바다에너지는 울산 앞바다에 1.5GW 규모의 해상 풍력 단지를 조성하는 ‘귀신고래 프로젝트’를 추진했다. 총 사업비는 12조원이다.&lt;br&gt;&lt;br&gt;업계 관계자는 “원자재 값 등 상승 여파로 사업비가 2배 이상 뛴 데다 해외 투자 유치도 어려운 상황이라 사업을 접은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;에퀴노르가 추진하는 ‘반딧불이 프로젝트’도 사업이 일시 중단된 상태다. 에퀴노르는 울산 앞바다에 2030년까지 750㎿(메가와트) 규모의 풍력 발전소를 지을 계획이다. &lt;br&gt;&lt;br&gt;충남 보령시가 추진 중인 해상 풍력 단지 사업은 군(軍)이 반대해 차질을 빚고 있다. 단지 예정지 주변에 미사일 발사 시험장이 있다는 이유다. 보령시는 2030년까지 호도·녹도·외연도 인근 바다에 9조원을 들여 1.3GW 규모 단지를 조성할 계획이다. 보령시 관계자는 “보령화력발전소가 단계적으로 문을 닫고 있어 지역 경제를 살릴 대안으로 풍력발전소를 조성하려고 한다”며 “군을 설득하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘자랑스러운 평북인상’ 선정</title>
-      <link>https://www.chosun.com/national/people/2026/02/20/DDN6ZSYSUVG3HP3S4JGOANJFOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/20/DDN6ZSYSUVG3HP3S4JGOANJFOI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAS2AMKQJVC3FJL53C27UCKNJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부 평안북도(지사 이세웅)는 제2회 ‘자랑스러운 평북인상(賞)’ 수상자로 임동원(왼쪽) 전 통일부 장관과 김학남(가운데) 극동음향 회장, 김영진 한독약품 회장을 선정했다고 19일 밝혔다. 시상식은 25일 오후 2시 이북5도청 평화강당에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 멤버 제이홉, 생일 맞아 서울아산병원 2억·초록우산 1억원</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/20/QXDXYFUIGBGPFBLX4PXD5FJCTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/20/QXDXYFUIGBGPFBLX4PXD5FJCTA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULFVKQEF7NHF7BJG7SMYDWUPDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버인 가수 제이홉이 18일 생일을 맞아 총 3억원을 기부했다. 제이홉은 서울아산병원 어린이병원에 2억원을 전달했으며, 아동복지기관 초록우산에도 1억원을 후원했다. 장학금은 광주국제고등학교와 전남여자상업고등학교 학생들을 위해 쓰일 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여수 포차서 28만원 나왔다”… 바가지 영상에 市 “사실무근”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/19/RRBFXEFOJFDNHMRNTGTHDFI5II/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/19/RRBFXEFOJFDNHMRNTGTHDFI5II/</guid>
-      <dc:creator>정채빈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 13:10:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMEXKT6WPBEPHB3THOYM4VQHBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수시가 여행 중 바가지요금에 당했다는 영상이 확산하자 “근거 없는 영상”이라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;최근 한 소셜미디어 계정에 “설 연휴에 전라도 여수 놀러 갔다가 충격적인 일을 겪었다”며 바가지요금 피해를 주장하는 내용의 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상에는 “여수 처음 오셨어요? 사장의 말이 충격인 이유”라는 자막과 함께 여수 관광지 모습이 배경에 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMIYLHVU4REUDD3GFPKP3FOL3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여수의 한 식당에서 바가지 요금 피해를 입었다고 주장하는 영상 캡처./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상은 해산물 포장마차에서 모둠 해산물을 시켰는데 28만원이 나왔다고 주장한다. “순간 잘못 본 줄 알고 계산이 잘못된 거 아니냐”고 물었더니 사장이 “여수 처음 오셨어요?”라고 답했다고 한다. 이어 “평소 7만원 한다는 방이 성수기라며 25만원이었다”라는 내용도 담겼다. 정확한 음식점이나 숙소 등은 특정되지 않았다.&lt;br&gt;&lt;br&gt;해당 영상은 조회수 14만회 이상을 기록하며 확산했다. 이를 본 네티즌들은 여수시에 적극 대응을 촉구하는 반응을 보였다. &lt;br&gt;&lt;br&gt;이에 대해 여수시는 “해당 영상에 구체적인 업소명과 발생 일시, 영수증 등 객관적 자료가 없다”며 “현재까지 접수된 관련 민원이나 소비자 피해 신고도 없는 상황”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “해당 사안에 대해 지속적으로 모니터링할 예정이며 업소가 특정될 경우 사실관계를 면밀히 확인해 법 위반 사항이 있을 시 관련 법령에 따라 엄정 조치할 방침”이라고 덧붙였다. &lt;br&gt;&lt;br&gt;시 관계자는 “확인되지 않은 정보의 무분별한 공유는 지역 상인과 관광도시에 큰 피해를 줄 수 있다”며 “사실과 다른 내용으로 확인될 경우 지역 이미지 보호를 위해 적극적으로 강력 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 여수시는 식당 불친절과 숙박업소 위생 문제로 논란이 된 바 있다. 지난해 7월 유명 식당이 홀로 식사하는 유튜버에게 ‘빨리 먹으라’고 면박하는 영상이 올라와 비난이 일자, 정기명 여수시장은 친절 교육 강화와 불친절 업소 중점 관리 등을 약속했다. 이후 8월 걸레라고 적힌 수건을 객실에 제공한 리조트형 호텔 영상이 확산하며 또다시 논란이 일었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AMIYLHVU4REUDD3GFPKP3FOL3M.jpg?auth=925c5545765bf89b54479038b15aa38ccae15b60490aaafec50d4dbc449b6b19&amp;smart=true&amp;width=720&amp;height=872" type="image/jpeg" height="872" width="720">
-        <media:description type="plain">여수의 한 식당에서 바가지 요금 피해를 입었다고 주장하는 영상 캡처./페이스북</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘대북송금 제3자 뇌물’ 김성태 공소기각 판결...검찰 항소</title>
       <link>https://www.chosun.com/national/court_law/2026/02/19/6RIG3O2DDBGCVJL2DRNIDNLBZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/19/6RIG3O2DDBGCVJL2DRNIDNLBZE/</guid>
@@ -898,78 +969,6 @@
       <description/>
       <pubDate>Thu, 19 Feb 2026 13:37:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTANTCGFRTGZRTGJRTSN3EG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성태 쌍방울 전 회장이 지난달 8일 쌍방울 대북송금 수사 과정에서 불거진 진술 회유 의혹 관련 조사를 받기 위해 서울 서초구 서울고등검찰청으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 대북 송금’ 사건과 관련해 제3자 뇌물 혐의로 기소된 김성태 전 쌍방울그룹 회장이 공소기각 판결을 받자, 검찰이 이에 불복해 항소했다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 수원지검은 이날 수원지법에 항소장을 냈다. 앞서 지난 12일 수원지법 형사11부(재판장 송병훈)는 뇌물공여 등 혐의를 받는 김 전 회장에게 공소기각을 선고했다. 공소 기각은 소송 조건이 갖춰지지 않았을 때 법원이 소송을 종결하는 것이다. 검찰의 항소 이유는 법리 오해인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 검찰이 김 전 회장에 대해 ‘이중기소’(한 가지 행위로 두 번 기소하는 것)한 것으로 판단했다. 형사소송법 제327조는 공소가 제기된 사건에 대해 다시 공소가 제기됐을 때(이중 기소) 공소 기각을 선고해야 한다고 규정돼 있다.&lt;br&gt;&lt;br&gt;김 전 회장은 2019년 경기도의 북한 스마트팜 지원 사업비 500만달러와 당시 경기도지사였던 이재명 대통령의 방북 비용 300만달러를 북한 측에 대신 지급했다는 혐의(외국환거래법 위반) 등으로 이미 2023년 구속 기소됐다. 그는 2024년 7월 1심에서 징역 2년 6월과 징역 1년에 집행유예 2년(정치자금법 위반)을 선고받고 현재 항소심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 검찰은 2024년 6월 김 전 회장에 대해 ‘제3자 뇌물(공여)’ 혐의로 추가 기소했다. 북한에 돈을 보낸 것이 사실상 이 대통령의 정치적 이익을 위해 800만달러의 뇌물을 제공한 것으로 본 것이다. 그러나 재판부는 김 전 회장의 제3자 뇌물 혐의는 ‘하나의 행위가 여러 개의 죄에 해당하는 경우’를 뜻하는 ‘상상적 경합’ 관계에 있다고 봤다.&lt;br&gt;&lt;br&gt;검찰은 김 전 회장이 북한에 돈을 지급한 행위는 이전에 기소됐던 외국환거래법 위반 혐의와 중첩될 수 있지만, 뇌물 혐의의 범죄 구조와는 달라 독립적인 범죄라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의회 점령한 찰스 1세, 반역죄로 사형… 法 “대통령도 내란죄 가능”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/19/H2BUOVPJKRFS7OO2STD7ZAV3PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/19/H2BUOVPJKRFS7OO2STD7ZAV3PM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 10:00:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOD4XQH34JLGFGJWSYV6YIH6XE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 19일 오후 서울 서초구 서울중앙지방법원에서 열린 12·3 비상계엄 관련 내란 우두머리 혐의 사건 1심 선고공판에 출석하고 있다. 윤 전 대통령은 이날 내란 우두머리 혐의 1심 선고공판에서 2024년 12월 3일 비상계엄을 선포한 지 443일 만에 무기징역을 선고받았다. /서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란 우두머리 사건 1심 선고 공판에서 법원은 영국의 찰스 1세 사례까지 거론하며 “대통령도 국헌 문란 목적의 내란죄를 저지를 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;19일 서울중앙지법 형사25부(재판장 지귀연)는 12·3 비상계엄이 형법상 내란죄의 구성 요건인 ‘국헌 문란 목적’이 있었는지를 판단하면서, 국헌 문란의 정의를 규정한 형법 제91조 제2항의 역사적 연혁을 설명했다. 해당 조항은 국헌 문란을 ‘헌법에 의해 설치된 국가기관을 강압에 의해 전복 또는 그 권능 행사를 불가능하게 하는 것’으로 규정하고 있다.&lt;br&gt;&lt;br&gt;재판부에 따르면 로마 시대에는 국가의 기본 질서를 어지럽히는 행위를 내란죄로 처벌했다. 그러나 황제 시대와 중세를 거치며 왕이나 군주는 반역죄나 내란죄를 저지를 수 없다는 인식이 강해졌다고 한다.&lt;br&gt;&lt;br&gt;17세기 영국의 찰스 1세 사건이 이러한 인식을 바꾼 계기가 됐다. 당시 찰스 1세는 의회와 세금 징수 문제 등으로 갈등을 빚다 의회가 시정 요구 결의문을 내자 이에 분노해 군대를 이끌고 의사당에 난입해 의회를 강제로 해산시켰다. 이후 찰스 1세는 반역죄 등으로 사형을 선고받았고, ‘왕도 국가에 대한 반역의 주체가 될 수 있다’는 개념이 확립됐다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “이때부터 왕이라 하더라도 국민으로부터 주권을 위임받은 의회를 공격하면 주권을 침해하는 것이 되어 반역죄가 성립한다는 개념이 널리 퍼지게 됐다”며 “이후 내란죄는 국가 존립을 침해하는 죄로 각국에 반영됐다”고 설명했다.&lt;br&gt;&lt;br&gt;재판부는 또 개발도상국과 선진국 등 해외 사례도 제시했다.&lt;br&gt;&lt;br&gt;재판부는 “아프리카·남미 등 일부 개발도상국에서는 선거로 당선된 대통령이 의회와 갈등을 빚다 군부를 동원해 의회 기능을 정지시키는 사례가 언론을 통해 전해지고 있다”며 “그러나 실제 내란·반란 등으로 처벌된 사례는 찾기 어렵다”고 했다. 그 이유에 대해 재판부는 “성공한 경우가 적지 않고, 실패한 경우에도 당사자들이 해외로 망명해 수사나 재판이 진행되지 않는 경우가 많았기 때문으로 보인다”고 설명했다. 그러면서 이 같은 개발도상국 사례는 참고하기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;반면 선진국의 경우 대통령이 군부를 동원해 의회 기능을 정지시키는 사례 자체를 찾아보기 어렵다고 했다. 이에 대해 재판부는 “제도적 설계를 통해 극단적 갈등 상황으로 비화하지 않도록 장치를 마련해 두었기 때문으로 보인다”고 밝혔다. 그러면서 상·하원 양원제, 의원 일부만 순차 교체하는 선거 제도, 중간평가 제도, 군주의 상징적 중재 역할, 대통령의 의회 해산권 등을 예로 들었다.&lt;br&gt;&lt;br&gt;재판부는 이를 토대로 “다른 나라의 헌법 규정이나 판례, 주변 사례 등을 종합해서 보면 대통령이 국헌 문란 목적의 내란죄를 저지를 수 있다는 사정을 충분히 알 수 있다”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“성경 읽자고 촛불 훔칠 순 없어”&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 이날 “성경을 읽는다는 이유로 촛불을 훔칠 수는 없다”고도 말했다. 윤 전 대통령이 계엄 선포의 명분으로 내세운 ‘반국가세력 척결’ 등과, 군을 국회에 투입해 기능을 마비시키려 한 행위는 별개의 문제라는 취지다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 그동안 재판 과정에서 계엄 선포 등에 이르게 된 목적이 “사사건건 무리한 탄핵과 예산 삭감 등 정부 발목을 잡아 반국가세력이나 다름없게 돼버린 국회에 의한 국가 위기 상황을 타개하고 자유민주주의 체제를 수호하기 위한 것이었기 때문”이라며 국헌 문란 목적의 내란죄가 성립할 수 없다고 주장해왔다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “이는 동기나 이유, 명분에 불과할 뿐 군을 국회에 보낸 목적으로 볼 순 없다”며 “그 목적을 이루기 위한 수단으로 비상계엄, 병력 출동 및 국회 봉쇄 시도 등 행위에 나아간 잘못을 저지른 것은 명백하게 구분돼야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ ‘계엄 2인자’ 김용현, “尹의 비이성적 결심 조장” &lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 윤 전 대통령의 내란 범행에 가담한 혐의로 기소된 김용현 전 국방장관에게는 징역 30년을 선고했다. 이는 윤 전 대통령과 함께 내란 중요 임무 종사자로 기소된 전직 군·경 관계자 7명 가운데 가장 무거운 형이다.&lt;br&gt;&lt;br&gt;재판부는 “김 전 장관은 이 사건 비상계엄을 주도적으로 준비했고, 군의 국회·선관위·더불어민주당 당사 출동을 사전에 계획했다”며 “독단적으로 부정선거 수사를 진행하려는 별도의 계획을 마련하기도 했던 것으로 보인다”고 했다. 그러면서 “윤 전 대통령의 비이성적 결심을 옆에서 조장한 측면이 있는 것으로 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 구속 취소로 정치권 공세 시달린 지귀연... 술자리 접대 의혹·재판 진행 태도 논란도</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/19/SICWDZG255B5ZLGZNZXKP5SENM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/19/SICWDZG255B5ZLGZNZXKP5SENM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 10:02:29 +0000</pubDate>
-      <content:encoded>19일 윤석열 전 대통령에게 무기징역을 선고한 서울중앙지법 형사25부 재판장 지귀연(51·사법연수원 31기) 부장판사는 지난해 1월 이 사건을 맡았다. 그러나 두 달 만에 윤 전 대통령의 구속 취소를 결정한 뒤 더불어민주당 등 여권의 집중 공세를 받았다.&lt;br&gt;&lt;br&gt;지 부장판사는 작년 3월 7일 “검찰이 구속 기한을 9시간 45분 넘겨 윤 전 대통령을 기소했고, 고위공직자범죄수사처(공수처)의 내란죄 수사권 논란에 대해 명확한 규정이나 판례가 없다”며 구속 취소 결정을 내렸다. 이에 따라 윤 전 대통령은 공수처에 체포된 지 52일 만에 석방됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZJOTQBRZFNADFOOSIXTFCD7CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 형사25부 재판장 지귀연 부장판사가 19일 서울 서초구 서울중앙지방법원에서 열린 윤석열 전 대통령의 내란 우두머리 혐의 사건 1심 선고기일에서 윤 전 대통령에게 무기징역을 선고하고 있다./서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러자 민주당은 “내란 수괴를 석방한다는 게 말이 되느냐”라며 강력 반발했다. 지 부장판사 개인에 대한 공격도 이어졌다. 구속 취소 두 달 뒤인 작년 5월 민주당에선 “지 부장판사가 1인당 100만~200만원 비용이 나오는 룸살롱에서 접대를 받았다는 제보가 있다”며 ‘술접대 의혹’을 제기하며 공격에 나섰다. 지 부장판사가 윤 전 대통령 재판에서 “그런 데 가서 접대받는 생각을 해본 적 없다”는 입장을 밝히자 민주당은 지 부장판사가 술집에서 찍은 사진도 공개했다. 그러나 법원 감사위원회는 작년 9월 “현재로선 지 부장판사에게 징계 사유가 있다고 판단하기 어렵다”고 밝혔다. 관련 의혹을 수사 중인 공수처도 접대를 입증할 증거는 찾지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지 부장판사의 재판 지휘 방식을 두고도 논란이 일었다. 작년 11월 변호인들이 추가 기일 지정에 난색을 표하자 지 부장판사가 “변호인들의 간절한 눈빛 때문에 마음이 약해져서”라고 웃으며 말하는 모습이 공개되자, 여권 지지층은 “재판을 엄격하게 진행하지 않는다”고 비판했다. 한덕수 전 국무총리의 내란 혐의 1심 재판에 증인으로 출석한 윤석열 정부 국무위원들에게 “계엄에 반대했느냐”며 강하게 몰아붙인 이진관 부장판사와 비교되면서 비판 여론은 더욱 커졌다. 여권은 또 지 부장판사를 내란 사건 재판에서 배제해야 한다며 내란전담재판부 설치법을 추진해 지난해 말 국회를 통과시켰다. &lt;br&gt;&lt;br&gt;반면 이날 선고 결과를 두고 “정치적 찬반이 갈리는 사건에서 당사자의 승복을 이끌어내기 위해 예단을 드러내지 않고 인내심을 발휘했다”는 법조계 평가도 나온다.&lt;br&gt;&lt;br&gt;지 부장판사는 2023년 2월 형사25부 재판장으로 부임한 뒤 여러 주요 사건을 심리했다. 2024년 2월 ‘삼성 경영권 불법 승계 의혹’ 사건의 1심 주심을 맡아 이재용 삼성전자 회장의 19개 혐의에 대해 모두 무죄를 선고했다. 그해 9월에는 마약 상습 투약 혐의로 기소된 배우 유아인씨에게 징역 1년과 벌금 200만원을 선고하고 법정 구속했다. 지난해 말 ‘서해 공무원 피살 은폐’ 사건 1심에서 서훈 전 청와대 국가안보실장 등 문재인 정부 안보 라인 5명 모두에게 무죄를 선고하기도 했다.&lt;br&gt;&lt;br&gt;지 부장판사는 오는 23일 정기 인사에 따라 서울북부지법으로 이동한다. 전남 순천 출신인 지 부장판사는 서울 개포고와 서울대 법대를 졸업했다. 2005년 인천지법에서 판사 생활을 시작했다. 대법원 재판연구관을 두 차례에 걸쳐 6년간 지냈다. 진보 성향 법관 모임인 ‘국제인권법연구회’ 출신으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 재판부 “계엄으로 산정 어려운 사회적 비용 발생... 수많은 군경 관계자, 무슨 죄 있겠냐”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/19/EMF5FMAZFJES7I55NMIWX43X4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/19/EMF5FMAZFJES7I55NMIWX43X4Q/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 10:03:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SWMZLFGM4WIN3DMI2TOZBWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서초구 서울중앙지방법원에서 12·3 비상계엄 관련 윤석열 전 대통령에 대한 내란 우두머리 혐의 1심 선고공판이 열리고 있다. /서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄과 관련해 윤석열 전 대통령에게 내란 우두머리 혐의로 무기징역을 선고한 재판부가 계엄 선포로 산정하기 어려울 정도의 사회적 비용이 발생했다고 피고인들을 강하게 질책했다. 재판부는 계엄 관련자들의 가족들과 다수의 공직자들이 엄청난 고통을 겪고 있다며 안타까움을 드러내기도 했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 19일 윤 전 대통령 등에 대한 양형 이유를 설명하며 계엄 선포로 인한 사회적 피해 등을 언급했다.&lt;br&gt;&lt;br&gt;재판부는 “가장 안타깝게 생각하는 사정은 비상계엄 선포와 그에 따른 군경 활동으로 군과 경찰의 정치적 중립성이 크게 훼손되고 국제사회에서 대한민국의 정치적 위상과 대외 신인도가 하락했다”고 했다. 그러면서 “결과적으로 우리 사회는 정치적으로 양분돼 극한의 대립 상태를 겪고 있다” “대통령 선거를 다시 치렀고, 비상계엄 선포 후속 조치와 관련된 수많은 사람들이 눈물까지 흘려가며 그 피해에 대해 강하게 호소하고 있다”고 했다.&lt;br&gt;&lt;br&gt;막대한 사회적 비용이 발생했다고 지적하기도 했다. 재판부는 “사회적 비용은 재판부가 보기에도 산정할 수 없는 정도의 어마어마한 피해”라며 “비상계엄 선포에 따른 조치들을 실제로 수행한 군인, 경찰관, 공무원들이 사회적으로 많은 비난을 받게 됐고, 법적인 책임도 져야 한다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 비상계엄 선포로 관련자들과 그 가족이 피해를 보고 있다며 안타까움을 드러내기도 했다. 재판부는 “수많은 군경 관계자들에게 무슨 죄가 있겠냐”며 “형법상 죄를 물을 수는 있지만 피고인들이 순간적인 판단을 잘못했다는 이유 때문에 일부는 구속돼 있고, 가족들은 고통 받고 있다”고 했다. 이어 “무난하게 군대, 경찰 생활을 마무리할 수 있었던 다수의 공직자들이 어마어마한 고통을 겪고 있다는 사정은 우리 사회에 큰 아픔이 될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이날 내란 우두머리 혐의를 받는 윤 전 대통령에게 무기징역을 선고했다. 김용현 전 국방부 장관에게는 징역 30년이 선고됐으며, 노상원 전 국군정보사령관은 징역 18년, 조지호 전 경찰청장은 징역 12년, 김봉식 전 서울경찰청장은 징역 10년, 목현태 전 서울경찰청 국회경비대장에게는 징역 3년이 각각 선고됐다. 김용군 전 국방부 조사본부 수사단장(예비역 육군 대령)과 윤승영 전 경찰청 국가수사본부 수사기획조정관에겐 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘계엄 2인자’ 김용현, 징역 30년 선고에 곧바로 항소</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/19/NPBJUZPX3NDLTC3PAJJCAQ6Y2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/19/NPBJUZPX3NDLTC3PAJJCAQ6Y2Y/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 10:15:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXQOEVLRNJPDFHLK4622REFG6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관(왼쪽 아래)이19일 서울 서초구 서울중앙지방법원에서 열린 내란 사건 1심 선고기일에서 지귀연 부장판사의 판결 선고를 듣고 있다. 법원은 내란 우두머리 혐의로 기소된 윤 전 대통령에게 무기징역을 선고하고 내란 중요 임무 종사 혐의를 받는 김 전 장관에게는 징역 30년형을 선고했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령과 공모해 12·3 비상계엄을 선포하고 국헌 문란을 목적으로 폭동을 일으킨 혐의가 인정돼 19일 징역 30년형이 선고된 김용현 전 국방부 장관이 판결에 불복해 곧바로 항소했다. 김 전 장관 측은 이날 서울중앙지법 형사25부(재판장 지귀연)의 선고 공판이 끝난 직후 법원에 항소장을 제출했다.&lt;br&gt;&lt;br&gt;김 전 장관은 전시·사변 또는 이에 준하는 국가비상사태의 징후가 없는 상황에서 위헌·위법한 비상계엄을 선포하고, 계엄군을 동원해 국회를 봉쇄한 윤 전 대통령의 내란 범죄에 가담한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이날 재판부는 비상계엄 당시 군의 국회 진입과 봉쇄 조치, 주요 정치인 체포 시도 등이 윤 전 대통령의 최종 승인과 김 전 국방부 장관의 지시에 따라 이뤄졌다고 판단했다. 재판부는 “비상계엄 선포와 포고령 공고, 국회 봉쇄, 정치인 체포조 편성·운영, 중앙선거관리위원회 점거 및 서버 반출 시도 등은 일련의 폭동 행위에 해당한다”며 내란죄를 인정했다.&lt;br&gt;&lt;br&gt;특히 재판부는 “김 전 장관은 윤 전 대통령의 비이성적 결심을 옆에서 조장한 측면이 있다”고 지적했다. 이어 “비상계엄을 주도적으로 준비했고 군의 국회, 중앙선거관리위원회, 더불어민주당 당사 출동 등을 사전에 계획했다”며 “독단적으로 부정선거 수사를 진행하려는 별도 계획을 마련하기도 했던 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;다만 재판부는 “물리력 행사를 최대한 자제시키려 한 것으로 보이고, 대부분 계획이 실패로 돌아갔다”며 “전과가 없고 장기간 공직에 봉직했으며 65세의 비교적 고령인 점” 등을 참작해 형을 정했다고 밝혔다.&lt;br&gt;&lt;br&gt;김 전 장관의 변호인인 유승수 변호사는 선고 직후 “사법부가 최후의 보루 역할을 할 것으로 기대했지만 실망스러운 결과”라고 말했다. 재판부는 내란 우두머리 혐의로 기소된 윤 전 대통령에게는 무기징역, ‘계엄 비선’ 의혹을 받는 노상원 전 국군 정보사령관에게는 징역 18년을 각각 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대만서 도박 의혹’ 롯데 자이언츠 선수 4명... 경찰, 고발장 접수</title>
-      <link>https://www.chosun.com/national/regional/2026/02/19/FVGSPLH5NFB4NC3R6FBRO5YXXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/19/FVGSPLH5NFB4NC3R6FBRO5YXXM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 09:25:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2WKOLCMMYTEZRWGY2WEMTCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대만 스프링캠프를 떠난 롯데 자이언츠 선수들이 12일 현지 불법 도박장을 출입한 것으로 확인됐다. (온라인 커뮤니티 캡처) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대만 스프링캠프 기간 불법 도박 의혹이 제기된 프로야구 롯데 자이언츠 선수들에 대한 고발장이 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;부산경찰청은 도박 혐의로 롯데 자이언츠 소속 선수 4명(고승민·김동혁·김세민·나승엽)에 대한 고발장이 접수됐다고 19일 밝혔다. 고발장은 국민신문고를 통해 접수됐다.&lt;br&gt;&lt;br&gt;고발장에는 이들이 지난 12일 대만 현지 도박장에 방문했으며, 110만원 상당의 경품을 수령했다는 의혹 등이 담겼다. 다만 일각에서 제기된 직원 성추행 의혹 관련 내용은 없다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “언론을 통해 나온 여러 의혹이 고발장에 담긴 것으로 보고 있다”며 “고발 내용에 대해 혐의 유무를 수사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 13일 온라인 커뮤니티를 통해 롯데 자이언츠 선수들의 도박장 출입 논란이 불거졌다. 롯데 자이언츠는 해당 선수들을 즉각 귀국 조치했으며, 한국야구위원회(KBO) 클린베이스볼센터에 이 같은 내용을 신고했다.&lt;br&gt;&lt;br&gt;KBO는 이달 안으로 상벌위원회를 열어 징계 수준을 확정할 계획이며, 구단 역시 결과에 따라 상응하는 조치를 내릴 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 변호인단 “사법부, 정치권력에 무릎 꿇어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/19/OP545MGIRFASHGZY37TWULMNEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/19/OP545MGIRFASHGZY37TWULMNEA/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 09:08:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTGMNDCMRRWCODFGRRDENDCGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 19일 오후 서울 서초구 서울중앙지방법원에서 열린 12·3 비상계엄 관련 내란 우두머리 혐의 사건 1심 선고공판에 출석해있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 우두머리 혐의를 받는 윤석열 전 대통령에게 19일 무기징역이 선고된 것을 두고 변호인단이 “정해진 결론을 위한 요식행위”라고 비판했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 서울중앙지법 형사25부(재판장 지귀연)의 선고 직후 입장문을 내고 “사법부의 판단을 존중한다는 최소한의 말조차 꺼낼 수 없는 참담한 심정”이라며 “거짓과 선동으로 얼룩진 광란의 시대에서도 결코 꺾일 수 없는 정의가 세워지길 기대했지만, 사법부 역시 선동된 여론과 정적을 숙청하려는 정치권력에 무릎 꿇고 말았다”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 지난달 13일 열린 결심공판에서 “비상계엄은 대통령의 고유 통치 권한”이라고 했다. 계엄은 사법심사의 대상이 될 수 없다며 무죄 또는 공소기각을 주장하기도 했다. 하지만 재판부는 계엄을 선포한 행위가 폭동에 해당하고, 윤 전 대통령은 범행을 주도적으로 계획했다고 봤다.&lt;br&gt;&lt;br&gt;변호인단은 사법부의 판단이 “일관성 없다”고 지적하기도 했다. 변호인단은 “이재명 대통령의 재판을 중지하고, 더불어민주당 유력 정치인들의 재판에서는 위법수집증거라는 이유로 무죄 판결을 내리는 사법부가 윤석열 전 대통령에 대해서는 절차상의 위법은 물론이고 실체상의 판단에서도 눈치 보기에 급급했다”며 “기울어진 저울이고, 일관성 없는 기준일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;재판부가 고위공직자범죄수사처(공수처)와 검찰의 내란죄 수사가 적법하다고 판단한 것에 대해서도 “수사 착수 자체가 위법하다”고 반박했다. 변호인단은 “(재판부가) 수사권 없는 공수처의 잘못된 수사와 기소에 대해서 눈을 감았다”며 “이렇게 철저히 진실을 외면하려 했다면 도대체 재판은 왜 한 것이냐”고 했다. 윤 전 대통령 측 윤갑근 변호사도 선고 직후 기자들에게 “명백히 드러난 진실과 헌법·형사소송법에서 정한 법리와 증거법칙이 무시된 판결”이라며 “지난 1년간 수십 회에 거친 판결은 요식행위였다. 이런 재판은 왜 한 것이냐”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 윤 전 대통령과 상의 후 항소 여부를 결정할 계획인 것으로 알려졌다. 윤 전 대통령 측 관계자는 “변호인단 내에서 항소의 실익이 있을지에 대한 의견이 나뉜다”며 “항소 여부는 미정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구시선관위, 업적 홍보·공연 기부 혐의 지방선거 입후보예정자 고발</title>
-      <link>https://www.chosun.com/national/regional/2026/02/19/RLUM7CDVVRBADPATZ6G2CJ5V2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/19/RLUM7CDVVRBADPATZ6G2CJ5V2U/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 09:12:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZJ6HXESEBHZ3I6T3XD3EK7S4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/대구시선거관리위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시선거관리위원회는 자신의 업적을 홍보하고 무상으로 공연을 제공한 혐의(공직선거법 위반)로 6월 지방선거 입후보 예정자 A씨와 그 가족, 출판사 관계자 등 3명을 대구지검에 고발했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 최근 열린 A씨의 출판기념회에서 참석자 400여 명을 대상으로 A씨 업적을 홍보하는 영상을 상영하고, 참석자들에게 전문 성악가 2명의 공연을 무상으로 제공한 혐의를 받는다. 또 A씨는 지난해 11월쯤부터 자신의 업적이 실린 신문 기사 이미지 등을 선거구민 등 약 900여 명에게 문자메시지로 발송한 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;대구시선관위 관계자는 “지방선거와 관련해 공무원의 선거관여, 기부와 매수 행위 등 선거의 공정을 해치는 중대 선거범죄에 대해 단속 역량을 집중해 엄중하게 조치할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4만 준족 대구 집결... 상금 규모 세계 최대 ‘대구마라톤’ 열린다</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/19/FNA7LWM6VBAP5LDXN2XA6B5Y2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/19/FNA7LWM6VBAP5LDXN2XA6B5Y2Y/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Feb 2026 09:04:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OFZRWRYZNHDFKWO6BWKPLZLGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 4월2일 열린 대구국제마라톤대회 10km 부문의 출발 모습. /대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내외 마라토너 4만여 명이 참가하는 ‘2026 대구마라톤대회(대구마라톤)’가 22일 열린다. 상금 규모도 세계 최고 수준으로 책정됐다.&lt;br&gt;&lt;br&gt;19일 대구시에 따르면, 올해 25회째를 맞는 이번 대회는 수성구 대구스타디움 일대와 도심 곳곳에서 열린다. 42.195㎞를 뛰는 엘리트 풀코스 및 마스터스 풀코스와 10.9㎞ 달리기, 5㎞ 내외의 건강 달리기 등 4개 종목으로 구성됐다. &lt;br&gt;&lt;br&gt;지난해 9월 17일 참가 접수가 열린 이후 21일 만에 전 세계에서 4만1254명이 몰려들며 조기 마감됐다. 지난해 엘리트 코스 남자부 우승자인 탄자니아 출신 가브리엘 제럴드 게이 선수와 여성부 우승자인 에티오피아 메세렛 베레테 선수 등도 참가한다. &lt;br&gt;&lt;br&gt;이번 대회 우승 상금은 대구마라톤 역사상 최대 규모인 20만달러(약 2억9000만원)다. 작년의 16만달러보다 25% 늘었고, 세계에서 가장 상금 규모가 크다는 미국 보스턴 마라톤 대회(15만달러)보다도 높다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “세계적 마라톤 축제인 대구마라톤의 위상에 걸맞게 상금을 책정했다”고 말했다. 대구마라톤은 현재 세계육상연맹(WA) 등급상 ‘골드라벨’이다. 최고 등급인 플래티넘 라벨까지 한 단계 남은 셈이다. &lt;br&gt;&lt;br&gt;대회 당일은 대구경찰청이 코스인 대구스타디움과 시내 일대를 오전 6시부터 오후 4시까지 통제할 방침이다. 통제 구간은 대구스타디움 일대·범어네거리·두산오거리·대구은행네거리·청라언덕역·서문시장·동대구역·아양교역·율하역·범안로 등이다. &lt;br&gt;&lt;br&gt;황보란 대구시 문화체육관광국장은 “시민 불편을 최소화할 방침이며, 시민들께서는 대구시 홈페이지를 통해 미리 우회 도로를 꼭 확인해달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
