@@ -13,6 +13,29 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>밤새 확산한 밀양 산불...주민 180여명 긴급대피 </title>
+      <link>https://www.chosun.com/national/2026/02/24/KEGOCBSQGFCMVNHF2EIBVP2RJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/24/KEGOCBSQGFCMVNHF2EIBVP2RJU/</guid>
+      <dc:creator>밀양=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 22:43:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEI73WFVNJMLPCXTORGUUXL5AM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 경남 밀양 삼랑진읍 검세리 산불 현장에서 산림청 산불진화 헬기가 진화 작업을 벌이고 있다. /산림청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 밀양에서 발생한 산불이 밤새 기세를 이어가면서 산림 당국이 산불 대응 단계를 2단계로 높였다. 주민 184명이 긴급 대피한 가운데 당국은 일출과 함께 헬기를 투입하며 빠른 시일 내 큰불을 잡겠다는 계획이다.&lt;br&gt;&lt;br&gt;24일 산림청 중앙사고수습본부에 따르면 이날 오전 5시 기준 밀양 산불 진화율은 51%다. &lt;br&gt;&lt;br&gt;총 화선은 5.8㎞로 2.95㎞는 진화가 완료됐고, 나머지 2.85㎞ 진화 작업을 위해 진화 인력 618명, 진화 차량 등 장비 159대가 현장에 투입돼 야간 진화 작업을 벌였다. &lt;br&gt;&lt;br&gt;하지만 불길이 확산세를 보이자 산림 당국은 오전 2시쯤 산불 대응 2단계로 격상했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYNYEFAKXFMCZAXI6NJDYEMJ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 새벽 산림청 산불특수진화대원이 경남 밀양시 삼랑진읍 검세리에서 발생한 산불을 끄기 위해 야간 진화 작업을 하고 있다. /산림청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산불 대응 2단계는 피해 면적이 100㏊ 이상이거나 평균 풍속이 초속 11ｍ 이상일 때, 진화에 걸리는 시간이 48시간 이상으로 예상될 때 등의 경우에 내려진다.&lt;br&gt;&lt;br&gt;앞서 오전 0시부터는 산불 현장 통합 지휘권자를 밀양시장에서 산림청장 직무대리로 전환했다. &lt;br&gt;&lt;br&gt;밤새 산불이 확산하면서 3개 마을 주민 및 요양병원 환자 등 184명이 삼랑진초등학교, 동양·배양마을회관 또는 자택으로 대피했다.&lt;br&gt;&lt;br&gt;다행히 인명피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;오전 7시쯤 일출 시간에 맞춰 헬기 31대가 순차적으로 공중 진화 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;현재 산불로 피해가 예상되는 면적은 축구장 174개 크기의 124㏊로 추정된다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ME4WEYZTMZSWKZDFGQ4WKNRRMI.jpg?auth=700304ba5eded286065f6cf730e32e94e2808b572430eb431d45545d0811ad98&amp;smart=true&amp;width=3864&amp;height=2593" type="image/jpeg" height="2593" width="3864">
+        <media:description type="plain">23일 오후 경남 밀양 삼랑진읍 검세리 한 야산에서 발생한 산불이 강풍에 확산되고 있다. 2026.2.23 ⓒ 뉴스1 윤일지 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">YOON1G</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울 강남 은마아파트서 화재...1명 사망, 3명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/24/3G4XOTHTU5GHPMLDDWM7CSJ3P4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/3G4XOTHTU5GHPMLDDWM7CSJ3P4/</guid>
+      <dc:creator>김병권 기자, 조민희 기자, 지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 23:20:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2MVYCVM6FAHBJDZUAXSCBAYDU.png"&gt;&lt;figcaption&gt;&lt;small&gt;24일 새벽 서울 대치동 은마아파트에서 화재가 발생해 1명이 숨지고 3명이 다쳤다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른 아침 서울 강남구 은마아파트에서 화재가 발생해 1명이 사망하고 3명이 다쳤다. 화재 발생 약 1시간 20분만에 불을 완전히 끈 소방 당국은 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;소방에 따르면, 24일 오전 6시 18분쯤 아파트 25동 8층에서 화재가 발생했다는 신고가 접수됐다. 소방당국은 이후 인력 143명과 장비 35대를 투입해 화재 발생 약 1시간 20분만인 오전 7시 36분쯤 완진을 했다.&lt;br&gt;&lt;br&gt;강남구에 따르면 이 불로 10대 여성 1명이 숨졌다. 또한 1명이 얼굴에 화상을 입고 2명이 연기를 마시는 등 부상자가 발생했음. 부상자들은 모두 생명에는 지장이 없는 상태다. 이외에도 약 70명이 대피했다고 한다. 소방은 현재 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ERZC2A4TVBFDPOBXB65GV2O2IU.png?auth=0c91473f4c1a707e0c41aca8eb446b7d51a61664f6aca6ae56deb069ab399eb6&amp;smart=true&amp;width=681&amp;height=906" type="image/png" height="906" width="681"/>
+    </item>
+    <item>
       <title>학폭 2명 영재고 탈락… 이제 고입에도 불이익</title>
       <link>https://www.chosun.com/national/education/2026/02/24/IHYJNB6YJJDCJNC4YKODFYRF6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/24/IHYJNB6YJJDCJNC4YKODFYRF6A/</guid>
@@ -806,15 +829,6 @@
 /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권·강원도 전역과 영남 일대 등에는 강풍주의보(육상에서 순간풍속 초속 20m 이상)까지 발효돼 산불 진화에 어려움을 겪었다. 경남 함양군 야산에서 21일 오후 9시 14분쯤 발생한 산불은 이틀째인 22일에도 완전히 잡히지 않고 있다. 이날 오후 10시 30분 기준 진화율은 40% 수준이다. 한때 66%까지 올랐지만, 강한 바람에 불이 계속 퍼진 것이다. 산불 확산에 주민 160여 명이 대피했으며, 축구장(7140㎡) 약 169개 크기의 산림을 태운 것으로 집계됐다. 산림 당국은 산불 대응 2단계를 발령했다. 진화 헬기 45대, 차량 31대, 진화 인력 533명 등을 동원했다. 서울 종로구 북한산 향로봉 9부 능선에선 21일 오후 7시 25분쯤 산불이 발생해 일대 450㎡(약 150평)를 태우고 4시간 만에 진화됐다. 22일 오후 7시 22분쯤 강원 고성군 토성면에서도 산불이 발생해 주민들이 대피했다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 21~22일 우리나라로 들어온 북서풍의 영향으로 우리나라 대부분 지역이 ‘산불 시한폭탄’ 상태에 놓였다. 22일 서울 전역에 건조주의보(이틀 이상 실효습도 35% 이하)가 발효되는 등 강원 영동 및 영남 대부분 지역, 경기·충남·전남 일부 지역에 건조주의보가 내려졌다. 여기에 바람까지 강해 작은 불씨가 큰불로 번질 수 있는 조건이 갖춰진 상황이다. &lt;br&gt;&lt;br&gt;강풍 피해도 이어졌다. 22일 오전 8시 30분 승객 170여 명을 태운 채 제주공항발 파라타항공 WE6712편은 목적지인 강원 양양공항에 두 차례 착륙을 시도하다 모두 실패한 뒤, 이날 오전 11시 김포공항에 착륙했다.&lt;br&gt;&lt;br&gt;이번 북서풍에는 흙먼지도 실려 왔다. 21일 고비사막과 내몽골고원에서 발생한 황사가 이 바람에 실려 국내로 유입되면서 22일 수도권을 시작으로 전국을 뒤덮었다. 그 결과, 전국 대부분 지역에서 미세먼지 농도가 ‘매우 나쁨’(1㎥당 151㎍ 이상)으로 올라갔다. 안개(지상~300m 구간)와 달리, 미세먼지는 지상에서부터 3㎞ 구간까지 형성되는 만큼 ‘매우 나쁨’ 수준의 미세먼지가 닥치면 하늘 전체가 탁해진다. 전국 대부분을 미세먼지가 덮은 것은 지난달 중순 이후 약 한 달 만이다.&lt;br&gt;&lt;br&gt;22일 서울의 평균 미세먼지 농도는 311㎍(22일 오후 2시 기준)까지 올라갔고, 한때 강동구(446㎍)와 서초구(460㎍)는 시간당 400㎍를 넘었다. 이에 서울시는 올해 첫 ‘미세먼지 경보’를 발령했다. 전북 익산은 한때 시간당 미세먼지 농도가 781㎍까지 치솟았다. 기후에너지환경부는 이날 전국에 각각 황사 위기 경보 ‘주의’(2시간 이상 300㎍ 이상) 단계를 발령했다. 미세먼지는 23일에도 전국이 ‘나쁨’ 수준을 유지할 것으로 보인다.&lt;br&gt;&lt;br&gt;산불과 가뭄 위험은 환절기에 접어들며 앞으로 내릴 눈·비의 양이 관건이 될 전망이다. 다행히 화요일인 24일엔 제주도 해상을 지나는 저기압의 영향으로 전국에 눈이나 비가 예보됐다. 예상 적설량은 경기 동부 1㎝, 강원도 1~8㎝, 충청 1~5㎝, 전북 1~5㎝, 영남 1~8㎝ 등이다. 예상 강수량은 수도권 5㎜, 강원도 5~10㎜, 충청 5~10㎜, 호남 5~30㎜, 영남 10~40㎜, 제주도 20~60㎜ 등이다. 제법 많은 양의 강수가 예고돼 해갈에 도움이 될 것으로 기대된다. 27일엔 남부 지방과 제주도에 비가 내리겠고, 27~28일 강원 영동엔 눈과 비가 예고됐다.&lt;br&gt;&lt;br&gt;한편 포근했던 주말을 지나 23일 출근길은 다시 쌀쌀해질 것으로 보인다. 23일 아침 최저기온은 영하 7∼영상 3도로, 전날보다 5∼15도가량 큰 폭으로 떨어지겠다. 낮 기온도 전날(8~22도)보다 크게 떨어진 3~13도 수준에 머물겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>산불 비상인데… 산림청장은 만취 운전으로 직권 면직</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/23/FKLEPVQARBAF3H33WKOXF4R654/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/FKLEPVQARBAF3H33WKOXF4R654/</guid>
-      <dc:creator>김지섭 기자, 김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 15:45:00 +0000</pubDate>
-      <content:encoded>김인호 산림청장이 산불 조심 기간에 ‘불금(불타는 금요일) 만취 운전’을 했다가 이재명 대통령으로부터 면직(免職) 처분을 받았다. 이재명 정부 들어 직권 면직된 고위 공직자는 지난해 12월 강형석 농림축산식품부 차관에 이어 이번이 두 번째다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VX2AXABENVDGLCAP2YMA3L4VKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김인호 산림청장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 정부와 경찰 등에 따르면, 김 전 청장은 지난 20일 오후 10시 50분쯤 술을 마신 채 차를 몰다가 자택인 경기 성남시 분당구 정든마을 아파트 단지 앞에 있는 신기사거리에서 버스·승용차 등 차량 2대를 잇달아 들이받은 혐의를 받고 있다. 당시 김 전 청장의 혈중알코올농도는 ‘면허 정지’ 수준이었다. 다만 현장에서 다친 사람은 없었다. &lt;br&gt;&lt;br&gt;김 전 청장은 조사 과정에서 자신이 “산림청장”이라고 밝혔고, 음주 측정에도 순순히 응한 것으로 알려졌다. 사고 당시 차에 같이 탄 사람은 없었다. 경찰 관계자는 “김 전 청장과 출석 일자를 조율해 조만간 자세한 경위를 조사할 방침”이라며 “나중에라도 부상자가 발생할 경우 교통사고처리특례법 위반 등 추가 혐의를 적용할 수도 있다”고 말했다. &lt;br&gt;&lt;br&gt;김 전 청장은 이번 사고로 6개월 만에 불명예 퇴진하게 됐다. 김 전 청장은 신구대 환경조경학과 교수 출신으로 더불어민주당 정책위원회 부의장과 환경교육혁신연구소장 등을 거쳐 새 정부 출범 후인 지난해 8월 임명됐다. 당시 김 전 청장은 국민추천제 홈페이지에 이 대통령의 과거 성남시장·경기지사 시절 인연을 부각하는 내용의 ‘셀프 추천서’를 등록한 뒤 임명된 것으로 알려져 논란이 일기도 했다.&lt;br&gt;&lt;br&gt;한편 이번 사고는 산림청이 ‘산불 조심 기간’으로 선포한 기간(1월 20일~5월 15일)에 발생한 것이어서 해이해진 조직 기강에 대한 비판도 커질 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [뉴스 속 신화] 신화 속 천하장사… 로봇·산맥 이름으로 부활했죠</title>
       <link>https://www.chosun.com/national/nie/2026/02/23/7WWT7BUE2NEEVBLLJUXMDXBZLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/23/7WWT7BUE2NEEVBLLJUXMDXBZLI/</guid>
@@ -950,15 +964,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/WNZCUPJDVRF35HHI4MBXZYE5IE.jpg?auth=7586fbb2f0877a363013a795b2bbc871001fb24b578b0ee4eccf5f3dc76ff797&amp;smart=true&amp;width=5507&amp;height=3671" type="image/jpeg" height="3671" width="5507">
         <media:description type="plain">19일 오후(현지시간) 이탈리아 밀라노 삼성 하우스가 마련된 건축물 '팔라초 세르벨로니'에서 2026 밀라노 코르티나담페초 동계올림픽 스노보드 빅에어 동메달리스트 유승은이 본지와의 인터뷰를 갖고 있다. 밀라노=장련성 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 2월 21일</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/21/7B3BIRAJJJEV5BG7H5PZ2EL6B4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/7B3BIRAJJJEV5BG7H5PZ2EL6B4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Feb 2026 15:40:00 +0000</pubDate>
-      <content:encoded>전국 대체로 포근한 봄 날씨&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGLXNV5FIBBHVG3ST44OT5BVOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
