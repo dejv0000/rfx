@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 2월 24일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/23/ZTO4AC6MOZFNFIH3EC2LZXXJ4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/23/ZTO4AC6MOZFNFIH3EC2LZXXJ4Q/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 14:31:00 +0000</pubDate>
+      <content:encoded> 전국에 눈·비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XL55TQAVP5DCNLB4VYSIOCGSDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 2시간 반 회의 끝에...‘尹 무기징역’ 항소키로</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/FV2FE62WOZFUXFT46CYO6WY4LI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/FV2FE62WOZFUXFT46CYO6WY4LI/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 13:17:52 +0000</pubDate>
+      <content:encoded>12·3 비상계엄과 관련해 윤석열 전 대통령이 내란 혐의 재판 1심에서 무기징역을 선고받은 데 대해 조은석 내란특검팀이 23일 항소 방침을 정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43WMYRRHBTDCNLGGJTDCYJWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오후 6시부터 약 2시간 반 동안 내부 회의를 연 뒤, 양형 부당과 법리 오해를 이유로 항소하기로 결정했다. 조 특검과 특검팀은 회의에서 1심 판결문을 분석하고 항소 여부와 대상, 사유 등을 함께 논의한 것으로 전해졌다. 특히 이날 회의에서는 법원이 윤 전 대통령의 계엄 선포 결심 시점을 2024년 12월 1일로 본 부분을 수긍하기 어렵다는 의견이 다수 나왔던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사25부(재판장 지귀연)는 지난 19일 윤 전 대통령의 내란 우두머리 1심 선고공판에서 윤 전 대통령에게 무기징역을 선고했다. 재판부는 12·3 비상계엄이 형법상 내란죄에 해당한다고 인정했지만, 계엄 선포 경위와 관련해 ‘2023년 10월 이전부터 계엄을 준비했다’는 특검팀의 공소 사실은 대부분 배척했다. 대신 재판부는 윤 전 대통령이 계엄 이틀 전인 12월 1일 계엄 선포에 대한 결심을 굳히고 세부적인 내용을 김용현 전 국방부 장관에게 일임했다고 판단했다.&lt;br&gt;&lt;br&gt;특검팀은 김용현 전 국방부 장관과 노상원 전 국군정보사령관 등 다른 피고인들의 1심 선고에 대해서도 항소할 방침이다. 내란중요임무종사, 직권남용 권리행사방해 혐의로 기소된 김 전 장관에게는 징역 30년이 선고됐다. 같은 혐의를 받는 노 전 사령관에게는 징역 18년이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“전한길 콘서트 대관 말라” 김동연 지시에 킨텍스 취소</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/YY2KS67UXJFEPFSHOCETHPH47A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/YY2KS67UXJFEPFSHOCETHPH47A/</guid>
+      <dc:creator>수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 13:17:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FISPYIMOURCSZCEAQRT7NK7ULE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달 2일 경기 고양 킨텍스에서 예정된 이른바 ‘전한길 콘서트’의 대관 승인이 취소됐다.&lt;br&gt;&lt;br&gt;23일 경기도에 따르면 김동연 경기도지사는 이날 오후 이민우 킨텍스 대표이사에게 ‘3·1절 기념 자유음악회’에 대한 대관 취소를 강력히 촉구했다. 경기도는 킨텍스 지분의 33.74%를 가지고 있다.&lt;br&gt;&lt;br&gt;김 지사는 이날 페이스북에 올린 글에서 “‘윤 어게인’ 극우 망상 세력이 활개치도록 내버려 둬선 안된다”며 “경기도에선 더더욱 용납할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 이 대표이사는 대관 취소를 통보했다. 이 대표이사는 “3·1절 행사로 알고 대관 계약을 맺었지만, 정치적 행사로 보여 대관 취소를 고민했는데 김 지사의 요구도 있어 오늘 저녁 계약을 맺은 곳에 대관 취소를 문서로 통보했다”고 했다.&lt;br&gt;&lt;br&gt;킨텍스 규정상 ‘사회적 통념상 수용하기 어렵다고 판단되는 행사 등’에 대해선 행사장소 배정을 제한할 수 있다는 게 이 대표이사의 설명이다.&lt;br&gt;&lt;br&gt;앞서 유튜브 채널 ‘전할길 뉴스’는 다음 달 2일 고양시 킨텍스에서 열리는 ‘3.1절 기념 자유음악회’를 홍보하며 이재용 전 MBC 아나운서, 가수 태진아 등 출연진의 사진이 담긴 포스터를 게재했다.&lt;br&gt;&lt;br&gt;하지만 가수 태진아와 이 전 아나운서는 ‘전한길씨와 연관된 행사인 줄 몰랐다’, ‘정치적 행사를 일반 행사로 속였다’며 불참 의사를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 엘리엇 상대 판정 취소 승소... 1600억 배상 책임 면해</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/FSWYJTQ7XNDJ5LXEOUWC4W5DRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/FSWYJTQ7XNDJ5LXEOUWC4W5DRE/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 11:00:50 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNRBKXUWNJMHLIMK4FW47UKMJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 23일 오후 서울 종로구 정부서울청사에서 열린 '대한민국 정부 엘리엇 국제투자분쟁(ISDS) 중재판정 취소소송 승소' 브리핑을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국 정부는 23일 오후 7시 30분쯤 미국계 사모펀드 엘리엇을 상대로 한 국제투자분쟁(ISDS) 사건 중재 판정의 영국 법원 취소소송에서 승소했다고 밝혔다. 이에 따라 정부는 약 1600억원(올 2월 기준)에 이르는 배상 책임을 면하게 됐다.&lt;br&gt;&lt;br&gt;정부는 영국 법원이 한국 정부의 주장을 받아들여 국민연금공단이 국가기관임을 전제로 한 앞선 중재 판정의 판단을 취소했다고 설명했다.&lt;br&gt;&lt;br&gt;앞서 엘리엇은 옛 삼성물산의 주주로서 반대했던 2015년 삼성물산-제일모직 간 합병이 성사되자 국민연금공단의 합병 찬성 의결권 행사 등을 이유로 2018년 7월 12일 한-미 자유무역협정(FTA)에 근거한 ISDS를 제기했다. 이에 국제상설중재재판소(PCA)는 2023년 6월 “한국 정부가 엘리엇에 690억원과 지연 이자·법률 비용 등 총 1300억원을 지급하라”고 판정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Z4YNND3G7NPZWXIEBC4WKPOMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국계 사모펀드 엘리엇매니지먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 정부는 PCA가 국민연금을 국가기관으로 간주해 한국 정부의 압력 행사로 인한 엘리엇 측의 손해를 인정한 중재 판정을 받아들일 수 없다며 2023년 7월 중재지인 영국 법원에 중재판정 취소 소송을 냈다. 1심인 영국 고등법원은 2024년 8월 한국 정부 소를 각하했지만, 2심인 영국 항소법원은 “한국 정부가 주장한 취소 사유는 적법하다”면서 2025년 7월 사건을 1심 법원으로 돌려 보냈다. 이날 환송심에서도 한국 정부가 다시 승소한 것이다.&lt;br&gt;&lt;br&gt;정부는 이번 판결로 정부의 배상 책임을 인정한 기존의 원 중재판정은 더는 유지될 수 없게 됐고, 사건은 중재절차로 다시 환송됐다고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 정부는 이날 판정 결과에 대해 “영국 법원의 중재판정 최근 2년간 취소 인용율 3%를 넘어선 성과”라고 평가하고, 엘리엇 측의 항소 제기 가능성에도 대비하겠다고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DJZTT7GWQZGENOWENS4FPISYAI.jpg?auth=bd88792cdb6eb5bd7700410000c76dfc7a968c73f4e984eba9401553a93fa35e&amp;smart=true&amp;width=5326&amp;height=2996" type="image/jpeg" height="2996" width="5326">
+        <media:description type="plain">[서울=뉴시스] 김명년 기자 = 정성호 법무부 장관이 23일 오후 서울 종로구 정부서울청사에서 열린 '대한민국 정부 엘리엇 국제투자분쟁(ISDS) 중재판정 취소소송 승소' 브리핑을 하고 있다. 2026.02.23. kmn@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">kmn</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>김현태·구삼회 등 계엄관여 군인 사건, 중앙지법 내란재판부 배당</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/ZH7QOAJ2KJGO5NZPZGNKQRXO6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/ZH7QOAJ2KJGO5NZPZGNKQRXO6M/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 10:42:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BW4D5BNU6XKEIWJEDH4GXOT34Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 관여해 내란 중요 임무 종사 혐의로 기소된 김현태 전 특전사 707특수임무단장(대령), 구삼회 전 2기갑여단장(준장) 등 군인들 사건이 서울중앙지법 내란전담재판부에 23일 배당됐다. 내란전담재판부는 윤석열 전 대통령 등의 내란·외환·반란죄 사건을 전담해 심리하는 재판부다.&lt;br&gt;&lt;br&gt;서울중앙지법은 이날 육군 특전사 김현태 전 단장과 이상현 제1공수특전여단장(준장) 등 군인 6명 사건을 형사37-2부(재판장 오창섭)에 배당했다. 이들은 계엄 당시 곽종근 특전사령관의 지시를 받아 국회를 봉쇄하고, 국회에 병력을 들여보낸 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들과 함께 기소된 김대우 전 방첩사 수사단장(준장)은 정치인 체포조 운영에 가담한 혐의를 받고 있다. 정보사 고동희 전 계획처장(대령)과 김봉규 전 중앙신문단장(대령), 정성욱 전 100여단 2사업단장(대령)은 중앙선거관리위원회를 점거한 뒤 직원들을 체포·구금하려 한 혐의다.&lt;br&gt;&lt;br&gt;중앙지법은 이와 함께 구삼회 전 육군 2기갑여단장과 방정환 전 국방부 전작권전환TF장(준장) 등 군인 8명 사건은 형사38-1부(재판장 장성진)에 배당했다. 이들은 계엄 당시 부정선거 의혹을 수사할 비선 조직인 ‘제2수사단’ 관련 임무를 받는 등 이에 관여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 내란 관련 항소심을 맡을 서울고법 내란전담재판부도 가동됐다. 서울고법은 윤 전 대통령의 체포 방해 사건 2심을 형사1부(재판장 윤성식)에, 한덕수 전 국무총리의 내란 중요 임무 종사 사건 2심을 형사12-1부(재판장 이승철)에 배당했다. 이상민 전 행정안전부 장관의 내란 중요 임무 종사 사건 2심은 아직 배당이 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전한길 콘서트 가수들 줄줄이 “내용 못 들어, 출연 안 한다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/PF4CR5T7ENBRHJGGMFOA5NUCRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/PF4CR5T7ENBRHJGGMFOA5NUCRU/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 12:39:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGJX6VM23BD3ZB2ZUVC2BCOJYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 강사 출신 유튜버 전한길씨와 그가 주도하는 ‘3·1절 기념 자유음악회’ 포스터. /뉴시스, 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사 강사 출신 유튜버 전한길씨가 주도하는 3·1절 기념 콘서트에 출연한다고 알려진 가수들이 잇따라 무대에 서지 않는다는 입장을 전했다.&lt;br&gt;&lt;br&gt;전씨는 22일 유튜브 채널을 통해 3월 2일 경기도 고양시 킨텍스에서 ‘3·1절 기념 자유음악회’를 개최한다고 홍보했다. 그가 공유한 행사 포스터엔 가수 태진아, 뱅크, 윤시내, 조장혁, 더클랑, 자유밴드, 정민찬, 정찬희의 사진과 이름이 포함됐고 이재용 아나운서가 사회자로 소개돼 있었다. 전씨는 이들을 언급하며 “애국 연예인들이 온다”고 소개했다.&lt;br&gt;&lt;br&gt;뱅크는 23일 유튜브 채널 ‘뱅크 채널’에 짧은 영상을 올리고 해당 콘서트에 참여하지 않는다고 밝혔다. 그는 “행사가 있었는데 정치적 성향이 있는 행사였다. 정치적이란 걸 알고는 출연을 안 한다. 이쪽이건 저쪽이건 마찬가지”라며 “내 음악을 해달라는 게 순수한 거라면 가서 한다. 이번엔 기획팀이 사전에 설명해야 하는 부분을 못 했다. 절차적 부분에서 실수가 있었다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW36PMHNQZB67CDW5MQS2LANRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;발레리노 출신 가수 정민찬이 올린 글(왼쪽). 오른쪽은 가수 뱅크가 콘서트에 출연하지 않겠다는 입장을 전하는 모습. /인스타그램, 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 출연진 공개 후 일부 네티즌 사이에서 소란이 일었던 것을 두고 “사람들이 ‘극우’라고 하는데 내 정치적 견해를 내 입으로 밝히기 전엔 본인들이 생각하고 떠들지 않았으면 좋겠다. 만약 정치적 성향을 내 입으로 말한다면 그 부분에 대한 후회나 결심이 흐트러지지 않는다”며 “근데 이건 여러분들 생각이다. 이 채널에선 정치적인 이야기 안 하고 무조건 차단할 것”이라고 했다.&lt;br&gt;&lt;br&gt;발레리노 출신 가수 정민찬도 이날 인스타그램 스토리에 포스터를 첨부한 뒤 “팬분들과 지인들에게 걱정을 끼쳐드린 것 같다. 출연 제의를 받은 건 맞지만 취지에 대한 내용은 들은 바 없다” 고 해명했다. 그러면서 “3·1절 기념행사로만 알고 있었다. 아무런 말도 없이 포스터 제작을 한 것도 저는 이제 알았다”며 “이번 행사와 아무런 관련도 관심도 없다. 출연 안 하니까 걱정 마시라”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZFWVEHWUNEX7LODAGKFTKDQCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소프라노 정찬희가 콘서트에 출연하지 않는다며 올린 글. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소프라노 정찬희 역시 페이스북에 글을 써 출연 사실을 부인했다. 정찬희는 “저는 이 공연에 출연하지 않는다. 구두로 3·1절 음악회 출연 부탁을 받아서 하기로 했는데, 포스터를 이틀 전 지인이 보내줘 알게 됐고 출연하지 않는 것으로 했다”며 “이미 출연을 안 하기로 한 공연이라 따로 설명하지 않아도 될 거라 생각했는데 아껴주시는 분들이 연락 주셔서 설명드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 앞서 태진아 측은 포스터 공개 당일 즉각 입장문을 내 법적 대응을 예고하는 등 불쾌감을 드러낸 바 있다. 소속사 진아엔터테인먼트는 “행사 관계자가 거짓말로 속여 태진아에게 일정을 문의한 후 일방적으로 행사 출연을 기정사실화해 버린 일”이라며 “지방선거를 앞둔 상황이라 정치 관련 행사가 아닌지 의문이 들어 물었지만 ‘그냥 일반 행사’라고 답변했다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “정치적 행사를 일반 행사라고 거짓말로 속여 일정을 문의한 관계자를 현재 명예훼손으로 고소·고발할 예정”이라며 “정확한 사실 확인도 없이 유튜브 방송으로 태진아의 사진을 허락 없이 사용한 ‘전한길 뉴스’에 대해서도 법적 대응을 준비 중에 있다”고 밝혔다. 이 외에 이재용 아나운서도 정치적 행사라는 고지를 받지 못한 상태에서 음악회 사회만 수락했던 것이라며 출연설을 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>운해장학재단, 이공계 대학생 등 698명에게 장학금 53억 지원</title>
+      <link>https://www.chosun.com/national/regional/2026/02/23/XYWVMDS2MFHUTPWI7GK6YHGFHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/23/XYWVMDS2MFHUTPWI7GK6YHGFHY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 11:13:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YERG7HNU4NGC5BZBK27BFLXK3Q.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;운해장학재단은 23일 경남 창원컨벤션센터에서 장학증석 수여식을 열었다. 사진은 장학생 등 참가자들이 기념사진을 촬영하고 있는 모습. /SNT모티브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운해장학재단(이사장 최평규)은 23일 경남 창원컨벤션센터(CECO)에서 올해 새로 선발한 장학생 698명에게 장학증서를 수여했다고 밝혔다. 지급된 장학금은 총 53억3500만원이다.&lt;br&gt;&lt;br&gt;운해장학재단은 2013년 최평규 SNT 회장과 SNT다이내믹스, SNT모티브가 100억원씩 출자해 총 300억원 규모로 설립한 공익법인이다.&lt;br&gt;&lt;br&gt;이공계 우수 대학생 등을 대상으로 한 ‘운해장학생’ 620명에게 1인당 800만원을 지원했다.&lt;br&gt;&lt;br&gt;특히 재단은 올해 대학원생과 장애 학생 지원 사업을 신설했다. 로보틱스와 SMR(소형모듈원자로), K-방산 분야 등 미래 핵심기술분야를 연구개발하는 대학원생 3팀을 선정해 팀당 1억원을 지급했다. 또 특수학교에 재학 중인 장애 학생 75명에겐 ‘행복 장학금’으로 1인당 100만원을 지원했다.&lt;br&gt;&lt;br&gt;운해장학재단이 설립 이후 지금까지 지급한 장학금 규모는 총 167억원으로 늘어났으며, 선발된 장학생은 총 2176명이다.&lt;br&gt;&lt;br&gt;최평규 이사장은 “장학생 세대가 퍼스트 무버(First Mover)로서 경제산업, 국방안보, 첨단기술, 문화예술 분야에서 ‘위대한 대한민국’을 건설하는 담대한 도전에 나서달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원행정처장 “법 왜곡죄, 악용될 위험...위헌적 요소 있어”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/23/WXGAUJTNRJDCZHVMVDV6WCZEHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/WXGAUJTNRJDCZHVMVDV6WCZEHU/</guid>
@@ -550,33 +617,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQLOO5VXJNABDKLH5R4QXHXKR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몇 년 전 이맘때 스페인 여행을 갔을 때 아몬드나무 꽃이 인상적이었습니다. 특히 스페인 남부 도시 론다의 ‘누에보 다리’ 협곡엔 아몬드꽃이 만개해 정신없이 사진에 담은 기억이 있습니다. 아몬드나무는 낙엽이 지는 나무로 4~10m로 자랍니다. 꽃은 지름 3~5㎝ 정도인데 꽃잎 5개가 흰색이나 옅은 분홍색으로 핍니다.&lt;br&gt;&lt;br&gt;만개한 아몬드꽃은 멀리서 보면 벚꽃 같기도 하고 살구꽃 같은 느낌도 줍니다. 가까이 가서 보면 꽃이 꽃줄기 없이 가지에 붙은 게 매화 같은 느낌도 주지요. 아몬드나무가 매실나무·벚나무·살구나무 등과 같은 벚나무속(Prunus)이니 꽃도 당연히 비슷하겠죠? 꽃이 진 자리에 맺히는 열매가 우리가 먹는 아몬드입니다.&lt;br&gt;&lt;br&gt;열매 아몬드는 익숙하지만, 아몬드나무는 우리나라에 없답니다. 시리아·튀르키예 등 건조한 중동 지방이 원산지죠. 유럽과 중동 등 지중해 연안에서는 겨울을 이겨내고 추위가 채 가시기 전에 꽃이 핀다고 합니다. 우리나라로 치면 매화 정도인 셈이죠. 이스라엘에서도 아몬드나무는 2월 전후 가장 먼저 꽃이 피는 나무입니다.&lt;br&gt;&lt;br&gt;성경에는 제사장이 누구인지 두고 다툼이 벌어지자 각 지파 대표가 지팡이를 내어 하룻밤 동안 성막에 두는 이야기가 나옵니다. 다음 날 아론의 지팡이에서만 꽃이 피었습니다. 한국어 성경에는 이를 살구나무 지팡이로 옮겼지만 성경에 나오는 살구나무는 실제로는 일찍 꽃이 피는 아몬드나무를 가리킨다고 해요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UB7G46PWCFAQTHQ4B3MQWPOVKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스페인은 아몬드 재배의 원조 국가입니다. 스페인에서는 언덕 등 야생에서 자라는 아몬드나무도 적지 않았습니다. 지금은 미국 캘리포니아가 가장 큰 아몬드 생산지이지만 이 아몬드나무도 스페인 출신 프란체스코회 신부들이 1700년대에 가져다 심은 것이라고 합니다.&lt;br&gt;&lt;br&gt;아몬드꽃은 빈센트 반 고흐의 그림에도 등장합니다. 고흐가 남프랑스 아를과 생레미에 살면서 아몬드꽃 시리즈를 그린 시기는 2월이었답니다. 이 그림은 1890년 동생 테오가 아들을 낳았다는 편지를 받고 고흐가 조카의 탄생을 축복해 주려고 그린 작품이었습니다. 푸른 하늘을 배경으로 하얀 아몬드 꽃이 만발한 큰 가지들을 그린 그림입니다.&lt;br&gt;&lt;br&gt;윤대녕 소설 ‘피에로들의 집’엔 고흐의 아몬드꽃 그림이 중요한 소재로 나오고 있습니다. 소설은 실패한 연극인이 서울 성북동의 ‘아몬드나무 하우스’에 입주하는 것으로 시작합니다. 주인공은 우연히 이 집의 집사 겸 건물 1층 북카페 운영자를 맡아달라는 제의를 받습니다. 처음엔 내키지 않았지만 북카페에 고흐의 그림 ‘꽃 핀 아몬드나무’가 걸려 있는 것을 보고 포근한 느낌이 들어 제의를 받아들입니다.&lt;br&gt;&lt;br&gt;손원평 소설 ‘아몬드’도 있는데요. 우리 뇌에는 감정을 처리하는 편도체(扁桃體)라는 부위가 있는데, 이 편도체가 작아 분노도 공포도 잘 느끼지 못하는 소년 얘기입니다. 편도체는 생긴 모양이 아몬드를 닮았다고 해서 이런 이름이 붙었어요. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2811] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2026/02/23/MGV3NLB2CJCKTBSN7EALWJXW2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/02/23/MGV3NLB2CJCKTBSN7EALWJXW2E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7HPBTYYFREELDOZE7ISYBGMW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 회복하다, 정신을 차리다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/02/23/6RZJCYPGNVA2PBZVUMPNJEA7AA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/02/23/6RZJCYPGNVA2PBZVUMPNJEA7AA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TFXP345IJDWJKV67WHSECIQUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 논의가 무르익다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/02/23/N7KIRPBANFGDFETMNVPP7NFDUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/02/23/N7KIRPBANFGDFETMNVPP7NFDUM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5V2NAOOF4NCDLOREUVAAHKC55Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 위증(僞證)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2026/02/23/H6OFYUFONZD5JCWDPNOR32LVSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/02/23/H6OFYUFONZD5JCWDPNOR32LVSM/</guid>
@@ -586,15 +626,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEFOOL3BBNDMFGBQZCNKZDHGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] uphill battle</title>
-      <link>https://www.chosun.com/national/nie/english/2026/02/23/5IM55OXHWJGGJJUPJ5DSUUBG7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/02/23/5IM55OXHWJGGJJUPJ5DSUUBG7U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IH5FTBHJCFDGNEAPV5VCYPC3O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2026년 2월 23일</title>
       <link>https://www.chosun.com/national/transport-environment/2026/02/22/3ZCIFTL5LFC67POHVUXYVIT2IU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/22/3ZCIFTL5LFC67POHVUXYVIT2IU/</guid>
@@ -602,15 +633,6 @@
       <description/>
       <pubDate>Sun, 22 Feb 2026 14:35:00 +0000</pubDate>
       <content:encoded>아침부터 다시 추워져&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEFWYX2A6JFHVMF33NC3D7GQA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강풍 타고 400m 번진 고성 산불…소방 “큰 불 잡아” </title>
-      <link>https://www.chosun.com/national/incident/2026/02/22/KD4ZBO6WIBD4LOEJOLMEDXD4GU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/22/KD4ZBO6WIBD4LOEJOLMEDXD4GU/</guid>
-      <dc:creator>김현수 기자, 고성=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 11:19:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/264GMDFVXVOLRJ2B25VNE563KY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 7시 22분쯤 강원 고성군 토성면에서 산불이 발생해 주민 대피 조치가 이뤄진 가운데 소방 당국이 대응 2단계 발령하고 인력과 장비를 동원해 진화 작업을 벌이고 있다./강원소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오후 7시 22분쯤 강원 고성군 토성면 인흥리 한 야산에서 불이 났다. 불이 나자 소방당국은 오후 7시 34분 대응 1단계, 오후 8시 32분 대응 2단계를 발령하고 진화 작업을 벌이고 있으나 강풍으로 진화에 어려움을 겪고 있다. 불이 난 곳엔 초속 5m의 강풍이 불고 있으며 화선이 능선을 따라 200m 가량 이어져 있는 상황이다.&lt;br&gt;&lt;br&gt;고성군은 불이 나자 오후 8시 5분쯤 인흥리 1·2·3리 주민들에게 인흥초등학교 등으로 대피하라는 안내 문자를 발송했다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “현재 주불 진화는 90% 정도 진행된 상태”라며 “야간 내 주불 진화를 마치는 게 목표”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFVKUXFRHNHY7LFFT5EGHF3MQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고성 산불 현장. /강원특별자치도소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>태진아 “전한길 콘서트 출연 사실 아냐… 법적 대응 준비 중”</title>
@@ -624,15 +646,6 @@
         <media:description type="plain">(서울=뉴스1) 국회사진취재단 = 가수 태진아가 10일 오전 서울 여의도 국회에서 열린 제20대 윤석열 대통령 취임식에 참석하고 있다. 2022.5.10/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 국회사진취재단</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>KBL의 ‘외인 세금 대납’… 결국 문제 터졌다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/YKB7IKVUHBAG3MGQRSYM76PBXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/YKB7IKVUHBAG3MGQRSYM76PBXM/</guid>
-      <dc:creator>이태동 기자, 양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 15:43:00 +0000</pubDate>
-      <content:encoded>시즌이 한창인 프로농구가 ‘세금’과 ‘소송’ 문제로 어수선하다. 귀화 선수로 국가대표까지 지낸 라건아(36·한국가스공사)가 전 소속팀인 KCC를 상대로 자신이 납부한 종합소득세 3억9800만원을 보전해 달라고 지난달 법원에 소송을 냈기 때문이다. 이에 KCC 측은 “현 소속팀인 가스공사가 라건아에게 물어줘야 한다”며 맞서고 있다. 라건아는 왜 자신이 낸 세금을 친정팀에 달라고 하고, KCC는 왜 현 소속팀에 화살을 돌리는 것일까. 라건아가 제기한 소송으로 KBL의 외국인 선수 계약 제도와 세금 대납 관행이 도마에 올랐다. &lt;br&gt;&lt;br&gt;라건아는 2018년 1월 ‘특별 귀화’로 한국 국적을 취득해 2019년부터 2024년까지 KCC에서 뛰었다. 이 시기 그의 계약 조건은 국내 선수와도 다르고, 다른 외국인 선수와도 달랐다. ‘특별한 합의’에 따라 소속팀인 KCC와 KBA(대한민국농구협회), KBL 등 세 곳이 라건아가 내야 할 세금을 대신 부담했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZX3IGHTY5VC6PAQOWANP6JV2HU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WF5DIMPQWNAMDC2V3BQPYHMLFU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 2024년 5월 ‘특별 귀화’ 선수란 신분에 변화가 생겼다. 라건아가 흔히 ‘용병’이라고 부르는 일반 외국인 선수가 된 것이다. KBL은 2023년 3월 이사회에서 외국인 선수 계약 시 세금을 제외한 금액(net)으로 연봉을 주기로 의결했다. 계약서에 쓰인 연봉 전액을 지급하고, 외국인 선수가 내야 할 소득세와 이듬해 5월 추가로 신고하는 종합소득세 차액까지 모두 구단이 대납한다. KBL 이사회는 또 ‘라건아를 새로 영입하는 구단이 2024년 1~5월분 세금을 낸다’고 정리했다. 이 같은 내용은 회의록에도 적힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한국을 떠나 중국과 필리핀 리그에서 뛴 라건아는 1년 만인 올해 6월 다시 돌아와 가스공사에 입단했다. 그런데 가스공사는 KBL 이사회 의결 내용을 따르지 않고 계약서에 ‘라건아가 직접 세금을 낸다’는 조건을 담았다. 라건아를 탐내던 다른 팀들이 세금 대납이 부담돼 영입을 포기한 것과 다른 행보였다. &lt;br&gt;&lt;br&gt;가스공사와 연봉 40만달러(약 5억9000만원)에 계약한 라건아는 작년 소득에 대한 종합소득세 3억9800만원을 납부했다. 라건아는 일단 세금을 낸 뒤 작년 초 자신에게 연봉을 지급한 KCC로부터 세금 비용을 돌려받을 계획이었다. 그러나 KCC가 돈을 주지 않자 소송을 시작한 것이다. KCC는 “(KBL 이사회) 합의대로 가스공사가 라건아의 세금을 내줘야 한다”는 입장이다. 이에 라건아 측은 다시 “내 의사와 상관없이 (귀화 선수에서) 외국인 선수로 신분이 바뀌었는데, KBL 합의가 무슨 소용이냐”며 반발하고 있다.&lt;br&gt;&lt;br&gt;구단이 선수가 물어야 할 세금을 사실상 대납하는 KBL의 제도에 문제는 없을까. 전문가들 대다수는 “위법 소지가 없다”는 의견이다. 서병규 회계법인 브릭스 회계사는 “흔하진 않지만, 규정 자체는 문제가 되지 않는다”며 “다만 구단이 대납하는 세금도 선수의 소득으로 잡히기 때문에 신고·납부 의무를 이행해야 한다”고 말했다. 이를 지키지 않으면 세무 조사에 따라 종합소득세 추징 등 문제가 발생할 수 있다. 방준영 세무회계여솔 세무사는 “프로농구처럼 구단이 세금을 부담하는 계약은 장기 계약, 고액 연봉 계약, 이적 시 구조적으로 분쟁이 생길 수밖에 없다”며 “앞으로 제2, 제3의 라건아 분쟁이 생길 것”이라고 했다. &lt;br&gt;&lt;br&gt;국내 다른 프로 스포츠에선 외국인 선수 보수 지급과 관련한 복잡한 관행이 거의 사라졌다. 프로야구, 프로축구, 프로배구 모두 외국인 선수와 ‘세전’ 기준으로 계약하고, 원천징수 방식으로 세금을 물린다. 원천징수 세율은 22%(소득세 20%+지방소득세 2%)이고, 이듬해 5월 종합소득세 신고 때 추가로 세금을 정산한다.&lt;br&gt;&lt;br&gt;가령 올해 프로야구 MVP 투수 코디 폰세(한화)는 연봉 100만달러를 받았다. 원천징수로 22만달러(22%)를 세금으로 낸 폰세는 원래대로라면 내년 5월 종합소득세 신고를 해야 한다. 연봉이 10억원을 넘기 때문에 누진세율 45%를 적용받고, 이미 납부한 세액만큼을 제한 추가 세금을 내야 한다. 그러나 폰세는 미국 메이저리그 무대에서 뛰기 위해 이미 한국을 떠났기 때문에 현실적으로 세무 당국이 종합소득세를 물릴 방도가 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김병기, 26·27일 경찰 소환 조사...불법 선거자금 등 13개 의혹</title>
@@ -750,15 +763,6 @@
       <description/>
       <pubDate>Sun, 22 Feb 2026 03:02:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YR7X5XWV5ZEHNLRFBRT5RX4OQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학술지원사업에 선정돼 연구비를 지원받았으나 연구 기간 동안 미국에 체류한 연구자의 연구비를 환수한 교육부 처분이 정당하다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 국악 관련 박사학위를 취득한 국악이론 연구자 A씨가 교육부 장관을 상대로 낸 참여 제한 처분 등 취소 소송에서 원고패소로 판결한 원심을 확정했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2019년 6월 한국연구재단이 공고한 학술지원사업에 응모해 대상자로 선정됐다. 약 한 달 뒤 A씨는 개인적인 사정으로 미국으로 출국했고, 2021년 5월까지 체류하며 연구 과제를 수행했다. 교육부는 A씨가 학술지원사업 관련 협약을 위반했다며 연구비 6600만원을 환수했고, A씨는 이에 불복해 환수 처분 취소 소송을 제기했다.&lt;br&gt;&lt;br&gt;A씨는 한국연구재단의 ‘허가 없는 해외 장기출장’을 담은 과제관리 안내서가 지원사업 공고 당시 개정중이라 안내를 받지 못했다고 주장했다. 한국연구재단이 과제관리 안내서에 관해 설명할 의무가 존재함에도 이 같은 내용을 설명하지 않았다며, 과제관리 안내서를 계약 내용으로 볼 수 없다고 주장하기도 했다. 또 과제관리 안내서는 ‘해외 출장’의 경우에만 허가를 요구하고 있기에 출장이 아닌 ‘해외 체류’는 허가가 필요 없다고 반박하기도 했다. &lt;br&gt;&lt;br&gt;1심은 교육부에 연구비 환수 처분을 취소하라고 판단했다. 재판부는 교육부가 제출한 증거들만으로는 학술지원사업 관련 협약이 A씨의 해외 체류를 금지한다고 보기는 어렵다고 봤다. 지원사업 공고가 연수기관을 국내 대학으로 제한했으나 신청자의 거주지에 관한 요건은 정하지 않았고, 연구수행 관련 출장에 허가가 요구된다는 이유만으로 A씨의 사적인 해외 체류까지 승인을 얻어야 한다고 볼 수 없다고 판단했다. 학술지원사업 관련 연구가 물리적 출근을 요구하지 않아 해외 체류 때문에 과제물 창출이 불가하거나 어려움이 존재한다고 볼 이유도 없다고 설명했다.&lt;br&gt;&lt;br&gt;2심은 판결을 뒤집고 A씨의 청구를 기각했다. 재판부는 A씨가 해외에 체류하면서 과제를 수행한 건 협약을 위반한 게 분명하다고 판단했다. 재판부는 공고 내용에 적힌 문구인 ‘박사 후 국내연수’는 ‘박사 후 국외연수’와 달리 국내연수기관에서 연구과제 수행을 전제로 하는 것이기에, 연수기관의 지리적 위치와 연구과제의 수행방법을 분리해 별개로 파악할 수 없다고 봤다. A씨가 해외에서 과제 수행에 필요한 자료 수집이 가능했다고 하더라도 이를 국내연수로는 볼 수 없으며, A씨가 연구기간 내내 지도교수와 연수기관의 장, 한국연구재단의 승인을 받지 않은 채 해외에서 체류하며 과제를 수행한 것 역시 협약 위반이라고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 A씨의 상고를 기각하고 교육부의 처분이 정당하다고 판단했다. 대법원은 “A씨가 연구 기간 중 대부분의 시간을 해외에 체류한 것을 협약 위반이라고 본 결론은 정당하다”며 “원심의 판단에 협약의 해석 및 적용에 관한 법리를 오해하거나 이유모순, 채증법칙 위반, 심리미진 또는 판단누락 등으로 판결에 영향을 미친 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 경산 자동차 부품 공장서 20대, 2t철제 받침대에 깔려 숨져</title>
-      <link>https://www.chosun.com/national/regional/2026/02/22/PN5XZJSDPNEQDCUYINXIPGPRAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/PN5XZJSDPNEQDCUYINXIPGPRAE/</guid>
-      <dc:creator>경산=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 02:53:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRWEM3FMM2TKZTEMI4GKMDFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차 응급 긴급출동./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산의 한 자동차 부품 공장에서 기계 수리 작업을 하던 20대 남성이 2t가량의 철제 받침대에 깔려 숨졌다. &lt;br&gt;&lt;br&gt;22일 경북소방본부 등에 따르면, 전날인 21일 오전 8시 52분쯤 경북 경산시 진량읍 자동차 부품 제조 공장에서 A씨가 약 2ｔ 무게의 프레스 기계 철제 받침대에 깔렸다. 사고 당시 A씨는 프레스 기기 수리 중이었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현장에서 심정지 상태로 구조된 A씨는 인근 병원으로 옮겨졌지만, 숨졌다. &lt;br&gt;&lt;br&gt;경찰과 고용노동부는 목격자 등을 상대로 정확한 사고 경위와 중대재해처벌법 위반 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>자매 성폭행 후 도주… 노영대, 13년 만에 출소 후 춘천 택했다</title>
