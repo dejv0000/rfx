@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원행정처장 “법 왜곡죄, 악용될 위험...위헌적 요소 있어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/WXGAUJTNRJDCZHVMVDV6WCZEHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/WXGAUJTNRJDCZHVMVDV6WCZEHU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 10:24:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFN243A43BKTFBIXG5CU7CS4RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영재 법원행정처장이 23일 국회에서 열린 법제사법위원회 전체회의에 출석해 안경을 고쳐 쓰고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박영재 법원행정처장이 23일 국회 법제사법위원회 전체회의에 출석해 더불어민주당이 추진 중인 ‘법 왜곡죄’ 신설에 대해 “위헌적 요소가 있다”며 반대 입장을 밝혔다. 법 왜곡죄는 판·검사가 법리를 왜곡해 재판하거나 수사한 경우 형사처벌하도록 하는 내용이다.&lt;br&gt;&lt;br&gt;박 처장은 이날 조배숙 국민의힘 의원이 “헌법 제103조는 법관이 헌법과 법률에 의해 양심에 따라 심판하도록 규정하고 판사의 재량을 인정하고 있는데, 법 왜곡죄를 신설하는 것은 위헌 아니냐”고 묻자 “법 왜곡죄는 내용의 명확성이 떨어지고 악용될 위험이 있기 때문에 위헌적 요소가 있다고 생각한다”고 답했다.&lt;br&gt;&lt;br&gt;조 의원이 “판사가 판결 후 고소돼 수사기관을 오가게 되면 위축돼 소신껏 재판할 수 있겠느냐”고 지적하자 박 처장은 “그런 측면이 있는 것 같다”고 했다. 그러면서 “법원행정처는 반대 입장”이라고 했다. 반면 정성호 법무부 장관은 조 의원의 질의에 “남용 가능성을 걱정하는데, 실무에서 남용될 가능성이 많지 않다고 보고 있다”고 답했다.&lt;br&gt;&lt;br&gt;박 처장은 법원 판결을 헌법재판소가 취소할 수 있도록 하는 재판소원 도입에 대해서도 “헌법에 부합하는지에 관한 논란이 많이 있다”고 말했다. 그는 “(재판소원은) 사법제도의 근본적 변화를 야기하는 것이고 국민에게 엄청난 영향을 줄 수 있는 사안이기 때문에 충분히 논의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;박 처장은 “헌재가 재판소원을 시행할 준비가 돼 있느냐”는 나경원 국민의힘 의원 질의에 “기존과 전혀 다른 제도를 도입하는 것이라 소송 법규의 정비가 필요하다”며 “시스템도 서로 연계돼 있지 않은 상태에서 헌법재판소법 개정만으로는 즉시 시행할 수 없다”고 답했다.&lt;br&gt;&lt;br&gt;더불어민주당은 법 왜곡죄 신설법과 재판소원 도입법, 대법관 증원법 등을 국회 본회의에서 강행 처리할 방침이다. 조희대 대법원장은 이날 오전 세 법안에 대해 “국민들에게 직접적으로 피해가 갈 수 있는 문제”라며 반대 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박철완 검사 “중앙지검장, 송영길 상고포기 답하라”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/VP5DWWZYNNB7XEFH3YAUG2CVA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/VP5DWWZYNNB7XEFH3YAUG2CVA4/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 10:29:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DMMBQMMZTKM3DHEZTGNLFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘전당대회 돈봉투 살포 의혹’으로 기소된 송영길 전 민주당 대표의 상고를 포기한 결정을 두고 현직 검사가 박철우 서울중앙지검장에게 이유를 구체적으로 설명할 것을 요구했다. &lt;br&gt;&lt;br&gt;박철완 부산지검 중요경제범죄조사단 단장(부장검사)은 23일 검찰 내부망 ‘이프로스’에 ‘박철우, 답변 책임자, 논증 의무’란 글을 올렸다. &lt;br&gt;&lt;br&gt;그는 이 글에서 “송 전 대표의 상고 포기 결정을 비롯해 최근 중요 사건에서 이뤄진 상고 포기 결정들이 그간 검찰이 만들어 온 합리적 관행에 부합된 것이었음을 구체적 이유와 함께 논증하라”고 요구했다. &lt;br&gt;&lt;br&gt;그는 “요구의 근거는 검사동일체 원칙과 제가 투명하지 않은 결정으로 같이 욕을 먹게 된 검사 집단의 일원이라는 것”이라며 “권한 범위 내 결정이라거나 검사로서 한 점 부끄러움 없는 결정이라는 등의 답변은 사양하고 구체적이고 명확한 답변을 하라”고 했다. &lt;br&gt;&lt;br&gt;앞서 검찰은 지난 20일 2심에서 무죄가 선고된 송 전 대표 항소심에 대해 상고를 포기했다. &lt;br&gt;&lt;br&gt;송 전 대표는 당대표 선출을 위한 전당대회에서 돈봉투를 전달하고, 외곽 조직인 ‘평화와 먹고사는 문제 연구소’(먹사연)를 통해 불법 정치자금 7억 6300만원을 받은 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;그는 1심에서 ‘돈봉투 수수 의혹’ 부분은 ‘이정근 녹음 파일’의 증거 능력이 없다는 이유로 무죄를 선고받았지만 먹사연을 통해 불법 후원금을 수수한 혐의는 유죄가 인정돼 징역 2년을 선고받았다. 그러나 지난 13일 2심은 “먹사연 사건도 이정근 녹음 파일과 관련 있다”며 무죄를 선고했다. &lt;br&gt;&lt;br&gt;중앙지검은 지난 20일 상고 포기 결정을 언론에 알리며 “대법원이 지난 12일 이성만 전 민주당 의원에 대해 검찰 상고를 기각하는 등 압수물의 증거 능력에 대해 더 엄격한 판단을 하는 점을 고려했다”고 밝혔다. &lt;br&gt;&lt;br&gt;그러나 중앙지검 수사팀은 먹사연 사건으로 별도 기소된 송 전 대표 보좌관 등이 유죄를 선고받은 점을 고려해 상고해야 한다는 입장이었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“박성재, 尹 출금 밝힌 간부에 ‘야당과 결탁했냐’ 질책”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/6J2L5WJ3T5HWJBPPJ4D5DOEZSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/6J2L5WJ3T5HWJBPPJ4D5DOEZSM/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 10:17:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYIM6HT55JOJJFMA2G2N3KTPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 지난 9일 오전 서울 서초구 서울중앙지방법원에서 열린 2차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박성재 전 법무부 장관이 윤석열 전 대통령의 출국금지 조치를 국회에서 공개한 법무부 간부를 질책했다는 법정 증언이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 23일 박 전 장관의 내란 중요임무종사 등 혐의 사건 공판을 열고 배상업 전 법무부 출입국·외국인정책본부장 등에 대한 증인신문을 진행했다.&lt;br&gt;&lt;br&gt;배 전 본부장은 2024년 8월 본부장으로 승진했으나 12·3 비상계엄 이후인 작년 5월 돌연 사직했다. 이날 재판에서 배 전 본부장은 사직 경위를 묻는 조은석 특별검사팀 측 질문에 “(윤 전 대통령의 출국금지 조치를) 국회에 공개했느냐는 박 전 장관의 질책이 있었다”고 답했다. 그러면서 박 전 장관이 “야당과 결탁했냐”는 말을 했다며, 이 말을 듣고 사직하기로 결심했다고 증언했다.&lt;br&gt;&lt;br&gt;배 전 본부장은 2024년 12월 9일 국회 법제사법위원회에 출석해 윤 전 대통령을 출국금지했다고 밝힌 바 있다. 당시 윤 전 대통령은 비상계엄 선포로 고위공직자범죄수사처(공수처) 수사를 받고 있었다.&lt;br&gt;&lt;br&gt;박 전 장관이 계엄 상황에서 출입국본부는 무슨 일을 하는지 물었다는 증언도 나왔다. 배 전 본부장은 비상계엄 선포 당일 법무부 실·국장 간부 회의에서 박 전 장관이 “출입국본부는 계엄 상황에서 뭘 해야 되느냐”고 질문했다며 “공직 생활하면서 훈련 교육을 받은 적이 없어서 무엇을 해야 하는지 몰랐고, 전시 상황 준하는 상태에서 외국인이 공항에 몰릴 테니 공항 상황을 모니터링하겠다고 말했다”고 했다.&lt;br&gt;&lt;br&gt;박 전 장관은 12·3 비상계엄 직후 법무부 실·국장 회의를 소집해 합동수사본부 검사 파견 검토와 교정 시설 수용 여력 점검을 지시하는 등 윤석열 전 대통령의 내란 범죄에 가담한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘전분당 가격 담합 의혹’ 대상·삼양 등 4개 식품업체 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/W2A6K364BFFQLDERJSE6EBXGHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/W2A6K364BFFQLDERJSE6EBXGHE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 09:30:51 +0000</pubDate>
+      <content:encoded>검찰이 23일 가격 담합 의혹을 받는 전분 및 당류(전분당) 업체들에 대한 강제 수사에 나섰다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZHQCTNRRCDVOVEGQ6FZVSMLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서초동에 위치한 서울중앙지방검찰청(앞),서울고등검찰청(뒤) /이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 전분당 시장 과점 업체인 대상, 삼양, 사조CPK, CJ제일제당 등 4개 식품업체에 대해 압수수색을 실시했다고 밝혔다. 검찰은 각 업체 본사 사무실에서 담합 관련 자료를 확보한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;검찰은 전분당 담합 구조와 범행 규모를 사전 분석한 결과, 앞서 수사했던 5조원대·3조원대 두 건의 설탕 담합 사건보다 규모가 더 클 가능성이 있다고 보고 직접 수사를 결정한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전분당에는 물엿, 과당, 올리고당 등이 포함된다. 과자·음료·유제품 등 각종 가공식품의 원료로 쓰이는 만큼, 가격이 오르면 소비자 물가 전반에 영향을 미칠 수 있다는 점을 검찰이 고려한 것으로 보인다.&lt;br&gt;&lt;br&gt;앞서 공정거래위원회도 지난달 해당 업체들의 담합 의혹에 대해 조사에 착수했다고 밝혔다. 다만 공정위 조사와 행정처분까지는 통상 상당한 시간이 소요되는 만큼, 검찰이 선제적으로 수사에 나선 것으로 풀이된다.&lt;br&gt;&lt;br&gt;검찰은 담합을 통해 소비자 가격을 끌어올리는 행위를 ‘서민 경제 교란 범죄’로 규정해 전방위적인 수사를 진행하고 있다. 최근에는 설탕과 밀가루 가격 담합 의혹과 관련해 국내 업체 관계자들을 재판에 넘기는 등 관련 수사를 확대해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무장관 “‘사법 3법’ 입법 취지 공감… 내란·외환 사면금지법 위헌 여지 없어"</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/FZAQFSSKYRDYVFY6W7BWAXRKTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/FZAQFSSKYRDYVFY6W7BWAXRKTQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 09:30:22 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKUVIVLSRVO25MPX3QGZQ6UV2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관(왼쪽)과 박영재 법원행정처장이 23일 국회에서 열린 법제사법위원회 전체회의에 출석해 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 더불어민주당이 오는 24일 열리는 국회 본회의에서 통과시키려는 법 왜곡죄 신설법, 재판소원 도입법, 대법관 현재 14명에서 26명으로 늘리는 대법관 증원법에 대해 “입법 취지에 공감한다”고 했다. 또한 내란·외환죄 피고인에 대한 대통령 사면권을 제한하는 내용의 ‘사면금지법’도 위헌 소지가 없다고 했다. 사면금지법은 지난 20일 법사위 법안심사1소위원회에서 민주당 주도로 통과됐다.&lt;br&gt;&lt;br&gt;정 장관은 23일 국회 법사위원회 회의에서 ‘위법 수집 증거를 이용한 판·검사를 처벌하기 위한 법 왜곡죄가 필요하다고 보냐’는 전현희 더불어민주당 의원의 관련 질의에 “입법 취지에 공감한다”고 했다.&lt;br&gt;&lt;br&gt;이어 정 장관은 ‘재판 소원이 4심제라는 조희대 대법원장 등의 주장은 법리적으로 맞지 않다고 생각하는데 장관은 어떻게 생각하냐’는 전 의원 질의에는 “4심제는 아닌 것 같다”고 했다. 그러면서 “남용 가능성에 대한 걱정이 많은데, (재판 소원을 하더라도) 헌재는 법원의 기본권 침해를 다루는 만큼 제한적으로 (재판 소원이) 될 것으로 본다”면서 “세부적으로 잘 설계해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;또한 정 장관은 대법관 증원에 대해서도 “과거에도 상고법원 설치나 대법관 증원에 대한 공감대가 있었다”면서 “증원 규모에 대해서는 국회에서 입법 정책적으로 판단해주면 될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;마지막으로 정 장관은 사면금지법에 대해서는 “대통령 사면권도 법률(사면법)이 정한 바에 하기 때문에 입법부가 정하면 위헌 여지는 없다고 본다”고 했다. 한편 박재영 법원행정처장은 사면금지법에 대한 법원행정처 입장이 있냐는 전현희 의원 질문에 “법률 규정에 의해 내용을 정하거나 제한해 행정처 입장에서 의견을 밝히는 것은 적절치 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 전국에 눈·비...메마른 영남엔 대설특보급 습설</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/23/7J4GYFNBL5BKNJ2BDSLQ5IRAKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/23/7J4GYFNBL5BKNJ2BDSLQ5IRAKQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 08:43:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNLWHVG3TVI4NF22OJJYCUEOC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오전 제주 서귀포시 안덕면 사계리 해안을 찾은 관광객이 우산을 들고 바닷가 정취를 즐기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24~25일 전국에 제법 많은 양의 눈·비가 예보됐다. 23일 현재 건조 특보(이틀 이상 실효 습도 35% 이하)가 발효될 정도로 메마름이 극에 달했던 동해안과 영남에 단비가 될 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 제주도 해상을 지나는 저기압의 영향으로 24일 오전 제주도부터 비가 시작돼 전국으로 확대되겠다. 23일까지 찬 북서풍이 내려와 한기가 남아있는 내륙 곳곳에선 비가 눈으로 바뀌어 내리겠다.&lt;br&gt;&lt;br&gt;24~25일 예상 적설량은 경기남부 1㎝, 강원 산지 1~7㎝, 강원 내륙 1~3㎝, 충청·전북 1~5㎝, 경북 1~10㎝, 경남 3~8㎝, 대구 1~5㎝ 등이다. 제주에는 20~80㎜의 비가, 남부지방도 곳에 따라 5~40㎜의 비가 내릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;24일 영남에 내리는 눈은 수증기를 많이 머금어 무겁고 축축한 습설(濕雪)이다. 이에 눈이 축사나 비닐하우스 지붕에 쌓여 무너질 수 있어 주의가 필요하다. 눈이 퍼부을 땐 시간당 1~3㎝의 많은 양이 내릴 수 있다. 기상청 관계자는 “적설량이 5㎝를 넘어갈 것으로 보이는 지역에선 대설특보가 발효될 수 있다”고 했다. 대설특보는 24시간 동안 내려 쌓인 눈이 5㎝ 이상일 때 내려진다.&lt;br&gt;&lt;br&gt;24~25일 남부지방에 순간풍속 초속 15m, 제주도엔 초속 20m 이상의 강한 바람이 불겠다. 이는 태풍(중심풍속 초속 17m 이상)에 버금가는 강풍이 분다는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>밀양 삼랑진읍 야산서 불...소방당국, ‘국가소방동원령’ 발령</title>
+      <link>https://www.chosun.com/national/2026/02/23/HUBJ433CRVCFTK4HXUGG7KDII4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/23/HUBJ433CRVCFTK4HXUGG7KDII4/</guid>
+      <dc:creator>밀양=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 09:26:08 +0000</pubDate>
+      <content:encoded>경남 밀양에서 산불이 발생해 산림 당국이 진화에 나섰다. 소방청은 산불 확산 우려에 국가 소방 동원령을 발령했다. &lt;br&gt;&lt;br&gt;23일 경남소방본부 등에 따르면 이날 오후 4시 10분쯤 밀양시 삼랑진읍 검세리 한 야산에서 불이 났다. &lt;br&gt;&lt;br&gt;산림청은 오후 5시 20분쯤 산불 확산 대응 1단계를 발령하고 헬기 9대, 진화 차량 64대, 인력 183명을 긴급 투입해 진화 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;소방청은 이날 오후 5시쯤 연소 확대 우려에 따라 담당 소방서 인력 전체가 출동하는 대응 1단계를 내린 데 이어 오후 5시 39분쯤 전국 단위의 소방력을 동원하는 국가 소방 동원령을 발령했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IK7KVYVTYNM4LAZH5RDAFLJQBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 4시 10분쯤 경남 밀양시 삼랑진읍 검세리 한 야산에서 불이 나 연기가 발생하고 있다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재까지 인명 피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;불이 난 곳은 높이 약 250m로 비교적 높지 않은 야산으로 전해졌다. 하지만 산불 현장 주변에 요양병원과 민가가 있어 산림·소방 당국은 산불이 이곳으로 번지지 않도록 방화선 구축에 주력하고 있다.&lt;br&gt;&lt;br&gt;밀양시는 이날 재난 문자를 통해 삼랑진읍 검세·율동·안태마을 주민들에게 삼랑진초등학교로 대피하라고 안내했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VWP3QLNGONFIBNGMDH6VE45RRU.gif?auth=7573f9a2bda7632b433eb66f3572c4049f8a99a15569fba9f5b77464cc4cd3a6&amp;smart=true&amp;width=541&amp;height=539" type="image/jpeg" height="539" width="541"/>
+    </item>
+    <item>
+      <title>코인 투자로 돈 잃자 동업자에게 ‘농약 커피’ 먹인 30대</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/DPZMVPNXSVFALILZCDAVUYKZ2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/DPZMVPNXSVFALILZCDAVUYKZ2M/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 09:05:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYOMR7BEGLHJE3VP5HZYSAUKUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상화폐 투자 손실을 둘러싼 갈등 끝에 동업자에게 농약을 탄 커피를 먹여 살해를 시도한 30대 남성이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울동부지검은 지난달 9일 살인미수 및 농약관리법 위반 혐의로 A(39)씨를 구속기소했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 지난해 11월 23일 오후 9시쯤 서울 송파구 석촌호수 인근 한 카페에서 동업자 B씨에게 독성 농약이 든 커피를 건네 살해하려 한 혐의를 받는다. A씨는 B씨가 주문한 음료에 무색무취의 독성 살충제 ‘메소밀(methomyl)’을 몰래 섞은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 커피를 마신 뒤 의식을 잃고 쓰러졌으나 병원으로 긴급 이송돼 치료를 받았고, 사흘 만에 의식을 회복한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;두 사람은 2022년부터 비트코인 투자 프로그램 등을 통해 투자금을 모아 수익을 내는 사업을 함께해 온 것으로 파악됐다. 그러나 A씨가 회사 자금을 포함해 11억7000여만원을 별도로 투자했다가 회수하지 못하면서 관계가 틀어진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 한 달 전인 지난해 10월 인터넷을 통해 중국에서 29만원을 주고 메소밀을 구입한 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨의 첫 재판은 다음 달 10일 오전 10시 20분 서울동부지방법원에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>배현진·김종혁, ‘국힘 징계 효력정지’ 26일 심문</title>
       <link>https://www.chosun.com/national/national_general/2026/02/23/B6PHMIREOFCX7LTA37DCQVU6GM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/B6PHMIREOFCX7LTA37DCQVU6GM/</guid>
@@ -598,15 +671,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;재판부로부터 기소 대상이 됐냐고 비판을 받았던 ‘3만원 옷 절도’ 사건과 관련 방조 혐의를 받았던 50대 여성이 결국 무죄가 확정됐다. 검찰이 ‘무리한 기소’라는 비난이 일자 대법원에 상고를 포기했기 때문이다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 이웃의 절도 현장에서 비닐봉지를 건넸다는 이유로 ‘절도방조’ 혐의로 기소됐다가 2심에서 무죄를 선고받은 50대 여성 A 씨에 대해 검찰이 상고를 포기했다. 검찰이 이 사건 상고 기한이었던 지난 19일까지 광주고법 제주재판부에 상고장을 제출하지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 12일 항소심 무죄 판결 이후 내부 검토를 거쳐 상고하지 않기로 결정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 A 씨를 특수절도 혐의로 불구속 기소했다. 지난 2024년 6월 27일 A 씨의 지인 B 씨가 제주시 한 의류매장 외부 진열대에서 시가 합계 3만 원 상당의 옷 6벌을 훔칠 당시, A 씨가 검은색 비닐봉지를 건네는 등 범행을 공모했다는 이유에서다.&lt;br&gt;&lt;br&gt;이에 대해 A 씨는 “비닐봉지에는 B 씨의 약이 들어 있었고, 약봉지를 달라고 해서 전달했을 뿐”이라며 “절도 사실도 전혀 알지 못했다”고 일관되게 주장해 왔다.&lt;br&gt;&lt;br&gt;1심 재판부는 방범카메라(CCTV) 영상과 당사자 진술, 범행 이후 정황 등을 종합해 A 씨에게 범행 가담이나 인식이 있었다고 보기 어렵다며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰은 이에 불복해 항소했고, 항소심에서는 혐의를 ‘절도방조’로 변경했다.&lt;br&gt;&lt;br&gt;그러나 항소심 재판부 역시 1심과 같은 결론을 내렸다.&lt;br&gt;&lt;br&gt;재판부는 “CCTV 영상을 보면 B 씨가 옷을 훔칠 당시 A 씨는 전화 통화 중이었고, 가게 주인의 동향을 살피는 모습도 확인되지 않는다”며 “비닐봉지를 건네준 행위만으로 범행을 용이하게 할 의도가 있었다고 보기 어렵다”고 판단했다. 또 “피고인이 절도 사실을 인식했다고 볼 만한 증거도 부족하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;2심 재판장은 “피해액이 3만 원에 불과하고 1심에서 이미 무죄가 선고된 사건인데, 항소심까지 이어지는 것이 타당한지 고민된다”며 검찰의 무리한 항소를 지적하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 강서구 자동차 부품공장서 불...소방, 대응 1단계</title>
-      <link>https://www.chosun.com/national/incident/2026/02/22/AZD5QU25CNANNLQKHKCRNJGGJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/22/AZD5QU25CNANNLQKHKCRNJGGJM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 09:00:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUNYKWN6G5BLNBAHDVVYD3XZXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 부산 강서구 한 자동차 부품 제조 공장에서 불이 났다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 강서구 한 자동차 부품 공장에서 화재가 발생했다. 불이 인근 공장으로 번지면서 소방은 한때 대응 2단계까지 발령했다. 현재는 대응 1단계로 하향됐다.&lt;br&gt;&lt;br&gt;22일 부산소방재난본부에 따르면, 이날 오후 1시 59분쯤 부산 강서구 송정동 한 자동차 부품 공장에서 불이 났다.&lt;br&gt;&lt;br&gt;불이 난 공장은 철골 구조이며, 공장 생산 라인에 연기 발생 경고등이 작동했다고 한다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방은 이날 4시 16분쯤 인근 지역 모든 소방서 인력을 동원하는 ‘대응 2단계’를 발령했다. 이후 약 1시간 만인 이날 오후 5시 25분쯤 대응 1단계로 하향됐다.&lt;br&gt;&lt;br&gt;부산소방은 장비 70대와 인력 168명을 투입해 불길을 잡고 있다.&lt;br&gt;&lt;br&gt;부산소방 관계자는 “불이 난 공장에 붕괴 위험이 있고, 인근 공장으로 일부 불이 번져 선제적으로 대응 2단계를 발령했다”면서 “현재 불길은 많이 잡은 상태여서 대응 단계가 하향됐다”고 했다. 이어 “불이 난 공장은 휴무여서 내부에는 사람이 없었던 것으로 파악된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACFTN7ULEVC4XLRX6B4KNEYMLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 부산 강서구 한 자동차 부품 공장에서 불이 났다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재까지 인명 피해는 없으나 검은 연기가 대량으로 확산돼 부산시는 시민에게 안전에 주의해 달라는 안내 문자 메시지를 발송했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 불길을 잡는 대로 정확한 화재 원인과 피해 규모 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰 “‘강북 연쇄 살인’ 피해자와 유사하게 연락한 이들 전수조사”</title>
       <link>https://www.chosun.com/national/national_general/2026/02/22/EKI7LUHUHJCCHFHYZW4GPSC6GQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/22/EKI7LUHUHJCCHFHYZW4GPSC6GQ/</guid>
@@ -614,16 +678,6 @@
       <description/>
       <pubDate>Sun, 22 Feb 2026 08:43:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4WOLNCO7FJY3CUMUDOETC6E4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 모텔에서 남성 2명을 잇따라 숨지게 한 혐의를 받는 20대 여성 김모(가운데)씨가 지난 12일 영장실질심사를 받기 위해 서울북부지법에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;향정신성의약품을 섞은 숙취 해소 음료를 몰래 먹여 20대 남성 2명을 잇따라 살해한 혐의를 받는 여성 김모(21)씨에 대해 경찰이 피해자들과 유사한 방식으로 김씨와 연락한 이들에 대한 전수 조사에 착수했다. 앞서 경찰은 살인 등 혐의로 김씨를 지난 19일 검찰에 넘겼는데, 김씨에게 피해를 입은 이들이 추가로 있는지 확인하기 위해 수사를 확대하는 것이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울 강북경찰서는 피해자들과 유사한 방식으로 김씨와 연락했던 이들이 있는지 들여다보고 있다. 김씨는 지난달 28일 오후 9시 20분쯤 20대 후반 회사원 A씨와 함께 서울 강북구 수유동의 한 모텔 객실에 들어선 뒤 벤조디아제핀계 수면제를 탄 숙취 해소 음료를 A씨에게 건넸고, 이후 모텔을 나오면서 “술에 너무 취해서 계속 잠만 자니까 나는 먼저 갈게”라는 메시지를 보낸 바 있다.&lt;br&gt;&lt;br&gt;경찰은 현재 김씨와 이런 방식으로 연락한 이들이 있는지 조사 중이다. 아직 추가 피해자는 발견되지 않았다. 김씨는 이날 범행을 포함해 지난해 12월부터 이달 초까지 20대 남성 3명에게 약물이 섞인 음료를 건네 사망에 이르게 하거나 의식을 잃게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;한편, 경찰은 지난 설 연휴에 김씨에 대한 사이코패스 진단 검사를 진행했고, 그 결과는 빠르면 이번 주 후반에 나올 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 2월 23일 월요일 (음력 1월 7일 戊辰)</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/22/WWGX2YKYMJAOJID3JKG3HSYSTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/22/WWGX2YKYMJAOJID3JKG3HSYSTM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
       <title>오세훈 “성수동, 서울시가 무대 만들고 성동구는 멋진 춤을 춘 사례”</title>
@@ -642,24 +696,6 @@
       <description/>
       <pubDate>Sun, 22 Feb 2026 06:37:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4MASCHA4KTNIYXTEUZ7LJ63WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김창열이 19일 서울 중구 월향 명동지점에서 열린 월향 '김창열 도시락 시즌 2' 출시 기자간담회에서 도시락을 선보이고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사단법인 독도사랑운동본부 홍보대사로 활동 중인 그룹 DJ DOC 김창열이 일본 시마네현 ‘다케시마(竹島·일본이 주장하는 독도 이름)의 날’ 행사를 앞두고 일본을 찾았다가 입국을 거부당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;독도사랑운동본부는 22일 인스타그램을 통해 “김창열 홍보대사와 함께 시마네현에서 일어나고 있는 독도 역사 왜곡 현장을 둘러보기 위해 19일 시마네현을 방문했으나, 독도 보복성 입국 거부를 당했다”고 했다.&lt;br&gt;&lt;br&gt;본부에 따르면, 김창열은 1999년 음주 운전 전력을 이유로 일본 입국과 동시에 퇴거당했다. 당초 김창열은 19일부터 21일까지 독도사랑운동본부 관계자와 일본을 찾아 다케시마의 날 행사 전 현지 분위기를 촬영하려 했으나, 입국 불가 통보로 일본 도착 당일 한국으로 돌아왔다고 한다.&lt;br&gt;&lt;br&gt;본부는 “5시간의 인터뷰와 짐 수색을 핑계로 억류당했지만, 결국 독도 홍보 활동이라는 이유로 상륙을 불허당했다”며 “평소 다른 일본 공항 방문 시에도 문제가 없었지만, 이번 입국 거부는 다케시마의 날을 맞아 독도 인사의 방문을 막으려는 일본의 정치 보복이자 표적 심사”라고 했다. 그러면서 “본부는 이런 비이성적인 보복 조치를 강력히 규탄한다”고 했다.&lt;br&gt;&lt;br&gt;김창열 역시 일본 공항에서 입국 거부를 당한 게 맞는다고 언론을 통해 밝혔다. 그는 연합뉴스를 통해 “지난 19일 일본 요나고 공항에서 입국 심사를 받던 중 음주 운전 전력이 있다는 이유로 입국을 거부당했다”며 “지난해 개인적으로 일본을 찾았을 때도 문제없이 입국했었다”고 했다. 아울러 “독도 관련 활동이 문제라는 설명은 듣지 못했고, 완강히 ‘어떤 이유에서든 입국이 불가하다’는 입장만 반복했다”며 “정작 다케시마의 날 행사장에는 방문할 의도도 없었고, 무엇을 하겠다는 뜻도 아니었는데 그쪽에서 우리를 표적으로 삼아 입국을 거부했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQUCQXGHNRA6RJDCTLB7FEWX2E.png"&gt;&lt;figcaption&gt;&lt;small&gt;/사단법인 독도사랑운동본부 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시마네현은 1905년 2월 22일 일방적으로 독도를 행정 구역에 편입하는 공시(고시)를 했고, 100주년을 계기로 2005년 3월 ‘다케시마의 날’ 지정 조례를 만들었다. 2006년부터는 2월 22일을 ‘다케시마의 날’로 정해 매년 기념 행사를 열고 있다. 2013년 이후 13년 연속 다케시마의 날에 차관급인 정무관을 보냈던 일본 정부는 올해도 후루카와 나오키 내각부 정무관을 파견했다.&lt;br&gt;&lt;br&gt;이와 관련, 우리 외교부는 이날 발표한 대변인 성명에서 “이 행사를 즉각 폐지할 것을 다시 한번 엄중히 촉구한다”며 항의했다. 이어 “독도는 역사적·지리적·국제법적으로 명백한 우리 고유의 영토”라며 “일본 정부는 독도에 대한 부당한 억지 주장을 즉각 중단하고 겸허한 자세로 역사를 직시해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;외교부는 마쓰오 히로타카 주한 일본 대사관 총괄공사를 외교부 청사로 초치해 항의의 뜻을 전달한 것으로 알려졌다. 다만 마쓰오 공사는 청사로 들어서면서 ‘독도가 일본 땅이라고 주장하는 이유가 무엇인지’ ‘부당한 영유권 주장이 한일 관계를 악화시킬 가능성에 대해 어떻게 생각하는지’ ‘영유권 주장을 철회할 생각이 있는지’ 등 취재진 질문에 아무 대답도 하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>출소 2주 만에 또 ‘허위 신고’ 50대, 징역 1년 8개월</title>
-      <link>https://www.chosun.com/national/regional/2026/02/22/QKMLLLGBZFABFJZWOYZDM56HDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/QKMLLLGBZFABFJZWOYZDM56HDA/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 06:24:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3DMNZSGBSWMYJTMMZWCN3BGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 신고로 옥살이를 한 50대가 출소 후 2주 만에 또 허위 신고를 한 혐의로 다시 철창 신세를 지게 됐다.&lt;br&gt;&lt;br&gt;청주지법 형사2단독 신윤주 부장판사는 위계공무집행방해 혐의로 구속 기소된 50대 A씨에게 징역 1년 8개월을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 11일 오전 3시 30분쯤 충북 청주시 흥덕구의 한 거리에서 “할머니가 칼에 맞은 것 같다”며 소방 당국에 허위 신고를 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;사건 당시 소방관이 구체적인 상황을 물어보자 A씨는 “죽으면 연락하겠다”고만 답하고 전화를 끊었다.&lt;br&gt;&lt;br&gt;이로 인해 경찰관 6명과 구급대원 3명이 현장으로 급히 출동했으나, 현장에는 만취한 A씨만 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 2023년 2월에도 국회의원에게 마치 위해를 가할 것처럼 경찰에 허위 신고를 했다가 징역 1년 6개월을 선고받았고, 지난해 9월 출소한 뒤 약 2주 만에 또다시 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;신 부장판사는 “피고인의 행위는 단순히 허위 신고에서 그치는 게 아니라 경찰관과 소방공무원의 출동을 지연시켜 무고한 시민들의 목숨과 안전까지 위태롭게 할 수 있다는 점에서 비난 가능성이 매우 크다”며 “출소한 지 불과 2주 만에 또 범행을 저질러 죄질이 좋지 않은 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한일 관계 전문 플랫폼 가능성은?”...부산·후쿠오카 저널리스트 포럼 열려</title>
-      <link>https://www.chosun.com/national/regional/2026/02/22/DIU266IZRRDUPBL52W66JEBUQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/DIU266IZRRDUPBL52W66JEBUQ4/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 06:20:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJCDVVSKBZGP5C5RTSZZW7QUPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 부산 해운대구 동서대 센텀캠퍼스에서 열린 '부산-후쿠오카 저널리스트 포럼' 참석자들이 기념촬영을 하고 있다. /동서대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한일 양국 언론인과 언론 연구자들이 부산에 모여 ‘한일 관계에 대한 객관적이고 균형 잡힌 보도 확대 방안 찾기’에 머리를 맞댔다. ‘부산·후쿠오카 저널리스트 포럼’이다.&lt;br&gt;&lt;br&gt;동서대학교 일본연구센터가 마련한 이 포럼은 ‘한일 관계 전문 플랫폼의 가능성과 과제’ 등을 주제로 지난 21일 하루 동안 동서대 센텀캠퍼스 컨벤션홀에서 열렸다. 포럼엔 한일 양측의 언론인과 교수 등 50여 명이 참석했다.&lt;br&gt;&lt;br&gt;이날 포럼은 ▲레거시 미디어와 뉴미디어 ▲부산·후쿠오카 초광역 생활권과 미디어 ▲한일 관계 전문 플랫폼 구축을 위한 전망’ 등 3개 세션으로 진행됐다.&lt;br&gt;&lt;br&gt;서영아 전 동아일보 도쿄지국장과 하코다 데쓰야 아사히신문 기자는 ‘레거시 미디어와 뉴미디어의 관계’란 주제 발표에서 누구나 정보 발신자가 되는 ‘개인 미디어화’ 현상이 확산되면서 기존 매스미디어의 정보 통제력이 약화되고 있다는 점을 지적했다.&lt;br&gt;&lt;br&gt;또 뉴스 소비가 종이 매체에서 영상·SNS 중심으로 이동하면서 알고리즘에 따른 정보 편향과 선택적 정보 소비가 심화되고 있는 현상을 분석했다. 이 때문에 사실 확인과 검증, 맥락 제공이 필요하며 레거시 미디어의 역할이 여전히 중요하다는 데 의견을 모았다.&lt;br&gt;&lt;br&gt;부산일보 손혜림 기자는 ‘부산-후쿠오카 초광역 생활권에서의 한일 인식과 미디어의 역할’에 대한 발제에서 “부산일보와 서일본신문 간 연계가 양 지역의 생활 정보와 지역 현안 공유를 촉진하고 국가 단위 갈등을 완화하는 효과가 있다”고 말했다.&lt;br&gt;&lt;br&gt;‘한일 관계 전문 플랫폼 구축을 위한 비전과 과제’를 주제로 한 종합토론에서 후지이 미치히코 동서대 객원교수는 “고정관념과 서열 의식을 넘어선 쌍방향 정보 공유가 필요하다”며 “생활 현실에 기반한 상호 발신이 중요하다”고 했다.&lt;br&gt;&lt;br&gt;박주영 동서대 교수는 “AI와 디지털 기술 발전이 가속화되는 시대에 전문성을 갖춘 뉴미디어와 한일 관계의 미래인 MZ세대의 역할이 확대될 것”이라며 “부산 개항 150년을 계기로 해외 문명 교류 창구였던 부산과 후쿠오카 등 규슈 지역의 공통된 지역성에 기반한 전문 미디어 플랫폼을 구축, 한일 MZ세대의 ‘디지털 플레이 그라운드’가 되도록 할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;이 포럼은 지난 2015년 1회를 연 이후 한일 관계 악화와 코로나 대유행 등으로 개최되지 못하다가 10년 만인 2025년 재개됐다.&lt;br&gt;&lt;br&gt;장제국 동서대 총장은 “이번 포럼은 SNS와 인터넷 중심 뉴미디어의 영향력 확대 속에서 한일 관계에 대한 객관적이고 균형 잡힌 보도의 확대, 이런 보도와 미디어를 통한 보다 안정적이고 동반자적인 양국 관계를 모색해보는 의미 있는 자리였다”며 “향후 구축될 한일 관계 전문 미디어 플랫폼은 레거시 미디어와 뉴미디어의 특성을 결합한 형태가 바람직한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘음주운전=사회악’…음주운전율, 10년새 12.6%→2.1%로</title>
@@ -707,24 +743,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2WCNBSGVRDSMRSMNRTGMJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선비즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;LG에너지솔루션의 영업비밀을 유출한 전 직원이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 서울중앙지법 형사32부(재판장 류경진)는 산업기술보호법 위반, 부정경쟁방지법 위반 등 혐의로 구속기소된 LG에너지솔루션 전 직원 A씨에게 징역 3년을 선고하고 약 1580만원의 추징을 명했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 5월부터 2022년 3월까지 유료 자문에 사용할 목적으로 LG에너지솔루션의 이차전지 관련 영업비밀 16건을 촬영해 부정 취득한 혐의를 받는다. 이중에는 국가핵심기술 1건도 포함됐다. A씨는 업무용 노트북 모니터를 휴대전화로 촬영하는 방식으로 영업비밀을 빼돌렸다.&lt;br&gt;&lt;br&gt;이 같은 방법으로 취득한 영업비밀을 A씨는 국내외 유료 자문에 활용했다. 검찰은 A씨가 시간당 1000달러의 구두 자문을 했고, 1건당 최소 3000달러의 서면 자문 등을 하며 약 9억8000만원을 받았다고 봤다. 이 과정에서 자문료를 차명 계좌로 송금받은 혐의와 가명으로 자문료를 받기 위해 가족의 주민등록증 사진 파일의 이름 부분을 변경해 출력한 혐의도 공소사실에 포함됐다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 2021~2022년 회사의 영업비밀 16건을 불법 촬영하고 24건을 누설한 혐의 대부분을 유죄로 인정했다. A씨가 다른 사람의 주민등록 정보를 이용해 차명으로 자문한 부분도 유죄로 봤다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 피해 회사가 상당한 시간과 노력을 들여 고안한 국가핵심기술 내지 영업비밀을 부정하게 취득하거나 무단 유출하고, 영리를 목적으로 영업비밀을 국내외에 누설했다”며 “회사의 감시와 규제를 피해 차명 유료자문도 했기 때문에 죄책이 결코 가볍지 않다”고 했다. 다만 A씨가 20년간 근무하며 회사에 기여한 점과 유출한 영업비밀이 회사의 기술 경쟁력을 단기간에 현저히 침해할 만한 정보는 아닌 점 등은 유리한 양형 사정으로 고려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>양양공항 강풍 탓 착륙 두차례 실패한 파라타항공기, 김포공항으로 회항</title>
-      <link>https://www.chosun.com/national/regional/2026/02/22/XJCLBUILBFHYPNN2W4JTLVTN4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/XJCLBUILBFHYPNN2W4JTLVTN4I/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 03:31:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TSMBSHEYGMOBTG5RGGNJTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양양국제공항에서 제주로 향하는 파라타항공 A330(294석) 항공기./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 8시 30분 제주공항에서 출발한 파라타항공 WE6712편이 목적지인 강원 양양공항에 불어닥친 강풍 탓에 착륙을 포기하고 김포공항으로 회항했다. 이 항공기에는 승객 200여명을 타고 있었다&lt;br&gt;&lt;br&gt;이 항공기는 9시 50분쯤 양양공항에서 첫 번째 착륙을 시도하다 실패하고 20여분 뒤 두 번째 착륙을 시도했으나 기체가 심하게 흔들려 착륙을 포기했다.&lt;br&gt;&lt;br&gt;이 항공기는 이날 오전 11시쯤 김포공항에 착륙했다.&lt;br&gt;&lt;br&gt;파라타항공은 항공기 승객들을 버스로 양양공항까지 보내기로 했다.&lt;br&gt;&lt;br&gt;22일 오전 8시 30분 제주공항에서 출발한 파라타항공 WE6712편이 목적지인 강원 양양공항에 불어닥친 강풍 탓에 착륙을 포기하고 김포공항으로 회항했다. 이 항공기에는 승객 200여명을 타고 있었다&lt;br&gt;&lt;br&gt;이 항공기는 9시 50분쯤 양양공항에서 첫 번째 착륙을 시도하다 실패하고 20여분 뒤 두 번째 착륙을 시도했으나 기체가 심하게 흔들려 착륙을 포기했다.&lt;br&gt;&lt;br&gt;이 항공기는 이날 오전 11시쯤 김포공항에 착륙했다.&lt;br&gt;&lt;br&gt;파라타항공은 항공기 승객들을 버스로 양양공항까지 보내기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배달 갔다 택배 ‘슬쩍’...복면 쓰고 주택 침입까지 한 30대</title>
-      <link>https://www.chosun.com/national/regional/2026/02/22/6F2PSZQZM5C3XKOLNNEE7DATEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/6F2PSZQZM5C3XKOLNNEE7DATEA/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 03:03:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택배로 도착한 물건을 가져가고, 복면을 쓴 채 주거지에 들어가 금품을 훔치려 한 혐의로 재판에 넘겨진 30대 남성에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;부산지법 형사7단독 심학식 부장판사는 특정범죄가중처벌법상 절도 등 혐의로 기소된 30대 쿠팡 이츠 배달 기사 A씨에게 징역 4년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 11월 24일 오후 음식을 배달하다가 부산 동구 한 주택 앞에서 20만원 상당의 화장품이 든 택배 상자를, 서구 한 주택에서 4만3000원 상당의 바지가 든 택배 상자를 각각 훔친 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 같은 해 8월 4일 오전 복면을 쓴 채 부산 중구 한 주택 2층의 창문을 열고 들어가 도둑질을 시도한 혐의도 받는다. 당시 A씨는 거실 테이블에 있던 6만원 상당의 가방을 몰래 들고나오다 마침 잠이 깨 거실로 나온 집주인과 마주치자, 가방을 던지고 그대로 달아났다.&lt;br&gt;&lt;br&gt;이 외에도 A씨는 만취 상태로 오토바이를 몰거나 술을 마시다 시비가 붙은 상대방을 폭행한 혐의로도 기소됐다.&lt;br&gt;&lt;br&gt;심 부장판사는 “A씨는 절도죄로 세 번 이상 징역형을 선고받고, 음주 운전과 폭력 등으로 형사 처벌을 받은 전력이 있다”며 “누범기간 중에 범행을 저질렀고, 죄질이 좋지 않다. 또 대부분 피해자들에게 용서를 받지 못하고 있는 점 등을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국내 연수 지원 받던 중 미국 장기체류한 연구자...대법 “연구비 환수 정당”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/22/BR7LTQY7EVB7BBAQCBP63NKFGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/22/BR7LTQY7EVB7BBAQCBP63NKFGI/</guid>
@@ -743,15 +761,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRWEM3FMM2TKZTEMI4GKMDFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차 응급 긴급출동./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산의 한 자동차 부품 공장에서 기계 수리 작업을 하던 20대 남성이 2t가량의 철제 받침대에 깔려 숨졌다. &lt;br&gt;&lt;br&gt;22일 경북소방본부 등에 따르면, 전날인 21일 오전 8시 52분쯤 경북 경산시 진량읍 자동차 부품 제조 공장에서 A씨가 약 2ｔ 무게의 프레스 기계 철제 받침대에 깔렸다. 사고 당시 A씨는 프레스 기기 수리 중이었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현장에서 심정지 상태로 구조된 A씨는 인근 병원으로 옮겨졌지만, 숨졌다. &lt;br&gt;&lt;br&gt;경찰과 고용노동부는 목격자 등을 상대로 정확한 사고 경위와 중대재해처벌법 위반 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘3명 사망’ 어선 충돌 사고 후 도주한 유조선 항해사 징역 6년</title>
-      <link>https://www.chosun.com/national/regional/2026/02/22/6FDH6W3UMJA2ZCNKG5LI5HMKCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/22/6FDH6W3UMJA2ZCNKG5LI5HMKCE/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 02:30:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQC7VYKWOJMOBI4ADQ6SESYLGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 9월 16일 오전 전북 군산시 십이동파도 인근 해상에서 8명이 탑승한 어선이 전복돼 해경이 구조 작업을 벌이고 있다. /군산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 9월 전북 군산 해상에서 어선을 들이받아 전복시킨 뒤 도주해 3명을 숨지게 한 혐의로 재판에 넘겨진 유조선 항해사가 법원으로부터 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 김주관)는 특정범죄가중처벌법상 선박교통사고도주 등 혐의로 기소된 20대 남성 이등항해사 A씨에게 징역 6년을 선고했다고 22일 밝혔다. 또 같은 혐의로 기소된 70대 남성 선장 B씨에게는 징역 1년에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 2024년 9월 16일 오전 전북 군산시 십이동파도 남쪽 7.5㎞ 인근 해상에서 유조선 C호(1618t)를 운항하던 중 어선 뒷부분을 들이받은 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이 사고로 어선 77대령호(35t)가 전복돼, 선장과 기관장 등 3명이 숨지고 1명이 다쳤다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 각각 C호의 이등항해사와 선장으로, 당시 A씨 홀로 항해 당직 근무를 서던 중 사고를 냈다. 특히 A씨는 자동 조타 상태를 설정해 둔 채 일지를 작성하다가 어선과 충돌 사고를 냈으며, 사고 직후 구호 조치를 취하지 않고 그대로 배를 몰고 도주한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 선사로부터 2인 1조로 당직 사관 근무를 편성하라는 지시를 받았지만, A씨를 홀로 항해 업무를 수행하게 한 과실로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 사고 이후 즉시 구조 작업을 실시했으면 사망의 결과 등 피해를 방지할 가능성이 있었다는 점에서 비난 가능성이 매우 높다”면서 “재판에 임하는 A씨의 태도나 피해 유족의 피해 회복을 위한 어떠한 노력도 하지 않은 점 등을 고려할 때 진정 자신의 잘못을 반성하고 있는지 의심되기도 한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “다만 인원 부족으로 A씨가 2인 1조가 아닌 혼자 당직을 서게 된 점, 1등 항해사의 부탁으로 추가 근무를 하고 있었던 점 등의 사정을 고려한다”면서 “B씨는 유가족들과 합의한 점 등을 참작한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>자매 성폭행 후 도주… 노영대, 13년 만에 출소 후 춘천 택했다</title>
       <link>https://www.chosun.com/national/national_general/2026/02/22/JH5IJEDE7NFJHHC6SLXWH55PE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/22/JH5IJEDE7NFJHHC6SLXWH55PE4/</guid>
@@ -762,15 +771,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GYYWGOBWMU2TGYZWGNRWGYRZMM.jpg?auth=396a3e048724eb5801f83b62be232e969435711332192fdf8cd5b661b7836fe8&amp;smart=true&amp;width=1824&amp;height=2447" type="image/jpeg" height="2447" width="1824">
         <media:description type="plain">2012년 12월 경찰 조사 중 도주한 경기 고양시 성폭행 피의자 노영대가 검거되어 일산경찰서로 압송되고 있다. /뉴스1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>함양 산불 강풍 타고 확산...주민 대피명령도</title>
-      <link>https://www.chosun.com/national/2026/02/22/46KTVLWYFBCXTHNW2VQ7AMB33A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/22/46KTVLWYFBCXTHNW2VQ7AMB33A/</guid>
-      <dc:creator>함양=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 01:15:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCCPYF5LLZDZVC7EGJ3JPZVNJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 9시14분쯤 함양군 마천면 창원리 한 야산에서 발생한 산불이 초속 6m에 육박하는 강한 바람에 확산하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 함양군에서 발생한 산불이 강한 바람에 밤새 번지면서 산림 당국이 이틀째 진화 작업을 펼치고 있다. &lt;br&gt;&lt;br&gt;22일 경남도에 따르면, 전날 밤 9시 14분쯤 함양군 마천면 창원리 한 야산에서 산불이 발생했다. &lt;br&gt;&lt;br&gt;현장에서는 초속 6m에 육박하는 강한 바람이 불고, 급경사 지형까지 겹쳐 야간 진화 작업에 어려움을 겪었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C653DTA4WZBHXE2ZZFNAHHPFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 9시14분쯤 함양군 마천면 창원리 한 야산에서 발생한 산불이 초속 6m에 육박하는 강한 바람에 확산하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불이 강한 바람을 타고 번지면서 산림 당국은 22일 오전 4시 산불 대응 1단계를 발령했다. 1단계는 화재로 인한 피해 면적이 10~100ha 미만으로 예상될 때 발령한다. &lt;br&gt;&lt;br&gt;함양군은 이날 오전 8시 55분 재난안전문자를 통해 “견불동 주민과 입산객은 고정마을회관으로 즉시 대피하라”는 내용의 재난안전 문자를 발송했다. 한때 인근 주민 30여 명이 대피했다. 10시 현재 견불동 마을 12가구 12명이 고정마을회관으로 대피한 상태다. &lt;br&gt;&lt;br&gt;산림 당국과 경남도는 진화 헬기 19대, 진화 차량 27대, 진화 인력 200여 명 등을 투입해 주불을 잡기 위해 총력을 기울이고 있다. 진화율은 이날 오전 4시쯤 28% 수준을 현재까지 유지하고 있다.&lt;br&gt;&lt;br&gt;다만 오전 10시부터 순간 최대 풍속 초속 10~20m 강풍이 예상되면서 진화에 어려움을 겪고 있다. 경남에서는 함양군을 비롯해 12개 시·군에 건조주의보가 이어지고 있다. &lt;br&gt;&lt;br&gt;박완수 경남도지사는 “건조하고 강한 바람이 예상되는 만큼 가용한 모든 자원을 총동원하여 신속한 진화에 최선을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“코레-” 외치고 무반주 애국가 합창… 60~70년대 스포츠 스타들</title>
