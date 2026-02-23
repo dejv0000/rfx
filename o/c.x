@@ -13,6 +13,120 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>배현진·김종혁, ‘국힘 징계 효력정지’ 26일 심문</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/B6PHMIREOFCX7LTA37DCQVU6GM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/B6PHMIREOFCX7LTA37DCQVU6GM/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 08:21:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QUFIRM4AVBQTBDXIBR5YIWHRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 장동혁 대표가 23일 서울 여의도 국회에서 열린 의원총회에서 송언석 원내대표의 발언을 경청하고 있다. 뒤쪽은 배현진 의원. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 배현진 의원과 김종혁 전 최고위원이 당 윤리위원회로부터 받은 징계 효력을 정지해 달라며 낸 가처분 신청 심문이 오는 26일 열린다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 서울남부지법 민사합의51부(재판장 권성수)는 26일 오후 2시부터 배 의원과 김 전 최고위원이 국민의힘을 상대로 낸 효력정지 가처분 신청 사건의 심문을 진행할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 13일 국민의힘 윤리위원회(위원장 윤민우 가천대 교수)는 배 의원이 자신의 페이스북에 비판 댓글을 쓴 이용자의 미성년 자녀 사진을 게시한 것이 명예훼손 소지가 있다며 당원권 정지 1년의 처분을 내렸다.&lt;br&gt;&lt;br&gt;김 전 최고위원은 언론 인터뷰 등에서 당 지도부와 당원을 모욕하는 언행을 했다는 이유 등으로 ‘탈당 권유’ 처분을 받았고, 탈당 신고서를 제출하지 않음에 따라 지난 9일 제명됐다.&lt;br&gt;&lt;br&gt;이에 배 의원과 김 전 최고위원은 징계 처분에 대해 반발하며 최근 법원에 효력정지 가처분 신청을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, 전국 검찰청에 ‘압수 가상자산 관리 지침’ 전달 </title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/SLKQC4X7Z5CJPDYRFG3IYLR6II/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/SLKQC4X7Z5CJPDYRFG3IYLR6II/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 08:21:21 +0000</pubDate>
+      <content:encoded>대검찰청이 압수 가상자산의 관리 방안을 만들어 전국 검찰청에 전달했다. 광주지검은 지난달 시가 300억원 상당의 비트코인 320개를 분실했다가 최근 전량 회수했는데, 이 같은 사태가 재발하는 것을 막겠다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4DOY3BGZQTENLCHFRTMMZRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대검은 최근 전국 검찰청에 업무연락을 보내 압수 가상자산 관리 방안을 공유했다. 먼저 가상자산 지갑의 보유 내역은 반드시 공식 사이트를 이용해 확인해야 한다. 비트코인은 블록체인닷컴, 이더리움은 이더스캔 등 가상자산별 보유 현황을 확인할 수 있는 웹사이트를 명시했다.&lt;br&gt;&lt;br&gt;또 가상자산 보유 내역을 확인할 때는 공개키만을 이용하도록 강조했다. 가상자산 보유 내역은 공개키만 입력하면 확인이 가능한데, 계좌 자체를 열 수 있는 보안키 등을 입력하지 않도록 주의하라는 취지다. 지난해 8월 광주지검은 압수 가상자산을 점검하는 과정에서 피싱사이트에 접속해, 비트코인이 들어있는 전자지갑의 주소와 보안키 등을 모두 입력했다가 비트코인 320개를 탈취당했다.&lt;br&gt;&lt;br&gt;아울러 대검은 가상자산 지갑이 들어있는 USB와 지갑에 접속하도록 하는 비밀번호를 각각 분리해 보관하라는 지침도 전달했다. 내부자 한 사람에 의해 압수 가상자산이 탈취되지 못하도록 한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보험금 편취하려 교통사고 허위자백...檢, 보완수사 끝에 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/BTQGMMGDXVEWTLZWCPLBQIJRHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/BTQGMMGDXVEWTLZWCPLBQIJRHE/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 08:04:16 +0000</pubDate>
+      <content:encoded>보험금을 편취할 목적으로 허위로 교통사고를 낸 운전자라고 자백한 피의자가 지난 13일 재판에 넘겨졌다. 이 범행의 전모는 경찰의 재수사와 검찰의 보완수사 끝에 드러난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TMNTBME2TCZRVGUZTAMRZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울중앙지검 형사2부(부장 이주희)는 “해당 교통사고의 진범을 밝혀내고, 자신이 운전자라고 허위 자백한 A씨를 범인도피죄로 불구속 기소했다”고 밝혔다. 당초 경찰은 A씨가 종합보험에 가입돼 있는 점 등을 고려해 별도의 조사 없이 불송치 결정을 내렸다고 한다. 그러나 검찰은 교통사고 피해자의 진술과 피해 차량 블랙박스 영상 등을 검토한 결과 A씨가 운전자가 아니라고 의심한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재수사에 나선 경찰은 실제로 교통사고를 낸 범인은 A씨의 지인이었고, 그가 경찰에 허위로 진술했다는 사실을 발견한 뒤 A씨를 검찰에 송치했다. 검찰은 “재수사를 통해 A씨가 보험 가입을 하지 않은 진범을 대신해 허위로 보험금을 청구한 사실을 확인했다”며 “이번 사건이 보험금 편취 과정의 일환이라는 점을 규명했다”고 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 불송치 사건을 충실히 검토하고, 보완수사가 필요한 사건은 적극적으로 수사해 실체적 진실이 규명될 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 2월 24일 화요일 (음력 1월 8일 己巳)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/IK2OGABOVBCG3A2AYLNUGQDF3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/IK2OGABOVBCG3A2AYLNUGQDF3M/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>순직 경찰관에 ‘칼빵’ 발언…경찰직협, 무속인 예능 논란에 “깊은 분노”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/KT5YL5GJHBADDCX7TD6TRAEGZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/KT5YL5GJHBADDCX7TD6TRAEGZ4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 07:54:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KCDOGKPWFG5PP6YUU2DMGD3GY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;디즈니+ '운명전쟁49' 포스터. /디즈니+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관 노조 대안 조직 격인 전국경찰직장협의회(경찰직협)는 디즈니+ 예능 프로그램 ‘운명전쟁49’가 순직 경찰관의 사망 경위를 예능 소재로 활용하며 ‘칼빵’이라는 표현을 사용한 데 대해 항의했다.&lt;br&gt;&lt;br&gt;경찰직협은 이날 입장문을 내고 “범인 검거 중 순직한 공무원의 희생을 ‘칼빵’이라는 저속한 은어로 비하하고, 이를 유희의 소재로 삼은 출연진과 제작진의 몰상식한 행태에 깊은 분노와 참담함을 표한다”고 했다.&lt;br&gt;&lt;br&gt;‘운명전쟁49’는 49명의 운명술사가 다양한 미션을 수행하며 자신의 운명을 시험하는 서바이벌 예능 프로그램으로, 지난 11일 공개된 2화에서는 2004년 강력 사건 피의자를 검거하는 과정에서 흉기에 찔려 순직한 고(故) 이재현 경장의 사인을 맞히는 미션이 등장했다. 이때 한 무속인은 “흔히 칼 맞는 걸 ‘칼빵’이라고 하지 않느냐. 칼 맞는 것도 보이고…”라며 이 경장의 사인을 추정했고, MC를 맡은 방송인 전현무는 “제복 입은 분이 칼빵이다. 너무 직접적이죠?”라고 반응했다. 패널 신동은 “(칼빵) 단어가 너무 좋았다”며 맞장구를 쳤다.&lt;br&gt;&lt;br&gt;이에 경찰직협은 “순직 공무원의 헌신은 우리 사회가 영원히 기억하고 예우해야 할 가치”라며 “14만 경찰 공무원의 가슴에 대못을 박았다”고 했다. 이어 “순직은 누군가에게 하늘이 무너지는 고통이며 국가적으로도 커다란 손실”이라며 “범죄자들 은어인 ‘칼빵’으로 묘사하며 웃음을 유도한 것은 인륜을 저버린 행위이자 고인과 유가족에 대한 명백한 2차 가해”라고 했다.&lt;br&gt;&lt;br&gt;경찰직협은 해당 방송사에 출연진의 공개 사과와 자숙의 시간, 유가족과 전국 경찰공무원에 대한 공식 사죄, 문제 회차 방영분의 즉각 삭제 등을 요구했다. 또 방송통신심의위원회를 향해선 “이번 사안의 심각성을 엄중히 받아들여 해당 프로그램에 법정 최고 수준의 징계를 내려 달라”고 했다.&lt;br&gt;&lt;br&gt;한편 이 프로그램에서는 고인의 초상 사용에 대해 유족의 동의를 제대로 얻지 않았다는 지적도 제기된 바 있다. 2001년 서울 서대문구 홍제동 화재 현장에서 순직한 고 김철홍 소방교의 사인을 맞히는 미션이 등장했는데, 유족 측이 “제작진이 영웅이나 열사를 다루는 다큐멘터리 취지라고 설명해 동의했다”며 반발한 것이다. 비판이 이어지자 제작진은 “상처 입으신 유가족과 동료 소방관께 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“5000피 거의 다 왔다” 金총리, 강연 중 말실수</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/VHTA3Y7LSRGWJNLMXDNCMCHHBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/VHTA3Y7LSRGWJNLMXDNCMCHHBE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 07:07:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5X2HFFKQ3ROAJCQ55MN5C7JGRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 21일 경북 포항시 포은흥해도서관에서 열린 더불어민주당 경북도당 초청 K-국정설명회에서 특별강연을 하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 지난 21일 경북 포항에서 열린 국정 설명회에서 “코스피 5000이 거의 다 왔다”고 말실수를 해 이목을 끌었다. 당일 코스피는 종가 기준 5800선이었고, 코스피 5000은 지난달 말 넘어선 바 있다.&lt;br&gt;&lt;br&gt;김 총리는 포항에서 지역 주민 300여 명이 참석한 가운데 열린 11번째 ‘K-국정설명회’에서 코스피 5000 달성이 쉽지 않을 것이라는 관측 속에 자신이 대선 공약을 제시했다며 “그때 우리가 그 말을 하면서도 꼭 100% 우리가 임기 4년 내에 할 수 있다고 믿는 눈치는 아니었다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이후 김 총리는 “열심히 하고 잘하면 5000까지 갈 수 있겠다 생각은 했는데 웬걸, 3000, 4000, 5000까지 거의 다 왔지 않느냐”고 했다. 당시 PPT 화면에는 설명회 전날인 2월 20일 코스피가 4808.53을 기록한 것으로 적혀 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGNZCSKMQFB3FFXRQOP7KSSBEE.png"&gt;&lt;figcaption&gt;&lt;small&gt;김 총리가 20일 코스피가 4808.53이라고 잘못 기재된 PPT 화면을 보며 "열심히 하고 잘 하면 5000까지 갈 수 있겠다 생각은 했는데 웬걸, 3000 4000 5000까지 거의 다 오지 않았냐"고 발언하고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 코스피 5000 돌파는 지난 1월 이미 이뤄졌다. 지난달 22일 장중 5000선을 터치했고, 같은 달 27일 5084.85로 장을 마감하며 사상 처음으로 종가 기준 5000선을 넘어섰다. 김 총리 강연 전날인 20일 코스피 종가는 5808.53으로, 6000에 가까운 수치였다. &lt;br&gt;&lt;br&gt;이에 시민들은 “이미 코스피 5000을 넘지 않았느냐”며 웅성거렸고, 시민들의 반응을 뒤늦게 확인한 김 총리는 PPT 화면을 한 번 보더니 “날짜를 반영하면 된다. 올라갔다 내려갔다 하니까…”라고 급히 해명했다.&lt;br&gt;&lt;br&gt;김 총리의 이런 말실수는 클립 등으로 제작돼 온라인에 퍼졌다. 네티즌 사이에서는 “총리가 왜 코스피 5000 넘은 걸 모르냐” “총리실 실무진이 실수로 PPT를 잘못 만들었고, 총리는 잘못된 표기를 그대로 보고 말한 것 같다” “자료에 오타가 났으니 그대로 말한 것일 뿐, 총리가 설마 5000을 넘긴 걸 모르겠냐” 등 다양한 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FA4CKEUEABKUDCBWQYIJPJOSLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 23일 인천 계양구 계양문화회관에서 열린 더불어민주당 인천시당 초청 K-국정설명회에서에서 강연을 하고 있다. PPT에 지난 20일 종가 기준 코스피가 5808.53으로 정상적으로 기재돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 문제의 PPT 화면은 수정된 것으로 보인다. 23일 인천 계양구 계양문화회관에서 더불어민주당 인천시당 초청으로 열린 K-국정설명회에서는 20일 코스피가 5808.53으로 정상적으로 기재돼 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 이틀간 59차례 112 전화 건 60대, 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/23/3G32EST3G5GSHFGSTYLLYF7PKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/3G32EST3G5GSHFGSTYLLYF7PKU/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>술에 취한 채 112에 수십 차례 전화를 건 60대에게 법원이 벌금형을 선고했다.
+춘천지법 형사3단독 박동욱 판사는 경범죄처벌법 위반 혐의로 기소된 A(63)씨에게 벌금 20만원을 선고했다고 23일 밝혔다.</description>
+      <pubDate>Mon, 23 Feb 2026 07:49:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YGGYZRG5QTMZRWMRRTOMRWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채 112에 수십 차례 전화를 건 60대에게 법원이 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 경범죄처벌법 위반 혐의로 기소된 A(63)씨에게 벌금 20만원을 선고했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 술에 취한 상태로 112에 전화를 걸기 시작해 이튿날 오후 1시까지 모두 59차례에 걸쳐 전화를 건 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 1~4분 간격으로 전화를 걸어 아무 말도 하지 않거나 “야, 너 이름이 뭐야”라고 말하는 등 경찰 업무를 방해한 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “허위 신고를 한 것이 아니어서 지구대의 업무를 방해하지 않았다”고 주장했으나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;박 판사는 “별다른 이유 없이 112에 전화를 건 횟수, 간격을 비춰보면 죄질이 좋지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북도의회, 현대차 새만금 투자 결정에 “적극 환영”</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/02/23/7BHPNNFZMJGIXEOWDMNGHNDEFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/23/7BHPNNFZMJGIXEOWDMNGHNDEFY/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 07:45:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRWKMRRGAYDEMRVHFRTEOBSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북도의회 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도의회가 이번 주 예정된 현대자동차그룹의 새만금 대규모 투자 계획 발표를 앞두고 180만 전북도민과 함께 환영의 뜻을 표명했다.&lt;br&gt;&lt;br&gt;도의회는 23일 논평을 통해 “현대자동차그룹이 이번 주 새만금에서 관계 부처와 양해각서(MOU)를 체결하고 투자 계획을 공식 발표할 것으로 알려졌다”며, “이번 투자는 새만금을 글로벌 미래 산업의 핵심 거점으로 격상시키는 획기적인 전기가 될 것”이라고 평가했다.&lt;br&gt;&lt;br&gt;이어 도의회는 “AI, 수소, 로봇 등 첨단 신산업 분야에 대한 현대차의 집중 투자는 전북 산업 구조의 대전환을 견인하는 강력한 동력이 될 것”이라며, “계획된 투자가 차질 없이 이행될 수 있도록 의회 차원의 모든 지원과 협력을 다하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;특히 기업의 안정적인 정착과 성공적인 활동을 보장하기 위해 “정주 여건 개선과 산업 인프라 확충을 위한 제도적·재정적 뒷받침을 아끼지 않겠다”고 약속했다.&lt;br&gt;&lt;br&gt;마지막으로 도의회는 “현대자동차그룹의 과감한 투자 결단에 다시 한번 깊은 감사를 표한다”며 “이번 투자가 전북의 경제 도약을 넘어 대한민국의 미래 산업 경쟁력을 한 단계 끌어올리는 역사적 이정표가 될 것으로 확신한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>원각사지 십층석탑, 27년 만에 유리벽 안에서 본다</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/CTR7CUAZGBHALHIJVX6BGENPQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/CTR7CUAZGBHALHIJVX6BGENPQY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 07:25:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU4HE523VBKIPLF7M7KVI4UA6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울 종로구 탑골공원에서 원각사지 십층석탑 내부 공개 관람이 진행되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 탑골공원에 있는 국보 2호 ‘원각사지 십층 석탑’이 공개된다. 지금은 석탑을 보호하기 위해 사방을 유리벽으로 둘러쌌는데 그 안으로 들어가 맨눈으로 석탑을 볼 수 있게 한다는 것이다. &lt;br&gt;&lt;br&gt;서울 종로구는 다음 달 4일부터 15일까지 석탑을 공개한다고 23일 밝혔다. 원각사지 십층 석탑은 조선 세조 때인 1467년 건립된 대리석 탑이다. 높이는 약 12m다. 1962년 숭례문에 이어 국보 2호로 지정됐다. 부처와 용, 연꽃 등을 정교하게 새겨 조선 시대 석탑 가운데 가장 아름답다는 평가를 받는다. 원각사는 탑골공원 자리에 있던 사찰이다. 조선 세조 때 창건됐으나 연산군 때 문을 닫았다. &lt;br&gt;&lt;br&gt;대리석으로 만들어 화강암 석탑보다 풍화가 빠른 편이다. 서울시는 1999년 “산성비, 새똥 등 때문에 석탑이 훼손되고 있다”며 높이 15.4m 유리벽으로 둘러쌌다.&lt;br&gt;&lt;br&gt;이후 두께 2㎝가 넘는 유리벽 때문에 석탑을 제대로 관람하기 어렵다는 민원이 잇따랐다. 종로구 관계자는 “유리벽 때문에 바람이 통하지 않아 결로가 생긴다는 지적도 나왔다”고 했다.&lt;br&gt;&lt;br&gt;종로구는 “이번에 석탑을 공개해 본 뒤 국가유산청과 유리벽 철거, 시설 개선 등 방안을 논의할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;석탑을 보려면 서울시 ‘공공 서비스 예약’ 사이트에서 예약해야 한다. 하루 20명만 관람할 수 있다. 6·9·10일은 쉰다. &lt;br&gt;&lt;br&gt;종로구는 2024년부터 ‘탑골공원 복원 사업’을 벌이고 있다. 담장을 일부 허물고 1897년 공원 개장 당시 있었던 서문(西門)을 복원할 예정이다. 작년 11월에는 공원을 금주(禁酒) 구역으로 지정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김종우 광주지검장 “보완수사는 국민 억울함 해소 위한 제도”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/VDG6VRHWXFBXRAA4ACGFUXMC64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/VDG6VRHWXFBXRAA4ACGFUXMC64/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 07:11:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XYZ7TYENZM47N7VWTHZYNGNCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김종우 광주지검장이 23일 오후 광주 동구 광주지방검찰청에서 열린 기자간담회에서 검찰 보완수사권 존치를 촉구하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김종우 광주지검장이 검사의 보완 수사권이 유지돼야 한다는 공개 입장을 밝혔다. 더불어민주당은 신설되는 공소청에 보완 수사권을 비롯해 수사 권한을 허용하지 않는 검찰 개혁안을 추진하고 있다.&lt;br&gt;&lt;br&gt;김 지검장은 23일 기자간담회를 열고 “보완 수사는 국민의 억울함을 해소하기 위한 제도로 수사·기소 분리와 다른 문제”라며 “보완 수사가 없어지면 형사 사법 제도 자체가 무너질 우려가 있다”고 말했다.&lt;br&gt;&lt;br&gt;현행 형사소송법 196조는 ‘검사는 사법경찰관으로부터 송치받은 사건에 관하여는 해당 사건과 동일성을 해치지 아니하는 범위 내에서 수사할 수 있다’고 규정한다. 검찰이 직접 수사 개시한 사건이 아니더라도 관련성이 인정되는 범죄 혐의에 대해서는 수사가 가능하다는 취지다.&lt;br&gt;&lt;br&gt;하지만 ‘검수완박(검찰 수사권 완전 박탈)’ 입법을 추진 중인 민주당은 보완 수사도 수사 권한에 속하기 때문에 공소청에 보완 수사 요구권만 허용할 수 있다는 입장이다.&lt;br&gt;&lt;br&gt;김 지검장은 “보완 수사는 1차 수사기관의 확증 편향을 교차 검증으로 견제하는 기능을 한다”며 “보완 수사를 통한 증거 보강은 공소 제기·유지에 충실하라는 검찰 개혁 취지와도 정확히 부합한다”고 했다.&lt;br&gt;&lt;br&gt;또 “일부 정치적 사건에서 표적·왜곡·봐주기 수사는 응당 비판받아야 마땅하다”면서 “수사·기소 분리 취지는 검사의 수사 개시권 폐지로도 충분히 달성할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;광주지검은 이날 경찰이 단순 교통사고라고 판단해 불송치 처분했던 2억원대 보험 사기, 경찰이 피의자 1명만 송치했으나 검찰이 7명을 추가로 기소한 지적 장애인 집단 성폭행 등을 ‘보완 수사 우수 사례’로 제시했다.&lt;br&gt;&lt;br&gt;김 지검장은 “보완 수사 요구권은 이미 한 번 판단을 내린 수사기관에 ‘당신이 틀렸으니 다시 해보라’고 요구하는 구조”라며 “경찰이 보완 수사 요구를 거부하거나 형식적으로만 이행할 경우, 이를 강제할 실질적 수단이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2XYZ7TYENZM47N7VWTHZYNGNCU.jpg?auth=35e2abc1c4703e3614569d9be0bb7385bbf6471545ce1299235ddca953311f38&amp;smart=true&amp;width=2609&amp;height=1738" type="image/jpeg" height="1738" width="2609">
+        <media:description type="plain">[광주=뉴시스] 이영주 기자 = 김종우 광주지검장이 23일 오후 광주 동구 광주지방검찰청에서 열린 기자간담회에서 검찰 보완수사권 존치를 촉구하고 있다. 2026.02.23. leeyj2578@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">LEEYJ2578</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘尹 파면’ 전광판 치킨집, 이행강제금 80만원 부과</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/23/L3ZA4MXJWRE7TEQZSALHOHMO5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/L3ZA4MXJWRE7TEQZSALHOHMO5Q/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Feb 2026 06:42:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FL4NL4PTZBETHXIZ3DJ4DWS3YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 인천 한 치킨집 업주가 가게 전광판에 윤석열 전 대통령 파면과 이재명 대통령 당선 축하 메시지를 내걸었던 모습./인터넷 커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동구는 작년 윤석열 전 대통령이 파면되자, ‘감사하다’는 글을 가게 전광판에 노출해 화제가 된 인천의 한 치킨집 업주에게 이행강제금을 부과할 예정이라고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이행강제금은 위반사항을 시정할 때까지 행정관청이 부과할 수 있는 간접적 강제수단이다. 이 LED전광판은 불법으로 설치된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;남동구에 따르면, 구는 구월동에 있는 모 프랜차이즈 치킨 음식점 업주가 불법 전광판을 철거하지 않자, 이행강제금 80만원을 부과하기로 하고 이런 내용의 사전 통지서를 보냈다. 이에 따라 해당 업주가 다음달 6일까지 이 전광판을 철거하는 등 시정조치를 하지 않으면 이행강제금이 그대로 부과될 예정이다.&lt;br&gt;&lt;br&gt;남동구 관계자는 “해당 조례에 따르면 LED전광판의 경우, 건물의 4층 이상, 15층 이하에 설치하게 돼 있는데, 해당 치킨집은 1층에 설치돼 있어 기준에 맞지 않는다”며 “허가나 신고를 받지도 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRTOOLCGAZDQMZVGIZTENLEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 남동구청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남동구는 해당 업주에게 자진 정비를 권고했는데, 이뤄지지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;남동구는 이후에도 시정 명령이 이행되지 않으면, 재차 이행강제금을 부과할 방침이다. 이행강제금은 규정상 연간 최대 2차례, 500만원까지 부과할 수 있다.&lt;br&gt;&lt;br&gt;남동구 관계자는 “사유 재산인 탓에 시민 안전에 위험이 되는 급박한 상황이 아니면 강제 철거 등 행정대집행을 할 수 있는 관련 규정이 없다”고 했다. &lt;br&gt;&lt;br&gt;이 가게는 작년 4월 4일 헌법재판소가 윤 전 대통령에 대한 파면을 선고한 직후 1층 입구 전광판에 “‘피청구인 윤석열을 파면한다’ 국민 여러분 감사합니다”라는 글을 노출했다. 해당 전광판 사진이 여러 온라인 커뮤니티에 공유되며 화제가 되자, 남동구에는 이 치킨집에 대한 여러 민원 신고가 잇따라 접수된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 치킨집 업주는 이후에도 세월호 참사를 추모하는 문구를 전광판에 띄웠다가 손님으로부터 폭행을 당했다며 경찰에 신고하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 정선서 산불… 헬기 5대 투입 진화 중</title>
+      <link>https://www.chosun.com/national/regional/2026/02/23/3QVZHVY3X5BBHNLPLOGZOU5Q2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/23/3QVZHVY3X5BBHNLPLOGZOU5Q2U/</guid>
+      <dc:creator>정선=정성원 기자</dc:creator>
+      <description>23일 오후 1시 57분쯤 강원 정선군 신동읍 한 야산에서 불이 났다. 불이 나자 산림 당국은 헬기 5대와 장비 26대를 투입해 진화 작업을 벌이고 있다.</description>
+      <pubDate>Mon, 23 Feb 2026 06:21:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JG545TEL3FBJ3EY6MSK5DVWYU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 강원 정선군 신동읍 한 야산에서 불이 나 산림 당국이 진화 작업을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 1시 57분쯤 강원 정선군 신동읍 한 야산에서 불이 났다. 불이 나자 산림 당국은 헬기 5대와 장비 26대를 투입해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;산불이 난 곳엔 현재 초속 6.2m의 강풍이 불고 있으며, 현재 진화율은 70%다.&lt;br&gt;&lt;br&gt;산림 당국은 “일몰 전 진화 작업을 완료하는 게 목표”라며 “불을 끄는 대로 정확한 화재 원인과 피해 규모를 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이물질 신고된 코로나 백신 1420만회분, 접종 강행했다</title>
       <link>https://www.chosun.com/politics/goverment/2026/02/23/CUOCXFHZDNDQNPBT4P2UMTNZEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/02/23/CUOCXFHZDNDQNPBT4P2UMTNZEM/</guid>
@@ -557,15 +671,6 @@
       <content:encoded>한국 성인의 음주운전 경험률이 최근 10년 사이 6분의 1 수준으로 급감한 것으로 나타났다. 음주운전을 ‘사회악’으로 여기는 사회적 공감대가 형성된 것이 주된 배경으로 풀이된다.&lt;br&gt;&lt;br&gt;22일 보건복지부와 한국건강증진개발원의 ’2025년 알코올 통계자료집’에 따르면 2023년 기준 19세 이상 성인의 연간 음주운전 경험률은 2.1%였다. 10년 전인 2013년(12.6%)과 비교하면 10.5%포인트나 감소했다. 음주운전 경험률은 질병관리청이 매년 우리 국민 1만여명을 대상으로 실시하는 국민건강영양조사를 토대로 최근 1년간 자동차나 오토바이를 운전한 사람 중 조금이라도 술을 마신 후 운전한 적이 있는 사람의 비율을 집계한 것이다.&lt;br&gt;&lt;br&gt;성인 음주운전 경험률은 2011년 17.1%에 달했으나 이후 꾸준히 감소해 2016년 8.4%를 기록하며 처음으로 10% 아래로 떨어졌다. 2023년에는 2%대 초반까지 내려왔다. 2023년 기준 남성은 2.6%, 여성은 0.9%였다.&lt;br&gt;&lt;br&gt;특히 나이가 적을수록 음주운전 경험률이 낮았다. 70세 이상의 경험률이 4.1%로 전 연령대 중 가장 높았다. 이어 50대(3.7%), 60대(3.1%), 40대(2.3%) 순이었다. 반면 30대(1.1%)와 20대(0.8%) 등 젊은 층은 상대적으로 낮은 수치를 기록했다. 음주운전에 비교적 관대하던 과거와 달리 음주운전 처벌 수위가 강화되는 등의 사회적 변화가 2030세대의 낮은 음주운전 경험률에 영향을 미친 것으로 보인다.&lt;br&gt;&lt;br&gt;음주운전 차량에 함께 타는 ‘동승 문화’도 크게 줄었다. 성인의 연간 음주운전 차량 동승률은 2013년 14.9%에서 2023년 3.3%로 감소했다. 전체 교통사고 발생 건수 중 음주운전 사고가 차지하는 비율도 2013년 12.3%에서 2023년 6.6%로 줄었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>1980년 5월 모습 복원...옛 전남도청 28일 시범운영 돌입</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/02/22/CMNYZ3XPINGFBABUIU4UOTJIYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/22/CMNYZ3XPINGFBABUIU4UOTJIYQ/</guid>
-      <dc:creator>광주광역시=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Feb 2026 04:32:25 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QYF4J5PKZNDTNOGFUBK54WGAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문화체육관광부 옛전남도청복원추진단은 22일 옛 전남도청 복원공사를 마쳐 시범 운영에 들어간다고 밝혔다. 오는 28일부터 시작되는 시범 운영은 4월 5일까지 이뤄지며, 5월 중 정식 개관할 예정이다. 사진은 지난 20일 광주 동구 옛 전남도청 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5·18 민주화운동의 최후 항쟁지이자 시민군의 지휘부였던 옛 전남도청이 2년 5개월여 간의 복원 공사를 드디어 마무리하고 시민들의 품으로 돌아올 채비를 마쳤다. 1980년 5월 당시의 모습으로 되돌리기 위해 지난 2023년 8월 첫삽을 뜬 지 약 2년 반 만이다.&lt;br&gt;&lt;br&gt;22일 문화체육관광부 옛전남도청복원추진단에 따르면, 옛 전남도청 건물 및 시설 준공과 내부 전시 콘텐츠 설치가 대부분 완료됨에 따라 오는 28일부터 4월 5일까지 시범운영에 들어간다. 추진단은 시범 운영을 한 뒤 보완 작업을 거쳐 5월 중 정식 개관할 예정이다. &lt;br&gt;&lt;br&gt;앞서 추진단은 2023년 8월 착공식을 열고 본격적인 복원 공사에 돌입했다. 당시 약 495억 원의 사업비를 투입하여 도청 본관과 별관, 회의실, 옛 전남경찰청 본관과 민원실, 상무관 등 6개 동을 1980년 당시의 원형으로 복원하는 데 주력했다. 훼손된 공간을 되살리는 것은 물론, 5·18을 기억하고 미래 세대를 위한 교육·전시·기록이 혼합된 상징적 거점 공간으로 조성하는 작업이 병행됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>AI 카메라·드론 갖춘  첨단 경찰 순찰차, 4월 서울 거리 달린다</title>
       <link>https://www.chosun.com/national/incident/2026/02/22/GBBVW5WXSBC4ZCMANQRS4VBMFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/22/GBBVW5WXSBC4ZCMANQRS4VBMFA/</guid>
@@ -678,40 +783,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4YWRTCHO2BGNZG5EGZHGYEPPQE.jpg?auth=9ef1c5cd4a337f0ea7efc9189bc0393b383b57e11e0c7489e99775612ea08e50&amp;smart=true&amp;width=2560&amp;height=1707" type="image/jpeg" height="1707" width="2560"/>
     </item>
     <item>
-      <title>[신문은 선생님] [뉴스 속 신화] 고난 끝에 왕이 된 두 영웅, 오만함이 운명 갈랐어요</title>
-      <link>https://www.chosun.com/national/nie/2026/01/19/3ZPPFSLTHRDQ3E67F3AKDPPT5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/19/3ZPPFSLTHRDQ3E67F3AKDPPT5M/</guid>
-      <dc:creator>김원익 홍익대 문과대학 교수·사단법인 세계신화연구소장, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 Jan 2026 15:38:00 +0000</pubDate>
-      <content:encoded>전 세계 신화에 등장하는 영웅들은 비슷한 특징이 있어요. 두려움 없이 당당하게 고난에 맞선다는 거죠. 그리스 신화에 나오는 테세우스가 아테네의 왕이 되기까지 온갖 고난과 악당을 물리쳐 가며 영웅으로 거듭나는 과정도 마찬가지입니다.&lt;br&gt;&lt;br&gt;하지만 성공한 뒤에도 영웅들은 겸손을 잃지 말아야 합니다. 괴물을 물리치고 왕의 자리에 올랐던 벨레로폰은 한순간의 오만으로 영웅이 추락한 사례예요. 오늘은 그리스 신화에 나오는 영웅의 덕목에 대해 같이 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74SALCAL65D2DFMMUVFA7ISJRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;땅속에 묻힌 아버지의 칼을 찾는 테세우스(오른쪽) 모습입니다. 프랑스 화가 니콜라 푸생이 그렸어요.
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;바위 아래 숨겨진 왕의 칼&lt;/b&gt;&lt;br&gt;&lt;br&gt;테세우스의 아버지는 아테네의 왕 아이게우스였어요. 하지만 그는 아버지가 누구인지 모르고 자랐습니다. 그는 아버지 아이게우스가 여행 중 사랑에 빠진 트로이젠 공주 아이트라와의 사이에서 생긴 아이예요. 하지만 아이게우스는 자신의 반대파가 득실거리는 아테네로 자기 아이를 임신한 아이트라를 데려갈 수 없었죠. 고민 끝에 아이게우스는 트로이젠을 떠나기 전, 공주를 숲속 커다란 바위로 데려가 그 옆에 구덩이를 파고 칼 한 자루를 넣었대요. 이어 흙으로 구덩이를 덮고 그 위에 바위를 올려놓은 다음 이렇게 말했어요. “당신이 장차 아들을 낳아 그 아이가 이 바위를 들어 올릴 만큼 장성하여 나를 찾거든 이 칼을 들려 내게 보내시오!”&lt;br&gt;&lt;br&gt;아이트라는 열 달 후 아들이 태어나자 테세우스라고 이름 지었어요. 세월이 흘러 테세우스는 유난히 강인하고 지혜로운 청년으로 성장했어요. 어느 날 그는 어머니에게 어려서부터 마음에 담아 두고 있던 말을 꺼냈어요. “어머니, 우리 아버지는 어디 계신가요?”&lt;br&gt;&lt;br&gt;아이트라는 아들을 아버지에게 보낼 때가 됐다는 것을 직감하고 아들을 숲속으로 데려가 바위 밑을 파보라고 한 다음 칼을 가리키며 이렇게 말했어요. “아들아, 네 아버지는 아테네의 왕 아이게우스다. 이제 아버지를 찾아가거라! 이 칼을 갖고 가면 아버지가 너를 금방 알아볼 것이다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;험난한 길을 택하는 영웅&lt;/b&gt;&lt;br&gt;&lt;br&gt;트로이젠에서 아테네로 가는 방법은 육지 길과 바닷길 두 가지가 있었어요. 그런데 육지 길은 긴 데다 길목마다 악당이 들끓었고, 바닷길은 짧고 바람도 불지 않아 안전했어요. 어머니는 아들에게 안전한 바다로 가라고 충고했어요. &lt;br&gt;&lt;br&gt;하지만 테세우스는 굳이 위험한 육지로 가겠다고 고집을 피웠어요. 어머니의 만류에도 육지 길을 택해 수많은 악당을 하나씩 해치우면서 아테네에 도착했습니다. 쉽고 밋밋한 길을 피하고 어렵고 꼬불꼬불한 길을 찾아다닌 거죠. 그는 결국 아테네의 왕인 아버지 아이게우스를 만나 후계자가 됩니다&lt;b&gt;. &lt;/b&gt;그는 왕이 된 후에는 아테네에서 처음으로 민주정을 도입하기도 했어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBG5GTMHRNG5PCFPGJ3S7EDO5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;페가수스를 탄 벨레로폰이 키마이라를 무찌르는 장면을 담은 로마 시대 모자이크 작품입니다.
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;괴물을 물리친 벨레로폰&lt;/b&gt;&lt;br&gt;&lt;br&gt;고난을 극복하고 영웅이 된 뒤에 겸손함을 잊어버리는 경우도 있어요. 그리스 신화의 영웅 벨레로폰처럼 말이죠. 벨레로폰은 코린토스의 왕자였어요. 그는 실수로 형제를 죽인 뒤, 나라에서 추방당해 티린스의 왕 프로이토스의 손님이 돼서 그의 궁전에서 살았어요. 그런데 프로이토스의 왕비 안테이아가 벨레로폰에게 첫눈에 반해 사랑을 고백했다가 거절당하자, 자신을 겁탈하려 했다는 누명을 씌웠어요.&lt;br&gt;&lt;br&gt;프로이토스는 아내의 말만 믿고 복수심에 불타올랐어요. 하지만 손님을 죽였다는 비난을 받고 싶지 않았어요. 그래서 밀봉한 편지와 함께 벨레로폰을 리키아의 왕 이오바테스에게 보냈어요. 이오바테스는 프로이토스의 장인이었죠. 편지에는 이렇게 쓰여 있었어요. “장인어른, 이 편지를 갖고 가는 자를 없애주십시오. 그자는 안테이아를 겁탈하려고 한 자입니다.”&lt;br&gt;&lt;br&gt;사위의 편지를 읽고 난 이오바테스도 손님을 죽였다는 비난을 듣기 싫었어요. 그래서 벨레로폰에게 골칫거리 괴물 키마이라를 죽여 달라고 부탁했어요. 키마이라는 사자의 머리와 뱀 꼬리를 하고, 몸통에서는 염소의 상반신이 솟아나 있었으며, 입으로는 화염을 뿜어댔어요. 녀석은 사람·짐승 할 것 없이 닥치는 대로 해치고 다녔어요. 숱한 영웅들이 키마이라를 잡으러 갔다가 목숨을 잃었죠.&lt;br&gt;&lt;br&gt;벨레로폰은 영웅들의 수호 여신 아테나에게 간청해 날개 달린 말 페가수스를 얻은 뒤 키마이라를 찾아갑니다. 벨레로폰은 페가수스를 타고 납덩어리가 연결된 창을 키마이라의 주둥이에 던져 넣었어요. 키마이라의 화염이 납을 녹였고, 납은 목구멍을 타고 내려가 키마이라의 내장을 태웠어요.&lt;br&gt;&lt;br&gt;이오바테스는 괴물을 물리친 벨레로폰에게 상을 내리기는커녕 그 후 두 번이나 연거푸 다른 과업을 줬어요. 벨레로폰은 아무 불평 없이 페가수스를 타고 하늘을 날아다니며 그 과업들도 가뿐히 완수했어요. 초조해진 이오바테스는 벨레로폰에게 왕실 수비대를 보내 그를 암살하려 했어요. 하지만 그들도 오히려 벨레로폰에게 몰살을 당하고 말았어요. 이오바테스는 그제서야 벨레로폰이 신의 보호를 받고 있다는 사실을 깨닫고 그에게 사위 프로이토스의 편지를 보여주며 용서를 구했어요. 진실이 밝혀지자 이오바테스는 벨레로폰과 자신의 딸 필로노에를 결혼시키고 벨레로폰을 후계자로 삼았어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QC6B4DQJNNABNFCCWU4M4SG7BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;페가수스에서 떨어지는 벨레로폰과 그 모습을 내려다보는 제우스. 17세기에 그려진 것으로 추정됩니다.
-/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;벨레로폰의 추락&lt;/b&gt;&lt;br&gt;&lt;br&gt;여기까지만 보면 벨레로폰은 누명을 딛고 성공한 영웅이에요. 하지만 그는 이후 왕위에 올라 행복이 최고조에 오르자, 그만 오만에 빠지고 말았어요. 어느 날 벨레로폰은 신하들에게 신들의 왕 제우스와 식사하고 오겠다고 말한 뒤 페가수스를 타고 하늘의 올림포스 궁전을 향해 날아갔어요. 마치 자신이 신이 된 것처럼 말이죠. 올림포스 궁전은 신들의 영역이기 때문에 인간인 벨레로폰이 마음대로 드나들 수 없는 곳이에요.&lt;br&gt;&lt;br&gt;그 광경을 내려다보고 있던 제우스는 크게 분노해 벨레로폰에게 커다란 쇠파리 한 마리를 날려 보냈어요. 쇠파리가 페가수스를 물자, 깜짝 놀란 페가수스는 하늘로 치솟아 올랐어요. 그 바람에 벨레로폰은 페가수스에서 떨어져 다리가 부러지고 눈이 멀었어요. 그는 죽을 때까지 사람들을 피해 다니며 쓸쓸히 거리를 맴돌았어요.&lt;br&gt;&lt;br&gt;벨레로폰처럼 추락하지 않으려면 사람은 높은 자리에 올랐을수록 초심을 잃지 말고 더욱 겸손해야 해요. 신화 속 신은 최정상에 오른 사람에게 오만이라는 함정을 파놓고 시험해요. 성공한 사람에게 오만은 꿀처럼 달콤한 법이죠. 그래서 선뜻 오만을 맛보다가 벨레로폰처럼 한순간에 추락하고 말아요. 전성기를 누리던 스타가 한순간에 추락하는 것도, 힘들었던 무명 시절을 까맣게 잊어버리고 오만에 빠졌기 때문이에요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>산림청장 술 취해 무법 질주... 車 2대 쾅쾅, 보행자도 칠 뻔</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/21/32H6FQBBFJHUPER55ON3KP4OMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/32H6FQBBFJHUPER55ON3KP4OMM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Feb 2026 10:43:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HS65YBA73NHRXC44OHMX2EAEWQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;김인호 산림청장이 음주운전을 하다 보행자를 칠 뻔한 장면. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 하다 사고를 내 직권 면직된 김인호 산림청장이 사고 당시 횡단보도를 건너던 시민과 충돌 직전까지 갔던 사실도 추가로 확인됐다. &lt;br&gt;&lt;br&gt;21일 경기 분당경찰서 등에 따르면, 김 청장은 전날 오후 10시 50분쯤 성남시 분당구 신기사거리에서 본인 소유의 승용차를 운전하던 중 버스와 승용차 등 차량 2대와 잇따라 부딪혔다.&lt;br&gt;&lt;br&gt;TV조선이 확보한 CCTV 영상에 따르면 김 청장은 신호를 위반해 직진하다가 좌측에서 신호를 받고 정상 주행하던 피해 차량들과 접촉 사고를 냈다.&lt;br&gt;&lt;br&gt;이 과정에서 보행 신호에 횡단보도를 건너던 시민을 칠 뻔하기도 했다. 보행자는 김 청장 차량을 보고 급하게 몸을 피해 다행히 사고를 당하진 않았다. &lt;br&gt;&lt;br&gt;사고가 경미해 크게 다친 사람은 없었으나, 향후에 부상을 호소하는 사람이 나올 가능성도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3IPTURHDBDYPFWMYV5FNMLBM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김인호 산림청장이 음주운전을 하다 보행자를 칠 뻔한 장면. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 조사 결과 사고 당시 김 청장의 혈중알코올농도는 면허 정지 수준인 것으로 나타났다. 경찰은 김 청장의 신분을 확인한 뒤 산림청 등 관계기관에 수사 개시 통보 조치했다.&lt;br&gt;&lt;br&gt;앞서 청와대 대변인실은 이날 오전 “이재명 대통령은 산림청장이 중대한 현행 법령 위반 행위를 하여 물의를 야기한 사실을 확인하고 직권 면직 조치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;청와대 대변인실은 김 청장의 중대한 현행 법령 위반 행위가 무엇인지 공개하지 않았으나, 뒤늦게 김 청장이 전날 음주운전 교통사고를 낸 사실이 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XY6MQW22JLJFH4CAWMOV3F2SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김인호 산림청장이 11일 세종시 정부세종컨벤션센터에서 열린 농림축산식품부(농촌진흥청·산림청)-고용노동부 업무보고에서 부처 업무보고를 하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 청장은 30년간 전문대학 교수로 근무했고 2022년 4월 더불어민주당에 입당해 지난해 3월부터 8월까지 민주당 정책위원회 부의장을 지냈다. 김 청장은 산림청장으로 임명되는 과정에서 이재명 정부가 국민으로부터 고위 공직자를 직접 추천받겠다며 개설한 ‘국민 추천제’ 홈페이지에 자신을 ‘셀프 추천’한 것으로 드러나 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HS65YBA73NHRXC44OHMX2EAEWQ.gif?auth=79523c34db3fac36018c17f60c1d85c3fab8664979e7e5c64ed5ef733c841a3b&amp;smart=true&amp;width=1014&amp;height=614" type="image/jpeg" height="614" width="1014">
-        <media:description type="plain">김인호 산림청장이 음주운전을 하다 보행자를 칠 뻔한 장면. /TV조선</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>강풍 속 서산·예산 산불… 6시간 만에 주불 잡혀</title>
-      <link>https://www.chosun.com/national/regional/2026/02/21/BJVD7PVGFRDBBBYNKCRAPRKNGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/BJVD7PVGFRDBBBYNKCRAPRKNGU/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>충남 서산과 예산에서 발생한 산불의 주불이 모두 잡혔다.
-산림청은 21일 오후 1시 35분쯤 충남 서산시 대산읍 대죽리 일원에서 발생한 산불의 주불이 4시간 55분 만인 오후 6시 30분쯤 잡혔다고 밝혔다.</description>
-      <pubDate>Sat, 21 Feb 2026 12:14:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SDMNRZGU2WEZJYHFRWIMJXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 충남 서산시 대산읍 대죽리 인근에서 산불이 발생해 연기가 솟구치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서산과 예산에서 발생한 산불의 주불이 모두 잡혔다.&lt;br&gt;&lt;br&gt;산림청은 21일 오후 1시 35분쯤 충남 서산시 대산읍 대죽리 일원에서 발생한 산불의 주불이 4시간 55분 만인 오후 6시 30분쯤 잡혔다고 밝혔다.&lt;br&gt;&lt;br&gt;산림 당국은 불이 나자 헬기 19대를 동원해 진화 작업을 벌였으나 강풍 탓에 어려움을 겪었다. 오후 3시 대응 1단계, 오후 4시 대응 2단계가 잇따라 발령되며 한때 긴장이 고조됐다.&lt;br&gt;&lt;br&gt;특히 화재 현장 인근엔 국내 최대 규모의 국가 석유비축기지인 대죽자원비축산업단지가 위치해 우려를 낳았지만, 다행히 시설 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;이번 산불은 밭에서 소각 작업을 하던 중 불티가 인근 야산으로 옮겨붙으며 시작된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이날 오후 2시 22분쯤 충남 예산군 대술면 송석리 한 야산에서 발생한 산불도 발생 4시간 18분 만인 오후 6시 40분쯤 주불이 진화됐다.&lt;br&gt;&lt;br&gt;강풍 영향으로 화선이 한때 산 능선을 따라 3㎞ 이상 이어졌지만, 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;주불은 모두 잡혔지만, 재발화 가능성에 대비해 현재 예산·서산 산불 현장엔 대응 1단계가 유지되고 있다.&lt;br&gt;&lt;br&gt;산림 당국은 날이 밝는 대로 산불 진화 헬기를 재 투입해 완전 진화에 나선다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>산림청 노조 “산불 조심 기간에... 수장이 조직 명예·국민 신뢰 훼손"</title>
       <link>https://www.chosun.com/national/national_general/2026/02/21/LX4S7SQAVRHADEZDGXBHDWMDV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/LX4S7SQAVRHADEZDGXBHDWMDV4/</guid>
@@ -724,15 +795,6 @@
       </media:content>
     </item>
     <item>
-      <title>접금·통신 금지 무시… 흉기 들고 스토킹 피해자 찾아간 20대</title>
-      <link>https://www.chosun.com/national/regional/2026/02/21/6F6NKNHTGRBBPP3RAUDUU3WUUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/6F6NKNHTGRBBPP3RAUDUU3WUUI/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Feb 2026 11:10:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;접근 금지 처분도 무시한 채 흉기를 들고 스토킹 피해자를 찾아간 20대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 안양동안경찰서는 스토킹범죄의 처벌 등에 관한 법률 위반 혐의로 20대 A씨를 붙잡아 조사 중이라고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 11시 30분쯤 경기 안양시 동안구에 있는 B씨의 영업장에 흉기를 들고 찾아가 B씨를 위협한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨가 B씨에게 흉기를 내보인 점 등을 고려해 살인 예비 혐의를 적용, A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 손님·업주 관계로 알게 됐으며, A씨는 최근에도 B씨의 영업장을 찾아 B씨를 괴롭힌 것으로 알려졌다. 이에 경찰은 A씨에게 B씨에 대한 접근 금지 및 통신 금지 조치를 내렸으나, A씨는 이를 어기고 이 같은 범행을 저질렀다.&lt;br&gt;&lt;br&gt;경찰은 조사를 마치는 대로 A씨에 대한 구속 영장 신청 여부를 검토할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘尹 무기징역’ 후 첫 주말집회…“무죄” vs “2심은 사형” 맞불</title>
       <link>https://www.chosun.com/national/national_general/2026/02/21/EQTQIJTUZRCHTGYDVW6M4SXA74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/EQTQIJTUZRCHTGYDVW6M4SXA74/</guid>
@@ -742,53 +804,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5PIRGZ5M5KQFJH3FWHKO3GLKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 내란 우두머리 혐의에 대한 1심 선고일인 19일 오후 서울 서초구 중앙지방법원 주변에서 윤 전 대통령 지지자들이 공소 기각을 촉구하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘내란 우두머리’ 혐의로 1심에서 무기징역을 선고받은 윤석열 전 대통령의 선고 이후 첫 주말인 21일, 서울 도심 곳곳에서 찬반 집회가 동시에 열렸다.&lt;br&gt;&lt;br&gt;보수 성향 단체인 대한민국바로세우기국민운동본부(대국본)는 이날 오전 11시 30분쯤부터 서울 종로구 동화면세점 앞과 광화문광장 일대에서 ‘광화문 국민대회’를 개최했다. 대국본은 전광훈 사랑제일교회 목사가 이끄는 단체다.&lt;br&gt;&lt;br&gt;참가자들은 태극기와 성조기를 흔들며 “윤석열을 석방하라”, “내란은 없었다” 등의 구호를 외쳤다. 일부는 “전광훈을 석방하라”고도 했다.&lt;br&gt;&lt;br&gt;이날 무대에 오른 한국사 강사 출신 유튜버 전한길씨는 1심 판결을 “정치적 판단이 개입된 재판”이라고 주장했다. 그는 “12·3 계엄은 반국가세력 척결을 위한 결단이었다”며 “국헌 문란이나 폭동은 없었다”고 했다. &lt;br&gt;&lt;br&gt;또 1심 재판을 맡은 지귀​ 재판부를 겨냥해 “성경 속 빌라도 재판과 같다”는 취지로 발언하며 “역사적 평가를 받게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 연단에 오른 김현태 전 육군 특수전사령부 707특수임무단장은 12·3 사태 당시 군의 대응과 관련해 “지휘 체계에 따라 움직였다”며 “합법적 비상계엄 선포 상황에서 상관의 명령에 따른 군인의 행위까지 범죄로 보는 것은 부당하다”는 취지로 주장했다. 김 전 단장은 관련 사안으로 파면된 인물이다.&lt;br&gt;&lt;br&gt;같은 날 오후 서울 서초구 대법원 인근에서는 진보 성향 시민단체 촛불행동이 ‘제179차 촛불대행진’을 열었다. &lt;br&gt;&lt;br&gt;참가자들은 “내란 완전 단죄”, “내란 책임에 상응하는 처벌이 필요하다” 등의 구호를 외치며 1심 판결이 충분치 않다는 입장을 밝혔다. 일부 참가자들은 “사형을 선고하라”는 구호를 외쳤다. &lt;br&gt;&lt;br&gt;연단에 선 김병주 더불어민주당 의원은 “2심에서는 반드시 사형 선고가 나와야 한다”며 “그렇지 않으면 미래에 또다시 쿠데타의 씨앗이 자랄 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>만취 10대 아빠 차로 질주… 순찰차 들이받고 도주까지</title>
-      <link>https://www.chosun.com/national/regional/2026/02/21/IKLGKOLVGBHKRPZBQIWCPVMG6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/IKLGKOLVGBHKRPZBQIWCPVMG6A/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>아버지 차량으로 음주 운전을 하다 순찰차를 들이받은 10대가 경찰에 붙잡혔다.
-경기 성남중원경찰서는 도로교통법 위반 등 혐의로 A(18)군을 붙잡아 조사 중이라고 21일 밝혔다.</description>
-      <pubDate>Sat, 21 Feb 2026 06:06:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지 차량으로 음주 운전을 하다 순찰차를 들이받은 10대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 성남중원경찰서는 도로교통법 위반 등 혐의로 A(18)군을 붙잡아 조사 중이라고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 이날 오전 2시쯤 경기 성남시 중원구 한 도로에서 술에 취한 상태로 차를 몰다가 주차된 오토바이를 들이받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A군은 사고 직후 그대로 도주했으며 신고를 받고 출동한 경찰과 마주치자 순찰차를 들이받은 뒤 다시 달아났다.&lt;br&gt;&lt;br&gt;A군은 2㎞가량을 도주하다가 중앙분리대를 들이받았고, 멈춰 선 차 안에서 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;체포 당시 A군의 혈중알코올농도는 면허 취소 수준이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A군이 아버지 차량을 몰고 나와 술자리를 가진 뒤 그대로 운전대를 잡은 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 2월 22일 일요일 (음력 1월 6일 丁卯)</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/21/ZKAG5NFY7BEY3EHFZJNYLTKI3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/ZKAG5NFY7BEY3EHFZJNYLTKI3M/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Feb 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>목줄 안 채워 ‘자전거 충돌 사망사고’ 낸 견주…구호 조치 없이 현장이탈</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/21/TMK45KAASREI5GPHROBMF6L3GU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/TMK45KAASREI5GPHROBMF6L3GU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Feb 2026 07:51:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목줄을 풀고 반려견을 산책시키다 자전거와 충돌 사고를 일으켜 50대 남성을 숨지게 한 견주가 실형을 선고받았다. &lt;br&gt;&lt;br&gt;21일 법조계에 따르면 의정부지법 형사단독(김준영 판사)은 동물보호법 위반 혐의로 재판에 넘겨진 견주 A씨에게 징역 1년 10개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 5월 경기 의정부시 중랑천변 산책로에서 그레이하운드 품종의 반려견과 산책하던 중 목줄을 풀어 놓고 안전 조치를 하지 않은 혐의다.&lt;br&gt;&lt;br&gt;당시 목줄이 풀린 반려견은 전기자전거를 타고 지나던 50대 남성 B씨에게 달려들어 자전거와 충돌했고, B씨는 넘어지면서 머리를 다쳤다.&lt;br&gt;&lt;br&gt;B씨는 병원으로 옮겨져 치료를 받았으나 일주일 만에 뇌간 압박 등으로 숨졌다.&lt;br&gt;&lt;br&gt;특히 견주 A씨는 사고 직후 별다른 구호 조치를 하지 않고 도망가는 반려견을 쫓아간다는 명목으로 현장을 이탈한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “등록 대상 동물의 소유자는 외출 시 목줄 착용 등 위해를 예방하기 위한 안전 조치를 해야 한다”며 “피고인은 이를 지키지 않아 피해자를 사망에 이르게 했다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “사고 직후에도 피해자에 대한 구호 조치를 충분히 하지 않은 채 현장을 이탈한 것으로 보인다”며 “유족과 합의하지 못했고 유족이 엄벌을 탄원하고 있는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충남 예산·서산서 잇단 산불… 산림 당국 “헬기 투입 진화 중”</title>
-      <link>https://www.chosun.com/national/regional/2026/02/21/DYPHZ3H4BFEITDRVJIGEKSCKXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/21/DYPHZ3H4BFEITDRVJIGEKSCKXE/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Feb 2026 07:38:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCCEVRC73VM5HDP3PKNU4M45WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 충남 서산시 대산읍 대죽리 한 야산에서 불이 났다. 산림 당국은 헬기 등을 투입해 진화 작업을 벌이고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 예산과 서산에서 잇따라 산불이 발생해 산림 당국이 진화에 나섰다.&lt;br&gt;&lt;br&gt;21일 오후 2시 22분쯤 충남 예산군 대술면 송석리 한 야산에서 불이 났다. 산림 당국은 헬기 12대를 투입해 진화 작업을 벌이고 있으며 오후 3시 30분을 기해 ‘확산 대응 1단계’를 발령했다. 현재 화선은 약 3㎞, 산불 영향 구역은 약 24ha로 추정되고 있다.&lt;br&gt;&lt;br&gt;앞서 오후 1시쯤 충남 서산시 대산읍 대죽리 한 야산에서도 불이 나 헬기 10대가 투입돼 진화 중이다. 소방 당국은 불이 나자 대응 1단계를 발령하고 확산 차단에 주력하고 있다.&lt;br&gt;&lt;br&gt;예산군과 서산시는 산불 인근 입산을 통제하고, 인근 마을 주민들에게 안전한 곳으로 대피하라는 안내 문자를 발송했다.&lt;br&gt;&lt;br&gt;현재 충남 서해안 일대엔 강한 바람이 불고 있다. 기상청은 이날 오후부터 해당 지역에 순간 최대 초속 20m의 강풍이 불 것으로 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“뇌출혈 증상 시, 두 가지 절대 금물”… 서울아산병원, ‘겨울철 뇌출혈 전조증상과 대처법’ 제시</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/02/21/WSBPAKQWL5GBRGSWELQUKYSL3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/21/WSBPAKQWL5GBRGSWELQUKYSL3U/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Feb 2026 01:38:48 +0000</pubDate>
-      <content:encoded>국내 가장 큰 병원인 서울아산병원이 최근 발간한 뉴스레터(정기 소식지)에서 ‘겨울철 뇌출혈 전조 증상과 대처법’을 소개했다. &lt;br&gt;&lt;br&gt;온라인 뉴스레터에선 이승주 서울아산병원 신경외과 교수가 출연했다. 이 교수는 “추운 날씨에는 우리 몸은 체온을 유지하기 위해 혈관이 수축 되는데 이로 인해 혈압이 급격히 오른다”고 했다. 이때 고혈압 등으로 약해진 뇌혈관이 혈압을 견디지 못하고 터지게 된다는 것이다. 그는 “따뜻한 곳에 있다가 갑자기 찬 공기를 마시거나, 사우나 후 찬바람을 쐴 때 특히 위험하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2ERC5NCINEPHPZAUATC3I5AZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울아산병원이 최근 온라인 뉴스레터를 통해 겨울철 뇌출혈 발생 시 절대 해선 안 될 민간 요법 두 가지를 설명하는 장면/서울아산병원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 반드시 응급실에 가야할 뇌출혈 전조 증상과 증상 발생 시 대처법을 ‘FATS 법칙’으로 설명했다. 이 법칙의 내용은 아래와 같다. &lt;br&gt;&lt;br&gt;F(Face): 웃을 때 한쪽 얼굴이 마비되어 입이 돌아감.&lt;br&gt;&lt;br&gt;A(Arms): 양팔을 들었을 때 한쪽 팔에 힘이 빠져 툭 떨어짐.&lt;br&gt;&lt;br&gt;S(Speech): 말이 어눌해지거나 말이 잘 떠오르지 않음.&lt;br&gt;&lt;br&gt;T(Time): 증상 발생 시 지체 없이 병원으로 이동.&lt;br&gt;&lt;br&gt;이 교수는 그러면서 뇌출혈 증상 발현 시, 절대로 해선 안 될 민간 응급 처치법도 소개했다. 오히려 병세를 악화시킨다는 것이다. 먼저 ①손가락 따기다. 왜냐하면 이렇게 할 때 통증으로 인해 교감 신경이 흥분돼 혈압이 더 올라가고 출혈을 더 일으킨다는 것이다. 두 번째로는 ②우황청심원 복용이다. 의식이 흐릿한 상태에서 물이나 약을 먹이면 기도로 넘어가 폐렴을 유발할 수 있으며, 이는 생존 확률을 크게 낮춘다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>봄 같은 주말...바람 강해 산불 주의</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/02/21/HWHGRCL2OZETJK2G5XLKDBMGAQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/21/HWHGRCL2OZETJK2G5XLKDBMGAQ/</guid>
@@ -796,15 +811,6 @@
       <description/>
       <pubDate>Sat, 21 Feb 2026 00:22:47 +0000</pubDate>
       <content:encoded>토요일인 21일은 전국이 봄처럼 포근하겠다. 다만 대기가 건조한 가운데 바람이 강하게 불어 산불 등 화재 예방에 주의가 필요하다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 전국 낮 최고기온은 13~20도로 평년(5~11도)보다 높겠다. 전국 대부분 지역의 낮 기온이 15도 이상으로 오르겠으나, 중부 내륙과 경상권을 중심으로는 낮과 밤의 기온 차가 15도 이상으로 커 건강관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYGINLBGQ4TMMTDMI4TAYZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 낮 최고 기온이 10도 이상 오르며 포근한 날씨를 보인 20일 오후, 서울 청계천에서 시민들이 산책을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기온이 급격히 오르면서 강이나 호수, 저수지의 얼음이 녹아 얇아질 수 있어 해빙기 안전사고에도 대비가 필요하다.&lt;br&gt;&lt;br&gt;강원 동해안과 경상권을 중심으로 대기가 매우 건조하겠고, 그 밖의 지역도 건조한 상태가 이어지겠다. 오후부터는 대부분의 해안 지역과 중부 내륙을 중심으로 바람까지 매우 강하게 불겠다. 건조한 대기와 강풍이 맞물려 작은 불씨가 대형 화재로 번질 수 있는 만큼 화재 예방에 각별히 주의해야 한다고 기상청은 전했다. &lt;br&gt;&lt;br&gt;전국이 대체로 맑겠으나 수도권과 강원도는 가끔 구름이 많겠다. 미세먼지 농도는 수도권과 강원 영서에서 ‘나쁨’ 수준을 보이겠으며, 그 밖의 권역은 ‘좋음’~‘보통’ 수준으로 예상된다.&lt;br&gt;&lt;br&gt;해상에도 풍랑특보 가능성이 있다. 오후부터 서해상을 시작으로 밤에는 동해 먼바다, 남해 서부 서쪽 먼바다, 제주도 남쪽 먼바다에서 바람이 시속 60km로 매우 강하게 불고 물결이 1.0~4.0m로 높게 일겠다. 서해 중부 해상에는 바다 안개가 끼는 곳이 있어 항해나 조업 시 안전사고에 주의가 요구된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>버스서 韓 여학생 성희롱하고 불법 촬영까지… 인니 남성 ‘논란’</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/21/DKNSSUH4FFAGDMPPADOZYCV3CU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/21/DKNSSUH4FFAGDMPPADOZYCV3CU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Feb 2026 23:38:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSUOKPYTZ5CXDHSIOTYSEUTZ74.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;한국 여학생들을 상대로 성희롱 발언을 하고 그 장면을 불법 촬영해 소셜미디어(SNS)에 올린 인도네시아 남성./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 여학생들을 상대로 성적인 의미가 담긴 발언을 하고 그 장면을 불법 촬영해 소셜미디어(SNS)에 올린 인도네시아 국적 남성이 논란이 되고 있다.&lt;br&gt;&lt;br&gt;지난 20일 X(옛 트위터) 등 SNS에는 이 남성이 자신의 계정에 올린 영상이 확산했다. 영상 속 남성은 같은 버스를 타고 있던 한국인 여학생들을 향해 인도네시아어로 “Ni cilor mau”라고 말했다. &lt;br&gt;&lt;br&gt;이 표현은 문자 그대로는 “너는 간식을 원하냐”는 의미지만, 인도네시아 현지에서는 성희롱적 은어로 쓰인다는 주장이 제기됐다. ‘cilor’(간식)를 발음이 비슷한 ‘coli’(자위 행위)로 연상하게 만드는 말장난이라는 설명이다.&lt;br&gt;&lt;br&gt;여학생들이 뜻을 이해하지 못하고 당황하자, 남성은 한국인을 흉내 내며 “I don’t speak English”라고 말해 비하하는 장면도 영상에 담겼다. 이러한 일련의 장면은 당사자들의 동의 없이 촬영돼 게시된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;논란이 확산되면서 남성의 신상 일부도 온라인을 통해 알려졌다. 현재 남성의 SNS 계정은 삭제된 상태다. 그는 국내 한 축산업체에 재직 중인 것으로 전해졌고, 이를 접한 네티즌들은 해당 업체에 항의 메일을 보내기 시작했다.&lt;br&gt;&lt;br&gt;이에 업체 대표는 직접 사과했다. 대표는 “저희 직원으로 인해 큰 불쾌감과 상처를 입으신 점에 대해 진심으로 깊은 사과의 말씀을 올린다”며 “이를 묵과하지 않고 용기 내어 상세히 알려주셔서 감사하다”고 했다. 또 “저희 기업은 이번 사안을 매우 엄중하게 받아들이고 있다”며 “언급하신 부적절한 언행은 저희 기업의 가치와 운영 방침에 정면으로 위배되는 행위”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “제보 내용을 바탕으로 즉시 사실관계를 확인하고 있으며 사내 내부 규정 및 인사 원칙에 따라 단호히 조치를 취할 예정”이라며 “향후 이런 불미스러운 일이 재발하지 않도록 전 직원을 대상으로 한 윤리 교육과 조직 문화 점검을 더 강화하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[핫코너] 도박장인 줄… 어린이는 못 노는 어린이공원</title>
@@ -860,15 +866,6 @@
       <pubDate>Fri, 20 Feb 2026 15:51:00 +0000</pubDate>
       <content:encoded>지난 19일 윤석열 전 대통령의 내란 사건 1심에서 무기징역을 선고한 서울중앙지법 형사25부(재판장 지귀연)는 재판 과정에서 핵심 쟁점이 됐던 “국회의원들을 국회 본회의장에서 끌어내라” “주요 정치인을 체포하라” 등 윤 전 대통령의 불법적 지시를 사실로 인정했다. “경고성 계엄이었다”고 했던 윤 전 대통령 측 입장에선 이 같은 지시가 국회 기능을 마비시키려는 ‘국헌 문란 목적’을 판단하는 데 중요한 부분이어서 줄곧 “직접 지시하지 않았다”고 주장했다. &lt;br&gt;&lt;br&gt;그러나 20일 본지가 입수한 1251쪽 분량의 윤 전 대통령 판결문을 보면, 윤 전 대통령의 주장이 기각되는 데에는 홍장원 전 국정원 1차장과 곽종근 전 특수전사령관의 증언이 결정타가 된 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NLHZ7WFUJFTNAH52ZJT25K6W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오후 대전역 대합실에서 시민들이 윤석열 전 대통령의 ‘내란 사건’ 1심 선고 공판 생중계를 보고 있다. 서울중앙지법 재판부가 윤 전 대통령에게 무기징역을 선고하는 순간이다.
 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“싹 다 잡아들여” “끌어내라” 인정&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 계엄 당일, 윤 전 대통령이 이재명 대통령(당시 더불어민주당 대표)과 한동훈 전 국민의힘 대표, 우원식 국회의장 등 주요 정치인 14명을 겨냥한 ‘체포조 운용’을 인식하고 있었다고 판단했다. 재판부는 판결문에서 “당일 밤 10시 53분 윤 전 대통령에게 전화로 ‘싹 다 잡아들여라’라는 지시를 받았다”는 홍 전 차장 진술 등을 근거로 “윤 전 대통령이 국정원에 방첩사의 (정치인) 체포·검거를 지원하라고 지시한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;특히 재판부는 재판 과정에서 진위 논란이 불거졌던 이른바 ‘홍장원 메모’에 대해 “작성 경위 등에 관한 진술이 계속 바뀌어 믿기 어렵다”면서도 “홍 전 차장이 여인형 전 방첩사령관에게 체포 대상자에 대한 이야기를 전해 들은 점은 인정된다”고 판시했다. 그러면서 “여 전 사령관은 김용현 전 국방장관에게 14명 체포 지시를 받았다고 인정했고, 체포조 단체 대화방에 ‘모든 팀은 이재명·우원식·한동훈을 체포해 구금 시설로 이동한다’는 메시지도 올라왔다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 곽 전 사령관이 “4일 오전 0시 31분 윤 전 대통령이 전화해 ‘국회 문을 부수고 들어가 안에 있는 인원들을 끄집어내라’고 말했다”고 한 법정 증언도 인정했다. 재판부는 “곽 전 사령관 진술은 헌법재판소 등에서 한 진술과 주요 부분에서 일관되고, 직접 경험하지 않은 사람이 진술할 수 없을 정도로 구체적”이라며 “이진우 전 수도방위사령관도 비슷한 시각 윤 전 대통령에게 유사한 지시를 받은 사실이 인정된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEKUKPMEYBGWVESD5VMO7BWLEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“계엄 모의 6차례 회합”은 기각&lt;/b&gt;&lt;br&gt;&lt;br&gt;다만 재판부는 윤 전 대통령이 2023년 10월 계엄 선포를 결심하고 총 6차례 모임을 열어 김 전 장관 등과 계엄을 모의했다는 특검 주장은 대부분 받아들이지 않았다. 재판부는 “다섯 번은 계엄과 상관이 없는 모임으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 구체적으로 2023년 12월 대통령 관저 만찬, 2024년 3~6월 두 차례 있은 삼청동 안가 모임에선 “비상계엄이 필요하다”는 윤 전 대통령 발언이 확인되지 않는다고 했다. 또 같은 해 4~5월 경호처장 공관과 강남 식당에서 열린 모임엔 윤 전 대통령이 참석하지 않았고, 8월 관저 모임에선 참석자들이 윤 전 대통령의 계엄 관련 발언을 못 들었다고 증언해 증거가 부족하다고 했다.&lt;br&gt;&lt;br&gt;이와 별개로, 2024년 10월 1일 국군의날 행사 후 관저 모임에서 “윤 전 대통령이 한동훈 전 대표를 가리키며 ‘잡아와라. 총으로 쏴서라도 죽이겠다’고 했다”는 곽 전 사령관 증언에 대해 재판부는 “곽 전 사령관은 당시 술을 상당히 많이 마셨던 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“국회 야근자 많아... 尹 중대 착오”&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 윤 전 대통령이 평일 밤 계엄을 선포한 것은 “중대한 착오가 있었던 것으로 보인다”고 했다. 김용현 전 국방장관이 “‘주말 토요일, 일요일 새벽에 하는 것이 좋겠다’고 제안했는데 대통령께서 ‘감사원장 탄핵하면 그냥 하는 걸로 하자’고 거절했다”고 한 진술을 인용하며 “(윤 전 대통령 등이) 화요일 밤 10시가 넘은 시간에 국회의사당 본관 안에 상당히 많은 국회 관계자들이 남아 야근 등으로 업무를 하고 있었던 상황을 제대로 예상하지 못한 것 같다”고 했다. 최재해 전 감사원장 탄핵안은 2024년 12월 2일 발의됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>값싼 대형병원 간호·간병 통합병동… 중환자 가족들 “입원은 로또”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/02/21/HX54WNJOWJAQDD7B3VUKHEDO44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/21/HX54WNJOWJAQDD7B3VUKHEDO44/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Feb 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7N6A6MT5GZHCBC2LEYMF2KSLJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 김포시 한 요양병원에서 외국인 간병인이 환자들을 돌보고 있다./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 병원의 ‘간호·간병 통합 병동’은 대부분의 환자가 입원하길 원하는 곳이다. 수술을 받은 노인 환자가 간호·간병 통합 병동에 입원하면 병원 직원인 간호사나 간호조무사가 의학적 처치(간호)는 물론 환자의 기저귀 교체와 급식(간병)도 책임지기 때문이다. 자녀들이 400만원이 넘는 돈을 들여 개인 간병인을 구할 필요가 없다. 간병비가 부담돼 형제들이 돌아가며 병실에서 부모를 간병할 일도 없어진다. &lt;br&gt;&lt;br&gt;이는 일본에서 일반화된 방식이다. 일본은 1990년대 중반 병원에서의 가족 간병을 금지하고, 환자의 간병을 병원 소속 간호사나 간호 보조 인력이 모두 책임지는 ‘완전 간호제’를 본격 시행했다. 우리나라도 이를 참고해 2015년부터 ‘간호·간병 통합 서비스’를 시행 중이다. 작년 말 기준, 전국 1816곳 병원 중 790곳 병원(43.5%)에서 시행 중이다. &lt;br&gt;&lt;br&gt;간병비와 달리 간호·간병 통합 서비스는 건강 보험이 적용된다. 간호사의 간병 비용은 입원비에 포함돼 환자에게 청구되는데, 환자는 이 간병 서비스 비용 중 본인 부담금(하루 2만~3만원)만 내면 된다. 이 비용은 일일 개인 간병비(약 14만원)의 20% 수준이다. &lt;br&gt;&lt;br&gt;서비스 질도 양호하다는 평가를 받고 있다. 한국보건사회연구원의 2016년 연구 결과에 따르면, 간호·간병 통합병동 입원 환자의 욕창 발생률은 일반 병동 입원 환자에 비해 75% 낮았다. 낙상 사고도 19% 감소한 것으로 나타났다. 국민건강보험 일산병원 연구팀의 2020년 조사에서도 간호·간병 통합병동 입원 환자의 경우, 퇴원 후 30일 이내에 재입원할 확률이 일반 병동 입원 환자에 비해 13% 낮은 것으로 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQNWGRDWCNFPDLFYDE5DIJNPBM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 현실에선 간병이 꼭 필요한 중환자나 신체 장애가 심한 환자는 이 병동을 이용하기 쉽지 않다는 평가가 많다. 병상 수가 충분하지 않기 때문이다. 환자 선호도가 특히 높은 대형 병원(상급종합병원)의 경우 2024년 기준, 간호·간병 통합 서비스 병상 수는 9463개로 전체 병상의 22% 수준이다. 이 서비스가 시작된 2015년부터 2019년까지는 통합 병상 증가율이 매년 평균 60.2%였지만, 2020년부터 5년간 매년 평균 증가율은 9.7%로 급감했다. &lt;br&gt;&lt;br&gt;중환자와 경증 환자 간 큰 차이를 두지 않는 정부의 간호·간병 통합 서비스 수가(건보공단이 병원에 주는 돈)도 한 원인으로 꼽힌다. 병원으로선 간호·간병이 훨씬 어려운 중환자보다 가급적 경증 환자를 받으려 한다는 것이다. &lt;br&gt;&lt;br&gt;경기도에 사는 조모(49)씨는 “지난해 거동을 못 하는 아버지를 대학 병원의 통합 병동에 입원시키려 했는데 병원 측에서 ‘중환자는 일반 병동에 입원해 개인 간병인을 쓰라’고 했다”며 “통합 병동 입원이 로또처럼 느껴졌다”고 했다. 건강돌봄시민행동이 작년 6~7월 전국 상급 종합병원과 지방의료원 등 병원 82곳에 중환자가 간호·간병 통합 병동에 입원할 수 있는지 문의한 결과, 조사에 응한 50곳 중 4곳(8%)만 ‘입원이 가능하다’고 답했다. &lt;br&gt;&lt;br&gt;간호·간병 통합 병동에서 중환자를 꺼리는 것은 간호 인력의 업무 과중도 주요 원인 중 하나다. 대한간호조무사협회는 작년 10월 한 간담회에서 “간호조무사 1명이 환자 30명 이상을 담당하며 약품 전달, 식사 보조, 기저귀 교체 등의 일을 도맡아 하는 경우도 있다”고 발표했다. 이런 상황에서 사실상 일대일 간병을 필요로 하는 중환자를 받기가 어렵다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>평택의 새벽은 대낮처럼 환하다… 반도체 공장 앞 500m 출근 행렬</title>
