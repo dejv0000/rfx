@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>철 없는 10대 불꽃놀이에 산 홀라당 탈 뻔...‘촉법’에 처벌 묻긴 힘들 듯 </title>
+      <link>https://www.chosun.com/national/2026/02/24/4HTJAR77NZDGHFHD3LEW2YNXN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/24/4HTJAR77NZDGHFHD3LEW2YNXN4/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 10:31:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2DONTDHFQTSYRUGQYDKZBXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경남 창원시 의창구에서 발생한 산불 현장에서 헬기가 물을 뿌리며 진화 작업을 펼치고 있다. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 전국적으로 산불이 잇따르는 가운데 경남 창원에서 발생한 산불 원인이 10대 중학생의 불꽃놀이 때문인 것으로 알려졌다. 다만 이들이 촉법소년으로 확인돼 형사 책임을 묻기는 어려울 것으로 보인다.&lt;br&gt;&lt;br&gt;창원서부경찰서는 24일 창원시 산림 특별사법경찰로부터 실화 혐의로 중학생 A군 등 2명에 대한 수사 의뢰를 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 지난 21일 오후 창원시 의창구 봉림동 한 야산에서 폭죽으로 불꽃놀이를 하던 중 산불을 낸 혐의를 받는다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TMYZUGEZTAM3FME2TSNJRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경남 창원시 의창구 산불 당시 주변에 연기가 피어오른 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 불은 축구장 절반 크기의 임야 약 3000㎡를 태우고 1시간여 만에 꺼졌다. 소방 당국은 인근 아파트 등으로 번질 우려가 있어 관할 소방서 인력과 장비가 모두 투입되는 ‘소방 대응 1단계’를 발령했다. &lt;br&gt;&lt;br&gt;진화 헬기 10대, 장비 31대, 인력 146명이 투입돼 오후 5시 15분쯤 큰 불을 잡았다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A군 등은 현재 만 10세 이상 14세 미만 촉법소년(형사미성년자)에 해당돼 형사 입건 대상은 아닌 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 창원시 특사경에 산불 발생 경위 등 보완을 요청한 상태다. 또 사건을 수사할 부서를 정해 안전 관리 소홀 여부 등을 확인하고자 A군 등을 불러 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 의뢰 서류 등을 보면 실수로 인한 과실로 보인다”면서 “조사를 통해 구체적인 경위를 확인한 뒤 가정법원 보호 사건 송치 여부를 검토할 예정이다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 산림청에 따르면 올해 들어 전국에서 크고 작은 산불이 149건 발생했다. 작년 같은 기간 92건보다 75.3% 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “변호사와 의뢰인 간 비밀유지권 인정”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/24/JNTRLXGML5BI5D4HCEBDKMTINE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/24/JNTRLXGML5BI5D4HCEBDKMTINE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 09:38:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2TQOLDMFSTKN3GGVQTKMZQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호사와 의뢰인 간 비밀 유지권(ACP)을 인정해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면 대법원은 최근 장하원 전 디스커버리자산운용 대표의 압수 수색 과정에서 검찰이 법률 자문자료를 압수한 건 위법하다고 판단했다. &lt;br&gt;&lt;br&gt;앞서 장 전 대표 측 변호인은 검찰이 법률 자문자료를 압수한 건 위법하다며 준항고를 제기했다. 준항고란 수사 기관의 압수 수색 등에 불복해 법원에 이의를 제기하는 제도다. &lt;br&gt;&lt;br&gt;장 전 대표 측은 검찰이 법률 자문을 목적으로 한 대화 내용도 압수했다며 준항고를 신청했다. 사건을 수사하던 서울남부지검은 2023년 7월 장 전 대표와 임직원의 휴대전화 2대, 노트북에 저장된 전자정보 등을 압수했는데, 여기에는 변호인과 주고받은 문서, 메시지 등도 포함됐다. 서울남부지법은 준항고 신청을 일부 받아들였고, 대법원은 검찰의 재항고를 기각했다.&lt;br&gt;&lt;br&gt;ACP는 변호사와 의뢰인이 주고받은 법률 상담 내용이나 변호사가 작성한 의견서 등에 대한 비밀유지권을 의미한다. 지난 1월 ACP를 도입하는 변호사법 개정안이 국회를 통과했다. &lt;br&gt;&lt;br&gt;장 전 대표를 변호한 법무법인 광장 측은 “단순히 대법원이 ACP를 인정했다는 것을 넘어 ACP를 규정한 개정 변호사법이 시행된 이후에 만들어진 판례라는 점에서 의미있다”고 했다. 광장 측은 “앞으로 법원이 어디까지 ACP 보호 대상으로 볼지 등 증거능력 배제 여부를 파악할 때 이번 판결이 기준이 될 수 있을 것 같다”고 설명했다.&lt;br&gt;&lt;br&gt;장 전 대표는 1000억원대 부실 펀드를 판매하고 환매를 중단한 혐의(특정경제범죄가중처벌법상 사기 등)로 기소됐다 작년 대법원에서 무죄가 확정됐다. 검찰은 장 전 대표가 부실 상태인 미국 대출채권에 투자하면서 손실이 날 수 있다는 사실을 알고 있었음에도 고수익이 보장되는 안전한 투자라고 속였다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구교육청, 올해 중·고교 신입생 4만 1000명에 교복비 125억 지원</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/24/VPVO5WP3CZFE7DT333EFHQIVPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/VPVO5WP3CZFE7DT333EFHQIVPE/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 09:25:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WIYJXMJSTCMRRHFTGKMRZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시교육청은 2026학년도 중·고등학교 신입생 약 4만1000여명을 대상으로 교복 구입비 125억원을 지원한다고 24일 밝혔다./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시교육청이 올해 중·고교 신입생 전원에게 교복 구입비 125억원을 지원한다고 24일 밝혔다. 지원 대상자는 대구 지역 중·고교 신입생과 타 시·도 및 국외에서 전입하는 1학년 학생 등 4만 1000여명이며, 인당 30만원 한도로 교복을 현물 지원한다. &lt;br&gt;&lt;br&gt;교복 구입액이 30만원 미만일 경우 학교 구성원 협의를 통해 체육복·생활복·교복 여벌 등 추가 품목으로 지원될 예정이다. 교육청 측은 대구 내 학교 평균 교복 구매 단가가 동·하복 합쳐 26만7000원으로 지원 가격을 초과하는 학교는 없는 것으로 파악했다. 앞서 대구교육청은 2019년부터 기존 정장형 교복을 일상복 형태로 개선해 가격을 낮추고 학생들의 활동성을 늘리는 ‘착한교복’ 정책을 도입한 바 있다. 작년 기준 지역 중·고교 착한 교복 도입률은 88.1%에 달했다. &lt;br&gt;&lt;br&gt;강은희 대구교육감은 “교복 구입비 지원이 학부모의 실질적인 부담 경감으로 이어지길 바란다”며 “교복 가격 안정과 품질 유지가 함께 이뤄질 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘강호동 뇌물 수수 연루’ 前 농협중앙회 임원 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/24/C4TWSAGJYJHPFJETQAE2KYG3ZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/C4TWSAGJYJHPFJETQAE2KYG3ZY/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 09:00:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7MPGI5AHJKYRMCPR37OQICNNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강호동 농협중앙회장이 지난달 13일 오전 서울 중구 농협중앙회 본관에서 농림축산식품부가 지난 8일 발표한 농협중앙회에 대한 특별감사 중간 결과와 관련해 대국민 사과 인사를 마친 뒤 회견장을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강호동 농협중앙회장의 뇌물 수수 의혹과 관련해 경찰이 전직 농협중앙회 임원과 노조위원장을 압수 수색한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;24일 본지 취재를 종합하면, 서울경찰청 반부패수사대는 유모 전 농협중앙회 부회장의 휴대전화와 김모 전 노조위원장의 자택 등을 지난달 압수 수색했다.&lt;br&gt;&lt;br&gt;이들은 2023년 말 강 회장이 농협중앙회 계열사와 거래 관계인 용역업체 대표 이모씨로부터 사업 편의를 봐주는 대가로 두 차례에 걸쳐 현금 1억원을 수수한 의혹에 연루됐다는 의심을 받고 있다. 당시 강 회장은 농협중앙회장 선거를 한 달여 앞두고 있었다.&lt;br&gt;&lt;br&gt;경찰은 유 전 부회장이 강 회장과 이씨를 연결해 준 것으로 보고 수사를 진행 중이다. 앞선 경찰 조사에서 이씨와의 접촉을 부인했던 유 전 부회장은 “안부를 묻는 차원에서 만났다”고 진술을 번복한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강 회장은 2020년 농협중앙회장 선거에서 낙선한 뒤, 2024년 재도전 끝에 제25대 회장으로 당선됐다. 전국 농협 조합장들의 직접 투표로 선출되는 농협중앙회장은 공직자윤리법상 재산 등록 의무가 있는 공직자로 분류된다.&lt;br&gt;&lt;br&gt;경찰은 작년 7월 강 회장의 불법 선거자금 수수 첩보를 입수하고 내사에 착수한 바 있다. 그해 10월에는 서울 중구 농협중앙회에 있는 강 회장 집무실 등을 압수 수색한 데 이어, 강 회장을 출국 금지 조처했다.&lt;br&gt;&lt;br&gt;경찰은 주변 인물 조사를 마치는 대로 강 회장을 소환 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정원오 성동구청장, 다음 달 4일 사퇴한다…서울시장 예비후보 등록</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/24/KDGIKUJBNJFATPJB4CQR6HC6NM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/KDGIKUJBNJFATPJB4CQR6HC6NM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 09:00:08 +0000</pubDate>
+      <content:encoded>정원오 서울 성동구청장이 다음 달 4일 구청장 자리를 내려놓는다. 서울시장 출마를 위한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCUIP43OT5N27O5HAQ246NGJ3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정원오 더불어민주당 서울시장 후보가 23일 오전 서울 영등포구 더불어민주당 당사에서 열린 중앙당공천관리위원회 2차 회의 및 광역단체장 후보자 면접에서 각오를 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 성동구 등에 따르면, 정 구청장은 다음 달 4일 구청장직에서 사퇴하고 다음 날인 5일 민주당 서울시장 예비후보로 등록한다.&lt;br&gt;&lt;br&gt;성동구 관계자는 “정 구청장이 4일까지 업무를 본 뒤 소규모 퇴임식을 열 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;지방선거에 출마하려는 공직자는 공직선거법에 따라 선거 90일 전까지 사퇴해야 한다. 이번 지방선거는 3월 5일이 사퇴 시한이다.&lt;br&gt;&lt;br&gt;정 구청장은 앞서 지난 8일 서울시장 출마를 선언하며 “멋지고 행복하고 편안한 서울시가 될 수 있도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;민주당은 다음 달 초 예비경선을 시작하고, 본경선 등을 거쳐 4월 20일까지 모든 지역의 후보자 공천을 마무리한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김앤장, ‘AI 기본법’ 시행 기업 대응 전략 세미나… 25일 종로서 열려</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/24/XIUF6LIOMVGLBMKRCGDT5MAGHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/24/XIUF6LIOMVGLBMKRCGDT5MAGHQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 09:02:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QTIYRUGBRDEZBQHE3TCOLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김앤장 법률사무소가 오는 25일 개최하는  ‘AI 및 정보보호 규제 동향과 대응 전략’ 세미나. /김앤장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김앤장 법률사무소는 오는 25일 서울 종로구 크레센도빌딩에서 ‘AI 및 정보보호 규제 동향과 대응 전략’ 세미나를 개최한다고 24일 밝혔다. 이번 세미나는 지난달 22일 시행된 ‘인공지능(AI) 기본법’에 따른 기업 대응 전략을 논의하기 위해 마련됐다. 한국정보통신법학회 정보보호포럼, 고려대 데이터·AI법센터와 공동 주최한다.&lt;br&gt;&lt;br&gt;세미나는 3개 주제로 진행된다. 먼저 과학기술정보통신부 안전신뢰정책과 심지섭 변호사가 ‘AI 기본법 시행에 따른 주요 이슈에 대한 분석과 향후 과제’를 주제로 법 전반의 내용을 설명한다. 이어 마경태 김앤장 변호사가 ‘AI 기본법 시행에 따른 쟁점과 기업의 대응 전략’을, 윤아리 김앤장 변호사가 ‘최근 정보보호 규제의 동향과 기업의 대응 전략’을 주제로 발표한다. 윤 변호사는 최근 개인정보 유출 사고에 따른 개인정보보호법과 정보통신망법 규제 흐름을 설명할 예정이다.&lt;br&gt;&lt;br&gt;이후에는 이성엽 고려대 기술경영전문대학원 교수(한국정보통신법학회 회장)가 좌장을 맡아 학계·산업계·법조계 전문가들과 토론을 진행한다. 김형종 서울여대 교수, 류용 한국통신사업자연합회 인프라전략센터장, 박성식 놀유니버스 부대표, 방성현 김앤장 변호사, 윤혜선 한양대 법학전문대학원 교수가 토론자로 나선다.&lt;br&gt;&lt;br&gt;우리나라는 유럽연합(EU)에 이어 세계 두 번째로 지난해 1월 AI 기본법을 제정했다. 이 법은 AI 안전성·신뢰성에 대한 검·인증 제도를 도입하고, 의료·투자·자율 주행 등 분야에 적용되는 AI를 ‘고영향’으로 지정해 안전성 확보 보고서를 제출하도록 하는 내용을 담고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘언론사 단전·단수’ 이상민 2심, 고법 내란전담 형사1부 배당</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/24/YID6YCFUCZGA3FXZKCMVO7YR7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/24/YID6YCFUCZGA3FXZKCMVO7YR7U/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 08:41:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZGMZRZGBQTGMJYGFRDAN3CGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 소방청에 언론사 5곳의 단전·단수 지시를 내린 혐의로 1심에서 징역 7년을 선고받은 이상민 전 행정안전부 장관의 항소심을 서울고법 내란전담재판부인 형사1부(재판장 윤성식)가 맡게 됐다.&lt;br&gt;&lt;br&gt;서울고법은 24일 이 전 장관의 내란 중요 임무 종사 사건을 무작위 방식으로 형사1부에 배당했다고 밝혔다. 형사1부는 올해 처음 설치된 2개 내란전담재판부 중 하나로 윤성식(58·사법연수원 24기) 고법부장판사와 민성철(53·29기)·이동현(45·36기) 고법판사로 구성됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사32부(재판장 류경진)는 지난 12일 이 전 장관 1심에서 내란 중요 임무 종사 혐의를 인정해 징역 7년을 선고했다. 재판부는 당시 “윤석열 전 대통령과 김용현 전 국방부 장관 등은 국헌을 문란하게 할 목적으로 한 지방의 평온을 해할 정도의 폭동, 즉 내란 행위를 일으켰다고 판단된다”며 “이 전 장관은 윤 전 대통령 등에게 국회 등 봉쇄 계획과 언론사 단전·단수 지시가 담긴 문건을 받았고 허석곤 당시 소방청장에게 구체적인 업무 지시를 한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;조은석 내란 특검은 이 같은 1심 판결에 대해 “사실 오인과 법리 오해가 있고 양형이 부당하다”며 항소를 제기했다. 조 특검은 이 전 장관에게 징역 15년을 구형했었다. 이 전 장관 측도 재판부의 유죄 판단에 불복해 항소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재, ‘내란전담재판부 설치법’ 국민의힘 헌법소원 각하</title>
       <link>https://www.chosun.com/national/court_law/2026/02/24/2RSEODB7JZHAXLHZB7PGBUZ3JU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/24/2RSEODB7JZHAXLHZB7PGBUZ3JU/</guid>
@@ -855,65 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5X2HFFKQ3ROAJCQ55MN5C7JGRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 21일 경북 포항시 포은흥해도서관에서 열린 더불어민주당 경북도당 초청 K-국정설명회에서 특별강연을 하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 지난 21일 경북 포항에서 열린 국정 설명회에서 “코스피 5000이 거의 다 왔다”고 말실수를 해 이목을 끌었다. 당일 코스피는 종가 기준 5800선이었고, 코스피 5000은 지난달 말 넘어선 바 있다.&lt;br&gt;&lt;br&gt;김 총리는 포항에서 지역 주민 300여 명이 참석한 가운데 열린 11번째 ‘K-국정설명회’에서 코스피 5000 달성이 쉽지 않을 것이라는 관측 속에 자신이 대선 공약을 제시했다며 “그때 우리가 그 말을 하면서도 꼭 100% 우리가 임기 4년 내에 할 수 있다고 믿는 눈치는 아니었다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이후 김 총리는 “열심히 하고 잘하면 5000까지 갈 수 있겠다 생각은 했는데 웬걸, 3000, 4000, 5000까지 거의 다 왔지 않느냐”고 했다. 당시 PPT 화면에는 설명회 전날인 2월 20일 코스피가 4808.53을 기록한 것으로 적혀 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGNZCSKMQFB3FFXRQOP7KSSBEE.png"&gt;&lt;figcaption&gt;&lt;small&gt;김 총리가 20일 코스피가 4808.53이라고 잘못 기재된 PPT 화면을 보며 "열심히 하고 잘 하면 5000까지 갈 수 있겠다 생각은 했는데 웬걸, 3000 4000 5000까지 거의 다 오지 않았냐"고 발언하고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 코스피 5000 돌파는 지난 1월 이미 이뤄졌다. 지난달 22일 장중 5000선을 터치했고, 같은 달 27일 5084.85로 장을 마감하며 사상 처음으로 종가 기준 5000선을 넘어섰다. 김 총리 강연 전날인 20일 코스피 종가는 5808.53으로, 6000에 가까운 수치였다. &lt;br&gt;&lt;br&gt;이에 시민들은 “이미 코스피 5000을 넘지 않았느냐”며 웅성거렸고, 시민들의 반응을 뒤늦게 확인한 김 총리는 PPT 화면을 한 번 보더니 “날짜를 반영하면 된다. 올라갔다 내려갔다 하니까…”라고 급히 해명했다.&lt;br&gt;&lt;br&gt;김 총리의 이런 말실수는 클립 등으로 제작돼 온라인에 퍼졌다. 네티즌 사이에서는 “총리가 왜 코스피 5000 넘은 걸 모르냐” “총리실 실무진이 실수로 PPT를 잘못 만들었고, 총리는 잘못된 표기를 그대로 보고 말한 것 같다” “자료에 오타가 났으니 그대로 말한 것일 뿐, 총리가 설마 5000을 넘긴 걸 모르겠냐” 등 다양한 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FA4CKEUEABKUDCBWQYIJPJOSLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 23일 인천 계양구 계양문화회관에서 열린 더불어민주당 인천시당 초청 K-국정설명회에서에서 강연을 하고 있다. PPT에 지난 20일 종가 기준 코스피가 5808.53으로 정상적으로 기재돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 문제의 PPT 화면은 수정된 것으로 보인다. 23일 인천 계양구 계양문화회관에서 더불어민주당 인천시당 초청으로 열린 K-국정설명회에서는 20일 코스피가 5808.53으로 정상적으로 기재돼 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>술 취해 이틀간 59차례 112 전화 건 60대, 벌금형</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/23/3G32EST3G5GSHFGSTYLLYF7PKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/3G32EST3G5GSHFGSTYLLYF7PKU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>술에 취한 채 112에 수십 차례 전화를 건 60대에게 법원이 벌금형을 선고했다.
-춘천지법 형사3단독 박동욱 판사는 경범죄처벌법 위반 혐의로 기소된 A(63)씨에게 벌금 20만원을 선고했다고 23일 밝혔다.</description>
-      <pubDate>Mon, 23 Feb 2026 07:49:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YGGYZRG5QTMZRWMRRTOMRWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채 112에 수십 차례 전화를 건 60대에게 법원이 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 경범죄처벌법 위반 혐의로 기소된 A(63)씨에게 벌금 20만원을 선고했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 술에 취한 상태로 112에 전화를 걸기 시작해 이튿날 오후 1시까지 모두 59차례에 걸쳐 전화를 건 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 1~4분 간격으로 전화를 걸어 아무 말도 하지 않거나 “야, 너 이름이 뭐야”라고 말하는 등 경찰 업무를 방해한 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “허위 신고를 한 것이 아니어서 지구대의 업무를 방해하지 않았다”고 주장했으나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;박 판사는 “별다른 이유 없이 112에 전화를 건 횟수, 간격을 비춰보면 죄질이 좋지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전북도의회, 현대차 새만금 투자 결정에 “적극 환영”</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/02/23/7BHPNNFZMJGIXEOWDMNGHNDEFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/23/7BHPNNFZMJGIXEOWDMNGHNDEFY/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 07:45:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRWKMRRGAYDEMRVHFRTEOBSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북도의회 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도의회가 이번 주 예정된 현대자동차그룹의 새만금 대규모 투자 계획 발표를 앞두고 180만 전북도민과 함께 환영의 뜻을 표명했다.&lt;br&gt;&lt;br&gt;도의회는 23일 논평을 통해 “현대자동차그룹이 이번 주 새만금에서 관계 부처와 양해각서(MOU)를 체결하고 투자 계획을 공식 발표할 것으로 알려졌다”며, “이번 투자는 새만금을 글로벌 미래 산업의 핵심 거점으로 격상시키는 획기적인 전기가 될 것”이라고 평가했다.&lt;br&gt;&lt;br&gt;이어 도의회는 “AI, 수소, 로봇 등 첨단 신산업 분야에 대한 현대차의 집중 투자는 전북 산업 구조의 대전환을 견인하는 강력한 동력이 될 것”이라며, “계획된 투자가 차질 없이 이행될 수 있도록 의회 차원의 모든 지원과 협력을 다하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;특히 기업의 안정적인 정착과 성공적인 활동을 보장하기 위해 “정주 여건 개선과 산업 인프라 확충을 위한 제도적·재정적 뒷받침을 아끼지 않겠다”고 약속했다.&lt;br&gt;&lt;br&gt;마지막으로 도의회는 “현대자동차그룹의 과감한 투자 결단에 다시 한번 깊은 감사를 표한다”며 “이번 투자가 전북의 경제 도약을 넘어 대한민국의 미래 산업 경쟁력을 한 단계 끌어올리는 역사적 이정표가 될 것으로 확신한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>원각사지 십층석탑, 27년 만에 유리벽 안에서 본다</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/23/CTR7CUAZGBHALHIJVX6BGENPQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/CTR7CUAZGBHALHIJVX6BGENPQY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 07:25:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU4HE523VBKIPLF7M7KVI4UA6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울 종로구 탑골공원에서 원각사지 십층석탑 내부 공개 관람이 진행되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 탑골공원에 있는 국보 2호 ‘원각사지 십층 석탑’이 공개된다. 지금은 석탑을 보호하기 위해 사방을 유리벽으로 둘러쌌는데 그 안으로 들어가 맨눈으로 석탑을 볼 수 있게 한다는 것이다. &lt;br&gt;&lt;br&gt;서울 종로구는 다음 달 4일부터 15일까지 석탑을 공개한다고 23일 밝혔다. 원각사지 십층 석탑은 조선 세조 때인 1467년 건립된 대리석 탑이다. 높이는 약 12m다. 1962년 숭례문에 이어 국보 2호로 지정됐다. 부처와 용, 연꽃 등을 정교하게 새겨 조선 시대 석탑 가운데 가장 아름답다는 평가를 받는다. 원각사는 탑골공원 자리에 있던 사찰이다. 조선 세조 때 창건됐으나 연산군 때 문을 닫았다. &lt;br&gt;&lt;br&gt;대리석으로 만들어 화강암 석탑보다 풍화가 빠른 편이다. 서울시는 1999년 “산성비, 새똥 등 때문에 석탑이 훼손되고 있다”며 높이 15.4m 유리벽으로 둘러쌌다.&lt;br&gt;&lt;br&gt;이후 두께 2㎝가 넘는 유리벽 때문에 석탑을 제대로 관람하기 어렵다는 민원이 잇따랐다. 종로구 관계자는 “유리벽 때문에 바람이 통하지 않아 결로가 생긴다는 지적도 나왔다”고 했다.&lt;br&gt;&lt;br&gt;종로구는 “이번에 석탑을 공개해 본 뒤 국가유산청과 유리벽 철거, 시설 개선 등 방안을 논의할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;석탑을 보려면 서울시 ‘공공 서비스 예약’ 사이트에서 예약해야 한다. 하루 20명만 관람할 수 있다. 6·9·10일은 쉰다. &lt;br&gt;&lt;br&gt;종로구는 2024년부터 ‘탑골공원 복원 사업’을 벌이고 있다. 담장을 일부 허물고 1897년 공원 개장 당시 있었던 서문(西門)을 복원할 예정이다. 작년 11월에는 공원을 금주(禁酒) 구역으로 지정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김종우 광주지검장 “보완수사는 국민 억울함 해소 위한 제도”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/23/VDG6VRHWXFBXRAA4ACGFUXMC64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/VDG6VRHWXFBXRAA4ACGFUXMC64/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 07:11:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XYZ7TYENZM47N7VWTHZYNGNCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김종우 광주지검장이 23일 오후 광주 동구 광주지방검찰청에서 열린 기자간담회에서 검찰 보완수사권 존치를 촉구하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김종우 광주지검장이 검사의 보완 수사권이 유지돼야 한다는 공개 입장을 밝혔다. 더불어민주당은 신설되는 공소청에 보완 수사권을 비롯해 수사 권한을 허용하지 않는 검찰 개혁안을 추진하고 있다.&lt;br&gt;&lt;br&gt;김 지검장은 23일 기자간담회를 열고 “보완 수사는 국민의 억울함을 해소하기 위한 제도로 수사·기소 분리와 다른 문제”라며 “보완 수사가 없어지면 형사 사법 제도 자체가 무너질 우려가 있다”고 말했다.&lt;br&gt;&lt;br&gt;현행 형사소송법 196조는 ‘검사는 사법경찰관으로부터 송치받은 사건에 관하여는 해당 사건과 동일성을 해치지 아니하는 범위 내에서 수사할 수 있다’고 규정한다. 검찰이 직접 수사 개시한 사건이 아니더라도 관련성이 인정되는 범죄 혐의에 대해서는 수사가 가능하다는 취지다.&lt;br&gt;&lt;br&gt;하지만 ‘검수완박(검찰 수사권 완전 박탈)’ 입법을 추진 중인 민주당은 보완 수사도 수사 권한에 속하기 때문에 공소청에 보완 수사 요구권만 허용할 수 있다는 입장이다.&lt;br&gt;&lt;br&gt;김 지검장은 “보완 수사는 1차 수사기관의 확증 편향을 교차 검증으로 견제하는 기능을 한다”며 “보완 수사를 통한 증거 보강은 공소 제기·유지에 충실하라는 검찰 개혁 취지와도 정확히 부합한다”고 했다.&lt;br&gt;&lt;br&gt;또 “일부 정치적 사건에서 표적·왜곡·봐주기 수사는 응당 비판받아야 마땅하다”면서 “수사·기소 분리 취지는 검사의 수사 개시권 폐지로도 충분히 달성할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;광주지검은 이날 경찰이 단순 교통사고라고 판단해 불송치 처분했던 2억원대 보험 사기, 경찰이 피의자 1명만 송치했으나 검찰이 7명을 추가로 기소한 지적 장애인 집단 성폭행 등을 ‘보완 수사 우수 사례’로 제시했다.&lt;br&gt;&lt;br&gt;김 지검장은 “보완 수사 요구권은 이미 한 번 판단을 내린 수사기관에 ‘당신이 틀렸으니 다시 해보라’고 요구하는 구조”라며 “경찰이 보완 수사 요구를 거부하거나 형식적으로만 이행할 경우, 이를 강제할 실질적 수단이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2XYZ7TYENZM47N7VWTHZYNGNCU.jpg?auth=35e2abc1c4703e3614569d9be0bb7385bbf6471545ce1299235ddca953311f38&amp;smart=true&amp;width=2609&amp;height=1738" type="image/jpeg" height="1738" width="2609">
-        <media:description type="plain">[광주=뉴시스] 이영주 기자 = 김종우 광주지검장이 23일 오후 광주 동구 광주지방검찰청에서 열린 기자간담회에서 검찰 보완수사권 존치를 촉구하고 있다. 2026.02.23. leeyj2578@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">LEEYJ2578</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘尹 파면’ 전광판 치킨집, 이행강제금 80만원 부과</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/23/L3ZA4MXJWRE7TEQZSALHOHMO5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/L3ZA4MXJWRE7TEQZSALHOHMO5Q/</guid>
-      <dc:creator>인천=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 06:42:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FL4NL4PTZBETHXIZ3DJ4DWS3YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 인천 한 치킨집 업주가 가게 전광판에 윤석열 전 대통령 파면과 이재명 대통령 당선 축하 메시지를 내걸었던 모습./인터넷 커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동구는 작년 윤석열 전 대통령이 파면되자, ‘감사하다’는 글을 가게 전광판에 노출해 화제가 된 인천의 한 치킨집 업주에게 이행강제금을 부과할 예정이라고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이행강제금은 위반사항을 시정할 때까지 행정관청이 부과할 수 있는 간접적 강제수단이다. 이 LED전광판은 불법으로 설치된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;남동구에 따르면, 구는 구월동에 있는 모 프랜차이즈 치킨 음식점 업주가 불법 전광판을 철거하지 않자, 이행강제금 80만원을 부과하기로 하고 이런 내용의 사전 통지서를 보냈다. 이에 따라 해당 업주가 다음달 6일까지 이 전광판을 철거하는 등 시정조치를 하지 않으면 이행강제금이 그대로 부과될 예정이다.&lt;br&gt;&lt;br&gt;남동구 관계자는 “해당 조례에 따르면 LED전광판의 경우, 건물의 4층 이상, 15층 이하에 설치하게 돼 있는데, 해당 치킨집은 1층에 설치돼 있어 기준에 맞지 않는다”며 “허가나 신고를 받지도 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRTOOLCGAZDQMZVGIZTENLEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 남동구청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남동구는 해당 업주에게 자진 정비를 권고했는데, 이뤄지지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;남동구는 이후에도 시정 명령이 이행되지 않으면, 재차 이행강제금을 부과할 방침이다. 이행강제금은 규정상 연간 최대 2차례, 500만원까지 부과할 수 있다.&lt;br&gt;&lt;br&gt;남동구 관계자는 “사유 재산인 탓에 시민 안전에 위험이 되는 급박한 상황이 아니면 강제 철거 등 행정대집행을 할 수 있는 관련 규정이 없다”고 했다. &lt;br&gt;&lt;br&gt;이 가게는 작년 4월 4일 헌법재판소가 윤 전 대통령에 대한 파면을 선고한 직후 1층 입구 전광판에 “‘피청구인 윤석열을 파면한다’ 국민 여러분 감사합니다”라는 글을 노출했다. 해당 전광판 사진이 여러 온라인 커뮤니티에 공유되며 화제가 되자, 남동구에는 이 치킨집에 대한 여러 민원 신고가 잇따라 접수된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 치킨집 업주는 이후에도 세월호 참사를 추모하는 문구를 전광판에 띄웠다가 손님으로부터 폭행을 당했다며 경찰에 신고하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원 정선서 산불… 헬기 5대 투입 진화 중</title>
-      <link>https://www.chosun.com/national/regional/2026/02/23/3QVZHVY3X5BBHNLPLOGZOU5Q2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/23/3QVZHVY3X5BBHNLPLOGZOU5Q2U/</guid>
-      <dc:creator>정선=정성원 기자</dc:creator>
-      <description>23일 오후 1시 57분쯤 강원 정선군 신동읍 한 야산에서 불이 났다. 불이 나자 산림 당국은 헬기 5대와 장비 26대를 투입해 진화 작업을 벌이고 있다.</description>
-      <pubDate>Mon, 23 Feb 2026 06:21:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JG545TEL3FBJ3EY6MSK5DVWYU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 강원 정선군 신동읍 한 야산에서 불이 나 산림 당국이 진화 작업을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 1시 57분쯤 강원 정선군 신동읍 한 야산에서 불이 났다. 불이 나자 산림 당국은 헬기 5대와 장비 26대를 투입해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;산불이 난 곳엔 현재 초속 6.2m의 강풍이 불고 있으며, 현재 진화율은 70%다.&lt;br&gt;&lt;br&gt;산림 당국은 “일몰 전 진화 작업을 완료하는 게 목표”라며 “불을 끄는 대로 정확한 화재 원인과 피해 규모를 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이물질 신고된 코로나 백신 1420만회분, 접종 강행했다</title>
       <link>https://www.chosun.com/politics/goverment/2026/02/23/CUOCXFHZDNDQNPBT4P2UMTNZEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/02/23/CUOCXFHZDNDQNPBT4P2UMTNZEM/</guid>
@@ -930,15 +934,6 @@
       <description/>
       <pubDate>Mon, 23 Feb 2026 02:03:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYDQYJZMZSDIZTCGM2TGNZUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이학재 인천국제공항공사 사장이 지난해 12월 16일 인천국제공항공사에서 열린 기자간담회에서 답변하고는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이학재 인천국제공항공사 사장이 인천국제공항공사 사장직에서 물러난다. 윤석열 정부에서 임명된 3선 의원 출신인 이 사장은 공항 보안 검색, 인사권 등을 두고 정부와 날선 대립을 벌여왔다. 본래 임기는 6월 19일 까지다.&lt;br&gt;&lt;br&gt;인천국제공항공사는 23일 “이 사장이 24일 사의를 표명하고, 25일 이임식을 개최할 예정”이라고 밝혔다. 이 사장은 6월 열리는 지방선거에서 국민의힘 인천시장 후보로 출마할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 이 사장은 지난해 말 있었던 국토교통부 소관 업무보고에서 이재명 대통령과 공항 보안 검색 과정을 두고 언쟁을 벌였다. 당시 이 대통령은 “100달러짜리를 책갈피처럼 끼워나가면 (공항 검색에) 안 걸린다는 게 사실이냐”고 지적했는데, 이 사장은 이후 자신의 소셜 네트워크에 “이 일로 온 세상에 ‘책갈피에 달러를 숨기면 검색되지 않는다’는 사실이 알려졌다”고 비판했다.&lt;br&gt;&lt;br&gt;이 사장은 이후에도 기자회견 등을 통해 청와대와 국토부가 인천공항 인사에 부당하게 개입하고 있다며 정부를 향해 공개적으로 날을 세웠다.&lt;br&gt;&lt;br&gt;정부 역시 대응했다. 국토부는 최근 인천공항의 주차 서비스 개편을 문제 삼아 인천공항공사에 대한 대대적 감사를 진행했고, 이 사장이 인사권을 남용해 일부 부서장의 직위를 박탈했다는 고소도 이뤄져 경찰이 수사에 나선 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>총리실 “金총리, 함양 산불 현장서 밤샘 대응”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/02/23/QMVXNW3DF5DIJCWSHL3VFOCT3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/02/23/QMVXNW3DF5DIJCWSHL3VFOCT3I/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 02:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBXD6WVGCVOKVGUFJ2LPYCOD2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 23일 새벽 산불 진화가 진행 중인 경남 함양군 산림청 현장통합지휘본부를 찾아 현장 점검을 하고 있다. /국무총리실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 23일 새벽 경남 함양군의 산불 대응 현장을 찾아 밤새 상황을 살폈다고 국무총리실이 밝혔다.&lt;br&gt;&lt;br&gt;총리실에 따르면, 김 총리는 22일 밤 서울을 출발해, 23일 오전 2시쯤 경남 함양군 마천면에 설치된 산림청 현장통합지휘본부에 도착했다.&lt;br&gt;&lt;br&gt;김 총리는 먼저 지휘본부 관계자들을 격려하고, 산불 진압 상황을 보고받았다. 김 총리는 “가용 자원을 총동원해 대응하라”고 거듭 당부했다. 또 ‘산세가 험해 헬기 중심의 진화가 불가피하다’는 보고를 받고, 일출과 동시에 헬기 투입이 차질 없이 이뤄지도록 준비 태세를 확인했다.&lt;br&gt;&lt;br&gt;김 총리는 또 “산림청장이 부재한 상황에서 산림청이 동시다발적인 산불 진화에 안정적으로 대처할 수 있도록, 총리로서 관계 기관 간 협조 체계를 직접 재점검하는 등 적극 지원하겠다”고 했다. 김인호 전 산림청장은 지난 20일 음주 운전 사고를 내 21일 면직됐다.&lt;br&gt;&lt;br&gt;김 총리는 밤새 산불 대응이 이뤄지는 가운데 아침까지 현장을 지켰다. 아침에 관계 기관과 산불 대응 상황 점검 회의를 주재하고, 아침 식사를 하고 있는 진화대원들을 찾아 격려하고 ‘안전을 최우선으로 하라’고 당부했다.&lt;br&gt;&lt;br&gt;김 총리는 이어서 피해 주민들이 대피 중인 어울림체육관을 찾아 이재민들을 위로하고, 관계 기관에 ‘적십자사에 샤워차 배치를 요청하라’고 지시했다. 또 ‘산불을 조속히 진화하고, 이재민 구호·지원에도 빈틈이 없도록 하라’고 당부했다고 총리실은 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6SL4IPJZ5K2BDQCXQSVAW7TJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산림당국이 23일 오전 경남 함양군 마천면에서 산불 진화 작업을 하고 있다. /산림청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21일 오후 9시 14분쯤 경남 함양 마천면 창원리에서 산불이 발생해 23일 오전까지 이어지고 있다. 오전 10시 기준 232ha가 산불의 영향을 받고 있고, 진화율은 58%다. 주민 134명이 대피했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대전 시민 71.6% “행정 통합 추진 주민투표 실시해야”</title>
