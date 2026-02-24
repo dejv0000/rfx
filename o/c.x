@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 2월 25일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/24/V6KFIZCYWBAAJGMSMIBMFRVRH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/24/V6KFIZCYWBAAJGMSMIBMFRVRH4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 14:35:00 +0000</pubDate>
+      <content:encoded>중부 맑고 강원영동, 남부 흐림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMY7KWMTKNAWBAEDTBS6JZP5S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>결국 국가검진서 빠진 전립선 검사... 정부 “전립선암만 특별대우 어려워”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/24/L3ZQOJTPXVADJED72FU3MCZYNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/24/L3ZQOJTPXVADJED72FU3MCZYNM/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 12:58:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZDCODEG42GCYZZGZRGCYZXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 2030년까지 6대 암(위암·유방암·자궁경부암·간암·대장암·폐암)의 조기 진단율을 60%까지 끌어올리겠다는 계획을 24일 밝히자, 대한비뇨의학회 등 의료계에선 전립선암을 판별하는 데 필요한 전립선 특이 항원(PSA) 검사가 국가 검진에 포함되지 않은 데 대해 아쉬움을 표했다. 전립선암은 최근(2023년) 통계에서 우리나라 남성이 가장 많이 걸리는 암으로 올라섰는데 이에 대한 대책은 부족하다는 지적이다. &lt;br&gt;&lt;br&gt;의료계가 국가 검진에 포함해야 한다고 주장하는 PSA 검사는 피를 뽑아서 전립선에서만 발현되는 항원을 살펴보는 검사다. 이를 통해 전립선비대증이나 전립선염을 확인할 수 있고 수치가 지나치게 높으면 전립선암을 의심할 수 있다.&lt;br&gt;&lt;br&gt;학계는 적어도 55세 이상 남성은 PSA 검사가 필요하다는 입장이다. 전립선암은 주로 고령층에서 나타나는 만큼 이들에 대한 조기 검진이 필요하다는 취지다. 비뇨의학회 국가암검진화 TF 고영휘 위원장(이대목동병원 교수)는 “PSA 검사의 국가검진 도입에는 연간 164억~261억원이 소요될 것으로 추산된다”며 “현재 6대 암 검진에 투입되는 비용의 약 1% 수준이다. 전이 이후 치료에 드는 천문학적인 비용을 감안하면 건보 재정 건전성을 지킬 수 있는 셈”이라고 했다. &lt;br&gt;&lt;br&gt;그러나 정부는 다른 암종들도 대부분 국가검진 도입을 요구하고 있는 상황에서 전립선암과 PSA 검사를 특별 취급할 수는 없다는 입장이다. 정부 자료에 따르면 다른 장기로 전이되지 않고 전립선암 한 가지만 걸린 채 발견되는 비율은 51.6%로, 전체 암 평균(50.9%)보다 소폭 높은 수준이다. 정부 관계자는 “현재도 다른 암에 비해 일찍 발견되는 상황이라면, 조기 발견이 목적인 국가 검진에 PSA 검사를 넣을 필요는 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“솔직히 예쁘다 인정?”… 신상 털린 ‘강북 모텔녀’ 팔로워 50배 급증 </title>
+      <link>https://www.chosun.com/national/national_general/2026/02/24/Q35F2CH4ZVHO7CLH2FZRSFCI6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/Q35F2CH4ZVHO7CLH2FZRSFCI6Y/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 13:00:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3GIMBXGVRDQYZYHEYTMMJZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 수유동 모텔에서 약물이 든 음료를 건네 타인을 숨지게 한 혐의를 받는 20대 여성이 12일 오전 서울 도봉구 북부지방법원에서 열린 영장실질심사(구속 전 피의자 심문)에 출석하고 있다. 경찰은 이 여성이 지난달 말 또 다른 남성에게도 동일한 수법으로 범행을 저지른 것으로 보고 숨진 이들의 부검을 진행 중이다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘강북 모텔 연쇄 사망’ 피의자의 신상을 공개하지 않기로 내부 방침을 정한 가운데, 피의자 김모(22)씨의 것으로 추정되는 인스타그램 계정이 온라인상에 확산하고 있다. 이 계정의 팔로워 수는 1만명까지 늘었으며 일부 네티즌은 그의 외모를 칭찬하고 있어 ‘피해자 2차 가해’ 우려가 나오고 있다&lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티에는 김씨의 것으로 추정되는 인스타그램 계정 주소가 공유됐다. 24일 오후 9시 기준 이 계정의 팔로워 수는 1만명대로 열흘 전 200여 명보다 약 50배 늘었다. 게시물은 12개로 대부분 김씨로 추정되는 여성의 사진이다. &lt;br&gt;&lt;br&gt;지난 8일 올라온 마지막 게시물에는 2100여 개의 댓글이 달렸다. 피의자를 비난하는 내용이 대부분이나 “솔직히 예쁘다 인정? 나 같아도 음료수 바로 마심” “예쁘니 무죄” “감형해야 한다” 등 댓글도 달렸다. 이처럼 흉악범에게 매력을 느껴 그에게 동조하거나 추종하는 현상을 ‘하이브리스토필리아 증후군’으로 부른다. 이 같은 반응에 대해 범죄를 미화하고 유가족을 고려하지 않은 2차 가해라는 비판도 나오고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RY24JVDJNEWVAZY7XTTLAQ6NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'모텔 연쇄 사망 사건' 피의자로 추정된 인스타그램 계정이 온라인 커뮤니티에 확산하고 있다.  이 계정에는 피의자의 외모를 칭찬하는 댓글도 달려 논란이 되고 있다./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 범행 다음 날인 지난달 29일에 올라온 게시물도 있었다. 피의자로 추정되는 여성은 “가을 쿨톤입니다만”이라는 글과 함께 셀카 2장을 공개했다. ‘#팔로워환영’ ‘선팔맞팔’ 등의 해시태그도 달았다. 네티즌들은 해시태그를 통해 불특정 다수와 소통하며 범행 대상을 물색한 것 아니냐고 추측하고 있다. 이 밖에도 온라인상에는 김씨의 이름과 학력 등 신상이 확산하고 있다. &lt;br&gt;&lt;br&gt;김씨는 벤조디아제핀계 약물이 든 음료를 20대 남성 3명에게 건네 이 중 2명을 사망에 이르게 한 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;김씨는 작년 12월부터 지난 9일까지 수차례 범행한 혐의를 받는다. 그는 작년 12월 14일 경기 남양주시에 있는 카페에서 당시 교제 중이던 남성에게 약물을 섞은 음료를 건네 상해를 입힌 혐의를 받는다. 이 음료를 받아 마신 남자친구는 이틀간 의식을 잃었다가 회복했다. &lt;br&gt;&lt;br&gt;이후 그는 지난달 28일과 지난 9일 서울 강북구 수유동의 모텔에서 20대 남성 2명에게 같은 수법으로 2·3차 범행을 저지른 것으로 조사됐다. 2·3차 피해자는 모두 사망했다. &lt;br&gt;&lt;br&gt;특히 김씨는 작년 12월 범행 이후 챗GPT에 ‘수면제랑 술을 같이 먹으면 어떤지’, ‘얼마나 같이 먹으면 위험한지’, ‘죽을 수도 있는지’ 등을 질문했던 것으로 조사됐다. 김씨는 첫 피해자가 의식을 회복하자, 이후 약물 투약량을 2배 이상 늘린 음료를 만든 것으로 경찰은 파악했다. &lt;br&gt;&lt;br&gt;경찰은 현재까지 확인된 피해자 3명 외에 추가 피해자가 있는지 등을 전수 조사하고 있으며 김씨에 대한 사이코패스 진단 검사를 진행하고 검사 결과를 기다리는 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부 “엘리엇 ISDS 취소소송 승소, 국민연금은 국가기관 아니라는 판단이 결정적” </title>
+      <link>https://www.chosun.com/national/court_law/2026/02/24/S7AODELVFZHB3ADEIQHJLRHUWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/24/S7AODELVFZHB3ADEIQHJLRHUWY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 12:30:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTGOJZHE4WKOLFGZSTSZRYGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조아라 국제투자분쟁과장이 24일 정부과천청사 법무부에서 미국계 헤지펀드 엘리엇 매니지먼트와의 국제투자분쟁(ISDS) 취소판결 선고 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 정부가 미국계 사모펀드 엘리엇과의 국제투자분쟁(ISDS) 취소 소송에서 승소할 수 있었던 결정적인 이유는 ‘국민연금공단은 국가기관에 해당하지 않는다’는 정부 측 주장이 받아들여졌기 때문이다. 이에 따라 환송 중재 절차에서는 삼성물산과 제일모직의 합병 과정에서 한국 정부가 어떻게 엘리엇 측의 손해에 영향을 미쳤는지 인과관계를 다시 따지게 됐다.&lt;br&gt;&lt;br&gt;법무부는 24일 브리핑을 열고 엘리엇 취소 소송에서 양측의 주장에 대해 설명했다. 조아라 국제투자분쟁과장은 “국민연금은 별개 법인격을 보유하고 있고, 공적연금기금의 운용이 치안·국방 등 국가의 핵심 기능에 해당하지 않는다는 이유 등을 들어 국민연금이 국가기관이 아니라고 주장했다”고 했다. 반면 엘리엇 측은 “국민연금은 공적연금기금을 배분하는 헌법적 기능을 수행하는 만큼 국가기관에 해당한다”고 맞섰다. 취소 소송을 진행한 영국 법원은 한국 정부의 손을 들어줬다. 이에 따라 국민연금이 국가기관임을 전제로 한 원 중재판정도 유효하지 않게 됐다.&lt;br&gt;&lt;br&gt;법무부는 이번 결정으로 국민연금의 투자활동이 ISDS 대상이 될 수 없다는 법리가 확립됐다고 평가했다. 조 과장은 “국민 대다수의 노후 자금인 국민연금의 독립성과 자율성이 국제적으로 인정받았으며, 기금이 안전하게 운용될 수 있는 기틀이 마련됐다”고 했다.&lt;br&gt;&lt;br&gt;다만 엘리엇 측이 이번 결정에 불복할 가능성도 있다. 판결이 나온 후 3주 이내에 항소를 신청할 수 있기 때문이다. 이 경우 항소 절차까지 마무리한 뒤 본안에 해당하는 중재절차에 다시 돌입하게 된다.&lt;br&gt;&lt;br&gt;이 사건은 2015년 삼성물산과 제일모직의 합병에서 시작됐다. 옛 삼성물산 주주 엘리엇은 한국 정부가 국민연금공단을 동원해 두 회사 합병에 부당하게 개입한 결과 7억7000만달러(약 1조118억원)를 손해봤다며 2018년 7월 ISDS를 제기했다. ISDS 재판을 맡은 국제상설중재재판소(PCA)는 2023년 6월 “한국 정부는 엘리엇에 690억원과 지연 이자 등 총 1300억원을 지급하라”고 판정했다. &lt;br&gt;&lt;br&gt;한국 정부는 이에 불복해 같은 해 7월 이 사건 담당 법원인 영국 법원에 PCA 판결 취소 소송을 냈다. 영국 법원 1심은 2024년 8월 한국 정부의 소(訴)를 각하했으나, 항소심은 사건을 파기환송했다. 한국 정부는 파기환송심에서 승소를 거둘 수 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대치동 학원 위해 5일前 이사왔는데...” 은마아파트 화재 10대 딸 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/24/BXEUCP5XDNAQNLSYVM2WYGDR3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/BXEUCP5XDNAQNLSYVM2WYGDR3A/</guid>
+      <dc:creator>김병권 기자, 지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 12:00:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X337JGEUD5KQFDO7PNCZ7XQYZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 화재가 발생한 서울 강남구 대치동 은마아파트 외벽이 검게 탄 모습. 한국전기안전공사 사고조사 대원이 화재 현장을 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 서울 강남구 은마아파트에서 발생한 화재로 인근 고등학교에 진학할 예정이던 김모(16)양이 숨지고, 김양의 모친과 여동생을 포함해 총 3명이 다쳤다. 김양의 40대 부친 A씨는 이날 저녁 본지와 만나 “중학교 때 줄곧 1등만 하며 의사가 꿈이었던 딸을 위해 대치동으로 이사 온 지 5일 만에 이런 일이 있을 줄 어떻게 알았겠느냐”며 눈물을 훔쳤다.&lt;br&gt;&lt;br&gt;A씨 등 유족에 따르면, 김양의 가족이 입주한 집은 이사 전 내부 인테리어 공사가 진행됐고, 이 작업이 끝난 지난 19일 은마아파트에 들어왔다고 한다. 이전까지는 양천구에 거주했으나 어렸을 때부터 꿈이 의사인 김양의 진로를 고려해 고등학교 입학을 앞두고 학군지인 대치동으로 이사를 온 것이다.&lt;br&gt;&lt;br&gt;A씨는 화재가 발생했을 당시 이미 출근을 한 상황이었고, 불을 가장 먼저 발견한 40대 아내가 현관에서 가까운 방에서 자고 있던 둘째 딸을 먼저 집 밖으로 내보냈다고 한다. 그새 첫째 딸 김양은 소방에 신고를 하기 위해 안방 베란다로 숨어들었고, 이 때문에 모친은 집 안에서 첫째 딸을 발견하지 못한 것으로 전해졌다. 이후 김양은 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;A씨는 “딸이 학교 다닐 때 받았던 상도 다 가지고 있다”며 “시집 갈 때까지 아무 일 당하지 않게 지켜주려 했는데. 이런 일이 있을 줄 어떻게 알았겠나”라고 한탄했다.&lt;br&gt;&lt;br&gt;A씨는 집 안에 설치되지 않았던 스프링클러와 별개로 화재 당시 복도에 있던 소화전이 제대로 작동하지 않았다고도 주장했다. A씨는 “불이 났다고 소리 치는 애 엄마의 목소리에 옆집에서 복도에 있던 소화전을 들고 집 현관문 방향으로 쐈는데 물이 나오지 않았다”며 “물만 나왔어도 현관문 쪽 불을 끄고 들어가 딸 아이를 구할 수 있었을 것”이라고 했다. 소방에 따르면, 이 집 내부에는 스프링클러도 없어 초기 진화에도 어려움이 있었던 걸로 전해졌다.&lt;br&gt;&lt;br&gt;한편, A씨는 이날 오후 경찰 조사를 받은 것으로 전해졌다. 조사 당시 경찰은 “바닥에서 ‘퍽퍽’ 소리가 난다”고 진술한 A씨 집 윗 세대의 진술을 토대로 인테리어 공사 당시 집 천장에 LED 조명을 너무 많이 달아둔 것 아닌지 의심했다고 한다. A씨는 “경찰이 LED 누전이든 뭐든 그쪽에서 잘못됐단 생각을 하는 것 같다”면서도 “새벽에 불을 켜지도 않았고, 경찰에서도 ‘김양 가족의 잘못은 아니다’라고 했다”고 전했다. A씨에 따르면, 화재가 발생한 가구에는 가스도 아직 들어오지 않았고 인덕션, 가스레인지, 전자레인지 등도 구비되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>철 없는 10대 불꽃놀이에 산 홀라당 탈 뻔...‘촉법’에 처벌 묻긴 힘들 듯 </title>
       <link>https://www.chosun.com/national/2026/02/24/4HTJAR77NZDGHFHD3LEW2YNXN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/02/24/4HTJAR77NZDGHFHD3LEW2YNXN4/</guid>
@@ -870,52 +915,6 @@
       <description/>
       <pubDate>Mon, 23 Feb 2026 08:21:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QUFIRM4AVBQTBDXIBR5YIWHRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 장동혁 대표가 23일 서울 여의도 국회에서 열린 의원총회에서 송언석 원내대표의 발언을 경청하고 있다. 뒤쪽은 배현진 의원. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 배현진 의원과 김종혁 전 최고위원이 당 윤리위원회로부터 받은 징계 효력을 정지해 달라며 낸 가처분 신청 심문이 오는 26일 열린다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 서울남부지법 민사합의51부(재판장 권성수)는 26일 오후 2시부터 배 의원과 김 전 최고위원이 국민의힘을 상대로 낸 효력정지 가처분 신청 사건의 심문을 진행할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 13일 국민의힘 윤리위원회(위원장 윤민우 가천대 교수)는 배 의원이 자신의 페이스북에 비판 댓글을 쓴 이용자의 미성년 자녀 사진을 게시한 것이 명예훼손 소지가 있다며 당원권 정지 1년의 처분을 내렸다.&lt;br&gt;&lt;br&gt;김 전 최고위원은 언론 인터뷰 등에서 당 지도부와 당원을 모욕하는 언행을 했다는 이유 등으로 ‘탈당 권유’ 처분을 받았고, 탈당 신고서를 제출하지 않음에 따라 지난 9일 제명됐다.&lt;br&gt;&lt;br&gt;이에 배 의원과 김 전 최고위원은 징계 처분에 대해 반발하며 최근 법원에 효력정지 가처분 신청을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대검, 전국 검찰청에 ‘압수 가상자산 관리 지침’ 전달 </title>
-      <link>https://www.chosun.com/national/court_law/2026/02/23/SLKQC4X7Z5CJPDYRFG3IYLR6II/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/SLKQC4X7Z5CJPDYRFG3IYLR6II/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 08:21:21 +0000</pubDate>
-      <content:encoded>대검찰청이 압수 가상자산의 관리 방안을 만들어 전국 검찰청에 전달했다. 광주지검은 지난달 시가 300억원 상당의 비트코인 320개를 분실했다가 최근 전량 회수했는데, 이 같은 사태가 재발하는 것을 막겠다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4DOY3BGZQTENLCHFRTMMZRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대검은 최근 전국 검찰청에 업무연락을 보내 압수 가상자산 관리 방안을 공유했다. 먼저 가상자산 지갑의 보유 내역은 반드시 공식 사이트를 이용해 확인해야 한다. 비트코인은 블록체인닷컴, 이더리움은 이더스캔 등 가상자산별 보유 현황을 확인할 수 있는 웹사이트를 명시했다.&lt;br&gt;&lt;br&gt;또 가상자산 보유 내역을 확인할 때는 공개키만을 이용하도록 강조했다. 가상자산 보유 내역은 공개키만 입력하면 확인이 가능한데, 계좌 자체를 열 수 있는 보안키 등을 입력하지 않도록 주의하라는 취지다. 지난해 8월 광주지검은 압수 가상자산을 점검하는 과정에서 피싱사이트에 접속해, 비트코인이 들어있는 전자지갑의 주소와 보안키 등을 모두 입력했다가 비트코인 320개를 탈취당했다.&lt;br&gt;&lt;br&gt;아울러 대검은 가상자산 지갑이 들어있는 USB와 지갑에 접속하도록 하는 비밀번호를 각각 분리해 보관하라는 지침도 전달했다. 내부자 한 사람에 의해 압수 가상자산이 탈취되지 못하도록 한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보험금 편취하려 교통사고 허위자백...檢, 보완수사 끝에 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/23/BTQGMMGDXVEWTLZWCPLBQIJRHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/23/BTQGMMGDXVEWTLZWCPLBQIJRHE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 08:04:16 +0000</pubDate>
-      <content:encoded>보험금을 편취할 목적으로 허위로 교통사고를 낸 운전자라고 자백한 피의자가 지난 13일 재판에 넘겨졌다. 이 범행의 전모는 경찰의 재수사와 검찰의 보완수사 끝에 드러난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TMNTBME2TCZRVGUZTAMRZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울중앙지검 형사2부(부장 이주희)는 “해당 교통사고의 진범을 밝혀내고, 자신이 운전자라고 허위 자백한 A씨를 범인도피죄로 불구속 기소했다”고 밝혔다. 당초 경찰은 A씨가 종합보험에 가입돼 있는 점 등을 고려해 별도의 조사 없이 불송치 결정을 내렸다고 한다. 그러나 검찰은 교통사고 피해자의 진술과 피해 차량 블랙박스 영상 등을 검토한 결과 A씨가 운전자가 아니라고 의심한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재수사에 나선 경찰은 실제로 교통사고를 낸 범인은 A씨의 지인이었고, 그가 경찰에 허위로 진술했다는 사실을 발견한 뒤 A씨를 검찰에 송치했다. 검찰은 “재수사를 통해 A씨가 보험 가입을 하지 않은 진범을 대신해 허위로 보험금을 청구한 사실을 확인했다”며 “이번 사건이 보험금 편취 과정의 일환이라는 점을 규명했다”고 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 불송치 사건을 충실히 검토하고, 보완수사가 필요한 사건은 적극적으로 수사해 실체적 진실이 규명될 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 2월 24일 화요일 (음력 1월 8일 己巳)</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/23/IK2OGABOVBCG3A2AYLNUGQDF3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/IK2OGABOVBCG3A2AYLNUGQDF3M/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>순직 경찰관에 ‘칼빵’ 발언…경찰직협, 무속인 예능 논란에 “깊은 분노”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/23/KT5YL5GJHBADDCX7TD6TRAEGZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/KT5YL5GJHBADDCX7TD6TRAEGZ4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 07:54:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KCDOGKPWFG5PP6YUU2DMGD3GY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;디즈니+ '운명전쟁49' 포스터. /디즈니+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관 노조 대안 조직 격인 전국경찰직장협의회(경찰직협)는 디즈니+ 예능 프로그램 ‘운명전쟁49’가 순직 경찰관의 사망 경위를 예능 소재로 활용하며 ‘칼빵’이라는 표현을 사용한 데 대해 항의했다.&lt;br&gt;&lt;br&gt;경찰직협은 이날 입장문을 내고 “범인 검거 중 순직한 공무원의 희생을 ‘칼빵’이라는 저속한 은어로 비하하고, 이를 유희의 소재로 삼은 출연진과 제작진의 몰상식한 행태에 깊은 분노와 참담함을 표한다”고 했다.&lt;br&gt;&lt;br&gt;‘운명전쟁49’는 49명의 운명술사가 다양한 미션을 수행하며 자신의 운명을 시험하는 서바이벌 예능 프로그램으로, 지난 11일 공개된 2화에서는 2004년 강력 사건 피의자를 검거하는 과정에서 흉기에 찔려 순직한 고(故) 이재현 경장의 사인을 맞히는 미션이 등장했다. 이때 한 무속인은 “흔히 칼 맞는 걸 ‘칼빵’이라고 하지 않느냐. 칼 맞는 것도 보이고…”라며 이 경장의 사인을 추정했고, MC를 맡은 방송인 전현무는 “제복 입은 분이 칼빵이다. 너무 직접적이죠?”라고 반응했다. 패널 신동은 “(칼빵) 단어가 너무 좋았다”며 맞장구를 쳤다.&lt;br&gt;&lt;br&gt;이에 경찰직협은 “순직 공무원의 헌신은 우리 사회가 영원히 기억하고 예우해야 할 가치”라며 “14만 경찰 공무원의 가슴에 대못을 박았다”고 했다. 이어 “순직은 누군가에게 하늘이 무너지는 고통이며 국가적으로도 커다란 손실”이라며 “범죄자들 은어인 ‘칼빵’으로 묘사하며 웃음을 유도한 것은 인륜을 저버린 행위이자 고인과 유가족에 대한 명백한 2차 가해”라고 했다.&lt;br&gt;&lt;br&gt;경찰직협은 해당 방송사에 출연진의 공개 사과와 자숙의 시간, 유가족과 전국 경찰공무원에 대한 공식 사죄, 문제 회차 방영분의 즉각 삭제 등을 요구했다. 또 방송통신심의위원회를 향해선 “이번 사안의 심각성을 엄중히 받아들여 해당 프로그램에 법정 최고 수준의 징계를 내려 달라”고 했다.&lt;br&gt;&lt;br&gt;한편 이 프로그램에서는 고인의 초상 사용에 대해 유족의 동의를 제대로 얻지 않았다는 지적도 제기된 바 있다. 2001년 서울 서대문구 홍제동 화재 현장에서 순직한 고 김철홍 소방교의 사인을 맞히는 미션이 등장했는데, 유족 측이 “제작진이 영웅이나 열사를 다루는 다큐멘터리 취지라고 설명해 동의했다”며 반발한 것이다. 비판이 이어지자 제작진은 “상처 입으신 유가족과 동료 소방관께 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“5000피 거의 다 왔다” 金총리, 강연 중 말실수</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/23/VHTA3Y7LSRGWJNLMXDNCMCHHBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/23/VHTA3Y7LSRGWJNLMXDNCMCHHBE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Feb 2026 07:07:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5X2HFFKQ3ROAJCQ55MN5C7JGRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 21일 경북 포항시 포은흥해도서관에서 열린 더불어민주당 경북도당 초청 K-국정설명회에서 특별강연을 하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 지난 21일 경북 포항에서 열린 국정 설명회에서 “코스피 5000이 거의 다 왔다”고 말실수를 해 이목을 끌었다. 당일 코스피는 종가 기준 5800선이었고, 코스피 5000은 지난달 말 넘어선 바 있다.&lt;br&gt;&lt;br&gt;김 총리는 포항에서 지역 주민 300여 명이 참석한 가운데 열린 11번째 ‘K-국정설명회’에서 코스피 5000 달성이 쉽지 않을 것이라는 관측 속에 자신이 대선 공약을 제시했다며 “그때 우리가 그 말을 하면서도 꼭 100% 우리가 임기 4년 내에 할 수 있다고 믿는 눈치는 아니었다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이후 김 총리는 “열심히 하고 잘하면 5000까지 갈 수 있겠다 생각은 했는데 웬걸, 3000, 4000, 5000까지 거의 다 왔지 않느냐”고 했다. 당시 PPT 화면에는 설명회 전날인 2월 20일 코스피가 4808.53을 기록한 것으로 적혀 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGNZCSKMQFB3FFXRQOP7KSSBEE.png"&gt;&lt;figcaption&gt;&lt;small&gt;김 총리가 20일 코스피가 4808.53이라고 잘못 기재된 PPT 화면을 보며 "열심히 하고 잘 하면 5000까지 갈 수 있겠다 생각은 했는데 웬걸, 3000 4000 5000까지 거의 다 오지 않았냐"고 발언하고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 코스피 5000 돌파는 지난 1월 이미 이뤄졌다. 지난달 22일 장중 5000선을 터치했고, 같은 달 27일 5084.85로 장을 마감하며 사상 처음으로 종가 기준 5000선을 넘어섰다. 김 총리 강연 전날인 20일 코스피 종가는 5808.53으로, 6000에 가까운 수치였다. &lt;br&gt;&lt;br&gt;이에 시민들은 “이미 코스피 5000을 넘지 않았느냐”며 웅성거렸고, 시민들의 반응을 뒤늦게 확인한 김 총리는 PPT 화면을 한 번 보더니 “날짜를 반영하면 된다. 올라갔다 내려갔다 하니까…”라고 급히 해명했다.&lt;br&gt;&lt;br&gt;김 총리의 이런 말실수는 클립 등으로 제작돼 온라인에 퍼졌다. 네티즌 사이에서는 “총리가 왜 코스피 5000 넘은 걸 모르냐” “총리실 실무진이 실수로 PPT를 잘못 만들었고, 총리는 잘못된 표기를 그대로 보고 말한 것 같다” “자료에 오타가 났으니 그대로 말한 것일 뿐, 총리가 설마 5000을 넘긴 걸 모르겠냐” 등 다양한 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FA4CKEUEABKUDCBWQYIJPJOSLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 23일 인천 계양구 계양문화회관에서 열린 더불어민주당 인천시당 초청 K-국정설명회에서에서 강연을 하고 있다. PPT에 지난 20일 종가 기준 코스피가 5808.53으로 정상적으로 기재돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 문제의 PPT 화면은 수정된 것으로 보인다. 23일 인천 계양구 계양문화회관에서 더불어민주당 인천시당 초청으로 열린 K-국정설명회에서는 20일 코스피가 5808.53으로 정상적으로 기재돼 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이물질 신고된 코로나 백신 1420만회분, 접종 강행했다</title>
