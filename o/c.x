@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 2월 26일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/25/S3LXXLUXPNEONEJ5JVU4JUM5CE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/25/S3LXXLUXPNEONEJ5JVU4JUM5CE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Feb 2026 14:32:00 +0000</pubDate>
+      <content:encoded>포근하지만 전국 대체로 흐려&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2QBFVDEGFFJHFM4AR5XNPKC4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울살이 외국인 10명 중 7명 “서울 계속 살겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/25/QEZ5KCKLRZHOPKOEQ2P2RMYBIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/QEZ5KCKLRZHOPKOEQ2P2RMYBIA/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Feb 2026 13:07:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZDGZRYGZTGGYZUG44GGZRYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 서울 중구 명동 거리를 가득 채운 외국인들의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 외국인 10명 중 7명은 “앞으로도 계속 서울에 살겠다”고 답했다. 10명 중 8명은 “지인에게 서울 거주를 추천하겠다”고 했다. &lt;br&gt;&lt;br&gt;서울시는 25일 이 같은 내용이 담긴 ‘2025 서울서베이’ 결과를 공개했다. 작년 8~9월 서울에 사는 외국인 2500명을 대상으로 조사한 것이다.&lt;br&gt;&lt;br&gt;‘앞으로도 서울에 계속 거주하겠다’고 답한 외국인 비율은 75%로 2024년(56%)보다 19%포인트 상승했다. ‘가족 등 지인에게 서울 거주를 추천하겠다’고 답한 외국인은 81.8%로 1년 전(78.2%)보다 3.6%포인트 상승했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “서울의 편리한 대중교통, 밤에도 편하게 다닐 수 있는 치안 수준, 빠른 교육·복지 행정 서비스 등에 대한 만족도가 높다”며 “세계적으로 ‘K컬처(문화)’가 인기를 끌면서 ‘서울살이’에 대한 관심도 커진 것 같다”고 했다. 서울 거주 5년 차인 네팔인 수레스 차울라가인(27)씨는 “유학 왔다가 서울 회사에 취업했다”며 “대중교통이 편리하고 안전해 가능하면 계속 살고 싶다”고 했다. &lt;br&gt;&lt;br&gt;서울에 살면서 어렵다고 느낀 것으로는 ‘공공 행정기관을 통한 민원 제기·해결(31.3%)’ ‘경제활동 기회 획득(31.1%)’ ‘자녀 교육 및 양육(31.0%)’ 등을 꼽았다.&lt;br&gt;&lt;br&gt;서울에 사는 외국인은 2020년 24만2623명에서 지난해 27만9629명으로 5년 새 3만7006명(15%) 증가했다. 국적별로는 미얀마(362%), 네팔(262%), 방글라데시(97%) 등이 많이 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공군 F-16C 전투기, 영주서 추락…조종사 비상탈출</title>
+      <link>https://www.chosun.com/national/incident/2026/02/25/OFRQP65O45BFVH55IRVXOE3KEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/25/OFRQP65O45BFVH55IRVXOE3KEM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Feb 2026 11:20:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNBXPM4HJZJQXD55HRDMLZITQE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; F-16 전투기. /공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오후 7시 29분쯤 경북 영주시 안정면 용산리 한 야산에 F-16C 전투기가 추락했다. 해당 전투기는 야간 비행 훈련 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조종사 1명은 비상 탈출해 무사한 것으로 확인됐다. 현재까지 민간 피해는 없는 것으로 파악됐다. 전투기 추락과 함께 불이 나 산불이 발생했지만, 산불 확산 우려는 크지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;공군은 참모차장을 본부장으로 비행사고 대책본부를 구성해 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWKT7US4RZLFJP4NKHVSTJXAVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 7시31분쯤 경북 영주시 안정면 용산리 한 야산에 공군 F-16C 전투기가 야간 훈련 중 추락했다. 조종사는 탈출해 인명피해는 발생하지 않았으나, 추락하면서 전투기에 불이 붙어 산불로 번져 소방 당국이 진화에 나서고 있다./경북소방본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MI3WINDGGNRTGZBSMQ2DCYJZMY.jpg?auth=3c25b88f288c8d661645ec473280559d5aa93e6e72e70e49b2ef732cb0d47490&amp;smart=true&amp;width=1315&amp;height=843" type="image/jpeg" height="843" width="1315">
+        <media:description type="plain">25일 오후 7시31분쯤 경북 영주시 안정면 용산리의 한 야산에 전투기 1대가 추락해 산불이 나고 있다.(경북소방본부 제공. 재판매 및 DB금지)</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>전국 법원장들, 사법 3법 논의... “부작용 숙의 없어 심각한 유감”</title>
       <link>https://www.chosun.com/national/court_law/2026/02/25/4BFAIEHSENFGVMDAO4PL3G7ARY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/25/4BFAIEHSENFGVMDAO4PL3G7ARY/</guid>
@@ -890,33 +920,6 @@
       <description/>
       <pubDate>Tue, 24 Feb 2026 12:00:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X337JGEUD5KQFDO7PNCZ7XQYZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 화재가 발생한 서울 강남구 대치동 은마아파트 외벽이 검게 탄 모습. 한국전기안전공사 사고조사 대원이 화재 현장을 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 서울 강남구 은마아파트에서 발생한 화재로 인근 고등학교에 진학할 예정이던 김모(16)양이 숨지고, 김양의 모친과 여동생을 포함해 총 3명이 다쳤다. 김양의 40대 부친 A씨는 이날 저녁 본지와 만나 “중학교 때 줄곧 1등만 하며 의사가 꿈이었던 딸을 위해 대치동으로 이사 온 지 5일 만에 이런 일이 있을 줄 어떻게 알았겠느냐”며 눈물을 훔쳤다.&lt;br&gt;&lt;br&gt;A씨 등 유족에 따르면, 김양의 가족이 입주한 집은 이사 전 내부 인테리어 공사가 진행됐고, 이 작업이 끝난 지난 19일 은마아파트에 들어왔다고 한다. 이전까지는 양천구에 거주했으나 어렸을 때부터 꿈이 의사인 김양의 진로를 고려해 고등학교 입학을 앞두고 학군지인 대치동으로 이사를 온 것이다.&lt;br&gt;&lt;br&gt;A씨는 화재가 발생했을 당시 이미 출근을 한 상황이었고, 불을 가장 먼저 발견한 40대 아내가 현관에서 가까운 방에서 자고 있던 둘째 딸을 먼저 집 밖으로 내보냈다고 한다. 그새 첫째 딸 김양은 소방에 신고를 하기 위해 안방 베란다로 숨어들었고, 이 때문에 모친은 집 안에서 첫째 딸을 발견하지 못한 것으로 전해졌다. 이후 김양은 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;A씨는 “딸이 학교 다닐 때 받았던 상도 다 가지고 있다”며 “시집 갈 때까지 아무 일 당하지 않게 지켜주려 했는데. 이런 일이 있을 줄 어떻게 알았겠나”라고 한탄했다.&lt;br&gt;&lt;br&gt;A씨는 집 안에 설치되지 않았던 스프링클러와 별개로 화재 당시 복도에 있던 소화전이 제대로 작동하지 않았다고도 주장했다. A씨는 “불이 났다고 소리 치는 애 엄마의 목소리에 옆집에서 복도에 있던 소화전을 들고 집 현관문 방향으로 쐈는데 물이 나오지 않았다”며 “물만 나왔어도 현관문 쪽 불을 끄고 들어가 딸 아이를 구할 수 있었을 것”이라고 했다. 소방에 따르면, 이 집 내부에는 스프링클러도 없어 초기 진화에도 어려움이 있었던 걸로 전해졌다.&lt;br&gt;&lt;br&gt;한편, A씨는 이날 오후 경찰 조사를 받은 것으로 전해졌다. 조사 당시 경찰은 “바닥에서 ‘퍽퍽’ 소리가 난다”고 진술한 A씨 집 윗 세대의 진술을 토대로 인테리어 공사 당시 집 천장에 LED 조명을 너무 많이 달아둔 것 아닌지 의심했다고 한다. A씨는 “경찰이 LED 누전이든 뭐든 그쪽에서 잘못됐단 생각을 하는 것 같다”면서도 “새벽에 불을 켜지도 않았고, 경찰에서도 ‘김양 가족의 잘못은 아니다’라고 했다”고 전했다. A씨에 따르면, 화재가 발생한 가구에는 가스도 아직 들어오지 않았고 인덕션, 가스레인지, 전자레인지 등도 구비되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “변호사와 의뢰인 간 비밀유지권 인정”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/24/JNTRLXGML5BI5D4HCEBDKMTINE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/24/JNTRLXGML5BI5D4HCEBDKMTINE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Feb 2026 09:38:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2TQOLDMFSTKN3GGVQTKMZQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호사와 의뢰인 간 비밀 유지권(ACP)을 인정해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면 대법원은 최근 장하원 전 디스커버리자산운용 대표의 압수 수색 과정에서 검찰이 법률 자문자료를 압수한 건 위법하다고 판단했다. &lt;br&gt;&lt;br&gt;앞서 장 전 대표 측 변호인은 검찰이 법률 자문자료를 압수한 건 위법하다며 준항고를 제기했다. 준항고란 수사 기관의 압수 수색 등에 불복해 법원에 이의를 제기하는 제도다. &lt;br&gt;&lt;br&gt;장 전 대표 측은 검찰이 법률 자문을 목적으로 한 대화 내용도 압수했다며 준항고를 신청했다. 사건을 수사하던 서울남부지검은 2023년 7월 장 전 대표와 임직원의 휴대전화 2대, 노트북에 저장된 전자정보 등을 압수했는데, 여기에는 변호인과 주고받은 문서, 메시지 등도 포함됐다. 서울남부지법은 준항고 신청을 일부 받아들였고, 대법원은 검찰의 재항고를 기각했다.&lt;br&gt;&lt;br&gt;ACP는 변호사와 의뢰인이 주고받은 법률 상담 내용이나 변호사가 작성한 의견서 등에 대한 비밀유지권을 의미한다. 지난 1월 ACP를 도입하는 변호사법 개정안이 국회를 통과했다. &lt;br&gt;&lt;br&gt;장 전 대표를 변호한 법무법인 광장 측은 “단순히 대법원이 ACP를 인정했다는 것을 넘어 ACP를 규정한 개정 변호사법이 시행된 이후에 만들어진 판례라는 점에서 의미있다”고 했다. 광장 측은 “앞으로 법원이 어디까지 ACP 보호 대상으로 볼지 등 증거능력 배제 여부를 파악할 때 이번 판결이 기준이 될 수 있을 것 같다”고 설명했다.&lt;br&gt;&lt;br&gt;장 전 대표는 1000억원대 부실 펀드를 판매하고 환매를 중단한 혐의(특정경제범죄가중처벌법상 사기 등)로 기소됐다 작년 대법원에서 무죄가 확정됐다. 검찰은 장 전 대표가 부실 상태인 미국 대출채권에 투자하면서 손실이 날 수 있다는 사실을 알고 있었음에도 고수익이 보장되는 안전한 투자라고 속였다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구교육청, 올해 중·고교 신입생 4만 1000명에 교복비 125억 지원</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/24/VPVO5WP3CZFE7DT333EFHQIVPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/VPVO5WP3CZFE7DT333EFHQIVPE/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Feb 2026 09:25:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WIYJXMJSTCMRRHFTGKMRZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시교육청은 2026학년도 중·고등학교 신입생 약 4만1000여명을 대상으로 교복 구입비 125억원을 지원한다고 24일 밝혔다./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시교육청이 올해 중·고교 신입생 전원에게 교복 구입비 125억원을 지원한다고 24일 밝혔다. 지원 대상자는 대구 지역 중·고교 신입생과 타 시·도 및 국외에서 전입하는 1학년 학생 등 4만 1000여명이며, 인당 30만원 한도로 교복을 현물 지원한다. &lt;br&gt;&lt;br&gt;교복 구입액이 30만원 미만일 경우 학교 구성원 협의를 통해 체육복·생활복·교복 여벌 등 추가 품목으로 지원될 예정이다. 교육청 측은 대구 내 학교 평균 교복 구매 단가가 동·하복 합쳐 26만7000원으로 지원 가격을 초과하는 학교는 없는 것으로 파악했다. 앞서 대구교육청은 2019년부터 기존 정장형 교복을 일상복 형태로 개선해 가격을 낮추고 학생들의 활동성을 늘리는 ‘착한교복’ 정책을 도입한 바 있다. 작년 기준 지역 중·고교 착한 교복 도입률은 88.1%에 달했다. &lt;br&gt;&lt;br&gt;강은희 대구교육감은 “교복 구입비 지원이 학부모의 실질적인 부담 경감으로 이어지길 바란다”며 “교복 가격 안정과 품질 유지가 함께 이뤄질 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘강호동 뇌물 수수 연루’ 前 농협중앙회 임원 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/24/C4TWSAGJYJHPFJETQAE2KYG3ZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/24/C4TWSAGJYJHPFJETQAE2KYG3ZY/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Feb 2026 09:00:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7MPGI5AHJKYRMCPR37OQICNNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강호동 농협중앙회장이 지난달 13일 오전 서울 중구 농협중앙회 본관에서 농림축산식품부가 지난 8일 발표한 농협중앙회에 대한 특별감사 중간 결과와 관련해 대국민 사과 인사를 마친 뒤 회견장을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강호동 농협중앙회장의 뇌물 수수 의혹과 관련해 경찰이 전직 농협중앙회 임원과 노조위원장을 압수 수색한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;24일 본지 취재를 종합하면, 서울경찰청 반부패수사대는 유모 전 농협중앙회 부회장의 휴대전화와 김모 전 노조위원장의 자택 등을 지난달 압수 수색했다.&lt;br&gt;&lt;br&gt;이들은 2023년 말 강 회장이 농협중앙회 계열사와 거래 관계인 용역업체 대표 이모씨로부터 사업 편의를 봐주는 대가로 두 차례에 걸쳐 현금 1억원을 수수한 의혹에 연루됐다는 의심을 받고 있다. 당시 강 회장은 농협중앙회장 선거를 한 달여 앞두고 있었다.&lt;br&gt;&lt;br&gt;경찰은 유 전 부회장이 강 회장과 이씨를 연결해 준 것으로 보고 수사를 진행 중이다. 앞선 경찰 조사에서 이씨와의 접촉을 부인했던 유 전 부회장은 “안부를 묻는 차원에서 만났다”고 진술을 번복한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강 회장은 2020년 농협중앙회장 선거에서 낙선한 뒤, 2024년 재도전 끝에 제25대 회장으로 당선됐다. 전국 농협 조합장들의 직접 투표로 선출되는 농협중앙회장은 공직자윤리법상 재산 등록 의무가 있는 공직자로 분류된다.&lt;br&gt;&lt;br&gt;경찰은 작년 7월 강 회장의 불법 선거자금 수수 첩보를 입수하고 내사에 착수한 바 있다. 그해 10월에는 서울 중구 농협중앙회에 있는 강 회장 집무실 등을 압수 수색한 데 이어, 강 회장을 출국 금지 조처했다.&lt;br&gt;&lt;br&gt;경찰은 주변 인물 조사를 마치는 대로 강 회장을 소환 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정원오 성동구청장, 다음 달 4일 사퇴한다…서울시장 예비후보 등록</title>
