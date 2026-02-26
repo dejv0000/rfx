@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 헌재 “미신고 옥외집회 일률처벌 집시법 조항 헌법불합치”</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/26/22U7GQELDJCYBEYSZL2ETDWCLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/26/22U7GQELDJCYBEYSZL2ETDWCLM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 05:23:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3WCMDFHBTGEY3GGJSDKMDCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소에서 깃발이 휘날리고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 옥외집회에 사전 신고 의무를 부과하고 이를 위반할 경우 예외 없이 처벌하도록 한 집시법 조항들에 대해 헌법 불합치 결정을 내렸다.&lt;br&gt;&lt;br&gt;헌재는 26일 집시법 처벌 규정을 담은 제22조 제2항 중 제6조 제1항의 ‘옥외집회’ 관련 부분에 대해 “집회의 자유를 침해한다”며 이같이 결정했다고 밝혔다. 재판관 9명 가운데 4명은 헌법 불합치, 4명은 위헌, 1명은 합헌 의견을 냈다.&lt;br&gt;&lt;br&gt;헌법 불합치는 법률이 헌법에 위반된다고 보면서도 즉각 무효화할 경우 발생할 수 있는 법적 공백이나 사회적 혼란을 고려해, 국회에 개정 시한을 주고 그때까지 법의 효력을 한시적으로 유지하는 결정이다. 헌재는 2027년 8월 31일까지 법을 개정하도록 하고, 그때까지는 현행 규정을 계속 적용하도록 했다.&lt;br&gt;&lt;br&gt;헌재는 다만 옥외집회에 대한 사전 신고 의무를 규정한 집시법 제6조 제1항 중 ‘옥외집회’ 부분에 대해서는 재판관 7대 2 의견으로 헌법에 위반되지 않는다는 합헌 결정을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조희대, 중앙선거관리위원에 천대엽 대법관 내정</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/26/TRBRRQH73BDS7HAUFB454PEBVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/26/TRBRRQH73BDS7HAUFB454PEBVA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 05:02:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TADX3OQRJFHNALJEAPESW3M2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 대법관. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 중앙선거관리위원회 위원으로 천대엽(62) 대법관을 내정했다. 천 대법관은 내달 대법관에서 퇴임하는 노태악 중앙선관위원장에 이어 차기 선관위원장을 맡게 될 전망이다. &lt;br&gt;&lt;br&gt;대법원은 26일 “노태악 중앙선관위원장이 위원직 사퇴 의사를 밝힘에 따라 후임 위원으로 천 대법관을 지명하기로 내정했다”고 밝혔다. 헌법에 따라 중앙선관위원 9명 중 3명은 대법원장이 지명한다. 조 대법원장은 조만간 국회에 천 대법관에 대한 인사청문을 요청할 예정이다. &lt;br&gt;&lt;br&gt;중앙선관위원장은 선관위원(9명) 중 호선(互選)으로 선출되는데 대법관인 위원이 맡는 게 관례다. 천 대법관이 국회 인사청문회를 통과하면 올해 6월 지방선거부터 관리하게 된다.&lt;br&gt;&lt;br&gt;대법원은 “천 대법관은 해박한 법률지식과 균형감각, 높은 형사법 전문성에 기초한 판결로 법원 내·외부로부터 존경과 신망을 얻고 있다”며 “법원행정처장으로서 탁월한 사법행정 역량을 발휘해 재판지연 해소와 신속·공정한 재판 구현을 위해 헌신해왔다”고 내정 이유를 밝혔다. 이어 “법과 원칙에 따라 합리적이면서도 공정한 재판업무를 수행해 온 만큼 중앙선관위원 직무를 안정적으로 수행할 적임자”라고 했다. &lt;br&gt;&lt;br&gt;부산 출생인 천 대법관은 사법연수원을 21기로 수료해 1995년 판사로 임관했고 2021년 문재인 정부에서 대법관에 임명됐다. 천 대법관은 형사법 분야 대표 전문가로 꼽힌다. 성폭력 사건에서 아동·지적장애인 피해자의 진술 신빙성 판단 기준을 제시하는 판결을 내렸고, 국회의원 출판기념회 찬조금을 뇌물로 인정하고 정치자금 재분배 관행이 위법하다고 판단하는 등 공직자 부패 사건에서 엄정한 법 적용으로 주목받았다.&lt;br&gt;&lt;br&gt;천 대법관은 2024~2025년 법원행정처장을 맡아 법관 사무분담 장기화, 법원장 재판부 시행 등을 통해 재판 지연 해소에 나섰고, 법관 임용 경력 요건 완화와 판사 정원 증원, 재판연구원 증원 등 제도 개선을 이끌었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도심지 ‘야생 멧돼지·너구리 출몰 지도' 나온다</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/26/FCSWIB4G5NHPNIFLYTU63DULUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/26/FCSWIB4G5NHPNIFLYTU63DULUA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 05:21:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKBFERMCTZAORH3ZCG2EBEMQDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2020년 7월 경기 성남시 야탑동 하천 주변에 너구리 주의 안내판이 설치된 모습. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울·인천 등 도심지에 서식하는 야생 멧돼지·너구리 등의 주요 출몰지를 알 수 있는 지도가 나온다.&lt;br&gt;&lt;br&gt;국립생물자원관은 인공지능(AI)과 유전자 분석 등을 통해 야생 멧돼지와 너구리가 출몰하는 지역을 과학적으로 예측한 지도를 구축했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;국립생물자원관은 도심지 내 야생동물 출몰로 인한 안전사고와 질병 발생 예방을 위해 2023년부터 무인기·무인 카메라 및 포획·조사 등을 통해 도심 출몰 멧돼지, 너구리의 휴식·이동 경로 등을 조사해 왔다.&lt;br&gt;&lt;br&gt;이번 조사를 통해 자원관은 주요 야생 멧돼지 출몰 지점은 415곳, 너구리는 47곳을 각각 특정해 지도에 표시했다. 이 지도는 이달 중 서울시와 인천시에 제공돼 질병 관리, 동물찻길사고(로드킬) 예방, 지역 주도형 피해 저감 대책 수립 등 지역 맞춤형 야생동물 관리 등에 활용될 예정이다.&lt;br&gt;&lt;br&gt;서울시소방재난본부에 따르면, 2022년부터 2024년까지 야생동물의 서울 도심 출몰 신고 건수는 멧돼지가 1479건, 너구리가 2656건이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여에스더 “우울증에 자발적 안락사까지 고민”</title>
+      <link>https://www.chosun.com/national/people/2026/02/26/ELDPGPNJNNBVVKNAOYKMXCKMZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/26/ELDPGPNJNNBVVKNAOYKMXCKMZ4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 05:05:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5YHEX46HVDZVBJDCRIBMKKLHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;의사 출신 방송인 여예스더./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 출신 방송인 여에스더(60)가 난치성 우울증으로 인해 자발적 안락사를 고민해 왔다고 고백했다. &lt;br&gt;&lt;br&gt;26일 공개된 디즈니+ 예능 ‘운명전쟁49’에 출연한 여에스더는 운명술사 이소빈에게 상담을 받으며 그간의 심경을 털어놓았다.&lt;br&gt;&lt;br&gt;이날 방송에서 여에스더는 먼저 세상을 떠난 동생 이야기를 꺼내며 “동생이 죽은 뒤 개인적으로 많이 힘들었다”며 “못 지켰다는 생각이 많이 든다”며 눈물을 보였다. 동생의 죽음 이후 우울증이 악화됐다는 여에스더는 “치료가 잘되지 않아 입원해 전기 자극 치료도 여러 차례 받았다”며 “기억이 사라질 수도 있는 상태로 오래 살고 싶지 않다는 생각이 들었다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “가족들에게는 굉장한 미안한 이야기지만, 매일 죽을 날짜를 정해놓고 있었다”며 “11월 18일로 정했다가, 가족 생일과 겹치지 않는 날짜를 고민했다. 크리스마스에 세상을 떠나면 가족이 매년 힘들지 않겠느냐고 생각했다”고 말했다. 이어 “방송이 나가기 전에 그러면 안 될 것 같아 날짜를 내년으로 미뤘다”고 덧붙였다. 영상 자막에는 ‘2025년(61세), 난치성 우울증으로 인해 외국에서 자발적 안락사를 고민 중’이라는 설명이 삽입됐다.&lt;br&gt;&lt;br&gt;그는 신변 정리의 일환으로 주변인들을 위한 준비도 마쳤다고 전했다. 창립 초기부터 함께한 직원에게 서울 청담동 집을 선물했으며, 가사도우미를 위한 아파트 매입도 계획 중인 것으로 알려졌다. 방송 말미 여에스더는 “이제 날짜를 정하지 않겠다. 버텨보겠다”며 눈물을 닦았다.&lt;br&gt;&lt;br&gt;앞서 남편 홍혜걸은 여에스더가 심각한 우울증을 겪고 있다고 밝힌 바 있다. 홍혜걸은 소셜미디어(SNS)와 유튜브 채널 등을 통해 아내가 일상의 즐거움을 느끼지 못하는 ‘무쾌감증(Anhedonia)’을 겪고 있다고 설명하며, “간단한 메시지 답장조차 힘겨운 의무가 된다”고 전했다. &lt;br&gt;&lt;br&gt;여에스더는 지난해 9월 자신의 유튜브 채널에서 우울증 치료 부작용으로 체중이 52㎏까지 줄어든 사실을 공개하기도 했다. 당시 그는 “우울증 약을 하나 추가했는데 부작용으로 식욕이 떨어졌다”며 “기운이 없는 게 단점이지만, 옷이 맞는 건 장점”이라며 농담 섞인 반응을 보이기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘K병원’ 16곳, 뉴스위크 ‘병원 평가’ 세계 250위 안에…삼성서울은 26위</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/02/26/GET2GNFFNZECVEWK5QWP4TXN2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/26/GET2GNFFNZECVEWK5QWP4TXN2Y/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 05:00:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RWMYJYHFSTONJTGQ4DMM3CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성서울병원 전경. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 시사 주간지인 뉴스위크가 발표한 올해 글로벌 병원 평가에서 국내 병원 16곳이 상위 250위 안에 들었다. 삼성서울병원이 26위로 국내 병원 중 1위를 차지했다.&lt;br&gt;&lt;br&gt;뉴스위크는 25일(현지 시각) 이 같은 내용의 ‘월드 베스트 병원(World’s Best Hospitals) 2026’을 공개했다. 뉴스위크는 2019년부터 해마다 전 세계 주요 병원을 평가해 상위 250곳의 순위를 발표한다. 뉴스위크의 병원 순위는 의료성과 지표(40%), 의료분야 전문가 추천(35%), 환자 만족도(18.5%), 환자 자기평가도구 실행 여부(6.5%) 등 4개 항목을 평가해 결정한다.&lt;br&gt;&lt;br&gt;삼성서울병원은 지난해보다 4계단 오른 26위에 자리했다. 2023년 40위, 2024년 34위, 지난해 30위 등 순위가 꾸준히 오르고 있다. 올해는 국내 병원 중 1위였는데, 삼성서울병원이 국내 병원 중 첫 손에 꼽힌 것은 이번이 처음이다. 박승우 삼성서울병원장은 “중증 질환 중심의 미래 의학 추진 성과가 세계 각국 의료 전문가들에게 인정받았다”고 했다.&lt;br&gt;&lt;br&gt;국내 병원들은 16곳이 상위 250위 안에 들었다. 서울아산병원이 28위, 세브란스병원이 39위, 서울대병원이 41위로 50위 안에 안착했다. 분당서울대병원(54위), 강남세브란스병원(77위), 아주대병원(94위)이 100위 이내에 진입했다. 서울성모병원(108위), 인하대병원(122위), 고대안암병원(155위) 등도 순위권에 들었다.&lt;br&gt;&lt;br&gt;올해 세계 최고 병원으로는 미국 메이요클리닉이 뽑혔다. 이어 캐나다 토론토종합병원, 미국 클리블랜드클리닉, 스웨덴 카롤린스카 대학병원, 미국 매사추세츠 종합병원 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취 운전하다 중앙분리대 ‘쾅’… 운전자는 ‘현직 경찰’</title>
+      <link>https://www.chosun.com/national/regional/2026/02/26/ZIAF7X3N4FHX7DMVQPJHES6H2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/26/ZIAF7X3N4FHX7DMVQPJHES6H2U/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 05:01:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZTGNDEMZTDQZBXGRSGGYRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 지역 현직 경찰이 만취 상태로 운전하다 중앙분리대를 들이받는 사고를 냈다.&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면 이날 오전 0시 15분쯤 강원 춘천시 동면 장학리 한 도로에서 A씨가 술에 취한 상태로 운전하다 중앙분리대를 들이받는 사고를 냈다.&lt;br&gt;&lt;br&gt;현직 경찰인 A씨는 지인과 술을 마시고 귀가하던 중 사고를 냈다. 사고 당시 A씨의 혈중알코올농도는 면허 정지 수준인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 직위 해제하고 조사 결과에 따라 징계 수위를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헤어진 연인 찾아가 칼 부림 20대 ‘긴급체포’ </title>
+      <link>https://www.chosun.com/national/2026/02/26/UIVIDKLB3BCGVH5JROE2ZXJGXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/26/UIVIDKLB3BCGVH5JROE2ZXJGXM/</guid>
+      <dc:creator>진주=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 04:52:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTGGMZXGI3WKNBWGA2GEMBQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헤어진 여자친구를 찾아가 때리고, 함께 있던 지인들을 흉기로 찌른 20대가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;진주경찰서는 20대 A 씨를 특수상해 혐의로 긴급체포해 조사 중이라고 26일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오전 4시 37분쯤 진주시 봉곡동에 있는 전 여자친구 B 씨 원룸을 찾았다.&lt;br&gt;&lt;br&gt;B씨는 “배달 왔다”는 말에 문을 열어줬고, A씨는 집 안으로 들어가 B씨와 말다툼을 벌였고 B씨를 때렸다. &lt;br&gt;&lt;br&gt;A씨는 또 현장에 있던 B씨의 지인 남녀 2명을 집 안에 있는 흉기로 찔렀다. &lt;br&gt;&lt;br&gt;다친 두 사람은 인근 병원으로 이송됐다. 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;범행 직후 A씨는 택시를 타고 도주했다. 신고를 받고 출동한 경찰은 인근 감시카메라(CCTV)를 추적해 오전 8시쯤 청주시 소재 한 고속도로에서 긴급 체포했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 앞서 B씨를 때린 혐의로 고발돼 경찰 조사를 받고 있는 것으로 확인됐다. 경찰은 교제 폭력 우려로 B씨에게 스마트워치 지급 등의 조치를 했었다고 한다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 범행 동기 등을 파악 중”이라며 “우선 특수상해 혐의로 조사하고 있으며, A씨에 대한 구속영장을 신청할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법 “골프 코스에도 저작권성 있다” 골프존 사건 파기환송</title>
       <link>https://www.chosun.com/national/court_law/2026/02/26/TDGCNNZ3JFGITHJMAMLHM3CAWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/26/TDGCNNZ3JFGITHJMAMLHM3CAWQ/</guid>
@@ -855,37 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSGGZJWMVRTQMDGGBTDMZRRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 경기 광주시가 배달 음식점 위생 점검을 하고 있다. /광주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“음식 배달 기사로 물회를 픽업하러 매장에 갔는데 주방 안에서 담배 냄새가 났다. 식재료가 쌓여 있는 곳 바로 옆에 담배 꽁초가 담긴 종이컵이 있었다. 불시 위생 점검을 해달라.”&lt;br&gt;&lt;br&gt;“배달 음식을 먹고 보니 마늘과 고추에 곰팡이가 피어 있었다. 음식점에 연락했는데 환불만 해주고 말겠다며 성의 없이 답변했다.”&lt;br&gt;&lt;br&gt;국민권익위원회는 이렇게 배달 음식과 관련한 민원이 최근 4년(2022년 2월~2026년 1월) 동안 정부 각 기관에 9046건 접수됐다고 25일 밝혔다. 권익위에 따르면 배달 음식 관련 민원은 지속적으로 늘고 있다. 2023년 한 달 평균 189건 접수됐던 민원이 2024년 219건, 지난해 354건으로 2년 새 87.3% 늘었다.&lt;br&gt;&lt;br&gt;배달된 음식의 위생 상태가 불량하다는 불만이 많았다. 한 민원인은 2024년 4월 짬뽕 음식점이 배달한 음식을 비닐에서 꺼내 식탁에 올려놓는 순간 바퀴벌레 네 마리가 나와 흩어졌다고 했다. 이 민원인은 “두 마리는 잡았지만, 다른 두 마리는 잡지 못해 집을 방역해야 한다”며 “그동안 벌레 하나 없게 관리한 집에 바퀴벌레가 생길 것 같아 매우 화가 나고 불안하다”고 했다. 2024년 말 민원을 제기한 다른 사람은 “배달 음식에서 철 수세미가 나왔는데 사장의 대처가 큰일 아닌 듯 너무 간단하다”며 “요즘 배달을 시켜 먹는 사람이 많은데 너무 위생 관념이 없는 것 같다. 배달 음식점도 (정부가) 철저하게 관리해 달라”고 했다.&lt;br&gt;&lt;br&gt;배달 음식점이 유통 기한이 지난 식품을 사용하는 것 같다는 신고도 있었다. 2023년 10월 한 민원인은 “한 음식점에서 상한 음식을 두 번 받아서 민원을 낸다”며 “음식 용기를 열자마자 떡갈비에서 악취가 심하게 났고, 한입 먹어보니 완전히 상해 있었다”고 했다. 2023년 3월에 민원을 낸 사람은 “배달받은 콘샐러드가 유통 기한이 지났다”고 주장하면서 “매장 내 제품 관리 소홀 여부를 확인해 조치해 달라”고 했다.&lt;br&gt;&lt;br&gt;배달 음식 포장 용기에 관한 불만도 다수 나왔다. 지난해 1월 한 민원인은 “배달 음식을 먹다가 이상한 냄새가 나서 보니 포장 용기가 녹아 있었다”며 “플라스틱이 섞인 음식을 먹었는데, 식당은 포장 시에 온도를 확인했기 때문에 문제가 없다고 주장한다. (식당 측을) 점검해 달라”고 했다. 2024년 12월 한 민원인은 “배달 음식을 시켜 받아보니 일회용기에 뜨거운 음식을 담아 아래쪽이 다 찌그러져 있었다”며 “환경 호르몬에 범벅이 된 음식을 아이가 먹었다”고 주장했다. 이 민원인은 “(문제의 업체는) 식약처 위생 인증 업체라고 나오는데, 적합한 용기가 무엇인지도 모르는 곳 같다”며 “단속을 부탁한다”고 했다.&lt;br&gt;&lt;br&gt;배달 음식 앱에 표시된 음식 사진과 전혀 다른 음식이 배달됐다며 허위 광고를 신고한 민원인도 있었다. 2024년 5월 한 민원인은 “광고에 표시되는 사진을 보면 팔보채나 팔보밥이 연상되는데, 실제 배달된 것은 해물 짜장면 같은 음식이었다”며 “허위·과장 광고로, 식품표시광고법을 위반한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;식재료 원산지를 속인 것 같다는 신고도 접수됐다. 2023년 9월 한 민원인은 특정 돼지김치찜 전문 식당에 대해 “국내산 김치를 쓴다고 광고하고 있는데, 김치에 쓰는 고춧가루가 중국산”이라며 원산지 표시 위반을 신고했다. 2024년 7월에 민원을 낸 사람은 “배달 앱에서는 닭고기가 모두 국내산이라고 표시돼 있었는데, 배달된 제품을 보니 수입산 저급 닭고기로 의심된다”며 “철저히 조사해 강력히 처벌해 달라”고 했다.&lt;br&gt;&lt;br&gt;배달 음식 관련 민원이 가장 많이 나오는 지역은 경기도로, 전체 민원의 27.1%를 차지했다. 이어서 서울(23.9%), 부산(10.3%), 인천(7.3%) 순이었다. 또 배달 음식 민원인의 71.1%가 남성이었고, 30대(39.3%)와 40대(27.6%)가 전체의 3분의 2를 차지했다. 20대 이하가 19.4%, 50대가 10.5%였다.&lt;br&gt;&lt;br&gt;권익위는 “배달 앱과 배달 대행 이용이 활성화되면서 배달 음식 위생 불만, 부적절한 포장 용기 사용 신고, 원산지 및 메뉴 허위 표시 신고 등 민원이 증가하고 있다”고 봤다. 지난해 3월 공개된 외식업체 경영 실태 조사에 따르면, 국민들의 배달 앱 이용률은 2018년 18.0%에서 2024년 31.7%, 배달 대행 이용률은 2018년 5.4%에서 2024년 24.1%로 늘었다.&lt;br&gt;&lt;br&gt;이에 따라 권익위는 정부 각 기관에 ‘민원 주의보’를 발령하고, 식품위생법령 위반 행위 점검·단속 강화와 신고 활성화 방안을 마련하라고 권고했다. 또 부적절한 포장 용기 사용을 단속하고, 배달 음식 업체들을 대상으로 ‘음식 표준 포장 가이드라인’ 교육을 강화하며, 배달 전문 식당의 원산지 표시 위반을 정기적으로 단속하라고 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>휴무일 시민 생명 구한 신임 경찰 “항상 시민들에게 도움줄 수 있길”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/25/NYVPX3MYJJF5DJC5NM7HCH45H4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/NYVPX3MYJJF5DJC5NM7HCH45H4/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Feb 2026 07:05:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQPCF3YSAEJKEPTY7WI32XFYUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로경찰서 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임용된 지 이제 반년 된 신임 경찰관이 휴무일에 지하철 열차 안에서 의식을 잃고 쓰러진 시민을 구했다.&lt;br&gt;&lt;br&gt;25일 서울 종로경찰서에 따르면, 삼청파출소 소속 황남희 순경은 지난 21일 오후 7시쯤 1호선을 타고 귀가하던 중 열차 안에서 갑자기 쓰러진 남성 A씨에게 응급조치를 시행해 생명을 구했다. 당시 황 순경은 동묘앞역에 막 하차하던 참이었지만, 뒤에서 ‘쿵’ 하는 소리와 함께 A씨가 일자로 쓰러지는 걸 보고 즉시 열차에 다시 뛰어 들어가 A씨의 상태를 확인했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 토사물이 기도를 막아 의식과 호흡이 없었다. 턱관절이 굳어 입을 벌리기도 어려웠다. 주변 시민들은 갑작스러운 상황에 놀라 살짝 물러선 상황이었다. 황 순경은 침착하게 가까이 있는 시민에게 119 신고를 요청하고 곧이어 A씨에게 심폐소생술(CPR)을 실시했다. 이 과정에서 토사물이 입 밖으로 나왔고, A씨는 의식을 되찾았다. 황 순경은 이후 출동한 119 구급대원에게 A씨를 인계했다.&lt;br&gt;&lt;br&gt;황 순경은 올해 33살로, 다른 경찰 동기들보다는 조금 늦게 임용됐다. 대학 졸업 후 4년 넘게 경찰공무원 시험을 준비했다고 한다. 그는 이날 본지와 통화에서 “오랜 수험 기간 끝에 들어온 만큼 경찰이라는 직업에 대한 애정이 크다”며 “앞으로도 근무 중이든 아니든 항상 시민들에게 도움을 줄 수 있는 경찰이 되겠다”고 했다. 또 “평소 선배들이 잘 가르쳐줘 당황하지 않고 빠르게 행동으로 옮길 수 있었던 거 같다”며 파출소 동료들에 대한 감사도 잊지 않았다.&lt;br&gt;&lt;br&gt;한편 A씨와 A씨의 가족은 지난 23일 삼청파출소를 찾아 감사 인사를 전한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>캄보디아 최대 범죄 구역 ‘망고단지’에 한국인 끌어들인 모집책 징역 7년</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/25/6IBHIJECQJAXFOBCSNBP3DDXWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/6IBHIJECQJAXFOBCSNBP3DDXWQ/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Feb 2026 06:47:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLP4L5X7QZEL3LZG3UNVDKMMIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 프놈펜에 위치한 망고단지의 모습. /박성원 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 내 최대 범죄 구역으로 불리는 ‘망고단지’에서 한국인들을 투자 사기 조직으로 끌어들인 모집책이 징역 7년을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사9단독 고소영 판사는 25일 범죄단체가입·활동, 사기 등 혐의로 기소된 김모(40)씨에게 징역 7년과 추징금 20만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건은 불특정 다수를 대상으로 한 조직적이고 계획적인 범행으로 사회적 폐해를 고려하면 엄한 처벌이 불가피하다”고 했다. 다만 “피고인이 자백하고 있고, 범행으로 실제 취득한 금액이 피해 금액에 비해 많지 않은 점 등을 고려했다”고 설명했다.&lt;br&gt;&lt;br&gt;캄보디아 수도 프놈펜에 위치한 망고단지는 중국계 범죄 조직이 한국·베트남·인도네시아 등에서 온 조직원 2000여 명을 동원해 전 세계를 상대로 보이스피싱 범죄를 벌이는 캄보디아 내 최대 범죄 구역이다.&lt;br&gt;&lt;br&gt;김씨는 2024년 1월 망고단지의 범죄 단체에 가입한 뒤 그곳에서 조직원들을 모으는 모집책으로 활동한 혐의로 재판에 넘겨졌다. 그는 한국에 있는 지인들을 투자사기 조직의 영업팀원으로 끌어들인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들이 활동하던 투자사기 조직은 투자 전문가를 사칭해 “주식으로 고수익을 내주겠다”며 피해자들에게 접근, 2024년 수개월간 약 60명으로부터 80억원 상당을 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>남편 불륜 현장 덮쳐 상대 폭행, 사진 유포 협박한 아내 징역 1년</title>
-      <link>https://www.chosun.com/national/regional/2026/02/25/DTHSEEULM5EBLFE54U6KMJ5IHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/25/DTHSEEULM5EBLFE54U6KMJ5IHI/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Feb 2026 06:44:19 +0000</pubDate>
-      <content:encoded>남편의 불륜 상대인 여성을 폭행해 다치게 하고 나체 사진을 찍어 유포하겠다고 협박한 아내에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사12부(재판장 박정홍)는 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의 등으로 재판에 넘겨진 40대 A씨에게 징역 1년을 선고하고 성폭력 치료 프로그램 40시간 이수를 명령했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 10월 남편의 불륜 현장을 찾아가 상대 여성 B씨를 폭행해 다치게 하고, 나체 사진을 찍어 유포하겠다고 협박한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 남편이 여성과 모텔로 들어가는 것을 봤다는 이야기를 듣고, 화가 난 상태에서 해당 숙박업소로 가 나체 상태인 B씨를 발로 차는 등 20분가량 폭행했다.&lt;br&gt;&lt;br&gt;B씨는 갈비뼈 골절 등 전치 4주 상처를 입었다.&lt;br&gt;&lt;br&gt;A씨는 옷을 입으려는 B씨의 모습을 휴대전화로 촬영하고 “유포하겠다”며 겁을 줬다.&lt;br&gt;&lt;br&gt;이후 A씨는 B씨의 직장 관계자에게 연락해 “지금 나체 사진을 인쇄소에 맡겼다. 이 지역에서 살 수 없게 만들 것이라고 전해달라”며 B씨를 협박했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 B씨를 폭행·협박하고 직장에도 연락해 죄질이 좋지 않다”며 “피해 보상을 위한 아무런 노력도 하고 있지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 실형을 선고했으나, 범행 경위에 참작할 사정이 있고 도주 우려가 없다며 합의할 기회를 주기 위해 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GI3DGOLFME2TONJQGU4DSZTGGI.jpg?auth=bdcf2b4821c3fa86e18b1ad545beb5820f95a1a967735fe50a2ddf59217971ae&amp;smart=true&amp;width=6120&amp;height=3573" type="image/jpeg" height="3573" width="6120">
-        <media:description type="plain">울산지방법원 모습. ⓒ 뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘尹 파면 감사 전광판’ 치킨집 업주 “법 어긴 건 맞지만 철거 안할 것”</title>
       <link>https://www.chosun.com/national/national_general/2026/02/25/C3HSWMRCBJGTBIZ75OCHIHHGIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/C3HSWMRCBJGTBIZ75OCHIHHGIU/</guid>
@@ -893,24 +925,6 @@
       <description/>
       <pubDate>Wed, 25 Feb 2026 06:20:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FL4NL4PTZBETHXIZ3DJ4DWS3YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 인천 한 치킨집 업주가 가게 전광판에 윤석열 전 대통령 파면과 이재명 대통령 당선 축하 메시지를 내걸었던 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 파면 이후 전광판에 ‘감사하다’라는 글을 노출해 화제가 된 인천 남동구의 한 치킨집 업주가 “계엄을 막은 분들을 뒤에서나마 응원했던 것”이라며 직접 입장을 밝혔다.&lt;br&gt;&lt;br&gt;다만 전광판이 불법으로 설치된 것으로 확인되면서 업주는 최근 ‘옥외광고물 조례 위반’으로 이행강제금을 부과받았다. 이와 관련, 업주는 “제가 법을 어긴 건 맞으니까 이행강제금을 계속 부담할 예정”이라면서도 “철거할 계획은 없다”고 했다.&lt;br&gt;&lt;br&gt;치킨집 업주 A씨는 25일 MBC ‘김종배의 시선집중’과의 인터뷰에서 “전광판은 제가 2010년부터 해 왔던 건데, 크기가 커지면서 이슈가 된 것”이라며 “처음부터 허가를 내려고 했는데 낼 수 없는 걸 알고 있어서, 언젠가는 이런 날이 올 거라 생각하고는 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “처음에 높이 50㎝에 길이 5m쯤으로 했을 때는 별로 문제가 안 됐다. 노무현 대통령 서거 날, 4·19 이런 걸 올렸었는데 별로 관심이 없다가, 간판 작업을 할 일이 생겨 전광판을 크게 새로 만들었더니 잘 보이게 돼서 관심을 받게 된 것 같다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 작년 4월 4일 헌법재판소가 윤 전 대통령에 대한 파면을 선고한 직후 1층 입구 전광판에 “‘피청구인 윤석열을 파면한다’ 국민 여러분 감사합니다”라는 글을 노출했다. 이후 이 사진이 온라인에 퍼지면서 화제가 됐고, 이후 남동구에는 이 치킨집에 대한 여러 민원 신고가 잇따라 접수된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 이 같은 문구를 내건 배경에 대해 “11월 2일 치킨집을 오픈했는데, 한 달 뒤인 12월 3일 계엄이 터졌다”며 “우리 세대는 계엄령이 어떤 거라는 걸 많이 보고 들어서 알지 않느냐. 마지막 장사라고 생각하고 있는 돈 다 긁어서 치킨집을 오픈했는데, 그 기사를 유튜브로 보고 있는데 앞이 캄캄했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “만약 계엄령이 성공했으면 통행금지가 따라올 테고, 그러면 장사는 거의 접어야 하는데 그렇다고 건물주가 월세를 안 받는 것도 아니지 않느냐”며 “직원들을 내보내는 일이 생길 것 같고, 대출받은 돈이 있으니까 빚을 갚아야 하고 하니까 앞이 캄캄했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “다행히 많은 분이 국회로 달려가고, 국회의원들이 담을 넘어 국회의사당으로 진입했다. 저는 갈 수가 없었지만, 그래도 혹시 이걸 보고 힘을 내시는 분도 있을까, 뒤에서 응원해 드리고 싶어서 전광판에 문구를 띄우게 됐다”고 했다.&lt;br&gt;&lt;br&gt;다만 A씨가 설치한 전광판은 인천시 옥외광고물 관련 조례를 위반한 것으로 파악됐다. 연면적 5000㎡ 이상 건물의 1층 출입구 벽면에는 정지 화면(4㎡ 이하)으로만 표시해야 하지만, A씨는 이런 규정을 위반한 것으로 나타났다. 이에 따라 인천시는 최근 A씨에게 불법 LED 전광판 설치에 따른 이행강제금 80만원을 부과한다는 내용의 사전 통지를 했다. 이에 따라 A씨가 다음 달 6일까지 불법 전광판을 정비하지 않으면 예정대로 이행강제금이 부과된다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 “법을 어긴 건 맞으니까 이행강제금을 부담할 것”이라면서도 “철거할 계획은 없다”고 했다. ‘80만원을 계속 부담하겠다는 거냐’는 진행자 질문에 A씨는 “아마 그렇게 될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“가난 때문에 공부 포기 없길” 91세 국가유공자, 5000만원 기부 후 별세</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/25/BX45P42FQVEFJFYJGIO3VOGUXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/BX45P42FQVEFJFYJGIO3VOGUXA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Feb 2026 06:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZJD76GXDRAGNLXAQRWGFUKFL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이공휘 어르신이 기부하는 모습./해운대구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월남전에 참전했던 90대 국가유공자가 어린이들을 위한 장학금 5000만원을 기부한 뒤 별세한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;25일 부산 해운대구에 따르면 월남전 참전 국가유공자 이공휘(91) 어르신은 지난달 23일 해운대구청을 직접 찾아 장학금 5000만원을 전달했다. 어르신은 기부 일주일 뒤인 이달 1일 세상을 떠났다. 간암으로 두 달 넘게 병상에 누워 투병 생활을 하던 중 기부를 결심한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;고인은 6·25전쟁 발발로 학업을 중단한 뒤 직업군인의 길을 택했다. 1970년 월남전이 격화되던 시기에는 맹호부대 소속으로 참전했다. 무사히 귀국했지만 이후 고엽제 후유증으로 40대 초반부터 오랜 기간 병마와 싸워야 했다. 그럼에도 가족의 생계를 책임지며 자녀들을 키워냈다고 한다.&lt;br&gt;&lt;br&gt;평소 근검절약을 몸소 실천해 온 고인은 “가난으로 공부를 포기하는 일이 없도록 어려운 형편의 학생들을 돕고 싶다”는 뜻을 수십 년간 주변에 밝혀왔다. 이를 위해 장기간 장학금을 모아온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해운대구 관계자는 “고인께서 기부 당일 직접 구청을 찾아 장학금을 전달했는데, 가족들에 따르면 오랜만에 밝은 표정에 생기 어린 모습이었고 ‘평생 소망을 이뤄 행복하다’고 말했다고 한다”고 전했다.&lt;br&gt;&lt;br&gt;해운대구는 고인의 뜻을 이어받아 장학금 5000만원을 지역 청소년 100명에게 전달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화재 무방비에 이중주차... 30억대 강남 아파트 현주소</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/25/COD7YUXCMZCJBBKH3ZQBFSIAYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/COD7YUXCMZCJBBKH3ZQBFSIAYE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Feb 2026 05:20:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76VISLXXIFBR5ANIIA6UK5UEAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;화재 발생 당시 은마아파트 주차장 모습. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 대치동 은마아파트에서 불이 났을 당시 소방차와 구급차들이 이중 주차된 차량들로 인해 진입에 어려움을 겪은 것으로 나타났다.&lt;br&gt;&lt;br&gt;지난 24일 오전 6시 20분 은마아파트 8층에서 불이 났을 당시 주차장 영상을 보면, 소방차 여러 대와 구급차들이 이중 주차된 차량이 다수 있는 주차장 사이에 세워져 있다. 한 주민은 JTBC에 “저희는 바로 차를 뺐는데, 다른 분들은 연락이 안 돼 차를 못 빼는 상황이라 직접 차를 밀어 주기도 했다”고 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;이날 화재로 8층에 살던 A(16) 양이 숨지고, 같은 집에 있던 40대 어머니와 다른 10대 여동생이 다쳐 병원으로 이송됐다. 위층 주민인 50대 여성도 연기 흡입 등 부상을 입었다.&lt;br&gt;&lt;br&gt;소방차는 신고 6분 만에 도착했으나, 이중 주차한 차량들 탓에 아파트 진입에 어려움을 겪은 것으로 알려졌다. 사건 당일 오후에도 협소한 주차 공간으로 지상 주차장에 이중·삼중 주차하는 차들이 일부 포착됐다.&lt;br&gt;&lt;br&gt;노후 아파트의 부실한 소방 시설이 피해를 키웠다는 분석도 나온다. 1979년 준공된 은마아파트에는 스프링클러가 설치돼 있지 않았다. 1992년 소방법상 스프링클러 설비 관련 조항이 의무화되기 전에 착공된 아파트 대부분은 화재 안전 사각지대라는 지적을 받는다. 서울소방재난본부에 따르면 최근 5년 동안 주택 화재 1만602건에서 발생한 사망자 116명 모두 스프링클러가 설치되지 않은 주택에서 나왔다.&lt;br&gt;&lt;br&gt;경찰은 소방 당국과 합동 감식을 벌이는 한편, 유족들을 상대로 정확한 화재 원인과 당시 상황 등을 조사하고 있다. 현재까지 방화 등 범죄 혐의점은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“짬뽕서 바퀴벌레 4마리 튀어나와” “주방에 꽁초가 가득”…배달 음식점 위생 어떻길래</title>
@@ -932,15 +946,6 @@
     &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임기를 4개월 앞두고 퇴임하는 이학재 인천국제공항공사 사장이 25일 “국토교통부가 ‘대통령실(청와대)이 불편해한다’며 지난해 11월부터 사퇴 압력을 가했다”고 밝혔다. 그는 “6·3 지방선거에도 출마하지 않겠다”고 밝혔다. 공직선거법상 선거 출마를 위해선 3월 5일까지 사퇴해야 하는데, 그의 사퇴가 선거와 관계됐다는 해석이 나오자 선을 그은 것이다.&lt;br&gt;&lt;br&gt;이 사장은 이날 인천공항공사에서 기자 간담회를 열어 “사퇴 압력 강도가 점점 심해지고 직원들의 실제 피해로도 이어졌다”며 이같이 밝혔다. 윤석열 정부에서 임명한 3선 의원 출신인 이 사장은 26일 퇴임식을 열고 물러날 예정이다.&lt;br&gt;&lt;br&gt;그는 이날 1시간 가량 진행된 기자 간담회에서 ‘대통령실’과 ‘국토부’를 언급하며 “인사 개입과 표적 감사가 있었다”고 주장했다. 이 사장은 “올해 1월1일 시행 예정이었던 정기 인사를 하지 말라는 압력이 지난해 11월부터 있었다”며 “인천공항공사 사장의 고유 권한이며 경영권 행사에 가장 중요한 수단을 방해했다”고 했다. 그는 “국토부가 20차례에 걸쳐 ‘대통령실이 불편해 한다’ ‘그립감이 세다’ ‘건별로 승인을 받아라’ 등의 압력을 지속했다”며 “일개 국토부 담당자가 대통령실을 팔아서 이런 범죄 행위를 저지르진 않았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 사장은 강훈식 비서실장을 거론하면서 표적 감사 의혹도 제기했다. 지난해 인천공항은 주차 대행 서비스 개편을 추진했는데, 강 실장은 지난해 12월 이를 거론하며 국토부에 “국민 눈높이에 미흡한 점은 없었는지 철저히 점검해 보고하라”고 지시했다. 국토부는 이후 인천공항에 대한 대대적 감사에 돌입했다. 이 사장은 “대통령 비서인 비서실장이 특정 감사를 지시하는 건 직권남용”이라고 했다.&lt;br&gt;&lt;br&gt;이 사장은 지난해 말 있었던 국토부 업무보고에서 이재명 대통령과 공항 보안 검색 과정을 두고 언쟁을 벌였다. 당시 이 대통령은 “100달러짜리를 책갈피처럼 끼워나가면 (공항 검색에) 안 걸린다는 게 사실이냐”고 지적했다. 이 사장은 이에 대해 “검색 요원 외에는 누구도 알 수 없는 질문이었다”며 “이런 걸 공개 질타하는 건 지지자들은 즐거워할 지 몰라도 모욕주기 였다. 예능 프로 같았다”고 했다. 그는 그러면서 “직원들을 더 괴롭힐지 모른다는 판단에 사퇴 하는 것”이라며 “인사 개입 의혹 등에 대해 국회 차원의 조사가 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>두쫀쿠 열풍에 디저트 가게 위생 점검해 보니… 60곳 적발, 식중독균까지</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/25/OQNC2ZP3KBEVFFSY5PSL357O7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/OQNC2ZP3KBEVFFSY5PSL357O7I/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Feb 2026 01:56:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3GCZTCGRQWKNJWGMYGINJWME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두쫀쿠에 이물질이 혼입된 모습. /식약처 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;디저트류를 조리해 배달·판매하는 음식점 2947곳 가운데 60곳이 식품위생법을 위반한 것으로 나타났다. 최근 선풍적인 인기를 끈 두바이 쫀득 쿠키(두쫀쿠)를 판매하는 한 업체에서는 식중독 원인균인 황색포도상구균이 기준치를 초과해 검출되기도 했다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 25일 디저트류를 조리해 배달·판매하는 음식점과 아이스크림 무인 판매점 등 총 4180곳을 대상으로 2월 2일부터 6일까지 17개 지방자치단체와 함께 집중 점검한 결과 식품위생법을 위반한 81곳을 적발했다고 밝혔다.&lt;br&gt;&lt;br&gt;구체적으로 두쫀쿠 등 디저트류를 배달·판매하는 음식점에서는 2947곳 가운데 60곳이 적발됐다. 이들 업체의 주요 위반 사항은 ▲위생모·마스크 미착용 등 위생적 취급 기준 위반(12곳) ▲소비기한 경과 제품 보관·판매 등 영업자 준수 사항 위반(10곳) ▲폐기물 용기 뚜껑 미설치 등 시설 기준 위반(14곳) ▲건강진단 미실시(20곳) ▲기준·규격 위반(2곳) 등이다.&lt;br&gt;&lt;br&gt;점검과 함께 조리 식품 총 128건을 수거해 식중독균 등을 검사한 결과, 두바이 쫀득 쿠키 1건에서 황색포도상구균이 기준치를 초과해 검출되기도 했다. 황색포도상구균은 식중독을 일으키는 주요 원인균 중 하나로, 씻지 않은 맨손으로 만든 음식을 실온에 방치하거나 오염된 조리기구를 사용할 때 주로 감염된다. 식약처는 황색포도상구균이 기준치를 초과해 검출된 해당 음식점에 대해 행정처분할 예정이다.&lt;br&gt;&lt;br&gt;이 밖에도 아이스크림 무인 판매점은 총 1233곳 가운데 21곳이 소비기한 경과 제품 보관·판매 등 위생적 취급 기준을 위반한 것으로 나타났다. 적발된 업체에 대해서는 관할 지자체가 행정처분 등을 한 뒤 6개월 이내에 개선 여부를 확인할 계획이다.&lt;br&gt;&lt;br&gt;식약처는 “소비 경향을 고려해 점검 대상을 다양한 품목으로 지속 확대하고 있다”며 “국민이 많이 소비하는 배달 음식과 무인 식품 판매점에 대한 안전관리를 강화하고, 위생 사각지대가 없는 안전한 먹거리 환경 조성에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>식당 주차장에 놓여진 수상한 봉투… 보이스피싱 수거책 검거</title>
       <link>https://www.chosun.com/national/national_general/2026/02/25/SD5MIKVJPFHRFBCLADRNY2ZFHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/25/SD5MIKVJPFHRFBCLADRNY2ZFHE/</guid>
@@ -948,16 +953,6 @@
       <description/>
       <pubDate>Wed, 25 Feb 2026 01:16:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOJEIJD6NFKZ7YNS3V6AZ4IJ6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양주경찰서 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주에서 식당 주인의 눈썰미로 보이스피싱 수거책이 검거됐다. &lt;br&gt;&lt;br&gt;양주경찰서는 통신사기피해환급법 위반 혐의로 A씨를 검거해 송치할 예정이라고 25일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 80대 여성 B씨는 작년 12월 30일 오후 5시쯤 양주시 유양동 한 식당 주차장에 있는 에어컨 실외기 밑에 검은색 봉투를 두고 갔다. 이를 CCTV로 본 식당 주인 황모씨는 해당 봉투를 열어봤고 1430만원이 있는 것을 발견해 경찰에 신고했다. &lt;br&gt;&lt;br&gt;그러던 중 택시를 타고 A씨가 식당 주차장으로 왔고, 현금을 수거하기 위해 주변을 서성였다. 황씨는 단골손님 등에게 협조를 요청해 A씨를 붙잡았다. 이후 식당에 도착한 경찰은 A씨를 현행범 체포했다. &lt;br&gt;&lt;br&gt;B씨는 동사무소 직원과 경찰을 사칭하는 보이스피싱 수법에 속은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;보이스피싱 조직원들은 B씨에게 전화해 동사무소 직원을 사칭하며 “당신 조카가 주민등록증이랑 위임장을 가져왔는데 조카가 맞느냐?”고 물어봤다.&lt;br&gt;&lt;br&gt;B씨가 조카가 없다고 하자 바로 경찰관을 사칭한 조직원이 전화를 해 “개인정보 유출이 의심된다. 수사를 위해 현금이 필요하니 돈을 마련해 지정한 곳에 두라”고 지시했다.&lt;br&gt;&lt;br&gt;경찰은 B씨에게 피해 금액을 반환 조치했고, 범인 검거에 기여한 공로를 인정해 황씨에게 감사장을 수여했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“다른 이에게 새 삶 선물한 부모님… 저도 사회에 도움 될래요”</title>
-      <link>https://www.chosun.com/national/people/2026/02/25/TJHMCBEL6JBDRN3XCG74TY5DZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/25/TJHMCBEL6JBDRN3XCG74TY5DZY/</guid>
-      <dc:creator>장윤 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Feb 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTOJV6OWT5FRZDCWSBGGMNWSX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사랑의장기기증운동본부가 지난 23일 장기 기증자 자녀 21명에게 장학금을 수여했다. 장학금을 받은 21명이 기념 사진을 찍고 있다.
-/김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아버지는 ‘어린이들은 항상 건강하고 희망차게 지내야 한다’고 하셨습니다. 아버지의 뜻을 받들어 소아신경외과 전문의가 되고 싶습니다.”&lt;br&gt;&lt;br&gt;대학생 김지윤(21)씨는 일곱 살이던 14년 전 아버지 고 김태업(당시 40세)씨를 떠나보냈다. 태업씨는 신경성 뇌혈관 질환으로 뇌사 판정을 받았다. 가족들은 생전 고인의 뜻에 따라 5명에게 장기를 기증했다. 김씨는 ‘아버지가 앓던 신경성 질환의 치료법을 공부하고 싶다’는 마음으로 연세대 의예과에 진학했다. &lt;br&gt;&lt;br&gt;사랑의장기기증운동본부는 23일 오전 서울 종로구 생명보험교육문화센터에서 장기 기증인 유가족 자녀 21명에게 장학금 3500만원을 수여했다. 장기기증운동본본부에 따르면 2020~2024년 5년간 뇌사 장기 기증자는 2205명, 이들의 평균 연령은 49.1세로 나타났다. 상당수가 학령기 자녀를 두고 숨진 것이다. &lt;br&gt;&lt;br&gt;이에 따라 장기기증운동본부는 장기 기증 유가족들의 학비 부담을 덜어주기 위해 2020년 ‘도너패밀리’ 장학회를 출범하고 매년 유가족 자녀들에게 장학금을 수여하고 있다. 장학금은 장학회 기금과 외부 후원금 등으로 마련된다. 대학생은 200만원, 고등학생은 100만원, 중학생은 50만원을 각각 받는다.&lt;br&gt;&lt;br&gt;이날 수여식에 참석한 정지산(31)씨는 “아버지가 ‘사람을 살리는 일을 하라’고 하시던 말씀이 기억에 남는다”며 “아버지의 뜻에 따라 간호사가 되기 위해 대학 편입을 결정했다”고 했다. 고등학생 이소진(18)양은 “미술 공부를 중단하고 방황하던 시기에 아버지께서 ‘다시 한번 열심히 해보라’고 격려해주셨던 게 기억난다”며 “미대에 진학해 상품 디자이너가 된 모습을 하늘에 계신 아버지께 보여드리고 싶다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
