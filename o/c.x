@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>HD현대오일뱅크 대산공장서 황화수소 누출…2명 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/02/27/3RFT5II7YRDWXMZE4I2X424DDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/27/3RFT5II7YRDWXMZE4I2X424DDY/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Feb 2026 14:01:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZDGYRSGMYWGZDEMU2DONBSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대오일뱅크 대산공장 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오후 9시 45분쯤 충남 서산시 대산읍 HD현대오일뱅크 대산공장에서 20대 작업자 2명이 황화수소를 들이마셨다는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 이들을 당진과 충북 청주의 병원으로 이송중이다. 다행히 2명 모두 생명에 큰 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;황화수소는 썩은 계란 냄새가 나는 무색 악취가스로, 흡입하면 질식할 수 있는 유독성 가스다.&lt;br&gt;&lt;br&gt;경찰은 작업 도중 설비의 압력 밸브가 일부 열리며 누출된 것으로 보고 공장 관계자들을 대상으로 정확한 사고 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;사고 직후 압력 밸브는 안전조치 돼 추가로 누출되거나 공장 외부로 퍼지지는 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>춘천 드름산 산불, 1시간 40여분 만에 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/02/27/DRXITQMKSNCAPGRQGGFYHQAYVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/27/DRXITQMKSNCAPGRQGGFYHQAYVI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Feb 2026 11:37:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LO7KZTRO5RHIJI4W5Q4MU2K2ZM.png"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 6시 54분쯤 불이 난 강원 춘천시 신동면 팔미리 드름산 일원 팔미사거리 일대 화재 현장. /산림청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오후 6시 55분쯤 강원 춘천시 신동면 팔미리 드름산 모란봉 인근에서 불이 나 1시간 40여분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;산림청은 장비 23대와 인력 89명을 동원해 이날 오후 8시 37분쯤 주불 진화를 마쳤다고 밝혔다.&lt;br&gt;&lt;br&gt;산림 당국은 일몰 이후로 불이 나 헬기는 투입하지 못했다.&lt;br&gt;&lt;br&gt;이날 8시 기준 화재 현장에는 초속 0.6ｍ의 바람이 불었고, 습도는 65%로 확인됐다.&lt;br&gt;&lt;br&gt;산림 당국은 정확한 원인과 피해 규모를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사드 기밀 누설’  文 안보라인, 첫 재판서 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/27/BYGX7PYUSFDOVJJ6R4IC6CK6RQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/27/BYGX7PYUSFDOVJJ6R4IC6CK6RQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Feb 2026 11:46:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYTSODCMMYTEN3FME4DENBYMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정의용 전 국가안보실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 시절 사드(THAAD·고고도 미사일 방어체계) 정식 배치를 지연시키고 한미 군사작전 정보를 외부에 유출한 혐의를 받는 정의용 전 국가안보실장 등이 첫 정식 재판에서 혐의를 부인했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 27일 직권남용권리행사방해 등 혐의로 기소된 정 전 실장, 정경두 전 국방부 장관, 서주석 전 국가안보실 1차장에 대한 첫 공판기일을 열었다. &lt;br&gt;&lt;br&gt;정 전 실장 등은 범민련 남측본부 등 이적단체가 포함된 사드 반대단체에 군사작전 정보를 알려주라고 지시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 검찰은 “정 전 실장은 정 전 장관과 공모해 2020년 5월 29일 국방부 지역협력반장에게 군사 2급 비밀인 전략무기 반입 작전 정보를 사드 반대단체에 알려주라고 지시했다”고 설명했다. 검찰은 유도탄·레이더 교체 등 군사 작전 정보는 2급 비밀에 해당한다며 “이 사건은 국민 생명 등과 직결돼 결코 불법과 타협이 허용될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;피고인 측은 모두 공소사실을 부인했다. 정 전 실장 측은 “사드 배치 작전이 군사기밀이 아니기에 노후 장비 교체 작전 역시 군사 기밀이 될 수 없다”며 “그 누구도 정 전 실장과 정 전 장관이 만나는 걸 본 적도 없다”고 했다. &lt;br&gt;&lt;br&gt;서 전 차장 측은 “비밀 누설이 아니라 박근혜 정부와 달리 주민 협조를 구하고 갈등을 완화하려 정책 기조에 따른 것”이라고 했고, 정 전 장관 측은 “국방부 장관은 군사기밀을 누설할 수 있는 권한이 없다”며 “직권남용이 성립되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 5월부터 당시 국방부 관계자들에 대한 증인신문을 이어갈 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 폭주에… 대법, 오늘 전국 법원장회의 소집</title>
+      <link>https://www.chosun.com/national/court_law/2026/02/25/T2SFBQXEIVE6XNFD2LSP55KNVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/25/T2SFBQXEIVE6XNFD2LSP55KNVU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJ4ME3ZSLZOURLC6GT7BSI5NEQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 24일 오전 서울 서초구 대법원으로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 국회 본회의 강행 처리를 예고한 ‘사법 3법(재판소원 도입·법 왜곡죄 신설·대법관 증원)‘에 대해 전국 법원장이 25일 모여 대응 방안을 논의한다. &lt;br&gt;&lt;br&gt;대법원은 25일 오후 2시 서울 서초구 대법원 청사에서 전국 법원장회의 임시회의를 연다고 24일 밝혔다. 회의 안건은 ‘4심제’ 논란이 있는 재판소원(재판에 대한 헌법소원)과 ‘판·검사 처벌법’으로 불리는 법 왜곡죄, 대법관을 14명에서 26명으로 늘리는 대법관 증원 법안 등이다.&lt;br&gt;&lt;br&gt;법원장회의는 대법원장을 제외한 전국 법원장과 사법연수원장, 법원도서관장 등 43명이 모이는 회의체다. 매년 12월 정기회의에서 주요 사법행정 현안을 보고하거나 토론하며, 현안이 있을 때 임시회의를 열기도 한다. 이번 임시회의는 민주당이 지난 22일 의원총회를 열고 세 법안을 이달 임시국회 내 법제사법위원회 원안대로 처리하기로 결정하자, 이튿날 박영재 법원행정처장이 긴급 소집했다. &lt;br&gt;&lt;br&gt;법원행정처는 그동안 “사법 3법은 위헌 소지나 부작용의 우려가 커서 신중한 검토가 필요하다”는 입장을 밝혀왔다. 재판소원과 법 왜곡죄 도입에 대해선 정면으로 반대한다. 박 처장은 23일 국회 법사위 전체회의에 출석해 재판소원에 대해 “헌법에 부합하는지에 관해 논란이 많다”며 “(헌법 개정이 아닌) 헌법재판소법 개정만으로 즉시 시행할 수 없다”고 했다. 법 왜곡죄에 대해선 “헌법상 명확성의 원칙에 어긋나고 악용될 위험 등 위헌적 요소가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;법원장회의에서 민주당의 사법 제도 개편안을 논의하는 것은 이번이 세 번째다. 법원장회의는 작년 9월 임시회의를 열고 대법관 증원 등 민주당의 사법 제도 개편안에 대해 전국 법관들의 의견을 공유한 뒤 “사법 독립은 반드시 보장돼야 하며 제도 개편 논의에 사법부 참여가 필수적”이라는 입장을 냈다. 내란전담재판부 설치 논란이 불거졌던 작년 12월에는 기존 안건을 제쳐놓고 대응 방안을 논의했다. 당시 법원장회의는 “내란전담재판부 설치와 법 왜곡죄 신설 법안은 재판의 중립성을 훼손하고 공정한 재판을 받을 권리를 침해한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>동료 여성 경찰 스토킹 혐의…인천경찰청 경찰관 수사</title>
       <link>https://www.chosun.com/national/regional/2026/02/27/ZWTYKG7B7ZAQ5ETTIBXHNTYC24/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/27/ZWTYKG7B7ZAQ5ETTIBXHNTYC24/</guid>
@@ -838,33 +874,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNF63UMEBBJSXHSX76Z3IADSYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상환 헌법재판소장을 비롯한 헌법재판관들이 26일 서울 종로구 헌법재판소 대심판정에서 열린 2월 심판사건 선고를 위해 착석해 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지상파 방송에 광고를 하려는 광고주에게 지역 민영 방송이나 중소 방송 광고까지 강제로 묶어 판매하는 이른바 ‘광고 결합판매(끼워팔기)’가 헌법에 어긋나지 않는다는 헌법재판소 판단이 나왔다.&lt;br&gt;&lt;br&gt;헌재는 26일 영화 기획·제작사 대표 이모씨가 방송광고판매대행 등에 관한 법률(미디어렙법) 제20조 제1·2항이 계약의 자유와 재산권을 침해한다며 낸 헌법소원 심판 사건에서 재판관 8대1 의견으로 기각 결정을 내렸다고 밝혔다.&lt;br&gt;&lt;br&gt;이 조항은 지상파 방송 광고를 대행하는 광고 판매 대행자(미디어렙)가 주요 지상파 방송의 광고를 판매할 때 지역 민방이나 중소 지상파 방송의 광고를 일정 비율 이상 결합해 판매하도록 규정한다. 지역 방송의 재정 기반을 지원하고 방송의 공공성·다양성을 구현한다는 취지로 도입된 조항이다.&lt;br&gt;&lt;br&gt;청구인 이씨는 자신이 원하는 지상파 방송에 영업 실적 등을 광고하려 했으나, 광고 효과가 상대적으로 떨어지는 지역·중소 방송 광고까지 함께 사야 한다는 답변을 듣고 광고 계약을 포기했다. 이후 “강제적 결합판매가 광고주의 계약 자유와 재산권을 과도하게 침해한다”며 헌법소원을 냈다.&lt;br&gt;&lt;br&gt;헌재 다수의견은 지역·중소방송 재정 지원이라는 ‘공익’의 손을 들어줬다. 헌재는 “상업성이 취약한 지역·중소 방송 사업자를 재정적으로 지원해 방송의 공공성과 다양성을 구현하려는 입법목적은 정당하다”고 밝혔다. 이어 “방송통신발전기금 등 다른 재원만으로는 결합판매를 대체할 만큼의 충분한 지원이 현실적으로 어렵다”며 “광고주로서는 종합편성채널이나 온라인 플랫폼 등 다른 매체를 선택할 수 있어 계약의 자유가 과도하게 제한된다고 보기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;다만 헌재는 “지상파 광고 매출이 지속적으로 감소해 결합판매의 실효성이 과거에 비해 떨어졌다”며 “변화된 광고시장 상황에 맞춰 입법적 개선이 요구된다는 지적은 경청할 필요가 있다”고 했다. 모바일·온라인 중심의 미디어 환경 변화는 인정한 셈이다. &lt;br&gt;&lt;br&gt;반면, 김형두 재판관은 “광고주에게 사실상 조세나 특정 목적 부담금과 유사한 경제적 부담을 지우는 것”이라며 유일하게 위헌 의견을 냈다. 김 재판관은 “유튜브, OTT 등으로 광고 수요가 옮겨가는 상황에서, 결합판매는 광고주에게 특정 목적을 위해 광고전략 포기나 추가 지출을 강요하는 경제적 강제로 작용한다”고 지적했다. 또 “결합판매 제도는 지역 방송사들이 자체 생존하려는 노력을 소홀히 하게 만들어 장기적으로 경쟁력 제고와 자립 기반 확립을 저해할 우려가 크다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>출입국 얼굴 사진 1억7000만건 기업에 넘겨준 정부... 헌재 “이미 개인정보 파기돼” 각하</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/26/NLK4FKN3HFHPNEO3ISBJY2WAPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/26/NLK4FKN3HFHPNEO3ISBJY2WAPQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 06:45:14 +0000</pubDate>
-      <content:encoded>헌법재판소가 26일 정부가 출입국 관리 목적으로 수집한 내·외국인의 얼굴 이미지 등 정보 1억7000만여 건을 인공지능(AI) 개발 민간 기업에 제공한 행위가 위헌이라며 시민단체 등이 청구한 헌법소원을 각하했다. 기업들에 제공된 정보가 이미 파기돼 헌재 심판을 구할 이익이 소멸했다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3WCMDFHBTGEY3GGJSDKMDCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소에서 깃발이 휘날리고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 2019년 4월 법무부와 과학기술정보통신부가 ‘인공지능 식별·추적 시스템 개발사업’을 추진한 게 발단이 됐다. 출입국 심사 단순화 및 공항 내 위험 인물 자동 식별·추적을 통해 범죄를 예방하겠다는 게 사업 목적이었다. 법무부는 2020년 7월 인천국제공항 내 보안·통제구역 안에 기업들이 데이터 관련 작업을 할 수 있는 연구실을 열고, 사업에 참여한 기업들이 데이터 학습을 할 수 있도록 내국인 5760만여 명과 외국인 1억2000만여 명의 얼굴 사진 및 국적·성별·출생연도 정보를 제공했다.&lt;br&gt;&lt;br&gt;이 같은 사실이 2021년 국회 법제사법위원회 국정감사에서 공개되자 “당사자 동의 없는 개인정보 활용”이라는 논란이 불거진 것이다. 참여연대와 민주사회를위한변호사모임(민변) 등은 2022년 7월 “정부가 개인정보자기결정권을 침해한 것”이라고 주장하며 헌법소원을 낸 것이다.&lt;br&gt;&lt;br&gt;그러나 헌재는 이날 재판관 전원일치 의견으로 각하 결정을 내렸다. 헌재는 “문제가 된 사업은 언론 보도와 시민사회의 문제 제기로 사회적 논란이 확산되는 과정에서 중단된 후 2021년 12월 31일자로 종료됐고, 기업들에 제공된 정보도 2022년 3월 2일 파기됐다”며 “권리보호이익이 소멸했다”고 판단했다. 이어 “법무부는 동일하거나 유사한 형태의 사업을 재개할 계획이 없다고 밝히고 있다”며 “장래에도 유사한 행위가 반복될 위험성이 있다고 단정하기 어려워 예외적인 심판 이익이 인정된다고 볼 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;청구인들은 출입국관리공무원들이 출입국심사에서 생체정보를 활용할 수 있도록 한 출입국관리법 조항이 위헌이라는 주장도 펼쳤지만, 헌재는 이 역시 받아들이지 않았다. 공무원들이 반드시 생체정보를 활용하도록 하는 규정이 아니어서, 법조항이 개인정보에 대한 자기결정권을 침해된다고 볼 수 없다는 것이다.&lt;br&gt;&lt;br&gt;헌재는 국회의장이 이 사업과 같은 생체정보의 인공지능 알고리즘 학습 목적 사용을 금지하는 입법을 하지 않은 것은 개인정보자기결정권을 침해한 것이라는 청구인들 주장도 받아들이지 않았다. 헌재는 “위와 같은 규정을 제정할 의무가 헌법에 규정돼 있지 않고, 입법 의무가 도출된다고 보기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경남·전남·부산 “남해안 규제 풀어 제2 경제축 만들자”… 국회서 특별법 포럼 </title>
-      <link>https://www.chosun.com/national/2026/02/26/TUCBAM5POZHF5NI4Q4BHFUA4NY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/02/26/TUCBAM5POZHF5NI4Q4BHFUA4NY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 06:39:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2IAIJZPVNCRLLN5DIVB2MEAWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도는 26일 서울 국회의원회관에서 ‘남해안권 발전 특별법 포럼’을 열고, 남해안을 대한민국 미래 성장의 새로운 축으로 육성하기 위한 특별법 제정을 촉구했다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남해안권을 하나의 경제권으로 묶어 국가 균형 발전의 새로운 모델을 만들기 위해서는 국가 차원의 제도적 지원이 시급하다는 목소리가 커지고 있다. &lt;br&gt;&lt;br&gt;경남도는 26일 서울 국회의원회관에서 ‘남해안권 발전 특별법 포럼’을 열고, 남해안을 대한민국 미래 성장의 새로운 축으로 육성하기 위한 특별법 제정을 촉구했다. &lt;br&gt;&lt;br&gt;이날 자리는 남해안 발전 특별법 공동 대표 발의자인 국민의힘 정점식 의원(경남 통영시·고성군)·더불어민주당 문금주 의원(전남 고흥·보성·장흥·강진군)과 경남·전남·부산 3개 시·도가 공동으로 주최했다. &lt;br&gt;&lt;br&gt;박완수 지사는 환영사에서 “리아스식 해안과 아름다운 섬, 역사·문화를 간직하고 있는 남해안은 관광뿐 아니라 조선·우주항공 등 전략 산업 잠재력도 큰 지역”이라면서 “하지만 수산자원보전구역, 국립공원 등 중첩 규제에 묶여 건국 이래 큰 변화가 없었다”고 지적했다.&lt;br&gt;&lt;br&gt;경남도에 따르면 특히 경남 남해안권의 중첩 규제 면적은 3782.87㎢로, 해당 지역 행정구역 면적(3333.06㎢)보다도 넓은 상황이다. &lt;br&gt;&lt;br&gt;대표적으로 보전산지구역·국립공원·개발제한구역·수산자원보호구역 등 9개 규제가 이중·삼중으로 겹쳐 있다고 한다. 동·서해안과 비교하면 남해안의 규제 부담은 최대 4~5배에 달한다. 경남·전남·부산은 이 같은 남해안의 중첩 규제로 투자 지연과 산업 성장 저해 문제로 이어지고 있다고 목소리를 높였다. &lt;br&gt;&lt;br&gt;박 지사는 “수도권 규제는 완화하면서 정작 미래 성장 동력이 될 남해안 규제는 방치한 채 균형 발전을 말하는 것은 어불성설”이라고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 남해안 발전의 모델로 프랑스를 꼽았다. 박 지사는 “프랑스가 1960년대부터 중앙정부 주도로 지중해 연안에 대규모 투자를 단행해 국가 균형 발전과 성장 동력으로 육성한 사례를 참고할 필요가 있다”며 “국회가 미래 대한민국의 희망을 만든다는 각오로 특별법 제정에 나서 주길 바란다”고 했다. &lt;br&gt;&lt;br&gt;남해안권 발전 특별법은 수도권 일극 체제 심화로 지역 간 격차가 확대되는 상황에서 해양 관광 중심지이면서 우주항공·방산·조선·에너지 등 국가 핵심 산업이 집적된 남해안을 대한민국 새 성장 축으로 육성하고자 마련됐다. &lt;br&gt;&lt;br&gt;특별법에는 과도한 규제 개선, 국토교통부 산하 ‘남해안종합개발청’ 신설, 예비타당성조사 면제, 특별회계 설치, 부담금 감면 등의 내용이 담겼다. 현재 국회 국토법안심사소위원회에 상정된 채 계류 중이다. &lt;br&gt;&lt;br&gt;정점식 의원은 “남해안을 수도권에 대응하는 제2의 경제 축으로 만드는 프로젝트인 만큼 여야가 힘을 합쳐 조속히 법안을 통과시키겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;기조 강연에 나선 육동일 한국지방행정연구원장은 “수도권 일극 구조는 국가 성장의 위험 요인”이라며 “남해안권 발전 특별법은 단순 지역 개발을 넘어 국가 공간 구조를 전환하기 위한 전략”이라고 했다. 김준경 KDI 국제정책대학원장도 “산업·인재·인프라를 통합 설계할 수 있는 제도적 틀이 시급하다”고 제언했다.&lt;br&gt;&lt;br&gt;종합토론은 오동호 경남연구원 원장이 좌장을 맡아 진행됐으며, 남해안을 세계적 해양경제 거점으로 발전시키는 전략에 대해 심도 있는 논의가 이뤄졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천시장 출마 민주당 김교흥, 36일 만에 철회… “원팀으로 지선 승리할 것”</title>
-      <link>https://www.chosun.com/national/regional/2026/02/26/RCH3DINWIRDDRJBCKVMIVW6XBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/26/RCH3DINWIRDDRJBCKVMIVW6XBU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 06:38:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZHO4FLCAZMW7IKCNBJEPKHVTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김교흥 의원./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시장 선거에 나섰던 더불어민주당 김교흥 국회의원이 26일 불출마를 선언했다. 출마 선언 36일 만이다. &lt;br&gt;&lt;br&gt;김교흥 의원은 이날 국회에서 기자회견을 갖고, “지금 우리가 해야 할 일은 지방선거 승리로 민생 경제를 살리고, 내란 세력을 완전히 척결하는 것”이라며 “저는 지방선거 완승과 이재명 정부의 성공을 위해 인천시장 출마를 내려놓고 민주당 원팀을 만들겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “인천시 정무부시장부터 민주당 인천시당 위원장, 3선 국회의원을 하며 쌓은 입법, 행정, 정치의 모든 역량과 비전을 인천을 위해 쏟겠다”며 “원팀으로 인천 탈환에 함께하겠다”고 했다. &lt;br&gt;&lt;br&gt;김교흥 의원은 지난달 22일 인천 미추홀구 주안동 옛 시민회관 쉼터에서 기자회견을 열고 “인천의 자긍심을 높이고, 인천을 한국의 메가시티로 만들겠다”며 인천시장 선거 출마를 선언했다. &lt;br&gt;&lt;br&gt;인천시장 선거 더불어민주당 후보로는 김 의원과 함께 박찬대 의원이 지속해서 거론돼 왔다. 지난 23일 민주당 중앙당에서 진행된 인천시장 후보 면접에 김 의원과 함께 참여한 박찬대 의원은 오는 3월 2일 인하대에서 출판기념회를 연 뒤, 선거 준비를 본격화할 것으로 예상된다.&lt;br&gt;&lt;br&gt;김 의원은 이날 박 의원과 만나 지지 의사를 밝힌 것으로 알려졌다. &lt;br&gt;&lt;br&gt;민주당의 한 관계자는 “김 의원이 대승적인 결단을 내린 것으로 이해해 달라”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이부진, ‘서울대 26학번’ 아들 입학식 참석… 홍라희도 나란히</title>
       <link>https://www.chosun.com/national/national_general/2026/02/26/53OEKGEECFHM5DAM55NHQKW3WM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/26/53OEKGEECFHM5DAM55NHQKW3WM/</guid>
@@ -903,15 +912,6 @@
       <description/>
       <pubDate>Thu, 26 Feb 2026 05:00:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RWMYJYHFSTONJTGQ4DMM3CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성서울병원 전경. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 시사 주간지인 뉴스위크가 발표한 올해 글로벌 병원 평가에서 국내 병원 16곳이 상위 250위 안에 들었다. 삼성서울병원이 26위로 국내 병원 중 1위를 차지했다.&lt;br&gt;&lt;br&gt;뉴스위크는 25일(현지 시각) 이 같은 내용의 ‘월드 베스트 병원(World’s Best Hospitals) 2026’을 공개했다. 뉴스위크는 2019년부터 해마다 전 세계 주요 병원을 평가해 상위 250곳의 순위를 발표한다. 뉴스위크의 병원 순위는 의료성과 지표(40%), 의료분야 전문가 추천(35%), 환자 만족도(18.5%), 환자 자기평가도구 실행 여부(6.5%) 등 4개 항목을 평가해 결정한다.&lt;br&gt;&lt;br&gt;삼성서울병원은 지난해보다 4계단 오른 26위에 자리했다. 2023년 40위, 2024년 34위, 지난해 30위 등 순위가 꾸준히 오르고 있다. 올해는 국내 병원 중 1위였는데, 삼성서울병원이 국내 병원 중 첫 손에 꼽힌 것은 이번이 처음이다. 박승우 삼성서울병원장은 “중증 질환 중심의 미래 의학 추진 성과가 세계 각국 의료 전문가들에게 인정받았다”고 했다.&lt;br&gt;&lt;br&gt;국내 병원들은 16곳이 상위 250위 안에 들었다. 서울아산병원이 28위, 세브란스병원이 39위, 서울대병원이 41위로 50위 안에 안착했다. 분당서울대병원(54위), 강남세브란스병원(77위), 아주대병원(94위)이 100위 이내에 진입했다. 서울성모병원(108위), 인하대병원(122위), 고대안암병원(155위) 등도 순위권에 들었다.&lt;br&gt;&lt;br&gt;올해 세계 최고 병원으로는 미국 메이요클리닉이 뽑혔다. 이어 캐나다 토론토종합병원, 미국 클리블랜드클리닉, 스웨덴 카롤린스카 대학병원, 미국 매사추세츠 종합병원 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “골프 코스에도 저작권성 있다” 골프존 사건 파기환송</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/26/TDGCNNZ3JFGITHJMAMLHM3CAWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/26/TDGCNNZ3JFGITHJMAMLHM3CAWQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 02:11:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;골프 코스가 저작권법으로 보호받는 ‘창작물’이 될 수 있다는 대법원 판단이 나왔다. 스크린골프 업체 ‘골프존’이 실제 골프장 코스를 스크린 화면에 그대로 구현한 것을 두고 벌어진 저작권 분쟁에서 대법원이 골프장 설계사의 손을 들어준 것이다. 이에 따라 골프존은 파기환송심을 거쳐 골프 코스 설계사들에게 수억~수십억원대 손해배상금을 물어줄 공산이 커졌다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 26일 국내 골프 코스 설계사 2곳이 골프존을 상대로 저작권 침해 금지와 손해배상을 청구한 소송에서 원고 패소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;이번 소송을 제기한 오렌지엔지니어링과 송호골프디자인은 국내 골프장 19개 코스를 설계한 회사들이다. 골프존은 각 골프장 소유주와 이용 협약을 맺은 뒤 해당 코스를 3D 영상으로 구현해 스크린골프 매장에 사용했다. 이에 설계사들은 2018년 “우리가 설계한 코스에 대한 저작권을 침해당했다”며 영상을 폐기하고 저작권 침해에 따른 손해를 배상하라며 소송을 냈다.&lt;br&gt;&lt;br&gt;쟁점은 골프 코스가 저작권법상 ‘저작물’에 해당하는지, 즉 창작성이 인정되는지 여부였다. 이에 대한 1·2심 판단은 엇갈렸다. 1심은 “골프 코스에 설계자의 창조적 개성이 드러난다”며 저작물성을 인정하고 골프존이 이를 침해했다고 판단했다. 이에 따라 골프존이 설계사들에게 28억3000만원을 배상하라고 판결했다. 반면 2심은 “골프 코스는 골프 규칙과 부지의 지형, 이용자의 안전 등 여러 제약을 받는 ‘기능적 설계물’에 가깝고 이런 요소를 제외하면 별도의 창작적 표현이 있다고 보기 어렵다”며 골프존 손을 들어줬다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSGCYTCGI3WCNDBMI3DMYZYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'골프존'의 스크린골프 매장 모습./골프존&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원에서 판단은 다시 뒤집혔다. 대법원은 골프 코스 설계에 골프 규칙이나 지형 등 제약이 따른다고 해도 창작성이 무조건 부정되는 것은 아니라고 봤다. 기존 코스와 구별되는 독자적 표현인지 따져볼 필요가 있다는 것이다. 대법원은 “골프 코스마다 홀의 형태와 배치, 홀을 이루는 구성 요소들은 일정한 설계 의도에 따라 유기적으로 구성돼 있다”며 “이러한 조합이 단순 모방이 아닌 경우 창작성이 인정될 여지가 있다”고 했다. &lt;br&gt;&lt;br&gt;티잉 그라운드, 페어웨이, 벙커 등 시설물은 모든 골프 코스에 공통적으로 등장하지만, 어떤 모양으로 어떻게 배치됐느냐에 따라 개성이 나타나고 이용객이 티샷부터 어프로치, 퍼팅에 이르기까지 각 상황에서 전략을 다르게 세우도록 유도한다는 것이다. 대법원은 “홀 진행 과정에서 나타나는 코스 변화를 느끼면서 재밌게 골프를 즐길 수 있게 하고, 인공 조경과 주변 자연 경관이 어우러져 코스의 아름다움을 느낄 수 있도록 한 것”도 코스별 설계 의도의 일부로 봤다.&lt;br&gt;&lt;br&gt;한편, 이날 대법원 1부(주심 노태악 대법관)는 국내 11개 골프장 코스를 설계한 미국 회사 골프플랜이 골프존을 상대로 낸 비슷한 소송에서도 “골프 코스 설계 도면은 창작물이 될 수 있다”며 파기환송 판결을 내렸다. 대법원은 실제 골프 코스뿐 아니라 그 바탕이 되는 설계 도면도 다른 골프 코스와 구별되는 특색이 있다면 창작성이 인정된다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>반포대교서 추락한 포르쉐... 車 안엔 프로포폴병·주사기 </title>
