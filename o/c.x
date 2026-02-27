@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한국인 손님 컵에 “yellow!”…美 스타벅스서 인종차별 의혹</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/28/BDY3T4C2HNF6HKX46TXEVHF5ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/28/BDY3T4C2HNF6HKX46TXEVHF5ZM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Feb 2026 22:00:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3IQG5UVRBF7XNFEAUTWVJCKRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국인 고객이 주문한 스타벅스 음료 컵 전면에 적힌 ‘yellow!!’ 문구. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국의 한 스타벅스 매장에서 한국인 고객이 인종차별을 당했다는 의혹이 제기돼 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난 26일 한 소셜미디어에는 “오늘 한국인 동료가 스타벅스에서 블랙커피를 주문했는데 컵에 ‘yellow!!(옐로우)’라고 적혀 있었다”는 내용의 글과 영상이 올라왔다. &lt;br&gt;&lt;br&gt;옐로우는 동아시아 국가 사람들을 모욕적으로 가리킬 때 쓰는 인종차별적 표현이다. &lt;br&gt;&lt;br&gt;작성자는 “동료는 노란색 옷을 입고 있지도 않았고 음료를 마시기 전까지 전혀 눈치채지 못했다”며 “이게 무슨 뜻이냐? 비밀코드냐”고 물었다. &lt;br&gt;&lt;br&gt;공개된 영상을 보면 컵 뒷면에 부착된 영수증 스티커에는 한국인 이름으로 보이는 주문자명과 함께 ‘yellow’라는 문구가 적혀있었다. &lt;br&gt;&lt;br&gt;해당 게시글은 7000개 이상의 ‘좋아요’와 1000개 넘는 댓글이 달리며 화제를 모았다.&lt;br&gt;&lt;br&gt;네티즌들은 “전직 바리스타로서 이건 인종차별이 맞다” “해당 지점에 당장 항의해야 한다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;이와 관련 현재까지 미국 스타벅스 측은 별다른 입장을 밝히지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/A7B35ZCNNFEEBHBZA737KI3LQQ.jpg?auth=6fa81348aad00d9ea34ad293a5bfe9f50ea35833bb5e0a7ad38b674d59b4d7cc&amp;smart=true&amp;width=724&amp;height=543" type="image/jpeg" height="543" width="724">
+        <media:description type="plain">한국인 고객이 주문한 스타벅스 음료 컵 전면에 적힌 ‘yellow!!’ 문구. /스레드</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>[아무튼, 주말]#대동맥권위자송석원#코스피6000시대기업史</title>
       <link>https://www.chosun.com/national/weekend/2026/02/28/JFUFOIVI6FC65K6PQRF4KJW2NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/02/28/JFUFOIVI6FC65K6PQRF4KJW2NU/</guid>
@@ -937,15 +950,6 @@
       <description/>
       <pubDate>Thu, 26 Feb 2026 09:12:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTDGMRTMVQWEMBUGNRGGMRXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 12월 15일 경기 성남시 분당구 카카오 판교아지트 건물에 폭파 협박이 있었다는 사측의 신고가 접수돼 경찰 수색에 나섰다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오와 네이버, KT, 삼성전자 등 대기업을 상대로 잇따라 ‘폭파 협박’ 허위 신고를 한 10대가 26일 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 김주관 영장전담 부장판사는 이날 오전 공중협박 혐의를 받는 고등학생 A군에 대한 구속 전 피의자 심문(영장실질심사)을 진행하고, 오후 구속영장을 발부했다. 김 부장판사는 “증거를 인멸할 염려가 있고 피의자는 소년이지만, 부득이하게 구속해야 할 사유가 있다”고 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A군은 작년 12월 15일부터 올해 1월 5일까지 모두 14차례에 걸쳐 카카오, 네이버, 삼성전자, KT, 토스뱅크, 서울역 등에 대한 테러 글을 인터넷에 올리는 등 ‘스와팅(swatting·허위 신고)’ 범죄를 벌인 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M45TNG3HAZ5LST3KHM3VROOEDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 성남지원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A군은 가상사설망(VPN) 우회로 해외 IP를 이용해 타인 명의로 글을 썼다. A군은 “회사 건물을 폭파하겠다”고 적거나, 최고 경영자를 살해하겠다고 협박하기도 했다. 또 특정 계좌로 돈을 보낼 것을 요구하기도 했다.&lt;br&gt;&lt;br&gt;A군은 메신저 앱 ‘디스코드(Discord)’에서 활동해 온 유저다. 다른 이들의 명의를 도용해 범행한 것으로 조사됐다. A군은 이재명 대통령을 향한 살해 협박 글을 올린 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 상설특검, 25일 대검 압수수색...‘무혐의 회의’ 규명 차원</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/26/XEJTCZJI6RFGXCBVUPPOTX6KVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/26/XEJTCZJI6RFGXCBVUPPOTX6KVU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 09:06:36 +0000</pubDate>
-      <content:encoded>‘쿠팡 불기소 외압 의혹’ 사건을 수사하는 안권섭 상설특검팀이 지난 25일 대검찰청에 대한 압수수색 영장을 집행한 것으로 26일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTGMMBZGQZTMOBUGFQWGZRYME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안권섭 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법조계에 따르면, 특검팀은 전날 대검 정보통신과 등에 대한 압수수색을 진행했다. 엄희준 전 부천지청장(현 광주고검 검사)이 지난해 국회에 증인으로 출석해 증언한 내용이 허위인지 확인하기 위해서인데, 압수수색 영장에는 엄 전 청장(현 광주고검 검사)의 위증 혐의(국회에서의 증언·감정법 위반)가 적시됐다고 한다.&lt;br&gt;&lt;br&gt;엄 전 청장은 지난해 국회에 증인으로 출석해 “지난 3월 5일 김동희 당시 부천지청 차장검사와 문지석 부장검사가 참석한 회의에서 문 부장검사도 ‘쿠팡 사건’을 무혐의하는 것에 동의했다”고 주장한 반면, 문 부장검사는 특검 조사 과정에서 회의가 열린 사실이 없다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 특검팀은 당시 부천지청장실 내선 전화 기록 등을 확보해 엄 전 청장이 문 부장검사를 호출한 사실이 있는지를 확인 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검이 수사 중인 쿠팡 관련 의혹 사건은 엄 전 청장이 지난해 4월 부천지청장으로 있으면서 쿠팡 자회사인 쿠팡풀필먼트서비스(CFS)의 근로자에 대한 금품 미지급 사건을 수사하던 문 부장검사에게 무혐의 처분을 강요했다는 내용이다. 문 부장검사는 지난해 10월 국회 국정감사에서 “엄 전 청장 등이 무혐의 처분을 압박했다”고 주장했다. 이에 대해 엄 전 청장은 문 부장검사의 주장이 모두 허위라며 특검에 무고 혐의 수사를 요청한 상태다.&lt;br&gt;&lt;br&gt;한편 특검팀의 수사 기한은 내달 5일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>반포대교서 추락한 포르쉐... 車 안엔 프로포폴병·주사기 </title>
