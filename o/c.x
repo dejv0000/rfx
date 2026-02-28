@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“대전·충남 행정통합을"… 박범계, 출판기념회서 삭발 </title>
+      <link>https://www.chosun.com/national/national_general/2026/02/28/4SCQ5G3TSNGN5F3TJMRG7KNF24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/28/4SCQ5G3TSNGN5F3TJMRG7KNF24/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Feb 2026 09:23:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDIYZRMIYWEOLEGIZDCOJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박범계 더불어민주당 국회의원(대전서구을)이 28일 충남 천안시 국립공주대학교 천안공과대학 체육관에서 열린 출판기념회에서 대전충남 통합에 대한 의지를 드러내기 위해 삭발을 단행했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남대전통합시장 출마를 선언한 박범계 더불어민주당 의원이 28일 대전·충남 행정통합 추진을 촉구하며 삭발에 나섰다. &lt;br&gt;&lt;br&gt;박 의원은 이날 충남 천안시 신당동 국립공주대학교 천안공과대학에서 열린 자신의 저서 ‘더 큰 통합, 압도적 성장’ 출판기념회 자리에서 “오늘 중대한 결심을 했다”며 “그동안 대전충남 통합을 주장하며 우리 지역의 후배들이 단식을 하고, 삭발을 하는 것을 보고 무척이나 서러웠고 책임감이 크다는 생각이 들었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “충청은 더 이상 따라가는 지역이 아니다. 스스로 미래를 설계하고 실행하는 지역이다. 앞으로도 통합을 포기하지 않을 것이고 압도적 성장을 실현할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;박 의원은 이후 마이크를 내려놓고 무대 위에서 미리 준비된 의자에 앉아 삭발을 단행했다. 삭발식을 지켜본 지지자들은 “박범계”를 외치며 박수를 보냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIMZNFHGKZPHVPR4F37Z62ULPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박범계 더불어민주당 국회의원(대전서구을)이 28일 충남 천안시 국립공주대학교 천안공과대학 체육관에서 열린 출판기념회에서 대전충남 통합에 대한 의지를 드러내기 위해 삭발을 단행했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6SYYIG74FNB7DVUPVPMJX2PWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박범계 국회의원(대전서구을)이 28일 충남 천안시 국립공주대학교 천안공과대학 체육관에서 열린 자신의 저서 출판기념회에서 전격적으로 삭발을 진행한 후 대전충남 통합에 대한 의지를 드러내고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 삭발 후 소셜미디어를 통해 “우리는 머뭇거릴 시간이 없다. 대전시와 충남도의 행정 통합은 선택의 문제가 아니다”라며 “대한민국의 구조를 바꾸는 국가 전략”이라고 했다. 이어 “행정 수도 이전 논쟁도, 과학벨트도, 국가기관 이전도 처음에는 불가능해 보였지만 결국 현실이 됐다”며 “이제 우리는 이 머뭇거림을 끝내야 한다”고 했다.&lt;br&gt;&lt;br&gt;박 의원은 “통합은 퍼주기가 아니고 하향 평준화도 아니며 누군가의 것을 빼앗아 나누는 구조도 아니다”라며 “통합하지 않으면 각자 약해지고 통합하면 함께 강해진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 3월 1일 일요일 (음력 1월 13일 甲戌)</title>
       <link>https://www.chosun.com/national/national_general/2026/02/28/MJ2VPVFFLFGDVANZWTQEDIUPDU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/28/MJ2VPVFFLFGDVANZWTQEDIUPDU/</guid>
@@ -953,15 +962,6 @@
       <description/>
       <pubDate>Thu, 26 Feb 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J63Q24G5IJGVJHEHMOJZINO7KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;골프존 이용자들이 스크린골프를 즐기고 있는 모습./골프존&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;골프장 코스에도 저작권이 인정될 수 있다는 대법원 판단이 나왔다. 대법원 1부는 26일 국내·외 골프장 설계업체 3곳이 스크린골프업체 골프존을 상대로 낸 저작권 및 손해배상 소송에서 원고 패소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다. 실제 골프장 코스를 그대로 스크린에 구현한 골프존이 저작권을 침해한 것으로 인정돼 설계업체에 돈을 물어줘야 할 가능성이 커진 것이다.&lt;br&gt;&lt;br&gt;골프존은 국내·외 골프장 400여 곳의 실제 코스를 3D 영상으로 재현해 스크린골프 매장에서 사용해왔다. 이에 골프장 설계업체들은 “코스와 도면에 대한 저작권을 침해당했다”며 골프존이 3D 영상을 폐기하고 저작권 침해에 따른 손해를 배상하라며 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 골프존이 총 32억원을 배상해야 한다고 판결했지만, 2심은 “골프 코스는 규칙과 지형의 제약을 받는 ‘기능적 설계물’에 가까워 창작성을 인정하기 어렵다”며 골프존 측의 손을 들어줬다. 경기 규칙과 지형에 맞추다보면 누가 설계해도 비슷하게 나올 수밖에 없기 때문에 골프 코스를 예술 작품 같은 창작물로 보기 어렵다는 판단이었다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “규칙이나 지형 등 제약을 받는다고 해서 무조건 창작성이 없는 건 아니다”라며 판단을 뒤집었다. 홀·벙커·그린 등은 모든 골프장에 공통으로 있는 요소지만, 어떤 모양으로 어떻게 배치하느냐에 따라 개성이 드러날 수 있다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[땅, 땅… 오늘의 판결] “루이비통 가방 리폼 상표권 침해 아니다”</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/27/JDMMKRGGBBBQTCG7A6QHO2OKKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/27/JDMMKRGGBBBQTCG7A6QHO2OKKM/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRM75Q7YO5GP3KESYWPTUXU6IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 유튜버가 산 지 10년 넘은 명품 빅백을 미니백으로 리폼했다고 방송하고 있다. 그는 유행이 지난 빅백을 팔려고도 해봤으나 수백만 원 주고 산 가방의 가치가 0원이라는 얘기를 듣고 리폼을 결심했다고 한다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오래된 명품백을 수선해 다른 모양이나 색상으로 쓰는 경우, 수선집의 리폼서비스가 명품 브랜드의 상표권을 침해한 것은 아니라는 대법원 판단이 나왔다. 리폼업자의 상표권 침해에 대한 대법원 판단은 처음이다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 26일 프랑스 명품 브랜드 루이비통이 서울 강남구에 있는 리폼업체 대표 이모씨를 상대로 낸 상표권 침해 금지 및 손해배상 청구 소송에서 원고 승소 판결한 원심을 파기하고 사건을 특허법원으로 돌려보냈다.&lt;br&gt;&lt;br&gt;50년 경력의 명품 수선 장인인 이씨는 2017~2021년 고객에게 받은 루이비통 가방을 해체한 후 원단 등을 재사용해 다른 크기와 모양의 가방, 지갑 등을 만들었다. 수선비로 제품 1개당 10만~70만원을 받았다. 이에 루이비통 측은 이씨가 상표권을 침해했다며 소송을 제기했다. 새로운 형태지만 여전히 루이비통 로고가 있기 때문에 상표권 침해했다고 주장했다.&lt;br&gt;&lt;br&gt;1심과 2심은 이씨가 루이비통 측에 손해배상금 1500만원을 지급해야 한다고 판결했다. 재판부는 리폼 제품 외부에 루이비통 상표가 반복적으로 나타나 있어, 일반 소비자는 루이비통이 해당 제품을 제작했다고 혼동할 우려가 있다고 판단했다. 그러나 대법원은 “이씨가 만든 제품은 소유자가 개인적으로 사용할 목적으로 리폼을 요청해 제작된 것이고, 리폼 후 소유자에게 반환됐기에 ‘상표의 사용’에 해당하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
