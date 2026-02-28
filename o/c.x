@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 3월 1일 일요일 (음력 1월 13일 甲戌)</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/28/MJ2VPVFFLFGDVANZWTQEDIUPDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/28/MJ2VPVFFLFGDVANZWTQEDIUPDU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Feb 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>무안 제주항공 참사 유가족 “사조위, 기존 조사 결과 폐기하고 재조사 해야”</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/02/28/E55XSBLX7RHKDJZTG6MNW3NZPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/28/E55XSBLX7RHKDJZTG6MNW3NZPE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Feb 2026 06:05:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3TSZDBGRRTQNRWHBTGKZLFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무안 제주항공 엿새째였던 지난해 1월 3일 오후 전남 무안국제공항 참사 현장에서 사고 기체의 꼬리 부분이 인양되고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안 제주항공 참사 유가족협의회가 국무총리 산하로 이관된 항공철도사고조사위원회(사조위)를 향해 “성역 없는 재조사가 이뤄져야 한다”고 28일 밝혔다.&lt;br&gt;&lt;br&gt;유가족협의회는 이날 발표한 입장문에서 “그동안 국토교통부 산하의 사조위는 사고의 책임 당사자인 정부 부처를 스스로 조사해야 하는 구조적 모순 속에 있었다”며 “이번 이관은 단순한 조직 개편을 넘어 성역 없는 진상규명을 향한 실질적인 전환점이 돼야한다”고 했다.&lt;br&gt;&lt;br&gt;이날부터 사조위를 국토부에서 독립시켜 국무총리실로 이관하는 내용의 법안이 시행됐다. 사조위는 무안 제주항공 참사 등 항공·철도 사고의 원인 등을 조사하는 기관이다.&lt;br&gt;&lt;br&gt;유가족협의회는 “(기존) 사조위는 자체 전문성도 결여됐을 뿐만 아니라 핵심 자료들을 국제 규정을 방패 삼아 유가족의 알 권리를 묵살하고 폐쇄적인 태도로 일관했다”며 “공청회라는 명목하에 부실한 조사 결과를 정당화하며 원인 규명은커녕 조기 종결에만 급급한 행태를 보였다”고 했다.&lt;br&gt;&lt;br&gt;이어 “편향된 기존 조사 결과를 전면 폐기하고 성역 없는 재조사가 이뤄져야 한다”며 “인적 구성을 전면 쇄신하고 유가족의 참여와 정보 공개를 제도화하는 등 조사 역량을 강화해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울교총 “덕수초 운동장, 민주화운동기념관 건립 부지 후보에서 제외 필요”</title>
       <link>https://www.chosun.com/national/education/2026/02/28/Z7LIT54SSRFRZNW3NSZXU4EF2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/28/Z7LIT54SSRFRZNW3NSZXU4EF2E/</guid>
@@ -891,15 +910,6 @@
       <content:encoded>서울 강남구 대치동 은마아파트가 최고 49층 5893가구 단지로 재탄생한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZDGZJSGA4TCMTCMRSWCNJTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;은마아파트 재건축 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 26일 정비사업 통합심의위원회를 열고 이 같은 내용의 ‘은마아파트 재건축 정비사업’ 통합 심의안을 통과시켰다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;은마아파트는 강남을 대표하는 노후 대단지 아파트다. 작년 9월 서울시 도시계획위원회 심의를 통과해 정비 계획이 결정됐다. 이번 통합 심의는 그로부터 약 6개월 만에 진행됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “통상 도시계획위원회 심의부터 통합 심의 통과까지 280일 정도가 걸리는데, 절차를 간소화해 95일가량 단축시켰다”고 말했다.&lt;br&gt;&lt;br&gt;심의를 통과한 계획안에 따르면, 은마아파트는 최고 49층 5893가구 단지로 재건축한다. 이 중 195가구는 ‘공공 분양 주택’으로 공급한다. 재건축 사업에서 공공 분양으로 주택을 공급하는 건 처음이다. 서울시는 다자녀 중산층 등 실수요자에게 공급할 계획이다.&lt;br&gt;&lt;br&gt;대치동 학원가와 학여울역 주변 등 2곳에는 지역 주민을 위한 공원을 짓는다. 학원가 인근 공원 지하에는 공영 주차장도 짓는다. 대치동 일대의 침수 피해를 막기 위해 학여울역 인근 공원 지하에는 4만㎡ 규모 저류조도 설치한다.&lt;br&gt;&lt;br&gt;단지 중앙에는 폭 20m 공공 보행 통로를 남북 방향으로 조성한다. 서울시 관계자는 “대치미도아파트 재건축과 연계해 양재천을 거쳐 개포동까지 이어지는 보행로를 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 2030년 착공을 목표로 은마아파트 재건축을 추진할 예정이다. 이를 위해 올해 사업 시행 계획 인가를 완료하고 내년까지 관리 처분 계획 인가를 마친다는 계획이다.&lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “2031년까지 서울 전역에서 31만 가구를 착공할 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김병기, 연이틀 경찰 출석… “성실히 조사받겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/27/RV3L3VASNNDI5LYH7R6JJLK5RM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/27/RV3L3VASNNDI5LYH7R6JJLK5RM/</guid>
-      <dc:creator>김도균 기자, 김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 00:58:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MECKWLULTBGLNFVNYW3T65Y7GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공천 헌금 수수 등 13개 의혹으로 경찰 수사를 받고 있는 김병기 무소속 의원이 27일 오전 서울경찰청 마포청사 공공범죄수사대에 출석하고 있다. /김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공천 헌금 수수 등 13개 특혜·비위 혐의를 받는 김병기(무소속·서울 동작갑) 의원이 27일 경찰에 2차 출석했다. 전날 14시간이 넘는 경찰 조사를 받은 데 이어 연이틀째 이뤄지는 소환 조사다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 김 의원을 뇌물 수수, 직권남용 등 혐의 피의자 신분으로 소환했다. 오전 9시 55분쯤 서울경찰청 마포청사에 도착한 김 의원은 전날과 같은 검은색 양복에 로만 칼라(성직자 예복) 스타일의 셔츠를 입었다.&lt;br&gt;&lt;br&gt;김 의원은 조사실로 들어가기 전 “계속 성실히 조사받겠다”며 “조사가 끝난 다음에 기회가 되면 따로 말씀드릴 자리를 마련할 수 있을 것 같다”고 말했다. ‘오늘 조사에서 어떤 점을 소명할 계획이냐’ 등 취재진 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 전날 조사에서 김 의원 차남의 숭실대 특혜 편입 및 중견기업·빗썸 취업 청탁 의혹 등을 추궁한 것으로 전해졌다. 김 의원이 당시 숭실대를 직접 찾아 총장과 보직 교수들을 만나고 기업 관계자들을 접촉하는 등의 정황이 드러나 혐의점이 뚜렷하다는 것이다.&lt;br&gt;&lt;br&gt;다만 김 의원은 해당 혐의를 부인한 것으로 전해졌다. 김 의원은 첫 경찰 출석길에서도 자신의 의혹들을 “음해”라고 주장했다. 지난 25일 소환 조사를 받은 김 의원 차남 측 역시 편입·취업 과정에서 특혜가 없었다는 입장을 밝혔었다. &lt;br&gt;&lt;br&gt;경찰은 이날 조사에서 김 의원 핵심 의혹 중 하나인 공천 헌금 수수 혐의 입증에 나설 전망이다. 이는 2020년 제21대 총선을 앞두고 김 의원 측이 당시 동작구의원 2명으로부터 총 3000만원을 건네받았다가 수개월 뒤 돌려줬다는 내용이다. 이때 오간 금품의 성격에 따라 김 의원에 대한 뇌물죄 적용 여부도 판가름날 것으로 보인다.&lt;br&gt;&lt;br&gt;전직 구의원들은 앞선 경찰 조사에서 “공천 헌금이 아닌 총선 지원 자금”이라는 취지로 진술한 것으로 알려졌다. 금품이 오갔다는 사실관계를 인정하면서도 대가성은 부인한 것이다. 이들에게 돈을 요구해 받았다고 지목된 김 의원 아내 이모씨는 “돈을 받은 적도, 돌려준 적도 없다”며 “당시 남편 선거 자금이 부족한 상황도 아니었다”는 입장이다.&lt;br&gt;&lt;br&gt;김 의원 의혹이 방대한 만큼 경찰은 이틀간의 소환 조사 이후 추가 소환도 검토할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정교유착 합수본, ‘당원 가입 의혹’ 국민의힘 당사 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/02/27/G3XMPUI57ZGGTGGZXJGCJZ7TMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/27/G3XMPUI57ZGGTGGZXJGCJZ7TMY/</guid>
@@ -952,16 +962,6 @@
       <description/>
       <pubDate>Thu, 26 Feb 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRM75Q7YO5GP3KESYWPTUXU6IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 유튜버가 산 지 10년 넘은 명품 빅백을 미니백으로 리폼했다고 방송하고 있다. 그는 유행이 지난 빅백을 팔려고도 해봤으나 수백만 원 주고 산 가방의 가치가 0원이라는 얘기를 듣고 리폼을 결심했다고 한다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오래된 명품백을 수선해 다른 모양이나 색상으로 쓰는 경우, 수선집의 리폼서비스가 명품 브랜드의 상표권을 침해한 것은 아니라는 대법원 판단이 나왔다. 리폼업자의 상표권 침해에 대한 대법원 판단은 처음이다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 26일 프랑스 명품 브랜드 루이비통이 서울 강남구에 있는 리폼업체 대표 이모씨를 상대로 낸 상표권 침해 금지 및 손해배상 청구 소송에서 원고 승소 판결한 원심을 파기하고 사건을 특허법원으로 돌려보냈다.&lt;br&gt;&lt;br&gt;50년 경력의 명품 수선 장인인 이씨는 2017~2021년 고객에게 받은 루이비통 가방을 해체한 후 원단 등을 재사용해 다른 크기와 모양의 가방, 지갑 등을 만들었다. 수선비로 제품 1개당 10만~70만원을 받았다. 이에 루이비통 측은 이씨가 상표권을 침해했다며 소송을 제기했다. 새로운 형태지만 여전히 루이비통 로고가 있기 때문에 상표권 침해했다고 주장했다.&lt;br&gt;&lt;br&gt;1심과 2심은 이씨가 루이비통 측에 손해배상금 1500만원을 지급해야 한다고 판결했다. 재판부는 리폼 제품 외부에 루이비통 상표가 반복적으로 나타나 있어, 일반 소비자는 루이비통이 해당 제품을 제작했다고 혼동할 우려가 있다고 판단했다. 그러나 대법원은 “이씨가 만든 제품은 소유자가 개인적으로 사용할 목적으로 리폼을 요청해 제작된 것이고, 리폼 후 소유자에게 반환됐기에 ‘상표의 사용’에 해당하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>119 신고하면, 로봇·소방관 함께 달려온다 </title>
-      <link>https://www.chosun.com/national/national_general/2026/02/27/T6ZD5HOCWBGKJONVLCUMQKZRWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/27/T6ZD5HOCWBGKJONVLCUMQKZRWM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSPF5OKK4VHR5J5QS7Q3MWBLS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 서울 은평구 서울소방학교에서 서울소방재난본부가 구조 훈련을 하고 있다. 지하철역에 불이 나 연기가 자욱한 상황을 가정한 훈련이다. ‘4족 보행 로봇’이 쓰러진 시민을 찾아내자 구조대가 들것에 태우고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
