@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울교총 “덕수초 운동장, 민주화운동기념관 건립 부지 후보에서 제외 필요”</title>
+      <link>https://www.chosun.com/national/education/2026/02/28/Z7LIT54SSRFRZNW3NSZXU4EF2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/28/Z7LIT54SSRFRZNW3NSZXU4EF2E/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Feb 2026 05:14:03 +0000</pubDate>
+      <content:encoded>서울교원단체총연합회가 서울 중구의 덕수초 운동장을 신규 민주화운동기념관 건립 부지 후보로 검토하는 움직임에 대해 “학생들의 학습권을 심각하게 위협하는 사안”이라며 반대 의사를 밝혔다.&lt;br&gt;&lt;br&gt;서울교총은 27일 ‘덕수초 운동장 민주화운동기념관 건립 검토 즉각 철회하라’는 제목의 입장문을 발표했다. &lt;br&gt;&lt;br&gt;서울교총은 “민주화운동의 역사적 의미와 기념 사업의 필요성을 부정하지 않는다”면서도 “숭고한 취지가 결코 미래세대의 교육 공간을 침해하는 방식으로 추진돼서는 안 된다”고 했다. &lt;br&gt;&lt;br&gt;또 서울교총은 “학교 운동장은 단순한 유휴 국유지가 아니라, 학생들의 체육 수업과 놀이 활동, 각종 학교 행사 등이 이뤄지는 교육 공간”이라며 “덕수초 운동장이 행정안전부 소유이기에 어려움 없이 건립할 수 있다는 발상은 교육의 본질을 외면한 처사”라고도 지적했다.&lt;br&gt;&lt;br&gt;이어 “20년 전 이미 교육적, 사회적 타당성이 부족하다는 판단이 내려진 장소가 왜 다시 검토 대상에 포함됐는지 납득하기 어렵다”며 “당시 철회 결정은 학생들의 학습권과 학교 교육의 공공선을 우선해야 한다는 사회적 합의의 결과”였다고 했다. 민주화운동기념사업회는 2007년에도 서울 덕수초 운동장을 기념관 설립 부지로 선정했다가, 학교와 학부모들의 우려에 계획을 철회한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSRC2TSMJBBD7KSNH6RO33WTLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교총은 “행안부와 민주화운동기념사업회는 덕수초 운동장을 민주화운동기념관 부지 후보에서 즉각 제외해야 한다”며 “행정 편의와 소유권 논리를 앞세워 학생의 학습권을 침해하는 시도가 발생할 경우 교총의 모든 역량을 동원해 강력 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>미스터트롯3 톱7,  ‘대한민국 연예예술상’ 전원 수상 </title>
+      <link>https://www.chosun.com/national/people/2026/02/28/FJRSQYDVANEOFGV2JZFBKRFJEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/28/FJRSQYDVANEOFGV2JZFBKRFJEY/</guid>
+      <dc:creator>최보윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Feb 2026 04:33:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDAOTIZVBREVHFCH6UJO45NS54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국예술상을 수상한 미스터트롯 톱 7. 맨위 왼쪽부터 시계방향으로 김용빈 손빈아 천록담 최재명 남승민 춘길 추혁진/-유선수엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘미스터트롯3′ 진 김용빈이 ‘대한민국 연예예술상’ 시상식에서 올해의 아티스트상 등 2관왕에 올랐다. 그를 비롯해 미스터트롯3 톱 7 멤버 전원이 대한민국 연예예술상을 받는 영예를 안았다. &lt;br&gt;&lt;br&gt;지난 26일과 27일 이틀간 경기도 경기아트센터 대공연장에서 열린 ‘대한민국 연예예술상’ 시상식에서 TV조선 ‘미스터트롯3′ 톱 가수 김용빈, 손빈아, 천록담, 춘길, 최재명, 남승민, 추혁진이 전원 수상자 명단에 이름을 올렸다.&lt;br&gt;&lt;br&gt;‘대한민국 연예예술상’은 대중문화, 연예, 예술 등 문화예술의 위상을 높이고 육성과 발전에 이바지한 예술인을 격려하기 위한 시상식으로, 1994년을 시작으로 지금까지 이어져 오고 있다. 이번 시상식에서는 일반 수상 5개 부문상, 가수 수상 13개 부문상, 기타 수상 10개 부문상 등 총 56명에게 시상이 이뤄졌다. &lt;br&gt;&lt;br&gt;‘미스터트롯3′ 톱7은 이번 시상식을 통해 대중성과 실력을 동시에 인정받으며 의미 있는 성과를 더했다.&lt;br&gt;&lt;br&gt;미스터트롯3 ‘진’에 오른 김용빈은 서울특별시 시장상과 올해의 아티스트상을 받아 2관왕에 올랐다. 그는 “12년 만에 다시 이 무대에 서게 됐다”며 지난 한 해 큰 사랑을 보내준 팬들에게 공을 돌렸다.&lt;br&gt;&lt;br&gt;‘선’을 차지한 손빈아는 올해의 남자 가수상을 받았다. 그는 “시상식이 이렇게 뜻깊은 자리인 줄 이제야 알았다”며 “앞으로도 좋은 자리에 초대받을 수 있도록 성실히 노래하고 활동하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;‘미’ 천록담은 페이버릿 싱어 남자 부문을 수상했다. 그는 “데뷔 1년도 채 되지 않은 신인으로서 뜻깊은 상을 받게 돼 영광”이라며 “받은 사랑에 몇 배로 보답하는 가수가 되겠다”고 다짐했다.&lt;br&gt;&lt;br&gt;춘길과 추혁진은 라이징 스타상을 받아 차세대 가수로서의 존재감을 입증했다.&lt;br&gt;&lt;br&gt;춘길은 “라이징 스타상에 대한 부담감을 책임감으로 여기겠다”며 “늘 힘이 되어주는 팬들에게 영광을 돌리고 더 성장하는 가수가 되겠다”고 전했다. 또한 추혁진은 “오랜 활동 끝에 라이징 스타상을 받게 돼 뜻깊다”며 팬들에게 수상의 영광을 돌렸다. 이어 생일을 앞두고 뜻깊은 상을 받게 돼 감사하다는 소감도 덧붙였다.&lt;br&gt;&lt;br&gt;남승민과 최재명은 팬들이 직접 뽑은 스타상을 수상하며 꾸준한 팬들의 사랑을 입증했다.&lt;br&gt;&lt;br&gt;남승민은 “팬들이 직접 뽑아준 상이라 더욱 값지다”며 “앞으로도 더 열심히 활동하겠다”고 각오를 밝혔다. 최재명 역시 “팬들의 선택으로 받은 상이라 더욱 영광스럽다”며 “사랑에 보답할 수 있도록 꾸준히 노력하고 성장하겠다”고 전했다.&lt;br&gt;&lt;br&gt;한편, ‘미스터트롯3’ 톱7은 전국 투어 콘서트를 통해 팬들과 직접 만나고 있으며, 인천, 춘천, 서울에서 공연을 이어갈 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6R6MOVGXFZFETOBD5NLUUPQGYU.jpg?auth=38f62d42aeacc8dc07e727ab2ede5a367f88c51b7ff4979d6a341d9db3a48e97&amp;smart=true&amp;width=1372&amp;height=772" type="image/jpeg" height="772" width="1372">
+        <media:description type="plain">대한민국예술상을 수상한 미스터트롯 톱 7. 맨위 왼쪽부터 시계방향으로 김용빈 손빈아 천록담 최재명 남승민 춘길 추혁진/-유선수엔터테인먼트</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>金총리 “알고 보니 대구가 민주주의 시작... 尹 내란 막은 뿌리”</title>
       <link>https://www.chosun.com/politics/goverment/2026/02/28/DS4WSLQWGZCVLHR2EQLHKH7QZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/02/28/DS4WSLQWGZCVLHR2EQLHKH7QZQ/</guid>
@@ -896,15 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWQ6Y7GNRFAENBXNBUD3RLSW74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 이현재 하남시장이 강원 속초에서 열린 ‘조직 활성화 교육’에서 직원들과 함께 바닥에 앉아 프로그램에 참여하고 있다. 현장에는 7급 이하 공무원 230여명이 참석했다. /김현수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 하남시가 7급 이하 공무원 230명을 대상으로 조직 문화 혁신에 나섰다. 참여형 워크숍과 인사 보상 제도 보강을 함께 추진하며 조직 운영 전반에 활력을 더하고 있다.&lt;br&gt;&lt;br&gt;하남시는 26~27일 강원 속초에서 1박 2일 일정으로 ‘조직 활성화 교육’을 실시했다. 대상은 7급 이하 직원 230명으로, 해당 직급 인원의 약 3분의 1 규모다. 이현재 시장도 일정에 참여했다.&lt;br&gt;&lt;br&gt;이번 교육은 오리엔테이션과 팀빌딩, 미니 올림픽 형식의 체육 프로그램, 직무 스트레스 해소 활동 등 참여형 프로그램 중심으로 진행됐다. 시장과 직원이 한 팀을 이뤄 종목을 수행하는 방식으로 세대 간 소통과 협업을 강조했다.&lt;br&gt;&lt;br&gt;이 시장은 “공직 사회의 변화는 제도나 시스템이 아니라 사람에서 시작된다”며 “젊은 공무원들이 자유롭게 의견을 내고 성장할 수 있는 환경을 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;시는 최근 인사·보상 체계도 손봤다. 올해 1월 정기 인사에서 9급 승진 인원을 기존 5명에서 23명으로 대폭 늘렸고, 특별승진과 함께 성과상여금을 두 배로 지급하는 대상자도 선정했다. 아울러 성과시상금 상한을 기존 2000만원에서 3000만원으로 확대하는 조례를 제정했다.&lt;br&gt;&lt;br&gt;복지 지원도 강화했다. 대학 등록금 지원액을 학기당 150만원에서 300만원으로 두 배 늘렸고, 국외 선진행정 연수 지원금도 1인당 270만원에서 300만원으로 상향했다. 육아시간 사용에 따른 업무 공백을 메우는 직원에게는 월 5만원의 업무대행 수당을 지급하고 있다. &lt;br&gt;&lt;br&gt;시 관계자는 “세대 간 공감과 협력을 바탕으로 한 조직문화 혁신을 지속적으로 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>태양광 화재 줄잇는데… “모든 공립 초·중학교에 설치”</title>
-      <link>https://www.chosun.com/national/education/2026/02/27/VNMMNQ2DRRHY3O6WOYTGM43MLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/02/27/VNMMNQ2DRRHY3O6WOYTGM43MLM/</guid>
-      <dc:creator>표태준 기자, 전준범 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCIMUS3Z2ZFCLGDLSFUL4OFJ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원구에 있는 한 고등학교 옥상에 태양광 설비가 설치돼 있는 모습. 정부는 이 같은 태양광 설비를 오는 2030년까지 일부 노후 학교를 제외한 모든 국공립 초·중·고에 설치할 계획이다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 2030년까지 전국의 모든 국공립 초·중·고교에 태양광 발전 설비를 설치한다. 정부가 2030년까지 온실가스를 2018년 대비 40%까지 줄이겠다고 밝힌 가운데, 교육부가 학교에 태양광 설비를 설치해 이를 뒷받침하겠다고 나선 것이다. 교육계에서는 태양광 설비 화재가 잇따르고 있고, 관리 미흡으로 설비가 방치된 경우도 많아 우려가 된다는 비판 목소리가 나왔다.&lt;br&gt;&lt;br&gt;교육부는 26일 이 같은 내용의 ‘햇빛이음학교 사업 추진계획’을 발표했다. 작년 기준 전국 국공립 초·중·고 1만315개교 중 3566개교(34.6%)에 태양광 설비가 설치돼 있다. 교육부는 올해 특별교부금 433억원 등을 투입해 총 400개교에 추가로 태양광 시설을 설치한다는 계획이다. 이후 2030년까지 소규모 학교나 노후 학교 2371개교를 제외한 전국 모든 국공립 초·중·고(7944개교)에 태양광 설비를 확충할 예정이다.&lt;b&gt; &lt;/b&gt;앞으로 교육부와 시도교육청 예산 수천억 원이 투입될 것으로 추산된다. 사립 학교에 대해서는 기후에너지환경부가 태양광 설비 설치 사업을 별도로 추진할 예정이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHY6P2KP5BCQTHCLNB4OM4NFLE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부는 50kW 규모 태양광 설비를 설치할 경우 학교당 연간 68MWh(메가와트시)를 발전하게 돼 전기 요금 약 1000만원이 절감되고, 학교당 연간 31.5톤의 온실가스 감축 효과(소나무 4771그루를 심은 효과)가 있을 것이라고 보고 있다. 최교진 교육부 장관은 이날 오전 브리핑을 열고 “학교마다 태양광 설비를 설치하는 데 1억6000만원이 들기 때문에 15년 정도가 지나면 투자금을 회수할 수 있을 것으로 보인다”며 “학생들이 기후변화·에너지문제를 실감할 수 있도록 태양광 설비를 교육 자원으로도 활용할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;학교 현장에서는 안전 문제가 우려된다는 목소리가 나왔다. 작년 10월 인천 남동구의 한 중학교 옥상에 있는 태양광 시설에 화재가 나 학생과 교직원 1120여 명이 외부로 대피하는 소동이 벌어졌다. 작년 9월 서울 강남구의 한 초등학교에서도 태양광 설비에서 화재가 발생해 1000여 명이 대피하는 등 매년 태양광 설비 관련 화재가 계속되는 상황이다. 아직 인명 피해는 발생하지 않았지만, 대처가 미흡할 경우 자칫 큰 화재 사고로 이어질까 우려된다는 것이다.&lt;br&gt;&lt;br&gt;한국교총은 이날 입장문을 내고 “태양광 설비로 인한 화재가 빈번히 발생하고 있고, 설비가 화재 발견이 어려운 옥상이나 상부 구조물에 설치돼 대응도 어렵다”며 “학교들이 안전사고 위험, 시설 관리와 책임 부담, 시설 노후화에 따른 유지·보수 업무, 옥상 방수 문제 등으로 태양광 설비 설치를 꺼리는 상황에서 상명하달식으로 정책을 추진해서는 안 된다”고 했다. 일각에선 사업자 선정 과정에서 ‘정치 논란’이 일어날 수 있다는 우려도 제기한다. 문재인 정부 때 친여 인사가 주로 있는 협동조합이 학교 태양광 사업에서 이권을 주장하는 등 논란이 끊이지 않았기 때문이다.&lt;br&gt;&lt;br&gt;실효성에 대한 의문도 제기된다. 2023년 정부 조사 결과 학교에 설치된 태양광 설비가 파손된 채로 방치되는 등 시설 관리 미흡 사례가 120건 발견되기도 했다. 결국 지난 정부는 2024년 학교의 태양광 설비 설치 등 친환경 시설 리모델링을 추진하는 ‘그린 스마트 미래학교 사업’ 예산을 대폭 삭감했다. &lt;br&gt;&lt;br&gt;정연제 서울과기대 교수는 “학교 입장에서는 전기 요금 절감 효과가 있고, 정부는 부족한 태양광 설비 부지를 학교 시설을 이용해 메울 수 있을 것으로 보인다”며 “다만 설치 이후 고장과 화재 등 관리 문제와 그에 따른 비용이 절감 효과보다 커지지 않도록 철저히 관리해야 한다”고 했다.&lt;br&gt;&lt;br&gt;교육부 관계자는 “학교 태양광 설비에 아크보호장치(설비에 불꽃이 발생했을 때 이를 검출해 차단하는 장치) 설치를 의무화하고, 4년 단위 법정 검사 주기도 1년으로 단축하겠다”며 “과도하다고 생각될 정도의 선제적 조치를 마련해 안전 문제가 발생하지 않도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“강남 집은 위험자산”이라던 이한주, 갭투자로 60억대 청담동 아파트 보유</title>
       <link>https://www.chosun.com/politics/goverment/2026/02/27/STBQG2R47NFILGA5LAEG4TXXWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/02/27/STBQG2R47NFILGA5LAEG4TXXWY/</guid>
@@ -949,15 +962,6 @@
       <pubDate>Thu, 26 Feb 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSPF5OKK4VHR5J5QS7Q3MWBLS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 서울 은평구 서울소방학교에서 서울소방재난본부가 구조 훈련을 하고 있다. 지하철역에 불이 나 연기가 자욱한 상황을 가정한 훈련이다. ‘4족 보행 로봇’이 쓰러진 시민을 찾아내자 구조대가 들것에 태우고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>반포대교서 추락한 포르쉐... 車 안엔 프로포폴병·주사기 </title>
-      <link>https://www.chosun.com/national/national_general/2026/02/26/Y7UIXSVNJ5DBPDLHWM67QGHGLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/26/Y7UIXSVNJ5DBPDLHWM67QGHGLI/</guid>
-      <dc:creator>양인성 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Feb 2026 02:17:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYGIYTEGE2TGZTEMUYTSMTBMI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 8시 44분 서울 반포대교를 달리던 포르쉐 차량이 다리 밑 한강 둔치로 추락했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 서울 용산경찰서는 반포대교를 달리다 다리 밑 한강 둔치로 추락한 포르쉐 운전자 30대 여성 A씨를 마약류관리법 위반 및 도로교통법상 약물 운전 혐의로 긴급체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 25일 오후 8시 44분 검은색 포르쉐를 몰고 반포대교를 주행하다 난간을 뚫고 잠수교 인근 한강 둔치로 떨어져 타박상을 입고 병원으로 이송됐다. 추락 과정에서 포르쉐가 덮친 벤츠 운전자인 40대 남성 B씨도 경상을 입어 치료받았다.&lt;br&gt;&lt;br&gt;A씨 차량에서는 프로포폴 빈 병과 약물이 채워진 일회용 주사기와 의료용 관 등이 다량 발견된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 현재 병원에서 치료를 마친 뒤 경찰에 출석한 상태다. 경찰은 A씨를 상대로 정확한 사고 경위와 약물 출처 등을 조사한 뒤 구속영장 신청 여부를 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
