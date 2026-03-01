@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>현관문에 오물·래커칠… ‘보복대행’ 20대 구속</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/03/01/P4HEBSLTKFAGZD2K37HW2LNWB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/03/01/P4HEBSLTKFAGZD2K37HW2LNWB4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 13:01:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4DGYZWMFRDGMZRHAZDCOLFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화성동탄경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성동탄경찰서는 돈을 받고 타인의 집 현관문에 오물을 뿌리고 래커칠을 한 혐의(재물손괴)로 A(20대)씨를 구속했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 22일 오후 8시 30분쯤 화성시 동탄신도시의 한 아파트 15층 세대 현관문에 음식물 쓰레기를 뿌리고 빨간색 래커 페인트로 낙서를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 해당 세대 거주자를 비방하는 내용의 유인물을 수십 장 뿌리고 인분을 남기기도 했다.&lt;br&gt;&lt;br&gt;신고를 받고 수사에 나선 경찰은 지난달 26일 A씨를 긴급체포했다. 법원은 이날 도주 우려 등을 이유로 A씨에 대해 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “텔레그램 광고를 통해 알게 된 상선의 지시를 받고 보복 대행을 했다”면서 “상선의 신원은 알지 못한다”고 진술했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 80만원 상당의 가상화폐를 대가로 받고 범행을 저지른 것으로 보고 상선을 추적하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 장관 “중동 교민 안전 위해 모든 역량 집중”  </title>
+      <link>https://www.chosun.com/national/court_law/2026/03/01/LREMAU5WG5GAHFU3XJX3XQG5U4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/01/LREMAU5WG5GAHFU3XJX3XQG5U4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 11:51:35 +0000</pubDate>
+      <content:encoded>정성호 법무부 장관은 1일 미국과 이스라엘의 공습으로 아야톨라 세예드 알리 하메네이 이란 최고지도자가 사망해 중동 정세의 불확실성이 급격히 확대된 데 대해 “우리 교민의 안전을 지키는 데 모든 행정 역량을 집중하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G56ZX4FC2RONHEYNNGL2J5CRLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 페이스북을 통해 “최근 이란 사태로 우리 교민들의 안전에 대한 국민적 우려가 매우 큰 상황”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;이에 법무부 출입국본부는 중동 지역 교민들의 긴급 귀국 상황에 선제적으로 대비하기 위해 인천국제공항에 ‘전용 입국심사대’를 운영할 방침이다. 또 심사 인력을 탄력적으로 배치해 교민과 그들의 동반 외국인 가족들이 신속하게 입국할 수 있도록 지원할 계획이라고 정 장관은 설명했다.&lt;br&gt;&lt;br&gt;법무부는 현재 외교부 등 관계 부처와 긴밀한 협조 체제를 유지하며 현지 상황 변화를 실시간으로 주시하고 있다. 정 장관은 “중동 상황을 면밀히 살피며 우리 국민과 교민의 안전을 지키는 데 법무부의 모든 역량을 동원하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>군산 금강하굿둑 인근서 시신 발견… 1월 실종된 20대 추정</title>
       <link>https://www.chosun.com/national/regional/honam/2026/03/01/X7IPYZS5EJEJBKWWLTOGCRC3PM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/03/01/X7IPYZS5EJEJBKWWLTOGCRC3PM/</guid>
@@ -922,24 +940,6 @@
       <description/>
       <pubDate>Fri, 27 Feb 2026 05:56:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYDSMLEG43TGYLFG44GCZTFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024학년도 수능 최고령 수험생이었던 김정자 할머니(85)가 27일 서울 용산구 숙명여자대학교에서 열린 2025학년도 전기 숙명여자대학교 미래교육원 학위수여식에 앞서 열린 언론 인터뷰에서 미소를 짓고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;78세에 한글을 배우기 시작해 2024학년도 수능 최고령 수험생으로 주목받았던 김정자(85) 할머니가 27일 숙명여대 미래교육원 사회복지학 전공 과정을 마치고 졸업했다. &lt;br&gt;&lt;br&gt;이날 남색 졸업 가운에 학사모를 쓴 김 할머니는 굽은 허리로 단상에 올라 “이 모든 순간은 학교에서 배운 공부와 응원해 준 고마운 친구들 덕분”이라고 말했다. 입학부터 졸업까지 감사한 마음뿐이었다고도 했다.&lt;br&gt;&lt;br&gt;올해 85세인 김 할머니는 78세에 한글 공부를 시작했다. 이후 중·고등학교를 차례로 졸업하고 숙명여대에 입학했다. 2023년 tvN 예능 프로그램 ‘유퀴즈 온 더 블록’에 출연해 화제를 모았고, 지난해 대한민국 전국 평생학습교육원 제22회 대회에 응시해 교육부 장관상을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PFBGE7AJVNLMLBNMV4I2R4XKB4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024학년도 수능 최고령 수험생이었던 김정자 할머니(85·앞줄 왼쪽 네번째)가 27일 서울 용산구 숙명여자대학교에서 열린 2025학년도 전기 숙명여자대학교 미래교육원 학위수여식에서 졸업생 및 교직원들과 학사모를 던지며 기뻐하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 할머니의 대학 생활은 순탄치만은 않았다. 통학에만 세 시간 넘게 걸렸고, 컴퓨터를 다루지 못해 보고서를 손으로 써야 했다. 그는 “걸음을 잘 못 걸어 휘경동 집에서 오는 데 3시간 반이 걸렸다”며 “대학 와서 보니 공부가 고등학교 때와 천지 차이라 리포트 쓰는 게 너무 힘들었다”고 말했다. 무거운 교재를 들고 다닐 수 없어 같은 책을 두 권 사 한 권은 집에, 한 권은 학교에 두고 공부를 이어 갔다고 했다. 한 번 수업을 놓치면 다시 배우기 어렵다는 생각에 결석도 최대한 하지 않았다고 한다.&lt;br&gt;&lt;br&gt;고단한 학업 여정을 지탱해 준 것은 주변의 따뜻한 배려 덕분이었다. 그는 “얼마 전 바람도 불고 너무 추웠는데 한 여학생이 ‘할머니, 택시 타시려고 그래요’ 하면서 택시를 잡아줘서 너무 고마웠다”며 “역까지 데려다주는 학생들도 아주 많았다”고 했다. 수업이 끝난 뒤 교수실을 찾아갈 때마다 질문을 받아준 교수들에게도 감사의 뜻을 전했다.&lt;br&gt;&lt;br&gt;김 할머니는 앞으로 아동학 연계 전공(4년제)에 추가 입학해 학업을 이어갈 계획이다. 그는 “어려운 환경에 있는 아이들에게 작은 희망이라도 전달하고 싶다”며 “건강이 허락할지 모르겠지만 하늘이 부르는 그날까지 연필을 내려놓지 않겠다”고 밝혔다. 해외에 있는 손주들과 영어로 대화하고 싶다는 목표를 위해 영어 공부도 계속할 것이라고 전했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘10년만에 열린다’...제주~인천 직항 노선 4월 운항 재개</title>
-      <link>https://www.chosun.com/national/regional/2026/02/27/KCV6YIAM2VHPTB2OFL22DT63X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/27/KCV6YIAM2VHPTB2OFL22DT63X4/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 05:44:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2DMZLDHFSTMMBYHE2DKMBUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주국제공항/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주와 인천을 잇는 직항 항공 노선이 이르면 4월부터 운항에 들어간다. 지난 2016년 10월 운항이 중단된 이후 10년 만에 재개되는 것이다.&lt;br&gt;&lt;br&gt;27일 제주도와 항공업계에 따르면 정부는 지난 25일 대통령 주재로 열린 제11차 국가전략회의에서 ‘방한 관광 대전환 및 지역관광 대도약’을 주제로 주요 관광정책을 심의·확정했다. 국가관광전략회의는 관광기본법에 따라 국무총리 산하에 설치된 국가 최고 관광정책 심의·조정 기구다.&lt;br&gt;&lt;br&gt;이번 회의에서는 외국인 관광객이 인천공항에서 곧바로 지방으로 이동할 수 있도록 인천-지방공항 직항노선을 단계적으로 확대하는 내용이 논의됐다.&lt;br&gt;&lt;br&gt;제주 노선은 2분기부터, 김해 노선은 3분기부터 운항될 예정이다. 다른 지방공항은 4분기 운항을 목표로 추가 검토가 진행된다.&lt;br&gt;&lt;br&gt;국토교통부와 항공사 간 신규 노선 허가와 운항 일정 조율도 이미 진행되고 있는 것으로 알려졌다. 운항사는 저비용항공사 중 한 곳으로 전해졌다.&lt;br&gt;&lt;br&gt;인천-제주 노선은 2001년 인천국제공항 개항 이후 본격적으로 운항됐다. 하지만 김포~제주 노선에 비해 수요가 적어 점차 축소되다가 2016년 10월 전면 중단됐다. 당시 탑승률 저조와 만성적인 적자가 원인이었다.&lt;br&gt;&lt;br&gt;그러나 코로나 이후 해외여행 수요가 급증하면서 노선 재개 요구가 커졌다. 제주도는 2024년 11월 국토부와 국회에 인천~제주 직항 노선 개설을 공식 건의했었다.&lt;br&gt;&lt;br&gt;직항 노선이 재개되면 인천공항으로 입국한 외국인 관광객과 인천·경기 서북부 지역 주민들이 제주로 곧바로 이동할 수 있어 시간과 비용 절감 효과가 기대된다.&lt;br&gt;&lt;br&gt;이동 편의성 개선은 국제학교 경쟁력 강화, 외국인 학생 유치, 관광업 전반에도 긍정적인 영향을 줄 것으로 전망된다.&lt;br&gt;&lt;br&gt;해외여행을 떠나는 제주도민들의 편의도 크게 향상될 것으로 보인다. 제주도는 운항에 들어가는 항공사의 적자 보전을 위해 ‘제주도 국제항공노선 및 국제해상여객 운송 노선 확충 지원조례’를 개정해 국내선에도 지원할 수 있는 근거를 마련하거나, 관광기금을 투입하는 방안 등을 검토하고 있다.&lt;br&gt;&lt;br&gt;오영훈 지사는 “제주도가 지속적으로 운항을 요구했던 인천-제주 직항노선 신설이 제주 관광의 새로운 도약 기회가 될 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘항생제 폐수로 천연가스 생산’…전북대 오병택 교수팀, 신기술 개발</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/02/27/352B2HPJFRCEDOUHKR2G5ZMSSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/02/27/352B2HPJFRCEDOUHKR2G5ZMSSI/</guid>
-      <dc:creator>전북=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 05:36:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDYY5JVYX5C2FNYV6NIAVROWSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북대 오병택 교수팀./전북대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원과 제약 공장 등에서 쏟아지는 ‘항생제 폐수’는 여러 종류의 항생제가 뒤섞여 있어 처리가 까다로운 대표적인 수질 오염원이다. 그런데 이 골칫거리 폐수를 깨끗하게 정화하면서 동시에 친환경 바이오에너지까지 생산해 내는 기술을 국내 연구진이 개발했다. &lt;br&gt;&lt;br&gt;전북대는 생명공학부 오병택 교수와 하르샤바르단 모한(Harshavardhan Mohan) 박사 연구팀이 항생제 오염 폐수를 정화하고 메탄가스를 생산하는 새로운 수처리 기술을 개발했다고 27일 밝혔다. 이 연구 결과는 화학공학 분야 국제 저명 학술지인 ‘케미컬 엔지니어링 저널(Chemical Engineering Journal)’ 최신호에 게재되며 학계의 주목을 받고 있다.&lt;br&gt;&lt;br&gt;연구팀은 미생물과 전기를 결합한 ‘생물전기화학 시스템(BES)’을 활용해 기술을 개발했다. 미생물이 오염물질을 분해하는 자연적인 과정에 미세한 전기 자극을 더해 분해 능력을 극대화하는 원리다.&lt;br&gt;&lt;br&gt;핵심은 두 종류의 미생물이 벌이는 ‘연계 대사’에 있다. 연구팀은 항생제를 갉아먹는 분해균(ACD-08)과 메탄을 만들어내는 생성균(MB-04)을 하나의 시스템 안에서 함께 배양했다.&lt;br&gt;&lt;br&gt;먼저 전극의 음극에서 항생제 분해균이 항생제를 산화시켜 휘발성 지방산(VFA)이라는 중간 물질로 쪼개 놓으면, 양극에 있던 메탄 생성균이 이 물질을 이어받아 메탄가스를 뿜어낸다. &lt;br&gt;&lt;br&gt;한 미생물이 만든 부산물을 다른 미생물이 먹이로 삼는 구조를 완성한 것이다. 여기에 전기 자극이 더해져 미생물 간의 전자 이동이 활발해지면서 미생물의 성장이 촉진되고 전체적인 처리 성능이 개선됐다. &lt;br&gt;&lt;br&gt;연구팀이 최적의 환경에서 실험한 결과 섞여 있던 6종의 항생제가 79% 이상 제거됐다. 수질 오염도를 나타내는 화학적 산소 요구량(COD) 역시 91% 이상 크게 떨어졌다. 정화 과정과 동시에 7.55(±0.78) mmol에 달하는 메탄가스를 생산해 내며 오염 저감과 에너지 회수라는 두 마리 토끼를 잡는 데 성공했다.&lt;br&gt;&lt;br&gt;연구를 주도한 모한 박사는 “실제 현장의 폐수는 여러 항생제가 섞여 있어 처리 난도가 무척 높다”며 “이번 기술은 다양한 항생제를 동시에 줄이면서 유용한 메탄까지 회수할 수 있다는 점에서 의미가 크다”고 설명했다.&lt;br&gt;&lt;br&gt;오병택 교수는 “이번 연구는 항생제 폐수를 단순히 처리해야 할 오염물이 아닌, 에너지를 캘 수 있는 자원으로 전환할 수 있는 가능성을 제시했다”며 “환경오염 저감과 에너지 생산을 아우르는 통합 기술로서, 향후 실제 산업 현장에 적용할 수 있도록 발전시켜 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 與 ‘사법 3법’ 강행에... 박영재 법원행정처장 사의 표명</title>
