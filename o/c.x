@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울광장 크기 문화마당 생긴다… 송현문화공원 계획 확정</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/01/HCKBPAIUSJDOLJMSDMGKFLE44Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/01/HCKBPAIUSJDOLJMSDMGKFLE44Y/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 04:43:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBRHBRJEKBCWDICZZDRS54HFLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송현문화공원 예상 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구에 위치한 송현동 부지(송현동 48-9일대)가 녹지와 광장을 갖춘 ‘송현문화공원’으로 조성된다.&lt;br&gt;&lt;br&gt;서울시는 지난달 24일 열린 제2차 도시공원위원회에서 ‘송현문화공원 조성계획’이 심의를 통과해 세부 시설 계획이 확정됐다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;송현문화공원은 녹지 1만8544㎡를 중심으로 광장·보행공간, 휴양시설, 수경시설 등을 갖춘 도심형 문화공원으로 조성된다.&lt;br&gt;&lt;br&gt;공원 중앙부는 건축물을 최소화해 비워 두고 인왕산과 북악산을 조망할 수 있는 열린 경관으로 설계한다. 과거 송현 일대의 소나무 숲과 언덕을 현대적으로 복원한 ‘송현산마루 숲’과 ‘솔담채 언덕’을 조성하고, 물길과 수변 식생이 어우러진 ‘송현물길’을 배치한다. 식물을 활용한 ‘서울형 매력가든(송현사색원)’을 함께 마련해 계절마다 색감이 달라지는 정원형 공간을 선보인다. 이와 함께 산책로와 그늘 쉼터를 곳곳에 두어 머무는 공원으로 꾸민다.&lt;br&gt;&lt;br&gt;공원 중심에는 약 6200㎡ 규모의 ‘송현문화마당’을 조성한다. 서울광장과 맞먹는 규모의 열린 잔디 광장으로, 공연·전시·소규모 축제·시민 프로그램 등이 가능한 공간으로 활용할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUZUXDZB6ZHP7JX4VX3PGTOMI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송현문화공원 내 송현문화마당과 송현물길 예상 이미지. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하에는 지하 3층 규모의 주차장이 조성된다. 지하 1층에는 승용차 270면, 지하 2~3층에는 관광버스 90면 규모의 주차장이 들어선다. 지하 주차장 캐노피에는 한국 전통 처마를 재해석한 디자인을 적용한다.&lt;br&gt;&lt;br&gt;공원 동측에 들어설 이건희 기증관(가칭)에는 송현문화공원을 내려다볼 수 있는 전망대를 마련한다. 공원 이용객도 자유롭게 이용할 수 있도록 할 계획이다.&lt;br&gt;&lt;br&gt;송현문화공원 조성은 하반기 착공해 2029년 준공을 목표로 추진되며, 이건희 기증관 건립과 동시에 사업이 진행된다.&lt;br&gt;&lt;br&gt;김용학 서울시 미래공간기획관은 “송현문화공원 조성은 단순히 공원 하나 더 만드는 것이 아니라 서울 도심의 녹지를 복원하고 문화·예술·관광이 어우러지는 새로운 도시 모델을 제시하는 사업”이라며 “시민이 일상에서 쉼과 문화를 함께 누리는 대표 공간이 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사망한 아버지 유치원 물려받았더니 정원 감축 처분... 법원 “적법” 판단</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/01/HGD4AHZYBZCC3BNCBYFVD4MKYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/01/HGD4AHZYBZCC3BNCBYFVD4MKYY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 04:14:28 +0000</pubDate>
+      <content:encoded>사망한 아버지로부터 유치원을 물려받기 위해 설립자 변경 인가를 신청했다가 정원 감축 처분을 받은 운영자들이 처분이 부당하다며 소송을 냈지만 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BYO33NCFBP4GBEAYH4GTLKW6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 서울행정법원 행정14부(재판장 이상덕)는 지난해 12월 유치원 운영자 김모씨 등이 강동송파교육지원청을 상대로 제기한 유치원 설립자 변경 인가 처분 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;김씨 등의 아버지는 1997년 3개 학급, 정원 100명 규모로 유치원 설립 인가를 받았다. 김씨 등은 아버지가 사망하자 이 유치원의 설립·경영자 지위를 승계하기 위해 교육지원청에 설립자 변경 인가를 신청했는데, 교육지원청은 올해부터 유치원 정원을 74명으로 감축하는 설립 변경 인가 처분을 내렸다. 이는 유치원 최초 설립 인가 당시 적용된 학교시설·설비기준령이 순차 개정됐기 때문인데, 현행 법령상 이 유치원은 원아 100명을 수용하기 위한 면적 기준을 충족하지 못해 정원을 줄이라고 한 것이다. 이에 김씨 등은 “상속을 이유로 한 변경 인가 과정에서 교육지원청이 강화된 시설 기준을 갖추도록 요구할 법령상 근거가 없다”며 처분을 취소해달라는 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 김씨 등 원고 측 주장을 받아들이지 않았다. 재판부는 “설립 변경 인가 절차는 단순히 승계인의 사법상 권리를 확인하는 절차가 아니라 승계인이 유아교육법령상 유치원을 설립·경영할 수 있는 요건들을 갖췄는지 심사하는 절차”라고 판시했다. 그러면서 “유치원 최초 개원 시점부터 28년이 지났고, 그사이 과밀 학급을 해소하고 쾌적한 환경에서 양질의 교육 서비스를 제공해야 한다는 교육 수요 내지 인식 전환이 발생했다”며 “1997년 이후 순차 도입된 유치원 교사·교실 면적 규정은 이 사회·경제적 여건의 변화를 반영한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “유치원 교육의 공공성, 사립유치원이 국가와 지방자치단체에서 재정 지원을 받는 점 등을 고려하면 강화된 유치원 시설 기준을 설립·경영자 변경 시부터 적용해 달성하려는 공익이 그로 인한 설립·경영자들의 불이익보다 우월하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쑥쑥 큰 돈나무 덕에…복권 10억 터졌다</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/01/ZDSPK73OYVC37PL4NQ2JNBQFNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/01/ZDSPK73OYVC37PL4NQ2JNBQFNE/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 01:14:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2RLAHE635NPFL3P5U4DHN7UYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 복권판매점. 사진은 기사와 적접적 관계 없음. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에서 기르던 금전수가 좋은 기운을 불러온 덕에 복권 1등에 당첨됐다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;복권 수탁 사업자 동행복권은 지난달 27일 공식 홈페이지를 통해 ‘스피또2000’ 66회차 1등 당첨자 A씨의 사연을 소개했다.&lt;br&gt;&lt;br&gt;경기도 용인시 처인구의 한 복권 판매점에서 즉석복권을 구입한 A씨는 당첨금 10억원의 행운을 품에 안았다.&lt;br&gt;&lt;br&gt;A씨는 “평소 일주일에 한 번씩 로또를 구매하는 편인데, 그날은 우연히 2년 만에 스피또2000을 한 장 구매했다”며 “구매한 다음에 바로 당첨 확인을 했는데 1등이 나와 순간 너무 얼떨떨하고 믿기지가 않았다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “바로 집으로 달려가 부모님께 보여드렸다”며 “모두 놀라서 진짜 당첨이 맞는지 여러 번 확인했고, 당첨이라는 걸 알고 함께 환호했다”고 당시를 떠올렸다.&lt;br&gt;&lt;br&gt;특히 A씨의 부모님은 “집에서 키우는 금전수가 올해 유독 눈에 띄게 잘 자라고 있어 왠지 좋은 일이 있을 것 같았는데 이런 행운이 올 징조였던 것 같다”면서 기뻐했다고 한다. 금전수는 잎 모양이 동전을 이어 놓은 듯한 모습이어서 ‘돈나무’로 불린다. 이 때문에 재물운을 끌어들이는 식물로 여겨진다.&lt;br&gt;&lt;br&gt;A씨는 당첨금 일부는 부모님께 드리고, 남은 돈은 예금하거나 집을 사는 데 보탤 예정이라고 했다. 그러면서 그는 ‘당첨자 소감 한마디’에 “좋은데 돈이 너무 적어요”라고 적었다.&lt;br&gt;&lt;br&gt;스피또2000은 게임별 행운 그림 2개가 모두 일치하면 당첨되는 즉석 복권으로 판매 가격은 한 장당 2000원이다. 2장으로 된 세트를 구매하면 1등 2매 동시 당첨될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“계엄 아지트 된 삼청동 안가, 독립운동가 집으로 복원해야 ” </title>
       <link>https://www.chosun.com/national/2026/03/01/HOUQUO6IE5ESZH64RCXVAXURAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/03/01/HOUQUO6IE5ESZH64RCXVAXURAE/</guid>
@@ -902,15 +929,6 @@
       <content:encoded>한국갤럽 여론조사에서 이재명 대통령 지지율이 64%를 기록했다. 더불어민주당 지지율은 43%, 국민의힘 지지율은 22%였다. 윤석열 전 대통령에 대한 무기징역 선고에 대해서는 39%가 ‘미흡하다’, 29%가 ‘적절하다’, 24%가 ‘과도하다’고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFILHXCNDJGNZJHJFBIXGV4LOQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여론조사 업체 한국갤럽이 지난 24~26일 시행해 27일 공개한 조사 결과에 따르면, 이 대통령의 국정 수행을 긍정적으로 평가한 응답자는 64%로, 2주 전보다 1%포인트(p) 늘었다. 부정적으로 평가한 응답자는 26%로 2주 전과 같았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMWJJGS4FFGSDFJTSOEESMGOLY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;응답자 지역별로 보면, 이 대통령 지지율은 호남에서 82%로 가장 높았고, 충청 68%, 서울 64%, 인천·경기 62%, 부산·울산·경남 61%였다. 대구·경북은 48%였다. 연령별로 보면, 이 대통령 지지율은 50대에서 79%, 40대에서 76%, 60대에서 66%였다. 30대에서 55%, 70대 이상에서 54%였고, 10·20대(18~29세)에서만 47%로 절반을 밑돌았다. 정치 성향별로 보면, 진보층의 89%, 중도층의 68%, 보수층의 42%가 이 대통령 국정을 긍정 평가했다.&lt;br&gt;&lt;br&gt;이 대통령 긍정 평가자의 17%는 경제·민생을, 다른 17%는 부동산 정책을 이유로 들었다. 11%는 외교, 8%는 소통을 꼽았고, 6%는 전반적으로 잘한다고 했다. 이 대통령 부정 평가자의 15%는 부동산 정책, 10%는 경제·민생·고환율, 8%는 외교를 지적했고, 6%는 전반적으로 잘못한다고 봤다. 다른 6%는 도덕성 문제 또는 자격 미달을 꼽았다.&lt;br&gt;&lt;br&gt;민주당 지지율은 43%로 2주 전보다 1%p 낮았고, 국민의힘 지지율은 22%로 2주 전과 같았다. 이어서 조국혁신당 3%, 개혁신당 2%, 진보당 1%였다. 그 밖의 정당을 지지한다는 응답자는 1%, 무당층은 28%였다.&lt;br&gt;&lt;br&gt;민주당 지지율은 지역별로 보면 호남에서 63%였고, 충청(45%), 인천·경기(42%), 부산·울산·경남(42%), 서울(41%)에서 40%를 웃돌았다. 대구·경북에서는 25%였다. 연령별로 보면, 50대(59%)와 40대(50%), 60대(49%)에서 40%가 넘었고, 70대 이상 38%, 30대 33%, 10·20대 22%였다.&lt;br&gt;&lt;br&gt;국민의힘 지지율은 대구·경북에서 가장 높았으나 36%에 그쳤다. 충청과 부산·울산·경남에서 각각 25%, 서울에서 21%, 인천·경기에서 20%였다. 호남에서는 4%였다.&lt;br&gt;&lt;br&gt;지난 19일 서울중앙지법이 윤석열 전 대통령에게 내란 우두머리죄로 무기징역을 선고한 것에 대해서는 응답자 39%가 ‘미흡하다’고 답했다. 29%는 ‘적절하다’, 24%는 ‘과도하다’고 했다. 9%는 잘 모르겠다고 답하거나 응답을 거절했다.&lt;br&gt;&lt;br&gt;무기징역이 미흡하다는 응답자는 50대(56%), 40대(51%), 60대(46%)에서 많았다. 무기징역이 적절하다는 응답자는 10·20대(39%)와 30대(38%)에서 비교적 많았다. 70대 이상에서는 과도하다는 응답이 36%로 가장 많았다. 또 진보층의 62%는 무기징역이 미흡하다고 봤으나, 중도층에서는 미흡하다(40%)는 응답과 적절하다(33%)는 응답이 엇갈렸다. 보수층의 47%는 무기징역이 지나치다고 봤고, 23%는 적절하다, 다른 23%는 미흡하다고 봤다.&lt;br&gt;&lt;br&gt;12·3 비상계엄이 내란이라는 데에는 응답자 64%가 동의했다. 내란이 아니라는 응답자는 24%, 잘 모르겠다고 답하거나 응답을 거절한 사람은 12%였다. 진보층의 89%, 중도층의 71%가 12·3 계엄을 내란으로 봤다. 보수층에서는 내란이 아니다(52%)와 내란이다(41%)라는 응답이 엇갈렸다.&lt;br&gt;&lt;br&gt;한국갤럽 조사는 지난 24일부터 26일까지 사흘간 18세 이상 ~명을 대상으로 무선 전화 인터뷰 100% 방식으로 진행됐다. 응답률은 11.8%, 표본 오차는 95% 신뢰 수준에서 ±3.1%포인트였다. 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“결혼자금 3억, 삼전·하닉에 반반 투자”...공무원 투자글 화제</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/27/YYXHW2EMMVDRNCONNDR4SKUTOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/27/YYXHW2EMMVDRNCONNDR4SKUTOU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 02:40:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFTGIZJSHFSWGOLGGZSTGOJZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코스피가 6000선을 넘어선 25일 서울 중구 우리은행 본점 딜링룸에서 직원들이 6000선 돌파를 기념하는 세리모니를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코스피 지수가 6000선을 넘어서는 강세 흐름 속에서 결혼 자금 3억원을 국내 대표 반도체 종목에 투자했다는 한 공무원의 사연이 온라인에서 주목받고 있다. 상승장을 기회로 삼겠다는 판단이었지만, 단기 급등 이후 변동성이 커지면서 우려와 응원이 엇갈리고 있다.&lt;br&gt;&lt;br&gt;26일 여러 온라인 커뮤니티에는 ‘여자친구랑 합의해서 모아온 결혼 자금 오늘 삼전·하닉 반반씩 삼’이라는 제목의 글이 확산했다. 이 글은 지난 24일 직장인 커뮤니티 블라인드 주식·투자 채널에 올라왔다. &lt;br&gt;&lt;br&gt;자신을 공무원이라고 밝힌 A씨는 “여자친구와 합의해 모아온 결혼 자금 3억원을 삼성전자와 SK하이닉스에 절반씩 투자했다”고 밝혔다. 그는 삼성전자를 주당 19만9700원에, SK하이닉스를 100만2000원에 각각 1억5000만원어치 매수한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 “여자 친구와 서로 1년 뒤 이 3억원이 10억원이 될 것이라고 믿는다”며 “서울 집으로 한 번에 들어가려고 많은 고민을 했는데 아직 상승장 초입이고 국장 뉴노멀 시대에 기회라고 판단했다”고 했다. 당초 결혼식 비용과 전세 보증금으로 사용할 계획이었던 자금을 반도체 ‘투톱’ 종목에 집중 투자해 자산을 불리겠다는 취지다.&lt;br&gt;&lt;br&gt;투자 직후 흐름은 긍정적이었다. 전날 삼성전자는 전장 대비 7.13% 오른 21만8000원, SK하이닉스는 7.96% 오른 109만9000원에 거래를 마치며 최고가를 경신했다. A씨는 사흘 만에 약 2800만원의 평가 수익을 거둔 것으로 추산됐다.&lt;br&gt;&lt;br&gt;다만 26일(현지 시각) 밤 뉴욕 증시에서 엔비디아가 급락하고, 미·이란 핵 협상이 결렬되는 등 대외 악재가 겹치면서 분위기는 급변했다. 국내 반도체주도 하락세로 돌아섰고, 27일 오전 국내 증시 역시 하락 출발했다.&lt;br&gt;&lt;br&gt;온라인에서는 A씨의 투자 방식을 두고 엇갈린 반응이 이어졌다. 일부 네티즌은 “기한 있는 돈으로 주식하면 안 된다” “이런 걸 도박이라고 한다” “고점에 샀다”며 우려를 나타냈다. 반면 “지금도 오를 여지는 충분하다” “신혼집 대신 주식 사서 웃는 사람 많다”는 반응도 나왔다.&lt;br&gt;&lt;br&gt;증권가에서는 인공지능(AI) 반도체 시장의 성장세가 당분간 이어질 가능성에 무게를 두면서도, 단기 급등에 따른 피로감과 대외 경제 변수에 따른 변동성 확대 가능성을 경계해야 한다는 분석을 내놓고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“두쫀쿠 다음은 봄동 비빔밥” 18년 전 강호동 먹방 타고 인증샷 열풍</title>
       <link>https://www.chosun.com/national/national_general/2026/02/27/ELDRW2JH5BAVRFQTRXJG57XBDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/27/ELDRW2JH5BAVRFQTRXJG57XBDI/</guid>
@@ -921,27 +939,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YW7HEBJZAJEVTC2FHMJQGF7V5I.jpg?auth=1b4294467c390758ee8f119b6081edb3a6d2811746a256286c2a06cf85c524c7&amp;smart=true&amp;width=482&amp;height=362" type="image/jpeg" height="362" width="482">
         <media:description type="plain">봄동</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>부산서 빗길에 넘어진 오토바이, 승용차가 ‘쾅’… 1명 사망</title>
-      <link>https://www.chosun.com/national/incident/2026/02/27/E6EUCB5UXBD5DJLQPF2RDICICM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/27/E6EUCB5UXBD5DJLQPF2RDICICM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 02:27:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENQIO5GRTVDLJBQPYUHCNWGROI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 부산 강서구 구포대교 사고 현장. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 구포대교에서 빗길에 넘어진 오토바이 운전자가 차량에 치여 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;27일 오전 5시 54분쯤 부산 강서구 구포대교에서 70대 남성 A씨가 타고 있던 오토바이가 넘어졌다. 이어 뒤따르던 승용차가 A씨를 그대로 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 빗길에 오토바이가 미끄러져 넘어지면서 사고가 난 것으로 보고, 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ENQIO5GRTVDLJBQPYUHCNWGROI.jpg?auth=cfb91ef1fd792ef23d369317a98c46adf452debbd4274c5355eef4b5ef6d84e0&amp;smart=true&amp;width=904&amp;height=1280" type="image/jpeg" height="1280" width="904">
-        <media:description type="plain">27일 오전 부산 강서구 구포대교 사고 현장. /부산경찰청</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>경북도, 산지전용 허가 기준 완화… “활용도 높인다”</title>
-      <link>https://www.chosun.com/national/regional/2026/02/27/2C73KHLGFRBR3HXH5AEWNRCKIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/02/27/2C73KHLGFRBR3HXH5AEWNRCKIU/</guid>
-      <dc:creator>안동=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 02:20:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTQMGN236VFHLKMXYOWEZNSPUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도 인구감소지역 산지전용 허가 기준 완화./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도는 산지전용 허가 기준 완화를 뼈대로 한 ‘경상북도 산지전용허가기준 조례’ 공포로 산지 활용도를 높일 수 있게 됐다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;정경민 도의원이 대표 발의해 제정된 ‘경북도 산지전용허가기준 조례’는 지난해 1월 개정된 ‘산지관리법 시행령’ 제20조 제7항에 따라 지방자치단체 조례로 산지전용허가기준 일부를 조정할 수 있게 된 내용을 지역 실정에 맞게 반영한 것이다. &lt;br&gt;&lt;br&gt;이 조례에 따라 도지사 권한으로 정하는 산지전용허가기준 가운데 ‘전용하려는 산지의 평균경사도, ㏊당 입목축적, 표고 기준’이 경북 22개 시군 중 인구 감소 지역 15개 시군은 최대 20% 완화됐고 일반 지역 7개 시군은 10% 완화됐다. &lt;br&gt;&lt;br&gt;평균경사도 기준의 경우 기존 25도 이하에서 인구 감소 지역은 30도 이하로, 일반 지역은 27.5도 이하로 각각 조정됐고, ㏊당 입목축적 기준은 시군 평균의 150% 이하에서 인구 감소 지역은 180% 이하로, 일반 지역은 165% 이하로 설정됐다. 표고(산자락 하단부를 기준으로 한 산정부의 높이) 기준은 기존 산높이의 50% 미만에서 인구 감소 지역은 60% 미만으로, 일반 지역은 55% 미만으로 완화됐다.&lt;br&gt;&lt;br&gt;경북 인구 감소 지역은 안동·영주·영천·상주·문경·의성·청송·영양·영덕·청도·고령·성주·봉화·울진·울릉 등 15곳이고, 일반 지역은 포항·경주·김천·구미·경산·칠곡·예천 등 7곳이다. &lt;br&gt;&lt;br&gt;이번에 공포된 조례로 산지의 활용 가능 면적이 넓어져 산업단지, 관광단지, 주택단지 등 산지가 포함된 대규모 민간 개발 사업 투자가 활발해져 지역 경제에 도움이 될 것으로 경북도는 기대하고 있다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 “산림은 경상북도의 70%(129만㏊)를 차지하는 가장 큰 자원인데 그동안 활용을 잘 못하고 보존만 해왔다”며 “이제는 산림을 바라만 보는 자원이 아니라 경제 발전의 금맥이자 지역 발전의 터전으로 활용해야 한다”고 했다. 이어 “개발할 수 있는 산림은 최대한 활용을 해서 산림에서 부를 창조해 나갈 수 있도록 지원할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;난개발 우려에 대해선 “산사태취약지역 포함 여부, 환경영향평가·재해영향평가 및 재해위험성검토의견서 결과 등을 엄격히 적용해 문제가 없도록 시행해 나가겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정교유착 합수본, ‘당원 가입 의혹’ 국민의힘 당사 압수수색</title>
