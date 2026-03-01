@@ -13,6 +13,47 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 3월 2일 월요일 (음력 1월 14일 乙亥)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/01/DQQI7DVLO5FSZBUFSZMF3RFK7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/01/DQQI7DVLO5FSZBUFSZMF3RFK7M/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>여에스더 “우울증에 자발적 안락사까지 고민”</title>
+      <link>https://www.chosun.com/national/people/2026/02/26/ELDPGPNJNNBVVKNAOYKMXCKMZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/26/ELDPGPNJNNBVVKNAOYKMXCKMZ4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 05:05:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5YHEX46HVDZVBJDCRIBMKKLHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;의사 출신 방송인 여예스더./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 출신 방송인 여에스더(60)가 난치성 우울증으로 인해 자발적 안락사를 고민해 왔다고 고백했다. &lt;br&gt;&lt;br&gt;26일 공개된 디즈니+ 예능 ‘운명전쟁49’에 출연한 여에스더는 운명술사 이소빈에게 상담을 받으며 그간의 심경을 털어놓았다.&lt;br&gt;&lt;br&gt;이날 방송에서 여에스더는 먼저 세상을 떠난 동생 이야기를 꺼내며 “동생이 죽은 뒤 개인적으로 많이 힘들었다”며 “못 지켰다는 생각이 많이 든다”며 눈물을 보였다. 동생의 죽음 이후 우울증이 악화됐다는 여에스더는 “치료가 잘되지 않아 입원해 전기 자극 치료도 여러 차례 받았다”며 “기억이 사라질 수도 있는 상태로 오래 살고 싶지 않다는 생각이 들었다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “가족들에게는 굉장한 미안한 이야기지만, 매일 죽을 날짜를 정해놓고 있었다”며 “11월 18일로 정했다가, 가족 생일과 겹치지 않는 날짜를 고민했다. 크리스마스에 세상을 떠나면 가족이 매년 힘들지 않겠느냐고 생각했다”고 말했다. 이어 “방송이 나가기 전에 그러면 안 될 것 같아 날짜를 내년으로 미뤘다”고 덧붙였다. 영상 자막에는 ‘2025년(61세), 난치성 우울증으로 인해 외국에서 자발적 안락사를 고민 중’이라는 설명이 삽입됐다.&lt;br&gt;&lt;br&gt;그는 신변 정리의 일환으로 주변인들을 위한 준비도 마쳤다고 전했다. 창립 초기부터 함께한 직원에게 서울 청담동 집을 선물했으며, 가사도우미를 위한 아파트 매입도 계획 중인 것으로 알려졌다. 방송 말미 여에스더는 “이제 날짜를 정하지 않겠다. 버텨보겠다”며 눈물을 닦았다.&lt;br&gt;&lt;br&gt;앞서 남편 홍혜걸은 여에스더가 심각한 우울증을 겪고 있다고 밝힌 바 있다. 홍혜걸은 소셜미디어(SNS)와 유튜브 채널 등을 통해 아내가 일상의 즐거움을 느끼지 못하는 ‘무쾌감증(Anhedonia)’을 겪고 있다고 설명하며, “간단한 메시지 답장조차 힘겨운 의무가 된다”고 전했다. &lt;br&gt;&lt;br&gt;여에스더는 지난해 9월 자신의 유튜브 채널에서 우울증 치료 부작용으로 체중이 52㎏까지 줄어든 사실을 공개하기도 했다. 당시 그는 “우울증 약을 하나 추가했는데 부작용으로 식욕이 떨어졌다”며 “기운이 없는 게 단점이지만, 옷이 맞는 건 장점”이라며 농담 섞인 반응을 보이기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이부진, ‘서울대 26학번’ 아들 입학식 참석… 홍라희도 나란히</title>
+      <link>https://www.chosun.com/national/national_general/2026/02/26/53OEKGEECFHM5DAM55NHQKW3WM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/26/53OEKGEECFHM5DAM55NHQKW3WM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Feb 2026 06:04:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJ64SV6JNVIEFAQB6XWI435RK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장(왼쪽)이 26일 서울 관악구 서울대학교에서 열린 입학식이 끝난 뒤 홍라희 리움미술관 명예관장(오른쪽)이 이 사장의 아들을 안아주는 모습을 바라보고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부진 호텔신라 사장이 아들의 서울대 입학식에 참석했다.&lt;br&gt;&lt;br&gt;이 사장은 26일 서울 관악구 서울대학교에서 열린 2026학년도 입학식에 참석해 장남 임동현군의 입학을 축하했다. 서울대 26학번이 된 임군은 외삼촌인 이재용 삼성전자 회장(서울대 동양사학과 87학번)의 후배가 됐다.&lt;br&gt;&lt;br&gt;입학식에는 이부진 사장의 어머니이자 임군의 외할머니인 홍라희 리움미술관 명예관장도 함께했다. 이 사장과 홍 명예관장은 주차장에서 임군을 기다리다가, 임군이 나오자 한 걸음에 걸어가 꽃다발을 주며 끌어안았다. 이 사장은 아들의 서울대 입학식 소감을 묻는 취재진 질의에 “감사하다”고 답했다. 이후 기념사진을 촬영한 뒤 준비된 차량으로 교정을 벗어났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AP3ZO7TKVBPBRN65L7OECOF56E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진(왼쪽) 호텔신라 사장과 홍라희 라움미술관 명예관장이 26일 서울 관악구 서울대학교에서 열린 2026학년도 입학식에서 이 사장의 장남 임동현 군의 입학을 축하하고 있다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJC4LLLYCNJGRJPP6XHFFL27AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장(왼쪽)과 홍라희 리움미술관 명예관장이 26일 서울 관악구 서울대학교에서 열린 입학식을 마치고 이 사장의 아들 임모 군과 함께 나서고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DBE33GHHBMAHFVZGTX5RKLHAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장(오른쪽)과 홍라희 리움미술관 명예관장(왼쪽)이 26일 서울 관악구 서울대학교에서 열린 입학식을 마친 뒤 나서고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사장은 지난 9일 임군의 휘문고 졸업식에도 참석한 바 있다. 졸업식 당시 임군은 친구들과 부활의 ‘네버엔딩 스토리’와 신해철의 ‘그대에게’를 불렀고, 공연을 본 이 사장은 흐뭇한 미소를 지으며 박수를 보냈다. 이 사장이 다른 졸업식 참석자들의 요청에 함께 기념사진을 찍어주는 장면 등도 언론 카메라에 포착됐다.&lt;br&gt;&lt;br&gt;임군은 2026학년도 수시모집 전형으로 서울대 경제학부에 합격했다. 임군은 고교 시절 내신 성적이 최상위권이었으며, 대학수학능력시험에서도 우수한 성적을 거둔 것으로 알려졌다.&lt;br&gt;&lt;br&gt;임군은 이달 초 열린 한 입시 설명회에서 공부법과 생활 습관 등 자신의 경험을 후배 학부모들에게 전해 화제를 모으기도 했다. 당시 임군은 “어려운 당부일 수 있지만 3년간 스마트폰, 게임과 완전한 단절을 적극 추천하고 싶다”며 “집중력과 몰입에 큰 도움이 됐다고 자신한다”고 했다. 그러면서 “모든 시험을 마치고 난 날, 3년 만에 맛보는 즐거움도 꽤 괜찮았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AP3ZO7TKVBPBRN65L7OECOF56E.jpg?auth=c1e82276442ae05a62aa28c9fd1dad3ddfb4c428c881a406966868bf3e739b0b&amp;smart=true&amp;width=3432&amp;height=2564" type="image/jpeg" height="2564" width="3432">
+        <media:description type="plain">이부진(왼쪽) 호텔신라 사장과 홍라희 라움미술관 명예관장이 26일 서울 관악구 서울대학교에서 열린 2026학년도 입학식에서 이 사장의 장남 임동현 군의 입학을 축하하고 있다. /뉴시스 </media:description>
+        <media:credit role="author" scheme="urn:ebu">xconfind</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>280억대 불법 사이버 도박 운영진 ‘무죄’… “압수수색 영장 사본 제시”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/01/ED32M7U4WBDPNNG7E2SN6ZI3M4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/01/ED32M7U4WBDPNNG7E2SN6ZI3M4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 06:50:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKVLLYO2MACAHQI2M6O6T5DPKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;280억원대 불법 도박사이트를 운영한 혐의로 재판에 넘겨진 일당이 1심에서 무죄를 선고받았다. 경찰의 위법한 증거 수집으로 인해 범죄 혐의가 입증되지 않았다는 이유에서다.&lt;br&gt;&lt;br&gt;청주지법 형사3단독 지윤섭 부장판사는 도박공간 개설 혐의로 기소된 A(41)씨 등 9명에게 무죄를 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 일당은 2021년 9월부터 2022년 4월까지 불법 도박사이트를 운영해 도박 참가자들로부터 280억원을 입금받은 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;앞서 한 투자사기 사건을 수사하고 있던 경찰은 이 사건 연루자의 계좌가 도박사이트 환전 계좌로 사용된 정황을 포착하고, 해당 계좌의 거래가 이뤄졌던 해외 IP주소를 추적하며 불법 도박사이트 수사에 돌입했다.&lt;br&gt;&lt;br&gt;경찰은 추적 끝에 청주의 한 건물 사무실에서 IP주소를 우회했다는 사실을 확인하고, 이 사무실에 드나들던 A씨 일당을 도박사이트 운영진으로 지목했다.&lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 금융기관과 포털사이트 업체 등을 압수수색해 도박사이트 계좌에서 일당의 월세와 자동차 렌트비, 고속도로 통행료 등이 지출된 사실을 확인했다. 또 A씨 일당의 인터넷 포털 클라우드에서 도박사이트 운영과 관련된 사진도 확보해 이 증거들을 토대로 이들을 붙잡았다.&lt;br&gt;&lt;br&gt;하지만 A씨 일당은 “경찰이 위법한 수사를 했다”면서 범죄 혐의를 부인했다. 경찰이 압수수색 당시 금융기관과 포털사이트 업체에 압수수색 영장 원본이 아니라 사본을 팩스로 제시해 증거물을 확보했고, 압수 이후 압수품 목록을 교부하지 않아 절차상 위법 소지가 있다고 주장했다.&lt;br&gt;&lt;br&gt;경찰은 뒤늦게 압수수색 영장 원본을 금융기관과 포털사이트 업체 등에 제출했지만 법원은 A씨 측의 주장을 인정했다.&lt;br&gt;&lt;br&gt;지윤섭 부장판사는 “형사소송법상 수사기관은 압수·수색 영장의 원본을 대상자에게 반드시 제시해야 하고, 이를 지키지 않았다면 원칙적으로 적법한 집행 방법이라고 볼 수 없다”면서 “수사기관이 절차를 위반해 위법하게 수집한 증거는 유죄의 증거로 삼을 수 없으므로 배제한다”고 밝혔다.&lt;br&gt;&lt;br&gt;지 부장판사는 “수사기관은 도박 사이트 운영 사무실로 의심됐던 장소에 대한 압수수색을 진행하지 않아 컴퓨터 등도 확보하지 못했고, 도박 사이트 운영 관련자들에 대한 조사를 통해 진술 증거도 얻지 못하는 등 배제된 증거 외에 공소사실을 입증할 만한 증거를 제출하지 못했다”고 했다. 이어 “피고인들이 도박 사이트 운영에 관련돼 있던 것이 아닌지 상당한 의심이 들기는 하나, 검사가 제출한 증거만으로는 공소사실이 입증됐다고 인정하기에 부족하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“그날의 외침, 오늘로 이어지다”…경남도, 3·1절 기념식 </title>
       <link>https://www.chosun.com/national/2026/03/01/A4MHJICYXBFY3JQKOES7PM3MGE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/03/01/A4MHJICYXBFY3JQKOES7PM3MGE/</guid>
@@ -901,33 +942,6 @@
       <content:encoded> &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>코로나 때 도심 집회... 前공공운수노조 위원장, 벌금 200만원 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/27/RLXEBEGDPZFV5ANCBXGQOP7JVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/27/RLXEBEGDPZFV5ANCBXGQOP7JVE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 04:27:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQR7D2SYPJJL7LL76HDM6RES2I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;현정희 전국공공운수사회서비스노조 위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부당해고된 아시아나항공 하청 노동자들의 복직 촉구 집회를 주도하고 코로나 방역수칙을 어긴 혐의로 기소된 현정희 전 공공운수노조 위원장에게 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 집시법 위반, 감염병예방법 위반 혐의로 기소된 현 전 위원장에게 벌금 200만원을 선고한 원심을 확정했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;현 전 위원장은 2021년 3월 코로나 확산에 따른 집회 인원 제한 등 방역수칙을 어기고 서울 종로구 금호아시아나 본사 앞에서 약 40명이 참여한 가운데 아시아나KO 해고자 복직 촉구 집회를 연 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;아시아나항공 수하물 처리 등을 담당하던 협력업체 아시아나KO는 코로나로 인한 경영난을 이유로 2020년 노동자들에게 무기한 무급휴직을 요구하고, 이를 거부한 노동자 8명을 해고했다. 이후 중앙노동위원회 등은 이들에 대한 부당해고 판정을 내렸지만, 회사가 이에 불복해 소송을 제기하자 공공운수노조는 해고 300일을 맞아 복직 촉구 집회를 연 것이다.&lt;br&gt;&lt;br&gt;현 전 위원장 측은 “감염병 확산을 막기 위해 여러 사람의 집합을 제한·금지하는 내용의 감염병예방법 제49조 등은 집회, 시위의 자유를 침해해 위헌”이라며 “당시 서울시가 10인 이상의 집회 개최를 금지한 ‘집회 개최 금지’ 고시도 위헌”이라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 1·2심은 모두 유죄를 인정했다. 1심은 현 위원장에게 벌금 200만원을 선고했다. 1심 재판부는 “감염병 확산이라는 위기 상황 속에서 행정청의 전문적 판단을 존중하고, 이에 기해 신속한 대응을 할 수 있도록 한 조치”라며 “집회 제한을 위한 형식과 절차를 행정청에 위임할 합리적인 이유가 인정된다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 또 “서울시 인구 밀집 정도가 다른 도시에 비해 높을 뿐 아니라 유동인구가 많아 코로나 방역의 필요성이 집회·시위의 자유를 보장할 필요성 못지 않게 높다”며 “이 사건 고시는 감염병예방법에 근거해 발령된 것으로 위헌이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;2심도 현 전 위원장의 벌금 200만원형을 유지했다. 대법원도 원심이 집시법 위반이나 감염병예방법 위반 혐의 성립에 법리 오해가 없다며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김포골드라인 ‘지지지옥철’ 체험 나선 金총리 “시민 기본권 문제… 해결책 찾겠다”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/02/27/62P42Y3J2ZFDXEBGOGJTLHZUK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/02/27/62P42Y3J2ZFDXEBGOGJTLHZUK4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 04:18:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJXWWGKZWFN7RAYIYCHB3U65QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 27일 아침 경기 김포시 김포골드라인 사우역에서 열차를 타고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 27일 최대 혼잡률이 200%에 육박하는 김포골드라인(김포도시철도)을 체험하고 “현재 제기돼 있는 단기 종합 대책을 최대한 빨리 실현하는 것이 숙제”라고 말했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오전 7시 경기 김포시와 인천에 지역구를 둔 더불어민주당 김주영·박상혁·모경종 의원과 함께 김포골드라인 사우역을 찾아 열차 운영 현황과 혼잡도 대책을 보고받았다. 이어 열차에 직접 탑승해 3개 역을 지나 김포공항역에서 내렸다.&lt;br&gt;&lt;br&gt;김 총리는 “열차에서 시민들과 대화했는데, 그분들이 저한테 ‘월·화요일 퇴근 시간에 타봐라. ‘지지지옥철을 타봐라’라는 말을 했다”며 “반드시 왔었어야 한다는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이분들이 이 방법을 통하지 않고는 일하러 나갈 수 없는 것 아니냐”며 “그렇기 때문에 김포골드라인 문제는 김포시민들의 교통과 근로의 권리를 옥죄는 기본권 문제라는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 김포골드라인 증편, 버스 전용 차로 확대, GTX-B(수도권 광역급행철도 B선), 수도권 전철 5호선 연장 등 당장 대책으로 나와 있는 것들을 빨리 실현해야 한다고 지적했다.&lt;br&gt;&lt;br&gt;김 총리는 이어 “그래도 문제가 해결이 안 되는 것이, 2028년에 10만명이 (김포시에) 더 들어오게 돼 있다”며 “2028년 이후 적어도 몇 해 동안 (김포시민들이 지옥철을) 감내할 수밖에 없는 상황”이라고 우려했다.&lt;br&gt;&lt;br&gt;김 총리는 “(단기 종합 대책과 별도로) 초단기 대책을 중앙정부와 시·도가 같이 해봐야 한다”며 “총리실이 바로 관련 단위들, 의원들과 함께 논의할 수 있는 자리를 만들어 논의를 시작해보겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이어 예비 타당성 조사를 받고 있는 5호선 연장 사업에 관해서는 “예타를 면제했어야 했는데 그렇게까지는 안 됐고 ‘신속 예타’를 하고 있는데 신속하지 않다”며 “현재 예타의 문제를 분석해 결과를 빨리 내게 해야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 총리는 “이재명 대통령에게 다음 주에 주례 보고할 때 별도로 (김포골드라인 문제를) 보고드리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘수면제 대리처방 의혹’ 가수 MC몽 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2026/02/27/BVRKP3NTV5E5PF6UFDPMIATH3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/27/BVRKP3NTV5E5PF6UFDPMIATH3U/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 04:13:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQTOZJVGI3GKZRVGBRGGM3CMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 mc몽/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 전직 매니저로부터 수면제를 대리 처방 받은 의혹이 제기된 가수 겸 프로듀서 MC몽(본명 신동현)에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 임현택 전 대한의사협회(의협) 회장이 신씨를 마약류관리법 및 의료법 위반 혐의로 고발한 사건을 지난 25일 넘겨 받아 수사 중이라고 27일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 임 전 회장은 지난달 30일 신씨가 타인 명의로 향정신성의약품인 졸피뎀을 건네 받아 복용했다는 의혹이 제기됐다며 국민신문고를 통해 검찰에 고발장을 제출했다. 고발장에는 신씨가 매니저 등 제3자에게 약물 제공을 요구했을 가능성과 이에 따른 법적 책임 여부도 함께 검토해달라는 내용이 포함된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;사건을 배당 받은 대전 서부경찰서는 임 전 회장을 고발인 신분으로 불러 조사한 뒤 신씨의 주거지를 관할하는 강남서에 사건을 이송한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“두쫀쿠 다음은 봄동 비빔밥” 18년 전 강호동 먹방 타고 인증샷 열풍</title>
       <link>https://www.chosun.com/national/national_general/2026/02/27/ELDRW2JH5BAVRFQTRXJG57XBDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/27/ELDRW2JH5BAVRFQTRXJG57XBDI/</guid>
@@ -938,15 +952,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YW7HEBJZAJEVTC2FHMJQGF7V5I.jpg?auth=1b4294467c390758ee8f119b6081edb3a6d2811746a256286c2a06cf85c524c7&amp;smart=true&amp;width=482&amp;height=362" type="image/jpeg" height="362" width="482">
         <media:description type="plain">봄동</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>정교유착 합수본, ‘당원 가입 의혹’ 국민의힘 당사 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/27/G3XMPUI57ZGGTGGZXJGCJZ7TMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/27/G3XMPUI57ZGGTGGZXJGCJZ7TMY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 00:43:05 +0000</pubDate>
-      <content:encoded>신천지의 국민의힘 집단 당원 가입 의혹을 수사하는 검경 합동수사본부(본부장 김태훈 대전고검장)가 27일 국민의힘 당사에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUPAOW2MZZIHXMXW2UXAGYKUNA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 서울 여의도 중앙당사에 당명개정과 관련해 '국민의힘' 로고를 지운 옥외광고물이 설치돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 합수본은 이날 오전부터 국민의힘 서울 여의도 당사와 국민의힘의 당원 명부를 관리하는 데이터 관리업체에 대한 압수수색을 진행 중이다. 압수수색 영장에는 이만희 신천지 총회장 등의 정당법 위반 및 업무방해 혐의가 적시된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;신천지는 21대 총선과 20대 대선 등 주요 선거에서 국민의힘에 집단으로 입당해 정치적 영향력을 행사했다는 의혹을 받는다. 합수본은 신천지 전직 간부 등 관계자들을 참고인 신분으로 소환해 신도들을 국민의힘에 당원으로 가입시킨 계기와 경위 등을 추궁하고 있다. 조사 과정에서 합수본은 신천지가 ‘필라테스’라는 이름의 작전명을 가지고 신도들의 당원 가입을 조직적으로 추진했고, 지역별 할당량을 부여해 윗선에서 가입 현황을 관리해 왔다는 진술을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;합수본은 이날 압수수색을 통해 확보한 자료를 토대로 국민의힘에 가입한 신천지 교인의 규모 등 구체적인 사실 관계를 확인할 방침이다. 합수본은 지난달 30일 신천지 총회본부와 평화연수원 등에 대한 압수수색도 벌였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사람이 바뀌어야 조직도 바뀐다”… 하남시, 7급 이하 230명 조직 혁신 워크숍</title>
