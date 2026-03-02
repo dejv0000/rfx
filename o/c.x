@@ -13,22 +13,75 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
-      <title>[부음] 김원재 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/02/28/KEZS2R3ASVFWLFQEXNNWZG3CI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/28/KEZS2R3ASVFWLFQEXNNWZG3CI4/</guid>
+      <title>[오늘의 날씨] 2026년 3월 3일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/02/ISC6OOEA4JDQPIUX6ZJSTMZBWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/02/ISC6OOEA4JDQPIUX6ZJSTMZBWM/</guid>
       <dc:creator>조선일보</dc:creator>
       <description/>
-      <pubDate>Fri, 27 Feb 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲김원재 &lt;/b&gt;별세, &lt;b&gt;허성 &lt;/b&gt;코오롱인더스트리 대표 장인상=27일9시44분 서울성모병원, 발인 2일8시, (02)2258-5940&lt;br&gt;&lt;br&gt;&lt;b&gt;▲전순섭 &lt;/b&gt;별세, &lt;b&gt;박종성&lt;/b&gt;·&lt;b&gt;박옥희&lt;/b&gt; 모친상, &lt;b&gt;이상보&lt;/b&gt; 장모상, &lt;b&gt;황영숙&lt;/b&gt; 시모상, &lt;b&gt;박영수&lt;/b&gt;·&lt;b&gt;박정수 &lt;/b&gt;이데일리 증권시장부 차장 조모상, &lt;b&gt;이효준&lt;/b&gt;·&lt;b&gt;이예린&lt;/b&gt; 외조모상,=27일8시36분 경기 안성 성혜원, 발인 1일8시, (031)671-6500&lt;br&gt;&lt;br&gt;&lt;b&gt;▲최원식 &lt;/b&gt;별세, &lt;b&gt;최석호&lt;/b&gt; TV조선 전국부 차장 부친상, &lt;b&gt;이하람&lt;/b&gt; 작가 시부상=27일5시59분 신촌세브란스병원, 발인 1일8시, (02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
+      <pubDate>Mon, 02 Mar 2026 14:31:00 +0000</pubDate>
+      <content:encoded>흐리고 곳곳에 많은 눈&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXPWMI3Y3ZHYDLI64XCINJ5XNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/people/2026/02/28/OFYGG4LOQBHOXKLTN5QC77ZKWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/28/OFYGG4LOQBHOXKLTN5QC77ZKWE/</guid>
-      <dc:creator>조선일보</dc:creator>
+      <title>고양시 법곳동 자동차정비소 큰 불…5개동 전소</title>
+      <link>https://www.chosun.com/national/regional/2026/03/02/P6LARFSW6NAZVMHOJBCQKAWZYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/P6LARFSW6NAZVMHOJBCQKAWZYE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
       <description/>
-      <pubDate>Fri, 27 Feb 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;법무부&lt;/b&gt;◇고위공무원 승진▷서울남부지검 사무국장 김철곤▷의정부지검 사무국장 조순남▷춘천지검 사무국장 변영욱▷대전지검 사무국장 설우용▷청주지검 사무국장 이은승▷대구지검 사무국장 정연철▷부산지검 사무국장 한생일▷울산지검 사무국장 조경익▷전주지검 사무국장 박영범◇고위공무원 전보▷서울고검 사무국장 유정민▷대전고검 사무국장 김봉석▷서울중앙지검 사무국장 정영운▷서울동부지검 사무국장 김용권▷서울북부지검 사무국장 이은상▷서울서부지검 사무국장 이상남▷인천지검 사무국장 오은택▷수원지검 사무국장 장정호▷광주지검 사무국장 정연익▷제주지검 사무국장 김영헌▷법무부(국립외교원) 조현철◇검찰부이사관 승진▷대검찰청 운영지원과장 김재영▷〃 집행과장 윤성훈▷서울고검 총무과장 이동영▷대전고검(대통령비서실) 박종길▷대구고검 총무과장 신현태▷부산고검 총무과장 이창균▷광주고검 총무과장 최성규▷천안지청 사무국장 박춘광▷부산서부지청 사무국장 고영호▷순천지청 사무국장 고영록◇검찰부이사관 전보▷수원고검 총무과장 배은호▷서울중앙지검 총무과장 허철안▷고양지청 사무국장 이승희▷부천지청 사무국장 강재성▷성남지청 사무국장 이택근▷안산지청 사무국장 조동규▷안양지청 사무국장 홍석표▷대구서부지청 사무국장 이동영▷법무부(통일교육원) 이헌▷〃(국방대학교) 최대진◇검찰수사서기관 승진▷법무부 국가소송과(법무과) 박보균▷〃 검찰과(인천공항분실) 권성기▷〃(국무조정실 공직복무관리관실) 최병휘▷〃(국무조정실 정부합동부패예방추진단) 양종복▷〃(국무조정실 범정부검찰개혁추진단) 변태한▷대검찰청 공공수사기획관실 노석균▷〃 감찰2과 이기삼▷서울중앙지검 수사제2과장 박찬길▷서울동부지검 검사직무대리 서종철▷서울남부지검 사건과장 이홍래▷〃 집행과장 고형민▷서울북부지검 총무과장 노진원▷〃 검사직무대리 신경준▷서울북부지검 검사직무대리 윤명근▷의정부지검 집행과장 조정훈▷남양주지청 사무과장 조문영▷원주지청 사무과장 이재곤▷대전지검 수사과장 문중수▷대구지검 검사직무대리 김석곤▷대구서부지청 총무과장 김재윤▷안동지청 사무과장 정왕일▷포항지청 사무과장 서창훈▷김천지청 사무과장 조영주▷부산지검 사건과장 최영호▷〃 집행과장 홍승아▷〃 조사과장 김종일▷〃 검사직무대리 신희근▷부산서부지청 수사과장 주선영▷울산지검 집행과장 김두빈▷〃 검사직무대리 손무성▷창원지검 총무과장 이영우▷〃 사건과장 최성준▷〃 검사직무대리 백양권▷진주지청 사무과장 최희주▷통영지청 사무과장 공창규▷전주지검 수사과장 박기우▷〃 검사직무대리실(수원지검 마약범죄정부합동수사본부) 박영진▷제주지검 사건과장 박승현◇검찰수사서기관 전보▷법무부(진실화해위원회) 박상우▷법무연수원 용인분원 운영지원과장 박태휘▷대검찰청 범죄정보기획관실(운영지원과) 최형수▷〃 운영지원과 이경운▷〃 반부패기획관실 문재식▷〃(법무부 검찰개혁지원TF) 소진호▷서울고검 사건과장 김은경▷〃 소송사무과장 김도형▷대전고검 사건과장 주영수▷수원고검 사건과장 최순례▷서울중앙지검 집행제2과장 유영걸▷〃 기록관리과장 박광수▷〃 피해자지원과장 김원석▷〃 공공수사지원과장 박남규▷〃 수사지원과장 정태규▷〃 검사직무대리 김상우▷서울동부지검 사건과장 윤대석▷〃 집행과장 이재종▷서울남부지검 수사과장 윤재남▷서울북부지검 사건과장 유인진▷〃 수사과장 박정호▷서울서부지검 총무과장 송학수▷〃 사건과장 김경미▷〃 집행과장 최정인▷〃 조사과장 강윤정▷의정부지검 총무과장 김상현▷인천지검 총무과장 정유진▷〃 집행과장 이형근▷〃 조사과장 고익찬▷〃 마약수사과장 박영철▷〃 공판송무과장 김정호▷〃 검사직무대리 박현경▷〃 검사직무대리실(대검찰청 집행과) 천영심▷수원지검 검사직무대리 윤치기▷안산지청 총무과장 조수희▷〃 검사직무대리 이필재▷안양지청 총무과장 강용묵▷춘천지검 사건과장 정재웅▷강릉지청 사무과장 안해룡▷대전지검 사건과장 이규용▷〃 집행과장 이승환▷청주지검 총무과장 박순영▷〃 사건과장 김중호▷충주지청 사무과장 이해형▷대구지검 총무과장 이호종▷〃 사건과장 류성욱▷〃 조사과장 김종철▷부산지검 총무과장 이상만▷〃 공판과장 강석한▷울산지검 공공수사지원과장 이정국▷창원지검 수사과장 안상보▷광주지검 총무과장 양미정▷〃 집행과장 양동현▷〃 검사직무대리 박종섭▷순천지청 총무과장 이상인▷전주지검 총무과장 김왕태▷〃 사건과장 김병호▷〃 집행과장 윤한평▷제주지검 집행과장 정석현&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울여대&lt;/b&gt;▷학부대학장 김미라▷인문대학장 정용길▷사회과학대학장 최혜지▷미래산업융합대학장 홍헬렌▷아트앤디자인스쿨학부장 이재원▷바롬인재교육원장 정소연▷인간-AI협력연구센터장 김형종▷박물관장 최성원&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷국제부 주일특파원 류 정&lt;br&gt;&lt;br&gt;▲&lt;b&gt;TV조선&lt;/b&gt;▷상무 윤정호▷보도본부장 겸 보도국장 이재홍▷특임본부장 김동욱&lt;br&gt;&lt;br&gt;</content:encoded>
+      <pubDate>Mon, 02 Mar 2026 13:23:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 6시 38분쯤 경기 고양시 일산서구 법곳동의 한 자동차정비소에서 불이 났다.&lt;br&gt;&lt;br&gt;불은 인근 건물로 확산해 총 5개 동을 태웠다. 신고를 받고 출동한 119 소방대에 의해 3시간 10분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;건물 안에 있던 10여명은 대피해 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 35대와 84명을 동원했으나 유류 등이 타면서 불길이 거세 진화에 어려움을 겪었다.&lt;br&gt;&lt;br&gt;고양시는 재난안전문자를 발송해 “주민은 사고지점에서 먼 곳으로 이동하고 차량은 우회해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 목격자 진술 등을 토대로 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/W3NFPS5LM5CEJCBKLG6BJCICIQ.jpg?auth=e33d65ed77170dbd46c9a75fb2b6d6cbb1cabc0a20525d764e507234c9bbb069&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
+        <media:description type="plain">119 소방 로고</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>공주 저수지에 승용차 빠져…30대 심정지</title>
+      <link>https://www.chosun.com/national/regional/2026/03/02/665GUZAZMVFMFKUUMPIBHCX3KE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/665GUZAZMVFMFKUUMPIBHCX3KE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 13:29:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 6시 47분쯤 충남 공주시 반포면에서 “저수지에 승용차가 빠졌다”는 목격자의 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 1시간 50여분 만에 저수지에 빠진 승용차를 인양했다. 차 안에서 30대 A씨가 심정지 상태로 발견돼 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 자세한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>천안 공원묘원서 승용차 화재…80대 운전자 사망</title>
+      <link>https://www.chosun.com/national/regional/2026/03/02/F3VS63EALRCQLITYLJONNXIWSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/F3VS63EALRCQLITYLJONNXIWSE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 12:29:14 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRGKMRWHEZGGMRZGY2GKZBZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 관련 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;2일 오후 5시 5분쯤 충남 천안시 동남구 한 공원묘원에서 80대 A씨가 몰던 아반떼 승용차에서 불이 났다.&lt;br&gt;&lt;br&gt;목격자의 신고를 받고 출동한 소방대원은 26분 만에 불을 모두 껐으나, 차 안에서 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 자세한 화재 원인과 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 중구 서동·장현동 440가구 정전</title>
+      <link>https://www.chosun.com/national/regional/2026/03/02/AN3RCIS7M5GEZICJGEC6L4RNGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/AN3RCIS7M5GEZICJGEC6L4RNGY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 12:24:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJG4SOBCCOMU7M3GUJDP5GIZDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정전 이미지. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 8시 35분쯤 울산 중구 서동과 장현동 일대에 정전 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 일대 440가구가 전기를 사용하지 못해 현재까지 불편을 겪고 있다.&lt;br&gt;&lt;br&gt;한국전력은 강풍이 불어 정전 사고가 난 것으로 추정하고, 정확한 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 강풍에 주택 옹벽 무너지고, 건물 외장재 떨어져 </title>
+      <link>https://www.chosun.com/national/regional/2026/03/02/G5WT6A7YCJDMPDZ7GPHHAY662I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/G5WT6A7YCJDMPDZ7GPHHAY662I/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 11:54:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZWEMJSGI2DMYZQGBTDGN3BGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 부산 사하구 괴정동에서 옹벽이 무너져 소방이 조치를 취하고 있다./부산소방재난본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 강풍주의보가 내려진 부산에 순간 최대풍속 초속 20ｍ가 넘는 강한 바람이 불면서 건물 외장재가 떨어지는 등 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;부산소방재난본부에 따르면 이날 오후 3시 10분쯤 부산 북구 구포동의 한 건물 외장재가 파손되면서 바닥으로 떨어졌다. 이날 부산 서구의 순간 최대 풍속은 초속 29.5ｍ를 기록했고, 사하구에서도 초속 25.4ｍ의 강풍이 불었다. 오후 5시 30분쯤 부산 사하구 장림동의 한 공사장의 대형 철문이 넘어지려고 한다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이어 오후 6시 10분쯤 부산 사하구 괴정동의 한 주택 옹벽이 무너져 안전조치를 하는 등 오후 8시까지 모두 20건의 안전조치가 이뤄졌다.&lt;br&gt;&lt;br&gt;다행히 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 강풍 피해 속출…여객선 모두 결항, 항공편 결항·회항 잇따라</title>
+      <link>https://www.chosun.com/national/regional/2026/03/02/JOBY4NVHYVGWXHFXIPU75UDA7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/JOBY4NVHYVGWXHFXIPU75UDA7M/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 10:42:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TMZBZHA3TGOJRGRRDQZTDMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 제주시 한림읍의 한 주택 옥상에 설치한 태양광 패널이 강풍으로 파손돼 소방당국이 안전조치를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3·1절 연휴 마지막 날인 2일 제주에 강한 비바람이 몰아치면서 곳곳에서 시설물 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;제주도 소방안전본부에 따르면 이날 오전 8시 56분쯤 제주시 조천읍의 한 도로에 나무가 쓰러져있다는 신고가 접수됐다. 앞서 오전 8시 2분쯤 서귀포시 대정읍에서도 나무가 도로에 쓰러져 소방대원들이 각각 안전조치했다.&lt;br&gt;&lt;br&gt;오전 11시 32분쯤 제주시 한림읍에서는 강풍에 가로등이 쓰러졌고, 오전 7시 32분쯤 서귀포시 대정읍에서는 건물 외벽 외장재가 일부 떨어져 안전조치가 이뤄졌다.&lt;br&gt;&lt;br&gt;옥상 태양광 패널 파손, 간판 떨어짐, 전신주 전도 등 전날 밤부터 이날 오후 5시까지 소방당국에 강풍 관련 총 28건의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현재 제주도 육상 전역에는 강풍주의보, 추자도에는 강풍경보가 각각 발효 중이다. 제주도 전 해상과 남해서부서쪽먼바다에는 풍랑경보가 내려져 있다.&lt;br&gt;&lt;br&gt;이날 오후 5시 기준 지점별 최대순간풍속은 마라도 초속 29.6ｍ, 가파도 초속 29.4ｍ, 우도 초속 26.1ｍ, 추자도 초속 26ｍ, 색달 초속 25.8ｍ, 한라산 사제비 초속 25.6ｍ, 대정 초속 24ｍ 등을 기록하고 있다.&lt;br&gt;&lt;br&gt;비도 많이 내렸다. 전날부터 이날 오후 5시까지 누적 강수량은 한라산 성판악 103㎜, 진달래밭 96.5㎜, 한라산남벽 77㎜, 가시리 72㎜, 송당 58㎜, 한남 58㎜, 서귀포 52.5㎜, 제주 29.3㎜ 등이다.&lt;br&gt;&lt;br&gt;풍랑경보 발효로 이날 제주도와 완도·목포·진도 등 다른 지역을 잇는 여객선, 제주도 본섬과 마라도·가파도 등 부속섬을 잇는 여객선은 모두 결항했다.&lt;br&gt;&lt;br&gt;제주공항에는 강풍경보와 급변풍경보가 발효 중인 가운데 항공편 결항·회항도 일부 발생했다.&lt;br&gt;&lt;br&gt;강풍·풍랑특보 발효에 따라 제주도는 이날 오후 3시부로 재난안전대책본부 비상 2단계에 돌입했다.&lt;br&gt;&lt;br&gt;제주도는 도·행정시·관계부서 상황 점검회의를 열어 풍랑 대비 어선 안전관리, 강풍 대비 시설물 관리, 정전 대비 긴급복구체계 구축, 항공기 결항 대비 안전관리 등 분야별 대처상황을 점검했다.&lt;br&gt;&lt;br&gt;기상청은 3일 오전까지 제주에 바람이 순간풍속 초속 20ｍ(산지 25ｍ) 이상으로 강하게 불겠다며 강풍으로 인한 시설물 피해와 보행자 안전 등에 각별히 유의해야 한다고 강조했다. 항공·해상교통 이용객은 사전에 운항 정보를 확인하라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2MXSI447WVBZFCJDPN4YH26VLY.jpg?auth=1f01e30e628c22db02fa7883b352d66804b2a61378180f6ac85c444ced7656b6&amp;smart=true&amp;width=606&amp;height=341" type="image/jpeg" height="341" width="606">
+        <media:description type="plain">제주, 강풍에 쓰러진 나무</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
     </item>
     <item>
       <title>‘李 지지’ 배우 명계남, 차관급 황해도지사 임명</title>
@@ -846,51 +899,6 @@
       <pubDate>Fri, 27 Feb 2026 15:48:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSJZJKHXXFGJDGJ3THRB2NFEPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자 
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 서울 서대문구 이화여대 대강당에서 2026학년도 입학식이 열렸다. 이화여대 교수들이 모인 ‘남성교수중창단’이 무대에 올라 아이돌그룹 블랙핑크의 ‘뛰어’ 등을 불렀다. 신이 난 교수 2명이 무대 아래로 내려와 신입생과 춤을 추고 있다. 이날 신입생 3727명이 이화여대에 입학했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 코인 빼돌린 범인, 건진법사 ‘공천 헌금’ 연루</title>
-      <link>https://www.chosun.com/national/incident/2026/02/28/7Z4GILUGLZETDENUBXDYC5TDCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/02/28/7Z4GILUGLZETDENUBXDYC5TDCU/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:48:00 +0000</pubDate>
-      <content:encoded>서울 강남경찰서에서 보관 중인 비트코인을 빼돌린 혐의로 구속된 피의자가 ‘건진법사’ 전성배씨의 공천 헌금 사건에도 연루된 인물인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;의정부지법은 정보통신망법 위반 등 혐의로 40대 코인 업체 운영자 이모씨에 대해 구속영장을 발부했다고 27일 밝혔다. 이씨는 2022년 5월 강남경찰서가 보관하던 비트코인 22개를 유출한 혐의를 받는다. 유출 당시 시세로 10억원 상당이라고 한다.&lt;br&gt;&lt;br&gt;이씨 등은 2020년 “해킹 피해를 당했다”며 경찰에 신고했다. 사건을 수사하던 강남경찰서는 2021년 제3의 참고인으로부터 비트코인 22개를 증거물로 제출받았다. 경찰은 이 비트코인을 경찰서 ‘콜드월렛(오프라인 전자지갑)’ 대신 이씨 업체의 콜드월렛에 보관한 것으로 조사됐다. 이 콜드월렛의 ‘니모닉 코드’를 알고 있던 이씨 등은 비트코인을 복원한 뒤 팔아 쓴 것으로 조사됐다. 니모닉 코드는 분실한 비트코인을 복원할 때 쓰는 암호다. 이 코드가 있으면 어디서든 비트코인을 복원할 수 있다.&lt;br&gt;&lt;br&gt;이씨는 전씨의 공천 헌금 사건(정치자금법 위반) 공범으로도 재판을 받고 있다. 전씨에게 지방선거 예비후보를 소개하는 등 전씨의 범행을 방조했다는 혐의다.&lt;br&gt;&lt;br&gt;이씨는 앞서 2020년 “배우 배용준씨가 투자했다”며 스캠코인(사기 암호화폐)을 팔아 1만3000여 명으로부터 300억원을 가로챈 혐의로 기소됐다. 검찰은 이 사건을 수사하던 중 수상한 자금 흐름을 발견했고 전씨의 혐의를 포착했다. &lt;br&gt;&lt;br&gt;한편 이번 사건은 지난 1월 광주지검이 보관하던 비트코인 320개가 사라진 사실이 알려진 뒤 전국 경찰서가 보관 중인 암호화폐를 점검하는 과정에서 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>합수본, ‘신천지 집단 입당 의혹’ 국힘 압색</title>
-      <link>https://www.chosun.com/national/court_law/2026/02/28/24D5Y64DA5HLNIK7QIWPSJZE3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/02/28/24D5Y64DA5HLNIK7QIWPSJZE3Y/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:48:00 +0000</pubDate>
-      <content:encoded>‘정교(政敎) 유착’ 의혹을 수사하는 검경 합동수사본부가 27일 국민의힘 서울 여의도 당사와 국민의힘 당원 명부 관리 업체를 압수 수색했다. 신천지의 국민의힘 집단 당원 가입 의혹과 관련해서다. 합수본은 압수 수색 영장에 이만희 신천지 총회장 등의 정당법 위반과 업무방해 혐의를 적시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신천지는 국민의힘의 2021년 제20대 대선 경선과 2024년 제22대 총선 경선 등을 앞두고 교인들을 집단으로 입당시켜 경선에 영향력을 행사하는 등 국민의힘의 정당 업무를 방해했다는 혐의를 받는다. 앞서 합수본은 신천지가 일명 ‘필라테스’라는 작전명을 쓰는 계획에 따라 조직적으로 신도 수만명을 국민의힘에 입당시키고, 당비를 대납해 줬다는 관계자 진술과 증거를 확보한 것으로 전해졌다. 이 과정에서 이만희 총회장 등의 지시가 있었고, 윗선에서 지역별 할당량을 부여해 당원 명단을 관리했다는 진술도 확보했다.&lt;br&gt;&lt;br&gt;합수본은 신천지 지도부가 2021년 국민의힘 대선 경선에 나온 윤석열 전 대통령에게 “은혜를 갚아야 한다”고 했다는 관련자 진술도 확보했다. 신천지는 2020년 코로나19 사태 당시 감염 확산 진원지로 지목돼 수사 대상이 됐다. 그런데 당시 검찰총장이었던 윤 전 대통령이 압수 수색을 막아준 만큼 그에게 보답해야 한다는 취지였다고 한다. 이와 관련해 합수본은 지난달 30일 경기도 과천 신천지 총회 본부와 경기 가평군 고성리 소재 평화연수원(평화의 궁전), 이 총회장 자택 등을 압수 수색했다.&lt;br&gt;&lt;br&gt;반면 합수본은 2018년쯤 통일교 측에서 현금 2000만원과 명품 시계 1점을 받은 혐의를 받는 더불어민주당 전재수 의원을 출범 2개월이 다 되도록 소환하지 않고 있다. 합수본은 지난 10일 전 의원 보좌진과 의원실을 압수 수색하면서도, 전 의원은 제외했다. 전 의원은 합수본 출범 전인 작년 12월 경찰에서 한 차례 조사받은 게 전부다. 합수본은 전 의원과 함께 통일교 금품 수수 의혹을 받는 임종성 전 민주당 의원은 지난 11일, 김규환 전 미래통합당 의원은 25일 각각 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 피부에 생기는 흑색종 치료법</title>
-      <link>https://www.chosun.com/special/announcement/2026/02/28/XP4LOUOVXVBU5F2577QH7522ZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/02/28/XP4LOUOVXVBU5F2577QH7522ZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZA3MJLZJVE73EWNVD67EJE4YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;랜선_건강교실_26년2월(피부 흑색종)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원과 조선일보사가 마련하는 ‘랜선 건강교실’ 2월 영상이 업로드됐습니다. 이번 건강교실 주제는 피부에 생기는 점과 착각할 수 있는 ‘흑색종’입니다.&lt;br&gt;&lt;br&gt;피부암의 일종인 흑색종은 다른 피부암에 비해 유병률은 낮지만 재발과 전이가 빠른 공격적인 악성 암입니다. 삼성서울병원 성형외과 이경태 교수가 점과 흑색종의 구분법, 흑색종의 치료법과 수술 후 예후 등을 상세히 설명해드립니다.&lt;br&gt;&lt;br&gt;랜선 건강교실은 매월 삼성서울병원과 조선일보 공식 유튜브 채널에 소개됩니다. QR코드를 스캔하면 해당 영상으로 연결됩니다.&lt;br&gt;&lt;br&gt;▲링크: https://youtu.be/Nd7V46xh3ds&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지역의사 전형 지원 땐 권역 내 중학교 나와야</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/02/28/PROHNYUSKZG3FIKJ54VE3ABMKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/02/28/PROHNYUSKZG3FIKJ54VE3ABMKQ/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:47:00 +0000</pubDate>
-      <content:encoded>정부가 같은 광역권 내 중학교를 나와야 지역의사 선발 전형에 지원할 수 있도록 요건을 강화했다. 의대 입학을 노린 ‘지방 유학’을 막기 위한 대책이다.&lt;br&gt;&lt;br&gt;보건복지부는 이 같은 내용의 ‘지역의사의 양성 및 지원 등에 관한 법률(지역의사양성법)’ 시행령 제정안의 수정안을 다음 달 6일까지 재입법예고한다고 27일 밝혔다. 복지부는 지난달 시행령 제정안을 입법예고했지만 이번에 수정안을 냈다. &lt;br&gt;&lt;br&gt;지역·필수 의료를 살리기 위해 올해 치르는 2027학년도 입시부터 도입되는 지역의사제는 ‘비(非)서울’ 의대들이 해당 지역에서 10년간 의무 근무를 하는 조건으로 지역 학생들을 별도로 뽑는 제도다. &lt;br&gt;&lt;br&gt;지역의사제의 기존 시행령안은 비수도권 중학교 졸업자면 지역의사 전형에 지원할 수 있도록 했으나, 수정안은 의대 소재지와 인접 지역을 포함한 ‘광역권’ 내 중학교 졸업자로 제한했다. 중학교 졸업 요건 적용 시기도 기존 2033학년도에서 2027학년도 입시로 앞당겼다. 예를 들어 대전·충남에 있는 의대에 지원하려면 중학교를 대전·세종·충남·충북에서 졸업해야 한다. 고등학교도 충남 내 정해진 의료 권역 또는 대전·세종·충남·충북 소재여야 한다. 복지부 관계자는 “중학생 때부터 특정 지역으로 이주해 지역의사 전형을 준비하는 부작용이 우려된다는 의견을 반영한 것”이라고 했다.&lt;br&gt;&lt;br&gt;수정안은 또 비서울 32개 의대가 정원 총합의 최소 10% 이상을 지역의사 선발전형으로 선발하도록 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하청 노조 창구 단일화 원칙에도… 분리 교섭 항목만 20개</title>
-      <link>https://www.chosun.com/national/labor/2026/02/28/J4EPYMZRNBH2REIXPQQSN5ZYDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/02/28/J4EPYMZRNBH2REIXPQQSN5ZYDQ/</guid>
-      <dc:creator>김아사 기자, 박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:47:00 +0000</pubDate>
-      <content:encoded>정부가 노란봉투법(노동조합 및 노동관계조정법 2·3조 개정안) 매뉴얼을 발표하며 교섭 의제를 ‘노사 자율’에 맡기겠다고 명시했다. 근로 계약을 맺지 않은 원청 업체와 하청 노조간 교섭은 사용자로 인정되는 걸 전제로 하는데, 사용자 여부를 알기 어렵거나 인정되지 않는 사안까지 교섭 범위가 확대된 것이다.&lt;br&gt;&lt;br&gt;고용노동부와 중앙노동위원회는 27일 이런 내용을 골자로 한 ‘원·하청 상생 교섭 절차 매뉴얼’을 발표했다. 노동위원회는 이 매뉴얼을 토대로 원청 업체와 하청 노조간 사용자 성립, 분리 교섭 여부 등을 판단하게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2S7XUMYLFFB7E3MPD4LVLM2NI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제 현장에서 큰 혼란을 줄 것이란 지적이 나온 부분은 “노동위원회가 사용자성을 인정한 근로 조건 외 다른 근로 조건에 대해 교섭 의제로 할지 여부는 ‘노사가 자율적으로 정할 수 있다’”고 규정한 부분이다. &lt;br&gt;&lt;br&gt;이는 원·하청의 교섭 범위를 사실상 모든 의제로 넓힌 것이라는 게 전문가들의 견해다. 박지순 고려대 법학전문대학원 교수는 “하청 노조는 일단 사용자성이 인정되기 쉬운 안전·보건 분야 등 약한 고리를 통해 치고 들어올 것”이라며 “이를 통해 교섭 테이블을 차린 후 파업 등을 무기 삼아 다양한 의제를 교섭 의제로 올릴 것”이라고 했다. &lt;br&gt;&lt;br&gt;현장에서도 하청 노조 측이 전략적으로 무리한 교섭 요구를 남발할 가능성이 제기된다. 사용자성이 불분명한 의제에 대한 논의 요구를 다른 핵심 사안을 관철시키는 지렛대로 활용하는 식이다. 한 대기업 노무 담당자는 “노사 교섭은 기본적으로 협상인데 사측이 불리한 상태에서 교섭을 시작하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;한국경영자총협회는 이날 “교섭 의제는 자율적으로 정할 수 있는 사항이 아니다”며 “원청 업체가 사용자성이 인정되지 않은 하청 근로자의 근로 조건에 대해 하청 노조와 교섭하는 건 하청업체의 경영권을 침해하는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;이날 매뉴얼에는 지난 24일 시행령에서 확정된 임금 체계, 휴가, 채용방법 등 약 20개의 분리 교섭 요구 가능 항목을 언급하며 이를 종합해 교섭 창구 분리 여부를 판단하겠다는 내용도 포함됐다. 이로 인해 하청 노조 간 분리는 더 쉬워지고, 기업들이 상시적 교섭 요구에 시달릴 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“대한 독립 만세”</title>
