@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[부음] 김원재 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/02/28/KEZS2R3ASVFWLFQEXNNWZG3CI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/02/28/KEZS2R3ASVFWLFQEXNNWZG3CI4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Feb 2026 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;▲김원재 &lt;/b&gt;별세, &lt;b&gt;허성 &lt;/b&gt;코오롱인더스트리 대표 장인상=27일9시44분 서울성모병원, 발인 2일8시, (02)2258-5940&lt;br&gt;&lt;br&gt;&lt;b&gt;▲전순섭 &lt;/b&gt;별세, &lt;b&gt;박종성&lt;/b&gt;·&lt;b&gt;박옥희&lt;/b&gt; 모친상, &lt;b&gt;이상보&lt;/b&gt; 장모상, &lt;b&gt;황영숙&lt;/b&gt; 시모상, &lt;b&gt;박영수&lt;/b&gt;·&lt;b&gt;박정수 &lt;/b&gt;이데일리 증권시장부 차장 조모상, &lt;b&gt;이효준&lt;/b&gt;·&lt;b&gt;이예린&lt;/b&gt; 외조모상,=27일8시36분 경기 안성 성혜원, 발인 1일8시, (031)671-6500&lt;br&gt;&lt;br&gt;&lt;b&gt;▲최원식 &lt;/b&gt;별세, &lt;b&gt;최석호&lt;/b&gt; TV조선 전국부 차장 부친상, &lt;b&gt;이하람&lt;/b&gt; 작가 시부상=27일5시59분 신촌세브란스병원, 발인 1일8시, (02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 법무부 외</title>
+      <link>https://www.chosun.com/national/people/2026/02/28/OFYGG4LOQBHOXKLTN5QC77ZKWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/28/OFYGG4LOQBHOXKLTN5QC77ZKWE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Feb 2026 15:43:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;법무부&lt;/b&gt;◇고위공무원 승진▷서울남부지검 사무국장 김철곤▷의정부지검 사무국장 조순남▷춘천지검 사무국장 변영욱▷대전지검 사무국장 설우용▷청주지검 사무국장 이은승▷대구지검 사무국장 정연철▷부산지검 사무국장 한생일▷울산지검 사무국장 조경익▷전주지검 사무국장 박영범◇고위공무원 전보▷서울고검 사무국장 유정민▷대전고검 사무국장 김봉석▷서울중앙지검 사무국장 정영운▷서울동부지검 사무국장 김용권▷서울북부지검 사무국장 이은상▷서울서부지검 사무국장 이상남▷인천지검 사무국장 오은택▷수원지검 사무국장 장정호▷광주지검 사무국장 정연익▷제주지검 사무국장 김영헌▷법무부(국립외교원) 조현철◇검찰부이사관 승진▷대검찰청 운영지원과장 김재영▷〃 집행과장 윤성훈▷서울고검 총무과장 이동영▷대전고검(대통령비서실) 박종길▷대구고검 총무과장 신현태▷부산고검 총무과장 이창균▷광주고검 총무과장 최성규▷천안지청 사무국장 박춘광▷부산서부지청 사무국장 고영호▷순천지청 사무국장 고영록◇검찰부이사관 전보▷수원고검 총무과장 배은호▷서울중앙지검 총무과장 허철안▷고양지청 사무국장 이승희▷부천지청 사무국장 강재성▷성남지청 사무국장 이택근▷안산지청 사무국장 조동규▷안양지청 사무국장 홍석표▷대구서부지청 사무국장 이동영▷법무부(통일교육원) 이헌▷〃(국방대학교) 최대진◇검찰수사서기관 승진▷법무부 국가소송과(법무과) 박보균▷〃 검찰과(인천공항분실) 권성기▷〃(국무조정실 공직복무관리관실) 최병휘▷〃(국무조정실 정부합동부패예방추진단) 양종복▷〃(국무조정실 범정부검찰개혁추진단) 변태한▷대검찰청 공공수사기획관실 노석균▷〃 감찰2과 이기삼▷서울중앙지검 수사제2과장 박찬길▷서울동부지검 검사직무대리 서종철▷서울남부지검 사건과장 이홍래▷〃 집행과장 고형민▷서울북부지검 총무과장 노진원▷〃 검사직무대리 신경준▷서울북부지검 검사직무대리 윤명근▷의정부지검 집행과장 조정훈▷남양주지청 사무과장 조문영▷원주지청 사무과장 이재곤▷대전지검 수사과장 문중수▷대구지검 검사직무대리 김석곤▷대구서부지청 총무과장 김재윤▷안동지청 사무과장 정왕일▷포항지청 사무과장 서창훈▷김천지청 사무과장 조영주▷부산지검 사건과장 최영호▷〃 집행과장 홍승아▷〃 조사과장 김종일▷〃 검사직무대리 신희근▷부산서부지청 수사과장 주선영▷울산지검 집행과장 김두빈▷〃 검사직무대리 손무성▷창원지검 총무과장 이영우▷〃 사건과장 최성준▷〃 검사직무대리 백양권▷진주지청 사무과장 최희주▷통영지청 사무과장 공창규▷전주지검 수사과장 박기우▷〃 검사직무대리실(수원지검 마약범죄정부합동수사본부) 박영진▷제주지검 사건과장 박승현◇검찰수사서기관 전보▷법무부(진실화해위원회) 박상우▷법무연수원 용인분원 운영지원과장 박태휘▷대검찰청 범죄정보기획관실(운영지원과) 최형수▷〃 운영지원과 이경운▷〃 반부패기획관실 문재식▷〃(법무부 검찰개혁지원TF) 소진호▷서울고검 사건과장 김은경▷〃 소송사무과장 김도형▷대전고검 사건과장 주영수▷수원고검 사건과장 최순례▷서울중앙지검 집행제2과장 유영걸▷〃 기록관리과장 박광수▷〃 피해자지원과장 김원석▷〃 공공수사지원과장 박남규▷〃 수사지원과장 정태규▷〃 검사직무대리 김상우▷서울동부지검 사건과장 윤대석▷〃 집행과장 이재종▷서울남부지검 수사과장 윤재남▷서울북부지검 사건과장 유인진▷〃 수사과장 박정호▷서울서부지검 총무과장 송학수▷〃 사건과장 김경미▷〃 집행과장 최정인▷〃 조사과장 강윤정▷의정부지검 총무과장 김상현▷인천지검 총무과장 정유진▷〃 집행과장 이형근▷〃 조사과장 고익찬▷〃 마약수사과장 박영철▷〃 공판송무과장 김정호▷〃 검사직무대리 박현경▷〃 검사직무대리실(대검찰청 집행과) 천영심▷수원지검 검사직무대리 윤치기▷안산지청 총무과장 조수희▷〃 검사직무대리 이필재▷안양지청 총무과장 강용묵▷춘천지검 사건과장 정재웅▷강릉지청 사무과장 안해룡▷대전지검 사건과장 이규용▷〃 집행과장 이승환▷청주지검 총무과장 박순영▷〃 사건과장 김중호▷충주지청 사무과장 이해형▷대구지검 총무과장 이호종▷〃 사건과장 류성욱▷〃 조사과장 김종철▷부산지검 총무과장 이상만▷〃 공판과장 강석한▷울산지검 공공수사지원과장 이정국▷창원지검 수사과장 안상보▷광주지검 총무과장 양미정▷〃 집행과장 양동현▷〃 검사직무대리 박종섭▷순천지청 총무과장 이상인▷전주지검 총무과장 김왕태▷〃 사건과장 김병호▷〃 집행과장 윤한평▷제주지검 집행과장 정석현&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울여대&lt;/b&gt;▷학부대학장 김미라▷인문대학장 정용길▷사회과학대학장 최혜지▷미래산업융합대학장 홍헬렌▷아트앤디자인스쿨학부장 이재원▷바롬인재교육원장 정소연▷인간-AI협력연구센터장 김형종▷박물관장 최성원&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷국제부 주일특파원 류 정&lt;br&gt;&lt;br&gt;▲&lt;b&gt;TV조선&lt;/b&gt;▷상무 윤정호▷보도본부장 겸 보도국장 이재홍▷특임본부장 김동욱&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘李 지지’ 배우 명계남, 차관급 황해도지사 임명</title>
       <link>https://www.chosun.com/national/people/2026/03/02/ILYYSXEV5BF2DNAGFDEBZYE2SU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/02/ILYYSXEV5BF2DNAGFDEBZYE2SU/</guid>
@@ -892,24 +910,6 @@
       <description/>
       <pubDate>Fri, 27 Feb 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLCJ5COLZZCYFPRXOPIE45TQ44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지속가능발전기업협의회(KBCSD·회장 이경호)는 ‘제20회 KBCSD 언론상’ 대상에 연합뉴스 이슬기 기자 등 3명(기획 ‘전기화 시대 도전’ 시리즈)을 선정했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;신문 보도 부문 우수상은 ▲조선일보 박상현 기자(연중 기획 ‘기후 위기의 한반도, 기후 적응의 한반도’) ▲아시아경제 이현주 기자 등 4명(기획 연재 ‘정의로운 전환의 길’)에게 각각 돌아갔다. TV 방송 부문 우수상은 ▲YTN 서은수 PD 등 2명 ▲CPBC 전은지 기자 등 8명 ▲EBS 김민지 PD 등 5명이 선정됐다. 시상식은 27일 서울 삼성동 그랜드 인터컨티넨탈 호텔에서 열렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김두만 장군, 협성사회공헌상</title>
-      <link>https://www.chosun.com/national/people/2026/02/28/IR2UB22VSJDWHBYETGN4RUX7CQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/02/28/IR2UB22VSJDWHBYETGN4RUX7CQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMTFKW6UPVCH5ADRMZ673Y2G5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6.25 10대 영웅 중 한분으로 살아있는 공군의 전설로 불리는 김두만 전 공군참모총장 /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 10대 영웅으로 공군의 살아 있는 전설로 불리는 김두만(99) 전 공군참모총장이 27일 협성사회공헌상을 수상했다. 전투기 조종사 최초로 100회 출격을 기록한 김 장군은 6·25 당시 승호리 철교 차단 작전을 수행, 영화 ‘빨간 마후라’의 모티프가 된 주역이다. 협성문화재단은 부산의 중견 향토기업인 협성종합건업 정철원 회장이 2010년 설립했으며, 상금은 5000만 원이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 2월 28일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/02/28/VVMTXESOMZFJJLNPWUZTYHZP6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/02/28/VVMTXESOMZFJJLNPWUZTYHZP6U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:43:00 +0000</pubDate>
-      <content:encoded>토 - ‘최고 17도’ 포근하고 제주에 비 &lt;br&gt;&lt;br&gt;일 - 대체로 흐리고 일교차 커&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5UYKT2U4BA5HLEBSDUXIGYAOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>성찰하는 재판, 존중받는 재판</title>
