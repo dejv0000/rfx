@@ -13,6 +13,171 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “황창규·구현모 전 KT 경영진 손해배상 책임 일부 인정”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/02/MOENH7HSDNFSHLFLYXNI5QHJWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/02/MOENH7HSDNFSHLFLYXNI5QHJWA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 01:22:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3GGMRWG5QWEYJSMFRWCYLCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘정치인 쪼개기 후원’ 등과 관련해 황창규 전 KT 회장과 구현모 전 KT 대표이사가 소액주주에 일부 배상 책임이 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 KT 주식 3만3676주를 6개월 이상 보유한 소액주주 35명이 KT 전 경영진을 상대로 낸 약 765억원 상당의 손해배상 청구 소송에서 황 전 회장 등의 배상 책임을 인정하지 않은 원심 판결을 파기하고 사건을 수원고법으로 돌려보냈다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;KT 소액주주 35명은 2019년 황 전 회장 등 11명이 고의 또는 과실로 법령 등에 위반한 행위를 하거나 임무를 게을리해 KT에 손해를 끼쳤다며 손해배상 소송을 제기했다. &lt;br&gt;&lt;br&gt;이들은 무궁화위성 3호의 해외 매각, 재단법인 미르에 대한 현금 출연, 대외협력 부서인 CR부문 임직원들의 정치자금 조성 및 송금, KT 아현국사 화재 및 통신시설 등급 변경 등으로 손해를 입었다고 주장했다.&lt;br&gt;&lt;br&gt;소액 주주들은 2010년 4월 KT 전 경영진이 방송통신위원회 인가 및 지식경제부 장관 허가 없이 KT의 전략자산인 무궁화위성 3호를 홍콩 소재 회사에 매각해 KT에 손해를 발생시켰다고 주장했다. 황 전 회장 등이 2015년 10월쯤 전국경제인연합회(전경련)의 요청을 받고 재단법인 미르 설립을 위한 11억원 출연을 결정해 손해가 발생했다는 점도 언급했다. &lt;br&gt;&lt;br&gt;정치인 쪼개기 후원과 관련해선 2014년 5월부터 2017년 10월까지 구 전 대표가 상품권을 구매하고 되팔아 현금화하는 방식으로 약 3억3000만원가량의 비자금을 조성했고, 이를 이용해 국회의원 99명을 후원했다는 점을 지적했다. 2018년 11월 서울 서대문구 KT 아현국사에서 발생한 화재로 과학기술정보통신부 장관이 아현국사를 ‘중요통신시설(A~C급)’에 해당하게 변경했음에도, 이를 D급으로 관리하는 등 관리 소홀 문제가 있다는 점도 피해 사실에 포함됐다.&lt;br&gt;&lt;br&gt;1심과 2심은 KT 전 경영진에 손해배상 책임이 없다고 판단했다. 재판부는 무궁화위성 3호 매각은 피고가 사후적으로 매각 사실을 보고받기만 했다고 봤고, 재단법인 미르에 대한 출연은 사안에 대한 구체적인 검토가 없었던 것은 인정되나 제출된 증거만으로는 이사로서의 임무를 게을리했다고 보기 어렵다고 봤다. &lt;br&gt;&lt;br&gt;정치자금 조성 역시 증거가 없다고 판단했다. 재판부는 구 전 대표에 대해 정치자금 송금에 관여한 날부터 송금이 종료한 날까지 법령 위반이나 임무 해태가 인정되지만 정치자금으로 제공된 금액이 모두 회사로 반환돼 배상 책임이 없다고 봤다. 아현지사 화재는 전 경영진이 전반적인 감독 책임이 있었다는 사정만으로 화재 발생으로 인한 손해 배상 책임이 있다고 보기 어렵다고 설명했다.&lt;br&gt;&lt;br&gt;반면 대법원은 황 전 회장과 구 전 대표에게 손해배상 책임이 일부 있다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 CR 부문 임직원들이 비자금을 조성하는 데 황 전 회장이나 구 전 대표 등 다른 임직원들의 제지나 견제를 받지 않았다며 “황 전 회장, 구 전 대표를 비롯한 이사들은 상품권 현금화를 통해 부외자금 조성이 이뤄지는 것을 방지하기 위해 KT의 내부통제시스템 구축 및 운영 상태를 확인·점검하는 등 조치도 취하지 않았다”고 짚었다. 그러면서 황 전 회장과 구 전 대표가 각각 비자금이 조성된 2014년 5월과 이사로 선임된 2016년 3월부터 비자금 조성이 종료된 2017년 10월까지 CR 부문 임직원들의 업무집행에 대해 감시의무를 게을리했다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원노조 “사법 3법 부작용 줄일 후속 대책 필요…입법 협의체 구성해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/03/RUVPVLW5IBAGZPPQX7HKKODRUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/RUVPVLW5IBAGZPPQX7HKKODRUM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Mar 2026 05:37:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRWCMBXGQZWEYTGHEZDCNJQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국공무원노동조합 법원본부(법원노조)가 최근 국회를 통과한 ‘사법 3법’(법왜곡죄·재판소원·대법관 증원법)과 관련해 3일 부작용을 최소화하기 위한 대책 마련을 촉구했다.&lt;br&gt;&lt;br&gt;법원노조는 3일 성명서를 내고 “사법 3법 시행과 관련해 부작용을 최소화하는 대책을 마련해야 한다”며 “법원행정처 폐지 등 이후 추진될 국회의 사법 제도 관련 입법에 대해서도 특별위원회 등 협의체를 만들어 건설적인 논의를 진행할 수 있어야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;법원노조는 사법 3법이 사법부 반대에도 국회를 통과한 것을 두고 “그간 법원이 국민 정서와 시대정신에 어긋난 재판으로 신뢰를 잃고 철저히 외면받아 온 결과”라고 주장했다. 조희대 대법원장이 이날 출근길에서 ‘법원에 대한 국민들의 신뢰가 높다’고 언급한 것을 두고는 “사법 신뢰 추락의 원인을 깨닫지 못하거나 애써 외면하는 것”이라고 했다. 법원노조는 “조 대법원장은 정치적 격랑 속에서 책임을 지고 사퇴해야 한다”며 “사법부는 거기서부터 사법 신뢰 회복을 위한 여정을 다시 시작해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>탑승 전 말다툼 기내 폭행으로…다른 승객 머리 때린 20대 여성 입건 </title>
+      <link>https://www.chosun.com/national/national_general/2026/03/02/GMMPICL3QREYFP6OWM7LN5H5SM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/GMMPICL3QREYFP6OWM7LN5H5SM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 00:12:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3TMYTBMZSTKYLEG42DGMZXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 13일 인천국제공항 활주로에서 아시아나항공 여객기가 계류장으로 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 미국 로스앤젤레스(LA)에서 출발해 인천국제공항으로 향하는 여객기 안에서 20대 여성이 다른 승객을 폭행해 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;1일 인천공항경찰단에 따르면 경찰은 LA에서 출발해 이날 새벽 도착한 여객기에서 20대 여성 A씨를 항공보안법 위반 혐의로 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 비행기 탑승 전 한 30대 여성과 말다툼을 벌였고, 기내 탑승 후 앞좌석에 앉아 있던 이 여성의 머리를 가격한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;피해자는 이마 부위에 5㎝가량 상처가 생기는 등 부상을 입어 기내에 탑승해 있던 의료진에게 응급처치를 받았다.&lt;br&gt;&lt;br&gt;승무원들은 A씨를 피해자와 분리 조치한 뒤 인천국제공항 도착 후 경찰에 인계했다. 범행 당시 A씨는 음주 상태는 아니었던 것으로 나타났다. &lt;br&gt;&lt;br&gt;경찰은 범행 동기 등 구체적인 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해외 우수인재 비자 확대·지역이민 패키지 프로그램 신설</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/03/NZDWETL7QFBCPPZEJKSF2V74CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/NZDWETL7QFBCPPZEJKSF2V74CU/</guid>
+      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Mar 2026 05:07:18 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BKAL32NLRPODOLT6MGREGW3AM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 3일 정부과천청사 법무부 청사에서 ‘2030 이민정책 미래전략‘을 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZGGZTGGAZWGOBZMRQTSMJXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;첨단산업 등 해외 우수인재의 국내 정착을 목표로 하는 ‘톱티어 비자’ 발급 대상이 8개 첨단산업의 ‘기업체 인력’에서 과학기술 분야의 ‘교수·연구원’까지 확대된다. 인구감소지역에 외국인 정착할 수 있도록 돕는 ‘지역이민 패키지 프로그램’도 신설된다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 이런 내용을 담은 ‘2030 이민정책 미래전략’을 3일 발표했다. &lt;br&gt;&lt;br&gt;우선 법무부는 해외 우수인재 유치를 확대하기 위해 톱티어 비자 발급 대상을 확대하기로 했다. 현재 반도체·인공지능(AI)·2차전지·미래차·바이오·로봇·디스플레이·방산 등 8개 첨단산업 분야의 기업체 인력에서 과학기술 연구 분야로 대상을 늘리기로 했다. 이를 통해 현재까지 20명 발급에 그쳤던 톱티어 비자 취득 인원을 2030년까지 350명(첨단산업 250명·과학기술 100명)으로 늘린다는 목표를 세웠다.&lt;br&gt;&lt;br&gt;국내 전문대에서 제조업 관련 학과를 졸업한 외국인을 위한 ‘육성형 전문기술인력 비자(E-7-M)’도 신설한다. 이른바 ‘K-코어 비자’로서 현장에 바로 투입할 수 있는 기술·기능직 인력이 필요하다는 산업계 요구에 따른 것이다. 법무부는 기존의 고용허가제(E-9) 비자는 저학력·저숙련 인력 중심으로 설계돼 산업 경쟁력 강화 및 사회 통합에 한계가 있다는 지적을 고려했다고 설명했다.&lt;br&gt;&lt;br&gt;법무부는 외국인이 인구감소지역에서 학업·취업·정주할 수 있도록 하는 지역이민 패키지 프로그램도 마련했다. 기존의 지역특화형 비자 쿼터를 확대하고, 해당 지역 외국인들에게 취업·생활 정보, 사회통합 교육, 보육, 자녀 교육을 지원하기로 했다.&lt;br&gt;&lt;br&gt;인구감소지역 상권 활성화를 위한 지역 특화형 비자 제도도 만들어진다. 현재 지역특화형(F-2-R) 외국인 고용 기업은 3개월 이상 고용된 내국인이 최소 1명 이상이어야 외국인을 고용할 수 있다. 법무부는 인구감소지역 특성상 내국인 고용 자체가 쉽지 않은 만큼, 사업 지속 기간, 근로여건 등을 고려해 설정한 특례 허용 기준을 적용해 2년간 시범 운영할 예정이다.&lt;br&gt;&lt;br&gt;법무부는 복잡한 비자 체계도 개편하겠다고 밝혔다. 기업인과 고용주, 외국인이 비자 체계를 쉽게 파악할 수 있도록 취업 비자(E계열 10종·39개)를 산업 유형과 기술 수준별로 고·중·저 숙련의 3개로 단순화하기로 했다.&lt;br&gt;&lt;br&gt;한편으로 법무부는 외국인 인력 도입으로 내국인 임금 하락 등 예상되는 부정적 요인과 관련해서는 ‘외국인 임금 자문위원회’(가칭)를 법무부 장관 소속으로 설치할 예정이다. 노사정 각 기관에서 다음 연도 적정 임금 수준에 대한 의견을 받고, 이민·노동경제학 등 전문가로 구성된 자문위원회의 연구·조사 결과를 종합해 매년 임금 요건을 설정·고시하기로 했다.&lt;br&gt;&lt;br&gt;또한 법무부는 AI와 생체 정보를 활용해 고위험 외국인을 신속·정확히 분류해 입국을 차단한다는 목표를 세웠다. 반면 저위험 외국인은 여권 제시 없이 자동출입국심사대를 이용할 수 있게 하는 등 차별화할 예정이다.&lt;br&gt;&lt;br&gt;이 밖에 장기 체류 외국인에 대해서는 한국어 교육 등 사회통합프로그램 이수를 단계적으로 의무화하고, 일정 단계 이상을 수료해야만 체류를 허가하고 영주 자격을 부여하도록 해 내국인과의 갈등을 줄이도록 한다는 목표를 세웠다.	&lt;br&gt;&lt;br&gt;정 장관은 “저출생·고령화의 구조적 심화와 산업·기술 환경의 급속한 변화 속에서 기존에 저숙련·저임금 외국인근로자 유치 활용 방식 위주였던 이민정책을 중장기 국가전략 차원으로 재정립해야 한다고 판단했다”고 했다. 그러면서 정 장관은 “이민정책이 국가 경제와 민생 경제에 기여할 수 있도록 각각의 과제를 속도감 있게 추진하고, 국민이 체감할 수 있는 변화를 만들어 내겠다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 판사 비위 의혹 잇따르자 ‘윤리감사관 제도’ 연구 나선 대법원</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/02/IC7TC5A4GRCFBKG4GLM626JGGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/02/IC7TC5A4GRCFBKG4GLM626JGGU/</guid>
+      <dc:creator>박혜연 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 20:00:00 +0000</pubDate>
+      <content:encoded>최근 법관들의 비위 문제가 잇따르자 대법원이 윤리감사관 제도 정비에 나선 것으로 1일 확인됐다. 대법원은 지난달 23일 ‘법관 윤리 제고를 위한 대법원 윤리감사관의 권한에 관한 연구’ 수행을 위한 공고를 냈다. 대법원의 윤리감사관 관련 연구는 이번이 처음이다.&lt;br&gt;&lt;br&gt;대법원 윤리감사관은 법관 등의 비위·윤리 문제를 조사한다. 윤리감사관은 과거 법원행정처 차장 밑에 있었는데, 2017년 사법행정권 남용 의혹이 불거진 후 독립성·전문성 강화를 위해 2021년 대법원장 직속으로 변경됐다. 하지만 윤리감사관이 강제 조사를 할 수 없고, 외부 기관에 자료 제출을 요청할 법적 근거도 명확하지 않아 한계가 있다는 지적이 있었다. 조사 대상 법관이 협조하지 않으면 윤리감사관 조사가 늘어질 수밖에 없는 구조다. &lt;br&gt;&lt;br&gt;이번 대법원 연구 배경에 윤석열 전 대통령 내란 사건 1심 재판장인 지귀연 부장판사의 ‘룸살롱 접대 의혹’이 있다는 얘기가 나온다. 윤리감사관 조사 결과 지 부장판사는 2023년 8월 후배 변호사들과 저녁 식사비를 결제한 후 주점으로 이동해 술을 한두 잔만 마신 뒤 기념사진을 찍고 떠났다. 윤리감사관은 지 부장판사가 이 술자리 이후 후배 변호사들을 만나지 않았고, 최근 10년간 이들이 선임된 사건을 맡은 적이 없어 “직무 관련성을 인정하기 어렵다”고 판단했다. 하지만 이 사건을 계기로 법원 안팎에선 법관과 변호사 간 사적 교류가 어디까지 가능한지, 윤리감사관이 당사자 휴대전화 조사 없이 주로 진술에만 의존해 낸 결론을 믿을 수 있는지 등을 놓고 논란이 일었다.&lt;br&gt;&lt;br&gt;최근 법관들의 비위가 이어진 것도 대법원 결정에 영향을 줬다. 2024년 6월 제주지법 소속이던 오창훈·여경은·강란주 부장판사는 근무 시간 술을 마신 뒤 노래방에서 업주와 시비가 붙었고 경찰이 출동했다. 세 법관은 ‘경고’ 처분을 받았다. 김인택 부장판사는 지인인 면세점 팀장에게서 해외여행 경비를 대납받은 혐의(청탁금지법 위반)로 지난달 4일 벌금형에 약식 기소됐다. A 부장판사는 면허 정지 수준으로 음주 운전을 하다 적발돼 지난달 감봉 3개월 징계를 받았다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “최근 법관들의 윤리 인식이 전반적으로 느슨해졌고, 법관들 사이에 변호사 등 외부 인사 교류에 대해 ‘재판에 영향만 없으면 된다’는 안일한 의식이 퍼져 있다는 지적이 있어 이번 연구를 추진하게 됐다”고 했다. 대법원은 또 징계가 확정되기 전이라도 비위 의혹을 받는 법관을 재판에서 배제하거나, 해당 법관의 사무 분담을 변경하는 것을 검토하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독]“中 공안, 탈북민 25명 모이면 北 송환…임산부 강제 낙태까지”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/02/6FCLOIEIEZBZRLRA7P4TUF2Q3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/6FCLOIEIEZBZRLRA7P4TUF2Q3E/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2223UFO5R5ACNFTR6ABENXBEMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;2002년 5월 중국 랴오닝성 선양 주재 일본 총영사관 앞에서 탈북자 장길수씨 가족이 일본 망명을 시도하며 공관 안으로 뛰어 들어가려 하자 중국 공안이 이를 가로막고 있다. 당시 함께 탈북한 가족은 17명에 달했으나, 이 가운데 최소 5명은 강제 북송된 것으로 추정된다./로이터 통신&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 당국이 탈북민들을 체포하면 중·북 국경 수용소에 감금해놓고 무차별 폭행한다는 탈북민 증언을 담은 보고서가 나왔다. 이런 탈북민들은 북송되면 국경지대 북한 보위부 시설에 감금돼 또 폭행을 당하고 임산부들은 강제 낙태, 영아 살해 등 학대를 당했다고 북한인권정보센터는 최근 작성한 보고서 ‘북·중 기관의 재중 탈북자 강제송환 체계’에서 밝혔다. 북한 인권 단체인 북한인권정보센터는 2000년~2025년 중국 당국에 체포돼 북송됐다가 다시 탈북했거나 북한 안전부·보위부원 출신 탈북민 등 100여명을 조사해 이 보고서를 작성했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLLUD3B5ZFEVPIC3V6ANOO46MI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“中공안, 보이지 않는 곳 때려” &lt;/b&gt;&lt;br&gt;&lt;br&gt;본지가 입수한 북한인권정보센터 보고서를 보면 중국 공안은 탈북민을 체포할 때 법적 근거를 고지하지 않는다고 탈북자들은 증언했다. 변호인을 선임할 수 있다는 내용을 고지받지 못하는 것은 물론 북송 관련 통지서 같은 것도 전혀 받지 못했다는 것이다. &lt;br&gt;&lt;br&gt;보고서에 따르면, 탈북민들은 중국 당국에 체포되면 이른바 ‘변방 대대 구류장’으로 불리는 중·북 국경지대 치안 구류소와 변방 구류소, 송환 시설 등에 수감된다고 한다. 그런데 이 시설들은 환경이 열악할 뿐 아니라 공안의 폭행이 빈번하게 발생했다고 탈북민들은 증언했다. &lt;br&gt;&lt;br&gt;구류 시설에선 임신을 했거나 미성년인 탈북민에 대한 중국 공안의 폭행도 일상적으로 벌어졌다고 한다. 한 탈북민은 “출산 직후 젖먹이와 떨어진 여성들이 ‘내보내 달라’며 철창을 두드리자 간수들이 전기 곤봉으로 때렸다”고 증언했다. 또 다른 탈북민은 “공안이 ‘보이지 않는 데를 때리라’고 지시해 부하들이 발로 찼고, 등과 허벅지에 시커먼 멍이 들었다”고 했다. &lt;br&gt;&lt;br&gt;한 탈북자는 “중국 당국이 3일씩 밥을 안 주기도 하고, 공안이 먹다 남은 음식을 섞어 줬다”고 했으며, 또 다른 탈북자는 “이빨 자국이 난 과일 껍질이나 계란 프라이가 나왔다”고 했다. “구류장 구석에 고무 대야 하나를 두고 용변을 보게 한 뒤, 가득 차면 그대로 내다 버렸다” “넓은 방에 칸막이도 없이 바닥에 구멍만 뚫어 놓고 용변을 보게 했다”는 탈북민 증언도 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJ5DF2G75NFUZDUI4JJUBRSKZQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 8월, 재중 탈북 여성 13명과 어린이 2명이 동남아와 국경을 접한 중국 윈난성 쿤밍에서 탈출을 시도하다 중국 공안에 체포됐다. 이들은 쾌속정을 타고 이동할 계획이었으나, 탑승 직전 붙잡힌 것으로 전해졌다. 쿤밍은 동남아를 거쳐 한국으로 향하는 탈북민들의 주요 경유지 가운데 하나로 꼽힌다./겨레얼통일연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국은 강제 송환 금지 등을 규정한 난민협약 가입국이다. 하지만 중국 당국은 체포한 탈북자들에 대해 RSD(난민지위결정) 절차를 거치지 않았다고 한다. 한 탈북자는 “조선 사람이라고 하니까 공안이 바로 수갑을 채웠다. 다른 건 없었다”고 증언했다. 지린성 안도현 파출소 공안에게 체포됐다는 또 다른 탈북자는 “(공안이) 체포 사유도, 변호사를 선임할 수 있다고도 말하지 않았다”고 했다. 이들은 “수감된 이후 구금 기간이나 송환 집행 시점을 물어봐도 답변을 받을 수 없었다”고 진술했다. &lt;br&gt;&lt;br&gt;중국 공안에 체포된 탈북자들은 북송 당일 아침에서야 송환 방침을 알게 됐다고 증언했다. 이들은 “공안이 아무 말도 없다가 송환 당일에 ‘서둘러 나오라’고 한 뒤 바로 (북한 보위부에) 넘겼다”고 증언했다. 보고서에 따르면 중국 당국은 버스 한 대 승차 정원인 25명 정도를 체포하면 이들을 북송했다고 한다. 체포된 일부 탈북자는 북송 때까지 2~3일간 구류 시설에서 대기했다고 진술했지만, 3주 이상 구금 상태로 있었다고 증언한 이도 있었다. &lt;br&gt;&lt;br&gt;보고서에 따르면 중국 당국에 체포된 탈북자가 강제 북송되는 주요 경로는 6개였다. 중국 지린성·랴오닝성과 북한 평안북도·함경북도·양강도·자강도를 잇는 경로다. 양국 국경을 따라 최단거리로 이동해 당국 간 인계가 이뤄지도록 설계된 구조다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇“北, 임신부 낙태에 영아 살해까지” &lt;/b&gt;&lt;br&gt;&lt;br&gt;북한으로 송환된 탈북자들은 북·중 국경 지역 북한 보위부 시설에 구금된 상태에서 조사를 받았다고 한다. 이 과정에서 탈북자들은 폭행과 강제 노동에 시달렸다고 증언했다. 특히 중국인 남성에게 인신매매된 여성 탈북자들이 임신한 경우 북한 당국은 강제 낙태를 하거나 갓 태어난 영아를 살해했다고 보고서는 전했다. 한 탈북자는 “임신 8개월 여성의 배에 주사를 놓아 태아를 사산하게 했다. 출산 직후 영아를 숨지게 하는 경우도 있다”고 증언했다. 한 여성 탈북자는 “자연 갈색 머리라는 이유로 ‘자본주의에 물들어 염색했다’며 머리채를 잡아 벽과 책상에 내리쳤다”고 말했다. “임산부나 미성년자를 가릴 것 없이 모두 ‘배신자’라며 구타를 당했다” “각목, 나무 몽둥이, 가죽 벨트 등으로 맞았다”는 증언도 이어졌다.&lt;br&gt;&lt;br&gt;북한인권정보센터는 “탈북민 북송을 결정한 중국 공안국장과 이를 집행한 변방대대장 등 개별 행위자들에 대해 국제형사법상 책임을 물어야 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘공천 헌금’ 강선우 “국민께 심려 끼쳐 죄송...법정서 소명할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/03/CTHP2V3LCVHALPG7XADOS4C7HQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/CTHP2V3LCVHALPG7XADOS4C7HQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Mar 2026 05:28:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHDWCH44DBMPZMT4KTV5JHO6VI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1억 공천헌금' 의혹을 받는 강선우 무소속 의원이 3일 서울 서초구 중앙지법에서 열린 구속 전 피의자 심문에 출석하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>그날의 함성 되새기며 ‘3·1절 셀카’</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/02/FCZ5T6Y6BRBTRNTSFR3W7LSZMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/FCZ5T6Y6BRBTRNTSFR3W7LSZMU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HK3DAO2CVVBYBJAEJOMKF5NA3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼일절인 1일 오전 서울 서대문독립공원에서 서대문구 역사어린이합창단과 미스코리아들이 기념사진을 찍고 있다. 한복을 입고 태극기를 들었다. 뒤쪽에 독립문이 보인다. 이날 서대문독립공원 서대문형무소역사관에선 삼일절 기념 행사가 열렸다. 역사어린이합창단은 태극기를 흔들며 삼일절 노래를 불렀다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>압류 코인 69억원어치 털린 국세청… “내가 탈취했다 원상복구” 자수</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/02/VUABQJSB4NBW7DQHGSHXW3ZXV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/VUABQJSB4NBW7DQHGSHXW3ZXV4/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 15:41:00 +0000</pubDate>
+      <content:encoded>국세청이 고액 체납자의 가상자산을 압류한 것을 홍보하는 보도자료를 내면서 중요 정보를 노출해 60억원대 코인을 탈취당했다. 경찰이 관련 수사에 나선 가운데 한 남성이 자기가 코인을 탈취했다가 원상복구 조치했다고 경찰에 자진 신고했다.&lt;br&gt;&lt;br&gt;국세청은 지난달 26일 체납자의 가상자산이 든 콜드월렛(오프라인 전자지갑) USB 4개를 압류했다는 보도자료를 배포하면서 니모닉 코드를 함께 노출했다. 니모닉 코드는 분실한 가상자산을 복원할 때 쓰는 암호다. 콜드월렛은 실물 형태로 가상자산을 보관하는 전자지갑인데, 일종의 ‘마스터키’ 역할을 하는 니모닉 코드가 있으면 어디서든 코인을 복원할 수 있다. 콜드월렛 없이도 코인을 빼돌릴 수 있는 것이다.&lt;br&gt;&lt;br&gt;실제로 국세청이 보도자료를 배포한 당일 누군가가 보도자료에 노출된 니모닉 코드를 활용해 전자지갑에서 한화 69억원 상당의 코인을 탈취했다. 이에 국세청은 자체 가상자산 추적 프로그램을 통해 유출 경로 추적에 나섰고, 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;이런 사실이 알려지자 한 남성이 지난달 28일 오후 경찰청 온라인 민원접수 시스템을 통해 “내가 호기심에 저질렀다”며 신고했다. 신고자는 국세청이 니모닉 코드를 노출했다는 내용의 인터넷 게시글을 보고 호기심에 코인 탈취를 시도해 성공했고 이후 원상복구 조치를 했다고 주장하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;다만, 국세청 등은 “가상자산이 다시 콜드월렛에 돌아왔는지는 수사 상황이라 확인이 어렵다”고 했다. 이와 관련 국세청은 1일 입장문을 내고 “(니모닉 코드 노출은) 변명의 여지 없이 국세청의 잘못”이라며 “이번 사고를 계기로 보안체계 전반에 대한 외부진단을 실시하고, 대외 공개 시 민감 정보가 유출되지 않도록 사전 심의 등 내부 통제를 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;최근 공공기관이 압수·압류한 가상자산을 탈취당하거나 분실하는 사고가 잇따르고 있다. 광주지검은 최근 압수물로 보관하던 비트코인 상당량을 분실해 논란이 됐다. 서울 강남경찰서도 임의제출 방식으로 제출받아 보관하던 비트코인이 유출된 사실이 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 만 18~26세 청년 국민연금 첫 달 보험료, 정부가 대신 내준다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/02/42RJW3GOBZDANA5OIBQQCRQX3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/02/42RJW3GOBZDANA5OIBQQCRQX3Y/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
+      <content:encoded>내년부터 만 18~26세 청년이 국민연금에 처음 가입할 때 국가가 첫 달치 보험료를 대신 내주게 된다.&lt;br&gt;&lt;br&gt;1일 보건복지부와 국회 등에 따르면, 지난달 27일 국회 보건복지위원회는 법안심사소위원회를 열어 이 같은 내용의 국민연금법 개정안을 통과시켰다. 복지위 전체회의와 국회 본회의 등을 거쳐야 하지만, 이는 정부·여당이 추진하는 법안이라 연내 처리돼 내년부터 적용될 것으로 보인다.&lt;br&gt;&lt;br&gt;지원 금액은 내년 기준소득월액 하한액인 4만2000원 정도가 될 전망이다. 제도가 시행되는 2027년에 만 18세가 되는 2009년생부터 적용된다. 2009년생 45만1000명이 국민연금에 모두 가입할 경우 190억원 정도의 예산이 들어갈 것으로 추산된다. &lt;br&gt;&lt;br&gt;청년들의 생애 첫 국민연금 보험료 지원은 현 정부의 국정 과제다. 정부는 당초 ‘3개월 치’ 보험료 지원을 검토했으나 재정 여력 등으로 지원 규모를 1개월로 줄였다. 이미 국민연금에 가입된 청년이라면 가입 기간 1개월을 추가로 인정받을 수 있다. &lt;br&gt;&lt;br&gt;청년들을 대상으로 직접적인 연금 지원을 하는 건, 청년들이 연금 사각지대에 놓여 있다고 보기 때문이다. 2023년 말 기준 18~24세 청년들의 국민연금 가입률은 24.3%에 불과하다. 국민연금은 가입 기간이 길수록 나중에 받는 연금이 많아지기 때문에 가입이 빠를수록 유리하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외식도 ‘댕댕이’와 함께…  이젠 옆에 앉히고 먹어요</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/02/FJVXO4YLFRFTLIH7IIGIIQ4YCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/02/FJVXO4YLFRFTLIH7IIGIIQ4YCQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
+      <content:encoded>1일부터 반려동물과 함께 음식점을 이용할 수 있게 됐다. 그동안 장애인 보조견을 제외하곤 반려동물을 식당 안에 데리고 들어가 함께 음식물을 먹는 건 사실상 불법이었는데, 이제 공식적으로 음식점 출입이 가능해진 것이다. 다만 출입 가능한 반려동물은 개와 고양이로 한정되고, 음식점도 해당 영업주가 관할 지방자치단체에 ‘반려동물 동반 출입 음식점’으로 신청해놓은 곳만 가능하다. &lt;br&gt;&lt;br&gt;식품의약품안전처는 이 같은 내용이 담긴 식품위생법 시행규칙 개정안이 시행된다고 1일 밝혔다. 이에 따르면, 앞으로 개와 고양이 출입을 허용하려는 식당이나 카페, 제과점 업주는 관할 지자체 신청을 통해 동반 출입 음식점으로 지정을 받을 수 있다. 다만 관련 조건을 지켜야 한다. 해당 음식점은 ‘반려동물 동반 출입이 가능하다’는 안내문을 입구나 음식점 외부에 반드시 붙여 놓아야 하고, 예방접종을 하지 않은 개와 고양이는 출입할 수 없도록 업주가 확인해야 한다. 음식점 측에서 손님을 받을 때 개·고양이의 접종 증명서와 수첩 등을 확인해야 한다는 뜻이다. 음식을 먹을 때 반려동물은 전용 의자에 앉히거나 목줄 작용, 또는 전용 케이지 안에 들어가도록 했다. 이는 반려동물이 식당 내에서 함부로 돌아다니지 않도록 하려는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63IB64WW3ZBYBMZ44NGU3JK4BI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 음식점 측은 반려동물이 다른 손님에게 불편하지 않게 식탁 간격도 충분히 확보해야 하고, 털 등이 들어가지 않게 음식을 진열·보관할 때는 뚜껑과 덮개를 써야 한다. 사람이 쓰는 식기와 반려동물이 쓰는 식기도 구분해야 할 뿐 아니라, 주방 등에는 반려동물이 들어갈 수 없도록 조치를 취해야 한다. 다만 음식점 측에 반려동물끼리 물거나 하는 사고 등에 대비한 책임보험은 의무가 아니라 가입을 권고했다. &lt;br&gt;&lt;br&gt;현재 국내에서 개나 고양이를 키우는 인구는 1500만명이 넘는 것으로 추산된다. 원래 음식점에 반려동물을 데려가려면 내부에 반려동물을 위한 별도 분리 공간을 만들거나, 매장 바깥에 동물을 묶어 둬야 했다. 그렇지 않고 함께 음식을 먹는 건 관련 법규 위반이었다. 하지만 반려동물을 키우는 국내 인구가 계속 늘어나자 식약처는 2년 간 규제 샌드박스(일정 기간 규제 적용을 하지 않는 제도)를 통해 반려동물 동반 식당을 시범 운영해 본 뒤, 이번에 본격 허용키로 한 것이다. &lt;br&gt;&lt;br&gt;다만 까다로운 조건 때문에 확산이 더딜 것이란 전망도 나온다. 자영업자들 사이에선 “예방접종 확인과 동선 분리 등 음식점 부담이 너무 크다”며 “소형 음식점에서는 맞추기 어려운 조건”이라는 반응도 나온다. 반면 동물보호단체들은 “반려동물은 가족”이라며 반기고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[어떻게 생각하십니까] 도시철도, 노인 무임승차 정부 지원 해달라는데</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/02/CPELI6XINZEHDN7BR2JJ2WUI2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/02/CPELI6XINZEHDN7BR2JJ2WUI2Y/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
+      <content:encoded>6·3 지방선거를 앞두고 노년층 ‘지하철 무임승차 제도’를 둘러싼 논란이 다시 수면 위로 떠오르고 있다. 지난달 서울·부산·대구·인천·광주·대전 등 전국 6개 도시철도 운영기관의 노사(勞使) 대표들이 부산교통공사에 함께 모여 “애당초 무임승차는 국가 정책인 만큼 중앙 정부가 손실을 보전해달라. 재정이 한계에 다다랐다”고 한목소리를 냈다. 지방선거를 앞두고 각 정당에 ‘무임수송으로 발생하는 적자만이라도 보전해 달라’, 광역지자체장 후보들에는 ‘중앙정부를 향해 보다 더 강하게 목소리를 내달라’는 메시지를 던진 것이다. &lt;br&gt;&lt;br&gt;국내 도시철도는 65세 이상 노년층에게 운임을 받지 않는다. 이는 지난 1984년 전두환 당시 대통령 지시에 따라 노인복지법 시행령이 개정되면서 도입됐다. 국가 법령에 근거한 제도인 만큼 전국 지하철에 동일하게 적용되지만, 대구 등 일부 지자체는 자체 조례 등을 통해 무임 연령 상향을 추진 중이다. 도입 당시에는 65세 이상 인구 비중이 낮고 지하철 노선도 많지 않아 재정 부담이 크지 않았다. 무임수송은 장애인과 국가유공자에게도 적용되지만, 무임승차 인원의 약 85%가 65세 이상일 정도로 노년층 비중이 크다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D73TVM2YTNFTDGXXMRAJOGNTQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 고령화 속도다. 65세 이상 인구 비율은 1984년 4.1%에서 2025년 21.2%로 5배 이상 늘었다. 65세 이상 인구 비율이 20%가 넘는 ‘초고령사회’가 된 것이다. 노년층 인구가 빠르게 늘며 작년 전체 지하철 탑승객의 약 20%가 무임승차객이라고 한다. 무임수송 비용은 2020년 4456억원에서 작년 7754억원으로 5년 만에 74% 불어났다. 이 비용은 2030년 8260억원, 2035년 9180억원으로 늘어날 것으로 추산된다. 현재 도시철도 적자의 약 60%가 이 무임승차에서 발생하는 만큼, 적자폭이 더 커질 수밖에 없는 것이다. &lt;br&gt;&lt;br&gt;인건비와 전기요금, 지하철 유지·관리 비용은 빠르게 늘어나는데, 주민 반발과 정치적 부담으로 요금 인상을 제대로 할 수 없는 것도 원인이다. 일단 각 도시철도공사는 적자 해소를 위해 자구책을 실시하고 있다. 서울교통공사는 적자를 메우기 위해 2021년 자사 마스코트인 ‘또타’ 캐릭터 인형 판매 사업을 벌이고, 최근에는 ‘부역명’ 판매(역 이름에 기관이나 기업명을 넣어주는 사업)도 늘리고 있다. 서울 2호선 성수역에 패션 기업 ‘무신사’를 병기한 게 대표적이다. 하지만 도시철도 운영사측은 “이런 자체 사업만으로 수천억 원 규모의 적자를 메우는 건 역부족”이라고 주장한다.&lt;br&gt;&lt;br&gt;이에 중앙정부 차원의 지원을 요구하고 나선 것이다. 한 도시철도공사 관계자는 “노년층 무임 수송이 국가 정책인데도 손실 부담을 지자체와 도시철도가 모두 떠안고 있다”고 했다. 같은 무임 수송 제도를 운영하는 한국철도공사(코레일)만 해도 별도 법에 따라 국비로 무임 수송 손실 일부를 보전받는다. 하지만 정부는 “도시철도는 지자체 소관”이란 입장이다.&lt;br&gt;&lt;br&gt;전문가들 사이에선 “‘기초연금’ 수급 여부를 기준으로 무임 수송 제도를 손봐야 한다”는 주장이 나온다. ‘노인복지’라는 취지를 유지하면서도 무임수송에 따른 재정 부담을 줄이려면, 무임 연령을 일괄적으로 올리기보다 대상을 선별하는 방식이 더 효과적이라는 것이다. &lt;br&gt;&lt;br&gt;실제로 한국교통연구원의 최근 보고서에 따르면, 무임 연령을 ▲65세에서 70세로 높이는 방안 ▲65세를 유지하면서도 기초연금 수급 기준(소득 하위 70%)에 해당되는 노년층에게만 혜택을 주는 방안을 비교·분석한 결과 후자 측 비용 부담이 훨씬 적은 것으로 확인됐다. 70세로 상향 조정하면 현행 방식보다 무임 수송 비용이 29.5% 감소하지만, 소득 하위 70%에게만 혜택을 주면 비용이 71.7%까지 줄어든다고 한다(2030년 기준). 연구진은 “소득 수준에 따라 교통비를 차등화하는 방식이 지하철 적자 완화뿐 아니라 사회적 형평성도 높일 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3월에 즐기는 바다 서핑</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/02/TYZBM2DXINDKDPOALLF6F3CJNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/TYZBM2DXINDKDPOALLF6F3CJNA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2VZNUA6KZGRFMZRGCGVVQDZ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 부산 해운대구 송정해수욕장에서 서핑을 즐기는 시민들의 모습. 이날 부산은 낮 최고 기온 13도를 기록하며 포근한 초봄 날씨가 이어졌다. 2일 전국 아침 최저기온은 1~8도, 낮 최고기온은 4~12도로 예상되며 평년과 비슷한 수준을 보이겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 3월2일</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/02/Z2YXVZE7UBFRDANZJ3LYFQSQTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/Z2YXVZE7UBFRDANZJ3LYFQSQTM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
+      <content:encoded>전국에 눈·비, 제주는 ‘최고 14도’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCWNX3AR2NBQXDS7RQQL4D3UNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[Why] 최순실 일가의 改名 퍼레이드… 작명 전문가들 "개선보다 개악이 더 많아"</title>
+      <link>https://www.chosun.com/site/data/html_dir/2016/11/04/2016110401434.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2016/11/04/2016110401434.html</guid>
+      <dc:creator>권순완 기자</dc:creator>
+      <description>대한민국 사상 최악의 국정 농단 장본인으로 꼽히는 최순실(60)씨의 주민등록상 이름은 최서원이다. 최씨의 원래 이름은 최필녀였는데 최순실로 바뀐 뒤 2014년 2월 최서원으로 다시 개명됐다. 최씨 딸…</description>
+      <pubDate>Tue, 08 Nov 2016 01:35:22 +0000</pubDate>
+      <content:encoded>대한민국 사상 최악의 국정 농단 장본인으로 꼽히는 최순실(60)씨의 주민등록상 이름은 최서원이다. 최씨의 원래 이름은 최필녀였는데 최순실로 바뀐 뒤 2014년 2월 최서원으로 다시 개명됐다. 최씨 딸 정유라(20)씨도 작년 6월 정유연에서 현재 이름으로 개명했다. 최씨 조카이자 체육계 실세로 행세했다는 장시호(37)씨 역시 작년 2월 장유진에서 개명한 것이다. 최씨 아버지인 최태민(1994년 사망)씨는 생전 여섯 번 개명해 총 7개의 이름을 가졌던 것으로 알려졌다. 이 가족은 왜 이렇게 이름을 바꾸는 것일까. 최씨 일가의 잦은 개명을 두고 작명 전문가들은 “이름이 개선됐다기보다 개악된 경우가 많다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNIHY7BRRPWJH22MQWSWWR6GMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최순실씨 개명에 대해 다수의 성명학자들은 “최순실이란 이름을 최서원으로 바꾼 것은 좋으나 때늦은 감이 있다”고 말했다. 대학에서 성명학을 가르치는 김두규 우석대 교수는 “이름의 초성으로 볼 때 최순실은 ‘금금금(金金金)’에 해당돼 쇠가 서로 부딪히듯 본인의 자존심을 내세워 삶에 역경이 많은 운”이라며 “최서원은 ‘금금토(金金土)’로 흙이 쇠를 도와주기 때문에 원만하고 성공적인 삶으로 이끄는 이름이나 2년 전에 바꿨기 때문에 기존의 악운을 뒤집기 어려웠을 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;한자 이름의 획수를 여러 가지 방식으로 더해 운수를 분석하는 수리(數理) 성명학자들도 최순실의 한자 이름(崔順實)이 잠깐 번창하긴 하지만 오래가지 못하는 운이라고 말한다. 성명학자 이수봉씨는 “원래 최필녀(崔畢女)라는 이름은 ‘이산(離散)’격으로 잔머리는 뛰어나나 재물이 모이지 않고 가족·배우자와 이별하는 운이라 (최순실로) 바꿨을 가능성이 높다”며 “그러나 최순실 역시 영웅호걸의 운으로 잠깐 부귀는 누리겠으나 세력이 빈약해 곧 어려움이 닥치는 이름”이라고 말했다. 전문가들은 아직 밝혀지지 않은 최서원의 한자 이름을 ‘崔瑞原’으로 추정했다. 이 경우 그간 쌓아둔 부(富)를 안전하게 갈무리한다는 의미가 있다고 한다.&lt;br&gt;&lt;br&gt;정유라나 장시호의 경우 옛 이름과 현재 이름 모두 한글 발음상으론 큰 무리가 없다고 한다. 이 중 특히 정유연(鄭有然)을 수리 성명학으로 보면 분석 대상이 되는 한자 획수의 네 가지 합이 각각 발전, 안전, 흥성, 태공(泰功·커다란 성공)을 의미한다. 원종문 한국동양운명철학인협회 이사는 “정씨가 승마 국가대표로 뽑히고 재작년 아시안게임에서 금메달을 딴 것은 상당 부분 좋은 이름의 덕이라고 볼 수 있다”며 “다만 한자의 뜻을 오행으로 옮겨 보면 ‘토수화(土水火)’로 ‘풍파절목(風派折木)’격이라 극도로 예민하고 싸움이 잦은 성격으로 볼 수 있다”고 말했다. 정씨는 2014년 말 이화여대에 승마 특기자로 합격한 이후 SNS에 ‘능력 없으면 니네 부모를 원망해. 돈도 실력이야’라는 글을 올린 바 있다. 정유라의 한자는 아직 공개되지 않았다. 수리 성명학자들은 최근의 사태를 볼 때 ‘라’자만 ‘그물 라(羅)’로 바꿨을 가능성이 높다고 추측했다. 이 경우 초년(대략 30세 전후까지) 운이 시비(是非)로 점철돼 시시비비를 가리는 구설이 많아진다는 것이다.&lt;br&gt;&lt;br&gt;최태민의 여섯 번에 걸친 개명에 대해 전문가들은 “전문 작명가가 조언한 흔적이 거의 보이지 않는다”고 입을 모은다. 최태민(崔太敏), 최도원(崔道源), 최상훈(崔尙勳), 최봉수(崔峰壽), 최퇴운(崔退雲), 공해남(孔亥南), 방민(房敏) 등 이름 중 ‘수(壽)’ ‘퇴운(退雲)’ 등 보통 이름에 잘 넣지 않는 한자가 들어간 것이나 아예 성을 바꾼 것은 종교 활동을 위한 이름이라고 봐야 한다는 것이다. 최씨는 박근혜 대통령에게 접근하기 시작했던 1970년대 중반 최태민으로 개명했는데, 이 이름은 고독하고 곤궁한 운이며 수리 성명학으로는 그 총획이 26획으로 딸 최순실과 같아 잠시 영웅처럼 흥하다가 따르는 세력이 없어 곧 망하는 운이라고 한다. 결과적으로 7개 이름 중 제대로 지은 게 하나도 없다는 것이다.&lt;br&gt;&lt;br&gt;최순실씨는 이제 더 이상 개명하지 않아도 될까. 원종문 이사는 “1956년 6월 23일생이라는 최순실씨의 사주를 (생일이 양력이라고 가정하고) 봤을 때 최씨 운은 오행 중 ‘금(金)’이 강해져야 사는데 최서원이란 이름을 발음으로만 보면 금 기운이 충만하다”며 “그러나 때가 병신년(丙申年) 하반기로 금 기운이 센데도 기어이 ‘최순실 사태’가 터진 걸 보면 오랜 시간 불렸던 최순실이란 이름의 나쁜 기운이 아직까지 미치는 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;☞ &lt;a href="http://news.chosun.com/inside/why/old_index/201611/05/index.html"&gt;&lt;b&gt;‘Why?’ 조선일보 土日 섹션 보기&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LNIHY7BRRPWJH22MQWSWWR6GMA.jpg?auth=c315bb5fbfaa4a4020a27dc818764e6975106964409fbf120cf2e0b08de98a6c&amp;smart=true&amp;width=700&amp;height=413" type="image/jpeg" height="413" width="700"/>
+    </item>
+    <item>
+      <title>병역기피 위장 이민/1년형 첫 선고                   </title>
+      <link>https://www.chosun.com/site/data/html_dir/1994/05/28/1994052872703.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1994/05/28/1994052872703.html</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description>서울형사지법 1단독 변진장 판사는 27일 병역 기피를 목적으로 서류상 해외이민을 한 것 처럼 위장한 방의종 피고인 (27.D상운 대표)에게 징역1년을 선고했다. 병역법 위반 피고인에게 실형을 선고한 것은 이례적인 것으로 방피고인의 경우 대법원에서 유죄가 확정될 경우 관련 법규에 따라 형을 마치고 군에 입대해야 한다.  재판부는 또 김상진 피고인(23.상업)</description>
+      <pubDate>Fri, 27 May 1994 15:00:00 +0000</pubDate>
+      <content:encoded>서울형사지법 1단독 변진장 판사는 27일 병역 기피를 목적으로 서류상 해외이민을 한 것 처럼 위장한 방모 피고인 (27)에게 징역1년을 선고했다. 병역법 위반 피고인에게 실형을 선고한 것은 이례적인 것으로 방피고인의 경우 대법원에서 유죄가 확정될 경우 관련 법규에 따라 형을 마치고 군에 입대해야 한다. 재판부는 또 김모 피고인(23)과 박모 피고인(30)에게는 “초범이고 반성의 빛이 보인다”며 징역1년에 집행유예 2년을 선고했다. 박종인기자 &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>투자이민 위장 병역기피/부유층자제 6명 적발              </title>
+      <link>https://www.chosun.com/site/data/html_dir/1994/03/11/1994031173103.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1994/03/11/1994031173103.html</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description>서울지검 특수3부(이정수 부장검사)는 10일 남미국가와 캐나다 등 투자이민이 쉬운 국가로 이민가는 것처럼 꾸며 병역을 기피한 부유층 자제 6명을 적발, 이들 가운데 방의종(26.서울 서초구 잠원동 신반포10차아파트) 박재필(29.서울 관악구 봉천1동 현대아파트) 김상진씨(23.서울 서초구 서초2동) 등 3명을 구속했다. 공소시효(3년)가 지난 이석종씨(29</description>
+      <pubDate>Thu, 10 Mar 1994 15:00:00 +0000</pubDate>
+      <content:encoded>서울지검 특수3부(이정수 부장검사)는 10일 남미국가와 캐나다 등 투자이민이 쉬운 국가로 이민가는 것처럼 꾸며 병역을 기피한 부유층 자제 6명을 적발, 이들 가운데 방모(26)씨, 박모(29)씨, 김모(23.서울 서초구 서초2동)씨 등 3명을 구속했다. 공소시효(3년)가 지난 이모씨(29) 등 3명은 병무청에 통보했다. 모택시회사 사장의 아들인 방씨는 작년 7월 전가족이 캐나다로 이민가는 것처럼 수속을 밟아 입영연기처분을 받은 혐의를 받고 있다. 봉제공장 사장 아들인 김씨는 형제가 함께 볼리비아 이민을 위장해 병역을 기피한 것으로 드러나, 해외체류중인 형 김모(25)씨도 귀국즉시 입영조치토록 했다고 검찰은 밝혔다. 검찰은 이같은 이민을 가장한 병역기피가 성행하고 있는 것으로 보고, 관계기관으로부터 1천5백여명의 명단을 넘겨받아 수사를 확대하고 있다. 정권현기자 &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 홈플러스 회생계획안 가결기간 2개월 연장</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/03/HPLGKVD6F5E5JB2UR2DUA6SVZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/HPLGKVD6F5E5JB2UR2DUA6SVZ4/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Mar 2026 04:53:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3TMMBRMMZTSNZVGUZTAMJWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내에 있는 홈플러스의 모습. ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 MBK파트너스가 기업회생절차를 밟고 있는 홈플러스에 대해 회생계획안 가결기간을 연장했다.&lt;br&gt;&lt;br&gt;서울회생법원 회생4부(재판장 정준영 법원장)는 3일 홈플러스 회생계획안 가결기간을 기존 오는 4일에서 5월 4일까지로 2개월 연장 결정했다고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “MBK파트너스가 우선 투입할 1000억원으로 연체 중인 직원 급여 등 시급한 채무를 해결할 수 있을 것으로 기대된다”며 “향후 회생계획안이 인가되지 않고 폐지될 경우 MBK파트너스가 1000억원에 대한 상환청구권을 포기한다고 해 가결기한을 연장하더라도 회생채권자 등 다른 이해관계인에게 크게 불리하지 않다”고 했다. 그러면서 “홈플러스 익스프레스 부문 매각 진행 상황을 확인할 필요가 있다”고 설명했다.&lt;br&gt;&lt;br&gt;당초 회생계획안의 가결기한은 홈플러스의 회생절차 개시가 결정된 작년 3월 4일로부터 1년 후인 오늘 4일까지였다. 하지만 홈플러스 측은 전날 법원에 회생계획안 가결 기간 연장 신청서를 제출했고, 법원은 이를 받아들였다. MBK파트너스는 “오는 4일까지 500억원, 11일까지 500억원으로 총 1000억원의 DIP(긴급 운영 자금) 금융을 우선 투입할 것”이라고 밝힌 바 있다. DIP 금융은 회생절차에 들어간 기업이 기존 경영권을 유지하면서 자금을 조달하는 것을 뜻한다. &lt;br&gt;&lt;br&gt;앞서 홈플러스는 회생절차 개시 이후 회생계획안 제출기한을 5차례 연장한 끝에 작년 12월 29일 회생계획안을 제출했다. 회생계획안에는 ‘슈퍼마켓 사업부문(홈플러스 익스프레스) 매각’ ‘41개 부실 점포 정리’ 등 내용이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>졸음운전 차량에 의식 잃은 16세 외동딸...장기기증으로 6명에 새 삶</title>
       <link>https://www.chosun.com/national/national_general/2026/03/03/DNYEWRZXCBHTXAIM23L4KSYSWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/03/DNYEWRZXCBHTXAIM23L4KSYSWE/</guid>
@@ -576,79 +741,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A63S2XODVNJZTM65ZSS3UFXXSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 정부가 임명하는 첫 대법관 후보군을 선별하는 후보추천위원회가 열린 지난 1월 21일 서울 서초구 대법원에서 노태악 대법관이 회의장으로 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노태악 대법관이 6년간의 임기를 마치고 3일 퇴임한다. 그러나 조희대 대법원장이 후임 대법관 후보를 40일 넘게 임명 제청하지 않으면서 대법관 공백이 현실화됐다. 조 대법원장은 앞서 6명의 대법관을 임명 제청할 때 후보 추천 후 8~14일 정도가 걸렸는데, 이번엔 이례적으로 늦어져 그 배경을 두고 여러 추측이 나오고 있다.&lt;br&gt;&lt;br&gt;2020년 3월 취임한 노 대법관은 중도 성향으로 분류된다. 노 대법관은 2024년 5월 혼인 무효 청구 소송의 주심을 맡아 40년 만에 “이혼한 뒤에도 혼인을 무효로 할 수 있다”는 취지로 판례를 변경했다. 2021년 4월엔 김미희·김재연 등 통합진보당 출신 전직 의원들이 “국회의원직을 돌려달라”며 낸 사건 주심을 맡아 원고 패소 판결한 원심을 확정했다. 작년 7월엔 ‘대장동 개발 비리’와 관련해 뇌물을 주고받은 혐의로 기소된 김만배씨와 최윤길 전 성남시의장에게 무죄를 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;대법관후보추천위원회는 지난 1월 21일 노 대법관 후임 후보로 손봉기 대구지법 부장판사, 윤성식 서울고법 부장판사, 박순영·김민기(추천 당시 수원고법 판사) 서울고법 판사 등 4명을 조 대법원장에게 추천했다. 그런데 조 대법원장은 40일이 넘도록 이재명 대통령에게 제청할 후보를 정하지 않고 있다. 대법원장의 대법관 후보 임명 제청 후에도 국회 인사청문회, 본회의 표결, 대통령 재가 등 임명 절차가 남아 있어 노 대법관 후임 자리는 4주 이상 공백이 불가피할 것으로 보인다. &lt;br&gt;&lt;br&gt;그런데 조 대법원장은 지난달 26일 노 대법관이 맡았던 중앙선거관리위원 후임자로 천대엽 대법관을 지명했다. 사실상 천 대법관을 노 대법관의 후임 선관위원장으로 내정하면서 후임 대법관은 제청하지 않자, 법조계와 정치권에선 “청와대와 대법원이 대법관 후보를 누구로 할지 합의하지 못하고 있는 것 아니냐” “더불어민주당의 사법 3법 강행 처리 등 사법부 압박에 조 대법원장이 무언의 항의를 하고 있는 것 아니냐” 등의 추측이 나온다.&lt;br&gt;&lt;br&gt;통상 대법원은 대법관 최종 후보를 정할 때 청와대와 사전 조율을 거친다. 양측의 조율이 끝나면 대법원장이 청와대를 찾아 대통령을 면담한 뒤 최종 후보를 발표하는 식이었다. 애초 법원 안팎에선 진보 성향 법관 모임인 우리법연구회 출신임에도 중도 성향으로 꼽힌 윤성식 서울고법 부장판사가 대법관 후보로 유력하다는 관측이 많았다. 그러나 지난달 초 윤 부장판사가 내란전담재판부에 배정되면서 기류가 바뀌었다는 말이 나온다.&lt;br&gt;&lt;br&gt;나머지 세 후보는 진보 성향으로 알려져 있다. 손봉기 대구지법 부장판사는 김명수 대법원장 시절, 인기 투표라는 소리를 들었던 법원장 추천제를 통해 대구지법원장에 임명됐었다. 박순영 서울고법 판사는 김 대법원장 시절 중앙선거관리위원을 지냈다. 우리법연구회 출신인 김민기 서울고법 판사는 2020~2021년 김경수 전 경남지사의 드루킹 댓글 조작 사건 항소심에서 공직선거법 위반 혐의를 무죄로 뒤집어 정치권의 주목을 받았다. 법조계 한 인사는 “최근 국회를 통과한 ‘사법 3법’ 등 사법부와 여권의 갈등이 대법관 인선에도 영향을 미치고 있는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산은 봄꽃, 강원은 눈꽃… 같은 3월, 다른 풍경</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/03/4THIRXSH5JCTPP3ESWG3GNZHMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/03/4THIRXSH5JCTPP3ESWG3GNZHMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABBCGIHWWVD5XJ2QDEQ3BKM2PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22ILKQPUDVFPZDX56KY7ULNAQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울잠을 자던 개구리가 깨어난다는 절기인 ‘경칩’을 사흘 앞둔 2일 전국의 풍경. 이날 봄비가 내린 부산 수영구 수영사적공원에서는 산수유가 노란 꽃망울을 터뜨렸다(위쪽 사진). 지나가던 시민이 휴대전화로 산수유를 찍고 있다. 반면 강원 산간 지역에는 대설특보가 발령됐다. 관광객들이 함박눈이 내린 강원 평창군 발왕산 숲길을 걷고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 못받은 아동수당, 내달 말부터 일괄 지급</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/03/ORLKK3VDZBF6POIJLWR34TMME4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/03/ORLKK3VDZBF6POIJLWR34TMME4/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TAZDFGI3DONZQGE4GGYRRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 여의도 국회에서 열린 제432회 국회(임시회) 제8차 본회의에서 아동수당법 일부개정법률안(대안)이 가결되고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월 10만원 수준의 아동수당 지급 대상이 7세 이하에서 2030년 12세 이하로 확대되는 아동수당법 일부개정법률안이 1일 국회 본회의를 통과했다. 지난해 만 8세가 되면서 아동수당 지급이 끊겼던 2017년생들은 오는 4월부터 다시 받게 됐다.&lt;br&gt;&lt;br&gt;개정안에 따르면, 아동수당 지급 대상은 올해 8세, 내년 9세, 2028년 10세, 2029년 11세, 2030년 12세까지 매년 한 살씩 단계적으로 확대된다. 2017년 이후 태어났다면 만 12세까지 아동수당을 받을 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;아동 수당 확대는 이재명 정부의 국정 과제로, 정부는 이미 지난해 관련 예산을 모두 확보한 상태였다. 하지만 여야 의견 차이로 국회에서 법 통과가 늦어지면서 아동수당이 끊긴 아동이 생겼다. 법 통과 지연으로 수당이 끊긴 아동은 2017년 1월생부터 2018년 2월생까지 42만명에 육박한다. &lt;br&gt;&lt;br&gt;이번에 뒤늦게 법이 통과되면서 정부는 아동수당이 끊겼던 이들에 대한 수당도 4월부터 지급할 예정이다. 원래 수당 지급일인 4월 25일부터 본격적으로 수당이 나온다. 못 받은 올해 1~3월 3개월 치 아동 수당도 이때부터 소급해 지급할 예정이다. 소급분 지급은 늦어도 5월 중에는 이뤄질 전망이다. &lt;br&gt;&lt;br&gt;법 개정에 따라 수도권과 비수도권의 아동 수당 금액이 달라진다. 수도권 아동은 10만원이지만 비수도권과 인구 감소 지역에 거주하는 아동은 매달 최대 3만원까지 추가로 받게 된다. 이는 현재 아동 수당을 받는 7세 이하에도 모두 적용되는 것으로, 비수도권에 거주하면 모두 수당이 오르는 것이다. &lt;br&gt;&lt;br&gt;구체적으로 일반 비수도권은 10만5000원을 받는다. 별도로 인구 감소 지역 중 ‘우대 지역’으로 분류된 부산 동구, 경기 가평군 등 49개 시군구는 월 11만원, ‘특별 지역’으로 지정된 강원 양구군, 전북 고창군 등 40개 지역 아동은 월 12만원을 받게 된다. 여기에다 인구 감소 지역에서 아동 수당을 지역사랑상품권으로 받을 경우 매월 1만원을 추가로 받을 수 있다. 인구 감소 지역은 인구 감소가 심각해 지역 소멸이 우려되는 지역으로, 5년마다 행정안전부가 지정하고 예산을 지원한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘작은 위반도 처벌’ 소용없어… 올 산불 157건, 2년새 5배</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/03/VP6UWHI7BRCN7NVYKTBZSBBNOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/03/VP6UWHI7BRCN7NVYKTBZSBBNOE/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOHLELTM3RGFVE6W57T52V7KJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;겨울잠을 자던 개구리가 깨어난다는 절기인 ‘경칩’을 사흘 앞둔 2일 전국의 풍경. 이날 부산 수영구 수영사적공원에선 산수유가 노란 꽃망울을 터뜨렸다(왼쪽 사진). 봄비도 내렸다. 우산을 쓴 시민이 휴대전화로 산수유를 찍고 있다. 반면에 강원 산간 지역에는 대설특보가 발령됐다. 강원 평창군 발왕산에도 많은 눈이 내려 쌓였다./김동환·장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;메마른 날씨와 적은 강수량, 개인 부주의 등이 겹치며 올 들어 산불이 크게 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;2일 산림청에 따르면 올해 1월 1일부터 2월 25일까지 전국에서 발생한 산불은 157건, 피해 면적은 662.44㏊(헥타르·1㏊는 1만㎡)로 집계됐다. 이는 축구장 약 930개에 달하는 규모다. 지난해 1~2월(118건·90.22㏊)과 비교하면 발생 건수는 39건 늘었고, 피해 면적은 7배 이상 확대됐다. 재작년 같은 기간에는 산불 발생이 29건에 불과했다.&lt;br&gt;&lt;br&gt;정부가 불법 소각 등에 대해 ‘무관용 원칙’을 강조하고 있지만 개인 부주의로 인한 산불이 계속되고 올해는 메마른 날씨와 강풍까지 이어진 것이 영향을 미쳤다고 전문가들은 보고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZF665MOMSBGRLC2B4RJRVJFSBI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 축구장 200개 면적(143㏊)을 ‘산불영향구역’으로 만들었던 ‘경남 밀양 산불’은 쓰레기를 소각하다가 튄 불똥이 인근 산림으로 옮아붙어 확산한 것으로 추정되고 있다. 지난달 충북 단양에서는 80대가 추위를 피하려고 나뭇가지와 낙엽에 불을 붙였다가 불길이 번지면서 임야 약 4㏊가 소실됐다. 경남 창원에서는 10대 중학생 2명이 야산에서 폭죽을 터뜨리다 불이 번져 임야 3000㎡가량을 태웠다.&lt;br&gt;&lt;br&gt;날씨도 한몫했다. 한랭 건조한 북서풍이 연일 우리나라로 내려오면서 한반도의 메마름이 심해졌고, 여기에 찬바람이 백두대간을 넘어 더 고온 건조해지는 ‘푄 현상’도 동해안 지역 건조에 영향을 미쳤다.&lt;br&gt;&lt;br&gt;올겨울은 강수량도 적었다. 찬 북풍 세력이 지나치게 강력해 남쪽의 따뜻한 공기가 올라올 공간이 생기지 않았다. 올 1월 강원 강릉, 속초의 강수량은 각각 3.7㎜, 3.2㎜에 그쳤다. 눈구름대는 주로 서해상에 만들어졌고, 백두대간을 넘기 전 대부분 소진되면서 동해안엔 눈도 거의 내리지 않았다.&lt;br&gt;&lt;br&gt;전문가들은 산불의 피해 면적이 커지는 대형화가 진행되는 상황에도 주목하고 있다. 산림청에 따르면 2010년대 산불 피해 면적은 연평균 1000㏊ 아래였지만, 2020년대 들어 평균 2만㏊ 이상으로 20배 이상 커졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이번엔 꼭 성공할테야”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/03/CVOU34JPKZHQJGOGBJ63VWSV7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/03/CVOU34JPKZHQJGOGBJ63VWSV7U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TM53WAEF6BDZFFA7TLUQZHZJ5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정월 대보름을 하루 앞둔 2일 서울 종로구 국립민속박물관에서 외국인 관람객이 ‘2026년 병오년 정월 대보름 한마당’ 행사의 지신(地神)밟기 공연에 참여하고 있다. 지신밟기를 할 때는 보통 풍물놀이도 함께 한다. 지신밟기란 마을 사람들이 집마다 돌며 집터를 지켜주는 ‘지신’을 밟아서 달래는 풍속으로, 주로 설이나 대보름 사이에 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 고길순 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/03/E62KIITNJZHEJNO6EGFI5VMLOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/03/E62KIITNJZHEJNO6EGFI5VMLOM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded> ▲&lt;b&gt;고길순&lt;/b&gt; 별세, &lt;b&gt;김광택&lt;/b&gt;·&lt;b&gt;김숙희&lt;/b&gt;·&lt;b&gt;김인숙&lt;/b&gt;·&lt;b&gt;김현숙&lt;/b&gt; 모친상, &lt;b&gt;이낙연&lt;/b&gt; 前 국무총리·&lt;b&gt;조주연&lt;/b&gt;·&lt;b&gt;윤영민&lt;/b&gt; 장모상, &lt;b&gt;정안숙&lt;/b&gt; 시모상, &lt;b&gt;김동준&lt;/b&gt;·&lt;b&gt;김동현&lt;/b&gt; 조모상, &lt;b&gt;이동한&lt;/b&gt;·&lt;b&gt;조민주&lt;/b&gt;·&lt;b&gt;윤준상&lt;/b&gt;·&lt;b&gt;윤조순&lt;/b&gt; 외조모상, &lt;b&gt;한수정&lt;/b&gt;·&lt;b&gt;권나림&lt;/b&gt; 시조모상=1일18시15분 서울성모병원, 발인 3일5시, (02)2258-5961&lt;br&gt;&lt;br&gt;▲&lt;b&gt;강정희&lt;/b&gt; 별세, &lt;b&gt;이광수&lt;/b&gt; 前 한국와이퍼 회장 아내상, &lt;b&gt;이주흥&lt;/b&gt; 성균관대 의대 교수·&lt;b&gt;이주경&lt;/b&gt; IMF 시니어 이코노미스트 모친상=1일15시45분 삼성서울병원, 발인 4일7시30분, (02)3410-6920&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김명선&lt;/b&gt; 별세, &lt;b&gt;백준호&lt;/b&gt; 프로야구 두산 베어스 전무 모친상=1일16시 서울 중앙대병원, 발인 4일8시, (02)860-3506&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김영자&lt;/b&gt; 별세, &lt;b&gt;주낙윤&lt;/b&gt; 아내상, &lt;b&gt;주성식&lt;/b&gt; 아시아투데이 편집국 부국장·&lt;b&gt;주영근&lt;/b&gt; 서경산업 이사·&lt;b&gt;주영삼&lt;/b&gt; 삼구아이앤씨 근무 모친상, &lt;b&gt;이순주&lt;/b&gt; 한양대병원 진단검사의학과 과장·&lt;b&gt;박미정&lt;/b&gt;·&lt;b&gt;유미영&lt;/b&gt; 인카금융서비스 팀장 시모상=2일6시53분 서울 한양대병원, 발인 4일9시, (02)2290-9452&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최윤범&lt;/b&gt; 前 프로야구 해태 타이거즈 단장 별세, &lt;b&gt;조한옥&lt;/b&gt; 남편상, &lt;b&gt;최진영&lt;/b&gt;·&lt;b&gt;최정원&lt;/b&gt; 부친상, &lt;b&gt;조동식&lt;/b&gt; 장인상, &lt;b&gt;백승효&lt;/b&gt; 시부상=2일8시 광주광역시 VIP장례타운, 발인 4일8시30분, (062)521-4444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 산업통상부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/03/52SEBNFXHFFYNELMAFX7UA54CY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/03/52SEBNFXHFFYNELMAFX7UA54CY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;산업통상부&lt;/b&gt;◇국장급 승진▷제조산업정책관 김의중▷중견기업정책관 이규봉▷통상협정정책관 박근오◇과장급 승진▷산업환경과장 강은구▷조선해양플랜트과장 이디도▷미주통상과장 구진경▷중견기업지원과장 안응수▷원전수출협력과장 김동환▷산업인공지능정책과장 권순목김종주▷지역경제총괄과장 이재석▷표준정책과장 송영진◇팀장급 승진▷중남미대양주통상팀장 이동섭▷디스플레이가전팀장 김태현&lt;br&gt;&lt;br&gt;▲&lt;b&gt;경희의료원&lt;/b&gt;▷미래전략처 부처장 이왕룡▷미래전략처 정책기획팀장 정재호▷미래전략처 미래전략팀장 박정식▷사무국 교육지원팀장 최창호◇경희대병원▷기획조정실장 박봉진▷정보보호실장 홍승재▷홍보부장 겸 의료협력본부 커뮤니케이션실장 정비오▷환자안전본부장 겸 QPS 실장 겸 QPS 부장 김의종▷진료 1차장 권세환▷진료 2차장 겸 QPS 2차장 오치혁▷QPS 1차장 최용성▷환자경험차장 이승현▷산부인과장 직무대행 권병수▷행정부원장 겸 운영본부장 겸 안전보건본부장 이현호▷기획조정실 기획조정팀장 송영규▷간호부원장 겸 간호본부장 서현기▷환자안전본부 환자경험팀장 민성원◇경희대치과병원▷보존과장 장지현&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연세대 의료원&lt;/b&gt;▷의과대학장 최재영▷치과대학장 정영수▷간호대학장 겸 간호전문대학원장 이현경▷보건대학원장 겸 융합보건의료대학원장 지선하▷세브란스병원장 이강영▷강남세브란스병원장 김용욱▷용인세브란스병원장 박진오▷연세암병원장 이상길▷치과대학병원장 박원서&lt;br&gt;&lt;br&gt;▲&lt;b&gt;덕성여대&lt;/b&gt;▷사무처장 윤현성▷기획부처장 겸 대학혁신지원팀장 조은희▷관재과장 정재우▷디지털정보기술원 정보기술과장 사공봉▷시설과장 공석규▷입학관리과장 김락원▷국제처 국제교류과장 겸 유학생지원센터장 조연정&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 지워지는 흑연 자국, 종이에 붙어있는 탄소가 이동한거죠</title>
-      <link>https://www.chosun.com/national/nie/2026/03/03/QJTW2JLRZZEYLO3GEF6RTYLNOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/03/QJTW2JLRZZEYLO3GEF6RTYLNOU/</guid>
-      <dc:creator>이동훈 작가·'대충 봐도 머리에 남는 어린이 원소 상식' 저자, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:39:00 +0000</pubDate>
-      <content:encoded>새 학기를 맞았습니다. 우리는 학교에서 공부하면서 매일 연필로 글씨를 쓰죠. 미술 시간에는 연필로 멋진 풍경을 그리곤 하지요. 그러다 틀린 부분이 생기면 지우개로 쓱쓱 문질러 다시 고칩니다. 그렇게 연필의 검은 흔적은 어느 순간 깨끗하게 사라집니다.&lt;br&gt;&lt;br&gt;너무 익숙한 장면이지만, 잠깐만 멈춰 생각해보면 신기하지 않나요? 물감처럼 번지지도 않고, 볼펜처럼 잉크가 흐르는 것도 아닌데 어떻게 또렷한 선이 생길까요? 그리고 지우개로 지우면 종이에 남아 있던 선은 어디로 사라지는 걸까요?&lt;br&gt;&lt;br&gt;글씨가 생기고 사라지는 순간, 종이 위에서는 아주 작은 입자들의 이동이 일어납니다. 눈에 보이지 않는 세계에서 물질이 붙었다가 떨어지고, 자리를 옮깁니다. 우리가 연필을 움직이는 동안 종이 표면에서는 원자 수준의 변화가 진행되고 있는 셈입니다. 이 놀라운 현상의 출발점에는 한 가지 원소가 있습니다. 바로 탄소입니다. 오늘은 연필 속에 숨은 탄소에 대해서 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJZLBKYVTBCJFAIW42BQM4VQAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;연필심 흑연, 어떤 구조일까?&lt;/b&gt;&lt;br&gt;&lt;br&gt;연필심은 탄소 원소로 이루어진 ‘흑연’이라는 물질로 만들어집니다. 흑연 속에는 탄소 원자들이 서로 단단히 연결돼 육각형 모양을 이루고 있는데, 그 모습이 마치 벌집처럼 보입니다. 이 육각형 구조가 모여 하나의 얇은 판을 이루고, 그런 판들이 여러 겹으로 차곡차곡 쌓인 것이 흑연입니다. 얇은 종이를 여러 장 포개 놓은 모습과 비슷하다고 생각하면 이해하기 쉽습니다.&lt;br&gt;&lt;br&gt;한 장의 판 안에서는 탄소 원자들이 강하게 붙어 있지만, 판과 판 사이에는 비교적 약한 힘만 작용합니다. 그래서 종이 뭉치를 옆으로 밀면 한 장씩 미끄러지듯이, 흑연의 층도 서로 쉽게 미끄러집니다. 그래서 연필로 종이를 문지르면 가장 끝에 있는 얇은 층이 살짝 떨어져 나옵니다. 그 작은 조각들이 종이 표면에 붙으면서 우리가 보는 연필의 흔적이 만들어지는 것이지요. 결국 연필이 글씨를 남길 수 있는 이유는 바로 흑연의 겹겹이 쌓인 구조 덕분입니다.&lt;br&gt;&lt;br&gt;그럼 연필에서 떨어져 나온 흑연 조각은 어디로 갈까요? 그 답은 종이의 구조를 알면 알 수 있습니다. 종이는 나무에서 얻은 아주 가는 섬유들이 서로 얽혀서 만들어집니다. 겉으로 보면 매끈해 보이지만, 실제로는 틈이 많은 울퉁불퉁한 표면을 가지고 있습니다. 현미경으로 들여다보면 작은 홈과 돌기가 가득해요.&lt;br&gt;&lt;br&gt;연필로 종이를 문지르면 떨어져 나오는 흑연의 탄소 조각들은 종이 위에 단순히 얹히는 게 아닙니다. 섬유 사이 틈으로 들어가 자리를 잡는 거지요. 종이와 연필심 사이에 생기는 마찰이 흑연을 벗겨내는 동시에, 그 조각을 종이 표면에 눌러 붙게 만드는 역할을 하는 것입니다.&lt;br&gt;&lt;br&gt;탄소 입자가 종이 섬유 사이에 자리 잡기 때문에 연필 자국은 쉽게 지워지지 않고 또렷하게 남게 됩니다. 결국 연필을 사용하는 건 흑연 조각이 종이 섬유 사이에 안정적으로 자리 잡는 과정이라고 할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;지우개는 탄소를 옮기는 역할&lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 지우개는 이 탄소 입자를 어떻게 없애는 걸까요? 지우개는 흑연을 녹이거나 화학 반응으로 없애는 것이 아닙니다. 대신 마찰력과 점착력이라는 물리적 힘을 이용합니다. 지우개는 말랑하고 탄성이 있는 재질로 만들어지는데, 이런 성질 덕분에 종이와 문질러질 때 적당한 마찰력이 생겨납니다. &lt;br&gt;&lt;br&gt;지우개로 종이를 문지르면 종이와 지우개 사이에 마찰력이 생기고, 이 힘이 종이 섬유 사이에 붙어 있던 흑연 입자를 조금씩 떼어냅니다. 떨어져 나온 흑연 조각은 공중으로 날아가는 것이 아니라 지우개 표면에 달라붙습니다. 지우개가 종이보다 흑연을 붙잡는 힘인 점착력이 세기 때문입니다.&lt;br&gt;&lt;br&gt;지우개를 계속 사용하면 지우개 일부가 떨어져나와 지우개 가루가 생기죠. 지우개 가루는 회색빛을 띱니다. 그 안에는 흑연, 즉 탄소가 섞여 있습니다. 결국 글씨를 지운다는 것은 종이에 붙어 있던 탄소 입자가 지우개로 자리를 옮기는 과정이라고 할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;지워지는 볼펜&lt;/b&gt;&lt;br&gt;&lt;br&gt;연필은 흑연이라는 고체 입자를 종이에 남기는 방식입니다. 반면 볼펜은 연필과 달리 액체 상태의 잉크를 사용합니다. 펜 끝에는 아주 작은 금속 구슬이 있는데, 우리가 글씨를 쓸 때 이 구슬이 종이 위를 굴러가면서 잉크를 얇게 펴 바르는 역할을 합니다. 이 잉크는 액체이기 때문에 종이 섬유를 물들이며 색을 남깁니다. 마치 물이 종이에 닿으면 천천히 퍼지듯, 볼펜 잉크도 종이 내부까지 침투해 색을 남기는 것이지요.&lt;br&gt;&lt;br&gt;볼펜 잉크는 종이 섬유에 물들기 때문에 단순히 마찰력만으로는 쉽게 제거되지 않습니다. 그렇다면 요즘 나오는 지워지는 볼펜은 어떻게 가능할까요? 지워지는 볼펜에는 ‘열 반응 잉크’가 들어요. 이 잉크는 온도에 따라 색이 보였다가 사라지도록 만든 물질입니다. 지워지는 볼펜으로 글씨를 쓴 뒤 펜 뒤에 달린 고무로 문지르면 마찰력이 생기고, 그 과정에서 열이 발생합니다.&lt;br&gt;&lt;br&gt;이 열 때문에 잉크 색이 투명하게 바뀝니다. 중요한 점은 잉크가 없어지는 것이 아니라, 우리 눈에 보이지 않게 되는 것이라는 사실입니다. 그래서 아주 차가운 곳에 두면 색이 다시 나타나는 경우도 있습니다. 온도가 낮아지면 색소 구조가 다시 원래 상태로 돌아가기 때문입니다.&lt;br&gt;&lt;br&gt;우리가 매일 반복하는 ‘필기’라는 행동에는 탄소, 마찰력, 열과 같은 과학 개념이 함께 작용하고 있습니다. 종이 위에서 항상 물질의 이동과 변화가 일어나고 있는 셈이죠. 우리가 남긴 연필 글씨 한 줄은 탄소가 만들어낸 과학의 흔적입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책] 나와 다른 선택을 존중하는 마음… 서로를 향한 ‘진정한 사랑’이에요</title>
-      <link>https://www.chosun.com/national/nie/2026/03/03/632TBDHTXVDZ5OC4BONPCWVBKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/03/632TBDHTXVDZ5OC4BONPCWVBKQ/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5UZGDWRFFGJDKZYQPXWJVQQDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;에밀리 브론테 지음 l 공경희 옮김 l 출판사 푸른숲주니어 l 가격 1만3000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;지난달 11일 영화 ‘폭풍의 언덕’이 국내 개봉했어요. 이 영화는 영국 작가 에밀리 브론테가 1847년에 발표한 같은 제목의 소설을 원작으로 한 작품이에요. 원작의 영어 제목은 소설에 등장하는 저택 이름인 ‘워더링 하이츠’입니다.&lt;br&gt;&lt;br&gt;소설에서 워더링 하이츠 저택의 주인 언쇼는 부모 잃은 소년을 데려와 히스클리프라는 이름을 지어주고 정성껏 키웁니다. 언쇼의 친아들 힌들리는 그런 아버지를 못마땅해 합니다. 언쇼가 세상을 떠나자 힌들리는 히스클리프를 대놓고 하인 취급하면서 학대합니다. 그런 가운데 힌들리의 여동생 캐서린은 히스클리프와 사랑의 감정을 키워갑니다.&lt;br&gt;&lt;br&gt;하지만 캐서린은 린턴이라는 집안의 에드거와 우연한 계기로 가까워지고, 결국 에드거의 청혼을 받아들입니다. 캐서린은 에드거를 선택하면서도 자신이 히스클리프를 얼마나 사랑하는지 가정부에게 고백합니다. “내가 살아오면서 가장 중요하게 생각한 것은 히스클리프야. 모든 것이 없어져도 그만 남는다면 나는 살아갈 수 있어. 에드거에 대한 사랑은 숲 속의 나뭇잎과도 같아. 겨울이 오면 나무의 모습이 변하듯이 사랑도 변하겠지. 그러나 히스클리프에 대한 내 사랑은 땅 속 깊이 박힌 바위와 같아. 그는 언제가 내 마음 속에 있어.”&lt;br&gt;&lt;br&gt;캐서린의 결혼으로 마음에 깊은 상처를 입은 히스클리프는 워더링 하이츠를 떠났다가 10년 뒤 부자가 돼서 돌아옵니다. 히스클리프를 학대했던 힌들리는 아무렇게나 막 살고 있었습니다. 히스클리프는 그런 힌들리가 도박을 하도록 꾀어 파멸시킵니다. 더구나 캐서린의 남편인 에드거의 동생 이사벨라를 유혹하여 결혼한 뒤 차갑고 못되게 굴어서 그녀가 도망가도록 만들어 버립니다. 캐서린에게 배신당했다고 느낀 히스클리프가 다른 사람의 마음을 이용해가면서까지 복수에 나선 거지요.&lt;br&gt;&lt;br&gt;결국 히스클리프와 캐서린은 서로에 대한 미움 속에 사랑도 얽혀 있음을 확인하지만, 얼마 지나지 않아 캐서린은 세상을 떠납니다. 캐서린의 남편 에드거도 딸을 혼자 키우다가 세상을 떠납니다. 이사벨라도 히스클리프의 아들을 낳아 혼자 기르다가 세상을 떠나고 말죠. 캐서린은 히스클리프를 포기하고 에드거를 택했지만 자신의 마음을 끝까지 책임지지 못했습니다. 히스클리프는 복수하려다 결국 주변 사람들까지 불행하게 만들었죠.&lt;br&gt;&lt;br&gt;‘폭풍의 언덕’이 우리에게 묻습니다. 내가 사랑하는 사람이 내 뜻대로 행동하지 않으면, 나는 배신당한 걸까요? 히스클리프는 캐서린에게 배신당했다고 생각하고 분노했지요. 하지만 사랑하는 사람의 뜻을 존중하는 것이 진정한 사랑일 것입니다. 그것이 내 뜻과 다를지라도 말이지요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [사소한 역사] 8000년 전 등장한 농기구… 지금은 트랙터가 같은 역할 하고 있대요</title>
       <link>https://www.chosun.com/national/nie/2026/03/03/EGPXIS2OWRBPTI2KX5XCLUZIZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/03/EGPXIS2OWRBPTI2KX5XCLUZIZM/</guid>
@@ -659,73 +751,6 @@
 /국립문화유산연구원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인류는 신석기 시대부터 정착해 농사를 짓기 시작했습니다. 몇 차례 농사 경험을 통해 땅에 구멍을 내고 씨앗을 심는 것보다 부드럽게 일군 땅에 씨앗을 뿌리는 것이 더 효율적이라고 깨닫게 됐죠. 그래서 땅을 일구는 막대기를 개발하기 시작했고, 이것이 최초의 쟁기였을 것으로 보고 있어요. 처음에는 갈라진 나뭇가지 등을 사용하다가, 이후 나무 막대를 나무 틀에 부착해 사용했습니다. 약 8000년 전쯤 등장하기 시작한 것으로 보이고, 관련 유물은 훗날 대규모 문명이 형성되는 메소포타미아 지역이나 이집트, 인더스강 유역 등에서도 발견됩니다.&lt;br&gt;&lt;br&gt;한반도 역시 오래전부터 나무나 돌로 만든 쟁기가 제작됐고, 관련 유물이 발견되고 있습니다. 가장 오래된 한반도 쟁기 관련 유물은 황해도 지탑리에서 나온 기원전 3000년대 ‘돌보습’이에요. 쟁기 끝부분에 ‘보습’이라고 하는 날을 달아 사용하는데요. 철제 농기구가 등장하기 전까지는 나무를 깎거나 돌을 갈아서 보습을 만들었어요. ‘삼국유사’에는 신라 유리왕 때 보습을 제작했다는 기록도 나옵니다. &lt;br&gt;&lt;br&gt;쟁기는 땅을 갈기 위해 주로 소가 끌었지만, 지형 등 때문에 소가 쟁기를 끌기 어려울 때는 사람이 직접 쟁기를 끌어 땅을 갈았어요. 조선 초기 문신인 강희맹의 ‘금양잡록’에는 마을에 소가 적어 사람 9명이 땅을 갈았다는 내용이 나오고, 조선 현종(재위 1659~1674) 때는 전염병 때문에 전국의 소가 거의 다 죽어 사람이 쟁기를 끌어야 했다는 기록이 남아있죠.&lt;br&gt;&lt;br&gt;현대 농법에서 이런 역할을 하는 것은 ‘트랙터’와 ‘플로우’, ‘로터리’입니다. 트랙터가 소 역할을 하고, 트랙터에 연결해 사용하는 플로우나 로터리가 땅을 가는 쟁기 역할을 하는 것이죠. 밭농사에서는 흙을 잘게 자르고 뒤집어주는 플로우가, 논농사에서는 흙을 아예 갈아서 곱게 만들어주는 로터리가 더 많이 사용된다고 합니다. 소규모 농가에서는 트랙터 대신 경운기를 많이 사용해요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 찌뿌둥하다, (몸이) 불편하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/03/03/G6LNFC5CNRBU5EM5TFJ66VBTFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/03/03/G6LNFC5CNRBU5EM5TFJ66VBTFM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MFR5N433VGATCCLEIZQZM5CI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 싱글벙글하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/03/03/DDA6WH6PLBFTRKS5VL72DXJLOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/03/03/DDA6WH6PLBFTRKS5VL72DXJLOQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKA6OHV4J5EGFA3UMA3PKRPJ5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 기지(旣知)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/03/03/D67DP5CPKVGSVDHBTVA6TXANQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/03/03/D67DP5CPKVGSVDHBTVA6TXANQY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U67SMBSGUFA3ZBYFQU3RDZQNBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] put in the work</title>
-      <link>https://www.chosun.com/national/nie/english/2026/03/03/U5JF5IMUUZFHVLMVZVKXIRUL6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/03/03/U5JF5IMUUZFHVLMVZVKXIRUL6Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USWRQDTE5RFP5J5MVESWDRXZBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2816] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2026/03/03/CPRWCOXZPVC7NBMDZZQ3A66HFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/03/CPRWCOXZPVC7NBMDZZQ3A66HFU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIEVBDYD35CS3MXC2SCDA6YE6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월 3일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/02/ISC6OOEA4JDQPIUX6ZJSTMZBWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/02/ISC6OOEA4JDQPIUX6ZJSTMZBWM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 14:31:00 +0000</pubDate>
-      <content:encoded>흐리고 곳곳에 많은 눈&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXPWMI3Y3ZHYDLI64XCINJ5XNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고양시 법곳동 자동차정비소 큰 불…5개동 전소</title>
-      <link>https://www.chosun.com/national/regional/2026/03/02/P6LARFSW6NAZVMHOJBCQKAWZYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/P6LARFSW6NAZVMHOJBCQKAWZYE/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 13:23:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 6시 38분쯤 경기 고양시 일산서구 법곳동의 한 자동차정비소에서 불이 났다.&lt;br&gt;&lt;br&gt;불은 인근 건물로 확산해 총 5개 동을 태웠다. 신고를 받고 출동한 119 소방대에 의해 3시간 10분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;건물 안에 있던 10여명은 대피해 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 35대와 84명을 동원했으나 유류 등이 타면서 불길이 거세 진화에 어려움을 겪었다.&lt;br&gt;&lt;br&gt;고양시는 재난안전문자를 발송해 “주민은 사고지점에서 먼 곳으로 이동하고 차량은 우회해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 목격자 진술 등을 토대로 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/W3NFPS5LM5CEJCBKLG6BJCICIQ.jpg?auth=e33d65ed77170dbd46c9a75fb2b6d6cbb1cabc0a20525d764e507234c9bbb069&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
-        <media:description type="plain">119 소방 로고</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>공주 저수지에 승용차 빠져…30대 심정지</title>
       <link>https://www.chosun.com/national/regional/2026/03/02/665GUZAZMVFMFKUUMPIBHCX3KE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/665GUZAZMVFMFKUUMPIBHCX3KE/</guid>
@@ -733,33 +758,6 @@
       <description/>
       <pubDate>Mon, 02 Mar 2026 13:29:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 6시 47분쯤 충남 공주시 반포면에서 “저수지에 승용차가 빠졌다”는 목격자의 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 1시간 50여분 만에 저수지에 빠진 승용차를 인양했다. 차 안에서 30대 A씨가 심정지 상태로 발견돼 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 자세한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>천안 공원묘원서 승용차 화재…80대 운전자 사망</title>
-      <link>https://www.chosun.com/national/regional/2026/03/02/F3VS63EALRCQLITYLJONNXIWSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/F3VS63EALRCQLITYLJONNXIWSE/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 12:29:14 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRGKMRWHEZGGMRZGY2GKZBZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 관련 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;2일 오후 5시 5분쯤 충남 천안시 동남구 한 공원묘원에서 80대 A씨가 몰던 아반떼 승용차에서 불이 났다.&lt;br&gt;&lt;br&gt;목격자의 신고를 받고 출동한 소방대원은 26분 만에 불을 모두 껐으나, 차 안에서 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 자세한 화재 원인과 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 중구 서동·장현동 440가구 정전</title>
-      <link>https://www.chosun.com/national/regional/2026/03/02/AN3RCIS7M5GEZICJGEC6L4RNGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/AN3RCIS7M5GEZICJGEC6L4RNGY/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 12:24:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJG4SOBCCOMU7M3GUJDP5GIZDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정전 이미지. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 8시 35분쯤 울산 중구 서동과 장현동 일대에 정전 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 일대 440가구가 전기를 사용하지 못해 현재까지 불편을 겪고 있다.&lt;br&gt;&lt;br&gt;한국전력은 강풍이 불어 정전 사고가 난 것으로 추정하고, 정확한 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 강풍에 주택 옹벽 무너지고, 건물 외장재 떨어져 </title>
-      <link>https://www.chosun.com/national/regional/2026/03/02/G5WT6A7YCJDMPDZ7GPHHAY662I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/02/G5WT6A7YCJDMPDZ7GPHHAY662I/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 11:54:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZWEMJSGI2DMYZQGBTDGN3BGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 부산 사하구 괴정동에서 옹벽이 무너져 소방이 조치를 취하고 있다./부산소방재난본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 강풍주의보가 내려진 부산에 순간 최대풍속 초속 20ｍ가 넘는 강한 바람이 불면서 건물 외장재가 떨어지는 등 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;부산소방재난본부에 따르면 이날 오후 3시 10분쯤 부산 북구 구포동의 한 건물 외장재가 파손되면서 바닥으로 떨어졌다. 이날 부산 서구의 순간 최대 풍속은 초속 29.5ｍ를 기록했고, 사하구에서도 초속 25.4ｍ의 강풍이 불었다. 오후 5시 30분쯤 부산 사하구 장림동의 한 공사장의 대형 철문이 넘어지려고 한다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이어 오후 6시 10분쯤 부산 사하구 괴정동의 한 주택 옹벽이 무너져 안전조치를 하는 등 오후 8시까지 모두 20건의 안전조치가 이뤄졌다.&lt;br&gt;&lt;br&gt;다행히 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘李 지지’ 배우 명계남, 차관급 황해도지사 임명</title>
