@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[인사] 가톨릭대 성모병원 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/03/04/BDYKBAPBQNB4RHWOSUNDWNEFSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/04/BDYKBAPBQNB4RHWOSUNDWNEFSE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Mar 2026 15:44:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;가톨릭대 성모병원&lt;/b&gt;◇국장 승진▷의공학팀장 조원형◇부장 승진▷PI팀 박하나▷가정간호팀 최지연▷간호3팀 고유미▷간호3팀 조경아▷간호행정교육팀 김나영▷건축팀 이상호▷구매관리팀 성시예▷약무팀 이연지▷영상의학팀 이인숙▷외래계간호팀 서미영▷외래계간호팀 최혜숙▷전문전담운영팀 박예린▷직업환경의학센터 정승환◇팀장 보임▷평생건강증진팀 조석우▷수련교육팀 송민진▷연구전략팀 최란&lt;br&gt;&lt;br&gt;▲&lt;b&gt;경희의료원&lt;/b&gt;◇경희의료원▷의료원장 오주형◇강동경희대병원▷병원장 이형래▷기획조정실장 겸 경희의료원 미래전략처 부처장 조진만▷진료부원장 류창우▷적정관리본부장 김용찬▷의료협력본부장 민경은▷협진진료실장 전영수▷정보보호실장 손일석▷미래전략처 정보전략본부장 이상호▷행정부원장 겸 운영본부장 겸 안전보건본부장 신재구▷간호부원장 겸 간호본부장 신순화▷약제본부장 예경남▷정보전략본부 디지털혁신팀장 이동근 ▷약제본부 약무팀장 이현정▷운영본부 영양팀장 신지원▷운영본부 노사협력팀장 한용준▷마취통증의학과 과장 이봉재▷혈액종양내과 과장 및 암센터장 권정미&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] 유명 연예인도 대비 못한 ‘가족 비즈니스’의 함정</title>
       <link>https://www.chosun.com/national/2026/03/05/QK5DID3BYVDRPJ3VDQK2JXXJCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/03/05/QK5DID3BYVDRPJ3VDQK2JXXJCA/</guid>
@@ -912,15 +921,6 @@
       <description/>
       <pubDate>Tue, 03 Mar 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRKEUPURCBAHBM2ATVXXSBTKFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코레일(한국철도공사)은 신임 사장에 김태승(65) 인하대 아태물류학부 교수가 취임했다고 3일 밝혔다. 임기는 3년. 전북 고창 출신인 김 신임 사장은 국토연구원 책임연구원, 경기개발연구원 부원장 등을 지냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 권영집 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/04/27LMIU2WCBG73G65H7YUOPJIMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/04/27LMIU2WCBG73G65H7YUOPJIMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;권영집&lt;/b&gt; 별세, &lt;b&gt;김숙례&lt;/b&gt; 남편상, &lt;b&gt;권오헌&lt;/b&gt; 조선일보 회계1팀 과장·&lt;b&gt;권오림&lt;/b&gt; 부친상=3일3시5분 서울의료원, 발인 5일6시45분, (02)2276-7671&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박효민&lt;/b&gt; 정치컨설팅민 이사 별세, &lt;b&gt;안영란&lt;/b&gt; 남편상, &lt;b&gt;박다연&lt;/b&gt;·&lt;b&gt;박다빈&lt;/b&gt; 부친상, &lt;b&gt;박성민&lt;/b&gt; 정치컨설팅민 대표 형님상, &lt;b&gt;정하영&lt;/b&gt; 시부상=3일11시 이대서울병원, 발인 5일9시30분, (02)6986-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오진모&lt;/b&gt; 前 강원개발연구원장 별세, &lt;b&gt;최재완 &lt;/b&gt;남편상, &lt;b&gt;오정은&lt;/b&gt;·&lt;b&gt;오장환&lt;/b&gt;·&lt;b&gt;오정민&lt;/b&gt; 부친상, &lt;b&gt;박기관&lt;/b&gt;·&lt;b&gt;오성정&lt;/b&gt; 장인상, &lt;b&gt;김재은&lt;/b&gt; 시부상, &lt;b&gt;오세훈&lt;/b&gt; 조부상, &lt;b&gt;오동준&lt;/b&gt;·&lt;b&gt;박현지&lt;/b&gt;·&lt;b&gt;박재한&lt;/b&gt; 외조부상=2일18시30분 삼성서울병원, 발인 4일4시45분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이건옥&lt;/b&gt; 별세, &lt;b&gt;이준섭&lt;/b&gt; 한국보험계리사회 회장 모친상=3일8시 여의도성모병원, 발인 5일7시, (02)3779-1526&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이효원&lt;/b&gt; 별세, &lt;b&gt;조성은&lt;/b&gt; 남편상, &lt;b&gt;이경숙&lt;/b&gt;·&lt;b&gt;이현수 &lt;/b&gt;SK브로드밴드 매니저·&lt;b&gt;이필수&lt;/b&gt; 하나증권 부장 부친상, &lt;b&gt;나준호 &lt;/b&gt;LX세미콘 부사장 장인상, &lt;b&gt;권수진&lt;/b&gt;·&lt;b&gt;문경숙&lt;/b&gt; 하나은행 신중동역지점장 시부상=3일3시 신촌세브란스병원, 발인 5일9시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정성해&lt;/b&gt; 별세, &lt;b&gt;윤병건&lt;/b&gt; 남편상, &lt;b&gt;정동익&lt;/b&gt;·&lt;b&gt;정동일&lt;/b&gt; 부친상, &lt;b&gt;정원휘&lt;/b&gt; 홈플러스 상무 장인상, &lt;b&gt;김진희&lt;/b&gt; 시부상=2일17시 서울아산병원, 발인 5일6시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정우섭 &lt;/b&gt;前 네티션닷컴 전무 별세, &lt;b&gt;장순 &lt;/b&gt;남편상, &lt;b&gt;정은경&lt;/b&gt;·&lt;b&gt;정동수 &lt;/b&gt;라인플러스 사원 부친상, &lt;b&gt;장지호&lt;/b&gt; LG전자 차장 장인상, &lt;b&gt;변수영 &lt;/b&gt;시부상=3일10시38분 분당서울대병원, 발인 5일6시30분, (031)787-1500&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>캐빈 슈나이더 美 인태 공군 사령관, 한국 이름 ‘신태우’ 선물 받았다</title>
