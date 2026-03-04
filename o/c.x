@@ -13,6 +13,30 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>발목 부상에 멈춰선 불곰…‘PGA 투어 데뷔’ 이승택 시즌 조기 마감</title>
+      <link>https://www.chosun.com/national/people/2026/03/04/YQYHVBR6HZEHJJLWO5CYSEGFDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/04/YQYHVBR6HZEHJJLWO5CYSEGFDY/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 05:28:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFP2MWNO3VHIJLQ5VKWZFUMDUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 가을 경기 성남시 남서울CC 제2연습장에서 이승택이 포즈를 취하고 있다. /박성원 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;골프 인생 20년 만에 PGA 투어 진출 꿈을 이루고 행복해했던 ‘불곰’이 부상으로 올 시즌을 조기 마감하게 됐다.&lt;br&gt;&lt;br&gt;올 시즌 PGA 투어 신인 이승택(31)이 발목 수술 때문에 투어 측에 병가를 신청했으며, 복귀 시점은 내년 초로 예상된다고 소속사 비넘버원이 4일 밝혔다. &lt;br&gt;&lt;br&gt;이승택은 지난 1월 시즌 두 번째 대회 아메리칸 익스프레스 3라운드에서 티샷 도중 왼쪽 발목에 강한 통증을 느꼈다. 1~2라운드 합계 8언더파를 기록 중이던 이승택은 3라운드에서 2타를 잃었고 컷 탈락했다. &lt;br&gt;&lt;br&gt;이후 대회에 계속 참가했지만 통증이 지속돼 지난달 한국에서 정밀 검진을 진행했고, 왼쪽 발목 외측 인대 부분 파열, 왼쪽 발목 삼각부골증후군 진단을 받았다. 삼각부골증후군은 발목 뒤쪽의 비정상적인 뼈가 통증과 염증을 일으키는 질환이다. &lt;br&gt;&lt;br&gt;비넘버원은 “이승택이 이달 중으로 인대 봉합 수술과 삼각부골 제거 수술을 받기로 했다”며 “재활에 3~4개월 정도 소요될 것으로 예상되고 내년 초 복귀를 계획하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;이승택은 “많은 분이 응원해 주셨는데 좋지 않은 소식을 전하게 돼 마음이 무겁다. 수술과 재활을 잘 마쳐 내년에 좋은 모습으로 돌아오겠다”고 말했다. &lt;br&gt;&lt;br&gt;이승택은 KPGA 투어 제네시스 포인트 특전으로 미국 2부 무대를 밟아 1부 투어까지 진출한 첫 번째 선수다. &lt;br&gt;&lt;br&gt;2024년 9월 KPGA 투어 데뷔 10년 만에 첫 우승(렉서스 마스터즈)을 차지한 뒤 제네시스 포인트 랭킹 5위 특전을 활용, PGA 투어 Q스쿨 2차 예선에 응시했다. &lt;br&gt;&lt;br&gt;턱걸이로 최종전에 진출한 뒤 2025시즌 2부 콘페리 투어 출전권을 땄고, 콘페리 투어에서 시즌 랭킹 13위에 올라 PGA 투어 카드까지 손에 쥐었다. &lt;br&gt;&lt;br&gt;이후 PGA 투어 데뷔를 앞두고 그는 “우승하는 상상을 하며 매일 강훈련을 이어가고 있지만 전혀 힘들지 않고 행복하다”고 말했는데, 시즌 4개 대회만 치르고 잠시 쉬어가게 됐다. &lt;br&gt;&lt;br&gt;올 시즌 성적은 4개 대회 출전, 컷 통과 1회다. 지난달 초 WM피닉스 오픈에서 공동 48위에 올라 상금 2만4608달러(약 3600만원)를 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UDIO2WTR5ZC7JLUNUM3EVTKIMI.jpg?auth=c0d75615957177045a4b8238934336de7caf2b1e5dd2414c3678454ee772461c&amp;smart=true&amp;width=3144&amp;height=2358" type="image/jpeg" height="2358" width="3144">
+        <media:description type="plain">18일 오전 경기 성남시 남서울CC 제2연습장에서 불곰이란 별명을 지닌 이승택 프로가 포즈를 취하고 있다. 이 프로는 한국 KPGA와 미국 2부 투어를 거쳐 PGA 정규 투어 진출에 성공했다. 2025.11.1 /박성원 기자
+</media:description>
+        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>조희대 대법원장, 박영재 법원행정처장직 사의 수용</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/04/2H2FRDZRDBFVHAS3TLYZATJWBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/04/2H2FRDZRDBFVHAS3TLYZATJWBE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 04:25:11 +0000</pubDate>
+      <content:encoded>조희대 대법원장이 4일 오전 박영재 대법관의 법원행정처장직 사의를 받아들였다. 박 대법관이 지난달 27일 더불어민주당의 ‘사법 3법’(법 왜곡죄 신설법·재판소원법·대법관 증원법) 강행에 반발해 사의를 표명한 지 5일 만이다. 기우종 법원행정처 차장이 대행을 맡게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42WIOJSGU3DGMZUMM3DQYZQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영재 법원행정처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원행정처장에서 물러난 박 대법관은 재판 업무로 복귀할 예정이다. 노태악 전 대법관이 전날 퇴임하면서 대법관 공석이 발생했으나, 조 대법원장이 다른 대법관 중 후임 법원행정처장을 임명하지 않으면서, 재판 업무에 당장 공백이 발생하지는 않게 됐다. 소부 구성은 아직 정해지지 않았다.&lt;br&gt;&lt;br&gt;이에 따라 당분간 기우종 차장이 법원행정처장직을 대행한다. 대법원 소속 기구인 법원행정처는 대법원장 위임을 받아 전국 각급 법원의 사법행정을 총괄한다. 국회 등 대외 업무도 담당한다.&lt;br&gt;&lt;br&gt;박 대법관은 법원행정처장에 취임한 지 42일 만에 사의를 표명했다. 당시 박 대법관은 “최근 여러 상황과 법원 안팎의 논의 등을 종합해볼 때 제가 물러나는 것이 국민과 사법부를 위해 도움이 될 것으로 보아 처장직을 내려놓게 됐다”며 “사법제도 개편 관련 논의가 국민에게 이익이 되는 방향으로 이루어지길 간절히 바란다”고 했다.&lt;br&gt;&lt;br&gt;박 대법관은 이재명 대통령의 공직선거법 위반 사건 상고심 주심을 맡아 지난해 5월 유죄 취지 파기환송 판결을 했다. 이때문에 법원행정처장으로 취임한 직후부터 국회 법제사법위원회 소속 민주당 의원들의 ‘임명 철회’ 집중 포화를 맞았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산 발전 40년 뒷이야기 ‘그때 그 사람들’ 책 발간</title>
       <link>https://www.chosun.com/national/regional/2026/03/04/OWX5G6XYPRBDLN42FD5TVO7MU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/04/OWX5G6XYPRBDLN42FD5TVO7MU4/</guid>
@@ -900,28 +924,6 @@
       <description/>
       <pubDate>Tue, 03 Mar 2026 02:58:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFGAYEXGE5D57I4RNV74SYZ6ZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/길준용 전 서산 부석중학교 교장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3년 전 윤석열 전 대통령의 녹조근정훈장 수령을 거부했던 전직 교장이 이재명 정부가 다시 수여한 훈장은 받았다. 녹조근정훈장은 국가 사회 발전에 공적을 세운 공무원과 교원 등에게 수여된다.&lt;br&gt;&lt;br&gt;길준용 전 서산 부석중학교 교장은 지난달 28일 자신의 페이스북에 “3년 전 정년 퇴직할 때 거부했던 근정훈장을 충남교육청에서 받았다”며 훈장증 사진을 공개했다. &lt;br&gt;&lt;br&gt;길 전 교장이 공개한 훈장증 사진엔 이 대통령 서명과 함께 김민석 국무총리, 윤호중 행정안전부 장관의 이름이 담겨 있다. 수여 일자는 길 전 교장이 페이스북에 글을 올린 날과 같은 28일로 나와 있다.&lt;br&gt;&lt;br&gt;길 전 교장은 “윤석열 대신 이재명 대통령 이름이 새겨진 훈장증을 받아 드니 만감이 교차한다”며 “훈장 거부를 잊지 않고 기억했다가 집권 후 재수여를 추진해 주신 이 대통령께 감사드리며 이재명 정부의 성공을 응원한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 길 전 교장은 2023년 2월 퇴직을 앞두고 윤 전 대통령 이름이 박힌 녹조근정훈장 수령을 거부했다. 당시 그는 수령 거부 이유에 대해 “사사건건 적반하장의 모습을 보이는 대통령의 이름이 적힌 훈장증을 받는 상황이 부끄럽다”며 “훈장증에 적힐 세 분 모두 하나같이 마음에 내키지 않았다”고 오마이뉴스에 말했다. 훈장증에는 한덕수 전 국무총리, 이상민 전 행정안전부 장관의 이름이 윤 전 대통령 서명과 함께 기재돼 있었다.&lt;br&gt;&lt;br&gt;당시 길 전 교장 이외에도 일부 교사가 윤 전 대통령 훈장을 거부한 것으로 알려졌다. 인천시교육청에서만 정년 퇴임을 앞둔 교사 2명이 훈장을 거부한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이후 이 대통령은 당선 직후인 작년 7월 윤석열 정부 시절 훈장을 거부했던 이들을 전수 조사해 훈장을 다시 수여할 수 있는지 검토하라고 행정안전부에 지시한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이 틈에… 민주당 “대구도 우리가 먹는다”</title>
-      <link>https://www.chosun.com/politics/assembly/2026/02/28/6ZUS3FCOWBHV3FRREFC7SVVVCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/02/28/6ZUS3FCOWBHV3FRREFC7SVVVCY/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Feb 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JM44XHOY7VM7RE2B6LZ6FUMOCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 정청래 대표가 27일 대구 달서구 2.28민주의거기념탑에서 참배하기 위해 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 정청래 대표가 27일 당대표 취임 이후 두 번째로 보수의 심장인 대구를 찾았다. 국민의힘이 절윤 문제를 놓고 내분이 격화되는 가운데 대구·경북 통합 특별법에 대한 입장까지 오락가락하자 민심이 악화되는 틈을 타 지역 공략에 나선 것이다. 민주당에선 “6·3 지방선거에서 대구도 우리 후보가 당선될 수 있다”는 말까지 나왔다.&lt;br&gt;&lt;br&gt;민주당 지도부는 이날 대구 중구의 2·28민주운동기념회관에서 현장 최고위를 열었다. 이 자리에서 정 대표는 “여러분이 뽑아준 국민의힘 의원들이 통합을 반대하고 있다”며 “이들에게 정문일침(頂門一鍼·정수리에 침을 놓다)을 주시라”고 했다. 국민의힘이 이번 지방선거 때 1명의 통합시장을 뽑게 되는 대구·경북 통합 특별법을 두고 의원들끼리 갈등을 겪다 전날에야 찬성하기로 의견을 모았는데, 이를 겨냥한 것이다. 박수현 수석대변인도 “국민의힘은 대구·경북 통합에 찬성하다 반대하고, 반대하다 찬성하고, 어쩌자는 거냐”며 “깜깜한 상황 속에서 잔머리 굴려 봐야 소용없다”고 했다.&lt;br&gt;&lt;br&gt;정 대표는 이재명 정부와 민주당이 올해 대구 미래 먹거리 예산으로 91억원을 확보했고, 5년간 5010억원을 투입해 대구를 AI 관련 산업 거점으로 육성하려 한다고 했다. 그러면서 “이 대통령의 약속대로 대구를 AI 로봇 수도로 우뚝 세우겠다”고 했다. 대구·경북 신공항 건설 등 숙원 사업 해결도 약속했다. 또 대구를 “우리 민주주의의 불씨” “애국충절의 불꽃”으로 추켜세우기도 했다. 정 대표 등 지도부는 이날 최고위에 앞서 대구 달서구의 2·28민주운동기념탑을 참배했다.&lt;br&gt;&lt;br&gt;민주당은 이번 시도지사 선거에서 TK(대구·경북)를 뺀 지역 전부를 석권하는 걸 목표로 세웠다. 그러다 최근 여론조사에서 국민의힘 지지율이 10%대까지 떨어지고 TK에서 민주당과 지지율이 좁혀지자 대구시장 승리도 가능하다고 보고 있다. 민주당 박지원 의원은 라디오에 나와 “국민의힘은 이번 지방선거를 장동혁 체제로 치르면 잘해야 경북지사 한 사람 당선되고 전멸할 것”이라며 “대구도 우리가 먹는다”고 했다.&lt;br&gt;&lt;br&gt;민주당 지도부는 대구시장 후보로 대구에서 국회의원을 지낸 김부겸 전 국무총리 차출론을 거론하고 있다. 김 전 총리는 경북 상주 출신에 대구에서 초·중·고를 나왔고, 2016년 민주당 간판으로 대구 수성갑에서 당선됐으며 문재인 정부 총리까지 지낸 김 전 총리가 등판하면 이길 수 있다는 것이다. 당초 대구 출신 민주당 비례대표를 지냈던 홍의락 전 의원이 대구시장 출마 선언까지 했지만 최근 홍 전 의원은 “김 전 총리가 나와야 한다”며 출마 마음을 접었다. 여권 핵심 관계자는 “김 전 총리는 출마가 어렵다는 입장이지만 유력 인사들이 김 전 총리를 설득하는 중”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JM44XHOY7VM7RE2B6LZ6FUMOCQ.jpg?auth=3877f0d156f64a8c123fa5afcb28d392484755683bf9947483d302db5945185a&amp;smart=true&amp;width=4208&amp;height=2800" type="image/jpeg" height="2800" width="4208">
-        <media:description type="plain">더불어민주당 정청래 대표가 27일 대구 달서구 2.28민주의거기념탑에서 참배하기 위해 이동하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">한종찬</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>서울고법, ‘체포 방해’ 尹 항소심 재판 중계 허가</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/03/MOKOLSLCCNCY7JBJWHFGMR6DTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/MOKOLSLCCNCY7JBJWHFGMR6DTU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 02:24:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E47VVCXAWZIEXKGPTLNJE6GJ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 1월 16일 서초구 서울중앙지방법원에서 열린 특수공무집행방해, 범인도피교사, 직권남용 권리행사방해 혐의 등 사건에 대한 1심 선고 공판에서 징역 5년을 선고받은 뒤 법정을 나서며 백대현 부장판사 등 재판부를 향해 인사하고 있다./서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 ‘체포방해’ 혐의 사건 항소심을 심리하는 서울고법 형사1부(재판장 윤성식)는 3일 “재판의 중계를 허가한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 중계 허가는 조은석 내란 특검팀이 지난달 26일 중계를 신청한 데 따른 것이다. 특검법상 재판장은 특별검사 또는 피고인의 신청이 있으면 특별한 사정이 없는 한 재판 중계를 허가해야 한다. 다만 중계를 허가하지 않을 특별한 사정이 있으면 그 이유와 함께 중계 불허를 선고할 수 있다.&lt;br&gt;&lt;br&gt;이에 따라 윤 전 대통령의 특수공무집행방해 등 혐의 재판은 항소심 선고가 나올 때까지 중계될 예정이다. 다만 재판부는 “국가 안전 보장, 안녕질서 방해, 선량한 풍속을 해할 염려, 법정질서 유지, 소송관계인 권리 보호, 법정의 질서유지 또는 공공이익 등의 이유로 일부 중계를 제한할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 사건 1심을 심리한 서울중앙지법 형사35부(재판장 백대현)도 지난해 9월 첫 재판을 앞두고 영상 중계를 허용한 바 있다. 당시 윤 전 대통령은 수척해진 백발의 모습으로 법정에 출석했었다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 작년 1월 이 사건 1심에서 징역 5년을 선고받았다. 윤 전 대통령이 판결에 불복해 항소하면서 오는 4일 항소심 첫 재판이 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>노태악 대법관 퇴임 “정치의 사법화, 사법 불신으로 이어질 것”</title>
