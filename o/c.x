@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘임성근 사표 수리 거부’ 김명수 前 대법원장 불기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/04/XNXMQVA47NGDTISW6NUJUFLSRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/04/XNXMQVA47NGDTISW6NUJUFLSRA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 11:12:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQSFJITRVHXM2AO3LVBVIDZGAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김명수 대법원장이 지난 2023년 9월 서울 서초구 대법원에서 열린 퇴임식에서 퇴임사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 신도욱)가 지난달 25일 ‘부장판사 사표 수리 거부’ 의혹으로 고발된 김명수 전 대법원장을 ‘혐의 없음’ 처분한 것으로 4일 알려졌다. 김 전 원장이 직권남용권리행사방해, 허위 공문서 작성 및 행사 혐의로 2021년 2월 고발당한 지 약 5년 만이다.&lt;br&gt;&lt;br&gt;김 전 원장은 2020년 5월 임성근 당시 고법 부장판사가 건강상 이유로 사표를 내자 “지금 (더불어민주당이) 탄핵하자고 저렇게 설치고 있는데 내가 사표 수리했다고 하면 국회에서 무슨 이야기를 듣겠냐”며 사표 수리를 거부한 혐의를 받았다. 당시 민주당은 임 전 부장판사를 비롯한 ‘사법행정권 남용’ 의혹에 휘말려 기소됐다가 무죄를 선고받은 법관 등에 대한 국회 탄핵소추를 추진하고 있었다.&lt;br&gt;&lt;br&gt;이런 상황에서 민주당을 의식한 김 전 원장이 임 전 부장판사 사표를 거부했다는 의혹이 불거지자 김 전 원장은 “사실과 다르다”는 취지의 답변서를 국회에 보냈다. 그런데 이후 임 전 부장판사가 김 전 원장과 나눈 대화 녹취록을 공개하면서 김 전 원장의 해명이 거짓말로 드러났다. 녹취록이 공개되자 김 전 원장은 “불분명한 기억에 의존해 (실제 대화 내용과) 다르게 답변했다”고 해명했다. 거짓 답변을 할 의도는 없었다는 취지다.&lt;br&gt;&lt;br&gt;이후 국민의힘은 김 전 원장이 임 전 부장판사가 탄핵소추당하도록 사표 수리를 미루고, 국회에 거짓 답변서를 작성해 제출했다며 김 전 원장을 고발했다. 검찰은 2024년 8월 김 전 원장을 불러 조사했지만 1년 6개월 가까이 결론을 내지 못했다. 그러다 검찰이 최근 고발 약 5년 만에 불기소 처분을 한 것이다.&lt;br&gt;&lt;br&gt;검찰은 사건 당시 임 전 부장판사의 사직 의사가 확정적이지 않았던 상황인 만큼 김 전 원장이 이를 반려한 행위가 위법하지 않다고 판단한 것으로 알려졌다. 또 김 전 원장이 허위로 국회 답변서를 작성하려 했다는 고의도 없다고 봤다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포천 염색 공장 화재 2시간 만 초진... 연기 흡입한 직원 병원 이송 </title>
+      <link>https://www.chosun.com/national/2026/03/04/ILERUKZYHFENVDJHA3WGLYHMRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/04/ILERUKZYHFENVDJHA3WGLYHMRM/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 10:45:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFPJNLXFQFBQDH633GA7CJO2GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 경기도 포천시 신북면 기지리 염색 공장 화재 현장. /경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 포천시 소재 한 염색 공장에서 불이 나 직원 1명이 연기를 마시는 피해가 발생했다. 소방 당국은 화재 2시간 만에 큰불을 잡았다.&lt;br&gt;&lt;br&gt;4일 경기도북부소방재난본부에 따르면 이날 오후 5시 20분쯤 포천시 신북면 기지리의 2층짜리 염색 공장 2층에서 불이 났다. &lt;br&gt;&lt;br&gt;공장 위로 검은 연기를 본 시민 신고가 19건 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 37대, 인원 70명을 현장에 투입해 진화에 나섰다. &lt;br&gt;&lt;br&gt;이 불로 공장 안에 있던 직원 1명이 연기를 마셔 병원에 옮겨졌고, 직원 11명이 긴급 대피하는 소동이 빚어졌다. &lt;br&gt;&lt;br&gt;소방 당국은 불이 인근 야산으로 번질 우려가 있다고 보고 오후 6시 31분 대응 1단계를 발령했다. &lt;br&gt;&lt;br&gt;대응 1단계는 관할 소방서 인력과 장비를 모두 동원하는 조치다. &lt;br&gt;&lt;br&gt;불은 화재 발생 약 2시간 만인 오후 7시 22분 초진됐다. &lt;br&gt;&lt;br&gt;소방 당국은 불을 모두 끄는 대로 정확한 화재 원인과 함께 피해 규모를 조사할 계획이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“세관을 범죄 조직 취급한 백해룡은 책임 져라” 세관 직원, 백 경정 고소 검토</title>
       <link>https://www.chosun.com/national/national_general/2026/03/04/NK3GLPDBWZB2TOJVKBANEAQV6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/04/NK3GLPDBWZB2TOJVKBANEAQV6Y/</guid>
@@ -923,24 +941,6 @@
       <description/>
       <pubDate>Mon, 02 Mar 2026 03:43:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2DQN3CMJSTIODFGI2TAMDDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 피의자 신분으로 경찰 조사를 받은 김병기 무소속 의원의 차남. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숭실대 편입과 빗썸 취업 과정에서 특혜를 받았다는 의혹을 받는 무소속 김병기 의원의 차남이 2일 경찰에 출석했다. 지난달 25일 피의자 신분으로 처음 경찰에 불려나온 데 이어 닷새 만에 이뤄지는 재조사다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 10시부터 김 의원 차남을 업무방해 혐의 피의자 신분으로 불러 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;차남 김씨는 숭실대 계약학과 편입과 중견기업 및 가상자산 거래소 빗썸 취업 과정에서 특혜를 제공받았다는 의혹을 받는다. 그는 지난달 25일에도 경찰에 불려나와 13시간 동안 조사를 받았었다. &lt;br&gt;&lt;br&gt;김 의원 전 보좌관들의 진술에 따르면, 김 의원은 최측근인 이지희 동작구의원의 소개로 2021년 말 숭실대 총장을 만나 직접 편입 이야기를 꺼냈다. 이후 이 구의원과 보좌진이 기업체 재직을 조건으로 하는 ‘계약학과’ 편입학 전형을 안내받았고, 김 의원이 이 과정에서 조건을 맞추기 위해 차남을 모 중견기업에 편법 채용시켰다는 것이다. 김 의원 차남은 2023년 초 숭실대 혁신경영학과에 편입했다.&lt;br&gt;&lt;br&gt;김 의원 차남은 빗썸에 특혜 채용돼 6개월간 근무했다는 의혹도 받는다. 김 의원이 2024년 9∼11월 빗썸과 두나무 양측에 차남 채용을 요청했고, 이 과정에서 빗썸 경영진과 여러 차례 만났다는 의혹이다. 김 의원 차남은 이듬해 1월 빗썸에 취업했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 첫 조사에서 김 의원 차남에게 숭실대 편입과 빗썸 취업 과정 등에서 특혜를 제공받았는지 등을 물어본 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘과밀 수용’ 이유로 중증장애인 혼거시킨 정부…법원 “정부가 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/02/SIUG2JARGNFGZEIIHMOV3NMT5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/02/SIUG2JARGNFGZEIIHMOV3NMT5E/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2021년 사기죄로 징역 1년을 선고받고 군산교도소에 수감 중이던 A씨는 전주교도소로 이송되면서부터 ‘지옥’이 시작됐다. &lt;br&gt;&lt;br&gt;A씨의 건강은 좋지 않았다. 군산교도소에서 시작된 뇌 손상 등 정신장애로 용변을 가리지 못하는 상태가 됐고, 의사소통 역시 원활하지 않았다.&lt;br&gt;&lt;br&gt;전주교도소 측은 이 같은 A씨의 상태를 인지하고 있었다. A씨는 이송 당시부터 휠체어를 탄 상태였고, 넘어져도 제대로 일어나지 못했다. 대소변 역시 가리지 못하는 상태였다. 하지만 전주교도소 측은 A씨를 여러 명이 함께 생활하는 일반 수용동에 배치했다. ‘과밀 수용’ 문제로 A씨가 분리돼 생활할 수 있는 공간이 없었기 때문이다.&lt;br&gt;&lt;br&gt;일반 수용동 생활은 A씨에게 지옥이었다. A씨는 수용자 3명과 생활했는데, 이들은 A씨가 용변을 가리지 못해 냄새가 난다며 폭행했다. 한 수용자는 누워 있는 A씨를 일으켜 세운 후 손바닥과 슬리퍼로 머리와 뺨 등을 수차례 때렸고, 다른 수용자들도 A씨의 배를 밟는 등 폭행을 가했다. 이로 인해 A씨는 약 2주간의 치료가 필요한 장간막 손상, 혈관 손상 등 부상을 입었고, 치료를 받던 중 2022년 62세의 나이로 사망했다.&lt;br&gt;&lt;br&gt;A씨 측은 폭행 가해자들은 물론 정부가 피해에 배상해야 한다며 손해배상 소송을 제기했다. A씨 측은 관리·운영이 미흡했던 정부와 폭행 가해자 3명이 공동으로 총 3000만원을 배상하라고 했다.&lt;br&gt;&lt;br&gt;이에 정부는 ‘수용동 과밀’ 문제를 언급하며 반박했다. 정부는 “열악한 상황 속에서 담당 교도관들이 폭행을 예방하는 게 불가능했다”고 주장했다. 사건 당시 코로나로 인해 수용동 과밀 문제가 이전보다 더 심각했고, A씨가 피해 사실을 교도소 측에 알리지도 않아 폭행이 있었는지 알 수 없었다고 주장했다.&lt;br&gt;&lt;br&gt;법원의 판단은 어땠을까. 전주지법 민사5단독 안좌진 부장판사는 지난달 25일 정부가 3000만원을 배상하라고 판단했다. 나머지 폭행 가해자들에 대해선 3000만원을 공동지급하라고 했다.&lt;br&gt;&lt;br&gt;재판부는 정부의 안전 책임 의무 부족을 강조했다. 재판부는 “정부는 전주교도소의 관리·운영 주체로서 이 같은 사건이 발생하지 않도록 교도행정을 엄중하게 관리할 의무가 있음에도 주의의무를 게을리했다”며 “수용자들과 공동불법행위자로서 공동으로 배상금을 지급할 의무가 있다”고 했다. 국가가 과밀수용을 이유로 중증장애인에 대한 안전 관리 책임을 방치했을 때, 그로 인해 발생한 폭력 사건까지 책임져야 한다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 불가피한 상황임에도 정상적인 생활이 불가능한 수용자를 방치한 건 면책 사유가 될 수 없다고 질책했다. 재판부는 “정부가 조금만 더 엄격한 ‘지도·계호’상의 조치를 취했거나 ‘안전확보의무’에 조금의 주의만 더 기울였더라면 사고가 발생하지 않았을 것”이라고 했다. 또 “설령 교도관들이 주어진 여건 하에서 조치를 다했다고 가정해도 특별한 수용자의 최소한의 안전을 보호하기 위한 지침 등을 마련해야 했다”고 지적했다.&lt;br&gt;&lt;br&gt;이번 판결은 고질적 문제인 교정시설 과밀화와 연관돼 있다. 법무부에 따르면 지난 1월 기준 전국 교도소 내 수용 인원은 6만5279명(정원 5만614명)으로 수용비율이 129%에 달한다.&lt;br&gt;&lt;br&gt;과밀 수용은 이번 사건과 같이 수용자 간 사고로 이어지기도 한다. 법무부 교정사고 발생 현황에 따르면 수용자 간 폭행은 2020년 577건, 2021년 598건, 2022년 789건, 2023년 895건, 2024년 881건으로 2024년을 제외하고는 매년 증가했다. 지난달 22일 한국형사·법무정책연구원이 발간한 ‘교정시설 과밀수용 개선을 위한 ‘한국형 과밀 수용 해소 모델’ 수립에 관한 연구’ 보고서는 “수용인원 증가는 교정사고 발생 위험을 증가시킨다”며 “기본적으로는 수용자 간 폭행이 증가하고, 수용자에 의한 교정직원들에 대한 폭행사고도 증가할 수 있다”고 지적하기도 했다.&lt;br&gt;&lt;br&gt;대법원도 과밀수용에 따른 국가 손해배상 책임을 2022년 처음 인정했다. 대법원은 “구치소·교도소의 수용자에게 1인당 최소 2㎡의 수용 면적을 보장하지 않은 것은 위법하다”며 “국가가 인간의 생존에 필수적이면서 기본적인 시설이 갖춰지지 않은 교정시설에 수용자를 수용하는 행위는 인간의 존엄과 가치를 침해하는 것으로서 위법하다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>채용 합격통지 4분 만에 문자로 ‘취소’ 통보... 법원 “부당 해고”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/02/2UQAQZFRZFHHHGEEWX7BVSMOBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/02/2UQAQZFRZFHHHGEEWX7BVSMOBQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Mar 2026 02:00:53 +0000</pubDate>
-      <content:encoded>채용 합격 소식을 전한 지 4분 만에 별다른 설명 없이 합격자에게 취소를 통보한 것은 부당해고라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRDMOLCMM3DKMBUHAZGMNTDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[자료] 서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 서울행정법원 행정13부(재판장 진현섭)는 최근 핀테크 기업 A사가 중앙노동위원회의 부당 채용 취소 구제 재심 판정을 취소해 달라며 낸 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A사는 2024년 글로벌 핀테크 서비스 전략 및 사업 개발 담당자를 모집하는 채용을 진행했다. 이 기업은 박모씨를 두 차례 면접한 뒤 문자메시지로 “합격을 통보합니다. 내주 월요일부터 출근하시면 됩니다”라고 알렸다. 그런데 4분 만에 박씨에게 “채용을 취소하겠습니다”라는 문자메시지를 다시 보낸 것이다.&lt;br&gt;&lt;br&gt;이에 박씨는 채용 취소가 부당하다며 서울지방노동위원회(지노위)에 구제 신청을 했다. 지노위가 이를 인용하자 A사는 판정에 불복해 중앙노동위원회(중노위)에 재심을 신청했다. A사는 “상시 근로자 수 5인 미만 사업장으로 근로기준법 적용 대상이 아니고, 박씨와의 근로계약이 성립했다고도 볼 수 없다”고 주장했다. 그러나 중노위가 이를 기각하자 A사는 서울행정법원에 재심 판정을 취소해 달라는 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 재심 판정 기각에 문제가 없다고 봤다. 판단 기준은 근로기준법이 전면 적용되는 상시 근로자 수 5인 이상 사업장인지 여부였다. A사는 직원이 2명뿐이라고 주장했지만, 재판부는 A사의 자회사가 같은 사무실을 사용하고 인력을 중복으로 고용한 점 등을 근거로 전체 상시 근로자 수가 최소 16명 이상이라고 판단했다. 재판부는 이를 토대로 “A사가 채용 절차를 거쳐 박씨에게 합격 또는 채용 내정을 통지함으로써 이미 양측에 근로계약 관계가 성립했다”며 “채용을 취소하려면 근로기준법이 정한 해고 요건을 갖춰야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 재판부는 “A사가 근로기준법 제27조에 따라 해고 사유와 시기를 서면으로 통지하지 않아 부당 해고에 해당한다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해외 우수인재 비자 확대·지역이민 패키지 프로그램 신설</title>
