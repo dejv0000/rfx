@@ -13,6 +13,149 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>안선영 “치매 걸린 엄마, 짐승처럼 묶여 있었다”… 간병기 고백</title>
+      <link>https://www.chosun.com/national/people/2026/03/04/6FGSOUR2RJBRDH7JM5AXZR6EJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/04/6FGSOUR2RJBRDH7JM5AXZR6EJ4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 08:07:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4GKMY35RVFBBCEZF2TVKWNYIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 안선영. /이게 바로 안선영 유튜브 채널&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 안선영(50)이 모친의 치매 투병을 계기로 삶의 가치관이 바뀌게 된 사연을 고백했다.&lt;br&gt;&lt;br&gt;안선영은 4일 공개한 유튜브 채널 ‘이게 바로 안선영’ 영상에서 자본과 돈에 대한 관점을 설명하며 어머니의 치매 병간호를 할 당시 겪은 어려움을 털어놨다. 그는 “연봉을 많이 받고 출연료를 많이 받아도 방송 거절을 못 했다. 나를 싫어할까 봐 눈치 보는 마음이 있었다”며 “이게 깨지게 된 게, 49세 때 이래도 되나 싶을 정도로 온갖 악재가 한꺼번에 와 아홉 수를 제대로 치렀다”고 했다.&lt;br&gt;&lt;br&gt;이어 “가정 요양 정도로 버틸 수 있었던 중증 치매와 초기 치매 중간 정도였던 엄마가 뇌졸중으로 쓰러지면서 인지 장애가 심하게 오고 대소변을 못 가렸다”며 “병원에선 난동 부리니까 맨날 짐승처럼 묶여 있었다. 인간의 기본 존엄이 무너지는 걸 보고 깨달았다. 한 가족의 건강이 완벽히 무너지면 나머지 온 가족이 다 불행하다. 그렇게 되면 돈도 소용없다”고 말했다.&lt;br&gt;&lt;br&gt;안선영은 “그때 느낀 게, 간병인이 그만둔다고 하면 싹싹 빌어서 ‘다른 간병인 찾을 때까지만 기다려주세요’라고 하겠지만 만약 내가 돈이 없었다면 어떻게 됐을까 싶었다”며 “병원비가 엄청 나왔다. 엄마를 내 아이 앞에서 대소변도 못 가리는 할머니가 아닌 스스로 화장실을 갈 수 있는 사람으로 만드는 데 들어간 1년의 비용, 시간, 에너지는 그간 쌓아온 자본이 없었다면 불가능했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “(만약 돈이 없었다면) 엄마는 지금 인간의 존엄을 못 지키는 모습으로 묶여서 누워 있었을 것”이라며 “지금도 기억은 못 하지만 저랑 손잡고 네일숍을 갈 수 있는 건 제가 그동안 열심히 벌어뒀던 돈의 가치다. 결국 돈이란 건 어느 정도 모아두는 게 맞다. 그러나 기본적인 존엄도 건강이 없으면 아무 소용없다는 깨달음을 가졌다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7EA54ZOQIZHETMVCQQ7WQBD5RI.jpg?auth=9c853299b61904a1e13e029e5d7c03aab75b0d010f69e8392f7614d7fa62aa01&amp;smart=true&amp;width=868&amp;height=651" type="image/jpeg" height="651" width="868">
+        <media:description type="plain">방송인 안선영. /이게 바로 안선영 유튜브 채널</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>서울의과학연구소, ‘우수 감염병병원체 확인기관’ 지정</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/04/EDQS5ULRZFGR3LVQUQW5QMRWJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/04/EDQS5ULRZFGR3LVQUQW5QMRWJY/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 08:01:12 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKICQDD3MJH7XJW46XR2S7GOEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 용인 기흥구 서울의과학연구소 검사실에서 연구원들이 코로나19 검사를 하고 있다. /서울의과학연구소 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의과학연구소(SCL·Seoul Clinical Laboratories) 등 5개 기관이 질병관리청으로부터 ‘우수 감염병병원체 확인기관’으로 추가 지정됐다.&lt;br&gt;&lt;br&gt;4일 서울의과학연구소 등에 따르면 질병관리청은 최근 서울의과학연구소와 이원의료재단, 녹십자의료재단, 삼광의료재단, 씨젠의료재단 등 5곳을 ‘우수 감염병병원체 확인 기관’으로 지정했다. 작년 1월 세브란스병원, 서울대병원, 가톨릭대 서울성모병원, 고려대 안암병원 등 4개 병원을 우선 지정했는데, 5곳을 추가로 지정한 것이다.&lt;br&gt;&lt;br&gt;‘우수 감염병병원체 확인 기관’은 감염병 위기가 왔을 때 최단 기간 내에 대규모 검사 역량을 확보할 수 있도록 정부가 검사기관을 미리 지정해놓는 것이다. 코로나19 팬데믹 같은 감염병 위기 상황에서는 공공의 검사 역량만으로는 한계가 있으니 민간의 검사 역량도 활용하기 위한 조치다. &lt;br&gt;&lt;br&gt;백신이나 치료법이 없는 신종 감염병에 효과적으로 대응하려면 신속한 진단 검사를 비롯한 초기 대응이 중요하기 때문이다. 실제로 코로나19 대유행 당시 우리나라가 다른 나라에 비해 사망자가 적을 수 있었던 데는 발생 초기 신속·정확한 진단 검사가 대규모로 이뤄졌기 때문이라는 평가가 많다.&lt;br&gt;&lt;br&gt;서울의과학연구소의 경우 2015년 메르스 사태를 계기로 신종 감염병이 반복될 것을 대비해 대량 검사 의뢰를 소화할 수 있도록 검사 프로세스를 구축했다. 국내 검사 기관 최초로 해외 의료 기관인 핀란드 메힐레이넨에서 의뢰받은 코로나19 검사를 수행하기도 했다&lt;br&gt;&lt;br&gt;서울의과학연구소는 미래 감염병 대비를 위한 연구 개발 역량 강화에도 힘쓰고 있다. 2024년 10월 대도시의 하수처리장 생활 하수를 검사해 지역사회 감염병 유행을 예측할 수 있다는 내용의 연구 결과를 국제 학술지에 싣기도 했다. 하수 내 병원체 분석은 임상 검사 이전 단계에서 지역사회 감염 확산을 조기에 검출할 수 있는 효과적인 수단으로 거론된다. 연구개발(R&amp;amp;D) 파트를 통합한 차세대융합의료연구소를 신설했고, 감염 질환을 전문적으로 연구하는 ‘감염질환연구센터’도 운영 중이다.&lt;br&gt;&lt;br&gt;이경률 서울의과학연구소 총괄의료원장(SCL그룹 회장)은 “질병청의 국가 대응 체계에 적극적으로 협력하고, 축적된 경험과 전문성을 바탕으로 감염병 발생 시 신속하게 대처해 국민 보건 향상에 기여할 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 5일 목요일 (음력 1월 17일 戊寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/04/FNB2CBJWPVATTBPSYKC5T5AKNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/04/FNB2CBJWPVATTBPSYKC5T5AKNE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>캄보디아 도피로 사망 처리된 사기꾼…검찰, 가상 화폐 팔아 피해자에 돈 돌려줘</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/04/ST4OOQXMAFFQ3HOBM2G3VR3AOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/04/ST4OOQXMAFFQ3HOBM2G3VR3AOE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 07:24:12 +0000</pubDate>
+      <content:encoded>캄보디아로 도피했다가 사망 처리됐던 사기범이 검찰의 조치로 보유하던 가상 화폐를 처분해 피해자들에게 돈을 돌려주게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZHQCTNRRCDVOVEGQ6FZVSMLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서초동에 위치한 서울중앙지방검찰청(앞),서울고등검찰청(뒤) / 이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국인 A씨는 ‘특정 가상 화폐에 투자하면 돈을 벌 수 있다’는 취지로 피해자 3명을 속여 총 1억2000만원을 가로챈 뒤 2019년 6월 캄보디아로 달아났다. 이후 A씨가 장기간 캄보디아에 머물면서 행방이 확인되지 않자 A씨의 가족들은 법원에 실종 선고 심판을 청구했고, 법원은 A씨에 대해 실종 선고를 내렸다. 실종 선고가 내려지면 사망한 것으로 간주돼 주민등록번호가 말소된다. &lt;br&gt;&lt;br&gt;A씨는 지난 1월 캄보디아에서 추방돼 6년 6개월의 도피 생활을 마치고 한국으로 돌아왔다. 당시 A씨는 이미 사망자로 간주돼 신분증이나 여권이 없는 상태였지만, 현지 대사관에서 발급받은 임시 여행 증명서를 통해 입국한 것으로 전해졌다. 검찰은 A씨가 입국하자마자 그를 체포해 구속했다. &lt;br&gt;&lt;br&gt;서울중앙지검은 수사 과정에서 A씨가 구속 상태인 데다 가족과의 관계도 단절돼 직접 실종 선고 취소를 청구하기 어려운 점을 파악했다. 또 건강 상태가 좋지 않아 의료보험 등이 필요한 점, 피해 변제를 위해서는 계좌 복구가 필요한 점도 확인했다. 이에 검찰은 공익의 대표자로서 A씨를 대신해 법원에 실종 선고 취소 심판을 청구했고, 법원은 이를 받아들였다. 검찰은 지난달 27일 관할 지방자치단체에 A씨의 실종 선고 취소 사실을 신고했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 피해자들에게 돈을 돌려주겠다는 의사를 밝혔다고 한다. A씨가 사기 범행으로 빼돌린 돈 중 일부로 2500만원어치 가상 화폐를 샀는데, 도피 기간 동안 가격이 올라 9300만원 상당의 가상 화폐를 보유하게 된 것으로 전해졌다. 그러나 주민등록번호가 말소된 상태에서는 가상 화폐 계좌를 이용할 수 없어, 돈을 인출하기 어려운 상황이었다.&lt;br&gt;&lt;br&gt;이에 검찰은 A씨와 변호인, 피해자들을 만나 피해 회복 방법을 논의했다. 가상 화폐 거래소와도 협력해 A씨가 보유하고 있던 가상 화폐를 모두 처분해 피해자들에게 변제하도록 했다. 검찰이 법원에 실종선고 취소를 청구해 인용되면서 A씨의 주민등록번호가 복구됐고, 이에 따라 동결돼 있던 계좌에도 다시 접근할 수 있게 된 것이다. 피해가 대부분 회복되자 피해자들은 A씨에 대한 처벌 불원서를 법원에 제출한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 4일 “앞으로도 엄정하게 사건을 수사하면서도 공익대표자로서 당사자의 인권 보호에 노력하고, 실질적인 피해 회복을 통해 종국적인 분쟁 해결이 되도록 사건 처리에 정성을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오릭스전 깜짝 등판 日 투수 “이정후 보며 감탄… KBO 꼭 가고파”</title>
+      <link>https://www.chosun.com/national/people/2026/03/04/MZQA37GTHJF75HU2FZ3ZDJUDHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/04/MZQA37GTHJF75HU2FZ3ZDJUDHI/</guid>
+      <dc:creator>김동현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 07:58:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4OXOS4UXBMYHIFZATKJMSBITQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 일본 오사카 교세라돔에서 열린 한국 야구 국가대표팀과 오릭스 버팔로스의 경기에서 고바야시 다츠토가 역투하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이대로 한국 유니폼을 입고 WBC에 나가고 싶었어요. 다음 목표는 KBO 진출입니다!”&lt;br&gt;&lt;br&gt;지난 3일 일본 오사카 교세라돔에서 열린 한국 야구 국가대표팀과 오릭스 버팔로스의 WBC(월드베이스볼클래식) 공식 평가전에 깜짝 ‘신스틸러’가 등장했다. 한국이 8-5로 앞서가던 9회말, 마지막 구원 투수로 마운드에 올라 단 10개의 공으로 삼자범퇴를 잡아낸 일본인 투수 고바야시 다츠토(小林樹斗·23)였다.&lt;br&gt;&lt;br&gt;일본 독립리그 도쿠시마 인디고삭스 소속인 고바야시는 이날 시속 150㎞를 넘나드는 묵직한 직구로 오릭스의 마지막 타선을 완벽하게 봉쇄했다. 그는 같은 팀 동료 이시이 고키(23)와 함께 전날 한신 타이거스전(3대3 무승부)부터 한국 대표팀의 ‘지원 선수(서포트 멤버)’로 합류했다.&lt;br&gt;&lt;br&gt;본선 개막을 앞두고 투수진 체력을 안배해야 하는 한국 대표팀과, 평가전일지라도 정규 9이닝을 의무적으로 소화해야 하는 WBC 규정이 맞물려 주최 측이 배정한 일종의 ‘특별 예비 투수’였다. 태극마크가 새겨진 유니폼을 입고 마운드에 오른 고바야시는 흔들리는 대표팀 불펜진을 대신해 깔끔한 제구로 한국의 승리를 지켜냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSSTNRK4WBI4VG5ZA5IS64W6IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 일본 오사카 교세라돔에서 열린 한국 야구 국가대표팀과 오릭스 버팔로스의 경기에서 고바야시 다츠토가 역투하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고바야시는 이날 본지 인터뷰에서 “한신전에선 한국 투수진에 부상 등 돌발 상황이 발생할 경우 등판할 예정이었고, 오릭스전에선 미리 정해진 계획대로 9회에 등판했다”며 “한국 대표팀 선수들과 관계자 모두 친절하게 대해줘 무척 친숙하고 자극이 되는 이틀이었다”고 소감을 밝혔다.&lt;br&gt;&lt;br&gt;고교 시절부터 1m82의 큰 키에서 뿜어져 나오는 강속구로 주목받은 그는 ‘고교야구 성지’ 고시엔 무대를 거쳐 2020년 신인 드래프트 4순위로 일본 프로야구(NPB) 히로시마 도요카프에 입단했다. 하지만 2022년 팔꿈치 골절 등으로 기량이 하락하며 아쉬움을 삼켰고, 지난해 전력 외 통보를 받은 뒤 올 1월 독립리그 명문 도쿠시마 인디고삭스에 둥지를 틀며 재기를 노리고 있다.&lt;br&gt;&lt;br&gt;그런 고바야시에게 이번 한국 대표팀과의 동행은 “야구인으로서 한 단계 더 성장하고 싶다는 동기 부여가 된 시간”이었다고 한다. 그는 “이정후(샌프란시스코 자이언츠)나 김혜성(LA 다저스) 같은 메이저리거들을 가까이서 보며 역시 차원이 다르다는 것을 느꼈다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBXIXCRPSJAI5IZDGRI7RTBETU.png"&gt;&lt;figcaption&gt;&lt;small&gt;3일 한국 야구 국가대표팀과 오릭스 버팔로스의 평가전을 마치고 기념 촬영을 한 고바야시 다츠토(왼쪽)와 이정후/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C65CEJE6YRCOTC7GKUWAECTROI.png"&gt;&lt;figcaption&gt;&lt;small&gt;3일 한국 야구 국가대표팀과 오릭스 버팔로스의 평가전을 마치고 기념 촬영을 한 고바야시 다츠토(왼쪽)와 김혜성/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이틀간 근거리에서 지켜본 한국 대표팀의 최대 강점으로는 주저 없이 ‘타선’을 꼽았다. 고바야시는 “오릭스전에서도 대량 득점이 나오지 않았나. 이 폭발적인 타선이 본선에서도 발휘되면 감당할 수 있는 상대가 없을 것”이라고 내다봤다.&lt;br&gt;&lt;br&gt;다만 마운드를 향해서는 경험에서 우러나온 조언을 건넸다. 그는 “피치 클락이나 투구 수 제한 등 WBC만의 룰이 투수들에게 까다로울 수 있다”며 “이러한 규정을 불리하게 안고 가기보다 어떻게 플러스 요인으로 바꿀 수 있을지를 고민하면서 플레이했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;실제로 한국 투수진은 최근 평가전에서 KBO보다 엄격해진 WBC 피치 클락 규정(주자 없을 때 15초, 있을 때 18초 이내 투구)에 완벽히 적응하지 못한 듯, 타이밍을 뺏겨 제구가 흔들리는 모습을 종종 노출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NA4HOFBZPVFBJLSPIH5EKR5BWQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;고바야시 다츠토가 일본 프로야구 히로시마 도요카프 시절 역투하는 모습/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1인당 최대 투구 수가 65구로 제한되는 규정 역시 마운드 운용 전략을 복잡하게 만든다. 한국은 이날 이시이와 고바야시가 등판하기 전까지 8이닝 동안 6명의 투수를 기용했으나, 무실점으로 호투한 선발 데인 더닝을 제외하면 실점을 허용하며 아쉬움을 남겼다. 당장 8강 진출의 분수령이 될 일본전(7일)과 대만전(8일)을 앞두고 불펜 운용의 뚜렷한 해법을 찾는 것이 대표팀의 시급한 과제로 떠올랐다.&lt;br&gt;&lt;br&gt;고바야시는 “WBC는 단기전인 만큼 작은 실수 하나가 치명타가 될 수 있다”며 “한국 대표팀의 수준이 워낙 높으니 매 경기 사활을 걸고 단합한다면 좋은 결과가 있을 것”이라고 응원했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AM5I4XTK7ZGGVMOCM22AS55MPY.png"&gt;&lt;figcaption&gt;&lt;small&gt;고바야시 다츠토가 일본 프로야구 히로시마 도요카프 시절 역투하는 모습/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오릭스전 직후 국내 야구 커뮤니티와 기사 댓글에는 ‘고바야시를 당장 KBO로 데려와야 한다’는 팬들의 호평이 줄을 이었다. 이러한 한국 팬들의 반응을 전하자, 그는 “나 역시 KBO리그 진출을 목표로 훈련하고 있다”며 “선발과 불펜 모두 자신 있는 만큼, 이번 시즌 확실한 성과를 내서 오퍼를 기다리겠다. 솔직히 오릭스전 땐 이대로 계속 한국 대표팀에서 던지고 싶다는 생각도 들었다”고 웃어보였다.&lt;br&gt;&lt;br&gt;오는 WBC C조 경기에서 맞붙게 될 한국과 일본 중 어느 쪽을 응원할 것이냐는 질문엔 “과거 한 팀에서 뛰었던 동료들이 일본 대표팀에 있어 당연히 응원할 수밖에 없다”며 웃었다. 그러면서 “이틀간 나를 따뜻하게 품어준 한국 대표팀에 대한 애정도 크다”며 “솔직한 심정으로는 두 팀 모두 이겼으면 좋겠다. TV 앞에서 두 팀을 응원하는 날이 무척 기다려진다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배우 이상아 애견카페에 경찰 출동… “영업하기 싫었다” 토로</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/04/LPB2ZEB24JAVJBTYXGNATGT7QA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/04/LPB2ZEB24JAVJBTYXGNATGT7QA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 05:51:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSKIJYAGTNG4PCB6JBVJBAR4N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이상아가 운영 중인 애견 카페에 경찰이 출동한 모습. 이상아는 "영업하기 싫었다"며 고충을 토로했다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이상아(54)가 운영하는 애견 카페에 경찰이 출동하는 소동이 일어났다. 식품위생법 개정으로 손님과 갈등이 빚어진 것인데, 이상아는 “영업하기 싫었다”며 복잡한 심경을 토로했다.&lt;br&gt;&lt;br&gt;이상아는 지난 1일 인스타그램에 자신이 운영 중인 경기도 광주 한 애견 카페 내부 CCTV 영상을 공개했다. 반려견을 데려온 한 손님이 언성을 높이고 있고 출동한 경찰이 그 이야기를 듣는 모습이 담겼다. 이상아는 “3월 1일 일반음식점 반려견 동반 입장, 일반음식점 영업허가법 개정으로 인해 긴장하며 새롭게 시작했는데, 내가 출근하기 전부터 벌어진 상황이 여전히 정리되지 않고 있었다”며 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;그는 “(손님이) 모르고 방문하셨다가 까다롭게 따지고 아이들 돌아다니지도 못하게 하고 마음 편히 먹지도 못하게 하고. 당연히 화날 것”이라며 “설명을 잘해 드렸지만 안정이 안 되셨다. 충분히 예감했던 일이었다. 영업하는 저도 화가 나는데 보호자님들은 어떻겠나. 저도 몸이 아파 결국 터져버렸고 언성이 높아져서 결국 이런 상황까지 가게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;이상아가 언급한 손님과의 갈등은 1일부터 시행된 식품위생법 개정안에 의한 것으로 보인다. 그동안 음식점 내 반려동물 출입은 원칙적으로 금지됐으나, 이번 개정으로 일정 시설·위생 기준을 충족한 일반 음식점·휴게 음식점·제과점 등에도 반려동물 동반 출입이 가능해졌다. 다만 이때 영업장 측은 ▲예방접종 여부 확인 의무 ▲반려동물과 손님 간 접촉 차단 조치 ▲전용 의자·케이지·목줄 등 이동 제한 고정 설비 의무화 ▲음식물 덮개 설치 등 위생 관리 강화 등을 준수해야 한다. 세부 조건이 까다로워 오히려 현장 혼란을 키우고 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;이상아는 “다들 ‘이런 식이라면 공원 가서 도시락 싸 들고 먹는 게 더 편하지 않냐’는 반응이다. 맞는 말씀이고 저도 할 말이 없다”며 “SNS에 법 개정 내용이 많이 올라오고 있고 아쉽게도 반려견 입장 불가로 변경하는 업체도 생기고 있더라. 정말 너무 속상하다. 반려견 인구가 점점 늘어가는 시대에 반려견과 함께할 수 있는 공간을 좁히는 법 개정”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “첫날인데 정말 영업하기 싫었다. 저는 표현하지 않았을 뿐이지 보호자님과 똑같은 심정이었다”며 “제발 애견 동반 식당과 애견 카페의 차이점을 고려해 달라. 청결과 예방접종 다 좋지만 옆에서 아이들 뛰어노는 모습을 보며 함께 먹고 즐길 수 있게 허용해 준다면 바랄 게 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김태흠 “충남·대전 통합 사실상 무산… 민주당, 애초 전남·광주만 생각”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/04/GXJ56ZFFGFBTHMQPCAWICCXWPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/04/GXJ56ZFFGFBTHMQPCAWICCXWPM/</guid>
+      <dc:creator>홍성=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 07:48:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNBYBQ4WQVM7NMB33AHDXI554A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태흠 충남지사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태흠 충남지사는 4일 “어제 임시 국회가 끝나면서 사실상 충남·대전의 행정통합이 사실상 무산됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 이날 충남도청에서 기자회견을 열고 “(행정통합 논의를 위해) 국민의힘이 필리버스터를 중단했는데 민주당은 대구·경북과 대전·충남을 패키지로 당론을 정하라고 압박했다”면서 “애초에 전남·광주 통합만 통과시켜줄 생각이었던 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 1일 국민의힘은 대구·경북 행정통합 특별법 처리를 위해 필리버스터(무제한 토론)를 중단하고 민주당에 법제사법위원회 개최를 요청했다. 하지만 법사위는 열리지 않았다.&lt;br&gt;&lt;br&gt;김 지사는 “행정통합 3곳을 동시에 추진하면 세제 개편 없이 재정 지원 마련이 어려웠을 것”이라며 “충남·대전과 대구·경북 통합 찬성 당론을 요구한 것은 민주당이 책임을 국민의힘에 떠넘기고 내분을 조장하기 위한 전략이었다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “민주당이 단독으로 법안을 강행 처리하며 입법 독재를 펼치면서 왜 이것(행정통합)만 안 하느냐”면서 “단식과 삭발 등 ‘쇼’만 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;정부가 앞서 발표한 행정통합시 4년간 20조원 지원안에 대해서도 근거가 없다고 지적했다. 김 지사는 “김민석 총리의 말 한마디뿐 법안에 명시된 바도 없고, 재원 조달이나 교부 방식 등 정해진 것이 없다”면서 “앞으로 전남·광주 통합 과정을 보면 많은 거짓과 허구가 드러날 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “그렇지만 충남·대전의 행정통합 논의는 계속돼야 한다”면서 “재정과 권한 이양이 포함된 제대로 된 법안을 만들어서 2~4년 후에라도 시행돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 ‘내란 우두머리’ 항소심, 서울고법 내란전담재판부 형사12부 배당</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/04/BYNPBEZ4GNDEJPDNCMFJA2Q3GM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/04/BYNPBEZ4GNDEJPDNCMFJA2Q3GM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 06:53:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSGEMBSGNSDANZYG4YDKZJWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법이 4일 윤석열 전 대통령의 내란 우두머리 등 혐의 사건 항소심을 형사12부(재판장 이승철)에 배당했다고 밝혔다. 재판장은 이승철 고법판사가, 주심은 조진구 고법판사가 맡는다.&lt;br&gt;&lt;br&gt;형사12부는 윤 전 대통령의 내란 관련 사건을 심리하기 위해 신설된 전담재판부다. 내란 중요 임무 종사 혐의로 1심에서 징역 23년을 선고받은 한덕수 전 국무총리 사건도 이 재판부가 심리하고 있다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부인 서울중앙지법 형사25부(재판장 지귀연)는 지난달 19일 12·3 비상계엄을 선포한 윤 전 대통령의 내란 우두머리 혐의를 유죄로 인정해 무기징역을 선고했다. 당시 재판부는 “이 사건의 핵심은 군(軍)을 국회로 보낸 것”이라며 계엄 선포와 함께 병력을 국회에 투입한 것은 형법상 내란죄의 구성 요건인 ‘국헌 문란 목적을 가진 폭동’에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 또 고위공직자범죄수사처(공수처)와 검찰의 내란죄 수사도 적법하다고 봤다. 다만 윤 전 대통령이 계엄 선포 1년 전부터 장기 독재 여건을 조성하기 위해 계엄을 준비했다는 특검 측 주장은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;윤 전 대통령 지시에 따라 12·3 계엄에 가담한 혐의(내란 중요 임무 종사)로 기소된 전직 군·경 지휘부 인사 7명도 함께 재판을 받는다.&lt;br&gt;&lt;br&gt;앞서 1심은 군을 동원하고 포고령 작성 등 계엄 계획을 구체화한 김용현 전 국방장관에게 징역 30년의 중형을 선고했다. 부정선거 수사를 명분으로 중앙선거관리위원회(선관위) 직원 체포 계획을 세운 노상원 전 정보사령관에게는 징역 18년이, 국회를 봉쇄해 의원 출입을 막은 조지호 전 경찰청장과 김봉식 전 서울경찰청장에게는 각각 징역 12년과 징역 10년이 선고됐다.&lt;br&gt;&lt;br&gt;다만 선관위 직원 체포 계획 수립에 참여한 혐의를 받은 김용군 전 국방부 조사본부 수사단장과 상부 지시로 정치인 체포 지원에 나선 윤승영 전 경찰청 국수본 수사기획조정관 등 2명에 대해서는 증거 부족을 이유로 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 생후 42일 아들 때려 살해한 30대 친부 징역 15년 구형</title>
+      <link>https://www.chosun.com/national/regional/2026/03/04/P7WBVTK6SZDL3JL26QPCOZXOME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/04/P7WBVTK6SZDL3JL26QPCOZXOME/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 07:21:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DANBWHFRTOYRTG44WCMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생후 1개월 아들 살해 혐의를 받는 30대 남성 A 씨가 지난해 9월 구속 전 피의자 심문(영장실질심사)를 받기 위해 대구지방법원에 출석하고 있다. 검찰은 4일 열린 결심공판에게 A씨에게 징역 15년을 구형했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태어난 지 한 달가량 된 아들을 때려 숨지게 한 혐의로 구속기소된 30대 친부에게 검찰이 징역 15년을 구형했다. &lt;br&gt;&lt;br&gt;4일 대구지법 제11형사부(재판장 이영철) 심리로 열린 결심공판에 검찰은 A씨에 대해 이같이 구형하고, 아동학대 치료 프로그램 이수 및 관련 시설 취업 제한 10년을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 대구 달성군 자신의 집에서 생후 한 달 된 아들이 울며 보챈다는 이유로 머리를 강하게 때려 숨지게 한 뒤 시신을 인근 야산에 유기한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;검찰은 “피해 아동의 친부로서 누구보다 안전하게 보호하고 양육할 책임이 있음에도 생후 42일에 불과한 아들이 울고 보챈다는 이유로 때려 숨지게 했다”며 “죄질이 매우 무겁고, 결과 또한 중대한 점, 그리고 진정으로 자신의 잘못을 반성하고 있는지도 매우 의문스럽다”고 구형이유를 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “제가 잘못 생각했고, 잘못된 행동으로 아들에게 이런 결과가 일어났다”며 “언제 어디서나 반성하며 살아가겠다”고 말했다.&lt;br&gt;&lt;br&gt;A씨에 대한 선고 공판은 25일 오전 10시에 열린다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>믿었던 편의점 직원의 배신… 설 특판 골드바 15개 통째로 빼돌려  </title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/04/AIMLYU55WRAZRCLSLP6J4CQ5IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/04/AIMLYU55WRAZRCLSLP6J4CQ5IU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 06:59:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXJM7CI677TCT6WQWDMIFGBG2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주흥덕경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 명절 특판 행사로 들여온 골드바 수천만원어치를 빼돌린 편의점 종업원이 경찰에 붙잡혔다. 자신이 근무하는 매장에서 본사 발주 물량을 가로채고 현금과 상품권까지 챙긴 뒤 잠적한 것으로 드러났다. &lt;br&gt;&lt;br&gt;충북 청주 흥덕경찰서는 특정범죄가중처벌법상 절도 등의 혐의로 40대 종업원 A씨를 구속했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 3일부터 10일까지 자신이 근무하는 청주시 흥덕구의 한 편의점에서 5000만원 상당의 골드바 15개(10돈짜리 5개·1돈짜리 10개)를 훔쳐 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 해당 편의점에서는 설 명절 특판 행사로 골드바를 판매하고 있었다.&lt;br&gt;&lt;br&gt;A씨는 업주에게 “지인들에게 골드바를 판매하겠다”고 속여 본사에 골드바 발주를 넣은 뒤 이를 빼돌린 것으로 조사됐다. 그는 또 수백만 원 상당의 문화상품권과 현금도 함께 훔친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;범행 전 업주에게 보증금 등의 명목으로 3000만원을 빌렸던 A씨는 범행 후 그대로 잠적했다.&lt;br&gt;&lt;br&gt;업주의 신고로 수사에 나선 경찰은 지난달 28일 경북 구미에서 A씨를 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 공정위에 ‘전분당 담합’ 4개 식품업체 고발 요청</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/04/AJ5QQBQQSRBVDAGLESKEQ3ZAFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/04/AJ5QQBQQSRBVDAGLESKEQ3ZAFE/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 07:02:16 +0000</pubDate>
+      <content:encoded>전분당 담합 의혹을 수사하는 검찰이 최근 공정거래위원회에 관련 기업들에 대한 고발요청권을 행사한 것으로 4일 확인됐다. 공정위는 검찰 요청에 따라 이날 고발을 제기한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27Y6RAWRCJNFJPIT6CKR72V7NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰이 최근 공정거래위원회에 '전분당 담합' 의혹을 받는 CJ제일제당 등 4개 회사에 대해 고발요청권을 행사했다. 사진은 서울 중구에 위치한 CJ제일제당 본사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 서울중앙지검 공정거래조사부(부장 나희석)는 지난달 말 공정위에 CJ제일제당, 대상, 사조CPK, 삼양사 등 4개 식품업체에 대한 고발요청권을 행사했다. 공정거래법상 전속고발권을 가진 공정위는 검찰총장·감사원장·중소기업청장·조달청장의 고발 요청이 있을 경우 검찰에 고발해야 한다.&lt;br&gt;&lt;br&gt;검찰은 지난달 23일부터 이 업체들을 상대로 압수수색을 진행한 바 있다. 앞서 5조원대 밀가루 담합, 3조원대 설탕 담합을 수사했던 검찰은 전분당 담합이 두 사건보다 담합 규모가 큰 것으로 파악하고 수사에 나선 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전분당은 물엿, 포도당, 올리고당 등 가공식품 감미료로, 과자나 유제품 등 각종 가공식품의 원료로 쓰인다. 공정위 고발에 따라 검찰은 본격적으로 기업 관계자 소환 조사 등을 벌일 전망이다. 한편 전분당 담합을 자체 조사하고 있는 공정위는 이번 달 초 조사를 마무리할 예정이다.&lt;br&gt;&lt;br&gt;검찰은 담합을 통해 소비자 가격을 끌어올리는 행위를 ‘서민 경제 교란 범죄’로 규정하고 연일 전방위적인 수사를 진행하고 있다. 최근에는 설탕과 밀가루 가격 담합 의혹과 관련해 국내 업체 관계자들을 무더기로 재판에 넘기는 등 관련 수사를 확대해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘도이치 주가 조작 공범’ 이모씨 음주운전 혐의 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/04/IMMFNOAQPFCQTCVKXVWSPVM6QU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/04/IMMFNOAQPFCQTCVKXVWSPVM6QU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 06:44:14 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RGGMBUGJTGGNJZMQZWGMJSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'도이치모터스 주가 조작' 사건 공범 이모씨 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도이모터스 주가 조작 사건을 김 여사 등과 공모한 혐의로 재판을 받고 있는 이모씨가 음주운전 혐의로 다시 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 서울중앙지검 형사7부(부장 조윤철)는 지난달 말 이씨를 도로교통법 위반 혐의로 불구속 기소했다. 이씨는 2024년 10월 말 서울 송파구 인근에서 술을 먹은 상태에서 운전을 하다가 적발된 것으로 알려졌다. 당시 이씨의 혈중알코올농도는 면허 취소 수준이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 이씨는 2012년 9월 11일부터 같은 해 10월 22일까지 권오수 전 도이치모터스 회장, 이종호 전 블랙펄인베스트 대표, 김 여사 등과 함께 주가를 조작해 1300여 만원의 부당이득을 챙긴 혐의(자본시장법 위반)로 작년 12월 구속 기소됐다. 민중기 특검은 지난달 24일 법원에 징역 1년 6개월을 이씨에게 선고해달라고 했다. 이씨에 대한 1심 선고는 오는 25일 있을 예정이다.&lt;br&gt;&lt;br&gt;이씨는 도이치모터스 주가 조작 1차 작전 시기(2009년 12월 23일~2010년 10월 20일)에 김 여사의 증권사 계좌 관리인이었다. 그는 김 여사에게 ‘건진 법사’ 전성배씨를 소개한 인물이기도 하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, ‘36주 태아 낙태’ 병원장 살인죄 인정해 징역 6년 선고... 산모는 징역형 집행유예</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/04/ZGKO6QETBNFQJA3TUZ452VAKBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/04/ZGKO6QETBNFQJA3TUZ452VAKBE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 05:52:01 +0000</pubDate>
+      <content:encoded>이른바 ‘36주 태아 낙태’ 사건과 관련해 법원이 4일 낙태 수술을 맡은 병원장에게 살인 혐의를 인정해 징역 6년을 선고했다. 수술을 집도한 의사에겐 징역 4년을 선고했고, 산모에겐 징역 3년에 집행유예 5년을 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPLSWKNJM5M42GSPNC27SRKVA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임신 36주차에 인공임신중절 수술을 받았다고 주장하는 여성의 유튜브 영상 캡처. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 이날 병원장 윤모씨와 산모 권모씨 등의 살인 등 혐의 1심 선고 공판을 열고 이 같이 선고했다. 윤씨에게는 벌금 150만원과 추징금 11억5000여 만원도 함께 선고됐다. 실형이 선고된 두 의료진은 보석이 취소돼 법정 구속됐다.&lt;br&gt;&lt;br&gt;지난 2024년 6월 임신 34~36주차였던 권씨가 윤씨의 병원에서 제왕절개 수술로 태아를 출산한 뒤, 이 태아를 냉동고에 넣어 살해했다는 게 이들의 혐의 핵심이다. 권씨가 수술 이후 자신이 운영하던 유튜브 채널에 후기를 올리면서 논란이 됐고, 경찰이 수사에 착수한 것이다. 윤씨는 경영난을 겪자 낙태 수술을 통해 돈을 벌기로 마음먹고, 2022년 8월부터 2024년 7월까지 브로커들에게 임신중절 환자 527명을 소개받아 총 14억6000만원을 벌어들인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 이 사건 낙태 수술에 대해 세 사람의 살인 혐의가 인정된다고 판단했다. 낙태 수술 당시 태아는 수술을 통해 모체 밖으로 배출됐는데, 이때 태아의 심박이 정상이고, 다른 이상이 없어 생존할 수 있었다는 것이다. 재판부는 “권씨는 여러 산부인과와 의원에서 진료를 받았고, 초음파 진료를 통해 태아의 심장 소리도 확인했다”며 “이런 상황에서 태아의 사체 처리를 의원에 위임한다는 동의장에 서명하고 수술을 감행한 것은 곧 태아 사망으로 이어질 것을 권씨도 알았을 것으로 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;다만 재판부는 살인죄에 대한 책임을 온전히 이들에게만 묻는 것은 과하다고 판시했다. 2019년 헌법재판소의 헌법불합치 결정으로 형법상 낙태죄가 사라졌으나, 국회가 별다른 개선 입법에 나서지 않아 입법 공백과 혼란이 벌어졌다는 것이다.&lt;br&gt;&lt;br&gt;이어 재판부는 “사회적·경제적 어려움에 빠진 위기 임산부를 보호하는 ‘위기 임신 및 보호출산 지원과 아동 보호에 관한 특별법’은 2024년 7월에서야 시행돼 권씨는 국가의 보호를 받지 못했고, 임신 당시 오진으로 범행 직전에서야 임신 사실을 안 것으로 보인다”며 “출산으로 자신은 물론 자녀도 불행해질 거라 생각해 범행을 했을 가능성을 배제하기 어렵다”며 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 선고를 마치면서 “권씨를 엄히 처벌해야 마땅하나, 위기 임산부에 대한 사회적·법적 조치가 부족하다고 판단해 이번에 한해 징역형 집행유예를 선고한 것”이라고 강조했다.&lt;br&gt;&lt;br&gt;한편 윤씨에게 산모들을 소개해 준 혐의로 기소된 한씨에게는 징역 1년과 추징금 2억1995만원이 선고됐다. 한씨와 함께 일한 배씨에게는 징역 10개월에 집행유예 2년, 추징금 9200만원이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금호타이어 광주공장, 대형 화재 뒤 첫 하루 타이어 1만본 생산</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/04/T5OVTWQQVREXHJPRLROPVNELV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/04/T5OVTWQQVREXHJPRLROPVNELV4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 06:06:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WIMBVGJQWCYRRMU3DSM3EME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금호타이어 광주공장. /금호타이어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금호타이어 광주공장이 대형 화재 이후 약 9개월 만에 하루 타이어 1만본 생산을 달성했다.&lt;br&gt;&lt;br&gt;금호타이어 광주공장은 “지난달 26일 광주공장에서 타이어 1만565본을 생산해 공장 정상화를 위한 본궤도에 올랐다”고 4일 밝혔다. 금호타이어 광주공장은 작년 5월 17일 2공장에서 불이 나 건물 등 2만5000 ㎡가 탔다.&lt;br&gt;&lt;br&gt;이후 현장 감식과 붕괴 위험성이 제기된 공장 건물 해체 때문에 6개월 동안 공장 가동도 멈췄다. 화재 전 금호타이어 광주공장의 최대 생산량은 연간 1200만본, 하루 3만본 수준인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;금호타이어 광주공장은 작년 11월부터 화재 피해를 입지 않은 1공장을 중심으로 하루 1만본, 연간 530만본 타이어 생산을 목표로 재가동에 들어섰고, 올해 들어 하루 생산 목표치를 달성했다.&lt;br&gt;&lt;br&gt;금호타이어는 광주공장 정상화와 함께 빛그린산단 내 함평 신공장 건설도 추진 중이다. 함평공장은 오는 2028년 상반기 가동 예정이다. 1단계 타이어 생산 목표는 하루 1만5000본, 연 530만본이다.&lt;br&gt;&lt;br&gt;정영모 금호타이어 광주공장장은 “타이어 1만본 생산은 단순한 실적이 아니라 임직원들이 함께 흘린 땀과 노력의 결실”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MI3WIMBVGJQWCYRRMU3DSM3EME.jpg?auth=dfa4b05e0ec851175bea273388a7e5f42ab9608dd3390c2f0598d3f394abdeb2&amp;smart=true&amp;width=1920&amp;height=1080" type="image/jpeg" height="1080" width="1920">
+        <media:description type="plain">금호타이어 광주공장. /금호타이어</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>제주로 떠밀려온 폐목선서 北 노동신문 추정 종이 발견</title>
+      <link>https://www.chosun.com/national/regional/2026/03/04/R7GIO3I5IVABDKD5VIISDV5G6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/04/R7GIO3I5IVABDKD5VIISDV5G6M/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 05:56:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37MB45DWCVEZPBA63ZRLYZ45TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 제주 애월 해안에서 발견된 폐목선./제주지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 우도 해안가에서 발견된 목선에서 북한 노동신문이 있다는 신고가 접수돼 수사당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;4일 서귀포해양경찰서와 제주경찰청 등에 따르면 이날 오전 9시 40분쯤 제주시 우도면 해안가에 폐목선이 발견됐다는 주민 신고가 접수됐다. &lt;br&gt;&lt;br&gt;목선은 길이 4m, 폭 1m 크기로 별다른 유류품은 발견되지 않았다. 목선은 선체 곳곳에 구멍이 나 있고, 심하게 부패한 상태였다. 선박 뒷쪽 내부 나무 틈에서 북한 노동신문으로 추정되는 종이가 발견됐다.&lt;br&gt;&lt;br&gt;제주경찰청과 국정원, 해경 등이 현장에서 조사를 벌이며, 대공 혐의점 등 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;한편 최근 제주도 해안가에선 정체불명의 목선이 잇따라 발견되고 있다. 지난해 12월 30일 서귀포시 대정읍 신도리 해안가에서 목선이 발견됐고, 올해 1월 12일과 29일 제주시 구좌읍 월정리 해안가와 제주시 애월읍 해안가에서 목선이 발견되기도 했다. 하지만 당시 대공 혐의점은 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>발목 부상에 멈춰선 불곰…‘PGA 투어 데뷔’ 이승택 시즌 조기 마감</title>
       <link>https://www.chosun.com/national/people/2026/03/04/YQYHVBR6HZEHJJLWO5CYSEGFDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/04/YQYHVBR6HZEHJJLWO5CYSEGFDY/</guid>
@@ -806,126 +949,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHDWCH44DBMPZMT4KTV5JHO6VI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1억 공천헌금' 의혹을 받는 강선우 무소속 의원이 3일 서울 서초구 중앙지법에서 열린 구속 전 피의자 심문에 출석하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>그날의 함성 되새기며 ‘3·1절 셀카’</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/02/FCZ5T6Y6BRBTRNTSFR3W7LSZMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/FCZ5T6Y6BRBTRNTSFR3W7LSZMU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HK3DAO2CVVBYBJAEJOMKF5NA3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼일절인 1일 오전 서울 서대문독립공원에서 서대문구 역사어린이합창단과 미스코리아들이 기념사진을 찍고 있다. 한복을 입고 태극기를 들었다. 뒤쪽에 독립문이 보인다. 이날 서대문독립공원 서대문형무소역사관에선 삼일절 기념 행사가 열렸다. 역사어린이합창단은 태극기를 흔들며 삼일절 노래를 불렀다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>압류 코인 69억원어치 털린 국세청… “내가 탈취했다 원상복구” 자수</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/02/VUABQJSB4NBW7DQHGSHXW3ZXV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/VUABQJSB4NBW7DQHGSHXW3ZXV4/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>국세청이 고액 체납자의 가상자산을 압류한 것을 홍보하는 보도자료를 내면서 중요 정보를 노출해 60억원대 코인을 탈취당했다. 경찰이 관련 수사에 나선 가운데 한 남성이 자기가 코인을 탈취했다가 원상복구 조치했다고 경찰에 자진 신고했다.&lt;br&gt;&lt;br&gt;국세청은 지난달 26일 체납자의 가상자산이 든 콜드월렛(오프라인 전자지갑) USB 4개를 압류했다는 보도자료를 배포하면서 니모닉 코드를 함께 노출했다. 니모닉 코드는 분실한 가상자산을 복원할 때 쓰는 암호다. 콜드월렛은 실물 형태로 가상자산을 보관하는 전자지갑인데, 일종의 ‘마스터키’ 역할을 하는 니모닉 코드가 있으면 어디서든 코인을 복원할 수 있다. 콜드월렛 없이도 코인을 빼돌릴 수 있는 것이다.&lt;br&gt;&lt;br&gt;실제로 국세청이 보도자료를 배포한 당일 누군가가 보도자료에 노출된 니모닉 코드를 활용해 전자지갑에서 한화 69억원 상당의 코인을 탈취했다. 이에 국세청은 자체 가상자산 추적 프로그램을 통해 유출 경로 추적에 나섰고, 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;이런 사실이 알려지자 한 남성이 지난달 28일 오후 경찰청 온라인 민원접수 시스템을 통해 “내가 호기심에 저질렀다”며 신고했다. 신고자는 국세청이 니모닉 코드를 노출했다는 내용의 인터넷 게시글을 보고 호기심에 코인 탈취를 시도해 성공했고 이후 원상복구 조치를 했다고 주장하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;다만, 국세청 등은 “가상자산이 다시 콜드월렛에 돌아왔는지는 수사 상황이라 확인이 어렵다”고 했다. 이와 관련 국세청은 1일 입장문을 내고 “(니모닉 코드 노출은) 변명의 여지 없이 국세청의 잘못”이라며 “이번 사고를 계기로 보안체계 전반에 대한 외부진단을 실시하고, 대외 공개 시 민감 정보가 유출되지 않도록 사전 심의 등 내부 통제를 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;최근 공공기관이 압수·압류한 가상자산을 탈취당하거나 분실하는 사고가 잇따르고 있다. 광주지검은 최근 압수물로 보관하던 비트코인 상당량을 분실해 논란이 됐다. 서울 강남경찰서도 임의제출 방식으로 제출받아 보관하던 비트코인이 유출된 사실이 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년 만 18~26세 청년 국민연금 첫 달 보험료, 정부가 대신 내준다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/02/42RJW3GOBZDANA5OIBQQCRQX3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/02/42RJW3GOBZDANA5OIBQQCRQX3Y/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>내년부터 만 18~26세 청년이 국민연금에 처음 가입할 때 국가가 첫 달치 보험료를 대신 내주게 된다.&lt;br&gt;&lt;br&gt;1일 보건복지부와 국회 등에 따르면, 지난달 27일 국회 보건복지위원회는 법안심사소위원회를 열어 이 같은 내용의 국민연금법 개정안을 통과시켰다. 복지위 전체회의와 국회 본회의 등을 거쳐야 하지만, 이는 정부·여당이 추진하는 법안이라 연내 처리돼 내년부터 적용될 것으로 보인다.&lt;br&gt;&lt;br&gt;지원 금액은 내년 기준소득월액 하한액인 4만2000원 정도가 될 전망이다. 제도가 시행되는 2027년에 만 18세가 되는 2009년생부터 적용된다. 2009년생 45만1000명이 국민연금에 모두 가입할 경우 190억원 정도의 예산이 들어갈 것으로 추산된다. &lt;br&gt;&lt;br&gt;청년들의 생애 첫 국민연금 보험료 지원은 현 정부의 국정 과제다. 정부는 당초 ‘3개월 치’ 보험료 지원을 검토했으나 재정 여력 등으로 지원 규모를 1개월로 줄였다. 이미 국민연금에 가입된 청년이라면 가입 기간 1개월을 추가로 인정받을 수 있다. &lt;br&gt;&lt;br&gt;청년들을 대상으로 직접적인 연금 지원을 하는 건, 청년들이 연금 사각지대에 놓여 있다고 보기 때문이다. 2023년 말 기준 18~24세 청년들의 국민연금 가입률은 24.3%에 불과하다. 국민연금은 가입 기간이 길수록 나중에 받는 연금이 많아지기 때문에 가입이 빠를수록 유리하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외식도 ‘댕댕이’와 함께…  이젠 옆에 앉히고 먹어요</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/02/FJVXO4YLFRFTLIH7IIGIIQ4YCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/02/FJVXO4YLFRFTLIH7IIGIIQ4YCQ/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>1일부터 반려동물과 함께 음식점을 이용할 수 있게 됐다. 그동안 장애인 보조견을 제외하곤 반려동물을 식당 안에 데리고 들어가 함께 음식물을 먹는 건 사실상 불법이었는데, 이제 공식적으로 음식점 출입이 가능해진 것이다. 다만 출입 가능한 반려동물은 개와 고양이로 한정되고, 음식점도 해당 영업주가 관할 지방자치단체에 ‘반려동물 동반 출입 음식점’으로 신청해놓은 곳만 가능하다. &lt;br&gt;&lt;br&gt;식품의약품안전처는 이 같은 내용이 담긴 식품위생법 시행규칙 개정안이 시행된다고 1일 밝혔다. 이에 따르면, 앞으로 개와 고양이 출입을 허용하려는 식당이나 카페, 제과점 업주는 관할 지자체 신청을 통해 동반 출입 음식점으로 지정을 받을 수 있다. 다만 관련 조건을 지켜야 한다. 해당 음식점은 ‘반려동물 동반 출입이 가능하다’는 안내문을 입구나 음식점 외부에 반드시 붙여 놓아야 하고, 예방접종을 하지 않은 개와 고양이는 출입할 수 없도록 업주가 확인해야 한다. 음식점 측에서 손님을 받을 때 개·고양이의 접종 증명서와 수첩 등을 확인해야 한다는 뜻이다. 음식을 먹을 때 반려동물은 전용 의자에 앉히거나 목줄 작용, 또는 전용 케이지 안에 들어가도록 했다. 이는 반려동물이 식당 내에서 함부로 돌아다니지 않도록 하려는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63IB64WW3ZBYBMZ44NGU3JK4BI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 음식점 측은 반려동물이 다른 손님에게 불편하지 않게 식탁 간격도 충분히 확보해야 하고, 털 등이 들어가지 않게 음식을 진열·보관할 때는 뚜껑과 덮개를 써야 한다. 사람이 쓰는 식기와 반려동물이 쓰는 식기도 구분해야 할 뿐 아니라, 주방 등에는 반려동물이 들어갈 수 없도록 조치를 취해야 한다. 다만 음식점 측에 반려동물끼리 물거나 하는 사고 등에 대비한 책임보험은 의무가 아니라 가입을 권고했다. &lt;br&gt;&lt;br&gt;현재 국내에서 개나 고양이를 키우는 인구는 1500만명이 넘는 것으로 추산된다. 원래 음식점에 반려동물을 데려가려면 내부에 반려동물을 위한 별도 분리 공간을 만들거나, 매장 바깥에 동물을 묶어 둬야 했다. 그렇지 않고 함께 음식을 먹는 건 관련 법규 위반이었다. 하지만 반려동물을 키우는 국내 인구가 계속 늘어나자 식약처는 2년 간 규제 샌드박스(일정 기간 규제 적용을 하지 않는 제도)를 통해 반려동물 동반 식당을 시범 운영해 본 뒤, 이번에 본격 허용키로 한 것이다. &lt;br&gt;&lt;br&gt;다만 까다로운 조건 때문에 확산이 더딜 것이란 전망도 나온다. 자영업자들 사이에선 “예방접종 확인과 동선 분리 등 음식점 부담이 너무 크다”며 “소형 음식점에서는 맞추기 어려운 조건”이라는 반응도 나온다. 반면 동물보호단체들은 “반려동물은 가족”이라며 반기고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[어떻게 생각하십니까] 도시철도, 노인 무임승차 정부 지원 해달라는데</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/02/CPELI6XINZEHDN7BR2JJ2WUI2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/02/CPELI6XINZEHDN7BR2JJ2WUI2Y/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>6·3 지방선거를 앞두고 노년층 ‘지하철 무임승차 제도’를 둘러싼 논란이 다시 수면 위로 떠오르고 있다. 지난달 서울·부산·대구·인천·광주·대전 등 전국 6개 도시철도 운영기관의 노사(勞使) 대표들이 부산교통공사에 함께 모여 “애당초 무임승차는 국가 정책인 만큼 중앙 정부가 손실을 보전해달라. 재정이 한계에 다다랐다”고 한목소리를 냈다. 지방선거를 앞두고 각 정당에 ‘무임수송으로 발생하는 적자만이라도 보전해 달라’, 광역지자체장 후보들에는 ‘중앙정부를 향해 보다 더 강하게 목소리를 내달라’는 메시지를 던진 것이다. &lt;br&gt;&lt;br&gt;국내 도시철도는 65세 이상 노년층에게 운임을 받지 않는다. 이는 지난 1984년 전두환 당시 대통령 지시에 따라 노인복지법 시행령이 개정되면서 도입됐다. 국가 법령에 근거한 제도인 만큼 전국 지하철에 동일하게 적용되지만, 대구 등 일부 지자체는 자체 조례 등을 통해 무임 연령 상향을 추진 중이다. 도입 당시에는 65세 이상 인구 비중이 낮고 지하철 노선도 많지 않아 재정 부담이 크지 않았다. 무임수송은 장애인과 국가유공자에게도 적용되지만, 무임승차 인원의 약 85%가 65세 이상일 정도로 노년층 비중이 크다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D73TVM2YTNFTDGXXMRAJOGNTQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 고령화 속도다. 65세 이상 인구 비율은 1984년 4.1%에서 2025년 21.2%로 5배 이상 늘었다. 65세 이상 인구 비율이 20%가 넘는 ‘초고령사회’가 된 것이다. 노년층 인구가 빠르게 늘며 작년 전체 지하철 탑승객의 약 20%가 무임승차객이라고 한다. 무임수송 비용은 2020년 4456억원에서 작년 7754억원으로 5년 만에 74% 불어났다. 이 비용은 2030년 8260억원, 2035년 9180억원으로 늘어날 것으로 추산된다. 현재 도시철도 적자의 약 60%가 이 무임승차에서 발생하는 만큼, 적자폭이 더 커질 수밖에 없는 것이다. &lt;br&gt;&lt;br&gt;인건비와 전기요금, 지하철 유지·관리 비용은 빠르게 늘어나는데, 주민 반발과 정치적 부담으로 요금 인상을 제대로 할 수 없는 것도 원인이다. 일단 각 도시철도공사는 적자 해소를 위해 자구책을 실시하고 있다. 서울교통공사는 적자를 메우기 위해 2021년 자사 마스코트인 ‘또타’ 캐릭터 인형 판매 사업을 벌이고, 최근에는 ‘부역명’ 판매(역 이름에 기관이나 기업명을 넣어주는 사업)도 늘리고 있다. 서울 2호선 성수역에 패션 기업 ‘무신사’를 병기한 게 대표적이다. 하지만 도시철도 운영사측은 “이런 자체 사업만으로 수천억 원 규모의 적자를 메우는 건 역부족”이라고 주장한다.&lt;br&gt;&lt;br&gt;이에 중앙정부 차원의 지원을 요구하고 나선 것이다. 한 도시철도공사 관계자는 “노년층 무임 수송이 국가 정책인데도 손실 부담을 지자체와 도시철도가 모두 떠안고 있다”고 했다. 같은 무임 수송 제도를 운영하는 한국철도공사(코레일)만 해도 별도 법에 따라 국비로 무임 수송 손실 일부를 보전받는다. 하지만 정부는 “도시철도는 지자체 소관”이란 입장이다.&lt;br&gt;&lt;br&gt;전문가들 사이에선 “‘기초연금’ 수급 여부를 기준으로 무임 수송 제도를 손봐야 한다”는 주장이 나온다. ‘노인복지’라는 취지를 유지하면서도 무임수송에 따른 재정 부담을 줄이려면, 무임 연령을 일괄적으로 올리기보다 대상을 선별하는 방식이 더 효과적이라는 것이다. &lt;br&gt;&lt;br&gt;실제로 한국교통연구원의 최근 보고서에 따르면, 무임 연령을 ▲65세에서 70세로 높이는 방안 ▲65세를 유지하면서도 기초연금 수급 기준(소득 하위 70%)에 해당되는 노년층에게만 혜택을 주는 방안을 비교·분석한 결과 후자 측 비용 부담이 훨씬 적은 것으로 확인됐다. 70세로 상향 조정하면 현행 방식보다 무임 수송 비용이 29.5% 감소하지만, 소득 하위 70%에게만 혜택을 주면 비용이 71.7%까지 줄어든다고 한다(2030년 기준). 연구진은 “소득 수준에 따라 교통비를 차등화하는 방식이 지하철 적자 완화뿐 아니라 사회적 형평성도 높일 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3월에 즐기는 바다 서핑</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/02/TYZBM2DXINDKDPOALLF6F3CJNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/TYZBM2DXINDKDPOALLF6F3CJNA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2VZNUA6KZGRFMZRGCGVVQDZ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 부산 해운대구 송정해수욕장에서 서핑을 즐기는 시민들의 모습. 이날 부산은 낮 최고 기온 13도를 기록하며 포근한 초봄 날씨가 이어졌다. 2일 전국 아침 최저기온은 1~8도, 낮 최고기온은 4~12도로 예상되며 평년과 비슷한 수준을 보이겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월2일</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/02/Z2YXVZE7UBFRDANZJ3LYFQSQTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/Z2YXVZE7UBFRDANZJ3LYFQSQTM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>전국에 눈·비, 제주는 ‘최고 14도’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCWNX3AR2NBQXDS7RQQL4D3UNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Why] 최순실 일가의 改名 퍼레이드… 작명 전문가들 "개선보다 개악이 더 많아"</title>
-      <link>https://www.chosun.com/site/data/html_dir/2016/11/04/2016110401434.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2016/11/04/2016110401434.html</guid>
-      <dc:creator>권순완 기자</dc:creator>
-      <description>대한민국 사상 최악의 국정 농단 장본인으로 꼽히는 최순실(60)씨의 주민등록상 이름은 최서원이다. 최씨의 원래 이름은 최필녀였는데 최순실로 바뀐 뒤 2014년 2월 최서원으로 다시 개명됐다. 최씨 딸…</description>
-      <pubDate>Tue, 08 Nov 2016 01:35:22 +0000</pubDate>
-      <content:encoded>대한민국 사상 최악의 국정 농단 장본인으로 꼽히는 최순실(60)씨의 주민등록상 이름은 최서원이다. 최씨의 원래 이름은 최필녀였는데 최순실로 바뀐 뒤 2014년 2월 최서원으로 다시 개명됐다. 최씨 딸 정유라(20)씨도 작년 6월 정유연에서 현재 이름으로 개명했다. 최씨 조카이자 체육계 실세로 행세했다는 장시호(37)씨 역시 작년 2월 장유진에서 개명한 것이다. 최씨 아버지인 최태민(1994년 사망)씨는 생전 여섯 번 개명해 총 7개의 이름을 가졌던 것으로 알려졌다. 이 가족은 왜 이렇게 이름을 바꾸는 것일까. 최씨 일가의 잦은 개명을 두고 작명 전문가들은 “이름이 개선됐다기보다 개악된 경우가 많다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNIHY7BRRPWJH22MQWSWWR6GMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최순실씨 개명에 대해 다수의 성명학자들은 “최순실이란 이름을 최서원으로 바꾼 것은 좋으나 때늦은 감이 있다”고 말했다. 대학에서 성명학을 가르치는 김두규 우석대 교수는 “이름의 초성으로 볼 때 최순실은 ‘금금금(金金金)’에 해당돼 쇠가 서로 부딪히듯 본인의 자존심을 내세워 삶에 역경이 많은 운”이라며 “최서원은 ‘금금토(金金土)’로 흙이 쇠를 도와주기 때문에 원만하고 성공적인 삶으로 이끄는 이름이나 2년 전에 바꿨기 때문에 기존의 악운을 뒤집기 어려웠을 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;한자 이름의 획수를 여러 가지 방식으로 더해 운수를 분석하는 수리(數理) 성명학자들도 최순실의 한자 이름(崔順實)이 잠깐 번창하긴 하지만 오래가지 못하는 운이라고 말한다. 성명학자 이수봉씨는 “원래 최필녀(崔畢女)라는 이름은 ‘이산(離散)’격으로 잔머리는 뛰어나나 재물이 모이지 않고 가족·배우자와 이별하는 운이라 (최순실로) 바꿨을 가능성이 높다”며 “그러나 최순실 역시 영웅호걸의 운으로 잠깐 부귀는 누리겠으나 세력이 빈약해 곧 어려움이 닥치는 이름”이라고 말했다. 전문가들은 아직 밝혀지지 않은 최서원의 한자 이름을 ‘崔瑞原’으로 추정했다. 이 경우 그간 쌓아둔 부(富)를 안전하게 갈무리한다는 의미가 있다고 한다.&lt;br&gt;&lt;br&gt;정유라나 장시호의 경우 옛 이름과 현재 이름 모두 한글 발음상으론 큰 무리가 없다고 한다. 이 중 특히 정유연(鄭有然)을 수리 성명학으로 보면 분석 대상이 되는 한자 획수의 네 가지 합이 각각 발전, 안전, 흥성, 태공(泰功·커다란 성공)을 의미한다. 원종문 한국동양운명철학인협회 이사는 “정씨가 승마 국가대표로 뽑히고 재작년 아시안게임에서 금메달을 딴 것은 상당 부분 좋은 이름의 덕이라고 볼 수 있다”며 “다만 한자의 뜻을 오행으로 옮겨 보면 ‘토수화(土水火)’로 ‘풍파절목(風派折木)’격이라 극도로 예민하고 싸움이 잦은 성격으로 볼 수 있다”고 말했다. 정씨는 2014년 말 이화여대에 승마 특기자로 합격한 이후 SNS에 ‘능력 없으면 니네 부모를 원망해. 돈도 실력이야’라는 글을 올린 바 있다. 정유라의 한자는 아직 공개되지 않았다. 수리 성명학자들은 최근의 사태를 볼 때 ‘라’자만 ‘그물 라(羅)’로 바꿨을 가능성이 높다고 추측했다. 이 경우 초년(대략 30세 전후까지) 운이 시비(是非)로 점철돼 시시비비를 가리는 구설이 많아진다는 것이다.&lt;br&gt;&lt;br&gt;최태민의 여섯 번에 걸친 개명에 대해 전문가들은 “전문 작명가가 조언한 흔적이 거의 보이지 않는다”고 입을 모은다. 최태민(崔太敏), 최도원(崔道源), 최상훈(崔尙勳), 최봉수(崔峰壽), 최퇴운(崔退雲), 공해남(孔亥南), 방민(房敏) 등 이름 중 ‘수(壽)’ ‘퇴운(退雲)’ 등 보통 이름에 잘 넣지 않는 한자가 들어간 것이나 아예 성을 바꾼 것은 종교 활동을 위한 이름이라고 봐야 한다는 것이다. 최씨는 박근혜 대통령에게 접근하기 시작했던 1970년대 중반 최태민으로 개명했는데, 이 이름은 고독하고 곤궁한 운이며 수리 성명학으로는 그 총획이 26획으로 딸 최순실과 같아 잠시 영웅처럼 흥하다가 따르는 세력이 없어 곧 망하는 운이라고 한다. 결과적으로 7개 이름 중 제대로 지은 게 하나도 없다는 것이다.&lt;br&gt;&lt;br&gt;최순실씨는 이제 더 이상 개명하지 않아도 될까. 원종문 이사는 “1956년 6월 23일생이라는 최순실씨의 사주를 (생일이 양력이라고 가정하고) 봤을 때 최씨 운은 오행 중 ‘금(金)’이 강해져야 사는데 최서원이란 이름을 발음으로만 보면 금 기운이 충만하다”며 “그러나 때가 병신년(丙申年) 하반기로 금 기운이 센데도 기어이 ‘최순실 사태’가 터진 걸 보면 오랜 시간 불렸던 최순실이란 이름의 나쁜 기운이 아직까지 미치는 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;☞ &lt;a href="http://news.chosun.com/inside/why/old_index/201611/05/index.html"&gt;&lt;b&gt;‘Why?’ 조선일보 土日 섹션 보기&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LNIHY7BRRPWJH22MQWSWWR6GMA.jpg?auth=c315bb5fbfaa4a4020a27dc818764e6975106964409fbf120cf2e0b08de98a6c&amp;smart=true&amp;width=700&amp;height=413" type="image/jpeg" height="413" width="700"/>
-    </item>
-    <item>
-      <title>병역기피 위장 이민/1년형 첫 선고                   </title>
-      <link>https://www.chosun.com/site/data/html_dir/1994/05/28/1994052872703.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1994/05/28/1994052872703.html</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description>서울형사지법 1단독 변진장 판사는 27일 병역 기피를 목적으로 서류상 해외이민을 한 것 처럼 위장한 방의종 피고인 (27.D상운 대표)에게 징역1년을 선고했다. 병역법 위반 피고인에게 실형을 선고한 것은 이례적인 것으로 방피고인의 경우 대법원에서 유죄가 확정될 경우 관련 법규에 따라 형을 마치고 군에 입대해야 한다.  재판부는 또 김상진 피고인(23.상업)</description>
-      <pubDate>Fri, 27 May 1994 15:00:00 +0000</pubDate>
-      <content:encoded>서울형사지법 1단독 변진장 판사는 27일 병역 기피를 목적으로 서류상 해외이민을 한 것 처럼 위장한 방모 피고인 (27)에게 징역1년을 선고했다. 병역법 위반 피고인에게 실형을 선고한 것은 이례적인 것으로 방피고인의 경우 대법원에서 유죄가 확정될 경우 관련 법규에 따라 형을 마치고 군에 입대해야 한다. 재판부는 또 김모 피고인(23)과 박모 피고인(30)에게는 “초범이고 반성의 빛이 보인다”며 징역1년에 집행유예 2년을 선고했다. 박종인기자 &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>투자이민 위장 병역기피/부유층자제 6명 적발              </title>
-      <link>https://www.chosun.com/site/data/html_dir/1994/03/11/1994031173103.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1994/03/11/1994031173103.html</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description>서울지검 특수3부(이정수 부장검사)는 10일 남미국가와 캐나다 등 투자이민이 쉬운 국가로 이민가는 것처럼 꾸며 병역을 기피한 부유층 자제 6명을 적발, 이들 가운데 방의종(26.서울 서초구 잠원동 신반포10차아파트) 박재필(29.서울 관악구 봉천1동 현대아파트) 김상진씨(23.서울 서초구 서초2동) 등 3명을 구속했다. 공소시효(3년)가 지난 이석종씨(29</description>
-      <pubDate>Thu, 10 Mar 1994 15:00:00 +0000</pubDate>
-      <content:encoded>서울지검 특수3부(이정수 부장검사)는 10일 남미국가와 캐나다 등 투자이민이 쉬운 국가로 이민가는 것처럼 꾸며 병역을 기피한 부유층 자제 6명을 적발, 이들 가운데 방모(26)씨, 박모(29)씨, 김모(23.서울 서초구 서초2동)씨 등 3명을 구속했다. 공소시효(3년)가 지난 이모씨(29) 등 3명은 병무청에 통보했다. 모택시회사 사장의 아들인 방씨는 작년 7월 전가족이 캐나다로 이민가는 것처럼 수속을 밟아 입영연기처분을 받은 혐의를 받고 있다. 봉제공장 사장 아들인 김씨는 형제가 함께 볼리비아 이민을 위장해 병역을 기피한 것으로 드러나, 해외체류중인 형 김모(25)씨도 귀국즉시 입영조치토록 했다고 검찰은 밝혔다. 검찰은 이같은 이민을 가장한 병역기피가 성행하고 있는 것으로 보고, 관계기관으로부터 1천5백여명의 명단을 넘겨받아 수사를 확대하고 있다. 정권현기자 &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 홈플러스 회생계획안 가결기간 2개월 연장</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/03/HPLGKVD6F5E5JB2UR2DUA6SVZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/HPLGKVD6F5E5JB2UR2DUA6SVZ4/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 04:53:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3TMMBRMMZTSNZVGUZTAMJWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내에 있는 홈플러스의 모습. ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 MBK파트너스가 기업회생절차를 밟고 있는 홈플러스에 대해 회생계획안 가결기간을 연장했다.&lt;br&gt;&lt;br&gt;서울회생법원 회생4부(재판장 정준영 법원장)는 3일 홈플러스 회생계획안 가결기간을 기존 오는 4일에서 5월 4일까지로 2개월 연장 결정했다고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “MBK파트너스가 우선 투입할 1000억원으로 연체 중인 직원 급여 등 시급한 채무를 해결할 수 있을 것으로 기대된다”며 “향후 회생계획안이 인가되지 않고 폐지될 경우 MBK파트너스가 1000억원에 대한 상환청구권을 포기한다고 해 가결기한을 연장하더라도 회생채권자 등 다른 이해관계인에게 크게 불리하지 않다”고 했다. 그러면서 “홈플러스 익스프레스 부문 매각 진행 상황을 확인할 필요가 있다”고 설명했다.&lt;br&gt;&lt;br&gt;당초 회생계획안의 가결기한은 홈플러스의 회생절차 개시가 결정된 작년 3월 4일로부터 1년 후인 오늘 4일까지였다. 하지만 홈플러스 측은 전날 법원에 회생계획안 가결 기간 연장 신청서를 제출했고, 법원은 이를 받아들였다. MBK파트너스는 “오는 4일까지 500억원, 11일까지 500억원으로 총 1000억원의 DIP(긴급 운영 자금) 금융을 우선 투입할 것”이라고 밝힌 바 있다. DIP 금융은 회생절차에 들어간 기업이 기존 경영권을 유지하면서 자금을 조달하는 것을 뜻한다. &lt;br&gt;&lt;br&gt;앞서 홈플러스는 회생절차 개시 이후 회생계획안 제출기한을 5차례 연장한 끝에 작년 12월 29일 회생계획안을 제출했다. 회생계획안에는 ‘슈퍼마켓 사업부문(홈플러스 익스프레스) 매각’ ‘41개 부실 점포 정리’ 등 내용이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>졸음운전 차량에 의식 잃은 16세 외동딸...장기기증으로 6명에 새 삶</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/03/DNYEWRZXCBHTXAIM23L4KSYSWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/03/DNYEWRZXCBHTXAIM23L4KSYSWE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 02:40:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTIYJSMVRTMMTEHEZTCMZVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기증자 박채연 양. /한국장기조직기증원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸음운전 차량과 교통사고로 뇌사 판정을 받은 10대 소녀가 장기를 기증하고 세상을 떠났다. &lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난해 12월 16일 아주대학교병원에서 박채연(16)양이 심장과 폐, 간, 신장, 양쪽 안구를 기증했다고 3일 밝혔다. &lt;br&gt;&lt;br&gt;박양은 작년 12월 14일 친척 결혼식에 참석하기 위해 가족과 함께 이동하던 중 졸음운전 차량과 사고를 당해 병원으로 이송됐으나 뇌사 판정을 받았다.&lt;br&gt;&lt;br&gt;가족들은 “다른 사람에게서 박양의 일부분만이라도 살아 숨 쉬었으면 하는 바람”으로 기증을 결심했다고 전해졌다.&lt;br&gt;&lt;br&gt;경기 안산시에서 외동딸로 태어난 박양은 어릴 적부터 밝고 활동적인 성격이었다고 유족은 전했다. 고등학교 재학 시절에는 매년 반장과 회장에 선출될 만큼 성실했고, 학업에도 열정을 보였다. 작은 도움이라도 필요한 친구에게 먼저 다가가는 따뜻한 성품으로 사회복지사를 꿈꿨다고 한다.&lt;br&gt;&lt;br&gt;박양의 아버지 박완재씨는 “사랑하는 채연아, 아빠와 엄마는 채연이와 보낸 시간이 너무나도 행복했어. 지금도 네가 옆에 없다는 것이 믿어지지 않아. 하늘에서 엄마, 아빠의 목소리가 들릴까? 매일 너를 그리워하고 있어. 새로운 생명을 선물받은 분들도 건강했으면 해. 최고로 착한 딸이자 사랑스러운 딸 채연아. 다음 생에 또 아빠 딸로 와줬으면 해”라며 눈물의 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3년 전 ‘尹 훈장’ 거부했던 교장… ‘李 훈장’ 받고 “만감 교차”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/03/573OXSY3SNHMFO5WPZZ6PEE4SY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/03/573OXSY3SNHMFO5WPZZ6PEE4SY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 02:58:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFGAYEXGE5D57I4RNV74SYZ6ZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/길준용 전 서산 부석중학교 교장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3년 전 윤석열 전 대통령의 녹조근정훈장 수령을 거부했던 전직 교장이 이재명 정부가 다시 수여한 훈장은 받았다. 녹조근정훈장은 국가 사회 발전에 공적을 세운 공무원과 교원 등에게 수여된다.&lt;br&gt;&lt;br&gt;길준용 전 서산 부석중학교 교장은 지난달 28일 자신의 페이스북에 “3년 전 정년 퇴직할 때 거부했던 근정훈장을 충남교육청에서 받았다”며 훈장증 사진을 공개했다. &lt;br&gt;&lt;br&gt;길 전 교장이 공개한 훈장증 사진엔 이 대통령 서명과 함께 김민석 국무총리, 윤호중 행정안전부 장관의 이름이 담겨 있다. 수여 일자는 길 전 교장이 페이스북에 글을 올린 날과 같은 28일로 나와 있다.&lt;br&gt;&lt;br&gt;길 전 교장은 “윤석열 대신 이재명 대통령 이름이 새겨진 훈장증을 받아 드니 만감이 교차한다”며 “훈장 거부를 잊지 않고 기억했다가 집권 후 재수여를 추진해 주신 이 대통령께 감사드리며 이재명 정부의 성공을 응원한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 길 전 교장은 2023년 2월 퇴직을 앞두고 윤 전 대통령 이름이 박힌 녹조근정훈장 수령을 거부했다. 당시 그는 수령 거부 이유에 대해 “사사건건 적반하장의 모습을 보이는 대통령의 이름이 적힌 훈장증을 받는 상황이 부끄럽다”며 “훈장증에 적힐 세 분 모두 하나같이 마음에 내키지 않았다”고 오마이뉴스에 말했다. 훈장증에는 한덕수 전 국무총리, 이상민 전 행정안전부 장관의 이름이 윤 전 대통령 서명과 함께 기재돼 있었다.&lt;br&gt;&lt;br&gt;당시 길 전 교장 이외에도 일부 교사가 윤 전 대통령 훈장을 거부한 것으로 알려졌다. 인천시교육청에서만 정년 퇴임을 앞둔 교사 2명이 훈장을 거부한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이후 이 대통령은 당선 직후인 작년 7월 윤석열 정부 시절 훈장을 거부했던 이들을 전수 조사해 훈장을 다시 수여할 수 있는지 검토하라고 행정안전부에 지시한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>노태악 대법관 퇴임 “정치의 사법화, 사법 불신으로 이어질 것”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/03/BIPOVVAFEFDMJIPVEG7IVNNQ6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/BIPOVVAFEFDMJIPVEG7IVNNQ6Y/</guid>
@@ -942,24 +965,6 @@
       <description/>
       <pubDate>Tue, 03 Mar 2026 00:24:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI7Y2GTDIRMY7OMVA6JZN3TLGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 3일 서울 서초구 대법원으로 출근하며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장은 ‘사법 3법(재판소원 도입·법 왜곡죄 신설·대법관 증원법)‘이 국회를 통과한 것에 대해 3일 “국회 입법활동을 전적으로 존중한다”면서도“갑작스러운 변혁이 국민에게 도움이 되는지 마지막까지 심사숙고해달라”고 밝혔다. 이날 퇴임하는 노태악 대법관의 후임 제청이 지연되는 것과 관련해선 “(대통령실과) 계속 협의하고 있다”고 했다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 대법원 출근길에 기자들과 만나 “세상에 완벽한 제도는 없고, 개선해 나가야 할 점은 동의를 얻어야 한다”며 “그런 점에서 국회의 입법 활동을 전적으로 존중한다”고 말했다. 이어 “다만 이번 갑작스러운 개혁과 변혁이 과연 국민들에게 도움이 되는지, 혹시 해가 되는 내용은 없는지 마지막까지 한 번 더 심사숙고해주시길 국민들께 간곡히 부탁드린다”고 했다. 조 대법원장은 “사법부는 어떤 경우에도 헌법이 부과한 책무를 다하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;조 대법원장은 ‘사법 불신’이 사법 제도 개편 논의를 초래했다는 일부 지적에 대해서는 반박했다. 그는 “국민 신뢰를 더 얻기 위해 노력해야 하는 것은 맞는다”면서도 “객관적 지표를 함께 봐야 한다”고 말했다. 조 대법원장은 “최근 갤럽 조사에서 법원에 대한 신뢰도가 미국은 35% 수준인 반면 우리나라는 47%로 나타났다”며 “높다고 자부할 수는 없지만 단순히 신뢰가 낮다고 단정하기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;조 대법원장은 세계은행 등 평가에서 우리 민사재판 제도가 지속적으로 상위권을 차지해 왔고, 세계 140여개국을 대상으로 한 월드저스티스프로젝트(WJP)의 법치주의 지수에서도 한국이 19위를 기록했다는 여러 평가·조사 결과를 언급하기도 했다. 조 대법원장은 “독일은 법관이 2만명이 넘지만 우리는 3000명 남짓한 인력으로 이 같은 평가를 받고 있다”며 “제도를 평가할 때는 객관적 성과를 인정한 뒤 부족한 점을 보완해야 한다”고 말했다. 이어 “우리 제도를 근거 없이 폄훼하거나, 개별 재판을 두고 법관을 악마화하는 방식은 바람직하지 않다”며 “국민들께서도 신중히 판단해 주시길 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;조 대법원장은 향후 대응 계획에 대해 “지금까지 해왔듯 대법원이 할 수 있는 내용을 국민들께 전달하면서 마지막 순간까지 최선을 다하겠다”고 밝혔다. 대통령에게 법률안 거부권 행사를 요청할 것이냐는 질문에는 즉답을 피하면서 “법관들이 각자 자리에서 열심히 하고 있고 부족한 부분은 계속 개선·시정해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 조 대법원장은 ‘대법관 제청에 관해 청와대와 불협화음이 있는 것 아니냐’는 질문에 “(청와대와) 협의 중이기 때문에 대법원이 일방적으로 말씀드리기는 어렵다”며 “계속 협의 중”이라고 답했다. 노태악 대법관이 이날 6년의 임기를 마치고 퇴임하지만 후임 제청이 이뤄지지 않으면서 대법관 공석 사태가 현실화됐다. 통상 대법원장의 제청부터 국회 인사청문 절차까지 소요되는 시간을 감안하면 최소 한 달 이상 공석 사태가 이어질 것으로 보인다. 법조계에서는 대법원과 청와대가 대법관 후보를 누구로 할지 물밑 조율을 못하고 있는 것 아니냐는 추측이 나오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 광화문 공연 ‘집단 노숙’ 비상</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/02/HNGM6JTW4BGPLAZ4HLQIIGCF5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/02/HNGM6JTW4BGPLAZ4HLQIIGCF5E/</guid>
-      <dc:creator>최하연 기자, 구아모 기자, 김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLWVQU7MYRF35GTVAA7EOMLIOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 9월 방탄소년단(BTS)의 미국 투어 공연 당시 LA 스테이플 센터 앞에서 팬들이 노숙하는 모습. 당시 BTS 팬들은 앞자리에서 공연을 보기 위해 인도에서 노숙했다. 경찰과 서울시는 BTS의 컴백 공연(21일)이 열리는 서울 광화문광장에서도 비슷한 상황이 벌어질 것이라 보고 긴장하고 있다./소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 21일 서울 광화문광장에서 열리는 방탄소년단(BTS)의 컴백 공연을 앞두고 경찰과 서울시에 비상이 걸렸다. 공연 티켓을 구하지 못한 팬들이 공연이 잘 보이는 광장, 인도 등 ‘명당 자리’를 선점하려고 공연 전날 밤부터 ‘집단 노숙’을 할 수 있기 때문이다. 실제로 온라인 팬 카페 등에는 ‘같이 노숙할 사람을 구한다’ ‘공연이 잘 보이는 명당 자리를 알려달라’ 같은 글이 올라오고 있다. &lt;br&gt;&lt;br&gt;BTS는 21일 오후 8시 광화문광장 북측에 무대를 설치하고 1시간 동안 무료 공연을 한다. 관람석은 1만5000석 규모로 예매 시작 30분 만에 티켓이 동났다. 티켓을 구하지 못한 팬들은 관람석 주변에서 공연을 관람해야 할 상황이다. &lt;br&gt;&lt;br&gt;경찰은 21일 광화문광장 일대에 약 23만명이 몰릴 것으로 예상한다. 서울 도심이 사실상 초대형 야외 공연장으로 바뀌는 셈이다.&lt;br&gt;&lt;br&gt;그동안 BTS 공연이 열릴 때마다 구름 팬이 몰렸다. BTS를 조금이라도 더 가까이서 보기 위해 노숙하는 경우도 잦았다. 2019년 5월 미국 뉴욕 센트럴파크 공연을 앞두고 팬들이 일주일 전부터 텐트를 치고 노숙을 하기도 했다.&lt;br&gt;&lt;br&gt;경찰과 서울시는 인파 안전 관리를 두고 고민에 빠졌다. 노숙하는 팬을 막을 방법이 마땅치 않기 때문이다. 공연 소식이 전해지자 광화문 인근 호텔은 이미 예약이 끝났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “차도를 점거하지 않는 한 도로교통법이나 일반교통방해죄를 적용하기 어렵고, 공연을 기다리는 사람을 불법 집회 참가자로 간주해 해산시키는 것도 불가능하다”며 “법적인 근거가 없어 고민”이라고 했다. 경찰은 공연 전날부터 광화문광장 일대에 경찰관을 집중 배치해 순찰을 강화한다. 경찰 관계자는 “통행을 방해하거나 위험해 보이는 경우 이동해달라고 안내할 예정”이라고 했다. 광화문광장을 관리하는 서울시는 공연 전날부터 공무원을 투입해 행정지도를 한다는 계획이다. 서울시 관계자는 “여러 번 이동해 달라고 요청했는데도 따르지 않으면 과태료를 부과할 수 있지만 23만명이 몰리는 상황에서 현실적으로 행정지도가 가능할지 모르겠다”고 했다. 서울시는 3일 ‘안전관리 협의회’를 열고 대응 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;서울경찰청은 공연장 일대를 4개 구역으로 나눠 관리한다는 계획이다. 고층 건물 옥상과 공연장 인근 환풍구 등 추락 사고 위험이 큰 곳도 미리 점검한다. 서울교통공사는 공연장 인근에 있는 광화문역·경복궁역·시청역 등 지하철역 3곳에 대해 ‘무정차 통과’를 검토하고 있다.&lt;br&gt;&lt;br&gt;국가유산청은 공연 당일 경복궁과 국립고궁박물관을 전면 폐쇄하기로 했다. 주차장도 이용할 수 없다. BTS 멤버들이 공연 당일 경복궁과 광화문, 월대를 거쳐 무대에 오르기 때문이다. 세종문화회관은 이날 예정된 뮤지컬과 발레, 연극 공연을 모두 취소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 장관 “중동 교민 안전 위해 모든 역량 집중”  </title>
-      <link>https://www.chosun.com/national/court_law/2026/03/01/LREMAU5WG5GAHFU3XJX3XQG5U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/01/LREMAU5WG5GAHFU3XJX3XQG5U4/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Mar 2026 11:51:35 +0000</pubDate>
-      <content:encoded>정성호 법무부 장관은 1일 미국과 이스라엘의 공습으로 아야톨라 세예드 알리 하메네이 이란 최고지도자가 사망해 중동 정세의 불확실성이 급격히 확대된 데 대해 “우리 교민의 안전을 지키는 데 모든 행정 역량을 집중하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G56ZX4FC2RONHEYNNGL2J5CRLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 페이스북을 통해 “최근 이란 사태로 우리 교민들의 안전에 대한 국민적 우려가 매우 큰 상황”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;이에 법무부 출입국본부는 중동 지역 교민들의 긴급 귀국 상황에 선제적으로 대비하기 위해 인천국제공항에 ‘전용 입국심사대’를 운영할 방침이다. 또 심사 인력을 탄력적으로 배치해 교민과 그들의 동반 외국인 가족들이 신속하게 입국할 수 있도록 지원할 계획이라고 정 장관은 설명했다.&lt;br&gt;&lt;br&gt;법무부는 현재 외교부 등 관계 부처와 긴밀한 협조 체제를 유지하며 현지 상황 변화를 실시간으로 주시하고 있다. 정 장관은 “중동 상황을 면밀히 살피며 우리 국민과 교민의 안전을 지키는 데 법무부의 모든 역량을 동원하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
