@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>상설특검 90일 활동 종료… 쿠팡은 5명 기소·관봉권은 ‘윗선 외압’ 의혹 규명 못 해</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/05/PANMEBZYD5HTBNQQYEASZOPAXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/PANMEBZYD5HTBNQQYEASZOPAXU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Mar 2026 05:05:40 +0000</pubDate>
+      <content:encoded>‘관봉권 띠지 분실’ 의혹과 ‘쿠팡 수사 외압’ 의혹을 수사해 온 안권섭 상설특검팀이 5일 최종 수사 결과를 발표했다. 지난해 12월 수사를 시작한 특검은 이날로 90일간의 수사를 마쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DSZRWGM2DAMJUHBRGEZBSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안권섭 상설특검팀. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 ‘쿠팡 수사 외압’ 의혹과 관련해 엄희준 전 인천지검 부천지청장과 김동희 전 부천지청 차장검사를 직권남용 등 혐의로 불구속 기소했다. 엄성환 전 쿠팡풀필먼트서비스(CFS) 대표 등 쿠팡 관계자들도 재판에 넘겨, 이 사건으로 총 5명을 기소했다. &lt;br&gt;&lt;br&gt;반면 ‘관봉권 띠지 분실’ 의혹에 관해 특검은 검찰이 띠지를 고의로 분실했다는 점을 입증할 증거를 찾지 못했다. 특검은 관련자들을 기소하지 않고 사건을 검찰에 넘기기로 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 쿠팡 사건, 부천지청 지휘부 재판행… “수사 압력 있었다” 결론&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 특검은 인천지검 부천지청 지휘부가 쿠팡CFS의 퇴직금 미지급 사건을 무혐의 처분하도록 외압을 행사했다는 의혹을 밝히기 위해 출범했다. 퇴직금 미지급 사건은 쿠팡CFS가 2023년 5월 일용직 근로자들에게 불리하게 취업 규칙을 변경해 퇴직금을 체불했다는 내용이다.&lt;br&gt;&lt;br&gt;이 사건을 수사한 인천지검 부천지청은 지난해 4월 쿠팡CFS에 혐의가 없다고 보고 불기소 처분했다. 이후 그해 10월 당시 사건을 담당했던 문지석 부장검사가 국정감사에서 “쿠팡 사건을 무혐의 하라는 지휘부의 압력이 있었다”고 폭로하면서 특검 수사로 이어졌다.&lt;br&gt;&lt;br&gt;특검은 쿠팡CFS가 취업규칙을 변경해 퇴직금을 지급하는 것이 범죄 혐의로 이어질 수 있다고 판단해 지난달 3일 엄성환 전 쿠팡CFS 대표와 정종철 CFS 대표, CFS 법인 등을 근로자퇴직급여보장법(퇴직급여법) 위반 혐의로 기소했다. 앞서 쿠팡CFS에 혐의가 없다고 본 부천지청의 판단을 뒤집은 것이다.&lt;br&gt;&lt;br&gt;또 엄 전 지청장과 김 전 차장검사를 직권남용 등 혐의로 지난달 27일 불구속 기소했다. 특검은 “쿠팡 퇴직금 미지급 사건의 주임검사인 신가현 검사가 사건을 대검찰청에 보고하는 과정에서, 문 부장검사를 배제하도록 두 사람이 지시한 사실이 밝혀졌다”고 했다. &lt;br&gt;&lt;br&gt;한편 특검은 엄 전 지청장과 김 전 차장검사가 쿠팡에서 사건을 무마해 달라는 청탁을 받았다는 증거는 확보하지 못했다. 특검은 압수수색을 통해 두 사람이 쿠팡 측 변호인들과 여러 번 연락을 주고받는 등 의심할 만한 자료를 다수 확보했다면서도, 쿠팡 측과 유착 관계였다는 객관적 증거를 확인하지 못했다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇관봉권 사건은 검찰 윗선 은폐 지시·외압 못 밝혀&lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 ‘관봉권 띠지 분실’ 의혹과 관련해서는 검찰 윗선이 띠지를 없애라고 외압을 행사했거나 은폐를 지시한 내용을 입증하지 못했다고 밝혔다. 특검은 추가 수사가 필요하다며 관할 지방검찰청으로 사건을 이첩하기로 했다.&lt;br&gt;&lt;br&gt;이 사건은 2024년 12월 서울남부지검이 ‘건진 법사’ 전성배씨 자택을 압수수색하는 과정에서 확보한 관봉권 5000만원을 보관하던 중, 지폐 검수 날짜와 처리 부서, 담당자 등이 적힌 띠지가 분실됐다는 의혹이다. 더불어민주당은 당시 검찰 지휘부가 전씨와 윤석열 정부의 관계가 드러나는 것을 막기 위해 띠지 폐기를 지시했을 가능성을 제기해 왔다.&lt;br&gt;&lt;br&gt;그러나 특검은 이를 입증할 만한 증거를 확보하지 못했다고 밝혔다. 특검은 당시 남부지검 지휘부였던 이희동 전 1차장검사, 박건욱 전 부장검사, 사건을 담당했던 최재현 검사 등에 대해 직무유기나 증거인멸 교사 혐의를 적용할 수 있는지 검토했지만, 결국 혐의를 입증하지 못했다.&lt;br&gt;&lt;br&gt;특검은 압수한 관봉권을 보관하는 과정에서 주임검사실 측이 목록을 부실하게 기재했고, 압수물 인수 과정에서의 확인 미흡 및 소통 착오 등 업무상 과오로 인해 띠지가 분실됐다고 판단했다. 특검 관계자는 “윗선의 폐기·은폐 지시 의혹 부분은 의심을 넘어 사실로 인정할 만한 객관적 정황은 확인되지 않았다”면서 “업무상 과오이지 형사 처벌 대상은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;다만 이러한 관리 부실로 인해 관봉권 포장에 남아있을 수 있었던 지문 등을 파악할 수 없어 자금의 출처를 추적할 수 없게 돼 수사가 어렵게 됐다고 지적했다. 또 검찰의 압수물 관리 부실과 보고 지연 등 검찰 내부의 기강 해이를 확인했다고 했다. 특검은 “형사 사법의 중추 중 하나인 검찰 업무에 대한 심각한 국민적 불신이 야기됐으므로 비위 행위자들에 대한 징계 사유를 통보할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“2년 계획이 2주 만에”... 직장인 글 하나로 보육원 도서관 짓게 된 사연</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/05/D7FVANWRVJEKNBVKGAMB3TZS2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/D7FVANWRVJEKNBVKGAMB3TZS2A/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Mar 2026 05:38:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZKPIAPS3JBOVONUD2RS7QZYFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;직장인들의 기부 인증 댓글. /블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“2년은 걸리겠다 생각한 목표액이 글 하나로 2주 만에 다 모였어요. 기적 같죠.”&lt;br&gt;&lt;br&gt;지난 1월 말 SK하이닉스가 역대 최대 실적을 기록하며 직원 1인당 평균 1억원이 넘는 성과급을 지급하게 된 상황에서, 직장인 온라인 커뮤니티 ‘블라인드’에 올라온 한 직원의 기부 글이 온라인을 달궜다. “오늘 돈 좀 쓰고 왔다”고 운을 뗀 글엔 세종시 영명보육원에 먹을거리를 잔뜩 기부하고 왔다는 ‘돈 자랑’이 담겨 있었다.&lt;br&gt;&lt;br&gt;글이 화제를 모으자, 이 직원은 다시 글을 올려 30만원 기부 내역과 함께 커뮤니티를 이용하는 직장인들에게 기부를 독려했다. 그러자 하이닉스 직원의 기부 인증에 울림을 받은 다른 직장인들이 너도나도 기부를 하기 시작했고, 그 금액은 단 2주 만에 3000만원을 넘겼다. 당초 보육원은 아이들에게 도서관을 지어주기 위해 2년을 잡고 모금을 시작했는데, 직장인 커뮤니티 글 하나로 훨씬 이른 시점에 목표액에 도달한 것이다. 보육원 원장은 “기적 같다”며 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;5일 영명보육원에 따르면, 보육원은 오는 5월 도서관 개장을 목표로 다음 달부터 리모델링 공사에 들어갈 계획이다.&lt;br&gt;&lt;br&gt;당초 내후년 목표로 예정됐던 공사가 앞당겨질 수 있었던 건 도서관 리모델링을 위한 기부금 모금이 빨리 이뤄졌기 때문이다. 그 배경에는 SK하이닉스 직원이 블라인드에 올린 글의 영향이 컸다. 이 직원이 직장인들에게 기부를 독려하는 글을 올린 이후 단 2주 만에 3000만원 이상의 기부금이 모였다. 그렇게 목표액 4000만원을 달성해 올해 리모델링 공사를 진행할 수 있게 됐다.&lt;br&gt;&lt;br&gt;목표액의 마지막을 장식한 건 한성숙 중소벤처기업부 장관이다. 지난 9일 설 명절을 앞두고 영명보육원에 방문했다가, 4000만원까지 단 300만원이 남았다는 이야기를 듣고 즉시 나머지 금액을 쾌척한 것이다. 한 장관은 작년 추석부터 영명보육원을 후원해 온 바 있다.&lt;br&gt;&lt;br&gt;영명보육원이 도서관 리모델링을 계획한 건 아이들이 책을 읽고 공부할 공간이 마땅치 않았기 때문이다. 아이들이 학업보다는 휴대전화를 보고 있을 수밖에 없는 환경에 놓인 걸 보고, 도서관을 만들어 줘야겠다고 결심했다고 한다.&lt;br&gt;&lt;br&gt;보육원 측은 이 일이 “기적 같다”고 한다. 이관희 영명보육원 원장은 조선닷컴 통화에서 “원래 기부금이 모이던 속도대로라면 2년은 족히 걸릴 것으로 예상하고 있었는데, 2주 만에 모금액이 다 모여서 너무 놀라고 기뻤다”며 “글 하나가 이렇게 큰 효과를 불러올 수 있다는 걸 알게 됐다”고 했다. 그러면서 “현재 도서관을 어떤 형태로 만들지 아이들 의견을 들어 보고 있는 중”이라며 “아이들도 너무 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;이 원장은 보육원 홈페이지 공지를 통해 기부자들에게 감사 인사를 전한 상태다. 이 원장은 “작은 불씨가 큰 기적을 만들었다”며 “이렇게 빨리 달성된 상황이 아이들을 포함한 원내 선생님들도 놀랍고, 이것은 기적에 가깝다고 입을 모아 고마워하고 있다”고 했다. 그러면서 “봄이 되면 공사를 시작해 5월 5일 어린이날에는 예쁘고 소박한 도서관을 아이들에게 선물할 생각을 하니 벌써부터 마음이 설렌다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “아름다운 기적을 만들어 주신 SK하이닉스 직원분을 비롯한 많은 후원자분, 특히 마지막 마무리를 멋지게 장식해 주신 중소벤처기업부 한성숙 장관님, 고맙고 감사하다”며 “후원자분들의 소중한 마음을 아이들과 함께 오래도록 간직하고 아이들이 더 밝고 명랑하게 자랄 수 있도록 정성껏 보살피겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘하반신 시체 187건’ 허위영상·‘해외주식 양도세 상향’ 가짜 담화문…경찰, 30대 2명 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/05/LMX4HYKQQVBYTBVKGVLXPD4WKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/LMX4HYKQQVBYTBVKGVLXPD4WKY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Mar 2026 04:52:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43DOY3FMI4WIMTBGRSGCMDGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령 명의의 가짜 대국민 담화문을 만들어 유포하거나, 한국에서 훼손된 시신이 대량 발견됐다는 허위 정보를 퍼뜨린 유튜버들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사과는 전기통신기본법 위반 등의 혐의로 30대 남성 2명을 각각 불구속 송치했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 30대 회사원인 A씨는 지난해 11월 13일과 14일, 26일 등 세 차례에 걸쳐 소셜미디어 X에 이재명 대통령 명의의 ‘대국민 담화문’이라는 글을 올린 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 글에는 ‘해외주식 양도소득세율을 22%에서 40%로 상향 조정한다’ ‘연 1%의 해외주식 보유세를 신설하고 2026년 1월 1일부터 시행한다’는 내용이 담겼다. 실제로는 존재하지 않는 정책을 대통령 명의로 꾸며​ 게시한 것이다.&lt;br&gt;&lt;br&gt;가짜 담화문이 온라인에서 논란이 되자 경찰은 입건 전 조사에 착수했고, A씨는 지난해 12월 1일 자수한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 또 유튜브 채널을 통해 한국에서 훼손된 시신이 대량 발견됐다는 허위 정보를 퍼뜨린 유튜버 30대 B씨도 전기통신기본법 위반 혐의로 불구속 송치했다.&lt;br&gt;&lt;br&gt;구독자 약 96만명의 유튜브 채널 ‘대보짱’을 운영하는 B씨는 지난해 10월 22일 “한국에서 하반신만 있는 시체가 37건 발견됐고, 비공개 수사도 150건이 있어 총 187건”이라거나 “대한민국 실종자가 8만 명”이라는 내용의 허위 영상을 게시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 해당 영상을 통해 벌어들인 2421달러(약 350만원)의 범죄 수익에 대해 지난 2월 13일 기소 전 추징보전을 신청했다.&lt;br&gt;&lt;br&gt;이번 사건은 서울경찰청이 올해 1월 2일부터 10월 31일까지 진행 중인 ‘허위조작정보 범죄 집중단속’ 과정에서 적발된 사례다.&lt;br&gt;&lt;br&gt;경찰은 “악의적이거나 명백한 허위·조작 정보 유포 행위에 대해서는 단호하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학교 방송장비 중고 거래한 현직 교사 적발… 추가 피해도 드러나 </title>
+      <link>https://www.chosun.com/national/2026/03/05/WBZ5N6AX6FGPJIZYKLP2B34PZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/05/WBZ5N6AX6FGPJIZYKLP2B34PZM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Mar 2026 05:14:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4WGZBTGE2TEYZZGZSWGMLEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남교육청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 고등학교 교사가 학교 방송 장비를 중고 거래 사이트에 판매하다 적발됐다. &lt;br&gt;&lt;br&gt;경남도교육청은 진주의 한 고등학교 교사 40대 A씨의 비위 행위를 확인하고, 조사를 진행했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;교육청 등에 따르면, A씨는 지난해 11월 중고 거래 사이트에 고가의 카메라와 렌즈 세트를 판매한다는 글을 올리고 같은 해 12월 해당 물품을 판매한 것으로 확인됐다. 당시 A씨가 올린 판매 게시물에는 자신의 전화번호와 함께 ‘급처(급하게 처분한다는 의미)라 다른 중고보다 더 싸게 팔 테니 가격 조율이 가능하다’는 내용을 남겼다. 당시 A씨는 중고 시세 대비 90만~100만원가량 저렴하게 물건을 팔았다고 한다.&lt;br&gt;&lt;br&gt;A씨가 판 카메라 등은 학교 방송반 장비였다. A씨는 당시 방송반을 담당하고 있었다.&lt;br&gt;&lt;br&gt;도교육청은 작년 12월 중순 국민권익위원회로부터 A씨의 비위 행위를 통보받아 지난 1월 조사에 착수했다. 비슷한 시기 중고 물품 거래 사이트에서 A씨가 올린 글을 학생들도 발견한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;교육청과 학교 측은 학교 내부에 설치된 감시 카메라(CCTV)를 통해 A씨가 물품을 반출하는 장면을 확인했다. &lt;br&gt;&lt;br&gt;조사 결과, A씨는 이번 중고 거래 외에도 캠코더 2대 등 학교 방송 장비 4~5종을 추가로 빼돌린 사실이 확인됐다. 피해 금액은 1000만원 미만인 것으로 추정하고 있다. &lt;br&gt;&lt;br&gt;A씨는 교육청 조사에서 학교 물품을 무단으로 처분한 내용을 인정한 것으로 전해졌다. A씨는 지난해 12월부터 병가를 내고 학교에 출근하지 않고 있다. &lt;br&gt;&lt;br&gt;주요 장비가 사라지면서 이 학교 방송반 학생들은 지난달 졸업식 영상을 캠코더가 아닌 휴대전화로 촬영하는 등 불편을 겪어야 했다.&lt;br&gt;&lt;br&gt;도교육청은 이달 중 감사처분심의회를 열어 업무상 횡령 혐의로 A씨를 경찰 고발하는 것 등을 논의할 예정이다. 또 징계위원회를 열어 A씨에 대한 징계 수위도 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘1심 징역 23년’ 한덕수 항소심 11일 시작… 재판부 “尹 증인 채택 안 해”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/05/LRZD2GLO4ZEEPEK32FDCAC7FKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/LRZD2GLO4ZEEPEK32FDCAC7FKY/</guid>
@@ -768,15 +804,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WIZRUG43GGZTDHBRTINRZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 서울 여의도 국회에서 열린 제432회 국회(임시회) 제8차 본회의에서 대법관 증원을 골자로 하는 법원조직법 일부개정법률안(대안)에 대한 무제한토론 종결 투표가 진행됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 국회 본회의에서 강행 처리한 ‘사법 3법’과 관련해 전직 대한변호사협회(변협) 회장과 한국여성변호사회(여변) 회장 등 법조계 원로 14명이 4일 “대한민국 헌정 질서의 근간을 흔드는 중대한 권력 구조 변경 시도”라며 대통령의 거부권(재의 요구권) 행사를 촉구했다.&lt;br&gt;&lt;br&gt;전직 변협회장 8명과 박보영(전 대법관) 등 전직 여변 회장 6명은 이날 공동 성명서를 내고 “법치주의를 무너뜨리는 ‘사법 파괴 3법’에 대해 대통령이 거부권을 행사할 것을 요구한다”고 밝혔다. 사법 3법(재판소원 도입·법 왜곡죄 신설·대법관 증원법)은 지난달 국회 본회의를 통과하면서 최종 공포만 남겨두고 있다.&lt;br&gt;&lt;br&gt;이들은 법원 재판에 대한 헌법소원을 인정하는 재판소원(헌법재판소법 개정안)에 대해 “권력자에게 대법원 확정 판결을 마음대로 뒤집을 절호의 기회이나, 일반 대다수 국민은 강자의 시간 끌기 희생양이 될 것”이라고 했다. 이들은 “헌재 재판관도 임명할 수 있는 권력자에게 사실상의 ‘4심제’는 입맛대로 대법원 확정 판결을 바꿀 수 있는 절호의 기회가 될 것”이라며 “그러나 일반 대다수 국민에게 재판소원 제도는 실질적 권리 구제를 제공하는 제도가 아니라, 기대만 부풀리는 고비용 저효율 제도에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;판검사가 법을 왜곡해 적용할 경우 10년 이하 징역형 등에 처하는 내용의 법 왜곡죄(형법 개정안)를 두고는 “무엇이 ‘왜곡’인지 기준조차 불분명한 상태에서 형사처벌을 가하겠다는 것은 죄형법정주의를 정면으로 위반하는 위험한 입법”이라고 지적했다. 이어 “이는 정치적 기소와 보복성 고발의 빌미가 돼 판사와 검사의 독립적 판단을 위축시키는 강력한 압박 수단으로 악용될 것”이라며 “수사와 재판 기능이 위축되면 결국 피해는 힘없는 일반 국민이 고스란히 받게 된다”고 했다.&lt;br&gt;&lt;br&gt;기존 대법관 14명을 26명으로 늘리는 대법관 증원법(법원조직법 개정안)에 대해서는 “사법부 장악 의도로밖에 볼 수 없다”고 했다. 이어 “조 대법원장과 2030년 3월까지 임기가 종료되는 9명의 대법관 후임까지 대통령이 임명하는 점을 고려하면, 모두 22명의 대법관을 이재명 대통령이 뽑는 셈”이라며 “이해 당사자인 대통령이 대법원 구성에 광범위한 인사권을 행사한다면 사법부 독립이 심각하게 훼손될 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;이들은 “이러한 입법은 결코 개혁이 아닌 대한민국의 사법 구조와 삼권분립 질서를 근본적으로 흔드는 개악”이라며 “헌법 수호의 책무를 지는 국가 원수인 대통령이 즉각 거부권을 행사해 헌정 질서와 사법 독립을 수호해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“사랑해서 그랬다”… BTS 정국 집 찾아간 외국인 女 구속기소</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/04/AFNJ3FGADBBAZOTJ5CHF7DBSMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/04/AFNJ3FGADBBAZOTJ5CHF7DBSMY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 00:00:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEMVMOJ3QNH4RB6Q6J2BKOCDOE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS) 멤버 정국. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버 정국(29·본명 전정국)의 주거지를 반복해 찾아간 브라질 국적 여성이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울서부지검 여성아동범죄조사부는 지난달 27일 스토킹처벌법 위반 혐의 등으로 브라질 국적의 30대 여성 A씨를 구속 기소했다고 3일 밝혔다. A씨는 작년 12월부터 올해 1월까지 용산구 소재 정국의 자택을 20여 차례 찾아가 초인종을 수백 회 누르거나 우편물을 둔 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 A씨는 작년 12월 13일 정국 집을 무단 침입한 혐의로 현행범 체포됐다가 석방된 바 있으나 이후로도 범행을 이어갔다. 지난 1월엔 또다시 정국 집을 찾아가 그 주변으로 우편물을 던지고 난간에 사진을 내거는 등 행패를 부린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이때 A씨는 경찰로부터 ‘긴급응급조치’를 받은 상태였으나 재차 접근을 시도했다. 긴급응급조치는 지속적이고 반복적으로 스토킹 행위가 발생할 우려가 있을 때, 사법경찰관이 신고받아 100m 이내 접근·연락 금지 등을 조치하는 것이다.&lt;br&gt;&lt;br&gt;A씨는 검찰 조사에서 사실관계를 대체로 인정하면서도 “정국을 사랑하는 마음으로 한 행동일 뿐”이라는 취지로 진술하며 혐의를 부인했다고 한다.&lt;br&gt;&lt;br&gt;정국은 이전에도 여러 차례 자택 침입 사건을 겪은 바 있다. 작년 9월엔 라이브 방송을 켜고 “찾아오면 내가 가둬버릴 거다. 다 기록되니까 증거 확보돼서 그냥 끌려가는 것”이라며 “경찰서로 가고 싶지 않으면 절대 오지 마시라”고 경고하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>지방 소도시일수록 담배 더 피우고 폭음한다</title>
       <link>https://www.chosun.com/national/national_general/2026/03/04/QSZONVWW6VFH5BYUQ7A745RFUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/04/QSZONVWW6VFH5BYUQ7A745RFUM/</guid>
@@ -937,33 +964,6 @@
       <description/>
       <pubDate>Tue, 03 Mar 2026 15:09:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQJPJ2BLYVPHRN6EBPA4LLHFQQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'공천 헌금 1억원'을 주고받은 혐의를 받는 강선우(왼쪽) 의원과 김경 전 서울시의원이 3일 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문에 출석했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강선우(무소속·서울 강서갑) 의원이 2022년 6월 지방선거를 앞두고 공천 헌금 1억원을 받은 혐의로 3일 밤 구속됐다. 강 의원에게 시의원 공천을 달라며 1억원을 건넨 혐의를 받는 김경 전 서울시의원도 같은 날 구속됐다. 두 사람의 신병을 확보한 경찰은 김씨가 강 의원에게 ‘쪼개기 후원’을 했다는 의혹, 김씨의 ‘강서구청장 공천 로비’ 의혹 등에 대한 수사도 본격화할 방침이다.&lt;br&gt;&lt;br&gt;서울중앙지법 이종록 영장전담 부장판사는 이날 강선우 의원과 김경씨에 대한 영장실질심사를 진행한 뒤 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다. 경찰이 지난달 5일 두 사람에게 정치자금법 위반, 청탁금지법 위반, 배임수재(강 의원)·증재(김씨) 혐의를 적용해 구속영장을 신청한 지 약 한 달 만이다.&lt;br&gt;&lt;br&gt;강 의원은 지난 2022년 1월 서울 용산구 하얏트호텔에서 김씨에게 1억원이 든 쇼핑백을 받고, 그 대가로 김씨가 더불어민주당 서울시의원 후보로 공천받을 수 있게 영향력을 행사한 혐의를 받는다. 강 의원 측은 영장 심사에서 “김씨가 준 쇼핑백에 1억원이 들어있는지 몰랐고, 이를 뒤늦게 알고 같은 해 8월 돌려줬다”며 혐의를 부인했다. 그러나 이 부장판사는 강 의원이 범행을 감추기 위해 다른 피의자를 압박하거나 증거를 인멸할 가능성이 크다는 경찰 주장을 받아들였다.&lt;br&gt;&lt;br&gt;김씨는 경찰 조사에서 강 의원에게 1억원을 줬다고 인정하는 등 일부 범행 사실을 자백했지만 구속을 피하지 못했다. 김씨가 작년 12월 31일 경찰의 공천 헌금 의혹 수사가 시작되자 곧바로 미국으로 출국하고, 미국 체류 중 텔레그램 가입과 탈퇴를 반복하며 증거를 인멸한 정황이 드러난 걸 감안해 법원에서 영장을 발부한 것으로 보인다. &lt;br&gt;&lt;br&gt;경찰은 강 의원과 김씨 간에 공천 헌금이 오간 사실을 강 의원에게 듣고도 묵인한 의혹 등 13개 혐의를 받는 김병기(무소속·서울 동작갑) 의원에 대해서도 보강 수사를 거쳐 조만간 구속영장을 신청할지 결정할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천서 18개월 여아 지게차에 치여 중상</title>
-      <link>https://www.chosun.com/national/incident/2026/03/03/KIMQJ7F3PJBPZFUPSTEWJI2EUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/03/KIMQJ7F3PJBPZFUPSTEWJI2EUY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 14:37:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EME3MX6JBAI3GOUGFC3AKQ5UE.png"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 18개월 여아가 지게차에 치이는 사고가 발생했다. &lt;br&gt;&lt;br&gt;3일 오후 7시 21분쯤 인천시 서구 청라동에서 보호자와 함께 인도를 걷던 생후 18개월 된 A양이 지게차에 치였다.&lt;br&gt;&lt;br&gt;이 사고로 A양이 중상을 입고 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 인도에 주차한 지게차의 제동장치가 풀리면서 사고가 난 것으로 보고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 3월 4일</title>
-      <link>https://www.chosun.com/national/education/2026/03/03/7ULY4WK6ZRDFLOFMWSFJTLN3CM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/03/7ULY4WK6ZRDFLOFMWSFJTLN3CM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 14:31:00 +0000</pubDate>
-      <content:encoded> 전국 대체로 맑음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK7VYQATXVBY5DNOWCO23RIB4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>합수본, 국민의힘 압수수색 재개... 당원 명부 등 확보</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/03/XBWWASX7JZGLRKQKUELGK5ARYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/03/XBWWASX7JZGLRKQKUELGK5ARYQ/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Mar 2026 11:53:29 +0000</pubDate>
-      <content:encoded>신천지의 ‘정교유착’ 의혹을 수사하는 검경 합동수사본부(본부장 김태훈 대전고검장)가 3일 국민의힘에 대한 압수수색을 재개한 끝에 당원 명부 등을 확보했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2DSYTFGY3DGZBUHEYDSMRSMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 중앙당사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 합수본은 이날 오후 2시부터 서울 여의도 국민의힘 중앙당사와 서울 소재 국민의힘 당원 명부 데이터 관리 업체에 대한 압수수색에 착수해 오후 7시 30분쯤 영장 집행을 마쳤다.&lt;br&gt;&lt;br&gt;합수본은 신천지 신도 명단과 국민의힘 당원 명부 데이터를 대조해 일치 여부를 확인한 뒤 관련 자료를 압수한 것으로 전해졌다. 이날 압수수색은 국민의힘 측 협조 하에 진행됐다고 한다.&lt;br&gt;&lt;br&gt;앞서 합수본은 지난달 27일 오전 9시부터 오후 8시까지 약 11시간 동안 국민의힘 중앙당사에 대한 압수수색을 시도했으나, 국민의힘 측 반발로 별다른 성과 없이 철수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
