@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>불법 전단지 살포 총책 첫 구속 “불법 전단지 살포, 더 이상 경미한 범죄 아냐”</title>
+      <link>https://www.chosun.com/national/incident/2026/03/06/DBCTTZF3GFCQRMDKBGP4ALBRTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/06/DBCTTZF3GFCQRMDKBGP4ALBRTE/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Mar 2026 22:57:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPPKONKZ5RE5LMVAAMH5LRQ4EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 전단지 살포 현장/서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남역 일대를 비롯해 부천·일산 일대에도 불법 전단지를 대거 뿌린 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청은 작년 7월부터 올해 2월까지 청소년보호법 위반 등 혐의로 전단지 살포자, 유흥업소 업주 등 8명을 검거하고 이 중 총책으로 지목된 A씨를 구속 송치했다고 6일 밝혔다. 전단지 살포 총책이 구속된 것은 이번이 처음이다. 경찰은 나머지 7명에 대해서는 불구속 송치할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBJFGTT54BHSZP3BHQKCGHJB3E.png"&gt;&lt;figcaption&gt;&lt;small&gt;불법 전단지 살포 현장/서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 2024년부터 지난해까지 강남역 일대에 ‘셔츠룸(유흥업소)’ 등 선정적인 문구가 적힌 불법 전단지를 뿌린 혐의를 받는다. 경찰은 불법 전단지를 제작한 인쇄소를 압수수색하는 과정에서 A씨가 강남 일대의 단속을 피해 경기 부천시와 고양시 일산에 살포할 전단지를 제작 의뢰한 정황을 포착해 추적한 끝에 체포했다. 그는 이미 불법 전단지를 뿌리다가 경찰에 두 차례 검거된 이력도 있는 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “전단지 살포 행위는 더 이상 경미한 범죄가 아니다”라며 “살포자뿐 아니라 전단지 제작 브로커와 인쇄업자, 의뢰자까지 일망타진할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 재판소원 앞둔 헌재, 대법원 거친 사건만 들여다본다</title>
       <link>https://www.chosun.com/national/court_law/2026/03/06/ENBZ4VQ66RD4NH2NOAT3NY43CM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/ENBZ4VQ66RD4NH2NOAT3NY43CM/</guid>
@@ -948,15 +957,6 @@
       <description/>
       <pubDate>Wed, 04 Mar 2026 08:54:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQPT7TJA2RDGNFWZY7NSF6ZSJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨 학대로 안구가 손상된 것으로 추정되는 햄스터. /동물자유연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;햄스터와 기니피그 등의 동물을 학대한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산 울주경찰서는 동물보호법 위반 혐의로 30대 남성 A씨를 불구속 송치했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3~11월쯤 자신이 키우는 햄스터, 기니피그 등을 학대하고, 그 장면을 담은 사진과 영상을 온라인에 게시한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 동족 포식 습성을 지닌 햄스터 여러 마리를 좁은 우리에 합사시켜 상처를 입게 하거나, 피를 흘리는 동물의 모습을 SNS에 올린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 수사가 시작된 이후에도, 햄스터를 청소기로 빨아들이거나 통에 넣고 흔드는 등 학대 장면을 SNS에 생중계하는 등 범행을 과시하는 기행을 이어왔다.&lt;br&gt;&lt;br&gt;자신에 대한 엄벌을 촉구하는 온라인 탄원서에 직접 접속해 조롱성 문구를 남기기도 했다.&lt;br&gt;&lt;br&gt;이 외에도 제보자 신원을 특정하겠다며 SNS로 미성년자에게 접근해 성적인 내용이 담긴 메시지를 보내고 음란물 사이트 링크를 공유했다는 익명의 제보가 동물보호단체인 동물자유연대에 접수됐다.&lt;br&gt;&lt;br&gt;수사 기간에도 학대가 계속되자 울주군은 지난달 경찰과 함께 A씨 주거지에서 동물 22마리를 긴급 격리했지만, A씨는 이를 비웃듯 다시 토끼를 분양받은 사실을 SNS에 공개했다.&lt;br&gt;&lt;br&gt;현행법상 동물 학대 행위를 했다고 하더라도 동물 분양을 강제로 막을 수는 없다.&lt;br&gt;&lt;br&gt;동물자유연대는 A씨에 대한 엄중 처벌과 동물 학대자 사육 금지 제도 도입을 촉구하는 탄원서를 모으고 있는데, 현재 약 5000명의 시민이 동참한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주로 떠밀려온 폐목선서 北 노동신문 추정 종이 발견</title>
-      <link>https://www.chosun.com/national/regional/2026/03/04/R7GIO3I5IVABDKD5VIISDV5G6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/04/R7GIO3I5IVABDKD5VIISDV5G6M/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 05:56:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37MB45DWCVEZPBA63ZRLYZ45TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 제주 애월 해안에서 발견된 폐목선./제주지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 우도 해안가에서 발견된 목선에서 북한 노동신문이 있다는 신고가 접수돼 수사당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;4일 서귀포해양경찰서와 제주경찰청 등에 따르면 이날 오전 9시 40분쯤 제주시 우도면 해안가에 폐목선이 발견됐다는 주민 신고가 접수됐다. &lt;br&gt;&lt;br&gt;목선은 길이 4m, 폭 1m 크기로 별다른 유류품은 발견되지 않았다. 목선은 선체 곳곳에 구멍이 나 있고, 심하게 부패한 상태였다. 선박 뒷쪽 내부 나무 틈에서 북한 노동신문으로 추정되는 종이가 발견됐다.&lt;br&gt;&lt;br&gt;제주경찰청과 국정원, 해경 등이 현장에서 조사를 벌이며, 대공 혐의점 등 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;한편 최근 제주도 해안가에선 정체불명의 목선이 잇따라 발견되고 있다. 지난해 12월 30일 서귀포시 대정읍 신도리 해안가에서 목선이 발견됐고, 올해 1월 12일과 29일 제주시 구좌읍 월정리 해안가와 제주시 애월읍 해안가에서 목선이 발견되기도 했다. 하지만 당시 대공 혐의점은 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
