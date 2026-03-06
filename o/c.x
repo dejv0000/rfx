@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>베트남서 한국 안와도 경북대 학위 딸 수 있다</title>
+      <link>https://www.chosun.com/national/education/2026/03/05/S6HOYEYLWJA7TO5WCDAZSANJJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/05/S6HOYEYLWJA7TO5WCDAZSANJJQ/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 15:46:00 +0000</pubDate>
+      <content:encoded>앞으로 베트남 학생들이 한국에 오지 않고 베트남에서 경북대 학위를 따는 게 가능해진다. 국립대 최초로 해외에 ‘프랜차이즈 대학’이 생기는 것이다. &lt;br&gt;&lt;br&gt;교육부는 4일 경북대와 베트남 에프피티(FPT)대학교가 프랜차이즈 운영 합의각서(MOA)를 체결한다고 밝혔다. &lt;br&gt;&lt;br&gt;‘프랜차이즈 대학’은 해외 대학이나 기업이 한국 대학의 교육과정을 수입해 대학을 설립해 운영하는 방식이다. FPT대는 베트남 최대 IT 기업 FPT가 운영하는 대학으로, 앞으로 경북대의 교육과정을 수입해 ‘KNU(경북대) 베트남’을 설립하게 된다. 경북대는 프랜차이즈 기업의 본사처럼 교수 등을 베트남에 파견하고, 학생 선발과 학위 수여도 지원·관리한다. 매 학기 FPT로부터 교육 과정 수출에 대한 로열티를 받는다. &lt;br&gt;&lt;br&gt;경북대 베트남은 FPT가 소유한 건물을 캠퍼스로 삼아 올해 하반기부터 학생 모집을 시작할 계획이다. &lt;br&gt;&lt;br&gt;국립대가 해외에 ‘프랜차이즈 대학’을 설립하는 것은 이번이 처음이다. 사립대의 경우 아주대가 2021년 우즈베키스탄에 ‘타슈켄트 아주(AUT)’를 설립하는 등 10곳이 이런 형식으로 해외에 진출해 있다. &lt;br&gt;&lt;br&gt;지금껏 많은 한국 대학이 분교 설립을 통해 해외 진출을 시도했지만, 각종 규제와 현지 법인 설립 등 문제로 번번이 실패했다. 이에 교육부는 2024년에 고등교육법 시행령을 개정해 교육부 승인 없이도 대학들이 해외 대학과 자유롭게 협약을 체결하고 프랜차이즈 대학을 운영할 수 있도록 규제를 완화했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세브란스 불합격 뒤 울릉도 갔던 박단…경북대병원 응급실로</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/06/QKVPRZOVZBF7XLUTGZMDKGAYDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/06/QKVPRZOVZBF7XLUTGZMDKGAYDA/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 05:02:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFFWAGAHBS3Y43TKKJG2A3UGSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 정부 당시 전공의 단체에서 강경 투쟁을 주도하며 의정 갈등의 중심에 있었던 박단 전 대한전공의협의회(대전협) 비상대책위원장이 경북대병원 응급실에서 근무를 시작했다고 5일 자신의 소셜미디어를 통해 밝혔다.&lt;br&gt;&lt;br&gt;박 전 위원장은 “경북대병원에 있다”는 글을 올리며 “오늘부터 경북대병원 응급실로 출근한다”고 썼다. 이어 “또 부단히 애써보겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;박 전 위원장은 2024년 2월 윤석열 정부의 의대 정원 확대 정책에 반발해 사직서를 제출했다. 당시 사직서를 내면서 소셜미디어를 통해 “현장 따위는 무시한 엉망진창인 정책 덕분에 소아응급의학과 세부 전문의의 꿈, 미련 없이 접을 수 있게 됐다”며 복귀 의사가 없다고 밝혔다.&lt;br&gt;&lt;br&gt;2023년 대전협 회장으로 올랐던 그는 대전협이 비대위 체제로 전환하면서 비대위원장을 맡았고, 올해 6월까지 단체를 이끌었다. 지난해 1월 출범한 김택우 대한의사협회 회장 집행부에서도 부회장을 겸임하며 전공의의 목소리를 대변했다. 그는 의정 갈등이 장기화하는 데 대한 책임론이 대두되고 내부 파열음이 커지자 돌연 사퇴했다.&lt;br&gt;&lt;br&gt;당초 그는 의정 갈등이 마무리되던 국면인 지난해 8월 세브란스병원 전공의 모집에 지원하며 복귀 의사를 보였다. 세브란스병원은 그가 원래 수련하던 병원이기도 했다. 그러나 세브란스병원의 전공의 모집에서 최종 선발되지 못했고, 같은 해 10월 “울릉군 보건의료원 응급실에서 근무한다”며 근황을 알렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>도박 빚에 10대 자녀들에게 수면유도제 먹이고 번개탄 피운 父, 징역 3년 확정</title>
       <link>https://www.chosun.com/national/court_law/2026/03/06/SYIGY3244RHUJBP3JXZES242DU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/SYIGY3244RHUJBP3JXZES242DU/</guid>
@@ -834,15 +852,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTIMJVGIYGGNBWHFRTMMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 20개월 된 딸아이를 제대로 돌보지 않아 숨지게 한 친모가 경찰에 긴급 체포됐다. &lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 아동학대범죄의 처벌 등에 관한 특례법상 아동학대치사 혐의로 20대 여성 A씨를 긴급체포해 조사하고 있다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 최근 인천 남동구의 한 주택에서 생후 20개월 된 딸 B양을 방임해 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 전날 오후 8시쯤 A씨 친척의 신고를 받고 현장으로 출동해 숨진 B양을 발견하고, A씨를 긴급체포했다. A씨 친척은 이날 집에 갔다가 B양을 발견하고, “아이가 숨을 쉬지 않는다”며 112에 신고했다. &lt;br&gt;&lt;br&gt;A씨는 남편 없이 B양과 단둘이 살았던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;B양은 영양 상태가 또래 아동에 비해 좋지 않았으나, 학대 흔적으로 볼 수 있는 멍 자국 등은 발견되지 않은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 숨진 B양의 정확한 사인을 확인하기 위해 국립과학수사연구원에 시신 부검을 의뢰했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “구체적인 범행 경위를 수사한 뒤 구속영장을 신청할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>합수본, ‘통일교 금품 수수 의혹’ 김규환 2차 소환조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/05/FWQDH4UJ7JGYDLNU22JQO5O5ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/FWQDH4UJ7JGYDLNU22JQO5O5ZM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 01:06:27 +0000</pubDate>
-      <content:encoded>통일교·신천지 등의 정교유착 의혹을 수사하는 검경 합동수사본부가 통일교 측으로부터 금품을 수수했다는 의혹을 받는 김규환 전 미래통합당 의원을 5일 재소환했다. 지난달 25일 첫 소환 조사 이후 약 일주일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2TMNTBGAYWGMJXMFSGMMLFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교 금품 수수 의혹을 받는 김규환 전 미래한국당 의원이 25일 서울 서초구 고등검찰청에 마련된 검경 합동수사본부에 조사를 위해 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 의원은 2020년 4월 총선을 앞두고 통일교 측으로부터 3000만원 상당의 금품을 받은 혐의(정치자금법 위반)를 받는다. 합수본은 통일교가 숙원 사업인 한일 해저터널 건설을 추진하는 과정에서 김 전 의원을 정치권 로비 창구로 활용하려 했던 것은 아닌지 의심하고 있다. 김 전 의원은 관련 의혹을 전면 부인하고 있다.&lt;br&gt;&lt;br&gt;김 전 의원은 이날 오전 9시 24분쯤 두번째 피의자 조사를 받기 위해 서울 서초구 서울고검에 마련된 합수본 사무실에 출석했다. 김 전 의원은 이날 취재진에게 “2020년 3월 6일 (총선에서) 컷오프 당하고 3월 24일에 불출마 선언했는데 그해 4월에 ‘선거에 잘 쓰라’고 돈을 줬다는 게 이치에 맞지 않는다”며 “소명을 잘 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;한일 해저터널과 관련해서는 “저하고 관계가 없다”면서 “해저터널이라는 얘기를 들어본 적도 없고 (해저터널 사업을) 절대 하면 안 된다고 생각했다”고 말했다. 이어 “한학자 통일교 총재나 윤영호 전 통일교 세계본부장은 높은 사람들이어서 우리가 만날 수 있는 레벨이 아니다”라며 “단 1초도 그 사람들을 만나서 차를 마셨다든지 그런 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 윤영호 전 통일교 세계본부장은 지난해 8월 민중기 특별검사와 면담하는 과정에서 2018~2020년 김 전 의원과 임종성 전 더불어민주당 의원, 전재수 민주당 의원 등에게 숙원 사업 청탁 대가로 수천만원대 금품을 건넸다고 진술한 바 있다.&lt;br&gt;&lt;br&gt;이에 합수본은 임 전 의원에 대해서는 두 차례 소환 조사를 진행했지만 전 의원에게는 아직 소환 통보를 하지 않은 것으로 알려졌다. 이에 대해 합수본 관계자는 “계획한 일정에 따라 관계자 조사를 진행하고 있다”며 “전 의원도 조사할 예정이고 조사하지 않을 일은 없다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>신호 오면 바로, 일정 시각에… 성공하는 배변의 기술</title>
       <link>https://www.chosun.com/medical/2026/03/05/DHSOXQ5B4ZE2LNHPFQDBIMJCLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/05/DHSOXQ5B4ZE2LNHPFQDBIMJCLA/</guid>
@@ -897,15 +906,6 @@
       <description/>
       <pubDate>Wed, 04 Mar 2026 15:46:00 +0000</pubDate>
       <content:encoded>다음 달 30일 택배 과대 포장 규제 시행을 앞두고, 정부가 예외를 대거 인정하기로 했다. 택배 포장은 물건 종류, 크기에 따라 달라지는데 이를 일률적으로 통제하려다가 정부 스스로 ‘누더기 규제’를 만들었다는 지적이 나온다.&lt;br&gt;&lt;br&gt;기후에너지환경부는 ‘제품의 포장 재질 및 포장 방법에 대한 간이 측정 방법 고시’ 개정안을 행정 예고한다고 4일 밝혔다. 택배 과대 포장 규제는 택배 상자 내 물건은 최대 한 번만 포장하고, 포장 공간 비율은 50%를 넘지 않도록 하는 것이다. 물건 포장을 줄이고, 택배 상자도 물건 크기와 되도록 맞는 것을 쓰라는 취지다. 규제 대상은 연 매출 500억원 이상인 제품 제조·수입·판매 업체다. 과태료는 1차 위반 시 100만원, 2차는 200만원, 3차 이상은 300만원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G55DIEBBARHW3N763PDA7UMZHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 개정안에서 예외 조항이 추가됐다. 예컨대, 유리·도자기·점토·액체·반(半)액체·녹는 제품의 경우 규제를 적용하지 않기로 했다. 깨지기 쉽거나 액체가 흘러나올 수 있는 제품은 포장재를 많이 써도 된다는 것이다. 2개 이상 제품을 함께 포장했거나 포장재를 재사용한 경우에도 규제를 적용하지 않기로 했다. 또 재생 원료를 20% 이상 사용한 비닐 포장재나 종이 완충재를 쓰면 택배 상자 안에 빈 공간을 각각 60%, 70%까지 인정해주기로 했다. 앞서 기존 고시에선 상자의 가로·세로·높이 합이 50㎝ 이하면 포장 공간 비율 규제를 적용하지 않았다. 작은 상자는 예외로 해준 것이다. 그런데 이번 개정 고시에선 물류업체가 자동 포장·이송 장비를 사용할 경우 60㎝ 이상일 때만 규제를 하는 것으로 좀 더 완화했다. ‘보냉재’를 포장 공간 비율에서 제외해주기로 했던 기존 예외 규정들은 그대로 유지된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노동부는 아니랬는데… 금속노조 “임금도 원청 교섭 대상”</title>
-      <link>https://www.chosun.com/national/labor/2026/03/05/6LRXL4KVGZDEXLKY4NTFWERMLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/05/6LRXL4KVGZDEXLKY4NTFWERMLU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>오는 10일 노란봉투법(노동조합 및 노동관계조정법 2·3조개정안) 시행을 앞두고, 민주노총 산하 최대 조직인 금속노조가 하청 노조와 원청 업체가 교섭할 때 임금 인상을 요구하기로 방침을 정한 것으로 확인됐다. 고용노동부는 지난달 24일 확정한 노란봉투법 해석 지침에서 ‘원칙적으로 임금은 하청 노조와 원청 업체 간 교섭 의제가 아니다’라고 밝혔는데, 법 시행 전부터 이를 무력화하는 조치가 나온 것이다. &lt;br&gt;&lt;br&gt;민노총 금속노조는 지난 3일 정기 대의원 대회를 열고 이 같은 내용을 담은 ‘원청 교섭 공동 요구안’을 확정했다. 금속노조는 이날 “원청 교섭을 요구하는 하청 노조와 원청 노조가 함께 공통 투쟁하자”며 임금 인상, 업체 변경 시 고용 승계와 같은 고용 안정 등을 공동 요구안으로 정했다.&lt;br&gt;&lt;br&gt;정부가 노란봉투법을 추진할 때부터 ‘임금’이 원·하청 간 교섭 의제가 될 수 있는지에 대해 의견이 분분했다. 그러자 노동부는 최근 해석 지침에서 “임금은 근로자가 제공한 노동의 대가로, 계약 당사자인 하청 업체와 하청 노동자 사이에 결정하는 것”이라고 밝혔다. 하청 업체 노동자의 임금은 하청 업체와 논의해야 하며, 원청과 교섭할 내용이 아니라는 뜻이다. &lt;br&gt;&lt;br&gt;하지만 양대 노총은 최근 금속노조 방침처럼 원청 업체와의 교섭에서 임금을 주요 의제로 제시할 것으로 보인다. 한 노동계 관계자는 “하청 노동자의 처우를 개선하는 방법 중 핵심이 임금인데, 이를 제외하고 교섭을 얘기하는 건 말이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 양대 노총이 노동부가 지침에 둔 예외 규정을 근거로 임금 교섭에 나설 것으로 본다. 노동부는 지침에서 “(원청 업체가 하청 노동자의) 임금에 관해 실질적·구체적으로 결정했다고 볼 만한 사정이 있다면 교섭할 수 있다”고 했다. 원청이 하청 노동자의 임금과 성과급 등을 결정해 왔다고 주장하며, 사용자성 인정이 확정되지 않았어도 임금 교섭에 나설 가능성이 크다는 것이다.&lt;br&gt;&lt;br&gt;김희성 강원대 법학전문대학원 교수는 “하청 노조는 산업 안전 등 비교적 ‘사용자성’을 인정받기 쉬운 항목을 내세워 교섭 테이블을 차린 후에 임금까지 교섭하려 할 것으로 보인다”면서 “사용자가 이를 막기 어려운 구조라 결국 소송전이 난무할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[인사] 이기정 대교협 신임 회장 취임 외</title>
