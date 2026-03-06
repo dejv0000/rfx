@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>도박 빚에 10대 자녀들에게 수면유도제 먹이고 번개탄 피운 父, 징역 3년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/06/SYIGY3244RHUJBP3JXZES242DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/SYIGY3244RHUJBP3JXZES242DU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 03:08:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3GKY3CMY2WCMBUMUYTCOJQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. 2025.12.8 ⓒ 뉴스1 김진환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 도박 빚에 시달리다 10대 자녀들에게 수면 유도제를 먹이고 번개탄을 피워 극단적 선택을 시도한 가장에게 징역 3년의 실형이 확정됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 살인 미수, 아동복지법 위반(아동 학대) 혐의로 기소된 A씨에게 징역 3년과 아동 학대 치료 프로그램 40시간 이수 명령을 선고한 원심 판결을 확정했다고 6일 밝혔다. 함께 기소된 아내 B씨는 1심에서 징역 3년에 집행유예 5년을 선고받고 항소하지 않아 형이 먼저 확정됐다.&lt;br&gt;&lt;br&gt;A씨는 15살 아들과 12살 딸을 둔 가장이다. 그는 온라인 도박으로 빚을 진 데다 3400만원 상당의 추가 대출까지 받으면서 불법 채권 추심업자들의 독촉에 시달렸다. 도저히 빚을 갚을 수 없다고 비관한 A씨 부부는 결국 자녀들과 함께 목숨을 끊기로 마음먹었다.&lt;br&gt;&lt;br&gt;A씨 부부는 2024년 12월 14일 밤 10시 30분쯤 자택에서 미리 준비한 수면 유도제를 ‘구충제’라고 속여 남매에게 먹인 뒤, 다음 날 새벽 1시쯤 거실 바닥에 번개탄을 피웠다. 잠에서 깬 아들이 울면서 “하지 말라”고 말렸지만, 아내 B씨는 “엄마가 너무 힘들어서 도저히 살 수 없다”고 했다. 다행히 번개탄 불이 자연적으로 꺼지면서 첫 번째 범행은 미수에 그쳤다.&lt;br&gt;&lt;br&gt;하지만 부부는 범행을 멈추지 않았다. 날이 밝자 부부는 아이들에게 “엄마 아빠 죽을 건데 너희들끼리 지낼 수 있겠냐”고 물었다. 아이들이 “우리끼리는 살 수 없다”고 하자 부부는 재차 범행을 시도했다. 15일 밤 가족 모두 A씨 차를 타고 인근 공원 주차장으로 이동해 차 안에서 수면유도제를 나눠 먹었다. A씨는 차 트렁크에서 번개탄과 부탄가스를 꺼내 차량 바퀴 안쪽에 불을 붙이려던 찰나, 자살을 암시하는 전화를 받았던 A씨 어머니의 신고로 출동한 경찰에 의해 두 번째 범행도 제지됐다.&lt;br&gt;&lt;br&gt;A씨 부부는 두 차례에 걸쳐 자녀들을 살해하려다 미수에 그친 혐의 등으로 재판에 넘겨졌다. 부부는 “첫 번째 범행 당시 번개탄 불을 스스로 끄는 등 범행을 중단했고, 수면 유도제를 먹인 것만으로는 살인 실행에 착수한 것으로 볼 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 1심 재판부는 “당시 번개탄은 (피고인들이 끈 것이 아니라) 자연적으로 꺼진 것”이라며 “더구나 몇 시간이 지나지 않아 살해 고의를 유지한 채 또다시 범행을 저질렀다”고 지적했다. 또 “계획에 따라 수면 유도제를 먹인 순간 살해 의사가 객관적으로 명백히 드러났다”고 했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피해자들이 말리며 ‘죽고 싶지 않다’고 거듭 말했음에도 아랑곳하지 않고 범행에 나아갔다”며 “자녀는 부모의 소유물이 아니고 부모에게 자식의 죽음을 결정할 권리는 없다”고 비판했다. 이어 “이 사건과 같은 유형의 범죄는 더 이상 연민의 대상이 아니라, 엄벌에 처해야 할 범죄라는 사회적 공감대가 형성돼 있다”고 판시했다.&lt;br&gt;&lt;br&gt;A씨는 “형이 너무 무겁다”며 항소했고, 2심 재판 과정에서 “자녀들이 처벌을 원하지 않는다”고 호소했다. 그러나 2심 재판부는 “친권자인 부모가 보호 대상인 자녀들을 살해하려 한 이 사건에서는, 피해 자녀들이 처벌을 원하지 않는다는 사정을 일반적인 범죄에서의 ‘처벌 불원’과 동일한 양형 요소로 고려할 수는 없다”며 항소를 기각했다.&lt;br&gt;&lt;br&gt;대법원 역시 “형사소송법상 사형, 무기 또는 10년 이상 징역이나 금고가 선고된 사건에서만 양형 부당을 사유로 한 상고가 허용된다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부실 김밥·순대' 제주 탐라문화제·왕벚꽃축제 ‘옐로우 카드’ 받았다 </title>
+      <link>https://www.chosun.com/national/regional/2026/03/06/3327WC3X5NFS7NSFUWKKQSQKHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/06/3327WC3X5NFS7NSFUWKKQSQKHI/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 03:30:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWPPCVTW2L7HMP6K6GWL3Y7WYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 전농로에서 열린 벚꽃축제를 찾은 한 네티즌이 고발한 노점에서 주문한 2만5000원짜리 순대볶음의 모습. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;바가지요금 논란으로 제주 관광 이미지를 훼손했던 탐라문화제와 전농로 왕벚꽃축제가 ‘제주도 지정축제’에서 제외됐다.&lt;br&gt;&lt;br&gt;6일 제주도에 따르면 도 축제육성위원회는 28개 축제를 대상으로 1차 평가를 실시, 11개 축제를 2026년 도 지정축제로 선정했다.&lt;br&gt;&lt;br&gt;평가는 지난해 열린 행사를 대상으로 했다.&lt;br&gt;&lt;br&gt;2026년 도 지정축제로는 서귀포유채꽃축제, 성산일출제, 탐라굿입춘굿(이상 광역축제), 고마로마문화축제, 금능원담축제, 보목자리돔축제, 산지천축제, 우도소라축제, 이호테우축제, 추자도참굴비대축제, 한라산청정고사리축제(이상 지역축제) 등이 선정됐다.&lt;br&gt;&lt;br&gt;이들 11개 축제에는 2027년도 예산이 정액(보조율 100%)으로 지원된다. 축제육성위원회는 5월 15일 2차 평가를 실시해 제주도 지정축제 등급(최우수·우수·유망)을 결정할 예정이다.&lt;br&gt;&lt;br&gt;최우수 축제(광역 1개·지역 1개)는 2000만 원, 우수 축제(광역 1개·지역 2개)는 1000만 원, 유망 축제(광역 1개·지역 5개)는 500만 원의 인센티브를 받는다.&lt;br&gt;&lt;br&gt;반면 지난해 바가지요금 논란이 일었던 탐라문화제와 전농로 왕벚꽃축제는 지정축제에서 제외됐다.&lt;br&gt;&lt;br&gt;탐라문화제에서는 속이 부실한 김밥이 4000원에, 전농로 왕벚꽃축제에서는 부실한 순대볶음 2만 5000원에 판매돼 논란을 빚었다.&lt;br&gt;&lt;br&gt;이에 따라 전농로 왕벚꽃축제는 2027년도 예산 보조율이 기존 100%에서 70%로 낮아진다. 행사 예산 30%는 축제위원회가 자부담해야 한다. 올해 예산은 1억 원이다. &lt;br&gt;&lt;br&gt;다만 민간위탁 사업인 탐라문화제는 예산상 불이익은 없고, 인센티브가 사라지게 된다.&lt;br&gt;&lt;br&gt;앞서 제주도는 지정축제 선정 기준을 개편했다. 축제 중 바가지요금 논란 등으로 지역 관광 이미지를 실추시킨 축제에 대해서는 예산 지원을 대폭 줄이기로 했다. &lt;br&gt;&lt;br&gt;김양보 제주도 관광교류국장은 “바가지요금 등 사회적 논란을 일으킨 축제에는 분명한 대가가 따른다는 것을 보여주겠다”며 “평가 결과가 실제 개선으로 이어지도록 환류 체계를 강화하고 제주 축제가 글로벌 경쟁력을 갖추도록 현장 관리에 힘쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> “어르신~구청 직원입니다” 독거노인 노린 현금 절도범 구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/06/6DXENIEYHNABZBOJQX42UVB4PQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/6DXENIEYHNABZBOJQX42UVB4PQ/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 01:40:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMXIJZFZ6JBC5ESIHI3WBWPEMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종암경찰서는 본인을 구청 복지관 직원이라 속이고 독거노인들을 상대로 절도 행각을 벌인 남성 A씨를 지난 3일 구속 송치했다. 사진은 A씨가 범행 후 도주하는 모습./서울 종암경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 설 연휴 동안 구청 직원 행세를 하며 독거노인을 상대로 현금을 훔쳐 달아난 남성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울 종암경찰서는 구청 복지관 직원인 척 독거노인들에게 접근해 현금과 지갑 등을 훔쳐 달아난 40대 남성 A씨를 지난 3일 구속 송치했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 홀로 길을 걷던 노인에게 접근해 복지관 직원이라 속여 집에 함께 들어갔다. “커피 한잔 마시고 싶다”며 노인의 주의를 분산시킨 뒤, 거실에 놓여 있던 가방에서 현금과 지갑을 훔쳐 도주했다. &lt;br&gt;&lt;br&gt;A씨는 같은 수법으로 총 3차례 범행을 저질렀고, 총 100만원 가량을 훔친 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 폐쇄회로(CC)TV 분석을 통해 A씨의 이동 경로를 추적했고, 은신 중인 여관방에서 A씨를 긴급 체포했다. A씨는 체포될 당시에도 같은 날 오전 한 독거노인을 속여 가로챈 현금 50만원을 소지하고 있었다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “고령자 등 취약 계층을 대상으로 한 사칭 범죄가 빈번하게 발생하고 있다”며 “지역 어르신들께서는 낯선 방문객에 대한 경계심을 늦추지 말고 의심스러운 상황에선 즉시 경찰에 도움을 요청해 달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“자리 좁으니 나가주세요” 휠체어 사용자 내쫓은 제과점...인권위 “차별”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/06/3NC72GOFNJCHFPG3I72COGV55Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/3NC72GOFNJCHFPG3I72COGV55Y/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 03:01:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWSDOK6B3QNPJO2LTSOLJFTNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구의 국가인권위원회 청사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 공간이 협소하다는 이유로 휠체어 사용자의 매장 이용을 막은 제과점에 재발 방지 대책 수립을 권고했다. &lt;br&gt;&lt;br&gt;휠체어 이용자인 진정인 A씨는 지난해 한 동네 제과점을 찾았다가 매장 이용을 거부당했다. 휠체어가 다른 고객에게 불편을 끼치고, 공간이 부족하다는 이유였다. 당시 A씨는 “예전에도 여기서 빵을 사서 자리에 앉아 먹었다”며 항의했으나, 결국 매장을 이용하지 못했다. 이에 A씨는 지난해 8월 해당 제과점의 행위가 장애인 차별이라며 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;매장 측은 “평소보다 많은 방문객으로 매장이 매우 혼잡한 상태였다”고 해명했다. 남아있는 좌석이 부족해 이미 앉아 있던 고객에게 이동을 요청해야 하는 상황이었다고도 했다. &lt;br&gt;&lt;br&gt;하지만 인권위 장애인차별시정위원회는 A씨 일행이 앉고자 했던 좌석 뒤에 동반인이 서서 대기할 수 있는 공간이 있었고, 전에도 A씨가 해당 좌석을 이용한 점이 있었다는 점을 지적했다. 또 수동 휠체어가 지체 장애인들에겐 필수 이동 수단임에도 불구하고, 휠체어가 다른 고객에게 피해를 줄 것이라는 막연한 편견에 기대 매장 이용을 거부했다고 봤다. &lt;br&gt;&lt;br&gt;이에 인권위는 해당 베이커리 브랜드 대표에게 재발 방지 대책을 수립해 관리·감독을 강화할 것을 권고했다. 이에 더해 해당 매장 점주에게는 인권위가 실시하는 특별 인권 교육을 수강하도록 했다. &lt;br&gt;&lt;br&gt;한편 해당 매장은 국내 1위 베이커리 브랜드 P사의 가맹 업체였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>눈·비 뒤 꽃샘추위 찾아와…주말 영하권으로 기온 떨어져</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/06/OUPEHK4ZFZHJNDUKO3MHLDNI5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/06/OUPEHK4ZFZHJNDUKO3MHLDNI5I/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 01:33:01 +0000</pubDate>
+      <content:encoded>토요일인 7일은 꽃샘추위가 찾아오며 아침 기온이 큰 폭으로 떨어지겠다. 아침 최저기온은 전국 대부분 지역에서 영하권을 보이겠고 바람도 강해 체감 온도는 더욱 낮을 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI5G7UT7OJJJZEIXPX5CPQZS54.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분의 지역에 비가 내리고 강한 바람이 분 2일 오전 서울 광화문광장에서 시민들이 우산을 쓴 채 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 7일 전국 아침 최저기온은 영하 8도~영상 1도, 낮 최고기온은 영상 4~10도로 예보됐다. 예년과 비슷하거나 조금 낮은 수준이다. 6일까지 내린 비와 눈이 그치고 북쪽에서 찬 공기가 내려오면서 아침 기온이 5∼10도가량 큰 폭으로 떨어지겠다. 곳곳에 비와 눈이 얼어 빙판길과 도로 살얼음이 나타나는 곳이 많을 전망이다.&lt;br&gt;&lt;br&gt;전국 곳곳에 순간풍속 55㎞/h 안팎의 강한 바람이 불어 시설물 관리와 안전사고에 유의해야 한다. 이날엔 전국이 대체로 맑겠으나 강원 동해안은 흐린 날씨가 이어지겠다. 미세먼지 농도는 청정한 북서 기류가 유입되며 전국이 ‘좋음’∼‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;일요일인 8일 아침 최저기온은 영하 7도~영상 1도, 낮 최고기온은 영상 6~12도로, 쌀쌀하지만 대체로 맑은 날씨가 이어질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UI5G7UT7OJJJZEIXPX5CPQZS54.JPG?auth=f9dcd17c4e6b53c269c068ad6a13ac52eda070c97a7e6243abd5d1e45d05fa47&amp;smart=true&amp;width=1230&amp;height=1615" type="image/jpeg" height="1615" width="1230">
+        <media:description type="plain">전국 대부분의 지역에 비가 내리고 강한 바람이 분 2일 오전 서울 광화문광장에서 시민들이 우산을 쓴 채 걸어가고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 구윤성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, 나경원 ‘패스트트랙 공소 취소 청탁 의혹’ 무혐의</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/06/LN5TMWXJXVFU3OKIRKNTTW26WI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/LN5TMWXJXVFU3OKIRKNTTW26WI/</guid>
+      <dc:creator>김혜민 기자, 김진영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 01:12:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZGKH2NF4NCA3B2AQDOI2EILM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나경원 국민의힘 의원. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 국민의힘 나경원 의원의 국회 패스트트랙 사건 공소 취소 청탁 의혹에 대해 무혐의 처분을 내렸다.&lt;br&gt;&lt;br&gt;6일 경찰 등에 따르면, 서울 영등포경찰서는 청탁금지법 위반·공무집행 방해 혐의로 고발된 나 의원에 대해 지난 3일 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;이 사건은 2024년 7월 국민의힘 당대표 경선 토론회에서 한동훈 전 국민의힘 대표가 법무부장관 시절 나 의원으로부터 패스트트랙 사건 공소 취소 부탁을 받았다고 폭로하며 불거졌다.&lt;br&gt;&lt;br&gt;나 의원은 개인적 차원의 부당 청탁이 아니라 반헌법적 기소를 바로잡아달라는 요구였다고 해명했지만 이후 더불어민주당의 고발이 이어졌다.&lt;br&gt;&lt;br&gt;경찰은 대가 없는 청탁을 형사 처벌하는 규정이 없는 만큼 나 의원의 행위가 범죄에 해당하지 않는다고 판단했다. 다만 청탁 행위 자체는 과태료 부과 대상이라 보고 국회의장에게 이 사실을 통보했다.&lt;br&gt;&lt;br&gt;민주당은 나 의원을 한 전 대표의 장관 업무를 방해한 혐의로도 고발했으나, 경찰은 폭행·협박 등이 없었던 만큼 공무집행방해 혐의 역시 성립하지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;패스트트랙 사건은 2019년 선거법·공수처법 처리 국면에서 국회에서 벌어진 물리적 충돌로 나 의원을 포함한 여야 의원이 무더기로 기소된 사건을 말한다. 패스트트랙 사건과 관련해 나 의원은 작년 11월 1심에서 2400만원의 벌금형을 받고 항소한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>달집태우며 액운 막고 소원 빌자... 제주 들불축제 ‘불 타오른다’</title>
+      <link>https://www.chosun.com/national/regional/2026/03/06/L3VDP5T26VCOLJ3H6WKOAVA4HU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/06/L3VDP5T26VCOLJ3H6WKOAVA4HU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 01:17:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YGGOJSMI4TENTEGBSDMYRZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 애월읍 새별오름에서 열리는 제주들불축제. /제주들불축제 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“횃불대행진과 달집태우기로 액운을 막고 소원 빌어보세요.”&lt;br&gt;&lt;br&gt;제주시는 오는 9~14일 애월읍 새별오름 일대에서 ‘제주, 희망을 품고 달리다!’라는 주제로 2026 제주들불축제를 개최한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;제주시는 올해는 들불축제의 정체성을 강화하기 위해 ‘불’ 콘텐츠를 보강했다. 오랜 기간 관람객들의 사랑을 받아온 횃불대행진과 달집태우기를 다시 선보이고, 달집태우기와 축하공연까지 속도감 있는 연출로 현장의 몰입도를 극대화한다. 방문객들이 정성껏 적은 소원지를 태워 하늘로 날려 보내며 희망을 기원하는 시간도 갖는다.&lt;br&gt;&lt;br&gt;오름에 실제 불을 놓는 대신 새별오름 전역을 활용한 융복합 미디어아트쇼 ‘디지털 불놓기’를 선보인다. 장비와 영상 품질을 높이고 특수효과 등을 더한 입체적인 연출로 몰입감과 감동을 선사할 계획이다.&lt;br&gt;&lt;br&gt;사전 행사는 오는 9일부터 12일까지 운영된다. 소원지 쓰기·달기, 꼬마달집 만들기와 함께 오름 해설사와 동행하는 ‘오름 도슨트’ 투어를 1일 3회 운영한다. 11일부터는 제주의 전통 결혼문화인 가문잔치 재현 공간을 활용한 포토존을 개방해 방문객에게 특별한 추억을 제공할 예정이다.&lt;br&gt;&lt;br&gt;본 행사는 13일 삼성혈에서의 채화 행사로 시작된다. ‘희망의 여정’을 주제로 한 개막공연은 희망불 안치와 달집태우기로 시작한다. 미스터트롯3 우승자인 트로트 가수 김용빈이 무대에 올라 새별오름의 밤을 장식한다.&lt;br&gt;&lt;br&gt;14일에는 ‘희망의 찬가’를 주제로 전도 풍물 대행진, 횃불 대행진, 달집태우기가 펼쳐지며, 동시에 디지털 불놓기가 새별오름을 수놓는다. 실제 ‘불’과 디지털 ‘불’이 어우러지는 장관 속에서 대한민국 대표 밴드 자우림의 공연을 끝으로 축제는 막을 내린다.&lt;br&gt;&lt;br&gt;농수특산물장터를 소상공인 품목까지 확대해 상생장터로 운영하며, 우수 물품을 20% 할인 가격으로 판매한다.&lt;br&gt;&lt;br&gt;이 밖에도 오름 등반, 마상마예공연, 민속체험, 읍면동별 경연대회와 함께 축제장 내 다양한 체험 부스를 운영한다.&lt;br&gt;&lt;br&gt;김완근 제주시장은 “알차게 준비한 축제장을 찾아 액운은 멀리 보내고 새봄의 새로운 희망을 듬뿍 담아가시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>군경TF, ‘北 무인기’ 대학원생 등 3명 검찰 송치 “국익 중대 위협”</title>
+      <link>https://www.chosun.com/national/incident/2026/03/06/V2GSKN5TU5GLVKMQU4HFMFDUPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/06/V2GSKN5TU5GLVKMQU4HFMFDUPY/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 01:14:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYTSOJTHAZTQOLBMJRTOOLDHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문에 실린 북한 침투 남한 무인기의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 무인기를 날려 남북 긴장을 조성한 혐의를 받는 30대 대학원생 오모씨가 6일 검찰로 송치됐다.&lt;br&gt;&lt;br&gt;군·경 합동 태스크포스(TF)는 “국익에 대한 중대 위협”이라며 오씨를 비롯해 무인기 제작 업체 에스텔엔지니어링 대표 장모씨와 이 업체에서 대북 전담 이사로 활동한 김모씨 등 3명을 일반이적죄, 항공안전법위반, 군사기지법위반 혐의로 검찰에 송치했다고 이날 밝혔다. 오씨는 지난달 26일 구속된 상태로 넘어갔고, 나머지 두 명은 불구속 송치됐다. &lt;br&gt;&lt;br&gt;이들은 작년 9월부터 올해 1월까지 총 4차례 인천 강화도에서 출발해 북한 개성시와 평산군을 경유, 경기도 파주시로 돌아오도록 설정된 무인기를 날려 우리 군의 군사 관련 사항을 노출한 혐의 등을 받는다. TF는 “국토교통부장관에게 무인기를 신고하거나 관할 군부대장에게 촬영을 승인받은 사실이 없었다”며 북한에 추락한 무인기에 저장된 우리 군사 사항이 북한에 노출되고, 남북 간 긴장을 고조시키는 방식으로 군사상 이익을 해쳤다고 판단했다.&lt;br&gt;&lt;br&gt;TF 조사 결과, 검찰로 넘겨진 3명은 대학교 선후배 또는 친구 사이로, 2023년 9월부터 무인기 업체를 함께 설립해 운영해 온 것으로 확인됐다. 이들은 2024년부터 저고도 방공망에 탐지되지 않는 무인기 개발에 나섰는데, 개발한 무인기가 남북한 방공망에 탐지되지 않는다는 사실을 증명하고 이를 홍보해 경제적 이익 등을 얻을 목적으로 무인기를 날렸다는 것이다. TF는 피의자들이 4차례 북한 비행 외에도 경기도 여주시 일대에서 작년 6~11월 8차례 시험 비행을 한 사실도 추가 확인했다. &lt;br&gt;&lt;br&gt;TF 관계자는 “국정원과 군 소속 피의자들의 범행 관여 여부에 대해서도 계속 수사할 예정”이라고 했다. TF는 무인기를 날린 민간인들을 지원한 의혹을 받는 현역 군인 3명, 국정원 직원 1명도 항공안전법 위반 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘이성윤 특혜 조사’ 김진욱 전 공수처장 무혐의 결론 </title>
+      <link>https://www.chosun.com/national/court_law/2026/03/06/DZH6F5NDRNDAXJ3ZKUINLW35ZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/DZH6F5NDRNDAXJ3ZKUINLW35ZY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 00:35:53 +0000</pubDate>
+      <content:encoded>검찰이 이성윤 더불어민주당 의원을 조사하며 특혜를 제공했다는 의혹을 받았던 김진욱 전 고위공직자범죄수사처장을 불기소한 것으로 6일 알려졌다. 고발장이 접수된 지 약 5년 만에 나온 처분이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BDYC463RVAQBOSZZJHUJQ6FGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 1월 경기 과천시 과천정부청사에서 이임식을 마치고 청사를 나서는 김진욱 고위공직자범죄수사처장이 취재진의 질문에 답하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 신도욱)는 김 전 처장의 청탁금지법 위반 및 직권남용권리행사방해, 직무유기 등 혐의에 대해 지난달 말 불기소 처분했다. 함께 고발됐던 여운국 전 차장도 무혐의 판단을 받았다.&lt;br&gt;&lt;br&gt;김 전 처장은 2021년 3월 서울중앙지검장이던 이 의원을 피의자 신분으로 공수처 청사에 소환하면서 제네시스 관용차를 제공해 은밀하게 과천 공수처 청사로 들어오게 했다는 의혹을 받았다. 당시 논란이 일자 공수처는 ‘다른 호송용 차량은 뒷좌석 문이 안 열렸기 때문’이란 취지의 보도자료를 냈는데, 이 같은 해명이 거짓이라는 주장도 제기됐다. 이 의원과 변호인을 1시간 넘게 조사하고도 조서를 남기지 않았고, 수사 보고서에 조서를 작성하지 않은 이유를 기록하지 않은 것도 논란이 됐다.&lt;br&gt;&lt;br&gt;검찰은 관용차 제공의 경우 수사 목적이라는 점이 확인되고, 이 의원 청사 출입도 위법이 없었다고 판단한 것으로 전해졌다. 허위 보도자료 의혹에 대해선 다른 공수처 차량이 실제로 뒷문이 열리지 않았다는 사실을 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김상환 헌재소장 “재판소원 도입, 무거운 책임감 느껴”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/06/BFUFK26TTRD25DNQSILU55QSPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/BFUFK26TTRD25DNQSILU55QSPA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 00:15:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6APN7A4UE5M3FK445NCBREMNLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 김상환 헌법재판소장이 서울 종로구 헌재에 등청하고 있다. 김 소장은 지난 3일 재판소원을 허용하는 헌재법 개정안 국회 의결에 따라 후속 절차와 준비를 위해 헌법재판관 회의를 열고 추가 예산·인력 확충 등 조치 사항을 논의한 것으로 알려졌다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 확정 판결을 헌법재판소에서 다시 뒤집을 수 있게 한 ‘재판소원’ 제도가 국회를 통과한 가운데, 김상환 헌법재판소장이 6일 “제도 도입에 담긴 국민의 뜻과 기대에 무거운 책임감을 느끼고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 소장은 이날 오전 8시 53분쯤 서울 종로구 헌법재판소 출근길에 취재진과 만나 재판소원 도입 소감과 향후 준비 계획을 묻는 질문에 이같이 답했다. 그는 “우리 헌법재판소의 지혜와 역량을 모두 모아 충실히 준비해서 소임을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;폭증할 사건을 감당할 인력 충원과 예산이 부족하다는 우려에 대해서는 “잘 준비하고 있다. 차차 설명해 드리겠다”고 했다.&lt;br&gt;&lt;br&gt;재판소원은 개인이 법원의 재판 결과로 인해 헌법상 기본권을 침해받았다고 판단할 경우, 헌재에 헌법소원을 청구해 판결을 취소해 달라고 요구할 수 있는 제도다. 현행 헌법재판소법은 원칙적으로 법원의 재판을 헌법소원 대상에서 제외하고 있으나, 최근 더불어민주당은 이를 허용하는 헌재법 개정안을 국회 본회의에서 강행 처리했다. 헌재법 개정안은 전날 국무회의를 통과해 공포·시행만을 앞두고 있다.&lt;br&gt;&lt;br&gt;헌재는 재판소원 도입으로 사건이 폭증할 것을 대비해 헌법연구관 8명으로 구성된 ‘재판소원 전담 사전 심사부’를 운영할 예정이다. 이런 가운데 1·2심 단계에서 확정된 판결은 재판소원 대상에서 빼기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>불법 전단지 살포 총책 첫 구속 “불법 전단지 살포, 더 이상 경미한 범죄 아냐”</title>
       <link>https://www.chosun.com/national/incident/2026/03/06/DBCTTZF3GFCQRMDKBGP4ALBRTE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/06/DBCTTZF3GFCQRMDKBGP4ALBRTE/</guid>
@@ -749,37 +843,6 @@
       <content:encoded>통일교·신천지 등의 정교유착 의혹을 수사하는 검경 합동수사본부가 통일교 측으로부터 금품을 수수했다는 의혹을 받는 김규환 전 미래통합당 의원을 5일 재소환했다. 지난달 25일 첫 소환 조사 이후 약 일주일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2TMNTBGAYWGMJXMFSGMMLFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교 금품 수수 의혹을 받는 김규환 전 미래한국당 의원이 25일 서울 서초구 고등검찰청에 마련된 검경 합동수사본부에 조사를 위해 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 의원은 2020년 4월 총선을 앞두고 통일교 측으로부터 3000만원 상당의 금품을 받은 혐의(정치자금법 위반)를 받는다. 합수본은 통일교가 숙원 사업인 한일 해저터널 건설을 추진하는 과정에서 김 전 의원을 정치권 로비 창구로 활용하려 했던 것은 아닌지 의심하고 있다. 김 전 의원은 관련 의혹을 전면 부인하고 있다.&lt;br&gt;&lt;br&gt;김 전 의원은 이날 오전 9시 24분쯤 두번째 피의자 조사를 받기 위해 서울 서초구 서울고검에 마련된 합수본 사무실에 출석했다. 김 전 의원은 이날 취재진에게 “2020년 3월 6일 (총선에서) 컷오프 당하고 3월 24일에 불출마 선언했는데 그해 4월에 ‘선거에 잘 쓰라’고 돈을 줬다는 게 이치에 맞지 않는다”며 “소명을 잘 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;한일 해저터널과 관련해서는 “저하고 관계가 없다”면서 “해저터널이라는 얘기를 들어본 적도 없고 (해저터널 사업을) 절대 하면 안 된다고 생각했다”고 말했다. 이어 “한학자 통일교 총재나 윤영호 전 통일교 세계본부장은 높은 사람들이어서 우리가 만날 수 있는 레벨이 아니다”라며 “단 1초도 그 사람들을 만나서 차를 마셨다든지 그런 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 윤영호 전 통일교 세계본부장은 지난해 8월 민중기 특별검사와 면담하는 과정에서 2018~2020년 김 전 의원과 임종성 전 더불어민주당 의원, 전재수 민주당 의원 등에게 숙원 사업 청탁 대가로 수천만원대 금품을 건넸다고 진술한 바 있다.&lt;br&gt;&lt;br&gt;이에 합수본은 임 전 의원에 대해서는 두 차례 소환 조사를 진행했지만 전 의원에게는 아직 소환 통보를 하지 않은 것으로 알려졌다. 이에 대해 합수본 관계자는 “계획한 일정에 따라 관계자 조사를 진행하고 있다”며 “전 의원도 조사할 예정이고 조사하지 않을 일은 없다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“동료 교수에 성폭행 당해” 폭로한 교수… 대법 “명예훼손 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/05/TYPE42OTKBHHVB237WVYC5QGOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/TYPE42OTKBHHVB237WVYC5QGOI/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 00:35:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3GGMRWG5QWEYJSMFRWCYLCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동료 교수에게 성폭행을 당했다고 언론 등에 밝힌 피해자의 폭로가 명예훼손이 아니라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 명예훼손 혐의로 재판에 넘겨진 A씨에게 무죄를 선고한 원심판결을 확정했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;영남대학교 교수로 재직하던 A씨는 2021년 4월 “2019년 6월 동료 교수 B씨가 회식을 마친 후 집까지 따라왔고, 완력으로 집안으로 들어와 강간했다”고 언론에 폭로했다. 2021년 5월에는 다른 기자와 인터뷰하며 “저는 강간 피해자입니다”라고 밝혔고, 2022년 5월에도 전화 인터뷰를 하며 피해 사실을 이야기했다. 2021년 5월에는 청와대 국민청원 사이트에 B씨로부터 강간을 당했다는 글을 게재하기도 했다.&lt;br&gt;&lt;br&gt;성폭행 혐의에 대해 경찰은 증거가 부족하다며 B씨를 불송치했다. 검찰 또한 불기소 처분했으며, A씨의 항고도 기각했다. 대구고법 역시 A씨의 재정신청을 받아들이지 않았다. 이후 A씨는 허위사실을 유포해 명예를 훼손한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 징역 8개월에 집행유예 2년을 선고했다. 재판부는 수사 결과를 토대로 A씨의 발언 및 게시글이 허위 사실이라고 판단했다.&lt;br&gt;&lt;br&gt;반면 2심은 무죄를 선고했다. 재판부는 “수사기관의 불기소 처분만으로 A씨가 강간당했다는 것이 허위 사실이라고 단정할 수는 없다”고 설명했다.&lt;br&gt;&lt;br&gt;대법원은 상고를 기각하고 원심을 확정했다. 대법원은 “원심의 판단에 논리와 경험의 법칙을 위반하여 자유심증주의의 한계를 벗어나거나 직권심판의무에 관한 법리를 오해한 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>확정일자 없어도 ‘상가 임차 현황서’ 발급…경매 때 권리 확인 쉬워진다</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/05/KHI3VBNFCNBOHMHYWZHFIQEGLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/KHI3VBNFCNBOHMHYWZHFIQEGLE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 00:24:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRTGKZBYMRRDAZTCMFSGGYTCMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경매에 넘어간 상가에서 임차인의 권리를 확인하는 핵심 서류인 ‘상가건물 임대차 현황서’ 발급 기준이 완화됐다. 임대차 계약서에 확정일자를 받지 않은 상가 임차인도 이 서류를 발급받고, 경매할 때 권리 주장을 쉽게 할 수 있게 됐다.&lt;br&gt;&lt;br&gt;대법원 법원행정처는 상가건물 임대차 현황서 발급 절차와 기재 방식을 개선하고 지난달 20일부터 전면 시행했다고 5일 밝혔다. 상가건물 임대차 현황서는 상가 임차인이 언제부터 사업자 등록을 하고 영업을 해왔는지, 또 보증금과 임차료는 얼마나 냈는지 등을 확인할 수 있는 서류다. 건물이 경매로 넘어갈 경우, 법원과 매수 희망자들은 이 서류를 통해 임차인이 새 건물주에게도 임차권을 주장할 수 있는지(대항력)를 판단한다. &lt;br&gt;&lt;br&gt;이전까지는 임대차 계약서에 확정일자를 받은 경우에만 세무서에서 현황서를 발급받을 수 있었다. 이 때문에 사업자 등록을 하고 실제 상가에서 영업 중인데도, 확정일자를 받지 않았다면 경매 절차에서 권리 신고나 배당 요구를 하는 데 불편을 겪는 경우가 있었다. &lt;br&gt;&lt;br&gt;현황서에 나오는 사업자 등록 정보 표기 방식도 바뀐다. 이전에는 임차인이 사업 내용을 변경해 ‘정정 신고’를 하면 현황서에 정정 신고한 날짜만 적히는 경우가 있어 처음 사업자 등록 신청을 한 날짜와 헷갈리는 문제가 있었다. 앞으로는 사업자 등록 신청일과 정정 신고일이 각각 표기된다. 이를 통해 임차인의 권리가 발생한 시점을 더 명확하게 확인할 수 있게 된다. &lt;br&gt;&lt;br&gt;법원행정처는 “소상공인 등이 임차한 상가가 경매에 넘어갈 경우 임차인이 권리 신고나 배당 요구를 더 쉽게 할 수 있고, 법원의 상가 경매 절차도 더 빠르게 진행될 것으로 기대된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>상설특검, 오늘 수사 종료 ‘관봉권 띠지’ 증거 못찾아</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/05/ERFQ2TAYVBEC3FWVFE2YVZX2FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/ERFQ2TAYVBEC3FWVFE2YVZX2FI/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>‘관봉권 띠지 분실’ 의혹과 ‘쿠팡 수사 외압’ 의혹 사건을 수사한 안권섭 상설특검팀이 ‘관봉권 띠지 분실’ 의혹 관련자들에 대해 불기소 방침인 것으로 4일 알려졌다. 작년 12월 출범한 특검팀은 90일간의 수사를 마치고 5일 오후 수사 결과를 발표한다.&lt;br&gt;&lt;br&gt;수사 소식통에 따르면, 특검팀은 지난해 더불어민주당이 제기한 ‘관봉권 띠지 고의 분실’ 의혹을 입증할 만한 증거를 확보하지 못했다고 한다. 앞서 2024년 12월 서울남부지검은 ‘건진법사’ 전성배씨 집을 압수 수색하면서 한국은행 띠지로 묶인 관봉권 5000만원을 발견했는데, 검찰이 압수물 보관 과정에서 지폐 검수 날짜, 처리 부서, 담당자 등이 적힌 띠지를 분실한 것이다. 당시 민주당은 “전씨가 윤석열 정부 대통령실과 국가정보원 등의 특수 활동비를 보관했고, 검찰 지휘부가 이런 사실이 드러나는 것을 막기 위해 띠지 폐기를 지시한 것 아니냐”는 의혹을 제기했고, 결국 특검 수사로 이어졌다.&lt;br&gt;&lt;br&gt;특검팀은 띠지 분실 당시 남부지검 지휘부에 있었던 신응석 전 남부지검장, 이희동 전 1차장검사, 전씨 수사를 담당했던 최재현 검사 등을 수사했다. 이들에게 직무 유기, 증거인멸 교사 등 혐의 적용을 검토했지만 의혹을 뒷받침할 증거를 찾지 못한 것으로 알려졌다. 대검찰청도 이미 지난해 10월 “실무자의 단순 과실로 띠지를 분실했다”는 자체 감찰 결과를 밝힌 바 있다.&lt;br&gt;&lt;br&gt;특검팀 내부에서는 이 사건을 무혐의 처분하는 대신 경찰로 넘겨 계속 수사하게 해야 한다는 의견도 있는 것으로 전해졌다. 차장검사 출신 변호사는 “90일간 수사하고도 증거를 찾지 못했다면, 사건을 경찰에 넘기는 것보다 특검이 결론을 내는 게 책임 있는 자세”라고 말했다.&lt;br&gt;&lt;br&gt;반면 특검팀은 ‘쿠팡 수사 외압’ 의혹 사건과 관련해선 지난달 27일 엄희준 전 인천지검 부천지청장과 김동희 전 부천지청 차장검사를 직권남용 등 혐의로 불구속 기소했다. 앞서 지난달 3일에는 엄성환 전 쿠팡풀필먼트서비스(CFS) 대표와 정종철 CFS 대표, CFS 법인 등을 근로자퇴직급여보장법(퇴직급여법) 위반 혐의로 재판에 넘겼다. 당시 부천지청 지휘부가 쿠팡의 퇴직금 미지급 사건 수사를 맡은 문지석 부장검사 등에게 압력을 행사해 무혐의 처분하도록 강요했다고 결론낸 것이다.&lt;br&gt;&lt;br&gt;한편, 특검팀은 최근 쿠팡 사건과 마찬가지로 ‘일용직 근로자의 퇴직금 지급 여부’가 쟁점인 재판에, 수사 과정에서 취득한 자료를 참고 자료로 제출한 사실이 알려져 논란이 일고 있다. 특검팀은 지난 1월 9일과 2월 3일 두 차례에 걸쳐 수원지검을 통해 수원지법 형사항소7부(재판장 김병수)에 참고 자료를 제출했다. 인력 공급업체 A사 대표의 퇴직급여법 위반 사건의 2심 재판인데, 특검 측이 쿠팡의 일용직 근로자 퇴직금 미지급 사건을 수사하면서 확보한 “A사가 퇴직금을 지급해야 한다”는 취지의 자료를 제출한 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 법조계에선 “특검이 공개되지 않은 경로로 다른 재판에 관여한 자체가 문제”라는 지적이 나온다. 한 법조인은 “특검이 향후 쿠팡 사건 재판에서 유리한 상황을 만들기 위해 유사한 사건 재판에 개입한 것으로 보인다”고 했다. 다만 이 재판부는 지난달 12일 검찰의 항소를 기각했다. 앞서 이 사건 1심은 작년 2월 A사 대표에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GY2WEMJVGZQTAMTEMRQTQYTCGM.jpg?auth=e6a09eb3d091894ce6dcbf02c9dc306c3d0e1149b84d83501cc3627f97208061&amp;smart=true&amp;width=2566&amp;height=1872" type="image/jpeg" height="1872" width="2566">
-        <media:description type="plain">관봉권·쿠팡 의혹 진상규명을 위한 안권섭 특검 현판. 2025.12.6 ⓒ 뉴스1 장수영 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">JANGSOOYEONG</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>신호 오면 바로, 일정 시각에… 성공하는 배변의 기술</title>
       <link>https://www.chosun.com/medical/2026/03/05/DHSOXQ5B4ZE2LNHPFQDBIMJCLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/05/DHSOXQ5B4ZE2LNHPFQDBIMJCLA/</guid>
@@ -814,19 +877,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘알바 원서’ 93장 낼 때 ‘일할 기회’ 준 건 0곳</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/05/NPFIYLR6X5FERCIIWTY7ESXFGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/NPFIYLR6X5FERCIIWTY7ESXFGI/</guid>
-      <dc:creator>김도연 기자, 윤성우 기자, 김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYGKMRXMY4DCMRZMFTDEM3FHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 가게에서 아르바이트생이 업무를 보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학 새내기 박모(20)씨는 최근 말로만 듣던 ‘알바(아르바이트) 고시’의 실상을 뼈저리게 느꼈다. 박씨는 카페·편의점·빵집 등 93곳에 지원서를 넣었지만 면접 기회를 준 곳은 10곳뿐이었다. 그마저도 면접 자리에서 “경력이 없다”며 모두 퇴짜를 맞았다. 이후 수십 번의 면접을 더 본 끝에 한 대형 프랜차이즈 패스트푸드점에 일자리를 구했다. 박씨는 “요즘은 처음부터 가르쳐야 하는 초짜는 뽑으려 하지 않더라”며 “수능 공부보다 알바 구하기가 더 힘들 줄 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;아르바이트는 20대 청년들의 ‘첫 홀로서기’ 관문이자 사회 진입의 징검다리로 꼽힌다. 그런 아르바이트 시장이 최근 얼어붙었다. 경기 불황이 몇 년간 이어져 자영업자들이 신규 채용을 줄인 데다, 취업 시장 진입에 실패한 20·30대들이 알바 전선에 뛰어들면서 사회 초년생들이 설 자리를 잃고 있다. 한때 아르바이트 자리는 누구나 원하면 할 수 있는 일자리로 꼽혔다. 하지만 이젠 알바 구직 전쟁이 벌어지면서 부모가 자녀의 자기소개서를 대신 써주고 일자리를 알아봐 주는 ‘대리 구직’ 현상도 나타나고 있다.&lt;br&gt;&lt;br&gt;국가데이터처에 따르면 지난달 기준 20대 임시·일용 근로자는 104만3000명이었다. 이는 코로나 여파가 몰아친 2021년 이후 가장 낮은 수준이다. 알바 채용 공고도 전년 동기와 비교해 19.6% 감소했다. 경기 불확실성이 지속되면서 점포 운영을 줄이거나 아예 장사를 접는 가게도 늘고 있다. 서울시의 상권분석서비스에 따르면 지난해 3분기 기준 생활밀접업종 점포 수는 51만6124개였다. 2년 전보다 2만개 넘게 줄어든 수치다. 2024년부터는 개업하는 점포보다 폐업하는 점포가 더 많은 상황이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDTM3VXXQNGC5BZW4W5OGVKVMQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;알바 공고에 지원자가 몰리면서 업주들은 ‘고스펙 경력직’을 골라 뽑고 있다. 인천에서 애견 카페를 하는 김모(28)씨는 “공고를 올리면 하루 만에 100명 넘게 몰리는데, 굳이 경험이 없고 군대도 다녀오지 않은 20대 초반 알바를 뽑을 이유가 없다”고 했다. 서울 마포구 홍대입구역의 한 햄버거집은 얼마 전 아르바이트 공고를 이틀간 냈는데 지원자가 40명 넘게 몰렸다고 한다. 이 가게 직원 A씨는 “지원자들 면접을 보는데 ‘휴학하는 1년간 이 가게에 뼈를 묻겠다’ ‘열심히 해서 정직원이 되고 싶다’고 하는 등 대기업 면접장을 방불케 했다”고 했다.&lt;br&gt;&lt;br&gt;하루 이틀만 일하고 일당을 받는 ‘단기 아르바이트’ 자리도 경쟁이 치열하다. 서울 서대문구에 사는 취업 준비생 고제민(27)씨는 얼마 전 인근 팝업스토어(임시 매장)가 철수하면 매장 철거와 자재 정리를 돕는 하루짜리 아르바이트를 하고 3만원을 받았다. 이 일자리도 공고가 올라온 지 10분 만에 마감됐다고 한다. &lt;br&gt;&lt;br&gt;일자리를 구하지 못한 청년들은 외부 활동을 끊는 경우도 적잖다. 고교 졸업생 김모(19)씨는 “왕복 2시간 거리의 공단 아르바이트까지 지원해 봤는데 떨어졌다”며 “돈이 없으니 친구들을 만나기 어려워 그냥 집에 처박혀 있다”고 했다. 세종시에 사는 전하성(19)씨는 “용돈이 부족해 사람 만날 기회가 줄어들고 있다”고 했다.&lt;br&gt;&lt;br&gt;류모(60)씨는 최근 대학생 딸의 아르바이트 자리를 알아보고 자기소개서 첨삭까지 했다고 한다. 류씨는 “딸에게 일해서 돈을 버는 게 얼마나 어려운 일인지 가르쳐주고 싶어도 일자리가 없으니 부모가 나설 수밖에 없는 것 아니겠느냐”고 했다. 맘카페 등 온라인 커뮤니티에는 ‘전역 예정인 아들의 아르바이트를 구한다’ ‘고졸 자녀를 위한 아르바이트 정보를 공유해 달라’는 부모들의 글이 잇달아 올라오고 있다.&lt;br&gt;&lt;br&gt;전문가들은 20대들이 일할 만한 일용직·임시직이 감소하는 흐름을 고용 시장의 ‘경고등’으로 해석하고 있다. 노민선 중소벤처기업연구원 박사는 “청년들이 노동시장 진입 단계에서 반복적으로 탈락을 경험하게 되면 장기적으로 구직 포기나 자발적 사회 단절로 이어질 위험이 크다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GUYGKMRXMY4DCMRZMFTDEM3FHE.jpg?auth=a578c4bd930a9e48b6e45b4c82392e3d95d8bb6114800ff87631ce2eb13670a8&amp;smart=true&amp;width=4832&amp;height=3481" type="image/jpeg" height="3481" width="4832">
-        <media:description type="plain">서울의 한 가게에서 아르바이트생이 업무를 보고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">Ungsu Shin</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“단수 후보 꽂으면 안돼”… 김경 한마디에 민주당 인사들 기자회견에 탄원서까지</title>
       <link>https://www.chosun.com/national/national_general/2026/03/05/OSXRCRKJ5RE4BJZ5YJM275ZY4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/OSXRCRKJ5RE4BJZ5YJM275ZY4U/</guid>
@@ -840,43 +890,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘여론조사 대납’ 첫 공판… 오세훈 “부탁한 적 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/05/4QRZE7DK2VGJRCPTWWVKPB23ZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/4QRZE7DK2VGJRCPTWWVKPB23ZE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>‘정치 브로커’ 명태균씨에게 여론조사를 의뢰하고, 그 비용을 다른 사람에게 대납하게 한 혐의(정치자금법 위반)로 기소된 오세훈 서울시장은 4일 서울중앙지법에서 열린 첫 공판 기일에 출석해 “여론조사를 부탁할 이유도, 부탁한 사실도 없다”며 혐의를 전면 부인했다. 오 시장과 함께 기소된 강철원 전 서울시 정무부시장과 여론조사 비용을 낸 사업가 김한정씨도 민중기 특검의 공소 사실을 부인했다.&lt;br&gt;&lt;br&gt;오 시장 등은 2021년 서울시장 보궐선거를 앞두고 명씨에게 부탁해 총 10차례에 걸쳐 여론조사를 진행하고, 그 비용 3300만원을 오 시장 후원자인 김한정씨가 대신 지불한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이날 재판에는 오 시장 관련 여론조사를 실시했던 여론조사 기관 미래한국연구소에 근무했던 강혜경씨가 증인으로 출석했다. 강씨는 여론조사가 진행된 과정에 대해 “명씨가 오 시장을 만나 ‘대통령이 되고 싶은지, 서울시장이 되고 싶은지 물었는데, 시장이 되고 싶다고 했다’고 들었다”며 “명씨가 ‘오 시장을 시장부터 만들어야 한다’고 해서 그를 위한 여론조사를 했다”고 증언했다. 이어 강씨는 “(명씨에게) 오 시장이 ‘나경원 의원을 이기는 여론조사가 필요하다’고 했다고 들어 오 시장과 나 의원과의 (지지율) 차이를 좁히는 조작을 했다”면서 “처음부터 이겨 버리면 너무 튄다고 해서 초반에는 격차만 줄이다가 나중에 이기도록 조작했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 오 시장은 법정에 들어가기 전 기자들을 만나 “재판과 선거 기간이 정확하게 일치한다. 공교롭게 그렇게 됐다고 넘기기엔 너무 의심이 가는 대목”이라고 했다. 특검이 6월 3일 치러지는 지방선거에서 오 시장에게 불리한 환경을 조성하려고 수사와 기소를 지연시킨 것 아니냐는 취지다.&lt;br&gt;&lt;br&gt;한편, 오 시장과 함께 서울시장 선거에 출마한 정원오 서울 성동구청장은 이날 구청장직을 사퇴했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강선우·김경 구속… 경찰, 대질조사 검토</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/05/7XIMCGPIXZBGFDRPWUC276PGFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/7XIMCGPIXZBGFDRPWUC276PGFA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>강선우(무소속·서울 강서갑) 의원과 김경 전 서울시의원이 ‘공천 헌금 1억원’ 사건으로 지난 3일 구속됐다. 지난해 12월 29일 강 의원이 2022년 제8회 지방선거를 앞두고 김씨에게 시의원 공천 대가로 1억원을 수수했다는 의혹이 언론 보도로 제기된 지 64일 만이다. &lt;br&gt;&lt;br&gt;서울중앙지법 이종록 영장전담 부장판사는 3일 강 의원과 김씨에 대한 영장실질심사를 진행한 뒤 “증거 인멸의 염려가 있다”며 이날 밤 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;이번 사건을 수사하는 서울경찰청 공공범죄수사대는 김씨가 강 의원뿐 아니라 다른 더불어민주당 의원들에게 ‘쪼개기 후원’을 했다는 의혹에 대한 수사도 본격화할 방침이다. &lt;br&gt;&lt;br&gt;경찰은 강 의원과 김씨의 진술 내용을 토대로 뇌물 혐의 적용도 검토 중인 것으로 알려졌다. 김씨가 건넨 금품을 뇌물로 처벌하려면 강 의원이 김씨 공천에 관여하고, 이런 행위가 국회의원의 직무에 해당돼야 한다.&lt;br&gt;&lt;br&gt;경찰은 강 의원과 김씨 간 대질 신문도 검토 중이다. 김씨는 “강 의원 측이 1억원과 쪼개기 후원을 먼저 요구했다”는 입장이지만, 강 의원은 “김씨가 먼저 돈을 건넸고 돌려받는 것을 피했다”고 주장하고 있기 때문이다. &lt;br&gt;&lt;br&gt;경찰은 공천 헌금 수수 등 13가지 비위 혐의로 수사를 받고 있는 김병기(서울 동작갑) 의원을 조만간 세 번째로 소환 조사한 뒤 구속영장 신청 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘임성근 사표 거부 의혹’ 김명수 前대법원장 무혐의 처분</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/05/6FENKGWUZVA3PG7Q6QF55PHOSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/6FENKGWUZVA3PG7Q6QF55PHOSU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>서울중앙지검 형사1부(부장 신도욱)가 지난달 25일 ‘부장판사 사표 수리 거부’ 의혹으로 고발된 김명수 전 대법원장을 ‘혐의 없음’ 처분한 것으로 4일 알려졌다. 김 전 원장이 직권남용권리행사방해, 허위 공문서 작성 및 행사 혐의로 2021년 2월 고발당한 지 약 5년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VALMU6SH5HQJN2Q4PMWLZJWQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 원장은 2020년 5월 임성근 당시 고법 부장판사가 건강상 이유로 사표를 내자 “지금 (더불어민주당이) 탄핵하자고 저렇게 설치고 있는데 내가 사표 수리했다고 하면 국회에서 무슨 이야기를 듣겠냐”며 사표 수리를 거부한 혐의를 받았다. 당시 민주당은 임 전 부장판사를 비롯한 ‘사법행정권 남용’ 의혹에 휘말려 기소됐다가 무죄를 선고받은 법관 등에 대한 국회 탄핵소추를 추진하고 있었다. &lt;br&gt;&lt;br&gt;이런 상황에서 민주당을 의식한 김 전 원장이 임 전 부장판사 사표를 거부했다는 의혹이 불거지자 김 전 원장은 “사실과 다르다”는 취지의 답변서를 국회에 보냈다. 그런데 이후 임 전 부장판사가 김 전 원장과 나눈 대화 녹취록을 공개하면서 김 전 원장의 해명이 거짓말로 드러났다. 녹취록이 공개되자 김 전 원장은 “불분명한 기억에 의존해 (실제 대화 내용과) 다르게 답변했다”고 해명했다. 거짓 답변을 할 의도는 없었다는 취지다.&lt;br&gt;&lt;br&gt;이후 국민의힘은 김 전 원장이 임 전 부장판사가 탄핵소추당하도록 사표 수리를 미루고, 국회에 거짓 답변서를 작성해 제출했다며 김 전 원장을 고발했다. 검찰은 2024년 8월 김 전 원장을 불러 조사했지만 1년 6개월 가까이 결론을 내지 못했다. 그러다 검찰이 최근 고발 약 5년 만에 불기소 처분을 한 것이다.&lt;br&gt;&lt;br&gt;검찰은 사건 당시 임 전 부장판사의 사직 의사가 확정적이지 않았던 상황인 만큼 김 전 원장이 이를 반려한 행위가 위법하지 않다고 판단한 것으로 알려졌다. 또 김 전 원장이 허위로 국회 답변서를 작성하려 했다는 고의도 없다고 봤다고 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 지하철 공사 중 장비가 도로 덮쳐… 3명 부상</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/05/RGSJA4KUAZFAXPSRTS6INUPT7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/RGSJA4KUAZFAXPSRTS6INUPT7Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LYPV3O6KBCURA2HNM62MMYSDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 9시쯤 대구 수성구 도시철도 2호선 만촌역 공사 현장에서 작업에 투입된 천공기가 쓰러졌다. 천공기는 땅이나 암반 등에 구멍을 뚫는 중장비다. 21m 높이의 천공기가 쓰러지면서 인근에 있던 택시 운전사 등 3명이 경상을 입었고 이 중 2명은 병원으로 이송됐다. 사고로 도로 통행이 통제되면서 출근길 교통 체증이 빚어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>액체 제품은 포장재 많이 써도 돼… 누더기 된 ‘택배 과대 포장’ 규제</title>
       <link>https://www.chosun.com/national/transport-environment/2026/03/05/EZJQZWNHF5FGRAEC4QEK35O5JA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/05/EZJQZWNHF5FGRAEC4QEK35O5JA/</guid>
@@ -886,16 +899,6 @@
       <content:encoded>다음 달 30일 택배 과대 포장 규제 시행을 앞두고, 정부가 예외를 대거 인정하기로 했다. 택배 포장은 물건 종류, 크기에 따라 달라지는데 이를 일률적으로 통제하려다가 정부 스스로 ‘누더기 규제’를 만들었다는 지적이 나온다.&lt;br&gt;&lt;br&gt;기후에너지환경부는 ‘제품의 포장 재질 및 포장 방법에 대한 간이 측정 방법 고시’ 개정안을 행정 예고한다고 4일 밝혔다. 택배 과대 포장 규제는 택배 상자 내 물건은 최대 한 번만 포장하고, 포장 공간 비율은 50%를 넘지 않도록 하는 것이다. 물건 포장을 줄이고, 택배 상자도 물건 크기와 되도록 맞는 것을 쓰라는 취지다. 규제 대상은 연 매출 500억원 이상인 제품 제조·수입·판매 업체다. 과태료는 1차 위반 시 100만원, 2차는 200만원, 3차 이상은 300만원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G55DIEBBARHW3N763PDA7UMZHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 개정안에서 예외 조항이 추가됐다. 예컨대, 유리·도자기·점토·액체·반(半)액체·녹는 제품의 경우 규제를 적용하지 않기로 했다. 깨지기 쉽거나 액체가 흘러나올 수 있는 제품은 포장재를 많이 써도 된다는 것이다. 2개 이상 제품을 함께 포장했거나 포장재를 재사용한 경우에도 규제를 적용하지 않기로 했다. 또 재생 원료를 20% 이상 사용한 비닐 포장재나 종이 완충재를 쓰면 택배 상자 안에 빈 공간을 각각 60%, 70%까지 인정해주기로 했다. 앞서 기존 고시에선 상자의 가로·세로·높이 합이 50㎝ 이하면 포장 공간 비율 규제를 적용하지 않았다. 작은 상자는 예외로 해준 것이다. 그런데 이번 개정 고시에선 물류업체가 자동 포장·이송 장비를 사용할 경우 60㎝ 이상일 때만 규제를 하는 것으로 좀 더 완화했다. ‘보냉재’를 포장 공간 비율에서 제외해주기로 했던 기존 예외 규정들은 그대로 유지된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>동풍의 변덕… 강원 영동에 2월 눈가뭄·3월 눈폭탄</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/05/Y5XPA3JFWFDDXPQEMS6AXPJ72M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/05/Y5XPA3JFWFDDXPQEMS6AXPJ72M/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>‘눈 가뭄’에 시달리던 강원 영동과 동해안 일대에 3월 들어 ‘눈 폭탄’이 쏟아지고 있다. 강원 태백만 해도 지난 2~3일 이틀 간 내린 눈이 2월 한 달간 적설량 보다 많았다. 5~6일에도 강원 일부 지역에 대설주의보(24시간 동안 적설량 5㎝ 이상)가 발효될 정도의 많은 눈이 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 메마름이 극에 달해 2월 내내 건조특보(실효습도 35% 이하)가 발효됐던 강원 영동에 이달 들어 큰 눈구름대가 들어온 것은 ‘동풍’의 영향으로 분석된다. 찬 동풍이 상대적으로 따뜻한 동해상을 통과하면서 눈구름대를 만들고, 이 눈구름대가 태백산맥을 넘지 못한 채 강원 영동과 동해안 일대에 많은 눈을 쏟아낸 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXMSS5DH35CRFCHZDOFFCOKK5Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2~3일 대설경보(24시간 동안 적설량 20㎝ 이상)가 내려졌던 태백의 경우, 이틀 간 25.4㎝의 눈이 쌓이면서 올 2월 한 달 간 내린 눈(15.8㎝) 보다 많은 양이 집중됐다. 3일 태백산 천제단에는 눈보라에 시야 대부분이 가려질 정도인 시간당 3~5㎝의 거센 눈발이 날렸다.&lt;br&gt;&lt;br&gt;우리나라 동쪽 지역은 보통 2월부터 눈이 내린다. 중국 북부 지방에 위치한 시베리아 고기압이 1월까진 북서풍 계열 바람을, 2월부턴 동풍 계열 바람을 보내기 때문이다. 그러나 최근에는 2월에 동풍이 자주 불지 않으면서, 동쪽 지역에 ‘2월 적설’이 눈에 띄게 줄고 있다. &lt;br&gt;&lt;br&gt;본지가 최근 3년간 태백에 설치된 자동 기상 관측 장비(AWS)의 2월 적설 기록을 살펴보니 2024년 29일 중 25일(86.2%)에 달했던 적설 일수가 작년은 28일 중 13일(46.4%), 올해는 단 5일(17.9%)로 크게 줄어든 것으로 나타났다. 거의 매일 오던 눈이 작년에는 이틀 중 하루, 올해는 5일 중 하루꼴로 내린 것이다. 눈이 줄어들면서 강원 영동과 동해안 일대는 빠르게 말라갔다. 정성자 태백산국립공원사무소장은 “작년에는 2월에 눈발이 자주 흩날리면서 하루 1㎝ 정도의 눈이 꾸준히 쌓였다면, 올해는 3월 초가 돼서야 2월에 내릴 눈이 한꺼번에 쏟아지고 있다”고 했다.&lt;br&gt;&lt;br&gt;동풍의 지각을 견인한 것은 올겨울 우리나라 북쪽 상공에 자주 형성된 절리저기압(북극에서 떨어져 나온 찬 공기 덩어리)의 영향으로 풀이된다. 절리저기압이 가림막 역할을 하면서, 찬 공기가 동쪽으로 이동하려는 흐름을 차단한 것이다. 이랬던 동풍이 3월부터 본격적으로 불기 시작하면서 눈구름대가 뒤늦게 강원 영동과 영남, 동해안 일대의 건조도를 낮추고 있다. 이 일대에 내려졌던 건조 특보도 3월 들어 모두 해제됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTSS4DR6INES7OBOFFQCPI4NWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭설 뚫고 백두대간 등반  폭설이 쏟아진 3일 등산객들이 강원도 평창과 강릉 경계에 있는 백두대간 선자령 등산로를 오르고 있다.
-/연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 밤에는 비구름대를 동반한 기압골이 우리나라 상공을 통과하면서 중부지방부터 비가 시작돼 6일 전국으로 비와 눈이 확대될 전망이다. 5~6일 예상 강수량은 중부지방 5~10㎜, 남부지방 5~15㎜, 제주도 5~20㎜로 예보됐다. 강원도는 비가 눈으로 바뀌어 내리며 1~8㎝의 눈이 쌓이겠다. 토요일인 7일에는 다시 동풍이 불면서 강원 동해안 일대에 눈이 내릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;일요일인 8일부터 14일까지는 전국에 큰 눈·비 소식 없이 맑은 날씨가 이어질 것으로 보인다. 기온도 아침엔 쌀쌀하지만, 한낮엔 포근한 초봄 수준을 유지하겠다. 다만 3월 중순 이후부터는 대기 불안정이 심해지면서 ‘꽃샘추위’와 함께 전국에 눈·비가 잦아질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>노동부는 아니랬는데… 금속노조 “임금도 원청 교섭 대상”</title>
       <link>https://www.chosun.com/national/labor/2026/03/05/6LRXL4KVGZDEXLKY4NTFWERMLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/05/6LRXL4KVGZDEXLKY4NTFWERMLU/</guid>
@@ -903,15 +906,6 @@
       <description/>
       <pubDate>Wed, 04 Mar 2026 15:46:00 +0000</pubDate>
       <content:encoded>오는 10일 노란봉투법(노동조합 및 노동관계조정법 2·3조개정안) 시행을 앞두고, 민주노총 산하 최대 조직인 금속노조가 하청 노조와 원청 업체가 교섭할 때 임금 인상을 요구하기로 방침을 정한 것으로 확인됐다. 고용노동부는 지난달 24일 확정한 노란봉투법 해석 지침에서 ‘원칙적으로 임금은 하청 노조와 원청 업체 간 교섭 의제가 아니다’라고 밝혔는데, 법 시행 전부터 이를 무력화하는 조치가 나온 것이다. &lt;br&gt;&lt;br&gt;민노총 금속노조는 지난 3일 정기 대의원 대회를 열고 이 같은 내용을 담은 ‘원청 교섭 공동 요구안’을 확정했다. 금속노조는 이날 “원청 교섭을 요구하는 하청 노조와 원청 노조가 함께 공통 투쟁하자”며 임금 인상, 업체 변경 시 고용 승계와 같은 고용 안정 등을 공동 요구안으로 정했다.&lt;br&gt;&lt;br&gt;정부가 노란봉투법을 추진할 때부터 ‘임금’이 원·하청 간 교섭 의제가 될 수 있는지에 대해 의견이 분분했다. 그러자 노동부는 최근 해석 지침에서 “임금은 근로자가 제공한 노동의 대가로, 계약 당사자인 하청 업체와 하청 노동자 사이에 결정하는 것”이라고 밝혔다. 하청 업체 노동자의 임금은 하청 업체와 논의해야 하며, 원청과 교섭할 내용이 아니라는 뜻이다. &lt;br&gt;&lt;br&gt;하지만 양대 노총은 최근 금속노조 방침처럼 원청 업체와의 교섭에서 임금을 주요 의제로 제시할 것으로 보인다. 한 노동계 관계자는 “하청 노동자의 처우를 개선하는 방법 중 핵심이 임금인데, 이를 제외하고 교섭을 얘기하는 건 말이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 양대 노총이 노동부가 지침에 둔 예외 규정을 근거로 임금 교섭에 나설 것으로 본다. 노동부는 지침에서 “(원청 업체가 하청 노동자의) 임금에 관해 실질적·구체적으로 결정했다고 볼 만한 사정이 있다면 교섭할 수 있다”고 했다. 원청이 하청 노동자의 임금과 성과급 등을 결정해 왔다고 주장하며, 사용자성 인정이 확정되지 않았어도 임금 교섭에 나설 가능성이 크다는 것이다.&lt;br&gt;&lt;br&gt;김희성 강원대 법학전문대학원 교수는 “하청 노조는 산업 안전 등 비교적 ‘사용자성’을 인정받기 쉬운 항목을 내세워 교섭 테이블을 차린 후에 임금까지 교섭하려 할 것으로 보인다”면서 “사용자가 이를 막기 어려운 구조라 결국 소송전이 난무할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>베트남서 한국 안와도 경북대 학위 딸 수 있다</title>
-      <link>https://www.chosun.com/national/education/2026/03/05/S6HOYEYLWJA7TO5WCDAZSANJJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/05/S6HOYEYLWJA7TO5WCDAZSANJJQ/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>앞으로 베트남 학생들이 한국에 오지 않고 베트남에서 경북대 학위를 따는 게 가능해진다. 국립대 최초로 해외에 ‘프랜차이즈 대학’이 생기는 것이다. &lt;br&gt;&lt;br&gt;교육부는 4일 경북대와 베트남 에프피티(FPT)대학교가 프랜차이즈 운영 양해각서(MOA)를 체결한다고 밝혔다. &lt;br&gt;&lt;br&gt;‘프랜차이즈 대학’은 해외 대학이나 기업이 한국 대학의 교육과정을 수입해 대학을 설립해 운영하는 방식이다. FPT대는 베트남 최대 IT 기업 FPT가 운영하는 대학으로, 앞으로 경북대의 교육과정을 수입해 ‘KNU(경북대) 베트남’을 설립하게 된다. 경북대는 프랜차이즈 기업의 본사처럼 교수 등을 베트남에 파견하고, 학생 선발과 학위 수여도 지원·관리한다. 매 학기 FPT로부터 교육 과정 수출에 대한 로열티를 받는다. &lt;br&gt;&lt;br&gt;경북대 베트남은 FPT가 소유한 건물을 캠퍼스로 삼아 올해 하반기부터 학생 모집을 시작할 계획이다. &lt;br&gt;&lt;br&gt;국립대가 해외에 ‘프랜차이즈 대학’을 설립하는 것은 이번이 처음이다. 사립대의 경우 아주대가 2021년 우즈베키스탄에 ‘타슈켄트 아주(AUT)’를 설립하는 등 10곳이 이런 형식으로 해외에 진출해 있다. &lt;br&gt;&lt;br&gt;지금껏 많은 한국 대학이 분교 설립을 통해 해외 진출을 시도했지만, 각종 규제와 현지 법인 설립 등 문제로 번번이 실패했다. 이에 교육부는 2024년에 고등교육법 시행령을 개정해 교육부 승인 없이도 대학들이 해외 대학과 자유롭게 협약을 체결하고 프랜차이즈 대학을 운영할 수 있도록 규제를 완화했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[인사] 이기정 대교협 신임 회장 취임 외</title>
