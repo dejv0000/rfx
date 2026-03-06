@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘마약 밀수 무혐의’ 세관원 고소에… 백해룡 “영혼까지 매수됐다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/06/MQNEANQILFGYTIUDSJOKJ5BW3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/MQNEANQILFGYTIUDSJOKJ5BW3M/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 14:09:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZWGM3EHBSDSNBXGVRDQMDBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검에 파견돼 '세관 마약수사 은폐 의혹'을 수사한 백해룡 경정이 지난 1월 오전 서울 송파구 동부지검에서 파견 종료 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세관 마약 밀수 연루 의혹에 휩싸였다 최근 무혐의 처분을 받은 세관원들이 해당 의혹 제기자인 백해룡 경정을 고소했다. 이에 백 경정은 “마약 게이트 연루자들은 이미 영혼까지 매수됐다”며 맞받아쳤다.&lt;br&gt;&lt;br&gt;6일 본지 취재를 종합하면, 전날 인천공항본부 세관원 3명은 피의사실 공표, 출판물에 의한 명예훼손 혐의로 백 경정에 대한 고소장을 서울중앙지검에 제출했다. 서울동부지검 검경 합동수사단(합수단)이 백 경정이 제기한 의혹을 모두 “사실무근”으로 결론 내린 지 약 일주일 만이다.&lt;br&gt;&lt;br&gt;앞서 백 경정은 서울 영등포경찰서 형사과장으로 있던 지난 2023년 말레이시아인 마약 운반책 3명에게서 ‘인천공항본부 세관원들이 마약 밀수 과정에서 도움을 줬다’는 취지의 진술을 확보하고 수사망을 넓혔다. 이후 그는 윤석열 정부와 검경 고위 간부들의 외압을 받았고, 서울 강서경찰서 화곡지구대장으로 좌천당했다고 주장해 왔다.&lt;br&gt;&lt;br&gt;작년 6월 서울동부지검에 꾸려진 합동수사팀은 그해 10월 이재명 대통령의 지시로 백 경정이 파견되면서 합수단으로 확대 개편됐다. 백 경정은 수사 과정에서 세관원들의 개인정보가 담긴 수사자료를 유출하거나, 임은정 동부지검장과 설전을 주고받는 등 논란이 일었다.&lt;br&gt;&lt;br&gt;지난달 26일 합수단은 “마약 밀수범의 허위 진술에 의존한 수사로 야기된 실체 없는 의혹”이라며 백 경정이 제기한 주장들을 모두 사실무근으로 판단했다.&lt;br&gt;&lt;br&gt;6일 백 경정은 자신의 페이스북을 통해 “마약 게이트 연루자들은 이미 영혼까지 매수됐다”며 “그들이 이제라도 개과천선해서 국가와 국민께 충성할 수 있을까? 그것은 어림없는 바람일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;한편 백 경정은 합수단 파견이 종료된 지난 1월 14일 서울 강서경찰서 화곡지구대장으로 복귀했다. 서울경찰청은 백 경정이 약 5000쪽 분량의 합수단 수사 기록을 유출한 것과 관련해 감찰을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 정진상 보석 조건 완화… “재판 영향 미칠 행동 금지”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/06/FTCK5WQNHNBUXGCWNLBP7OMVUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/FTCK5WQNHNBUXGCWNLBP7OMVUE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 12:56:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4DKMJWMVSWEODCGYYGEMJYGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진상 전 더불어민주당 대표실 정무조정실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동 민간 업자들에게 뇌물을 받은 혐의로 구속 재판을 받다가 보석(保釋)으로 풀려난 정진상 전 더불어민주당 대표실 정무조정실장의 보석 조건이 최근 완화된 것으로 나타났다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울중앙지법은 지난 4일 정 전 실장의 보석 조건을 ‘재판에 영향을 미칠 수 있는 행동을 하면 안 된다’는 취지의 내용으로 변경했다. 법원 관계자는 “당사자 신청에 따라 조건을 변경한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 법원은 2023년 4월 정 전 실장을 보석으로 풀어주면서 ‘대장동 사건 관련자들과 직접 또는 제3자를 통해 접촉하지 말 것’ ‘대장동 사건 관련 피의자·참고인·증인 등과 통화·문자·소셜미디어(SNS)로 연락하지 말 것’ 등의 조건을 달았다.&lt;br&gt;&lt;br&gt;이 조건은 ‘도망 또는 증거 인멸 행위를 해서는 안 되며, 특히 사건 관련자들에게 증언 또는 수사기관에서의 진술 번복, 법정 출석 거부, 증언 내용에 관해 강요하거나 부탁하는 행위 등 재판에 영향을 미칠 수 있는 언동을 해서는 안 된다’는 내용으로 바뀌었다. 이에 따라 정 전 실장은 재판에 영향을 주지 않는 범위에서는 관련자들과 연락하거나 만나는 것이 가능해졌다.&lt;br&gt;&lt;br&gt;법원은 또 정 전 실장에게 부과됐던 ‘자정 전 귀가 의무’와 ‘전자장치 부착’ 조건도 삭제했다.&lt;br&gt;&lt;br&gt;정 전 실장 측은 재판 과정에서 변호인을 통해 이재명 대통령(당시 민주당 대표)과 만날 수 있도록 보석 조건을 완화해 달라고 요청한 바 있다. 공동 피고인임에도 사건 관계인이라는 이유로 접촉을 제한하는 것은 방어권을 침해한다는 취지였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 홍대 레드로드 인근 공사 현장서 50대 근로자 사망</title>
       <link>https://www.chosun.com/national/national_general/2026/03/06/643CKCNNAJGUPK3PLBYPGS5KVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/643CKCNNAJGUPK3PLBYPGS5KVM/</guid>
@@ -888,16 +906,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QC3TKZKDPM66SUOBQTOABYNNHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 중학교에서 학생과 교직원들이 집단 식중독 의심 증세를 보여 지자체가 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;5일 부산시에 따르면, 지난 3일 오후 4시 40분쯤 부산 남구 한 중학교에서 학생과 교직원들이 구토와 설사 증세를 호소한다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이 학교에선 급식실 공사로 당일 외부 업체에서 공급받은 도시락을 점심으로 먹었다고 한다. &lt;br&gt;&lt;br&gt;이날 오후 2시 기준 증상을 호소하는 학생은 59명, 교직원은 6명이며, 중환자나 입원 환자는 없다.&lt;br&gt;&lt;br&gt;남구는 해당 음식을 수거해 부산시 보건환경연구원에 검사를 의뢰하고, 도시락 업체를 상대로 위생 점검을 진행했다. 정확한 원인 분석을 위해 학생들을 상대로 검체 검사도 진행했다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “최종 검사 결과와 감염 경로 확인까지는 약 1개월가량 소요될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 3월 6일 금요일 (음력 1월 18일 己卯)</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/05/E2I7QY5S4VBE3LYQS7P627RUIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/E2I7QY5S4VBE3LYQS7P627RUIY/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
       <title>전 세계에 단 1대, ‘이건희 포르쉐’ 경매</title>
       <link>https://www.chosun.com/national/national_general/2026/03/05/CTY4KIMDGVCLXBJOPVUBMAVGWI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/CTY4KIMDGVCLXBJOPVUBMAVGWI/</guid>
@@ -923,18 +931,6 @@
       <description/>
       <pubDate>Wed, 04 Mar 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVKHSFRRQFAS3BNWIQTYG6B47M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사원 김모(62) 씨는 아침에 직장에 도착해 갑자기 화장실에 가고 싶다는 느낌이 들었지만 “조금만 참자” 하고 넘겼다. 오전 회의가 끝난 뒤 화장실에 갔지만 이미 변의는 사라져 있었다. 이런 일이 자주 반복되자 그에게 변비가 생겼다. 이런 경우를 변의를 느끼는 감각이 둔해져 생기는 변비, 즉 변의 소실형 변비라고 한다. 고령자 변비의 절반 이상이 변의 소실형인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;많은 사람은 변비를 단순히 장 운동 문제로 생각한다. 그래서 섬유질을 먹고, 물을 많이 마시고, 운동을 한다. 물론 변비 예방을 위해 중요한 일이지만, 최근 연구는 변비는 ‘배변의 기술’에 달렸다고 강조한다. 본래 우리 몸은 매우 정교한 배변 시스템을 가지고 있다. 음식이 소화되면서 대장에서 변이 만들어지고, 그 변은 대장의 연동 운동으로 직장에 도달한다. 직장 벽의 감각 센서가 이를 감지하여 뇌에 “화장실 갈 때다”라는 신호를 보낸다. 이 신호가 변의(便意)다.&lt;br&gt;&lt;br&gt;문제는 이 신호를 자꾸 무시할 때 생긴다. 변의를 참고 시간을 보내면 직장에 있던 변은 다시 수분이 흡수된다. 그러면 변이 점점 단단해진다. 그것이 변의를 감지하는 센서가 둔해지는 것으로 이어진다. 결국 변이 직장까지 내려와도 “화장실 가야겠다”는 느낌이 사라지게 된다.&lt;br&gt;&lt;br&gt;따라서 이런 형태의 변비를 막으려면 배변의 기술이 필요하다. 배변 신호는 전화벨과 같다. 받지 않으면 결국 전화가 끊긴다. 그러니 변의를 참지 않고 바로 화장실로 직행하는 습관이 필요하다.&lt;br&gt;&lt;br&gt;또 다른 배변의 기술은 변의가 없어도 정해진 시각에 화장실에 가는 방법이다. 가장 좋은 타이밍은 아침 식사 후 30분이다. 이때 장에서는 위-결장 신경반사(gastrocolic reflex)가 일어난다. 음식이 위에 들어가면 대장이 크게 움직이며 배변을 촉진한다. 그러니 아침 식사를 충분히 하는 게 좋다. 매일 같은 시간에 화장실에 앉아 있는 것만으로도 장과 뇌가 배변 리듬을 학습하고 기억하고 상시 작동 체계를 만든다.&lt;br&gt;&lt;br&gt;화장실에 짧게 머물러 있는 기술을 펼쳐야 한다. 많은 사람이 변비가 있으면 화장실에서 오래 앉아 있다. 이는 좋은 방법이 아니다. 권장 시간은 3분 이내다. 자주 오래 배에 힘을 주고 있으면 혈압이 오르고, 치질 위험이 커진다. 화장실에서 오래 앉아 있다가 갑자기 일어나면 실신 위험까지 생긴다. 배변 기술의 핵심은 ‘규칙적이고 리듬감 있게 속전속결하는 것’이다.&lt;br&gt;&lt;br&gt;장이 좋아하는 음식을 챙기는 것도 배변 기술을 올린다. 권장 과일은 키위와 서양 살구 프룬이다. 매일 적정량을 먹으면 배변 횟수가 증가한다. 이 과일들은 수분 보유 능력이 좋고, 팽창력이 뛰어나 변을 부드럽게 만든다.&lt;br&gt;&lt;br&gt;배변 기술에 습관을 붙여야 한다. 매일 같은 시간에 화장실에 가고, 식사 후에 화장실에 가고, 변의를 참지 않고, 오래 힘주지 않고, 섬유질 음식을 섭취하고, 적당한 운동을 하는 습관을 2주 정도 유지하면 장이 규칙적인 배변 리듬을 만들어낸다. 그 리듬에 올라타면 변비는 내 몸에 머물 수 없다.&lt;br&gt;&lt;br&gt;배변은 장 건강의 핵심 기능이다. 배변이 원활하면 장내 미생물 균형이 이뤄져 면역 기능이 좋아진다. 삶의 질도 올라간다. 반대로 변비가 지속되면 복부 팽만, 식욕 저하, 집중력 감소까지 이어진다. 배변은 이제 기술이다. 배변은 대변을 몸 밖으로 내보내는 단순 생리 현상을 넘어, 장의 순환 체계를 유지하여 뇌를 활성화하는 기술이라는 점을 명심하자.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신장암 환자 10명 중 4명이 30~50대… 젊은이들에게 무슨 일이</title>
-      <link>https://www.chosun.com/medical/2026/03/05/FJGILLJORZFB7K4LD7KBBDHKIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/05/FJGILLJORZFB7K4LD7KBBDHKIY/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOUCTI6RTBBRFKXU5JX5FS66SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신장암 환자 증가 추세&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사원 박모(45) 씨는 건강검진에서 뜻밖의 진단을 받았다. 특별한 증상도 없었는데 복부 초음파 검사에서 오른쪽 신장에 3㎝ 크기의 종양이 발견된 것이다. 정밀 검사 결과는 초기 신장암. 다행히 로봇 수술로 종양만 제거했고 신장 기능도 그대로 보존할 수 있었다.&lt;br&gt;&lt;br&gt;신장암은 예전에는 비교적 드문 암으로 여겨졌다. 그러나 최근 10년 사이 환자 수가 두 배 증가했다. 2014년 2만2279명이던 환자 수가 2024년 4만5678명으로 늘었다. 경제 활동이 활발한 30~50대 환자가 전체의 약 44%를 차지한다. 대개의 암은 고령층에 많은데, 신장암은 상대적으로 젊은층 남성에게 많은 편이다. 신장은 하루 약 180리터의 혈액을 걸러내며 체내 노폐물을 제거하는 중요한 장기다. &lt;br&gt;&lt;br&gt;최근 신장암이 늘어난 이유는 크게 세 가지로 설명된다. 첫 번째는 건강검진의 확대다. 복부 초음파나 CT 검사가 널리 시행되면서 작은 신장 종양도 발견되는 일이 많아졌다. 실제로 신장암 환자의 절반 이상이 아무 증상이 없는 상태에서 발견된다.&lt;br&gt;&lt;br&gt;둘째는 비만과 대사질환 증가다. 체지방이 늘어나면 인슐린 저항성과 만성 염증 반응이 증가하고, 이것이 신장 세포의 암 발생 위험을 높이는 것으로 알려져 있다. 복부 비만이 심한 경우 위험이 더 커진다. 셋째는 흡연과 생활 습관 변화다. 흡연자는 비흡연자보다 신장암 위험이 1.5~2배 높다. 고염식, 가공식품 섭취 증가, 운동 부족 등도 신장 건강에 부담을 준다.&lt;br&gt;&lt;br&gt;신장암을 조기에 발견하는 가장 현실적인 방법은 복부 초음파 검사다. 특히 흡연자, 비만 또는 대사증후군 환자, 고혈압 환자, 가족 중 신장암 환자가 있는 경우 등에서는 40세 이후에는 건강검진 시 복부 초음파 검사를 받는 것이 좋다.&lt;br&gt;&lt;br&gt;변석수 분당서울대병원 비뇨의학과 교수는 “신장암이 조기에 발견되면 5년 생존율이 90% 이상으로 치료 성적은 좋다”며 “로봇 수술의 발달로 암이 있는 부분만 제거하고 나머지 신장을 보존하여 정상 신장 기능을 유지할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;신장암 예방을 위해서는 적절한 체중 유지와 규칙적인 운동이 중요하다. 담배를 끊는 것만으로도 발생 위험을 크게 낮출 수 있다. 고혈압은 신장 기능을 손상시키고 암 발생 위험을 높일 수 있으니, 혈압이 높은 사람은 적극적인 관리가 필요하다. 과도한 염분 섭취는 신장 부담을 증가시킨다. 충분한 수분 섭취는 신장 기능 유지에 도움이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IOUCTI6RTBBRFKXU5JX5FS66SU.jpg?auth=6ab2cedb2553b8a640b386411a87aa006d7104b84f2e76413b24814aecc4118c&amp;smart=true&amp;width=1488&amp;height=957" type="image/jpeg" height="957" width="1488">
-        <media:description type="plain">신장암 환자 증가 추세</media:description>
-      </media:content>
     </item>
     <item>
       <title>“단수 후보 꽂으면 안돼”… 김경 한마디에 민주당 인사들 기자회견에 탄원서까지</title>
