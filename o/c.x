@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 홍대 레드로드 인근 공사 현장서 50대 근로자 사망</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/06/643CKCNNAJGUPK3PLBYPGS5KVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/643CKCNNAJGUPK3PLBYPGS5KVM/</guid>
+      <dc:creator>강혜진 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 09:44:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QKNRK3L5JD75HD4NRZFWLXWTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 2시쯤 서울 마포구 홍대 레드로드 인근 식당 철거 현장에서 작업 중이던 50대 남성 인부가 사망하는 사고가 발생했다. /강혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 홍대 레드로드 인근 공사 현장에서 50대 인부가 건설 자재에 깔려 사망하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;6일 경찰과 소방 등에 따르면, 이날 오후 2시쯤 홍대 레드로드 인근에 위치한 한 식당 철거 현장에서 50대 남성 근로자 A씨가 건설 자재에 깔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;당시 건물 벽면을 지탱하던 2m 높이 시멘트 자재가 무너지면서 잔해물 청소 작업을 하던 A씨를 덮친 것으로 조사됐다. 이 사고로 머리를 다친 A씨는 심정지 상태로 인근 병원으로 이송됐지만 결국 숨졌다. 현장에는 A씨 외 다른 인부들도 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 산업안전보건법·중대재해처벌법 등 위반 여부와 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“경매로 집 사주겠다” 4050 알바생들에 수억원 뜯어낸 편의점 업주</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/06/7QV3LYVY35EG3JN4EDHFB4POJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/7QV3LYVY35EG3JN4EDHFB4POJE/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 09:37:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAWOATKFGWKBYAGURPN23GCLHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 여주지청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 운영하는 편의점에서 일하는 40~50대 여성 아르바이트생들을 상대로 “경매로 수익을 내 아파트를 살 수 있게 해주겠다”고 속여 수억 원을 가로챈 50대 업주가 구속돼 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 여주지청은 사기, 근로기준법 위반 혐의로 A씨를 구속 기소했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A씨는 2024년 7월부터 2025년 5월까지 자신이 운영하는 경기 여주시의 편의점 4곳에서 일하는 아르바이트생 40대 B씨 등 9명에게 “경매로 수익을 내서 아파트를 살 수 있게 해주겠다”고 속여 4억8000만원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 경매 경험이 없는데도 경매 전문가 행세를 하며 범행한 것으로 조사됐다. 그는 경매 법원, 은행장, 경찰 등과 연줄이 있는 것처럼 행세하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 또 2024년 9월부터 2025년 3월까지 B씨 등 아르바이트생 2명을 상대로 “편의점 폐기 임박 음식들을 대신 결제해 주면 대금을 갚겠다”라거나 “본사 지원금을 받으려면 돈을 내야 한다”고 속여 3800만원을 뜯어낸 혐의도 있다.&lt;br&gt;&lt;br&gt;그는 작년 4월부터 3개월간 아르바이트생 4명의 임금 1800만원을 지급하지 않은 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;검찰이 계좌 내역을 분석한 결과, A씨는 피해자들로부터 더 많은 돈을 뜯어내기 위해 피해금 중 일부를 수익 명목으로 다른 피해자들에게 지급하거나, 피해금으로 체불 임금을 지급하기도 했다. 검찰은 “전형적인 ‘돌려막기’ 방식으로 피해금을 사용한 사실을 확인했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 피해자들에게 피해 금액을 갚겠다고 약속한 뒤 연락을 끊거나 ‘고소를 취하하는 사람들부터 돈을 갚겠다’며 고소 취하를 종용하기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “일부 피해자들은 금융기관에 대출, 현금서비스를 받고 자녀들의 돌반지를 팔아가면서까지 피고인에게 투자해 막대한 이자를 부담하게 되고, 가족 관계가 파탄에 이르기도 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아내와 아내 직장 동료까지”… 공터서 벌어진 흉기 참극</title>
+      <link>https://www.chosun.com/national/2026/03/06/3NTT23PGMRCRJBPH5KPLA2FYAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/06/3NTT23PGMRCRJBPH5KPLA2FYAI/</guid>
+      <dc:creator>상주=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 09:58:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRGGZJWHEYGKMZWMY4TANJSGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 상주에서 50대 남편이 30대 아내와 아내의 직장 동료를 흉기로 찌르고 자해하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 6일 오전 10시 45분쯤 상주시 낙동면 분황리 한 공터에서 50대 A씨가 아내 30대 B씨와 아내의 직장 동료 30대 C씨에게 흉기를 휘둘렀다. 이후 A씨는 자해했다.&lt;br&gt;&lt;br&gt;이 사건으로 아내 B씨는 크게 다쳐 병원으로 옮겨졌으나 숨졌고, C씨는 중상을 입어 병원으로 옮겨졌다. A씨도 자해로 중상을 입어 병원으로 이송돼 치료 중이다. &lt;br&gt;&lt;br&gt;당시 남편 A씨는 C씨에게 차량으로 돌진한 뒤 흉기를 휘두른 것으로 알려졌다. 사건 현장에는 목격자 등이 있었으나, 대피해 추가 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “동기 등 정확한 사건 경위를 조사하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취 상태로 고속도로 진입… 가드레일 들이받은 경찰 간부</title>
+      <link>https://www.chosun.com/national/2026/03/06/3EOYCM7BQFCUDCELY2SQLFAXSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/06/3EOYCM7BQFCUDCELY2SQLFAXSI/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 09:19:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMFP4PHAMNBNRHLYFCQZAJDPQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 차를 몰고 고속도로에 진입하다 사고를 낸 경찰 간부가 입건됐다.&lt;br&gt;&lt;br&gt;경북경찰청 고속도로순찰대는 만취 상태에서 차를 몰고 고속도로에 진입하다가 교통사고를 낸 혐의(도로교통법 위반)로 영천경찰서 소속 A경감을 입건했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A경감은 지난달 27일 0시 15분쯤 만취한 상태로 차를 끌고 경부고속도로 경산요금소(TG)에 진입하다가 도로 옆 가드레일을 들이받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 일대를 지나던 견인차 운전기사와 운전자 등 많은 사람이 사고를 목격하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;음주 측정 결과 A경감의 혈중알코올농도는 면허 취소 수준. 경찰은 A경감을 직위 해제하고 추후 징계 수위를 결정할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노동부는 아니랬는데… 금속노조 “임금도 원청 교섭 대상”</title>
+      <link>https://www.chosun.com/national/labor/2026/03/05/6LRXL4KVGZDEXLKY4NTFWERMLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/05/6LRXL4KVGZDEXLKY4NTFWERMLU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 15:46:00 +0000</pubDate>
+      <content:encoded>오는 10일 노란봉투법(노동조합 및 노동관계조정법 2·3조개정안) 시행을 앞두고, 민주노총 산하 최대 조직인 금속노조가 하청 노조와 원청 업체가 교섭할 때 임금 인상을 요구하기로 방침을 정한 것으로 확인됐다. 고용노동부는 지난달 24일 확정한 노란봉투법 해석 지침에서 ‘원칙적으로 임금은 하청 노조와 원청 업체 간 교섭 의제가 아니다’라고 밝혔는데, 법 시행 전부터 이를 무력화하는 조치가 나온 것이다. &lt;br&gt;&lt;br&gt;민노총 금속노조는 지난 3일 정기 대의원 대회를 열고 이 같은 내용을 담은 ‘원청 교섭 공동 요구안’을 확정했다. 금속노조는 이날 “원청 교섭을 요구하는 하청 노조와 원청 노조가 함께 공동 투쟁하자”며 임금 인상, 업체 변경 시 고용 승계와 같은 고용 안정 등을 공동 요구안으로 정했다.&lt;br&gt;&lt;br&gt;정부가 노란봉투법을 추진할 때부터 ‘임금’이 원·하청 간 교섭 의제가 될 수 있는지에 대해 의견이 분분했다. 그러자 노동부는 최근 해석 지침에서 “임금은 근로자가 제공한 노동의 대가로, 계약 당사자인 하청 업체와 하청 노동자 사이에 결정하는 것”이라고 밝혔다. 하청 업체 노동자의 임금은 하청 업체와 논의해야 하며, 원청과 교섭할 내용이 아니라는 뜻이다. &lt;br&gt;&lt;br&gt;하지만 양대 노총은 최근 금속노조 방침처럼 원청 업체와의 교섭에서 임금을 주요 의제로 제시할 것으로 보인다. 한 노동계 관계자는 “하청 노동자의 처우를 개선하는 방법 중 핵심이 임금인데, 이를 제외하고 교섭을 얘기하는 건 말이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 양대 노총이 노동부가 지침에 둔 예외 규정을 근거로 임금 교섭에 나설 것으로 본다. 노동부는 지침에서 “(원청 업체가 하청 노동자의) 임금에 관해 실질적·구체적으로 결정했다고 볼 만한 사정이 있다면 교섭할 수 있다”고 했다. 원청이 하청 노동자의 임금과 성과급 등을 결정해 왔다고 주장하며, 사용자성 인정이 확정되지 않았어도 임금 교섭에 나설 가능성이 크다는 것이다.&lt;br&gt;&lt;br&gt;김희성 강원대 법학전문대학원 교수는 “하청 노조는 산업 안전 등 비교적 ‘사용자성’을 인정받기 쉬운 항목을 내세워 교섭 테이블을 차린 후에 임금까지 교섭하려 할 것으로 보인다”면서 “사용자가 이를 막기 어려운 구조라 결국 소송전이 난무할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화성 동탄서 또 ‘보복 테러’… 경찰, 20대 여성 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/06/RCCO5V42QBGBLOOL7F3524KALE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/RCCO5V42QBGBLOOL7F3524KALE/</guid>
+      <dc:creator>화성=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 09:14:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3D5NF3N5EBAJTHNWNKMIETEXAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화성동탄경찰서 전경./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 타인의 집 현관문에 오물을 뿌리는 등 ‘사적 보복 테러’가 잇따르는 가운데 경기 화성 동탄에서 또다시 ‘보복 테러’가 발생했다.&lt;br&gt;&lt;br&gt;화성동탄경찰서는 재물손괴, 주거침입, 명예훼손 혐의로 20대 여성 A씨를 긴급 체포했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 오후 8시 30분쯤 화성시 동탄신도시의 한 아파트 4층 세대 현관문에 붉은색 래커칠을 하고 음식물 쓰레기를 투척한 혐의를 받고 있다. 그는 또 피해자와 관련한 허위 사실이 담긴 유인물 30여 장을 곳곳에 뿌린 혐의도 있다. &lt;br&gt;&lt;br&gt;수사에 나선 경찰은 이날 오후 4시 18분쯤 대구시 주거지에 있던 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;그는 경찰에 “텔레그램을 통해 알게 된 사람의 지시를 받고 범행을 했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현재 경찰은 A씨를 대구에서 압송 중이다. &lt;br&gt;&lt;br&gt;앞서 지난달 22일 화성 동탄신도시에선 아파트 현관문에 음식물 쓰레기와 인분을 뿌리고 빨간색 래커칠을 한 20대가 검거됐다. 현관문 주변에는 그 집에 사는 주민을 비방하는 전단 40여 장이 발견됐다. &lt;br&gt;&lt;br&gt;군포에선 지난달 24일 오후 11시 30분쯤 20대 남성이 다세대주택에 침입해 현관문에 빨간색 래커칠을 했다. ‘가만두지 않겠다’는 내용의 전단 10여 장도 붙였다. &lt;br&gt;&lt;br&gt;이들 모두 “텔레그램을 통해 알게 된 누군가로부터 가상화폐를 대가로 지시를 받아 범행을 했다”고 진술했다. &lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 조사를 진행함과 동시에 이들 사건의 연관성 등에 대해서도 살펴볼 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보령 앞바다서 8명 탄 어선 침몰… 선원 7명 구조, 선장 수색 중</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/06/TUA2C5ICAFFLRG2DNFU6TDXYO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/06/TUA2C5ICAFFLRG2DNFU6TDXYO4/</guid>
+      <dc:creator>보령=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 08:38:02 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3C3QRF5V356QJOND54QR5BDULI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보령해양경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 보령 앞바다에서 8명이 탄 어선 1척이 침몰해 7명이 구조됐다. 해경은 남은 1명에 대한 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;6일 보령해양경찰서에 따르면 이날 오후 3시 55분쯤 보령시 오천면 소화사도 인근 해상에서 69t 어선이 침몰하고 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;당시 어선에는 총 8명이 타고 있었고, 선장 A(60대)씨가 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;보령해경은 함정과 구조대 등을 급파해 선원 7명(한국인 1명, 외국인 6명)을 구조했다.&lt;br&gt;&lt;br&gt;침몰 상황을 신고한 선장 A씨에 대해서는 해경이 수색 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;해경은 구조 작업을 마치는 대로 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹측, ‘내란특검법’ 헌법소원 청구... 법원 위헌심판 신청 기각에 불복</title>
       <link>https://www.chosun.com/national/court_law/2026/03/06/KSVRZGD36FDYLDCPY7CCHW7ULQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/KSVRZGD36FDYLDCPY7CCHW7ULQ/</guid>
@@ -844,60 +907,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKA7PZ4FEZG6VNKYFMQYBP3BDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 이건희 삼성그룹 선대회장이 보유했던 포르쉐 ‘루프(RUF) 928R’ 모델이 경매에 오른다. /구딩앤컴퍼니 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 이건희 삼성그룹 선대회장을 위해 만든 단 한 대의 포르쉐 차량이 경매에 오른다.&lt;br&gt;&lt;br&gt;미국 경매 전문 업체 구딩앤컴퍼니는 5일(현지 시각)과 6일 플로리다주(州) 아멜리아 아일랜드에서 열리는 경매에 포르쉐 ‘루프(RUF) 928R’ 모델이 출품된다고 밝혔다. 예상 낙찰가는 최소 40만달러(약 5억8600만원)에서 최대 50만달러(약 7억3000만원) 정도로 제시됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYQCDNIUIJEHDIJHVKUSP7KIZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포르쉐 루프 928R 차량 내부와 엔진룸. /구딩앤컴퍼니 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;루프 928R은 전 세계에서 단 한 대만 존재하는 원오프(One-off) 모델이다. 독일의 포르쉐 전문 튜닝 제조사 루프가 1989년 이 선대회장을 위해 특별 제작했다. 단순히 기존 포르쉐 928의 부품을 교체하는 수준을 넘어, 도색되지 않은 차체 상태에서부터 직접 제작 공정을 거쳤다. 엔진룸 내부엔 이 선대회장의 이름이 새겨진 전용 명판이 부착돼 있다.&lt;br&gt;&lt;br&gt;외관 색은 블랙이며 내부는 와인레드 가죽과 알칸타라 소재의 스티어링 휠이 조화를 이룬다. 1980년대 후반 특유의 클래식함을 극대화한 디자인이다. 성능 역시 압도적인데, 재설계된 5.0리터 V8 엔진 덕분에 최고 출력 360마력과 최대 토크 354lb-ft를 발휘할 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MHIYC54KNE5DF537OQ7K62CAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포르쉐 루프 928R 차량 외관. /구딩앤컴퍼니 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여기에 19인치 루프 전용 휠, 카본 세라믹 브레이크 시스템, 업그레이드된 배기 장치 등 현대적인 기술력도 더해졌다. 주행거리는 약 2560㎞(1568마일)에 불과해 신차급 상태다.&lt;br&gt;&lt;br&gt;차량은 오랜 기간 ‘삼성 컬렉션’ 핵심 자산으로 보관돼 왔다. 그러다 최근 루프사가 재매입해 2021년 파펜하우젠 본사에서 정밀 복원 작업을 마쳤다. 생전 부가티, 페라리, 람보르기니 등 많은 수퍼카를 수집하며 자동차 기술에 깊은 관심을 보였던 이 선대회장의 취향이 고스란히 반영됐다는 평가가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부상 복귀 임성재 “장기 휴식 경험 새로워…우승보단 꾸준히 골프하는 게 목표”</title>
-      <link>https://www.chosun.com/national/people/2026/03/05/RHDWVIOZOBGP5MH2ICJW4O3NVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/05/RHDWVIOZOBGP5MH2ICJW4O3NVE/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 05:46:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNQWN7MQHRF6ZPY3S2WUWAH3MQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;임성재가 5일 화상 인터뷰에서 발언하고 있다. /PGA 투어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오른 손목 부상 때문에 뒤늦게 시즌을 시작하는 임성재(28)가 5일 “프로 생활 10년 만에 처음으로 길게 쉬면서 새로운 경험을 했다”며 “여러 면에서 손해를 보고 시작하지만 무리하지 않고 차근차근 컨디션을 끌어올리겠다”고 말했다. &lt;br&gt;&lt;br&gt;임성재는 이날 밤 미국 플로리다주 올랜도 베이힐 골프&amp;amp;로지(파72)에서 개막하는 PGA(미 프로골프) 투어 아널드 파머 인비테이셔널 대회 출전을 앞두고 한국 취재진과 화상 기자회견을 진행했다. &lt;br&gt;&lt;br&gt;그는 지난해 말 오른쪽 손목에 염증이 생겨 통증을 느낀 이후 최근까지 치료와 재활을 받아왔다. 올 시즌 PGA 투어 대회를 7개 건너 뛰었고, 이날 시즌 첫 대회에 나선다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6EXFFED2MTOFEQBRRKPCB5E5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 제네시스 챔피언십에 출전한 임성재. /KPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘100% 컨디션’은 아니라는 그는 “아프지는 않지만 부상 느낌이 아직 남아 있다. 뻐근하긴 한데 경기를 못할 정도는 아니다”라며 “연습하면서 나아지는 느낌이 있어 지난 주부터 샷 연습을 했다”고 말했다. &lt;br&gt;&lt;br&gt;임성재는 부상 때문에 장기 휴식을 취한 게 처음이라고 한다. 그는 “한 달 반 정도 쉬면서 골프채를 잡지 않았고, 골프 생각을 하지 않고 힐링을 했다”며 “(프로 생활) 10년간 이렇게 쉰 적이 없어 새로운 경험을 했다”고 말했다. &lt;br&gt;&lt;br&gt;그는 “시즌을 2개월 쉬어서 포인트 등 부분에서 손해를 보고 시작하지만, 아직 시그니처 대회와 메이저 대회가 다수 남아 있어 늦었다고 생각하지 않는다”며 “무리하지 않겠다. 조급하게 생각하지 않으려고 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBH7QQHVO33SC536R3WLKW45DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 혼다 클래식 우승 트로피를 들고 있는 임성재. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 인터뷰에선 ‘우승 가뭄’에 대한 질문이 많이 나왔다. 임성재는 2020년과 2021년 각각 한 차례 우승한 뒤 약 5년간 우승을 추가하지 못하고 있다.&lt;br&gt;&lt;br&gt;임성재는 “매년 우승을 목표로 하지만 쉽지는 않다”며 “우승이 없어도 꾸준하게 골프를 치는 게 나의 목표”라고 말했다. &lt;br&gt;&lt;br&gt;그는 “한 번 하기도 어려운 우승을 두 번 했기 때문에 만족한다”고도 했다. “당연히 우승을 추가하면 좋겠지만 지난 7년간 꾸준한 성적을 내왔던 게 오히려 더 마음에 든다”며 “우승하면 좋지만 그게 다가 아니다”라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “우승보다 컷을 어렵게 통과한 뒤에 3~4라운드에서 톱10, 톱5 성적을 달성한 것에 더 희열을 느꼈다. 꾸준히 20위 안에 들어 (시즌 마지막에) 투어 챔피언십에 나가는 게 기분이 좋다”고 했다. &lt;br&gt;&lt;br&gt;실제로 그는 PGA 투어에 데뷔한 2019년부터 지난해까지 7년 연속으로 왕중왕전 성격의 대회 투어 챔피언십 출전을 이어왔다. 임성재는 “꾸준히 상위권 성적을 내면서 가능했던 일”이라며 “이런 커리어가 마음에 든다. 뿌듯하다”고 했다.&lt;br&gt;&lt;br&gt;임성재는 “우승을 많이 하고 투어 챔피언십에 못 나가면 꾸준하게 못 했다는 뜻”이라며 “올해 시즌 시작이 늦지만 금방 따라잡을 수 있다. 그간의 내 성적을 보면, 감을 잡으면 포인트를 따 투어 챔피언십에 또 나갈 수 있을 것”이라고 말해 8년 연속 출전의 자신감을 보였다. &lt;br&gt;&lt;br&gt;임성재는 “부상이 오래가지 않아서 다행”이라며 “다음 달 마스터스를 포함해 메이저 대회에서 좋은 성적을 내고 싶다. 올해 후회 없이 플레이할 것”이라고 각오를 다졌다. &lt;br&gt;&lt;br&gt;임성재의 시즌 첫 경기는 6일 새벽 2시 15분에 시작한다. 그는 1라운드에서 샘 번스(미국)와 조를 이뤘다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>상설특검 90일 활동 종료… 쿠팡은 5명 기소·관봉권은 ‘윗선 외압’ 의혹 규명 못 해</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/05/PANMEBZYD5HTBNQQYEASZOPAXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/05/PANMEBZYD5HTBNQQYEASZOPAXU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 05:05:40 +0000</pubDate>
-      <content:encoded>‘관봉권 띠지 분실’ 의혹과 ‘쿠팡 수사 외압’ 의혹을 수사해 온 안권섭 상설특검팀이 5일 최종 수사 결과를 발표했다. 지난해 12월 수사를 시작한 특검은 이날로 90일간의 수사를 마쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DSZRWGM2DAMJUHBRGEZBSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안권섭 상설특검팀. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 ‘쿠팡 수사 외압’ 의혹과 관련해 엄희준 전 인천지검 부천지청장과 김동희 전 부천지청 차장검사를 직권남용 등 혐의로 불구속 기소했다. 엄성환 전 쿠팡풀필먼트서비스(CFS) 대표 등 쿠팡 관계자들도 재판에 넘겨, 이 사건으로 총 5명을 기소했다. &lt;br&gt;&lt;br&gt;반면 ‘관봉권 띠지 분실’ 의혹에 관해 특검은 검찰이 띠지를 고의로 분실했다는 점을 입증할 증거를 찾지 못했다. 특검은 관련자들을 기소하지 않고 사건을 검찰에 넘기기로 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 쿠팡 사건, 부천지청 지휘부 재판행… “수사 압력 있었다” 결론&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 특검은 인천지검 부천지청 지휘부가 쿠팡CFS의 퇴직금 미지급 사건을 무혐의 처분하도록 외압을 행사했다는 의혹을 밝히기 위해 출범했다. 퇴직금 미지급 사건은 쿠팡CFS가 2023년 5월 일용직 근로자들에게 불리하게 취업 규칙을 변경해 퇴직금을 체불했다는 내용이다.&lt;br&gt;&lt;br&gt;이 사건을 수사한 인천지검 부천지청은 지난해 4월 쿠팡CFS에 혐의가 없다고 보고 불기소 처분했다. 이후 그해 10월 당시 사건을 담당했던 문지석 부장검사가 국정감사에서 “쿠팡 사건을 무혐의 하라는 지휘부의 압력이 있었다”고 폭로하면서 특검 수사로 이어졌다.&lt;br&gt;&lt;br&gt;특검은 쿠팡CFS가 취업규칙을 변경해 퇴직금을 지급하는 것이 범죄 혐의로 이어질 수 있다고 판단해 지난달 3일 엄성환 전 쿠팡CFS 대표와 정종철 CFS 대표, CFS 법인 등을 근로자퇴직급여보장법(퇴직급여법) 위반 혐의로 기소했다. 앞서 쿠팡CFS에 혐의가 없다고 본 부천지청의 판단을 뒤집은 것이다.&lt;br&gt;&lt;br&gt;또 엄 전 지청장과 김 전 차장검사를 직권남용 등 혐의로 지난달 27일 불구속 기소했다. 특검은 “쿠팡 퇴직금 미지급 사건의 주임검사인 신가현 검사가 사건을 대검찰청에 보고하는 과정에서, 문 부장검사를 배제하도록 두 사람이 지시한 사실이 밝혀졌다”고 했다. &lt;br&gt;&lt;br&gt;한편 특검은 엄 전 지청장과 김 전 차장검사가 쿠팡에서 사건을 무마해 달라는 청탁을 받았다는 증거는 확보하지 못했다. 특검은 압수수색을 통해 두 사람이 쿠팡 측 변호인들과 여러 번 연락을 주고받는 등 의심할 만한 자료를 다수 확보했다면서도, 쿠팡 측과 유착 관계였다는 객관적 증거를 확인하지 못했다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇관봉권 사건은 검찰 윗선 은폐 지시·외압 못 밝혀&lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 ‘관봉권 띠지 분실’ 의혹과 관련해서는 검찰 윗선이 띠지를 없애라고 외압을 행사했거나 은폐를 지시한 내용을 입증하지 못했다고 밝혔다. 특검은 추가 수사가 필요하다며 관할 지방검찰청으로 사건을 이첩하기로 했다.&lt;br&gt;&lt;br&gt;이 사건은 2024년 12월 서울남부지검이 ‘건진 법사’ 전성배씨 자택을 압수수색하는 과정에서 확보한 관봉권 5000만원을 보관하던 중, 지폐 검수 날짜와 처리 부서, 담당자 등이 적힌 띠지가 분실됐다는 의혹이다. 더불어민주당은 당시 검찰 지휘부가 전씨와 윤석열 정부의 관계가 드러나는 것을 막기 위해 띠지 폐기를 지시했을 가능성을 제기해 왔다.&lt;br&gt;&lt;br&gt;그러나 특검은 이를 입증할 만한 증거를 확보하지 못했다고 밝혔다. 특검은 당시 남부지검 지휘부였던 이희동 전 1차장검사, 박건욱 전 부장검사, 사건을 담당했던 최재현 검사 등에 대해 직무유기나 증거인멸 교사 혐의를 적용할 수 있는지 검토했지만, 결국 혐의를 입증하지 못했다.&lt;br&gt;&lt;br&gt;특검은 압수한 관봉권을 보관하는 과정에서 주임검사실 측이 목록을 부실하게 기재했고, 압수물 인수 과정에서의 확인 미흡 및 소통 착오 등 업무상 과오로 인해 띠지가 분실됐다고 판단했다. 특검 관계자는 “윗선의 폐기·은폐 지시 의혹 부분은 의심을 넘어 사실로 인정할 만한 객관적 정황은 확인되지 않았다”면서 “업무상 과오이지 형사 처벌 대상은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;다만 이러한 관리 부실로 인해 관봉권 포장에 남아있을 수 있었던 지문 등을 파악할 수 없어 자금의 출처를 추적할 수 없게 돼 수사가 어렵게 됐다고 지적했다. 또 검찰의 압수물 관리 부실과 보고 지연 등 검찰 내부의 기강 해이를 확인했다고 했다. 특검은 “형사 사법의 중추 중 하나인 검찰 업무에 대한 심각한 국민적 불신이 야기됐으므로 비위 행위자들에 대한 징계 사유를 통보할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“2년 계획이 2주 만에”... 직장인 글 하나로 보육원 도서관 짓게 된 사연</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/05/D7FVANWRVJEKNBVKGAMB3TZS2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/D7FVANWRVJEKNBVKGAMB3TZS2A/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 05:38:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZKPIAPS3JBOVONUD2RS7QZYFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;직장인들의 기부 인증 댓글. /블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“2년은 걸리겠다 생각한 목표액이 글 하나로 2주 만에 다 모였어요. 기적 같죠.”&lt;br&gt;&lt;br&gt;지난 1월 말 SK하이닉스가 역대 최대 실적을 기록하며 직원 1인당 평균 1억원이 넘는 성과급을 지급하게 된 상황에서, 직장인 온라인 커뮤니티 ‘블라인드’에 올라온 한 직원의 기부 글이 온라인을 달궜다. “오늘 돈 좀 쓰고 왔다”고 운을 뗀 글엔 세종시 영명보육원에 먹을거리를 잔뜩 기부하고 왔다는 ‘돈 자랑’이 담겨 있었다.&lt;br&gt;&lt;br&gt;글이 화제를 모으자, 이 직원은 다시 글을 올려 30만원 기부 내역과 함께 커뮤니티를 이용하는 직장인들에게 기부를 독려했다. 그러자 하이닉스 직원의 기부 인증에 울림을 받은 다른 직장인들이 너도나도 기부를 하기 시작했고, 그 금액은 단 2주 만에 3000만원을 넘겼다. 당초 보육원은 아이들에게 도서관을 지어주기 위해 2년을 잡고 모금을 시작했는데, 직장인 커뮤니티 글 하나로 훨씬 이른 시점에 목표액에 도달한 것이다. 보육원 원장은 “기적 같다”며 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;5일 영명보육원에 따르면, 보육원은 오는 5월 도서관 개장을 목표로 다음 달부터 리모델링 공사에 들어갈 계획이다.&lt;br&gt;&lt;br&gt;당초 내후년 목표로 예정됐던 공사가 앞당겨질 수 있었던 건 도서관 리모델링을 위한 기부금 모금이 빨리 이뤄졌기 때문이다. 그 배경에는 SK하이닉스 직원이 블라인드에 올린 글의 영향이 컸다. 이 직원이 직장인들에게 기부를 독려하는 글을 올린 이후 단 2주 만에 3000만원 이상의 기부금이 모였다. 그렇게 목표액 4000만원을 달성해 올해 리모델링 공사를 진행할 수 있게 됐다.&lt;br&gt;&lt;br&gt;목표액의 마지막을 장식한 건 한성숙 중소벤처기업부 장관이다. 지난 9일 설 명절을 앞두고 영명보육원에 방문했다가, 4000만원까지 단 300만원이 남았다는 이야기를 듣고 즉시 나머지 금액을 쾌척한 것이다. 한 장관은 작년 추석부터 영명보육원을 후원해 온 바 있다.&lt;br&gt;&lt;br&gt;영명보육원이 도서관 리모델링을 계획한 건 아이들이 책을 읽고 공부할 공간이 마땅치 않았기 때문이다. 아이들이 학업보다는 휴대전화를 보고 있을 수밖에 없는 환경에 놓인 걸 보고, 도서관을 만들어 줘야겠다고 결심했다고 한다.&lt;br&gt;&lt;br&gt;보육원 측은 이 일이 “기적 같다”고 한다. 이관희 영명보육원 원장은 조선닷컴 통화에서 “원래 기부금이 모이던 속도대로라면 2년은 족히 걸릴 것으로 예상하고 있었는데, 2주 만에 모금액이 다 모여서 너무 놀라고 기뻤다”며 “글 하나가 이렇게 큰 효과를 불러올 수 있다는 걸 알게 됐다”고 했다. 그러면서 “현재 도서관을 어떤 형태로 만들지 아이들 의견을 들어 보고 있는 중”이라며 “아이들도 너무 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;이 원장은 보육원 홈페이지 공지를 통해 기부자들에게 감사 인사를 전한 상태다. 이 원장은 “작은 불씨가 큰 기적을 만들었다”며 “이렇게 빨리 달성된 상황이 아이들을 포함한 원내 선생님들도 놀랍고, 이것은 기적에 가깝다고 입을 모아 고마워하고 있다”고 했다. 그러면서 “봄이 되면 공사를 시작해 5월 5일 어린이날에는 예쁘고 소박한 도서관을 아이들에게 선물할 생각을 하니 벌써부터 마음이 설렌다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “아름다운 기적을 만들어 주신 SK하이닉스 직원분을 비롯한 많은 후원자분, 특히 마지막 마무리를 멋지게 장식해 주신 중소벤처기업부 한성숙 장관님, 고맙고 감사하다”며 “후원자분들의 소중한 마음을 아이들과 함께 오래도록 간직하고 아이들이 더 밝고 명랑하게 자랄 수 있도록 정성껏 보살피겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘하반신 시체 187건’ 허위영상·‘해외주식 양도세 상향’ 가짜 담화문…경찰, 30대 2명 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/05/LMX4HYKQQVBYTBVKGVLXPD4WKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/LMX4HYKQQVBYTBVKGVLXPD4WKY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 04:52:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43DOY3FMI4WIMTBGRSGCMDGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령 명의의 가짜 대국민 담화문을 만들어 유포하거나, 한국에서 훼손된 시신이 대량 발견됐다는 허위 정보를 퍼뜨린 유튜버들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사과는 전기통신기본법 위반 등의 혐의로 30대 남성 2명을 각각 불구속 송치했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 30대 회사원인 A씨는 지난해 11월 13일과 14일, 26일 등 세 차례에 걸쳐 소셜미디어 X에 이재명 대통령 명의의 ‘대국민 담화문’이라는 글을 올린 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 글에는 ‘해외주식 양도소득세율을 22%에서 40%로 상향 조정한다’ ‘연 1%의 해외주식 보유세를 신설하고 2026년 1월 1일부터 시행한다’는 내용이 담겼다. 실제로는 존재하지 않는 정책을 대통령 명의로 꾸며​ 게시한 것이다.&lt;br&gt;&lt;br&gt;가짜 담화문이 온라인에서 논란이 되자 경찰은 입건 전 조사에 착수했고, A씨는 지난해 12월 1일 자수한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 또 유튜브 채널을 통해 한국에서 훼손된 시신이 대량 발견됐다는 허위 정보를 퍼뜨린 유튜버 30대 B씨도 전기통신기본법 위반 혐의로 불구속 송치했다.&lt;br&gt;&lt;br&gt;구독자 약 96만명의 유튜브 채널 ‘대보짱’을 운영하는 B씨는 지난해 10월 22일 “한국에서 하반신만 있는 시체가 37건 발견됐고, 비공개 수사도 150건이 있어 총 187건”이라거나 “대한민국 실종자가 8만 명”이라는 내용의 허위 영상을 게시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 해당 영상을 통해 벌어들인 2421달러(약 350만원)의 범죄 수익에 대해 지난 2월 13일 기소 전 추징보전을 신청했다.&lt;br&gt;&lt;br&gt;이번 사건은 서울경찰청이 올해 1월 2일부터 10월 31일까지 진행 중인 ‘허위조작정보 범죄 집중단속’ 과정에서 적발된 사례다.&lt;br&gt;&lt;br&gt;경찰은 “악의적이거나 명백한 허위·조작 정보 유포 행위에 대해서는 단호하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학교 방송장비 중고 거래한 현직 교사 적발… 추가 피해도 드러나 </title>
-      <link>https://www.chosun.com/national/2026/03/05/WBZ5N6AX6FGPJIZYKLP2B34PZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/05/WBZ5N6AX6FGPJIZYKLP2B34PZM/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 05:14:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4WGZBTGE2TEYZZGZSWGMLEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남교육청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 고등학교 교사가 학교 방송 장비를 중고 거래 사이트에 판매하다 적발됐다. &lt;br&gt;&lt;br&gt;경남도교육청은 진주의 한 고등학교 교사 40대 A씨의 비위 행위를 확인하고, 조사를 진행했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;교육청 등에 따르면, A씨는 지난해 11월 중고 거래 사이트에 고가의 카메라와 렌즈 세트를 판매한다는 글을 올리고 같은 해 12월 해당 물품을 판매한 것으로 확인됐다. 당시 A씨가 올린 판매 게시물에는 자신의 전화번호와 함께 ‘급처(급하게 처분한다는 의미)라 다른 중고보다 더 싸게 팔 테니 가격 조율이 가능하다’는 내용을 남겼다. 당시 A씨는 중고 시세 대비 90만~100만원가량 저렴하게 물건을 팔았다고 한다.&lt;br&gt;&lt;br&gt;A씨가 판 카메라 등은 학교 방송반 장비였다. A씨는 당시 방송반을 담당하고 있었다.&lt;br&gt;&lt;br&gt;도교육청은 작년 12월 중순 국민권익위원회로부터 A씨의 비위 행위를 통보받아 지난 1월 조사에 착수했다. 비슷한 시기 중고 물품 거래 사이트에서 A씨가 올린 글을 학생들도 발견한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;교육청과 학교 측은 학교 내부에 설치된 감시 카메라(CCTV)를 통해 A씨가 물품을 반출하는 장면을 확인했다. &lt;br&gt;&lt;br&gt;조사 결과, A씨는 이번 중고 거래 외에도 캠코더 2대 등 학교 방송 장비 4~5종을 추가로 빼돌린 사실이 확인됐다. 피해 금액은 1000만원 미만인 것으로 추정하고 있다. &lt;br&gt;&lt;br&gt;A씨는 교육청 조사에서 학교 물품을 무단으로 처분한 내용을 인정한 것으로 전해졌다. A씨는 지난해 12월부터 병가를 내고 학교에 출근하지 않고 있다. &lt;br&gt;&lt;br&gt;주요 장비가 사라지면서 이 학교 방송반 학생들은 지난달 졸업식 영상을 캠코더가 아닌 휴대전화로 촬영하는 등 불편을 겪어야 했다.&lt;br&gt;&lt;br&gt;도교육청은 이달 중 감사처분심의회를 열어 업무상 횡령 혐의로 A씨를 경찰 고발하는 것 등을 논의할 예정이다. 또 징계위원회를 열어 A씨에 대한 징계 수위도 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>男 “돈 걱정” 女 “편해서”… 돌싱들, 재혼 망설인다</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/05/2EYWLZNQCZFQDIRZAUF2PLZ34U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/2EYWLZNQCZFQDIRZAUF2PLZ34U/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 04:25:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTGIY3BGY3DQOBZGZRTEMDDHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 결혼식장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘돌싱’(돌아온 싱글)들이 재혼을 망설이는 이유는 무엇일까. 남성은 경제적 갈등을 가장 많이 우려했고, 여성은 혼자인 생활이 편하기 때문이라고 답했다.&lt;br&gt;&lt;br&gt;재혼 전문 결혼 정보 회사 온리유와 결혼 정보 업체 비에나래는 지난달 23일부터 이달 2일까지 재혼을 희망하는 전국 이혼 남녀 556명(남녀 각각 278명)을 대상으로 설문조사를 진행했다. 주요 질문은 ‘재혼을 하고 싶지만 망설이게 되는 가장 큰 이유는 무엇인가’였다.&lt;br&gt;&lt;br&gt;남성은 응답자의 42.5%가 ‘경제적 갈등 우려’라고 대답했다. 그다음은 ‘또 실패할까 봐’(21.5%) ‘자녀의 반대’(17.3%) ‘현재 생활이 편해서’(12.6%)였다. 여성은 33.5%가 ‘현재 생활이 편해서’라고 답했다. 이어 ‘또 실패할까 봐’(27.7%) ‘전혼의 상처’(18.7%) ‘자녀의 반대’(15.1%) 순이었다.&lt;br&gt;&lt;br&gt;온리유 측은 “많은 돌싱 남성은 재혼 시 가정 경제 독박 부담, 실패 시 재산 분할, 사망 시 상속 문제 등으로 자기 재산이 재혼 배우자에게 과도하게 주어질 것을 우려한다”며 “여성들은 이혼 후 얻은 해방감이 다시 사라질까 봐 걱정하는 경향이 크다”고 설명했다.&lt;br&gt;&lt;br&gt;한 번의 실패 경험에도 재혼을 고려하는 현실적인 목적을 묻자, 남성은 ‘무미건조한 생활 탈피’(27.0%)를, 여성은 ‘경제적 안정’(31.7%)을 가장 많이 꼽았다. 2위는 남녀 모두 ‘미래 불안 해소’(남 25.5%·여 26.3%)였다. 남성은 ‘정서적 안정’(21.1%)과 ‘일상생활의 편의’(18.0%)가, 여성은 ‘무미건조한 생활 탈피’(19.0%)와 ‘정서적 안정’(16.2%)이 뒤를 이었다. &lt;br&gt;&lt;br&gt;이 밖에 ‘이혼 후 생긴 후유증 가운데 재혼을 통해서만 해결할 수 있는 문제는 무엇인가’라는 질문에는 ‘실추된 자존감’(남 30.2%·여 25.5%)과 ‘노후 불안’(남 27.0%·여 32.0%)이 각각 상위권을 차지했다. 3위는 ‘결핍감’(남 22.3%·여 20.1%)이었고 4위는 남성이 ‘무기력증’(14.4%), 여성이 ‘불면증’(15.2%)이라고 대답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>비만·자살·고립 늘어난 40대男, 삶의 질 ‘빨간불’</title>
       <link>https://www.chosun.com/national/national_general/2026/03/05/JYQEM34FJNBXDMUSYI2B7BMG7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/05/JYQEM34FJNBXDMUSYI2B7BMG7E/</guid>
@@ -939,15 +948,6 @@
         <media:description type="plain">김경 전 서울시의원이 29일 오전 서울시 마포구 서울경찰청 공공범죄수사대로 추가 소환 조사에 출석하고 있다. 2026.1.29/뉴스1 ⓒ News1 박정호 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">jungho2035@gmail.com</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>동물 학대하고 온라인에 생중계한 30대 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/03/04/YAZ23FIB7FAHVCFZMCCGP5IPCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/04/YAZ23FIB7FAHVCFZMCCGP5IPCM/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 08:54:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQPT7TJA2RDGNFWZY7NSF6ZSJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨 학대로 안구가 손상된 것으로 추정되는 햄스터. /동물자유연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;햄스터와 기니피그 등의 동물을 학대한 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산 울주경찰서는 동물보호법 위반 혐의로 30대 남성 A씨를 불구속 송치했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3~11월쯤 자신이 키우는 햄스터, 기니피그 등을 학대하고, 그 장면을 담은 사진과 영상을 온라인에 게시한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 동족 포식 습성을 지닌 햄스터 여러 마리를 좁은 우리에 합사시켜 상처를 입게 하거나, 피를 흘리는 동물의 모습을 SNS에 올린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 수사가 시작된 이후에도, 햄스터를 청소기로 빨아들이거나 통에 넣고 흔드는 등 학대 장면을 SNS에 생중계하는 등 범행을 과시하는 기행을 이어왔다.&lt;br&gt;&lt;br&gt;자신에 대한 엄벌을 촉구하는 온라인 탄원서에 직접 접속해 조롱성 문구를 남기기도 했다.&lt;br&gt;&lt;br&gt;이 외에도 제보자 신원을 특정하겠다며 SNS로 미성년자에게 접근해 성적인 내용이 담긴 메시지를 보내고 음란물 사이트 링크를 공유했다는 익명의 제보가 동물보호단체인 동물자유연대에 접수됐다.&lt;br&gt;&lt;br&gt;수사 기간에도 학대가 계속되자 울주군은 지난달 경찰과 함께 A씨 주거지에서 동물 22마리를 긴급 격리했지만, A씨는 이를 비웃듯 다시 토끼를 분양받은 사실을 SNS에 공개했다.&lt;br&gt;&lt;br&gt;현행법상 동물 학대 행위를 했다고 하더라도 동물 분양을 강제로 막을 수는 없다.&lt;br&gt;&lt;br&gt;동물자유연대는 A씨에 대한 엄중 처벌과 동물 학대자 사육 금지 제도 도입을 촉구하는 탄원서를 모으고 있는데, 현재 약 5000명의 시민이 동참한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
