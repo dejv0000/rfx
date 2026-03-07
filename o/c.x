@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이재룡, 세 번째 음주 물의...아내 유호정·지인들 과거 발언 ‘재조명’</title>
+      <link>https://www.chosun.com/national/people/2026/03/08/JJVYHPAEHNG6RPB7EEL6PH7SEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/08/JJVYHPAEHNG6RPB7EEL6PH7SEM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Mar 2026 23:14:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TANZYGFSWCNDGG5RDCYTDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이재룡./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이재룡(62)이 서울 강남에서 음주 운전 사고를 내고 달아났다가 경찰에 붙잡힌 가운데 과거 그가 방송을 통해 밝혀온 음주 습관과 관련 일화들이 재조명되고 있다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 7일 이재룡을 도로교통상 사고 후 미조치 등 혐의로 입건 전 조사(내사) 중이라고 밝혔다. 그는 전날 오후 11시쯤 서울 지하철 9호선 삼성중앙역 인근에서 차량을 몰다 중앙 분리대를 들이받고 그대로 달아난 혐의를 받는다. &lt;br&gt;&lt;br&gt;이재룡은 사고 직후 차량을 자신의 집에 주차한 뒤 지인의 집으로 이동했다가 경찰에 검거됐다. 적발 당시 그의 혈중알코올농도는 면허 정지 수준(0.03% 이상~0.08% 미만)이었던 것으로 알려졌다. 다만 이재룡은 경찰 조사에서 “사고 당시에는 음주 상태가 아니었다”며 음주 운전 혐의는 부인하고 있는 것으로 전해졌다. 경찰은 이재룡을 상대로 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;그의 음주 관련 법규 위반은 이번이 처음이 아니다. 2003년에도 서울 강남구에서 아내 유호정의 차량을 운전하다 차선 변경 과정에서 옆 차량을 들이받는 사고를 냈다. 당시 이재룡은 음주 측정을 거부한 혐의로 불구속 입건됐으며 면허가 취소됐다. 2019년 6월에는 서울 강남구의 한 볼링장 입간판을 취중에 넘어뜨려 재물손괴 혐의로 검찰에서 기소유예 처분을 받기도 했다.&lt;br&gt;&lt;br&gt;연예계에서 주당으로 알려진 이재룡은 과거 방송 등에서 자신의 음주 습관을 수차례 언급해 왔다. 그는 소주 14병을 마신다고 밝힌 바 있다. 2018년 SBS ‘동상이몽2-너는 내 운명’에서는 술을 마시기 위해 몸 관리를 한다며 “건강해야 오래 마실 수 있다”고 말했다. 지난달 23일 유튜브 채널 ‘짠한형 신동엽’에 출연했을 때도 가방에서 맥주와 데킬라를 꺼내 보였으며, 동료 배우 안재욱이 “이제는 술에서 좀 빠져야 할 때 아니냐?”고 묻자 “그래도 아직은”이라고 답하며 웃음을 보이기도 했다. &lt;br&gt;&lt;br&gt;이재룡의 아내인 유호정은 2015년 SBS ‘힐링캠프’에 출연해 이씨의 술 문제를 털어놓기도 했다. 당시 유호정은 “연애 시절 술 때문에 (남편과) 많이 싸웠다. 일찍 들어간다고 하고 나 몰래 새벽까지 술을 마신 적도 있더라”며 “며칠 연속 나와 한 약속을 어기더니 새벽에 만취해 귀가하더라”고 고백했다. 이어 “(남편이) ‘일주일에 술을 몇 번만 마시겠다’ ‘몇 시까지 들어오겠다’는 각서를 쓰고 지장까지 찍었는데 똑같은 실수를 계속 반복한다”며 “약이 오른다. 그런데도 안 바뀌더라”고 답답함을 토로했다.&lt;br&gt;&lt;br&gt;이재룡은 1986년 MBC 18기 공채 탤런트로 데뷔해 드라마 ‘사랑이 뭐길래’ ‘불멸의 이순신’ ‘종합병원’ 등에 출연했다. 1995년 동료 배우 유호정과 결혼해 슬하에 1남 1녀를 두고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>또 특검, 또 혈세…2차 종합특검에 154억 더 </title>
       <link>https://www.chosun.com/national/court_law/2026/03/08/BFULZZYCYRG27LXR22YCH7W7ZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/08/BFULZZYCYRG27LXR22YCH7W7ZM/</guid>
@@ -889,15 +898,6 @@
       <pubDate>Thu, 05 Mar 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVRT2IIVWJDUXODKPLGM7LCCZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 부산 남구 부경대 대연캠퍼스 광장에서 이 학교 스케이트보드 동아리 학생이 보드 기술을 선보이고 있다. 이날 이곳에선 새 학기 동아리 홍보 대회가 열렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 재정경제부 외</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/06/FO3K2XCAM5GTJDWOA4U65WOLS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/FO3K2XCAM5GTJDWOA4U65WOLS4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲재정경제부&lt;/b&gt;◇실장급 전보▷국고실장 황순관◇실장급 승진▷기획조정실장 김후진 ▷국가바이오혁신위원회 지원단장 김구년&lt;br&gt;&lt;br&gt;&lt;b&gt;▲수원대학교&lt;/b&gt;▷공공정책대학원장 오영균▷경영대학원장 정양운▷공학대학원장 대리 정창호▷미술대학원장 차대영▷음악대학원장 윤이나 ▷스포츠과학대학원장 대리 주정선▷문화예술대학원장 양정석▷경영공학대학장 김병용▷혁신공과대학장 대리 정창호▷문화예술융합대학장 양기찬▷기획처장 구자은▷교무처장 정원준▷취업지원처장 이 찬▷연구처장 변희정&lt;br&gt;&lt;br&gt;&lt;b&gt;▲수원과학대학교&lt;/b&gt;▷부총장 겸 자산관리처장 김인숙▷기획처장 겸 경영관리실장 이명문▷국제협력센터장 김선희&lt;br&gt;&lt;br&gt;&lt;b&gt;▲TV조선&lt;/b&gt;◇보도본부▷팩트체크장 강상구▷선거기획단장 안석호▷사회정책부장 배태호▷전국부장 정동권▷국제부장 이일주▷문화스포츠부장 김명우▷편집1부장 구본승▷편집2부장 최규민 ▷디지털뉴스부장 윤슬기▷콘텐츠사업국 제작부장 김관&lt;br&gt;&lt;br&gt;&lt;b&gt;▲한국경제신문&lt;/b&gt;▷전무이사 주필·논설위원실장 현승윤▷상무이사 경영지원실장 이건호▷〃 아르떼사업본부장 김홍열▷상무보 미디어마케팅국장 전우형▷기획조정실장 겸 준법경영지원실장 안재석▷기획조정실 기획부장 박동휘▷논설위원실 논설위원 양준영 김동욱 이정호 안정락▷편집국 부국장 이상열 조재길▷편집국 정치부장 조진형▷〃 금융부장 정인설▷〃 사회부장 임도원▷〃 국제부장 노경목▷〃 산업부장 장창민▷〃 중소기업부장 좌동욱▷〃 테크&amp;amp;사이언스부장 김재후▷〃 바이오헬스부장 이태호▷〃 증권부장 김동윤▷〃 마켓인사이트부장 송형석▷〃 문화부장 박종서▷〃 오피니언부장 이호기▷독자서비스국장 김양진▷아르떼사업본부 문화전시사업국장 박해영▷경제교육연구소장 유병연▷상임고문(윤리경영위원장) 정규재◇한국경제TV▷대표 정종태(내정)▷콘텐츠본부장 김형호◇한경닷컴▷대표 박수진(내정)▷상무 송종현▷뉴스국장 오상헌◇한경매거진앤북▷대표 서정환(내정)◇한경글로벌뉴스네트워크▷대표 주용석(내정)◇한경디지털랩▷대표 이명림&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“AI가 만드는 양극화, 바둑뿐만 아닌 산업 전반 문제”</title>
