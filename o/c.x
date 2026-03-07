@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 3월 8일 일요일 (음력 1월 20일 辛巳)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/07/GFHUDHAHMFBGPEQOOSEVAD36M4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/07/GFHUDHAHMFBGPEQOOSEVAD36M4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>“빚 갚아라” 독촉에···지인 살해하고 야산 암매장한 40대 체포</title>
+      <link>https://www.chosun.com/national/2026/03/07/3U7VIKR42VBFBJS4TARUOAKVL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/07/3U7VIKR42VBFBJS4TARUOAKVL4/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Mar 2026 07:34:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYGGNRXGQ3GEZRQGBRTKZTCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주상당경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수억 원의 채무를 갚으라는 지인을 살해하고 시신을 야산에 묻은 40대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;청주상당경찰서는 살인 및 사체 유기 혐의로 A씨를 체포해 조사 중이라고 7일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 4일 오후 4시쯤 자신이 운영하는 충북 옥천군 옥천읍의 한 건설업체 사무실에서 지인 B(60대)씨를 목 졸라 살해한 혐의를 받는다. A씨는 이튿날 저녁 B씨의 시신을 인근 야산에 암매장한 혐의도 받는다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 B씨에게 수억 원을 빌렸으나 제때 갚지 못한 상태였던 것으로 전해졌다. A씨는 자신의 사무실에서 B씨에게 상환 능력을 설득하는 중 B씨가 계속해 빚 독촉을 하자, 홧김에 범행했다는 취지로 경찰에 진술했다. &lt;br&gt;&lt;br&gt;경찰은 전날 B씨 자녀의 실종 신고를 접수하고 수사에 착수했다. CCTV를 추적해 청주에 거주하는 B씨의 차량이 실종 당일 옥천군 A씨의 사무실 부근으로 이동한 사실을 확인하고, A씨를 추궁한 끝에 범행을 자백받은 것으로 전해졌다. 경찰은 A씨가 시신을 유기했다고 자백한 야산을 수색하고 있다. &lt;br&gt;&lt;br&gt;경찰은 B씨의 시신에 대한 부검을 국립과학수사연구원에 의뢰해 정확한 사인을 확인할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘닥터카’ 자가용처럼 탄 신현영 전 의원 불기소... 검찰 “혐의 없음”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/07/R3HD7I5Z5NDX3OJNLFJDIPW5LM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/07/R3HD7I5Z5NDX3OJNLFJDIPW5LM/</guid>
@@ -839,15 +858,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 부산 남구 부경대 대연캠퍼스 광장에서 이 학교 스케이트보드 동아리 학생이 보드 기술을 선보이고 있다. 이날 이곳에선 새 학기 동아리 홍보 대회가 열렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>도널드, 내년에도 라이더컵 이끈다</title>
-      <link>https://www.chosun.com/national/people/2026/03/06/VV6KZDHDJJCFBILAZVXFUM4USA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/06/VV6KZDHDJJCFBILAZVXFUM4USA/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>루크 도널드(49·잉글랜드)가 미국과 유럽 간 골프 대항전인 ‘라이더컵’에서 다시 한번 유럽팀을 지휘한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZKNYNWVHBD6TD4XAOJVTEFEFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;루크 도널드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘라이더컵 유럽’의 가이 키닝스 CEO는 5일 “2027년 아일랜드 아데어 매너에서 열리는 라이더컵 단장으로 루크 도널드를 선임한다”고 발표했다. 키닝스는 “앞선 대회에서 도널드가 팀을 이끄는 방식이 인상 깊었다. 침착함과 평정심, 존중하는 태도로 어려움을 이겨냈다”고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이로써 도널드는 2023년 마르코 시모네(이탈리아), 지난해 베스페이지(미국 뉴욕) 대회에서 미국을 꺾은 데 이어 역대 최초로 ‘3연승 단장’에 도전한다. 라이더컵 역사상 미국의 월터 헤이건과 벤 호건이 단장으로 세 번 이상 우승했지만, 세 대회 연속 우승 기록은 없다. &lt;br&gt;&lt;br&gt;그동안 ‘3연임’에 대해 뚜렷한 입장을 밝히지 않던 도널드는 “작년 뉴욕에서 우승 축하 파티를 하고 내 임무는 끝났다고 생각했는데, 어쩌면 아직 못다 한 이야기가 남아 있을지 모르겠다”며 “새로운 도전에 엄청난 집중력이 생겼다”고 했다. &lt;br&gt;&lt;br&gt;일찌감치 선장을 정한 유럽팀과 달리 미국팀은 단장 선임이 늦어지고 있다. 미국프로골프협회가 PGA 투어의 전설 타이거 우즈(51)에게 의사를 타진했지만, 아직 대답을 듣지 못하고 있다. 현지에선 우즈가 4월 마스터스 개막 이전에 단장직 수락 여부를 결정할 것이라는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[플라자] 한국기자협회-서울지방변호사회 업무협약(MOU) 체결 외</title>
       <link>https://www.chosun.com/national/people/2026/03/06/M5XAHPHAYJEZNCQDKKFMJ6M3U4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/06/M5XAHPHAYJEZNCQDKKFMJ6M3U4/</guid>
@@ -873,15 +883,6 @@
       <description/>
       <pubDate>Thu, 05 Mar 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEEGSO6TJRAZXH6VUEOZ46RUBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개교 120주년을 맞은 고려대학교가 4일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 ‘기부자 감사의 밤’ 행사를 열었다./고려대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대학교는 개교 120주년을 맞아 지난 4일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 ‘기부자 감사의 밤’ 행사를 열었다고 밝혔다. 고려대가 지난 3년간 모은 기부금은 3200억원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 서홍석씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/06/224CRWYNLVEPVFSKXSVBGAZD4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/06/224CRWYNLVEPVFSKXSVBGAZD4Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;서홍석&lt;/b&gt; 별세, &lt;b&gt;서지원&lt;/b&gt; 프로야구 두산 베어스 육성팀 수석 부친상=4일10시 건국대병원, 발인 6일10시, (02)2030-7900&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신순심&lt;/b&gt; 前 리틀엔젤스 단장 본인상=4일19시 이대서울병원, 발인 7일5시, (02)6986-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;양해용&lt;/b&gt; 별세, &lt;b&gt;양근우&lt;/b&gt; 계명대 교육·연구부총장 부친상=4일14시30분 대구 계명대 동산병원, 발인 7일7시30분, (053)743-3880&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이건의&lt;/b&gt; 별세, &lt;b&gt;이서영&lt;/b&gt; 목원대 경영학부 교수 모친상=4일3시50분 쉴낙원 당진장례식장, 발인 6일7시, (041)354-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종구&lt;/b&gt; 별세, &lt;b&gt;이소연&lt;/b&gt; 부친상, &lt;b&gt;박용성&lt;/b&gt; 슬로우뉴스 경영기획실장 장인상=4일19시30분 인천 새천년장례식장, 발인 6일12시, (070)8828-8499&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[인사] 재정경제부 외</title>
