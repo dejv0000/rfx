@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李대통령이 언급한 ‘마약왕’... “교도소에 애인 불러 논다더라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/07/WZA5543FJFFELFLJXAHQS52UDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/07/WZA5543FJFFELFLJXAHQS52UDU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Mar 2026 10:32:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2S27NM65JFKZLUQFI7JSDDWIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 현지 교도소에서 인터뷰 중인 박왕열. /웨이브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 언급을 계기로 ‘동남아 3대 마약왕’으로 불리는 박왕열이 다시 주목받고 있다.&lt;br&gt;&lt;br&gt;이 대통령은 4일 필리핀 마닐라 시내 한 호텔에서 열린 동포 간담회에서 한국인 대상 치안 범죄를 경고하는 과정에서 “한국인 3명을 살해하고 필리핀 교도소에 수감 중이면서도 계속 텔레그램을 이용해 한국으로 마약을 수출하는 ‘박*열’이라는 사람이 있다”며 “교도소로 애인을 불러 논다고 하더라”고 했다.&lt;br&gt;&lt;br&gt;이어 전날 페르디난드 마르코스 주니어 필리핀 대통령과의 정상회담에서 ‘박*열’에 대한 범죄자 임시 인도 요청을 했다며 “마르코스 대통령도 이른 시일 안에 적극적으로 검토해 시행하겠다고 얘기했다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령이 언급한 ‘박*열’은 이른바 ‘동남아 3대 마약왕’으로 알려진 박왕열인 것으로 보인다.&lt;br&gt;&lt;br&gt;박왕열은 2020년 필리핀 당국에 검거돼 2022년 장기 60년의 징역형을 선고받고 현지 교도소에 수감 중이다. 혐의는 2016년 10월 필리핀의 한 사탕수수밭에서 한국인 3명을 살해했다는 내용이다. 필리핀 당국은 최종 검거 전에도 박왕열을 두 차례 체포해 구금했지만, 그는 빈번히 도주해 도피 생활을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;도피와 수감 생활을 거치는 동안 박왕열은 한국으로 마약을 밀반입하고 유통한 것으로 파악됐다. 텔레그램에서 ‘전세계’라는 이름으로 활동하며 필로폰, 엑스터시, 케타민, 합성 대마 등 수백억 원대의 동남아산 마약을 유통했다. 국내 유입 동남아산 마약의 절반은 박왕열을 통한다는 말이 나올 정도였다. 2023년에는 옥중에서도 국내 마약사범들에게 마약류를 공급했다.&lt;br&gt;&lt;br&gt;최근에는 박왕열이 교도소에서 ‘VVIP’ 수준의 생활을 하고 있다는 의혹이 제기됐다. 박왕열 사건을 수사했던 김대규 전 경남경찰청 마약범죄수사계장은 지난 1월 ‘꼬리에 꼬리를 무는 그날 이야기’에 출연해 “교도소라기보다는 어떻게 보면 범죄자끼리 모아놓은 범죄자 마을”이라며 “자기가 원하는 것, TV를 본다든지 운동을 한다든지 여자 친구를 만난다든지 여러 가지 활동을 자유롭게 할 수 있는 곳”이라고 했다. 실제로 필리핀 당국이 뉴빌리비드 교도소를 기습 단속했을 당시 초호화 빌라와 스파 욕조, 테니스장 등 각종 호화 시설이 발견된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 전 계장은 박왕열이 수감 중에도 마약 유통을 할 수 있었던 이유에 대해선 “박왕열 같은 경우엔 수감 중에 휴대전화를 사용하기 때문에 마약류 거래를 원활하게 할 수 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 박왕열은 “내가 말하면 한국 뒤집어진다”며 되레 반성 없는 태도를 보인다. 그는 2023년 웨이브 ‘악인취재기’와 인터뷰에서 “내가 말하면 검사부터 옷 벗는 놈들도 많을 것”이라고 했다. 이어 “사기당한 적이 있어서 우리나라에 한이 많다”며 “그래서 이 나라(필리핀)를 다시 선택해서 오게 된 것”이라고 했다. 사탕수수밭 사건에 대해선 범행을 명확히 인정하지 않으면서도 “내가 얼마나 많이 도와줬는데 걔들이 사기를 쳤다”고 했다. ‘반성을 하냐’는 질문에는 거리낌 없이 “아니요”라며 “난 내가 할 일을 했다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;박왕열은 자신의 마약 유통 혐의를 입증할 만한 증거가 없다고도 했다. 그는 “내가 마약 팔았다는 증거가 없다. 한국에 가려고도 했다”며 “근데 못 간 것”이라고 했다. 이어 “텔레그램도 내 실명이 아니지 않느냐”며 “뭘로 증명할 거냐”고 했다.&lt;br&gt;&lt;br&gt;박왕열은 ‘동남아 3대 마약왕’ 가운데 유일하게 한국으로 송환되지 못했다. 필리핀에서 징역형을 선고받은 마약 사범은 원칙적으로 형기를 모두 마친 뒤에야 국내 강제 송환 절차가 가능한 것으로 알려졌다. 양국이 합의할 경우 ‘임시 인도’ 방식으로 한국으로 데려와 재판에 넘길 수 있지만, 필리핀 정부는 2018년 법무부의 박왕열 송환 요청을 보류했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 3월 8일 일요일 (음력 1월 20일 辛巳)</title>
       <link>https://www.chosun.com/national/national_general/2026/03/07/GFHUDHAHMFBGPEQOOSEVAD36M4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/07/GFHUDHAHMFBGPEQOOSEVAD36M4/</guid>
@@ -856,15 +865,6 @@
       <pubDate>Thu, 05 Mar 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVRT2IIVWJDUXODKPLGM7LCCZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 부산 남구 부경대 대연캠퍼스 광장에서 이 학교 스케이트보드 동아리 학생이 보드 기술을 선보이고 있다. 이날 이곳에선 새 학기 동아리 홍보 대회가 열렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국기자협회-서울지방변호사회 업무협약(MOU) 체결 외</title>
-      <link>https://www.chosun.com/national/people/2026/03/06/M5XAHPHAYJEZNCQDKKFMJ6M3U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/06/M5XAHPHAYJEZNCQDKKFMJ6M3U4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲한국기자협회와 서울지방변호사회는 5일 프레스센터에서 법률 및 언론 분야의 전문성 강화와 상호 협력을 위한 업무협약(MOU)을 체결했다고 밝혔다.&lt;br&gt;&lt;br&gt;▲독립유공애국지사유족회와 3·5학생만세운동기념사업회는 5일 서울 중구 서울역 문화역사 앞 광장에서 ‘제107주년 남대문역 3·5 학생만세운동’ 기념식을 열었다고 밝혔다.&lt;br&gt;&lt;br&gt;▲성평등가족부는 6일 정부서울청사에서 청소년 정책 참여 기구인 청소년특별위원회, 제9기 청소년보호위원회 위원들과 안전한 디지털 환경 조성을 위한 간담회를 연다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>성차별적 불공정 사례 근절 성명… 여성단체協, 유관순상 시상식도</title>
