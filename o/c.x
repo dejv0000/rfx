@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 3월 9일 월요일 (음력 1월 21일 壬午)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/08/VH55CZWIDZCNPILBDAEHNZMBAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/08/VH55CZWIDZCNPILBDAEHNZMBAM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>“술 취해 기억안나”… 택시기사 폭행 50대 구속</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/08/HQX3COKJVBA4RD6B5IF722CNAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/08/HQX3COKJVBA4RD6B5IF722CNAU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Mar 2026 06:25:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2DMNLFHE3GCYRVGEZDSMJTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 택시 기사를 폭행한 50대 승객이 구속됐다.&lt;br&gt;&lt;br&gt;충남 아산경찰서는 특정범죄 가중처벌 등에 관한 법률 위반 운전자 폭행 혐의로 A씨를 구속했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오후 7시쯤 아산시 온양온천역 인근에서 택시 기사 70대 B씨의 얼굴과 복부 등을 때려 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;택시 기사 B씨가 폭행으로 차량을 멈추고 내렸는데도 A씨는 폭행을 이어갔다. &lt;br&gt;&lt;br&gt;B씨는 두개골·갈비뼈에 골절상을 입는 등 크게 다쳐 중환자실에서 치료를 받는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “술에 취해 잘 기억나지 않는다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 군의관도 전문연구요원도, 입영 장병도 줄어드는데 오히려 늘어난 병역판정전담 의사</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/08/MIPSEPY4HVHU5PVUKYKUMDFI3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/08/MIPSEPY4HVHU5PVUKYKUMDFI3U/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Mar 2026 06:22:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPFB3BRTRVKTRMVM7BJ3NRC6JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 부산 수영구 부산·울산지방병무청에서 입영 대상자들이 신체검사를 받고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 입영 대상 장병의 인구 수가 줄어들면서 의사 면허를 가진 군의관, 공중보건의사(공보의), 전문연구요원 등 자원이 모두 빠르게 줄어들고 있는 가운데, 병역판정검사전담의사의 수는 오히려 늘어난 것으로 나타났다. 판정전담의사는 임상이나 연구, 지역 공중보건과는 무관한 보직으로 입영 대상 장병의 신체 등급 등을 판정하는 역할을 하는 의사다. 이들만 증가하는 최근의 상황을 두고 의사의 병역 이행 구조가 행정 및 판정 기능 중심으로 역행하는 것 아니냐는 지적이 나온다.&lt;br&gt;&lt;br&gt;병무청이 8일 김미애 국민의힘 의원에게 제출한 자료에 따르면 판정전담의사(치과 제외)는 2023년과 2024년 49명에서 지난해 66명으로 크게 늘어났다.&lt;br&gt;&lt;br&gt;지난해 기준으로 보면 과별로는 정신건강의학과가 13명으로 가장 많았고, 내과가 10명, 이비인후과 9명, 정형외과 8명, 신경외과와 영상의학과가 각 3명이었다. 최근 정신건강의학과 관련 병역 기피 사례가 늘면서 해당 전문의가 증가했으며, 이와 함께 전체 수가 증가하는 경향을 보였다.&lt;br&gt;&lt;br&gt;문제는 최근 인구 감소로 인해 입영 장병 전체가 줄고, 이 때문에 군인 전체가 줄어드는 상황에서 오히려 이들을 분류하는 인원만 늘어났단 것이다. 앞서 정부는 병역의무를 수행할 20세 남성 인구가 2020년 대비 29.5% 감소할 것으로 관측한 바 있다.&lt;br&gt;&lt;br&gt;병역을 이행할 인구와 함께 의사 인구도 함께 줄어 군의관 등이 부족해지는 상황에서의 판정 전담 의사 증가는 인력 배치의 모순을 보여준다는 지적이다. 최근 3년(2023~2025년)간 군의관은 690명에서 631명으로 줄었고, 의과 공보의는 456명에서 250명으로 급감했다. 이런 감소세에는 2024년 의정 갈등 당시 군의관이나 공보의 대신 일반 현역병으로 입대하는 이들이 늘어난 영향도 있다. 특히 최근엔 일반 현역의 복무 기간이 군의관 등보다 짧아 이런 선택을 하는 의대생이 늘어나는 추세다.&lt;br&gt;&lt;br&gt;특히 국방부는 최근 전문연구요원 선발을 대폭 줄이면서 군의관 부족을 이유로 들기도 했다. 국가의 과학·기술을 개발하는 자리를 줄일 만큼 군의관 수가 급한 상황에서 정작 판정전담의사만 늘린 셈이다. 전문연구요원은 일정 요건을 충족한 인력을 연구 분야에서 병역 의무를 이행하게 하는 제도다. 의사의 경우 기초의학이나 의사과학자 양성으로 직결되는 경로로 평가돼왔다. 그러나 최근 국방부는 군의관 부족을 이유로 특정 과목 전문의의 전문연구요원을 원천적으로 틀어막았고, 2023년 29명이었던 전문연구요원은 지난해 4명으로 급감했다.&lt;br&gt;&lt;br&gt;김미애 의원은 “군의관과 공중보건의사는 줄어 의료 공백이 커지고 있는데, 정작 병역 판정전담의사만 늘어나는 상황은 의사 병역 자원이 행정 중심으로 역행하고 있다는 적신호가 아닌지 우려된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>직장인 절반 “월급만으로는 생계·노후 준비 힘들다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/08/YI2INW35SVE45NAR2QSNPGIO3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/08/YI2INW35SVE45NAR2QSNPGIO3I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Mar 2026 05:52:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LL3HLEMNHVO4XGZJUEND5YRCHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문네거리에서 직장인들이 출근길 발걸음을 옮기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국 직장인 절반 이상이 급여 등 노동 소득만으로는 생계 유지나 노후 준비가 어렵다고 느끼는 것으로 나타났다.&lt;br&gt;&lt;br&gt;8일 시민단체 직장갑질119가 여론조사 전문 기관 글로벌리서치에 의뢰해 지난달 2∼8일 전국 만 19세 이상 직장인 1000명을 대상으로 설문 조사한 결과, 응답자의 56.4%가 노동 소득을 통한 생계 유지 및 미래 대비에 대해 ‘그렇지 않다’고 답했다.&lt;br&gt;&lt;br&gt;이 같은 응답은 고용 형태와 사업장 규모에 따라 차이를 보였다. 비정규직(63.3%), 비사무직(62.2%), 5인 미만 사업장 종사자(66.3%) 등 상대적으로 임금 수준이 낮은 집단에서 불가능하다는 답변이 높게 나타났다.&lt;br&gt;&lt;br&gt;노동 소득을 통한 생활 유지와 노후 대비에 대해 정부와 기업의 책임이 있다고 보는 응답자는 81.7%에 달했다. &lt;br&gt;&lt;br&gt;정책적 대안(복수 응답)으로는 정규직 확대 및 고용 안정성 강화(36.7%)를 가장 많이 꼽았다. 이어 기본소득제 도입(32.2%), 주거비 부담 완화 정책(31.8%), 최저임금 인상과 임금 체계 개선(27.6%) 등의 순이었다.&lt;br&gt;&lt;br&gt;김기범 직장갑질119 변호사는 “노동 소득만으로도 안정적인 삶과 미래 준비가 가능하도록 고용 안정성 강화, 임금 하한선 제고, 사회 안전망 확충과 같은 정책적 대응이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산서 부모와 함께 자던 신생아 숨져… 경찰 부검 예정</title>
       <link>https://www.chosun.com/national/regional/2026/03/08/3UW3GKT6KNAPDLZUEG4E7RNBBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/08/3UW3GKT6KNAPDLZUEG4E7RNBBQ/</guid>
@@ -849,24 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWPPCVTW2L7HMP6K6GWL3Y7WYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 전농로에서 열린 벚꽃축제를 찾은 한 네티즌이 고발한 노점에서 주문한 2만5000원짜리 순대볶음의 모습. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;바가지요금 논란으로 제주 관광 이미지를 훼손했던 탐라문화제와 전농로 왕벚꽃축제가 ‘제주도 지정축제’에서 제외됐다.&lt;br&gt;&lt;br&gt;6일 제주도에 따르면 도 축제육성위원회는 28개 축제를 대상으로 1차 평가를 실시, 11개 축제를 2026년 도 지정축제로 선정했다.&lt;br&gt;&lt;br&gt;평가는 지난해 열린 행사를 대상으로 했다.&lt;br&gt;&lt;br&gt;2026년 도 지정축제로는 서귀포유채꽃축제, 성산일출제, 탐라굿입춘굿(이상 광역축제), 고마로마문화축제, 금능원담축제, 보목자리돔축제, 산지천축제, 우도소라축제, 이호테우축제, 추자도참굴비대축제, 한라산청정고사리축제(이상 지역축제) 등이 선정됐다.&lt;br&gt;&lt;br&gt;이들 11개 축제에는 2027년도 예산이 정액(보조율 100%)으로 지원된다. 축제육성위원회는 5월 15일 2차 평가를 실시해 제주도 지정축제 등급(최우수·우수·유망)을 결정할 예정이다.&lt;br&gt;&lt;br&gt;최우수 축제(광역 1개·지역 1개)는 2000만 원, 우수 축제(광역 1개·지역 2개)는 1000만 원, 유망 축제(광역 1개·지역 5개)는 500만 원의 인센티브를 받는다.&lt;br&gt;&lt;br&gt;반면 지난해 바가지요금 논란이 일었던 탐라문화제와 전농로 왕벚꽃축제는 지정축제에서 제외됐다.&lt;br&gt;&lt;br&gt;탐라문화제에서는 속이 부실한 김밥이 4000원에, 전농로 왕벚꽃축제에서는 부실한 순대볶음 2만 5000원에 판매돼 논란을 빚었다.&lt;br&gt;&lt;br&gt;이에 따라 전농로 왕벚꽃축제는 2027년도 예산 보조율이 기존 100%에서 70%로 낮아진다. 행사 예산 30%는 축제위원회가 자부담해야 한다. 올해 예산은 1억 원이다. &lt;br&gt;&lt;br&gt;다만 민간위탁 사업인 탐라문화제는 예산상 불이익은 없고, 인센티브가 사라지게 된다.&lt;br&gt;&lt;br&gt;앞서 제주도는 지정축제 선정 기준을 개편했다. 축제 중 바가지요금 논란 등으로 지역 관광 이미지를 실추시킨 축제에 대해서는 예산 지원을 대폭 줄이기로 했다. &lt;br&gt;&lt;br&gt;김양보 제주도 관광교류국장은 “바가지요금 등 사회적 논란을 일으킨 축제에는 분명한 대가가 따른다는 것을 보여주겠다”며 “평가 결과가 실제 개선으로 이어지도록 환류 체계를 강화하고 제주 축제가 글로벌 경쟁력을 갖추도록 현장 관리에 힘쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title> “어르신~구청 직원입니다” 독거노인 노린 현금 절도범 구속 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/06/6DXENIEYHNABZBOJQX42UVB4PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/6DXENIEYHNABZBOJQX42UVB4PQ/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Mar 2026 01:40:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMXIJZFZ6JBC5ESIHI3WBWPEMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종암경찰서는 본인을 구청 복지관 직원이라 속이고 독거노인들을 상대로 절도 행각을 벌인 남성 A씨를 지난 3일 구속 송치했다. 사진은 A씨가 범행 후 도주하는 모습./서울 종암경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 설 연휴 동안 구청 직원 행세를 하며 독거노인을 상대로 현금을 훔쳐 달아난 남성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울 종암경찰서는 구청 복지관 직원인 척 독거노인들에게 접근해 현금과 지갑 등을 훔쳐 달아난 40대 남성 A씨를 지난 3일 구속 송치했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 홀로 길을 걷던 노인에게 접근해 복지관 직원이라 속여 집에 함께 들어갔다. “커피 한잔 마시고 싶다”며 노인의 주의를 분산시킨 뒤, 거실에 놓여 있던 가방에서 현금과 지갑을 훔쳐 도주했다. &lt;br&gt;&lt;br&gt;A씨는 같은 수법으로 총 3차례 범행을 저질렀고, 총 100만원 가량을 훔친 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 폐쇄회로(CC)TV 분석을 통해 A씨의 이동 경로를 추적했고, 은신 중인 여관방에서 A씨를 긴급 체포했다. A씨는 체포될 당시에도 같은 날 오전 한 독거노인을 속여 가로챈 현금 50만원을 소지하고 있었다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “고령자 등 취약 계층을 대상으로 한 사칭 범죄가 빈번하게 발생하고 있다”며 “지역 어르신들께서는 낯선 방문객에 대한 경계심을 늦추지 말고 의심스러운 상황에선 즉시 경찰에 도움을 요청해 달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“자리 좁으니 나가주세요” 휠체어 사용자 내쫓은 제과점...인권위 “차별”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/06/3NC72GOFNJCHFPG3I72COGV55Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/3NC72GOFNJCHFPG3I72COGV55Y/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Mar 2026 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWSDOK6B3QNPJO2LTSOLJFTNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구의 국가인권위원회 청사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 공간이 협소하다는 이유로 휠체어 사용자의 매장 이용을 막은 제과점에 재발 방지 대책 수립을 권고했다. &lt;br&gt;&lt;br&gt;휠체어 이용자인 진정인 A씨는 지난해 한 동네 제과점을 찾았다가 매장 이용을 거부당했다. 휠체어가 다른 고객에게 불편을 끼치고, 공간이 부족하다는 이유였다. 당시 A씨는 “예전에도 여기서 빵을 사서 자리에 앉아 먹었다”며 항의했으나, 결국 매장을 이용하지 못했다. 이에 A씨는 지난해 8월 해당 제과점의 행위가 장애인 차별이라며 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;매장 측은 “평소보다 많은 방문객으로 매장이 매우 혼잡한 상태였다”고 해명했다. 남아있는 좌석이 부족해 이미 앉아 있던 고객에게 이동을 요청해야 하는 상황이었다고도 했다. &lt;br&gt;&lt;br&gt;하지만 인권위 장애인차별시정위원회는 A씨 일행이 앉고자 했던 좌석 뒤에 동반인이 서서 대기할 수 있는 공간이 있었고, 전에도 A씨가 해당 좌석을 이용한 점이 있었다는 점을 지적했다. 또 수동 휠체어가 지체 장애인들에겐 필수 이동 수단임에도 불구하고, 휠체어가 다른 고객에게 피해를 줄 것이라는 막연한 편견에 기대 매장 이용을 거부했다고 봤다. &lt;br&gt;&lt;br&gt;이에 인권위는 해당 베이커리 브랜드 대표에게 재발 방지 대책을 수립해 관리·감독을 강화할 것을 권고했다. 이에 더해 해당 매장 점주에게는 인권위가 실시하는 특별 인권 교육을 수강하도록 했다. &lt;br&gt;&lt;br&gt;한편 해당 매장은 국내 1위 베이커리 브랜드 P사의 가맹 업체였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>눈·비 뒤 꽃샘추위 찾아와…주말 영하권으로 기온 떨어져</title>
       <link>https://www.chosun.com/national/transport-environment/2026/03/06/OUPEHK4ZFZHJNDUKO3MHLDNI5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/06/OUPEHK4ZFZHJNDUKO3MHLDNI5I/</guid>
@@ -878,24 +897,6 @@
         <media:description type="plain">전국 대부분의 지역에 비가 내리고 강한 바람이 분 2일 오전 서울 광화문광장에서 시민들이 우산을 쓴 채 걸어가고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 구윤성 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, 나경원 ‘패스트트랙 공소 취소 청탁 의혹’ 무혐의</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/06/LN5TMWXJXVFU3OKIRKNTTW26WI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/06/LN5TMWXJXVFU3OKIRKNTTW26WI/</guid>
-      <dc:creator>김혜민 기자, 김진영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Mar 2026 01:12:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZGKH2NF4NCA3B2AQDOI2EILM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나경원 국민의힘 의원. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 국민의힘 나경원 의원의 국회 패스트트랙 사건 공소 취소 청탁 의혹에 대해 무혐의 처분을 내렸다.&lt;br&gt;&lt;br&gt;6일 경찰 등에 따르면, 서울 영등포경찰서는 청탁금지법 위반·공무집행 방해 혐의로 고발된 나 의원에 대해 지난 3일 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;이 사건은 2024년 7월 국민의힘 당대표 경선 토론회에서 한동훈 전 국민의힘 대표가 법무부장관 시절 나 의원으로부터 패스트트랙 사건 공소 취소 부탁을 받았다고 폭로하며 불거졌다.&lt;br&gt;&lt;br&gt;나 의원은 개인적 차원의 부당 청탁이 아니라 반헌법적 기소를 바로잡아달라는 요구였다고 해명했지만 이후 더불어민주당의 고발이 이어졌다.&lt;br&gt;&lt;br&gt;경찰은 대가 없는 청탁을 형사 처벌하는 규정이 없는 만큼 나 의원의 행위가 범죄에 해당하지 않는다고 판단했다. 다만 청탁 행위 자체는 과태료 부과 대상이라 보고 국회의장에게 이 사실을 통보했다.&lt;br&gt;&lt;br&gt;민주당은 나 의원을 한 전 대표의 장관 업무를 방해한 혐의로도 고발했으나, 경찰은 폭행·협박 등이 없었던 만큼 공무집행방해 혐의 역시 성립하지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;패스트트랙 사건은 2019년 선거법·공수처법 처리 국면에서 국회에서 벌어진 물리적 충돌로 나 의원을 포함한 여야 의원이 무더기로 기소된 사건을 말한다. 패스트트랙 사건과 관련해 나 의원은 작년 11월 1심에서 2400만원의 벌금형을 받고 항소한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>달집태우며 액운 막고 소원 빌자... 제주 들불축제 ‘불 타오른다’</title>
-      <link>https://www.chosun.com/national/regional/2026/03/06/L3VDP5T26VCOLJ3H6WKOAVA4HU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/06/L3VDP5T26VCOLJ3H6WKOAVA4HU/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Mar 2026 01:17:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YGGOJSMI4TENTEGBSDMYRZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 애월읍 새별오름에서 열리는 제주들불축제. /제주들불축제 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“횃불대행진과 달집태우기로 액운을 막고 소원 빌어보세요.”&lt;br&gt;&lt;br&gt;제주시는 오는 9~14일 애월읍 새별오름 일대에서 ‘제주, 희망을 품고 달리다!’라는 주제로 2026 제주들불축제를 개최한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;제주시는 올해는 들불축제의 정체성을 강화하기 위해 ‘불’ 콘텐츠를 보강했다. 오랜 기간 관람객들의 사랑을 받아온 횃불대행진과 달집태우기를 다시 선보이고, 달집태우기와 축하공연까지 속도감 있는 연출로 현장의 몰입도를 극대화한다. 방문객들이 정성껏 적은 소원지를 태워 하늘로 날려 보내며 희망을 기원하는 시간도 갖는다.&lt;br&gt;&lt;br&gt;오름에 실제 불을 놓는 대신 새별오름 전역을 활용한 융복합 미디어아트쇼 ‘디지털 불놓기’를 선보인다. 장비와 영상 품질을 높이고 특수효과 등을 더한 입체적인 연출로 몰입감과 감동을 선사할 계획이다.&lt;br&gt;&lt;br&gt;사전 행사는 오는 9일부터 12일까지 운영된다. 소원지 쓰기·달기, 꼬마달집 만들기와 함께 오름 해설사와 동행하는 ‘오름 도슨트’ 투어를 1일 3회 운영한다. 11일부터는 제주의 전통 결혼문화인 가문잔치 재현 공간을 활용한 포토존을 개방해 방문객에게 특별한 추억을 제공할 예정이다.&lt;br&gt;&lt;br&gt;본 행사는 13일 삼성혈에서의 채화 행사로 시작된다. ‘희망의 여정’을 주제로 한 개막공연은 희망불 안치와 달집태우기로 시작한다. 미스터트롯3 우승자인 트로트 가수 김용빈이 무대에 올라 새별오름의 밤을 장식한다.&lt;br&gt;&lt;br&gt;14일에는 ‘희망의 찬가’를 주제로 전도 풍물 대행진, 횃불 대행진, 달집태우기가 펼쳐지며, 동시에 디지털 불놓기가 새별오름을 수놓는다. 실제 ‘불’과 디지털 ‘불’이 어우러지는 장관 속에서 대한민국 대표 밴드 자우림의 공연을 끝으로 축제는 막을 내린다.&lt;br&gt;&lt;br&gt;농수특산물장터를 소상공인 품목까지 확대해 상생장터로 운영하며, 우수 물품을 20% 할인 가격으로 판매한다.&lt;br&gt;&lt;br&gt;이 밖에도 오름 등반, 마상마예공연, 민속체험, 읍면동별 경연대회와 함께 축제장 내 다양한 체험 부스를 운영한다.&lt;br&gt;&lt;br&gt;김완근 제주시장은 “알차게 준비한 축제장을 찾아 액운은 멀리 보내고 새봄의 새로운 희망을 듬뿍 담아가시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>노인 통합 돌봄… 한번 신청으로 30개 서비스</title>
