@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산서 부모와 함께 자던 신생아 숨져… 경찰 부검 예정</title>
+      <link>https://www.chosun.com/national/regional/2026/03/08/3UW3GKT6KNAPDLZUEG4E7RNBBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/08/3UW3GKT6KNAPDLZUEG4E7RNBBQ/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Mar 2026 05:26:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모와 함께 자던 생후 42일 된 신생아가 숨져 경찰이 사망 원인 조사에 나섰다.&lt;br&gt;&lt;br&gt;8일 부산 사하경찰서에 따르면 이날 오전 5시 30분쯤 사하구의 한 주택에서 생후 42일 된 신생아가 숨을 쉬지 않는다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고받고 출동한 소방대원이 신생아를 병원으로 옮겼지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 홈 캠(집 안에 설치된 카메라)으로 녹화된 영상을 확인한 결과, 신생아가 부모와 함께 잠을 자다 갑자기 숨을 쉬지 못해 숨진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;전문가들은 만 1세 미만의 아기가 갑자기 숨지는 영아 돌연사 증후군을 예방하려면 푹신한 침구류를 쓰면 안 되며, 성인과 분리된 아기 전용 침대에 재울 것을 권고하고 있다.&lt;br&gt;&lt;br&gt;경찰은 신생아가 숨진 정확한 원인을 조사하기 위해 부검을 실시할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>거제 대포항 선박서 불… 1시간30분만에 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/03/08/EDSHO6NPCZC2HJPKTRQ7YPOR2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/08/EDSHO6NPCZC2HJPKTRQ7YPOR2U/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Mar 2026 04:53:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTDQMRSMVTGEMZVGAYDCM3GGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 밤 11시 49분쯤 거제시 남부면 대포항에 계류된 선박에서 불이 났다. 사진은 화재 현장 모습./통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제시 대포항에 계류된 선박에서 화재가 발생해 약 1시간 30분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;8일 경남 통영해양경찰서에 따르면, 지난 7일 밤 11시 49분쯤 계류용 바지선에서 불길이 치솟는 광경을 순찰 중이던 통영해경 소속 경찰관이 목격했다. 해당 경찰관은 즉시 상황실로 지원을 요청하는 동시에 소화기로 자체 진압을 시도했다.&lt;br&gt;&lt;br&gt;돌풍 영향으로 불길이 인근 선박으로 옮겨 붙는 등 한때 긴박한 상황이 빚어지기도 했으나, 해경 경비함정과 119소방대 등의 진화 작업으로 8일 새벽 1시 20분쯤 불은 완전히 꺼졌다.&lt;br&gt;&lt;br&gt;이 화재로 3t급 연안 복합선과 2t급 모터보트 등 선박 2척이 전소됐으며, 계류용 바지선 2척이 부분 소실됐다.&lt;br&gt;&lt;br&gt;화재 진화 과정에서 연기를 마신 경찰관 1명이 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;해경은 현장 조사 등을 토대로 화재 원인과 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “선박 화재는 초기 진압이 중요한 만큼 발견 즉시 신고해 주고, 예방을 위해 정기적인 설비 점검과 인화 물질 관리에 각별히 주의해 달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>작년 ‘SKY’ 신입생 미충원 61명...의대 증원 여파에 6년 만에 최다</title>
       <link>https://www.chosun.com/national/education/2026/03/08/SGWRKPZISFGK5GVTO54FQEESH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/08/SGWRKPZISFGK5GVTO54FQEESH4/</guid>
@@ -878,24 +896,6 @@
       <description/>
       <pubDate>Fri, 06 Mar 2026 01:17:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YGGOJSMI4TENTEGBSDMYRZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 애월읍 새별오름에서 열리는 제주들불축제. /제주들불축제 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“횃불대행진과 달집태우기로 액운을 막고 소원 빌어보세요.”&lt;br&gt;&lt;br&gt;제주시는 오는 9~14일 애월읍 새별오름 일대에서 ‘제주, 희망을 품고 달리다!’라는 주제로 2026 제주들불축제를 개최한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;제주시는 올해는 들불축제의 정체성을 강화하기 위해 ‘불’ 콘텐츠를 보강했다. 오랜 기간 관람객들의 사랑을 받아온 횃불대행진과 달집태우기를 다시 선보이고, 달집태우기와 축하공연까지 속도감 있는 연출로 현장의 몰입도를 극대화한다. 방문객들이 정성껏 적은 소원지를 태워 하늘로 날려 보내며 희망을 기원하는 시간도 갖는다.&lt;br&gt;&lt;br&gt;오름에 실제 불을 놓는 대신 새별오름 전역을 활용한 융복합 미디어아트쇼 ‘디지털 불놓기’를 선보인다. 장비와 영상 품질을 높이고 특수효과 등을 더한 입체적인 연출로 몰입감과 감동을 선사할 계획이다.&lt;br&gt;&lt;br&gt;사전 행사는 오는 9일부터 12일까지 운영된다. 소원지 쓰기·달기, 꼬마달집 만들기와 함께 오름 해설사와 동행하는 ‘오름 도슨트’ 투어를 1일 3회 운영한다. 11일부터는 제주의 전통 결혼문화인 가문잔치 재현 공간을 활용한 포토존을 개방해 방문객에게 특별한 추억을 제공할 예정이다.&lt;br&gt;&lt;br&gt;본 행사는 13일 삼성혈에서의 채화 행사로 시작된다. ‘희망의 여정’을 주제로 한 개막공연은 희망불 안치와 달집태우기로 시작한다. 미스터트롯3 우승자인 트로트 가수 김용빈이 무대에 올라 새별오름의 밤을 장식한다.&lt;br&gt;&lt;br&gt;14일에는 ‘희망의 찬가’를 주제로 전도 풍물 대행진, 횃불 대행진, 달집태우기가 펼쳐지며, 동시에 디지털 불놓기가 새별오름을 수놓는다. 실제 ‘불’과 디지털 ‘불’이 어우러지는 장관 속에서 대한민국 대표 밴드 자우림의 공연을 끝으로 축제는 막을 내린다.&lt;br&gt;&lt;br&gt;농수특산물장터를 소상공인 품목까지 확대해 상생장터로 운영하며, 우수 물품을 20% 할인 가격으로 판매한다.&lt;br&gt;&lt;br&gt;이 밖에도 오름 등반, 마상마예공연, 민속체험, 읍면동별 경연대회와 함께 축제장 내 다양한 체험 부스를 운영한다.&lt;br&gt;&lt;br&gt;김완근 제주시장은 “알차게 준비한 축제장을 찾아 액운은 멀리 보내고 새봄의 새로운 희망을 듬뿍 담아가시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 재판소원 앞둔 헌재, 대법원 거친 사건만 들여다본다</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/06/ENBZ4VQ66RD4NH2NOAT3NY43CM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/06/ENBZ4VQ66RD4NH2NOAT3NY43CM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 20:00:00 +0000</pubDate>
-      <content:encoded>재판소원 제도 시행을 앞두고 헌법재판소가 대법원을 거치지 않은 사건은 ‘사전 심사’ 단계에서 원칙적으로 각하(却下)하는 방침을 세운 것으로 5일 확인됐다. 1·2심 판결에 불복해 대법원에 상고하지 않고 확정된 사건은 재판소원 대상에서 제외하겠다는 것이다. 각하는 소송 요건을 갖추지 못한 사건을 심리하지 않고 종료하는 절차다.&lt;br&gt;&lt;br&gt;헌재는 지난 3일 재판관 9인 전원이 참여한 재판관회의를 열고 재판소원 도입 시행과 관련한 사전 심사 제도 등을 논의했다. 재판소원은 확정된 법원 판결이 기존 헌재의 결정에 반하거나, 헌법과 법률을 위반해 국민의 기본권을 침해한 경우 헌재가 심판해 취소할 수 있는 제도다. 이런 내용을 담은 헌법재판소법 개정안이 국회에 이어 이날 국무회의를 통과해 공포·시행을 앞두고 있다.&lt;br&gt;&lt;br&gt;헌재는 헌법연구관 8명으로 구성된 ‘재판소원 전담 사전 심사부’를 운영할 예정이다. 재판소원 도입으로 사건이 폭증할 것이라고 보기 때문이다. 그런 만큼 헌재 사전 심사를 통해 재판소원 대상 사건을 ‘대법원을 거쳐 확정된 판결’ 등으로 걸러내겠다는 것이다. 헌법소원의 경우 ‘다른 절차를 모두 거친 뒤에도 기본권 구제가 이뤄지지 않았을 때’로 제기 요건을 정하고 있다. 재판소원도 1·2심 단계에서 확정된 판결은 스스로 불복 절차를 포기한 것이이서 재판소원 대상에서 빼기로 한 것이다.&lt;br&gt;&lt;br&gt;헌재는 재판소원이 ‘부자들을 위한 4심제’라는 우려를 씻겠다며 국선대리인 제도도 확대하기로 했다. 헌법재판은 변호사 없이 청구할 수 없도록 돼 있어, 변호사 선임 비용을 낼 여력이 없으면 재판소원 제도를 이용하기 어렵다는 지적이 있었다. 헌재 규칙 등에 따르면 월평균 수입이 300만원 미만이거나 취약계층인 경우 국선대리인 신청이 가능하고 ‘공익상 필요한 경우’ 헌재가 직권으로 선임하기도 한다. 헌재 관계자는 “재판소원 사건이 사전 심사를 통과했다면 이는 중대한 헌법적 의미가 있다는 뜻이기 때문에 이런 경우 소득 요건을 갖추지 않아도 국선대리인을 선임하는 방안을 검토하고 있다”고 전했다. &lt;br&gt;&lt;br&gt;김상환 헌재소장은 작년 7월 국회 인사청문회 때 “(재판소원은) 국민 기본권 보장 가능성을 높이는 장점은 있지만 4심제로 작동돼 판결 확정 시기가 늦어지고 비용이 증가할 가능성도 있다. 개헌을 통해 (도입) 하는 게 논란의 여지가 없겠다”고 했었다. 그러나 취임 후 헌재는 “재판소원은 4심제와 본질적으로 다르고, 개헌이 재판소원 도입의 전제 조건이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] “김병기 사무실서 돈 받았다고? 그때 그 장소에 가지도 않았다”</title>
-      <link>https://www.chosun.com/national/incident/2026/03/06/T27ZZQZNTZDQJNRWEZBVEVERNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/06/T27ZZQZNTZDQJNRWEZBVEVERNI/</guid>
-      <dc:creator>강지은 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Mar 2026 20:00:00 +0000</pubDate>
-      <content:encoded>김병기(무소속·서울 동작갑) 의원의 ‘불법 선거 자금 수수’ 혐의를 둘러싸고 돈을 줬다는 전직 서울 동작구의원 측과 김 의원 측 간에 진실 공방이 이어지고 있다. 김 의원 아내 이모씨는 지난 2020년 제21대 총선을 앞두고 동작구의원 2명에게서 3000만원을 받았다가 돌려준 혐의로 경찰 수사를 받고 있다. 그런데 전직 구의원 A·B씨는 김 의원 측에게 돈을 줬다가 나중에 돌려받았다고 주장하는 반면 김 의원 측은 돈을 받은 적이 없고 그러니 돌려준 적도 없다고 맞서고 있다. 경찰은 김 의원과 측근들의 당시 일정 자료 등을 입수해 누구 주장이 맞는지 검토하는 것으로 5일 알려졌다.&lt;br&gt;&lt;br&gt;전직 구의원들은 “김 의원 아내와 그의 측근인 이지희 동작구의회 부의장이 2020년 총선 자금을 요구해 3000만원을 건넸는데, 총선 후인 2020년 6월 별다른 설명 없이 반환받았다”고 경찰에 진술했다. 그런데 김 의원 아내 이씨와 이 부의장은 “돈을 요구하거나 돌려준 적 없다. 구의원들이 돈을 돌려받았다는 장소에 있지도 않았다”고 경찰에서 진술했다고 한다. 이씨 등은 경찰에 알리바이를 입증할 수 있다며 관련 자료도 제출했다고 한다. &lt;br&gt;&lt;br&gt;양측이 금품이 오갔는지를 두고 상반된 진술을 하는 만큼, 금품이 오갔다고 지목된 시점의 알리바이가 중요 증거가 될 수 있다. 이와 관련해 A·B씨는 2020년 총선 전 이 부의장에게 1000만원, 이씨에게 2000만원을 전달했다고 주장한다. 그러다가 그해 6월 김 의원의 동작구 지역 사무실에서 열린 ‘민주당 시·구의원 정례회의’를 마치고 김 의원 측이 돈을 돌려줬다고 경찰에 진술한 것으로 전해졌다. B씨는 “회의가 끝나고 사모님(이씨)이 ‘새우깡이니 딸 주라’며 쇼핑백을 건넸는데, 그 안에 2000만원이 담겨 있었다”고 경찰에 진술했다고 한다.&lt;br&gt;&lt;br&gt;하지만 이씨와 이 부의장은 경찰 조사에서 “구의원들이 돈을 돌려받았다고 주장한 날짜에 김 의원 지역 사무실이 아닌 다른 공간에 있었다”고 진술한 것으로 알려졌다. 이들은 A·B씨가 회의가 열렸다고 주장하는 날 김 의원 지역 사무실을 촬영한 사진에 자신들은 나오지 않는다며 관련 사진을 경찰에 제출했다. 이씨 등은 또 구의원들이 돈을 돌려받았다고 지목한 시점엔 김 의원 지역 사무실에서 정례회의가 열린 적이 없다고 주장했다고 한다. &lt;br&gt;&lt;br&gt;경찰은 압수수색으로 확보한 김 의원 일정 자료 등을 바탕으로 당시 사무실에서 정례회의가 열렸는지, 회의가 열렸다면 이씨와 이 부의장이 이 회의에 참석했는지 조사 중인 것으로 전해졌다. A·B씨 계좌 내역을 확보해 당시 현금 입출금 흐름도 확인 중이라고 한다. 법조계에선 “어느 쪽 주장이 구체적이고 일관됐는지, 주장에 부합할 관련 자료가 있는지에 따라 경찰의 판단이 달라질 수 있다”는 말이 나온다.&lt;br&gt;&lt;br&gt;경찰은 조만간 김 의원을 세 번째로 불러 조사할 계획이다. 김 의원은 지난달 26~27일 진행된 경찰 조사에서 공천 헌금 묵인 의혹과 차남의 대학 편입 및 취업 개입 의혹 등 13가지 혐의를 모두 부인했다고 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>노인 통합 돌봄… 한번 신청으로 30개 서비스</title>
