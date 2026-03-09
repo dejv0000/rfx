@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 3월 10일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/09/F3ZYRSEEHVC7TKMSFUN76NROLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/09/F3ZYRSEEHVC7TKMSFUN76NROLE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Mar 2026 14:31:00 +0000</pubDate>
+      <content:encoded> 낮과 밤 일교차 커, 건강 유의해야&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W44ZN6DGSFFEDCYAGJYNLKCARE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘불법 대북송금 수사’ 박상용 검사, 임은정 명예훼손 혐의 고소</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/09/AWBZ3DPAANCU7M4ZNAU5EB3R44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/09/AWBZ3DPAANCU7M4ZNAU5EB3R44/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Mar 2026 14:07:19 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2FFLWXSTNMJHCD7NTZTCY4YGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상용 검사 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’ 사건을 수사했던 박상용 검사가 9일 임은정 서울동부지검장을 명예훼손 혐의로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;박 검사는 이날 언론에 배포한 입장문과 검찰 내부게시판(이프로스) 글에서 임 지검장이 최근 올린 글을 언급하며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;박 검사는 임 지검장이 해당 글에서 자신을 ‘공개 저격’했다며 “임 지검장이 정권이 원하는 대로 저에게 누명을 씌우고자 하는, 어떻게 공을 세워 정치적·인사상 이익을 얻고자 하는 의도에서 쓴 것이 아니라면 도저히 이해할 수 없는 글”이라고 비판했다.&lt;br&gt;&lt;br&gt;그러면서 박 검사는 “지금 검찰 조직과 지휘부는 임 지검장처럼 노골적이지 않을 뿐 본질적으로 같다”면서 “유죄 확정 판결까지 선고된 대북송금 사건이 어찌 되든, 이 조직이 어떻게 되든, 오로지 개인의 이익과 안위에 따라 움직이는 사람들”이라고 지적했다. &lt;br&gt;&lt;br&gt;임 지검장은 지난 5일 이프로스에 ‘2021. 3월 고발당한 공무상기밀누설 사건에 대해 불기소 결정을 받았습니다’라는 제목의 글을 올렸다. 임 지검장은 해당 글에서 민주당 등이 제기한 박상용 검사의 이화영 전 경기도 평화부지사 회유 의혹을 수사하는 서울고검 인권TF 검사들이 “과거 저처럼 동료들의 비난에 힘들어하고 있지 않을까 걱정스럽다” “진실은 결국 드러나고 벌은 지체될지언정 피해 갈 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;해당 글에 한 현직 검사는 댓글에서 “권력의 핍박·수사·감찰에 시달리고 있는 박상용 검사는 걱정되지 않느냐" “대북 송금 사건에 대해 정확히 아는 게 아니면 한쪽 편만 들며 ‘나도 힘들었다, 힘내라’ 같은 소리는 하지 말라”고 했다. 또 다른 현직 검사도 “임은정 검사장은 왜 그런 편향적인 생각을 하는지 스스로를 되돌아봤으면 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘강도 제압’ 나나 “무술 배운 적 없다, 본능적으로 방어한 것”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/09/CKGC3LYVQZELHNPEHVAXSEX5UA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/09/CKGC3LYVQZELHNPEHVAXSEX5UA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Mar 2026 14:09:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P65JZMKLV5CJJEI3IPP5STKDAY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 '애프터스쿨' 출신 배우 나나. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘애프터스쿨’ 출신 배우 나나(34·본명 임진아)가 자택 흉기 강도 침입 사건 당시 급박했던 상황을 직접 털어놨다.&lt;br&gt;&lt;br&gt;나나는 9일 공개된 유튜브 채널 ‘짠한형’ 영상에 출연해 작년 11월 15일 발생한 강도 사건을 언급했다. 당시 강도는 구리시 아천동에 있는 나나 자택에서 준비한 사다리를 타고 침입한 뒤 나나 어머니의 목을 조르는 등 상해를 가했다. 잠에서 깬 나나가 강도를 막으려 나섰고, 몸싸움 끝에 모녀가 강도 팔을 붙잡아 제압한 뒤 경찰에 신고했다.&lt;br&gt;&lt;br&gt;나나는 “정신이 없었다. 천만다행이었고 저는 그 순간이 굉장히 길게 느껴졌다. 근데 찰나의 순간이었다”며 “사건이 정리되고 든 생각은 ‘위급한 상황에서 무언가 닥쳤을 땐 본능적으로 행동해야겠구나’라는 거다. 이것저것 생각하는 찰나에 오히려 정말 위험할 수 있는 상황이 되겠더라”라고 말문을 열었다.&lt;br&gt;&lt;br&gt;그는 “엄마는 거실에 계셨고 전 방에서 자고 있었다. 방이 거실과 많이 떨어져 있고 문이 잠겨 있어서 소리가 안 들린다”며 “축복처럼 엄마의 그 작은 소리가 귀에 들려 잠에서 깼다. 엄마는 제가 깰까 봐, 딸이 있으니까 소리를 못 지르셨다”고 했다. 이어 “사실 흉기가 없었으면 그렇게까지 용기가 났을까 싶다”며 “상상도 못 하고 나갔는데 떨어진 흉기가 보였다. 본능적으로 방어한 것”이라고 했다.&lt;br&gt;&lt;br&gt;나나는 “엄마가 목이 졸려서 살짝 실신하셨는데, 숨이 넘어갈 듯 될 때 ‘진아야 문 잠가!’ 소리를 한마디라도 할 걸 하고 후회가 되더라고 하셨다”며 “그 얘길 듣는데 그 순간 엄마의 감정들과 얼마나 무서웠을지가 느껴지면서 ‘우리는 서로를 평생 지키겠구나’ 싶었다. 엄마와 더 돈독한 계기가 되기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;사건 이후 나나가 특공무술 공인 4단 보유자였다고 보도된 데 대해서는 “아니다. 저는 무술을 배워본 적도 없다”며 바로잡았다. 그러면서 “진짜 아무 생각 없이 ‘엄마가 위험한 상황이다’라는 직감 하나로 그냥 나간 것”이라며 “보자마자 바로 달려들었다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 강도 A씨는 나나 모녀와 몸싸움을 벌이던 과정에서 상해를 입었다며 나나를 살인미수 혐의로 역고소했다. 그러나 경찰은 나나 모녀에게 실질적인 침해가 있었고, 이를 방어하는 과정에서 A씨에게 심각한 상해를 가하지는 않았기에 정당방위에 해당한다고 판단해 불송치 결정했다. 이후 나나는 A씨를 무고죄로 추가 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>흉기 든 강도 상해 입힌 나나 모녀, 정당방위 인정됐다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/22/GZL3RNVLUJHDZGQMXER25GCIRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/22/GZL3RNVLUJHDZGQMXER25GCIRU/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 23:42:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TN7TROS4BBEGZHJLZHAFFJWAS4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 '애프터스쿨' 출신 배우 나나. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘애프터스쿨’ 출신 배우 나나(34·본명 임진아)가 자택에 침입한 흉기 강도를 제압하는 과정에서 가한 상해가 정당방위로 인정됐다.&lt;br&gt;&lt;br&gt;경기 구리경찰서는 특수강도상해 혐의로 구속된 30대 남성 A씨를 검찰에 구속 송치할 예정이라고 22일 밝혔다. 이번 사건에선 나나와 어머니가 A씨를 제압할 때 가한 상해의 법적 성격, 즉 정당방위 인정 여부에 관심이 쏠렸다. 당시 A씨는 흉기를 든 채 침입했고, 이를 막으려 나나 모녀가 몸싸움을 벌였다. 이때 A씨는 흉기에 의한 턱 부위 열상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 피해자와 피의자 진술 등을 토대로 형법 제21조 제1항의 정당방위 여부를 검토했다. 이 조항은 ‘현재의 부당한 침해’로부터 자기 또는 타인의 법익을 방위하기 위한 행위가 ‘상당한 이유’가 있는 경우 성립한다고 규정하고 있다. 경찰은 나나 모녀에게 실질적인 침해가 있었고, 이를 방어하는 과정에서 A씨에게 심각한 상해를 가하지는 않아 정당방위에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 15일 오전 6시쯤 구리시 아천동에 있는 나나 집에 흉기를 들고 침입해 나나 모녀를 위협하고 상해를 가하며 돈을 요구한 혐의를 받는다. 그는 준비한 사다리를 타고 베란다까지 올라간 뒤 열려 있던 문을 통해 침입한 것으로 파악됐다. 비교적 왜소한 체격의 A씨는 집 안에서 나나의 어머니를 마주치자 목을 조르는 등 상해를 가했다.&lt;br&gt;&lt;br&gt;어머니의 비명을 들은 나나가 잠에서 깨 A씨를 막으려 나섰고, 몸싸움 끝에 모녀가 A씨 팔을 붙잡아 움직이지 못하게 한 뒤 경찰에 신고했다. 나나의 어머니는 부상으로 한때 의식을 잃기도 했으나 치료 후 회복했고 나나 역시 상처를 입어 치료를 받았다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 무직이며 이른바 사생팬이거나 특정 연예인의 집을 노린 범행은 아니라고 전했다. 나나 모녀도 A씨와 일면식이 없다고 진술했다. A씨는 경찰 조사에서 “집에 아무도 없을 줄 알고 들어갔다”며 “연예인이 사는 곳인지 몰랐고 생활비가 부족해 범행했다”는 취지의 진술을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생들 대자보 반발에… 배우 한지상, 성균관대 강사 임용 취소</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/09/3VAUZUSWZBB2NP3AXIECOYH6G4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/09/3VAUZUSWZBB2NP3AXIECOYH6G4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Mar 2026 11:57:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYGTWTUK4VDW5NWKICYHW3KLKI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한지상. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성균관대학교가 배우 한지상(44)을 연기예술학과 강사로 임용했다가 학생들 반발에 철회했다.&lt;br&gt;&lt;br&gt;성균관대 연기예술학과 교수진은 9일 입장문을 내고 “대학 본부와의 협의 및 교수회의를 통해 2026년도 1학기 보이스 수업의 강사(한지상)를 교체해 진행하게 됐음을 공고한다”고 알렸다. 교수진에 따르면, 앞서 한지상은 1학년 필수 과목인 ‘보이스’ 수업 강사로 확정됐다. 기존 강사가 다른 학교 전임 교원으로 발령 난 뒤, 동문인 한지상이 추천돼 정식 절차 끝에 최종 임용이 결정된 것이었다.&lt;br&gt;&lt;br&gt;하지만 임용 소식이 공식화된 후 과거 한지상의 성추행 논란이 거론되며 학생들 사이에서 부정적 여론이 형성됐다. 윤리적으로 논란을 빚었던 인물이 강단에 서는 것에 대한 비판이 제기됐고, 결국 지난 5일 이를 규탄하는 대자보가 학교에 게시되기도 했다.&lt;br&gt;&lt;br&gt;교수진은 “심사 과정에서 한지상의 과거 사건이 언급되긴 했으나 당시 강제추행이 없었다는 사실이 최근 여러 차례 사법기관에서 입증돼 공소장에 명시된 점, 이 일에 대한 여론 악화로 배우가 오랫동안 여러 피해를 본 점, 한 번의 일로 한 인간의 삶 전체가 회복 불가능할 정도로 매장되는 풍토에 대한 문제의식을 교수들 간 공유했다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “그러나 SNS상에서 비판이 일었고 대자보가 게시됐다. 이 과정에서 대자보가 교수를 포함한 학과 구성원들 간의 충분한 논의 없이 제거되면서 실제 교육을 받게 될 학생들과 필요한 소통이 차단되는 결과를 초래하게 됐다”며 “이는 누구나 자유롭고 안전하게 다양한 의견을 개진할 수 있는 문화를 조성해 오지 못한 교수진의 책임이 큰 부분이었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “교수진은 보다 엄정한 기준과 소통 절차를 정례화해 학생들의 교육권을 보장하는 데 힘쓰도록 하겠다”며 “나아가 교수진은 향후 단 한 명의 학생이라도 학교의 교육 환경에서 안전하다고 느끼지 못한다면 최선을 다해 문제를 개선해 나갈 것이고 더 엄격한 윤리적 기준과 감수성 안에서 교육을 이끌어 나갈 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;한지상은 2003년 연극 ‘세발자전거’로 데뷔한 후 뮤지컬 ‘벤허’ ‘지저스 크라이스트 수퍼스타’ ‘데스노트’ 등에서 주연으로 활약하며 큰 인기를 끌었다. 드라마 ‘장미빛 연인들’ ‘워킹 맘 육아 대디’ 등에도 출연해 얼굴을 알렸다. 조연부터 쌓아온 꾸준한 연기 경력으로 ‘믿고 보는 배우’라는 평가를 받기도 했다.&lt;br&gt;&lt;br&gt;그러나 그는 2020년 여성 팬을 강제 추행했다는 의혹에 휩싸이며 논란의 중심에 섰다. 당시 피해를 호소한 여성 A씨는 술자리에서 성추행당했다고 주장했고, 한지상은 호감을 갖고 만나던 사람으로부터 ‘공개 연애를 하든지 수억 원을 달라’는 협박을 받았다고 반박했다. 이후 한지상은 A씨를 공갈 미수 및 강요 혐의로 고소했고, 검찰은 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘명태균 1심 무죄’ 김인택 부장판사, 청탁금지법 위반 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/09/QYR4FACU3FAKBMQYSCUV44ZGIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/09/QYR4FACU3FAKBMQYSCUV44ZGIY/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Mar 2026 10:50:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZWCNZWHAZGMNDEGVRDAMJQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치자금법 위반 등 혐의로 재판에 넘겨진 '정치 브로커' 명태균 씨가 지난달 5일 오후 경남 창원 성산구 창원지방법원에서 열린 1심 선고 공판에서 무죄를 선고받은 후 법정을 나서며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘명태균 게이트’ 사건과 관련해 ‘정치 브로커’ 명태균씨와 김영선 전 국민의힘 의원에게 1심에서 무죄를 선고한 김인택 부장판사가 면세점 간부로부터 350여 만원 상당의 여행 비용을 대납받은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;9일 본지가 박은정 조국혁신당 의원실을 통해 입수한 공소장에 따르면 서울중앙지검 국제범죄수사부(부장 정유선)는 지난달 4일 김 부장판사를 청탁금지법 위반 혐의로 기소했다. 김 부장판사는 HDC신라면세점의 A 팀장에게 3차례에 걸쳐 여행 비용을 대납받은 혐의를 받는다. 비용을 대신 지불한 A 팀장도 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;공소장에 따르면 김 부장판사는 2024년 10월 3일 일본으로 골프 여행을 가면서 약 106만원 상당의 왕복 항공권을 A 팀장으로부터 제공받았다. 작년 2월 28일에도 일본에 골프 여행을 가면서 왕복 항공권 약 60만원과 숙박비 약 56만원을 A 팀장이 대납하도록 했다. 작년 5월 3일에도 중국으로 떠난 골프 여행에서 A 팀장이 124만원 상당의 왕복 항공권을 결제했다.&lt;br&gt;&lt;br&gt;청탁금지법에 따르면 판사 등 공무원이 한 번에 100만원 이상의 금품을 받을 경우 3년 이하의 징역 또는 3000만원 이하의 벌금형에 처해진다.&lt;br&gt;&lt;br&gt;검찰은 지난 4일 김 부장판사 등을 청탁금지법 위반 혐의로 약식 기소했다. 약식 기소는 검찰이 정식 공판을 거치지 않고 서면 심리를 통해 벌금이나 과태료를 내려달라고 법원에 약식명령을 청구하는 절차다. 검찰은 김 부장판사를 벌금 500만원, A 팀장을 벌금 300만원에 약식 기소했다. 서울중앙지법 형사11단독 김재학 판사는 지난 6일 김 부장판사와 A 팀장에게 벌금형 약식명령을 내렸다.&lt;br&gt;&lt;br&gt;김 부장판사는 사법연수원 26기로 서울중앙지법 부장판사, 서울동부지법 부장판사 등을 거쳐 창원지법에서 명씨 관련 사건 1심 재판장을 맡았다. 김 부장판사는 지난달 5일 명씨와 김영선 전 의원의 정치자금법 위반 혐의에 대해 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시나위 보컬 김바다, 마약 혐의 체포… 속초서 대마 흡입</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/09/LPRUS6OFYBEN3NJKSDLTHW2FH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/09/LPRUS6OFYBEN3NJKSDLTHW2FH4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Mar 2026 10:40:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYERP5YXKND4NP3IZRVT4FEP7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밴드 '시나위' 보컬 출신 김바다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;록밴드 ‘시나위’ 보컬 출신 가수 김바다(55)가 대마 흡연 혐의로 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;강원 속초경찰서는 김바다를 마약류 관리법 위반 혐의로 현행범 체포했다고 9일 밝혔다. 김바다는 전날 오후 8시 30분쯤 속초 시내 한 건물에서 대마를 소지하고 흡입한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 경찰은 체포 영장을 발부받고 2개월간 추적 수사를 벌인 끝에 김바다를 체포했다. 김바다는 경찰 조사에서 관련 혐의를 인정한 것으로 전해졌다. 경찰은 구속영장 신청 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;김바다는 1995년 기타리스트 신대철이 이끄는 밴드 시나위 5대 보컬로 합류해 인기를 얻었다. 1999년 탈퇴 후에는 ‘나비효과’ ‘레이시오스’ ‘아트오브파티스’ 등 여러 밴드에서 노래하다, 최근엔 솔로 활동에 집중했다.&lt;br&gt;&lt;br&gt;2012년 재결성한 시나위 보컬로 MBC 음악 예능 프로그램 ‘나는 가수다 2’에 출연해 화제를 모았다. 그 뒤로도 ‘복면가왕’ ‘불후의 명곡’ 등 다양한 방송과 공연 무대에서 대중과 만났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>산책로 없는 시골의 비극, 찻길 걷다 ‘황천길’</title>
       <link>https://www.chosun.com/national/national_general/2026/03/04/LKL7J4S54FBXLPZDUHI2HE3O54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/04/LKL7J4S54FBXLPZDUHI2HE3O54/</guid>
@@ -885,60 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QRV64REDFLUZPVIMGKNXQJUOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원과 서울중앙지법이 있는 서울 서초구 서울법원종합청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국토지주택공사(LH)가 발주한 건설 사업 관리 용역 입찰 과정에서 뇌물을 받은 혐의로 1심에서 실형 선고를 받았던 공공기관 직원들에게 항소심에서 무죄가 선고됐다. &lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울고법 형사6부(재판장 정재오)는 최근 뇌물 혐의로 기소된 공공기관 직원 A·B씨의 항소심에서 무죄를 선고했다. 재판부는 검찰이 원래 수사 대상이 아닌 별건(別件) 범죄 혐의를 발견하고도 새로 영장을 받지 않고 수집한 증거에 대해 증거능력이 없다고 판단했다.&lt;br&gt;&lt;br&gt;두 사람은 2019~2020년 LH가 발주한 고난도 기술형 입찰의 건축 분야를 전담하는 심사위원으로 참여하면서, 건설 관리 용역 입찰에 참여한 컨소시엄들로부터 수천만원대 뇌물을 받은 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 한 컨소시엄 측으로부터 “1등 점수를 달라”는 청탁과 함께 현금 3000만원을 받고, 경쟁사인 다른 컨소시엄으로부터 “찍어주면 은혜를 갚겠다”는 청탁을 받고 4000만원을 받는 등 총 7000만원의 뇌물을 받은 것으로 조사됐다. B씨 역시 같은 용역 심사 과정에서 특정 컨소시엄에 높은 점수를 달라는 청탁을 받고 2000만원을 수수한 혐의를 받았다.&lt;br&gt;&lt;br&gt;이 사건은 검찰이 건설업체들 간의 ‘입찰 담합’ 사건을 수사하기 위해 압수 수색하는 과정에서 포착됐다. 2023년 인천 검단신도시 공공분양 아파트 현장에서 이른바 ‘철근(전단보강근) 누락’ 등으로 붕괴 사고가 발생하자, 검찰은 관련 용역 업체들을 조사하는 과정에서 ‘LH 전관’이 재직 중인 업체들의 낙찰 비율이 높다는 점을 포착하고, 담합 의혹 수사에 착수해 압수 수색 영장을 받았다. 그런데 영장 집행 과정에서 우연히 LH 외부 평가위원 성향 분석 자료와 로비 정황이 담긴 녹취 파일 등을 발견했고, 검찰은 별도의 영장 없이 이를 압수해 뇌물 수사에 활용했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 두 사람의 공소 사실을 유죄로 판단해 A씨에게 징역 3년과 벌금 7000만원, B씨에게 징역 2년과 벌금 2000만원을 선고했다. 그러나 항소심 재판부는 1심이 유죄의 근거로 삼았던 핵심 증거들이 ‘위법 수집 증거’라며 무죄로 뒤집었다. &lt;br&gt;&lt;br&gt;항소심 재판부는 ‘담합’과 ‘로비’는 본질적으로 주체와 목적이 다른 별개의 범죄라고 판단했다. 재판부는 “담합 수사를 위한 영장으로 뇌물 관련 증거를 압수할 수 없고 검찰은 뇌물 정황을 발견한 즉시 탐색을 중단하고 새로운 영장을 발부받았어야 했다”고 지적했다. 그러면서 “증거능력이 없는 증거들을 제외하면, 나머지 증거들만으로는 피고인들에 대한 공소사실이 합리적 의심 없이 증명되었다고 볼 수 없다”며 1심 판결을 파기하고 두 사람에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“미인계 써라” “그런 옷, 성적 호기심 자극” 성희롱 군무원…법원 “해임은 지나쳐”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/08/NGS74DZ27BBQNLNZW7KVBQOAHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/08/NGS74DZ27BBQNLNZW7KVBQOAHQ/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Mar 2026 03:15:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSDMYRQGA2TQMLEHA3TEOLCME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경. 서울가정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부하 직원들에게 성희롱과 갑질을 한 군무원을 해임 처분한 조치는 과도하다는 법원 판단이 나왔다. 재판부는 해임 외 다른 방식으로 징계 목적을 달성할 수 있었다고 봤다.&lt;br&gt;&lt;br&gt;서울행정법원 행정14부(재판장 이상덕)는 5급 군무원 A씨가 공군참모총장을 상대로 낸 해임처분 취소 소송에서 원고 승소로 판결했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;5급 군무원으로 공군 항공우주의료원 건강관리검진센터 내 진단검사의학과 과장으로 근무하는 A씨는 2020년 부하 직원의 옷차림을 지적하며 “그런 옷을 입으면 병사의 성적 호기심을 자극할 수 있다”는 말을 했다. 2022년 7월에는 교통사고로 인한 척추 압박골절로 척추보호대를 착용하고 있던 부하 직원에게 “너무 가슴이 강조되는 것 같다. 코르셋 입은 것 같다”라고 말했으며, 2023년 2월에는 “미인계를 써서 타 부서 창고에 있는 라디에이터와 화장실에 있는 라디에이터를 바꿔 달라고 요청해봐라”라고 성희롱 하기도 했다. &lt;br&gt;&lt;br&gt;갑질 행위도 있었다. A씨는 임기제 군무원들에게 업무 방식을 지적하며 재계약 불이익을 암시하는 듯한 말을 했고, 화장실과 샤워실, 세탁기 등을 독점했다. 2021년부터 2023년 2월까지는 당직 근무한 부서원들에게 다음 날 오전 시간 외 근무를 하도록 요구하는 등 직권을 남용하기도 했다.&lt;br&gt;&lt;br&gt;A씨의 이 같은 행위에 대해 공군참모총장은 2023년 7월 성희롱과 갑질행위, 직권남용 등으로 국방부장관 승인을 거쳐 A씨를 해임처분했다. A씨는 해임처분에 대해 항고를 제기했으나, 국방부 군무원 항고심사위원회는 2025년 5월 항고를 기각했다. 결국 A씨는 서울행정법원에 해임처분취소 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 손을 들어줬다. 재판부는 A씨에게 인정되는 징계사유에 비해 해임은 지나치게 과중하다고 설명했다. &lt;br&gt;&lt;br&gt;재판부는 성희롱과 관련해 “모두 신체 접촉 등을 수반하지 않은 언어적 성희롱에 불과하고, 남녀 사이의 성적 관계를 직접적으로 암시하거나 자신의 성적 만족감 달성을 위해 상대방을 농락하려는 취지에 기인한 발언은 아니었다고 보인다”고 봤다. 갑질과 직권남용 행위에 대해서도 “인정되는 비위 행위들도 부당한 요구나 처우가 실제로 동반되지는 않았거나 그로 인한 부서원들의 피해 정도가 현저히 큰 것은 아니었다”고 했다. 그러면서 “해임 수준에 이르지 않더라도 강등, 정직 등으로 징계 목적을 달성할 수 없는 경우였다고 단정하기 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;재판부는 그럼에도 A씨의 비위 정도는 중하다고 지적했다. 재판부는 “부서원들은 오랜 기간 A씨와 함께 근무하는 과정에서 A씨의 자잘한 언행들로 형성된 강압적인 분위기 속에서 상당한 압박감과 불안감, 스트레스를 받는 등 정신적 고통에 시달려 왔다”고 설명했다. 또 “A씨와의 직급 차이 및 경직된 인사구조로 인해 이를 제대로 표출하거나 해결을 위한 시도조차 하지 못한 채 억눌려 있던 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>6개월간 마약 단속 결과 마약 사범 1000여 명 늘어… “신종 마약류 유입 영향”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/08/X4IA6HUPHNDRNOCO6L73INYJAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/08/X4IA6HUPHNDRNOCO6L73INYJAA/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Mar 2026 03:00:44 +0000</pubDate>
-      <content:encoded>경찰청 국가수사본부가 지난해 8월부터 올해 1월까지 6개월간 실시한 마약 단속을 통해 마약류 사범 총 6648명을 검거하고 1244명을 구속했다고 8일 밝혔다. 전년 같은 기간(5726명 검거, 1042명 구속) 대비 1000여 명을 더 검거한 것이다. 태국·베트남에서 국제 택배로 마약을 밀수한 후 텔레그램으로 마약을 유통하거나, 베트남에서 케타민을 향신료 소스에 숨겨 들어와 국제 택배로 밀수한 후 텔레그램으로 유통한 조직 등이 검거됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTGINDDHAZTEMZZGU3TSNRZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 광역수사단 마약범죄수사대가 의료용 마약류 에토미데이트 판매 일당으로부터 압수한 물품들. /서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검거 인원이 늘면서 판매자 등 공급 사범은 2229명에서 2747명으로, 투약자 등 단순 사범은 3497명에서 3901명으로 모두 큰 폭으로 증가했다. 택배·던지기 수법 등 비대면 유통 방식이 일상화되고 가상 자산, 보안 메신저 이용 등 추적을 피하기 위한 수법도 고도화된 영향으로 풀이된다.&lt;br&gt;&lt;br&gt;마약 종류별로는 필로폰·합성대마·케타민 등 향정신성 의약품 사범이 5666명(85.2%)으로 대부분을 차지했다. 경찰 관계자는 “합성 물질을 이용한 신종 마약류 유입이 확대된 영향”이라고 했다. &lt;br&gt;&lt;br&gt;특히 온라인으로 마약을 구매한 마약사범은 3020명이 검거됐다. 전년 동기 2108명 대비 912명(43.3%) 증가한 숫자다. 온라인에 익숙한 10~30대 청년층이 전체의 67.2%를 차지했다. 연간 온라인 마약 사범 비중은 2022년 25%에서 2025년 40%로 계속해서 증가하고 있다.&lt;br&gt;&lt;br&gt;이외 의료용 마약류 시장에서는 전년 동기(437명) 대비 49% 증가한 651명을, 외국인 마약 사범은 전년 동기(981명) 대비 16.7% 증가한 1113명을 검거했다. 외국인 마약 사범의 국적은 태국·중국·베트남 등 3국이 76.8%로 대부분을 차지했다. 다만 클럽 등 유흥가 일대에선 검거 인원이 지난해 절반 수준인 223명으로 줄었다. 경찰은 “범정부 합동 점검 등의 영향이 있었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰이 지난해 1년간 압수한 마약류 총량은 608.5kg으로 전년 대비 33% 증가했다. 이 중에선 대마초(149kg, 24.5%), 합성대마(148.9kg, 24.5%), 필로폰(125.9kg, 20.7%), 케타민(106.2kg, 17.5%) 등이 많았다.&lt;br&gt;&lt;br&gt;경찰은 올해 상반기에도 마약류 집중 단속에 나설 예정이다. 경찰 관계자는 “지난 2월 출범한 범정부 신종 마약 대응 협의체 중심으로 단속, 예방·홍보, 국제공조 등 종합 대책을 마련할 것”이라고 했다. 클럽 등 유흥가 일대에 고강도 단속을 실시하고, 의료용 마약류에 대해서도 집중 단속에 나선다. 현재 3명 수준인 해외 마약 전담 협력관도 추가로 파견할 예정이다. 또 현재 국회에서 계류 중인, 마약 수사에 위장 수사를 도입하는 마약류관리법 개정 법안에 대해서도 신속한 입법을 추진한다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 공연 앞두고 숙박 업소 점검…요금 등 게시 안 한 18곳 적발</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/08/636GHWA6HBDWJBWO5THNNNS2ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/08/636GHWA6HBDWJBWO5THNNNS2ZA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Mar 2026 02:59:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYTAOBUG5QWGOJUGFRDKNTBGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 세종문화회관 계단에 방탄소년단(BTS)의 정규 5집 컴백을 알리는 홍보물이 설치되어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 21일 광화문광장에서 열리는 방탄소년단(BTS) 컴백 공연을 앞두고 숙박 업소를 점검한 결과, 요금표를 게시하지 않는 등 공중위생관리법을 위반한 18곳을 적발했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 지난달 25일부터 이달 4일까지 종로구·중구·서울경찰청과 함께 광화문 인근 호텔 등 숙박 업소 83곳을 대상으로 불시 점검을 실시했다. 지난달 초 명예 공중위생 감시원이 숙박 업소 569곳을 모니터링한 결과 요금을 게시하지 않은 업소를 확인해 집중 단속에 나선 것이다.&lt;br&gt;&lt;br&gt;점검 결과, 업소 18곳이 영업 신고증이나 숙박 요금표를 게시하지 않아 공중위생관리법 위반으로 적발됐다. 서울시는 적발된 업소를 순차적으로 입건해 수사를 진행한다는 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “종로구와 중구에 행정 처분도 요청할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;한편 서울시는 공연 당일인 21일까지 서울시 홈페이지와 ‘서울 스마트 불편 신고’ 앱으로 불법 숙박업 영업 행위, 요금 미게시, 게시 요금 미준수 등 시민 제보를 접수할 예정이다. 중요한 증거를 첨부해 신고한 제보자에게는 심의를 거쳐 포상금 최대 2억원을 준다.&lt;br&gt;&lt;br&gt;변경옥 서울시 민생사법경찰국장은 “공연을 보기 위해 서울을 찾은 관광객이 피해를 입지 않도록 공연 당일까지 강도 높은 불법 영업 점검과 수사를 펼치겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>날짜 틀린 소환장 보내고 궐석 선고…대법 “재판 다시 해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/08/CMKAJW3VFNEZHEXNK6AIPKIV4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/08/CMKAJW3VFNEZHEXNK6AIPKIV4E/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Mar 2026 02:53:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGCMZYMIYTKNZTMVQTKYJYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부 실수로 선고 날짜를 잘못 기재한 소환장을 피고인에게 보냈다가 선고 기일에 출석하지 않자 피고인 없이 형을 선고한 항소심 판결이 대법원에서 취소됐다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 대법원 2부(주심 권영준 대법관)는 사기 혐의로 기소된 A씨의 상고심에서 항소 기각으로 징역 3년을 선고한 원심 판결을 파기하고 사건을 광주지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 2018~2022년 한 지인에게 거짓말로 80차례에 걸쳐 3억9500만여 원을 빌린 뒤 갚지 않고 가로챈 혐의로 기소됐다. A씨는 빚이 많고 갚을 능력이 없었는데도 지인에게 “카페에서 일하고 있는데, 월급을 받으면 갚겠다”고 거짓말한 뒤 돈을 빌리고, 주식 투자 등에 사용한 것으로 나타났다. 1심은 지난해 A씨의 사기 혐의를 인정해 징역 3년을 선고했고, A씨는 “형이 너무 무겁다”며 항소했다.&lt;br&gt;&lt;br&gt;항소심 첫 공판은 작년 8월 20일 열렸다. 재판부는 그 자리에서 변론을 마친 뒤 다음 기일을 9월 24일로 지정해 A씨에게 출석을 명했다. 그런데 A씨는 다음 재판에 나타나지 않았고 재판부는 한 달 뒤인 10월 29일로 기일을 연기해 소환장을 보냈다.&lt;br&gt;&lt;br&gt;소환장은 A씨 집으로 제대로 전달됐고 A씨가 직접 수령했다. 그런데도 A씨는 10월 29일 법정에 출석하지 않았고, 재판부는 피고인이 두 차례 적법한 소환장을 받고 정당한 이유 없이 출석하지 않았을 때 ‘불출석 재판’을 허용하는 형사소송법에 따라 A씨 없는 상태에서 항소 기각을 선고했다. &lt;br&gt;&lt;br&gt;문제는 A씨 집으로 보낸 소환장의 ‘일시’란에 새로 지정한 10월 29일이 아닌, 원래 기일인 9월 24일이 적혀 있었던 것이다. 대법원은 이 같은 항소심 선고에 대해 “소송 절차에 관한 법령을 위반해 판결에 영향을 미친 잘못이 있다”며 파기환송했다. 대법원은 “출석 일시가 잘못 기재된 소환장은 법률이 정한 방식에 따라 작성됐다고 볼 수 없다”며 “A씨가 수령했더라도 이는 적법한 소환이 아니다”라고 했다. 이에 따라 A씨 사건은 광주지법 항소심으로 돌아가 다시 심리를 받게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>133만 유튜버 된 ’충주맨' 김선태 “유튜브 수익 30% 기부하겠다”</title>
-      <link>https://www.chosun.com/national/people/2026/03/08/MDOHKC46GJE4DJQE55QP4WIEME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/08/MDOHKC46GJE4DJQE55QP4WIEME/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Mar 2026 02:21:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQTMYJWHBQTKN3CGEYDKOBTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김선태 전 충주시 주무관./유튜브 '김선태'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜브 채널 개설 사흘 만에 구독자 100만명을 달성한 ‘전 충주맨’ 김선태 전 충주시 주무관이 채널 수익의 30%를 사회에 기부하겠다는 계획을 밝혔다.&lt;br&gt;&lt;br&gt;김선태는 지난 6일 자신의 유튜브 채널에 ‘100만 구독자 감사합니다’라는 제목의 영상을 올렸다. 영상에서 김선태는 “채널을 만든 지 엊그제 같은데 벌써 100만명이 돼 감사한 마음을 갖고 있다”며 “여러분을 우러러볼 수 있도록 가장 낮은 자세로 임하기로 했다. 항상 구독자를 높이는 마음, 구독자를 배려하는 마음, 겸손한 자세를 유지할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “광고가 엄청 달렸다. 메일이 700개가 왔다”며 “홍보 전문 채널을 만들 생각이다. 사람, 짐승, 물건, 공익, 기업 등 다양하게 홍보하겠다”고 밝혔다. 그러면서 “결국 저의 근본은 혼자다. 혼자 할 때 빛을 보는 스타일이다. 혼자 하기로 마음먹었다”며 “방송보다는 유튜브에 집중하고 싶은 마음이 크다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 “홍보하면 수익이 발생할 텐데 계속 사익을 추구하면 욕을 먹을 것 같다”며 “발생하는 유튜브 채널 수익을 7대3으로 나눠 소속사에 주는 대신 여러분에게 돌려드린다는 생각으로 제가 7, 기부를 3으로 하기로 했다”고 설명했다. &lt;br&gt;&lt;br&gt;다만 기부 콘텐츠에 대해서는 “자주 할 생각은 없다. 자주 하면 뭔가 좀 스스로 역겹다”며 “사회 기여를 하는 마음도 있지만, 그렇게까지 제가 천사는 아니기 때문에 그렇게 비치긴 싫다. 제가 마음 편해지고자 기부한다고 생각해주시면 된다”고 부연했다.&lt;br&gt;&lt;br&gt;충주시의 유튜브 콘텐츠 제작·운영을 전담하면서 ‘충주맨’으로 유명해진 김선태는 지난달 사직했다. 지난 2일 유튜브 채널을 개설한 김선태는 개설 사흘 만에 구독자 100만명을 달성했으며, 8일 오전 기준 구독자 수는 133만명을 기록하고 있다. 첫 영상인 ‘김선태입니다’에는 유튜브 공식 계정을 비롯해 원자력안전위원회, 기아, 우버, 서울대병원, 뽀로로 등 주요 기관과 기업들의 공식 채널이 잇따라 댓글을 남기며 화제가 된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘바보클럽’ 강민수 회장, 수필집 “내가 바보가 되면 친구가 모인다” 증보판 발간</title>
-      <link>https://www.chosun.com/national/regional/2026/03/08/S3YD2BDISJH3XCANYKIYJBY4KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/08/S3YD2BDISJH3XCANYKIYJBY4KQ/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Mar 2026 02:21:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYJPPC23WNGL7NWTDKCN64NM4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강민수 회장 수필집 ‘내가 바보가 되면 친구가 모인다’의 증보판. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에 거점을 두고 있는 사회봉사 단체 ‘바보클럽’의 강민수 회장이 지난 2001년에 펴낸 수필집 ‘내가 바보가 되면 친구가 모인다’의 증보판을 최근 내놨다. &lt;br&gt;&lt;br&gt;이 책에는 ‘거지와 재벌의 차이’ ‘나는야 거리의 환경미화부’ ‘사랑을 아는 사람이 광고를 만든다’ ‘아들과 딸에게 보내는 편지’ 등 7개 장에 90여 편의 글이 실렸다. &lt;br&gt;&lt;br&gt;‘바보클럽’은 2001년 강 회장이 낸 수필집 ‘내가 바보가 되면 친구가 모인다’를 읽은 주변 지인들이 “약삭빠르고 영악해야 각광받는 세태에 천진하고 순수한 바보들이 모여 각박하고 고단한 세상을 살맛 나게 만드는 데 일조해보면 어떤가”라는 제안을 해 2004년 만들어졌다. 동시에 ‘나도 바보로 살아왔다’고 고백하는 독자들이 모였다. 이 모임은 자연스레 ‘바보가 세상을 바꾼다’는 큰 뜻으로 의기투합했다. &lt;br&gt;&lt;br&gt;정부나 기타 단체들의 지원에서 소외된 아이들을 돕는 일로부터 시작, 치매 노인 요양원·장애인 보호 시설·지역 아동 센터·유기 동물 보호소 등에서의 봉사 활동으로 확대됐다. 이들을 ‘땀 흘리는 바보 봉사단(’땀바’)’으로 이름 붙였다. ‘땀바’는 지난 2015년부터 해외로도 진출, 필리핀 세부 등에서 봉사 활동을 펼치고 있다. 부산에서 월평균 300여 명이 직접 참여하는 대표적인 봉사 단체로 성장해 오늘도 묵묵히 땀을 흘리고 있다. 매달 5000~1만원의 회비에다 일일 호프와 일일 찻집 등의 수익금으로 소년 소녀 가장들을 후원하고 있다.&lt;br&gt;&lt;br&gt;강 회장은 “자기의 인생을 보다 소중히 여기는 사람들에게 작은 미소나마 띄울 수 있는 글이 되기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재룡, 세 번째 음주 물의...아내 유호정·지인들 과거 발언 ‘재조명’</title>
       <link>https://www.chosun.com/national/people/2026/03/08/JJVYHPAEHNG6RPB7EEL6PH7SEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/08/JJVYHPAEHNG6RPB7EEL6PH7SEM/</guid>
@@ -955,15 +964,6 @@
       <description/>
       <pubDate>Sat, 07 Mar 2026 01:29:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5STSYRYMM2WMMZWMRSTEM3DGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이재룡씨/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이재룡(62)씨가 서울 강남에서 운전 중에 중앙분리대를 들이받고 달아났다가 검거됐다. 사고 이후 지인의 집으로 도주한 이씨는 음주 측정에서 혈중알코올농도가 면허 정지 수준이었다고 한다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울 강남경찰서는 이씨를 도로교통법 위반(사고 후 미조치 등) 혐의로 조사 중이다. 다만, 사고 당시 술을 마신 상태였는지는 아직 조사가 필요한 부분이라 음주운전 혐의에 대해서는 내사를 벌이고 있다.&lt;br&gt;&lt;br&gt;이씨는 지난 6일 밤 11시쯤 서울 지하철 9호선 삼성중앙역 인근에서 차량을 몰다가 중앙분리대를 들이받고 그대로 달아난 혐의를 받는다. 이 사고로 다친 사람이나 피해를 입은 차량은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이씨는 사고 직후 자신의 집에 차량을 주차 후 지인의 집에 갔다가 경찰에 검거됐다. 이후 음주 측정에서 이씨의 혈중알코올농도는 면허 정지 수준이었던 것으로 알려졌다. 다만 이씨는 경찰 조사에서 “사고 당시에는 음주 상태가 아니었다”며 음주운전 혐의는 부인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 경찰은 이씨의 행적을 포함해 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;이씨가 음주 상태에서 물의를 일으킨 것은 이번이 처음이 아니다. 이씨는 지난 2019년 6월 술에 취한 상태로 강남구 소재의 한 볼링장 입간판을 넘어뜨려 파손한 혐의(재물 손괴)로 검찰에서 기소유예 처분을 받은 바 있다. 이씨는 지난 2003년에도 서울 강남구에서 술을 마신 채로 운전을 하다 다른 차량을 들이받고 입건됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권노갑, 96세 생일 맞아 ‘백인평전’ 펴내</title>
-      <link>https://www.chosun.com/national/people/2026/03/07/LPZKW2XVCBGUPIGCZWIPNW7HXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/07/LPZKW2XVCBGUPIGCZWIPNW7HXU/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42BFDFRT5FDSXOGAVBUAYMS57Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 여의도 국회박물관에서 열린 권노갑 김대중재단 이사장의 ‘백인평전’ 출판기념회에서 권노갑 전 의원이 참석자들에게 인사하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권노갑 김대중재단 이사장이 96번째 생일을 맞아 6일 자신의 정치 인생을 정리한 책 ‘권노갑 백인평전’ 출판 기념회를 열었다. 117명이 권 이사장에 대해 쓴 글을 엮은 책이다. &lt;br&gt;&lt;br&gt;이날 오후 서울 여의도 국회박물관에서 열린 출판 기념회에는 김민석 국무총리와 정동영 통일부 장관, 김부겸 전 총리, 김동연 경기도지사, 김관영 전북지사, 박지원 더불어민주당 의원 등 약 200여 명이 참석했다. 김원기·임채정·정세균·문희상·박병석 전 국회의장, 정대철 헌정회장 등 정치 원로들도 자리했다. 김덕룡 김영삼민주센터 이사장, 서청원 전 한나라당 대표, 김무성 전 새누리당 대표 등 옛 상도동계 인사들도 참석했다. 이재명 대통령과 문재인 전 대통령, 노무현 전 대통령 부인 권양숙 여사는 축사를 보냈다. &lt;br&gt;&lt;br&gt;이 대통령은 홍익표 청와대 정무수석이 대독한 축사에서 “까마득한 후배의 무거운 고민에도 언제나 살갑게 맞이해 주시던 고문님의 품은 참으로 넓고 든든했다”고 했다. 문 전 대통령은 “언제나 선당후사의 표상이셨다”고 했다. 권양숙 여사는 “사람과 신의를 중심에 둔 정치를 행동으로 증명해 온 분”이라고 했다.&lt;br&gt;&lt;br&gt;김대중 전 대통령의 손자인 김종대 경기도지사 비서관은 “아버지(고 김홍업 김대중평화센터 이사장)는 ‘동교동계에선 고문님을 쑥구 형님이라고 불렀다’고 하셨다”면서 “순수하게 할아버지(김 전 대통령)를 모셨기 때문이란 말씀을 들었다”고 했다. 쑥구는 순박한 사람을 뜻하는 전라도 방언이다.&lt;br&gt;&lt;br&gt;이날 출판된 ‘백인평전’에는 김대중 전 대통령의 부인 고(故) 이희호 여사가 2014년 보낸 친전을 포함해 권 이사장과 가까운 이들의 글이 담겼다. 권 이사장의 영어영문학 석사 과정을 지도했던 김태철 전 한국외대 교수는 “연속 여섯 시간 강의를, 젊은 학생들 사이에 앉아 수강하시더라”고 했다. 권 이사장은 83세였던 2013년 석사 학위를 받았고, 지난해 한국외대 영문학 박사 과정을 수료했다.&lt;br&gt;&lt;br&gt;권 이사장은 무대에 올라 “20년, 30년은 더 살 것”이라며 “자신 있고 에너지 있다”고 했다. 객석에서 박수와 환호가 터져 나오자 권 이사장은 주먹을 들어 올렸다. 13·14·15대 국회의원을 지낸 권 이사장은 1960년대부터 김대중 전 대통령을 보좌했다. 현재 더불어민주당 상임고문, 김대중노벨평화상기념사업회 명예이사장, 민주화추진협의회 이사장 등을 맡아 활동하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>직선을 버리니 봄의 속삭임이 들렸다… 남산에서 마주한 ‘천천히’의 미학</title>
