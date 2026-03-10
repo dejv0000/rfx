@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>배우 정정아, 자폐·지적장애 판정 아들 ‘수학 영재’로 키워낸 근황</title>
+      <link>https://www.chosun.com/national/people/2026/03/10/P66CGSIZ7BC75CTAK4FWNB5W7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/10/P66CGSIZ7BC75CTAK4FWNB5W7I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Mar 2026 04:50:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2DLH4NN7JARFHFM5U62L5YAEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 정정아의 아들이 발달 지연 완치 판정을 받고 수학 경시대회에서 우수상을 받아 기뻐하는 모습./MBN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 정정아가 한때 자폐 스펙트럼과 지적 장애 진단을 받았던 아들이 이후 발달 지연 완치 판정을 받고 수학 경시 대회에서 상위 1.85% 성적을 기록했다고 밝혔다.&lt;br&gt;&lt;br&gt;정정아는 지난 9일 방송된 바디인사이트에 출연해 “드라마 촬영도 하고 아이도 키우고 육아도 열심히 하고 있다”고 근황을 전했다. 그는 아들에 대해 “3번의 유산을 거쳐 네 번째 만에 자연 임신이 됐다”며 “44세에 하임이를 얻었는데 어떻게 아들 바보가 안 되겠느냐”고 말했다.&lt;br&gt;&lt;br&gt;아들이 처음 검사를 받게 된 계기는 어린이집 교사와 동네 소아과 의사의 권유 때문이었다. 정정아는 “아이가 눈 맞춤도 못 하고 상호작용이 안 되며 조절이 힘들다더라”며 “선생님이 검사를 받았으면 좋겠다는 말을 하는데 당시에는 이해를 못 했다”고 말했다. 이어 “동네 소아과에서도 자폐 검사를 해보라고 하길래 얼른 검사를 받았다”고 했다.&lt;br&gt;&lt;br&gt;검사 결과는 의료기관마다 달랐다. 정정아는 “한 곳에서는 자폐, 다른 한 곳에서는 자폐와 지적 장애 판정을 받았다”고 밝혔다. 당시 아이 상태에 대해 그는 “말도 못 하고 인사도 못 했다”며 “누가 자기를 건드리면 입술이 터지도록 벽에 얼굴을 박기도 했다”고 설명했다.&lt;br&gt;&lt;br&gt;정정아는 이후 아이와의 상호작용과 놀이에 시간을 집중했다고 했다. 그는 “아이가 원하면 계속해 줬다”며 “그러다 보니 아이가 조금씩 좋아졌다”고 말했다. 아이 상태가 빠르게 호전되자 다시 대학 병원을 찾았다고 한다. 정정아는 “보통 자폐는 짧은 시간 안에 호전될 수 없는데 너무 좋아져서 이상하다 싶어 다시 대학 병원에 갔더니 자폐가 아닌 발달 지연이라고 하더라”고 밝혔다.&lt;br&gt;&lt;br&gt;이후 치료에 적극적으로 개입했고 결과적으로 상태가 회복됐다고 설명했다. 그는 “2024년도에는 아이가 완치됐다”며 “자폐 완치가 아니고 자폐라고 오인한 발달 지연이 완치된 것”이라고 말했다. 현재 아들은 또래 아이들과 비슷한 발달 과정을 보이고 있다고 했다.&lt;br&gt;&lt;br&gt;최근에는 수학 분야에서도 두각을 나타내고 있다고 했다. 정정아는 “아들이 5세에 기저귀, 한글, 구구단을 뗐다”며 “6세에 수학 경시대회에 나가 30분 안에 160문제를 풀고 2문제만 틀려 상위 1.85%에 들어갔다. 얼마 전에는 한자 7급을 땄다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 정정아는 지난해 12월 인스타그램을 통해 아들의 변화를 전했다. 그는 “3년 전만 해도 제 소원 중 하나는 하임이가 1초라도 앉아 있는 것이었다”며 “지금은 눈도 잘 마주치고 잘 웃으며 앉아서 매일 공부도 하고 한글도 잘 쓴다”고 적었다. 이어 “잘한 것도 감사하지만 끝까지 포기하지 않고 해냈다는 것이 너무나 감사하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10만원 빌리면 당일 이자만 20만원… 연 3만6500% 폭리 사채업자들</title>
+      <link>https://www.chosun.com/national/regional/2026/03/10/JQ3PLXRSMJDJFBBSBRDHVYCVEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/10/JQ3PLXRSMJDJFBBSBRDHVYCVEA/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Mar 2026 04:53:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIQZ4F5JEJDMTBCDQC6NWCTKUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급전이 필요한 피해자들에게 돈을 빌려준 뒤 연 이자율 최대 3만6500%를 적용하는 등 폭리를 취한 불법 사채업자들이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 10일 대부업법과 채권추심법 등 위반 혐의를 받는 불법 사금융 조직 30대 총책 A씨 등 10명을 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 가운데 총책 A씨와 추심책, 대포통장 모집책 3명은 구속, 5명은 불구속 상태로 검찰에 넘겼다. 나머지 불구속 2명은 송치 예정이다. &lt;br&gt;&lt;br&gt;이들 조직은 지난해 6월부터 올해 2월까지 경기도와 강원도에 사무실을 차린 뒤 ‘무(無) 심사, 단기 대출’ 광고를 내고 급전이 필요한 피해자 402명을 상대로 돈을 빌려주는 무등록 대부업을 했다.&lt;br&gt;&lt;br&gt;이들이 적용한 연 이자율은 최소 41%에서 법정 이자율의 수천배를 넘는 최대 3만6500%에 이르렀다. 이들이 불법 대부·추심한 액수는 대부 원금의 두 배가량인 3억 8000만원에 달했다.&lt;br&gt;&lt;br&gt;피해자 B씨는 네 차례에 걸쳐 100만원을 빌린 뒤 일주일여 뒤 180만원으로 갚기도 했다. &lt;br&gt;&lt;br&gt;또 피해자들에게 10만원 또는 15만원을 빌려준 뒤 연 이자율 3만6500%를 적용해 당일 20만원, 다음날 30만원을 받아 챙기기도 했다. 또 추가 연체 상황이 발생하자 돈을 갚으라며 전화와 문자로 욕설하는 등 지속·반복적으로 협박했다.&lt;br&gt;&lt;br&gt;이들 조직은 대출 당시 계약서를 쓰게 한 뒤 사진을 찍어 보내게 하고 이름과 생년월일, 거주지 등 신상정보를 확인할 수 있는 주민등록등본과 신분증, 휴대전화 연락처 등을 확보했다. 이후 돈을 갚지 않으면 자신들이 운영하는 SNS에 계약서 사진을 올리며 조롱하거나 가족, 지인 등에게 빚을 갚을 것을 독촉하는 등 피해자들을 협박하는 불법 추심 행위를 했다. &lt;br&gt;&lt;br&gt;이들은 범행을 위해 텔레그램이나 인스타그램 등 SNS 광고를 통해 피해자들을 유인했으며, 수사 추적을 따돌리기 위해 대포계좌를 이용하고 자금을 세탁했다. 심지어 경기도 사무실이 적발되자 장소를 옮겨가며 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;피해자들은 대부분 100만원 미만의 소액을 빌린 것으로 전해졌다. A씨 등 조직원들은 서로 고향 친구들이거나 교도소에서 알게 된 사이로 범행을 꾸민 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 범죄수익 약 2억원 상당을 특정해 몰수·추징보전을 신청하는 등 수사를 이어나가고 있다.&lt;br&gt;&lt;br&gt;제주경찰 관계자는 “대부계약을 맺을 때 법정이자 20%가 넘는 과도한 이자를 요구하거나 가족, 지인 연락처를 요구할 경우 불법 운영되는 불법 사금융 조직일 수도 있다”며 “불법 사금융에 각별히 주의하고 피해가 발생하면 적극적으로 경찰에 신고해달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>담배 90만갑 밀수출해 100억 챙긴 일당… 세관에 덜미</title>
+      <link>https://www.chosun.com/national/incident/2026/03/10/DPFOT72CABGRXM36CX65YITFUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/10/DPFOT72CABGRXM36CX65YITFUY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Mar 2026 04:40:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4DSOLDGI3TONRTMUYTSYJVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세관 당국에 압수된 담배./ 인천본부세관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 편의점이나 밀수입한 위조 담배 90만 갑을 담뱃값이 비싼 국가로 밀수출해 100억원을 챙긴 일당이 세관 당국에 적발됐다. &lt;br&gt;&lt;br&gt;인천본부세관은 관세법 위반 혐의로 30대 총책 A씨 등 11명을 입건해 검찰에 송치했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2024년 3월부터 지난해 3월까지 시가 30억원 상당의 정품·위조 담배 90만 갑을 70여 차례에 걸쳐 호주와 뉴질랜드 등에 밀수출해 100억원 상당의 수익을 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨 등은 국내에서 담배 한 갑은 4500원 수준이지만, 호주의 경우엔 4만1000원에, 영국이나 뉴질랜드에선 2만5000~3만2000원의 가격에 팔리는 점을 악용해 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨 일당은 편의점 점주 등 모집책에게 담배 한 보루당 4000원의 수수료를 주기로 하고, 담배 33만 갑을 확보했다. 또 담배 밀수 유통책에게 해외에서 밀반입한 위조 담배 57만 갑을 구입했다. &lt;br&gt;&lt;br&gt;이후 확보한 담배를 은박지로 감싸고 아크릴 상자에 담아 봉인한 뒤, 고무 매트, 압축 비닐 등으로 속이고 국제특송업체로 옮겼다. &lt;br&gt;&lt;br&gt;인천본부세관은 첩보를 통해 수사에 나서 A씨 일당을 붙잡고, 호주·뉴질랜드 세관 당국과 협조해 현지에 반입되던 담배 850보루를 압수했다. &lt;br&gt;&lt;br&gt;세관 관계자는 “수출입 통관 단계와 국내 유통 과정에 대한 단속을 강화해 불법 담배 유통과 밀수출을 막겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>행정통합으로 더 달아오르는 전남·광주 지방선거 </title>
       <link>https://www.chosun.com/national/national_general/2026/02/15/L6T427GYQJCAXMJOBKJVURBZDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/02/15/L6T427GYQJCAXMJOBKJVURBZDM/</guid>
@@ -916,33 +943,6 @@
       <description/>
       <pubDate>Mon, 09 Mar 2026 02:05:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AINU74VX4735RABQZUHZMWUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 7호선 도봉산~양주 옥정 연장 공사 현장에서 터널 붕괴와 싱크홀 위험이 발생했다며 허위 신고를 해 경찰과 소방을 출동하게 한 20대 남성이 검찰에 넘겨졌다. 이 남성은 공사 현장에서 측량 업무를 맡아 일하다 해고 통보를 받은 직후 이 같은 신고를 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경기 의정부경찰서는 터널 붕괴와 지하수 유출 등 허위 신고를 해 경찰과 소방의 출동을 유도한 혐의(위계에 의한 공무집행방해)로 20대 A씨를 최근 검찰에 송치했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난달 19일 오후 7시 15분쯤 남양주시 다산동 자택에서 112에 전화해 “7호선 연장 공사 현장인 의정부시 금오동 출입구에서 터널 천장이 붕괴되고, 지하수가 터널 내부로 유출돼 싱크홀 가능성이 있다”는 내용의 신고를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 의정부소방서 송산119안전센터 소방대원들과 함께 현장에 투입됐다. 경찰과 소방, 경기도는 공사 현장 터널 내부와 주변 도로를 점검하며 붕괴 및 싱크홀 발생 여부를 확인했다.&lt;br&gt;&lt;br&gt;하지만 현장 확인 결과 터널 붕괴나 지하수 유출 등 위험 징후는 발견되지 않았고, 신고 내용은 사실과 다른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;조사 결과, A씨는 지난달 5일부터 7호선 연장 공사 구간에서 측량 업무를 맡아 일하다가 신고 당일인 19일 하청업체로부터 해고 통보를 받은 직후 허위 신고를 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 공사 현장 내부 사정을 알고 있던 점 등을 토대로 허위 신고로 경찰과 소방의 현장 출동을 유도해 공무집행을 방해한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 초등 1~2학년 60만명에 국산 과일간식 주 1회 지원</title>
-      <link>https://www.chosun.com/national/2026/03/09/IKAIJXXSYBH4TMLJBOB4XBH2GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/09/IKAIJXXSYBH4TMLJBOB4XBH2GE/</guid>
-      <dc:creator>김지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Mar 2026 02:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTGMNJQMM2TMZJYMU3GGZTCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;학교 급식·돌봄 업무 등에 종사하는 비정규직 노동자들의 총파업으로 급식이 중단된 21일 전북 전주시 한 초등학교 1학년 교실에 대체식으로 나온 빵과 음료, 과일이 놓여져 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농림축산식품부가 이달부터 초등학교 1~2학년 60만명을 대상으로 국산 과일·과채 간식을 주 1회 이상 무상 공급하는 ‘어린이 과일간식’ 사업을 순차적으로 시행한다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;이 사업은 2018~2022년 시범사업으로 운영됐다가 중단된 것을 이재명 정부가 국정과제로 채택해 4년 만에 재개한 것이다. 시범사업 당시 연평균 22만7000명의 어린이에게 과일 간식을 공급했으며, 수혜자 만족도는 2021~2022년 96%대를 기록했다.&lt;br&gt;&lt;br&gt;사업 대상은 초등 돌봄·교육 참여 학생이며, 사과·딸기·토마토 등 국산 과일·과채 간식 150g을 컵·파우치 형태로 제공한다. 지원 기간은 올해 1·2학기(3~12월) 전체다.&lt;br&gt;&lt;br&gt;공급 과일·과채는 국내산 농산물 표준규격 ‘상’ 등급 이상, 친환경·GAP(우수농산물관리) 인증 제품을 우선 사용한다. 각 지방정부는 지난 1~2월 지역농산물 취급 업체를 중심으로 공급업체 공모를 마쳤으며, 현재 학교별 수요조사를 진행 중이다. 준비가 끝난 시·도부터 이달 중 공급을 시작해 4월부터 본격화할 계획이다.&lt;br&gt;&lt;br&gt;농식품부 홍인기 유통소비정책관은 “빵·냉동식품 등 가공 간식을 대체해 성장기 어린이들의 올바른 식습관 형성을 돕겠다”며 “지방정부·식약처 등과 협력해 주기적인 현장점검을 실시하고 학교 현장 의견수렴도 정기적으로 추진해 사업을 안착시키겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고교 교실 폭행 영상 SNS 게시… 경찰, 폭행 혐의 수사</title>
-      <link>https://www.chosun.com/national/incident/2026/03/09/YBM7K7TKG5DE7BKHOCAEV4HAWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/09/YBM7K7TKG5DE7BKHOCAEV4HAWI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Mar 2026 01:57:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMZ3HGGPFFCHL3O2JJB74EK7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수경찰서 전경./인천 연수경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학교 교실 폭행 영상이 SNS(소셜미디어)에 게시돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 폭행 혐의로 고등학교 1학년 A군을 조사할 예정이라고 9일 밝혔다. &lt;br&gt;&lt;br&gt;A군은 최근 인천 연수구의 한 고등학교 교실에서 동급생인 B군을 주먹과 발 등으로 여러 차례 폭행한 혐의를 받고 있다. A군의 폭행 장면은 영상으로 촬영돼 인스타그램 등 일부 SNS에 게시된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 방송통신심의위원회, 인천동부교육지원청 등과 협조해 인터넷에 올라온 영상을 삭제 조치했다고 설명했다. &lt;br&gt;&lt;br&gt;B군은 A군이 평소 시비를 걸었고, A군의 요구에 응하지 않자 때렸다는 취지로 진술한 것으로 알려졌다. 경찰 관계자는 “A군을 조만간 불러 구체적인 경위를 조사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여권 영문 ‘LEE→YI’ 변경해 달라”...법원은 불허</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/09/4AP6FJHYNFHA3PDSX4SYM5R7F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/09/4AP6FJHYNFHA3PDSX4SYM5R7F4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Mar 2026 01:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7PDUZOOEDZNQLHT4ZC5GC33HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 여권./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실생활에 큰 불편이 없는데 개인적 선호에 따라 여권의 영어(로마자) 성명 표기를 변경하는 것은 허용되지 않는다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 서울행정법원 행정14부(이상덕 부장판사)는 이모(36)씨가 외교부 장관을 상대로 낸 ‘여권 로마자 성명 변경 거부 처분 취소’ 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;이씨는 여권 성 표기를 ‘LEE’에서 ‘YI’로 변경해 달라고 외교부에 신청했으나 거절당하자 소송을 제기했다. 이씨는 학창 시절부터 금융 거래, 영어 능력 시험, 사원증 등에 ‘YI’를 사용해 왔으므로 여권 표기도 이에 맞춰야 한다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 외교부의 처분이 적법하다고 판단했다. 재판부는 “여권 로마자 성명 변경은 해당 국민에게 현실적으로 발생하고 있는 생활상 불편을 제거해야 할 필요성이 큰 경우에만 제한적으로 이뤄지는 것이 바람직하다”고 판시했다. 성명 변경을 폭넓게 허용할 경우 출입국 심사 및 관리에 어려움이 생기고, 해외에서 한국 여권의 신뢰도가 낮아져 입국 심사 등이 까다로워질 수 있다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 이씨가 사용해 온 신용카드나 성적 증명서, 사원증 등은 언제든 쉽게 변경해 재발급받을 수 있어 현실적인 생활상 불편이 크지 않다고 봤다. &lt;br&gt;&lt;br&gt;이씨 역시 로마자 성명 정정·변경 사유를 규정한 여권법 시행령 조항 제1∼10호에 해당하지 않는 점을 인정하며 보충적 조항인 11호(그 밖에 필요하다고 인정하는 경우)에 근거해 변경을 주장했다.&lt;br&gt;&lt;br&gt;재판부는 “원고도 생활상 불편이 아니라 단지 ‘YI’ 표기를 선호하는 개인적 신념 때문에 변경 신청을 한 것이라 밝히고 있다”며 “현실적으로 아무런 불편이 없고 단지 개인적 만족을 위한 경우를 11호로 포섭하기는 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>히말라야 간 C 변호사 실종 한 달 만 시신 발견 </title>
