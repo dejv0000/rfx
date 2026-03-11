@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 3월 12일</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/11/XKFHJ5TNZZHYXK52O3F5TNKKNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/XKFHJ5TNZZHYXK52O3F5TNKKNQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Mar 2026 14:31:00 +0000</pubDate>
+      <content:encoded>곳곳에 비, 강원 산지엔 최대 15㎝ 눈&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGFHCKGLHRFVBLFKFYKPR24XAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뮤지컬 배우 남경주, 성폭력 혐의로 檢 송치... 혐의 부인</title>
+      <link>https://www.chosun.com/national/people/2026/03/11/BLKLRT53WRAZFB5Y4D6AM7NQ7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/11/BLKLRT53WRAZFB5Y4D6AM7NQ7I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Mar 2026 10:56:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTIOBSMYYDSMJUME4GMM3DHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 남경주./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬 배우 남경주(63)가 성폭력 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;11일 서울 방배경찰서는 남경주를 위력에 의한 간음 혐의로 지난달 서울중앙지검에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;남경주는 지난해 서울에서 피해 여성 A씨를 상대로 성범죄를 저지른 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 A씨는 신변에 위협을 느끼고 112 상황실에 신고, 출동한 경찰이 사건을 접수했다.&lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 확보한 자료와 진술 등을 토대로 혐의가 인정된다고 판단해 사건을 검찰로 넘긴 것으로 알려졌다. &lt;br&gt;&lt;br&gt;다만 남경주는 혐의를 부인하고 있는 것으로 전해졌다. 현재 남경주의 소셜미디어(SNS) 계정은 닫힌 것으로 확인됐다. &lt;br&gt;&lt;br&gt;남경주는 최정원, 박칼린 등과 함께 한국 뮤지컬계를 대표하는 1세대 배우로 꼽힌다. 2019년 제13회 대구국제뮤지컬페스티벌에서 남우주연상을 받았으며, 현재 홍익대학교 공연예술학부 교수로 재직하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘하메네이’ 현수막 내건 주한이란대사관</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/11/CRITRYJRZFFFBC7UQF7ZJUA3NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/CRITRYJRZFFFBC7UQF7ZJUA3NI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Mar 2026 13:02:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDFLLTD575HFDMBJMNCP4ITS5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주한이란대사관 외벽에 걸린 현수막 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구에 있는 주한이란대사관이 건물 외벽에 미국·이스라엘 공습으로 숨진 아야톨라 알리 하메네이 전 최고지도자의 사진이 그려진 현수막을 내걸었다. &lt;br&gt;&lt;br&gt;대사관 측은 최근 하메네이의 사진과 함께 ‘세계는 언제 전쟁 범죄자들에게 책임을 물을 것인가’라는 문구가 적힌 현수막을 대사관 외벽에 내걸었다. &lt;br&gt;&lt;br&gt;현수막에는 이란이 미국의 공습으로 사망했다고 주장하는 어린아이들의 사진이 담겼다. 사진 옆으로는 “여성과 아이들의 학살은 용서할 수도, 잊을 수도 없다”는 문구가 적혔다.&lt;br&gt;&lt;br&gt;이는 공습 주체인 미국과 이스라엘을 ‘전쟁 범죄자’로 규정하며, 최소 175명의 사망자를 낸 이란 초등학교 공습에 대한 비난과 항의의 의미를 담은 것으로 풀이된다. &lt;br&gt;&lt;br&gt;외교부는 현수막과 관련해 “관련 사항에 대해 확인해주기 어려운 점을 양해해주기 바란다”는 입장만 밝힌 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김완선, 美 뉴욕서 미술 개인전...“팝스타 삶 되돌아봐”</title>
+      <link>https://www.chosun.com/national/people/2026/03/11/FKH2OFHN5JEJHG5OE4P57NIRSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/11/FKH2OFHN5JEJHG5OE4P57NIRSQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Mar 2026 12:50:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3A3XPMABYJD55IPSBADMF46YWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김완선 미국 뉴욕 전시 '아이콘 온 디맨드'./KWSunflower&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김완선이 미국 뉴욕에서 화가로서 개인전을 개최한다. &lt;br&gt;&lt;br&gt;김완선의 소속사 KWSunflower는 오는 13일부터 31일까지 미국 뉴욕 텐리문화원에서 개인전 ‘아이콘 온 디맨드(Icon On Demand)’가 열린다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;전시 제목 ‘아이콘 온 디맨드’는 과거 수요에 의해 움직이던 팝스타로서의 삶을 환기하는 동시에, 이제는 스스로 이미지를 생산하는 주체가 됐음을 선언하는 중의적 의미를 담고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNEZFSAC5RFUNGKWLDOXA3UYB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김완선 미국 뉴욕 전시 '아이콘 온 디맨드'./KWSunflower&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 전시에는 ‘무제 - 빨강’, ‘자화상’ 등의 작품이 출품된다. 전시 비평을 맡은 탈리아 브라초풀로스는 “찢긴 가면 사이로 눈물을 흘리는 여성의 눈을 묘사한 작품에서 현대 사회가 강요하는 폭력성과 심리적 상흔이 느껴진다”고 평가했다.&lt;br&gt;&lt;br&gt;1986년 1집 ‘오늘밤’으로 데뷔한 김완선은 ‘한국의 마돈나’로 불리며 1980~1990년대 초 댄스 음악 시대를 이끌었다. 1990년 발표한 5집 ‘삐에로는 우릴 보고 웃지’는 여자 솔로 가수 최초로 100만장 판매 기록을 세운 바 있다. 1992년 은퇴 후 미국 생활을 거쳐 2002년 복귀한 그는 현재까지 공연과 싱글 발표 등 음악 활동을 지속하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이상민 “한덕수가 가장 강하게 계엄 반대…국무위원들 尹 만류”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/11/EZBXJMP4LFHP3FIQRCQQA56DZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/EZBXJMP4LFHP3FIQRCQQA56DZQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Mar 2026 11:48:47 +0000</pubDate>
+      <content:encoded>한덕수 전 국무총리의 내란 사건 항소심 첫 공판에 증인으로 출석한 이상민 전 행정안전부 장관이 “한 전 총리가 국무위원 중 계엄을 가장 강하게 반대했다”고 증언했다. 1심 재판 당시 증언과 선서를 모두 거부했던 이 전 장관은 이날 법정에서는 태도를 바꿔 증언에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DENRTGYZTIMZWMMYGGMDGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관은 11일 서울고법 형사12-1부(재판장 이승철) 심리로 열린 한 전 총리의 내란 중요 임무 종사 혐의 사건 항소심 공판에서 “최대한 증언하시겠습니까”라는 재판장 질문에 “네”라고 답하며 신문에 응했다. 그는 “내 재판과 직접 관련 있는 부분이 아니라면 적극 진술하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 전 장관은 한 전 총리 측 주신문에서 계엄 선포 직전 대통령실에 모인 국무위원들의 분위기에 대해 “대통령 말에 수긍하는 게 아니라 다 만류하는 분위기였다”며 “총리님이 국무위원 중에서 가장 강하게 반대했다”고 말했다. 이어 “총리님은 경제통이니까 경제 얘기를 많이 했다. 정무적으로 부담이 되고 (계엄 선포를) 말려야 한다는 얘기를 했다”고 증언했다.&lt;br&gt;&lt;br&gt;한 전 총리 측이 계엄 전 국무회의 개최 목적이 ‘계엄 합법화’였는지 ‘대통령 설득’이었는지를 묻자, 이 전 장관은 “당시 상황에서는 계엄 선포 정당화 개념 자체가 있을 수 없었다”고 선을 그었다. 그는 “당시 국무위원들은 황망하고 머리가 하얘지고 정신이 없는 상태에서 (대통령을) 만류하는 상황이었다”며 “총리님이 (집무실에) 다녀오면서 국무회의를 한다고 했을 때 다들 안도의 한숨을 내쉬었다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “국무회의를 안 했다면 특검은 국무위원들을 직무유기로 다 고소했을 것”이라며 “(국무회의를 열지 않으면) 대통령의 위법 행위를 국무위원들이 방치하는 것이라 생각했다”고 말했다. 그는 “실체적 요건은 대통령이 전권을 가지고 판단해도, 절차적 요건만큼은 대통령이 판단할 수 없다고 생각했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 전 장관은 국무회의 의결 ‘정족수’를 채우려 한 것 아니냐는 질문에는 “그런 얘기는 못 들었다”며 “정족수는 총리나 장관이 신경 쓸 게 아니라 실무진이 신경 쓰는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어진 특검 측 반대신문에서는 계엄 당일 대통령실 CCTV 영상이 재생됐다. 특검 측이 김용현 전 국방장관이 한 전 총리에게 손가락으로 숫자 ‘4(정족수)’를 표현한 것 아니냐고 묻자, 이 전 장관은 “자세히 봤는데 저게 ‘4’가 아니라 손바닥을 펴고 나오는 것”이라며 “4를 표현했다고 보는 건 특검에게만 그렇게 보이는 것 같고, 저희에겐 그렇게 보이지 않는다”고 반박했다.&lt;br&gt;&lt;br&gt;한편, 특검이 한 전 총리와 이 전 장관이 언론사 단전·단수 지시를 논의한 것으로 보고 있는 대접견실 내 11분간의 독대 장면과 관련해, 이 전 장관은 영상에 보이는 문건에 대해 “무슨 문건인지 기억이 나지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>최불암, 건강 이상설 일축...“현재 입원 상태, 조만간 퇴원”</title>
       <link>https://www.chosun.com/national/people/2026/03/11/WPS7FNRHCZGNRORKWNQ36ONS4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/11/WPS7FNRHCZGNRORKWNQ36ONS4E/</guid>
@@ -874,38 +919,6 @@
       <content:encoded>서울 지하철 5호선을 경기 김포와 인천 검단까지 연장하는 사업이 정부 예비타당성 조사를 최종 통과했다. 김포에 서울 지하철 중전철 노선이 들어서는 것은 처음이다.&lt;br&gt;&lt;br&gt;김포시는 10일 “서울 지하철 5호선 김포·검단 연장 사업이 이날 기획재정부 재정사업평가위원회 심의를 거쳐 예비타당성 조사를 통과했다”고 밝혔다. 사업이 예타 문턱을 넘으면서 기본계획 수립과 설계 등 후속 절차에 들어가게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7VGUTL7DFEA7HO6NCFP7HF6YY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사업은 서울 강서구 방화차량기지를 출발해 김포 고촌·풍무를 거쳐 인천 검단을 지나 김포한강2 공공택지지구까지 연결하는 노선이다. 총 연장은 25.8㎞로 정거장 9곳과 차량기지 1곳이 설치되며 총사업비는 3조5587억원 규모다.&lt;br&gt;&lt;br&gt;김포 지역에서는 10여 년 전부터 서울 직결 철도 필요성이 제기돼 왔다. 특히 출퇴근 시간 극심한 혼잡이 반복되는 김포골드라인 문제를 해결할 대안으로 5호선 연장이 꾸준히 거론돼 왔다.&lt;br&gt;&lt;br&gt;사업은 2022년 국토교통부가 김포한강2 콤팩트시티 개발에 따른 광역교통개선대책으로 5호선 연장을 포함시키면서 본격 추진됐다. 이후 서울시와 김포시, 강서구가 업무협약을 체결하며 사업이 구체화됐다.&lt;br&gt;&lt;br&gt;김병수 김포시장은 이날 기자회견에서 “오늘의 결실은 51만 김포 시민이 함께 만든 결과”라며 “향후 노선 논의 과정에서도 김포시의 이익을 지켜내겠다”고 말했다.&lt;br&gt;&lt;br&gt;예타 통과에 따라 사업은 경기도 주관으로 타당성 조사와 기본계획 수립에 착수할 예정이다. 경기도가 추가경정예산을 통해 관련 용역을 발주하면 실제 절차는 올해 하반기 시작될 것으로 전망된다.&lt;br&gt;&lt;br&gt;김포시는 기본계획 수립 과정에서 풍무2, 김포경찰서역, 통진역 등 추가 정거장 설치를 적극 건의한다는 방침이다. 김 시장은 “인천 구간 노선이 늘어나 김포 시민의 이동 시간이 불리해지는 일은 없도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;김포 시민들 사이에서는 기대감도 커지고 있다. 지역 온라인 커뮤니티 등에서는 “수년간 기다린 숙원이 드디어 현실이 됐다” “김포골드라인 출퇴근이 너무 힘든데 5호선이 연결되면 서울 접근성이 크게 좋아질 것 같다”는 반응이 이어졌다. &lt;br&gt;&lt;br&gt;김포시는 철도 개통 전까지 교통 혼잡을 완화하기 위해 버스전용차로 설치와 광역버스 노선 확대 등 단기 대책도 병행하겠다는 방침이다.&lt;br&gt;&lt;br&gt;대도시권광역교통위원회, 김포시 등과 노선을 협의해 온 인천시도 이번 예비타당성 조사 통과에 환영 입장을 밝혔다. &lt;br&gt;&lt;br&gt;인천시는 서울 5호선 김포·검단 연장선이 수도권 서북부지역의 만성적인 교통난 완화와 검단에서 서울로의 출퇴근 여건 개선에 큰 역할을 할 것으로 기대했다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “이번 성과에 이어 현재 추진 중인 인천 2호선 고양 연장사업의 예타 통과에도 역량을 집중하겠다”며 “검단이 광역교통망 중심지로 도약하게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희 아크로비스타 묶였다... 법원, 추징보전 청구 일부 인용</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/10/JBQ43Z266ZDLNGQNDV5ZXAIKA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/10/JBQ43Z266ZDLNGQNDV5ZXAIKA4/</guid>
-      <dc:creator>이민준 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Mar 2026 08:11:36 +0000</pubDate>
-      <content:encoded>서울 서초구 아크로비스타에 있는 윤석열 전 대통령 부부의 사저가 법원에 의해 보전 처분된 것으로 10일 확인됐다. 법원이 지난 1월 김건희 여사에게 징역 1년 8개월과 추징금 1281만원을 선고한 데 따른 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYDENRRMVRGEMJSGQZDAZJVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 아크로비스타 입구./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사의 알선수재 등 혐의 1심 재판을 심리한 서울중앙지법 형사27부(재판장 우인성)는 1월 28일 김 여사에게 징역형과 추징금을 선고하면서 민중기 특별검사팀의 추징 보전 청구를 일부 인용했다. 특검 측은 지난달 12일 인용 결정에 따라 김 여사 명의의 아크로비스타 자택에 대해 추징 보전 명령을 집행했고, 그달 20일 양도, 저당권 또는 임차권의 설정을 비롯한 일체의 처분 행위를 금지하는 보전 처분이 등기됐다.&lt;br&gt;&lt;br&gt;추징 보전은 범죄 수익으로 의심되는 재산을 법원이 추징하기 전에 임의로 처분하지 못하도록 묶어두는 것을 가리킨다. 추징 판결이 확정될 경우를 대비해 재산을 빼돌리지 못하도록 묶어두는 것이다. 1심은 앞서 선고한 추징금 1281만원에 대해서만 추징을 인용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;아크로비스타는 윤석열 전 대통령이 서울중앙지검장에 취임한 뒤인 2017년 8월 고위 공직자 재산 공개에서 거주 사실이 알려져 화제가 됐다. 윤 전 대통령이 20대 대선에서 대통령에 당선된 뒤엔 진보 성향 시민단체들의 집회로 몸살을 앓았다. 주민들이 경찰에 집회 소음을 단속해 달라며 진정서를 내기도 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 부부는 2022년 12월 서울 용산구 한남동 관저로 이사하며 아크로비스타를 떠났지만, 지난해 4월 탄핵이 인용되며 이 곳으로 돌아왔다. 이후 수사기관들이 수차례 압수 수색을 집행했다. ‘건진 법사’ 전성배씨 관련 의혹을 수사하던 서울남부지검이 그달 30일 아크로비스타를 한 차례 압수 수색했다. 이명현 해병 특검팀과 민중기 특검팀은 그해 7월 각각 한 차례씩 이 곳을 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>피싱에 속았다 되찾은 檢 비트코인... 315억에 매각 후 국고 귀속</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/10/4TR4UXOU75CKDH7K2QATCO5PDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/10/4TR4UXOU75CKDH7K2QATCO5PDY/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Mar 2026 07:51:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주고등지방검찰청. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주지검이 해킹범으로부터 회수한 수백억 원대 비트코인을 전량 매각해 국고로 귀속시켰다.&lt;br&gt;&lt;br&gt;광주지검은 10일 “비트코인 320.8개를 시세 가격으로 전량 매각해 315억8863만원을 국고에 귀속했다”고 밝혔다. 해당 비트코인은 작년 8월 광주지검 압수물 관리자들이 인수인계 도중 피싱 사이트에 속아 분실했다가 회수한 것이다. &lt;br&gt;&lt;br&gt;이 비트코인은 광주경찰청이 2018년부터 2021년까지 해외에서 3900억원대 불법 도박 사이트를 운영한 혐의로 검거한 부녀 중 딸 A씨에게서 압수한 것이다. 이들은 범죄 수익을 비트코인으로 바꿔 은닉해왔던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 지난 1월 대법원에서 도박 공간 개설 등 혐의로 징역 2년 6개월 형을 확정받자 압수 비트코인을 국고로 귀속하는 과정에서 320.8개 모두 분실한 사실을 알았다.&lt;br&gt;&lt;br&gt;사라졌던 비트코인은 지난달 17일 해킹범 전자지갑에서 광주지검 전자지갑으로 돌아왔다. 검찰 관계자는 “비트코인 현금화를 막기 위해 국내외 거래소 동결 조치를 하자 해킹범이 스스로 모든 비트코인을 반환한 것으로 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;광주지검은 비트코인 매각이 시세에 영향을 미치지 않도록 지난달 24일부터 이달 6일까지 11일 동안 소량씩 매각했다고 전했다. 광주지검은 해킹범 추적과 함께 분실 경위를 확인하기 위한 내부 조사도 병행할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg?auth=e45977eefd6b2734f3b188c81b5ce6bab6e3b55e4a315af7a162dc05cb87a70e&amp;smart=true&amp;width=890&amp;height=501" type="image/jpeg" height="501" width="890">
-        <media:description type="plain">광주고등지방검찰청. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세] 3월 11일 수요일 (음력 1월 23일 甲申)</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/10/HLNSTXBOVVEE7PDWHVK43LHSHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/10/HLNSTXBOVVEE7PDWHVK43LHSHE/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
       <title>위례신사선 예타 통과… 하남시 “하남 연장 추진 총력”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/10/X6G6SH3RLVDR5FLN4QO7OLDLXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/10/X6G6SH3RLVDR5FLN4QO7OLDLXI/</guid>
@@ -913,15 +926,6 @@
       <description/>
       <pubDate>Tue, 10 Mar 2026 07:59:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZ4PWKN5XBBFRC26VPZG7JPODA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위례신사선 하남연장 노선도. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 위례신도시와 강남권을 잇는 위례신사선 도시철도 건설사업이 정부 예비타당성 조사를 통과했다. 경기 하남시는 10일 환영 입장을 밝히며 위례신사선의 하남 연장을 추진하겠다고 했다. &lt;br&gt;&lt;br&gt;하남시는 10일 기획재정부 재정사업평가위원회에서 위례신사선 사업이 예비타당성 조사를 통과한 것과 관련해 “위례 주민들의 교통 불편을 근본적으로 해소할 수 있는 전환점이 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이현재 하남시장은 “위례신도시 철도 사업비 가운데 1256억원을 하남 주민들이 부담했음에도 하남 지역은 철도 영향권에서 제외돼 사실상 교통 차별을 받아왔다”며 “하남이 철도 교통 소외지역으로 남지 않도록 책임 있게 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;위례신사선은 위례신도시 광역교통개선대책에 포함된 이후 약 17년간 착공이 지연돼 온 사업이다. 당초 서울시가 민자 방식으로 추진했지만 2024년 6월 민간사업자와 협상이 결렬되면서 재정사업으로 전환됐다. 이후 올해 2월 ‘제2차 서울시 도시철도망 구축계획 변경’ 고시를 통해 재정사업으로 확정됐다.&lt;br&gt;&lt;br&gt;이 노선은 위례신도시에서 서울 강남권을 연결하며 2호선·3호선·8호선·신분당선·GTX-A 등 주요 철도 노선과 환승이 가능한 것으로 계획돼 있다. 개통될 경우 위례에서 강남 업무·상업지역까지 이동 시간이 크게 단축될 것으로 기대된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천대로 7중 추돌 사고 … 3명 부상</title>
-      <link>https://www.chosun.com/national/incident/2026/03/10/ARPGC45R3RAVZD5UDYZ2L5YFEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/10/ARPGC45R3RAVZD5UDYZ2L5YFEE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Mar 2026 07:54:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMN7WR7RNVDB7N6FDB2DIA67XI.png"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 2시 15분쯤 7중 추돌 사고가 발생한 인천 서구 인천대로 서인천 IC 인근. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천대로에서 다중 추돌 사고가 발생해 3명이 다쳤다. &lt;br&gt;&lt;br&gt;10일 인천소방본부 등에 따르면 이날 오후 2시 15분쯤 인천 서구 인천대로 서인천IC 인근에서 스포츠유틸리티차량과 트럭, 승합차 등 7대가 추돌하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 60대 여성, 70대 남성과 여성 등 3명이 다쳐 119 구급대에 의해 병원으로 옮겨졌다. 이들은 다행히 생명에 지장은 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현장은 사고 처리를 위해 일부 차로 운행이 통제되면서 극심한 혼잡이 빚어졌다. &lt;br&gt;&lt;br&gt;인천 서구는 안내 문자를 보내 사고 소식을 알리고 “가좌IC 방면 도로가 통제 중”이라며 “인근 차량은 우회하고, 안전사고에 유의하기 바란다”고 했다. &lt;br&gt;&lt;br&gt;차량 통행은 오후 4시 25분쯤 정상화된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “조금 전 통행 제한을 해제했다”며 “정확한 사고 경위를 조사하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>마지막 독도 주민 김신열씨 별세...독도 주민 ‘0명’ 됐다</title>
@@ -952,18 +956,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YJDNTYUDHVC35KAWNQMNX6UTLI.jpg?auth=251861b040ffdd7dd8ad71f6aa4c0b92a62148f1661744fe010219bde5b89c42&amp;smart=true&amp;width=365&amp;height=274" type="image/jpeg" height="274" width="365">
         <media:description type="plain">제니가 파리 시내에서 인파에 둘러싸여 있다./인스타그램</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>카카오·NHN도 영향권… 노조 “문 닫는 자회사 고용 승계하라”</title>
-      <link>https://www.chosun.com/national/labor/2026/03/10/EIUZ43TYLBBVLBZQZF3SR4VRXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/10/EIUZ43TYLBBVLBZQZF3SR4VRXE/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Mar 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMWWAC3MIJB4HJXALC77QHCSF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-5138&gt; 노란봉투법 시행 D-1…원청교섭 투쟁선포 퍼포먼스&#13;
-    (서울=연합뉴스) 진연수 기자 = 노란봉투법(노동조합 및 노동관계조정법 2·3조 개정법률) 시행을 하루 앞둔 9일 오후 서울 종로구 서울고용노동청 앞에서 열린 공공운수노조 원청교섭 투쟁선포 기자회견에서 참석자들이 퍼포먼스를 하고 있다. 2026.3.9&#13;
-    jin90@yna.co.kr/2026-03-09 15:13:41/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 시행되는 노란봉투법은 원·하청 간 교섭뿐 아니라 모회사와 자회사 간 갈등과 같은 기업 지배 구조 문제로 확산될 것이란 관측이 나온다. 자회사나 손자회사 노조들이 모회사가 실질적 사용자라고 주장하며 임금 인상 등 처우 개선을 요구하고 있기 때문이다.&lt;br&gt;&lt;br&gt;최근 IT 업체 NHN의 자회사인 NHN에듀는 영업 적자가 이어지자 알림장 서비스 ‘아이엠스쿨’을 종료하고 인력을 재배치하기로 했다. 그러자 NHN에듀 안팎에선 이는 사실상 구조 조정에 해당하고, “NHN이 NHN에듀 경영에 실질적 영향력을 행사하고 있다”며 직접 고용하라는 요구가 제기됐다.&lt;br&gt;&lt;br&gt;카카오 노조 역시 카카오의 개발 자회사(디케이테크인)가 카카오 서비스 품질 관리 계약 종료 이후 관련 인력에게 권고사직을 통보하면서 고용 불안이 발생했다며 실질적 사용자인 모회사인 카카오가 고용을 책임져야 한다고 주장했다. 인천국제공항공사, 한국공항공사 자회사 노조는 10일 모기업에 해당하는 두 공사에 교섭 테이블을 차리자는 요구를 하겠다며 선전포고를 한 상태다. &lt;br&gt;&lt;br&gt;자회사 체제는 경영 효율성과 전문화를 위해 도입됐다. 사업 영역을 모회사 등과 분리하고 인사와 임금 체계를 자체적으로 운영하는 게 핵심이다. 그러나 노란봉투법 시행 후 자회사 노동자들이 모회사를 상대로 직접 교섭을 요구하면서 이 같은 체제 자체가 문제가 될 가능성이 지적되고 있다. 산업 안전 분야 등 사용자성 인정이 비교적 쉬운 부분을 통해 교섭 테이블을 차린 뒤 직접 고용 등을 요구할 경우 그룹 지배구조 자체가 흔들릴 가능성도 있다.&lt;br&gt;&lt;br&gt;산업계에서는 이 같은 자회사 노조의 요구가 노노(勞勞) 갈등으로 번질 수 있다는 관측도 나온다. 자회사 구성원들이 모회사에 직접 고용을 요구하거나 수익을 나누라고 주장하는 것이 모회사 재정에 악영향을 주기 때문에 모회사 구성원들이 이에 강하게 반발할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
