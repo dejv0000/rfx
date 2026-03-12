@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 3월 13일</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/12/7UCDHSFJUZCGRLZZCITG2IBMVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/7UCDHSFJUZCGRLZZCITG2IBMVY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 14:34:00 +0000</pubDate>
+      <content:encoded>금 - 강원·경상 곳곳에 눈비&lt;br&gt;&lt;br&gt;토~일 - 일교차 큰 초봄 날씨&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JDQMHHWI5G4NB3YEFKYASGSBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법원, ‘이재명 조폭 연루설’ 장영하 징역형 집행유예 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/12/IQ55SNW7UNAMTKBHQU5PMVMPUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/IQ55SNW7UNAMTKBHQU5PMVMPUE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 13:29:02 +0000</pubDate>
+      <content:encoded>2022년 20대 대선 당시 유력 대선 주자였던 이재명 대통령의 ‘조폭 연루설’을 제기해 재판에 넘겨진 장영하 국민의힘 성남시 수정구 당협위원장에게 대법원이 징역형 집행유예를 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2WIZBXGU2WMMBYMFQTQYZUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장영하 국민의힘 성남시 수정구 당협위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 12일 공직선거법상 허위 사실 공표 혐의로 기소된 장 위원장에게 징역 1년에 집행유예 2년을 선고한 원심 판결을 상고기각으로 확정했다.&lt;br&gt;&lt;br&gt;장 변호사는 대선을 앞둔 지난 2021년 10월 기자회견을 열고 이 대통령이 성남시장 재임 중 폭력 조직인 국제마피아파 측에 사업 특혜를 주는 대가로 20억원가량을 받았다고 주장했다. 더불어민주당은 장 변호사를 고발했지만, 서울중앙지검은 장 변호사가 박씨의 말을 사실이라 믿고 의혹을 제기했다고 보고 불기소 처분했다. 민주당이 불기소 처분에 불복해 재정 신청을 했고, 법원이 이를 받아들여 장 변호사는 2023년 5월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 “장 변호사가 공표한 사실을 진실로 믿었다고 보인다”며 허위성의 인식이 있었다고 보기 어렵다는 이유로 무죄 판결을 내렸다. 항소심은 그러나 “장 변호사가 20대 대선을 4개월여 남겨두고 이재명 후보가 당선되지 못하게 할 목적으로 조직폭력배 출신 사업가 등이 이 후보에게 뇌물을 줬다는 등의 허위 사실을 공표했다”며 “이 같은 범행은 유권자들의 합리적 판단을 저해하고 의사 결정을 왜곡한다”며 유죄를 선고한 것이다.&lt;br&gt;&lt;br&gt;대법원도 이 같은 원심 판결에 문제가 없다고 보고 장 위원장 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>테이저건 맞고도 버틴 190㎝ 폭행범… 경찰 4명이 삼단봉으로 제압</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/12/ZTAWFX4V4FBQBEAWF2ZJ5U7XRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/ZTAWFX4V4FBQBEAWF2ZJ5U7XRU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 11:12:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZQWMNTBGYYTQNLBGMZTCNJTGE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;길거리에서 난동을 부린 A씨를 제압하는 장면. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아무런 이유도 없이 차량 운전자를 ‘묻지마 폭행’하고 흉기로 시민들을 위협한 40대 남성이 체포됐다. &lt;br&gt;&lt;br&gt;12일 경기남부경찰청은 특수협박 사건의 피의자 40대 남성 A씨의 검거 장면이 담긴 영상을 공개했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오후 8시쯤 경기 안산시의 한 길거리에서 길가에 세워진 승용차의 운전석 문을 열고 40대 운전자 B씨를 아무 이유도 없이 폭행했다.&lt;br&gt;&lt;br&gt;B씨가 이에 저항하자 A씨는 근처 카페로 들어가 빵을 썰 때 쓰는 스테인리스 ‘빵칼’을 갖고 나왔다. A씨가 흉기를 들고 거리를 돌아다니자 시민들은 놀라서 급히 자리를 피했다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 긴급 신고 지령인 ‘코드1’을 발령했고, 선부파출소 소속 경찰관 등이 2분 만에 현장에 도착했다. 곧 파출소 경찰관 외에도 경찰서 형사 등 총 10여 명이 현장에 출동해 A씨를 포위했다. &lt;br&gt;&lt;br&gt;경찰은 A씨에게 흉기를 버리라고 5차례에 걸쳐 명령했지만, 이를 거부하자 테이저건을 발사했다. 그러나 키 약 190㎝가량의 거구인 A씨는 테이저건을 맞고도 쓰러지지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSDOMZYMVSDAOJRME4DKMRXG4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;A씨를 피해 달아나는 시민들. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 경찰은 다시 테이저건을 사용하고, 한꺼번에 4명이 달려들어 삼단봉으로 흉기를 든 손을 내려쳐 A씨를 제압했다. &lt;br&gt;&lt;br&gt;다행히 A씨에게 폭행당한 B씨가 경상을 입은 것 외에 이번 사건으로 발생한 부상자는 없었다.&lt;br&gt;&lt;br&gt;경찰은 특수협박과 폭행 혐의로 A씨를 현행범 체포해 조사하고 있다. 경찰은 특수공무집행방해 등 추가 혐의 적용을 검토한 뒤 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 고창서 70대 경운기에 몸 끼여 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/03/12/2DOWA77RA5C6DKII5KI6FGQ4SQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/12/2DOWA77RA5C6DKII5KI6FGQ4SQ/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 12:35:45 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTXNEOX2NVHQTBJFYZGC6TORNU.png"&gt;&lt;figcaption&gt;&lt;small&gt;고창경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;12일 낮 12시 5분쯤 전북 고창군 무장면의 한 주택 마당에서 70대 A씨가 경운기에 몸이 끼여 숨졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 발을 땅에 딛고 후진을 위해 조작하던 중 조향장치에 몸이 끼인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;마을 주민들은 A씨가 약속 장소에 나오지 않아 그의 집에 갔다가 사고가 난 A씨를 발견해 신고했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “가슴 부위가 장시간 장치에 짓눌리면서 변을 당한 것으로 추정한다”며 “구체적인 경위를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>심우정, 박성재 ‘내란 중요임무 종사’ 재판 증인 출석해 증언 거부</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/12/UGTFU3SUUNAXXDQQLPI6R7RM2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/UGTFU3SUUNAXXDQQLPI6R7RM2U/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 12:21:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TAMBVGJRDIMJTMJSDSOJUMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박성재 전 법무부 장관의 내란 중요임무 종사 혐의 재판에 심우정 전 검찰총장이 증인으로 출석했으나 수사 상황을 이유로 증언을 거부했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 12일 박 전 장관과 위증 혐의로 기소된 이완규 전 법제처장의 속행 공판을 진행했다.&lt;br&gt;&lt;br&gt;심 전 총장은 지난 기일에 불출석 사유서를 제출하고 출석하지 않았으나 이날은 증인으로 재판에 모습을 드러냈다. 하지만 심 전 총장은 현재 내란 중요임무 종사 혐의 등으로 수사를 받고 있다며 특검 측 증인신문과 박 전 장관 측 반대신문에 모두 증언을 거부했다. &lt;br&gt;&lt;br&gt;재판 후반부쯤 재판부는 심 전 총장에게 검찰 수사 보고 절차 등을 묻기도 했다. 재판부는 심 전 총장에게 일반적인 검사 파견 절차에 대해 질문했는데, 심 전 총장은 “(10명 정도 되는 다수 파견은) 일반적으로 파견 공모 절차를 진행한다”고 답했다. 이에 재판부가 “비상 상황에서 파견 절차는 공모 절차가 없을 것 같다”고 하자 심 전 총장은 “검사 임관 후 급하게 수사단 파견을 나간 적 있는데, 그런 경우에는 공모 절차 없이 나갈 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 재판을 마치기 전 “다음 달 중 변론을 종결하고 5월에는 판결을 선고하는 것이 목표”라며 특검과 변호인에게 미리 증인을 신청해 달라고 요청했다. &lt;br&gt;&lt;br&gt;박 전 장관은 12·3 비상계엄 선포 직후 법무부 실·국장 회의를 소집해 합동수사본부로 검사 파견을 검토한 등의 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부안 제조공장서 20대 태국 노동자 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/03/12/PPTPYL52AJCOFNMTQOLH4DYU3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/12/PPTPYL52AJCOFNMTQOLH4DYU3I/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 11:17:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZWGMBSMU3DGMJVG4ZGCNTGGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부안경찰서 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 오후 4시 40분쯤 전북 부안군 줄포면의 한 플랜트 설비 제조 공장에서 태국 국적의 20대 A씨가 작업 중 설비에 끼여 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;A씨는 교반기를 설치하던 중 알 수 없는 이유로 일부 설비가 분리되면서 이 설비에 목이 끼인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;해당 사업장은 5인 미만으로 중대재해 처벌 등에 관한 법률 적용 대상은 아닌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 고용노동부와 함께 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 군산 산후조리원서 30대 산모 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/03/12/M5PWRDGGNJEETHJLZQF2SSU3XE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/12/M5PWRDGGNJEETHJLZQF2SSU3XE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 11:11:37 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRWMOBQGA3GIYTEMFSTGNZWGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산경찰서 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;12일 오전 10시쯤 전북 군산시의 한 산후조리원에서 30대 산모 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 출산해 회복 중이었으며, 기저질환이 있었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “기저질환에 의해 숨진 것으로 추정되지만, 부검을 통해 정확한 사망 원인을 확인할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“WBC 점수 조작 죄송” 문구에 발칵...두끼 대만 ‘혐한 마케팅’ 논란</title>
       <link>https://www.chosun.com/national/national_general/2026/03/12/JMC4GBODKBCYJD6M3DXXAZVTTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/JMC4GBODKBCYJD6M3DXXAZVTTU/</guid>
@@ -824,15 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USLILUOHHVF7PPIHJC5HSAQVIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김만배 , 유동규, 남욱 /뉴시스, 뉴스1.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시는 ‘대장동 개발 비리’ 사업자들의 범죄 수익을 환수하기 위해 올해 총 10건의 추가 가압류·가처분을 신청해 모두 인용 결정을 받았다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;지난 1월 대장동 일당의 일부 예금 채권에서 ‘깡통 계좌’가 확인됐지만, 성남시는 부동산과 증권, 전세 보증금, 상가 임대료, 아파트 분양 수익금 신탁 계좌 등으로 확대해 재산을 추적하고 있다. 민사 소송도 병행 중이다.&lt;br&gt;&lt;br&gt;성남도시개발공사는 작년 12월 대장동 민간 업자 김만배·남욱·정영학·유동규씨에 대한 가압류·가처분 14건(5579억원)을 법원에 신청했다. 범죄 수익 환수를 위한 것이었다. 전건 인용 결정을 받았지만, 막상 해당 계좌들을 열어 보니 잔고가 수만 원에서 수천만 원에 불과한 ‘깡통 계좌’들이었다.&lt;br&gt;&lt;br&gt;성남시는 올해도 환수 작업을 이어가며 정영학 측 부동산 3건, 김만배 측 채권 2건, 남욱 측 부동산과 채권 5건 등 총 10건, 90억원 상당의 추가 가압류·가처분을 신청해 모두 인용 결정을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQWEMZRGZRDCODGHFTDIY3CHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유 자산관리 사무실 압수수색 ./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성남시는 김만배씨가 실질 지배한 화천대유자산관리의 하나자산신탁에 대한 수익금교부청구권(아파트 분양수익금) 가압류가 핵심이라고 보고 있다. 지난 2023년 1월 작성된 검찰 수사보고서에 따르면, 검찰은 이 신탁계좌에 828억원 규모(2022년 12월 기준) 미정산 수익금이 들어올 가능성이 크다고 보고 추징보전 조치를 했다.&lt;br&gt;&lt;br&gt;성남시는 “실제 지급 여부와 잔존 채권 규모는 현재 ‘제3채무자진술최고’ 절차(채권자가 법원에 신청해 제3채무자에게 채권의 존재·한도, 지급의사, 다른 청구·압류 사실 등을 진술하게 하는 것)를 통해 확인하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;성남시는 대장동 사업 시행사 ‘성남의뜰’을 상대로 ‘배당결의 무효확인’ 소송(민사)도 진행하고 있다. 지난 10일 수원지법 성남지원에서는 첫 변론이 진행됐다. 원고인 성남도시개발공사 측은 성남의뜰이 2019~2021년 주주총회를 거쳐 대장동 일당에게 4000억원대에 달하는 거액의 배당을 결의한 것은 정관과 상법 등에 위반한 것으로, 원천 무효라고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7AW6GXIINPN7GIBLBQ4FVOW74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신상진 경기 성남시장이 작년 11월 19일 대장동 사건 항소 포기 관련 정성호 법무부 장관, 이진수 차관, 노만석 전 검찰총장 직무대행, 정진우 전 서울중앙지검장 등에 대한 고발장 제출을 위해 경기도 과천 정부과천청사 내 고위공직자범죄수사처로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 13일에는 서울고법에서 대장동 비리 사건 2심 첫 재판이 열린다. 성남시 관계자는 “항소심 재판이 범죄수익 환수 절차에 중대한 영향을 미칠 수 있는 만큼, 예의주시하며 환수 노력을 이어가겠다”고 했다.&lt;br&gt;&lt;br&gt;신상진 성남시장은 “검찰은 작년 항소 포기에 이어 (2심 재판에서도) 무책임한 태도를 보여서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>직장 동료 기초생활수급비 빼앗고 폭행까지...결국 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/11/4I5SMHZFMBFPHGNFN2X3IHLI5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/4I5SMHZFMBFPHGNFN2X3IHLI5Y/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 08:52:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정신 연령이 낮은 직장 동료의 기초생활수급비를 빼앗고, 폭행한 40대 남성이 항소심에서도 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 수원고법 형사2-2부(재판장 김종우)는 상습특수상해, 공갈, 강요 등 혐의를 받는 A씨에게 징역 3년 6월을 선고했다. 1심 재판부는 A씨에게 징역 2년을 선고했었다.&lt;br&gt;&lt;br&gt;A씨는 작년 2~4월 경기 안산시의 한 가게 종업원으로 같이 근무하고 있던 피해자 B씨의 어깨 등 부위를 둔기로 폭행하고, 무릎을 꿇게 한 다음 발로 온몸을 걷어차 다치게 한 혐의를 받는다. A씨는 담뱃불로 B씨의 몸에 화상 등 상해를 입히기도 했다.&lt;br&gt;&lt;br&gt;그는 B씨가 건강상의 이유로 3개월가량 일을 쉬자 “쉬는 동안 내가 대신 그 일을 해줬으니 3개월 치 임금 700만원을 달라”고 요구했는데 거절당하자 앙심을 품고 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 “돈을 갚지 않으니 담보로 기초생활수급비 통장을 가지고 오라”고 B씨를 겁줘 통장 등을 받아내고, 70여 만원을 갈취한 혐의도 있다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피해자는 상당한 수준의 상해를 입었고 정신적 고통도 심하게 겪었을 것으로 보여 피고인에 대한 엄벌이 불가피하다”고 실형을 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “이 사건 범행은 건강 상태가 좋지 않고 정신 연령이 낮은 사회적 약자인 피해자를 상대로 한 범행”이라며 “상당 기간 여러 차례에 걸쳐 피해자에게 괴롭힘과 상해, 금전적 손해를 가해 죄질이 매우 불량하다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 피고인은 수사 과정에서 납득할 수 없는 변명으로 일관했고, 피해자의 피해 회복을 위해 아무런 노력을 하지 않았으며 용서받지도 못했다”며 “여러 양형 조건을 고려하면 원심의 형은 너무 가벼워서 부당하다고 판단된다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>유동규 “김용·정진상이 돈 요구...남욱에게 1억7000만원 받아 전달”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/11/EXGHXPC7B5CYJIEE2QEOCU3PQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/EXGHXPC7B5CYJIEE2QEOCU3PQQ/</guid>
@@ -840,36 +894,6 @@
       <description/>
       <pubDate>Wed, 11 Mar 2026 08:51:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRNYZFSOUFPPXC2VNHCD7ONVGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 기획본부장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유동규 전 성남도시개발공사 기획본부장이 11일 정진상 전 더불어민주당 당대표실 정무조정실장의 ‘대장동 개발 비리’ 재판에 증인으로 나와 2013년 초 김용 전 민주연구원 부원장과 정 전 실장으로부터 “돈을 만들어달라”는 요구를 받았다고 증언했다. 유 전 본부장은 이후 남욱 변호사에게서 총 1억7000만원을 받아 두 사람에게 전달했다고 재차 주장했다.&lt;br&gt;&lt;br&gt;유 전 본부장은 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 대장동·위례·백현동·성남FC 사건 공판에서 2013년 2월 성남도시개발공사 설립 조례안이 통과될 무렵 “김용, 정진상과 늘 같이 술을 마셨다”며 “두 사람이 같이 (돈을 만들어오라고) 얘기했고, 그 바람에 제가 남욱에게 얘기해 보겠다고 해서 연결이 된 것”이라고 했다. 유 전 본부장은 당시 정 전 실장이 “권력은 많은데 돈은 없다”며 자금 지원을 요청했다고 했다. &lt;br&gt;&lt;br&gt;그는 “2013년 4월 2일 남욱으로부터 7000만원을 받아 김용의 아파트 주차장에서 김용에게 건넸고, 같은 달 16~17일 9000만원과 1000만원을 각각 받아 정진상에게 전달한 게 맞느냐”는 검찰 질문에 “네”라고 답했다. 2010년 최초 구속 수사 때 정 전 실장과 김 전 부원장 이름을 언급하지 않은 것에 대해 검찰이 “소위 말해서 의리를 지킨 것이냐”고 묻자 그렇다고 답했다. 유 전 본부장은 다만 남씨에게서 돈을 받을 당시 구체적으로 어떤 명목을 댔는지에 대해서는 “정확하게 기억나지 않는다”며 “핑계를 대면서 얘기했던 것으로 기억한다”고 했다.&lt;br&gt;&lt;br&gt;유 전 본부장은 남씨 진술이 최근 바뀐 것에 대해 “정권이 누구냐에 따라 이쪽저쪽으로 진술이 바뀌어 왔다”고도 주장했다. 남씨는 2022년 11월부터 2025년 5월까지 여러 재판에서 “2013년 유동규에게 준 7000만원과 1억원이 김용·정진상에게 전달된 것으로 안다”는 취지로 증언하다가, 2025년 8월 이후 이 재판에서는 “그 사실은 2022년 9~10월 검찰 조사 과정에서 처음 알았다”는 취지로 번복했다. 유 전 본부장은 이에 대해 “(남씨 증언은) 맞지 않는다”며 “남욱과 대화 녹취록을 별도로 제출하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 옥색 수의를 입고 법정에 나온 유 전 본부장은 과거 수감 중 중증 우울증을 앓아 현재까지 정신과 약을 복용하고 있다고 호소했다. 유 전 본부장은 앞서 허리 부상과 다리 골절 등 건강 문제를 들어 기일 변경을 요청했었다. 재판부는 유 전 본부장에 대해 증인 불출석에 따른 과태료 100만원을 부과하고, 이날 법정에 강제로 데려오는 구인영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>취업률 92.8%... 경북도 ‘청년 무역 사관학교’ 12일부터 모집</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/11/GKWSPZNXUJHWXE5RIRE4NGMSJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/GKWSPZNXUJHWXE5RIRE4NGMSJ4/</guid>
-      <dc:creator>안동=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 08:44:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2DGOBVMUZDGNRSMYZTCODEGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도가 한국표준협회, 한국무역협회와 함께 실무형 무역 인재 양성을 위한 14기 청년 무역사관학교 교육생을 모집한다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 39세 이하 청년들을 대상으로 하는 무역 인재 양성 프로그램인 ‘청년무역사관학교’ 교육생을 모집한다. 이 프로그램은 누적 취업률 92.8%에 육박해 지역 내에서 ‘취업사관학교’로도 불린다.&lt;br&gt;&lt;br&gt;경북도는 제14기 청년무역사관학교 교육생을 모집한다고 11일 밝혔다. 모집기간은 이달 12일부터 오는 4월 5일까지로, 한국무역협회 대구경북지역본부 홈페이지에서 접수를 받는다. 경북도 내 주소지를 둔 만 39세 이하 청년으로 대구·경북 소재 대학교 재학·졸업생이거나, 타지 대학교 재학·졸업생 중 부모 주소지가 경북도 내인 청년 모두 신청할 수 있으며, 총 72명을 뽑는다.&lt;br&gt;&lt;br&gt;교육 기간은 오는 5월부터 7월까지다. 교육생들은 온라인 사전 교육으로 기초 무역 지식을 쌓고 6월 본교육에선 무역심화이론·산업직무역량 등 248시간 가량의 수업을 이수할 예정이다. 교육 마지막 주에는 6박 7일간의 합숙을 통해 수출 시뮬레이션·해외 마케팅 경진대회를 통해 실무 감각을 익힌다.&lt;br&gt;&lt;br&gt;올해는 해외 무역 탐방 인원을 전년도의 2배인 24명으로 늘렸다. 해외 무역 탐방에 선정된 청년은 해외 기업 전시회 등에 참가하고 현지 문화를 체험하는 기회를 갖는다. 포스코인터내셔널 등 종합 상사와 연계한 체험형 견학, 지역 최대 취업박람회 등 취업 프로그램도 지원된다.&lt;br&gt;&lt;br&gt;청년무역사관학교는 지난 2013년 1기 이후 올해까지 총 862명이 수료했다. 취업 대상자 671명 중 92.8%가 대기업과 공공기관, 중견·중소 기업 등에 취업했다. 대구·경북 지역 취업률도 50%에 육박한다. 이상수 경북도 지방시대정책국장은 “청년무역사관학교는 현장 맞춤형 실무 교육을 처음 도입한 사례”라며 “지역 청년들이 국제 무역 현장에서 활약하는 핵심 인재로 거듭날 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘北 무인기’ 30대 대학원생, 구속적부심 기각… 구속 상태 유지</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/11/253S7PSA7JDCJNSGEEHM5ZUB6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/253S7PSA7JDCJNSGEEHM5ZUB6Q/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 08:29:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DATIBZOHU5NEXIGIBO6XAWSUYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한에 무인기를 보내 남북 긴장을 조성한 혐의를 받는 30대 대학원생 오모씨가 지난달 26일 영장 심사를 받기 위해 서울중앙지법에 출석했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 무인기를 보내 남북 긴장을 조성한 혐의를 받는 30대 대학원생 오모씨가 구속을 취소해 달라며 낸 구속적부심을 11일 법원이 기각했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사4-1부(재판장 송종호)는 이날 오후 2시 10분 일반이적, 항공운전법 위반, 군사기지법 위반 혐의를 받는 오씨의 구속적부심 심사를 연 뒤 “청구 이유가 없다”며 기각 결정을 내렸다.&lt;br&gt;&lt;br&gt;구속적부심은 구속영장 발부의 적법성을 다시 판단해 달라고 법원에 요청하는 절차다. 법원이 이날 오씨의 청구를 기각하면서 오씨는 구속 상태에서 남은 수사를 받게 됐다.&lt;br&gt;&lt;br&gt;오씨는 경제적 이익을 목적으로 여러 차례 무인기를 북한 상공으로 날려 보내 남북 간 긴장을 고조시키고 우리 군의 군사 관련 사항을 노출시킨 혐의 등을 받고 있다. 법원은 “증거를 인멸할 염려와 도망할 염려가 있다”며 지난달 26일 오씨의 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;군·경 합동 태스크포스(TF)는 지난 6일 오씨를 구속 상태로, 무인기를 제작한 장모씨와 공범 김모씨를 불구속 상태로 검찰에 송치했다. 군경 TF는 “피의자들의 혐의를 국익에 대한 중대 위협으로 판단했다”며 국가정보원과 군 소속 피의자들의 범행 관여 여부에 대해서도 계속 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘음주운전 혐의’ 배우 이재룡, 경찰에 “사고 전 모임 다수 가졌다” 진술</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/11/VO4RKIM2XNEQTLIXFE3LKHX6PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/VO4RKIM2XNEQTLIXFE3LKHX6PQ/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 08:16:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJ62DC4LTRE5JE7O6EIYVRSKFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전을 시인한 배우 이재룡이 10일 오후 서울 강남경찰서 교통조사계에서 피의자 신분으로 조사를 받고 나와 입장을 표명하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 음주운전 사고를 내고 달아난 혐의를 받는 배우 이재룡(62)씨가 경찰 조사에서 “사고를 내기 전 여러 모임을 가졌다”는 취지로 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이씨는 지난 10일 경찰 조사에서 “사고 전 각각 다른 장소에서 모임을 가졌고, 마지막 식사 자리에서만 소주 4잔을 마셨다”고 진술한 것으로 전해졌다. 그는 사고 직후엔 “사고 전에는 술을 마시지 않았다”며 혐의를 부인하다가 나중에 “소주 4잔을 마시고 운전했다”고 시인한 바 있다. &lt;br&gt;&lt;br&gt;경찰 조사에서 이씨는 “사고 후 차량을 자택에 주차하고 택시로 지인 집까지 이동해 술을 더 마셨다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이씨는 지난 6일 오후 서울 지하철 7호선 청담역 인근에서 차를 몰다가 중앙 분리대를 들이받고 달아난 혐의를 받고 있다. 검거 당시 이씨 혈중 알코올 농도는 면허 정지 수준이었다. 그는 지난 10일 경찰 조사 이후 취재진과 만나 “(검거) 당일 바로 혐의를 인정했고, 가드레일을 받은 걸 인지하지 못해 계속 운전했다”며 “앞으로 있을 법적 절차에 성실히 잘 따르겠다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이씨가 저녁 식사 전 다른 모임에서도 술을 마셨는지 등을 조사해 음주운전 혐의 인정 여부를 판단할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AERET4CQ4ZCJPBOSIBVL2AVMFA.png?auth=d0f1b7bb30fa171f8409476262b81287df0ddca92d6f5aae4bc2a2ae1a53ffa5&amp;smart=true&amp;width=962&amp;height=722" type="image/png" height="722" width="962">
-        <media:description type="plain">음주운전을 시인한 배우 이재룡이 10일 오후 서울 강남경찰서 교통조사계에서 피의자 신분으로 조사를 받고 나와 입장을 표명하고 있다.</media:description>
-      </media:content>
     </item>
     <item>
       <title>정성호 법무장관 “공소취소 지휘할 생각 없다”</title>
@@ -888,15 +912,6 @@
       <description/>
       <pubDate>Wed, 11 Mar 2026 07:36:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TIOBQMUZWKMRUGUYTAYJQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 폭설이 내린 강원 속초시 설악산 소공원. /속초시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일부터 이틀간 강원도에 최대 15㎝에 달하는 폭설이 예보됐다. &lt;br&gt;&lt;br&gt;11일 기상청에 따르면 찬 동풍이 상대적으로 따뜻한 동해상을 통과하며 비구름대가 형성돼 12~13일 강원도를 중심으로 많은 눈이 내리겠다. 3월 들어 강한 동풍이 자주 불면서 강원도 일대에 많은 눈이 쌓이고 있다.&lt;br&gt;&lt;br&gt;구름대는 강원 동해안과 경북 동해안으로 진입하며 비를 뿌리겠고, 기온이 낮은 강원 산지로 이동하면서 점차 눈으로 바뀔 것으로 보인다. 12일 오후부터 밤 사이 시간당 1~3㎝의 강한 눈이 퍼붓겠고, 13일 새벽부터 오전 사이에도 시간당 1㎝의 거센 눈발이 날릴 것으로 보인다.&lt;br&gt;&lt;br&gt;12~13일 예상 적설량은 강원 산지 5~15㎝, 울릉도·독도 3~8㎝ 등이다. 동해안에는 5~20㎜의 비가 내리겠다. 이번 강수로 영남 곳곳에 발효됐던 건조 특보(실효 습도 35% 이하)는 모두 해제될 것으로 보인다. 12~13일 기온은 최저 영하 3~영상 5도, 최고 7~14도로, 일교차가 10~15도까지 벌어질 것으로 예보됐다.&lt;br&gt;&lt;br&gt;공기는 12일에도 여전히 탁할 것으로 보인다. 중국발 미세먼지가 대기 정체로 빠져나가지 못하면서 전국에서 초미세먼지(PM2.5) 농도가 ‘나쁨’을 기록할 것으로 예상됐다. 13일에는 ‘보통’ 수준을 회복할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 김병기 3차 소환조사 마무리...4차 소환조사 조율 중 </title>
-      <link>https://www.chosun.com/national/national_general/2026/03/11/TX36JM5K3BGWXDMYDEALHQ4L7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/TX36JM5K3BGWXDMYDEALHQ4L7Q/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 05:11:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEMQUWEJSNOSNKUNDLIK3YDJXM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원이 11일 오전 마포구 서울경찰청 공공범죄수사대에서 공천헌금 수수 등 13개 의혹과 관련 피의자 신분으로 3차 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물수수 등 13가지 의혹을 받는 무소속 김병기 의원에 대한 3차 소환 조사가 마무리됐다. 서울경찰청 공공범죄수사대는 11일 오전 9시부터 오후 2시까지 약 5시간 동안 김 의원을 피의자 신분으로 조사했다. 이번 조사는 지난달 27일 두 번째 소환 조사 이후 12일 만이다.&lt;br&gt;&lt;br&gt;경찰은 지난달 26~27일 이틀간 진행된 조사에서는 김 의원 차남의 숭실대 편입과 진우산전 채용, 빗썸 채용 의혹 등을 집중적으로 들여다본 것으로 알려졌다. 김 의원 측은 “의정 활동의 일환으로 지역구에 있는 대학인 숭실대를 방문한 것은 맞지만 차남의 편입과 관련해 의논한 사실은 없다”며 혐의를 부인했다. 또 구의원들로부터 3000만원의 정치자금을 수수했다는 의혹에 대해서도 알리바이를 입증할 사진을 경찰에 제출하는 등 혐의를 부인했다.&lt;br&gt;&lt;br&gt;이에 경찰은 불법 정치자금 공여를 자수한 전모 전 동작구의원과 김 의원의 최측근인 이지희 동작구의회 부의장을 대질 조사하고, 편입·취업 특혜 의혹의 수혜자인 김 의원 차남을 불러 조사하는 등 보강 수사를 진행해 왔다. 경찰은 김 의원 배우자의 동작구의회 법인카드 사적 유용 의혹과 전직 보좌진에 대한 인사 불이익을 쿠팡에 청탁했다는 의혹 등 나머지 사안에 대해서도 조사할 계획이다.&lt;br&gt;&lt;br&gt;경찰과 김 의원 측은 4차 소환조사 여부와 일정을 조율하고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한덕수 측, 내란 항소심 첫 재판서 “1심은 명백한 사실 왜곡”</title>
@@ -918,24 +933,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/EA4ZR2F7WBGLVFMP2AAGMFDPPA.jpg?auth=e18e368566819cc8a0a5c054044532af0d7e95425e40070679f9f729bdbc7c1a&amp;smart=true&amp;width=391&amp;height=294" type="image/jpeg" height="294" width="391">
         <media:description type="plain">2024년 일본 부츠카리족 추정 여성에게 피해를 당한 한국인 네티즌 가족 /인스타그램 'cooing_revina'</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[속보] 종합특검 “계엄 당시 합참 관계자 내란 혐의 입건·출국금지”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/11/QLG3V22CRZBSXHAIZAO7ZVSJYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/QLG3V22CRZBSXHAIZAO7ZVSJYY/</guid>
-      <dc:creator>김희래 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 05:05:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GKMRXGI3GKNRUMY3WGMRZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시 2차 종합특검팀(권창영 특별검사) 사무실. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; [속보] 종합특검 “계엄 당시 합참 관계자 내란 혐의 입건·출국금지”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20개월 만에 숨진 딸, 신고 전 이틀간 어린이집 결석… 경찰, 방임 혐의도 수사</title>
-      <link>https://www.chosun.com/national/incident/2026/03/11/Q7AYK2UJBFACHCBQQIR3E7E35U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/11/Q7AYK2UJBFACHCBQQIR3E7E35U/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 01:56:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNJPE2G4V5O7NNYHNI5WWJSR5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아동학대 치사 혐의로 구속된 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동구에서 영양 결핍으로 숨진 생후 20개월 아이가 소방 당국 신고 접수 전 이틀 동안 어린이집에 결석한 것으로 파악됐다. 경찰은 이 아이를 숨지게 한 혐의로 구속한 친모 A(30)씨의 방임 학대 여부도 수사 중인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;11일 인천 남동구의 한 어린이집 등에 따르면 숨진 B(2)양은 지난 3일과 4일, 어린이집에 나오지 않았다. &lt;br&gt;&lt;br&gt;해당 어린이집은 최근 초등학교에 입학한 A씨의 큰딸(7)이 다녔던 곳으로, A씨는 지난달 20일 어린이집이 마련한 B양과 함께 등원을 위한 오리엔테이션 행사에 참석하기도 했다. &lt;br&gt;&lt;br&gt;어린이집 측은 지난 4일 오후 7시쯤 연락이 닿지 않는 A씨의 다른 가족에게 “이틀(2일) 결석 시 가정 방문을 해야 한다”는 사실을 전화로 알렸고, “집을 찾아가보겠다”는 답을 들었다. &lt;br&gt;&lt;br&gt;전화를 받고 A씨 집을 찾아간 가족은 숨을 쉬지 않는 B양을 발견하고 오후 8시쯤 소방에 신고했다. 국회 더불어민주당 양부남 의원이 확보한 신고 당시 녹취록엔 “아기가 숨을 쉬지 않는다” “얘가 몸이 차가워졌다”며 도움을 요청한 정황이 담겼다. &lt;br&gt;&lt;br&gt;소방 공조 요청을 받은 경찰은 아동학대범죄의 처벌 등에 관한 특례법상 아동학대치사 혐의로 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;B양의 시신을 부검한 국립과학수사연구원은 “영양 결핍으로 사망한 것으로 추정된다”는 구두 소견을 경찰에 전달했다. B양의 장례를 도운 한 지원 단체 관계자도 “숨진 B양이 많이 말라 보였다”고 했다. &lt;br&gt;&lt;br&gt;어린이집 관계자는 “지난해 A씨에게 B양을 보내라는 권유를 했는데 아이가 아직 어리고, 어린이집에 보내면 정부 지원금이 줄어든다는 등의 이유로 보내지 않다가 지난달 아이를 보내기로 최종 결정했다”며 “오리엔테이션 때 친모가 아기 띠에 B양을 메고 함께 왔는데, 머리 위로 덮개가 씌워져 있어 정확하게 보지 못했다. 안타까운 일이 생겨 마음이 무겁다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 두 딸과 함께 살면서 기초생활수급자 생계·주거 급여와 한부모가족 지원 등 한 달 300여만원을 지원받았던 것으로 파악됐다. 지난해 5월엔 거주지 행정복지센터에 식재료나 간식 등을 무료로 이용할 수 있는 ‘푸드마켓’ 이용대상자 신청을 해 선정됐고, 이후 매월 이용했다고 한다. A씨는 지난달 11일에도 푸드마켓에 다녀가 식재료와 음료수, 도너츠, 캔디류 등을 가져간 것으로 확인됐다. &lt;br&gt;&lt;br&gt;A씨 거주지역 행정복지센터가 지난해 10월 전화로 진행한 상담에서 발견된 특이사항은 없었다. &lt;br&gt;&lt;br&gt;경찰은 구속된 A씨가 큰딸에 대해서도 방임 등 학대를 했는지에 대해서도 수사 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;A씨 거주지 인근의 한 주민은 “(A씨가) 아이들을 놔두고 장시간 집을 비우는 경우를 종종 본 적이 있다”며 “방임으로 신고해야 하나 하는 생각을 하기도 했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이르면 이번 주 중 A씨에 대한 수사를 마치고 검찰에 송치할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 한덕수 ‘내란’ 항소심 첫 재판 오전 중계 허가</title>
