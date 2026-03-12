@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“WBC 점수 조작 죄송” 문구에 발칵...두끼 대만 ‘혐한 마케팅’ 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/12/JMC4GBODKBCYJD6M3DXXAZVTTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/JMC4GBODKBCYJD6M3DXXAZVTTU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 09:20:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTX3WYU6ARA2LHJ472BOY4IBBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랜차이즈 ‘두끼’의 대만 지사가 소셜미디어(SNS) 계정을 통해 혐한 마케팅을 해 논란이 되고 있다./두끼 대만 SNS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 떡볶이 프랜차이즈 두끼가 대만 현지 법인이 한국 야구 대표팀을 비하하는 ‘혐한 마케팅’을 진행해 논란이 일자 공식 사과했다.&lt;br&gt;&lt;br&gt;12일 두끼 본사 측은 “최근 두끼 대만에서 이벤트를 진행하면서 왜곡된 사실을 표현한 것을 확인했다”며 “불편함과 실망을 드린 모든 분께 진심으로 사과드린다”고 했다. 이어 “이 내용에 대해 인지한 즉시 현지 파트너사에 즉각적으로 게시물 삭제 요청 및 재발 방지를 위한 엄중한 주의를 전달했다”며 “앞으로 글로벌 매장 운영 가이드라인을 더 강화해 이 같은 일이 재발하지 않도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;논란은 지난 11일 두끼 대만 공식 소셜미디어(SNS)에 올라온 홍보 게시물에서 시작됐다. 게시물에는 한국인으로 추정되는 남성이 무릎을 꿇고 종이를 들고 사과하는 사진 여러 장이 올라왔다. 종이에는 “우리가 점수를 조작하면 안 됐다” “대인은 떡볶이를 탓하지 않는다” 등의 문구가 적혀 있었다. 게시물에는 3월 말까지 2인 세트를 540대만달러(약 2만5000원)에 판매한다는 내용도 포함됐다.&lt;br&gt;&lt;br&gt;문제가 된 것은 홍보물에 등장한 ‘540’이라는 숫자와 ‘조작’이라는 표현이다. 숫자 ‘540’은 지난 8일 월드 베이스볼 클래식 조별리그에서 한국이 대만에 4-5로 패했던 경기 결과를 떠올리게 한다는 지적이 제기됐다. &lt;br&gt;&lt;br&gt;또한 ‘조작’이라는 표현을 사용해 한국 야구 대표팀의 명예를 훼손했다는 비판도 나왔다. 앞서 일부 대만 네티즌들은 문보경이 지난 9일 호주전 9회초 마지막 타석에서 삼진으로 물러난 장면을 문제 삼았다. 당시 한국은 7-2로 앞서고 있었고, 만약 8-3으로 승리할 경우 대만이 8강에 오를 수 있는 상황이었다. 이 여파로 일부 대만 네티즌들은 문보경의 SNS에 악성 댓글을 쏟아냈다.&lt;br&gt;&lt;br&gt;두끼 대만 SNS 게시물을 본 현지 교민과 야구 팬들은 항의에 나섰다. 두끼 대만 공식 SNS에는 “건드리면 안 되는 것을 건드렸다” “돈을 벌기 위해 혐오 정서를 마케팅에 이용했다” 등 비판 댓글이 달렸다. 국내 온라인 커뮤니티에도 “저런 거 하면 한국에서 모를 줄 아는 건가” “불쾌하다” “한국 시장은 신경 안 쓰는 거냐” 등의 지적이 잇따랐다. &lt;br&gt;&lt;br&gt;논란이 커지자 두끼 대만 측은 문제가 된 사진과 게시물을 삭제했다. 또 “한국을 소재로 유머러스하게 표현하려 했지만 문구 선택에 신중하지 못했다”며 야구 팬들에게 사과했다. &lt;br&gt;&lt;br&gt;다만 논란이 된 2인 540대만달러 할인 이벤트는 이달 31일까지 계속 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>간담회 연 전국 법원장들 “재판소원 실무 혼란 우려... 법 왜곡죄 관련 형사법관 보호 방안 마련해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/12/UZN5JX3ERVCZHLXVFMKAH5BN4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/UZN5JX3ERVCZHLXVFMKAH5BN4A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 09:15:23 +0000</pubDate>
+      <content:encoded>대법원은 12일 전국 법원장 간담회에서 ‘사법 3법’ 중 이날부터 시행된 재판소원 제도에 대해 “개정 헌법재판소법 규정의 의미가 불명확하고 관련 법률 개정이 병행되지 않아 법 시행 후 재판실무와 제도운영에 초래될 수 있는 혼란에 대한 우려가 제기됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;법 왜곡죄 도입법에 대해선 “형사법관에 대한 고소·고발 등 외부적 부담의 증가로 국민이 누려야 할 ‘신속하고 공정한 재판을 받을 권리’가 침해되지 않도록 실효성 있는 보호·지원 방안이 필요하다는 데 인식을 같이 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSGKMRSGJSDENDBMEYWGMZSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 법원장 간담회./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 구체적으로 재판소원 제도에 대해선 “재판기록 송부절차, 사법부의 의견제출 방식을 비롯해, 재판소원 인용 시 취소된 재판의 후속절차, 확정된 재판을 전제로 한 집행의 효력 등의 쟁점이 간담회에서 논의됐다”고 밝혔다. 앞서 법조계에선 법원과 헌재가 재판 기록을 주고받는 방식과 관련해 “트럭으로 기록을 옮겨야 하는 것 아니냐”는 우려가 제기됐었다. 두 기관 사이 방대한 재판기록을 전자적으로 주고받을 시스템이 구축돼 있지 않기 때문이다. 이와 관련, 법원장들은 관련 법령을 정비하고 유관기관 협의 등을 통해 부작용을 최소화해야 한다는 데 뜻을 모았다고 한다.&lt;br&gt;&lt;br&gt;법원장들은 재판소원 제도와 함께 이날부터 시행된 법 왜곡죄 도입법에 대해선 “형사법관에 대한 실효성 있는 보호·지원 방안이 필요하다는데 뜻을 모았다”고 밝혔다. 법 왜곡죄는 판·검사가 형사 사건에서 법을 왜곡해 적용하면 10년 이하 징역과 10년 이하 자격 정지에 처하도록 하는 내용이다. 법원 안팎에서는 “처벌 가능성이 열리면서 법관들의 형사재판부 기피 현상이 심해질 수 있다” “법관들이 위축돼 신속하고 공정한 재판을 하지 못할 수 있다”는 우려가 나왔었다. 이에 법원장들은 직무 관련 소송을 지원하기 위한 예산의 확충, 법관 보호를 통해 재판 독립을 도모할 위원회 설치 및 운영, 신상정보 보호 강화 방안 등을 논의했다고 밝혔다. 또 형사전문법관 도입과 형사재판 관련 수당 증액도 논의했다.&lt;br&gt;&lt;br&gt;한편 2년의 유예기간을 가진 뒤 시행될 대법관 증원법에 대해 법원장들은 대법원 재판부 구성 및 심리 방식 변경, 사실심 부실화 방지, 청사 등 물적 환경 조성 필요성 등을 논의했다고 한다. 특히 사실심(1·2심) 부실화를 방지하기 위한 법관 증원, 시니어법관 제도 도입, 재판연구원 증원 등 구체적인 방안에 대한 의견이 제시됐다고 대법원은 밝혔다.&lt;br&gt;&lt;br&gt;현재 대법관은 총 14명이지만, 대법관 증원법이 시행되면 대법관은 26명까지 늘어나게 된다. 이에 따라 일선 법원에서 재판을 맡던 판사들이 대법원 재판연구관으로 차출돼 하급심 재판의 부담이 가중되고, 심리가 부실해질 수 있다는 우려가 법조계에서 꾸준히 제기돼 왔었다.&lt;br&gt;&lt;br&gt;충북 제천의 한 리조트에서 열린 이날 간담회에는 전국 각급 법원장 등 44명이 참석했다. 이날 간담회는 사법 3법 관련 논의를 위해 법원행정처의 주요 현안 보고를 생략하고 곧바로 관련 논의에 들어갔다고 한다.&lt;br&gt;&lt;br&gt;법원장들은 오는 13일 2일차 간담회에선 ‘대국민 사법서비스 접근성 제고를 위한 AI 개발의 필요성과 단계적 추진 과제’에 대하여 토론할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주항공 참사 잔해 재조사 중 희생자 추정 유해 24점 발견</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/12/5VZTDRMB3NFSVLXCS7C3W5IB44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/5VZTDRMB3NFSVLXCS7C3W5IB44/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 08:39:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSGKZJYGUZDIMRWHFSGMZJYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 12일 오전 전남 무안국제공항에서 잔해물 보관 창고에서 179명이 숨진 제주항공 참사 사고기 잔해물 관련 재조사가 진행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;179명이 숨진 12·29 제주항공 여객기 참사 현장에서 이뤄진 잔해 재조사 과정에서 희생자로 추정되는 유해 24점이 발견됐다.&lt;br&gt;&lt;br&gt;12·29 무안공항 제주항공 참사 유가족협의회는 12일 “이날 전남 무안공항에서 국토교통부와 항공철도사고조사위원회(항철위), 전남경찰청 과학수사대의 여객기 잔해 합동 재조사 중 인골로 추정되는 유해 24점을 찾았다”고 밝혔다.&lt;br&gt;&lt;br&gt;국토부와 항철위는 지난달부터 무안국제공항 잔해 보관소에 있는 참사 여객기 꼬리날개 부분과 대형 자루 200여 개에 담겨 있는 유류품 등을 재분류 및 조사하는 작업을 하고 있다.&lt;br&gt;&lt;br&gt;유가족협의회는 “이날 찾은 유해 중 1점은 기체 잔해 속에서 발견됐고, 6점은 지난 1월 국회 국정조사특별위원회 현장 방문 전 항철위가 수거한 잔해 속에서 나온 것”이라고 설명했다. 나머지 17점은 제주항공 참사 초기 수거된 잔해 속에서 찾았다. 이날 발견된 유해 중 가장 큰 것은 약 14㎝ 규모로 알려졌다.&lt;br&gt;&lt;br&gt;현재까지 발견된 희생자 추정 유해는 총 33점이다. 유가족협의회는 “지난주까지 이뤄진 재조사 과정에서 발견된 유해 추정 9점은 국립과학수사연구원 분석을 거쳐 모두 희생자 6명 것으로 판명됐다”고 했다.&lt;br&gt;&lt;br&gt;유가족들은 참사 1년이 넘어 이뤄진 재조사 과정에서 희생자 유해가 발견된 것을 두고 “정부의 초기 사고 수습이 부실했다는 증거”라는 입장이다. 유가족협의회는 지난 9일 청와대 앞에서 기자회견을 열고 사고 현장 전면 재수색을 요구했다.&lt;br&gt;&lt;br&gt;참사 희생자들의 유해가 장기간 방치된 경위에 대한 조사가 예상된다. 이규연 청와대 홍보소통수석은 이날 브리핑을 통해 “이재명 대통령이 사고 초기에 유해가 수습되지 않은 경위, 또 1년 넘게 유해가 방치된 경위에 대해 철저히 조사하라고 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HFSGKZJYGUZDIMRWHFSGMZJYMY.jpg?auth=a003f83a2364e4bc04751d6c7a0bf63db399b52c386fbcef418aea03da8143e1&amp;smart=true&amp;width=1280&amp;height=960" type="image/jpeg" height="960" width="1280">
+        <media:description type="plain">지난달 12일 오전 전남 무안국제공항에서 잔해물 보관 창고에서 179명이 숨진 제주항공 참사 사고기 잔해물 관련 재조사가 진행되고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 檢, 한국평가데이터 본사 압수수색…신용정보법 위반 혐의</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/12/EWD2YOSHRVFH7PZTTHSUD5FBFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/EWD2YOSHRVFH7PZTTHSUD5FBFE/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 09:01:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5BQCBWZMJKPAJQQIRZ65D4DTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 금품을 받고 기업의 신용 등급을 올려준 혐의를 받는 신용 평가 기관에 대한 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;12일 본지 취재를 종합하면, 서울동부지검 형사6부(부장 이정호)는 이날 오전부터 신용정보법 위반 혐의로 서울 영등포구 소재 한국평가데이터 본사와 대구경북지사를 압수수색 중이다. 한국평가데이터는 평가 등급 상향을 조건으로 중소기업에 수천만원 상당의 부가 상품을 판매한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;한국평가데이터는 2005년 국책 기관과 시중은행 등이 공동 출자해 설립된 기업 신용 정보 조사·평가 전문 기관이다. 1400만개 이상의 기업 데이터를 보유한 곳으로, 경영주 역량과 기술 개발 능력 등을 종합적으로 평가해 기업 신용 등급과 기술 신용 등급을 매긴다. 형식적으로는 민간 기관이지만 사실상 ‘준공공기관’에 가깝다. 산업은행, 기술보증기금, 신용보증기금 등을 주주로 두고 있고, 대표이사와 임원 상당수가 재정경제부·금융위원회·금융감독원 출신 전관들로 채워지기도 한다. 현재 대표이사 역시 재경부 전신인 기획재정부 차관보 출신이다.&lt;br&gt;&lt;br&gt;한국평가데이터의 등급 조작 논란은 이번이 처음이 아니다. 지난 2022년에는 강민국 국민의힘 의원실이 한국평가데이터가 매출을 올리기 위해 신용 평가를 조작하고, 기술 자격증을 무단 도용해 기업 신용 등급을 상향 조정해 주는 대가로 고가의 금융 서비스 상품을 강매했다고 발표하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“화장실 쓰려면 2000원”...카페 키오스크 메뉴에 ‘갑론을박’</title>
       <link>https://www.chosun.com/national/national_general/2026/03/12/FGX5KLOFPJFJNKEQR47ZCABODA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/FGX5KLOFPJFJNKEQR47ZCABODA/</guid>
@@ -821,24 +860,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DATIBZOHU5NEXIGIBO6XAWSUYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한에 무인기를 보내 남북 긴장을 조성한 혐의를 받는 30대 대학원생 오모씨가 지난달 26일 영장 심사를 받기 위해 서울중앙지법에 출석했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 무인기를 보내 남북 긴장을 조성한 혐의를 받는 30대 대학원생 오모씨가 구속을 취소해 달라며 낸 구속적부심을 11일 법원이 기각했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사4-1부(재판장 송종호)는 이날 오후 2시 10분 일반이적, 항공운전법 위반, 군사기지법 위반 혐의를 받는 오씨의 구속적부심 심사를 연 뒤 “청구 이유가 없다”며 기각 결정을 내렸다.&lt;br&gt;&lt;br&gt;구속적부심은 구속영장 발부의 적법성을 다시 판단해 달라고 법원에 요청하는 절차다. 법원이 이날 오씨의 청구를 기각하면서 오씨는 구속 상태에서 남은 수사를 받게 됐다.&lt;br&gt;&lt;br&gt;오씨는 경제적 이익을 목적으로 여러 차례 무인기를 북한 상공으로 날려 보내 남북 간 긴장을 고조시키고 우리 군의 군사 관련 사항을 노출시킨 혐의 등을 받고 있다. 법원은 “증거를 인멸할 염려와 도망할 염려가 있다”며 지난달 26일 오씨의 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;군·경 합동 태스크포스(TF)는 지난 6일 오씨를 구속 상태로, 무인기를 제작한 장모씨와 공범 김모씨를 불구속 상태로 검찰에 송치했다. 군경 TF는 “피의자들의 혐의를 국익에 대한 중대 위협으로 판단했다”며 국가정보원과 군 소속 피의자들의 범행 관여 여부에 대해서도 계속 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>가짜 명품 28억원 어치 판매한 일가족… 창고엔 샤넬·디올 가득</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/11/KBTRW7AOLNBRVG6R33HGREOKMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/11/KBTRW7AOLNBRVG6R33HGREOKMI/</guid>
-      <dc:creator>예산=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 08:21:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MLROSFYXNEOJA5QKW4PTJ5Z3Y.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청은 지난 2월 충남 천안의 한 가짝 명품 보관 창고를 급습해 샤넬, 루이뷔통, 디올 등 위조 상품 7300여점을 압수했다. /충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가짜 명품 28억원어치를 소셜미디어(SNS) 라이브 방송을 통해 판매한 일가족이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남경찰청 형사기동대는 상표법 및 부정경쟁방지법 위반 혐의로 A(여·30대)씨와 남편 B(40대)씨, A씨의 부모(60대) 등 일가족 4명을 붙잡아 조사하고 있다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난해 1월부터 올해 2월까지 심야 시간에 틱톡과 유튜브 등 SNS 라이브 방송을 통해 샤넬, 루이뷔통, 디올 등 명품 위조 상품을 판매해 28억원 상당의 매출을 가져간 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 가짜 명품 판매 첩보를 입수한 경찰은 탐문 수사를 벌여 지난달 충남 천안에 위치한 이들의 보관 창고를 급습하면서 라이브 방송 중이던 이들을 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;당시 창고에 보관돼 있던 가짜 명품 7300여 점도 압수했다. 압수된 가짜 명품은 정품 기준 약 200억원 상당으로, 이들은 정품 가격의 약 10분의 1 가격으로 판매한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPG3ACWZT5FCTAQHMVFJIFXTJM.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청은 지난 2월 충남 천안의 한 가짝 명품 보관 창고를 급습해 샤넬, 루이뷔통, 디올 등 위조 상품 7300여점을 압수했다. /충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 라이브 방송으로 상품을 홍보했고, B씨는 물품 배송을, A씨 부모는 물품 판매 보조 업무를 보는 등 역할을 나눠 맡은 것으로 확인됐다. 이들이 벌어들인 수익금은 6억원 상당으로 생활비와 채무 변제 등에 사용됐다.&lt;br&gt;&lt;br&gt;경찰은 범죄 수익금을 기소 전 몰수·보전 신청하는 한편, 이들에 대해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “상표법 위반은 공정한 경쟁 환경을 무너뜨리고 수입·유통 등 거래질서를 교란시키며 소비자의 신뢰와 권익을 침해하는 중대한 범죄”라며 “가짜 명품을 제조 및 유통하는 행위에 대해서도 수사를 이어갈 계획이다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양평고속道 관계자들, 혐의 부인...다음 재판은 4월 6일</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/11/ERB3ACYELFEL7I3JDF5XDF6EAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/ERB3ACYELFEL7I3JDF5XDF6EAQ/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 08:12:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUUIF2AGSRO4DHGHSIBT4T5OJE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;원희룡 전 국토부장관이 2023년 경기 양평 서울-양평 고속도로 예비타당성조사 노선 종점 인근에서 열린 주민간담회 및 현장점검에서 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양평고속도로 종점을 김건희 여사 일가의 땅이 있는 곳으로 변경하는 데 관여했다는 의혹을 받는 국토교통부 등 관계자들이 재판에서 혐의를 모두 부인했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사31부(재판장 박준석)는 11일 직권남용 등 혐의로 기소된 전 국토부 서기관 김모씨 등 4명에 대한 첫 정식 재판을 열었다. 앞서 해당 의혹을 수사한 민중기 특별검사팀은 총 7명을 재판에 넘겼는데, 변론이 분리되며 김씨, 국토부 공무원 이모씨, 한국도로공사 공무원 유모씨, 한국도로공사 공무원 최모씨에 대해 재판이 진행됐다.&lt;br&gt;&lt;br&gt;2022년 3월 대통령직인수위원회 내 성명불상자로부터 고속도로 종점 변경을 검토하라는 연락을 받고 용역업체에 이를 지시한 혐의를 받는 김씨는 혐의(직권남용)를 부인했다. 김씨 측은 “직권남용 혐의에 대해 김건희 일가에 이익을 주려고 한 적이 없다”며 “더 우월한 노선을 앞세워 정당한 직무를 수행했다”고 했다. &lt;br&gt;&lt;br&gt;이 과정에서 용역이 제대로 진행되지 않았음에도 용역이 완료된 것처럼 보고서를 작성한 뒤 업체에 3억3000만원 상당의 잔금을 지급받도록 했다는 허위공문서 작성 및 행사, 업무상 배임과 사기 혐의 역시 부인했다. 김씨 측은 “관행에 따라 업무를 진행한 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이씨와 유씨는 2023년 5월 국회에 양평 고속도로 변경 특혜 의혹 관련 자료를 제출하는 과정에서 용역 업체 측이 작성한 과업 수행 계획서 내용 일부를 삭제한 혐의(공용전자기록등손상죄)를 받는다. 이에 대해 두 사람은 “원본 파일이 보존돼 있기에 손상죄가 성립하지 않는다”고 특검 측 공소사실을 반박했다. 최씨 측은 직권남용 혐의에 대해 “(최씨는) 국토부 요청으로 기술적인 일을 하는 실무자일 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;재판부는 추후에 용역업체 관계자 등을 불러 증인신문을 진행하기로 했다. 다음 기일은 4월 6일 오전 10시 20분에 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘음주운전 혐의’ 배우 이재룡, 경찰에 “사고 전 모임 다수 가졌다” 진술</title>
       <link>https://www.chosun.com/national/national_general/2026/03/11/VO4RKIM2XNEQTLIXFE3LKHX6PQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/VO4RKIM2XNEQTLIXFE3LKHX6PQ/</guid>
@@ -849,15 +870,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/AERET4CQ4ZCJPBOSIBVL2AVMFA.png?auth=d0f1b7bb30fa171f8409476262b81287df0ddca92d6f5aae4bc2a2ae1a53ffa5&amp;smart=true&amp;width=962&amp;height=722" type="image/png" height="722" width="962">
         <media:description type="plain">음주운전을 시인한 배우 이재룡이 10일 오후 서울 강남경찰서 교통조사계에서 피의자 신분으로 조사를 받고 나와 입장을 표명하고 있다.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“반인륜적 범죄”… 檢, ‘금은방 업주 강도살인’ 김성호에 무기징역 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/11/TSXAVWZ55JEYBNDQSUIK7ELU4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/TSXAVWZ55JEYBNDQSUIK7ELU4I/</guid>
-      <dc:creator>부천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 08:00:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVQR63WFYJCWJLKHWK6IYLSCQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강도살인 혐의로 신상이 공개된 김성호./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금은방 업주를 살해하고 수천만 원 상당의 귀금속과 현금을 빼앗아 달아난 김성호(43)에 대해 검찰이 무기징역을 구형했다. &lt;br&gt;&lt;br&gt;인천지법 부천지원 형사1부(재판장 나상훈)는 11일 강도살인과 강도예비 혐의로 구속기소된 김씨에 대한 결심공판을 진행했다. &lt;br&gt;&lt;br&gt;검찰은 이날 공판에서 김씨에게 무기징역을 선고해달라고 재판부에 요구했다. 검찰은 “피고인의 범행은 인륜을 배반한 잔혹하고 참담한 범죄로, 죄질이 매우 불량하다”며 “인간의 존엄성을 파괴하고 자신의 목적을 위해 인간의 생명을 수단으로 하는 반인륜적 범죄를 저질러 엄벌에 처해야 한다”고 했다. &lt;br&gt;&lt;br&gt;김씨는 최후 진술에서 “저 때문에 피해를 입으신 피해자와 유가족들께 진심으로 사과드린다”며 “한순간의 충동으로 돌아가신 피해자께 고통을 드려 죄송하고 뼈저리게 반성한다. 후회와 죄책감을 평생 잊지 않고 반성하며 살겠다”고 했다. &lt;br&gt;&lt;br&gt;김씨는 지난 1월 15일 낮 12시 7분쯤 경기 부천시 원미구의 한 금은방에서 업주인 50대 여성 A씨를 흉기로 찔러 살해하고, 2000만원 상당의 귀금속 40여 점과 현금 200만원을 빼앗아 달아난 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;김씨는 범행 전날 서울과 인천의 금은방 2곳을 찾아다니며 범행 대상지를 물색한 혐의도 받는다.&lt;br&gt;&lt;br&gt;김씨는 범행 후 미리 챙겨온 정장으로 갈아입고 여러 차례 택시를 바꿔 타며 도주한 것으로 파악됐다. 그는 도망치면서도 훔친 귀금속을 다른 금은방에 판 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김씨는 빚 독촉에 시달리다 범행한 것으로 드러났다. &lt;br&gt;&lt;br&gt;경기남부경찰청은 동종 범죄 재발 예방을 위해 김씨의 신상을 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정성호 법무장관 “공소취소 지휘할 생각 없다”</title>
@@ -924,15 +936,6 @@
       <description/>
       <pubDate>Wed, 11 Mar 2026 01:56:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNJPE2G4V5O7NNYHNI5WWJSR5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아동학대 치사 혐의로 구속된 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동구에서 영양 결핍으로 숨진 생후 20개월 아이가 소방 당국 신고 접수 전 이틀 동안 어린이집에 결석한 것으로 파악됐다. 경찰은 이 아이를 숨지게 한 혐의로 구속한 친모 A(30)씨의 방임 학대 여부도 수사 중인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;11일 인천 남동구의 한 어린이집 등에 따르면 숨진 B(2)양은 지난 3일과 4일, 어린이집에 나오지 않았다. &lt;br&gt;&lt;br&gt;해당 어린이집은 최근 초등학교에 입학한 A씨의 큰딸(7)이 다녔던 곳으로, A씨는 지난달 20일 어린이집이 마련한 B양과 함께 등원을 위한 오리엔테이션 행사에 참석하기도 했다. &lt;br&gt;&lt;br&gt;어린이집 측은 지난 4일 오후 7시쯤 연락이 닿지 않는 A씨의 다른 가족에게 “이틀(2일) 결석 시 가정 방문을 해야 한다”는 사실을 전화로 알렸고, “집을 찾아가보겠다”는 답을 들었다. &lt;br&gt;&lt;br&gt;전화를 받고 A씨 집을 찾아간 가족은 숨을 쉬지 않는 B양을 발견하고 오후 8시쯤 소방에 신고했다. 국회 더불어민주당 양부남 의원이 확보한 신고 당시 녹취록엔 “아기가 숨을 쉬지 않는다” “얘가 몸이 차가워졌다”며 도움을 요청한 정황이 담겼다. &lt;br&gt;&lt;br&gt;소방 공조 요청을 받은 경찰은 아동학대범죄의 처벌 등에 관한 특례법상 아동학대치사 혐의로 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;B양의 시신을 부검한 국립과학수사연구원은 “영양 결핍으로 사망한 것으로 추정된다”는 구두 소견을 경찰에 전달했다. B양의 장례를 도운 한 지원 단체 관계자도 “숨진 B양이 많이 말라 보였다”고 했다. &lt;br&gt;&lt;br&gt;어린이집 관계자는 “지난해 A씨에게 B양을 보내라는 권유를 했는데 아이가 아직 어리고, 어린이집에 보내면 정부 지원금이 줄어든다는 등의 이유로 보내지 않다가 지난달 아이를 보내기로 최종 결정했다”며 “오리엔테이션 때 친모가 아기 띠에 B양을 메고 함께 왔는데, 머리 위로 덮개가 씌워져 있어 정확하게 보지 못했다. 안타까운 일이 생겨 마음이 무겁다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 두 딸과 함께 살면서 기초생활수급자 생계·주거 급여와 한부모가족 지원 등 한 달 300여만원을 지원받았던 것으로 파악됐다. 지난해 5월엔 거주지 행정복지센터에 식재료나 간식 등을 무료로 이용할 수 있는 ‘푸드마켓’ 이용대상자 신청을 해 선정됐고, 이후 매월 이용했다고 한다. A씨는 지난달 11일에도 푸드마켓에 다녀가 식재료와 음료수, 도너츠, 캔디류 등을 가져간 것으로 확인됐다. &lt;br&gt;&lt;br&gt;A씨 거주지역 행정복지센터가 지난해 10월 전화로 진행한 상담에서 발견된 특이사항은 없었다. &lt;br&gt;&lt;br&gt;경찰은 구속된 A씨가 큰딸에 대해서도 방임 등 학대를 했는지에 대해서도 수사 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;A씨 거주지 인근의 한 주민은 “(A씨가) 아이들을 놔두고 장시간 집을 비우는 경우를 종종 본 적이 있다”며 “방임으로 신고해야 하나 하는 생각을 하기도 했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이르면 이번 주 중 A씨에 대한 수사를 마치고 검찰에 송치할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노란봉투법 시행 첫날, 하청노조 407곳 원청에 교섭 요구</title>
-      <link>https://www.chosun.com/national/labor/2026/03/11/SGI7M5CUSFCTHBR76Y6BIS5VOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/11/SGI7M5CUSFCTHBR76Y6BIS5VOY/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 02:13:46 +0000</pubDate>
-      <content:encoded>‘노란봉투법’ 시행 첫날인 10일 하루 동안 하청 노조 407곳(조합원 81600명)이 원청 221곳을 상대로 교섭을 요구한 것으로 나타났다. 이 중 교섭 요구 당일 교섭 요구 사실을 공고해 교섭 절차를 개시한 원청 사업장은 한화오션·포스코·쿠팡CLS·부산교통공사·화성시 등 총 5곳이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQPQOQLYGBDXBIUZHWXUJDLDRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 관계자들이 10일 오후 서울 종로구 세종대로에서 열린 원청교섭 쟁취 투쟁 대회에서 구호를 외치고 있다. 이날 민노총은 올해를 원청과 하청노조 간 교섭을 진행하는 원년으로 만들겠다는 입장을 밝히고, 원청 회사들에 교섭 요구 공문을 보낼 예정이다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부는 11일 개정 노조법 시행 첫날(10일) 기준 원청에 교섭을 요구한 하청 노조 현황을 집계해 발표했다. 하루 동안 221개 원청 사업장을 대상으로 407개 하청 노조·지부·지회가 교섭 요구에 나선 것으로 나타됐다.&lt;br&gt;&lt;br&gt;노조별로 보면, 하청 노조 407곳 가운데 357곳이 민주노총 소속이었다. 금속노조 산하 하청 노조 36곳은 현대자동차·현대모비스·현대글로비스·HD현대중공업·한화오션·한국지엠 등 원청 16곳을 상대로 교섭을 요구했다. 건설산업연맹도 현대건설·현대엔지니어링 등 원청 90곳을 대상으로 교섭 요구에 나섰다.&lt;br&gt;&lt;br&gt;한국노총 소속 하청 노조는 42곳으로, 포스코·쿠팡로지스틱스서비스(CLS)·서울교통공사·한국철도공사·인천국제공항공사 등 원청 9곳을 상대로 교섭을 요구했다. &lt;br&gt;&lt;br&gt;하청 노조가 노동위원회에 신청한 ‘교섭 단위 분리’ 건수는 31건으로 집계됐다. 노동위원회는 노동조합 간 갈등 여부, 근로 조건 차이, 고용 형태 등을 고려해 교섭 단위 분리 여부를 판단한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 한덕수 ‘내란’ 항소심 첫 재판 오전 중계 허가</title>
