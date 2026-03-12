@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“검찰, 싸이코패스 김소영에 속았다” 프로파일러 주장</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/2JG7Q2ZRL5FSBL4VPVSQ4RWSQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/2JG7Q2ZRL5FSBL4VPVSQ4RWSQM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Mar 2026 22:41:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGCNRWGBSWKMBXMI3DAMBTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강북 모텔 약물 사건' 피의자 김소영의 공개된 얼굴(오른쪽).  왼쪽은 인스타그램에 올라온 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배상훈 프로파일러가 ‘강북 약물 연쇄살인’ 사건 피고인 김소영(20)에 대한 검찰 수사 결과에 대해 “김소영이 제멋대로 떠든 이야기를 공소장에 갖다 붙였다”고 비판했다. 반면 검찰 측은 여러 전문가의 심도 있는 자문을 바탕으로 범행 동기 등을 분석한 것이라는 입장이다. &lt;br&gt;&lt;br&gt;배 프로파일러는 지난 10일 자신의 유튜브에 ‘모텔 연쇄살인범이 가정불화 때문에 사이코패스가 됐다는 황당한 수사 결과, 연쇄살인범의 황당한 서사 복제’라는 제목의 영상을 올렸다. &lt;br&gt;&lt;br&gt;배 프로파일러는 우선 ‘김소영이 어린시절 부친으로부터 음주 폭행과 폭언에 노출돼 가정불화로 정서적 사회화가 온전히 이뤄지지 못했다’는 검찰의 발표에 대해 “이걸 가정불화라고 하느냐”며 “이건 아동학대”라고 했다. 이어 “지속적으로 아동학대를 당해서 김소영이 자기중심적 기질을 갖게 됐다는 것인데, 즉 후천적이라는 얘기”라며 “이게 일반적이냐”고 되물었다. 그러면서 “아동 학대당해서 사이코패스가 됐다면 세계적으로 연구 보고를 해야 할 사례”라고 했다. &lt;br&gt;&lt;br&gt;배 프로파일러는 “제가 추정해보건대 김소영이 마음대로 떠든 것 같다”며 “어렸을 때부터 학대당했다는 건 연쇄살인범들이 늘 얘기하는 거다. 유영철, 강호순, 정남규도 그런 얘기를 했다”고 했다. 이어 “연쇄살인범들은 이 서사가 먹힌다는 걸 너무 잘 안다”며 “자기만의 망상에 빠져 있는데, 이 서사에 속는다”고 했다. 그러면서 “경찰로부터 넘어온 사이코패스 점수를 보고 내용을 역설계해 끼워 맞춘 수준에 불과하다”며 “그러면 판사도 서사에 속아 넘어가서 이에 따른 판결을 내리게 된다”고 했다. &lt;br&gt;&lt;br&gt;반면 검찰은 “전문가의 범죄심리 분석과 정신의학‧법의학 자문 등 보완 수사를 통해 김소영의 인격 형성 과정과 범행 당시 심리적 상태를 면밀하게 수사했다”고 지난 10일 밝혔다. 검찰은 “이 사건은 가정불화로 정서적 사회화가 온전히 이뤄지지 못하고 자기중심적 기질이 강한 김소영이 자신의 소비 욕구와 경제적 만족을 위해 남성을 이용하고, 이후 갈등 상황을 손쉽게 회피하거나 남성을 제압하기 위해 약물을 사용해 살해한 이상 동기 범죄”라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>뮤지컬 배우 남경주, 성폭행 혐의로 검찰 송치</title>
       <link>https://www.chosun.com/national/national_general/2026/03/14/7RKVTMYXIBAVBO5YMYUXOMFRMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/7RKVTMYXIBAVBO5YMYUXOMFRMQ/</guid>
@@ -780,15 +789,6 @@
       <pubDate>Wed, 11 Mar 2026 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWR5KR2RJJHNNASM4ESMHVWBJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 부산 동구 부산진일신여학교 일대에서 ‘3·1 만세운동 재현 행사’가 열렸다. 시민 1300여 명이 태극기를 들고 거리를 행진하고 있다. 부산 동구는 1919년 3월 11일 부산진일신여학교에서 일어난 만세운동을 기념하기 위해 매년 행사를 열고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>반려견 허용의 역설… ‘노펫존’으로 돌아선 식당들</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/D3L4QN5JU5CBVC5V6VTVKM5EYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/D3L4QN5JU5CBVC5V6VTVKM5EYQ/</guid>
-      <dc:creator>한영원 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KGAV3IWQBCPRCIRWPOIBRECXU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울 마포구의 한 카페가 '반려견 동반 출입 금지' 안내문을 소셜미디어에 공지로 올렸다./인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D65SV24NHFE25E5CTAEBZLDY4E.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 인천 부평구의 한 카페가 반려동물 동반 불가 안내 공지문을 올린 모습./인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 연희동에서 카페를 하는 은성일(32)씨는 얼마 전부터 반려동물을 데리고 오는 손님은 외부 테라스에만 앉힌다. 이 카페는 원래 실내에도 반려동물을 데리고 올 수 있었다. 그런데 지난 1일 반려동물과 함께 음식점을 출입할 수 있도록 허용하는 식품위생법 시행규칙이 시행되면서 은씨는 오히려 거꾸로 간 것이다. 식품위생법상 까다로운 위생·시설 기준을 맞추기 어렵다고 보고 ‘노펫존(반려동물 출입 금지)’을 선언한 것이다. 은씨는 “조금만 잘못해도 당국에 민원이 들어가 영업 정지 처분을 받을 수 있겠더라”고 했다.&lt;br&gt;&lt;br&gt;이번 식품위생법 시행규칙에 따라 반려동물 동반 출입을 허용하는 음식점·제과점 등은 매장 입구에 안내문을 부착하고 예방접종 여부를 확인해야 한다. 목줄, 케이지, 전용 의자 등을 통해 반려동물 이동도 제한해야 한다. 반려동물이 식품 취급 공간에 출입하는 걸 막기 위해 칸막이나 울타리도 설치해야 한다. 이를 위반하면 1차 적발 시 영업 정지 5일, 3차 적발 시 영업정지 20일 처분을 당할 수 있다. 이에 상당수 소규모 매장 업주들은 “신고당할 바에야 반려동물 출입을 원천적으로 금지하는 게 낫다”는 반응을 보이고 있다.&lt;br&gt;&lt;br&gt;서울 용산구 후암동에 있는 한 카페도 반려동물 출입을 허용해 오다가 이달부터 출입을 금지하고 있다. 카페 주인은 “매장이 좁아 칸막이·울타리 등을 설치하는 게 불가능하다”고 했다. 지난 1일 배우 이상아씨가 운영하는 경기도 광주의 한 애견 카페에서 종업원과 손님이 반려동물 이동 범위를 두고 말싸움을 하다 경찰이 출동하는 일도 있었다. 이씨는 소셜미디어 글에서 “(새 시행 규칙으로) 반려견들과 함께할 수 있는 공간을 (오히려) 좁게 만들었다”고 했다. 시행 규칙에서 동반 입장이 가능한 반려동물 범위를 개·고양이로만 한정한 것도 현장에서 혼란을 일으키고 있다.&lt;br&gt;&lt;br&gt;전문가들은 반려동물 동반 외식 문화를 제도화하려는 당국의 방침이 오히려 업주들에게 반려동물 거부를 부추기는 ‘규제의 역설’로 작용하고 있다고 했다. 조경 구미대 반려동물케어과 외래교수는 “반려동물 동반 입장 허용은 시대 변화에 맞춰 제도를 변경한 것이지만 그 기준이 과도하면 부작용이 커질 수 있다”며 “소규모 매장 업주들의 다양한 의견을 수렴해 제도를 개선해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>산수유 아래서 추억 하나 만들어 봄</title>
