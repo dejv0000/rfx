@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘김민석 총리 명예훼손’ 김어준, 서대문서가 수사  </title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/EMNFAEGJ7FAYNLFRJ3J7HENV4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/EMNFAEGJ7FAYNLFRJ3J7HENV4Y/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 05:29:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRGGYRVMQZDEMJYGMZTCOLDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 김어준씨./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 해외 순방 기간 동안 김민석 국무총리가 국무회의를 열지 않았다는 취지의 허위 사실을 유포한 혐의로 고발된 유튜버 김어준씨 사건을 서울 서대문경찰서가 수사한다.&lt;br&gt;&lt;br&gt;사법정의바로세우기시민행동(사세행)이 김씨를 정보통신망법상 허위사실 적시 명예훼손 및 형법상 위계에 의한 업무방해 혐의로 고발한 사건이 13일 서대문경찰서 수사과에 배당됐다.&lt;br&gt;&lt;br&gt;앞서 사세행은 김씨가 지난 5일 자신이 운영하는 유튜브 채널 ‘겸손은 힘들다 뉴스공장’ 방송에서 대통령의 해외 순방 당시 중동 정세 불안을 언급하며 “대통령 순방 중에 기민하게 대응하는 국무회의조차 없다”고 발언해 김 총리의 명예를 훼손했다며 지난 9일 서울경찰청에 고발했다. 이에 국무총리실은 “대통령 순방 기간에도 중동 상황과 관련해 관계 장관회의를 매일 개최했다”고 반박했다.&lt;br&gt;&lt;br&gt;한편 사세행이 최근 ‘이재명 대통령 공소 취소 거래 의혹’을 제기한 장인수 전 MBC 기자를 김씨와 함께 정보통신망법상 허위사실 적시 명예훼손 및 위계에 의한 업무방해 혐의로 고발한 사건은 서울경찰청 공공범죄수사대가 직접 수사를 검토 중이다. 김씨의 유튜브 채널에 출연한 장씨가 해당 의혹을 제기해 정성호 법무부 장관의 명예를 훼손했다는 주장이다. 더불어민주당도 장씨를 허위사실 적시에 의한 명예훼손 혐의로 고발하기로 하는 등 대응에 나선 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인권위 “‘휴대전화 개통 때 안면인증 의무화’ 재검토해야”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/13/6MGXSHM6QFCLVO72G65JBGGKT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/6MGXSHM6QFCLVO72G65JBGGKT4/</guid>
@@ -878,15 +887,6 @@
       <description/>
       <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
       <content:encoded>서울서 자영업을 하는 60대 초반 최모씨는 최근 탈모 치료제와 저용량 발기부전 치료제를 매일 먹고 있다. 나이 들어 머리카락이 빠지고, 기력이 떨어진 듯해서다. 저용량 발기부전 치료제는 치매 예방에도 좋다는 신문 기사도 읽은 터이다. 그런데 그가 집어 먹은 약은 한 알이다. 두 가지 성분을 한 알에 합친 복합제이기 때문이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHLOUU6KYFAODHD2FH5DGVG43Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 최근 두 가지 이상의 약물을 하나로 뭉친 약물이 인기를 끌고 있다. 약학적으로는 ‘고정용량 복합제’라고 부른다. 복합제의 역사는 20세기 중반 감염병 치료에서 시작됐다. 1950~60년대 결핵 치료에서는 여러 항생제를 동시에 복용해야 했다. 그러다 보니 환자들이 약을 빼먹거나 일부 약만 복용하면서 약제 내성이 문제 됐다. 이에 여러 약을 하나의 알약에 넣는 방식이 고안됐다. 환자가 약을 빠뜨릴 가능성을 줄이고, 치료 순응도를 높이기 위한 전략이었다. &lt;br&gt;&lt;br&gt;에이즈 바이러스 치료에서도 복합제가 활약했다. 1990년대 여러 항바이러스 약물을 하루에 열 알 이상 먹는 경우도 있었는데, 세 가지 항바이러스 약을 한 알에 넣은 복합제가 등장하면서 복약 부담이 크게 줄었고 치료 성공률도 높아졌다. &lt;br&gt;&lt;br&gt;복합제는 고혈압·당뇨병 같은 만성 질환 치료에서 빠르게 확대됐다. 혈압을 조절하려면 두 가지 이상 약을 동시에 복용해야 하는 경우가 있다. 그래서 칼슘채널 차단제와 안지오텐신 수용체 차단제를 결합한 혈압약이 사용된다. 당뇨병 치료에서도 혈당을 낮추는 약과 인슐린 분비를 조절하는 약을 결합한 복합제가 쓰인다.&lt;br&gt;&lt;br&gt;심혈관질환 치료에서도 콜레스테롤을 낮추는 스타틴, 혈압약, 혈당약, 중성지방 저하제, 아스피린 등 다양한 조합의 복합제가 등장했다. 이런 복합제를 사용하면 심혈관질환 위험을 효율적으로 낮출 수 있다는 결과도 보고됐다.&lt;br&gt;&lt;br&gt;우리가 흔히 먹는 감기약 대부분이 사실은 복합제다. 감기에는 발열, 두통, 콧물, 코막힘, 기침 같은 여러 증상이 동시에 나타난다. 그래서 감기약에는 해열진통제, 항히스타민제, 기침 억제제, 비충혈 제거제 등이 함께 들어 있는 경우가 많다. 진통제 분야에서도 두 가지 진통 성분을 함께 넣어 효과를 높인다.&lt;br&gt;&lt;br&gt;최근에는 복합제가 질병 치료 넘어 ‘삶의 질 개선’ 영역으로 확대되고 있다. 대표적인 사례가 전립선비대증, 탈모, 발기부전 등을 타깃으로 하는 복합제다. 이 문제들은 중장년 남성에게 흔히 함께 나타난다.&lt;br&gt;&lt;br&gt;의약전문가들은 고령화로 인해 여러 질환이나 기능의 문제를 동시에 갖는 환자가 늘고 있고, 복합제가 여러 약을 복용하는 번거로움을 줄이면서 약물 복용 효과 순응도를 높이기에 앞으로 다양한 복합제가 등장할 것이라고 전망한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>갈수록 처지는 볼·턱살 잡는 리프팅의 세계</title>
-      <link>https://www.chosun.com/medical/2026/03/12/BLE2ZLIU3ZB45DFFPC5AJB7D74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/12/BLE2ZLIU3ZB45DFFPC5AJB7D74/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVLXW3SX5FGLFCHPX4YEZRSVDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 피부과 시술의 트렌드는 노화를 미리 예방하는 ‘안티에이징’을 넘어 20대부터 관리를 시작하는 추세로 변하고 있다. 루트테마피부과 이학규 원장(피부과 전문의)은 조선일보 의학·건강 유튜브 ‘오!건강‘ &amp;lt;이러면 낫는다&amp;gt;에 출연해 피부 노화의 원인과 최신 리프팅 시술로 주목받고 있는 ‘아그네스’ ‘더블타이트’에 대해 설명했다.&lt;br&gt;&lt;br&gt;이학규 전문의는 “피부 노화는 진피층의 콜라겐과 엘라스틴이 감소하고, 볼에 있는 지방이 처지면서 팔자 주름이나 심술보(불독살)가 생기게 된다”며 “리프팅의 핵심 타깃은 ‘스마스(SMAS)층’”이라고 말했다.&lt;br&gt;&lt;br&gt;스마스층은 넓게 퍼져 있는 막으로 된 인체 조직인데, 기존 리프팅 레이저 울쎄라나 써마지 같은 기기들이 이곳을 자극해 리프팅 효과를 낸다.&lt;br&gt;&lt;br&gt;최근 피부과에선 이 분야에 새로 등장한 ‘더블타이트’를 추천하기도 한다. 이 원장은 “최근까지 피부과 시술은 주로 진피 아래쪽만 치료했지만, 진피 위쪽(유두진피)도 항노화와 미백에 굉장히 중요한 부분”이라며 “더블타이트는 길이가 다른 두 종류의 바늘이 동시에 들어가 진피의 위쪽과 아래쪽을 모두 치료하는 것이 특징”이라고 말했다.&lt;br&gt;&lt;br&gt;이 원장은 생활 속 노화 방지법으로는 레티놀(비타민A)과 비타민C 화장품 사용, 철저한 보습과 자외선 차단을 추천했다. 이 원장은 “세안할 때 너무 뜨거운 물은 피부 장벽을 파괴하고, 너무 차가운 물은 노폐물 제거가 어렵다”며 “미지근한 물로 하는 것이 가장 좋다”고 했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면 피부 리프팅 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4V5VEPD4WBF2LEWIRIV6FTYUDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>봄철에 척추 디스크 환자 가장 많이 발생</title>
