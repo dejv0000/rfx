@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인권위 “‘휴대전화 개통 때 안면인증 의무화’ 재검토해야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/6MGXSHM6QFCLVO72G65JBGGKT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/6MGXSHM6QFCLVO72G65JBGGKT4/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRTGOLCMJRWCMZWGY4TMYZZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안면인증 얼굴 인식 일러스트. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 국가인권위원회가 과학기술정보통신부 장관에게 휴대전화 개통 시 안면인증 의무화 정책을 신중히 재검토하고, 그래도 시행한다면 명확한 법적 근거를 만들 필요가 있다고 지난 11일 권고했다고 밝혔다.&lt;br&gt;&lt;br&gt;최근 대포폰을 이용한 보이스피싱 등 금융사기 범죄가 심각한 사회 문제로 떠오르자, 과기부는 지난해 12월 23일 이동통신 3사와 알뜰폰 43개 업체에 안면인증을 시범 도입했다. 이달 23일부터는 모든 휴대전화 개통 절차에 이러한 인증을 실시하기로 했다. 신분증 얼굴 사진과 신분증 소지자의 실제 얼굴을 실시간으로 대조하는 생체 인증을 통해 명의도용 방식의 대포폰 개통을 차단하겠다는 것이다. 안면인증에는 이동통신 3사가 제공하는 패스 앱을 활용한다.&lt;br&gt;&lt;br&gt;인권위는 그러나 “얼굴 영상 등에서 추출되는 생체인식정보는 유출되면 피해 회복이 어려울 수 있으며 오늘날 휴대전화는 금융거래와 공공서비스 이용 등 행정·사회·경제활동 전반의 접근 수단으로 기능하는 필수적 인프라인 만큼 안면인증을 의무적으로 요구하는 건 통신의 자유, 표현의 자유, 알 권리 등 다양한 기본권 행사에 영향을 미칠 수 있다”고 봤다.&lt;br&gt;&lt;br&gt;인권위는 또 “이런 정책이 시행되더라도 ‘내구제 대출(나를 스스로 구제하는 대출)’이나 법인 명의 우회 개통과 같이 명의자가 직접 개통 절차에 참여하는 유형의 대포폰 유통을 실질적으로 차단하는 데에는 한계가 있고, 생체인식정보 제공을 원하지 않거나 제공이 어려운 고령자·장애인 등 디지털 취약계층을 위한 충분한 대체 수단도 부족하다”고 꼬집었다.&lt;br&gt;&lt;br&gt;이에 인권위는 과기부에 “휴대전화 개통 절차에 안면인증 의무화 정책 도입 시 휴대전화 개통 과정에서 얼굴 영상 등에서 추출된 생체인식정보의 수집·이용·보관·파기 등에 관한 근거를 전기통신사업법 등 관계 법령에 마련하고, 안면인증 기술의 대체 수단을 고안하라”고 조언했다. 또 “정책 시행 이후에는 안면인증 기술의 안전성에 관한 정보를 투명하게 공개하고 보안점검을 정기적으로 실시한 뒤 결과를 국민에게 공표하라”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청년들 전세금 45억 나몰라라… 50대 임대업자 불구속 송치 </title>
+      <link>https://www.chosun.com/national/2026/03/13/PFV3UY6QFFGPLHZYZ5JZ32LGWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/13/PFV3UY6QFFGPLHZYZ5JZ32LGWY/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 01:51:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZGEZDCGQZWEYRRGVTDMMTCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40억원대 전세 보증금을 임차인들에게 돌려주지 않은 50대 사업가가 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;부산경찰청 반부패경제범죄수사대는 A씨를 사기 등 혐의로 불구속 송치했다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2023년 전후로 부산 부산진구의 본인 법인 소유 오피스텔 건물 4채로 임대 사업을 하면서 계약 기간이 끝난 이후에도 임차인에게 보증금을 돌려주지 않은 혐의를 받는다. &lt;br&gt;&lt;br&gt;피해자들은 A씨가 회사 사정을 이유로 들며 “건물을 매각하는 중이다” “곧 돌려주겠다”는 식으로 말했지만, 약속을 지키지 않았다고 주장하고 있다. &lt;br&gt;&lt;br&gt;경찰은 피해자가 40여 명, 피해액은 45억원 정도인 것으로 파악했다. 피해자 대부분은 청년들이었다. 이들은 ‘피해자 대표단’을 꾸려 대응 중인 것으로 알려졌다. 이들은 피해자가 100명 이상에 피해액은 200억원이 넘는다고 주장하고 있다. &lt;br&gt;&lt;br&gt;피해자 대표단은 오는 17일 부산지검 앞에서 기자회견을 열고 검찰의 신속한 수사를 요청할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신입생 충원율 부풀려... 경찰, 부산 동명대 교수 등 8명 송치</title>
+      <link>https://www.chosun.com/national/regional/2026/03/13/NNVC32NUHFGXPDPY4D73BXPR24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/13/NNVC32NUHFGXPDPY4D73BXPR24/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 02:17:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3TIZLDHA2DAY3FMQZWGMTDMY.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남구 동명대학교 전경. /동명대 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 동명대에서 신입생 충원율을 부풀린 혐의로 교수와 교직원 등 8명이 검찰로 송치됐다.&lt;br&gt;&lt;br&gt;부산경찰청 반부패경제범죄수사대는 업무방해 등 혐의로 A씨 등 동명대 교수 5명과 교직원 3명을 불구속 송치했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2021년과 2022년 신입생 모집 과정에서 지원하지도 않은 사람의 인적 사항을 도용해 입학 지원 서류를 작성하는 등의 수법으로 신입생 충원율을 부풀린 혐의를 받는다.&lt;br&gt;&lt;br&gt;부풀려진 신입생 인원수는 2021년 140명을 넘고, 2022년 100명에 조금 못 미치는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신입생 충원율은 국가장학금 수령과 정부 재정 지원에 영향을 미친다.&lt;br&gt;&lt;br&gt;A씨 등은 혐의를 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “관련 부서를 압수수색한 자료 등을 토대로 수사를 벌였다”고 했다.&lt;br&gt;&lt;br&gt;한편 동명문화학원과 동명대는 작년 6월 사회적 신뢰를 회복하기 위해 대학 운영 전반에 대해 대대적인 개혁에 착수했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 외국 어선 불법 조업 담보금 최대 2억원으로 상향</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/13/KLATXLDXNZAHPBOFB72OGK5YF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/KLATXLDXNZAHPBOFB72OGK5YF4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 02:29:03 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4DCNZSG42GGZRSGY4DSZRRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청이 2024년 3월 불법 조업을 한 외국 선박을 나포했다. /해경청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 지난 6일 외국 어선의 배타적 경제수역(EEZ) 내 불법 조업에 대한 담보금 부과 기준을 법정형 최상한까지 일괄 상향했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;담보금은 불법 조업으로 나포된 선박과 억류된 선장 등을 석방해 주는 조건으로 부과되는 금품이다. ‘해양법에 관한 국제협약’ 및 ‘배타적 경제수역에서의 외국인어업 등에 대한 주권적 권리의 행사에 관한 법률(경제수역어업주권법)’에 법적 근거가 있고, 경제수역어업주권법(제223조 제5항)에 따라 검사가 금액을 정한다.&lt;br&gt;&lt;br&gt;지금까지 담보금 부과액과 상한은 위반 행위 유형이나 선박 규모 등에 따라 달랐다. 그런데 최근 불법 조업 외국 어선들이 담보금을 ‘품앗이’해 조직적으로 대응하면서 법 집행 효과가 제한되고 있다는 지적이 나왔다. &lt;br&gt;&lt;br&gt;이에 대검은 위반 유형별 담보금 상한을 법정형 최상한까지 일괄 상향하고 인천지검 등 6개 검찰청에 불법 조업 사건에 강력 대응하라고 지시했다. 예컨대 법정형이 2억원 이하 벌금인 조업일지 허위·부실 기재행위 담보금은 지금까지 최대 4000만원이었지만, 이번 조치로 최대 2억원까지 부과가 가능해졌다.&lt;br&gt;&lt;br&gt;실제 제주지검은 지난 8일 EEZ 내에서 어획량을 허위 기재한 중국 어선 2척에 각각 담보금 2억원과 1억원 등 총 3억원을 부과했다. 이들은 제주 EEZ 내에서 포획한 어획물 4762㎏ 중 681㎏만 조업일지에 기재하고 나머지는 비밀 어창에 은닉한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 작년 12월 해양수산부 및 해양경찰청 업무보고에서 “한국 해역에 들어와서 불법 조업하면 꼭 잡혀서 돈도 엄청나게 뺏기고 (만다는 인식을 심어줘야 한다)”면서 “10척이 모아서 내기도 부담스러울 만큼 벌금을 올려버려야 한다”고 했다. &lt;br&gt;&lt;br&gt;대검 관계자는 “국회에서도 경제수역어업주권법을 개정해 처벌 기준을 강화하려는 논의가 진행 중이다”면서 “법률 개정 전이라도 불법조업 근절을 위해 가능한 조치를 한 것”이라고 했다. 대검은 향후 법률이 개정돼 벌금이 상향되면 이에 맞게 담보금도 함께 올리는 방향을 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고려대 ‘천원의 아침밥’ 이용 학생 19만명… 전국 대학 최대 규모</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/IWRD65PBXRHFJDZ6BQKT3XNPPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/IWRD65PBXRHFJDZ6BQKT3XNPPI/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 01:22:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFTGGMDBHE3DSNZTMNSWGZLGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동원 고려대 총장이 지난 10일 교내 한투스퀘어 학생회관에서 학생 대표들과 아침 식사를 하고 있다. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대가 ‘2026년 천원의 아침밥’ 사업 참여 대학으로 선정됐다고 13일 밝혔다. 지난해에는 전국 대학 최대 규모인 19만여명이 고려대 천원의 아침밥을 찾았다.&lt;br&gt;&lt;br&gt;천원의 아침밥은 아침 식사 결식률이 높은 대학생들의 건강 증진과 쌀 소비 촉진 등을 위해 정부와 지방자치단체, 대학이 재정을 마련해 대학생들에게 1000원에 아침밥을 제공하는 정책이다. 농림축산식품부와 농림수산식품교육문화정보원이 주관하며, 고려대의 경우 교우 기부금인 KUPC와 서울시, 성북구도 후원에 참여하고 있다.&lt;br&gt;&lt;br&gt;고려대는 “지난해 한 해 동안 19만3642명이 고려대 천원의 아침밥을 먹었다”며 “이는 하루 평균 1500명 이상의 학생들이 이용한 것”이라고 했다. 한편 고려대는 학생식당 내 배식뿐 아니라 간편식 포장 메뉴도 선보이고 있는데 학생들의 만족도가 높다. 고려대 천원의 아침밥을 찾는 학생들 가운데 10명 중 7명꼴(1100명)이 간편식 이용자다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIGILAR2PFPZDJZD6X57TWUCVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고려대 학생들이 교내 학생회관 내 식당에서 ‘천원의 아침밥’을 구매하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 3학년에 재학 중인 이다빈씨는 “물가가 많이 올라 식비 부담이 컸는데 1000원에 아침 식사를 해결할 수 있어 생활비 절약에 도움이 된다”며 “1교시 수업이 있는 날에는 주먹밥 같은 간편식을 들고 강의실로 이동할 수 있어 편하다”고 말했다.&lt;br&gt;&lt;br&gt;김동원 고려대 총장은 지난 10일 교내 학생회관에서 열린 ‘2026학년도 1학기 천원의 아침밥 시행’을 기념하는 조찬 행사에 참석해 “최근 고물가 상황으로 학생들의 식비 부담이 커지고 있는 가운데 현장에서 직접 의견을 들을 수 있어 뜻깊다”고 했다. 김 총장은 그러면서 “천원의 아침밥 사업을 통해 학생들이 건강하게 아침 식사를 챙기고 학업에 더욱 정진할 수 있도록 아낌없이 지원하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2027학년도 대학별 의대 정원 발표... 강원대·충북대 각 39명 증원으로 최다 </title>
+      <link>https://www.chosun.com/national/education/2026/03/13/MBAXNMRIBFABLFYLBTJVD4TSME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/13/MBAXNMRIBFABLFYLBTJVD4TSME/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 00:31:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7E52SI367ZMZLPAUHRSJVAYYUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 지역 32개 대학의 2027~2031학년도 의과대학 학생 정원 배정안을 13일 발표했다.&lt;br&gt;&lt;br&gt;배정안에 따르면, 강원 지역 의대 4곳의 학생 정원 총합은 267명(2024학년도)이지만, 2027학년도엔 330명, 2028~2031학년도엔 346명이 된다. 가톨릭관동대 49명·강원대 49명·연세대 미래캠퍼스 93명·한림대 76명이던 의대 학생 정원이 2027학년도엔 각각 55명·88명·104명·83명으로 늘어난다. 2028~2031학년도의 경우, 가톨릭관동대 57명·강원대 98명·연세대 미래캠퍼스 107명·한림대 84명이 된다.&lt;br&gt;&lt;br&gt;경기·인천 지역 의대 5곳의 학생 정원 총합은 209명(2024학년도)에서 2027학년도 233명, 2028~2031학년도 239명이 된다. 가천대 40명·성균관대 40명·아주대 40명·인하대 49명·차의과대 40명이던 의대 학생 정원은 2027학년도에 각각 47명·43명·46명·55명·42명이 된다. 2028~2031학년도의 경우, 가천대 49명·성균관대 44명·아주대 47명·인하대 56명·차의과대 43명이 된다.&lt;br&gt;&lt;br&gt;광주 지역 의대 2곳의 학생 정원 총합은 250명(2024학년도)에서 2027학년도 300명, 2028~2031학년도 312명이 된다. 전남대 125명·조선대 125명이던 의대 학생 정원은 2027학년도에 각각 156명·144명이 된다. 2028~2031학년도의 경우, 전남대 163명·조선대 149명이 된다.&lt;br&gt;&lt;br&gt;대구·경북 지역 의대 5곳의 학생 정원 총합은 351명(2024학년도)에서 2027학년도 423명, 2028~2031학년도 441명이 된다. 경북대 110명·계명대 76명·대구가톨릭대 40명·동국대 WISE캠퍼스 49명·영남대 76명이던 의대 학생 정원은 2027학년도에 각각 136명·91명·53명·54명·89명이 된다. 2028~2031학년도의 경우, 경북대 143명·계명대 95명·대구가톨릭대 56명·동국대 WISE캠퍼스 55명·영남대 92명이 된다. &lt;br&gt;&lt;br&gt;대전·충남 지역 의대 5곳의 학생 정원 총합은 332명(2024학년도)에서 2027학년도 404명, 2028~2031학년도 422명이 된다. 건양대 49명·단국대(천안) 40명·순천향대 93명·을지대 40명·충남대 110명이던 의대 학생 정원은 2027학년도에 각각 55명·55명·111명·46명·137명이 된다. 2028~2031학년도의 경우, 건양대 57명·단국대(천안) 58명·순천향대 116명·을지대 48명·충남대 143명이 된다.&lt;br&gt;&lt;br&gt;부산·울산·경남 지역 의대 6곳은 학생 정원 총합이 459명(2024학년도)에서 2027학년도 556명, 2028~2031학년도 580명이 된다. 경상국립대 76명·고신대 76명·동아대 49명·부산대 125명·울산대 40명·인제대 93명이던 의대 학생 정원은 2027학년도에 각각 98명·83명·66명·156명·45명·108명이 된다. 2028~2031학년도의 경우, 경상국립대 104명·고신대 85명·동아대 70명·부산대 163명·울산대 46명·인제대 112명이 된다.&lt;br&gt;&lt;br&gt;전북 지역 의대 2곳은 학생 정원 총합이 235명(2024학년도)에서 2027학년도 273명, 2028~2031학년도 283명이 된다. 원광대 93명·전북대 142명이던 의대 학생 정원은 2027학년도에 각각 110명·163명이 된다. 2028~2031학년도의 경우, 원광대 114명·전북대 169명이다. &lt;br&gt;&lt;br&gt;충북 지역 의대 2곳은 학생 정원 총합이 89명(2024학년도)에서 2027학년도 135명, 2028~2031학년도 147명이 된다. 건국대 글로벌캠퍼스 40명·충북대 49명이던 의대 학생 정원은 2027학년도에 각각 47명·88명이 된다. 2028~2031학년도의 경우, 건국대 글로벌캠퍼스 49명·충북대 98명이다. &lt;br&gt;&lt;br&gt;제주 지역 의대 1곳인 제주대는 40명에서 2027학년도 68명, 2028~2031학년도 75명이 된다.&lt;br&gt;&lt;br&gt;이번 배정안에서 의대 학생 정원이 가장 많이 늘어난 대학은 강원대와 충북대이다. 두 대학 모두 2027학년도엔 2024학년도보다 39명, 2028~2031학년도엔 2024학년도보다 매년 49명을 더 뽑을 수 있게 됐다.&lt;br&gt;&lt;br&gt;이번 배정안은 지난달 11일 보건복지부가 보건의료정책심의위원회(보정심)를 통해 정한 2027학년도 이후 지역별 의대 정원 규모를 각 의대에 배분한 것이다. 복지부에 따르면 전국 40개 의대 총 정원은 3058명(2024학년도)에서 2027학년도 3548명, 2028~2031학년도 3671명이 된다. 이렇게 늘어난 의대 학생 정원은 서울을 제외한 지역 의대 32곳에 배정되며, 늘어난 정원으로 뽑힌 학생들에겐 모두 지역의사제가 적용된다.&lt;br&gt;&lt;br&gt;교육부는 각 대학으로부터 지난달 11~27일 의대 학생 정원 조정 신청서를 받았으며, 이를 대학에서 함께 낸 교육 여건 현황 및 개선 계획 등의 자료와 복지부의 배정 방향(국립대 우선 배정, 소규모 의대 적정 정원 확보 등) 등을 종합적으로 고려해 배정했다고 밝혔다. &lt;br&gt;&lt;br&gt;대학들은 오는 24일까지 이번에 발표한 배정안에 대한 의견을 제출할 수 있다. 교육부는 이를 검토해 3월 중 대학별 정원을 통지한다. 4월 중으로 대학별 의대 정원이 최종 확정되면, 대학은 5월 안으로 학칙 개정과 2027학년도 대입 전형 시행 계획 변경 등 절차를 진행하게 된다. &lt;br&gt;&lt;br&gt;교육부는 의대 학생 정원이 늘어나는 만큼 그에 맞는 교육 여건이 갖춰지도록 지원하고, 지역의사제 도입에 따른 교육 지원 등을 체계적으로 실시하겠다는 입장이다. 특히 교육부는 지역의사선발전형으로 선발된 학생들이 제대로 공부할 수 있도록 지역의사지원센터를 설립해, 학생들의 학업 지원과 진로 탐색, 졸업 후 경력 개발 등을 도울 계획이다. 더하여 학생들이 대학 병원뿐 아니라 공공병원이나 의료원, 1·2차 의료기관 등 다양한 의료 현장에서 실습 경험을 쌓을 수 있도록 지원한다고 밝혔다. &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘공천 헌금 1억 의혹’ 김경, 첫 검찰 조사… 강선우는 16일</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/13/QRREAPDHGJGENEH3MJJ3JRY4NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/QRREAPDHGJGENEH3MJJ3JRY4NU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 00:00:52 +0000</pubDate>
+      <content:encoded>검찰이 2022년 지방선거를 앞두고 공천을 대가로 1억원을 건넨 혐의로 구속 송치된 김경 전 서울시의원을 13일 처음 불러 조사한다. 지난 11일 검찰에 넘겨진 지 이틀 만이다. 강선우(무소속·서울 강서갑) 의원은 오는 16일 첫 검찰 조사를 받을 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2DONJYGY2TQNLGG4YWKMJQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'1억 공천헌금' 의혹을 받는 강선우 무소속 의원과 김경 전 서울시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 이날 오전 10시부터 청탁금지법 위반 등 혐의를 받는 김씨에 대한 첫 피의자 조사를 실시한다고 밝혔다.&lt;br&gt;&lt;br&gt;강 의원은 2022년 1월 서울 용산구 하얏트호텔에서 김씨로부터 1억원이 든 쇼핑백을 받고, 그 대가로 김씨가 더불어민주당 서울시의원 후보로 공천받을 수 있도록 영향력을 행사한 혐의를 받는다. 김씨는 이후 강 의원 지역구인 서울 강서구에서 민주당 서울시의원 후보로 단수 공천돼 당선됐다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난 3일 증거 인멸 우려를 이유로 두 사람에 대한 구속영장을 발부했고, 이들은 마포경찰서 유치장에 구금됐다. 서울경찰청 공공범죄수사대는 조사 끝에 지난 11일 정치자금법 및 청탁금지법 위반과 형법상 배임증재(김씨)와 배임수재(강 의원) 혐의를 적용해 두 사람을 검찰에 송치했다. 이에 따라 두 사람은 서울구치소에 수감됐다.&lt;br&gt;&lt;br&gt;검찰은 이날 조사에서 김씨가 돈을 건넨 경위와 공천 청탁의 구체적인 내용 등을 집중적으로 확인할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 제주항공 여객기 참사 관련 국토교통부 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/N6BETSREAVEFPGKDWXGUYQ2VHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/N6BETSREAVEFPGKDWXGUYQ2VHY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 00:58:54 +0000</pubDate>
+      <content:encoded>2024년 179명이 숨진 제주항공 여객기 참사를 수사하는 경찰이 국토교통부 공무원들에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4C4ELVHVTVN5HLJRXZIT4NIZPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 국토교통부와 항공철도사고조사위원회, 전남과학청 과학수사대 관계자들이 무안국제공항 공항소방대 뒤편에 보관된 여객기 잔해를 조사하고 있다. 이날 현장에서는 희생자로 추정되는 유해 24점이 발견됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 12·29 여객기 참사 특별수사단(특수단)은 13일 오전부터 국토교통부에 대한 압수수색을 진행하고 있다고 밝혔다. 이날 압수수색 대상은 참사 당시 국토부 항행위성정책과와 공항운영과에서 근무하던 공무원 4명이다. 이들은 현재 피의자로 입건돼 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 앞서 정치권에서 여객기 참사 수사가 지연되고 있다는 지적이 나오자, 전남경찰청에 있던 수사본부를 해체하고 국수본 직속 특수단을 설치했다. 기존 여객기 참사 관련 피의자는 45명이었지만 특수단 출범 이후 19명을 더 입건해 현재 피의자는 64명까지 늘었다. 특수단은 지난달 부산지방항공청과 시공 관련 업체 등 2곳에 대해서도 압수수색을 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“검찰, 싸이코패스 김소영에 속았다” 프로파일러 주장</title>
       <link>https://www.chosun.com/national/national_general/2026/03/13/2JG7Q2ZRL5FSBL4VPVSQ4RWSQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/2JG7Q2ZRL5FSBL4VPVSQ4RWSQM/</guid>
@@ -781,44 +853,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2YCW7QJN5AMVH5QW3RFCON7DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;암표 유통 구조도./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6LQVBFHWZHMBFT4GGW2BV2AHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;암표 좌석 및 가격표./ 경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기북부경찰청은 매크로 프로그램을 돌려 K팝 공연 티켓을 대량 예매한 뒤 최대 25배 비싼 가격에 되판 암표 거래 일당 16명을 입건했다고 11일 밝혔다. A(28)씨 등은 2022년 10월부터 올 1월까지 K팝 공연 티켓 3만3000장을 해외 암표상 등에 되판 혐의를 받고 있다. 경찰이 확인한 공연만 190여 건, 판매한 금액은 총 71억원이다. 이들은 작년 8월 인천에서 열린 ‘세븐틴’ 월드투어 VIP 티켓(20만원)을 500만원에 판매했다. 작년 7월 ‘블랙핑크’ 월드투어 VIP 티켓(20만원)은 400만원에 거래됐다. &lt;br&gt;&lt;br&gt;유명 아이돌의 공연 티켓은 보통 순식간에 마감되는데 다양한 매크로 프로그램을 이용해 선점한 것으로 조사됐다. 매크로는 마우스 클릭 등 반복 작업을 자동으로 해주는 프로그램이다. &lt;br&gt;&lt;br&gt;기획사들은 암표를 막기 위해 공연장에서 예매한 사람의 신분증을 확인하고 있지만 ‘정부24’ 앱과 비슷한 프로그램을 개발해 무력화한 것으로 조사됐다. 경찰은 “암표를 산 사람은 이 프로그램을 이용해 위조 모바일 신분증을 제시하고 입장했다”고 했다.&lt;br&gt;&lt;br&gt;이들은 소셜미디어에 단체 대화방을 만들어 예매 사이트의 보안 정책, 암표 시세, 경찰 단속 상황 등을 공유한 것으로 조사됐다. 대화방 회원은 1309명으로 파악됐다. 경찰 관계자는 “A씨 등 주범들은 IT(정보통신) 업체 출신으로 매크로 프로그램을 직접 만들어 쓸 정도로 실력이 뛰어났다”고 했다. 문화체육관광부는 오는 21일 방탄소년단(BTS)의 컴백 공연을 앞두고 암표 감독을 강화한다고 밝혔다. BTS 소속사 하이브는 12일 오후 8시 온라인 티켓 예매 사이트 ‘놀(NOL) 티켓’에서 추가 예매를 진행한다. 총 7000석 규모로 1인당 한 장만 살 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>다시 느끼는 그날의 함성</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/UVWXNP7AEBEQLMOWP36ERGHTSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/UVWXNP7AEBEQLMOWP36ERGHTSU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWR5KR2RJJHNNASM4ESMHVWBJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 부산 동구 부산진일신여학교 일대에서 ‘3·1 만세운동 재현 행사’가 열렸다. 시민 1300여 명이 태극기를 들고 거리를 행진하고 있다. 부산 동구는 1919년 3월 11일 부산진일신여학교에서 일어난 만세운동을 기념하기 위해 매년 행사를 열고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>산수유 아래서 추억 하나 만들어 봄</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/SS4ONFCKR5B6HDIAEWM4VX7IQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/SS4ONFCKR5B6HDIAEWM4VX7IQQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDR5OMZDNRFBPH76PXMUQAXNLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 대전 유성구 카이스트(KAIST) 교정에 있는 산수유 꽃이 만발한 가운데, 산책을 나온 시민들이 스마트폰으로 사진을 찍고 있다. 12일에는 내륙을 중심으로 아침 기온이 영하로 떨어지는 등 낮과 밤의 기온 차가 클 것으로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>AI 시대에 웃는 공고생… “현장 기술인력 필요” 기업 러브콜</title>
-      <link>https://www.chosun.com/national/education/2026/03/12/FRKP6WTKIRG4XPZWX36DBPCLDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/12/FRKP6WTKIRG4XPZWX36DBPCLDM/</guid>
-      <dc:creator>표태준 기자, 김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZ2YFUB5X5GCLD6QJF47Z4GIEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원의 창원기계공고 학생들이 자동화 설비 산업기사 자격증 실기 연습을 하고 있다./창원기계공고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전력 기기 기업인 LS일렉트릭은 최근 AI(인공지능)를 기반으로 공장 운영을 자동화하는 ‘AI 팩토리’ 기술 사업에 집중하고 있다. 사업 확대를 위해선 관련 장비를 설치하고 관리할 전문성과 AI에 대한 이해를 동시에 갖춘 인재의 필요성이 커졌다. 이에 최근 경기 수원의 삼일공고와 산학 협력 협약을 맺고 함께 교육 과정을 개발하고 있다. LS일렉트릭 관계자는 “AI 팩토리 산업에 특화된 지역 인재를 직업계고와 함께 육성해보자는 취지”라면서 “자사 장비로 교육장을 만들어 학생들을 교육할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;AI가 각종 업무를 대체하며 사무직 인력을 감축하는 기업이 늘고 있는 가운데, 직업계고 학생들에게 ‘러브콜’을 보내는 기업이 잇따르고 있다. 새로운 산업 현장에 빠르게 투입할 수 있는 기술 인력에 대한 수요가 증가하고 있기 때문이다. &lt;br&gt;&lt;br&gt;한국전력은 올해 교육부와 협의해 직업계고 학생을 50명 뽑기로 했다. 작년 5명에서 대폭 확대하는 것이다. 한전 관계자는 “AI 확산으로 전력 수요가 늘어 변전소와 송전선로 공사·관리, 각종 총무·회계 업무량이 크게 늘고 있다”면서 “고졸 채용은 이직률이 낮아 전문성을 갖춘 근로자를 확보할 수 있다는 장점이 크다”고 말했다. 정부도 직업계고 학생들이 한전의 ‘전기 직군’에 취업할 수 있도록 올해 ‘과정평가형 국가기술자격’에 전기산업기사 부문을 신설한다. 과정평가형 국가기술자격은 산업 현장 맞춤형 교육과 훈련을 이수하고 실무 평가를 합격하면 국가기술자격을 부여하는 제도다. &lt;br&gt;&lt;br&gt;세계적으로 전력 수요가 늘어나며 원전 수출 청신호가 켜진 두산에너빌리티도 최근 교육부에 직업계고 학생을 채용하고 싶다고 요청한 뒤 협의를 진행하고 있다. 교육부는 기업들의 수요에 부응하기 위해 기업과 직업계고를 연계해 채용까지 이어지도록 돕는 ‘채용연계형 직무교육’ 사업 규모를 작년 1278명에서 올해 2000명까지 확대하기로 했다.&lt;br&gt;&lt;br&gt;직업계고 학생들 사이에선 늘어난 채용 기회를 잡기 위해 ‘국가기술자격 취득 붐’이 일고 있다. 직업계고 학생의 과정평가형 국가기술자격 취득자 수는 2022년 1514명에서 작년 4714명으로 3배 넘게 늘었다. 특히 반도체 등 제조업 현장의 정밀 부품을 가공하는 ‘컴퓨터응용가공산업기사’나 AI 기반 스마트 공장 설비를 설치·관리하는 ‘자동화설비산업기사’를 따려는 학생이 많다고 한다. &lt;br&gt;&lt;br&gt;창원기계공고의 조기현 교사는 “AI로 인해 대기업에 진출할 수 있는 기회를 갖게 된 학생들이 밤늦게까지 공부하면서 자격증 취득에 도전하고 있다”면서 “입학 경쟁률도 올해 2대1까지 올랐고 갈수록 우수한 학생들이 입학한다”고 말했다. &lt;br&gt;&lt;br&gt;직업계고는 4~5년 전만 해도 입학 정원을 못 채우는 곳이 많았다. 그런데 세계적으로 AI가 대체하기 어려운 ‘블루칼라 직종’의 몸값이 오르고, 직업계고에 대한 인식도 긍정적으로 바뀌면서 인기가 올랐다. 예컨대, 광주광역시 직업계고의 신입생 지원율은 2022학년도 83%에서 2026학년도엔 132%까지 뛰었다. &lt;br&gt;&lt;br&gt;삼일공고 관계자는 “최근 블루칼라 직종에 대한 인기를 보면서 학교에선 1970~80년대처럼 ‘공고 전성시대’가 오는 것 아니냐는 말까지 나올 정도”라고 말했다.&lt;br&gt;&lt;br&gt;교육계 일각에선 이런 직업계고 붐이 오래가지 못할 수 있다는 우려도 나온다. 특히 지난 1월 현대자동차그룹이 IT 전시회 ‘CES 2026’에서 휴머노이드 로봇 아틀라스를 공개한 뒤 ‘피지컬 AI’가 블루칼라까지 대체해 학생들 일자리가 사라지는 게 아닐까 걱정이 크다고 한다. 서울 한 직업계고 교사는 “아직은 AI 덕분에 블루칼라가 조명받고 학생들 진출 경로도 다양해져 긍정적인 분위기지만, AI 발전이 워낙 빨라 지금 공부한 것이 허사가 될 수 있다는 불안감이 있다”며 “2020년대 초 ‘코딩 교육 붐’이 일며 상당수 직업계고 학생이 코딩 공부에 매진했다가 AI 때문에 일자리가 대폭 줄며 취업에 실패한 사례도 있기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>통합 강원대, 졸업장에 캠퍼스명 표기… 학생들 갈등</title>
-      <link>https://www.chosun.com/national/education/2026/03/12/RQKVRNEKMBCZPCH42RX7VZGTUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/12/RQKVRNEKMBCZPCH42RX7VZGTUY/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3TGY3EGI3TSOBQG43DKZBZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원대학교 춘천캠퍼스/ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통합한 국립대가 졸업장에 ‘캠퍼스’ 이름을 적기로 하자 학생들 사이에서 갈등이 빚어지고 있다. &lt;br&gt;&lt;br&gt;11일 교육계에 따르면, 강원대와 국립강릉원주대가 통합해 올해 출범한 ‘강원대’는 지난 1일 졸업장에 소속 캠퍼스를 표기하기로 학칙을 정했다. 올해부터 강원대 졸업장에는 학생이 다닌 캠퍼스 이름도 함께 적히는 것이다. 기존 강원대는 춘천·삼척 캠퍼스, 강릉원주대는 강릉·원주 캠퍼스를 갖고 있었다. &lt;br&gt;&lt;br&gt;졸업장 캠퍼스명 표기는 통합 과정에서도 논란이었다. 대체로 춘천캠퍼스 학생들은 찬성, 강릉·삼척·원주캠퍼스는 반대 입장이었다. 통합 강원대는 개강 직전인 지난달 26일 교수, 학생 등 22명으로 구성된 대학평의원회를 열고 투표를 했다. 찬성 11표, 반대 10표(기권 1표)가 나와 최종적으로 캠퍼스명을 졸업장에 적기로 했다.&lt;br&gt;&lt;br&gt;춘천캠퍼스 학생들은 ‘찬성’ 입장을 냈다.&lt;b&gt; &lt;/b&gt;춘천캠퍼스 비상대책위원회는 5일 성명에서 “캠퍼스명 병기는 단순히 문구 하나를 졸업 증서에 추가하는 문제가 아니라, 캠퍼스별 입학 전형·교육과정 차이를 명확히 구분하고 졸업생 학위 표시의 객관성·투명성을 위한 것”이라고 주장했다. 반면 원주캠퍼스 총학생회는 “대학 통합은 특정 캠퍼스만을 위한 것이 아닌, 모두의 강원대를 만들어가기 위한 것”이라며 “대학평의원회에 안건을 재상정해 부적절한 학칙을 바로잡을 것”이라고 주장했다. &lt;br&gt;&lt;br&gt;한 교육계 관계자는 “입시 성적이 낮은 학생들이 자신과 같은 졸업장을 받는 게 정의롭지 않다고 생각하는 학생들이 캠퍼스 표기를 주장하는 것”이라면서 “학생 감소로 대학 통합 논의가 늘어나고 있기 때문에 이런 갈등도 증가할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;과거에도 졸업장 캠퍼스 표기는 갈등 요소였다. 2022년 한국외대는 서울캠퍼스와 글로벌캠퍼스(용인)의 유사·중복 학과를 통폐합하면서 글로벌캠퍼스 학생들에게 졸업 후 서울캠퍼스 졸업장을 주기로 하자 서울캠퍼스 학생들이 반대했다. 현재 공주대와 통합을 추진 중인 충남대 총학생회도 통합 전 입학한 학생은 입학 당시 대학 명칭으로 졸업장을 받게 해달라고 요구하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원에 간 소아과 교수 “병원 밖에도 의사 의무 있다”</title>
       <link>https://www.chosun.com/national/people/2026/03/12/GYTGPBZXJJCVHE5K4X6IBDX6GY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/12/GYTGPBZXJJCVHE5K4X6IBDX6GY/</guid>
@@ -826,33 +860,6 @@
       <description/>
       <pubDate>Wed, 11 Mar 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHLDEEOP4RBVTPTGYGNMTZB3RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 서울 서초구 서울고등법원에서 만난 한석주 전 연세대 전 소아외과 교수/ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 경력 대부분을 세브란스 어린이 병원 소아외과에서 보낸 한석주 전 교수는 2012년 신촌 세브란스 병원에 신설된 장기재원환자관리위원회 초대 위원장에 취임했다. 새로운 보직을 맡자마자 그의 눈에 띈 환자는 2007년부터 12개 이상의 진단명으로 하루 200만원짜리 특실 병실에서 입퇴원을 반복한 윤모 씨였다. 윤씨는 여대생 청부살인 사건의 주범인 ‘제분 회사 사모님’. 무기징역이 확정돼 교도소에서 복역한다고 알려졌지만 실상은 ‘나이롱’ 환자로 5년간 병원에서 호화 생활을 하고 있었다. 그는 윤씨의 입원 기록과 외출 기록을 정리해 피해자의 아버지에게 전했다. 이 일이 언론 보도를 통해 세상에 알려지면서 윤씨는 감옥으로 돌아갔고, 사건에 관련된 윤씨의 남편과 다른 교수는 구속됐다. 평생 몸담은 병원과 동료를 고발하는 데 한 교수는 망설임이 없었을까. &lt;br&gt;&lt;br&gt;“그때 딸을 잃은 아버지를 떠올리면 눈물부터 났지, 다른 생각은 떠오르지 않았습니다. 죄를 지은 사람은 그에 상응하는 벌을 받아야 한다는 상식이 무너지면 이 사회가 어떻게 제대로 지탱이 될 수 있을까요. 이런 저를 두고 아내는 오지랖이 넓다고 핀잔을 주긴 하죠.”&lt;br&gt;&lt;br&gt;한 교수는 지난해 교수 정년퇴직 후 서울 서초동으로 출근하고 있다. 서울고등법원 상임전문심리위원으로서, 법정에서 의료 소송 자료를 검증하고 감정서를 작성한다. 지난 6일 법원에서 만난 그는 “어릴 때부터 따지기를 좋아해서 나를 보고 아버지는 검사를 하라고 했다”며 “의사 시절에도 수사 기록 보는 걸 좋아해서 법조계에서 일을 해보고 싶었다”고 했다. 그는 상임전문심리위원 공석이 나길 기다렸고, 모집 공고가 났을 때 부리나케 지원했다. 한 교수는 “의사 시절에도 검찰이나 법원에서 의료 사고나 아동학대 사건 의뢰가 오면 전문 감정을 했다. 돈이 안 되고, 시간도 뺏기는 데다가 안 한다고 벌받는 것도 아니지만, 이건 의사의 의무다. 의사가 아니면 할 수 없는 일이라면 반드시 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그가 이런 생각을 갖게 한 데엔 조두순 사건의 피해자 ‘나영이’(가명)의 수술을 담당한 경험이 영향을 미쳤다. 당시 나영이는 다른 병원에서 평생 배변주머니를 차고 다녀야 한다는 진단을 받은 뒤 한 교수가 일하던 세브란스 어린이 병원에 입원했다. 그는 “친구와 차를 함께 타고 가다가 라디오에서 나영이 소식이 흘러나왔을 때 ‘(배변주머니 말고) 다른 방법도 있을 것 같다’고 한마디 했다. ‘방법이 있는데 넌 뭘 하고 있느냐’는 친구의 일갈에 정신이 번쩍 들었다”고 했다. &lt;br&gt;&lt;br&gt;나영이 담당 의사가 아니었지만 다음 날 바로 만나러 갔고, 장기 복원 수술을 하기로 했다. 수술을 앞두고선 조두순 사건의 수사기록을 샅샅이 연구했다. 한 교수는 “참을 수 없는 분노에 손이 덜덜 떨리고 약간의 공황 상태가 됐지만, 그 기록 덕분에 수술을 잘 마칠 수 있었다”며 “ ‘넌 뭐 하냐’는 친구의 한마디가 마음에 남아서 그 뒤로도 나를 움직이는 기폭제가 됐다”고 했다. &lt;br&gt;&lt;br&gt;각종 사건·사고로 이름을 알린 한 교수는 담도폐쇄증 환자 사이에서 ‘명의(名醫)’로 통한다. 정년퇴직을 기념하며 최근 출간한 책 ‘내 생애 최고의 수술’(다빈치 북스)은 그가 담도폐쇄 수술을 한 환아의 어머니인 변문경 작가가 기획했다. 변 씨는 “아이의 목숨을 살려준 하 교수의 수술이 내 생애 최고의 수술이었다”고 했다. 하 교수에게 ‘최고의 수술’은 뭘까. “가장 어렵거나, 결과가 유달리 좋다고 해서 최고의 수술은 아닙니다. 남들은 성공했다고 축하했던 ‘융합쌍둥이(샴쌍둥이)’ 수술이 저에겐 아쉬움과 미안함이 남는 수술이었거든요. 절망을 희망으로 바꿔놓는 수술이라면 다 최고의 수술 아닐까요.” &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 세계 여성의 날 기념 포럼</title>
-      <link>https://www.chosun.com/national/people/2026/03/12/FQIJ3756NZF6VIZ4ZCXJVSCINQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/12/FQIJ3756NZF6VIZ4ZCXJVSCINQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;한국여성커뮤니케이션학회&lt;/b&gt;는 12일 서울 이화여자대학교 ECC컨퍼런스홀에서 ‘AI시대, 글로벌 무대를 움직이는 여성 리더십과 크리에이션의 힘’을 주제로 2026 세계 여성의 날 기념 포럼을 개최한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가수 유노윤호·배우 임원희 등 147명 서울시 유공납세자 표창</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/PCTULG5A6BDGBNGGS3565H65GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/PCTULG5A6BDGBNGGS3565H65GQ/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBBOOBYWPRFT3KSKA4M2NZTOHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장이 11일 서울시청에서 열린 ‘2026년 서울시 모범·유공납세자 표창 수여식’에서 가수 유노윤호(오른쪽)에게 표창을 한 뒤 기념촬영을 하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIHRDO3T3NEWZJXWCOTKFKMZ34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장이 11일 서울시청에서 열린 ‘2026년 서울시 모범·유공납세자 표창 수여식’에서 배우 임원회(오른쪽)에게 표창을 한 뒤 기념촬영을 하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGRYIBV6CVD77AX56YM536EMIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장이 11일 서울시청에서 열린 ‘2026년 서울시 모범·유공납세자 표창 수여식’에참석했다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 동방신기의 유노윤호와 배우 임원희, 프로야구 선수 박동원(LG트윈스)이 서울시 유공납세자 표창을 받았다. 서울시는 11일 지방세를 성실하게 낸 시민 37만1770명을 모범납세자로 선정했다고 밝혔다. 이 중 세금 납부액이 많은 147명에게 유공납세자 표창을 수여했다. 유공납세자는 1년간 서울시 공영주차장 요금 면제, 세종문화회관 공연 할인(20%) 등 혜택을 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>블랙핑크 ‘GO’ 빌보드 핫 100… K팝 여성 아티스트 최다 진입</title>
-      <link>https://www.chosun.com/national/people/2026/03/12/U7KP3TOVJVBUBBAJDMNPUYHELI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/12/U7KP3TOVJVBUBBAJDMNPUYHELI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DD3DYNKMXZHNLHO7OBGUEJOHLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; YG엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;K팝 걸그룹 ‘블랙핑크’(리사, 제니, 지수, 로제)가 세계 양대 차트라고 불리는 미국 빌보드와 영국 오피셜 차트에서 K팝 신기록을 경신하고 있다. 11일 블랙핑크 미니 3집의 타이틀곡 ‘고(GO)’는 빌보드 핫 100에서 63위에, 영국 오피셜 차트의 싱글 톱100에서는 44위에 올랐다. 각각 블랙핑크 통산 11번째, 12번째 차트 진입이자 K팝 여성 아티스트 최다 차트 진입 기록이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[Dr.이은봉의 의학 연구 다이제스트] 여성호르몬 복용해도 사망률엔 차이 없어… 부작용 걱정 말고 폐경 증후군 심하면 드세요</title>
@@ -880,15 +887,6 @@
       <description/>
       <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVLXW3SX5FGLFCHPX4YEZRSVDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 피부과 시술의 트렌드는 노화를 미리 예방하는 ‘안티에이징’을 넘어 20대부터 관리를 시작하는 추세로 변하고 있다. 루트테마피부과 이학규 원장(피부과 전문의)은 조선일보 의학·건강 유튜브 ‘오!건강‘ &amp;lt;이러면 낫는다&amp;gt;에 출연해 피부 노화의 원인과 최신 리프팅 시술로 주목받고 있는 ‘아그네스’ ‘더블타이트’에 대해 설명했다.&lt;br&gt;&lt;br&gt;이학규 전문의는 “피부 노화는 진피층의 콜라겐과 엘라스틴이 감소하고, 볼에 있는 지방이 처지면서 팔자 주름이나 심술보(불독살)가 생기게 된다”며 “리프팅의 핵심 타깃은 ‘스마스(SMAS)층’”이라고 말했다.&lt;br&gt;&lt;br&gt;스마스층은 넓게 퍼져 있는 막으로 된 인체 조직인데, 기존 리프팅 레이저 울쎄라나 써마지 같은 기기들이 이곳을 자극해 리프팅 효과를 낸다.&lt;br&gt;&lt;br&gt;최근 피부과에선 이 분야에 새로 등장한 ‘더블타이트’를 추천하기도 한다. 이 원장은 “최근까지 피부과 시술은 주로 진피 아래쪽만 치료했지만, 진피 위쪽(유두진피)도 항노화와 미백에 굉장히 중요한 부분”이라며 “더블타이트는 길이가 다른 두 종류의 바늘이 동시에 들어가 진피의 위쪽과 아래쪽을 모두 치료하는 것이 특징”이라고 말했다.&lt;br&gt;&lt;br&gt;이 원장은 생활 속 노화 방지법으로는 레티놀(비타민A)과 비타민C 화장품 사용, 철저한 보습과 자외선 차단을 추천했다. 이 원장은 “세안할 때 너무 뜨거운 물은 피부 장벽을 파괴하고, 너무 차가운 물은 노폐물 제거가 어렵다”며 “미지근한 물로 하는 것이 가장 좋다”고 했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면 피부 리프팅 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4V5VEPD4WBF2LEWIRIV6FTYUDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국인 10명 중 7명, 잠자기 직전까지 스마트폰 본다</title>
-      <link>https://www.chosun.com/medical/2026/03/12/AL2GZL7CVFG4NJWPOP4JKX63PY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/12/AL2GZL7CVFG4NJWPOP4JKX63PY/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYPSNA2TUVCTJDJJ7TG3CX6XYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국인은 잠을 너무 적게 자고, 매우 늦게 잠들고, 스마트폰을 보다가 잔다. 세계에서 유별나게 수면 시간이 적고, 가장 늦게 자는 나라다.”&lt;br&gt;&lt;br&gt;오는 13일 ‘세계 수면의 날’을 기념하여 대한수면연구학회가 최근 연 심포지엄에서 발표된 ‘한국인의 수면 성적표’다. 김혜윤(국제성모병원 신경과 교수) 수면연구학회 홍보이사가 발표한 ‘2025 한국인의 수면 리포트’에 따르면, 평균 수면 시간은 5시간 25분에 불과했다. 성인 권장 수면 시간이 7~9시간인 것을 감안하면, 잠이 1시간 35분 이상 부족한 상태다.&lt;br&gt;&lt;br&gt;침대에 누워 있는 시간 중 실제 잠든 시간의 비율, 수면 효율은 평균 82%로, 건강 수면 효율 기준 90%보다 8% 낮다. 그만큼 자다가 뒤척거리고 밤에 깨어 있는 시간도 길다. 평균 39분 동안 잠에서 깨어 있는 상태로 나타나는데, 이는 권장 기준의 두 배다. 한국인이 단순히 ‘잠을 적게 자는’ 수준이 아니라 잠의 질 자체가 떨어진 상태라는 의미다. 그 결과, 자신의 수면에 만족한다고 답한 사람은 열 명 중 세 명(28.8%)에 불과했다. &lt;br&gt;&lt;br&gt;이번 수면 실태 분석 자료는 수면무호흡증 인식 조사, 수면 앱 사용자 대상 조사, 수면 문제로 양압기를 쓰는 사람 등의 수면 패턴을 분석한 것이기에 전체 한국인 수면 실태와 다소 차이가 날 수 있으나, 한국인의 수면 문제 전반을 반영한다고 수면연구학회는 전했다.&lt;br&gt;&lt;br&gt;한국인의 수면을 방해하는 핵심 요인으로는 스트레스와 스마트폰 사용이 꼽혔다. 잠들기 직전까지 휴대폰을 보는 사람은 69.3%로 나타났다. 침대 옆에서 밤새 휴대폰을 충전하는 사람도 60%가 넘는다. 자면서도 스마트폰을 끼고 지낸다는 뜻이다. 스마트폰의 빛은 근거리에서 망막을 자극하여 각성 효과를 크게 내기에 쾌면의 최대 적으로 꼽힌다. &lt;br&gt;&lt;br&gt;한국인의 수면 패턴에서 눈에 띄는 특징은 ‘올빼미형 생활’이다. 늦게 자고 늦게 일어나는 올빼미족이 전체의 56.2%로 나타났다. 이는 글로벌 평균의 약 두 배 수준이다. 평균 취침 시간이 밤 12시 51분이다. 이는 하루 동안 겪은 스트레스와 부족했던 개인 시간을 밤에 보완 보상하려는 ‘보복성 취침 지연’ 현상이라는 해석이다. 밤 11시를 넘어 늦게 잘수록 깊은 잠에 빠지기 어렵고, 수면 효율은 떨어진다.&lt;br&gt;&lt;br&gt;한국인은 수면의 중요성을 알고 있지만, 실제 생활에서 수면 검사를 받거나 수면 위생을 지키려는 노력을 뒤로 미루는 경향이 있다는 지적도 나왔다. 신원철(강동경희대병원 신경과 교수) 수면연구학회 회장은 “수면 장애와 불량은 개인의 건강 위협을 넘어서 공공의 보건 문제이자, 국가적 차원에서 다루어져야 할 보건 이슈”라며 “교대 근무자나 학생들을 포함하여 사회 전체가 국민 캠페인처럼 수면 루틴과 위생을 실천하는 분위기를 만들어 가야 한다”고 말했다.&lt;br&gt;&lt;br&gt;수면연구학회가 강조하는 수면 루틴은 매일 이뤄지는 규칙적인 생활 습관이다&amp;lt;그래픽 참조&amp;gt;. 먼저 일정한 시간에 자고 일정한 시간에 일어나 생체 시계가 일정한 수면 사이클로 돌아가게 하는 것이 중요하다. 식사도 일정한 시간에 하는 것이 좋다. 그러면 ‘배꼽 시계’도 작동하여 일정 시간 수면을 유지하게 하는 데 도움이 된다. 기상 후 아침과 낮에 가능한 한 햇볕을 많이 쬐는 게 좋다. 낮잠은 안 자거나 15분 이내로 자고, 오후부터는 카페인 섭취를 최소화해야 한다. 신원철 회장은 “침대에서 휴대폰을 전혀 사용하지 않는다는 사람이 4.5%에 불과하다”며 “잠들기 1~2시간 전부터 스마트폰을 사용하지 않고, 침실을 어둡고 고요하게 만들어야 푹 잘 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>봄철에 척추 디스크 환자 가장 많이 발생</title>
