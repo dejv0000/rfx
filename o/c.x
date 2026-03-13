@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>윤영호 “김성태 전 국힘 의원 만나러 갈 때 2000만원 준비...전달하진 않아”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/13/HVNNTGAJSFAZTF3RB7BT4E3FHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/HVNNTGAJSFAZTF3RB7BT4E3FHE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 12:05:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTAYRZGQ4GIMZZGA2DKMTBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사에게 청탁할 목적으로 명품 가방과 목걸이를 전달한 혐의를 받는 윤영호 전 통일교 세계본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘통일교 정교유착’ 의혹 재판에서 윤영호 전 통일교 세계본부장이 2021년 12월 김성태 전 국민의힘 의원을 만날 당시 2000만원과 선물을 준비해갔다는 법정 증언이 나왔다. 윤씨는 이에 대해 “(돈과 선물은 차량) 트렁크에 그대로 있었다”며 김 전 의원에게 전달되지 않았다고 말했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 13일 정치자금법 위반 혐의를 받는 한학자 통일교 총재, 정원주 전 총재 비서실장, 윤씨 등에 대한 재판을 진행했다. 이날 재판에선 윤씨에 대한 한 총재 측 변호인의 반대신문이 진행됐다.&lt;br&gt;&lt;br&gt;윤씨는 이날 “2021년 12월 16일 서울 여의도의 한 식당에서 김성태 전 의원을 만났냐”는 한 총재 측 질문에 “윤정로 전 세계일보 부회장의 소개로 만났다“며 ”제가 어레인지(조율)한 게 아니다“라고 했다. 윤씨는 한 총재에게 김 전 의원과의 만남을 보고했냐는 질문에는 ”했을 수 있지만 정확하지 않다“며 ”통상 누굴 만나는지 편안하게 말씀 드린다”고 했다.&lt;br&gt;&lt;br&gt;한 총재 측은 이날 반대신문에서 윤씨가 김 전 의원을 만나러 갈 때 선물 세트와 2000만원을 준비해 갔는지에 대해서도 물었다. 이에 윤씨는 “그랬던 것 같다”면서도 “윤 전 부회장이 필요하다고 얘기한 것 같고, 누굴 주기보단 본인이 활동하는 것에 포함됐던 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이에 한 총재 측이 “김 전 의원 등에게 주려 한 게 아닌가”라고 묻자 윤씨는 “모른다. “(선물 세트와 2000만원은) 트렁크에 그대로 있었다”며 건네지 않았다고 답했다. 또 2000만원에 대해선 “총재님이 특수활동비로 주신 것”이라며 자신이 소유하던 돈이 아니라고 했다.했다.&lt;br&gt;&lt;br&gt;윤 전 부회장은 윤씨와 권성동 국민의힘 의원의 만남을 주선한 인물로 알려졌다. 윤 전 부회장은 2021년 11월 17일 윤씨에게 권 의원, 김 전 의원과 만났고 그다음 날인 11월 18일 권 의원과의 만남을 주선하겠다는 취지의 메시지를 보낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북관광공사 ‘APEC 시진핑 발자취’ 상품 개발한다</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/JPFQRBK4VNDARBK5I5ZJHWI7WI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/JPFQRBK4VNDARBK5I5ZJHWI7WI/</guid>
+      <dc:creator>경주=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 12:00:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CUTUIKBJNMHHFMG2EBYCS4YHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 이재명 대통령이 APEC 정상회의 참석을 위해 방한한 시진핑 중국 국가주석과 중국 대표단에게 선물한 황남빵/대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시에 중국인 관광객을 대상으로 한 ‘시진핑 경주 관광 코스’ 상품이 도입될 전망이다.&lt;br&gt;&lt;br&gt;경북문화관광공사는 올해 상반기 중 ‘APEC 한·중 우호 발자취’ 상품을 내놓을 전망이라고 13일 밝혔다. 지난해 10월 시진핑 중국 국가주석이 아시아태평양경제협력체(APEC) 정상회의 참석차 경주에 왔을 당시 들렀던 명소를 주제로 만든 관광 상품이다. 시 주석이 방문한 경주박물관과 경주 황남빵 본점 등을 포함할 예정이다. 올해 6월까지 중국인들을 대상으로 한시적 무비자 제도가 시행되는 만큼, 방한 수요에 맞춰 경주와 인근 지역의 방문율을 높이겠다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H37WL2AKBBGXJPLJK6AHLKN4CM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6~10일 경주에서 중국 동북 3성 여행사 관계자들이 관광을 하며 기념 사진을 찍고 있다./경북문화관광공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사는 지난 6일부터 10일까지 중국 동북 3성 지역인 랴오닝·지린·헤이룽장성 현지의 소매 여행사 판매 요원을 경주로 초청해 ‘POST APEC 방한 단체 상품 판촉 교육’을 실시했다. 동북 3성 지역이 단체 관광 상품 판매 비율이 높은 데다, 전체 판매의 80% 이상이 소매 여행사를 통해 이뤄지는 특성을 감안했다. 공사는 시 주석 테마 상품이 정착하면 올해 상반기 경주 지역 외래 관광객이 전년 대비 20% 이상 오를 것으로 보고, 한국관광공사 선양지사와 중국 주요 여행사와 협력해 사업을 추진할 방침이다.&lt;br&gt;&lt;br&gt;이상훈 경북문화관광공사 마케팅본부장은 “APEC 개최를 통해 높아진 경주의 브랜드 가치를 중국에 널리 알리고, 경주를 방문했던 중국 국가 주석의 발자취를 최대한 활용해 관광 및 지역 경제 활성화에 이바지하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쿠팡 ‘개인정보 유출’ 첫 재판... 이용자들 “1인당 30만원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/13/Q2GOYTKMJVGQVK6ACXSV635BUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/Q2GOYTKMJVGQVK6ACXSV635BUA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 10:33:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQWKZJTMU3GKYZZMYYWMYLFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 쿠팡 본사의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡 대규모 개인정보 유출 사고와 관련해 이용자 1900여 명이 제기한 집단 손해배상 소송의 첫 재판이 13일 열렸다. 이용자 측은 쿠팡이 이용자 1인당 30만원을 배상해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사22부(재판장 박정호)는 이날 쿠팡 이용자 1998명이 쿠팡을 상대로 낸 손해배상 청구 소송 첫 변론기일을 열고 양측의 입장을 들었다.&lt;br&gt;&lt;br&gt;이용자 측은 “이 사건은 이용자 이름 등 3367만건의 개인정보가 유출된 사상 초유의 사고”라며 “어처구니 없는 총체적 시스템 붕괴로 인해 발생한 안전 위협이었다”고 했다. 이어 “하지만 쿠팡은 사고 이후 개인정보 유출을 ‘노출’이라고 표현하고, 지난해 12월에는 개인정보가 3000건만 유출됐다고 발표했다”며 사고를 축소하거나 은폐하려 한 정황이 있다고 주장했다. 일반적으로 기업이 사고 책임을 인정하고 사과하는 것과 달리 쿠팡은 쿠폰 행사 등을 통해 사태를 덮으려 했다고도 했다. 그러면서 1인당 30만원의 손해배상과 함께 징벌적 손해배상도 인정돼야 한다고 했다.&lt;br&gt;&lt;br&gt;반면 쿠팡 측은 “구체적인 개인정보 침해 여부는 개인정보보호위원회 조사 결과를 기다려야 한다”며 “조사 결과에 따라 과징금이 부과되면 행정소송을 제기할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이에 이용자 측은 “행정소송이 끝날 때까지 묵비권을 행사하겠다는 것이냐”며 “신속한 재판 진행이 피해 구제의 일환”이라고 맞섰다. 또 이용자들에게 보낸 개인정보 유출 통지 내역과 이메일 원본 등을 제출해 달라고 요구했다.&lt;br&gt;&lt;br&gt;재판부는 양측의 입장 차이가 크다고 보고 향후 기일 진행 방식과 자료 제출 계획 등에 대한 의견을 서면으로 제출받아 검토하기로 했다. 다음 변론기일은 다음 달 17일로 잡혔다.&lt;br&gt;&lt;br&gt;쿠팡 이용자들을 대리하는 이은우(법무법인 지향) 변호사는 재판 뒤 기자들과 만나 “최초 소장에서는 개인정보 유출 사고만 문제 삼았는데 그 이후 (쿠팡의) 기망 행위 등을 2차 불법 행위로 보고 그 내용까지 추가했다”며 “’징벌적 손해배상’으로 청구 취지를 변경하는 방안도 고려 중”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 쿠팡 침해사고 민관합동조사단 조사에 따르면, 지난해 11월 말 쿠팡 ‘내 정보 수정 페이지’에서 이용자 이름과 이메일 등 개인정보 3367만여 건이 유출됐다. 또 ‘배송지 목록 페이지’에서는 이름과 전화번호, 배송지 주소와 함께 비식별 처리된 공동현관 비밀번호 등이 포함된 개인정보가 1억4800만여 차례 조회된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>희생과 헌신을 기록하다··· 제2회 경상남도 한마음 인류애상 시상식 </title>
+      <link>https://www.chosun.com/national/2026/03/13/GYX26ST7JJEW7KVRDDG5BBLKIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/13/GYX26ST7JJEW7KVRDDG5BBLKIY/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 10:57:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VWVU7PMIJBWXEAXPSNALOKQKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 열린 '제2회 경상남도 한마음 인류애상 시상식'. /창원한마음병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한마음국제의료재단 창원한마음병원은 13일 오전 그랜드 머큐어 앰배서더 창원 호텔에서 ‘제2회 경상남도 한마음 인류애상’ 시상식을 열고, 우리 사회의 귀감이 된 10명의 개인 및 기관에 상을 수여했다.&lt;br&gt;&lt;br&gt;작년에 제정된 ‘경상남도 한마음 인류애상’은 보이지 않는 곳에서 이웃을 위해 헌신하고 인류애를 실천해 온 경남 지역의 ‘숨은 영웅’들을 발굴해 그 정신을 기리는 상이다. &lt;br&gt;&lt;br&gt;2회째를 맞은 올해는 특히 공익을 위해 목숨을 바친 순직자와 평생 봉사에 매진한 이들을 수상자로 선정해 의미를 더했다.&lt;br&gt;&lt;br&gt;영예의 대상은 작년 산청·하동 산불 등 재난 상황에서 도민의 안전을 지키기 위해 사투를 벌여온 ‘경상남도 소방본부’가 차지했다. 최우수상은 ‘진주의 슈바이처’로 불리며 평생 소외계층을 위해 인술(仁術)을 펼치다 작고한 고(故) 이영곤 원장에게 돌아갔다.&lt;br&gt;&lt;br&gt;우수상은 작년 산청 산불 진화 작업 중 순직한 고(故) 강진우 창녕군 주사보가 받았다. 또 이재민을 위해 헌신한 고(故) 최부윤 대한적십자사 고성군협의회 회원이 공동 수상했다. 이들은 각자의 자리에서 책임을 다한 숭고한 희생 정신으로 참석자들에게 깊은 울림을 줬다는 평가를 받았다.&lt;br&gt;&lt;br&gt;또 강현태 김해중부경찰서 경장, 신정찬 성민보육원 대표이사, 왕향순 창원복지봉사협의회 이사, 강기철 경남사회복지공동모금회 전임회장, 황인해 대한적십자사 봉사회 봉사원, 임성준 창원감계우체국 집배원 등이 우수상을 받았다. &lt;br&gt;&lt;br&gt;하충식 한마음국제의료재단 의장은 “인류애상은 우리 사회 숨은 영웅들의 헌신과 희생을 결코 잊지 않겠다는 우리 모두의 약속”이라며 “그분들이 남긴 헌신의 흔적을 소중히 받들어 인류애의 가치를 사회 곳곳에 확산하는 데 앞장서겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 경상남도 한마음 인류애상은 지난 2024년 제정돼 올해로 2회째를 맞았다. 대상 수상자에게 1000만원, 최우수상 500만원, 우수상 각 200만원의 상금이 수여된다. 재단은 앞으로도 매년 지역 사회의 숨은 공로자를 발굴해 시상할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조희대 ‘법왜곡죄’ 사건, 서울경찰청에 넘겼다</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/13/QGXU2IHNCNCEZJAANKCMW2VAYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/QGXU2IHNCNCEZJAANKCMW2VAYI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 10:39:06 +0000</pubDate>
+      <content:encoded>경찰이 ‘법 왜곡죄 첫 사건’으로 수사 중인 조희대 대법원장과 박영재 대법관의 사건을 13일 서울경찰청 광역수사단에 배당했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRTDGZDGGU2WKOBVMIZDONDBME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부가 사법개혁 3법을 공포·시행한 12일 조희대 대법원장이 서울 서초구 대법원으로 출근하고 있다. 이날 조 대법원장은 이재명 대통령 공직선거법 위반 사건 파기환송 선고와 관련해 법왜곡죄로 경찰청에 고발됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인서부경찰서는 이날 조 대법원장 등에 대한 법 왜곡죄 고발 사건을 서울경찰청 광역수사단에 넘겼다고 밝혔다. 당초 경찰청은 고발인의 주소지 관할에 따라 사건을 처음에는 용인서부서에 배당했지만, 사안의 중대성 등을 고려해 서울청에 사건을 다시 배당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 이병철 변호사는 전날 법 왜곡죄가 시행되자마자 조 대법원장과 박 대법관을 법 왜곡죄로 처벌해달라는 고발장을 경찰과 고위공수처범죄수사처에 제출했다. &lt;br&gt;&lt;br&gt;이 변호사는 대법원이 이재명 대통령의 공직선거법 위반 사건의 상고심을 처리하는 과정에서 법을 의도적으로 잘못 적용했다고 주장했다. 그는 “조 대법원장 등은 형사 사건 재판에 관여하면서 타인의 권익을 해할 목적으로 적용돼야 할 법령을 알면서도 의도적으로 적용하지 않았다”며 “재판 결과에 영향을 미친 중범죄”라고 했다.&lt;br&gt;&lt;br&gt;한편 이 변호사를 향한 맞고발도 제기됐다. 시민단체 서민민생대책위원회는 이날 오후 서울경찰청에 이 변호사를 무고와 명예훼손 혐의로 고발했다고 밝혔다. 서민위는 “법 왜곡죄는 특별한 경우가 아니면 소급 적용이 불가능한데도 이를 고려하지 않은 채 고발이 이뤄졌다”며 “대법원이 사실심이 아닌 법률심이라는 점을 왜곡해 사법부의 신뢰를 훼손했다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대장동 민간업자들, 항소심서 “사실오인·양형부당“...검사는 ”항소기각해달라"</title>
       <link>https://www.chosun.com/national/court_law/2026/03/13/RPTOUWNY4VHQHBUZQ5QV24HYAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/RPTOUWNY4VHQHBUZQ5QV24HYAE/</guid>
@@ -894,15 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMZIE73QOFEOXKZVEQNBCEOQ6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내기 골프 사기 일당이 피해자가 마시던 음료 컵을 향정신성의약품을 탄 음료 컵으로 바꿔치기 하는 모습. /서울경찰청 광역수사단 형사기동대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스크린 골프 내기 중 상대방에게 몰래 마약류 약품을 먹이거나 스크린을 조작하는 수법으로 수천만원을 뜯어낸 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 형사기동대는 사기, 마약류관리법 위반 혐의로 범행을 주도한 50대 남성 A·B씨를 구속 상태로, 공범 7명을 불구속 상태로 검찰에 송치했다고 12일 밝혔다. 이들은 2024년 12월부터 약 3개월간 수도권 일대 스크린 골프장에서 60대 남성 C씨에게 10회에 걸쳐 총 7400여 만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2LY5D5KONGF5ADZOHAKWQHQDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내기 골프 사기 일당이 피해자가 마시던 음료에 향정신성의약품을 타는 모습. /서울경찰청 광역수사단 형사기동대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일당의 범행은 치밀하게 이뤄졌다. A·B씨 등은 골프 동호인 모임이나 골프장 등에서 재력이 있어 보이는 사람을 물색한 뒤, 골프를 매개로 접근해 친밀감을 쌓았다. 사업가인 C씨는 별다른 의심 없이 이들과 판돈을 걸고 내기까지 하는 관계가 됐다.&lt;br&gt;&lt;br&gt;일당은 내기에 앞서 병원에서 향정신성의약품인 ‘로라제팜’을 처방받은 것으로 조사됐다. 로라제팜은 기억상실, 진정·최면 작용, 근육 이완 등의 부작용을 일으킬 수 있어 마약류로 분류된다. 이를 C씨가 마실 음료에 몰래 타거나 약물을 탄 컵으로 바꿔치기해 C씨가 정상적으로 골프를 치기 어렵게 만들었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPUXXSDLIJDOLNZT5UUHGVPLWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일당은 피해자가 공을 타격하는 순간에 맞춰 리모컨 조정으로 스크린 화면을 돌려 공의 방향을 엇나가게 하는 방식으로도 범행을 저질렀다. /서울경찰청 광역수사단 형사기동대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일당은 스크린을 원격 조작하는 수법도 병행했다. USB 수신기를 스크린 골프장 컴퓨터에 미리 설치하고, C씨가 공을 타격하는 순간 리모콘을 조작해 타구가 의도치 않은 방향으로 향하게끔 하는 방식이다.&lt;br&gt;&lt;br&gt;C씨는 내기 때마다 거듭 신체에 이상을 느끼고 저조한 결과가 반복되자 직접 증거를 모았다고 한다. 이를 넘겨받은 경찰은 작년 5월부터 수사에 착수해 일당을 검거했다. 범행을 주도한 A·B씨는 이전에도 유사한 수법으로 처벌받은 전력이 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 추가 피해자가 있는지 확인하기 위해 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대법 “한화오션 경영성과급은 임금 아냐”… 퇴직자들 최종 패소</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/12/G4VDEESRHBEQLFPVJRDZXD7O3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/G4VDEESRHBEQLFPVJRDZXD7O3A/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 01:34:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2TQOLDMFSTKN3GGVQTKMZQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한화오션(구 대우조선해양)의 경영 성과급은 근로의 대가인 임금이 아니어서 퇴직금 산정에서 제외해도 된다는 대법원의 최종 판단이 나왔다. &lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 12일 한화오션 퇴직자 972명이 회사를 상대로 낸 퇴직금 청구 소송 상고심에서 원고 패소로 판결한 원심을 확정했다. 대법원은 “한화오션 경영 성과급의 성과 지표는 영업이익, 경상이익 등 재무 지표”라며 “근로 제공과의 직접·밀접 관련성이 있다고 보기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;한화오션 퇴직자들은 회사가 경영 성과급을 제외한 채 평균임금을 산정해 퇴직금을 지급하자, 성과급을 포함해 재산정한 차액을 지급하라며 2021년 소송을 제기했다. 경영 성과급은 매년 노사 단체협약에 따라 지급돼 왔고, 급여 총액에서 차지하는 비중이 크기 때문에 퇴직금을 계산할 때 포함해야 한다는 주장이었다.&lt;br&gt;&lt;br&gt;반면 한화오션 측은 “성과급은 경영 성과 분배일 뿐 근로의 대가가 아니다”라며 맞섰다. 소송 과정에서 한화오션 측은 회사의 경영 상황이 좋지 않았던 2015~2017년과 2021~2023년에는 경영성과급이 아예 지급되지 않았기 때문에 이를 고정적·정기적 임금으로 볼 수 없다고 주장했다.&lt;br&gt;&lt;br&gt;앞서 1·2심 법원은 “한화오션의 경영 성과급은 근로의 대가라고 보기 어렵다”며 원고 패소로 판결했다. 1심 재판부는 “근로 시간이나 근로의 질이 해마다 크게 차이 나지 않는데도 경영 성과급 액수는 경영 실적에 따라 큰 차이가 났다”며 “근로 제공과 직접적이고 밀접하게 관련된 것으로 보기 어렵다”고 했다. 임금이라기보다 근로자들에 대한 사기 진작이나 복지 차원의 보상으로 판단했다. 대법원 판단도 같았다. &lt;br&gt;&lt;br&gt;최근 대법원 판례를 살펴보면 경영 성과급이 퇴직금 계산에 포함되는 임금인지 여부는 회사별 성과급 지급 기준과 방식에 따라 달라진다. 만약 경영 성과급이 영업이익에 연동되고 경영 악화 시 미지급되는 등 외부 조건에 의존하는 구조라면, 임금에서 제외될 가능성이 크다. 대법원은 지난 1월 삼성전자의 경영 성과급 가운데 사업부 성과를 평가해 정기적으로 지급하는 ‘목표 인센티브’는 임금으로 인정했으나 회사의 초과 이익을 나누는 ‘성과 인센티브’는 임금에서 제외해야 한다고 판단했다. 지난달 SK하이닉스 소송에서도 영업이익에 연동된 경영 성과급을 임금으로 볼 수 없다며 회사 측 손을 들어줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>재판소원 1호 사건은 ‘시리아인 강제퇴거명령 취소소송’</title>
       <link>https://www.chosun.com/national/court_law/2026/03/12/GZ3VX5DFP5BY3LPQ2ARJACUDR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/GZ3VX5DFP5BY3LPQ2ARJACUDR4/</guid>
@@ -910,33 +946,6 @@
       <description/>
       <pubDate>Thu, 12 Mar 2026 02:12:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZUAEQUCZWNJKLMTLRL6UHXBW5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;재판소원 제도가 공포·시행된 12일 서울 종로구 헌법재판소 민원실에 관련 안내문이 게시돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판소원 1호 사건은 시리아 국적 외국인이 강제퇴거명령 취소소송 관련 판결을 취소해 달라며 낸 헌법소원인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;재판소원제 시행 첫날인 12일 첫 사건은 이날 0시 개정 헌법재판소법이 공포·시행된 지 10분 후 접수된 ‘2026헌마639′ 재판취소 사건이었다.&lt;br&gt;&lt;br&gt;청구인은 시리아 국적 외국인으로, 출입국 당국의 강제퇴거명령과 보호명령을 취소해달라며 낸 소송을 법원이 기각한 것에 대해 재판소원을 냈다. 피청구인은 대법원이다.&lt;br&gt;&lt;br&gt;2호 사건은 동해안 납북귀환어부 피해자시민모임이 이날 0시 16분에 접수한 사건이다. 피해자시민모임은 형사보상 지연에 대한 국가배상 청구를 기각한 법원 판결을 취소해 달라며 재판소원을 청구했다. 이들을 대리하는 국가배상소송 대리인단(법무법인 원곡)은 “법정 기한을 현저히 초과한 재판 지연에 대해 국가 책임을 인정하지 않은 법원의 판결이 헌법에 위반되는지를 판단해 달라”고 했다.&lt;br&gt;&lt;br&gt;헌법재판소에 따르면, 이날 오전 9시 기준으로 총 4건의 재판소원 사건이 전자헌법재판센터를 통해 접수됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재판소원 시행 첫날 “형사보상 지연 국가배상 불인정 판결 취소해달라”... 헌재에 접수</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/12/7QBIYJELCVDCDLRZHN3DGC5APA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/7QBIYJELCVDCDLRZHN3DGC5APA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 00:47:00 +0000</pubDate>
-      <content:encoded>재판소원 제도 시행 첫날, 법정 기한을 넘겨 형사 보상 결정을 내린 법원의 배상 책임을 인정하지 않은 판결을 취소해 달라는 재판 헌법소원이 헌법재판소에 접수된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YENZMKW26FA5FAAQBT7CW7AFVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소 전경./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, ‘동해안 납북 귀환 어부 피해자 시민 모임’과 ‘형사 보상 지연 국가 배상 소송 대리인단’은 이날 “형사 보상 결정 지연에 대한 국가 배상 청구를 기각한 법원의 확정 판결을 취소해 달라”는 헌법소원을 헌재에 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;납북 귀환 어부 유족 A씨는 아버지에 대한 재심 무죄 판결이 2023년 확정되자 법원에 형사 보상을 청구했다. 형사 보상은 무죄 판결을 받은 사람이 구금 등으로 입은 피해를 국가가 보상해 주는 제도다. &lt;br&gt;&lt;br&gt;형사보상법은 법원이 청구서를 접수한 뒤 6개월 안에 보상 결정을 내려야 한다고 규정한다. 하지만 이 사건은 14개월 동안 법원의 보상 결정이 나오지 않았고, 피해자 유족 측은 2024년 6월 형사 보상 결정 지연에 대한 손해배상을 청구하는 소송을 냈다. 소송 제기 후 한 달 만에 법원의형사 보상상 결정이 나오자 유족 측은 결정 지연에 따른 지연 이자 700만원을 국가가 배상해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 1·2심 법원은 모두 원고 패소로 판결했다. 1심 재판부는 형사보상법상 ‘6개월 결정 기한’은 강제 규정이 아니라 권고 규정에 불과하다고 판단했다. 2심 재판부는 법관의 재판 행위에 대해 국가 배상 책임을 인정하려면 단순한 법 위반으로는 부족하고 명백한 권한 남용 등 특별한 사정이 있어야 한다는 대법원 판단을 근거로 들었다. 이 사건은 소액 사건이라 대법원 상고가 허용되지 않아 원고 패소 판결이 지난달 20일 확정됐다.&lt;br&gt;&lt;br&gt;유족 측 대리인단은 “법정 기한을 현저히 넘긴 재판 지연에도 국가 책임을 인정하지 않는 구조는 문제”라며 “헌법소원을 통해 헌재가 이 판결의 위헌 여부를 판단해달라”고 했다.&lt;br&gt;&lt;br&gt;정부는 이날 0시 확정된 법원 판결에 대해 헌법소원을 허용하는 개정 헌법재판소법을 관보를 통해 정식 공포했다. 재판소원법은 공포 즉시 시행됐다. 헌재는 시행과 동시에 전자헌법재판센터를 통해 접수를 받기 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엄마 한 번만 살려달라”…北 주민 강제북송 중단 촉구 기자회견</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/SCCHJO56RVHHBDFHNFFBLSFMJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/SCCHJO56RVHHBDFHNFFBLSFMJI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 02:02:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWGGD62GRJAZNNRCXCIFJGL6KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 중구 주한 중국대사관 인근에서 국제앰네스티 한국지부 등 시민단체가 중국 정부의 북한 주민 강제북송 중단을 촉구하는 기자회견을 열고 있다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국에서 체포된 탈북민들을 북한으로 강제 송환하는 관행을 중단해야 한다는 목소리가 커지고 있다. 탈북민들은 중국 공안에 체포된 뒤 국경 지역 구류 시설에서 폭행과 가혹 행위를 겪고, 북한으로 송환된 뒤에도 구금과 고문 등 심각한 인권 침해를 당했다는 증언이 잇따르고 있다.&lt;br&gt;&lt;br&gt;국제 앰네스티 한국 지부 등 시민단체는 12일 서울 중구 주한 중국대사관 인근에서 기자회견을 열고 “중국 정부는 탈북민 강제 북송을 즉각 중단하라”고 촉구했다.&lt;br&gt;&lt;br&gt;국제 앰네스티는 중국 정부의 탈북민 강제송환 행위가 강제 송환위반 소지가 있다고 지적했다. 단체는 “중국이 자국 내 체류하는 북한 주민을 북한으로 돌려보내는 것은 국제법상 강행 규범인 ‘강제 송환 금지 원칙’을 위반하는 것”이라고 밝혔다. 이 원칙은 고문이나 심각한 인권 침해 위험이 있는 국가로 개인을 강제 돌려 보내서는 안 된다는 국제 인권법의 핵심 원칙이다.&lt;br&gt;&lt;br&gt;또한 중국이 ‘1951년 난민의 지위에 관한 협약’과 ‘고문방지협약(고문 및 그 밖의 잔혹한, 비인도적인 또는 굴욕적인 대우나 처벌의 방지에 관한 협약)’의 당사국인 만큼, 고문 위험이 있는 국가로 사람을 송환하지 않을 의무가 있다고 강조했다.&lt;br&gt;&lt;br&gt;이날 기자회견에서는 중국에서 체포된 어머니의 소식을 전하는 탈북민 김금성(22) 씨의 증언도 공개됐다. 김 씨에 따르면 그의 어머니는 한국으로 오기 위해 이동하던 중 미얀마 국경 인근에서 체포되어 현재 구치소에 구금되어 있다.&lt;br&gt;&lt;br&gt;김 씨는 “어머니가 ‘너를 보러 가겠다’고 말한 다음 날 체포됐고, 그 말이 마지막 연락이었다”며 “직접 연락할 방법이 없는 상황에서 약 2주 전 지인을 통해 구치소 교도관과 연결되어 20분간 영상 통화를 할 수 있었다”고 전했다. 이어 “어머니의 안색이 매우 좋지 않았고, 주로 건강 상태에 대해 이야기했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;2020년 탈북해 한국에 정착한 김 씨는 “한국에 온 뒤 1년 반 정도 연락이 끊겼었지만, 이후 5년 동안은 영상 통화를 하며 지내왔다”고 말했다. 그는 “한 번만 살려 달라. 평범하게 살 기회를 한 번만 더 달라”며 “한국에 오지 못하더라도 다시 가족 곁에서 살 수 있게만 해달라”고 호소했다.&lt;br&gt;&lt;br&gt;본지는 앞서 중국 당국이 탈북민들을 국경 지대 구류 시설에 가둔 뒤 북한으로 강제 송환하는 구조와, 북송 이후 반복되는 인권 침해 실태를 보도한 바 있다(3월 2일 자 A12면). &lt;br&gt;&lt;br&gt;중국 공안은 탈북민 체포 시 법적 절차를 고지하지 않고 수감하며, 일정 인원이 모이면 북한 당국에 인계하는 방식으로 송환을 진행한다는 내용 등이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘20개월 딸 영양결핍 사망’ 친모 검찰 송치… 초등생 큰딸 방임 혐의도 추가</title>
-      <link>https://www.chosun.com/national/incident/2026/03/12/K3OD7BG54BHHNO6UTPFCTBWLMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/12/K3OD7BG54BHHNO6UTPFCTBWLMU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 01:38:21 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQQZ476VURPFXPLYVISRT24RNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생후 20개월 된 딸을 방임해 숨지게 한 혐의를 받는 친모 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 생후 20개월 된 딸을 제대로 돌보지 않아 숨지게 한 혐의로 구속한 친모 A씨에게 방임 혐의도 추가해 검찰에 송치했다. &lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대 치사와 아동복지법상 아동 방임 등 혐의로 A(30)씨를 검찰에 송치했다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 최근 인천시 남동구의 한 빌라에서 생후 20개월 된 딸 B양을 방임해 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;국립과학수사연구원은 B양의 시신을 부검하고 “영양결핍으로 인한 사망으로 추정된다”는 1차 구두 소견을 경찰에 전달했다. &lt;br&gt;&lt;br&gt;A씨는 숨진 B양뿐만 아니라 올해 초등학교에 입학한 첫째 딸 C양의 양육을 소홀히 한 혐의도 받는다. &lt;br&gt;&lt;br&gt;아동학대 치사 혐의로 A씨를 구속한 경찰은 추가 수사 과정에서 A씨의 집 안 환경 등이 C양을 키우기에 적절하지 않은 수준이라고 보고, 방임 혐의를 추가했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 자신의 잘못으로 B양을 숨지게 했다며 혐의를 인정한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;남편 없이 딸 둘과 함께 살았던 A씨는 기초생활수급자이자 한부모가족으로, 생계 급여와 부모 수당 등 월 300여만원의 지원을 받은 것으로 나타났다. 또 식료품과 생필품을 지원하는 ‘푸드마켓’에서도 식재료와 음료수 등을 매달 가져간 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김호중 방지법’에 꼬리 내린 이재룡...다른 거짓말은? </title>
@@ -949,15 +958,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5UV34YSXA5FQXP3WVY5PLMCRMA.png?auth=186def8ed5ff2277324524585dccdd8abcf4da79ec68dc6a99615b8812cc96ab&amp;smart=true&amp;width=1920&amp;height=1080" type="image/png" height="1080" width="1920">
         <media:description type="plain">그래픽=조선디자인랩 김연주·Midjourney</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>20만원 콘서트 티켓 500만원에 되팔아</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/45624C5SCZCRVILAWUIMTFALDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/45624C5SCZCRVILAWUIMTFALDE/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2YCW7QJN5AMVH5QW3RFCON7DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;암표 유통 구조도./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6LQVBFHWZHMBFT4GGW2BV2AHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;암표 좌석 및 가격표./ 경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기북부경찰청은 매크로 프로그램을 돌려 K팝 공연 티켓을 대량 예매한 뒤 최대 25배 비싼 가격에 되판 암표 거래 일당 16명을 입건했다고 11일 밝혔다. A(28)씨 등은 2022년 10월부터 올 1월까지 K팝 공연 티켓 3만3000장을 해외 암표상 등에 되판 혐의를 받고 있다. 경찰이 확인한 공연만 190여 건, 판매한 금액은 총 71억원이다. 이들은 작년 8월 인천에서 열린 ‘세븐틴’ 월드투어 VIP 티켓(20만원)을 500만원에 판매했다. 작년 7월 ‘블랙핑크’ 월드투어 VIP 티켓(20만원)은 400만원에 거래됐다. &lt;br&gt;&lt;br&gt;유명 아이돌의 공연 티켓은 보통 순식간에 마감되는데 다양한 매크로 프로그램을 이용해 선점한 것으로 조사됐다. 매크로는 마우스 클릭 등 반복 작업을 자동으로 해주는 프로그램이다. &lt;br&gt;&lt;br&gt;기획사들은 암표를 막기 위해 공연장에서 예매한 사람의 신분증을 확인하고 있지만 ‘정부24’ 앱과 비슷한 프로그램을 개발해 무력화한 것으로 조사됐다. 경찰은 “암표를 산 사람은 이 프로그램을 이용해 위조 모바일 신분증을 제시하고 입장했다”고 했다.&lt;br&gt;&lt;br&gt;이들은 소셜미디어에 단체 대화방을 만들어 예매 사이트의 보안 정책, 암표 시세, 경찰 단속 상황 등을 공유한 것으로 조사됐다. 대화방 회원은 1309명으로 파악됐다. 경찰 관계자는 “A씨 등 주범들은 IT(정보통신) 업체 출신으로 매크로 프로그램을 직접 만들어 쓸 정도로 실력이 뛰어났다”고 했다. 문화체육관광부는 오는 21일 방탄소년단(BTS)의 컴백 공연을 앞두고 암표 감독을 강화한다고 밝혔다. BTS 소속사 하이브는 12일 오후 8시 온라인 티켓 예매 사이트 ‘놀(NOL) 티켓’에서 추가 예매를 진행한다. 총 7000석 규모로 1인당 한 장만 살 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원에 간 소아과 교수 “병원 밖에도 의사 의무 있다”</title>
