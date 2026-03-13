@@ -13,6 +13,104 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>징역형 확정에 재판소원 청구 예고 ...  ‘쯔양 공갈’ 구제역 측 “李대통령께 감사할 뿐”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/WT4HZRPRY5AI3FEHQSWJGEHXTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/WT4HZRPRY5AI3FEHQSWJGEHXTY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 07:29:38 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAVP24PXE5ANDJUOJ6YAZRYSTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 구제역(왼쪽)과 구제역 측 변호인이 공개한 위임장./ 뉴스1·페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 쯔양(본명 박정원)을 협박해 수천만원을 갈취한 혐의로 징역 3년이 확정된 유튜버 구제역(본명 이준희)이 재판소원 청구와 법 왜곡죄 고소를 예고했다.&lt;br&gt;&lt;br&gt;구제역 측 변호인 법무법인 황앤씨 김소연 변호사는 12일 페이스북에 쯔양 공갈 혐의 사건과 관련해 “오늘 상고 기각됐다. 이준희로부터 미리 재판소원 및 법 왜곡죄 고소 등에 관해 사건 위임을 받았다”고 밝혔다. &lt;br&gt;&lt;br&gt;김 변호사는 “증거능력, 증거 판단 등에서 위헌적인 수사와 재판을 바로잡을 수 있도록 사법 개혁 3법을 추진한 민주당과 이재명 대통령께 감사할 뿐”이라며 “이 사건의 실체를 밝히고 잘못된 부분을 바로잡기 위해 최선을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 변호사가 공개한 구제역의 손편지에는 “재판소원 관련한 모든 권한을 변호사님께 위임하겠다. 부디 이번 재판소원을 통해 저의 억울함을 밝혀주시기를 부탁드린다”고 적혔다.&lt;br&gt;&lt;br&gt;앞서 12일 0시에 기해 확정된 법원 판결에 대해 헌법소원을 제기할 수 있도록 한 재판소원(개정 헌법재판소법)과 법을 왜곡해 적용한 판·검사를 처벌하는 법 왜곡죄(개정 형법)가 정식 공포됐다. &lt;br&gt;&lt;br&gt;헌법소원은 국가기관 행정처분 등 공권력이 국민 기본권을 침해했는지를 따지는 절차로, 기존에는 법원의 재판은 심판 대상에서 제외됐었다. 이날 개정 법이 시행되면서 확정 판결이 ▲헌재 결정에 반하거나 ▲헌법·법률이 정한 적법한 절차를 거치지 않았거나 ▲헌법·법률을 명백히 위반해 기본권을 침해한 경우 재판 확정일로부터 30일 이내 헌법소원심판을 청구할 수 있다. &lt;br&gt;&lt;br&gt;구제역은 유튜버 주작감별사(본명 전국진)와 함께 2023년 2월 쯔양에게 “탈세와 사생활 관련 의혹을 제보받았다. 돈을 주면 이를 공론화하지 않겠다”는 취지로 겁을 주고 5500만원을 갈취한 혐의로 2024년 8월 구속기소 됐다.&lt;br&gt;&lt;br&gt;작년 2월 1심은 구제역의 혐의 대부분을 유죄로 인정해 징역 3년을 선고하고 법정 구속했다. 같은 해 9월 2심은 “죄질이 좋지 않고 피해액이 상당하다”며 항소를 기각했다. 대법원 2부(주심 천대엽 대법관)는 이날 원심 판단에 오류가 없다고 보고 형을 확정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G2YW5OQ3BBGPHD4GYJ3SKZESD4.jpg?auth=ace1f97bc4b2857b5fca0fa6b4b33793492db7ea2cdb70879ae359fb95c9e31d&amp;smart=true&amp;width=501&amp;height=376" type="image/jpeg" height="376" width="501">
+        <media:description type="plain">유튜버 구제역(왼쪽)과 구제역 측 변호인이 공개한 위임장./ 뉴스1·페이스북</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>90대 노모 살해한 60대 딸, 첫 공판… “국민참여재판 안 한다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/13/ZYKM6LO6KVEXBO7YINQMUROYQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/ZYKM6LO6KVEXBO7YINQMUROYQU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 06:38:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7HCBNJS3VLAXF6QDEZ7QEERKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;90대 노모를 살해한 혐의를 받는 60대 딸과 범행을 방조한 혐의를 받는 사위./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;90대 노모를 때려 살해한 딸과 증거를 인멸하고 범행을 방조한 사위에 대한 첫 재판이 13일 인천지법에서 진행됐다. &lt;br&gt;&lt;br&gt;인천지법 형사17부(재판장 조세진)는 13일 존속살해 혐의로 구속 기소된 60대 여성 A씨와 존속살해 방조와 증거인멸 혐의로 구속 기소된 A씨의 남편인 60대 B씨에 대한 공판준비기일을 진행했다. &lt;br&gt;&lt;br&gt;A씨와 B씨 측은 검찰의 공소사실에 대한 인정 여부를 묻는 재판장의 질문에 “검토 등이 아직 마무리되지 않았다”는 이유로 다음 기일에 밝히겠다는 입장을 밝혔다. 국민참여재판은 하지 않겠다고 했다. &lt;br&gt;&lt;br&gt;A씨는 연녹색 수의를 입고 흰색 단발머리에 검은색 머리띠를 한 모습으로 법정에 들어섰다. 직업을 묻는 재판장 질문엔 “가정주부”라고 답했다. B씨는 짙은 녹색 수의를 입고 마스크를 쓴 채 법정에 섰다. 직업은 “건설직”이라고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 1월 20일 낮 12시쯤 인천 부평구 자택에서 90대 노모 C씨를 여러 차례 때려 사흘 뒤 숨지게 한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 평소 쌓인 감정과 불만으로 C씨를 폭행해 쓰러지게 하고, 의식을 잃은 C씨를 방으로 옮겨 사흘간 방치해 숨지게 한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;국립과학수사연구원은 앞서 숨진 C씨의 시신을 부검하고, “다발성 골절로 인한 치명상이 추정된다”는 1차 구두 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;B씨는 아내의 폭행을 방조하고 C씨를 구조하지 않고, 범행 증거를 인멸한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “가정사 때문에 어머니를 폭행했다”며 혐의를 인정한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>처음 본 여성 차량에 침입해 강도질한 40대 구속 </title>
+      <link>https://www.chosun.com/national/regional/2026/03/13/QMRCVH6W7ZEHDB6L2VX3FAV65Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/13/QMRCVH6W7ZEHDB6L2VX3FAV65Q/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 08:23:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사채를 갚기 위해 대낮에 아파트 주차장에서 처음 본 여성을 상대로 금품을 훔치려다 도망친 40대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;대전중부경찰서는 강도상해 혐의로 40대 A씨를 구속했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오후 3시 40분쯤 대전 중구의 한 아파트 주차장에서 50대 여성 B씨가 차를 타고 문을 닫으려는 순간에 급습해 B씨의 금품을 빼앗으려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 위력으로 B씨를 조수석 의자 쪽으로 눕히고 손으로 입을 틀어막는 등 B씨를 제압했던 것으로 조사됐다. 이 과정에서 B씨는 전치 2주의 상해를 입었다.&lt;br&gt;&lt;br&gt;B씨가 소리를 지르고 발버둥을 치면서 강하게 저항하자 A씨는 범행을 포기하고 도망쳤다.&lt;br&gt;&lt;br&gt;B씨 남편의 신고로 출동한 경찰은 4시간 만에 거주지 인근에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “B씨와 모르는 사이였고, 사채를 갚으려고 범행했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“피의자 거짓 서사에 놀아난 검찰, 개가 웃을 일”이라는 유튜버에 검찰 “사실과 맞지 않는 주장” 재반박</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/R4GAIKK7NVA33JLORWP3WJZKRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/R4GAIKK7NVA33JLORWP3WJZKRM/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 08:18:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQTCMZUMNRWKNLFGBRGCYZUGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘강북 약물 연쇄살인 사건’ 피의자 김소영(20)의 범행 동기를 가정불화로 꼽은 것을 두고 배상훈 프로파일러 겸 유튜버가 “개가 웃을 일”이라고 비판했는데, 13일 검찰이 “사실과 맞지 않는 주장”이라며 이를 재반박하고 나섰다.&lt;br&gt;&lt;br&gt;배 프로파일러는 지난 10일 자신의 유튜브 채널에서 검찰 수사에 대해 “김소영이 제멋대로 떠든 이야기를 검찰이 분석 없이 공소장에 갖다 붙인 것이다. 범죄자의 거짓 서사를 그대로 복제한 한심한 수준”이라고 주장했다. 그는 그러면서 “아동학대를 당했다고 해서 모두가 자기중심적 기질을 갖거나 연쇄살인범이 되는 것이 아니다. 학대 때문에 사이코패스가 됐다는 식의 논리는 전 세계적으로도 유례를 찾기 힘든 황당한 소리”라며 “(검찰이) 경찰로부터 넘어온 사이코패스 점수를 보고 내용을 역설계해 끼워 맞춘 수준에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 서울북부지검 형사2부(부장 김가람)는 김소영을 구속 기소하면서 “이 사건은 가정불화로 정서적 사회화가 온전히 이뤄지지 못하고 자기중심적 기질이 강한 김씨가 자신의 소비 욕구와 경제적 만족을 위해 남성을 이용하고, 이후 갈등 상황을 손쉽게 회피하거나 남성을 제압하기 위해 약물을 사용해 살해한 이상 동기 범죄”라며 “김씨는 어린 시절 부친으로부터 지속적인 음주 폭행과 폭언에 노출됐다”고 설명했었다.&lt;br&gt;&lt;br&gt;검찰은 배 프로파일러의 주장을 재반박하는 입장문을 내고 “검찰은 전문가들의 범죄심리 분석, 정신의학·법의학 자문, 대검 과학수사부의 통합심리분석 등 감정 및 자문 결과를 바탕으로 객관적이고 종합적으로 판단해 사건을 규명했다”며 “전직 경찰관 유튜버의 자극적이고 선동적이고 사실과 맞지 않는 주장이 확인 과정 없이 그대로 보도될 경우 향후 진행될 재판에서 오판의 빌미를 제공하는 악영향을 미칠 뿐만 아니라 이 사건과 관련한 전문가들의 명예도 훼손할 수 있다”고 지적했다. 또 검찰은 “이상 동기 강력범죄에 엄정하게 대처함과 동시에 수사에 대한 사실과 맞지 않는 주장에 대해서도 (앞으로) 적극적으로 대응할 예정”이라고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구시, 자동차 탄소중립포인트제 참여 운전자 모집</title>
+      <link>https://www.chosun.com/national/regional/2026/03/13/CPNYYZLU4JECHN5VAABYOKLUC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/13/CPNYYZLU4JECHN5VAABYOKLUC4/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 08:14:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2IL6UKUANBV3DEL2GF7O56YTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격동 청사 전경. /대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 자동차 주행거리를 줄이면 최대 10만원의 인센티브를 지급하는 ‘자동차 탄소 중립 포인트제’ 참여자를 모집한다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;신청은 자동차 탄소 중립 포인트제 홈페이지(car.cpoint.or.kr)에서 하면 된다. 기간은 16~26일로, 선착순 6160명까지 신청을 받는다. &lt;br&gt;&lt;br&gt;신청 대상은 전기, 수소 등 친환경 차량을 제외한 12인승 이하 비사업용 승용·승합 자동차 소유자로, 1인당 차량 1대만 가능하다. &lt;br&gt;&lt;br&gt;참여 신청 때 차량 정보를 등록하고 차량 번호판과 계기판 사진을 촬영해 제출하고, 이후 사업 종료 시 최종 주행거리를 제출하면 누적 주행거리를 비교해 감축 실적을 산정한다. 주행거리 감축 실적은 차량의 과거 운행 자료를 기반으로 산정된 기준 주행거리 대비 실제 운행거리 감소분을 기준으로 감축률 또는 감축량을 산정해 2만원에서 최대 10만원의 인센티브를 차등 지급한다. &lt;br&gt;&lt;br&gt;지난 해에는 4859명이 참여해 이 중 3023명이 주행거리 감축을 달성해 총 2억2000만원(평균 7만3000원)의 인센티브를 받았다. 시민의 차량 운행 감축 노력으로 약 1132t의 온실가스를 감축하는 성과를 거뒀다고 대구시는 밝혔다. &lt;br&gt;&lt;br&gt;김정섭 대구시 환경수자원국장은 “자동차 탄소중립포인트제는 시민들이 일상에서 손쉽게 참여할 수 있는 대표적인 탄소중립실천제도”라며 “주행거리 감축이라는 작은 실천이 모이면 도시 전체의 온실가스 감축과 가계 유류비 절감에도 큰 도움이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>합천에 새겨진 5만 년 전 ‘우주의 흔적’··· 국가지질공원 도전한다 </title>
+      <link>https://www.chosun.com/national/2026/03/13/I7EFQ42TIVGV5J3MRKOG2QMNR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/13/I7EFQ42TIVGV5J3MRKOG2QMNR4/</guid>
+      <dc:creator>합천=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 06:18:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3J2MLU4PSFGADA4777M2AC3O4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;높이 200~600m 산들에 둘러싸인 경남 합천군 초계분지의 모습.(드론 360도 파노라마 촬영을 이용한 변형 사진) /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 오후 경남 합천군 초계면 대암산 정상(591m). 산 아래를 쳐다보니 그릇처럼 움푹 파인 분지 지형이 넓게 펼쳐졌다. 주변엔 높이 200~700m 산봉우리들이 울타리처럼 둘러싸고 있어 커다란 세숫대야 같았다. 합천군 적중면·초계면에 걸친 지름 7㎞의 이 분지는 한반도에서 유일하게 공식 인정받은 운석 충돌구(Impact Crater)다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAXB4JTAINGRRIPIK4AUJDJG2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구글 어스로 본 합천운석충돌구인 초계분지. /구글어스 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합천군은 이 운석 충돌구를 앞세워 국가지질공원 인증에 나선다. 최종 목표는 유네스코 세계지질공원 등재다. 운석 충돌구로 세계지질공원에 등재된 곳은 세계에서도 독일과 핀란드 외엔 없다. &lt;br&gt;&lt;br&gt;한국지질자원연구원에 따르면 합천 운석 충돌구는 약 5만년 전 지름 200m 이상의 운석이 초속 18㎞로 떨어지면서 생겼다. 깊이 142m까지 파서 암반을 분석해 운석 충돌로 생기는 원뿔형 암석 구조를 확인했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXLYFG25WJDUJEL3XDBWZHBNNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;합천운석충돌구 시추코어 130m 심도에서 확인된 충격원뿔암(shatter cone). /한국지질자원연구원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충격 원뿔암(shatter cone)이다. 운석 충돌 때 발생하는 강한 충격파로 인해 기존 암석과 광물 속에는 흔적이 남게 되는데, 전 세계적으로 가장 확실하게 인정받는 증거물이다. 이 같은 연구 결과는 2020년 12월 지질학 국제 학술지 ‘곤드와나 리서치(Gondwana Research)’에 실렸다. 이후 전 세계 학계에서 인정하는 200여 운석 충돌구 중 하나로 꼽힌다. 동아시아에서는 지난 2010년 중국 슈엔 운석 충돌구 다음으로 두 번째로 발견됐다. &lt;br&gt;&lt;br&gt;지난 2024년 부산에서 열린 세계 최대 규모 지질과학 분야 학술 행사인 ‘2024 세계지질과학총회(IGC)’에서 합천운석충돌구는 세계에서 온 지질학자들의 많은 관심을 받았다. &lt;br&gt;&lt;br&gt;합천 운석 충돌구의 과학적 증거를 최초로 규명한 한국지질자원연구원 임재수 박사는 작년 11월 합천에서 열린 ‘제2회 국제 학술 포럼’에서 “전 세계 202개 공식 등록된 운석 충돌구 중 합천 운석 충돌구는 아시아에서 가장 젊고 호수 퇴적층 보존 상태가 가장 우수한 충돌구”라며 “지구 내부 구조 변화, 열수 작용, 퇴적층 발달 등 행성 충돌 이후 지질 진화를 연구할 수 있는 행성 지질 실험실로서 학술적 가치를 지닌다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4U3DCUUYWFBEZCSBK6L25Y6A5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;높이 200~600m 산들에 둘러싸인 경남 합천군 초계분지의 모습. 약 5만 년 전 최소 지름 200m에 달하는 운석이 떨어져 만들어진 분지로, 동서로 약 8km, 남북으로 약 5km 규모의 크기다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합천군은 이달 중 한반도 유일의 운석 충돌구를 포함해 합천군 전역(983.51㎢)을 국가지질공원 후보지로 신청할 계획이다. 국가지질공원은 지질학적으로 가치 있는 지역을 보전하면서 교육과 관광에 활용하기 위해 기후에너지환경부가 인증하는 제도다. 제주도, 울릉도·독도, 한탄강, 경북 청송 등 전국 16곳이 국가지질공원으로 인증받았다. 경남에서는 지금까지 인증받은 곳이 없다.&lt;br&gt;&lt;br&gt;군은 운석 충돌구를 대표로, 총 12곳의 지질 명소를 발굴했다. 대표적으로 한반도에서는 드물게 합천 가야천 일원에 발견되는 회장암이 포함됐다. 회장암은 달의 표면에서 채취한 돌과 성분이 거의 같아 희귀한 지질 자원으로 꼽힌다. 차별적인 침식과 풍화 작용 등으로 마치 탑처럼 우뚝 솟은 형태의 기암괴석인 해인사 일원 토르(tor), 퇴적암층인 셰일(shale) 지대에 형성된 국내 유일 셰일 동굴인 쌍책면 배티셰일동굴, 황매산 자락의 거대한 바위 봉우리인 모산재(767m) 등도 합천군이 자랑하는 지질 명소다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHX7QTDO55GUDKQMHACI64AFJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 합천군 가야천의 회장암과 암맥군. /합천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합천군은 지질 명소 12곳에 대한 기초 학술 조사 및 타당성 조사를 진행하면서, 지난 2월부터 지역 주민을 대상으로 국가지질공원 인증 공감대 형성을 위한 설명회를 열고 있다. 합천군 관계자는 “국가지질공원은 별도의 행위 제한이나 재산권 행사 제약 등이 없기 때문에 주민들에게 이런 부분에 대해서 적극적으로 설명하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DITDQRKPPVE3XENLBDU4F3GUJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 합천군 황매산 모산재. /합천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합천군은 또 지질 관광의 허브 역할을 할 ‘합천운석충돌구 거점센터’도 건립 중이다. 59억원이 투입되는 이 센터는 초계면 일원에 연면적 961㎡ 규모로 조성되며 오는 12월 정식 개관을 목표로 하고 있다. 한국지질자원연구원과는 합천운석충돌구의 가치를 높이고 지속가능한 발전 방향을 찾기 위해 국내외 지질학자를 모은 국제학술포럼도 열고 있다. &lt;br&gt;&lt;br&gt;김윤철 합천군수는 “전 세계적으로도 매우 희귀한 운석충돌구 등 소중한 지질 유산으로 합천을 글로벌 지질 관광의 중심지로 만들어 나가겠다”며 “향후에는 유네스코 세계지질공원 등재도 추진할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 14일 토요일 (음력 1월 26일 丁亥)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/13/5CZMPXBZKFD7FHOZUTCJTVPYNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/5CZMPXBZKFD7FHOZUTCJTVPYNE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>“늘봄학교 확대 취소” 연말에 갑작스런 통보… 학부모 발동동</title>
+      <link>https://www.chosun.com/national/education/2025/12/22/RKMFUFRX6JCJTENNZZRNLGNAV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/22/RKMFUFRX6JCJTENNZZRNLGNAV4/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 15:46:00 +0000</pubDate>
+      <content:encoded>내년에 초등학교 3학년 학생이 되는 자녀를 키우는 서울의 직장인 유모(41)씨는 최근 가정통신문을 받아보고 부랴부랴 아이를 맡길 학원을 찾아보고 있다. 통신문에 내년 3학년은 늘봄학교 이용이 어렵다고 적혀 있었기 때문이다. 유씨는 “내년부터는 초등학생 전 학년이 늘봄학교를 이용할 수 있다고 해서 철석같이 믿고 있었다”며 “연말에 갑자기 이런 공지를 하면 맞벌이 부부는 아이를 어디에 맡기라는 것이냐”고 했다.&lt;br&gt;&lt;br&gt;‘돌봄 공백’ 문제를 해결하기 위해 윤석열 정부가 도입한 늘봄학교 사업을 이재명 정부가 사실상 철회하면서 학부모들의 고민이 커지고 있다. 늘봄학교는 희망하는 모든 초등학생을 오전 7시부터 최대 오후 8시까지 학교가 책임지고 돌본다는 취지로 2023년 시범 사업을 시작했다. 교육부는 2024년 초1 전원, 2025년 초 1·2 전원으로 사업을 확대했다. 지난 3월 기준 전체 초1~2의 81.3%(55만2000명)가 이용할 정도로 호응도가 높았다. 내년부터 초등학교 전 학년으로 대상을 확대할 계획이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7OE36UYAVH3FHUQGD4UFAHLZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 교육부는 이런 계획을 바꿔 내년에도 초1·2학년만 대상으로 늘봄학교를 진행하기로 최근 결정했다. 대신 초3 학생들에겐 연간 50만원의 ‘방과후 프로그램’ 이용권을 제공하기로 했다. 교육부 관계자는 “3학년부터는 늘봄학교보다 영어·수학 등 교과 위주인 ‘방과후 프로그램’을 선호하는 경향이 있어 정책 방향을 선회한 것”이라고 했다. 3학년 이상 학생들까지 학교에 남아 있으면 교직원의 업무 부담이 커진다는 것도 주요 이유였다. 현 정부는 학교보다 ‘지자체’가 중심이 돼 학생을 돌보는 ‘온 동네 초등돌봄’을 국정과제로 추진하고 있다. 특히 올 초 늘봄학교 강사를 파견하던 보수 성향 교육 단체 리박스쿨이 ‘대선 댓글 조작’ 의혹에 휩싸이면서 늘봄학교도 정치 공방에 휘말렸다. &lt;br&gt;&lt;br&gt;정부의 갑작스러운 정책 뒤집기로 올해 늘봄학교를 이용한 초2 학생 27만여 명은 내년엔 다른 대안을 찾아야 한다. 초2 자녀를 둔 최모(38)씨는 “3학년도 아직 어려서 돌봄이 필요할 나이인데 학교만큼 믿고 맡길 수 있는 곳이 어디 있겠느냐”며 “결국 다시 사교육에 의존하게 만드는 것 아니냐”고 했다. &lt;br&gt;&lt;br&gt;정부가 초3에게 주겠다는 지원금은 해결책이 안 된다는 의견이 많다. 늘봄학교는 저녁 8시까지 맡길 수 있을 뿐 아니라 다양한 놀이, 체험 프로그램도 포함되어 있는데 모두 무료였다. 그런데 방과후 프로그램은 유료다. 일주일에 1~2회 1시간 30분가량 진행되는데 3개월 수업료가 10만원 안팎이다. 정부 지원금 50만원으로는 1년에 수업 1개 정도밖에 못 듣는다. &lt;br&gt;&lt;br&gt;교육계에선 지원금 외에 별도의 대책이 없어 학원 등 교육 인프라가 부족한 지역이나 저소득층 학생 등이 피해를 볼 것이라는 우려가 나온다. 발달이 느린 자녀를 둔 학부모들의 온라인 카페에는 “다양한 놀이·체험 프로그램이 있어 아이가 좋아했는데, 내년부터 이용할 수 없다니 너무 막막하다” “정책을 수시로 바꾸면서 설명도 없으니 혼란스럽다”는 글이 올라오고 있다. &lt;br&gt;&lt;br&gt;학생들을 대상으로 하는 교육 정책이 정권이 바뀔 때마다 오락가락하는 것은 문제라는 지적이 많다. 늘봄학교는 지난 정부 교육 정책 가운데 학부모들이 가장 선호한 사업으로 꼽힌다. 한국교육개발원이 작년 5월 학부모 1051명을 대상으로 한 만족도 조사에서 82.1%가 만족한다고 답했다. &lt;br&gt;&lt;br&gt;늘봄학교 도입 이전까지 학교들이 운영한 ‘돌봄 교실’은 맞벌이 부부만 지원할 수 있는 등 조건이 까다롭고 수용 인원이 적어 학교마다 돌봄 대기자가 수백 명에 달했는데, 지난 정부가 늘봄학교를 도입한 후 원하는 학생은 누구나 돌봄을 받을 수 있게 됐기 때문이다. &lt;br&gt;&lt;br&gt;늘봄학교 정책 연구를 수행한 허수연 서경대 교수는 “교육 정책의 핵심은 지속성인데 늘봄학교를 도입한 지 3년 만에 또 정책 방향을 바꾸면 학부모·학생만 피해를 보게 된다”면서 “돌봄 주체를 학교에서 지자체로 바꿨을 때 생길 수 있는 안전 문제나 수용 여건, 교육의 질 차이 등에 대한 사전 조사도 부족한 상태라서 혼란이 예상된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞늘봄학교&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤석열 정부가 저출생 원인 중 하나인 ‘돌봄 공백’을 해소하기 위해 도입한 정책이다. 맞벌이 부모 등을 위해 학교에서 오전 7시부터 최장 오후 8시까지 돌봐주고, 하루 2시간씩 맞춤 수업도 제공한다. 올해 초 1·2학년 55만명이 이용했다. 내년부터 초등 전 학년으로 확대할 계획이었지만, 이번 정부는 확대 계획을 철회했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;[반론보도]&amp;lt;“늘봄학교 확대 취소” 연말에 갑작스런 통보···학부모 발동동&amp;gt;&lt;br&gt;&lt;br&gt; 본 신문은 지난 12월 22일자 사회 섹션에 &amp;lt;“늘봄학교 확대 취소” 연말에 갑작스런 통보···학부모 발동동&amp;gt;이라는 제목으로 윤석열 정부가 도입한 늘봄학교 사업을 이재명 정부가 사실상 철회했고, 교육부가 계획을 바꿔 내년에도 초1·2학년만 대상으로 늘봄학교를 진행하기로 최근 결정했다고 보도했습니다. &lt;br&gt;&lt;br&gt; 이에 대해 교육부는 “정부는 늘봄학교 사업을 철회한 적이 없다”며 “2026년 초3학년에게도 수요에 맞는 돌봄·교육 프로그램을 지원한다”고 알려왔습니다. &lt;br&gt;&lt;br&gt; 이 보도는 언론중재위원회의 조정에 따른 것입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GBRTEN3GHA4WCZDFMYYTMMRRMI.jpg?auth=d0beaf457f2be40f3128b913983462dea9c346936d652eb4c2156908030f1472&amp;smart=true&amp;width=1600&amp;height=655" type="image/jpeg" height="655" width="1600">
+        <media:description type="plain">경북교육청 2025년 하반기 늘봄학교 수업 ⓒ News1 김대벽기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[반론보도]&lt;“늘봄학교 확대 취소” 연말에 갑작스런 통보···학부모 발동동&gt;</title>
+      <link>https://www.chosun.com/national/2026/03/13/FK2NEUIDC5HJPLKV5CXHCJQZZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/13/FK2NEUIDC5HJPLKV5CXHCJQZZA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Mar 2026 06:52:40 +0000</pubDate>
+      <content:encoded> 본 신문은 지난 12월 22일자 사회 섹션에 &amp;lt;“늘봄학교 확대 취소” 연말에 갑작스런 통보···학부모 발동동&amp;gt;이라는 제목으로 윤석열 정부가 도입한 늘봄학교 사업을 이재명 정부가 사실상 철회했고, 교육부가 계획을 바꿔 내년에도 초1·2학년만 대상으로 늘봄학교를 진행하기로 최근 결정했다고 보도했습니다. &lt;br&gt;&lt;br&gt; 이에 대해 교육부는 “정부는 늘봄학교 사업을 철회한 적이 없다”며 “2026년 초3학년에게도 수요에 맞는 돌봄·교육 프로그램을 지원한다”고 알려왔습니다. &lt;br&gt;&lt;br&gt; 이 보도는 언론중재위원회의 조정에 따른 것입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가수 유노윤호·배우 임원희 등 147명 서울시 유공납세자 표창</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/12/PCTULG5A6BDGBNGGS3565H65GQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/PCTULG5A6BDGBNGGS3565H65GQ/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Mar 2026 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBBOOBYWPRFT3KSKA4M2NZTOHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장이 11일 서울시청에서 열린 ‘2026년 서울시 모범·유공납세자 표창 수여식’에서 가수 유노윤호(오른쪽)에게 표창을 한 뒤 기념촬영을 하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIHRDO3T3NEWZJXWCOTKFKMZ34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장이 11일 서울시청에서 열린 ‘2026년 서울시 모범·유공납세자 표창 수여식’에서 배우 임원회(오른쪽)에게 표창을 한 뒤 기념촬영을 하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGRYIBV6CVD77AX56YM536EMIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 11일 서울시청에서 열린 ‘2026년 서울시 모범·유공납세자 표창 수여식’에 참석했다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 동방신기의 유노윤호와 배우 임원희, 프로야구 선수 박동원(LG트윈스)이 서울시 유공납세자 표창을 받았다. 서울시는 11일 지방세를 성실하게 낸 시민 37만1770명을 모범납세자로 선정했다고 밝혔다. 이 중 세금 납부액이 많은 147명에게 유공납세자 표창을 수여했다. 유공납세자는 1년간 서울시 공영주차장 요금 면제, 세종문화회관 공연 할인(20%) 등 혜택을 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘김민석 총리 명예훼손’ 김어준, 서대문서가 수사  </title>
       <link>https://www.chosun.com/national/national_general/2026/03/13/EMNFAEGJ7FAYNLFRJ3J7HENV4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/EMNFAEGJ7FAYNLFRJ3J7HENV4Y/</guid>
@@ -823,24 +921,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYWINRQMIYTSZRXMNRTMZTCHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경찰청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 11월 대구 달성군의 한 제지 공장에서 20대 노동자가 숨진 사건과 관련해 경찰이 해당 업체에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;대구경찰청은 12일 오전 9시부터 대구지방고용노동청과 함께 서울·대구 달성군·울산의 한국제지 본사와 공장 등 3곳에 대한 압수수색을 진행 중이다. 경찰은 인력 40여 명을 투입해 안전 관리 매뉴얼과 컴퓨터 등을 확보한 뒤, 사고 당시 안전 관리 수칙이 제대로 지켜졌는지 수사할 방침이다.&lt;br&gt;&lt;br&gt;앞서 지난해 11월 30일 오전 7시 6분쯤 달성군의 한국제지 공장에서 도색 작업용 롤러에 묻은 이물질을 제거하던 A(27)씨가 기계에 끼여 숨졌다. 경찰은 지난 1월 한국제지 안전 관리 담당자 등 직원 5명을 업무상 과실치사 혐의로 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “증거 자료를 분석해 사고 원인과 책임 소재를 명확히 규명하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘강서구청장 보선 개입 의혹’ 김규현 前 국정원장 소환</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/4NEYN4FJ3REU7K5J5U2G27ONGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/4NEYN4FJ3REU7K5J5U2G27ONGY/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 00:36:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2WCYTEGJSDENDDMNRDMMJRMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서구청장 보궐선거 개입 의혹을 받고 있는 김규현 전 국정원장이 12일 오전 마포구 서울경찰청 광역수사단에서 피의자 신분으로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가정보원의 ‘2023년 서울 강서구청장 보궐선거 개입 의혹’과 관련해 경찰이 김규현 전 국정원장을 소환했다.&lt;br&gt;&lt;br&gt;서울경찰청 반부패수사대는 12일 김 전 원장을 직권남용, 공직선거법 위반 등 혐의 피의자 신분으로 불러 조사하고 있다. 경찰이 지난 1월 서울 서초구 국정원을 압수 수색하고 김 전 원장을 출국 금지 조치한 지 약 두 달만의 첫 소환 조사다.&lt;br&gt;&lt;br&gt;이날 오전 9시 19분쯤 마스크를 착용한 채 서울경찰청 마포청사에 출석한 김 전 원장은 ‘어떤 점 위주로 소명할 것이냐’ 등 취재진 질문에 답하지 않고 조사실로 들어갔다.&lt;br&gt;&lt;br&gt;김 전 원장은 지난 2023년 10월 11일 강서구청장 보궐선거 본투표에 영향력을 행사하려 했다는 혐의를 받고 있다. 국정원은 본투표 하루 전 중앙선거관리위원회 내부망이 해킹 위험에 노출돼 있다는 보안 점검 결과를 발표했다. 경찰은 선관위 내부망에 문제가 없었음에도 김 전 원장 등 국정원 고위직이 보안 점검 결과를 바꿔 ‘부정선거 의혹’을 부추겼을 가능성을 들여다보고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 더불어민주당 박선원 의원 등은 당시 ‘선관위 보안에 문제가 없다’는 국정원의 보고를 윤석열 정부 대통령실이 반려한 것이라고 주장했다. 이에 김 전 원장 등이 “선관위 해킹이 가능하다”는 취지의 2차 보고서를 발표해 당시 여당인 국민의힘에 유리한 결과를 유도했다는 것이다. 박 의원은 이러한 의혹을 바탕으로 작년 10월 경찰에 김 전 원장 등에 대한 고발장을 제출한 바 있다.&lt;br&gt;&lt;br&gt;한편 당시 선거는 친윤(親尹) 성향 김태우 전 강서구청장이 공무상 비밀 누설 혐의 유죄 판결로 직을 잃으면서 치러졌다. 국민의힘은 재차 김 전 구청장을, 민주당은 진교훈 전 경찰청 차장을 후보로 냈고 민주당의 압승으로 끝났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 지역 작업 현장서 안전 사고 잇따라… 2명 숨져</title>
-      <link>https://www.chosun.com/national/regional/2026/03/12/NJFY2TCEKZHWTPDCTXOBZANKNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/12/NJFY2TCEKZHWTPDCTXOBZANKNI/</guid>
-      <dc:creator>포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 00:56:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/437IAEBS4VZVOZFMZUZODK35TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차 삽화./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항과 경주 지역 작업 현장에서 안전사고가 잇따라 발생해 2명이 숨졌다. &lt;br&gt;&lt;br&gt;12일 경북소방본부에 따르면, 전날인 11일 오전 10시 13분쯤 경북 포항시 대송면 한 금속 제품 제조 공장에서 40대 작업자 A씨가 1.6t짜리 파이프에 깔렸다. 이후 A씨는 인근 병원으로 이송됐지만 숨졌다. 사고 당시 크레인을 이용해 파이프를 옮기던 중이었다고 한다. &lt;br&gt;&lt;br&gt;앞서 같은 날 오전 8시 34분쯤 경북 경주시 외동읍 한 공사 현장에서는 돌로 벽을 쌓는 작업 중 50대 작업자가 떨어진 돌에 깔려 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰과 고용노동부는 주변 목격자 진술 등을 토대로 정확한 사고 경위와 작업장 안전 수칙 준수 여부 등을 조사 하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘김호중 방지법’에 꼬리 내린 이재룡...다른 거짓말은? </title>
       <link>https://www.chosun.com/national/court_law/2026/03/12/NFUEKJAENNGVBB3XD2WJANYURM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/NFUEKJAENNGVBB3XD2WJANYURM/</guid>
@@ -869,78 +949,6 @@
       <description/>
       <pubDate>Wed, 11 Mar 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHLDEEOP4RBVTPTGYGNMTZB3RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 서울 서초구 서울고등법원에서 만난 한석주 전 연세대 전 소아외과 교수/ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 경력 대부분을 세브란스 어린이 병원 소아외과에서 보낸 한석주 전 교수는 2012년 신촌 세브란스 병원에 신설된 장기재원환자관리위원회 초대 위원장에 취임했다. 새로운 보직을 맡자마자 그의 눈에 띈 환자는 2007년부터 12개 이상의 진단명으로 하루 200만원짜리 특실 병실에서 입퇴원을 반복한 윤모 씨였다. 윤씨는 여대생 청부살인 사건의 주범인 ‘제분 회사 사모님’. 무기징역이 확정돼 교도소에서 복역한다고 알려졌지만 실상은 ‘나이롱’ 환자로 5년간 병원에서 호화 생활을 하고 있었다. 그는 윤씨의 입원 기록과 외출 기록을 정리해 피해자의 아버지에게 전했다. 이 일이 언론 보도를 통해 세상에 알려지면서 윤씨는 감옥으로 돌아갔고, 사건에 관련된 윤씨의 남편과 다른 교수는 구속됐다. 평생 몸담은 병원과 동료를 고발하는 데 한 교수는 망설임이 없었을까. &lt;br&gt;&lt;br&gt;“그때 딸을 잃은 아버지를 떠올리면 눈물부터 났지, 다른 생각은 떠오르지 않았습니다. 죄를 지은 사람은 그에 상응하는 벌을 받아야 한다는 상식이 무너지면 이 사회가 어떻게 제대로 지탱이 될 수 있을까요. 이런 저를 두고 아내는 오지랖이 넓다고 핀잔을 주긴 하죠.”&lt;br&gt;&lt;br&gt;한 교수는 지난해 교수 정년퇴직 후 서울 서초동으로 출근하고 있다. 서울고등법원 상임전문심리위원으로서, 법정에서 의료 소송 자료를 검증하고 감정서를 작성한다. 지난 6일 법원에서 만난 그는 “어릴 때부터 따지기를 좋아해서 나를 보고 아버지는 검사를 하라고 했다”며 “의사 시절에도 수사 기록 보는 걸 좋아해서 법조계에서 일을 해보고 싶었다”고 했다. 그는 상임전문심리위원 공석이 나길 기다렸고, 모집 공고가 났을 때 부리나케 지원했다. 한 교수는 “의사 시절에도 검찰이나 법원에서 의료 사고나 아동학대 사건 의뢰가 오면 전문 감정을 했다. 돈이 안 되고, 시간도 뺏기는 데다가 안 한다고 벌받는 것도 아니지만, 이건 의사의 의무다. 의사가 아니면 할 수 없는 일이라면 반드시 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그가 이런 생각을 갖게 한 데엔 조두순 사건의 피해자 ‘나영이’(가명)의 수술을 담당한 경험이 영향을 미쳤다. 당시 나영이는 다른 병원에서 평생 배변주머니를 차고 다녀야 한다는 진단을 받은 뒤 한 교수가 일하던 세브란스 어린이 병원에 입원했다. 그는 “친구와 차를 함께 타고 가다가 라디오에서 나영이 소식이 흘러나왔을 때 ‘(배변주머니 말고) 다른 방법도 있을 것 같다’고 한마디 했다. ‘방법이 있는데 넌 뭘 하고 있느냐’는 친구의 일갈에 정신이 번쩍 들었다”고 했다. &lt;br&gt;&lt;br&gt;나영이 담당 의사가 아니었지만 다음 날 바로 만나러 갔고, 장기 복원 수술을 하기로 했다. 수술을 앞두고선 조두순 사건의 수사기록을 샅샅이 연구했다. 한 교수는 “참을 수 없는 분노에 손이 덜덜 떨리고 약간의 공황 상태가 됐지만, 그 기록 덕분에 수술을 잘 마칠 수 있었다”며 “ ‘넌 뭐 하냐’는 친구의 한마디가 마음에 남아서 그 뒤로도 나를 움직이는 기폭제가 됐다”고 했다. &lt;br&gt;&lt;br&gt;각종 사건·사고로 이름을 알린 한 교수는 담도폐쇄증 환자 사이에서 ‘명의(名醫)’로 통한다. 정년퇴직을 기념하며 최근 출간한 책 ‘내 생애 최고의 수술’(다빈치 북스)은 그가 담도폐쇄 수술을 한 환아의 어머니인 변문경 작가가 기획했다. 변 씨는 “아이의 목숨을 살려준 하 교수의 수술이 내 생애 최고의 수술이었다”고 했다. 하 교수에게 ‘최고의 수술’은 뭘까. “가장 어렵거나, 결과가 유달리 좋다고 해서 최고의 수술은 아닙니다. 남들은 성공했다고 축하했던 ‘융합쌍둥이(샴쌍둥이)’ 수술이 저에겐 아쉬움과 미안함이 남는 수술이었거든요. 절망을 희망으로 바꿔놓는 수술이라면 다 최고의 수술 아닐까요.” &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 여성호르몬 복용해도 사망률엔 차이 없어… 부작용 걱정 말고 폐경 증후군 심하면 드세요</title>
-      <link>https://www.chosun.com/medical/2026/03/12/UNV4NWWE25BAXONQKTLQ7QUQWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/12/UNV4NWWE25BAXONQKTLQ7QUQWE/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>여성은 대개 45~55세 사이에 여성호르몬이 더 이상 나오지 않게 되면서 폐경을 겪는다. 폐경 후 평균 7년 동안 약 80%의 여성은 얼굴 홍조, 야간 식은땀, 불면증, 우울증 등 다양한 폐경 증후군을 겪는다.&lt;br&gt;&lt;br&gt;여성호르몬 투여는 폐경 증후군을 개선하는 데 효과적이지만 유방암, 자궁암 발생을 증가시키고, 혈액 내 혈전을 증가시키는 경향이 있어서 안전성에 대한 우려가 있다. 최근 영국의학회지에 여성호르몬의 장기 복용이 안전성의 최종 판단 기준인 사망률에 미치는 영향을 분석한 연구가 발표됐다.&lt;br&gt;&lt;br&gt; 연구는 덴마크에서 1950~1977년 사이에 태어난 건강한 여성 87만6805명을 대상으로 했다. 연구 대상자들의 여성호르몬 치료 유무를 조사한 후, 평균 14.3년을 관찰하면서 여성호르몬 복용에 따른 전체 사망률을 비교 조사했다.&lt;br&gt;&lt;br&gt; 조사 결과, 전체 대상자 중 11.9%가 여성호르몬을 복용하였는데, 여성호르몬을 복용한 여성과 복용하지 않은 여성의 전체 사망률비는 0.96으로 차이가 없었다. 복용 기간에 따라 분석해 보아도 1년 미만으로 복용한 경우나 10년 이상 복용한 경우나 사망률 차이가 없었다. 다만 45~54세에 양측 난소 절제술을 받은 여성은 여성 호르몬을 복용한 경우 전체 사망률이 약 30% 낮았다.&lt;br&gt;&lt;br&gt;폐경으로 인한 여성호르몬 부족은 폐경 증후군에 따른 다양한 불편함을 겪는 것에 그치지 않고, 양측 난소절제술 환자와 같이 일부에서는 여성호르몬을 복용하지 않으면 되레 사망률을 증가시킬 수도 있다. 여성호르몬의 부작용이 걱정된다고 복용을 무조건 피할 일은 아니다. 폐경 증후군이 심한 경우에는 여성호르몬 복용이 권장된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>약 한 알로 탈모·발기부전 동시 치료… 이중 효과 복합제가 뜬다</title>
-      <link>https://www.chosun.com/medical/2026/03/12/BNJYIMFVBJG6THVMRISWFZUNMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/12/BNJYIMFVBJG6THVMRISWFZUNMY/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>서울서 자영업을 하는 60대 초반 최모씨는 최근 탈모 치료제와 저용량 발기부전 치료제를 매일 먹고 있다. 나이 들어 머리카락이 빠지고, 기력이 떨어진 듯해서다. 저용량 발기부전 치료제는 치매 예방에도 좋다는 신문 기사도 읽은 터이다. 그런데 그가 집어 먹은 약은 한 알이다. 두 가지 성분을 한 알에 합친 복합제이기 때문이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHLOUU6KYFAODHD2FH5DGVG43Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 최근 두 가지 이상의 약물을 하나로 뭉친 약물이 인기를 끌고 있다. 약학적으로는 ‘고정용량 복합제’라고 부른다. 복합제의 역사는 20세기 중반 감염병 치료에서 시작됐다. 1950~60년대 결핵 치료에서는 여러 항생제를 동시에 복용해야 했다. 그러다 보니 환자들이 약을 빼먹거나 일부 약만 복용하면서 약제 내성이 문제 됐다. 이에 여러 약을 하나의 알약에 넣는 방식이 고안됐다. 환자가 약을 빠뜨릴 가능성을 줄이고, 치료 순응도를 높이기 위한 전략이었다. &lt;br&gt;&lt;br&gt;에이즈 바이러스 치료에서도 복합제가 활약했다. 1990년대 여러 항바이러스 약물을 하루에 열 알 이상 먹는 경우도 있었는데, 세 가지 항바이러스 약을 한 알에 넣은 복합제가 등장하면서 복약 부담이 크게 줄었고 치료 성공률도 높아졌다. &lt;br&gt;&lt;br&gt;복합제는 고혈압·당뇨병 같은 만성 질환 치료에서 빠르게 확대됐다. 혈압을 조절하려면 두 가지 이상 약을 동시에 복용해야 하는 경우가 있다. 그래서 칼슘채널 차단제와 안지오텐신 수용체 차단제를 결합한 혈압약이 사용된다. 당뇨병 치료에서도 혈당을 낮추는 약과 인슐린 분비를 조절하는 약을 결합한 복합제가 쓰인다.&lt;br&gt;&lt;br&gt;심혈관질환 치료에서도 콜레스테롤을 낮추는 스타틴, 혈압약, 혈당약, 중성지방 저하제, 아스피린 등 다양한 조합의 복합제가 등장했다. 이런 복합제를 사용하면 심혈관질환 위험을 효율적으로 낮출 수 있다는 결과도 보고됐다.&lt;br&gt;&lt;br&gt;우리가 흔히 먹는 감기약 대부분이 사실은 복합제다. 감기에는 발열, 두통, 콧물, 코막힘, 기침 같은 여러 증상이 동시에 나타난다. 그래서 감기약에는 해열진통제, 항히스타민제, 기침 억제제, 비충혈 제거제 등이 함께 들어 있는 경우가 많다. 진통제 분야에서도 두 가지 진통 성분을 함께 넣어 효과를 높인다.&lt;br&gt;&lt;br&gt;최근에는 복합제가 질병 치료 넘어 ‘삶의 질 개선’ 영역으로 확대되고 있다. 대표적인 사례가 전립선비대증, 탈모, 발기부전 등을 타깃으로 하는 복합제다. 이 문제들은 중장년 남성에게 흔히 함께 나타난다.&lt;br&gt;&lt;br&gt;의약전문가들은 고령화로 인해 여러 질환이나 기능의 문제를 동시에 갖는 환자가 늘고 있고, 복합제가 여러 약을 복용하는 번거로움을 줄이면서 약물 복용 효과 순응도를 높이기에 앞으로 다양한 복합제가 등장할 것이라고 전망한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>봄철에 척추 디스크 환자 가장 많이 발생</title>
-      <link>https://www.chosun.com/medical/2026/03/12/64DSMNG66JEFPP65ENQ6J3AX2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/12/64DSMNG66JEFPP65ENQ6J3AX2A/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>한 해 ‘척추 디스크’(추간판 장애) 환자가 292만명에 이른 가운데, 일 년 중 봄철에 척추 디스크와 손상 환자가 가장 많이 발생하는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;보건복지부 지정 척추전문병원 청담 우리들병원 분석에 따르면, 2024~2025년 내원한 환자를 조사한 결과, 3월부터 5월까지 봄철 기간의 환자 수가 다른 계절에 비해 가장 많았다. 활동량이 비슷하게 많은 가을철 내원 환자보다도 봄철에 10% 이상 증가했다. 이들의 상당수는 척추 디스크 환자였다.&lt;br&gt;&lt;br&gt;신상하(신경외과 전문의) 원장은 “겨울철에는 관절과 근육, 인대가 수축 경직되고 혈액순환이 원활하지 않은 데다, 추운 날씨로 활동량 감소와 피하지방 축적으로 체중이 증가했는데, 날씨가 풀리는 봄철에 갑자기 무리한 활동이나 운동을 할 경우 척추에 과다한 하중이 집중돼 디스크 질환이나 부상이 발생할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;따라서 봄철 야외 활동이나 운동을 할 때는 준비 운동과 마무리 운동을 꼼꼼하게 해야 한다. 봄철 등산을 할 때 많이 다치는데, 등산 전 충분한 스트레칭을 통해 발목, 무릎, 허리 등의 관절을 충분히 풀어주고, 몸 상태에 맞는 적절한 수준으로 산행을 하는 것이 안전하다. 특히 골다공증이 있는 사람은 겨우내 움직임이 줄어듦에 따라 골밀도도 함께 낮아지기 때문에 봄철 갑자기 무리하게 활동량을 늘리면 골절이 일어날 수 있으니 조심해야 한다.&lt;br&gt;&lt;br&gt;신상하 원장은 척추 스트레칭 및 근력 강화 운동으로 머리 젖히면서 팔 올리기, 팔 올리고 옆구리 스트레칭, 어깨 돌리기, 허리 펴기 스트레칭, 벽 짚고 팔굽혀펴기, 허벅지 뒤 스트레칭 등을 권장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월 12일</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/11/XKFHJ5TNZZHYXK52O3F5TNKKNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/XKFHJ5TNZZHYXK52O3F5TNKKNQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 14:31:00 +0000</pubDate>
-      <content:encoded>곳곳에 비, 강원 산지엔 최대 15㎝ 눈&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGFHCKGLHRFVBLFKFYKPR24XAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뮤지컬 배우 남경주, 성폭력 혐의로 檢 송치... 혐의 부인</title>
-      <link>https://www.chosun.com/national/people/2026/03/11/BLKLRT53WRAZFB5Y4D6AM7NQ7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/11/BLKLRT53WRAZFB5Y4D6AM7NQ7I/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 10:56:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTIOBSMYYDSMJUME4GMM3DHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 남경주./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬 배우 남경주(63)가 성폭력 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;11일 서울 방배경찰서는 남경주를 위력에 의한 간음 혐의로 지난달 서울중앙지검에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;남경주는 지난해 서울에서 피해 여성 A씨를 상대로 성범죄를 저지른 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 A씨는 신변에 위협을 느끼고 112 상황실에 신고, 출동한 경찰이 사건을 접수했다.&lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 확보한 자료와 진술 등을 토대로 혐의가 인정된다고 판단해 사건을 검찰로 넘긴 것으로 알려졌다. &lt;br&gt;&lt;br&gt;다만 남경주는 혐의를 부인하고 있는 것으로 전해졌다. 현재 남경주의 소셜미디어(SNS) 계정은 닫힌 것으로 확인됐다. &lt;br&gt;&lt;br&gt;남경주는 최정원, 박칼린 등과 함께 한국 뮤지컬계를 대표하는 1세대 배우로 꼽힌다. 2019년 제13회 대구국제뮤지컬페스티벌에서 남우주연상을 받았으며, 현재 홍익대학교 공연예술학부 교수로 재직하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘하메네이’ 현수막 내건 주한이란대사관</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/11/CRITRYJRZFFFBC7UQF7ZJUA3NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/11/CRITRYJRZFFFBC7UQF7ZJUA3NI/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 13:02:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDFLLTD575HFDMBJMNCP4ITS5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주한이란대사관 외벽에 걸린 현수막 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구에 있는 주한이란대사관이 건물 외벽에 미국·이스라엘 공습으로 숨진 아야톨라 알리 하메네이 전 최고지도자의 사진이 그려진 현수막을 내걸었다. &lt;br&gt;&lt;br&gt;대사관 측은 최근 하메네이의 사진과 함께 ‘세계는 언제 전쟁 범죄자들에게 책임을 물을 것인가’라는 문구가 적힌 현수막을 대사관 외벽에 내걸었다. &lt;br&gt;&lt;br&gt;현수막에는 이란이 미국의 공습으로 사망했다고 주장하는 어린아이들의 사진이 담겼다. 사진 옆으로는 “여성과 아이들의 학살은 용서할 수도, 잊을 수도 없다”는 문구가 적혔다.&lt;br&gt;&lt;br&gt;이는 공습 주체인 미국과 이스라엘을 ‘전쟁 범죄자’로 규정하며, 최소 175명의 사망자를 낸 이란 초등학교 공습에 대한 비난과 항의의 의미를 담은 것으로 풀이된다. &lt;br&gt;&lt;br&gt;외교부는 현수막과 관련해 “관련 사항에 대해 확인해주기 어려운 점을 양해해주기 바란다”는 입장만 밝힌 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김완선, 美 뉴욕서 미술 개인전...“팝스타 삶 되돌아봐”</title>
-      <link>https://www.chosun.com/national/people/2026/03/11/FKH2OFHN5JEJHG5OE4P57NIRSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/11/FKH2OFHN5JEJHG5OE4P57NIRSQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 12:50:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3A3XPMABYJD55IPSBADMF46YWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김완선 미국 뉴욕 전시 '아이콘 온 디맨드'./KWSunflower&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김완선이 미국 뉴욕에서 화가로서 개인전을 개최한다. &lt;br&gt;&lt;br&gt;김완선의 소속사 KWSunflower는 오는 13일부터 31일까지 미국 뉴욕 텐리문화원에서 개인전 ‘아이콘 온 디맨드(Icon On Demand)’가 열린다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;전시 제목 ‘아이콘 온 디맨드’는 과거 수요에 의해 움직이던 팝스타로서의 삶을 환기하는 동시에, 이제는 스스로 이미지를 생산하는 주체가 됐음을 선언하는 중의적 의미를 담고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNEZFSAC5RFUNGKWLDOXA3UYB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김완선 미국 뉴욕 전시 '아이콘 온 디맨드'./KWSunflower&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 전시에는 ‘무제 - 빨강’, ‘자화상’ 등의 작품이 출품된다. 전시 비평을 맡은 탈리아 브라초풀로스는 “찢긴 가면 사이로 눈물을 흘리는 여성의 눈을 묘사한 작품에서 현대 사회가 강요하는 폭력성과 심리적 상흔이 느껴진다”고 평가했다.&lt;br&gt;&lt;br&gt;1986년 1집 ‘오늘밤’으로 데뷔한 김완선은 ‘한국의 마돈나’로 불리며 1980~1990년대 초 댄스 음악 시대를 이끌었다. 1990년 발표한 5집 ‘삐에로는 우릴 보고 웃지’는 여자 솔로 가수 최초로 100만장 판매 기록을 세운 바 있다. 1992년 은퇴 후 미국 생활을 거쳐 2002년 복귀한 그는 현재까지 공연과 싱글 발표 등 음악 활동을 지속하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이상민 “한덕수가 가장 강하게 계엄 반대…국무위원들 尹 만류”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/11/EZBXJMP4LFHP3FIQRCQQA56DZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/11/EZBXJMP4LFHP3FIQRCQQA56DZQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 11:48:47 +0000</pubDate>
-      <content:encoded>한덕수 전 국무총리의 내란 사건 항소심 첫 공판에 증인으로 출석한 이상민 전 행정안전부 장관이 “한 전 총리가 국무위원 중 계엄을 가장 강하게 반대했다”고 증언했다. 1심 재판 당시 증언과 선서를 모두 거부했던 이 전 장관은 이날 법정에서는 태도를 바꿔 증언에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DENRTGYZTIMZWMMYGGMDGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관은 11일 서울고법 형사12-1부(재판장 이승철) 심리로 열린 한 전 총리의 내란 중요 임무 종사 혐의 사건 항소심 공판에서 “최대한 증언하시겠습니까”라는 재판장 질문에 “네”라고 답하며 신문에 응했다. 그는 “내 재판과 직접 관련 있는 부분이 아니라면 적극 진술하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 전 장관은 한 전 총리 측 주신문에서 계엄 선포 직전 대통령실에 모인 국무위원들의 분위기에 대해 “대통령 말에 수긍하는 게 아니라 다 만류하는 분위기였다”며 “총리님이 국무위원 중에서 가장 강하게 반대했다”고 말했다. 이어 “총리님은 경제통이니까 경제 얘기를 많이 했다. 정무적으로 부담이 되고 (계엄 선포를) 말려야 한다는 얘기를 했다”고 증언했다.&lt;br&gt;&lt;br&gt;한 전 총리 측이 계엄 전 국무회의 개최 목적이 ‘계엄 합법화’였는지 ‘대통령 설득’이었는지를 묻자, 이 전 장관은 “당시 상황에서는 계엄 선포 정당화 개념 자체가 있을 수 없었다”고 선을 그었다. 그는 “당시 국무위원들은 황망하고 머리가 하얘지고 정신이 없는 상태에서 (대통령을) 만류하는 상황이었다”며 “총리님이 (집무실에) 다녀오면서 국무회의를 한다고 했을 때 다들 안도의 한숨을 내쉬었다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “국무회의를 안 했다면 특검은 국무위원들을 직무유기로 다 고소했을 것”이라며 “(국무회의를 열지 않으면) 대통령의 위법 행위를 국무위원들이 방치하는 것이라 생각했다”고 말했다. 그는 “실체적 요건은 대통령이 전권을 가지고 판단해도, 절차적 요건만큼은 대통령이 판단할 수 없다고 생각했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 전 장관은 국무회의 의결 ‘정족수’를 채우려 한 것 아니냐는 질문에는 “그런 얘기는 못 들었다”며 “정족수는 총리나 장관이 신경 쓸 게 아니라 실무진이 신경 쓰는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어진 특검 측 반대신문에서는 계엄 당일 대통령실 CCTV 영상이 재생됐다. 특검 측이 김용현 전 국방장관이 한 전 총리에게 손가락으로 숫자 ‘4(정족수)’를 표현한 것 아니냐고 묻자, 이 전 장관은 “자세히 봤는데 저게 ‘4’가 아니라 손바닥을 펴고 나오는 것”이라며 “4를 표현했다고 보는 건 특검에게만 그렇게 보이는 것 같고, 저희에겐 그렇게 보이지 않는다”고 반박했다.&lt;br&gt;&lt;br&gt;한편, 특검이 한 전 총리와 이 전 장관이 언론사 단전·단수 지시를 논의한 것으로 보고 있는 대접견실 내 11분간의 독대 장면과 관련해, 이 전 장관은 영상에 보이는 문건에 대해 “무슨 문건인지 기억이 나지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최불암, 건강 이상설 일축...“현재 입원 상태, 조만간 퇴원”</title>
