@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이준석 모친에 ‘젓가락’ 모방 악플…성폭력처벌법 위반 송치 </title>
+      <link>https://www.chosun.com/national/national_general/2026/03/14/5Q634LOIWZAXVK7BTTILT65NZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/5Q634LOIWZAXVK7BTTILT65NZY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Mar 2026 05:15:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZALTEZH2MZOIXATQHUCAN5SH7U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 5일 서울 여의도 국회에서 열린 최고위원회의에서 모두발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개혁신당 이준석 대표의 ‘젓가락 발언’을 모방하며 이 대표 모친의 실명을 언급하는 악성 댓글을 단 남성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;14일 법조계에 따르면 서울 강서경찰서는 인터넷에 선정적 댓글을 단 남성 A씨를 성폭력처벌법 위반(통신매체이용음란) 혐의로 지난 1월 말 서울남부지검에 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 페이스북에서 이 대표 모친의 실명을 언급하며 ‘젓가락’ 등 표현이 담긴 선정적 댓글을 쓴 혐의를 받는다. 이 대표의 고소로 경찰에 출석한 A씨는 “지지하는 정치인이 느꼈을 수치심을 똑같이 주기 위해 글을 작성했다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 대법원 판례에 비춰 심리적 만족감을 얻는 욕망도 성적 목적에 포함된다고 보고 A씨 행위가 성폭력처벌법 위반에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;이 대표는 작년 5월 대선후보 TV 토론에서 민주노동당 권영국 후보에게 ‘여성의 신체 일부’ ‘젓가락’ 등의 표현이 담긴 질문을 해 논란이 됐다. 이 대표는 당시 더불어민주당 후보였던 이재명 대통령의 아들이 과거 인터넷 게시판에 올렸다고 알려진 댓글 내용을 인용한 것이라고 주장했다.&lt;br&gt;&lt;br&gt;이 사건을 수사한 서울경찰청 공공범죄수사대는 증거 불충분으로 지난해 11월 말 불송치 결정을 내린 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>韓 정부, 쉰들러 제기 3200억원 규모 ISDS 승소</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/14/CAVHAPR6WZB5RPBF5IFWIGFBCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/14/CAVHAPR6WZB5RPBF5IFWIGFBCY/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Mar 2026 05:00:00 +0000</pubDate>
+      <content:encoded>법무부는 스위스의 글로벌 승강기 업체 쉰들러가 한국 정부를 상대로 제기한 약 3200억원 규모 국제투자분쟁(ISDS)에서 한국 정부가 승소했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYDIYTDMYZGKMZZGRSDKOJXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. 2026.3.3 ⓒ 뉴스1 구윤성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 이날 오후 2시 정부서울청사에서 브리핑을 열고 “오늘 새벽 2시 3분경, PCA 국제상설중재재판소의 중재판정부가 쉰들러의 모든 청구를 기각했다”고 밝혔다. 정 장관은 또 “쉰들러가 중재 절차에서 주장한 약 3200억원 상당의 손해배상 청구는 모두 기각됐으며, 우리 정부의 소송비용 약 96억원도 쉰들러 측으로부터 돌려받을 수 있게 됐다”고 했다. &lt;br&gt;&lt;br&gt;이 사건은 지난 2018년 10월 현대엘리베이터의 단일 최대주주인 쉰들러가 한국 정부에 약 5000억원 규모 ISDS를 제기하면서 시작됐다. 2013~2015년 진행된 현대엘리베이터 유상증자와 전환사채 발행이 ‘경영상 목적’이 아닌 오너 일가의 ‘경영권 강화’ 차원에서 이뤄졌음에도 공정거래위원회·금융감독원·금융위원회 등 관계 당국이 이를 방치해 부당한 손해를 입었다는 것이다. 쉰들러 측의 최초 ISDS 청구 액수는 약 5000억원이었으나, 지난 8년간 이뤄진 공방을 통해 최종 배상 청구액은 3200억원 수준으로 줄었다.&lt;br&gt;&lt;br&gt;법무부에 따르면, 중재판정부는 “한국 공정위, 금융위, 금감원의 조치는 자의적이거나 차별적이지 않은 합법적인 권한 범위 내에서 충분한 조사와 심사를 수행한 것”이라고 인정했고, 한국 정부의 투자협정 위반도 인정하지 않았다.&lt;br&gt;&lt;br&gt;정 장관은 “론스타, 엘리엇 사건에 이어 이 사건 승소를 계기로 대한민국 정부의 우수한 ISDS 대응 역량이 국제 사회에 각인되고 있다”며 “앞으로도 우리 정부는 혼신의 힘을 다해 국부의 유출을 막고 국익을 수호하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제주 차귀도 해상 선박 화재… 선원 10명 중 8명 구조</title>
       <link>https://www.chosun.com/national/national_general/2026/03/14/WYK7EK7UMFHRJMEH3FZ65XQVBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/WYK7EK7UMFHRJMEH3FZ65XQVBA/</guid>
@@ -755,29 +773,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XCMSWH575VGH7PBBF5RF2RNCGQ.jpg?auth=b727f1a0696c725d37b096cbd796463f14a0e8d44e5e6aea1543ede285844ba2&amp;smart=true&amp;width=1554&amp;height=874" type="image/jpeg" height="874" width="1554">
         <media:description type="plain">12일 오후 3시쯤 명동에서 전단지를 나눠주는 모습/원종빈 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>국가 과제된 문해력… 대통령 직속 국교위에 특위 만든다</title>
-      <link>https://www.chosun.com/national/education/2026/03/13/WXTRKE4NUREZDIS4B4S37FMN6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/13/WXTRKE4NUREZDIS4B4S37FMN6U/</guid>
-      <dc:creator>표태준 기자, 김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQ3D4IUXUNLLFAV7OJGLQLUUTY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;차정인 국가교육위원회 위원장이 12일 서울 종로구 정부서울청사에서 열린 국가교육위원회 제66차 회의에서 모두발언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 직속 국가교육위원회가 ‘문해력 특별위원회’를 구성해 학생들의 문해력 강화 방안을 마련한다. 디지털 기기 확산, 숏폼 중독 등으로 학생들의 문해력이 심각하게 저하되자 대책 마련에 나선 것이다. 10년 단위의 국가 교육 정책을 세우는 국교위는 내년 발표할 ‘중장기 국가교육 발전계획’에 이를 반영하기로 했다.&lt;br&gt;&lt;br&gt;국교위는 12일 열린 제66차 회의에서 ‘문해력 특위 구성안’을 가결했다고 밝혔다. 조만간 특위 위원장·위원을 선임해 6개월간 활동할 계획이다. ‘독서 활동 강화’ ‘글쓰기 교육’ ‘어휘력 교육’ ‘인공지능(AI) 문해력’ 등을 주제로 토의해 문해력 강화 방안을 마련한다.&lt;br&gt;&lt;br&gt;문해력 특위는 국교위 위원들이 발의한 ‘1호 안건’이다. 최근 국교위는 위원장뿐만 아니라 위원도 재적위원 5분의 1 이상의 동의를 얻으면 안건을 낼 수 있도록 운영 규칙을 개정했다.&lt;br&gt;&lt;br&gt;이번 안건을 발의한 김건 국교위 위원은 “조선일보의 ‘AI 시대, 문해력 위기’ 기획 시리즈와 최근 발표되는 연구 자료 등이 모두 우리 사회의 심각한 문해력 적신호를 보여주고 있다”면서 “AI 시대 핵심 생존 기술인 문해력 회복을 국가적 과제로 삼아야 한다는 의견을 모아 특위 구성을 추진하게 됐다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JQ3D4IUXUNLLFAV7OJGLQLUUTY.JPG?auth=93eb0f7832c4b13f78009106c8424716471ed85efdd1493d261382007519e0c4&amp;smart=true&amp;width=5455&amp;height=3510" type="image/jpeg" height="3510" width="5455">
-        <media:description type="plain">차정인 국가교육위원회 위원장이 12일 서울 종로구 정부서울청사에서 열린 국가교육위원회 제66차 회의에서 모두발언을 하고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 임세영 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“어떤 판결 내려도 고발당할 위험… 판사들 방어적 재판 우려”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/13/4OJR75GML5BJPEQ4UAOPIL7YNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/13/4OJR75GML5BJPEQ4UAOPIL7YNY/</guid>
-      <dc:creator>제천=오유진 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:52:00 +0000</pubDate>
-      <content:encoded>전국 법원장들이 12일부터 이틀간 충북 제천에 모여 법 왜곡죄·재판소원·대법관 증원 등 ‘사법 3법’ 시행에 따른 후속 조치 논의에 들어갔다. 사법 3법 중 법 왜곡죄(개정 형법)와 재판소원 제도(개정 헌법재판소법)가 이날 자정을 기해 시행되면서, 법원 내부에서는 “판사를 겨냥한 부당한 고소·고발이 폭증할 것” “대법원이 사실상 ‘상고법원’으로 전락했다” 등의 우려가 터져 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJY2CLSTNRGLPHQ3J3QWUV5WHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 종로구 헌법재판소 민원실에 비치된 재판소원 청구서와 권리구제형 헌법소원심판 청구 안내문.
-/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 법원행정처는 이날 오후 2시 충북 제천시 한 호텔에서 전국 법원장 간담회를 열었다. 김시철 사법연수원장 주재로 4시간 10분간 열린 이날 간담회에는 전국 각급 법원장 등 44명이 참석했다. 이날 간담회에서 기우종 행정처 차장은 인사말을 통해 “사법제도 개편 3법의 통과로 사법 체계의 근간이 변화하고 이에 대한 깊은 우려가 있다”며 “사법부가 신뢰를 회복하고 실질적 대안을 마련할 수 있도록 지혜를 모아 달라”고 당부했다. &lt;br&gt;&lt;br&gt;조희대 대법원장은 간담회 직후 이어진 만찬에 참석했다. 이틀 동안 열리는 이번 간담회의 핵심 안건은 ‘사법 제도 개편에 따른 후속 조치 방안’과 ‘법 왜곡죄에 따른 형사 법관 지원 방안’이다. &lt;br&gt;&lt;br&gt;법원장들은 이날 간담회 직후 낸 언론에 배포한 자료에서 “법 왜곡죄 도입 이후 형사 법관에 대한 고소·고발 등 외부 부담이 증가해 ‘형사 재판부 기피 현상’이 심화될 수 있다”면서 “이에 따라 국민이 누려야 할 ‘신속하고 공정한 재판을 받을 권리’를 실질적으로 제약하는 결과가 발생하지 않도록 해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;그 대안으로 법관들이 법 왜곡죄로 소송에 휘말릴 경우 소송을 지원해 줄 수 있는 예산 확충하고, 법관이 법과 양심에 따라 법 왜곡죄 등에 위축되지 않고 독립적으로 재판할 수 있도록 별도의 위원회를 설치해 지원하자는 의견도 나왔다. 법관들의 신상 정보가 노출돼 신변의 위협을 당하지 않도록 하는 방안도 제시됐다. 법원장들은 또 형사 사건을 맡는 법관들에겐 재판연구원을 우선 배치해 지원하고, 수당도 늘려줘야 한다는 의견이 나왔다. 이날 간담회에선 일선 법원에서 형사 재판을 받던 피고인이 재판부를 향해 “법 왜곡죄로 고소하겠다”고 위협한 사례가 공유됐다고 한다.&lt;br&gt;&lt;br&gt;재판소원에 대해 법원장들은 “개정 헌재법(재판소원) 규정의 의미가 불명확하고, 관련 법률 개정이 병행되지 않아 재판 실무와 제도 운영에 혼란이 초래될 수 있다”며 재판 기록 송부 절차, 사법부 의견 제출 방식, 재판소원 인용 시 후속 절차 등을 논의했다.&lt;br&gt;&lt;br&gt;한편 법원장들은 이날 법안이 공포됐지만, 2028년 3월부터 시행되는 대법관 증원에 대한 대책도 논의했다. 대법관이 26명까지 늘어날 경우 대법관 업무를 지원하는 판사 100여 명을 대법원 재판연구관으로 보내야 해 하급심(1·2심)이 부실해지는 것은 물론 재판 지연이 심화될 수 있기 때문이다. 이같은 부작용을 막기 위해 정년이 지난 법관에게 계속 재판을 맡기는 ‘시니어 법관 제도’ 도입 등이 거론됐다.&lt;br&gt;&lt;br&gt;법 왜곡죄와 재판소원이 이날 전격 시행되자 법원 내부는 뒤숭숭한 분위기다. 서울 지역의 한 판사는 “1심에서 무죄가 난 사건을 유죄로 뒤집어 항소심에서 중형을 선고했다가 대법원에서 깨지면 당장 법 왜곡죄로 고발당할 수 있다는 압박감을 느낄 수밖에 없다”며 “사실상 어떤 판결을 내려도 고발당할 위험에 놓이는 것”이라고 했다. 다른 판사는 “법과 양심에 따라 판결해 왔다는 자부심이 송두리째 부정당한 느낌”이라고 말했다. 한 법조계 관계자는 “확정 판결이란 최종 판단 권한이 대법원에서 헌재로 넘어가면서 대법원장은 최고 법원장 아래 상고법원장이 되는 셈”이라고 말했다. 서울고법 부장판사는 “혼란을 최소화하기 위한 대책을 서둘러 마련해야 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최강 소방관이 되기까지… 40㎏ 호스 들고 전력 질주</title>
