@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전자발찌 착용 40대에 살해당한 여성… 가정폭력·스토킹 당했다</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/14/IOSDPFUUOZHQ5OWSKXUO5AOG7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/IOSDPFUUOZHQ5OWSKXUO5AOG7Y/</guid>
+      <dc:creator>진창일 기자, 남양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Mar 2026 09:04:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2TSMJYGNQWKY3FMNRGMNLDGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자발찌를 착용한 40대 남성에게 살해당한 20대 여성이 과거 가정 폭력과 스토킹 피해를 당했던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;14일 경기북부경찰청에 따르면 살인 등 혐의로 긴급 체포된 40대 남성 A씨는 작년 5월 26일 특수상해 혐의로 검찰에 송치됐다. A씨는 이날 오전 9시쯤 경기 남양주시 오남읍의 한 길거리에서 20대 여성 B씨를 흉기로 살해한 뒤 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 사실혼 관계였다고 한다. B씨가 작년 5월 11일 A씨에게 당한 가정 폭력을 경찰에 신고하면서 A씨의 특수상해 혐의 수사로 이어진 것이다. A씨는 작년 5월부터 7월까지 약 2달 동안 B씨에게 접근을 제한하는 임시조치 2, 3호 결정도 받았다.&lt;br&gt;&lt;br&gt;가정 폭력은 끝나지 않았다. B씨는 올해 1월 경찰서를 찾아 A씨의 가정폭력에 대한 상담을 받고 또다시 경찰 보호 조치 대상자로 등록됐다. 지난달에는 A씨의 스토킹과 위치 추적 의심 등 신고도 해 경기북부경찰청에서 수사가 이뤄지고 있었다.&lt;br&gt;&lt;br&gt;A씨는 현재 병원 치료를 받고 있다. 경찰 관계자는 “A씨는 체포 당시 의식이 있었지만, 검거 직전 공황장애약 7알을 술과 함께 복용해 현재 의식이 없다”며 “중태는 아니다”라고 말했다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 도주 과정에서 전자발찌도 훼손한 것으로 확인됐다. A씨는 과거 성범죄 전력으로 전자발찌 착용 대상자가 된 것으로 알려졌다. 경찰은 A씨가 치료를 마치는 대로 범행 동기 등을 조사해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MM2TSMJYGNQWKY3FMNRGMNLDGU.jpg?auth=fbcac35627c08e2e8fb781c3587e97f5f301a73d4c03ab2936336e34cfb0f894&amp;smart=true&amp;width=2012&amp;height=1276" type="image/jpeg" height="1276" width="2012">
+        <media:description type="plain">경찰 로고. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[오늘의 운세] 3월 15일 일요일 (음력 1월 27일 戊子)</title>
       <link>https://www.chosun.com/national/national_general/2026/03/14/V7VPL4O3KVHWRJVBCBJJIUKWBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/V7VPL4O3KVHWRJVBCBJJIUKWBM/</guid>
@@ -748,18 +760,6 @@
       <description/>
       <pubDate>Thu, 12 Mar 2026 22:41:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGCNRWGBSWKMBXMI3DAMBTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강북 모텔 약물 사건' 피의자 김소영의 공개된 얼굴(오른쪽).  왼쪽은 인스타그램에 올라온 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배상훈 프로파일러가 ‘강북 약물 연쇄살인’ 사건 피고인 김소영(20)에 대한 검찰 수사 결과에 대해 “김소영이 제멋대로 떠든 이야기를 공소장에 갖다 붙였다”고 비판했다. 반면 검찰 측은 여러 전문가의 심도 있는 자문을 바탕으로 범행 동기 등을 분석한 것이라는 입장이다. &lt;br&gt;&lt;br&gt;배 프로파일러는 지난 10일 자신의 유튜브에 ‘모텔 연쇄살인범이 가정불화 때문에 사이코패스가 됐다는 황당한 수사 결과, 연쇄살인범의 황당한 서사 복제’라는 제목의 영상을 올렸다. &lt;br&gt;&lt;br&gt;배 프로파일러는 우선 ‘김소영이 어린시절 부친으로부터 음주 폭행과 폭언에 노출돼 가정불화로 정서적 사회화가 온전히 이뤄지지 못했다’는 검찰의 발표에 대해 “이걸 가정불화라고 하느냐”며 “이건 아동학대”라고 했다. 이어 “지속적으로 아동학대를 당해서 김소영이 자기중심적 기질을 갖게 됐다는 것인데, 즉 후천적이라는 얘기”라며 “이게 일반적이냐”고 되물었다. 그러면서 “아동 학대당해서 사이코패스가 됐다면 세계적으로 연구 보고를 해야 할 사례”라고 했다. &lt;br&gt;&lt;br&gt;배 프로파일러는 “제가 추정해보건대 김소영이 마음대로 떠든 것 같다”며 “어렸을 때부터 학대당했다는 건 연쇄살인범들이 늘 얘기하는 거다. 유영철, 강호순, 정남규도 그런 얘기를 했다”고 했다. 이어 “연쇄살인범들은 이 서사가 먹힌다는 걸 너무 잘 안다”며 “자기만의 망상에 빠져 있는데, 이 서사에 속는다”고 했다. 그러면서 “경찰로부터 넘어온 사이코패스 점수를 보고 내용을 역설계해 끼워 맞춘 수준에 불과하다”며 “그러면 판사도 서사에 속아 넘어가서 이에 따른 판결을 내리게 된다”고 했다. &lt;br&gt;&lt;br&gt;반면 검찰은 “전문가의 범죄심리 분석과 정신의학‧법의학 자문 등 보완 수사를 통해 김소영의 인격 형성 과정과 범행 당시 심리적 상태를 면밀하게 수사했다”고 지난 10일 밝혔다. 검찰은 “이 사건은 가정불화로 정서적 사회화가 온전히 이뤄지지 못하고 자기중심적 기질이 강한 김소영이 자신의 소비 욕구와 경제적 만족을 위해 남성을 이용하고, 이후 갈등 상황을 손쉽게 회피하거나 남성을 제압하기 위해 약물을 사용해 살해한 이상 동기 범죄”라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마약 음료 먹이고 7000만원 가로챈 골프 사기단</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/14/K424VRJBCBCLFMLGHACOZWOLZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/K424VRJBCBCLFMLGHACOZWOLZ4/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>내기 스크린 골프 게임 도중 피해자 몰래 음료에 마약을 타거나 원격으로 스크린 방향을 바꿔 공을 의도치 않은 방향으로 가게 하는 수법으로 수천만원을 뜯어낸 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 형사기동대는 사기·마약류관리법 위반 혐의로 일당 9명(구속 2명)을 지난달 검찰에 송치했다고 12일 밝혔다. 이들은 피해자 한 명으로부터 내기 골프 명목으로 지난 2024년 12월부터 약 3개월간 10회에 걸쳐 총 7400만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 골프 동호인 모임 등에서 재력이 있어 보이는 피해자를 물색했다. 이후 골프라는 같은 취미를 매개로 자연스럽게 접근해 판돈을 걸고 내기 게임을 하는 관계로 발전시켰다고 한다. 범행은 한 번 게임을 할 때 공범 3~4명이 함께 참여하는 방식으로 이뤄졌다. 사기 일당들은 내기 골프 중 피해자가 시선을 돌린 사이 로라제팜을 탄 음료가 담긴 컵으로 피해자 컵을 바꿔치기하거나, 커피가 담긴 페트병에 몰래 가루 형태의 약물을 주입하는 수법을 썼다. 로라제팜은 기억상실, 진정·최면 작용, 근육 이완 등의 부작용을 일으킬 수 있어 마약류로 분류된다. 또 일당들은 미리 준비한 리모컨과 USB 형태의 수신기 등을 이용해 피해자가 타격을 위해 고개를 뒤로 돌리는 순간 스크린 방향이 좌우로 움직이도록 만들어 공이 빗나가게 했다.&lt;br&gt;&lt;br&gt;경찰은 피해자가 촬영한 영상과 사기 일당과 주고받은 메시지 등을 확보했다. 또 피해자의 몸에서 피의자들이 처방받은 향정신성의약품 양성 반응이 나온 사실을 확인해 혐의를 입증했다. 구속 송치된 피의자 2명은 과거에도 비슷한 수법으로 처벌받은 전력이 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OU2MQCX7VZDIHP55YLZLGJXIUA.gif?auth=83fe3f55c49d2684d2aab81db27fdd82b2922796bb942e1b71d4268aba07f961&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
-        <media:description type="plain">피해자가 마시던 음료에 약물을 타거나 컵을 바꿔치기 하는 등의 수법으로 수천만원을 뜯어낸 내기 골프 사기 일당이 경찰에 붙잡혔다. /서울청 광역수사단 형사기동대</media:description>
-      </media:content>
     </item>
     <item>
       <title>초6이 쓴 민주화운동 감상문에 “개고생한듯 ㄷㄷ” “독재는 에바각ㅠ”</title>
