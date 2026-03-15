@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>늦은 밤 강남 달리는 ‘자율 주행 택시’, 4월부터 정식 유료 운행 돌입</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/15/P6IMMX4BONBQVFX4JBYCZ3RYQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/15/P6IMMX4BONBQVFX4JBYCZ3RYQM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 07:55:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVGS4MRPHNED3CEQYQTZODSFBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구와 서초구 일대를 달리고 있는 심야 자율주행 택시의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 강남 일대에서 운행 중인 ‘심야 자율 주행 택시’를 다음 달 6일부터 유료로 전환한다고 15일 밝혔다. 2024년 9월 운행을 시작한 지 약 1년 7개월 만이다.&lt;br&gt;&lt;br&gt;앞서 서울시는 2024년 9월부터 강남구 역삼동·대치동·도곡동·삼성동 일대에서 심야 자율 주행 택시 운행에 들어갔다. 이후 8개월 넘게 무사고를 기록하자, 작년 6월부터는 압구정동·신사동 등을 포함한 강남 대부분 지역으로 이를 확대했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이번 유료화는 자율 주행 택시를 국내 첫 정식 교통 수단으로 도입한다는 취지”라고 말했다.&lt;br&gt;&lt;br&gt;이용 요금은 강남 지역에서만 운행하는 것을 감안해 택시 기본 요금만 적용하기로 했다. 다만 택시와 마찬가지로 심야 할증을 적용한다. 이에 따라 요금은 시간대별로 오전 4~5시 4800원, 오후 10~11시와 새벽 2~4시 5800원, 오후 11시~다음날 새벽 2시 6700원이다.&lt;br&gt;&lt;br&gt;택시는 스마트폰 ‘카카오T’ 앱에서 부를 수 있다. 한 번에 3명까지 탈 수 있다. 평일 오후 10시부터 다음 날 오전 5시까지 운행한다. 강남 내에서 이동할 때만 탑승할 수 있다.&lt;br&gt;&lt;br&gt;한편 지난달 말 기준 심야 자율 주행 택시 탑승 건수는 총 7754건으로 집계됐다. 서울시 관계자는 “자율 주행 기술로 인해 발생한 사고는 한 건도 없었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AVGS4MRPHNED3CEQYQTZODSFBE.jpg?auth=f97a836af87dcbcfd0add31967a200e99fd5f2fa6c9db21555110ba6df9e9a78&amp;smart=true&amp;width=1152&amp;height=864" type="image/jpeg" height="864" width="1152">
+        <media:description type="plain">서울 강남구와 서초구 일대를 달리고 있는 심야 자율주행 택시의 모습. /서울시</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 16일 월요일 (음력 1월 28일 己丑)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/15/TPVSYA5VFZGZXAQY2DR5JUHDRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/15/TPVSYA5VFZGZXAQY2DR5JUHDRI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>“돈 필요해” 가족 상대 강도짓… 800만원 빼앗고 철창행</title>
+      <link>https://www.chosun.com/national/incident/2026/03/15/OFT6TVSZDZDJZJIO3DQ5XTRK3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/15/OFT6TVSZDZDJZJIO3DQ5XTRK3I/</guid>
+      <dc:creator>평택=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 07:25:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTBE45ZINH6FKR3JHU6FCUOW6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가족을 상대로 강도질을 벌여 현금 수백만원을 빼앗은 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 특수 강도 혐의를 받는 A씨를 비롯한 4명을 검거해 조사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨와 B씨 등 2명은 공범 2명과 함께 지난 14일 오후 8시 20분쯤 평택의 한 빌라에서 피해자 C씨를 상대로 강도 행각을 벌여 현금 800만원을 빼앗은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들의 범행 과정에서 C씨가 폭행당해 경상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A, B씨는 피해자 C씨와 가족 관계였다. 나머지 공범 2명은 B씨의 지인들인 것으로 파악됐다. 범행 이후 A씨는 현장에서 곧바로 체포됐고, B씨 등 나머지 일당은 도주했다가 같은 날 오후 11시 50분쯤 평택의 한 음식점에서 긴급 체포됐다.&lt;br&gt;&lt;br&gt;이들은 경찰에 “돈이 필요했다”고 진술한 것으로 전해졌다. 경찰은 이들의 구체적인 범행 동기 등을 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세계문화유산 ‘수원화성’ 일대 7곳 방화… 구속된 범인, 라이터 2개 소지</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/15/QXZ5X63RNJCLBBQSZQ3X75GUXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/15/QXZ5X63RNJCLBBQSZQ3X75GUXU/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 07:20:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMWVDBRDBRD2PIK6E2N64XWCTA.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오전 11시 10분쯤 발생한 수원시 팔달구 팔달산 일대 화재 현장. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유네스코 세계문화유산인 경기 수원 화성(華城)이 있는 팔달산 일대 7곳에 잇달아 불을 지른 혐의를 받는 40대가 구속됐다.&lt;br&gt;&lt;br&gt;15일 본지 취재를 종합하면, 수원지법은 지난 14일 산림재난방지법 위반 혐의를 받는 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤, 영장을 발부했다. 법원은 “도주 우려가 있다”고 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 오전 11시 10분쯤 수원시 팔달구 팔달산 일대 7개 지점에 불을 지른 혐의를 받는다. 팔달산은 팔달구 행궁동·고등동, 장안구 영화동에 걸쳐 있는 해발 143ｍ의 도심 내 산으로, 유네스코 세계문화유산인 수원 화성의 성곽으로 둘러싸여 있다. 화서문(보물 403호)과 서북공심돈, 서장대, 행궁 등 유적을 품고 있다.&lt;br&gt;&lt;br&gt;A씨 범행으로 서장대 등산로 입구, 중앙도서관 인근, 팔달산 정상 인근, 팔달약수터 인근의 잡목 등이 불에 탄 것으로 파악됐다. 소방 당국은 헬기 4대를 동원해 진화 작업에 나서 낮 12시 32분쯤 완전히 불을 껐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXP3DRR4BNGD3CVZ54OQJMLP6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원화성 성곽 일부. 수원화성은 1997년 유네스코 세계문화유산으로 등재됐다. /문화재청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방화 지점 근처에는 화성의 감시용 시설인 서남각루(西南角樓), 청동기 시대 무덤으로 경기도 기념물인 팔달산 지석묘군(支石墓群) 등 문화유산이 있었지만 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 방화 30여 분 만인 오전 11시 48분쯤 화재 현장에서 200여ｍ 떨어진 약수터에서 A씨를 긴급 체포했다. A씨는 당시 라이터 2개를 소지하고 있던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 “산책을 했을 뿐”이라며 혐의를 전면 부인하고 있는 것으로 전해졌다. 경찰은 구체적인 범행 경위 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고려대 ‘영철버거 장학금’ 10억 규모로 확대</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/15/HJ3RY24HO5BGRE7P2SZHV42FYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/15/HJ3RY24HO5BGRE7P2SZHV42FYQ/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 05:44:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXFTSXKBUZC2PB5SZXSRPSCQWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 서울 성북구 고려대 본관에서 열린 기부식에 참석한 유인선 고우체육회장(왼쪽)과 김동원 고려대 총장./고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 학생들의 ‘소울푸드’로 불렸던 영철버거가 10억원 규모의 선후배 간 장학금으로 다시 태어난다. &lt;br&gt;&lt;br&gt;지난 13일 고려대는 유인선 고우체육회장(재료공학과 70학번)이 ‘영철버거 장학금’으로 써달라며 2억5000만원을 기부했다고 밝혔다. 고려대는 ‘영철버거 장학금’을 10억원 규모로 키워갈 계획이다. &lt;br&gt;&lt;br&gt;‘영철버거 장학금’은 저렴한 가격으로 학생들에게 한 끼 식사를 제공했던 고(故) 이영철 사장의 나눔 정신을 기리기 위해 시작된 캠페인이다. 이영철씨는 고려대 앞에서 20년 넘게 1000원짜리 수제버거를 팔며 학생들의 배고픔을 달래준 인물이다. ‘영철버거 장학금’은 영철버거가 학생들에게 전했던 따뜻함을 이제는 선배들이 ‘장학금’으로 이어가자는 취지에서 지난 1월 탄생했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWI4NZ7IHVCOJFBZAJDM623VXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재까지 졸업생과 재학생 등 구성원 641명이 자발적으로 참여해 약 4억3700만원이 모였다. 최근 학교 측이 기부자의 모금액만큼 학교가 더 지원하는 ‘1:1 매칭 지원’을 결정하며 장학금은 총 10억원 규모로 확대 조성될 예정이다. &lt;br&gt;&lt;br&gt;김동원 고려대 총장은 “이 장학금이 선배와 학교가 함께 후배의 든든한 버팀목이 되어주는 고려대만의 아름다운 전통으로 자리잡을 수 있도록 적극 지원할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무안 제주항공 참사 유족 “사고 현장서 유해 추정 10여점 추가 발견”</title>
+      <link>https://www.chosun.com/national/regional/2026/03/15/U4VPDDVYMJB2LKMDUHYNE47EUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/U4VPDDVYMJB2LKMDUHYNE47EUU/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 05:43:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4C4ELVHVTVN5HLJRXZIT4NIZPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 국토교통부와 항공철도사고조사위원회, 전남과학청 과학수사대 관계자들이 무안국제공항 공항소방대 뒤편에 보관된 여객기 잔해를 조사하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·29 제주항공 여객기 참사 유가족들이 사고 현장에서 유해로 추정되는 물체 10여 점을 발견했다.&lt;br&gt;&lt;br&gt;12·29 무안공항 제주항공 참사 유가족협의회는 15일 “사고 당시 무너진 공항 담벼락 외곽을 순찰하던 중 유해로 추정되는 물체 10여 점을 발견했다”며 “항행안전시설 철조망에는 아직 수거되지 않은 기체 잔해도 남아 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;유가족들은 이번에 발견된 물체들이 현장에서 아직 수습되지 못한 유해일 가능성이 큰 것으로 보고 전남경찰청 과학수사대에 유해 감식을 요청했다.&lt;br&gt;&lt;br&gt;유가족협의회 측은 “최근 잔해 더미에서 유해가 잇따라 발견되면서 사고 현장에서도 추가 유해가 있을 가능성을 고려해 순찰했고 육안으로도 유해로 보이는 물체들이 다수 발견됐다”며 “공항소방대에 보관된 잔해뿐 아니라 사고 지점 일대에 대한 전면 재조사가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;현재 국토교통부와 항공철도사고조사위원회는 참사 초기 수습해 공항소방대 뒤편에 모아놓은 사고 잔해를 주 2회씩 재조사하고 있다. 이 잔해 속에서 유해 64점이 발견됐다. 이 가운데 9점은 희생자 7명의 것으로 확인됐다. 유해가 잇따라 발견되자 이재명 대통령은 지난 12일 관련 책임자에 대한 엄중 문책을 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>스마트폰 등 1억2000만원 어치 사라진 택배물… 물류 직원이 범인이었다</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2026/03/15/T7KKJMVPPRDBRDMYC7SLK3I25A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/15/T7KKJMVPPRDBRDMYC7SLK3I25A/</guid>
@@ -837,61 +895,6 @@
       <description/>
       <pubDate>Thu, 12 Mar 2026 22:41:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGCNRWGBSWKMBXMI3DAMBTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강북 모텔 약물 사건' 피의자 김소영의 공개된 얼굴(오른쪽).  왼쪽은 인스타그램에 올라온 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배상훈 프로파일러가 ‘강북 약물 연쇄살인’ 사건 피고인 김소영(20)에 대한 검찰 수사 결과에 대해 “김소영이 제멋대로 떠든 이야기를 공소장에 갖다 붙였다”고 비판했다. 반면 검찰 측은 여러 전문가의 심도 있는 자문을 바탕으로 범행 동기 등을 분석한 것이라는 입장이다. &lt;br&gt;&lt;br&gt;배 프로파일러는 지난 10일 자신의 유튜브에 ‘모텔 연쇄살인범이 가정불화 때문에 사이코패스가 됐다는 황당한 수사 결과, 연쇄살인범의 황당한 서사 복제’라는 제목의 영상을 올렸다. &lt;br&gt;&lt;br&gt;배 프로파일러는 우선 ‘김소영이 어린시절 부친으로부터 음주 폭행과 폭언에 노출돼 가정불화로 정서적 사회화가 온전히 이뤄지지 못했다’는 검찰의 발표에 대해 “이걸 가정불화라고 하느냐”며 “이건 아동학대”라고 했다. 이어 “지속적으로 아동학대를 당해서 김소영이 자기중심적 기질을 갖게 됐다는 것인데, 즉 후천적이라는 얘기”라며 “이게 일반적이냐”고 되물었다. 그러면서 “아동 학대당해서 사이코패스가 됐다면 세계적으로 연구 보고를 해야 할 사례”라고 했다. &lt;br&gt;&lt;br&gt;배 프로파일러는 “제가 추정해보건대 김소영이 마음대로 떠든 것 같다”며 “어렸을 때부터 학대당했다는 건 연쇄살인범들이 늘 얘기하는 거다. 유영철, 강호순, 정남규도 그런 얘기를 했다”고 했다. 이어 “연쇄살인범들은 이 서사가 먹힌다는 걸 너무 잘 안다”며 “자기만의 망상에 빠져 있는데, 이 서사에 속는다”고 했다. 그러면서 “경찰로부터 넘어온 사이코패스 점수를 보고 내용을 역설계해 끼워 맞춘 수준에 불과하다”며 “그러면 판사도 서사에 속아 넘어가서 이에 따른 판결을 내리게 된다”고 했다. &lt;br&gt;&lt;br&gt;반면 검찰은 “전문가의 범죄심리 분석과 정신의학‧법의학 자문 등 보완 수사를 통해 김소영의 인격 형성 과정과 범행 당시 심리적 상태를 면밀하게 수사했다”고 지난 10일 밝혔다. 검찰은 “이 사건은 가정불화로 정서적 사회화가 온전히 이뤄지지 못하고 자기중심적 기질이 강한 김소영이 자신의 소비 욕구와 경제적 만족을 위해 남성을 이용하고, 이후 갈등 상황을 손쉽게 회피하거나 남성을 제압하기 위해 약물을 사용해 살해한 이상 동기 범죄”라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 이화여대, 제니 시플리 전 뉴질랜드 총리 초청 강연</title>
-      <link>https://www.chosun.com/national/people/2026/03/13/ECFMHNQGEZC3PEAKWSQA6BPLLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/13/ECFMHNQGEZC3PEAKWSQA6BPLLM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲이화여대&lt;/b&gt;는 13일 대학원관 중강당에서 제니 시플리 전 뉴질랜드 총리 초청 강연을 연다. ‘변화를 주도하는 여성: 역량, 책임 그리고 세계적 영향’을 주제로 한 강연에서 시플리 전 총리는 오늘날 리더들이 해야 할 선택과 미래 세대의 역할 등에 대해 제언한다. 이번 강연은 창립 140주년 기념 ‘글로벌 리더 렉처 시리즈’의 하나다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 장순재·안병곤 아들 이찬 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/13/NSVPSS4OYNDN7IYWR2TBIZ5LZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/13/NSVPSS4OYNDN7IYWR2TBIZ5LZU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWAPGLQXAVBOXFV7TIMH3GIZWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/03/13/ZPRLEC7DPFB3BL4EDXGWJFCZ4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/03/13/ZPRLEC7DPFB3BL4EDXGWJFCZ4E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QK3ZZQY4JBHFRCNZPG6YQEY6SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-3-13일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 6일 ‘우리 아기가 태어났어요’ 코너에 실린 유건우&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘임·출·육’ 지원 든든해지니… ‘둘째 낳아볼까’ 용기 생겼죠</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/13/7ATVZJHE7VEXBIP3U6KQI7KMFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/13/7ATVZJHE7VEXBIP3U6KQI7KMFI/</guid>
-      <dc:creator>포항=박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OF2KOTEZDZFI5J3STOGB574QU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오전 경북 포항시 남구에 있는 포스코퓨처엠 본사 어린이집에서 직원들이 자녀와 함께 환하게 웃고 있다. 포스코퓨처엠은 직원들의 결혼부터 출산, 보육, 교육까지 단계적 지원을 펼치고 있다.
-/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 오전 경북 포항시 남구에 있는 포스코퓨처엠 본사 내 늘푸른솔어린이집. ‘신입생’ 1세반(2024년생) 아이 4명이 엄마·아빠 손을 잡고 밝은 표정으로 등원했다. 작년에는 신입생이 1명뿐이었지만, 올해는 아이를 낳은 직원이 크게 늘었다. 권준범(39) 과장은 “작년부터 사내 육아 복지가 크게 확대되면서 출산에 관심을 가지는 동료가 늘어났다”며 “우리 가족도 원래 계획에 없던 둘째를 낳아 첫째가 5세반, 둘째가 1세반에 다니게 됐다”고 했다.&lt;br&gt;&lt;br&gt;포스코퓨처엠의 사내 어린이집은 2015년 3월 문을 열었다. 첫 졸업생이 생긴 2016년 2월부터 올해까지 319명이 이 어린이집을 수료했다. 해마다 30여 명이 졸업한 셈이다. 어린이집이 문 연 10여 년 전만 해도 아이를 가진 직원이 많다 보니 총정원을 65명으로 꾸려 운영을 시작했다. 그러나 출생률이 점점 떨어지면서 현재는 1세반을 비롯해 2세반(1명)·5세반(4명)을 합쳐 9명이 전부다. 3~4세반은 개설도 못 했다. 이랬던 어린이집에 올봄 오랜만에 많은 신입생이 찾아온 것이다.&lt;br&gt;&lt;br&gt;이는 포스코퓨처엠이 결혼부터 임신, 출산, 보육, 교육에 이르기까지 생애 주기에 맞춰 사내 지원을 대폭 늘린 결과로 풀이된다. 특히 이미 아이를 가진 직원들에게 사내에 필요한 육아 복지의 아이디어를 얻어 새롭게 제도를 만들면서, 결혼은 했지만 출산은 기피하던 많은 젊은 직원들에게 ‘아이 낳을 결심’을 할 수 있도록 여건을 마련했다. 출산 이후에도 단계별로 양육 과정에 맞는 지원책을 설계해 둘째, 셋째까지 고민해 볼 수 있는 용기도 불어넣었다.&lt;br&gt;&lt;br&gt;포스코퓨처엠에선 결혼 시 ‘결혼 축하금’과 ‘신혼여행 지원금’으로 각 200만원씩 총 400만원을 지급한다. 직원이 아이를 가지면 임신 안정기인 ’12주 이내‘와 출산에 임박한 ’32주 이후’에 하루 2시간씩 단축근무를 할 수 있다. 정기검진이 필요한 주수에 하루씩 유급휴가를 쓸 수 있고, 남성 직원도 배우자가 임신하면 마찬가지로 총 3일의 태아검진휴가가 생긴다.&lt;br&gt;&lt;br&gt;난임(難妊)으로 어려움을 겪는 직원에겐 회당 100만원 한도로 총 10번까지 난임 치료 지원금을 지급한다. 시험관 시술 등 난임 치료 대부분이 육체적·정신적 피로도가 크기 때문에 10일의 난임 치료 휴가 제도도 운영 중이다. 오는 8월 출산 예정인 김다휘(34) 대리는 “임신 초기 컨디션이 크게 떨어졌고, 병원에서 자궁 내 피 고임으로 각별히 주의하라는 진단을 받았었다”며 “적지 않은 나이에 아이를 가지다보니 부담이 컸는데 근로시간 단축 제도 등을 통해 충분한 휴식을 취한 덕에 현재 건강하게 임신 생활을 유지 중”이라고 했다.&lt;br&gt;&lt;br&gt;엄마·아빠가 된 직원들에게 가장 호응이 높은 복지 제도는 작년 1월 만들어진 ‘육아기 단축근무’다. 부모 손이 많이 가는 만 12살까지 하루 1~5시간씩 단축 근무가 가능하다. 아이 가진 직원은 재직 중 최대 2년 간 재택근무도 할 수 있다. 출·퇴근 시간을 조정할 수 있는 유연근무제도 운영 중이다. 최윤정(37) 대리는 “단축 근무 덕에 해가 떠 있을 때 아이를 하원시킬 수 있고, 함께 저녁밥도 먹을 수 있어서 육아 공백이 생기지 않는 것이 큰 장점”이라고 했다. 황다훈(30) 대리는 “육아기 근로시간 단축 덕분에 아이를 가까이에서 돌보며 성장 과정을 함께할 수 있었다”며 “출퇴근 부담이 줄면서 가족과 보내는 시간이 늘어난 것도 회사 생활에 큰 힘이 됐다”고 했다.&lt;br&gt;&lt;br&gt;출산 전후로는 총 90일까지 ‘출산전후휴가’를 쓸 수 있다. 미숙아를 낳으면 휴가 일수가 열흘 늘어나 총 100일을 쓸 수 있다. 휴가에 들어가기 전까지는 재택근무로 전환할 수도 있다. 아이를 낳으면 출산 축하금으로 첫째는 300만원, 둘째는 700만원, 셋째부터는 1000만원을 지급한다. 또 아기 용품을 마련하라는 취지에서 ‘아기 첫 만남 선물’로 50만원의 상품권도 지급하고 있다. 육아휴직은 자녀 1명당 총 2년을 쓸 수 있다. &lt;br&gt;&lt;br&gt;어린이집은 포항 본사에서 포스코퓨처엠이 단독으로 운영 중인 늘푸른솔어린이집을 비롯해, 포항·광양제철소와 서울에 나가 있는 직원을 위해 포스코와 함께 운영 중인 공동 어린이집도 쓸 수 있다. 초등학교 입학을 앞둔 아이에겐 회사에서 책가방·학용품·도서 등 입학 선물을 골라 받을 수 있다. 중학교까진 일년에 100만원가량의 학자금이 지급되고, 고등학교~대학교 땐 학비를 일부 지원한다. 셋째 이상 자녀에겐 학비가 전액 지원된다.&lt;br&gt;&lt;br&gt;이지현(38) 차장은 “첫째 출산 후 복직하면서 등·하원이 가장 큰 걱정거리였는데 시차출퇴근제를 활용해 남편과 함께 출퇴근 시간을 조정하며 아이를 돌볼 수 있었고, 회사에서 아이를 키우는 데 도움이 되는 지원을 폭 넓게 만들어준 덕에 고민만 했다가 포기하려고 했던 둘째도 갖게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;늘푸른솔어린이집 주현정 원장은 “시간이 갈수록 어린이집에 입학하는 아이가 줄어들면서 저출생을 실감했는데, 회사 지원이 늘어나며 다시 입학하는 아이가 늘어나고 있다”며 “어린이집이 떠나갈 정도로 왁자지껄하고 행복했던 많은 아이들의 웃음소리를 다시 들을 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월 13일</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/7UCDHSFJUZCGRLZZCITG2IBMVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/7UCDHSFJUZCGRLZZCITG2IBMVY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 14:34:00 +0000</pubDate>
-      <content:encoded>금 - 강원·경상 곳곳에 눈비&lt;br&gt;&lt;br&gt;토~일 - 일교차 큰 초봄 날씨&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JDQMHHWI5G4NB3YEFKYASGSBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법원, ‘이재명 조폭 연루설’ 장영하 징역형 집행유예 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/12/IQ55SNW7UNAMTKBHQU5PMVMPUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/IQ55SNW7UNAMTKBHQU5PMVMPUE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 13:29:02 +0000</pubDate>
-      <content:encoded>2022년 20대 대선 당시 유력 대선 주자였던 이재명 대통령의 ‘조폭 연루설’을 제기해 재판에 넘겨진 장영하 국민의힘 성남시 수정구 당협위원장에게 대법원이 징역형 집행유예를 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2WIZBXGU2WMMBYMFQTQYZUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장영하 국민의힘 성남시 수정구 당협위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 12일 공직선거법상 허위 사실 공표 혐의로 기소된 장 위원장에게 징역 1년에 집행유예 2년을 선고한 원심 판결을 상고기각으로 확정했다.&lt;br&gt;&lt;br&gt;장 변호사는 대선을 앞둔 지난 2021년 10월 기자회견을 열고 이 대통령이 성남시장 재임 중 폭력 조직인 국제마피아파 측에 사업 특혜를 주는 대가로 20억원가량을 받았다고 주장했다. 더불어민주당은 장 변호사를 고발했지만, 서울중앙지검은 장 변호사가 박씨의 말을 사실이라 믿고 의혹을 제기했다고 보고 불기소 처분했다. 민주당이 불기소 처분에 불복해 재정 신청을 했고, 법원이 이를 받아들여 장 변호사는 2023년 5월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 “장 변호사가 공표한 사실을 진실로 믿었다고 보인다”며 허위성의 인식이 있었다고 보기 어렵다는 이유로 무죄 판결을 내렸다. 항소심은 그러나 “장 변호사가 20대 대선을 4개월여 남겨두고 이재명 후보가 당선되지 못하게 할 목적으로 조직폭력배 출신 사업가 등이 이 후보에게 뇌물을 줬다는 등의 허위 사실을 공표했다”며 “이 같은 범행은 유권자들의 합리적 판단을 저해하고 의사 결정을 왜곡한다”며 유죄를 선고한 것이다.&lt;br&gt;&lt;br&gt;대법원도 이 같은 원심 판결에 문제가 없다고 보고 장 위원장 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>테이저건 맞고도 버틴 190㎝ 폭행범… 경찰 4명이 삼단봉으로 제압</title>
