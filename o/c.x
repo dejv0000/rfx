@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 어선 화재 실종 한국인 선원 2명... 이틀째 야간 수색</title>
+      <link>https://www.chosun.com/national/regional/2026/03/15/WZBFCOWAJFCBNMMFCZSAGYPWBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/WZBFCOWAJFCBNMMFCZSAGYPWBY/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 10:13:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DSZRYMI4GGNBQG4ZDINZTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 10시쯤 제주시 한경면 고산리 차귀도 남서쪽 약 90㎞ 해상에서 한림선적 29t급 어선 A호에 화재가 발생해 해경이 진화 작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 차귀도 해상에서 어선 화재로 실종된 한국인 선원 2명을 찾기 위한 야간 수색이 이틀째 이뤄진다.&lt;br&gt;&lt;br&gt;15일 제주해양경찰서에 따르면 이날 오후 6시부터 해경 경비함정과 관공선, 민간 선박 등 함선 18척이 투입돼 수색 작업을 벌인다.&lt;br&gt;&lt;br&gt;야간에는 수색 구역을 사고 해점을 중심으로 가로 37㎞, 세로 33㎞ 범위로 확대할 예정이라고 해경은 설명했다.&lt;br&gt;&lt;br&gt;이날 주간에는 함선 22척(해경 5, 유관기관 2, 민간 15)과 항공기 2대가 동원돼 수색 작업이 이뤄졌지만, 실종자를 찾지 못했다.&lt;br&gt;&lt;br&gt;앞서 전날 오전 9시 58분쯤 제주시 한경면 고산리 차귀도 남서쪽 약 90㎞ 해상에서 한림 선적 근해자망 29t급 어선 A호에 화재가 발생했다&lt;br&gt;&lt;br&gt;승선원 10명 중 8명(한국인 2명, 인도네시아인 6명)은 인근 어선에 구조됐으나, 한국인 선원 2명은 아직 실종 상태다.&lt;br&gt;&lt;br&gt;A호 선체는 화재 발생 7시간여 만인 같은 날 오후 5시 44분쯤 완전히 침몰했다. 침몰 지점의 수심은 약 74m로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쉰들러 ISDS 완승 배경엔... “韓 정부, 어떤 국제법적 의무도 위반 안 해”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/15/XJJ2OJ62YJC4ZOWTE7OW2TATNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/15/XJJ2OJ62YJC4ZOWTE7OW2TATNM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 09:48:57 +0000</pubDate>
+      <content:encoded>한국 정부가 스위스의 글로벌 승강기 업체 쉰들러가 제기한 약 3200억원 규모 국제투자분쟁(ISDS)에서 완승한 배경에는 정부의 정당한 법 집행이 있었던 것으로 15일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZGEYRRGI2DKZJUMMYDGNRRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 지난 14일 서울시 종로구 세종대로 정부서울청사에서 스위스의 글로벌 승강기 업체인 쉰들러(Schindler)가 한국을 상대로 제기한 국제투자분쟁(ISDS) 선고 관련 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “14일 새벽 2시 3분쯤 국제상설중재재판소(PCA)의 중재판정부가 쉰들러의 모든 청구를 기각했다”고 했다. 이로써 쉰들러가 한국 정부에 요구한 약 3200억원 상당의 손해배상금을 전부 내지 않게 됐다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2018년 현대엘리베이터의 2대 주주인 쉰들러가 한국 정부에 약 5000억원 규모 ISDS를 제기하면서 시작됐다. 쉰들러 측은 2013~2015년 진행된 현대엘리베이터 유상증자와 전환사채 발행이 오너 일가의 ‘경영권 강화’ 차원에서 이뤄졌음에도 공정거래위원회·금융감독원·금융위원회 등 관계 당국이 이를 사실상 방치해 부당한 손해를 입었다고 주장했다. 쉰들러 측의 최초 ISDS 청구 액수는 약 5000억원이었으나, 지난 8년간 이뤄진 공방 과정에서 최종 배상 청구액은 3200억원 수준으로 줄었다.&lt;br&gt;&lt;br&gt;이에 대해 한국 정부는 해당 사건의 본질은 ‘주주 간 경영권 분쟁’에 불과한데도 그로 인한 불만을 국가의 책임으로 돌리려는 쉰들러의 시도는 부당하다는 점을 강조했다고 한다. 정부는 금감원의 현대엘리베이터 유상증자 증권신고서 심사와 공정위의 콜옵션 양도 조사 등 관련 조치도 적법하게 수행된 점을 입증한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;한국 정부가 투자협정상의 ‘충분한 보호 및 안전(FPS)’ 의무를 위반했다는 쉰들러 측 주장에 대해 정부는 “해당 의무는 국제법상 ‘물리적 보호’를 의미하는 것일 뿐 ‘법적 보호’는 포함되지 않는다”고 반박한 것으로 전해졌다. 법무부는 “중재판정부가 우리 정부의 주장을 전적으로 받아들여 정부가 투자협정 상 어떠한 국제법적 의무도 위반하지 않았음을 확인했다”고 전했다.&lt;br&gt;&lt;br&gt;법무부는 “중재판정부는 설사 ‘법적 보호’까지 포함된다고 가정하더라도, 쉰들러는 이미 한국 사법 체제 내에서 주주대표소송 등을 통해 충분한 법적 보호를 받았으므로 한국 정부가 투자자 보호 의무를 이행했다고 봤다”고 설명했다. 쉰들러는 2014년 현대엘리베이터 이사 4명을 상대로 주주대표소송을 제기해 현대그룹 회장이 현대엘리베이터에 1700억원 및 이자를 배상하라는 판결을 받아낸 바 있다. 이 판결이 대법원에서 확정되면서 현대그룹 측은 2023년 4월 현대엘리베이터 측에 배상금과 이자 합계 약 2815억원을 완납했다.&lt;br&gt;&lt;br&gt;중재판정부는 한국 정부가 투자협정을 위반하지 않았으므로, 쉰들러 측이 주장한 손해에 대해선 별도로 판단할 필요가 없다고 봤다. 또 ‘패소자 비용 부담 원칙’에 따라 한국 정부의 소송 비용 약 96억원도 쉰들러 측에서 돌려받게 됐다.&lt;br&gt;&lt;br&gt;법무부는 “2018년 중재의향서 접수 이후 8년 간 진행된 대형 투자 분쟁으로서, 우리 정부가 거대 글로벌 기업의 공세를 국제중재에서 완벽히 방어한 값진 승리”라며 “ISDS 사건 중 중재절차 본안 심리단계에서 ‘전부 승소’를 거둔 역대 두 번째 사례”라고 했다. 그러면서 “이번 판정 결과를 면밀히 분석해 향후 발생 가능한 후속 절차에 철저히 대비하겠다”고 했다.&lt;br&gt;&lt;br&gt;최근 법무부는 연일 ISDS 사건에서 승전보를 쓰고 있다. 작년 11월 미국계 사모펀드 론스타와의 약 4000억원 규모 ISDS 취소 사건에서 승소한 데 이어, 지난달 23일에는 미국계 사모펀드 엘리엇 측에 1600억원을 배상해야 한다는 ISDS 결과를 뒤집었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“야호~” 태국서 울린 임진영 환호… KLPGA 개막전 우승</title>
+      <link>https://www.chosun.com/national/people/2026/03/15/C6U4I3AZMBH3VAIK6OC33EVADA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/15/C6U4I3AZMBH3VAIK6OC33EVADA/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 09:09:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRTCNRZMU4WIZRVG44TMYRQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“야호~”&lt;br&gt;&lt;br&gt;15일 KLPGA(한국여자프로골프) 투어 개막전 ‘리쥬란 챔피언십’에서 우승한 임진영(23)이 짧은 환호를 내지르고 그린으로 이동했다. &lt;br&gt;&lt;br&gt;동료들이 다가와 쏟아붓는 생수를 기분좋게 받아낸 그는 방송 인터뷰에서 “엄마, 아빠 사랑해”를 외친 뒤 끝내 눈물을 보였다. &lt;br&gt;&lt;br&gt;2022년 데뷔후 다섯 번째 시즌 만에 이뤄낸 생애 첫 우승의 기쁨과 가족에 대한 미안함이 동시에 스쳐 지나가는 듯했다. &lt;br&gt;&lt;br&gt;이날 태국 촌부리 아마타 스프링 컨트리 클럽(파 72)에서 열린 ‘리쥬란 챔피언십’ 마지막 4라운드. 임진영은 보기 없이 버디만 7개를 잡는 무결점 플레이로 합계 12언더파 273타를 기록하며 우승을 차지했다. &lt;br&gt;&lt;br&gt;3라운드까지 임진영은 선두에 네 타 뒤진 8언더파 공동 7위였다. 3라운드까지 선두였던 전예성, 2위였던 이예원 조보다 두 조 앞서 경기를 치렀고, 선두 자리에서 경기가 끝나길 기다렸다. &lt;br&gt;&lt;br&gt;지난해 3승을 거둬 공동 다승왕에 오른 이예원이 끝까지 임진영을 추격했다. 하지만 이예원은 15번 홀 버디 이후 16~18번 홀을 파로 마쳤고, 임진영은 웃으며 대회를 마칠 수 있었다. &lt;br&gt;&lt;br&gt;경기 후 임진영은 “겨울 전지 훈련 기간 내가 뭐가 부족한지 찾기 위해 나를 객관적으로 바라보려 애썼다”며 “올 시즌부터 시즌 2승을 목표로 삼았는데 이제 첫 승 했으니, 이번 대회 잘했던 부분을 기억하며 남은 시즌도 잘 치러내고 싶다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MFRTCNRZMU4WIZRVG44TMYRQMY.jpg?auth=63dbb1964a5043b98c51eaf65294ccafcca46d5709e9f7003813bd25805103e4&amp;smart=true&amp;width=719&amp;height=525" type="image/jpeg" height="525" width="719">
+        <media:description type="plain">임진영</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>투자 사기조직에 대포 통장, 휴대전화 제공한 20대 남성 최후는?</title>
+      <link>https://www.chosun.com/national/incident/2026/03/15/BPI45CNVUNDZ3P5NCKCVI6DIFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/15/BPI45CNVUNDZ3P5NCKCVI6DIFI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 08:59:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자 사기 조직에 대포 통장과 휴대전화를 제공한 혐의로 재판에 넘겨진 피고인이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 부산지법 형사10단독 허성민 판사는 사기 방조와 전자금융거래법 위반 등 혐의로 기소된 20대 남성 A씨에게 징역 2년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;또 A씨에게 계좌 명의를 제공하고, 도피를 도운 혐의로 기소된 20대 남성 B씨에게는 징역 1년 2개월에 집행유예 2년을 선고하고, 사회봉사 160시간을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 9월 20일부터 작년 1월까지 5개의 통장 계좌와 3대의 휴대전화를 금 투자 사기 조직과 주식 투자 사기 조직에 제공한 혐의를 받는다. 그는 은행 앱과 비밀번호를 제공하면 매달 100만원을 주겠다며 명의자들을 모집했다.&lt;br&gt;&lt;br&gt;A씨는 범행 대가로 금 투자 사기 조직으로부터 계좌당 250만원을, 주식 투자 사기 조직으로부턴 100만원을 각각 챙겼다고 한다. &lt;br&gt;&lt;br&gt;특히 금 투자 사기 조직은 “금 트레이딩에 투자하면 원금을 보장하고, 큰 수익을 낼 수 있다”고 13명을 속여 A씨가 제공한 대포통장으로 1억5000만원을 가로챈 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 A씨에게 계좌를 제공하고, 유치장 접견실에서 A씨의 공범과 A씨가 스피커폰으로 통화하도록 도운 혐의를 받는다. 또 경찰 수사를 피해 도주하던 A씨에게 빌라 등을 제공한 혐의도 있다.&lt;br&gt;&lt;br&gt;허 판사는 “A씨는 집행유예 기간 중 자숙하지 않고 범행을 저질러 재범의 위험성이 높고 피해 금액이 상당한데 대부분 변제가 되지 않았다”며 “B씨의 경우 계좌를 양도하고, A씨의 도피를 돕는 등 죄질이 좋지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>늦은 밤 강남 달리는 ‘자율 주행 택시’, 4월부터 정식 유료 운행 돌입</title>
       <link>https://www.chosun.com/national/national_general/2026/03/15/P6IMMX4BONBQVFX4JBYCZ3RYQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/15/P6IMMX4BONBQVFX4JBYCZ3RYQM/</guid>
@@ -870,15 +909,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4DCNZSG42GGZRSGY4DSZRRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청이 2024년 3월 불법 조업을 한 외국 선박을 나포했다. /해경청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 지난 6일 외국 어선의 배타적 경제수역(EEZ) 내 불법 조업에 대한 담보금 부과 기준을 법정형 최상한까지 일괄 상향했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;담보금은 불법 조업으로 나포된 선박과 억류된 선장 등을 석방해 주는 조건으로 부과되는 금품이다. ‘해양법에 관한 국제협약’ 및 ‘배타적 경제수역에서의 외국인어업 등에 대한 주권적 권리의 행사에 관한 법률(경제수역어업주권법)’에 법적 근거가 있고, 경제수역어업주권법(제223조 제5항)에 따라 검사가 금액을 정한다.&lt;br&gt;&lt;br&gt;지금까지 담보금 부과액과 상한은 위반 행위 유형이나 선박 규모 등에 따라 달랐다. 그런데 최근 불법 조업 외국 어선들이 담보금을 ‘품앗이’해 조직적으로 대응하면서 법 집행 효과가 제한되고 있다는 지적이 나왔다. &lt;br&gt;&lt;br&gt;이에 대검은 위반 유형별 담보금 상한을 법정형 최상한까지 일괄 상향하고 인천지검 등 6개 검찰청에 불법 조업 사건에 강력 대응하라고 지시했다. 예컨대 법정형이 2억원 이하 벌금인 조업일지 허위·부실 기재행위 담보금은 지금까지 최대 4000만원이었지만, 이번 조치로 최대 2억원까지 부과가 가능해졌다.&lt;br&gt;&lt;br&gt;실제 제주지검은 지난 8일 EEZ 내에서 어획량을 허위 기재한 중국 어선 2척에 각각 담보금 2억원과 1억원 등 총 3억원을 부과했다. 이들은 제주 EEZ 내에서 포획한 어획물 4762㎏ 중 681㎏만 조업일지에 기재하고 나머지는 비밀 어창에 은닉한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 작년 12월 해양수산부 및 해양경찰청 업무보고에서 “한국 해역에 들어와서 불법 조업하면 꼭 잡혀서 돈도 엄청나게 뺏기고 (만다는 인식을 심어줘야 한다)”면서 “10척이 모아서 내기도 부담스러울 만큼 벌금을 올려버려야 한다”고 했다. &lt;br&gt;&lt;br&gt;대검 관계자는 “국회에서도 경제수역어업주권법을 개정해 처벌 기준을 강화하려는 논의가 진행 중이다”면서 “법률 개정 전이라도 불법조업 근절을 위해 가능한 조치를 한 것”이라고 했다. 대검은 향후 법률이 개정돼 벌금이 상향되면 이에 맞게 담보금도 함께 올리는 방향을 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>고려대 ‘천원의 아침밥’ 이용 학생 19만명… 전국 대학 최대 규모</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/13/IWRD65PBXRHFJDZ6BQKT3XNPPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/IWRD65PBXRHFJDZ6BQKT3XNPPI/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Mar 2026 01:22:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFTGGMDBHE3DSNZTMNSWGZLGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동원 고려대 총장이 지난 10일 교내 한투스퀘어 학생회관에서 학생 대표들과 아침 식사를 하고 있다. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대가 ‘2026년 천원의 아침밥’ 사업 참여 대학으로 선정됐다고 13일 밝혔다. 지난해에는 전국 대학 최대 규모인 19만여명이 고려대 천원의 아침밥을 찾았다.&lt;br&gt;&lt;br&gt;천원의 아침밥은 아침 식사 결식률이 높은 대학생들의 건강 증진과 쌀 소비 촉진 등을 위해 정부와 지방자치단체, 대학이 재정을 마련해 대학생들에게 1000원에 아침밥을 제공하는 정책이다. 농림축산식품부와 농림수산식품교육문화정보원이 주관하며, 고려대의 경우 교우 기부금인 KUPC와 서울시, 성북구도 후원에 참여하고 있다.&lt;br&gt;&lt;br&gt;고려대는 “지난해 한 해 동안 19만3642명이 고려대 천원의 아침밥을 먹었다”며 “이는 하루 평균 1500명 이상의 학생들이 이용한 것”이라고 했다. 한편 고려대는 학생식당 내 배식뿐 아니라 간편식 포장 메뉴도 선보이고 있는데 학생들의 만족도가 높다. 고려대 천원의 아침밥을 찾는 학생들 가운데 10명 중 7명꼴(1100명)이 간편식 이용자다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIGILAR2PFPZDJZD6X57TWUCVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고려대 학생들이 교내 학생회관 내 식당에서 ‘천원의 아침밥’을 구매하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 3학년에 재학 중인 이다빈씨는 “물가가 많이 올라 식비 부담이 컸는데 1000원에 아침 식사를 해결할 수 있어 생활비 절약에 도움이 된다”며 “1교시 수업이 있는 날에는 주먹밥 같은 간편식을 들고 강의실로 이동할 수 있어 편하다”고 말했다.&lt;br&gt;&lt;br&gt;김동원 고려대 총장은 지난 10일 교내 학생회관에서 열린 ‘2026학년도 1학기 천원의 아침밥 시행’을 기념하는 조찬 행사에 참석해 “최근 고물가 상황으로 학생들의 식비 부담이 커지고 있는 가운데 현장에서 직접 의견을 들을 수 있어 뜻깊다”고 했다. 김 총장은 그러면서 “천원의 아침밥 사업을 통해 학생들이 건강하게 아침 식사를 챙기고 학업에 더욱 정진할 수 있도록 아낌없이 지원하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2027학년도 대학별 의대 정원 발표... 강원대·충북대 각 39명 증원으로 최다 </title>
       <link>https://www.chosun.com/national/education/2026/03/13/MBAXNMRIBFABLFYLBTJVD4TSME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/13/MBAXNMRIBFABLFYLBTJVD4TSME/</guid>
@@ -895,33 +925,6 @@
       <description/>
       <pubDate>Thu, 12 Mar 2026 22:41:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGCNRWGBSWKMBXMI3DAMBTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강북 모텔 약물 사건' 피의자 김소영의 공개된 얼굴(오른쪽).  왼쪽은 인스타그램에 올라온 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배상훈 프로파일러가 ‘강북 약물 연쇄살인’ 사건 피고인 김소영(20)에 대한 검찰 수사 결과에 대해 “김소영이 제멋대로 떠든 이야기를 공소장에 갖다 붙였다”고 비판했다. 반면 검찰 측은 여러 전문가의 심도 있는 자문을 바탕으로 범행 동기 등을 분석한 것이라는 입장이다. &lt;br&gt;&lt;br&gt;배 프로파일러는 지난 10일 자신의 유튜브에 ‘모텔 연쇄살인범이 가정불화 때문에 사이코패스가 됐다는 황당한 수사 결과, 연쇄살인범의 황당한 서사 복제’라는 제목의 영상을 올렸다. &lt;br&gt;&lt;br&gt;배 프로파일러는 우선 ‘김소영이 어린시절 부친으로부터 음주 폭행과 폭언에 노출돼 가정불화로 정서적 사회화가 온전히 이뤄지지 못했다’는 검찰의 발표에 대해 “이걸 가정불화라고 하느냐”며 “이건 아동학대”라고 했다. 이어 “지속적으로 아동학대를 당해서 김소영이 자기중심적 기질을 갖게 됐다는 것인데, 즉 후천적이라는 얘기”라며 “이게 일반적이냐”고 되물었다. 그러면서 “아동 학대당해서 사이코패스가 됐다면 세계적으로 연구 보고를 해야 할 사례”라고 했다. &lt;br&gt;&lt;br&gt;배 프로파일러는 “제가 추정해보건대 김소영이 마음대로 떠든 것 같다”며 “어렸을 때부터 학대당했다는 건 연쇄살인범들이 늘 얘기하는 거다. 유영철, 강호순, 정남규도 그런 얘기를 했다”고 했다. 이어 “연쇄살인범들은 이 서사가 먹힌다는 걸 너무 잘 안다”며 “자기만의 망상에 빠져 있는데, 이 서사에 속는다”고 했다. 그러면서 “경찰로부터 넘어온 사이코패스 점수를 보고 내용을 역설계해 끼워 맞춘 수준에 불과하다”며 “그러면 판사도 서사에 속아 넘어가서 이에 따른 판결을 내리게 된다”고 했다. &lt;br&gt;&lt;br&gt;반면 검찰은 “전문가의 범죄심리 분석과 정신의학‧법의학 자문 등 보완 수사를 통해 김소영의 인격 형성 과정과 범행 당시 심리적 상태를 면밀하게 수사했다”고 지난 10일 밝혔다. 검찰은 “이 사건은 가정불화로 정서적 사회화가 온전히 이뤄지지 못하고 자기중심적 기질이 강한 김소영이 자신의 소비 욕구와 경제적 만족을 위해 남성을 이용하고, 이후 갈등 상황을 손쉽게 회피하거나 남성을 제압하기 위해 약물을 사용해 살해한 이상 동기 범죄”라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>테이저건 맞고도 버틴 190㎝ 폭행범… 경찰 4명이 삼단봉으로 제압</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/ZTAWFX4V4FBQBEAWF2ZJ5U7XRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/ZTAWFX4V4FBQBEAWF2ZJ5U7XRU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 11:12:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZQWMNTBGYYTQNLBGMZTCNJTGE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;길거리에서 난동을 부린 A씨를 제압하는 장면. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아무런 이유도 없이 차량 운전자를 ‘묻지마 폭행’하고 흉기로 시민들을 위협한 40대 남성이 체포됐다. &lt;br&gt;&lt;br&gt;12일 경기남부경찰청은 특수협박 사건의 피의자 40대 남성 A씨의 검거 장면이 담긴 영상을 공개했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오후 8시쯤 경기 안산시의 한 길거리에서 길가에 세워진 승용차의 운전석 문을 열고 40대 운전자 B씨를 아무 이유도 없이 폭행했다.&lt;br&gt;&lt;br&gt;B씨가 이에 저항하자 A씨는 근처 카페로 들어가 빵을 썰 때 쓰는 스테인리스 ‘빵칼’을 갖고 나왔다. A씨가 흉기를 들고 거리를 돌아다니자 시민들은 놀라서 급히 자리를 피했다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 긴급 신고 지령인 ‘코드1’을 발령했고, 선부파출소 소속 경찰관 등이 2분 만에 현장에 도착했다. 곧 파출소 경찰관 외에도 경찰서 형사 등 총 10여 명이 현장에 출동해 A씨를 포위했다. &lt;br&gt;&lt;br&gt;경찰은 A씨에게 흉기를 버리라고 5차례에 걸쳐 명령했지만, 이를 거부하자 테이저건을 발사했다. 그러나 키 약 190㎝가량의 거구인 A씨는 테이저건을 맞고도 쓰러지지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSDOMZYMVSDAOJRME4DKMRXG4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;A씨를 피해 달아나는 시민들. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 경찰은 다시 테이저건을 사용하고, 한꺼번에 4명이 달려들어 삼단봉으로 흉기를 든 손을 내려쳐 A씨를 제압했다. &lt;br&gt;&lt;br&gt;다행히 A씨에게 폭행당한 B씨가 경상을 입은 것 외에 이번 사건으로 발생한 부상자는 없었다.&lt;br&gt;&lt;br&gt;경찰은 특수협박과 폭행 혐의로 A씨를 현행범 체포해 조사하고 있다. 경찰은 특수공무집행방해 등 추가 혐의 적용을 검토한 뒤 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>심우정, 박성재 ‘내란 중요임무 종사’ 재판 증인 출석해 증언 거부</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/12/UGTFU3SUUNAXXDQQLPI6R7RM2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/UGTFU3SUUNAXXDQQLPI6R7RM2U/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 12:21:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TAMBVGJRDIMJTMJSDSOJUMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박성재 전 법무부 장관의 내란 중요임무 종사 혐의 재판에 심우정 전 검찰총장이 증인으로 출석했으나 수사 상황을 이유로 증언을 거부했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 12일 박 전 장관과 위증 혐의로 기소된 이완규 전 법제처장의 속행 공판을 진행했다.&lt;br&gt;&lt;br&gt;심 전 총장은 지난 기일에 불출석 사유서를 제출하고 출석하지 않았으나 이날은 증인으로 재판에 모습을 드러냈다. 하지만 심 전 총장은 현재 내란 중요임무 종사 혐의 등으로 수사를 받고 있다며 특검 측 증인신문과 박 전 장관 측 반대신문에 모두 증언을 거부했다. &lt;br&gt;&lt;br&gt;재판 후반부쯤 재판부는 심 전 총장에게 검찰 수사 보고 절차 등을 묻기도 했다. 재판부는 심 전 총장에게 일반적인 검사 파견 절차에 대해 질문했는데, 심 전 총장은 “(10명 정도 되는 다수 파견은) 일반적으로 파견 공모 절차를 진행한다”고 답했다. 이에 재판부가 “비상 상황에서 파견 절차는 공모 절차가 없을 것 같다”고 하자 심 전 총장은 “검사 임관 후 급하게 수사단 파견을 나간 적 있는데, 그런 경우에는 공모 절차 없이 나갈 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 재판을 마치기 전 “다음 달 중 변론을 종결하고 5월에는 판결을 선고하는 것이 목표”라며 특검과 변호인에게 미리 증인을 신청해 달라고 요청했다. &lt;br&gt;&lt;br&gt;박 전 장관은 12·3 비상계엄 선포 직후 법무부 실·국장 회의를 소집해 합동수사본부로 검사 파견을 검토한 등의 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“WBC 점수 조작 죄송” 문구에 발칵...두끼 대만 ‘혐한 마케팅’ 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/JMC4GBODKBCYJD6M3DXXAZVTTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/JMC4GBODKBCYJD6M3DXXAZVTTU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 09:20:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTX3WYU6ARA2LHJ472BOY4IBBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랜차이즈 ‘두끼’의 대만 지사가 소셜미디어(SNS) 계정을 통해 혐한 마케팅을 해 논란이 되고 있다./두끼 대만 SNS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 떡볶이 프랜차이즈 두끼가 대만 현지 법인이 한국 야구 대표팀을 비하하는 ‘혐한 마케팅’을 진행해 논란이 일자 공식 사과했다.&lt;br&gt;&lt;br&gt;12일 두끼 본사 측은 “최근 두끼 대만에서 이벤트를 진행하면서 왜곡된 사실을 표현한 것을 확인했다”며 “불편함과 실망을 드린 모든 분께 진심으로 사과드린다”고 했다. 이어 “이 내용에 대해 인지한 즉시 현지 파트너사에 즉각적으로 게시물 삭제 요청 및 재발 방지를 위한 엄중한 주의를 전달했다”며 “앞으로 글로벌 매장 운영 가이드라인을 더 강화해 이 같은 일이 재발하지 않도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;논란은 지난 11일 두끼 대만 공식 소셜미디어(SNS)에 올라온 홍보 게시물에서 시작됐다. 게시물에는 한국인으로 추정되는 남성이 무릎을 꿇고 종이를 들고 사과하는 사진 여러 장이 올라왔다. 종이에는 “우리가 점수를 조작하면 안 됐다” “대인은 떡볶이를 탓하지 않는다” 등의 문구가 적혀 있었다. 게시물에는 3월 말까지 2인 세트를 540대만달러(약 2만5000원)에 판매한다는 내용도 포함됐다.&lt;br&gt;&lt;br&gt;문제가 된 것은 홍보물에 등장한 ‘540’이라는 숫자와 ‘조작’이라는 표현이다. 숫자 ‘540’은 지난 8일 월드 베이스볼 클래식 조별리그에서 한국이 대만에 4-5로 패했던 경기 결과를 떠올리게 한다는 지적이 제기됐다. &lt;br&gt;&lt;br&gt;또한 ‘조작’이라는 표현을 사용해 한국 야구 대표팀의 명예를 훼손했다는 비판도 나왔다. 앞서 일부 대만 네티즌들은 문보경이 지난 9일 호주전 9회초 마지막 타석에서 삼진으로 물러난 장면을 문제 삼았다. 당시 한국은 7-2로 앞서고 있었고, 만약 8-3으로 승리할 경우 대만이 8강에 오를 수 있는 상황이었다. 이 여파로 일부 대만 네티즌들은 문보경의 SNS에 악성 댓글을 쏟아냈다.&lt;br&gt;&lt;br&gt;두끼 대만 SNS 게시물을 본 현지 교민과 야구 팬들은 항의에 나섰다. 두끼 대만 공식 SNS에는 “건드리면 안 되는 것을 건드렸다” “돈을 벌기 위해 혐오 정서를 마케팅에 이용했다” 등 비판 댓글이 달렸다. 국내 온라인 커뮤니티에도 “저런 거 하면 한국에서 모를 줄 아는 건가” “불쾌하다” “한국 시장은 신경 안 쓰는 거냐” 등의 지적이 잇따랐다. &lt;br&gt;&lt;br&gt;논란이 커지자 두끼 대만 측은 문제가 된 사진과 게시물을 삭제했다. 또 “한국을 소재로 유머러스하게 표현하려 했지만 문구 선택에 신중하지 못했다”며 야구 팬들에게 사과했다. &lt;br&gt;&lt;br&gt;다만 논란이 된 2인 540대만달러 할인 이벤트는 이달 31일까지 계속 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>간담회 연 전국 법원장들 “재판소원 실무 혼란 우려... 법 왜곡죄 관련 형사법관 보호 방안 마련해야”</title>
