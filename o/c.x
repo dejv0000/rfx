@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘젝스키스’ 장수원, 잠실 아파트 청약 당첨 후 매물 내놓은 사연</title>
+      <link>https://www.chosun.com/national/people/2026/03/15/HWBGR2GW65HFXHWWQGAS6HZMU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/15/HWBGR2GW65HFXHWWQGAS6HZMU4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 10:31:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUL4YADMWNCLFDRDGBRZKNR7TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 젝스키스 출신 방송인 장수원./유튜브 '이용진 유튜브'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 젝스키스 출신 방송인 장수원이 과거 서울 잠실 아파트 청약에 당첨됐던 사실을 공개했다. 현재는 보유 주택을 매물로 내놓은 상태라고도 밝혔다.&lt;br&gt;&lt;br&gt;장수원은 지난 14일 공개된 ‘이용진 유튜브’ 영상에 출연해 2018~2019년쯤 잠실 지역 아파트 청약에 당첨됐던 당시를 언급했다. 당첨 이후 자금을 마련하는 과정이 쉽지 않았다고 했다.&lt;br&gt;&lt;br&gt;그는 “중도금을 준비할 돈이 부족해 여러 일을 하며 겨우 마련했다”고 말했다. 이어 “아이돌 활동 당시 지금처럼 정산 체계가 정비되지 않은 시기라 아이돌이라고 해서 큰돈을 벌기 어려웠다”며 “계약서를 작성하지 않고 구두로 약속을 맺고 활동하는 사례도 적지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이용진이 정부의 다주택자 규제 정책을 언급하자 장수원은 “그래서 집을 다 내놨다. 세금을 감당하기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;장수원의 발언은 최근 정부의 부동산 규제 강화 기조와 맞물려 관심을 모았다. 이재명 대통령은 최근 “망국적 부동산 구조를 바로잡겠다”며 강경한 정책 기조를 밝혔다.&lt;br&gt;&lt;br&gt;정부는 다주택자 양도소득세 중과 유예 조치를 오는 5월 9일 종료할 예정이다. 실거주 목적이 아닌 1주택 보유자에 대한 추가 규제도 검토하고 있다. 신축 아파트 중도금·잔금 대출 규제 강화와 보유세 인상 가능성까지 거론되고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>메모리값 오르자 학교 PC부품 저사양으로 바꿔치기... 업체 직원 고발</title>
+      <link>https://www.chosun.com/national/regional/2026/03/15/ZISXMPE2YVDTHNLHD4VQAXV5AI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/ZISXMPE2YVDTHNLHD4VQAXV5AI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 11:06:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3GEMJYGJQTSOBQMI4DGZRTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시교육청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;메모리카드 가격이 오르자 차익을 노리고 학교 컴퓨터 부품을 더 저렴한 제품으로 바꿔치기 한 의혹을 받는 전산장비 유지보수 업체 직원이 경찰에 고발됐다.&lt;br&gt;&lt;br&gt;인천시교육청은 최근 특수절도 혐의로 모 전산 장비 유지보수 업체의 전 직원 A씨를 경찰에 고발했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;시교육청은 A씨가 올해 초 인천시 남동구와 부평구 학교 7곳에서 메모리카드와 램(RAM·임시 저장 메모리) 등 컴퓨터 부품을 저사양 제품으로 바꿔치기한 것을 확인하고 고발장을 냈다.&lt;br&gt;&lt;br&gt;현재까지 교육 당국이 파악한 절도 피해는 컴퓨터 200여대의 7000만원 상당 부품이다.&lt;br&gt;&lt;br&gt;A씨는 최근 메모리 가격 상승 흐름이 지속되자 부품을 빼돌려 차익을 얻으려 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이들 학교 교사는 컴퓨터 성능이 갑자기 떨어지자 업체에 점검을 의뢰했고, 그 결과 당초 납품된 것보다 낮은 사양의 부품들이 탑재돼 있던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;해당 업체는 지난해 3월 다른 업체 3곳과 컨소시엄을 꾸려 시교육청과 통합 유지보수 계약을 맺은 상태다.&lt;br&gt;&lt;br&gt;이 프로그램은 시교육청이 장비 유지보수가 필요한 학교에 계약된 업체를 연결해 장비를 관리하도록 했다. 해당 업체는 절도 정황이 드러나자 A씨를 해고하고 피해 복구에 나선 상태다.&lt;br&gt;&lt;br&gt;인천시교육청 관계자는 “이 업체가 포함된 컨소시엄이 유지보수를 담당하는 390여개교에 대해 전수 조사를 할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제주 어선 화재 실종 한국인 선원 2명... 이틀째 야간 수색</title>
       <link>https://www.chosun.com/national/regional/2026/03/15/WZBFCOWAJFCBNMMFCZSAGYPWBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/WZBFCOWAJFCBNMMFCZSAGYPWBY/</guid>
@@ -925,24 +943,6 @@
       <description/>
       <pubDate>Thu, 12 Mar 2026 22:41:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGCNRWGBSWKMBXMI3DAMBTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강북 모텔 약물 사건' 피의자 김소영의 공개된 얼굴(오른쪽).  왼쪽은 인스타그램에 올라온 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배상훈 프로파일러가 ‘강북 약물 연쇄살인’ 사건 피고인 김소영(20)에 대한 검찰 수사 결과에 대해 “김소영이 제멋대로 떠든 이야기를 공소장에 갖다 붙였다”고 비판했다. 반면 검찰 측은 여러 전문가의 심도 있는 자문을 바탕으로 범행 동기 등을 분석한 것이라는 입장이다. &lt;br&gt;&lt;br&gt;배 프로파일러는 지난 10일 자신의 유튜브에 ‘모텔 연쇄살인범이 가정불화 때문에 사이코패스가 됐다는 황당한 수사 결과, 연쇄살인범의 황당한 서사 복제’라는 제목의 영상을 올렸다. &lt;br&gt;&lt;br&gt;배 프로파일러는 우선 ‘김소영이 어린시절 부친으로부터 음주 폭행과 폭언에 노출돼 가정불화로 정서적 사회화가 온전히 이뤄지지 못했다’는 검찰의 발표에 대해 “이걸 가정불화라고 하느냐”며 “이건 아동학대”라고 했다. 이어 “지속적으로 아동학대를 당해서 김소영이 자기중심적 기질을 갖게 됐다는 것인데, 즉 후천적이라는 얘기”라며 “이게 일반적이냐”고 되물었다. 그러면서 “아동 학대당해서 사이코패스가 됐다면 세계적으로 연구 보고를 해야 할 사례”라고 했다. &lt;br&gt;&lt;br&gt;배 프로파일러는 “제가 추정해보건대 김소영이 마음대로 떠든 것 같다”며 “어렸을 때부터 학대당했다는 건 연쇄살인범들이 늘 얘기하는 거다. 유영철, 강호순, 정남규도 그런 얘기를 했다”고 했다. 이어 “연쇄살인범들은 이 서사가 먹힌다는 걸 너무 잘 안다”며 “자기만의 망상에 빠져 있는데, 이 서사에 속는다”고 했다. 그러면서 “경찰로부터 넘어온 사이코패스 점수를 보고 내용을 역설계해 끼워 맞춘 수준에 불과하다”며 “그러면 판사도 서사에 속아 넘어가서 이에 따른 판결을 내리게 된다”고 했다. &lt;br&gt;&lt;br&gt;반면 검찰은 “전문가의 범죄심리 분석과 정신의학‧법의학 자문 등 보완 수사를 통해 김소영의 인격 형성 과정과 범행 당시 심리적 상태를 면밀하게 수사했다”고 지난 10일 밝혔다. 검찰은 “이 사건은 가정불화로 정서적 사회화가 온전히 이뤄지지 못하고 자기중심적 기질이 강한 김소영이 자신의 소비 욕구와 경제적 만족을 위해 남성을 이용하고, 이후 갈등 상황을 손쉽게 회피하거나 남성을 제압하기 위해 약물을 사용해 살해한 이상 동기 범죄”라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>간담회 연 전국 법원장들 “재판소원 실무 혼란 우려... 법 왜곡죄 관련 형사법관 보호 방안 마련해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/12/UZN5JX3ERVCZHLXVFMKAH5BN4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/12/UZN5JX3ERVCZHLXVFMKAH5BN4A/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 09:15:23 +0000</pubDate>
-      <content:encoded>대법원은 12일 전국 법원장 간담회에서 ‘사법 3법’ 중 이날부터 시행된 재판소원 제도에 대해 “개정 헌법재판소법 규정의 의미가 불명확하고 관련 법률 개정이 병행되지 않아 법 시행 후 재판실무와 제도운영에 초래될 수 있는 혼란에 대한 우려가 제기됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;법 왜곡죄 도입법에 대해선 “형사법관에 대한 고소·고발 등 외부적 부담의 증가로 국민이 누려야 할 ‘신속하고 공정한 재판을 받을 권리’가 침해되지 않도록 실효성 있는 보호·지원 방안이 필요하다는 데 인식을 같이 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSGKMRSGJSDENDBMEYWGMZSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 법원장 간담회./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 구체적으로 재판소원 제도에 대해선 “재판기록 송부절차, 사법부의 의견제출 방식을 비롯해, 재판소원 인용 시 취소된 재판의 후속절차, 확정된 재판을 전제로 한 집행의 효력 등의 쟁점이 간담회에서 논의됐다”고 밝혔다. 앞서 법조계에선 법원과 헌재가 재판 기록을 주고받는 방식과 관련해 “트럭으로 기록을 옮겨야 하는 것 아니냐”는 우려가 제기됐었다. 두 기관 사이 방대한 재판기록을 전자적으로 주고받을 시스템이 구축돼 있지 않기 때문이다. 이와 관련, 법원장들은 관련 법령을 정비하고 유관기관 협의 등을 통해 부작용을 최소화해야 한다는 데 뜻을 모았다고 한다.&lt;br&gt;&lt;br&gt;법원장들은 재판소원 제도와 함께 이날부터 시행된 법 왜곡죄 도입법에 대해선 “형사법관에 대한 실효성 있는 보호·지원 방안이 필요하다는데 뜻을 모았다”고 밝혔다. 법 왜곡죄는 판·검사가 형사 사건에서 법을 왜곡해 적용하면 10년 이하 징역과 10년 이하 자격 정지에 처하도록 하는 내용이다. 법원 안팎에서는 “처벌 가능성이 열리면서 법관들의 형사재판부 기피 현상이 심해질 수 있다” “법관들이 위축돼 신속하고 공정한 재판을 하지 못할 수 있다”는 우려가 나왔었다. 이에 법원장들은 직무 관련 소송을 지원하기 위한 예산의 확충, 법관 보호를 통해 재판 독립을 도모할 위원회 설치 및 운영, 신상정보 보호 강화 방안 등을 논의했다고 밝혔다. 또 형사전문법관 도입과 형사재판 관련 수당 증액도 논의했다.&lt;br&gt;&lt;br&gt;한편 2년의 유예기간을 가진 뒤 시행될 대법관 증원법에 대해 법원장들은 대법원 재판부 구성 및 심리 방식 변경, 사실심 부실화 방지, 청사 등 물적 환경 조성 필요성 등을 논의했다고 한다. 특히 사실심(1·2심) 부실화를 방지하기 위한 법관 증원, 시니어법관 제도 도입, 재판연구원 증원 등 구체적인 방안에 대한 의견이 제시됐다고 대법원은 밝혔다.&lt;br&gt;&lt;br&gt;현재 대법관은 총 14명이지만, 대법관 증원법이 시행되면 대법관은 26명까지 늘어나게 된다. 이에 따라 일선 법원에서 재판을 맡던 판사들이 대법원 재판연구관으로 차출돼 하급심 재판의 부담이 가중되고, 심리가 부실해질 수 있다는 우려가 법조계에서 꾸준히 제기돼 왔었다.&lt;br&gt;&lt;br&gt;충북 제천의 한 리조트에서 열린 이날 간담회에는 전국 각급 법원장 등 44명이 참석했다. 이날 간담회는 사법 3법 관련 논의를 위해 법원행정처의 주요 현안 보고를 생략하고 곧바로 관련 논의에 들어갔다고 한다.&lt;br&gt;&lt;br&gt;법원장들은 오는 13일 2일차 간담회에선 ‘대국민 사법서비스 접근성 제고를 위한 AI 개발의 필요성과 단계적 추진 과제’에 대하여 토론할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 檢, 한국평가데이터 본사 압수수색…신용정보법 위반 혐의</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/12/EWD2YOSHRVFH7PZTTHSUD5FBFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/12/EWD2YOSHRVFH7PZTTHSUD5FBFE/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 09:01:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5BQCBWZMJKPAJQQIRZ65D4DTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 금품을 받고 기업의 신용 등급을 올려준 혐의를 받는 신용 평가 기관에 대한 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;12일 본지 취재를 종합하면, 서울동부지검 형사6부(부장 이정호)는 이날 오전부터 신용정보법 위반 혐의로 서울 영등포구 소재 한국평가데이터 본사와 대구경북지사를 압수수색 중이다. 한국평가데이터는 평가 등급 상향을 조건으로 중소기업에 수천만원 상당의 부가 상품을 판매한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;한국평가데이터는 2005년 국책 기관과 시중은행 등이 공동 출자해 설립된 기업 신용 정보 조사·평가 전문 기관이다. 1400만개 이상의 기업 데이터를 보유한 곳으로, 경영주 역량과 기술 개발 능력 등을 종합적으로 평가해 기업 신용 등급과 기술 신용 등급을 매긴다. 형식적으로는 민간 기관이지만 사실상 ‘준공공기관’에 가깝다. 산업은행, 기술보증기금, 신용보증기금 등을 주주로 두고 있고, 대표이사와 임원 상당수가 재정경제부·금융위원회·금융감독원 출신 전관들로 채워지기도 한다. 현재 대표이사 역시 재경부 전신인 기획재정부 차관보 출신이다.&lt;br&gt;&lt;br&gt;한국평가데이터의 등급 조작 논란은 이번이 처음이 아니다. 지난 2022년에는 강민국 국민의힘 의원실이 한국평가데이터가 매출을 올리기 위해 신용 평가를 조작하고, 기술 자격증을 무단 도용해 기업 신용 등급을 상향 조정해 주는 대가로 고가의 금융 서비스 상품을 강매했다고 발표하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김호중 방지법’에 꼬리 내린 이재룡...다른 거짓말은? </title>
