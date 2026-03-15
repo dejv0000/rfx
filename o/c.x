@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>스마트폰 등 1억2000만원 어치 사라진 택배물… 물류 직원이 범인이었다</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/15/T7KKJMVPPRDBRDMYC7SLK3I25A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/15/T7KKJMVPPRDBRDMYC7SLK3I25A/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 04:26:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2DKYRRGI3WCOJTGE3GGMZXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택배 물류센터에서 근무하면서 1억2000만원 상당의 택배 물품을 빼돌린 30대 남성에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사3단독 지윤섭 부장판사는 절도 혐의로 재판에 넘겨진 A(30대)씨에게 징역 1년 2개월에 집행유예 3년을 선고했다고 15일 밝혔다. 또 160시간의 사회봉사를 명령했다.&lt;br&gt;&lt;br&gt;A씨는 충북 청주시 흥덕구 한 택배 물류센터에서 근무하면서 지난해 2월부터 5월까지 지인 2명과 함께 127차례에 걸쳐 총 1억2000만원 상당의 택배 물품을 훔친 혐의를 받는다. 훔친 물품은 대부분 스마트폰, 스마트워치, 무선 이어폰 등이다.&lt;br&gt;&lt;br&gt;택배 분류 작업을 담당한 A씨는 고가의 전자기기가 들어있는 상자를 노리고 송장 바코드를 스캔하지 않거나 송장을 부착하지 않고 빼돌린 후 화물차에 실어 가져간 것으로 조사됐다. 훔친 물품 일부는 장물업자 등에게 되판 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지 부장판사는 “피고인은 공범들과 공모해 조직적으로 범행해 죄질이 불량하고, 피해 규모도 크다”면서 “다만, 피해를 변제하고 합의한 점, 수사기관에 자수서를 제출한 점, 실제로 취득한 이익이 일부인 점 등을 종합해 형을 정했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>월요일 출근길 기온 뚝, 일교차 커</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/15/IMT4BT2ZRBFMRALQQZ73KPA2KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/15/IMT4BT2ZRBFMRALQQZ73KPA2KQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 04:15:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYGIZDGGE4TOMZTMIYGEYZZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 오전 서울 종로구 광화문광장에서 외국인 관광객들이 외투에 손을 넣고 발걸음을 옮기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 16일은 일부 지역의 아침 기온이 0도 이하로 떨어지고 낮과 밤의 기온차가 클 것으로 전망된다. 고기압의 가장자리에 들어 전국에 구름이 많겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 16일 아침 최저 기온은 영하 4도에서 영상 6도, 낮 최고 기온은 영상 10~16도로 예보됐다. 강원 철원이 영하4도~12도, 춘천이 영하2도~15도를 기록하겠다.&lt;br&gt;&lt;br&gt;주요 지역의 경우 서울이 1~13도, 대전이 영하 1도에서 14도, 광주·대구 2~15도, 부산 6~15도를 기록할 전망이다. 당분간 평년보다 높은 수준의 기온을 나타내겠지만, 일교차가 큰만큼 건강 관리에 유의해 달라고 기상청은 전했다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 수도권·강원 영서·충청권이 ‘나쁨’, 그 밖의 권역은 ‘보통’으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>80대 보행자, 화물차 치여 사망… 합의금 2억 준 운전자 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2026/03/15/QYUZITFHPJDAVKHCW2AUJNZU6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/QYUZITFHPJDAVKHCW2AUJNZU6Y/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 03:14:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KX76QONKCPDVQWFIF3SEFGGYFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교차로에서 우회전을 하다가 80대 보행자를 치어 숨지게 한 50대가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;창원지법 형사3단독 박기주 부장판사는 교통사고 처리 특례법 위반(치사) 혐의로 기소된 50대 화물차 기사 A씨에게 벌금 1000만원을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 20일 오전 9시쯤 25.5t 덤프트럭을 몰고 경남 창원시 진해구 한 교차로에서 공사 현장 방면으로 우회전하다가 80대 남성 B씨를 치어 숨지게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;B씨는 사고 당시 보행자 적색 신호에 횡단보도를 건너던 중이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “횡단보도에서 안전운전 의무를 위반한 A씨 과실이 적지 않지만, 범행을 인정하고 반성하는 점, 피해자 유족에게 2억원을 지급하고 원만히 합의한 점, 피해자도 사고 발생에 과실이 있어 보이는 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “서울중앙지검, 특활비 사용 내역 공개해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/15/4NBQTHH5CVFGPI4QDAAJYNJEKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/15/4NBQTHH5CVFGPI4QDAAJYNJEKM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 02:48:26 +0000</pubDate>
+      <content:encoded>전국 최대 검찰청인 서울중앙지검이 시민단체의 특수활동비 관련 정보공개 청구를 거부한 것은 위법하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSDMYRQGA2TQMLEHA3TEOLCME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경./서울가정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정1부(재판장 양상윤)는 시민단체 ‘세금도둑잡아라’의 하승수 대표가 서울중앙지검장을 상대로 낸 정보공개 거부 처분 취소 소송에서 최근 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;하 대표는 2024년 10월 중앙지검의 월별 특활비 지출 내역 기록부 중 아래 부분에 기재돼 있는 배정액(수입), 집행액(지출), 가용액(잔액) 등에 대해 정보공개를 청구했다. 그러나 중앙지검 측은 같은 해 11월 5일 “정보공개법상 ‘수사에 관한 사항으로서 공개될 경우 그 직무 수행을 현저히 곤란하게 한다고 인정할 만한 상당한 이유가 있는 정보’에 해당한다”며 정보 제공을 거부했다.&lt;br&gt;&lt;br&gt;법원은 이 정보들이 비공개 대상이 아니라고 판단했다. 재판부는 “특활비는 기밀 유지가 요구되는 정보 및 사건 수사, 기타 이에 준하는 국정 수행 활동에 직접 소요되는 경비로 일정 부분 기밀 유지를 요하는 특성을 갖고 있긴 하다”면서도 “개별적인 정보의 내용에 따라 비공개 여부를 개별적으로 판단해야 한다”고 전제했다. 이어 “원고가 정보 공개를 청구한 정보는 수입과 지출, 잔액에 대한 것으로 이를 공개하는 것만으로는 수사 등에 직접적이고 구체적인 장애를 줄 가능성이 높다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 재판부는 “특활비 관련 정보 공개로 불필요한 의혹과 논란이 제기될 가능성이 있다고 하더라도, 정보공개법의 입법 목적과 국가 예산 운영의 투명성 확보 및 국민에 의한 감시와 견제의 필요성 등을 고려할 때 이 사건 정보를 공개하는 것이 직무에 장애를 줄 개연성이 있다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;중앙지검이 항소하지 않아 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘미신고 숙박업’ 알면서도 오피스텔 임대 내줬다면... 대법 “감면 취득세 추징해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/15/6N6E2VQQRRBNJHUOZ23VANHEXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/15/6N6E2VQQRRBNJHUOZ23VANHEXE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 02:39:11 +0000</pubDate>
+      <content:encoded>임차인이 미신고 숙박업을 운영한다는 사실을 알면서도 오피스텔을 임대해 줬다면, 임대 사업자에게 감면된 취득세를 다시 부과해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSTAZLBMQZWGZRQGJTDIM3FMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 임대 사업자 A씨가 부산 수영구청장을 상대로 낸 취득세 등 부과 처분 취소 소송에서 원고 패소한 원심 판결을 최근 확정했다.&lt;br&gt;&lt;br&gt;A씨는 2019년 부산 수영구 한 오피스텔을 매입하면서 옛 지방세특례제한법에 따라 취득세를 면제받았다. 옛 지방세특례제한법 제31조는 60㎡ 이하 공동주택 혹은 오피스텔을 최초로 분양받을 경우 취득세를 감면하도록 규정한다. 이후 A씨는 2020년 6월부터 2023년 3월까지 오피스텔을 두 차례 임대했고, 임차인들은 관할 관청에 신고하지 않은 채 숙박업을 운영했다.&lt;br&gt;&lt;br&gt;이와 관련해 임차인이 형사 처분을 받는 일이 벌어지자, 구청은 A씨가 임대 외 용도로 오피스텔을 사용했다며 감면됐던 취득세 및 지방교육세 등 총 1884만원을 부과했다. 이는 ‘임대사업자가 임대의무기간 4년 이내에 임대 외 용도로 사용할 경우 감면된 취득세를 추징한다’는 옛 특례법 규정에 따른 것이다. 이에 A씨는 “임차인이 주거 외 용도로 사용한 것이지, 자신이 미신고 숙박업을 한 건 아니다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 A씨의 주장을 받아들이며 구청이 부과한 취득세를 취소했음. 그러나 항소심은 A씨에게 취득세를 부과해야 한다며 판단을 뒤집었다. 항소심은 A씨가 임차인의 미신고 숙박업 운영 사실을 알고 있었던 만큼, 오피스텔을 사실상 임대 외 용도로 사용한 것으로 봤다. &lt;br&gt;&lt;br&gt;대법원도 원심의 판단에 잘못이 없다고 보고 상고를 기각했다. 대법원은 “취득세 감면 조항은 실제 주거용으로 임대된 경우에 한해 적용된다고 보는 것이 타당하다”며 “임차인이 주거 목적으로 쓰지 않을 것을 임대인이 알았다면 책임이 있다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연 2만4000% ‘살인적 이자’ 불법 사금융 일당 징역형</title>
+      <link>https://www.chosun.com/national/regional/2026/03/15/M2ATDJQ4HBF35JUCLZ5U7OZXEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/M2ATDJQ4HBF35JUCLZ5U7OZXEI/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>최대 연 2만4000%에 달하는 살인적인 이자를 받아 챙긴 불법 사금융 일당이 법원에서 나란히 징역형을 선고받았다.
+춘천지법 형사3단독 박동욱 판사는 대부업법과 전자금융거래법 위반 등 혐의로 기소된 A(43)씨 등 5명에게 징역 8개월에서 1년 8개월을 선고했다고 15일 밝혔다.</description>
+      <pubDate>Sun, 15 Mar 2026 02:29:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZDGZBYME2DQOBRG4ZDQNDDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최대 연 2만4000%에 달하는 살인적인 이자를 받아 챙긴 불법 사금융 일당이 법원에서 나란히 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 대부업법과 전자금융거래법 위반 등 혐의로 기소된 A(43)씨 등 5명에게 징역 8개월에서 1년 8개월을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 대부업 등록을 하지 않은 채 2024년 11월 B씨에게 30만원을 빌려주고 원금과 이자를 합쳐 60만원을 받는 등 연 7300%의 이자를 받은 혐의를 받고 있다. A씨 등은 이 같은 방법으로 지난해 4월까지 83차례에 걸쳐 피해자들에게 4200만원을 빌려준 뒤 원금과 이자를 합쳐 7704만원을 받아 챙긴 것으로 드러났다. 이 과정에서 1600%에서 최대 2만4000%에 달하는 이자를 받은 것으로 나타났다.&lt;br&gt;&lt;br&gt;이들은 대출 중계사이트에 ‘비대면 신속 대출’ 광고를 올려 피해자들을 모집한 뒤 돈을 빌려주는 방식으로 범행을 이어갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EI5ZAAFT6VDK7PHVGTIKBMZRBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;채무자들로부터 받은 불법 차용증 사진들/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 피해자들에게 신분증과 차용증을 들고 찍은 사진, 가족 연락처 등을 제출하게 한 뒤 상환이 늦어지면 협박을 하기도 했다.&lt;br&gt;&lt;br&gt;A씨 등은 재판 과정에서 범행 기간 중 일부는 대부업 등록을 했기 때문에 불법 사금융이 아니라고 주장했지만, 재판부는 대부업체 명의로 대부 계약을 체결하지 않은 점, 계약 체결과 대여·변제 과정에서 대포폰과 대포 계좌를 사용한 점 등을 이유로 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;박 판사는 “미등록 대부업을 운영하면서 불법적인 이자를 수취하는 데 그치지 않고 범죄 수익을 은닉하려 하는 등을 고려하면 사회적 폐단이 크다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김정은, 이번엔 딸 주애와 함께 흙 나르며 식수절 행사</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/15/ABCUWVCXWJE4JKAWLHDKEGT3OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/15/ABCUWVCXWJE4JKAWLHDKEGT3OI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Mar 2026 02:03:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KP4J4WZXBRIVZHKIL4IS7JSWFA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 15일 김정은이 지난 14일 식수절을 맞아 새별거리 못가공원에서 나무를 심었다고 보도했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정은 북한 조선노동당 총비서 겸 국무위원장이 식수절(3월 14일)을 기념해 딸 주애와 직접 흙을 나르며 식수 행사를 했다. &lt;br&gt;&lt;br&gt;조선중앙통신 등 북한 매체는 15일 김 위원장과 딸 주애가 전날 주요 간부들과 새별거리 못가공원에서 나무를 심었다고 전했다. 새별거리는 러시아 파병 전사자 유족을 위해 평양에 조성한 전용 주택단지다. &lt;br&gt;&lt;br&gt;북한이 공개한 사진에는 김 위원장과 가죽 재킷을 입은 주애가 함께 흙더미를 옮기는 모습 등이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YGSGZVY5NNUJJ2R5WHOJRQIKY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 15일 김정은이 지난14일 식수절을 맞아 딸 주애와 함께 새별거리 못가공원에서 나무를 심었다고 보도했다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 위원장과 주애, 최선희 외무상과 김여정 총무부장 등 간부들이 삽질을 하는 사진도 공개됐다.&lt;br&gt;&lt;br&gt;김 위원장은 행사에서 “한 그루 한 그루의 나무에 더욱 강대해지는 우리 조국의 역사와 함께 영웅 전사들의 숭고한 정신을 본받고 필승의 전통을 굳건히 이어가는 우리 세대의 참된 모습이 비끼게 해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;김 위원장은 또 “열사들의 고결한 정신이 이 땅에 소중히 깃들어 모든 사람들의 마음 속에 애국의 기둥을 억척으로 세워주고 세세년년 후손들을 가장 정의로운 인간들로 억세게 키우는 자양이 될 것”이라며 “애국심이야말로 한계를 초월하는 기적의 힘을 낳게 하는 열정의 샘줄기”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM5HGSABEFJPFGP5VFZPMFKUQI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 15일 김정은이 지난 14일 식수절을 맞아 새별거리 못가공원에서 나무를 심었다고 보도했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한은 우크라이나전 참전의 정당성을 강조하고 내부 결속을 다지기 위해 파병군에 대한 예우와 보훈 사업을 부각하고 있다.&lt;br&gt;&lt;br&gt;김 위원장은 최근 딸 주애와 군수 공장을 시찰하는 등 동행 외부 활동을 크게 늘렸다. &lt;br&gt;&lt;br&gt;앞서 국정원은 김주애가 일부 정책 사안에 의견을 내는 등, 후계자로 내정된 단계에 접어든 것으로 판단된다고 국회에 보고한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전화번호 5000개를 외웠다…그 시절 ‘인간 네이버’</title>
       <link>https://www.chosun.com/national/national_general/2026/03/15/QQ2SHKUNIRCHJJBPAU3XIQB2UI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/15/QQ2SHKUNIRCHJJBPAU3XIQB2UI/</guid>
@@ -774,52 +839,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGCNRWGBSWKMBXMI3DAMBTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강북 모텔 약물 사건' 피의자 김소영의 공개된 얼굴(오른쪽).  왼쪽은 인스타그램에 올라온 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배상훈 프로파일러가 ‘강북 약물 연쇄살인’ 사건 피고인 김소영(20)에 대한 검찰 수사 결과에 대해 “김소영이 제멋대로 떠든 이야기를 공소장에 갖다 붙였다”고 비판했다. 반면 검찰 측은 여러 전문가의 심도 있는 자문을 바탕으로 범행 동기 등을 분석한 것이라는 입장이다. &lt;br&gt;&lt;br&gt;배 프로파일러는 지난 10일 자신의 유튜브에 ‘모텔 연쇄살인범이 가정불화 때문에 사이코패스가 됐다는 황당한 수사 결과, 연쇄살인범의 황당한 서사 복제’라는 제목의 영상을 올렸다. &lt;br&gt;&lt;br&gt;배 프로파일러는 우선 ‘김소영이 어린시절 부친으로부터 음주 폭행과 폭언에 노출돼 가정불화로 정서적 사회화가 온전히 이뤄지지 못했다’는 검찰의 발표에 대해 “이걸 가정불화라고 하느냐”며 “이건 아동학대”라고 했다. 이어 “지속적으로 아동학대를 당해서 김소영이 자기중심적 기질을 갖게 됐다는 것인데, 즉 후천적이라는 얘기”라며 “이게 일반적이냐”고 되물었다. 그러면서 “아동 학대당해서 사이코패스가 됐다면 세계적으로 연구 보고를 해야 할 사례”라고 했다. &lt;br&gt;&lt;br&gt;배 프로파일러는 “제가 추정해보건대 김소영이 마음대로 떠든 것 같다”며 “어렸을 때부터 학대당했다는 건 연쇄살인범들이 늘 얘기하는 거다. 유영철, 강호순, 정남규도 그런 얘기를 했다”고 했다. 이어 “연쇄살인범들은 이 서사가 먹힌다는 걸 너무 잘 안다”며 “자기만의 망상에 빠져 있는데, 이 서사에 속는다”고 했다. 그러면서 “경찰로부터 넘어온 사이코패스 점수를 보고 내용을 역설계해 끼워 맞춘 수준에 불과하다”며 “그러면 판사도 서사에 속아 넘어가서 이에 따른 판결을 내리게 된다”고 했다. &lt;br&gt;&lt;br&gt;반면 검찰은 “전문가의 범죄심리 분석과 정신의학‧법의학 자문 등 보완 수사를 통해 김소영의 인격 형성 과정과 범행 당시 심리적 상태를 면밀하게 수사했다”고 지난 10일 밝혔다. 검찰은 “이 사건은 가정불화로 정서적 사회화가 온전히 이뤄지지 못하고 자기중심적 기질이 강한 김소영이 자신의 소비 욕구와 경제적 만족을 위해 남성을 이용하고, 이후 갈등 상황을 손쉽게 회피하거나 남성을 제압하기 위해 약물을 사용해 살해한 이상 동기 범죄”라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>초6이 쓴 민주화운동 감상문에 “개고생한듯 ㄷㄷ” “독재는 에바각ㅠ”</title>
-      <link>https://www.chosun.com/national/education/2026/03/13/IQ2AUVYRRRCO7K2B6BORYBJ4CQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/13/IQ2AUVYRRRCO7K2B6BORYBJ4CQ/</guid>
-      <dc:creator>최인준 기자, 오주비 기자, 표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>경기 용인의 한 초등학교 교사 박모(38)씨는 지난 학기 6학년 학생 22명에게 1970년대 민주화 운동에 대해 설명하고 감상문을 쓰게 했다. 10분 동안 정해진 분량(문장 5개)만큼 써낸 학생은 10명에 불과했다. 나머지는 2, 3문장만 쓰거나 아예 한 단어도 쓰지 못했다. 문장 수준도 엉망이었다. 한 학생은 ‘옛날 사람들은 민주주의 지키려고 진짜 개고생 많이 하신 것 같다. 진짜 ㅈㅅ(죄송)하고 ㄷㄷ(덜덜)... 독재는 완전 에바각(오버·실수)ㅠ’이라고 썼다. 박씨는 “고학년인데도 자신의 생각을 온전한 문장으로 표현하지 못하는 경우가 많아 놀랐다”며 “기본기를 갖추지 못한 학생이 너무 많아 올해부터는 글짓기를 시키지 않으려 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIIUFAU3ERHBDGJKWA725IASYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;글쓰기는 읽기와 더불어 문해력의 핵심 요소다. 글을 쓰는 과정 자체가 AI 시대에 필요한 비판적 사고력을 키울 수 있는 사유의 과정이기도 하다. 그런데 초·중·고교부터 대학교까지 글쓰기 실력 저하가 심각하다는 지적이 곳곳에서 나오고 있다. &lt;br&gt;&lt;br&gt;교사들은 특히 학생들 사이에서 모든 글에 유튜브나 소셜미디어에서 쓰는 구어체를 사용하는 이른바 ‘글쓰기의 채팅화 현상’이 심각하다고 밝혔다. 단어의 초성만 쓰거나, 일부러 오타를 쓰는 식이다. 서울 지역 중학교 교사 전모씨는 최근 1학년 사회 수업에서 학생들에게 ‘장래 희망을 써보라’고 했다. 그랬더니 ‘ㅇㅏㅇㅣㄷㅗㄹ’(아이돌) ‘ㅅㅖㅍㅡ’(셰프) 등 자음과 모음을 분리해 쓰는 학생이 많았다고 한다. 아이들이 소셜미디어나 온라인 게임 채팅방에서 자주 쓰는 말투다. 전씨는 “요즘 아이들 중에는 자기 감정이나 느낌을 표현할 때 ‘대박’ ‘개멋져’라고 한 단어를 사용하는 경우가 많은데, 글쓰기를 할 때도 그런 식으로 단편적인 단어만 쓰는 경우가 많다”고 했다. &lt;br&gt;&lt;br&gt;지난해 서울대 등 연구진은 경기도교육청의 의뢰로 ‘초등 문해력 지도 모델 및 전략 연구’를 진행했다. 초등 3·4학년 382명에게 ‘글을 잘 이해하면 좋은 점 3가지’를 쓰라고 했다. 그런데 79명(21%)이 3가지를 다 못 쓰거나 엉뚱한 대답을 했다. 3가지를 쓴 학생 상당수도 기본적인 맞춤법이 틀리거나, 주어와 서술어가 맞지 않았다. 연구 책임자인 임혜숙 경기도교육청 초등문해력정책연구 책임연구자는 “문장을 왼쪽부터 오른쪽까지 한 줄로 나란히 쓸 줄도 모르고, 단어만 나열한 경우도 너무 많았다”며 “이 아이들이 글쓰기 훈련을 제대로 하지 않으면 고등학교, 대학교에 가서도 글을 쓰기 어려울 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2P6S32PBPNDAJHBDZVZKQS7DEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학생들의 글쓰기 실력 저하를 보여주는 연구 결과도 있다. 대구대 연구진이 1학년 225명이 글쓰기 강좌의 ‘설득적 글쓰기’ 과제로 제출한 글을 분석한 결과, 153명(68%)이 정해진 분량(A4 용지 3쪽 이상)조차 다 채우지 못했다. 이 중 61%는 1.5쪽을 써냈다. &lt;br&gt;&lt;br&gt;전문가들은 이런 심각한 글쓰기 실태는 학교에서 ‘쓰기’ 교육이 충분하지 않기 때문이라고 지적한다. 실제 지난해 한국리터러시학회가 중·고교생 950명의 쓰기 교육 실태를 조사한 결과, 중학생의 경우 한 학기에 두 문단 이상의 긴 글을 쓴 경험이 1~2회뿐이라고 답한 비율이 절반 가까이(41.2%)를 차지했다. 고등학생은 3~4회가 32.5%로 가장 많았는데 1~2회도 26.2%나 됐다. 한 초등학교 교사는 “최근 일부 학부모가 ‘인권 침해 소지가 있다’며 반대하는 바람에 일기 쓰기, 받아쓰기를 하는 경우가 줄어들어 학생이 손으로 글쓰기를 할 기회가 거의 없다”고 했다. &lt;br&gt;&lt;br&gt;AI의 등장 이후 학생들의 글쓰기 경험은 더 줄어든 것으로 보인다. 5년 전 대학생의 문장 오류에 대한 연구를 진행했던 이연정 서원대 교수는 “학생들이 생성형 AI를 많이 사용하니까 글에서 아예 오류가 사라져서 이젠 문제점을 연구조차 할 수 없다”면서 “‘오류가 있는 글’은 피드백을 받아 고칠 수라도 있지, 아예 글을 AI에 맡겨버리는 ‘쓰기 실종’ 사태가 더 심각한 문제”라고 말했다. &lt;br&gt;&lt;br&gt;김혜정 한국독서학회장(경북대 국어교육과 교수)은 “쓰기는 논리적으로 자신의 생각을 다듬어 남에게 전달하는 능력으로, 기본적 훈련을 하지 않으면 대학에서도 어느 분야든 깊이 있는 공부를 하기 어렵다”며 “글쓰기 교육 과정 강화가 시급하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>美 명문대는 AI 없이 직접 글쓰는 수업 강화</title>
-      <link>https://www.chosun.com/national/education/2026/03/13/776WSVHSSNGUTDUBF3OQ5GPJZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/13/776WSVHSSNGUTDUBF3OQ5GPJZI/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>‘좋은 사고를 하기 위해선 반드시 좋은 글쓰기가 필요하다.’&lt;br&gt;&lt;br&gt;1872년부터 150년 넘게 글쓰기 수업을 강조하고 있는 미국 하버드대의 교육 철학이다. 하버드대는 모든 학생이 ‘논증적 글쓰기 수업’을 필수로 듣도록 하고 있다. 15명이 한 반이 돼 주 2회 듣는다. 학생은 문제를 제기하는 방법, 글의 주제에 맞는 근거를 대는 법, 반론을 예상하고 대응하는 법 등을 배우고 총 세 편의 글을 쓴다. 교수는 학생의 글을 1대1로 첨삭해주고, 학생의 초고를 두고 여럿이 토론을 하기도 한다. 신입생 대상으로 글쓰기 시험을 먼저 진행해 미흡한 학생은 기초 글쓰기 과목을 한 학기 들은 다음 필수 수업을 듣도록 하고 있다. 제인 로젠와이그 하버드대 글쓰기 센터 디렉터는 2024년 언론 인터뷰에서 “글쓰기는 협력적인 작업으로, 종이에 적힌 문장과 머릿속에서 막 형성되고 있는 생각 사이에 다리를 놓는 과정”이라며 “이런 일을 AI는 할 수 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;하버드대는 AI(인공지능)가 확산하자 2024년 ‘AI 시대의 글쓰기 수업 지침’을 만들어 배포했다. 이에 따르면, 챗GPT 같은 생성형 AI를 활용한 글쓰기 과제는 A 학점을 받을 수 없다. 학생이 직접 쓴 글에 대해서만 좋은 성적을 부여하겠다는 것이다. 사례를 찾거나, 데이터를 분석하는 등 ‘글쓰기 준비 단계’에서는 AI를 사용할 수 있도록 했다. 하지만 이때도 학생은 자신이 아이디어를 어떻게 찾게 됐는지, 읽기 자료를 요약한 방법을 명시하고, 다른 학생들에게 피드백을 받아야 한다. AI에 의존해 결과물만 받아보는 걸 막겠다는 취지다. &lt;br&gt;&lt;br&gt;하버드대뿐 아니라 미국 명문대들 중에는 교육 과정 전반에 걸쳐 글쓰기를 중시하는 곳이 많다. 스탠퍼드대는 2003년부터 세 단계의 글쓰기 수업 시스템을 운영한다. 2학년까지 ‘글쓰기 및 수사학’ 수업 2개(기초·심화)를 이수하고, 이후 전공 글쓰기 수업을 듣는다. 스탠퍼드대도 글쓰기 및 수사학 수업에서 AI 활용 정책을 만들었는데, 글을 쓰거나 수정할 때 AI 활용은 엄격히 금지하는 게 원칙이다. ‘문장은 물론 단어 하나도 AI 도움을 받아서는 안 된다’고 규정했다. 아이디어를 찾는 초기 단계에서만 AI를 사용할 수 있도록 했다. 코넬대는 1학년 대상으로 글쓰기 수업을 진행하는데, 학생이 AI로 글을 쓴 게 확인되면 표절로 판단한다. 강사는 학생에게 반성문을 내게 하거나, ‘낙제’ 처리할 수도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 금천구에 ‘뉴 미디어 아트’ 특화 미술관 개관</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/13/MHIBJYKE5JHSRDKEVS5CRJNYXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/MHIBJYKE5JHSRDKEVS5CRJNYXA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>서울시는 12일 금천구 독산동에 서울시립 서서울미술관을 개관했다고 밝혔다. 금천구에 시립미술관이 들어선 것은 처음으로, 서울 서남권에선 관악구 남서울미술관에 이어 두 번째다.&lt;br&gt;&lt;br&gt;서울시가 서서울미술관을 지은 것은 서남권 시민들도 쉽게 예술을 즐길 수 있도록 한다는 취지다. 이전까지 서울시립미술관은 중구 서소문 본관과 분관 6곳 등 총 7곳에 있었다. 다만 관악구 남현동 남서울미술관을 제외한 6곳은 모두 한강 북쪽에 자리했다. 서서울미술관은 일곱 번째 분관이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QFMHRIWDZCFTGUXU5BYR47Y24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건물은 서울시 건축상 대상 등을 수상하고 울릉도 코스모스 호텔 등을 설계한 김찬중 건축가가 설계했다. 금천구청 바로 뒤에 지하 2층~지상 1층 규모로 건립했다. 저층 건물을 지어 인근 금나래중앙공원 풍경과 자연스럽게 이어지게 한 것이다. 공원과 동선도 연결돼 주민들이 쉽게 산책하듯 들를 수 있다. 인근 양천구나 강서구에서도 차로 20~30분 정도면 갈 수 있다.&lt;br&gt;&lt;br&gt;서서울미술관은 서울 최초의 공공 ‘뉴 미디어 아트’ 특화 미술관이기도 하다. 뉴 미디어 아트는 사진·영상뿐만 아니라 드론, 코딩 같은 과학 기술까지 접목한 예술 분야를 말한다. 서울시 관계자는 “영상·조명과 조화된 미디어 아트, 퍼포먼스 형태의 미술, 인터넷·코딩 아트 등 다양한 작품을 선보일 것”이라고 했다.&lt;br&gt;&lt;br&gt;개관을 기념해 서서울미술관 건립 과정을 조명하는 전시 ‘우리의 시간은 여기서부터’가 12일부터 진행된다. 특별 퍼포먼스 ‘호흡’도 이날부터 열린다. 다음 달 12일까지 27팀이 참여해 ‘호흡’을 주제로 한 공연 총 30개를 선보인다. 서울시 관계자는 “매년 한 가지 주제를 정해 공연을 선보일 계획”이라고 했다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 이날 개관식에서 “서서울미술관 개관으로 서울의 문화 지도가 균형을 갖추게 됐다”며 “공원을 산책하듯 미술관에 들러 예술적 영감을 얻을 수 있는 서울을 만들어 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS도, 英 밴드 오아시스도… ‘공연 성지’ 된 고양종합운동장</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/13/RAX7E5BTW5DP5HBT425BZQ5TEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/13/RAX7E5BTW5DP5HBT425BZQ5TEY/</guid>
-      <dc:creator>고양=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IXZGFJJDNATJAXPAVLIVTAGR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 경기 고양종합운동장에서 영국 록밴드 ‘오아시스’의 공연이 열렸다. 관람객 5만5000명이 몰렸다. 다음 달에는 방탄소년단(BTS)이 무대에 설 예정이다.
-/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양종합운동장이 ‘콘서트 핫플’로 뜨고 있다. 지난해 지드래곤, 콜드플레이, 오아시스에 이어 다음 달에는 방탄소년단(BTS)이 무대에 오른다. 팬들 사이에서 ‘고양콘’이란 애칭도 생겼다.&lt;br&gt;&lt;br&gt;12일 고양시에 따르면, 지난해 고양종합운동장에서 열린 공연은 18차례로 총 70만명이 찾았다.&lt;br&gt;&lt;br&gt;고양종합운동장은 2003년 고양시 일산서구에 문을 열었다. 주경기장은 4만석 규모다. 프로 스포츠 경기를 치르는 종합운동장으로 개장했지만 주로 2군 경기장으로 쓰였다. 해마다 10억~20억원씩 적자가 쌓였다.&lt;br&gt;&lt;br&gt;K팝이 인기를 끌면서 공연장으로 주목받기 시작했다. 2023년 서울 잠실 올림픽주경기장이 리모델링 공사에 들어가자 기획사들이 고양종합운동장으로 눈을 돌렸다. &lt;br&gt;&lt;br&gt;업계 관계자는 “혹시나 싶어 찾았는데 대형 콘서트를 열기에도 무리가 없었다”고 했다. 고양시도 설명회를 열고 유치에 나섰다. 글로벌 공연 기획사 라이브네이션코리아와 업무협약도 체결했다.&lt;br&gt;&lt;br&gt;2024년 8월 미국의 힙합 가수 ‘카녜이 웨스트’ 내한 공연이 성공한 이후 대관 문의가 잇따랐다. 영국 밴드 콜드플레이·오아시스와 지드래곤, 블랙핑크 등이 공연을 열었다. &lt;br&gt;&lt;br&gt;GTX(수도권광역급행철도)-A 노선 개통도 호재였다. 서울역까지 40분이면 갈 수 있게 됐다. 인천공항도 가까워 해외 스타와 팬들이 찾기도 편하다. &lt;br&gt;&lt;br&gt;고양시 관계자는 “특정 프로 구단이 홈구장으로 쓰지 않아 대관 일정에 여유가 있는 것도 장점”이라고 했다. &lt;br&gt;&lt;br&gt;콘서트가 열릴 때마다 운동장 주변은 20·30대로 북적인다. 고양연구원 관계자는 “공연 날 운동장 주변 상권의 카드 매출이 평소보다 30% 증가했다”며 “고양콘이 지역 상권에도 도움이 되고 있다”고 했다.&lt;br&gt;&lt;br&gt;다음 달 9~12일 고양종합운동장에서 BTS 월드투어 콘서트가 열린다. 오는 21일 서울 광화문광장 컴백 콘서트에 이어 두 번째 국내 공연이다. 고양시 관계자는 “국내외에서 BTS 팬 8만명이 몰릴 것으로 예상된다”고 했다. 이동환 고양시장은 “베드타운이었던 고양시가 공연 도시로 변화하고 있다”며 “관람객이 좀 더 고양시에 머무를 수 있도록 숙박 시설 등을 확충할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김일남 前 서울보증보험 지점장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/13/Q36DN4BM4JDBXI2LABIZP2FW5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/13/Q36DN4BM4JDBXI2LABIZP2FW5Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김일남&lt;/b&gt; 前 서울보증보험 지점장 별세, &lt;b&gt;송현희&lt;/b&gt; 남편상, &lt;b&gt;김경진&lt;/b&gt; KBS 보도국 정치외교부 기자·&lt;b&gt;김동진&lt;/b&gt; 공군 대위 부친상, &lt;b&gt;서창효&lt;/b&gt; 법무법인 원곡 대표변호사 장인상=12일2시28분 이대서울병원, 발인 14일5시30분, (02)6986-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;은하순&lt;/b&gt; 별세, &lt;b&gt;이기원&lt;/b&gt; ITCEN CTS 상무·&lt;b&gt;이승희&lt;/b&gt;·&lt;b&gt;이정우&lt;/b&gt;·&lt;b&gt;이주한&lt;/b&gt; LS증권 S&amp;amp;T사업부 대표 모친상, &lt;b&gt;양민영&lt;/b&gt;·&lt;b&gt;윤혜정&lt;/b&gt; 한성대 교수·&lt;b&gt;박은경&lt;/b&gt; 시모상, &lt;b&gt;윤광식&lt;/b&gt; 전남대 교수 장모상=11일11시37분 서울성모병원, 발인 14일9시30분, (02)2258-5961&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임정재&lt;/b&gt; 별세, &lt;b&gt;임흥순&lt;/b&gt; 큐렉소 기술연구소 이사·&lt;b&gt;임희라&lt;/b&gt; 삼성물산 경영지원팀 근무·&lt;b&gt;임미라&lt;/b&gt; AIG손해보험 근무·&lt;b&gt;임철순&lt;/b&gt; NH투자증권 ESG본부 상무 부친상, &lt;b&gt;김귀곤&lt;/b&gt; 금오공대 교수 장인상, &lt;b&gt;유미영&lt;/b&gt;·&lt;b&gt;박민경&lt;/b&gt; 시부상=11일3시5분 서울성모병원, 발인 14일8시40분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황혁민&lt;/b&gt; 별세, &lt;b&gt;황성수&lt;/b&gt; 하우투인베스트 근무·&lt;b&gt;황병수&lt;/b&gt; 조선일보 CS대구경북지사장 부친상=12일15시 대구 파티마병원, 발인 14일9시, (053)940-8191&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[플라자] 이화여대, 제니 시플리 전 뉴질랜드 총리 초청 강연</title>
       <link>https://www.chosun.com/national/people/2026/03/13/ECFMHNQGEZC3PEAKWSQA6BPLLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/13/ECFMHNQGEZC3PEAKWSQA6BPLLM/</guid>
@@ -827,24 +846,6 @@
       <description/>
       <pubDate>Thu, 12 Mar 2026 15:42:00 +0000</pubDate>
       <content:encoded>&lt;b&gt;▲이화여대&lt;/b&gt;는 13일 대학원관 중강당에서 제니 시플리 전 뉴질랜드 총리 초청 강연을 연다. ‘변화를 주도하는 여성: 역량, 책임 그리고 세계적 영향’을 주제로 한 강연에서 시플리 전 총리는 오늘날 리더들이 해야 할 선택과 미래 세대의 역할 등에 대해 제언한다. 이번 강연은 창립 140주년 기념 ‘글로벌 리더 렉처 시리즈’의 하나다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어르신들 위트, 짧은 시에 담아요… 65세 이상 공모전 내달 30일까지</title>
-      <link>https://www.chosun.com/national/people/2026/03/13/P7EHNER4XRB5VIZBGDAW7GXH4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/13/P7EHNER4XRB5VIZBGDAW7GXH4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:42:00 +0000</pubDate>
-      <content:encoded>65세 이상 어르신들의 재치와 삶의 지혜가 담긴 시를 찾는 공모전이 한국시인협회·한국노인종합복지관협회 공동 주최로 열린다. 문학세계사가 주관하고 본지가 후원하는 제3회 ‘어르신의 재치와 유머 짧은 시 공모전’이 다음 달 30일까지 진행된다.&lt;br&gt;&lt;br&gt;공모 주제는 노년의 일상, 경험, 현대사회와의 관계에서 발견되는 재치, 유머, 풍자, 감동 등이다. 65세 이상이면 누구나 응모할 수 있다. 순수 창작물로, 자유로운 형식과 짧은 길이의 시(1~10행, 5편 이내 권장)를 제출하면 된다.&lt;br&gt;&lt;br&gt;다음 달 30일까지 접수한 작품을 심사해 5월 8일 당선작을 발표할 예정이다. 대상(1명)과 최우수상(1명)에는 상패와 각 상금 200만원, 100만원이 수여된다. 우수상(10명)은 문학세계사가 발간한 도서 10권을 받는다. 투고된 작품 중 우수작을 엄선하여 단행본으로 출간할 예정이다. 응모 방법은 한국시인협회 홈페이지(&lt;a href="http://www.koreapoet.com/" rel=""&gt;www.koreapoet.com&lt;/a&gt;) ‘공지 사항’ 참조.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 양상우 전 한겨레신문사 사장 YTN 사내이사 선임 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/13/YYI64HXDJBHYNAVNOEX7YGYDD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/13/YYI64HXDJBHYNAVNOEX7YGYDD4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;YTN&lt;/b&gt;은 12일 이사회를 열고 양상우 전 한겨레신문사 사장을 사내 이사(저널리즘 책무 담당)에 임명하는 등 사외 이사 4명과 기타 비상무 이사 1명 등을 새 이사진으로 내정했다고 밝혔다. 신임 이사들은 오는 27일 주주총회를 거쳐 임기를 시작한다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법무부&lt;/b&gt;◇고위공무원 전보▷출입국정책단장 박상욱▷인천공항출입국·외국인청장 김정도◇서기관 전보▷동포체류통합과장 김세진▷여수출입국·외국인사무소장 최병철&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한겨레신문사&lt;/b&gt;◇미디어본부▷논설위원실 논설위원 이정애▷경제사회연구원 ESG센터장 송호진▷영상국 시사제작부 영상기술데스크 박성영◇전략기획실▷미디어전략팀장 임지선▷신사업추진팀장 노광욱▷비서팀장 장세연▷미래전략부 신사업추진팀 데스크 이경주&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[우리 아기가 태어났어요] 장순재·안병곤 아들 이찬 외</title>
