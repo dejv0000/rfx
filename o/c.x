@@ -13,6 +13,128 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박형준 부산시장, 공천 갈등설에 “공관위가 망나니 칼춤”</title>
+      <link>https://www.chosun.com/national/regional/2026/03/16/VEWU76JY35A4DIAGMLLJIPNNYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/16/VEWU76JY35A4DIAGMLLJIPNNYY/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 05:50:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI6XHOEMANELVJDZX5PRKUYNQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장이 16일 부산시청 기자실에서 긴급 기자회견을 열고 현역 부산시장 컷오프 주장에 대해 입장을 밝히고 있다./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 공천관리위원회가 부산시장 후보 공천을 둘러싸고 갈등을 빚는 것으로 알려진 것과 관련, 박형준 부산시장은 16일 “공천은 이기는 공천이어야 한다”며 “아무 기준도 없이 현역단체장을 컷오프하고 단수 공천을 하는 것은 이기는 공천도 아니고 혁신 공천은 더더욱 아니다”고 했다. &lt;br&gt;&lt;br&gt;박 시장은 이날 페이스북에 이같이 밝혔다. 그는 “이정현 공관위원장이 혁신 공천이란 이름으로 당을 망하게 하는 행위이자, 망나니 칼춤 그 이상도 이하도 아니다”면서 “이번 선거에서 결정적 중요성을 가진 부산을 포기하는 것이며, 민주당과 민주당 후보에게 승리를 헌납하는 행위”라고 적었다. &lt;br&gt;&lt;br&gt;이어 박 시장은 “공천은 공정하게 이뤄져야 한다”며 “부산시민의 의사를 자의적으로 왜곡하는 어떤 공천 시도도 중지돼야 한다. 공관위의 결정을 부산시민과 함께 지켜보겠다”고 했다. &lt;br&gt;&lt;br&gt;이날 박 시장은 부산시청에서 긴급 브리핑을 열어 “선거를 앞둔 예민한 시기에 최종 결정이 되지 않은 공관위 심의 내용이 나오는 것은 현역 단체장에겐 큰 정치적 타격”이라며 “이번 선거에서 이기려고 하는 것인지 자신이 칼을 휘둘렀다는 것을 보여주고 싶은지 이해가 안 된다”고 말했다.&lt;br&gt;&lt;br&gt;박 시장은 “우선 공관위와 당의 결정을 지켜보고 그 결과에 따라서 제 입장을 말씀드리겠다”면서도 “공천은 쇼가 아니며 이기는 선거를 위한 하나의 수단이고 정당하게 후보를 가려내는 일”이라고 했다.&lt;br&gt;&lt;br&gt;주진우 국민의힘 의원도 페이스북에 ‘경선을 정중히 요청드립니다’라는 제목의 글을 올렸다.&lt;br&gt;&lt;br&gt;그는 “공관위에서 부산시장 후보 단수 공천에 대한 논의가 있다는 언론 보도를 접했다”면서 “경선을 진심으로 원한다. 부산의 경제 위기를 극복하기 위해 박형준 시장과 새로운 비전으로 당당히 경쟁하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “저는 어떤 어려움 속에서도 늘 정도를 걸어왔고 정면 돌파를 선택해 왔고, 그것이 부산과 우리 당을 승리로 이끄는 길이라고 생각한다”면서 “이정현 위원장을 비롯한 공관위원께 정중히 경선을 요청한다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 일부 공관위원들은 이날 회의에서 새로운 공천 방식을 내세우면서 박 시장을 컷오프하고, 주 의원을 단수 공천하자는 다는 취지의 주장을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 부산을 지역구에 둔 곽규택 의원과 서지영 의원, 정희용 사무총장이 반발하며 회의 도중 자리를 나온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;3선에 도전하는 박 시장과 초선인 주 의원은 지난 8일 국민의힘 중앙당 공천관리위원회에 부산시장 후보자 공천을 신청했다.&lt;br&gt;&lt;br&gt;앞서 국민의힘이 충북지사 후보 공천과 관련해 이날 오전 현 김영환 지사를 컷오프(공천 배제) 했다. 오는 6·3지방선거를 앞두고 국민의힘에서 현역 지자체장이 컷오프된 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LI6XHOEMANELVJDZX5PRKUYNQY.JPG?auth=a9f62c61757740867340c0c679290da36d06c43b4d465d1922271326b7146a4e&amp;smart=true&amp;width=1208&amp;height=679" type="image/jpeg" height="679" width="1208">
+        <media:description type="plain">박형준 부산시장이 16일 부산시청 기자실에서 긴급 기자회견을 열고 현역 부산시장 컷오프 주장에 대해 입장을 밝히고 있다.2026.3.16 ⓒ 뉴스1 이주현 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법무부 “쉰들러, 증거 없이 민원 제기…한국의 적법·합리적 규제 인정돼”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/16/QVBNBIEENVBJRKBL236VDJ5TYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/16/QVBNBIEENVBJRKBL236VDJ5TYE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 08:07:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTDQYRWG5SDQNTCME2DINZQGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부, 쉰들러 ISDS 승소 관련 상세 브리핑 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스위스 승강기 업체 쉰들러가 한국 정부를 상대로 낸 약 3200억원 규모의 국제투자 분쟁(ISDS)에서 정부가 완승한 것과 관련해 법무부가 16일 상세 브리핑을 열었다.&lt;br&gt;&lt;br&gt;법무부는 이날 “중재판정부는 금융감독원·공정거래위원회·금융위원회의 조치를 전반적으로 합법적이고 적법한 권한 행사로 인정했다”고 밝혔다. 이에 따라 우리 정부는 쉰들러가 요구한 3200억원 상당의 손해배상금을 물지 않게 됐고, 소송 비용 약 96억원도 쉰들러 측에서 돌려받게 됐다. &lt;br&gt;&lt;br&gt;이 사건은 현대엘리베이터의 2대 주주인 쉰들러가 2018년 한국 정부에 약 5000억원 규모 ISDS를 제기하면서 시작됐다. 쉰들러 측은 2013~2015년 진행된 현대엘리베이터 유상증자와 전환사채(CB) 발행이 오너 일가의 경영권 강화 차원에서 이뤄졌음에도 공정거래위원회·금융감독원·금융위원회 등 관계 당국이 이를 방치해 부당한 손해를 입었다고 주장했다. 8년간 법적 공방이 이어지면서 배상 청구액은 3200억원 수준으로 줄었다.&lt;br&gt;&lt;br&gt;중재판정부는 먼저 금감원의 조치에 대해 쉰들러가 구체적인 증거 없이 민원을 제기했다고 판단했다. 금감원이 유상증자 주관사의 실사 보고서를 바탕으로 증권 신고서를 수리한 것은 통상적이고 합법적인 조치라고 봤다. 신문 기사나 온라인 루머만으로 기업 전면 조사에 착수할 수는 없고, 쉰들러에게 객관적이고 직접적인 증거를 요구한 것도 한국 법에 따른 합리적인 재량권 행사라고 판단했다. 금감원이 내국인 민원인과 쉰들러를 차별했다는 주장도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;또 공정위 처분도 적법하다고 판단했다. 중재판정부는 공정위가 콜옵션 가격의 적정성 등을 검토한 뒤 내린 무혐의 결론이 한국 법에 근거한 적법한 처분이라고 봤다. 쉰들러가 문제 삼은 포렌식 자료 검토 방식 역시 통상적 관행에 따른 합리적 조치라고 판단했다.&lt;br&gt;&lt;br&gt;금융위 관련 주장도 받아들여지지 않았다. 중재판정부는 쉰들러가 민원을 잘못된 부서에, 그것도 한국어가 아닌 영문으로 보내 형식적 요건조차 갖추지 못했다고 봤다. 이에 따라 금융위가 회신하지 않은 것이 투자협정 위반이라는 쉰들러 측 주장도 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;중재판정부는 특히 한국 정부가 현대그룹 측을 부당하게 비호하거나 악의를 갖고 규제권을 남용했다는 쉰들러 측 주장에 대해 “뒷받침할 객관적 증거가 존재하지 않는다”고 판단했다. &lt;br&gt;&lt;br&gt;조아라 법무부 국제투자분쟁과장은 “중재판정부는 규제당국이 권한 남용 없이 선의로 취한 합법적 규제 조치를 중재판정부가 함부로 재심사하거나 판단을 대체할 수 없다고 명시적으로 선언했다”며 “외국인 투자자가 결과에 불만을 가졌다는 이유만으로 국제투자중재 대상이 될 수 없다는 점을 국제법적으로 확인한 기념비적 판시”라고 밝혔다.&lt;br&gt;&lt;br&gt;한국 정부가 ISDS 본안 심리에서 전부 승소한 것은 이번이 두 번째다. 다만 법무부는 쉰들러 측이 국제 규칙에 따라 중재지인 프랑스 파리 법원에 취소소송을 제기할 가능성은 남아 있다. 법무부는 취소 소송이 제기될 경우 적극 대응할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>함양 산불 용의자 잡고보니… 17년 前 방화범 ‘불다람쥐’</title>
+      <link>https://www.chosun.com/national/2026/03/16/WJRYYAY54NFPNIZPRKWMEROS2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/16/WJRYYAY54NFPNIZPRKWMEROS2E/</guid>
+      <dc:creator>창원=김준호 기자, 창원=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 06:58:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VW4II5K4VEBJHYQF6YEGO4I64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2011년 3월 28일 울산 봉대산에서 산불 방화범 용의자 김모씨가 방화 장면을 재연하고 있다. /연합뉴스.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 첫 대형 산불로 234㏊ 산림이 불탄 경남 함양 산불의 방화 용의자가 잡혔다. 이 용의자는 울산 동구 일대에서 90여 차례 산불을 내다 범행 17년 만에 붙잡혔던 60대 남성, 일명 ‘봉대산 불다람쥐’인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경남경찰청 형사기동대는 지난달 21일 발생한 함양 산불 용의자 김모(66)씨를 방화 혐의로 구속했다고 16일 밝혔다. 창원지법은 이날 도주 우려 등의 이유로 김씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;김씨는 지난달 21일 함양 마천면 한 야산을 비롯해 함양과 전북 남원 야산 등 최근 3건의 산불을 낸 혐의를 받는다. &lt;br&gt;&lt;br&gt;특히 함양 마천면에 발생한 산불은 44시간 만에 꺼졌는데, 산불 피해 면적만 축구장 328개에 해당하고, 나무 11만4000여 그루가 탄 것으로 조사됐다. 피해액만 9억5400여 만원에 달한다. 이 산불로 일대 50여 가구, 80여 명 주민이 대피하는 소동이 빚어졌다. 인명 피해는 없었지만 비닐하우스 1동과 농막 1동이 탔다. 건조한 날씨에 강풍을 타고 산불이 확산하면서 산불 대응 2단계와 국가 소방 동원령이 잇따라 발령되기도 했다. &lt;br&gt;&lt;br&gt;산림당국은 평소 사람이 접근하지 않은 곳에서 불이 난 점을 들어 방화를 의심했다. &lt;br&gt;&lt;br&gt;경찰은 산불 발생 현장 주변 감시카메라(CCTV)를 통해 수상한 차량 행적을 확인했고, 김씨를 유력 용의자 선상에 올렸다. &lt;br&gt;&lt;br&gt;이후 김씨의 자택 압수수색을 통해 방화 때 사용한 증거물을 확보했다.&lt;br&gt;&lt;br&gt;혐의를 부인하던 김씨는 경찰 조사에서 “최근 산불 뉴스를 보고 희열을 느꼈고, 불을 지르고 싶다는 충동을 느꼈다”는 취지로 범행을 자백했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXSND4NEWVJ5RDGQMYPQUB5EVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 경남 함양군 마천면 창원리 야산에서 산불이 강풍을 타고 계속 번지고 있다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 수사 결과, 김씨는 미리 준비한 범행 도구인 화장지로 통행이 드문 야산에 불을 놓은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면 김씨는 울산 동구 동부동 봉대산 일대에서 무려 17년간 산불을 내고 다녔던 ‘봉대산 불다람쥐’와 동일인으로 확인됐다.&lt;br&gt;&lt;br&gt;평범한 회사원이던 김씨는 지난 1994년부터 2011년까지 라이터와 성냥, 화장지 등으로 동구 봉대산 일대에 불을 내고 다녔다. 당시 경찰에서 김씨가 불을 낸 것으로 확인한 것만 96건이다.&lt;br&gt;&lt;br&gt;경찰은 김씨를 잡기 위해 수사 전담팀까지 꾸렸지만, 김씨를 잡지 못했다. 범행이 주로 야간에 이뤄졌고, CCTV 등도 현재처럼 많이 설치되지 않았기 때문이다.&lt;br&gt;&lt;br&gt;오랜 기간 경찰 추적을 피해 다녔고, 꼬리가 잡히지 않아 ‘봉대산 불다람쥐’라는 별명이 붙었다. 지난 2009년 울산지방경찰청은 봉대산 방화범을 잡겠다며 당시로는 최고액인 3억원의 현상금을 내걸기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODESCL3X7O2FVZFT7CVTE6D2XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'봉대산 불다람쥐' 현상금 현수막. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러다 김씨는 2011년 3월 12일 화재가 발생한 지점 인근 아파트 CCTV에 포착되면서 신원이 특정돼 붙잡혔다. &lt;br&gt;&lt;br&gt;공소시효 탓에 1994년부터 2004년까지의 범행은 기소하지 못했다. 당시 김씨의 1심 판결문을 보면 검찰은 김씨가 2005년 12월부터 2011년 3월까지 37차례에 걸쳐 불을 낸 것으로 봤다. 이 기간 불에 탄 나무만 1만9500여 그루다. &lt;br&gt;&lt;br&gt;김씨는 징역 10년을 선고받았고, 지난 2021년 3월 출소한 것으로 전해졌다. 김씨는 출소 후 경남 함양으로 이사했다고 한다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자를 상대로 여죄를 비롯해 범행 동기에 대해 계속 수사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;이번 사건과 관련해 전성규 한국심리과학센터 이사는 “이 피의자는 불을 지르기 전 긴장이 되거나 흥분감을 느끼는 ‘병적 방화범’으로 보인다”며 “특히 이 피의자는 장기간에 걸쳐 들키지 않고 불을 지르는 데서 스릴을 즐기는 것처럼 보인다”고 했다. 한마디로 방화에 중독됐다는 것이다. &lt;br&gt;&lt;br&gt;천 이사는 또 “벙화범의 이 같은 행동은 정신 질환과는 조금 차이가 있다”며 “사물이나 의사를 변별하는 능력에는 문제가 없지만 방화를 저지르면서 느끼는 만족감이 너무 크기 때문에 지속해서 범행을 저지르는 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘서대문구 초등생 유괴미수’ 20대 남성 2명 검찰 송치 </title>
+      <link>https://www.chosun.com/national/national_general/2026/03/16/ZQTY3U4FGRDR3APXMP3LBBR7F4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/16/ZQTY3U4FGRDR3APXMP3LBBR7F4/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 08:04:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCXZGDPT6VO5TMUFDPP5KZIPOM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;초등학생들을 유괴하려 한 혐의로 긴급체포된 20대 남성 3명 중 A씨와 B씨가 작년 9월 5일 오전 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서대문구 초등생 유괴미수 사건의 피의자들이 검찰에 넘겨졌다. 사건이 발생한 지 약 7개월 만이다. &lt;br&gt;&lt;br&gt;서울 서대문경찰서는 작년 8월 서대문구에서 발생한 초등생 유괴 시도 사건 관련 20대 남성 2명을 미성년자 유인미수 혐의로 불구속 송치했다고 밝혔다. 이들과 범행을 함께한 것으로 전해진 또 다른 20대 남성은 불송치했다. &lt;br&gt;&lt;br&gt;피의자들은 작년 8월 28일 오후 서울 서대문구의 한 초등학교 인근에서 초등생들에게 차량으로 접근한 뒤 “귀엽다. 집에 데려다줄게”라고 말을 걸며 유인하려고 한 혐의를 받는다. 이들의 범행은 오후 3시 30분쯤 세 차례 반복됐다. 피해 학생은 네 명으로, 모두 초등학교 저학년 남학생이었다.&lt;br&gt;&lt;br&gt;경찰은 최초 신고를 받고 이를 ‘오인 신고’로 판단해 논란이 됐다. 경찰은 “신고 당시 차량은 흰색 스타렉스로 접수됐지만 실제 범행에 쓰인 건 회색 쏘렌토였다”며 “차종과 색상이 달라 사실 확인에 어려움이 있었다”고 했다. 이후 인근 초등학교에서 유괴 주의 가정통신문이 배부되고 추가 신고가 이어지자, 경찰은 폐쇄회로(CC)TV를 재확인하고 피의자들을 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰은 “이 사건에 대해 엄하게 문책하고자 하는 기조가 있었다”며 “미성년자 유인미수 혐의 외에도 아동학대·아동복지법 위반 혐의 적용 가능 여부까지 서울청 수사심의계에 법리 검토를 의뢰했고, 이에 송치 결정이 늦어졌다”고 밝혔다. 서울청은 아동학대·아동복지법 위반 혐의 적용이 어렵다고 결론 내렸다.&lt;br&gt;&lt;br&gt;경찰은 “학부모 등 시민들의 불안감 해소를 위해 초등학교 등하굣길 안전 강화 대책을 마련, 시행하고 있으며 미성년자 대상 범죄에 대하여 신속·엄정하게 수사하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 사기 사건 무마 대가로 1억원 넘게 챙긴 현직 경찰 기소</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/16/B5ITDFXQ5ZGMTPZB2LBSL43UH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/16/B5ITDFXQ5ZGMTPZB2LBSL43UH4/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 07:56:51 +0000</pubDate>
+      <content:encoded>사기 사건을 수사하며 피의자에게 편의를 제공하고 불기소 의견까지 낸 현직 경찰관이 재판에 넘겨졌다. 해당 경찰관은 그 대가로 1억원이 넘는 뇌물을 챙겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2UHLFNLK5F2HL5PEECMJGOMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운·chatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울북부지검 조세범죄조사부(부장 한지혁)는 16일 특정범죄가중처벌등에관한법률 위반(뇌물) 및 변호사법 위반 혐의로 현직 경찰관 A(57) 경감을 불구속 기소했다고 밝혔다. 검찰은 사기 사건 피의자 신분으로 A 경감에게 뇌물을 건넨 B(86)씨도 뇌물공여 혐의로 함께 기소했다.&lt;br&gt;&lt;br&gt;A 경감은 지난 2018년 1월 ‘법원 경매 투자 사기’ 사건으로 고소된 B씨 사건을 맡아 수사하던 중 같은 해 4월부터 2021년 5월까지 B씨로부터 수백 차례에 걸쳐 1억4000만원 상당의 금품을 받았다. 이후 A 경감은 B씨의 요청을 받아 합의 기간을 주고 피해자의 고소 취소를 유도한 뒤 사건을 불기소 의견으로 송치한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨가 B씨로부터 금품을 받은 명목은 법원 경매 투자 수익금이었지만, 실제 경매는 이뤄지지 않았던 것으로 파악됐다. 500만원을 투자하면 일주일 만에 700만원을 돌려받는, 연 환산 수익률이 1300%가 넘는 비정상적인 형태였던 것으로 드러났다.&lt;br&gt;&lt;br&gt;한편 검찰은 보완 수사를 통해 A씨가 지난해 7월 지인에게 형사사건 고소장과 같은 법률 문서를 변호사 자격 없이 작성해 주고 돈을 받은 사실도 추가로 확인했다. 또 A씨의 뇌물 수수액 4500만원도 추가로 밝혀냈다. 검찰은 “앞으로도 공직자의 금품 수수 등 부정부패 범죄에 대해 엄정하게 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 울주군, 한수원에 17일 신규 원전 자율유치 신청서 제출</title>
+      <link>https://www.chosun.com/national/regional/2026/03/16/GRYDRW7U3FGPXLJHXCBTETN7KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/16/GRYDRW7U3FGPXLJHXCBTETN7KQ/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 07:49:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5WLNVRFZNMFXMGOR5PETEDBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 울산 울주군청 프레스센터에서 이순걸 울주군수(가운데)와 지역 주민단체 관계자 등이 참석한 가운데 신규원전 자율 유치신청서를 17일 울주군민 릴레이 대행진을 통해 경북 경주에 있는 한국수력원자력에 제출한다고 밝혔다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 울주군이 신규 원자력발전소 건설 후보부지 자율유치 신청서를 17일 한국수력원자력에 제출한다.&lt;br&gt;&lt;br&gt;이순걸 군수는 16일 울주군청 프레스센터에서 기자회견을 열고 “내일 경북 경주 한수원까지 군민들과 함께 신규 원전 유치 기원 울주군민 릴레이 대행진을 진행한다”며 “원전 자율유치의 염원을 담은 유치신청서와 군민 3만 3000여명이 참여한 서명지를 제출한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 군수는 “신규 원전 건설 후보지인 서생면은 새울원전 1·2호기 운영부터 새울원전 3·4호기의 건설 및 준공까지 다양한 경험이 축적돼 있어 국내 어떤 지역보다도 신규원전 유치에 적합하다고 자부한다”고 말했다.&lt;br&gt;&lt;br&gt;자율유치 신청서를 접수한 한수원은 오는 6월 25일까지 신청 부지 조사와 함께 부지 적정성, 환경성, 건설 적합성, 주민 수용성 등 4개 평가항목에 대한 평가위원회 심사와 선정 절차를 진행하며, 최종 선정 결과는 6월 말쯤 발표할 예정이다.&lt;br&gt;&lt;br&gt;울주군의회는 이날 오전 울주군이 지난 5일 제출한 ‘신규 원자력발전소 건설 후보 부지 자율유치 신청 동의안’을 심의·가결했다.&lt;br&gt;&lt;br&gt;신규 원전 유치 신청 동의안에 국가 전력 수급 안정 기여, 지역의 산업 경쟁력 강화 및 지역 경제의 거시적 성장 도모, 주민 수용성 등을 포함한 신규 원전 위치 당위성 등을 담았다.&lt;br&gt;&lt;br&gt;신규 원전 후보지로는 현재 울주군 서생면에 있는 새울원자력본부 내 부지를 지정하고, 기존 원전 인프라와 송전망 활용이 가능한 입지 여건 등도 제시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSGKYTBMI4WEYJXG5QTIZDEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신규원전반대 울산범시민대책위원회 관계자들이 16일 군의회 본회의장 앞에서 항의 집회를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 원전 유치를 반대하는 신규원전반대 울산범시민대책위원회는 반대 입장을 밝혔다.&lt;br&gt;&lt;br&gt;반대대책위는 울주군의회와 울주군청을 찾아 피켓 등을 들고 항의 시위를 한 데 이어 이날 기자회견을 열고 “시민 안전을 뒤로하고 신규 원전 유치 신청 동의한 군의회를 규탄한다”며 “시민 생명을 담보로 하는 원전 유치를 즉각 중단하라”고 촉구했다.&lt;br&gt;&lt;br&gt;이들은 또 17일 한수원에 ‘신규원전 유치 반대 울산시민 의견서’를 제출할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법, 법왜곡죄에 형사재판 보호 TF 구성...재판소원은 후속조치 연구반 구축</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/16/J4WTUYOHJ5GGBC2NZLV65QHK3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/16/J4WTUYOHJ5GGBC2NZLV65QHK3E/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 07:42:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQWCMRTMQZTIY3DMIYTSYLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원행정처가 최근 시행된 법왜곡죄(개정 형법)와 관련해 법관들이 위축되지 않도록 ‘형사재판 보호 지원 태스크포스(TF)’를 구성하기로 했다. 재판소원(개정 헌법재판소법)과 관련해서는 ‘재판소원 후속조치 연구반’을 가동해 향후 발생할 수 있는 문제를 체계적으로 검토할 계획이다.&lt;br&gt;&lt;br&gt;​법원행정처장 직무를 대리하는 기우종 행정처 차장은 16일 법원 내부망 코트넷에 최근 개정된 법률 시행과 관련해 법원행정처가 추진할 방안과 대책을 설명했다.&lt;br&gt;&lt;br&gt;우선 기 차장은 법왜곡죄와 관련해 형사재판 보호 지원 TF를 구성하겠다고 밝혔다. 기 차장은 “법왜곡죄 처벌규정 신설에 따라 법관들이 위축되지 않고 적극적으로 재판에 임할 수 있는 분위기와 환경을 조성하는 것이 매우 중요한 과제가 됐다”며 “법원행정처는 법왜곡죄가 법관들의 자긍심을 지키는 데 걸림돌이 되지 않고, 재판작용이 위축되지 않도록 할 정책적 조치들을 세심히 모색하겠다”고 했다. 그러면서 TF를 통해 제도 정비, 예산 확보 등을 논의하겠다고 했다.&lt;br&gt;&lt;br&gt;재판소원 제도와 관련해선 재판소원 후속조치 연구반이 구성될 방침이다. 기 차장은 “재판소원의 도입은 사법제도의 큰 틀을 변경하는 것임에도 충분한 준비 과정 없이 헌법재판소법이 시행됐다”며 “아직 법리적으로 불분명한 부분이 많아 제도가 안정될 때까지는 상당한 시일이 걸릴 것으로 예상된다”고 했다. 이에 기 차장은 연구반을 구성해 향후 문제 될 수 있는 여러 쟁점에 대한 검토와 연구를 지원하고, 필요한 부분에선 관계 기관들과 협의체를 구성해 합리적 제도를 만들기 위해 노력하겠다고 전했다.&lt;br&gt;&lt;br&gt;현재 14명인 대법관을 26명으로 늘리는 법원조직법 개정안으로 인해 사법 자원이 사실심이 아닌 대법원에 집중되는 결과로 이어질 수 있다는 우려에 대해서도 대책을 내놨다. 기 차장은 “사실심에서의 신속 충실 공정한 재판 구현을 보강하기 위해서는 법관 증원이 반드시 필요하게 됐다”며 “법관 증원, 재판연구원 증원, 시니어판사 제도 도입 및 사법보좌관의 업무 범위 확대 등 사실심의 재판 역량을 유지 보강할 방안을 적극적으로 추진하겠다”고 했다. &lt;br&gt;&lt;br&gt;기 차장은 ‘사법 3법’ 시행과 관련해 “법률안 논의 과정에서 많은 우려를 전하였음에도 이제 시행에 이르게 되니 혼란스러움이 있을 것”이라며 “이러한 상황 속에서도 우리 사법부가 나아갈 길은 주권자인 국민과 헌법에 충실하도록 우리의 본분을 다하는 것”이라고 강조했다. 그러면서 “묵묵히 맡은 바 임무에 최선을 다하고 계신 전국의 사법부 구성원들께 다시 한번 진심으로 감사드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천공항 노조 “가덕신공항 건설 부담 전가...공항 통합 즉각 철회해야”</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/16/R6WWXF6M3FDUFIH2XDUUMNL6HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/16/R6WWXF6M3FDUFIH2XDUUMNL6HY/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 07:25:38 +0000</pubDate>
+      <content:encoded>정부가 3개로 나뉜 공항 운영사 통합을 추진하는 가운데, 인천공항공사 노조 등 인천공항 관련 노조가 성명을 내고 반대에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZDAMDFHFRTONJSMFQTCMZSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항공사노동조합, 인천국제공항보안노동조합 등 인천공항 7개 노동조합으로 구성된 ‘인천공항졸속통합저지공동투쟁위원회’는 16일 성명을 내고 “정부가 검토 중인 인천국제공항공사·한국공항공사·가덕도신공항건설공단 등 3개 공항 운영사 통합 추진에 강력하게 반대한다”며 “자회사 노동조합과 함께 공동 총력 투쟁에 돌입한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 이들은 “정부가 추진하는 통합은 지방공항 정책 실패와 신공항 재정 부담을 인천공항에 떠넘기려는 무책임한 책임 전가”라고 비판했다. &lt;br&gt;&lt;br&gt;인천국제공항공사와 한국공항공사, 가덕신공항건설공단을 합치는 통합안은 이재명 대통령이 공공기관 구조 개편을 지시하면서 추진되고 있다.&lt;br&gt;&lt;br&gt;이들은 “지방공항의 만성 적자와 수요 부족은 하루아침에 생긴 문제가 아니다”라며 “수요와 타당성을 외면한 채 정치 논리로 공항 건설을 남발해 온 정부의 정책 실패가 누적된 결과”라고 말했다. 이어 “정책 실패는 바로잡지 않은 채 또다시 막대한 가덕도 신공항 건설을 추진하면서 그 부담을 인천공항 통합으로 덮으려 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;위원회는 또 “만약 지방공항 적자 보전과 신공항 재정 부담까지 떠안게 된다면 인천공항의 투자 여력은 급격히 악화할 수밖에 없고, 그 피해는 결국 국민에게 돌아갈 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “지방공항 문제는 통합으로 덮을 일이 아니라 정부가 책임 있게 재원 대책을 마련하고 잘못된 항공 정책을 바로잡아 해결해야 할 문제”라며 “공공서비스 저하를 초래할 공항 운영사 통합을 즉각 철회하라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 17일 화요일 (음력 1월 29일 庚寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/16/GB4QKMX3BJDVLPP6M5NM2EH4EY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/16/GB4QKMX3BJDVLPP6M5NM2EH4EY/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>‘무고’ 유죄 확정된 공무원도, ‘송철호 캠프 별건 수사’ 연루자들도 재판소원 청구</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/16/DUT5DINLOBG3PAMXML6LV6ISP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/16/DUT5DINLOBG3PAMXML6LV6ISP4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 06:07:16 +0000</pubDate>
+      <content:encoded>직장 내 비위 의혹으로 조사를 받은 전직 공무원이 제보자로 추정되는 직원을 고소했다가 역으로 무고 혐의로 고소당해 대법원에서 유죄가 확정되자 재판소원을 청구한 것으로 16일 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 과학기술정보통신부 산하 기관 소속 공무원이던 A씨는 자신의 무고 혐의에 대해 징역 6개월에 집행유예 2년을 선고한 원심 판결이 지난달 12일 대법원에서 확정되자, 지난 12일 헌법재판소에 재판소원을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSTCYRRMRSWEOBRHEYTENRUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소 민원실에 헌법재판소법 일부개정법률(재판소원) 안내문이 비치되어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 2019년 청와대 반부패비서관실이 기관장 후보자 인사 검증 과정에서 A씨의 관계자 접대 지시, 채용 청탁 등 비위 의혹을 인지해 감찰에 착수한 게 발단이 됐다. A씨는 7주간 직위해제됐으나 검찰 수사에서 무혐의 처분을 받았고, 중앙징계위원회에서도 ‘징계 없음’ 의결을 받았다. A씨는 파견 직원 B씨가 조사 과정에서 허위 사실을 꾸며내 제보했다고 보고 B씨를 무고 혐의로 경찰에 고소했다. 그러나 경찰은 ‘B씨가 직접 제보한 게 아니다’라며 혐의 없음 처분을 내렸다. 이에 B씨는 역으로 “A씨가 허위 사실을 꾸며내 고소했다”며 무고 혐의로 다시 고소했고, A씨는 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 징역형 집행유예를 선고하면서 “B씨가 A씨를 청와대에 진정했다는 점을 확인할 수 있는 증거가 없다”며 “A씨가 합리적인 근거 없이 B씨를 무고한 것이 분명하다”고 판시했다. 항소심과 대법원도 이 같은 원심 판단을 받아들여 A씨의 형을 확정했다. 국가공무원법에 따라 A씨는 직장을 잃게 됐다.&lt;br&gt;&lt;br&gt;이에 A씨는 재판소원을 청구하면서 “무고 혐의에 유죄를 선고한 법원 재판부가 전문 진술을 유죄의 핵심 근거로 썼다”며 재판청구권이 침해당했다는 주장을 펼쳤다. 법원은 B씨가 A씨의 감사 당시 작성한 확인서 내용 중 “C씨로부터 ‘A씨가 접대 지시 등을 해 곤란하다’고 하소연하는 것을 들었다”는 대목 등을 근거로 A씨의 비위 의혹이 사실이라고 판단했다. A씨가 B씨를 무고 혐의로 먼저 고소한 것은 오히려 A씨가 B씨를 무고한 것이라는 얘기다.&lt;br&gt;&lt;br&gt;이에 대해 A씨를 대리하는 조기현 법무법인 대한중앙 변호사는 “형사법정에 증인으로 출석한 C씨는 ‘B씨에게 그런 말을 한 기억이 없다’고 진술했는데도 이러한 법정 증언을 배척한 데 대한 재판부의 합리적 설명이 없어 공정한 재판을 받을 권리를 침해받았다”며 재판소원 청구 이유를 설명했다. A씨는 본지 통화에서 “무고 혐의와 관련한 중앙징계위원회의 판단은 해임이나 파면이 아닌 감봉 1개월에 불과했고, 126명의 동료들도 무죄 판결을 탄원했으나 대법원에서 받아들여지지 않았다”며 “징계위와 법원의 판단이 사실상 정반대나 다름없어 헌재 판단을 구하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 2018년 지방선거 당시 송철호 전 울산시장 캠프 측에 불법 정치자금을 건넸거나 민원 해결 알선 명목으로 수천만원을 주고받은 혐의로 지난달 유죄가 확정된 3명도 재판소원을 청구했다. D씨는 송 전 시장 캠프 측에 불법 정치자금 1000만원을 건네고, 물류 단지 용도 변경 청탁 대가로 5000만원을 받은 혐의 등으로 기소돼 징역 3년 6개월과 벌금 5000만원, 추징금 5000만원이 확정됐다. 민원 해결 알선 명목으로 3000만원을 받은 E씨는 징역 2년과 추징금 3000만원이 확정됐다. 불법 정치자금을 전달한 혐의를 받는 F씨도 벌금 500만원과 추징금 1000만원이 확정됐다.&lt;br&gt;&lt;br&gt;세 사람을 대리하는 심규명 변호사는 “재판 과정에서 헌법상 기본권이 침해됐다”는 입장이다. 심 변호사는 “대법원은 피고인마다 상고 이유가 다른데도 유사한 문구로 상고 기각 사유를 판시해 구체적인 판단을 빠뜨렸다”며 “‘공정한 재판을 받을 권리’를 침해한 것”이라고 주장했다. 또 수사 과정에서 영장 없이 통장 등을 압수한 증거가 재판에서 인정돼 영장주의와 적법 절차 원칙이 훼손됐다는 주장도 펼쳤다.&lt;br&gt;&lt;br&gt;지난 12일 시행된 재판소원 제도는 법원의 확정 판결에 대해서도 헌법소원을 제기할 수 있도록 한 제도다. 지난 16일까지 헌재에 모두 44건이 접수됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“설탕 부담금, 증세 아닌 국민건강정책”… 민간협의체 첫 간담회 열려</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/16/Z3CA7XLKIFESZPJM2R2PKS7QE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/16/Z3CA7XLKIFESZPJM2R2PKS7QE4/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 06:43:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTOMZVG44DINLBMYYTGMTBGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대형마트에 설탕이 진열되어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당류 과다 식품에 부담금을 매기는 ‘설탕 부담금’과 관련해 민간 협의체가 지난 6일 첫 간담회를 열고 설탕 부담금 도입 방안에 대해 논의하는 자리를 가졌다. 설탕과다사용부담금민간협의체는 설탕 부담금 제도 도입을 촉진하기 위해 지난달 시민사회와 각계 전문가가 모여 발족한 단체다.&lt;br&gt;&lt;br&gt;이날 윤영호 서울대 의대 교수는 “설탕 부담금 논의는 단순한 세금 정책이 아니라 국민 건강 문화를 바꾸는 과정”이라고 했다.&lt;br&gt;&lt;br&gt;강정화 한국소비자연맹 회장도 “설탕 부담금은 정부 재원 확보가 아니라 소비자와 국민의 건강한 정책을 유도하는 국민 건강 정책으로 설계돼야 한다”며 설탕 부담금 도입이 증세 논쟁으로 번지는 데 우려를 표했다.&lt;br&gt;&lt;br&gt;설탕뿐 아니라 대체당에 부담금을 부과하는 방안도 논의됐다. 대체당은 단맛을 내기 위해 설탕 대신 사용하는 감미료를 말한다. 알룰로스, 스테비아 같은 천연 감미료와 아스파탐, 수크랄로스 같은 인공 감미료로 나뉜다.&lt;br&gt;&lt;br&gt;윤지현 서울대 식품영양학과 교수는 “입맛 자체가 단맛에 익숙해지지 않도록 하는 것이 중요하기 때문에 대체 감미료로 달게 만든 가공식품도 부담금 대상으로 고려해야 한다”고 했다.&lt;br&gt;&lt;br&gt;설탕을 무조건 ‘나쁜 식품’으로 인식하게 돼선 안 된다는 우려의 목소리도 나왔다. 김미영 한국1형당뇨병환우회 대표는 “설탕은 빠르게 에너지를 얻을 수 있는 중요한 식품“이라며 ”설탕을 무조건 먹으면 안 된다는 식의 접근은 바람직하지 않다”고 했다.&lt;br&gt;&lt;br&gt;설탕 부담금은 당류가 첨가된 청량음료 등의 식품에 부과하는 부담금을 말한다. 2016년 WHO(세계보건기구)가 각국에 도입을 권고한 이후 세계 120여 국가에서 시행 중이다.&lt;br&gt;&lt;br&gt;서울대 건강문화사업단이 한국리서치에 의뢰해 지난달 국민 1030명을 대상으로 실시한 설문조사에 따르면 응답자의 80.1%가 첨가당 과다 사용 기업에 ‘설탕 과다 사용세’를 부과하는 설탕세에 찬성하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박물관·미술관 등 복합문화예술공간, 인천뮤지엄파크 첫 삽… 2028년 개관 </title>
+      <link>https://www.chosun.com/national/regional/2026/03/16/U3YNX7QLJBBWZEVI6IRPDLJHTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/16/U3YNX7QLJBBWZEVI6IRPDLJHTA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 05:54:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYUFUHU2NVEGZMUQX2UF3ZNU6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 인천 미추홀구 학익동에서 진행된 인천뮤지엄파크 착공식에서 유정복 인천시장과 참석자들이 기념촬영을 하고 있다. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박물관과 미술관, 예술 공원 등이 결합된 복합 문화 예술 공간인 ‘인천 뮤지엄파크’ 공사가 본격 추진된다. &lt;br&gt;&lt;br&gt;인천시는 16일 인천 미추홀구 학익동 587의 53 일대 부지에서 인천뮤지엄파크 착공식을 가졌다. &lt;br&gt;&lt;br&gt;인천뮤지엄파크는 약 4만1170㎡ 부지에 지하 1층, 지상 2층, 연면적 3만8889㎡ 규모로 조성된다. 경기 과천에 있는 국립현대미술관과 비슷한 규모를 갖추게 된다. 총사업비는 2416억원으로, 2028년 개관이 목표다. &lt;br&gt;&lt;br&gt;인천뮤지엄파크는 박물관과 미술관, 예술 공원 등이 들어서 역사 유물뿐만 아니라 미술 작품들도 동시에 감상할 수 있다. 또 다양한 교육·문화 프로그램을 즐길 수 있다. 인천시는 네덜란드 암스테르담의 ‘뮈세윔 플레인’을 참고했다고 설명했다. &lt;br&gt;&lt;br&gt;인천시는 인천뮤지엄파크 조성으로 인천의 첫 시립미술관을 갖게 된다. 인천은 인구가 300만명이 넘는 도시지만 그동안 전국 특·광역시 가운데 유일하게 시립미술관이 없어 시민들의 문화 향유 기회가 제한되고 지역 예술인들의 활동 기반이 부족하다는 지적이 꾸준히 제기됐다. &lt;br&gt;&lt;br&gt;연면적 1만3126㎡ 규모 인천뮤지엄파크 내 박물관 공간은 인천 연수구 옥련동에 있는 인천시립박물관이 이전해 활용하게 된다. 현재(5800㎡)의 2배 규모로, 경기도박물관(1만847㎡), 부산박물관(1만4797㎡) 등과 비슷한 크기다.&lt;br&gt;&lt;br&gt;유정복 인천시장은 “박물관과 미술관, 예술 공원이 결합된 대한민국 최초의 문화예술 플랫폼이 추진 10여 년 만에 착공하게 돼 감개무량하다”며 “문화예술인들이 긍지와 자부심을 느끼는 공간이자 시민들이 즐겨 찾는 공간으로, 글로벌 문화 도시의 심장으로 만들겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4U6NBQS3JDHNFG2FI7AFZWEAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 뮤지엄파크 조감도./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김영환 충북지사 컷오프… 김영환 “자유민주주의 원칙·절차 파괴” 반발</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/16/5UE3XLPZP5E2NLLYESCU6TBGCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/16/5UE3XLPZP5E2NLLYESCU6TBGCI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 05:09:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FE4HOTNXAFKXBL3SUBDMRSRN7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 충북도지사에 도전하는 김영환 충북도지사가 11일 서울 영등포구 여의도 국민의힘 중앙당사에서 열린 광역단체장 후보 면접을 마치고 취재진 질문에 답하고 있다./연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘이 충북지사 후보 공천 과정에서 현직 도지사인 김영환 충북지사를 컷오프(공천 배제)했다. 국민의힘 공천 과정에서 현직 광역단체장이 배제된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;이에 김 지사는 공관위 결정을 “자유민주주의 원칙과 절차를 파괴한 것”이라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;국민의힘 공천관리위원회는 16일 서울 여의도 중앙당사에서 브리핑을 열고 충북지사 공천과 관련해 김 지사를 공천 대상에서 제외하고 추가 공모를 진행하기로 했다고 밝혔다. &lt;br&gt;&lt;br&gt;이정현 국민의힘 공천관리위원장은 “충북 후보 공천과 관련해 많은 논의 끝에 현 도지사를 이번 공천 대상에서 제외하고 기존 신청자 외에 추가 공천 접수를 받아 최종 결정하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;이 위원장은 “한 사람에 대한 평가의 문제가 아니라 정치 변화의 문제”라고 배경을 설명했다. 그는 “현 도지사의 업적을 부정하거나 평가절하하기 위한 것이 아니다”라며 “김 지사는 도정을 이끄는 동안 창의적 행정과 선도적 정책을 펼쳐왔다”고 했다. &lt;br&gt;&lt;br&gt;그러면서도 “지금 국민의힘이 국민 앞에서 보여줘야 할 것은 안정에 머무는 정치가 아니라 스스로를 바꾸는 혁신의 정치”라고 덧붙였다. &lt;br&gt;&lt;br&gt;공관위는 이날 추가 공천 접수 공고를 내고 17일까지 후보 등록을 받은 뒤 추가 신청자가 있을 경우 면접을 실시해 최종 후보를 결정할 방침이다. &lt;br&gt;&lt;br&gt;이번 결정으로 김 지사의 재선 도전에는 급제동이 걸렸다.&lt;br&gt;&lt;br&gt;컷오프 소식은 이날 오전 김 지사가 외부 일정을 소화하던 중 전해졌다.&lt;br&gt;&lt;br&gt;김 지사는 이후 예정된 일정을 모두 취소했고, 오후에는 연가를 내고 공식 일정을 중단한 채 외부 접촉을 최소화하며 사실상 칩거에 들어간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 지사는 소식을 접한 직후 “갑작스러운 발표라 상황을 파악하고 생각을 정리하는 데 시간이 필요하다”며 “하루 이틀 뒤 입장을 정리해 말씀드리겠다”고 말했다.&lt;br&gt;&lt;br&gt;그러나 이날 오후 자신의 SNS를 통해 공관위 결정을 강하게 비판했다. 그는 “오늘 저는 공심위의 결정을 결코 받아들일 수 없다”며 “공심위는 자유민주주의 원칙과 절차를 파괴했고 충북도민의 의사를 헌신짝처럼 버렸다”고 주장했다. &lt;br&gt;&lt;br&gt;이어 “지금부터 잘못된 결정을 바로잡고 승리하기 위해 최선을 다하겠다”며 “특정인을 정해 놓고 면접을 진행했다니 기가 막힌다”고 했다.&lt;br&gt;&lt;br&gt;하지만 특정인에 대한 구체적인 언급은 하지 않았다. &lt;br&gt;&lt;br&gt;정치권 일각에서는 김 지사를 둘러싼 사법 리스크가 공관위 판단에 영향을 미쳤을 가능성도 제기된다. 김 지사는 지역 체육계 인사들로부터 금품을 받았다는 의혹으로 경찰 수사를 받고 있으며, 오송 지하차도 참사와 관련한 중대시민재해 혐의 기소 가능성도 거론되고 있다.&lt;br&gt;&lt;br&gt;한편 국민의힘 충북지사 공천에는 김 지사 외에 윤갑근 변호사, 윤희근 전 경찰청장, 조길형 전 충주시장이 1차 공모에 신청해 지난 11일 면접을 치른 상태다. 공관위는 추가 접수를 받은 뒤 면접을 거쳐 최종 후보를 결정할 예정이다.&lt;br&gt;&lt;br&gt;정치권에서는 김 지사가 재심을 요청하거나 무소속 출마를 강행할 가능성도 거론된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰 보완수사권 놓고…“검찰 수사 공백 불안감은 실체 없어” “보완수사요구로는 불충분”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/16/53T3KMPPRBG4NNYHWWE6RJB64Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/16/53T3KMPPRBG4NNYHWWE6RJB64Y/</guid>
@@ -422,69 +544,6 @@
 /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지리산 깃대종인 히어리는 요즘 피고 있어요. 히어리는 우리나라 특산식물(한 국가의 특정 지역에만 자생하는 식물)입니다. 잎보다 먼저 노란 꽃을 피우는데 지리산 구룡계곡 곳곳에서 자생합니다. 보기 드문 꽃이었는데 요즘엔 서울 공원이나 주변 산에도 상당히 많이 심어 놓았어요. 꽃을 보면 귀여운 노란 벌레들이 줄줄이 달려 있는 것 같은 느낌도 듭니다.&lt;br&gt;&lt;br&gt;변산반도국립공원의 깃대종은 부안종개와 변산바람꽃이에요. 변산바람꽃은 복수초·노루귀와 함께 봄이 오는 것을 알리는 대표적인 꽃입니다. 새해 꽃다운 꽃으로는 맨 처음 피는 야생화라고 할 수 있습니다. 낭만적 이름에다 우리 특산식물이라는 점까지 더해져 어느새 초봄을 대표하는 꽃으로 자리 잡았어요.&lt;br&gt;&lt;br&gt;한라산과 덕유산 깃대종 식물은 구상나무입니다. 한라산이 구상나무를 깃대종으로 정한 것은 이 나무가 우리나라 고유종이면서도 멸종 위기에 처했기 때문이고, 덕유산은 구상나무의 북방한계선인 점을 감안한 것 같아요.&lt;br&gt;&lt;br&gt;북한산 깃대종은 산개나리죠. 산개나리는 북한산에 상당한 개체가 자생하고 전북 임실, 관악산 일부 지역에서도 자라는 게 확인됐습니다. 개나리는 가지가 능청능청 늘어지는데 비해 산개나리 가지는 꼿꼿한 편이에요. 또 산개나리는 꽃잎도 좀 작고 색도 옅은 편이고, 잎 뒷면에 뽀송뽀송한 솜털이 있는 것도 개나리와 다릅니다.&lt;br&gt;&lt;br&gt;오대산은 노랑무늬붓꽃, 소백산은 모데미꽃, 무등산은 생강나무 비슷한 털조장나무, 월출산은 끈끈이주걱, 월악산은 솔나리를 식물 깃대종으로 쓰고 있습니다. 하나같이 그 산의 생태 특징을 잘 드러내는 식물이죠.&lt;br&gt;&lt;br&gt;금정산에는 삵과 수달, 고리도롱뇽, 자주땅귀개·가는동자꽃·삼백초 등 멸종위기종 14종을 포함해 야생생물 1782종이 살고 있어요. 국립공원공단은 전문가들과 국민 의견을 모아 오는 4월 금정산의 생태 지리적 특성 등을 나타낼 수 있는 깃대종을 선정해 발표할 예정이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [생각이 자라는 책] 침략 전쟁 반대, 능력 따른 인재 발탁… 2500년 전 묵자 주장 여전히 주목받죠</title>
-      <link>https://www.chosun.com/national/nie/2026/03/16/C5AHOFZ2NRDGNJPEP2236V6GAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/16/C5AHOFZ2NRDGNJPEP2236V6GAY/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6NQVYVJHRDD7N6DU3RIRI3UHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;박문현 지음 l 출판사 세창미디어 l 가격 8000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;묵자(墨子)의 이름은 ‘적(翟)’입니다. 기원전 450년부터 390년 사이에 활동했지만, 태어나고 사망한 때는 불분명해요. ‘묵자’라는 책은 묵자의 가르침을 따르던 제자들이 엮었습니다. 전쟁이 끊이지 않는 시대를 살았던 묵자는 침략에 맞서는 전쟁 외에 모든 전쟁은 부당하다고 여겼대요. 이를 ‘비공(非攻)’이라고 부르는데, 이는 침략 전쟁을 반대한다는 뜻이에요.&lt;br&gt;&lt;br&gt;“잘못이 없는 사람을 죽이고 옷을 빼앗고 무기를 빼앗는다면, 남의 소와 말을 빼앗는 것보다 더 불의하다. 남에게 끼친 해가 많을수록 죄도 커지는 게 당연하다. 남의 소와 말을 빼앗는 것에 대해서는 세상 모든 군자들이 불의하다며 비난할 줄 안다. 그러나 남의 나라를 침략하는 큰일에 대해서는 비난하기는커녕 칭찬하는 이가 있다.”&lt;br&gt;&lt;br&gt;남의 물건을 빼앗는 강도짓은 비난하면서, 남의 나라를 빼앗으려는 전쟁은 칭송하는 현실에 묵자는 맞섰습니다. 송나라를 침공하려는 초나라 임금을 만나 “자신의 수놓은 비단옷은 버려두고 이웃의 볼품없는 옷을 훔치려 하는 것과 같다”고 말했지만, 초나라 임금은 묵자의 의견을 따르지 않고 공수반이라는 기술자에게 성을 공격하는 기계 장치를 만들도록 했어요.&lt;br&gt;&lt;br&gt;하지만 묵자는 포기하지 않았습니다. 자신의 허리띠와 나무 조각으로 실제 전투 상황 모형을 만들어 초나라가 송나라 성을 쉽게 무너뜨릴 수 없다는 사실을 임금에게 보여줍니다. 묵자는 허리띠를 풀어 성 모형을 만들고, 공수반이 나무 조각으로 공격하도록 했습니다. 공수반은 방법을 아홉 번이나 바꾸면서 허리띠 성을 공격했지만 묵자는 모두 막아냈습니다. 더구나 묵자의 제자 300명이 초나라의 공격을 막기 위해 기다리고 있었습니다. 결국 초나라 임금은 침공을 포기했습니다.&lt;br&gt;&lt;br&gt;묵자는 모든 사람을 보편적이고 평등하게 사랑하는 ‘겸애(兼愛)’가 평화를 가져오리라 기대했습니다. 사람들은 남의 편보다 내 편을 더 사랑하기 마련이지요. 그렇게 차등을 두어 사랑하는 ‘별애(別愛)’에서 불화가 생긴다는 겁니다. “온 천하의 모두가 서로 사랑하게 되면 나라와 나라는 서로 공격하지 않을 것이며, 집안과 집안은 서로 해치지 않을 것이고, 도둑이 없어지고 임금과 신하와 어버이와 자식은 모두 자애롭고 효도할 수 있을 것이다. 이와 같이 되면 천하가 잘 다스려질 것이다.”&lt;br&gt;&lt;br&gt;묵자는 타고난 혈통에 따르지 말고 능력과 덕행이 뛰어난 이가 나라를 다스려야 한다고 주장했어요. 이를 ‘상현(尙賢)’이라고 합니다. “옛 성왕들은 출신의 귀천을 막론하고 덕이 있는 사람을 가려 그 사람에 알맞은 지위를 주고 어진 이를 존중했다. 농부, 장인, 상인 할 것 없이 유능하다면 기용해 높은 작위도 주고 봉록을 후하게 주며 명령할 권한을 줬다.” 약 2500년이 지난 오늘날에도 비공, 겸애, 상현 등 묵자의 생각은 여전히 주목을 받고 있답니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 가볍게 한잔하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/03/16/6GOGZVXEANDAFGHMNCAQ42H37U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/03/16/6GOGZVXEANDAFGHMNCAQ42H37U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5534JOQZKBEPTAGHWSUISDAGM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 유체이탈(遺體離脫)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/03/16/I4MLJXLSRJG7HO6VUEUEL7BJLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/03/16/I4MLJXLSRJG7HO6VUEUEL7BJLE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57QJDESJMNFSRM7I7QN57PKASM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 눅진눅진하다, 걸쭉해지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/03/16/H3QJ37Y4BNB7HJK4ZEIF7HHD4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/03/16/H3QJ37Y4BNB7HJK4ZEIF7HHD4Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2XSPWUNXVD7ZHMVGV6H6WC3PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] gear up</title>
-      <link>https://www.chosun.com/national/nie/english/2026/03/16/RRQP743WDBEY3HXG6BZG45MO24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/03/16/RRQP743WDBEY3HXG6BZG45MO24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWVLZVF2JJC4XLAVBLDSU7HHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2825] 열려라, 단어창고</title>
-      <link>https://www.chosun.com/national/nie/2026/03/16/5R4PDVZ4YFAYNPCJB6OZADAJRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/16/5R4PDVZ4YFAYNPCJB6OZADAJRU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JZWYZWSWFCU3ED7JCQTI66SLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월 16일</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/15/5P3FGHZN6ZG7VO54DLWITEUMM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/15/5P3FGHZN6ZG7VO54DLWITEUMM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 14:35:00 +0000</pubDate>
-      <content:encoded>중부내륙 아침 기온 영하로. 큰 일교차&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMWYZ7ANIRHUJJJC65KCH5FPEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘젝스키스’ 장수원, 잠실 아파트 청약 당첨 후 매물 내놓은 사연</title>
       <link>https://www.chosun.com/national/people/2026/03/15/HWBGR2GW65HFXHWWQGAS6HZMU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/15/HWBGR2GW65HFXHWWQGAS6HZMU4/</guid>
@@ -494,24 +553,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUL4YADMWNCLFDRDGBRZKNR7TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 젝스키스 출신 방송인 장수원./유튜브 '이용진 유튜브'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 젝스키스 출신 방송인 장수원이 과거 서울 잠실 아파트 청약에 당첨됐던 사실을 공개했다. 현재는 보유 주택을 매물로 내놓은 상태라고도 밝혔다.&lt;br&gt;&lt;br&gt;장수원은 지난 14일 공개된 ‘이용진 유튜브’ 영상에 출연해 2018~2019년쯤 잠실 지역 아파트 청약에 당첨됐던 당시를 언급했다. 당첨 이후 자금을 마련하는 과정이 쉽지 않았다고 했다.&lt;br&gt;&lt;br&gt;그는 “중도금을 준비할 돈이 부족해 여러 일을 하며 겨우 마련했다”고 말했다. 이어 “아이돌 활동 당시 지금처럼 정산 체계가 정비되지 않은 시기라 아이돌이라고 해서 큰돈을 벌기 어려웠다”며 “계약서를 작성하지 않고 구두로 약속을 맺고 활동하는 사례도 적지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이용진이 정부의 다주택자 규제 정책을 언급하자 장수원은 “그래서 집을 다 내놨다. 세금을 감당하기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;장수원의 발언은 최근 정부의 부동산 규제 강화 기조와 맞물려 관심을 모았다. 이재명 대통령은 최근 “망국적 부동산 구조를 바로잡겠다”며 강경한 정책 기조를 밝혔다.&lt;br&gt;&lt;br&gt;정부는 다주택자 양도소득세 중과 유예 조치를 오는 5월 9일 종료할 예정이다. 실거주 목적이 아닌 1주택 보유자에 대한 추가 규제도 검토하고 있다. 신축 아파트 중도금·잔금 대출 규제 강화와 보유세 인상 가능성까지 거론되고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>메모리값 오르자 학교 PC부품 저사양으로 바꿔치기... 업체 직원 고발</title>
-      <link>https://www.chosun.com/national/regional/2026/03/15/ZISXMPE2YVDTHNLHD4VQAXV5AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/ZISXMPE2YVDTHNLHD4VQAXV5AI/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 11:06:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3GEMJYGJQTSOBQMI4DGZRTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시교육청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;메모리카드 가격이 오르자 차익을 노리고 학교 컴퓨터 부품을 더 저렴한 제품으로 바꿔치기 한 의혹을 받는 전산장비 유지보수 업체 직원이 경찰에 고발됐다.&lt;br&gt;&lt;br&gt;인천시교육청은 최근 특수절도 혐의로 모 전산 장비 유지보수 업체의 전 직원 A씨를 경찰에 고발했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;시교육청은 A씨가 올해 초 인천시 남동구와 부평구 학교 7곳에서 메모리카드와 램(RAM·임시 저장 메모리) 등 컴퓨터 부품을 저사양 제품으로 바꿔치기한 것을 확인하고 고발장을 냈다.&lt;br&gt;&lt;br&gt;현재까지 교육 당국이 파악한 절도 피해는 컴퓨터 200여대의 7000만원 상당 부품이다.&lt;br&gt;&lt;br&gt;A씨는 최근 메모리 가격 상승 흐름이 지속되자 부품을 빼돌려 차익을 얻으려 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이들 학교 교사는 컴퓨터 성능이 갑자기 떨어지자 업체에 점검을 의뢰했고, 그 결과 당초 납품된 것보다 낮은 사양의 부품들이 탑재돼 있던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;해당 업체는 지난해 3월 다른 업체 3곳과 컨소시엄을 꾸려 시교육청과 통합 유지보수 계약을 맺은 상태다.&lt;br&gt;&lt;br&gt;이 프로그램은 시교육청이 장비 유지보수가 필요한 학교에 계약된 업체를 연결해 장비를 관리하도록 했다. 해당 업체는 절도 정황이 드러나자 A씨를 해고하고 피해 복구에 나선 상태다.&lt;br&gt;&lt;br&gt;인천시교육청 관계자는 “이 업체가 포함된 컨소시엄이 유지보수를 담당하는 390여개교에 대해 전수 조사를 할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 어선 화재 실종 한국인 선원 2명... 이틀째 야간 수색</title>
-      <link>https://www.chosun.com/national/regional/2026/03/15/WZBFCOWAJFCBNMMFCZSAGYPWBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/15/WZBFCOWAJFCBNMMFCZSAGYPWBY/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 10:13:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DSZRYMI4GGNBQG4ZDINZTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 10시쯤 제주시 한경면 고산리 차귀도 남서쪽 약 90㎞ 해상에서 한림선적 29t급 어선 A호에 화재가 발생해 해경이 진화 작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 차귀도 해상에서 어선 화재로 실종된 한국인 선원 2명을 찾기 위한 야간 수색이 이틀째 이뤄진다.&lt;br&gt;&lt;br&gt;15일 제주해양경찰서에 따르면 이날 오후 6시부터 해경 경비함정과 관공선, 민간 선박 등 함선 18척이 투입돼 수색 작업을 벌인다.&lt;br&gt;&lt;br&gt;야간에는 수색 구역을 사고 해점을 중심으로 가로 37㎞, 세로 33㎞ 범위로 확대할 예정이라고 해경은 설명했다.&lt;br&gt;&lt;br&gt;이날 주간에는 함선 22척(해경 5, 유관기관 2, 민간 15)과 항공기 2대가 동원돼 수색 작업이 이뤄졌지만, 실종자를 찾지 못했다.&lt;br&gt;&lt;br&gt;앞서 전날 오전 9시 58분쯤 제주시 한경면 고산리 차귀도 남서쪽 약 90㎞ 해상에서 한림 선적 근해자망 29t급 어선 A호에 화재가 발생했다&lt;br&gt;&lt;br&gt;승선원 10명 중 8명(한국인 2명, 인도네시아인 6명)은 인근 어선에 구조됐으나, 한국인 선원 2명은 아직 실종 상태다.&lt;br&gt;&lt;br&gt;A호 선체는 화재 발생 7시간여 만인 같은 날 오후 5시 44분쯤 완전히 침몰했다. 침몰 지점의 수심은 약 74m로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>쉰들러 ISDS 완승 배경엔... “韓 정부, 어떤 국제법적 의무도 위반 안 해”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/15/XJJ2OJ62YJC4ZOWTE7OW2TATNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/15/XJJ2OJ62YJC4ZOWTE7OW2TATNM/</guid>
@@ -519,27 +560,6 @@
       <description/>
       <pubDate>Sun, 15 Mar 2026 09:48:57 +0000</pubDate>
       <content:encoded>한국 정부가 스위스의 글로벌 승강기 업체 쉰들러가 제기한 약 3200억원 규모 국제투자분쟁(ISDS)에서 완승한 배경에는 정부의 정당한 법 집행이 있었던 것으로 15일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZGEYRRGI2DKZJUMMYDGNRRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 지난 14일 서울시 종로구 세종대로 정부서울청사에서 스위스의 글로벌 승강기 업체인 쉰들러(Schindler)가 한국을 상대로 제기한 국제투자분쟁(ISDS) 선고 관련 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “14일 새벽 2시 3분쯤 국제상설중재재판소(PCA)의 중재판정부가 쉰들러의 모든 청구를 기각했다”고 했다. 이로써 쉰들러가 한국 정부에 요구한 약 3200억원 상당의 손해배상금을 전부 내지 않게 됐다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2018년 현대엘리베이터의 2대 주주인 쉰들러가 한국 정부에 약 5000억원 규모 ISDS를 제기하면서 시작됐다. 쉰들러 측은 2013~2015년 진행된 현대엘리베이터 유상증자와 전환사채 발행이 오너 일가의 ‘경영권 강화’ 차원에서 이뤄졌음에도 공정거래위원회·금융감독원·금융위원회 등 관계 당국이 이를 사실상 방치해 부당한 손해를 입었다고 주장했다. 쉰들러 측의 최초 ISDS 청구 액수는 약 5000억원이었으나, 지난 8년간 이뤄진 공방 과정에서 최종 배상 청구액은 3200억원 수준으로 줄었다.&lt;br&gt;&lt;br&gt;이에 대해 한국 정부는 해당 사건의 본질은 ‘주주 간 경영권 분쟁’에 불과한데도 그로 인한 불만을 국가의 책임으로 돌리려는 쉰들러의 시도는 부당하다는 점을 강조했다고 한다. 정부는 금감원의 현대엘리베이터 유상증자 증권신고서 심사와 공정위의 콜옵션 양도 조사 등 관련 조치도 적법하게 수행된 점을 입증한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;한국 정부가 투자협정상의 ‘충분한 보호 및 안전(FPS)’ 의무를 위반했다는 쉰들러 측 주장에 대해 정부는 “해당 의무는 국제법상 ‘물리적 보호’를 의미하는 것일 뿐 ‘법적 보호’는 포함되지 않는다”고 반박한 것으로 전해졌다. 법무부는 “중재판정부가 우리 정부의 주장을 전적으로 받아들여 정부가 투자협정 상 어떠한 국제법적 의무도 위반하지 않았음을 확인했다”고 전했다.&lt;br&gt;&lt;br&gt;법무부는 “중재판정부는 설사 ‘법적 보호’까지 포함된다고 가정하더라도, 쉰들러는 이미 한국 사법 체제 내에서 주주대표소송 등을 통해 충분한 법적 보호를 받았으므로 한국 정부가 투자자 보호 의무를 이행했다고 봤다”고 설명했다. 쉰들러는 2014년 현대엘리베이터 이사 4명을 상대로 주주대표소송을 제기해 현대그룹 회장이 현대엘리베이터에 1700억원 및 이자를 배상하라는 판결을 받아낸 바 있다. 이 판결이 대법원에서 확정되면서 현대그룹 측은 2023년 4월 현대엘리베이터 측에 배상금과 이자 합계 약 2815억원을 완납했다.&lt;br&gt;&lt;br&gt;중재판정부는 한국 정부가 투자협정을 위반하지 않았으므로, 쉰들러 측이 주장한 손해에 대해선 별도로 판단할 필요가 없다고 봤다. 또 ‘패소자 비용 부담 원칙’에 따라 한국 정부의 소송 비용 약 96억원도 쉰들러 측에서 돌려받게 됐다.&lt;br&gt;&lt;br&gt;법무부는 “2018년 중재의향서 접수 이후 8년 간 진행된 대형 투자 분쟁으로서, 우리 정부가 거대 글로벌 기업의 공세를 국제중재에서 완벽히 방어한 값진 승리”라며 “ISDS 사건 중 중재절차 본안 심리단계에서 ‘전부 승소’를 거둔 역대 두 번째 사례”라고 했다. 그러면서 “이번 판정 결과를 면밀히 분석해 향후 발생 가능한 후속 절차에 철저히 대비하겠다”고 했다.&lt;br&gt;&lt;br&gt;최근 법무부는 연일 ISDS 사건에서 승전보를 쓰고 있다. 작년 11월 미국계 사모펀드 론스타와의 약 4000억원 규모 ISDS 취소 사건에서 승소한 데 이어, 지난달 23일에는 미국계 사모펀드 엘리엇 측에 1600억원을 배상해야 한다는 ISDS 결과를 뒤집었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“야호~” 태국서 울린 임진영 환호… KLPGA 개막전 우승</title>
-      <link>https://www.chosun.com/national/people/2026/03/15/C6U4I3AZMBH3VAIK6OC33EVADA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/15/C6U4I3AZMBH3VAIK6OC33EVADA/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 09:09:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRTCNRZMU4WIZRVG44TMYRQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“야호~”&lt;br&gt;&lt;br&gt;15일 KLPGA(한국여자프로골프) 투어 개막전 ‘리쥬란 챔피언십’에서 우승한 임진영(23)이 짧은 환호를 내지르고 그린으로 이동했다. &lt;br&gt;&lt;br&gt;동료들이 다가와 쏟아붓는 생수를 기분좋게 받아낸 그는 방송 인터뷰에서 “엄마, 아빠 사랑해”를 외친 뒤 끝내 눈물을 보였다. &lt;br&gt;&lt;br&gt;2022년 데뷔후 다섯 번째 시즌 만에 이뤄낸 생애 첫 우승의 기쁨과 가족에 대한 미안함이 동시에 스쳐 지나가는 듯했다. &lt;br&gt;&lt;br&gt;이날 태국 촌부리 아마타 스프링 컨트리 클럽(파 72)에서 열린 ‘리쥬란 챔피언십’ 마지막 4라운드. 임진영은 보기 없이 버디만 7개를 잡는 무결점 플레이로 합계 12언더파 273타를 기록하며 우승을 차지했다. &lt;br&gt;&lt;br&gt;3라운드까지 임진영은 선두에 네 타 뒤진 8언더파 공동 7위였다. 3라운드까지 선두였던 전예성, 2위였던 이예원 조보다 두 조 앞서 경기를 치렀고, 선두 자리에서 경기가 끝나길 기다렸다. &lt;br&gt;&lt;br&gt;지난해 3승을 거둬 공동 다승왕에 오른 이예원이 끝까지 임진영을 추격했다. 하지만 이예원은 15번 홀 버디 이후 16~18번 홀을 파로 마쳤고, 임진영은 웃으며 대회를 마칠 수 있었다. &lt;br&gt;&lt;br&gt;경기 후 임진영은 “겨울 전지 훈련 기간 내가 뭐가 부족한지 찾기 위해 나를 객관적으로 바라보려 애썼다”며 “올 시즌부터 시즌 2승을 목표로 삼았는데 이제 첫 승 했으니, 이번 대회 잘했던 부분을 기억하며 남은 시즌도 잘 치러내고 싶다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MFRTCNRZMU4WIZRVG44TMYRQMY.jpg?auth=63dbb1964a5043b98c51eaf65294ccafcca46d5709e9f7003813bd25805103e4&amp;smart=true&amp;width=719&amp;height=525" type="image/jpeg" height="525" width="719">
-        <media:description type="plain">임진영</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>투자 사기조직에 대포 통장, 휴대전화 제공한 20대 남성 최후는?</title>
-      <link>https://www.chosun.com/national/incident/2026/03/15/BPI45CNVUNDZ3P5NCKCVI6DIFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/15/BPI45CNVUNDZ3P5NCKCVI6DIFI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 08:59:25 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자 사기 조직에 대포 통장과 휴대전화를 제공한 혐의로 재판에 넘겨진 피고인이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 부산지법 형사10단독 허성민 판사는 사기 방조와 전자금융거래법 위반 등 혐의로 기소된 20대 남성 A씨에게 징역 2년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;또 A씨에게 계좌 명의를 제공하고, 도피를 도운 혐의로 기소된 20대 남성 B씨에게는 징역 1년 2개월에 집행유예 2년을 선고하고, 사회봉사 160시간을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 9월 20일부터 작년 1월까지 5개의 통장 계좌와 3대의 휴대전화를 금 투자 사기 조직과 주식 투자 사기 조직에 제공한 혐의를 받는다. 그는 은행 앱과 비밀번호를 제공하면 매달 100만원을 주겠다며 명의자들을 모집했다.&lt;br&gt;&lt;br&gt;A씨는 범행 대가로 금 투자 사기 조직으로부터 계좌당 250만원을, 주식 투자 사기 조직으로부턴 100만원을 각각 챙겼다고 한다. &lt;br&gt;&lt;br&gt;특히 금 투자 사기 조직은 “금 트레이딩에 투자하면 원금을 보장하고, 큰 수익을 낼 수 있다”고 13명을 속여 A씨가 제공한 대포통장으로 1억5000만원을 가로챈 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 A씨에게 계좌를 제공하고, 유치장 접견실에서 A씨의 공범과 A씨가 스피커폰으로 통화하도록 도운 혐의를 받는다. 또 경찰 수사를 피해 도주하던 A씨에게 빌라 등을 제공한 혐의도 있다.&lt;br&gt;&lt;br&gt;허 판사는 “A씨는 집행유예 기간 중 자숙하지 않고 범행을 저질러 재범의 위험성이 높고 피해 금액이 상당한데 대부분 변제가 되지 않았다”며 “B씨의 경우 계좌를 양도하고, A씨의 도피를 돕는 등 죄질이 좋지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>늦은 밤 강남 달리는 ‘자율 주행 택시’, 4월부터 정식 유료 운행 돌입</title>
@@ -552,24 +572,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/AVGS4MRPHNED3CEQYQTZODSFBE.jpg?auth=f97a836af87dcbcfd0add31967a200e99fd5f2fa6c9db21555110ba6df9e9a78&amp;smart=true&amp;width=1152&amp;height=864" type="image/jpeg" height="864" width="1152">
         <media:description type="plain">서울 강남구와 서초구 일대를 달리고 있는 심야 자율주행 택시의 모습. /서울시</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“돈 필요해” 가족 상대 강도짓… 800만원 빼앗고 철창행</title>
-      <link>https://www.chosun.com/national/incident/2026/03/15/OFT6TVSZDZDJZJIO3DQ5XTRK3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/15/OFT6TVSZDZDJZJIO3DQ5XTRK3I/</guid>
-      <dc:creator>평택=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 07:25:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTBE45ZINH6FKR3JHU6FCUOW6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가족을 상대로 강도질을 벌여 현금 수백만원을 빼앗은 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 특수 강도 혐의를 받는 A씨를 비롯한 4명을 검거해 조사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨와 B씨 등 2명은 공범 2명과 함께 지난 14일 오후 8시 20분쯤 평택의 한 빌라에서 피해자 C씨를 상대로 강도 행각을 벌여 현금 800만원을 빼앗은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들의 범행 과정에서 C씨가 폭행당해 경상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A, B씨는 피해자 C씨와 가족 관계였다. 나머지 공범 2명은 B씨의 지인들인 것으로 파악됐다. 범행 이후 A씨는 현장에서 곧바로 체포됐고, B씨 등 나머지 일당은 도주했다가 같은 날 오후 11시 50분쯤 평택의 한 음식점에서 긴급 체포됐다.&lt;br&gt;&lt;br&gt;이들은 경찰에 “돈이 필요했다”고 진술한 것으로 전해졌다. 경찰은 이들의 구체적인 범행 동기 등을 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세계문화유산 ‘수원화성’ 일대 7곳 방화… 구속된 범인, 라이터 2개 소지</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/15/QXZ5X63RNJCLBBQSZQ3X75GUXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/15/QXZ5X63RNJCLBBQSZQ3X75GUXU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 07:20:06 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMWVDBRDBRD2PIK6E2N64XWCTA.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오전 11시 10분쯤 발생한 수원시 팔달구 팔달산 일대 화재 현장. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유네스코 세계문화유산인 경기 수원 화성(華城)이 있는 팔달산 일대 7곳에 잇달아 불을 지른 혐의를 받는 40대가 구속됐다.&lt;br&gt;&lt;br&gt;15일 본지 취재를 종합하면, 수원지법은 지난 14일 산림재난방지법 위반 혐의를 받는 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤, 영장을 발부했다. 법원은 “도주 우려가 있다”고 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 오전 11시 10분쯤 수원시 팔달구 팔달산 일대 7개 지점에 불을 지른 혐의를 받는다. 팔달산은 팔달구 행궁동·고등동, 장안구 영화동에 걸쳐 있는 해발 143ｍ의 도심 내 산으로, 유네스코 세계문화유산인 수원 화성의 성곽으로 둘러싸여 있다. 화서문(보물 403호)과 서북공심돈, 서장대, 행궁 등 유적을 품고 있다.&lt;br&gt;&lt;br&gt;A씨 범행으로 서장대 등산로 입구, 중앙도서관 인근, 팔달산 정상 인근, 팔달약수터 인근의 잡목 등이 불에 탄 것으로 파악됐다. 소방 당국은 헬기 4대를 동원해 진화 작업에 나서 낮 12시 32분쯤 완전히 불을 껐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXP3DRR4BNGD3CVZ54OQJMLP6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원화성 성곽 일부. 수원화성은 1997년 유네스코 세계문화유산으로 등재됐다. /문화재청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방화 지점 근처에는 화성의 감시용 시설인 서남각루(西南角樓), 청동기 시대 무덤으로 경기도 기념물인 팔달산 지석묘군(支石墓群) 등 문화유산이 있었지만 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 방화 30여 분 만인 오전 11시 48분쯤 화재 현장에서 200여ｍ 떨어진 약수터에서 A씨를 긴급 체포했다. A씨는 당시 라이터 2개를 소지하고 있던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 “산책을 했을 뿐”이라며 혐의를 전면 부인하고 있는 것으로 전해졌다. 경찰은 구체적인 범행 경위 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고려대 ‘영철버거 장학금’ 10억 규모로 확대</title>
