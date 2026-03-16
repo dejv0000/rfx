@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 3월 17일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/16/ZCRK66J7QFGGVL7XAHRPIJJ2IE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/16/ZCRK66J7QFGGVL7XAHRPIJJ2IE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 14:31:00 +0000</pubDate>
+      <content:encoded>전국 대부분 아침 영하권…일교차 커&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCHXCPGUXBAX7GMXSNM73XAVPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 놀이터에서 놀던 초등생, 탄두 추정 물체에 다쳐</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/03/16/5RJ5GJXVQNA4ZK3EF4FZZ33X4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/03/16/5RJ5GJXVQNA4ZK3EF4FZZ33X4M/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 12:29:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차량. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 놀이터에서 초등학생이 탄두로 추정되는 물체에 다쳐 군 당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 16일 오후 4시 3분쯤 대구 북구 한 놀이터에서 놀던 초등학생 A양이 탄두로 추정되는 물체에 목 아래 부위를 다쳤다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A양은 병원으로 옮겨져 신체에 박힌 물체를 제거한 뒤 귀가했으며, 생명에 지장은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;군 당국은 A양이 다친 놀이터에서 직선거리로 1.5㎞ 정도 떨어진 곳에 군 사격장이 있으며 이날 사격 훈련이 이뤄진 것으로 파악했다.&lt;br&gt;&lt;br&gt;군 관계자는 “사고 시간에 사격 훈련이 이뤄졌는지, 아이가 사격 훈련으로 다쳤는지 등에 대해 조사 중”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘징계 취소 소송 패소 확정’ 류삼영, 재판소원 청구 방침... 닷새간 62건 접수</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/16/HCB5RKROWZEERM7FIASBGCG6LE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/16/HCB5RKROWZEERM7FIASBGCG6LE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 12:21:27 +0000</pubDate>
+      <content:encoded>윤석열 정부 당시 행정안전부 산하 경찰국 신설에 반대하며 전국 경찰서장 회의를 주도한 류삼영 전 총경에 대한 정직 징계가 정당하다는 대법원 판결이 확정되자, 류 전 총경이 재판소원을 청구하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSTCYRSMVRTCMRYMRQTEMTFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류삼영 전 총경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;류 전 총경은 “상관의 명령이 불법적이지 않기 때문에 부당하더라도 따라야 했다는 게 법원의 논리였다”며 “경찰국을 반대한 것은 ‘양심의 자유’라는 점에서 기본권 침해 여부를 다툴 것”이라고 말했다. 대법원 2부(주심 권영준 대법관)는 지난 12일 류 전 총경이 경찰청장을 상대로 낸 정직 처분 취소 소송의 상고심에서 원고 패소한 원심 판결을 심리 불속행 기각으로 확정했다. 심리 불속행 기각이란 원심 판결에 중대한 법령 위반 등 특별한 사유가 없으면 별도로 이유를 밝히지 않고 판결을 확정하는 것을 가리킨다.&lt;br&gt;&lt;br&gt;윤석열 정부는 2022년 7월 대통령실 산하 민정수석을 폐지하면서 경찰국을 신설하는 안을 발표했다. 당시 울산 중부경찰서장이었던 류 전 총경은 “경찰의 중립성을 해치는 불법적인 조치”라고 비판했다. 그러면서 경찰 내부망인 폴넷에 경찰서장 회의를 제안하고, 총경 50여 명을 모아 회의를 열었다. 윤희근 당시 경찰청장 직무대행이 “회의를 중지하라”는 직무 명령을 내렸지만, 류 전 총경은 따르지 않았다. 경찰청은 류 전 총경을 징계위원회에 회부했고, 징계위는 류 전 총경에게 정직 3개월의 징계를 내렸다. 이에 류 전 총경은 징계를 취소해 달라며 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;1심은 2024년 4월 “(류 전 총경의) 복종 의무·품위 유지 의무 위반으로 징계 사유가 인정된다”며 원고 패소 판결했다. 항소심은 지난해 11월 류 전 총경 항소를 기각했다.&lt;br&gt;&lt;br&gt;이런 가운데 헌법재판소에는 지난 12일 재판소원 제도가 시행된 뒤 닷새간 62건의 재판소원 청구가 접수된 것으로 확인됐다. 일평균 10여 건이 접수된 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음성 퇴비 공장서 70대 근로자 추락해 숨져… 중대재해 조사</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/16/DQ3ID7NZDVDTVHR4SMZQ3O64MY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/16/DQ3ID7NZDVDTVHR4SMZQ3O64MY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Mar 2026 12:06:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2GGNBXGAZDSM3GGY4DMMLDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 3시 36분쯤 충북 음성군 삼성면의 한 퇴비 제조 공장 지붕에서 근로자 A(70대)씨가 6m 아래로 추락하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;외주업체 소속인 A씨는 사고 당시 차광막 철거 작업 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해당 사업장은 5인 이상 근로자가 근무하는 중대재해처벌법 적용 대상으로 드러났다.&lt;br&gt;&lt;br&gt;노동 당국은 현장에 작업 중지 명령을 내리고 사업주의 중대재해처벌법 위반 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대구시, 삼성전자·대구상의와 손잡고 “자립준비 청년 정착지원” </title>
       <link>https://www.chosun.com/national/regional/2026/03/16/UPFKW2LPCFGW7DRIAG3Y6FNC3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/16/UPFKW2LPCFGW7DRIAG3Y6FNC3U/</guid>
@@ -327,15 +363,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZHGZAIUUDF6LAHCK3I4INQJPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송석언 신임 제주국제자유도시센터 이사장/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;송석언 전 제주대학교 총장(69)이 신임 제주국제자유도시개발센터(JDC) 이사장에 임명됐다. 송 이사장은 16일부터 공식 업무를 시작하며, 취임식은 19일 열릴 예정이다.&lt;br&gt;&lt;br&gt;신임 송 이사장은 1995년 제주대학교 법과대학 교수에 임용된 이후 법학전문대학원장, 평의회 의장, 교수회 회장, 한국법학교수회 사무처장, 제주특별자치도 인사위원회 위원, 대한변협 법학전문대학원평가위원회 위원, 중앙노동위원회 차별시정담당 공익위원 등을 역임했다.&lt;br&gt;&lt;br&gt;제10대 제주대 총장 재임 당시 약학대학 유치와 첨단학과 신설 등의 성과를 이뤄냈으며, 국가거점국립대학교 총장협의회장을 역임했다. 서귀포시 송산동 출신으로 제주제일고, 중앙대학교 법과대학 법학과를 졸업했고, 동 대학원에서 석사·박사 학위를 취득했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주로 떠밀려온 폐목선서 北 노동신문 추정 종이 발견</title>
-      <link>https://www.chosun.com/national/regional/2026/03/04/R7GIO3I5IVABDKD5VIISDV5G6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/04/R7GIO3I5IVABDKD5VIISDV5G6M/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 05:56:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37MB45DWCVEZPBA63ZRLYZ45TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 제주 애월 해안에서 발견된 폐목선./제주지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 우도 해안가에서 발견된 목선에서 북한 노동신문이 있다는 신고가 접수돼 수사당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;4일 서귀포해양경찰서와 제주경찰청 등에 따르면 이날 오전 9시 40분쯤 제주시 우도면 해안가에 폐목선이 발견됐다는 주민 신고가 접수됐다. &lt;br&gt;&lt;br&gt;목선은 길이 4m, 너너비비 1m 크기로 별다른 유류품은 발견되지 않았다. 목선은 선체 곳곳에 구멍이 나 있고, 심하게 부패한 상태였다. 선박 뒤쪽 내부 나무 틈에서 북한 노동신문으로 추정되는 종이가 발견됐다.&lt;br&gt;&lt;br&gt;제주경찰청과 국정원, 해경 등이 현장에서 조사를 벌이며, 대공 혐의점 등 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;한편 최근 제주도 해안가에선 정체불명의 목선이 잇따라 발견되고 있다. 지난해 12월 30일 서귀포시 대정읍 신도리 해안가에서 목선이 발견됐고, 올해 1월 12일과 29일 제주시 구좌읍 월정리 해안가와 제주시 애월읍 해안가에서 목선이 발견되기도 했다. 하지만 당시 대공 혐의점은 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] “못생겼어” 말다툼까지 학폭 소송… 전담 재판부 두배로</title>
       <link>https://www.chosun.com/national/court_law/2026/03/16/GAEFP4YM2BE2JORVY3VLJ3MM5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/16/GAEFP4YM2BE2JORVY3VLJ3MM5E/</guid>
@@ -398,18 +425,6 @@
       <description/>
       <pubDate>Sun, 15 Mar 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZBSSJOHFNBURAIOG54DQVFHGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 인천시 특별사법경찰관이 배달전문 음식점을 단속하고 있다 /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 입법 예고한 공소청법에 특별사법경찰관(특사경)을 검사가 지휘하도록 한 조항이 포함된 것을 두고 더불어민주당 강경파는 “검찰의 우회적 수사권 확보 가능성을 차단해야 한다”며 “특사경이 독자적으로 수사해야 한다”고 주장한다. 그러나 법조계에서는 “특사경은 수사 경험이 부족해 검찰의 통제가 필요하다”는 의견이 많다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 작년 5월 외국산 삼겹살을 국내산으로 속여 판 혐의로 기소된 40대 남성 A씨와 B씨는 지난달 대법원에서 각각 징역 10개월(집행유예 2년)과 징역 1년이 확정됐다. 이들은 2022년 1월부터 2024년 11월까지 대구에서 4억6000만원 상당의 외국산 삼겹살 2만5611㎏를 국내산으로 속여 팔다가 적발됐다. &lt;br&gt;&lt;br&gt;이 사건 수사는 국립농산물품질관리원(농관원) 특사경이 시작했다. 농관원은 당초 A씨를 주범으로, B씨는 A씨 업체의 단순 종업원이라고 판단했다. 그러나 사건을 검토한 대구지검 서부지청은 B씨의 계좌추적 등을 통해 그가 단순 종업원이 아닌 정황을 포착해, 특사경에 추가 수사를 지휘했다. 이후 특사경은 B씨가 A씨 매출의 약 20%를 가져가는 동업자, 즉 공범임을 밝혀냈다. 검찰의 수사지휘권 행사로 놓칠 뻔한 공범을 잡아낸 것이다.&lt;br&gt;&lt;br&gt;인천지검도 외제 대포차량 밀수출 사건에서 최초 인천세관 특사경이 송치한 피의자 1명 외에, 범행에 가담한 4명을 추가로 밝혀내 2021년 기소했다. 이 과정에서 검찰은 특사경이 증거에 해당하지 않는 차량까지 압수한 사실을 확인하고, 즉시 압수물을 돌려주도록 지휘하기도 했다. 이 사건 피고인들은 지난해 2월 징역 1년과 집행유예 2년이 확정됐다.&lt;br&gt;&lt;br&gt;특사경은 세무·환경·노동 등 전문성이 필요한 분야의 당국에 소속된 사법경찰로 지난해 기준 2만1263명에 이른다. 그러나 대검찰청이 지난해 발간한 특사경 관련 연구 보고서에 따르면, 2024년 기준 특사경의 장기근속 인원 비율(전문화율)은 35.3%에 불과했다. 전체 인원의 48%가량이 경력 1년 미만이었다.&lt;br&gt;&lt;br&gt;또 같은 해 특사경이 검찰에 송치한 사건은 총 7만2835건이었지만, 기소로 이어진 사건은 3만2765건(45%)에 그쳤다. 송치한 사건 중 기소된 사건이 절반에도 못 미친 것이다. 이에 대해 한 법조계 인사는 “특사경은 대부분 경력이 짧고, 형사 절차에 대한 지식이 부족한 경우가 많아 검찰 지휘권이 사라지면 상당한 수사 공백이 생길 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“새 걸로 주세요” 말할 땐 ‘new one in stock’</title>
-      <link>https://www.chosun.com/national/education/2026/03/16/POBF42G73ZEDHEFEGQWK4EJDIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/16/POBF42G73ZEDHEFEGQWK4EJDIA/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 18:00:00 +0000</pubDate>
-      <content:encoded>쇼핑몰에서 마음에 쏙 드는 옷을 발견했는데, 마네킹이 착용 중이거나 여러 사람이 만지작거렸을 매대의 전시 상품만 하나 남아 있다면? 당연히 창고에 있는 ‘새 상품’ 하나 꺼내 달라고 말하고 싶죠. 아무도 손대지 않은 개봉 전의 깨끗한 제품 말이에요.&lt;br&gt;&lt;br&gt;그런데 점원에게 “New one, please!”라고 말하면 “네, 지금 보고 계신 게 새로 나온 거 맞아요”라는 엉뚱한 대답이 돌아올 수 있습니다. 포장 박스에 들어 있는 손때 묻지 않은 새것으로 달라고 한 건데, 점원은 매장에 새로 들어온 ‘신상품(new arrival)’이라고 동문서답하는 거지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWQUVTLT4ZA4HOBC4ITETL4KTI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 경우엔 흔히 “I want an unopened one(개봉 안 된 것 주세요)”라고 하거나 “Do you have one that’s not on display(전시 상품 아닌 것 있나요)?”라고 말합니다.&lt;br&gt;&lt;br&gt;또는 ‘재고로 있는’이라는 뜻의 ‘in stock’을 곁들여 ‘new on in stock’으로 표현하면 완벽하게 의사 전달이 됩니다.&lt;br&gt;&lt;br&gt;제품을 받고 나서 구매 전에 최종적으로 상태를 확인한다거나, 구매 후에 추가적으로 포장(packaging)을 요청할 수도 있겠지요. &lt;br&gt;&lt;br&gt;“Can I have one in the box, please?” (박스에 든 채로 주실 수 있나요?)&lt;br&gt;&lt;br&gt;“Can I check for any scratches?” (스크래치가 있는지 확인해봐도 될까요?)&lt;br&gt;&lt;br&gt;“Does this come completely sealed?” (이거 완전히 밀봉된 상태인가요?)&lt;br&gt;&lt;br&gt;“It’s a gift, so could you wrap it nicely?” (선물용이니까 포장에 신경 써주세요.)&lt;br&gt;&lt;br&gt;“Could you remove the price tag, please?” (가격표 좀 떼어 주실 수 있나요?)&lt;br&gt;&lt;br&gt;“Could I get a gift bag for this?” (이거 선물 가방에 넣어주실 수 있나요?)&lt;br&gt;&lt;br&gt;“Is gift wrapping available?” (선물 포장 서비스 되나요?)&lt;br&gt;&lt;br&gt;점원이 “This is the last one(이게 마지막 제품이에요)”이라고 하면 그냥 사지 마시고, “&lt;mark class="hl_yellow"&gt;display model discount&lt;/mark&gt;” 여부를 바로 물어보세요. 전시용으로 있던 상품은 어느 정도 할인을 해주는 게 통례입니다. 전시 상품은 ‘open-box item’으로 취급돼 &lt;mark class="hl_yellow"&gt;대략 5~10% 정도 할인&lt;/mark&gt;해 줍니다.&lt;br&gt;&lt;br&gt;“Is there a discount for the display model?” (전시 상품인데 할인되나요?)&lt;br&gt;&lt;br&gt;“Can you do anything on the price since it’s a display item?” (전시된 제품인데 가격을 좀 조정해 주실 수 있나요?)&lt;br&gt;&lt;br&gt;“Would you consider lowering the price for the floor model?” (매장 진열 상품인데 가격 좀 내려주실 수 있을까요?)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;I’d love to, but…&lt;/mark&gt;“는 해외 여행 중에 쓸 수 있는 ‘만능 표현’이지요. 덧붙이면, “&lt;mark class="hl_yellow"&gt;~하고 싶은데, 다만 한 가지…&lt;/mark&gt;“라는 공손하면서도 부드러운 뉘앙스로 자신의 의사를 전달해 상대가 거부감 없이 도와주게 됩니다.&lt;br&gt;&lt;br&gt;“I’d love to buy this, but I was hoping for an unopened one.” (이걸 사고 싶은데, 새 제품이면 좋겠어요.)&lt;br&gt;&lt;br&gt;I’d love to take it today, but could you check the back? (오늘 바로 사고 싶은데, 창고에 새 제품이 있는지 확인해주실 수 있을까요?)&lt;br&gt;&lt;br&gt;I’d love this color, but is it available in another size? (이 색이 마음에 드는데, 다른 사이즈도 있나요?)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DPIGNPBGQFEB3EBRQ43VVSREXQ.png?auth=e1c33ae66fb5079353ae9fbd46233667623bf4932462fb6b6c0f08d1ee537f0d&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
-      </media:content>
     </item>
     <item>
       <title>강남 의대반에서 1년…아이는 충격을 받았다</title>
@@ -496,15 +511,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XN4YMEJWOVKYNPOIWTBYFUVWLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 14일 오후 서울시 종로구 세종대로 정부서울청사에서 스위스의 글로벌 승강기 업체인 쉰들러(Schindler)가 한국을 상대로 제기한 국제투자분쟁(ISDS) 선고 관련 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스위스의 글로벌 승강기 업체 쉰들러가 한국 정부를 상대로 제기한 약 3200억원 규모 국제투자분쟁(ISDS)에서 한국 정부가 승소했다고 법무부가 14일 밝혔다. 정성호 법무부 장관은 “14일 새벽 2시 3분쯤 국제상설중재재판소(PCA)의 중재판정부가 쉰들러의 모든 청구를 기각했다”며 “한국 정부가 100% 승소한 것”이라고 했다. 이로써 한국 정부는 쉰들러가 요구한 약 3200억원 상당의 손해배상금을 물지 않게 됐다. 한국 정부는 소송에 들어간 비용 약 96억원도 쉰들러에서 돌려받게 됐다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2018년 현대엘리베이터의 2대 주주인 쉰들러가 한국 정부에 약 5000억원 규모 ISDS를 제기하면서 시작됐다. 쉰들러 측은 2013~2015년 진행된 현대엘리베이터 유상증자와 전환사채(CB) 발행이 오너 일가의 경영권 강화 차원에서 이뤄졌음에도 공정거래위원회·금융감독원·금융위원회 등 관계 당국이 이를 방치해 부당한 손해를 입었다고 주장했다. 쉰들러 측의 최초 ISDS 청구 액수는 약 5000억원이었다. 그러나 지난 8년간 법적 공방이 이어지면서 배상 청구액은 3200억원 수준으로 줄었다.&lt;br&gt;&lt;br&gt;법무부에 따르면 중재판정부는 한국 공정위·금융위·금감원의 조치에 대해 “자의적이거나 차별적이지 않은 합법적인 권한 범위 내에서 충분한 조사와 심사를 수행한 것”이라고 판정했다. 중재판정부는 또 한국 정부가 투자협정을 위반했다는 쉰들러 측 주장도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;최근 법무부는 ISDS 사건에서 연이어 승소하고 있다. 작년 11월 미국계 사모펀드 론스타와의 약 4000억원대 ISDS 취소 사건에서 승소한 데 이어, 지난달 23일에는 미국계 사모펀드 엘리엇과의 1600억원대 ISDS 취소소송에서 승소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 박복순 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/16/3552JBHXLRHFTOGXBZWCPB37GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/16/3552JBHXLRHFTOGXBZWCPB37GQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박복순 &lt;/b&gt;별세, &lt;b&gt;윤석헌&lt;/b&gt; 前 금융감독원장 모친상=14일23시30분 서울아산병원, 발인 17일7시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;안경자 &lt;/b&gt;별세, &lt;b&gt;최승원&lt;/b&gt;·&lt;b&gt;최승진&lt;/b&gt; CBS 마케팅본부장 모친상, &lt;b&gt;김성여&lt;/b&gt; 시모상, &lt;b&gt;최동연&lt;/b&gt;·&lt;b&gt;최현웅&lt;/b&gt;·&lt;b&gt;최현준&lt;/b&gt; 조모상=14일23시30분 이대서울병원, 발인 17일12시, (02)1522-7000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;여호균 &lt;/b&gt;별세, &lt;b&gt;여선숙&lt;/b&gt;·&lt;b&gt;여소연&lt;/b&gt;·&lt;b&gt;여상현&lt;/b&gt;·&lt;b&gt;여도연&lt;/b&gt; 부친상, &lt;b&gt;김영탁 &lt;/b&gt;영남대 컴퓨터학부 교수·&lt;b&gt;오문길 &lt;/b&gt;풍산그룹 홍보실장·&lt;b&gt;노현수 &lt;/b&gt;장인상=15일0시 경기 안양 한림대성심병원, 발인 17일7시30분, (031)382-5004&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이용길 &lt;/b&gt;前 신원철강 대표 별세, &lt;b&gt;백화순 &lt;/b&gt;남편상,&lt;b&gt; 이정은 &lt;/b&gt;문화체육관광부 국민소통실 국장·&lt;b&gt;이유정&lt;/b&gt;·&lt;b&gt;이종현&lt;/b&gt; 부친상,&lt;b&gt; 권재환&lt;/b&gt; 태광그룹 부장 장인상=14일21시13분 신촌세브란스병원, 발인 17일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조경제 &lt;/b&gt;별세, &lt;b&gt;조형래&lt;/b&gt;·&lt;b&gt;조승래 &lt;/b&gt;더불어민주당 국회의원·&lt;b&gt;조명래&lt;/b&gt; 부친상,&lt;b&gt; 백희숙&lt;/b&gt;·&lt;b&gt;조유신 &lt;/b&gt;시부상, &lt;b&gt;조현준&lt;/b&gt;·&lt;b&gt;조현재&lt;/b&gt;·&lt;b&gt;조연우&lt;/b&gt;·&lt;b&gt;조혜정 &lt;/b&gt;조부상, &lt;b&gt;김다운 &lt;/b&gt;시조부상=15일1시3분 대전 성심장례식장, 발인 17일7시20분, (042)522-4494&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>中 ‘과학 연구 역량’ 독주하는데 한국 대학들은 계속 뒷걸음질</title>
       <link>https://www.chosun.com/national/education/2026/03/16/ZTRQK7ZSORBMVHZZPRZD7546NQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/16/ZTRQK7ZSORBMVHZZPRZD7546NQ/</guid>
@@ -531,16 +537,6 @@
       <pubDate>Sun, 15 Mar 2026 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROAEQTAMTFEPXOA2IUB2T7NMS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴시스
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 제주시 애월읍 봉성리 새별오름 일대에서 열린 ‘2026 제주들불축제’의 하이라이트인 디지털 불놓기 행사 모습. 레이저와 빔프로젝트를 이용해 오름에 불꽃이 일렁이는 모양이 연출됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 산·공원마다 다른 생태계 마스코트… 생태·지리·문화 상징해요</title>
-      <link>https://www.chosun.com/national/nie/2026/03/16/DSQYWIZJHFGE3DKMWBLNPIQ2BQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/16/DSQYWIZJHFGE3DKMWBLNPIQ2BQ/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>이달 초 부산과 경남 양산에 걸쳐 있는 금정산이 24번째 국립공원으로 지정됐어요. 국립공원공단은 금정산국립공원을 상징하는 ‘깃대종(Flagship Species)’을 선정하는 작업에도 들어갔죠. 여기서 깃대종이란 특정 지역의 생태·지리·문화적 특성을 반영하는 상징적인 야생 동·식물이랍니다. 깃대종을 알면 그 산의 대체적인 특징을 짐작할 수 있어요.&lt;br&gt;&lt;br&gt;공단은 2007년부터 국내 국립공원 23곳에 동물과 식물 깃대종을 하나씩 정해 상징으로 활용하고 있습니다. 일종의 마스코트를 뽑는 거죠. 지리산의 반달가슴곰과 히어리, 설악산의 산양과 눈잣나무, 한라산의 산굴뚝나비와 구상나무 등이 대표적 사례예요. 보호가 필요한 종을 뽑는 경우가 많아 멸종 위기종을 많이 선정한답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26M7KTUUN5F5PN2WQIZMCUVCAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지리산의 깃대종 식물 히어리입니다.
-/김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지리산 깃대종인 히어리는 요즘 피고 있어요. 히어리는 우리나라 특산식물(한 국가의 특정 지역에만 자생하는 식물)입니다. 잎보다 먼저 노란 꽃을 피우는데 지리산 구룡계곡 곳곳에서 자생합니다. 보기 드문 꽃이었는데 요즘엔 서울 공원이나 주변 산에도 상당히 많이 심어 놓았어요. 꽃을 보면 귀여운 노란 벌레들이 줄줄이 달려 있는 것 같은 느낌도 듭니다.&lt;br&gt;&lt;br&gt;변산반도국립공원의 깃대종은 부안종개와 변산바람꽃이에요. 변산바람꽃은 복수초·노루귀와 함께 봄이 오는 것을 알리는 대표적인 꽃입니다. 새해 꽃다운 꽃으로는 맨 처음 피는 야생화라고 할 수 있습니다. 낭만적 이름에다 우리 특산식물이라는 점까지 더해져 어느새 초봄을 대표하는 꽃으로 자리 잡았어요.&lt;br&gt;&lt;br&gt;한라산과 덕유산 깃대종 식물은 구상나무입니다. 한라산이 구상나무를 깃대종으로 정한 것은 이 나무가 우리나라 고유종이면서도 멸종 위기에 처했기 때문이고, 덕유산은 구상나무의 북방한계선인 점을 감안한 것 같아요.&lt;br&gt;&lt;br&gt;북한산 깃대종은 산개나리죠. 산개나리는 북한산에 상당한 개체가 자생하고 전북 임실, 관악산 일부 지역에서도 자라는 게 확인됐습니다. 개나리는 가지가 능청능청 늘어지는데 비해 산개나리 가지는 꼿꼿한 편이에요. 또 산개나리는 꽃잎도 좀 작고 색도 옅은 편이고, 잎 뒷면에 뽀송뽀송한 솜털이 있는 것도 개나리와 다릅니다.&lt;br&gt;&lt;br&gt;오대산은 노랑무늬붓꽃, 소백산은 모데미꽃, 무등산은 생강나무 비슷한 털조장나무, 월출산은 끈끈이주걱, 월악산은 솔나리를 식물 깃대종으로 쓰고 있습니다. 하나같이 그 산의 생태 특징을 잘 드러내는 식물이죠.&lt;br&gt;&lt;br&gt;금정산에는 삵과 수달, 고리도롱뇽, 자주땅귀개·가는동자꽃·삼백초 등 멸종위기종 14종을 포함해 야생생물 1782종이 살고 있어요. 국립공원공단은 전문가들과 국민 의견을 모아 오는 4월 금정산의 생태 지리적 특성 등을 나타낼 수 있는 깃대종을 선정해 발표할 예정이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘젝스키스’ 장수원, 잠실 아파트 청약 당첨 후 매물 내놓은 사연</title>
