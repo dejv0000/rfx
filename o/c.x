@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“팬티 벗고 복도로”... 귀신 대신 후임들 잡았다, 해병대원 징역형 집유</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/17/BBCICIACSJCXTE7J4EL22G7AZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/17/BBCICIACSJCXTE7J4EL22G7AZA/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Mar 2026 05:08:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLUSA3GN5JCNHHTANWTALDTHBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연평도 향하는 해병대원들. 기사 내용과는 무관한 사진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대에 복무하며 수개월 동안 후임병들에게 가혹 행위를 일삼았던 20대 남성에게 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;서울서부지법 형사6단독 김진성 판사는 위력행사가혹행위, 특수폭행, 폭행 혐의로 기소된 A(27)씨에게 지난 1월 징역 6개월에 집행유예 1년을 선고한 것으로 17일 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 2021년 초 경북 포항 소재 해병대 군수단에 복무하며 후임병들을 대상으로 폭언·폭행을 수차례 가한 혐의를 받는다. A씨의 가혹 행위는 그해 1월부터 4월까지 이뤄진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 괴롭힘은 2021년 1월 후임병 B(25)씨에게 처음 시작됐다. 당시 그는 B씨가 마음에 들지 않는다는 이유로 “그딴 식으로 할 거면 다 때려치우고 팬티까지 다 벗고 나가라”고 했다. 이에 B씨는 상의만 입은 채 생활관 문 앞 복도에서 약 10초 동안 서 있어야 했다.&lt;br&gt;&lt;br&gt;B씨에 대한 괴롭힘은 이후에도 계속됐다. 그해 2월 B씨가 소란스럽게 생활관 문을 열었다며 주먹으로 팔뚝을 때리는가 하면, 저녁 식사 식단을 외우지 못하자 허벅지를 꼬집기도 했다.&lt;br&gt;&lt;br&gt;A씨의 가혹 행위는 B씨에만 그치지 않았다. 그는 그해 2월 초 취침 시간이 되자 또 다른 후임병 C(24)씨에게 팔굽혀펴기와 윗몸일으키기 60개, ‘플랭크(맨몸 균형 운동)’ 자세 2분을 하게 했다.&lt;br&gt;&lt;br&gt;신체적 폭행도 이어졌다. A씨는 C씨 이마 부위를 손가락으로 가격하거나, 수통에 물을 채우지 않았다는 이유로 K-2 소총에 결합된 대검 끝 부분으로 복부를 여러 차례 찔렀다. 특히 C씨가 후임병인 B씨를 혼내지 않았다며 C씨 얼굴에 볼펜을 집어 던지기도 했다.&lt;br&gt;&lt;br&gt;이 밖에도 A씨는 “여기 누르면 아프냐”며 후임병 D(23)씨의 양쪽 허벅지를 10초가량 꼬집는 등 같은 중대 내 후임병들을 지속적으로 괴롭혔다.&lt;br&gt;&lt;br&gt;일부 피해자는 처벌불원 의사를 밝혔지만, 군형법상 영내 등 군사시설에서의 폭행은 반의사불벌죄가 적용되지 않아 배제됐다. 재판부는 “피고인이 범행을 인정하고 초범이다”면서도 “피해 회복이 충분히 이뤄지지 않았고 가혹 행위의 내용과 횟수가 적지 않다”고 양형 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 종합특검, ‘양평고속도로’ 의혹 원희룡 전 장관 출국금지</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/17/KE6OCULTMJC37ECAFS5CZWZA4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/KE6OCULTMJC37ECAFS5CZWZA4I/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Mar 2026 05:21:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFP4M5PAGVPZBIY74ZDZQDQ2FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원희룡 전 국토교통부 장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘3대 특검(내란·김건희·해병)’의 남은 사건을 수사하는 권창영 2차 종합특별검사팀이 원희룡 전 국토교통부 장관을 출국금지한 것으로 17일 파악됐다. 원 전 장관은 ‘양평고속도로 변경 특혜’ 의혹과 관련해 수사 선상에 올라 있다. &lt;br&gt;&lt;br&gt;양평 고속도로 의혹은 2023년 5월 국토부가 김 여사 일가가 소유한 땅이 있는 곳으로 고속도로 건설 계획을 바꿔 김 여사 일가에 특혜를 줬다는 의혹이다. 당시 국토부는 예비타당성 조사를 마친 고속도로 노선의 종점을 변경한다고 밝혔다.&lt;br&gt;&lt;br&gt;이후 특혜 의혹이 불거지자 원 전 장관은 2023년 7월 양평 고속도로 사업 백지화를 선언했다. 당시 원 전 장관은 “만일 제가 김건희 여사 땅이 있다는 것을 이 사건이 불거지기 전에 조금이라도 인지하는 게 있었다고 한다면 장관직을 걸 뿐만 아니라 정치 생명을 걸겠다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;이 의혹을 먼저 수사한 민중기 특별검사팀은 원 전 장관을 출국금지했지만 한 차례도 소환조사를 하지 않았다. 이후 특검은 윗선 개입은 밝히지 못한 채 국토부 서기관 김모씨 등 7명을 직권남용권리행사방해 등 혐의로 재판에 넘겼다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이화영 ‘술파티 의혹’ 재판부, 변호인에 “재판기록 유출 말아야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/17/OJSADPIQ7NDHHLDDGSU34V2UOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/OJSADPIQ7NDHHLDDGSU34V2UOM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Mar 2026 05:24:57 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3DQNTEG4ZWKZLDMQ4TAMBRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 작년 10월 서울 여의도 국회 법제사법위원회에서 열린 법무부 등에 대한 국정감사에서 의원 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 열린 이화영 전 경기도 평화부지사의 ‘술 파티 의혹’ 위증 사건 재판에서 재판장은 “재판 기록이 유출되지 않도록 해달라”고 했다. &lt;br&gt;&lt;br&gt;최근 법무부의 대북 송금 수사 감찰 자료에 있는 김성태 전 쌍방울그룹 회장의 수원구치소 녹취록 발언 등이 잇따라 언론을 통해 보도되자, 소송 지휘를 통해 금지한 것이다. 법무부는 검찰이 2023년 ‘쌍방울 대북 송금 사건’ 수사 과정에서 조사실로 술과 외부 음식을 반입하고, 쌍방울 직원들이 김성태 전 회장을 불법 접견하도록 특혜를 줬다는 의혹에 대해 감찰을 진행했다.&lt;br&gt;&lt;br&gt;이날 수원지법 형사11부(재판장 송병훈)는 이 전 부지사의 국회증언감정법 위반, 정치자금법 위반, 직권남용 혐의 등 사건 12차 공판준비기일을 열었다. 이날 재판장은 최근 김 전 회장의 구치소 접견 녹취록 일부 내용이 보도된 데 대해, “어떤 경위로 유출이 됐는지 알 수 없지만 변호인이 열람 등사한 자료들에 대해 언론에 보도가 안 되도록 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;이 전 부지사 측 변호인은 법원에 문서 송부 촉탁 신청(문서를 갖고 있는 기관에 법원으로 송부해 달라고 요청하는 절차)을 통해 법무부 감찰 자료 제출을 요구했고, 이를 제공받았다. 이후 법무부 감찰 자료를 근거로 한 이른바 ‘김성태 녹취록’ 기사 등이 보도되기 시작했다.&lt;br&gt;&lt;br&gt;이에 검찰은 재판부에 “재판 기록이 유출돼 국민참여재판에 참여할 배심원들이 선입견을 가질 우려가 있다”는 취지의 의견서를 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRTGGNBZGUZTCMJQGE4TCNDEGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쌍방울 대북송금 사건을 수사한 박상용 검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판부가 소송 지휘를 통해 재판 기록 유출을 막자, 이 전 부지사 측 변호인은 “변호인이 문서 송부 촉탁 신청을 통해 입수한 것을 어떻게 사용하는지는 법적으로 문제가 없다”며 “국민에게는 언론의 자유가 있고, 알 권리가 있다. 언론이 적극 취재해서 보도하는 것은 문제가 되지 않는다”고 했다. 또 “배심원 후보자들이 사전에 인지했다고 해서 배심원 명단에서 제외해야 한다는 검찰 논리는 맞지 않다”고 했다.&lt;br&gt;&lt;br&gt;이에 검찰은 “이 사안에 대해 지난주 대통령께서도 김성태 녹취록이 인용된 부분을 문제 삼는 발언을 하셨다”며 “(언론 보도를 본) 배심원들이 선입견을 가지고 평결에 참여한다면 오로지 공소사실과 관련된 증거에 따라 평의를 하는 국민참여재판 본질에 반하는 것으로, 어떤 결론이 나더라도 승복할 수 있을지 의문”이라고 했다. 또 “국민의 알 권리는 재판을 진행하면서 보장할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;재판장은 “재판부 입장에선 사전에 재판 기록이 외부에 유출되면 ‘공정하지 못한 재판’이었다는 인상을 심어줄 수 있다”며 “(재판부의) 소송 지휘권으로 이후에 유출이 안 될 수 있도록 협조를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 국민참여재판으로 열리는 이 재판을 6월 8일부터 시작해 19일까지 진행하겠다고 했다. 주말을 제외하고 열흘에 걸친 것으로, 역대 가장 길다. 재판장은 “증인 채택 여부 상황에 따라 하루 이틀 정도 빨리 끝날 수 있다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 이 전 부지사는 2021년 7월 민주당 대선 경선 후보였던 이재명 대통령을 위해 김 전 회장에게 ‘쪼개기 후원금’을 내도록 한 혐의(정치자금법 위반)를 받는다. 대선 경선 후원금은 연간 1000만원까지만 낼 수 있는데 여러 사람 명의를 이용해 거액을 기부했다는 것이다. 김 전 회장은 쌍방울 임원 등 12명 이름으로 총 9000만원을 기부한 것으로 파악됐다. 이 전 부지사는 또 작년 10월 국회 청문회에 증인으로 나와 “2023년 5∼6월경 검찰청 연어 술 파티가 있었다”는 취지로 위증한 혐의도 받는다. 이 전 부지사는 ‘쌍방울 불법 대북 송금’ 사건으로 대법원에서 징역 7년 8개월이 확정돼 수감 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰 모욕·조롱한 부천 유튜버… 항소심, 원심 파기하고 실형 선고</title>
       <link>https://www.chosun.com/national/court_law/2026/03/17/5OUH7OMLBRFC5OEE2GELUKZEXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/5OUH7OMLBRFC5OEE2GELUKZEXI/</guid>
@@ -930,34 +957,6 @@
       <description/>
       <pubDate>Sun, 15 Mar 2026 02:39:11 +0000</pubDate>
       <content:encoded>임차인이 미신고 숙박업을 운영한다는 사실을 알면서도 오피스텔을 임대해 줬다면, 임대 사업자에게 감면된 취득세를 다시 부과해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSTAZLBMQZWGZRQGJTDIM3FMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 임대 사업자 A씨가 부산 수영구청장을 상대로 낸 취득세 등 부과 처분 취소 소송에서 원고 패소한 원심 판결을 최근 확정했다.&lt;br&gt;&lt;br&gt;A씨는 2019년 부산 수영구 한 오피스텔을 매입하면서 옛 지방세특례제한법에 따라 취득세를 면제받았다. 옛 지방세특례제한법 제31조는 60㎡ 이하 공동주택 혹은 오피스텔을 최초로 분양받을 경우 취득세를 감면하도록 규정한다. 이후 A씨는 2020년 6월부터 2023년 3월까지 오피스텔을 두 차례 임대했고, 임차인들은 관할 관청에 신고하지 않은 채 숙박업을 운영했다.&lt;br&gt;&lt;br&gt;이와 관련해 임차인이 형사 처분을 받는 일이 벌어지자, 구청은 A씨가 임대 외 용도로 오피스텔을 사용했다며 감면됐던 취득세 및 지방교육세 등 총 1884만원을 부과했다. 이는 ‘임대사업자가 임대의무기간 4년 이내에 임대 외 용도로 사용할 경우 감면된 취득세를 추징한다’는 옛 특례법 규정에 따른 것이다. 이에 A씨는 “임차인이 주거 외 용도로 사용한 것이지, 자신이 미신고 숙박업을 한 건 아니다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 A씨의 주장을 받아들이며 구청이 부과한 취득세를 취소했음. 그러나 항소심은 A씨에게 취득세를 부과해야 한다며 판단을 뒤집었다. 항소심은 A씨가 임차인의 미신고 숙박업 운영 사실을 알고 있었던 만큼, 오피스텔을 사실상 임대 외 용도로 사용한 것으로 봤다. &lt;br&gt;&lt;br&gt;대법원도 원심의 판단에 잘못이 없다고 보고 상고를 기각했다. 대법원은 “취득세 감면 조항은 실제 주거용으로 임대된 경우에 한해 적용된다고 보는 것이 타당하다”며 “임차인이 주거 목적으로 쓰지 않을 것을 임대인이 알았다면 책임이 있다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김정은, 이번엔 딸 주애와 함께 흙 나르며 식수절 행사</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/15/ABCUWVCXWJE4JKAWLHDKEGT3OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/15/ABCUWVCXWJE4JKAWLHDKEGT3OI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Mar 2026 02:03:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KP4J4WZXBRIVZHKIL4IS7JSWFA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 15일 김정은이 지난 14일 식수절을 맞아 새별거리 못가공원에서 나무를 심었다고 보도했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정은 북한 조선노동당 총비서 겸 국무위원장이 식수절(3월 14일)을 기념해 딸 주애와 직접 흙을 나르며 식수 행사를 했다. &lt;br&gt;&lt;br&gt;조선중앙통신 등 북한 매체는 15일 김 위원장과 딸 주애가 전날 주요 간부들과 새별거리 못가공원에서 나무를 심었다고 전했다. 새별거리는 러시아 파병 전사자 유족을 위해 평양에 조성한 전용 주택단지다. &lt;br&gt;&lt;br&gt;북한이 공개한 사진에는 김 위원장과 가죽 재킷을 입은 주애가 함께 흙더미를 옮기는 모습 등이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YGSGZVY5NNUJJ2R5WHOJRQIKY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 15일 김정은이 지난14일 식수절을 맞아 딸 주애와 함께 새별거리 못가공원에서 나무를 심었다고 보도했다. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 위원장과 주애, 최선희 외무상과 김여정 총무부장 등 간부들이 삽질을 하는 사진도 공개됐다.&lt;br&gt;&lt;br&gt;김 위원장은 행사에서 “한 그루 한 그루의 나무에 더욱 강대해지는 우리 조국의 역사와 함께 영웅 전사들의 숭고한 정신을 본받고 필승의 전통을 굳건히 이어가는 우리 세대의 참된 모습이 비끼게 해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;김 위원장은 또 “열사들의 고결한 정신이 이 땅에 소중히 깃들어 모든 사람들의 마음 속에 애국의 기둥을 억척으로 세워주고 세세년년 후손들을 가장 정의로운 인간들로 억세게 키우는 자양이 될 것”이라며 “애국심이야말로 한계를 초월하는 기적의 힘을 낳게 하는 열정의 샘줄기”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM5HGSABEFJPFGP5VFZPMFKUQI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문은 15일 김정은이 지난 14일 식수절을 맞아 새별거리 못가공원에서 나무를 심었다고 보도했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한은 우크라이나전 참전의 정당성을 강조하고 내부 결속을 다지기 위해 파병군에 대한 예우와 보훈 사업을 부각하고 있다.&lt;br&gt;&lt;br&gt;김 위원장은 최근 딸 주애와 군수 공장을 시찰하는 등 동행 외부 활동을 크게 늘렸다. &lt;br&gt;&lt;br&gt;앞서 국정원은 김주애가 일부 정책 사안에 의견을 내는 등, 후계자로 내정된 단계에 접어든 것으로 판단된다고 국회에 보고한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 소공동 게스트하우스에서 화재...3명 중상·7명 경상 </title>
-      <link>https://www.chosun.com/national/national_general/2026/03/14/HZ5DKTDEMRGE5GKXCOX6PZTRMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/HZ5DKTDEMRGE5GKXCOX6PZTRMU/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Mar 2026 12:37:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2WEN3DMFRDOYRYMIYTQNBVMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 서울시 중구 소공로 81 소공빌딩 3층에서 발생한 화재로 다량의 연기가 나오고 있다. 소방은 현재 대응 1단계를 발령하고 불길을 잡고 있으며, 경찰은 주위 시민들을 대피시키고, 통행을 통제하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중구 소공동의 한 게스트하우스에서 불이 나 중상 3명 등 10명의 부상자가 발생했다.&lt;br&gt;&lt;br&gt;14일 중부소방서 등에 따르면 이날 오후 6시 10분쯤 서울 중구 소공동의 한 건물 3층에서 불이 났다. 지하 1층, 지상 7층으로 이뤄진 이 건물은 3·6·7층은 게스트하우스로 운영됐다.&lt;br&gt;&lt;br&gt;이 화재로 현재까지 총 3명이 중상을, 7명이 경상을 입은 것으로 파악됐다. 중상자 3명은 인근 병원으로 이송됐다. 나머지 경상자 7명은 소공동 주민센터와 현장 맞은편 호텔 1층 로비에 마련된 임시 의료소 및 대피소에서 보호 중이다.&lt;br&gt;&lt;br&gt;소방 당국은 오후 6시 36분쯤 대응 1단계를 발령하고 화재 진압과 인명 수색에 집중하고 있다. 현장에 동원된 인력은 소방 110명·경찰 180명·중구청 20명·도시가스 3명 등 총 295명이다. 장비는 소방 31대·경찰 16대·도시가스 1대 등 총 48대가 가동 중이다.&lt;br&gt;&lt;br&gt;현재 세종대로18길 시청교차로∼남대문로7길과 소공로 대한문∼남대문로7길∼소공빌딩 구간이 통제되고 있다.&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관은 “관계 기관의 가용 인력과 장비를 총동원해 인명구조와 화재 진압에 총력을 기울이라”고 지시했다. 오세훈 서울시장도 “화재 현장 수습에 만전을 기하고, 피해자 지원에 총력을 다하라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이준석 모친에 ‘젓가락’ 모방 악플…성폭력처벌법 위반 송치 </title>
-      <link>https://www.chosun.com/national/national_general/2026/03/14/5Q634LOIWZAXVK7BTTILT65NZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/14/5Q634LOIWZAXVK7BTTILT65NZY/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Mar 2026 05:15:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZALTEZH2MZOIXATQHUCAN5SH7U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 5일 서울 여의도 국회에서 열린 최고위원회의에서 모두발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개혁신당 이준석 대표의 ‘젓가락 발언’을 모방하며 이 대표 모친의 실명을 언급하는 악성 댓글을 단 남성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;14일 법조계에 따르면 서울 강서경찰서는 인터넷에 선정적 댓글을 단 남성 A씨를 성폭력처벌법 위반(통신매체이용음란) 혐의로 지난 1월 말 서울남부지검에 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 페이스북에서 이 대표 모친의 실명을 언급하며 ‘젓가락’ 등 표현이 담긴 선정적 댓글을 쓴 혐의를 받는다. 이 대표의 고소로 경찰에 출석한 A씨는 “지지하는 정치인이 느꼈을 수치심을 똑같이 주기 위해 글을 작성했다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 대법원 판례에 비춰 심리적 만족감을 얻는 욕망도 성적 목적에 포함된다고 보고 A씨 행위가 성폭력처벌법 위반에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;이 대표는 작년 5월 대선후보 TV 토론에서 민주노동당 권영국 후보에게 ‘여성의 신체 일부’ ‘젓가락’ 등의 표현이 담긴 질문을 해 논란이 됐다. 이 대표는 당시 더불어민주당 후보였던 이재명 대통령의 아들이 과거 인터넷 게시판에 올렸다고 알려진 댓글 내용을 인용한 것이라고 주장했다.&lt;br&gt;&lt;br&gt;이 사건을 수사한 서울경찰청 공공범죄수사대는 증거 불충분으로 지난해 11월 말 불송치 결정을 내린 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정전 후에도 한국 지킨 미군 103명, 잊지 않겠습니다</title>
