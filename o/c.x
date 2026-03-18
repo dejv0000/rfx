@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 3월 19일</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/18/4QS7SPVXBZECRHJITF2EKCFSA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/18/4QS7SPVXBZECRHJITF2EKCFSA4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 14:36:00 +0000</pubDate>
+      <content:encoded> 다시 꽃샘추위…수도권 미세먼지 ‘나쁨’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPNSLWQC65HSFHNDTLHF42L7IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정교유착 합수본, 19일 전재수 의원 첫 피의자 조사</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/18/QFIZF56GZZFHNBQVYXLO5RLLJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/QFIZF56GZZFHNBQVYXLO5RLLJY/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 13:12:35 +0000</pubDate>
+      <content:encoded>정교유착 비리 의혹을 수사하는 검경 합동수사본부(합수본)가 전재수 더불어민주당 의원을 소환했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWGNRWGZSTQOJVG42GIYTGGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 합수본은 오는 19일 오전 10시 전 의원을 피의자 신분으로 불러 조사할 예정이다. 전 의원에 대한 합수본의 소환 조사는 이번이 처음이다. &lt;br&gt;&lt;br&gt;전 의원은 통일교 측으로부터 한일 해저터널 건설 사업 추진 등을 대가로 금품을 받은 혐의를 받는다. 앞서 윤영호 전 통일교 세계본부장은 지난 2018∼2020년 전 의원, 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등에게 수천만 원 상당의 금품을 건넸다고 주장했다. &lt;br&gt;&lt;br&gt;이 사건을 먼저 수사한 경찰청 특별전담수사팀은 작년 12월 전 장관에 대한 압수수색 영장에 ‘현금 2000만원과, 1000만원대 불가리 시계’를 수수한 금품으로 적시한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;합수본은 전 의원을 상대로 윤 전 본부장 등 통일교 측으로부터 통일교 현안 관련 청탁과 함께 금품을 받은 사실이 있는지 등을 조사할 것으로 보인다. 합수본은 이날 오후에는 전 의원의 부인 최모씨를 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울주군 빌라에서 30대 남성과 자녀 4명 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2026/03/18/M7RJBEP6TVCUZICCGMWNB2QZ5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/18/M7RJBEP6TVCUZICCGMWNB2QZ5E/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 12:51:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WGM3BMRSWCMBWGRQTOYZUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 울주군에서 일가족 5명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;18일 울주경찰서에 따르면 이날 오후 4시 48분쯤 울주군의 한 빌라에서 30대 남성 A 씨와 미성년 자녀 4명이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;자녀 4명 중 3명은 미취학 연령인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;현장에서는 ‘미안하다’는 내용 등이 담긴 A 씨의 유서가 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사망 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성균관대 자연과학캠퍼스 실험실서 질산 누출… 10명 경상</title>
+      <link>https://www.chosun.com/national/incident/2026/03/18/M54CC3C46FA43BZB2SZSRZRBPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/18/M54CC3C46FA43BZB2SZSRZRBPY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 11:24:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EME3MX6JBAI3GOUGFC3AKQ5UE.png"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시 성균관대학교 자연과학캠퍼스 실험실에서 질산이 누출되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;경기도소방재난본부 등에 따르면 18일 오후 5시 48분쯤 수원시 장안구 천천동 성균관대학교 자연과학캠퍼스 한 건물 3층 실험실에서 화학물질이 누출됐다는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이 사고로 실험실에 있던 8명을 포함해 총 10명이 목 통증과 어지럼증 등을 호소해 인근 병원으로 이송됐다. 또 건물 안팎에 있던 87명이 긴급 대피했다.&lt;br&gt;&lt;br&gt;사고는 학생들이 질산을 폐기하는 과정에서 발생한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무장관 “대통령 사건 공소취소 있을 수 없는 일… 통화내역 공개도 가능"</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/18/3BEXGTP43ZFD3E46DRK6F4ITSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/3BEXGTP43ZFD3E46DRK6F4ITSM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 10:49:51 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLDR5YU2VRLH5CQB5VIADMXEOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 18일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 최근 김어준씨 유튜브에서 제기됐던 이재명 대통령 사건 공소취소 거래설과 공소취소 검토설에 대해 18일 “사실이 아니고 있을 수 없는 일”이라며 “제 명예를 걸고 말씀드리며 통화내역도 공개할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 ‘공소취소 거래설과 공소취소 검토 의혹이 사실이냐’는 국민의힘 윤상현 의원과 조배숙 의원 질의에 이같이 말했다.&lt;br&gt;&lt;br&gt;정 장관은 “대통령 관련 사건을 공소취소했을 때 어떤 문제를 일으킬지 제가 왜 모르겠냐”면서 “정부 고위관계자가 고위 검사들에게 문자메시지나 전화를 했다는 얘기가 나왔는데 어느 하나도 없다(사실이 아니다)”라고 말했다.&lt;br&gt;&lt;br&gt;정 장관은 그러면서 “대통령 사건에 대해 단 한 번도 공소취소를 검토한 적도, 생각해본 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 MBC 기자 출신인 장인수씨는 지난 10일 김어준씨 유튜브 채널 ‘김어준의 겸손은 힘들다 뉴스공장’에 출연해 “누가 봐도 이재명 대통령 최측근이라고 볼 수 있는 정부 고위 관계자가 최근 고위 검사 다수에게 ‘내 말이 곧 대통령의 뜻이다. (이 대통령 사건) 공소취소를 해 달라’는 뜻을 전달했다”고 주장했다. 이에 민주당 내 친명계는 사실이 아니라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동료 기장 흉기 살해한 전직 부기장…구속영장 신청</title>
+      <link>https://www.chosun.com/national/incident/2026/03/18/VNOB6SBJZZGXNKXMX3XFPOBTB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/18/VNOB6SBJZZGXNKXMX3XFPOBTB4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 11:07:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3TOZTGHE2DSNBWGU3WMNJTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산의 한 아파트에서 항공사 기장을 흉기로 살해한 혐의를 받는 50대 피의자 A 씨가 17일 오후 부산진경찰서로 압송되고 있다. A 씨는 전 직장 동료인 국내 항공사 기장 B 씨(50대)를 살해한 후 울산의 한 모텔에 숨어있다가 경찰에 붙잡혔다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공군사관학교 선배이자 항공사 직장 동료였던 기장을 살해한 전직 부기장 김모 씨에 대해 경찰이 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;부산경찰청은 18일 살인 혐의로 김 씨에 대해 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;김 씨는 전날 오전 5시 30분쯤 부산 부산진구의 한 아파트에서 동료 기장 A 씨를 흉기로 찔러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 16일에는 경기도 고양시에서 또 다른 직장 동료였던 기장 B 씨를 목 졸라 살해하려다 미수에 그친 뒤 도주한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 씨는 A 씨 살해 직후 경남 창원에 있는 전 동료 기장 C 씨의 주거지를 찾아가 추가 범행을 시도했으나 이 역시 미수에 그쳤다.&lt;br&gt;&lt;br&gt;이후 울산으로 도주한 김 씨는 범행 약 14시간 만인 17일 오후 8시쯤 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 김 씨는 공군사관학교 선배이자 과거 직장 동료였던 A 씨 등 기장 4명에게 앙심을 품고 수개월 전부터 범행을 계획한 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 범행 동기 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김하수 청도군수, ‘주거 침입’ 혐의로 검찰 송치</title>
       <link>https://www.chosun.com/national/incident/2026/03/18/HVHYNTKJZFBUHKONASFFAM2KLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/18/HVHYNTKJZFBUHKONASFFAM2KLU/</guid>
@@ -906,52 +960,6 @@ jungho2035@gmail.com</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZZF4IYQ5BFMNPIFSGZHBJOC2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11년 만에 개통된 순천시의 도로. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천시가 길이 662ｍ의 왕복 4차로 도로 공사를 11년 만에 완료해 논란이 일고 있다. &lt;br&gt;&lt;br&gt;17일 순천시에 따르면, 시는 전날 조례동 풍전주유소에서 조례마을을 연결하는 길이 662ｍ, 폭 20∼25ｍ 왕복 4차로 규모 도시계획 도로 개통식을 열었다.&lt;br&gt;&lt;br&gt;순천시는 “해당 구간은 그동안 조례사거리 일대 교통 혼잡으로 인한 통행 불편 문제가 지속적으로 제기됐던 지역으로, 이번 도로 개설을 통해 조례사거리로 집중되던 교통량이 분산되어 교통정체가 해소되고 법원 방면 접근성 또한 크게 향상될 것으로 기대된다”고 밝혔다. &lt;br&gt;&lt;br&gt;다만 해당 도로 공사는 2014년 12월 착공 이후 완공까지 무려 11년 3개월이 걸려, 주민들 사이에는 불필요한 혈세가 낭비됐다는 비판이 나온다. &lt;br&gt;&lt;br&gt;시는 토지 보상 차질, 주민 민원 등으로 공사가 지연되면서 일반적인 공사 기간보다 공사 기간이 크게 늘었다고 설명했다.&lt;br&gt;&lt;br&gt;공사가 지연되면서 공사 비용도 크게 늘어나 총사업비 219억원이 들었다. 이 도로와 연결된 1단계 도로(길이 560ｍ)는 2012년 11월 공사 완료까지 95억원이 들었던 것과 비교하면 두 배 넘는 공사비가 든 것이다.&lt;br&gt;&lt;br&gt;노관규 순천시장은 지역 언론을 통해 “700ｍ도 안 되는 도로를 11년 동안 공사하면서 비용 증가와 주민 불편이 컸다”며 “막대한 공사비 증액에도 책임지는 사람이 없다”고 과거 행정을 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 3월 18일 수요일 (음력 1월 30일 辛卯)</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/17/BKBOLPWV6BDS7LGBLQX75YN3BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/17/BKBOLPWV6BDS7LGBLQX75YN3BM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>‘남양주 스토킹 살해’ 40대 남성, 구속… 法 “도주 우려”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/17/M2TVDODOSBEXRMGFUYYCZSFIGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/17/M2TVDODOSBEXRMGFUYYCZSFIGU/</guid>
-      <dc:creator>남양주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 07:43:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUP4T2JKLN452C5WRPIQP3KSEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 남양주지원/ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주시에서 전자발찌를 착용한 채 스토킹하던 여성을 살해한 40대 남성이 구속됐다. &lt;br&gt;&lt;br&gt;의정부지법 남양주지원은 17일 살인 혐의를 받는 A씨에 대한 영장실질심사(구속 전 피의자 심문)를 열고 “도주 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;병원에서 치료 중인 A씨는 이날 영장실질심사에 출석하지 않았다. &lt;br&gt;&lt;br&gt;A씨는 지난 14일 오전 8시 58분쯤 남양주시 오남읍의 한 길거리에서 과거 교제하던 20대 여성 B씨를 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;그는 B씨의 직장 인근에서 대기하다가 B씨가 탄 차량을 가로막은 뒤 창문을 깨고 흉기로 찔렀다. &lt;br&gt;&lt;br&gt;범행 후 차를 타고 달아난 A씨는 약 1시간 만인 같은 날 오전 10시 8분쯤 양평에서 검거됐다.&lt;br&gt;&lt;br&gt;검거 당시 A씨는 다량의 약물을 먹어 의식이 불분명한 상태로 발견됐다. 경찰은 지난 16일 A씨의 의식이 돌아온 후 검찰과 협의해 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;B씨는 작년 5월과 올해 1월, 2월 A씨를 가정폭력, 스토킹 등 혐의로 경찰에 여러 차례 신고했었다. A씨는 가정폭력처벌법상 임시조치 2·3호와 스토킹처벌법상 잠정조치 1·2·3호 적용 대상자로, B씨에게 연락하거나 주거와 직장 100m 이내 접근도 금지된 상태였다.&lt;br&gt;&lt;br&gt;A씨는 과거 성폭력 범죄로 전자발찌를 착용하고 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘음주운전 숨기려 운전자 바꾸고, 허위 진술 방조’ </title>
-      <link>https://www.chosun.com/national/regional/2026/03/17/K5MXXFVP2VHHBPOUAAIB3LHCSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/17/K5MXXFVP2VHHBPOUAAIB3LHCSQ/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 07:36:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOR6734ZBS2LPCONIOJYD45QAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 서부지원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 단속을 피하기 위해 운전자를 바꾸고, 허위 진술을 한 혐의 등으로 기소된 대구 지역 기초의회 전 의원과 지인에게 각각 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 서부지원 형사8단독 우영식 판사는 17일 경찰의 음주 단속을 피하기 위해 동승자와 자리를 바꾸고, 허위 진술을 한 혐의 등으로 재판에 넘겨진 정재목 전 대구 남구의회 의원에게 벌금 100만원을, 이를 도운 동승자 50대 여성 A씨에게 벌금 200만원을 선고했다. &lt;br&gt;&lt;br&gt;정 전 구의원은 지난해 4월 대구 달서구 한 도로에서 함께 술을 마신 뒤 A씨가 음주 상태로 운전하는 차량에 타고 있다가 경찰에 적발됐다. 조사 결과, 정 구의원도 당시 일정 거리를 운전했으나 혈중알코올농도가 훈방 처분 대상인 0.03% 미만으로 측정돼 음주 운전 방조 혐의로 검찰에 불구속 송치됐다. 이후 검찰 조사 과정에서 A씨가 정 전 구의원에게 운전자를 바꾸자고 제안했고, 정 전 구의원이 이에 따른 것으로 드러나 A씨에게는 범인도피 혐의가, 정 전 구의원에게는 범인도피 방조 혐의가 적용돼 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;재판부는 “정 전 의원이 식당에서 지인과 술을 여러 병 나눠 마셨고, 과거 음주운전으로 형사처벌을 받은 전력이 있는 점 등을 고려할 때 당시 법 위반임을 인식했다”며 “A씨 범행에 편승하면 자신의 법 위반 행위로 인한 책임을 모면할 수 있을 것이라 생각에 범행을 저지른 것으로 보인다”고 했다. 이어 “다만 소극적으로 방조한 것으로 보이는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘케데헌’ 감독, 韓 예능 출연...한국인 아내·5세 아들과 깜짝 방문</title>
-      <link>https://www.chosun.com/national/people/2026/03/17/DURSPYYMCJE7ROXICNG7ZCVEUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/17/DURSPYYMCJE7ROXICNG7ZCVEUY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 06:52:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZDMMBRG5RTCZBUG4ZTAM3BG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;매기 강(왼쪽), 크리스 아펠한스(가운데), 미셸 L.M. 웡이 15일  미국 캘리포니아주 할리우드 돌비 극장에서 열린 제98회 아카데미 시상식에서 애니메이션 영화 케이팝 데몬 헌터스로 장편 애니메이션상을 수상한 뒤 포즈를 취하고 있다./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 아카데미 시상식에서 2관왕에 오른 넷플릭스 애니메이션 영화 ‘케이팝 데몬 헌터스’의 공동 연출자 크리스 아펠한스 감독이 한국 방송에 출연한다.&lt;br&gt;&lt;br&gt;17일 MBC에브리원에 따르면, 아펠한스 감독은 예능 프로그램 ‘어서와 한국은 처음이지?’에 출연하며, 해당 방송분은 5월 말 방영될 예정이다.&lt;br&gt;&lt;br&gt;아펠한스 감독은 한국계 캐나다인 메기 강 감독과 함께 ‘케이팝 데몬 헌터스’를 공동 연출했다. 그의 아내는 한국인 화가이자 작가로 알려져 있으며, 아펠한스 감독 역시 아내의 영향을 받아 한국 문화에 애정을 가져온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이번 방송에서 아펠한스 감독은 한국인 아내, 그리고 영화 관람 후 한글에 관심을 보이기 시작한 5세 아들과 함께 한국을 여행하는 모습을 공개한다.&lt;br&gt;&lt;br&gt;‘케이팝 데몬 헌터스’는 앞서 골든글로브와 그래미를 휩쓴 데 이어, 지난 16일 열린 아카데미 시상식에서 장편 애니메이션상과 주제가상을 받아 화제를 모았다. 미국 주요 대중문화 시상식을 석권한 이 작품은 K-컬처의 영향력을 한층 넓혔다는 평가를 받고 있다. &lt;br&gt;&lt;br&gt;아펠한스 감독은 메기 강 감독과 함께 현재 ‘케이팝 데몬 헌터스’ 시즌2 제작도 준비 중이다.&lt;br&gt;&lt;br&gt;MBC에브리원은 “‘케이팝 데몬 헌터스’ 시즌1 제작 당시 한국 답사를 통해 얻은 영감이 작품의 핵심적인 밑바탕이 됐던 만큼, 이번 한국 여행이 향후 어떤 차기작으로 이어질지에도 관심이 모인다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 종합특검, ‘양평고속도로’ 의혹 원희룡 전 장관 출국금지</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/17/KE6OCULTMJC37ECAFS5CZWZA4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/KE6OCULTMJC37ECAFS5CZWZA4I/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 05:21:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFP4M5PAGVPZBIY74ZDZQDQ2FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원희룡 전 국토교통부 장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘3대 특검(내란·김건희·해병)’의 남은 사건을 수사하는 권창영 2차 종합특별검사팀이 원희룡 전 국토교통부 장관을 출국금지한 것으로 17일 파악됐다. 원 전 장관은 ‘양평고속도로 변경 특혜’ 의혹과 관련해 수사 선상에 올라 있다. &lt;br&gt;&lt;br&gt;양평 고속도로 의혹은 2023년 5월 국토부가 김 여사 일가가 소유한 땅이 있는 곳으로 고속도로 건설 계획을 바꿔 김 여사 일가에 특혜를 줬다는 의혹이다. 당시 국토부는 예비타당성 조사를 마친 고속도로 노선의 종점을 변경한다고 밝혔다.&lt;br&gt;&lt;br&gt;이후 특혜 의혹이 불거지자 원 전 장관은 2023년 7월 양평 고속도로 사업 백지화를 선언했다. 당시 원 전 장관은 “만일 제가 김건희 여사 땅이 있다는 것을 이 사건이 불거지기 전에 조금이라도 인지하는 게 있었다고 한다면 장관직을 걸 뿐만 아니라 정치 생명을 걸겠다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;이 의혹을 먼저 수사한 민중기 특별검사팀은 원 전 장관을 출국금지했지만 한 차례도 소환조사를 하지 않았다. 이후 특검은 윗선 개입은 밝히지 못한 채 국토부 서기관 김모씨 등 7명을 직권남용권리행사방해 등 혐의로 재판에 넘겼다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산서 항공사 기장 피살… 경찰, 도주 용의자 전 동료 추적</title>
       <link>https://www.chosun.com/national/regional/2026/03/17/57C3WZCTKVHUZIJM4LPHGTPPYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/17/57C3WZCTKVHUZIJM4LPHGTPPYQ/</guid>
@@ -968,15 +976,6 @@ jungho2035@gmail.com</media:credit>
       <description/>
       <pubDate>Tue, 17 Mar 2026 02:12:07 +0000</pubDate>
       <content:encoded>유명 아이웨어 브랜드 ‘젠틀몬스터’ 제품 디자인을 베껴 대량 판매한 혐의를 받는 블루엘리펀트 대표가 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZDENBSG5RWIZDBGU4WINTEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성수동에 위치한 블루엘리펀트 매장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전지검 특허범죄조사부(부장 허윤희)는 부정경쟁방지법 위반 등 혐의로 블루엘리펀트 대표 최모(37)씨를 지난 12일 구속 기소했다고 17일 밝혔다. 블루엘리펀트 본부장 우모(35)씨와 법인도 같은 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 최씨는 2023년 2월부터 2025년 6월까지 젠틀몬스터 디자인을 모방한 안경·선글라스 49종을 국내 도매업체에서 납품받거나 중국 공장에 직접 발주하는 방식으로 수십만 개를 판매한 혐의를 받는다. 이를 통해 올린 매출은 약 123억원대 달하는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건은 젠틀몬스터 운영사 아이아이컴바인드의 고소로 시작됐다. 특허청 특별사법경찰(특사경)은 2024년 12월 고소장을 접수한 뒤 수사에 착수했다. 당초 특사경은 지난해 11월 최씨에 대한 구속영장을 청구했지만 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;이후 검찰은 수출입 신고 내역과 회계 자료, 추가 매출 자료 등을 확보하도록 특사경을 지휘했다. 그 결과 최씨가 15개 모델에서 약 28억원의 추가 매출을 올린 사실을 확인했다. 특정 시기에는 전체 매출의 40% 이상이 젠틀몬스터 모방 상품에서 나온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰은 보강 수사 끝에 최씨에 대한 구속영장을 다시 청구해 지난달 11일 발부받았다. 이후 특사경으로부터 사건을 넘겨받은 검찰은 지난달 20일부터 지난 11일까지 피의자와 참고인을 조사하고 사무실 등에 대한 압수수색을 벌였다.&lt;br&gt;&lt;br&gt;검찰은 이 과정에서 모방 상품의 재고를 압수해 추가 범행을 막고, 수입·판매 데이터를 다시 분석해 판매 수량 등도 새로 특정했다고 한다. 이를 통해 구체적인 범행 수법을 확인한 검찰은 공소사실을 전면 재구성해 피의자들을 기소했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “압수한 모방 상품 재고 약 15만개(73억원 상당)와 범죄수익 약 123억원도 추징할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 김영환 충북지사 구속영장...‘3100만원 수수 혐의’</title>
-      <link>https://www.chosun.com/national/incident/2026/03/17/NK2OU6O5LNAATMQNABWWKX2PCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/17/NK2OU6O5LNAATMQNABWWKX2PCE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 02:05:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JP7ZPRQKGBIVZC6ABTK3KYFZ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북도지사가 17일 서울 여의도 국민의힘 당사에서 엘리베이터에 탑승하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 체육계 인사들로부터 금품을 수수한 의혹을 받는 김영환 충북지사에 대해 경찰이 사전 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;충북경찰청 반부패경제범죄수사대는 17일 청탁금지법 위반과 수뢰후부정처사 혐의로 김 지사에 대한 사전 구속영장을 신청했다. 지난해 8월 충북도청 압수수색으로 수사에 착수한 지 약 7개월 만이다.&lt;br&gt;&lt;br&gt;김 지사는 2024년 8월 괴산 소재 자신의 산막 인테리어 비용 2000만원을 윤두영 충북배구협회장으로부터 대납받은 혐의를 받고 있다. 경찰은 이와 관련해 김 지사가 같은 해 말 윤 협회장 측 A 식품업체의 충북도 스마트팜 사업 참여 과정에 영향력을 행사한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;김 지사는 또 지난해 4월과 6월 두 차례 국외 출장 전 윤두영 협회장과 윤현우 충북체육회장 등 체육계 인사들로부터 총 1100만원을 출장 경비 명목으로 받은 혐의도 받는다.&lt;br&gt;&lt;br&gt;경찰은 김 지사가 인테리어 비용 대납과 금품 수수 대가로 특정 업체의 사업 참여에 영향력을 행사한 것으로 판단하고 있다. 또한 사건 관계자들과 진술을 맞추는 등 수사를 방해한 정황이 있다고 보고 증거인멸 우려 등을 이유로 구속영장을 신청한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 김 지사는 수사 초기부터 “금품을 받은 사실이 전혀 없으며 인테리어 비용도 정상적으로 지급했다”며 혐의를 전면 부인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
