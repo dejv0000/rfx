@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 부부 법정서 만나나... ‘무상 여론조사’ 재판에 김건희 증인 채택</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/17/NIAFSFZMLVFGDETKDK4DNZIPEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/NIAFSFZMLVFGDETKDK4DNZIPEI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Mar 2026 07:19:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTDIMBTGBTDKODGMYZWEMZWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령과 정치 브로커 명태균씨의 ‘여론조사 무상 제공’ 의혹을 심리하는 재판부가 김건희 여사를 증인으로 채택했다. 김 여사가 다음 달 법원의 출석 요구에 응해 증인석에 서면 윤 전 대통령 부부는 처음으로 법정에서 대면하게 된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 17일 윤 전 대통령과 명씨의 정치자금법 위반 사건 1심 첫 공판을 열고 내달 14일 김 여사에 대한 증인 신문을 진행하겠다고 밝혔다. 재판부는 김 여사와 강혜경 전 미래한국연구소 부소장, 김태열 전 미래한국연구소장 등 증인을 신문한 뒤 5월 중순쯤 변론 종결 절차를 밟을 예정이다.&lt;br&gt;&lt;br&gt;특검은 이날 “명씨가 2021년 6월부터 2022년 3월까지 윤 전 대통령과 김건희 여사를 위해 공표용 36회, 비공표용 22회 등 총 58회의 여론조사를 무상으로 실시·제공했다”며 “가액이 약 2억7000만원에 이른다”고 공소 사실을 밝혔다. 윤 전 대통령 부부가 명씨에게 법에서 정하지 않은 방법으로 정치자금을 받았다는 것이다.&lt;br&gt;&lt;br&gt;이날 윤 전 대통령과 명씨 측은 모두 혐의를 부인했다. 먼저 윤 전 대통령 측은 김건희 여사 관련 1심 판결을 언급하며 “여론조사 결과가 윤 부부에게 전속적으로 귀속됐다고 보기 어렵고, 당 공천관리위원회 회의록을 보면 내부 토론과 투표를 거쳐 공정하게 결정됐다”고 주장했다. &lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사27부(재판장 우인성)는 같은 의혹으로 기소된 김 여사 1심에서 “윤 전 대통령 부부가 여론조사를 지시하거나 의뢰한 게 아니고, 이를 받았다고 해서 재산상 이득을 취득한 것으로 볼 수도 없다”며 정치자금법 위반 혐의에 대해 무죄를 선고했다. 특검이 항소하면서 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측과 명씨 측은 이날 공소장에 적힌 여론조사 제공 횟수가 과장됐다는 주장도 했다. 명씨 측은 “실제 제공한 것은 14회에 불과하고 공표 여론조사 5건은 공표 이후 전달된 것”이라고 했다. 윤 전 대통령 측도 “윤 전 대통령 부부에게 제공된 것은 3회이고 나머지는 다른 정치인들에게도 함께 전달됐다”고 했다.&lt;br&gt;&lt;br&gt;명씨는 직접 발언에 나서 “(실제 윤 전 대통령 부부에게 제공된) 조사는 3건이고 특검에서 산출한 금액도 2800만~3000만원 수준이었는데, 왜 갑자기 58건으로 확대되고 제가 공범이 됐는지 이해가 안 된다”고 말했다. 이어 “검사들을 재판에 세울 수 있냐”고도 했다.&lt;br&gt;&lt;br&gt;특검은 이날 서증 조사에서 윤 전 대통령 부부와 명씨 사이의 메신저 대화를 제시하며 사전 협의와 공모 관계가 있었다고 주장했다. 특히 2021년 7월 윤 전 대통령이 명씨에게 인터뷰 파일을 보내며 “간략하게 방향을 달라”고 한 문자를 제시했다. 또 명씨가 윤 전 대통령에게 “ARS 조사 시 유선 15%, 무선 85% 해야 실투표에 근접하고 유선 높을수록 총장님에게 유리하다”고 보낸 문자도 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘부어라 마셔라’ 사라진 술집들, 점심 뷔페 팔고 두쫀쿠 만든다</title>
       <link>https://www.chosun.com/national/national_general/2026/03/19/RAVF6YHYWFFHFPUBRMZN333ZKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/19/RAVF6YHYWFFHFPUBRMZN333ZKA/</guid>
@@ -842,15 +851,6 @@ jungho2035@gmail.com</media:credit>
         <media:description type="plain">15일 서울 종로구 kt빌딩 전광판에 방탄소년단(BTS)의 컴백 라이브 공연 광고가 나오고 있다. 약 3년 9개월 만에 컴백하는 방탄소년단(BTS)의 공연은 오는 21일 오후 8시 광화문광장에서 ‘BTS 컴백 라이브: 아리랑(ARIRANG)’이라는 타이틀로 개최된다./뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김명섭 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[부음] 문탁진 前 고려대 재료공학과 명예교수 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/18/EPUD73N7YBG3DI4SW4A7JSIDM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/18/EPUD73N7YBG3DI4SW4A7JSIDM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;문탁진 &lt;/b&gt;前 고려대 재료공학과 명예교수 별세, &lt;b&gt;김예원 &lt;/b&gt;남편상,&lt;b&gt; 문지웅 &lt;/b&gt;前 SK 부사장·&lt;b&gt;문지순 &lt;/b&gt;동덕여대 인문대학장 부친상, &lt;b&gt;이용모 &lt;/b&gt;건국대 행정학과 교수 장인상, &lt;b&gt;박계원&lt;/b&gt; 시부상=17일14시 삼성서울병원, 발인 19일8시, (02)3140-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신택균&lt;/b&gt; 별세, &lt;b&gt;김영옥 &lt;/b&gt;남편상,&lt;b&gt; 신채린 &lt;/b&gt;금호타이어 IR파트 과장·&lt;b&gt;신예린 &lt;/b&gt;광주 서구 시설관리공단 주임 부친상, &lt;b&gt;남현우 &lt;/b&gt;코리아타임스 산업부 기자 장인상=17일8시 광주광역시 VIP장례타운, 발인 19일12시30분, (062)521-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;심영진&lt;/b&gt; 별세, &lt;b&gt;천기화&lt;/b&gt; 경상매일신문 회장 장모상=16일17시10분 성애병원, 발인 19일8시, (02)844-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이희자&lt;/b&gt; 별세, &lt;b&gt;오세헌 &lt;/b&gt;삼성증권 연금센터장·&lt;b&gt;오소영&lt;/b&gt;·&lt;b&gt;오계숙 &lt;/b&gt;명덕여고 교사·&lt;b&gt;오세연&lt;/b&gt; 디엔 대표 모친상, &lt;b&gt;최낙선 &lt;/b&gt;지피에스테르 대표·&lt;b&gt;김경보&lt;/b&gt; 제주도 노동권익센터장 장모상=17일7시3분 여의도성모병원, 발인 19일6시30분, (02)3779-1918&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정효진&lt;/b&gt; 前 조선일보 CS북춘천센터 대표 별세, &lt;b&gt;임현순 &lt;/b&gt;남편상,&lt;b&gt; 정해림&lt;/b&gt;·&lt;b&gt;정해구&lt;/b&gt; 부친상, &lt;b&gt;정진구&lt;/b&gt; 장인상, &lt;b&gt;임주미&lt;/b&gt; 시부상, &lt;b&gt;정준영&lt;/b&gt;·&lt;b&gt;정찬영&lt;/b&gt; 조부상=17일2시17분 강원 춘천 교원예움 강원장례식장, 발인 19일8시, (033)261-4441&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오스카 시상식 불참한 숀 펜… 우크라에 있었다</title>
