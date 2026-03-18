@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김하수 청도군수, ‘주거 침입’ 혐의로 검찰 송치</title>
+      <link>https://www.chosun.com/national/incident/2026/03/18/HVHYNTKJZFBUHKONASFFAM2KLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/18/HVHYNTKJZFBUHKONASFFAM2KLU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 10:38:31 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYTIMRUMY3DIZBQMMZTENZXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김하수 청도군수/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 내 요양원 원장의 집에 무단으로 들어갔다가 고소를 당한 김하수 청도군수가 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;경북 청도경찰서는 김 군수를 공동주거침입 혐의로 검찰에 송치했다고 18일 밝혔다. 김 군수는 지난 1월 11일 군청 직원 1명과 함께 청도의 한 요양원을 운영하는 A원장의 집에 허락 없이 들어간 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김 군수는 지난해 3월 A원장과 전화 통화를 하던 중 해당 요양원의 사무국장이었던 B씨에 대해 “주둥아리 함부로 지껄이지 말라고 해라, 죽여버린다”, “내가 그거 용서 안 하려고 한다, 개 같은 X이 말이야” 등 폭언을 한 바 있다. &lt;br&gt;&lt;br&gt;김 군수는 당시 요양보호사협회 설립을 요구하는 민원이 있어 A원장에게 의견을 구한 바 있다. 이후 요양원 내 회의 과정에서 사무국장이었던 B씨가 추후 군수가 바뀌어도 협회가 지속 가능한지에 대한 의문을 제기했고, 이를 뒤늦게 전해 들은 김 군수가 A원장을 통해 불만을 표한 것이다.&lt;br&gt;&lt;br&gt;당시 A 원장은 김 군수와의 통화를 녹취했고, 김 군수는 이 녹음 파일이 공개되는 것을 막기 위해 A 원장의 집을 찾았던 것으로 알려졌다. 김 군수는 “A 원장에게 사과하기 위해 전화를 했지만 받지 않아 찾아갔다”며 “공인으로서 쓰지 말아야 할 언사와 행동을 한 점에 대해 군민들에게 깊이 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 김 군수는 오는 6월 3일 치러지는 제9회 전국동시지방선거에서 국민의힘 공천을 신청했다. 지난 12일 더불어민주당 경북도당은 김 군수에 대해 “공천 신청을 철회하라”는 논평을 냈다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “AI가 자동 작성한 소장, 합법”...생성형 AI 서비스는 경고</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/18/Y3HR62LN3JALNE7MIOD46AUMPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/Y3HR62LN3JALNE7MIOD46AUMPE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 10:36:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4TKMBUMQ3TGMTBGE2DCYZXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;리걸테크(법률기술) 업체가 제공하는 ‘법률문서 단순 자동작성’ 서비스가 합법이라는 대법원 판단이 나왔다. 16일 법조계에 따르면 대법원 3부(주심 오석준 대법관)는 박성재 로폼 법률AI센터장(변호사)이 서울지방변호사회를 상대로 낸 겸직불허 취소 청구 소송 상고심에서 원고 승소로 판결한 원심을 지난달 12일 심리불속행으로 기각했다.&lt;br&gt;&lt;br&gt;박 변호사는 2021년 9월 서울변회에 한 리걸테크 스타트업 사원으로 근무하겠다며 겸직 허가를 신청했다. 이 업체는 2019년부터 ‘로폼’이라는 플랫폼을 통해 내용증명이나 고소장 등 법률문서를 자동으로 작성해주는 서비스를 무료로 제공하고 있었다. 이용자가 문서 유형을 선택하면 표준화된 양식이 만들어지고, 이용자가 빈칸에 답을 입력하면 알고리즘이 공란을 채워 문서를 완성하는 식이다.&lt;br&gt;&lt;br&gt;그러나 서울변회는 이 서비스가 비(非)변호사의 법률사무 취급을 금지한 변호사법에 위반된다는 이유로 같은 해 11월 겸직을 불허했다. 박 변호사는 이에 불복해 행정소송을 냈고, 대법원에서 최종 승소한 것이다.&lt;br&gt;&lt;br&gt;법원은 로폼의 알고리즘 기반의 ‘법률문서 자동작성 서비스’가 변호사법 위반이 아니라고 판단했다. 1심 재판부는 “이 서비스는 이용자가 입력한 내용을 검토하거나 수정하지 않고 그대로 반영한다”며 “이는 기존 법률 서식집에서 양식을 골라 빈칸을 채우는 작업을 디지털로 편리하게 도와주는 것뿐”이라고 했다. 변호사법이 금지하는 ‘법률사무 취급’은 구체적·개별적인 사안을 다뤄야 하는데, 표준화된 문서 양식을 제공하는 데 그친다면 문제가 없다는 것이다.&lt;br&gt;&lt;br&gt;그러나 법원은 리걸테크 업계의 핵심 비즈니스 모델인 변호사 연결(알선) 서비스와 향후 고도화될 생성형 AI 서비스에 대해서는 위법 소지가 크다고 단서를 달았다.&lt;br&gt;&lt;br&gt;먼저, 로폼에서 자동 작성된 문서를 제휴 변호사가 검토하고 직인을 찍어주는 유료 ‘검토 서비스’에 대해 법원은 변호사법상 ‘법률사무 취급’에 해당한다고 판단했다. 또 “로폼이 무료로 제공한 자동작성 서비스를 통해 유료 검토 서비스로 유인하고 대가를 받는 것은 변호사법이 금지하는 ‘알선’에 해당할 여지가 상당하다”고도 지적했다. 다만 서울변회는 애초 박 변호사에게 겸직 불허 처분을 내릴 당시 이 유료 서비스에 대해선 처분 사유에 포함하지 않았기 때문에 박 변호사가 최종 승소할 수 있었다.&lt;br&gt;&lt;br&gt;법원은 생성형 AI 서비스의 위법성도 분명히 했다. 재판부는 “이용자가 텍스트로 자신의 상황을 설명하면 생성형 AI가 연관 문서를 선택·작성해 주는 방식은 단순한 문서 양식의 디지털화 차원을 넘어 ‘사건에 관한 법률 관계 문서 작성 또는 그 밖의 법률사무 취급’에 해당한다고 보기에 충분하다”고 했다. ‘빈칸 채우기’ 수준의 기초적 서비스는 괜찮지만, 생성형 AI 기술을 본격 적용할 경우 현행법 위반이 될 수도 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, BTS 콘서트 대비 ‘특별 입국심사 대책’ 시행</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/18/A4W6ZQZZFBGKNJVKTLNI6QCLFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/A4W6ZQZZFBGKNJVKTLNI6QCLFQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 09:48:06 +0000</pubDate>
+      <content:encoded>오는 21일 예정된 BTS 콘서트로 인해 인천공항으로 입국하는 외국인 관광객이 급증할 것으로 예상되는 가운데, 법무부가 ‘특별 입국심사 대책’을 시행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLIIYPRHQBEN3A5ZPFXKXLGZOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 법무부에 따르면, 특별 입국심사 대책의 주요 내용은 △출입국심사관 조기 출근 및 연장 근무 △혼잡시간대 非심사 부서 입국심사 지원 △도착 승객 안내 강화 등이다. 이 대책은 이날부터 즉시 시행된다.&lt;br&gt;&lt;br&gt;법무부는 이번 대책 시행으로 외국인 승객 도착이 집중되는 구역과 시간대에 ‘유인 입국심사대’가 늘어나 입국심사 대기시간이 단축되는 효과가 있을 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;한편 법무부는 오는 19일 출입국외국인·정책본부장 주재로 인천공항 혼잡도를 개선하기 위한 관계기관 회의도 개최할 예정이다. 이번 회의에는 법무부, 국토교통부, 인천공항출입국·외국인청, 인천공항공사 관계자들이 참석해 인천공항 혼잡 상황을 공유하고 출입국심사 개선 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이상민 “1심서 증명 안 된 특검 주장 너무 쉽게 받아들여”… 항소심서 반박</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/18/QR3SYSMSE5DTVIWTI2XL7WI7GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/QR3SYSMSE5DTVIWTI2XL7WI7GE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Mar 2026 08:50:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4TGMBVMY2DGMDGHEYDCMJXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 소방청 등에 특정 언론사 단전·단수를 지시한 혐의로 1심에서 징역 7년을 선고받은 이상민 전 행정안전부 장관이 항소심에서 “1심은 확인되거나 증명되지 않은 특검의 상상과 추측에 근거한 일방적 주장을 너무 쉽게 받아들였다”고 주장했다.&lt;br&gt;&lt;br&gt;이 전 장관은 18일 서울고법 형사1부(재판장 윤성식) 심리로 열린 내란 중요 임무 종사 등 혐의 사건 항소심 첫 공판에서 “특검이나 피고인이나 대등한 당사자에 불과한데도, (1심 재판부가) 쌍방 주장을 균형 있게 듣지 않고 특검의 일방적 주장에 너무 무게를 둔 것 아닌가 하는 아쉬움이 있다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이 전 장관은 또 형법상 내란죄의 구성 요건인 ‘국헌 문란 목적’에 대한 엄격한 판단을 재판부에 요청했다. 그는 “국헌 문란 목적에 대해 엄격하게 심사하지 않으면 단순 시위나 집회도 얼마든지 내란으로 몰아갈 위험이 있다”며 “상식적 차원에서 과연 국무위원들이 국헌 문란 목적을 가질 수 있는지 고민해 달라”고 했다.&lt;br&gt;&lt;br&gt;변호인도 이 전 장관에게 국헌 문란 목적이 없었다고 주장했다. 변호인은 “공동정범이라도 형법상 개별책임주의 원칙에 따라 당사자별로 국헌 문란 목적을 별도로 판단해야 한다”며 “이 전 장관의 구체적 행위는 조지호 전 경찰청장과 허석곤 전 소방청장과의 두 차례 통화에 불과하고, 그 시점에는 국회 봉쇄 상황을 전혀 인식할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;변호인은 또 “계엄 선포가 위헌·위법임을 명확히, 즉시 알 수 있는 상황이 아니라면 공무원은 대통령의 권한 행사를 존중해 적법 행위로 추정하고 대응할 수밖에 없다”며 “향후 대통령이 계엄을 선포했는데 군인들이 ‘실제척 요건에 맞는가’ ‘국무회의를 거쳤나’를 따진다면 당나라 군대가 된다”고 했다.&lt;br&gt;&lt;br&gt;반면 특검 측은 1심에서 무죄가 선고된 이 전 장관의 직권남용 혐의가 유죄로 인정되어야 한다고 주장했다. 1심 재판부는 이 전 장관이 계엄 당일 윤 전 대통령으로부터 언론사 단전·단수 등 지시를 받고 허석곤 당시 소방청장에게 협조를 지시한 사실은 인정하면서도, 의무 없는 일을 하게 했다고 볼 순 없다며 직권남용 혐의를 무죄로 판단했다.&lt;br&gt;&lt;br&gt;특검 측은 이에 대해 “이 전 장관의 지시로 당시 허 소방청장이 이영팔 소방청 차장을 통해 황기석 서울소방재난본부장에게 지시 하달을 목적으로 전화했다”며 “직권남용 행위가 없었다면 청장이 서울소방재난본부장에게 연락하지 않았을 것”이라고 주장했다. 또 일선 소방서에서 단전·단수 준비 태세를 갖추는 등 의무 없는 일의 결과가 실제로 발생했다고 강조했다.&lt;br&gt;&lt;br&gt;특검 측은 단전·단수 지시가 실제 이행되지 않은 점에 대해서도 “시민의 저항과 군·경의 소극적 대응 때문이지 피고인에게 유리하게 참작할 사안이 아니다”라고 했다. 이어 공범인 한덕수 전 국무총리가 징역 23년, 조지호 전 경찰청장이 징역 12년을 선고받은 점을 들어 이 전 장관의 1심 형량이 지나치게 가볍다고 주장했다.&lt;br&gt;&lt;br&gt;한편, 항소심 재판부는 이 전 장관 측이 신청한 윤석열 전 대통령과 박성재 전 법무부 장관을 증인으로 채택했다. 윤 전 대통령은 4월 9일, 박 전 장관은 같은 달 15일 증인 신문이 진행된다. 한덕수 전 국무총리에 대한 증인 신청은 보류됐다.&lt;br&gt;&lt;br&gt;재판부는 한 전 총리 신문 없이 절차를 마무리할 경우 4월 15일 변론을 종결하겠다고 밝혀, 이르면 이날 결심이 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>특사경, 교통사건 10건 중 3건 공소시효 만료...檢 지휘권 폐지에 “수사공백 우려”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/18/W27GX6FJCRGM7IEJ75BXPSLOH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/W27GX6FJCRGM7IEJ75BXPSLOH4/</guid>
@@ -907,27 +943,6 @@ jungho2035@gmail.com</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZDMMBRG5RTCZBUG4ZTAM3BG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;매기 강(왼쪽), 크리스 아펠한스(가운데), 미셸 L.M. 웡이 15일  미국 캘리포니아주 할리우드 돌비 극장에서 열린 제98회 아카데미 시상식에서 애니메이션 영화 케이팝 데몬 헌터스로 장편 애니메이션상을 수상한 뒤 포즈를 취하고 있다./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 아카데미 시상식에서 2관왕에 오른 넷플릭스 애니메이션 영화 ‘케이팝 데몬 헌터스’의 공동 연출자 크리스 아펠한스 감독이 한국 방송에 출연한다.&lt;br&gt;&lt;br&gt;17일 MBC에브리원에 따르면, 아펠한스 감독은 예능 프로그램 ‘어서와 한국은 처음이지?’에 출연하며, 해당 방송분은 5월 말 방영될 예정이다.&lt;br&gt;&lt;br&gt;아펠한스 감독은 한국계 캐나다인 메기 강 감독과 함께 ‘케이팝 데몬 헌터스’를 공동 연출했다. 그의 아내는 한국인 화가이자 작가로 알려져 있으며, 아펠한스 감독 역시 아내의 영향을 받아 한국 문화에 애정을 가져온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이번 방송에서 아펠한스 감독은 한국인 아내, 그리고 영화 관람 후 한글에 관심을 보이기 시작한 5세 아들과 함께 한국을 여행하는 모습을 공개한다.&lt;br&gt;&lt;br&gt;‘케이팝 데몬 헌터스’는 앞서 골든글로브와 그래미를 휩쓴 데 이어, 지난 16일 열린 아카데미 시상식에서 장편 애니메이션상과 주제가상을 받아 화제를 모았다. 미국 주요 대중문화 시상식을 석권한 이 작품은 K-컬처의 영향력을 한층 넓혔다는 평가를 받고 있다. &lt;br&gt;&lt;br&gt;아펠한스 감독은 메기 강 감독과 함께 현재 ‘케이팝 데몬 헌터스’ 시즌2 제작도 준비 중이다.&lt;br&gt;&lt;br&gt;MBC에브리원은 “‘케이팝 데몬 헌터스’ 시즌1 제작 당시 한국 답사를 통해 얻은 영감이 작품의 핵심적인 밑바탕이 됐던 만큼, 이번 한국 여행이 향후 어떤 차기작으로 이어질지에도 관심이 모인다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>신수정 광주시의회 의장, “북구, 전남·광주특별시 중심 축 만들 것”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/17/BNZ5GNOUOVHTTMYGDGQXZMJ2UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/17/BNZ5GNOUOVHTTMYGDGQXZMJ2UI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 07:25:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSDINJXHFSDCMBRME4GGYLDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신수정 광주광역시의회 의장이 17일 광주시의회에서 북구청장 선거 출마를 선언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신수정 광주광역시의회 의장이 다가오는 지방선거에서 광주광역시 북구청장 선거 출사표를 냈다.&lt;br&gt;&lt;br&gt;신 의장은 17일 광주시의회에서 기자회견을 열고 “대통합 시대에 전남·광주특별시의 으뜸 도시 북구를 만들겠다”며 북구청장 선거 출마 의사를 밝혔다.&lt;br&gt;&lt;br&gt;신 의장은 광주 북구의원과 광주시의원, 광주시의회 최초 여성 의장을 역임했다.&lt;br&gt;&lt;br&gt;그는 “북구는 한때 광주의 심장이었지만, 재정 자립도 최하위 수준에 50만명에 가까웠던 인구는 42만명 수준으로 줄었다”며 “북구는 대전환을 시작해야 한다”고 했다.&lt;br&gt;&lt;br&gt;신 의장은 광주역과 지하철 1호선을 연결하는 도심 축 전환 프로젝트, 정책 투표 시스템 도입, 체류형 생태 관광 도시 조성, 우수 저류 시설 확충 및 인공지능(AI)을 활용한 침수 대비, 청년 첫 경력 보장제, 생활 체육·평생 학습 도시 등을 핵심 공약으로 제시했다.&lt;br&gt;&lt;br&gt;신 의장은 “인구와 규모, 도시 기능 면에서 북구가 전남·광주특별시의 중심축이 되어야 한다”며 “북구를 ‘첫 경력의 도시, 첫 집의 도시’로 키우겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MNSDINJXHFSDCMBRME4GGYLDMY.jpg?auth=06a861a62992ee73ae0cc31265d45922d6f6740656422921e12360bc22509905&amp;smart=true&amp;width=5387&amp;height=3593" type="image/jpeg" height="3593" width="5387">
-        <media:description type="plain">신수정 광주광역시의회 의장이 17일 광주시의회에서 북구청장 선거 출마를 선언하고 있다. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“팬티 벗고 복도로”... 귀신 대신 후임들 잡았다, 해병대원 징역형 집유</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/17/BBCICIACSJCXTE7J4EL22G7AZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/17/BBCICIACSJCXTE7J4EL22G7AZA/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 05:08:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLUSA3GN5JCNHHTANWTALDTHBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연평도 향하는 해병대원들. 기사 내용과는 무관한 사진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대에 복무하며 수개월 동안 후임병들에게 가혹 행위를 일삼았던 20대 남성에게 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;서울서부지법 형사6단독 김진성 판사는 위력행사가혹행위, 특수폭행, 폭행 혐의로 기소된 A(27)씨에게 지난 1월 징역 6개월에 집행유예 1년을 선고한 것으로 17일 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 2021년 초 경북 포항 소재 해병대 군수단에 복무하며 후임병들을 대상으로 폭언·폭행을 수차례 가한 혐의를 받는다. A씨의 가혹 행위는 그해 1월부터 4월까지 이뤄진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 괴롭힘은 2021년 1월 후임병 B(25)씨에게 처음 시작됐다. 당시 그는 B씨가 마음에 들지 않는다는 이유로 “그딴 식으로 할 거면 다 때려치우고 팬티까지 다 벗고 나가라”고 했다. 이에 B씨는 상의만 입은 채 생활관 문 앞 복도에서 약 10초 동안 서 있어야 했다.&lt;br&gt;&lt;br&gt;B씨에 대한 괴롭힘은 이후에도 계속됐다. 그해 2월 B씨가 소란스럽게 생활관 문을 열었다며 주먹으로 팔뚝을 때리는가 하면, 저녁 식사 식단을 외우지 못하자 허벅지를 꼬집기도 했다.&lt;br&gt;&lt;br&gt;A씨의 가혹 행위는 B씨에만 그치지 않았다. 그는 그해 2월 초 취침 시간이 되자 또 다른 후임병 C(24)씨에게 팔굽혀펴기와 윗몸일으키기 60개, ‘플랭크(맨몸 균형 운동)’ 자세 2분을 하게 했다.&lt;br&gt;&lt;br&gt;신체적 폭행도 이어졌다. A씨는 C씨 이마 부위를 손가락으로 가격하거나, 수통에 물을 채우지 않았다는 이유로 K-2 소총에 결합된 대검 끝 부분으로 복부를 여러 차례 찔렀다. 특히 C씨가 후임병인 B씨를 혼내지 않았다며 C씨 얼굴에 볼펜을 집어 던지기도 했다.&lt;br&gt;&lt;br&gt;이 밖에도 A씨는 “여기 누르면 아프냐”며 후임병 D(23)씨의 양쪽 허벅지를 10초가량 꼬집는 등 같은 중대 내 후임병들을 지속적으로 괴롭혔다.&lt;br&gt;&lt;br&gt;일부 피해자는 처벌불원 의사를 밝혔지만, 군형법상 영내 등 군사시설에서의 폭행은 반의사불벌죄가 적용되지 않아 배제됐다. 재판부는 “피고인이 범행을 인정하고 초범이다”면서도 “피해 회복이 충분히 이뤄지지 않았고 가혹 행위의 내용과 횟수가 적지 않다”고 양형 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2차 종합특검, ‘양평고속도로’ 의혹 원희룡 전 장관 출국금지</title>
       <link>https://www.chosun.com/national/court_law/2026/03/17/KE6OCULTMJC37ECAFS5CZWZA4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/KE6OCULTMJC37ECAFS5CZWZA4I/</guid>
@@ -944,24 +959,6 @@ jungho2035@gmail.com</media:credit>
       <description/>
       <pubDate>Tue, 17 Mar 2026 03:55:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZGEZDCGQZWEYRRGVTDMMTCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 항공사 기장이 자택 인근에서 흉기에 찔려 숨진 채 발견됐다. 경찰은 전 직장 동료를 용의자로 특정하고 행방을 쫓고 있다.&lt;br&gt;&lt;br&gt;17일 부산경찰청에 따르면, 이날 오전 7시쯤 부산 부산진구 한 아파트에서 50대 항공사 기장 A씨가 흉기에 찔려 숨진 채 발견됐다. 복도에 쓰러져 있는 A씨를 발견한 인근 주민이 112에 신고했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 함께 근무했던 전직 기장 50대 남성 B씨를 용의자로 특정하고 행방을 쫓고 있다. B씨는 2024년 퇴사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 이날 오전 5시 30분쯤 습격당한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;B씨는 또 지난 16일 새벽 경기 고양시 일산에서 기장 C씨를 상대로 목을 조른 뒤 도주한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 과거 함께 근무했던 조종사들에게 앙심을 품고 범행을 저지른 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “중대재해법 적용 기업 규모, 개별 공장 아닌 회사 전체로 봐야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/17/KHXTCHSMVFE4TG3B2ZVC5CW4EY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/KHXTCHSMVFE4TG3B2ZVC5CW4EY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQWCMRTMQZTIY3DMIYTSYLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여러 공장이나 지점을 운영하는 기업에 중대재해처벌법을 적용할 때는 사고 발생 사업장이 아닌 회사 전체 근로자 수를 기준으로 봐야 한다는 대법원의 첫 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 최근 중대재해처벌법 위반(산업재해치사) 등 혐의로 기소된 플라스틱 제조업체 대표 A씨에게 징역 3년을 선고한 원심 판결을 확정했다고 17일 밝혔다. 회사는 벌금 5억원이 확정됐다.&lt;br&gt;&lt;br&gt;지난 2022년 3월 이 회사 충남 서천 공장에서 근무하던 20대 근로자가 항온항습기에서 건조 작업을 하던 중 내부 폭발로 튕겨 나간 철문에 머리를 맞아 숨졌다. 조사 결과 공장에서는 폭발 위험이 있는 에탄올을 사용하면서도 폭발구가 없는 밀폐형 설비를 사용하는 등 안전 조치가 제대로 이뤄지지 않았던 것으로 나타났다.&lt;br&gt;&lt;br&gt;1심은 중대재해처벌법 위반 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을, 회사에는 벌금 1억원을 선고했다. 2심은 “서천 공장에 안전관리 시스템이 전혀 없다고 봐도 무방할 정도였다”면서 A씨에게 징역 3년의 실형을 선고하고 회사에 대한 벌금도 5억원으로 대폭 높였다.&lt;br&gt;&lt;br&gt;A씨와 회사 측은 2심 결과에 불복해 상고하면서 “사고가 벌어진 서천 공장은 중대재해처벌법 적용 기준이 되는 ‘상시 근로자 50명 이상 사업장’에 해당하지 않는다”고 주장했다. 2022년 사고 당시는 근로자 50명 미만 사업장에 대해선 중대재해처벌법 적용을 유예하고 있었다. 다만 본사와 다른 공장까지 포함하면 회사 전체 근로자 수는 50명 이상이었다.&lt;br&gt;&lt;br&gt;대법원은 이런 주장을 받아들이지 않고 “중대재해처벌법상 ‘사업 또는 사업장’은 사실상 ‘기업 단위’로 봐야 한다”고 판단했다. 대법원은 “본사와 여러 공장이 인사·노무관리나 재무·회계 등에서 독립적으로 운영되지 않고 하나의 기업으로 운영된다면, 특정 공장에서 사고가 발생했더라도 회사 전체 사업장의 근로자 수를 합산해 중대재해처벌법 적용 여부를 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이번 대법원 판결은 그동안 ‘주52시간제’나 연차 휴가 등과 관련된 근로기준법 판례에서 사용해 온 ‘경영상 하나의 기업으로 운영되는 경우 사업장을 하나로 본다’는 기준을 중대재해처벌법에도 적용한 첫 판례다.&lt;br&gt;&lt;br&gt;한편, 2024년 1월 27일부터 5인 이상 50인 미만 소규모 사업장에 대한 중대재해처벌법 유예 기간이 종료되면서 현재는 상시 근로자 5명 이상 모든 사업장에 전면 적용된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘매관매직’ 김건희 “일부 물품 수수했으나 대가성 없어”...특검, 이봉관 회장에 징역 1년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/17/V7EDEH6WRJE3BPIRP3FFQRTC74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/17/V7EDEH6WRJE3BPIRP3FFQRTC74/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 02:39:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI3YHLTDHBDUBGHOWOL75V6FAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이봉관 서희건설 회장과 김건희 여사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청탁을 대가로 각종 금품을 수수한 혐의(알선수재)를 받는 김건희 여사가 일부 물품을 수수한 사실은 인정하나 대가는 없었다고 17일 밝혔다. 민중기 특별검사팀은 이날 청탁금지법 위반 혐의를 받는 이 회장에게 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 조순표)는 김 여사의 ‘매관매직’ 의혹 사건 첫 공판기일을 진행했다. 이날 재판에는 검은 정장에 마스크를 착용한 김 여사가 출석했다. 함께 재판에 넘겨진 이 회장과 사업가 서성빈씨, 최재영 목사, 이배용 전 국가교육위원장도 재판장에 모습을 드러냈다.&lt;br&gt;&lt;br&gt;이날 재판에서 김 여사 측 변호인은 일부 물품은 수수한 게 맞으나 대가는 없었다고 공소사실을 부인했다. 김 여사 측은 “이 회장이 제공한 목걸이는 당선 및 취임 축하 선물”이라며 “이 회장이 새 정부와 좋은 관계를 맺기 위한 막연한 기대감에 준 것”이라고 했다. 그러면서 “박성근 전 국무총리 비서실장의 임명에 (김 여사는) 전혀 개입한 바가 없다”며 “목걸이도 돌려줬다”고 했다. 김 여사 측은 이날 재판에서 이 회장으로부터 받은 5560만원짜리 ‘반클리프앤아펠’ 목걸이 1개와 2610만원 상당의 ‘티파니앤코’ 브로치 1개는 돌려줬으나 2210만원 상당의 ‘그라프’ 귀걸이 1쌍은 분실해 돌려주지 못했다고 했다.&lt;br&gt;&lt;br&gt;김 여사 측은 이 전 위원장으로부터 5돈짜리 금거북이를 받은 것과 관련해 “친분 관계에 따른 사교적 선물”이라고 반박했다. 과거 김 여사가 이 전 위원장에게 고가의 화장품을 선물한 적이 있기에 이에 대한 답례 차원에서 금거북이를 선물한 것이라고 했다.&lt;br&gt;&lt;br&gt;서씨로부터 5000만원 상당의 ‘바쉐론 콘스탄틴’ 시계를 받았다는 공소사실에 대해선 “시계 구매 대행을 의뢰했을 뿐 로봇개 사업 관련 어떤 청탁도 받은 바 없다”고 부인했다. 김상민 전 부장검사로부터 받은 1억원 상당의 이우환 화백 그림에 대해서도 “청탁받은 사실이 없다. 그림을 언제, 어디서, 어떻게 수수했는지 전혀 특정이 안 된다”고 했고, 최 목사가 건넨 ‘디올백’은 “친분을 내세운 몰카 함정이고, 최 목사도 청탁과 무관하다고 주장한다”고 했다.&lt;br&gt;&lt;br&gt;이 회장 측은 공소사실을 모두 인정하며 이날 변론을 종결하길 희망한다고 밝혔다. 서씨 측은 공소사실을 전부 부인했고, 이 전 위원장도 “특검이 이 전 위원장에게 청탁금지법 적용이 어렵다는 것을 알고 갑자기 증거인멸 교사로 기소했다”며 “공소기각 판결을 받아야 한다”고 했다. 최 목사 측은 다음 기일에 공소사실에 대한 의견을 밝힐 예정이다.&lt;br&gt;&lt;br&gt;이날 재판에선 이 회장에 대한 특검 측 구형도 이뤄졌다. 특검 측은 “이 회장이 고령이고 점행을 자백했지만 고가 금품을 제공하고 이득을 취득하려 했다”며 “징역 1년을 선고해달라”고 했다. 이 회장은 이에 대해 “모든 게 잘못됐다”며 “깊이 반성한다. 선처해주시길 바란다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 김 여사와 서씨, 최 목사에 대한 재판과 이 전 위원장과 비서 박모씨, 운전기사 양모씨에 대한 재판은 분리해 진행할 계획이다. 김 여사 등에 대한 다음 재판은 오는 20일 열리며, 이 전 위원장에 대한 재판은 오는 26일 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] “檢 수사 지휘 후 구속” 유명 선글라스 브랜드 ‘젠틀몬스터’ 카피 의혹 블루엘리펀트 대표 재판행</title>
