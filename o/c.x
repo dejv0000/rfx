@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>노란봉투법 시행 9일, 하청노조 교섭요구 683건 접수</title>
+      <link>https://www.chosun.com/national/labor/2026/03/19/H7WEQC6Y7NBRXILCR4XRENLRQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/19/H7WEQC6Y7NBRXILCR4XRENLRQQ/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 05:43:44 +0000</pubDate>
+      <content:encoded>지난 10일 노란봉투법 시행 이후 9일간 하청 노조 683곳에서 원청 사업장을 상대로 교섭 요구를 한 것으로 나타났다. 하지만 대부분 원청이 자신이 ‘사용자’에 해당하는지 검토중인 상황이라 실제 교섭으로 이어진 곳은 극히 일부인 것으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4DQN3EGA2WEM3BHE2WCOJSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 조합원들이 10일 서울 종로구 세종대로 일대에서 열린 민주노총 투쟁 선포대회에서 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 국민의힘 김형동 의원실이 고용노동부에서 제출받은 자료에 따르면, 이날까지 683개 하청노조·지부·지회에서 원청 사업장 287곳을 상대로 교섭 요구를 한 것으로 확인됐다. 하청 노조에 소속된 조합원 수는 12만7019명이다.&lt;br&gt;&lt;br&gt;노조별로 보면 민주노총이 430건으로 가장 많았고, 한국노총 189건, 미가맹 64건 순이었다.&lt;br&gt;&lt;br&gt;하지만 아직 교섭 요구가 실제 협상으로 이어진 사례는 많지 않다. 하청 노조의 교섭 요구 사실을 공고하며 협상 절차에 나선 원청 사업장은 13곳에 그쳤다. 나머지 274곳은 하청 노조에 대한 사용자에 해당하는지 노동부에 자문을 요청하거나 자체 법률 검토 중인 단계로 알려졌다. &lt;br&gt;&lt;br&gt;결국 대부분 사건들은 노동위원회나 법원의 판단까지 거쳐야 할 가능성이 높다는 지적이 제기된다. 김 의원은 “교섭 요구는 급증했지만 실제 협상으로 이어지지 못하는 것은 고용노동부의 제도 설계와 준비 부족을 보여준다”며 “현장의 혼란을 최소화하기 위한 제도적 보완이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말까지 낮과 밤 기온차 20도 이상...초일교차 발생</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/19/IP5W5AMVPNDQRA3VPY5UM3J5QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/19/IP5W5AMVPNDQRA3VPY5UM3J5QM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 05:41:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTDMMDBG4ZWEMRUMI4DSNJVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일교차가 15도 안팎으로 크고 한낮 포근한 날씨를 보인 16일 서울 종로구 청계천에 산수유가 피어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말까지 낮과 밤의 기온이 20도가량 벌어지는 ‘초(超)일교차’가 발생할 것으로 예보됐다. 아침·저녁은 늦겨울처럼 춥고, 낮은 봄처럼 따스할 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 낮과 밤의 길이가 같아지는 절기상 춘분(春分)인 20일부터 주말인 21~22일까지 우리나라는 고기압 영향권에 들면서 전국이 대체로 맑을 것으로 예상됐다.&lt;br&gt;&lt;br&gt;다만 기온은 낮과 밤이 널뛰기를 할 것으로 보인다. 19일 꽃샘추위를 몰고 온 찬 공기가 잔류하면서 해가 떨어졌을 땐 춥고, 한낮에는 강한 일사에 의해 기온이 큰 폭으로 오르기 때문이다. 보통 우리나라에선 일교차가 크더라도 15도 내외에 그친다. 그런데 춘분을 기점으로 낮 동안 햇볕이 강해진 상황에서 찬 공기가 밤~아침 기온을 끌어내리며 일교차가 20도 내외까지 크게 벌어지는 것이다.&lt;br&gt;&lt;br&gt;20~21일 아침 최저기온은 영하 4~영상 7도, 낮 최고기온은 11~18도로 예보됐다. 22일에는 기온이 소폭 오를 전망이다. &lt;br&gt;&lt;br&gt;다음 주에는 반짝 추위가 풀리면서 기온이 다시 영상권을 회복할 것으로 보인다. 고기압 영향권 안에서 큰 추위 없이 기온이 차츰 오르겠고, 한낮 기온도 최고 19도까지 올라가며 봄의 복판에 들어설 전망이다. 내주 화요일인 24일 기압골의 영향으로 제주에 비가 예보된 것을 제외하면 이달 말까지 비 소식 없이 전국이 맑을 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구시교육청, 특수교사 300명 행동 중재 전문가로 키운다</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/19/ZATTNPGHQJC3ZKUTIURIUV56FY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/19/ZATTNPGHQJC3ZKUTIURIUV56FY/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 05:35:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTKMLGMJRGEMJRMY4GMNRTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시교육청이 올해부터 장애 학생 교육을 돕고 문제 행동을 예방하는 특수교육 행동 중재 전문가 300명을 양성한다&lt;br&gt;&lt;br&gt;19일 대구시교육청에 따르면, 지역 내 특수 교사 약 1200명 중 300명이 행동 중재 전문가 연수를 받는다. 행동 중재 전문가는 행동과 발달에 대한 이해를 바탕으로 학생의 성장과 변화를 지원하는 교사다. 특수 교사들이 장애 학생들의 문제적 행동을 지도해 더 긍정적인 행동을 할 수 있도록 돕는 ‘행동 중재’의 전문성을 높이기 위해 도입됐다.&lt;br&gt;&lt;br&gt;대구 지역 내 장애 학생은 매년 증가 추세다. 교육청에 따르면, 지난 2023년 5518명이던 장애 학생은 이듬해 5842명, 지난해 6173명으로 늘었다. 이 중 지적장애와 자폐성 장애 학생의 비율도 매년 증가해 지난해엔 80.5%에 달했다. &lt;br&gt;&lt;br&gt;대구시교육청 관계자는 “발달장애 학생이 늘면서 특수 교사들의 행동 중재 역량이 어느 때보다 절실해졌다”고 했다.&lt;br&gt;&lt;br&gt;대구교육청은 올해 1월 미국 국가표준협회(ANSI)가 인정한 공인 응용행동분석 자격인증위원회(QABA)에서 연수 기관으로 공식 승인을 받았다. 국제적으로 검증된 교육 과정을 기반으로 연수를 운영하기 위해서다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YWVWPYI3NHPDJB5CEDZZWVSBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아이를 교육하는 교사의 모습./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행동 중재 전문가에 지원한 특수 교사 300명은 이달 30일부터 2028년까지 최대 3년간 연수를 받는다. 1학기 연수는 대구특수교육원·대구이룸고·대구보명학교에서 실시한다. 학생의 다양한 행동을 이해하는 이론 과정부터 사례 중심의 행동 중재 실행을 위한 개인·그룹별 상담(컨설팅)도 병행한다. &lt;br&gt;&lt;br&gt;이와 별도로 영유아의 정서·심리·언어 발달을 지원하는 유아 맞춤형 발달 지원 사업도 추진된다. 올해부터는 발달 지원이 필요한 유아 외에도 다문화 가정 유아까지 대상에 포함된다. 언어 및 문화 차이로 인한 초기 적응을 지원하겠다는 취지다.&lt;br&gt;&lt;br&gt;강은희 대구교육감은 “행동 중재 전문성은 장애 학생의 의미 있는 성장을 이끄는 특수교사의 중요한 역량이며, 유아기 맞춤형 지원은 사회성과 언어발달의 기초를 다지는 과정”이라며 “모든 아이가 대구 교육 안에서 건강하고 안정적으로 성장하도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>글을 읽어도 이해가 안 된다면… ‘신문 필사’로 문해력 근육 키워볼까</title>
+      <link>https://www.chosun.com/national/education/2026/03/19/YGLHQYW3PBHYBCJCVKFALBEDUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/19/YGLHQYW3PBHYBCJCVKFALBEDUU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 05:35:30 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVHZEAUD6BBTHICLPEELFX3ZMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;조선일보 문헤력&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“챗GPT가 몇 초 만에 에세이를 뚝딱 써내지만, 막상 우리 아이는 교과서 문장조차 제대로 이해하지 못해요.”&lt;br&gt;&lt;br&gt;숏폼(짧은 영상)과 스마트폰에 매몰되는 청소년이 늘어나면서 긴 글을 읽고 논리적으로 사고하는 ‘문해력’이 퇴화하고 있다는 지적이 교육계에서 쏟아지고 있다. 본지가 연재 중인 기획 시리즈 ‘AI 시대, 문해력 위기’에서도 이에 대한 학부모와 교육 현장의 고민이 그대로 드러난다. &lt;br&gt;&lt;br&gt;교육 전문가들은 문해력을 키우는 첫걸음으로 정제된 문장을 손으로 직접 옮겨 적는 ‘필사(筆寫)’를 추천한다. 눈으로 읽을 때 놓쳤던 문장 구조와 어휘의 쓰임을 손끝으로 체감하며 읽기의 깊이를 더할 수 있기 때문이다. 필사는 단순히 글자를 옮겨 적는 행위가 아니라, 정제된 문장을 눈으로 읽고 손으로 익히며 필자의 사고 과정을 체득하는 문해력 훈련법으로 주목받고 있다.&lt;br&gt;&lt;br&gt;이러한 흐름에 맞춰 조선일보의 신문 기사로 구성된 책 ‘하루 10분, 글쓰기가 쉬워지는 신문 필사’가 한층 알찬 구성의 개정판으로 새롭게 독자들을 찾아왔다.&lt;br&gt;&lt;br&gt;이번 개정판은 본지에 실린 기사 112편을 수록해 독자들이 지루함 없이 매일 필사를 할 수 있도록 설계됐다. 독자들의 피드백을 반영해 명언, 짧은 단문, 생생한 사진 기사를 추가해 구성이 더욱 풍성해졌다.&lt;br&gt;&lt;br&gt;책은 짧은 문장에서 시작해 긴 호흡의 칼럼까지 단계별로 써 내려갈 수 있도록 구성돼 자연스럽게 글쓰기 실력을 길러준다. &lt;br&gt;&lt;br&gt;신문 필사는 활용도가 무궁무진하다. 논술 시험을 대비하는 중·고교생에게는 어휘력과 논리력을, 기업체 입사를 준비하는 취준생에게는 세련된 문장력을 선사한다. 보고서 작성에 난항을 겪는 직장인에게는 논리적 서술 기법을, 두뇌 훈련이 필요한 은퇴자에게는 최신 시사 상식과 치매 예방 효과를 동시에 제공한다.&lt;br&gt;&lt;br&gt;신문 기사 필사를 꾸준히 해온 한 독자는 “기사를 따라 쓰다 보니 그동안 무심코 넘겼던 뉴스 내용이 온전히 내 지식이 되는 경험을 했다”며 “글의 문맥을 파악하는 속도가 빨라지고, 나만의 관점이 생겼다”고 전했다. 하루 10분, 3개월간 꾸준히 필사하다 보면 단단한 ‘글쓰기 근육’과 함께 문해력에 대한 자신감이 붙을 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;본지 독자 20% 특별 할인 혜택&lt;/b&gt; &lt;br&gt;&lt;br&gt;‘하루 10분, 글쓰기가 쉬워지는 신문 필사’ 개정판은 교보문고, 예스24, 알라딘 등 온·오프라인 대형 서점에서 구매할 수 있다. 특히 본지 독자에게는 특별한 혜택이 제공된다. 조선리더스 홈페이지(members.chosun.com)에서 구매 시 정가(2만5000원)보다 20% 할인된 가격에 구입할 수 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲문의 : 1577-8585 (조선일보 독자서비스센터)&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 대법 전원합의체 “공범 재판에서 거짓 증언했다면 위증죄 처벌 가능”... 기존 판례 유지</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/19/TNKWPIULYZDR3IU3EYJL2LQJ2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/19/TNKWPIULYZDR3IU3EYJL2LQJ2Y/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 05:20:48 +0000</pubDate>
+      <content:encoded>함께 기소된 피고인들 중 한 사람이 재판 도중 증인 자격으로 법정에서 거짓 증언을 했다면 이를 위증죄로 처벌할 수 있다는 대법원 전원합의체 판결이 나왔다.&lt;br&gt;&lt;br&gt;대법원 전원합의체(주심 오경미 대법관)는 19일 사기 혐의 사건에서 공범이 범행을 지시했다고 허위 증언한 혐의(모해위증)로 기소된 A씨의 상고심에서 징역 1년에 집행유예 2년을 선고한 원심 판결을 상고 기각으로 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BUNELYXINCUXIIVRPM2NSAJHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 A씨가 공사 현장에서 설계도면과 다르게 시공했음에도 정상적으로 공사를 진행한 것처럼 사진을 조작해 제출하고 고양시청으로부터 공사대금을 받은 사건에서 비롯됐다. 당시 현장 공무부장이던 A씨와 회사 대표 최모씨가 사기 혐의 공범으로 함께 기소됐는데, 재판 도중 변론이 분리된 A씨는 증인 선서를 한 뒤 자신의 범행은 인정하면서도 사진 조작이 대표인 최씨 지시에 따른 것이라고 법정에서 증언했다. 그러나 법원은 A씨 진술을 믿기 어렵다며 A씨의 사기 혐의를 유죄로 인정하고 최씨에게는 무죄를 선고했다. 검찰은 최씨가 형사처벌을 받게 할 목적으로 A씨가 허위 증언을 했다며 모해위증 혐의로 별도로 기소했다. 1·2심은 A씨의 위증 혐의를 유죄로 판단해 징역형 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;대법원에서의 쟁점은 피고인이 변론이 분리된 재판에서 증인 자격으로 증언할 경우 위증죄를 적용할 수 있는지 여부였다. 형사재판에서 피고인은 자신의 방어를 위해 사실과 다른 진술을 하더라도 위증죄로 처벌되지 않는다. 국가가 범죄를 입증해야 한다는 원칙에 따라 피고인에게 자기에게 불리한 진술을 강요할 수 없기 때문이다. 반면 증인은 법정에서 선서를 한 뒤엔 진실을 말해야 할 의무가 있어 허위 증언을 하면 위증죄가 성립한다. 이 경우 피고인의 지위에서 방어권을 행사하는 것인지, 아니면 증인으로서 진실을 말할 의무를 부담하는 것인지가 법적으로 논란이 된 것이다.&lt;br&gt;&lt;br&gt;대법원은 그간 변론이 분리된 피고인이 증인 자격으로 거짓 증언을 했다면 위증죄가 성립한다고 봐왔다. 이날 선고에서도 “증인의 개념과 형사소송법상 증인의 자격에 비춰보면, 법률에 다른 규정이 없는 한 당사자인 피고인을 제외한 제3자는 누구나 증인이 될 수 있다”며 “공범인 공동 피고인이라 하더라도 소송 절차가 분리됐다면 다른 피고인의 소송 절차에선 더 이상 피고인 지위에 있지 않아 증인이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 대법원은 “공범인 공동 피고인을 증인으로 인정할 현실적 필요성도 있다”고 강조했다. 마약·전기통신 금융 사기 등 여러 명이 조직적으로 범죄를 저질렀을 경우 공범의 진술이 핵심 증거인 경우가 많다는 것이다. 대법원은 “공범인 공동 피고인에게 진실을 말할 의무를 부과하고, 위증 처벌 경고를 명확히 한 다음 증인신문을 하는 것이 피고인 신문보다 적합하다”고 했다. 피고인 신문은 별도의 증인 선서를 하지 않고, 증언을 거부할 권리도 있다.&lt;br&gt;&lt;br&gt;다만 오경미 대법관은 이러한 전원합의체 판단에 반대한다는 의견을 내놓았다. 오 대법관은 “소송 절차가 일시적으로 분리된 경우, 공범인 공동 피고인이 자신의 혐의 사실에 대한 질문을 받고 진술한 부분에 대해서는 증인 적격을 인정할 수 없고, 허위 진술을 했더라도 위증죄로 처벌할 수 없다”고 했다. 이어 오 대법관은 “형사소송 절차에서 피고인과 증인은 별개의 지위로 봐야 해, 피고인인 동시에 증인인 경우는 성립할 수 없다”며 “단지 일시적인 소송 절차 분리만으로 공범인 공동 피고인이 온전히 제3자가 된다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 오 대법관은 “적어도 ‘자신의 혐의 사실과 관련한 질문’에 대해서는 피고인 지위를 실질적으로 유지한다고 봐야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “공범인 공동 피고인의 증인 적격에 대해 여러 논의가 계속돼 왔다”며 “현재의 판례 법리는 여전히 타당하다는 점을 확인한 데 의의가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대병원, 환자 1만6000명 산모·신생아 진료 기록 메일 유출</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/19/XJRY6OBBERFNHMSWEKKZRYDYRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/19/XJRY6OBBERFNHMSWEKKZRYDYRQ/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 05:32:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHPYTR3LWNCOTKDH4TRNUBYVYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대병원 홈페이지에 올라온 개인정보 유출 관련 안내문. /서울대병원 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교병원에서 환자 1만6000여명의 진료 기록이 이메일 오발송으로 외부로 전달되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울대병원은 19일 홈페이지를 통해 개인정보 유출 사실을 공지했다.&lt;br&gt;&lt;br&gt;병원에 따르면 지난 14일 오후 2시 7분쯤 직원 간 메일 발송 과정에서 수신자 주소를 잘못 입력해 외부 수신자 1명에게 환자 진료 기록이 잘못 전송됐다.&lt;br&gt;&lt;br&gt;해당 메일에는 산모 이름과 산모·신생아 환자 번호, 산모 생년월일, 키·체중 등 기본 정보와 산과력, 태아 및 신생아 성별, 검사 및 의학적 결과 정보 등이 포함된 것으로 나타났다.&lt;br&gt;&lt;br&gt;다만 주민등록번호와 휴대전화번호는 포함되지 않아 개인을 직접 특정할 수 있는 정보는 아니라고 병원 측은 설명했다.&lt;br&gt;&lt;br&gt;서울대병원은 “직원의 신고로 유출 사실을 확인했으며, 시스템상 해당 메일은 수신자가 열람하지 않은 상태로 확인됐다”며 “사고 인지 직후 수신자에게 메일 삭제를 요청하고 메일 운영자에게도 연락하는 등 추가 확산 방지 조치를 했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “관련 법령에 따라 개인정보보호위원회와 교육부에 신고하고, 유출 대상자에게 개별 통지했다”며 “현재 정확한 경위를 확인 중이며 재발 방지를 위해 내부 관리 체계를 강화할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구자용 E1 회장, 제21대 한국발명진흥회장 취임</title>
+      <link>https://www.chosun.com/national/people/2026/03/19/LFWUNEWAZJE7VLD4Q5GUQSZRWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/19/LFWUNEWAZJE7VLD4Q5GUQSZRWE/</guid>
+      <dc:creator>송혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 05:11:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWQOABKXLBCX7CDXTQNPHX52FY.png"&gt;&lt;figcaption&gt;&lt;small&gt;구자용 한국발명진흥회장/한국발명진흥회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구자용 E1 회장이 19일 특허청 산하 한국발명진흥회 제21대 회장으로 취임했다.&lt;br&gt;&lt;br&gt;이날 서울 강남구 한국지식센터에서 열린 취임식에서 구 회장은 “기업 현장에서 좋은 아이디어가 신기술이 되고, 이것이 국가 경쟁력으로 이어지는 것을 직접 체험해 왔다”며 “현장과 적극적으로 소통하고 진흥회 임직원이 역량을 충분히 발휘할 수 있도록 든든한 동반자가 되겠다”고 했다. &lt;br&gt;&lt;br&gt;한국발명진흥회는 발명 교육과 기업 지식재산 역량 강화, 창업 지원을 수행하는 공공기관이다. 1973년 설립됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>금연 2년만 지나도 폐암 위험 24%↓ ... “지금 당장 금연 시작해야”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/03/19/NJM5NKEIGVFXPHJBEKHOC4BEGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/19/NJM5NKEIGVFXPHJBEKHOC4BEGA/</guid>
@@ -804,33 +867,6 @@
       <content:encoded>오는 21일 예정된 BTS 콘서트로 인해 인천공항으로 입국하는 외국인 관광객이 급증할 것으로 예상되는 가운데, 법무부가 ‘특별 입국심사 대책’을 시행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLIIYPRHQBEN3A5ZPFXKXLGZOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 법무부에 따르면, 특별 입국심사 대책의 주요 내용은 △출입국심사관 조기 출근 및 연장 근무 △혼잡시간대 非심사 부서 입국심사 지원 △도착 승객 안내 강화 등이다. 이 대책은 이날부터 즉시 시행된다.&lt;br&gt;&lt;br&gt;법무부는 이번 대책 시행으로 외국인 승객 도착이 집중되는 구역과 시간대에 ‘유인 입국심사대’가 늘어나 입국심사 대기시간이 단축되는 효과가 있을 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;한편 법무부는 오는 19일 출입국외국인·정책본부장 주재로 인천공항 혼잡도를 개선하기 위한 관계기관 회의도 개최할 예정이다. 이번 회의에는 법무부, 국토교통부, 인천공항출입국·외국인청, 인천공항공사 관계자들이 참석해 인천공항 혼잡 상황을 공유하고 출입국심사 개선 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이상민 “1심서 증명 안 된 특검 주장 너무 쉽게 받아들여”… 항소심서 반박</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/QR3SYSMSE5DTVIWTI2XL7WI7GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/QR3SYSMSE5DTVIWTI2XL7WI7GE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 08:50:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4TGMBVMY2DGMDGHEYDCMJXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 소방청 등에 특정 언론사 단전·단수를 지시한 혐의로 1심에서 징역 7년을 선고받은 이상민 전 행정안전부 장관이 항소심에서 “1심은 확인되거나 증명되지 않은 특검의 상상과 추측에 근거한 일방적 주장을 너무 쉽게 받아들였다”고 주장했다.&lt;br&gt;&lt;br&gt;이 전 장관은 18일 서울고법 형사1부(재판장 윤성식) 심리로 열린 내란 중요 임무 종사 등 혐의 사건 항소심 첫 공판에서 “특검이나 피고인이나 대등한 당사자에 불과한데도, (1심 재판부가) 쌍방 주장을 균형 있게 듣지 않고 특검의 일방적 주장에 너무 무게를 둔 것 아닌가 하는 아쉬움이 있다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이 전 장관은 또 형법상 내란죄의 구성 요건인 ‘국헌 문란 목적’에 대한 엄격한 판단을 재판부에 요청했다. 그는 “국헌 문란 목적에 대해 엄격하게 심사하지 않으면 단순 시위나 집회도 얼마든지 내란으로 몰아갈 위험이 있다”며 “상식적 차원에서 과연 국무위원들이 국헌 문란 목적을 가질 수 있는지 고민해 달라”고 했다.&lt;br&gt;&lt;br&gt;변호인도 이 전 장관에게 국헌 문란 목적이 없었다고 주장했다. 변호인은 “공동정범이라도 형법상 개별책임주의 원칙에 따라 당사자별로 국헌 문란 목적을 별도로 판단해야 한다”며 “이 전 장관의 구체적 행위는 조지호 전 경찰청장과 허석곤 전 소방청장과의 두 차례 통화에 불과하고, 그 시점에는 국회 봉쇄 상황을 전혀 인식할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;변호인은 또 “계엄 선포가 위헌·위법임을 명확히, 즉시 알 수 있는 상황이 아니라면 공무원은 대통령의 권한 행사를 존중해 적법 행위로 추정하고 대응할 수밖에 없다”며 “향후 대통령이 계엄을 선포했는데 군인들이 ‘실제척 요건에 맞는가’ ‘국무회의를 거쳤나’를 따진다면 당나라 군대가 된다”고 했다.&lt;br&gt;&lt;br&gt;반면 특검 측은 1심에서 무죄가 선고된 이 전 장관의 직권남용 혐의가 유죄로 인정되어야 한다고 주장했다. 1심 재판부는 이 전 장관이 계엄 당일 윤 전 대통령으로부터 언론사 단전·단수 등 지시를 받고 허석곤 당시 소방청장에게 협조를 지시한 사실은 인정하면서도, 의무 없는 일을 하게 했다고 볼 순 없다며 직권남용 혐의를 무죄로 판단했다.&lt;br&gt;&lt;br&gt;특검 측은 이에 대해 “이 전 장관의 지시로 당시 허 소방청장이 이영팔 소방청 차장을 통해 황기석 서울소방재난본부장에게 지시 하달을 목적으로 전화했다”며 “직권남용 행위가 없었다면 청장이 서울소방재난본부장에게 연락하지 않았을 것”이라고 주장했다. 또 일선 소방서에서 단전·단수 준비 태세를 갖추는 등 의무 없는 일의 결과가 실제로 발생했다고 강조했다.&lt;br&gt;&lt;br&gt;특검 측은 단전·단수 지시가 실제 이행되지 않은 점에 대해서도 “시민의 저항과 군·경의 소극적 대응 때문이지 피고인에게 유리하게 참작할 사안이 아니다”라고 했다. 이어 공범인 한덕수 전 국무총리가 징역 23년, 조지호 전 경찰청장이 징역 12년을 선고받은 점을 들어 이 전 장관의 1심 형량이 지나치게 가볍다고 주장했다.&lt;br&gt;&lt;br&gt;한편, 항소심 재판부는 이 전 장관 측이 신청한 윤석열 전 대통령과 박성재 전 법무부 장관을 증인으로 채택했다. 윤 전 대통령은 4월 9일, 박 전 장관은 같은 달 15일 증인 신문이 진행된다. 한덕수 전 국무총리에 대한 증인 신청은 보류됐다.&lt;br&gt;&lt;br&gt;재판부는 한 전 총리 신문 없이 절차를 마무리할 경우 4월 15일 변론을 종결하겠다고 밝혀, 이르면 이날 결심이 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특사경, 교통사건 10건 중 3건 공소시효 만료...檢 지휘권 폐지에 “수사공백 우려”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/W27GX6FJCRGM7IEJ75BXPSLOH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/W27GX6FJCRGM7IEJ75BXPSLOH4/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 08:35:09 +0000</pubDate>
-      <content:encoded>더불어민주당과 청와대, 정부가 합의한 ‘공소청·중대범죄수사청(중수청)법’ 최종안에 특별사법경찰관(특사경)에 대한 검사의 지휘권이 빠지면서, 법조계에서는 금융·환경·노동 등 전문성이 필요한 분야의 수사 공백 우려가 커지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZBSSJOHFNBURAIOG54DQVFHGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 인천시 특별사법경찰관이 배달전문 음식점을 단속하고 있다 /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 공봉숙 서울고검 검사는 검찰 내부망(이프로스)에 올린 글에서 “복잡한 수사절차를 형사소송법이나 수사실무를 접해본 적도 없고 1~2년에 한 번씩 자리를 옮기는 공무원(특사경)들이 ‘독자적으로’ ‘제대로’ 해낼 수 있을까”라며 “구청에서 수백 건씩 공소시효를 넘기고 방치해도 이제는 아무도 모르게 생겼다”고 했다. 특사경은 금융·환경·노동 등 전문성이 필요한 분야 수사를 담당하는 당국의 공무원이다. 특사경 규모는 지난해 기준 2만1263명에 이른다. &lt;br&gt;&lt;br&gt;실제 법무부 등에 따르면, 대구지검 의성지청이 2023년 3월 경북 의성·청송·군위군청 소속 특사경 담당 사건을 전수 점검한 결과, 교통 특사경이 담당하는 자동차손해배상보장법 위반 사건에서 공소시효가 만료된 사례는 286건에 달했다. 이는 당시 이 지역 교통 특사경이 수사한 전체 사건의 32.3%에 해당한다.&lt;br&gt;&lt;br&gt;공 검사는 또 “검사 생활을 하며 만난 특사경 실무자들의 99%가 수사 능력과 관련한 어려움을 호소했다”면서 “이제 검사 지휘도 없이 독자적으로 수사를 해야 하는데, 법왜곡죄로 고소·고발까지 받게 돼 특사경 일선의 어려움이 한층 가중될 것”이라고 강조했다.&lt;br&gt;&lt;br&gt;국무총리 산하 검찰개혁추진단 자문위원인 정지웅 변호사도 이날 소셜미디어를 통해 “특사경에 대한 검사의 지휘·감독을 몽땅 지우면서 그 자리를 무엇으로 채울지에 대해 사실상 아무 대책이 없다”며 “위법수사, 부실수사, 선별수사에 대한 안전장치를 통째로 비워둔 채 검찰 수사 배제만 외치는 건 개혁이 아니라 위험한 정치적 실험”이라고 했다. &lt;br&gt;&lt;br&gt;전날 국회 법제사법위원회 법안심사1소위원회에 출석한 이진수 법무부 차관은 “특사경은 행정 업무에 종사하는 공무원으로, 사법 절차에 있어선 전문성이 약할 수밖에 없다”며 “검사가 인권침해적 요소를 방지하고 효율적인 수사를 진행할 수 있도록 특사경에 대해 협조·감독을 강화할 수 있는 방향으로 (법안을) 설계하는 것이 바람직하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교도관도 경찰·소방관처럼 국립묘지 안장하도록... 법무부, 국립묘지법 개정 논의</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/E45QOPRP4VARBPO2PNUZYGOFYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/E45QOPRP4VARBPO2PNUZYGOFYA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 07:14:49 +0000</pubDate>
-      <content:encoded>법무부가 교도관들도 국립묘지에 안장될 수 있도록 법 개정이 필요하다는 목소리를 국가보훈부에 전달했다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MAVKLVD62VPABJ7JK2CZVNUHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권오을(맨 오른쪽) 국가보훈부 장관이 18일 경기 과천시 법무부를 방문해 정성호(맨 왼쪽) 법무부 장관과 친일재산귀속법 재제정안 입법을 위한 정책 협조 논의를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 정성호 법무부 장관은 권오을 국가보훈부 장관을 만나 ‘국립묘지의 설치 및 운영에 관한 법률(국립묘지법)’ 개정 필요성을 논의했다. 법무부는 “이번 면담에서 교정 공무원이 단순한 수형자 관리 업무를 넘어, 사회질서와 인권, 재활을 동시에 책임지는 사회방위의 핵심 축이라는 데 양 기관이 인식을 같이했다”고 전했다.&lt;br&gt;&lt;br&gt;법무부는 “교정공무원은 평시에는 수형자의 교정·교화 업무를 수행하는 한편, 비상상황 시에는 국가안보 체계의 일원으로 기능하고 있다”면서 “폐쇄된 환경에서 24시간 수용자를 관리하는 고위험·고강도 직무를 수행하여 공공기여도가 매우 높은 직군”이라고 했다.&lt;br&gt;&lt;br&gt;현행 국립묘지법은 경찰·소방공무원이 30년 이상 재직 후 정년퇴직할 경우 국립호국원에 안장될 수 있도록 규정한다. 하지만 교정 공무원의 경우, 교정업무 수행 중 순직한 경우에만 국립묘지에 안장하도록 돼 있다. 이런 탓에 “교도관들도 경찰관이나 소방관과 맞먹는 예우가 필요하다”는 지적이 제기돼 왔다.&lt;br&gt;&lt;br&gt;정 장관은 “교정공무원은 국가형벌권 집행을 담당하며 국민의 생명과 안전을 지키는 대표적인 제복공무원”이라며 “그 희생과 헌신에 걸맞은 예우가 이루어질 수 있도록 관계부처와 공감대를 형성하고 긴밀히 협의해 나가겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>만원짜리 군밤 샀는데 돌멩이 3개… “거스름돈도 안줘”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/18/6BCY37633VDRHIXX7PQMQOROIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/18/6BCY37633VDRHIXX7PQMQOROIM/</guid>
@@ -838,15 +874,6 @@
       <description/>
       <pubDate>Wed, 18 Mar 2026 07:24:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZUV76SLIBF5VNOSMF2DXVJSDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;매화축제 현장에서 구매한 군밤 봉지에 돌멩이가 들어있다. /스레드 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 광양시의 매화축제장 인근 불법 노점에서 돌멩이가 들어 있는 군밤을 판매했다는 글이 온라인상에 확산돼 지자체가 긴급 점검에 나섰다.&lt;br&gt;&lt;br&gt;앞서 한 관광객은 지난 14일 소셜미디어 스레드에 “군밤을 샀는데 무게가 가벼워서 영상을 찍었다. 돌이 3개 들어 있더라”며 “축제에 가서 무언가 사려면 꼭 확인하고 사라. 당일 투어로 시간이 촉박해서 따지지 못했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “군밤이 1만원이라 6000원권 지역 상품권 두 장 줬더니 거스름돈이 없다고 하더라”라고 주장했다.&lt;br&gt;&lt;br&gt;이에 네티즌들은 “광양 시민으로서 대신 사과드린다. 정말 불쾌하셨겠다” “축제 기간 지역 상품권도 화폐랑 마찬가지인데 거스름돈을 안 주는 것은 말이 안 된다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;“바람에 봉지가 날아갈까 봐 돌을 넣어둔 전시용 상품으로 잘못 준 것 같다” 등 판매자의 실수인 것 같다는 추측도 있었다.&lt;br&gt;&lt;br&gt;논란이 확산하자 광양시는 축제장 주변 불법·불공정 상행위에 대한 단속을 지속적으로 강화할 것이라고 밝혔다. &lt;br&gt;&lt;br&gt;시는 건축·도로·농지·산림·식품 등 5개 분야에 걸쳐 53명을 투입해 단속 활동을 하고, 위반 행위 발견 시 시정하지 않으면 고발이나 행정 처분하기로 했다.&lt;br&gt;&lt;br&gt;광양시 측은 “축제 이미지가 훼손되지 않도록 사실관계를 확인해 필요한 조치를 하겠다”며 “남은 축제 기간에도 현장 점검 단속을 강화해 관광객 불편을 최소화하겠다”고 했다.&lt;br&gt;&lt;br&gt;광양 매화축제는 지난 13일 다압면 매화마을 일대에서 개막해 22일까지 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘통일교 청탁’ 윤영호, 내달 27일 항소심 선고</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/ZXSZ6OB2IZADRPDGBKI26FOKUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/ZXSZ6OB2IZADRPDGBKI26FOKUY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 07:29:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4WEMTGGM2DQOBTMI4GGNJQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤영호 전 세계평화통일가정연합(통일교) 세계본부장이 지난해 7월 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치권에 통일교 현안을 청탁하고 금품을 건넨 혐의로 기소돼 1심에서 실형을 선고받은 윤영호 전 통일교 세계본부장의 항소심이 다음 달 마무리된다.&lt;br&gt;&lt;br&gt;서울고법 형사6-1부(재판장 김종우)는 18일 청탁금지법·정치자금법 위반 및 업무상 횡령 혐의를 받는 윤씨의 항소심 첫 재판을 진행하고 다음 달 27일 판결을 선고하겠다고 밝혔다. 재판부는 이에 앞서 다음 달 3일 ‘건진 법사’ 전성배씨 등에 대한 증인 신문과 피고인 신문, 결심 절차를 한꺼번에 진행해 변론을 종결하기로 했다.&lt;br&gt;&lt;br&gt;윤씨는 2022년 전씨를 통해 김건희 여사에게 명품 가방과 목걸이 등을 건네고, 2021년 권성동 국민의힘 의원에게 불법 정치자금 1억원을 전달한 혐의를 받고 있다. 이 금품을 마련하기 위해 통일교 자금을 횡령한 혐의도 받는다. 앞서 1심은 윤씨 혐의 대부분을 유죄로 인정해 징역 1년 2개월을 선고했다. &lt;br&gt;&lt;br&gt;다만 윤씨가 한학자 통일교 총재의 불법 원정 도박에 관한 경찰 수사 연락을 받고 도박 자금 출처에 관한 증거를 삭제하라고 지시한 혐의(증거인멸 교사)에 대해 1심 재판부는 “특검 수사 대상이 아니다”라며 공소를 기각했다. 민중기 특별검사팀과 윤씨 모두 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;특검팀은 이날 “증거인멸 교사 혐의 역시 특검법상 수사 대상에 해당한다”며 공소 기각을 취소해야 한다고 주장했다. 또 “통일교의 정치 개입 등 범행의 중대성을 고려하면 원심 형량은 지나치게 가볍다”고 했다.&lt;br&gt;&lt;br&gt;반면 윤씨 측은 “이번 사건 압수수색 영장은 ‘김건희 여사에게 고가의 선물을 제공했다’는 청탁금지법 위반 혐의를 전제로 발부된 것”이라며 “그런데 이를 근거로 권성동 의원에게 1억원을 건넨 정치자금법 위반 부분까지 확장해 증거를 사용한 것은 관련성을 벗어났기 때문에 위법”이라고 주장했다. 또 “이 사건은 윤씨 개인의 이익이 아니라 통일교의 교세 확장과 사업을 위해 한 총재 등 승인을 받아 이뤄진 지출로, 개인적 이익을 취하려는 의도가 없었다”며 횡령 혐의를 부인했다. &lt;br&gt;&lt;br&gt;이날 함께 진행된 보석 심문에서 윤씨는 “교단이 책임을 떠넘기며 가족까지 압박하고 있다”며 “충분한 방어권 행사를 위해 보석이 필요하다”고 호소했다. 특검은 증인 회유와 도주 우려 등을 들어 반대했다. 보석 여부는 추후 결정될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“비상구 막혔다” 소공동 캡슐호텔, 사전 징후 있었다</title>
@@ -867,15 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3DEOBVMQ2WGM3GME4DQYTFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중증 발달장애인 거주 시설 '색동원' 내 입소자들을 성적으로 학대한 의혹을 받는 시설장 A씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 중증 장애인 거주 시설 ‘색동원’을 운영하며 장애인을 성폭행한 혐의를 받는 시설장 A씨가 법원에 구속을 취소해달라고 요청했으나 19일 기각됐다. 김씨는 계속 구치소에 수감된 상태로 수사를 받게 된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소1-2부(재판장 안희길)는 이날 성폭력처벌법 위반(강간 등 상해) 혐의를 받는 A씨의 구속적부심 심문을 진행한 뒤 “청구 이유가 없다”며 기각 결정을 내렸다. 구속적부심은 피의자가 구속 필요성을 다시 따져달라고 청구하면 법원이 심사하는 절차다.&lt;br&gt;&lt;br&gt;A씨는 생활 지도 등을 명목으로 여성 장애인들을 성폭행하거나 유사 성행위를 강요한 혐의를 받고 있다. 수사 기관이 인천 강화군에서 제출받은 ‘심층 조사 보고서’에는 여성 장애인 17명 전원과 퇴소자 2명 등이 A씨에게 성폭력을 당했다는 내용이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 색동원 내 추가 범행 여부를 확인하기 위해 시설 종사자 전원과 입·퇴소자를 상대로 전수 조사를 진행 중이다. 2008년 개소 이후 색동원을 거쳐 간 장애인 87명과 종사자 240명이 대상이다. &lt;br&gt;&lt;br&gt;김씨는 지난달 19일 경찰에 구속됐고 같은 달 27일 서울중앙지검에 구속 송치됐다. 앞서 서울중앙지법 남세진 영장 전담 부장판사는 A씨에 대해 “증거인멸과 도망 염려가 있다”며 구속영장을 발부했다. A씨는 “성폭행은 절대 없었다. 장애인이 음란 행위를 해서 그런 소견이 나온 것 같다”며 혐의를 전면 부인하는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>새벽 3시 픽시 자전거 타면서 소란 피운 중학생들…경찰, 방임 혐의로 ‘부모’ 입건</title>
-      <link>https://www.chosun.com/national/incident/2026/03/18/ZPSFK6KKH5G5HGCDFGMZ4327PU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/18/ZPSFK6KKH5G5HGCDFGMZ4327PU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 06:27:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KM63K75SGRAVFPP4UM2UL7S6M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자전거, 개인형 이동장치 단속 현수막./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 픽시 자전거를 타면서 소란을 피운 중학생들의 부모가 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;인천 남동경찰서는 아동복지법상 방임 혐의로 40대 여성 A씨와 50대 남성 B씨를 각각 입건했다고 18일 밝혔다. A씨는 소란을 피운 중학생 C군의 엄마이고, B씨는 중학생 D군의 아빠인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨와 B씨는 이날 오전 3시 18분쯤 인천 남동구 간석동의 한 도로에서 중학생 자녀들이 픽시 자전거를 타면서 욕설을 하거나 크게 노래를 부르는 등 소란을 피우는 것을 방임한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;“청소년들이 밤에 시끄럽게 한다”는 신고를 받고 출동한 경찰은 픽시 자전거를 타고 다니던 10대 중학생 8명을 붙잡아 이 가운데 과거 위험 운전 등으로 수차례 적발된 적이 있는 C군과 D군의 보호자를 입건했다. 경찰은 앞서 지난 9일 A씨를 같은 혐의로 입건하고, B씨에 대해선 경고하며 자녀를 선도해 줄 것을 권고했다. &lt;br&gt;&lt;br&gt;경찰은 C군 등과 함께 붙잡힌 나머지 중학생 6명에 대해선 보호자에게 인계하며 경고 조치했다. 소속 학교엔 선도 조치를 요청할 예정이다. &lt;br&gt;&lt;br&gt;C군 등이 붙잡힌 주변 지역엔 초·중·고등학교 4곳이 밀집해 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “학교 주변 지역을 대상으로 픽시 자전거 등에 대한 단속을 강화할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;경찰청은 지난달 “청소년 무면허 킥보드 등 개인형 이동 장치(PM), 픽시 자전거 도로 주행과 같은 불법 행위를 단속하고, PM 공유 업체와 학부모에 대한 수사도 강화하겠다”는 입장을 나타냈다. &lt;br&gt;&lt;br&gt;픽시 자전거는 뒷바퀴에 있는 기어가 고정돼 있어 페달을 멈추면 뒷바퀴도 함께 멈춘다. 다리 힘으로 페달 회전을 억제해 속도를 줄이는 ‘스키딩’ 등 기술이 가능하고, 바퀴와 안장 등을 취향에 따라 바꾸는 이른바 커스텀도 가능해 청소년들에게 인기가 있다. 브레이크를 달지 않는 경우가 많아 타는 사람은 물론, 주변 사람들까지 위험하게 한다는 지적을 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘미공개 정보 이용 의혹’ 레인보우로보틱스 압수수색</title>
       <link>https://www.chosun.com/national/national_general/2026/03/18/2BU4H2SXWJDXBCZPPNALBPKUN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/18/2BU4H2SXWJDXBCZPPNALBPKUN4/</guid>
@@ -883,24 +901,6 @@
       <description/>
       <pubDate>Wed, 18 Mar 2026 06:16:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRDIOJYGUYWCNZVG5RDKOBQGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방검찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 로봇 전문 기업 ‘레인보우로보틱스’ 관계자들이 삼성전자 자회사로 편입되는 과정에서 미공개 정보를 이용해 부당이득을 얻었다는 의혹에 대해 검찰이 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 서울남부지검 금융·증권범죄합동수사부(부장 신동환)는 이날 대전 유성구 레인보우로보틱스 본사 등에 대해 압수수색을 진행하고 있다.&lt;br&gt;&lt;br&gt;앞서 금융위원회 증권선물위원회는 지난달 레인보우로보틱스 이모 대표와 방모 전 최고재무책임자(CFO) 등 16명을 자본시장법 위반(미공개 정보 이용) 혐의로 검찰에 고발·수사 의뢰했다.&lt;br&gt;&lt;br&gt;이들은 삼성전자가 지난 2022~2024년 레인보우로보틱스의 지분을 인수하는 과정에서 미공개 내부 정보를 이용해 30억~40억원대 부당이득을 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;레인보우로보틱스는 휴머노이드 로봇 ‘휴보’를 개발한 카이스트 연구진이 설립한 로봇 전문 기업으로 2024년 12월 삼성전자 자회사로 편입되며 주가가 크게 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘공천 헌금 1억’ 김경-강선우 前 보좌관 대질 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/7NUQTNXCWZEL7O5DA3NC7FX6OA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/7NUQTNXCWZEL7O5DA3NC7FX6OA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 06:37:22 +0000</pubDate>
-      <content:encoded>2022년 지방선거를 앞두고 공천을 대가로 1억원을 주고받은 혐의로 송치된 김경 전 서울시의원과 강선우(무소속·서울 강서갑) 의원의 전 보좌관 A씨가 18일 검찰에서 대질 신문을 받는다. &lt;br&gt;&lt;br&gt;양측의 진술이 엇갈리고 있는 만큼, 검찰은 사실관계 확인을 위해 두 사람이 직접 얼굴을 맞대고 동시에 조사를 받는 절차를 진행하는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYTGZRQGQYTGY3GMYZWINZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'1억원 공천 헌금' 의혹을 받고 있는 강선우 무소속 의원(왼쪽)과 김경 전 서울시의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 이날 오후 청탁금지법 및 정치자금법 위반 등 혐의를 받는 김씨와 A씨를 불러 대질 신문을 진행한다. 김씨는 이번이 세 번째 검찰 조사고, A씨는 처음이다. &lt;br&gt;&lt;br&gt;김씨는 더불어민주당 서울시의원 후보로 공천받기 위해 2022년 1월 서울 용산구 하얏트호텔에서 강 의원에게 1억원이 든 쇼핑백을 건넨 혐의를 받는다. A씨는 두 사람의 만남을 주선하는 등 돈이 오가는 과정에 관여한 혐의를 받고 있다. 김씨는 이후 강 의원의 지역구인 서울 강서구에 민주당 서울시의원 후보로 단수 공천돼 당선됐다.&lt;br&gt;&lt;br&gt;앞서 경찰 수사 단계에서도 김씨와 A씨의 대질 조사가 추진됐지만 합의가 이뤄지지 않아 무산된 것으로 알려졌다. 검찰은 이번 대질 신문을 통해 돈이 오간 경위와 청탁 내용 등 사실 관계를 구체적으로 확인할 방침이다.&lt;br&gt;&lt;br&gt;검찰은 이날 오전 10시부터 강 의원도 불러 조사하고 있다. 지난 16일 첫 조사에 이어 이틀 만이다. 김씨는 “강 의원 측이 1억원과 쪼개기 후원을 먼저 요구했다”는 입장이지만, 강 의원은 “김씨가 먼저 돈을 건넸고, 이를 돌려받는 것도 피했다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;두 사람의 진술이 엇갈리는 가운데, 검찰은 강 의원과 김씨 간의 대질 신문도 검토하고 있는 것으로 전해졌다. 다만 두 사람 중 한 명이라도 거부하면 성사되지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“반차 내라더라” BTS 공연 불똥...직장인들 ‘연차 강요’ 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/18/JXCNPKLQ5BF37AW35OLH23CSCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/18/JXCNPKLQ5BF37AW35OLH23CSCI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 05:54:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YTQZTEGI4GGZLEGY2WKMRVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문광장 주변 건물에 BTS 컴백 관련 광고가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방탄소년단(BTS) 공연을 앞두고 일부 기업에서 직원들에게 연차 사용을 사실상 강제했다는 제보가 잇따르면서 노동법 위반 논란이 제기되고 있다.&lt;br&gt;&lt;br&gt;18일 직장갑질119에 따르면 “공연으로 회사 문을 닫는다며 금요일 오후 전 직원 반차 사용을 지시받았다” “공연 당일 출근하지 말라는 통보를 받았다”는 등의 상담이 최근 잇따라 접수됐다.&lt;br&gt;&lt;br&gt;현행 근로기준법상 연차휴가 사용 시기는 노동자가 정하는 것이 원칙이다. 사업 운영에 중대한 차질이 있는 경우에만 사용 시기를 변경할 수 있다. 이 때문에 회사가 특정 날짜에 연차 사용을 일괄적으로 요구하는 방식은 법 취지에 맞지 않으며 위법 소지가 크다는 지적이 나온다.&lt;br&gt;&lt;br&gt;직장갑질119는 “연차 사용 의사가 없다는 점을 분명히 밝힌 뒤 근무를 어떻게 해야 하는지 지시를 명확히 해달라고 요청해야 한다”며 “회사가 특정 일자 연차 사용을 강요한다면 관할 노동청에 진정을 제기할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;공연 당일 영업 중단이나 건물 통제 등을 이유로 근무를 하지 못하게 되는 사례도 적지 않은 것으로 전해졌다. 이와 관련해 단체는 “회사의 사정으로 노동자가 일을 하지 못하게 된 경우라면 원칙적으로 휴업 수당을 받을 수 있다”고 설명했다. 이어 “주말 공연으로 인한 혼잡이나 안전 문제 등을 이유로 영업을 중단했다면, 이는 사용자의 경영상 판단에 따른 휴업으로 보고 수당을 지급해야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김자연 노무사는 “BTS 컴백으로 전 세계가 축제 분위기지만, 그로 인해 노동자들에게 연차와 휴업을 강요하는 등 법 위반이 공공연하게 이뤄진다면 축제의 의미는 퇴색될 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “특히 대규모 행사로 인해 발생하는 사회적 비용이 일터 약자들에게 더 집중되고 있다”며 “노동법 사각지대에 놓인 5인 미만 사업장과 프리랜서·특고·플랫폼 노동자는 휴업 수당 청구조차 어렵다. 노동자들의 쉴 권리에 대한 두터운 보장이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;BTS 컴백 공연은 오는 21일 광화문 광장과 세종대로 일대에서 열린다. 경찰은 공연 당일 약 26만명의 인파가 몰릴 것으로 보고 안전관리를 위해 6500여명의 경찰력을 투입할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, “이게 사법부냐” 법정서 외친 김용현 변호인에 구속영장 청구</title>
