@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰총장 대행 “공소청법, 소통과 공감대 없어 안타까워…죄송한 마음" </title>
+      <link>https://www.chosun.com/national/court_law/2026/03/19/AZ2HFYOFTVCCPHKLYDTC4H66NE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/19/AZ2HFYOFTVCCPHKLYDTC4H66NE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 10:20:21 +0000</pubDate>
+      <content:encoded>구자현 검찰총장 직무대행이 19일 공소청법의 국회 본회의 통과를 앞두고 “폭넓은 소통과 공감대 형성이 이뤄지지 않아 안타깝다”는 메시지를 검사들에게 보냈다. &lt;br&gt;&lt;br&gt;이날 국회 본회의에는 더불어민주당 주도로 검찰청을 폐지하고 공소청과 중대범죄수사청을 설치하는 법안이 상정됐다. 국민의힘은 필리버스터에 돌입했고, 민주당은 이를 강제 종료한 뒤 표결로 법안을 처리한다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESXELAWAJFLB3HEO25SZG44A5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 검찰총장 직무대행이 17일 정부세종청사에서 이재명 대통령 주재로 열린 국무회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구 대행은 이날 오후 검사 전원에게 보낸 이메일에서 “대검찰청은 그동안 헌법상 검찰총장 및 검사의 지위와 역할을 정립하고, 국민이 효용감을 느끼실 수 있고 검찰 구성원이 본연의 역할에 충실할 수 있는 직제와 체계를 설계하기 위해 다각도로 노력해왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그러나 이번 공소청법 제정안에 이런 노력이 상당 부분 반영되지 않은 것에 검찰총장 직무대행으로서 죄송스러운 마음”이라며 “검찰 가족 여러분들 또한 속상한 마음이 클 것으로 생각된다”고 했다. &lt;br&gt;&lt;br&gt;구 대행은 특히 “입법 과정에서 형사 사법 시스템의 적정한 운용을 통한 국민 권익의 보호, 검찰의 정치적 중립성과 독립성 보장에 관한 사항에 대해 보다 폭넓은 소통과 공감대 형성이 이뤄지지 않은 점은 검찰총장 대행으로서 안타깝다”고 밝혔다. &lt;br&gt;&lt;br&gt;다만 “여전히 검찰은 헌법상 국민으로부터 부여받은 역할이 있고, 검찰이 그 역할을 다하며 실체적 진실을 밝혀주기를 기다리는 국민이 너무나도 많은 현실”이라며 “그렇기에 검찰은 늘 그래 왔듯이 주어진 환경에서 최선의 방안을 찾아 준비할 것”이라고 했다. 아울러 “앞으로 공소청법 시행에 따른 여러 후속 조치를 마련함에 있어서도 구성원 모두의 지혜를 모아달라”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주 송정동 단독 주택서 불... 60대 숨져 </title>
+      <link>https://www.chosun.com/national/regional/2026/03/19/JYUT7GO4KNHDBDXCLAYQ5R3SBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/19/JYUT7GO4KNHDBDXCLAYQ5R3SBI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 10:18:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRGCNBSMM4WMZTCGFTDMNDEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 낮 12시 41분쯤 광주 광산구 송정동의 한 단독주택에서 불이나 소방 당국이 진화했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 광주 광산구 송정동 한 단독주택에서 불이 났다.&lt;br&gt;&lt;br&gt;광주소방본부에 따르면 이날 낮 12시 41분쯤 광산구 송정동 한 주택에서 불이 났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;주택 내부에서는 60대 남성 A씨가 심정지 상태로 발견돼 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;소방 당국은 소방 장비 16대, 소방 인력 50명을 동원해 화재발생 50여 분만인 오후 1시 6분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 주방에서 불이 시작했을 가능성을 염두에 두고 정확한 화재 경위를 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한 번이라도 ‘내 모든 자산’을 정확히 계산해본 적 있다? 없다!</title>
+      <link>https://www.chosun.com/economy/money/2026/03/18/DS373TJPR5CD3DMJNWYV7WM25Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/money/2026/03/18/DS373TJPR5CD3DMJNWYV7WM25Q/</guid>
+      <dc:creator>박부장</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Mar 2026 18:00:00 +0000</pubDate>
+      <content:encoded>“경제적 자유를 얻기 위해 얼마만큼 돈이 필요할까?” “우리는 행복하기 위해 얼마만큼의 돈이 필요할까?” “정말 돈이 많으면 많을수록 행복해지는 것일까?”&lt;br&gt;&lt;br&gt;이런 생각만으로도 불행해지는 기분이다. 무덤에 갈 때까지 돈의 굴레에서 벗어날 수 없다는 소리처럼 들리기 때문이다. &lt;br&gt;&lt;br&gt;다행히 돈과 행복의 관계에서도 한계 효용 체감 법칙이 작용한다. 일정 수준까지는 돈이 많아질수록 행복의 양도 비례하여 증가하지만, 일정 지점에 이르면 돈이 아무리 많아져도 행복의 증가는 미미해진다는 얘기다. 그 지점에 도달하면 돈이 더 늘어난다고 해서 행복이 크게 증가하지 않으며, 돈이 늘어나지 않는다고 해도 크게 불행해지지 않는다. 우리는 이 지점을 명확히 파악하고, 재무적으로 도달해야 할 목표로 삼아야 한다.&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;비로소 돈의 노예 상태에서 벗어나 경제적 자유를 얻게 되는 해방의 지점이기 때문&lt;/mark&gt;이다. &lt;br&gt;&lt;br&gt;그렇다면 그 지점은 어떻게 파악할 수 있을까? 돈 때문에 더 이상 불행함을 느끼지 않게 되는 지점을 단정적으로 말하는 것은 불가능하다. 불행함을 느끼는 것은 지극히 주관적이고 상대적이기 때문이다. 어떤 사람은 소박한 일상이 보장되고 기본적인 먹거리, 입을 거리만 해결되면 불행하지 않다고 느끼는 반면, 반드시 명품백을 들고 비싼 외제차를 타야만 불행하지 않은 사람도 있다.&lt;br&gt;&lt;br&gt;정답은 없다. 그저 도달하는 데 걸리는 시간과 노력의 차이만 있을 뿐. 중요한 것은 &lt;mark class="hl_yellow"&gt;자신이 만족할 만한 물질적 풍요 수준을 스스로 성찰하고, 본인만의 재무 목표를 확고하게 설정하는 것&lt;/mark&gt;이다. 구체적인 목표가 없다면 우리는 돈과의 끝없는 소모전에서 결코 승리할 수 없다.&lt;br&gt;&lt;br&gt;이런 말씀들을 많이 한다. “내 상황에 꼭 맞는 재무설계를 한다는 것, 필요성은 알겠는데 너무 막연하고 어렵게만 느껴진다.”&lt;br&gt;&lt;br&gt;저마다 처한 상황이 모두 다르기 때문에 증권사나 은행 사이트에서 제공하는 은퇴 후 필요 자산에 대한 천편일률적 시뮬레이션 프로그램은 약간의 참고는 될 수 있다. 그러나 사실 아무짝에도 쓸모가 없다.&lt;br&gt;&lt;br&gt;통장에 10억원 정도 있으면 든든할 것 같은데 어떻게 생각하면 몇 년 못 버틸 것 같기도 하고, 재수 없으면 100세 넘어서까지 살아야 하는 시대라 하니 길게 보면 훨씬 더 많은 돈이 필요할 것 같기도 하다.&lt;br&gt;&lt;br&gt;그러다 보니 항상 “나는 부자가 아니야, 나는 돈이 없어, 힘 닿는 데까지 더 벌어야 돼”를 끊임없이 반복하게 되고, “정년 이후에는 어떻게 할 건데?”라는 질문을 받으면 “씀씀이를 줄여야지. 어떻게든 되겠지 뭐. 그때그때 형편에 맞춰서 사는 게지”라는 대답 외에는 다른 대안이 잘 떠오르지가 않는다.&lt;br&gt;&lt;br&gt;어떻게든 되겠지? 어떻게 어떻게든 된다는 말인가?&lt;br&gt;&lt;br&gt;&lt;mark class="hl_yellow"&gt;아무것도 하지 않으면 절대 어떻게든 되지 않는다.&lt;/mark&gt;&lt;br&gt;&lt;br&gt;이와 같은 상태를 극복하기 위한 출발점으로, 우리는 기업 재무 관리 장표들을 참조할 필요가 있다.&lt;br&gt;&lt;br&gt;위험 공포증은 위험 불감증만큼이나 무서운 적이다. 경제적 자유라는 꿈을 가진 이에게 변동성을 견디는 능력은 선택이 아닌 필수이다. 우리 집 자산증식 계획표를 정성껏 작성하며 나무를 키우듯 자산을 가꾸어 보라. 직장 경력이 쌓이면 자연스레 업무 능력이 늘듯, 여러분의 자산 운용 능력 또한 시간이 지남에 따라 함께 자라날 것이다. &lt;br&gt;&lt;br&gt;시작이 어렵지, 일단 한 번 제대로 정리한 후 체계적인 돈 관리를 시작하고 나면 이를 수정하고 더욱 정교하게 맞추어 나가는 작업은 그리 어렵지 않을 것이다. &lt;br&gt;&lt;br&gt;지금까지 읽어주신 독자들께 작은 선물을 드리려고 한다. 필자가 직접 만들고 사용하고 있는 양식이다. 별 것 아닐 수도 있지만, 이런 걸 만들어 정리하는 분들은 극히 적다. 번거롭더라도 공란을 다 채우고 나면 뭔가 경제적 자유를 위한 길이 보이는 출발점에 선 기분을 느낄 수 있다.&lt;br&gt;&lt;br&gt;&lt;a href="https://docs.google.com/spreadsheets/d/1XN5EIgbSeDzwQG1gLXTfvMGtqx-A9goU/edit?usp=sharing&amp;amp;ouid=114552945236928314424&amp;amp;rtpof=true&amp;amp;sd=true" target="_self" rel="" title="https://docs.google.com/spreadsheets/d/1XN5EIgbSeDzwQG1gLXTfvMGtqx-A9goU/edit?usp=sharing&amp;amp;ouid=114552945236928314424&amp;amp;rtpof=true&amp;amp;sd=true"&gt;&lt;b&gt;☞ 자산관리 양식 다운받기&lt;/b&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;br&gt;링크를 열고, 왼쪽 상단 메뉴에서 &lt;mark class="hl_yellow"&gt;&lt;b&gt;파일&amp;gt;다운로드&lt;/b&gt;&lt;/mark&gt;를 눌러 저장하여 사용하세요.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WEKDPZ63EZDNVA7AOQNWH2MQLE.png?auth=6adcf499b545fc46e8aa130d8b5a98f4bd19bc7f0042bd9daba14ef955e8f5b8&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
+        <media:description type="plain">일러스트=조선디자인랩 김영재·Midjourney</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>해외 도피한 네트워크 유디치과 원장, 항소심서 징역형</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/19/BL7YYHNCG5DD7JLBOPCLSA5ERY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/19/BL7YYHNCG5DD7JLBOPCLSA5ERY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 08:37:36 +0000</pubDate>
+      <content:encoded>의료법을 어기고 네트워크 형태로 동시에 여러 치과를 운영하다가 미국으로 도피한 치과 원장이 19일 항소심에서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47MF7KUED4N5SF4LTC2ZKLJJDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소9-1부(재판장 최보원)는 이날 유디치과 설립자 김모씨의 의료법 위반 혐의 항소심 공판에서 징역 3년을 선고했다. 1심은 징역 3년에 집행유예 5년을 선고했는데, 원심의 집행유예 판결을 파기하고 실형을 선고한 것이다. 해외 도피 중인 김씨는 1심을 비롯해 항소심 공판에 모두 불출석했다.&lt;br&gt;&lt;br&gt;김씨는 2012년 8월부터 2015년 11월까지 총 18명의 명의상 원장을 동원해 22개의 치과 병원을 운영한 혐의를 받는다. 현 의료법에 따르면 ‘의료인은 어떠한 명목으로도 둘 이상의 의료기관을 개설·운영할 수 없다’는 게 원칙인데 이를 어겼다는 것이다.&lt;br&gt;&lt;br&gt;법원은 재판 과정에서 김씨에 수차례 소환장을 보냈지만 김씨는 출석하지 않았고, 결국 공시송달로 재판이 진행됐다.&lt;br&gt;&lt;br&gt;김씨는 2000년대 ‘반값 임플란트’를 내세워 한때 전국에 100곳 넘는 치과를 운영했지만, 2012년 의료법 개정으로 네트워크 병원 운영이 금지되자 2015년 수사를 받게 됐다. 이때 기소된 치과 부사장, 임직원 등은 이미 의료법 위반 혐의로 유죄를 확정받았다. 당시 김씨는 해외에 있어 기소가 중지 됐다가, 2023년 12월 불구속 상태로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘장애인 성학대 의혹’ 색동원 시설장 구속 기소…“강간 범행 추가 규명”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/19/OGEWUCJD3JA3TIJTUS2YXVRP3A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/19/OGEWUCJD3JA3TIJTUS2YXVRP3A/</guid>
@@ -670,16 +709,6 @@
       </media:content>
     </item>
     <item>
-      <title>[굿모닝 멤버십] 성장률 낮춰 잡은 중국의 진짜 속내</title>
-      <link>https://www.chosun.com/national/2026/03/19/LBJ43ELOFVHCNHAPJSS7WDV44A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/19/LBJ43ELOFVHCNHAPJSS7WDV44A/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 18:00:00 +0000</pubDate>
-      <content:encoded>📅 2026년 3월 19일입니다. 6년 전 오늘, 우리 경제는 약 600억달러의 한미 통화 스와프 체결 소식에 안도의 한숨을 내쉬었습니다. 당시 코로나로 인한 국제적 금융시장 불안으로 국내 달러 유동성이 부족해지자 곳간을 채워준 것이죠. 위기 때마다 동맹은 든든한 안전망이 되어주곤 합니다. 하지만 최근 중동 정세 속, 미국이 한국에 군사작전 참여를 압박하는 장면은 동맹의 또 다른 얼굴을 보여줍니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRMLR2KISJJE7MHQLOQW3RPWLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국은행이 19일 미국 연방준비제도와 600억 달러 규모의 통화스와프 계약을 체결하고, 곧 국내 외환시장에 달러화를 공급한다. 사진은 지난 20일 서울 중구 하나은행 본점에서 직원이 달러화를 정리하는 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 동맹은 ‘안도’와 ‘부담’이 함께 움직이는 구조입니다. 협력의 가치와 냉정한 손익 계산 사이에서, 우리는 어떤 결정을 내려야 할까요. 오늘 조선멤버십은 한미 동맹의 전략부터, 그 사이 질적 성장을 노리는 중국의 야심, 그리고 한국 경제 거목들이 남긴 고뇌까지 깊이 있게 짚어봅니다.&lt;br&gt;&lt;br&gt;삼성 이병철과 현대 정주영, 한국 경제의 두 기둥이었던 이들은 성장 배경부터 경영 철학까지 모든 면에서 평행선을 달린 라이벌이었습니다. 손자 입학 문제와 환경오염 보도를 둘러싼 거친 언론 전쟁까지 치르며 두 사람의 갈등은 재계 전체가 숨죽일 만큼 날카로웠습니다. 그러나 암 투병으로 쇠약해진 이 회장이 휠체어를 타고 정 회장의 칠순 잔치에 나타나며 반전이 시작됩니다. 이 회장이 숙명의 라이벌에게 먼저 손을 내민 이유와 그날의 화해 비화를 알려드립니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/industry-company/2026/03/19/BW65ZPQP6FDHFBEOVVHUF2PHN4/" target="_self" rel="" title="https://www.chosun.com/economy/industry-company/2026/03/19/BW65ZPQP6FDHFBEOVVHUF2PHN4/"&gt;이병철과 정주영, 두 거인의 ‘불화... 화해에도 ’큰 그림’이 있었다&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A2GQ5LR7NHXVEMIKADR2VIJ6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이란의 호르무즈 해협 봉쇄에 직면한 트럼프 대통령이 한국을 향해 군함 파견이라는 노골적인 청구서를 내밀었습니다. 흔히들 미국이 우리를 위해 자동 참전하듯 우리도 당연히 응해야 한다고 생각하지만, 실제 조약문을 뜯어보면 ‘자동 개입’ 조항은 어디에도 존재하지 않는 협의 기반의 동맹일 뿐입니다. 과연 우리가 믿어온 동맹의 울타리는 유사시 얼마나 견고하게 작동할까요. 냉혹한 국제 정치 속에서 우리가 스스로 증명해야 할 ‘동맹의 가치’를 확인해보세요.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/international/international_general/2026/03/19/AJ25U5AL6BGJTB7L45UWRRIMHI/" target="_self" rel="" title="https://www.chosun.com/international/international_general/2026/03/19/AJ25U5AL6BGJTB7L45UWRRIMHI/"&gt;미국 본토가 공격받으면 한국군이 가야 할까?… 한미상호방위조약의 비밀&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGVRY6ZAIZCVTPSWMQODYBBGTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;📉 중국의 ‘성장률 5%’ 포기, 후퇴인가 정교한 설계인가&lt;/b&gt;&lt;br&gt;&lt;br&gt;중국이 2026년 성장률 목표를 ‘4.5~5%’로 낮춘 것은 단순한 후퇴가 아니라 체질 개선을 위한 전략적 선택입니다. 역대 최고인 재정 적자율 4%를 유지하며 예산을 편성한 점을 보면, 정부의 실질적인 부양 의지는 오히려 이전보다 강력합니다. 77배 커진 경제 규모에서 4.5% 성장이 갖는 질량은 과거 10% 성장을 압도하며, 이는 속도보다 내실을 기하겠다는 의지입니다. 신질생산력으로 엔진을 교체하며 고부가가치 시장으로 진입하는 중국의 행보가 우리 산업 전략에 어떤 경고음을 울리고 있는지 살펴봐야 합니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/international/china/2026/03/19/BIGEHKIZJJFK5F25ZXRQTBZ5ZM/" target="_self" rel="" title="https://www.chosun.com/international/china/2026/03/19/BIGEHKIZJJFK5F25ZXRQTBZ5ZM/"&gt;성장률 5% 포기한 중국?… 숫자에 속으면 안 되는 이유&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXAMQNU7TRF6FJSKQ27UEGN54U.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://members.chosun.com/membership/join/index.html" target="_self" rel="" title="https://members.chosun.com/membership/join/index.html"&gt;&lt;b&gt;조선멤버십 회원이 되시려면 여기 누르세요.&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
-    </item>
-    <item>
       <title>“BTS 공연 보러 왔어요” 광화문으로 모이는 아미들</title>
       <link>https://www.chosun.com/national/national_general/2026/03/19/XY52RVQFTBH4LIOXZ625MYNNZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/19/XY52RVQFTBH4LIOXZ625MYNNZM/</guid>
@@ -847,15 +876,6 @@
       <content:encoded>고령 인구가 늘면서 녹내장 환자가 꾸준히 증가하고 있는 가운데, 20~40대 젊은 녹내장도 늘고 있어 각별한 주의가 필요하다.&lt;br&gt;&lt;br&gt;녹내장은 안압 상승 등으로 빛을 뇌로 전달하는 시신경이 손상되면서 시야 결손이 발생하는 질환으로, 방치할 경우 실명에 이를 수 있다. 한국녹내장학회가 건강보험심사평가원 진료 자료를 분석한 바에 따르면, 국내 녹내장 환자는 2019년 약 97만명에서 2023년 약 118만명으로 늘었다. 특히 40대 이하 환자가 29만여 명에 달해 젊은 층에서도 증가하는 추세다.&lt;br&gt;&lt;br&gt;젊은 녹내장 증가 원인으로는 고도근시 증가세가 꼽힌다. 근시가 있으면 안구 앞뒤 길이가 상대적으로 길어 눈을 지지하는 구조물의 두께가 얇고 힘이 약해져 시신경이 손상될 가능성이 높아지기 때문이다. 2023년 기준 근시 환자 수는 114만여 명으로, 이 중 30세 미만 환자가 약 68%다. 또한 스마트폰, 태블릿 등 영상기기 사용이 잦아지면서 눈의 피로와 안압에 영향을 미쳐 녹내장이 유발될 수 있다는 지적이다.&lt;br&gt;&lt;br&gt;김태우(분당서울대병원 안과) 녹내장학회 회장은 “녹내장은 노인 질환이라는 인식이 있어 젊은층에서 진단이 늦게 이뤄질 수 있다”며 “근시가 있는 경우 증상이 없더라도 정기적인 안과 검진을 통해 시신경 상태를 확인하는 것이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;박세희 강동경희대학교병원 안과 교수는 “정상 안압을 보이면서도 시신경 손상이 진행하는 정상안압녹내장이 상당한 비율을 차지한다”며 “안압이 정상이라 하더라도 가족력, 고도근시, 얇은 중심각막두께, 시신경 주위 혈류 이상 등의 위험 인자가 있다면, 1년에 한 번 녹내장 검사를 받는 게 좋다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [생활 속 경제] 1973년 중동전쟁 ‘악몽’ 피하려면 … 의존도 낮출 에너지 정책 시급하죠</title>
-      <link>https://www.chosun.com/national/nie/2026/03/19/S62BLV4QYNHPBEL6C73ACONLGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/19/S62BLV4QYNHPBEL6C73ACONLGE/</guid>
-      <dc:creator>연유진 '기술이 바꾼 일상의 역사' 저자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;Q. 최근 한국 주식 시장이 롤러코스터를 탄 것처럼 출렁거렸어요. 이란에서 벌어진 전쟁으로 ‘오일 쇼크’를 걱정하는 사람이 많기 때문이라는데, 오일 쇼크가 뭐예요? 경제에 어떤 영향을 주나요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLM6LFNKQNAMTKLQLBNBQJBMUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A. 원유는 ‘검은 황금’이라고 불릴 만큼 현대 문명에서 중요한 자원입니다. 자동차나 비행기 등 교통수단을 움직이는 연료이자, 플라스틱·의약품·비료 등 수많은 제품을 만드는 핵심 재료지요. 그래서 원유 공급이 갑자기 줄어 가격이 치솟으면, 세계 경제가 큰 충격을 받을 수밖에 없어요. 이런 현상을 ‘오일 쇼크(Oil Shock)’라고 합니다. 우리말로 ‘석유 파동’이라고 부르기도 하죠.&lt;br&gt;&lt;br&gt;오일 쇼크가 발생하면, 기업들이 제품을 생산하고 운반하는 데 써야 할 비용이 늘어나게 됩니다. 이를 충당하기 위해 기업들은 제품 가격을 올리게 되지요. 또 세계 공용 화폐 역할을 하는 미국 달러를 사들이려는 수요가 늘면서 환율이 크게 뛰는데, 이는 전반적으로 물가를 올리게 만들어요. 소비자 입장에선 부담이 커지는 셈이죠. 그런데 이게 끝이 아닙니다. 소비자들이 허리띠를 졸라맨 탓에 기업은 시장에 내놓은 제품이 잘 팔리지 않아 경영이 어려워집니다. 결과적으로 오일 쇼크가 발생하면 생산과 소비가 연쇄적으로 위축되면서, 물가 상승과 경기 침체가 동시에 나타나게 됩니다.&lt;br&gt;&lt;br&gt;세계 경제는 과거 두 차례 오일 쇼크를 겪었어요. 1차 오일 쇼크는 1973년 발발한 제4차 중동 전쟁의 여파였죠. 중동 산유국들이 전쟁에서 이스라엘을 지원하는 서방 국가를 압박하기 위해 원유 수출을 제한했거든요. 2차 오일 쇼크는 이란 혁명으로 1979년 이란의 팔라비 왕조가 무너지고, 이어 1980년 이란·이라크 전쟁이 터지면서 발생했어요. 혼란 속에서 이란과 이라크 두 나라의 산유량이 급감하자 국제 유가가 뛴 것이죠. 당시 많은 국가가 에너지 부족, 고물가, 높은 실업률 등으로 몸살을 앓았어요.&lt;br&gt;&lt;br&gt;그런 만큼 전 세계는 최근 벌어진 이란과 미국의 전쟁을 숨죽이며 지켜보고 있습니다. 오일 쇼크가 다시 일어날까 봐 걱정하는 거죠. 이란 주변에는 사우디아라비아, 아랍에미리트(UAE), 쿠웨이트 등 주요 산유국이 모여 있어요. 원유를 실은 유조선들이 반드시 지나야 하는 길목인 호르무즈 해협이 전쟁 때문에 막히거나 원유 생산 시설이 공격을 받아 파괴된다면, 원유 공급에 문제가 생길 수 있습니다.&lt;br&gt;&lt;br&gt;특히 우리나라는 중동 정세에 큰 영향을 받아요. 원유를 전량 수입에 의존하는데, 전체 수입량 중 약 70%를 중동에서 들여오기 때문이죠. 에너지를 많이 소모하는 반도체·자동차·석유화학 같은 산업이 경제에서 큰 비중을 차지하고 있고요. 이런 이유로 이란 전쟁이 발발했다는 소식이 전해지자 한국 주식 시장이 전 세계에서 가장 크게 출렁거렸어요. 중동 정세로 우리 경제가 받는 충격을 줄이려면, 특정 지역이나 에너지원에 대한 의존도를 낮추려는 에너지 정책이 필요합니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [꼭 읽어야하는 고전] 죄 지으면 대신 일그러진 초상화 속 얼굴… 겉모습보다 내면이 중요하다는 교훈 주죠</title>
       <link>https://www.chosun.com/national/nie/2026/03/19/7A3Z6KGUZVB5PAGQZYIIHKPI2Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/19/7A3Z6KGUZVB5PAGQZYIIHKPI2Q/</guid>
@@ -863,24 +883,6 @@
       <description/>
       <pubDate>Wed, 18 Mar 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P55DTJGNNBGJDP3FZEI4QXWXHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;오스카 와일드 지음 l 김순배 옮김 l 출판사 아르테 l 가격 1만6000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;문학사에서 오스카 와일드만큼 화려한 수식어가 따르는 작가는 드뭅니다. 노벨문학상을 받은 아일랜드 시인 예이츠는 “그처럼 완벽한 문장으로 말하는 사람을 본 적이 없다”고 했지요. 뛰어난 문장력으로 수많은 희곡과 동화, 에세이를 쏟아내며 문단을 휩쓴 그가 남긴 장편소설은 놀랍게도 ‘도리언 그레이의 초상’ 단 한 편뿐입니다.&lt;br&gt;&lt;br&gt;이 소설은 영원한 젊음을 바라는 인간의 욕망에 대한 내용입니다. 화가 배질이 아름다운 청년 도리언 그레이의 초상화를 완성하면서 시작되는데요. 그림을 본 도리언은 절망했습니다. 왜일까요? 그림 속 모습은 영원히 변하지 않는데, 자신은 점차 늙고 쇠한다는 사실 때문입니다. 그는 차라리 그림 속 모습이 대신 늙어가고 자신은 젊음을 간직할 수 있다면 영혼이라도 내주겠다는 소원을 비는데요. 이 소원은 놀랍게도 현실이 됩니다.&lt;br&gt;&lt;br&gt;도리언이 자신의 소원이 이뤄졌다는 사실을 깨달은 건 첫사랑 시빌 베인과 결별한 날이었어요. 배우였던 그녀에게 연기가 형편없다며 모욕하고 돌아온 밤, 완벽했던 초상화 입가에 어딘가 잔혹한 느낌이 생긴 것을 본 그는 소스라치게 놀랍니다. 자신의 죄가 그림에 새겨진 것이죠. 이를 알아챈 그는 초상화를 다락방 깊숙이 숨깁니다.&lt;br&gt;&lt;br&gt;세월이 흐르면서 숱한 악행을 저질러도 도리언은 여전히 천사 같은 모습입니다. 반면 다락방의 초상화는 도리언 대신 죄의 흔적을 떠안고 점점 일그러진 얼굴로 변하죠. 나중에 배질이 이 비밀을 알게 되자, 도리언은 배질을 잔인하게 살해합니다.&lt;br&gt;&lt;br&gt;소설의 마지막, 도리언은 더 이상 자기 초상화를 견디지 못합니다. 감춰온 모든 죄의 기록이자 끝내 외면할 수 없는 진짜 얼굴이었기 때문입니다. 그는 그림을 없애려 칼을 치켜들고 초상화를 파괴합니다. 그런데 그 순간 초상화 속 모습은 다시 아름다워지고 늙고 일그러진 도리언이 방 안에 쓰러져 죽음을 맞이하게 됩니다.&lt;br&gt;&lt;br&gt;우리는 은연중에 어떤 사람의 겉모습과 내면이 같을 것이라고 생각하곤 합니다. 사람들은 도리언의 천사 같은 얼굴에 속아 그를 쉽게 믿고 용서했고, 덕분에 그는 더욱 타락할 수 있었습니다. 하지만 도리언의 아름다움은 위험한 가면이었습니다.&lt;br&gt;&lt;br&gt;우리는 ‘보이는 나’를 관리하며 살아갑니다. 꾸밈 자체가 나쁜 것은 아닙니다. 문제는 ‘내가 어떤 사람인가’보다 ‘내가 어떻게 보이는가’가 더 중요해질 때 발생해요. 외모나 인기, 타인의 평가를 붙들기 위해 소중한 것을 조금씩 포기하고 있진 않나요? 내 마음속 다락방에 걸린 초상화는 지금 어떤 얼굴을 하고 있을까요? 이 고전은 우리에게 타인의 환호 대신 내면의 양심을 선택할 용기가 있는지 묻고 있습니다. 겉모습이 아닌 영혼을 가꾸는 일, 그것이야말로 진정한 아름다움입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] End of discussion.</title>
-      <link>https://www.chosun.com/national/nie/english/2026/03/19/C6FUD67QWBEWTNOZGTHHCOAQPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/03/19/C6FUD67QWBEWTNOZGTHHCOAQPQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K73IQS6K2BHFXDDOFT3TH2XGKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 집중력을 높이다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/03/19/ZWSFH4S6YFF77FXIWVJQ2Z2DPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/03/19/ZWSFH4S6YFF77FXIWVJQ2Z2DPY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3HFWKZFOFE67D7CLJFJZNMPXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>도쿄 대신 인천 경유… 日 환승객 33% 늘었다</title>
