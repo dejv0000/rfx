@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, 김영환 충북지사 구속영장  반려…“구속 필요성 부족”</title>
+      <link>https://www.chosun.com/national/incident/2026/03/20/YV5BSHXOVRCOFCDLPBPGGUUVCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/20/YV5BSHXOVRCOFCDLPBPGGUUVCU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 02:40:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDMNZVGA4GEYZQMI4DAYJQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북지사/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주지검은 충북경찰청 반부패경제범죄수사대가 지난 16일 김영환 충북지사에 대해 신청한 구속영장을 반려했다고 20일 밝혔다. 김 지사는 지역 체육계 인사들로부터 금품을 수수한 혐의를 받고 있다. 구속 등과 관련한 영장은 경찰이 검찰에 신청하면 검찰이 법원에 청구할지를 결정하고 발부 여부는 법관이 결정한다. &lt;br&gt;&lt;br&gt;검찰은 김 지사 영장 청구를 반려한 것과 관련해 “소명의 정도와 구속의 필요성, 수사 상황 등을 종합적으로 고려했다”고 밝혔다. 혐의 입증 수준이 구속 수사를 정당화할 정도에 이르지 않았고, 현 단계에서 신병 확보 필요성도 크지 않다고 판단한 것으로 해석된다.&lt;br&gt;&lt;br&gt;앞서 경찰은 김 지사가 2024년 8월 충북 괴산군 자신의 농막을 수리하는 과정에서 윤두영 충북배구협회장에게 인테리어 비용 2000만원을 대신 내게 한 혐의가 있다고 보고 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;경찰은 김 지사가 그 대가로 윤 회장이 운영하는 농업회사법인이 충북도 스마트팜 시범사업에 참여할 수 있도록 영향력을 행사한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;경찰은 해당 농업회사법인이 별도의 공모 절차 없이 사업에 참여한 점에도 주목하고 있다. 경찰 관계자는 “비용 부담 없이 사업에 참여한 것으로 조사됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 이와 별도로 지난해 4월과 6월 해외 출장을 앞두고 체육계 인사들로부터 각각 600만원과 500만원을 받은 혐의도 받고 있다. 경찰은 이를 대가성 금품으로 보고 수사를 이어왔다.&lt;br&gt;&lt;br&gt;경찰은 특히 김 지사가 농막 인테리어업자 A씨 등과 진술을 사전에 맞추는 등 수사를 방해한 정황이 있다고 보고 구속 필요성이 있다고 판단했다. 이에 따라 A씨에 대해서도 증거인멸 혐의로 구속영장을 함께 신청했다.&lt;br&gt;&lt;br&gt;그러나 검찰은 이러한 사정만으로는 구속 수사의 필요성을 인정하기 어렵다고 판단했다. 보강 수사를 통해 혐의 입증을 더 명확히 할 필요가 있다는 입장이다.&lt;br&gt;&lt;br&gt;이에 따라 김 지사는 불구속 상태에서 수사를 받게 됐다. 다만 경찰이 추가 보강 수사를 거쳐 영장을 다시 신청할 가능성도 배제할 수 없다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “추후 보완 수사를 통해 경찰이 영장을 재신청하면 법원에 청구할지를 다시 검토할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “명태균 교활한 말 향연 될 것” 명태균 “거짓 없기 때문에 특검서 살아나”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/20/K3IJ2AT4BNCH5PST27GS6OHXCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/K3IJ2AT4BNCH5PST27GS6OHXCA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 02:26:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECQXHM7OCJKP3PWYNPVX4IMWCI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 20일 자신의 ‘여론조사 비용 대납’ 의혹 재판에서 ‘키맨’인 명태균씨와 대면했다. 오 시장은 재판을 앞두고 “교활한 말의 향연이 될 것”이라며 “명태균은 사기 범죄 집단의 모집책”이라고 강하게 비판했다. 반면 명씨는 “제가 검찰과 특검 조사에서 살아남은 것은 거짓이 없기 때문”이라며 맞섰다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 9시 46분쯤 서울중앙지법에 출석하며 기자들과 만나 “강혜경의 증언에 의하면 이 사람들(명태균·강혜경 등)은 사기 범죄 집단”이라고 했다. 재판 시작 직전 페이스북에 올린 글에선 “민중기 특별검사는 이 사기 범죄자들에게는 눈을 감고, 오히려 피해자(인 저)를 기소하여 선거기간에 재판기간을 일치시켰다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7M2KIW3CBP4NEXENNBORN6MAU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;명태균씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 명씨는 오 시장에 앞서 법원에 출석하며 기자들에게 “제가 검찰과 특검 조사에서 살아남은 것은, 제 말에 거짓이 없기 때문 아니겠느냐”고 했다. 그러면서 “나라를 위해서 세상을 위해서 자기가 당선되면 열심히 하겠다고 해서 도와드린 것일 뿐”이라며 “그런 마음으로 오 시장을 도왔다”고 말했다. 이어 “오 시장은 처음 만난 날 ‘저는 사람을 믿지 않습니다’라면서도 ‘제 멘토가 돼 주십시오’라고 했다”며 “사람을 믿지 못하는 사람이 어떻게 정치를 하느냐”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 이날 오 시장과 강철원 전 서울시 정무부시장, 사업가 김한정씨의 정치자금법 위반 혐의 재판을 진행한다. 명씨는 이날 법정에 증인으로 나왔다. 두 사람의 법정 대면은 이날이 처음이다. 작년 11월 민중기 특검팀의 대질 조사 이후 5개월 여만에 만난 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘법정 소란’ 권우현 변호사, 구속심사 시작</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/20/DT2VDEXARJBHNFKCXZ5GBHAX5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/DT2VDEXARJBHNFKCXZ5GBHAX5U/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 02:35:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSDAYLEGMYDMMTCMNRTQNBYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권우현 변호사. 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법정에서 소란을 일으킨 혐의를 받는 김용현 전 국방부 장관 측 권우현 변호사의 구속 여부를 판단할 법원 심사가 20일 시작됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이지영 영장전담 부장판사는 이날 10시 30분 법정소동 등 혐의를 받는 권우현 변호사의 영장실질심사를 열었다. 권 변호사는 이날 오전 9시 30분쯤 취재진의 눈을 피해 법정 안으로 들어갔다.&lt;br&gt;&lt;br&gt;권 변호사는 지난해 11월 19일 서울중앙지법 형사33부(재판장 이진관)의 심리로 열린 한덕수 전 국무총리 재판에서 소란을 일으킨 혐의를 받는다. 당시 권 변호사는 재판부의 퇴정 명령을 따르지 않고 “이게 대한민국 사법부냐”고 소리쳤다. &lt;br&gt;&lt;br&gt;재판부는 권 변호사에게 감치 15일을 선고했고, 이후 감치 재판 과정에서 추가 법정 모욕 행위가 있었다며 같은 해 12월 4일 감치 5일을 추가로 선고했다. 다만 권 변호사의 소재가 확인되지 않아 감치 집행은 이뤄지지 않았다. 대법원 규칙상 감치 선고 후 3개월이 지나면 감치 집행을 할 수 없다.&lt;br&gt;&lt;br&gt;대법원 법원행정처는 지난해 11월 김 전 장관 변호인들을 법정모욕, 명예훼손 등 혐의로 경찰에 고발하기도 했다. 검찰은 권 변호사의 행위가 변론권 범위를 넘어섰고, 사법부 권위와 재판 질서를 훼손할 우려가 크다고 판단해 지난 18일 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘연봉 수백억’ 총수들 건보료 보니...계열사마다 내니 수억 훌쩍</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/20/B5UZKPKP5FAXTECHCDDSEXIY4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/B5UZKPKP5FAXTECHCDDSEXIY4A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 02:16:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXRLIYOKYVKRDBAG6CRGIW6FAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시내 국민건강보험공단 민원실에서 시민들이 상담을 받고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 주요 대기업 총수들의 지난해 보수가 공개되면서 이들이 부담하는 건강보험료에도 관심이 집중된다.&lt;br&gt;&lt;br&gt;20일 기업별 사업보고서에 따르면 퇴직금을 제외한 순수 연봉 기준 1위는 김승연 한화그룹 회장으로 나타났다. 김 회장은 한화에어로스페이스와 한화시스템 등 5개 계열사에서 총 248억4100만원을 받은 것으로 집계됐다.&lt;br&gt;&lt;br&gt;퇴직금을 포함한 총 보수에서는 류진 풍산그룹 회장이 가장 많았다. 그는 풍산홀딩스에서 받은 퇴직금 350억3500만원을 포함해 총 466억4500만원을 수령했다. 류 회장은 현재 한국경제인협회 의장 업무에 집중하기 위해 지주사 대표직을 내려놓은 상태다.&lt;br&gt;&lt;br&gt;이재현 CJ그룹 회장은 177억4300만원, 정의선 현대자동차그룹 회장은 174억6100만원을 각각 받은 것으로 나타났다.&lt;br&gt;&lt;br&gt;이처럼 고액 보수가 공개되면서 총수들의 건강보험료 부과 방식도 주목받고 있다. 건강보험은 소득이 발생하는 사업장마다 보험료를 각각 부과하는 구조다. 여러 계열사에서 보수를 받는 총수는 각 회사에서 받은 급여에 대해 별도로 보험료를 납부해야 한다.&lt;br&gt;&lt;br&gt;보건복지부 고시에 따라 올해 1월부터 직장 가입자의 보수월액 보험료 상한선은 기존 450만4170원에서 459만1740원으로 인상됐다. 특정 사업장에서 연간 보수가 약 13억2000만원을 넘으면 해당 사업장에서는 매달 상한액을 부담해야 한다.&lt;br&gt;&lt;br&gt;김 회장처럼 5개 계열사에서 급여를 받는 경우, 각 사업장에서 상한액이 적용된다고 가정하면 월 건보료는 459만1740원의 5배인 약 2295만원에 이른다. 이를 연간으로 환산하면 2억7000만원이 넘는다. 여기에 이자나 배당 등 별도의 소득이 있을 경우 소득월액 보험료 상한액까지 더해져 부담 규모는 더 커질 수 있다.&lt;br&gt;&lt;br&gt;반면 국민연금은 방식이 다르다. 여러 사업장에서 소득을 얻더라도 이를 합산해 한 번만 보험료 상한을 적용한다. 이에 따라 고소득 총수라도 국민연금으로 실제 부담하는 금액은 월 31만3025원 수준이다.&lt;br&gt;&lt;br&gt;다만 국민연금 보험료도 상한 조정이 예정돼 있다. 보건복지부는 지난 1월 국민연금심의위원회를 열고 2026년 7월부터 적용할 기준소득월액 상한액을 기존 637만원에서 659만원으로 상향하기로 했다. 이에 따라 보험료율 9.5%를 적용하면 월 급여 659만원 이상의 가입자가 부담하는 총 보험료는 62만6050원으로 늘어난다. 직장 가입자는 이를 회사와 절반씩 나눠 부담한다.&lt;br&gt;&lt;br&gt;이 같은 사회보험료 상한 조정은 가입자의 소득 변화를 반영해 제도의 실효성과 형평성을 유지하기 위한 조치다. 건강보험은 사업장별 부과 구조를 통해 부담 능력에 맞춘 재정 확보를 도모하고, 국민연금은 소득 증가분을 반영해 노후 보장 기능을 강화하는 구조를 유지하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>틱톡 투자 미끼로 접근… 20대 여성 살해·시신 유기 50대, 1심 징역 40년</title>
+      <link>https://www.chosun.com/national/incident/2026/03/20/DSXRAOMNUZFCDPONQHTJMAKU6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/20/DSXRAOMNUZFCDPONQHTJMAKU6U/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 02:08:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2GCMTDHAYWIYTDGRTGIOBVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 9월 16일 오후 경기 용인동부경찰서에서 살인 및 사체유기 혐의를 받고 있는 A씨가 구속 전 피의자 심문(영장실질심사)를 받기 위해 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;틱톡 투자 등을 이유로 만난 20대 여성을 살해하고 시신을 유기한 50대 남성에게 1심에서 중형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 20일 살인·시체유기·특수공무집행방해 혐의로 구속 기소된 A씨에게 징역 40년을 선고했다. 검찰은 앞서 사형을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “사람의 생명은 무엇과도 바꿀 수 없는 절대적인 가치이며, 살인은 우발적 범행이든 아니든 어떠한 경우에도 결코 용납될 수 없다”고 했다. 이어 “피고인은 피해자의 시신을 전북 무주까지 옮겨 유기했고, 시체가 발견되기 전까지 범행을 부인하며 결심에 이르기까지 살해 고의를 다투었다”며 “25살 어린 나이에 꿈을 펼쳐보지도 못하고 생을 마감한 피해자의 유족들은 치유하기 어려운 상처와 고통, 자책감으로 괴로워하고 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 11일 인천 영종도에서 20대 틱토커 B씨를 목 졸라 살해한 뒤 시신을 전북 무주군 야산에 유기한 혐의로 재판에 넘겨졌다. 수사 결과, A씨는 “틱톡 시장을 잘 안다”며 동업과 투자 제안을 빌미로 접근한 뒤, 채널 운영을 둘러싼 갈등 끝에 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BTS 공연 당일 맑고 온화한 날씨...일교차는 15~20도로 커</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/20/IH7DN6QGIBCIRDI36G4A5F2HJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/20/IH7DN6QGIBCIRDI36G4A5F2HJE/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 01:26:39 +0000</pubDate>
+      <content:encoded>주말 동안 아침은 쌀쌀하고 낮에는 포근한, 일교차 큰 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 당분간 아침 기온은 평년과 비슷하거나 조금 낮고, 낮 기온은 평년과 비슷하거나 다소 높겠다. 특히 내륙을 중심으로 낮과 밤의 기온 차가 15~20도까지 벌어질 전망이라 건강 관리에 주의가 필요하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMQU374S45AFLO4H3QPMCAU2YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 21일 방탄소년단(BTS)의 광화문 컴백 공연을 앞두고 서울광장에 튤립등 봄꽃을 심었다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 광화문에서 BTS 공연이 열리는 21일은 아침 최저기온이 영하 4도~영상 7도, 낮 최고기온은 영상 12~18도로 예상된다. 이날 전국에 대체로 맑고 온화한 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;일요일인 22일은 아침 최저 영하 1도~영상 8도, 낮 최고 13~18도로 전날과 비슷한 기온이 나타나겠다. 오후부터 전국 곳곳에 구름이 많아지겠고, 남부 지방은 대체로 흐리겠다. 제주도는 이날 오후부터 저녁 사이 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;다음 주 초부터는 기온이 점차 오르며 봄 날씨가 이어지겠다. 23일 아침 최저기온은 0~9도, 낮 최고기온은 12~20도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘통일교 금품 수수 의혹’ 전재수 18시간 피의자 조사</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/20/F4JUBHLGNNGATMSK5FFSKHNPUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/F4JUBHLGNNGATMSK5FFSKHNPUA/</guid>
+      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 00:23:31 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZUA6D3MRVE7VFYEMSFTJ5LUEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교 측에서 한일 해저터널 건설 사업 추진 등을 대가로 금품을 수수한 혐의를 받는 더불어민주당 전재수 의원이 지난 19일 정교유착 비리 검·경 합동수사본부 사무실이 있는 서울 서초구 서울고검으로 출석하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2018~2020년 통일교 측에서 현금과 명품 시계 등 3000만원 상당의 금품을 받은 혐의를 받는 더불어민주당 전재수 의원이 18시간 동안 피의자 조사를 받았다.&lt;br&gt;&lt;br&gt;전 의원은 통일교·신천지 등의 정교 유착 비리 의혹을 수사하는 검경 합동수사본부(본부장 김태훈 대전고검장)에서 지난 19일 오전 10시부터 20일 오전 4시 10분까지 조사를 받았다.&lt;br&gt;&lt;br&gt;전 의원은 합수본 사무실이 있는 서울고검 청사를 나오면서 ‘통일교에서 금품을 받은 사실이 있냐’, ‘해저터널 등 통일교로부터 현안 청탁을 받은 바 있냐’는 취재진 질문에 “18시간 동안 소상하게 모든 의혹에 대해서 아주 소상하게 설명을 했다”고 답했다. 그러면서 “수사기관에서 최대한 빠른 시간 내에 결론을 내주기를 기대하고 있다”고 했다.&lt;br&gt;&lt;br&gt;전 의원은 부산에서 열린 통일교 행사에 참석했냐는 질문에는 “통일교 행사임을 인지하고 참석한 적은 없다. 그런 식이면 대한민국 국회의원 300명 전부 의혹이 있는 것으로 판단할 수밖에 없다”고 답했다.&lt;br&gt;&lt;br&gt;본인이 쓴 책 500권을 통일교 재단이 구매했다는 의혹에 대해서도 “언론사 보도 후 알았고, 제게 온 돈이 아니다. 사전에 인지한 사실이 전혀 없다”며 “출판사로 입금됐고, 출판사가 책을 보내고 세금계산서를 발행한 아주 정상적인 거래”라고 주장했다.&lt;br&gt;&lt;br&gt;전 의원은 혐의를 모두 부인하냐는 질문에 ”의혹이 불거진 이후부터 지금까지 한 치의 흔들림 없이 동일한 입장을 견지해왔다”며 “결백하기 때문에 지난 석 달간 고단한 시간을 견딜 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;보좌진에게 증거 인멸을 지시한 적 있냐는 질문에 전 의원은 “저나, 또 이 사건과 전혀 관계가 없는 일”이라고 했다.&lt;br&gt;&lt;br&gt;합수본은 지난 19일부터 이날 새벽까지 전 의원을 상대로 통일교 간부들이 한학자 총재에게 작성한 ‘TM(True Mother·참어머니) 특별보고’ 문건과 윤영호 전 통일교 세계본부장의 진술 관련 내용, 보좌진 증거인멸 의혹 등을 물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전 의원의 금품수수 의혹은 민중기 특검팀이 작년 8월 윤영호씨에게서 관련 진술을 받았다는 게 작년 12월 처음 알려지면서 불거졌다. 통일교가 설립한 세계평화국회의원연합(IAPP)이 2018년 연 해저터널 관련 행사에 전 의원이 참석했다는 사실도 확인됐다. 통일교 유관기관인 효정문화원이 2019년 전 의원이 낸 책 ‘따뜻한 숨’ 500권을 구입했다는 것도 알려졌다. 당시 효정문화원 원장은 윤씨였다.&lt;br&gt;&lt;br&gt;전 의원은 작년 12월 경찰에서 처음 조사를 받았고, 올 초 통일교와 신천지 관련 의혹을 수사하는 합수본이 만들어진 후 2개월 만에 다시 피의자 조사를 받았다. 전 의원은 오는 6월 치러지는 지방선거에서 부산시장 출마를 준비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “말로만 ‘안전 작업’ 지시로는 부족”… 외국인 노동자 추락사 책임 인정</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/20/GXR7FGDGYBHN3D4ITPPKPF32A4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/GXR7FGDGYBHN3D4ITPPKPF32A4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Mar 2026 00:28:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFTDAYTCMIYWCZRZMVSDANJZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국어에 서툰 외국인 노동자가 공사 현장에서 추락해 숨진 사건과 관련해, 현장소장이 구두로 “안전하게 작업하라”고 지시했더라도 실질적인 안전조치를 다하지 않았다면 책임을 면할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 건설사 현장소장 A씨의 업무상 과실치사 및 산업안전보건법 위반 혐의 사건 상고심에서, 원심 판결 중 무죄로 판단한 부분을 깨고 사건을 대전지법으로 돌려보냈다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;사고는 2020년 6월 세종시 한 아파트 신축 공사 현장에서 발생했다. 러시아 국적 근로자 B씨(당시 26세)는 거푸집 해체 작업을 위해 갱폼(작업용 발판과 거푸집을 일체형으로 만든 외벽 부착 구조물) 위에 올라가 작업하던 중 30m 아래로 추락해 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 갱폼은 작업을 위해 고정 볼트 2~8단이 해체돼 있었고, 타워크레인에도 연결되지 않은 채 방치돼 있었다. 여기에 사고 당일 누군가 1단과 9단의 고정 볼트까지 추가로 해체하면서 갱폼이 하중을 견디지 못하는 상태가 됐고, B씨가 이를 밟고 작업하다 추락했다.&lt;br&gt;&lt;br&gt;이 사건의 쟁점은 현장소장 A씨가 안전조치 의무를 다했는지 여부였다.&lt;br&gt;&lt;br&gt;1심은 A씨의 혐의를 모두 유죄로 인정해 징역 10개월에 집행유예 2년을 선고했다. 그러나 2심은 A씨가 사고 당일 “옥상 내부에서 안전하게 작업하라”고 지시했고, 사고 원인을 제3자의 볼트 해체로 봐 업무상 과실치사와 근로자 사망에 따른 산업안전보건법 위반 혐의를 무죄로 판단했다. 다만 일부 산업안전보건법 위반 혐의만 유죄로 인정해 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;하지만 대법원 판단은 달랐다. 대법원은 A씨가 안전 지시를 했더라도 피해자가 한국어에 서툴러 지시가 제대로 전달되지 않았을 가능성을 고려했어야 한다고 지적했다. 또 작업자가 위험한 갱폼을 발판으로 사용할 가능성 역시 충분히 예상할 수 있었는데도, 이를 방지하기 위한 실질적인 안전조치를 하지 않았다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 “이 사건 갱폼은 곧바로 해체되지 못하고 볼트가 다시 체결되지 않은 채로 2주가 넘도록 기존 위치에 설치되어 있었다”며 “피고인으로서는 해체 작업이 잠정 중단돼 추락 위험이 있다면 관계 근로자 외 출입하지 않도록 하거나, 별도의 안전한 작업발판을 설치했어야 한다”고 지적했다. 이어 “비록 피고인이 피해자에게 이 사건 갱폼을 작업발판으로 사용하라고 개별적·구체적으로 지시하지 않았더라도, 안전조치를 취하지 않은 의무 위반과 피해자 사망 사이에는 상당한 인과관계가 있다”며 유죄 취지로 파기환송했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>BTS 제육볶음, BTS 카페… 아미들, 멤버 추억 쫓아 ‘성지 투어’ </title>
       <link>https://www.chosun.com/national/national_general/2026/03/20/5IKOKF4DGJG4TA35QB4GWFUKZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/5IKOKF4DGJG4TA35QB4GWFUKZE/</guid>
@@ -812,33 +884,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NEONNL5P2FATE6IJ2JWQHXZ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1983년 전두환 정권을 비판하는 내용이 담긴 유인물을 제작해 뿌린 혐의로 실형이 선고된 대학생 4명이 43년 만에 재심에서 무죄 판결을 받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사19단독 임혜원 부장판사는 지난달 12일 집회 및 시위에 관한 법률 위반 혐의로 재판에 넘겨진 A씨 등 4명의 재심에서 무죄를 선고했다.&lt;br&gt;&lt;br&gt;1983년 5월 대학생이었던 A씨 등 4명은 ‘반파쇼 투쟁선언문’ ‘이 땅의 여대생은 무엇을 해야 할 것인가’ 등 당시 정부 정책을 비난하는 내용의 유인물 1000매를 제작해 도서관 열람실, 학생회관 등에서 배포한 혐의로 재판에 넘겨졌다. 이들은 같은 해 9월 각각 징역 1년 6개월을 선고받았고, 석 달 뒤 법원이 항소를 기각하며 형이 확정됐다.&lt;br&gt;&lt;br&gt;법원은 작년 12월 이들의 재심 청구를 검토한 뒤 ‘5·18 민주화운동 등에 관한 특별법’에 따른 재심 사유가 있다고 보고 재심 개시를 결정했다.&lt;br&gt;&lt;br&gt;재판부는 “헌법의 존립과 헌정 질서를 수호하기 위한 정당한 행위에 해당한다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>美 명문대는 AI 없이 직접 글쓰는 수업 강화</title>
-      <link>https://www.chosun.com/national/education/2026/03/13/776WSVHSSNGUTDUBF3OQ5GPJZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/13/776WSVHSSNGUTDUBF3OQ5GPJZI/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>‘좋은 사고를 하기 위해선 반드시 좋은 글쓰기가 필요하다.’&lt;br&gt;&lt;br&gt;1872년부터 150년 넘게 글쓰기 수업을 강조하고 있는 미국 하버드대의 교육 철학이다. 하버드대는 모든 학생이 ‘논증적 글쓰기 수업’을 필수로 듣도록 하고 있다. 15명이 한 반이 돼 주 2회 듣는다. 학생은 문제를 제기하는 방법, 글의 주제에 맞는 근거를 대는 법, 반론을 예상하고 대응하는 법 등을 배우고 총 세 편의 글을 쓴다. 교수는 학생의 글을 1대1로 첨삭해주고, 학생의 초고를 두고 여럿이 토론을 하기도 한다. 신입생 대상으로 글쓰기 시험을 먼저 진행해 미흡한 학생은 기초 글쓰기 과목을 한 학기 들은 다음 필수 수업을 듣도록 하고 있다. 제인 로젠와이그 하버드대 글쓰기 센터 디렉터는 2024년 언론 인터뷰에서 “글쓰기는 협력적인 작업으로, 종이에 적힌 문장과 머릿속에서 막 형성되고 있는 생각 사이에 다리를 놓는 과정”이라며 “이런 일을 AI는 할 수 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;하버드대는 AI(인공지능)가 확산하자 2024년 ‘AI 시대의 글쓰기 수업 지침’을 만들어 배포했다. 이에 따르면, 챗GPT 같은 생성형 AI를 활용한 글쓰기 과제는 A 학점을 받을 수 없다. 학생이 직접 쓴 글에 대해서만 좋은 성적을 부여하겠다는 것이다. 사례를 찾거나, 데이터를 분석하는 등 ‘글쓰기 준비 단계’에서는 AI를 사용할 수 있도록 했다. 하지만 이때도 학생은 자신이 아이디어를 어떻게 찾게 됐는지, 읽기 자료를 요약한 방법을 명시하고, 다른 학생들에게 피드백을 받아야 한다. AI에 의존해 결과물만 받아보는 걸 막겠다는 취지다. &lt;br&gt;&lt;br&gt;하버드대뿐 아니라 미국 명문대들 중에는 교육 과정 전반에 걸쳐 글쓰기를 중시하는 곳이 많다. 스탠퍼드대는 2003년부터 세 단계의 글쓰기 수업 시스템을 운영한다. 2학년까지 ‘글쓰기 및 수사학’ 수업 2개(기초·심화)를 이수하고, 이후 전공 글쓰기 수업을 듣는다. 스탠퍼드대도 글쓰기 및 수사학 수업에서 AI 활용 정책을 만들었는데, 글을 쓰거나 수정할 때 AI 활용은 엄격히 금지하는 게 원칙이다. ‘문장은 물론 단어 하나도 AI 도움을 받아서는 안 된다’고 규정했다. 아이디어를 찾는 초기 단계에서만 AI를 사용할 수 있도록 했다. 코넬대는 1학년 대상으로 글쓰기 수업을 진행하는데, 학생이 AI로 글을 쓴 게 확인되면 표절로 판단한다. 강사는 학생에게 반성문을 내게 하거나, ‘낙제’ 처리할 수도 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘통일교 금품 수수’ 전재수 의원, 합수본 첫 출석 </title>
-      <link>https://www.chosun.com/national/court_law/2026/03/19/GUBMV7H5WRHZTM6KPOL6WO4TVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/19/GUBMV7H5WRHZTM6KPOL6WO4TVE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 01:01:11 +0000</pubDate>
-      <content:encoded>통일교로부터 금품을 수수했다는 의혹을 받는 전재수 더불어민주당 의원이 19일 검경 합동수사본부(본부장 김태훈 대전고검장)에 출석했다. 합수본이 전 의원을 소환 조사하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTMN3EGY2GGNRXGVSWCYJWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교로부터 금품을 받은 의혹을 받는 전재수 더불어민주당 의원이 19일 검경 합수본에 출석했다. 사진은 지난 17일 전 의원이 서울 여의도 더불어민주당사에서 열린 광역단체장 후보 면접에 출석하며 취재진의 질의에 답변하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 의원은 이날 오전 10시 조사를 앞두고 합수본 사무실이 있는 서울 서초구 서울고검 청사에 도착했다. 최근 부산시장 선거에 출사표를 낸 전 의원은 “참으로 할 일이 많은데 아까운 시간이 흘러가고 있다”며 “빠른 시일 내에 결론이 나오길 기대하겠다. 오늘 조사에 성실히 임하겠다”고 했다. &lt;br&gt;&lt;br&gt;전 의원은 통일교 측으로부터 한일 해저터널 건설 사업 추진 등을 대가로 금품을 받은 혐의(뇌물 및 정치자금법 위반)를 받는다. 앞서 윤영호 전 통일교 세계본부장은 지난 2018∼2020년 전 의원, 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등에게 수천만 원 상당의 금품을 건넸다고 주장했다. 앞서 이 사건을 수사한 경찰은 작년 12월 전 의원에 대한 압수수색 영장에 “현금 2000만원과 1000만원대 불가리 시계”를 수수 금품으로 적시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;합수본은 전 의원을 상대로 틍일교 측으로부터 현안을 청탁받고 금품을 받은 사실이 있는지 등을 확인할 방침이다. 합수본은 지난 18일엔 전 의원의 부인 최모씨를 참고인 신분으로 조사한 바 있다. 마찬가지로 금품 수수 의혹을 받는 임 전 민주당 의원과 김 전 의원에 대해서도 각각 두 차례 피의자 조사를 진행했다. 다만 이들 모두 혐의를 부인하는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“코인 거래 돈 빼앗고 달아나” 신고… 경찰, 강도 혐의 20대 男 검거</title>
-      <link>https://www.chosun.com/national/incident/2026/03/19/HQTLCGUOK5CJ3DDXUI6SYOL7EA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/19/HQTLCGUOK5CJ3DDXUI6SYOL7EA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 01:36:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUPAQBO77A5XY7C36PYWS5AR4Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;인천 미추홀경찰서./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코인 거래를 위해 만난 사람들이 수천만원을 빼앗고 달아났다는 신고를 받고 수사에 나선 경찰이 용의자 3명 중 1명을 붙잡았다.&lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 강도 등 혐의로 20대 남성 A씨를 붙잡아 조사하고 있다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 5시 15분쯤 인천시 미추홀구 주안동의 한 모텔에서 20대 남성 B씨를 여러 차례 때리고 휴대전화를 빼앗아 달아난 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;“코인 거래를 하려고 만난 이들이 4000만원을 빼앗아 달아났다”는 B씨 지인의 신고를 받고 출동한 경찰은 신고 3시간여 만인 오후 8시 30분쯤 세종시에서 A씨를 붙잡았다. &lt;br&gt;&lt;br&gt;경찰 조사 과정에서 ‘코인 거래가 있었다’거나 ‘돈을 빼앗겼다’는 등의 내용은 신고자의 오인 신고로 파악됐다. 경찰은 다른 공범 2명을 추적 중이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피해자는 아직 나타나지 않은 상태고, A씨 등을 상대로 정확한 경위를 확인하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“무릎에 자녀 앉히고 종이책을 읽어줘라”</title>
       <link>https://www.chosun.com/national/education/2026/03/19/DO2HOSJY3RG4JNK4UQXD3VTMBE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/19/DO2HOSJY3RG4JNK4UQXD3VTMBE/</guid>
@@ -903,51 +948,6 @@
       <description/>
       <pubDate>Wed, 18 Mar 2026 15:41:00 +0000</pubDate>
       <content:encoded>고령 인구가 늘면서 녹내장 환자가 꾸준히 증가하고 있는 가운데, 20~40대 젊은 녹내장도 늘고 있어 각별한 주의가 필요하다.&lt;br&gt;&lt;br&gt;녹내장은 안압 상승 등으로 빛을 뇌로 전달하는 시신경이 손상되면서 시야 결손이 발생하는 질환으로, 방치할 경우 실명에 이를 수 있다. 한국녹내장학회가 건강보험심사평가원 진료 자료를 분석한 바에 따르면, 국내 녹내장 환자는 2019년 약 97만명에서 2023년 약 118만명으로 늘었다. 특히 40대 이하 환자가 29만여 명에 달해 젊은 층에서도 증가하는 추세다.&lt;br&gt;&lt;br&gt;젊은 녹내장 증가 원인으로는 고도근시 증가세가 꼽힌다. 근시가 있으면 안구 앞뒤 길이가 상대적으로 길어 눈을 지지하는 구조물의 두께가 얇고 힘이 약해져 시신경이 손상될 가능성이 높아지기 때문이다. 2023년 기준 근시 환자 수는 114만여 명으로, 이 중 30세 미만 환자가 약 68%다. 또한 스마트폰, 태블릿 등 영상기기 사용이 잦아지면서 눈의 피로와 안압에 영향을 미쳐 녹내장이 유발될 수 있다는 지적이다.&lt;br&gt;&lt;br&gt;김태우(분당서울대병원 안과) 녹내장학회 회장은 “녹내장은 노인 질환이라는 인식이 있어 젊은층에서 진단이 늦게 이뤄질 수 있다”며 “근시가 있는 경우 증상이 없더라도 정기적인 안과 검진을 통해 시신경 상태를 확인하는 것이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;박세희 강동경희대학교병원 안과 교수는 “정상 안압을 보이면서도 시신경 손상이 진행하는 정상안압녹내장이 상당한 비율을 차지한다”며 “안압이 정상이라 하더라도 가족력, 고도근시, 얇은 중심각막두께, 시신경 주위 혈류 이상 등의 위험 인자가 있다면, 1년에 한 번 녹내장 검사를 받는 게 좋다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월 19일</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/18/4QS7SPVXBZECRHJITF2EKCFSA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/18/4QS7SPVXBZECRHJITF2EKCFSA4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 14:36:00 +0000</pubDate>
-      <content:encoded> 다시 꽃샘추위…수도권 미세먼지 ‘나쁨’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPNSLWQC65HSFHNDTLHF42L7IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정교유착 합수본, 19일 전재수 의원 첫 피의자 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/QFIZF56GZZFHNBQVYXLO5RLLJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/QFIZF56GZZFHNBQVYXLO5RLLJY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 13:12:35 +0000</pubDate>
-      <content:encoded>정교유착 비리 의혹을 수사하는 검경 합동수사본부(합수본)가 전재수 더불어민주당 의원을 소환했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWGNRWGZSTQOJVG42GIYTGGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 합수본은 오는 19일 오전 10시 전 의원을 피의자 신분으로 불러 조사할 예정이다. 전 의원에 대한 합수본의 소환 조사는 이번이 처음이다. &lt;br&gt;&lt;br&gt;전 의원은 통일교 측으로부터 한일 해저터널 건설 사업 추진 등을 대가로 금품을 받은 혐의를 받는다. 앞서 윤영호 전 통일교 세계본부장은 지난 2018∼2020년 전 의원, 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등에게 수천만 원 상당의 금품을 건넸다고 주장했다. &lt;br&gt;&lt;br&gt;이 사건을 먼저 수사한 경찰청 특별전담수사팀은 작년 12월 전 장관에 대한 압수수색 영장에 ‘현금 2000만원과, 1000만원대 불가리 시계’를 수수한 금품으로 적시한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;합수본은 전 의원을 상대로 윤 전 본부장 등 통일교 측으로부터 통일교 현안 관련 청탁과 함께 금품을 받은 사실이 있는지 등을 조사할 것으로 보인다. 합수본은 이날 오후에는 전 의원의 부인 최모씨를 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 법무장관 “대통령 사건 공소취소 있을 수 없는 일… 통화내역 공개도 가능"</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/3BEXGTP43ZFD3E46DRK6F4ITSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/3BEXGTP43ZFD3E46DRK6F4ITSM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 10:49:51 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLDR5YU2VRLH5CQB5VIADMXEOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 18일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 최근 김어준씨 유튜브에서 제기됐던 이재명 대통령 사건 공소취소 거래설과 공소취소 검토설에 대해 18일 “사실이 아니고 있을 수 없는 일”이라며 “제 명예를 걸고 말씀드리며 통화내역도 공개할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 ‘공소취소 거래설과 공소취소 검토 의혹이 사실이냐’는 국민의힘 윤상현 의원과 조배숙 의원 질의에 이같이 말했다.&lt;br&gt;&lt;br&gt;정 장관은 “대통령 관련 사건을 공소취소했을 때 어떤 문제를 일으킬지 제가 왜 모르겠냐”면서 “정부 고위관계자가 고위 검사들에게 문자메시지나 전화를 했다는 얘기가 나왔는데 어느 하나도 없다(사실이 아니다)”라고 말했다.&lt;br&gt;&lt;br&gt;정 장관은 그러면서 “대통령 사건에 대해 단 한 번도 공소취소를 검토한 적도, 생각해본 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 MBC 기자 출신인 장인수씨는 지난 10일 김어준씨 유튜브 채널 ‘김어준의 겸손은 힘들다 뉴스공장’에 출연해 “누가 봐도 이재명 대통령 최측근이라고 볼 수 있는 정부 고위 관계자가 최근 고위 검사 다수에게 ‘내 말이 곧 대통령의 뜻이다. (이 대통령 사건) 공소취소를 해 달라’는 뜻을 전달했다”고 주장했다. 이에 민주당 내 친명계는 사실이 아니라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “AI가 자동 작성한 소장, 합법”...생성형 AI 서비스는 경고</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/Y3HR62LN3JALNE7MIOD46AUMPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/Y3HR62LN3JALNE7MIOD46AUMPE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 10:36:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4TKMBUMQ3TGMTBGE2DCYZXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;리걸테크(법률기술) 업체가 제공하는 ‘법률문서 단순 자동작성’ 서비스가 합법이라는 대법원 판단이 나왔다. 16일 법조계에 따르면 대법원 3부(주심 오석준 대법관)는 박성재 로폼 법률AI센터장(변호사)이 서울지방변호사회를 상대로 낸 겸직불허 취소 청구 소송 상고심에서 원고 승소로 판결한 원심을 지난달 12일 심리불속행으로 기각했다.&lt;br&gt;&lt;br&gt;박 변호사는 2021년 9월 서울변회에 한 리걸테크 스타트업 사원으로 근무하겠다며 겸직 허가를 신청했다. 이 업체는 2019년부터 ‘로폼’이라는 플랫폼을 통해 내용증명이나 고소장 등 법률문서를 자동으로 작성해주는 서비스를 무료로 제공하고 있었다. 이용자가 문서 유형을 선택하면 표준화된 양식이 만들어지고, 이용자가 빈칸에 답을 입력하면 알고리즘이 공란을 채워 문서를 완성하는 식이다.&lt;br&gt;&lt;br&gt;그러나 서울변회는 이 서비스가 비(非)변호사의 법률사무 취급을 금지한 변호사법에 위반된다는 이유로 같은 해 11월 겸직을 불허했다. 박 변호사는 이에 불복해 행정소송을 냈고, 대법원에서 최종 승소한 것이다.&lt;br&gt;&lt;br&gt;법원은 로폼의 알고리즘 기반의 ‘법률문서 자동작성 서비스’가 변호사법 위반이 아니라고 판단했다. 1심 재판부는 “이 서비스는 이용자가 입력한 내용을 검토하거나 수정하지 않고 그대로 반영한다”며 “이는 기존 법률 서식집에서 양식을 골라 빈칸을 채우는 작업을 디지털로 편리하게 도와주는 것뿐”이라고 했다. 변호사법이 금지하는 ‘법률사무 취급’은 구체적·개별적인 사안을 다뤄야 하는데, 표준화된 문서 양식을 제공하는 데 그친다면 문제가 없다는 것이다.&lt;br&gt;&lt;br&gt;그러나 법원은 리걸테크 업계의 핵심 비즈니스 모델인 변호사 연결(알선) 서비스와 향후 고도화될 생성형 AI 서비스에 대해서는 위법 소지가 크다고 단서를 달았다.&lt;br&gt;&lt;br&gt;먼저, 로폼에서 자동 작성된 문서를 제휴 변호사가 검토하고 직인을 찍어주는 유료 ‘검토 서비스’에 대해 법원은 변호사법상 ‘법률사무 취급’에 해당한다고 판단했다. 또 “로폼이 무료로 제공한 자동작성 서비스를 통해 유료 검토 서비스로 유인하고 대가를 받는 것은 변호사법이 금지하는 ‘알선’에 해당할 여지가 상당하다”고도 지적했다. 다만 서울변회는 애초 박 변호사에게 겸직 불허 처분을 내릴 당시 이 유료 서비스에 대해선 처분 사유에 포함하지 않았기 때문에 박 변호사가 최종 승소할 수 있었다.&lt;br&gt;&lt;br&gt;법원은 생성형 AI 서비스의 위법성도 분명히 했다. 재판부는 “이용자가 텍스트로 자신의 상황을 설명하면 생성형 AI가 연관 문서를 선택·작성해 주는 방식은 단순한 문서 양식의 디지털화 차원을 넘어 ‘사건에 관한 법률 관계 문서 작성 또는 그 밖의 법률사무 취급’에 해당한다고 보기에 충분하다”고 했다. ‘빈칸 채우기’ 수준의 기초적 서비스는 괜찮지만, 생성형 AI 기술을 본격 적용할 경우 현행법 위반이 될 수도 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, BTS 콘서트 대비 ‘특별 입국심사 대책’ 시행</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/18/A4W6ZQZZFBGKNJVKTLNI6QCLFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/18/A4W6ZQZZFBGKNJVKTLNI6QCLFQ/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 09:48:06 +0000</pubDate>
-      <content:encoded>오는 21일 예정된 BTS 콘서트로 인해 인천공항으로 입국하는 외국인 관광객이 급증할 것으로 예상되는 가운데, 법무부가 ‘특별 입국심사 대책’을 시행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLIIYPRHQBEN3A5ZPFXKXLGZOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 법무부에 따르면, 특별 입국심사 대책의 주요 내용은 △출입국심사관 조기 출근 및 연장 근무 △혼잡시간대 非심사 부서 입국심사 지원 △도착 승객 안내 강화 등이다. 이 대책은 이날부터 즉시 시행된다.&lt;br&gt;&lt;br&gt;법무부는 이번 대책 시행으로 외국인 승객 도착이 집중되는 구역과 시간대에 ‘유인 입국심사대’가 늘어나 입국심사 대기시간이 단축되는 효과가 있을 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;한편 법무부는 오는 19일 출입국외국인·정책본부장 주재로 인천공항 혼잡도를 개선하기 위한 관계기관 회의도 개최할 예정이다. 이번 회의에는 법무부, 국토교통부, 인천공항출입국·외국인청, 인천공항공사 관계자들이 참석해 인천공항 혼잡 상황을 공유하고 출입국심사 개선 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
