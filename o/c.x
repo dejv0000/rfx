@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기 여주 상가건물서 불...시민 31명 자력 대피</title>
+      <link>https://www.chosun.com/national/regional/2026/03/21/5WEABXWB5NDUHAP57HV5JWLCEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/21/5WEABXWB5NDUHAP57HV5JWLCEI/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 10:01:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2DGZTFGM2GGMLEMZRWMNJZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도소방재난본부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 여주 한 상가 건물에서 가스 폭발로 추정되는 화재가 발생했다.&lt;br&gt;&lt;br&gt;21일 소방 당국에 따르면, 이날 오후 3시 49분쯤 경기 여주시 현암동 한 2층짜리 상가 건물에서 불이 났다.&lt;br&gt;&lt;br&gt;해당 건물은 연면적 653㎡ 규모의 철골조이며 1층에 식당과 미용실, 2층에 키즈카페 등이 입점해 있다. &lt;br&gt;&lt;br&gt;소방 당국은 이 건물에 1층에 있던 시민이 “가스통이 폭발하면서 불길이 치솟았다”는 신고를 받고 현장에 출동했다.&lt;br&gt;&lt;br&gt;불이 나자 건물 내에 있던 시민 31명이 스스로 대피한 것으로 전해졌다. 이 중 6명은 연기를 마셔 인근 병원에서 치료를 받았으며 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;소방은 이날 6시 37분쯤 큰 불길을 잡고 잔불 정리를 하고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 불을 완전히 진화하는 대로 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 전용남씨 별세 </title>
+      <link>https://www.chosun.com/national/national_general/2026/03/21/ITKMNMFMAVCCRF4A42SVUNSADY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/21/ITKMNMFMAVCCRF4A42SVUNSADY/</guid>
+      <dc:creator>송혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 09:14:57 +0000</pubDate>
+      <content:encoded>▲전용남 별세, 신문순 남편상, 전진수 예건에프앤씨 이사·전인영 부친상, 김소정 디스패치 기자 시부상, 한지융 KB캐피탈 상품기획팀장 장인상=21일 노원을지대학병원, 발인 23일9시30분, (02)970-8444 &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 화재 실종자 14명 끝내 주검으로... 부상은 60명</title>
+      <link>https://www.chosun.com/national/regional/2026/03/21/I5HXSYJPJBENNLOBVXFRETTQOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/21/I5HXSYJPJBENNLOBVXFRETTQOY/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 08:31:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDSMDFGQZGEMLCHEZWEMRTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 대형 화재로 인명피해가 발생한 대전 대덕구 자동차 부품 제조 공장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 자동차 부품 공장 화재 현장에서 마지막 실종자 위치가 확인돼 소방 당국이 구조 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;21일 대전소방본부에 따르면, 이날 오후 4시 10분부터 5시까지 공장 동관 2층에서 실종자 3명의 시신이 잇따라 발견됐다. 인명구조견이 반응을 보인 지점을 중심으로 중장비를 동원해 철거 작업을 하던 중 실종자의 위치가 확인된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현재 시신 수습 작업이 진행 중이다. 이로써 연락 끊겼던 실종자 14명의 소재가 모두 확인됐다. 앞서 발견된 11명은 모두 사망해 인근 병원으로 분산 이송됐다.&lt;br&gt;&lt;br&gt;전날 오후 1시 17분쯤 대전 대덕구 자동차 부품 회사인 안전공업에서 난 화재로 현재까지 사망 14명, 부상 60명(중상 25명, 경상 35명) 등 74명의 인명피해가 난 것으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XSRTOGPNMNOTLJKZ527XULFISI.jpg?auth=884c1cff60dc876de95dcfc447dd61a38ea0474ac3c4f9e4af04fd258661f357&amp;smart=true&amp;width=4860&amp;height=3337" type="image/jpeg" height="3337" width="4860">
+        <media:description type="plain">&lt;YONHAP PHOTO-3515&gt; 이재명 대통령, 자동차부품공장 대형 화재 현장 점검
+    (대전=연합뉴스) 김준범 기자 = 이재명 대통령이 21일 대전 대덕구 안전공업 건물의 대형 화재 현장을 찾아 피해 상황을 살펴보고 있다.  2026.3.21  [공동취재]
+     psykims@yna.co.kr/2026-03-21 17:06:39/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>대전 화재, 점심 때 쉬러갔다 참변... 사망 9명 나온 헬스장, 도면·대장에 없는 시설</title>
       <link>https://www.chosun.com/national/incident/2026/03/21/UZCROC7OTJF3FB3QJWYXGMSI44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/21/UZCROC7OTJF3FB3QJWYXGMSI44/</guid>
@@ -828,27 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZZ2V5JGDRBYLDGA3JDGZNSASQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광양매화축제가 시작된 지난 13일 전남 광양시 다압면. 상춘객들이 활짝 핀 매화마을을 둘러보고 있다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매년 봄꽃이 피는 시기가 달라져 애를 먹었던 전국 지방자치단체들이 ‘꽃 없는 꽃 축제’라는 오명을 피하기 위해 총력전에 나섰다. 개화 시기에 따라 축제 일정을 조율하는 건 기본이고, 실시간으로 꽃 상태를 ‘생중계’하는 등 제대로 된 축제를 만들기 위해 안간힘을 쓰는 모습이다.&lt;br&gt;&lt;br&gt;경남 창원시는 국내 최대 벚꽃 축제인 ‘진해 군항제’를 앞두고 ‘실시간 개화율’을 공개한다고 19일 밝혔다. 군항제는 오는 27일부터 4월 5일까지 열리는데, 축제 홈페이지에선 23일부터 실시간으로 개화율을 확인할 수 있다. &lt;br&gt;&lt;br&gt;이는 2024년 ‘벚꽃 없는 벚꽃 축제’를 열었던 전례를 반복하지 않기 위한 조치다. 당시 창원시는 수년간의 데이터를 바탕으로 3월 22일 군항제를 열었다. 문제는 ‘꽃샘추위’였다. 정작 개막일 개화율이 10%에 그친 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4ITEIZO6BC7NFFCZVPCF4AUXQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 경남 창원시 진해군항제 모습. 올해는 오는 27일부터 내달 5일까지 ‘봄의 시작’을 주제로 열린다. /창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원시는 이번엔 여좌천, 경화역 등 주요 벚꽃 명소에 표본 나무를 선정했다. 매일 눈으로 개화 정도를 파악해 공지하게 된다. 창원기상대는 한 가지에서 꽃이 세 송이 이상 피면 ‘개화’, 나무 전체에 80% 이상 꽃이 피면 ‘만개’로 본다. 창원시 관계자는 “올해는 개막일쯤 개화율이 70~80%가 될 것으로 예상한다”고 했다.&lt;br&gt;&lt;br&gt;대구 달성군은 다음 달 17일 개막하는 ‘비슬산 참꽃문화제’에 실시간 동영상 스트리밍을 도입한다. 4월 1일부터 20일까지 달성군 공식 유튜브 채널에서 비슬산 정상의 날씨와 개화 상태 등을 확인할 수 있다. 달성군 관계자는 “작년엔 경북 일대를 할퀸 대규모 산불의 영향으로 축제를 열지 못했다”며 “올해는 방문객들이 축제를 제대로 즐길 수 있게 준비 중”이라고 했다.&lt;br&gt;&lt;br&gt;개화 시기를 정확히 맞추기 위해 일정을 최대한 늦게 확정하기도 한다. 전남 광양시는 통상 12월이면 결정하던 ‘광양매화축제’ 일정을 지난 2월에야 확정했다. 작년에 꽃샘 추위로 축제 기간 내내 꽃이 피지 않았던 사태를 방지하기 위해서다. 심사숙고 끝에 잡은 일정은 성공적이었다. 매화가 만개하면서 축제가 시작된 지난 13일부터 18일까지 방문객이 43만명을 넘겼다. 축제는 22일까지 열린다. &lt;br&gt;&lt;br&gt;충북 제천은 역대 가장 긴 ‘청풍호 벚꽃 축제’를 앞두고 있다. 다음 달 4일부터 19일까지 16일간 축제를 연다. 제천시 관계자는 “봄 날씨가 변화무쌍한 탓에, 관광객이 단 하루라도 더 만개한 벚꽃을 볼 수 있게 작년보다 기간을 사흘 늘렸다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>낡은 철강 공장이 문화 놀이터로… 부산이 보여준 ‘과거와 현재’</title>
-      <link>https://www.chosun.com/national/regional/2026/03/20/EK6EI74CABCVPPMHUKWWF33UWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/20/EK6EI74CABCVPPMHUKWWF33UWU/</guid>
-      <dc:creator>부산=김미희 기자 , 부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7II2YSOLRZFTBNINDRDDGHKZEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시 수영구 고려제강 수영공장의 과거(왼쪽)와 현재 모습. 1963년 문을 연 공장은 2016년 리모델링을 거쳐 복합 문화 공간 ‘F1963’이 됐다. 공장의 골조와 기둥 등을 최대한 살렸다. 카페, 갤러리, 도서관 등이 들어서 관광객과 시민들로 북적인다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 부산 수영구 망미동에 있는 복합 문화 공간 ‘F1963’. 전국에서 온 관광객으로 북적였다.&lt;br&gt;&lt;br&gt;철근을 끊어 와이어(wire)를 만들던 옛 고려제강 공장을 리모델링한 곳이다. F1963은 이 공장을 처음 지은 해인 1963년과 공장(factory)의 ‘F’를 합친 것이다.&lt;br&gt;&lt;br&gt;소음과 먼지가 진동하던 공장은 카페와 갤러리, 도서관, 정원으로 바뀌었다. 지난해 60만명이 찾았다.&lt;br&gt;&lt;br&gt;정문 안으로 들어가니 60년 전 공장의 골조와 기둥이 곳곳에 남아 있었다. 1층 카페의 테이블은 공장에 있던 철판으로 만들었다. 영국 런던의 낡은 화력발전소를 미술관으로 바꾼 ‘테이트모던’이 떠올랐다. 화력발전소가 미술관이 되자 낙후한 템스강 이남 지역의 색깔이 바뀌었다. 지금은 런던의 ‘핫플레이스’가 됐다. &lt;br&gt;&lt;br&gt;고려제강은 공장 주변에 집이 들어서자 2008년 낡은 공장을 경남 창원·양산 등으로 옮기고 그 자리에 코스트코와 현대모터스튜디오를 유치했다. 메인 공장은 리모델링해 F1963을 만들었다. 기피 시설인 공장이 명소가 되자 어두웠던 동네 분위기가 바뀌고 땅값도 2~3배로 뛰었다. 주상복합 아파트를 지었으면 더 많은 돈을 벌었을 것 같다고 하자 홍영철 고려제강 회장은 “부산에 이미 아파트는 많다”며 “시민들이 문화를 즐기고 쉴 수 있는 공간이 더 필요하다고 봤다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKZLNILTZNBRVHLEMZWPCRJF74.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 작년 7월 세계디자인기구(WDO)로부터 ‘2028 세계디자인수도’로 선정됐다. 국내에선 2010년 서울에 이어 두번째다. 디자인 분야 국제기구인 세계디자인기구는 2년마다 세계 주요 도시를 심사해 세계디자인수도를 선정한다. 디자인을 통해 사회 문제를 해결하고 도시 혁신을 끌어내자는 취지다. 그동안 이탈리아 토리노, 핀란드 헬싱키, 스페인 발렌시아 등이 뽑혔다.&lt;br&gt;&lt;br&gt;부산을 찾은 실사단이 가장 놀랐던 장소가 F1963이었다고 한다. 이안기 F1963 이사는 “공장 바닥재, 철판 등을 재활용해 폐기물을 최대한 줄인 점, 공장을 혁신해 지역에 기여한 점 등을 좋게 본 것 같다”고 했다.&lt;br&gt;&lt;br&gt;실사단은 이 밖에 해운대 블루라인파크, 부산북항, 도모헌, 영도 봉산마을 등을 둘러봤다.&lt;br&gt;&lt;br&gt;해운대와 송정을 잇는 해변 관광 열차인 해운대 블루라인파크는 동해남부선 폐선 부지를 친환경적으로 개발한 점이 좋은 평가를 받았다. 지난해 외국인 관광객 150만명이 해운대 블루라인파크를 찾았다. 도모헌은 옛 부산시장 관사다. 꽁꽁 잠긴 관사를 개방해 카페, 전시관으로 만들었다. 지난해 도모헌을 찾은 영국의 건축 디자이너 토머스 헤더윅은 “부산 지역 특유의 개방성과 포용성을 느낄 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVHYQBBFPJBPPBQTN4OG4LXYIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대구 블루라인 파크. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나건 부산시 총괄디자이너(동서대 석좌교수)는 “화려한 미디어 파사드를 선보인 경쟁 도시(중국 항저우)와 달리 부산은 과거와 현재 모습을 그대로 보여줬다”며 “구도심의 빈집 문제를 디자인으로 풀어내겠다고 하자 박수를 치더라”고 했다.&lt;br&gt;&lt;br&gt;부산디자인진흥원이 2022년부터 운영 중인 ‘시민 공감 디자인단’도 실사단의 관심을 끌었다. 시민 공감 디자인단은 지역 주민과 디자이너, 공무원이 한 팀이 돼 동네의 ‘깨진 유리창’을 바꾼다. 강필현 부산디자인진흥원장은 “실사단은 주민이 함께 아이디어를 내고 지역 문제를 풀어내는 것을 보고 부러워했다”고 전했다.&lt;br&gt;&lt;br&gt;세계디자인기구를 설득하기 위해 부산시와 산업통상부, 문화체육관광부 등이 똘똘 뭉쳤다. 오미경 부산시 디자인산업혁신과장은 “부산의 야경을 잘 볼 수 있도록 실사단이 묵을 호텔 층수까지 신경 썼다”고 했다.&lt;br&gt;&lt;br&gt;루이자 보키에토 세계디자인수도 조직위원장은 “6·25전쟁 때 피란민들이 모여 살던 달동네에 들어선 작은 카페와 작업실이 인상적이었다”며 “부산에는 바다와 산 등 자연뿐 아니라 ‘피란 수도’라는 역사 스토리도 있다”고 했다.&lt;br&gt;&lt;br&gt;부산시는 디자인을 새로운 성장 동력으로 활용한다는 계획이다. &lt;br&gt;&lt;br&gt;오는 23일부터 일주일을 ‘WDC 부산 디자인 주간’으로 정하고 관련 행사를 잇따라 연다. 24일에는 부산항 국제전시컨벤션센터(BPEX) 5층 이벤트홀에서 ‘2028 세계디자인수도(WDC) 부산 국제 컨퍼런스’가 열린다. 조선일보와 부산시가 공동 주최하는 국제 행사다. 토머스 가비 전 WDO 회장 등 국내외 전문가가 ‘디자인을 통한 도시의 회복과 연결’을 주제로 토론한다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “디자인을 활용해 빈집이나 청년 인구 유출 등 문제를 해결하고 부산을 세계적인 도시로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7II2YSOLRZFTBNINDRDDGHKZEU.jpg?auth=36fa6b55c6d563c32ce74db146644d1beafadab736815e267dd805d2f1edee73&amp;smart=true&amp;width=1600&amp;height=1080" type="image/jpeg" height="1080" width="1600">
-        <media:description type="plain">부산시 수영구 고려제강 수영공장의 과거(왼쪽)와 현재 모습. 1963년 문을 연 공장은 2016년 리모델링을 거쳐 복합 문화 공간 ‘F1963’이 됐다. 공장의 골조와 기둥 등을 최대한 살렸다. 카페, 갤러리, 도서관 등이 들어서 관광객과 시민들로 북적인다./부산시</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“옛 유산, 디자인으로 발전 인상적… 부산 혁신 세계에 알릴 기회 얻어”</title>
-      <link>https://www.chosun.com/national/regional/2026/03/20/RTYBGBWCMZH5JGBKAQMJPJEV7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/20/RTYBGBWCMZH5JGBKAQMJPJEV7Q/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3BE7ZESSZHEPCYOT5KLVT3XJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토마스 가비 전 WDO 회장. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“부산에 갔을 때 깜짝 놀랐습니다. 산과 바다로 둘러싸인 도시에 빼곡히 들어선 건물들. 사람들은 무질서하다고 하지만 저는 그 속에서 역동성과 가능성을 봤습니다.”&lt;br&gt;&lt;br&gt;토머스 가비(Garvey·67) 전 세계디자인기구(WDO) 회장은 최근 본지 인터뷰에서 부산에 대해 이렇게 말했다. 부산은 작년 7월 세계디자인기구로부터 ‘2028 세계디자인수도(WDC)’로 선정됐다. 가비 전 회장은 당시 선정위원장이었다.&lt;br&gt;&lt;br&gt;경쟁 도시인 중국 항저우는 화려한 미디어파사드를 선보였다고 한다. 반면에 부산시는 슬럼화한 구도심 마을을 소개했다. 거기서 디자인 도시의 잠재력을 봤다는 얘기다.&lt;br&gt;&lt;br&gt;그는 “디자인은 도시에 혁신을 불어넣고, 오래된 도심을 회복시키는 역할을 한다”며 “문 닫은 공장과 폐선 부지 등 과거 유산을 디자인으로 바꾼 사례들이 인상 깊었다”고 했다. &lt;br&gt;&lt;br&gt;디자인 분야 국제기구인 세계디자인기구는 2년마다 세계디자인수도를 선정하고 있다. 세계디자인수도로 선정된 도시는 디자인을 활용해 사회 문제를 해결하고, 성공 사례를 세계 도시들과 공유한다. &lt;br&gt;&lt;br&gt;가비 전 회장은 “부산도 이번에 도시를 혁신하고 그 성과를 전 세계에 알릴 기회를 얻었다”며 “세계디자인수도 선정은 끝이 아니라 변화의 시작인 셈”이라고 했다.&lt;br&gt;&lt;br&gt;서울은 ‘2010 세계디자인수도’가 된 이후 난립한 간판을 정비하고 곳곳에 걷기 좋은 거리를 만들었다. 동대문디자인플라자(DDP) 등 랜드마크도 만들었다. 이런 노력이 글로벌 도시로 성장하는 자산이 됐다고 그는 분석했다. 서울시는 요즘도 매년 글로벌 도시·디자인 전문가들을 초청해 정책 사례를 공유하는 포럼을 연다. &lt;br&gt;&lt;br&gt;그는 “부산은 다양성과 개방성, 포용성을 품고 있는 도시”라며 “잠재력이 커 미래가 기대된다”고 했다. 디자인 산업이 발전하면 청년 유출 문제도 해결할 수 있을 것이라고 했다. &lt;br&gt;&lt;br&gt;가비 전 회장은 캐나다 칼턴대 산업디자인학부 교수 출신으로 2023년부터 작년까지 세계디자인기구 회장을 지냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>섬박람회 앞둔 여수, 저조한 후원금 골머리</title>
       <link>https://www.chosun.com/national/regional/2026/03/20/DACV6XYVKBDS7NSJL7FKLMOOTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/20/DACV6XYVKBDS7NSJL7FKLMOOTQ/</guid>
@@ -902,15 +915,6 @@
       <pubDate>Thu, 19 Mar 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2FGBJOHXFFEHEGMDKT4AXADKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울 송파구 자택 앞 놀이터에서 아빠 민덕기(왼쪽)씨와 엄마 김한솔씨가 세쌍둥이 딸 세희(왼쪽부터), 세은, 세아를 시소에 태우고 있는 모습. 김씨는 “이른둥이로 태어나 신생아중환자실 신세를 졌던 세 아이가 모두 퇴원했을 때 세상 그 누구보다 큰 부자가 된 것 같았다”고 했다.
 /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 3월 21일 낮 12시 17분 서울아산병원 수술실. 1분 간격으로 세 번의 아기 울음소리가 터져 나왔다. 김한솔(38)·민덕기(36)씨 부부의 세 쌍둥이인 세은·세아·세희(현재 3살) 자매가 제왕절개 수술을 통해 태어난 것이다. 임신 28주 4일 만에 이른둥이로 태어난 세 자매의 당시 몸무게는 각각 1㎏ 남짓에 불과했다. 아이들은 곧장 신생아중환자실(NICU)로 옮겨져 집중 치료를 받았다. 첫 면회 날을 잊지 못한다는 엄마 김씨는 “내가 상상한 아기들의 모습이 아니었다”고 회상했다. 첫 한 달가량은 아이들이 안대를 쓰고 산소 공급 보조장치 등에 가려져 얼굴도 제대로 보지 못했다.&lt;br&gt;&lt;br&gt;세 아이를 모두 집으로 데려올 수 있을 때까지 2개월 반이 걸렸다. 세은이가 51일, 세아가 56일, 세희가 74일 만에 귀가했다. 김씨는 “가족이 처음으로 ‘완전체’가 됐을 때의 벅찬 기분은 말로 다 할 수 없다. 세상 그 누구보다 큰 부자가 된 기분이었다”고 말했다. 아빠 민씨는 “세 아이가 나란히 누워 있는 모습을 보니 그간의 고생이 다 씻겨나가는 것 같았고, 아이들을 위해 잘 살아야겠다는 책임감이 강하게 들었다”고 했다.&lt;br&gt;&lt;br&gt;2018년 결혼한 두 사람에게 세 쌍둥이는 당초 계획에 없던 일이었다. 민씨는 딸 둘 이상을 원한 반면, 김씨는 ‘생기면 낳고 안 생기면 말자’는 생각이었다. 결국 시험관 시술로 아기를 갖게 됐다. 처음엔 쌍둥이인 줄만 알았는데, 한 주 뒤 아기집이 하나 더 발견됐다. 배아를 2개 이식했는데 그중 하나가 분열해 ‘일란성+이란성’ 세 쌍둥이가 된 것이다. 병원에선 산모의 안전을 위해 태아 하나를 줄이자(선택적 유산)고 권유했다. 남편 역시 아내를 위해 이 권유를 받아들이자고 했지만, 김씨가 이를 끝까지 버텨냈다.&lt;br&gt;&lt;br&gt;세 쌍둥이 육아는 그야말로 전쟁이다. 이른둥이다 보니 신생아 기간도 다른 아이들보다 길었다. 한 달에 기저귀만 1000개를 썼고, 손수건도 하루 100장 이상 사용했다. 아이들이 용쓰기가 심해 분유를 코와 입으로 뿜어내는 일이 다반사였기 때문이다. 그때마다 손수건으로 닦아내고, 손수건에 물을 묻혀 목욕도 시켰다. 이른둥이로 태어난 아이들의 분유 종류도 제각각이었다. 특히 세아는 선천성 대사 수치 이상이 나타나 콩으로 만든 특수 분유를 먹어야 했다. 실수를 방지하기 위해 냉장고에 메모를 붙여놓고 한 사람이 전담해 분유를 제조했다. 김씨는 “몸이 부서질 것 같아 수액을 맞으면서도 아이들 곁을 지켰다”고 했다.&lt;br&gt;&lt;br&gt;병원 출입도 잦았다. 한 달에 20번이나 서울아산병원을 드나들었을 정도다. 세 아이 모두 소아청소년과, 안과, 재활의학과 진료를 기본으로 받았다. 세아와 세희는 뇌 신경 조직 일부가 손상돼 다리 근육 조절이 어려운 백질연화증으로 인한 발목 강직 증상이 있어 생후 100일 무렵부터 현재까지 재활 치료를 받고 있다. 김씨는 “남편 덕분에 다른 사람의 도움 없이 버틸 수 있었다”고 말했다. 청과회사 경매사인 남편은 주로 오후에 출근해 새벽에 퇴근하며, 오전에는 아이들과 함께 병원을 찾는다.&lt;br&gt;&lt;br&gt;병원 진료가 잦다보니 경제적 부담이 적지 않았다. 이때 국가에서 치료비를 지원해주는 ’이른둥이 산정특례’ 제도가 큰 도움이 됐다. 다만 부부는 “산정특례 혜택이 최대 5년 4개월까지만 적용된다고 하니 그 이후의 치료비는 어떻게 감당해야 할지 벌써 걱정이 앞선다”며 “아이의 발달 상태에 맞춰 유연하게 기간을 연장하거나 다태아 전용 보험 상품 같은 실질적인 안전망이 필요하다”고 했다. 또 다자녀 가구 전기요금 30% 감면 혜택 역시 실제로는 월 1만6000원 한도에 묶여 있어 세 아이를 키우며 세탁기와 건조기를 수시로 돌리는 현실과는 동떨어진 ‘보여주기식 복지’라고 지적했다.&lt;br&gt;&lt;br&gt;부부는 36개월까지 아이들을 어린이집에 보내지 않고 가정에서 보육했다. 아이들에게 영어를 가르치던 일을 했던 김씨는 임신 기간부터 가정보육 계획을 짰다. 김씨는 “남들은 힘들지 않냐고 하지만 아이들의 성장을 매일 지켜볼 수 있다는 것은 가장 큰 축복”이라고 했다. 민씨는 주말마다 ‘보조 교사’를 맡았다.&lt;br&gt;&lt;br&gt;아이들의 가장 친한 친구는 외할아버지 김우천(67)씨와 외할머니 신유정(63)씨다. 이들은 일주일에 두 번씩 방문해 육아를 돕는다. 외할아버지는 “딸이 세 아이를 품고 고생할 때부터 그저 무사하기만을 바랐는데, 이제는 제법 커서 내 손을 잡고 공주 놀이를 하자고 조르는 손녀들을 보면 그간의 걱정이 무색할 만큼 행복하다”고 했다. &lt;br&gt;&lt;br&gt;아이는 행복이다. 아빠 민씨는 “최근에 셋이 쪼르르 서서 ‘아빠 힘내세요’ 노래를 불러줬는데, 눈물이 핑 돌 정도로 감동적이었다. 피로가 싹 가시는 기분이었다”고 했다. 김씨 역시 “셋이 옹기종기 모여 장난치고 까르르 웃는 모습을 가만히 지켜보고 있으면 그렇게 예쁠 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;이른둥이를 키우는 부모들에게 전하고 싶은 말을 묻자 부부는 이렇게 말했다. “아기들은 우리가 생각하는 것보다 훨씬 더 강하고 씩씩해요. 집으로 돌아와 부모의 사랑을 받으면 저마다의 속도로 멋지게 자란답니다. 끝이 보이지 않는 터널처럼 느껴지더라도 아이의 가능성을 믿고 조금만 더 힘을 냈으면 좋겠어요.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 숙식을 제공하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/03/20/WADAYNRGZRHX3AOX4GBTFI6ZQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/03/20/WADAYNRGZRHX3AOX4GBTFI6ZQY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EB4SEVNCEZD3PA46ILROXSZDME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 3월 20일</title>
