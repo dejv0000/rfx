@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“광화문 공연 티켓은 내 인생 최고의 경품...BTS과 아미의 마음이 하나되길”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/21/N2KZHFSAYRHV5LAIAKDIXZKBKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/21/N2KZHFSAYRHV5LAIAKDIXZKBKA/</guid>
+      <dc:creator>지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 04:32:53 +0000</pubDate>
+      <content:encoded>“우리가 함께라면 불렛프루프(bullet proof)! 방탄소년단(BTS)과 아미(ARMY·BTS의 팬덤명)를 나타내는 말이에요. 21일은 제 인생 최고의 날이 될 거예요.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVIIRHPGRZGANLWXZ2CG2RS2TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;칠레에서 온 레슬리 시스터나스(45)씨가 작년 6월 경기 고양시에서 열린 '2025 BTS 페스타'에서 포즈를 취하고 있다. /사진 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;칠레에서 온 레슬리 시스터나스(45)씨는 2021년 BTS에 ‘입덕’했다. 친구들이 BTS에 대해 이야기하는 것을 듣고, 유튜브에서 BTS 영상을 찾아본 것이 시발점이었다. 칼군무 퍼포먼스와 멤버들이 뿜어내는 에너지가 시스터나스씨를 매료시켰다. &lt;br&gt;&lt;br&gt;특히 BTS의 노래 ‘00:00’를 접한 뒤 BTS에 대한 시스터나스씨의 애정은 더 강렬해졌다. 힘든 하루를 보냈더라도 자정이 되면 새로운 날이 시작되고, 이전보다 더 나은 날이 될 수 있다는 가사가 그녀에게 큰 위로가 됐다. &lt;br&gt;&lt;br&gt;시스터나스씨가 가장 좋아하는 멤버는 정국과 진이다. 정국은 자유로운 영혼이 본인과 닮은 듯하고, 진은 그룹에서 가장 재밌고 유쾌하면서도 맏형으로서 동생들을 잘 챙기는 것이 매력적이라는 이유다.&lt;br&gt;&lt;br&gt;남편을 따라 2024년부터 한국에 거주 중인 시스터나스씨는 “BTS 덕분에 알게 된 한국에 살 수 있어 행운”이라고도 말했다. BTS에게 힘을 얻어 낯선 타지에 정을 붙이며 살아가고 있다. 시스터나스씨의 책상 한켠에는 BTS 멤버들의 피규어가 놓여 있다. &lt;br&gt;&lt;br&gt;시스터나스씨는 BTS와 소통할 수 있는 앱인 ‘위버스’에서 이번 광화문 공연 티켓을 얻었다. 그는 “BTS 관련 영화는 여러 차례 봤지만, 직접 콘서트에서 BTS를 만나는 것은 처음인지라 떨리는 마음을 숨기기가 어렵다”고 했다.&lt;br&gt;&lt;br&gt;시스터나스씨는 “멤버들을 맨 앞줄에서 볼 수 있는 티켓을 받았는데, 내 인생 최고의 경품이라 아직도 믿기지 않는다”며 “광화문 공연에서 BTS와 아미가 서로를 응원한다는 메시지가 전달되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대전 車부품공장 화재 현장서 시신 1구 추가 수습...사망자 11명</title>
       <link>https://www.chosun.com/national/incident/2026/03/21/QAL26C6AJVCQJNADSCCSB5HPEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/21/QAL26C6AJVCQJNADSCCSB5HPEM/</guid>
@@ -867,15 +876,6 @@
       <description/>
       <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EB4SEVNCEZD3PA46ILROXSZDME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 하룻밤 절여 두다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/03/20/GUZPTFFLZJE6VCJBMZXK6UAXEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/03/20/GUZPTFFLZJE6VCJBMZXK6UAXEA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIINIMZ3BZFGLDGTGXYRF65WWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[두근두근 뇌 운동] [2829] 바꿔 부르기</title>
