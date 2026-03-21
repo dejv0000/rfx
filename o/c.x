@@ -13,6 +13,41 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대전 화재, 점심 때 쉬러갔다 참변... 사망 9명 나온 헬스장, 도면·대장에 없는 시설</title>
+      <link>https://www.chosun.com/national/incident/2026/03/21/UZCROC7OTJF3FB3QJWYXGMSI44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/21/UZCROC7OTJF3FB3QJWYXGMSI44/</guid>
+      <dc:creator>대전=신정훈 기자, 대전=정동하 기자, 권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 07:05:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDSMDFGQZGEMLCHEZWEMRTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 대형 화재로 인명피해가 발생한 대전 대덕구 자동차 부품 제조 공장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 20일 화재가 발생한 대전 대덕구 자동차 부품 제조 공장 ‘안전공업’에서 사망자가 집중적으로 발견된 헬스장은 건축 허가 당시 당국에 제출된 도면에는 없었던 공간이었던 것으로 21일 확인됐다.&lt;br&gt;&lt;br&gt;대전 대덕구청과 대덕소방서에 따르면 사망자 9명이 발견된 헬스장은 당초 건물 3층으로 알려졌으나 도면에는 없는 2층의 복층 공간이었다.&lt;br&gt;&lt;br&gt;대덕구청 관계자는 “2·3층 사이 주차장에서 비스듬히 올라가며 계단이 경사진 곳이 있는데 층고가 약 5.5m 정도 된다”며 “공장에서 2·3층의 일부 공간을 증축해서 사용한 것으로 보이며, 당초 이곳에 있던 헬스장은 건축 허가 당시의 도면과 대장에는 나와 있지 않다. 사실상 허가를 받지 않은 부분으로 보인다”고 했다. 이곳 헬스장에선 실종된 9명의 시신이 수습됐다.&lt;br&gt;&lt;br&gt;헬스장으로 알려진 이곳은 탈의실로 평소 안전공업 직원들은 쉬는 시간에 잠을 자는 등 휴식을 취한 것으로 전해졌다. 원래 2층인 공간을 두 층으로 쪼개 쓰다 보니 창문도 한쪽에만 있었다.&lt;br&gt;&lt;br&gt;복층에서 점심시간에 휴식을 취하던 직원 다수가 불이 난 것을 알고 탈출하려 했으나, 급격히 연소가 확대되면서 탈출구를 찾는 데 어려움을 겪었을 가능성이 제기됐다. 또 창문이 한쪽밖에 없어 연기가 빠져나가기 어려웠을 것이란 분석도 나온다.&lt;br&gt;&lt;br&gt;남득우 대덕소방서장은 “전면 유리창이 막혀 있어 빠져나가기 쉽지 않았을 것으로 추측되지만 인명 피해가 컸던 원인이라고 단정하긴 어렵다”면서 “창문을 열면 연기가 더 잘 빠졌을 텐데 그런 부분에서 지장이 있었을 가능성은 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 남 서장은 “스프링클러는 3층 주차장에만 설치돼 있는 것으로 확인됐고, 공장 내부는 옥내 소화전만 설치돼 있었다”며 “스프링클러가 설치되지 않아도 문제가 없었는지 확인해 보겠다”고 했다.&lt;br&gt;&lt;br&gt;불이 급격하게 번진 이유에 대해선 “공장 내부에 절삭유로 인한 기름때들이 많았고 배관에도 먼지가 많아 이를 통해 급격하게 불이 번졌을 가능성이 높다”고 했다.&lt;br&gt;&lt;br&gt;전날 오후 1시 17분쯤 대전 대덕구 자동차 부품 회사인 안전공업에서 난 화재로 현재까지 11명이 사망하고, 4명이 실종된 상태다. 부상자는 59명으로 중상 25명, 경상 34명으로 집계됐다. 부상자 중 2명은 소방대원이다. &lt;br&gt;&lt;br&gt;현재까지 부상자 중 4명은 중환자실에서, 24명은 일반 병실에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XSRTOGPNMNOTLJKZ527XULFISI.jpg?auth=884c1cff60dc876de95dcfc447dd61a38ea0474ac3c4f9e4af04fd258661f357&amp;smart=true&amp;width=4860&amp;height=3337" type="image/jpeg" height="3337" width="4860">
+        <media:description type="plain">&lt;YONHAP PHOTO-3515&gt; 이재명 대통령, 자동차부품공장 대형 화재 현장 점검
+    (대전=연합뉴스) 김준범 기자 = 이재명 대통령이 21일 대전 대덕구 안전공업 건물의 대형 화재 현장을 찾아 피해 상황을 살펴보고 있다.  2026.3.21  [공동취재]
+     psykims@yna.co.kr/2026-03-21 17:06:39/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>BTS 컴백 함께하러 브라질에서 날아온 일가족...“아미는 평생 BTS편”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/21/MFBD4RAEEVEZDH6WD7WUTDR4GM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/21/MFBD4RAEEVEZDH6WD7WUTDR4GM/</guid>
+      <dc:creator>지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 06:57:22 +0000</pubDate>
+      <content:encoded>“BTS는 우리가 살아갈 수 있게 해줘요. 우리의 매일을 가장 행복한 날로 만들어줘서 고맙습니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJRBYILSF5BWJPPQXSV37BHE4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 브라질에서 온 아나 판카(15)씨 가족이 명동 신세계백화점 본점 앞 전광판에서 송출되는 BTS 컴백 광고 앞에서 BTS 캐릭터 인형을 들고 사진을 찍고 있다./지혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;BTS 광화문 공연을 3일 앞둔 지난 18일 찾은 명동. 길가 상점들에서는 BTS의 인기곡들이 흘러나왔고, 거리에는 ‘WELCOME BTS&amp;amp;ARMY’라고 적혀 있는 보라색 전광판이 반짝였다. 이날 명동 신세계백화점 본점 앞 전광판에는 BTS의 컴백 광고가 송출되고 있었는데, 전광판 맞은편에는 광고 인증샷을 찍기 위해 모인 팬들이 옹기종기 모여 있었다. &lt;br&gt;&lt;br&gt;브라질 산타카타리나주에서 온 아나 판카(15)씨 가족은 지난 14일 한국에 도착해 오는 28일까지 한국에 머물 예정이다. 이들은 BTS 완전체 컴백을 함께하기 위해 처음으로 한국을 찾았다. 극심한 경쟁률 때문에 입장권은 구하지 못했으나, 컴백 현장의 분위기를 함께 느끼고자 오는 21일 광화문을 찾을 예정이다. &lt;br&gt;&lt;br&gt;아나씨는 고등학교 2학년이다. BTS를 두눈으로 담고 온몸으로 타지 문화를 경험하고자 학교 수업은 잠시 제쳐두고 한국에 왔다. 그는 코로나19가 한창이던 지난 2020년 유튜브에서 BTS 영상을 보고 아미가 됐다. BTS의 특별한 점을 묻는 질문에 아나씨는 “자기애에 대해 노래하고 스스로를 사랑하라는 메시지가 마음에 와 닿았다”며 “바닥에서부터 올라와 세계에서 가장 유명한 가수가 된 BTS의 성장스토리가 감동을 준다”고 말했다. &lt;br&gt;&lt;br&gt;아나씨가 가장 좋아하는 멤버는 ‘월드 와이드 핸썸’이라는 수식어를 지닌 진이다. 이나씨는 작년에 넷플릭스에서 방영된 ‘대환장 기안장’이라는 프로그램도 아주 재밌게 봤는데, 손으로 음식을 먹는 등 진의 새로운 도전을 보는 게 즐거웠다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNB2X45WAVHNPHID4VCP2T5Z2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 명동에서 만난 브라질 아미 우니스 판카(46)씨, 다니엘라 판카(46)씨의 검지손가락 안쪽에 멤버 수를 뜻하는 ‘7’ 모양의 타투가 새겨져 있다./지혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;BTS에 대한 애정은 금세 가족들에게도 퍼졌다. 이날 아나씨와 함께 한국을 찾은 어머니 우니스 판카(46)씨와 이모 다니엘라 판카(46)씨도 BTS의 열성적인 팬이다. 다니엘라씨는 이날 BTS를 상징하는 보라색 매니큐어를 바르고 나왔고, 다니엘라씨와 우니스씨의 검지 손가락 안쪽에는 멤버 수를 뜻하는 ‘7’ 모양의 타투가 새겨져 있었다. 한국에 오기 직전 브라질에서 BTS의 컴백을 기념하며 새긴 타투다. &lt;br&gt;&lt;br&gt;이들은 이날 명동의 한 K팝 굿즈(상품)숍에서 BTS 캐릭터 인형을 구입했다. 20일엔 BTS 소속사인 하이브 사옥을 방문한 뒤 21일 당일엔 광화문 공연을 관람할 예정이다.&lt;br&gt;&lt;br&gt;우니스씨는 “암울했던 코로나 팬데믹 시기에 BTS가 우리들의 삶을 구원했다”며 “포기하지 말고 강하게 버티자는 메시지가 큰 힘이 됐다”고 눈물을 훔쳤다. 다니엘라씨는 “BTS가 가족처럼 느껴진다”며 “BTS의 에너지로 하루하루가 행복하다”라고 웃었다. &lt;br&gt;&lt;br&gt;BTS 완전체 컴백을 앞두고 이들은 “멤버들이 어떤 모습이든 아미들은 평생 BTS 옆을 지킬 것이고, BTS는 영원할 것이라는 말을 전하고 싶다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 22일 일요일 (음력 2월 4일 乙未)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/21/BFKOYBEUVJAPDGNX4GJ2OIE4XE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/21/BFKOYBEUVJAPDGNX4GJ2OIE4XE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
       <title>“광화문 공연 티켓은 내 인생 최고의 경품...BTS과 아미의 마음이 하나되길”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/21/N2KZHFSAYRHV5LAIAKDIXZKBKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/21/N2KZHFSAYRHV5LAIAKDIXZKBKA/</guid>
@@ -876,33 +911,6 @@
       <description/>
       <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EB4SEVNCEZD3PA46ILROXSZDME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2829] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2026/03/20/HCS76PREM5AKZOYOCMQGYQA3X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/20/HCS76PREM5AKZOYOCMQGYQA3X4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKYANB4W2BAFRG7GPC2NL3676Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 하사품(下賜品)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/03/20/TNW3FZB3MZD47GOPY6Z53C6QRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/03/20/TNW3FZB3MZD47GOPY6Z53C6QRQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBJISRVTZVBTZNPVD7WZL2VM3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] That’s where we differ.</title>
-      <link>https://www.chosun.com/national/nie/english/2026/03/20/OMFKS4U4ERDJ7KMT3V7IXUY7FY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/03/20/OMFKS4U4ERDJ7KMT3V7IXUY7FY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EHUZBC2L5DH7E6IYK2SQQRD64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 3월 20일</title>
