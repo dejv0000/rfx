@@ -13,6 +13,57 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“제가 용서 안 했는데…” 아파트 침입 속옷 절취 피해 여성이 전한 눈물의 절규</title>
+      <link>https://www.chosun.com/national/2026/03/22/OM4LA72XFVG2PDO2WEWXMXD374/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/22/OM4LA72XFVG2PDO2WEWXMXD374/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 07:47:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EZN4JYVPBECXGSLB6KGBEUPHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20대 피해 여성이 사법부의 솜방망이 처벌을 비판하며 참담한 심경을 담은 호소문. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간, 경북 안동의 한 아파트 3층 베란다를 넘어 20대 여성들이 사는 집에 세 차례나 침입해 속옷을 훔친 30대 남성에게 1심 법원이 징역형의 집행유예를 선고했다. 갓 사회에 발을 내디뎠던 20대 피해 여성은 사법부의 솜방망이 처벌과 가해자 중심의 재판 결과를 강하게 비판하며 참담한 심경을 담은 호소문을 공개했다.&lt;br&gt;&lt;br&gt;◇무너진 ‘나이팅게일’의 꿈… 일상이 된 공포&lt;br&gt;&lt;br&gt;피해자 B(29)씨는 2021년 간호사 국가고시에 합격한 후 안동의 한 병원에 첫발을 내디뎠다. 고된 3교대 근무 속에서도 최고의 간호사가 되겠다는 자부심으로 동료 후배와 함께 전세 아파트에서 의지하며 생활하고 있었다.&lt;br&gt;&lt;br&gt;그러나 지난해 5월 27일, 같은 아파트 바로 뒷동에 거주하던 A(38)씨가 새벽 시간 B씨의 집 베란다 창문을 넘어 침입하면서 평범했던 일상은 산산조각 났다. 냄새를 맡는 등 엽기적 행동에 속옷만 골라 훔쳐 달아난 A씨의 범행 이후, B씨는 심각한 트라우마에 시달리며 결국 직장과 삶의 터전을 모두 잃었다. B씨는 “작은 소리에도 잠에서 깨고, 밤마다 침대 밑을 확인해야만 겨우 잠들 수 있다”며 끝없는 공포와 불안을 호소했다.&lt;br&gt;&lt;br&gt;◇“만취라니“… 납득할 수 없는 양형&lt;br&gt;&lt;br&gt;최근 대구지법 안동지원은 스토킹처벌법 위반과 주거침입, 주거수색 등 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고했다. 재판부는 범행을 인정하고 공탁을 한 점, 알코올 의존증 치료를 받은 점, 범행 당시 기억을 못 할 정도로 만취 상태였던 점을 양형 사유로 들었다.&lt;br&gt;&lt;br&gt;하지만 B씨는 재판부의 ‘만취 상태’ 판단을 강하게 반박했다. B씨는 “가해자는 낙상 위험을 피해 3층 베란다로 신속히 침입했고, 거실에 널브러진 옷가지도 피해 다닐 정도로 의식이 정상이었다”며 경찰에 제출된 CCTV 영상과 상반되는 재판부의 판단에 분통을 터뜨렸다.&lt;br&gt;&lt;br&gt;◇“합의금 아닌 진정한 사과 원해”&lt;br&gt;&lt;br&gt;피해자를 더욱 좌절하게 만든 것은 가해자의 기만적인 태도와 사법부의 소극적인 피해자 보호 조치다. A씨는 구속영장 실질심사 당시 피해자와의 격리를 위해 이사를 가고 직장도 그만두겠다고 약속했으나, 현재까지도 범행 장소에서 불과 40m 떨어진 곳에 거주하며 버젓이 직장 생활을 이어가고 있다.&lt;br&gt;&lt;br&gt;또한 법원이 양형 사유로 삼은 ‘공탁금’에 대해서도 B씨는 씁쓸함을 감추지 못했다. 가해자 측은 피해자들에게 각각 250만원씩 공탁한 뒤, 합의 의사가 없자 재판 전 전화를 걸어 “공탁금을 더 걸 테니 할부가 가능하냐”고 물어온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B씨는 “제가 원한 건 합의금이 아니라 피의자의 분명한 사과였다. 진정성 있는 손 편지라도 보내왔다면 용서했을 것”이라며 “사과 한마디 없이 법원에만 반성문을 내는 가해자를, 제가 용서하지 않았는데 왜 법이 용서하느냐”고 반문했다.&lt;br&gt;&lt;br&gt;끝으로 B씨는 주거침입이 누군가의 삶의 기반을 무너뜨리는 중한 범죄임을 강조하며 사법 제도의 변화를 촉구했다. 그는 “감정적 보복을 바라는 것이 아니라, 피해자가 겪은 고통이 사회와 법 앞에서 분명하게 인정되기를 바란다”며 “저희만 그저 재수가 없었던 것으로 치부하기엔 너무 속상하다. 앞으로는 피해자의 고통과 목소리가 무겁게 받아들여지는 사회가 되길 진심으로 바란다”고 호소문을 맺었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GNZECXTGZGPDJCFTG3ERV5OOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 6월 13일 오후 속옷 절도 사건을 당한 피해자 B씨가 자신이 사는 아파트 내 범인이 사는 동을 가르키고 있다. B씨는 범인이 이웃 주민이라는 사실에 직장을 포기하고 고향으로 이사했다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;호소문&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;2025년 5월 27일 경북 안동에서 발생한 주거침입·속옷 절도 사건의 피해 여성입니다. &lt;br&gt;&lt;br&gt;저는 2021년 4년제 대학 간호학과를 졸업하고 간호사 국가고시에 합격한 후 그해 첫 직장으로 안동의 한 병원을 다녔습니다. 낮밤 3교대 등 고된 일이 연속이었지만 최고의 ‘나이팅게일’이 되겠다는 자부심으로 열심히 일했습니다. &lt;br&gt;&lt;br&gt;객지 생활을 극복하고 생활비도 아낄 겸 같은 병원 후배와 전세 아파트에서 수다를 떨며 사회 새내기로서 나름 행복한 나날을 보냈습니다. &lt;br&gt;&lt;br&gt;그러나 최근 대구지법 안동지원에서 결심 공판을 지켜본 후 이루 말할 수 없는 허탈함과 참담한 마음으로 이 글을 씁니다.&lt;br&gt;&lt;br&gt;사건이 발생한 그날 이후 저의 삶은 이전과 완전히 달라졌습니다. 같은 아파트에 살면서도 범인의 얼굴과 신상을 알 수 없는 가해자 중심의 현실이 더 불안했습니다. 집이라는 공간은 더 이상 안전하게 느껴지지 않았고, 두려움에 연속이었습니다. 작은 소리에도 잠에서 깨는 날이 일상이 됐습니다. 평범했던 저의 삶은 무너졌고, 심리적인 불안과 공포 속에서 하루하루를 버텨야 했습니다. 아직도 밤마다 침대 밑이나 집안 곳곳을 확인하고서야 잠자리를 들 정도로 불안한 마음은 일상 곳곳에서 나타납니다. &lt;br&gt;&lt;br&gt;하지만 재판 결과를 지켜본 저의 심정은 안도감이 아니라 좌절감뿐이었습니다. 가해자에게 내려진 가벼운 처벌이 과연 피해자가 겪은 공포와 고통, 그리고 무너진 시간의 무게도 제대로 반영한 것인지요? &lt;br&gt;&lt;br&gt;징역 1년에 집행유예 2년. 피해자가 감당해야 했던 두려움과 고통에 비해 재판 결과는 너무나 가볍게 느껴졌고, 그 사실이 무엇보다 저를 참담하고 우울하게 만듭니다. 일부에선 그깟 속옷 몇 장 잃은 것인데 ‘다치지도 않은 것만으로 다행이다’고 위로도 합니다. 그러나 저의 삶을 원래대로 돌려놓기엔 부족했습니다. &lt;br&gt;&lt;br&gt;특히 재판 과정에서 더욱 납득하기 어려운 부분이 있습니다. 사건 발생 후 당시 가해자 스스로 이사를 가고, 직장도 외지로 옮긴다고 해서 구속영장 실질심사에서 참작 사유가 된 것으로 알고 있습니다. 그러나 현재까지도 범인은 그곳에 그대로 거주하고 있고 직장도 그대로 다닌 다는 사실을 알게 된 후 허탈함과 분노마저 느낍니다. &lt;br&gt;&lt;br&gt;피해자의 불안과 안전은 얼마나 고려되었는지 재판부에 묻고 싶습니다. 재판부가 피의자가 범행 당시 기억을 못 할 정도로 만취 상태인 점을 양형 사유로 말씀하셨습니다. 그러나 피고인은 자칫 낙상 사고의 위험을 피해 신속하게 아파트 3층 베란다로 침입했습니다. 저희가 경찰에 제출한 영상을 보더라도 거실에 널브러진 옷가지도 요리조리 피해 다닐 정도로 의식이 정상이었다는 점을 알 수 있습니다. &lt;br&gt;&lt;br&gt;공탁금을 걸었다는 점도 양형 이유로 말씀하셨습니다. 가해자는 250만원씩, 피해자들에게 총 500만원의 공탁금을 걸었더군요. 합의 의사가 없자 재판 전 피의자 측으로부터 전화가 왔습니다. 공탁금을 더 걸테니 할부가 가능하냐고. 무슨 가전제품 할부도 아니고 정말 어이가 없었습니다. 제가 원하는 건 합의금이 아니라 피의자의 분명한 사과였습니다. 진정성 있는 손 편지라도 보내왔으면 아마 용서했을 것입니다. 그는 저에겐 사과 한마디 없이 법원에만 잘못했고 반성하고 있는 것입니다. &lt;br&gt;&lt;br&gt;결과적으로 피해자는 여전히 불안 속에 살아가고 있는데, 법은 과연 누구를 보호하고 있는 것인가요? 제가 용서 안 했는데 왜 법이 먼저 용서합니까? 재판 과정과 결과를 지켜보며 우리 사회와 법 제도가 피해자의 고통을 얼마나 충분히 이해하고 있는지에 대해서도 큰 의문으로 남았습니다. &lt;br&gt;&lt;br&gt;피해자가 겪는 심리적 고통과 삶의 붕괴는 눈에 보이지 않는다는 이유로 가볍게 평가되는 것은 아닌지, 피해자의 목소리는 어디까지 반영되고 있는지 묻고 싶습니다.&lt;br&gt;&lt;br&gt;주거 침입은 누군가의 삶의 기반과 가장 기본적인 안전감조차 무너뜨리는 중한 범죄입니다. 그럼에도 현실에서 느끼는 법의 잣대는 피해자가 체감하는 고통의 무게와 너무나 큰 차이가 있습니다.&lt;br&gt;&lt;br&gt;저는 처벌만이 대수가 아닌 누군가에 대한 감정적인 보복이 되기를 바라는 것이 아닙니다. 다만 피해자가 겪은 공포와 고통이 결코 가볍지 않다는 사실이 사회와 법 앞에서 분명하게 인정되기를 바랐습니다. 그리고 같은 피해자가 더 이상 나오지 않기를 바라는 마음뿐입니다.&lt;br&gt;&lt;br&gt;“혹시 피해자분 법정에 나왔나요? 가해자는 피해자에게 용서를 구하고 진정으로 사과하세요.” 외국의 어느 판사의 재판처럼 이런 모습을 기대한 제가 무리한 상상일까요.&lt;br&gt;&lt;br&gt;1심 재판이 끝났어도 피해자의 시간은 여전히 그날에 머물러 있고, 지금도 완전히 회복되지 못한 채 살아가고 있습니다. &lt;br&gt;&lt;br&gt;이번 일을 통해 안전하게 살아간다는 것이 얼마나 기본적인 권리인지 절실히 깨달았습니다. 그리고 그 기본적인 권리가 위협받았을 때 피해자가 얼마나 쉽게 보호받지 못할 수 있는지도 똑똑히 느꼈습니다. 저희들만 그저 재수가 없었던 걸로 치부하기엔 너무나 속상합니다. &lt;br&gt;&lt;br&gt;부디 이번 사건으로 주거 안전과 피해자 보호 제도에 대해 다시 생각해보는 계기가 됐으면 바램입니다. 앞으로는 피해자의 고통과 목소리가 보다 무겁게 받아들여지는 사회가 되기를 진심으로 바랍니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아이고 내 새끼 어떡해 “왜 여기 있어”...대전 화재 합동분향소 ‘눈물바다’</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/22/W5FZBHOHSBB4PKP6OXGNVI2A5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/W5FZBHOHSBB4PKP6OXGNVI2A5U/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 07:06:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWREBYN4OBDAHEIOJAWUZZXPU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 대전시청 1층 로비에 '대전 공장 화재 참사' 희생자들을 위한 합동분향소가 마련돼 있다./조민희 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“내 아들이 왜 여깄어...어떡하면 좋아.”&lt;br&gt;&lt;br&gt;22일 오전 대전시청에 마련된 대전 ‘안전공업’ 화재 희생자 합동분향소. 이곳을 찾은 한 고령의 여성은 위패를 어루만지며 큰 소리로 흐느꼈다. 몸을 가누지 못해 주변 가족들이 붙잡아줬지만 이내 주저앉았다.&lt;br&gt;&lt;br&gt;참사 사흘째인 이날 오전 8시 대전시청 1층에 희생자 14명을 위한 합동분향소가 마련됐다. 이른 아침부터 유가족을 비롯한 공장 임직원, 한국노총, 거래처 관계자, 시민 등 조문객들의 발길이 이어졌다. 분향소를 찾은 또 다른 중년 여성은 한 손으로 입을 틀어막고 울음을 참기도 했다.&lt;br&gt;&lt;br&gt;이곳에서 만난 희생자의 외삼촌 A(50)씨는 눈시울을 붉히며 “화재 당일 조카가 다쳐 병원에 있는 줄 알고 4~5시간 인근 병원을 돌아다녔다”며 “나중에 보니 실종자 명단에 있어 하늘이 무너지는 기분이었다”고 말했다. &lt;br&gt;&lt;br&gt;분향소를 찾아온 또 다른 유족들은 “이렇게 나 두고 가버리면 어떡해” “내 새끼 살려내”라며 주저앉고 통곡했다. &lt;br&gt;&lt;br&gt;이날 손주환 안전공업 대표이사도 임직원 40여 명과 함께 분향소를 찾았다. 국화를 들고 묵념한 뒤 위패를 바라보던 그는 눈물을 보이며 “정말 죄송합니다”라고 말했다. 조문을 마친 손 대표는 불법 증축 여부 등을 묻는 취재진의 질문에 답을 하지 않고 현장을 빠져나갔다.&lt;br&gt;&lt;br&gt;이번 대전 공장 화재로 인한 사망자는 14명, 부상자는 화재 진압 과정에서 다친 소방관 2명을 포함해 60명으로 집계됐다. 사상자는 전부 한국인이다. 대전시는 합동분향소를 22일부터 내달 4일까지 운영한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X5MDZOI53ZCNDDKW4Z4F34KLL4.jpg?auth=1b7ed1f82e33b73898c414310246b71216996194d4cb0482148f64cc6b1ba10e&amp;smart=true&amp;width=4805&amp;height=3474" type="image/jpeg" height="3474" width="4805">
+        <media:description type="plain">22일 오후 대전시청에 마련된 대전 안전공업 화재 희생자 합동분향소에서 유족과 직원들이 분향하며 슬픔에 잠겨 있다. /신현종 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">CHOINWON</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 23일 월요일 (음력 2월 5일 丙申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/22/2SJA64WFWBFYVGOSL7C2B47OFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/2SJA64WFWBFYVGOSL7C2B47OFA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>체감온도 38도 이상 올라가면 옥외작업 전면중지</title>
+      <link>https://www.chosun.com/national/labor/2026/03/22/Y5BG3KIJF5EBFHZHMKYBWQXACA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/22/Y5BG3KIJF5EBFHZHMKYBWQXACA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 07:07:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2DENRXHEZDKNJUGJRTMZLDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 8월 폭염이 연일 이어지고 있는 가운데 서울 성북구 장위4구역 주택정비사업지구 건설현장에서 한 근로자가 음료를 들고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근로자들이 여름철 폭염 속에 야외 작업을 하다가 목숨을 잃는 사고를 방지하기 위해 정부가 체감온도 38도 이상인 날은 ‘작업 전면 중지’를 권고하기로 했다.&lt;br&gt;&lt;br&gt;고용노동부는 이런 내용이 담긴 ‘폭염 온열 질환 수칙’을 이달 중 마련할 계획이라고 22일 밝혔다. 기상청은 올여름부터 체감온도가 38도 이상 올라갈 것으로 예상될 때 ‘폭염 중대 경보’를 발령하는데, 이 특보가 나간 날 재난 수습이나 안전 관리 등 긴급한 작업 외에 다른 옥외 작업은 전면 중지토록 하겠다는 것이다.&lt;br&gt;&lt;br&gt;현재 폭염 대비 사업장 대응 지침은 체감온도에 따라 2단계로 운영되고 있다. 1단계는 ‘체감온도 33도 이상’일 때로, 옥외 작업 시 2시간마다 20분 이상 의무적으로 휴식 시간을 줘야 한다. 이를 지키지 않으면 사업주가 산업안전보건법에 근거해 5년 이하 징역 또는 5000만원 이하 벌금에 처해질 수 있다. &lt;br&gt;&lt;br&gt;2단계는 ‘체감 온도 35도 이상’일 때로, 1시간마다 15분 이상 휴식을 줘야 하고, 하루 중 기온이 가장 높은 오후 2∼5시에는 불가피한 경우를 제외하고는 옥외 작업을 중지해야 한다. 여기에 3단계로 ‘체감 온도 38도 이상’ 시 ‘작업 전면 중지’를 추가하겠다는 것이다. &lt;br&gt;&lt;br&gt;다만 2·3단계는 법적 강제성이 없는 권고 사항이다. 노동부 관계자는 “일종의 가이드라인이지만 지방고용노동청 근로 감독관에게 배포해 현장에서 지켜질 수 있도록 유도할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;폭염으로 인한 온열 질환 산업재해는 늘어나고 있다. 근로복지공단에 따르면 온열 질환 산재 승인 건수는 2020년 13건(사망 2명), 2021년 19건(사망 1명), 2022년 23건(사망 5명), 2023년 31건(사망 4명), 2024년 51건(사망 2명) 등으로 증가 추세다. 작년 기준 폭염 일수(일 최고기온 33도 이상)는 28일이었다.&lt;br&gt;&lt;br&gt;노동부는 건설 공사 기간 연장 사유에 폭염 등 기상 재해를 추가하는 법 개정도 추진하고 있다. 산업안전보건법을 개정해 건설 공사 기간 연장 사유에 ‘폭염’과 ‘한파’를 추가하는 것이 골자다. 현장에서 노동자의 작업 중지가 적극적으로 사용될 수 있도록 유도한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산항만공사 직원, 노조비 7억원 횡령 혐의로 징역형 </title>
+      <link>https://www.chosun.com/national/2026/03/22/UPKI6LXSXRCAXN2FYH5SRFMQIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/22/UPKI6LXSXRCAXN2FYH5SRFMQIY/</guid>
+      <dc:creator>부산=권태완 기자, 김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 05:49:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2DGNRTGA3WENBUG44DOYJXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산항만공사(BPA). /BPA
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산항만공사(BPA) 노동조합 조합비를 횡령해 도박 자금 등 개인적으로 사용한 혐의로 기소된 BPA 직원에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사5부(재판장 김현순)는 특정경제범죄 가중처벌 등에 관한 법률 위반(횡령) 혐의로 기소된 30대 남성 A씨에게 징역 2년에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;검찰 공소사실에 따르면 A씨는 BPA 노조 자금 관리를 담당하면서 2020년 6월부터 2023년 12월까지 211차례에 걸쳐 조합비 7억8000여만원을 본인 명의 계좌로 임의로 송금해 인터넷 도박자금, 생활비, 대출 원리금 변제 등에 사용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 노조위원장으로부터 “조합비 관리 계좌의 이율이 낮으니, 원금을 보장하면서 더 높은 이율을 받을 수 있는 방안을 마련하라”는 지시를 받은 후 범행을 시작한 것으로 드러났다. &lt;br&gt;&lt;br&gt;A씨는 처음엔 5차례 걸쳐 1500만원을 인출해 인터넷 도박자금으로 사용했는데, 점점 그 횟수가 늘어나고 액수도 억대로 커졌다. A씨가 빼돌린 돈은 도박 자금, 생활비, 대출 원리금 변제 등에 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 범행은 BPA의 부산 북항 재개발 사업과 관련해 감사원의 수사 의뢰로 수사기관의 수사가 시작되면서 꼬리가 잡혔다.&lt;br&gt;&lt;br&gt;수사기관은 시행사 측과의 금전 거래 내용을 조사하던 중 출처가 불분명한 이체 정황을 발견했다. 수사기관은 문제의 금전 거래가 북항 재개발 사업과 관련해 부정하게 금품이 오간 것이라고 의심했지만, A씨가 노조 조합비를 횡령한 것이었다.&lt;br&gt;&lt;br&gt;A씨 측은 북항 재개발 사업 비리와 관련해 검찰이 BPA 임직원 등을 상대로 대대적인 압수수색을 벌이던 과정에서 이 사건의 증거가 확보된 것이라며 증거 수집의 위법성을 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 압수수색이 적법했던 점, 별건 수사로 볼 사정이 없는 상황에서 A씨의 범죄 사실이 추가로 인지된 것에 불과하다며 A씨의 주장을 받아들이지 않았다. &lt;br&gt;&lt;br&gt;김 부장판사는 “범행 기간과 횟수, 금액에 비춰 죄질이 가볍지 않다”면서도 “피고인이 피해 금액을 모두 변제하고, 피해 노조가 피고인에 대한 처벌을 원하지 않는 점 등을 양형에 참작했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전기차 살 때 배터리 제조사·생산국 공개...동일한 결함 반복 발생시 인증 취소</title>
       <link>https://www.chosun.com/national/transport-environment/2026/03/22/ZIKSKJBMBZEN3PYTFRBZNBJIYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/22/ZIKSKJBMBZEN3PYTFRBZNBJIYQ/</guid>
@@ -824,53 +875,6 @@
       <description/>
       <pubDate>Thu, 19 Mar 2026 15:25:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RT7XO3TVVEOFBOMB3WDFNCG34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 보라색 유니폼을 입고 무궁화를 들고 있는 합성사진. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 축구대표팀이 2026 북중미 월드컵에서 입고 뛸 새 유니폼이 공개되자 축구 팬들의 반응이 엇갈리고 있다. &lt;br&gt;&lt;br&gt;나이키는 2026 대한민국 축구 국가대표팀 유니폼을 19일 공개했다. 홈 유니폼의 상의는 전통적인 붉은색으로, 하의는 검정색으로 제작됐다. 백호의 털을 재해석한 ‘타이거 카모플라주’(위장막) 패턴을 디자인 요소로 넣었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FT2MBOMODVMVVHIFRBW6IG4GE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나이키는 2026년 대한민국 축구 국가대표팀 유니폼을 19일 공개했다. /나이키&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반응이 나뉘는 것은 원정 유니폼이다. 흰색 대신 바이올렛(보라)색을 택했고, 상의 전체에 꽃무늬 패턴을 넣었다. 나이키 측은 어떤 꽃인지 설명하지 않았으나 네티즌들은 무궁화와 비슷하다며 손흥민이 무궁화를 들고 있는 합성 사진도 만들었다. &lt;br&gt;&lt;br&gt;축구 팬들 사이에서는 “동양적인 신비로움이 있다”는 반응이 나왔지만, “할머니 몸뻬 바지(일바지) 같다”는 지적도 잇따랐다. 일반적으로 강렬한 색 유니폼이 동료들에게는 잘 보이고, 상대에게는 위압감을 준다는 점에서 ‘꽃무늬 보라색’은 경기력에 악영향을 줄 수 있다는 의견도 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3PG5K2FUNMQ5PKMIXEFSBG4PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나이키는 2026년 대한민국 축구 국가대표팀 유니폼을 19일 공개했다. /나이키&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나이키는 새 유니폼의 콘셉트가 ‘호랑이의 기습’이라고 설명했다. 전통에 뿌리를 두면서도 두려움 없이 나가는 대한민국을 그려냈다고 한다. &lt;br&gt;&lt;br&gt;홈 유니폼은 ‘백호’를 모티브로 삼아 팀의 회복력과 단결, 결정적인 순간에 폭발하는 공격력을 시각적으로 풀어냈다. 원정 유니폼에는 ‘기습’ 서사를 적용해 꽃이 피어오르는 순간의 응축된 에너지, 폭발적인 기세에서 영감을 받아 한국만의 역동적인 에너지를 표현했다. 대담한 바이올렛 컬러는 우아함과 강인함을 동시에 갖춘 한국 축구의 경쟁력을 보여준다고 한다. &lt;br&gt;&lt;br&gt;유니폼은 23일 공식 출시되며 28일 코트디부아르와 경기에서 우리 선수들이 처음으로 착용한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대병원 이메일 오발송… 환자 1만6000명 정보 유출</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/20/LYXTV2GRE5HWNLR6N2J7BNLSKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/20/LYXTV2GRE5HWNLR6N2J7BNLSKI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BG4VZAMYRA33HPRLJ47DO2DKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 서울대학교 병원 건물./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대병원에서 직원 실수로 산부인과 환자 1만6000여명의 개인정보가 유출됐다. 유출된 자료에는 진료 기록과 신체 정보를 비롯해 이름과 직업, 소득 등 민감한 정보가 다수 포함됐다.&lt;br&gt;&lt;br&gt;서울대병원은 19일 홈페이지에 “지난 14일 오후 2시 7분쯤 병원 직원끼리 메일을 발송하던 중 수신 주소를 잘못 입력해 1명의 수신자에게 (메일이) 잘못 발송됐다”는 공지를 올렸다. 병원 측에 따르면 해당 메일에는 산모 이름과 환자 번호, 임신 주수, 난임 시술 및 선택적 유산 시술 여부는 물론 산모의 키와 몸무게, 출산 이력, 유산 이력 등 민감 정보가 다수 포함됐다. 태아의 성별과 출생 체중을 비롯해 산모와 보호자의 직업, 소득 수준 등도 들어가 있다. 병원 측은 “주민등록번호와 휴대전화 번호는 유출되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;메일을 받으려던 직원은 병원 공식 이메일이 아닌 일반인들도 쓸 수 있는 외부 이메일 서비스를 이용했다고 한다. 병원 직원이 민감한 정보를 다루면서 왜 외부 이메일을 썼는지 등을 두고 비판을 피할 수 없을 것으로 보인다. 애초 병원 측의 환자 정보 관리에 문제가 있었다는 지적도 나오고 있다.&lt;br&gt;&lt;br&gt;다만 병원 측은 “직원의 신고로 유출 사실을 확인했고, 이메일 시스템에서 해당 메일을 받은 사람이 아직 열어보지 않은 ‘미수신’ 상태로 뜨고 있다”며 “수신자와 이메일 서비스 운영자에게 해당 메일의 삭제를 요청했다”고 했다. 다만 해당 메일이 실제 삭제됐는지는 현재로선 확인되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘통일교 금품 의혹’ 전재수… 합수본, 두달만에 첫 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/20/CXAZD5ABLVAATIFOGQ7CHR4IAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/CXAZD5ABLVAATIFOGQ7CHR4IAI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGCGQYTFVFFH3OXEZZGJ5CS574.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전재수 의원이 19일 서울 서초구 정교유착 비리 의혹을 수사하는 검·경 합동수사본부로 출석하고 있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교로부터 수천만원대 금품을 수수했다는 의혹을 받는 전재수 더불어민주당 의원이 19일 검경 합동수사본부(본부장 김태훈 대전고검장)에 출석해 조사받았다. 작년 12월 경찰이 한 차례 조사한 뒤 올 1월 사건을 넘겨받은 합수본은 두 달 넘게 전 의원을 조사하지 않다가 이날 처음으로 부른 것이다.&lt;br&gt;&lt;br&gt;전 의원은 이날 오전 10시쯤 합수본 사무실이 있는 서울 서초구 서울고검 청사에서 기자들을 만나 “참으로 할 일이 많은데 아까운 시간이 흘러가고 있다”며 “빠른 시일 내에 결론이 나오길 기대하겠다. 오늘 조사에 성실히 임하겠다”고 말했다. 이어 “통일교 측에서 현안 청탁이 있었느냐” 등의 질문엔 답하지 않은 채 조사실로 향했다.&lt;br&gt;&lt;br&gt;전 의원은 2018∼2020년 통일교 측으로부터 ‘한일 해저터널 건설 사업’ 지원 등 청탁을 받고 그 대가로 현금 2000만원과 1000만원 상당의 불가리 시계 등 금품을 받은 혐의(뇌물수수·정치자금법 위반 등)를 받고 있다. &lt;br&gt;&lt;br&gt;합수본은 이날 전 의원을 상대로 통일교 측 인사들과 접촉한 과정, 그들로부터 현안을 청탁받았는지, 금품을 받은 사실이 있는지 등을 캐물은 것으로 전해졌다. 이날 조사는 전 의원 측 요청에 따라 늦은 밤까지 이어졌다. 앞서 합수본은 전날(18일) 전 의원의 자금 관리를 맡은 부인 최모씨를 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;전 의원의 금품수수 의혹은 민중기 특검팀이 작년 8월 윤영호 전 통일교 세계본부장으로부터 관련 진술을 받고도 수사하지 않고 뭉갠 사실이 뒤늦게 알려지면서, 경찰 수사가 시작돼 합수본 수사로 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“세계 물의 날이 뭔지 배웠어요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/ILSGFI6NZBDCXERD26HHMEK7LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/ILSGFI6NZBDCXERD26HHMEK7LU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIESNHFFLJD2BI6Z6XKX5TC4KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세계 물의 날’을 사흘 앞둔 19일, 광주광역시 북구청 앞 분수대에서 북구청 직장 어린이집 아이들이 물놀이를 하고 있다. ‘세계 물의 날’은 유엔이 물의 소중함을 알리기 위해 정한 날이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>바뀐 반려동물 출입 제도에 되레 ‘노펫존’ 늘자… 식약처, 뒷북 수습</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/20/U4NEAAQFHNG3LGURWMXJCDJUCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/20/U4NEAAQFHNG3LGURWMXJCDJUCE/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSDONTDGVQTAOJZHA3DMYRRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 부터 시행된 식당과 카페에 반려동물 동반 출입. 혼선이 일자 식약처는 19일 보완책을  냈다./  뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처가 19일 ‘반려동물 동반 출입 음식점 제도’ 보완 대책을 내놨다. 이달 1일 시행된 지 18일 만이다. 전날엔 오유경 식약처장이 해당 음식점 주인들과 간담회를 갖기도 했다. 이를 놓고 “제대로 준비 안 된 상태에서 시작했다가 혼란이 커지자, 뒤늦게 수습에 나선 모양새”라는 비판이 나온다. 실제로 현장에선 까다로운 기준 탓에 “괜히 반려동물을 출입시켰다가 기준 위반으로 영업정지를 당하느니 그냥 ‘노펫존(반려동물 출입 금지)’으로 운영하겠다”는 음식점이 속출하고 있다. &lt;br&gt;&lt;br&gt;해당 제도는 음식점 측이 반려동물의 예방접종 여부 확인은 물론, 실내 칸막이나 울타리 등을 설치토록 규정하고 있다. 규정 위반 시 음식점 측은 최대 20일까지 영업정지 처분(3차 적발 기준)을 받는다. 그런데도 식약처는 음식점 자영업자들을 대상으로 설명회도 충분히 갖지 않았다. 전국 6개 권역 중 제도 시행 전 설명회가 열린 건 대구·경북(지난달 27일) 한 곳밖에 없었다. 나머지 서울·강원, 인천·경기 등 5개 권역은 이달 6~13일에야 열렸다.&lt;br&gt;&lt;br&gt;일단 식약처는 보완 대책에서 예방접종 확인 방식을 개선했다. 기존엔 음식점 측이 동물 병원 발급 증명서 등을 일일이 확인해야 했지만, 앞으론 영업장 내 수기 대장에 반려동물 동반자가 직접 기재하는 방식 등도 허용된다. 또 실내 칸막이도 매장 여건에 따라 고정형이 아닌 이동형이나 접이식도 허용해주기로 했다. 식탁 간격 규정 역시 ‘충분한 간격을 둬야 한다’는 추상적 표현에서 ‘케이지나 전용 의자를 사용하거나, 반려인이 반려동물을 직접 안고 있는 경우에는 식탁 간격을 조정하지 않아도 된다’는 식으로 손보기로 했다. 이와 함께 7월까지 현장 단속도 유예한다는 방침이다. &lt;br&gt;&lt;br&gt;하지만 “여전히 허점이 많아 반려동물 출입 음식점으로 등록하는 게 겁난다”는 반응이 적지 않다. 경기도의 한 음식점 업주는 “가령 ‘반려인이 반려동물을 직접 안으면 식탁 간격을 조정하지 않아도 된다’고 했는데, 그럼에도 갑자기 물림 사고가 발생하면 책임 소재를 어떻게 할 건지 등이 명확하지 않다”며 “오히려 당국의 방침이 업주들에게 반려동물 거부를 부추기고 있다”고 했다.했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>낮은 봄, 밤은 겨울… 20도 널뛰기</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/OENXGFGHFBCVJBQLD43ADZADKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/OENXGFGHFBCVJBQLD43ADZADKE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KNAOI3P4BAM5PM5K5UANXPA6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 광주광역시 광산구 광주시농업기술센터 육묘장에서 센터 관계자가 비올라, 팬지, 데이지 등 꽃에 물을 주고 있다. 기상청에 따르면, 춘분(春分)인 20일부터 주말인 21~22일 우리나라는 고기압 영향권에 들면서 전국이 대체로 맑겠다. 다만 주말까지 낮과 밤의 기온이 20도 가량 널뛰기 하는 ‘초(超)일교차’를 보일 전망이다. 20~21일 아침 최저기온은 영하 4~영상 7도, 낮 최고기온은 11~18도로 예보됐다. 22일에는 기온이 소폭 오를 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>섬박람회 앞둔 여수, 저조한 후원금 골머리</title>
