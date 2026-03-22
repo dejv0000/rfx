@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전기차 살 때 배터리 제조사·생산국 공개...동일한 결함 반복 발생시 인증 취소</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/22/ZIKSKJBMBZEN3PYTFRBZNBJIYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/22/ZIKSKJBMBZEN3PYTFRBZNBJIYQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 05:14:11 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3DCOBSGQ2TGNTBGJQTCYRRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 전기차 충전소 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 전기차를 구매할 때 소비자가 배터리의 제조사와 생산국 등 핵심 정보를 확인할 수 있게 된다. 잇따른 전기차 화재로 인한 소비자의 불안감을 해소하기 위한 조처다.&lt;br&gt;&lt;br&gt;국토교통부는 전기차 배터리 정보공개 확대와 인증취소 요건을 강화하는 개선 내용을 담은 자동차관리법 시행령·시행규칙과 자동차 등록규칙 개정안을 이달 23일부터 5월 4일까지 입법 예고한다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;개정안에 따라 전기차 등 판매 시 구매자에게 제공되는 배터리 정보가 6종에서 10종으로 확대된다. 현재는 배터리 용량과 정격 전압 등의 정보만 제공 대상에 포함돼 있다. 이제는 배터리 제조사와 생산 국가, 제조 연월, 제품명 또는 관리번호도 제공해야 한다. 정보제공 방법도 판매사 인터넷 홈페이지를 비롯해 자동차 매매 계약서, 자동차 인수증 등으로 다양화된다.&lt;br&gt;&lt;br&gt;배터리 정보 제공 의무를 어긴 자동차 제작·판매자에 부과하는 과태료 액수도 대폭 늘어난다. 현재는 배터리 관련 정보를 제공하지 않은 경우에만 50만원의 과태료를 물리고 있다. 앞으로는 정보를 거짓으로 제공한 경우도 과태료 부과 대상에 포함된다. 부과 액수도 최대 1000만원으로 상향하기로 했다. 위반 횟수에 따라 1회 200만원, 2회 500만원, 3회 이상 1000만원의 과태료가 부과된다.&lt;br&gt;&lt;br&gt;국토부는 배터리에 2년 내 동일한 결함이 2∼4회 발생하면 결함의 경중에 따라 안전성 인증을 취소한다는 방침이다. 배터리가 기준에 부적합하게 설계·제조된 결함이 있어 화재 등의 피해로 이어진 경우는 2회, 기준에는 적합하지만 안전에 지장을 주는 결함으로 화재 등의 피해가 나타난 경우는 3회 발생 시 인증을 취소한다. 다만 단순 정보표시 오류, 일시적 경고등 점등 등 경미한 결함은 취소 요건에서 제외했다.&lt;br&gt;&lt;br&gt;국토부 관계자는 “배터리에 대한 신뢰성·안전성을 높여 전기차 확산에 기여할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광화문 ‘과잉 검문’ 논란… 하이브 “안전 위해 불가피, 불편 끼쳐 송구”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/22/G2H3QCQOSFDELDC7VFEFYC7N7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/G2H3QCQOSFDELDC7VFEFYC7N7U/</guid>
@@ -843,15 +852,6 @@
       <pubDate>Thu, 19 Mar 2026 15:48:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIESNHFFLJD2BI6Z6XKX5TC4KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세계 물의 날’을 사흘 앞둔 19일, 광주광역시 북구청 앞 분수대에서 북구청 직장 어린이집 아이들이 물놀이를 하고 있다. ‘세계 물의 날’은 유엔이 물의 소중함을 알리기 위해 정한 날이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 일가족 비극… ‘무직’ 아빠 생활고 시달려, 엄마는 구치소에</title>
-      <link>https://www.chosun.com/national/regional/2026/03/20/QGL4YRELLVHUDLFXDXTEBCJOM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/20/QGL4YRELLVHUDLFXDXTEBCJOM4/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:48:00 +0000</pubDate>
-      <content:encoded>지난 18일 울산 울주군에서 숨진 채 발견된 일가족 5명이 심각한 생활고에 시달려 온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;19일 울주군과 울주경찰서 등에 따르면, 전날(18일) 울주군 온산읍 한 빌라에서 숨져 있는 A(34)씨와 자녀 4명이 발견된 것은 초등학교 1학년이던 큰딸(7)의 담임 교사의 신고 덕분이었다. 사건 당일 사흘째 등교하지 않는 것을 이상하게 여긴 교사의 “아동 방임이 의심된다”는 신고를 받고 출동한 경찰이 집 안에서 쓰러져 있는 A씨 가족을 발견한 것이다. &lt;br&gt;&lt;br&gt;현장에서 발견된 A씨 유서에는 ‘아내에게 미안하다. 사랑한다’ ‘혼자 아이들을 키우기 너무 힘들다’는 내용이 적혀 있었고, 식탁 위에는 먹다 남은 햄버거 2개와 감자튀김이 있었다고 한다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 가끔 일용직으로 일했을 뿐 별다른 직업이 없어 경제적으로 어려움을 겪어왔다. 특히 아내가 범죄에 휘말려 작년 말 구치소에 수감되면서 형편은 더 어려워졌다. 이달 들어서는 아이들이 학교와 어린이집을 제대로 다니지 못한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이웃 주민 윤모(85)씨는 “올해 초만 해도 어린이집 차량이 아침마다 아이들을 태우고 가는 모습을 봤는데, 최근 들어 어린이집 차량도, 아이들도 보이지 않았다”며 “그 예쁜 애들이 그렇게 됐다니 너무 안타깝다”고 말했다. 인근 편의점 주인은 “가끔 아빠와 아이들이 함께 와서 외상으로 라면과 과자 등을 가져간 뒤 돈을 갚곤 했었다”며 “아이들은 장난도 치고 행복해 보였다. 학대 흔적은 없었다”고 했다. &lt;br&gt;&lt;br&gt;지난해 2~4월에는 아내가 신청해 울주군으로부터 긴급 생계비와 주거비 805만원을 지원받았고, 쌀과 휴지, 라면 등 생필품과 전기밥솥 등 가전제품을 지원받기도 했다. 다만 기초생활수급자 등을 신청하지 않아 정기적인 지원을 받지는 못했다고 한다. 울주군 관계자는 “A씨 집을 방문했을 때 아이들이 어리고, 위생 상태도 안 좋아 복지급여 신청을 하라고 안내했지만, A씨가 ‘필요없다’며 거부했다”면서 “좀 더 설득해서 지원을 받았다면 이런 비극이 없었을텐데...”하며 아쉬워했다.&lt;br&gt;&lt;br&gt;경찰은 A씨 가족이 숨진 시점은 16일 저녁이며, 직접적인 사망 원인은 일산화탄소 중독인 것으로 추정하고 있다. 경찰 관계자는 “외부 침입 흔적이 없고 유서가 발견돼 A씨가 처지를 비관해 자녀들과 함께 스스로 목숨을 끊은 것으로 보고 있다”면서 “부검 및 주변인 조사를 통해 정확한 사망 경위를 밝힐 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바뀐 반려동물 출입 제도에 되레 ‘노펫존’ 늘자… 식약처, 뒷북 수습</title>
