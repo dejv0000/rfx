@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 셀트리온 공장서 배관 수리 작업 중이던 20대 추락해 숨져 </title>
+      <link>https://www.chosun.com/national/incident/2026/03/22/NLW4PYDRI5EHFKNYA5C45Q6F5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/22/NLW4PYDRI5EHFKNYA5C45Q6F5A/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 13:37:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAMDMAULGIJLBZHH6QUCLF75GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;셀트리온 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 바이오 의약품 제조업체인 셀트리온의 공장에서 작업 중이던 20대 남성이 추락해 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;경찰과 소방 등에 따르면 이날 오전 11시 4분쯤 인천시 연수구 송도동에 있는 셀트리온 공장의 한 건물 2층에서 20대 A씨가 3~5m 아래로 떨어졌다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 발견됐다. 현장에 출동한 119 구급대가 심폐소생술(CPR) 등 응급처치를 하며 병원으로 옮겼으나 A씨는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 1층 천장에 설치된 패널에서 배관 누수 수리 등 작업을 하고 있던 것으로 알려졌다. A씨가 밟고 있던 패널이 깨지면서 아래로 추락한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 A씨의 시신 부검을 의뢰하고, 정확한 사고 원인을 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아무래도 못 나갈 것 같아... 부모님께 사랑한다 전해줘”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/22/XAXESE7FQ5GZDMYEIF66CBITEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/XAXESE7FQ5GZDMYEIF66CBITEA/</guid>
+      <dc:creator>대전=김석모 기자, 대전=조민희 기자, 대전=윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 12:41:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W2Y6XW2JVEYHDCHOOYXSIMFRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 대형 화재로 인명피해가 발생한 대전 대덕구 안전공업 자동차 부품 제조 공장이 처참한 모습을 보이고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 대전시청 1층 로비에 마련된 ‘안전공업 화재 희생자 합동 분향소’. 이번 사고로 숨진 정모(41)씨 유족은 정씨의 마지막 통화 내용이 자꾸 생각난다며 울었다. 정씨는 사고 당시 여자친구에게 전화를 걸어 “지금 눈앞이 새까매. 아무래도 못 나갈 것 같아. 부모님께 사랑한다고 전해줘”라고 말했다고 한다. 그게 생전 마지막 통화가 됐다.&lt;br&gt;&lt;br&gt;삼촌 홍관표(50)씨는 “조카가 살아 있길 기도하며 인근 병원을 다 뒤졌는데 실종자 명단에 있었다”며 “정말 하늘이 무너지는 기분이었다”고 했다.&lt;br&gt;&lt;br&gt;합동 분향소에는 희생자 14명의 위패가 있다. 대부분 30·40대 직원이다. 유가족들은 희생자의 위패를 어루만지며 통곡했다. 곳곳에서 “내 아들이 왜 여기 있어” “내 새끼 살려내” 소리가 들렸다.&lt;br&gt;&lt;br&gt;숨진 안모(46)씨의 동생 안대선(42)씨는 고개를 숙인 채 연신 눈물을 떨궜다. “데면데면하던 형이었지만 눈물이 멈추지 않는다”면서 “어떻게 사람이 이렇게 많이 죽을 수 있는지 모르겠다”고 말했다. 그는 “형님은 옛날 사람처럼 고지식했지만 굉장히 선한 사람이었다”며 “어머니와 누나, 동생을 잘 챙겨주던 장남이었다”고 말했다. 안씨는 2008년부터 이 공장에 다녔다고 한다. 그의 후배는 “형님은 쉬는 날에도 잔업 지시가 있으면 일터로 나갔다”면서 “‘쉬면 뭐 하냐. 너도 열심히 살면서 아내한테 잘해라’라고 했는데… 그 모습이 자꾸 생각난다”고 했다.&lt;br&gt;&lt;br&gt;희생자 14명 중 12명은 시신이 심하게 훼손돼 신원조차 확인하지 못하고 있다. 경찰이 DNA를 분석하고 있다.&lt;br&gt;&lt;br&gt;유가족들은 “하루빨리 신원을 확인해 온전하게 장례를 치르고 싶다”고 했다. 경찰 관계자는 “이르면 23일 희생자 신원을 전부 확인할 수 있을 것 같다”고 했다. 이날 합동분향소에는 손주환 안전공업 대표도 찾아왔다. 그는 위패 앞에 고개를 숙인 뒤 “정말 죄송합니다”라고 말했다. 취재진의 질문에는 답하지 않았다. &lt;br&gt;&lt;br&gt;지난 20일 대전 대덕구의 자동차 부품 제조업체 ‘안전공업’에서 불이 나 14명이 숨지고 60명이 다쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X5MDZOI53ZCNDDKW4Z4F34KLL4.jpg?auth=1b7ed1f82e33b73898c414310246b71216996194d4cb0482148f64cc6b1ba10e&amp;smart=true&amp;width=4805&amp;height=3474" type="image/jpeg" height="3474" width="4805">
+        <media:description type="plain">22일 오후 대전시청에 마련된 대전 안전공업 화재 희생자 합동분향소에서 유족과 직원들이 분향하며 슬픔에 잠겨 있다. /신현종 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">CHOINWON</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“제가 용서 안 했는데…” 아파트 침입 속옷 절취 피해 여성이 전한 눈물의 절규</title>
       <link>https://www.chosun.com/national/2026/03/22/OM4LA72XFVG2PDO2WEWXMXD374/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/03/22/OM4LA72XFVG2PDO2WEWXMXD374/</guid>
@@ -859,15 +881,6 @@
 18일(현지 시각) 밤 미국 뉴욕에서 그룹 방탄소년단(BTS)의 컴백을 축하하는 드론 쇼가 열렸다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;BTS 소속사인 빅히트 뮤직의 옛 사옥, 멤버들이 연습생 시절 머물렀던 숙소 건물 등이 밀집해 있는 강남구 논현동은 해외 아미 사이에서 이른바 ‘BTS 성지(聖地)’로 꼽힌다. 이날 오후 유정식당에서 만난 스페인 출신 알다나 모우렐(27)씨는 이번이 두 번째 식당 방문이라고 했다. 모우렐씨는 “첫 방문 때는 식당 곳곳에 붙어 있는 BTS 브로마이드를 구경하느라 음식 맛을 제대로 못 봤다”며 “오늘은 김치찌개, 제육볶음, 비빔밥까지 시켜서 배터지게 먹을 예정”이라고 했다. 싱가포르에서 온 진유(38)씨는 비빔밥을 주문하고선 “비빔밥은 BTS와 한국의 상징 같은 음식 아니냐”고 했다.&lt;br&gt;&lt;br&gt;이 식당에서 걸어서 4분 거리에 있는 ‘청구빌딩’은 BTS 소속사 빅히트 뮤직의 옛 사옥이다. 현재는 용산으로 사옥을 이전했지만 BTS 멤버들의 초기 발자취를 따라가 보려는 외국인 아미들은 이곳을 꼭 찾는다. 이날 오전 찾은 청구빌딩 외벽과 창문, 난간에는 아미들이 자기 나라 언어로 적어 놓은 메모가 빼곡했다. ‘BTS는 전 세계 최고 그룹’ ‘정말 오랫동안 기다려왔다’는 내용이었다.&lt;br&gt;&lt;br&gt;이날 오후 스페인 출신 포울라 구이라우멧(30)씨는 청구빌딩을 배경으로 기념사진을 찍고 있었다. 구이라우멧씨는 “스페인에서 12시간 걸려 BTS 보러 한국에 왔다”며 “광화문 공연이 너무 기대된다”고 했다. 청구빌딩에 입주한 한 사무실 관계자는 “하루 평균 200~300명의 팬이 다녀가는 것 같다”며 “단체 관광 버스를 타고 오는 팬도 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPRCY2NNGBF5FFOGXNO7SYLOXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일  스페인에서 온 알다나 이탈리아 모우렐(27)씨와 포울라 바카이코아 구이라우멧(30)씨가 BTS 소속사 빅히트 뮤직의 구사옥 건물인 청구빌딩을 찾았다. /지혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청구빌딩에서 1㎞ 떨어진 곳에 카페 ‘휴가’가 있다. 과거 BTS 멤버 숙소였던 3층 건물을 개조해 2022년 문을 열었다. 카페 벽면은 해외 아미들이 BTS 멤버들에게 보내는 응원 메시지를 적은 포스트잇으로 가득했다. 한 일본인 아미가 한글로 꾹꾹 눌러 쓴 포스트잇에는 “당신이 엄청난 노력을 하고 있을 때 보내던 이곳에 올 수 있어서 정말 행복합니다”라고 적혀있었다.&lt;br&gt;&lt;br&gt;호주 출신 안나 림(61)씨는 BTS 광화문 공연을 보러 친척 4명과 함께 지난 14일 한국을 찾았다. 림씨 일행은 지난주 ‘BTS 부산 성지’를 둘러본 뒤 18일부터는 ‘서울 성지’ 투어를 하고 있다고 했다. 이들은 BTS 상징색인 보라색 후드티 차림으로 손목에 ‘ARIRANG(아리랑)’이라고 적힌 팔찌를 차고 있었다. 아리랑은 21일 복귀하는 BTS 정규 5집 앨범 이름이다.&lt;br&gt;&lt;br&gt;논현동에 있는 학동근린공원도 BTS 팬들에게 인기다. 이 공원은 하이브의 옛 사옥에서 걸어서 5분 거리에 있다. BTS 멤버들이 연습생 시절 안무·노래 연습을 마친 뒤 자주 찾던 곳이라고 한다. 히로미(50)씨와 딸 히나노(14)양은 이날 학동공원 그네에 걸터앉아 서로 사진을 찍어주고 있었다. 히로미씨는 “RM과 지민이 이곳에서 그네를 타는 영상을 봤었다”며 “BTS 멤버들이 자주 갔던 곳들을 순서대로 돌고 일본으로 돌아가겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNMSOAU4MVDOFBXDYUGYRQMW44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아미들은 BTS 멤버들이 올랐던 서울 도심의 산도 따라 오르고 있다. 브라질 출신 타이스 레이스(40)씨는 이날 오후 3시쯤 도봉구에 있는 도봉산을 찾았다. 그는 “BTS 멤버 RM은 도봉산 정상 신선대에 올라 인증샷을 찍었는데 나는 체력이 안 돼서 거기까지는 못 갈 것 같다”며 아쉬워했다. 레이스씨는 20일 공개되는 앨범 아리랑에 대해 “한국 문화가 BTS 노래에 어떻게 녹아들었을지 궁금하다”며 “오랜 공백기가 있었던 만큼 BTS 멤버들에게 그동안 어떤 변화가 있었는지, 그것이 곡에 어떻게 반영됐는지도 빨리 느껴보고 싶다”고 했다. 도봉산에는 BTS 멤버 슈가의 이름을 딴 ‘슈가숲’도 있다. 슈가 팬들이 돈을 대 2024년 3월 조성했다.&lt;br&gt;&lt;br&gt;이날 경복궁 근정전과 경회루도 외국인 아미들로 붐볐다. BTS가 2020년 9월 한 방송 프로그램에서 이곳을 배경으로 공연을 한 뒤로 아미들의 단골 방문지가 됐다. 핀란드인 네나 만데레(28)씨와 벤라 모이시오(28)씨는 이날 흰색 한복 차림으로 경회루 앞에서 사진을 찍고 있었다. 두 사람은 “BTS 노래를 통해 한국의 전통 문화에 자연스럽게 관심을 갖게 됐다”며 “한국의 고풍스러운 문화재와 한복이 너무 ‘쿨’하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>유니세프·삼성서울병원에 에스파 윈터, 1억원씩 기부</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/20/RHBJXA2Y6FBDLC2BBFEBQ73V4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/20/RHBJXA2Y6FBDLC2BBFEBQ73V4A/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNW3VEMS35EWTNO5U3QLPDRVSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에스파 윈터 /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 에스파의 멤버 윈터가 삼성서울병원과 유니세프 한국위원회에 각각 1억원을 기부했다고 소속사 SM엔터테인먼트는 19일 밝혔다.&lt;br&gt;&lt;br&gt;윈터는 “세계 곳곳에서 여러 이유로 일상을 잃은 분들이 하루빨리 평온한 일상을 되찾기를 바란다”며 “팬 여러분께 받은 사랑을 의미 있게 나누고자 기부를 결정했다”고 했다. 이 기부금은 경제적으로 어려운 환자의 치료·재활과 분쟁과 재해로 고통받는 어린이를 위해 사용될 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“몸뻬 바지 같다” 손흥민 입을 축구 유니폼에 ‘극과 극’ 반응</title>
       <link>https://www.chosun.com/national/national_general/2026/03/20/OV5T5O2TXREPPBB4ONIS5DSQJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/OV5T5O2TXREPPBB4ONIS5DSQJA/</guid>
@@ -875,15 +888,6 @@
       <description/>
       <pubDate>Thu, 19 Mar 2026 15:25:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RT7XO3TVVEOFBOMB3WDFNCG34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 보라색 유니폼을 입고 무궁화를 들고 있는 합성사진. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 축구대표팀이 2026 북중미 월드컵에서 입고 뛸 새 유니폼이 공개되자 축구 팬들의 반응이 엇갈리고 있다. &lt;br&gt;&lt;br&gt;나이키는 2026 대한민국 축구 국가대표팀 유니폼을 19일 공개했다. 홈 유니폼의 상의는 전통적인 붉은색으로, 하의는 검정색으로 제작됐다. 백호의 털을 재해석한 ‘타이거 카모플라주’(위장막) 패턴을 디자인 요소로 넣었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FT2MBOMODVMVVHIFRBW6IG4GE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나이키는 2026년 대한민국 축구 국가대표팀 유니폼을 19일 공개했다. /나이키&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반응이 나뉘는 것은 원정 유니폼이다. 흰색 대신 바이올렛(보라)색을 택했고, 상의 전체에 꽃무늬 패턴을 넣었다. 나이키 측은 어떤 꽃인지 설명하지 않았으나 네티즌들은 무궁화와 비슷하다며 손흥민이 무궁화를 들고 있는 합성 사진도 만들었다. &lt;br&gt;&lt;br&gt;축구 팬들 사이에서는 “동양적인 신비로움이 있다”는 반응이 나왔지만, “할머니 몸뻬 바지(일바지) 같다”는 지적도 잇따랐다. 일반적으로 강렬한 색 유니폼이 동료들에게는 잘 보이고, 상대에게는 위압감을 준다는 점에서 ‘꽃무늬 보라색’은 경기력에 악영향을 줄 수 있다는 의견도 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3PG5K2FUNMQ5PKMIXEFSBG4PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나이키는 2026년 대한민국 축구 국가대표팀 유니폼을 19일 공개했다. /나이키&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나이키는 새 유니폼의 콘셉트가 ‘호랑이의 기습’이라고 설명했다. 전통에 뿌리를 두면서도 두려움 없이 나가는 대한민국을 그려냈다고 한다. &lt;br&gt;&lt;br&gt;홈 유니폼은 ‘백호’를 모티브로 삼아 팀의 회복력과 단결, 결정적인 순간에 폭발하는 공격력을 시각적으로 풀어냈다. 원정 유니폼에는 ‘기습’ 서사를 적용해 꽃이 피어오르는 순간의 응축된 에너지, 폭발적인 기세에서 영감을 받아 한국만의 역동적인 에너지를 표현했다. 대담한 바이올렛 컬러는 우아함과 강인함을 동시에 갖춘 한국 축구의 경쟁력을 보여준다고 한다. &lt;br&gt;&lt;br&gt;유니폼은 23일 공식 출시되며 28일 코트디부아르와 경기에서 우리 선수들이 처음으로 착용한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>섬박람회 앞둔 여수, 저조한 후원금 골머리</title>
-      <link>https://www.chosun.com/national/regional/2026/03/20/DACV6XYVKBDS7NSJL7FKLMOOTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/20/DACV6XYVKBDS7NSJL7FKLMOOTQ/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTOZZGVTKREEDBC6VJPQU35JWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수시 섬들./여수시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최초로 ‘섬’을 주제로 한 ‘2026 여수세계섬박람회’가 개막을 6개월 앞둔 가운데, 입장권·후원 실적이 부진해 적극적 홍보가 필요하다는 지적이 나오고 있다. &lt;br&gt;&lt;br&gt;19일 전남도의회 최무경 도의원에 따르면, 섬박람회 자체 수입 목표액은 총 120억원인데 지난달 말까지 실제 실적은 20억8800만원에 그친 것으로 나타났다. 목표 대비 17.4% 수준이다. 박람회 수입은 입장권과 캐릭터 판매, 전시장 부스 운영 등을 통해 나오는데, 이 실적이 저조했다는 뜻이다. 최 도의원은 “후원금 목표액도 총 8억원인데 현재 확보된 게 3억원 수준”이라며 “5년이라는 긴 준비 기간 동안 기업의 구미를 당길 만한 홍보·마케팅 전략이 부족했던 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 박영채 전남도 해양수산국장은 “전남도와 여수시, 조직위가 전담 태스크포스(TF)를 구성해 입장권 판매와 기업 후원, 기부 유치에 적극적으로 나서고 있다”며 “남은 기간 동안 (수입 창출에) 철저히 대비하겠다”고 했다.&lt;br&gt;&lt;br&gt;섬박람회는 9월 5일부터 11월 4일까지 두 달간 여수 돌산읍 진모지구와 오동도 인근, 금오도·개도 등 주요 섬에서 열린다. 여수엔 유인도 48곳을 포함해 섬 365곳이 있는데, 박람회를 통해 이를 관광 자원으로 활용한다는 게 여수시 전략이다. 일본과 프랑스, 그리스, 베트남 등 30국이 참여할 예정이다. &lt;br&gt;&lt;br&gt;주 행사장인 진모지구에는 국내외 섬을 소개하는 ‘주제관’을 비롯한 전시관 8곳이 조성된다. 현재 공정률은 50%로, 7월 완공이 목표다. 섬박람회 조직위 관계자는 “한국 섬의 아름다움과 역사, 문화를 세계에 널리 알리는 계기로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>신동빈 롯데 회장, 사재 2억여 원 동계올림픽 메달리스트에 전달</title>
