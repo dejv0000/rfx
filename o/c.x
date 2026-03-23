@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘재판 거래’ 의혹 현직 부장판사·변호사 구속영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/JNBS3ES3AVHTNHVEFRN7UYFFXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/JNBS3ES3AVHTNHVEFRN7UYFFXY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 14:07:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2TCNRTMM3WKMDDMYZWKM3EGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고교 동문인 변호사가 수임한 사건을 맡아 항소심에서 감형해 준 대가로 뇌물을 수수한 혐의를 받는 김 모 부장판사가 23일 오후 서울중앙지법에서 열린 구속영장 실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 동문인 변호사에게서 금품을 받고 재판을 유리하게 처리해 준 이른바 ‘재판 거래’ 혐의를 받는 현직 부장판사와 뇌물을 건넨 변호사의 구속영장이 모두 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 김진만 영장 전담 부장판사는 23일 “주된 공여 부분에 대한 소명이 부족하다”며 특정범죄가중처벌법상 뇌물 수수 혐의를 받는 김모(44) 부장판사와 뇌물 공여 혐의를 받는 정모(48) 변호사에 대한 구속영장을 각각 기각했다. 공수처가 제시한 증거만으로는 두 사람 사이에 오간 금품 및 편의 제공과 실제 재판 결과 사이의 ‘대가성’이 구속을 필요로 할 만큼 충분히 입증되지 않았다는 취지로 풀이된다.&lt;br&gt;&lt;br&gt;앞서 고위공직자범죄수사처(공수처)는 김 부장판사가 정 변호사가 수임한 사건 20여 건의 항소심을 맡아 형을 깎아주는 대가로 현금 300만원과 명품 향수, 반지 등 수천만 원 상당의 금품을 챙겼다고 보고 지난 19일 구속영장을 청구했다. 정 변호사 소유 건물의 일부를 아내의 바이올린 교습소로 1년간 무상 사용한 혐의도 영장에 적시됐다.&lt;br&gt;&lt;br&gt;두 사람은 혐의를 부인하고 있다. 김 부장판사 측은 정 변호사에게서 받은 금품이 오랜 친분에 따른 ‘단순 선물’일 뿐, 감형 등 재판 결과와는 무관하다는 입장인 것으로 알려졌다. 정 변호사 역시 이날 영장 심사 후 ‘감형 등을 대가로 (현금과 금품을) 건넸느냐’ 등의 취재진 질문에 “인정하고 있지 않다”고 말했다.&lt;br&gt;&lt;br&gt;공수처는 법원의 기각 사유를 분석한 뒤 보강 수사를 거쳐 영장 재청구 여부나 불구속 기소 방향 등을 검토할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 3월 24일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/23/6HVYV4JFRFAENM4TSW56ZTYT3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/23/6HVYV4JFRFAENM4TSW56ZTYT3U/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 14:31:00 +0000</pubDate>
+      <content:encoded> 낮엔 포근하지만 큰 일교차&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRL74SJM3ZGPHCIVZN3QXUJKRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구조견은 훈련관에게 ‘제자’… “임무 완수 못하면 풀이 죽어요”</title>
+      <link>https://www.chosun.com/national/2026/03/22/3FC2SDLZB5AJ7JPFWIHHJ2622M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/22/3FC2SDLZB5AJ7JPFWIHHJ2622M/</guid>
+      <dc:creator>공주경 주간조선 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Mar 2026 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZWEYTFGJSDMMLEMM2GKZBUGA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;대구 중앙119구조본부 붕괴 훈련장에서 김철현 소방위가 구조견 ‘토백이’와 수색 시범을 보이고 있다. photo 이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“구조견도 처음 시신 냄새를 맡으면 깜짝 놀랍니다. 평소와 다른 상태임을 직감하는 거죠. 시신에서 부패 냄새가 나거나 색깔이 변해 있는 경우에는 ‘이게 맞는지’ 주저하기도 합니다.”&lt;br&gt;&lt;br&gt;반드시 같은 언어를 써야만 감정을 나눌 수 있는 건 아니다. 구조견과 핸들러의 관계를 들여다보면 인간과 개가 얼마나 깊이 교감하는 존재인지 다시금 확인하게 된다. 약 7년차 구조견 ‘토백이’의 핸들러인 김철현 영남119특수구조대 소방위는 “구조견이 낯선 물체를 보고 당황할 경우 ‘너한테 해를 끼치지 않아’라는 신호를 꾸준히 주며 안정시켜야 한다”고 설명했다. 이같이 구조견과 핸들러는 눈빛과 몸짓, 신호만으로도 서로의 상태를 읽으며 현장의 변수를 극복해 나간다.&lt;br&gt;&lt;br&gt;3월 23일 ‘국제 강아지의 날’을 앞둔 지난 3월 17일, 전국 유일의 ‘119구조견교육대’가 있는 대구 달성군 중앙119구조본부를 찾았다. 중앙119구조본부 건물에 들어서자 야외 견사에서 우렁찬 개짖음 소리가 울려퍼졌다. 2017년에 설립된 119구조견교육대는 실제 재난 현장을 재현한 특수훈련장을 통해 구조견이 다양한 상황에 적응할 수 있도록 체계적인 훈련을 진행하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42WEZDCGA3TGMZYHE4DMZLEGU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;구조견에게 구조는 ‘놀이’&lt;/b&gt;&lt;br&gt;&lt;br&gt;“구조견을 만져도 괜찮습니다. 사람을 구조하는 일을 하다 보니 기본적으로 사람을 좋아하는 성격이어야 하거든요.”&lt;br&gt;&lt;br&gt;김철현 소방위가 구조견 ‘토백이’의 목덜미를 긁으며 말했다. 올해 9살인 수컷 래브라도 리트리버 토백이는 차분하고 무던한 성격을 지녔다. 취재진이 곁을 맴돌며 관심을 보여도 토백이의 시선은 김 소방위가 부르지 않는 한 허공에 머무를 뿐이었다. 시범을 앞두고 토백이에게 구조견 조끼를 입히던 김 소방위는 “살이 조금 쪘네”라고 중얼거렸다. 그는 “래브라도 리트리버는 천성이 느긋해 체중이 쉽게 늘어나는 편”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;그러나 수색 시범이 시작되자 토백이의 태도는 180도 달라졌다. 오는 5월 은퇴를 앞두고 있지만, 움직임은 한창 현역처럼 날렵했다. 김 소방위가 “헤이, 백(애칭)!”이라고 부르자 토백이는 잔해 더미 위로 몸을 날렸다. 그리고는 코를 바닥 가까이 붙인 채 빠르게 현장을 더듬기 시작했다. 실제로 건물 붕괴 상황을 재현한 훈련 구역은 뒤집힌 승용차와 널브러진 콘크리트 잔해로 가득해 발을 디디고 오르기조차 쉽지 않았다. 그럼에도 토백이는 김 소방위의 지시에 따라 장애물을 넘어다니며 실제 수색에 들어간 듯 절도 있는 움직임을 보였다. 이날 다른 훈련견이 훈련에 나설 때도 비슷한 장면이 연출됐다. 셰퍼드 ‘마루’가 잔해 속에 숨은 목표를 찾아내자마자 큰소리로 짖으며 훈련관에게 위치를 알렸다. 구조견은 실제 현장에서 구조자를 발견하면 해당 지점을 향해 짖거나 스틱을 물고 핸들러에게 돌아가는 방식으로 신호를 보내면서 구조대원이 접근할 수 있도록 돕는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRTEMJRMM2DCN3FMY3WENBTGA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;대구 중앙119구조본부 운동장에서훈련견 ‘루비’가 철제 구조물을 뛰어넘고 있다. photo 이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국에서 운용 중인 구조견은 총 41마리다. 서울·부산·경기·강원·전남·경북·경남·제주에 각각 3마리씩 배치돼 있고, 중앙에는 12마리가 별도로 운영된다. 여기에 수난 탐지견 3마리와 화재 탐지견 2마리가 포함된다. 충청권은 강원권과, 전북권은 전남과 연계해 인접 지역 중심으로 운용되고 있다. 토백이 역시 국내외 재난 현장에 200차례 이상 투입되며 14명의 실종자를 직접 발견하거나 위치를 특정하는 성과를 냈다. 최근에는 2025 APEC 정상회의 경계 근무를 비롯해 경남 산청 수해 현장, 튀르키예 대지진 구조활동에도 참여했다. 특히 튀르키예에선 실종자를 수색하던 중 앞발을 다치는 부상을 입고도 붕대를 감은 채 수색을 이어가는 투혼을 보이기도 했다.&lt;br&gt;&lt;br&gt;김철현 소방위는 “산청 수해 당시에는 극심한 불볕더위에 차에서 내리는 순간부터 체력이 소진될 정도였고, 진흙과 강물이 뒤섞여 수색 환경도 매우 열악했다”고 설명했다. 이어 “구조견 역시 성과 없는 수색이 계속되면 쉽게 지친다”며 “구조견에게 구조는 하나의 ‘놀이’처럼 흥미를 느끼게 만들어야 해서 성과가 없어 풀이 죽은 날에는 구조대원이 일부러 숨어 있다가 ‘짠’ 하고 나타나 견들의 동기를 북돋워 준다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZGCYZWGAYTOMZQHE3WIYJXMU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;대구 중앙119구조본부 운동장에서 훈련견 ‘루비’가 장애물 사다리를 건너고 있다. photo 이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4DMNDEGIYWKZJRGUZGCYZXGA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;현광섭 중앙119구조본부 훈련관이 훈련견 ‘마루’와 붕괴 훈련장에 앉아 있다. photo 이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;구조견 한 마리 키우는 데 2년 &lt;/b&gt;&lt;br&gt;&lt;br&gt;온전한 구조견 한 마리를 길러내는 데는 통상 2년이 걸린다. 셰퍼드, 말리노이즈, 래브라도 리트리버, 보더콜리 등 주로 외국 종 강아지들이 인명구조견센터에 도입돼 복종 훈련부터 장애물, 군중 속 행동 훈련까지 단계적으로 교육받는다. 이 과정에서 핵심적 역할을 하는 이들이 ‘중앙119구조본부 훈련관’들이다.&lt;br&gt;&lt;br&gt;군 복무 시절 군견병 경험을 바탕으로 훈련관의 길에 들어섰다는 김용완 중앙119구조본부 훈련관은 구조견들에게 일종의 ‘담임 교사’와 같은 존재다. 훈련관 1인당 보통 1~2마리를 맡지만, 8년 차인 그는 루비·말리·미소 등 3마리를 동시에 훈련시키고 있다. 이날 포근한 날씨 속에서 말리노이즈 ‘루비’는 훈련관과 복종 및 장애물 훈련을 진행했다. “앉아”라는 지시에 뒷다리를 접어 앉고, “엎드려”에는 네 다리를 바닥에 불여 자세를 낮췄다. “따라”라는 구호가 떨어지면 기본 보행 자세를 취하는데, 이때 구조견은 대원의 왼쪽에 밀착해 선다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2GMNJRGIYWKOJVGY3TMZJTMQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;대구 중앙119구조본부 훈련장 입구에 세워진 ‘소방 119구조견 기림비’. photo 이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훈련관들에게 구조견은 단순한 동물이 아니라 ‘제자’에 가까운 존재다. 김 훈련관은 가장 기억에 남는 구조견으로 첫 제자인 말리노이즈 ‘태주’를 꼽았다. 현재 서울에서 활동 중인 태주는 어느덧 은퇴를 앞둔 시기에 접어들었다. 그는 “성격이 워낙 독특해 훈련 때 말을 잘 듣지 않았다”며 “첫 출동을 보낼 때는 걱정이 컸다”고 회상했다.&lt;br&gt;&lt;br&gt;드론과 열화상 장비 등 첨단 탐색 기술이 빠르게 발전하고 있지만, 구조견의 역할은 여전히 대체 불가능한 영역으로 남아 있다. 사람의 냄새를 식별하는 후각 능력은 현존 기술로 구현하기 어려워서다. 개는 인간보다 최소 1만배에서 최대 10만배 이상 예민한 후각을 지닌 것으로 알려져 있다. 이 덕분에 실종자가 남긴 미세한 체취까지 포착해, 특히 숲속과 같은 환경에서 수색에 큰 도움을 준다. 게다가 물속에 잠긴 익사체의 흔적까지 탐지할 수 있다. 김용완 훈련관은 “사람이 사망하면 부패 과정에서 모공이나 신체의 틈을 통해 기름기와 가스가 배출된다”며 “구조대원들과 함께 배를 타고 이동하며 그 냄새를 포착해 시신을 찾는다”고 설명했다. 김철현 소방위도 “구조견 한 마리가 구조대원 30명에 맞먹는 역할을 하며 수색 범위를 효과적으로 좁혀준다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TIOJVGAYTQM3BGQ4GMOJUMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래브라도 리트리버 &amp;#39;토백이&amp;#39;와 말리노이즈 ‘루비’. photo 이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공하성 우석대 소방방재학과 교수는 “구조견은 현존 기술로 대체하기 어려운 능력을 지니고 있다”며 “특히 산악 실종자 수색에서는 생존 가능성이 있는 골든타임 확보에 큰 역할을 한다”고 설명했다. 이어 “건물의 소방시설 역시 평소에는 쓰이진 않아도 예기치 못한 화재가 발생할 때반드시 필요한 것처럼 구조견도 마찬가지”라며 “단 한 번의 투입으로도 한 생명을 구할 수 있다면, 구조견은 매우 효과적인 탐색 수단”이라고 강조했다.&lt;br&gt;&lt;br&gt;행정상 ‘장비’로 분류되는 구조견은 핸들러에게 그 이상의 의미를 지니기도 한다. 김철현 소방위는 올해 은퇴하는 토백이를 거둬 자신의 집에서 키울 계획이라고 밝혔다. 보통 은퇴한 구조견들은 홈페이지 공고를 통해 선발된 입양자에게 맡겨져 여생을 보낸다. 김 소방위는 “이렇게 고생을 다 시키고 다른 사람한테 보내면 마음이 편하지 못할 것 같다”며 “토백이는 내가 끝까지 책임지고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;a href="https://weekly.chosun.com/" target="_blank" rel="" title="https://weekly.chosun.com/"&gt;▷더 많은 기사는 주간조선에서 볼 수 있습니다.&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MIZWEYTFGJSDMMLEMM2GKZBUGA.gif?auth=43e8cb558e631ad2fccc70af78c7d30b3745e02f150e63056f07b8888e80b5fe&amp;smart=true&amp;width=800&amp;height=1200" type="image/jpeg" height="1200" width="800">
+        <media:description type="plain">대구 중앙119구조본부 붕괴 훈련장에서 김철현 소방위가 구조견 ‘토백이’와 수색 시범을 보이고 있다. photo 이신영 영상미디어 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>쌍방울 수사 검사 “조작기소 국정조사, 檢 조직 차원 대응해달라”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/23/ZO6OTNPN2RCUNOUZZUCUKKPNHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/ZO6OTNPN2RCUNOUZZUCUKKPNHM/</guid>
@@ -614,24 +644,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/775RPOGPCFDWTEO2Z5VJC5RSYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 회동(會同)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/03/23/S4ZMF6ZL3ZB3NN7OBADKHQEG24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/03/23/S4ZMF6ZL3ZB3NN7OBADKHQEG24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75MYBIKDP5EPRDYB2443LOJMJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2830] 암호로 바꿔 쓰기</title>
-      <link>https://www.chosun.com/national/nie/2026/03/23/C4CZTTJVHFF2PMZLCPECDUNIX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/23/C4CZTTJVHFF2PMZLCPECDUNIX4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNXXFVYWTFHH3HEEJUSQ4OAIYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 굳게 결심하다, 작정하다</title>
       <link>https://www.chosun.com/national/nie/chinese/2026/03/23/5QWN4E5HNVAYDAIH2333H2WQDU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/03/23/5QWN4E5HNVAYDAIH2333H2WQDU/</guid>
@@ -639,15 +651,6 @@
       <description/>
       <pubDate>Sun, 22 Mar 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRO7PIPS2FB4FAGQSP7JSNBX3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월 23일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/22/G7JRFVVSJJGSBESBNQHRHIRDRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/22/G7JRFVVSJJGSBESBNQHRHIRDRQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 14:35:00 +0000</pubDate>
-      <content:encoded>일교차 크고 중부지방 초미세먼지 ‘나쁨’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWH5EH73XRFQ3FWC3K7WPMDAN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아이고 내 새끼 어떡해 “왜 여기 있어”...대전 화재 합동분향소 ‘눈물바다’</title>
