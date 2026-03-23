@@ -13,6 +13,188 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법무부 국제법무국장에 강준하 홍익대 교수</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/NQHMDJ5BHVBRFABQNHBDSK5LRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/NQHMDJ5BHVBRFABQNHBDSK5LRU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 04:52:15 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK7XLMA7SRGYVC4RVFKCJ722AE.png"&gt;&lt;figcaption&gt;&lt;small&gt;강준하 신임 법무부 국제법무국장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 23일 강준하(56) 홍익대 법학과 교수를 신임 국제법무국장(개방형·일반직 고위공무원 나급)으로 임용했다고 밝혔다.&lt;br&gt;&lt;br&gt;강 신임 국장은 중동고와 고려대 법대를 졸업했다. 2001년 미국 뉴욕대에서 법학 석사(LLM)를, 2015년 인디애나대에서 법학 박사(SJD) 학위를 받았다. 2005~2007년 외교통상부 행정사무관을 지낸 후 2007년부터 홍익대 법대 교수로 재직했다. 2016~2017년 산업통상자원부 통상정책심의관(일반직 고위공무원), 2021~2023년 한-유럽연합(EU) FTA 국내자문단, 2023~2026년 산업통상부 무역위원 등을 역임했다.&lt;br&gt;&lt;br&gt;법무부 국제법무국은 2023년 8월 처음 만들어졌다. 각 정부 부처에 정확한 법률지원을 제공하고 늘어나는 국제투자분쟁(ISDS)을 예방·대응하는 역할을 한다. 초대 법무국장은 2024년 2월부터 올 1우러까지 정홍식 중앙대 법학전문대학원 교수가 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4IDOKWBN3VHGXN4LNWJNBECVUA.png?auth=7bb96e6111dacf52dce93c6f8e20d5c9fe5fea35cd53a224235b4a663920ee2f&amp;smart=true&amp;width=540&amp;height=405" type="image/png" height="405" width="540">
+        <media:description type="plain">강준하 신임 법무부 국제법무국장</media:description>
+        <media:credit role="author" scheme="urn:ebu">법무부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울행정법원, ‘한국형 사회법원’ 추진…장애인·노인·아동에게 쉬운 재판</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 04:51:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTENJRMEZWMYRXMJQTEYJRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울행정법원에서 열린 사회보장 전담재판부 간담회 모습. /서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원이 장애인·노인·임산부·아동 등 사회적 약자를 위한 ‘한국형 사회법원’ 구축에 나선다. 사회보장 사건 전문성을 높이고, 판결문은 쉬운 말로 쓰고, 소송 비용 부담은 줄이는 것이 핵심이다.&lt;br&gt;&lt;br&gt;서울행정법원은 독일의 사회법원 모델을 국내 법 체계에 맞게 적용해 한국형 사회법원을 추진하는 안건을 23일 전체 판사회의에서 논의한다고 밝혔다. 구체적으로 △사회보장 전담재판부 확대·개편 △쉬운 판결문 도입 △소송구조(재판을 받는 데 드는 비용을 국가가 대신 내주는 제도) 확대를 추진한다.&lt;br&gt;&lt;br&gt;독일 사회법원은 연금·장애급여·실업급여 등 사회보장 분야 분쟁만 전담하는 특수법원으로 핵심 원칙은 ‘원고 친화성’이다. 일반 소송에서는 원고가 직접 증거를 모으고, 변호사를 선임해 주장을 입증해야 한다. 비용도 원칙적으로 원고 부담한다. 하지만 독일 사회법원은 장애인이나 수급자가 소장을 낼 때 인지대(소송 수수료)가 없고, 판사가 직접 사실 조사에 나선다. 원고가 무슨 주장을 해야 할지 모르더라도, 법원이 먼저 설명해줄 의무가 있다. 사회보장 분쟁의 상대방은 대개 국가나 공공기관으로 사회적 약자인 원고가 불리할 수밖에 없기 때문에 이를 법원이 보완하는 것이다.&lt;br&gt;&lt;br&gt;기존 서울행정법원의 ‘사회보장 전담재판부’는 산업재해 사건을 전담으로 맡아왔다. 이를 올해부터는 장애인·노인·임산부·아동 관련 사건 전반으로 확대했다. 3월 현재 합의부 6곳과 단독 판사 7명이 사회보장 사건을 전담하고 있다.&lt;br&gt;&lt;br&gt;‘쉬운 판결문’도 시범 도입한다. ‘이지 리드(Easy Read)’라고도 불리는 쉬운 판결문은 복잡한 법률 문서를 짧고 쉬운 문장·그림으로 바꿔 쓰는 것이다. 예컨대 보통 판결문에는 ‘원고의 청구는 이유 없다’ 같은 법률 용어가 쓰이는데, 이를 ‘원고는 수어 통역을 거쳐야 하는 청각장애인이므로, 다른 사람보다 더 많은 면접 시간이 주어졌어야 했다고 주장했습니다. 하지만 재판부가 세심하게 살펴본 결과, 면접 과정은 불공평하지 않았습니다’와 같이 누구나 이해할 수 있는 말로 소송 결과를 전달하는 것이다.&lt;br&gt;&lt;br&gt;소송구조도 확대한다. 장애 유형별 전문 변호사 풀(pool)을 구성하고, 장애 관련 사건은 접수 단계에서 원칙적으로 전액 소송구조를 받을 수 있게 된다. 거동이 어려운 중증 장애인에게는 주거지 근처 변호사를 배정하는 ‘찾아가는 소송구조 서비스’도 도입한다.&lt;br&gt;&lt;br&gt;서울행정법원은 법원행정처에 소송구조 변호사 보수를 현행 대비 4~5배(400만~500만원)까지 올리는 예규 개정을 요청한 상태다. 전문 공익 변호사의 참여를 끌어올리기 위한 조치다. 법률구조공단과의 업무협약을 통해 장애인 당사자에게 먼저 연락하는 ‘보다 쉬운 변호사 연결 서비스’도 추진하고 있다.&lt;br&gt;&lt;br&gt;한국형 사회법원은 올해 2월 부임한 정선재 법원장과 강우찬 수석부장판사가 주도적으로 추진하고 있다. 정 법원장은 사법연수원 기획총괄 교수이던 2009년 국내 최초의 시각장애인 판사인 최영 판사(당시 사법시험 합격자)의 연수원 입소를 직접 총괄했다. 서울고법 재판장을 맡던 2023~2026년 업무 과중으로 자살한 중간관리자 사건, 화학물질 노출로 췌장암에 걸린 근로자 사건 등 1심에서 기각된 사회보장 사건을 항소심에서 잇따라 뒤집는 판결을 했다.&lt;br&gt;&lt;br&gt;강 수석부장판사는 2022년 국내 최초로 ‘쉬운 판결문’을 작성한 판사로 알려져 있다. 지적장애인 원고가 장애인 일자리 사업에서 불합격 처분을 받은 사건을 기각하면서 판결문 주문 옆에 “안타깝지만 원고가 졌습니다”라고 적고, 그림과 쉬운 말로 요약한 판결문을 붙여 주목받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아시아 최대 ‘위성 민간 지상국’, 제주에 문 연다</title>
+      <link>https://www.chosun.com/national/regional/2026/03/23/GUWKIJPS5FEKDGKFSNTJLD3HV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/GUWKIJPS5FEKDGKFSNTJLD3HV4/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 04:14:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QT4TBAG4HVAVNEVVLAZIWYK7CI.png"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 한림읍에 들어선 아시아 최대 규모 컨텍 아시안 스페이스 파크 조감도./컨텍&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 최대 규모의 위성 민간 지상국이 제주에 들어선다.&lt;br&gt;&lt;br&gt;제주도는 컨텍 스페이스그룹이 다음 달 2일 오전 10시 제주시 한림읍 상대리 일대에서 ‘컨텍 아시안 스페이스 파크(제주 ASP)’ 개관식을 진행한다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;제주 ASP는 1만7546㎡ 규모의 부지에 200억원을 들여 조성됐다. 제주 ASP는 컨텍의 자체 안테나와 글로벌 파트너사의 위성용 안테나(저궤도 및 정지궤도) 12기가 집결된 국내 유일의 ‘민간 안테나 팜(Farm)’이다. 아시아 최대 규모의 민간 우주 지상국 단지로 전 세계 우주 기업들이 데이터를 교환하고 새로운 비즈니스 가치를 창출하는 아시아 스페이스 허브를 목표로 한다. 제주 ASP는 앞으로 인공지능을 기반으로 한 데이터센터를 추가로 구축해 단순 위성 데이터 수신을 넘어 분석과 전 처리를 현장에서 수행하는 ‘우주 데이터 올인원 허브’로 기능을 확장한다는 계획이다. &lt;br&gt;&lt;br&gt;컨텍은 다목적 실용 위성 아리랑 7호를 포함한 국내 다목적 실용 위성 사업에서 데이터 처리 관련 업무를 수행해 왔다. 이를 통해 국가 위성 프로그램 운용 과정에서 일정 수준의 수행 경험을 축적해 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사업 구조 측면에서는 지상국을 서비스 형태로 제공하는 GSaaS(Ground Station as a Service) 모델을 운영하고 있다. 이는 지상국 구축 이후에도 위성 운용 기간 동안 서비스 계약이 지속되는 구조로, 정부 및 민간 위성 운용 수요 증가와 맞물려 활용 범위가 확대될 가능성이 있다. 업계에서는 우주항공청 출범 이후 실제 운용 인프라와 상용 서비스 경험을 보유한 기업을 중심으로 관련 사업 기회가 확대될 것으로 보고 있다. 위성 운용과 데이터 활용이 정책의 중심으로 이동하면서, 지상국의 중요성이 한층 커질 것이라는 분석이다.&lt;br&gt;&lt;br&gt;제주 ASP 준공은 인프라 확충을 넘어 제주를 아시아 우주 비즈니스 전략 거점으로 부각시키는 효과를 낼 것으로 제주도는 기대하고 있다. 제주도는 민간 주도 우주 산업과 지상국 인프라 성장 가능성에 주목하며, ASP 구축과 준공 과정 전반에 걸쳐 행정 및 제도적 지원을 해 왔다.&lt;br&gt;&lt;br&gt;컨텍 관계자는 “ASP는 전 세계 우주 기업들이 데이터를 교환하고 새로운 비즈니스 가치를 창출하는 아시아의 핵심 스페이스 허브로 성장할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>감사원 컨설팅에 풀린 ‘반도체 물길’… 1년 지연 위기 탈출</title>
+      <link>https://www.chosun.com/politics/goverment/2026/03/23/UEGQDLWTQZATZLCZN3CIEV4KQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/03/23/UEGQDLWTQZATZLCZN3CIEV4KQA/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 04:31:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4WTJKV2ZJE73JTEY4HWBIHL34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 8일 경기 용인시 처인구의 첨단 시스템 반도체 클러스터 국가산업단지 부지의 모습. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시에 조성 중인 첨단 시스템 반도체 클러스터 국가산업단지(용인 반도체 국가산단)에 공업용수를 공급하는 사업이 감사원의 컨설팅으로 지연 위기를 피했다.&lt;br&gt;&lt;br&gt;23일 감사원에 따르면, 한국수자원공사(수공)는 팔당호에서 용인 반도체 국가산단까지 46.9㎞ 길이의 공업용수 관로를 설치해 한강 물을 산단까지 끌어오는 사업을 추진하고 있다. 약 8432억원을 투입해 2030년까지 관로를 설치하고, 하루에 31만㎥를 공급할 계획이다.&lt;br&gt;&lt;br&gt;관로는 경기 하남시와 광주시, 용인시 등을 지나게 계획돼 있었다. 이 가운데 38.6㎞ 구간은 확정됐으나, 경인천 옆에 나란히 설치되는 관로 8.3㎞ 구간이 문제가 됐다. 한강유역환경청은 ‘하천과 같은 방향으로는 관을 설치할 수 없게 하는 것이 원칙’이라며 수공에 1년 넘게 하천 점용 허가를 내주지 않았다. 결국 지난해 12월 수공과 한강유역청이 감사원에 문제를 해결해달라며 사전 컨설팅을 신청했다.&lt;br&gt;&lt;br&gt;감사원은 하천과 나란히 관을 매설하지 못하게 하는 원칙은 하천 지반 침하나 세굴 발생 우려 때문에 만들어진 것으로, 수공이 애초 계획대로 관로를 하천 제방에서 10m 이상 떨어진 곳에, 지표면에서 2m 이상 아래에 매설한다면 하천에 영향이 없을 것이라고 판단했다. 또 하천 인근에 관로를 매설하는 것 외에는 현실적인 대안이 없고, 환경청이 하천과 나란히 관을 설치할 수 있도록 허가해 준 선례가 11차례 이상 있다는 점도 확인했다.&lt;br&gt;&lt;br&gt;이에 따라 감사원은 ‘한강유역청은 반도체 단지가 국가 경제에 중대한 영향을 미치는 산업단지인 점 등을 고려해서, 수공이 하천 유지 관리 및 안전 확보에 필요한 한강유역청의 의견을 충실히 반영한다는 것을 전제로 수공에 하천 점용을 허가해 줄 수 있다’는 결론을 내렸다.&lt;br&gt;&lt;br&gt;감사원의 결정에 따라 한강유역청은 수공에 하천 점용 허가를 내주고, 수공은 관로 설치 사업을 재개하기로 했다. 공업용수 공급은 애초 계획대로 2030년까지 지연 없이 가능해질 것으로 전해졌다.&lt;br&gt;&lt;br&gt;감사원은 “앞으로도 국가 주요 사업이 규정 해석 문제로 불필요하게 지연되지 않도록 사전 컨설팅을 제공하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“초등생에 이런 교육?” 비와이·김재섭 비판... 논란된 성교육 내용 보니</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/23/2EXXV5RNMFHGRCLT3TCBH47K54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/2EXXV5RNMFHGRCLT3TCBH47K54/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 00:05:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRA3LX633BI3BMRADXPIBIAJNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김재섭 의원./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학교 성교육 교재로 알려진 내용이 온라인에서 확산되면서 비판이 이어지고 있다.&lt;br&gt;&lt;br&gt;김재섭 국민의힘 의원은 지난 22일 자신의 인스타그램에서 ‘초등학교 성교육 근황’이라는 제목의 게시물을 공유하며 “진짜 초등학생 성교육을 이런 식으로 한다고?”라고 놀라며 반문했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5W4YZF4AG5EWTJTWPODM57IMRM.png"&gt;&lt;figcaption&gt;&lt;small&gt;김재섭 국민의힘 의원이 올린 게시글./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 의원이 공유한 게시물에 담긴 책의 저자는 “성은 여러 가지 뜻으로 사용된다. 생식 기관 및 신체적 차이에 따라 남자와 여자를 구분하는 생물학적 성과 사회·문화적으로 남자와 여자를 판단하는 기준이 되는 사회적 성이 있다”고 했다.&lt;br&gt;&lt;br&gt;또 “성과 관련된 느낌과 생각은 성에 대한 지식, 자신의 가치와 신념, 욕구, 가족이나 친구 등 주변 환경의 영향을 받는다”며 “이러한 모든 요소를 포함해 성이라고 한다. 성을 구분하기보다는 성의 다양한 측면을 올바르게 이해하는 것이 중요하다”고 적혀 있다. &lt;br&gt;&lt;br&gt;김 의원은 “이건 교육의 역할이 아니다. 이런 교육은 아이들을 혼란스럽게 하고 멀쩡한 제도를 무너뜨린다”며 “성별은 남녀로 구분되며 선택의 영역이 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTZY5KM2OJBIXDALKAOCCCFT2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 비와이./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;래퍼 비와이도 이날 소셜미디어(SNS)를 통해 해당 교재에 대한 입장을 밝혔다. 그는 “제정신일까” “교육하는 사람들은 교육받는 게 불법임?”이라고 적었다. 이어 “하나님이 자기 형상 곧 하나님의 형상대로 사람을 창조하시되 남자와 여자를 창조하시고” “이러므로 남자가 부모를 떠나 그의 아내와 합하여 둘이 한 몸을 이룰지로다” “사람을 지으신 이가 본래 그들을 남자와 여자로 지으시고” 등 성경 구절을 인용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UTZY5KM2OJBIXDALKAOCCCFT2I.jpg?auth=b52f6b382f97a3f312e787329547676f411c3c5ad6bbe3d8bc632011285e0236&amp;smart=true&amp;width=609&amp;height=586" type="image/jpeg" height="586" width="609">
+        <media:description type="plain">래퍼 비와이./인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>조희대·지귀연 등 ‘법 왜곡죄’ 8건 접수… 경찰 수사관도 포함</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/23/OSRTR2O6GBG4DJAVD6ZI7Z7QCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/OSRTR2O6GBG4DJAVD6ZI7Z7QCE/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 04:22:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 최근 시행된 ‘법 왜곡죄’와 관련해 총 8건의 고소·고발을 접수하고 수사에 착수했다. 이 중에는 일선 경찰 수사관에 대한 신고 3건도 포함됐다.&lt;br&gt;&lt;br&gt;23일 박정보 서울경찰청장은 정례 기자간담회에서 “현재 법 왜곡죄 관련 8건을 접수했다”며 ”이 가운데 3건은 광역수사단 반부패수사데에서, 나머지 5건은 일선 경찰서에서 수사하고 있다″고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 서울청 광역수사단 반부패수사대는 조희대 대법원장, 지귀연 부장판사, 조은석 특별검사 관련 사건을 맡았다. 일선 경찰서에 배당된 나머지 5건은 주로 개인 판결에 대한 불만이나 경찰 수사관을 대상으로 한 고소·고발이다.&lt;br&gt;&lt;br&gt;다만 일각에선 경찰의 법 전문성이 부족하다는 지적도 나왔다. 이에 대해 박 청장은 “광역수사단만 해도 변호사 자격증을 갖춘 인원이 50명”이라며 “왜 법 전문성이 떨어진다고 생각하는지 모르겠다”고 했다. 이어 “법 왜곡죄는 처음 수사하기 때문에 전문가 자문도 구해야 할 것 같고 고민을 하고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;일선 수사관들의 수사가 위축된다는 우려에 대해 박 청장은 “법과 원칙에 따라 수사해야 한다고 당부했다”고 했다.&lt;br&gt;&lt;br&gt;지난 12일 시행된 법 왜곡죄는 형사 사건을 맡은 판·검사가 타인에게 위법 또는 부당하게 이익을 주거나 권익을 해할 목적으로 재판 및 수사 중인 사건과 관련해 법을 왜곡할 때 10년 이하의 징역이나 10년 이하 자격정지에 처하도록 규정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“부산 글로벌특별법 조속 처리해야”… 박형준 시장, 국회서 ‘삭발’</title>
+      <link>https://www.chosun.com/national/regional/2026/03/23/BSWAWQGI2ZHR3EPBHATIK33GRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/BSWAWQGI2ZHR3EPBHATIK33GRE/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 01:15:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEZ7B67KVBGAHPLBDA3HC6AJ2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장이 23일 서울 여의도 국회 본청계단 앞에서 열린 부산 글로벌허브도시특별법 관련 긴급기자회견에서 삭발을 하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박형준 부산시장이 23일 국회의사당 앞에서 ‘부산글로벌허브도시특별법’의 조속한 제정을 촉구했다. &lt;br&gt;&lt;br&gt;장동혁 국민의힘 대표와 지도부, 정동만 국민의힘 부산시당 위원장, 지역구 국회의원 등 30여 명이 참석했다. &lt;br&gt;&lt;br&gt;이번 기자회견은 지난 11일 부산글로벌허브도시특별법 입법 공청회 이후, 전북과 강원 특별법이 국회 행정안전위원회 소위원회를 통과했지만, 부산은 소위원회에 상정조차 되지 않은 상황에서 마련됐다. &lt;br&gt;&lt;br&gt;부산시는 “이미 2년 전에 동일한 절차를 거친 부산 특별법만 논의에서 제외된 것은 납득하기 어렵다”며 입법 지연과 형평성 문제를 제기했다.&lt;br&gt;&lt;br&gt;박 시장은 국회의사당 정문 앞 계단에서 특별법 제정 의지를 담아 삭발을 강행했다. 삭발 후 박 시장은 “이미 국회 공청회까지 진행된 법안이 소위에 상정되지 못한 것은 납득하기 어려운 일”이라며 “민주당은 부산 차별을 멈추고 160만 부산 시민이 서명한 부산 발전 특별법의 발목을 잡지 말라”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “부산글로벌허브도시 특별법은 부산만의 법이 아니라 대한민국의 미래 성장 전략을 담은 국가 발전 전략”이라 강조하며, “국회가 조속히 소위원회 상정과 심의를 진행해 신속한 입법이 이뤄져야 한다”고 특별법 제정을 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EY7AHOBDVZB2XMODTR5BFRHLSI.jpg?auth=dcd3edb4acd9676ea09d0c929e4e3f5096583a36b68d68df05a230fa55a478b9&amp;smart=true&amp;width=2721&amp;height=1531" type="image/jpeg" height="1531" width="2721">
+        <media:description type="plain">[서울=뉴시스] 조성봉 기자 = 박형준 부산시장이 23일 오전 서울 여의도 국회 본청계단에서 열린 부산 글로벌허브도시특별법 관련 긴급기자회견에서 삭발을 하고 있다. 2026.03.23. suncho21@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">조성봉</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“가족수당은 장남만, 조사용품은 친조부모만”...인권위 ‘전통 가족관 차별’ 제동</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/23/GEYTGMKQCJGELHMUTTC3X7TKEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/GEYTGMKQCJGELHMUTTC3X7TKEA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 03:02:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 공기업의 가족 수당과 조사(弔事) 용품 지급 기준이 전통적 가족관에 기반한 차별이라며 제도 개선을 권고했다. &lt;br&gt;&lt;br&gt;인권위는 지난 1월 16일 A공기업이 소속 직원에게 가족 수당을 지급할 때 출생 순서에 따라 다른 기준을 적용하고, 외조부모와 친조부모의 상사(喪事)를 달리 취급한 것은 차별이라고 보고 제도 개선을 권고했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A공기업 직원인 진정인은 회사가 가족 수당과 조사 용품을 지급함에 있어 합리적 이유 없이 특정 가족 관계를 다르게 차별하고 있다며 진정을 제기했다. 진정에 따르면, A공기업은 가족 수당 지급 시 장남·장녀에게는 부모와 실제 동거 여부를 따지지 않은 반면, 차남에게는 동거 여부를 지급 기준으로 삼았다. 또 조사 용품도 외조부모와 달리, 친조부모 사망 시에만 지원했다. &lt;br&gt;&lt;br&gt;이에 A공기업 측은 “가족 거주 형태와 부양 방식이 다양화된 현실에서 실제 부양관계를 판단하는 데 한계가 있다”며 “장남·장녀가 전통적으로 가계 부양의 책임을 담당해 온 사회문화적 배경과 실제 부양 또는 가계 기여 여부를 종합적으로 판단했다”는 입장을 밝혔다. 친조부모에게만 한정된 조사 용품 지원은 한정된 예산으로 인한 불가피한 조치였다고 설명했다. &lt;br&gt;&lt;br&gt;하지만 인권위 차별시정위원회는 “가족 형태와 구조가 다양화되어 부모 부양이 특정 출생 순서의 자녀에게 전속된다고 보기 어렵다”며 출생 순서만을 기준으로 가족 수당 지급 여부를 정하는 것은 차별에 해당한다고 봤다. 또 민법 768조에 따라 친조부모와 외조부모 모두 ‘직계 혈족’에 해당한다는 점도 지적했다.&lt;br&gt;&lt;br&gt;이에 인권위는 A공기업에 출생 순서와 관계없이 가족 수당을 지급하고, 조사용품 지원을 외조부모에게도 동일하게 지급할 것을 권고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 종합특검 ‘김건희 수사 무마’ 의혹 대검·중앙지검 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/43K7YQX7BVAP7NS2BHI34O5GPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/43K7YQX7BVAP7NS2BHI34O5GPI/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 02:36:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYTKOBVMRRTKOJRMY3WEMLBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직해병)의 잔여 사건을 수사하는 권창영 2차 종합특검팀이 ‘김건희 여사 수사 무마 의혹’과 관련해 23일 대검찰청과 서울중앙지검에 대한 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오전부터 서울 서초구 대검찰청 반부패1·2과와 서울중앙지검 반부패수사2부 등에 수사관을 보내 압수수색을 진행 중이다. 이번 압수수색은 김 여사 사건 관련 수사 자료를 수집하기 위한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;‘수사 무마 의혹’은 김 여사가 도이치모터스 주가조작에 가담해 8억1000만원 가량 부당이득을 취득했다는 의혹 및 디올백 수수 의혹에 관한 것이다. 2024년 10월 서울중앙지검 반부패수사2부가 혐의가 없다며 불기소 처분을 내리는 과정에서 부실 수사가 있었다는 의혹이 골자다. &lt;br&gt;&lt;br&gt;당시 수사팀은 수사 과정에서 김 여사에 대해 출장조사를 하는 등 편의를 제공했다는 비판을 받기도 했다. 이와 관련해 특검팀은 지난 17일 이창수 전 서울중앙지검장과 조상원 전 중앙지검 4차장에 대해 출국금지 조치를 하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘이틀 연속 조문’ 대전 화재 공장 대표… 불법 증축엔 “잘 모르겠다”</title>
+      <link>https://www.chosun.com/national/regional/2026/03/23/3RYDYVMKTRDE5FTTHIICAVVGRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/3RYDYVMKTRDE5FTTHIICAVVGRE/</guid>
+      <dc:creator>정동하 기자, 우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 02:29:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTDCYJZGUYDAY3EMQ3GIMBVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안전공업 손주환 대표가 23일 오전 대전시청에 마련된 합동분향소를 찾아 조문하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 화재로 74명의 사상자가 발생한 대전 안전공업 손주환 대표가 23일 오전 9시 30분쯤 대전시청 합동 분향소를 찾아 전날에 이어 이틀 연속 조문에 나섰다. &lt;br&gt;&lt;br&gt;손 대표는 눈물을 흘리며 “뭐라 말씀을 드려야 할지 모르겠다. 유족분들께 죄송하다”고 사죄하며 고개를 숙였다. &lt;br&gt;&lt;br&gt;분향에 앞서 취재진이 공장 동관 2층 휴게 공간의 불법 증축과 직원들의 작업 환경 개선 요구 묵살 등에 대한 질문을 이어갔다. 이에 대해 손 대표는 “저도 잘 모르겠다”며 “조사가 끝나야 알 수 있을 것 같다”며 말을 아꼈다.&lt;br&gt;&lt;br&gt;손 대표는 이날 오전 시작된 경찰과 고용노동부의 공장 등에 대한 압수수색에 대한 입장을 묻자, 즉답을 피했다. &lt;br&gt;&lt;br&gt;임직원들과 큰절을 올리며 합동 분향을 마친 손 대표는 곧장 분향소를 빠져나갔다. &lt;br&gt;&lt;br&gt;지난 20일 오후 1시 17분 자동차에 들어가는 엔진 밸브를 제조하는 안전공업에서 큰불이 나 14명이 숨지고, 60명이 다쳤다. 희생자는 대부분 30·40대 직원들이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>항공사 기장 살해범… 부산경찰청, 신상공개 논의</title>
+      <link>https://www.chosun.com/national/regional/2026/03/23/AQHLIK644ZBFXOISNNPAY4YPBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/AQHLIK644ZBFXOISNNPAY4YPBU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 02:03:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5UX4YE5WVCGRIXN43R3XQ7LRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항공사 동료 기장을 흉기로 살해한 혐의를 받는 50대 전직 부기장 A 씨가 지난 20일 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 항공사 기장을 살해한 혐의로 구속된 김모(50)씨에 대해 경찰이 신상 공개 여부를 논의한다.&lt;br&gt;&lt;br&gt;부산경찰청은 오는 24일 오후 살인 혐의로 구속된 김씨에 대한 신상정보공개위원회를 개최한다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;신상정보 공개 제도는 국민의 알권리와 범죄 예방효과 등을 위해 2010년 마련됐다. ‘범행 수단이 잔인하고, 중대한 피해가 발생한 경우’ ‘피의자가 그 죄를 범했다고 믿을 만한 충분한 증거가 있을 경우’ ‘국민의 알 권리 보장 및 피의자의 재범 방지 및 범죄 예방 등 공공의 이익을 위해 필요한 경우’에 신상공개 대상이 된다.&lt;br&gt;&lt;br&gt;신상정보공개심의위원회는 최소 7명 이상 10인 이하로 구성해야 하고, 경찰이 아닌 외부 인원이 절반 이상 포함돼야 한다. 경찰 위원의 경우 총경 이상으로만 참여할 수 있다. 위원 3분의 2 이상이 동의하면 공개한다. 공개 범위도 위원회가 결정한다.&lt;br&gt;&lt;br&gt;앞서 부산지법은 지난 20일 김씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;김씨는 지난 17일 오전 부산 부산진구의 한 아파트에서 직장 동료였던 항공사 기장 A씨를 흉기로 찔러 살해한 혐의를 받는다. A씨 살해 하루 전인 16일에는 경기도 고양시 일산서구 한 주거지에서 직장 동료였던 기장 B씨를 살해하려다 범행에 실패하고 도주하기도 했다.&lt;br&gt;&lt;br&gt;김씨는 A씨 살해 직후 추가 범행을 위해 경남 창원에 있는 또 다른 전 동료 C씨 주거지에 찾아갔지만, 미수에 그쳤다. 이후 울산으로 도주했다가 범행 14시간여 만인 17일 오후 8시쯤 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;김씨는 공군사관학교 선배이자 한때 직장 동료였던 A씨 등 기장 4명에게 앙심을 품고 수개월 전부터 몰래 따라다니며 택배 기사로 위장해 집주소를 알아내고, 범행 장소를 물색하는 등 치밀한 계획을 세웠던 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 프로파일러(범죄 심리 분석관)를 투입해 사이코패스 검사를 한 결과 “사이코패스는 아니다”라는 검사 결과가 나왔다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 범행 동기 등 김씨 진술을 확보하고 신빙성 등을 검증하는 데 수사력을 모으고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘유가 담합’ 혐의 4대 정유사 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/JMSEQUCYF5EUBEF32ZNKWM4G4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/JMSEQUCYF5EUBEF32ZNKWM4G4E/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 02:02:38 +0000</pubDate>
+      <content:encoded>검찰이 23일 유가 담합을 벌인 것으로 의심되는 정유사들에 대한 강제 수사에 착수했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRTI5S4MCVNNDIN5MEQGAJ2FEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석유 최고가격제 시행 첫날인 지난 13일 제주 시내 한 주유소 가격 안내판에 유가 정보가 게시되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 오전 9시부터 SK에너지, GS칼텍스, 에스오일, HD현대오일뱅크에 대한 압수수색을 벌이고 있다. 4개 업체를 회원사로 둔 사단법인 한국석유협회도 압수수색 대상에 포함됐다. 이들 업체는 미국·이스라엘과 이란 간 전쟁을 계기로 유가를 담합한 혐의(공정거래법 위반)를 받는다.&lt;br&gt;&lt;br&gt;현재 정부는 지난 13일부터 석유 최고가격제를 시행하는 등 국제 유가 상승분이 주유비 상승으로 이어지지 않도록 대응하고 있다. 이재명 대통령은 “석유 최고 가격제를 어기는 주유소를 발견하면 즉시 제게 신고하라”고 자신의 소셜미디어에 글을 올리는 등 적극적으로 기름값 인하 압박을 이어가고 있다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관도 지난 6일 유가 담합 행위에 대해 ‘반사회적 중대 범죄행위’라고 규정하면서 대검찰청에 “법과 원칙에 따라 엄정대응하라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘렌터카 몰다 보행자 치고 현장 벗어나’…무면허 20대 男, 경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2026/03/23/N3ADNBXR3RFZ5N6A3BD76BZNEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/23/N3ADNBXR3RFZ5N6A3BD76BZNEM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 01:43:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRGINBUG5RTSZTEMQZTKYZSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;렌터카를 면허 없이 몰다 보행자를 치고도 별다른 조치 없이 현장을 벗어나 숨지게 한 20대 남성을 경찰이 수사하고 있다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 특정범죄가중처벌법상 도주 치사와 도로교통법상 무면허 운전 등 혐의로 20대 A씨를 수사하고 있다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 11시 9분쯤 인천 서구 가좌동의 한 이면도로에서 스포츠유틸리티차(SUV)를 몰다가 60대 여성 보행자 B씨를 치어 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;뇌출혈 증상을 보인 B씨는 목격자 신고로 병원으로 이송돼 수술을 받았으나 지난 21일 오전 숨졌다. &lt;br&gt;&lt;br&gt;렌트한 차를 몰던 A씨는 사고 직후 B씨를 도로변으로 옮긴 뒤 별다른 조치 없이 현장을 벗어났다가 1시간 뒤 경찰에 자수한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “근처에 있는 집에 차를 대고 현장으로 다시 오려고 했었다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 술을 마시고 운전한 정황은 확인되지 않았다고 설명했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “무면허로 차를 빌리게 된 경위 등 정확한 사고 경위를 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제약회사로부터 뒷돈 받은 의사...법원 “자격정지 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/GCVY5QDQVVG7BK7BOHTYAWZ7ME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/GCVY5QDQVVG7BK7BOHTYAWZ7ME/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 01:02:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4H6PKZGURKTM5H5U4BIZO2KVZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. 행정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제약회사로부터 뒷돈을 받은 의사에게 내려진 자격정지 처분이 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 지난 1월 서울 서초구에서 병원을 운영하는 A씨가 보건복지부 장관을 상대로 낸 의사면허자격정지처분취소 소송에서 A씨의 청구를 기각했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2016년 9월부터 2017년 7월까지 제약업체 영업사원으로부터 특정 의약품을 사용하고 환자들에게 처방을 유도하는 등의 목적으로 980만원을 받았다. 이에 A씨는 2022년 1월 의료법위반 혐의로 벌금 700만원 및 추징금 921만원을 선고 받았고, 지난해 3월에는 구 의료법을 위반했다는 이유로 보건복지부로부터 자격정지 4개월 처분을 받기도 했다.&lt;br&gt;&lt;br&gt;A씨는 공소시효가 지났다며 자신에 대한 자격정지 처분을 취소해야 한다고 했다. 의료법상 자격정지처분은 사유 발생시로부터 5년 내에 이뤄져야 하는데, 공소제기일이 2022년 1월이기에 돈을 받은 일부 행위는 5년의 시효가 완성됐다고 했다. &lt;br&gt;&lt;br&gt;또 시효가 남은 시기에 수령한 돈은 241만원이라 자격정지 처분이 아닌 경고처분만 가능하다고 주장하기도 했다. 구 의료법에 따르면 부당한 경제적 이익 등을 통해 300만원 미만의 돈을 받은 의사에게는 경고 처분이 내려진다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 비위행위가 계속적으로 행하여진 ‘일련의 행위’라고 판단하고 A씨의 청구를 기각했다. 재판부는 “각 범죄행위가 시간적으로 근접하고, A씨가 운영하는 병원 진료실에서 돈을 수수했다”며 “돈 수수의 목적, 제공자와 수령자의 각 지위 등을 종합하면 각 범죄행위는 단일한 범죄의사에 의한 하나의 계속적 범죄라 할 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “보험사 치료비, 공단 급여와 다르면 책임 보험금서 빼야”... 파기 환송</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/26XWOEBVHNEBBPOWLC2LBKK5ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/26XWOEBVHNEBBPOWLC2LBKK5ZM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 01:16:04 +0000</pubDate>
+      <content:encoded>보험사가 사고 피해자에게 준 치료비가 근로복지공단의 보험금과 보완적 관계가 아니라 별개의 보험금이라면, 보험사가 공단에 낼 책임보험금도 줄어든다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRGMOBWGA3TGNDDGQ2DGYJQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대법원 1부(주심 마용주 대법관)는 최근 공단이 현대해상화재보험을 상대로 제기한 구상금 소송에서 원고 일부승소한 원심 판결을 깨고 사건을 대전지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;퀵서비스 근로자 A씨는 2018년 5월 대전에서 오토바이를 타고 다른 차선으로 진입하던 중 후방에서 들어오던 차와 부딪혀 골절 등 상해를 입었다. 공단은 산업재해보상보험법에 따라 A씨에게 치료비 명목의 요양급여 841만원 등 총 2576만원 상당의 보험금을 지급했다. 가해자 측 보험사인 현대해상은 A씨의 치료비 총 712만원을 병원에 직접 지급했다. 현대해상이 피해자에게 지급한 치료비 일부는 공단이 지급한 요양급여 내역과 비교했을 때 치료 기간과 항목이 달랐다. 이후 공단은 가해자 측 보험사인 현대해상에 구상금을 청구하면서 소송이 불거졌다.&lt;br&gt;&lt;br&gt;이 사건 쟁점은 현대해상이 이미 지급한 치료비를 공단에 낼 책임보험금에서 공제할 수 있는지 여부였다. 현대해상은 A씨의 치료비를 이미 지급한 만큼 공단에 지급할 책임보험금에서 이를 빼야 한다고 주장했다.&lt;br&gt;&lt;br&gt;1심과 항소심은 모두 원고 일부 승소로 판결했다. 특히 항소심은 피해자가 사고로 1554만원가량의 손해를 입었고, 사고로 인한 요양 기간 중 제대로 일을 하지 못해 636만여 원의 추가 손해를 입었다고 판단했다. 현대해상은 가해자의 과실 비율 70%를 각각 반영한 1088만원과 445만원을 더한 뒤, 앞서 지급한 치료비 712만원을 뺀 821만원을 지급할 의무가 있다고 본 것이다. 이는 상해 책임보험금 한도 금액 1000만원 이내여서 현대해상이 보험금 전액을 지급할 의무가 있다고 원심은 봤다.&lt;br&gt;&lt;br&gt;그러나 대법원은 항소심이 공제를 일률적으로 한 것은 심리 미진이라고 보고 판결을 파기한 것이다. 대법원은 “보험사 치료비가 공단 보험급여와 치료 기간 또는 항목을 달리한다면 상호보완적 관계에 있지 않으므로 공단에 지급될 책임보험금에서 공제돼야 할 여지가 크다”고 판시했다. 현대해상이 비용을 낸 치료와 공단 측이 보험금을 지급한 치료가 동일한지 여부를 먼저 따져봤어야 했다는 얘기다. &lt;br&gt;&lt;br&gt;대법원은 “원심은 현대해상이 지급한 치료비가 보험급여와 상호보완적 관계에 있는지를 심리한 뒤 관계가 없는 치료비는 공단에 지급할 책임보험금에서 공제해야 했다”며 “그러한 심리를 하지 않은 채 치료비를 미리 공제한 것은 법리 오해에 해당한다”고 했다. 대법원 관계자는 “보험자가 피해자에게 책임 보험금으로 지급한 돈이 보험급여와 상호보완적 관계에 있지 않다면 이는 보험자가 공단에 지급할 책임 보험금에서 공제되어야 한다는 것이 건강보험 및 산재보험 모두에서 확립된 판례 법리”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰·고용노동부, 대전 안전공업 본관 압수수색</title>
+      <link>https://www.chosun.com/national/regional/2026/03/23/DOPX3CBIBNHFXEI7XI2J6ME74Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/DOPX3CBIBNHFXEI7XI2J6ME74Y/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 00:26:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYGEZJZGRQTAZLEGI3GIZJYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 대형 화재로 인명피해가 발생한 대전 대덕구 자동차 부품 제조 공장에서 안전보건공단 등 관계자들이 현장을 살펴본 후 나서고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;74명의 사상자를 낸 대전 자동차 부품 제조 공장 화재와 관련해 경찰과 노동 당국이 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;대전경찰청과 고용노동부는 23일 오전 9시부터 수사관 등 60명을 투입해 안전공업 본관과 대화동 공장 등 2곳에 대해 압수수색하고 있다. &lt;br&gt;&lt;br&gt;경찰 등은 화재 원인 규명 등을 위한 안전 조치 및 소방 관련 자료 등을 확보하고 있는 것으로 알려졌다. 화재 방지 및 대피 조치 등 사고 예방을 위한 안전조치가 제대로 이행됐는지 살펴볼 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>간밤 인천 주택 화재 잇따라… 주민 3명 화상 등 피해</title>
+      <link>https://www.chosun.com/national/incident/2026/03/23/O24R7MTJHNBBLCBXJ33FC4MPYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/23/O24R7MTJHNBBLCBXJ33FC4MPYU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 00:05:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSDOOLCGA4WCYRSGNSDSYRVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 1시 35분쯤 화재가 발생한 인천시 남동구 간석동 상가주택./ 인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 지역 주택 등지에서 화재가 잇따라 주민들이 화상을 입고 병원에 이송됐다. &lt;br&gt;&lt;br&gt;23일 인천소방본부에 따르면 이날 오전 1시 35분쯤 인천시 남동구 간석동의 한 상가주택 2층에서 불이 났다. &lt;br&gt;&lt;br&gt;이 화재로 집에 있던 30대 남성 A씨가 전신에 2도 화상을, 30대 여성 B씨가 양팔에 2도 화상을 입고 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;또 집 내부 32㎡와 가재도구가 타 소방서 추산 806만원 상당의 재산 피해가 발생했다. &lt;br&gt;&lt;br&gt;소방 당국은 신고 20여 분 만인 이날 오전 2시 40분쯤 불을 껐다. &lt;br&gt;&lt;br&gt;전날 오후 6시 11분쯤 인천 강화군 하점면의 한 단독주택에서도 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 70대 여성 A씨가 얼굴과 양손 등에 2도 화상을 입었고, 주택 30㎡와 가재도구가 타 100만원 상당(소방서 추산)의 재산 피해가 났다. &lt;br&gt;&lt;br&gt;소방 당국은 전날 오후 8시 24분쯤 불을 모두 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 이 현장들을 대상으로 정확한 화재 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3TQZLFGE2GGYZTGUZWGY3FHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오후 6시 11분쯤 화재가 발생한 인천 강화군 하점면의 한 주택./ 인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[경찰 25시] 민원 처리부터 112 신고까지, AI 도입에 열중하는 경찰</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/23/JWEZBRHUTVFN5KCE2FWG62WVFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/JWEZBRHUTVFN5KCE2FWG62WVFU/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Mar 2026 23:56:05 +0000</pubDate>
+      <content:encoded>그동안 국제 면허 발급, 범죄 경력 조회, 교통사고 사실 확인원 발급 등 각종 경찰 관련 행정 서류를 떼려면 경찰서를 방문해야 했다. 그런데 내년부터는 이런 민원을 비대면으로 해결할 수 있게 될 것으로 보인다. 경찰청이 도입하려는 인공지능(AI) 챗봇 ‘모두의 경찰관’을 통해서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOOCEB46CJADPPJ4SROYLP7SFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘모두의 경찰관’은 정부24 앱 등에서 주민등록등본을 신청할 수 있는 것처럼 AI 챗봇을 통해 민원을 접수하고 처리 결과를 회신받는 방식이다. 경찰은 매년 3억건이 넘는 102종의 경찰 관련 단순 민원을 AI가 자동으로 처리할 수 있을 것으로 보고 있다. 경찰은 이런 ‘치안 AI’를 대대적으로 도입해 단순 행정 처리 부담을 해소하고 그간 축적해 온 각종 사건·사고 데이터를 AI에 학습시켜 현장 경찰관 업무를 지원할 계획이다. 이와 관련해 경찰은 ‘치안 AI 혁신 종합 계획’을 추진하면서 계(係) 단위 AI 조직도 과(課) 단위로 격상했다.&lt;br&gt;&lt;br&gt;경찰은 현장 순찰, 실종자 수색 등에도 AI를 도입한다. 다음 달부터 AI 카메라와 드론을 탑재한 순찰차가 서울 강서·양천·영등포·구로·금천 등 서울 서남권 지역에 투입된다. 차량에 부착된 총 3대의 AI 카메라가 촬영 영상을 실시간으로 분석해 인파 속에서 흉기를 소지한 사람이나 화재로 인한 연기를 자동으로 식별할 수 있다고 경찰은 설명한다.&lt;br&gt;&lt;br&gt;경찰은 112 신고가 접수되면 AI가 신고 내용을 자동으로 문자화한 후, 주변 소음과 목소리에서 감지되는 위기감, 신고자의 인적 사항 등을 분석해 현장의 위험도를 판단하는 ‘차세대 112 신고 시스템’을 개발 중이다. 예를 들어 가정폭력 신고가 접수됐을 경우, AI가 거주자의 범죄 경력을 조회해 강력 범죄 전과자로 확인되면 현장에 출동하는 경찰관에게 방검복 등을 준비하도록 조언한다는 것이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘남양주 스토킹 살해’ 신상공개...44세 김훈</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/19/TUWNTQYFNFBTBGTYTNUCSTUDGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/19/TUWNTQYFNFBTBGTYTNUCSTUDGU/</guid>
+      <dc:creator>남양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Mar 2026 03:15:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYSDH7W3GNA67N4ROJYTCSZGR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남양주 스토킹 살인범 김훈./ 경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주에서 전자발찌를 착용한 채 스토킹하던 20대 여성을 살해한 피의자의 신상정보가 공개됐다. &lt;br&gt;&lt;br&gt;경기북부경찰청은 19일 신상정보공개심의위원회 심의를 거쳐 이번 사건으로 구속된 피의자 김훈(44)의 이름과 나이, 운전면허증 사진을 공개했다.&lt;br&gt;&lt;br&gt;위원회는 범행 수단이 잔인하고 중대한 피해가 발생했으며, 범죄를 입증할 충분한 증거가 있어 공공의 이익을 위해 피의자의 신상정보를 공개하기로 결정했다. &lt;br&gt;&lt;br&gt;경찰은 김훈이 병원에서 치료를 받는 점 등을 고려해 본인 동의를 받아 얼굴 사진 대신 운전면허증 사진을 공개했다.&lt;br&gt;&lt;br&gt;게시 기간은 이날부터 다음 달 20일까지다. &lt;br&gt;&lt;br&gt;김훈은 지난 14일 오전 8시 58분쯤 남양주시 오남읍의 한 길거리에서 과거 교제하던 20대 여성 A씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 A씨의 직장 인근에서 대기하다가 A씨가 탄 차량을 가로막은 뒤 창문을 깨고 흉기로 찔렀다. 김훈은 범행 이틀 전과 전날 2일간 A씨의 직장 인근을 돌며 동선을 파악한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;범행 후 차를 타고 달아난 김훈은 약 1시간 만인 같은 날 오전 10시 8분쯤 양평에서 검거됐다.검거 당시 그는 다량의 약물을 먹어 의식이 불분명한 상태로 발견돼 치료 중이었다. 경찰은 지난 16일 김훈의 의식이 돌아온 후 검찰과 협의해 구속영장을 청구했고, 의정부지법 남양주지원은 17일 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 작년 5월과 올해 1월, 2월 A씨를 가정폭력, 스토킹 등 혐의로 경찰에 여러 차례 신고했었다.&lt;br&gt;&lt;br&gt;김훈은 가정폭력처벌법상 임시조치 2·3호와 스토킹처벌법상 잠정조치 1·2·3호 적용 대상자로, A씨에게 연락하거나 주거와 직장 100m 이내 접근도 금지된 상태였다.&lt;br&gt;&lt;br&gt;김훈은 과거 성폭력 범죄로 전자발찌를 착용하고 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>날 풀리니 발 밑이 불안하다</title>
       <link>https://www.chosun.com/national/national_general/2026/03/23/66ZCDUR26FFNDEYYUU4KOLVWYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/66ZCDUR26FFNDEYYUU4KOLVWYM/</guid>
@@ -732,25 +914,6 @@
 /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김채영(30) 9단이 ‘전설’ 이창호(51) 9단을 꺾고 2026 블리츠오픈 정상에 올랐다.&lt;br&gt;&lt;br&gt;김채영은 지난 19일 경기도 판교 K바둑 스튜디오에서 열린 대회 결승 3번기 2국에서 이창호에게 271수 만에 백 2집 반 승리를 거뒀다. 전날 1국에 이어 2국까지 내리 따낸 김채영은 메이저 세계 대회 최다 우승(17회)에 빛나는 이창호를 2대0으로 꺾고 1년 3개월 만에 개인 타이틀을 획득했다. 블리츠오픈은 지난해 창설됐으며 남자와 여자 기사 모두 출전한다. 김채영이 혼성 기전을 제패한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;2011년 입단한 김채영은 프로 데뷔 3년 만에 프로여자국수전을 제패하며 주목받았다. 지난해 한국여자바둑리그에서 정규시즌 14승 2패의 압도적인 성적으로 소속팀 서울 부광약품의 우승을 이끌고 대회 MVP(최우수선수)를 수상했다. 이번 대회에서도 그는 결승에 오르기까지 베테랑 유창혁 9단과의 32강전을 시작으로 안조영, 오유진, 스미레 등 쟁쟁한 강자들을 꺾었다.&lt;br&gt;&lt;br&gt;김채영은 20일 본지 통화에서 “30대가 되면서 ‘다시 우승할 수 있을까’ 걱정이 컸는데, 생각지도 못한 우승을 해 실감이 나지 않는다”며 “내 경험과 노하우에 대해 다시 확신을 갖는 계기가 됐다”고 했다. 그는 “대진운이 좋지 않아 본선 초반부터 욕심을 비웠던 것이 오히려 집중력을 키워줬다”고 했다. &lt;br&gt;&lt;br&gt;김채영은 서른세 살에 늦깎이 입단한 김성래 6단의 딸이자 김다영 5단의 언니다. 지난해 두 살 연하인 박하민 9단과 백년가약을 맺었다. 김채영은 “부모님은 내게 부담을 주지 않으려고 대국 전에는 연락을 피하시고, 결승이 끝난 뒤에야 ‘잘했다’는 축하를 보내주셨다”며 “남편은 평소 바둑 공부도 함께 하고, 중요한 대국을 앞두고는 내가 수 연구에만 집중할 수 있게 배려해준다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>백성을 향하던 ‘왕의 길’… 그 길을 ‘K팝의 왕’이 지난다</title>
-      <link>https://www.chosun.com/national/weekend/2026/03/21/MERDYV4D4NEZ7EUQ3MMOQSWZ7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/03/21/MERDYV4D4NEZ7EUQ3MMOQSWZ7U/</guid>
-      <dc:creator>유석재 역사문화전문기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWCLWZ7Y3NGT5KVMPXEZ4YWAWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문광장 상공에서 드론을 통해 본 경복궁. 앞에서부터 월대-광화문-흥례문-근정문-근정전이 일자(一字)로 배치된 것을 볼 수 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;BTS가 21일 서울 공연에서 오프닝 무대로 활용하는 곳은 근정문(勤政門)→흥례문(興禮門)→광화문(光化門)→월대(月臺)로 이어지는 이른바 ‘왕의 길’이다. 만약 임금이 백성과 만나려 했다면, 경복궁의 정전(正殿)인 근정전에서 출발한 뒤 그 남쪽 문인 근정문과 흥례문을 차례로 지나, 경복궁의 정문인 광화문을 나서서 지금의 월대 자리에 이르러야 했기에 붙은 이름이다.&lt;br&gt;&lt;br&gt;근정문 북쪽에 자리잡은 근정전은 조선의 정궁인 경복궁 중에서도 중심이 되는 건물이다. 2대 정종, 4대 세종, 6대 단종, 7대 세조, 9대 성종, 11대 중종, 13대 명종, 14대 선조 등 조선 전기의 여러 왕들이 근정전과 그 남문 격인 근정문 일대에서 즉위식을 열었다. 또 문무백관의 조회를 비롯한 국가의 여러 중요한 의식이 이곳에서 치러졌다.&lt;br&gt;&lt;br&gt;근정전과 근정문의 이름은 ‘부지런히(근·勤) 정치를 한다(정·政)’는 뜻이지만 그저 열심히 일하기만 한다는 뜻이 아니었다. 수도 한양의 설계자였던 정도전은 ‘임금이 번거롭고 까탈스러운 일에 일일이 간섭하지 말고, 어진 사람을 임명하는 일처럼 꼭 해야 할 일에만 부지런해지라’는 뜻을 담았다고 밝혔다. 1592년 임진왜란이 일어났을 때 근정전을 비롯한 경복궁 전체가 불타는 비극을 겪어야 했다. 이후 근정전과 근정문은 1867년 고종 때 흥선대원군의 주도로 경복궁 중건이 이뤄지면서 다시 지어졌다. 근정문은 좌우로 행각이 둘러싸고 있어서 근정전과 광화문 사이를 지나려면 반드시 이 문을 지나야 한다.&lt;br&gt;&lt;br&gt;근정문과 광화문 사이에 있는 문이 흥례문이다. ‘예절(예·禮)을 일으킨다(흥·興)’는 뜻이다. 1914년 일제에 의해 훼손된 이후 1926년 이 자리에 거대한 조선총독부 청사가 건립됐다. 이 건물은 해방 이후 중앙청으로 쓰이다가 1996년 철거됐고, 2001년 흥례문의 복원 공사가 완료됐다. 지금 흥례문 중앙에서 안을 들여다보면 근정문과 근정전까지 일자(一字) 모양으로 배치됐다는 것을 알 수 있다.&lt;br&gt;&lt;br&gt;흥례문을 지나면 이제 경복궁의 정문인 광화문으로 나오게 된다. 서울을 대표하는 건물이자 1398년(태조 7년) 처음 지어진 뒤 1865년(경복궁 중건), 1968년(콘크리트 복원), 2010년(경복궁 복원 사업)까지 세 번에 걸쳐 다시 지은 건물이다. 한마디로 역사의 풍파와 함께했다고 할 수 있다. 광화문이라는 이름은 1426년(세종 8년)에 지은 것이다. ‘서경’ 등에 나오는 ‘광피사표(光被四表) 화급만방(化及萬方)’, 즉 ‘빛이 사방을 덮고 교화가 만방에 미친다’는 글귀에서 한 자씩 땄다고 알려졌다. 광화문을 지날 때마다, 그 북쪽 500년 역사를 품은 공간에서 생겨난 빛이 광화문을 통해 퍼져 나와 그 남쪽 21세기의 빌딩 숲을 환히 비추고 있는 모습을 상상하게 된다.&lt;br&gt;&lt;br&gt;광화문 앞에는 월대가 자리 잡고 있다. 월대란 궁궐의 주요 건물 앞에 만들었던 넓은 기단 형식의 대(臺)로, 사라진 지 약 100년 만인 2023년에 복원된 것이다. 사실 19세기 경복궁 중건 이전에는 월대가 존재했다는 근거가 없어 복원과 관련한 논란이 일기도 했다. 임금이 여기서 백성과 만날 수 있었다는 얘기는 사실 이론상의 것일 뿐 실제로 그런 기록을 찾을 수는 없으나, 누가 알았겠는가. 2026년 3월 21일 ‘K팝의 왕’인 BTS가 이곳에서 수많은 관객과 만나게 될 줄이야.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>철제 펜스 두르고 31곳에 출입문… 빌딩 31곳 통제 “옥상 관람 안돼요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/21/ZKUTZ22ZEJAAJE3PJNJYQPH3SM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/21/ZKUTZ22ZEJAAJE3PJNJYQPH3SM/</guid>
-      <dc:creator>김영우 기자, 최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 15:39:00 +0000</pubDate>
-      <content:encoded>그룹 방탄소년단(BTS)이 서울 광화문광장에 뜨는 21일, 전 세계 ‘아미(BTS 팬)’와 시민들도 광화문광장 일대에 모인다. 경찰은 최대 26만명이 몰릴 것으로 예상한다. &lt;br&gt;&lt;br&gt;경찰은 21일 오전 6시부터 광화문광장 일대에 펜스를 치고 게이트 31곳을 운영한다. 무대가 서는 광화문광장 북단에서 시청역까지 약 1.2㎞ 구역이다. 게이트를 통과해야 관람석 등으로 갈 수 있다. 게이트에는 금속탐지기를 설치한다. 경찰은 “테러에 대비해 총이나 폭발물 등을 확인하려는 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT6BEMFLXVFS5E722ZALNUEXD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티켓을 가진 사람만 들어갈 수 있는 관람석(코어존)은 반입할 수 있는 물건을 엄격하게 제한한다. 소지품을 최대한 줄이는 게 좋다. 큰 가방이나 카메라, 태블릿PC, 음식물은 갖고 들어갈 수 없다. 주최 측은 “스마트폰과 500mL 이하 생수, 응원봉, 작은 가방 정도만 반입 가능하다”며 “커피나 햄버거, 도시락도 들고 들어갈 수 없다”고 했다.&lt;br&gt;&lt;br&gt;관람 티켓을 예약한 사람은 신분증 확인소를 찾아가 신분증을 제시한 뒤 팔찌를 받아야 한다. 팔찌가 있어야 관람석에 들어갈 수 있다. 주최 측은 세종문화회관 앞마당과 주한미국대사관 뒤편 종로통합청사 부지, 서울광장에 신분증 확인소를 운영한다.&lt;br&gt;&lt;br&gt;티켓을 예약하지 못한 팬은 관람석 주변에서 축제를 즐기면 된다. 주최 측이 관람석 곳곳에 대형 스크린을 설치해 주변에서도 공연을 볼 수 있다. &lt;br&gt;&lt;br&gt;광장 주변 빌딩에 설치된 대형 전광판은 BTS 컴백 기념 영상 등을 튼다. 전광판은 코리아나호텔, KT광화문빌딩 웨스트, 세종문화회관 등 10곳에 있다. 공연을 중계하진 않는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMH7VOWSZ5GADNCFIBGFOSBRTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광화문광장 주변 빌딩 31곳은 출입이 통제된다. 팬들이 옥상에 올라가 사고가 날 수 있기 때문이다. 광화문광장 근처에 있는 경복궁과 국립고궁박물관, 국립민속박물관, 대한민국역사박물관은 21일 휴관한다. 세종문화회관도 예정된 공연을 취소했다.&lt;br&gt;&lt;br&gt;서울시는 광장 주변에 화장실 2500여 칸을 확보했다. 서울시청, 세종문화회관, 한국프레스센터 등의 화장실을 개방하고 곳곳에 이동식 화장실을 설치한다.&lt;br&gt;&lt;br&gt;인파에 밀려 다치거나 갑자기 아플 땐 현장 진료소(의료 부스)를 찾으면 된다. 의정부지 역사유적광장과 광화문역 4~7번 출구 앞, 세종문화회관, 서울시의회 등에 총 15곳을 운영한다. 무대 주변엔 중환자용 장비를 갖춘 특수 구급차도 대기한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBZUSTOACVHVPLWJ3IVILY5LQM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공연 전후 광화문광장 주변엔 차량뿐 아니라 지하철·버스 등 대중교통도 다니지 않는다. 서울시 공유 자전거인 ‘따릉이’도 빌릴 수 없다. 미리 동선을 짜는 게 안전하다. &lt;br&gt;&lt;br&gt;관람석을 설치하는 세종대로는 공연 전날인 20일 오후 9시부터 공연 다음 날인 22일 오전 6시까지 33시간 동안 통제한다. 사직로와 율곡로는 21일 오후 4~11시, 새문안로·종로와 광화문 지하차도는 같은 날 오후 7~11시 차량 통행을 막는다. 이 일대를 지나는 버스도 우회한다. &lt;br&gt;&lt;br&gt;가까운 지하철역 3곳도 이용하기 어렵다. 광화문역(5호선)은 21일 오후 2~10시, 시청역(1·2호선)과 경복궁역(3호선)은 같은 날 오후 3~10시 지하철이 서지 않는다. 출입구도 모두 폐쇄하기 때문에 역으로 들어갈 수도 없다. 서울시 관계자는 “종각역(1호선)이나 을지로입구역(2호선)에서 내린 뒤 10분 정도 걸으면 된다”며 “인파가 몰리면 이 역도 무정차 통과할 수 있어 일찍 움직이는 게 낫다”고 했다. 서울시는 대신 공연이 끝난 뒤에는 지하철을 집중 투입할 계획이다.&lt;br&gt;&lt;br&gt;공연 관련 정보는 서울시 홈페이지나 네이버 지도, 카카오맵 앱 등을 참고하면 된다. 서울시는 세종문화회관, 광화문역 6번 출구, 서울광장 등 5곳에 종합안내소도 운영한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P46KUTXJU5GRNE62WP6VULQSXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개방 화장실 안내&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K5EEN2JRUNBPDM62WGNSL255HE.jpg?auth=dbd04e66a2982aeeac2848decccb48cef6abe9ba3be1ef9a129f581df3982d7e&amp;smart=true&amp;width=1200&amp;height=675" type="image/jpeg" height="675" width="1200"/>
-    </item>
-    <item>
       <title>‘일본군 위안부 피해자 모욕’ 단체 대표 구속</title>
       <link>https://www.chosun.com/national/court_law/2026/03/20/MRSLXI7KCFE3BFHPFLLTNMHJXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/MRSLXI7KCFE3BFHPFLLTNMHJXU/</guid>
@@ -769,15 +932,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WI6RFYCNVPXPLQPN4AASJYWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법정소동 등 혐의를 받는 권우현 변호사가 20일 오전 서울중앙지법에서 열린 구속영장 심사를 마치고 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법정에서 소란을 일으킨 혐의를 받는 김용현 전 국방장관의 변호인 권우현 변호사에 대한 구속영장이 20일 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이지영 영장 전담 부장판사는 이날 법정 소동 등 혐의를 받는 권 변호사에 대한 구속영장 심사를 2시간가량 진행한 뒤 권 변호사의 영장을 기각했다. 이 부장판사는 “피의자의 주거, 가족 및 사회적 유대관계, 현재까지 수집된 증거, 심문 절차에서의 진술 태도 등에 비춰 현 단계에서는 구속 필요성이나 구속 사유에 대한 소명이 부족하다”고 사유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 권 변호사는 이하상 변호사와 함께 법원행정처로부터 고발당했다. 그는 지난해 11월 19일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 국무총리 재판에서 재판장의 퇴정 명령에 응하지 않고 소란을 일으켜 감치 15일을 선고받았다.&lt;br&gt;&lt;br&gt;권 변호사는 감치 재판 과정에서도 언성을 높이며 재판부에 항의해 감치 5일이 추가로 선고됐다. 다만 권 변호사의 소재가 확인되지 않는다는 이유로 실제 집행은 이뤄지지 않았다. 대법원 규칙상 감치 선고 후 3개월이 지나면 집행할 수 없다.&lt;br&gt;&lt;br&gt;법원행정처는 “법정과 재판장을 중대하게 모욕했다”며 권 변호사와 이하상 변호사를 경찰에 고발했다. 검찰은 권 변호사의 행위가 사법부 권위와 재판 질서를 훼손할 우려가 크다고 보고 지난 18일 구속영장을 청구했다. 이미 감치 집행된 이 변호사는 이번 영장 청구 대상에서 제외됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>BTS 컴백 D-1, 하루 전날부터 ‘후끈’ 달아오른 광화문 광장</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/FTCSQHLLWVGRRKYEEJVDZRL2C4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/FTCSQHLLWVGRRKYEEJVDZRL2C4/</guid>
-      <dc:creator>김민혁 기자, 이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 13:57:37 +0000</pubDate>
-      <content:encoded>방탄소년단(BTS) 컴백 공연을 하루 앞둔 20일 오후 8시쯤부터 서울 광화문 광장 일대에는 시민과 관광객이 몰렸다. 인파 통제를 위해 바리케이드가 설치되면서 좁아진 인도에는 시민들이 빼곡하게 들어찼고, 인근 건물들에 설치된 대형 전광판에서는 BTS 관련 영상들이 계속해서 상영됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTB3FLLHRG27KV4M42I7Y5BTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BTS 컴백 공연 전날인 20일 광화문 광장에 몰려든 관광객과 시민들이 광장에 설치된 무대를 촬영하고 있다. /김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 8시 40분이 되자 광장에 세워진 대형 미러볼에선 붉은색 빛이 뿜어져 나오기 시작했다. 공연 무대가 설치된 광장 안쪽으로 들어갈수록 사람들로 북새통을 이뤘고, 길 한편에서는 BTS 멤버 얼굴이 그려진 부채를 파는 상인이 시민을 상대로 호객 행위를 하고 있었다. 무대 위에서는 21일 공연을 앞둔 댄스팀이 리허설을 하는 모습도 눈에 띄었다. 댄스팀을 BTS로 착각한 팬들이 가던 길을 멈추고 휴대폰으로 이들을 촬영하기도 했다. 곳곳에 배치된 경찰은 호각을 불며 “오후 9시 전에는 모두 광장 밖으로 빠져나가 달라”고 안내했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7X4SAKOHX5C2TEFO7CL4VNCD4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BTS 컴백 공연 전날인 20일 광화문 광장에 몰려든 관광객과 시민들이 전광판에서 상영되는 BTS 관련 영상을 촬영하고 있다. /김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공연 하루 전날임에도 BTS 팬들이 일찌감치 광장을 방문해 현장을 답사하는 모습도 눈에 띄었다. 프랑스 출신 아미(ARMY·BTS 팬덤 이름) 실리아(23)씨는 헤드폰을 쓰고 바리케이드에 기댄 채 길 건너편의 전광판을 바라보다가, BTS 멤버 영상이 나오자 다급히 휴대폰을 꺼내 촬영했다. 그는 “BTS의 노래는 시간이 지날수록 성숙해지는 느낌”이라며 “특히 이번 앨범이 그 절정”이라고 했다. 21일 공연 티켓은 구하지 못했지만, 아침부터 공연이 열리는 오후 8시까지 인근에 머물며 분위기를 즐길 예정이라고도 했다. &lt;br&gt;&lt;br&gt;8년 차 아미라는 우즈베키스탄 출신 말리카씨 역시 현장에서 스마트폰으로 촬영을 계속하고 있었다. 지난해 9월 한국에 와 서울대 국제대학원에서 박사 과정을 밟고 있다는 그는 “사람 많은 곳을 좋아하지 않지만, 글로벌 스타 BTS를 위해서라면 이 정도는 감수해야 한다”고 했다. &lt;br&gt;&lt;br&gt;오후 9시가 되자 경찰들은 당초 예고했던 대로 “모두 공연장 밖으로 나가 달라”고 안내했다. 아일랜드 출신 타냐(31)씨는 더 머물지 못하게 되자 아쉬움을 표했다. 그는 “9년째 아미로 활동하고 있지만 매번 공연 예매에 실패했다”며 “멤버들의 전역을 애타게 기다려 온 만큼 이번 콘서트는 특히 더 가고 싶었는데 실패해 더욱 아쉽다”고 했다. &lt;br&gt;&lt;br&gt;여전히 현장을 떠나지 못하고 광화문 근처를 서성이는 팬들도 있었다. 인도네시아 출신 아미 셰릴(22)씨는 내일 콘서트에 대해 “기대 반, 걱정 반”이라고 했다. 셰릴은 “정국을 너무 좋아하는데, 내일 실제로 볼 수 있다는 생각에 눈물이 날 정도”라면서도 “30만명이 넘는 팬들이 온다고 들었는데, 큰일이 나지 않을까 걱정되기도 한다”고 했다. 중학생 시절 친구들에게 따돌림을 당하면서도 BTS의 노래를 들으며 버텼다는 그는 “BTS는 바닥부터 올라와 글로벌 스타가 된 인생 역전의 아이콘”이라며 “BTS를 보며 힘든 시기를 버텨낼 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“대전 車부품공장 불로 연락두절 14명, 휴대폰 위치 ‘공장 주변’으로 확인”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/20/PI2XRJPGGBD3JF6GRPYSUJUHKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/PI2XRJPGGBD3JF6GRPYSUJUHKE/</guid>
@@ -787,18 +941,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCNPDSM6WFD33JLTX2WQCB4XDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 대전 대덕구 문평동 한 자동차부품 제조 공장에서 불이 나 검은 연기가 치솟는 가운데 직원들이 탈출을 위해 필사적으로 뛰어내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후 대전 대덕구 문평동의 한 자동차 부품 공장에서 대형 화재가 난 가운데, 연락이 두절된 14명의 휴대전화 위치가 공장 주변으로 확인됐다. 화재 현장 진화율은 80% 정도로 큰 불길을 잡혔지만, 건물 붕괴 위험 탓에 소방당국이 내부 진입 및 수색엔 어려움을 겪고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7QIE2M6RVCDNMYJMKVEBCLZL4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 대전 대덕구 문평동 한 자동차부품 제조 공장에서 불이 나 검은 연기가 치솟는 가운데 직원들이 탈출을 위해 필사적으로 뛰어내리고 있다. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방당국은 이날 오후 화재 상황 브리핑에서 “현재 진화율은 80% 이상”이라며 “다만 1~2시간 내 완진이 가능하단 것은 아니다”라고 했다. 이어 “연락 두절된 14명의 정확한 소재는 여전히 파악되지 않고 있다”며 “다만 휴대전화 위치 추적 결과, 모두 공장 주변으로 확인되고 있다”고 했다.&lt;br&gt;&lt;br&gt;불은 이날 오후 1시17분쯤 발생했다. 오후 9시 기준 중상자가 24명, 경상자가 31명으로 파악됐다. &lt;br&gt;&lt;br&gt;화재 당시 내부에는 직원 170명이 있었다고 한다. 이중 55명이 부상하고 14명이 연락 두절 상태다. 소방당국은 점심시간에 공장 내 휴게실 등에서 휴식하고 있던 이들이 미처 대피하지 못했을 가능성을 고려하고 있다. 다만 공장 내부 진입이 어려운 상태라 정확한 소재를 파악하지 못하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3COA5E3LMNFZBNFQROBGLAWKYA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 대전 대덕구 문평동 한 자동차부품 제조 공장에서 불이 나 검은 연기가 치솟는 가운데 직원들이 탈출을 위해 필사적으로 뛰어내리고 있다. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재 원인과 정확한 발화점은 파악되지 않았다. 소방당국은 공장 건물 2동을 잇는 통로 때문에 불길이 빠르게 번진 것으로 보고 있다. &lt;br&gt;&lt;br&gt;이와 관련, 윤호중 행정안전부 장관은 이날 오후 7시30분 중앙재난안전대책본부를 즉시 가동하라고 지시했다. 정부는 피해 복구와 피해자 지원을 위해 대응 체계를 가동할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/R7QIE2M6RVCDNMYJMKVEBCLZL4.gif?auth=75147d2de369a4f61a3c2b794ff51c6a6a43cf9542751a8adba0b8ee6834b2e2&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
         <media:description type="plain">20일 오후 대전 대덕구 문평동 한 자동차부품 제조 공장에서 불이 나 검은 연기가 치솟는 가운데 직원들이 탈출을 위해 필사적으로 뛰어내리고 있다. /X</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>法, 항공사 기장 살해범 구속영장 발부…“기득권에 복수” </title>
-      <link>https://www.chosun.com/national/regional/2026/03/20/HQE32Z5PQVFXLID3QRGIS4IULE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/20/HQE32Z5PQVFXLID3QRGIS4IULE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 12:40:21 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTIODCHA3TMMLGHA3DAZDCHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항공사 동료 기장을 흉기로 살해한 혐의를 받는 50대 전직 부기장 A 씨가 20일 오후 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;항공사 기장을 흉기로 살해한 전직 부기장 김모(50)씨가 20일 구속됐다. &lt;br&gt;&lt;br&gt;부산지방법원 엄지아 영장전담판사는 이날 살인 혐의 등을 받는 김씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도망할 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;앞서 김씨는 이날 오후 1시 17분 부산진경찰서 지하 주차장에 준비된 호송 차량에 탑승하기 직전 “조직적인 기득권의 양아치 짓에 복수한 것”이라며 “항공사마다 공군사관학교 기득권이 엄청난 부패 행위를 저지르고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;김씨는 피해자 유족 등에 대한 취재진 질문에 아무런 답변을 하지 않았다.&lt;br&gt;&lt;br&gt;법원에 도착한 김씨는 ‘할 일을 했다는 게 무슨 뜻이냐’는 질문에는 “본인의 입맛에 맞지 않는다고 사람 인생을 함부로 파괴하는 기득권에 맞서 제 할 일을 했다”고 말했다.&lt;br&gt;&lt;br&gt;회색 티셔츠에 슬리퍼를 신은 김씨는 이날 호송 과정에서 시종일관 고개를 들고 다녔다. 취재진 카메라를 정면으로 응시하며 말했다.&lt;br&gt;&lt;br&gt;경찰관이 마스크 착용 의사를 물었으나 필요 없다며 사양한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 지난 17일 오전 5시 30분쯤 부산 부산진구의 한 아파트에서 직장 동료였던 항공사 기장 A씨를 흉기로 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨 살해 하루 전인 16일에는 경기도 고양시 일산서구 한 주거지에서 직장동료였던 기장 B씨를 살해하려다 범행에 실패하고 도주하기도 했다.&lt;br&gt;&lt;br&gt;김씨는 A씨 살해 직후 추가 범행을 위해 경남 창원에 있는 또 다른 전 동료 C씨 주거지에 찾아갔지만, 미수에 그쳤다. 이후 울산으로 도주했다가 범행 14시간여 만인 17일 오후 8시쯤 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;김씨는 공군사관학교 선배이자 한때 직장 동료였던 A씨 등 기장 4명에게 앙심을 품고 수개월 전부터 몰래 따라다니며 택배기사로 위장해 집주소를 알아내고, 범행 장소를 물색하는 등 치밀한 계획을 세웠던 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 프로파일러(범죄 심리 분석관)를 투입해 사이코패스 검사를 한 결과 “사이코패스는 아니다는 검사 결과가 나왔다”고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 구체적인 범행동기 등 김씨 진술을 확보하고 신빙성 등을 검증하는 데 수사력을 모으고 있다. 경찰은 신상정보공개심의위원회의 심의를 거쳐 신상 공개 여부를 결정할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GZSTIODCHA3TMMLGHA3DAZDCHA.jpg?auth=180aad97eb41f86ef9b6993b974fd669ed78270099c30967e2fedfcb00502993&amp;smart=true&amp;width=7247&amp;height=4947" type="image/jpeg" height="4947" width="7247">
-        <media:description type="plain">항공사 동료 기장을 흉기로 살해한 혐의를 받는 50대 전직 부기장 A 씨가 20일 오후 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1</media:description>
       </media:content>
     </item>
     <item>
@@ -829,54 +971,6 @@
       <content:encoded>행정안전부는 20일 오후 7시 30분을 기해 대전 공장 화재와 관련, 중앙재난안전대책본부를 가동한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LU5DJAC7PBFQLKNQR56NNZYL54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 대전 대덕구 문평동의 한 공장에서 화재가 발생해 소방대원들이 현장을 수색하고 있다. 소방 당국은 신고 14분 만에 대응 2단계를 발령하고 진화 작업을 벌였다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 이날 오후 1시 17분쯤 대전 대덕구 공장에서 화재가 발생했다. 중상 24명, 경상 31명이 발생해 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “화재로 부상자가 발생했고, 다수 인원의 소재가 파악되지 않고 있어 범정부적 대응을 위해 중대본을 가동하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 현장에서 고용노동부, 소방청 등 관계 기관과 중대본 회의를 진행할 예정이다. 윤 장관은 “추가 인명 피해가 발생하지 않도록 피해 확산 방지에 주력해달라”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>BTS 공연 하루 앞두고 인천공항 출입국심사 인력 확대</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/20/QXG2KPI6HBFRTDA6XLOXKSWKMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/QXG2KPI6HBFRTDA6XLOXKSWKMU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 10:27:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCZDEMM4WENBUMQ2TSY3BMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 인천국제공항에서 외국인 관광객들이 입국하고 있다. 21일 서울 광화문광장에서 열리는 BTS 컴백 공연을 관람하기 위해 전 세계 ‘아미’(BTS 팬)들이 속속 한국을 찾고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 BTS의 서울 광화문 공연을 하루 앞둔 20일 외국인 관광객의 대규모 한국 방문을 대비해 인천공항출입국·외국인청 출입국시스템을 긴급 점검했다고 밝혔다.&lt;br&gt;&lt;br&gt;차용호 법무부 출입국·외국인정책본부장은 인천공항 제1·2여객터미널 출입국심사장에서 입국 심사 대기 시간 단축을 위해 마련한 ‘특별 입국 심사 대책’이 효과적으로 작동하고 있는지 확인했다. &lt;br&gt;&lt;br&gt;법무부는 전날부터 출입국심사관 조기 출근 및 연장 근무, 비(非) 심사부서 직원 입국 심사 지원, 도착 승객 안내 강화 등을 시행했다. 이날부터는 수도권 5개 출입국 기관 직원을 인천공항에 파견하고, 인천공항출입국·외국인청 지원 부서 인원 54명을 심사 부서에 배치했다. 이에 따라 총 74명이 출입국 심사를 전담하고 있다.&lt;br&gt;&lt;br&gt;또한 법무부는 유인 입국 심사대를 인천공항 1터미널은 오전 11시~오후 2시대에 6대에서 27대로, 2터미널은 오후 4~7시대에 16대에서 43대로 늘렸다고 설명했다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 직원들에게 “공항에 관광객이 급증하는 상황에서 직원들의 심사 역량을 총동원해 적극적으로 대처해야 한다”며 “국민들과 외국인 팬 모두 안전하고 기분 좋게 공연을 즐길 수 있도록 해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 울산 울주군 일가족 부검…“일산화탄소 중독사 추정”</title>
-      <link>https://www.chosun.com/national/regional/2026/03/20/VAGYXMVF6NDGXIO2ECK5NXO34E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/20/VAGYXMVF6NDGXIO2ECK5NXO34E/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 09:20:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ES7JZTYSANOTBJSXE3D5RNY4MA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정은경 보건복지부 장관이 20일 오후 울산 일가족 사망사건과 관련 대책회의에 참석하기 위해 울주군청을 방문했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 울주군에서 지난 18일 30대 아버지와 4남매가 숨진 채 발견된 사건과 관련해 경찰 부검 결과 일산화탄소 중독 이외의 다른 사인은 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;울산 울주경찰서는 20일 오전 아빠 A(34)씨와 자녀 4명(7세, 5세, 3세, 생후 5개월)에 대한 시신 부검 결과 “일산화탄소 중독으로 인한 사망으로 추정된다”는 소견이 나왔다고 밝혔다.&lt;br&gt;&lt;br&gt;이는 앞서 진행된 검안 소견과 일치하는 결과로, 외상이나 약물의 흔적은 발견되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이날 A씨의 누나, 장모 등 유가족을 불러 진술 조사도 진행했다.&lt;br&gt;&lt;br&gt;유족들의 진술에 따르면 A씨는 평소 가족과 자주 왕래하지 않고 네 아이와 고립된 환경에서 생활하며 경제적으로 어려움을 겪었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;처가와 본가 식구들 모두 타지역에 거주하는 상황에서 A씨는 가끔 돈을 빌려달라는 요청 외에는 가족 연락에 좀처럼 응하지 않았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;실제로 A씨는 사망 당시 100여만원의 건강보험료가 밀려 있었고, 두 달 치 월세를 내지 못할 정도로 생활고를 겪었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 휴대전화 디지털 포렌식을 통해 정확한 사망 경위를 파악한 뒤, 사건을 ‘공소권 없음’으로 종결할 예정이다.&lt;br&gt;&lt;br&gt;한편 이날 정은경 보건복지부 장관은 울주군청을 찾아 관계 공무원들에게 사건 경위를 듣고 “지방자치단체 공무원이 위기 국민에 대해 기초생활보장 직권 신청을 할 수 있도록 조치하겠다”고 약속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 공연 앞두고 오늘부터 교통 통제 시작…“통제 일정 확인하세요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/MWG4KLVZ7BASNBM5VS4RZWKEHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/MWG4KLVZ7BASNBM5VS4RZWKEHI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 08:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKNWHFQFGJN2RJLAKKUHZFSJ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 방탄소년단(BTS)의 컴백 공연을 하루 앞둔 20일 서울 종로구 광화문광장의 한 전광판에 관련 영상이 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 서울 광화문광장에서 그룹 방탄소년단(BTS)의 컴백 공연이 열리는 가운데, 공연 전날인 20일부터 광화문광장 일대 교통 통제에 들어간다.&lt;br&gt;&lt;br&gt;20일 경찰과 서울시에 따르면, 이날 오후 9시부터 무대와 관객석이 들어서는 세종대로를 통제한다. 통제는 공연 다음 날인 22일 오전 6시까지 33시간 동안 이어진다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “객석을 설치하고 철거하기 위해 다른 곳보다 더 오랜 시간 차량 통행을 제한하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;광화문 바로 앞을 지나는 사직로와 율곡로는 공연 당일인 21일 오후 4~11시 사이, 공연장을 가로지르는 새문안로·종로와 광화문지하차도는 같은 날 오후 7~11시 사이 차량 통행을 제한한다. 교통 통제 시간에 맞춰 이 구간을 지나는 총 86개 노선 버스 역시 우회 운행한다.&lt;br&gt;&lt;br&gt;공연을 전후로는 광화문광장 인근 지하철역에 열차가 다니지 않는다. 5호선 광화문역은 21일 오후 2시부터 10시까지, 1·2호선 시청역과 3호선 경복궁역은 같은 날 오후 3시부터 10시까지 열차가 서지 않는다. 지하철역에 사람들이 몰릴 것을 대비해 출입구도 모두 폐쇄한다. 대신 공연이 끝난 후부터 막차 시간까지는 임시 열차를 투입해 운행 횟수를 늘리기로 했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “광화문광장에 오기 전 서울시 홈페이지나 네이버 지도, 카카오맵 앱 등으로 교통 통제 일정과 현황을 확인해 주길 바란다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 공연과 겹친 결혼식… 경찰, 버스 동원해 하객 수송</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/ZGVENUFLFVCTXBZ7WOTD75ZDJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/ZGVENUFLFVCTXBZ7WOTD75ZDJA/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 08:55:28 +0000</pubDate>
-      <content:encoded>BTS의 광화문 공연이 열리는 21일 경찰이 인근 결혼식장의 하객 수송을 돕기로 했다. 인근 지하철역에 지하철이 서지 않고, 시내버스는 우회하는 등 사실상 교통이 차단돼 하객들의 통행이 어려워진 것을 고려해서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R76OOLZF55LI7GXKF4J3DLVV5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BTS 컴백 공연을 하루 앞둔 20일 서울 종로구 광화문광장에 안전 펜스가 설치돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청은 이날 오후 3~4시에 을지로3가역부터 결혼식이 열리는 한국프레스센터까지 경찰 버스를 투입해 하객을 수송할 계획이다. 이날 오후 8시부터 열리는 공연을 앞두고 광화문·시청·경복궁역은 물론, 을지로입구역이나 안국역도 인파 상황에 따라 무정차 통과 가능성이 있기 때문이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “당초 을지로입구역에서 시청역까지 이어진 지하도를 통해 걸어오도록 안내하고 있었지만, 을지로입구역까지 무정차 통과가 시행될 경우 하객들이 을지로3가역부터 1㎞ 이상을 걸어야 하는 상황”이라며 “불편을 호소하는 민원을 접수한 후 지원 방안을 마련했다”고 했다. 구체적인 버스 운용 방식은 현재 조율 중이다. &lt;br&gt;&lt;br&gt;이날 광화문과 경복궁 일대에 모일 것으로 예상되는 관람객은 17만~26만명 수준이다. 문화체육관광부는 이에 첫 ‘공연 재난경보’를 발령했다. 이번 경보는 ‘재난 및 안전관리 기본법’에 의거한 것으로, 공연장 재난을 대상으로 위기 경보가 발령된 것은 이번이 최초다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강기정 광주시장 전남·광주통합특별시장 선거 예비후보 등록</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/OEFGC652M5BDNPJCHR24NF5XG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/OEFGC652M5BDNPJCHR24NF5XG4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 08:56:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52NSYNWFAVCTPAFKMKIKH2J2OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정 광주광역시장이 20일 광주시선거관리위원회에서 전남·광주특별시장 예비후보로 등록하고 있다. /강기정 후보&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강기정 광주광역시장이 6월 3일 전국동시지방선거 전남·광주특별시장 예비후보로 등록하고 본격적인 선거전에 나선다.&lt;br&gt;&lt;br&gt;강 시장은 20일 오후 4시 공식 일정을 마친 뒤 광주시선거관리위원회를 찾아 예비후보 등록 절차를 마쳤다. 예비후보 등록과 함께 강 시장의 직무는 정지됐다.&lt;br&gt;&lt;br&gt;강 시장은 “앞으로 4년이 광주·전남의 미래를 결정할 중요한 시기”라며 “중앙과 지역을 아우르는 실전 경험으로 갈등을 돌파하고 ‘인(In) 광주, 인(In) 전남’ 시대를 열겠다”고 지지를 호소했다.&lt;br&gt;&lt;br&gt;강 시장은 지난 17일 광주시의회에서 더불어민주당 전남·광주특별시장 경선 후보 자격으로 나서 행정 통합 이후 광주·전남 시민들의 삶의 수준을 서울 수준으로 높이는 ‘특별시민수당 도입’을 공약으로 내걸었다.&lt;br&gt;&lt;br&gt;강 시장은 “당심이 곧 민심이며, 민심이 곧 당심이라고 생각한다”며 “한결같이 성원해 주시는 시도민과 당원들을 믿고, 더욱 열심히 뛰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/52NSYNWFAVCTPAFKMKIKH2J2OA.jpg?auth=ce94664663d228912afe9b6dd033922fd0d0d5e2aecfa21f5f9925c4c7abaca5&amp;smart=true&amp;width=1454&amp;height=972" type="image/jpeg" height="972" width="1454">
-        <media:description type="plain">강기정 광주광역시장이 20일 광주시선거관리위원회에서 전남·광주특별시장 예비후보로 등록하고 있다. /강기정 후보</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>코로나 백신 피해자協 “부작용 보상 충분했다는 文 정부 주장 비열”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/03/20/LE3RAEMYWJFRJCKKEOILQWBF2Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/20/LE3RAEMYWJFRJCKKEOILQWBF2Q/</guid>
@@ -884,70 +978,6 @@
       <description/>
       <pubDate>Fri, 20 Mar 2026 09:09:59 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BO3AQ342H5KL7GWKDI2BCTXR5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 9월 코로나19 백신 피해자 가족협의회 회원들이 서울 여의도 국회 앞에서 손팻말을 들고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 고위 인사들의 정책 포럼인 ‘사의재’가 최근 “(우리나라의) 코로나 백신 보상은 다른 국가에 비해 월등히 높은 수준이었다”고 한 것과 관련, 백신 피해자 단체가 “사실과 다르다”며 정면 반박했다. 피해자 단체는 사의재의 입장 표명에 대해 “부적절하고 비열한 정치 행위”라고도 했다.&lt;br&gt;&lt;br&gt;코로나19 백신 피해자 가족 협의회는 20일 입장문을 내고 “사의재의 입장문은 문재인 정부의 코로나19 백신 정책에 대한 비판을 차단하기 위한 정치적 방어 문서”라며 “백신 피해자들의 고통을 정쟁의 도구로 이용하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;충돌의 발단은 송영길 전 민주당 대표의 최근 인터뷰다. 송 전 대표는 지난 14일 한 언론 인터뷰에서 “문재인 정부 때 국가 말을 믿고 백신을 맞았는데 지금 2500명이 사망했다”며 “그런데 인과관계가 인정돼 보상받은 사람이 25명에 불과하다”고 했다. 그러면서 “국가가 사기를 친 것이다. 문재인 대통령도 책임을 져야 한다”고 했다.&lt;br&gt;&lt;br&gt;사의재는 강하게 반발했다. 지난 16일 입장문을 내고 “당시 집권 여당의 대표였고, 현재도 유력한 정치인인 사람으로서, 사실관계에 부합하지 않는 부적절한 발언”이라며 송 전 대표를 비판했다.&lt;br&gt;&lt;br&gt;사의재는 “코로나 백신 접종 후 이상 반응으로 인한 보상 신청 건수는 2022년 8월까지 접종 10만건당 66.8건, 보상 인정 결정 건수도 (접종 10만건당) 15.9건으로 다른 국가들에 비해 월등히 높은 수준이었다”고 했다. 이어 “보상 신청 대비 인정률도 24%로 핀란드를 제외하고는 주요 국가들 중에서 가장 높은 수준이었다”고 했다. 사의재는 “팬데믹 당시 중증 이상 반응에 대해서는 인과성이 부족해도 의료비를 지원하고, 피해 보상 범위를 중증에서 경증으로 확대하는 등 피해 보상 수준을 강화하는 노력을 경주했다”고 했다.&lt;br&gt;&lt;br&gt;하지만 코로나19 백신 피해자 가족 협의회는 20일 입장문을 내고 사의재의 주장을 다시 반박했다. 협의회는 신청 건수가 많았다는 것은 그만큼 많은 국민이 피해를 호소했다는 뜻이지, 보상이 충분했다는 뜻이 아니다“라며 ”인정률이 24%로 높다는 것은 전체 보상의 질적 내용을 은폐한다“고 했다. 인과성을 인정받은 사망은 작년 9월 기준 보상 신청 2387건 중 25건에 불과하다”는 것이다. 협의회는 “(사망 신청 중) 1327명은 정식 보상이 아닌 ‘위로금’ 지급을 받았을 뿐이고, 1226명은 아예 (심의에서) ‘기각’ 판정을 받았다”고 했다.&lt;br&gt;&lt;br&gt;협의회는 정부가 피해 보상 수준을 강화했다는 주장에 대해선 “그런 노력이 충분했다면 피해자와 유족들이 5년여에 걸쳐 지속적으로 제도 개선을 요구하지 않았을 것”이라고 했다. 협의회는 “사의재가 백신 피해에 대한 정당한 문제제기를 ‘위험한 발언’으로 낙인찍어 공론화를 차단하려 하고 있다”며 “피해자와 가족들의 고통을 외면한 채 검증되지 않은 통계 수치로 지난 정부 정책의 정당성만을 부여하려 하고 있다”고 했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘옵티머스 사기’ 주범 추징금 4억5000만원 추가 환수</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/20/DZHHI3QAQZHRLGS5MK2DERJRBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/DZHHI3QAQZHRLGS5MK2DERJRBY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 08:28:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMWNCP6KJDSP3N333VX6VTXDWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 옵티머스자산운용 사무실/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 20일 옵티머스 펀드 사기 등 사건 주범인 김재현 전 옵티머스자산운용 대표에 대한 추징금 751억7000만원 중 4억5000만원을 추가로 환수했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 김 전 대표 배우자 A씨 명의의 서울 청담동 아파트 전세보증금 9억4000만원을 추징보전하는 방법 등을 거쳐 국세 등을 제외한 금액을 환수했다고 설명했다. 환수금은 범죄피해재산으로서 관련 법령에 따라 피해자들에게 환부될 예정이다.&lt;br&gt;&lt;br&gt;이로써 검찰이 김 전 대표를 상대로 환수한 추징금은 총 193억8000만원이 됐다.&lt;br&gt;&lt;br&gt;옵티머스 사태는 옵티머스자산운용이 ‘공공기관 매출채권’에 투자하는 안전한 펀드라고 속여 2018년 4월부터 2020년 6월까지 3200명에게서 투자금 1조3000억원을 모은 사건이다. 옵티머스자산운용은 모은 투자금을 부실기업 채권이나 부동산 개발 등에 넣었지만 대규모 손실이 발생했다.&lt;br&gt;&lt;br&gt;이 사건으로 구속 기소된 김 전 대표는 2022년 7월 징역 40년에 벌금 5억원과 추징금 751억700만원이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘SM 시세조종 의혹’ 카카오 김범수 항소심 첫 재판서 혐의 부인</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/20/RJO2K4EKIRCY7BP7XBN6LSBBXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/RJO2K4EKIRCY7BP7XBN6LSBBXU/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 08:12:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDIZRQGFRDOYTGMM4TOM3FGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카카오 창업자 김범수 경영쇄신위원장이 지난해 10월 21일 서울 양천구 서울남부지방법원에서 열린 자본시장법 위반 1심 선고 공판에서 무죄를 선고받은 후 심경을 밝히고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SM엔터테인먼트(SM) 인수 과정에서 주가를 조작한 혐의로 재판에 넘겨져 1심에서 무죄를 선고받은 김범수 카카오 창업자의 항소심 재판이 시작됐다. 김 창업자는 첫 재판에서 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;서울고법 형사4-1부(재판장 김인겸)는 20일 자본시장법 위반 혐의를 받는 김 창업자 등에 대한 항소심 첫 공판준비기일을 진행했다. &lt;br&gt;&lt;br&gt;김 창업자 측은 이날 재판에서 시세조종 목적이 없었다고 혐의를 부인했다. 김 창업자 측 변호인은 “공개매수 저지를 목적으로 주식을 매수하자는 말이 없었다”며 “공개매수 저지 논의가 안 될 정도로 실패를 예상했고, 실패로 끝나면 더욱 경쟁적 상황이라 발판매수 형식으로 장내매수했다는 게 핵심”이라고 강조했다.&lt;br&gt;&lt;br&gt;반면 검찰 측은 “‘공개매수 저지’라는 표현을 피고인들, 경영진들, 배재현 전 카카오 투자총괄대표의 지휘를 받아 카카오 투자 관련을 하는 직원들 모두 사용했다”고 반박했다. 그러면서 “1300억원 공개 매수 저지의 함의는 시세조종과 같은 것으로 볼 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 오는 5월 8일 오후 2시 한 차례 더 공판준비기일을 열기로 했다.&lt;br&gt;&lt;br&gt;검찰은 지난 2024년 8월 김 창업자를 자본시장법 위반 혐의로 구속 기소했다. 김 창업자 등은 2023년 2월 SM 인수 과정에서 경쟁 상대인 하이브의 공개매수를 방해하기 위해 SM 주가를 하이브의 공개매수가인 12만원보다 높게 고정시키려고 시세를 조종한 혐의를 받는다. 김 창업자 등은 카카오와 카카오엔터 명의로 190차례에 걸쳐 SM 주식 1300억원어치를 사들였다.&lt;br&gt;&lt;br&gt;1심 재판부는 김 창업자 등 피고인들에게 무죄를 선고했다. 당시 재판부는 카카오의 주식 매매 양태가 시세 조종에 해당하지 않는다고 판단했다. 또 카카오에서 SM 경영권 인수를 고려하고 있었던 것은 맞지만 반드시 이를 인수해야 할 만한 상황이라고 단정하기 어렵다고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 3월 21일 토요일 (음력 2월 3일 甲午)</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/M4BBUO4H6BAIVE6PWQU4S5EEOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/M4BBUO4H6BAIVE6PWQU4S5EEOQ/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>10년 만의 현직 부장판사 영장심사 앞두고 공수처와 판사 측 장외 공방</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/20/IBHV2R3C2RBIRI6MXTZEETOB3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/IBHV2R3C2RBIRI6MXTZEETOB3Y/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 07:23:02 +0000</pubDate>
-      <content:encoded>변호사에게 금품을 받은 혐의로 구속영장이 청구된 현직 부장판사 측이 20일 고위공직자범죄수사처(공수처)를 향해 “증거를 왜곡해 무리하게 구성한 혐의사실로 구속영장을 청구한 것에 대해 깊은 유감을 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러자 공수처는 “피의자 측에서 주장하는 ‘탈법적 수사’ 또는 ‘증거 왜곡’과 같은 내용은 혐의와 관련된 것이 아닌 수사 정당성을 문제 삼은 것으로 사건의 본질을 흐리는 주장”이라고 맞받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYTMMBYGQ4DONDDGQ2WKNLGGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특정범죄 가중처벌 등에 관한 법률 위반(뇌물수수) 혐의를 받는 김모 부장판사는 이날 변호인을 통해 “공수처가 그동안 무리하고 탈법적인 수사를 진행했다”며 “앞으로 있을 영장실질심사 과정에 성실히 임해 재판부에 필요한 사항들을 소상히 설명하겠다”는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;이에 대해 공수처는 언론 공지문에서 “이번 수사는 법과 절차에 따라 적법하게 진행됐음을 분명히 밝힌다”고 반박했다. 그러면서 “공수처가 확보한 증거와 관련 자료는 법원에서 여러 차례에 걸쳐 발부받은 영장에 근거해 객관적이고 합법적인 방법으로 수집된 것”이라며 “특히 구속영장 청구는 단순한 의혹 제기가 아니라 충분한 증거에 기초해 범죄 혐의 소명, 사안의 중대성 등을 종합적으로 고려해 이루어진 것”이라고 했다.&lt;br&gt;&lt;br&gt;공수처는 또 “향후 구속 전 피의자 심문 과정에서 관련 증거와 법리를 충실히 설명할 예정이며 법원의 판단을 통해 그 타당성이 확인될 것으로 기대한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;지난 18일 공수처 수사2부(부장 김수환)는 김 부장판사에 대해 뇌물수수 혐의로, 금품을 제공했다고 지목된 정모 변호사에 대해서는 뇌물공여 혐의를 적용해 각각 구속영장을 청구했다. 현직 판사가 직무와 관련해 금품을 받은 혐의로 구속영장이 청구된 것은 2016년 불거졌던 ‘정운호 게이트’에 연루됐던 김수천 전 부장판사 이후 10년 만이다.&lt;br&gt;&lt;br&gt;한편 김 부장판사와 정 변호사에 대한 구속 전 피의자 심문(영장실질심사)은 오는 23일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 컴백 공연 앞두고…경찰, 美 공항 폭파 협박범 검거</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/17/WXKZVLUI6VHANHDK4MSVUPPC3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/17/WXKZVLUI6VHANHDK4MSVUPPC3I/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Mar 2026 01:07:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJCVNKJJIRBOJCYJSXDY3FFVBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미 디트로이트 공항 전경. /미 디트로이트 공항 공식 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 21일 방탄소년단(BTS) 컴백 공연을 앞두고, 지난해 미국 공항 홈페이지 게시판에 폭파 협박 글을 게시한 20대 한국인 남성이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사과는 지난 1월 미 국토안보수사국(HSI)으로부터 수사 협조 요청을 받아 지난해 3월 20일 미 디트로이트 공항 홈페이지 게시판에 영문으로 폭파 협박 글을 게시한 A씨를 공중협박 혐의로 17일 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “불특정 다수를 상대로 한 폭파 협박, 흉기 난동 예고 등 시민의 안전을 위협하는 범죄에 대해 신속하고 엄정한 수사를 통해 적극적으로 검거 활동을 전개하고 있다”며 “앞으로도 국내외를 불문하고 국제공조 등 국경을 넘는 수사를 통해 작성자를 끝까지 추적해 검거할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 또 “특히 오는 21일 BTS 컴백 공연을 앞두고 있는 만큼, 대규모 공연이나 행사와 관련된 협박성 게시글에 대해서는 단순 장난이라 하더라도 구속수사를 포함한 강력한 조치로 엄정 대응할 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“반차 내라더라” BTS 공연 불똥... 직장인들 ‘연차 강요’ 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/18/JXCNPKLQ5BF37AW35OLH23CSCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/18/JXCNPKLQ5BF37AW35OLH23CSCI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 05:54:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YTQZTEGI4GGZLEGY2WKMRVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문광장 주변 건물에 BTS 컴백 관련 광고가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방탄소년단(BTS) 공연을 앞두고 일부 기업에서 직원들에게 연차 사용을 사실상 강제했다는 제보가 잇따르면서 노동법 위반 논란이 제기되고 있다.&lt;br&gt;&lt;br&gt;18일 직장갑질119에 따르면 “공연으로 회사 문을 닫는다며 금요일 오후 전 직원 반차 사용을 지시받았다” “공연 당일 출근하지 말라는 통보를 받았다”는 등의 상담이 최근 잇따라 접수됐다.&lt;br&gt;&lt;br&gt;현행 근로기준법상 연차휴가 사용 시기는 노동자가 정하는 것이 원칙이다. 사업 운영에 중대한 차질이 있는 경우에만 사용 시기를 변경할 수 있다. 이 때문에 회사가 특정 날짜에 연차 사용을 일괄적으로 요구하는 방식은 법 취지에 맞지 않으며 위법 소지가 크다는 지적이 나온다.&lt;br&gt;&lt;br&gt;직장갑질119는 “연차 사용 의사가 없다는 점을 분명히 밝힌 뒤 근무를 어떻게 해야 하는지 지시를 명확히 해달라고 요청해야 한다”며 “회사가 특정 일자 연차 사용을 강요한다면 관할 노동청에 진정을 제기할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;공연 당일 영업 중단이나 건물 통제 등을 이유로 근무를 하지 못하게 되는 사례도 적지 않은 것으로 전해졌다. 이와 관련해 단체는 “회사의 사정으로 노동자가 일을 하지 못하게 된 경우라면 원칙적으로 휴업 수당을 받을 수 있다”고 설명했다. 이어 “주말 공연으로 인한 혼잡이나 안전 문제 등을 이유로 영업을 중단했다면, 이는 사용자의 경영상 판단에 따른 휴업으로 보고 수당을 지급해야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김자연 노무사는 “BTS 컴백으로 전 세계가 축제 분위기지만, 그로 인해 노동자들에게 연차와 휴업을 강요하는 등 법 위반이 공공연하게 이뤄진다면 축제의 의미는 퇴색될 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “특히 대규모 행사로 인해 발생하는 사회적 비용이 일터 약자들에게 더 집중되고 있다”며 “노동법 사각지대에 놓인 5인 미만 사업장과 프리랜서·특고·플랫폼 노동자는 휴업 수당 청구조차 어렵다. 노동자들의 쉴 권리에 대한 두터운 보장이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;BTS 컴백 공연은 오는 21일 광화문 광장과 세종대로 일대에서 열린다. 경찰은 공연 당일 약 26만명의 인파가 몰릴 것으로 보고 안전관리를 위해 6500여명의 경찰력을 투입할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국 최대 산수유 군락지 의성군에서 21일부터 ‘산수유 축제’</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/20/LCCWZVRF5ZAZJO45FIXXLDGPSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/20/LCCWZVRF5ZAZJO45FIXXLDGPSA/</guid>
-      <dc:creator>의성=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 07:21:09 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFJNWDSACBAZ3NFLQC2ZWYMGTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이달 21일부터 29일까지 경북 의성군 화전 2,3리에서 열리는 의성 산수유마을 꽃맞이행사의 대표 캐릭터 '육쪽이'/의성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최대 산수유 군락지인 경북 의성군 화전 2·3리 일대에서 21~29일 ‘제19회 산수유 마을 꽃맞이 행사’가 열린다. 올해는 ‘봄은 짧고 의성은 노랗다’를 주제로 만개하는 산수유꽃을 보고 마늘을 비롯한 의성군의 농특산품을 구매할 수 있다.&lt;br&gt;&lt;br&gt;이번 축제에선 의성의 대표 작물인 마늘을 소재로 제작된 축제 대표 인형인 ‘육쪽이’가 산책로 곳곳에 배치된다. 육쪽이 인형 5개를 찾아 사진을 찍어 종합 안내소에 제출하면 경품을 받을 수 있다. &lt;br&gt;&lt;br&gt;이 밖에도 산수유무대에선 가수 에녹, 린이 출연해 공연을 가지며, 지역 음악 밴드들의 버스킹 공연을 축제 기간 내내 볼 수 있다. 산수유광장에선 먹거리 장터가 열리고 소공원에선 산수유 포토존과 성인 문해 작품이 전시돼 있으며, 숲실마을무대에선 산수유전시관을 관람할 수 있다. 오카리나 만들기, 키링 만들기 등 체험 프로그램도 준비돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBANLU234NJGD3ZLFV3VPJGGMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 의성군 단밀면의 박서생과 통신사공원에 위치한 유람선 율정호/의성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의성군은 또 이번 축제를 맞아 20일부터 단밀면 생송리의 낙단보 인근에 위치한 박서생과 청년통신사 공원에서 목재 유람선인 ‘율정호’ 운항을 시작했다. 이 공원은 과거 조선조 문신이었던 의성 비안 출신 박서생이 통신사로서 배를 타고 일본에 다녀온 기록을 토대로 조성됐다. 율정호는 월요일을 제외한 매일 오전 10시부터 오후 5시까지 하루 6회 운항하며 11월 중순까지 운영된다. 이용 요금은 원래 대인 1만원, 소인 7000원이지만 산수유 축제 기간에는 반값 할인이 적용된다. &lt;br&gt;&lt;br&gt;김주수 의성군수는 “봄의 시작을 알리는 산수유꽃은 우리 지역의 소중한 관광자원”이라며 “아름다운 산수유꽃과 함께 봄을 맞이하시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>문체부, BTS 공연 앞두고 ‘재난 위기경보’ 발령...사상 첫 사례</title>
@@ -966,33 +996,6 @@
       <description/>
       <pubDate>Fri, 20 Mar 2026 07:19:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLKW7OV4QRGUPINERT4BJWBTL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;먹방 유튜버 쯔양. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먹방 유튜버 쯔양(29·본명 박정원)이 음식을 ‘먹토’(먹고 토하는 행위) 했다는 허위 사실을 다른 유튜버에게 제보한 대학 동창이 약식 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 서울중앙지검 형사3부는 지난달 2일 오모씨를 정보통신망법상 명예훼손 혐의로 벌금 700만원에 약식 기소했다. 약식 기소는 벌금이나 몰수 등 재산형을 선고할 수 있는 사건이라고 판단해 법원에 청구하면 재판 없이 형을 내릴 수 있는 절차다.&lt;br&gt;&lt;br&gt;쯔양의 대학 동창인 오씨는 2020년 11월 유튜버 주작감별사(본명 전국진)에게 ‘쯔양이 대왕 파스타 먹방을 하고 온 날 토한 흔적을 목격했다’는 취지의 허위 사실을 제보한 혐의를 받는다. 이 내용은 2024년 7월 유튜브 방송에서 공개됐다.&lt;br&gt;&lt;br&gt;쯔양의 소속사는 서울 혜화경찰서에 오씨를 고발했고, 검찰은 2024년 12월 사건을 넘겨받아 보완 수사를 벌여왔다. 앞서 주작감별사는 쯔양에게 사생활을 폭로하겠다고 협박해 수천만원을 뜯어낸 혐의로 징역 1년에 집행유예 3년을 선고받았다.&lt;br&gt;&lt;br&gt;오씨는 사실을 말했을 뿐이라며 혐의를 부인한 것으로 알려졌다. 그러나 검찰은 오씨가 쯔양을 만난 날은 대왕 파스타 먹방이 방영된 날일 뿐 촬영한 날이 아닌 점, 동석한 참고인들이 다른 진술을 한 점 등을 고려해 오씨 혐의가 인정된다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전 자동차 부품공장 화재… 소방 ‘국가소방동원령’ 발령</title>
-      <link>https://www.chosun.com/national/incident/2026/03/20/74EJ2XNO4ZAJJJ3P5BTXKT23AE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/20/74EJ2XNO4ZAJJJ3P5BTXKT23AE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 05:36:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36UMLUOZCRMNDJP3ABYEDX3UFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 1시 17분쯤 대전 대덕구 문평동 한 자동차부품 제조 공장에서 불이 났다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 자동차 부품 제조 공장에서 불이 나 소방당국이 국가소방동원령을 발령하고 진화에 나섰다.&lt;br&gt;&lt;br&gt;20일 오후 1시 17분쯤 대전 대덕구 문평동의 한 자동차 부품 제조 공장에서 화재가 발생했다. 불이 나자 소방당국은 장비 46대와 인력 115명을 투입해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;소방당국은 화재 발생 약 10여 분 뒤인 오후 1시 31분 대응 2단계를 발령했다. 이어 화재 규모가 크고 확산 우려가 있다고 판단해 국가소방동원령을 발령한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현재까지 25명이 부상을 입은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;소방당국은 인명 구조와 함께 추가 피해 여부를 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “명태균 교활한 말 향연 될 것” 명태균 “거짓 없기 때문에 특검서 살아나”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/20/K3IJ2AT4BNCH5PST27GS6OHXCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/20/K3IJ2AT4BNCH5PST27GS6OHXCA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 02:26:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECQXHM7OCJKP3PWYNPVX4IMWCI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 20일 자신의 ‘여론조사 비용 대납’ 의혹 재판에서 ‘키맨’인 명태균씨와 대면했다. 오 시장은 재판을 앞두고 “교활한 말의 향연이 될 것”이라며 “명태균은 사기 범죄 집단의 모집책”이라고 강하게 비판했다. 반면 명씨는 “제가 검찰과 특검 조사에서 살아남은 것은 거짓이 없기 때문”이라며 맞섰다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 9시 46분쯤 서울중앙지법에 출석하며 기자들과 만나 “강혜경의 증언에 의하면 이 사람들(명태균·강혜경 등)은 사기 범죄 집단”이라고 했다. 재판 시작 직전 페이스북에 올린 글에선 “민중기 특별검사는 이 사기 범죄자들에게는 눈을 감고, 오히려 피해자(인 저)를 기소하여 선거기간에 재판기간을 일치시켰다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7M2KIW3CBP4NEXENNBORN6MAU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;명태균씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 명씨는 오 시장에 앞서 법원에 출석하며 기자들에게 “제가 검찰과 특검 조사에서 살아남은 것은, 제 말에 거짓이 없기 때문 아니겠느냐”고 했다. 그러면서 “나라를 위해서 세상을 위해서 자기가 당선되면 열심히 하겠다고 해서 도와드린 것일 뿐”이라며 “그런 마음으로 오 시장을 도왔다”고 말했다. 이어 “오 시장은 처음 만난 날 ‘저는 사람을 믿지 않습니다’라면서도 ‘제 멘토가 돼 주십시오’라고 했다”며 “사람을 믿지 못하는 사람이 어떻게 정치를 하느냐”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 이날 오 시장과 강철원 전 서울시 정무부시장, 사업가 김한정씨의 정치자금법 위반 혐의 재판을 진행한다. 명씨는 이날 법정에 증인으로 나왔다. 두 사람의 법정 대면은 이날이 처음이다. 작년 11월 민중기 특검팀의 대질 조사 이후 5개월 여만에 만난 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 공연 당일 맑고 온화한 날씨...일교차는 15~20도로 커</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/20/IH7DN6QGIBCIRDI36G4A5F2HJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/20/IH7DN6QGIBCIRDI36G4A5F2HJE/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Mar 2026 01:26:39 +0000</pubDate>
-      <content:encoded>주말 동안 아침은 쌀쌀하고 낮에는 포근한, 일교차 큰 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 당분간 아침 기온은 평년과 비슷하거나 조금 낮고, 낮 기온은 평년과 비슷하거나 다소 높겠다. 특히 내륙을 중심으로 낮과 밤의 기온 차가 15~20도까지 벌어질 전망이라 건강 관리에 주의가 필요하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMQU374S45AFLO4H3QPMCAU2YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 21일 방탄소년단(BTS)의 광화문 컴백 공연을 앞두고 서울광장에 튤립등 봄꽃을 심었다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 광화문에서 BTS 공연이 열리는 21일은 아침 최저기온이 영하 4도~영상 7도, 낮 최고기온은 영상 12~18도로 예상된다. 이날 전국에 대체로 맑고 온화한 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;일요일인 22일은 아침 최저 영하 1도~영상 8도, 낮 최고 13~18도로 전날과 비슷한 기온이 나타나겠다. 오후부터 전국 곳곳에 구름이 많아지겠고, 남부 지방은 대체로 흐리겠다. 제주도는 이날 오후부터 저녁 사이 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;다음 주 초부터는 기온이 점차 오르며 봄 날씨가 이어지겠다. 23일 아침 최저기온은 0~9도, 낮 최고기온은 12~20도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
