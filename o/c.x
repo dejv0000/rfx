@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>쌍방울 수사 검사 “조작기소 국정조사, 檢 조직 차원 대응해달라”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/ZO6OTNPN2RCUNOUZZUCUKKPNHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/ZO6OTNPN2RCUNOUZZUCUKKPNHM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 09:35:08 +0000</pubDate>
+      <content:encoded>‘윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사’ 계획서가 국회를 통과하자 쌍방울 대북 송금 사건을 수사했던 박상용 인천지검 부부장 검사가 “조직 차원에서 대응해달라”고 요구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2TEOBZGVRGCNBZMNRWCNTFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영(왼쪽) 전 경기도 평화부지사와 대북 송금 사건을 수사했던 박상용 검사./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 부부장검사는 지난 19일 정성호 법무부 장관과 구자현 검찰총장 직무대행에게 이 같은 내용을 담아 검찰 내부망으로 쪽지를 보냈다. 박 부부장검사는 “누구보다 잘 아시겠지만 이번 국정조사는 ‘피고인 이재명에 대한 공소취소의 근거’를 만들기 위해 ‘계속 중인 재판 및 수사 중인 사건의 소추에 관여할 목적’을 위해 이루어지는 것으로서 그 불법성이 명백하다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “향후 국회에서 출석요구서가 왔을 때 출석해야 하는지, 이번 일에 대응할 (검찰 내) 특별조직을 언제, 어느 정도 규모로 만들 것인지를 밝혀달라”고 했다. 또 “두 질문 내지 요청에 답을 못하겠다면 그 이유라도 밝혀달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;박 부부장검사는 “만약 불법 국정조사에 검사들이 출석해 조사에 응하는 일이 실제로 이뤄진다면 앞으로 검사들은 어느 누구도 소위 정치적 사건에 대해서는 독립적으로 자신의 직업적 양심에 부합된 판단을 하기가 어렵게 된다”며 “설사 올바른 판단을 하더라도 정치적 고려에 의한 정치적 판단이라는 오해를 불식시킬 수 없게 된다”고 했다. 그러면서 “이러한 이유로 검찰은 검사들이 이번 국정조사에 출석해 조사에 응하는 것을 개개인의 결단에 맡길 수도 없고, 맡겨서도 안 된다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이후 정 장관과 구 대행이 아무런 반응이 없자 박 부부장검사는 이튿날인 20일 해당 쪽지 전문을 검찰 내부망인 이프로스에 공개적으로 게시했다.&lt;br&gt;&lt;br&gt;‘지휘부가 아무것도 하고 있지 않다’는 내부 비판도 이어졌다. 공복숙 서울고검 검사는 23일 이프로스에 “어째서 검사 개개인이 개인 비리가 아니라 예전에 수사한 것 때문에 온갖 고초를 겪고 정치권의 부당한 공격에 온전히 혼자 대응할 수밖에 없는 것이냐”며 “정말 답답하다”고 적었다.&lt;br&gt;&lt;br&gt;공 검사는 지휘부가 국정조사에 대해 대응하지 않고 있는 상황에 대해 ‘대응할 생각은 있지만, 뭘 해야 할지 몰라서 못하고 있다’ ‘후폭풍이 두려워 대응할 생각이 없다’ ‘보완수사권이라도 가지려면 어쩔 수 없다’ 등 추측을 열거하기도 했다.&lt;br&gt;&lt;br&gt;공 검사는 “국민을 위해서라도 검찰 보완수사는 반드시 필요하다고 생각하지만 그것 때문에 검찰 구성원들을 희생시키고 조직적으로 진실을 왜곡하는 걸 두고보아야 하는 것인지는 정말 의문”이라고 했다.&lt;br&gt;&lt;br&gt;국정조사 계획서는 지난 22일 더불어민주당 주도로 국회 본회의를 통과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위, 북한군 포로 송환 권고 재상정… 외교부 공문에 내부 이견</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/23/U6SBOAVUIBFHZIEIQHCBPPRIDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/U6SBOAVUIBFHZIEIQHCBPPRIDY/</guid>
+      <dc:creator>구아모 기자, 한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 09:45:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LE6NGQRDLZJXFODNVJS4W4XUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 안창호 국가인권위원장이 23일 서울 중구 국가인권위원회에서 우크라이나에 억류된 북한군 포로의 생명·신체 및 정신건강 보호와 대한민국 입국을 위한 인도적 조치 권고의 건 등을 검토하는 제6차 전원위원회를 주재하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 러시아·우크라이나 전쟁에 동원됐다가 지난해 1월 우크라이나군에 생포된 북한군 포로 2명에 대한 ‘대한민국 송환 권고안’에 대해 결론을 내리지 못하고 오는 13일 전원위원회에서 재논의하기로 했다. &lt;br&gt;&lt;br&gt;전원위에 앞서 외교부가 지난 11일 ‘북한군 포로들이 한국행을 희망한다면 전원 수용할 것이고 현재 최선의 조치를 하고 있다’며 ‘인권위가 앞서 나갈 경우 외교적 잡음이 발생할 수 있다’는 취지의 공문을 보내면서, 위원들 사이에서 권고 필요성과 방식 등을 둘러싼 이견이 드러났기 때문이다.&lt;br&gt;&lt;br&gt;인권위는 이날 안창호 위원장 주재로 제6차 전원위원회를 열고 ‘우크라이나 북한군 포로의 생명·신체 및 정신 건강 보호와 대한민국 입국을 위한 인도적 조치 권고의 건’을 심의했으나 의결에 이르지 못했다. 이에 따라 해당 안건은 오는 13일 전원위에 재상정돼 다시 논의될 예정이다.&lt;br&gt;&lt;br&gt;권고안에는 정부가 제네바 협약 ‘긴급 보호’ 조치의 일환으로 이들의 안전을 신속히 확보해야 하고, 본인의 자유 의사에 따라 대한민국으로 입국할 수 있도록 적극적 조치에 나서야 한다는 내용이 담겼다. 위원 대부분이 ‘포로 보호 필요성’에는 공감했지만, 오히려 인권위 권고가 정부의 협상 과정과 외교 절차에 영향을 줄 점을 두고 의견이 갈렸다. &lt;br&gt;&lt;br&gt;대표 발의자로 나선 이한별 비상임위원은 “러시아·우크라이나 전쟁 북한군 포로들의 인권이 심각하게 위협받고 있으며, 대한민국행을 명확히 희망하고 있다”며 “장기간에 걸친 전쟁 경험으로 인한 정신적 고통으로 여러 차례 자살 시도가 있었다는 정황도 확인됐다”고 설명했다. 이어 “단순 외교 사안이 아닌, 인권의 문제이고 생명의 문제”라며 “대한민국 헌법이 규정하는 국민 보호 의무가 있다”고 강조했다. &lt;br&gt;&lt;br&gt;지난 9일 전원위원회에서 북한군 포로 송환 관련 의견 표명 필요성을 처음 제기했던 오완호 비상임위원은 이날 회의에서는 외교부와의 사전 협의 필요성을 언급했다. 오 위원은 “전원위에 앞서 외교부가 보낸 입장을 보면, 인권위가 앞서 나갈 경우 외교적 잡음이 발생할 수 있다는 우려가 담긴 것으로 보인다”며 “당장은 포로 2명의 안전이 가장 중요한 만큼 절차상 문제가 발생하지 않도록 신중한 접근이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 이 위원은 “전원위에서 논의한 인권 사안과 관련해 정부 기관이 유감이라는 취지의 공문을 보낸 것은 이례적”이라며 “러시아가 해당 포로 2명을 송환 대상자 명단에 포함시킨 상황에서 마냥 기다리기에는 위급성이 크다”고 했다.&lt;br&gt;&lt;br&gt;이어 강정혜 비상임위원은 “(북한으로) 송환될까 봐 두려워 자살 시도도 있었다는데, 지금 상황에서 적극적으로 보호하지 않으면 안 되는 위급한 상황이라고 생각한다”는 입장을 밝혔다. 김학자 상임위원 역시 “우리나라 국민이기 때문에 당연히 보호 조치가 이뤄져야 한다”고 했다. &lt;br&gt;&lt;br&gt;이숙진 상임위원도 “인권위원회가 어떤 형태로든 관심을 표명하고 이들의 진정한 의사를 확인하는 작업이 필요하다”며 “이들의 신변 안전과 건강이 제일 중요한 만큼 정부가 중립적인 국제 인권 기구를 통해 의사를 확인하는 것이 하루빨리 이뤄져야 한다”고 했다. &lt;br&gt;&lt;br&gt;하지만 조숙현 비상임위원은 “공식적인 포로의 입장을 국가기관이 가져가는 것이 오히려 포로의 안전에 위해를 줄 수 있다”며 신중한 접근의 필요성을 강조했다. 이어 김용직 비상임위원도 “급하게 결정해 적극적으로 의견을 표명하는 것보단 전략적 인내로 좀 더 모니터링을 해갈 필요가 있다”며 동의했다. &lt;br&gt;&lt;br&gt;인권위 차원의 권고 필요성과 시기, 방식 등을 둘러싸고 위원들 간 의견이 엇갈리면서 이날 전원위에서는 결론에 이르지 못했고, 해당 안건은 오는 13일 전원위원회에서 다시 논의될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건국대·동국대·한림대·전북대 의대, 평가 ‘불인증’ </title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/23/ZHN574HYFVFLZPJVXYIKREN4XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/23/ZHN574HYFVFLZPJVXYIKREN4XQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 09:45:11 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHEPI6SE6G4APBRS23LVH7RB7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 의과대학의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건국대와 동국대, 한림대 의대가 한국의학교육평가원(의평원)의 의학교육 평가 인증에서 ‘불인증 유예’ 판정을 받았다. 전북대는 ‘불인증 유예’ 잠정 판정을 받고 재심사를 신청했다. 불인증 유예란 유예 기간(1년) 동안은 인증 상태를 유지하지만, 1년 후 재평가에서 불인증 판정을 받으면 신입생 모집이 정지되는 등 불이익을 받는 것을 뜻한다.&lt;br&gt;&lt;br&gt;의평원은 23일 이런 내용의 ‘2025년 2차 연도 의학교육 평가인증 주요변화 계획서 평가 결과’를 공개했다. 의평원은 고등교육법에 따라 의과대학의 교육과정과 교육 환경을 평가·인증한다. 현재 2025학년도 의대 입학 정원이 대규모로 늘어난 30개 대학(차의과대 의학전문대학원 포함)을 대상으로 주요 변화를 평가하고 있다.&lt;br&gt;&lt;br&gt;30개 대학 중 건국대와 동국대, 한림대, 전북대를 제외한 26개 대학은 ‘인증 유지’ 판정을 받았다. 앞서 2025년 1차 연도 평가에서 ‘불인증 유예’였던 울산대와 원광대, 충북대는 재심사를 거쳐 ‘불인증 유예’ 판정이 해제됐다. &lt;br&gt;&lt;br&gt;건국대는 충주병원의 외과, 소아과, 응급의학과 분야 전임교원 확보 노력이 필요하다는 지적을 받았다. 동국대는 기초의학 중 병리학 분야 전임교원 1명이 확보되지 않았고, 경주캠퍼스 임상의학 전임교수 확보 노력이 부족하다는 평가를 받았다. 한림대는 기초의학 중 기생충학 분야 전임교원 1명이 확보되지 않았다. 전북대는 가정의학과 전임교원(1명)과 24·25학번을 수용할 수 있는 강의실이 확보되지 않았다. &lt;br&gt;&lt;br&gt;교육부는 이날 브리핑에서 “불인증 유예를 받은 대학은 재심사 기간 동안 인증상태를 유지하기 때문에 입학한 재학생에게 영향이 없다”며 “의평원과 협력해 의학교육의 질 제고에 힘쓰겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[바로잡습니다] 3월 17일 자 A10면  ‘“효돌이 만나고 외로움을 잊었어" 어르신 일상 바꿔준 ‘AI 효자’’ 기사에서 외</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/23/I6HJTSQAOZAL3I6BYP2R7MYDRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/I6HJTSQAOZAL3I6BYP2R7MYDRE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 09:39:13 +0000</pubDate>
+      <content:encoded>▲3월 17일 자 A10면 ‘“효돌이 만나고 외로움을 잊었어” 어르신 일상 바꿔준 ‘AI 효자’’ 기사에서 ‘화성시 태안’은 ‘화성시 화산동’의 잘못이므로 바로잡습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>영덕 풍력 발전기 이번엔 화재… 작업자 3명 모두 숨졌다</title>
       <link>https://www.chosun.com/national/national_general/2026/03/23/NNWOUTXF3ZCDZKZ5DJFITWITYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/NNWOUTXF3ZCDZKZ5DJFITWITYE/</guid>
@@ -614,37 +650,6 @@
       <content:encoded>일교차 크고 중부지방 초미세먼지 ‘나쁨’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWH5EH73XRFQ3FWC3K7WPMDAN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 셀트리온 공장서 배관 수리 작업 중이던 20대 추락해 숨져 </title>
-      <link>https://www.chosun.com/national/incident/2026/03/22/NLW4PYDRI5EHFKNYA5C45Q6F5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/22/NLW4PYDRI5EHFKNYA5C45Q6F5A/</guid>
-      <dc:creator>김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 13:37:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAMDMAULGIJLBZHH6QUCLF75GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;셀트리온 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 바이오 의약품 제조업체인 셀트리온의 공장에서 작업 중이던 20대 남성이 추락해 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;경찰과 소방 등에 따르면 이날 오전 11시 4분쯤 인천시 연수구 송도동에 있는 셀트리온 공장의 한 건물 2층에서 20대 A씨가 3~5m 아래로 떨어졌다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 발견됐다. 현장에 출동한 119 구급대가 심폐소생술(CPR) 등 응급처치를 하며 병원으로 옮겼으나 A씨는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 1층 천장에 설치된 패널에서 배관 누수 수리 등 작업을 하고 있던 것으로 알려졌다. A씨가 밟고 있던 패널이 깨지면서 아래로 추락한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 A씨의 시신 부검을 의뢰하고, 정확한 사고 원인을 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아무래도 못 나갈 것 같아... 부모님께 사랑한다 전해줘”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/22/XAXESE7FQ5GZDMYEIF66CBITEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/XAXESE7FQ5GZDMYEIF66CBITEA/</guid>
-      <dc:creator>대전=김석모 기자, 대전=조민희 기자, 대전=윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 12:41:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W2Y6XW2JVEYHDCHOOYXSIMFRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 대형 화재로 인명피해가 발생한 대전 대덕구 안전공업 자동차 부품 제조 공장이 처참한 모습을 보이고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 대전시청 1층 로비에 마련된 ‘안전공업 화재 희생자 합동 분향소’. 이번 사고로 숨진 정모(41)씨 유족은 정씨의 마지막 통화 내용이 자꾸 생각난다며 울었다. 정씨는 사고 당시 여자친구에게 전화를 걸어 “지금 눈앞이 새까매. 아무래도 못 나갈 것 같아. 부모님께 사랑한다고 전해줘”라고 말했다고 한다. 그게 생전 마지막 통화가 됐다.&lt;br&gt;&lt;br&gt;삼촌 홍관표(50)씨는 “조카가 살아 있길 기도하며 인근 병원을 다 뒤졌는데 실종자 명단에 있었다”며 “정말 하늘이 무너지는 기분이었다”고 했다.&lt;br&gt;&lt;br&gt;합동 분향소에는 희생자 14명의 위패가 있다. 대부분 30·40대 직원이다. 유가족들은 희생자의 위패를 어루만지며 통곡했다. 곳곳에서 “내 아들이 왜 여기 있어” “내 새끼 살려내” 소리가 들렸다.&lt;br&gt;&lt;br&gt;숨진 안모(46)씨의 동생 안대선(42)씨는 고개를 숙인 채 연신 눈물을 떨궜다. “데면데면하던 형이었지만 눈물이 멈추지 않는다”면서 “어떻게 사람이 이렇게 많이 죽을 수 있는지 모르겠다”고 말했다. 그는 “형님은 옛날 사람처럼 고지식했지만 굉장히 선한 사람이었다”며 “어머니와 누나, 동생을 잘 챙겨주던 장남이었다”고 말했다. 안씨는 2008년부터 이 공장에 다녔다고 한다. 그의 후배는 “형님은 쉬는 날에도 잔업 지시가 있으면 일터로 나갔다”면서 “‘쉬면 뭐 하냐. 너도 열심히 살면서 아내한테 잘해라’라고 했는데… 그 모습이 자꾸 생각난다”고 했다.&lt;br&gt;&lt;br&gt;희생자 14명 중 12명은 시신이 심하게 훼손돼 신원조차 확인하지 못하고 있다. 경찰이 DNA를 분석하고 있다.&lt;br&gt;&lt;br&gt;유가족들은 “하루빨리 신원을 확인해 온전하게 장례를 치르고 싶다”고 했다. 경찰 관계자는 “이르면 23일 희생자 신원을 전부 확인할 수 있을 것 같다”고 했다. 이날 합동분향소에는 손주환 안전공업 대표도 찾아왔다. 그는 위패 앞에 고개를 숙인 뒤 “정말 죄송합니다”라고 말했다. 취재진의 질문에는 답하지 않았다. &lt;br&gt;&lt;br&gt;지난 20일 대전 대덕구의 자동차 부품 제조업체 ‘안전공업’에서 불이 나 14명이 숨지고 60명이 다쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/X5MDZOI53ZCNDDKW4Z4F34KLL4.jpg?auth=1b7ed1f82e33b73898c414310246b71216996194d4cb0482148f64cc6b1ba10e&amp;smart=true&amp;width=4805&amp;height=3474" type="image/jpeg" height="3474" width="4805">
-        <media:description type="plain">22일 오후 대전시청에 마련된 대전 안전공업 화재 희생자 합동분향소에서 유족과 직원들이 분향하며 슬픔에 잠겨 있다. /신현종 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">CHOINWON</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“제가 용서 안 했는데…” 아파트 침입 속옷 절취 피해 여성이 전한 눈물의 절규</title>
-      <link>https://www.chosun.com/national/2026/03/22/OM4LA72XFVG2PDO2WEWXMXD374/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/22/OM4LA72XFVG2PDO2WEWXMXD374/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 07:47:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EZN4JYVPBECXGSLB6KGBEUPHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20대 피해 여성이 사법부의 솜방망이 처벌을 비판하며 참담한 심경을 담은 호소문. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간, 경북 안동의 한 아파트 3층 베란다를 넘어 20대 여성들이 사는 집에 세 차례나 침입해 속옷을 훔친 30대 남성에게 1심 법원이 징역형의 집행유예를 선고했다. 갓 사회에 발을 내디뎠던 20대 피해 여성은 사법부의 솜방망이 처벌과 가해자 중심의 재판 결과를 강하게 비판하며 참담한 심경을 담은 호소문을 공개했다.&lt;br&gt;&lt;br&gt;◇무너진 ‘나이팅게일’의 꿈… 일상이 된 공포&lt;br&gt;&lt;br&gt;피해자 B(29)씨는 2021년 간호사 국가고시에 합격한 후 안동의 한 병원에 첫발을 내디뎠다. 고된 3교대 근무 속에서도 최고의 간호사가 되겠다는 자부심으로 동료 후배와 함께 전세 아파트에서 의지하며 생활하고 있었다.&lt;br&gt;&lt;br&gt;그러나 지난해 5월 27일, 같은 아파트 바로 뒷동에 거주하던 A(38)씨가 새벽 시간 B씨의 집 베란다 창문을 넘어 침입하면서 평범했던 일상은 산산조각 났다. 냄새를 맡는 등 엽기적 행동에 속옷만 골라 훔쳐 달아난 A씨의 범행 이후, B씨는 심각한 트라우마에 시달리며 결국 직장과 삶의 터전을 모두 잃었다. B씨는 “작은 소리에도 잠에서 깨고, 밤마다 침대 밑을 확인해야만 겨우 잠들 수 있다”며 끝없는 공포와 불안을 호소했다.&lt;br&gt;&lt;br&gt;◇“만취라니“… 납득할 수 없는 양형&lt;br&gt;&lt;br&gt;최근 대구지법 안동지원은 스토킹처벌법 위반과 주거침입, 주거수색 등 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고했다. 재판부는 범행을 인정하고 공탁을 한 점, 알코올 의존증 치료를 받은 점, 범행 당시 기억을 못 할 정도로 만취 상태였던 점을 양형 사유로 들었다.&lt;br&gt;&lt;br&gt;하지만 B씨는 재판부의 ‘만취 상태’ 판단을 강하게 반박했다. B씨는 “가해자는 낙상 위험을 피해 3층 베란다로 신속히 침입했고, 거실에 널브러진 옷가지도 피해 다닐 정도로 의식이 정상이었다”며 경찰에 제출된 CCTV 영상과 상반되는 재판부의 판단에 분통을 터뜨렸다.&lt;br&gt;&lt;br&gt;◇“합의금 아닌 진정한 사과 원해”&lt;br&gt;&lt;br&gt;피해자를 더욱 좌절하게 만든 것은 가해자의 기만적인 태도와 사법부의 소극적인 피해자 보호 조치다. A씨는 구속영장 실질심사 당시 피해자와의 격리를 위해 이사를 가고 직장도 그만두겠다고 약속했으나, 현재까지도 범행 장소에서 불과 40m 떨어진 곳에 거주하며 버젓이 직장 생활을 이어가고 있다.&lt;br&gt;&lt;br&gt;또한 법원이 양형 사유로 삼은 ‘공탁금’에 대해서도 B씨는 씁쓸함을 감추지 못했다. 가해자 측은 피해자들에게 각각 250만원씩 공탁한 뒤, 합의 의사가 없자 재판 전 전화를 걸어 “공탁금을 더 걸 테니 할부가 가능하냐”고 물어온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B씨는 “제가 원한 건 합의금이 아니라 피의자의 분명한 사과였다. 진정성 있는 손 편지라도 보내왔다면 용서했을 것”이라며 “사과 한마디 없이 법원에만 반성문을 내는 가해자를, 제가 용서하지 않았는데 왜 법이 용서하느냐”고 반문했다.&lt;br&gt;&lt;br&gt;끝으로 B씨는 주거침입이 누군가의 삶의 기반을 무너뜨리는 중한 범죄임을 강조하며 사법 제도의 변화를 촉구했다. 그는 “감정적 보복을 바라는 것이 아니라, 피해자가 겪은 고통이 사회와 법 앞에서 분명하게 인정되기를 바란다”며 “저희만 그저 재수가 없었던 것으로 치부하기엔 너무 속상하다. 앞으로는 피해자의 고통과 목소리가 무겁게 받아들여지는 사회가 되길 진심으로 바란다”고 호소문을 맺었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GNZECXTGZGPDJCFTG3ERV5OOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 6월 13일 오후 속옷 절도 사건을 당한 피해자 B씨가 자신이 사는 아파트 내 범인이 사는 동을 가르키고 있다. B씨는 범인이 이웃 주민이라는 사실에 직장을 포기하고 고향으로 이사했다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;호소문&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;2025년 5월 27일 경북 안동에서 발생한 주거침입·속옷 절도 사건의 피해 여성입니다. &lt;br&gt;&lt;br&gt;저는 2021년 4년제 대학 간호학과를 졸업하고 간호사 국가고시에 합격한 후 그해 첫 직장으로 안동의 한 병원을 다녔습니다. 낮밤 3교대 등 고된 일이 연속이었지만 최고의 ‘나이팅게일’이 되겠다는 자부심으로 열심히 일했습니다. &lt;br&gt;&lt;br&gt;객지 생활을 극복하고 생활비도 아낄 겸 같은 병원 후배와 전세 아파트에서 수다를 떨며 사회 새내기로서 나름 행복한 나날을 보냈습니다. &lt;br&gt;&lt;br&gt;그러나 최근 대구지법 안동지원에서 결심 공판을 지켜본 후 이루 말할 수 없는 허탈함과 참담한 마음으로 이 글을 씁니다.&lt;br&gt;&lt;br&gt;사건이 발생한 그날 이후 저의 삶은 이전과 완전히 달라졌습니다. 같은 아파트에 살면서도 범인의 얼굴과 신상을 알 수 없는 가해자 중심의 현실이 더 불안했습니다. 집이라는 공간은 더 이상 안전하게 느껴지지 않았고, 두려움에 연속이었습니다. 작은 소리에도 잠에서 깨는 날이 일상이 됐습니다. 평범했던 저의 삶은 무너졌고, 심리적인 불안과 공포 속에서 하루하루를 버텨야 했습니다. 아직도 밤마다 침대 밑이나 집안 곳곳을 확인하고서야 잠자리를 들 정도로 불안한 마음은 일상 곳곳에서 나타납니다. &lt;br&gt;&lt;br&gt;하지만 재판 결과를 지켜본 저의 심정은 안도감이 아니라 좌절감뿐이었습니다. 가해자에게 내려진 가벼운 처벌이 과연 피해자가 겪은 공포와 고통, 그리고 무너진 시간의 무게도 제대로 반영한 것인지요? &lt;br&gt;&lt;br&gt;징역 1년에 집행유예 2년. 피해자가 감당해야 했던 두려움과 고통에 비해 재판 결과는 너무나 가볍게 느껴졌고, 그 사실이 무엇보다 저를 참담하고 우울하게 만듭니다. 일부에선 그깟 속옷 몇 장 잃은 것인데 ‘다치지도 않은 것만으로 다행이다’고 위로도 합니다. 그러나 저의 삶을 원래대로 돌려놓기엔 부족했습니다. &lt;br&gt;&lt;br&gt;특히 재판 과정에서 더욱 납득하기 어려운 부분이 있습니다. 사건 발생 후 당시 가해자 스스로 이사를 가고, 직장도 외지로 옮긴다고 해서 구속영장 실질심사에서 참작 사유가 된 것으로 알고 있습니다. 그러나 현재까지도 범인은 그곳에 그대로 거주하고 있고 직장도 그대로 다닌 다는 사실을 알게 된 후 허탈함과 분노마저 느낍니다. &lt;br&gt;&lt;br&gt;피해자의 불안과 안전은 얼마나 고려되었는지 재판부에 묻고 싶습니다. 재판부가 피의자가 범행 당시 기억을 못 할 정도로 만취 상태인 점을 양형 사유로 말씀하셨습니다. 그러나 피고인은 자칫 낙상 사고의 위험을 피해 신속하게 아파트 3층 베란다로 침입했습니다. 저희가 경찰에 제출한 영상을 보더라도 거실에 널브러진 옷가지도 요리조리 피해 다닐 정도로 의식이 정상이었다는 점을 알 수 있습니다. &lt;br&gt;&lt;br&gt;공탁금을 걸었다는 점도 양형 이유로 말씀하셨습니다. 가해자는 250만원씩, 피해자들에게 총 500만원의 공탁금을 걸었더군요. 합의 의사가 없자 재판 전 피의자 측으로부터 전화가 왔습니다. 공탁금을 더 걸테니 할부가 가능하냐고. 무슨 가전제품 할부도 아니고 정말 어이가 없었습니다. 제가 원하는 건 합의금이 아니라 피의자의 분명한 사과였습니다. 진정성 있는 손 편지라도 보내왔으면 아마 용서했을 것입니다. 그는 저에겐 사과 한마디 없이 법원에만 잘못했고 반성하고 있는 것입니다. &lt;br&gt;&lt;br&gt;결과적으로 피해자는 여전히 불안 속에 살아가고 있는데, 법은 과연 누구를 보호하고 있는 것인가요? 제가 용서 안 했는데 왜 법이 먼저 용서합니까? 재판 과정과 결과를 지켜보며 우리 사회와 법 제도가 피해자의 고통을 얼마나 충분히 이해하고 있는지에 대해서도 큰 의문으로 남았습니다. &lt;br&gt;&lt;br&gt;피해자가 겪는 심리적 고통과 삶의 붕괴는 눈에 보이지 않는다는 이유로 가볍게 평가되는 것은 아닌지, 피해자의 목소리는 어디까지 반영되고 있는지 묻고 싶습니다.&lt;br&gt;&lt;br&gt;주거 침입은 누군가의 삶의 기반과 가장 기본적인 안전감조차 무너뜨리는 중한 범죄입니다. 그럼에도 현실에서 느끼는 법의 잣대는 피해자가 체감하는 고통의 무게와 너무나 큰 차이가 있습니다.&lt;br&gt;&lt;br&gt;저는 처벌만이 대수가 아닌 누군가에 대한 감정적인 보복이 되기를 바라는 것이 아닙니다. 다만 피해자가 겪은 공포와 고통이 결코 가볍지 않다는 사실이 사회와 법 앞에서 분명하게 인정되기를 바랐습니다. 그리고 같은 피해자가 더 이상 나오지 않기를 바라는 마음뿐입니다.&lt;br&gt;&lt;br&gt;“혹시 피해자분 법정에 나왔나요? 가해자는 피해자에게 용서를 구하고 진정으로 사과하세요.” 외국의 어느 판사의 재판처럼 이런 모습을 기대한 제가 무리한 상상일까요.&lt;br&gt;&lt;br&gt;1심 재판이 끝났어도 피해자의 시간은 여전히 그날에 머물러 있고, 지금도 완전히 회복되지 못한 채 살아가고 있습니다. &lt;br&gt;&lt;br&gt;이번 일을 통해 안전하게 살아간다는 것이 얼마나 기본적인 권리인지 절실히 깨달았습니다. 그리고 그 기본적인 권리가 위협받았을 때 피해자가 얼마나 쉽게 보호받지 못할 수 있는지도 똑똑히 느꼈습니다. 저희들만 그저 재수가 없었던 걸로 치부하기엔 너무나 속상합니다. &lt;br&gt;&lt;br&gt;부디 이번 사건으로 주거 안전과 피해자 보호 제도에 대해 다시 생각해보는 계기가 됐으면 바램입니다. 앞으로는 피해자의 고통과 목소리가 보다 무겁게 받아들여지는 사회가 되기를 진심으로 바랍니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“아이고 내 새끼 어떡해 “왜 여기 있어”...대전 화재 합동분향소 ‘눈물바다’</title>
       <link>https://www.chosun.com/national/national_general/2026/03/22/W5FZBHOHSBB4PKP6OXGNVI2A5U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/W5FZBHOHSBB4PKP6OXGNVI2A5U/</guid>
@@ -656,16 +661,6 @@
         <media:description type="plain">22일 오후 대전시청에 마련된 대전 안전공업 화재 희생자 합동분향소에서 유족과 직원들이 분향하며 슬픔에 잠겨 있다. /신현종 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">CHOINWON</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세] 3월 23일 월요일 (음력 2월 5일 丙申)</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/22/2SJA64WFWBFYVGOSL7C2B47OFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/2SJA64WFWBFYVGOSL7C2B47OFA/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
       <title>체감온도 38도 이상 올라가면 옥외작업 전면중지</title>
