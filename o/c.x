@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경남 산청군, 민생안정지원금 20만원 지급…30일부터 신청</title>
+      <link>https://www.chosun.com/national/regional/2026/03/24/D7CO36NQSNFJNGJ5P3MSEIGAME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/D7CO36NQSNFJNGJ5P3MSEIGAME/</guid>
+      <dc:creator>산청=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 05:53:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2DGNZSHEYTQMZUGFQTMMTDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산청군청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 산청군은 고물가와 고유가 등으로 위축된 지역 경제를 살리고 군민 가계 부담을 덜어주기 위해 1인당 20만원의 ‘민생안정지원금’을 지급한다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;지급 대상은 지난해 12월 31일부터 산청에 계속해서 주민등록을 두고 있는 군민이다.&lt;br&gt;&lt;br&gt;지원금은 지역 내 소비 촉진을 위해 전액 선불카드로 지급된다.&lt;br&gt;&lt;br&gt;이번 지원금은 지난해 12월 군의회에서 발의한 ‘산청군 민생안정지원금 지원 조례’에 근거해 마련됐다.&lt;br&gt;&lt;br&gt;군은 지난 3일 추가경정예산에 관련 예산 약 66억원을 편성하며 지급 준비를 마쳤다.&lt;br&gt;&lt;br&gt;신청 및 지급 기간은 오는 30일부터 내달 말까지 한 달간이다. 군은 군민 편의를 위해 접수 기간을 1·2차로 나누어 운영할 계획이다.&lt;br&gt;&lt;br&gt;1차 기간인 오는 30일부터 오는 4월 3일까지는 마을별 현장 방문 접수를 통해 신청과 지급을 동시에 진행한다.&lt;br&gt;&lt;br&gt;2차 기간인 4월 6일부터 30일까지는 주소지 읍·면사무소를 직접 방문해서 신청하면 된다.&lt;br&gt;&lt;br&gt;신청은 세대주가 본인 신분증을 지참해 일괄 신청해야 하며, 세대원이나 대리인이 신청할 경우 위임장을 반드시 지참해야 한다.&lt;br&gt;&lt;br&gt;지급된 선불카드는 올해 9월 30일까지 산청군 내 카드 가맹점에서 사용할 수 있으며, 기한 내 사용하지 못한 잔액은 자동 소멸한다.&lt;br&gt;&lt;br&gt;산청군 관계자는 “이번 지원금이 고물가 상황 속에서 군민 생활 안정에 보탬이 되길 바란다”며 “대상 군민께서는 기간 내 신청해 혜택을 받으시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 법원 “나무위키 문서에 일부 왜곡·과장 있어도 위법 아냐" 첫 판단</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/24/EXSJ7UJQSNHQFKTH3GNZVK5XYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/EXSJ7UJQSNHQFKTH3GNZVK5XYE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 05:05:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MC7O7X2VCBHCLOIQU63DII3SUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나무위키 대문 페이지. '검증되지 않았거나 편향된 내용이 있을 수 있다'는 경고가 쓰여 있다. /나무위키 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개방형 온라인 백과사전 ‘나무위키’ 문서 내용에 일부 왜곡·과장이 있더라도 전체적으로 진실에 부합한다면 나무위키에 배상 책임을 물을 수 없다는 법원의 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울고등법원 민사13부는 광주광역시 명진고등학교를 운영하는 학교법인 도연학원이 나무위키 운영사를 상대로 낸 게시글 삭제 및 손해배상 청구 소송에서 지난 1월 1심과 같이 원고 패소 판결을 내렸다. 명진고 측이 대법원 상고를 포기하면서 이 판결은 같은 달 확정됐다. 법조계에 따르면 나무위키를 상대로 한 손해배상 소송의 결론이 나온 것은 처음이다.&lt;br&gt;&lt;br&gt;나무위키 ‘명진고등학교’ 문서에는 2018년 학내 ‘스쿨미투’ 사건과 전 이사장의 교사 채용 비리, 교사 부당해고 의혹 등이 자세하게 담겼다. 명진고 측은 이 문서가 사실을 악의적으로 왜곡해 학교 평판을 훼손했다며 나무위키에 삭제를 요구했지만, 조치가 이뤄지지 않자 2023년 500만원의 손해배상 소송을 냈다. 명진고 측이 문제 삼은 대목 중 하나는 스쿨미투 관련 내용이었다. 명진고는 스쿨미투 연루 교사 7명 가운데 수사기관에서 무혐의 처분을 받은 6명에게 경징계를 내렸는데, 나무위키에는 무혐의 결정이 빠진 채 경징계 결정이 ‘무마’라고 적혔다는 것이다.&lt;br&gt;&lt;br&gt;그러나 법원은 악의적 목적이 뚜렷하고 공익성도 없는 등 ‘명백한 위법’이 아니라면, 일부 부정확하거나 편향된 내용이 포함돼 있더라도 곧바로 손해배상 책임을 물을 수 없다고 판단했다. 1심 재판부는 “해당 문서는 학교 운영의 부적절함이나 운영자의 도덕적 흠결을 지적하는 공익적 목적으로 쓰였다”고 했다. 이어 “운영사가 명예훼손이나 손해배상을 우려한 나머지 게시물에 지나치게 간섭하기 시작하면, 이용자들의 표현의 자유가 위축될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 나아가 “나무위키는 이용자들이 스스로 작성·수정하며 지식과 정보를 공유하는 사이트로, 경우에 따라 의혹 제기나 의견이 혼재될 수 있다”고 했다. 그러면서 “공개 토론 과정에서 부분적으로 틀리거나 과장된 표현이 나오는 것은 피하기 어려운 측면이 있으나 해명과 반박을 통해 시정이 가능하고, 자유로운 토론과 민주주의 성숙을 위해 표현의 자유는 폭넓게 보장되어야 한다는 점 등을 두루 감안하면 게시물의 위법성을 쉽사리 인정할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“미리 쟁여둔 내가 승자”… 중동발 비닐 대란 공포에 ‘쓰봉’ 사재기 조짐</title>
       <link>https://www.chosun.com/national/national_general/2026/03/24/6IMFQOOICBGA3AI6MR6LL5IWRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/6IMFQOOICBGA3AI6MR6LL5IWRU/</guid>
@@ -931,24 +949,6 @@
       <description/>
       <pubDate>Sun, 22 Mar 2026 07:07:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2DENRXHEZDKNJUGJRTMZLDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 8월 폭염이 연일 이어지고 있는 가운데 서울 성북구 장위4구역 주택정비사업지구 건설현장에서 한 근로자가 음료를 들고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근로자들이 여름철 폭염 속에 야외 작업을 하다가 목숨을 잃는 사고를 방지하기 위해 정부가 체감온도 38도 이상인 날은 ‘작업 전면 중지’를 권고하기로 했다.&lt;br&gt;&lt;br&gt;고용노동부는 이런 내용이 담긴 ‘폭염 온열 질환 수칙’을 이달 중 마련할 계획이라고 22일 밝혔다. 기상청은 올여름부터 체감온도가 38도 이상 올라갈 것으로 예상될 때 ‘폭염 중대 경보’를 발령하는데, 이 특보가 나간 날 재난 수습이나 안전 관리 등 긴급한 작업 외에 다른 옥외 작업은 전면 중지토록 하겠다는 것이다.&lt;br&gt;&lt;br&gt;현재 폭염 대비 사업장 대응 지침은 체감온도에 따라 2단계로 운영되고 있다. 1단계는 ‘체감온도 33도 이상’일 때로, 옥외 작업 시 2시간마다 20분 이상 의무적으로 휴식 시간을 줘야 한다. 이를 지키지 않으면 사업주가 산업안전보건법에 근거해 5년 이하 징역 또는 5000만원 이하 벌금에 처해질 수 있다. &lt;br&gt;&lt;br&gt;2단계는 ‘체감 온도 35도 이상’일 때로, 1시간마다 15분 이상 휴식을 줘야 하고, 하루 중 기온이 가장 높은 오후 2∼5시에는 불가피한 경우를 제외하고는 옥외 작업을 중지해야 한다. 여기에 3단계로 ‘체감 온도 38도 이상’ 시 ‘작업 전면 중지’를 추가하겠다는 것이다. &lt;br&gt;&lt;br&gt;다만 2·3단계는 법적 강제성이 없는 권고 사항이다. 노동부 관계자는 “일종의 가이드라인이지만 지방고용노동청 근로 감독관에게 배포해 현장에서 지켜질 수 있도록 유도할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;폭염으로 인한 온열 질환 산업재해는 늘어나고 있다. 근로복지공단에 따르면 온열 질환 산재 승인 건수는 2020년 13건(사망 2명), 2021년 19건(사망 1명), 2022년 23건(사망 5명), 2023년 31건(사망 4명), 2024년 51건(사망 2명) 등으로 증가 추세다. 작년 기준 폭염 일수(일 최고기온 33도 이상)는 28일이었다.&lt;br&gt;&lt;br&gt;노동부는 건설 공사 기간 연장 사유에 폭염 등 기상 재해를 추가하는 법 개정도 추진하고 있다. 산업안전보건법을 개정해 건설 공사 기간 연장 사유에 ‘폭염’과 ‘한파’를 추가하는 것이 골자다. 현장에서 노동자의 작업 중지가 적극적으로 사용될 수 있도록 유도한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전기차 살 때 배터리 제조사·생산국 공개...동일한 결함 반복 발생시 인증 취소</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/22/ZIKSKJBMBZEN3PYTFRBZNBJIYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/22/ZIKSKJBMBZEN3PYTFRBZNBJIYQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 05:14:11 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3DCOBSGQ2TGNTBGJQTCYRRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 전기차 충전소 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 전기차를 구매할 때 소비자가 배터리의 제조사와 생산국 등 핵심 정보를 확인할 수 있게 된다. 잇따른 전기차 화재로 인한 소비자의 불안감을 해소하기 위한 조처다.&lt;br&gt;&lt;br&gt;국토교통부는 전기차 배터리 정보공개 확대와 인증취소 요건을 강화하는 개선 내용을 담은 자동차관리법 시행령·시행규칙과 자동차 등록규칙 개정안을 이달 23일부터 5월 4일까지 입법 예고한다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;개정안에 따라 전기차 등 판매 시 구매자에게 제공되는 배터리 정보가 6종에서 10종으로 확대된다. 현재는 배터리 용량과 정격 전압 등의 정보만 제공 대상에 포함돼 있다. 이제는 배터리 제조사와 생산 국가, 제조 연월, 제품명 또는 관리번호도 제공해야 한다. 정보제공 방법도 판매사 인터넷 홈페이지를 비롯해 자동차 매매 계약서, 자동차 인수증 등으로 다양화된다.&lt;br&gt;&lt;br&gt;배터리 정보 제공 의무를 어긴 자동차 제작·판매자에 부과하는 과태료 액수도 대폭 늘어난다. 현재는 배터리 관련 정보를 제공하지 않은 경우에만 50만원의 과태료를 물리고 있다. 앞으로는 정보를 거짓으로 제공한 경우도 과태료 부과 대상에 포함된다. 부과 액수도 최대 1000만원으로 상향하기로 했다. 위반 횟수에 따라 1회 200만원, 2회 500만원, 3회 이상 1000만원의 과태료가 부과된다.&lt;br&gt;&lt;br&gt;국토부는 배터리에 2년 내 동일한 결함이 2∼4회 발생하면 결함의 경중에 따라 안전성 인증을 취소한다는 방침이다. 배터리가 기준에 부적합하게 설계·제조된 결함이 있어 화재 등의 피해로 이어진 경우는 2회, 기준에는 적합하지만 안전에 지장을 주는 결함으로 화재 등의 피해가 나타난 경우는 3회 발생 시 인증을 취소한다. 다만 단순 정보표시 오류, 일시적 경고등 점등 등 경미한 결함은 취소 요건에서 제외했다.&lt;br&gt;&lt;br&gt;국토부 관계자는 “배터리에 대한 신뢰성·안전성을 높여 전기차 확산에 기여할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 전용남씨 별세 </title>
-      <link>https://www.chosun.com/national/national_general/2026/03/21/ITKMNMFMAVCCRF4A42SVUNSADY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/21/ITKMNMFMAVCCRF4A42SVUNSADY/</guid>
-      <dc:creator>송혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Mar 2026 09:14:57 +0000</pubDate>
-      <content:encoded>▲전용남 별세, 신문순 남편상, 전진수 예건에프앤씨 이사·전인영 부친상, 김소정 디스패치 기자 시부상, 한지융 KB캐피탈 상품기획팀장 장인상=21일 노원을지대학병원, 발인 23일9시30분, (02)970-8444 &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아버님, 이어폰 오래 끼면 보청기 껴야 돼요”</title>
