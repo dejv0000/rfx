@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘마약왕’ 박왕열 송환...“철저히 수사해 유통 조직 실체 규명” </title>
+      <link>https://www.chosun.com/national/court_law/2026/03/25/DC3PTQKRIBBULLHVF2OJAMGQQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/25/DC3PTQKRIBBULLHVF2OJAMGQQA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 22:56:54 +0000</pubDate>
+      <content:encoded>필리핀에서 한국인 3명을 살해한 혐의로 현지 교도소에 수감 중이던 ‘마약왕’ 박왕열(48)이 25일 국내로 송환됐다. 박왕열은 국내로 마약을 유통한 혐의에 대해 수사와 재판을 받은 뒤, 다시 필리핀으로 돌아가게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVQILUQORBNBTCP3SDKVIXHICU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;필리핀에서 복역 중이던 이른바 '마약왕' 박왕열(48)이 25일 한국으로 송환, 인천국제공항에서 이송되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박왕열은 이날 오전 7시 16분쯤 경찰 인력 등에 둘러싸인 채 인천국제공항 입국장에 도착했다. 검은색 모자와 평상복을 차림으로 수갑을 찬 박왕열은 굳은 표정으로 호송 차량에 올라탔다.&lt;br&gt;&lt;br&gt;초국가범죄 특별대응 태스크포스(TF) 소속 법무부 이지영 국제형사과장은 “피의자는 즉시 수사기관에 인계돼 철저한 수사를 진행할 예정”이라며 “이번 임시 인도는 법무부와 경찰청, 외교부, 검찰청 등 국내 유관 기관과 필리핀 법무부, 양국 대사관이 긴밀히 협력한 결과”라고 했다. 임시 인도는 국내에서 형사 절차를 진행하기 위해 해외에서의 재판이나 형 집행을 잠시 중단하고 범죄자를 송환하는 제도다.&lt;br&gt;&lt;br&gt;박왕열은 2016년 10월 한국인 3명이 살해된 ‘필리핀 사탕수수밭 살인 사건’의 주범으로, 2022년 4월 필리핀 법원에서 징역 60년을 선고받고 필리핀 뉴빌리비드 교도소에 수감돼 있었다. 그러나 수감 생활 중에도 휴대전화를 사용해 한국으로 마약을 밀반입하고, 호화로운 교도소 생활을 한다는 논란이 꾸준히 제기됐다. 박왕열은 필리핀에서 수감 중 두 차례 탈옥을 시도하기도 했다.&lt;br&gt;&lt;br&gt;이에 법무부는 양국 간 범죄인인도조약에 따라 박왕열을 국내로 송환하기 위해 필리핀과 수차례 실무 회담 등을 진행했지만, 당초 필리핀 당국은 박왕열이 이미 필리핀에서 재판을 마치고 실형을 살고 있다는 사유로 임시 인도 요청을 사실상 거절한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;하지만 박왕열이 국내에 마약을 유통하는 등 계속해서 범죄를 저질러 수사가 필요하다는 목소리가 커졌고, 지난 3일 이재명 대통령이 페르디난드 마르코스 주니어 필리핀 대통령과의 정상회담에서 직접 임시 인도를 요청하면서 송환 절차가 급물살을 탔다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “경기북부경찰청이 박왕열의 마약 사건 3개를 병합해 수사할 예정”이라며 “신속하게 구속영장을 신청하고 송치 이후에도 여죄 여부를 철저히 밝히겠다”고 했다. 수사 당국은 이미 국내에서 활동하는 박왕열의 공범을 파악하고 관련 수사에 나선 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘김정숙 옷값 의혹’ 경찰 이어 검찰도 무혐의 처분</title>
       <link>https://www.chosun.com/national/court_law/2026/03/25/UJTGYORH6RAXJLSG4HUAKWNMAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/25/UJTGYORH6RAXJLSG4HUAKWNMAE/</guid>
@@ -741,18 +750,6 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 15:46:00 +0000</pubDate>
       <content:encoded> 학생들의 우수한 발명 아이디어를 발굴하여 전시·시상하는 ‘제39회 대한민국학생발명전시회’가 열립니다. 지식재산처가 주최하고 조선일보사가 후원하는 본 대회는 국내 최대규모의 전국단위 학생 발명대회로, 최우수 작품에는 대통령상이 수여 됩니다. 창의적 아이디어를 가진 학생들의 많은 참여를 바랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲신청접수&lt;/b&gt; : 4월 6일(월) 오후 6시까지&lt;br&gt;&lt;br&gt;&lt;b&gt;▲접수방법&lt;/b&gt; : 대회 홈페이지(www.ip-edu.net)에서 온라인 접수&lt;br&gt;&lt;br&gt;&lt;b&gt;▲시상&lt;/b&gt; : 대통령상(1명), 국무총리상(2명), 특별상(2명, WIPO 사무총장상 1명·조선일보사장상 1명), 금상(29명), 은상(20명), 동상(110명), 장려상(36명) 등&lt;br&gt;&lt;br&gt;&lt;b&gt;▲주최&lt;/b&gt; : 지식재산처&lt;br&gt;&lt;br&gt;&lt;b&gt;▲주관&lt;/b&gt; : 한국발명진흥회(02-3459-2752) ▲후원 : 조선일보사·교육부·과학기술정보통신부·산업통상부·세계지식재산기구(WIPO), 경제 4단체, 발명 유관단체 등&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘outlet’을 ‘콘센트’로 부르는 건 일제 시대 잔재?</title>
-      <link>https://www.chosun.com/national/education/2026/03/24/IVKDBJRHVNGEFPCZYRMRNFWH4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/24/IVKDBJRHVNGEFPCZYRMRNFWH4Y/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 18:00:00 +0000</pubDate>
-      <content:encoded>해외여행 중 구글 지도를 보며 낯선 길을 찾아가고 있는데, 배터리가 바닥났을 때의 그 당혹스러움... 가슴 철렁하는 그 기분 느껴보셨나요?&lt;br&gt;&lt;br&gt;다급하게 충전할 곳을 찾아 카페에 들어가서 “Consent(콘센트)!”를 외쳤는데 점원이 고개를 갸웃거린다면? 그건 ‘콘센트’가 전형적인 콩글리시이기 때문이에요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI3CIGIBTNCITJ6VNDBWHHH67E.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국과 캐나다 등 북미에서는 콘센트를 outlet이라고 부릅니다. 아울렛 매장이라는 의미의 ‘outlet’과 스펠링이 같습니다. 영국과 호주에서는 socket 또는 power point라는 표현을 씁니다.&lt;br&gt;&lt;br&gt;한국에서 outlet을 ‘콘센트’라고 부르게 된 건 일제 시대에 유래했습니다. ‘콘센트’는 영어 ‘concentric’(동심원의)에서 온 말로, 초기 영국 플러그 형태인 ‘concentric plug’가 일본에 도입되며 ‘콘센토(コンセント)’로 변형됐고, 이 표현이 일제강점기 한국에 전기 기술과 함께 들어오면서 그대로 받아들여지게 됐습니다.&lt;br&gt;&lt;br&gt;‘충전하다’는 표현으로는 에너지를 채운다는 뜻의 ‘juice up’을 써보세요. “휴대폰에 주스(에너지) 좀 줄 곳이 있을까요?”라는 아주 위트 있고 원어민 같은 표현이 됩니다. 주로 미국·캐나다 등 북미에서 씁니다.&lt;br&gt;&lt;br&gt;외국 카페는 한국처럼 테이블마다 콘센트가 붙어 있는 경우가 많지 않아요. 자리를 잡기 전에 입구에서 점원에게 휴대폰을 가리키며 “Is there an outlet I can use?” 또는 “Do you have any seats with outlets?”라고 먼저 물어보세요. 자리를 잡았다가 콘센트가 없어 다시 짐을 챙겨 나오는 민망함을 피할 수 있습니다. &lt;br&gt;&lt;br&gt;“Are there any seats with outlets nearby?” (근처에 콘센트 있는 자리가 있나요?)&lt;br&gt;&lt;br&gt;“Is there a wireless charging station?” (무선 충전 패드가 있나요?)&lt;br&gt;&lt;br&gt;“Is it okay to plug this in here?” (여기에 플러그를 꽂아도 될까요?)&lt;br&gt;&lt;br&gt;“Do you have a charger I can borrow?” (충전기를 빌릴 수 있을까요?)&lt;br&gt;&lt;br&gt;“Do you sell power banks here?” (보조 배터리를 팔기도 하나요?)&lt;br&gt;&lt;br&gt;“Is there a USB port I can use?” (사용 가능한 USB 포트 있나요?)&lt;br&gt;&lt;br&gt;“Do you happen to have a charger?” (혹시 충전기 있나요?)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;Do you happen to ~?&lt;/mark&gt;”는 “&lt;mark class="hl_yellow"&gt;혹시 ~가 있나요?&lt;/mark&gt;”라는 뜻으로, “Do you have ~?”라는 직설적 표현보다 훨씬 부드럽고 정중하게 들립니다. 여행 중 뭔가를 부탁하거나 구할 때 두루 쓸 수 있는 유용한 표현입니다.&lt;br&gt;&lt;br&gt;“My phone is about to die.” (휴대폰이 곧 꺼질 것 같아요.)&lt;br&gt;&lt;br&gt;“My battery is running low.” (배터리가 얼마 안 남았어요.)&lt;br&gt;&lt;br&gt;“I’m at 5 percent.” (배터리가 5% 남았어요.)&lt;br&gt;&lt;br&gt;“Do I need an adapter for this outlet?” (이 콘센트에 어댑터가 필요한가요?)&lt;br&gt;&lt;br&gt;“Is this outlet 110V or 220V?” (110V예요? 220V예요?)&lt;br&gt;&lt;br&gt;“My plug doesn’t fit. Do you have an adapter?” (플러그가 안 맞는데 어댑터 있나요?)&lt;br&gt;&lt;br&gt;🚉 공항이나 기차역에서는 “Charging station”이라고 적힌 곳을 찾아가세요. 공항이라면 게이트 주변 기둥이나 벽면 하단, 또는 카페와 푸드코트 좌석 근처에 충전 스테이션이 마련된 경우가 많습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VPB2LOKTLBBENB4CGLOMCBOGNQ.png?auth=7c60ae44e22f35500bf6b14335a157b753f968efb16ecaa0baea95f2fe0dd280&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
-      </media:content>
     </item>
     <item>
       <title>[굿모닝 멤버십] 시진핑 경고도 안 통해... 대규모 손실 낸 ‘신성장 사업’</title>
