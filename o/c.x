@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 檢, 김정숙 여사 ‘옷값 특활비 의혹’ 송치 요구 안 해</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/24/LYPMWARYJBEH3GJLVDHA2J4AAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/LYPMWARYJBEH3GJLVDHA2J4AAE/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 10:01:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UM357AIIP5H2DJTOTZWC6CYROY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령 배우자 김정숙 여사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 배우자 김정숙 여사가 청와대 특수활동비로 의상 80여 벌을 구입했다는 의혹과 관련해 검찰이 경찰에 사건 송치 요구를 하지 않기로 한 것으로 24일 확인됐다. 횡령 혐의를 받았던 김 여사에 대해 경찰의 불송치 결정을 한 데 이어, 검찰도 직접 보완수사를 하지 않기로 한 것이다.&lt;br&gt;&lt;br&gt;24일 본지 취재를 종합하면, 서울중앙지검 형사2부(부장 이주희)는 지난 23일 경찰에 김 여사 관련 사건 기록을 환부했다. 지난달 26일 경찰에서 김 여사 관련 기록을 넘겨받은 지 약 한 달 만이다.&lt;br&gt;&lt;br&gt;당초 서울경찰청 반부패수사대는 김 여사 옷값 의혹에 대해 작년 7월 무혐의 처분을 하고 불송치 결정을 했다. 이후 3개월 뒤인 그해 10월 서울중앙지검은 경찰에 재수사를 요청했다. 당시 검찰은 “최소한 당사자(김정숙)의 금융 거래 내역을 확인하고, 본인 소명도 들어야 한다”는 취지의 의견을 경찰에 전달한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 검찰 요청에 따라 김 여사 관련 계좌와 카드 결제 내역을 살펴봤지만 김 여사가 특활비로 의상을 구매한 정황은 확인하지 못했다고 한다. 김 여사에 대한 서면조사도 실시했는데, 김 여사는 혐의를 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 같은 경찰의 보완수사 결과를 검토한 검찰은 “직접 보완수사를 하더라도 옷값을 특활비로 구매했는지 자금 출처를 찾을 수 없다”고 결론내린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;‘검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정’에 따르면, 검사는 사법경찰관이 송치하지 않은 사건에 대해 송치 요구를 할 수 있다. 위법 또는 부당이 시정되지 않아 수사할 필요가 있을 때에는 재수사 결과를 통보받거나 기록을 넘겨받은 날로부터 30일 이내에 사건을 보내라고 할 수 있다. 이후 직접 보완수사를 해 기소 여부를 결정할 수 있는데, 검찰이 김 여사 사건은 보완수사를 하지 않기로 한 것이다. 이에 따라 김 여사는 혐의없음 처분됐다.&lt;br&gt;&lt;br&gt;김 여사는 특활비로 고가의 의상을 구매했다는 혐의(업무상 횡령, 국고손실 등)로 2022년 3월 고발됐다. 경찰은 문재인 정부 청와대가 이른바 ‘관봉권(官封券)’을 통해 옷값을 치렀다는 진술 및 자료도 확보해 청와대 특활비 사용 내역 등이 보관돼 있는 대통령기록관도 압수 수색했다. 그러나 김 여사의 혐의를 입증할 정황이나 증거가 없다며 작년 7월 처음 무혐의 처분했다. 검찰이 재수사를 요청했지만 3개월 뒤 같은 결론을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2EIPGNQJ4JEORBR6GGUDOTECJA.jpg?auth=7fcf49160d1ed0e17a434e6bb88ccae90eb3fae5e60356a19dcdbb374cd7ce01&amp;smart=true&amp;width=303&amp;height=227" type="image/jpeg" height="227" width="303">
+        <media:description type="plain">靑, 김정숙 여사 옷값 논란에 SNS 우회적 반박</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>만 8세 아동, 4월에 아동수당 40만~52만원 받는다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/24/EYHA2TMOOFCP7KCL2QAZQZVJIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/24/EYHA2TMOOFCP7KCL2QAZQZVJIU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 10:09:20 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAHECKBADJEDRJBC3MQAOYJQ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 원효로 제1동 주민센터에 아동수당 신청 관련 안내 포스터가 붙어 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회에서의 법안 통과가 늦어져 지급이 안 되고 있던 아동수당 추가분이 오는 4월 24일 소급해 한꺼번에 지급된다. 올해 1월 만 8세가 된 2017년 1월생~2018년 1월생의 경우 최소 40만~최대 52만원을 한꺼번에 받게 된다.&lt;br&gt;&lt;br&gt;보건복지부는 24일 ‘아동수당법 시행령 일부개정령안’이 국무회의에서 의결됐다고 밝혔다. 지난 1일 국회에서 아동수당 지급 금액과 범위를 확대하는 아동수당법 개정안이 통과된 데 따른 후속 조치다.&lt;br&gt;&lt;br&gt;아동수당은 지금까지는 만 7세 이하 아동에게 매달 10만원을 일괄 지급했다. 하지만 새 개정안은 지급 대상을 매년 1살씩 올리기로 했다. 올해는 만 8세 이하, 내년에는 만 9세를 거쳐 2030년 만 12세 이하까지 올라간다.&lt;br&gt;&lt;br&gt;지역에 따라 금액도 올라간다. 수도권은 매달 10만원으로 기존과 같지만, 비수도권은 5000원이 추가돼 10만5000원이 지급된다. 인구감소지역의 경우 인구감소 정도에 따라 11만~12만원으로 지급액이 한층 더 올라간다. 만약 지방자치단체가 아동수당을 지역사랑상품권으로 줄 경우 여기에서 추가로 1만원을 추가로 받을 수 있다. 인구감소지역의 경우 지역사랑상품권인 경우 지급액이 12만~13만원으로 올라가는 것이다.&lt;br&gt;&lt;br&gt;정부는 당초 올해 1월부터 새 기준을 반영해 아동수당을 확대하려 했다. 하지만 국회에서의 입법이 지연되며 올해 1~3월 만 8세에 해당하는 아동들과 지역에 따른 추가금이 제대로 지급되지 않았다. 만 7세 이하 아동들은 10만원씩 정상 지급받았지만, 마찬가지로 지역에 따른 추가금을 받지 못했다. 그런데 관련 제도 개선이 됐으니 4월에 이를 소급 지급하겠다는 것이다.&lt;br&gt;&lt;br&gt;다만 이번 제도 개선은 여·야 합의안과는 다른 것이다. 민주당과 국민의힘은 국회 보건복지위원회에서 수도권이 아니라고 추가금을 더 주는 것은 올해 한정으로만 적용하고, 지역사랑상품권 추가금도 적용하지 않기로 합의했다. 하지만 국회 법제사법위원회 전체합의에서 이 합의 내용이 뒤집혔다. 결국 개정안은 민주당이 당초 주장하던 원안으로 국회에서 통과됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 김형석 전 독립기념관장 ‘해임 집행정지’ 신청 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/24/G53NBNUI5VBMNLBH3CF5I5PTNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/G53NBNUI5VBMNLBH3CF5I5PTNM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 09:59:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSGKZTFGY3TIN3FGE2GEZRSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형석 전 독립기념관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 해임된 김형석 전 독립기념관장이 해임 처분에 불복해 낸 집행정지 신청이 법원에서 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 서울행정법원은 김 전 관장이 지난달 27일 이재명 대통령을 상대로 낸 해임 처분 집행정지 신청을 기각했다. 재판부는 “처분의 효력을 정지할 긴급한 필요성이 있다고 보기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;국가보훈부는 지난해 9월부터 김 전 관장에 대한 감사를 진행해 기본재산 무상 임대, 금품 수수, 기부금품 모집 등 14건을 적발했다. 독립기념관 이사회는 이를 근거로 지난 1월 해임 건의안을 의결했고, 지난달 초 청문회를 거쳐 권오을 보훈부 장관이 해임안을 제청했다. 이재명 대통령은 지난달 19일 이를 재가했다.&lt;br&gt;&lt;br&gt;김 전 관장은 “부당한 이유로 해임됐다”며 자신의 해임 처분에 절차적, 실체적 하자가 있다면서 해임 처분 취소 소송과 함께 집행정지를 신청했다. 그러나 법원이 집행정지 신청을 기각하면서 본안 소송 결과가 나올 때까지 김 전 장관의 해임 상태는 그대로 유지된다.&lt;br&gt;&lt;br&gt;한국 기독교 독립운동사 전문가인 김 전 관장은 임명 당시부터 현 여권으로부터 ‘친일’ ‘뉴라이트’라는 비판을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘평양 무인기 침투’ 김용대 前드론사령관, “파면 효력 멈춰달라” 신청했으나... 법원이 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/24/RF2TKX3OQJFKHE4PWMZMEKAGLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/RF2TKX3OQJFKHE4PWMZMEKAGLA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 09:48:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSDOZTEGU3WEZJZG4YWKYRRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 전 드론작전사령관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검팀이 수사한 ‘평양 무인기 침투’ 의혹에 연루돼 파면된 김용대 전 드론작전사령관(소장)이 징계 처분의 효력을 정지해달라는 신청을 냈으나 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 서울행정법원 행정4부(재판장 김영민)는 김 전 사령관이 낸 파면 처분 집행정지 신청을 이날 기각했다. 재판부는 지난 16일 집행정지 사건의 심문 기일을 열어 김 전 사령관 측 주장을 검토했으나, 징계 처분의 효력을 정지할 사유는 없다고 판단한 것으로 풀이된다. 김 전 사령관이 파면 처분을 취소해달라며 국방장관을 상대로 낸 본안 소송의 재판 일정은 아직 정해지지 않았다.&lt;br&gt;&lt;br&gt;김 전 사령관은 2024년 10월 유엔사 승인 등 관련 절차를 지키지 않은 채 부하들에게 무인기 평양 투입을 지시하고, 작전 도중 무인기 한 대가 평양에 추락한 사실을 숨기기 위해 허위 문건을 만든 혐의로 작년 11월 재판에 넘겨졌다. 내란 특검팀은 김 전 사령관과 윤석열 전 대통령, 김용현 전 국방장관 등이 북한에 대한 군사적 도발로 12·3 비상계엄을 선포할 수 있는 명분을 만들기 위해 무리하게 작전을 감행했다고 의심한다. 국방부는 지난해 12월 김 전 사령관을 보직에서 해임했고, 석 달 뒤인 지난달 파면했다.&lt;br&gt;&lt;br&gt;법원은 김 전 사령관 외에도 비상계엄에 연루돼 징계 처분을 받아 취소 소송을 낸 군 간부 4명이 낸 징계 처분 집행정지 신청을 모두 각하·기각했다. 행정법원은 파면된 김봉규 전 국군정보사령부 중앙신문단장(대령)의 집행정지 신청을 지난달 각하했다. 정직 3개월 처분을 받은 정학승 전 육군 동원참모부장(소장)의 신청은 전날 기각했다. 또 정직 1개월 처분을 받은 박성훈 육군 정훈실장(준장)·조재명 전 육군 사이버작전센터장(준장)의 신청도 최근 각하·기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 의령 야산 인근 불탄 1t 화물차서 시신 발견</title>
+      <link>https://www.chosun.com/national/regional/2026/03/24/XVDOCUH62BFBBLP432FEQO3EHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/XVDOCUH62BFBBLP432FEQO3EHI/</guid>
+      <dc:creator>의령=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 09:01:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYDKMBZME3WGYRRMY4GENBXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 7시 41분쯤 경남 의령군 대의면 야산 인근 도로의 전소된 1t 화물차 안에서 불에 탄 시신이 발견됐다.&lt;br&gt;&lt;br&gt;인근 주민의 “차량에서 연기가 난다”는 신고를 받고 출동한 경찰과 소방당국은 전소된 화물차와 시신을 확인했다.&lt;br&gt;&lt;br&gt;화물차가 있던 곳은 대의면 마쌍리에서 합천군 방면으로 이어지는 농가 주변의 좁은 도로로, 평소 인적이 드문 곳이다.&lt;br&gt;&lt;br&gt;차량 내부에서 인화 물질은 발견되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 시신 신원 확인을 위해 DNA 감식을 의뢰하고, 인근 CCTV를 분석하는 등 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “차량 소유주 명의는 확인했지만, 발견된 시신이 차량 소유주인지 확인되지 않았다”며 “모든 가능성을 열어두고 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구시, 시민 참여 체납관리단 통해 소액 체납자 실태조사 나서 </title>
+      <link>https://www.chosun.com/national/regional/2026/03/24/4YQ7TBGGWBFN5L7RZGZX453Z7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/4YQ7TBGGWBFN5L7RZGZX453Z7M/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 08:58:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLOLFJ5EXQLLRC5VRAZFNQGBTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격동 청사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 올해 고액 체납자에 대한 강도 높은 체납 징수 활동과 함께 소액 체납자에 대한 실태 조사도 진행한다고 24일 밝혔다. 일반 시민이 참여하는 ‘체납관리단’을 발족해 소액 체납자 현황 조사 등을 통해 생계형 체납자에 대해서는 복지 부서와 연계해 공적 지원도 병행할 계획이다.&lt;br&gt;&lt;br&gt;대구시는 지난해 500만원 이상 고액 체납자를 대상으로 징수 전담 ‘책임징수제’를 운영했다. 이를 통해 지난해 체납액 1015억원 중 505억원(징수율 49.8%)을 거둬들여 9년 연속 지방세 체납 징수율 전국 1위를 달성했다. 이에 대구시는 올해도 상·하반기 2차례에 걸쳐 ‘지방세 체납액 집중 정리 기간’을 운영하는 등 강도 높은 체납 징수 활동을 벌일 계획이다. &lt;br&gt;&lt;br&gt;이와 함께 하반기(7월)에는 일반 시민이 참여하는 ‘체납관리단’을 발족해 기존 고액 체납자 중심의 체납자 실태 조사를 소액 체납자까지 확대할 계획이다. 체납관리단은 주소지 방문과 전화 상담을 통해 체납자의 실제 납부 능력과 생활 실태 등을 파악해 유형별 맞춤형 징수 활동을 추진할 방침이다. 이를 통해 생계형 체납자에 대해서는 분할납부와 정리보류 등을 통해 세부담을 완화하고, 복지 부서와 연계해 공적지원도 병행할 예정이다. &lt;br&gt;&lt;br&gt;오준혁 대구시 기획조정실장은 “체납관리단 운영을 통해 체납자 실태를 보다 정확히 파악하고 맞춤형 징수 활동을 추진할 것”이라며 “악의적 납세 회피 체납자에 대해서는 엄정 대응하되, 생계형 체납자에 대해서는 경제적 재기를 지원하는 균형 있는 세정을 펼치겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 헌재, 재판소원 26건 각하...전원재판부 회부 없어</title>
       <link>https://www.chosun.com/national/court_law/2026/03/24/IV5RBQGXU5AIJNHBWRGLUDQHVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/IV5RBQGXU5AIJNHBWRGLUDQHVI/</guid>
@@ -829,15 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTENJRMEZWMYRXMJQTEYJRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울행정법원에서 열린 사회보장 전담재판부 간담회 모습. /서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원이 장애인·노인·임산부·아동 등 사회적 약자를 위한 ‘한국형 사회법원’ 구축에 나선다. 사회보장 사건 전문성을 높이고, 판결문은 쉬운 말로 쓰고, 소송 비용 부담은 줄이는 것이 핵심이다.&lt;br&gt;&lt;br&gt;서울행정법원은 독일의 사회법원 모델을 국내 법 체계에 맞게 적용해 한국형 사회법원을 추진하는 안건을 23일 전체 판사회의에서 논의한다고 밝혔다. 구체적으로 △사회보장 전담재판부 확대·개편 △쉬운 판결문 도입 △소송구조(재판을 받는 데 드는 비용을 국가가 대신 내주는 제도) 확대를 추진한다.&lt;br&gt;&lt;br&gt;독일 사회법원은 연금·장애급여·실업급여 등 사회보장 분야 분쟁만 전담하는 특수법원으로 핵심 원칙은 ‘원고 친화성’이다. 일반 소송에서는 원고가 직접 증거를 모으고, 변호사를 선임해 주장을 입증해야 한다. 비용도 원칙적으로 원고 부담한다. 하지만 독일 사회법원은 장애인이나 수급자가 소장을 낼 때 인지대(소송 수수료)가 없고, 판사가 직접 사실 조사에 나선다. 원고가 무슨 주장을 해야 할지 모르더라도, 법원이 먼저 설명해줄 의무가 있다. 사회보장 분쟁의 상대방은 대개 국가나 공공기관으로 사회적 약자인 원고가 불리할 수밖에 없기 때문에 이를 법원이 보완하는 것이다.&lt;br&gt;&lt;br&gt;기존 서울행정법원의 ‘사회보장 전담재판부’는 산업재해 사건을 전담으로 맡아왔다. 이를 올해부터는 장애인·노인·임산부·아동 관련 사건 전반으로 확대했다. 3월 현재 합의부 6곳과 단독 판사 7명이 사회보장 사건을 전담하고 있다.&lt;br&gt;&lt;br&gt;‘쉬운 판결문’도 시범 도입한다. ‘이지 리드(Easy Read)’라고도 불리는 쉬운 판결문은 복잡한 법률 문서를 짧고 쉬운 문장·그림으로 바꿔 쓰는 것이다. 예컨대 보통 판결문에는 ‘원고의 청구는 이유 없다’ 같은 법률 용어가 쓰이는데, 이를 ‘원고는 수어 통역을 거쳐야 하는 청각장애인이므로, 다른 사람보다 더 많은 면접 시간이 주어졌어야 했다고 주장했습니다. 하지만 재판부가 세심하게 살펴본 결과, 면접 과정은 불공평하지 않았습니다’와 같이 누구나 이해할 수 있는 말로 소송 결과를 전달하는 것이다.&lt;br&gt;&lt;br&gt;소송구조도 확대한다. 장애 유형별 전문 변호사 풀(pool)을 구성하고, 장애 관련 사건은 접수 단계에서 원칙적으로 전액 소송구조를 받을 수 있게 된다. 거동이 어려운 중증 장애인에게는 주거지 근처 변호사를 배정하는 ‘찾아가는 소송구조 서비스’도 도입한다.&lt;br&gt;&lt;br&gt;서울행정법원은 법원행정처에 소송구조 변호사 보수를 현행 대비 4~5배(400만~500만원)까지 올리는 예규 개정을 요청한 상태다. 전문 공익 변호사의 참여를 끌어올리기 위한 조치다. 법률구조공단과의 업무협약을 통해 장애인 당사자에게 먼저 연락하는 ‘보다 쉬운 변호사 연결 서비스’도 추진하고 있다.&lt;br&gt;&lt;br&gt;한국형 사회법원은 올해 2월 부임한 정선재 법원장과 강우찬 수석부장판사가 주도적으로 추진하고 있다. 정 법원장은 사법연수원 기획총괄 교수이던 2009년 국내 최초의 시각장애인 판사인 최영 판사(당시 사법시험 합격자)의 연수원 입소를 직접 총괄했다. 서울고법 재판장을 맡던 2023~2026년 업무 과중으로 자살한 중간관리자 사건, 화학물질 노출로 췌장암에 걸린 근로자 사건 등 1심에서 기각된 사회보장 사건을 항소심에서 잇따라 뒤집는 판결을 했다.&lt;br&gt;&lt;br&gt;강 수석부장판사는 2022년 국내 최초로 ‘쉬운 판결문’을 작성한 판사로 알려져 있다. 지적장애인 원고가 장애인 일자리 사업에서 불합격 처분을 받은 사건을 기각하면서 판결문 주문 옆에 “안타깝지만 원고가 졌습니다”라고 적고, 그림과 쉬운 말로 요약한 판결문을 붙여 주목받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>아시아 최대 ‘위성 민간 지상국’, 제주에 문 연다</title>
-      <link>https://www.chosun.com/national/regional/2026/03/23/GUWKIJPS5FEKDGKFSNTJLD3HV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/GUWKIJPS5FEKDGKFSNTJLD3HV4/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 04:14:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QT4TBAG4HVAVNEVVLAZIWYK7CI.png"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 한림읍에 들어선 아시아 최대 규모 컨텍 아시안 스페이스 파크 조감도./컨텍&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 최대 규모의 위성 민간 지상국이 제주에 들어선다.&lt;br&gt;&lt;br&gt;제주도는 컨텍 스페이스그룹이 다음 달 2일 오전 10시 제주시 한림읍 상대리 일대에서 ‘컨텍 아시안 스페이스 파크(제주 ASP)’ 개관식을 진행한다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;제주 ASP는 1만7546㎡ 규모의 부지에 200억원을 들여 조성됐다. 제주 ASP는 컨텍의 자체 안테나와 글로벌 파트너사의 위성용 안테나(저궤도 및 정지궤도) 12기가 집결된 국내 유일의 ‘민간 안테나 팜(Farm)’이다. 아시아 최대 규모의 민간 우주 지상국 단지로 전 세계 우주 기업들이 데이터를 교환하고 새로운 비즈니스 가치를 창출하는 아시아 스페이스 허브를 목표로 한다. 제주 ASP는 앞으로 인공지능을 기반으로 한 데이터센터를 추가로 구축해 단순 위성 데이터 수신을 넘어 분석과 전 처리를 현장에서 수행하는 ‘우주 데이터 올인원 허브’로 기능을 확장한다는 계획이다. &lt;br&gt;&lt;br&gt;컨텍은 다목적 실용 위성 아리랑 7호를 포함한 국내 다목적 실용 위성 사업에서 데이터 처리 관련 업무를 수행해 왔다. 이를 통해 국가 위성 프로그램 운용 과정에서 일정 수준의 수행 경험을 축적해 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사업 구조 측면에서는 지상국을 서비스 형태로 제공하는 GSaaS(Ground Station as a Service) 모델을 운영하고 있다. 이는 지상국 구축 이후에도 위성 운용 기간 동안 서비스 계약이 지속되는 구조로, 정부 및 민간 위성 운용 수요 증가와 맞물려 활용 범위가 확대될 가능성이 있다. 업계에서는 우주항공청 출범 이후 실제 운용 인프라와 상용 서비스 경험을 보유한 기업을 중심으로 관련 사업 기회가 확대될 것으로 보고 있다. 위성 운용과 데이터 활용이 정책의 중심으로 이동하면서, 지상국의 중요성이 한층 커질 것이라는 분석이다.&lt;br&gt;&lt;br&gt;제주 ASP 준공은 인프라 확충을 넘어 제주를 아시아 우주 비즈니스 전략 거점으로 부각시키는 효과를 낼 것으로 제주도는 기대하고 있다. 제주도는 민간 주도 우주 산업과 지상국 인프라 성장 가능성에 주목하며, ASP 구축과 준공 과정 전반에 걸쳐 행정 및 제도적 지원을 해 왔다.&lt;br&gt;&lt;br&gt;컨텍 관계자는 “ASP는 전 세계 우주 기업들이 데이터를 교환하고 새로운 비즈니스 가치를 창출하는 아시아의 핵심 스페이스 허브로 성장할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>감사원 컨설팅에 풀린 ‘반도체 물길’… 1년 지연 위기 탈출</title>
       <link>https://www.chosun.com/politics/goverment/2026/03/23/UEGQDLWTQZATZLCZN3CIEV4KQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/03/23/UEGQDLWTQZATZLCZN3CIEV4KQA/</guid>
@@ -866,19 +914,6 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 04:22:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 최근 시행된 ‘법 왜곡죄’와 관련해 총 8건의 고소·고발을 접수하고 수사에 착수했다. 이 중에는 일선 경찰 수사관에 대한 신고 3건도 포함됐다.&lt;br&gt;&lt;br&gt;23일 박정보 서울경찰청장은 정례 기자간담회에서 “현재 법 왜곡죄 관련 8건을 접수했다”며 ”이 가운데 3건은 광역수사단 반부패수사데에서, 나머지 5건은 일선 경찰서에서 수사하고 있다″고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 서울청 광역수사단 반부패수사대는 조희대 대법원장, 지귀연 부장판사, 조은석 특별검사 관련 사건을 맡았다. 일선 경찰서에 배당된 나머지 5건은 주로 개인 판결에 대한 불만이나 경찰 수사관을 대상으로 한 고소·고발이다.&lt;br&gt;&lt;br&gt;다만 일각에선 경찰의 법 전문성이 부족하다는 지적도 나왔다. 이에 대해 박 청장은 “광역수사단만 해도 변호사 자격증을 갖춘 인원이 50명”이라며 “왜 법 전문성이 떨어진다고 생각하는지 모르겠다”고 했다. 이어 “법 왜곡죄는 처음 수사하기 때문에 전문가 자문도 구해야 할 것 같고 고민을 하고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;일선 수사관들의 수사가 위축된다는 우려에 대해 박 청장은 “법과 원칙에 따라 수사해야 한다고 당부했다”고 했다.&lt;br&gt;&lt;br&gt;지난 12일 시행된 법 왜곡죄는 형사 사건을 맡은 판·검사가 타인에게 위법 또는 부당하게 이익을 주거나 권익을 해할 목적으로 재판 및 수사 중인 사건과 관련해 법을 왜곡할 때 10년 이하의 징역이나 10년 이하 자격정지에 처하도록 규정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“부산 글로벌특별법 조속 처리해야”… 박형준 시장, 국회서 ‘삭발’</title>
-      <link>https://www.chosun.com/national/regional/2026/03/23/BSWAWQGI2ZHR3EPBHATIK33GRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/BSWAWQGI2ZHR3EPBHATIK33GRE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 01:15:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEZ7B67KVBGAHPLBDA3HC6AJ2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장이 23일 서울 여의도 국회 본청계단 앞에서 열린 부산 글로벌허브도시특별법 관련 긴급기자회견에서 삭발을 하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박형준 부산시장이 23일 국회의사당 앞에서 ‘부산글로벌허브도시특별법’의 조속한 제정을 촉구했다. &lt;br&gt;&lt;br&gt;장동혁 국민의힘 대표와 지도부, 정동만 국민의힘 부산시당 위원장, 지역구 국회의원 등 30여 명이 참석했다. &lt;br&gt;&lt;br&gt;이번 기자회견은 지난 11일 부산글로벌허브도시특별법 입법 공청회 이후, 전북과 강원 특별법이 국회 행정안전위원회 소위원회를 통과했지만, 부산은 소위원회에 상정조차 되지 않은 상황에서 마련됐다. &lt;br&gt;&lt;br&gt;부산시는 “이미 2년 전에 동일한 절차를 거친 부산 특별법만 논의에서 제외된 것은 납득하기 어렵다”며 입법 지연과 형평성 문제를 제기했다.&lt;br&gt;&lt;br&gt;박 시장은 국회의사당 정문 앞 계단에서 특별법 제정 의지를 담아 삭발을 강행했다. 삭발 후 박 시장은 “이미 국회 공청회까지 진행된 법안이 소위에 상정되지 못한 것은 납득하기 어려운 일”이라며 “민주당은 부산 차별을 멈추고 160만 부산 시민이 서명한 부산 발전 특별법의 발목을 잡지 말라”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “부산글로벌허브도시 특별법은 부산만의 법이 아니라 대한민국의 미래 성장 전략을 담은 국가 발전 전략”이라 강조하며, “국회가 조속히 소위원회 상정과 심의를 진행해 신속한 입법이 이뤄져야 한다”고 특별법 제정을 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EY7AHOBDVZB2XMODTR5BFRHLSI.jpg?auth=dcd3edb4acd9676ea09d0c929e4e3f5096583a36b68d68df05a230fa55a478b9&amp;smart=true&amp;width=2721&amp;height=1531" type="image/jpeg" height="1531" width="2721">
-        <media:description type="plain">[서울=뉴시스] 조성봉 기자 = 박형준 부산시장이 23일 오전 서울 여의도 국회 본청계단에서 열린 부산 글로벌허브도시특별법 관련 긴급기자회견에서 삭발을 하고 있다. 2026.03.23. suncho21@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">조성봉</media:credit>
-      </media:content>
     </item>
     <item>
       <title>“가족수당은 장남만, 조사용품은 친조부모만”...인권위 ‘전통 가족관 차별’ 제동</title>
@@ -915,42 +950,6 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 02:02:38 +0000</pubDate>
       <content:encoded>검찰이 23일 유가 담합을 벌인 것으로 의심되는 정유사들에 대한 강제 수사에 착수했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRTI5S4MCVNNDIN5MEQGAJ2FEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석유 최고가격제 시행 첫날인 지난 13일 제주 시내 한 주유소 가격 안내판에 유가 정보가 게시되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 오전 9시부터 SK에너지, GS칼텍스, 에스오일, HD현대오일뱅크에 대한 압수수색을 벌이고 있다. 4개 업체를 회원사로 둔 사단법인 한국석유협회도 압수수색 대상에 포함됐다. 이들 업체는 미국·이스라엘과 이란 간 전쟁을 계기로 유가를 담합한 혐의(공정거래법 위반)를 받는다.&lt;br&gt;&lt;br&gt;현재 정부는 지난 13일부터 석유 최고가격제를 시행하는 등 국제 유가 상승분이 주유비 상승으로 이어지지 않도록 대응하고 있다. 이재명 대통령은 “석유 최고 가격제를 어기는 주유소를 발견하면 즉시 제게 신고하라”고 자신의 소셜미디어에 글을 올리는 등 적극적으로 기름값 인하 압박을 이어가고 있다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관도 지난 6일 유가 담합 행위에 대해 ‘반사회적 중대 범죄행위’라고 규정하면서 대검찰청에 “법과 원칙에 따라 엄정대응하라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제약회사로부터 뒷돈 받은 의사...법원 “자격정지 정당”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/GCVY5QDQVVG7BK7BOHTYAWZ7ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/GCVY5QDQVVG7BK7BOHTYAWZ7ME/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 01:02:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4H6PKZGURKTM5H5U4BIZO2KVZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. 행정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제약회사로부터 뒷돈을 받은 의사에게 내려진 자격정지 처분이 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 지난 1월 서울 서초구에서 병원을 운영하는 A씨가 보건복지부 장관을 상대로 낸 의사면허자격정지처분취소 소송에서 A씨의 청구를 기각했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2016년 9월부터 2017년 7월까지 제약업체 영업사원으로부터 특정 의약품을 사용하고 환자들에게 처방을 유도하는 등의 목적으로 980만원을 받았다. 이에 A씨는 2022년 1월 의료법위반 혐의로 벌금 700만원 및 추징금 921만원을 선고 받았고, 지난해 3월에는 구 의료법을 위반했다는 이유로 보건복지부로부터 자격정지 4개월 처분을 받기도 했다.&lt;br&gt;&lt;br&gt;A씨는 공소시효가 지났다며 자신에 대한 자격정지 처분을 취소해야 한다고 했다. 의료법상 자격정지처분은 사유 발생시로부터 5년 내에 이뤄져야 하는데, 공소제기일이 2022년 1월이기에 돈을 받은 일부 행위는 5년의 시효가 완성됐다고 했다. &lt;br&gt;&lt;br&gt;또 시효가 남은 시기에 수령한 돈은 241만원이라 자격정지 처분이 아닌 경고처분만 가능하다고 주장하기도 했다. 구 의료법에 따르면 부당한 경제적 이익 등을 통해 300만원 미만의 돈을 받은 의사에게는 경고 처분이 내려진다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 비위행위가 계속적으로 행하여진 ‘일련의 행위’라고 판단하고 A씨의 청구를 기각했다. 재판부는 “각 범죄행위가 시간적으로 근접하고, A씨가 운영하는 병원 진료실에서 돈을 수수했다”며 “돈 수수의 목적, 제공자와 수령자의 각 지위 등을 종합하면 각 범죄행위는 단일한 범죄의사에 의한 하나의 계속적 범죄라 할 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “보험사 치료비, 공단 급여와 다르면 책임 보험금서 빼야”... 파기 환송</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/26XWOEBVHNEBBPOWLC2LBKK5ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/26XWOEBVHNEBBPOWLC2LBKK5ZM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 01:16:04 +0000</pubDate>
-      <content:encoded>보험사가 사고 피해자에게 준 치료비가 근로복지공단의 보험금과 보완적 관계가 아니라 별개의 보험금이라면, 보험사가 공단에 낼 책임보험금도 줄어든다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRGMOBWGA3TGNDDGQ2DGYJQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대법원 1부(주심 마용주 대법관)는 최근 공단이 현대해상화재보험을 상대로 제기한 구상금 소송에서 원고 일부승소한 원심 판결을 깨고 사건을 대전지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;퀵서비스 근로자 A씨는 2018년 5월 대전에서 오토바이를 타고 다른 차선으로 진입하던 중 후방에서 들어오던 차와 부딪혀 골절 등 상해를 입었다. 공단은 산업재해보상보험법에 따라 A씨에게 치료비 명목의 요양급여 841만원 등 총 2576만원 상당의 보험금을 지급했다. 가해자 측 보험사인 현대해상은 A씨의 치료비 총 712만원을 병원에 직접 지급했다. 현대해상이 피해자에게 지급한 치료비 일부는 공단이 지급한 요양급여 내역과 비교했을 때 치료 기간과 항목이 달랐다. 이후 공단은 가해자 측 보험사인 현대해상에 구상금을 청구하면서 소송이 불거졌다.&lt;br&gt;&lt;br&gt;이 사건 쟁점은 현대해상이 이미 지급한 치료비를 공단에 낼 책임보험금에서 공제할 수 있는지 여부였다. 현대해상은 A씨의 치료비를 이미 지급한 만큼 공단에 지급할 책임보험금에서 이를 빼야 한다고 주장했다.&lt;br&gt;&lt;br&gt;1심과 항소심은 모두 원고 일부 승소로 판결했다. 특히 항소심은 피해자가 사고로 1554만원가량의 손해를 입었고, 사고로 인한 요양 기간 중 제대로 일을 하지 못해 636만여 원의 추가 손해를 입었다고 판단했다. 현대해상은 가해자의 과실 비율 70%를 각각 반영한 1088만원과 445만원을 더한 뒤, 앞서 지급한 치료비 712만원을 뺀 821만원을 지급할 의무가 있다고 본 것이다. 이는 상해 책임보험금 한도 금액 1000만원 이내여서 현대해상이 보험금 전액을 지급할 의무가 있다고 원심은 봤다.&lt;br&gt;&lt;br&gt;그러나 대법원은 항소심이 공제를 일률적으로 한 것은 심리 미진이라고 보고 판결을 파기한 것이다. 대법원은 “보험사 치료비가 공단 보험급여와 치료 기간 또는 항목을 달리한다면 상호보완적 관계에 있지 않으므로 공단에 지급될 책임보험금에서 공제돼야 할 여지가 크다”고 판시했다. 현대해상이 비용을 낸 치료와 공단 측이 보험금을 지급한 치료가 동일한지 여부를 먼저 따져봤어야 했다는 얘기다. &lt;br&gt;&lt;br&gt;대법원은 “원심은 현대해상이 지급한 치료비가 보험급여와 상호보완적 관계에 있는지를 심리한 뒤 관계가 없는 치료비는 공단에 지급할 책임보험금에서 공제해야 했다”며 “그러한 심리를 하지 않은 채 치료비를 미리 공제한 것은 법리 오해에 해당한다”고 했다. 대법원 관계자는 “보험자가 피해자에게 책임 보험금으로 지급한 돈이 보험급여와 상호보완적 관계에 있지 않다면 이는 보험자가 공단에 지급할 책임 보험금에서 공제되어야 한다는 것이 건강보험 및 산재보험 모두에서 확립된 판례 법리”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“무죄 이끈 변호사에 성공보수” 2심서 인정… 11년 만에 판례 바뀌나</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/AQGFP63XP5ETJBQPAGSKFN6BIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/AQGFP63XP5ETJBQPAGSKFN6BIU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>2015년 대법원 판결로 무효화된 변호사 형사 사건 ‘성공 보수’ 문제가 다시 대법원 판단을 받게 됐다. 올 초 기존 판례에 맞서는 하급심 판단이 나왔다. 이 판결에 대한 대법원 심리를 앞두고 변호사 업계가 들썩이고 있다.&lt;br&gt;&lt;br&gt;성공 보수는 2015년 7월 대법원 전원합의체 전원일치 의견으로 무효화됐다. 당시 대법원은 “성공 보수금은 변호사 직무의 공공성·독립성을 해치고, 사법 제도의 국민 신뢰를 떨어뜨릴 위험이 있어서 무효로 한다”고 판시했다. 구속이나 보석, 무죄·집행유예 판결 등을 두고 조건부로 약정한 성공 보수는 법적으로 인정받을 수 없다는 것이다.&lt;br&gt;&lt;br&gt;그런데 지난달 한 항소심 재판부가 이 판례에 맞서는 판결을 내렸다. 서울중앙지법 민사항소1-3부(재판장 최성수)는 A 법무법인이 성공 보수를 주지 않는다며 60대 의뢰인 B씨를 상대로 낸 약정금 반환 소송에서 1심을 뒤집고 법무법인 손을 들어줬다. 변호사가 부당한 청탁이나 인맥이 아닌 충실한 변론 준비와 법리 연구를 통해 무죄 판결을 이끌어냈기 때문에 약속한 성공 보수를 받아야 한다는 것이다. 재판부는 “경제적 여력이 충분한 B씨가 변호사에게 감사 인사까지 해놓고 성공 보수를 안 주는 것은 대법원 판례를 악용한 것”이라고 했다.&lt;br&gt;&lt;br&gt;B씨는 심부름센터를 고용해 며느리의 불륜 증거를 잡으려고 한 혐의(통신비밀보호법) 등으로 1심에서 징역 4개월에 집행유예 2년을 선고받았다. B씨가 아들과 이혼 소송 중이던 며느리의 뒤를 캐기 위해 심부름센터를 고용하고, 며느리 집 현관 앞에 몰래 카메라를 설치해 부적절한 장면을 촬영한 뒤 이를 며느리의 직장에 보내 징계를 요구한 혐의 중 일부가 유죄로 인정됐다.&lt;br&gt;&lt;br&gt;하지만 항소심에서 무죄로 뒤집혔다. A 법무법인 소속 변호사는 실제 B씨가 몰래카메라 설치까지 의뢰하지는 않은 점, 며느리의 사생활이 외부에 알려지지 않은 점 등을 강조해 무죄를 받아냈고, 이 판결은 대법원에서 확정됐다. 이후 B씨는 감사하다고 인사만 했을 뿐, 무죄 확정 시 약정한 성공 보수 3300만원을 주지 않고 연락을 끊었다.&lt;br&gt;&lt;br&gt;그러자 A 법무법인이 성공 보수를 달라고 소송을 낸 것이다. 법무법인 관계자는 “판례에 맞서는 소송이어서 승소 가능성이 없다는 걸 알면서도, 3년 동안 밤낮없이 고생한 것이 억울해서 다퉈보고 싶었다”고 했다. 대법원 판례대로 1심은 A 법무법인 패소였지만, 항소심에서 뒤집혔고 곧 대법원에서 심리가 시작된다.&lt;br&gt;&lt;br&gt;변호사들은 “성공 보수 무효화가 여러 부작용을 낳고 있다”고 주장한다. 한 변호사는 “성공 보수가 없어지면서 착수금을 올려받아 초기 선임 비용이 높아졌다”고 했다. 2023년 서울지방변호사회가 변호사 965명을 대상으로 한 실태조사에서 응답자 49.5%가 형사 사건 착수금이 높아졌다고 답했다. 반면 “성공 보수를 계속 금지해야 한다”는 목소리도 여전하다. 한 변호사는 “성공 보수는 의뢰인이 원하는 결과를 기대하며 주는 돈 아니냐”며 “결국 돈 있는 사람들에게만 유리해 ‘유전무죄 무전유죄’ 같은 사법 불신을 키울 것”이라고 했다. 이런 가운데 대한변호사협회와 서울지방변호사회 등은 최근 “대법원 판례를 바꿔달라”는 내용의 서명 운동을 벌이고 있다. 법조계 일각에서는 전체 수임료가 올라가지 않게 통제 장치를 두자는 의견도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 대신 중수청이 수사… 남은 건 ‘보완수사권’ 유무</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/KRSKVMVKHZCBRCSSGMJWWTM34A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/KRSKVMVKHZCBRCSSGMJWWTM34A/</guid>
-      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>더불어민주당이 공소청법에 이어 지난 21일 중대범죄수사청(중수청)법까지 국회에서 일방 처리하면서 수사·기소권 분리를 핵심으로 하는 현 여권의 검찰 개편이 마무리 단계에 들어섰다. 오는 10월 검찰청이 78년 만에 폐지되면 중수청과 경찰이 수사를, 공소청이 기소를 맡게 된다. 검찰 내부에선 “조직이 사망 선고를 받았는데 찍소리도 못해 무기력하다” “검사의 보완수사권만이라도 지켜야 한다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;국회를 통과한 중수청 신설법에 따르면, 중수청 수사관은 검찰을 대신해 부패·경제·마약·방위사업·국가보호·사이버 범죄 등 6개 중대 범죄를 수사한다. 판·검사의 법왜곡죄와 공소청·경찰·공수처·법원 공무원의 재직 중 범죄도 수사 대상이다. 애초 정부안에는 중수청이 수사 개시 때 공소청 검사에게 통보하는 등 검사의 사법 통제 부분이 있었지만, 최종 법안에서 모두 삭제됐다. 앞서 통과된 공소청법도 특별사법경찰관(특사경)에 대한 지휘·감독권 등 검사의 통제 기능을 없앴다.&lt;br&gt;&lt;br&gt;한 차장검사는 “공소청법·중수청법을 통해 수사와 법률 전문가인 검사를 사실상 안락사시킨 것”이라며 “몇 안 되는 권한마저 빼앗았으니 공소청 검사들이 책임감 있게 일하기를 기대하기는 어렵게 됐다”고 했다. 수도권 지검의 한 평검사는 “묵묵히 최선을 다하는 다수의 검사까지 정치권이 악마화하며 조직을 통째로 문 닫게 만들었다”고 말했다.&lt;br&gt;&lt;br&gt;검찰 개편과 관련한 남은 쟁점은 검사의 보완수사권이다. 현행 형사소송법에 있는 검사의 보완수사권 조항을 유지하느냐, 없애느냐다. 한 부장검사는 “보완수사권은 피해자 보호를 위한 최소한의 안전 장치로 남겨야 한다. 검사가 사건 관계인을 한 번이라도 더 만나 사실관계를 확인하고 증거를 보완해야 제대로 된 가해자 기소와 처벌이 가능하다”고 했다. 최근 정부 검찰개혁추진단 자문위원장에서 물러난 박찬운 한양대 교수도 “적절한 통제 장치가 없다면 검찰 개혁이 결국 ‘공룡 경찰’을 만들었다는 비판을 면할 수 없게 된다”면서 “현실적인 통제 수단은 전건(全件) 송치와 보완수사”라고 했다.&lt;br&gt;&lt;br&gt;법무부도 전건 송치와 보완수사권이 필요하다는 입장이다. 하지만 민주당 강경파는 “검사의 수사 개입은 차단해야 한다”며 보완수사권 폐지를 주장한다. 민주당은 6월 지방선거 이후 형사소송법 개정안을 논의할 계획이다.&lt;br&gt;&lt;br&gt;이런 가운데 임은정 서울동부지검장은 공소청법 통과 직후 페이스북에 글을 올려 “이날을 간절히 기다려왔는데 만감이 교차한다”며 “일몰의 검찰을 마무리하고 새로운 내일을 맞을 준비를 하겠다”고 했다. 임 지검장은 앞서 검사직을 버리고 중수청 수사관으로 가겠다는 뜻을 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아버님, 이어폰 오래 끼면 보청기 껴야 돼요”</title>
