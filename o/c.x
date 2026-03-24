@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 3월 25일</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/24/GE7VPDKAINCBNEEBIDQQ62RNCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/24/GE7VPDKAINCBNEEBIDQQ62RNCU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 14:32:00 +0000</pubDate>
+      <content:encoded>일교차 크지만 낮엔 포근&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRNI6DFKL5GILCT6TUQQUV3WPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 공장 과거 7차례 불... 몇천원짜리 감지기도 고장 수두룩</title>
+      <link>https://www.chosun.com/national/regional/2026/03/24/YZMSKHG6GRD5VNF5JM4RGUF3S4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/YZMSKHG6GRD5VNF5JM4RGUF3S4/</guid>
+      <dc:creator>대전=신정훈 기자, 대전=양인성 기자, 대전=김석모 기자, 대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 11:35:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW5E3IKBABLTNNNR3YQXM5XE74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일  대전 대덕구 소재 자동차 부품 제조업체 안전공업(주) 화재 사고와 관련해 소방당국이 2차 감식을 진행했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;ㅇ지난 20일 화재 참사로 74명의 사상자가 나온 대전 대덕구 자동차 부품 회사 ‘안전공업’에 과거 7차례 불이 나 소방 당국이 출동했던 사실이 확인됐다. 대부분이 집진기에 쌓인 분진·슬러지(찌꺼기)나 덕트(배기관) 내부 기름때에 불이 붙어서 난 사고였다. 여러 차례 ‘경고 신호’가 있었는데도 사측이 안전 점검과 설비 보강을 제대로 하지 않고 방치한 탓에 이번 참사의 피해가 커진 것 아니냐는 지적이 나온다. &lt;br&gt;&lt;br&gt;24일 대전소방본부에 따르면, 2009년부터 2023년까지 15년간 안전공업이 소방 당국에 신고한 화재는 총 7건이다. 2009년 1월 천장 배기관 안 기름때에 불이 붙었고, 2012년 4월, 2017년 1월, 2019년 7월에는 집진기 분진에 불이 났다. 2023년엔 5월과 6월 두 차례나 화재가 발생했다. 모두 작업 중 생긴 불티가 슬러지나 분진에 떨어진 탓이었다. 2020년 9월 담배꽁초 때문에 불이 난 것을 제외하고 6건 모두 기름때, 분진에서 화재가 난 것이다. 안전공업 직원들 사이에선 “작은 불은 소화기로 직접 끄고 말았다” “불이 나도 쉬쉬하는 분위기였다”는 증언도 나오고 있어, 실제 화재 건수는 이보다 많을 가능성이 있다.&lt;br&gt;&lt;br&gt;안전공업이 자체 진행한 소방 점검에서도 기본 소방 설비가 부실하다는 지적이 여러 차례 나온 것으로 드러났다. &lt;br&gt;&lt;br&gt;소방 당국에 따르면, 지난해 점검 결과 공장 1층 ‘차동식 감지기’가 제대로 작동하지 않는 것으로 나타났다. 차동식 감지기는 주변 온도가 갑자기 오를 때 울리는 열 감지기다. 소방 관계자는 “1개당 몇천원에 불과한 설비인데도 교체하지 않은 것”이라고 했다. 1층 생산 라인 곳곳에 설치돼 있는 연기 감지기 역시 ‘불량’으로 나왔다. 이 밖에 불이 나 정전이 됐을 때 출구 방향을 알려주는 ‘통로 유도등’이 켜지지 않고, 옥내 소화전으로 물을 끌어오는 펌프실의 압력이 부족하다는 점 등 총 43건의 지적이 있었다. 화재 초기 감지와 대피, 진화와 관련한 기본 설비 전반에 문제가 있었던 셈이다. &lt;br&gt;&lt;br&gt;한 해 전인 2024년 2차례 점검 때도 총 28건의 ‘불량’이 적발됐다. 공하성 우석대 소방방재학과 교수는 “화재 이력이 있는 사업장은 일반 시설보다 훨씬 엄격히 관리해야 하는데도 감지·경보 체계가 무너진 것은 구조적 관리 실패”라고 했다. &lt;br&gt;&lt;br&gt;경찰과 소방은 이날 불이 난 공장 건물과 시설물 구조를 확인하는 등 현장 감식을 진행했다. 노동 당국은 손주환 안전공업 대표와 안전관리 책임자 등을 중대재해처벌법 등 위반 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJPPEF7NPZB5NJGTWTGXDAG5RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손주환 안전공업 대표가 지난 23일 경찰의 압수수색이 진행 중이던 대전 대덕구 안전공업 사무실로 들어가고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 중대재해처벌법 위반 등의 혐의로 입건된 안전공업 손주환 대표이사가 회사 임직원을 상대로 폭언을 했다는 주장이 제기돼 논란이다.&lt;br&gt;&lt;br&gt;언론에 공개된 녹취록 등을 보면, 이날 손 대표는 임직원을 모아 놓고 언론 제보자를 찾아야 한다는 취지로 “야. 어떤 X이 (기자를) 만나는지 말하란 말야”라고 했다. &lt;br&gt;&lt;br&gt;손 대표는 또 ‘유족을 만나러 가야한다’며 만류하는 상대방을 향해 “뭘 가만히 있어봐. 유가족이고 XX이고 간에”라고 했다.&lt;br&gt;&lt;br&gt;이번 화재의 일부 희생자는 뒤늦게 대피해 숨졌다는 취지의 발언도 나왔다. 손 대표는 “이번에 타 죽은 사람이 누가 있는지 알아. 늦게 나온 사람이. 늦게 나오면 돼, 안되겠어”라고 했다.&lt;br&gt;&lt;br&gt;노조 관계자는 “본사 주요 임직원이 있는 모인 자리에서 어떤 발언이 있었는지는 확인 중이다”이라며 “피해 보상과 엄벌이 이뤄지도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통일교가 산 명품시계, 전재수 지인이 수리한 기록 확보</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/24/X2DOC2NTRBADDJ2BJ3ZU2XIDTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/X2DOC2NTRBADDJ2BJ3ZU2XIDTI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 12:49:28 +0000</pubDate>
+      <content:encoded>통일교·신천지의 정교유착 의혹을 수사 중인 검경 합동수사본부(본부장 김태훈 대전고검장)가 전재수 더불어민주당 의원이 통일교로부터 받았을 것으로 추정되는 명품 시계를 특정한 것으로 24일 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTKMJXHEYGEMJSGI3WCNLDMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 더불어민주당 의원이 24일 서울 여의도 국회에서 부산 글로벌허브도시 특별법 관련 한병도 원내대표와 면담 후 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 통일교는 2018년쯤 전 의원 등 정치인 로비 목적으로 까르띠에, 불가리 등 명품 시계 여러 점을 구매한 것으로 알려졌다. 앞서 작년 12월 경찰청 특별전담수사팀은 불가리코리아와 까르띠에코리아 본사를 압수 수색해 통일교의 구매 기록 등을 확보했다.&lt;br&gt;&lt;br&gt;이 자료를 넘겨받아 수사를 이어가던 합수본은 까르띠에 시계의 시리얼 넘버를 토대로 시계의 이동 경로를 추적했고, 이 과정에서 전 의원의 지인이 통일교가 구매한 시계 중 하나를 수리한 기록을 최근 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;합수본은 전 의원이 통일교로부터 받은 까르띠에 시계를 지인에게 맡겨 수리를 했거나, 전 의원이 시계를 아예 지인에게 선물했을 가능성이 있을 것으로 보고 있다. 특히 합수본은 통일교가 시계를 구매한 시기인 2018년 8월에 전 의원이 통일교 천정궁에 방문한 사실을 파악했다. 이때 시계가 전달됐을 것으로 의심하고 있다. 수리 이력이 있는 까르띠에 시계는 2018년 당시 700만원대였으나, 현재는 1200만원대로 가격이 오른 상태다.&lt;br&gt;&lt;br&gt;합수본은 지난 19일 전 의원에 대한 피의자 조사에서도 이 부분을 집중적으로 캐물은 것으로 전해졌다. 전 의원 측은 조사에서 “시계를 수리했다는 지인은 오히려 통일교 측과 친분이 있는 사람이다. 나는 시계와 무관하다” 고 혐의를 부인했다고 한다.&lt;br&gt;&lt;br&gt;전 의원은 2018∼2020년 통일교 측으로부터 ‘한일 해저터널 건설 사업’ 지원 등 청탁을 받고 그 대가로 현금 2000만원과 1000만원 상당의 명품 시계 등을 받은 혐의(뇌물수수·정치자금법 위반 등)를 받고 있다. 이 사건은 윤영호 전 통일교 세계본부장이 민중기 특검팀 조사에서 “전 의원과 임종성·김규환 전 의원 등이 통일교 천정궁에서 까르띠에·불가리 시계, 현금 등 수천만 원 상당의 금품을 받아간 걸로 안다”고 진술했는데, 특검팀이 수사를 뭉갠 사실이 뒤늦게 알려지면서 경찰과 합수본 수사로 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“샤워 줄이고 휴대전화 충전은 낮에만”… 정부, 에너지 절약 동참 호소</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/24/CDY7ECVVNZCAZHI2JVMXWHT6XA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/CDY7ECVVNZCAZHI2JVMXWHT6XA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 11:52:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VENATOCVGZNLPMRDZZ67B2UV4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;에너지 수급 위기 대응으로 공공부문 차량 5부제 전면 시행을 하루 앞둔 가운데 24일 경기 군포시 금정동 군포시청 직원주차장에서 관계자들이 차량 5부제 협조 안내문을 부착하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이란 전쟁에 따라 원유 수급 위기가 장기화할 조짐을 보이자, 정부가 원유 자원안보위기 ‘주의’ 경보를 발령하고 전 국민에게 에너지 절약 동참을 호소했다.&lt;br&gt;&lt;br&gt;기후에너지환경부는 24일 공공부문 승용차 5부제 등 원유 자원안보위기 ‘주의’ 경보 발령에 따른 대응 계획을 보고했다.&lt;br&gt;&lt;br&gt;기후부는 우선 전기차와 수소차를 제외한 공공부문 승용차 5부제를 25일 0시를 기해 의무화한다고 밝혔다. 종료 시점은 ‘자원안보위기 경보 해제 시’까지다.&lt;br&gt;&lt;br&gt;기존에도 공공기관은 ‘공공기관 에너지 이용 합리화 추진에 관한 규정’에 따라 승용차 5부제를 시행해 왔다. 그러나 기후부는 이번에 기존 규정보다 강화된 지침을 공공기관들에 내려보냈다. 강화된 지침은 경차와 하이브리드차 등 기존에는 5부제를 적용받지 않던 차량까지 대상에 포함한 것이다. 이에 따라 공공기관 5부제 예외 차량은 ▲장애인 사용 자동차(국가유공자 차량과 장애인 동승 차량 포함) ▲임산부와 유아(미취학 아동) 동승 차량 ▲대중교통이 열악한 지역 거주자 또는 30㎞ 이상 장거리 출퇴근 차량 ▲대중교통 미운행 시간대 출퇴근 차량 ▲전기·수소차 ▲기관장이 인정하는 차량 등으로 축소됐다. 아울러 기존에는 공공기관이 소재한 시·도의 인구 수에 따라 5부제를 시행하지 않을 수 있었지만, 이번에는 그런 예외를 두지 않기로 했다.&lt;br&gt;&lt;br&gt;그간 공공기관 승용차 5부제 위반 시 페널티는 ‘청사 내 주차 금지’ 정도였지만, 이번에는 이행 결과를 점검해 경고와 징계 등 강제성을 부여할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGVQTGJAKBFSFB4WMIONS5UOBA.png"&gt;&lt;figcaption&gt;&lt;small&gt;기후부가 발표한 에너지 절약을 위한 12가지 국민 행동 요령. /기후부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공공기관 5부제 적용 차량은 공공기관 공용차와 임직원의 10인승 이하 승용차 약 150만대로, 5부제 시행 시 하루 3000배럴의 석유를 아낄 수 있는 것으로 기후부는 추산했다.&lt;br&gt;&lt;br&gt;민간은 승용차 5부제가 의무는 아니다. 기후부는 민간에 대해서는 승용차 5부제 참여를 요청하는 선에 그쳤다. 다만 원유 자원안보위기 경보 단계가 ‘경계’로 격상될 경우 의무화 방안을 검토할 예정이다. 이 경우 전기·수소차와 생계형·장애인 차량을 제외하고 약 2370만대가 5부제 적용 대상이 될 것으로 기후부는 추산했다.&lt;br&gt;&lt;br&gt;정부 에너지 절약 계획에는 공공기관과 대기업 등이 출퇴근 시간을 조정하도록 유도해 교통 수요를 분산한다는 방안도 담겼다. K-패스를 통한 대중교통 요금 할인도 검토한다.&lt;br&gt;&lt;br&gt;석유류 사용량이 많은 50개 업체에는 ‘에너지 절감 계획’ 수립을 요청하고, 자체 수립한 목표를 달성했을 때 ‘에너지 절약 시설 융자 사업’에서 우대하는 등 혜택을 주기로 했다. 이들 업체가 에너지 다소비 사업장 5156곳 가운데 에너지 소비량의 91.4%를 차지한다는 게 기후부 설명이다.&lt;br&gt;&lt;br&gt;정부는 액화천연가스(LNG) 사용량을 최소화하기 위해 석탄화력발전소와 원자력발전소 이용률을 높이고 재생에너지 발전시설을 조속히 늘린다는 방침도 재차 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJV5LFF2LFM6FGLTF23MDGCQM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 기후에너지환경부 장관이 24일 서울 종로구 정부서울청사 브리핑실에서 원유 안보위기 ‘주의’ 경보 발령에 따라 전 국민 에너지절약 동참을 호소하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후부는 에너지 절약을 위한 12가지 국민 행동 요령도 발표했다. 여기에는 승용차 5부제 참여와 함께 ‘대중교통 이용’, ‘친환경 운전’, ‘가까운 거리는 걷거나 자전거 타기’, ‘적정 실내온도 준수’, ‘불필요한 조명 끄기’ 등의 내용이 담겼다. 가정에서는 ‘샤워 시간 줄이기’, ‘전기차·휴대전화는 낮 시간에 충전하기’, ‘저녁 시간 가전제품 효율적으로 이용하기’, ‘세탁기·청소기는 주말에 사용하기’, ‘조명을 LED로 교체하는 등 고효율 가전제품 구매하기’ 등을 실천하도록 요청했다. 다만 일각에서는 휴대전화 낮 시간대 충전과 샤워 시간 줄이기 등이 에너지 사용량 절약에 어느 정도 효과가 있을지는 미지수라는 지적도 나온다.&lt;br&gt;&lt;br&gt;김성환 기후에너지환경부 장관은 “중동 상황으로 인한 에너지 수급 위기가 엄중한 만큼 정부 노력만으로는 한계가 있다”며 “다소 불편함이 따르더라도 에너지 안보 강화와 위기 극복을 위해 국민 여러분의 적극적인 참여를 부탁드린다”고 했다. 아울러 “기후부는 전 국민이 액화천연가스(LNG), 석유 등 수입 에너지 소비를 최소화할 수 있도록 에너지 절약에 적극 동참할 수 있는 여건을 조성하고, 안보를 강화할 수 있도록 지원해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘강북 모텔 살인’ 김소영 “죽고 싶다. 살기가 무섭다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/24/IDOS4HAXTNH4HK5I7FMWWUZKF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/IDOS4HAXTNH4HK5I7FMWWUZKF4/</guid>
+      <dc:creator>한영원 기자, 원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 11:53:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYDANBRGY4DEZBUMJSGGZTFG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'강북구 모텔 연쇄 살인 사건' 피의자 김소영/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강북 모텔 연쇄살인의 피의자 김소영으로부터 옥중 편지를 받았다는 주장이 나왔다. &lt;br&gt;&lt;br&gt;24일 인터넷 커뮤니티 ‘디시인사이드’에는 ‘김소영 답장’이라는 제목의 글이 올라왔다. 글쓴이는 최근 서울구치소에 수감된 김씨에게 해당 편지를 받았다며 5장 분량의 자필 편지 사진을 공개했다.&lt;br&gt;&lt;br&gt;해당 편지에서 글쓴이는 김소영에게 현재 심정과 구치소 내부 생활 등을 물었다. 답장으로 온 편지에는 “다들 내가 죽길 바랄 텐데…”라며 “어차피 무기징역일 거면 죽고 싶다”는 내용이 담겼다. &lt;br&gt;&lt;br&gt;“그냥 엄마랑 떨어지니 심적으로 다 힘들고 잠이 잘 안 오고, 맨날 우니 지친다” 등 구치소 생활이 힘듦을 호소하는 내용도 담겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AWU4NZWEVGVTNFBANOSGSTF34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 한 인터넷 커뮤니티에 올라온 편지 모습. 글쓴이는 본인이 김소영에게 편지를 보내 답장을 받았다고 주장했다./디시인사이드 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 현재 해당 편지가 실제로 김소영이 작성한 글인지는 확인되지 않은 상태다. &lt;br&gt;&lt;br&gt;앞서 지난달 19일 김소영은 20대 남성 3명에게 향정신성 의약품을 음료에 섞어 마시게 한 혐의로 구속 기소됐다. 이후 피해자 3명이 추가로 발견돼 특수상해 및 마약류관리법 위반(향정) 혐의로 추가 송치됐다. 지금까지 확인된 피해자는 최소 6명으로, 이 중 2명은 숨졌다. &lt;br&gt;&lt;br&gt;김소영의 첫 재판이 내달 9일 예정된 가운데, 사망 피해자 유족은 김소영을 상대로 민사상 손해배상 청구 소송을 제기할 예정이다. 유족 측 법률 대리를 맡은 남언호 법무법인 빈센트 변호사는 “김소영 첫 재판 시작 전에 소장을 제출할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FHS67VVD6RHZFIA7U5RANZQNIM.JPG?auth=37a6fb9d92b4cd56d5e88efcaf608be72471beed7a489dea2c4d28f05791c26f&amp;smart=true&amp;width=1267&amp;height=950" type="image/jpeg" height="950" width="1267">
+        <media:description type="plain">'강북구 모텔 연쇄 살인 사건' 피의자 김소영</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>강혜경 “통상 여론조사 계약서 안 써” 尹 재판서 법정 증언</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/24/VYHF7F4VVVBNDBUZRXXYIABRRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/VYHF7F4VVVBNDBUZRXXYIABRRQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 11:08:49 +0000</pubDate>
+      <content:encoded>명태균씨가 실질적으로 운영했다고 지목된 여론조사 업체 ‘미래한국연구소(미한연)’가 여러 정치인들과 여론조사 수행 계약을 맺을 때 별도의 계약서를 쓰지 않았다는 강혜경씨 증언이 나왔다. 미래한국연구소 부소장이었던 강씨는 윤석열 전 대통령의 ‘무상 여론조사’ 의혹을 처음 폭로한 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7W5EBNL3HVJCJCSLNBIV3VNDGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강혜경씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강씨는 24일 서울중앙지법 형사33부(재판장 이진관)에서 열린 윤 전 대통령과 명씨의 정치자금법 위반 혐의 재판에 증인으로 출석해 이 같이 증언했다. 민중기 특검팀은 윤 전 대통령이 20대 대선을 앞둔 2021년 6월부터 2022년 3월까지 명씨에게 총 58건의 여론조사 결과를 무상으로 받고, 비용 2억7440만원을 내는 대신 김영선 전 의원의 2022년 보궐선거 공천을 도왔다고 의심한다. &lt;br&gt;&lt;br&gt;이와 관련해 강씨는 “미한연은 윤 전 대통령이나 김건희 여사 두 사람과 계약서를 작성한 사실이 없다”며 “단체나 법인의 경우 계약서를 쓰지만, 통상 선거에 출마하고자 하는 개인의 경우 정치자금법 위반 우려가 있어 계약서를 안 쓰려 한다”고 했다. 이어 “2022년 선거 당시 정치인들과 계약서를 쓴 적은 한 번도 없다”며 “비용 등 상세 계약 내용은 구두로 논의했다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 강씨는 “미한연이 여론조사 의뢰자로부터 비용을 안 받기로 하고 여론조사를 수행한 적은 없는 것으로 안다”며 “명씨나 미한연이 영업 과정에서 많은 수의 여론조사를 자비로 실시한 적은 없다”고도 했다. 대선을 앞두고 명씨가 “윤 전 대통령 부부를 만나 ‘러브콜’을 받았다” “김 여사가 ‘홍준표를 이기는 여론조사를 해달라’더라”는 말을 자신에게 했고, 이후 윤 전 대통령에게 유리한 방향으로 여론조사를 조작했다고도 증언했다.&lt;br&gt;&lt;br&gt;이 같은 강씨 증언은 김 여사의 관련 혐의에 무죄를 선고한 1심 재판부 판단과는 상반된다는 게 법조계 분석이다. 서울중앙지법 형사27부(재판장 우인성)는 지난 1월 “명씨가 윤 전 대통령 부부에게 준 여론 조사 결과는 그가 자신의 영업을 위해 여러 정계 인사에게 뿌린 것일 뿐”이라고 판시했다. 명씨와 윤 전 대통령 부부가 여론조사를 지시하거나 관련 계약을 맺었다고 볼 증거가 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 檢, 김정숙 여사 ‘옷값 특활비 의혹’ 송치 요구 안 해</title>
       <link>https://www.chosun.com/national/court_law/2026/03/24/LYPMWARYJBEH3GJLVDHA2J4AAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/LYPMWARYJBEH3GJLVDHA2J4AAE/</guid>
@@ -864,19 +922,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZCTN5PHHFAX7LVZTWDBCFELFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구에서 치과를 운영하는 최성우 원장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5년 전 할머니 틀니 치료를 부탁하며 “치과 화장실 청소라도 하겠다”고 말했던 중학생이 의대생이 돼 다시 치과를 찾은 사연이 알려졌다.&lt;br&gt;&lt;br&gt;서울 강북구에서 치과를 운영하는 최성우 원장은 지난 13일 소셜미디어(SNS) 스레드에 자신이 과거 도움을 줬던 학생을 다시 만났다며 글을 적었다. 최 원장에 따르면, 약 5년 전 해당 치과가 있는 건물 위층에는 독서실이 있었고 그곳에 다니던 한 중학생이 오다가다 마주칠 때마다 먼저 밝게 인사를 건넸다고 한다. 그는 “오다가다 마주치면 항상 먼저 인사를 해 기분이 좋았다”고 회상했다.&lt;br&gt;&lt;br&gt;그러던 어느 날 학생이 눈물을 글썽이며 치과를 찾아왔다. 최 원장이 “무슨 일이냐”고 묻자, 학생은 부모 없이 할머니와 단둘이 살고 있으며 틀니가 오래돼 식사를 제대로 하지 못하고 있다며 치료를 부탁했다. 그러면서 가정 형편상 비용을 감당하기 어려우니 “치과 화장실 청소를 대신하겠다”고 말했다.&lt;br&gt;&lt;br&gt;최 원장은 “그 말을 듣고 울컥했다”며 어린 학생이 그런 말을 꺼내기까지의 상황을 떠올리고는 흔쾌히 치료를 돕기로 했다고 했다. 그는 학생에게 “세상에 공짜는 없다. 나중에 의사가 돼서 같은 방식으로 다른 사람을 도우라”고 당부했다.&lt;br&gt;&lt;br&gt;이후 학생은 의사가 되고 싶다는 꿈을 밝혔고, 형편상 학원이나 과외를 받기 어려워 치과가 한가한 시간에 찾아와 공부를 이어갔다. 최 원장은 그때마다 문제를 설명해주고 책을 사주는 등 학습을 도왔다. 하지만 학생이 다니던 독서실이 문을 닫으면서 두 사람의 연락은 자연스럽게 끊겼다.&lt;br&gt;&lt;br&gt;이 같은 사연은 언론에도 소개됐다. 학생은 한 달 전 다시 치과를 찾아 의대 합격 사실을 알렸고, 학생증을 보여주며 “원장님 같은 의사가 되겠다”고 말했다. 박카스 한 상자를 들고 온 그는 최 원장과 재회했고, 최 원장은 “그 모습을 보고 서로 끌어안고 울었다”고 연합뉴스에 말했다.&lt;br&gt;&lt;br&gt;최 원장은 “그 친구가 나한테 선물을 줬다고 생각한다. 나는 그냥 200만~300만원짜리 틀니 하나 해준 것밖에 없다”며 “삶에 지쳐 있었는데 나에게 영화 같은, 동화 같은 일이 벌어진 게 감사하다”고 말했다. 이어 “건강하게, 행복하게, 웃으면서 밝게 살아라”라면서도 “내가 이런 말 하지 않아도 잘 살 거다. 훌륭한 의사가 될 거라고 확신한다. 의사로서 정말 보람 있었다. 고맙다”고 덧붙였다.&lt;br&gt;&lt;br&gt;사연이 공개되자 네티즌들은 “영화 같은 이야기” “눈물이 난다” “아이의 진심을 보고 도와준 선생님이 진짜 멋지다” 등의 반응을 보였다. 또 “아이의 성공에는 한 명의 롤모델이 중요하다” “진정한 어른의 모습”이라는 의견도 이어졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법무부 국제법무국장에 강준하 홍익대 교수</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/NQHMDJ5BHVBRFABQNHBDSK5LRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/NQHMDJ5BHVBRFABQNHBDSK5LRU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 04:52:15 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK7XLMA7SRGYVC4RVFKCJ722AE.png"&gt;&lt;figcaption&gt;&lt;small&gt;강준하 신임 법무부 국제법무국장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 23일 강준하(56) 홍익대 법학과 교수를 신임 국제법무국장(개방형·일반직 고위공무원 나급)으로 임용했다고 밝혔다.&lt;br&gt;&lt;br&gt;강 신임 국장은 중동고와 고려대 법대를 졸업했다. 2001년 미국 뉴욕대에서 법학 석사(LLM)를, 2015년 인디애나대에서 법학 박사(SJD) 학위를 받았다. 2005~2007년 외교통상부 행정사무관을 지낸 후 2007년부터 홍익대 법대 교수로 재직했다. 2016~2017년 산업통상자원부 통상정책심의관(일반직 고위공무원), 2021~2023년 한-유럽연합(EU) FTA 국내자문단, 2023~2026년 산업통상부 무역위원 등을 역임했다.&lt;br&gt;&lt;br&gt;법무부 국제법무국은 2023년 8월 처음 만들어졌다. 각 정부 부처에 정확한 법률지원을 제공하고 늘어나는 국제투자분쟁(ISDS)을 예방·대응하는 역할을 한다. 초대 법무국장은 2024년 2월부터 올 1우러까지 정홍식 중앙대 법학전문대학원 교수가 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4IDOKWBN3VHGXN4LNWJNBECVUA.png?auth=7bb96e6111dacf52dce93c6f8e20d5c9fe5fea35cd53a224235b4a663920ee2f&amp;smart=true&amp;width=540&amp;height=405" type="image/png" height="405" width="540">
-        <media:description type="plain">강준하 신임 법무부 국제법무국장</media:description>
-        <media:credit role="author" scheme="urn:ebu">법무부</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>서울행정법원, ‘한국형 사회법원’ 추진…장애인·노인·아동에게 쉬운 재판</title>
       <link>https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</guid>
@@ -884,15 +929,6 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 04:51:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTENJRMEZWMYRXMJQTEYJRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울행정법원에서 열린 사회보장 전담재판부 간담회 모습. /서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원이 장애인·노인·임산부·아동 등 사회적 약자를 위한 ‘한국형 사회법원’ 구축에 나선다. 사회보장 사건 전문성을 높이고, 판결문은 쉬운 말로 쓰고, 소송 비용 부담은 줄이는 것이 핵심이다.&lt;br&gt;&lt;br&gt;서울행정법원은 독일의 사회법원 모델을 국내 법 체계에 맞게 적용해 한국형 사회법원을 추진하는 안건을 23일 전체 판사회의에서 논의한다고 밝혔다. 구체적으로 △사회보장 전담재판부 확대·개편 △쉬운 판결문 도입 △소송구조(재판을 받는 데 드는 비용을 국가가 대신 내주는 제도) 확대를 추진한다.&lt;br&gt;&lt;br&gt;독일 사회법원은 연금·장애급여·실업급여 등 사회보장 분야 분쟁만 전담하는 특수법원으로 핵심 원칙은 ‘원고 친화성’이다. 일반 소송에서는 원고가 직접 증거를 모으고, 변호사를 선임해 주장을 입증해야 한다. 비용도 원칙적으로 원고 부담한다. 하지만 독일 사회법원은 장애인이나 수급자가 소장을 낼 때 인지대(소송 수수료)가 없고, 판사가 직접 사실 조사에 나선다. 원고가 무슨 주장을 해야 할지 모르더라도, 법원이 먼저 설명해줄 의무가 있다. 사회보장 분쟁의 상대방은 대개 국가나 공공기관으로 사회적 약자인 원고가 불리할 수밖에 없기 때문에 이를 법원이 보완하는 것이다.&lt;br&gt;&lt;br&gt;기존 서울행정법원의 ‘사회보장 전담재판부’는 산업재해 사건을 전담으로 맡아왔다. 이를 올해부터는 장애인·노인·임산부·아동 관련 사건 전반으로 확대했다. 3월 현재 합의부 6곳과 단독 판사 7명이 사회보장 사건을 전담하고 있다.&lt;br&gt;&lt;br&gt;‘쉬운 판결문’도 시범 도입한다. ‘이지 리드(Easy Read)’라고도 불리는 쉬운 판결문은 복잡한 법률 문서를 짧고 쉬운 문장·그림으로 바꿔 쓰는 것이다. 예컨대 보통 판결문에는 ‘원고의 청구는 이유 없다’ 같은 법률 용어가 쓰이는데, 이를 ‘원고는 수어 통역을 거쳐야 하는 청각장애인이므로, 다른 사람보다 더 많은 면접 시간이 주어졌어야 했다고 주장했습니다. 하지만 재판부가 세심하게 살펴본 결과, 면접 과정은 불공평하지 않았습니다’와 같이 누구나 이해할 수 있는 말로 소송 결과를 전달하는 것이다.&lt;br&gt;&lt;br&gt;소송구조도 확대한다. 장애 유형별 전문 변호사 풀(pool)을 구성하고, 장애 관련 사건은 접수 단계에서 원칙적으로 전액 소송구조를 받을 수 있게 된다. 거동이 어려운 중증 장애인에게는 주거지 근처 변호사를 배정하는 ‘찾아가는 소송구조 서비스’도 도입한다.&lt;br&gt;&lt;br&gt;서울행정법원은 법원행정처에 소송구조 변호사 보수를 현행 대비 4~5배(400만~500만원)까지 올리는 예규 개정을 요청한 상태다. 전문 공익 변호사의 참여를 끌어올리기 위한 조치다. 법률구조공단과의 업무협약을 통해 장애인 당사자에게 먼저 연락하는 ‘보다 쉬운 변호사 연결 서비스’도 추진하고 있다.&lt;br&gt;&lt;br&gt;한국형 사회법원은 올해 2월 부임한 정선재 법원장과 강우찬 수석부장판사가 주도적으로 추진하고 있다. 정 법원장은 사법연수원 기획총괄 교수이던 2009년 국내 최초의 시각장애인 판사인 최영 판사(당시 사법시험 합격자)의 연수원 입소를 직접 총괄했다. 서울고법 재판장을 맡던 2023~2026년 업무 과중으로 자살한 중간관리자 사건, 화학물질 노출로 췌장암에 걸린 근로자 사건 등 1심에서 기각된 사회보장 사건을 항소심에서 잇따라 뒤집는 판결을 했다.&lt;br&gt;&lt;br&gt;강 수석부장판사는 2022년 국내 최초로 ‘쉬운 판결문’을 작성한 판사로 알려져 있다. 지적장애인 원고가 장애인 일자리 사업에서 불합격 처분을 받은 사건을 기각하면서 판결문 주문 옆에 “안타깝지만 원고가 졌습니다”라고 적고, 그림과 쉬운 말로 요약한 판결문을 붙여 주목받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>감사원 컨설팅에 풀린 ‘반도체 물길’… 1년 지연 위기 탈출</title>
-      <link>https://www.chosun.com/politics/goverment/2026/03/23/UEGQDLWTQZATZLCZN3CIEV4KQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/03/23/UEGQDLWTQZATZLCZN3CIEV4KQA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 04:31:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4WTJKV2ZJE73JTEY4HWBIHL34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 8일 경기 용인시 처인구의 첨단 시스템 반도체 클러스터 국가산업단지 부지의 모습. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시에 조성 중인 첨단 시스템 반도체 클러스터 국가산업단지(용인 반도체 국가산단)에 공업용수를 공급하는 사업이 감사원의 컨설팅으로 지연 위기를 피했다.&lt;br&gt;&lt;br&gt;23일 감사원에 따르면, 한국수자원공사(수공)는 팔당호에서 용인 반도체 국가산단까지 46.9㎞ 길이의 공업용수 관로를 설치해 한강 물을 산단까지 끌어오는 사업을 추진하고 있다. 약 8432억원을 투입해 2030년까지 관로를 설치하고, 하루에 31만㎥를 공급할 계획이다.&lt;br&gt;&lt;br&gt;관로는 경기 하남시와 광주시, 용인시 등을 지나게 계획돼 있었다. 이 가운데 38.6㎞ 구간은 확정됐으나, 경인천 옆에 나란히 설치되는 관로 8.3㎞ 구간이 문제가 됐다. 한강유역환경청은 ‘하천과 같은 방향으로는 관을 설치할 수 없게 하는 것이 원칙’이라며 수공에 1년 넘게 하천 점용 허가를 내주지 않았다. 결국 지난해 12월 수공과 한강유역청이 감사원에 문제를 해결해달라며 사전 컨설팅을 신청했다.&lt;br&gt;&lt;br&gt;감사원은 하천과 나란히 관을 매설하지 못하게 하는 원칙은 하천 지반 침하나 세굴 발생 우려 때문에 만들어진 것으로, 수공이 애초 계획대로 관로를 하천 제방에서 10m 이상 떨어진 곳에, 지표면에서 2m 이상 아래에 매설한다면 하천에 영향이 없을 것이라고 판단했다. 또 하천 인근에 관로를 매설하는 것 외에는 현실적인 대안이 없고, 환경청이 하천과 나란히 관을 설치할 수 있도록 허가해 준 선례가 11차례 이상 있다는 점도 확인했다.&lt;br&gt;&lt;br&gt;이에 따라 감사원은 ‘한강유역청은 반도체 단지가 국가 경제에 중대한 영향을 미치는 산업단지인 점 등을 고려해서, 수공이 하천 유지 관리 및 안전 확보에 필요한 한강유역청의 의견을 충실히 반영한다는 것을 전제로 수공에 하천 점용을 허가해 줄 수 있다’는 결론을 내렸다.&lt;br&gt;&lt;br&gt;감사원의 결정에 따라 한강유역청은 수공에 하천 점용 허가를 내주고, 수공은 관로 설치 사업을 재개하기로 했다. 공업용수 공급은 애초 계획대로 2030년까지 지연 없이 가능해질 것으로 전해졌다.&lt;br&gt;&lt;br&gt;감사원은 “앞으로도 국가 주요 사업이 규정 해석 문제로 불필요하게 지연되지 않도록 사전 컨설팅을 제공하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“초등생에 이런 교육?” 비와이·김재섭 비판... 논란된 성교육 내용 보니</title>
@@ -907,33 +943,6 @@
       </media:content>
     </item>
     <item>
-      <title>조희대·지귀연 등 ‘법 왜곡죄’ 8건 접수… 경찰 수사관도 포함</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/23/OSRTR2O6GBG4DJAVD6ZI7Z7QCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/OSRTR2O6GBG4DJAVD6ZI7Z7QCE/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 04:22:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 최근 시행된 ‘법 왜곡죄’와 관련해 총 8건의 고소·고발을 접수하고 수사에 착수했다. 이 중에는 일선 경찰 수사관에 대한 신고 3건도 포함됐다.&lt;br&gt;&lt;br&gt;23일 박정보 서울경찰청장은 정례 기자간담회에서 “현재 법 왜곡죄 관련 8건을 접수했다”며 ”이 가운데 3건은 광역수사단 반부패수사데에서, 나머지 5건은 일선 경찰서에서 수사하고 있다″고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 서울청 광역수사단 반부패수사대는 조희대 대법원장, 지귀연 부장판사, 조은석 특별검사 관련 사건을 맡았다. 일선 경찰서에 배당된 나머지 5건은 주로 개인 판결에 대한 불만이나 경찰 수사관을 대상으로 한 고소·고발이다.&lt;br&gt;&lt;br&gt;다만 일각에선 경찰의 법 전문성이 부족하다는 지적도 나왔다. 이에 대해 박 청장은 “광역수사단만 해도 변호사 자격증을 갖춘 인원이 50명”이라며 “왜 법 전문성이 떨어진다고 생각하는지 모르겠다”고 했다. 이어 “법 왜곡죄는 처음 수사하기 때문에 전문가 자문도 구해야 할 것 같고 고민을 하고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;일선 수사관들의 수사가 위축된다는 우려에 대해 박 청장은 “법과 원칙에 따라 수사해야 한다고 당부했다”고 했다.&lt;br&gt;&lt;br&gt;지난 12일 시행된 법 왜곡죄는 형사 사건을 맡은 판·검사가 타인에게 위법 또는 부당하게 이익을 주거나 권익을 해할 목적으로 재판 및 수사 중인 사건과 관련해 법을 왜곡할 때 10년 이하의 징역이나 10년 이하 자격정지에 처하도록 규정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“가족수당은 장남만, 조사용품은 친조부모만”...인권위 ‘전통 가족관 차별’ 제동</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/23/GEYTGMKQCJGELHMUTTC3X7TKEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/GEYTGMKQCJGELHMUTTC3X7TKEA/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 03:02:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 공기업의 가족 수당과 조사(弔事) 용품 지급 기준이 전통적 가족관에 기반한 차별이라며 제도 개선을 권고했다. &lt;br&gt;&lt;br&gt;인권위는 지난 1월 16일 A공기업이 소속 직원에게 가족 수당을 지급할 때 출생 순서에 따라 다른 기준을 적용하고, 외조부모와 친조부모의 상사(喪事)를 달리 취급한 것은 차별이라고 보고 제도 개선을 권고했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A공기업 직원인 진정인은 회사가 가족 수당과 조사 용품을 지급함에 있어 합리적 이유 없이 특정 가족 관계를 다르게 차별하고 있다며 진정을 제기했다. 진정에 따르면, A공기업은 가족 수당 지급 시 장남·장녀에게는 부모와 실제 동거 여부를 따지지 않은 반면, 차남에게는 동거 여부를 지급 기준으로 삼았다. 또 조사 용품도 외조부모와 달리, 친조부모 사망 시에만 지원했다. &lt;br&gt;&lt;br&gt;이에 A공기업 측은 “가족 거주 형태와 부양 방식이 다양화된 현실에서 실제 부양관계를 판단하는 데 한계가 있다”며 “장남·장녀가 전통적으로 가계 부양의 책임을 담당해 온 사회문화적 배경과 실제 부양 또는 가계 기여 여부를 종합적으로 판단했다”는 입장을 밝혔다. 친조부모에게만 한정된 조사 용품 지원은 한정된 예산으로 인한 불가피한 조치였다고 설명했다. &lt;br&gt;&lt;br&gt;하지만 인권위 차별시정위원회는 “가족 형태와 구조가 다양화되어 부모 부양이 특정 출생 순서의 자녀에게 전속된다고 보기 어렵다”며 출생 순서만을 기준으로 가족 수당 지급 여부를 정하는 것은 차별에 해당한다고 봤다. 또 민법 768조에 따라 친조부모와 외조부모 모두 ‘직계 혈족’에 해당한다는 점도 지적했다.&lt;br&gt;&lt;br&gt;이에 인권위는 A공기업에 출생 순서와 관계없이 가족 수당을 지급하고, 조사용품 지원을 외조부모에게도 동일하게 지급할 것을 권고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 종합특검 ‘김건희 수사 무마’ 의혹 대검·중앙지검 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/43K7YQX7BVAP7NS2BHI34O5GPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/43K7YQX7BVAP7NS2BHI34O5GPI/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 02:36:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYTKOBVMRRTKOJRMY3WEMLBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직해병)의 잔여 사건을 수사하는 권창영 2차 종합특검팀이 ‘김건희 여사 수사 무마 의혹’과 관련해 23일 대검찰청과 서울중앙지검에 대한 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오전부터 서울 서초구 대검찰청 반부패1·2과와 서울중앙지검 반부패수사2부 등에 수사관을 보내 압수수색을 진행 중이다. 이번 압수수색은 김 여사 사건 관련 수사 자료를 수집하기 위한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;‘수사 무마 의혹’은 김 여사가 도이치모터스 주가조작에 가담해 8억1000만원 가량 부당이득을 취득했다는 의혹 및 디올백 수수 의혹에 관한 것이다. 2024년 10월 서울중앙지검 반부패수사2부가 혐의가 없다며 불기소 처분을 내리는 과정에서 부실 수사가 있었다는 의혹이 골자다. &lt;br&gt;&lt;br&gt;당시 수사팀은 수사 과정에서 김 여사에 대해 출장조사를 하는 등 편의를 제공했다는 비판을 받기도 했다. 이와 관련해 특검팀은 지난 17일 이창수 전 서울중앙지검장과 조상원 전 중앙지검 4차장에 대해 출국금지 조치를 하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘이틀 연속 조문’ 대전 화재 공장 대표… 불법 증축엔 “잘 모르겠다”</title>
       <link>https://www.chosun.com/national/regional/2026/03/23/3RYDYVMKTRDE5FTTHIICAVVGRE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/3RYDYVMKTRDE5FTTHIICAVVGRE/</guid>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 02:29:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTDCYJZGUYDAY3EMQ3GIMBVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안전공업 손주환 대표가 23일 오전 대전시청에 마련된 합동분향소를 찾아 조문하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 화재로 74명의 사상자가 발생한 대전 안전공업 손주환 대표가 23일 오전 9시 30분쯤 대전시청 합동 분향소를 찾아 전날에 이어 이틀 연속 조문에 나섰다. &lt;br&gt;&lt;br&gt;손 대표는 눈물을 흘리며 “뭐라 말씀을 드려야 할지 모르겠다. 유족분들께 죄송하다”고 사죄하며 고개를 숙였다. &lt;br&gt;&lt;br&gt;분향에 앞서 취재진이 공장 동관 2층 휴게 공간의 불법 증축과 직원들의 작업 환경 개선 요구 묵살 등에 대한 질문을 이어갔다. 이에 대해 손 대표는 “저도 잘 모르겠다”며 “조사가 끝나야 알 수 있을 것 같다”며 말을 아꼈다.&lt;br&gt;&lt;br&gt;손 대표는 이날 오전 시작된 경찰과 고용노동부의 공장 등에 대한 압수수색에 대한 입장을 묻자, 즉답을 피했다. &lt;br&gt;&lt;br&gt;임직원들과 큰절을 올리며 합동 분향을 마친 손 대표는 곧장 분향소를 빠져나갔다. &lt;br&gt;&lt;br&gt;지난 20일 오후 1시 17분 자동차에 들어가는 엔진 밸브를 제조하는 안전공업에서 큰불이 나 14명이 숨지고, 60명이 다쳤다. 희생자는 대부분 30·40대 직원들이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘유가 담합’ 혐의 4대 정유사 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/JMSEQUCYF5EUBEF32ZNKWM4G4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/JMSEQUCYF5EUBEF32ZNKWM4G4E/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 02:02:38 +0000</pubDate>
-      <content:encoded>검찰이 23일 유가 담합을 벌인 것으로 의심되는 정유사들에 대한 강제 수사에 착수했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRTI5S4MCVNNDIN5MEQGAJ2FEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석유 최고가격제 시행 첫날인 지난 13일 제주 시내 한 주유소 가격 안내판에 유가 정보가 게시되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 오전 9시부터 SK에너지, GS칼텍스, 에스오일, HD현대오일뱅크에 대한 압수수색을 벌이고 있다. 4개 업체를 회원사로 둔 사단법인 한국석유협회도 압수수색 대상에 포함됐다. 이들 업체는 미국·이스라엘과 이란 간 전쟁을 계기로 유가를 담합한 혐의(공정거래법 위반)를 받는다.&lt;br&gt;&lt;br&gt;현재 정부는 지난 13일부터 석유 최고가격제를 시행하는 등 국제 유가 상승분이 주유비 상승으로 이어지지 않도록 대응하고 있다. 이재명 대통령은 “석유 최고 가격제를 어기는 주유소를 발견하면 즉시 제게 신고하라”고 자신의 소셜미디어에 글을 올리는 등 적극적으로 기름값 인하 압박을 이어가고 있다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관도 지난 6일 유가 담합 행위에 대해 ‘반사회적 중대 범죄행위’라고 규정하면서 대검찰청에 “법과 원칙에 따라 엄정대응하라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아버님, 이어폰 오래 끼면 보청기 껴야 돼요”</title>
