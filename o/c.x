@@ -13,6 +13,104 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 헌재, 재판소원 26건 각하...전원재판부 회부 없어</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/24/IV5RBQGXU5AIJNHBWRGLUDQHVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/IV5RBQGXU5AIJNHBWRGLUDQHVI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 08:32:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VACOB3JCK5M7HL44WKTWAOAIFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울시 종로구 재동 헌법재판소 게양대에 걸린 헌법재판소 깃발이 바람에 휘날리고 있다. 헌재는 이르면 이날 지정재판부 재판관 평의를 마친 일부 재판소원 사건에 관해 전부 각하 결정을 내렸다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판소원 제도 시행 이후 처음으로 이뤄진 사전 심사에서 헌법재판소가 접수 사건 26건을 모두 각하했다. 각하는 소송 요건을 갖추지 못한 사건을 심리하지 않고 종료하는 절차다. 전원재판부에 회부된 사건은 단 한 건도 없었다.&lt;br&gt;&lt;br&gt;헌재는 24일 지정재판부가 재판취소 헌법소원 사건 26건에 대해 전원 일치 의견으로 각하 결정을 내렸다고 밝혔다. 지난 12일 개정 헌법재판소법 시행 이후 접수된 재판소원 사건은 전날까지 누적 153건이다.&lt;br&gt;&lt;br&gt;각하 사유를 보면 ‘청구 사유에 해당하지 않는다’는 이유가 17건으로 가장 많았고, 청구기간 도과 5건, 보충성 요건 미충족 2건, 기타 부적법 3건 등이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>모공 커지는 최악의 습관 ‘이것’ 당장 버리세요 [이러면 낫는다]</title>
+      <link>https://www.chosun.com/medical/2026/03/24/YUN3Y4CWPVA3THKEP5RW73LKFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/24/YUN3Y4CWPVA3THKEP5RW73LKFA/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 08:01:33 +0000</pubDate>
+      <content:encoded>나이 들수록 점점 넓어지는 모공 때문에 고민하는 사람이 많다. 모공에서 분비된 피지는 피부 겉면에 얇은 막을 형성해 세균이나 바이러스로부터 피부를 보호하고 체내 수분 증발을 막는 필수적인 역할을 하지만, 과도한 피지는 피부 트러블의 주범이 된다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 전수일피부과 전수일 원장과 함께 환절기 모공 관리법을 알아봤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RY7BTXKLHZB7DNEN2KI25TRDQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전수일 원장은 “피부과를 찾는 환자 10명 중 8~9명은 자신의 피부가 ‘건성’이라고 오해하고 있다”고 했다. 이는 세안 후 피부가 당기는 느낌을 받기 때문인데, 지성 피부라도 유수분 밸런스가 무너져 피지가 과도하게 쌓이는 ‘지루’ 상태가 되면 피부 당김을 느끼게 된다고 한다. 특히 사계절이 뚜렷한 한국의 경우, 가을과 겨울이 되면 기온이 떨어지면서 피부 표면의 피지가 하얗게 굳어버리기 때문에 당김 현상이 심해진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZWIPIAKZZDUFH5K5OQJUYVKOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TWRVV2QN5DVFIKTS4XABVSYEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 피부를 건성으로 착각한 사람들은 유분이 많은 고기능성 화장품이나 오일 성분의 세안제를 사용하고 오일 마사지를 받는 등 잘못된 관리를 하는 경우가 많다고 한다. 이는 피지가 빠져나가지 못하게 모공을 막아 코의 블랙헤드와 얼굴 주변의 좁쌀 여드름(화이트헤드)을 유발한다. 박테리아가 침투해 염증성 성인 여드름으로 악화되기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QWDZXSGFZBT3KG5MEFJISCEDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모공 건강을 지키고 여드름을 예방하기 위해서는 가장 먼저 자신의 정확한 피부 타입을 파악해야 한다. 지성 피부라면 유분은 적고 수분이 많은 지성용 화장품으로 교체해야 하며, 기초 화장품뿐만 아니라 선크림 등 얼굴에 바르는 모든 제품을 ‘오일 프리(Oil-free)’로 선택하는 것이 중요하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FKQJQYFLVGLJDDMH4MECJT3ZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATATE6C6QFCKXMVRWACQXX3VDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 나이가 들어 피부 탄력이 떨어지면 본래 둥글었던 모공이 타원형으로 늘어져 더욱 커 보이게 된다. 전수일 원장은 “모공 속 피지를 무작정 짜내는 것은 근본적인 해결책이 되지 않는다”며 “주변 피부의 탄력을 회복시켜 모공을 좁혀주어야 한다”고 했다. 주름 개선이나 필링 효과를 위해 사용하는 비타민 A(레티노이드) 연고는 피부결이 서양인과 다른 동양인에게는 자극성 피부염을 유발할 수 있다. 더 자세한 내용은 조선일보 의학·건강 유튜브 ‘오건강’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 인생에 짐 같았다”…6년 전 세살 딸 학대 치사 친모, 혐의 인정</title>
+      <link>https://www.chosun.com/national/incident/2026/03/24/IEBG7KMNOBE5HPQMFVNTAQ2VEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/24/IEBG7KMNOBE5HPQMFVNTAQ2VEQ/</guid>
+      <dc:creator>시흥=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 07:56:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRWCNDCGUZTAYJQGEZTGMBQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세 살배기 딸을 학대해 숨지게 한 30대 여성 A 씨가 지난 19일 경기 안산시 단원구 수원지방법원 안산지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 전 세 살 딸을 학대해 숨지게 한 혐의를 받는 30대 친모가 범행을 인정한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경기 시흥경찰서는 아동학대치사 혐의로 구속된 A씨로부터 “내가 아기를 숨지게 했다”는 취지의 진술을 확보해 사실관계를 조사 중이라고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 범행 동기에 대해 “아기를 키우기가 힘들었고 내 인생에 짐이 되는 것 같았다”고 진술한 것으로 전해졌다. 다만 경찰은 구체적인 범행 시점과 장소, 방법 등에 대해서는 진술이 일관되지 않아 추가 조사가 필요하다고 했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 딸의 사망을 예견하고도 방치했을 가능성도 있다고 보고 있다. 혐의가 입증될 경우 적용 법조를 살인으로 변경하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;A씨는 2020년 2월 시흥시 정왕동 자택에서 당시 세 살이던 친딸 C양을 학대해 숨지게 한 혐의를 받고 있다. A씨의 연인인 30대 남성 B씨는 숨진 C양의 시신을 안산시 단원구 와동의 한 야산에 유기한 혐의로 함께 구속됐다.&lt;br&gt;&lt;br&gt;A씨는 범행을 은폐하기 위해 2024년 초등학교 입학 시점에 맞춰 입학 연기를 신청하고, 올해는 B씨의 조카를 딸인 것처럼 학교에 데려간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 16일 학교 측 신고로 수사에 착수해 A씨와 B씨를 검거했으며, 18일 C양의 시신을 수습했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>결국 ‘지역 갈등’으로 번지는 공항공사 통합안...與 내부서도 입장차</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/24/YP3AZ45BNJGTFGN3LQYSMSRIZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/24/YP3AZ45BNJGTFGN3LQYSMSRIZ4/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 07:06:35 +0000</pubDate>
+      <content:encoded>인천국제공항공사와 한국공항공사, 가덕도신공항건설공단을 통합하는 정부 방안을 둘러싼 갈등이 각 공항공사 노조를 넘어 지역사회로 번지고 있다. 특히 인천에서는 ‘인천 홀대론’까지 거론되며 반발이 확산되는 분위기다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZDAMDFHFRTONJSMFQTCMZSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 인천 시민 단체 131곳이 참여한 ‘인천사랑범시민네트워크’는 성명을 내고 “지방 공항 정책 실패를 인천공항 통합으로 덮으려 한다”며 “인천 홀대 정책에 맞설 것”이라고 밝혔다. 시민 단체들은 인천 정치권에 통합 반대 입장을 밝히고 통합 추진을 막아달라고 요구하고 있다.&lt;br&gt;&lt;br&gt;인천 지역사회에서는 양 공항공사가 통합되면 인천국제공항공사가 영종도와 인천시에 제공해온 각종 지원이 축소되거나 사라질 수 있다고 우려하고 있다. 대표적인 것이 영종대교·인천대교에 대한 통행료 인하 지원이다. 인천국제공항공사는 정부 방침에 따라 총 1조1000억원을 부담해 영종대교와 인천대교 통행료 일부를 지원하고 있다. 영종도에 있는 전국 단위 자사고인 인천하늘고에도 설립 비용 등을 포함해 수백억 원을 지원하는 중이다. 그러나 공항공사가 통합될 경우 이런 지원은 ‘지역 형평성’ 문제로 이어져 지속되기 어려울 것이라는 관측이 나온다. &lt;br&gt;&lt;br&gt;반면 지방에서는 “통합이 필요하다”는 주장이 나온다. 한국공항공사 노조 부산지부(김해공항)는 23일 성명을 내고 “가덕도신공항 건설 이후 김해공항에 대한 장기 투자 계획은 사실상 배제됐다”며 “통합을 통해 중복 기능을 정리하면 전체 공항이 상생할 수 있다”고 주장했다. 현재 포화 상태에 다다른 김해공항이 통합을 통해 투자 여력을 확보할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;다른 지방공항 역시 비슷한 입장이다. 한국공항공사 노조 양양지부(양양공항)는 “인천공항 ‘1극 체제’가 지방공항 존립을 위협하고 있다”며 “통합을 통해 국제선을 균형 있게 배분해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE7ZUSVTTBK5ZNCZF33ZLQ6BAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박찬대 더불어민주당 의원이 24일 오후 인천 중구 인천국제공항공사에서 열린 인천국제공항노동조합과의 간담회에 앞서 '통합 반대' 피켓팅을 하고 있는 조합원들과 인사하며 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 여당 내에서도 공항공사 통합안을 두고 입장차가 나타나고 있다. 더불어민주당 인천시장 후보로 공천받은 박찬대 의원은 24일 오후 인천국제공항공사를 찾아 “통합은 논의된 바 없다”고 선을 그으면서도 “인천 시민과 공사 노조의 (통합 반대) 입장을 정부에 전달하겠다”고 했다. 박 의원은 최근 자신의 소셜미디어(페이스북) 계정에 “(인천공항에) 더 과감하게 투자해 경쟁력을 높여야 한다”고 언급하며 사실상 공항공사 통합안에 부정적인 입장을 보이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 항공사 기장 살해 피의자 신상 공개…50세 김동환</title>
+      <link>https://www.chosun.com/national/regional/2026/03/24/3HEDAHKAURG3DJ3VJIU7FJTYPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/3HEDAHKAURG3DJ3VJIU7FJTYPY/</guid>
+      <dc:creator>김주영 기자, 부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 07:58:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWESENBCUNH5XBU7T3N4UDXTIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산에서 항공사 기장을 살해한 혐의로 24일 신상공개가 결정된 김동환. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 현직 항공사 기장을 살해한 혐의로 검거된 전직 항공사 부기장 김동환(50)의 신상이 공개됐다.&lt;br&gt;&lt;br&gt;부산경찰청은 24일 오후 신상정보 공개심의위원회을 열고 김동환의 얼굴과 이름, 나이 등을 공개하기로 결정했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이날 “특정중대범죄 피의자 등 신상정보 공개에 관한 법률의 공개요건(범죄의 잔인성, 중대한 피해, 충분한 증거, 공공의 이익)에 모두 해당돼 김동환의 신상정보 공개를 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 심의위원회에는 외부위원 4명, 경찰 내부위원 3명 등 전문가 7명이 참여했다.&lt;br&gt;&lt;br&gt;경찰은 김씨의 범행이 ‘특정중대범죄 피의자 등 신상정보 공개에 관한 법률’에서 규정하는 신상정보 공개 요건에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;이 법에 따르면 ‘범행 수단이 잔인하고, 중대한 피해가 발생한 경우’ ‘피의자가 그 죄를 범했다고 믿을 만한 충분한 증거가 있을 경우’ ‘국민의 알 권리 보장 및 피의자의 재범 방지 및 범죄 예방 등 공공의 이익을 위해 필요한 경우’에 신상공개 대상이 된다. 미성년자의 경우는 공개하지 않는다. &lt;br&gt;&lt;br&gt;부산경찰청은 지난 2024년 1월 당시 이재명 더불어민주당 대표를 흉기로 찔러 살인미수 혐의를 받는 김진성의 신상을 공개한 바 있다. 또 2023년 6월 부산에서 또래 여성을 살해한 뒤 시신을 훼손 유기한 정유정과 2015년 10월 ‘부산 서면 총기 탈취범’ 사건 때도 신상공개를 했다.&lt;br&gt;&lt;br&gt;이날 신상이 공개된 김동환은 17일 오전 7시쯤 부산진구 한 아파트 복도에서 직장 동료였던 50대 항공사 기장 A씨를 수차례 흉기로 찔러 숨지게 한 혐의를 받고 있다. 그는 A씨를 포함해 앙심을 품은 동료 4명을 살해하려고 마음을 먹고 수년 전부터 미행을 통해 이들의 집과 생활 동선까지 파악했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YRE2HRRQLRGSREZ2XLROQV3TF4.jpg?auth=5e9348cd5f65ff2ac9f8e4863ea7ff2075b195edaeca0b70037ad1fd92431880&amp;smart=true&amp;width=517&amp;height=388" type="image/jpeg" height="388" width="517">
+        <media:description type="plain">부산 항공사 기장을 살해한 혐의로 24일 신상공개가 결정된 김동환. /부산경찰청</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 25일 수요일 (음력 2월 7일 戊戌)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/24/SU6XTIOSQNHJNMXJO6FRFS6OMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/SU6XTIOSQNHJNMXJO6FRFS6OMU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>장영란, 홈쇼핑 연계 편성 논란에 “규정 지켰지만 판단 부족”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/24/QLANWFA4JNDF5NI3JUOSJ5AZRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/QLANWFA4JNDF5NI3JUOSJ5AZRA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 07:31:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLP4MM6DDVFFRM2K57BARFL5Q4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 장영란. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 장영란(48)이 운영 중인 브랜드 제품을 둘러싼 ‘연계 편성’ 의혹에 입장을 밝혔다.&lt;br&gt;&lt;br&gt;장영란은 24일 인스타그램에 게시물을 올려 “최근 한 유튜브 영상에서 제가 책임지고 있는 브랜드 관련 내용이 다뤄지면서 많은 분께 걱정과 심려를 끼쳐드리게 된 것 같아 먼저 정말 죄송하다는 말씀을 드린다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;그는 “현재 제기된 내용들을 지금까지 확인한 바로는 관련 규정과 가이드라인을 준수해 진행해 왔고, 그 과정에서 어기거나 놓친 부분은 없는 것으로 보고 있다”며 “홈쇼핑이나 방송 측의 연출 과정이나 출연자 섭외에 저희가 관여한 사실도 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 결과적으로 적절하지 못한 출연자를 통해 저희 제품이 소개되면서 많은 분께 불편함과 실망을 드리게 된 점에 대해서는 무겁게 받아들이고 있다”며 “연계 편성 문제에 대해서도 다시 생각해 보게 됐다. 좋은 제품을 더 많은 소비자께 소개할 수 있는 방식이라 생각해왔지만 어떤 분들께는 다르게 느껴질 수 있었고, 결과적으로는 제 판단이 부족했던 부분도 있었다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “이번 일을 계기로 소비자 입장에서 어떤 부분이 부족하게 느껴졌는지, 어떤 점이 오해나 불편으로 이어졌는지 더 꼼꼼하게 돌아보겠다”며 “보내주신 질책도 무겁게 받아들이겠다. 아픈 말일수록 더 잘 새기겠다. 더 책임감 있게 나아가는 장영란이 될 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 허위·과장 광고 고발을 콘텐츠로 다루는 유튜버 ‘사망여우TV’는 장영란 브랜드 제품에 대한 건강 프로그램 노출과 홈쇼핑 편성이 맞물려 진행됐다며 연계 편성 의혹을 제기했다. 연계 편성은 방송에서 소개한 상품을 인접 시간대 홈쇼핑에서 판매하는 방식으로 변칙 상술로 여겨지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“외로움 느끼는 시민들 찾아주세요”… 인천시, 옛 파출소 활용 ‘마음 지구대’ 운영</title>
+      <link>https://www.chosun.com/national/regional/2026/03/24/HOVGWBI2CNDGBCINKGL23ALIYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/HOVGWBI2CNDGBCINKGL23ALIYM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 07:04:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7BPJAU67BDUPDPCIVTUWXXFAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 운영을 시작한 인천시 마음 지구대. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외로움을 느끼는 시민들을 돕기 위한 ‘마음 지구대’가 24일 인천 남동구에 문을 열었다. &lt;br&gt;&lt;br&gt;인천시는 이날 인천 남동구 백범로 180에 있는 옛 남동경찰서 만수2동 치안센터 건물에 인천 첫 ‘마음 지구대’를 조성하고 운영에 나섰다. &lt;br&gt;&lt;br&gt;이번 마음 지구대는 지상 3층, 연면적 273㎡ 규모로, 상담 공간으로 활용되는 1층이 먼저 문을 열었다. &lt;br&gt;&lt;br&gt;이곳에선 커피 등 음료를 마시며 다른 사람과 소통하고, 전담 사회복지사의 도움을 받으며 ‘외로움 자가 테스트’도 할 수 있다. 고립 위험군 진단을 받으면 상담 기관이나 사회복지관 등의 도움도 받을 수 있다. &lt;br&gt;&lt;br&gt;인천시는 2층엔 1대1 상담이 가능한 상담실을, 3층엔 자조모임실을 올 하반기 조성해 운영할 계획이다. &lt;br&gt;&lt;br&gt;인천시는 한국자산관리공사로부터 이번 파출소 건물을 빌려 마음 지구대로 꾸몄다. &lt;br&gt;&lt;br&gt;인천시는 이번 마음 지구대가 외로움과 고립 등으로 어려움을 겪는 시민들이 지역사회와 다시 연결되도록 돕는 가교 역할을 할 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;인천시는 이번 마음 지구대를 서구와 부평 등지에도 확대 설치할 방침이다. &lt;br&gt;&lt;br&gt;인천 지역 2024년 기준 1인 가구는 총 41만2000가구로, 전체 126만7000가구의 32.5%를 차지했다. 1인 가구는 배우자 사망, 학업, 직장 등 다양한 사회·경제적 요인으로 증가하는 추세라고 인천시는 설명했다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “마음 지구대가 시민들의 마음을 지켜주는 든든한 방범대 역할을 하길 바란다”며 “앞으로도 외로움과 고립은 개인의 문제가 아닌 사회가 함께 해결해야 할 과제로 인식하고 지원을 아끼지 않겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘노동절’ 법정 공휴일로, 행안위 소위 통과</title>
+      <link>https://www.chosun.com/national/labor/2026/03/24/LK3P2KX4WNHEJMNGVCIUCKZ3CY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/24/LK3P2KX4WNHEJMNGVCIUCKZ3CY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 06:27:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZTONZSMIYWMM3CG43WCNJUGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 18일 국회 본청 앞 계단에서 전국공무원노동조합과 대한민국공무원노동조합총연맹이 연 공무원 노동절 휴무 쟁취 기자회견에서 참석자들이 손팻말을 들고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5월 1일 ‘노동절’이 법정 공휴일이 될 가능성이 커졌다.&lt;br&gt;&lt;br&gt;24일 국회 행정안전위원회는 법안 소위를 열어 노동절을 법정 공휴일로 지정하는 내용의 공휴일법 개정안을 통과시켰다. 행안위 더불어민주당 간사인 윤건영 의원은 “올해부터 노동절에 모든 일하는 사람들이 제대로 쉴 수 있게 되는 데 큰 걸음을 내디뎠다”고 했다.&lt;br&gt;&lt;br&gt;노동절은 지난 1886년 5월 1일 미국 노동자들이 ‘일 8시간 노동’ 쟁취를 위한 총파업을 한 날을 기념하기 위해 시작됐다. 국내에선 일제강점기인 1923년 5월 1일부터 노동절 행사가 열렸다. 1963년 ‘근로자의 날 제정에 관한 법률’이 만들어지면서 ‘근로자의 날’로 명칭이 바뀌었는데, 정부와 여당이 지난해 이를 ‘노동절’로 되돌렸다.&lt;br&gt;&lt;br&gt;노동절은 지난 1994년 유급 휴일로 지정됐지만, 법정 공휴일은 아니어서 적용 범위가 근로기준법상 ‘근로자’로 한정됐다. 이 때문에 택배 기사 등 근로자 지위를 갖지 못한 특수고용직 종사자들은 휴일 적용을 받지 못했다. 법정 공휴일이 되면 근로자 여부와 상관없이 휴일을 적용받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교실서 잠 깨웠다는 이유로...동급생 2명에게 흉기 휘두른 중학생</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/24/BMFZIOMSJZAX7LKM6XXHKSPZRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/BMFZIOMSJZAX7LKM6XXHKSPZRU/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Mar 2026 06:11:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BX6ZMADWG4CVQVEI5WHMWPG5AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 서부경찰서 전경. 뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 중학교에서 학생이 동급생에게 흉기를 휘둘러 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 24일 중학생 A군을 특수상해 혐의로 체포해 조사 중이라고 밝혔다. 경찰에 따르면 A군은 이날 오전 11시 20분쯤 광주 서구 쌍촌동의 한 중학교에서 흉기를 휘둘러 동급생 2명을 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A군은 쉬는 시간 교실에서 잠을 자던 도중 다른 학생들이 자신을 깨웠다는 이유로 범행을 저지른 것으로 파악됐다. A군은 학교에서 조퇴한 뒤 집에 가서 범행 도구를 가져온 것으로 드러났다.&lt;br&gt;&lt;br&gt;피해 학생 2명은 깊은 상처를 입지 않은 것으로 알려졌다. 경찰은 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BX6ZMADWG4CVQVEI5WHMWPG5AY.jpg?auth=45a5e04f4471e9bfd2fb1a761ca6fd1f98368032385c8b46a4eec1bc2f3c947f&amp;smart=true&amp;width=7087&amp;height=3982" type="image/jpeg" height="3982" width="7087">
+        <media:description type="plain">광주 서부경찰서 전경. 뉴스1 DB</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>경남 산청군, 민생안정지원금 20만원 지급…30일부터 신청</title>
       <link>https://www.chosun.com/national/regional/2026/03/24/D7CO36NQSNFJNGJ5P3MSEIGAME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/D7CO36NQSNFJNGJ5P3MSEIGAME/</guid>
@@ -810,15 +908,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTDCYJZGUYDAY3EMQ3GIMBVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안전공업 손주환 대표가 23일 오전 대전시청에 마련된 합동분향소를 찾아 조문하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 화재로 74명의 사상자가 발생한 대전 안전공업 손주환 대표가 23일 오전 9시 30분쯤 대전시청 합동 분향소를 찾아 전날에 이어 이틀 연속 조문에 나섰다. &lt;br&gt;&lt;br&gt;손 대표는 눈물을 흘리며 “뭐라 말씀을 드려야 할지 모르겠다. 유족분들께 죄송하다”고 사죄하며 고개를 숙였다. &lt;br&gt;&lt;br&gt;분향에 앞서 취재진이 공장 동관 2층 휴게 공간의 불법 증축과 직원들의 작업 환경 개선 요구 묵살 등에 대한 질문을 이어갔다. 이에 대해 손 대표는 “저도 잘 모르겠다”며 “조사가 끝나야 알 수 있을 것 같다”며 말을 아꼈다.&lt;br&gt;&lt;br&gt;손 대표는 이날 오전 시작된 경찰과 고용노동부의 공장 등에 대한 압수수색에 대한 입장을 묻자, 즉답을 피했다. &lt;br&gt;&lt;br&gt;임직원들과 큰절을 올리며 합동 분향을 마친 손 대표는 곧장 분향소를 빠져나갔다. &lt;br&gt;&lt;br&gt;지난 20일 오후 1시 17분 자동차에 들어가는 엔진 밸브를 제조하는 안전공업에서 큰불이 나 14명이 숨지고, 60명이 다쳤다. 희생자는 대부분 30·40대 직원들이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>항공사 기장 살해범… 부산경찰청, 신상공개 논의</title>
-      <link>https://www.chosun.com/national/regional/2026/03/23/AQHLIK644ZBFXOISNNPAY4YPBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/23/AQHLIK644ZBFXOISNNPAY4YPBU/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 02:03:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5UX4YE5WVCGRIXN43R3XQ7LRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항공사 동료 기장을 흉기로 살해한 혐의를 받는 50대 전직 부기장 A 씨가 지난 20일 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 항공사 기장을 살해한 혐의로 구속된 김모(50)씨에 대해 경찰이 신상 공개 여부를 논의한다.&lt;br&gt;&lt;br&gt;부산경찰청은 오는 24일 오후 살인 혐의로 구속된 김씨에 대한 신상정보공개위원회를 개최한다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;신상정보 공개 제도는 국민의 알권리와 범죄 예방효과 등을 위해 2010년 마련됐다. ‘범행 수단이 잔인하고, 중대한 피해가 발생한 경우’ ‘피의자가 그 죄를 범했다고 믿을 만한 충분한 증거가 있을 경우’ ‘국민의 알 권리 보장 및 피의자의 재범 방지 및 범죄 예방 등 공공의 이익을 위해 필요한 경우’에 신상공개 대상이 된다.&lt;br&gt;&lt;br&gt;신상정보공개심의위원회는 최소 7명 이상 10인 이하로 구성해야 하고, 경찰이 아닌 외부 인원이 절반 이상 포함돼야 한다. 경찰 위원의 경우 총경 이상으로만 참여할 수 있다. 위원 3분의 2 이상이 동의하면 공개한다. 공개 범위도 위원회가 결정한다.&lt;br&gt;&lt;br&gt;앞서 부산지법은 지난 20일 김씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;김씨는 지난 17일 오전 부산 부산진구의 한 아파트에서 직장 동료였던 항공사 기장 A씨를 흉기로 찔러 살해한 혐의를 받는다. A씨 살해 하루 전인 16일에는 경기도 고양시 일산서구 한 주거지에서 직장 동료였던 기장 B씨를 살해하려다 범행에 실패하고 도주하기도 했다.&lt;br&gt;&lt;br&gt;김씨는 A씨 살해 직후 추가 범행을 위해 경남 창원에 있는 또 다른 전 동료 C씨 주거지에 찾아갔지만, 미수에 그쳤다. 이후 울산으로 도주했다가 범행 14시간여 만인 17일 오후 8시쯤 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;김씨는 공군사관학교 선배이자 한때 직장 동료였던 A씨 등 기장 4명에게 앙심을 품고 수개월 전부터 몰래 따라다니며 택배 기사로 위장해 집주소를 알아내고, 범행 장소를 물색하는 등 치밀한 계획을 세웠던 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 프로파일러(범죄 심리 분석관)를 투입해 사이코패스 검사를 한 결과 “사이코패스는 아니다”라는 검사 결과가 나왔다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 범행 동기 등 김씨 진술을 확보하고 신빙성 등을 검증하는 데 수사력을 모으고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘유가 담합’ 혐의 4대 정유사 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/03/23/JMSEQUCYF5EUBEF32ZNKWM4G4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/JMSEQUCYF5EUBEF32ZNKWM4G4E/</guid>
@@ -826,15 +915,6 @@
       <description/>
       <pubDate>Mon, 23 Mar 2026 02:02:38 +0000</pubDate>
       <content:encoded>검찰이 23일 유가 담합을 벌인 것으로 의심되는 정유사들에 대한 강제 수사에 착수했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRTI5S4MCVNNDIN5MEQGAJ2FEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석유 최고가격제 시행 첫날인 지난 13일 제주 시내 한 주유소 가격 안내판에 유가 정보가 게시되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 오전 9시부터 SK에너지, GS칼텍스, 에스오일, HD현대오일뱅크에 대한 압수수색을 벌이고 있다. 4개 업체를 회원사로 둔 사단법인 한국석유협회도 압수수색 대상에 포함됐다. 이들 업체는 미국·이스라엘과 이란 간 전쟁을 계기로 유가를 담합한 혐의(공정거래법 위반)를 받는다.&lt;br&gt;&lt;br&gt;현재 정부는 지난 13일부터 석유 최고가격제를 시행하는 등 국제 유가 상승분이 주유비 상승으로 이어지지 않도록 대응하고 있다. 이재명 대통령은 “석유 최고 가격제를 어기는 주유소를 발견하면 즉시 제게 신고하라”고 자신의 소셜미디어에 글을 올리는 등 적극적으로 기름값 인하 압박을 이어가고 있다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관도 지난 6일 유가 담합 행위에 대해 ‘반사회적 중대 범죄행위’라고 규정하면서 대검찰청에 “법과 원칙에 따라 엄정대응하라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘렌터카 몰다 보행자 치고 현장 벗어나’…무면허 20대 男, 경찰 수사</title>
-      <link>https://www.chosun.com/national/incident/2026/03/23/N3ADNBXR3RFZ5N6A3BD76BZNEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/23/N3ADNBXR3RFZ5N6A3BD76BZNEM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 01:43:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRGINBUG5RTSZTEMQZTKYZSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;렌터카를 면허 없이 몰다 보행자를 치고도 별다른 조치 없이 현장을 벗어나 숨지게 한 20대 남성을 경찰이 수사하고 있다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 특정범죄가중처벌법상 도주 치사와 도로교통법상 무면허 운전 등 혐의로 20대 A씨를 수사하고 있다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 11시 9분쯤 인천 서구 가좌동의 한 이면도로에서 스포츠유틸리티차(SUV)를 몰다가 60대 여성 보행자 B씨를 치어 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;뇌출혈 증상을 보인 B씨는 목격자 신고로 병원으로 이송돼 수술을 받았으나 지난 21일 오전 숨졌다. &lt;br&gt;&lt;br&gt;렌트한 차를 몰던 A씨는 사고 직후 B씨를 도로변으로 옮긴 뒤 별다른 조치 없이 현장을 벗어났다가 1시간 뒤 경찰에 자수한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “근처에 있는 집에 차를 대고 현장으로 다시 오려고 했었다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 술을 마시고 운전한 정황은 확인되지 않았다고 설명했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “무면허로 차를 빌리게 된 경위 등 정확한 사고 경위를 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제약회사로부터 뒷돈 받은 의사...법원 “자격정지 정당”</title>
@@ -855,16 +935,6 @@
       <content:encoded>보험사가 사고 피해자에게 준 치료비가 근로복지공단의 보험금과 보완적 관계가 아니라 별개의 보험금이라면, 보험사가 공단에 낼 책임보험금도 줄어든다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRGMOBWGA3TGNDDGQ2DGYJQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대법원 1부(주심 마용주 대법관)는 최근 공단이 현대해상화재보험을 상대로 제기한 구상금 소송에서 원고 일부승소한 원심 판결을 깨고 사건을 대전지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;퀵서비스 근로자 A씨는 2018년 5월 대전에서 오토바이를 타고 다른 차선으로 진입하던 중 후방에서 들어오던 차와 부딪혀 골절 등 상해를 입었다. 공단은 산업재해보상보험법에 따라 A씨에게 치료비 명목의 요양급여 841만원 등 총 2576만원 상당의 보험금을 지급했다. 가해자 측 보험사인 현대해상은 A씨의 치료비 총 712만원을 병원에 직접 지급했다. 현대해상이 피해자에게 지급한 치료비 일부는 공단이 지급한 요양급여 내역과 비교했을 때 치료 기간과 항목이 달랐다. 이후 공단은 가해자 측 보험사인 현대해상에 구상금을 청구하면서 소송이 불거졌다.&lt;br&gt;&lt;br&gt;이 사건 쟁점은 현대해상이 이미 지급한 치료비를 공단에 낼 책임보험금에서 공제할 수 있는지 여부였다. 현대해상은 A씨의 치료비를 이미 지급한 만큼 공단에 지급할 책임보험금에서 이를 빼야 한다고 주장했다.&lt;br&gt;&lt;br&gt;1심과 항소심은 모두 원고 일부 승소로 판결했다. 특히 항소심은 피해자가 사고로 1554만원가량의 손해를 입었고, 사고로 인한 요양 기간 중 제대로 일을 하지 못해 636만여 원의 추가 손해를 입었다고 판단했다. 현대해상은 가해자의 과실 비율 70%를 각각 반영한 1088만원과 445만원을 더한 뒤, 앞서 지급한 치료비 712만원을 뺀 821만원을 지급할 의무가 있다고 본 것이다. 이는 상해 책임보험금 한도 금액 1000만원 이내여서 현대해상이 보험금 전액을 지급할 의무가 있다고 원심은 봤다.&lt;br&gt;&lt;br&gt;그러나 대법원은 항소심이 공제를 일률적으로 한 것은 심리 미진이라고 보고 판결을 파기한 것이다. 대법원은 “보험사 치료비가 공단 보험급여와 치료 기간 또는 항목을 달리한다면 상호보완적 관계에 있지 않으므로 공단에 지급될 책임보험금에서 공제돼야 할 여지가 크다”고 판시했다. 현대해상이 비용을 낸 치료와 공단 측이 보험금을 지급한 치료가 동일한지 여부를 먼저 따져봤어야 했다는 얘기다. &lt;br&gt;&lt;br&gt;대법원은 “원심은 현대해상이 지급한 치료비가 보험급여와 상호보완적 관계에 있는지를 심리한 뒤 관계가 없는 치료비는 공단에 지급할 책임보험금에서 공제해야 했다”며 “그러한 심리를 하지 않은 채 치료비를 미리 공제한 것은 법리 오해에 해당한다”고 했다. 대법원 관계자는 “보험자가 피해자에게 책임 보험금으로 지급한 돈이 보험급여와 상호보완적 관계에 있지 않다면 이는 보험자가 공단에 지급할 책임 보험금에서 공제되어야 한다는 것이 건강보험 및 산재보험 모두에서 확립된 판례 법리”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>날 풀리니 발 밑이 불안하다</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/23/66ZCDUR26FFNDEYYUU4KOLVWYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/66ZCDUR26FFNDEYYUU4KOLVWYM/</guid>
-      <dc:creator>김병권 기자, 지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSGTM2BU6JHEPL6XT2VYB5YALI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1년 전 서울 명일동 싱크홀 사고… 1명 숨져  작년 3월 24일 서울 강동구 명일동에서 발생한 가로 18m, 세로 20m, 깊이 18m 규모의 대형 싱크홀. 당시 오토바이를 몰고 가던 30대 남성 1명이 싱크홀에 빠져 목숨을 잃었다. 사고 발생 지점은 과거 세종~포천 고속도로 13공구 터널 공사로 인해 지하수위가 낮아진 곳이었다. 국토교통부에 따르면 노후 하수관에서 발생한 누수도 땅 꺼짐에 영향을 미친 것으로 조사됐다.
-/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“‘펑’ 소리와 함께 눈앞에서 땅이 꺼진 그날은 생각하기도 싫어요.”&lt;br&gt;&lt;br&gt;22일 서울 강동구 명일동의 한 주유소에서 일하는 김모(61)씨는 “요즘도 악몽을 자주 꾼다”고 했다. 김씨 가족이 운영하는 이 주유소는 작년 3월 명일동 한영외고 앞 도로에서 발생한 싱크홀(땅 꺼짐) 지점에서 20m 떨어져 있다. 당시 가로 18m, 세로 20m, 깊이 18m 규모의 싱크홀이 생겨 이 주유소 지하에 있는 오일 탱크가 파손됐다. 이 바람에 이 주유소는 1년 동안 영업을 못 하고 있다. 김씨는 “장사를 재개하더라도 날이 풀리면 또 땅이 꺼질까 봐 두렵다”고 했다. 싱크홀 발생 지점 인근 빌라에 사는 안모(67)씨는 “땅이 꺼진 뒤로는 되도록 주변 골목길로만 다닌다”고 했다.&lt;br&gt;&lt;br&gt;명일동 싱크홀 사고로 30대 오토바이 운전자가 사망한 지 25일로 1년이 된다. 하지만 주변 상인이나 주민들은 여전히 ‘발밑 불안’을 호소하고 있다. 날씨가 풀리는 봄은 싱크홀 발생 ‘위험기’다. 겨울철 얼어붙어 뭉친 토사가 기온 상승과 함께 녹으면서 지반 지지력이 약해져 싱크홀이 발생할 가능성이 커지기 때문이다. 봄비에 이어 여름 집중호우까지 겹치면 지반 침하 가능성이 더욱 커진다. &lt;br&gt;&lt;br&gt;전문가들은 “날씨가 풀리면서 잠잠하던 싱크홀이 서울 곳곳에서 발생할 수 있다”고 경고한다. 국토교통부에 따르면 작년 서울에서 발생한 싱크홀 42개 중 34개(80%)가 봄·여름에 발생했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQGCBK3QTJENTOLEFACVCPZ2UE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지역 싱크홀 발생 건수는 해가 갈수록 늘고 있다. 서울시에 따르면 지난해 서울에서 발생한 싱크홀(42개)은 최근 5년 중 가장 많았다. 2024년엔 싱크홀이 17개 발생했는데 2025년엔 배 이상 증가했다. 싱크홀 발생 주요 요인으로 꼽히는 공동(空洞·지반 내부에 생기는 빈 공간)도 작년 한 해 서울에서 665개 발견됐다. 지난 2022년(361개)과 비교하면 배 가까이 는 수치다. 공동은 지하수 누수나 굴착 공사 등으로 토사가 유실돼 형성된다. 서울 도심 지하 곳곳이 언제 무너질지 모르는 ‘지뢰밭’으로 변하고 있는 셈이다.&lt;br&gt;&lt;br&gt;전문가들은 “1970~80년대 고도 성장기에 만든 상·하수도 시설의 노후화 문제가 심각해 앞으로 싱크홀이 더 빈번하게 발생할 수 있다”고 했다. 낡은 수도관이 파열되면서 새어 나온 물이 주변 토사를 쓸어내려 공동을 만들고 이 공간이 싱크홀로 이어질 수 있다는 것이다. 국토부에 따르면, 지난해 서울에서 발생한 싱크홀 42건 중 17건이 상하수도관 손상 때문에 발생했다. 명일동 싱크홀 사건도 하수관 노후, 관리 미흡 등이 복합적으로 작용한 사고라고 국토부는 결론 내렸다.&lt;br&gt;&lt;br&gt;서울 지역 상하수관로 2만4172㎞ 중 1만1343㎞(약 46%)는 설치한 지 30년이 넘었다. 서울시는 올해 상수관로 110.5㎞와 하수관로 200㎞를 정비한다는 계획이다. 그러나 갈수록 노후 상하수관이 늘어나는 것이 문제다.&lt;br&gt;&lt;br&gt;서울시는 시가 관리하는 도로 6863㎞(차도 181개 노선) 중 굴착 공사 지역 인근 520㎞ 구간을 싱크홀 집중 관리 구역으로 보고 있다. 서울시는 지표 투과 레이더(GPR)를 활용해 위험 구간 지반 상태를 점검하고 있다. GPR은 지반에 전자기파를 방출해 반사된 신호를 통해 지하에 빈 공간이 있는지 탐지하는 기술이다. 서울시는 올해 1만6423㎞를 이 방식으로 조사할 계획이다. 그러나 서울시가 운용하는 현행 GPR로는 지하 2~3m 깊이의 싱크홀만 찾을 수 있다. 지하 3m를 넘어서는 더 깊은 곳의 공동 등은 탐지하기 어렵다는 뜻이다.&lt;br&gt;&lt;br&gt;정충기 서울대 건설환경공학부 명예교수는 “대형 싱크홀 발생 가능성이 있는 굴착 공사장의 경우 외부 전문가가 참여하는 정기 안전 자문을 받도록 강제해야 한다”고 했다. 서울시 관계자는 “GPR 점검과 별도로 서울 대규모 공사장 2곳에 최대 지하 40m까지 공동 탐사도 진행할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“무죄 이끈 변호사에 성공보수” 2심서 인정… 11년 만에 판례 바뀌나</title>
       <link>https://www.chosun.com/national/court_law/2026/03/23/AQGFP63XP5ETJBQPAGSKFN6BIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/AQGFP63XP5ETJBQPAGSKFN6BIU/</guid>
@@ -874,16 +944,6 @@
       <content:encoded>2015년 대법원 판결로 무효화된 변호사 형사 사건 ‘성공 보수’ 문제가 다시 대법원 판단을 받게 됐다. 올 초 기존 판례에 맞서는 하급심 판단이 나왔다. 이 판결에 대한 대법원 심리를 앞두고 변호사 업계가 들썩이고 있다.&lt;br&gt;&lt;br&gt;성공 보수는 2015년 7월 대법원 전원합의체 전원일치 의견으로 무효화됐다. 당시 대법원은 “성공 보수금은 변호사 직무의 공공성·독립성을 해치고, 사법 제도의 국민 신뢰를 떨어뜨릴 위험이 있어서 무효로 한다”고 판시했다. 구속이나 보석, 무죄·집행유예 판결 등을 두고 조건부로 약정한 성공 보수는 법적으로 인정받을 수 없다는 것이다.&lt;br&gt;&lt;br&gt;그런데 지난달 한 항소심 재판부가 이 판례에 맞서는 판결을 내렸다. 서울중앙지법 민사항소1-3부(재판장 최성수)는 A 법무법인이 성공 보수를 주지 않는다며 60대 의뢰인 B씨를 상대로 낸 약정금 반환 소송에서 1심을 뒤집고 법무법인 손을 들어줬다. 변호사가 부당한 청탁이나 인맥이 아닌 충실한 변론 준비와 법리 연구를 통해 무죄 판결을 이끌어냈기 때문에 약속한 성공 보수를 받아야 한다는 것이다. 재판부는 “경제적 여력이 충분한 B씨가 변호사에게 감사 인사까지 해놓고 성공 보수를 안 주는 것은 대법원 판례를 악용한 것”이라고 했다.&lt;br&gt;&lt;br&gt;B씨는 심부름센터를 고용해 며느리의 불륜 증거를 잡으려고 한 혐의(통신비밀보호법) 등으로 1심에서 징역 4개월에 집행유예 2년을 선고받았다. B씨가 아들과 이혼 소송 중이던 며느리의 뒤를 캐기 위해 심부름센터를 고용하고, 며느리 집 현관 앞에 몰래 카메라를 설치해 부적절한 장면을 촬영한 뒤 이를 며느리의 직장에 보내 징계를 요구한 혐의 중 일부가 유죄로 인정됐다.&lt;br&gt;&lt;br&gt;하지만 항소심에서 무죄로 뒤집혔다. A 법무법인 소속 변호사는 실제 B씨가 몰래카메라 설치까지 의뢰하지는 않은 점, 며느리의 사생활이 외부에 알려지지 않은 점 등을 강조해 무죄를 받아냈고, 이 판결은 대법원에서 확정됐다. 이후 B씨는 감사하다고 인사만 했을 뿐, 무죄 확정 시 약정한 성공 보수 3300만원을 주지 않고 연락을 끊었다.&lt;br&gt;&lt;br&gt;그러자 A 법무법인이 성공 보수를 달라고 소송을 낸 것이다. 법무법인 관계자는 “판례에 맞서는 소송이어서 승소 가능성이 없다는 걸 알면서도, 3년 동안 밤낮없이 고생한 것이 억울해서 다퉈보고 싶었다”고 했다. 대법원 판례대로 1심은 A 법무법인 패소였지만, 항소심에서 뒤집혔고 곧 대법원에서 심리가 시작된다.&lt;br&gt;&lt;br&gt;변호사들은 “성공 보수 무효화가 여러 부작용을 낳고 있다”고 주장한다. 한 변호사는 “성공 보수가 없어지면서 착수금을 올려받아 초기 선임 비용이 높아졌다”고 했다. 2023년 서울지방변호사회가 변호사 965명을 대상으로 한 실태조사에서 응답자 49.5%가 형사 사건 착수금이 높아졌다고 답했다. 반면 “성공 보수를 계속 금지해야 한다”는 목소리도 여전하다. 한 변호사는 “성공 보수는 의뢰인이 원하는 결과를 기대하며 주는 돈 아니냐”며 “결국 돈 있는 사람들에게만 유리해 ‘유전무죄 무전유죄’ 같은 사법 불신을 키울 것”이라고 했다. 이런 가운데 대한변호사협회와 서울지방변호사회 등은 최근 “대법원 판례를 바꿔달라”는 내용의 서명 운동을 벌이고 있다. 법조계 일각에서는 전체 수임료가 올라가지 않게 통제 장치를 두자는 의견도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>사다리차 옮기다 ‘쿵’… 인명피해는 없어</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/23/6PPEPS5SXRDGLLOZYUNQ2YW5VQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/6PPEPS5SXRDGLLOZYUNQ2YW5VQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTTA5AADQJGPVDDY2LYKQAVJZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 서울 여의도 국회 경내에서 대형 사다리차량이 추락했다. 건물 조명 교체작업을 위해 크레인으로 사다리차량을 계단 위로 옮기던 중 견인용 벨트가 끊어지면서 거꾸로 떨어진 것이다. 이날 사고로 인명피해는 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰 대신 중수청이 수사… 남은 건 ‘보완수사권’ 유무</title>
       <link>https://www.chosun.com/national/court_law/2026/03/23/KRSKVMVKHZCBRCSSGMJWWTM34A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/KRSKVMVKHZCBRCSSGMJWWTM34A/</guid>
@@ -891,64 +951,6 @@
       <description/>
       <pubDate>Sun, 22 Mar 2026 15:46:00 +0000</pubDate>
       <content:encoded>더불어민주당이 공소청법에 이어 지난 21일 중대범죄수사청(중수청)법까지 국회에서 일방 처리하면서 수사·기소권 분리를 핵심으로 하는 현 여권의 검찰 개편이 마무리 단계에 들어섰다. 오는 10월 검찰청이 78년 만에 폐지되면 중수청과 경찰이 수사를, 공소청이 기소를 맡게 된다. 검찰 내부에선 “조직이 사망 선고를 받았는데 찍소리도 못해 무기력하다” “검사의 보완수사권만이라도 지켜야 한다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;국회를 통과한 중수청 신설법에 따르면, 중수청 수사관은 검찰을 대신해 부패·경제·마약·방위사업·국가보호·사이버 범죄 등 6개 중대 범죄를 수사한다. 판·검사의 법왜곡죄와 공소청·경찰·공수처·법원 공무원의 재직 중 범죄도 수사 대상이다. 애초 정부안에는 중수청이 수사 개시 때 공소청 검사에게 통보하는 등 검사의 사법 통제 부분이 있었지만, 최종 법안에서 모두 삭제됐다. 앞서 통과된 공소청법도 특별사법경찰관(특사경)에 대한 지휘·감독권 등 검사의 통제 기능을 없앴다.&lt;br&gt;&lt;br&gt;한 차장검사는 “공소청법·중수청법을 통해 수사와 법률 전문가인 검사를 사실상 안락사시킨 것”이라며 “몇 안 되는 권한마저 빼앗았으니 공소청 검사들이 책임감 있게 일하기를 기대하기는 어렵게 됐다”고 했다. 수도권 지검의 한 평검사는 “묵묵히 최선을 다하는 다수의 검사까지 정치권이 악마화하며 조직을 통째로 문 닫게 만들었다”고 말했다.&lt;br&gt;&lt;br&gt;검찰 개편과 관련한 남은 쟁점은 검사의 보완수사권이다. 현행 형사소송법에 있는 검사의 보완수사권 조항을 유지하느냐, 없애느냐다. 한 부장검사는 “보완수사권은 피해자 보호를 위한 최소한의 안전 장치로 남겨야 한다. 검사가 사건 관계인을 한 번이라도 더 만나 사실관계를 확인하고 증거를 보완해야 제대로 된 가해자 기소와 처벌이 가능하다”고 했다. 최근 정부 검찰개혁추진단 자문위원장에서 물러난 박찬운 한양대 교수도 “적절한 통제 장치가 없다면 검찰 개혁이 결국 ‘공룡 경찰’을 만들었다는 비판을 면할 수 없게 된다”면서 “현실적인 통제 수단은 전건(全件) 송치와 보완수사”라고 했다.&lt;br&gt;&lt;br&gt;법무부도 전건 송치와 보완수사권이 필요하다는 입장이다. 하지만 민주당 강경파는 “검사의 수사 개입은 차단해야 한다”며 보완수사권 폐지를 주장한다. 민주당은 6월 지방선거 이후 형사소송법 개정안을 논의할 계획이다.&lt;br&gt;&lt;br&gt;이런 가운데 임은정 서울동부지검장은 공소청법 통과 직후 페이스북에 글을 올려 “이날을 간절히 기다려왔는데 만감이 교차한다”며 “일몰의 검찰을 마무리하고 새로운 내일을 맞을 준비를 하겠다”고 했다. 임 지검장은 앞서 검사직을 버리고 중수청 수사관으로 가겠다는 뜻을 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>캄보디아 조직, 중고거래 사기까지?</title>
-      <link>https://www.chosun.com/national/incident/2026/03/23/GH55BMWLJZBTJGFMH2GME44UTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/23/GH55BMWLJZBTJGFMH2GME44UTY/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>국내 온라인 중고 거래 사이트에서 수십억 원대 사기를 벌이던 캄보디아 범죄 조직원 등 42명을 검거했다고 경찰이 22일 밝혔다. &lt;br&gt;&lt;br&gt;캄보디아에 거점을 둔 한 범죄 조직은 최근 여러 중고 거래 플랫폼에서 사기를 벌여 1400여 명에게서 67억원을 가로챘다가 경기북부경찰청에 검거됐다. 이들은 청소년들에게 중고 거래 사이트 계정을 사들인 뒤 명품을 헐값에 판다거나 상품권을 싸게 넘긴다며 돈을 먼저 받고선 잠적했다. 그간 캄보디아 범죄 조직은 주로 보이스피싱과 로맨스 스캠(연애 가장한 사기) 같은 수법을 써왔는데, 최근엔 소액 위주의 중고 거래 사기까지 벌이는 것이다.&lt;br&gt;&lt;br&gt;경찰이 검거한 42명 중 19명은 캄보디아 범죄 조직에 중고 거래 계정을 판매한 중·고등학생들이었다. 이들 중 일부는 남의 계정을 빼앗기 위해 다른 학생을 상대로 폭력을 행사한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 23일부터 10월까지 민생 침해 금융 범죄와 사이버 사기에 대한 집중 단속에 나선다고 밝혔다. 범행에 이용되는 대포폰·대포통장 등 유통 행위도 단속 대상이다. 경찰청 관계자는 “최근 고물가가 장기화되고 유가 상승 등 경제 불확실성이 확대되자 고수익을 미끼로 돈을 갈취하려는 범죄가 갈수록 늘고 있어 대응에 나선 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 38도 넘는 폭염이면 ‘야외작업 중지’ 검토</title>
-      <link>https://www.chosun.com/national/labor/2026/03/23/GPTODVNWSFFAFCYTXI5ZEWJWOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/23/GPTODVNWSFFAFCYTXI5ZEWJWOU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>근로자들이 여름철 폭염 속에 야외 작업을 하다가 목숨을 잃는 사고를 방지하기 위해 정부가 체감온도 38도 이상인 날은 ‘작업 전면 중지’를 권고하기로 했다.&lt;br&gt;&lt;br&gt;고용노동부는 이런 내용이 담긴 ‘폭염 온열 질환 수칙’을 이달 중 마련할 계획이라고 22일 밝혔다. 기상청은 올여름부터 체감온도가 38도 이상 올라갈 것으로 예상될 때 ‘폭염 중대 경보’를 발령하는데, 이 특보가 나간 날 재난 수습이나 안전 관리 등 긴급한 작업 외에 다른 옥외 작업은 전면 중지토록 하겠다는 것이다.&lt;br&gt;&lt;br&gt;현행법상 ‘체감온도 33도 이상’인 날 옥외 작업을 하면 2시간마다 20분 이상 의무적으로 쉬어야 한다. 이를 지키지 않으면 사업주가 산업안전보건법에 근거해 5년 이하 징역 또는 5000만원 이하 벌금에 처해질 수 있다. 이번 전면 중지 조치는 법적 강제성은 없다.&lt;br&gt;&lt;br&gt;노동부 관계자는 “일종의 가이드라인이지만 지방고용노동청 근로 감독관에게 배포해 현장에서 지켜질 수 있도록 유도할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신문협회장에 박장희 중앙일보 발행인</title>
-      <link>https://www.chosun.com/national/people/2026/03/23/RLGB327DTBFAPO4CD47GF7ZK7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/23/RLGB327DTBFAPO4CD47GF7ZK7E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42MJOI4WOZDUFJ5UDEOGIWRLU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박장희 중앙일보 발행인이 22일 한국신문협회 제50대 회장으로 선임됐다. 박 신임 회장은 서울대 정치학과를 졸업하고 중앙일보 경영기획실장·경영총괄 전무·부사장, 중앙데일리·중앙M&amp;amp;P 대표이사 사장, 한국신문협회 부회장 등을 역임했다. 임기는 2028년 정기총회까지다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“단과대·학과 벽 허물어 AI 전문가 키우겠다”</title>
-      <link>https://www.chosun.com/national/education/2026/03/23/ZQ7EBOESTRDONEBD5AQGGKSMPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/23/ZQ7EBOESTRDONEBD5AQGGKSMPQ/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>지난달 4일 미국 LA에 있는 명문 사립대 서던캘리포니아대(USC) 제13대 총장으로 한인 이민 2세 김병수(54)씨가 이사회 만장일치로 선출됐다. 1880년 개교해 캘리포니아에서 가장 역사가 오래된 USC에서 아시아계 인사가 총장에 오른 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5PJ2M57CFB6NK4XRMZYC7KV3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병수 서던캘리포니아대(USC) 총장은 취임 후 구성원들이 인종차별 등 여러 주제에 대해 토론하는 ‘열린 대화 프로젝트’를 시작했다. 그는 “외국인 유학생이 많은 대학인 만큼, 구성원들이 다름을 인정하는 지적 용기를 가질 수 있도록 학교가 전폭 지원하겠다는 취지”라고 밝혔다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 총장의 선출은 미국 대학가에서 파격적인 일이었다. USC는 카네기 교육재단 연구 역량 평가 최상위 등급(R1)에 속하는 연구 중심 대학이다. 그런데 하버드대 로스쿨을 나와 연방 검사를 지낸 김 총장은 대학 연구 경력이 없다. 이뿐만 아니라 그간 USC 총장은 주로 연구 경력이 풍부한 학자들이 맡았는데, 김 총장은 1972년생으로 전임 총장보다 스물한 살이나 젊다.&lt;br&gt;&lt;br&gt;현지에선 미국 대학들이 인공지능(AI) 발전과 트럼프 행정부의 연구비 삭감 같은 전례 없는 위기를 겪고 있는 가운데, USC가 혁신적인 젊은 리더십을 선택했다고 평가한다. 지난 20일 방한한 김 총장에게 교육 비전을 들어봤다. 다음은 일문일답.&lt;br&gt;&lt;br&gt;-만장일치로 총장에 선출된 이유는 뭘까.&lt;br&gt;&lt;br&gt;“작년 7월부터 7개월간 임시 총장을 맡으며 적자에 시달리고 경직됐던 USC를 변화에 유연한 조직으로 탈바꿈했다. 행정 비용을 절약하고 구조 조정을 통해 흑자 전환을 이뤄냈다. 그 돈은 AI 시대에 필요한 교육·연구 등 비용에 투자했다.”&lt;br&gt;&lt;br&gt;-총장으로서 추진하는 핵심 정책은.&lt;br&gt;&lt;br&gt;“작년 말 임시 총장을 맡았을 때 학내 공학·의학·인문학·경제학 등 모든 분야 전문가를 모은 ‘AI전략위원회’를 만들고, 경영대 학장을 위원장으로 임명했다. 어떻게 하면 USC가 AI 시대의 교육 리더가 될 수 있을지 고민하고 개선점을 찾는 곳이다. 최근 ‘자산 격차가 기술 격차로 이어져선 안 된다’는 위원회 권고에 따라 모든 교직원과 학생에게 챗GPT 최신 버전을 보급하기도 했다.”&lt;br&gt;&lt;br&gt;-왜 AI전략위원회 위원장을 공학자가 아닌 경영학자에게 맡겼나.&lt;br&gt;&lt;br&gt;“고용의 미래가 곧 교육의 미래이기 때문이다. AI 시대가 닥치면서 경제 구조가 빠르게 변하고 고용 시장도 재편되고 있다. 대학은 학생들의 미래를 책임져야 한다. 그래서 경영대 학장을 위원장으로 임명해 미래 고용 시장을 예측하고 그에 맞는 교육을 개발하도록 한 것이다.”&lt;br&gt;&lt;br&gt;-AI의 확산으로 많은 대학이 교육 방법론을 두고 혼란을 겪고 있다. USC는 어떤 대책을 세웠나.&lt;br&gt;&lt;br&gt;“AI 시대가 왔다고 해서 당장 교수법을 뜯어고쳐야 한다고 생각하진 않는다. 우리 대학에서도 어떤 교수는 학생들에게 강의와 시험에 AI를 적극적으로 쓰라고 하는 반면 어떤 교수는 수업에 노트북 반입을 금지하고 반드시 펜으로 필기하라고 한다. AI 시대 핵심 역량은 비판적·창의적 사고력이다. 이런 인간 고유의 역량을 길러주는 것이라면 어떤 수업 방식이든 옳다.”&lt;br&gt;&lt;br&gt;-학생들에게 AI를 어떻게 가르치나.&lt;br&gt;&lt;br&gt;“AI를 중심으로 단과대·학과 간 벽을 허물고 있다. 오는 가을 신학기에 공학 계열 학생들을 위해 컴퓨터과학, 산업공학 등 여러 공대 전공을 융합한 AI 학사 학위와 부전공을 신설한다. 경영대·공대가 함께 ‘비즈니스를 위한 AI’ 학사 과정도 신설한다. 이처럼 AI를 주제로 전공을 허무는 학위 과정을 계속 만들어 모든 학생이 ‘실용적인 AI 전문가’가 되도록 교육하겠다.”&lt;br&gt;&lt;br&gt;-‘동문 네트워크 활성화’에 열을 올리고 있다.&lt;br&gt;&lt;br&gt;“USC는 미국에서 가장 끈끈한 동문 네트워크를 가지고 있다. 취임하자마자 직접 팟캐스트를 만들어 학내 소식을 동문에게 전파하는 등 이 네트워크를 더 강력하게 만드는 데 주력하고 있다. 이번 방한의 주요 일정도 한국 동문들과 교류하는 것이다.”&lt;br&gt;&lt;br&gt;-동문 네트워크에 신경 쓰는 이유는. &lt;br&gt;&lt;br&gt;“불확실한 AI 시대에 동문이 등대 같은 역할을 할 것이라고 본다. 예컨대, 졸업생에게 첫 직장으로 어디를 고르는 것이 나은지, 이직을 한다면 어떤 방향으로 가는 것이 맞는지 등에 대해 동문의 조언 한마디가 앞으로 어떤 자산보다 가치가 있을 것이다. 이런 인적 네트워크는 AI가 대체 불가능한 영역이다.”&lt;br&gt;&lt;br&gt;-USC는 한국과의 인연도 깊다. &lt;br&gt;&lt;br&gt;“1960~70년대 많은 한국 이민자들이 USC에서 학업했고, 지금도 매년 한국인 유학생만 500명 넘게 등록하고 있다. 2006년 캠퍼스 안에 있던 도산 안창호 선생의 LA 옛 가옥을 복원해 현재 한국학연구소로 쓰고 있다. 이곳이 미국 내 ‘한국학 허브’가 될 수 있게 역할을 강화하고 한국 동문 네트워크가 더 활성화할 수 있게 만들겠다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;☞김병수 USC 신임 총장은&lt;/b&gt;&lt;br&gt;&lt;br&gt;1960년대 후반 부모가 미국 USC로 유학을 오며 LA에서 나고 자란 한인 이민 2세다. 미국 하버드대 사회학과를 졸업하고 영국 런던 정경대에서 석사 학위를 받았다. 하버드대 로스쿨을 졸업한 뒤 2005년부터 미 연방 검사, 미국 대형 로펌 변호사, 의료 서비스 기업 임원 등으로 일하다 2020년 USC에 수석 부총장 겸 법률 고문으로 합류했다. 작년 7월부터 USC 임시 총장을 맡았고, 지난달 4일 USC 이사회 만장일치로 제13대 총장에 선출됐다. 미국 명문 사립대 총장에 한인이 선출된 것은 다트머스대 총장을 역임한 김용 전 세계은행 총재에 이어 두 번째다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아이고 내 새끼 어떡해 “왜 여기 있어”...대전 화재 합동분향소 ‘눈물바다’</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/22/W5FZBHOHSBB4PKP6OXGNVI2A5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/22/W5FZBHOHSBB4PKP6OXGNVI2A5U/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 07:06:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWREBYN4OBDAHEIOJAWUZZXPU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 대전시청 1층 로비에 '대전 공장 화재 참사' 희생자들을 위한 합동분향소가 마련돼 있다./조민희 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“내 아들이 왜 여깄어...어떡하면 좋아.”&lt;br&gt;&lt;br&gt;22일 오전 대전시청에 마련된 대전 ‘안전공업’ 화재 희생자 합동분향소. 이곳을 찾은 한 고령의 여성은 위패를 어루만지며 큰 소리로 흐느꼈다. 몸을 가누지 못해 주변 가족들이 붙잡아줬지만 이내 주저앉았다.&lt;br&gt;&lt;br&gt;참사 사흘째인 이날 오전 8시 대전시청 1층에 희생자 14명을 위한 합동분향소가 마련됐다. 이른 아침부터 유가족을 비롯한 공장 임직원, 한국노총, 거래처 관계자, 시민 등 조문객들의 발길이 이어졌다. 분향소를 찾은 또 다른 중년 여성은 한 손으로 입을 틀어막고 울음을 참기도 했다.&lt;br&gt;&lt;br&gt;이곳에서 만난 희생자의 외삼촌 A(50)씨는 눈시울을 붉히며 “화재 당일 조카가 다쳐 병원에 있는 줄 알고 4~5시간 인근 병원을 돌아다녔다”며 “나중에 보니 실종자 명단에 있어 하늘이 무너지는 기분이었다”고 말했다. &lt;br&gt;&lt;br&gt;분향소를 찾아온 또 다른 유족들은 “이렇게 나 두고 가버리면 어떡해” “내 새끼 살려내”라며 주저앉고 통곡했다. &lt;br&gt;&lt;br&gt;이날 손주환 안전공업 대표이사도 임직원 40여 명과 함께 분향소를 찾았다. 국화를 들고 묵념한 뒤 위패를 바라보던 그는 눈물을 보이며 “정말 죄송합니다”라고 말했다. 조문을 마친 손 대표는 불법 증축 여부 등을 묻는 취재진의 질문에 답을 하지 않고 현장을 빠져나갔다.&lt;br&gt;&lt;br&gt;이번 대전 공장 화재로 인한 사망자는 14명, 부상자는 화재 진압 과정에서 다친 소방관 2명을 포함해 60명으로 집계됐다. 사상자는 전부 한국인이다. 대전시는 합동분향소를 22일부터 내달 4일까지 운영한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/X5MDZOI53ZCNDDKW4Z4F34KLL4.jpg?auth=1b7ed1f82e33b73898c414310246b71216996194d4cb0482148f64cc6b1ba10e&amp;smart=true&amp;width=4805&amp;height=3474" type="image/jpeg" height="3474" width="4805">
-        <media:description type="plain">22일 오후 대전시청에 마련된 대전 안전공업 화재 희생자 합동분향소에서 유족과 직원들이 분향하며 슬픔에 잠겨 있다. /신현종 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">CHOINWON</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>체감온도 38도 이상 올라가면 옥외작업 전면중지</title>
-      <link>https://www.chosun.com/national/labor/2026/03/22/Y5BG3KIJF5EBFHZHMKYBWQXACA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/22/Y5BG3KIJF5EBFHZHMKYBWQXACA/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Mar 2026 07:07:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2DENRXHEZDKNJUGJRTMZLDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 8월 폭염이 연일 이어지고 있는 가운데 서울 성북구 장위4구역 주택정비사업지구 건설현장에서 한 근로자가 음료를 들고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근로자들이 여름철 폭염 속에 야외 작업을 하다가 목숨을 잃는 사고를 방지하기 위해 정부가 체감온도 38도 이상인 날은 ‘작업 전면 중지’를 권고하기로 했다.&lt;br&gt;&lt;br&gt;고용노동부는 이런 내용이 담긴 ‘폭염 온열 질환 수칙’을 이달 중 마련할 계획이라고 22일 밝혔다. 기상청은 올여름부터 체감온도가 38도 이상 올라갈 것으로 예상될 때 ‘폭염 중대 경보’를 발령하는데, 이 특보가 나간 날 재난 수습이나 안전 관리 등 긴급한 작업 외에 다른 옥외 작업은 전면 중지토록 하겠다는 것이다.&lt;br&gt;&lt;br&gt;현재 폭염 대비 사업장 대응 지침은 체감온도에 따라 2단계로 운영되고 있다. 1단계는 ‘체감온도 33도 이상’일 때로, 옥외 작업 시 2시간마다 20분 이상 의무적으로 휴식 시간을 줘야 한다. 이를 지키지 않으면 사업주가 산업안전보건법에 근거해 5년 이하 징역 또는 5000만원 이하 벌금에 처해질 수 있다. &lt;br&gt;&lt;br&gt;2단계는 ‘체감 온도 35도 이상’일 때로, 1시간마다 15분 이상 휴식을 줘야 하고, 하루 중 기온이 가장 높은 오후 2∼5시에는 불가피한 경우를 제외하고는 옥외 작업을 중지해야 한다. 여기에 3단계로 ‘체감 온도 38도 이상’ 시 ‘작업 전면 중지’를 추가하겠다는 것이다. &lt;br&gt;&lt;br&gt;다만 2·3단계는 법적 강제성이 없는 권고 사항이다. 노동부 관계자는 “일종의 가이드라인이지만 지방고용노동청 근로 감독관에게 배포해 현장에서 지켜질 수 있도록 유도할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;폭염으로 인한 온열 질환 산업재해는 늘어나고 있다. 근로복지공단에 따르면 온열 질환 산재 승인 건수는 2020년 13건(사망 2명), 2021년 19건(사망 1명), 2022년 23건(사망 5명), 2023년 31건(사망 4명), 2024년 51건(사망 2명) 등으로 증가 추세다. 작년 기준 폭염 일수(일 최고기온 33도 이상)는 28일이었다.&lt;br&gt;&lt;br&gt;노동부는 건설 공사 기간 연장 사유에 폭염 등 기상 재해를 추가하는 법 개정도 추진하고 있다. 산업안전보건법을 개정해 건설 공사 기간 연장 사유에 ‘폭염’과 ‘한파’를 추가하는 것이 골자다. 현장에서 노동자의 작업 중지가 적극적으로 사용될 수 있도록 유도한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아버님, 이어폰 오래 끼면 보청기 껴야 돼요”</title>
