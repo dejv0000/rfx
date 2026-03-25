@@ -13,6 +13,81 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가천대 길병원 주변 530m… 명예도로 ‘가천 이길여길’ 지정</title>
+      <link>https://www.chosun.com/national/regional/2026/03/25/CDAKO7XGARG53OE3CTCDRIDC2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/25/CDAKO7XGARG53OE3CTCDRIDC2E/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 09:28:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7SJUMSHTRBZZN6DPMPLIKTH5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가천대 길병원은 25일 병원 대강당에서 '가천 이길여길 명예도로명 지정 기념 제막식'을 진행했다. 이길여 가천길재단 회장 등 내빈들이 기념 촬영을 하고 있다. /가천대 길병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동구는 최근 구월동 가천대 길병원 주변 도로 530m 구간을 명예도로 ‘가천 이길여길’로 지정했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;‘가천 이길여길’로 지정된 곳은 남동대로 길병원사거리부터 길병원 응급의료센터 인근 교차로까지 약 360m 구간과 길병원 본관 앞 도로 약 170m 구간이다. &lt;br&gt;&lt;br&gt;남동구는 여성 의사 최초로 의료법인을 설립해 인천 의료발전 등에 기여한 이길여 가천길재단 회장의 공로를 인정해 이 같은 명예도로명을 지정하게 됐다고 설명했다. &lt;br&gt;&lt;br&gt;명예도로명은 실제 주소로 사용되지는 않지만, 도시의 위상을 알리고 지역 상징성을 부여하기 위해 지방자치단체장이 지정할 수 있다.&lt;br&gt;&lt;br&gt;가천대 길병원은 이날 68주년 개원 기념일을 맞아 명예도로명 제막식을 진행했다. &lt;br&gt;&lt;br&gt;이길여 회장은 “‘가천 이길여길’이 재단의 정신과 인천의 자부심을 아우르는 장소로 역사에 기록되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金여사 항소심 본격화... 도이치·명태균 의혹 두고 특검과 공방 </title>
+      <link>https://www.chosun.com/national/court_law/2026/03/25/UOVLUZSQQJERBA7KTS74NJ3BWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/25/UOVLUZSQQJERBA7KTS74NJ3BWE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 09:36:53 +0000</pubDate>
+      <content:encoded>통일교 금품 수수 혐의로 1심에서 징역 1년 8개월을 선고 받은 김건희 여사의 항소심 첫 정식재판이 25일 열렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQYGIM3BMM3DQOBVMMZDQN3CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 측은 이날 서울고법 형사15-2부(재판장 신종오) 심리로 열린 항소심 재판에서 “1심 판결에 사실 오인, 법리 오해, 양형 부당의 오류가 있다”고 주장했다. 특히 무죄가 선고된 ‘도이치모터스 주가 조작’ 의혹에 대해선 “피고인은 주가 상승에 따른 이익을 실현하면서 지속적으로 세력과 상호 협력해 공동정범에 해당한다”고 했다. 또 “주가 조작 범행 특성상 ‘주포’를 제외하면 전체적인 범행 구조를 알지 못할 수 있다”고도 했다. 1심은 “누구도 김 여사에게 주가 조작 사실을 알려준 바가 없어 김 여사를 공범이라고 볼 수 없다”고 판시한 바 있는데, 이를 의식한 것으로 풀이된다. 특검은 그러면서 김 여사에게 최소한 주가 조작을 ‘방조’한 혐의는 인정돼야 한다는 주장도 펼쳤다.&lt;br&gt;&lt;br&gt;반면 김 여사 측은 “특검은 김 여사가 시세조종 세력과 순차적인 의사 연락을 통해 암묵적인 의사 합치가 이뤄져 공범이 인정된다고 주장하지만, 권 전 회장을 제외한 공범 중 김 여사와 직접 연락한 증거나 정황은 전혀 없다”고 반박했다.&lt;br&gt;&lt;br&gt;특검 측은 또 무죄가 선고된 ‘명태균 여론조사’ 관련 정치자금법 위반 혐의에 대해서도 “여론조사 결과를 무상 제공받는 데 대해 윤석열 전 대통령 부부와 명태균씨가 사전에 협의한 점이 충분히 인정된다”고 주장했다. 또 계약서를 작성하지 않아 유죄를 인정하기 어렵다는 1심 판단에 대해선 “정상적인 여론조사가 아니라 윤 전 대통령에게 유리한 결과를 도출한 것으로 계약서를 작성할 성격이 아니었다”고 했다. &lt;br&gt;&lt;br&gt;이에 김 여사 측은 “명씨가 영업활동의 일환으로 일방적으로 여론조사를 한 후 피고인에게 전송한 데 불과하고, 명씨와 별도로 여론조사 계약에 관해 논의하거나 합의하지도 않았다”고 맞섰다.&lt;br&gt;&lt;br&gt;한편 특검 측은 일부 유죄가 선고된 ‘통일교 금품 수수’ 의혹에 대해선 전부 유죄가 선고돼야 한다고 주장했다. 1심은 김 여사가 2022년 4∼7월 통일교 측으로부터 교단 현안 청탁과 함께 총 8293만원 상당의 명품을 수수한 혐의 중 2022년 4월 수수한 802만원 상당 샤넬 가방에 대해선 ‘구체적 청탁에 대한 인식이 없었다’며 무죄로 판단했다. 특검 측은 “피고인은 2022년 4월에도 통일교의 청탁·알선을 인식했거나, 적어도 구체적인 청탁이 이뤄질 것이란 사정을 인식하고 가방을 받았다”고 했다. 반면 김 여사 측은 “피고인을 포함한 관련자 누구에게도 구체적인 청탁 인식이 없었다”며 “의례적인 인사 및 관계 형성 차원으로 봐야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 내달 8일 증거조사와 피고인신문을 진행한 뒤 변론을 종결하기로 했다. 김 여사 측은 “피고인은 보다 신중하고 절제된 처신을 못해 국민들게 심려를 끼친 것에 대해 반성하고 있다”며 “배우자가 얼마 전 무기징역을 선고받았고, 피고인도 여러 사건으로 재판받는 상황인 점을 고려해 부부가 동시에 장기간 신체적 자유를 제한받지 않도록 고려해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의대·한의대·약대 합격에도 ‘사범대’ 택한 학생...“가르치는 것 좋아서”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/25/NJRGHZ6RBRGXNBQC6W7BOZXBWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/25/NJRGHZ6RBRGXNBQC6W7BOZXBWA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 10:18:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJCDPSTSFNFDXD3IKFLQCYFPMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임태희 경기도교육감(왼쪽)과 서울대 국어교육과에 진학한 유하진씨./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대·한의대·약대에 모두 합격하고도 “어릴 때부터 말하고 가르치는 일을 좋아했다”며 사범대를 선택한 학생의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;임태희 경기도교육감은 24일 자신의 인스타그램에 “의대, 한의대, 약대에 모두 합격하고도 사범대를 선택해 화제가 된 유하진(19)씨를 만났다”고 밝혔다. &lt;br&gt;&lt;br&gt;화성 병점고 출신인 유씨는 모두가 선호하는 진로를 뒤로하고 교직을 선택한 이유에 대해 “저는 어렸을 때부터 말하고 가르치는 일을 좋아했고 사람을 위해서 하는 일이라면 뭐든 가치가 있다고 생각했다”라고 답했다. &lt;br&gt;&lt;br&gt;이어 진로 선택과 관련해 “수시 지원 6개 중 서울대 국어교육과 하나만 쓰려고 했다. 의대, 한의대, 약대를 쓴 건 학교의 권고와 제 자신의 학업 성과를 확인하고 싶었기 때문이다. 처음부터 마음이 정해졌기에, 만약에 서울대 국어교육과에 불합격되었다면 반수, 재수를 해서라도 다시 갔을 것이다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZDSNBQMZRTKYRRGBTGINBYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임태희 경기도교육감(왼쪽)과 서울대 국어교육과에 진학한 유하진씨./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 교육감은 “그 꿈의 시작은 초등학교 5·6학년 때 학생 개개인의 재능을 알아보고, 하진 학생이 소설 스토리라인 등 ‘습작 노트’를 쓸 수 있게 다른 숙제를 내주셨던 선생님, 그리고 고등학교 때 성적과 상관없이 학생 한 명 한 명을 포기하지 않고 이끌어주신 선생님이었다”며 “‘나도 저런 선생님이 되고 싶다’는 결심이 지금의 유하진 학생을 만든 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 ‘의사 대신 교사’를 선택한 배경에 대해 “내색 한 번 없이 믿어주신 부모님, 그리고 기사가 나간 뒤 쏟아진 여러 반응 속에서도 하진 학생이 흔들리지 않을 수 있었던 건, 오랜 기간 쌓아온 선생님이라는 ‘직이 아닌 업’에 대한 확신이 있었기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;임 교육감은 향후 진로 선택과 관련해 “앞으로 하진 학생에게 또 다른 선택의 순간이 찾아올 수도 있을 것”이라면서도 “경기도 교사가 되면 후회하지 않게 해드리겠다”고 약속했다. &lt;br&gt;&lt;br&gt;그러면서 “누군가에게는 인생을 걸 만큼 빛나는 교직이라는 무대가, 더 이상 상처가 아닌 자부심이 되도록 하겠다”며 “훗날 선생님이 되길 참 잘했다고, 그 선택이 틀리지 않았음을 증명할 수 있도록 교육감으로서 책임을 다하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KJCDPSTSFNFDXD3IKFLQCYFPMQ.jpg?auth=5be9150e27b080574a98f7f98817c0df8bfe3bcf85f1829bb1b4558448ca2c1b&amp;smart=true&amp;width=506&amp;height=558" type="image/jpeg" height="558" width="506">
+        <media:description type="plain">임태희 경기도교육감(왼쪽)과 서울대 국어교육과에 진학한 유하진씨./인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘일본군 위안부 피해자 모욕’ 단체 대표 구속 유지... 법원, 적부심 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/25/SBEZA6H5LZFF7AQG4MKUQSJJFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/25/SBEZA6H5LZFF7AQG4MKUQSJJFU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 09:07:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQ2WKORH6RIU7DKA2XKC7TFN34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시민단체 위안부법폐지국민행동 김병헌 대표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본군 위안부 피해자를 모욕하는 시위를 벌여온 시민단체 위안부법폐지국민행동 김병헌 대표가 구속적부심을 청구했으나 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;25일 서울중앙지법 형사항소4-2부(재판장 엄철)는 김 대표가 청구한 구속적부심 심문 기일을 연 뒤 “청구 이유가 없다”며 기각했다. 구속적부심은 구속 수사의 적법성과 필요성을 법원이 다시 한번 따져보는 절차다. 김씨는 지난 20일 사자명예훼손 등 혐의로 구속됐고, 나흘 만인 전날 법원에 구속적부심을 청구했다.&lt;br&gt;&lt;br&gt;김씨는 작년 12월 서울 서초구 서초고와 성동구 무학여고 정문 앞에서 ‘교정에 위안부상 세워두고 매춘 진로 지도 하나’ 등의 문구가 적힌 현수막을 펼쳐 든 혐의를 받는다. 전국에 설치된 평화의 소녀상에 마스크나 검은 천을 씌우는 등 소녀상을 훼손한 혐의도 포함됐다. 중앙지법 이지영 영장 전담 부장판사는 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 지난 1∼2월 소셜미디어를 통해 김씨의 시위에 대해 “얼빠진 사자명예훼손” 등의 발언을 하며 강하게 비판했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘동덕여대 래커칠 시위’ 총학생회장 등 11명 재판행</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/25/HP5LBK3UTVCSHHWYUS55WB2UCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/25/HP5LBK3UTVCSHHWYUS55WB2UCQ/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 09:12:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRDMMRQG44GEZBWGYYGKZRYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 4일 서울 성북구 동덕여대에 공학 전환 반대 관련 래커칠이 남아있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2024년 11월 학교 측이 남녀공학 전환을 논의한다는 소식에 반발해 본관을 점거하고 래커칠 시위 등을 벌였던 동덕여대 학생들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울북부지검이 ‘동덕여대 래커칠 시위’와 관련해 학교 총학생회장과 여성주의 동아리 ‘사이렌’ 교육팀장 등 2명을 포함한 학생 11명을 업무방해, 공동퇴거불응, 공동감금, 재물손괴 등 혐의로 불구속 기소했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 2024년 11월 학교 측이 남녀공학 전환 논의를 진행한다는 사실이 알려지자, 이때부터 같은 해 12월까지 대학 본관을 점거하고 붉은색 스프레이로 학교 건물 내·외벽과 바닥에 ‘공학 전환, 입시 사기’ 등 문구를 도배한 혐의를 받는다.&lt;br&gt;&lt;br&gt;동덕여대는 래커칠 시위로 인한 피해 금액이 최대 54억원에 이른다고 보고 있다. 검찰은 “앞으로도 불법 집단시위 범죄에 대해서는 엄정 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“비회원과 거래 금지”… 부산서 ‘공인중개사 카르텔’ 적발 </title>
+      <link>https://www.chosun.com/national/incident/2026/03/25/SZULKXZUBVGO7EN7WXKPRNTWEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/25/SZULKXZUBVGO7EN7WXKPRNTWEU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 08:56:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKKBBMV7JRBP3FWDMD2QH4A6EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비회원과의 공동거래를 막은 부산 해운대구 한 공인중개사 친목 단체의 정기 총회 모습. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 부동산 중개를 담합하는 이른바 ‘중개 카르텔’을 형성한 공인중개사들이 무더기로 경찰에 적발됐다.&lt;br&gt;&lt;br&gt;부산경찰청 반부패·경제범죄수사대는 공인중개사법 위반 혐의로 공인중개사 단체 대표 50대 남성 A씨 등 임원진 35명을 검찰에 불구속 송치했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2021년부터 작년까지 부산 해운대구에서 개업 공인중개사 친목 단체를 조직하고, 비회원과의 공동중개를 조직적으로 막은 혐의를 받는다. 공동중개는 아파트 등 부동산을 거래할 때 2명 이상의 공인중개사가 함께 중개 업무를 맡는 것이다. 공동중개를 통해 매도인은 더 많은 매물 노출 기회를 얻고, 매수인의 매물 선택의 폭도 넓어지는 장점이 있다. &lt;br&gt;&lt;br&gt;A씨 등이 속한 단체는 부산 해운대구에서 고가 아파트 단지 등이 밀집한 지역의 친목 단체였다. 이 단체엔 이 지역 공인중개사의 60%에 해당하는 110여 명이 가입돼 있다. 단체 가입비는 200만원, 월 회비는 2만원이었다고 한다.&lt;br&gt;&lt;br&gt;이 단체의 회원이 되려면 “비회원과의 거래를 금지한다”는 내용의 서약서를 받고, 비회원 업소를 표시한 약도와 공지 사항을 배포하며 거래 범위를 관리한 것으로 드러났다.&lt;br&gt;&lt;br&gt;회원들에게 비회원 중개 업소가 공동 중개를 요청하면 집주인과 연락이 안 된다거나 집주인이 매물을 철회했다고 답하도록 안내했다고 경찰은 전했다. &lt;br&gt;&lt;br&gt;아울러 이 단체는 적정 회원 수를 유지하기 위해 신규 회원 가입을 제한했다. 이 때문에 이 단체에 가입된 중개사무소를 인수하기 위해 최대 1억2000만원 상당의 권리금을 내기도 했다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이들은 비회원과의 공동 중개를 제한함으로써 특정 지역의 거래가 단체 내부에서만 이뤄지도록 유도했다”며 “사실상 지역 내 부동산 거래를 독점하는 효과가 발생하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;2020년 2월부터 시행된 공인중개사법 개정안은 회원제 지역 모임으로 비회원 공동 중개를 제한하는 행위 등을 금지했다. 중개 담합 과정에서 비회원과 공동 중개를 막을 뿐만 아니라 높은 중개 비용으로 결국 소비자에게 높은 중개 수수료를 전가하게 돼 처벌 조항이 생겼다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등이 혐의를 부인했으나 압수수색 등을 통해 확보한 단체회칙, 서약서, 관련자 진술 등을 토대로 조직적인 거래 행위가 수년간 유지된 사실을 입증했다고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 이재명 대통령은 지난 24일 SNS(소셜미디어)에 정부의 부동산 범죄 특별단속 성과를 직접 공개했다. 이 사건도 특별단속 성과 중 하나다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘롯데월드타워도 보인다’… 기네스북 오른 청라하늘대교 전망대, 내달 개방</title>
+      <link>https://www.chosun.com/national/regional/2026/03/25/GQ4XGXZJRVBNLENY6REYVUB5XA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/25/GQ4XGXZJRVBNLENY6REYVUB5XA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 08:53:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDAJ2PDCUNJKHDMXHERNY7PRUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 최고 높이 해상교량 전망대인 인천 청라하늘대교 전망대에서 시설 관계자들이 '엣지 워크'를 시연하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해발 184m의 세계 최고 높이 해상 교량 전망대로 기네스북에 오른 인천 청라하늘대교 전망대가 내달 개방을 앞두고 25일 언론에 공개됐다. &lt;br&gt;&lt;br&gt;인천시 등에 따르면 청라하늘대교 전망대는 청라국제도시 쪽 주탑 꼭대기에 2개 층 연면적 339㎡ 규모로 조성됐다. 1층엔 전자 망원경 등이 설치된 실내 전망대가, 2층엔 야외 전망대가 들어섰다. 야외 전망대엔 안전 장비를 착용하고 전망대 밖을 한 바퀴 둘러보는 ‘엣지 워크’가 설치됐다. &lt;br&gt;&lt;br&gt;청라국제도시 쪽 주탑과 교량 상판이 만나는 지점에 있는 엘리베이터를 이용하면 전망대에 올라갈 수 있다. 엘리베이터는 한 번에 최대 10명을 태우고, 1초당 2m의 속도로 135m를 오르내린다. 엘리베이터 안에선 인천 앞바다를 볼 수 있다.&lt;br&gt;&lt;br&gt;‘우주’를 콘셉트로 꾸며진 1층 실내 전망대에선 2층 야외 전망대로 연결되는 계단까지 20여 m를 걸으며 유리벽 너머 주변 풍경을 감상할 수 있다. 영종국제도시와 청라국제도시 전경 등은 물론, 맑은 날에는 서울 남산타워와 롯데월드타워까지 볼 수 있다고 한다. &lt;br&gt;&lt;br&gt;2층 야외 전망대에선 시원하고 탁 트인 경관을 즐길 수 있다. 북쪽으론 영종대교를 비롯해 운염도와 소운염도, 매도 등 섬이 보이고, 남쪽으론 영종도 구읍뱃터와 멀리 인천대교가 눈에 들어온다. &lt;br&gt;&lt;br&gt;동쪽으론 로봇랜드 부지와 청라국제도시의 스카이라인, 계양산 등의 모습을 볼 수 있다. &lt;br&gt;&lt;br&gt;야외 전망대엔 ‘엣지 워크’가 설치됐다. 엣지 워크는 폭 1.5m, 길이 60여 m로, 전망대 둘레를 따라 조성됐다. 바닥이 철제 그물망으로 돼 있어 밑이 훤히 보인다. 재미를 더하기 위해 중간중간 폭 60㎝, 길이 4.8m 크기의 유리 바닥이 설치됐다. 폭 60㎝, 길이 60㎝ 크기로 바닥이 아예 뚫려 있는 공간도 있다. 워크 슈트와 안전모, 하네스 등 장비를 착용하고, 가슴과 등에 이중 안전 로프를 연결해야 엣지 워크에 오를 수 있다. &lt;br&gt;&lt;br&gt;이날 엣지 워크를 직접 걸어 본 유정복 인천시장은 “청라하늘대교 엣지 워크가 잊지 못할 추억을 남길 수 있는 새로운 관광 명소가 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;청라하늘대교 전망대는 추가적인 안전 점검 등을 진행한 뒤, 4월 하순 문을 열 예정이다. 전망대는 유료로 운영된다. 전망대만 이용할 경우 1만5000원, 엣지 워크까지 이용하면 6만원을 내야 한다. 인천 시민들은 절반 가격으로 이용할 수 있다. 운영을 맡은 인천관광공사는 예약을 통해 전망대를 이용할 수 있게 할 계획이다. &lt;br&gt;&lt;br&gt;청라하늘대교 전망대는 지난해 12월 ‘세계 최고 높이 해상 교량 전망대’로 기네스북에 등재됐다. 같은 부문 미국 세계기록위원회(WRC) 인증도 받았다. 교량 상판 밑엔 무료로 이용할 수 있는 하부 전망대가 있고, 미디어아트 영상물을 볼 수 있는 ‘바다영화관’, 해상 보행 데크 등도 갖추고 있다. 인천시는 청라하늘대교가 교량 본연의 역할은 물론, 관광 자원으로도 자리매김할 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X7UXU72TND7BMYKEQIWGESLP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 최고 높이 인증 받은 청라하늘대교 전망대./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘동료 흉기로 살해’ 40대 필리핀 국적 노동자, 징역 20년</title>
+      <link>https://www.chosun.com/national/regional/2026/03/25/E5LW36D5R5AVLJU2V5ZCOUULKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/25/E5LW36D5R5AVLJU2V5ZCOUULKU/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 09:10:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 국적의 동료와 말다툼을 하다가 흉기로 살해한 혐의로 기소된 외국인 노동자에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사13부(재판장 장민경)는 살인 혐의로 기소된 필리핀 국적 A(41)씨에게 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 1일 대전 한 업체 외국인 근로자 기숙사에서 같은 국적의 동료인 B씨를 흉기로 여러 차례 찔러 살해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;B씨를 험담했다는 오해를 받아왔던 A씨는 B씨와 술을 마시던 도중 이 문제로 다투다가 화가 나 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “사람의 생명을 잃은 피해는 어떤 방법으로 회복되지 않아 상응하는 처벌이 필요하다”며 “미리 준비한 흉기로 여러 차례 찔러 피해자가 극심한 고통 속에서 생을 마감했을 것으로 보이고, 유족 역시 고통을 안고 살아가야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “다만 피고인이 범행을 인정하고 후회하는 점, 가족을 부양하기 위해 한국에 와 수년간 제조업 근로자로 근무하며 이번 외에는 다른 범행을 저지르지 않은 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘쓰레기봉투 사재기’에 진화 나선 기후부… “공급 문제 없어”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/25/PUFBLMVHF5HHHE3PPO6BOOMG2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/25/PUFBLMVHF5HHHE3PPO6BOOMG2M/</guid>
@@ -892,24 +967,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSDOZTEGU3WEZJZG4YWKYRRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 전 드론작전사령관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검팀이 수사한 ‘평양 무인기 침투’ 의혹에 연루돼 파면된 김용대 전 드론작전사령관(소장)이 징계 처분의 효력을 정지해달라는 신청을 냈으나 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 서울행정법원 행정4부(재판장 김영민)는 김 전 사령관이 낸 파면 처분 집행정지 신청을 이날 기각했다. 재판부는 지난 16일 집행정지 사건의 심문 기일을 열어 김 전 사령관 측 주장을 검토했으나, 징계 처분의 효력을 정지할 사유는 없다고 판단한 것으로 풀이된다. 김 전 사령관이 파면 처분을 취소해달라며 국방장관을 상대로 낸 본안 소송의 재판 일정은 아직 정해지지 않았다.&lt;br&gt;&lt;br&gt;김 전 사령관은 2024년 10월 유엔사 승인 등 관련 절차를 지키지 않은 채 부하들에게 무인기 평양 투입을 지시하고, 작전 도중 무인기 한 대가 평양에 추락한 사실을 숨기기 위해 허위 문건을 만든 혐의로 작년 11월 재판에 넘겨졌다. 내란 특검팀은 김 전 사령관과 윤석열 전 대통령, 김용현 전 국방장관 등이 북한에 대한 군사적 도발로 12·3 비상계엄을 선포할 수 있는 명분을 만들기 위해 무리하게 작전을 감행했다고 의심한다. 국방부는 지난해 12월 김 전 사령관을 보직에서 해임했고, 석 달 뒤인 지난달 파면했다.&lt;br&gt;&lt;br&gt;법원은 김 전 사령관 외에도 비상계엄에 연루돼 징계 처분을 받아 취소 소송을 낸 군 간부 4명이 낸 징계 처분 집행정지 신청을 모두 각하·기각했다. 행정법원은 파면된 김봉규 전 국군정보사령부 중앙신문단장(대령)의 집행정지 신청을 지난달 각하했다. 정직 3개월 처분을 받은 정학승 전 육군 동원참모부장(소장)의 신청은 전날 기각했다. 또 정직 1개월 처분을 받은 박성훈 육군 정훈실장(준장)·조재명 전 육군 사이버작전센터장(준장)의 신청도 최근 각하·기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경남 의령 야산 인근 불탄 1t 화물차서 시신 발견</title>
-      <link>https://www.chosun.com/national/regional/2026/03/24/XVDOCUH62BFBBLP432FEQO3EHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/XVDOCUH62BFBBLP432FEQO3EHI/</guid>
-      <dc:creator>의령=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 09:01:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYDKMBZME3WGYRRMY4GENBXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 7시 41분쯤 경남 의령군 대의면 야산 인근 도로의 전소된 1t 화물차 안에서 불에 탄 시신이 발견됐다.&lt;br&gt;&lt;br&gt;인근 주민의 “차량에서 연기가 난다”는 신고를 받고 출동한 경찰과 소방당국은 전소된 화물차와 시신을 확인했다.&lt;br&gt;&lt;br&gt;화물차가 있던 곳은 대의면 마쌍리에서 합천군 방면으로 이어지는 농가 주변의 좁은 도로로, 평소 인적이 드문 곳이다.&lt;br&gt;&lt;br&gt;차량 내부에서 인화 물질은 발견되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 시신 신원 확인을 위해 DNA 감식을 의뢰하고, 인근 CCTV를 분석하는 등 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “차량 소유주 명의는 확인했지만, 발견된 시신이 차량 소유주인지 확인되지 않았다”며 “모든 가능성을 열어두고 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구시, 시민 참여 체납관리단 통해 소액 체납자 실태조사 나서 </title>
-      <link>https://www.chosun.com/national/regional/2026/03/24/4YQ7TBGGWBFN5L7RZGZX453Z7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/4YQ7TBGGWBFN5L7RZGZX453Z7M/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 08:58:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLOLFJ5EXQLLRC5VRAZFNQGBTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격동 청사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 올해 고액 체납자에 대한 강도 높은 체납 징수 활동과 함께 소액 체납자에 대한 실태 조사도 진행한다고 24일 밝혔다. 일반 시민이 참여하는 ‘체납관리단’을 발족해 소액 체납자 현황 조사 등을 통해 생계형 체납자에 대해서는 복지 부서와 연계해 공적 지원도 병행할 계획이다.&lt;br&gt;&lt;br&gt;대구시는 지난해 500만원 이상 고액 체납자를 대상으로 징수 전담 ‘책임징수제’를 운영했다. 이를 통해 지난해 체납액 1015억원 중 505억원(징수율 49.8%)을 거둬들여 9년 연속 지방세 체납 징수율 전국 1위를 달성했다. 이에 대구시는 올해도 상·하반기 2차례에 걸쳐 ‘지방세 체납액 집중 정리 기간’을 운영하는 등 강도 높은 체납 징수 활동을 벌일 계획이다. &lt;br&gt;&lt;br&gt;이와 함께 하반기(7월)에는 일반 시민이 참여하는 ‘체납관리단’을 발족해 기존 고액 체납자 중심의 체납자 실태 조사를 소액 체납자까지 확대할 계획이다. 체납관리단은 주소지 방문과 전화 상담을 통해 체납자의 실제 납부 능력과 생활 실태 등을 파악해 유형별 맞춤형 징수 활동을 추진할 방침이다. 이를 통해 생계형 체납자에 대해서는 분할납부와 정리보류 등을 통해 세부담을 완화하고, 복지 부서와 연계해 공적지원도 병행할 예정이다. &lt;br&gt;&lt;br&gt;오준혁 대구시 기획조정실장은 “체납관리단 운영을 통해 체납자 실태를 보다 정확히 파악하고 맞춤형 징수 활동을 추진할 것”이라며 “악의적 납세 회피 체납자에 대해서는 엄정 대응하되, 생계형 체납자에 대해서는 경제적 재기를 지원하는 균형 있는 세정을 펼치겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재, 재판소원 26건 각하...전원재판부 회부 없어</title>
       <link>https://www.chosun.com/national/court_law/2026/03/24/IV5RBQGXU5AIJNHBWRGLUDQHVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/IV5RBQGXU5AIJNHBWRGLUDQHVI/</guid>
@@ -917,64 +974,6 @@
       <description/>
       <pubDate>Tue, 24 Mar 2026 08:32:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VACOB3JCK5M7HL44WKTWAOAIFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울시 종로구 재동 헌법재판소 게양대에 걸린 헌법재판소 깃발이 바람에 휘날리고 있다. 헌재는 이르면 이날 지정재판부 재판관 평의를 마친 일부 재판소원 사건에 관해 전부 각하 결정을 내렸다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판소원 제도 시행 이후 처음으로 이뤄진 사전 심사에서 헌법재판소가 접수 사건 26건을 모두 각하했다. 각하는 소송 요건을 갖추지 못한 사건을 심리하지 않고 종료하는 절차다. 전원재판부에 회부된 사건은 단 한 건도 없었다.&lt;br&gt;&lt;br&gt;헌재는 24일 지정재판부가 재판취소 헌법소원 사건 26건에 대해 전원 일치 의견으로 각하 결정을 내렸다고 밝혔다. 지난 12일 개정 헌법재판소법 시행 이후 접수된 재판소원 사건은 전날까지 누적 153건이다.&lt;br&gt;&lt;br&gt;각하 사유를 보면 ‘청구 사유에 해당하지 않는다’는 이유가 17건으로 가장 많았고, 청구기간 도과 5건, 보충성 요건 미충족 2건, 기타 부적법 3건 등이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>모공 커지는 최악의 습관 ‘이것’ 당장 버리세요 [이러면 낫는다]</title>
-      <link>https://www.chosun.com/medical/2026/03/24/YUN3Y4CWPVA3THKEP5RW73LKFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/24/YUN3Y4CWPVA3THKEP5RW73LKFA/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 08:01:33 +0000</pubDate>
-      <content:encoded>나이 들수록 점점 넓어지는 모공 때문에 고민하는 사람이 많다. 모공에서 분비된 피지는 피부 겉면에 얇은 막을 형성해 세균이나 바이러스로부터 피부를 보호하고 체내 수분 증발을 막는 필수적인 역할을 하지만, 과도한 피지는 피부 트러블의 주범이 된다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 전수일피부과 전수일 원장과 함께 환절기 모공 관리법을 알아봤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RY7BTXKLHZB7DNEN2KI25TRDQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전수일 원장은 “피부과를 찾는 환자 10명 중 8~9명은 자신의 피부가 ‘건성’이라고 오해하고 있다”고 했다. 이는 세안 후 피부가 당기는 느낌을 받기 때문인데, 지성 피부라도 유수분 밸런스가 무너져 피지가 과도하게 쌓이는 ‘지루’ 상태가 되면 피부 당김을 느끼게 된다고 한다. 특히 사계절이 뚜렷한 한국의 경우, 가을과 겨울이 되면 기온이 떨어지면서 피부 표면의 피지가 하얗게 굳어버리기 때문에 당김 현상이 심해진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZWIPIAKZZDUFH5K5OQJUYVKOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TWRVV2QN5DVFIKTS4XABVSYEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 피부를 건성으로 착각한 사람들은 유분이 많은 고기능성 화장품이나 오일 성분의 세안제를 사용하고 오일 마사지를 받는 등 잘못된 관리를 하는 경우가 많다고 한다. 이는 피지가 빠져나가지 못하게 모공을 막아 코의 블랙헤드와 얼굴 주변의 좁쌀 여드름(화이트헤드)을 유발한다. 박테리아가 침투해 염증성 성인 여드름으로 악화되기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QWDZXSGFZBT3KG5MEFJISCEDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모공 건강을 지키고 여드름을 예방하기 위해서는 가장 먼저 자신의 정확한 피부 타입을 파악해야 한다. 지성 피부라면 유분은 적고 수분이 많은 지성용 화장품으로 교체해야 하며, 기초 화장품뿐만 아니라 선크림 등 얼굴에 바르는 모든 제품을 ‘오일 프리(Oil-free)’로 선택하는 것이 중요하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FKQJQYFLVGLJDDMH4MECJT3ZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATATE6C6QFCKXMVRWACQXX3VDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 나이가 들어 피부 탄력이 떨어지면 본래 둥글었던 모공이 타원형으로 늘어져 더욱 커 보이게 된다. 전수일 원장은 “모공 속 피지를 무작정 짜내는 것은 근본적인 해결책이 되지 않는다”며 “주변 피부의 탄력을 회복시켜 모공을 좁혀주어야 한다”고 했다. 주름 개선이나 필링 효과를 위해 사용하는 비타민 A(레티노이드) 연고는 피부결이 서양인과 다른 동양인에게는 자극성 피부염을 유발할 수 있다. 더 자세한 내용은 조선일보 의학·건강 유튜브 ‘오건강’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내 인생에 짐 같았다”…6년 전 세살 딸 학대 치사 친모, 혐의 인정</title>
-      <link>https://www.chosun.com/national/incident/2026/03/24/IEBG7KMNOBE5HPQMFVNTAQ2VEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/24/IEBG7KMNOBE5HPQMFVNTAQ2VEQ/</guid>
-      <dc:creator>시흥=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 07:56:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRWCNDCGUZTAYJQGEZTGMBQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세 살배기 딸을 학대해 숨지게 한 30대 여성 A 씨가 지난 19일 경기 안산시 단원구 수원지방법원 안산지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 전 세 살 딸을 학대해 숨지게 한 혐의를 받는 30대 친모가 범행을 인정한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경기 시흥경찰서는 아동학대치사 혐의로 구속된 A씨로부터 “내가 아기를 숨지게 했다”는 취지의 진술을 확보해 사실관계를 조사 중이라고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 범행 동기에 대해 “아기를 키우기가 힘들었고 내 인생에 짐이 되는 것 같았다”고 진술한 것으로 전해졌다. 다만 경찰은 구체적인 범행 시점과 장소, 방법 등에 대해서는 진술이 일관되지 않아 추가 조사가 필요하다고 했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 딸의 사망을 예견하고도 방치했을 가능성도 있다고 보고 있다. 혐의가 입증될 경우 적용 법조를 살인으로 변경하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;A씨는 2020년 2월 시흥시 정왕동 자택에서 당시 세 살이던 친딸 C양을 학대해 숨지게 한 혐의를 받고 있다. A씨의 연인인 30대 남성 B씨는 숨진 C양의 시신을 안산시 단원구 와동의 한 야산에 유기한 혐의로 함께 구속됐다.&lt;br&gt;&lt;br&gt;A씨는 범행을 은폐하기 위해 2024년 초등학교 입학 시점에 맞춰 입학 연기를 신청하고, 올해는 B씨의 조카를 딸인 것처럼 학교에 데려간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 16일 학교 측 신고로 수사에 착수해 A씨와 B씨를 검거했으며, 18일 C양의 시신을 수습했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 항공사 기장 살해 피의자 신상 공개…50세 김동환</title>
-      <link>https://www.chosun.com/national/regional/2026/03/24/3HEDAHKAURG3DJ3VJIU7FJTYPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/24/3HEDAHKAURG3DJ3VJIU7FJTYPY/</guid>
-      <dc:creator>김주영 기자, 부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 07:58:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWESENBCUNH5XBU7T3N4UDXTIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산에서 항공사 기장을 살해한 혐의로 24일 신상공개가 결정된 김동환. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 현직 항공사 기장을 살해한 혐의로 검거된 전직 항공사 부기장 김동환(50)의 신상이 공개됐다.&lt;br&gt;&lt;br&gt;부산경찰청은 24일 오후 신상정보 공개심의위원회을 열고 김동환의 얼굴과 이름, 나이 등을 공개하기로 결정했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이날 “특정중대범죄 피의자 등 신상정보 공개에 관한 법률의 공개요건(범죄의 잔인성, 중대한 피해, 충분한 증거, 공공의 이익)에 모두 해당돼 김동환의 신상정보 공개를 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 심의위원회에는 외부위원 4명, 경찰 내부위원 3명 등 전문가 7명이 참여했다.&lt;br&gt;&lt;br&gt;경찰은 김씨의 범행이 ‘특정중대범죄 피의자 등 신상정보 공개에 관한 법률’에서 규정하는 신상정보 공개 요건에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;이 법에 따르면 ‘범행 수단이 잔인하고, 중대한 피해가 발생한 경우’ ‘피의자가 그 죄를 범했다고 믿을 만한 충분한 증거가 있을 경우’ ‘국민의 알 권리 보장 및 피의자의 재범 방지 및 범죄 예방 등 공공의 이익을 위해 필요한 경우’에 신상공개 대상이 된다. 미성년자의 경우는 공개하지 않는다. &lt;br&gt;&lt;br&gt;부산경찰청은 지난 2024년 1월 당시 이재명 더불어민주당 대표를 흉기로 찔러 살인미수 혐의를 받는 김진성의 신상을 공개한 바 있다. 또 2023년 6월 부산에서 또래 여성을 살해한 뒤 시신을 훼손 유기한 정유정과 2015년 10월 ‘부산 서면 총기 탈취범’ 사건 때도 신상공개를 했다.&lt;br&gt;&lt;br&gt;이날 신상이 공개된 김동환은 17일 오전 7시쯤 부산진구 한 아파트 복도에서 직장 동료였던 50대 항공사 기장 A씨를 수차례 흉기로 찔러 숨지게 한 혐의를 받고 있다. 그는 A씨를 포함해 앙심을 품은 동료 4명을 살해하려고 마음을 먹고 수년 전부터 미행을 통해 이들의 집과 생활 동선까지 파악했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YRE2HRRQLRGSREZ2XLROQV3TF4.jpg?auth=5e9348cd5f65ff2ac9f8e4863ea7ff2075b195edaeca0b70037ad1fd92431880&amp;smart=true&amp;width=517&amp;height=388" type="image/jpeg" height="388" width="517">
-        <media:description type="plain">부산 항공사 기장을 살해한 혐의로 24일 신상공개가 결정된 김동환. /부산경찰청</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>장영란, 홈쇼핑 연계 편성 논란에 “규정 지켰지만 판단 부족”</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/24/QLANWFA4JNDF5NI3JUOSJ5AZRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/QLANWFA4JNDF5NI3JUOSJ5AZRA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 07:31:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLP4MM6DDVFFRM2K57BARFL5Q4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 장영란. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 장영란(48)이 운영 중인 브랜드 제품을 둘러싼 ‘연계 편성’ 의혹에 입장을 밝혔다.&lt;br&gt;&lt;br&gt;장영란은 24일 인스타그램에 게시물을 올려 “최근 한 유튜브 영상에서 제가 책임지고 있는 브랜드 관련 내용이 다뤄지면서 많은 분께 걱정과 심려를 끼쳐드리게 된 것 같아 먼저 정말 죄송하다는 말씀을 드린다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;그는 “현재 제기된 내용들을 지금까지 확인한 바로는 관련 규정과 가이드라인을 준수해 진행해 왔고, 그 과정에서 어기거나 놓친 부분은 없는 것으로 보고 있다”며 “홈쇼핑이나 방송 측의 연출 과정이나 출연자 섭외에 저희가 관여한 사실도 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 결과적으로 적절하지 못한 출연자를 통해 저희 제품이 소개되면서 많은 분께 불편함과 실망을 드리게 된 점에 대해서는 무겁게 받아들이고 있다”며 “연계 편성 문제에 대해서도 다시 생각해 보게 됐다. 좋은 제품을 더 많은 소비자께 소개할 수 있는 방식이라 생각해왔지만 어떤 분들께는 다르게 느껴질 수 있었고, 결과적으로는 제 판단이 부족했던 부분도 있었다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “이번 일을 계기로 소비자 입장에서 어떤 부분이 부족하게 느껴졌는지, 어떤 점이 오해나 불편으로 이어졌는지 더 꼼꼼하게 돌아보겠다”며 “보내주신 질책도 무겁게 받아들이겠다. 아픈 말일수록 더 잘 새기겠다. 더 책임감 있게 나아가는 장영란이 될 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 허위·과장 광고 고발을 콘텐츠로 다루는 유튜버 ‘사망여우TV’는 장영란 브랜드 제품에 대한 건강 프로그램 노출과 홈쇼핑 편성이 맞물려 진행됐다며 연계 편성 의혹을 제기했다. 연계 편성은 방송에서 소개한 상품을 인접 시간대 홈쇼핑에서 판매하는 방식으로 변칙 상술로 여겨지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 법원 “나무위키 문서에 일부 왜곡·과장 있어도 위법 아냐" 첫 판단</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/24/EXSJ7UJQSNHQFKTH3GNZVK5XYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/EXSJ7UJQSNHQFKTH3GNZVK5XYE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 05:05:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MC7O7X2VCBHCLOIQU63DII3SUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나무위키 대문 페이지. '검증되지 않았거나 편향된 내용이 있을 수 있다'는 경고가 쓰여 있다. /나무위키 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개방형 온라인 백과사전 ‘나무위키’ 문서 내용에 일부 왜곡·과장이 있더라도 전체적으로 진실에 부합한다면 나무위키에 배상 책임을 물을 수 없다는 법원의 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울고등법원 민사13부는 광주광역시 명진고등학교를 운영하는 학교법인 도연학원이 나무위키 운영사를 상대로 낸 게시글 삭제 및 손해배상 청구 소송에서 지난 1월 1심과 같이 원고 패소 판결을 내렸다. 명진고 측이 대법원 상고를 포기하면서 이 판결은 같은 달 확정됐다. 법조계에 따르면 나무위키를 상대로 한 손해배상 소송의 결론이 나온 것은 처음이다.&lt;br&gt;&lt;br&gt;나무위키 ‘명진고등학교’ 문서에는 2018년 학내 ‘스쿨미투’ 사건과 전 이사장의 교사 채용 비리, 교사 부당해고 의혹 등이 자세하게 담겼다. 명진고 측은 이 문서가 사실을 악의적으로 왜곡해 학교 평판을 훼손했다며 나무위키에 삭제를 요구했지만, 조치가 이뤄지지 않자 2023년 500만원의 손해배상 소송을 냈다. 명진고 측이 문제 삼은 대목 중 하나는 스쿨미투 관련 내용이었다. 명진고는 스쿨미투 연루 교사 7명 가운데 수사기관에서 무혐의 처분을 받은 6명에게 경징계를 내렸는데, 나무위키에는 무혐의 결정이 빠진 채 경징계 결정이 ‘무마’라고 적혔다는 것이다.&lt;br&gt;&lt;br&gt;그러나 법원은 악의적 목적이 뚜렷하고 공익성도 없는 등 ‘명백한 위법’이 아니라면, 일부 부정확하거나 편향된 내용이 포함돼 있더라도 곧바로 손해배상 책임을 물을 수 없다고 판단했다. 1심 재판부는 “해당 문서는 학교 운영의 부적절함이나 운영자의 도덕적 흠결을 지적하는 공익적 목적으로 쓰였다”고 했다. 이어 “운영사가 명예훼손이나 손해배상을 우려한 나머지 게시물에 지나치게 간섭하기 시작하면, 이용자들의 표현의 자유가 위축될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 나아가 “나무위키는 이용자들이 스스로 작성·수정하며 지식과 정보를 공유하는 사이트로, 경우에 따라 의혹 제기나 의견이 혼재될 수 있다”고 했다. 그러면서 “공개 토론 과정에서 부분적으로 틀리거나 과장된 표현이 나오는 것은 피하기 어려운 측면이 있으나 해명과 반박을 통해 시정이 가능하고, 자유로운 토론과 민주주의 성숙을 위해 표현의 자유는 폭넓게 보장되어야 한다는 점 등을 두루 감안하면 게시물의 위법성을 쉽사리 인정할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“틀니 해주시면 청소하겠다”던 중학생...5년 뒤 의대생 된 감동 사연</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/23/A5CTFPDTZBB3RJT6UK5BXR25T4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/23/A5CTFPDTZBB3RJT6UK5BXR25T4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 05:33:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZCTN5PHHFAX7LVZTWDBCFELFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구에서 치과를 운영하는 최성우 원장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5년 전 할머니 틀니 치료를 부탁하며 “치과 화장실 청소라도 하겠다”고 말했던 중학생이 의대생이 돼 다시 치과를 찾은 사연이 알려졌다.&lt;br&gt;&lt;br&gt;서울 강북구에서 치과를 운영하는 최성우 원장은 지난 13일 소셜미디어(SNS) 스레드에 자신이 과거 도움을 줬던 학생을 다시 만났다며 글을 적었다. 최 원장에 따르면, 약 5년 전 해당 치과가 있는 건물 위층에는 독서실이 있었고 그곳에 다니던 한 중학생이 오다가다 마주칠 때마다 먼저 밝게 인사를 건넸다고 한다. 그는 “오다가다 마주치면 항상 먼저 인사를 해 기분이 좋았다”고 회상했다.&lt;br&gt;&lt;br&gt;그러던 어느 날 학생이 눈물을 글썽이며 치과를 찾아왔다. 최 원장이 “무슨 일이냐”고 묻자, 학생은 부모 없이 할머니와 단둘이 살고 있으며 틀니가 오래돼 식사를 제대로 하지 못하고 있다며 치료를 부탁했다. 그러면서 가정 형편상 비용을 감당하기 어려우니 “치과 화장실 청소를 대신하겠다”고 말했다.&lt;br&gt;&lt;br&gt;최 원장은 “그 말을 듣고 울컥했다”며 어린 학생이 그런 말을 꺼내기까지의 상황을 떠올리고는 흔쾌히 치료를 돕기로 했다고 했다. 그는 학생에게 “세상에 공짜는 없다. 나중에 의사가 돼서 같은 방식으로 다른 사람을 도우라”고 당부했다.&lt;br&gt;&lt;br&gt;이후 학생은 의사가 되고 싶다는 꿈을 밝혔고, 형편상 학원이나 과외를 받기 어려워 치과가 한가한 시간에 찾아와 공부를 이어갔다. 최 원장은 그때마다 문제를 설명해주고 책을 사주는 등 학습을 도왔다. 하지만 학생이 다니던 독서실이 문을 닫으면서 두 사람의 연락은 자연스럽게 끊겼다.&lt;br&gt;&lt;br&gt;이 같은 사연은 언론에도 소개됐다. 학생은 한 달 전 다시 치과를 찾아 의대 합격 사실을 알렸고, 학생증을 보여주며 “원장님 같은 의사가 되겠다”고 말했다. 박카스 한 상자를 들고 온 그는 최 원장과 재회했고, 최 원장은 “그 모습을 보고 서로 끌어안고 울었다”고 연합뉴스에 말했다.&lt;br&gt;&lt;br&gt;최 원장은 “그 친구가 나한테 선물을 줬다고 생각한다. 나는 그냥 200만~300만원짜리 틀니 하나 해준 것밖에 없다”며 “삶에 지쳐 있었는데 나에게 영화 같은, 동화 같은 일이 벌어진 게 감사하다”고 말했다. 이어 “건강하게, 행복하게, 웃으면서 밝게 살아라”라면서도 “내가 이런 말 하지 않아도 잘 살 거다. 훌륭한 의사가 될 거라고 확신한다. 의사로서 정말 보람 있었다. 고맙다”고 덧붙였다.&lt;br&gt;&lt;br&gt;사연이 공개되자 네티즌들은 “영화 같은 이야기” “눈물이 난다” “아이의 진심을 보고 도와준 선생님이 진짜 멋지다” 등의 반응을 보였다. 또 “아이의 성공에는 한 명의 롤모델이 중요하다” “진정한 어른의 모습”이라는 의견도 이어졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
