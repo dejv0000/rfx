@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“학급당 학생수 축소·특수학교 확대”… 유은혜, ‘특수교육 6대 공약’ 제시</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/25/T2PG6Q4FZ5GGNKTXAFPVMV3YAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/25/T2PG6Q4FZ5GGNKTXAFPVMV3YAI/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 05:38:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QASY5VY2GVGGPDUYYNBA4UNQTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유은혜 경기도교육감 예비후보. /유은혜 캠프&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유은혜 경기도교육감 예비후보가 특수교육 강화를 위한 6대 정책을 내놓았다. 학급당 학생 수 축소와 특수학교 확대 등이 핵심이다.&lt;br&gt;&lt;br&gt;유 예비후보는 25일 경기도의회에서 기자간담회를 열고 “치료와 지원이 필요한 아이들은 더 나은 환경에서 보호받아야 하고, 다른 아이들과 어울릴 수 있는 아이들은 통합교육을 통해 성장해야 한다”며 “아이들이 스스로 삶을 꾸려갈 수 있는 ‘자존’을 키우는 교육으로 가야 한다”고 했다.&lt;br&gt;&lt;br&gt;현재 경기도 일반학교의 특수교육 대상 학생 통합 배치율은 74.1%까지 올라갔다. 하지만 단순한 물리적 통합만으로는 교육 효과에 한계가 있다는 지적이 이어져 왔다. 유 후보는 “지원 없는 통합은 방치”라고 했다.&lt;br&gt;&lt;br&gt;이번 공약에는 장애 학생의 근거리 통학권 보장을 위한 특수학교 설립 확대가 포함됐다. 수원·여주·시흥·고양·남양주·포천 지역 특수학교는 2028년까지 개교하고, 양주와 부천은 각각 2029년과 2030년 개교를 추진한다는 계획이다. 화성·고양·평택 지역은 신규 설립을 최우선 검토 대상으로 제시했다.&lt;br&gt;&lt;br&gt;대규모 특수학교 중심 구조의 한계를 보완하기 위한 ‘학교 내 분산형 모델’도 함께 제시됐다. 일반학교 내 특수교감을 중심으로 운영되는 병설 특수학교 도입과 함께, 지체·시각·청각 등 장애 특성을 고려한 전일제 복합 특수학급 확대를 추진한다는 구상이다.&lt;br&gt;&lt;br&gt;교원 배치 기준도 전면 개편한다. 현행 ‘장애인 등에 대한 특수교육법’ 기준보다 강화해 학급당 학생 수를 유치원 3명(현행 4명), 초·중학교 4명(현행 6명), 고등학교 4~5명(현행 7명) 수준으로 낮추고, 특수교사 배치도 확대하겠다는 방침이다.&lt;br&gt;&lt;br&gt;통합교육 방식도 손본다. 일반교사와 특수교사가 함께 수업하는 협력수업 모델을 정착시키고, 수업 수정·행동 지원 등 현장 교사의 부담을 줄이기 위한 전문 컨설팅을 강화한다. 교장·교감 등 관리자의 책임 경영을 위해 ‘통합교육 질 지표’도 도입한다. 이와 함께 장애 학생의 사회 진출을 위한 자립 지원 대책을 마련하고, 권익 보호를 위한 교육조정위원회와 갈등 대응 전담 기구를 설치하는 방안도 포함됐다.&lt;br&gt;&lt;br&gt;유 예비후보는 “경기도 특수교육은 늘 부족함과의 싸움이었다”며 “교육의 사각지대를 해소해 모든 아이의 학습권이 온전히 보장되는 경기교육을 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지방 정부에 ‘노동 수사권’ 주기로… 전문성 떨어지고, 업체와 유착 우려</title>
+      <link>https://www.chosun.com/national/labor/2026/03/24/ALXNNHYURBH7RCO5XTOYTXFHY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/03/24/ALXNNHYURBH7RCO5XTOYTXFHY4/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRCVLTTAFRP5FPZFGDU5DPSER4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관(가운데)이 지난 1월 14일 서울 서초구 양재 엘타워에서 열린 현장 감독관과의 대화에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 노동 분야 수사권(특별사법경찰 권한)을 지방 광역 단체에 위임하는 작업에 착수했다. &lt;br&gt;&lt;br&gt;행정안전부와 고용노동부는 23일 전국 17개 광역 자치 단체와 중앙지방정책협의회를 갖고 “노동 감독 권한 지방 위임 관련 방안을 논의했다”고 밝혔다. 앞서 지난 12일 국회는 중앙 정부가 갖고 있던 ‘노동 감독’ 권한을 오는 11월부터 지방 정부에 일부 위임하는 내용을 골자로 한 ‘노동감독관 직무집행법’을 통과시켰다. 특별사법경찰 신분인 노동감독관은 압수수색, 피의자 소환 조사, 송치 등 권한을 갖고 있다. 현재는 국가 사무로, 노동부 소속 노동감독관 4100명 가량이 활동하고 있다. 법 제정으로 앞으로 지방 정부도 감독관을 별도로 뽑아 수사권을 행사할 수 있게 된 것이다. &lt;br&gt;&lt;br&gt;노동부는 이날 광역 자치 단체에 “감독 전담 조직과 인력을 조속히 마련해달라”고 당부했다. 17개 광역 자치 단체는 올해부터 3년간 1800명을 지방 노동감독관으로 선발해 상시 근로자 30인 미만 사업장 감독을 맡을 예정이다. 지역 사정을 잘 아는 지방 정부가 임금 체불, 산업재해 등에 대한 노동 감독을 하면 노동자 권리 보호 효과가 배가될 것이란 게 노동부 설명이다. 중앙 정부도 올해 노동 감독관 1000명을 별도로 증원할 예정인데, 기획·상시 감독 비율이 늘어날 것으로 전망된다.&lt;br&gt;&lt;br&gt;업계에선 새로 선발되는 지방 감독관들의 전문성에 대한 우려가 나온다. 상대적으로 인력 풀이 좁은 지방에서 단기간에 1800명을 선발하면 검증이 충분히 안 돼 감독의 질 저하로 이어질 수 있다는 것이다. 특히 지난 19일 공소청 설치법이 국회 문턱을 넘으며 검사의 특사경 수사 지휘가 대폭 축소될 가능성도 커졌다. 형사소송법에 검사의 지휘·감독권이 아직 남아 있지만, 여당은 6·3 지방선거 후 형소법 개정도 추진할 계획이다. 노동감독관은 형사소송법 시험을 보지 않고 선발되기 때문에 검사들이 이를 보완해 왔는데, 앞으론 이런 보완이 어려워질 가능성이 커진 것이다. 박지순 고려대 법학전문대학원 교수는 “형사 처벌 사건에서 절차적 하자가 발생하면 수사 전체가 흔들린다”며 “짧은 기간 동안 지방 정부가 인력 선발부터 교육 등 전문성을 확보할 수 있을지 의문”이라고 했다. 노동 감독관과 지역 업체의 유착 가능성도 계속 제기되고 있는데, 이에 대한 대책 역시 부족하다는 비판이 나온다.&lt;br&gt;&lt;br&gt;우리나라 노동 감독관 수는 이미 경제협력개발기구(OECD) 회원국 중 최고 수준인데 감독관을 또 대거 늘릴 필요가 있느냐는 의견도 나온다. 감독관 외에 2000명 넘는 안전보건공단 인력도 산업 안전 분야에 활용할 수 있다. 노동 감독관을 도와 현장을 점검하는 안전 대행 기관, 보건 대행 기관 종사자도 수천 명에 달한다. &lt;br&gt;&lt;br&gt;노동계 내부에선 노동 감독 권한을 지방 정부에 위임하는 것 자체가 국제노동기구(ILO) 협약에 배치된다는 지적도 제기된다. 한국이 1992년 비준한 ILO 제81호 협약은 “근로 감독은 중앙 당국의 감독과 통제하에 둬야 한다”고 규정한다. 검찰 수사 지휘권이 축소된 상태에서 감독권이 지방에 위임될 경우 중앙 정부 통제력은 약해질 수밖에 없다는 게 전문가들의 공통된 견해다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞노동감독관&lt;/b&gt;&lt;br&gt;&lt;br&gt;기업 등이 노동 관련 법을 위반하지 않도록 감독하는 역할. 특별사법경찰 신분으로, 행정처리뿐 아니라 압수수색, 피의자 소환 조사, 송치 등 사법 권한도 갖고 있다. 지금은 노동부 소속 감독관만 있지만, 올해 11월부터 17개 지방 광역 단체 소속 노동감독관도 활동한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GVSGENDCGIZWKOBTMZTDCZLGMI.jpg?auth=b181f9a9c35c5155fb1ac96028436abfb36232b001150ca9c2cf19b35e002467&amp;smart=true&amp;width=1825&amp;height=1061" type="image/jpeg" height="1061" width="1825">
+        <media:description type="plain">근로감독관 마크. /고용노동부 유튜브 캡처</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>“2차 피해 우려”… 시흥 ‘3살 딸 학대치사’ 친모 신상 비공개</title>
       <link>https://www.chosun.com/national/incident/2026/03/25/R4QUKJ7YFZCOND7WLEZBIKQX4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/25/R4QUKJ7YFZCOND7WLEZBIKQX4E/</guid>
@@ -866,24 +887,6 @@
       <pubDate>Mon, 23 Mar 2026 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXFUU7A5EVEYBCCN45EWTRYN2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 1시 11분쯤 경북 영덕군 창포리 영덕풍력발전단지에 설치된 풍력발전기에서 화재가 발생했다. 이날 불로 풍력발전기 안에서 작업 중이던 용역업체 직원 3명이 숨졌다. 불이 난 풍력발전기의 길이 48m짜리 날개(블레이드)가 불길에 휩싸여 바닥으로 떨어지고 있다. 앞서 지난달 2일 이 풍력발전단지에서는 높이 80m의 풍력발전기 기둥이 부러지면서 도로를 덮치는 사고가 났었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시몬스, 삼성서울병원에 3억원</title>
-      <link>https://www.chosun.com/national/people/2026/03/24/DBHRNOGG6JDU3CLQ44UUECU7NE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/24/DBHRNOGG6JDU3CLQ44UUECU7NE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OU6FE6H4V5B7NOP52JANFJ4K3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;안정호 시몬스 대표/시몬스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;침대 제조 업체 시몬스가 삼성서울병원에 3억원을 기부했다고 23일 밝혔다. 기부금은 소아청소년 환아 치료비로 쓰일 예정이다.&lt;br&gt;&lt;br&gt;안정호 시몬스 대표는 2020년 삼성서울병원에 처음으로 3억원을 기부했었다. 코로나 확산으로 국가 의료 체계가 감염병 대응에만 집중돼 중증 난치성 질환 등을 앓는 어린이들에 대한 지원이 줄어들 것을 우려해 기부에 나섰다고 한다. 시몬스는 이후에도 매년 3억원씩 기부를 이어왔다. 7년째 이어온 기부 누적액은 21억원이 됐다. 시몬스 기부금으로 소아암 및 중증 희귀·난치성 질환을 앓고 있는 환아 230여명이 치료를 받았다.&lt;br&gt;&lt;br&gt;안 대표는 “앞으로도 환아와 가족 곁에서 이들이 삶의 꿈과 희망을 이어갈 수 있도록 사회적 책임을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/24/QLGDP3ZAPFF73ISAMKQV76MURY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/24/QLGDP3ZAPFF73ISAMKQV76MURY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲법무부&lt;/b&gt;▷국제법무국장 강준하&lt;br&gt;&lt;br&gt;&lt;b&gt;▲금융위원회&lt;/b&gt;◇고위공무원 전보▷국민성장펀드 추진단장 손영채▷대변인 이동&lt;br&gt;&lt;br&gt;&lt;b&gt;▲KBS&lt;/b&gt;◇콘텐츠전략본부▷콘텐츠운영부장 김해정◇라디오센터▷라디오기획부장 박용훈▷라디오편성부장 박영심▷라디오국 라디오1 CP 김연미▷〃라디오3 CP 김경정▷〃사회공헌방송부장 김영동&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“지역 의료 책임진다”… 母兒·심장·암 분야를 ‘특화 병원’ 수준으로</title>
