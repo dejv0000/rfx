@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>교도소 샤워실서 쓰러진 채 발견된 30대 女재소자...치료 중 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/25/XZZAYZPE5BE27KHVQG6A7X7C5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/25/XZZAYZPE5BE27KHVQG6A7X7C5I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 12:41:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SRIFKJRVFHJZHFLNAAG6BRKNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주여자교도소 전경/청주여자교도소 누리집&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주여자교도소에 수감 중이던 30대 재소자가 병원 치료 중 숨져 교정당국이 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;25일 법무부에 따르면 지난 20일 오후 1시쯤 청주여자교도소 수용동 내 샤워실에서 재소자 A씨가 의식 저하 상태로 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 샤워실 밖에서 대기 중이던 교도관에 의해 발견됐으며, 극단 선택을 시도했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이후 A씨는 병원으로 이송돼 치료를 받았으나, 전날 결국 사망했다.&lt;br&gt;&lt;br&gt;대전지방교정청 특별사법경찰은 정확한 사망 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살예방SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교내 복도서 담배 피운 고교생들...흡연 영상 SNS 확산</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/25/CKK77HNCSFCDVCLKQB6QP5WM5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/25/CKK77HNCSFCDVCLKQB6QP5WM5I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 14:10:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJKFFJXCFNE2HDJJYALQYLUMJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 지역 한 고등학교 내부에서 담배를 피우는 학생./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 한 고등학교에서 신입생들이 교내에서 흡연하는 모습이 소셜미디어(SNS)를 통해 확산하면서 교육 당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;25일 전남교육청에 따르면, 이달 초 전남의 한 고등학교에서 일부 남녀 신입생들이 복도나 화장실에서 흡연하거나 춤을 추는 모습을 SNS에 올렸다. &lt;br&gt;&lt;br&gt;영상에는 남학생이 담배를 피우며 계단을 오르는 모습과 여학생이 화장실로 보이는 장소에서 흡연하는 장면이 담겼다. &lt;br&gt;&lt;br&gt;교육지원청과 학교 조사 결과 이들은 1학년 신입생들로, 입학 이후 교사 지도에 불응해 학교생활교육위원회 조치가 누적된 학생도 일부 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;교육 당국은 해당 학생들에게 출석 정지 등 징계를 내린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;도교육청 관계자는 “실내에서 저렇게 버젓이 흡연하는 모습에 매우 놀랐다”며 “같은 일이 반복되지 않도록 지도하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 3월 26일</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/25/RG6ILEZPONAVTKOIJX4ZNB5BOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/25/RG6ILEZPONAVTKOIJX4ZNB5BOM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 14:31:00 +0000</pubDate>
+      <content:encoded>낮 기온 20도 안팎까지 올라&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY7YKBGNS5ASNGLKGAJI3VHAP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 지자체 96% 실제 인구보다 계획 인구 많았다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/03/25/ADKG2EJHSNERXMETMTQN4MIRMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/25/ADKG2EJHSNERXMETMTQN4MIRMU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 12:24:33 +0000</pubDate>
+      <content:encoded>충북 음성군이 예상했던 ‘2025년 계획 인구’는 17만9000명이었다. 계획 인구란 그 시점에 인구가 얼마가 될지 추산한 것으로, 상하수도 등과 같은 도시 인프라 개발 계획을 세울 때 기준이 되는 지표다. 음성군도 2016년 도시 개발을 위해 계획 인구를 추산했다. 하지만 음성군의 지난해 실제 인구는 9만2945명에 그쳤다. 계획 인구가 실제 인구보다 92% 많았던 셈이다. 경남 사천시 역시 ‘2025년 계획 인구’를 20만명으로 추산했던 것과 달리, 실제 인구는 이에 훨씬 못 미치는 10만8038명 수준이었다.&lt;br&gt;&lt;br&gt;전국 지방자치단체들이 이처럼 실제 인구보다 계획 인구를 대거 부풀리고 있는 것으로 나타났다. 25일 인구 전문 민간 싱크탱크인 한반도미래인구연구원이 지방자치단체 124곳을 대상으로 분석을 실시한 결과, 이 가운데 96%인 119곳이 실제 인구보다 계획 인구가 더 많은 ‘과대 추정’ 상태인 것으로 조사됐다. 실제 인구보다 계획 인구가 더 적은 ‘과소 추정’은 5곳(4%)에 그쳤다. 계획 인구와 실제 인구가 얼마나 차이가 나는지를 뜻하는 ‘과대 추정 비율’은 평균 21.9%였다. &lt;br&gt;&lt;br&gt;지역별로 보면 경남 지역의 평균 괴리율이 32%로 광역 지자체 중 가장 높았다. 이어 경북(27%), 충북(26%) 등의 순이었다. 괴리율이 가장 낮은 광역 지자체는 전북으로 12% 수준이었다. &lt;br&gt;&lt;br&gt;문제는 계획 인구가 실제 인구보다 많으면 각종 인프라 구축이나 예산에 필요 이상으로 많은 돈을 쓰게 된다는 점이다. 돈을 들여 인프라를 만든 뒤에도 이용률이 저조할 수밖에 없다. 실제로 지자체들은 국토계획법과 도시·군 기본계획 수립 지침에 따라 도시·군 기본계획을 세워야 하는데, 여기에는 계획 인구가 포함된다. 계획 인구는 지역 내 도시 개발은 물론 기반 시설 투자, 예산 책정 등의 기준이 된다. &lt;br&gt;&lt;br&gt;연구원 소속 유혜정 인구연구센터장은 “과거 인구가 늘어날 때는 계획 인구를 부풀리는 관행이 큰 문제가 되지 않았지만, 인구가 줄어드는 현 시점에선 지역의 행정력이 낭비되고, 국가 재정에도 부담이 된다”며 “과대 추정된 계획 인구를 실제 현실 인구 기반으로 전면 재설정해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울행정법원, ‘한국형 사회법원’ 추진…장애인·노인·아동에게 쉬운 재판</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 04:51:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTENJRMEZWMYRXMJQTEYJRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울행정법원에서 열린 사회보장 전담재판부 간담회 모습. /서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원이 장애인·노인·임산부·아동 등 사회적 약자를 위한 ‘한국형 사회법원’ 구축에 나선다. 사회보장 사건 전문성을 높이고, 판결문은 쉬운 말로 쓰고, 소송 비용 부담은 줄이는 것이 핵심이다.&lt;br&gt;&lt;br&gt;서울행정법원은 독일의 사회법원 모델을 국내 법 체계에 맞게 적용해 한국형 사회법원을 추진하는 안건을 23일 전체 판사회의에서 논의한다고 밝혔다. 구체적으로 △사회보장 전담재판부 확대·개편 △쉬운 판결문 도입 △소송구조(재판을 받는 데 드는 비용을 국가가 대신 내주는 제도) 확대를 추진한다.&lt;br&gt;&lt;br&gt;독일 사회법원은 연금·장애급여·실업급여 등 사회보장 분야 분쟁만 전담하는 특수법원으로, 핵심 원칙이 ‘원고 친화성’이다. 일반 소송에서는 원고가 직접 증거를 모으고, 변호사를 선임해 주장을 입증해야 한다. 비용도 원칙적으로 원고가 부담한다. 하지만 독일 사회법원은 장애인이나 수급자가 소장을 낼 때 인지대(소송 수수료)가 없고, 판사가 직접 사실 조사에 나선다. 원고가 무슨 주장을 해야 할지 모르더라도, 법원이 먼저 설명해줄 의무가 있다. 사회보장 분쟁의 상대방은 대개 국가나 공공기관으로 사회적 약자인 원고가 불리할 수밖에 없기 때문에 법원이 나서 보완한다는 취지다.&lt;br&gt;&lt;br&gt;서울행정법원은 이런 독일 사회법원 모델을 따오겠다는 것이다. 먼저 사회보장 전담재판부를 확대한다. 기존 서울행정법원의 사회보장 전담재판부는 산업재해 사건을 전담으로 맡아왔다. 이를 올해부터는 장애인·노인·임산부·아동 관련 사건 전반으로 확대했다. 3월 현재 합의부 6곳과 단독 판사 7명이 사회보장 사건을 전담하고 있다.&lt;br&gt;&lt;br&gt;‘쉬운 판결문’도 시범 도입한다. ‘이지 리드(Easy Read)’라고도 불리는 쉬운 판결문은 복잡한 법률 문서를 짧고 쉬운 문장·그림으로 바꿔 쓰는 것이다. 예컨대 보통 판결문에는 ‘원고의 청구는 이유 없다’ 같은 법률 용어가 쓰이는데, 이를 ‘원고는 수어 통역을 거쳐야 하는 청각장애인이므로, 다른 사람보다 더 많은 면접 시간이 주어졌어야 했다고 주장했습니다. 하지만 재판부가 세심하게 살펴본 결과, 면접 과정은 불공평하지 않았습니다’와 같이 누구나 이해할 수 있는 말로 소송 결과를 전달하는 것이다.&lt;br&gt;&lt;br&gt;소송구조도 확대한다. 장애 유형별 전문 변호사 풀(pool)을 구성하고, 장애 관련 사건은 접수 단계에서 원칙적으로 전액 소송구조를 받을 수 있게 된다. 거동이 어려운 중증 장애인에게는 주거지 근처 변호사를 배정하는 ‘찾아가는 소송구조 서비스’도 도입한다.&lt;br&gt;&lt;br&gt;서울행정법원은 법원행정처에 소송구조 변호사 보수를 현행 대비 4~5배(400만~500만원)까지 올리는 예규 개정을 요청한 상태다. 전문 공익 변호사의 참여를 끌어올리기 위한 조치다. 법률구조공단과의 업무협약을 통해 장애인 당사자에게 먼저 연락하는 ‘보다 쉬운 변호사 연결 서비스’도 추진하고 있다.&lt;br&gt;&lt;br&gt;한국형 사회법원은 올해 2월 부임한 정선재 법원장과 강우찬 수석부장판사가 주도적으로 추진하고 있다. 정 법원장은 사법연수원 기획총괄 교수이던 2009년 국내 최초의 시각장애인 판사인 최영 판사(당시 사법시험 합격자)의 연수원 입소를 직접 총괄했다. 서울고법 재판장을 맡던 2023~2026년 업무 과중으로 자살한 중간관리자 사건, 화학물질 노출로 췌장암에 걸린 근로자 사건 등 1심에서 기각된 사회보장 사건을 항소심에서 잇따라 뒤집는 판결을 했다.&lt;br&gt;&lt;br&gt;강 수석부장판사는 2022년 국내 최초로 ‘쉬운 판결문’을 작성한 판사로 알려져 있다. 지적장애인 원고가 장애인 일자리 사업에서 불합격 처분을 받은 사건을 기각하면서 판결문 주문 옆에 “안타깝지만 원고가 졌습니다”라고 적고, 그림과 쉬운 말로 요약한 판결문을 붙여 주목받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘계엄 해제 방해’ 추경호 첫 재판… “특검 공소 자체가 법왜곡죄”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/25/TKDXK4CXFBD65J47ALASCTUDXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/25/TKDXK4CXFBD65J47ALASCTUDXE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Mar 2026 11:19:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3TANBRGBRDOOLEGQYGIYLCMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 불법 비상계엄 당시 계엄해제를 방해한 혐의를 받는 추경호 국민의힘 의원이 25일 오후 서울 서초구 서울중앙지방법원에서 열린 내란중요임무종사 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 국민의힘 의원의 첫 정식 재판이 25일 열렸다.&lt;br&gt;&lt;br&gt;조은석 내란 특별검사팀은 추 의원이 윤석열 전 대통령의 계엄 협조 요청을 받고 국회의 계엄 해제 표결을 방해했다고 주장했다. 반면 추 의원 측은 “사전 공모는 없었고 당사 소집은 극한의 혼란 속에서 당론을 모으기 위한 정당한 조치였다”는 취지로 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;추 의원은 이날 서울중앙지법 형사34부(재판장 한성진) 심리로 열린 공판에 검은 정장과 붉은 넥타이 차림으로 출석했다. 추 의원은 계엄 당일 윤 전 대통령의 지시를 받고 국민의힘 의원총회 소집 장소를 여러 차례 변경해 의원들의 계엄 해제 표결을 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;특검은 이날 재판에서 추 의원이 계엄의 위헌성을 명확히 인지했음에도 내란에 가담했다고 주장했다. 특검 측은 “추 의원은 윤 전 대통령과 통화 이후 계엄을 신속히 해제하기 위해 ‘본회의장으로 집결하라’는 한동훈 당시 국민의힘 당대표의 요구에 아무런 응답을 하지 않았다”며 “의원총회를 개최할 의사가 없었음에도 국민의힘 의원들에게 당사 3층으로 모이라는 취지의 공지를 연달아 반복적으로 발송했다”고 지적했다. 국회 출입이 통제된 상황에서 의원들을 당사로 부른 것은 사실상 표결 불참을 선언한 것이며, 의원들에게 극심한 혼란을 줘 계엄 해제 의결을 고의로 방해했다는 것이다.&lt;br&gt;&lt;br&gt;특검은 또 계엄군이 유리창을 깨고 국회 본청으로 진입해 직원들과 몸싸움을 벌이는 폭동 상황에서도 추 의원은 본회의장이 아닌 원내대표실에 머물며 이를 방관했다고도 했다.&lt;br&gt;&lt;br&gt;반면 추 의원 측 변호인단은 “특검이 가공된 자료를 억측과 상상으로 끼워 맞추고 논리에 어긋나는 비합리적 주장을 하고 있다”며 맞섰다. 이어 “공소 사실 자체가 최근 논란이 되는 ‘법왜곡죄’ 구성 요건에 해당하는 것은 아닌지 의문을 지울 수 없다”고 했다.&lt;br&gt;&lt;br&gt;추 의원 측은 “과거 민주당의 계엄 의혹 제기를 ‘괴담’으로 치부할 만큼 추 의원은 계엄 선포를 전혀 예상하지 못했다”며 윤 전 대통령과 계엄 해제 표결 방해를 사전에 공모한 적이 없다고 반박했다. 그 근거로 계엄 당일 윤 전 대통령과의 통화가 2분 남짓에 불과했다는 점, 윤 전 대통령의 내란 사건 1심 판결문에 추 의원에게 협조를 요청했다는 내용이 없는 점 등을 들었다.&lt;br&gt;&lt;br&gt;추 의원도 이날 법원에 출석하면서 취재진에 “이 사건은 추경호 개인에 대한 것이 아닌 국민의힘을 위헌 정당으로 몰아가 보수 정당의 맥을 끊으려는 내란 몰이 정치 공작”이라고 말했다. 그는 “추경호와 국민의힘을 겨냥한 이재명 정권과 정치 특검의 터무니없는 정치 공작과 탄압은 재판을 통해 그 진실이 명백히 밝혀질 것”이라며 “법과 원칙에 따라 끝까지 당당하게 싸워 승리하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>가천대 길병원 주변 530m… 명예도로 ‘가천 이길여길’ 지정</title>
       <link>https://www.chosun.com/national/regional/2026/03/25/CDAKO7XGARG53OE3CTCDRIDC2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/25/CDAKO7XGARG53OE3CTCDRIDC2E/</guid>
@@ -762,15 +816,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPROX6CWGFCDBLKLUTTPEIW5JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세계 문학으로 배우는 맛있는 한자’ 시리즈가 이달부터 독자들을 찾아갑니다. ‘맛있는 한자’는 조선일보가 발행하는 주간 만화 한자 학습지입니다. 톨스토이 ‘바보 이반’, 헤밍웨이 ‘노인과 바다’ 등 대문호들의 대표작 20여 편을 만화로 재구성했습니다. 2년 동안 총 100회 연재됩니다. 명작을 감상하며 한자와 사자성어를 자연스럽게 익힐 수 있습니다. 아이들에게는 고전 읽기의 재미를, 시니어 독자들에게는 향수를 되새기는 기회를 선사할 것으로 기대됩니다. 조선일보 독자에게는 매주 무료로 배달되며, 이미 ‘맛있는 한자’를 구독 중인 독자는 별도로 신청할 필요가 없습니다.&lt;br&gt;&lt;br&gt;▲신청: 1577-8585(독자 서비스 센터)&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [437] ‘잘하다’와 ‘잘 하다’</title>
-      <link>https://www.chosun.com/national/nie/2026/03/25/3LQUX4EVEFF7HDVB5ODRBNS6G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/25/3LQUX4EVEFF7HDVB5ODRBNS6G4/</guid>
-      <dc:creator>김수은 토월초 교사</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZTIPYVW7NHT3M2TRBVOKI2MRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리말에는 띄어쓰기에 따라 뜻이 달라지는 말이 있습니다. ‘잘하다’와 ‘잘 하다’가 대표적이지요. 겉보기에는 비슷하지만 어떤 차이가 있을까요?&lt;br&gt;&lt;br&gt;먼저 ‘잘하다’는 어떤 일을 능숙하고 훌륭하게 한다는 뜻입니다. ‘잘’은 본래 ‘잘 먹다’, ‘잘 뛰다’처럼 다른 말과 띄어 쓰는 것이 원칙이지만, ‘잘하다’는 오랫동안 널리 쓰이면서 하나의 단어로 굳어졌습니다. 따라서 능력이나 솜씨를 말할 때는 ‘노래를 잘한다’, ‘축구를 잘한다’처럼 붙여 씁니다.&lt;br&gt;&lt;br&gt;반면 ‘잘 하다’처럼 띄어 쓸 때도 있습니다. 이때의 ‘잘’은 ‘하다’를 꾸며 주는 부사로 ‘순조롭게’, ‘문제없이’라는 뜻을 나타냅니다. 따라서 “숙제 잘 하고 있어?”는 숙제를 문제없이 하고 있는지 묻는 말입니다.&lt;br&gt;&lt;br&gt;헷갈릴 때는 그 자리에 반대말인 ‘못하다’를 넣어 보면 도움이 됩니다. ‘노래를 못한다’처럼 자연스럽다면 ‘잘하다’로 붙여 쓰면 되기 때문입니다. 알쏭달쏭한 띄어쓰기를 익혀 우리말을 더욱 정확하게 사용해 봅시다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;- 우리 형은 축구를 잘해요.&lt;br&gt;&lt;br&gt;- 새 학기 준비 잘 하고 있어?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [동물 이야기] ‘여름잠’ 자는 파충류… 뱀처럼 긴 목으로 잠수하며 육지 천적 피한대요</title>
       <link>https://www.chosun.com/national/nie/2026/03/25/5WY5HV7KMFBOBKMPBOPAFBSUFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/25/5WY5HV7KMFBOBKMPBOPAFBSUFA/</guid>
@@ -787,51 +832,6 @@
       <description/>
       <pubDate>Tue, 24 Mar 2026 15:40:00 +0000</pubDate>
       <content:encoded>최근 이란 전쟁의 여파로 국제 유가가 오르면서 주춤했던 ‘셰일’ 산업이 미국에서 다시 활기를 띠고 있대요. 셰일은 진흙이나 입자가 작은 자갈이 오랜 시간 층층이 쌓이면서 땅속에 만들어진 퇴적암입니다. 이 셰일층에 갇혀 있는 천연가스와 석유를 셰일가스, 셰일오일이라고 부르죠. 원래 미국이 셰일가스와 셰일오일을 채굴할 수 있는 기술을 갖고 있는데, 이는 일반 석유나 가스를 채굴하는 것보다 비용이 많이 들어요. 그래서 셰일 산업은 국제 유가가 낮을 땐 수익이 많이 나지 않기 때문에 침체되지만, 유가가 오르면 활기를 띠게 되죠. &lt;br&gt;&lt;br&gt;전기, 자동차, 스마트폰 등을 사용하는 우리 삶은 다양한 에너지에 의존하고 있어요. 에너지는 무언가를 움직이거나 상태를 바꾸는 능력, 즉 물체가 ‘일을 할 수 있는 힘’을 뜻합니다. 예를 들어 공을 굴리거나, 물을 끓이거나, 자동차를 움직이게 하는 모든 것이 에너지의 작용이에요. 인류는 처음엔 인간의 노동력만을 사용하다가 이어 가축의 힘을 에너지 삼아 일을 하기 시작했고, 어느 순간부터는 기계를 사용하게 됐어요. 새로운 에너지가 등장할 때마다 세상은 완전히 달라졌어요. 이렇게 인류 역사를 바꾼 ‘에너지 혁명’에는 어떤 것들이 있을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5LV5HC2PNBNFD2ZXEI7Q4EHVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제임스 와트가 만든 증기기관입니다. 영국 런던의 과학박물관에 전시돼 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;가축 힘 빌리자 등장한 위대한 사상가&lt;/b&gt;&lt;br&gt;&lt;br&gt;인류 초기 사회에서는 물건을 나르고, 땅을 갈고, 이동하는 것까지 모두 인간이 직접 했습니다. 이후 인간은 가축의 힘을 이용하기 시작했는데요. 특히 주목받은 가축이 소였어요. 인류가 소를 활용한 시기는 고대 문명의 시작과 맞물려 있기도 해요. 메소포타미아·이집트·인도·중국 등 고대 문명의 발상지에서는 소를 활용하면서 농업 생산력을 크게 높였죠.&lt;br&gt;&lt;br&gt;중국은 춘추전국 시대(기원전 770~221년)에 본격적으로 소를 이용해 경작을 시작했다고 알려져 있어요. 이를 ‘우경’이라고 부릅니다. 우경은 농업 생산력을 크게 높여 농사짓는 인력을 줄였고, 그 결과 남는 노동력이 수공업으로 이동하면서 수공업 발달을 촉진했어요. 이렇게 만들어진 제품들이 거래되면서 상품 화폐 경제도 발달했죠.&lt;br&gt;&lt;br&gt;인구가 늘고 생산물이 쌓이면서, 이를 둘러싼 국가 간 경쟁도 치열해졌습니다. 그 결과 춘추전국 시대에는 전쟁이 자주 일어났어요. 사회가 혼란해지자 사람들은 ‘어떻게 살아야 하는가’를 고민하기 시작했고, 그 과정에서 공자·맹자 같은 사상가들이 등장했습니다. 인도의 부처나 그리스의 소크라테스, 플라톤 등도 가축의 힘으로 농사를 짓기 시작한 시대에 등장한 위대한 사상가들이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOWKLXBLQZE2RJTWYJGYHQYGNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스코틀랜드 화가 제임스 엑포드 로더의 1885년 그림입니다. 제임스 와트가 증기기관을 연구하는 모습을 담고 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;세계를 연결한 증기&lt;/b&gt;&lt;br&gt;&lt;br&gt;18세기, 석탄을 이용한 증기기관이 등장하면서 인류는 ‘기계가 일하는 시대’를 맞이했어요. 산업혁명 초기에는 물이 흐르는 힘으로 바퀴를 돌리고 그 바퀴가 기계를 움직였어요. 따라서 공장은 물가에 세워야 했죠. 다른 지역에서도 기계를 사용하려면 새로운 동력이 꼭 필요했는데요. ‘증기기관’이 등장한 이후 내륙 곳곳에도 공장이 세워지게 됐답니다.&lt;br&gt;&lt;br&gt;증기기관은 탄광에서 갱 안의 지하수를 퍼내기 위해 처음 사용됐습니다. 석탄을 태워 물을 끓이고 증기가 피스톤(실린더 안에서 왕복 운동을 하는 부품)을 움직이면 기계가 작동하는 방식이었죠.&lt;br&gt;&lt;br&gt;하지만 초기 증기기관은 증기가 쉽게 식거나 새어 나가 연료가 많이 낭비된다는 한계가 있었어요. 그러다 1790년대 스코틀랜드의 기술자 제임스 와트가 증기 낭비를 줄일 방법을 생각해냈어요. 증기를 데우는 공간과 식히는 공간을 분리해, 열기를 최대한 유지할 수 있게 만든 것이죠. 흔히 제임스 와트가 증기기관을 발명했다고 알려져 있지만, 사실은 증기기관을 개량한 사람입니다.&lt;br&gt;&lt;br&gt;이후로는 증기기관차가 등장해 사람·물자가 대규모로 멀리 이동할 수 있게 됐어요. 철도로 유럽 전체가 연결되면서 산업 혁명도 확산했죠. 증기기관으로 움직이는 배인 증기선은 세계 무역 규모를 폭발적으로 성장시켰습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YB4NRXJJRG77P5VUDBB73TPOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1920년대 카를 벤츠의 사진입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;‘가솔린’과 ‘디젤’&lt;/b&gt;&lt;br&gt;&lt;br&gt;19세기 후반에는 ‘내연기관’이 등장하면서 석탄 대신 석유가 중심 에너지로 떠올랐어요. 내연기관은 연료를 엔진 내부에서 태워 피스톤을 움직이는 방식이에요. 증기기관은 강력한 힘을 가지고 있었지만, 아무리 우수한 증기기관도 발생한 열의 90% 정도는 손실됐어요. 쉽게 흩어져 버리는 수증기의 특성 때문이었죠. 증기기관은 크기가 커서 자동차 같은 소형 이동 수단에는 적합하지 않기도 했어요.&lt;br&gt;&lt;br&gt;이런 이유로 더 작고 효율적인 동력 장치인 내연기관이 개발된 것입니다. 1885년 독일의 기술자 카를 벤츠는 직접 제작한 가솔린(휘발유) 엔진으로 자동차를 만들었는데, 이 원리가 오늘날 대부분의 자동차 엔진에 그대로 사용되고 있어요. 카를 벤츠는 우리가 알고 있는 세계적인 자동차 기업 메르세데스 벤츠의 설립자입니다. 이어 1890년에는 독일의 기술자 루돌프 디젤이 더 저렴한 연료를 사용하는 디젤(경유) 기관을 개발했어요. 가솔린·디젤 등 내연 기관은 자동차와 비행기, 선박의 이동을 폭발적으로 늘렸지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O35EB4ZHS5D67K5WC4PYGTYMDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카를 벤츠가 1885년 만든 가솔린 자동차예요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;보이지 않는 전기가 일으킨 혁명&lt;/b&gt;&lt;br&gt;&lt;br&gt;19세기 말에서 20세기에는 전기가 새로운 에너지로 등장했어요. 그리고 전기로 움직이는 장치인 ‘전동기’가 만들어졌죠. 전동기는 작고 효율적이라 어디서든 사용할 수 있고, 정밀하게 제어할 수 있다는 장점을 가지고 있어요. 전동기 이후 가전제품과 컴퓨터, 다양한 전자 기기 등이 등장해 널리 사용됐죠. 눈에 보이지 않는 전기가 현대 사회의 기반을 만든 거예요.&lt;br&gt;&lt;br&gt;오늘날에도 계속 변화가 일어나고 있어요. 자동차 엔진은 내연기관에서 전동기로 이동하고 있고, 에너지 역시 석유 중심에서 태양광이나 풍력 같은 재생 에너지로 전환되고 있죠. 인간이 하는 일을 인공지능(AI)과 로봇 등이 대신하는 자동화 사회도 점차 현실이 되고 있습니다. 이런 변화는 우리가 겪고 있는 새로운 혁명이라고도 할 수 있어요. 앞으로 우리가 어떤 에너지와 기술을 활용하느냐에 따라 인류의 삶은 다시 한번 크게 달라질 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 맹탕(맹湯)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/03/25/YAACW57CERG4HAEZURO6P5TIMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/03/25/YAACW57CERG4HAEZURO6P5TIMA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMTKMBYSENFJBNGVNIMB46CR7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] talk past each other</title>
-      <link>https://www.chosun.com/national/nie/english/2026/03/25/Y4PNSV4TPBCL5JDYVADPOZVLZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/03/25/Y4PNSV4TPBCL5JDYVADPOZVLZM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEYA4D4CDVGQJHWPUE4SMRFYSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 어깨가 안쪽으로 굽다, 라운드 숄더</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/03/25/NEXSQSZ6WJEONG2XUZDCS7XYUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/03/25/NEXSQSZ6WJEONG2XUZDCS7XYUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46CBIO5CRVH5NEF2BOVYNKLW3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2832] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2026/03/25/WF4DGBX27RBKLOXETYYZFH6FIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/25/WF4DGBX27RBKLOXETYYZFH6FIU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWBJONIXP5CV7KCV6ZYRGHBRWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 머릿속에 떠오르다, 생각이 나다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/03/25/5JPYBZPARBH6PEWGWALEYKHZP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/03/25/5JPYBZPARBH6PEWGWALEYKHZP4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QAADMPSDRDETK6JQNPXUC44ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>취업률 1위… 이론 50%·실습 50%로 ‘경력 같은 신입’ 키워낸다</title>
