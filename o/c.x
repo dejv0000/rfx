@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 3월 27일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/26/ZYL7AQGG3RFOLLYQBCNNNI2Y6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/26/ZYL7AQGG3RFOLLYQBCNNNI2Y6U/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Mar 2026 14:31:00 +0000</pubDate>
+      <content:encoded>금 - 전국 대체로 맑고 미세먼지 농도 짙어&lt;br&gt;&lt;br&gt;토·일 - 공기 탁하고 ‘최고 22도’ 포근&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXVHFHDRGJAZJH3WLHWMBKX6EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 음성 필름 제조공장서 불...야산 번져 대응 1단계</title>
+      <link>https://www.chosun.com/national/regional/2026/03/26/HVUXTYU2JFBPTATN72ZLZFZ2DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/26/HVUXTYU2JFBPTATN72ZLZFZ2DI/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Mar 2026 13:01:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSXPDNS3CJG4VJLCKFCXT7QQ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 충북 음성군 한 필름 제조공장에서 화재가 발생해 불길이 번지고 있다. /충북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성군 한 공장에서 난 불이 인근 야산으로 번졌다. 소방 당국은 대응 1단계를 발령해 진화 중이다.&lt;br&gt;&lt;br&gt;26일 소방 당국에 따르면, 이날 오후 8시 13분쯤 충북 음성군 금왕읍 한 필름 제조 공장에서 불이 나 인근 야산으로 번졌다. &lt;br&gt;&lt;br&gt;소방 당국은 대응 1단계를 발령해 진화 중이다. 대응 1단계는 관할 소방서 인력과 장비를 모두 동원하는 조치다.&lt;br&gt;&lt;br&gt;소방은 이날 오후 10시쯤 야산에 옮겨붙은 불을 진화했다.&lt;br&gt;&lt;br&gt;불이 나자 인근 요양원과 주민 등 30명이 대피했으며, 40대 공장 직원이 가벼운 화상을 입었다.&lt;br&gt;&lt;br&gt;소방 당국은 불을 끄는 대로 정확한 화재 원인과 피해 규모 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 동구 공장서 화재...소방 당국 대응 1단계 발령</title>
+      <link>https://www.chosun.com/national/incident/2026/03/26/654W4JDEKJGSZBMZSIADOW3DE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/26/654W4JDEKJGSZBMZSIADOW3DE4/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Mar 2026 13:25:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZDAYJXGQZDSNBTGA3GMOLGGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 대구 동구 방촌동의 한 조명자재 공장에서 불이 나 소방 당국이 진화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 동구 방촌동 한 공장에서 불이 나 소방 당국이 대응 1단계를 발령했다.&lt;br&gt;&lt;br&gt;26일 대구소방안전본부에 따르면, 이날 오후 8시 43분쯤 동구 방촌동 한 제조 공장에서 화재가 발생했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;불이 인근 건물로 번지면서 소방 당국은 이날 오후 9시 6분쯤 대응 1단계를 발령했다. 대응 1단계는 관할 소방서 인력과 장비를 모두 동원하는 조치다.&lt;br&gt;&lt;br&gt;대구소방은 차량 45대와 대원 137명을 투입해 진화 작업을 펼치고 있다. &lt;br&gt;&lt;br&gt;큰 불길은 오후 10시 26분쯤 잡혔다. 현재까지 확인된 인명 피해는 없다.&lt;br&gt;&lt;br&gt;동구는 ‘검사동 공장에서 화재 발생. 인근 주민은 안전한 곳으로 즉시 대피하기 바란다’는 내용의 안전 안내 문자를 발송했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘거액 추징금’ 항의하던 울산 택배노조 간부 분신 시도</title>
+      <link>https://www.chosun.com/national/incident/2026/03/26/FY7VXUWSENHRJEQKISOPLEACWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/26/FY7VXUWSENHRJEQKISOPLEACWQ/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Mar 2026 13:17:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWCYZURPPJI5FFZFE3MFKXNWEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오전 울산 북구 동울산세무서 청사 앞 야외주차장에서 50대 남성 민원인이 분신을 시도해 2명이 중경상을 입었다. 사진은 출동한 소방대원들이 현장을 정리하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 한 세무서에서 택배 노조 간부가 거액의 세금 추징에 항의하며 분신을 시도했다.&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면, 이날 오전 10시 49분쯤 울산 북구 동울산세무서 야외 주차장에서 50대 남성 A씨가 분신을 시도했다.&lt;br&gt;&lt;br&gt;A씨는 미리 준비한 인화성 물질을 몸에 뿌린 뒤 불을 붙인 것으로 파악됐다. 이 과정에서 A씨는 중상을 입어 인근 병원으로 이송됐다. 이를 말리던 세무서 직원 1명도 경상을 입었다.&lt;br&gt;&lt;br&gt;A씨는 전국택배노조 울산지부 산하 노동조합에서 지회장을 맡고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 최근 울산 지역 택배 기사들에게 내려진 거액의 부가가치세 추징 통보에 항의하기 위해 분신을 시도한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;해당 부가가치세는 택배 기사들의 세무 신고를 대행하던 B씨의 부정 행위가 적발되면서 부과됐다. B씨는 5년 동안 택배 기사 1000여 명의 세액공제 대상인 ‘매입세액’을 부풀려 신고해 오다 최근 세무 당국에 적발된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이후 세무 당국은 5년 치 미납 세금과 과징금, 가산세 등을 포함해 택배 기사 1인당 1억원 안팎의 추징금을 통보했다.&lt;br&gt;&lt;br&gt;A씨는 분신 직전 노조 단체 대화방에 대통령에게 보내는 글과 유서를 남겼다고 한다. 그가 남긴 글에는 “앞으로 성실히 모범적으로 행하겠다는 다짐도 가차 없이 법대로 한다는 말에 어느 한 곳 기댈 곳이 없다”는 등의 내용이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “학교 밖 청소년 학평 응시 제한은 위법… 차별 없는 기회 줘야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/26/2G4JSYPIJ5GS5ODYMCLC6HM4OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/2G4JSYPIJ5GS5ODYMCLC6HM4OU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Mar 2026 12:12:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구  서울가정법원·서울행정법원 청사./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재학생이 아닌 ‘학교 밖 청소년’에게도 전국연합학력평가(학평) 응시 기회를 줘야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 학교 밖 청소년 2명이 서울시교육감과 경기도교육감 등을 상대로 낸 응시 신청 거부 취소 소송에서 원고 승소로 판결했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 중·고등학교를 자퇴한 학교 밖 청소년 A씨 등은 지난해 3월 교육청에 학평 응시 신청서를 제출했다. 하지만 교육청은 “학평은 초·중등교육법 등에 따라 고등학교 재학생 중 희망 학교 및 희망 학생만을 대상으로 한다”며 거부했다. A씨 등은 이에 불복해 같은 해 7월 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 “학교 밖 청소년들이 학교 밖에 있다는 이유로 부당한 차별을 받아서는 안 된다”며 “이들은 국가와 지자체에 교육 지원 등을 요구할 권리를 가진다”고 했다. 이어 “학교 밖 청소년들 역시 검정고시에 응시·합격해 대학 입학을 준비할 수 있기 때문에 학평에 응시하는 경험을 통해 대학수학능력시험 적응력을 제고할 필요성은 동일하게 인정된다”고 했다.&lt;br&gt;&lt;br&gt;교육청은 학교 밖 청소년까지 시험 대상을 확대할 경우 별도의 시험장을 확보해야 하고 감독관을 배치해야 해 연간 수십억 원의 예산이 추가로 들어 행정적·재정적 부담이 든다고 주장했다. 하지만 재판부는 “필요에 따라 재학생이 아닌 응시자에게는 일정한 응시료를 부담하도록 하는 방법 등도 충분히 고려해 볼 수 있다”며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “오늘날 학교 밖 청소년들이 증가하는 추세에 있다고 하더라도, 청소년기에 대다수의 또래 집단이 선택한 길이 아닌 다른 길을 선택하기까지는 적잖은 고민이 있었을 것”이라고 했다. 이어 “어떠한 사정에서든 국가와 사회는 학교 밖 청소년이 된 자들이 학교 밖에 있다는 이유로 사회적 편견과 차별을 받지 않고 우리 사회의 건강한 구성원으로 성장하도록 지원할 의무가 있다”며 교육청이 제시한 행정적, 재정적 어려움이 다시 제도권 교육으로 돌아오고자 하는 청소년들의 기회를 박탈할 명분이 될 수 없다고 판시했다.&lt;br&gt;&lt;br&gt;공익법단체 두루의 홍혜인 변호사는 이날 “학교 밖 청소년들의 전국연합학력평가 응시 기회를 원천적으로 봉쇄한 교육청의 응시 신청 거부 처분이 위법하다는 것이 학력평가 도입 이래 24년 만에 공식적으로 확인된 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3명 숨진 영덕 풍력발전기 화재 나흘 만에 완진</title>
+      <link>https://www.chosun.com/national/incident/2026/03/26/5L5S6MJUCNHRTHBKL4SWZ7LIH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/26/5L5S6MJUCNHRTHBKL4SWZ7LIH4/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Mar 2026 11:02:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSVH7E4Y4NJF5CIXAIWQDNXUA4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;화재가 난 경북 영덕군 창포리 풍력발전기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3명의 사망자를 낸 경북 영덕 풍력발전기 불이 나흘 만에 꺼졌다.&lt;br&gt;&lt;br&gt;경북 영덕군 등에 따르면 26일 오후 3시쯤 영덕읍 창포리 풍력발전단지 내 화재가 발생한 풍력발전기에 고층 건물 화재 진압용 소방차를 투입해 남아 있던 불을 모두 껐다. 지난 23일 오후 1시 11분쯤 불이 난 뒤 약 74시간 만이다.&lt;br&gt;&lt;br&gt;진화가 마무리됨에 따라 경찰과 소방 당국 등은 철거와 감식 방안에 대해 논의할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 23일 오후 영덕풍력발전단지 내 풍력발전기 19호기에서 불이 났다. 이 불로 점검 및 수리 작업을 하고 있던 작업자 3명이 숨졌다.&lt;br&gt;&lt;br&gt;당시 불로 블레이드(날개) 3개 중 2개가 발전기에서 떨어져 추락했으나 남은 블레이드 1개와 발전기 본체에는 잔불이 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>檢, ‘대장동 비리’ 전직 기자 범죄수익 121억 은닉 혐의 기소 </title>
       <link>https://www.chosun.com/national/court_law/2026/03/26/YKXA6Y6FRFASPBDCZSOGX34K4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/YKXA6Y6FRFASPBDCZSOGX34K4E/</guid>
@@ -815,51 +869,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7G6CY456VCYLPIGCNK5SP2D24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;할레드 호세이니 지음 l 왕은철 옮김 l 출판사 현대문학 l 가격 1만9800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;연일 들려오는 전쟁 소식에 세계가 어수선합니다. 우리는 안타까워하지만 때로는 그저 먼 나라 이야기라고 여기곤 합니다. 하지만 참혹한 폐허로 변한 그곳도 한때는 누군가 매일 친구와 뛰놀던 일상의 공간이었습니다. 할레드 호세이니의 소설 ‘연을 쫓는 아이’는 전쟁이 평범한 삶을 어떻게 파괴하는지, 그리고 그 잿더미 속에서도 인간의 양심이 어떻게 피어나는지를 그려낸 작품입니다.&lt;br&gt;&lt;br&gt;이야기는 평화로웠던 1970년대 아프가니스탄 수도 카불에서 시작합니다. 부유한 집안의 아들 ‘아미르’와 하인 ‘하산’은 형제처럼 자랍니다. 특히 하산은 아미르를 위해서라면 어떤 궂은일도 마다하지 않는 충직하고 순수한 친구였죠. 연날리기 대회가 열리던 겨울날, 우승을 차지한 아미르를 위해 하산은 끊어진 연을 잡으러 달려가며 외칩니다. “도련님을 위해서라면 1000번이라도!”&lt;br&gt;&lt;br&gt;하지만 그날 으슥한 골목길에서 하산이 동네 불량배에게 잔혹하게 폭행당하는 것을 보고 아미르는 두려워 도망치고 맙니다. 죄책감을 견디지 못한 아미르는 하산에게 도둑 누명을 씌워 집을 떠나게 만듭니다. 얼마 후 소련이 아프가니스탄을 침공하며 전쟁이 시작됩니다. 총성이 울리는 고향을 등지고 아미르는 아버지를 따라 미국으로 망명합니다.&lt;br&gt;&lt;br&gt;미국에 정착한 뒤 아버지는 병으로 세상을 떠나고 아미르는 작가로 성공해 과거를 잊은 척 살아갑니다. 그러던 어느 날 아버지의 옛 동업자 라힘 칸에게서 한 통의 전화가 걸려 옵니다. 불치병으로 살 날이 얼마 남지 않았던 라힘 칸은 아미르를 자신이 망명해 있는 파키스탄으로 불러냅니다. 파키스탄에서 아미르는 충격적인 비밀을 듣습니다. 하산이 사실 아미르의 이복형제였다는 것입니다. 아프가니스탄은 전쟁 이후 내전을 거쳐 탈레반(이슬람 무장 조직)이 집권하게 됐는데, 하산 부부가 아미르의 옛 집을 지키려다 탈레반에게 살해당했다는 비보도 전해 듣습니다.&lt;br&gt;&lt;br&gt;라힘 칸은 “다시 좋은 사람이 될 길이 있다”며 하산의 아들 ‘소랍’을 구해 달라고 아미르에게 부탁합니다. 진실을 마주한 아미르는 아프가니스탄으로 떠났고, 우여곡절 끝에 찾아낸 소랍은 놀랍게도 어린 시절 하산을 괴롭혔던 불량배 아세프에게 붙잡혀 있었습니다. 성인이 된 아세프는 탈레반 간부가 됐고, 고아원에서 소랍을 탈레반에 넘긴 것이었죠. 아미르는 목숨을 건 싸움을 벌인 끝에 조카 소랍을 구하고나서야 비로소 하산에 대한 죄책감을 덜게 됩니다.&lt;br&gt;&lt;br&gt;이 소설이 전 세계 수천만 독자에게 읽힌 이유는 거대한 폭력 앞에서도 사라지지 않는 인간의 양심을 짚어내기 때문입니다. 전쟁은 지도 위 국경선을 바꾸는 데 그치지 않고 한 사람의 영혼을 산산조각 냅니다. 하지만 잿더미 속에서도 다시 좋은 사람이 되기를 포기하지 않는 아미르의 모습은 우리에게 희망을 던집니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2833] 퍼즐 맞추기</title>
-      <link>https://www.chosun.com/national/nie/2026/03/26/EUDMZIFNANF7PMUWMOYTS5PGVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/03/26/EUDMZIFNANF7PMUWMOYTS5PGVM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MAG3OGLFURHQHLTPRNVN6DGHLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] be on easy street</title>
-      <link>https://www.chosun.com/national/nie/english/2026/03/26/P3ZEBNS2H5AP5FVIXOKPQIGF4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/03/26/P3ZEBNS2H5AP5FVIXOKPQIGF4E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZOJW553RBDTVJQ5GCPK3UVEGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 힘이 들어가지 않다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/03/26/EXEPTPX2GFF65G65YLZOAKZXOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/03/26/EXEPTPX2GFF65G65YLZOAKZXOI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPO263E63NEJXGJIA4EY34JKMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 마음에 들다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/03/26/NG23PHVHIRBDVLPMM272HGMI4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/03/26/NG23PHVHIRBDVLPMM272HGMI4U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BFAILRO5FBOLN77XMTXSFH6PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 연소득(年所得)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/03/26/IKTMNYY6EJEMVDFAXQKWI7D6ZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/03/26/IKTMNYY6EJEMVDFAXQKWI7D6ZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Mar 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKKDC2LVMRHAZDL4MSRMHMH5NI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이서진, 축의금 문화 소신 발언...“결혼식 안 가면 돈 안 보내”</title>
       <link>https://www.chosun.com/national/people/2026/03/26/LZJBNROAXVEBRC3UVTK7LIR3NI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/26/LZJBNROAXVEBRC3UVTK7LIR3NI/</guid>
@@ -921,15 +930,6 @@
       <description/>
       <pubDate>Wed, 25 Mar 2026 12:24:33 +0000</pubDate>
       <content:encoded>충북 음성군이 예상했던 ‘2025년 계획 인구’는 17만9000명이었다. 계획 인구란 그 시점에 인구가 얼마가 될지 추산한 것으로, 상하수도 등과 같은 도시 인프라 개발 계획을 세울 때 기준이 되는 지표다. 음성군도 2016년 도시 개발을 위해 계획 인구를 추산했다. 하지만 음성군의 지난해 실제 인구는 9만2945명에 그쳤다. 계획 인구가 실제 인구보다 92% 많았던 셈이다. 경남 사천시 역시 ‘2025년 계획 인구’를 20만명으로 추산했던 것과 달리, 실제 인구는 이에 훨씬 못 미치는 10만8038명 수준이었다.&lt;br&gt;&lt;br&gt;전국 지방자치단체들이 이처럼 실제 인구보다 계획 인구를 대거 부풀리고 있는 것으로 나타났다. 25일 인구 전문 민간 싱크탱크인 한반도미래인구연구원이 지방자치단체 124곳을 대상으로 분석을 실시한 결과, 이 가운데 96%인 119곳이 실제 인구보다 계획 인구가 더 많은 ‘과대 추정’ 상태인 것으로 조사됐다. 실제 인구보다 계획 인구가 더 적은 ‘과소 추정’은 5곳(4%)에 그쳤다. 계획 인구와 실제 인구가 얼마나 차이가 나는지를 뜻하는 ‘과대 추정 비율’은 평균 21.9%였다. &lt;br&gt;&lt;br&gt;지역별로 보면 경남 지역의 평균 괴리율이 32%로 광역 지자체 중 가장 높았다. 이어 경북(27%), 충북(26%) 등의 순이었다. 괴리율이 가장 낮은 광역 지자체는 전북으로 12% 수준이었다. &lt;br&gt;&lt;br&gt;문제는 계획 인구가 실제 인구보다 많으면 각종 인프라 구축이나 예산에 필요 이상으로 많은 돈을 쓰게 된다는 점이다. 돈을 들여 인프라를 만든 뒤에도 이용률이 저조할 수밖에 없다. 실제로 지자체들은 국토계획법과 도시·군 기본계획 수립 지침에 따라 도시·군 기본계획을 세워야 하는데, 여기에는 계획 인구가 포함된다. 계획 인구는 지역 내 도시 개발은 물론 기반 시설 투자, 예산 책정 등의 기준이 된다. &lt;br&gt;&lt;br&gt;연구원 소속 유혜정 인구연구센터장은 “과거 인구가 늘어날 때는 계획 인구를 부풀리는 관행이 큰 문제가 되지 않았지만, 인구가 줄어드는 현 시점에선 지역의 행정력이 낭비되고, 국가 재정에도 부담이 된다”며 “과대 추정된 계획 인구를 실제 현실 인구 기반으로 전면 재설정해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울행정법원, ‘한국형 사회법원’ 추진…장애인·노인·아동에게 쉬운 재판</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/23/NX6NKKLNSVDMZOD267KCNL7ACI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Mar 2026 04:51:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTENJRMEZWMYRXMJQTEYJRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울행정법원에서 열린 사회보장 전담재판부 간담회 모습. /서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원이 장애인·노인·임산부·아동 등 사회적 약자를 위한 ‘한국형 사회법원’ 구축에 나선다. 사회보장 사건 전문성을 높이고, 판결문은 쉬운 말로 쓰고, 소송 비용 부담은 줄이는 것이 핵심이다.&lt;br&gt;&lt;br&gt;서울행정법원은 독일의 사회법원 모델을 국내 법 체계에 맞게 적용해 한국형 사회법원을 추진하는 안건을 23일 전체 판사회의에서 논의한다고 밝혔다. 구체적으로 △사회보장 전담재판부 확대·개편 △쉬운 판결문 도입 △소송구조(재판을 받는 데 드는 비용을 국가가 대신 내주는 제도) 확대를 추진한다.&lt;br&gt;&lt;br&gt;독일 사회법원은 연금·장애급여·실업급여 등 사회보장 분야 분쟁만 전담하는 특수법원으로, 핵심 원칙이 ‘원고 친화성’이다. 일반 소송에서는 원고가 직접 증거를 모으고, 변호사를 선임해 주장을 입증해야 한다. 비용도 원칙적으로 원고가 부담한다. 하지만 독일 사회법원은 장애인이나 수급자가 소장을 낼 때 인지대(소송 수수료)가 없고, 판사가 직접 사실 조사에 나선다. 원고가 무슨 주장을 해야 할지 모르더라도, 법원이 먼저 설명해줄 의무가 있다. 사회보장 분쟁의 상대방은 대개 국가나 공공기관으로 사회적 약자인 원고가 불리할 수밖에 없기 때문에 법원이 나서 보완한다는 취지다.&lt;br&gt;&lt;br&gt;서울행정법원은 이런 독일 사회법원 모델을 따오겠다는 것이다. 먼저 사회보장 전담재판부를 확대한다. 기존 서울행정법원의 사회보장 전담재판부는 산업재해 사건을 전담으로 맡아왔다. 이를 올해부터는 장애인·노인·임산부·아동 관련 사건 전반으로 확대했다. 3월 현재 합의부 6곳과 단독 판사 7명이 사회보장 사건을 전담하고 있다.&lt;br&gt;&lt;br&gt;‘쉬운 판결문’도 시범 도입한다. ‘이지 리드(Easy Read)’라고도 불리는 쉬운 판결문은 복잡한 법률 문서를 짧고 쉬운 문장·그림으로 바꿔 쓰는 것이다. 예컨대 보통 판결문에는 ‘원고의 청구는 이유 없다’ 같은 법률 용어가 쓰이는데, 이를 ‘원고는 수어 통역을 거쳐야 하는 청각장애인이므로, 다른 사람보다 더 많은 면접 시간이 주어졌어야 했다고 주장했습니다. 하지만 재판부가 세심하게 살펴본 결과, 면접 과정은 불공평하지 않았습니다’와 같이 누구나 이해할 수 있는 말로 소송 결과를 전달하는 것이다.&lt;br&gt;&lt;br&gt;소송구조도 확대한다. 장애 유형별 전문 변호사 풀(pool)을 구성하고, 장애 관련 사건은 접수 단계에서 원칙적으로 전액 소송구조를 받을 수 있게 된다. 거동이 어려운 중증 장애인에게는 주거지 근처 변호사를 배정하는 ‘찾아가는 소송구조 서비스’도 도입한다.&lt;br&gt;&lt;br&gt;서울행정법원은 법원행정처에 소송구조 변호사 보수를 현행 대비 4~5배(400만~500만원)까지 올리는 예규 개정을 요청한 상태다. 전문 공익 변호사의 참여를 끌어올리기 위한 조치다. 법률구조공단과의 업무협약을 통해 장애인 당사자에게 먼저 연락하는 ‘보다 쉬운 변호사 연결 서비스’도 추진하고 있다.&lt;br&gt;&lt;br&gt;한국형 사회법원은 올해 2월 부임한 정선재 법원장과 강우찬 수석부장판사가 주도적으로 추진하고 있다. 정 법원장은 사법연수원 기획총괄 교수이던 2009년 국내 최초의 시각장애인 판사인 최영 판사(당시 사법시험 합격자)의 연수원 입소를 직접 총괄했다. 서울고법 재판장을 맡던 2023~2026년 업무 과중으로 자살한 중간관리자 사건, 화학물질 노출로 췌장암에 걸린 근로자 사건 등 1심에서 기각된 사회보장 사건을 항소심에서 잇따라 뒤집는 판결을 했다.&lt;br&gt;&lt;br&gt;강 수석부장판사는 2022년 국내 최초로 ‘쉬운 판결문’을 작성한 판사로 알려져 있다. 지적장애인 원고가 장애인 일자리 사업에서 불합격 처분을 받은 사건을 기각하면서 판결문 주문 옆에 “안타깝지만 원고가 졌습니다”라고 적고, 그림과 쉬운 말로 요약한 판결문을 붙여 주목받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘계엄 해제 방해’ 추경호 첫 재판… “특검 공소 자체가 법왜곡죄”</title>
