@@ -13,6 +13,97 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“검사 보완수사권 없으면 형사 절차 마비” “독단적 제도 개혁 안 돼”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/27/ENJ3EOFVLRC5JKK5NTXRSOMK7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/27/ENJ3EOFVLRC5JKK5NTXRSOMK7I/</guid>
+      <dc:creator>유희곤 기자, 정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 08:34:53 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZ3SWLEDU5KW3JWHHDMP3NHVVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 서초구 서울지방변호사회관에서 열린 국민을 위한 검찰개혁 방안 대토론회에서 최호진 단국대 법학과 교수가 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 검찰청이 폐지되고 신설되는 공소청에 현재 검찰처럼 보완수사권을 남겨두는 문제를 두고 전문가들은 “검사의 보완수사권이 없으면 형사 절차가 마비될 것”이라고 했다. 민주당 강경파 등의 주장대로 검사의 수사개시권에 이어 보완수사권마저 없어질 경우 형사사법체계가 더 큰 혼란에 빠질 것이라는 얘기다. “정치적 동기와 감정을 앞세워 독단적인 방법으로 제도를 개혁해서는 안 된다”는 비판도 나왔다.&lt;br&gt;&lt;br&gt;판사 출신인 홍진영 서울대 법학전문대학원 교수는 27일 국무총리실 산하 검찰개혁추진단 등이 서울 서초구 서울지방변호사회관에서 연 ‘국민을 위한 검찰개혁 방안 대토론회’에서 “검사가 (경찰에 대한) 보완수사 ‘요구’만 하고 직접 보완수사를 하지 못하면 형사 절차가 지연을 넘어 마비에 이를 것”이라고 했다. 또한 검사가 경찰이 수사한 사건을 독립적으로 검토해 기소할 수 없다면, 즉 사건 관계인 조사나 강제수사 등을 하지 않고 경찰 기록만으로 기소 여부를 판단한다면 사실상 수사와 기소가 경찰에 통합된 것과 같다고도 지적했다.&lt;br&gt;&lt;br&gt;홍 교수는 아주 예외적인 경우에만 검사의 보완수사를 허용해야 한다는 의견에 대해서도 “검사가 사건 완결을 위해 부족한 2%를 채웠던 기존 방식까지 보완수사 요구로 대체하고, 중대하고 급박한 경우에만 직접 보완수사를 할 수 있다면 어느 정도로 사건 지연이 심화할 것인지 가늠하기 어렵다”고도 했다.&lt;br&gt;&lt;br&gt;이어 홍 교수는 “사건이 발생한 지 한참 지나 기소가 된 사건에서 증인은 기억을 못 하고, 증거는 빠져버려 사건 진상을 밝히는 게 불가능하다는 형사 재판 법관들 얘기를 많이 듣는다”면서 “일선 검사들과 경찰들 의견을 적극 반영해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이원상 조선대 법학과 교수도 “실체적 진실 발견이나 신속 절차 원칙의 차원에서는 공소청 검사에게 보완 수사권을 인정하는 방법이 적절하다”고 했다. 그러면서 “정치적 동기와 감정을 앞세워 독단적인 방법으로 제도를 개혁하는 것은 새로운 독소를 포함할 수 있다”고 비판했다. 더불어민주당이 일방적으로 검찰청 폐지 및 공소청·중수청 설치 법안을 밀어붙이고, 검사의 보완수사권마저 없애려는 상황을 지적한 것으로 해석된다.&lt;br&gt;&lt;br&gt;이 교수는 검사가 보완수사 없이 기소 여부를 판단할 경우 최근 시행된 법 왜곡죄에 해당할 수 있다는 점도 지적했다. 그러면서 “검사의 보완수사는 ‘권한’이 아닌, 실체적 진실 발견이 가려지는 것을 막기 위한 ‘책무’”라고 했다.&lt;br&gt;&lt;br&gt;반면 송지헌 서울경찰청 수사부 경정은 “보완수사의 미진이 곧 법왜곡으로 연결되는 것은 지나친 논리적 비약”이라면서 “검사의 직접 보완수사권이야말로 법왜곡의 통로가 될 수 있다”고 반박했다. 그러면서 “검사의 보완수사권 인정은 수사-기소 분리의 근본 취지를 훼손할 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;검찰개혁추진단은 지난 11일과 16일에도 공청회와 토론회를 열고 오는 6월 지방선거 이후 본격화할 형사소송법 개정 방안을 논의했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“김용현 경호처장 취임 후 로봇개 도입 급물살…‘인수위가 데려온 업체’ 소문도”</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/27/S57KXVK37JGUXHAQ3F5UX7QJRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/27/S57KXVK37JGUXHAQ3F5UX7QJRU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 08:27:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYDIODBGZSDAZBUGBRDQYJTMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서성빈 드론돔 대표가 지난해 11월 20일 서울 광화문 KT 빌딩에 마련된 김건희특검 사무실로 출석하기 앞서 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 ‘매관매직’ 의혹 재판에서, 윤석열 정부 출범 직후 대통령경호처가 추진한 ‘로봇개’ 도입 사업이 정상적인 성능 검토를 거치기도 전에 김용현 당시 경호처장의 지시에 따라 이례적으로 급하게 추진됐다는 실무자 증언이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 조순표)는 27일 청탁금지법 위반 혐의로 기소된 서성빈 로봇돔 대표의 재판을 열고 2022년 초 경호처에서 로봇개 도입 실무를 총괄했던 장모씨를 증인신문했다.&lt;br&gt;&lt;br&gt;서 대표는 2022년 정부 기관에 4족 보행 로봇개를 납품할 수 있도록 도와달라는 부탁과 함께 김건희 여사에게 3990만원짜리 ‘바쉐론 콘스탄틴’ 시계를 건넨 혐의를 받는다. 민중기 특검은 서 회장이 드론돔의 로봇개 홍보·판매·예산 지원 등을 도와달라는 부정한 청탁 목적으로 김 여사에게 고가의 시계를 건넸다고 보고 김 여사와 함께 기소했다. &lt;br&gt;&lt;br&gt;이날 장씨에 따르면 로봇개 도입 논의는 윤석열 정부 출범 전후 속도를 냈다. 당시 사업 추진 팀장이었던 장씨는 “김용현 경호처장이 취임 직후 인공지능과 로봇을 활용한 ‘경호 패러다임 전환’을 강조하며 로봇개 도입을 지시했다”고 말했다.&lt;br&gt;&lt;br&gt;장씨는 2022년 4월 고스트로보틱스 로봇개 시연에 김용현 당시 처장 내정자가 직접 참석한 것을 두고 “보통 기관장이 특정 업체를 데리고 온다는 건 적절하지 않기 때문에 이례적인 일이었다”고 했다. 이어 “시연 현장에서 웅성거리는 사람들 사이에서 ‘인수위에서 데려온 로봇이다’란 얘기가 들렸다”고 했다. &lt;br&gt;&lt;br&gt;장씨는 당시 시험 결과로 보면 로봇개는 실전에 활용할 상태가 아니었는데도, 같은 해 6월 기획예산과에 12억원의 예산을 요구해 편성했다고 밝혔다. 그는 “(로봇개 도입을) 기관장의 명시적 지시로 이해했다”면서 “경호처장이 핵심 계획을 실행하지 못하면 저희가 혼나는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;같은 해 9월 계약 직전 서성빈 대표의 드론돔이 갑작스럽게 총판으로 등장한 과정도 석연치 않았다고 장씨는 증언했다. 장씨는 “총판을 들이밀 거면 그 전부터 얘기해야지 임차 직전이어서 저희도 ‘이게 뭐지’ 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;다만 장씨는 이 과정에서 김 여사에 관해서는 들은 적 없다고 증언했다. 서 대표 측 변호인이 “김건희 등 영부인 라인이 한다는 얘기를 들은 적 있느냐”고 묻자 장씨는 “전혀 (없다)”며 “저는 그럴 정도 위치에 있지 않다”고 했다. &lt;br&gt;&lt;br&gt;서 대표 측은 “로봇개 경비 활용은 김용현 처장이 과학 경비 차원에서 야심차게 추진한 것”이라며 “계약에 내용적·절차적 하자가 없었다”고 맞섰다. 장씨는 “인공지능과 로봇으로 가는 방향은 맞는다”며 “(계약도)절차에 맞게 진행했다”고 했다. 서 대표 측은 청탁 혐의에 대해 “뇌물이 아니라 구매 대행이었고 시계 대금 중 500만원을 현금으로 돌려받기도 했다”며 부인하는 입장이다. 재판부는 4월 24일 김 여사를 증인으로 부르기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>창원 상남동 아파트 주차장서 칼부림… 1명 심정지·1명 중상</title>
+      <link>https://www.chosun.com/national/regional/2026/03/27/ZASS7YTNOBFYPH7U5YR6CRIIDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/27/ZASS7YTNOBFYPH7U5YR6CRIIDI/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 05:04:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDEOJUMIZDMYJVHBSTINDFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 경남 창원시 성산구 상남동 한 아파트 상가 주차장에서 칼부림 사건이 발생해 경찰이 조사 중이다.&lt;br&gt;&lt;br&gt;경남경찰청에 따르면 이날 오전 11시 36분쯤 “남성이 여성을 흉기로 찌른 뒤 자기도 찔렀다”는 신고가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;경찰의 공동 대응 요청을 받고 출동한 소방 당국은 현장에 쓰러져 있던 20대 여성 A씨와 30대 남성 B씨를 병원으로 이송했다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태였고, B씨는 중상을 입고 이송된 것으로 파악됐다. 현재 이들 모두 위독한 상태인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A·B씨 몸에서 자상을 확인하고 흉기에 찔린 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;A씨는 흉기에 찔린 직후 주차장에서 인근 상가 건물까지 살려달라고 소리치며 뛰어온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 B씨에 대해 스토킹 신고나 접근 금지 신청 등을 한 이력은 없는 것으로 조사됐다”며 “CCTV와 목격자 조사, 주변인 탐문 등을 통해 정확한 사건 경위를 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘1억 공천헌금’ 강선우·김경 구속 기소 “중대범죄” </title>
+      <link>https://www.chosun.com/national/court_law/2026/03/27/CV4SWWTAKNBDTN53Y3XZFQ3ZRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/27/CV4SWWTAKNBDTN53Y3XZFQ3ZRY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 06:35:27 +0000</pubDate>
+      <content:encoded>검찰이 2022년 지방선거를 앞두고 공천을 대가로 1억원을 주고받은 혐의를 받는 강선우 무소속 의원(서울 강서갑)과 김경 전 서울시의원을 27일 구속 상태로 재판에 넘겼다. 두 사람이 검찰에 송치된 지 16일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYWINZVMVRTCNTCGAZWMZBTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'1억 공천헌금'을 주고받은 혐의로 구속 기소된강선우 무소속 의원(왼쪽)과 김경 전 서울시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 이날 정치자금법·청탁금지법 위반 등 혐의를 받는 강 의원과 김씨를 구속 기소했다. 같은 혐의를 받는 강 의원의 보좌관 A씨도 불구속 기소했다.&lt;br&gt;&lt;br&gt;강 의원은 2022년 1월 서울 용산구 그랜드하얏트서울 호텔에서 김씨로부터 1억원이 든 쇼핑백을 받고, 그 대가로 김씨가 더불어민주당 서울시의원 후보로 공천받을 수 있도록 영향력을 행사한 혐의를 받는다. 김씨는 이후 강 의원 지역구인 서울 강서구에서 민주당 서울시의원 후보로 단수 공천돼 당선됐다.&lt;br&gt;&lt;br&gt;검찰은 보완 수사를 통해 공천 심사 과정에서 현금이 은밀하게 오간 정황과, 공천을 받기 부적격했던 김씨가 강 의원의 영향력으로 단수 공천된 사실을 확인했다고 밝혔다. 또 강 의원이 김씨로부터 받은 현금을 부동산 계약 등에 사적으로 사용한 정황도 발견했다고 했다. 중앙지검 관계자는 “피의자들 간의 만남부터 공천거래 합의 경위, 금품 수수·제공, 공천으로 이어지는 범행의 전 과정을 재구성하며 범죄 사실을 명확히 특정했고, 이를 뒷받침하는 중요한 인적·물적 증거를 확보했다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 강 의원을 두 차례, 김씨를 세 차례 피의자로 불러 조사했다. 검찰은 두 사람의 진술이 엇갈리는 부분을 확인하기 위해 대질 신문도 검토했지만, 끝내 성사되지 않은 것으로 전해졌다. 다만 돈이 오가는 과정에 관여한 혐의를 받는 A씨와 강 의원·김씨 간의 대질 신문은 각각 진행됐다.&lt;br&gt;&lt;br&gt;이외에도 검찰은 보좌관·비서관·가족·지인 등을 상대로 20회 이상 조사를 실시했다. 계좌 포렌식 자료를 정밀 분석하고, 추가 압수수색 영장을 집행해 SNS 메시지 등을 확보·분석했다. 이를 통해 검찰은 “공천을 목적으로 금품을 주고받은 것이 아니었다”거나 책임을 서로에게 떠넘기는 피의자들의 주장이 사실과 다르다고 판단했다.&lt;br&gt;&lt;br&gt;또한 검찰은 이들에게 뇌물죄를 적용할 수 있을지 검토했지만, 결국 적용하지 않았다. 공천은 정당 내부 의사 결정일 뿐 국회의원의 지위에 의한 직무라고 보기 어렵고, 국회의원 직무와 금품 수수 사이의 대가성을 인정하기 어렵다고 판단했기 때문이다.&lt;br&gt;&lt;br&gt;한편 검찰은 강 의원과 김씨의 공천 거래 정황이 담긴 녹음 파일을 공개한 김병기(무소속·서울 동작갑) 의원에 대해서도 조사를 시도했으나, 건강상 이유로 불발됐다. 김 의원은 현재 병원에 입원 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;강 의원과 김씨는 지난 3일 구속됐고, 11일 검찰에 송치됐다. 형사소송법상 검찰은 구속 송치된 피의자를 20일 이내에 기소해야 한다. 다만 강 의원이 구속적부심을 청구하면서 구속 기한이 다소 연장됐다. 구속적부심은 전날 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “구속적부심으로 구속 기한이 늘어났지만, 경찰 송치 사건에 더해 검찰 수사로 새롭게 확인된 사실을 종합해 공소 제기가 가능하다고 판단했다”고 설명했다. 아울러 “이 사건은 민주주의의 근간인 공천 과정에서 금전을 대가로 공천권을 취득한 중대 범죄로, 각 피고인들에게 죄에 상응하는 처벌이 이루어질 수 있도록 공소 유지에 만전을 기할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생 선수 2000명 격돌... 대구소년체육대회 29일까지 열린다</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/27/YN5TVN25N5DQFFPQIIIMZ25SYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/27/YN5TVN25N5DQFFPQIIIMZ25SYY/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 08:08:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYWGZBWMU2WEZJZMM4TKNDFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구소년체육대회에 출전한 사격 선수들./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학생 선수 2000여 명이 참가하는 소년 체육 대회가 대구에서 열린다.&lt;br&gt;&lt;br&gt;대구시교육청은 27일부터 오는 29일까지 사흘간 대구스타디움 육상경기장 등에서 ‘2026년 대구광역시소년체육대회’를 개최한다. 교육청이 주최하고 대구시체육회가 주관하며 지역 내 초·중학교에서 선발된 학생 선수 2163명이 참가한다.&lt;br&gt;&lt;br&gt;이번 대회는 학생 선수들의 역량을 높이고, 오는 5월 부산에서 열릴 ‘제55회 전국소년체육대회(소년체전)에 출전할 대표 선수를 선발하기 위해 치러진다. 육상·검도·축구·농구·레슬링·유도 등 30개 종목별로 경기가 진행되며, 경기 결과를 토대로 우수선수를 선발할 예정이다.&lt;br&gt;&lt;br&gt;대구시교육청은 이번 대회를 통해 학생 선수들이 스포츠맨십과 협동심을 기르고 건강한 체육 문화를 형성할 것으로 기대하고 있다. 학생 선수들이 운동과 학업을 병행해 균형 있게 성장할 수 있는 정책도 지원할 방침이다.&lt;br&gt;&lt;br&gt;강은희 대구시교육감은 “이번 대회가 학생 선수들이 쌓아온 노력을 바탕으로 자신의 가능성을 확인하고 성장하는 계기가 되길 바란다”며 “앞으로도 학생 선수들이 꿈과 재능을 펼칠 수 있도록 체계적으로 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 28일 토요일 (음력 2월 10일 辛丑)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/27/NM6BCHN4WJG65DKYHQSG5NOEV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/27/NM6BCHN4WJG65DKYHQSG5NOEV4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>김상민 항소심 5월 8일 선고... 법정서 ‘이우환 그림’ 진품 여부 심리 검토</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/27/HVJMQGJI4NDTHNRCTZKC7VIL5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/27/HVJMQGJI4NDTHNRCTZKC7VIL5E/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 07:10:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNQTSYTDMMZDKOBWGA4DIMJZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 연루된 '공천 청탁' 의혹의 핵심 인물 김상민 전 부장검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에게 1억원대 이우환 화백 그림을 건네며 공천·공직을 청탁한 혐의 등으로 기소된 김상민 전 부장검사의 항소심 재판이 27일 시작됐다. 재판부는 이우환 화백 그림의 진품 여부를 가리기 위해 법정에서 실물을 확인하는 방안을 검토하는 한편 관련 쟁점을 집중 심리할 방침이다.&lt;br&gt;&lt;br&gt;서울고법 형사6-2부(재판장 박정제)는 이날 청탁금지법 위반, 정치자금법 위반 혐의로 기소된 김 전 검사의 항소심 첫 공판을 열었다. 김 전 검사는 1심에서 그림 청탁 혐의(청탁금지법 위반)에 대해선 무죄가 나왔고 국회의원 선거 출마 준비 과정에서 선거용 차량 리스비를 대납받은 혐의(정치자금법 위반)만 유죄로 인정돼 징역 6개월에 집행유예 1년을 선고받았다.&lt;br&gt;&lt;br&gt;김 전 검사의 핵심 혐의는 2023년 2월 김 여사에게 1억4000만원 상당의 이우환 화백 그림 ‘점으로부터 No.800298’을 건네며 공직 인사와 총선 공천 등을 청탁했다는 혐의다. 이 그림은 김 전 검사의 장모 자택을 압수수색하는 과정에서 발견됐다.&lt;br&gt;&lt;br&gt;이날 재판부는 “이 사건의 가장 핵심 쟁점은 그림을 김 전 검사가 매수해 김 여사에게 전달했는지 여부”라며 “그림이 진품인지 가품인지도 함께 판단해야 할 것”이라고 밝혔다. 이어 “청탁금지법상 처벌 기준은 100만원 이상 금품”이라며 “이 그림의 객관적 가치가 1억4000만원인지도 충분히 다퉈야 한다”고 했다.&lt;br&gt;&lt;br&gt;특검 측은 그림과 관련한 추가 수사 자료와 진술조서를 증거로 신청하며 “그림이 김 여사 측 소유 물건들과 함께 발견된 점을 보면 김 전 검사가 그림을 제공한 사실을 인정할 수 있다”고 주장했다. 반면 김 전 검사 측은 “그림은 김 여사의 오빠 김진우씨 부탁으로 대신 구매해 전달했을 뿐”이라며 “그림이 김 여사에게 전달됐다는 직접적인 증거는 없다”고 맞섰다.&lt;br&gt;&lt;br&gt;이날 재판에서는 그림의 진품 여부를 둘러싼 공방도 이어졌다. 김 전 검사 측은 “화랑 감정에서는 가품 판단이 나온 반면 특검 측 감정은 상반된 결과가 나와 객관성이 부족하다”며 “진품 여부에 대한 추가 감정이 필요하다”고 주장했다. 이에 재판부는 “그림 실물을 법정에 가져와 확인하는 방안도 검토하겠다”고 했다. 재판부가 이를 요청하자 특검 측은 “적극적으로 검토해보겠다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 17일 변론을 종결하고 5월 8일 선고할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘北무인기’ 대학원생, 서울중앙지법 내란전담재판부 배당…내달 첫 재판</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/27/7N5FUJPP4JBMLFQNAQB2RZISB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/27/7N5FUJPP4JBMLFQNAQB2RZISB4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Mar 2026 05:47:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRWEMDDMJQTCMLFMNSTAOBTGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문에 실린 북한 침투 남한 무인기/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 민간 무인기를 여러 차례 무단으로 날려 보낸 혐의로 구속 기소된 대학원생 오모씨와 무인기 제작업체 관계자들의 재판을 서울중앙지법 ‘내란전담재판부’가 맡게 됐다.&lt;br&gt;&lt;br&gt;27일 서울중앙지법은 전날(26일) 일반이적 및 항공안전법 위반 혐의로 기소된 오씨와 에스텔엔지니어링 대표 장모씨 등 3명의 사건을 형사합의38-3부(재판장 최영각)에 배당했다고 밝혔다. 이들의 첫 재판은 내달 15일 열린다.&lt;br&gt;&lt;br&gt;이 재판부는 내란·외환 사건 등을 처리하기 위해 신설된 내란전담재판부다. 장성진(사법연수원 31기)·정수영(32기)·최영각(34기) 장판사로 구성됐다. ‘내란·외환·반란 범죄 등의 형사절차에 관한 특례법’에 따르면 내란·외환죄나 군형법상 반란죄 사건 중 정치·경제·사회적으로 파장이 크고 국민적 관심의 대상이 되어 국가적 중요성이 인정되는 사건은 전담재판부에서 심리할 수 있다.&lt;br&gt;&lt;br&gt;서울중앙지법 관계자는 “이번 사건의 죄목인 ‘일반이적’은 형법상 외환의 죄에 해당한다”며 “특검 사건은 아니지만 사안의 중대성이 크고 국민적 관심이 집중된 중요 사건이라고 판단해 내란전담재판부에 배당한 것”이라고 설명했다. 12·3 비상계엄과 직접적인 관련이 없더라도 법령상 전담재판부 배당 요건을 충족한다는 것이다.&lt;br&gt;&lt;br&gt;검찰에 따르면 오씨 등은 작년 9월부터 올해 1월까지 군 방공망 감시를 피해 네 차례에 걸쳐 민간 무인기를 군사분계선(MDL) 너머 북한 개성 일대로 비행시킨 혐의를 받는다. 이들이 날린 무인기 중 일부는 북한 지역에 추락했고, 북한은 기체와 SD카드를 수거해 비행 이력을 분석한 뒤 비난 성명을 발표하기도 했다.&lt;br&gt;&lt;br&gt;검찰은 오씨 등의 행위가 한국의 군사상 이익을 침해한 국가 안보 범죄라고 보고, 법정형이 무기 또는 3년 이상의 징역형인 일반이적죄를 적용해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>병역기피 위장 이민/1년형 첫 선고                   </title>
+      <link>https://www.chosun.com/site/data/html_dir/1994/05/28/1994052872703.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1994/05/28/1994052872703.html</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 May 1994 15:00:00 +0000</pubDate>
+      <content:encoded>서울형사지법 1단독 변진장 판사는 27일 병역 기피를 목적으로 서류상 해외이민을 한 것 처럼 위장한 방모 피고인 (27)에게 징역1년을 선고했다. 병역법 위반 피고인에게 실형을 선고한 것은 이례적인 것으로 방피고인의 경우 대법원에서 유죄가 확정될 경우 관련 법규에 따라 형을 마치고 군에 입대해야 한다. 재판부는 또 김모 피고인(23)과 박모 피고인(30)에게는 “초범이고 반성의 빛이 보인다”며 징역1년에 집행유예 2년을 선고했다. 박종인기자 &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>투자이민 위장 병역기피/부유층자제 6명 적발              </title>
+      <link>https://www.chosun.com/site/data/html_dir/1994/03/11/1994031173103.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1994/03/11/1994031173103.html</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Mar 1994 15:00:00 +0000</pubDate>
+      <content:encoded>서울지검 특수3부(이정수 부장검사)는 10일 남미국가와 캐나다 등 투자이민이 쉬운 국가로 이민가는 것처럼 꾸며 병역을 기피한 부유층 자제 6명을 적발, 이들 가운데 방모(26)씨, 박모(29)씨, 김모(23.서울 서초구 서초2동)씨 등 3명을 구속했다. 공소시효(3년)가 지난 이모씨(29) 등 3명은 병무청에 통보했다. 모택시회사 사장의 아들인 방씨는 작년 7월 전가족이 캐나다로 이민가는 것처럼 수속을 밟아 입영연기처분을 받은 혐의를 받고 있다. 봉제공장 사장 아들인 김씨는 형제가 함께 볼리비아 이민을 위장해 병역을 기피한 것으로 드러나, 해외체류중인 형 김모(25)씨도 귀국즉시 입영조치토록 했다고 검찰은 밝혔다. 검찰은 이같은 이민을 가장한 병역기피가 성행하고 있는 것으로 보고, 관계기관으로부터 1천5백여명의 명단을 넘겨받아 수사를 확대하고 있다. 정권현기자 &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[Dr.이은봉의 의학 연구 다이제스트] 고혈압 예방 식단 따랐더니 인지기능도 잘 유지</title>
       <link>https://www.chosun.com/medical/2026/03/26/ATFWPYON6ZBSJMRJBZEGFKZ364/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/26/ATFWPYON6ZBSJMRJBZEGFKZ364/</guid>
@@ -812,42 +903,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UO3NZGQIGBPDXFH4SGB4XZKA3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 서울 시내의 한 편의점에 담배 매대 모습이 보이고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흡연으로 인한 사회·경제적 비용이 꾸준히 늘어 15조원에 육박한다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;29일 질병관리청의 ‘흡연 기인 사망 및 사회·경제적 부담 산출 연구(2025)’에 따르면 2023년 기준 한국의 직접 흡연으로 인한 사회·경제적 비용은 14조9517억원으로 조사됐다. 이는 직전 해인 2022년 대비 8.8% 증가한 규모다.&lt;br&gt;&lt;br&gt;사회·경제적 비용은 흡연에 따른 질병으로 인해 발생하는 의료비와 교통비 등 직접 비용과 조기 사망, 의료 서비스 이용으로 인한 생산성 손실 등 간접 비용을 모두 합한 것이다. 2020년 기준 12조8912억원 수준이었던 이 비용은 2021년 12조9754억원, 2022년 13조6316억원을 기록하며 매년 증가하는 추세다.&lt;br&gt;&lt;br&gt;이 같은 비용 증가는 좀처럼 줄어들지 않는 국내 흡연율 때문이라는 분석이 나오고 있다. 2020년 20.6%였던 국내 흡연율은 2022년 17.7%로 줄어드는 듯했으나 2023년 다시 19.6%로 올랐다. 최근엔 여성과 젊은 층 중심으로 전자담배 흡연이 늘면서 흡연율 저하에 부정적인 영향을 미치는 것으로 조사되고 있다.&lt;br&gt;&lt;br&gt;특히 사회경제적 비용에서는 간접 비용인 조기 사망으로 인한 생산성 손실이 7조7860억원으로 절반 이상을 차지했다. 직접 비용인 의료비(5조3388억원), 의료 이용으로 인한 생산성 손실(1조3571억원), 간병비(3747억원) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;이번 조사에서 직접 흡연으로 인한 사망자 수는 2023년 기준 6만8536명에 이르는 것으로 확인됐다. 남성이 6만216명, 여성이 8320명이었다. 흡연으로 인한 사망 중에선 폐암으로 인한 사람이 가장 많아 남성은 9480명, 여성은 699명이 폐암으로 사망했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘공천 청탁’ 박창욱 경북도의원, 1심서 징역 1년...법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/26/P4WBLCW2CJHDRGB47MDZBE6YCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/P4WBLCW2CJHDRGB47MDZBE6YCE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 05:05:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YGMNZXMQ4GIODEGA2GGYLEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박창욱 경북도의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무속인 ‘건진 법사’ 전성배씨에게 지방선거 공천을 청탁한 혐의로 재판에 넘겨진 박창욱 경북도의원이 1심에서 징역 1년을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 26일 정치자금법 위반 및 금융실명거래법 위반 혐의를 받는 박 도의원에 대한 선고 재판을 진행했다.&lt;br&gt;&lt;br&gt;이날 재판부는 박 도의원이 2022년 6월 지방선거를 앞두고 전씨에게 국민의힘 공천을 부탁하며 현금 1억원을 전달한 사실을 인정했다. 다만 재판부는 전씨가 정치 활동을 하는 사람에 해당하거나, 전씨의 활동이 정치 활동에 해당한다고 보기 어렵다며 정치자금법 위반 혐의에 대해선 무죄를 선고했다. 같은 혐의로 기소된 ‘정치 브로커’ 김모씨에게도 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;다만 1억원을 마련하는 과정에서 차명계좌를 이용하는 등 금융실명법을 위반한 혐의는 유죄가 인정됐다. 재판부는 박 도의원과 그의 아내 설모씨가 함께 지인의 계좌를 이용해 현금을 마련했고, 처벌을 피하고자 타인 명의 계좌로 거래했다고 지적했다. &lt;br&gt;&lt;br&gt;재판부는 박 도의원에 대해 “피고인은 도의원 선거 과정에서부터 민의를 왜곡하고 배우자와 가족, 지인을 동원해 치밀한 방법으로 불법 차명 거래를 했다”고 질타했다. 그러면서 박 도의원에게 징역 1년을 선고했고, 설씨에게는 징역 6개월에 집행유예 2년을 선고했다. 박 도의원은 증거인멸 위험이 있다며 법정구속됐다. 이날 재판에서 김씨는 공공기관 공사 수주를 알선해 주겠다며 공사업체에서 금품을 받은 별도 혐의(변호사법 위반)로 징역 1년 6개월을 선고받기도 했다.&lt;br&gt;&lt;br&gt;박 도의원은 지난 2022년 6월 지방선거를 앞두고 전씨에게 공천을 청탁하며 1억원가량의 금품을 건넨 혐의를 받는다. 설씨는 박 도의원의 자금 마련을 도운 혐의로 재판에 넘겨졌으며, 김씨는 박 도의원에게 전씨를 소개해 주고 공천을 청탁하는 브로커 역할을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 종합특검, ‘관저 이전 의혹’ 국회 정무위원장실 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/26/IAGCGTWPYVBGLP6DQ2BTYU7JOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/IAGCGTWPYVBGLP6DQ2BTYU7JOY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 05:04:20 +0000</pubDate>
-      <content:encoded>권창영 2차 종합특검팀이 26일 ‘관저 이전 특혜’ 의혹과 관련해 국회 정무위원장실 등 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZDCZTBGNSWIYRVHFSWMNDBGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 특별검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김지미 특검보는 이날 “윤한홍 국민의힘 의원이 휴대전화 비밀번호를 제공하지 않아 국회 정무위원장실과 관저 이전 TF에서 일했던 쿠팡 관계자 박모씨에 대해 압수 수색 영장을 집행했다”고 밝혔다. 박씨는 윤 의원이 관저 이전 공사 업체 선정 과정에 관여했는지 여부를 확인하기 위한 차원에서 압수 수색 대상에 포함됐다고 한다. 박씨에 대한 영장 집행은 마쳤다.&lt;br&gt;&lt;br&gt;특검은 검찰의 ‘김건희 여사 수사 무마’ 의혹과 관련해 이날도 대검찰청을 압수 수색 중이라고 밝혔다. 특검팀은 지난 23일 대검 반부패2과, 통신과, 정책기획과와 서울중앙지검 반부패수사2부, 대전지검 공주지청장실 등을 압수 수색했다. 이날 중 압수 수색이 마무리될 전망이다.&lt;br&gt;&lt;br&gt;특검은 이날 ‘12·3 비상계엄’의 해양경찰 가담 여부를 확인하기 위한 참고인 조사를 진행 중이라고 밝혔다. 안성식 전 해경 기획조정관도 입건했다고 한다. 또 홍창식 국방부 법무관리관도 소환해 비상계엄 관련 참고인 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;한편 특검은 최근 사무실 주변에서 드론을 띄워 내부를 촬영하려 한 사람에 대한 내사에 착수했다고 밝혔다. 언론사인지 여부는 확인하지 못했으나, 범죄 혐의점이 있는지 파악할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 부동산 범죄 특별 단속으로 1493명 검거·640명 송치</title>
-      <link>https://www.chosun.com/national/incident/2026/03/26/CL7ZSTPUDRGKJJPZEJFNN6NR4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/26/CL7ZSTPUDRGKJJPZEJFNN6NR4A/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 06:17:54 +0000</pubDate>
-      <content:encoded>개발 호재가 있다며 토지 가치를 부풀려 12억원에 팔아치운 부동산 임대 사업자, 실거래가보다 1억8000만원 높은 금액에 허위 부동산 매매 계약을 신고한 후 계약을 해지해 시세를 띄운 일당 등이 경찰의 부동산 범죄 특별 단속에 의해 검거됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YQLBTG44ZDZXCZU7Q7HT5LSOM.png"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 6월 부산경찰청에 적발된 '무자본 갭투자' 전세사기 일당의 임대차 계약서./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 지난해 10월부터 이달 15일까지 5개월간 부동산 범죄 특별 단속을 통해 총 1493명을 검거하고 640명을 송치, 7명을 구속했다고 26일 밝혔다. 지난해 정부의 10·15 부동산 대책 후속 조치로 ‘집값 띄우기’ 등 부동산 관련 각종 불법 행위 단속에 나선 것이다. 경찰은 특히 집값 띄우기 등 불법 중개 행위, 부정 청약 등 공급 질서 교란, 내부 정보 이용 투기, 재건축·재개발 비리, 기획 부동산, 농지 불법 투기, 명의신탁, 전세 사기 등 총 8개 범죄에 대해 집중 단속을 실시했다.&lt;br&gt;&lt;br&gt;단속 결과 전북에서 LH 임대주택 분양 시 지원되는 임대차 보증금을 나누기로 공모한 후 위장 전입을 통해 주택을 임차한 일당 14명, 경기 화성시 일대 개발 호재가 있을 것이라는 정보를 입수하고 인근 농지를 매입한 후 직접 농사를 짓지 않고 불법으로 남에게 빌려준 일당 219명 등이 검거돼 이달 중 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;지난해 11월에는 전북에서 임대 아파트 사업권을 받기 위해 조합장에게 2억5000만원 상당의 금품을 주고 알선 대가로 2억5000만원을 수수한 브로커 등 일당 7명이 검거됐고 2명이 구속됐다. 부산에서 공인중개사 단체를 조직하고 비회원 공인중개사의 공동 중개를 제한하는 등 담합한 공인중개사 35명도 이달 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 16일부터 오는 10월까지 7개월간 2차 특별 단속을 실시한다. 기존에 국가수사본부 수사국장이 본부장을 맡아 진행했던 ‘부동산 범죄 특별수사 태스크포스’ 역시 계속 유지돼 수사를 이어나간다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>포항 군부대 인근 야산서 화재… 소방 당국 진화 중</title>
-      <link>https://www.chosun.com/national/regional/2026/03/26/HWEZXPLYKVFNTN6HZJFGWG5O4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/26/HWEZXPLYKVFNTN6HZJFGWG5O4Q/</guid>
-      <dc:creator>포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 05:40:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52QDQBJVQFH2XGLFNODIKBA27E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 1시 3분쯤 불이 난 경북 포항시 장기면 수성리 한 야산 현장. 소방당국은 "사격 훈련 중 산에 불이 났다"는 신고를 받고 현장에 출동했다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항 군부대 사격장 인근 야산에서 불이 나 소방 당국 등이 진화 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;26일 경북소방본부에 따르면, 이날 오후 1시 3분쯤 경북 포항시 남구 장기면 수성리 군부대 사격장 일대 야산에서 불이 났다. 소방·산림 당국과 군부대 헬기 등 17대 등을 투입해 진화 작업을 벌이고 있으며, 오후 2시 12분 기준 진화율 50%를 보이고 있다. &lt;br&gt;&lt;br&gt;경북소방본부 측은 “군부대 사격 훈련 중 산에 불이 났다”는 신고를 받고 현장에 출동했지만, 군부대 통제로 현장 진입은 하지 못하고 있는 상황이다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 진화 완료 이후 정확한 원인 등에 대해 조사에 나설 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>청소년 인기템 ‘코 흡입 에너지바’… 일부 제품서 폐 손상 성분 나왔다</title>
       <link>https://www.chosun.com/national/national_general/2026/03/26/BCVNE72C5VEFHJG6C3EOHL2MS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/26/BCVNE72C5VEFHJG6C3EOHL2MS4/</guid>
@@ -867,63 +922,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ZBH4LVSKTJBMBFDRIMGPCMGJKM.jpg?auth=b652e08defd3815c7c86369ab9833af2b0500a4e0565084f0ede5ef085872d5a&amp;smart=true&amp;width=719&amp;height=405" type="image/jpeg" height="405" width="719">
         <media:description type="plain">대전 안전공업 합동감식 진행 중</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“허위 사실로 도지사 되려 하나”… 명태균 “신용한, 억울하면 맞고소하라”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/03/26/J4Y4L32CZZEULP4FLYNHJANAXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/03/26/J4Y4L32CZZEULP4FLYNHJANAXM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 04:50:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMI4IMJVUNFIBEENT26GK7PVQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;명태균씨가 26일 충북도청 브리핑룸에서 신용한 충북지사 예비후보에 대해 "허위사실 유포를 중단하라"고 촉구했다./신정훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명태균씨가 26일 더불어민주당 신용한 충북지사 예비후보를 향해 “억울하면 나를 맞고소하라”고 했다. 명씨는 “신 후보는 내 허풍과 본인의 자료 중 무엇이 진실인지 지켜보자고 했지만, 정작 반박 기자회견에서 제시한 자료는 없었다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;명씨는 이날 오전 충북도청 브리핑룸에서 기자회견을 열어 “신 후보가 허위 사실로 충북지사 예비후보자로서 충북도민을 우롱하고 있다”고 주장했다. 그는 “내가 국정을 농단하고 여론을 조작했다는 증거가 어디 있느냐”며 “검찰 압수수색을 10번 넘게 받고도 나는 지금 이 자리에 서 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “이미 지난달 1심 재판에서 정치자금법 위반 혐의에 대해 무죄 판결을 받았음에도 신 후보는 악의적 프레임을 씌우고 있다”고 목소리를 높였다. 특히 명씨는 신 후보의 ‘공익 제보자’ 지칭을 정면 비판하며 자신도 법적 대응을 이어가겠다고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “신 후보의 허위 주장과 폭로가 거짓임을 밝혀 내가 ‘충청북도 공익제보자 1호’가 되고 싶다”며 “공익제보자라는 가면 뒤에 숨어 자신의 정치적 욕망을 채우려는 행태를 끝까지 파헤치겠다”고 했다.&lt;br&gt;&lt;br&gt;신 후보가 자신을 ‘정부 공인 공익제보자’라고 주장하는 것에 대해서도 “단순히 민주당에서 붙인 명칭에 불과하다”며 “허위 주장으로 도지사 후보에 나선 것을 보고 가만히 있을 수 없어 고소한 것인데, 이를 정치 공작이라고 주장하는 것은 어불성설”이라고 했다. &lt;br&gt;&lt;br&gt;그는 또 “신 후보는 과거 모 유튜브 채널에 출연해 내가 20대 대선 당시 여론조사를 조작했다는 허위 사실을 유포했다”며 “일면식도 없는 나를 끌어들여 선거 홍보 수단으로 삼는 구태를 즉각 중단하라”고 했다. &lt;br&gt;&lt;br&gt;명씨는 “법은 특정 후보의 선거용 도구가 아니다”라며 “민·형사상 모든 법적 수단을 동원해 끝까지 책임을 묻겠다”고 덧붙였다. &lt;br&gt;&lt;br&gt;앞서 명씨는 지난 23일 신 후보를 명예훼손 등 혐의로 청주흥덕경찰서에 고소했다. 이에 신 후보는 지난 24일 기자회견을 열어 명씨를 후보자 비방죄 등으로 맞고소하겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;윤석열 대선 캠프 정책총괄지원실장을 지낸 신 후보는 지난해 10월 대선 당일 캠프 내 여론조사 보고서 활용 의혹을 폭로하며 민주당에 영입됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정교유착 합수본, ‘조세 포탈’ 신천지 총회·12지파 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/26/MC3TYPX7QJB3BGSVOA3IUFW5GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/MC3TYPX7QJB3BGSVOA3IUFW5GQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 03:05:18 +0000</pubDate>
-      <content:encoded>통일교·신천지 등의 정교 유착 의혹을 수사 중인 검경 합동수사본부(본부장 김태훈 대전고검장)가 26일 신천지의 조세 포탈 및 횡령 의혹에 대한 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYWEZTDGI3DMYTFME2GIY3FMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이만희 신천지예수교 증거장막성전 총회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합수본은 이날 오전 경기 과천시 신천지 총회 본부와 전국 12지파 등 10여 곳을 압수수색했다. 합수본은 각 지역에 검사와 수사관을 보내 신천지의 법인세 납부 내역 등 세무 관련 자료를 확보하고 있다. &lt;br&gt;&lt;br&gt;앞서 서울지방국세청은 2020년 이 회장과 신천지 12개 지파를 상대로 세무 조사를 벌인 뒤, 2012∼2019년에 대한 법인세 122억원과 부가가치세를 부과했다. 세무 당국은 신천지 지교회가 운영한 매장을 개인 사업자가 운영한 것처럼 위장하고 이중 장부를 작성하는 등의 방식으로 세금을 포탈했다고 보고, 이 회장 등을 조세범처벌법 위반(조세 포탈) 혐의로 검찰에 고발했다.&lt;br&gt;&lt;br&gt;그러나 수사를 맡았던 수원지검은 2021년 10월 이 회장 등에 대해 불기소 처분을 내렸다. 국세청이 항고했지만 수원고검은 2022년 이를 기각했다. 이후 신천지는 세무 당국을 상대로 “법인세 등을 부과한 처분을 취소해달라”며 행정소송을 제기했으나 1·2심에 이어 지난 1월 대법원에서도 패소했다. 과세 처분이 정당했다는 판결이 대법원에서 최종 확정된 것이다. &lt;br&gt;&lt;br&gt;이에 합수본은 기존 형사 사건 역시 다시 검토할 필요가 있다고 보고 신천지의 탈세 의혹 등을 다시 들여다보기로 했다. 합수본은 지난달 19일 수원지검으로부터 사건을 재기해 이송받은 뒤 이날 압수수색에 나서며 수사를 본격화했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“日 강제동원 피해자 소송 막을 수 없어”…1심 재판 다시 시작</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/26/EN3CUCRHFFGTFHUN4YHJN5N6MI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/EN3CUCRHFFGTFHUN4YHJN5N6MI/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTMZBZGQ2DQOBVGMYTSNLEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. 2018.6.17 ⓒ 뉴스1 박세연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 일제 강제동원 피해자 및 유족이 미쓰비시중공업 등 일본 기업을 상대로 낸 손해배상 소송에서, 1965년 한일청구권협정에 따라 소송을 청구할 수 없다고 본 1심 판결이 잘못됐다고 판단했다. 사건은 다시 1심 법원으로 돌아가게 됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악)는 일제 강제징용 피해자 및 유족 19명이 미쓰비시중공업 등 일본 기업 7곳을 상대로 낸 손해배상 소송에서 일본 기업들의 상고를 기각하고, 원심 판결에 따라 사건을 서울중앙지법으로 돌려보냈다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;일제 강제동원 피해자와 유족은 2015년 미쓰비시중공업 등을 상대로 미지급 임금 및 불법행위에 따른 위자료를 지급하라며 손해배상 소송을 제기했다. 이들은 일제강점기에 강제동원돼 탄광이나 군수기지 등에서 강제노역을 한 피해자 또는 그들의 유족들이다. &lt;br&gt;&lt;br&gt;그러나 미쓰비시중공업 등은 1965년 발효된 한일청구권협정에 따라 원고들의 손해배상청구권 행사 자체가 제한된다고 주장했다. 일본 기업들은 그동안 배상 책임이 있는지 따지기에 앞서 ‘한국 법원에는 재판권이 없다’거나 ‘이미 청구권협정으로 끝난 일이라 소송 자체가 안 된다’는 식으로 재판을 할 수 없다고 주장해왔다.&lt;br&gt;&lt;br&gt;1심을 맡은 서울중앙지법은 2021년 이런 일본 기업 주장을 받아들여 각하 판결을 내렸다. 재판부는 “1965년 한일 청구권 협정에 따라 소송으로 권리를 행사하는 것은 제한된다”며 강제징용 피해자들이 일본 기업 등과 소송으로 다툴 수 없다고 했다. ‘한일청구권협정으로 손해배상 청구권이 소멸되지 않았다’는 2018년 대법원 전원합의체 판례에 따라 피해자들에게 권리가 남아 있다고 하더라도, 실제 소송을 내고 승소해서 일본 기업의 재산을 강제로 압류하려는 행동 자체가 법적 권리를 남용하는 것이라는 취지로 해석했다.&lt;br&gt;&lt;br&gt;그러나 2심은 1심 판단이 잘못됐다며 1심 판결을 깨고 사건을 서울중앙지법으로 돌려보냈다. 재판부는 “1심 판결에 문제가 있다”며 “원고들의 소송 제기는 적법하다”고 판단했다.&lt;br&gt;&lt;br&gt;이에 일본 기업이 상고했으나 대법원은 상고를 기각했다. 대법원은 강제동원 피해자들에 대한 일본 기업의 배상 책임을 인정한 2018년 전원합의체 판결 등을 근거로 1심이 소의 적법성에 관한 법리를 오해했다고 설명했다. 2018년 당시 대법관 다수는 “일본 기업의 반인도적인 불법행위를 전제로 하는 강제동원 피해자의 일본 기업에 대한 위자료 청구는 청구권협정의 적용 대상에 포함되지 않는다”고 판단했다. 이번 판결로 손해배상 청구 소송은 서울중앙지법에서 다시 시작될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘필리핀 마약왕’ 박왕열 구속영장 신청… 국내 공범 236명</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/26/U76J23Z6EBFELBFZU4TWKQ6OAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/26/U76J23Z6EBFELBFZU4TWKQ6OAU/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 02:31:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WI2M63EXYRHJLNWNKTFXMOJJO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'필리핀 마약왕' 박왕열 송환&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 해외에서 마약을 밀반입하고 이를 판매한 ‘필리핀 마약왕’ 박왕열에 대한 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경기북부경찰청 광역범죄수사대는 마약류관리법 위반 혐의로 박왕열(47)에 대한 구속영장을 신청했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;박왕열은 지난 2024년 6월 공범에게 지시해 필리핀에서 필로폰 1.5㎏을 커피 봉투에 은닉, 인천공항으로 밀수한 혐의를 받고 있다. 같은 해 7월 불상의 외국인을 통해 남아공에서 필로폰 3.1㎏이 담긴 캐리어를 공범에게 전달해 김해공항으로 밀수한 혐의도 있다.&lt;br&gt;&lt;br&gt;또 2019년 11월부터 2020년까지 국내 공범에게 지시해 서울, 부산, 대구 일대 소화전 우편함에 마약류를 은닉해 판매한 혐의도 있다.&lt;br&gt;&lt;br&gt;공범들은 박왕열에게 텔레그램 등으로 지시를 받고 범행을 한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;필리핀에서 닉네임 ‘전세계’로 활동했던 박왕열은 지난 25일 필리핀에서 국내로 송환됐다.&lt;br&gt;&lt;br&gt;체포 즉시 경찰은 박왕열의 모발과 소변을 채취해 마약 검사를 했으며 국립과학수사연구원에 분석을 의뢰했다. 이와 함께 박왕열이 사용한 휴대전화 2대를 압수해 포렌식 중이다.&lt;br&gt;&lt;br&gt;경찰은 박왕열이 송환된 후인 전날 오전 11시부터 오후 9시까지 조사를 진행했으며 이날 오전 8시부터 다시 조사를 이어가고 있다. &lt;br&gt;&lt;br&gt;박왕열은 대부분의 혐의를 인정하고 있는 것으로 전해졌다. 박왕열은 당초 가족을 통해 변호사를 선임한다고 했었지만 현재까지 변호사 선임은 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;앞서 경찰은 박왕열이 국내로 송환되기 전 국내 공범들에 대한 수사를 진행했다. 조사 결과 박왕열을 통해 국내로 유입된 마약은 필로폰 4.9㎏, 엑스터시 4500여 정, 케타민 2㎏, LSD 19정, 대마 3.99g으로 이는 시가 30억원에 달하는 규모다. &lt;br&gt;&lt;br&gt;국내 공범 규모는 236명으로 관리 및 판매책 29명, 공급책 10명, 밀반입책 2명, 자금책 1명, 단순 매수자 194명으로 이 중 42명은 구속됐다. 공범들은 박왕열이 직접 운영하는 텔레그램 채널이나 하위 채널에 접속한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 박왕열이 범죄 수익금을 무통장 입금과 코인 등 가상 자산 형태로 얻은 것으로 보고 이에 대한 수사도 진행 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “송환 후 박왕열에 대한 강도 높은 조사를 매일 이어가고 있다”며 “기존 공범들과 박왕열 관계에서 또 다른 범죄 형태가 있는지 등 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“설계 무시, 무자격 시공, 점검은 가짜”... 창원 NC파크 사망사고 ‘총체적 인재’ </title>
-      <link>https://www.chosun.com/national/2026/03/26/3N56I6S6ARD7LDYR7OR2PMGKEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/26/3N56I6S6ARD7LDYR7OR2PMGKEY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 01:33:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRH75KM7XTYBNIYTNPWKCAZ3AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 3월 29일 경남 창원시 마산회원구 창원NC파크에서 NC 다이노스와 LG 트윈스 경기 중 3루 방향 건물에 설치된 구조물(붉은 선) 일부가 떨어지는 사고가 발생해 관중 1명이 숨졌다. 사진은 사고 현장 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EP53MMHBWVHP7H45YTAZBQ65PI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 3월 29일 경남 창원시 마산회원구 양덕동 창원NC파크에서 외부 구조물이 추락해 관람객을 덮쳤다. 사진은 사고 현장 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 3월 경남 창원NC파크에서 외장 구조물(루버)이 떨어져 관중 1명이 숨지고, 2명이 다친 사고에 대한 경찰 수사가 1년 만에 마무리됐다. 경찰 수사 결과 사고는 충분히 막을 수 있었던 인재임이 드러났다.&lt;br&gt;&lt;br&gt;경남경찰청 광역범죄수사대는 NC파크 관중 사상 사고와 관련해 업무상 과실치사상 혐의로 창원시설공단 직원 A씨 등 14명을 송치했다고 16일 밝혔다. 또 창원시설관리공단 전·현직 이사장 2명을 비롯해 법인인 창원시설관리공단은 중대재해처벌법 위반 혐의로 송치했다. &lt;br&gt;&lt;br&gt;경찰은 사고 당시 관중에 떨어진 외부 구조물(루버)의 낙하 이유, 구조물 관리 책임 주체를 두고 광범위하게 수사했다. &lt;br&gt;&lt;br&gt;오승철 경남경찰청 광수대장은 “이번 사고는 부실 시공·감리 소홀·시설공단의 관리 부실·시설공단 경영 책임자의 안전보건 확보 의무 위반 등이 총체적으로 결합해 발생한 사고”라고 규정했다. 충분히 막을 수 있었다는 사고였다는 것이다. &lt;br&gt;&lt;br&gt;이는 지난 2월 경남도 사고조사위가 내린 결론과 비슷하다. 전문가로 구성된 사조위는 설계부터 발주·시공·유지 및 관리 전 과정에서의 관리 미흡 등 복합적 요인이 사고 원인이라고 발표한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPOST54GOJDFRDVBHUAM5CB6HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 경남경찰청 브리핑룸에서 오승철 광역범죄수사대장이 창원NC파크 관중 사상사고 관련 수사 결과를 발표하고 있다. /창원=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 창원시설관리공단 직원 A씨는 지난 2024년 9월쯤 정기 안전 점검을 수행한 안전 진단 업체로부터 루버 부식과 관리 필요성, 추락 위험성 등을 보고받았다. 하지만 A씨는 이를 상부에 보고하지 않았고, 보수·보강 계획 수립 없이 방치됐다. 경찰은 인명 피해를 막을 구체적·결정적 기회를 박탈했다고 판단하고, A씨를 주요 피의자로 지난 12일 구속영장을 신청했다. 하지만 법원은 구속 필요성이 없다며 A씨에 대한 구속영장을 기각했다. &lt;br&gt;&lt;br&gt;A씨뿐만 아니었다. 창원시설관리공단 다른 직원들은 지난 2019년부터 2024년까지 12회에 걸쳐 정기 안전 점검을 실시하면서 단순히 육안으로 배열 상태만 점검한 것으로 드러났다. 또 루버 하자를 방치하고, 점검 결과 보고서 허위·복지 작성을 한 것으로도 조사됐다. 공단의 형식적 안전 점검으로 구장 관리가 부실하게 이뤄졌다는 것이다. &lt;br&gt;&lt;br&gt;지난 2022년 12월 유리창 교체 작업을 하면서 루버를 탈·부착할 때 설계도 제공이나 작업 계획서 작성, 감독이 없는 상태에서 무자격자가 임의로 루버를 탈부착한 사실도 확인됐다. 외장 구조물인 루버 시공도 부실했던 것으로 드러났다. 관급 자재 구매 계약에 따라 직접 시공할 의무가 있는 원청은 불법으로 하도급을 했다. 하도급 업체는 구조물에 작용하는 하중에 대한 안전성을 확인하는 구조 계산 없이 시공했다. 특히 설계도상 풀림 방지 조치를 해야 함에도 이를 하지 않은 것으로 드러났다. 사고 발생 후 실시한 긴급 안전 점검에서 떨어진 루버를 제외한 나머지 루버에서도 부식이나 변형 및 이격, 볼트 풀림 등의 하자가 다수 발견됐다. 결국 애초에 루버가 안전하게 설치되지 않았던 셈이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRVBJ575NKVLSVZQF3DHJILR2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원 NC파크 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 부실한 시공을 관리해야 할 감리도 제 역할을 못 했다. 현장 감리는 무자격자가 시공하는 것을 방치했고, 설계와 다른 자재가 반입됐는데도 이를 발견하지 못했다. 풀림 방지 조치 등이 이행되지 않았지만 감리는 ‘적합’ 판정을 내린 것으로 드러났다. &lt;br&gt;&lt;br&gt;경찰은 관중에 떨어진 ‘루버’의 관리 책임이 창원시설관리공단에 있다고 판단했다. 시설물안전법 등에 따르면 창원시설관리공단이 ‘공공관리주체’로서 시설물 유지 관리 책임자로 돼 있다. 루버는 외부 부착물로 안전 점검 대상이다. 경찰 관계자는 “창원시설관리공단 전직 이사장과 현 이사장 직무대행은 안전 확보 조치가 필요한 공중 이용 시설을 관리하는 공단의 경영 책임자로서, ‘NC파크’를 중대 시민 재해 대응 필요 시설로 인식하지 못했고, 안전 보건 관리 체계의 구축, 그 이행에 관한 조치를 전혀 하지 않았다”며 “이에 두 사람과 법인(창원시설관리공단)을 중대재해처벌법 위반 혐의로 송치할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 수사를 통해 다중 이용 시설인 야구 경기장의 유지·관리 부실이 시민 생명을 앗아간 중대 시민 재해임을 명확히 했고, 실질적 시설물 관리 책임이 있는 공단 경영 책임자에게는 중대재해처벌법 위반 혐의를, 구단 직원에게는 유지·보수상 과실 책임을 물었다”며 “이번 수사를 계기로 루버 같은 ‘비구조 부착물’에 대한 정밀 안전 점검 체계 제도화 등의 대책을 마련하도록 관련 기관에 통보할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BRVBJ575NKVLSVZQF3DHJILR2M.jpg?auth=e014fd469e55804db53f143d42003ed86266d1fa546f509f67f81e7f812ea099&amp;smart=true&amp;width=700&amp;height=523" type="image/jpeg" height="523" width="700">
-        <media:description type="plain">창원 NC파크 전경. /연합뉴스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>5월부터 재판 사건기록 열람·복사 수수료 면제된다</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/26/XPQ6QZ6KMVHSDEYFUOBA4ESLSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/XPQ6QZ6KMVHSDEYFUOBA4ESLSM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 00:57:31 +0000</pubDate>
-      <content:encoded>오는 5월부터 재판 중에 제출되는 사건기록을 열람하거나 복사할 경우 수수료를 내지 않아도 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTMZBZGQ2DQOBVGMYTSNLEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1 박세연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이런 내용이 담긴 ‘사건기록 열람·등사의 방법 및 수수료 등에 관한 규칙' 일부 개정령안을 26일 입법예고했다. 개정안에는 공소제기 후 증거제출 전 사건기록 수수료 면제 특례가 신설됐다.&lt;br&gt;&lt;br&gt;지금까지 사건기록 1건당 수수료 500원, 문서 1장당 50원(특수매체기록의 출력물은 1장당 250~300원)의 추가 수수료를 내야 재판 중 사건기록에 대한 열람·등사가 가능했다. &lt;br&gt;&lt;br&gt;다만 신청권 남용 방지를 위해 반복신청 시 수수료를 부과할 수 있도록 했다. 법무부는 이번 개정으로 재판 중 사건기록열람·등사를 위해 피고인, 피해자 및 변호인 등이 부담하던 연간 18억원 상당의 수수료가 면제될 것으로 보고 있다.&lt;br&gt;&lt;br&gt;개정안은 오는 5월 1일부터 시행된다. 정성호 법무부 장관은 “사건기록 열람·등사권은 국민의 재판청구권 실현의 출발점이 되는 절차적 권리인 만큼 두텁게 보장돼야 한다”며 “향후에도 사건관계인들이 체감할 수 있는 제도개선 방안을 다각도로 추진할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오랑우탄 비밀 파헤친 골디카스 타계...유인원 연구하던 여성 3인방 모두 하늘로 </title>
