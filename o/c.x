@@ -13,6 +13,47 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한강유람선 강바닥 걸려 멈춰… 승객 300여명 한밤 전원 구조</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/LL4AOL7INZEKTCBNORUSPRFNIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/LL4AOL7INZEKTCBNORUSPRFNIE/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 13:15:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR4GWRGXLRFH5CRTXT5LS5Q2VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 반포대교 인근 한강유람선 좌초현장 . /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 한강 반포대교 인근에서 운항 중이던 유람선이 강바닥에 걸려 멈추는 사고가 발생했다.&lt;br&gt;&lt;br&gt;28일 소방 당국에 따르면, 이날 오후 8시 30분쯤 서울 서초소방서는 반포대교 인근에서 “배가 움직이질 않는다”는 신고를 접수하고 승객 구조 작업에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNQX7JK3J5M3FLLHCVMQCJDELQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 한강 반포대교 인근에서 운항 중이던 유람선이 바닥에 걸려 멈추는 사고가 발생해 소방당국이 승객들을 구조하고 있다. 현재까지 인명 피해는 없는 것으로 파악됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZTEMJWGRRDOMTCMVSTGM3EGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 한강 반포대교 인근에서 운항 중이던 유람선이 바닥에 걸려 멈추는 사고가 발생한 가운데 소방당국이 승객들을 구조하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해당 유람선은 오후 8시쯤 반포대교 무지개 분수 부근을 지나다 수심이 얕은 구간에서 강바닥에 걸려 멈춘 것으로 알려졌다. 유람선은 자체 엔진으로 30분가량 이탈을 시도했으나 빠져나오지 못했다. 이 과정에서 엔진에 연기가 피어오르기도 했다고 한다.&lt;br&gt;&lt;br&gt;사고 당시 유람선에는 300여 명이 탑승해 있던 것으로 알려졌다. 현장에 출동한 소방과 경찰 등은 오후 9시 30분쯤 승객 전원을 구조정에 옮겨 태워 육지로 이송하는 구조 작업을 마쳤다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNQSRA32SBFZFAS4SKV5FAYRHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 반포대교 인근 한강유람선 좌초현장 . /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WFJMRXB4KVBN5FLFI2WIM37A3U.gif?auth=28e00136fb516a2aed9f0243aa47a2a8450b9a4af8cf38f97306992e3a210212&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800"/>
+    </item>
+    <item>
+      <title>홍서범·조갑경, 아들 외도 논란 공식사과 “자식 허물 못 살펴…깊이 사죄”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/L37U6Y72FBDJLJJLUYRAASGRHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/L37U6Y72FBDJLJJLUYRAASGRHI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 13:08:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITBJ3UI5TNDYLDNHMW2G33PQWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 조갑경(사진 왼쪽), 홍서범 부부. /MBC '다 컸는데 안 나가요' 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 홍서범·조갑경 부부가 아들 홍모씨의 외도 이혼 논란에 대해 공식 사과했다. &lt;br&gt;&lt;br&gt;홍서범·조갑경 부부는 28일 복수의 언론에 보낸 입장문을 통해 “먼저 최근 보도된 아들의 이혼 소송과 관련하여 대중 여러분께 실망과 불편함을 드린 점 고개 숙여 깊이 사죄드린다”며 “저희 부부는 판결문 등 관련 자료와 이혼 소송 진행 과정 등을 직접 확인하며, 그동안 저희가 전달받았던 내용과 실제 사이에 차이가 있음을 무겁게 확인했다”고 했다. &lt;br&gt;&lt;br&gt;이들은 “성인인 아들의 사생활과 자율성을 존중한다는 생각에 그간 이혼 과정에 개입하지 않았으나, 결과적으로 부모로서 자식의 허물을 세밀하게 살피지 못한 부족함이 컸다”며 “공인으로서 모범을 보이지 못한 점 진심으로 반성한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “비록 항소심이 진행 중이지만, 저희 부부는 아들의 법률 대리인을 통해 양육비와 위자료 등 1심 판결에 따른 아들의 의무가 조속히 이행될 수 있도록 엄중히 지도하겠다”며 “무엇보다 손녀의 출생 및 양육에 대한 상대방의 결정을 전적으로 존중하며, 아들이 한 아이의 아버지로서 끝까지 책임을 다할 수 있도록 곁에서 살피겠다”고 약속했다. &lt;br&gt;&lt;br&gt;법조계에 따르면, 대전가정법원은 지난해 9월 홍서범·조갑경 부부의 며느리인 A씨가 제기한 위자료 소송에서 “홍씨는 A씨에게 위자료 3000만원을 지급하라”며 원고 일부 승소 판결을 내렸다. 또한 자녀 양육비로 월 80만원 지급도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 8월 지인 소개로 고등학교 교사인 홍씨를 만나 2024년 2월 결혼했고, 같은 해 3월 임신했다. 그러나 임신 한 달 만에 홍씨가 같은 학교 교사 B씨와 외도하면서 갈등이 불거진 것으로 전해졌다. A씨가 B씨와의 만남 중단을 요구하자 홍씨는 집을 나갔다고 한다.&lt;br&gt;&lt;br&gt;이후 A씨가 한 유튜브 채널을 통해 시부모인 홍서범과 조갑경에게 아들의 외도 사실을 여러 차례 알렸지만 방관했으며, 현재까지 양육비도 지급되지 않고 있다고 주장해 논란이 일었다. &lt;br&gt;&lt;br&gt;한편 홍서범과 조갑경은 1994년 결혼한 후 다수의 가족 예능에 출연했다. SBS ‘스타주니어쇼 붕어빵’을 비롯해 JTBC ‘유자식 상팔자’, ‘내 딸의 남자들’ 시즌 3·4 등에 출연했다. 지난해까지도 MBC에브리원·MBN의 ‘다 컸는데 안 나가요’에 출연해 캥거루족으로 자란 두 딸과의 일상을 보여줬다.&lt;br&gt;&lt;br&gt;&lt;b&gt;다음은 홍서범·조갑경 부부의 입장문 전문&lt;/b&gt;&lt;br&gt;&lt;br&gt;안녕하세요, 홍서범, 조갑경입니다.&lt;br&gt;&lt;br&gt;먼저, 최근 보도된 아들의 이혼 소송과 관련하여 대중 여러분께 실망과 불편함을 드린 점 고개 숙여 깊이 사죄드립니다. 저희 부부는 귀국 후 판결문 등 관련 자료와 이혼 소송 진행 과정 등을 직접 확인하며, 그동안 저희가 전달받았던 내용과 실제 사이에 차이가 있음을 무겁게 확인했습니다.&lt;br&gt;&lt;br&gt;성인인 아들의 사생활과 자율성을 존중한다는 생각에 그간 이혼 과정에 개입하지 않았으나, 결과적으로 부모로서 자식의 허물을 세밀하게 살피지 못한 부족함이 컸습니다. 공인으로서 모범을 보이지 못한 점 진심으로 반성합니다.&lt;br&gt;&lt;br&gt;비록 항소심이 진행 중이지만, 저희 부부는 아들의 법률 대리인을 통해 양육비와 위자료 등 1심 판결에 따른 아들의 의무가 조속히 이행될 수 있도록 엄중히 지도하겠습니다. 무엇보다 손녀의 출생 및 양육에 대한 상대방의 결정을 전적으로 존중하며, 아들이 한 아이의 아버지로서 끝까지 책임을 다할 수 있도록 곁에서 살피겠습니다.&lt;br&gt;&lt;br&gt;다시 한번 심려를 끼쳐드린 모든 분과 상처받으신 분들에게 머리 숙여 사죄드립니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘검은 양복‧넥타이’ 착용하고 마운드 오른 박찬호…“화재 참사 애도”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/GPIT57WHYBAEJMLJ6Y2R7F3HUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/GPIT57WHYBAEJMLJ6Y2R7F3HUI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 11:51:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J67JPCLZT5NNRAME22QQR3TH4Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 대전 한화생명볼파크에서 열린 2026 신한 SOL뱅크 KBO 리그 키움 히어로즈와 한화 이글스 정규시즌 개막전에서 박찬호가 시구를 마치고 포수 최재훈과 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 프로야구 메이저리그(MLB) 출신 ‘레전드’ 야구선수 박찬호가 검은 양복 및 넥타이를 착용하고 한화이글스의 홈 개막전에 시구자로 나서 화제가 되고 있다. &lt;br&gt;&lt;br&gt;박찬호는 28일 한화이글스의 프로야구 개막 홈경기가 열린 대전 한화생명 볼파크에 검은 양복 및 넥타이를 착용하고 시구자로 등장했다. 이날 경기는 2008년 이후 18년 만에 대전에서 열리는 개막전이라 한화이글스는 2012년 한화이글스에서 1년가량 뛰었던 인연이 있는 ‘레전드’ 박찬호를 시구자로 선정했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VN76FTHSTBPT7DVF5HSRCCNRYY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 대전 한화생명볼파크에서 열린 2026 신한 SOL뱅크 KBO 리그 키움 히어로즈와 한화 이글스 정규시즌 개막전에서 박찬호가 시구를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한화 구단은 당초 박찬호의 상징인 61번이 마킹된 유니폼을 준비했지만 박찬호는 검은 양복을 입고 마운드에 올랐다. 박찬호는 최근 발생한 대전 안전공업 화재 참사를 추모하기 위해 검은 양복을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;박찬호는 시구를 하기 전 마이크를 잡고 “화재 사고로 많은 분들이 안타까운 상황이 돼서 마음이 무겁다”며 “애도의 마음을 담아서 오늘 시구에 나왔다”고 설명했다. 박찬호는 야구공을 던지기 전 모자를 벗고 희생자들을 추모하는 의미로 묵념을 했다.&lt;br&gt;&lt;br&gt;박찬호가 시구에 나선 가운데 이날 한화는 11회 연장 접전 끝에 키움에 짜릿한 역전승을 거뒀다. &lt;br&gt;&lt;br&gt;한편 박찬호는 1994년부터 2010년까지 메이저리그에서 뛰며 통산 124승92패 평균자책점 4.36을 기록했다. 124승은 아시아 투수 메이저리그 최다승으로 아직까지 기록이 유지되고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/J67JPCLZT5NNRAME22QQR3TH4Y.JPG?auth=26b3a8f0ae90d95f8ce08266f361c9c82fe4d3eab071df74b3499f31ec216f12&amp;smart=true&amp;width=3661&amp;height=2725" type="image/jpeg" height="2725" width="3661">
+        <media:description type="plain">28일 대전 한화생명볼파크에서 열린 2026 신한 SOL뱅크 KBO 리그 키움 히어로즈와 한화 이글스 정규시즌 개막전에서 박찬호가 시구를 마치고 포수 최재훈과 인사하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(대전=뉴스1) 김기태 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘룸살롱 폭행’ 이혁재, 국힘 심사위원 논란에 “왜 나를 못 죽여 안달인가”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/LSSMAU44QFEIBI7HXXDEP5HZPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/LSSMAU44QFEIBI7HXXDEP5HZPU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 10:43:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDGY3DGIYDONJVMM3GEZRRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 서울 여의도 국민의힘 중앙당사에서 열린 '광역의원 비례 청년 공개 오디션'에서 이혁재 심사위원이 인사말하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 이혁재 씨가 자신이 국민의힘 ‘광역의원 비례 청년 오디션’ 심사위원으로 발탁돼 논란이 일고 있는 것에 대해 입장을 밝혔다. 이씨는 과거 ‘룸살롱 종업원 폭행 사건’으로 물의를 일으킨 후 모든 방송에서 퇴출된 바 있다. &lt;br&gt;&lt;br&gt;28일 정치권에 따르면 이씨는 전날 공개된 연예매체 OSEN과의 인터뷰에서 “국민의힘 청년 정치국에서 연락이 왔다. 사무국장이 청년 공개 오디션 심사위원을 해달라고 하더라”며 “이유를 물어보니 심사위원을 각 분야에 전문가로 모시고 싶다고 하더라. 아무래도 국민의힘 쪽에는 방송인들이 지지를 하더라도 드러내놓고 하시는 분들이 없다고, 저한테 제안이 온 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이씨는 “저도 분명히 ‘제가 나오게 되면 과거 일로 흠집이 날 거고, 저 개인은 상관이 없는데 오디션에 괜히 누가 되는 게 아닐까요?’라고 했다. 아니나 다를까 논란이 커지더라”며 “제가 고사 의사를 밝히기도 했는데, 당대표를 비롯한 내부 수뇌부 회의에서 ‘어떻게 성공한 사람의 기준만으로 우리가 평가를 하냐, 실패도 하고. 그런 걸로 따지면 이 사람이 가장 살아 있는 유경험자 아니냐. 그냥 가자’고 해서 하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 비판 여론에 대해서는 “이게 어제 일도 아니고 10년 전 일을 가지고 물의를 일으킨 연예인이라고 한다”며 “제가 지금 방송을 하는 것도 아니고, ‘방송 안 하겠다’ 선포하고 자연인으로 사는데, 왜 저를 못 죽여서 안달일까요”라고 했다. &lt;br&gt;&lt;br&gt;심사위원으로 참석한 소감에 대해서는 “반응도 너무 좋았고, 저는 너무 보람됐다”며 “다행히 실시간 반응은 너무 좋아서 국민의힘 청년부에서 ‘기대 이상의 반응이었다’고 하더라. 그럼 된 거다. 저는 거기에 보람을 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;한편 이씨는 지난 2010년 룸살롱 종업원 폭행 사건으로 연예계 활동을 전면 중단했다. &lt;br&gt;&lt;br&gt;이씨는 당시 인천의 한 룸살롱에서 종업원들의 뺨을 한두 차례 때린 혐의로 재판에 넘겨졌고, 법원은 이씨의 상해 혐의를 인정해 최종적으로 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;이씨는 또 여러 차례 채무 불이행으로 ‘빚투’ 논란이 불거지거나, 사기 혐의로 피소되는 등 금전 관련 논란이 끊이지 않았던 인물이다. 2024년에는 2억원 이상을 체납해 고액 체납자 명단에 이름을 올리기도 했다.&lt;br&gt;&lt;br&gt;이씨는 지난 2024년 비상계엄 이후엔 유튜브 방송 등에 출연해 윤석열 전 대통령을 옹호하는 발언을 공개적으로 했다.&lt;br&gt;&lt;br&gt;이씨는 당내에서 해촉 요구가 나온 상황에서도 28일 열린 ‘광역의원 비례 청년 공개 오디션’ 결선에 심사위원으로 그대로 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이준석, 학력위조 의혹에 하버드 졸업장 공개…“전한길, 타진요식 수법”</title>
       <link>https://www.chosun.com/national/national_general/2026/03/28/T4VP4QZPSVGPZPBHU377FXOGNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/T4VP4QZPSVGPZPBHU377FXOGNE/</guid>
@@ -716,34 +757,6 @@
       <content:encoded>27일 인천국제공항공사는 개항 25주년을 맞아 개항 당시 목표였던 ‘연간 여객 1억명 시대’를 열겠다고 밝혔다. 인프라 확장과 서비스 고도화, 지방 연계 강화 등을 통해 더 많은 여객을 끌어모으겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNDRIIDXCFH5LLDN3QHGTU3UGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/인천국제공항공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2001년 3월 문을 연 인천공항은 작년 기준 국제 여객 7407만1475명, 국제 화물 295만4684t을 기록하며 국제공항협의회(ACI) 기준 세계 3위 공항에 올랐다. 환승객은 804만6572명으로, 일본 등 주변국 수요를 끌어들이며 동북아 허브 공항 역할을 하고 있다. 인천공항에 취항하는 101개 항공사가 53개국 183개 도시를 연결한다. 특히 일본 노선은 31개로, 나리타(17개)나 간사이(12개)보다 더 많은 지역과 이어져 있다.&lt;br&gt;&lt;br&gt;해외 사업도 확대되고 있다. 인천국제공항공사는 공항 건설·운영 경험을 바탕으로 18개국에서 42개 사업을 따내며 누적 5억8558만달러 규모의 실적을 쌓았다고 밝혔다.&lt;br&gt;&lt;br&gt;인천공항은 시설 측면에선 이미 ‘1억 명’을 수용할 수 있는 능력을 갖춘 상태다. 2024년 인천공항 4단계 확장 사업을 마치면서 연간 1억600만 명을 처리할 수 있는 상태다. 국제선 수용 능력 기준으로 보면 홍콩(1억2000만명), 두바이(1억1500만명)에 이어 3위다. &lt;br&gt;&lt;br&gt;1~4단계 확장에 투입된 사업비는 총 18조170억원으로, 이 중 82%를 자체 조달했다. 생산 유발 효과는 67조원(2024년 직접 효과 기준)으로 국가 GDP의 2.6% 수준이며, 인천 지역에서는 48조원으로 지역총생산(GRDP)의 39%를 차지한다. 최근 3년간 446억원 규모의 사회공헌 사업도 진행됐다.&lt;br&gt;&lt;br&gt;인천국제공항공사는 앞으로 인공지능 전환(AX)과 도심항공교통(UAM) 인프라를 구축해 공항 서비스를 고도화한다는 계획이다.&lt;br&gt;&lt;br&gt;국내 노선도 늘린다. 정부의 ‘외래객 3000만명 유치’ 목표에 맞춰 지방 이용객의 접근성을 높이겠다는 취지다. 2016년 수요 부족으로 중단됐던 인천~제주 노선은 오는 5월 주 2회 운항으로 재개된다. 현재 주 42회 운항 중인 환승 내항기도 확대된다. 4월부터 인천~김해 노선은 주 35회에서 39회로 늘어난다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>BTS 광화문 공연, 관람객 25%가 외국인</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/27/TU5I2PR4LZCUHDQHYQ25HVYD4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/27/TU5I2PR4LZCUHDQHYQ25HVYD4Q/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:48:00 +0000</pubDate>
-      <content:encoded>서울시는 지난 21일 방탄소년단(BTS)의 컴백 공연을 찾은 외국인 관람객이 1만9170명으로 집계됐다고 26일 밝혔다. 전체 관람객(7만5927명) 4명 중 1명이 외국인이었다. 체류 기간별로 보면 91일 이상 장기 체류한 외국인이 1만3889명으로 72%를 차지했다. 서울시 관계자는 “공연을 보기 위해 해외에서 입국한 관광객보다 국내에 살고 있는 유학생, 근로자 등이 많이 찾았다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;국적별로는 태국(1740명), 베트남(1184명), 인도(1126명), 일본(1098명) 등의 순으로 많았다. 서울시 관계자는 “다양한 국적의 외국인이 공연을 관람한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이 숫자는 공연이 열린 지난 21일 오후 8~9시 광화문광장·시청역 일대의 휴대전화 기지국 접속 정보, 신용카드 결제 데이터 등을 분석한 결과다. ‘서울 실시간 도시데이터’ 사이트의 집계와 달리 법무부 출입국 기록까지 포함해 정확도를 높였다. 서울시 관계자는 “실제 관람객 규모에 가장 근접한 데이터”라고 했다.&lt;br&gt;&lt;br&gt;공연 당시 서울 실시간 도시데이터 사이트에 뜬 광화문광장·시청역 일대의 실시간 인구는 4만6000~4만8000명이었다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이 집계에는 국내 휴대전화나 신용카드를 쓰지 않는 외국인 관광객 등 단기 체류 외국인 수가 빠져 있다”고 했다. BTS 공연을 보기 위해 해외에서 입국한 팬들이 대부분 포함되지 않았다는 설명이다.&lt;br&gt;&lt;br&gt;주최 측인 하이브는 지난 21일 휴대전화 기지국 접속 정보 등을 바탕으로 약 10만4000명이 공연을 관람했다고 추산했다. 하이브 측은 “광화문광장·시청역뿐 아니라 숭례문 일대의 관람객까지 포함했다”고 밝혔다. 광화문광장 일대를 지나간 시민도 포함됐다.&lt;br&gt;&lt;br&gt;경찰은 지난달 “최대 26만명이 컴백 공연 현장을 찾을 것”이라고 예상했다. 경찰 관계자는 “세종대로 광화문~숭례문 구간을 기준으로 1㎡당 2명이 올 것이라 가정했다”고 말했다. 실제 관람객이 경찰의 예상치보다 적었던 이유에 대해선 지하철 무정차 통과, 보안 검색 강화 등 과도한 통제 조치가 영향을 미쳤다는 분석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김외식 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/03/27/ISBFBO2D6BFXFNXVLCUVXTV3DU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/03/27/ISBFBO2D6BFXFNXVLCUVXTV3DU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김외식 &lt;/b&gt;별세, &lt;b&gt;박순혜&lt;/b&gt;·&lt;b&gt;박신영&lt;/b&gt;·&lt;b&gt;박민숙&lt;/b&gt;·&lt;b&gt;박정홍&lt;/b&gt;·&lt;b&gt;박유향&lt;/b&gt;·&lt;b&gt;박재홍 &lt;/b&gt;모친상, &lt;b&gt;장창기&lt;/b&gt;·&lt;b&gt;강개선&lt;/b&gt;·&lt;b&gt;송태섭&lt;/b&gt;·&lt;b&gt;정하택 &lt;/b&gt;장모상, &lt;b&gt;박수완&lt;/b&gt;·&lt;b&gt;박수현&lt;/b&gt;·&lt;b&gt;박요한 &lt;/b&gt;조모상, &lt;b&gt;장용준&lt;/b&gt;·&lt;b&gt;장용욱 &lt;/b&gt;TV조선 사회부 차장·&lt;b&gt;강순동&lt;/b&gt;·&lt;b&gt;강동길&lt;/b&gt;·&lt;b&gt;송지연&lt;/b&gt;·&lt;b&gt;송재원&lt;/b&gt;·&lt;b&gt;정수재&lt;/b&gt;·&lt;b&gt;정유경 &lt;/b&gt;외조모상=26일7시30분 경남 거창장례식장, 발인 28일8시10분, (054)944-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤옥란 &lt;/b&gt;별세, &lt;b&gt;김진유 &lt;/b&gt;경기대 도시교통공학과 교수 모친상, &lt;b&gt;윤희영 &lt;/b&gt;현대문학 잡지팀장 시모상, &lt;b&gt;김세연&lt;/b&gt;·&lt;b&gt;김성윤 &lt;/b&gt;조모상=25일16시27분 삼성서울병원, 발인 27일11시, (02)3410-6914&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임호철 &lt;/b&gt;별세, &lt;b&gt;임헌정 &lt;/b&gt;연합뉴스 DB·출판부 차장 부친상=26일3시19분 서울성모병원, 발인 28일5시, (02)2258-5973&lt;br&gt;&lt;br&gt;▲&lt;b&gt;허숙렬 &lt;/b&gt;별세, &lt;b&gt;최대용 &lt;/b&gt;前 국무총리실 평가총괄정책관 장모상, &lt;b&gt;최원우 &lt;/b&gt;조선일보 테크부 기자 외조모상=26일13시10분 삼성서울병원, 발인 28일8시15분, (02)3410-6908&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘연해주 독립운동 대부’ 최재형 선생 업적 기린다</title>
-      <link>https://www.chosun.com/national/people/2026/03/27/4QFULDG4SRFNVFK65AWPAENRQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/27/4QFULDG4SRFNVFK65AWPAENRQM/</guid>
-      <dc:creator>김동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBPKNDTS75D6PLK36WM22SMVIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘최재형기념사업회 기금 후원회’가 26일 서울 소공동 롯데호텔에서 발기인 대회를 연 가운데 참석자들이 기념 촬영을 하고 있다. 앞줄 왼쪽부터 박종범 세계한인경제무역협회장, 정석현 수산그룹 회장, 정세균 전 국회의장, 손경식 한국경영자총협회장, 김형오 전 국회의장, 한민구 전 국방부 장관, 윤동한 한국콜마 회장.
-/최재형기념사업회 기금 후원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;러시아 연해주에서 일군 재산을 독립운동에 바친 최재형 선생의 업적을 기리기 위한 ‘최재형기념사업회 기금 후원회’가 26일 서울 소공동 롯데호텔에서 발기인 대회를 열었다. 최재형기념사업회(문영숙 이사장)는 지난 2011년 창립해 매년 추모식과 각종 기념사업을 벌여왔으나 후원이 줄어 운영비 마련에 어려움을 겪었다고 한다. 이에 기금 후원회를 발족하고 시민 모금 운동도 전개하기로 했다. &lt;br&gt;&lt;br&gt;후원회장은 정석현 수산그룹 회장, 후원회 해외 파트 회장은 박종범 세계한인경제무역협회장이다. 손경식 한국경총 회장과 김형오·정세균 전 국회의장이 고문을 맡았다. 한민구 전 국방장관, 강민구 변호사, 김태유·오종남 서울대 명예교수, 최진석 서강대 명예교수, 강신장 모네상스 대표, 김효준 전 BMW코리아 회장, 장세정 중앙일보 논설위원 등은 학술 회원으로 최 선생 업적을 알린다. 곽재선 KG그룹 회장, 김홍국 하림그룹 회장, 윤동한 한국콜마 회장 등 다수 기업인은 기금 후원 기업인으로 참여한다. &lt;br&gt;&lt;br&gt;1860년 함경북도 경원에서 태어난 최재형 선생은 9세에 부모를 따라 연해주로 이주했다. 러시아에서 사업가로 성공한 후, 1908년 국외 최초의 의병 단체인 동의회(同義會)를 조직해 항일 투쟁을 벌였다. 1909년 블라디보스토크에 있는 대동공보사 사장이 된 최 선생은 안중근 의사가 일본 당국의 눈을 피해 활동할 수 있도록 기자로 위촉했다. 1919년 대한민국 임시정부의 초대 재무총장에 임명되는 등 ‘연해주 독립운동의 대부’로 불린 최 선생은 1920년 우스리스크에서 일본군에 체포돼 순국했다.&lt;br&gt;&lt;br&gt;정석현 후원회장은 이날 “기념사업회의 안타까운 사연을 들은 지인들이 올해 1월부터 현재까지 20억원쯤 후원해주기로 했다”며 “앞으로 십시일반 시민 모금 운동을 전개해 30억원을 마련해 안정적인 운영 기반을 마련할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
       <link>https://www.chosun.com/special/announcement/2026/03/27/C34QVODKLJATFC53WEYS6YVACA/</link>
       <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/03/27/C34QVODKLJATFC53WEYS6YVACA/</guid>
@@ -751,15 +764,6 @@
       <description/>
       <pubDate>Thu, 26 Mar 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFWWNXDW7ZBNJFL4GKOEKQBXC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-3-27일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 20일 ‘우리 아기가 태어났어요’ 코너에 실린 오윤재&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 소혜진·전주영 아들 지호 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/27/GRCSGT435NGHHIG74ATCSSLBAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/27/GRCSGT435NGHHIG74ATCSSLBAA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LK22SKZJMZC4JNXIDZP5TM3HYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국내 최초 AI 특화 단과대 신설… XR 기반 수업 적용</title>
