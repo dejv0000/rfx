@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이준석, 학력위조 의혹에 하버드 졸업장 공개…“전한길, 타진요식 수법”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/T4VP4QZPSVGPZPBHU377FXOGNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/T4VP4QZPSVGPZPBHU377FXOGNE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 08:07:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYWGZJVMQYGMZBTMFRGKODCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이준석 개혁신당 대표가 자신의 학력 위조 의혹을 지속적으로 제기하고 있는 유튜버 전한길(본명 전유관) 씨를 비판하며 하버드 대학교 졸업장을 공개했다. &lt;br&gt;&lt;br&gt;28일 정치권에 따르면, 이 대표는 전날 자신의 소셜미디어를 통해 “전유관 씨가 법적 처분을 받을 시간이 다가오니, 어차피 처벌받을 거 더 건수를 쌓겠다는 식으로 아무말 대잔치를 또 시작한다. 타진요가 했던 방식과 똑같다”며 하버드 대학교 졸업장 사진을 올렸다. &lt;br&gt;&lt;br&gt;이 대표는 “문서를 보여주면 위조됐다고 하고, 공식 졸업증명서 발급기관의 서류를 제출하면 다른 걸 가져오라고 한다”며 “경찰이 하버드 대학교에 직접 조회해서 확인받아도 경찰을 못 믿겠다고 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHIT6UHXNBHZTHR6USC5JIRFUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 공개한 하버드대 졸업장. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 “경찰이 저를 그다지 좋아할 이유가 없는 윤석열 정부에서도, 이재명 정부에서도 같은 답을 줬다”며 “만난 자리에서 (하버드 대학교) 사이트에 로그인해 직접 인증해 주겠다고 했더니 그건 안 된다고 한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “졸업장 공개는 2012년부터 요구할 때마다 해왔다. 그런데 돈벌이가 필요한 유튜브에서는 마치 한 번도 안 한 것처럼 ‘왜 안 하냐’고 떠든다”며 “유튜브에서 (졸업장을) 공개하지 못한다고 허위사실을 유포한 것 자체도 고소 항목에 추가하겠다”고 했다. &lt;br&gt;&lt;br&gt;이 대표는 “그들의 수법이 이것이니, 계속 그에 대한 책임도 쌓아가겠다”며 “진실탐구를 한다는 사람들의 수준이 어떤 것인지 앞으로도 계속 드러나길 기대한다”고 했다. &lt;br&gt;&lt;br&gt;한편 지난해 4월 경기 화성동탄경찰서는 이준석 대표의 하버드대 학력 위조 의혹이 사실이 아님을 하버드대를 통해 확인했다고 밝혔다. 앞서 이 대표는 22대 총선을 앞둔 지난 2024년 3월 학력을 허위 기재했다는 혐의(허위사실공표)로 고발당한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 29일 일요일 (음력 2월 11일 壬寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/QPFDZISIRZF3FMJSKZL5TX2CVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/QPFDZISIRZF3FMJSKZL5TX2CVQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>‘앤디 아내’ 이은주, KBS에 약 3억원 받는다…임금 소송 일부 승소</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/6EVMEWBE55G65AZG3VJ247LM3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/6EVMEWBE55G65AZG3VJ247LM3Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 06:55:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFWPS4NTF5BUTEJS72DHV4HCXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이은주 아나운서와 신화 멤버 앤디 부부. /SBS 동상이몽&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 신화 멤버 앤디의 아내 이은주 아나운서가 KBS를 상대로 한 임금 소송 1심에서 승소해, 미지급 임금 약 3억원을 받게 됐다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 서울남부지법 민사9단독 김동현 판사는 지난 24일 이 아나운서가 KBS를 상대로 낸 임금 청구 소송에서 원고 일부 승소 판결을 내렸다. 재판부는 KBS가 이 아나운서에게 미지급 임금 약 2억 8940만원을 지급할 의무가 있다고 판단했다.&lt;br&gt;&lt;br&gt;이은주 아나운서는 2015년 KBS 지방 방송국에 프리랜서 기상캐스터로 입사했으며 2016년부터 내부 테스트 및 교육을 거쳐 아나운서 업무를 수행했다. 하지만 이은주 아나운서는 2019년 7월 KBS 신입 아나운서가 채용된 후 아나운서 업무에서 배제됐다.&lt;br&gt;&lt;br&gt;이에 이은주 아나운서는 자신이 KBS에 임금을 목적으로 종속적인 관계에서 근로를 제공했다며 근로자지위확인 청구 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심 재판부는 정해진 출퇴근 시간이 없었고, 그 외에 근태와 관련해 승인받지도 않았다며 KBS 측의 손을 들어줬지만, 2심 재판부는 배정된 방송 편성표에 따라 상당한 지휘·감독을 통해 정규직 아나운서들과 동일 업무를 수행했다며 이은주 아나운서가 직원이라고 보는 것이 합리적이라고 했다. 해당 판결은 대법원에서 확정됐으며 KBS는 2024년 1월 이은주 아나운서를 복직시켰다. &lt;br&gt;&lt;br&gt;이후 이은주 아나운서는 약 5년간의 해고 기간 정상 근무했다면 받을 수 있었던 임금을 지급하라며 소송을 제기했고, 계약직(7직급)이 아닌 정규직(4직급) 기준으로 임금을 산정해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;반면 KBS는 채용 절차의 차이를 들어 ‘7직급’이 타당하다고 맞섰지만 재판부는 다시 한번 이 아나운서의 손을 들어줬다. &lt;br&gt;&lt;br&gt;재판부는 “이 아나운서가 3년 이상 근무하며 채용시험에 준하는 능력을 검증받았고, 정규직 아나운서와 실질적인 업무 구분이 어렵다”고 판단 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경복궁서 새벽에 화재 발생… 자선당 문 일부 훼손</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/28/JKRWSU3D2ZBLBOK4Q7OJPJAXLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/28/JKRWSU3D2ZBLBOK4Q7OJPJAXLE/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Mar 2026 06:00:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANBD53ITQZN73AMHG3AIHBF4PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 5시 30분쯤 경복궁 자선당 앞 삼비문(三備門) 인근에서 화재가 발생했다. /국가유산청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 경복궁에서 화재가 발생해 자선당 문 일부가 훼손됐다.&lt;br&gt;&lt;br&gt;28일 국가유산청에 따르면 이날 오전 5시 30분쯤 경복궁 자선당 인근 삼비문(三備門)에서 불이 났다. 당시 궁 안을 순찰하던 안전요원이 연기와 불꽃을 발견하고 소화기 등을 이용해 15분 만에 진화했다.&lt;br&gt;&lt;br&gt;이 화재로 삼비문 옆 쪽문 보조 기둥 1곳과 신방목(기둥 밑에 가로 방향으로 끼어두는 받침목) 일부가 손상됐다. 인명 피해는 없었다. 국가유산청 관계자는 “당시 현장 CCTV를 확인했으나 (사람) 움직임은 없었다”며 “자연 발화로 인해 불이 난 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2OGSCPMVBOM3E5WIBQPUZLPBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 5시 30분쯤 경복궁 자선당 앞 삼비문(三備門) 인근에서 화재가 발생했다. 가림막이 설치돼 있다. /국가유산청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 경복궁은 정상 개방됐다. 경복궁관리소는 경복궁이 문을 여는 오전 9시쯤 삼비문 인근에 가림막을 설치해 관람 동선을 조정하고 있다. 국가유산청 등은 삼비문 보수 작업과 더불어 궁궐·왕릉 화재 및 안전사고 위험 요소를 집중 점검할 방침이다.&lt;br&gt;&lt;br&gt;자선당은 경복궁 동궁에 있는 세자와 세자빈이 지낸 공간이다. 1427년 건립돼 여러 차례 화재·소실·중건을 거쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘병역 비리’ 라비, 소집 해제...“비겁한 선택 부끄럽다”</title>
       <link>https://www.chosun.com/national/people/2026/03/28/UCB3LH3EIZCMXBJ7KEVK4YGYCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/28/UCB3LH3EIZCMXBJ7KEVK4YGYCE/</guid>
@@ -679,34 +716,6 @@
       <content:encoded>27일 인천국제공항공사는 개항 25주년을 맞아 개항 당시 목표였던 ‘연간 여객 1억명 시대’를 열겠다고 밝혔다. 인프라 확장과 서비스 고도화, 지방 연계 강화 등을 통해 더 많은 여객을 끌어모으겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNDRIIDXCFH5LLDN3QHGTU3UGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/인천국제공항공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2001년 3월 문을 연 인천공항은 작년 기준 국제 여객 7407만1475명, 국제 화물 295만4684t을 기록하며 국제공항협의회(ACI) 기준 세계 3위 공항에 올랐다. 환승객은 804만6572명으로, 일본 등 주변국 수요를 끌어들이며 동북아 허브 공항 역할을 하고 있다. 인천공항에 취항하는 101개 항공사가 53개국 183개 도시를 연결한다. 특히 일본 노선은 31개로, 나리타(17개)나 간사이(12개)보다 더 많은 지역과 이어져 있다.&lt;br&gt;&lt;br&gt;해외 사업도 확대되고 있다. 인천국제공항공사는 공항 건설·운영 경험을 바탕으로 18개국에서 42개 사업을 따내며 누적 5억8558만달러 규모의 실적을 쌓았다고 밝혔다.&lt;br&gt;&lt;br&gt;인천공항은 시설 측면에선 이미 ‘1억 명’을 수용할 수 있는 능력을 갖춘 상태다. 2024년 인천공항 4단계 확장 사업을 마치면서 연간 1억600만 명을 처리할 수 있는 상태다. 국제선 수용 능력 기준으로 보면 홍콩(1억2000만명), 두바이(1억1500만명)에 이어 3위다. &lt;br&gt;&lt;br&gt;1~4단계 확장에 투입된 사업비는 총 18조170억원으로, 이 중 82%를 자체 조달했다. 생산 유발 효과는 67조원(2024년 직접 효과 기준)으로 국가 GDP의 2.6% 수준이며, 인천 지역에서는 48조원으로 지역총생산(GRDP)의 39%를 차지한다. 최근 3년간 446억원 규모의 사회공헌 사업도 진행됐다.&lt;br&gt;&lt;br&gt;인천국제공항공사는 앞으로 인공지능 전환(AX)과 도심항공교통(UAM) 인프라를 구축해 공항 서비스를 고도화한다는 계획이다.&lt;br&gt;&lt;br&gt;국내 노선도 늘린다. 정부의 ‘외래객 3000만명 유치’ 목표에 맞춰 지방 이용객의 접근성을 높이겠다는 취지다. 2016년 수요 부족으로 중단됐던 인천~제주 노선은 오는 5월 주 2회 운항으로 재개된다. 현재 주 42회 운항 중인 환승 내항기도 확대된다. 4월부터 인천~김해 노선은 주 35회에서 39회로 늘어난다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>방문요양 받는 어르신도 통합돌봄 신청 가능</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/27/JBVEPSDZP5BELIXR4T44JGHB2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/27/JBVEPSDZP5BELIXR4T44JGHB2Q/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEBXJXOLWJA2DDXNXVS7UC2AMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일부터 전국 229개 시군구에서 ‘통합 돌봄’이 본격 시행된다. 사진은 지난해 충북 진천군에서 의료진이 통합 돌봄 대상을 방문 진료하고 있는 모습. 진천군은 통합 돌봄을 앞서 시범 운영해온 지자체 중 하나다. /진천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 경기도 성남의 한 행정복지센터. ‘통합 돌봄 신청’이란 문구가 적힌 창구가 마련돼 있었다. 센터 관계자는 “어제부터 하루 2~3건씩 관련 문의 전화가 오고 있다”며 “대부분 몸이 안 좋은 노인이나 가족들이 ‘식사 지원을 받고 싶은데 통합 돌봄을 신청하면 되느냐’고 물어보는 경우였다”고 했다.&lt;br&gt;&lt;br&gt;돌봄이 필요한 노년층과 장애인이 병원이나 시설이 아니라, 집에서 지낼 수 있도록 의료·요양·돌봄 서비스를 맞춤형으로 지원해주는 ‘통합 돌봄’이 27일 전국에서 본격 시행된다. 보건복지부는 “전국 229개 모든 시·군·구에서 전담 조직을 만들고 인력 배치를 완료하는 등 사업 추진을 위한 기반을 조성했다”고 밝혔다. 이에 따라 방문 진료, 만성 질환 관리, ‘어르신 유치원’으로 불리는 데이케어센터(주간 보호 센터) 등 30개에 이르는 각종 의료·복지 서비스를 연계해 이용할 수 있게 될 전망이다. 다만 일선 현장에선 “지자체의 참여 부족이나 예산 부족 등 때문에 혼선이 빚어질 것”이란 우려도 나온다. 통합 돌봄의 대상자는 누구고, 구체적으로 어떤 서비스를 받을 수 있는지 등을 문답으로 정리했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNT4N5FIYREDDHNYNBBRFJEMUI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q1. 서비스 제공 대상은 누구인가.&lt;/b&gt;&lt;br&gt;&lt;br&gt;노쇠, 장애, 질병 등으로 일상생활 유지에 어려움을 겪는 65세 이상 노년층과 장애인이다. 장애인의 경우 지체·뇌병변 등 의료 필요도가 높은 장애를 가졌다면 나이와 상관없이 신청할 수 있다. 건강 상태나 돌봄 필요도에 따라 자격이 결정된다. 다른 일반 복지 제도를 신청할 때와 달리, 통합 돌봄은 소득 수준을 고려하지 않는다. 신청하면 담당자가 어떤 서비스를 제공받을 수 있는지 찾아준다. 다만 이 과정에서 집안일을 돕거나 이동을 지원해주는 일부 서비스는 소득 기준이 적용될 수도 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;Q2. 어디서, 어떻게 신청하나.&lt;/b&gt;&lt;br&gt;&lt;br&gt;주민등록이 돼 있는 읍·면·동 행정복지센터나 건강보험공단 지사에 방문하면 된다. 우편이나 팩스로도 신청이 가능하다. 본인이 아니라 가족이나 노인 복지 시설 담당자도 대신 신청할 수 있다. 장애인 통합 돌봄의 경우는 현재 102개 지자체에서만 신청이 가능하다.&lt;br&gt;&lt;br&gt;서비스를 신청하면 담당자가 전화 등으로 상담을 진행한다. 건강 상태 등을 따져 실제로 통합 돌봄이 필요한 대상인지 확인하는 것이다. 선정되면 담당자가 가정을 찾아가 구체적으로 어떤 서비스를 제공해야 하는지를 추가로 파악한다. 신청부터 실제 서비스 제공까지 1~2개월 정도 걸린다.&lt;br&gt;&lt;br&gt;&lt;b&gt;Q3. 어떤 서비스를 받을 수 있나. 비용은.&lt;/b&gt;&lt;br&gt;&lt;br&gt;보건의료, 건강관리, 장기 요양, 일상생활 돌봄 등 다양한 서비스를 받을 수 있다. 현재 확정된 프로그램만 노인 기준 19개, 장애인 11개다. 집에서 진료나 간호를 받는 방문 진료, 인지 장애자를 위한 치매 관리, 의료기관 퇴원 환자 연계 지원 등이다. 노인 운동 프로그램, 방문 간호, 방문 요양, 재택 의료, 주야간 단기 시설 보호, 노인 맞춤 돌봄, 독거노인 응급 안전 안심 서비스 등도 제공된다. 지자체에 따라 병원에 동행해주는 서비스, 주거 환경 개선 등 자체 운영 서비스도 제공한다. 다른 복지 서비스와 마찬가지로, 건강보험이나 장기 요양 급여를 통해 정부가 지원하는 금액을 뺀 본인 부담금만 내면 된다. &lt;br&gt;&lt;br&gt;&lt;b&gt;Q4. 기존 다른 서비스를 이용 중인데, 또 신청할 수 있나.&lt;/b&gt;&lt;br&gt;&lt;br&gt;이미 장기요양이나 노인맞춤돌봄 서비스 등을 받고 있는 상태여도 통합 돌봄을 신청할 수 있다. 신청하면, 기존에 받고 있는 서비스 외(外)에 필요한 다른 서비스가 없는지 확인해준다. 현재 이용 중인 서비스 중단 없이 다른 복지 서비스를 추가로 받을 수 있게 되는 것이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;Q5. 혼선이 발생하지 않을까.&lt;/b&gt;&lt;br&gt;&lt;br&gt;정부가 ‘본격 전국 시행’을 내세우고 있지만, 여전히 준비가 덜 된 지자체가 있다. 예산도 부족하다는 지적이 많다. 올해 통합 돌봄 예산은 914억원인데, 229개 지자체로 나누면 4억원에도 못 미치는 정도다. 담당 인력이 배치됐다고 하지만 당분간 업무 과중과 혼란이 예상된다는 우려도 나온다. 복지부도 “시·군·구 본청은 약 90%가 전임 인력이지만, 읍·면·동 및 보건소는 대부분 겸임을 하고 있다”고 했다. 2023년 시범 사업이 시작됐지만 전국 읍·면·동 3560여 곳 중 2800여 곳만 사업 운영 경험이 있는 것도 문제로 지적된다. 나머지 760곳은 관련 서비스를 제공해 본 경험이 없다는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[사건 인사이드] 전재수 지인에 간 까르띠에 시계… 본인 전달은 아직 확인 못해</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/27/5OYZI2DLCZAOBPB3LNWHWEMOPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/27/5OYZI2DLCZAOBPB3LNWHWEMOPA/</guid>
-      <dc:creator>유희곤 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:48:00 +0000</pubDate>
-      <content:encoded>‘정교(政敎) 유착’ 의혹을 수사하는 검경 합동수사본부는 더불어민주당 전재수 의원이 통일교에서 700만원 상당의 까르띠에 시계를 받은 혐의와 관련해 구체적인 시계 전달 경위를 수사 중인 것으로 26일 알려졌다. 합수본은 통일교가 구입한 이 까르띠에 시계가 전 의원의 지인에게 건너간 것까지는 확인했다고 한다. 전 의원이 통일교 측에서 시계를 받아 지인에게 맡겨뒀을 가능성이 있다는 것이다. 그러나 전 의원이 “시계를 포함해 불법적인 금품을 단 한 번도 받은 적 없다”는 입장을 고수하면서 합수본이 혐의 입증에 애를 먹고 있다는 말이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V37WKVGYZJG5FCKBXAYRYCMXM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합수본은 통일교가 전 의원 측에 전달한 것으로 의심되는 명품 시계를 까르띠에 ‘발롱블루’ 모델로 특정했다. 통일교는 지난 2018년 교단 고위 인사들에게 줄 선물용으로 까르띠에 시계 10여 점을 구입했는데, 그중 하나가 전 의원 측에 흘러간 정황이 있다는 것이다. 이 까르띠에 시계는 2018년 구입 당시 700만원대였으나, 현재는 1200만원대로 가격이 올랐다.&lt;br&gt;&lt;br&gt;전 의원은 2018년 8월쯤 통일교 정선교회장인 박모 목사와 함께 경기 가평군 천정궁을 찾아 한학자 통일교 총재를 만났다. 통일교가 시계를 대량 구입한 이후다. 박씨는 ‘노사모(노무현을 사랑하는 사람들의 모임)’ 출신으로, 친노계 출신인 전 의원 등 민주당 인사를 통일교에 소개한 것으로 알려졌다. 합수본은 전 의원이 한 총재와 면담한 이후 윤영호 전 통일교 세계본부장이 전 의원 측에 까르띠에 시계를 선물로 줬을 가능성을 의심한다. 통일교 측이 숙원 사업인 ‘한일 해저터널 건설 사업’ 지원 등 청탁 대가로 전 의원 측에 시계를 건넨 것 아니냐는 얘기다.&lt;br&gt;&lt;br&gt;하지만 윤영호씨가 합수본 조사에서 “전 의원과 같이 온 박 목사에게 까르띠에 시계를 건넸다”고 진술하면서 수사가 미궁에 빠졌다. 박씨도 “전 의원과 함께 천정궁을 방문했을 때 윤씨에게 보따리 선물을 받았는데 나중에 열어보니 시계였다. 시계는 전 의원에게 전달하지 않고 지인 A씨에게 줬다”고 주장한다고 한다. 한 총재는 전 의원과 만난 사실은 인정하면서도 시계가 전 의원 측에 전달됐는지는 알지 못한다는 입장이다. 시계를 주고받은 측이 모두 전 의원과의 접점을 부인하는 상황이다. 시계를 최종적으로 전달받은 A씨는 전 의원, 박씨 둘 다와 안면이 있는 사이로 전해졌다.&lt;br&gt;&lt;br&gt;합수본은 지난 19일 전 의원을 불러 18시간 동안 조사하면서 까르띠에 시계를 수수했는지 집중적으로 캐물었다. 전 의원은 “시계를 수리했다는 A씨는 통일교 측과 친분이 깊은 사람”이라며 시계는 자기와 무관하다고 주장했다고 한다. 합수본은 전 의원이 박씨에게 까르띠에 시계를 받은 뒤 A씨에게 줬을 가능성, 친여(親與) 성향인 박씨가 전 의원을 보호하기 위해 시계 수수 과정과 관련해 거짓말을 할 가능성 등을 열어두고 수사 중이다. 합수본은 통일교가 까르띠에 시계를 구매한 내역과 A씨가 시계 수리를 맡긴 기록 등을 확보해 A씨가 해당 시계를 갖게 된 과정도 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세월 지나도 슬픔은 그대로… 천안함 16주기 추모식</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/27/LMWUBWFW4RFF5OYYXSMIMNPYXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/27/LMWUBWFW4RFF5OYYXSMIMNPYXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWMEA4AHQVFLHNSYMTTQQKDHP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 경기 평택시 해군 제2함대 사령부에서 ‘제16주기 천안함 46용사 추모식’이 열렸다. 유가족이 추모비에 새겨진 용사의 얼굴을 어루만지고 있다. 이날 추모식에는 유가족과 이두희 국방부 차관 등 200여 명이 참석했다. 천안함은 2010년 3월 서해 백령도 인근 바다에서 북한 잠수정의 어뢰 공격을 받아 침몰했다. 승조원 104명 중 46명이 전사했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>BTS 광화문 공연, 관람객 25%가 외국인</title>
       <link>https://www.chosun.com/national/national_general/2026/03/27/TU5I2PR4LZCUHDQHYQ25HVYD4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/27/TU5I2PR4LZCUHDQHYQ25HVYD4Q/</guid>
@@ -723,15 +732,6 @@
       <description/>
       <pubDate>Thu, 26 Mar 2026 15:42:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;김외식 &lt;/b&gt;별세, &lt;b&gt;박순혜&lt;/b&gt;·&lt;b&gt;박신영&lt;/b&gt;·&lt;b&gt;박민숙&lt;/b&gt;·&lt;b&gt;박정홍&lt;/b&gt;·&lt;b&gt;박유향&lt;/b&gt;·&lt;b&gt;박재홍 &lt;/b&gt;모친상, &lt;b&gt;장창기&lt;/b&gt;·&lt;b&gt;강개선&lt;/b&gt;·&lt;b&gt;송태섭&lt;/b&gt;·&lt;b&gt;정하택 &lt;/b&gt;장모상, &lt;b&gt;박수완&lt;/b&gt;·&lt;b&gt;박수현&lt;/b&gt;·&lt;b&gt;박요한 &lt;/b&gt;조모상, &lt;b&gt;장용준&lt;/b&gt;·&lt;b&gt;장용욱 &lt;/b&gt;TV조선 사회부 차장·&lt;b&gt;강순동&lt;/b&gt;·&lt;b&gt;강동길&lt;/b&gt;·&lt;b&gt;송지연&lt;/b&gt;·&lt;b&gt;송재원&lt;/b&gt;·&lt;b&gt;정수재&lt;/b&gt;·&lt;b&gt;정유경 &lt;/b&gt;외조모상=26일7시30분 경남 거창장례식장, 발인 28일8시10분, (054)944-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤옥란 &lt;/b&gt;별세, &lt;b&gt;김진유 &lt;/b&gt;경기대 도시교통공학과 교수 모친상, &lt;b&gt;윤희영 &lt;/b&gt;현대문학 잡지팀장 시모상, &lt;b&gt;김세연&lt;/b&gt;·&lt;b&gt;김성윤 &lt;/b&gt;조모상=25일16시27분 삼성서울병원, 발인 27일11시, (02)3410-6914&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임호철 &lt;/b&gt;별세, &lt;b&gt;임헌정 &lt;/b&gt;연합뉴스 DB·출판부 차장 부친상=26일3시19분 서울성모병원, 발인 28일5시, (02)2258-5973&lt;br&gt;&lt;br&gt;▲&lt;b&gt;허숙렬 &lt;/b&gt;별세, &lt;b&gt;최대용 &lt;/b&gt;前 국무총리실 평가총괄정책관 장모상, &lt;b&gt;최원우 &lt;/b&gt;조선일보 테크부 기자 외조모상=26일13시10분 삼성서울병원, 발인 28일8시15분, (02)3410-6908&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 한국금융연구원 외</title>
-      <link>https://www.chosun.com/national/people/2026/03/27/UGUSDXDELVA7NKSIZ6ADDHCYS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/27/UGUSDXDELVA7NKSIZ6ADDHCYS4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;한국금융연구원&lt;/b&gt;▷부원장 송민규▷연구조정실장 겸 금융인력네트워크센터장 김영도▷은행·금융지주연구실장 김석기▷보험·중소금융연구실장 한상용▷산업구조혁신금융연구센터장 구정한▷금융안정연구센터장 김남종&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연세대 의료원&lt;/b&gt;◇의료원▷AI의료사업단장 금기창▷AI의료사업단 정책기획단장 겸 보건의료정책연구단장 김현철◇간호대학▷교무부학장 박정옥▷학생부학장 이승은▷연구부학장 김희정▷기획부학장 최은경▷간호학과장 박정옥▷김모임간호학연구소장 조은희◇보건대학원▷역학건강증진학과 주임교수 김희진▷역학전공지도교수 정금지▷의료경영전공지도교수 이문재◇융합보건의료대학원▷부원장 김희진▷융합보건의료과학과 주임교수 박소희◇간호전문대학원▷교학부원장 최은경▷임상간호전공지도교수 최지연▷종양간호전공지도교수 이향규▷노인간호전공지도교수 이경희▷간호관리와교육전공지도교수 이승은▷아동간호전공지도교수 최은경◇강남세브란스병원▷마취통증의학과장 김현창&lt;br&gt;&lt;br&gt;▲&lt;b&gt;디지틀조선일보&lt;/b&gt;▷이사 박현일&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘연해주 독립운동 대부’ 최재형 선생 업적 기린다</title>
