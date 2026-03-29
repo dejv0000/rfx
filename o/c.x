@@ -13,6 +13,61 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 벚꽃 공식 개화…작년보다 6일 빨라</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/29/HMIGICE2GREX3LRTVMKWAJ4A2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/29/HMIGICE2GREX3LRTVMKWAJ4A2I/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Mar 2026 08:20:50 +0000</pubDate>
+      <content:encoded>29일 서울에서 벚꽃이 공식 개화했다. 작년보다 6일, 평년보다 10일 빨리 피었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SWMZJYG5TGMOJZMQYTANTFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 서울 영등포구 여의도 윤중로에 벚꽃이 개화하기 시작한 가운데 시민들이 산책을 즐기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청은 이날 종로구 서울기상관측소 내 관측 표준목인 왕벚나무에서 세 송이 이상의 꽃이 피어 서울의 벚꽃 개화를 확인했다고 밝혔다. 서울 벚꽃 개화 관측은 1922년부터 이어져 오고 있다.&lt;br&gt;&lt;br&gt;최근 평년보다 따뜻한 날씨가 이어지면서 올해 개화 시점은 크게 앞당겨졌다. 서울의 벚꽃은 지난해(4월 4일)보다 6일, 평년(4월 8일)보다 10일 이르게 피었다.&lt;br&gt;&lt;br&gt;대표 벚꽃 명소인 영등포구 여의도 윤중로에서도 개화가 관측됐다. 윤중로 기준 개화일은 지난해보다 5일 빠르다. 윤중로에서는 국회 6문과 7문 사이에 있는 영등포구 수목 관리번호 118~120번 벚나무를 기준으로 개화 시점을 관측한다.&lt;br&gt;&lt;br&gt;벚꽃은 개화 이후 짧은 기간 안에 만개에 이르는 것이 특징이다. 기상청은 한 나무의 80% 이상 꽃이 활짝 피었을 때를 ‘만발’로 정의한다. 서울의 평년 만개일은 4월 10일로, 개화일과는 이틀 차이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“하얀 팝콘 터졌다” 벚꽃 왈츠에 빠진 진해… 역대급 흥행 예고 </title>
+      <link>https://www.chosun.com/national/2026/03/29/K3RSYNUGXVCLJBFVORM74APCEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/29/K3RSYNUGXVCLJBFVORM74APCEQ/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Mar 2026 08:01:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UID3ZSM7XJIYFA5L7ETPTYWURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 국내 최대 봄꽃 축제인 '진해군항제'가 열리는 경남 창원시 진해구 여좌천이 관광객들로 붐비고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 대표 봄꽃 축제인 진해군항제가 대박 조짐을 보이고 있다. 개막과 함께 첫 주말 주요 명소의 벚꽃은 만개했고, 20도가 넘는 따뜻한 기온이 이어지면서 역대급 인파가 몰리고 있기 때문이다. 작년 축제 방문객 320만명은 가뿐히 넘길 것으로 전망된다.&lt;br&gt;&lt;br&gt;29일 창원시 진해구 경화역 앞에는 관광버스 행렬이 끊임없이 이어졌다. 깃발을 든 가이드를 따라 내리는 외국인 단체 관광객도 많았다. 이들은 휴대전화를 꺼내 하얀 팝콘처럼 활짝 핀 벚꽃을 담았다. 폐선 위에 놓인 열차 앞에서 기념 촬영을 하려 기다란 대기 줄이 생겼다. 폭 1m, 길이 5m의 여좌천 ‘로망스 다리’도 인생샷을 건지려는 인파로 북적였다. 여좌천 주변 카페는 벚꽃을 감상하며 커피를 마시는 이들로 빈자리를 찾기 어려울 정도였다. 경북 청도에서 온 최은지(37)씨는 “전국 어디에서나 벚꽃을 볼 수 있지만, 진해에서 보는 벚꽃은 감성 자체가 다르다”며 “눈을 돌리는 데마다 하얗게 핀 벚꽃이 황홀할 정도”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UATHVTNBW5NUPBUHIDKHJVHEGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 전국 최대 벚꽃 축제인 '제64회 진해군항제'가 열리고 있는 경남 창원 진해구 경화역공원에서 관광객들이 벚꽃을 감상하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진해군항제는 축제 기간 벚꽃 개화 상황에 따라 희비가 엇갈리는데, 올해는 개막을 앞둔 지난 24일 꽃이 피면서 시기가 맞아떨어졌다. 창원시 관계자는 “나무 전체에 80% 이상 꽃이 피면 ‘만개’로 보는데, 여좌천과 경화역 등 주요 벚꽃 명소는 오늘 기준 만개한 상태”라며 “축제 기간 내내 활짝 핀 벚꽃을 볼 수 있을 것”이라고 기대했다. 지난 2024년의 경우 기상청 예보에 따라 역대 가장 이른 개막을 했지만, 갑작스러운 이상기후로 개화 시기 예측에 실패하면서 축제 내내 ‘벚꽃 없는 군항제’라는 오명을 사기도 했다. &lt;br&gt;&lt;br&gt;‘제64회 진해군항제’는 지난 27일 오후 공식 개막식으로 문을 열었다. 올해는 단순히 벚꽃만 보고 떠나는 축제가 아닌, 밤낮으로 머물며 즐길 수 있는 축제로 만들기 위해 다양한 콘텐츠를 마련했다. 전국의 유명 맛집 음식을 모아 놓은 ‘군항빌리지’, 진해 앞바다의 낭만까지 담은 ‘감성포차’ 등 올해 새롭게 선보인 먹거리 콘텐츠의 경우 이용객이 많아 자리 잡기가 하늘의 별 따기다. &lt;br&gt;&lt;br&gt;‘봄의 시작’을 주제로 열리는 군항제는 다음 달 5일까지 이어진다. &lt;br&gt;&lt;br&gt;창원시는 방문객 편의를 위해 임시 주차장 약 6000면을 마련했다. 또 5~10분 간격으로 무료 셔틀버스를 운행하고 있다. 바가지요금 근절을 위해 민관 합동 TF 인원을 작년 대비 2배로 늘렸다. 창원시 관계자는 “따뜻한 날씨에 축제 기간 벚꽃이 만개하면서 지난해(320만명)보다 많은 방문객이 찾을 것으로 예상한다”며 “축제 마지막까지 안심하고 축제를 즐길 수 있도록 최선을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>前 수원지검 지휘부 “이화영에 대한 압박·회유 없었다"</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/29/R3LTWLQMHVEUTCJTY5A2XSKSKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/29/R3LTWLQMHVEUTCJTY5A2XSKSKQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Mar 2026 08:17:48 +0000</pubDate>
+      <content:encoded>더불어민주당이 29일 ‘쌍방울 대북송금 사건’을 수사한 박상용 검사와 관련해 “박 검사가 사건의 핵심 피의자였던 이화영 전 경기도 평화부지사의 진술 회유를 시도했다”고 주장하며 관련 통화 녹취록을 공개하자, 당시 대북송금 사건을 지휘한 수원지검 지휘부는 민주당 주장을 반박하는 입장문을 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSNINMA65REFZP7TQIWDE7726E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 3월 29일 오전 서울 여의도 국회 더불어민주당 원내대표 회의실. 서민석 변호사가 쌍방울 대북송금 사건 검사 회유 의혹 핵심자료 공개 관련 기자회견 중 물을 마시고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 홍승욱 전 수원지검장, 김영일 전 2차장, 김영남 전 형사6부장은 입장문을 통해 “이 전 부지사의 자백 취지 진술 이후 변호인 측에서 특정범죄가중처벌법상 뇌물을 일반 뇌물로 변경, (이 전 부지사를) 정범이 아닌 종범으로 기소, 재판 중 보석 등을 요청했다”며 “그 요청이 법리상 불가하다고 통보했을 뿐 이를 제안한 바 없고 허위 진술을 요구한 바도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 앞서 민주당 전용기·김동아 의원은 이날 기자간담회를 열고 박 검사가 이 전 부지사 변호인에게 “이재명씨가 완전히 주범이 되고 이 사람(이 전 부지사)이 종범이 되는 식의 자백이 있어야 저희가 그거를 할 수가 있다”고 말하는 녹취록을 공개했다. 박 검사가 언급한 ‘그거’는 구속 상태였던 이 전 부지사를 석방하는 보석과 공익 제보자 신분 확보 등을 의미하는 것으로 보인다.&lt;br&gt;&lt;br&gt;두 사람의 통화는 이 전 부지사가 검찰 조사에서 “쌍방울이 이재명 경기지사의 방북 비용을 대납했고, 이를 지사에게 두 차례 보고했다”고 진술한 직후인 2023년 6월 19일에 이뤄졌다. 이와 관련해 전 의원은 “(박 검사가) 이재명을 주범으로 만들려는 특정한 결론을 전제로 그에 맞는 진술을 짜맞춰 나가려는 구조였음을 의심케 한다”며 “검찰 의도에 부합하는 진술을 할 경우 유리한 처우가 가능하다는 신호로 받아들여질 수 있으며, 전형적인 진술 유도 및 회유 정황으로 볼 여지가 크다”고 주장했다.&lt;br&gt;&lt;br&gt;반면 박 검사는 민주당과 이 전 부지사의 변호인 측이 전체 통화 중 일부만을 편집해 진술을 회유하는 통화로 둔갑시켰다고 반박했다. 박 검사는 이날 페이스북을 통해 “변호인 측이 먼저 ‘이화영씨가 자백할 텐데 그럼 검찰에서 선처해 주어야 한다’고 변론해 그에 응대한 것”이라고 했다. 이 전 부지사가 주범이 아닌 종범이라는 명확한 진술이 필요하다는 원론적 답변을 했을 뿐이란 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 3월 30일 월요일 (음력 2월 12일 癸卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/29/MJ3JEW72X5HMPAU5UXLO44VH3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/29/MJ3JEW72X5HMPAU5UXLO44VH3M/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>충남 예산·홍성서 산불 잇따라…인명 피해 없이 진화 </title>
+      <link>https://www.chosun.com/national/regional/2026/03/29/LO3CPP5QQBHS3K5ZGYT6TC2DPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/29/LO3CPP5QQBHS3K5ZGYT6TC2DPA/</guid>
+      <dc:creator>예산=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Mar 2026 07:55:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6N3A36M7KBCI5GKO5Y7UKEILVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 홍성군 은하면 야산 산불 현장 모습. 독자 제공 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건조한 날씨 속에 29일 충남 예산과 홍성의 야산에서 잇따라 산불이 발생했다. 다행히 인명 피해 없이 불을 껐다. &lt;br&gt;&lt;br&gt;산림 당국에 따르면 이날 오후 2시 29분쯤 충남 홍성군 은하면 한 야산에서 불이 났다. 불이 나자 산림 당국은 진화 헬기 5대와 산불 진화 차량 16대, 인력 37명 등을 투입해 화재 발생 59분 만인 오후 3시 28분쯤 불을 껐다.&lt;br&gt;&lt;br&gt;불은 인근 주택에서 시작돼 야산으로 번진 것으로 알려졌다. 홍성군은 화재 발생 직후 “인근 주민과 입산객은 안전사고에 주의바라며 차량은 우회해 달라”는 안전 재난 문자를 보내기도 했다.&lt;br&gt;&lt;br&gt;앞서 이날 오후 1시 22분쯤 충남 예산군 대술면 궐곡리 야산에서도 산불이 발생했다.&lt;br&gt;&lt;br&gt;산림 당국은 진화 헬기 1대, 차량 23대, 인력 84명을 투입해 43분 만에 진화를 마쳤다.&lt;br&gt;&lt;br&gt;예산군은 산불 발생 직후 “궐곡리 인근 공장에서 화재가 발생해 인근 야산으로 확대 중”이라며 “주민과 입산객은 안전사고에 주의 바라며 차량은 우회해 달라”는 내용의 안전 재난 문자를 보내기도 했다.&lt;br&gt;&lt;br&gt;두 산불로 인한 인명 피해는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;산림 당국은 정확한 화재 원인과 피해 규모 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김병기·강호동 ‘늑장수사’ 비판에… 서울경찰청장 “공감할 결과 내놓을 것”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/24/M5HJ5LMTWZCJFJVBQCPJDPXQJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/24/M5HJ5LMTWZCJFJVBQCPJDPXQJ4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Mar 2026 15:47:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3GEN3BMUZTSNTDGQYDIOJSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원이 11일 오전 마포구 서울경찰청 공공범죄수사대에서 공천헌금 수수 등 13개 의혹과 관련 피의자 신분으로 3차 조사를 받기 위해 출석하고 있다. / 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기(무소속·서울 동작갑) 의원의 불법 정치자금 수수 의혹 등을 수사 중인 서울경찰청의 박정보(치안정감) 청장이 “수사는 결과로 얘기하는 것이다. (수사가) 늦더라도 공감할 수 있는 수사 결과를 내놓겠다”고 23일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 김 의원이 민주당 원내대표직을 내려놓거나 탈당한 이후에야 강제 수사에 나서 ‘권력의 눈치를 본다’는 비판이 나왔었다. 경찰은 김 의원의 ‘차남 취업 청탁 의혹’이 불거진 지 약 6개월이 흐른 지난달 24일에야 김 의원 차남이 일한 빗썸 본사 사무실 등 2곳을 압수 수색해 늑장 수사란 지적이 나왔다. &lt;br&gt;&lt;br&gt;이런 지적과 관련해 박정보 서울청장은 이날 기자 간담회에서 “필요한 수사를 계속 진행하고 있다”며 “김 의원의 건강상의 이유로 수사가 중단된 상황인데 출석 일정을 계속 조율하고 있다”고 했다. 박 청장은 “(김 의원 측과) 계속 소통하고 있다”며 “(소환 조사에) 못 나오게 되면 (못 나오는) 사유도 확인을 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;박 청장은 금품 수수 등 6개 혐의로 입건된 강호동 농협중앙회장 수사와 관련해서도 “최선을 다하고 있다”며 “조금만 지켜봐 주시면 결과를 내놓겠다”고 했다. 경찰은 2024년 농협중앙회장 선거 과정에서 강 회장이 용역업체 대표에게 금품을 받은 의혹을 포착해 지난해 10월 농협 본사 등을 압수수색했다. 하지만 경찰은 아직까지 수사 결과를 내놓지 못하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>낮 최고 ’21도' 완연한 봄 날씨...전국 곳곳에 봄비</title>
       <link>https://www.chosun.com/national/transport-environment/2026/03/29/DT7VR2FCYVBTDNKMHIRUDDAORY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/29/DT7VR2FCYVBTDNKMHIRUDDAORY/</guid>
@@ -897,15 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YDENDGGQ2GCOJVHE3WEYTDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전신마취제 에토미데이트. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제2의 프로포폴’로 불리는 전신마취제 에토미데이트를 환자들에게 불법 투약한 서울의 한 의사에게 징역 4년이 확정됐다. 당초 1심에서 징역 6년이 선고됐지만 경찰이 CCTV 영상을 압수수색하는 과정에서 법적 절차를 위반한 사실이 드러나 2심에서 형량이 줄었다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 노경필 대법관)는 보건범죄단속법 위반(부정의료업자) 및 약사법·의료법 위반 혐의로 기소된 내과 전문의 문모씨에게 징역 4년과 벌금 1000만원, 추징금 약 9억8400만원을 선고한 원심 판결을 확정했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;서울 강남에서 내과의원을 운영하는 문씨는 수면을 목적으로 찾아온 환자들에게 에토미데이트를 불법 판매하고 간호조무사들에게 환자의 요구대로 약물을 주사하게 한 혐의로 기소됐다. 문씨는 2019년 9월부터 2024년 9월까지 내원자 75명에게 총 5071회에 걸쳐 약 12억5410만원 상당, 4만4122.5ml의 에토미데이트를 판매하고 투약해온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 사건은 경찰이 별도의 사건을 수사하는 과정에서 압수한 병원 CCTV 영상을 증거로 인정할 수 있는지 여부였다. 경찰은 다른 사건을 수사하기 위해 문씨 병원을 압수수색하던 중, 문씨와 간호조무사들이 다수 환자에게 에토미데이트를 불법 투약하는 장면을 발견했다.&lt;br&gt;&lt;br&gt;1심은 “원래의 압수수색 영장 혐의를 수사하려면 필연적으로 다른 환자들의 영상도 나올 수밖에 없고, 이는 범죄를 증명하는 간접 증거로서 연관성이 있다”며 문씨에게 징역 6년과 벌금 1000만원, 추징금 12억5400만원을 선고했다.&lt;br&gt;&lt;br&gt;하지만 2심에서 형량이 징역 4년과 벌금 1000만원, 추징금 9억8400만원으로 줄었다. 경찰이 압수한 병원 CCTV 영상이 위법하게 수집된 증거에 해당한다고 판단했기 때문이다. 재판부는 “수사기관이 허락받은 목적과 무관한 영상을 우연히 발견했다면, 더 이상의 추가 탐색을 중단한 후 법원으로부터 별도의 영장을 발부받아야만 그러한 정보를 적법하게 압수수색할 수 있다”며 추가 영장 없이 2주 이상 영상을 계속 확인한 행위는 위법하다고 밝혔다. 이에 따라 해당 CCTV 영상과 이를 토대로 특정된 일부 환자들의 투약 관련 증거는 배제됐고, 관련 부분 혐의는 무죄로 뒤집혔다.&lt;br&gt;&lt;br&gt;대법원의 판단도 2심과 같았다. 대법원은 “원심 판단에 위법수집증거 배제법칙, 증거능력 등에 관한 법리를 오해한 잘못이 없다”며 검사와 피고인의 상고를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>개항 25주년 맞은 인천공항… “연간 여객 1억명 목표 이룰 것“</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/27/EZNZLIALONECPDVO3OBKTXEEEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/27/EZNZLIALONECPDVO3OBKTXEEEI/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Mar 2026 01:15:32 +0000</pubDate>
-      <content:encoded>27일 인천국제공항공사는 개항 25주년을 맞아 개항 당시 목표였던 ‘연간 여객 1억명 시대’를 열겠다고 밝혔다. 인프라 확장과 서비스 고도화, 지방 연계 강화 등을 통해 더 많은 여객을 끌어모으겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNDRIIDXCFH5LLDN3QHGTU3UGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/인천국제공항공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2001년 3월 문을 연 인천공항은 작년 기준 국제 여객 7407만1475명, 국제 화물 295만4684t을 기록하며 국제공항협의회(ACI) 기준 세계 3위 공항에 올랐다. 환승객은 804만6572명으로, 일본 등 주변국 수요를 끌어들이며 동북아 허브 공항 역할을 하고 있다. 인천공항에 취항하는 101개 항공사가 53개국 183개 도시를 연결한다. 특히 일본 노선은 31개로, 나리타(17개)나 간사이(12개)보다 더 많은 지역과 이어져 있다.&lt;br&gt;&lt;br&gt;해외 사업도 확대되고 있다. 인천국제공항공사는 공항 건설·운영 경험을 바탕으로 18개국에서 42개 사업을 따내며 누적 5억8558만달러 규모의 실적을 쌓았다고 밝혔다.&lt;br&gt;&lt;br&gt;인천공항은 시설 측면에선 이미 ‘1억 명’을 수용할 수 있는 능력을 갖춘 상태다. 2024년 인천공항 4단계 확장 사업을 마치면서 연간 1억600만 명을 처리할 수 있는 상태다. 국제선 수용 능력 기준으로 보면 홍콩(1억2000만명), 두바이(1억1500만명)에 이어 3위다. &lt;br&gt;&lt;br&gt;1~4단계 확장에 투입된 사업비는 총 18조170억원으로, 이 중 82%를 자체 조달했다. 생산 유발 효과는 67조원(2024년 직접 효과 기준)으로 국가 GDP의 2.6% 수준이며, 인천 지역에서는 48조원으로 지역총생산(GRDP)의 39%를 차지한다. 최근 3년간 446억원 규모의 사회공헌 사업도 진행됐다.&lt;br&gt;&lt;br&gt;인천국제공항공사는 앞으로 인공지능 전환(AX)과 도심항공교통(UAM) 인프라를 구축해 공항 서비스를 고도화한다는 계획이다.&lt;br&gt;&lt;br&gt;국내 노선도 늘린다. 정부의 ‘외래객 3000만명 유치’ 목표에 맞춰 지방 이용객의 접근성을 높이겠다는 취지다. 2016년 수요 부족으로 중단됐던 인천~제주 노선은 오는 5월 주 2회 운항으로 재개된다. 현재 주 42회 운항 중인 환승 내항기도 확대된다. 4월부터 인천~김해 노선은 주 35회에서 39회로 늘어난다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘AI혁신연구원’ 통해 교육·의료 현장서 성과</title>
       <link>https://www.chosun.com/national/education/2026/03/27/FTO23AZ3R5GGRDJINLLZUMZBH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/27/FTO23AZ3R5GGRDJINLLZUMZBH4/</guid>
@@ -913,42 +959,6 @@
       <description/>
       <pubDate>Thu, 26 Mar 2026 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQSFFOVBPFC25PYOZIZEDFHUKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 출범한 연세대 ‘AI혁신연구원’ 내부 모습. 현대차그룹의 지원으로 설립된 AI혁신연구원은 인간과 사회를 아우르는 새로운 연구 패러다임을 제시하고 있다. /연세대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능(AI)은 더 이상 미래 기술이 아닌, 우리 일상에 깊숙이 들어온 현실이다. 인류는 이제 ‘얼마나 빠르게 AI를 개발할 것인가’가 아니라 ‘어떻게 인간과 공존하며 AI를 활용할 것인가’를 고민해야 한다. 기술 발전의 속도가 인간과 사회의 수용 능력을 앞지른 시대에서 AI의 방향성을 재정립하려는 움직임도 본격화되고 있다. 연세대는 2025년 ‘AI혁신연구원’을 출범해, 인간과 사회를 아우르는 새로운 연구 패러다임을 제시하고 있다.&lt;br&gt;&lt;br&gt;연세대 AI혁신연구원의 비전은 ‘AI와 인간, 그리고 사회를 연결하는 융합 연구의 허브’다. 글로벌 모빌리티 기업 현대자동차그룹의 지원으로 설립됐다. 이 연구원은 단일 기관 기준 국내 최대 규모의 AI 연구 플랫폼을 지향하며, 단순 기술 개발을 넘어 사회적 가치와 인간 중심 철학을 구현하는 컨트롤타워 역할을 맡고 있다. 특히 AI를 ‘효율성의 도구’가 아닌 ‘사회적 시스템’으로 바라보는 관점에서 기술·인문·사회·의료·교육을 통합하는 연구 전략을 추진하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WGLELKSI5HUJBMICZTKEYJPEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연세대 캠퍼스 전경. /연세대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇6개 센터로 구축한 AI 생태계&lt;/b&gt;&lt;br&gt;&lt;br&gt;연구원의 가장 큰 특징은 학문 간 경계를 허문 ‘융합 구조’다. AI 기술을 중심으로 의료, 교육, 거버넌스·안보, 미래 혁신, 휴머니티 등 6개 전문 연구센터가 유기적으로 연결되어 운영된다. 이를 통해 공학 중심의 기존 AI 연구를 넘어, 사회 문제 해결과 정책, 윤리까지 포괄하는 통합적 접근이 가능해졌다.&lt;br&gt;&lt;br&gt;이런 융합 생태계의 핵심에는 연구 인프라와 데이터 플랫폼이 자리한다. 약 7만명 규모의 종단 임상 데이터를 기반으로 한 의료 빅데이터 플랫폼은 비의료 기관에서도 안전한 데이터 활용을 가능하게 하며, 다양한 분야 연구자 간 협업을 촉진하고 있다. 여기에 고성능 연산 인프라를 구축해 연구자들에게 개방함으로써, 데이터·모델 공동 활용이 가능한 ‘플랫폼형 연구 체계’를 구현하고 있다.&lt;br&gt;&lt;br&gt;출범 이후 연구원은 빠른 속도로 성과를 축적하고 있다. 현재까지 42개 연구 과제를 추진하고 있으며, AI 기반 의료 진단 보조, 학습 분석 시스템, AI 정책 및 윤리 프레임워크 개발 등 다양한 분야에서 연구가 진행 중이다. 30회 이상의 학술 대회와 세미나를 개최하며 학문적 교류를 활성화했고, 삼성전자·LG 등 산업계와 협력 프로젝트를 통해 연구 성과의 산업 적용 가능성도 확대하고 있다. 또한 10건 이상의 국내외 기관과 협약을 체결하며 산학연 협력 기반을 공고히 하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘공존형 AI’ 실현&lt;/b&gt;&lt;br&gt;&lt;br&gt;연구 성과는 교육과 의료 현장에서 눈에 띄게 드러난다. AI에듀테크센터가 개발한 ‘스마트 스터디 엣지AI(S2 Edge AI)’는 학생들의 토론 과정을 실시간으로 분석해 사고력과 참여도를 평가하는 시스템이다. 온프레미스 엣지 컴퓨팅 기술을 적용해 민감한 데이터를 외부로 유출하지 않으면서 정교한 분석을 가능하게 했다는 점에서 주목받고 있다. 이 기술은 한국교육학술정보원, 서울시교육청과 협력해 초·중·고 교육 현장에 적용되며 ‘확장된 교실’ 모델로 발전하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIOP36GX7ZGJVNAHJXRPRZOATU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤동섭 총장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료 분야에서도 성과가 이어진다. 세브란스병원의 임상 데이터와 AI를 결합한 연구를 통해 정밀 의료 기술을 고도화하고, 생체 신호 기반 환자 모니터링 같은 디지털 헬스케어 기술이 실제 의료 현장에서 활용되고 있다. &lt;br&gt;&lt;br&gt;연구원은 향후 인간 중심 AI 연구 지원을 확대하는 동시에 글로벌 연구 네트워크를 강화하고 국제 공동 연구를 본격화할 계획이다. GPU 인프라 확충과 함께 국제 학술 대회 및 포럼을 지속적으로 개최해 세계 연구자들이 협력하는 개방형 연구 생태계를 구축해 나간다는 전략이다. &lt;br&gt;&lt;br&gt;윤동섭 연세대 총장은 “AI는 인간과 사회의 미래를 설계하는 핵심 요소”라며 “융합 연구를 통해 지속 가능한 AI 생태계를 구축해 AI 시대를 선도하겠다”라고 밝혔다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 3월 27일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/26/ZYL7AQGG3RFOLLYQBCNNNI2Y6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/26/ZYL7AQGG3RFOLLYQBCNNNI2Y6U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 14:31:00 +0000</pubDate>
-      <content:encoded>금 - 전국 대체로 맑고 미세먼지 농도 짙어&lt;br&gt;&lt;br&gt;토·일 - 공기 탁하고 ‘최고 22도’ 포근&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXVHFHDRGJAZJH3WLHWMBKX6EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “학교 밖 청소년 학평 응시 제한은 위법… 차별 없는 기회 줘야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/26/2G4JSYPIJ5GS5ODYMCLC6HM4OU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/2G4JSYPIJ5GS5ODYMCLC6HM4OU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 12:12:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구  서울가정법원·서울행정법원 청사./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재학생이 아닌 ‘학교 밖 청소년’에게도 전국연합학력평가(학평) 응시 기회를 줘야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 학교 밖 청소년 2명이 서울시교육감과 경기도교육감 등을 상대로 낸 응시 신청 거부 취소 소송에서 원고 승소로 판결했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 중·고등학교를 자퇴한 학교 밖 청소년 A씨 등은 지난해 3월 교육청에 학평 응시 신청서를 제출했다. 하지만 교육청은 “학평은 초·중등교육법 등에 따라 고등학교 재학생 중 희망 학교 및 희망 학생만을 대상으로 한다”며 거부했다. A씨 등은 이에 불복해 같은 해 7월 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 “학교 밖 청소년들이 학교 밖에 있다는 이유로 부당한 차별을 받아서는 안 된다”며 “이들은 국가와 지자체에 교육 지원 등을 요구할 권리를 가진다”고 했다. 이어 “학교 밖 청소년들 역시 검정고시에 응시·합격해 대학 입학을 준비할 수 있기 때문에 학평에 응시하는 경험을 통해 대학수학능력시험 적응력을 제고할 필요성은 동일하게 인정된다”고 했다.&lt;br&gt;&lt;br&gt;교육청은 학교 밖 청소년까지 시험 대상을 확대할 경우 별도의 시험장을 확보해야 하고 감독관을 배치해야 해 연간 수십억 원의 예산이 추가로 들어 행정적·재정적 부담이 든다고 주장했다. 하지만 재판부는 “필요에 따라 재학생이 아닌 응시자에게는 일정한 응시료를 부담하도록 하는 방법 등도 충분히 고려해 볼 수 있다”며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “오늘날 학교 밖 청소년들이 증가하는 추세에 있다고 하더라도, 청소년기에 대다수의 또래 집단이 선택한 길이 아닌 다른 길을 선택하기까지는 적잖은 고민이 있었을 것”이라고 했다. 이어 “어떠한 사정에서든 국가와 사회는 학교 밖 청소년이 된 자들이 학교 밖에 있다는 이유로 사회적 편견과 차별을 받지 않고 우리 사회의 건강한 구성원으로 성장하도록 지원할 의무가 있다”며 교육청이 제시한 행정적, 재정적 어려움이 다시 제도권 교육으로 돌아오고자 하는 청소년들의 기회를 박탈할 명분이 될 수 없다고 판시했다.&lt;br&gt;&lt;br&gt;공익법단체 두루의 홍혜인 변호사는 이날 “학교 밖 청소년들의 전국연합학력평가 응시 기회를 원천적으로 봉쇄한 교육청의 응시 신청 거부 처분이 위법하다는 것이 학력평가 도입 이래 24년 만에 공식적으로 확인된 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘대장동 비리’ 전직 기자 범죄수익 121억 은닉 혐의 기소 </title>
-      <link>https://www.chosun.com/national/court_law/2026/03/26/YKXA6Y6FRFASPBDCZSOGX34K4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/26/YKXA6Y6FRFASPBDCZSOGX34K4E/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 10:36:01 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYGMMJTGE4TSNRXGQ4GENJXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유자산관리 대주주 김만배씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 김진용)는 26일 대장동 개발 사업에 투자해 범죄수익 121억원을 챙긴 혐의(범죄수익은닉규제법 위반)로 천화동인 7호 실소유주 배모씨를 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;배씨는 천화동인 7호 명의로 대장동 개발 사업에 약 1000만원을 출자해 121억3000만원을 배당받았다. 배씨는 보도전문채널에서 기자로 근무하다가 화천대유 대주주 김만배씨 회사로 이직했다. 대장동 개발 비리 핵심 피의자인 남욱 변호사와 정영학 회계사를 김씨에게 소개한 인물인 것으로도 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 법원에 김씨 관련 자료를 제출해 대장동 민간업자들이 낸 몰수추징보전 처분 취소 소송에 적극 대응하겠다고 설명했다.&lt;br&gt;&lt;br&gt;법원은 작년 11월 김씨 등 대장동 민간업자에게 유죄를 선고하면서 약 428억원의 추징금을 부과했다. 그런데 검찰이 항소를 포기하면서 추징금 상한선이 사실상 428억원으로 정해졌다. 이후 김씨와 남 변호사 등은 앞서 검찰이 신청해 법원이 받아들인 몰수추징보전을 취소해달라고 했다.&lt;br&gt;&lt;br&gt;한편 중앙지검 반부패수사1부(부장 국원)는 김씨 형과 누나는 불기소 처분했다. 두 사람은 김씨에게서 각각 액수 미상의 수표와 19억원 상당을 받아 숨긴 혐의를 받았다. 김씨 누나는 2019년 4월 윤석열 전 대통령 부친인 윤기중씨 소유의 서울 연희동 단독주택을 19억원에 매입한 것으로 알려졌다. 그러나 검찰은 두 사람이 범죄수익을 은닉했다고 보기 어려워 범죄 혐의가 없다고 결론냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지역의사, ‘진료권’에서 70%·‘광역권’에서 30% 선발</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/03/26/4DGQACIKRRFIRMIGUCMSWG6PLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/03/26/4DGQACIKRRFIRMIGUCMSWG6PLI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 09:33:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7HFYOUHJJO2RGNWK3WOVXRMXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 의대 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 2027학년도 입시에서 새롭게 선발하는 지역의사 전형과 관련, 정원의 70%는 각 ‘진료권’에 배분하고, 30%는 의대 소재지와 인접 지역 고교 학생들을 포함해 뽑는 ‘광역권’으로 선발하기로 했다. 전공의 수련이 가능한 과목은 자유롭게 선택할 수 있게 했다. 수련 기간을 ‘의무 복무’ 기간으로 온전히 인정받으려면 내과, 외과 등 9개 ‘필수 과목’을 선택해 의무 복무 지역에서 수련해야 한다.&lt;br&gt;&lt;br&gt;보건복지부는 지역의사제 운영 세부 기준을 담은 고시 제정안 3건을 마련해 다음달 6일까지 행정예고한다고 26일 밝혔다. 지역의사제는 ‘비(非)서울’ 의대들이 해당 지역에서 10년간 의무 근무를 하는 조건으로 지역 학생들을 별도로 뽑는 제도다. 선발된 학생은 국가와 지방자치단체로부터 등록금·교재비·주거비 등을 지원받게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZKTQJIKJ5GWDI2CYNJYAEZNXY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;각 의대의 지역의사 선발 비율은 그해 입학 정원에서 2024학년도 입학 정원 대비 증원분이 차지하는 비율로 규정됐다. 2024학년도 대비 늘어난 정원 전부를 지역의사 전형으로 뽑는 구조다. 이를 의무복무지역에 해당하는 진료권 중심으로 70%를 선발하고, 나머지 30%는 광역권 모집으로 선발한다.&lt;br&gt;&lt;br&gt;대전·충남의 경우 광역권 30%를 제외하고 천안권이 22.1%, 서산권이 17.4%, 홍성권이 13.0%, 논산권이 11.2%, 공주권이 6.3%다. 복지부 관계자는 “각 진료권별 인구수를 고려해 정원 비율을 배정한 것”이라고 했다. &lt;br&gt;&lt;br&gt;광주광역시의 경우 순천권 23.4%, 목포권 19.0%, 나주권 8.7%, 해남권 7.3%, 영광권 6.0%, 여수권 5.6% 등이다. 기존 정원이 각각 125명이었던 전남대와 조선대는 각각 156명, 144명으로 31명, 19명 증원됐다. 지역의사를 각각 31명과 19명 선발하게 되는데, 광역권으로 9명과 6명을 뽑고, 나머지는 진료권 비율을 고려해 각각 선발해야 하는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CT4II3CXLZFNNF5VUTAL6JDTTE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의무복무 기관은 공공보건의료기관, 공공전문진료센터, 지역보건의료기관(보건소), 응급의료기관(응급실 전담의사) 등이다. 부득이한 사유로 복무 지역을 변경하려면 시·도 간 협의를 거쳐 승인을 받아야 한다. 복무 지역 내 근무 기관이나 수련 기관이 없는 등 불가피한 경우에는 다른 지역을 지정할 수 있도록 예외를 뒀다.&lt;br&gt;&lt;br&gt;의무복무 기간은 실제 근무기간으로 산정한다. 전문의가 되기 위한 전공의 수련 과목은 별도 제한을 두지 않고 전 과목을 선택할 수 있도록 했지만, 복무기간 인정에는 차등을 뒀다. 본인의 의무복무지역 안에서 수련할 경우 수련기간 전부가 의무복무기간에 포함되는 과목은 내과·신경과·외과·신경외과·심장혈관흉부외과·산부인과·소아청소년과·응급의학과·가정의학과 등 필수 9개 과목으로 한정했다. 지역의사를 단순히 지방에 묶어두는 것이 아니라 지역 필수의료 인력으로 키우겠다는 취지로 풀이된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>차량 10부제 꺼낸 한양대…에너지 위기 속 ‘캠퍼스 절약 실험’</title>
@@ -961,15 +971,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/6MURIBBD65FOPAFKWBB2LLDCPQ.jpg?auth=cd56e3d080f9078e1a75611e8a5415baa4941de7aeac38674e3a6a2b38686ef0&amp;smart=true&amp;width=1000&amp;height=550" type="image/jpeg" height="550" width="1000">
         <media:description type="plain">한양대는 국제화 전략뿐 아니라 연구와 교육 역량의 상호 연계로 시너지를 창출하고 있다. 사진은 한양대 본관 전경.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>아라미르골프장, ‘진해신항CC’로 4월 1일 개장 </title>
-      <link>https://www.chosun.com/national/2026/03/26/YCIQW6B24VFYRHZVA3PLOC7OJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/03/26/YCIQW6B24VFYRHZVA3PLOC7OJM/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Mar 2026 09:48:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTINLGME4DGYJSHEYTCNZTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4월1일부터 아라미르 골프장에서 진해신항CC로 이름이 바뀐다. /부산진해경제자유구역청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장기간 표류하던 경남 창원시 진해구 웅동1지구 개발 사업이 골프장 재개장을 시작으로 정상화 절차에 들어간다. &lt;br&gt;&lt;br&gt;부산진해경제자유구역청(경자청)은 웅동1지구 내 기존 아라미르 골프장이 4월 1일부터 ‘진해신항CC’라는 새 이름으로 바꾸고, 경남개발공사 직영 체제로 운영된다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;경자청은 경남개발공사로부터 지난 3일 체육시설업(골프장) 사업 계획 변경 신청을 받아 관련 서류를 검토하고, 경상남도·창원시 등 관계 기관 협의를 거쳐 지난 19일 최종 승인했다고 설명했다.&lt;br&gt;&lt;br&gt;이번 조치는 장기간 표류 중인 웅동1지구 개발 사업 정상화를 위한 첫 단계로 평가된다. &lt;br&gt;&lt;br&gt;앞서 창원시와 경남개발공사는 지난 11월 28일 민간 사업자의 대주단 대출금 1009억원을 확정 투자비로 분담해 우선 대납하면서 사업 정상화의 물꼬를 텄다. 이후 경남개발공사가 골프장 인수인계 합의 및 소유권 이전 절차를 추진했다. &lt;br&gt;&lt;br&gt;경남개발공사는 작년 12월부터 통합 전산 시스템 구축, 운영 인력 구성, 예약 체계 정비 등 직영 운영을 준비해왔다. 차질 없는 인수인계를 위해 기존 사업자에게 이달 말까지 골프장 운영을 위탁했다.&lt;br&gt;&lt;br&gt;경자청은 오는 31일까지 체육시설업 등록 승인 등 관련 행정 절차를 마무리하고 4월 1일 개장에 차질이 없도록 지원할 계획이다. &lt;br&gt;&lt;br&gt;또 경자청은 웅동1지구 정상화를 위해 도로와 녹지 등 잔여 기반시설 조성, 소멸어업인부지 및 잔여부지 개발구상 용역 등 후속 과제를 관계기관과 지속해 협력·지원할 방침이다.&lt;br&gt;&lt;br&gt;박성호 경자청장은 “관계기관과 긴밀히 협력해 웅동1지구 개발사업 정상화를 흔들림 없이 추진하겠다”며 “진해신항CC 개장을 계기로 여가·휴양 기능을 강화하고 지역경제 활성화로 이어지도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
