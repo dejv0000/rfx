@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>에버랜드 회원권으로 서울랜드 무료입장 “내일은 속아드려요”</title>
+      <link>https://www.chosun.com/national/national_general/2026/03/31/HSZL4FUECVEVBMYG735IVXZRHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/31/HSZL4FUECVEVBMYG735IVXZRHU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Mar 2026 22:15:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSWEZBVHAYWEM3BGA3DOYZXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울랜드 벚꽃. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“서울랜드 회원입니다.”&lt;br&gt;&lt;br&gt;에버랜드나 롯데월드 회원권을 들고도 이렇게만 말하면 경기 과천시 광명로 서울랜드에 무료로 입장할 수 있는 이벤트가 4월 1일에 열린다. &lt;br&gt;&lt;br&gt;서울랜드는 4월 1일 만우절 당일에 ‘서울랜드를 속여라!’ 이벤트를 진행한다. 서울랜드 게이트에서 타사 연간 회원증을 제시하며 “서울랜드 연간 회원입니다”라고 외치면 당일 본인 1인에 한해 무료 입장할 수 있다. &lt;br&gt;&lt;br&gt;동반자 혜택도 있다. 함께 방문한 일행 3인까지는 이용권을 50% 할인된 가격에 구입할 수 있다. &lt;br&gt;&lt;br&gt;이벤트 타이밍도 절묘하다. 서울랜드가 위치한 서울대공원 일대는 4월이면 벚꽃뿐만 아니라 튤립, 개나리, 진달래 등 다양한 봄꽃이 만개해 수도권 대표 봄나들이 명소로 꼽힌다. 파크 전역에 20년 이상 된 벚나무가 줄지어 있어 걷기만 해도 봄 분위기를 물씬 느낄 수 있다. &lt;br&gt;&lt;br&gt;서울랜드는 대표 벚꽃 길인 ‘쥬라기랜드’ 주변에서 ‘벚꽃 소원지 달기’ 이벤트를 연다. 화사하게 피어난 벚꽃 사이에 소원지를 다는 행사다. &lt;br&gt;&lt;br&gt;단순한 벚꽃 관람을 넘어 색다른 경험을 원한다면 ‘터닝메카드 레이싱’과 ‘블랙홀 2000’을 타도 된다. 터닝메카드 레이싱은 약 3m 높이 공중 레일을 따라 달리는 하늘 자전거 형태의 어트랙션으로, 벚꽃을 가장 가까이에서 지켜보며 인증샷을 남길 수 있다. 블랙홀 2000은 급강하와 720도 트위스트 구간 이후 벚꽃 길 사이를 가로지르는 짜릿한 코스로 색다른 벚꽃 감상 경험을 제공한다. &lt;br&gt;&lt;br&gt;서울랜드는 현재 ‘K-도파민 페스티벌’을 진행 중이다. 전 세계적으로 주목받고 있는 K-컬처를 서울랜드만의 스타일로 재해석한 이번 축제는 K-레트로 체험, K-푸드, K-팝 공연을 한자리에서 즐길 수 있는 것이 특징이다. &lt;br&gt;&lt;br&gt;특히 ‘오징어 문방구’에서는 4월 첫째 주부터 매주 주말 다양한 참여형 프로그램이 운영된다. 4월 첫째, 둘째 주말에는 타미야, 히트레이서 등 인기 미니카 대회가 열린다. 4월 셋째 주부터는 추억의 오락실 게임인 ‘펌프’ 대회와 코인 노래방을 활용한 ‘세기말 노래 자랑’을 운영한다. &lt;br&gt;&lt;br&gt;서울랜드 관계자는 “이번 봄 시즌은 단순한 꽃놀이를 넘어 고객이 직접 참여하고 즐길 수 있는 콘텐츠 중심으로 기획했다”며 “만우절 이벤트부터 벚꽃, K-컬처 콘텐츠까지 서울랜드에서만 경험할 수 있는 특별한 봄을 즐기길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] 프랑스군 위성 통신 내용 도청한 단체의 정체는</title>
       <link>https://www.chosun.com/national/2026/03/31/RKAYCPUQTZDHDNQGW3DFS2462I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/03/31/RKAYCPUQTZDHDNQGW3DFS2462I/</guid>
@@ -932,15 +941,6 @@
       <description/>
       <pubDate>Sat, 28 Mar 2026 06:00:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANBD53ITQZN73AMHG3AIHBF4PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 5시 30분쯤 경복궁 자선당 앞 삼비문(三備門) 인근에서 화재가 발생했다. /국가유산청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 경복궁에서 화재가 발생해 자선당 문 일부가 훼손됐다.&lt;br&gt;&lt;br&gt;28일 국가유산청에 따르면 이날 오전 5시 30분쯤 경복궁 자선당 인근 삼비문(三備門)에서 불이 났다. 당시 궁 안을 순찰하던 안전요원이 연기와 불꽃을 발견하고 소화기 등을 이용해 15분 만에 진화했다.&lt;br&gt;&lt;br&gt;이 화재로 삼비문 옆 쪽문 보조 기둥 1곳과 신방목(기둥 밑에 가로 방향으로 끼어두는 받침목) 일부가 손상됐다. 인명 피해는 없었다. 국가유산청 관계자는 “당시 현장 CCTV를 확인했으나 (사람) 움직임은 없었다”며 “자연 발화로 인해 불이 난 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2OGSCPMVBOM3E5WIBQPUZLPBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 5시 30분쯤 경복궁 자선당 앞 삼비문(三備門) 인근에서 화재가 발생했다. 가림막이 설치돼 있다. /국가유산청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 경복궁은 정상 개방됐다. 경복궁관리소는 경복궁이 문을 여는 오전 9시쯤 삼비문 인근에 가림막을 설치해 관람 동선을 조정하고 있다. 국가유산청 등은 삼비문 보수 작업과 더불어 궁궐·왕릉 화재 및 안전사고 위험 요소를 집중 점검할 방침이다.&lt;br&gt;&lt;br&gt;자선당은 경복궁 동궁에 있는 세자와 세자빈이 지낸 공간이다. 1427년 건립돼 여러 차례 화재·소실·중건을 거쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조진웅 은퇴 후 칩거설...“가까운 지인들과도 연락 끊어”</title>
-      <link>https://www.chosun.com/national/people/2026/03/28/WOS77Y77JJD75AI3OOYNROV75Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/28/WOS77Y77JJD75AI3OOYNROV75Q/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 28 Mar 2026 02:29:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57PPPYBWNVH73AIIUGZA6QWLZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조진웅./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 조진웅이 은퇴 이후 외부 활동은 물론 가까운 지인들과도 연락을 끊고 지내고 있다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;최근 채널 ‘더팩트’에는 “조진웅은 지금 어디서 무얼 하고 있나?”라는 제목의 영상이 올라왔다. 영상에서 강일홍 기자는 “조진웅은 지난해 하반기 소년원 복역 사실 등이 알려진 뒤 공식적으로 연예계를 은퇴했다”며 “이후 행적은 거의 알려지지 않았다. 외부 활동은 물론 언론 접촉도 전면 차단한 상태”라고 말했다.&lt;br&gt;&lt;br&gt;이어 “가까이 지내던 지인들과도 연락을 끊었다고 한다. 영화계 안팎에서는 모든 과거를 인정한 만큼 시간이 흐르면서 조용히 잊히기를 바랄 것이라는 전언이 나오고 있다”고 했다.&lt;br&gt;&lt;br&gt;또 “은퇴라는 선택이 과연 책임의 방식으로 충분한지, 아니면 또 다른 회피인지에 대해서는 의견이 엇갈린다. 한 가지 분명한 건 진심 어린 반성과 시간이 쌓이면 사회의 시선 역시 달라질 수 있을 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;조진웅은 지난해 12월 과거 전력과 관련한 논란이 불거진 뒤 은퇴를 선언했다. 당시 조진웅 측은 소년원 복역 사실은 인정했지만, 성폭행 관련 혐의에 대해서는 사실이 아니라고 부인했다. 이후 조진웅은 “모든 질책을 겸허히 수용하고 오늘부로 모든 활동을 중단한다”며 배우 은퇴를 선언했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>삼성증권 ‘유령주식’ 배당오류…2심도 “주가 폭락 손해 50% 배상해야”</title>
