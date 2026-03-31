@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>은퇴 군견·경찰견 입양하면 연 최대 100만원 지원</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/01/USIP4P4NWFGULP4P5SBXSL5DPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/USIP4P4NWFGULP4P5SBXSL5DPM/</guid>
+      <dc:creator>김지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 22:19:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDIU5PBHTRL6NHR4BT4KG54NYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 경기 평택시 지제역에서 다중이용시설 테러 대응 통합방위훈련이 진행되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 군견·경찰견·탐지견·119구조견 등 국가봉사동물의 은퇴 후 입양을 활성화하기 위해 입양 가정에 연간 최대 100만원을 환급해주는 지원사업을 시행한다.&lt;br&gt;&lt;br&gt;농림축산식품부는 1일 ‘국가봉사동물 입양 지원사업’을 시행한다고 밝혔다. 입양자가 보험 가입·진료·미용·사회화 교육 등에 실제로 지출한 비용의 60%를 돌려받는 방식으로, 연간 환급 한도는 100만원이다. &lt;br&gt;&lt;br&gt;예컨대 한 해 동안 150만원을 썼다면 60%인 90만원을, 200만원 이상을 썼다면 상한선인 100만원을 돌려받을 수 있다. 영수증과 입양확인증을 농식품부에 전자우편으로 제출하면 된다.&lt;br&gt;&lt;br&gt;이번 사업은 농식품부와 국방부·경찰청·소방청 등 6개 부처가 지난해 체결한 업무협약의 후속 조치다. 부처별로 은퇴 동물 지원 수준이 달랐던 격차를 해소하고, 입양 가정의 경제적 부담을 줄이기 위해 마련됐다.&lt;br&gt;&lt;br&gt;민간 기업들도 동참한다. 한국동물병원협회 소속 전국 44개 병원에서 진료비를 30% 할인받을 수 있다. 삼성·메리츠화재, KB·DB손해보험은 반려동물 보험료를 최대 20% 낮춰준다. 우리와·네츄럴코어 등 사료업체 5곳은 사료비를 20~50% 할인하고, 장묘·장례업체 20곳은 장례비를 20~30% 깎아준다.&lt;br&gt;&lt;br&gt;농식품부는 입양이 어려운 은퇴 동물을 위한 전담 지원센터 설립도 추진할 예정이다. 입양을 원하는 시민은 각 부처 담당 과나 국가동물보호정보시스템(&lt;a href="http://www.animal.go.kr)%EC%97%90%EC%84%9C" rel=""&gt;www.animal.go.kr)에서&lt;/a&gt; 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 특사경의 ‘밀수 미수’ 사건 수사, 檢 지휘로 은 507kg 밀수 전모 밝혔다</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/01/E6I7P5FL2REJBENOTI74QXDJ6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/E6I7P5FL2REJBENOTI74QXDJ6A/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 22:00:00 +0000</pubDate>
+      <content:encoded>특별사법경찰관(특사경)에 대한 검찰의 수사지휘로 은 507㎏을 세관 신고 없이 국내로 몰래 들여온 밀수범의 범행이 밝혀졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBM2E363W5AXNIN6O67JIDOWQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지검. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 인천지검 국제범죄수사부(부장 유병국)는 지난달 26일 30대 조선족 여성 A씨를 관세법 위반 등 혐의로 구속기소했다. 그는 올해 1월부터 2월까지 약 1개월간 총 14회에 걸쳐 은 그래뉼 507㎏(시가 29억5000만원 상당)을 홍콩에서 밀수입한 혐의를 받는다. 또 은 그래뉼 60.05㎏(시가 3억9000만원 상당)을 밀수하려다 적발돼 미수에 그친 혐의도 적용됐다. &lt;br&gt;&lt;br&gt;은 그래뉼은 은을 작은 알갱이 형태로 가공한 것으로, A씨는 1봉지에 5㎏씩 은 그래뉼을 포장해 공범들과 여러 차례에 걸쳐 국내로 반입한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 최초 인천공항세관 특사경이 수사를 담당했다. 당초 특사경은 A씨의 밀수 미수 혐의만을 포착해 그를 긴급체포하고, 사후 구속영장과 휴대전화에 대한 압수수색 영장을 신청해 발부받았다.&lt;br&gt;&lt;br&gt;특사경은 A씨 휴대폰을 포렌식하는 과정에서 그가 공범들과 이미 은 그래뉼 507㎏을 밀수한 정황을 포착했다고 한다. 이에 인천지검은 즉시 포렌식을 중지시키고, 특사경에 2차 압수수색 영장 신청을 지휘했다. 여죄에 관한 증거를 기존 압수수색 영장으로 확보할 경우 위법수집증거가 돼 재판 단계에서 증거능력을 인정받지 못하기 때문이다.&lt;br&gt;&lt;br&gt;검찰 지휘에 따라 2차 압수수색 영장을 발부받은 특사경은 A씨 휴대전화에서 통화파일 1500개를 추가로 확보하고 관련자 조사를 벌인 끝에 대규모 은 그래뉼 밀수입 범행의 전모를 밝혀냈다. &lt;br&gt;&lt;br&gt;한편 인천지검은 A씨를 구속기소하면서 A씨 소유 부동산에 대해 추징보전을 청구했다. A씨가 밀수한 은 그래뉼을 팔아 벌어들인 범죄수익을 환수하기 위해서다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>산재 감소에 장관직 건다더니… 작년 사망자, 오히려 3% 늘었다</title>
       <link>https://www.chosun.com/national/labor/2026/04/01/GJCDD5Q7ZRDPLCNMOOUF3T66AI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/01/GJCDD5Q7ZRDPLCNMOOUF3T66AI/</guid>
@@ -830,15 +848,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSWEZBVHAYWEM3BGA3DOYZXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울랜드 벚꽃. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“서울랜드 회원입니다.”&lt;br&gt;&lt;br&gt;에버랜드나 롯데월드 회원권을 들고도 이렇게만 말하면 경기 과천시 광명로 서울랜드에 무료로 입장할 수 있는 이벤트가 4월 1일에 열린다. &lt;br&gt;&lt;br&gt;서울랜드는 4월 1일 만우절 당일에 ‘서울랜드를 속여라!’ 이벤트를 진행한다. 서울랜드 게이트에서 타사 연간 회원증을 제시하며 “서울랜드 연간 회원입니다”라고 외치면 당일 본인 1인에 한해 무료 입장할 수 있다. &lt;br&gt;&lt;br&gt;동반자 혜택도 있다. 함께 방문한 일행 3인까지는 이용권을 50% 할인된 가격에 구입할 수 있다. &lt;br&gt;&lt;br&gt;이벤트 타이밍도 절묘하다. 서울랜드가 위치한 서울대공원 일대는 4월이면 벚꽃뿐만 아니라 튤립, 개나리, 진달래 등 다양한 봄꽃이 만개해 수도권 대표 봄나들이 명소로 꼽힌다. 파크 전역에 20년 이상 된 벚나무가 줄지어 있어 걷기만 해도 봄 분위기를 물씬 느낄 수 있다. &lt;br&gt;&lt;br&gt;서울랜드는 대표 벚꽃 길인 ‘쥬라기랜드’ 주변에서 ‘벚꽃 소원지 달기’ 이벤트를 연다. 화사하게 피어난 벚꽃 사이에 소원지를 다는 행사다. &lt;br&gt;&lt;br&gt;단순한 벚꽃 관람을 넘어 색다른 경험을 원한다면 ‘터닝메카드 레이싱’과 ‘블랙홀 2000’을 타도 된다. 터닝메카드 레이싱은 약 3m 높이 공중 레일을 따라 달리는 하늘 자전거 형태의 어트랙션으로, 벚꽃을 가장 가까이에서 지켜보며 인증샷을 남길 수 있다. 블랙홀 2000은 급강하와 720도 트위스트 구간 이후 벚꽃 길 사이를 가로지르는 짜릿한 코스로 색다른 벚꽃 감상 경험을 제공한다. &lt;br&gt;&lt;br&gt;서울랜드는 현재 ‘K-도파민 페스티벌’을 진행 중이다. 전 세계적으로 주목받고 있는 K-컬처를 서울랜드만의 스타일로 재해석한 이번 축제는 K-레트로 체험, K-푸드, K-팝 공연을 한자리에서 즐길 수 있는 것이 특징이다. &lt;br&gt;&lt;br&gt;특히 ‘오징어 문방구’에서는 4월 첫째 주부터 매주 주말 다양한 참여형 프로그램이 운영된다. 4월 첫째, 둘째 주말에는 타미야, 히트레이서 등 인기 미니카 대회가 열린다. 4월 셋째 주부터는 추억의 오락실 게임인 ‘펌프’ 대회와 코인 노래방을 활용한 ‘세기말 노래 자랑’을 운영한다. &lt;br&gt;&lt;br&gt;서울랜드 관계자는 “이번 봄 시즌은 단순한 꽃놀이를 넘어 고객이 직접 참여하고 즐길 수 있는 콘텐츠 중심으로 기획했다”며 “만우절 이벤트부터 벚꽃, K-컬처 콘텐츠까지 서울랜드에서만 경험할 수 있는 특별한 봄을 즐기길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>박창달 한국장학재단 이사장</title>
-      <link>https://www.chosun.com/national/people/2026/03/31/Y723FQSFXJERDGZUIRLPGWZY6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/31/Y723FQSFXJERDGZUIRLPGWZY6A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DE3P4AX4ABGL3HD5MLJ5LTPMS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국장학재단은 제7대 이사장에 &lt;b&gt;박창달&lt;/b&gt;(80) 전 국회의원이 취임했다고 30일 밝혔다. 임기는 3년. 경북 포항 출신인 박 이사장은 3선 의원(15~17대·한나라당), 한국자유총연맹 총재 등을 지냈다. 지난 대선 때 더불어민주당 경북 선대위 공동상임위원장을, 현 정부 출범 후 이재명 대통령의 베트남 특사단장을 맡기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김태균 서울교통공사 사장</title>
       <link>https://www.chosun.com/national/people/2026/03/31/QYPNUGNRVRDJHIE2PQBFITZHFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/31/QYPNUGNRVRDJHIE2PQBFITZHFQ/</guid>
@@ -855,15 +864,6 @@
       <description/>
       <pubDate>Mon, 30 Mar 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Y26TBNRQJHTZOTJ3P5HQ3W5CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정식 연세대 명예교수가 한국인문사회총연합회 이사장에 29일 선임됐다. 김 이장은 연세대 상경대학장, 경제대학원장, 한국경제학회장 등을 역임했다. 한국인문학총연합회, 한국사회과학협의회 등 인문·사회과학 학술 단체 40곳과 전국 인문대·사회과학대 학장 협의회를 아우르는 단체다. 임기는 2년.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>60대 중국 동포, 4명에 장기 기증하고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/31/VTAXP6VDC5DAHLEBWTUF5CL6SE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/31/VTAXP6VDC5DAHLEBWTUF5CL6SE/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJ3KG5G3E5DEVIVJL53HXYLZSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 중국 동포가 장기 기증으로 4명을 살리고 생을 마쳤다. 한국장기조직기증원은 중국 국적의 김용길(66)씨가 지난달 5일 고려대 구로병원에서 폐와 간장, 신장 양쪽을 4명에게 기증했다고 30일 밝혔다. 김씨는 지난달 2일 아침잠에서 깬 뒤 두통을 호소해 병원을 찾았지만, 끝내 의식을 잃고 뇌사 판정을 받았다. 유족들은 “생전 김씨의 뜻에 따라 장기 기증에 동의하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;중국 장춘에서 3남 2녀 중 넷째로 태어난 김씨는 지난 2008년 한국에 들어와 영주권을 취득했다. 이후 20년 가까이 식당 일과 건설업 용접을 하며 가족을 부양한 남편이자 아버지였다. 생전에 그는 신장 기능이 떨어져 먼저 세상을 떠난 친구를 보고 “삶의 끝에 장기 기증을 하고 싶다”는 의사를 밝혔다고 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이준식 서울대총동창회장</title>
