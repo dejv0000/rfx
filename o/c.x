@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘전분당 담합 의혹’ 대상그룹 본부장 구속... 대상·사조CPK 대표이사는 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/03/31/PSFXQMOVVFFRNIKKHRUKFJGS6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/31/PSFXQMOVVFFRNIKKHRUKFJGS6I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 14:38:00 +0000</pubDate>
+      <content:encoded>10조원대 전분당 가격 담합 의혹으로 대상그룹 경영진 1명이 31일 구속됐다. 함께 구속영장이 청구된 대상 대표이사와 사조CPK 대표이사는 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTMYJXGI2WKMTBG4ZGMNBXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법  전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 김진만 영장 전담 부장판사는 이날 오전 9시30분부터 대상그룹 임모 대표이사와 김모 사업본부장, 이모 사조CPK 대표이사 3명에 대한 구속영장 실질 심사를 차례로 진행했다. 이들은 전분당이나 옥수수 부산물 판매 가격을 미리 맞추고 OB맥주·서울우유 등 대형 실수요처의 입찰 과정에서 가격을 합의한 혐의(공정거래법 위반)를 받는다.&lt;br&gt;&lt;br&gt;김 부장판사는 김 본부장에 대해선 “증거인멸 및 도망 염려가 있다”며 구속영장을 발부했다. 다만 임 대표에 대해선 “담합행위 가담에 대한 소명이 부족하다”고 봤고, 이 대표에 대해선 “증거인멸 및 도망 염려가 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;전분당은 옥수수를 원료로 하는 포도당·올리고당 등으로, 과자나 유제품 등 각종 가공식품에 많이 쓰인다. 서울중앙지검 공정거래조사부(부장 나희석)는 대상·사조CPK·삼양사·CJ제일제당 등 전분당 업체들이 약 8년 동안 10조원 규모의 담합을 해온 것으로 보고 지난달 이 업체들을 압수 수색했다. 두 차례에 걸쳐 공정거래위원회에 관련자 고발요청권을 행사.&lt;br&gt;&lt;br&gt;최근 검찰은 담합을 통해 소비자 가격을 끌어올리는 행위를 ‘서민 경제 교란 범죄’로 규정하고 수사 중이다. 지난 2월에는 설탕과 밀가루, 한국전력공사 입찰 담합을 벌인 관계자 총 52명을 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 1일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/03/31/CNS2MU6CE5CO3CUGVS5E7UTTEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/31/CNS2MU6CE5CO3CUGVS5E7UTTEI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 14:34:00 +0000</pubDate>
+      <content:encoded>곳곳에 봄비... 예년보다 포근&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUNTTFAVPFBCRN3SKFHT5LZ77E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 수능 영어 출제위원 절반은 교사로</title>
+      <link>https://www.chosun.com/national/education/2026/03/31/5K77DVIHYJDT3K7XZ3COZUKRRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/31/5K77DVIHYJDT3K7XZ3COZUKRRU/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 12:58:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4WGMBTHEZTANZXGVTGIODGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 대구 정화여고에서 고3 수험생들이 담임교사와 함께 전날 치른 2026학년도 대학수학능력시험(수능) 가채점을 하고 있다./ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027학년도 대학수학능력시험(수능)이 오는 11월 19일 실시된다. 한국교육과정평가원(평가원)은 지난해 ‘불수능’ 논란이 일었던 영어 영역의 적정 난이도를 확보하기 위해 출제 위원 중 현장 교사 비율을 현재 33%에서 50%로 높이기로 했다.&lt;br&gt;&lt;br&gt;평가원은 이런 내용을 담은 2027학년도 수능 시행 기본 계획을 31일 발표했다. 김문희 평가원장은 이날 브리핑에서 “학교 교육을 충실히 이행한 학생이라면 충분히 해결할 수 있도록 적정한 난이도를 갖춰서 수능을 출제할 계획”이라며 “올해는 1등급 비율도 꼼꼼히 살피겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;평가원은 특히 영어 과목 적정 난이도 확보에 집중하겠다고 했다. 2026학년도 수능에서는 영어 1등급(원점수 90점 이상) 비율이 3.11%로 절대평가가 도입된 2018학년도 이후 최저치를 기록했다. 1등급 비율이 상대평가(상위 4%)때보다 낮게 나오자 “학생 부담을 덜어주겠다는 절대 평가 취지와 안 맞다”는 비판이 쏟아졌다. 결국 당시 오승걸 평가원장이 난이도 조절 실패 책임을 지고 사퇴했다. &lt;br&gt;&lt;br&gt;이에 올해 수능에서는 영어 영역의 출제 위원 가운데 대학 교수는 줄이고 고교 교사는 늘려서 적정 난이도를 확보하겠다는 계획이다. 김 원장은 “오는 6월 모의평가부터 영어 영역의 출제위원 현장 교사 비율을 50%로 높일 예정”이라며 “문항별 점검위원회를 설치해 검토를 철저하게 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;‘킬러 문항’ 배제 기조도 유지한다. 김 원장은 “사교육 시장에서 문제 풀이만 한 학생들에게 유리한 문항은 당연히 배제된다”고 말했다. EBS 수능 교재 연계율 역시 예년처럼 문항 수 기준 50%를 유지하기로 했다. EBS 교재의 문항과 지문을 그대로 수능에 출제하지 않고, 교육 과정에서 중요한 개념과 관련된 그림이나 도표·지문 등을 일부 변형하는 식으로 출제한다. 수능 응시 원서 접수 기간은 8월 24일부터 9월 4일까지다. 수능 성적표는 12월 11일 통지된다.&lt;br&gt;&lt;br&gt;한편 이날 국회에선 전국 초·중·고에서 실시하는 기초 학력 진단 검사의 결과를 보호자에게 의무적으로 통보하도록 하는 ‘기초 학력 보장법 개정안’이 본회의를 통과했다. 현재 학생 서열화 우려 등으로 모든 학교에서 기초 학력 진단 결과를 비공개하고 있다. 이번 개정안 통과로 부모가 자녀의 기초 학력 수준을 파악할 수 있게 되고, 가정과 학교가 연계해 학생의 기초 학력을 보다 촘촘히 지원할 수 있을 것으로 기대된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대구 캐리어 여성 시신’ 사건… 경찰, 딸·사위 긴급체포</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/03/31/HHDAZMZYOFGE7MTQZXZP7QNWMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/03/31/HHDAZMZYOFGE7MTQZXZP7QNWMI/</guid>
+      <dc:creator>김석모 기자, 대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 13:00:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DCN3DGNQWMY3BMZRTINZTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 대구 북구 칠성동 잠수교 아래에서 50대 여성 시신이 든 캐리어가 발견돼 경찰이 수사에 나섰다. 사진은 캐리어 발견 지점인 잠수교 인근 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 50대 여성 시신이 담긴 캐리어가 발견된 사건과 관련, 경찰이 20대 딸과 사위를 긴급 체포했다.&lt;br&gt;&lt;br&gt;대구 북부경찰서는 31일 살인·시체 유기 혐의로 A(여·20대)씨와 그의 남편을 긴급 체포했다. 이들은 시신으로 발견된 여성의 딸과 사위다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 10시 30분쯤 대구 북구 칠성동 잠수교 아래에서 캐리어가 떠다닌다는 시민의 신고가 접수됐다. 현장에 출동한 경찰은 캐리어 안에서 여성의 시신을 발견했다.&lt;br&gt;&lt;br&gt;여성 시신의 지문과 DNA를 분석한 경찰은 대구에 거주하는 50대 한국인 여성임을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 등을 통해 숨진 여성의 행적을 추적하는 과정에서 딸과 사위가 범행에 가담한 혐의점을 발견하고 긴급 체포한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 구체적인 사건 경위를 파악한 후 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘초과 수당’ 허위로 타낸 공무원 19명, 검찰 송치</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/03/31/MWQ4LHBL75EPDLVUMOULMNJ6OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/03/31/MWQ4LHBL75EPDLVUMOULMNJ6OQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 11:20:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSDQYZRMQ3DGNZSHFTDAZBYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 서부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초과 근무 수당을 허위로 타낸 광주광역시 공무원들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 공전자기록위작 등의 혐의로 광주시 공무원 19명을 불구속 송치했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2021년부터 2024년까지 초과 근무 기록을 허위로 작성해 수당을 부정 수령한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 광주시는 감사위원회를 꾸려 해당 사안을 조사하고 적발된 공무원들에게 징계 처분을 내렸다.&lt;br&gt;&lt;br&gt;이후 이 같은 내용이 보도로 알려지자 한 민원인이 국민신문고에 고발장을 제출하면서 경찰 수사로 확대됐다.&lt;br&gt;&lt;br&gt;이들이 부정 수령한 수당은 1인당 100만~200만원 수준인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 고발장을 토대로 공무원 20명을 조사했으며 이 중 사망한 1명을 제외한 19명을 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>7년간 이웃 스토킹·재판 중 폭행한 50대 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2026/03/31/4VEP6DPCRRETXNU6GE7HTUTS4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/31/4VEP6DPCRRETXNU6GE7HTUTS4Y/</guid>
+      <dc:creator>남원=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 11:32:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DMMBQMMZTKM3DHEZTGNLFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7년 동안 이웃 노인을 상습적으로 스토킹하고, 관련 범죄로 재판을 받는 중에도 얼굴에 뜨거운 물을 뿌리는 등 폭행을 일삼은 50대 남성이 결국 구속 기소됐다.&lt;br&gt;&lt;br&gt;전주지검 남원지청은 이웃 주민인 70대 남성 B씨를 상대로 지속적인 스토킹과 폭행을 가한 50대 남성 A씨를 스토킹처벌법 위반 등의 혐의로 구속 기소했다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 지난 2019년부터 수년간 B씨를 상대로 범행을 이어오며 피해자의 일상생활을 파괴한 혐의를 받는다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 B씨를 상대로 이미 수차례 동종 범죄로 처벌받은 전력이 있는 것으로 드러났다. 그럼에도 지난해 3월부터 10월까지 B씨를 찾아다니며 시비를 거는 등 스토킹 행위를 반복했다. 심지어 A씨는 피해자에 대한 폭행죄 등으로 기소돼 재판이 진행 중이던 지난 2월, 또다시 B씨의 얼굴에 뜨거운 물을 뿌리는 등 폭행을 가했다.&lt;br&gt;&lt;br&gt;이번 사건은 B씨가 직접 검찰청 민원실을 찾아 피해를 호소하면서 신속한 구속으로 이어졌다. B씨는 주임검사와의 면담에서 “피고인으로부터 수년간 지속적인 스토킹 피해를 보았고, 피고인이 두려워 마음대로 귀가조차 하지 못할 정도로 일상생활이 망가졌다”고 진술했다.&lt;br&gt;&lt;br&gt;이에 검찰은 A씨의 동종 처벌 전력, 재판 중 재범 사실, 추가 범행 및 위해 우려, 스토킹 범죄의 강력 범죄 비화 가능성 등을 종합적으로 고려해 경찰로부터 송치받은 스토킹처벌법 위반 사건과 폭행 사건을 병합하여 A씨를 구속했다. 아울러 범죄피해자지원센터와 연계해 B씨에게 상담과 심리 치료 등을 지원하며 보호 조치에 나섰다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인에게 죄에 상응하는 중형이 선고될 수 있도록 공소 유지에 최선을 다하겠다”며 “앞으로도 스토킹 범죄에 관하여 신속하고 엄정하게 대응하여 시민의 안전한 일상이 위협받지 않도록 만전을 기하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대낮 창원서 20대女 살해한 30대男, 치료 중 사망… 사건 종결 예정 </title>
       <link>https://www.chosun.com/national/2026/03/31/6LS6PWQMHRB3VFXXE6WENVC6II/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/03/31/6LS6PWQMHRB3VFXXE6WENVC6II/</guid>
@@ -840,42 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTGKMLCGNSDIZJYMMYDAMZRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생후 19개월 딸을 제대로 돌보지 않아 숨지게 한 혐의를 받는 20대 여성./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 생후 19개월 된 딸을 제대로 돌보지 않아 숨지게 한 20대 여성을 아동학대 살해죄를 적용해 재판에 넘겼다. &lt;br&gt;&lt;br&gt;인천지검 여성아동범죄조사부(부장 이준희)는 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대 살해와 아동복지법상 아동 유기·방임 등 혐의로 A(29)씨를 구속 기소했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 보완 수사를 통해 A씨가 19개월 된 딸이 숨질 위험성이 있다고 예상할 수 있었음에도 유기했다고 보고, 경찰이 적용한 아동학대 치사 혐의를 아동학대 살해로 바꿔 기소했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 인천시 남동구의 한 빌라에서 생후 19개월 된 B양에게 음식을 제대로 주지 않는 등 돌보지 않아 살해하고, 초등학생인 첫째 딸의 양육을 소홀히 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;부검 결과 B양은 영양 결핍과 탈수 등으로 사망한 것으로 나타났다. 사망 당시 B양의 체중은 4.7㎏으로, 비슷한 또래 여아 평균 몸무게 10.4㎏의 절반에도 미치지 못한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 평소 B양을 낳은 것을 후회하며 양육을 귀찮게 생각하고, 지난 1월쯤부터 B양에게 우유나 이유식을 주지 않은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;또 지난달 28일부터 B양이 숨진 3월 4일까지 총 120시간 중 92시간 동안 B양을 혼자 집에 둔 채 놀이공원이나 찜질방 등을 찾은 것으로 파악됐다. 이 기간 큰딸은 친척 집에 맡겨졌던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰이 A씨에게 적용한 아동학대살해죄는 사형·무기징역이나 7년 이상의 징역형을 선고받을 수 있다. 살인의 고의가 없을 때 적용하는 아동학대 치사죄의 법정형(무기징역이나 5년 이상의 징역형)보다 형량이 높다. &lt;br&gt;&lt;br&gt;A씨는 남편 없이 두 딸을 키우고 있었다. 그는 기초생활수급자와 한부모가구 등에 지원되는 월 300만원 이상의 공적 지원을 받아왔다. 또 취약 계층을 위한 ‘푸드마켓’에서도 매달 식재료 등을 가져갔다. &lt;br&gt;&lt;br&gt;그러나 A씨 자택은 죽은 개 사체와 동물 배설물, 생활 쓰레기, 담배꽁초 등이 쌓여 아이를 키우기에 적절하지 않은 환경이었던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨에게 죄질에 상응하는 형이 선고될 수 있도록 공소 유지에 최선을 다하고, 첫째 딸에 대한 피해자 지원을 적극적으로 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘여고생 3명 사망’ 부산 모 예술고 교장 해임 처분 취소 </title>
-      <link>https://www.chosun.com/national/regional/2026/03/30/3M7SJW3GCBGKFFEQEX7S7VHZWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/30/3M7SJW3GCBGKFFEQEX7S7VHZWI/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 09:19:58 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UABNU7SI4JU23ZAT4KNKIVXWZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 6월 재학생 3명이 숨진 사건과 관련, 교육청 감사를 거쳐 해임 처분됐던 부산 모 예술고등학교 교장이 교원소청심사를 통해 직위를 회복하게 됐다.&lt;br&gt;&lt;br&gt;30일 교육부와 부산시교육청에 따르면 교원소청심사위원회(이하 소청위)는 최근 A 교장이 학교법인 정선학원을 상대로 제기한 해임 처분 취소 청구 심사에서 “징계 과정에 절차상 문제가 있다”며 해임 처분 취소를 결정했다.&lt;br&gt;&lt;br&gt;소청위는 정선학원 징계위원회에서 A 교장에 대한 해임 처분 심사를 하는 과정에서 외부 위원이 참석하지 않아 절차상 하자가 있다고 판단한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 작년 12월 정선학원은 여고생 사망 사건 이후 제기된 학교와 무용강사, 학원 간 입시 카르텔 형성 의혹에 책임을 물어 A 교장에게 해임 처분을 내렸다.&lt;br&gt;&lt;br&gt;하지만 소청위는 학교법인이 내린 징계 절차에 결함이 있다고 판단해 A 교장의 손을 들어줬다.&lt;br&gt;&lt;br&gt;현재 해당 예술고의 교장은 공석 상태이고, 교감이 직무대행을 하고 있다.&lt;br&gt;&lt;br&gt;해임 취소 결정으로 A 교장은 소청위 결정문이 송달되는 내달 9일 이후 교장직에 복귀하게 된다.&lt;br&gt;&lt;br&gt;정선학원 측은 결정문을 검토해 징계위원회를 새로 구성하는 등 재징계 절차에 착수할 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 노포역~양산 북정역 잇는 경전철 연내 개통 </title>
-      <link>https://www.chosun.com/national/regional/2026/03/30/FHLP6F2DNNCP5DA32W6NUO7REE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/30/FHLP6F2DNNCP5DA32W6NUO7REE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 09:47:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVG7LAORBQHUNFPMU7UC2TWIFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산교통공사가 지난해 5월 양산선 시운전 운행을 위해 양산선 차량기지에 편성된 경전철 전동차를 처음으로 반입하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 지하철 1호선 노포역에서 경남 양산을 잇는 경전철 양산선이 연내 개통된다.&lt;br&gt;&lt;br&gt;부산시는 30일 오후 양산선 차량기지에서 ‘도시철도 양산선 운영 업무협약’을 맺었다. 이번 협약은 양산선 개통을 앞두고 부산시와 양산시가 운영 협력체계를 구축하고, 안정적인 운영 기반을 마련하기 위해 추진됐다.&lt;br&gt;&lt;br&gt;양산선은 부산 지하철 1호선 노포역에서 경남 양산시 북정역까지 연결되는 경전철 노선이다. 부산과 양산을 잇는 광역 대중교통망 조성을 위해 건설됐다. 올해 6월 준공 후 연내 개통을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;양산선 사업구간은 노포역(1호선 환승)~사송지구~양산시청~양산중앙역(2호선 환승)~북정역이다. 길이 11.43km로, 정거장 7곳을 거친다. &lt;br&gt;&lt;br&gt;양산선은 부산지하철과 같은 요금(카드 기준 1600원)으로 적용되며, 개찰구를 지나지 않고 바로 갈아탈 수 있게 연결된다. 출발역에서 10㎞를 초과하면 1800원이다.&lt;br&gt;&lt;br&gt;이번 협약에 따라 양산선 본구간은 양산시가, 부산지하철 2호선 연결구간은 부산시가 각각 운영을 맡아 역할 분담을 통한 효율적인 운영체계를 갖추게 된다.&lt;br&gt;&lt;br&gt;양산선은 기존 도시철도망과의 연계를 전제로 추진된 사업이다. 단순한 노선 신설을 넘어 부산과 양산을 하나의 도시철도망으로 연결하는 핵심 교통축 역할을 하게 된다.&lt;br&gt;&lt;br&gt;부산시와 양산시는 운영·재정·환승 체계를 함께 정비해 안정적인 개통 기반을 마련해 나갈 방침이다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “도시철도 양산선은 부산과 양산을 실질적으로 하나의 생활권으로 연결하는 핵심 교통 인프라”라며 “동남권 교통 연계성과 공동 발전을 지속적으로 강화해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;나동연 양산시장은 “앞으로도 부산시와 긴밀히 협력해 시민들이 안전하고 편리하게 이용할 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘경기도 법카 유용’ 공범 前 비서실장, “지방선거 이후로 재판 미뤄달라”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/30/WBIXIUNEGZFXPAS6GURBD23FW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/30/WBIXIUNEGZFXPAS6GURBD23FW4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 10:28:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7ATIDOM4FOWPESIQGJ2QFGEU4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령 경기도지사 시절 복심 4인방이 지난달 24일 서울 여의도 국회 소통관에서 지방선거 시장 출마 기자회견을 하고 있다. 왼쪽부터 김석구 광주시장 예비후보, 최원용 평택시장 예비후보, 정순욱 의왕시장 예비후보, 김지호 성남시장 예비후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 ‘경기도 법인카드 유용’ 의혹 사건 공범으로 기소된 전 경기도지사 비서실장 측이 다음 재판을 지방선거 이후에 열어달라고 했다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 30일 정순욱 전 경기도 비서실장, 전 경기도 별정직 공무원 배모씨의 업무상 배임 혐의 사건 공판기일을 열었다. 함께 기소된 이 대통령은 재판이 중지된 상태다.&lt;br&gt;&lt;br&gt;이날 정씨의 변호인은 “피고인은 민주당 의왕시장 예비후보로 등록했고, 4월에 공천자가 결정되는 절차가 진행된다”며 “피고인의 개인 사정이지만 다음 달 20일로 예정한 재판을 6월 3일 이후로 지정해달라. 그렇게 결정해주시면 후보 간 정책 위주의 경선이 진행될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이 같은 요청을 받아들여, 제9회 전국동시지방선거 날(6월 3일) 이후인 오는 6월 29일에 재판을 열기로 했다. 이 재판은 당초 다음 달 20일에 다음 기일이 진행될 예정이었다.&lt;br&gt;&lt;br&gt;이 사건은 이 대통령이 경기도지사 재임 당시 아내 김혜경 여사 등과 함께 경기도 법인카드 등을 개인적으로 썼다는 의혹이다. 검찰에 따르면, 이 대통령은 2018년 7월부터 2021년 10월까지 경기도 관용차를 개인적으로 사용하고 경기도 예산으로 자기 식사비와 과일 값, 세탁비 등을 결제하는 등 총 1억653만원을 쓴 혐의를 받고 있다. 같이 기소된 정씨와 배씨 등은 이 과정에 동원된 혐의다. 검찰은 2024년 11월 이 대통령 등을 불구속 기소하고, 김 여사에 대해서는 기소유예 처분했다. 이 대통령 측은 “이 사건과 관련이 없다”며 모든 혐의를 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 재판부는 이 대통령이 작년 6월 대선에서 당선되자, 이 대통령의 재판 기일을 추정하기로 했다. 추정은 재판 일정을 바로 잡지 않고 이후에 다시 정하는 것이다.&lt;br&gt;&lt;br&gt;송 재판장은 “이재명 피고인은 2025년 6월 대통령 선거에 당선돼 대한민국 대통령으로 행정 수반임과 동시에 국가 원수로서 국가를 대표하는 지위를 가지고 있다”며 “피고인이 대통령으로서 헌법상 직무인 국정 운영의 계속성을 보장하기 위해 공판기일을 추후 지정하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;공동 피고인인 정씨와 배씨 등에 대해선 예정대로 재판을 진행하기로 했다.&lt;br&gt;&lt;br&gt;정씨는 이날 자신의 페이스북에 “저는 이재명 경기도지사 시절, 그의 비서실장으로서 ‘공정한 세상’을 실현하기 위해 밤낮없이 뛴 대가로 정치 검찰의 표적이 돼 재판장에 세워졌다”며 “저와 이재명 대통령은 단순한 상하 관계가 아니라, 모진 비바람을 함께 맞으며 같은 곳을 바라본 ‘생사고락의 동반자’라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>군산 앞바다서 스쿠버 장비로 해삼 170kg 불법 채취한 일당 검거</title>
-      <link>https://www.chosun.com/national/regional/2026/03/30/WQF6PZ6F2VCODN455HI6QTMXSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/03/30/WQF6PZ6F2VCODN455HI6QTMXSE/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 10:26:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ3FIS2LI5DJFFF6T3HPFU5QVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잠수장비를 활용해 불법으로 채취한 해삼. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산해양경찰서는 잠수장비를 이용해 불법으로 해삼을 채취한 혐의(수산업법 위반)로 선장 A(60대)씨와 잠수부 B(30대)씨 등 4명을 조사 중이라고 30일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 28일 오전 0시 15분쯤 군산항 북방파제 인근 해상에서 잠수용 스쿠버 장비를 사용해 해삼 173㎏(시가 173만원 상당)을 채취한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등이 어선에 공기통을 싣고 출항하는 것을 포착한 해경은 입항 장소에 잠복하고 있다가 불시 검문해 이들을 붙잡았다.&lt;br&gt;&lt;br&gt;수산업법에 따르면 허가받지 않은 장비를 이용해 수산물을 채취해서는 안 된다.&lt;br&gt;&lt;br&gt;전북 해상은 연안과 인접한 섬 지역을 중심으로 양식장이 많으며 전복과 해삼이 서식하기 좋은 생태계를 유지하고 있어 불법어로의 최고의 표적이 되고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “불법 해삼 조업은 양식장에 큰 피해를 준다”며 “불법 조업을 목격한 경우 적극적으로 신고해달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘1억 공천헌금’ 강선우·김경 재판, ‘부패 담당’ 중앙지법 형사1단독 배당 </title>
       <link>https://www.chosun.com/national/court_law/2026/03/30/SAUPD2WIA5GEZH7RGP7ZSACHH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/30/SAUPD2WIA5GEZH7RGP7ZSACHH4/</guid>
@@ -894,15 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTXLQYI4ZJIUXJTJCAURYFVMTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 2025년 12월 4일 종묘 경관 훼손 논란이 일고 있는 서울 종로구 세운재정비 촉진지구를 둘러보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 세운4구역 재개발을 두고 갈등해 온 서울시와 국가유산청이 이번 주 중으로 국장급 태스크포스(TF)를 구성해 구체적인 개발 방향을 논의하기로 했다.&lt;br&gt;&lt;br&gt;서울시는 30일 “오세훈 서울시장이 지난 27일 오후 국립고궁박물관에서 허민 국가유산청과 회동해 종묘 보존과 세운4구역 개발 방향에 대해 논의하고 이와 관련해 앞으로도 긴밀한 실무 협의를 이어가기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 회동은 최근 종묘와 세운4구역을 둘러싼 서울시와 국가유산청 간 이견을 조율하기 위해 마련됐다. 서울시는 “오 시장과 허 청장은 1시간 동안 심도 있는 대화를 나눴다”고 설명했다.&lt;br&gt;&lt;br&gt;서울시와 국가유산청은 이번 주 중 국장급 실무 TF를 구성해 구체적인 행정 사항을 논의하기로 했다. 또 이른 시일 내에 서울시장, 국가유산청장, 종로구청장 ‘3자 협의체’를 진행할 계획이다.&lt;br&gt;&lt;br&gt;오 시장은 “서울시는 실무 협의에 나설 의지와 준비가 돼 있는 만큼 이번 주 내 협의체를 즉시 가동해 실질적인 해법 마련에 속도를 내야 한다”고 말했다.&lt;br&gt;&lt;br&gt;세운4구역 재개발을 둘러싼 갈등은 지난해 서울시가 세운4구역의 건물 높이 제한을 완화하면서 본격화됐다. 국가유산청은 고층 건물이 들어설 경우 유네스코 세계유산인 종묘의 경관이 훼손될 수 있다며 반대하고 나섰다.&lt;br&gt;&lt;br&gt;지난 16일에는 국가유산청이 발굴 조사 절차가 완료되지 않은 부지에서 시추 작업이 이뤄졌다며 서울주택도시개발공사(SH)를 경찰에 고발하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경인아라뱃길서 남성 시신 발견… 경찰, 부검 의뢰</title>
-      <link>https://www.chosun.com/national/incident/2026/03/30/IRYJJEUE75GDJETIIPCTTGYPEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/30/IRYJJEUE75GDJETIIPCTTGYPEY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 09:16:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DO66HC3GUAB76CETA2XBHLGWBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경인아라뱃길. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 경인아라뱃길에서 시신이 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천 계양경찰서에 따르면 30일 오후 3시 46분쯤 인천시 계양구 경인아라뱃길 벌말교 인근 수로에서 “물에 시신이 떠 있다”는 내용의 119 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고는 경인항 해상교통관제센터 측에서 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소방 당국의 공동 대응 요청을 받고 출동한 경찰은 시신을 인양했고, 정확한 사인 규명 등을 위해 국립과학수사연구원에 부검을 의뢰할 방침이다. &lt;br&gt;&lt;br&gt;남성으로 추정되는 시신엔 신원을 파악할 수 있는 소지품은 없었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 타살 혐의점은 없는 것으로 파악됐다”며 “부검을 먼저 진행하고 신원, 사망 장소 등에 대해 수사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국제의회연맹, 전상수 前입법차장 등 사무총장 후보 5인 공개</title>
       <link>https://www.chosun.com/national/people/2026/03/30/7I342LJXDFBDVN3DK7R2EUTMLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/03/30/7I342LJXDFBDVN3DK7R2EUTMLA/</guid>
@@ -910,15 +919,6 @@
       <description/>
       <pubDate>Mon, 30 Mar 2026 09:04:05 +0000</pubDate>
       <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGXJB5EKKZCWDNJALZP35RAKTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;국제의회연맹(IPU) 사무총장 후보 5명. 좌측부터 디오니시아 테오도라 아브게리노폴리오우(그리스), 안다 필립(루마니아), 전상수(대한민국), 파투 디엥 티암(세네갈), 세실리아 비드그레언(Cecilia Widegren) 후보./ IPU 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국제의회연맹(IPU)이 전상수 전 국회사무처 입법차장 등 차기 사무총장 후보 5명을 공개했다.&lt;br&gt;&lt;br&gt;30일 국회사무처에 따르면 IPU는 지난 26일(현지 시각) 제9대 IPU 사무총장 후보로 전 차장과 디오니시아 테오도라 아브게리노폴리오우(그리스), 안다 필립(루마니아), 파투 디엥 티암(세네갈), 세실리아 비드그레언(스웨덴) 후보 등 5명을 홈페이지에 공개했다. &lt;br&gt;&lt;br&gt;IPU는 다음 달 12일 집행위원회 면접을 통해 최종 후보 2인 이상을 확정한다. 이어 같은 달 19일 튀르키예 이스탄불에서 열리는 152차 총회에서 투표를 통해 4년 임기의 사무총장을 선출한다. 전 전 차장이 당선될 경우 IPU가 1889년 설립된 이래 처음으로 아시아 출신 사무총장이 탄생한다.&lt;br&gt;&lt;br&gt;아브게리노폴리오우 후보는 4선 국회의원으로 그리스 총리 해양 특사를 맡고 있다. 주UN 루마니아 대사를 역임한 필립 후보는 현재 IPU 의회 및 대외관계국장으로 재임하고 있다. &lt;br&gt;&lt;br&gt;티암 후보는 현직 UN 나이로비 사무소 대호수지역 특사실 정치국장이며, 비드그레언 후보는 국회의원·IPU 부회장을 역임했다.&lt;br&gt;&lt;br&gt;IPU는 다음 달 12일 집행위원회 면접을 통해 최종 후보 2인 이상을 추린다. 같은 달 19일 튀르키예 이스탄불에서 열리는 152차 총회에서 투표를 통해 4년 임기의 사무총장을 선출한다.&lt;br&gt;&lt;br&gt;전 전 차장은 1992년 제11회 입법고시에 합격해, 로스앤젤레스(LA) 총영사관 영사(입법관), 국회사무처 기획조정실장, 의사국장, 정무위원회·법제사법위원회 수석전문위원을 거쳤으며 입법차장(차관급)으로 퇴임했다. 우원식 국회의장의 추천을 받아 지난 7월 IPU 사무총장직에 도전장을 던졌다.&lt;br&gt;&lt;br&gt;IPU는 각국 의회 간 대화와 협력을 위해 설립된 의회 간 국제기구로 현재 전 세계 183개국 의회를 회원으로 두고 있으며 준회원기구 15곳도 참여한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 경찰관 아내, ‘재개발 분양권’ 미끼로 16억 가로챘다</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/30/PAMTBYMKDJEN3D7UJXGO5QKRTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/30/PAMTBYMKDJEN3D7UJXGO5QKRTA/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Mar 2026 08:11:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZTMY3CGUYWCZTDG42TSODGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주 지역의 ‘알짜’ 재개발 아파트 입주권을 미끼로 지인들에게 16억원대 사기 행각을 벌인 현직 경찰관의 아내가 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;광주고법 전주재판부 형사1부(재판장 정문경)는 특정경제범죄가중처벌등에관한법률 위반(사기) 및 사문서 위조 등 혐의로 구속 기소된 A(53·여)씨의 항소심에서 피고인의 항소를 기각하고 원심과 같은 징역 5년을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년부터 2024년까지 전주시 완산구 등 주택 재개발이 한창인 지역을 거론하며, 지인 9명에게서 170여 차례에 걸쳐 16억원 상당의 투자금을 가로챈 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 자신을 ‘부동산 전문가’로 자처하며 “재개발 구역 나대지(빈 땅)를 사면 분양권이 나온다”, “내 말대로만 하면 수천만 원의 피(분양권 프리미엄)를 챙길 수 있다”라며 피해자들을 현혹했다.&lt;br&gt;&lt;br&gt;A씨는 아파트 상가와 주택 임대차 계약서를 위조해 투자자들에게 실제 있지도 않은 분양·입주권을 얻은 것처럼 속인 것으로 조사됐다. 또한, 범행을 은폐하려고 소유권 이전에 필요하다며 보관 중이던 피해자들의 인감도장을 도용한 사실도 드러났다.&lt;br&gt;&lt;br&gt;A씨는 이렇게 가로챈 거액의 투자금 대부분을 개인 채무 변제와 명품 등 사치품 구입, 생활비 등으로 탕진한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 피해자들과의 신뢰 관계를 이용해 장기간에 걸쳐 거액의 투자 사기를 벌인 것도 모자라, 범행을 숨기려고 임대차 계약서까지 위조해 행사하는 등 죄질이 매우 불량하다”고 지적했다. 이어 “원심에서 일부 피해자에게 편취금 7억6000만원을 변제한 점은 유리한 정상이지만, 일부 피해자들이 현재까지도 엄벌을 탄원하고 있어 원심의 형을 가볍게 할 만한 합리적 사정이 없다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;한편, 검찰은 전북경찰청 소속 현직 경찰관인 A씨의 남편 B씨도 이번 사기 범행에 가담한 정황을 포착하고 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“주차장에 세워둔 승용차 바퀴 없어졌다”</title>
