@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“검찰 불기소 부당” 재정신청, 법원이 기각하자 헌재에 재판소원</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/01/GWUXNLEUNNFJXDR7PXG6SPS25I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/GWUXNLEUNNFJXDR7PXG6SPS25I/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Apr 2026 11:48:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAOPXQD2IFI4JN7YJ5YO3PYXCM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판소원(법원 재판에 대한 헌법소원) 제도가 본격 시행된 가운데, 검찰의 불기소 처분이 정당했는지 법원이 다시 따져보는 ‘재정신청’ 결과에 불복한 재판소원이 접수됐다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 A씨는 헌법재판소에 대법원의 재정신청 재항고 기각 결정에 대한 재판소원을 청구했다. 법원이 소송의 핵심 내용(본안)에 대해 유무죄나 승패를 가리는 ‘판결’뿐 아니라, 소송 절차나 부수적 사항에 대해 내리는 ‘결정’도 헌재 심사를 받게 된 것이다.&lt;br&gt;&lt;br&gt;A씨는 2022년 서울 구로구의 한 주택을 샀다. 그런데 매수 당시 고지받지 못한 누수와 소음 등 하자가 발견됐고, 법적 대응을 위해 변호사를 선임했다. A씨는 변호사에게 민사 손해배상 소송과 형사 고소 등 3건을 위임하며 착수금으로 1870만원을 지급했다. A씨에 따르면 변호사는 “최소 7000만원에서 1억원의 손해배상을 받게 해주겠다”고 장담했다고 한다.&lt;br&gt;&lt;br&gt;그러나 손해배상 소송은 3000만원을 나눠 지급하는 내용의 화해권고결정으로 마무리됐다. A씨는 이마저도 받지 못했고, 형사 사건에서는 주택 매도인과 중개인 모두 ‘혐의 없음’ 판단이 내려졌다.&lt;br&gt;&lt;br&gt;이에 A씨는 “변호사가 소액 합의를 종용하고 화해권고결정에 대한 이의신청권 등 핵심 절차를 제대로 알려주지 않았다”며 변호사가 소속된 법무법인을 상대로 손해배상 청구 소송을 냈다. 또 “한 장의 고소장으로 처리할 수 있는 사안을 여러 건으로 쪼개 수임료를 중복으로 받아냈다”며 변호사를 사기 및 업무상 배임 혐의로 고소했다.&lt;br&gt;&lt;br&gt;그러나 경찰은 사기와 배임 혐의에 대해 “증거가 부족하다”며 사건을 송치하지 않았고, 검찰도 같은 이유로 불기소 처분을 내렸다. 이에 A씨는 불기소 처분이 타당한지 판단해달라며 고등법원에 재정신청을 냈다. 하지만 고법은 이를 받아들이지 않았고, 대법원에 재항고까지 했으나 이 역시 지난달 10일 기각됐다.&lt;br&gt;&lt;br&gt;그러자 A씨가 “법원이 기각 결정을 내리면서 ‘검찰의 불기소 처분이 정당해 보인다’는 짧은 문구만 반복했을 뿐 증거가 왜 부족한지, 왜 추가 수사가 필요 없는지에 대해서는 아무런 이유를 설명하지 않았다”며 재판소원을 낸 것이다. A씨 측은 “법원이 ‘복사해서 붙여넣은 듯한 형식적 재판’만 했다”며 “재판을 받을 권리와 피해자로서 진술할 권리를 침해했다”고 주장했다.&lt;br&gt;&lt;br&gt;형사 절차와 달리 A씨는 민사 손해배상 소송에서는 일부 승소했다. 서울중앙지법 민사2-3부는 지난해 12월 항소심에서 “법무법인이 A씨에게 수임료 1870만원 중 적정 보수액 880만원을 초과하는 990만원을 반환하라”고 판결했다. 재판부는 “관련 인물들을 각각 별도의 사건으로 나눠 수임하고, 실질적으로 중복되는 내용의 고소장을 작성하면서 고액의 수임료를 받은 것은 신의성실의 원칙과 형평에 반한다”고 판단했다.&lt;br&gt;&lt;br&gt;A씨를 대리하는 법무법인 원곡의 최정규 변호사는 “변호사의 불성실한 사건 처리와 과도한 수임료 책정이 민사 재판에서는 인정된 셈”이라며 “그럼에도 형사 절차에서는 제대로 된 판단 없이 불기소 처분이 유지됐다”고 했다. 그러면서 “재정신청 제도는 검찰의 불기소 처분을 통제하기 위한 핵심 장치인데, 법원이 구체적인 판단 없이 기각 결정을 반복하면서 사실상 형식적인 절차가 돼버렸다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘VIP 격노설’ 법정서 처음 나왔다...“尹 ‘사단장 처벌하면 누가 하냐’ 질책”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/01/DIRNMUG4SVHYPIWFXWAAO36FTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/DIRNMUG4SVHYPIWFXWAAO36FTY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Apr 2026 13:32:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IU43IVBYKJHQTKWOPSCZUPIU2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 8월 8일 서울 서초동 해병특검 사무실로  임기훈 전 대통령실 국방비서관이 출석하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 2023년 7월 해병대원 순직 사건 수사 결과를 보고받은 자리에서 “이런 일로 사단장까지 처벌하면 누가 사단장을 하겠느냐”는 취지로 질책했다는 법정 증언이 나왔다. 수사 외압의 배경으로 지목된 ‘VIP 격노설’을 뒷받침하는 진술이 재판 중 나온 건 처음이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 ‘순직 해병 수사 외압’ 의혹 관련 국회에 허위 답변서를 제출한 혐의로 기소된 유균혜 전 국방부 기획관리관과 이모 전 총괄담당관의 재판을 열고 임기훈 당시 국가안보실 국방비서관의 증인신문을 진행했다.&lt;br&gt;&lt;br&gt;임 전 비서관은 2023년 7월 31일 대통령 주재 수석비서관(대수비) 회의에서 윤 전 대통령에게 해병대 수사단의 3장짜리 언론 브리핑 자료를 1장으로 요약한 수사 결과 보고서를 직접 전달했다고 밝혔다. 그는 “대통령께서 보고를 받으시고 ‘이런 일로 사단장까지 처벌하면 누가 사단장을 하겠느냐’는 취지로 질책하셨다”고 증언했다.&lt;br&gt;&lt;br&gt;이어 윤 전 대통령이 책상 위 인터폰을 통해 이종섭 당시 국방부 장관을 연결하라고 했고, 이 전 장관과 통화하면서 “군에서 사고가 일어날 때마다 고위 지휘관을 줄줄이 엮어 처벌하면 되겠느냐” “이런 이야기를 누차 했는데 왜 이렇게 됐느냐”는 취지로 말했다고 전했다. 임 전 비서관은 “윤 전 대통령이 회의 당시 수사 기간이 짧았는데 사령관까지 엮은 것을 비판했던 것으로 기억한다”고 답했다.&lt;br&gt;&lt;br&gt;임 전 비서관은 대통령의 ‘격노’ 직후 유 전 관리관에게 ‘군사경찰 인력 감축’을 검토하라고 지시한 배경에 대해서도 증언했다. 그는 윤 전 대통령이 회의 당일 명시적으로 “인력을 줄이라”고 지시한 기억은 없다고 했다. 다만 “대통령께서 이전부터 군사경찰 조직의 비대함과 수사 역량에 대해 여러 차례 비판적인 언급을 하셨다”며 “회의 당시 대통령의 격앙된 기조를 고려할 때 참모로서 실무적인 검토가 필요하다고 판단해 유 전 관리관에게 전달한 것”이라고 했다. 임 전 비서관은 유 전 관리관이 가져온 1차 검토안(30% 감축)에 대해 “강도가 낮다”며 돌려보내기도 했다. 그는 “대통령의 의중을 짐작해 그렇게 한 것이 맞는다”고 했다.&lt;br&gt;&lt;br&gt;유 전 관리관과 이 전 담당관은 2023년 윤 전 대통령의 지시에 따라 군사경찰 감축 등 군 수사 조직 개편 검토 보고서를 작성했는데도 8월 국회의 관련 자료 제출 요구에 “검토한 바 없고 존재하지 않는다”며 허위로 답변해 공전자기록을 위조한 혐의를 받고 있다. 이명현 순직해병 특검은 해병대원 수사 외압을 폭로한 박정훈 전 수사단장을 압박하기 위해 국방부가 수사 조직 개편안(인력 감축안)을 검토했고 이를 은폐하기 위해 국회에 허위 답변서를 제출했다고 보고 있다. 반면 이날 임 전 비서관은 “당시 조치가 보복성이라고 하기엔 시기상조였다”고 반박했다.&lt;br&gt;&lt;br&gt;임 전 비서관은 함께 근무했던 유 전 관리관 등이 재판받는 상황에 대해 “업무 지시를 한 사람은 증인석에 있고, 이를 수행한 분들이 법정에 서 있어 안타깝고 송구하다”고 말하기도 했다. 재판부는 오는 5월 19일 피고인 신문과 최종 변론을 거쳐 재판을 마무리할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 2일</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/01/CHULM5UYYFBLXMM55WNNUDWP24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/CHULM5UYYFBLXMM55WNNUDWP24/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Apr 2026 14:36:00 +0000</pubDate>
+      <content:encoded>전국 대체로 맑음...온화한 봄 날씨&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4MRALSCJCT3AUYHQBKKSDBVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>둔기로 아들 친구 때린 40대 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/2026/04/01/HSMVADD5M5AYRJC5RAUNOU7Y7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/01/HSMVADD5M5AYRJC5RAUNOU7Y7Q/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Apr 2026 12:52:13 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZDEMTCMZQWKYZQMNRGGZJWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;전북 군산경찰서는 아들의 친구를 둔기로 때려 다치게 한 혐의(특수상해)로 40대 A씨를 구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 20일 군산 시내 한 중학교 인근에서 하교 중이던 10대 B군에게 둔기를 휘둘러 상해를 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B군이 자기 아들을 괴롭힌다는 이유로 대화를 시도하다가 범행한 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 B군과 대화를 나누다가 감정이 격해져 미리 챙겨온 망치로 B군의 머리와 다리 등을 때린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B군은 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 B군이 실제로 A씨의 아들을 괴롭혔는지 등을 추가로 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘재산분할 갈등’ 전처 살해한 남성 구속... “도주 우려”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/01/NCDXYFITU5CL7CGU7FBILEB5Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/NCDXYFITU5CL7CGU7FBILEB5Q4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Apr 2026 11:18:56 +0000</pubDate>
+      <content:encoded>재산 분할 문제로 전처를 살해하고 시신을 야산에 유기하려 한 60대 남성이 1일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDGNTEGE4DGNZQGNRTOMTGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이혼한 전처를 살해한 뒤 시신을 유기하려 한 혐의를 받는 60대 남성 A 씨가 1일 오후 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.4.1 ⓒ 뉴스1 최지환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이지영 영장 전담 부장판사는 이날 살인과 시체유기미수 혐의를 받는 이모씨에 대한 구속영장 심사를 열고 “도망할 염려가 있다”며 이씨의 영장을 발부했다.&lt;br&gt;&lt;br&gt;이날 오후 2시 36분쯤 모자와 마스크로 얼굴을 가린 채 법원에 출석한 이씨는 ‘전처를 왜 살해했느냐’, ‘가족들에게 할 말 없느냐’는 취재진 질문에 답하지 않고 법원에 들어갔다.&lt;br&gt;&lt;br&gt;이씨는 지난달 30일 오전 11시 20분쯤 서울 서초구 우면동 한 아파트에서 50대 전처를 살해하고 시신을 여행용 가방에 담아 자신의 차에 싣고 도주한 혐의를 받는다. 그는 전처와 재산 분할 문제로 다투다 우발적으로 살해한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;‘부모님과 연락이 닿지 않는다’는 아들 신고를 받고 출동한 경찰은 오후 5시쯤 충북 음성 야산의 한 묘지 배수로에 시신을 유기하려던 그를 긴급체포했다. 이씨는 5시간여 동안 강원 원주·영월과 충북 제천 등을 오가며 경찰 추적을 따돌리려 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사건을 수사하는 서울 서초경찰서는 이날 피해자의 정확한 사인을 파악하기 위해 시신 부검을 마치고 국립과학수사연구원(국과수)의 회신을 기다리고 있다. 시신에서는 폭행 흔적이 다수 발견된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5월 4일 임시공휴일 되면 황금연휴? 청와대 “사실 무근”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/01/UOHFAQ6YRBBHDK5DKRMBSLJHQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/UOHFAQ6YRBBHDK5DKRMBSLJHQA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Apr 2026 11:15:26 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X24EH5YMRBU7AL6SPMPTUHKQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;청와대는 5월 4일 임시공휴일 지정과 관련해 "검토한 바 없다"고 밝혔다. 사진은 5월 달력. /네이버&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;정부가 징검다리 연휴 기간인 5월 4일을 임시공휴일로 지정하는 방안을 검토 중이라는 언론 보도와 관련해 청와대가 “사실 무근”이라고 밝혔다. &lt;br&gt;&lt;br&gt;청와대 관계자는 1일 언론 공지를 통해 “5월 4일 임시공휴일 지정을 검토한 바 없다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;앞서 정부가 관광‧유통 분야 등의 소비를 자극하기 위해 5월 4일을 임시공휴일로 지정하는 방안을 논의 중이라는 보도가 나왔다. 만약 5월 4일이 임시공휴일로 지정되면 5월 1일(노동절)부터 5일(어린이날)까지 5일 동안 황금연휴가 구성된다. &lt;br&gt;&lt;br&gt;5월 4일이 임시공휴일로 지정되지 않더라도 5월은 노동절과 어린이날, 부처님 오신 날(24일)에 이은 대체공휴일(25일)이 있어 다른 달 대비 휴일이 많은 편이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김영선 “오세훈, 이기는 여론조사 나오면 된다고 했다” 吳측 “명태균과 진술 맞춘 것 아니냐” 공방</title>
       <link>https://www.chosun.com/national/court_law/2026/04/01/CFXEJTUFERDP7PJ5LNR4UMG6B4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/CFXEJTUFERDP7PJ5LNR4UMG6B4/</guid>
@@ -892,24 +946,6 @@ e스포츠 리그 오브 레전드 부문은 오는 26일 예선전을 시작으
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSDQYZRMQ3DGNZSHFTDAZBYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 서부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초과 근무 수당을 허위로 타낸 광주광역시 공무원들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 공전자기록위작 등의 혐의로 광주시 공무원 19명을 불구속 송치했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2021년부터 2024년까지 초과 근무 기록을 허위로 작성해 수당을 부정 수령한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 광주시는 감사위원회를 꾸려 해당 사안을 조사하고 적발된 공무원들에게 징계 처분을 내렸다.&lt;br&gt;&lt;br&gt;이후 이 같은 내용이 보도로 알려지자 한 민원인이 국민신문고에 고발장을 제출하면서 경찰 수사로 확대됐다.&lt;br&gt;&lt;br&gt;이들이 부정 수령한 수당은 1인당 100만~200만원 수준인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 고발장을 토대로 공무원 20명을 조사했으며 이 중 사망한 1명을 제외한 19명을 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>7년간 이웃 스토킹·재판 중 폭행한 50대 구속 기소</title>
-      <link>https://www.chosun.com/national/incident/2026/03/31/4VEP6DPCRRETXNU6GE7HTUTS4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/03/31/4VEP6DPCRRETXNU6GE7HTUTS4Y/</guid>
-      <dc:creator>남원=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 11:32:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DMMBQMMZTKM3DHEZTGNLFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7년 동안 이웃 노인을 상습적으로 스토킹하고, 관련 범죄로 재판을 받는 중에도 얼굴에 뜨거운 물을 뿌리는 등 폭행을 일삼은 50대 남성이 결국 구속 기소됐다.&lt;br&gt;&lt;br&gt;전주지검 남원지청은 이웃 주민인 70대 남성 B씨를 상대로 지속적인 스토킹과 폭행을 가한 50대 남성 A씨를 스토킹처벌법 위반 등의 혐의로 구속 기소했다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 지난 2019년부터 수년간 B씨를 상대로 범행을 이어오며 피해자의 일상생활을 파괴한 혐의를 받는다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 B씨를 상대로 이미 수차례 동종 범죄로 처벌받은 전력이 있는 것으로 드러났다. 그럼에도 지난해 3월부터 10월까지 B씨를 찾아다니며 시비를 거는 등 스토킹 행위를 반복했다. 심지어 A씨는 피해자에 대한 폭행죄 등으로 기소돼 재판이 진행 중이던 지난 2월, 또다시 B씨의 얼굴에 뜨거운 물을 뿌리는 등 폭행을 가했다.&lt;br&gt;&lt;br&gt;이번 사건은 B씨가 직접 검찰청 민원실을 찾아 피해를 호소하면서 신속한 구속으로 이어졌다. B씨는 주임검사와의 면담에서 “피고인으로부터 수년간 지속적인 스토킹 피해를 보았고, 피고인이 두려워 마음대로 귀가조차 하지 못할 정도로 일상생활이 망가졌다”고 진술했다.&lt;br&gt;&lt;br&gt;이에 검찰은 A씨의 동종 처벌 전력, 재판 중 재범 사실, 추가 범행 및 위해 우려, 스토킹 범죄의 강력 범죄 비화 가능성 등을 종합적으로 고려해 경찰로부터 송치받은 스토킹처벌법 위반 사건과 폭행 사건을 병합하여 A씨를 구속했다. 아울러 범죄피해자지원센터와 연계해 B씨에게 상담과 심리 치료 등을 지원하며 보호 조치에 나섰다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인에게 죄에 상응하는 중형이 선고될 수 있도록 공소 유지에 최선을 다하겠다”며 “앞으로도 스토킹 범죄에 관하여 신속하고 엄정하게 대응하여 시민의 안전한 일상이 위협받지 않도록 만전을 기하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘유튜버 쯔양 스토킹·협박’ 가세연 김세의 불구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/31/OMDVZQMGFVC3PPMHO7W5O5OL3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/31/OMDVZQMGFVC3PPMHO7W5O5OL3E/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 08:54:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2GMMBTHFQWEYJQGFQTONBZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 가로세로연구소(가세연) 김세의 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘먹방 유튜버’ 쯔양(29·본명 박정원)이 과거 유흥업소에서 일했다는 내용의 영상을 제작한 가로세로연구소 대표 김세의(50)씨가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 여성아동범죄조사2부(부장 박지나)는 김씨를 명예훼손, 스토킹처벌법 위반, 협박 등 혐의로 31일 불구속 기소했다고 밝혔다. 김씨는 2024년 7월 “박씨가 과거 유흥업소에서 일했다는 사실을 이용해 유튜버 구제역이 박씨를 협박하고 있다”는 내용의 녹취록을 가로세로연구소 유튜브 채널에 올려 박씨 명예를 훼손한 혐의를 받는다. 방송 이후 박씨는 “전 남자 친구의 폭행과 협박으로 유흥업소에서 일할 수밖에 없었다”는 영상을 올렸다. 이후 가로세로연구소는 박씨 해명이 사실이 아니라는 취지의 방송을 이어갔다.&lt;br&gt;&lt;br&gt;이에 박씨는 “김씨가 동의 없이 사생활 영상을 올려 해명 영상을 찍을 수밖에 없었다”며 김씨를 경찰에 고소했다. 경찰은 작년 2월 “혐의를 입증할 증거가 충분하지 않다”며 사건을 검찰에 넘기지 않았다. 당시 경찰은 김씨 방송이 위법하다고 본다면 표현의 자유가 억압될 여지가 있다고 판단한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰의 불송치 결정 이후 박씨는 검찰에 이의신청을 했고 검찰은 경찰에 보완수사를 요구했다. 이후 경찰은 작년 9월 김씨를 검찰에 불구속 송치했다. 검찰은 “김씨가 후원 계좌를 통한 모금 등 수익 창출을 위해 박씨 사생활을 이용했을 뿐 아니라 박씨에게 해명 방송을 강요했다”고 보고 김씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘이종섭 범인도피’ 첫 재판...尹 “고발됐다고 임명 못하나”</title>
       <link>https://www.chosun.com/national/court_law/2026/03/31/U5VEKJCUYVGSLHLZVFA5WBZ3CI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/31/U5VEKJCUYVGSLHLZVFA5WBZ3CI/</guid>
@@ -917,24 +953,6 @@ e스포츠 리그 오브 레전드 부문은 오는 26일 예선전을 시작으
       <description/>
       <pubDate>Tue, 31 Mar 2026 08:54:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Z423S4VHFDBZOFOI3TFI7OF3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 2024년 3월  인천 수로 및 팔미도 근해 노적봉함에서 열린 제73주년 인천상륙작전 전승기념식에 참석해 이종섭 당시 국방부 장관과 대화하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘이종섭 전 주(駐)호주 대사 도피’ 의혹으로 기소된 윤석열 전 대통령과 박성재 전 법무부 장관, 조태용 전 국가안보실장 등이 31일 첫 재판에서 혐의를 전면 부인했다. 윤 전 대통령은 “수사기관에 고발됐다고 공직 임명을 못 한다는 건 말이 안 된다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 서울중앙지법 형사22부(재판장 조형우) 심리로 열린 범인도피 사건 첫 정식 재판에 출석해 “이 전 장관은 국방부 장관 시절부터 방산 수출에 상당한 성과를 냈던 사람“이라며 ”호주대사에 일반 외교부 공무원보다는 국방부 장관 출신이 대사로 갈 경우 국익 사업 추진에 훨씬 더 많은 이점이 있을 것이라 판단했다”고 말했다. 윤 전 대통령 측 변호인도 “9조원 규모 K-방산 수출의 연속성과 안보 파트너십을 위한 것이었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;윤 전 대통령 등은 고(故) 채수근 상병 사망 사건으로 고위공직자범죄수사처(공수처)에 입건된 이 전 국방장관을 호주 대사로 임명해 도피시키려 했다는 혐의로 기소됐다. 이명현 순직해병 특검은 윤 전 대통령이 이 전 장관에 대한 수사가 진전될 경우 본인에게도 수사가 확대될 것을 우려해 호주 대사 임명을 지시했다고 보고 있다. &lt;br&gt;&lt;br&gt;공수처에 입건된 범죄 피의자를 대사로 임명했다는 혐의에 대해 윤 전 대통령은 “(공수처는) 고발됐다고 소환도 안 하고 조사도 안 하는 경우가 대부분인데, 석 달 동안 출국금지만 걸어놓고 연장만 하는 것이 정상적인 소추냐”며 “검찰 같으면 징계 사안”이라고 했다. 윤 전 대통령 측 변호인은 “윤 전 대통령은 이 전 장관에 대한 출국금지 사실이나 구체적 수사 상황을 전혀 인지하지 못했다”며 “이를 도피로 규정하는 것은 실체 없는 정치 프레임에 불과하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;요건에 맞지 않는데도 이 전 장관 출국 금지를 해제해 해외 출국을 도운 혐의(직권남용)로 함께 기소된 박성재 전 장관 측 역시 “절차적 정당성을 갖춘 결정이었다”며 혐의를 부인했다. 박 전 장관 측 변호인은 “이 전 장관의 출국금지 이의신청은 개인적 도주가 아니라 공적 업무 수행을 위한 것임을 감안해 절차에 따라 처리했을 뿐”이라며 “심의위원들에게 압력을 넣은 사실이 없고 위원들의 만장일치 결정은 자유로운 의사에 따른 것이었다”고 했다. &lt;br&gt;&lt;br&gt;심우정 전 검찰총장(당시 법무차관) 측도 이 전 장관의 출금 이의신청에 대한 법무부 내부 보고를 받고 부당한 영향력을 행사했다는 혐의에 대해 “대통령이 대사로 임명해 나가는 사람을 못 나가게 하는 것이 맞느냐는 취지로 반문한 것은 단순한 의견 표명에 불과하다”며 “특정 결론을 유도하거나 위법한 지시를 내린 바 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;2023년 11월 이후 외교부에 호주 대사 교체 절차를 부당하게 지시·독촉한 혐의로 기소된 조태용 전 실장 측은 “대통령의 인사 지시를 관련 부처에 전달한 직무수행의 일환이었다”고 했다. 재외공관장은 체류지가 공개되므로 수사기관의 소환이 언제든 가능하기 때문에 이를 ‘도피’로 볼 수 없다는 주장도 했다. 이 전 장관에 대해 ‘문제 없음’으로 인사 검증을 진행한 혐의를 받는 이시원 전 공직기강비서관 측 역시 “공모한 적도 범인을 도피하게 한 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “호주대사 임명이 수사나 체포를 곤란하게 하려는 목적이었는지, 아니면 피고인들 주장대로 국익과 방산 수출을 위한 실익이 있었는지가 관건”이라고 쟁점을 정리했다. 재판부는 당시 출국금지 심의위원회가 형해화될 정도로 압력이 있었는지도 면밀히 살피겠다고 밝혔다. 재판부는 오는 4월 10일부터 황소진 전 외교부 인사기획관 등을 증인으로 불러 본격적인 증거 조사를 이어갈 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘사법행정권 남용’ 사건, 대법 3부→2부 재배당… “근무 연 있어 부적절”</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/31/RSZEIXJ7ZJCQLF2GCVSAF2IPXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/31/RSZEIXJ7ZJCQLF2GCVSAF2IPXI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 08:41:47 +0000</pubDate>
-      <content:encoded>대법원에 올라간 양승태 전 대법원장 등의 ‘사법 행정권 남용’ 사건 담당 재판부가 최근 교체된 것으로 나타났다. 당초 사건을 맡았던 재판부가 피고인들과의 근무 연(緣)을 이유로 심리를 맡기 어렵다는 뜻을 밝히면서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4GMMZXMZTDGZJYGZSWKOBVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 대법원은 지난 30일 양 전 대법원장과 박병대·고영한 전 대법관의 상고심 사건을 3부에서 2부로 재배당했다. 대법원 2부는 박영재·오경미·권영준·엄상필 대법관으로 구성돼 있다. 주심은 이들 중 엄상필 대법관으로 지정됐다.&lt;br&gt;&lt;br&gt;당초 사건을 배당받은 대법원 3부는 “피고인들과 근무 연이 있어 심리를 맡는 것이 적절하지 않다”며 법원에 재배당을 요청한 것으로 전해졌다. 과거 함께 근무한 이력이 있는 재판부가 사건을 심리할 경우 공정성에 대한 오해가 제기될 수 있는 점을 고려한 것으로 보인다.&lt;br&gt;&lt;br&gt;실제로 피고인 3명은 모두 법원행정처 주요 보직을 거치며 현직 대법관들과 근무 시기가 일부 겹친다. 박 전 대법관이 2006년 1월부터 2009년 2월까지 법원행정처 기획조정실장으로 재직할 당시 이숙연 대법관은 같은 기조실 소속 판사(2006년 2~12월)와 정보화심의관(2007년 1월~2008년 2월)으로 근무했다. 오석준 대법관도 박 전 대법관 기조실장 재직 시절 2008년 2월부터 2010년 2월까지 행정처 공보관을 지냈다.&lt;br&gt;&lt;br&gt;이 외에도 양 전 대법원장은 2003년 2월부터 9월까지 행정처 차장을 지냈다. 고 전 대법관은 2011년 11월부터 2012년 8월까지 행정처 차장을 거쳐 2016년 2월부터 2017년 5월까지 행정처장을 역임한 바 있다.&lt;br&gt;&lt;br&gt;양 전 대법원장과 박 전 대법관은 직권남용 등 혐의로 기소돼 1심에서 무죄를 선고받았으나, 지난 1월 항소심에서 일부 유죄가 인정돼 각각 징역 6개월에 집행유예 1년이 선고됐다. 고 전 대법관은 항소심에서도 무죄를 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 헌재, 두 차례 재판소원 사전 심사서 48건 모두 각하... 전원재판부 회부 없어</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/31/BLGB4YASB5G7JCWQ3QBTOH45YI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/31/BLGB4YASB5G7JCWQ3QBTOH45YI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 08:17:35 +0000</pubDate>
-      <content:encoded>헌법재판소는 31일 재판소원 사건 22건에 대한 사전 심사를 진행한 뒤 모두 각하(却下)했다고 밝혔다. 각하는 소송 요건을 갖추지 못한 사건을 심리하지 않고 종료하는 결정이다. 헌재는 지난 24일 첫 사전 심사를 열고 심사 대상이었던 26건을 모두 각하한 바 있다. 총 48건이 사전 심사의 문턱을 넘지 못한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TDSNJXGQZDGY3FGZSGEZJUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 이날 재판관 3명으로 구성된 ‘지정재판부’에서 사건이 법적 요건을 갖췄는지 심사했다. 지난 12일 제도가 시행된 뒤 전날까지 헌재에는 총 256건의 사건이 접수됐는데, 지정재판부는 지난 24일 26건을 각하한 뒤, 이날 22건을 추가로 각하한 것이다. 전원재판부에 회부된 사건은 없다고 헌재는 밝혔다.&lt;br&gt;&lt;br&gt;헌재는 ‘재판소원 1호’ 사건인 시리아 국적 외국인의 강제퇴거명령 취소소송 관련 사건을 이날 각하했다고 밝혔다. 이 사건은 시리아 국적인 A씨가 당국의 강제퇴거명령과 보호명령을 취소해달라며 낸 소송에서 패소한 게 발단이 됐다. 대법원은 지난 1월 8일 A씨 패소를 확정했고, A씨는 지난달 12일 재판소원 제도 시행 첫날 헌법소원을 냈다.&lt;br&gt;&lt;br&gt;그러나 헌재는 A씨가 청구 기간을 넘겨 재판소원을 제기했다고 보고 각하한 것이다. 헌재는 “청구인은 청구 기간을 준수하지 못했고, 기간을 넘겨 청구한 것에 대해 정당한 사유가 인정된다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;헌재는 또 A씨의 재판소원에 정당한 청구 사유가 없다고 봤다. A씨의 주장은 단순한 재판 결과 불복일 뿐이어서 법원이 재판 과정에서 기본권을 침해했다고 보기 어렵다는 것이다.&lt;br&gt;&lt;br&gt;헌재는 다른 사건에서도 ‘단순한 재판 결과 불복’은 정당한 재판소원 청구 사유가 아니라고 판시했다. 장인과 장모를 폭행한 혐의로 징역형 집행유예가 확정된 B씨는 지난 12일 “자신이나 배우자의 부모를 폭행한 경우 일반 폭행죄보다 2배 이상 무겁게 처벌하도록 한 형법상 존속폭행죄는 위헌”이라며 자신의 확정 판결을 취소해달라는 재판소원을 청구했다.&lt;br&gt;&lt;br&gt;헌재는 “청구인은 법원이 증거 능력 없는 자백을 유죄의 증거로 삼아 기본권을 침해했다고 주장하지만, 이는 재판 결과에 대한 단순한 불복에 불과하다”고 판단했다. 또 “청구인의 주장만으로는 법원이 존속 폭행 관련 조항의 위헌성에 대해 합리적 의심 없이 재판에 적용하거나, 위헌적 해석을 했다는 점이 충분히 소명되지 않는다”며 B씨 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;한편 헌재는 오는 6월까지 재판소원 사건에 대한 지정재판부 결정문을 홈페이지에 공시한다고 밝혔다. 지정재판부 결정은 의무 공시 대상이 아니지만, 높은 관심을 고려해 한시적으로 공개한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>뉴욕 왕복에 100만원?... 5월 유류할증료 ‘사상 최고’ 예약</title>
@@ -953,24 +971,6 @@ e스포츠 리그 오브 레전드 부문은 오는 26일 예선전을 시작으
       <description/>
       <pubDate>Tue, 31 Mar 2026 07:10:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4DCNLGMZSWKMRUGMZGCNBYGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 카페에서 직원이 일회용 플라스틱 컵에 커피를 담고 있다. 기사와 관련 없음./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주의 한 프랜차이즈 카페 아르바이트생이 음료 3잔을 무단 제조해 가져간 혐의로 점주에게 고소당한 사건과 관련해 고용노동부가 해당 카페에 대한 기획 감독에 착수했다.&lt;br&gt;&lt;br&gt;노동부는 해당 지점에 대한 직장 내 괴롭힘 사건이 접수됐고, 언론과 온라인 커뮤니티 등을 통해 주목받고 있는 사건인 만큼 각종 노동 관계법 위반 여부 등을 들여다볼 예정이라고 31일 밝혔다. 이번 감독을 통해 임금 체불, 임금 전액 지급 위반, ‘사업장 쪼개기’를 통한 연장·야간·휴일 근로 수당 미지급 여부 등을 집중 점검할 방침이다.&lt;br&gt;&lt;br&gt;사건의 발단은 아르바이트생 A씨가 지난해 10월 퇴근하며 아이스 아메리카노 등 음료 3잔(1만2800원 상당)을 챙겼다는 이유로 점주에게 업무상 횡령 혐의로 고소당하면서 시작됐다. A씨는 유튜브 채널 ‘저널리스트’에서 “음료는 모두 제조 실수로 인한 폐기 처분 대상이었다. 평소 폐기 처분 대상은 직원들이 알아서 처리해 왔고, 점주도 이를 용인하는 분위기였다”고 주장했다. 반면 점주 측은 조선닷컴에 “폐기 처분 대상 음료에 대해서도 돈을 지불해야 한다고 직원들에게 고지해 왔다”며 “내부 지침을 보더라도 음료를 마음대로 처분해도 된다는 조항은 없다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 횡령액이 소액이지만 점주가 엄벌을 탄원하고 A씨가 범행을 부인한다는 이유로 사건을 불구속 송치한 것으로 알려졌다. 이 소식이 알려지자 온라인에서는 점주를 향한 비판과 함께 해당 매장에 대한 불매 운동까지 벌어지고 있다.&lt;br&gt;&lt;br&gt;하지만 점주들은 억울하다는 입장이다. B 매장 점주는 A씨가 5개월간 근무하며 지인들에게 35만원 상당의 음료를 무료로 제공하고 고객 포인트를 대리 적립하는 등 큰 손해를 끼쳤다고 주장했다. 점주 측은 “피해자인 점주가 되레 가해자가 돼 큰 피해를 보는 상황”이라며 “피해 점주는 아르바이트생을 상대로 어떠한 협박을 한 적도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 연합뉴스에 “B 매장에서도 일체 무단으로 음료를 제공한 적이 없으며, 당시에는 강요와 협박에 의해 어쩔 수 없이 반성문을 쓰고 합의했던 것”이라며 “공무원을 희망하는 저의 상황을 악용해 없는 죄를 실토하게 했다”고 반박했다.&lt;br&gt;&lt;br&gt;본사인 더본코리아 측은 조선닷컴에 “본사에서는 개인사업자와 개인간 개별 분쟁 소송에 직접 개입할 수 없는 상황”이라며 “사법기관을 통해 확인되는 결과를 지켜볼 계획”이라고 전했다.&lt;br&gt;&lt;br&gt;노동부는 청주 지역 카페 사업장에 대한 추가 감독을 실시하고, 향후 전국 베이커리 카페와 숙박·음식점 등으로 감독을 확대할 계획이다. 김영훈 노동부 장관은 “20대 사회 초년생인 청년 아르바이트생이 겪어왔을 부담감을 생각하면 가슴이 아프다”며 “노동시장에 처음 진입하는 사회 초년생은 우리 사회가 함께 보호해야 할 대상”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이혼소송 중 아내 살해하고 야산에 유기하려던 60대 男 체포</title>
-      <link>https://www.chosun.com/national/national_general/2026/03/31/FYUEZDN35ZEBNFJNTLB4JF5PEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/03/31/FYUEZDN35ZEBNFJNTLB4JF5PEI/</guid>
-      <dc:creator>조민희 기자, 이나윤 기자, 지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 02:27:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OW75EDVNDQAPXGFCIOXD52K22M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 소송을 진행하던 중 아내를 살해한 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 50대 아내를 살해하고 그 시신을 유기하려던 60대 남성 A씨를 지난 30일 오후 5시쯤 충북 음성군의 한 야산 배수로에서 긴급 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 같은 날 오전 11시 20분쯤 서울 서초구의 한 아파트에서 50대 아내를 살해한 뒤 시신을 유기하려 한 혐의를 받는다. A씨는 아내와 이혼 소송을 진행 중이었으며 여행용 가방에 넣은 아내의 시신을 차량으로 음성군까지 옮긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 부모님과 연락이 안 된다는 A씨 아들 신고를 받고 위치를 추적한 끝에 그를 붙잡았다고 한다. A씨는 검거 당시 혐의를 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨에게 가정폭력 신고 이력은 없으며 시신을 훼손한 정황은 발견되지 않았다고 한다.&lt;br&gt;&lt;br&gt;정확한 사건 경위를 조사 중인 경찰은 A씨에 대한 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“가해자 누군지도 모르는데…” 포기하려던 주차장 직원, 법률구조공단 도움으로 배상 받아</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/31/FFC2PNF2LRBZVATLCPV3VQAIFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/31/FFC2PNF2LRBZVATLCPV3VQAIFM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 01:17:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PR4QNT3FHZ444JN7J6AC4R5VAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주차요금 정산소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;춘천의 한 주차요금 정산소 직원이 폭행 피해를 입고도 가해자의 신원을 몰라 소송을 포기하려다 대한법률구조공단의 도움으로 배상금을 받아냈다.&lt;br&gt;&lt;br&gt;강원 춘천시의 주차요금 정산소에서 근무하던 A씨는 2023년 10월 주차장을 이용하던 B씨와 요금문제로 실랑이를 벌였다. B씨가 복지카드 없이 장애인 요금 할인을 요구하자, A씨가 규정상 불가능하다고 설명하는 과정에서 갈등이 빚어졌다. B씨는 차에서 내려 철제 지팡이를 휘둘렀고, A씨는 전치 2주의 상해를 입어 치료비 약 15만5000원을 냈다. 이후 B씨는 특수폭행 혐의로 벌금 50만원의 약식명령을 받았다.&lt;br&gt;&lt;br&gt;하지만 A씨는 이후에도 통증이 남아 일상생활에 불편을 겪었다. 근무 중 장애인 할인 요구를 받으면 그날이 떠올라 불안과 괴로움에 시달려야 했다.&lt;br&gt;&lt;br&gt;문제는 소송이었다. A씨는 일면식도 없는 B씨의 인적사항을 알 길이 없었다. 피해 금액도 크지 않아 소송 비용과 절차 부담이 더 클 것 같아 포기하려 했다. 그러다 대한법률구조공단 문을 두드렸다.&lt;br&gt;&lt;br&gt;공단은 형사사건 기록을 토대로 수사기관에 사실조회 신청을 해 B씨의 신원을 확인한 뒤, 치료비와 위자료 총 115만원의 손해배상 소송을 청구했다. 이후 병원 진료기록과 진술서 등을 통해 폭행 사실과 손해 발생 사실의 인과관계를 입증했다. &lt;br&gt;&lt;br&gt;사건을 심리한 춘천지법(재판장 이근영)은 지난해 12월 “가해자 B씨는 A씨에게 50만원을 배상하라”는 내용의 화해권고결정을 내렸다. 재판부는 2026년 1월부터 5월까지 매월 10만원씩 분할 지급하되 이를 지키지 않을 경우 남은 금액과 지연손해금을 함께 지급하도록 했다.&lt;br&gt;&lt;br&gt;이번 소송을 맡은 공단 소속 정혜진 변호사는 “범죄 피해자가 가해자의 신원을 알지 못하거나 피해 금액이 소액이라는 이유로 권리 구제를 포기하는 경우가 많다”며 “공단의 무료 법률구조 제도를 통해 소송 절차를 진행하면 비용이나 절차에 대한 부담 없이 피해 회복이 가능하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
