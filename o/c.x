@@ -13,6 +13,112 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>호감 거부하자 집착… 창원 20대女 살해한 30대 ‘스토킹’ 정황</title>
+      <link>https://www.chosun.com/national/regional/2026/04/02/AS2ENZX2UJFENNBKKD6TPQWPYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/02/AS2ENZX2UJFENNBKKD6TPQWPYI/</guid>
+      <dc:creator>김주영 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 04:32:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAUYU2LCNBJ4BJBOL4K2ESIMUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 오전 11시 36분께 창원시 성산구 한 아파트 인근 주차장에서 발생한 흉기 난동 현장. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원에서 30대 남성이 20대 여성에게 흉기를 휘둘러 숨지게 한 뒤 자해한 사건과 관련해 남성이 범행 전 여성을 스토킹한 정황이 드러났다.&lt;br&gt;&lt;br&gt;2일 경남경찰청에 따르면, 수사팀은 30대 A씨가 피해자 B씨를 지속적으로 스토킹한 정황을 확인하고, 계획 범죄 가능성에 무게를 두고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;사건은 지난달 27일 오전 창원시 성산구 상남동 한 아파트 출입구에서 발생했다. “남성이 여성을 흉기로 찔렀고, 남성도 쓰러져 있다”는 행인의 신고를 받고 출동한 경찰은 인근 상가 주차장에서 피를 흘리며 쓰러져 있던 A씨와 B씨를 발견했다. 두 사람은 병원으로 옮겨졌으나 모두 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨에게 흉기를 휘두른 뒤 자해한 것으로 보고 있다. 흉기에 찔린 B씨가 주변에 도움을 요청하려고 현장을 벗어나자 A씨가 뒤따라갔고, 두 사람 모두 상가 주차장에서 쓰러진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 과거 직장 동료였던 것으로 확인됐다. B씨는 지난 1월 직장을 그만뒀고, A씨는 범행 당일 퇴사 의사를 밝힌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;휴대전화 포렌식 결과, 두 사람은 지난해 10월 같은 직장에 근무하며 호감을 갖고 한 달여 연락을 주고받았다. 이후 B씨가 연락을 끊었지만 A씨가 집착을 보였고, B씨는 1월 퇴사한 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨의 퇴사 이후에도 집착을 이어가며 지난달 초까지 위협적인 문자 메시지를 수차례 보낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;사건 당일 A씨는 범행 약 3시간 전 B씨의 주거지를 찾아가 집을 나오던 B씨와 대화한 후 함께 택시를 타고 자신의 거주지 인근 아파트로 이동한 것으로 파악됐다. 주차장에서 2시간가량 대화를 나누던 A씨는 미리 준비한 흉기로 B씨를 찌른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “자신을 거부한 데 따른 배신감과 과도한 집착 등이 범행 동기로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;한편, B씨는 A씨에게 신변을 위협하는 취지의 내용이 담긴 연락을 받은 뒤 지난달 5일 창원중부경찰서를 찾아 상담을 받았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;그는 ‘한때 연락하던 남성이 계속 연락한다’는 취지로 10분가량 상담했다. 다만 구체적인 피해 진술을 하지 않았고, 보호 조치는 이뤄지지 않았다. 경찰 관계자는 “B씨가 ‘A씨에게 한 번 더 연락이 오면 신고하겠다’는 의사를 밝혔으나, 당시 A씨의 인적 사항 등은 알려주지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 주변인 조사 등을 통해 정확한 범행 동기를 확인 중이지만, 두 사람 모두 사망해 규명에 한계가 있을 것으로 보고 있다. &lt;br&gt;&lt;br&gt;A씨가 숨지면서 사건은 ‘공소권 없음’으로 종결될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“산소마스크에 산소 연결 안돼”…대한항공 ‘美승객 사망’ 소송당해</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/7LHMWN2RLRH7RM57FM2GU4ONKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/7LHMWN2RLRH7RM57FM2GU4ONKM/</guid>
+      <dc:creator>정채빈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 02:28:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2XQ7USJBVMTPFIBSS3RNIU5S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 인천국제공항에서 항공기가 이륙하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한항공이 국제선 기내에서 미국인 승객이 사망한 사고와 관련해 손해배상 소송에 휘말렸다. 유족 측은 사고 당시 산소 마스크에 산소통도 연결되지 않았다는 등 승무원들이 응급 조치를 제대로 취하지 않았다고 주장했다. 이에 대해 대한항공 측은 “현지 법적 절차에 성실히 대응할 것”이라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;지난달 30일(현지 시각) 영국 인디펜던트는 미국 워싱턴 D.C.에서 한국 서울로 향하는 대한항공 KE94편 기내에서 숨진 포르샤 티니샤 브라운(사망 당시 33세)의 유족들이 대한항공 측에 제기한 소송 내용과 인터뷰를 단독 보도했다. &lt;br&gt;&lt;br&gt;사고는 2024년 3월 29일에 발생했다. 당시 미 국방부 소속 민간인 직원인 브라운은 친구 3명과 함께 휴가를 떠나기 위해 해당 항공기에 올랐다. &lt;br&gt;&lt;br&gt;보도에 따르면 약 15시간 30분간의 비행 일정 중 12시간이 지났을 때쯤 브라운은 화장실에 갔다가 호흡곤란을 호소하며 바닥에 쓰러졌다. 기내에서 의료진을 찾는 방송이 나오자 이를 이상하게 여긴 동행인들은 브라운이 있는 쪽으로 갔다. 당시 브라운은 가슴을 움켜쥔 채 “숨을 쉴 수 없다”고 반복해서 말했다고 한다.&lt;br&gt;&lt;br&gt;유족 측은 사고 당시 여러 승객이 몰려와 도왔지만 승무원들은 당황하거나 상황을 바라보기만 하고, 무언가 메모를 하는 등 행동을 보였다고 주장했다. 소장에 따르면 승무원들이 쓰러진 브라운에게 산소 마스크를 씌웠으나 호흡곤란 증상은 나아지지 않았다. 여러 승객이 모여들어 응급 처치를 시도하고, 승무원이 의료 키트를 가져와 에피네프린을 투여했지만 브라운의 의식은 희미해져 갔다.&lt;br&gt;&lt;br&gt;이후 승무원이 자동심장충격기(AED)를 가져왔다. 그러나 AED는 제대로 사용되지 못했다. 유족 측은 승무원들이 AED 사용법에 대한 교육을 받았음에도 아무 조치를 취하지 않았고 어떠한 지시도 내리지 않았다고 주장했다. 소장에 따르면 기계에서 여러 차례 ‘충격 필요’라는 음성 안내가 나왔지만 AED 사용법을 몰랐던 승객들은 ‘충격’ 버튼을 눌러야 한다는 것을 알지 못했고, 그 결과 전기 충격이 시행되지 않았다.&lt;br&gt;&lt;br&gt;결국 항공기는 일본 오사카로 방향을 돌렸다. 브라운은 현지 병원으로 옮겨졌지만 사망 판정을 받았다. 일본 사망진단서에는 브라운의 사인이 ‘급성 심부전’으로 기재된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;유족 측은 “승무원들이 적절한 조치를 취했다면 브라운이 사망 전 극심한 신체적, 정신적 고통을 겪지 않았을 것”이라고 했다. 이어 “비행기가 비상 착륙한 뒤에야 (브라운의 동행자들은) 승무원들이 산소 마스크에 산소 탱크를 연결하지 않았다는 것을 알게 됐다”며 “승객들이 필사적으로 브라운의 생명을 구하려 했던 동안 브라운은 대한항공이 제공한 산소 탱크로부터 보조 산소를 전혀 공급받지 못했다”고 주장했다. &lt;br&gt;&lt;br&gt;이와 관련해 대한항공 측은 조선닷컴에 “당시 절차에 따라 최선을 다해 현장 대응했다”며 “대한항공은 현지 법적 절차에 성실히 대응할 것이고, 현재 소송이 진행 중인 사안으로 관련 세부적인 내용은 확인이 어려운 상황”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 배상액은 배심원단에 의해 결정될 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 압구정·여의도·목동·성수 토지거래허가구역 1년 연장</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/YB5ZI6A5XJAM3KIVOODDBKVHZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/YB5ZI6A5XJAM3KIVOODDBKVHZ4/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 04:21:03 +0000</pubDate>
+      <content:encoded>서울 압구정·여의도·목동·성수 지역의 재건축·재개발 단지들의 토지거래허가구역으로 재지정됐다. 투기성 거래를 차단하고 실수요자의 주거 안정을 보호하기 위한 조치다.&lt;br&gt;&lt;br&gt;서울시는 지난 1일 제5차 도시계획위원회를 열고 압구정·여의도·목동·성수 지역 주요 재건축·재개발단지에 대한 토지거래허가구역 재지정을 의결했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;대상 지역은 강남구 압구정 아파트지구, 영등포구 여의도 아파트지구, 양천구 목동 택지개발사업 아파트단지, 성수동 성수전략정비구역 등 총 4.6㎢ 규모다. 해당 지역들은 지난 2021년 4월 토지거래허가구역으로 처음 지정됐으며, 내년 4월 26일까지로 지정 기간이 연장된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4YC64ARKFFZJI75DMJLEFOZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토지거래허가구역 재지정 위치. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토지거래허가구역으로 지정되면 주거지역 6㎡, 상업·공업지역 15㎡를 초과하는 토지를 거래할 때 구청장의 허가를 받아야 한다. 실거주 목적이 아닌 갭투자 등 투기성 거래는 사실상 제한된다.&lt;br&gt;&lt;br&gt;용산구 후암동 30-2와 후암동 264-11 일대 신속통합기획 재개발지 2곳은 사업구역 확대에 맞춰 허가구역 경계를 조정했다. 각각 지정 면적은 10만3900㎡에서 10만6589㎡, 8만2172㎡에서 8만7020㎡로 확대됐지만 허가 기준 면적과 지정 기간은 기존과 동일하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUFHWADD2VCWZA5QXBYUAUJ4AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토지거래허가구역 조정 위치. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “앞으로도 시장 상황을 면밀히 살펴 실수요자 보호와 건전한 부동산시장 조성을 위해 최선의 노력을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢 “한덕수, 대선 출마 결심하고 150만원 기부” 韓측 “출마 선언 직전 결심... 권한대행 통상 직무” 법정 공방</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/02/BBDXR2N7OVAS3APQBBHCVUK2FE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/BBDXR2N7OVAS3APQBBHCVUK2FE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 02:25:26 +0000</pubDate>
+      <content:encoded>광주광역시의 ‘1000원 식당’에 150만원을 후원해 공직선거법 위반 혐의로 기소된 한덕수 전 국무총리 측이 2일 첫 정식 재판에서 “대통령 권한대행으로써 통상적인 기부를 했을 뿐”이라며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZWEZBSMQYWKYRYG4ZTCY3CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 총리 측은 이날 서울중앙지법 형사22부(재판장 조형우) 심리로 열린 공직선거법 위반 혐의 재판에서 이 같이 주장했다. 한 전 총리는 윤석열 전 대통령 탄핵으로 조기 대선 실시가 확정된 뒤인 작년 4월 15일 광주의 ‘해뜨는 식당’에 150만원을 기부한 혐의를 받는다. 이 식당은 소외계층을 대상으로 1000원 백반을 판매하는 곳이다. 한 전 총리는 총리실 관계자로부터 격려금 전달을 건의받은 뒤 이를 수락하고, 해뜨는 식당에 식재료를 납품하는 매장들에 기부한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰 측은 “피고인은 당시 여론조사 등에서 유력한 대선 후보로 주목받고 있었고, 작년 5월 2일엔 대선 출마를 선언했다”며 “대통령 선거의 ‘후보자가 되고자 하는 자’인데도 선거구 안에 있는 자에게 기부 행위를 했다”고 주장했다.&lt;br&gt;&lt;br&gt;반면 한 전 총리 측은 “격려금 기부 당시 대선 출마 의사가 없었다”며 맞섰다. 한 전 총리 측은 “후보자가 되고자 하는 자로 인정되려면 출마 의사와 관련한 객관적 징표가 있어야 한다는 게 대법원의 일관된 판례”라며 “기부 전후로 피고인은 ‘대통령의 대자도 꺼내지 말라’고 주변에 이야기할 정도였다”고 했다. 대선 출마는 출마 선언 직전인 작년 4월 말에서야 결심했다는 게 한 전 총리 측 주장이다. 한 전 총리 측은 또 “문제가 된 기부 행위는 대통령 권한대행으로서의 통상적 직무 행위”라며 “사회상규에 위배되지 않는 정당 행위여서 위법성이 조각된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “대법원 판례를 살펴보면, 후보자가 되고자 하는 자는 선거 출마를 위해 정당에 공천을 신청하거나, 후보자로 추천받기 위한 활동을 벌이는 경우에 해당한다”며 “선거에 입후보할 의사가 있었다는 점이 객관적으로 입증돼야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“멜론빵에서 인분 냄새가?”...실수로 ‘두리안’ 넣었다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/V3TDTZTSDJDS5H3IRCSWAX4FR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/V3TDTZTSDJDS5H3IRCSWAX4FR4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 01:36:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SZVBIHR3FATTEHB37PIRQNU7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;악취 민원이 제기된 편의점 멜론 크림빵에 두리안 향료가 포함된 것으로 밝혀졌다./채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;편의점 인기 상품인 멜론빵에서 하수구와 인분 냄새 같은 악취가 난다는 항의가 잇따른 가운데, 조사 결과 멜론 향료 대신 지독한 냄새로 유명한 두리안 향료가 잘못 들어간 것으로 드러났다. &lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티와 소셜미디어(SNS)에는 멜론빵에서 정체불명의 악취가 난다는 게시글이 줄을 이었다. 네티즌들은 “빵에서 이상한 냄새 난다. 상한 건 아닌데, 복불복으로 두리안빵 넣은 거냐” “저도 편의점에서 빵을 샀는데, 타이어 탄 냄새 같은 악취가 너무 심하게 나서 바로 음식물쓰레기통에 버렸다. 진짜 냄새가 너무 심해서 문의도 넣었다” “하수구 냄새 나서 깜짝 놀랐다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;업체 공식 홈페이지에도 멜론빵 환불·교환을 요구하는 민원이 지난달 23일부터 올라왔다. 소비자들은 문의 게시판에 “멜론 크림빵에서 화학약품 냄새가 난다” “역한 하수구 냄새가 난다” “품질이 우려된다” 등 글을 남겼다.&lt;br&gt;&lt;br&gt;확인 결과, 빵을 만드는 공장에서 멜론향 대신 두리안향 첨가물을 넣은 것으로 파악됐다. 제조 공장 측은 지난달 31일 공식 입장을 통해 “향료 업체가 두리안 향료를 멜론 향료로 잘못 표기해 공급했다”고 알렸다. &lt;br&gt;&lt;br&gt;이어 “두리안 향료는 멜론 계열 향을 기반으로 특정 발효취가 더해진 특성이 있어, 원료 식별 과정에서 충분히 확인하지 못하고 사용한 것이 원인”이라고 설명했다. 이 두리안향 크림빵은 시중에 약 2만개가 풀린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;업체 측은 해당 물량을 전량 회수했으며, 현재는 정상 제품만 판매 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;흔히 ‘과일의 왕’이라 불리는 두리안은 썩은 고기 냄새와 비슷한 악취가 나는 것으로 알려졌다. 이 때문에 산지에서는 호텔이나 공공 교통수단 내에서 두리안을 먹는 것이 금지되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천공항 2여객터미널 인근에서 버스 넘어져… 운전자 부상</title>
+      <link>https://www.chosun.com/national/incident/2026/04/02/4ZKR42F7HZC2XAGIAIOGFY2TCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/02/4ZKR42F7HZC2XAGIAIOGFY2TCU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 02:15:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWWLMKYIDZABZMKYY6AQFUOSBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 6시 31분쯤 시외 버스가 옆으로 넘어지는 사고가 발생한 인천국제공항 제2여객터미널 인근 도로./인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항 제2여객터미널 인근 도로에서 시외버스가 옆으로 넘어져 운전자가 다쳤다. &lt;br&gt;&lt;br&gt;2일 인천소방본부에 따르면, 이날 오전 6시 31분쯤 인천 중구 운서동 인천공항 제2여객터미널 인근 도로에서 시외버스가 옆으로 넘어지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 50대 운전자가 경상을 입었다. 운전자는 깨진 유리창 사이로 밖으로 나왔다. 사고 당시 버스는 운전자 외에 다른 승객은 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 버스는 제2여객터미널에 승객을 내려준 뒤 터미널을 벗어나는 길에 사고가 난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 운전 부주의로 버스가 도로 옆에 있는 배수로에 빠져 사고가 난 것으로 보고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QSVHVZ3K5NGXHO23MZPFZ5CK2M.jpg?auth=d630880916355af0ca421a9ff4efb1d3a30810d16365b10f31c21f87e0e0af36&amp;smart=true&amp;width=665&amp;height=374" type="image/jpeg" height="374" width="665">
+        <media:description type="plain">2일 오전 6시 31분쯤 시외 버스가 옆으로 넘어지는 사고가 발생한 인천국제공항 제2여객터미널 인근 도로./인천소방본부</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘대전 초등생 살해’ 교사 명재완, 무기징역 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/02/O2OLTGUNWVEP3GHECB7KTBU7IM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/O2OLTGUNWVEP3GHECB7KTBU7IM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 01:28:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN2XNCECRFD4BIUZKDIZJDSEOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 초등학교에서 8세 김하늘양을 흉기로 잔혹하게 살해한 교사 명재완(49)씨에게 무기징역이 확정됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 2일 특정범죄가중처벌법상 영리약취·유인, 폭행, 공용물건손상 등 혐의로 기소된 명씨의 상고심에서 무기징역을 선고하고 위치추적 전자장치 30년 부착 명령을 내린 원심을 확정했다.&lt;br&gt;&lt;br&gt;명씨는 지난해 2월 10일 자신이 재직하던 대전 서구의 한 초등학교 돌봄교실에 남아 있던 하늘양을 유인해 미리 준비한 흉기로 수십 차례 찔러 살해한 혐의 등을 받았다.&lt;br&gt;&lt;br&gt;1·2심은 잇따라 무기징역을 선고했다. 이에 명씨 측은 범행 당시 “심신미약 상태에 있었다”며 선고된 형이 너무 무거워 부당하다며 상고했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이를 받아들이지 않았다. 대법원은 “피고인이 심리적으로 가깝게 느낀 인물을 범행 대상에서 배제한 점, 미리 계획한 바에 따라 범행한 점, 범행 후 범행을 은폐하려는 행위를 한 점, 범행 과정을 상세히 진술한 점 등을 종합하면 범행 당시 심신미약 상태에 있었다고 볼 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;양형에 대해서도 “피해자를 보호해야 할 초등학교 교사의 지위에 있으면서 학교에서 7세의 피해자를 살해했다”며 “범행을 사전에 치밀하게 계획하고 도구를 미리 준비한 점, 범행 방법이 잔인하고 포악한 점 등을 종합하면 무기징역이 너무 무거워 부당하다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘8억대 뇌물’ 전준경 前 민주연 부원장, 징역 3년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/02/3Y5NQDB7VRCOVKF52ZOACZBGTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/3Y5NQDB7VRCOVKF52ZOACZBGTU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 01:26:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRDSNJSHA4WGMRRMJSTAOJXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전준경 민주연구원 전 부원장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백현동 개발업자 등으로부터 8억원대 금품을 받은 혐의로 기소된 전준경(61) 전 민주연구원 부원장에게 실형이 확정됐다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 1일 특정범죄가중처벌법상 알선수재와 뇌물수수 혐의를 받는 전씨에게 징역 3년에 벌금 5200만원, 추징금 8억808만원을 선고한 원심을 확정했다. 전씨는 2015~2018년 권익위원회 비상임위원, 2020년 용인시정연구원장을 거쳐 2021년 더불어민주당 싱크탱크인 민주연구원 부원장을 지낸 인물이다.&lt;br&gt;&lt;br&gt;전씨는 2015년 7월부터 2023년까지 부동산 개발업체 7곳에서 권익위 고충 민원 해결과 지자체 인허가 알선 명목으로 7억8208만원 상당의 금품과 고급 승용차를 받아 챙긴 혐의(알선수재)를 받았다. 또 2017년 경기 안산시 ‘신길온천’ 개발 사업과 관련해 업체 고충 민원을 수용하는 내용의 시정권고 의결을 주도하고, 이후 사후 관리 등을 명목으로 업체 대표에게서 2600만원을 받은 혐의(뇌물)도 있었다.&lt;br&gt;&lt;br&gt;수사 결과 그는 ‘백현동 개발 비리’ 의혹의 핵심 인물인 정바울 아시아디벨로퍼 회장으로부터 경기 용인시 ‘뉴스테이’ 사업 관련 인허가 알선 대가로 자신의 직원을 정 회장 업체에 허위 등록시켜 급여 명목으로 약 1억360만원을 받고 7600만원 상당의 제네시스 차량을 제공받아 사용한 것으로 나타났다. 철도 차량 부품 업체로부터 비위 면직자 취업 제한 규정 위반 문제를 해결해 주겠다며 1억4000만여 원을 받은 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 1심 재판부는 전씨 혐의를 대부분 유죄로 인정해 징역 2년 6개월과 벌금 5200만원, 추징금 8억808만원을 선고하고 법정 구속했다. 2심 서울고법 재판부는 “전씨가 공적 지위를 이용해 업체들로부터 거액의 대가를 받았음이 명백하다”며 1심보다 무거운 징역 3년을 선고했다. &lt;br&gt;&lt;br&gt;2심 재판부는 특히 ‘정당한 고문 자문료’를 받은 것이라는 전씨 주장에 대해 “자문 행위가 합계 8억원에 해당한다고 보기 어렵고, 공적 지위에 있지 않았다면 업체들이 돈을 지급할 이유가 없었다”고 지적했다. 또 “권익위 위원 등 공적인 지위를 사적인 경제적 이익을 취하는 수단으로 악용했다”며 “이는 공무원 직무의 공정성에 정면으로 반해 죄질이 매우 불량하다”고 했다.&lt;br&gt;&lt;br&gt;전씨는 상고했으나 이날 대법원도 “원심의 판단에 필요한 심리를 다하지 않은 채 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 뇌물수수죄의 직무관련성, 알선수재죄에서의 알선의 대가, 고의 등에 관한 법리를 오해한 잘못이 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갑자기 끼어들어 불법 유턴 시도하다 ‘쾅’… 통근버스 추락 블랙박스 보니 </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/EBHKJQI5WVEM7ORJPZGCO5OQEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/EBHKJQI5WVEM7ORJPZGCO5OQEE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 01:15:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMXTBLQNEZFBTO37DZY3DTJXCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 발생한 충북 음성 통근버스 추락 사고 ./ 온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 충북 음성에서 논으로 추락한 통근 버스의 사고 영상이 공개됐다. 이 버스는 주행 중 갑자기 앞에 끼어들어 불법 유턴을 시도한 승용차와 충돌하면서 피해를 봤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOEY27BYVJHH7KAENEY55S6LUM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 발생한 충북 음성 통근버스 추락 사고 ./ 온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 온라인 커뮤니티 등에는 이 같은 사고 장면이 담긴 블랙박스 영상이 확산됐다. 영상을 보면 왕복 4차선 도로에서 길가에 정차해 있던 한 승용차는 1차로에 진입하더니 곧바로 중앙선을 침범해 불법 유턴을 시도한다. 영상에는 버스가 뒤에서 달려오는 소리도 담겼다. &lt;br&gt;&lt;br&gt;1차로에서 달려오던 버스는 멈추지 못하고 승용차를 들이받았다. 충돌 후 버스는 반대 차선으로 넘어가더니 도로를 벗어나 가드레일을 뚫고 아래로 추락한다. &lt;br&gt;&lt;br&gt;버스는 약 3m 아래 논바닥으로 굴러 떨어진 후 전복되지 않고 정자세로 멈춰 선 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJTDCZRZHAYGKZTFHA3DGNBSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음성 원남면 통근버스 사고 현장./충북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고는 전날 오전 7시 40분쯤 음성군 원남면의 한 도로에서 발생했다. 사고 차량은 대기업 계열사인 식품 제조 업체의 45인승 통근버스로, 당시 버스 안에는 운전자를 포함해 24명이 타고 있었다. 탑승자 전원은 중경상을 입었으며, 이 중 40대 2명은 열상과 가슴 통증을 동반한 호흡곤란으로 대학 병원 등으로 긴급 이송됐다. &lt;br&gt;&lt;br&gt;20대 승용차 운전자도 다쳐 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;음성군은 사고가 발생한 도로를 대상으로 정밀 안전 진단을 해 가드레일 보강 등 안전조치를 강화할 계획이다. 경찰은 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OOEY27BYVJHH7KAENEY55S6LUM.gif?auth=833832252c5907aaee01e76135557245c49e76279e873b5df051d9cb01860c4c&amp;smart=true&amp;width=728&amp;height=498" type="image/jpeg" height="498" width="728">
+        <media:description type="plain">지난 1일 발생한 충북 음성 통근버스 추락 사고 ./ 온라인 커뮤니티</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김병기 차남 경찰 출석…“부자 같이 조사하는 게 어딨나”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/DA2DW4LAVND67M2ACBCVFNAQ2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/DA2DW4LAVND67M2ACBCVFNAQ2I/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 01:34:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHTCE7U2GJNENJEIVX2EBHURZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원의 차남 김 모씨가 2일 서울 마포구 서울경찰청 공공범죄수사대에 출석하며 취재진의 질문을 듣고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숭실대 편입·기업 취업 과정에서 특혜 의혹이 제기된 김병기(무소속·서울 동작갑) 의원의 차남이 2일 오전 경찰에 출석했다. 이날 오후에는 김 의원에 대한 5차 소환 조사도 예정돼 있다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 10시부터 김 의원 차남 김모씨를 업무방해 등 혐의 피의자 신분으로 불러 조사하고 있다. 그는 숭실대 계약학과에 편입하고 가상자산 거래소 빗썸에 취업하는 과정에서 부친인 김 의원의 도움으로 특혜를 입은 혐의를 받는다.&lt;br&gt;&lt;br&gt;오전 9시 57분쯤 서울경찰청 마포청사에 출석한 김씨는 ‘아버지가 대학 편입을 도운 사실을 알고 있었나’ ‘취업 과정에서 아버지 도움을 받았나’ 등 취재진 질문에 답하지 않고 조사실로 들어갔다. 동행한 김씨 측 변호인은 “아버지랑 아들을 같이 조사하는 게 어딨느냐”며 불만을 표출하기도 했다.&lt;br&gt;&lt;br&gt;그간의 경찰 조사에서 김 의원과 차남은 특혜 편입·취업 의혹을 부인하는 취지의 발언을 이어왔다. 경찰은 동시 소환 조사를 통해 두 사람 진술의 진위를 검증할 방침이다.&lt;br&gt;&lt;br&gt;이날 오후에는 김 의원이 같은 청사로 출석해 피의자 조사를 받을 예정이다. 김 의원은 지난달 31일 4차 조사에 이어 이틀 만의 소환이다. 다만 부자의 조사는 별도 공간에서 이뤄지는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종합특검, ‘디올백 봐주기 수사’ 의혹 검찰 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/02/BVPAOGJDFBEJRDEDRGSS73RXTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/BVPAOGJDFBEJRDEDRGSS73RXTQ/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 01:01:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYJFTAXEPRKKVHNDSXAHJDDHFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특검팀. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권창영 2차 종합특검팀이 2일 김건희 여사의 ‘디올백 봐주기 수사’ 의혹과 관련해 검찰에 대한 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;종합특검팀은 이날 오전 서울 서초구 서울중앙지검과 대검찰청 정보통신과에 수사관들을 보내 압수수색을 진행하고 있다고 밝혔다. 압수수색 대상은 청탁금지법 위반 등 이른바 ‘디올백 의혹’과 관련해 수사 관계자들이 사용하던 PC 등이다. 중앙지검장실, 형사1부장실, 통신계 등이 강제수사 대상에 포함됐다.&lt;br&gt;&lt;br&gt;디올백 의혹은 김 여사가 2022년 9월 재미 교포인 최재영 목사에게서 디올백을 받은 사건이다. 관련 영상이 2023년 11월 공개되면서 논란이 됐고, 이원석 당시 검찰총장은 2024년 5월 전담수사팀 구성을 지시했다. 이후 중앙지검장과 1차장검사가 교체된 끝에 중앙지검 형사1부(부장 김승호)는 김 여사를 조사한 후 그해 10월 김 여사를 혐의없음 처분했다. &lt;br&gt;&lt;br&gt;수사팀은 김 여사가 받은 디올백이 공직자 직무와 관련이 있거나 대가성이 있다고 보기 어렵다고 봤다. 직무 관련성이나 대가성이 인정된다 하더라도 청탁금지법상 공직자(윤석열 전 대통령)의 배우자는 형사처벌 대상이 아닌 만큼 김 여사를 기소할 수 없다고 했다.&lt;br&gt;&lt;br&gt;그런데 작년 3대 특검(내란·김건희·순직 해병) 수사 과정에서 김 여사가 2024년 5월 박성재 당시 법무부 장관에게 전담수사팀 구성 및 수사 상황을 묻는 메시지를 보낸 사실이 드러나 ‘셀프 수사 무마’가 아니냐는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;김건희 특검은 작년 12월 윤석열 전 대통령, 김 여사, 박 전 장관을 피의자로 적시해 중앙지검과 법무부 등을 압수수색했지만 사건을 마무리 짓지 못했다. 당시 수사팀은 “법리에 따라 사건을 처분했을 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;3대 특검의 남은 사건을 맡은 2차 특검은 지난 2월 수사를 시작했고, 지난달 23일에는 ‘도이치모터스 주가 조작 수사 무마 의혹’과 관련해 대검과 중앙지검을 압수수색했다.&lt;br&gt;&lt;br&gt;도이치 수사 무마 의혹은 김 여사가 도이치모터스 주가 조작에 가담해 8억1000만원 가량 부당이득을 취득했다는 의혹에 대한 것이다. 2024년 10월 중앙지검 반부패수사2부(부장 최재훈)가 혐의가 없다며 불기소 처분을 내리는 과정에서 부실 수사가 있었다는 의혹을 골자로 한다. 이와 관련해 지난달 이창수 전 중앙지검장과 조상원 전 중앙지검 4차장을 입건하고, 출국금지 조치를 하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“비행기에 의사 계세요?”…학회 가던 전문의들 달려 나와 승객 살렸다</title>
       <link>https://www.chosun.com/national/national_general/2026/04/02/T2RCJF4LJNHRFLNTKKRTABVJAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/T2RCJF4LJNHRFLNTKKRTABVJAU/</guid>
@@ -812,59 +918,6 @@
       </media:content>
     </item>
     <item>
-      <title>금메달로 병역 혜택 받은 프로게이머 ‘룰러’ 박재혁, 탈세 논란 </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/RY6EJLD4J5BSPH5BKD7O2KE6FY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/RY6EJLD4J5BSPH5BKD7O2KE6FY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 00:19:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7ZRW26BRRKHFLOWGSESCJ2V3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 항저우 아시안게임 e스포츠 리그 오브 레전드(LoL) 금메달리스트이자 젠지 소속 프로게이머 ‘룰러’ 박재혁./뉴스1
-
-e스포츠 리그 오브 레전드 부문은 오는 26일 예선전을 시작으로 경기가 진행된다. 2023.9.16/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 항저우 아시안게임 e스포츠 리그 오브 레전드(LoL) 금메달리스트이자 젠지 소속 프로게이머 ‘룰러’ 박재혁(28)이 국세청 세무 조사를 받은 사실이 뒤늦게 알려졌다. 박재혁 측은 과세 처분에 불복해 조세심판을 청구했지만 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;지난 26일 공개된 조세심판원 결정문에 따르면, 박재혁은 국세청의 종합소득세 처분에 불복해 2018년부터 3년간 부친에게 지급한 매니저 인건비를 필요 경비로 인정해 달라고 주장했다. 그러나 심판원은 이를 뒷받침할 자료가 충분하지 않다고 보고 청구를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;박재혁 측은 해당 기간 아버지가 실질적인 매니지먼트 업무를 맡았다고 주장했다. 그러나 심판원은 “프로게이머는 전속 계약을 통해 모든 활동을 소속 게임단이 관리하고 관련 비용도 부담한다”며 “설령 매니저가 필요하다 하더라도 이를 입증할 증빙이 제출되지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;박재혁이 아버지에게 주식을 명의신탁한 부분에 대해서도 심판원은 조세 회피 목적이 없었다는 점이 입증되지 않았다며 증여세를 부과했다.&lt;br&gt;&lt;br&gt;이와 관련해 박재혁의 에이전시 슈퍼전트는 입장문을 통해 “해당 자금은 발생 당시 소득세 100%를 완납한 선수 개인의 자산이며, 이번 사안은 자산 관리 과정에서 발생한 행정적 미숙에 따른 세금 부과 건”이라고 해명했다.&lt;br&gt;&lt;br&gt;에이전시 측은 “아버님이 연습생 시절부터 직장을 그만두고 전적인 뒷바라지와 자산 관리를 도맡아 오셨다”며 “선수가 직접 인증하기 어려운 은행 업무의 한계를 고려해 본인 명의로 위탁 관리한 것일 뿐, 증여 의도는 전혀 없었다”고 밝혔다. 이어 “명의신탁으로 발생한 증여세는 이미 전액 납부했으며, 해당 자산도 선수 본인 명의로 환원된 상태”라고 덧붙였다.&lt;br&gt;&lt;br&gt;일각에서는 박재혁의 사례가 최근 배우 차은우가 가족 명의 회사에 매니지먼트를 맡겨 조세 회피 의혹으로 조사를 받은 것과 유사한 구조라는 지적이 나온다. &lt;br&gt;&lt;br&gt;특히 아시안게임 금메달로 병역 혜택을 받은 신분이라는 점에서 비판을 받고 있다. 리그 오브 레전드 챔피언스 코리아(LCK) 규정에는 세무 당국의 조사가 진행되는 경우 경기 참가 정지 등 제재를 내릴 수 있도록 명시되어 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/T3SEYSHOABFEXAQW55YYXZLARA.JPG?auth=76df6b4247030e50f4e9799c85f57353220e192a202f8eb2c54128b97fbcf6e8&amp;smart=true&amp;width=2396&amp;height=1797" type="image/jpeg" height="1797" width="2396">
-        <media:description type="plain">(서울=뉴스1) 장수영 기자 = 16일 서울 마포구 에스플렉스센터 e스포츠 명예의전당에서 열린 항저우 아시안게임 '리그 오브 레전드' 국가대표 미디어데이에서 '룰러' 박재혁이 질문에 답변하고 있다. 
-
-e스포츠 리그 오브 레전드 부문은 오는 26일 예선전을 시작으로 경기가 진행된다. 2023.9.16/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 장수영 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>제주공항서 적발된 실탄, 하루전 김해공항서는 ‘무사 통과’</title>
-      <link>https://www.chosun.com/national/regional/2026/04/01/NVCER3UL7ZGSXM6LAOFTYPLNPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/01/NVCER3UL7ZGSXM6LAOFTYPLNPY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 01:49:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3JNJF6PCJB6RHPJHOZVO6DOOQ.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김해공항에서 실탄을 소지한 승객이 보안 검색대를 그대로 통과해 항공기에 탑승한 사실이 뒤늦게 확인됐다.&lt;br&gt;&lt;br&gt;제주 서부경찰서는 총포·도검·화약류 등의 안전 관리에 관한 법률 위반 혐의로 30대 남성 A씨를 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 24일 제주공항에서 가방에 실탄을 소지한 채 항공기에 탑승하려 한 혐의를 받고 있다. A씨는 부산행 항공편에 탑승하려다 보안 검색 과정에서 가방 안에 실탄 1발을 소지한 사실이 적발됐다.&lt;br&gt;&lt;br&gt;조사 결과, 부산에 사는 A씨는 전날 김해국제공항에서 제주로 이동할 때에도 같은 실탄을 가방에 소지한 채 보안 검색을 통과해 항공기에 탑승했다.&lt;br&gt;&lt;br&gt;당시 김해공항 보안 검색 과정에서 이를 적발하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;실탄이 김해공항 보안 검색대를 그대로 통과해 아무런 제지 없이 항공기까지 반입된 사실이 뒤늦게 알려진 뒤 부산지방항공청은 당시 경위와 담당 보안 검색 직원에 대해 조사에 나섰다.&lt;br&gt;&lt;br&gt;부산지방항공청 관계자는 “해당 사건에 대해 내부적으로 수사가 진행 중”이라며 “구체적인 내용은 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 현재까지 테러 등 대공 혐의점은 없는 것으로 보고, A씨의 실탄 소지 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>초등학생도 항우울제 먹는 한국…소아·청소년 처방 급증</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/XPIFXNKBFVATRMFP7C4J7ZAP4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/XPIFXNKBFVATRMFP7C4J7ZAP4A/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 23:57:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZTINLCGVQTEYLBGQ3WKYZRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 초등학교 학생들이 등교하는 모습. 기사와 직접적인 관련이 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 항우울제 처방 건수가 크게 늘고 있는 것으로 나타났다. 특히 소아·청소년 항우울제 처방은 5년 사이 2배 이상 급증했다.&lt;br&gt;&lt;br&gt;1일 국회 보건복지위원회 소속 김미애 국민의힘 의원실이 건강보험심사평가원으로부터 제출받은 자료에 따르면 작년 국내 항우울제 처방 건수는 총 2440만4000건으로 2020년(1785만건)과 비교해 36.7% 늘어났다.&lt;br&gt;&lt;br&gt;연령별로 보면 소아·청소년의 항우울제 처방이 2배 이상으로 크게 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;0∼9세의 처방은 2020년 4만4000건에서 2025년 11만3000건으로 156.8% 급증했고, 10∼19세의 경우 같은 기간 56만5000건에서 128만5000건으로 127.4% 늘었다.&lt;br&gt;&lt;br&gt;이는 과도한 학업 스트레스 등으로 소아·청소년 시기 불안감이 커진 결과로 해석된다. &lt;br&gt;&lt;br&gt;연령은 진료 시점의 만 나이를 기준으로 했으며, 동일 환자가 연내 여러 번 처방받은 경우도 각 연령대별로 각각 집계했다. &lt;br&gt;&lt;br&gt;이들 다음으로는 30대(74.7%), 20대(55.9%) 등의 순으로 증가율이 높았으며, 고령화가 심화하는 가운데 60세 이상의 항우울제 처방도 868만6000건에서 1053만8000건으로 21.3% 늘었다.&lt;br&gt;&lt;br&gt;작년 기준 가장 많은 항우울제 처방 이유는 ‘우울에피소드’로 총 704만7000건이었다. 주의력 결핍 과잉행동장애(ADHD)를 포함한 운동과다장애로 인한 처방은 15만7000건에서 83만8000건으로 433.8% 폭증해 눈길을 끌었다. &lt;br&gt;&lt;br&gt;이 밖에 심한 스트레스에 대한 반응 및 적응 장애(80.4%), 수면 장애(77.6%), 강박 장애(59.3%) 등에 대한 처방도 늘었다.&lt;br&gt;&lt;br&gt;한편 보건복지부는 최근 확정·발표한 ‘제3차 정신건강복지기본계획(2026∼2030)’에서 우울·불안 등 정신 건강 고위험군에 심리 상담을 강화하기로 했다. 거동이 불편한 사람과 사회 서비스 취약지 거주자를 대상으로는 방문·비대면 상담도 도입한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“벚꼬ㅊ놀자, 꼬ㅊ 축제 와” 영광군 청년센터 문자… 오타 논란에 사과</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/HZEOWLCRP5FVFPGBIOZOO3YGQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/HZEOWLCRP5FVFPGBIOZOO3YGQE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 23:56:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQJZHKSTU5E7XAGM5KUHPU7TSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영광군 청년센터 홍보 문자에 특정 오탈자가 2회 반복되고 있다. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 영광군 청년센터가 발송한 벚꽃 축제 홍보 문자에 특정 단어를 연상시키는 오탈자가 잇따라 등장해 성희롱 논란이 불거졌다. 이에 센터 측은 “불미스러운 일이 발생한 점에 대해 깊이 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;영광군 청년센터는 지난달 27일 오후 5시 25분쯤 홈페이지 가입자를 대상으로 센터에서 진행하는 프로그램을 홍보하는 문자메시지를 발송하면서 “영광 청년 ‘벚꼬ㅊ놀자’” “꽃 보고 꽃 같은 나도 보고… 꼬ㅊ… 축제나 와” 등의 문구를 사용했다. ‘꼬ㅊ’ 형식의 오탈자가 두 차례 반복됐다.&lt;br&gt;&lt;br&gt;이후 센터 측은 발송 26분 뒤인 오후 5시 51분쯤 추가 메시지를 보내 “앞서 안내해 드린 행사명 ‘벚꼬ㅊ놀자’는 ‘벚꽃놀자’의 오타로 확인돼 정정드린다”며 “혼동을 드릴 수 있어 다시 안내드린다. 불편을 드린 점 양해 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;하지만 이 메시지가 온라인에 공유되면서 논란이 불거졌다. 특정 단어를 떠올리게 하는 오탈자를 반복한 건 실수가 아닌 의도적인 행위이며, 이는 성희롱에 가깝다는 지적이다. 네티즌들은 “저건 의도 없이 나오기 어려운 오타다” “농담이랍시고 넣었다가 논란이 되니 오타라고 해명하는 것 같다” “정말 헷갈릴 만한 오타면 모르겠는데, 저건 한 번이라도 다시 읽어봤다면 바로 보일 정도 아니냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QL2ELXAAQRAV5FGSHV6GVFGDS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 센터 측은 직원 일동 명의의 사과문을 통해 “홍보 문자 내용 중 오탈자가 포함돼 불미스러운 일이 발생한 점에 대해 깊이 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “앞으로는 동일한 문제가 재발하지 않도록 문자 발송 전 검토 절차를 더욱 강화하고, 보다 신중하고 책임감 있는 운영을 통해 신뢰를 회복할 수 있도록 최선을 다하겠다”고 밝혔다. 또 “이번 일을 계기로 더욱 성숙한 자세로 임하며, 지역 청년들을 위해 더욱 노력하는 기관이 되겠다. 다시 한번 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;지자체 청년센터 홍보 방식이 논란이 된 건 이번이 처음은 아니다. 최근에는 제주청년센터가 ‘담배 가게 아가씨’를 패러디해 올린 영상에서 남성이 여성에게 퇴짜를 맞자 입 모양으로 욕설을 하는 모습을 담아 비판을 받았다. “제주청년센터에는 아가씨가 예쁘다네” 등의 가사를 활용한 것을 두고도, 동아리 멤버 모집과 무관한 ‘아가씨’ 이미지를 전면에 내세운 발상 자체가 시대착오적이라는 지적이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRDGZDFGIZGGYLGGQZTIYJXME.png"&gt;&lt;figcaption&gt;&lt;small&gt;문제가 된 제주청년센터가 제작한 홍보 영상의 장면. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 센터 측은 영상을 삭제하고 “해당 콘텐츠 제작 과정에서 성인지 감수성이 현저히 부족했음을 실감한다”며 “영상의 기획 및 승인 과정에 참여한 관계자들에 대해 엄중히 조치하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북 음성서 출근길 통근버스 사고… 10여명 부상</title>
-      <link>https://www.chosun.com/national/incident/2026/04/01/KUPZ3RKF6RH3FHHPKOXMT7CCKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/01/KUPZ3RKF6RH3FHHPKOXMT7CCKQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 00:21:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK4S3WILUVDLJCTOTVDU2EXRFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 충북 음성군에서 통근버스가 승용차와 사고가 난 후 3m아래로 추락했다. 사진은 사고 현장 모습/충북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 충북 음성에서 기업체 통근버스가 승용차와 충돌한 뒤 도로 아래 논으로 추락했다. 이 사고로 출근길 근로자 등 10여 명이 다쳐 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;충북소방본부와 음성경찰서 등에 따르면 이날 오전 7시 42분쯤 음성군 원남면 상노리의 한 왕복 2차선 도로에서 45인승 통근버스와 승용차가 부딪쳤다.&lt;br&gt;&lt;br&gt;사고 충격으로 통근버스는 도로변 가드레일을 들이받고 뚫고 나가, 약 3m 아래 논바닥으로 굴러 떨어진 후 옆으로 뒤집혔다. &lt;br&gt;&lt;br&gt;당시 버스에는 운전자를 포함해 총 24명이 타고 있었고, 승용차에는 운전자 1명이 탑승 중이었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;소방 당국은 사고 직후 인명 피해 규모가 클 것으로 판단, ‘다수 사상자 시스템’을 가동하고 구조 차량 등 장비 12대와 인력 36명을 현장에 투입했다. &lt;br&gt;&lt;br&gt;현재까지 버스 운전자를 포함한 탑승객 20여명이 인근 병원으로 분산 이송됐다. 이 중 4~5명은 중상을 입은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 “버스가 가드레일을 뚫고 추락했다”는 신고 내용을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>은퇴 군견·경찰견 입양하면 연 최대 100만원 지원</title>
       <link>https://www.chosun.com/national/national_general/2026/04/01/USIP4P4NWFGULP4P5SBXSL5DPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/USIP4P4NWFGULP4P5SBXSL5DPM/</guid>
@@ -872,15 +925,6 @@ e스포츠 리그 오브 레전드 부문은 오는 26일 예선전을 시작으
       <description/>
       <pubDate>Tue, 31 Mar 2026 22:19:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDIU5PBHTRL6NHR4BT4KG54NYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 경기 평택시 지제역에서 다중이용시설 테러 대응 통합방위훈련이 진행되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 군견·경찰견·탐지견·119구조견 등 국가봉사동물의 은퇴 후 입양을 활성화하기 위해 입양 가정에 연간 최대 100만원을 환급해주는 지원사업을 시행한다.&lt;br&gt;&lt;br&gt;농림축산식품부는 1일 ‘국가봉사동물 입양 지원사업’을 시행한다고 밝혔다. 입양자가 보험 가입·진료·미용·사회화 교육 등에 실제로 지출한 비용의 60%를 돌려받는 방식으로, 연간 환급 한도는 100만원이다. &lt;br&gt;&lt;br&gt;예컨대 한 해 동안 150만원을 썼다면 60%인 90만원을, 200만원 이상을 썼다면 상한선인 100만원을 돌려받을 수 있다. 영수증과 입양확인증을 농식품부에 전자우편으로 제출하면 된다.&lt;br&gt;&lt;br&gt;이번 사업은 농식품부와 국방부·경찰청·소방청 등 6개 부처가 지난해 체결한 업무협약의 후속 조치다. 부처별로 은퇴 동물 지원 수준이 달랐던 격차를 해소하고, 입양 가정의 경제적 부담을 줄이기 위해 마련됐다.&lt;br&gt;&lt;br&gt;민간 기업들도 동참한다. 한국동물병원협회 소속 전국 44개 병원에서 진료비를 30% 할인받을 수 있다. 삼성·메리츠화재, KB·DB손해보험은 반려동물 보험료를 최대 20% 낮춰준다. 우리와·네츄럴코어 등 사료업체 5곳은 사료비를 20~50% 할인하고, 장묘·장례업체 20곳은 장례비를 20~30% 깎아준다.&lt;br&gt;&lt;br&gt;농식품부는 입양이 어려운 은퇴 동물을 위한 전담 지원센터 설립도 추진할 예정이다. 입양을 원하는 시민은 각 부처 담당 과나 국가동물보호정보시스템(&lt;a href="http://www.animal.go.kr)%EC%97%90%EC%84%9C" rel=""&gt;www.animal.go.kr)에서&lt;/a&gt; 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 특사경의 ‘밀수 미수’ 사건 수사, 檢 지휘로 은 507kg 밀수 전모 밝혔다</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/E6I7P5FL2REJBENOTI74QXDJ6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/E6I7P5FL2REJBENOTI74QXDJ6A/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 22:00:00 +0000</pubDate>
-      <content:encoded>특별사법경찰관(특사경)에 대한 검찰의 수사지휘로 은 507㎏을 세관 신고 없이 국내로 몰래 들여온 밀수범의 범행이 밝혀졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBM2E363W5AXNIN6O67JIDOWQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지검. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 인천지검 국제범죄수사부(부장 유병국)는 지난달 26일 30대 조선족 여성 A씨를 관세법 위반 등 혐의로 구속기소했다. 그는 올해 1월부터 2월까지 약 1개월간 총 14회에 걸쳐 은 그래뉼 507㎏(시가 29억5000만원 상당)을 홍콩에서 밀수입한 혐의를 받는다. 또 은 그래뉼 60.05㎏(시가 3억9000만원 상당)을 밀수하려다 적발돼 미수에 그친 혐의도 적용됐다. &lt;br&gt;&lt;br&gt;은 그래뉼은 은을 작은 알갱이 형태로 가공한 것으로, A씨는 1봉지에 5㎏씩 은 그래뉼을 포장해 공범들과 여러 차례에 걸쳐 국내로 반입한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 최초 인천공항세관 특사경이 수사를 담당했다. 당초 특사경은 A씨의 밀수 미수 혐의만을 포착해 그를 긴급체포하고, 사후 구속영장과 휴대전화에 대한 압수수색 영장을 신청해 발부받았다.&lt;br&gt;&lt;br&gt;특사경은 A씨 휴대폰을 포렌식하는 과정에서 그가 공범들과 이미 은 그래뉼 507㎏을 밀수한 정황을 포착했다고 한다. 이에 인천지검은 즉시 포렌식을 중지시키고, 특사경에 2차 압수수색 영장 신청을 지휘했다. 여죄에 관한 증거를 기존 압수수색 영장으로 확보할 경우 위법수집증거가 돼 재판 단계에서 증거능력을 인정받지 못하기 때문이다.&lt;br&gt;&lt;br&gt;검찰 지휘에 따라 2차 압수수색 영장을 발부받은 특사경은 A씨 휴대전화에서 통화파일 1500개를 추가로 확보하고 관련자 조사를 벌인 끝에 대규모 은 그래뉼 밀수입 범행의 전모를 밝혀냈다. &lt;br&gt;&lt;br&gt;한편 인천지검은 A씨를 구속기소하면서 A씨 소유 부동산에 대해 추징보전을 청구했다. A씨가 밀수한 은 그래뉼을 팔아 벌어들인 범죄수익을 환수하기 위해서다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독]‘체조인 엄마’ 등판에 분위기 ‘돌변’... ‘부모 찬스’ 위원들도 못막았다</title>
@@ -926,51 +970,6 @@ e스포츠 리그 오브 레전드 부문은 오는 26일 예선전을 시작으
       <description/>
       <pubDate>Tue, 31 Mar 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MINNBFQRUBAWDJD4XWR7ED5OCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 14일 토요일 오전 서울 관악산 연주대 정상 일대가 등산객들로 붐비고 있다. 최근 2030 사이에서 ‘명당 산행’이 유행하며 인파가 몰리고 있다. /독자 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“관악산 기(氣) 받아 코인 투자가 대박 났으면 좋겠어요.” &lt;br&gt;&lt;br&gt;지난달 24일 오전 9시 찾은 서울 관악산 정상인 연주대(해발 630m). 바위에 걸터앉아 도시락을 먹던 공무원 박주영(30)씨가 소원 빌 듯 이렇게 말했다. 옆에 있던 김다혜(32)씨는 “이직 준비 중인데 얼른 새 직장을 구하고 싶다”고 했다. 평일인데도 대학생과 취업 준비생은 물론 휴가를 내고 온 직장인들도 등산로 곳곳에 보였다. 이들은 연주대 비석 앞에서 줄을 서서 휴대폰으로 셀카를 찍은 뒤 “관악산 기운이 유독 좋다는 말을 듣고 새벽부터 서둘렀다”고 했다.&lt;br&gt;&lt;br&gt;최근 MZ세대들 사이에서 ‘명당 순례’가 유행처럼 번지고 있다. 고물가·저성장과 취업난 등 불확실한 상황에 지친 청년들이 ‘기운’ ‘운’ 등에 기대 위안을 얻으려는 현상으로 풀이된다. 시작은 지난 1월 방영된 TV 예능 프로그램이었다. 한 역술가가 “운이 안 풀릴 때는 관악산에 가라”고 발언한 장면이 급속도로 퍼졌다. 그러면서 관악산이 젊은이들 사이에서 명당으로 꼽히며 주말마다 등산객이 몰리기 시작했다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티와 소셜미디어 등에선 ‘재물운이 따르는 명소’ 같은 명당 소개글도 잇따라 올라오고 있다. 북한산을 가면 ‘사업운’이 따르고 청계산에 가면 ‘재물운’이 따른다는 식이다. 산에 오른 뒤 인증샷을 찍어 온라인 커뮤니티나 소셜미디어에 올리는 것도 유행하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E256UY5WCVGAPE3BOYWKMVZEIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 찾은 서울 관악산 정상 연주대의 모습. 주말 및 공휴일 혼잡에 대비해 '인증샷 촬영 시 우측통행' 등을 당부하는 안내판이 세워져 있다. 관악산 등산로 안내소 관계자는 "날이 풀리며 인파가 급증함에 따라 안전 사고 예방을 위해 3월 셋째 주쯤 안내 표지판을 설치했다"고 했다./윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구의 한 특급 호텔도 젊은이들의 순례 코스다. 온라인 등에서 이 호텔 입지를 두고 “남산 중턱에서 한강을 내려다보는 배산임수(背山臨水) 지형이 추진력과 확장 등 좋은 기운을 준다”고 평가한 글이 인기를 끌면서다. &lt;br&gt;&lt;br&gt;이날 이 호텔 로비에서 만난 취업 준비생 유모(25)씨는 “지푸라기라도 잡는 심정으로 왔다”고 했다. 출산을 앞둔 양모(38)씨는 “아기에게 좋은 기운을 주고 싶어 왔다”고 했다. 호텔 관계자는 “풍수 명소라는 입소문이 퍼지더니 호텔에 묵지 않는데도 로비를 찾는 젊은 방문객이 부쩍 늘었다”고 했다. &lt;br&gt;&lt;br&gt;젊은 층은 디지털 기술과 결합한 풍수지리를 활용한다. 올해 법학전문대학원에 합격한 김모(25)씨는 “입시 준비할 때 챗GPT에 내 사주와 풍수적으로 잘 맞는 대학을 물어본 적이 있다”며 “가고 싶던 대학과 기운이 맞다는 답변을 듣고 큰 위안을 얻었다”고 했다.&lt;br&gt;&lt;br&gt;청년들이 ‘풍수’ ‘기운’에 기대는 걸 두고 전문가들은 갈수록 무종교 비율이 느는 현상과 관련이 있다고 분석했다. 한국리서치 조사에 따르면 20대(18~29세) 무종교인 비율은 2021년 67%에서 지난해 72%로 증가했다. 조인철 원광디지털대 동양학과 교수는 “청년들이 원하는 즉각적인 위로나 개인 맞춤형 해답을 종교에서 찾지 못하면서, 풍수나 사주 같은 전통 신앙으로 관심이 빠르게 이동하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노동절, 올해부터 ‘법정 공휴일’ 공무원·교사·택배 기사도 쉰다</title>
-      <link>https://www.chosun.com/national/labor/2026/04/01/I36P47I5ERH2TK3VKS5RUQUJP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/01/I36P47I5ERH2TK3VKS5RUQUJP4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 15:45:00 +0000</pubDate>
-      <content:encoded>올해부터 5월 1일 노동절이 법정 공휴일로 지정돼 공무원을 포함한 전 국민이 쉴 수 있게 된다. &lt;br&gt;&lt;br&gt;국회는 31일 본회의에서 이 같은 내용의 ‘공휴일에 관한 법률’ 개정안을 여야 합의로 의결했다. 개정안이 국무회의 의결을 거쳐 공포되면, 올해 5월 1일부터 노동절은 법정 공휴일로 적용된다.&lt;br&gt;&lt;br&gt;노동절은 1994년 유급 휴일로 지정됐지만, 적용 범위가 근로기준법상 ‘근로자’로 한정됐다. 이에 따라 공무원과 교사, 택배 기사 등 특수 고용직 노동자들은 휴일을 보장받지 못했다. 이번 개정으로 근로자 여부와 관계없이 모든 노동자가 휴일을 적용받게 된다. 이날 우원식 국회의장은 법안 통과 후 “민간 분야에 한정돼 온 노동절을 공휴일로 지정해 사각지대를 개선한 진일보한 조치”라고 말했다.&lt;br&gt;&lt;br&gt;노동절은 1886년 5월 1일 미국 노동자들이 ‘하루 8시간 노동’을 쟁취하기 위해 투쟁한 것을 기념하는 ‘메이데이(May Day)’에서 시작됐다. 국내에서도 ‘노동절’로 불리며 1923년 처음 기념 행사가 열렸지만, 1963년 ‘근로자의 날 제정에 관한 법률’이 제정되면서 ‘근로자의 날’로 명칭이 바뀌었다. 그러다 정부와 여당이 지난해 이를 ‘노동절’로 되돌렸다.&lt;br&gt;&lt;br&gt;이날 노동계는 일제히 환영 입장을 밝혔다. 한국노총은 성명을 내고 “단순한 휴일 확대를 넘어 노동을 바라보는 기준이 바뀌는 출발점”이라고 했고, 민주노총도 “고용 형태에 따라 달라졌던 노동절의 차별을 줄이기 위한 변화”라고 밝혔다.&lt;br&gt;&lt;br&gt;올해부터 노동절이 법정 공휴일이 됨에 따라 연휴에 대한 기대감도 커지고 있다. 올해 노동절은 금요일이고, 어린이날(5월 5일)이 화요일이어서 5월 4일 하루 연차를 사용할 경우 최대 닷새 동안의 ‘황금 연휴’가 가능해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“체력 훈련 않고 경기만 뛰는 고교생… 프로 돼도 공에 힘 안 붙어”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/BE7RZXICLBDJRNAPARKEBAT4RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/BE7RZXICLBDJRNAPARKEBAT4RU/</guid>
-      <dc:creator>양승수 기자, 강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q36GXF7V5JEWDBOALJF3E7RHDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 KBO(한국야구위원회) 리그의 직구(포심 패스트볼) 평균 구속은 시속 146.0㎞였다. 2024년(142.6㎞)보다 훨씬 빨라져 일본 프로야구(평균 시속 148㎞)와 격차도 좁혀졌다. 한국 야구도 늦게나마 ‘구속 혁명’의 흐름에 올라탄 듯 보인다. 하지만 이 수치를 한국 마운드의 경쟁력 회복으로 해석하기는 어렵다. 외국인 투수를 포함한 평균값은 따라붙고 있지만, 국가대표들이 출전하는 국제 무대에서는 얘기가 다르기 때문이다. 지난달 끝난 2026 월드베이스볼클래식(WBC)에서 한국 투수진의 직구 평균 구속은 시속 146.5㎞로 20국 중 18위에 그쳤다. 미국이나 중남미 선수들보다 체격 조건이 열세라고 변명할 수도 없다. 야구 팬들은 우리와 비슷한 체격의 일본(152.2㎞·5위)과 대만(150.5㎞·7위) 투수들이 훨씬 위력적인 공을 던지는 것을 확인했다. &lt;br&gt;&lt;br&gt;빠른 공은 투수가 지닐 수 있는 가장 확실한 무기다. 투수가 던진 시속 155㎞ 공은 약 0.428초, 150㎞는 0.442초, 145㎞는 0.457초 만에 포수 미트에 꽂힌다. 찰나에 공을 인지해 스윙 여부를 판단해야 하는 타자에게 이 차이는 타격의 성패를 가르는 시간이다. 이번 WBC에서 95마일(152.9㎞) 이상 직구 피안타율은 0.236이었지만, 92~94마일(148.1~151.3㎞) 구간에서는 0.261로 훌쩍 뛰었다. 직구가 빠를수록 체인지업이나 커브와 같은 변화구의 위력도 더해진다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇빠른 공을 던질 체력이 안 된다&lt;/b&gt;&lt;br&gt;&lt;br&gt;한국 투수들의 공이 느린 이유로 현장 지도자들은 ‘훈련량 부족’을 첫손에 꼽는다. 부산의 한 고교팀 감독은 “국내 고교 투수 중 90%는 30~40개만 던져도 지치니 강속구를 기대하기 어렵다”며 “선수들이 게을러서가 아니라 체력을 기를 시간 자체가 없다”고 했다. 정규 수업을 마쳐야 훈련을 시작하고, 주말에는 경기에 나가야 하기에 체력 훈련에 따로 시간을 내기 어렵다는 것이다.&lt;br&gt;&lt;br&gt;이에 “일본 고교생도 수업을 다 듣는데 무슨 차이가 있느냐”는 반론이 나온다. 하지만 전문가들은 “선수 저변의 압도적인 격차를 간과해서는 안 된다”고 한다. 일본 고교 야구 연맹 등록 팀은 약 4000개, 선수는 13만명에 달해 한국(약 100개교, 3000여 명)과는 체급 자체가 다르다. 일본 고교 야구의 방대한 저변은 시속 150㎞를 던지는 ‘원석’들이 상호 경쟁하며 성장하는 토양이 된다.&lt;br&gt;&lt;br&gt;정윤진 덕수고 감독은 현재 국내 고교 야구에 대해 “몸의 기초를 다지기도 전에 구속과 경기 성과부터 요구받는 구조”라고 진단했다. 기초 체력이 충분히 쌓이지 않은 상태에서 프로 지명을 받으려고 경기에 나서니 성인이 돼서 구속이 오르기는커녕 오히려 몸이 버티지 못하고 일찍 한계에 봉착하는 선수가 많다는 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇유망주의 미래를 당겨 쓰는 한국&lt;/b&gt;&lt;br&gt;&lt;br&gt;젊은 투수가 프로 입단 후 체계적이고 과학적인 관리를 받아 공이 빨라지는 현상은 현대 야구의 상식이다. 하지만 한 야구 해설위원은 “한국 프로 팀들은 여전히 미래를 당겨 쓰는 투수 기용을 한다”고 꼬집었다. 신체·기술적으로 완성되지 않은 스무 살 전후 투수들을 장기적인 관점에서 육성하기보다 당장의 성적을 위해 불펜 투수로 쓰는 경우가 많다는 것이다. 프로 육성 시스템도 일본에 한참 뒤져 있다. 송진우 전 한화 코치는 “일본 프로야구는 4군까지 운영하고, 스태프가 한국보다 3~4배 많아 코치 한 명이 선수를 사실상 전담 관리하는 구조”라고 설명했다. &lt;br&gt;&lt;br&gt;송재우 해설위원은 “대만은 고교 졸업 후 미국 마이너리그나 일본 리그로 진출하기가 한국보다 훨씬 수월하다”고 했다. 어린 유망주가 미국과 일본의 시스템 속에서 더 빠른 공을 던지는 투수로 성장할 기회를 얻는다는 것이다. 반면 한국은 고교 졸업 직후 미국에 진출한 선수가 국내에 복귀할 경우 2년 유예 규정을 적용한다. 유망주 유출을 막기 위한 보호 장치로 볼 수 있지만, 선수들의 선택지를 제한하는 장벽으로도 작용한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘전분당 담합 의혹’ 대상그룹 본부장 구속... 대상·사조CPK 대표이사는 기각</title>
-      <link>https://www.chosun.com/national/court_law/2026/03/31/PSFXQMOVVFFRNIKKHRUKFJGS6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/03/31/PSFXQMOVVFFRNIKKHRUKFJGS6I/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 14:38:00 +0000</pubDate>
-      <content:encoded>10조원대 전분당 가격 담합 의혹으로 대상그룹 경영진 1명이 31일 구속됐다. 함께 구속영장이 청구된 대상 대표이사와 사조CPK 대표이사는 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTMYJXGI2WKMTBG4ZGMNBXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법  전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 김진만 영장 전담 부장판사는 이날 오전 9시30분부터 대상그룹 임모 대표이사와 김모 사업본부장, 이모 사조CPK 대표이사 3명에 대한 구속영장 실질 심사를 차례로 진행했다. 이들은 전분당이나 옥수수 부산물 판매 가격을 미리 맞추고 OB맥주·서울우유 등 대형 실수요처의 입찰 과정에서 가격을 합의한 혐의(공정거래법 위반)를 받는다.&lt;br&gt;&lt;br&gt;김 부장판사는 김 본부장에 대해선 “증거인멸 및 도망 염려가 있다”며 구속영장을 발부했다. 다만 임 대표에 대해선 “담합행위 가담에 대한 소명이 부족하다”고 봤고, 이 대표에 대해선 “증거인멸 및 도망 염려가 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;전분당은 옥수수를 원료로 하는 포도당·올리고당 등으로, 과자나 유제품 등 각종 가공식품에 많이 쓰인다. 서울중앙지검 공정거래조사부(부장 나희석)는 대상·사조CPK·삼양사·CJ제일제당 등 전분당 업체들이 약 8년 동안 10조원 규모의 담합을 해온 것으로 보고 지난달 이 업체들을 압수 수색했다. 두 차례에 걸쳐 공정거래위원회에 관련자 고발요청권을 행사.&lt;br&gt;&lt;br&gt;최근 검찰은 담합을 통해 소비자 가격을 끌어올리는 행위를 ‘서민 경제 교란 범죄’로 규정하고 수사 중이다. 지난 2월에는 설탕과 밀가루, 한국전력공사 입찰 담합을 벌인 관계자 총 52명을 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 1일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/03/31/CNS2MU6CE5CO3CUGVS5E7UTTEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/03/31/CNS2MU6CE5CO3CUGVS5E7UTTEI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 14:34:00 +0000</pubDate>
-      <content:encoded>곳곳에 봄비... 예년보다 포근&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUNTTFAVPFBCRN3SKFHT5LZ77E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 수능 영어 출제위원 절반은 교사로</title>
-      <link>https://www.chosun.com/national/education/2026/03/31/5K77DVIHYJDT3K7XZ3COZUKRRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/03/31/5K77DVIHYJDT3K7XZ3COZUKRRU/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 12:58:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4WGMBTHEZTANZXGVTGIODGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 대구 정화여고에서 고3 수험생들이 담임교사와 함께 전날 치른 2026학년도 대학수학능력시험(수능) 가채점을 하고 있다./ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027학년도 대학수학능력시험(수능)이 오는 11월 19일 실시된다. 한국교육과정평가원(평가원)은 지난해 ‘불수능’ 논란이 일었던 영어 영역의 적정 난이도를 확보하기 위해 출제 위원 중 현장 교사 비율을 현재 33%에서 50%로 높이기로 했다.&lt;br&gt;&lt;br&gt;평가원은 이런 내용을 담은 2027학년도 수능 시행 기본 계획을 31일 발표했다. 김문희 평가원장은 이날 브리핑에서 “학교 교육을 충실히 이행한 학생이라면 충분히 해결할 수 있도록 적정한 난이도를 갖춰서 수능을 출제할 계획”이라며 “올해는 1등급 비율도 꼼꼼히 살피겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;평가원은 특히 영어 과목 적정 난이도 확보에 집중하겠다고 했다. 2026학년도 수능에서는 영어 1등급(원점수 90점 이상) 비율이 3.11%로 절대평가가 도입된 2018학년도 이후 최저치를 기록했다. 1등급 비율이 상대평가(상위 4%)때보다 낮게 나오자 “학생 부담을 덜어주겠다는 절대 평가 취지와 안 맞다”는 비판이 쏟아졌다. 결국 당시 오승걸 평가원장이 난이도 조절 실패 책임을 지고 사퇴했다. &lt;br&gt;&lt;br&gt;이에 올해 수능에서는 영어 영역의 출제 위원 가운데 대학 교수는 줄이고 고교 교사는 늘려서 적정 난이도를 확보하겠다는 계획이다. 김 원장은 “오는 6월 모의평가부터 영어 영역의 출제위원 현장 교사 비율을 50%로 높일 예정”이라며 “문항별 점검위원회를 설치해 검토를 철저하게 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;‘킬러 문항’ 배제 기조도 유지한다. 김 원장은 “사교육 시장에서 문제 풀이만 한 학생들에게 유리한 문항은 당연히 배제된다”고 말했다. EBS 수능 교재 연계율 역시 예년처럼 문항 수 기준 50%를 유지하기로 했다. EBS 교재의 문항과 지문을 그대로 수능에 출제하지 않고, 교육 과정에서 중요한 개념과 관련된 그림이나 도표·지문 등을 일부 변형하는 식으로 출제한다. 수능 응시 원서 접수 기간은 8월 24일부터 9월 4일까지다. 수능 성적표는 12월 11일 통지된다.&lt;br&gt;&lt;br&gt;한편 이날 국회에선 전국 초·중·고에서 실시하는 기초 학력 진단 검사의 결과를 보호자에게 의무적으로 통보하도록 하는 ‘기초 학력 보장법 개정안’이 본회의를 통과했다. 현재 학생 서열화 우려 등으로 모든 학교에서 기초 학력 진단 결과를 비공개하고 있다. 이번 개정안 통과로 부모가 자녀의 기초 학력 수준을 파악할 수 있게 되고, 가정과 학교가 연계해 학생의 기초 학력을 보다 촘촘히 지원할 수 있을 것으로 기대된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
