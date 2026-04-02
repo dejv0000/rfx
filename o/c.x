@@ -13,6 +13,93 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>출소 2개월 만에 아내 감금·폭행··· 30대 조폭 구속기소</title>
+      <link>https://www.chosun.com/national/2026/04/02/G7KXHAT2KZCHPLG4EKT3VDJ3PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/02/G7KXHAT2KZCHPLG4EKT3VDJ3PI/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 06:04:44 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZWEMBTMI4GGNRXMQYDSYJZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;누범 기간 중 접근 금지 명령을 어기고 배우자를 감금·폭행한 30대 조직폭력배가 구속 기소됐다.&lt;br&gt;&lt;br&gt;대구지검 김천지청 형사2부는 감금치상 등의 혐의로 A씨를 구속 기소했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 출소 2개월 만인 지난해 7월 배우자인 30대 여성 B씨를 차량이나 모텔에 감금해 전치 2주의 상해를 입힌 혐의를 받고 있다. 또 같은 해 8월에도 피해자를 협박·폭행하고 법원의 접근 금지 등 임시 조치 명령을 위반한 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 출소 이후 B씨와의 만남을 이어가려 했으나, B씨가 이를 거절하는 과정에서 말다툼을 하다 범행을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건은 가정 폭력 사건으로 일부 혐의에 대해 ‘혐의 없음’ 의견으로 불구속 송치됐지만, 검찰은 A씨가 임시 조치를 위반하고 피해자 신변에 지속적으로 위협을 가하고 있는 점을 확인하고 보완 수사에 착수했다.&lt;br&gt;&lt;br&gt;검찰은 지난달 25일 A씨를 체포했다. A씨는 수사 과정에서 모든 혐의를 자백한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “법원의 임시조치를 위반하는 가정폭력 사범에 대해 엄정 대응하는 취지에서 보완 수사를 통해 추가 혐의를 밝힌 사건”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘마약 자수’ 식케이 측 선처 호소… “유명인은 재범 어려워”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/7PBUHTYKUFAYTHYSFX6L2BV5GU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/7PBUHTYKUFAYTHYSFX6L2BV5GU/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 05:39:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NX5OKMKGX5HKNE2543XA3ODQZE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 식케이. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의를 받는 래퍼 식케이(32·본명 권민식)가 자수 이후 성실히 단약해 왔다며 항소심에서 선처를 호소했다.&lt;br&gt;&lt;br&gt;서울서부지법 형사항소2-1부(부장판사 정성균)는 2일 오전 마약류 관리에 관한 법률 위반 등 혐의로 기소된 식케이의 항소심 첫 공판을 진행했다. 이날 검찰은 원심 형량이 가볍다며 1심 때와 동일한 징역 3년 6개월을 구형했다. &lt;br&gt;&lt;br&gt;앞서 식케이는 2023년 10월 케타민과 엑스터시를 투약하고, 이듬해 1월 대마를 흡연·소지한 혐의를 받는다. 당시 그는 마약 투약 사실을 자수했으며, 같은 해 6월 불구속 기소됐다. 1심 재판부는 식케이에게 징역 10개월에 집행유예 2년을 선고하고, 보호관찰 및 약물 치료 강의 수강을 명령했다.&lt;br&gt;&lt;br&gt;식케이 측은 직업적 특수성을 언급하며 양형의 부당함을 주장했다. 변호인은 “유명인이라는 신분은 재범을 어렵게 만드는 강력한 사회적 제약”이라며 “이미 방송 중단과 광고 취소 등 가혹한 처벌을 받고 있는 상황에서 직업적 지위가 양형에 불리하게 작용해서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;또 “투약 범행 외에 추가 범행이나 다른 사건으로 수사받은 사실이 없고 2년이 넘는 기간 치료와 단약을 이어오고 있다. 재범 가능성이 낮은 만큼 원심 판결이 가볍다고 보기 어렵다”며 “스스로 범행을 알리고 수사기관에 자수한 점도 당연히 정상으로 평가돼야 한다”고 덧붙였다. &lt;br&gt;&lt;br&gt;식케이는 Mnet 서바이벌 프로그램 ‘쇼미더머니’ 시즌4를 통해 대중에 얼굴을 알렸다. 개인 레이블을 설립하며 가요계 입지를 다져왔다. 1심 선고를 받고 얼마 뒤 바로 무대에 오르며 일부 비판을 받기도 했다. 그에 대한 항소심 선고기일은 오는 30일 오전 10시에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘잘 키운 딸 하나’ 김부겸 대구시장 재도전에 딸 윤세인 재조명 </title>
+      <link>https://www.chosun.com/national/people/2026/04/02/ZSKOO4EENRD5DNHC3V7MOWXTOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/02/ZSKOO4EENRD5DNHC3V7MOWXTOA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 05:43:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMY5TGLA4FHVTFEGTE55LBTTLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김부겸 전 국무총리 부부와 딸 윤세인(본명 김지수)씨./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 소속 김부겸 전 국무총리가 6·3 지방선거 대구시장 선거에 출마하면서 그의 딸인 배우 윤세인(본명 김지수)도 다시 관심을 받고 있다. &lt;br&gt;&lt;br&gt;윤세인은 1987년생으로 김 전 총리의 세 딸 중 차녀다. 성균관대 연기예술학과를 졸업한 뒤 2011년 문영남 작가의 드라마 ‘폼나게 살 거야’에서 ‘나아라’ 역할로 데뷔했다. 김지수라는 본명 대신 가명으로 활동해 그가 당시 3선 국회의원 김부겸의 딸이라는 사실은 드라마가 방영된 이후 알려졌다. &lt;br&gt;&lt;br&gt;윤세인은 한 인터뷰에서 “스태프는 물론 문 작가도 제가 국회의원 딸이란 사실을 몰랐다”며 “혹시 드라마에 흠이 되지는 않을까 아버지께 누를 끼치진 않을까 걱정이 돼 가명을 썼다”고 했다. 그는 “중학교 2학년 때 아버지가 (국회의원에) 당선되신 이후 뭘 하든 아버지 이야기가 나와서 노이로제가 됐다. 이번에도 아버지 이야기가 나올까 봐 예명의 성(姓)까지 바꾼 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIUBT7TJCIPAEACUGAL62FBPWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MBC ‘아들녀석들’ 출연한 서인국과 윤세인./ MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 총리는 딸의 데뷔를 처음엔 반대했다고 한다. 그는 2011년 여성조선 인터뷰에서 “(과연 연기자가) 될 수 있을까도 걱정이었지만 잘되어도 걱정이었다. 배우도 그렇고 정치인도 그렇고 오랫동안 사랑을 받으려면 교만하지 않고 초심을 잃지 않아야 하는데, 인기가 많아지면 그 마음을 지키는 게 쉽지 않다. 딸이 그 길을 가겠다고 하니 걱정이 많았다”고 했다. &lt;br&gt;&lt;br&gt;윤세인은 이후 드라마 ‘아들 녀석들’ ‘잘 키운 딸 하나’ 등에 출연하며 2014년까지 활동했다. 2015년에는 장형진 영풍그룹 고문의 아들인 최민석 스틸싸이클 사장과 결혼했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7E2Q6UECENN3TR46UHD2RKY56Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤세인 김부겸./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4K3ERMCFJE7BHV56CWJ65R2QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2014년 5월 27일 아버지 김부겸 대구시장 후보 유세 현장에서 선거홍보물을 나눠주고 있는 윤세인씨./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤세인은 2012년 국회의원 선거와 2014년 지방선거에서 ‘보수 텃밭’인 대구에 출마한 아버지를 돕기 위해 유세 현장을 뛰었다. 2014년에는 ‘아빠를 부탁해요’라고 적힌 옷을 입고 선거운동을 지원했는데, 당시 윤세인을 알아본 시민들이 악수를 하자거나 사진을 찍자고 몰리며 아버지보다 더 인기를 끈 것으로 전해진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFBJVUKQRUAU4LB4ASODVURO4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주통합당 3선 김부겸 후보와 딸 윤세인(본명 김지수)씨./ 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 총리는 지난달 30일 대구시장 출마를 선언했다. 2000년 16대 총선 때 경기 군포시에서 당선돼 국회에 입성해 내리 3선을 했던 김 전 총리는 지금까지 대구에 국회의원 선거 3번, 대구시장 선거 1번 등 모두 4번 출마했다. 이번 지방선거 출마가 다섯 번째다. &lt;br&gt;&lt;br&gt;2012년 19대 총선(수성갑), 2014년 대구시장 선거에 연이어 고배를 마셨으나, 2016년 20대 총선에선 혼자 유세 차량을 타고 수성구 골목길을 누비는 이른바 ‘벽치기’ 유세를 하며 62% 득표율로 당시 김문수 후보를 꺾고 당선됐다. 21대 총선에서 같은 지역구에 출마했지만 낙선했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LTBYZQ6BWJCBNAXY56MVWYUDKY.jpg?auth=a7bee72d2bdbe6ae67aae38ba39447013681af4920f3609b3bd9a3cc4d3adf71&amp;smart=true&amp;width=284&amp;height=213" type="image/jpeg" height="213" width="284">
+        <media:description type="plain">윤세인 김부겸</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>광명 신안산선 붕괴사고, 전형적 ‘인재(人災)’였다</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/02/IXM5Z5Q52FAEFN7QK3L4LZGGV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/02/IXM5Z5Q52FAEFN7QK3L4LZGGV4/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 05:51:27 +0000</pubDate>
+      <content:encoded>작년 발생한 경기 광명 신안산선 터널 붕괴 사고는 실수와 관리 부실이 겹친 전형적인 ‘인재(人災)’였던 것으로 확인됐다. 설계부터 시공, 감리까지 모든 과정에서 문제가 있었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4WGZBRMNSGEZJVGU2WCNRVGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 4월 경기 광명시 일직동 신안산선 복선전철 5-2공구 붕괴 현장에서 수색 작업이 벌어지고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 국토교통부는 이 같은 내용이 담긴 건설사고조사위원회 조사 결과를 발표했다. 사고는 작년 4월 광명시 일직동 양지사거리 인근에서 발생했다. 지하에서 터널을 뚫던 중 구조물이 무너지면서 위 도로까지 내려앉았고, 이로 인해 작업자 1명이 숨지고 1명이 크게 다쳤다. 추가 붕괴 우려로 인근 주민 약 2300명이 체육관과 학교 등으로 대피하기도 했다.&lt;br&gt;&lt;br&gt;조사 결과, 터널을 지탱하는 핵심 구조물인 중앙기둥이 애초에 충분한 하중을 견디지 못하는 상태로 설계된 것으로 나타났다. 기둥이 견뎌야 할 무게를 실제보다 약 2.5배 적게 계산한 것이다. 이런 설계 오류는 이후 단계에서도 걸러지지 않고 그대로 공사로 이어졌다.&lt;br&gt;&lt;br&gt;공사 과정에서도 지반 상태를 제대로 확인하지 않는 등 전반적인 관리 부실이 확인됐다. 터널을 뚫을 때는 전문가가 직접 앞쪽 암반 상태를 확인해 위험 요소를 파악해야 하지만, 일부 구간에서는 이를 사진으로만 확인한 것으로 조사됐다. 매일 실시해야 하는 자체 점검과 정기 점검도 제대로 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;시공 과정에서도 설계와 다른 방식으로 공사가 진행됐다. 터널을 좌우로 굴착할 때는 양쪽의 깊이 차이를 20m 이내로 유지해야 했는데, 실제로는 36m까지 차이가 생긴 것으로 조사됐다. 감리는 공사 과정에서 안전 문제가 생기면 이를 발주자에게 보고했어야 하지만, 이마저도 지켜지지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;국토부는 설계 오류와 시공·감리 부실에 따라 시공사인 포스코이앤씨를 비롯해 설계사와 감리사에 대해 영업정지 등 행정 처분을 추진할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남부지법, 장동혁 “골라먹기 배당” 주장에 “타법원 동일” 반박</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/VNR7EF63WNEYFHJ2BVX57ANXTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/VNR7EF63WNEYFHJ2BVX57ANXTU/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 05:35:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLSGJ6STMVMLRKEOMOKYDZ56DI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 장동혁 대표가 2일 국회에서 열린 최고위원회의에서 물을 마시고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장동혁 국민의힘 대표가 잇따라 국민의힘 관련 가처분 사건을 인용하고 있는 서울남부지법을 향해 “골라먹기 배당”이라며 비판한 데 대해 남부지법이 “다른 법원도 동일하다”며 사실무근이라는 취지로 반박했다.&lt;br&gt;&lt;br&gt;남부지법은 2일 기자단에 배포한 입장문을 통해 “민사 신청합의 사건은 수석부인 제51민사부(권성수 수석부장판사)가 담당한다”며 “서울 관내 타 법원에서도 이와 마찬가지로 수석부에서 민사 신청합의 사건을 담당하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “장 대표 또는 국민의힘으로부터 가처분 사건의 배당에 관한 질문을 받은 사실도, 어떠한 답변을 드린 사실도 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 장 대표는 이날 오전 서울 여의도 국회에서 열린 최고위원회의에서 “남부지법에는 가처분 신청 사건을 담당하는 합의부가 2개 있는데 국민의힘 관련 가처분 신청 사건은 유독 권성수 재판장이 있는 민사합의 51부에만 계속 배당돼 왔다”며 “어떤 근거에 의해 이렇게 사건 배당해 왔는지 국민과 국민의힘에 설명하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(법원에 질의한 결과) 사건이 접수되면 권 판사가 국민적 관심이 높은 사건이나 자신이 하고 싶은 사건은 본인에게 배당하고 나머지 사건만 다른 재판부에 배당한다는 것”이라며 “골라 먹기 배당을 하고 있다. 임의 배당이 아니라 자의 배당을 한다면 그 재판은 이미 공정성을 잃은 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;앞서 서울남부지법 민사합의51부(재판장 권성수)는 지난달 31일 김영환 충북지사의 컷오프(공천 배제) 효력을 정지했다. 김종혁 전 최고위원과 배현진 의원이 국민의힘의 징계가 부당하다고 낸 가처분 신청도 인용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>블랙박스가 가른 실체적 진실… 안동 사고 운전자 ‘바꿔치기’ 적발</title>
+      <link>https://www.chosun.com/national/2026/04/02/Y35RJMSZN5DBLN3VFFKJ57MMZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/02/Y35RJMSZN5DBLN3VFFKJ57MMZ4/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 05:19:53 +0000</pubDate>
+      <content:encoded>경북 안동에서 발생한 중앙선 침범 교통사고와 관련해 운전자 바꿔치기 정황이 드러나 실제 운전자와 동승자 등 2명이 재판에 넘겨졌다. 블랙박스 영상과 영상 감정 등 검찰의 보완 수사가 진범을 가리는 계기가 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7U5JDPYPFGKXMYFPJNUUMZKIM.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지검 안동지청은 2일 지난해 9월 안동에서 발생한 교통사고와 관련해 남성 운전자 A씨를 무면허 운전·치상 혐의 등으로, 여성 지인 B씨를 범인도피 혐의로 각각 불구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면, 당시 A씨는 승용차를 몰다 중앙선을 침범해 사고를 냈다. 이 사고로 동승한 B씨는 전치 6주, 상대 차량 운전자는 전치 3주의 상해를 입었다.&lt;br&gt;&lt;br&gt;이 사건으로 당초 B씨는 교통사고처리특례법상 치상 혐의 피의자로 송치됐다. 그러나 검찰이 보완 수사를 진행하는 과정에서 상대 차량 피해자가 추가 제출한 블랙박스 영상이 결정적 단서가 됐다. 사고 직후 운전석에서 내린 인물의 모습이 A씨와 뚜렷이 달라 운전자 바꿔치기 정황이 포착된 것이다.&lt;br&gt;&lt;br&gt;검찰은 대검찰청 영상 감정을 통해 화질을 개선한 결과, 실제 운전자 A씨가 사고 직후 운전석에서 내려 조수석에 타고 있던 B씨를 부축하는 장면을 확인했다.&lt;br&gt;&lt;br&gt;A씨는 앞서 음주운전으로 집행유예 기간 중 무면허로 차량을 운전한 상태였다. 검찰은 A씨가 집행유예 기간 중 무면허 운전 사실을 숨기기 위해 조수석 동승자인 B씨를 운전자로 꾸민 것으로 보고 수사를 확대해 왔다.&lt;br&gt;&lt;br&gt;검찰은 A씨에게 무면허운전과 치상, 범인도피교사 혐의를 적용해 기소했다. 당초 A씨에게 적용됐던 교통사고처리특례법상 치상 혐의는 혐의없음 처분하고, 대신 범인도피교사 혐의를 적용해 재판에 넘겼다. &lt;br&gt;&lt;br&gt;안동지청 관계자는 “송치 사건을 검토 중 블랙박스 영상에서 운전자 인상 차이를 확인하고 바꿔치기 정황을 포착했다”며 “영상 감정, 통신 수사 등을 통해 실체적 진실을 밝혀낸 사건”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대구 캐리어 여성 시신’ 사건… 경찰, 딸·사위 긴급체포</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/03/31/HHDAZMZYOFGE7MTQZXZP7QNWMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/03/31/HHDAZMZYOFGE7MTQZXZP7QNWMI/</guid>
+      <dc:creator>김석모 기자, 대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Mar 2026 13:00:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DCN3DGNQWMY3BMZRTINZTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 대구 북구 칠성동 잠수교 아래에서 50대 여성 시신이 든 캐리어가 발견돼 경찰이 수사에 나섰다. 사진은 캐리어 발견 지점인 잠수교 인근 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 50대 여성 시신이 담긴 캐리어가 발견된 사건과 관련, 경찰이 20대 딸과 사위를 긴급 체포했다.&lt;br&gt;&lt;br&gt;대구 북부경찰서는 31일 살인·시체 유기 혐의로 A(여·20대)씨와 그의 남편을 긴급 체포했다. 이들은 시신으로 발견된 여성의 딸과 사위다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 10시 30분쯤 대구 북구 칠성동 잠수교 아래에서 캐리어가 떠다닌다는 시민의 신고가 접수됐다. 현장에 출동한 경찰은 캐리어 안에서 여성의 시신을 발견했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UQAOFAV4BFJXP4J7FES3XLCQA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 50대 장모를 폭행해 살해한 20대 사위와 딸이 대구 중구 주거지에서 신천으로 이동하는 모습이 담긴 CCTV 영상. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 시신의 지문과 DNA를 분석한 경찰은 대구에 거주하는 50대 한국인 여성임을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 등을 통해 숨진 여성의 행적을 추적하는 과정에서 딸과 사위가 범행에 가담한 혐의점을 발견하고 긴급 체포한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 구체적인 사건 경위를 파악한 후 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/H63RW26UJFBP3B6ZSNH6ZD35YI.gif?auth=78b2f2988db1bc168895bbfaed1aea5148338c8e9a96dbdff5ee4b6c651ef6a7&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
+        <media:description type="plain">지난달 18일 50대 장모를 폭행해 살해한 20대 사위와 딸이 대구 중구 주거지에서 신천으로 이동하는 모습이 담긴 CCTV 영상. /독자 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘제37회 전국무용제’ 개최 도시 인천 확정… 보름간 5만명 발길 전망</title>
+      <link>https://www.chosun.com/national/regional/2026/04/02/VMKYWOETFZAKFPHGBTR7QJO7AY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/02/VMKYWOETFZAKFPHGBTR7QJO7AY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 05:17:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LN4I5HOE7IHE7GV5FGK272HUEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;발레 공연 장면. 사진은 기사와 직접적인 관련 없음. / 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제37회 전국무용제’가 2028년 인천에서 열린다. 인천시는 최근 (사)대한무용협회로부터 2028년 전국무용제 개최 도시로 확정됐다는 내용을 전달받았다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;전국무용제는 한국무용과 발레, 현대무용 등 장르의 17개 시·도 대표 무용단이 참여하는 국내 최대 규모 무용 축제다. &lt;br&gt;&lt;br&gt;인천시와 (사)대한무용협회가 공동 주최하고 인천무용협회와 전국무용제 집행위원회가 주관하는 제37회 전국무용제는 2028년 9월 10일부터 24일까지 15일간 인천 남동구 인천문화예술회관과 부평구 부평아트센터, 중구 상상플랫폼 등 주요 공연장에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;이번 무용제에선 시도 대표 무용단체 경연과 함께 청소년 댄스페스티벌, 전국 실용무용 챔피언십, 국내외 유명 무용단체 초청 공연 등이 진행되며, 인천공항 등지에서도 ‘찾아가는 공연’이 마련된다. &lt;br&gt;&lt;br&gt;또 지역 무용예술 발전 방향 및 인천 지역 발전을 위한 무용 예술 관련 학술세미나를 비롯해 생활무용 강좌 등도 진행된다. &lt;br&gt;&lt;br&gt;인천시는 전국무용제 기간 약 5만명이 인천을 찾아 238억원 규모의 경제효과가 있을 것으로 예상했다. &lt;br&gt;&lt;br&gt;인천시는 이번 유치를 계기로 순수 예술 중심의 문화 도시 이미지를 강화할 방침이다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “전국무용제는 창작과 향유, 교육이 어우러지는 종합적인 예술 플랫폼”이라며 “시민과 예술가가 함께 호흡하는 축제가 될 수 있도록 준비해 나가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장애인 폭행 혐의 색동원 종사자 2명… 검찰 송치</title>
+      <link>https://www.chosun.com/national/incident/2026/04/02/RCFAGQZOW5E3TFQ72K5TRH3FD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/02/RCFAGQZOW5E3TFQ72K5TRH3FD4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 05:09:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3DKNLBMZRWINJYGQYDKNDCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중증장애인 거주 시설인 인천 강화군 색동원./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인들을 폭행한 혐의를 받는 인천 강화군 중증 장애인 거주 시설 색동원 종사자 2명이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 장애인복지법 위반 혐의로 불구속 입건된 A씨 등 색동원 종사자 2명을 검찰에 송치했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난해 색동원에서 장애인 입소자 3명을 폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;서울경찰청 색동원 사건 특별수사단은 앞서 A씨 등의 주소지를 고려해 인천경찰청으로 사건을 이송, 송치하게 했다. &lt;br&gt;&lt;br&gt;장애인 입소자를 상대로 성범죄를 저지른 혐의를 받는 색동원 시설장 B씨는 서울경찰청이 서울중앙지검에 직접 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>호감 거부하자 집착… 창원 20대女 살해한 30대 ‘스토킹’ 정황</title>
       <link>https://www.chosun.com/national/regional/2026/04/02/AS2ENZX2UJFENNBKKD6TPQWPYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/02/AS2ENZX2UJFENNBKKD6TPQWPYI/</guid>
@@ -810,33 +897,6 @@
       <content:encoded>‘쌍방울 대북 송금’ 수사를 맡았던 박상용 검사가 최근 이화영 전 경기도 부지사 변호인이었던 서민석 변호사가 공개한 녹취록과 관련, “‘이재명이 주범이고 우리는 빼달라’고 한 사람이 서 변호사”라고 주장했다. 박 검사는 31일 조선일보 유튜브 ‘삼자대면’에 출연해 이같이 밝혔다. &lt;br&gt;&lt;br&gt;앞서 민주당과 서 변호사는 기자회견을 열어 대북 송금 수사 당시인 2013년 6월 19일 통화 내용을 공개했다. 그에 따르면 박 검사는 “실제로 이재명 씨가 완전히 주범이 되고 이 사람이 종범이 되는 식의 자백이 있어야 저희가 그거를 할 수가 있고”라고 했다. 박 검사가 이재명 대통령을 이 사건 주범으로 만들려고 압박과 회유를 했다는 주장이다. &lt;br&gt;&lt;br&gt;박 검사는 이에 대해 “이 사건은 경기도지사를 북한에 보내기 위해 쌍방울이 북한에 돈을 줬다는 것이고, 검찰은 이재명 당시 경기지사와 이화영 부지사를 공범으로 보고 있었다”며 “그런데 서민석 변호사가 변호인이 되고 나서 ‘이화영이 자백을 했으니 (법정형이 높은)특가법 뇌물 대신 일반 뇌물을 적용해 주고 방조범까지 해 달라’고 얘기를 했다”고 밝혔다. &lt;br&gt;&lt;br&gt;방조범은 타인의 범행 실행을 돕는 행위를 하는 사람을 의미하며 종범과 사실상 같은 개념이다. 반면 공동정범은 타인과 공동으로 범죄행위를 한 것으로, 이씨가 ‘방조범’이 되면 이재명 당시 경기지사의 책임이 상대적으로 무거워진다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTDIZBXGNRDMZRWMIZGMYJQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 14일 국정감사에 출석한 대북 송금 사건 수사 검사 박상용 당시 법무연수원 교수(왼쪽)와 이화영 전 경기도 평화부지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “그때까지는 두 사람이 공동정범이라고 생각하고 있었는데 이화영이 아니라고 한 것”이라며 “그 얘기(자신이 방조범이라는 내용)를 한 번 해보세요, 이렇게 된 것”이라고 밝혔다. 이화영씨 측의 요구를 들어주려면 추가 증거와 진술이 있어야 한다는 것을 설명하는 과정에서 이와 같은 표현이 나왔다는 것이다. &lt;br&gt;&lt;br&gt;박 검사는 “기업 회장 사건으로 치면 ‘회장은 몰랐다, 내가 다 했다’고 하던 부회장이 갑자기 ‘사실은 제가 종범’이라고 한 것과 같다”고 했다. 범행은 회장이 다 하고 자신은 도와준 데 불과하다는 주장과 마찬가지라는 것이다. 그는 “저는 사건의 실체를 밝혀야 하는 사람이어서 추가로 얘기를 들어야 했다”고 밝혔다. &lt;br&gt;&lt;br&gt;또한 같은 날 녹취록에서 자신이 언급했다는 ‘공익 제보’ ‘추가 영장’ 내용에 대해서도 “(이화영 측에서 자신을) 공익 제보자로 해달라고 해서 그걸 검토한 것이고, 자백을 하게 되면 도주나 증거인멸의 우려가 없기 때문에 추가 영장 청구를 하지 않는다”며 “자백에 대해서는 선처를 하게 돼 있고 이것은 거래가 아니다”라고 했다. &lt;br&gt;&lt;br&gt;그는 서 변호사가 청주시장 후보로 나선 것과 관련, “선거 포스터에 ‘검찰의 칼로부터 이재명을 지킨 변호사’ 이렇게 돼 있는데 제가 경험한 바로는 ‘이재명이 주범이고 우리는 빼줘’ 이렇게 저한테 얘기했던 분”이라고 밝혔다. 자세한 내용은 조선일보 유튜브 ‘삼자대면’에서 볼 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘송금 받는 사람’ 이름 바꿔 택시비 ‘먹튀’… 계좌이체 사기 덜미</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/AI4TYMV5CVFBRJCQABKONJALGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/AI4TYMV5CVFBRJCQABKONJALGA/</guid>
-      <dc:creator>정채빈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 01:16:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSTZHDGZWRBILPMFDHYZPCX4I4.png"&gt;&lt;figcaption&gt;&lt;small&gt;수취인의 이름만 바꿔 택시 요금을 송금한 것처럼 꾸민 화면./경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘받는 사람’의 이름만 바꿔 자신의 계좌에 송금하는 수법으로 택시비 등을 가로채 온 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;지난달 31일 경찰청 유튜브에 따르면 최근 울산 남구 신정지구대는 계좌 이체 화면을 조작해 요금을 지불한 것처럼 속인 A씨를 사기 혐의 등으로 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨의 범행은 그와 택시 기사가 요금 문제로 실랑이를 벌이다 지구대를 방문하면서 드러났다. 당시 A씨는 기사에게 요금을 보냈다며 자신의 휴대전화의 계좌 이체 완료 화면을 제시했다. 화면에는 택시 요금 6700원과 기사의 이름이 적혀 있었다. 그러나 기사의 은행 계좌에는 입금 내역이 확인되지 않았다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 택시 기사의 계좌가 아닌 본인의 또 다른 계좌로 요금을 보내고, 수취인의 이름만 기사의 이름으로 조작해 보여주는 수법으로 이 같은 범행을 저지른 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;또한 A씨의 최근 이체 내역을 추가로 확인하는 과정에서 약 3시간 전부터 유사한 방식의 계좌 이체 내역이 여러 건 이뤄진 정황이 포착됐다. 그는 해당 이체 내역에 대해 구체적으로 설명하지 못한 것으로 전해졌다. 특히 A씨는 다량의 담배와 전자담배 등을 소지하고 있었는데, 이를 수상히 여긴 경찰이 동선을 추적한 결과 한 편의점에서도 같은 수법으로 물건을 손에 넣은 사실이 확인됐다.&lt;br&gt;&lt;br&gt;한편 최근 대구에서도 계좌 이체 화면을 조작해 대금을 지불하지 않는 수법의 범죄가 발생한 바 있다. 20일 JTBC 사건반장에 따르면 대구 서문시장의 어묵 가게에서 단골이던 여성 손님이 미리 캡처해둔 가짜 송금 화면으로 계좌 이체를 한 것으로 속여 음식을 먹은 사실이 드러나 경찰에 덜미를 잡혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“美 명문대 꽂아줄게” 8억5000만원 챙긴 입시 브로커, 징역 1년 10개월 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/G6KHUBVCVFGFVAHQRH6DKR6XPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/G6KHUBVCVFGFVAHQRH6DKR6XPU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 01:00:11 +0000</pubDate>
-      <content:encoded>“미국 명문대에 편입시켜 주겠다”며 학부모에게서 8억5000만원을 받아 챙긴 입시 브로커가 대법원에서 실형을 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSDCNZRG5RDEODCGQ4TAY3CGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 특정경제범죄가중처벌법상 사기 및 위증 교사 혐의로 기소된 정모씨에게 징역 1년 10개월을 선고한 원심을 확정했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 2018년 5월부터 12월까지 학부모 A씨에게 “미국 대학을 졸업하고 입시 컨설턴트로 일하며 명문대 합격 경험이 많은 입학 사정관을 안다”며 “계약금 2억원을 포함해 총 8억5000만원을 주면 자녀를 명문대에 편입시켜 주겠다”고 속여 돈을 가로챈 혐의를 받았다.&lt;br&gt;&lt;br&gt;정씨는 또 별도의 사기 사건으로 재판을 받는 과정에서 증거로 제출된 메신저 대화 내용의 조작 사실을 숨기기 위해 지인에게 법정에서 허위 증언을 교사한 혐의도 받았다.&lt;br&gt;&lt;br&gt;1심은 정씨의 혐의를 모두 유죄로 인정해 사기 혐의에 징역 2년, 위증 교사 혐의에 징역 8개월을 각각 선고했다. 정씨 측은 “단순 입학 컨설팅 명목으로 돈을 받았다”며 “실제로 자녀가 대학에 입학했으므로 기망이나 편취의 고의가 없다”며 항소했다. 또 “계약금 2억원은 계약금 불이행에 따른 위약금”이라며 사기 금액에서 제외해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 2심은 이를 받아들이지 않았다. 재판부는 “피해자가 교부한 돈의 명목은 ‘입학사정관을 통한 기여 편입학’이었고, 정씨는 지속적인 입학 문의에도 관련 자료 제시를 피하는 등 이를 실행할 능력이 없었던 것으로 보인다”고 밝혔다. 계약금 2억원은 사기 금액에서 제외해야 한다는 정씨 주장에 대해서도, 재판부는 “기망 행위로 피해자를 착오에 빠뜨린 상태에서 돈을 계속 받기 위해 계약에 포함된 것에 불과하다”며 8억5000만원 전액을 사기 금액으로 인정했다.&lt;br&gt;&lt;br&gt;다만 2심 재판부는 양형이 부당하다며 1심 판결을 파기하고 형량을 낮췄다. 사기 혐의에 대해 “수험생과 부모의 간절함을 이용해 거액을 편취한 점에서 죄질이 불량하다”면서도 “일부 금원을 반환했고 피해자가 처벌 불원 의사를 밝힌 점, 다른 확정 판결과 동시에 재판받았을 경우의 형평성 등을 고려했다”며 징역 1년 6개월로 감형했다.&lt;br&gt;&lt;br&gt;위증 교사 혐의에 대해서는 형법상 자백 감면 규정을 적용하지 않은 1심의 법리 오해를 지적하며 직권으로 파기하고 징역 4개월을 선고했다. 재판부는 정씨가 해당 사건 판결 확정 전 위증 교사 사실을 자백한 점을 감경 사유로 반영했다. 형법 제153조는 위증의 죄를 범한 사람이 그 진술을 한 사건의 재판이나 징계 처분이 확정되기 전에 자백하거나 자수하면 그 형을 감경하거나 면제하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;정씨는 이에 불복해 상고했으나 대법원은 “원심이 필요한 심리를 다하지 않았거나 법리를 오해한 잘못이 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 법무장관, 여당에 “임시국회 ‘국가폭력 범죄 시효 배제 입법’ 우선 논의해달라”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/PT4AD367TZD6BOO5VWR2BXMB64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/PT4AD367TZD6BOO5VWR2BXMB64/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 00:57:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQTEMZTGIYGCNBSGNSWIYRSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부는 정성호 장관이 지난달 31일 서영교 국회 법제사법위원회 위원장 등을 예방해 '중점 추진 7대 민생 안전 법안'을 설명하고, 집중 심사를 요청했다고 1일 밝혔다. /법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 정성호 장관이 지난달 31일 국회에서 한병도 더불어민주당 원내대표와 법제사법위원회 서영교 신임 위원장·김용민 여당 간사를 만나 ‘중점 추진 7대 민생·안전 법안’을 설명하고 집중 심사를 요청했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 7개 법안 중에서도 ‘국가폭력 범죄의 시효 배제를 위한 입법’을 우선 논의해 달라고 했다. &lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 지난달 29일 4·3 희생자 유족과의 오찬 간담회 자리에서 “국가범죄는 나치 전범 처벌과 같이 영구적으로 책임지도록 하겠다”면서 “공소시효와 소멸시효를 완전히 배제해, 살아있는 한 형사 책임을 지고 자손들도 상속 재산 범위 내에서 민사 책임을 지도록 하겠다”고 했다. 정 장관도 같은 날 페이스북에 글 올리고 “국가폭력 범죄의 시효 배제를 위한 입법에 적극 나서겠다”고 했다.&lt;br&gt;&lt;br&gt;국가 폭력 범죄의 시효를 배제하는 내용의 ‘반인권적 국가범죄의 시효 등에 관한 특례법’은 2024년 12월 민주당 주도로 국회 본회의를 통과했다. 그러나 최상목 당시 대통령 권한대행은 ‘소급 입법에 해당한다’며 거부권(재의요구권)을 행사했다.&lt;br&gt;&lt;br&gt;이 밖에 법무부 중점 추진 법안에는 소액·다수 불법행위 피해자 구제를 위한 집단소송제를 확대하는 ‘집단소송법’ 개정안, 불법 사금융 범죄 수익을 국가가 직접 피해자에게 환부하도록 하는 ‘부패재산몰수법’ 개정안, 친일재산환수를 위한 조사위원회를 재설치하는 ‘친일재산귀속법’ 제정안이 있다. 유죄판결 없이 범죄수익 몰수가 가능한 독립몰수제를 도입하는 내용의 ‘범죄수익은닉규제법’ 개정안, 고위험 성폭력 범죄자에 대한 전자감독을 강화하는 ‘전자장치부착법’ 개정안, 교제폭력 피해자를 보호하기 위한 관련 법제를 정비하는 내용의 ‘스토킹처벌법’ 개정안도 있다.&lt;br&gt;&lt;br&gt;정 장관의 요청에 서영교 법사위원장은 “이재명 정부를 뒷받침할 수 &lt;b&gt; &lt;/b&gt; 추진하는 7대 법안을 최우선적으로 통과시키도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘순풍산부인과 정배’ 장가간다… 배우 이태리, 비연예인과 5월 결혼</title>
       <link>https://www.chosun.com/national/people/2026/04/01/3ECGPSSVOFG6DLMB7MDQQNCPJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/01/3ECGPSSVOFG6DLMB7MDQQNCPJ4/</guid>
@@ -846,27 +906,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYNXQV2Z4JFMRIS5JCR5IFFRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'순풍 산부인과' 정배 역할의 어린 이태리(왼쪽)와 현재 모습&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SBS 시트콤 ‘순풍산부인과’에 정배 역으로 출연했던 배우 이태리(본명 이민호·33)가 결혼 소식을 알렸다. &lt;br&gt;&lt;br&gt;1일 소속사 와이원엔터테인먼트는 공지를 통해 “이태리 배우가 오는 5월 소중한 인연과 함께 백년가약을 맺게 됐다”고 밝혔다. 결혼식은 양가 가족과 가까운 지인들만 초대해 조용하게 치를 예정이며 예비 신부는 비연예인인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소속사는 “인생의 새로운 출발선에 선 이태리에게 따뜻한 축복과 응원 보내달라”며 “이태리는 앞으로도 배우로서 다양한 작품과 활발한 활동으로 좋은 모습을 보여드리겠다”고 했다.&lt;br&gt;&lt;br&gt;소속사는 비연예인인 예비 신부 측을 배려해 이태리 결혼식의 구체적인 날짜·시간·장소 등은 모두 비공개하기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J36P5S52OZAQRLJYIPZQZYZCOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이태리의 순풍산부인과 출연 장면. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아역 배우 출신인 이태리는 1998년 SBS 시트콤 ‘순풍산부인과’에서 미달이(김성은 분) 친구 정배를 연기해 시청자들의 사랑을 받았다. 당시 이태리는 “맙소사!” 등의 유행어도 만들었다.&lt;br&gt;&lt;br&gt;이태리는 과거 한 인터뷰에서 당시 상황에 대해 “제가 6세 때 한글을 잘 몰랐다. 그래서 부모님이 옆에서 대사를 불러주면 그걸 듣고 대사를 외웠다. ‘맙소사’라는 뜻도 몰랐다”고 했다. &lt;br&gt;&lt;br&gt;한편 이태리는 그동안 ‘옥탑방 왕세자’, ‘대풍수’, ‘화정’, ‘어쩌다 발견한 하루’, ‘구미호뎐’, ‘태종 이방원’ 등 다양한 영화와 드라마에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/K2R6JWVLVZHSZEGSI4OQJ4FA7I.jpg?auth=508233742b3337f41179ed93f7abeb61dabf2d53e96c53285214daad43c4d62c&amp;smart=true&amp;width=1600&amp;height=1080" type="image/jpeg" height="1080" width="1600">
         <media:description type="plain">'순풍 산부인과' 정배 역할의 어린 이태리(왼쪽)와 현재 모습</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>농협중앙회장, 187만 조합원 직선제로..정부, 5월부터 농지 투기 전수조사</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/BM3VSCS4RVDIFGNQKAPHIWOYVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/BM3VSCS4RVDIFGNQKAPHIWOYVA/</guid>
-      <dc:creator>김지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 00:05:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJW4MUXSKRGAXPWGJVGZZ3ZAKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 농협중앙회 본부 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농협중앙회장을 뽑는 방식이 현행 조합장 간선제에서 전체 조합원 직선제로 바뀐다. 또 농지 투기 근절을 위해 전국 195만ha(헥타르·1㏊는 1만㎡) 대상 전수조사도 다음달 시작된다. &lt;br&gt;&lt;br&gt;더불어민주당과 정부는 1일 당정협의회를 열어 농협 개혁방안과 농지 전수조사 추진방안 등을 논의했다고 밝혔다. &lt;br&gt;&lt;br&gt;지금까지 농협중앙회장은 전국 조합장 1110명이 대의원 자격으로 선출해왔다. 당정은 이를 전체 조합원 직선제로 바꾸기로 했다. 복수 조합 중복 가입자를 제외한 실질 유권자는 187만명으로, 1인 1표를 행사하게 된다. 차기 중앙회장 선거는 2028년 3월 열린다. &lt;br&gt;&lt;br&gt;직선제 전환에 따른 부작용을 막기 위한 대책도 논의됐다. 농식품부 관계자는 “현재 중앙회장이 이사회 의장을 겸임하는 구조를 검토해 이사회 의장을 외부 인사로 선임하는 방안을 검토중”이라고 말했다. 퇴직자의 중앙회·계열사 재취업 제한, 중앙회장 피선거권 요건 강화 등 선거 정치화 방지 방안도 논의 중이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMLJTC37VNOOFFK7JJPZLX3CUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수도권 내 한 농지 너머로 아파트 단지 등 재개발 구역이 들어서 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 당정이 발표한 전국 농지 195만ha 대상 전수조사는 사상 처음 시행되는 것이다. 이승만 정부가 농지개혁 당시 전국적인 농지 실태조사를 벌인 적이 있으나 전쟁으로 마치지 못했다. 2021년 LH 사태 때도 전수조사 필요성이 제기됐지만 인력·비용 문제로 흐지부지됐다.&lt;br&gt;&lt;br&gt;올해 1단계 조사(5~12월)는 1996년 농지법 시행 이후 취득한 농지 115만ha를 대상으로 한다. 5~7월에는 행정정보·위성사진·AI 분석으로 의심 농지를 가려내고, 8월부터는 투기 위험도가 높은 10대 집중조사 대상(72만ha)에 전담 인력을 투입해 무단 휴경·불법 전용 등 법 위반 여부를 확인한다. 10대 조사 대상에는 토지거래허가구역, 수도권 전 지역(22만ha·173만 필지), 경매 취득자, 외국인 소유 농지 등이 포함된다. &lt;br&gt;&lt;br&gt;내년 2단계 조사에서는 1996년 이전 취득 농지 약 80만ha까지 범위를 넓힌다. &lt;br&gt;&lt;br&gt;지방정부와 국립농산물품질관리원은 이번 조사를 위해 5000명을 신규 채용할 예정이다. 국비와 지방비를 합쳐 농지조사에 투입되는 예산은 1100억원이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남대병원, 광주권역 희귀질환 전문기관 지정… “원정치료 부담 해소”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/E7E2TWPEH5GXJORP24S4ZEIC6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/E7E2TWPEH5GXJORP24S4ZEIC6A/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 04:25:17 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5DRZEQGTBBLRF2AOY4RUJ7VAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남대병원 전경. /전남대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남대병원이 광주권역 희귀 질환 환자들을 치료하는 전문 기관으로 선정됐다. &lt;br&gt;&lt;br&gt;전남대병원은 1일 “질병관리청의 희귀 질환 전문 기관 추가 공모 결과 전남대병원과 울산대병원 2곳이 지정됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;희귀 질환 전문 기관은 지역 내 희귀 질환 환자가 타 지역으로 이동하지 않아도 진단부터 치료, 사후 관리까지 전주기 의료 서비스를 받을 수 있도록 지원하는 거점 의료 기관이다.&lt;br&gt;&lt;br&gt;전국 권역별 희귀 질환 전문 기관은 현재까지 총 19곳이다. 전남권역은 지난 2024년 화순전남대병원이 지정됐다. 올해는 광주권역 거점 상급 종합 병원인 전남대병원이 포함됐다.&lt;br&gt;&lt;br&gt;전남대병원 관계자는 “이번 희귀 질환 전문 기관 지정은 광주권역에 거점 의료 기관이 없어 수도권 등 타 지역으로 이동해야 했던 환자들의 경제적·시간적 부담을 해소하기 위해 추진됐다”고 설명했다.&lt;br&gt;&lt;br&gt;전남대병원은 이번 사업을 통해 진단부터 치료, 지역사회 연계 등이 가능한 ‘지역 완결형 진료 체계’를 확립할 계획이다. 또 어린이 병원에 전용 외래 진료실과 상담실, 사무실을 갖추고 환자 중심 원스톱 서비스를 한다.&lt;br&gt;&lt;br&gt;희귀 질환 의심 환자의 조기 진단도 지원한다. 임상 데이터를 희귀 질환 정책 수립 및 치료법 연구 기초 자료로 활용해 공공 의료 기관 역할도 강화한다.&lt;br&gt;&lt;br&gt;양은미 희귀 질환 전문 기관 사업단장(소아청소년과 교수)은 “희귀 질환 관리의 사각지대를 없애도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/D5DRZEQGTBBLRF2AOY4RUJ7VAI.jpg?auth=41c5f78ad7ba25f3d32567c1fa3e623ae188779055e24e034c60d0fc3c4690fa&amp;smart=true&amp;width=1600&amp;height=1067" type="image/jpeg" height="1067" width="1600">
-        <media:description type="plain">전남대병원 전경. /전남대병원</media:description>
       </media:content>
     </item>
     <item>
@@ -895,27 +934,6 @@
       <description/>
       <pubDate>Wed, 01 Apr 2026 02:33:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSTSNLGGZQTSNDDGU3DIOLFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부(장관 정성호)는 스토킹범죄 피해자가 법원에 직접 접근금지를 신청할 수 있도록 한 스토킹처벌법 개정안이 지난 31일 국회 본회의를 통과했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;그간 스토킹 피해자는 경찰에 요청하는 것 외엔 접근금지 등 보호를 받을 수 있는 방법이 없었다. 가정폭력과 아동학대의 경우 피해자가 법원에 직접 보호조치를 신청하는 ‘피해자보호명령’ 제도가 도입돼 있었지만, 스토킹 피해자는 그렇지 못했던 것이다.&lt;br&gt;&lt;br&gt;이날부턴 스토킹 피해자도 경찰에 접근금지를 요청했음에도 경찰이 신청하지 않거나 검사가 법원에 청구하지 않을 경우 90일 이내에 직접 법원에 신청해 접근금지 명령을 받아낼 수 있다. 법원의 피해자보호명령을 어긴 사람은 2년 이하의 징역 또는 2000만원 이하 벌금에 처해진다.&lt;br&gt;&lt;br&gt;정성호 장관은 “스토킹범죄 피해자 보호의 사각지대가 해소될 것으로 기대하며, 국민이 안심하고 생활할 수 있도록 피해자 보호제도를 강화하는 데 최선의 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영환 충북지사 “나를 컷오프 할 분은 도민뿐… 무소속 출마도 불사”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/04/01/UB2RRZVIM5GNRE72WXDMYKNA6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/04/01/UB2RRZVIM5GNRE72WXDMYKNA6E/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 02:21:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DMZJRHBRDOYZUMY4TGYTDMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북지사가 1일 도청 브리핑룸에서 공천 배제 효력정지 가처분 인용과 관련한 입장을 밝히고 있다./충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 공천에서 배제됐던 김영환 충북지사가 1일 법원의 가처분 인용 결정에 따라 경선 참여를 강력히 요구했다. 김 지사는 “잘못된 결정을 바로잡아 달라”며 “공천 배제가 지속될 경우 무소속 출마도 강행하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;김 지사는 이날 충북도청 브리핑룸에서 기자회견을 열고 “나를 컷오프할 수 있는 분도, 다시 도정을 맡길 분도 오직 충북도민뿐”이라며 “사법부의 판단을 통해 공천 경쟁에 참여할 법적 자격을 확보했다. 이제 민심을 받들어 결정을 바로잡아 달라”고 요구했다. &lt;br&gt;&lt;br&gt;전날 법원은 김 지사가 제기한 공천 효력 정지 가처분 신청을 인용했다. &lt;br&gt;&lt;br&gt;이에 대해 김 지사는 “정당 내부 문제를 사법부로 끌고 온 점에 대해 당원들에게 송구하다”면서도 “당의 잘못된 결정을 바로잡고 정당 민주주의를 지키기 위한 불가피한 선택이었다”고 설명했다. &lt;br&gt;&lt;br&gt;특히 김 지사는 장동혁 당 대표가 법원 결정에 대한 부정적 입장을 보인 것에 대해서는 “법조인 출신으로서 당의 자율성을 강조한 원론적 입장일 것”이라면서도 “법치주의 국가에서 법원의 결정을 무시하고 공천 참여를 봉쇄하는 일은 있을 수 없다”고 강조했다. &lt;br&gt;&lt;br&gt;이어 그는 “국민의힘 후보로 나가는 것이 도리지만, 어처구니없는 불공정이 지속된다면 무소속 출마도 할 것”이라며 “이번 선거에 나가지 않는 일은 절대로 없을 것”이라고 했다. 그러면서 “내가 선거에 나서지 않으면 국민의힘 지지층이 투표장을 찾지 않아 지역 선거 생태계가 무너질 것”이라고 덧붙였다. &lt;br&gt;&lt;br&gt;김 지사는 최근 거론되는 중진 의원 전략공천설에 대해서는 “근거 없는 이야기”라며 “한 달 정도 남은 기간 동안 도정에 집중하면서 당의 전향적인 결정을 기다리겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민형배, 주철현과 전남·광주시장 단일화… 민주당 경선도 민형배·김영록·신정훈 3파전</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/RG3MTSBMAJESVHSPKQOG5IEXTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/RG3MTSBMAJESVHSPKQOG5IEXTM/</guid>
-      <dc:creator>여수=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 02:18:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4TQYTCGFTDSZJXMYZDIZBWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민형배(오른쪽) 더불어민주당 전남광주특별시장 예비후보와 주철현 예비후보가 1일 전남 여수세계박람회장 컨벤션센터에서 민 후보로 단일화를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민형배 전남·광주특별시장 선거 예비후보와 주철현 예비후보가 민 후보로 단일화를 이뤘다. 더불어민주당 전남·광주특별시장 후보를 뽑는 당내 경선 구도는 민형배·김영록·신정훈 예비후보 등 3파전으로 압축됐다.&lt;br&gt;&lt;br&gt;민형배·주철현 예비후보는 1일 전남 여수세계박람회장 컨벤션센터에서 기자회견을 열고 “통합 특별시의 성공적인 출범과 산업 경제 대전환을 위해 공동의 가치와 정책 연대를 바탕으로 후보 단일화를 선언한다”고 밝혔다.&lt;br&gt;&lt;br&gt;전남 여수세계박람회장은 국회의원인 주 후보의 지역구다. 주 후보는 “전남·광주 대도약의 꿈을 민 후보의 어깨에 얹으면서 후보직을 내려놓는다”고 말했다.&lt;br&gt;&lt;br&gt;민 후보는 “산업 정책, 교통·인프라, 교육·복지, 농어촌, 기후·환경, 청년·미래 일자리 등 전 분야에 걸친 통합 로드맵을 제시하겠다”며 “시민이 참여하고 평가하는 ‘시민주권 통합특별시’의 토대도 세우겠다”고 했다.&lt;br&gt;&lt;br&gt;두 후보의 단일화에 따라 3~5일 열리는 민주당 전남·광주특별시장 후보 본경선은 민형배 후보와 신정훈 후보, 김영록 후보 등 3파전으로 치러진다.&lt;br&gt;&lt;br&gt;본경선은 권리당원 선거인단 투표 50%와 일반시민 투표 50%를 더하는 국민참여경선 방식으로 한다. 민주당은 본경선에서 과반 득표자가 나오지 않으면 12~14일 결선을 거쳐 최종 후보를 가린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GM4TQYTCGFTDSZJXMYZDIZBWHE.jpg?auth=07c6538c4b012cd00cb1edb8e0196271f2cd031b6941ef67f12e2352135f7f36&amp;smart=true&amp;width=6720&amp;height=4480" type="image/jpeg" height="4480" width="6720">
-        <media:description type="plain">민형배(오른쪽) 더불어민주당 전남광주특별시장 예비후보와 주철현 예비후보가 1일 전남 여수세계박람회장 컨벤션센터에서 민 후보로 단일화를 발표하고 있다. /뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>은퇴 군견·경찰견 입양하면 연 최대 100만원 지원</title>
@@ -949,27 +967,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4QV2MAGILBB5HJUL5LS6JSTXOE.jpg?auth=e9e3341d316c6fdffee86082e805028e04769934b8044b2e82aae4d66ab1c726&amp;smart=true&amp;width=3840&amp;height=2160" type="image/jpeg" height="2160" width="3840">
         <media:description type="plain">일러스트=조선디자인랩 김영재·Midjourney</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>중년 여행자의 필수 단어 ‘bad back’ ‘bad knee’</title>
-      <link>https://www.chosun.com/national/education/2026/04/01/UAIE6264PBANBGBHME5S7FX6NM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/01/UAIE6264PBANBGBHME5S7FX6NM/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 18:00:00 +0000</pubDate>
-      <content:encoded>유럽의 고성이나 오래된 기차역, 박물관에서 끝도 없는 계단을 마주했을 때, 무리하게 오르다 무릎을 다치면 남은 일정을 통째로 망치기 십상이죠. 그럴 때 현지인에게 도움을 요청해야 하는데, 막상 영어로 어떻게 말해야 할지 막막합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOQ7F7IPLFGQTMSJKX27SLME4E.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“제 무릎 관절 상태가 좋지 않아서...”라고 복잡하게 설명할 필요 없습니다. 신체 부위가 아프거나 불편할 때는 아주 단순하게 그 부위 앞에 ‘bad’를 붙여 표현하면 됩니다. 무릎이 안 좋으면 ‘bad knee’, 허리가 안 좋으면 ‘bad back’, 고관절은 ‘bad hip’, 발목은 “bad ankle”, 손목은 “bad wrist”, 어깨가 안 좋으면 “bad shoulder”라고 하는 식이지요.&lt;br&gt;&lt;br&gt;공공시설은 노약자나 신체적 불편함이 있는 사람들을 위한 별도의 통로가 아주 잘 마련되어 있죠. 엘리베이터를 찾는다면 미국·캐나다에서는 elevator, 영국과 호주 등 영연방 국가들에서는 lift라고 한다는 것도 함께 기억해 두세요. 관련 예문을 보겠습니다.&lt;br&gt;&lt;br&gt;“Excuse me, where is the nearest elevator?” (실례합니다, 가장 가까운 엘리베이터가 어디 있나요?)&lt;br&gt;&lt;br&gt;“Is there an escalator I could use instead?” (대신 이용할 수 있는 에스컬레이터가 있나요?)&lt;br&gt;&lt;br&gt;“How many flights of stairs is it? I’m trying to decide whether to take the stairs.” (몇 층이나 올라가야 하나요? 계단을 이용할지 결정하려고요.)&lt;br&gt;&lt;br&gt;“Is there a ramp or a gentler route I could take?” (경사로나 좀 더 완만한 길 없나요?)&lt;br&gt;&lt;br&gt;“We have someone in a wheelchair. Is there an accessible route?” (일행 중 휠체어를 타는 분이 계세요. 접근 가능한 경로가 있나요?)&lt;br&gt;&lt;br&gt;여행지에서 몸 상태를 솔직하게 밝히는 건 민폐가 아닙니다. 특히 서구권에서는 도움 요청하는 것을 매우 자연스러운 일로 여깁니다. &lt;br&gt;&lt;br&gt;“Is there a place where I can sit down for a moment?” (잠시 앉아서 쉴 만한 곳이 있을까요?)&lt;br&gt;&lt;br&gt;“I have a cramp in my leg.” (다리에 쥐가 났어요.) &lt;br&gt;&lt;br&gt;“I have a bad back, so I can’t carry heavy bags.” (허리가 안 좋아서 무거운 가방을 들 수가 없어요.)&lt;br&gt;&lt;br&gt; “&lt;mark class="hl_yellow"&gt;I’m not great with ~&lt;/mark&gt;”은 “&lt;mark class="hl_yellow"&gt;~가 좀 힘들어요&lt;/mark&gt;”, “&lt;mark class="hl_yellow"&gt;~에 자신이 없어요&lt;/mark&gt;”라는 뜻으로 신체적 불편함이나 어려움을 부드럽게 전달하는 표현입니다. “I can’t do ~”처럼 단정적으로 말하는 것보다 훨씬 자연스럽고 원어민같은 표현입니다.&lt;br&gt;&lt;br&gt;“I’m not great with heights.” (높은 곳은 좀 무서워요.)&lt;br&gt;&lt;br&gt;“I’m not great with spicy food.” (매운 음식은 잘 못 먹어요.)&lt;br&gt;&lt;br&gt;“I’m not great with long walks.” (오래 걷는 건 잘 못해요.)&lt;br&gt;&lt;br&gt;“I’m not great in the heat.” (더위에 좀 약해요.)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RJPAVWEQKNHYJNTFM6APQ2C25Y.png?auth=eb665ed8b6ed096ab40770b346cab30acfa32f643fde270a738a390e6d76a196&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[핫코너] “취업 기운 받으러 관악산 왔어요” 명당 순례 다니는 MZ</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/7IRVUQZNPRARZK7DM7MJPU2FWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/7IRVUQZNPRARZK7DM7MJPU2FWY/</guid>
-      <dc:creator>구아모 기자, 윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MINNBFQRUBAWDJD4XWR7ED5OCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 14일 토요일 오전 서울 관악산 연주대 정상 일대가 등산객들로 붐비고 있다. 최근 2030 사이에서 ‘명당 산행’이 유행하며 인파가 몰리고 있다. /독자 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“관악산 기(氣) 받아 코인 투자가 대박 났으면 좋겠어요.” &lt;br&gt;&lt;br&gt;지난달 24일 오전 9시 찾은 서울 관악산 정상인 연주대(해발 630m). 바위에 걸터앉아 도시락을 먹던 공무원 박주영(30)씨가 소원 빌 듯 이렇게 말했다. 옆에 있던 김다혜(32)씨는 “이직 준비 중인데 얼른 새 직장을 구하고 싶다”고 했다. 평일인데도 대학생과 취업 준비생은 물론 휴가를 내고 온 직장인들도 등산로 곳곳에 보였다. 이들은 연주대 비석 앞에서 줄을 서서 휴대폰으로 셀카를 찍은 뒤 “관악산 기운이 유독 좋다는 말을 듣고 새벽부터 서둘렀다”고 했다.&lt;br&gt;&lt;br&gt;최근 MZ세대들 사이에서 ‘명당 순례’가 유행처럼 번지고 있다. 고물가·저성장과 취업난 등 불확실한 상황에 지친 청년들이 ‘기운’ ‘운’ 등에 기대 위안을 얻으려는 현상으로 풀이된다. 시작은 지난 1월 방영된 TV 예능 프로그램이었다. 한 역술가가 “운이 안 풀릴 때는 관악산에 가라”고 발언한 장면이 급속도로 퍼졌다. 그러면서 관악산이 젊은이들 사이에서 명당으로 꼽히며 주말마다 등산객이 몰리기 시작했다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티와 소셜미디어 등에선 ‘재물운이 따르는 명소’ 같은 명당 소개글도 잇따라 올라오고 있다. 북한산을 가면 ‘사업운’이 따르고 청계산에 가면 ‘재물운’이 따른다는 식이다. 산에 오른 뒤 인증샷을 찍어 온라인 커뮤니티나 소셜미디어에 올리는 것도 유행하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E256UY5WCVGAPE3BOYWKMVZEIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 찾은 서울 관악산 정상 연주대의 모습. 주말 및 공휴일 혼잡에 대비해 '인증샷 촬영 시 우측통행' 등을 당부하는 안내판이 세워져 있다. 관악산 등산로 안내소 관계자는 "날이 풀리며 인파가 급증함에 따라 안전 사고 예방을 위해 3월 셋째 주쯤 안내 표지판을 설치했다"고 했다./윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구의 한 특급 호텔도 젊은이들의 순례 코스다. 온라인 등에서 이 호텔 입지를 두고 “남산 중턱에서 한강을 내려다보는 배산임수(背山臨水) 지형이 추진력과 확장 등 좋은 기운을 준다”고 평가한 글이 인기를 끌면서다. &lt;br&gt;&lt;br&gt;이날 이 호텔 로비에서 만난 취업 준비생 유모(25)씨는 “지푸라기라도 잡는 심정으로 왔다”고 했다. 출산을 앞둔 양모(38)씨는 “아기에게 좋은 기운을 주고 싶어 왔다”고 했다. 호텔 관계자는 “풍수 명소라는 입소문이 퍼지더니 호텔에 묵지 않는데도 로비를 찾는 젊은 방문객이 부쩍 늘었다”고 했다. &lt;br&gt;&lt;br&gt;젊은 층은 디지털 기술과 결합한 풍수지리를 활용한다. 올해 법학전문대학원에 합격한 김모(25)씨는 “입시 준비할 때 챗GPT에 내 사주와 풍수적으로 잘 맞는 대학을 물어본 적이 있다”며 “가고 싶던 대학과 기운이 맞다는 답변을 듣고 큰 위안을 얻었다”고 했다.&lt;br&gt;&lt;br&gt;청년들이 ‘풍수’ ‘기운’에 기대는 걸 두고 전문가들은 갈수록 무종교 비율이 느는 현상과 관련이 있다고 분석했다. 한국리서치 조사에 따르면 20대(18~29세) 무종교인 비율은 2021년 67%에서 지난해 72%로 증가했다. 조인철 원광디지털대 동양학과 교수는 “청년들이 원하는 즉각적인 위로나 개인 맞춤형 해답을 종교에서 찾지 못하면서, 풍수나 사주 같은 전통 신앙으로 관심이 빠르게 이동하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
