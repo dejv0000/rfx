@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 4월 3일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/02/4VWURI2FG5BP5JDTONOO4TZEII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/02/4VWURI2FG5BP5JDTONOO4TZEII/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 14:31:00 +0000</pubDate>
+      <content:encoded>금 - 전국 대부분 오후부터 흐려지고 곳곳에 비&lt;br&gt;&lt;br&gt;토~일 - 토요일 낮까지 비 소식&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5YZ5WC6DVFVHEJBN3FFQAPFVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘커피 3잔’ 알바 고소한 점주, 비난 여론에 고소 취하</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/04/02/D3FWS5BUDFC3RFUBBSRQYYUJB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/04/02/D3FWS5BUDFC3RFUBBSRQYYUJB4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 14:12:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3DONBQHA4DGOLDMFTDMNJZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주청원경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근길에 음료 3잔을 가져간 아르바이트생을 횡령 혐의로 고소한 카페 업주가 고소를 취하했다. &lt;br&gt;&lt;br&gt;2일 경찰에 따르면 청주에서 프렌차이즈 카페를 운영하는 점주 A씨는 이날 변호사를 통해 청주청원경찰서에 전 아르바이트생 B(21)씨에 대한 고소 취하서를 제출했다. 사건이 언론에 보도되면서 여론이 악화하자 이런 결정을 내린 것으로 알려졌다. &lt;br&gt;&lt;br&gt;하지만 업무상횡령죄는 반의사불벌죄에 해당하지 않아, 경찰은 수사를 계속 진행할 예정이다. &lt;br&gt;&lt;br&gt;이번 사안과 관련, 고용노동부는 해당 카페에 대한 기획 감독에 착수했다. 또 해당 프랜차이즈 본사도 조사를 진행하고 있다. &lt;br&gt;&lt;br&gt;앞서 A씨는 아르바이트생 B씨가 지난해 10월 2일 오후 10시 34분쯤 퇴근하면서 아이스 아메리카노 등 1만2800원 상당의 음료 3잔을 무단으로 제조해 챙겨갔다며 업무상 횡령 혐의로 B씨를 고소했다. &lt;br&gt;&lt;br&gt;B씨는 “모두 제조 실수로 인한 폐기 처분 대상이었다”며 억울함을 호소했고, 업주는 “규정과 달라 횡령이 맞다”며 팽팽히 맞섰다. &lt;br&gt;&lt;br&gt;경찰은 B씨의 혐의가 인정된다고 보고 그를 검찰에 불구속 송치했다.현재는 검찰이 증거 보강 등을 이유로 보완수사를 요구하면서 경찰이 수사를 이어가고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성남서 심정지 환자 탄 구급차, 승용차와 충돌</title>
+      <link>https://www.chosun.com/national/incident/2026/04/02/AAUFCOZ3W5A3LFEE4CNDZJGMZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/02/AAUFCOZ3W5A3LFEE4CNDZJGMZY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 12:25:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EME3MX6JBAI3GOUGFC3AKQ5UE.png"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남에서 심정지 환자를 이송하던 구급차와 승용차가 충돌하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;2일 오후 7시 43분쯤 경기 성남시 분당구 미금역 사거리에서 구급차가 승용차와 충돌했다. &lt;br&gt;&lt;br&gt;당시 구급차는 심정지 환자를 병원으로 이송하던 중이었다. 이 사고로 구급차 탑승자와 승용차 운전자 등 6명이 가벼운 부상을 입었다. &lt;br&gt;&lt;br&gt;구급차에 타고 있던 심정지 환자는 다른 구급차로 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 구급차의 신호 위반으로 사고가 난 것으로 보고 정확한 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘노란봉투법’ 시행 후 원하청 사용자성 첫 인정</title>
+      <link>https://www.chosun.com/national/labor/2026/04/02/GLUUHE2SV5DA7MF44RENXXHAOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/02/GLUUHE2SV5DA7MF44RENXXHAOI/</guid>
+      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 11:16:44 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6A62KUTNZCEJNM354POCWE5Z4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 조합원들이 지난 3월10일 서울 종로구 세종대로 일대에서 열린 민주노총 투쟁 선포대회에서 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노란봉투법(노동조합 및 노동관계조정법 2·3조개정안) 시행 이후 처음으로 원청 사측이 하청 노조의 사용자에 해당한다는 노동위원회의 판단이 나왔다. 하청 노조가 비교적 사용자성 인정이 쉬운 산업 안전 관리 분야 등을 내세워 원청과 교섭 테이블을 차리게 될 것이란 그동안의 예측이 현실화된 것이다. 사용자성 인정이 불확실하다는 이유로 교섭을 거부해 온 원청 업체들 입장에선 하청 노조들의 계속된 교섭 요구에 시달릴 가능성이 커졌다.&lt;br&gt;&lt;br&gt;2일 충남지방노동위원회는 한국원자력안전기술원, 한국원자력연구원, 한국자산관리공사, 한국표준과학연구원 하청 노조가 제기한 ‘교섭 요구 사실 공고에 대한 시정 신청’에 대해 원·하청 간 사용자성이 인정된다고 결론 내렸다. 충남지방노동위는 “용역 계약서 및 과업 내용서 등에서 각 공공기관이 하청 근로자들의 안전 관리 및 인력 배치 등에서 노동조합법상 실질적인 사용자의 지위에 있다고 인정된다”고 밝혔다. 이에 따라 한국원자력연구원 등은 하청 노조의 교섭 요구 사실을 7일간 공고한 뒤 교섭에 돌입해야 한다.&lt;br&gt;&lt;br&gt;---------------------------&lt;br&gt;&lt;br&gt;한국원자력안전기술원 등 공공 부문 원청 업체와 교섭을 요구한 하청 노조는 청소나 경비, 시설 관리 등을 하는 노동자들이다. 이들은 “하청 업체가 아닌 원청 업체가 안전과 복리후생, 근로조건, 임금 등을 결정하는 진짜 사장”이라고 주장했는데, 이날 충남지방노동위는 안전 관리 등 일부 교섭 의제에 대해 사용자성을 인정하며 노조 손을 들어줬다.&lt;br&gt;&lt;br&gt;노동계에선 이번 결정을 계기로 원청 업체를 상대로 한 하청 노조의 교섭 요구가 크게 확대될 것으로 전망한다. 노란봉투법 통과 이전부터 산업 안전 분야 등 비교적 사용자성 인정이 쉬운 교섭 의제를 내세워 하청 노조의 교섭 요구가 이어질 것이란 관측이 많았다. 박지순 고려대 법학전문대학원 교수는 “현재 교섭을 거부 중인 원청 사업장을 중심으로 사용자성을 인정받기 위한 시정 신청 등이 대거 확대될 것”이라며 “기업들은 하청 노조의 상시적 교섭 요구에 시달릴 가능성이 크다”고 했다. 국회 기후에너지환경노동위원회 소속 조지연(국민의힘) 의원에 따르면, 지난달 10일부터 30일까지 노동위에 접수된 교섭 관련 조정 신청은 267건이었다. &lt;br&gt;&lt;br&gt;특히 이는 원·하청 노사 간 교섭 의제가 백화점식으로 늘어날 것이란 우려로도 연결된다. 충남지방노동위는 이날 원·하청 간 교섭 의제를 특정했지만, 일단 원·하청 간 교섭 테이블이 차려지면 사용자성이 인정되는지 불확실한 교섭 의제도 논의 대상이 될 수밖에 없다는 게 전문가들의 공통된 지적이다. 한 대기업 노무 담당자는 “결국 하청 노조가 바라는 건 처우 개선이며 그 핵심은 임금 인상”이라며 “교섭이 시작되면 교섭 의제를 합의해주지 않으면서 이면 합의로 임금 인상 등을 끊임없이 요구할 것”이라고 했다. 실제로 금속노조는 지난달 정기 대의원 대회에서 임금 인상을 원청 교섭의 핵심 의제로 정했다고 공표하기도 했다.&lt;br&gt;&lt;br&gt;전문가들은 충남지방노동위가 용역 계약서 및 과업 지시서 등을 언급하며 안전 관리 분야를 원·하청 교섭 의제로 인정한 것에도 주목하고 있다. 고용노동부는 지난 2월 확정한 노란봉투법 해석 지침에서 ‘공장 관리자가 청소 용역업체에 일별 작업 장소 배정 등을 과업 지시서를 통해 정하거나 결과 기준을 제시하는 경우’ 등을 예로 들며, 이는 도급·위임 계약 관계에서 ‘일반적 지시권’에 해당해 원청이 하청을 구조적으로 통제하는 경우로 보기 어렵다고 설명했다. 그런데 노동위는 과업 지시서 등을 언급하며 청소나 시설 관리를 맡은 하청 업체 노조와 원청 업체 간 사용자성을 인정했다. 이를 두고 노동위가 예상보다 원·하청 간 ‘구조적 통제’ 개념을 더 넓게 해석할 것이란 분석이 나온다.&lt;br&gt;&lt;br&gt;치열한 법적 다툼 역시 본격화 될 것으로 보인다. 노사 양측은 결정문을 받은 뒤 10일 이내에 중앙노동위원회에 재심 청구를 할 수 있고, 여기에도 불복하면 행정법원에서의 소송도 할 수 있다. 노동부 등에 따르면 800여 하청 노조가 교섭을 요구했는데, 이 중 상당수가 행정법원까지 가서 사용자성을 두고 다툴 것으로 전망된다. 특히 이날 사용자성이 인정된 공공 부문의 경우 정부의 예산 집행 등에 의해 하청의 임금 등이 결정되는 구조기 때문에, 하청 노조가 정부를 상대로 교섭 요구를 할 수 있어 셈법이 더 복잡하다. 다만 기업 입장에선 법원에서 다투더라도 일단 교섭 테이블을 차리지 않으면 부당 노동 행위가 되는 만큼 불확실성을 안고 가야 하는 부담은 고스란히 남는다.&lt;br&gt;&lt;br&gt;이날 결정 후 민주노총은 즉각 성명을 내 원청 업체들에 대한 압박을 이어갔다. 민주노총은 “원청 사용자들은 더 이상 숨을 곳이 없다”며 “법과 제도, 그리고 사회적 판단은 이미 ‘진짜 사용자’가 누구인지 가리키고 있다. 이제 남은 것은 회피가 아니라 책임 있는 응답뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>MBK·영풍 가처분 최종 기각... “고려아연 주총 의결권 제한, 문제 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/02/2NKZONSTZJFA5MWIQYQ4EGSZUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/2NKZONSTZJFA5MWIQYQ4EGSZUM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 11:38:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRDCZDBHBSDIM3CMY2DGMDCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 고려아연 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 영풍과 MBK파트너스가 고려아연을 상대로 “영풍의 정기 주주총회 의결권 행사를 허용해달라”며 낸 가처분 신청이 대법원에서 최종 기각됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 2일 영풍·MBK가 고려아연을 상대로 낸 ‘의결권 행사 허용 가처분’ 사건 재항고심에서 “의결권 제한은 정당하다”며 영풍 측 재항고를 기각했다.&lt;br&gt;&lt;br&gt;사건의 발단은 작년 초 고려아연 주총을 앞두고 벌어진 ‘상호주 의결권 제한’ 공방이다. 상법은 A사가 B사 주식을 10% 넘게 가지고 있으면, 거꾸로 B사가 가진 A사 주식은 의결권을 행사할 수 없도록 규정한다. 계열사를 동원해 서로의 의결권을 부풀리는 것을 막기 위한 장치다.&lt;br&gt;&lt;br&gt;최윤범 고려아연 회장 측은 1월 임시 주총 직전 호주 손자회사 썬메탈코퍼레이션(SMC)가 영풍 주식을 사들이게 해 지분율을 10.03%로 맞췄고, 이를 근거로 상호주 제한을 적용해 영풍 의결권을 정지시켰다.&lt;br&gt;&lt;br&gt;영풍 측은 즉각 반발했다. 주총 의결권을 행사할 주주를 정하는 기준일(2024년 12월 31일) 당시에는 SMC의 영풍 지분이 10%에 미치지 않아 상호주 관계 아니었기 때문에 의결권 제한은 부당하다고 주장했다.&lt;br&gt;&lt;br&gt;최 회장 측은 SMC가 보유한 영풍 지분을 자회사 썬메탈홀딩스(SMH)로 넘겨 새로운 상호주 관계를 만들었고, 이를 근거로 그해 3월 정기 주총에서도 영풍 의결권을 제한했다. 그러자 영풍·MBK 연합이 낸 것이 이번 가처분이다. &lt;br&gt;&lt;br&gt;그러나 서울중앙지법은 가처분 신청을 받아들이지 않았다. 영풍 측이 불복해 항고했으나 같은 해 6월 서울고법에서 기각됐고, 이날 대법원도 같은 판단을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘달러 강제매각’ 가짜뉴스 확산… 경기남부청 “무관용 수사”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/E4E734CPRFASFAKKICTK4LQNBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/E4E734CPRFASFAKKICTK4LQNBQ/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 12:08:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSTGYRZMQ4WCNTFMFRWCMDCHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 ‘정부가 개인·기업 보유 달러를 강제로 매각하게 한다’는 내용의 가짜뉴스가 온라인에서 확산되자 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 2일 온라인상에서 급속도로 확산 중인 ‘정부의 달러 강제매각 조치’ 관련, 허위정보에 대한 모니터링과 관계 부처 고발에 따라 수사를 진행하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;해당 글에는 “중동 전쟁 장기화에 따른 위기 대응을 위해 정부가 긴급재정경제명령을 발동해 개인이나 기업이 보유한 외화를 강제로 처분(매각)하게 할 것”이라는 주장이 담긴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 이 같은 정보가 사실과 다른 허위 내용임에도 급속히 퍼지며 외환시장 불안과 정책 신뢰 훼손을 초래할 수 있다고 보고 있다. &lt;br&gt;&lt;br&gt;이에 따라 사이버수사과를 중심으로 최초 작성자는 물론 조직적으로 유포·확산에 가담한 중간 유포자까지 추적 수사할 방침이다. IP 추적 등 수사 기법을 동원해 신속히 피의자를 특정하겠다는 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “국가적 경제 위기 상황이나 중대한 시기에 국민 불안감을 조성하고 시장 혼란을 야기하는 악의적인 가짜뉴스 생산&lt;b&gt;·&lt;/b&gt;유포 행위는 중대한 범죄”라며 “사이버 수사 역량을 총동원해 피의자를 신속히 특정하고, 무관용 원칙에 따라 엄중하게 처벌할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘비화폰 증거인멸’ 박종준 前경호처장에 징역 3년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/02/BUTA2N3SJBGUJF3UR7WCQVBHSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/BUTA2N3SJBGUJF3UR7WCQVBHSU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 11:38:25 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 당시 윤석열 전 대통령과 홍장원 전 국가정보원 1차장 등이 사용한 비화폰 통화 기록을 삭제한 혐의로 기소된 박종준 전 대통령경호처 처장에게 조은석 내란 특별검사팀이 징역 3년을 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 2일 서울중앙지법 형사32부(재판장 류경진) 심리로 열린 박 전 처장의 증거인멸 혐의 1심 결심 공판에서 “현직 대통령 탄핵의 핵심 증거이자 내란 관련 유일한 객관적 물증을 없애 해악이 매우 크다”며 이같이 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQWCN3BGRSTSM3GHAYWGM3EME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처 처장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 전 처장은 계엄 이튿날인 2024년 12월 6일 윤 전 대통령과 홍 전 차장, 김봉식 전 서울경찰청장이 사용하던 비화폰 통화 기록을 없애기 위해 ‘원격 로그아웃’을 통해 임의로 삭제한 혐의를 받는다.&lt;br&gt;&lt;br&gt;특검은 삭제된 비화폰 기록이 윤 전 대통령의 국회 체포조 운영 지시를 확인할 수 있는 핵심 증거였다고 지적했다. 이어 “박 전 처장은 25년간 재직한 고위 경찰 간부 출신으로, 증거의 가치를 잘 알고 있음에도 보안 조치를 빌미로 윤 전 대통령을 위해 고위공직자로서의 책임을 방기하고 범행에 대한 잘못도 뉘우치지 않고 있다”고 말했다.&lt;br&gt;&lt;br&gt;박 전 처장 측은 최후변론에서 비화폰 삭제는 통상적인 보안 조치였을 뿐 증거인멸의 고의가 없었다며 무죄를 주장했다. 변호인은 “윤 전 대통령의 내란 수사나 탄핵 소추를 저지하기 위한 의도는 전혀 없었다”며 “경호처장에게 부여된 보안 유지 업무를 수행하는 과정에서 (비화폰 삭제) 조치를 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 전 처장은 최후진술에서 “12월 6일 당시 윤 전 대통령은 탄핵 소추 전으로 직무 수행 중이었다”며 “대통령 비화폰 노출 공개는 심각한 경호 보안 위협이라고 판단했다”고 말했다. 이어 “현시점에서 돌아볼 때 부족한 전문지식 판단으로 최상의 조치를 못한 점은 있으나, 저나 저의 간부들이 증거인멸 의도는 없었다”며 “저는 경호처장으로서 어수선한 상황에서 직무 수행하고 직원들이 다치지 않게 하려고 노력했다. 공정한 재판을 바란다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이날 변론을 종결하고 다음 달 21일을 선고기일로 지정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천 아파트서 숨진 채 발견된 60대 여성… 국과수 “흉기 살해 추정”</title>
       <link>https://www.chosun.com/national/incident/2026/04/02/WV4XB5BWD5G3DE6YFFZZYU3LSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/02/WV4XB5BWD5G3DE6YFFZZYU3LSU/</guid>
@@ -809,15 +872,6 @@
       <content:encoded>오는 8월로 예정됐던 ‘택시월급제’의 전국 도입이 다시 미뤄질 전망이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHSARAKOANJMVGVA3HQHKR6A7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 국회에서 열린 국토교통위원회 전체 회의에서 택시월급제 전국 도입 2년 유예안이 의결되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 국회 국토교통위원회는 전체회의를 열고 택시 월급제 전국 시행 시점을 2년 연장하는 내용을 담은 ‘택시운송사업의 발전에 관한 법률’ 개정안을 의결했다. 법안이 본회의를 통과하면 전국 확대 적용은 2028년 8월로 늦춰진다.&lt;br&gt;&lt;br&gt;택시월급제는 회사가 운송수입을 전액 관리하고 기사에게 월급을 지급하는 방식이다. 기존에는 하루 수입 중 일정 금액을 회사에 납부하는 ‘사납금제’가 일반적이었는데, 과로를 유발한다는 비판이 이어지면서 2019년 도입됐다. 주 40시간 근무를 기본으로 고정적인 월급을 받는 제도다. 전국에서 택시 수요가 가장 많은 서울에서 2021년부터 시범 시행됐고, 올해 8월부터 전국으로 확대될 예정이었다.&lt;br&gt;&lt;br&gt;그러나 시범 운영 과정에서 여러 부작용이 나타나 업계와 노동계 모두 제도 개선을 요구해왔다. 택시업계는 “코로나19 이후 승객 감소와 기사 이탈이 겹쳐 영업 이익이 크게 줄어든 상황에서 고정적인 임금 지급은 어렵다”는 입장이다. 운행 횟수는 줄었는데 차량 유지비 등 고정비는 그대로라 생존 위기에 몰린 상황이라는 것이다.&lt;br&gt;&lt;br&gt;택시 기사들 사이에서도 불만이 적지 않다. 근무 시간은 크게 변하지 않았는데 수입이 줄었다는 것이다. 개인차는 있지만 월급제 시행 이후 사납금제 때보다 월평균 30만~40만원가량 수입이 감소했다는 목소리가 많다. 실제로 전국택시운송사업조합연합회와 양대 택시 노조(한국노총 전국택시노동조합연맹·민주노총 전국민주택시노동조합)가 작년 기사 4만여 명을 대상으로 실시한 조사에서는 택시 기사 57.9%가 사납금제를 선호한다고 답했다. 월급제를 선택한 비율은 8.9%에 그쳤다.&lt;br&gt;&lt;br&gt;이 같은 상황을 고려해 여야는 당장 전국 확대 적용을 하긴 어렵다고 보고 택시 월급제 유예에 합의했다. 앞서 한 차례 전국 시행이 연기된 데 이어 이번에도 미뤄지면서, 업계에선 “사실상 큰 폭의 제도 개선이 불가피해졌다”는 지적도 나온다.&lt;br&gt;&lt;br&gt;이번 개정안에는 일부 보완책도 포함됐다. 노사가 합의하는 경우 보유 면허 대수의 40% 범위 내에서 근로시간을 탄력적으로 정할 수 있도록 했고, 택시 운송 수입을 정확히 파악하기 위해 택시 법인에게 자료 제출을 의무화하는 조항도 신설했다. 이에 응하지 않을 경우 과태료를 부과하는 규정도 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>산나물 아닌 독초 먹었나… 영양 주민 6명이 식중독 증상 </title>
-      <link>https://www.chosun.com/national/2026/04/01/HIN6RXP2EJH53M2UE5QMYMR7D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/01/HIN6RXP2EJH53M2UE5QMYMR7D4/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 08:33:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDSODBGA3DAZTGMZSWIOJVGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보건환경연구원 식중독균 배양검사. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산나물을 나눠 먹은 경북 영양군 일월면 마을 주민 6명이 식중독 증세를 보여 당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;이들은 병원으로 옮겨졌으며, 현재 3명이 회복해 퇴원했지만 3명은 병원에서 치료 중이다.&lt;br&gt;&lt;br&gt;1일 경찰과 영양군 등에 따르면 지난달 31일 오후 4시 21분쯤 영양군 일월면 한 마을 주민 6명이 산나물을 함께 먹은 뒤 식중독 증세를 보였다.&lt;br&gt;&lt;br&gt;이웃 사이인 이들은 모두 40~60대로 이들 중 한 명의 집에서 함께 라면에 산나물을 넣어 끓여 먹은 후 각자 귀가했다. 하지만 이들은 각각 어지럼증과 구토, 마비, 혈압 저하 등 증상이 잇따라 나타나자 6명 모두 안동에 있는 병원에 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;이들 중 4명이 구토 등 증세가 심한 것으로 알려졌다. 하루가 지난 1일 오전 현재 3명이 퇴원했지만 3명이 병원에서 중환자실에서 일반 병실로 옮겨 치료를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 울릉도가 주산지인 미나리 일종의 전호나물을 라면에 넣어 나눠 먹은 것으로 파악됐다. 해당 나물을 제공한 이는 A(88)씨였다. A씨는 인근 산에서 채취한 산나물을 아들 B(55)씨에게 준 것으로 알려졌다. B씨도 지인 5명과 함께 산나물 라면으로 식사를 한 뒤 같은 증상으로 병원에서 치료를 받고 있다. &lt;br&gt;&lt;br&gt;보건 당국과 경찰은 전호나물이 식용이어서 독초 등 다른 물질이 섞여 있었는지 파악 중이다.&lt;br&gt;&lt;br&gt;보건 당국에 따르면 전호나물과 가장 유사한 것은 봄에 흔한 양귀비과 식물인 ‘산괴불주머니’이다. 꽃 피기 전 어린잎 상태에선 미나리로 오인하기 쉽다고 한다. &lt;br&gt;&lt;br&gt;이 식물은 양귀비과 식물에서 나타나는 공통 증상으로 중추신경와 자율신경을 교란하는 독성을 가졌다. 데치거나 삶아도 독성이 유지된다. 섭취하면 30분에서 한두 시간 내 구토와 두통, 의식 저하, 경련, 호흡곤란 등 증상이 나타난다고 한다. &lt;br&gt;&lt;br&gt;영양군보건소는 식중독 증세를 보인 이들로부터 검체를 채취해 역학 조사를 맡기는 한편 남은 음식물을 수거해 경북도 보건환경연구원에 검사를 의뢰했다. 경찰도 범죄 관련성을 파악하기 위해 가검물과 혈액을 채취해 국립과학수사연구원에 분석을 의뢰했다.&lt;br&gt;&lt;br&gt;영양군 관계자는 “역학조사 결과가 나와야 구체적인 경위를 파악할 수 있다”며 “봄철에는 산나물과 혼동되기 쉬운 독초에 세심한 주위가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>기대와 우려 엇갈린 ‘광주 軍 공항 이전’ 전남 무안 주민 설명회</title>
       <link>https://www.chosun.com/national/national_general/2026/04/01/SUUDSD6PHVEH5K7ICBYZ7NLYUE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/SUUDSD6PHVEH5K7ICBYZ7NLYUE/</guid>
@@ -829,15 +883,6 @@
         <media:description type="plain">1일 전남 무안군 승달문화예술회관 대강당에서 열린 광주 군공항 주민 설명회에서 군민들이 박승흥 군공항이전사업추진단장의 답변을 듣고 있다. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경계선 지능장애 여성 속여 장애수당 빼앗은 20대 남성 구속</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/767QLNPEB5HZ3P3FVFOM44PJCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/767QLNPEB5HZ3P3FVFOM44PJCA/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 07:22:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43US5IMNQ5APFH3MBFA32X42EA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 서울 영등포구 대림동의 한 ATM기에서 20대 남성 A씨가 현금을 인출하는 모습. /영등포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경계선 지능장애를 가진 여성에 접근해 장애수당 등 800만원 상당을 빼앗은 20대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 지난달 29일 컴퓨터 등 사용 사기 혐의를 받는 20대 남성 A씨를 구속했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 경계선 지능장애를 가진 40대 여성 B씨에게 “대출을 알아봐주겠다”며 접근해 휴대전화, 복지카드, 통장 비밀번호 등을 건네받은 뒤, B씨의 장애·복지수당 등 약 809만원을 ATM기에서 직접 인출해 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;2024년 7월 서울 강서구의 한 애견샵 직원으로 일하던 A씨는 손님으로 온 B씨가 매달 입금되는 장애수당으로 생계를 유지한다는 사실을 알고 범행을 계획했다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 접수한 불법 채권 추심 사건을 수사하던 중 A씨가 B씨의 개인정보를 이용해 인터넷에서 사채 약 130만원을 빌리도록 해 가로챈 사실을 알아내고 수사에 착수했다.&lt;br&gt;&lt;br&gt;A씨는 경찰의 수사가 시작되자 주거지에서 떨어진 경기도의 한 PC방에 직원으로 취직해 도피 생활을 했지만, 지난달 27일 지인을 만나러 서울에 왔다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A씨를 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>거구 쩍벌남과 13시간 초밀착 비행… “알아서 비즈니스 타라” 기내 민폐 논쟁</title>
@@ -853,33 +898,6 @@
       </media:content>
     </item>
     <item>
-      <title>“아내·자녀에 입에 담기 힘든 욕설” 법적 대응 나선 추신수</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/6VUVUR4LYRAQZCK3HOIJ57TZIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/6VUVUR4LYRAQZCK3HOIJ57TZIA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 07:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHQJW4RCXZFHSOT4ZWMT7PSPTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추신수 프로야구 SSG 랜더스 구단주 보좌역 겸 육성총괄. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추신수 프로야구 SSG 랜더스 구단주 보좌역 겸 육성총괄이 온라인상의 악성 댓글과 허위 사실 유포에 법적으로 대응하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;1일 추신수 육성총괄의 소속사 스포트레인은 입장문을 통해 “당사는 추신수 육성총괄이 2005년 메이저리그 데뷔 이후 온라인상의 각종 악성 댓글과 허위 사실 유포를 묵묵히 견뎌온 과정을 가장 가까이서 지켜봐 왔다”며 “공인이자 야구인으로서 감내해야 할 부분이라 생각하며 인내해 왔으나, 최근 그 수위가 단순한 비판을 넘어 도를 넘어서고 있다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 “특히 은퇴 이후에도 아내와 자녀들의 개인 소셜미디어에 입에 담기 힘든 욕설이 지속되고 있다”며 “각종 온라인 커뮤니티와 게시판을 통해 가족들의 실명을 거론하며 가해지는 원색적인 욕설과 모욕은 더 이상 묵과할 수 없는 수준에 이르렀다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 “이에 당사는 법무법인을 선임하였으며, 악성 댓글 작성자 및 허위사실 유포자들에 대해 모욕 및 명예훼손 혐의로 형사고소를 진행하게 되었음을 알려드린다”며 “향후 발생하는 위법 행위에 대해서 어떠한 합의나 선처 없이 엄중한 법적 조치를 취해 나갈 것을 분명히 밝힌다”고 했다. &lt;br&gt;&lt;br&gt;현재 소속사는 법무법인 등 유관기관과 협력해 온라인상의 악성 게시글과 댓글에 대해 지속적인 모니터링을 실시하고 있다.&lt;br&gt;&lt;br&gt;추신수 육성총괄은 메이저리그에 진출한 후 2020년까지 16시즌 동안 통산 1652경기에 출전해 타율 0.275, 218홈런, 782타점, 157도루를 기록했다.&lt;br&gt;&lt;br&gt;추신수 육성총괄은 2021년 한국으로 돌아와 SSG에 입단했고, 2022시즌 SSG의 통합우승에 기여했다. 2024시즌을 끝으로 은퇴한 이후엔 SSG 구단주 보좌역 및 육성총괄을 맡고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“하루 7~8시간 자고 의대 6곳 합격”...서울대 의대생의 공부법은</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/M5MA4P7SQRGIJLJI5R4NO6K2PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/M5MA4P7SQRGIJLJI5R4NO6K2PQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 06:58:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI4D4HTGY5C6HFJURZTYYDQOHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교를 포함해 의과대학교 6곳에 수시 합격한 이주안씨./유튜브 채널 '스튜디오S'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 의대에 재학 중인 한 학생이 6개 의대 수시 합격 경험과 자신만의 공부 습관과 학습법을 공개했다.&lt;br&gt;&lt;br&gt;지난달 31일 유튜브 채널 ‘스튜디오S’는 ‘전교 1등 서울대 의대생이 말하는 1등급 공부 습관’이라는 제목의 영상을 통해 이주안씨의 입시 성공 사례를 소개했다. 서울대 의대에 재학 중인 이씨는 2024학년도 대입에서 연세대·가톨릭대·성균관대·고려대·중앙대 의대에 모두 합격했다. 서울 강남구 대치동의 일반고 출신인 이씨는 내신 평균 1.07을 기록했고, 정시에서도 전 과목 1등급을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이씨는 대학 입시의 비결로 중학교 시절 정립한 공부 습관을 꼽았다. 그는 “중학교 성적 자체가 결정적이진 않지만, 고등학교에 올라가 어떻게 공부할지 감을 잡는 시기라는 점에서 중요하다”고 설명했다. 수업 시간에 교과서와 자습서 내용을 비교해 필요한 부분만 메모하는 필기 체계를 만들고, 과목별 공부 순서 등 자신만의 시험 루틴을 미리 점검했다는 것이다.&lt;br&gt;&lt;br&gt;이씨는 “학원에 앉아 수동적으로 듣기만 하는 건 시간 낭비라고 생각했다”며 “그날 배운 내용은 귀가하기 전까지 반드시 이해하고, 모르는 부분은 바로 질문해 해결하려 했다”고 말했다. 수업 시간 자체를 ‘내 공부 시간’으로 활용해야 한다는 것이다. 그는 무리한 밤샘 대신 하루 7~8시간의 수면을 취하며, 깨어 있는 시간에 집중했다고 한다.&lt;br&gt;&lt;br&gt;고교 진학 전 준비로는 수학과 과학의 기초를 강조했다. 이씨는 “중학교 때 최소한 고1 수학까지는 끝내고 가는 것이 고교 내신에 훨씬 유리하다”며 “심화 문제도 완벽히 풀지 못하더라도 한 번쯤 건드려 보며 수준을 경험하는 게 중요하다”고 말했다. 또 막대한 공부량을 소화할 수 있었던 배경으로 유치원 때부터 이어진 독서 습관을 들며 “중고등학교에 가서는 지문이 비교적 빨리 이해됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;높은 내신을 유지하기 위해 점심시간까지 아껴가며 공부에 집중했다는 이씨는 수학 오답을 실수 유형별로 세분화해 정리하고, 국어 문학 개념을 수학처럼 구조화하는 방식으로 공부했다고 했다. &lt;br&gt;&lt;br&gt;다만 초등학교 시절에 대해서는 공부보다 경험이 중요하다고 강조했다. 그는 “초등학교 저학년 시기부터 과도하게 공부에 매달릴 필요는 없다”고 말했다. 어린 시절 대통령과 천문학자를 꿈꿨던 이씨는 주변 사람들이 힘들어하는 모습을 보고 의사로 진로를 정했다고 밝혔다. 현재는 정신건강의학과 전공을 희망하고 있다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, ‘법왜곡죄 피고발’ 조희대 대법원장 사건 수사1부 배당</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/HVSDSMLV5FHKDCK2CNM6CYHLDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/HVSDSMLV5FHKDCK2CNM6CYHLDI/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 06:32:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6K6HMOONQNMYTM524RCYKCKBCE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 1일 오전 서울 서초구 대법원으로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처는 법 왜곡죄 혐의로 고발된 조희대 대법원장 사건을 지난달 19일 수사1부(부장 나창수)에 배당했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 이병철 변호사는 조 대법원장이 작년 5월 이재명 대통령의 공직선거법 위반 혐의 사건을 유죄 취지로 파기 환송할 때 형사소송법을 의도적으로 왜곡했다면서 조 대법원장과 박영재 대법관을 경찰과 공수처에 고발했었다. &lt;br&gt;&lt;br&gt;대법원은 작년 3월 28일 이 대통령 사건을 접수하고 34일 만인 5월 1일 전원합의체를 열고 무죄를 선고한 2심 판결을 뒤집고 서울고법으로 돌려보냈다. 박 대법관은 사건이 전원합의체에 회부되기 전 주심 대법관이었다.&lt;br&gt;&lt;br&gt;이 변호사는 “조 대법원장 등이 타인(이 대통령)의 권익을 해할 목적으로 형사소송법상 ‘서면주의’ 원칙을 알면서 의도적으로 적용하지 않았다”고 주장했다. 조 대법원장과 박 대법관이 7만쪽 분량의 사건기록을 성실히 검토해야 할 의무를 다하지 않고 사건을 파기 환송했고, 관련 재판이 종료되지 않은 만큼 부작위(할 일을 하지 않는 것) 상태가 계속되고 있다고도 했다.&lt;br&gt;&lt;br&gt;이 변호사가 조 대법원장을 고발한 사건은 지난달 12일 0시를 기해 시행된 법 왜곡죄(개정 형법) 1호 사건으로 꼽힌다.&lt;br&gt;&lt;br&gt;또한 공수처는 강영권 전 에디슨모터스 회장에게 1심 일부 무죄를 선고한 판사를 주주들이 법 왜곡죄 등의 혐의로 고소한 사건도 지난달 19일 수사1부에 배당했다.&lt;br&gt;&lt;br&gt;스마트솔루션즈(옛 에디슨EV) 주주연대 총괄대표 A씨는 “김상연 서울동부지법 부장판사가 핵심 사실관계를 의도적으로 배척하고 대법원 판례를 자의적으로 비틀어 적용해 피고인에게 무죄를 선고함으로써 이익을 줬다”며 지난달 14일 공수처에 소장을 접수했다.&lt;br&gt;&lt;br&gt;김 부장판사는 서울남부지법 재판장이었던 지난 2월 3일 강영권 전 회장에 대한 자본시장법 위반 사건 재판에서 징역 3년과 벌금 5억원을 선고하면서도 일부 혐의에 대해서는 무죄를 선고했다. 당시 김 부장판사는 강 전 회장의 주가 조작은 인정하면서도 “(쌍용차 인수를 위한) 자금 조달 실패는 예상치 못한 사정 변경 때문일 수 있어서 회사에 손해를 끼쳤다고 단정하기 어렵다”며 배임·입찰 방해 등의 혐의는 무죄라고 판단했다.&lt;br&gt;&lt;br&gt;다만 공수처는 수사 부서에 사건을 배당한 후 실제 공수처 수사 대상인지 검토할 것으로 전해졌다. 공수처법은 공수처 수사 대상은 형법 제122조부터 133조이다. 법 왜곡죄는 형법이 개정되며 제123조의2에 신설됐지만, 기존 공수처법이 이를 포함하고 있다고 보기 어렵다는 게 법조계 다수 의견이다. 공수처는 법 왜곡죄가 수사 대상이 아니라고 판단할 경우 경찰에 사건을 이첩할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>金총리 “지역별 전략 산업 하반기 선정… 파격적으로 지원하겠다”</title>
       <link>https://www.chosun.com/politics/goverment/2026/04/01/QQRBRODTXFGPBPRATKA7VSI674/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/01/QQRBRODTXFGPBPRATKA7VSI674/</guid>
@@ -887,25 +905,6 @@
       <description/>
       <pubDate>Wed, 01 Apr 2026 08:11:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PDMP7VCFFN37JKW6S2MJMSIWU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 1일 오후 서울 종로구 정부서울청사에서 열린 제2차 국토 대전환 범정부 추진 협의회 회의에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 ‘5극 3특’ 구상에 따라 지역별로 육성할 전략 산업을 올해 안에 선정하겠다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;국무총리실은 이날 오후 정부서울청사에서 김민석 국무총리 주재로 제2차 국토 공간 대전환 범정부 협의회를 열어, “지방 주도 성장 시대로의 전환을 위한 체계적이고 근본적인 대책 수립”을 논의했다고 밝혔다. 이날 회의에는 재정경제·과학기술정보통신·교육·행정안전·문화체육관광·농림축산식품·산업통상·보건복지·기후에너지환경·국토교통·중소벤처기업부와 기획예산처 등 12개 부처 관계자가 참석했다.&lt;br&gt;&lt;br&gt;김 총리는 회의 모두 발언에서 “이재명 대통령께서 국무회의에서도 강조하셨는데, 이제는 수도권 집중 성장 시대에서 지방 주도 성장 시대로 대전환해야 할 때”라며 “지방 주도 성장을 위해 산업·인재·인프라 등 여러 분야에서 체계적이고 근본적인 대책을 수립해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;이와 관련해 김 총리는 “5극 3특 성장 엔진(전략 산업)을 육성해서 근본적인 지방 성장 동력을 마련해야 한다”며 “권역별 수요와 여건 등을 고려해 올 하반기에 성장 엔진을 선정하겠다”고 했다.&lt;br&gt;&lt;br&gt;5극 3특 구상은 전국을 수도권·동남권·대경권·중부권·호남권 등 5개 초광역권과 강원·전북·제주 등 3개 특별자치도로 재편하겠다는 이재명 정부의 국가 균형 발전 전략이다.&lt;br&gt;&lt;br&gt;김 총리는 지역별 전략 산업으로 선정된 산업에 대해서는 “파격적인 규제 혁신, 금융·세제·재정 지원 등 성장 지원 패키지를 통해 종합 지원하겠다”고 했다. 또 “메가 특구를 지정하고, 광범위한 규제 특례를 부여하고, 인력 양성, R&amp;amp;D(연구·개발) 지원에서부터 세제 혜택에 이르기까지 전 주기적 지원으로 지역 성장을 가속화하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 “지역 인재를 육성해 지역 균형 성장을 뒷받침하겠다”며 “올해까지 세 군데 거점 국립대를 대상으로 성장 엔진 산업 분야와 AI(인공지능) 분야를 전략적으로 지원하고, 지역 잠재 성장률 제고를 견인하는 지역 인재 양성과 연구 거점을 만들어 내겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 또 “지방에 살아야 더 큰 혜택을 받을 수 있도록 재정과 정책 지원 체계를 설계하고, 지방에 충분하고 두터운 지원이 이뤄지도록 하겠다”고 했다. 이때 “서울과의 거리, 지역 발전 정도, 소멸 위기 등을 종합적으로 고려해 지방 우대 원칙을 적용해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;정부는 국무조정실에 이 ‘국토 공간 대전환 프로젝트’를 총괄 관리할 실무 추진단을 이달 중으로 발족하기로 했다고 밝혔다. 앞으로 총리가 주재하는 범정부 협의회와 실무 추진단을 중심으로 프로젝트 이행 상황과 성과를 관리하겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박성광, 교통사고 사진 올렸다가...차량번호 노출에 갑론을박</title>
-      <link>https://www.chosun.com/national/people/2026/04/01/E2INJDOCFFGFVE6GEGLRVB2UKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/01/E2INJDOCFFGFVE6GEGLRVB2UKM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 07:54:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TKNLFGQ4WMZRZGJRGEYLEGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박성광(오른쪽)이 올린 사고 사진./인스타그램, 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박성광이 자동차 번호판을 가리지 않은 채 교통사고 현장 사진을 공개해 논란이 일고 있다.&lt;br&gt;&lt;br&gt;박성광은 지난달 31일 자신의 인스타그램 스토리에 “어떻게 운전을 하면 이렇게 사고가 나는 거지?”라는 글과 함께 차량 안에서 찍은 사진을 올렸다. 공개된 사진에는 앞 도로에서 승용차 두 대와 버스가 충돌한 사고 현장이 담겼다. 다만 차량 번호가 모자이크 처리 없이 그대로 노출됐다.&lt;br&gt;&lt;br&gt;이를 두고 사진 속 차량이 개인 소유로 추정되는 만큼, 타인 정보를 동의 없이 노출한 것 아니냐는 지적이 제기됐다. 사고의 전후 사정을 알 수 없는 상황에서 운전 부주의로 인한 사고로 단정하는 듯한 글을 올린 점 역시 비판을 받았다.&lt;br&gt;&lt;br&gt;그가 올린 게시물은 24시간 뒤 자동으로 사라지는 스토리 형식으로, 현재는 삭제된 상태다. 다만 이미 많은 팔로워에게 노출된 이후여서 온라인상에서는 경각심이 필요하다는 반응이 이어지고 있다. 네티즌들 사이에서는 “사정도 모르고 저렇게 올리는 건 아니지 않나” “차량 번호 가리는 건 당연한 상식이다” 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 4월 2일 목요일 (음력 2월 15일 丙午)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/I6API6LXMNGRDH3UVBJUJ6TNLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/I6API6LXMNGRDH3UVBJUJ6TNLE/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
       <title>종합특검, ‘양평고속도로 특혜 의혹’ 국정자원·국토부 압수수색</title>
