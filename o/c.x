@@ -13,6 +13,44 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 아파트서 숨진 채 발견된 60대 여성… 국과수 “흉기 살해 추정”</title>
+      <link>https://www.chosun.com/national/incident/2026/04/02/WV4XB5BWD5G3DE6YFFZZYU3LSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/02/WV4XB5BWD5G3DE6YFFZZYU3LSU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 09:21:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCALWIQ5FNAQZKOMGDBD7XRJHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 인천 서구 왕길동의 한 아파트 현관에 폴리스라인이 설치됐다. 이 아파트에선 피를 흘린 채 숨진 60대 어머니와 크게 다친 40대 아들이 발견돼 경찰이 수사 중이다. /이현준기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구 한 아파트에서 숨진 채 발견된 60대 여성이 흉기에 의해 살해된 것으로 추정된다는 부검 결과가 나왔다. &lt;br&gt;&lt;br&gt;2일 경찰 등에 따르면 국립과학수사연구원은 인천 서부경찰서가 의뢰한 60대 여성 A씨의 시신을 부검하고, 흉기에 의해 살해된 것으로 보인다는 1차 구두 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;A씨는 지난달 31일 오전 8시 58분쯤 인천 서구 왕길동 한 아파트에서 피를 흘린 상태로 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;숨진 A씨가 발견된 집에선 지체장애가 있는 A씨의 아들 40대 남성 B씨가 손과 목 부위를 다친 상태로 함께 발견됐다. B씨는 병원으로 이송된 뒤 응급 수술을 받았고, 현재 중환자실에서 치료 중이다. &lt;br&gt;&lt;br&gt;“현관 쪽에 피가 흘러나와 있다”는 신고를 받고 출동한 경찰은 소방 당국과 함께 A씨 집의 현관문을 강제로 개방해 A씨와 B씨를 발견했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “B씨는 병원 치료 중이라 아직 조사하지 못했다”며 “모든 가능성을 열어두고 수사하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘보라빛 고양’… BTS 첫 완전체 투어 앞두고 들썩  </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/02/3L4UPRRLRZC67I4367ZG4QHN7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/3L4UPRRLRZC67I4367ZG4QHN7U/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 09:23:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25UPRQO3HBBUBC4NRHBD4CFZ34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고양종합운동장 전경. /고양시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;글로벌 아이돌 그룹 방탄소년단(BTS)의 월드투어 공연을 열흘 앞두고 경기 고양시가 보랏빛으로 물들었다. 보라색은 BTS와 아미(BTS 팬덤)를 상징하는 색이다. BTS 완전체가 지난달 서울 광화문 광장에서 컴백 무대를 선보여 팬들의 기대감이 고조되자, 첫 월드투어 공연지인 고양시도 일찍이 들썩이는 분위기다.&lt;br&gt;&lt;br&gt;2일 고양시에 따르면, 고양종합운동장 외벽과 일산호수공원 ‘노래하는 분수대’의 조명은 이미 보라색이다. 지난달 24일부터 보라색 조명을 점등했고, 매일 1분씩 조명이 들어오는 시각을 당기고 있다. 공연일까지 카운트다운을 한다는 의미다. BTS 월드투어 ‘아리랑 인 고양’은 오는 9일과 11·12일 고양종합운동장에서 열린다. 사흘간 14만4000명이 공연을 관람할 것으로 전망된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXBOMMHHTFBEZJ57WW55PI6QTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보랏빛으로 물든 일산호수공원 노래하는분수대. /고양시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고양관광정보센터에선 BTS 멤버 7명의 손 모양을 본뜬 핸드 프린팅 전시가 진행되고 있다. 멤버들의 친필 사인을 구경하고, 포토존에서 사진을 찍을 수도 있다. &lt;br&gt;&lt;br&gt;고양시는 공연 전후 고양시를 찾은 팬들의 발길을 잡기 위한 방안도 구상했다. 관광 연계 프로그램 ‘고양콘 트립’을 운영해 관광, 먹을거리, 쇼핑 정보를 QR코드로 알린다는 계획이다. &lt;br&gt;&lt;br&gt;또 공연 직후, 공연장과 가장 가까운 지하철역인 3호선 대화역으로 인파가 몰리는 것을 막기 위해 인근 주엽역을 이용하라고 안내하고, GTX 킨텍스역과 공연장을 잇는 순환버스도 운영할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LAOBLQGGCRAEBDMD2SLX2VRGXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;특별전에서 전시될 BTS 멤버 핸드프린팅. /고양시
+
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고양시 관계자는 “고양종합운동장은 콜드플레이, 오아시스, 지드래곤, 블랙핑크 등 글로벌 스타들의 대형 공연이 잇따라 열리면서 ‘고양콘’이라는 별명으로 불리고 있다”며 “더 많은 대형 공연이 열리게 하고, 이를 통해 인근 상권이 살아날 수 있도록 지원할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오동운 공수처장, 피고인 신분으로 재판 출석... 현직 첫 사례</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/02/NSGXX44LBZFGPHZ5RI6NYIUI34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/NSGXX44LBZFGPHZ5RI6NYIUI34/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 09:33:31 +0000</pubDate>
+      <content:encoded>‘순직 해병 수사 방해’ 의혹으로 기소된 오동운 고위공직자범죄수사처장이 2일 서울중앙지법에 출석했다. 현직 공수처장이 피고인으로 법정에 나온 것은 이날이 처음이다. 오 처장은 “변호인 의견에 동의한다”고 짧게 말한 뒤 재판 도중 법정을 떠났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2WEYLDGM2TOZTGGQZTGN3EHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 공수처장이 2일 서울 서초구 서울중앙지법에서 열린 직무유기 혐의 1심 1회 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 오 처장의 직무유기 혐의 사건 첫 정식 재판을 열었다. 앞서 재판부는 지난 1~3월 두 차례 공판 준비 기일을 진행했으나, 피고인 출석 의무가 없어 오 처장은 재판에 나오지 않았었다. 오 처장은 이날 법원에 출석하며 기자들에게 “성실히 재판에 임하겠다”고 말했다.&lt;br&gt;&lt;br&gt;오 처장은 송창진 전 공수처 부장검사가 2024년 8월 ‘고(故) 채수근 상병 사망 사건 수사 외압’ 의혹과 관련해 국회 위증 혐의로 고발된 사건을 11개월간 대검찰청에 이첩하지 않고 수사를 뭉갠 혐의를 받는다. 송 전 부장검사는 변호사 시절 이종호 전 블랙펄인베스트 대표를 변호해 논란이 됐는데, 2024년 7월 국회에서 “이 전 대표가 수사 외압 의혹에 연루된 사실을 몰랐었다”고 위증한 혐의를 받는다. &lt;br&gt;&lt;br&gt;공수처법은 ‘공수처장이 공수처 검사의 범죄 혐의를 발견하면 이를 대검에 통보해야 한다’고 규정한다. 그러나 오 처장 등 공수처 지휘부가 이를 어기고 이첩을 미뤄 수사를 지연시켰다는 게 순직 해병 특검의 시각이다.&lt;br&gt;&lt;br&gt;오 처장은 재판에서 직무유기 혐의를 전면 부인했다. 오 처장 변호인은 “박석일 전 부장검사가 2024년 10월 말 사직했고, 남아 있던 이대환·차정현 부장검사는 수사 외압 의혹을 수사 중인 당사자였기 때문에 송 전 부장검사 사건의 이첩 검토를 맡길 수 없었다”며 “그해 12월 3일 비상계엄이 선포돼 후임 부장검사 임명이 미뤄지는 등 신속히 사건을 처리할 수 있는 상황이 아니었다”고 했다. 이어 “작년 5월 부임한 김수환 부장검사가 검토를 맡아 대검에 사건을 이첩했다”고 주장했다. &lt;br&gt;&lt;br&gt;변호인이 발언을 마치자 재판부는 “오 처장 본인도 변호인과 같은 입장이냐”고 물었고, 오 처장은 “그렇다”고 짤막하게 답했다.&lt;br&gt;&lt;br&gt;오 처장은 변호인의 의견 진술이 끝나자 출석 1시간여 만에 퇴정했다. 이날 증인으로 소환된 공수처 관계자들에게 따져 물을 것이 없어 미리 떠나게 해달라고 재판부에 요청했고, 재판부가 이를 받아들인 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성과 따라 예산 차등 분배... 대학 지원 사업 ‘예산 나눠먹기’ 막는다</title>
+      <link>https://www.chosun.com/national/education/2026/04/02/E6HTT65JHZD2RK3WMUOUHLWPCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/02/E6HTT65JHZD2RK3WMUOUHLWPCY/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 09:04:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JX4EJZCU55LV3NGKSZIRVT3NCE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최은옥 교육부 차관이 2일 세종시 정부세종청사에서  지방정부가 지역 발전 전략과 연계해 대학을 육성하는 지역 혁신 중심 대학지원책의 라이즈재구조화 방안을 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 연간 2조원 규모의 대학 지원 사업 이름을 ‘라이즈(RISE)’에서 ‘앵커(ANCHOR)’로 변경하고, 철저한 성과 중심 평가로 예산을 차등 지급하겠다는 계획을 밝혔다. 대학가에서는 “학령인구가 급감하는 만큼 경쟁력 없는 대학에 들어가는 돈줄을 끊는 방식으로 대학 구조 조정에 시동을 걸겠다는 것”이라는 분석이 나왔다.&lt;br&gt;&lt;br&gt;교육부는 2일 이 같은 내용의 ‘지역성장 인재양성체계(앵커) 추진방안’을 발표했다. 17개 지자체에 예산을 분배해 대학을 직접 육성하도록 하는 이 사업은 작년 ‘라이즈’라는 명칭으로 시작했다. 1년 만에 이름이 바뀐 이유에 대해 교육부 관계자는 “사업의 핵심 목표를 지역 산업과 연계해 지역에 닻(앵커)을 내릴 인재 육성에 두겠다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;우선 교육부는 작년 지자체가 진행한 각 사업을 면밀히 분석·평가해 올해 사업 예산 중 4000억원을 차등 지급한다는 계획이다. 지자체에 대학 선정을 맡겼더니, 지역의 여러 대학을 고루 챙겨주려 사업을 수천만원 단위로 잘게 쪼개는 ‘예산 나눠 먹기’ 부작용이 발견되고 있다는 것이다. 교육부는 계약학과 설립과 인턴십 유치 등 취업과 연계한 기업 협업, 창업 교육·지원 등 성공적인 지역 인재 육성 사업이 이뤄진 지자체·지역대학을 위주로 더 많은 예산을 준다는 계획이다. 예산 차등 분배로 지자체들이 자연스레 지역 인재 육성 사업에 집중하고, ‘예산 나눠 먹기’ 사업은 없애도록 유도하는 것이다.&lt;br&gt;&lt;br&gt;교육부는 올해 2000억원을 투입해 권역별 대학 역량을 결집하는 ‘5극 3특 권역별 공유대학’ 모델 사업 등도 추진한다. 8개 각 권역별 지역거점대학을 중심으로, 해당 지역의 여러 대학이 ‘공유대학’을 구성하면 이를 집중 지원하겠다는 것이다. 공유대학에 속한 대학들은 지역 산업과 연계한 융합 전공 과정을 공동 운영하고, 지역 전략 산업 연구·개발도 함께 진행한다. 앞으로 공유 대학에 속했는지 여부가 지역 대학들의 재정과 브랜드 이미지에 적잖은 영향을 줄 것으로 보인다.&lt;br&gt;&lt;br&gt;한 지역 사립대 총장은 “각 지자체가 선심성으로 퍼주던 대학 지원 사업이 대폭 줄어들 것으로 기대한다”며 “결국 경쟁력 있는 대학들은 예산을 몰아줘 더 키우고, 지역 산업과 연계한 강점조차 없는 부실 대학들은 지원을 대폭 줄여 자연스레 퇴출을 유도하겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국여성기자협회장에 최문선</title>
       <link>https://www.chosun.com/national/people/2026/04/02/4GHGTQ6PURG2BPBRUQHHGX3TIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/02/4GHGTQ6PURG2BPBRUQHHGX3TIA/</guid>
@@ -870,25 +908,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
-      <title>3경기 무득점 손흥민, 그에게는 무슨 일이?</title>
-      <link>https://www.chosun.com/national/people/2026/04/01/U322OQS3OBGLBEDOGNKTQFQ5KU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/01/U322OQS3OBGLBEDOGNKTQFQ5KU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 05:25:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZEIWXD6QJPQVNGXBUZ47UM6TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-2370&gt; 뒤돌아보는 손흥민&#13;
-    (빈[오스트리아]=연합뉴스) 최재구 기자 = 31일(현지시간) 오스트리아 빈 에른스트 하펠 스타디움에서 열린 한국 축구 국가대표팀과 오스트리아의 평가전에서 경기에 패한 한국팀의 주장 손흥민이 퇴장하며 경기장을 돌아보고 있다. 2026.4.1&#13;
-    jjaeck9@yna.co.kr/2026-04-01 07:29:34/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국축구대표팀 주장 손흥민(34·LAFC)이 최근 A매치 3경기 연속 무득점과 관련해 “기량이 떨어졌다고 생각하지 않는다”며 “저는 항상 최선을 다하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;손흥민은 1일 오스트리아 빈의 에른스트 하펠 경기장에서 열린 오스트리아와 평가전에서 0-1로 패한 뒤 취재진과 만나 “선수들 모두 심리적으로 어려웠던 소집 훈련이었다. 선수들에게 고생했다고 말해주고 싶다”고 소감을 전했다.&lt;br&gt;&lt;br&gt;지난달 29일 코트디부아르전 0대4 패배 때는 후반 교체로 나섰던 손흥민은 이날 오스트리아를 상대로 최전방 공격수로 선발 출전해 82분을 뛰었다. 그러나 이번 2연전 모두 공격포인트를 올리지 못했다. 지난해 11월 18일 가나와의 평가전까지 포함하면 A매치 3경기 연속 무득점이다.&lt;br&gt;&lt;br&gt;손흥민은 최근 무득점 상황에 대해 “기량이 떨어졌다고 생각하지 않는다”며 “냉정하게 대표팀을 내려놔야 할 때는 제가 스스로 내려놓을 생각”이라고 했다.&lt;br&gt;&lt;br&gt;또 “득점이 없을 때마다 기량에 대한 이야기를 하는 것 자체가 아쉽다”면서 “그동안 많은 골을 넣다 보니 기대감이 높은 것을 잘 알고 있다. 하지만 나는 제가 해야 할 위치에서 항상 최선을 다하고 몸 상태도 좋다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “기량이 떨어진 것처럼 느껴졌다면 내가 더 열심히 해서 잘하면 된다”며 “능력이 안 되면 대표팀에 더 있을 수는 없다. 어디까지나 제가 소속팀에 가서 컨디션적인 부분을 잘 올려야 되는 부분이라고 생각한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이번 2연전에서 드러난 스리백 운영과 관련해 손흥민은 “어느 포메이션을 써도 완성도를 100%로 만들기는 쉽지 않다”고 했다. 또 “어떤 포메이션을 써도 결국 시간과 훈련이 필요하다”며 “월드컵에 가서도 계속 훈련하면서 영상 분석도 하고 선수들끼리 대화도 있어야 한다. 이제 5월에 다시 모여 선수들이 어느 순간 말하지 않아도 ‘내가 여기에 가 있어야 하는구나’라는 것을 인지하는 순간이 될 때 포메이션의 완성도가 높아질 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;손흥민은 후배들과의 관계에 대해서도 “대표팀에선 항상 좋은 분위기 속에서 어린 선수들과 좋은 관계를 유지하려고 노력했다”며 “제가 대표팀에 있는 동안 제가 가진 에너지나 능력을 후배들에게 많이 가르쳐주고 같이 나눴으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WY7S5OU3DNGHLMFTIE2AVPPUEY.jpg?auth=b3202130c39bc3f196708b8f809fcb31606c4b65bdbcf99d566b119ded95693d&amp;smart=true&amp;width=1686&amp;height=949" type="image/jpeg" height="949" width="1686">
-        <media:description type="plain"> 득점실패 아쉬워하는 손흥민
-    (빈[오스트리아]=연합뉴스) 최재구 기자 = 31일(현지시간) 오스트리아 빈 에른스트 하펠 스타디움에서 열린 한국 축구 국가대표팀과 오스트리아의 평가전에서 손흥민이 본인의 슈팅이 득점에 실패하자 아쉬워하고 있다. 2026.4.1
-    jjaeck9@yna.co.kr/2026-04-01 06:24:32/
-&amp;lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">최재구</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>종합특검, ‘양평고속도로 특혜 의혹’ 국정자원·국토부 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/04/01/ZQ7QZZQPAJEARMAMY4VLMVE5UU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/ZQ7QZZQPAJEARMAMY4VLMVE5UU/</guid>
@@ -905,33 +924,6 @@
       <description/>
       <pubDate>Wed, 01 Apr 2026 07:34:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSTGMJXGQ4TKYRVMQZDSMZZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 동천 복원 조감도./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시가 2032년까지 성지곡 수원지에서 북항까지 길이 7.5㎞의 도심 하천 회복 프로젝트를 추진한다. 콘크리트 도심 한가운데 5.84㎞ 물길을 낸 서울 청계천이 사업 모델이다. &lt;br&gt;&lt;br&gt;부산시는 1일 오후 남구 문현동 부산국제금융센터(BIFC) 22층 라운지에서 정책 브리핑을 열고 ‘백 년의 귀환, 동천 프로젝트’를 공개했다.&lt;br&gt;&lt;br&gt;이 프로젝트는 성지곡 수원지에서 부전천, 동천, 북항까지 물길을 살리고 콘크리트로 뒤덮인 하천을 단계적으로 복원해 숲길과 산책로, 생태축, 야간 경관 조명, 수변 테라스 등을 조성하는 것이다.&lt;br&gt;&lt;br&gt;하천 유지용수는 동천 인근의 사상∼해운대 대심도 공사와 부산형 급행철도(BuTX) 공사 과정에서 나오는 각각 하루 3만5000t, 7만t의 지하수를 이용한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSTKOLEGZTDAYZXHFTDGYRZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완연한 봄 날씨를 보인 지난달 23일 서울 종로구 청계천을 찾은 아이가 산책을 하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 청계천의 경우 하루 3만9000t의 담수를 유지용수로 이용하고 있다. &lt;br&gt;&lt;br&gt;서울시는 이명박 시장 시절인 2005년 청계천을 복원했다. 하천을 덮었던 콘크리트와 고가도로를 철거하고 5.84㎞ 물길을 되살린 이 사업은 초기에 주변 상인들 저항과 교통 대란 우려로 논란이 됐지만, 현재는 서울의 대표적인 도시재생 사례로 꼽힌다. 연간 1600만명이 찾을 정도로 시민들에게 사랑받는 휴식처이자 외국인의 필수 관광 코스가 됐다.&lt;br&gt;&lt;br&gt;시는 공사 현장에서 부산시민공원까지 관로를 연결해 지하수를 흘려보내는 방식으로 수십년간 2000억원 이상의 예산을 들이고도 해결하지 못한 동천의 악취와 수질도 근본적으로 개선한다는 목표다.&lt;br&gt;&lt;br&gt;우선 사상∼해운대 대심도와 부산형 급행철도 준공 시점인 2032년까지는 성지곡 수원지에서 내려오는 하루 7000t의 물과 해수를 병행해 투입한다.&lt;br&gt;&lt;br&gt;시는 성지곡 수원지까지 북항까지 총길이 7.5㎞, 깊이 30∼50㎝, 폭 10여ｍ 복원 하천을 단계적으로 조성해 시민과 관광객이 찾는 명소로 만들겠다는 구상이다.&lt;br&gt;&lt;br&gt;이를 위해선 시민공원에서 서면 영광도서 일대 서면로, 롯데백화점에서 광무교까지 복개된 도로를 개방해야 하는데 시가 주변 상인과 주민 동의를 어떻게 받아낼지가 관건이다.&lt;br&gt;&lt;br&gt;동천 수질을 개선하려면 지하수 투입 외에 오염토 준설, 생활하수 유입, 비점오염원 문제 등도 해결해야 한다. 또 2032년 이후 준공되는 장기 프로젝트라 사업 연속성을 장담할 수 없는 점도 문제다.&lt;br&gt;&lt;br&gt;박형준 시장은 “도심 속 생명력을 지닌 동천 수계를 복원해 부산 시민의 옛 영광과 자부심이 미래로 이어지도록 하겠다”며 “시민 협의회를 구성해 복개 도로 개방을 논의하고 사상∼해운대 대심도 공사업체와 지하수 관로 설치 방안을 협의하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“바퀴벌레 잡으려다”… 집에 불 질러 9명 사상자 낸 30대 여성, 2심도 금고 4년</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/DQ7DTWLOUREGTPLGO73RTJ4H7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/DQ7DTWLOUREGTPLGO73RTJ4H7U/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 07:12:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원룸에서 바퀴벌레를 잡으려다가 건물에 불을 내 이웃을 숨지게 한 혐의를 받는 30대 여성에게 2심 법원이 금고형을 선고했다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 수원지법 형사항소1-3부(재판장 김종근)는 중과실치사상, 중실화 등 혐의로 기소된 A씨의 항소심에서 금고 4년을 선고했다. 1심 판결과 같은 것이다. &lt;br&gt;&lt;br&gt;재판부는 검사와 A씨가 양형 부당 등을 이유로 제기한 항소를 모두 기각하고 원심 판결을 유지했다. &lt;br&gt;&lt;br&gt;재판부는 “원심은 화재의 발생·확산에 대한 피고인의 과실 정도, 피해의 중대성 등을 종합해 합리적인 범위 내에서 형을 정했다”며 “새롭게 고려할 만한 사정은 찾을 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 20일 오전 5시 30분쯤 경기 오산시 궐동에 있는 5층짜리 상가주택 2층 원룸 안에서 바퀴벌레를 잡으려다가 불을 낸 혐의를 받는다. 당시 A씨는 라이터와 스프레이 파스를 이용해 바퀴벌레를 잡으려고 시도했던 것으로 파악됐다. 당시 A씨의 집 안에는 배달용 플라스틱 용기와 비닐 등 불이 붙기 쉬운 다량의 물건이 쌓여 있었다. 불이 쓰레기와 벽지 등에 옮겨붙자, A씨는 인근 주민들에게 화재 발생을 알리지 않은 채 현관문을 열어 두고 건물 밖으로 대피해 119에 신고한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당시 불로 해당 건물 5층에 사는 중국 국적의 30대 여성 B씨가 대피 중 아래로 추락해 중상을 입고 병원으로 옮겨져 치료를 받았으나, 결국 숨졌다. 이 밖에 다른 주민 8명이 연기를 마시는 등의 부상을 입었다. B씨는 남편과 함께 생후 2개월 된 아기를 데리고 대피하려다가 변을 당한 것으로 알려졌다. 당시 B씨는 창문을 열고, 바로 옆 건물에 도움을 청해 해당 건물 주민에게 아기를 안전하게 건넨 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피고인은 배달용 플라스틱 용기와 비닐이 산적해 있는 좁은 원룸 방 안에서 불을 붙였고, 이후 현관문을 열어둔 채 달아나 유독성 연기의 확산을 가속화했다”며 “피고인의 과실 정도가 매우 중해 피해자 B씨는 소중한 생명을 잃었고, 태어난 지 4개월밖에 되지 않은 피해자 자녀는 어머니의 사랑을 제대로 받지도 못한 채 평생 살아가야 한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>위성 정보 수신·분석·처리 한 번에...아시아 최대 민간 위성 지상국 2일 제주에 문연다</title>
-      <link>https://www.chosun.com/national/regional/2026/04/01/WKX3VM3OJZGFDIPGMLYK4XALUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/01/WKX3VM3OJZGFDIPGMLYK4XALUE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 07:15:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/243E5SK6KFPYRFJHNW43MXEYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 개관을 앞둔 제주시 한림읍 상대리에 들어선 우주기업 컨텍의 '아시안 스페이스 파크'(ASP) 모습./컨텍&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 최대 규모 민간 위성 지상국 단지인 아시안 스페이스 파크(ASP)가 2일 제주에서 문을 연다.&lt;br&gt;&lt;br&gt;우주 기업 컨텍은 개소식을 하루 앞둔 1일 제주시 한림읍 상대리에 있는 ASP 현장을 언론에 공개했다.&lt;br&gt;&lt;br&gt;제주 ASP는 1만7053㎡ 부지에 200억원을 들여 조성됐다. 제주 ASP는 컨텍의 자체 안테나 2기와 글로벌 파트너사의 위성용 안테나(저궤도 및 정지궤도) 10기 등 모두 12기가 집결된 국내 유일의 ‘민간 안테나 팜(Farm)’이다.&lt;br&gt;&lt;br&gt;이 안테나들은 초당 8㎞로 빠르게 이동하는 저궤도 위성에서 해상도 높은 사진 자료와 최대 10G(기가) 단위의 데이터를 받을 수 있다. 지구를 하루 4바퀴 도는 국내 아리랑 위성 한 대에서만 최대 3∼4회 정보 수신이 가능하다.&lt;br&gt;&lt;br&gt;컨텍이 운영하는 안테나 중 1기는 국내에서 처음으로 무선 주파수(RF) 수신 기반이 아닌 레이저 기반 광통신으로 위성과 지상 간 데이터를 전송하는 차세대 안테나다. 기존 무선 주파수 대비 최대 100배로 빠른 속도로 대용량 영상을 수신하며, 양자 암호 기반 보안 설계와 전파 간섭 없이 안정적인 통신이 가능하다고 한다. &lt;br&gt;&lt;br&gt;컨텍이 수신한 지형 자료는 국방 분야와 홍수 등 재난 예측, 민간의 내비게이션 도로 지형 등에 활용된다.&lt;br&gt;&lt;br&gt;컨텍 측은 제주에는 주파수를 방해할 만큼 높은 건물이 없고 타 주파수도 거의 없어 위성 수신이 매우 용이해 이같이 큰 규모의 지상국 단지가 들어설 수 있었다고 설명했다.&lt;br&gt;&lt;br&gt;또 국내에서 위도가 가장 낮은 곳에 있는 제주도는 한반도 남쪽 공해상에서 주로 발사하는 저궤도 위성 발사 시 추적 범위가 국내 타 지역보다 넓다는 장점도 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;이성희 컨텍 대표이사는 “전 세계 16곳에서 지상국을 운영 중인 컨텍은 이번 제주 ASP 개소로 단순 서비스 제공을 넘어 데이터 유통 플랫폼으로 성장할 계획”이라며 “앞으로 AI 기반 데이터센터를 추가로 구축해 단순 위성 데이터 수신을 넘어 분석과 전처리를 현장에서 수행하는 ‘우주 데이터 올인원 허브’로 기능을 확장할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;컨텍은 ASP를 선별적으로 개방해 일반 시민이나 학생들의 우주 산업 이해를 도울 방침이다. ASP는 2023년 12월 제주에서 첨단기술 활용 산업 업종으로는 처음으로 투자진흥지구로 지정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학교 돈으로 수억대 ‘상품권깡’… 카이스트 직원, 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/04/01/VJPOETLRKFHMDM6VLHWOVJPTRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/01/VJPOETLRKFHMDM6VLHWOVJPTRI/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 06:45:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MGTFVSGGZGGTNK2PZYBMS2G3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대전 유성구의 카이스트 정문. /카이스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 법인 카드로 수억 원대 상품권을 구매하는 등 학교 돈을 빼돌려 사적으로 쓴 혐의를 받는 카이스트(KAIST·한국과학기술원) 직원이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전경찰청 반부패수사대는 업무상 배임 및 사기 혐의로 카이스트 직원인 30대 A씨를 구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;교내 한 부서에서 예산 집행을 관리하는 실무 담당자였던 A씨는 2022년부터 지난해까지 3년 동안 법인 카드로 상품권 약 9억원어치를 사들여 유용한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 학교 법인 카드로 상품권을 구매하고 이를 되팔아 현금화하는 이른바 ‘상품권깡’ 수법으로 학교 돈을 개인적으로 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 현금화한 돈으로 다음 달 법인 카드 대금 등을 결제하며 돌려막기를 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;카이스트는 지난해 9월 자체 감사에서 A씨가 법인 카드로 9억원 정도 학교 돈을 횡령한 정황을 적발한 뒤 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>은퇴 군견·경찰견 입양하면 연 최대 100만원 지원</title>
