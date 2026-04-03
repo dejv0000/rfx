@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북 울진서 군의원에게 금품 건넨 업체 대표 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/04/03/WIG3B6LP2VF3ND47FSB7G5PKZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/03/WIG3B6LP2VF3ND47FSB7G5PKZ4/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 10:26:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZTMY3CGUYWCZTDG42TSODGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 울진에서 군의원에게 뇌물을 건넨 혐의를 받는 관광시설 운영업체 대표가 구속됐다.&lt;br&gt;&lt;br&gt;경북경찰청은 뇌물공여 혐의를 받는 관광시설 운영업체 대표 A씨에 대한 구속영장이 발부됐다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;경북 울진군이 조성한 관광시설을 운영한 회사 대표인 A씨는 2024년을 전후한 재계약 과정에서 유리한 조건을 확보해달라는 부탁과 함께 울진군의원 2명에게 수천만 원 상당의 금품을 건네거나 단체 행사의 식비 등을 대신 낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 범행에 가담한 회사 관계자 B씨와 돈을 받은 울진군의원 2명 등에 대해서도 구속영장을 신청했다. 하지만 법원은 “증거를 없애거나 도망할 우려가 없다”며 기각한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;영장이 기각된 군의원 등은 금품을 받은 적이 없다며 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“보완수사권 전면 부정은 정치적 구호”…4차 검찰개혁 토론회</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/ECRALZXFXFEP7HBBQAMSIFDU2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/ECRALZXFXFEP7HBBQAMSIFDU2M/</guid>
+      <dc:creator>강지은 기자, 정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 09:35:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2WTWC2CLJFXTATYGYV2EMKUWE.png"&gt;&lt;figcaption&gt;&lt;small&gt;2일 부산 연제구 부산지방변호사회관에서 열린 국민의 입장에서 본 형사사법체계 개편의 주요 쟁점 대토론회에서 참여자들이 기념 사진을 촬영하고 있다. /KTV 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 신설되는 공소청에 현재 검찰처럼 보완수사권을 부여하는 문제를 두고 전문가들은 “보완수사권 전면 부정은 정치적 구호에 그친다”고 했다. 실무상 기소와 수사는 분리할 수 없으며, 신속한 수사를 위해선 검사의 직접 보완수사가 필요하단 얘기다. 보완수사권과 보완수사 요구권을 절충한 ‘출장 보완수사’ 등 새로운 개념도 제시됐다.&lt;br&gt;&lt;br&gt;허황 동아대 경찰학과 교수는 3일 국무총리실 산하 검찰개혁추진단 등이 부산에서 연 ‘국민을 위한 검찰개혁 방안 대토론회’에서 “검찰의 보완수사권을 전면적으로 부정해야 한다는 입장은 대부분 정치적 구호에 그치는 경우가 많다”며 “‘형사사법적 긴급 상황’에서는 검사의 직접 보완수사를 검토할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 검사의 보완수사가 필요한 경우로는 공소시효가 임박했을 때, 사이버 범죄나 기술 유출 사건에서 디지털 증거가 사라질 우려가 현저할 때, 고도의 전문성이 요구되는 기술·경제 범죄의 법리를 재구성해야 할 때, 중대한 인권 침해·위법 수사 정황을 포착한 때 등을 꼽았다.&lt;br&gt;&lt;br&gt;최성진 동의대 법학과 교수도 “과소·과잉 수사를 통제하기 위해선 보완수사 요구권만으로는 충분하지 않다”며 “검경 간 ‘사건 핑퐁’에 따른 수사 지연 문제가 발생하는 등 현행 보완수사 요구 제도의 실효성도 떨어진다”고 했다.&lt;br&gt;&lt;br&gt;이날 토론회에선 ‘출장 보완수사권’이라는 개념도 등장했다. 안정빈 경남대 법학과 교수는 보완수사권의 필요성을 인정하면서도 “검사가 경찰서에 방문해 경찰관 동석하에 보완수사권을 행사할 수 있도록 해야 한다”고 했다. 타 기관 방문이라는 ‘문턱’을 설정함으로써 보완수사권의 남용을 줄이고, 검경 간 협력 체계를 구축할 수 있다는 설명이다. &lt;br&gt;&lt;br&gt;안 교수는 또 일반 경찰 사건과 중수청 사건을 다르게 취급할 것을 주장했다. 그는 “중수청 사건에 대해서는 보완수사권을 부여하지 않아야 한다”며 “보완수사권을 부여한다면, 장기적으로 (중수청 수사가) 기존 검찰의 인지 사건 수사와 동일한 패턴이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;보완수사권과 보완수사 요구권이 아닌 ‘제3의 개념’이 제시되기도 했다. 김혜경 계명대 경찰행정학과 교수는 “공소 제기 이후의 수사는 공소기관이 수사기관에 명령이나 요구를 할 것이 아니라 공소 유지에 대한 협조를 구하는 방식이어야 한다”며 일명 ‘공소협조권’을 주장했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘계엄 관여 군인 재판’ 내란재판부서 군사법원으로 이송...특검, 사건 이첩 요구</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/VWOYNCT3IRCLZL7HOYS5VOHEEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/VWOYNCT3IRCLZL7HOYS5VOHEEU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 09:39:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3DKZBSMY4TOYJTGFTDGYLEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 관련 내란·외환 의혹을 수사했던 내란 특검팀의 조은석 특별검사. (공동취재)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란특검팀은 “재판권이 군사법원에 있다”는 이유로 중앙지역군사법원으로 이송된 사건을 중앙지법에서 계속 심리할 수 있도록 국방부에 사건 이첩을 요구했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;내란전담재판부인 서울중앙지법 형사합의38-1부(재판장 장성진)는 이날 구삼회 전 육군 1군단 2기갑여단장(준장)과 방정환 전 국방부 혁신기획관(준장) 등 군 장성 3명과 대령 5명의 내란중요임무종사 등 혐의 사건을 중앙지역군사법원으로 이송했다. 내란전담재판부법은 내란 등 사건의 전속 관할에 대해서만 규정하고 있을 뿐 재판권에 대해선 명시적 규정을 두고 있지 않아 해당 사건의 재판권이 군사법원에 있다고 판단했기 때문이다.&lt;br&gt;&lt;br&gt;이에 특검팀은 “해당 사건의 신속하고 효율적인 공소 유지를 위해 서울중앙지법 내란전담재판부가 심리할 수 있도록 사건을 내란 특검에 이첩해 줄 것을 국방부에 요청했다”고 했다. 내란 특검법 7조 1항은 특별검사가 특검법상 수사 대상에 해당하는 사건 중 검사 또는 군검사가 기소해 공소 유지 중인 사건에 대해 이첩을 요구할 수 있다고 규정하고 있다. 동조 2항은 필요할 경우 당시 공소를 수행한 검사 또는 군검사가 특별검사의 지휘를 받아 이첩받은 사건의 공소를 수행하도록 할 수 있다고 명시했다.&lt;br&gt;&lt;br&gt;앞서 국방특별수사본부는 지난 2월 5일 12·3 비상계엄에 가담한 장성 3명과 대령 5명을 서울중앙지법에 넘겼었다. 구 준장과 방 준장은 비상계엄 당시 부정선거를 수사할 목적으로 만들어진 제2수사단에서 각각 단장과 부단장을 맡으려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 특검, ‘계엄 직무유기’ 조태용 前국정원장 징역 7년 구형</title>
       <link>https://www.chosun.com/national/court_law/2026/04/03/CF5MKOTRVFDKLETGRZZRV7TIDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/CF5MKOTRVFDKLETGRZZRV7TIDQ/</guid>
@@ -858,24 +885,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LN4I5HOE7IHE7GV5FGK272HUEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;발레 공연 장면. 사진은 기사와 직접적인 관련 없음. / 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제37회 전국무용제’가 2028년 인천에서 열린다. 인천시는 최근 (사)대한무용협회로부터 2028년 전국무용제 개최 도시로 확정됐다는 내용을 전달받았다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;전국무용제는 한국무용과 발레, 현대무용 등 장르의 17개 시·도 대표 무용단이 참여하는 국내 최대 규모 무용 축제다. &lt;br&gt;&lt;br&gt;인천시와 (사)대한무용협회가 공동 주최하고 인천무용협회와 전국무용제 집행위원회가 주관하는 제37회 전국무용제는 2028년 9월 10일부터 24일까지 15일간 인천 남동구 인천문화예술회관과 부평구 부평아트센터, 중구 상상플랫폼 등 주요 공연장에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;이번 무용제에선 시도 대표 무용단체 경연과 함께 청소년 댄스페스티벌, 전국 실용무용 챔피언십, 국내외 유명 무용단체 초청 공연 등이 진행되며, 인천공항 등지에서도 ‘찾아가는 공연’이 마련된다. &lt;br&gt;&lt;br&gt;또 지역 무용예술 발전 방향 및 인천 지역 발전을 위한 무용 예술 관련 학술세미나를 비롯해 생활무용 강좌 등도 진행된다. &lt;br&gt;&lt;br&gt;인천시는 전국무용제 기간 약 5만명이 인천을 찾아 238억원 규모의 경제효과가 있을 것으로 예상했다. &lt;br&gt;&lt;br&gt;인천시는 이번 유치를 계기로 순수 예술 중심의 문화 도시 이미지를 강화할 방침이다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “전국무용제는 창작과 향유, 교육이 어우러지는 종합적인 예술 플랫폼”이라며 “시민과 예술가가 함께 호흡하는 축제가 될 수 있도록 준비해 나가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>장애인 폭행 혐의 색동원 종사자 2명… 검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2026/04/02/RCFAGQZOW5E3TFQ72K5TRH3FD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/02/RCFAGQZOW5E3TFQ72K5TRH3FD4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 05:09:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3DKNLBMZRWINJYGQYDKNDCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중증장애인 거주 시설인 인천 강화군 색동원./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인들을 폭행한 혐의를 받는 인천 강화군 중증 장애인 거주 시설 색동원 종사자 2명이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 장애인복지법 위반 혐의로 불구속 입건된 A씨 등 색동원 종사자 2명을 검찰에 송치했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난해 색동원에서 장애인 입소자 3명을 폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;서울경찰청 색동원 사건 특별수사단은 앞서 A씨 등의 주소지를 고려해 인천경찰청으로 사건을 이송, 송치하게 했다. &lt;br&gt;&lt;br&gt;장애인 입소자를 상대로 성범죄를 저지른 혐의를 받는 색동원 시설장 B씨는 서울경찰청이 서울중앙지검에 직접 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>호감 거부하자 집착… 창원 20대女 살해한 30대 ‘스토킹’ 정황</title>
-      <link>https://www.chosun.com/national/regional/2026/04/02/AS2ENZX2UJFENNBKKD6TPQWPYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/02/AS2ENZX2UJFENNBKKD6TPQWPYI/</guid>
-      <dc:creator>김주영 기자, 창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 04:32:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAUYU2LCNBJ4BJBOL4K2ESIMUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 오전 11시 36분께 창원시 성산구 한 아파트 인근 주차장에서 발생한 흉기 난동 현장. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원에서 30대 남성이 20대 여성에게 흉기를 휘둘러 숨지게 한 뒤 자해한 사건과 관련해 남성이 범행 전 여성을 스토킹한 정황이 드러났다.&lt;br&gt;&lt;br&gt;2일 경남경찰청에 따르면, 수사팀은 30대 A씨가 피해자 B씨를 지속적으로 스토킹한 정황을 확인하고, 계획 범죄 가능성에 무게를 두고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;사건은 지난달 27일 오전 창원시 성산구 상남동 한 아파트 출입구에서 발생했다. “남성이 여성을 흉기로 찔렀고, 남성도 쓰러져 있다”는 행인의 신고를 받고 출동한 경찰은 인근 상가 주차장에서 피를 흘리며 쓰러져 있던 A씨와 B씨를 발견했다. 두 사람은 병원으로 옮겨졌으나 모두 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 B씨에게 흉기를 휘두른 뒤 자해한 것으로 보고 있다. 흉기에 찔린 B씨가 주변에 도움을 요청하려고 현장을 벗어나자 A씨가 뒤따라갔고, 두 사람 모두 상가 주차장에서 쓰러진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 과거 직장 동료였던 것으로 확인됐다. B씨는 지난 1월 직장을 그만뒀고, A씨는 범행 당일 퇴사 의사를 밝힌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;휴대전화 포렌식 결과, 두 사람은 지난해 10월 같은 직장에 근무하며 호감을 갖고 한 달여 연락을 주고받았다. 이후 B씨가 연락을 끊었지만 A씨가 집착을 보였고, B씨는 1월 퇴사한 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨의 퇴사 이후에도 집착을 이어가며 지난달 초까지 위협적인 문자 메시지를 수차례 보낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;사건 당일 A씨는 범행 약 3시간 전 B씨의 주거지를 찾아가 집을 나오던 B씨와 대화한 후 함께 택시를 타고 자신의 거주지 인근 아파트로 이동한 것으로 파악됐다. 주차장에서 2시간가량 대화를 나누던 A씨는 미리 준비한 흉기로 B씨를 찌른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “자신을 거부한 데 따른 배신감과 과도한 집착 등이 범행 동기로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;한편, B씨는 A씨에게 신변을 위협하는 취지의 내용이 담긴 연락을 받은 뒤 지난달 5일 창원중부경찰서를 찾아 상담을 받았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;그는 ‘한때 연락하던 남성이 계속 연락한다’는 취지로 10분가량 상담했다. 다만 구체적인 피해 진술을 하지 않았고, 보호 조치는 이뤄지지 않았다. 경찰 관계자는 “B씨가 ‘A씨에게 한 번 더 연락이 오면 신고하겠다’는 의사를 밝혔으나, 당시 A씨의 인적 사항 등은 알려주지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 주변인 조사 등을 통해 정확한 범행 동기를 확인 중이지만, 두 사람 모두 사망해 규명에 한계가 있을 것으로 보고 있다. &lt;br&gt;&lt;br&gt;A씨가 숨지면서 사건은 ‘공소권 없음’으로 종결될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“산소마스크에 산소 연결 안돼”…대한항공 ‘美승객 사망’ 소송당해</title>
       <link>https://www.chosun.com/national/national_general/2026/04/02/7LHMWN2RLRH7RM57FM2GU4ONKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/7LHMWN2RLRH7RM57FM2GU4ONKM/</guid>
@@ -892,15 +901,6 @@
       <description/>
       <pubDate>Thu, 02 Apr 2026 04:21:03 +0000</pubDate>
       <content:encoded>서울 압구정·여의도·목동·성수 지역의 재건축·재개발 단지들의 토지거래허가구역으로 재지정됐다. 투기성 거래를 차단하고 실수요자의 주거 안정을 보호하기 위한 조치다.&lt;br&gt;&lt;br&gt;서울시는 지난 1일 제5차 도시계획위원회를 열고 압구정·여의도·목동·성수 지역 주요 재건축·재개발단지에 대한 토지거래허가구역 재지정을 의결했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;대상 지역은 강남구 압구정 아파트지구, 영등포구 여의도 아파트지구, 양천구 목동 택지개발사업 아파트단지, 성수동 성수전략정비구역 등 총 4.6㎢ 규모다. 해당 지역들은 지난 2021년 4월 토지거래허가구역으로 처음 지정됐으며, 내년 4월 26일까지로 지정 기간이 연장된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4YC64ARKFFZJI75DMJLEFOZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토지거래허가구역 재지정 위치. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토지거래허가구역으로 지정되면 주거지역 6㎡, 상업·공업지역 15㎡를 초과하는 토지를 거래할 때 구청장의 허가를 받아야 한다. 실거주 목적이 아닌 갭투자 등 투기성 거래는 사실상 제한된다.&lt;br&gt;&lt;br&gt;용산구 후암동 30-2와 후암동 264-11 일대 신속통합기획 재개발지 2곳은 사업구역 확대에 맞춰 허가구역 경계를 조정했다. 각각 지정 면적은 10만3900㎡에서 10만6589㎡, 8만2172㎡에서 8만7020㎡로 확대됐지만 허가 기준 면적과 지정 기간은 기존과 동일하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUFHWADD2VCWZA5QXBYUAUJ4AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토지거래허가구역 조정 위치. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “앞으로도 시장 상황을 면밀히 살펴 실수요자 보호와 건전한 부동산시장 조성을 위해 최선의 노력을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢 “한덕수, 대선 출마 결심하고 150만원 기부” 韓측 “출마 선언 직전 결심... 권한대행 통상 직무” 법정 공방</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/02/BBDXR2N7OVAS3APQBBHCVUK2FE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/BBDXR2N7OVAS3APQBBHCVUK2FE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 02:25:26 +0000</pubDate>
-      <content:encoded>광주광역시의 ‘1000원 식당’에 150만원을 후원해 공직선거법 위반 혐의로 기소된 한덕수 전 국무총리 측이 2일 첫 정식 재판에서 “대통령 권한대행으로써 통상적인 기부를 했을 뿐”이라며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZWEZBSMQYWKYRYG4ZTCY3CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 총리 측은 이날 서울중앙지법 형사22부(재판장 조형우) 심리로 열린 공직선거법 위반 혐의 재판에서 이 같이 주장했다. 한 전 총리는 윤석열 전 대통령 탄핵으로 조기 대선 실시가 확정된 뒤인 작년 4월 15일 광주의 ‘해뜨는 식당’에 150만원을 기부한 혐의를 받는다. 이 식당은 소외계층을 대상으로 1000원 백반을 판매하는 곳이다. 한 전 총리는 총리실 관계자로부터 격려금 전달을 건의받은 뒤 이를 수락하고, 해뜨는 식당에 식재료를 납품하는 매장들에 기부한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰 측은 “피고인은 당시 여론조사 등에서 유력한 대선 후보로 주목받고 있었고, 작년 5월 2일엔 대선 출마를 선언했다”며 “대통령 선거의 ‘후보자가 되고자 하는 자’인데도 선거구 안에 있는 자에게 기부 행위를 했다”고 주장했다.&lt;br&gt;&lt;br&gt;반면 한 전 총리 측은 “격려금 기부 당시 대선 출마 의사가 없었다”며 맞섰다. 한 전 총리 측은 “후보자가 되고자 하는 자로 인정되려면 출마 의사와 관련한 객관적 징표가 있어야 한다는 게 대법원의 일관된 판례”라며 “기부 전후로 피고인은 ‘대통령의 대자도 꺼내지 말라’고 주변에 이야기할 정도였다”고 했다. 대선 출마는 출마 선언 직전인 작년 4월 말에서야 결심했다는 게 한 전 총리 측 주장이다. 한 전 총리 측은 또 “문제가 된 기부 행위는 대통령 권한대행으로서의 통상적 직무 행위”라며 “사회상규에 위배되지 않는 정당 행위여서 위법성이 조각된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “대법원 판례를 살펴보면, 후보자가 되고자 하는 자는 선거 출마를 위해 정당에 공천을 신청하거나, 후보자로 추천받기 위한 활동을 벌이는 경우에 해당한다”며 “선거에 입후보할 의사가 있었다는 점이 객관적으로 입증돼야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘8억대 뇌물’ 전준경 前 민주연 부원장, 징역 3년 확정</title>
