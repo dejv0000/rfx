@@ -13,6 +13,127 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 특검, ‘계엄 직무유기’ 조태용 前국정원장 징역 7년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/CF5MKOTRVFDKLETGRZZRV7TIDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/CF5MKOTRVFDKLETGRZZRV7TIDQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 08:37:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WCMRXGU2WINJYHBRTOMBRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가정보원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 ‘정치인 체포 지시’를 보고받고도 이를 묵살하는 등 국가정보원장의 의무를 다하지 않은 혐의 등으로 재판에 넘겨진 조태용 전 국정원장에게 조은석 내란 특별검사팀이 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 3일 서울중앙지법 형사32부(재판장 류경진)는 심리로 열린 조 전 원장의 국정원법상 정치관여금지 위반, 직무유기 등 혐의 사건 결심 공판에서 “국가 최고 정보기관의 수장으로서 내란 범행을 방조하고 사법 절차를 방해한 죄질이 매우 불량하다”며 이같이 구형했다.&lt;br&gt;&lt;br&gt;조 전 원장은 2024년 12월 3일 윤석열 전 대통령으로부터 계엄 선포 계획을 미리 듣고도 국회에 알리지 않은 혐의를 받는다. 홍장원 전 국정원 1차장으로부터 ‘주요 정치인 체포 지시’ 보고를 받고도 조치를 하지 않은 혐의, 국정원 내부 CCTV 영상을 선별적으로 유포해 정치에 관여한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘통일교 청탁’ 윤영호 항소심도 징역 4년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/NZA4WFC6XRGEPMCCU7OWZ4MKKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/NZA4WFC6XRGEPMCCU7OWZ4MKKU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 08:43:47 +0000</pubDate>
+      <content:encoded>민중기 특별검사팀이 3일 김건희 여사에게 통일교 현안을 청탁하며 명품 가방과 목걸이를 건넨 혐의를 받는 윤영호 전 세계본부장의 항소심에서 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTGCN3EGQYGEYZSMFSDGMRUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤영호 전 통일교 세계본부장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 서울고법 형사6-1부(재판장 김종우) 심리로 열린 윤씨의 청탁금지법·정치자금법 위반 혐의 사건 항소심 공판에서 “피고인 측 항소를 기각해달라”며 이 같이 구형했다. 특검 측은 “‘건진 법사’ 전성배씨의 재판에서 윤 전 본부장이 건넨 금품과 관련해 유죄가 선고된 바 있다”며 “통일교 세계본부장 지위에서 범행을 주도해 죄질이 좋지 않다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 본부장 측은 “피고인이 범행을 실행했지만, 주도적으로 한 것은 아니다”라며 “통일교 내 상징적 존재인 한학자 총재를 위한 것이었을 뿐”이라고 맞섰다. 한 총재의 지시에 따랐을 뿐이라는 얘기다. 윤 전 본부장 측은 또 “1심은 수사에 성실히 협조해 기여한 점도 선고형에 반영했다”며 “감경 사유로 반영돼야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 전 본부장도 직접 발언권을 얻어 “물의를 일으켜 죄송하고, 많은 책임감을 느낀다”며 “교단의 실체적 진실을 밝히기 위해 일관되게 진술해온 만큼, 가족과 함께할 수 있도록 재판부의 선처를 부탁한다”고 했다.&lt;br&gt;&lt;br&gt;윤씨는 2022년 전씨를 통해 김 여사에게 총 8293만원 상당의 그라프 다이아몬드 목걸이, 샤넬백 2개 등을 건넨 혐의로 재판에 넘겨졌다. 권성동 국민의힘 의원에게 통일교 행사 지원을 요청하며 불법 정치자금 1억원을 전달한 혐의도 있다. 이 밖에도 한 총재의 ‘불법 원정도박’ 의혹 관련 자료를 삭제하라고 지시한 혐의도 적용됐다. 1심은 징역 1년 2개월을 선고하고, 증거인멸 혐의에 대해선 “특검법상 수사 대상이 아니다”라며 공소기각 판결했다.&lt;br&gt;&lt;br&gt;재판부는 오는 27일 선고하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>드라마 촬영한다고 막은 벚꽃길… “전세 냈냐” 민폐 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/03/PDBPXMM4E5B2ZNQ62UNHUTE7ZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/PDBPXMM4E5B2ZNQ62UNHUTE7ZY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 08:28:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUSAIQCRX5HKZPHH36JRWIJ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 개금문화벚꽃길 일부 구간이 넷플릭스 드라마 촬영으로 인해 통제되고 있다는 정보를 공유 중인 게시물. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;벚꽃 명소로 꼽히는 부산 개금문화벚꽃길 일부가 넷플릭스 드라마 촬영을 위해 통제되면서 ‘민폐 논란’이 불거졌다.&lt;br&gt;&lt;br&gt;3일 부산진구청에 따르면, 지난 1일부터 이틀간 저녁부터 새벽까지 부산진구 개금문화벚꽃길에서 넷플릭스 시리즈 드라마 촬영이 진행됐다.&lt;br&gt;&lt;br&gt;촬영 당시 벚꽃 사진 포인트로 유명한 메인 데크길 약 20m가량이 통제됐다. 부산 개금문화벚꽃길은 길이가 길지는 않지만, 오래된 마을과 연분홍빛 벚꽃잎이 조화를 이루며 일본 감성 벚꽃길로 소셜미디어에서 입소문을 탔다. 젊은 층 사이에서는 전국에서 손꼽히는 벚꽃 명소로 꼽힌다.&lt;br&gt;&lt;br&gt;장비와 차량이 촬영 전부터 좁은 길을 점유해 이동을 방해하고, 드라마 촬영을 위해 일부 야간 경관조명이 꺼져 경관을 해치자 방문객 사이에서는 불만이 나왔다. 특히 소셜미디어에는 “드라마 촬영 중이라 벚꽃을 실컷 못 봤다”, “통제하고 있어서 데크에 들어가지도 못하고 밖에서만 찍고 왔다” “하루만 촬영하는 줄 알았는데 이틀째 촬영 중이더라. 헛걸음하지 마시라” 등의 방문객 후기가 이어졌다. 이를 본 네티즌들은 “나름 친절하게 양해를 구하긴 했으나, 한창 벚꽃 시즌에 저렇게 전세 내고 통제하는 게 맞나 싶었다” “다 같이 1년 기다려서 보는 벚꽃인데 촬영한다고 통제하는 건 아닌 것 같다” 등의 반응을 보였다. 반면 “민간 촬영이긴 하지만, 분명 홍보 효과도 있을 텐데 이 정도는 이해할 수 있다”는 의견도 일부 있었다.&lt;br&gt;&lt;br&gt;하지만 촬영으로 인한 도로나 인도 점용에 대한 허가 기준이 명확하지 않아 마땅한 해결책도 없는 상황이다. 이번에 논란이 된 촬영은 도로를 막고 진행된 것이 아니라서 도로 점용허가는 따로 받지 않고 부산진구청과 경찰에 협조를 요청한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;부산진구청 관계자는 조선닷컴에 “도로 점용은 지자체가 허가해주는 사항이 아니라서 촬영 협조 요청이 오면 주민들에게 미리 알려주는 정도로만 진행된다”며 “주민들은 촬영 소식을 알고 계시긴 했는데, 외부에서 오신 관광객들은 몰라 불편을 겪은 것 같다”고 했다. 아울러 “앞으론 촬영 시 외부인도 볼 수 있도록 공지를 신경써서 할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;부산 촬영 로케이션을 지원한 부산영상위원회는 “차도를 통제하는 것이 아니기 때문에 별도의 허가 없이 지자체와 경찰에 협조만 요청했다”며 “안전을 위해 촬영 주변을 통제할 수밖에 없는 상황이었고, 날씨가 좋아 예상보다 많은 인파가 몰려 일부 관광객이 불편을 겪은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 실험실서 화학약품 사고…1명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/03/2L2NKSMDXBDD5NODVLBB6Q6USQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/2L2NKSMDXBDD5NODVLBB6Q6USQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 08:35:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2TQZBZGBSDGYTEHBRTQYTGGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 관악캠퍼스의 한 실험실에서 화학 약품 사고가 발생해 1명이 다쳤다.&lt;br&gt;&lt;br&gt;3일 오후 2시 7분쯤 서울 관악구 서울대 농업생명과학대학의 한 실험실에서 화학약품 사고가 발생했다. 이 사고로 학생 1명이 병원으로 이송돼 치료받고 있다.&lt;br&gt;&lt;br&gt;“대학 실험실에서 화학 실험 중 폭발이 일어났다”는 신고를 받고 출동한 소방은 건물 일대를 통제했고 30명이 대피했다. 상황은 오후 3시 24분쯤 마무리됐다.&lt;br&gt;&lt;br&gt;사고는 프로필렌 옥사이드 액체 관련 실험 중 발생한 것으로 알려졌다. 프로필렌 옥사이드는 프로필렌을 산화시켜 제조하는 무색의 휘발성 액체다.&lt;br&gt;&lt;br&gt;서울대는 정확한 사고 원인 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교촌 1호점 있는 구미시, ‘치킨벨트’로 선정</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/03/UYR2XP4DYVFL3PRM5JCXTNRAEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/UYR2XP4DYVFL3PRM5JCXTNRAEE/</guid>
+      <dc:creator>구미=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 08:15:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4WKZRWMMZTMYLDGJSTGZJVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미시 송정동의 교촌1991 문화거리/구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교촌치킨 1호점이 있는 경북 구미시가 정부의 ‘K-미식벨트’(치킨벨트)로 선정됐다. 치킨과 닭갈비 등 요리를 주제로 지자체의 관광 거점을 조성하는 사업이다.&lt;br&gt;&lt;br&gt;경북 구미시는 농림축산식품부와 한식진흥원이 주관한 ‘2026년 K-미식벨트 조성사업’ 중 치킨벨트 부문에 최종 선정됐다고 3일 밝혔다. 구미시를 비롯해 경기 수원시·제주시·강원 춘천시 등이 치킨벨트로 선정됐다.&lt;br&gt;&lt;br&gt;구미시는 지난 1991년 교촌치킨의 전신인 ‘교촌통닭’ 1호점이 문을 연 도시로, 지금도 송정동에서 1호점이 운영 중이다. 구미시는 이번 공모로 확보한 사업비 2억원을 교촌 1호점과 치킨 요리를 중심으로 한 관광 콘텐츠 개발에 투입할 예정이다.&lt;br&gt;&lt;br&gt;교촌치킨을 주제로 한 구미시의 관광 거점 조성 사업은 순차적으로 진행되고 있다. 지난 2024년 6월에는 구미종합버스터미널에서 동아백화점까지 500m 구간이 명예도로인 ‘교촌 1991로’로 지정됐다. &lt;br&gt;&lt;br&gt;이듬해 6월에는 같은 구간에 18억원을 투입해 관광객이 치킨과 맥주를 마실 수 있는 공간을 조성하고, 교촌치킨의 역사를 보여주는 상징물과 산책로 등이 있는 ‘교촌1991 문화거리’를 조성했다. 이 거리가 조성된 이후 교촌 1호점 매출은 40% 이상 늘고, 방문객 수는 2배로 증가했다고 한다. &lt;br&gt;&lt;br&gt;향후 구미시는 교촌 1호점을 중심으로 관광 동선을 늘리고 기존의 라면 축제와도 연계한 콘텐츠를 개발할 예정이다.&lt;br&gt;&lt;br&gt;김장호 구미시장은 “시카고의 맥도날드 1호점, 시애틀의 스타벅스 1호점처럼 구미에 먹거리 브랜드 성지를 만들어내겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“참여하게 돼 영광” 김연경, 美여자배구 신생팀 구단주 됐다</title>
+      <link>https://www.chosun.com/national/people/2026/04/03/5OTF4T4RSVC2LGRW45WEI5UF5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/03/5OTF4T4RSVC2LGRW45WEI5UF5Y/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 07:55:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZX5S3DNBYBMKVCIUUXGU3X6I7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김연경 KYK재단(김연경재단) 이사장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘배구 여제’ 김연경 KYK재단(김연경재단) 이사장이 미국 여자 프로배구 리그(LOVB) 신생팀인 LOVB 샌프란시스코의 공동 구단주로 참여하게 됐다. &lt;br&gt;&lt;br&gt;LOVB는 2일(현지 시각) 홈페이지를 통해 “전 프로 배구 선수이자 세 차례 올림픽에 출전한 경험이 있는 김연경이 LOVB 샌프란시스코 공동 구단주로 합류한다”고 공지했다.&lt;br&gt;&lt;br&gt;공동 구단주에는 김연경 외에도 미국프로농구(NBA)의 스티브 커 골든스테이트 감독, 미국여자프로농구(WNBA) 선수 렉시 헐, 미국 여자 축구 레전드 줄리 푸디 등이 이름을 올렸다.&lt;br&gt;&lt;br&gt;LOVB에는 현재 애틀랜타, 오스틴, 휴스턴, 매디슨, 네브래스카, 솔트레이크 등 6팀이 있다. 김연경이 공동 구단주로 참여하는 샌프란시스코는 2027년 1월 데뷔한다.&lt;br&gt;&lt;br&gt;LOVB 샌프란시스코의 소유주 겸 회장인 스테파니 마틴은 “저희는 배구가 미국에서 가장 중요한 스포츠 중 하나로 자리매김할 것이라고 믿는다”며 “풍부한 인재, 열정적인 팬층을 갖춘 샌프란시스코보다 그 미래가 싹틀 수 있는 더 좋은 곳은 없다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;김연경은 구단을 통해 “LOVB 샌프란시스코 공동 구단주로 여자 배구의 새로운 미래를 건설하는 데 참여하게 돼 영광”이라며 “샌프란시스코 구단과 한국의 배구 커뮤니티가 의미 있는 협력 관계를 만들어갈 수 있도록 돕겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “강선우에게 다 보고했으니 호텔서 만나자”... 1억 합의한 姜 보좌관·김경</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/03/2JKTUNE2N5AG3EXN6YJ7HQ56MM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/2JKTUNE2N5AG3EXN6YJ7HQ56MM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 07:59:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRWKZRWGUYWKYJUG5TGKMTGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘공천 헌금 1억원’ 의혹으로 구속 기소된 강선우 무소속 의원과 김경 전 서울시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 2022년 지방선거를 앞두고 시의원 공천을 대가로 1억원을 주고받은 혐의를 받는 강선우(서울 강서갑) 무소속 의원과 김경 전 서울시의원 등을 기소하면서 공천 헌금 수수를 공모한 구체적 경위를 공소장에 명시했다. 강 의원 측은 “김씨 등의 진술은 객관적인 사실 관계와 맞지 않다”며 혐의를 전면 부인한다.&lt;br&gt;&lt;br&gt;3일 본지가 입수한 강선우·김경 공소장에 따르면, 2021년 12월 강 의원 지역구 보좌관 남모씨는 김씨와 공천 헌금 1억원 수수 방안을 협의한 뒤 이를 강 의원에게 보고했다. 며칠 후 강 의원은 김씨의 제안을 받아들이면서 “다음 달 그랜드하얏트 호텔에서 저녁 약속이 있으니, 일정 전에 김씨를 만날 수 있게 약속을 잡으라”는 취지로 지시했다. 이에 남씨가 김씨에게 “강 의원님께 다 보고했다. 하얏트 호텔에서 만나자”며 일정을 전달했다는 게 검찰 조사 결과다.&lt;br&gt;&lt;br&gt;강 의원과 김씨, 남씨는 2022년 1월 7일 저녁 서울 용산구의 하얏트 호텔 1층 카페에서 만났다. 세 사람은 40분가량 대화를 나눴고, 김씨가 강 의원 측을 배웅하면서 현금 1억원이 담긴 쇼핑백을 전달했다고 한다. 남씨는 이를 받아 오후 10시쯤 강 의원의 강서구 자택으로 배달한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 강 의원 측은 남씨에게 1억원 수수 여부를 보고받거나 승인한 적 없고, 김씨가 건넨 쇼핑백에 1억원이 담겨 있는지도 몰랐다는 입장이다. 특히 1억원을 주고받는 과정에 관한 김씨와 남씨의 진술이 당시 강 의원의 일정 등과 맞지 않는다고 주장한다. 강 의원의 금품 수수 경위와 관련 진술의 신빙성은 향후 재판에서 쟁점이 될 전망이다.&lt;br&gt;&lt;br&gt;한편, 경찰이 강 의원의 구속영장 신청서에서 잘못 적었던 남씨의 이력은 공소장에서 정정된 것으로 확인됐다. 앞서 경찰은 국회에 제출한 구속영장 신청서에서 “남씨는 2012년부터 2016년까지 신기남 당시 민주당 의원의 보좌진으로 활동하다가, 2016년부터 2020년까지는 한정애 민주당 의원의 보좌진으로 활동했다”고 썼다.&lt;br&gt;&lt;br&gt;그러나 실제로 남씨는 이 기간 해당 의원실이 아닌 민주당 소속 전병헌·김병기 의원실 등에서 근무한 것으로 드러났다. 경찰 관계자는 “다른 의원실 보좌진의 이력과 남씨의 이력이 섞이며 착오로 잘못 기재된 것”이라고 설명했다. 검찰은 남씨와 관련해 “2012년부터 2020년까지 민주당 소속 복수 국회의원들의 비서관·보좌관으로 근무했다”고 명시했다.&lt;br&gt;&lt;br&gt;이 사건을 수사한 서울경찰청 공공범죄수사대는 추가로 드러난 김경씨의 ‘쪼개기 후원’, ‘강서구청장 공천 로비’ 의혹 등도 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘계열사 누락 신고’ 김준기 DB회장 약식 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/SBFEDGQCUFAS3IGMJIMNQTU4GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/SBFEDGQCUFAS3IGMJIMNQTU4GE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 08:16:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4DOY3DMUYGKNZWMNQTMZBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김준기 DB 창업회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 3일 재계 서열 40위인 김준기(82) DB그룹 창업회장을 공정거래법 위반 혐의로 벌금 1억5000만원에 약식 기소했다. 김 회장은 자신이 지배하는 재단과 산하 회사들을 계열사 목록에서 빼고 거짓으로 신고한 혐의를 받는다. 이 재단 회사들을 총수 일가의 돈줄로 활용하면서도 규제를 피하려고 장기간 계열사가 아닌 것처럼 숨겨온 것이다.&lt;br&gt;&lt;br&gt;공정위는 자체 조사를 마친 뒤 공소시효 만료를 약 2개월 남긴 지난 2월 김 회장을 검찰에 고발했다. 김 회장은 2021년부터 2025년까지 공시 대상 기업 집단 지정을 위한 자료를 제출하면서 삼동흥산, 빌텍, 뉴런엔지니어링 등 재단 산하 회사 15곳을 계열사에서 제외한 것으로 조사됐다. 이 회사들은 1999년 DB에서 계열사에서 제외됐지만, 최소 2010년부터 총수 일가를 위해 다시 활용되기 시작했다고 한다. 2016년부터는 아예 ‘재단 협력 회사 운영 담당(회장)’이라는 직책까지 만들어 본격적으로 관리한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;DB 측은 내부적으로는 재단 회사들을 계열사처럼 관리하면서도 대외적으로는 철저히 숨겼다. ‘그룹사 전국 부동산 사용 현황’ ‘그룹 전국 건물 현황(대외비)’ ‘그룹사 임원 명단’ 같은 DB 내부 문서에는 재단 회사들의 정보가 들어 있었다고 한다. DB 측은 재단 회사들을 쓸 때마다 공정위가 주목할 것을 걱정하며 위장 계열사 문제를 스스로 분석하기도 한 것으로 조사됐다. 한 내부 문서에는 “재단 회사가 특수 관계인이 아니니까 서로 거래할 때 겉으로 보기엔 법적 규제에서 자유롭다”는 평가가 담겨 있었다.&lt;br&gt;&lt;br&gt;약식 기소란 검찰이 피의자를 정식 재판에 넘기지 않고, 서면 심리만으로 벌금이나 과태료를 부과해 달라고 법원에 청구하는 절차다. 검찰은 공정거래법 양형 기준 등을 고려해 김 회장을 약식 기소하기로 결정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 4월 4일 토요일 (음력 2월 17일 戊申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/03/HBLK24SXKZDDFEPTJLMUE52WOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/HBLK24SXKZDDFEPTJLMUE52WOI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>[속보] 기은 대치역지점장 납치 범인 2명 검거                 </title>
+      <link>https://www.chosun.com/site/data/html_dir/1996/06/20/1996062070380.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1996/06/20/1996062070380.html</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Jun 1996 07:37:04 +0000</pubDate>
+      <content:encoded>지난달 8일 발생한 서울 강남구 대치역지점장 납치사건은명문대를 졸업한 형제가 무역업을 하다 진 빚을 갚기위해 치밀한 계획아래 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 20일 이 사건의 범인으로 A(40)씨, B씨(36) 형제를 붙잡아 범행일체를 자백받고 강도상해 혐의로 긴급구속했다.&lt;br&gt;&lt;br&gt;경찰은 또 범행에 사용한 쏘나타승용차와 봉고차 등 차량 3대 및 칼,도끼,절단기,범행계획서 등을 증거물로 압수했다.&lt;br&gt;&lt;br&gt;경찰은 이들이 지난 18일 오전 서울 강남구 삼성동 편의점앞에서 이모(49)씨 소유의 콩코드 승용차를 훔친 사실을 중시, 추가범행여부를 추궁중이다.&lt;br&gt;&lt;br&gt;▲범행동기 및 준비= A씨는 무역업을 하다 1억원의 빚을 진데다 회사운영자금이 부족하자 동생과 짜고 모산부인과 원장 등 4명의 범행대상중 현금이 많을 것으로 보이는 서울 강남구 대치역지점장인 송해정(49)씨를 납치키로 했다.&lt;br&gt;&lt;br&gt;이들은 `전체 업무흐름‘이라는 제목의 범행계획서에 차량,예비신분증, 흉기, 녹음기 등 각종 장비목록과 `물품(송씨를 지칭) 확보후 행동요령’ 등 범행수법을 일일이 기록해 놓을 정도로 치밀한 준비를 했다.&lt;br&gt;&lt;br&gt;범행에 앞서 형은 청 박수사관으로, 동생은 운전기사로 각각업무를 분담한뒤 범행차량을 3대나 준비해 바꿔타고 다니며 건네받을 장소인 경부고속도로 만남의 광장에 미리 갖다 놓기도 했다.&lt;br&gt;&lt;br&gt;▲납치 및 금품요구= 범인 형제는 지난달 8일 오전 11시40분께 서울 강남구 대치동 대치역지점 송씨 사무실로 전화를 걸어 “서울지검 수사관인데 대출비리 관계로 조사할 내용이 있다”며 불러내 쏘나타승용차에 태운 뒤 양재역 부근에 이르자 뺨을 때리고 테이프로눈과 입을 가려 납치했다.&lt;br&gt;&lt;br&gt;이들은 처음에는 3억원을 요구하다 송씨가 돈이 없다고 하자 핸드폰을 사용, 송씨의 부인(43)에게 전화를 걸어 5천만원을 경부고속도로 만남의 광장으로 가져오게했으나 돈을 건네받는데 실패, 11시간만인 같은날오후 11시께 강남구 일원동 쓰레기소각장 부근에서 풀어줬다.&lt;br&gt;&lt;br&gt;▲검거경위= 경찰은 일단 지난 8일 오후 몸값을 건네주기로 했던경부고속도로 만남의 광장에 주차돼 있던 8백98대의 차량에 대한 차적조회를 실시, 송씨가 진술한 쏘나타승용차 85대를 추려낸 뒤 소유주를 파악,수사망을 좁혀 나갔다.&lt;br&gt;&lt;br&gt;경찰은 또 이들 형제가 송씨 사무실과 집에 건 6차례에 전화에 대한 발신지 추적을 실시, 범인들이 사용한 핸드폰이 박모씨(24) 소유임을밝혀냈다.&lt;br&gt;&lt;br&gt;그러나 박씨가 지난해 5월 신분증과 10만원권 자기앞수표 3장 등을분실한 사실이 드러나자 수표추적을 실시, 이들 형제가 수표를 사용한 사실을밝혀내고 검거에 성공했다.&lt;br&gt;&lt;br&gt;▲범인주변= 이들 형제는 각각 S대 무역학과와 J대 축산학과를 졸업했다.&lt;br&gt;&lt;br&gt;A씨는 4년간 일반 무역업체에 근무하다 독립, 서울 강남구삼성동 에서 문구류 및 건강기구 수입업체를 운영해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[강남구] 기은 대치역지점장 납치 범인 2명 검거               </title>
+      <link>https://www.chosun.com/site/data/html_dir/1996/06/20/1996062070144.html</link>
+      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/1996/06/20/1996062070144.html</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description>    서울 강남경찰서는 20일 지난달 8일 발생한 서울 강남구대치동 기업은행 대치역 지점장  송해정씨(49) 납치사건의 범인으로 편무태(40.무역업), 무열(36) 형제를 검거, 조사중이다.    편씨 형제는 대학을 졸업한 뒤 사업을 하다 부도가 나는 바람에 1억원의 빚을지자 범행을 저지른 것으로 알려졌다.</description>
+      <pubDate>Thu, 20 Jun 1996 04:40:04 +0000</pubDate>
+      <content:encoded> 서울 강남경찰서는 20일 지난달 8일 발생한 서울 강남구대치동 기업은행 대치역 지점장 송해정씨(49) 납치사건의 범인으로 A(40)씨, B(36)씨 형제를 검거, 조사중이다.&lt;br&gt;&lt;br&gt;이들 형제는 대학을 졸업한 뒤 사업을 하다 부도가 나는 바람에 1억원의 빚을지자 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘이순자→전두환’ 연희동 자택 명의 이전 소송 각하 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/YK6CBHLK7JGXZKYAQZKS43JYTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/YK6CBHLK7JGXZKYAQZKS43JYTU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 07:16:32 +0000</pubDate>
+      <content:encoded>검찰이 고(故) 전두환 전 대통령의 미납 추징금을 환수하기 위해 추진한 서울 서대문구 연희동 자택 소유권 이전 소송이 최종 각하되면서, 추징금 환수 시도도 무산됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3TKNRXGIZTANTGMNRDEMRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연희동 전두환 전 대통령 자택의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 대법원 1부(주심 서경환 대법관)는 국가가 이순자 여사와 옛 비서관 이택수씨, 장남 전재국씨 등 연희동 자택 지분 소유자들을 상대로 낸 소유권 이전 등기 소송에서 원심의 각하 판결을 지난 2일 심리불속행 기각으로 확정했다.&lt;br&gt;&lt;br&gt;심리불속행 기각은 형사 사건을 제외한 민사 사건에서 상고 이유에 법리적 문제가 없다고 판단될 경우 별도의 심리 없이 상고를 기각하는 절차다.&lt;br&gt;&lt;br&gt;앞서 검찰은 연희동 자택 본채가 전 전 대통령의 차명 재산이라고 보고, 2021년 10월 소유권을 전 전 대통령 명의로 돌린 뒤 추징금을 집행하기 위해 소송을 제기했다. 이는 같은 해 4월 대법원이 해당 주택을 직접 몰수할 법적 근거는 부족하다고 판단하면서도, 차명 재산으로 인정될 경우 채권자대위 소송을 통해 명의 회복 후 집행이 가능하다고 본 데 따른 것이다.&lt;br&gt;&lt;br&gt;그러나 1심은 2024년 2월 “전 전 대통령 사망으로 추징금 채권이 소멸했다”며 소송을 각하했다. 형사 판결에 따른 채무는 원칙적으로 상속 대상이 아니라는 이유였다. 국가가 항소했지만 2심에 이어 대법원도 같은 판단을 유지했다.&lt;br&gt;&lt;br&gt;이로써 연희동 자택을 통한 전 전 대통령 미납 추징금 환수 시도는 사실상 무산됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘교사와 문항 거래’ 일타강사 조정식 측, “정당한 대가” 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/ZW5KNEVJM5BXHP7E2EKW2O6B2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/ZW5KNEVJM5BXHP7E2EKW2O6B2M/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 07:05:54 +0000</pubDate>
+      <content:encoded>현직 교사에게 거액을 주고 대학수학능력시험(수능) 모의고사 문항 등을 제공받은 혐의를 받는 ‘일타 강사’ 조정식(44)씨 측이 재판에서 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCVOU6LX6UK2GC6ZFY3QTWOPC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수능 영어 강사 조정식씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사4단독 박강균 부장판사는 3일 조씨와 고등학교 현직 교사 3명에 대한 청탁금지법 위반 및 업무상 배임 교사 혐의 사건 첫 공판준비기일을 열었다.&lt;br&gt;&lt;br&gt;영어 강사인 조씨는 자신의 강의용 교재를 제작하는 업체 관계자 김모씨와 공모해 2021년 1월부터 2022년 10월까지 67차례에 걸쳐 8352만원을 건네고 현직 교사 2명에게서 수업에 사용할 영어 문항을 제공받은 혐의(청탁금지법 위반)를 받는다. 또 김씨에게 EBS ‘2022학년도 수능특강 영어독해연습’ 교재가 시중에 출판되기 전 미리 파일을 제공해 달라고 요청한 혐의(업무상 배임 교사)도 있다. &lt;br&gt;&lt;br&gt;조씨 측은 “시장 가격대로 거래가 이뤄졌고, 정당한 거래에 해당한다”며 혐의를 부인했다. 특히 청탁금지법 위반 혐의와 관련해 법이 금지하는 금품 수수에 해당하는 행위가 없었다고 주장했다. 다른 피고인들도 “문항 출제 용역 계약에 따라 실제로 용역을 수행하고 받은 대가”라며 이는 청탁금지법 8조 3항 3호에서 예외로 인정하는 ‘사적 거래로 인한 정당한 권원(근거)에 의해 제공되는 금품’에 해당한다고 주장했다.&lt;br&gt;&lt;br&gt;청탁금지법은 공직자들이 직무와 관련해 동일인으로부터 1회에 100만원 또는 매 회계연도에 300만원을 초과하는 금품 등을 받지 못하도록 규정하지만, ‘증여를 제외한 사적 거래로 인한 채무의 이행 등 정당한 권원에 의해 제공되는 금품 등’에 대해서는 예외를 인정한다.&lt;br&gt;&lt;br&gt;재판부는 검찰 측에 “청탁금지법 8조 3항 3호의 해석 문제가 이번 사건의 핵심 쟁점”이라며 “정당한 권원의 범위를 어떻게 볼 것인지, 왜 피고인들의 거래가 정당한 거래 내에서 제공되는 금품 수수가 아니라고 보는지 기소 취지를 명확히 밝혀달라”고 요청했다.&lt;br&gt;&lt;br&gt;재판부는 오는 5월 22일 공판준비기일을 한 번 더 열고 양측의 증거 의견 등을 정리하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YRR7RLZ235HQREBKE3HLIK7YNI.jpg?auth=129c6a748c54e2a58aba6e8bab8f4b30ecf9398e1cbb9ab1e2ea5e8bc7e0c2bb&amp;smart=true&amp;width=2065&amp;height=1549" type="image/jpeg" height="1549" width="2065">
+        <media:description type="plain">유명 영어 강사 조정식씨. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>몸집 키우고 체질 바꾸는 국립창원대… ‘국가 대표 대학’ 노린다 </title>
       <link>https://www.chosun.com/national/2026/04/03/WGI6JLCNBRGYTGIYU7BDJSV7XU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/04/03/WGI6JLCNBRGYTGIYU7BDJSV7XU/</guid>
@@ -782,37 +903,6 @@
       <content:encoded>광주광역시의 ‘1000원 식당’에 150만원을 후원해 공직선거법 위반 혐의로 기소된 한덕수 전 국무총리 측이 2일 첫 정식 재판에서 “대통령 권한대행으로써 통상적인 기부를 했을 뿐”이라며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZWEZBSMQYWKYRYG4ZTCY3CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 총리 측은 이날 서울중앙지법 형사22부(재판장 조형우) 심리로 열린 공직선거법 위반 혐의 재판에서 이 같이 주장했다. 한 전 총리는 윤석열 전 대통령 탄핵으로 조기 대선 실시가 확정된 뒤인 작년 4월 15일 광주의 ‘해뜨는 식당’에 150만원을 기부한 혐의를 받는다. 이 식당은 소외계층을 대상으로 1000원 백반을 판매하는 곳이다. 한 전 총리는 총리실 관계자로부터 격려금 전달을 건의받은 뒤 이를 수락하고, 해뜨는 식당에 식재료를 납품하는 매장들에 기부한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰 측은 “피고인은 당시 여론조사 등에서 유력한 대선 후보로 주목받고 있었고, 작년 5월 2일엔 대선 출마를 선언했다”며 “대통령 선거의 ‘후보자가 되고자 하는 자’인데도 선거구 안에 있는 자에게 기부 행위를 했다”고 주장했다.&lt;br&gt;&lt;br&gt;반면 한 전 총리 측은 “격려금 기부 당시 대선 출마 의사가 없었다”며 맞섰다. 한 전 총리 측은 “후보자가 되고자 하는 자로 인정되려면 출마 의사와 관련한 객관적 징표가 있어야 한다는 게 대법원의 일관된 판례”라며 “기부 전후로 피고인은 ‘대통령의 대자도 꺼내지 말라’고 주변에 이야기할 정도였다”고 했다. 대선 출마는 출마 선언 직전인 작년 4월 말에서야 결심했다는 게 한 전 총리 측 주장이다. 한 전 총리 측은 또 “문제가 된 기부 행위는 대통령 권한대행으로서의 통상적 직무 행위”라며 “사회상규에 위배되지 않는 정당 행위여서 위법성이 조각된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “대법원 판례를 살펴보면, 후보자가 되고자 하는 자는 선거 출마를 위해 정당에 공천을 신청하거나, 후보자로 추천받기 위한 활동을 벌이는 경우에 해당한다”며 “선거에 입후보할 의사가 있었다는 점이 객관적으로 입증돼야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“멜론빵에서 인분 냄새가?”...실수로 ‘두리안’ 넣었다</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/02/V3TDTZTSDJDS5H3IRCSWAX4FR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/02/V3TDTZTSDJDS5H3IRCSWAX4FR4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 01:36:48 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SZVBIHR3FATTEHB37PIRQNU7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;악취 민원이 제기된 편의점 멜론 크림빵에 두리안 향료가 포함된 것으로 밝혀졌다./채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;편의점 인기 상품인 멜론빵에서 하수구와 인분 냄새 같은 악취가 난다는 항의가 잇따른 가운데, 조사 결과 멜론 향료 대신 지독한 냄새로 유명한 두리안 향료가 잘못 들어간 것으로 드러났다. &lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티와 소셜미디어(SNS)에는 멜론빵에서 정체불명의 악취가 난다는 게시글이 줄을 이었다. 네티즌들은 “빵에서 이상한 냄새 난다. 상한 건 아닌데, 복불복으로 두리안빵 넣은 거냐” “저도 편의점에서 빵을 샀는데, 타이어 탄 냄새 같은 악취가 너무 심하게 나서 바로 음식물쓰레기통에 버렸다. 진짜 냄새가 너무 심해서 문의도 넣었다” “하수구 냄새 나서 깜짝 놀랐다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;업체 공식 홈페이지에도 멜론빵 환불·교환을 요구하는 민원이 지난달 23일부터 올라왔다. 소비자들은 문의 게시판에 “멜론 크림빵에서 화학약품 냄새가 난다” “역한 하수구 냄새가 난다” “품질이 우려된다” 등 글을 남겼다.&lt;br&gt;&lt;br&gt;확인 결과, 빵을 만드는 공장에서 멜론향 대신 두리안향 첨가물을 넣은 것으로 파악됐다. 제조 공장 측은 지난달 31일 공식 입장을 통해 “향료 업체가 두리안 향료를 멜론 향료로 잘못 표기해 공급했다”고 알렸다. &lt;br&gt;&lt;br&gt;이어 “두리안 향료는 멜론 계열 향을 기반으로 특정 발효취가 더해진 특성이 있어, 원료 식별 과정에서 충분히 확인하지 못하고 사용한 것이 원인”이라고 설명했다. 이 두리안향 크림빵은 시중에 약 2만개가 풀린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;업체 측은 해당 물량을 전량 회수했으며, 현재는 정상 제품만 판매 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;흔히 ‘과일의 왕’이라 불리는 두리안은 썩은 고기 냄새와 비슷한 악취가 나는 것으로 알려졌다. 이 때문에 산지에서는 호텔이나 공공 교통수단 내에서 두리안을 먹는 것이 금지되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천공항 2여객터미널 인근에서 버스 넘어져… 운전자 부상</title>
-      <link>https://www.chosun.com/national/incident/2026/04/02/4ZKR42F7HZC2XAGIAIOGFY2TCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/02/4ZKR42F7HZC2XAGIAIOGFY2TCU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 02:15:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWWLMKYIDZABZMKYY6AQFUOSBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 6시 31분쯤 시외 버스가 옆으로 넘어지는 사고가 발생한 인천국제공항 제2여객터미널 인근 도로./인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항 제2여객터미널 인근 도로에서 시외버스가 옆으로 넘어져 운전자가 다쳤다. &lt;br&gt;&lt;br&gt;2일 인천소방본부에 따르면, 이날 오전 6시 31분쯤 인천 중구 운서동 인천공항 제2여객터미널 인근 도로에서 시외버스가 옆으로 넘어지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 50대 운전자가 경상을 입었다. 운전자는 깨진 유리창 사이로 밖으로 나왔다. 사고 당시 버스는 운전자 외에 다른 승객은 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 버스는 제2여객터미널에 승객을 내려준 뒤 터미널을 벗어나는 길에 사고가 난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 운전 부주의로 버스가 도로 옆에 있는 배수로에 빠져 사고가 난 것으로 보고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QSVHVZ3K5NGXHO23MZPFZ5CK2M.jpg?auth=d630880916355af0ca421a9ff4efb1d3a30810d16365b10f31c21f87e0e0af36&amp;smart=true&amp;width=665&amp;height=374" type="image/jpeg" height="374" width="665">
-        <media:description type="plain">2일 오전 6시 31분쯤 시외 버스가 옆으로 넘어지는 사고가 발생한 인천국제공항 제2여객터미널 인근 도로./인천소방본부</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘대전 초등생 살해’ 교사 명재완, 무기징역 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/02/O2OLTGUNWVEP3GHECB7KTBU7IM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/O2OLTGUNWVEP3GHECB7KTBU7IM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 01:28:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN2XNCECRFD4BIUZKDIZJDSEOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 초등학교에서 8세 김하늘양을 흉기로 잔혹하게 살해한 교사 명재완(49)씨에게 무기징역이 확정됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 2일 특정범죄가중처벌법상 영리약취·유인, 폭행, 공용물건손상 등 혐의로 기소된 명씨의 상고심에서 무기징역을 선고하고 위치추적 전자장치 30년 부착 명령을 내린 원심을 확정했다.&lt;br&gt;&lt;br&gt;명씨는 지난해 2월 10일 자신이 재직하던 대전 서구의 한 초등학교 돌봄교실에 남아 있던 하늘양을 유인해 미리 준비한 흉기로 수십 차례 찔러 살해한 혐의 등을 받았다.&lt;br&gt;&lt;br&gt;1·2심은 잇따라 무기징역을 선고했다. 이에 명씨 측은 범행 당시 “심신미약 상태에 있었다”며 선고된 형이 너무 무거워 부당하다며 상고했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이를 받아들이지 않았다. 대법원은 “피고인이 심리적으로 가깝게 느낀 인물을 범행 대상에서 배제한 점, 미리 계획한 바에 따라 범행한 점, 범행 후 범행을 은폐하려는 행위를 한 점, 범행 과정을 상세히 진술한 점 등을 종합하면 범행 당시 심신미약 상태에 있었다고 볼 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;양형에 대해서도 “피해자를 보호해야 할 초등학교 교사의 지위에 있으면서 학교에서 7세의 피해자를 살해했다”며 “범행을 사전에 치밀하게 계획하고 도구를 미리 준비한 점, 범행 방법이 잔인하고 포악한 점 등을 종합하면 무기징역이 너무 무거워 부당하다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘8억대 뇌물’ 전준경 前 민주연 부원장, 징역 3년 확정</title>
       <link>https://www.chosun.com/national/court_law/2026/04/02/3Y5NQDB7VRCOVKF52ZOACZBGTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/3Y5NQDB7VRCOVKF52ZOACZBGTU/</guid>
@@ -843,15 +933,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHTCE7U2GJNENJEIVX2EBHURZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원의 차남 김 모씨가 2일 서울 마포구 서울경찰청 공공범죄수사대에 출석하며 취재진의 질문을 듣고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숭실대 편입·기업 취업 과정에서 특혜 의혹이 제기된 김병기(무소속·서울 동작갑) 의원의 차남이 2일 오전 경찰에 출석했다. 이날 오후에는 김 의원에 대한 5차 소환 조사도 예정돼 있다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 10시부터 김 의원 차남 김모씨를 업무방해 등 혐의 피의자 신분으로 불러 조사하고 있다. 그는 숭실대 계약학과에 편입하고 가상자산 거래소 빗썸에 취업하는 과정에서 부친인 김 의원의 도움으로 특혜를 입은 혐의를 받는다.&lt;br&gt;&lt;br&gt;오전 9시 57분쯤 서울경찰청 마포청사에 출석한 김씨는 ‘아버지가 대학 편입을 도운 사실을 알고 있었나’ ‘취업 과정에서 아버지 도움을 받았나’ 등 취재진 질문에 답하지 않고 조사실로 들어갔다. 동행한 김씨 측 변호인은 “아버지랑 아들을 같이 조사하는 게 어딨느냐”며 불만을 표출하기도 했다.&lt;br&gt;&lt;br&gt;그간의 경찰 조사에서 김 의원과 차남은 특혜 편입·취업 의혹을 부인하는 취지의 발언을 이어왔다. 경찰은 동시 소환 조사를 통해 두 사람 진술의 진위를 검증할 방침이다.&lt;br&gt;&lt;br&gt;이날 오후에는 김 의원이 같은 청사로 출석해 피의자 조사를 받을 예정이다. 김 의원은 지난달 31일 4차 조사에 이어 이틀 만의 소환이다. 다만 부자의 조사는 별도 공간에서 이뤄지는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>종합특검, ‘디올백 봐주기 수사’ 의혹 검찰 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/02/BVPAOGJDFBEJRDEDRGSS73RXTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/BVPAOGJDFBEJRDEDRGSS73RXTQ/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 01:01:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYJFTAXEPRKKVHNDSXAHJDDHFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특검팀. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권창영 2차 종합특검팀이 2일 김건희 여사의 ‘디올백 봐주기 수사’ 의혹과 관련해 검찰에 대한 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;종합특검팀은 이날 오전 서울 서초구 서울중앙지검과 대검찰청 정보통신과에 수사관들을 보내 압수수색을 진행하고 있다고 밝혔다. 압수수색 대상은 청탁금지법 위반 등 이른바 ‘디올백 의혹’과 관련해 수사 관계자들이 사용하던 PC 등이다. 중앙지검장실, 형사1부장실, 통신계 등이 강제수사 대상에 포함됐다.&lt;br&gt;&lt;br&gt;디올백 의혹은 김 여사가 2022년 9월 재미 교포인 최재영 목사에게서 디올백을 받은 사건이다. 관련 영상이 2023년 11월 공개되면서 논란이 됐고, 이원석 당시 검찰총장은 2024년 5월 전담수사팀 구성을 지시했다. 이후 중앙지검장과 1차장검사가 교체된 끝에 중앙지검 형사1부(부장 김승호)는 김 여사를 조사한 후 그해 10월 김 여사를 혐의없음 처분했다. &lt;br&gt;&lt;br&gt;수사팀은 김 여사가 받은 디올백이 공직자 직무와 관련이 있거나 대가성이 있다고 보기 어렵다고 봤다. 직무 관련성이나 대가성이 인정된다 하더라도 청탁금지법상 공직자(윤석열 전 대통령)의 배우자는 형사처벌 대상이 아닌 만큼 김 여사를 기소할 수 없다고 했다.&lt;br&gt;&lt;br&gt;그런데 작년 3대 특검(내란·김건희·순직 해병) 수사 과정에서 김 여사가 2024년 5월 박성재 당시 법무부 장관에게 전담수사팀 구성 및 수사 상황을 묻는 메시지를 보낸 사실이 드러나 ‘셀프 수사 무마’가 아니냐는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;김건희 특검은 작년 12월 윤석열 전 대통령, 김 여사, 박 전 장관을 피의자로 적시해 중앙지검과 법무부 등을 압수수색했지만 사건을 마무리 짓지 못했다. 당시 수사팀은 “법리에 따라 사건을 처분했을 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;3대 특검의 남은 사건을 맡은 2차 특검은 지난 2월 수사를 시작했고, 지난달 23일에는 ‘도이치모터스 주가 조작 수사 무마 의혹’과 관련해 대검과 중앙지검을 압수수색했다.&lt;br&gt;&lt;br&gt;도이치 수사 무마 의혹은 김 여사가 도이치모터스 주가 조작에 가담해 8억1000만원 가량 부당이득을 취득했다는 의혹에 대한 것이다. 2024년 10월 중앙지검 반부패수사2부(부장 최재훈)가 혐의가 없다며 불기소 처분을 내리는 과정에서 부실 수사가 있었다는 의혹을 골자로 한다. 이와 관련해 지난달 이창수 전 중앙지검장과 조상원 전 중앙지검 4차장을 입건하고, 출국금지 조치를 하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>빨리 오고 독해졌다 “에취” 꽃가루의 습격</title>
       <link>https://www.chosun.com/national/transport-environment/2026/04/02/MCE6GVHIEBE3VEYYOYLKFRMBSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/02/MCE6GVHIEBE3VEYYOYLKFRMBSY/</guid>
@@ -859,87 +940,6 @@
       <description/>
       <pubDate>Wed, 01 Apr 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEGLYBG5NRCWNEIBGWLKLHVYTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해는 봄철 알레르기를 일으키는 나무 꽃가루가 이전보다 더 강한 농도로 비산(飛散·바람에 의해 공기 중으로 날아다니는 현상)할 것으로 예측됐다. 초봄인 3월부터 기온이 늦봄 수준으로 크게 오르면서 꽃가루 날림이 시작되는 시기도 당겨졌다.&lt;br&gt;&lt;br&gt;1일 본지가 기상청에 의뢰해 올봄 주요 수종의 꽃가루 날림 기간(서울 기준)을 예측한 ‘2026년 꽃가루 달력’에 따르면, 알레르기 유발성이 강한 자작나무의 꽃가루 날림이 과거(2015~2025년·11년 평균)보다 이틀 빠른 지난달 29일 시작됐다. 자작나무 꽃가루는 5월 10일까지 43일간 이어질 전망이다. 참나무는 4월 6일~5월 5일(총 30일), 은행나무는 4월 7일~4월 29일(23일), 소나무는 4월 8일~5월 31일(54일)로 예상됐다. 일상적으로 볼 수 있는 대부분의 나무가 이달부터 꽃가루를 뿜어내는 것이다. &lt;br&gt;&lt;br&gt;보통 꽃가루 달력을 만들 때는 중기(2015~2025년·11년 평균) 분석을 활용하는데, 올해는 단기(2021~2025년·5년 평균) 분석까지 함께 진행했다. 2020년대 이후 해마다 연평균 기온이 극값을 경신하는 등 온난화가 가속화되면서 꽃가루 날림 경향도 빠르게 변화하는 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQVLUFND5FA4TNPPWND2TOGHPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 분석에서 꽃가루 농도가 짙어지고 있다는 점이 확인됐다. 수종별 중·단기 평균 ‘누적 농도’(입방미터당 꽃가루 수)를 비교해보면, 참나무는 1358개에서 1753개로 약 29% 늘었다. 소나무는 39.9%(3906개에서 5464개), 은행나무는 17.8%(3444개에서 4058개) 증가했다. 자작나무(47→43개)처럼 농도가 오히려 옅어진 경우도 있지만, 대부분의 나무는 한 번에 더 많은 양의 꽃가루를 뿜어내는 것이다.&lt;br&gt;&lt;br&gt;이런 ‘꽃가루의 압축화’는 온난화로 봄이 짧아지고 여름은 길어진 데 따른 변화로 분석된다. 실제 중·단기 날림 기간을 비교해보면, 2020년대 이후 자작나무는 47일에서 43일, 참나무는 32일에서 30일, 소나무는 60일에서 54일, 측백나무는 40일에서 35일로 각각 짧아진 것으로 나타났다. 비산 기간 자체가 짧아진 대신 농도는 올라간 셈이다. 국립산림과학원 관계자는 “꽃가루는 습도가 오르고 비가 자주 내리면 잠잠해지는데, 여름이 빨라진 환경에 적응한 나무들이 짧아진 비산 기간 동안 더 많은 꽃가루를 내보내고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;꽃가루 날림 시작일은 갈수록 빨라지고 있다. 기상청의 중·단기 비산일 관측값을 비교해보면 2020년대 이후 자작나무는 2일, 참나무는 5일, 은행나무는 2일 정도 빠르게 꽃가루 날림이 시작되고 있다. 올봄의 경우 3월 초까진 꽃샘추위가 이어지다가, 중순부터 최고기온이 20도 내외로 오르는 등 늦봄 수준으로 갑자기 따뜻해졌다. 꽃가루는 나무 안에 일정한 온도가 쌓이면 날리기 시작한다. 참나무의 경우 꽃가루 날림을 준비하는 ‘기준 온도’는 5도, 날림이 시작되는 ‘적산 온도’는 200도다. 예컨대 31일 서울의 일평균 기온은 14.2도였다. 이중 기준온도인 5도를 뺀 9.2도가 참나무의 ‘적산 온도 저금통’에 적립되고, 이렇게 하루하루 쌓인 온도가 200도를 넘으면 꽃가루 비산이 시작된다. 그런데 초봄부터 기온이 빠르게 오르며 이 저금통이 빠르게 채워진 셈이다. 또 나무의 생장에 필요한 대기 중 이산화탄소 농도가 올라가면서 나무들이 더 많고 강한 꽃가루를 뿌리게 된 영향도 있다.&lt;br&gt;&lt;br&gt;꽃가루 날림은 산간보다 도심에서 더 빠르게 나타난다. ‘도시 열섬’ 때문이다. 아스팔트와 건물에서 발생하는 열로 인해 도심의 온도는 주변 지역보다 2~3도 정도 높게 유지되는데, 이에 산속보다 도심 속 가로수가 더 빠르게 꽃가루를 뿜어낸다. 기상청 관계자는 “꽃가루 날림이 짧고 강하게 압축화되는 경향은 앞으로 더 강화될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>저녁 8~9시 가벼운 운동, 노년층 수면장애에 도움</title>
-      <link>https://www.chosun.com/medical/2026/04/02/BLF5JSHG2JBKFA6EIDA3PP6KPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/02/BLF5JSHG2JBKFA6EIDA3PP6KPU/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDOWMHLRHBHHHAWYUL2C3QH4M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 신원철(강동경희대병원 신경과 교수) 대한수면연구학회 회장과 함께 “왜 나이 들수록 잠을 못 자나?” 노년층 수면 장애 원인과 건강하게 잠들기 위한 생활 습관을 알아봤다.&lt;br&gt;&lt;br&gt;노화가 진행되면 생체 시계와 수면 중추를 관장하는 뇌의 ‘시상하부’도 퇴행하기 시작한다. 노년층은 백내장, 녹내장 같은 안과 질환이 생기면 망막으로 들어오는 빛의 양이 젊은 층의 절반 수준으로 줄어 생체 시계를 충분히 자극하지 못한다. 신원철 교수는 “수면을 유도하는 호르몬인 멜라토닌 분비량도 60대가 넘어가면 10대 시절의 30% 수준으로 급감한다”며 “피로 물질인 아데노신의 수용체도 줄어들어 운동을 많이 해도 잠이 오지 않는 현상이 발생한다.”고 말했다.&lt;br&gt;&lt;br&gt;노년층에게 초저녁에 졸음이 쏟아지고 새벽 2~3시쯤 깨어 다시 잠들지 못하는 현상이 흔하다. 이는 체온 조절 능력이 떨어져 나타나는 자연스러운 결과라고 한다. 정상적인 수면은 체온이 1.5도 정도 떨어질 때 멜라토닌이 분비되며 시작되는데, 노인은 체온을 높이는 능력이 떨어져 체온 하락 시점이 일찍 찾아와 이때 잠들기 쉽다.&lt;br&gt;&lt;br&gt;이에 신원철 교수는 저녁 8~9시쯤 가벼운 걷기로 체온을 살짝 높여주면 초저녁으로 앞당겨진 수면 시간을 뒤로 미룰 수 있다고 했다. 아침 기상 시간을 일정하게 하고, 기상 30분 후에는 야외에서 햇빛을 충분히 쬐어 생체 시계를 활성화해야 한다. 오전에 견과류와 바나나 등 트립토판이 풍부한 음식을 먹으면, 밤에 멜라토닌 양이 늘어나 숙면을 돕는다. 지면에 표기된 QR코드를 스마트폰으로 찍으면 ‘이러면 낫는다’ 수면 장애 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5SMSM2CBVCDNJWU2EWG5HATHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 내장·간·근육·복부에 지방 많을수록 실제 나이보다 심혈관이 먼저 늙는다</title>
-      <link>https://www.chosun.com/medical/2026/04/02/V54RXBC7G5E5VKAHWVRCPKIKPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/02/V54RXBC7G5E5VKAHWVRCPKIKPQ/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>심혈관기능이 노화되면 심장이 섬유화되어 수축 기능이 저하되고, 혈관기능이 떨어짐에 따라 혈액 순환 장애가 발생한다. 이는 조직내 세포 손상으로 이어지면서 전반적인 신체기능 저하를 촉발한다. &lt;br&gt;&lt;br&gt;비만은 심혈관기능 노화를 촉진하나 비만하다고 모두 심혈관기능이 노화된 것은 아니기 때문에 비만 이외의 다른 요소들이 심혈관기능 노화에 영향을 미칠 것으로 추정된다. 최근 유럽심장학회지에 체내 지방 분포가 심혈관기능에 미치는 영향을 조사한 연구가 발표됐다.&lt;br&gt;&lt;br&gt;연구는 40~69세 영국인 2만1241명을 대상으로 했다. 연구 대상자들을 대상으로 전신 자기공명영상(MRI)을 촬영하여 전신의 체지방 양과 지방의 체내 분포(내장, 간, 근육, 복부 피하지방)를 계산했다. 동시에 심장MRI를 촬영해 혈관 기능, 심장 운동 및 심근 섬유화 정도를 측정하여, 실제 나이에 대비한 심혈관의 나이를 산출했다.&lt;br&gt;&lt;br&gt;체지방 분포와 심혈관 나이를 비교한 결과, 남녀 모두에서 내장지방 양이 많을수록, 근육내 지방 침윤이 심할수록, 간장내 지방 분율이 높을수록 심혈관 나이가 더 많았다. 여성은 피하지방량이 남성보다 38% 더 많았지만, 내장지방 절대량이 남성의 54%에 불과했다. 그 결과 여성의 심혈관 나이가 남성보다 낮은 경향을 보였다.&lt;br&gt;&lt;br&gt;지방 조직은 다양한 세포들로 구성되어 염증 매개체나 호르몬을 방출하는 살아있는 조직이다. 지방 조직은 위치에 따라 기능이 다른데, 특히 내장지방은 염증을 일으키는 사이토카인을 분비하고, 인슐린저항을 유발하여 심혈관기능 노화를 촉진한다. 배 안의 내장 지방을 줄여야 심혈관 나이를 젊게 유지할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 세자의 생활 공간… 일제 때 뜯겨서 도쿄 호텔로 쓰였죠</title>
-      <link>https://www.chosun.com/national/nie/2026/04/02/ALLT5S36TJGIZKZ2ZXGVARRXGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/04/02/ALLT5S36TJGIZKZ2ZXGVARRXGI/</guid>
-      <dc:creator>유석재 역사문화전문기자, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 15:40:00 +0000</pubDate>
-      <content:encoded>지난달 28일 새벽 서울 경복궁의 자선당(資善堂) 건물 근처에서 원인을 알 수 없는 화재가 발생했어요. 다행히 순찰하던 안전 요원이 연기를 보고 소화기와 소화전을 써서 약 15분 만에 불길을 잡았다고 합니다. 참 아찔한 일이었어요. 경복궁에는 건물이 많지만, 이 중 자선당은 장차 왕위를 이을 세자와 그 부인인 세자빈이 거처하는 생활 공간이었답니다. ‘동궁(東宮)’이라고도 불렀는데요. 참으로 기구한 역사를 겪은 건물이기도 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVKNWG3KDVD2PPWANCSEFWWFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 화재가 발생한 자선당 인근 쪽문을 소방 관계자들이 살펴보고 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;처음엔 ‘동궁’이 없던 경복궁&lt;/b&gt;&lt;br&gt;&lt;br&gt;사극에서 보통 왕이나 왕비가 세자를 찾을 때 “동궁을 들라 하라”는 말을 합니다. ‘동궁’이란 세자의 거처가 보통 궁전 동쪽에 있었기 때문에 그 건물을 부르던 말인데, 나중엔 세자 본인을 지칭하는 말로도 쓰였습니다.&lt;br&gt;&lt;br&gt;1392년 조선 왕조 개국 3년 뒤인 1395년 경복궁이 창건됐는데, 이유는 정확히 알 수 없지만 그 안에 동궁은 없었어요. 그래서 궁 밖에 나가 살던 세자가 부왕(父王)을 찾아 문안하려면 수시로 궁문을 들락거려야 했습니다.&lt;br&gt;&lt;br&gt;조선 왕조 최초의 세자는 태조 이성계의 8남인 의안대군(이방석)이었습니다. 태조의 계비(임금이 다시 장가를 가서 맞은 아내)인 신덕왕후 강씨가 낳은 아들이었는데, 이미 장성한 이복형들을 제치고 세자가 된 것이어서 무척 불안한 상황이었죠. 급기야 1398년 이복형인 이방원(훗날의 태종)이 주도해 일으킨 제1차 왕자의 난으로 의안대군은 목숨을 잃었습니다. 3대 임금 태종의 세자였던 양녕대군은 경복궁 밖에서 머물렀는데, 품행이 바르지 못하다는 이유로 세자 자리에서 쫓겨났습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L466Q6Y2HJDU5HPWQS44KY67FA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1999년 복원된 자선당의 현재 모습입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;자선당의 첫 번째 주인은 문종&lt;/b&gt;&lt;br&gt;&lt;br&gt;세자가 궁 안에 거처를 마련하고 안정적인 생활을 하기 시작한 것은 4대 임금인 세종 때부터예요. 1427년(세종 9년) 비로소 경복궁 안에 동궁을 지은 겁니다. 이것이 자선당이었어요. 자선당의 자선(資善)이란 ‘착한 성품을 쌓는다’는 뜻입니다. 자선당은 세자의 거처인 동시에, 왕이 되기 위해 학문을 닦고 수양하던 서재나 강의실을 겸한 곳이었죠.&lt;br&gt;&lt;br&gt;훗날 5대 임금 문종이 세자 시절 이곳에서 머물렀습니다. 문종이 세자로 있었던 기간은 1421년(7세)부터 1450년(36세)까지 무려 29년이었어요. 세종의 마지막 7년간은 세자가 대리청정(대신 정사를 돌봄)을 했는데, 이를 사실상 ‘문종의 치세(세상을 잘 다스림)’라 보기도 해요. 능력이 뛰어났고 일 중독자였던 문종에 대해선 “즉위 후 일찍 죽지 않았더라면 아버지인 세종 못지않은 성군이 됐을 것”이란 평가가 나오기도 합니다.&lt;br&gt;&lt;br&gt;문종은 훈민정음 창제에 관여했고, 측우기의 발명자이기도 했어요. 측우기를 장영실이 발명했다는 얘기는 잘못 알려진 거예요. 하지만 문종의 가정사는 그다지 행복하지 않았습니다. 첫째와 둘째 세자빈이 품행 문제로 잇달아 쫓겨났고, 셋째 아내(현덕왕후로 추존)는 1441년 자선당에서 아이를 낳고 나서 죽었습니다. 태어나자마자 엄마를 잃은 그 가엾은 아기가 바로 훗날의 단종이었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MQCCXE2CZC2ZFZ6RLJIQUJIPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본에서 돌아온 자선당 유구는 복원에 활용되지 못하고 경복궁 건청궁 인근에 남아있습니다. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;일본으로 뜯겨가 호텔이 된 자선당&lt;/b&gt;&lt;br&gt;&lt;br&gt;자선당은 1462년(세조 8년) 한 차례 자리를 옮겼고, 1543년(중종 38년) 화재로 불타는 사고를 겪었어요. 당시의 기록을 보면 좀 섬뜩합니다. “(불을 끌) 군사들은 게을러 모이지 않았고 기율도 없어 소란스럽기만 할 뿐 불을 끌 계책을 세우지 못했다.” 당시 세자(훗날의 인종)는 궁 안쪽으로 피신해 화를 면할 수 있었습니다. 자선당은 명종(재위 1545~1567) 초에 복구됐고 1553년 넓게 중건(왕궁 등을 보수하거나 고쳐 지음)했는데, 상량문(집을 새로 짓거나 고쳤다는 내용을 담는 글)을 퇴계 이황이 썼다고 합니다.&lt;br&gt;&lt;br&gt;임진왜란이 일어난 1592년(선조 25년) 경복궁 전체가 불타 없어졌을 때 자선당도 함께 사라졌죠. 조선 후기에 궁궐로 쓰였던 창덕궁에선 자선당 역할을 중희당이란 곳에서 맡았지만, 지금은 헐려 남아 있지 않습니다. 1866년(고종 3년) 경복궁이 270여 년 만에 중건되면서 자선당도 다시 지어졌습니다.&lt;br&gt;&lt;br&gt;1910년 대한제국이 멸망한 이후 일제는 경복궁의 많은 건물을 제멋대로 헐어 내고 팔아 버렸습니다. 일본의 재벌이자 조선의 문화재를 대규모로 반출해 사설 미술관을 세웠던 오쿠라 기하치로(1837~1928)라는 일본인이 있었는데요. 1915년 오쿠라는 일제가 조선물산공진회 건물을 지으려고 철거했던 자선당 건물을 통째로 사들인 뒤 일본으로 가져가 도쿄 오쿠라 호텔의 ‘조선관’이란 별채로 사용했습니다. 참으로 기가 막힌 일이었죠. 그렇게라도 보존됐더라면 불행 중 다행이었을 수도 있지만, 1923년 간토 대지진 때 불타 버렸다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFEHGRZV75BHNDZ4OFFASKJLFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 1993년 김정동 목원대 교수가 일본 도쿄 오쿠라 호텔에서 자선당 유구를 발견할 당시 직접 촬영한 사진입니다. 자선당의 기단과 계단, 주춧돌이 그대로 남아 있고 건물이 있어야 할 자리에는 나무가 심어져 있어요. /김정동 교수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;80년 만에 돌아온 자선당의 자취&lt;/b&gt;&lt;br&gt;&lt;br&gt;“아니 이건 이제 보니... 자선당의 유구(遺構)잖아!”&lt;br&gt;&lt;br&gt;1993년 여름, 도쿄의 오쿠라 호텔 산책로를 유심히 살펴보던 건축공학자 김정동 목원대 교수(현 명예교수)는 몹시 놀랐습니다. ‘유구’란 ‘옛 건축물의 구조와 양식을 알 수 있는 자취’를 뜻하는 문화유산 용어입니다. 호텔 정원처럼 꾸며 놓은 ‘돌 화분’을 자세히 보니 불타버린 자선당의 기단(건축물의 터를 다듬은 뒤 터보다 한 층 높게 쌓은 단)과 계단, 주춧돌이 그대로 남아 있었던 겁니다.&lt;br&gt;&lt;br&gt;김 교수의 발견 2년 뒤인 1995년에 자선당 유구는 삼성문화재단을 통해 고국으로 반환됐습니다. 109t 분량의 돌 217개가 컨테이너 여섯 개에 실려 부산항에 도착했어요. 당시는 경복궁 복원 작업이 시작된 직후였습니다. 그러나 손상이 심하다는 이유로 자선당 유구는 복원에 활용되지 못하고 을미사변 현장인 경복궁 건청궁과 녹산 사이 공간으로 옮겨졌습니다. 현재의 자선당은 1999년에 복원된 것입니다. 김정동 교수는 지금도 “그때 유구를 복원에 충분히 활용할 수 있었을 텐데…”라며 아쉬워하고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“검찰 불기소 부당” 재정신청, 법원이 기각하자 헌재에 재판소원</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/GWUXNLEUNNFJXDR7PXG6SPS25I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/GWUXNLEUNNFJXDR7PXG6SPS25I/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 11:48:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAOPXQD2IFI4JN7YJ5YO3PYXCM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판소원(법원 재판에 대한 헌법소원) 제도가 본격 시행된 가운데, 검찰의 불기소 처분이 정당했는지 법원이 다시 따져보는 ‘재정신청’ 결과에 불복한 재판소원이 접수됐다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 A씨는 헌법재판소에 대법원의 재정신청 재항고 기각 결정에 대한 재판소원을 청구했다. 법원이 소송의 핵심 내용(본안)에 대해 유무죄나 승패를 가리는 ‘판결’뿐 아니라, 소송 절차나 부수적 사항에 대해 내리는 ‘결정’도 헌재 심사를 받게 된 것이다.&lt;br&gt;&lt;br&gt;A씨는 2022년 서울 구로구의 한 주택을 샀다. 그런데 매수 당시 고지받지 못한 누수와 소음 등 하자가 발견됐고, 법적 대응을 위해 변호사를 선임했다. A씨는 변호사에게 민사 손해배상 소송과 형사 고소 등 3건을 위임하며 착수금으로 1870만원을 지급했다. A씨에 따르면 변호사는 “최소 7000만원에서 1억원의 손해배상을 받게 해주겠다”고 장담했다고 한다.&lt;br&gt;&lt;br&gt;그러나 손해배상 소송은 3000만원을 나눠 지급하는 내용의 화해권고결정으로 마무리됐다. A씨는 이마저도 받지 못했고, 형사 사건에서는 주택 매도인과 중개인 모두 ‘혐의 없음’ 판단이 내려졌다.&lt;br&gt;&lt;br&gt;이에 A씨는 “변호사가 소액 합의를 종용하고 화해권고결정에 대한 이의신청권 등 핵심 절차를 제대로 알려주지 않았다”며 변호사가 소속된 법무법인을 상대로 손해배상 청구 소송을 냈다. 또 “한 장의 고소장으로 처리할 수 있는 사안을 여러 건으로 쪼개 수임료를 중복으로 받아냈다”며 변호사를 사기 및 업무상 배임 혐의로 고소했다.&lt;br&gt;&lt;br&gt;그러나 경찰은 사기와 배임 혐의에 대해 “증거가 부족하다”며 사건을 송치하지 않았고, 검찰도 같은 이유로 불기소 처분을 내렸다. 이에 A씨는 불기소 처분이 타당한지 판단해달라며 고등법원에 재정신청을 냈다. 하지만 고법은 이를 받아들이지 않았고, 대법원에 재항고까지 했으나 이 역시 지난달 10일 기각됐다.&lt;br&gt;&lt;br&gt;그러자 A씨가 “법원이 기각 결정을 내리면서 ‘검찰의 불기소 처분이 정당해 보인다’는 짧은 문구만 반복했을 뿐 증거가 왜 부족한지, 왜 추가 수사가 필요 없는지에 대해서는 아무런 이유를 설명하지 않았다”며 재판소원을 낸 것이다. A씨 측은 “법원이 ‘복사해서 붙여넣은 듯한 형식적 재판’만 했다”며 “재판을 받을 권리와 피해자로서 진술할 권리를 침해했다”고 주장했다.&lt;br&gt;&lt;br&gt;형사 절차와 달리 A씨는 민사 손해배상 소송에서는 일부 승소했다. 서울중앙지법 민사2-3부는 지난해 12월 항소심에서 “법무법인이 A씨에게 수임료 1870만원 중 적정 보수액 880만원을 초과하는 990만원을 반환하라”고 판결했다. 재판부는 “관련 인물들을 각각 별도의 사건으로 나눠 수임하고, 실질적으로 중복되는 내용의 고소장을 작성하면서 고액의 수임료를 받은 것은 신의성실의 원칙과 형평에 반한다”고 판단했다.&lt;br&gt;&lt;br&gt;A씨를 대리하는 법무법인 원곡의 최정규 변호사는 “변호사의 불성실한 사건 처리와 과도한 수임료 책정이 민사 재판에서는 인정된 셈”이라며 “그럼에도 형사 절차에서는 제대로 된 판단 없이 불기소 처분이 유지됐다”고 했다. 그러면서 “재정신청 제도는 검찰의 불기소 처분을 통제하기 위한 핵심 장치인데, 법원이 구체적인 판단 없이 기각 결정을 반복하면서 사실상 형식적인 절차가 돼버렸다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘VIP 격노설’ 법정서 처음 나왔다...“尹 ‘사단장 처벌하면 누가 하냐’ 질책”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/DIRNMUG4SVHYPIWFXWAAO36FTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/DIRNMUG4SVHYPIWFXWAAO36FTY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 13:32:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IU43IVBYKJHQTKWOPSCZUPIU2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 8월 8일 서울 서초동 해병특검 사무실로  임기훈 전 대통령실 국방비서관이 출석하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 2023년 7월 해병대원 순직 사건 수사 결과를 보고받은 자리에서 “이런 일로 사단장까지 처벌하면 누가 사단장을 하겠느냐”는 취지로 질책했다는 법정 증언이 나왔다. 수사 외압의 배경으로 지목된 ‘VIP 격노설’을 뒷받침하는 진술이 재판 중 나온 건 처음이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 ‘순직 해병 수사 외압’ 의혹 관련 국회에 허위 답변서를 제출한 혐의로 기소된 유균혜 전 국방부 기획관리관과 이모 전 총괄담당관의 재판을 열고 임기훈 당시 국가안보실 국방비서관의 증인신문을 진행했다.&lt;br&gt;&lt;br&gt;임 전 비서관은 2023년 7월 31일 대통령 주재 수석비서관(대수비) 회의에서 윤 전 대통령에게 해병대 수사단의 3장짜리 언론 브리핑 자료를 1장으로 요약한 수사 결과 보고서를 직접 전달했다고 밝혔다. 그는 “대통령께서 보고를 받으시고 ‘이런 일로 사단장까지 처벌하면 누가 사단장을 하겠느냐’는 취지로 질책하셨다”고 증언했다.&lt;br&gt;&lt;br&gt;이어 윤 전 대통령이 책상 위 인터폰을 통해 이종섭 당시 국방부 장관을 연결하라고 했고, 이 전 장관과 통화하면서 “군에서 사고가 일어날 때마다 고위 지휘관을 줄줄이 엮어 처벌하면 되겠느냐” “이런 이야기를 누차 했는데 왜 이렇게 됐느냐”는 취지로 말했다고 전했다. 임 전 비서관은 “윤 전 대통령이 회의 당시 수사 기간이 짧았는데 사령관까지 엮은 것을 비판했던 것으로 기억한다”고 답했다.&lt;br&gt;&lt;br&gt;임 전 비서관은 대통령의 ‘격노’ 직후 유 전 관리관에게 ‘군사경찰 인력 감축’을 검토하라고 지시한 배경에 대해서도 증언했다. 그는 윤 전 대통령이 회의 당일 명시적으로 “인력을 줄이라”고 지시한 기억은 없다고 했다. 다만 “대통령께서 이전부터 군사경찰 조직의 비대함과 수사 역량에 대해 여러 차례 비판적인 언급을 하셨다”며 “회의 당시 대통령의 격앙된 기조를 고려할 때 참모로서 실무적인 검토가 필요하다고 판단해 유 전 관리관에게 전달한 것”이라고 했다. 임 전 비서관은 유 전 관리관이 가져온 1차 검토안(30% 감축)에 대해 “강도가 낮다”며 돌려보내기도 했다. 그는 “대통령의 의중을 짐작해 그렇게 한 것이 맞는다”고 했다.&lt;br&gt;&lt;br&gt;유 전 관리관과 이 전 담당관은 2023년 윤 전 대통령의 지시에 따라 군사경찰 감축 등 군 수사 조직 개편 검토 보고서를 작성했는데도 8월 국회의 관련 자료 제출 요구에 “검토한 바 없고 존재하지 않는다”며 허위로 답변해 공전자기록을 위조한 혐의를 받고 있다. 이명현 순직해병 특검은 해병대원 수사 외압을 폭로한 박정훈 전 수사단장을 압박하기 위해 국방부가 수사 조직 개편안(인력 감축안)을 검토했고 이를 은폐하기 위해 국회에 허위 답변서를 제출했다고 보고 있다. 반면 이날 임 전 비서관은 “당시 조치가 보복성이라고 하기엔 시기상조였다”고 반박했다.&lt;br&gt;&lt;br&gt;임 전 비서관은 함께 근무했던 유 전 관리관 등이 재판받는 상황에 대해 “업무 지시를 한 사람은 증인석에 있고, 이를 수행한 분들이 법정에 서 있어 안타깝고 송구하다”고 말하기도 했다. 재판부는 오는 5월 19일 피고인 신문과 최종 변론을 거쳐 재판을 마무리할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 2일</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/CHULM5UYYFBLXMM55WNNUDWP24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/CHULM5UYYFBLXMM55WNNUDWP24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 14:36:00 +0000</pubDate>
-      <content:encoded>전국 대체로 맑음...온화한 봄 날씨&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4MRALSCJCT3AUYHQBKKSDBVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘재산분할 갈등’ 전처 살해한 남성 구속... “도주 우려”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/NCDXYFITU5CL7CGU7FBILEB5Q4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/NCDXYFITU5CL7CGU7FBILEB5Q4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 11:18:56 +0000</pubDate>
-      <content:encoded>재산 분할 문제로 전처를 살해하고 시신을 야산에 유기하려 한 60대 남성이 1일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDGNTEGE4DGNZQGNRTOMTGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이혼한 전처를 살해한 뒤 시신을 유기하려 한 혐의를 받는 60대 남성 A 씨가 1일 오후 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.4.1 ⓒ 뉴스1 최지환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이지영 영장 전담 부장판사는 이날 살인과 시체유기미수 혐의를 받는 이모씨에 대한 구속영장 심사를 열고 “도망할 염려가 있다”며 이씨의 영장을 발부했다.&lt;br&gt;&lt;br&gt;이날 오후 2시 36분쯤 모자와 마스크로 얼굴을 가린 채 법원에 출석한 이씨는 ‘전처를 왜 살해했느냐’, ‘가족들에게 할 말 없느냐’는 취재진 질문에 답하지 않고 법원에 들어갔다.&lt;br&gt;&lt;br&gt;이씨는 지난달 30일 오전 11시 20분쯤 서울 서초구 우면동 한 아파트에서 50대 전처를 살해하고 시신을 여행용 가방에 담아 자신의 차에 싣고 도주한 혐의를 받는다. 그는 전처와 재산 분할 문제로 다투다 우발적으로 살해한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;‘부모님과 연락이 닿지 않는다’는 아들 신고를 받고 출동한 경찰은 오후 5시쯤 충북 음성 야산의 한 묘지 배수로에 시신을 유기하려던 그를 긴급체포했다. 이씨는 5시간여 동안 강원 원주·영월과 충북 제천 등을 오가며 경찰 추적을 따돌리려 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사건을 수사하는 서울 서초경찰서는 이날 피해자의 정확한 사인을 파악하기 위해 시신 부검을 마치고 국립과학수사연구원(국과수)의 회신을 기다리고 있다. 시신에서는 폭행 흔적이 다수 발견된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5월 4일 임시공휴일 되면 황금연휴? 청와대 “사실 무근”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/01/UOHFAQ6YRBBHDK5DKRMBSLJHQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/01/UOHFAQ6YRBBHDK5DKRMBSLJHQA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 11:15:26 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X24EH5YMRBU7AL6SPMPTUHKQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;청와대는 5월 4일 임시공휴일 지정과 관련해 "검토한 바 없다"고 밝혔다. 사진은 5월 달력. /네이버&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;정부가 징검다리 연휴 기간인 5월 4일을 임시공휴일로 지정하는 방안을 검토 중이라는 언론 보도와 관련해 청와대가 “사실 무근”이라고 밝혔다. &lt;br&gt;&lt;br&gt;청와대 관계자는 1일 언론 공지를 통해 “5월 4일 임시공휴일 지정을 검토한 바 없다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;앞서 정부가 관광‧유통 분야 등의 소비를 자극하기 위해 5월 4일을 임시공휴일로 지정하는 방안을 논의 중이라는 보도가 나왔다. 만약 5월 4일이 임시공휴일로 지정되면 5월 1일(노동절)부터 5일(어린이날)까지 5일 동안 황금연휴가 구성된다. &lt;br&gt;&lt;br&gt;5월 4일이 임시공휴일로 지정되지 않더라도 5월은 노동절과 어린이날, 부처님 오신 날(24일)에 이은 대체공휴일(25일)이 있어 다른 달 대비 휴일이 많은 편이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영선 “오세훈, 이기는 여론조사 나오면 된다고 했다” 吳측 “명태균과 진술 맞춘 것 아니냐” 공방</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/01/CFXEJTUFERDP7PJ5LNR4UMG6B4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/01/CFXEJTUFERDP7PJ5LNR4UMG6B4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Apr 2026 09:56:54 +0000</pubDate>
-      <content:encoded>오세훈 서울시장의 ‘여론조사 비용 대납’ 의혹과 관련해, 김영선 전 의원이 “오 시장은 ‘이기는 여론조사만 나오면 된다’고 이야기했다”고 법정에서 증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRWGNBUGJQTMZTEMJQTMZBTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영선 전 의원이 1일 서울 서초구 서울중앙지방법원에서 열린 오세훈 서울시장의 여론조사비 대납 의혹 재판에 증인으로 출석하며 취재진 질문에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 의원은 1일 서울중앙지법 형사22부(재판장 조형우)에서 열린 오 시장 등의 정치자금법 위반 혐의 재판에 증인으로 출석했다. 민중기 특별검사팀 측은 “2021년 1월 20일 명태균씨와 함께 중식당에서 오 시장을 만났느냐”고 물었고, 김 전 의원은 “그렇다”면서 “명씨가 오 시장과 고민정 더불어민주당 의원이 대결한 2020년 총선에 대해 분석하자, 오 시장이 ‘저는 이기는 여론조사만 나오면 된다’고 말했다”고 했다.&lt;br&gt;&lt;br&gt;다만 김 전 의원은 “오 시장이 명씨에게 아파트를 주기로 약속했다는 것은 들은 적이 없다”고 했다. 명씨는 김 전 의원의 소개로 오 시장을 처음 만났고, 오 시장이 ‘이기는 여론조사’ 결과를 주면 아파트를 주겠다는 약속을 했다고 주장하는데, 일부 차이가 있는 셈이다. 김 전 의원은 “정치인이 그렇게 딱 찍어서 얘기했을 것 같지 않다”며, 오 시장이 아파트를 약속하지는 않았을 것 같다고 말했다.&lt;br&gt;&lt;br&gt;오 시장 측은 김 전 의원이 검찰에서 조사받을 때 명씨와 말을 맞춰 허위 진술을 했을 가능성이 있다며 반격에 나섰다. 오 시장 측은 “검찰 수사 당시 증인이 명씨와 다른 진술을 하자 조사가 중단됐었는데, 이때 명씨가 있는 조사실로 가 1시간 정도 이야기를 들은 후 말을 번복하지 않았느냐”며 “증인의 기억에 없는 내용을 명씨 주장에 맞춘 것 아니냐”고 지적했다. 김 전 의원은 오 시장과 만난 일시 등 세부적인 내용이 기억나지 않아 명씨에게 물어본 게 맞는다고 인정했다. 다만 그러면서도 명씨 주장에 맞게 말을 맞춰 허위 진술을 한 것은 아니라는 취지로 답변했다.&lt;br&gt;&lt;br&gt;이런 가운데 재판부는 오는 6월 지방선거 이후 피고인 신문을 진행하겠다고 밝혔다. 피고인 신문은 통상 증인신문 및 서증조사 등 심리를 마친 뒤 진행된다. 사실상 지방선거 전 1심 결론을 내지 않겠다는 것이다. 재판부는 앞서 지난 1월 “지방선거를 앞두고 재판을 하는 것 자체가 정치에 개입한다는 인상을 주는 것”이라면서 “이러한 우려를 불식시키도록 하겠다”는 뜻을 밝힌 바 있다.&lt;br&gt;&lt;br&gt;한편 오 시장은 이날 법정에 출석하며 기자들과 만나 “선거 기간에 이렇게 재판받아 심히 유감스럽다”며 “정치 특검인 민중기 특검팀은 반드시 법의 단죄를 받을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
