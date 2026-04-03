@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 “선거 전 선고 안되면 악재” 재판장 “더 이상 배려할 수 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/03/JTJQ5GALQ5EVJGMX7PFYNLM6OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/JTJQ5GALQ5EVJGMX7PFYNLM6OU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 11:46:46 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 3일 자신의 ‘여론조사 비용 대납’ 의혹 재판에서 “선거일이 다가오기 전 선고가 나오지 않으면 재판 진행 자체가 제겐 엄청난 악재(惡材)”라며 조속한 시일 내에 선고를 내려달라고 요청했다. 그러나 재판부는 “더 이상 배려할 수 없다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYGCOJQGYYGGODFGFRGINRRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 서울중앙지법 형사22부(재판장 조형우) 심리로 열린 정치자금법 위반 혐의 재판의 말미에 직접 발언 기회를 얻어 “선거에 악재로 쓰일 수 있는 재판에 임하면서 선거를 치른다면 객관적이고 공정한 선거가 아니다”라며 이 같이 말했다. 법정에서 나오는 증언들이 더불어민주당 서울시장 예비후보들의 소셜미디어를 통해 재생산되는 등 불리하게 작용하고 있다는 것이다.&lt;br&gt;&lt;br&gt;오 시장은 “차라리 재판 진행을 선거 이후로 미뤄주거나, 최대한 서둘러서 선고해달라는 부탁을 드린 바가 있고, 재판장께서는 빠른 재판을 택하셨다”며 “정말 진심과 전력을 다해 재판에 임하고 있다”고 말했다. 이어 “재판장께서 상상하시는 것보다 큰 불이익을 받을 수 있다는 점을 꼭 다시 한 번 참작해서 지혜롭고 공정한 결정을 내려달라”고 요청했다.&lt;br&gt;&lt;br&gt;그러나 재판장 조형우 부장판사는 “재판일정은 재판부에서 정하는 것으로, 저는 판사로서 재판을 진행해야 한다”며 “선거가 임박하기 전 주요 증인인 명태균·강혜경 등에 대한 증인신문을 마치는 등 배려했다”고 말했다. 또 “증인이 14명이 남아 있고, 이들에 대한 증인신문을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;조 부장판사는 이어 “언론 보도 문제는 재판부가 어떻게 할 수 없다. 재판이 진행되며 파생되는 결과”라며 “저도 보도 내용을 읽어봤지만 양쪽의 입장이 다 들어있으니, 본인 입장이 보도될 수 있게 하는 것은 본인의 영역”이라고 선을 그었다.&lt;br&gt;&lt;br&gt;앞서 오 시장 측은 지난 1일 재판에서 “본격적으로 지방선거에 뛰어들게 됐다”며 “5월 초에 선고를 내려주시면 어떻겠느냐”고 재판부에 요청했으나, 재판부는 “판결로 선거에 개입한다는 인상을 주지 않으려고 한다”며 “지방선거 전 선고는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘20대 잠수부 사망’ 하청업체 대표 중처법 위반 혐의 구속기소</title>
+      <link>https://www.chosun.com/national/regional/2026/04/03/KSGYDKR5P5HAPPGCLMOQGVMKRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/03/KSGYDKR5P5HAPPGCLMOQGVMKRY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 10:43:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSDGZJZMU4TAZLEGNRDCZBUMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지검 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 12월 울산 HD현대미포 조선소에서 발생한 20대 잠수부 사망 사고 관련 잠수부를 고용했던 하청업체 대표가 구속 상태로 재판에 넘겨졌다. 사건 발생 1년 3개월여 만이다.&lt;br&gt;&lt;br&gt;3일 고용노동부 울산지청에 따르면, 울산지검은 대한마린산업 대표 A씨를 중대재해처벌법 위반과 업무상과실치사 등 혐의로 구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 12월 30일 울산 HD현대미포에서 선박 하부 검사 작업을 하던 대한마린산업 소속 잠수부 김모(22)씨에 대한 안전 조치 의무를 다하지 않아 사망에 이르게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 안전조치 책임을 덮기 위해 가짜 서류를 제출하는 등 증거를 인멸하기도 했다고 울산지청은 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경북 울진서 군의원에게 금품 건넨 업체 대표 구속</title>
       <link>https://www.chosun.com/national/regional/2026/04/03/WIG3B6LP2VF3ND47FSB7G5PKZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/03/WIG3B6LP2VF3ND47FSB7G5PKZ4/</guid>
@@ -862,27 +880,6 @@
       <description/>
       <pubDate>Thu, 02 Apr 2026 05:19:53 +0000</pubDate>
       <content:encoded>경북 안동에서 발생한 중앙선 침범 교통사고와 관련해 운전자 바꿔치기 정황이 드러나 실제 운전자와 동승자 등 2명이 재판에 넘겨졌다. 블랙박스 영상과 영상 감정 등 검찰의 보완 수사가 진범을 가리는 계기가 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7U5JDPYPFGKXMYFPJNUUMZKIM.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지검 안동지청은 2일 지난해 9월 안동에서 발생한 교통사고와 관련해 남성 운전자 A씨를 무면허 운전·치상 혐의 등으로, 여성 지인 B씨를 범인도피 혐의로 각각 불구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면, 당시 A씨는 승용차를 몰다 중앙선을 침범해 사고를 냈다. 이 사고로 동승한 B씨는 전치 6주, 상대 차량 운전자는 전치 3주의 상해를 입었다.&lt;br&gt;&lt;br&gt;이 사건으로 당초 B씨는 교통사고처리특례법상 치상 혐의 피의자로 송치됐다. 그러나 검찰이 보완 수사를 진행하는 과정에서 상대 차량 피해자가 추가 제출한 블랙박스 영상이 결정적 단서가 됐다. 사고 직후 운전석에서 내린 인물의 모습이 A씨와 뚜렷이 달라 운전자 바꿔치기 정황이 포착된 것이다.&lt;br&gt;&lt;br&gt;검찰은 대검찰청 영상 감정을 통해 화질을 개선한 결과, 실제 운전자 A씨가 사고 직후 운전석에서 내려 조수석에 타고 있던 B씨를 부축하는 장면을 확인했다.&lt;br&gt;&lt;br&gt;A씨는 앞서 음주운전으로 집행유예 기간 중 무면허로 차량을 운전한 상태였다. 검찰은 A씨가 집행유예 기간 중 무면허 운전 사실을 숨기기 위해 조수석 동승자인 B씨를 운전자로 꾸민 것으로 보고 수사를 확대해 왔다.&lt;br&gt;&lt;br&gt;검찰은 A씨에게 무면허운전과 치상, 범인도피교사 혐의를 적용해 기소했다. 당초 A씨에게 적용됐던 교통사고처리특례법상 치상 혐의는 혐의없음 처분하고, 대신 범인도피교사 혐의를 적용해 재판에 넘겼다. &lt;br&gt;&lt;br&gt;안동지청 관계자는 “송치 사건을 검토 중 블랙박스 영상에서 운전자 인상 차이를 확인하고 바꿔치기 정황을 포착했다”며 “영상 감정, 통신 수사 등을 통해 실체적 진실을 밝혀낸 사건”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대구 캐리어 여성 시신’ 사건… 경찰, 딸·사위 긴급체포</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2026/03/31/HHDAZMZYOFGE7MTQZXZP7QNWMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/03/31/HHDAZMZYOFGE7MTQZXZP7QNWMI/</guid>
-      <dc:creator>김석모 기자, 대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Mar 2026 13:00:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DCN3DGNQWMY3BMZRTINZTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 대구 북구 칠성동 잠수교 아래에서 50대 여성 시신이 든 캐리어가 발견돼 경찰이 수사에 나섰다. 사진은 캐리어 발견 지점인 잠수교 인근 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 50대 여성 시신이 담긴 캐리어가 발견된 사건과 관련, 경찰이 20대 딸과 사위를 긴급 체포했다.&lt;br&gt;&lt;br&gt;대구 북부경찰서는 31일 살인·시체 유기 혐의로 A(여·20대)씨와 그의 남편을 긴급 체포했다. 이들은 시신으로 발견된 여성의 딸과 사위다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 10시 30분쯤 대구 북구 칠성동 잠수교 아래에서 캐리어가 떠다닌다는 시민의 신고가 접수됐다. 현장에 출동한 경찰은 캐리어 안에서 여성의 시신을 발견했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UQAOFAV4BFJXP4J7FES3XLCQA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 50대 장모를 폭행해 살해한 20대 사위와 딸이 대구 중구 주거지에서 신천으로 이동하는 모습이 담긴 CCTV 영상. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 시신의 지문과 DNA를 분석한 경찰은 대구에 거주하는 50대 한국인 여성임을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 등을 통해 숨진 여성의 행적을 추적하는 과정에서 딸과 사위가 범행에 가담한 혐의점을 발견하고 긴급 체포한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 구체적인 사건 경위를 파악한 후 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H63RW26UJFBP3B6ZSNH6ZD35YI.gif?auth=78b2f2988db1bc168895bbfaed1aea5148338c8e9a96dbdff5ee4b6c651ef6a7&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
-        <media:description type="plain">지난달 18일 50대 장모를 폭행해 살해한 20대 사위와 딸이 대구 중구 주거지에서 신천으로 이동하는 모습이 담긴 CCTV 영상. /독자 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘제37회 전국무용제’ 개최 도시 인천 확정… 보름간 5만명 발길 전망</title>
-      <link>https://www.chosun.com/national/regional/2026/04/02/VMKYWOETFZAKFPHGBTR7QJO7AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/02/VMKYWOETFZAKFPHGBTR7QJO7AY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 05:17:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LN4I5HOE7IHE7GV5FGK272HUEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;발레 공연 장면. 사진은 기사와 직접적인 관련 없음. / 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제37회 전국무용제’가 2028년 인천에서 열린다. 인천시는 최근 (사)대한무용협회로부터 2028년 전국무용제 개최 도시로 확정됐다는 내용을 전달받았다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;전국무용제는 한국무용과 발레, 현대무용 등 장르의 17개 시·도 대표 무용단이 참여하는 국내 최대 규모 무용 축제다. &lt;br&gt;&lt;br&gt;인천시와 (사)대한무용협회가 공동 주최하고 인천무용협회와 전국무용제 집행위원회가 주관하는 제37회 전국무용제는 2028년 9월 10일부터 24일까지 15일간 인천 남동구 인천문화예술회관과 부평구 부평아트센터, 중구 상상플랫폼 등 주요 공연장에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;이번 무용제에선 시도 대표 무용단체 경연과 함께 청소년 댄스페스티벌, 전국 실용무용 챔피언십, 국내외 유명 무용단체 초청 공연 등이 진행되며, 인천공항 등지에서도 ‘찾아가는 공연’이 마련된다. &lt;br&gt;&lt;br&gt;또 지역 무용예술 발전 방향 및 인천 지역 발전을 위한 무용 예술 관련 학술세미나를 비롯해 생활무용 강좌 등도 진행된다. &lt;br&gt;&lt;br&gt;인천시는 전국무용제 기간 약 5만명이 인천을 찾아 238억원 규모의 경제효과가 있을 것으로 예상했다. &lt;br&gt;&lt;br&gt;인천시는 이번 유치를 계기로 순수 예술 중심의 문화 도시 이미지를 강화할 방침이다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “전국무용제는 창작과 향유, 교육이 어우러지는 종합적인 예술 플랫폼”이라며 “시민과 예술가가 함께 호흡하는 축제가 될 수 있도록 준비해 나가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“산소마스크에 산소 연결 안돼”…대한항공 ‘美승객 사망’ 소송당해</title>
