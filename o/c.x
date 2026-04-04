@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박왕열, “넌 남자도 아녀” 꼿꼿하더니 이틀 뒤엔 ‘퀭’…금단 현상?</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/VIKJT3NL6VFV3AMJQSZNFAIVO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/VIKJT3NL6VFV3AMJQSZNFAIVO4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 13:40:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRGGNZRGAYWEYJTHFSGIZJQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'마약왕' 박왕열(47)이 27일 경기 의정부시 의정부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 후 법정을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“넌 남자도 아녀.”&lt;br&gt;&lt;br&gt;필리핀에서 한국으로 압송될 당시 한 기자를 향해 이 같은 말까지 건네며 꼿꼿한 태도를 보이던 ‘마약왕’ 박왕열씨가 이틀 뒤 구속 전 피의자 심문 때는 퀭하고 무기력한 모습으로 나타나 이목을 끈다. 일각에선 금단 증상 발현이라는 분석도 나온다. 실제로 경찰의 소변 간이시약 검사 결과, 박씨는 체포 전 필로폰을 투약한 것으로 나타났다.&lt;br&gt;&lt;br&gt;박씨는 지난달 25일 인천국제공항을 통해 국내로 압송됐을 당시, 통상 마스크를 쓰고 고개를 푹 숙이는 범죄자들과 달리 고개를 꼿꼿이 들었다. 취재진을 향해 손가락질을 하면서 “넌 남자도 아녀”라고 한마디를 던지기도 했다.&lt;br&gt;&lt;br&gt;하지만 박씨는 이틀 뒤인 27일, 구속 전 피의자 심문을 받기 위해 의정부지법에 출석했을 때는 이와는 상반된 모습을 보였다. 송환 당시 강렬했던 눈빛은 온데간데없었고, 퀭한 눈빛으로 형사들에게 양팔을 붙들린 채 무기력한 모습으로 이송됐다. “필리핀 교도소에서 필로폰을 투약했나” “마약 공급은 어디서 받았나” “마약 밀반입을 직접 지시했나” 등 취재진 질문에 아무런 답을 하지 않은 채 법정으로 들어갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3GENJQGYYDENZTMQZDEMTBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;필리핀에서 복역 중이던 박왕열이 25일 오전 인천국제공항 제2터미널을 통해 국내로 송환되면서 한 기자를 향해 "넌 남자도 아녀"라고 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 의정부지방검찰청으로 구속 송치되던 순간도 마찬가지였다. 검은색 바람막이를 입은 박씨는 취재진의 여러 질문에 답하지 않았다.&lt;br&gt;&lt;br&gt;이에 일각에선 박씨가 금단 현상을 겪고 있을 것이라는 분석이 나왔다. 둘 곳 없는 시선과 퀭한 눈 모두 필로폰 금단 증상의 발현이라는 것이다. 중독성이 강한 각성제인 필로폰의 금단 증상은 보통 몸이 축 처지거나 우울, 불안, 갈망 등의 형태로 나타난다. 투약 기간에 따라 다르지만, 일반적으로 단약 직후 극심한 피로가 찾아오는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;실제로 박씨는 체포 전 필로폰을 투약한 것으로 드러났다. 경찰이 박씨를 상대로 한 소변 간이시약 검사에서 필로폰 양성 반응이 나왔다. 조사 과정에서 박씨도 필로폰 투약 혐의를 인정했다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYGEMZXMQZDGYRWHBQTKNBXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;필리핀에서 국내로 압송된 박왕열이 3일 오전 경기 의정부지방검찰청으로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 박씨 사건은 마약범죄 정부합동수사본부가 맡는다. 당초 의정부지검으로 송치된 사건을 마약합수본이 맡게 되면서, 검찰과 경찰을 비롯해 관세청, 해양경찰, 서울특별시, 출입국·외국인정책본부, 국가정보원, 금융정보분석원 등 8개 기관이 박씨의 추가 범행을 밝혀내는 데 전문성과 수사력을 결집할 전망이다. 경찰의 수사 결과는 물론, 그동안 합수본이 박씨에 대해 동시다발적으로 수사해 온 범죄에 대해서도 밝혀낼 계획이다.&lt;br&gt;&lt;br&gt;경찰이 파악한 박씨가 밀수하거나 유통하려다 적발된 물량은 2019년 11월부터 2024년 8월까지 필로폰 12.7㎏을 포함해 마약류 17.7㎏, 시가 63억원 상당이다. 여기에 계좌 분석 등을 통해 이미 판매해 현금화한 것으로 분석된 수익금 68억원을 더하면, 그가 관여한 마약 범죄 수익은 131억원 상당으로 추정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신유빈, 韓 여자 탁구 선수 사상 첫 월드컵 단식 4강 쾌거</title>
+      <link>https://www.chosun.com/national/people/2026/04/04/UB3Z7FWOMRFUVGZXPBGB2G7NSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/04/UB3Z7FWOMRFUVGZXPBGB2G7NSA/</guid>
+      <dc:creator>배준용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 12:32:28 +0000</pubDate>
+      <content:encoded>한국 여자 탁구 간판 신유빈(대한항공)이 올림픽, 세계 선수권과 함께 탁구 3대 메이저 대회로 꼽히는 국제탁구연맹(ITTF) 월드컵에서 세계 3위 천싱퉁을 꺾고 한국 여자 선수로는 처음으로 준결승에 진출하는 쾌거를 이뤘다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4VCAQ4TTBN2LHSVYYUY4LNOZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 마카오에서 열린 2026 ITTF 여자 월드컵 단식 4강에서 신유빈이 중국 천싱퉁과의 경기에서 서를 준비하고 있다./신화통신 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSXKRO7JONK73MNB5PGAF4N65A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 마카오에서 열린 2026 ITTF 여자 월드컵 단식 4강에서 신유빈이 중국 천싱퉁과의 경기에서 점수를 획득한 뒤 환호하고 있다./신화통신 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계 랭킹 13위 신유빈은 4일 중국 마카오에서 열린 2026 ITTF 여자 월드컵 단식 8강에서 세계 3위 천싱퉁(중국)을 게임 점수 4대1(11-8 9-11 12-10 11-0 11-9)로 물리치는 기염을 토했다. &lt;br&gt;&lt;br&gt;이날 신유빈은 빠른 타이밍의 공격으로 첫 게임을 11-8로 잡았다. 2게임을 다시 내줬지만 3게임에서 듀스 접전 끝에 12-10으로 이기며 승기를 잡았고, 4게임에서 테이블 구석을 찌르는 드라이브로 11-0 완승을 거뒀다. 기세를 탄 신유빈은 5게임을 11-9로 잡아내며 이날 경기를 승리로 마무리했다. &lt;br&gt;&lt;br&gt;신유빈이 여자 월드컵 4강에 오른 건 한국 여자 선수로는 사상 처음이다. 특히 신유빈은 작년 월드컵 16강에서 천싱퉁에게 0대4로 패했는데, 올해 이 패배를 완벽히 설욕하며 새 역사를 썼다. &lt;br&gt;&lt;br&gt;월드컵 4강에 오른 신유빈은 세계 2위 왕만위(중국)-세계 15위 하시모토 호노카(일본) 중 승자와 준결승에서 맞붙는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FSXKRO7JONK73MNB5PGAF4N65A.jpg?auth=674e28efffc7e501292a52782bf3f7db6583c5d7a19da2c966129441b57efdff&amp;smart=true&amp;width=6408&amp;height=4272" type="image/jpeg" height="4272" width="6408">
+        <media:description type="plain">4일 마카오에서 열린 2026 ITTF 여자 월드컵 단식 4강에서 신유빈이 중국 천싱퉁과의 경기에서 점수를 획득한 뒤 환호하고 있다./신화통신 연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">Cheong Kam Ka</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>尹 탄핵 1년… 서울 도심 곳곳 대규모 집회 열려</title>
       <link>https://www.chosun.com/national/national_general/2026/04/04/JRB7CJOKDJB3PMLH2Q67OAS7OI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/JRB7CJOKDJB3PMLH2Q67OAS7OI/</guid>
@@ -906,15 +928,6 @@
       <content:encoded>2일 오전 충북 옥천군 이원면의 묘목 공원 일대. 옥천 IC를 빠져나와 축제장까지 이어지는 편도 1차선 도로가 전국 각지에서 몰려든 차량으로 빼곡했다. “자, 좋은 나무 보세요. 꽃도 종류별로 있고, 천혜향도 있습니다!” 상인들의 활기찬 목소리와 묘목 뿌리를 감싼 비닐봉지의 ‘바스락’ 소리가 봄바람을 가로질렀다. 청주에서 왔다는 이주영(46)씨는 “어머니 댁 마당에 아이들과 심을 나무를 찾으러 왔다”며 “고민 끝에 고른 천혜향 묘목이 건강한 것 같아 벌써 수확철이 기대된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPOAERQU2BAULO6XNYCRRG34CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 충북 옥천군 묘목공원에서 ‘옥천 묘목 축제’가 개막했다. 축제 관계자들이 방문객에게 감나무, 배나무 등 묘목을 나눠주고 있다. 축제는 식목일인 5일까지 열린다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘묘목의 성지’로 불리는 옥천이 봄을 맞아 북적이고 있다. 2일부터 열린 ‘옥천 묘목 축제’를 찾은 인파다. 옥천은 2005년 국내 유일의 ‘묘목 산업 특구’로 지정됐다. 전국 묘목 유통량의 70%가 옥천을 거친다. 90년 넘게 축적된 노하우에, 진흙이 적은 보드라운 흙이 겹친 덕이다. 봄만 되면 ‘좋은 나무’를 선점하려는 사람들이 전국에서 몰린다. &lt;br&gt;&lt;br&gt;올해 축제 현장에선 예년보다 다소 높아진 묘목 가격이 눈에 띄었다. 옥천이원묘목영농조합 김영식 대표는 “날씨 등 여건이 좋지 않아 작황이 부진했고, 인건비도 오르면서 묘목값이 올랐다”며 “작년 여름 기록적인 폭우에 탄저병, 과수화상병 등이 겹친 결과”라고 했다. 실제로 전체 묘목 공급량도 예년보다는 줄어든 것으로 추정된다. 작년에 한 그루당 1만~1만2000원 선이었던 사과나무 묘목은 올해 1만7000원 안팎이다. &lt;br&gt;&lt;br&gt;농장주들의 고민도 깊다. 축제장에서 만난 한 농장주는 “우리가 직접 키운 나무는 이익을 덜 남기더라도 최대한 저렴하게 내놓으려 노력하지만, 다른 산지에서 가져온 꽃들은 작년보다 2배 가까이 값이 오른 것 같다”며 “식물을 사랑해 찾아온 손님들을 위해 최대한 가격을 낮추려 하지만 쉽지는 않은 상황”이라고 했다. &lt;br&gt;&lt;br&gt;그럼에도 여전히 옥천은 ‘가격과 품질을 믿고 살 수 있는 묘목 시장’이라는 평가를 받고 있다고 한다. 음성에서 온 김정환(63)씨는 “묘목 하면 그래도 옥천”이라며 “종류가 많고 다른 곳보다 품종이 확실히 좋아 매년 찾는다”고 했다. 축제 현장에선 사과, 대추, 자두 등 나무별 전문 상담관이 초보 ‘식집사’들에게 토양 관리와 병충해 방제 등 정보도 제공한다. &lt;br&gt;&lt;br&gt;축제에선 소망나무 심기 등 체험도 즐길 수 있다. 행사는 오는 5일까지다. 이헌창 옥천부군수는 “기후 변화, 인건비 상승 등으로 농가가 어려운 시기를 보내고 있지만 대한민국 유일의 묘목 특구인 옥천의 묘목은 여전히 우수하다”며 “식목일(5일)을 앞두고 많은 사람이 나무 한 그루, 희망 한 그루를 담아 가시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 민준기 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/03/LAEOPPM5PJCK7KE2APCN6MVXAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/03/LAEOPPM5PJCK7KE2APCN6MVXAY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;민준기 &lt;/b&gt;별세, &lt;b&gt;민경동&lt;/b&gt; SK AX PR팀장·&lt;b&gt;민지윤&lt;/b&gt; 대전 동광초 교사 부친상, &lt;b&gt;김영주&lt;/b&gt; 인천 영성초 교사 시부상=2일10시10분 대전 충남대병원, 발인 4일9시30분, (042)280-8181&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오갑희&lt;/b&gt; 별세, &lt;b&gt;장숙영&lt;/b&gt;·&lt;b&gt;장기우&lt;/b&gt; 동아일보 대전충청취재본부장·&lt;b&gt;장지영&lt;/b&gt; 국방출판지원단 근무 모친상, &lt;b&gt;윤태식&lt;/b&gt; 예스재가복지센터 대표·&lt;b&gt;김진근&lt;/b&gt; 지투엘 대표 장모상,&lt;b&gt; 문정혜&lt;/b&gt; 리드앤톡 청주분평센터 원장 시모상=2일8시55분 충북 청주 충북대병원, 발인 4일6시30분, (043)269-7212&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조신지&lt;/b&gt; 별세, &lt;b&gt;이인호&lt;/b&gt;·&lt;b&gt;이명호&lt;/b&gt;·&lt;b&gt;이선호&lt;/b&gt;·&lt;b&gt;이미애&lt;/b&gt; 모친상, &lt;b&gt;채수인&lt;/b&gt; 이노플로우 대표 장모상=1일10시 서울적십자병원, 발인 3일9시30분, (02)2002-8444&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“인간 중심 AI로 세계 대전환” 개교 80년 서울대 비전 선포식</title>
       <link>https://www.chosun.com/national/national_general/2026/04/03/E6CHHQ6OLBA3PIX66LCOE5ZVVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/E6CHHQ6OLBA3PIX66LCOE5ZVVU/</guid>
@@ -922,15 +935,6 @@
       <description/>
       <pubDate>Thu, 02 Apr 2026 15:42:00 +0000</pubDate>
       <content:encoded>서울대학교가 2일 개교 80주년을 맞아 ‘인공지능(AI) 대전환’을 선포했다. 서울대는 이날 관악캠퍼스에서 ‘서울대학교 AI 서밋 2026’을 열고 세계 최고의 AI 선도 대학을 목표로 한 47개 실행 계획을 발표했다. 우선 AI-Smart 학부대학을 신설하고, 학교 차원에서 인류 난제 탐구를 위한 AI 연구에 집중 투자한다는 계획이다. 대학 행정을 혁신할 행정 AX(AI 전환) 선도자 육성과 AI 기반 다중 언어 서비스 같은 무장애 캠퍼스 인프라 구축도 계획에 포함됐다. 유홍림 서울대 총장은 “서울대는 AI 기술을 따라가는 곳이 아닌, AI 방향을 만들어가는 세계 최고의 ‘대전환의 시대를 이끌어가는 학문 공동체’로 거듭나고자 한다”고 밝혔다. 이날 행사에는 이준희 삼성SDS 대표이사와 김유원 네이버클라우드 대표이사, 유현경 한국마이크로소프트 공공사업부문장과 딥스 드 실바 오픈AI 아시아태평양 지역 교육 부문 총괄 등 국내외 AI 기업 관계자들이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 연세대 의료원 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/03/YFATW3EXM5FFBEQ7KLNK6LCOIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/03/YFATW3EXM5FFBEQ7KLNK6LCOIU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;연세대 의료원&lt;/b&gt;◇의과대학▷교무부학장 정영철▷교육부학장 임범진▷학생부학장 최용선▷연구부학장 지헌영▷기획부학장 오상호▷강남부학장 채현욱▷용인부학장 김진권▷교무부장 박건보▷의예과부장 김의현▷교육부장 김혜원▷학생부장 정민▷학생마인드케어센터장 석정호▷연구정책개발부장 김락균▷임상연구지원부장 이충근▷기획부장 한윤대▷강남1부장 노미령▷강남2부장 김준원▷용인부장 김종찬▷생리학교실 주임교수 정승수▷연세의생명연구원장 신전수▷연세의생명연구원 부원장 김현창▷연세의생명연구원 강남부원장 오주영▷의학실기교육원장 문인석▷의학실기교육원 임상실기교육센터장 조준호▷의학실기교육원 수술해부교육센터장 문인석▷휴먼마이크로바이옴센터장 김창훈◇치과대학▷교무부학장 차정열▷학생부학장 강정민▷기획부학장 김선일▷연구부학장 겸 구강과학연구소장 김기우▷교육부학장 김지환▷강남부장 신수정▷치의예과부장 이채나▷치의학교육원장 정지은▷대학원부장 이중석▷치의학교육학교실 주임교수 김지환▷통합치의학교실 주임교수 정복영◇보건대학원▷교학부원장 김희진◇대학교부설연구기구▷디지털헬스연구원장 김현창▷디지털헬스연구원 부원장 김경원◇세브란스병원▷진료부원장 김성헌▷연구부원장 김어수▷진료혁신부원장 이익재▷기획관리실장 최윤락▷기획부실장 이영한▷진료혁신센터 1부센터장 한현호▷진료혁신센터 2부센터장 김덕기▷VIP건강증진센터 소장 박수정▷VIP건강증진센터 부소장 천유진▷교육수련부장 정민규▷교육수련부 수련1차장 이찬주▷교육수련부 수련2차장 윤보현▷진료협력센터 소장 이동원▷진료협력센터 차장 홍민희▷진료운영센터 소장 권자영▷임상연구관리실장 김어수▷임상시험센터 소장 최혜진▷임상연구보호센터 소장 박창욱▷의료기술품질평가센터장 성학준▷감염관리실장 홍기호▷장기이식센터 조직은행장 박관규&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국일보&lt;/b&gt;◇부국장대우▷뉴스콘텐츠본부 기획영상부 박서강▷뉴스룸국 신문총괄부문 김도상▷뉴스룸국 전국부 박경우▷혁신총괄 플랫폼개발부문 이탁희▷ 경영지원실 경영지원부문 현재주◇부장대우▷콘텐츠본부 콘텐츠스튜디오팀 김지은▷뉴스룸국 종합편집부 이승현▷뉴스룸국 종합편집부 채지은▷ AD전략국 AD2팀 김대인&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘세 쌍둥이’ 키우려 직업까지 바꿔… “15시간 일해도 후회없죠”</title>
