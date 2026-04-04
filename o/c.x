@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“비웃는 것 같아” 젓가락 공격한 중국인… 피해자 실명 위기</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/WOO5UFEGZNDGXHQ2E4U6MNRXOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/WOO5UFEGZNDGXHQ2E4U6MNRXOU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 05:29:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJIJ5PFG6VBADMCWPZHWYA373I.png"&gt;&lt;figcaption&gt;&lt;small&gt;젓가락을 든 중국인 남성이 피해자를 향해 다가가고 있다. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 비웃는다고 착각해 한국인 일행에게 무차별 폭행을 가한 50대 중국인 남성이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;4일 경찰 등에 따르면 서울 영등포경찰서는 살인미수 및 특수상해 혐의를 받는 50대 중국인 남성 A씨를 구속 송치했다. &lt;br&gt;&lt;br&gt;A씨는 지난달 27일 영등포구 한 식당 인근에 세워진 차량에 접근해 뒷문을 열고 탑승자를 폭행한 혐의를 받는다. 운전석에서 사람이 내리자 운전자를 향해서도 주먹질을 했다. &lt;br&gt;&lt;br&gt;잠시 뒤 피해자 일행에게 흉기를 휘둘렀고, 피해자가 쓰러지자 식당에서 들고 온 젓가락으로 얼굴을 공격했다. 당시 술에 취해 있던 A씨의 범행으로 피해 남성은 얼굴과 시신경에 심각한 손상을 입고 중환자실에서 치료를 받고 있으며 실명 가능성이 큰 상태로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 수사 결과 A씨는 같은 술집에 있던 피해자 일행이 자신을 비웃는다고 착각해 앙심을 품고 피해자가 나오기를 기다렸다가 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 신명이 나다, 우쭐해지다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2026/04/03/3QGWNZOXHZCVJK3376MSSSH6BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/04/03/3QGWNZOXHZCVJK3376MSSSH6BM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2G3677EUMBBZ7PEFNKZCKVDVEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] choose one’s battles</title>
+      <link>https://www.chosun.com/national/nie/english/2026/04/03/KELYKND4SNEFXGZ5AMII2OIM74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/04/03/KELYKND4SNEFXGZ5AMII2OIM74/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTT5TGSOA5BNJHDJSGVKZEDHFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유명 프로게이머 ‘룰러’ 탈세 논란…아버지 도움이 ‘증여’ 됐다</title>
       <link>https://www.chosun.com/national/national_general/2026/04/04/KADGCVHKMVGHDJFRICEMCAYB5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/KADGCVHKMVGHDJFRICEMCAYB5M/</guid>
@@ -908,33 +935,6 @@
       <description/>
       <pubDate>Thu, 02 Apr 2026 15:41:00 +0000</pubDate>
       <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BA5RZTXDWVGCTMEDGJ4HNUAYEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 맨투맨 티, 후드 티</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/04/03/FOWHR3VIJRHNLLNIWBBMMUPNDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/04/03/FOWHR3VIJRHNLLNIWBBMMUPNDM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/637CLKLZFBFGTJRKP6UEOCSJLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 반관반민(半官半民)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/04/03/IEIVJYPM6NGOXIXUV3VAJS2SVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/04/03/IEIVJYPM6NGOXIXUV3VAJS2SVE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SH5ZXS4CTFANXGVNURH4BBGGY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2839] 손가락 낭독회</title>
-      <link>https://www.chosun.com/national/nie/2026/04/03/L74WRQZ2W5CQZE7DONGYF4IFTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/04/03/L74WRQZ2W5CQZE7DONGYF4IFTU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/777OYCPVUJFPTELJMR4VGSOKSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>MBK·영풍 가처분 최종 기각... “고려아연 주총 의결권 제한, 문제 없어”</title>
