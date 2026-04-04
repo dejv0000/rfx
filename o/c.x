@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 4월 5일 일요일 (음력 2월 18일 己酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/HHDAVOKSBBGGTGLS6JSGCLTPYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/HHDAVOKSBBGGTGLS6JSGCLTPYI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>안미현 “검사가 눈앞 범죄 수사 못하고, 112신고해야 할 판”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/04/ABNTSNQPHZF3NDHNPB2B4JJLV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/04/ABNTSNQPHZF3NDHNPB2B4JJLV4/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 07:05:59 +0000</pubDate>
+      <content:encoded>현재 검찰의 상태를 ‘파산지청’으로 지적했던 안미현 대전지검 천안지청 검사가 “검사들이 범죄를 보고도 직접 수사를 못하고 112신고를 고민하는 상황”이라고 했다. 안 검사는 4일 조선일보 유튜브 ‘판읽기’에 출연해 이같이 밝혔다. &lt;br&gt;&lt;br&gt;그는 “최근 사직한 한 검사의 경우 계부로부터 스토킹을 당한 피해자를 조사하던 중 과거에 성적 착취를 당했다는 사실도 알게 된 사건이 있었다”며 “과거에는 이런 중차대한 범죄를 발견했으면 신속하게 보완수사를 해서 처리하면 되는데 이제 ‘이걸 검사가 수사해도 되나’부터 고민한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULJDGKZOQRMDJH7LM2VTQZYBH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-3716&gt; 대검찰청 국정감사에 증인으로 출석한 안미현 서울중앙지검 검사&#13;
+    (서울=연합뉴스) 황광모 기자 = 안미현 서울중앙지검 검사가 27일 서울 여의도 국회 법제사법위원회에서 열린 2025년 국정감사에 출석해 인사하고 있다. 2025.10.27&#13;
+    hkmpooh@yna.co.kr/2025-10-27 13:14:31/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제로 성범죄로 재판에 넘겨진 계부는 ‘검사에게 수사 권한이 없다’고 주장했고 대법원에 가서야 검사가 수사할 수 있는 범죄와 ‘관련성’이 인정되므로 수사 권한이 있다는 판단을 받았다고 한다. 현재 검찰은 부패·경제범죄 및 사법경찰관이 송치한 범죄와 관련해 인지한 범죄만 수사할 수 있다. &lt;br&gt;&lt;br&gt;안 검사는 “ ‘관련성’이 실무에서 너무나 추상적으로 규정돼 있다”며 “재판에 들어간 검사가 증인이 너무도 명백한 위증을 하고 있는데 과거 같으면 공판 검사가 바로 위증수사를 진행했었다”고 했다. &lt;br&gt;&lt;br&gt;그는 “우리가 수사를 할 수 있을까를 고민하는 과정에서 동기들이 ‘112에 신고하자’ 는 얘기가 나왔었다”며 “하지만 112에 신고하게 되면 지구대에서 출동하고, 형사에게 넘기고 검찰에 송치되는 과정을 거치면서 또 하세월이 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;그동안 ‘검찰 직접수사는 폐지하더라도 보완수사권은 남겨야 한다’고 주장하던 안 검사는 최근 소셜미디어 국회의원들에게 “보완수사권도 없애달라”고 했다. &lt;br&gt;&lt;br&gt;그는 그 이유에 대해 “보완수사권을 남겨서 수사하다 보면 특정 진영의 마음에 안 드는 결과물이 나올 수 있다”며 “그 특정 진영이 막강한 권한을 갖게 됐을 때는 검사가 개인적으로 힘든 상황에 놓일 수 있고 조직 전체가 힘들어지는 상황에 놓이고, 지금이 그렇다”고 했다. &lt;br&gt;&lt;br&gt;또한 ‘공소취소’와 관련, 안 검사는 “임금 체불 사건의 당사자가 합의해 더 이상 처벌할 수 없는 경우에도 판사의 공소취소 요청에 대해 ‘검사장 결재를 받아야 한다’머 거절할 정도로 실무에서는 거의 하는 경우가 없다”고 했다. &lt;br&gt;&lt;br&gt;그는 민주당 일각에서 추진하는 이재명 대통령 사건의 공소취소 움직임과 관련, “제가 하지 않은 사건에 대해서는 별로 드릴 말씀이 없다”면서도 “조작 기소가 있어 억울하게 처벌받았다면 확정 판결에 대한 재심 등의 국가 시스템에 맞춰 처리를 하면 된다”고 했다. &lt;br&gt;&lt;br&gt;안 검사는 ‘대북송금’ 주임 검사였던 박상용 검사가 ‘윤석열정권 정치검찰 조작기소 의혹 사건 진상규명’ 국조특위 조사 대상이 된 것과 관련, “그런 명칭은 매우 위험하다”고 했다. &lt;br&gt;&lt;br&gt;그는 “결론을 정해놓고 수사하는 게 검찰의 문제였다고 비판하시는 분들이 ‘조작기소’라는 명칭으로 아예 결론을 정해놨다”며 “그게 검찰의 문제점이었다면 왜 그걸 벤치마킹을 하나”라고 했다. 자세한 내용은 조선일보 유튜브 ‘판읽기’에서 볼 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대한노인회 “출퇴근시간 무임승차 제한 우려”…靑 “계획 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/UJWWSOBBLNDO7DXVZI32GYWQYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/UJWWSOBBLNDO7DXVZI32GYWQYY/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 06:05:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYVNPZGXGNDMPL3Q3TGMUFNAOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출퇴근 시간대 노인들의 대중교통 무임승차를 제한하는 방안을 놓고 대한노인회에서 우려를 표명하자, 청와대 측에서는 “계획이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;4일 대한노인회에 따르면 이중근 대한노인회장과 이석현 상임부회장, 이용섭 혁신위원장 등은 전날 오후 청와대 홍익표 정무수석, 전성환 경청통합수석, 배진교 국민경청비서관, 보건복지부 임을기 노인정책관과 간담회를 가졌다.&lt;br&gt;&lt;br&gt;이 자리에서 노인회 측 참석자들은 출퇴근 혼잡 시간에 노인들을 대상으로 한 대중교통 무임 승차를 한시적으로 제한하는 방안을 정부가 검토하는 것에 대해 우려를 표명했다. 이들은 “노인이 아침에 대중교통을 이용하는 시간은 오전 5~7시대에 집중되는 경향이 있는데, 이는 대부분 새벽근무를 필요로 하는 건물청소·식당 근무 등을 위한 생계형 이동으로 파악된다”고 했다. 그러면서 “이들의 무임승차를 제한하는 것은 적합하지 않고, 공공·민간회사들이 유연근무제나 시차 출퇴근제 등을 활용해 대중교통 혼잡 상황을 완화하는 게 합리적일 것”이라고 했다.&lt;br&gt;&lt;br&gt;이들은 또 “교통 혼잡시간에 대중교통을 이용하는 노인들의 무임승차를 제한하는 것은 노인들이 비생산적이고 혼잡을 더하는 존재로 인식될 수 있다”며 “이런 정서적 자극은 바람직하지 않다”고 했다.&lt;br&gt;&lt;br&gt;이에 홍 수석은 “어르신들의 무임승차를 제한하는 계획은 없다”며 “어르신 세대의 복지를 축소하는 정책은 없을 것이고, 어떠한 불이익도 없게 하겠다”고 했다. 교통 혼잡 완화를 위해 시차 출퇴근제와 재택근무 활성화 등을 정책 우선 순위에 두겠다고도 했다.&lt;br&gt;&lt;br&gt;이날 간담회 참석자들은 최근 현안인 자원 위기 극복을 위한 에너지 절약 실천 방안도 논의했다. 이중근 회장은 “대한노인회는 전국 17개 시도 연합회, 245개 시군구 지회를 통해 에너지 절약 실천 캠페인을 전개할 계획”이라며 “전국 경로당·가정에서의 에너지 절약과 함께, 여가 활동을 위한 대중교통 이용은 낮 시간을 활용하기 등을 실천하도록 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;홍 수석은 “어르신들께서 국가가 어려울 때마다 중심을 잡아주시고 지혜를 주신 점에 감사드린다”며 “중동 사태에 따른 고유가·고물가·고환율로 국가 경제가 매우 어려운 상황인데, 정부는 하위 계층을 위한 추가경정예산을 편성해 경제적 어려움을 덜어드리는 등 어르신들이 편안하게 일상생활을 하시도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“비웃는 것 같아” 젓가락 공격한 중국인… 피해자 실명 위기</title>
       <link>https://www.chosun.com/national/national_general/2026/04/04/WOO5UFEGZNDGXHQ2E4U6MNRXOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/WOO5UFEGZNDGXHQ2E4U6MNRXOU/</guid>
@@ -20,24 +51,6 @@
       <description/>
       <pubDate>Sat, 04 Apr 2026 05:29:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJIJ5PFG6VBADMCWPZHWYA373I.png"&gt;&lt;figcaption&gt;&lt;small&gt;젓가락을 든 중국인 남성이 피해자를 향해 다가가고 있다. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 비웃는다고 착각해 한국인 일행에게 무차별 폭행을 가한 50대 중국인 남성이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;4일 경찰 등에 따르면 서울 영등포경찰서는 살인미수 및 특수상해 혐의를 받는 50대 중국인 남성 A씨를 구속 송치했다. &lt;br&gt;&lt;br&gt;A씨는 지난달 27일 영등포구 한 식당 인근에 세워진 차량에 접근해 뒷문을 열고 탑승자를 폭행한 혐의를 받는다. 운전석에서 사람이 내리자 운전자를 향해서도 주먹질을 했다. &lt;br&gt;&lt;br&gt;잠시 뒤 피해자 일행에게 흉기를 휘둘렀고, 피해자가 쓰러지자 식당에서 들고 온 젓가락으로 얼굴을 공격했다. 당시 술에 취해 있던 A씨의 범행으로 피해 남성은 얼굴과 시신경에 심각한 손상을 입고 중환자실에서 치료를 받고 있으며 실명 가능성이 큰 상태로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 수사 결과 A씨는 같은 술집에 있던 피해자 일행이 자신을 비웃는다고 착각해 앙심을 품고 피해자가 나오기를 기다렸다가 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 신명이 나다, 우쭐해지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/04/03/3QGWNZOXHZCVJK3376MSSSH6BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/04/03/3QGWNZOXHZCVJK3376MSSSH6BM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2G3677EUMBBZ7PEFNKZCKVDVEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] choose one’s battles</title>
-      <link>https://www.chosun.com/national/nie/english/2026/04/03/KELYKND4SNEFXGZ5AMII2OIM74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/04/03/KELYKND4SNEFXGZ5AMII2OIM74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTT5TGSOA5BNJHDJSGVKZEDHFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>유명 프로게이머 ‘룰러’ 탈세 논란…아버지 도움이 ‘증여’ 됐다</title>
@@ -926,15 +939,6 @@
       <description/>
       <pubDate>Thu, 02 Apr 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQUXOARBZREXDP7VLVTXP442XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-4-3일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 추억으로 간직하세요. 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 27일 ‘우리 아기가 태어났어요’ 코너에 실린 유정의·로운&amp;lt;사진&amp;gt; 형제가 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 신지원·조우신 딸 아현 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/03/2U6Y75RV4FBZZNDOFFKCY7VZWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/03/2U6Y75RV4FBZZNDOFFKCY7VZWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BA5RZTXDWVGCTMEDGJ4HNUAYEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>MBK·영풍 가처분 최종 기각... “고려아연 주총 의결권 제한, 문제 없어”</title>
