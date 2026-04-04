@@ -13,6 +13,68 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유명 프로게이머 ‘룰러’ 탈세 논란…아버지 도움이 ‘증여’ 됐다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/KADGCVHKMVGHDJFRICEMCAYB5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/KADGCVHKMVGHDJFRICEMCAYB5M/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 02:53:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3SEYSHOABFEXAQW55YYXZLARA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 항저우 아시안게임 '리그 오브 레전드' 국가대표 미디어데이에서 '룰러' 박재혁이 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시안게임 금메달리스트인 리그오브레전드(LoL) 프로게이머 ‘룰러’ 박재혁이 탈세 논란에 휩싸였다. 전문가들은 이번 사안이 소득을 숨기거나 축소한 문제가 아니라, 가족이 자산을 관리해 주는 방식을 어떻게 해석하느냐에 따른 것이라고 설명했다. &lt;br&gt;&lt;br&gt;박재혁은 2일 자신의 소셜미디어를 통해 “최근 세금 관련 보도로 팬 여러분께 걱정을 드려 죄송하다”며 “고의적으로 소득을 숨기거나 은닉을 시도한 적이 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “2018년부터 아버지께서 직장을 그만두시고 전적으로 제 뒷바라지 등 매니저 역할을 맡아주셨다”며 “공인 에이전시 제도가 도입되기 전이었고 연습생 시절부터 경기 외 일정 조율, 팀 계약, 대학 진학 관련 업무 등 실질적인 에이전트 업무를 아버지가 전담해 오셨다. 그 활동에 대한 인건비를 필요 경비로 신청했지만 국세청에서 인정받지 못했다”고 했다. &lt;br&gt;&lt;br&gt;앞서 국세청 조세심판원은 지난달 26일 관련 결정문을 공개했다. 박재혁은 2018년부터 2021년까지 아버지를 매니저로 두고 급여를 지급하며 연봉 계약 및 행정 업무를 맡겼다. 박재혁의 부친은 받은 연봉과 상금을 주식에 투자해 매매 차익과 배당금 수익을 냈다. &lt;br&gt;&lt;br&gt;국세청은 박재혁이 아버지에게 지급한 금액을 업무와 무관한 비용으로 보아 종합소득세를 부과했다. 아울러 아버지 명의로 거래된 주식은 조세 회피 목적의 차명 거래(명의신탁)로 판단해 증여세와 배당소득세를 함께 부과했다. 박재혁은 아버지의 인건비를 사업소득에 따른 필요경비에 해당한다며 조세심판을 청구했지만 인정되지 않았다. &lt;br&gt;&lt;br&gt;전문가들은 이번 사안이 “실무적 편의에서 비롯된 선택이 법적 판단과 충돌한 것”이라고 분석했다. 초기 별도의 에이전시 없이 활동하던 시기, 가족이 일정 부분 매니지먼트 역할을 수행하는 것은 업계에서 흔한 일이다. 그러나 세법은 가족 간 거래에 대해 엄격한 잣대를 적용한다. &lt;br&gt;&lt;br&gt;아버지가 실제로 아들을 위해 일정 관리 등 노동을 했음에도 아버지에게 드리는 돈은 급여가 아닌 ‘용돈’으로 간주되고, 이는 필요경비로 인정받지 못하게 되는 것이다. e스포츠뿐 아니라 1인 사업자 중심으로 운영되는 다양한 분야에서 반복적으로 제기되는 문제다. 이번 사안은 특정 개인의 일탈이라기보다는 빠르게 성장한 산업 구조와 이를 따라가지 못한 제도 사이에서 발생한 충돌에 가깝다고 전문가들은 지적한다. &lt;br&gt;&lt;br&gt;박재혁은 다툴 여지가 있음에도 불구하고, 행정소송 대신 세금을 전액 납부하는 선택을 했다. 논란을 길게 끌기보다는 책임을 지겠다는 판단으로 해석된다. 그는 “이번 사안에 대한 책임은 온전히 제가 지겠다”며 “LCK리그 관련 사안은 리그 측의 검토에 성실히 협조하겠다. 앞으로는 자산 관리 전반을 더욱 투명하고 철저하게 운영하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CGDWIVEUERFBPPF6IP6WPKPBTA.jpg?auth=557998555142e04d72eaa7681636bb43a944f3493b7d9e0f903b83e87cf2d6d3&amp;smart=true&amp;width=600&amp;height=338" type="image/jpeg" height="338" width="600">
+        <media:description type="plain">&amp;#39;룰러&amp;#39; 박재혁. photo 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">JANGSOOYEONG</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>인천 모텔 객실서 화재…투숙객 51명 연기 흡입, 26명 이송</title>
+      <link>https://www.chosun.com/national/incident/2026/04/04/DGBKV3MMWZGAVDMI2PLUIKIWKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/04/DGBKV3MMWZGAVDMI2PLUIKIWKQ/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 03:28:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZTAZJQGM2TQYTGGA2WMOJYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수구 옥련동 모텔 화재 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 9시 41분쯤 인천 연수구 옥련동의 한 7층짜리 모텔 5층 객실에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 숙박객 51명이 연기 흡입 등으로 다쳤다. 이 중 26명은 병원으로 이송됐으며, 25명은 현장에서 처치를 받았다. 병원 이송자 가운데 1명은 긴급, 3명은 응급, 나머지 22명은 비응급 환자로 분류됐다.&lt;br&gt;&lt;br&gt;해당 모텔은 46개 객실 규모로, 당시 50여 명이 투숙 중이었던 것으로 파악됐다. 일부 투숙객은 화재 직후 창문 밖으로 대피하거나 에어매트를 이용해 뛰어내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 인력 60명과 장비 31대를 투입해 약 44분 만인 오전 10시 25분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 객실 내 전자담배 충전 과정에서 불이 시작됐을 가능성도 있는 것으로 보고 정확한 화재 원인과 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EVSPJFTGQZHTTIZASBUUCV4VDE.jpg?auth=f3f9acf02be0bc047222f892f0ff50c526cb385111d6c3f376db50122bedad06&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
+        <media:description type="plain">인천 연수구 옥련동 모텔 화재 현장</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>법원, ‘가자지구 진입 시도’ 활동가 여권반납명령 집행정지 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/04/3K6OG77YIVELBG43F5IX2YKTWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/04/3K6OG77YIVELBG43F5IX2YKTWA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 02:08:45 +0000</pubDate>
+      <content:encoded>팔레스타인 가자지구로 향하는 구호선박에 탑승했다가 이스라엘에 구금됐던 한국인 활동가가 외교부의 여권 반납 명령 처분을 정지시켜 달라며 집행정지를 신청했으나 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43YY5FQGEJJMTEO5CJ2KMDEI4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'민주사회를 위한 변호사모임'이 지난 1일 ‘해초 활동가 여권반납명령 취소소송 및 집행정지 신청’ 기자회견을 진행하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 서울행정법원 행정12부(재판장 강재원)는 전날 김아현(활동명 해초)씨가 외교부를 상대로 낸 집행정지 신청을 기각했다. 재판부는 “원고가 제출한 자료만으로는 외교부 처분으로 회복하기 어려운 손해가 발생할 우려가 있다거나 이를 예방하기 위한 긴급한 필요가 있다고 인정하기 어렵다”며 “오히려 외교부 처분의 효력을 정지하는 경우에는 공공복리에 중대한 영향을 미칠 우려가 있다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 10월 이스라엘의 가자지구 봉쇄에 반대하는 구호선단에 참가한 배에 탔다가, 이스라엘군에 배가 나포되며 현지 교도소에 수감됐다. 김씨는 이틀 만에 풀려났다. 외교부는 김씨에게 여권 반납 명령을 발송했고, 이는 지난달 27일 김씨에게 송달됐다.&lt;br&gt;&lt;br&gt;이와 관련해 외교부 관계자는 “지난 1월부터 여러 차례 연락을 시도해 가자지구 방문 시도의 위험성을 알리고 여권 행정 제재 가능성도 경고한 바 있으나, 계속 가자지구 방문을 추진하고 있음을 인지했다”며 “여권법과 관련 절차에 따라 동인의 생명과 안전을 보호하기 위해 필요한 조치로서 여권 반납 명령을 내린 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 김씨는 외교부 처분 전인 지난달 중순 이미 ‘민주사회를 위한 변호사모임’ 대리인단에 소송 권한을 위임한 뒤 제3국으로 출국한 것으로 알려졌다. 민변은 외교부 처분에 불복해 행정법원에 취소소송을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘뇌물 1억원 수수 의혹’ 강호동 농협회장, 경찰 출석</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/V2UJBSN5DFAIPCZWGOMNAX3RQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/V2UJBSN5DFAIPCZWGOMNAX3RQE/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 00:46:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7SJVNQX5VJ4LEVVPYLFKHEVJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강호동 농협중앙회장이 4일 마포구 서울경찰청 반부패수사대에 조사를 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강호동 농협중앙회장이 1억원 상당의 금품을 수수한 의혹과 관련해 4일 경찰에 출석했다.&lt;br&gt;&lt;br&gt;강 회장은 이날 오전 9시 30분쯤 서울 마포구 서울경찰청 반부패수사대에 피의자 신분으로 출석했다. 그는 ‘억대 금품을 수수한 혐의를 인정하는지’ ‘조합원들의 사퇴 요구에 대한 입장은 무엇인지’ 등 취재진 질문에 “최대한 성실히 조사받고 오겠다”고 답했다.&lt;br&gt;&lt;br&gt;강 회장은 2023년 말 농협 유통 관련 업체 대표로부터 사업 편의를 봐주는 대가로 두 차례에 걸쳐 1억원을 수수한 혐의(특정범죄 가중처벌법상 뇌물 수수)를 받는다. 당시 강 회장은 농협중앙회장 선거를 한 달여 앞두고 있었다.&lt;br&gt;&lt;br&gt;강 회장은 2020년 농협중앙회장 선거에서 낙선한 뒤, 2024년 재도전 끝에 제25대 회장으로 당선됐다. 전국 농협 조합장들의 직접 투표로 선출되는 농협중앙회장은 공직자윤리법상 재산 등록 의무가 있는 공직자로 분류된다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난해 10월 서울 중구 농협중앙회에 있는 강 회장 집무실 등을 압수수색하고 강 회장을 출국 금지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“바지는 살짝만 내려주세요!” 병원 주사실 안내문 목격담</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/A3H3JOTBJJBS7AJ3PZD33JJXRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/A3H3JOTBJJBS7AJ3PZD33JJXRQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Apr 2026 23:59:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGY4HPH54BC7ZNDQSON6XJSQBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 한 이비인후과 주사실에 붙은 안내문. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원 주사실에서 일부 환자들의 부적절한 행동이 반복되자 병원 측에서 안내문까지 붙인 사연이 온라인에 공유됐다. &lt;br&gt;&lt;br&gt;지난 2일 스레드에는 경기도 일산의 한 이비인후과 주사실 벽면에 붙은 안내문을 찍었다는 사진이 올라왔다. 글쓴이 A씨는 “내 눈을 의심했다”고 했다. &lt;br&gt;&lt;br&gt;사진에는 ‘주사실 예절’이라는 제목의 안내문 내용이 담겼다. 병원 측은 “바지는 가급적 주사 맞으실 쪽 골반 밑으로 살짝만 내려 달라”며 “일부러 쭉 내려주시는 분들이 계시기 때문에 간곡히 부탁드린다”고 했다. 이어 “저희가 여러 번 말씀드림에도 불구하고 계속 쭉 내려주시면 주사 놓기를 거부하겠다”고 했다. &lt;br&gt;&lt;br&gt;또한 “성희롱이 될 수 있는 발언은 되도록 삼가 달라”며 “그냥 웃자고 농담으로 던진 말이라고 생각하시겠지만 저희는 매우 불쾌하다”고 했다. 그러면서 “병원에서 근무하는 모든 직원은 누군가의 사랑스러운 아내, 딸, 엄마”라며 “저희가 이렇게까지 하는 이유는 아직까지 이런 분들이 너무나도 많기 때문이다. 간곡히 부탁한다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “(안내문에 관해) 간호사님들한테 여쭤보니 ‘나이 든 아저씨, 할아버지들이 하체를 다 벗고 간호사들 성희롱·성추행이 반복돼서 써놨다’고 (하더라)“라며 “나이 든 남자들이 다 그렇지는 않겠지만, 얼마나 적지 않은 사람들이 이러면 저렇게 공지까지 (했겠냐)”라고 했다. &lt;br&gt;&lt;br&gt;이 게시물에는 의료 현장에서 비슷한 경험을 했다는 이들의 댓글이 다수 달렸다. 네티즌들은 “한의원 다니는데 ‘바지 약간만 내려달라’고 했더니 팬티를 오금까지 내리는 분도 있었다” ”발목까지 속옷 내리고 서서 기다리는 경우도 봤다" “심전도 할 때는 상의만 올리면 되는데 바지 내리는 경우도 있었다”고 경험담을 공유했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“벚꽃 한창인데…” 전국 대부분 강풍 속 봄비</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/04/FR4SHFYL45H5NC35H3BZ2B22SQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/04/FR4SHFYL45H5NC35H3BZ2B22SQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Apr 2026 00:38:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4GGMZXHBTGGNJQHBRTANZYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내리는 가운데 시민들이 벚꽃길을 거닐고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 4일은 전국 대부분 지역에 비가 오겠다. 전남권과 경상권, 제주도에는 강한 비가 쏟아질 전망이다. 강원 내륙·산지와 충북 지역은 늦은 오후까지도 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 수도권과 강원 북부 5㎜ 안팎, 충북·전북·제주 5~20㎜, 경북 5~40㎜, 강원영동남부와 전남 10~40㎜, 전남동부와 경남남해안 20~60㎜ 등이다.&lt;br&gt;&lt;br&gt;기상청은 “전남·경상권을 중심으로 시간당 10~20㎜의 강한 비가 내리는 곳이 있을 것으로 예상된다”며 “옹벽 붕괴, 토사 유출, 낙석, 산사태를 조심하고 시설물 관리와 교통사고에 유의해달라”고 했다.&lt;br&gt;&lt;br&gt;이날 전국의 낮 최고 기온은 13~21도로 예보됐다. 당분간 기온은 평년보다 비슷하거나 조금 높겠으나, 낮과 밤의 기온 차가 15도 안팎으로 일교차는 계속 크겠다.&lt;br&gt;&lt;br&gt;강풍특보가 발효된 제주도와 전남 해안을 중심으로 이날 오후까지 바람이 순간풍속 시속 70㎞(20m/s) 이상으로 매우 강하게 불고, 그 밖의 전국 대부분 지역에도 시속 55㎞(15m/s)의 강한 바람이 불겠다. &lt;br&gt;&lt;br&gt;미세먼지 농도는 전 권역이 ‘좋음’에서 ‘보통’으로 예상된다. 다만 수도권과 충청권 일부, 부산·울산·경남은 일시적으로 ‘나쁨’으로 예보됐다.&lt;br&gt;&lt;br&gt;일요일인 5일은 전국이 대체로 흐리다가 오전부터 차차 맑아질 것으로 보인다. 하지만 밤부터 다시 차차 흐려져 늦은 밤에는 인천과 경기 북서부에 비가 내리겠다. 아침 최저 기온은 2~10도, 낮 최고 기온은 14~20도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공해 적응 훈련하고 왕진도 받네… ‘도심 나무’가 사는 법</title>
       <link>https://www.chosun.com/national/weekend/2026/04/04/6PH3QAUOUJFGVPOGLGUCYOBKVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/04/04/6PH3QAUOUJFGVPOGLGUCYOBKVA/</guid>
@@ -875,51 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/777OYCPVUJFPTELJMR4VGSOKSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 신명이 나다, 우쭐해지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/04/03/3QGWNZOXHZCVJK3376MSSSH6BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/04/03/3QGWNZOXHZCVJK3376MSSSH6BM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2G3677EUMBBZ7PEFNKZCKVDVEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] choose one’s battles</title>
-      <link>https://www.chosun.com/national/nie/english/2026/04/03/KELYKND4SNEFXGZ5AMII2OIM74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/04/03/KELYKND4SNEFXGZ5AMII2OIM74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTT5TGSOA5BNJHDJSGVKZEDHFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 3일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/02/4VWURI2FG5BP5JDTONOO4TZEII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/02/4VWURI2FG5BP5JDTONOO4TZEII/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 14:31:00 +0000</pubDate>
-      <content:encoded>금 - 전국 대부분 오후부터 흐려지고 곳곳에 비&lt;br&gt;&lt;br&gt;토~일 - 토요일 낮까지 비 소식&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5YZ5WC6DVFVHEJBN3FFQAPFVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘커피 3잔’ 알바 고소한 점주, 비난 여론에 고소 취하</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/04/02/D3FWS5BUDFC3RFUBBSRQYYUJB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/04/02/D3FWS5BUDFC3RFUBBSRQYYUJB4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 14:12:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3DONBQHA4DGOLDMFTDMNJZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주청원경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근길에 음료 3잔을 가져간 아르바이트생을 횡령 혐의로 고소한 카페 업주가 고소를 취하했다. &lt;br&gt;&lt;br&gt;2일 경찰에 따르면 청주에서 프렌차이즈 카페를 운영하는 점주 A씨는 이날 변호사를 통해 청주청원경찰서에 전 아르바이트생 B(21)씨에 대한 고소 취하서를 제출했다. 사건이 언론에 보도되면서 여론이 악화하자 이런 결정을 내린 것으로 알려졌다. &lt;br&gt;&lt;br&gt;하지만 업무상횡령죄는 반의사불벌죄에 해당하지 않아, 경찰은 수사를 계속 진행할 예정이다. &lt;br&gt;&lt;br&gt;이번 사안과 관련, 고용노동부는 해당 카페에 대한 기획 감독에 착수했다. 또 해당 프랜차이즈 본사도 조사를 진행하고 있다. &lt;br&gt;&lt;br&gt;앞서 A씨는 아르바이트생 B씨가 지난해 10월 2일 오후 10시 34분쯤 퇴근하면서 아이스 아메리카노 등 1만2800원 상당의 음료 3잔을 무단으로 제조해 챙겨갔다며 업무상 횡령 혐의로 B씨를 고소했다. &lt;br&gt;&lt;br&gt;B씨는 “모두 제조 실수로 인한 폐기 처분 대상이었다”며 억울함을 호소했고, 업주는 “규정과 달라 횡령이 맞다”며 팽팽히 맞섰다. &lt;br&gt;&lt;br&gt;경찰은 B씨의 혐의가 인정된다고 보고 그를 검찰에 불구속 송치했다.현재는 검찰이 증거 보강 등을 이유로 보완수사를 요구하면서 경찰이 수사를 이어가고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘노란봉투법’ 시행 후 원하청 사용자성 첫 인정</title>
-      <link>https://www.chosun.com/national/labor/2026/04/02/GLUUHE2SV5DA7MF44RENXXHAOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/02/GLUUHE2SV5DA7MF44RENXXHAOI/</guid>
-      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 11:16:44 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6A62KUTNZCEJNM354POCWE5Z4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 조합원들이 지난 3월10일 서울 종로구 세종대로 일대에서 열린 민주노총 투쟁 선포대회에서 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노란봉투법(노동조합 및 노동관계조정법 2·3조개정안) 시행 이후 처음으로 원청 사측이 하청 노조의 사용자에 해당한다는 노동위원회의 판단이 나왔다. 하청 노조가 비교적 사용자성 인정이 쉬운 산업 안전 관리 분야 등을 내세워 원청과 교섭 테이블을 차리게 될 것이란 그동안의 예측이 현실화된 것이다. 사용자성 인정이 불확실하다는 이유로 교섭을 거부해 온 원청 업체들 입장에선 하청 노조들의 계속된 교섭 요구에 시달릴 가능성이 커졌다.&lt;br&gt;&lt;br&gt;2일 충남지방노동위원회는 한국원자력안전기술원, 한국원자력연구원, 한국자산관리공사, 한국표준과학연구원 하청 노조가 제기한 ‘교섭 요구 사실 공고에 대한 시정 신청’에 대해 원·하청 간 사용자성이 인정된다고 결론 내렸다. 충남지방노동위는 “용역 계약서 및 과업 내용서 등에서 각 공공기관이 하청 근로자들의 안전 관리 및 인력 배치 등에서 노동조합법상 실질적인 사용자의 지위에 있다고 인정된다”고 밝혔다. 이에 따라 한국원자력연구원 등은 하청 노조의 교섭 요구 사실을 7일간 공고한 뒤 교섭에 돌입해야 한다.&lt;br&gt;&lt;br&gt;---------------------------&lt;br&gt;&lt;br&gt;한국원자력안전기술원 등 공공 부문 원청 업체와 교섭을 요구한 하청 노조는 청소나 경비, 시설 관리 등을 하는 노동자들이다. 이들은 “하청 업체가 아닌 원청 업체가 안전과 복리후생, 근로조건, 임금 등을 결정하는 진짜 사장”이라고 주장했는데, 이날 충남지방노동위는 안전 관리 등 일부 교섭 의제에 대해 사용자성을 인정하며 노조 손을 들어줬다.&lt;br&gt;&lt;br&gt;노동계에선 이번 결정을 계기로 원청 업체를 상대로 한 하청 노조의 교섭 요구가 크게 확대될 것으로 전망한다. 노란봉투법 통과 이전부터 산업 안전 분야 등 비교적 사용자성 인정이 쉬운 교섭 의제를 내세워 하청 노조의 교섭 요구가 이어질 것이란 관측이 많았다. 박지순 고려대 법학전문대학원 교수는 “현재 교섭을 거부 중인 원청 사업장을 중심으로 사용자성을 인정받기 위한 시정 신청 등이 대거 확대될 것”이라며 “기업들은 하청 노조의 상시적 교섭 요구에 시달릴 가능성이 크다”고 했다. 국회 기후에너지환경노동위원회 소속 조지연(국민의힘) 의원에 따르면, 지난달 10일부터 30일까지 노동위에 접수된 교섭 관련 조정 신청은 267건이었다. &lt;br&gt;&lt;br&gt;특히 이는 원·하청 노사 간 교섭 의제가 백화점식으로 늘어날 것이란 우려로도 연결된다. 충남지방노동위는 이날 원·하청 간 교섭 의제를 특정했지만, 일단 원·하청 간 교섭 테이블이 차려지면 사용자성이 인정되는지 불확실한 교섭 의제도 논의 대상이 될 수밖에 없다는 게 전문가들의 공통된 지적이다. 한 대기업 노무 담당자는 “결국 하청 노조가 바라는 건 처우 개선이며 그 핵심은 임금 인상”이라며 “교섭이 시작되면 교섭 의제를 합의해주지 않으면서 이면 합의로 임금 인상 등을 끊임없이 요구할 것”이라고 했다. 실제로 금속노조는 지난달 정기 대의원 대회에서 임금 인상을 원청 교섭의 핵심 의제로 정했다고 공표하기도 했다.&lt;br&gt;&lt;br&gt;전문가들은 충남지방노동위가 용역 계약서 및 과업 지시서 등을 언급하며 안전 관리 분야를 원·하청 교섭 의제로 인정한 것에도 주목하고 있다. 고용노동부는 지난 2월 확정한 노란봉투법 해석 지침에서 ‘공장 관리자가 청소 용역업체에 일별 작업 장소 배정 등을 과업 지시서를 통해 정하거나 결과 기준을 제시하는 경우’ 등을 예로 들며, 이는 도급·위임 계약 관계에서 ‘일반적 지시권’에 해당해 원청이 하청을 구조적으로 통제하는 경우로 보기 어렵다고 설명했다. 그런데 노동위는 과업 지시서 등을 언급하며 청소나 시설 관리를 맡은 하청 업체 노조와 원청 업체 간 사용자성을 인정했다. 이를 두고 노동위가 예상보다 원·하청 간 ‘구조적 통제’ 개념을 더 넓게 해석할 것이란 분석이 나온다.&lt;br&gt;&lt;br&gt;치열한 법적 다툼 역시 본격화 될 것으로 보인다. 노사 양측은 결정문을 받은 뒤 10일 이내에 중앙노동위원회에 재심 청구를 할 수 있고, 여기에도 불복하면 행정법원에서의 소송도 할 수 있다. 노동부 등에 따르면 800여 하청 노조가 교섭을 요구했는데, 이 중 상당수가 행정법원까지 가서 사용자성을 두고 다툴 것으로 전망된다. 특히 이날 사용자성이 인정된 공공 부문의 경우 정부의 예산 집행 등에 의해 하청의 임금 등이 결정되는 구조기 때문에, 하청 노조가 정부를 상대로 교섭 요구를 할 수 있어 셈법이 더 복잡하다. 다만 기업 입장에선 법원에서 다투더라도 일단 교섭 테이블을 차리지 않으면 부당 노동 행위가 되는 만큼 불확실성을 안고 가야 하는 부담은 고스란히 남는다.&lt;br&gt;&lt;br&gt;이날 결정 후 민주노총은 즉각 성명을 내 원청 업체들에 대한 압박을 이어갔다. 민주노총은 “원청 사용자들은 더 이상 숨을 곳이 없다”며 “법과 제도, 그리고 사회적 판단은 이미 ‘진짜 사용자’가 누구인지 가리키고 있다. 이제 남은 것은 회피가 아니라 책임 있는 응답뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>MBK·영풍 가처분 최종 기각... “고려아연 주총 의결권 제한, 문제 없어”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/02/2NKZONSTZJFA5MWIQYQ4EGSZUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/02/2NKZONSTZJFA5MWIQYQ4EGSZUM/</guid>
@@ -927,15 +944,6 @@
       <description/>
       <pubDate>Thu, 02 Apr 2026 11:38:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRDCZDBHBSDIM3CMY2DGMDCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 고려아연 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 영풍과 MBK파트너스가 고려아연을 상대로 “영풍의 정기 주주총회 의결권 행사를 허용해달라”며 낸 가처분 신청이 대법원에서 최종 기각됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 2일 영풍·MBK가 고려아연을 상대로 낸 ‘의결권 행사 허용 가처분’ 사건 재항고심에서 “의결권 제한은 정당하다”며 영풍 측 재항고를 기각했다.&lt;br&gt;&lt;br&gt;사건의 발단은 작년 초 고려아연 주총을 앞두고 벌어진 ‘상호주 의결권 제한’ 공방이다. 상법은 A사가 B사 주식을 10% 넘게 가지고 있으면, 거꾸로 B사가 가진 A사 주식은 의결권을 행사할 수 없도록 규정한다. 계열사를 동원해 서로의 의결권을 부풀리는 것을 막기 위한 장치다.&lt;br&gt;&lt;br&gt;최윤범 고려아연 회장 측은 1월 임시 주총 직전 호주 손자회사 썬메탈코퍼레이션(SMC)가 영풍 주식을 사들이게 해 지분율을 10.03%로 맞췄고, 이를 근거로 상호주 제한을 적용해 영풍 의결권을 정지시켰다.&lt;br&gt;&lt;br&gt;영풍 측은 즉각 반발했다. 주총 의결권을 행사할 주주를 정하는 기준일(2024년 12월 31일) 당시에는 SMC의 영풍 지분이 10%에 미치지 않아 상호주 관계 아니었기 때문에 의결권 제한은 부당하다고 주장했다.&lt;br&gt;&lt;br&gt;최 회장 측은 SMC가 보유한 영풍 지분을 자회사 썬메탈홀딩스(SMH)로 넘겨 새로운 상호주 관계를 만들었고, 이를 근거로 그해 3월 정기 주총에서도 영풍 의결권을 제한했다. 그러자 영풍·MBK 연합이 낸 것이 이번 가처분이다. &lt;br&gt;&lt;br&gt;그러나 서울중앙지법은 가처분 신청을 받아들이지 않았다. 영풍 측이 불복해 항고했으나 같은 해 6월 서울고법에서 기각됐고, 이날 대법원도 같은 판단을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광명 신안산선 붕괴사고, 전형적 ‘인재(人災)’였다</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/02/IXM5Z5Q52FAEFN7QK3L4LZGGV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/02/IXM5Z5Q52FAEFN7QK3L4LZGGV4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 05:51:27 +0000</pubDate>
-      <content:encoded>작년 발생한 경기 광명 신안산선 터널 붕괴 사고는 실수와 관리 부실이 겹친 전형적인 ‘인재(人災)’였던 것으로 확인됐다. 설계부터 시공, 감리까지 모든 과정에서 문제가 있었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4WGZBRMNSGEZJVGU2WCNRVGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 4월 경기 광명시 일직동 신안산선 복선전철 5-2공구 붕괴 현장에서 수색 작업이 벌어지고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 국토교통부는 이 같은 내용이 담긴 건설사고조사위원회 조사 결과를 발표했다. 사고는 작년 4월 광명시 일직동 양지사거리 인근에서 발생했다. 지하에서 터널을 뚫던 중 구조물이 무너지면서 위 도로까지 내려앉았고, 이로 인해 작업자 1명이 숨지고 1명이 크게 다쳤다. 추가 붕괴 우려로 인근 주민 약 2300명이 체육관과 학교 등으로 대피하기도 했다.&lt;br&gt;&lt;br&gt;조사 결과, 터널을 지탱하는 핵심 구조물인 중앙기둥이 애초에 충분한 하중을 견디지 못하는 상태로 설계된 것으로 나타났다. 기둥이 견뎌야 할 무게를 실제보다 약 2.5배 적게 계산한 것이다. 이런 설계 오류는 이후 단계에서도 걸러지지 않고 그대로 공사로 이어졌다.&lt;br&gt;&lt;br&gt;공사 과정에서도 지반 상태를 제대로 확인하지 않는 등 전반적인 관리 부실이 확인됐다. 터널을 뚫을 때는 전문가가 직접 앞쪽 암반 상태를 확인해 위험 요소를 파악해야 하지만, 일부 구간에서는 이를 사진으로만 확인한 것으로 조사됐다. 매일 실시해야 하는 자체 점검과 정기 점검도 제대로 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;시공 과정에서도 설계와 다른 방식으로 공사가 진행됐다. 터널을 좌우로 굴착할 때는 양쪽의 깊이 차이를 20m 이내로 유지해야 했는데, 실제로는 36m까지 차이가 생긴 것으로 조사됐다. 감리는 공사 과정에서 안전 문제가 생기면 이를 발주자에게 보고했어야 하지만, 이마저도 지켜지지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;국토부는 설계 오류와 시공·감리 부실에 따라 시공사인 포스코이앤씨를 비롯해 설계사와 감리사에 대해 영업정지 등 행정 처분을 추진할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
