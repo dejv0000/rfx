@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>KBS 기자, 근무시간 음주운전… 차량 여러대 들이받아</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/05/5TDBTYBBM5B33D2GVPE7VGY2ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/05/5TDBTYBBM5B33D2GVPE7VGY2ZE/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 10:45:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7LQNR72KFEPDMC237PO5WU5CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서. /영등포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 KBS 기자가 근무시간 중 음주운전을 하다 주차된 차량 여러 대를 들이받는 사고를 냈다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, KBS 소속 기자 A씨는 지난 3일 오후 4시 35분쯤 서울 영등포구에서 술을 마신 채 운전하다 주차된 차량 여러 대를 들이받았다. 이 사고로 인한 인명피해는 없었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 A씨의 음주 사실을 확인했다. 경찰은 조만간 A씨를 불러 정확한 사고 경위를 조사한 뒤 입건할 방침이다.&lt;br&gt;&lt;br&gt;A씨는 6·3 전국동시지방선거를 앞두고 꾸려진 KBS 선거방송기획단 소속 관리자급 인사인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;KBS는 사고 당일 A씨에게 대기 발령 조치를 내렸다. KBS 관계자는 “당일 사고를 인지한 즉시 해당 운전자를 보직 해임했다”며 “관련자들은 전원 징계위에 회부해 철저한 진상 조사를 거쳐 무관용 원칙으로 처리할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 화순서 규모 2.4 지진… 창문·그릇 흔들리는 정도</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/05/5O4A7EUNEND3FHNLO33APWRNVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/05/5O4A7EUNEND3FHNLO33APWRNVM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 13:59:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3GEM3GGBSDGZJQGMYGCY3BMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 전남 화순에서 발생한 지진 발생지./기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 5일 오후 10시 10분 26초 전남 화순군 동북동쪽 8㎞ 지역에서 규모 2.4의 지진이 발생했다. &lt;br&gt;&lt;br&gt;기상청에 따르면 진앙은 북위 35.08도, 동경 127.07도이며 진원 깊이는 11㎞이다.&lt;br&gt;&lt;br&gt;이번 지진으로 인해 전남 지역에는 진도 4의 흔들림이 전달됐다. 이는 일부가 잠에서 깨며, 그릇과 창문 등이 흔들릴 수 있는 규모다.&lt;br&gt;&lt;br&gt;기상청은 “지진 발생 인근 지역은 지진동을 느낄 수 있다”며 “안전에 유의하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광명 서해안고속도로에서 SUV 화재…3명 대피</title>
+      <link>https://www.chosun.com/national/regional/2026/04/05/ZUUXQ5OSERHYLJANJZ5FH7UYVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/05/ZUUXQ5OSERHYLJANJZ5FH7UYVY/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 13:12:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44WIMTFMY3WKMZUG42GEZLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 경기 광명시 소하동 서해안고속도로 일직분기점(JC)에서 발생한 화재 당시 상황이 한국도로공사 CCTV에 찍힌 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 8시 5분쯤 경기 광명시 소하동 서해안고속도로 일직분기점(JC) 목포 방향 부근 갓길에 서 있던 스포츠유틸리티차(SUV)에서 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 당시 SUV 운전자와 동승자 등 3명은 스스로 대피해 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;불은 차량을 모두 태운 뒤 발생 30여 분 만인 오후 8시 38분쯤 진화됐다.&lt;br&gt;&lt;br&gt;SUV 운전자는 소방 당국에 “주행 중 차량 이상이 발생해 갓길에 정차했는데 불이 났다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 운전자 진술 등을 토대로 정확한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;소방 당국 관계자는 “사고 차량은 경유차로 확인됐다”며 “자세한 화재 원인은 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“못 내렸다” 청량리역서 열차 문 열고 선로 침입…1호선 한때 지연</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/05/NCAQFCZEGNHUJNHMAHUPOPSX2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/05/NCAQFCZEGNHUJNHMAHUPOPSX2I/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 12:29:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMMBNFI2E5JU7HUHV42HWXEMHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;사진은 3일 오후 퇴근시간대 서울 지하철 1호선 종각역을 이용하는 시민들 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 지하철 1호선에서 미처 내리지 못한 승객이 강제로 문을 열고 선로로 내려가는 사건이 발생해 열차 운행이 한때 지연됐다. &lt;br&gt;&lt;br&gt;서울교통공사에 따르면 이날 오후 5시 20분쯤 청량리역에 정차 중이던 열차에서 50대 남성 A씨가 비상 개방 장치(비상 코크)로 출입문을 열고 선로에 무단 침입했다. &lt;br&gt;&lt;br&gt;당시 열차는 청량리역 종점에서 방향 전환을 위해 대기 중이던 상태였다. &lt;br&gt;&lt;br&gt;A씨는 선로를 따라 이동한 뒤 기관실 방향 통로를 통해 승강장으로 올라온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;CCTV로 이 장면을 확인한 역사 직원이 이날 오후 5시 30분쯤 조치하는 동안 광운대역 방향의 상행선은 약 13분, 하행선은 약 5분간 지연됐다. &lt;br&gt;&lt;br&gt;현재 열차는 정상 운행 중이다. 이 사고로 인명 피해는 없는 것으로 파악됐다． &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어묵 국물에 포장순대 봉지째 ‘둥둥’…연제고분축제 위생 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/05/GLWKGKACJ5CKVNCCDS4MNKIKJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/05/GLWKGKACJ5CKVNCCDS4MNKIKJE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 12:53:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVA4GF62N5EHFJU63DMCG24IAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포장 순대가 어묵 국물에 담겨 있는 모습. /소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 연제고분축제의 한 노점에서 순대를 봉지째 어묵 국물에 집어넣은 모습이 포착돼 위생 문제가 대두됐다.&lt;br&gt;&lt;br&gt;5일 한 네티즌은 소셜미디어에 “온천천 연제고분축제. 순대를 봉지째 찌고 있고 오뎅 국물 안에 순대 봉지째로 넣어 삶는 중”이라고 했다.&lt;br&gt;&lt;br&gt;그가 올린 사진을 보면, 순대찜기에 순대가 포장 봉지를 뜯지 않은 채 그대로 들어있다. 또 다른 사진에는 어묵을 끓이는 큰 냄비 안에 순대가 봉지째 들어가 있다.&lt;br&gt;&lt;br&gt;시판 포장 순대를 봉지째 중탕하며 데우는 방식은 제조사가 허용하는 조리법 중 하나다. 다만 손님들에게 제공하는 어묵과 어묵 국물과 함께 포장지를 끓이는 것은 비위생적이라는 지적이 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUPF4IKWIRGIHN523NLDEADYLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포장을 뜯지 않은 순대를 그대로 찜기에 찐 모습. /소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네티즌들은 “어묵 국물에 순대를 데우다니 말이 안 된다” “지자체에 신고해야 한다” “축제 음식은 가격과 위생이 문제” 등의 반응을 보였다. 가열 과정에서 포장재 소재에 따라 미세 플라스틱이 스며 나올 수도 있다는 우려도 나온다. &lt;br&gt;&lt;br&gt;앞서 지난 2월 강원 태백시에서 열린 ‘태백산 눈축제’에서도 한 노점 주인이 얼어붙은 막걸리병을 어묵탕 솥에 집어넣는 장면이 소셜미디어를 통해 퍼지면서 논란이 됐다. 강원 태백시는 문제가 된 점포를 즉각 철거했다. &lt;br&gt;&lt;br&gt;연제고분축제는 지난 3~5일 부산 연제구 연산동 온천시민공원과 고분군 일원에서 열리는 지역 행사다. 주제는 ‘연제, 판타지로 피어나다’로 역사적 요소에 공연과 체험을 결합한 프로그램들을 마련했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X5P3E3WYYJFMLNX3IN3IH3DABA.jpg?auth=94ae8d3c052937d2622516fb74adb128107b8f6113ab22473fce97f8bc1c7882&amp;smart=true&amp;width=571&amp;height=428" type="image/jpeg" height="428" width="571">
+        <media:description type="plain">포장 순대가 어묵 국물에 담겨 있는 모습. /소셜미디어</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>노년층 ‘출퇴근 시간대’ 무임승차 제한 검토 없던 일로...대신 ‘에너지 절약 캠페인’</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/05/K4RLDZE7L5CTHLHNHMWMJHFXRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/05/K4RLDZE7L5CTHLHNHMWMJHFXRE/</guid>
+      <dc:creator>조성호 기자, 오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 11:43:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZZFVKFW4NKEZN6JFGNZRRNSPQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노후희망유니온 조합원들이 지난달 26일 서울 종로구 청와대 분수대 앞에서 열린 '대중교통 노인우대제도 축소 규탄 기자회견'에서 이재명 대통령의 출퇴근 시간대 노인 대중교통 우대제도 축소 검토 발언을 규탄하는 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 노년층 대중교통 무임승차 제도의 ‘출퇴근 시간대 이용 제한’을 검토하지 않기로 했다. 앞서 이재명 대통령이 지난달 말 에너지 절약 차원에서 해당 방안을 언급한 뒤 관계 부처들이 검토에 들어갔지만, 관련 논의를 중지하겠다는 것이다. 다만 정부는 대한노인회와 함께 노년층을 대상으로 한 ‘에너지 절약 솔선수범 캠페인’을 추진하기로 했다.&lt;br&gt;&lt;br&gt;5일 대한노인회에 따르면, 홍익표 청와대 정무수석은 지난 3일 이중근 노인회장 등과 진행한 간담회에서 “어르신 세대의 복지를 축소하는 정책은 없을 것이고, 어떠한 불이익도 없게 하겠다”며 “어르신들의 무임승차를 제한하는 계획은 없다”고 밝혔다고 한다. 노인회 측은 지난달 말 ‘출퇴근 시간대 무임승차 제한’ 검토 방안이 언급되자, “생계형 노인들이 피해를 볼 수 있다”면서 반대해왔다. &lt;br&gt;&lt;br&gt;일단 무임승차 제한 검토는 더 이상 없지만, 노년층의 출퇴근 시간대 대중교통 이용을 자제하자는 캠페인은 진행될 전망이다. 이날 보건복지부는 “대한노인회 및 한국노인종합복지관협회와 함께 어른신이 솔선수범해 에너지 절약에 앞장서는 합동 캠페인에 나선다”고 밝혔다. 여기에는 걷거나 대중교통 이용하기, 혼잡한 출·퇴근 시간을 피해 낮 시간에 이용하기 등과 같은 내용이 들어간다. 노인회 관계자는 “청와대 간담회에 앞서 노인회 중앙회 차원에서 매달 진행하는 자원봉사에서 에너지 절약 캠페인을 진행하겠다는 입장을 정부에 전달했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주서 묘지 비석 설치하던 60대 직원, 비석에 깔려 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/04/05/7SLPPMC5DBCSFKRFZ5BY7WIQHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/05/7SLPPMC5DBCSFKRFZ5BY7WIQHA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 11:55:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSDIMRZMM4DCYJSGM3DOODGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 충북 청주시 서원구 남이면에서 60대 남성 A씨가 묘지 비석에 깔리는 사고가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 3시 42분쯤 청주시 서원구 남이면 한 공원묘지에서 묘지 비석을 설치하던 60대 남성 A씨가 비석에 깔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;현장에 함께 있던 비석 설치 의뢰자의 신고로 출동한 소방 당국은 A씨를 병원으로 이송했으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;공원묘지 관리 직원인 A씨는 홀로 기울어진 비석을 세우는 작업을 하다가 변을 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남선관위, 경선 운동 ‘불법 전화방’ 운영한 예비후보 등 15명 고발</title>
+      <link>https://www.chosun.com/national/regional/2026/04/05/PK5UXZ7JRFAHZMFF3774OQG3RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/05/PK5UXZ7JRFAHZMFF3774OQG3RI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 10:25:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRDGN3FMVSWKYLBGAZDGZJUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남선관위가 적발한 '불법 전화방' 운영 증거물. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 전국동시지방선거를 앞두고 전남 지역에서 당내 경선 운동을 위한 ‘불법 전화방’ 운영 사례가 적발됐다.&lt;br&gt;&lt;br&gt;전남선거관리위원회(전남선관위)는 불법 경선운동 전화방을 설치해 운영하고 경선운동원들에게 금품을 제공하려 한 시장 예비후보자 A씨와 총책 B씨 등 15명을 공직선거법 위반 혐의로 전남경찰청에 고발했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 이달 초 실시한 당내경선 여론조사를 앞두고 지난 3월부터 선거사무소와 별개로 불법 전화방을 운영하며 당원과 선거구민을 대상으로 조직적인 경선운동을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;전남선관위 광역조사팀은 지난 3일 경선운동원 13명이 휴대전화를 이용해 지지를 호소하던 현장을 급습해 이들을 적발했다. 현장에서는 총책 B씨가 운동원들에게 지급하기 위해 보관 중이던 현금 781만원이 수거됐다.&lt;br&gt;&lt;br&gt;발견된 현금은 65만원에서 100만원씩 봉투에 나눠 담겨 있었다. 봉투마다 지급 대상자의 성명이 기재돼 있었다. 운동원들은 수당을 받지 않았다고 부인했으나 현장에서 출근부가 함께 발견되면서 조직적인 매수 시도 정황이 나타났다.&lt;br&gt;&lt;br&gt;현장에서는 금품 외에도 대규모 선거 관련 자료가 발견됐다.&lt;br&gt;&lt;br&gt;선관위는 입당원서 사본 8600매와 시민 5만4000여명의 명단과 전화번호부 DB(데이터베이스), 선거인별 지지 성향 분석 자료 등을 확보해 경찰에 증거물로 송부했다.&lt;br&gt;&lt;br&gt;현행 공직선거법은 법이 정한 방법 외의 경선운동을 엄격히 금지하고 있으며, 위반할 경우 2년 이하의 징역 또는 400만원 이하 벌금이 내려진다. &lt;br&gt;&lt;br&gt;경선 관계자에게 금품을 제공하거나 제공 의사를 표시한 경우 3년 이하의 징역 또는 1000만 원 이하 벌금으로 처벌된다.&lt;br&gt;&lt;br&gt;전남선관위 관계자는 “금품 제공과 조직적 전화 운동이 결합된 행위는 선거의 공정성을 심각하게 훼손하는 중대 범죄”라며 “불법 선거행위에 대해 무관용 원칙을 적용해 엄정하게 조치할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안양 교차로서 시내버스·오토바이 충돌…50대 오토바이 운전자 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/04/05/4G6CWMDJMZCXFL3HDE7Q7ALPUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/05/4G6CWMDJMZCXFL3HDE7Q7ALPUA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 10:35:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26BYCFZTA5X4HRBSLTOOZM56N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안양 만안경찰서 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 2시 12분쯤 경기 안양시 만안구 박달동의 한 교차로에서 시내버스와 오토바이가 충돌해 오토바이를 몰던 50대 남성 A씨가 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 시내버스는 교차로에서 충훈터널 방향으로 정상 신호를 받고 주행 중이었으나, 오른쪽에서 신호를 위반하며 달려오던 오토바이와 부딪힌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 충돌 직전 알 수 없는 이유로 오토바이와 함께 넘어졌고, 그 상태로 미끄러져 들어가 버스 아래에 깔리면서 변을 당한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정상 신호에 따라 주행하던 버스를 향해 오토바이가 돌진하며 사고가 난 것으로 보인다”며 “정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰 ‘故 김창민 영화감독 사건’ 전담 수사팀 구성</title>
       <link>https://www.chosun.com/national/national_general/2026/04/05/D3E2SNWMRZHBNJJPGUVATW6N5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/05/D3E2SNWMRZHBNJJPGUVATW6N5Y/</guid>
@@ -845,36 +929,6 @@
       <content:encoded>검찰이 고(故) 전두환 전 대통령의 미납 추징금을 환수하기 위해 추진한 서울 서대문구 연희동 자택 소유권 이전 소송이 최종 각하되면서, 추징금 환수 시도도 무산됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3TKNRXGIZTANTGMNRDEMRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연희동 전두환 전 대통령 자택의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 대법원 1부(주심 서경환 대법관)는 국가가 이순자 여사와 옛 비서관 이택수씨, 장남 전재국씨 등 연희동 자택 지분 소유자들을 상대로 낸 소유권 이전 등기 소송에서 원심의 각하 판결을 지난 2일 심리불속행 기각으로 확정했다.&lt;br&gt;&lt;br&gt;심리불속행 기각은 형사 사건을 제외한 민사 사건에서 상고 이유에 법리적 문제가 없다고 판단될 경우 별도의 심리 없이 상고를 기각하는 절차다.&lt;br&gt;&lt;br&gt;앞서 검찰은 연희동 자택 본채가 전 전 대통령의 차명 재산이라고 보고, 2021년 10월 소유권을 전 전 대통령 명의로 돌린 뒤 추징금을 집행하기 위해 소송을 제기했다. 이는 같은 해 4월 대법원이 해당 주택을 직접 몰수할 법적 근거는 부족하다고 판단하면서도, 차명 재산으로 인정될 경우 채권자대위 소송을 통해 명의 회복 후 집행이 가능하다고 본 데 따른 것이다.&lt;br&gt;&lt;br&gt;그러나 1심은 2024년 2월 “전 전 대통령 사망으로 추징금 채권이 소멸했다”며 소송을 각하했다. 형사 판결에 따른 채무는 원칙적으로 상속 대상이 아니라는 이유였다. 국가가 항소했지만 2심에 이어 대법원도 같은 판단을 유지했다.&lt;br&gt;&lt;br&gt;이로써 연희동 자택을 통한 전 전 대통령 미납 추징금 환수 시도는 사실상 무산됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘교사와 문항 거래’ 일타강사 조정식 측, “정당한 대가” 혐의 부인</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/03/ZW5KNEVJM5BXHP7E2EKW2O6B2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/ZW5KNEVJM5BXHP7E2EKW2O6B2M/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 07:05:54 +0000</pubDate>
-      <content:encoded>현직 교사에게 거액을 주고 대학수학능력시험(수능) 모의고사 문항 등을 제공받은 혐의를 받는 ‘일타 강사’ 조정식(44)씨 측이 재판에서 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCVOU6LX6UK2GC6ZFY3QTWOPC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수능 영어 강사 조정식씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사4단독 박강균 부장판사는 3일 조씨와 고등학교 현직 교사 3명에 대한 청탁금지법 위반 및 업무상 배임 교사 혐의 사건 첫 공판준비기일을 열었다.&lt;br&gt;&lt;br&gt;영어 강사인 조씨는 자신의 강의용 교재를 제작하는 업체 관계자 김모씨와 공모해 2021년 1월부터 2022년 10월까지 67차례에 걸쳐 8352만원을 건네고 현직 교사 2명에게서 수업에 사용할 영어 문항을 제공받은 혐의(청탁금지법 위반)를 받는다. 또 김씨에게 EBS ‘2022학년도 수능특강 영어독해연습’ 교재가 시중에 출판되기 전 미리 파일을 제공해 달라고 요청한 혐의(업무상 배임 교사)도 있다. &lt;br&gt;&lt;br&gt;조씨 측은 “시장 가격대로 거래가 이뤄졌고, 정당한 거래에 해당한다”며 혐의를 부인했다. 특히 청탁금지법 위반 혐의와 관련해 법이 금지하는 금품 수수에 해당하는 행위가 없었다고 주장했다. 다른 피고인들도 “문항 출제 용역 계약에 따라 실제로 용역을 수행하고 받은 대가”라며 이는 청탁금지법 8조 3항 3호에서 예외로 인정하는 ‘사적 거래로 인한 정당한 권원(근거)에 의해 제공되는 금품’에 해당한다고 주장했다.&lt;br&gt;&lt;br&gt;청탁금지법은 공직자들이 직무와 관련해 동일인으로부터 1회에 100만원 또는 매 회계연도에 300만원을 초과하는 금품 등을 받지 못하도록 규정하지만, ‘증여를 제외한 사적 거래로 인한 채무의 이행 등 정당한 권원에 의해 제공되는 금품 등’에 대해서는 예외를 인정한다.&lt;br&gt;&lt;br&gt;재판부는 검찰 측에 “청탁금지법 8조 3항 3호의 해석 문제가 이번 사건의 핵심 쟁점”이라며 “정당한 권원의 범위를 어떻게 볼 것인지, 왜 피고인들의 거래가 정당한 거래 내에서 제공되는 금품 수수가 아니라고 보는지 기소 취지를 명확히 밝혀달라”고 요청했다.&lt;br&gt;&lt;br&gt;재판부는 오는 5월 22일 공판준비기일을 한 번 더 열고 양측의 증거 의견 등을 정리하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YRR7RLZ235HQREBKE3HLIK7YNI.jpg?auth=129c6a748c54e2a58aba6e8bab8f4b30ecf9398e1cbb9ab1e2ea5e8bc7e0c2bb&amp;smart=true&amp;width=2065&amp;height=1549" type="image/jpeg" height="1549" width="2065">
-        <media:description type="plain">유명 영어 강사 조정식씨. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>몸집 키우고 체질 바꾸는 국립창원대… ‘국가 대표 대학’ 노린다 </title>
-      <link>https://www.chosun.com/national/2026/04/03/WGI6JLCNBRGYTGIYU7BDJSV7XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/03/WGI6JLCNBRGYTGIYU7BDJSV7XU/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 05:30:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIBYJVDSQJBMPJERZDQQ7NQ4ZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;국립창원대학교 정문 일대에 조성되는 '아레나 플렉스(ARENA PLEX) 창원' 조감도. /국립창원대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2개 도립대학과 통합하며 몸집을 키운 국립창원대학교가 대형 국책 사업과 산학 협력 프로젝트를 통해 교육·연구 시설을 잇따라 유치하며 질적 성장까지 이루고 있다. 대외 경쟁력 확보는 물론 미래 산업 기반을 구축했다는 평가다. &lt;br&gt;&lt;br&gt;국립창원대는 박민원 총장 취임 2년 만에 대학 내에 교육 및 연구 시설 5곳을 유치했다고 3일 밝혔다. &lt;br&gt;&lt;br&gt;가장 눈에 띄는 성과는 400억원 규모의 스포츠·문화 복합 단지 ‘아레나 플렉스(ARENA PLEX) 창원’ 프로젝트다. 경남 지역 최대 규모의 스포츠·문화 시설로 기획 단계부터 주목받았다. &lt;br&gt;&lt;br&gt;국립창원대 정문 옆 주차장 부지에 지상 3층, 연면적 8800㎡ 규모로 건립된다. 1층에는 실내 수영장과 카페, 2~3층은 팝업 스토어와 문화 전시실, 암벽 등반 시설 등으로 채워진다. 지난해 설계 용역에 착수했다. 2030년 준공 예정이다.&lt;br&gt;&lt;br&gt;지역 대학 최초로 대학 내에 500억원 규모의 ‘LG전자 HVAC(냉난방공조) 연구센터’를 유치한 것도 눈에 띈다. 이 센터는 친환경·에너지 효율 기술을 연구하는 미래형 연구 시설로, 산업적 파급 효과가 클 것으로 예상된다. 국립창원대는 지난달 27일 대학본부에서 LG전자와 ‘HVAC 연구센터 건립 기부채납 약정서 체결식’을 가졌다. 기업과 대학이 공동으로 연구·개발에 나서고, 인재 양성에 협력하는 등 산학일치 체계를 본격 가동하기로 약속했다.&lt;br&gt;&lt;br&gt;사업 포트폴리오 다변화도 진행 중이다. 사천 우주항공캠퍼스 강의동 건립 사업과 노후 동력실을 첨단 산업 연구 시설로 탈바꿈시키는 리모델링 프로젝트(예비 선정)를 확보했다. 우주항공 분야는 국가 전략 산업인 만큼, 이번 수주는 단순 건설 사업 이상의 의미가 있다는 분석이다.&lt;br&gt;&lt;br&gt;대학 안팎에서는 이 같은 성과가 외형 확장을 넘어 질적 성장으로 이어지고 있다고 평가하고 있다. 박민원 국립창원대 총장은 취임 후 ‘선택과 집중’ 전략을 통해 고부가가치 프로젝트 중심의 수주 체계를 구축했다. 또 내부 조직의 전문성을 강화하고 의사 결정 구조를 효율화해 변화에 능동적으로 대응할 수 있는 기반을 닦았다.&lt;br&gt;&lt;br&gt;국립창원대 대학본부 관계자는 “총장 임기 중 건물 한 개를 수주하기도 어려운 상황에서 이미 4개 건물을 확보했다”며 “조만간 이보다 더 큰 규모의 연구 시설 수주가 유력하다”고 설명했다. &lt;br&gt;&lt;br&gt;한편 국립창원대는 지난달부터 경남도립거창대학, 경남도립남해대학과 통합하고 창원·거창·남해·사천을 아우르는 4개 캠퍼스 체제로 출범했다. &lt;br&gt;&lt;br&gt;도립대 2곳을 통합하면서 국립창원대는 전국 최초로 일반 학사(4년제)와 전문 학사(2년제)를 함께 운영하는 다층 학사제를 시행한다. 현행 고등교육법상 종합대학은 일반 학사, 전문대학은 전문 학사 과정만 운영할 수 있으나, 국립창원대는 두 도립대를 통합하면서 교육부 규제 특례를 적용받게 됐다.&lt;br&gt;&lt;br&gt;3개 대학 통합 논의는 국립창원대와 전국에서 유일하게 도립대학 2곳을 운영하는 경남도와 이해관계가 맞아떨어지면서 추진됐다. 학령인구 감소와 청년층 수도권 유출, 지방대 경쟁력 약화라는 구조적 위기 극복을 위해 ‘2024 글로컬대학 사업’에 공동 대응하기로 하면서 통합 논의 카드를 꺼냈다. 글로컬대학 사업은 정부가 5년간 1000억원씩 지원하는 사업이다. 국립창원대는 지난 2024년 사업 공모에 선정됐다.&lt;br&gt;&lt;br&gt;국립창원대는 4개 캠퍼스 체제로 운영된다. 창원캠퍼스는 경남의 특화 산업인 방위산업, 원전, 스마트 제조, 나노바이오·수소 에너지 산업을 뒷받침할 R&amp;amp;D 인력 등 일반 학사부터 석·박사까지 고급 인재를 육성하는 역할을 담당한다. 거창캠퍼스는 방산·스마트 제조 기술 인재와 함께 공공보건의료·항노화 휴먼케어 기술 인재를 육성한다. 남해캠퍼스는 항공·해양 방산, 에너지 안전, 관광 융합 인재 육성에 주력한다.&lt;br&gt;&lt;br&gt;작년에 개교한 사천우주항공캠퍼스는 사천 국가항공산단·우주항공청 등과 연계해 첨단 항공우주 산업 인재 양성 거점 역할을 맡는다. &lt;br&gt;&lt;br&gt;박민원 국립창원대 총장은 “4개 캠퍼스 시대는 대학의 DNA와 지역의 DNA를 일치시키는 구조 혁신의 출발점”이라며 “교육과 연구, 산업 현장이 분리되지 않는 체계를 정착시켜 지역·국가 전략산업을 선도하는 대학으로 도약하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, ‘1심 공소 기각’ 김예성 항소심서 “원심 파기해달라” 요청</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/03/6B7YGMCTQNAYBG4STB7NRDZLB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/03/6B7YGMCTQNAYBG4STB7NRDZLB4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 04:54:39 +0000</pubDate>
-      <content:encoded>민중기 특별검사팀이 회삿돈을 횡령한 혐의로 1심에서 무죄·공소기각 판결을 받은 ‘김건희 집사’ 김예성씨의 항소심에서 원심 판결을 파기해달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43TIOJXGI2GMZLGMFTDAMRQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 일가의 집사로 알려진 김예성씨가 3일 서울 서초구 서울고등법원에서 열린 항소심 공판을 마치고 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 3일 서울고법 형사8부(재판장 김성수) 심리로 열린 김씨의 특정경제범죄가중처벌법상 횡령 등 혐의 사건 결심 공판에서 “원심 판결을 파기하고 사건을 환송해달라”고 했다. 1심이 특검의 수사가 위법하다고 보고 공소 기각 판결을 내린 경우, 항소심에서 원심 판결을 파기해달라고 요청할 수 있다.&lt;br&gt;&lt;br&gt;특검팀은 김씨의 횡령 혐의가 여러 행의가 하나의 죄를 구성하는 포괄일죄인데도 원심이 일부에 대해서만 특검팀 수사 대상이 아니라고 판단한 것은 사실오인·법리오해라고 주장했다. 1심은 김씨가 자신의 페이퍼컴퍼니 ‘이노베스트코리아’ 명의의 IMS모빌리티(옛 비마이카) 주식을 투자자들에게 46억원에 매도한 후 이 중 24억3000만원을 조영탁 IMS모빌리티 대표에게 대여한 혐의(특정경제범죄가중처벌법상 횡령)에 대해 무죄를 선고했다. 김씨가 조 대표와 함께 이노베스트코리아 법인 자금 24억원을 빼돌린 혐의는 공소기각했다. 김건희 특검법상 수사 대상이 아닌 ‘별건 수사’라고 판단했다.&lt;br&gt;&lt;br&gt;김씨 측 변호인은 “특검팀은 별건 수사를 통해 피고인의 개인회사 자금거래를 횡령 혐의로 기소했다”며 “원심 판단에는 어떠한 위법이 없다”고 반박했다. 그러면서 “특검은 ‘관련 사건’이라고 주장하나 이는 수사 편의성·효율성만 강조한 것”이라며 “수사 대상이나 범위가 자의적으로 판단돼 오히려 특별검사 제도의 공정성과 객관성에 흠결이 생기는 결과가 초래된다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 최후 진술에서 “무결한 삶을 산 것은 아니지만 맡은 바 책임을 다하는 삶을 살았다”며 “사회적 물의를 일으켜 송구하다”고 말했다. 재판부는 오는 29일 선고하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병대 간 정동원, 첫 근황 포착…군기 바짝 든 까만 얼굴 화제</title>
       <link>https://www.chosun.com/national/national_general/2026/04/03/NTODUMGGB5B5TPS76FVNEGHPFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/NTODUMGGB5B5TPS76FVNEGHPFY/</guid>
@@ -884,45 +938,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ROIFN63EJHLJAYMPWWHCG5VDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 정동원. /KFN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대에 자진 입대한 가수 정동원(19)의 근황이 처음으로 공개돼 화제가 되고 있다. &lt;br&gt;&lt;br&gt;KFN(옛 국방TV)은 지난 2일 유튜브를 통해 해병대 1327기 병 수료식을 생중계했다. 2007년생인 정동원은 지난 2월 23일 해병대교육훈련단에 입소해 기초 군사훈련을 받고 이날 병 수료식에 참석했다. &lt;br&gt;&lt;br&gt;행사 중 카메라에 포착된 정동원은 훈련으로 인해 까맣게 탄 얼굴과 몰라보게 늠름해진 모습으로 눈길을 끌었다. &lt;br&gt;&lt;br&gt;정동원은 해병대 정복을 입고 행사에 참석해 동기들과 애국가·군가 등을 불렀고, 각 잡힌 거수 경례를 선보였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZDKYRQME2DGNTFGM4GGNDDMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 정동원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입대 전 정동원은 도로교통법 위반(무면허 운전) 혐의로 기소유예 처분을 받았다. 기소유예는 불기소 처분의 하나로 피의 사실은 인정되지만 검사가 범행 경위와 결과 등을 고려해 재판에 넘기지 않기로 하는 결정이다. &lt;br&gt;&lt;br&gt;정동원은 2023년 3월에는 자동차 전용 도로인 서울 동부간선도로에서 오토바이를 몰다 적발돼 기소유예 처분을 받기도 했다. 정동원은 각종 논란이 불거진 후 입대를 전격 결정했다. &lt;br&gt;&lt;br&gt;소속사는 “정동원이 오랜 시간 품어온 뜻에 따른 결정”이라며 “정동원이 스스로와의 약속을 지키기 위해 책임감 있는 선택을 했다”고 했다.&lt;br&gt;&lt;br&gt;정동원은 그간 유튜브 등을 통해 해병대에 자원입대하고 싶다는 의사를 밝혀왔다. 작년 6월에는 해병대 출신 가수 겸 배우 오종혁에게 군 생활에 관한 조언을 듣는 영상을 공개하기도 했다.&lt;br&gt;&lt;br&gt;정동원은 2020년 TV조선 오디션 프로그램 ‘내일은 미스터트롯’에서 5위를 차지하며 이름을 알렸다. 정동원은 18개월간 복무한 후 2027년 8월 전역한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>金총리 “4·3 비극 중심에 불법 계엄… 2024년에도 제주는 계엄 반대”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/04/03/5YHH42ORCZFQJHURVEDE6HODQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/03/5YHH42ORCZFQJHURVEDE6HODQQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 02:28:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WS3QTVE6F5OVZJNAGA6JLIQC6I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 3일 오전 제주4·3평화공원에서 열린 제78주년 4·3 희생자 추념식에서 추념사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 3일 제주 4·3 사건 78주기를 맞아 “78년 전 참혹한 비극의 중심에는 불법 계엄이 있었다”고 주장하며 “이 역사를 잊지 않은 제주도민이 2024년 불법 계엄에서 대한민국 민주주의를 지켜 주셨다”고 말했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오전 제주4·3평화공원에서 열린 추념식에서 추념사를 통해 이같이 말했다. 이승만 정부는 1948년 제주도에서 남로당의 무장 반란을 진압하는 과정에서 11월 17일 정부 수립 이후 처음으로 제주도에 계엄령을 선포했다. 이 선포는 계엄법 입법 전에 이뤄져 불법이라는 주장이 있다. 다만 이 계엄은 이승만 대통령 주재 국무회의 의결과 이 대통령의 서명, 국무위원들의 부서라는 정식 절차를 거쳐 선포된 것이다.&lt;br&gt;&lt;br&gt;김 총리는 “2024년 12월 3일 (윤석열 전 대통령의 계엄 선포로) 불법 계엄의 망령이 되살아났을 때 제주도의회는 지방의회 가운데 가장 먼저 대통령 탄핵 촉구 결의안을 채택했고, 제주인들은 단호한 목소리로 계엄 반대를 외쳤다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 김 총리는 “4·3의 역사를 잊지 않은 제주도민이, 우리 국민이 대한민국 민주주의를 지켜주셨다”며 “깊은 존경과 감사의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이어 “4·3의 여정은 이제 다시 시작”이라고 했다. 그는 “4·3의 진실을 마주하고 올바른 역사를 기록하는 일은 우리 모두가 완수해야 할 시대적, 역사적 사명”이라며 “국민주권정부는 4·3의 진실을 낱낱이 규명하고 4·3 희생자와 유족 여러분의 명예 회복에 최선의 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;◇김민석 국무총리 추념사 전문&lt;br&gt;&lt;br&gt;봄을 반기는 꽃이 제주 곳곳에 흐드러지게 피었습니다.&lt;br&gt;&lt;br&gt;그러나 제주도민의 마음에 봄은 아직 먼 것 같습니다.&lt;br&gt;&lt;br&gt;내 가족이자 이웃이었던 3만여 명의 제주도민이 희생된 7년 7개월의 비극 속에서도 오랜 시간 침묵할 수밖에 없었던 제주도민의 가슴 깊이, 동백꽃 같은 붉은 피멍이 남아 있기 때문입니다.&lt;br&gt;&lt;br&gt;무고하게 희생되신 영령들의 넋을 기리며 삼가 머리 숙여 명복을 빕니다.&lt;br&gt;&lt;br&gt;통한의 세월을 견뎌오신 유가족 분들께도 깊은 위로의 말씀을 드립니다.&lt;br&gt;&lt;br&gt;존경하는 4·3 생존 희생자와 유가족 여러분, 그리고 제주도민 여러분, 78년 전 참혹한 비극의 중심에는 불법 계엄이 있었습니다.&lt;br&gt;&lt;br&gt;2024년 12월 3일 불법 계엄의 망령이 되살아났을 때, 제주도의회는 지방의회 가운데 가장 먼저 대통령 탄핵 촉구 결의안을 채택했고 제주인들은 단호한 목소리로 계엄 반대를 외쳤습니다.&lt;br&gt;&lt;br&gt;4·3의 역사를 잊지 않은 제주도민이, 우리 국민이 대한민국 민주주의를 지켜주셨습니다.&lt;br&gt;&lt;br&gt;다시 한번, 깊은 존경과 감사의 말씀을 드립니다.&lt;br&gt;&lt;br&gt;4·3의 여정은 이제 다시 시작입니다.&lt;br&gt;&lt;br&gt;얼마 전 제주를 찾은 이재명 대통령께서는 국가 폭력 범죄 재발을 막기 위해 4·3사건 진압 공로 서훈에 대한 취소 근거를 마련하고 형사 공소 시효와 민사 소멸 시효를 배제하는 입법을 반드시 추진하겠다고 밝히셨습니다.&lt;br&gt;&lt;br&gt;4·3의 진실을 마주하고 올바른 역사를 기록하는 일은 우리 모두가 완수해야 할 시대적, 역사적 사명입니다.&lt;br&gt;&lt;br&gt;국민주권정부는 4·3의 진실을 낱낱이 규명하고 4·3 희생자와 유족 여러분의 명예 회복에 최선의 노력을 다하겠습니다.&lt;br&gt;&lt;br&gt;4·3사건특별법을 만든 김대중 정부, 정부 차원에서 첫 공식 사과를 드렸던 노무현 정부, 4·3 희생자 보상 근거를 법제화했던 문재인 정부의 노력을 이어가겠습니다.&lt;br&gt;&lt;br&gt;올 2월에는 ‘제주4·3사건 진상규명 및 희생자 명예회복위원회’에서 유족 네 분을 희생자의 자녀로 인정하는 최초의 의결을 했습니다.&lt;br&gt;&lt;br&gt;가족관계등록부에 비로소 아버님의 이름을 올리게 된 고계순, 김정해, 김순자, 이애순 어르신께 깊은 위로의 마음을 드립니다.&lt;br&gt;&lt;br&gt;존경하는 국민 여러분, 지난해 4·3 기록물 1만4000여 건이 유네스코 세계기록유산에 등재되었습니다.&lt;br&gt;&lt;br&gt;4·3의 아픔을 담은 한강 작가의 소설 ‘작별하지 않는다’는 유럽과 미국의 주요 문학상을 잇달아 수상했습니다.&lt;br&gt;&lt;br&gt;진실, 화해, 상생의 가치로 승화된 4·3의 정신을 전 세계가 인정한 것입니다.&lt;br&gt;&lt;br&gt;4·3의 역사를 끝까지 기억하고 기리고 되새기면서, 평화와 인권이라는 가치 위에 더 큰 민주주의의 꽃을 피워 나가겠습니다.&lt;br&gt;&lt;br&gt;결코, 제주4·3과 작별하지 않겠습니다.&lt;br&gt;&lt;br&gt;위대한 국민 여러분께서 끝까지 함께해 주실 것으로 믿습니다. 감사합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인사청탁 대가 ‘금품 수수’…가세로 충남 태안군수 불구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/04/03/IKCZB3TSWVGPNLFHRZPIET4SAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/03/IKCZB3TSWVGPNLFHRZPIET4SAU/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 03:57:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYTOY3GG4ZDEZBZGRTDKYRQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가세로 충남 태안군수가 청탁금지법 위반 혐의로 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;충남경찰청 형사기동대는 인사 청탁을 대가로 금품을 주고받은 혐의(청탁금지법 위반)로 가 군수와 전 사무관 A씨, 이를 알선한 지역 사업가이자 브로커였던 B씨 등 3명을 불구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;가 군수는 태안군 공무원이던 A씨로부터 2022년 7월 사무관 승진을 대가로 B씨를 통해 금두꺼비 3냥(당시 시가 1000만원 상당)을 상납받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 2024년 6월 태안군청 정문에서 가 군수를 향해 ‘내 돈 갚아라’는 현수막을 게시하며 1인 시위를 벌인 이후 가 군수에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;불법 정치자금 수수 의혹에서 시작된 수사는 청탁금지법 위반 수사로 확대됐고, 경찰은 지난해 5월 태안군청 사무실과 자택 등을 압수수색하며 증거를 확보해 왔다.&lt;br&gt;&lt;br&gt;가 군수 등은 경찰 조사에서 혐의를 부인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;가 군수는 비위 혐의로도 대전지검 서산지청에서 수사를 받고 있다. 일부 공무원은 “가 군수가 출장이나 명절 때 돈을 받았고 군 예산을 현금화했다”는 취지로 권익위에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;가 군수는 불법 정치자금을 받았다는 의혹도 받았으나 정치자금법 위반 혐의에 대해서는 증거 불충분으로 지난해 불송치 결정이 내려졌다.&lt;br&gt;&lt;br&gt;가 군수는 지난해 9월 “지방선거를 앞두고 현직 군수를 흠집 내기 위한 정치적 음해와 모함이 심화하고 있다”고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MZRDOYRSGYYTEODBGNRWCODBMQ.jpg?auth=e7597c9a5a2ead30a5d949176638347453d3547eac1c0e8afb71bbef0c7e8c59&amp;smart=true&amp;width=720&amp;height=425" type="image/jpeg" height="425" width="720">
-        <media:description type="plain">충남경찰청</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>미성년자와 성적 대화 나누고 성 착취물 요구한 현직 경찰 ‘덜미’</title>
-      <link>https://www.chosun.com/national/incident/2026/04/03/JWC36FO65BEBVHWGJSYHYFZVXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/03/JWC36FO65BEBVHWGJSYHYFZVXE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 04:21:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRGKYZWMY2DGOJVMJSDKM3BMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자와 성적 대화를 나누고 성 착취물을 받아낸 현직 경찰관이 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 아동청소년의 성보호에 관한 법률상 성 착취 목적 대화와 성착취물 소지 등 혐의로 인천 남동경찰서 소속 경사 30대 A씨를 입건했다고 3일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2월 SNS(사회관계망서비스)에서 미성년자인 B양과 여러 차례 성적 대화를 하고 성 착취물을 받아낸 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B양 부모의 신고를 받고 수사에 나선 경찰은 지난달 26일 미성년자로 위장해 A씨와 대화하며 만나기로 한 뒤, 약속 장소였던 인천 미추홀구에서 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;경찰은 압수한 A씨의 휴대전화를 분석해 다른 피해자가 있는지 확인할 예정이다. &lt;br&gt;&lt;br&gt;A씨는 직위 해제됐고, 경찰은 수사 결과에 따라 징계 절차를 밟을 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 정부 첫 경무관 승진… 총경 회의·3대 특검 출신 내정</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/03/44WV45S4H5GSZNT63WDVV3JVFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/44WV45S4H5GSZNT63WDVV3JVFY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 04:20:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4GENBZMY2WINJQGVRGEYJUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청이 3일 ‘경찰의 별’이라고 불리는 경무관 승진 인사를 발표했다. 이재명 정부 들어 첫 경무관 승진 인사다. 치안감 전보·총경 승진 등 경찰 고위직 인사가 본격적으로 이어질 전망이다.&lt;br&gt;&lt;br&gt;경찰청은 이날 총경 28명을 경무관 승진 임용 예정자로 내정했다고 밝혔다. 경무관은 치안총감, 치안정감, 치안감에 이어 네 번째로 높은 경찰 계급이다. 경찰청은 “치안 역량 강화를 위해 경찰 지휘부 전반의 지역 균형을 도모하는 데 역점을 뒀다”며 “수사·기소 분리 등 수사 체계 개편에 대비해 수사 역량이 뛰어난 전문가를 발탁하고, 여성청소년, 범죄예방 등 민생 치안 분야의 우수 경찰관을 적극 발굴했다”고 했다.&lt;br&gt;&lt;br&gt;이번 승진 대상자 중에는 윤석열 정부의 경찰국 설립에 반대했던 ‘총경 회의’ 참석자들이 다수 포함됐다. 김종관 경찰청 인사과장과 서울경찰청의 김상형 범죄예방질서과장, 김상희 여성안전과장 등이 대표적이다. 경찰청은 작년 말에도 총경급 보직 인사를 통해 이은애 경기북부경찰청 여성청소년과장을 경찰청 감사담당관에 임명하는 등 총경 회의 참석자를 발탁하는 인사를 냈다.&lt;br&gt;&lt;br&gt;이재명 정부 출범 이후 발족한 ‘3대 특검’에서 파견 근무를 했던 총경들도 승진했다. 최준영 경기북부청 형사과장은 김건희 특검에, 강일구 서울경찰청 금융범죄수사대장은 순직 해병 특검에서 각각 수사를 맡았다. 캄보디아 스캠(온라인 사기) 범죄 수사를 주도한 박재석 경찰청 국제공조1과장도 승진 명단에 포함됐다.&lt;br&gt;&lt;br&gt;경찰청에서는 11명, 서울청에서는 7명, 지방경찰청에서는 10명이 경무관 승진 예정자가 됐다.&lt;br&gt;&lt;br&gt;경찰청은 “후속 전보 인사를 실시해 국민 안전과 치안 유지에 빈틈이 없도록 지휘 체계를 확립하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>보행로 덮친 음주운전 차량… 청소하던 환경미화원 숨져</title>
       <link>https://www.chosun.com/national/incident/2026/04/03/PJD323NQPZGPTKBWSTBRZFOPA4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/03/PJD323NQPZGPTKBWSTBRZFOPA4/</guid>
@@ -930,24 +945,6 @@
       <description/>
       <pubDate>Fri, 03 Apr 2026 04:04:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 새벽에 일하던 환경미화원이 음주 차량에 치여 숨진 사고가 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;부산 동래경찰서는 도로교통법 위반 등 혐의로 20대 남성 A씨를 불구속 입건해 조사하고 있다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 23일 오전 6시 30분쯤 술에 취한 상태에서 부산 동래구 충렬대로 원동IC에서 동래 방면으로 승용차를 운전하다 40대 남성 환경미화원 B씨를 들이받아 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;인도에서 보행로를 청소하다가 사고를 당한 B씨는 인근 병원으로 이송됐으나, 다음 날 오후 6시쯤 숨졌다. B씨는 고등학생과 중학생 아들을 둔 가장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 연제구 연산동에서부터 5~10㎞가량 음주 운전을 한 것으로 확인됐다. 그의 혈중알코올농도는 면허정지(0.03% 이상~0.08% 미만) 수준이었다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “소주 반 병을 마신 뒤 운전했다”면서 “우회전하다 B씨를 미처 발견하지 못했다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 조사를 마무리한 뒤 구속영장을 신청할 계획”이라며 “동승자들도 음주 운전 방조 혐의로 수사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“교대 시간인데 안 보여”… 통영 추도 해상서 예인선 기관장 실종 </title>
-      <link>https://www.chosun.com/national/2026/04/03/BBWNLLXJIZDETO7WB43AEHDMXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/03/BBWNLLXJIZDETO7WB43AEHDMXM/</guid>
-      <dc:creator>통영=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 23:24:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRGMMZZGNRDMYLFHBRWENZXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통영해양경찰서. /통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 통영시 추도 인근 해상에서 예인선에 타고 있던 60대 기관장이 실종돼 해경이 수색을 벌이고 있다. &lt;br&gt;&lt;br&gt;통영해양경찰서는 3일 오전 2시 37분쯤 통영시 추도 인근 해상을 항해 중이던 예인선(승선원 4명)에서 기관장 A씨가 보이지 않는다는 신고를 접수했다고 밝혔다. &lt;br&gt;&lt;br&gt;이 선박은 전날 오후 9시 30분쯤 거제 옥포항을 출항해 사천 삼천포항으로 향하던 중이었다고 한다. 해경은 새벽 근무 교대 시간에 A씨가 보이지 않자 신고가 접수된 것으로 파악하고 있다.&lt;br&gt;&lt;br&gt;해경은 신고 접수 후 경비함정 9척, 항공기 1대, 유관 기관 함선 3척 등을 추도 인근 해상에 투입해 집중 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;통영해경 관계자는 “선원들을 상대로 정확한 사고 경위를 조사하는 한편, 사고 지점 주변 해역에 대한 수색 범위를 넓혀가고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“정부가 50만원 준다길래” 가짜 영상에 속아 주민센터 온 어르신</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/03/Z7LDNGGFKNHADIZ3PEW5POM5CE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/03/Z7LDNGGFKNHADIZ3PEW5POM5CE/</guid>
-      <dc:creator>김도균 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Apr 2026 15:48:00 +0000</pubDate>
-      <content:encoded>“여기로 오면 분명히 돈 받을 수 있댔다니까!”&lt;br&gt;&lt;br&gt;지난달 초 서울 마포구의 한 주민센터 민원 창구. 이모(74)씨가 허탈한 목소리로 자기 휴대전화 화면을 직원에게 들이밀었다. “만 65세 이상 어르신들은 가까운 주민센터에서 민생회복지원금 25만원을 즉시 신청하세요.” 화면 속에선 이재명 대통령이 이렇게 말하고 있었다. 하지만 직원이 확인해보니 이 영상은 AI(인공지능)로 합성해 만든 ‘딥페이크(deepfake)’ 였다. 작년 정부가 민생회복 소비쿠폰을 지급한 적이 있었지만, 특정 연령층에만 별도로 지원금을 준 적은 없었다. 이씨는 “대통령이 자연스러운 모습으로 말하길래 믿었는데 창피만 당했다”고 했다.&lt;br&gt;&lt;br&gt;유튜브에서 노년층을 겨냥한 ‘가짜 AI 홍보물’이 범람하고 있다. 생성형 AI로 유력 정치인을 등장시켜 있지도 않은 자금 지원 정책을 사실처럼 꾸미는 식이다. 가짜 홍보 영상을 양산하는 계정들은 ‘기초 연금’ ‘노인 지원’ 등을 썸네일(미리 보기 화면)에 넣어 시청을 유도한다. “긴급! 곧 신청 마감” “이번이 마지막 신청 기간” 같은 문구를 등장인물이 반복해 말하거나 자막으로도 띄운다. 조회 수가 많고 시청 시간이 길수록 수익이 커지는 유튜브 특성을 노린 전략이다. 허위 영상을 쏟아내는 일부 유튜브 채널은 영상마다 조회 수가 20만~50만명이다.&lt;br&gt;&lt;br&gt;서울 은평구에 사는 김영혜(79)씨도 작년 말 가짜 홍보물에 속아 주민센터를 찾았다. 그가 본 영상은 ‘만 60세 이상 노인에게 생활 안정 자금 50만원을 지급한다’는 내용이었다. 보건복지부라는 문구가 새겨진 점퍼를 입은 한 공무원이 장황하게 설명했지만 이 사람은 실존 인물이 아닌 AI가 만든 가상 인물이었다.&lt;br&gt;&lt;br&gt;AI 영상은 시간이 갈수록 정교해져 최근엔 전문가들도 진짜인지 가짜인지 구분하기 어렵다고 말한다. 이런 AI 이미지는 이미지·영상을 제작해 주는 생성형 AI 사이트에 접속해 원하는 명령어만 입력하면 1분 만에 만들 수 있다. 그런데 이런 광고를 자동으로 걸러내는 소셜미디어 서비스는 아직 없다.&lt;br&gt;&lt;br&gt;현장 공무원들은 허위 영상에 속아 제기한 민원에 골머리를 앓고 있다. 서울 은평구 한 주민센터 직원 김모(56)씨는 “센터를 찾는 민원인 절반 이상이 유튜브 가짜 홍보물을 보고 찾아온 어르신들”이라며 “잘못된 정보를 바로잡고 설명하느라 상당한 시간을 허비한다”고 했다. 서울 지역의 한 주민센터는 입구에 ‘버스 요금 무료 지원은 시행하지 않습니다. (유튜브 등) 잘못된 정보에 주의하십시오’라는 안내문도 붙였다.&lt;br&gt;&lt;br&gt;이강형 경북대 미디어커뮤니케이션학과 교수는 “디지털 환경에 익숙하지 않은 60·70대가 이런 AI 영상 광고에 특히 취약하다”며 “전국 기초단체들이 노년층을 대상으로 디지털 리터러시(문해력) 역량 교육을 확대해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“검사 한 명이 600건 맡아”… 공소시효 넘겨 범인 놓친 사건 급증</title>
