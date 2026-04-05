@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰 ‘故 김창민 영화감독 사건’ 전담 수사팀 구성</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/05/D3E2SNWMRZHBNJJPGUVATW6N5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/05/D3E2SNWMRZHBNJJPGUVATW6N5Y/</guid>
+      <dc:creator>남양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Apr 2026 09:33:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3DONJVMNTDSNTCMIZDCMDEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지검 남양주지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘김창민 영화감독 사망사건’을 위해 전담 수사팀을 꾸렸다.&lt;br&gt;&lt;br&gt;의정부지검 남양주지청은 지난 2일 구리경찰서로부터 고(故) 김창민 영화감독 상해치사 사건을 송치받은 뒤 전담 수사팀을 편성했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;전담 수사팀은 형사2부장을 팀장으로 검사 3명 및 수사관 5명으로 구성했다. &lt;br&gt;&lt;br&gt;남양주지청은 “과학수사 기법을 활용해 의학적 전문성을 갖춘 검사의 의견 수사에 적극적으로 반영하는 등 신속하고 엄정한 보완 수사를 진행해 피해자에게 억울함이 없게 하겠다”고 했다. &lt;br&gt;&lt;br&gt;김 감독은 지난해 10월 20일 오전 1시 10분쯤 경기 구리시 수택동의 한 음식점에서 폭행을 당했다. &lt;br&gt;&lt;br&gt;당시 김 감독은 자폐 성향이 있는 아들이 돈가스를 먹고 싶다는 요청에 따라 새벽 시간 식당을 찾았다가, 다른 손님들과 소음 문제로 시비가 붙으며 몸싸움에 휘말린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김 감독은 약 1시간 만에 인근 병원으로 옮겨졌지만 의식을 회복하지 못하고 작년 11월 7일 뇌사 판정을 받아 장기기증을 통해 4명에게 새 생명을 나누고 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 김 감독을 폭행한 A씨에 대해 구속영장을 신청했지만 검찰은 보완을 요구하며 반려했다. 이후 경찰은 유가족의 요청과 검찰이 요구한 보완 수사를 통해 상해치사 혐의로 A씨 등 2명에 대한 구속영장을 다시 신청했다.&lt;br&gt;&lt;br&gt;하지만 의정부지법 남양주지원은 “주거가 일정하고 증거인멸 우려가 없다”며 영장을 기각했다. 이에 경찰은 이 사건을 불구속 상태로 검찰에 넘겼고, 유가족 측은 폭행 피해 후 초동대응부터 피의자 처벌까지 모든 과정이 부실하다고 문제를 제기했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>與 ‘조작 기소’ 국조특위, 선서 거부 박상용 검사에 “법적 조치 대상”</title>
       <link>https://www.chosun.com/politics/assembly/2026/04/05/BPW6MCPYZBH6NGORUHWUTQX5ZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/04/05/BPW6MCPYZBH6NGORUHWUTQX5ZU/</guid>
@@ -921,15 +930,6 @@
       <description/>
       <pubDate>Fri, 03 Apr 2026 04:04:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 새벽에 일하던 환경미화원이 음주 차량에 치여 숨진 사고가 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;부산 동래경찰서는 도로교통법 위반 등 혐의로 20대 남성 A씨를 불구속 입건해 조사하고 있다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 23일 오전 6시 30분쯤 술에 취한 상태에서 부산 동래구 충렬대로 원동IC에서 동래 방면으로 승용차를 운전하다 40대 남성 환경미화원 B씨를 들이받아 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;인도에서 보행로를 청소하다가 사고를 당한 B씨는 인근 병원으로 이송됐으나, 다음 날 오후 6시쯤 숨졌다. B씨는 고등학생과 중학생 아들을 둔 가장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 연제구 연산동에서부터 5~10㎞가량 음주 운전을 한 것으로 확인됐다. 그의 혈중알코올농도는 면허정지(0.03% 이상~0.08% 미만) 수준이었다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “소주 반 병을 마신 뒤 운전했다”면서 “우회전하다 B씨를 미처 발견하지 못했다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 조사를 마무리한 뒤 구속영장을 신청할 계획”이라며 “동승자들도 음주 운전 방조 혐의로 수사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>텔레그램 채널로 마약 17.7kg 유통…‘필리핀 마약왕’ 박왕열 송치 </title>
-      <link>https://www.chosun.com/national/incident/2026/04/03/OJRLDGHTOZD5JKPTMWZAULOEWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/03/OJRLDGHTOZD5JKPTMWZAULOEWU/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Apr 2026 02:53:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZDGNRWMEZWGOLGGNSGCMZTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;필리핀에서 국내로 압송된 '마약왕' 박왕열이 지난 3일 오전 경기 의정부지방검찰청으로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀에서 한국인 3명을 살해한 뒤 탈옥해 동남아 마약 공급망을 장악했던 ‘필리핀 마약왕’ 박왕열(47)이 국내 송환 9일 만에 구속 상태로 검찰에 넘겨졌다. 경찰은 박왕열이 조직적으로 마약을 밀반입·판매한 것으로 보고 범죄단체조직 혐의를 적용했다.&lt;br&gt;&lt;br&gt;경기북부경찰청 광역범죄수사대는 3일 특정범죄가중처벌법 위반(향정) 및 범죄단체조직 등의 혐의로 박왕열을 구속 송치했다고 밝혔다. 박왕열은 2016년 필리핀 사탕수수밭에서 한국인 3명을 살해한 혐의로 수감됐다가 2019년 10월 탈옥한 뒤 도피 생활을 이어가며 마약 유통에 뛰어든 것으로 조사됐다. 이후 텔레그램에 ‘전세계’ 채널을 개설하고 ‘그레이엔젤’ ‘하와이’ ‘바티칸 킹덤’ 등 하위 채널을 통해 국내 판매망을 구축했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 박왕열은 2019년 11월부터 2024년 8월까지 필로폰 12.7kg을 포함해 총 17.7kg의 마약류를 해외에서 밀반입해 국내에 유통했다. 시가 63억원 규모다. 마약은 국제화물특송이나 인편을 통해 들여온 뒤 국내 총책과 중간 판매책을 통해 소량으로 나눠 숨기고 구매자에게 위치를 알려주는 이른바 던지기 방식으로 판매됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXQW5RYWVJGEDNFZIHYL345HNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;압수한 필로폰. /경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 박왕열이 총 15명 규모의 조직을 운영하며 총책, 국내 판매총책, 중간 판매책, 계좌 관리책 등 역할을 나눠 관리한 것으로 보고 있다. 박왕열은 필리핀 교도소 탈옥 이후 해외와 국내 마약 가격 차이를 이용해 수익을 낼 수 있다고 판단하고, 수감 중 알게 된 인물을 통해 마약 유통 방식과 공급망을 확보한 뒤 조직을 꾸린 것으로 조사됐다. 조직원 간 접촉을 금지하고 텔레그램을 통해서만 지시를 전달하는 등 점조직 형태로 운영했다.&lt;br&gt;&lt;br&gt;범죄 수익은 계좌 이체와 가상자산을 통해 관리됐다. 경찰이 현재까지 확인한 범죄 수익은 계좌 거래 약 9억4000만원과 비트코인 57.4개(58억5000만원 상당) 등 총 68억원 규모다. 박왕열은 텔레그램 채널 ‘전세계’를 통해 구매자와 1대1로 거래를 진행하고, 하위 판매책과 자금 관리책을 두는 방식으로 유통과 자금 흐름을 관리했다. 마약 유통 규모까지 합산하면 전체 범죄 규모는 약 131억원에 달한다.&lt;br&gt;&lt;br&gt;일각에서 제기된 연예계·정치권 연루 의혹에 대해서도 경찰은 선을 그었다. 경찰 관계자는 “특정해서 확인된 구매자 중 특이점 있는 인물은 없었다”고 했다. 또 황하나와의 연관성에 대해서도 “박왕열의 하위 판매 채널이거나 직접 거래한 사실은 확인되지 않았다”고 했다. 다만 박왕열 하위 조직선상 판매책 중 1명이 황하나의 지인 관계였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 범죄 수익으로 의심되는 가상자산 지갑 47개에서 입출금된 비트코인 94.6개에 대해서도 추적하고 있다. 경찰 관계자는 “경찰은 초국가 범죄 TF와 함께 마약범죄에 대해 국경을 초월해 엄정 대응할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“교대 시간인데 안 보여”… 통영 추도 해상서 예인선 기관장 실종 </title>
