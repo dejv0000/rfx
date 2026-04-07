@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박상용 “국정조사 직전 ‘무조건 고발’ 시나리오 들어” [판읽기]</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/08/6EGVTAWFRJCHTD5ZVUKCVN2OZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/08/6EGVTAWFRJCHTD5ZVUKCVN2OZM/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 07 Apr 2026 22:00:03 +0000</pubDate>
+      <content:encoded>‘대북 송금’ 주임 검사였던 박상용 검사가 지난 5일 ‘조작 기소’ 국조특위에서 선서를 거부한 데 대해 “이미 ‘무조건 고발’ 시나리오가 짜져 있다는 제보를 받았기 때문”이라고 밝혔다. 박 검사는 7일 조선일보 유튜브 ‘판읽기’에 출연해 당시 상황을 설명했다. &lt;br&gt;&lt;br&gt;그는 “지금까지 선서를 거부한 적이 한 번도 없었고 이번에도 국민의 알 권리를 위해 선서하고 증언하려 했다”며 “그런데 그 전날밤 ‘이미 시나리오가 짜져 있다’는 제보를 받았다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYTEYTEGAYDQZRYGEZWGMZXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'쌍방울 대북 송금' 사건을 수사했던 박상용 검사가 7일 서울 여의도 국회에서 국민의힘 '윤석열정권 정치검찰 조작기소 의혹사건 진상규명' 국정조사특별위원회 위원단 주최로 열린 더불어민주당의 공소취소·재판조작 진상규명 청문회에 증인으로 출석해 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사에 따르면 이 시나리오는 그가 어떤 증언을 하든 무조건 고발하고 그 고발에 따른 특검이 발족되고 그에 따라 공소취소가 이뤄지는 것이었다. &lt;br&gt;&lt;br&gt;그는 “새벽 다섯 시에 일어나 선서 거부서를 두 시간에 걸쳐 작성했다”며 “공소취소를 막기 위해 지금까지 싸웠는데 그 함정에 제가 들어갈 수 없었다”고 했다. &lt;br&gt;&lt;br&gt;박 검사는 “지금 그 말이 맞았던 것이 벌써 민주당 원내대표가 국정조사 후 특검 도입을 말하고 있다”며 “작년 9월에 한 증언을 고발한다고 하는 게 어떻게든 사건을 만드는 중요하다고 생각하는 것”이라고 했다. &lt;br&gt;&lt;br&gt;민주당은 8일 법사위 전체회의에서 박 검사를 국회증언감정법 위반 혐의로 고발한다는 방침이다. 박 검사가 작년 9월 국회 국정감사에서 ‘연어 술파티’를 부인한 게 위증이라는 주장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORXU6LBGUBMU3OAYVCXBOWAGLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[서울=뉴시스] 김금보 기자 = 쌍방울 대북송금 사건 수사를 담당했던 박상용 인천지방검찰청 부부장검사가 7일 오전 서울 여의도 국회에서 열린 '이재명 죄지우기 국정조사 특위 국민의힘 위원단 주최 민주당의 공소취소 재판조작 진상규명 청문회'에서 질문에 답변을 하고 있다. 2026.04.07. kgb@newsis.com
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사는 또한 2차특검이 대북송금 사건에 대해 ‘윤석열 정부가 개입한 초대형 국정농단’이라고 발표한 데 대해 “연어 술파티나 소위 울산 분변 사건을 들었을 때보다 더 황당하다”고 했다. &lt;br&gt;&lt;br&gt;그는 “갑자기 윤석열이 왜 나오나, 만일 당시 대통령실에서 개입을 했다면 첩보를 줬거나 하는 게 있어야 한다”며 “그런 게 전혀 없이 뭘 개입했다는 건지 잘 모르겠다”고 했다. &lt;br&gt;&lt;br&gt;지난 3일 2차특검은 서울고검으로부터 대북 송금 사건을 모두 넘겨받아 수사에 착수했다. 윤 전 대통령 부부가 대북송금 사건 수사 당시 내용을 보고받았고 나아가 관여까지 했다는 정황을 포착해 특검 수사 대상에 포함시켰다는 것이다. &lt;br&gt;&lt;br&gt;다만 특검은 “보고 형태는 아직 의심하는 단계”라며 “윤 전 대통령 개인이 보고받았을 수도 있고 대통령실 차원에서 보고받았을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDFTKNVACFITBBAXASQ6XYHGJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-4535&gt; 브리핑하는 종합특검 진을종 특검보&#13;
+    (과천=연합뉴스) 전재훈 기자 = 3대 특검(내란·김건희·해병) 이후 남은 의혹을 수사하는 권창영 종합특별검사팀 진을종 특검보가 7일 경기도 과천시 종합특검 사무실에서 수사 관련 사항을 브리핑하고 있다. 2026.4.7&#13;
+    kez@yna.co.kr/2026-04-07 15:40:18/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 박 검사는 이에 대해 “보고는 지금(이재명 정부)도 하고 있을 것”이라며 “보고를 안 받으면 그 비서관실은 뭘 하나”고 했다. &lt;br&gt;&lt;br&gt;그는 “저희가 법무부에 보고하면 법무부는 당연히 민정수석실에 보고를 하고, 대북 송금 사건이 아니더라도 저희가 국정원을 압수수색했다면 국정원은 당연히 그 내용을 민정수석실에 보고했을 것”이라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “보고를 했기 때문에 윤석열 대통령과 관련됐다고 하면 지금 특검이 검찰 경찰 공수처 등 모든 기관을 통합한 권한을 가졌다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “그런 식이라면 당시 윤석열 정권의 모든 사건에 특검의 수사권이 있다는 것인데 수사권을 제한하는 규정이 무슨 의미가 있나”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “반드시 윤석열의 관여가 나와야 수사가 적법해지기 때문에 무조건 만들어내려고 할 것이고 그게 바로 표적수사의 전형”이라고 했다. &lt;br&gt;&lt;br&gt;그밖에 국정원이 주장하는 대북송금 사건의 ‘무죄 증거’, 전용기 의원이 추가 공개한 녹취록에 대한 자세한 반박 내용은 조선일보 유튜브 ‘판읽기’에서 볼 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>與 요구에… 법무부, 대장동 수사검사 9명 감찰</title>
       <link>https://www.chosun.com/national/court_law/2026/04/08/6LNR5UADY5HV5JI5FOP7ZBTMNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/08/6LNR5UADY5HV5JI5FOP7ZBTMNM/</guid>
@@ -881,15 +894,6 @@
       <description/>
       <pubDate>Mon, 06 Apr 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJW7UUSSS5HVZLHFSGWDYMCCVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 혹독(酷毒)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/04/07/AYY5YCWPNRHIXJ5J2KRBBT2CIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/04/07/AYY5YCWPNRHIXJ5J2KRBBT2CIA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BK7RXTZVNZH7VGH4AMYDHRNSBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[스피킹이 강해지는 영어] I’ve been dying to ~</title>
