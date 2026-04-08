@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[데스크에서] 일상이 된 마약, 청춘이 무너진다</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/08/7A6IME6ZUJF4RFGPZLSYH4HR6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/08/7A6IME6ZUJF4RFGPZLSYH4HR6A/</guid>
+      <dc:creator>송원형 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 14:37:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7BME77KYVAAXHVUJTGXWSCOUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 오전 3시쯤 찾은 서울 마포구 홍대 클럽 거리에 한 남성이 길바닥에 드러누워 있다. /윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 만나는 사람마다 주식과 전쟁 얘기를 한다. 올해 코스피 지수가 6000을 넘기면서 너도나도 주식 투자에 나섰다가 중동 상황에 민감해진 것이다. 그런데 주식 못지않게 일상 깊숙이 스며든 것이 있다. 바로 마약이다.&lt;br&gt;&lt;br&gt;국내에서 적발된 마약사범은 2023년 2만7611명으로 정점을 찍고 나서 2024년 2만3022명, 작년 2만3403명으로 3년 연속 2만명을 넘어섰다. 마약 범죄 암수율(드러나지 않는 범죄 비율)이 약 28배인 점을 고려하면 실제 마약사범은 65만5000여 명으로 추산된다. 국민 100명 중 1명 이상이 마약과 얽혀 있는 셈이다. 이 중 10~30대가 60%를 넘는다.&lt;br&gt;&lt;br&gt;본지 취재팀이 주말에 방문한 서울 강남의 한 클럽에는 ‘공부약’으로 불리는 각성제 포장지와 알코올 솜이 나뒹굴었다. 청소년들도 ‘공부약’ ‘다이어트약’ 같은 마약성 의약품과 필로폰 등 마약을 텔레그램이나 해외 직구 등을 통해 손쉽게 구할 수 있다. 마약성 의약품에 중독된 열여덟 살 딸의 상태가 더 나빠질까 봐 경찰에 신고한 부모 얘기는 남의 일 같지가 않았다. “평범한 집안 출신 지인 자식이 마약에 손댔다는 소식을 듣고 깜짝 놀랐다. 알고 보니 비슷한 일을 겪고도 쉬쉬하는 사람도 있더라”며 한탄하던 검찰 고위직 출신 인사의 말도 과언이 아니다.&lt;br&gt;&lt;br&gt;마약 범죄는 ‘투 트랙’으로 접근해야 한다고 전문가들은 강조한다. 공급·유통 사범에 대해선 엄벌해야 한다. 국제 공조 수사를 통해 해외 마약 조직 총책을 검거하고 범죄 수익도 환수해야 한다. 단순 투약 사범에 대해선 ‘중독 환자’로 보고 치료·재활을 받을 수 있도록 정부가 지원해야 한다. 투약 사범이 제대로 치료받지 못한 채 몇 차례 교도소를 드나들다 보면 경제적으로 궁핍해진다. 그러다 마약 유통까지 손을 대며 ‘굴레’에서 헤어나지 못하게 된다. &lt;br&gt;&lt;br&gt;하지만 마약 중독 치료를 위한 인프라는 턱없이 부족하다. 마약 중독을 전문으로 치료할 수 있는 의사는 전국에 4~5명뿐이며, 마약 치료 전문 병상도 341개에 불과하다. 법조계에선 미국의 DEA(마약단속국) 같은 마약청 설립을 제안하며, 검찰·경찰·국정원·관세청·해양경찰청 등에 분산된 마약 관련 기능을 통합해 국제 수사와 치료·재활까지 아우르는 컨트롤타워가 필요하다고 주장한다. 정부도 마약청 설치 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;또 금연 교육처럼 초등학생 때부터 마약 예방 교육도 해야 한다는 목소리도 크다. ‘마약김밥’ ‘마약떡볶이’ 등을 주변에서 쉽게 볼 수 있고, 연예인들의 마약 사건이 잇따르며 젊은 층의 경각심이 희박해진 현상이 문제로 지적된다.&lt;br&gt;&lt;br&gt;10~30대 젊은 세대가 마약으로 무너지면 한국 사회의 미래도 흔들린다. 마약 단속과 수사, 치료, 예방에 대한 정부 대책이 시급하다. 우리 사회가 이 위기에 냉정히 맞서지 않는다면 평범한 일상은 물론 젊은 세대의 꿈과 희망도 무너지고 말 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 9일</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/08/V2HU4OGY5ZCJJBZ434YZEGUMKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/V2HU4OGY5ZCJJBZ434YZEGUMKE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 14:35:00 +0000</pubDate>
+      <content:encoded>전국에 비 내리고 바람 강하게 불어&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRPTL3PKA5GWXKGQA7C4NPLNF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동물원 탈출 늑대 생포 요구 확산…암컷까지 투입해 유인 작전</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/08/L7LCAEOYXRCHHNYIYJFMDZIA3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/L7LCAEOYXRCHHNYIYJFMDZIA3I/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 13:58:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZWIZBWMYYDKZLFMNSWIOBUGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 대전 오월드에서 탈출한 늑대 1마리가 대전 도심을 배회하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 동물원에서 수컷 늑대 한 마리가 탈출해 소방 당국과 경찰이 10시간 넘게 수색 작전을 펼치고 있는 가운데 동물 단체들은 일제히 생포를 요구하는 성명을 발표했다. &lt;br&gt;&lt;br&gt;8일 대전소방본부 등에 따르면, 이날 오전 10시 10분쯤 대전 중구 사정동 오월드 동물원에서 수컷 늑대 한 마리가 탈출했다는 신고가 접수됐다. 탈출한 늑대의 이름은 ‘늑구(2024년생, 수컷)’로 몸무게는 30㎏ 정도라고 한다.&lt;br&gt;&lt;br&gt;동물자유연대는 이날 성명을 통해 “금강유역환경청은 ‘생포’를 우선하고 있다고 밝혔으나, 엽사가 동행한 이상 현장 상황에 따라 사살될 가능성도 배제할 수 없는 위태로운 국면”이라며 “한 가지 분명히 짚어야 할 사실은 늑구는 이번 사건의 본질적인 피해자라는 점이다. 동물전시시설의 관리 부실과 구조적 결함으로 빚어진 사고의 책임으로 시설에 갇혀 있던 동물의 목숨이 담보가 될지도 모르는 현실은 명백히 부당하다”고 했다. &lt;br&gt;&lt;br&gt;동물자유연대는 “이번 사고가 발생한 곳은 2018년 탈출한 퓨마 ‘뽀롱이’가 사살됐던 바로 그 오월드다. 8년이나 시간이 흘렀음에도 동일한 사고가 발생했다”며 “우리는 늑구가 뽀롱이의 전철을 밟지 않고 무사히 생포되기를 바란다. 늑구의 안전한 구조와 함께, 시대착오적인 동물전시시설의 구조적 한계를 전면적으로 개편하는 논의의 계기가 되기를 촉구한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WMMRVMYZWKM3FMZRGIZBVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 대전 오월드에서 늑대 1마리가 탈출한 가운데 소방, 경찰, 오월드, 금강유역환경청, 엽사 등이 수색 및 포획 작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동물단체 곰보금자리프로젝트는 “2인 1조 원칙만 잘 지키면 막을 수 있는 사고지만 동물원에서는 그 간단한 것을 지키지 않아서 늘 사고가 난다”며 “기본적인 동물 돌봄도 못하면서 번지르르한 거짓말만 늘어놓는 동물원들은 운영 주체와 시스템을 바꿔야 한다. 겁에 질린 채 헤매고 있을 늑대가 너무 고통스러운 시간을 보내지 않기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;대전충남녹색연합도 “늑대의 무사 송환을 요구한다. 뽀롱이와 같은 사살 사태는 일어나선 안 된다”며 “시민들의 안전과 늑대의 안전을 위해 최선의 대책을 강구하기 바란다. 더불어 대전시는 이번 늑대 탈출 사건을 엄중히 받아들여 ‘오월드 재창조 사업’을 전면 재검토해야 한다”고 했다. &lt;br&gt;&lt;br&gt;한편 경찰과 소방 당국은 해가 지면서 야간 수색에 돌입했다. 경찰과 소방, 엽사 등이 한 조를 이뤄 늑대가 은신할 만한 인근 숲을 집중 수색한다. 엽사가 동행하지만 늑대에게 마취총을 쏴 생포하는 것을 목표로 할 방침이다. 또 수컷 늑대를 유인하기 위해 암컷 늑대도 동물원 특정 구역에 묶어두기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성적 상위권과 하위권, ‘주말 공부 시간’에서 갈렸다</title>
+      <link>https://www.chosun.com/national/education/2026/04/08/VJEGUMNFDVF5JKBKQRM5IQB4OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/08/VJEGUMNFDVF5JKBKQRM5IQB4OI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 11:53:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN2LV6J5OFPI7JXCBFJYWBNO24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 중구 경북여자고등학교 복도에서 학생들이 자습을 하고 있는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 성적 상위권과 하위권 학생들은 주말 공부 시간에서 차이가 큰 것으로 나타났다. &lt;br&gt;&lt;br&gt;입시 정보 업체 진학사는 8일 이 같은 내용의 분석 결과를 발표했다. 이는 지난 2월 고등학생 3522명을 대상으로 주말과 평일 공부 시간을 조사한 것이다. 여기에는 학원 수업이나 인터넷 강의를 듣는 시간을 제외한 혼자 스스로 공부한 시간만 포함했다.&lt;br&gt;&lt;br&gt;이에 따르면, 학교 내신 성적이 1등급대라고 밝힌 학생들은 평일 하루 평균 4시간 이상 공부하는 경우(55%)가 가장 많았다. 그다음으론 3~4시간(22.8%), 2~3시간(13%) 순이었다. 반면 내신 성적이 5등급대 이하라고 밝힌 학생들은 하루 평균 4시간 이상 공부하는 경우가 18.9%뿐이었고, 2~3시간 공부하는 이들이 26.6%로 가장 많았다.&lt;br&gt;&lt;br&gt;특히 주말에는 공부 시간 차이가 더 컸다. 1등급대 학생들의 46.8%는 주말 하루 평균 6시간 이상을 공부에 썼다. 8시간 이상 공부하는 경우도 26.8%나 됐다. 그런데 5등급대 학생 중엔 주말 하루 평균 6시간 이상 공부한 이가 8.8%에 불과했고, 8시간 이상은 3.8%밖에 되지 않았다. &lt;br&gt;&lt;br&gt;진학사는 고3 가운데 내신 성적이 1학년 때보다 오른 1061명의 공부 시간도 따로 분석했다. 그 결과, “이전보다 공부 시간을 늘렸다”고 한 학생이 88%에 달했다. 하루 평균 ‘2~3시간 증가(37%)’가 가장 많았다. 그다음은 ‘1~2시간 증가(27%)’, ‘3시간 이상 증가(24%)’ 순이었다. 늘어난 공부 시간이 거의 없거나, 오히려 줄어든 이는 12%에 불과했다. &lt;br&gt;&lt;br&gt;성적이 오른 학생들이 가장 힘들게 포기한 것으론 ‘게임·소셜미디어·유튜브 등 여가 시간(43%)’이 가장 많았다. 그다음이 ‘늦잠·늦은 취침(22.7%)’, ‘친구들과의 약속(12%)’, ‘주말 휴식·외출(9.1%)’ 등이었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘200억 탈세 의혹’ 차은우, 결국 국세청에 백기 “세금 모두 납부”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/08/PUCVEEPWFNFCDFXPSPLC4BQWWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/PUCVEEPWFNFCDFXPSPLC4BQWWU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 12:14:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RWMMBUGUYDCMJUGFRGGZRXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 차은우. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200억원대 탈세 의혹이 제기됐던 가수 겸 배우 차은우(본명 이동민)가 법적 대응을 중단하고 관련 세금을 모두 납부했다고 밝혔다. &lt;br&gt;&lt;br&gt;8일 차은우는 입장문을 통해 “최근 저와 관련된 납세 논란으로 팬분들을 비롯한 많은 분들께 실망과 혼란을 드린 점, 진심으로 사과드린다”며 “여러 행정 절차가 진행되는 과정에서 입장을 말씀드리는 데 신중할 수밖에 없었고, 그로 인해 말씀드리는 시기가 늦어진 점에 대해서도 또 한 번 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;차은우는 “늦었지만 지금이라도 다시 한번 제 생각과 입장을 직접 말씀드리고자 한다”며 “저는 국세청의 절차와 결과를 존중하며, 더 이상의 혼란이 이어지지 않도록 관련 세금을 모두 납부했다. 남은 절차 또한 성실히 임하도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;차은우는 “많은 분들의 사랑과 응원 속에서 활동해 온 만큼, 이번 사안을 더욱 무겁고 깊게 받아들이고 있다”며 “제가 충분히 살피지 못한 부분이 있었다면 그 책임 또한 모두 저에게 있다. 어떠한 이유로도 ‘몰랐다’거나 ‘누군가의 판단이었다’는 말로 회피하지 않겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “활동 중 여러 변화와 혼란을 겪는 시기에 제 활동을 좀 더 안정적으로 이어가기 위해 준비하는 과정에서 법인을 설립했지만, 지금 돌이켜보면 그 과정에서 충분히 살피지 못한 부분이 있었다”며 “이번 일을 통해 제 자신을 스스로 한번 돌아봐야겠다는 점을 절실히 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;차은우는 “같은 문제가 다시 반복되지 않도록, 앞으로의 제 활동 전반을 보다 신중하고 엄격한 기준으로 점검하겠다”며 “제 선택과 행동에 끝까지 책임을 다하는 차은우가 되기 위해 더욱 노력하고 또 노력하겠다. 다시 한번 깊은 사죄의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 차은우는 어머니가 세운 유령 법인을 통해 최대 45%인 소득세 대신 20%포인트 이상 낮은 법인세율을 적용받아 세금을 납부해 왔다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;차은우는 지난해 7월 서울지방국세청 조사4국 고강도 비정기 세무조사를 받은 뒤, 200억원이 넘는 세금 추징을 통보받은 것으로 알려졌다. 차은우는 당초 국세청 판단에 불복하고 대형 로펌을 선임해 법적 대응에 나섰었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘스태프에 부적절 발언’ 데뷔 3개월만에 활동중단 선언한 아이돌</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/08/UTFH3IKDTBGV5KEKA5A32CW2TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/UTFH3IKDTBGV5KEKA5A32CW2TQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 11:15:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URHUA3K6IFF2PCXSKIZJDZQB4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알파드라이브원 김건우. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8인조 보이그룹 알파드라이브원의 멤버 김건우가 촬영 스태프에게 부적절한 발언을 했다는 의혹을 인정하고 데뷔 3개월 만에 활동 중단을 선언했다. &lt;br&gt;&lt;br&gt;8일 알파드라이브원의 소속사 웨이크원은 공지를 통해 “(데뷔 전 진행된 콘텐츠 촬영 현장에서) 김건우가 마이크가 켜진 상태임을 인지하지 못한 채 적절하지 않은 표현으로 불만을 표출했다”며 “특정인을 향한 비난이 아닌 혼잣말 형태로 나온 것이지만 어떠한 경우에도 부적절한 발언이었다”고 했다.&lt;br&gt;&lt;br&gt;소속사는 “사건 직후 제작진에 사과의 뜻을 전했다. 김건우는 이번 일을 깊이 반성하고 있다”며 “당사와의 논의 끝에 김건우는 자기 성찰의 시간을 갖기로 결정했다. 당분간 알파드라이브원은 김건우를 제외한 7인 체제로 활동할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;김건우도 이날 자필 사과문을 통해 “모든 스태프분들께 죄송하다는 말씀드리고 싶다. 저의 성숙하지 못한 언행으로 많은 분께 심려를 끼쳐드리고 실망스러운 모습을 보여드렸다”며 “이번 일로 상처받으셨을 모든 분께 다시 한번 죄송하다고 말씀드리고 싶다”고 했다. &lt;br&gt;&lt;br&gt;김건우는 “데뷔 전부터 지금까지 받아온 큰 사랑이 결코 당연하다고 생각하지 않는다. 이번 일을 통해 저의 행동이 얼마나 어리석었는지, 제가 얼마나 부족한 사람인지를 절실히 느꼈다”며 “저에 대해 다시 한번 진지하게 돌아보는 시간을 가지며, 성숙한 사람이 되어 돌아올 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 온라인상에서는 김건우가 데뷔 전 한 콘텐츠 촬영에서 스태프를 향해 부적절한 발언을 했다는 의혹이 제기됐었다.&lt;br&gt;&lt;br&gt;알파드라이브원은 지난해 엠넷에서 방영된 ‘보이즈 2 플래닛’을 통해 만들어진 신인 그룹이다. 올해 1월 12일 정식 데뷔했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 ‘김건희 특검 이첩’ 최은순 첫 소환… 현금 1억 수수 관련</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/08/YIPMFGPIYNFJZCNZ7W6ZGTHQP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/YIPMFGPIYNFJZCNZ7W6ZGTHQP4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 11:09:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RDONBRMUZTONRVGQ2GCMDGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사의 모친 최은순씨와 오빠 김진우씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·해병) 사건을 넘겨받아 수사하는 경찰이 8일 김건희 여사의 모친 최은순씨를 알선수재 혐의 피의자로 불러 조사했다. 김 여사의 금품 수수 사건에 최씨가 연루됐다는 의혹을 조사하기 위해서다.&lt;br&gt;&lt;br&gt;경찰청 3대 특검 인계 사건 특별수사본부는 이날 “최씨를 특정범죄가중처벌법 상 알선수재 등 혐의로 소환 조사했다”고 밝혔다. 지난해 김건희 특검은 김 여사 오빠 김진우씨의 장모 자택을 압수 수색하면서 이우환 화백의 그림 ‘점으로부터(From Point) No. 800298’, ‘반클리프 아펠’ 목걸이 모조품, 현금 약 1억원 등을 확보했는데, 최씨가 이에 관여했는지 확인하기 위해서다.&lt;br&gt;&lt;br&gt;당시 특검은 이우환 화백 그림은 김상민 전 부장검사가, 반클리프 목걸이는 이봉관 서희건설 회장이 김 여사에게 청탁 대가로 건넸다고 결론 내렸다. 다만 최씨의 연루 의혹은 확인하지 못하고 경찰에 이첩했다.&lt;br&gt;&lt;br&gt;경찰은 이 가운데 현금 1억원을 최씨가 받은 것으로 의심하고 집중적으로 조사한 것으로 전해졌다. 앞서 김진우씨는 특검 조사에서 “1억여 원은 나의 것”이라고 진술했다.&lt;br&gt;&lt;br&gt;특수본 관계자는 “최씨가 금품과 구체적으로 어떤 연관성이 있는지 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>함안 자동차부품 공장서 60대 작업자 기계에 끼여 숨져</title>
       <link>https://www.chosun.com/national/regional/2026/04/08/F6XTDS6DRRHPBGVSXEFXCDMXHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/08/F6XTDS6DRRHPBGVSXEFXCDMXHU/</guid>
@@ -598,70 +661,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/BEJGE6656VBRHM34PAVWXC5T7Q.jpg?auth=292e611a8d1c9fe9569abdca063aaa3a0cf3ded27c5ab2b0b9f2c5394b2da8c7&amp;smart=true&amp;width=3978&amp;height=2238" type="image/jpeg" height="2238" width="3978">
         <media:description type="plain">/조형호 씨 제공</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>김관영, ‘민주당 제명 정지’ 가처분 심문...“기획된 징계”vs“정당한 결정”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/07/6NJUGSRLNFA2ZOOTLLWXNH4NAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/07/6NJUGSRLNFA2ZOOTLLWXNH4NAY/</guid>
-      <dc:creator>김진영 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 09:08:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4WKNJTHE3GEY3BGVSDIYTCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김관영 전북지사가 7일 서울 양천구 남부지방법원에서 열린 더불어민주당 상대 가처분 신청 심문에 출석하며 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당의 제명 결정에 불복하며 법원에 효력 정지 가처분을 신청한 김관영 전북특별자치도지사가 7일 법원에 출석했다.&lt;br&gt;&lt;br&gt;8일 치러지는 전북지사 본경선을 하루 앞둔 이날 오후 김 지사는 서울남부지법 민사합의51부(재판장 권성수) 심리로 열린 제명 효력 정지 가처분 심문 기일에 출석했다. 김 지사는 법원에 출석하며 “(징계 사유에 대한) 소명 기회가 보장되지 않고 빠른 속도로 징계가 이뤄진 점에 대해 충분히 소명하겠다”고 했다.&lt;br&gt;&lt;br&gt;심문에서 김 지사 측은 “감찰 지시에서 제명 결의까지 단 12시간 만에 속전속결로 이뤄진 사례는 정당사에서 찾아보기 힘들다”며 “4개월 전 음주 운전을 우려해 대리비를 줬다가 당일 회수한 해프닝인데 (징계가) 경선 일정에 맞춰 기획된 것이 아닌지 강한 의심이 든다”고 주장했다.&lt;br&gt;&lt;br&gt;민주당 측은 “현직 지사가 유권자에게 금품을 제공한 행위 자체가 당의 도덕성과 경선 공정성에 치명적인 위해를 가하는 비상 상황”이라고 했다. 이어 “사안이 중대해 통상적인 절차를 거칠 여유가 없었으므로 당대표의 자율권에 기초한 정당한 결정”이라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 최후 변론에서 “공직자로서 부적절한 처신은 깊이 반성하지만, 15년 정치 인생이 단 한 번의 충분한 항변 기회도 없이 마감되는 것은 너무나 억울하다”며 “도민의 심판을 받을 기회를 달라”고 했다.&lt;br&gt;&lt;br&gt;재판부는 오는 8일부터 전북지사 본경선 절차가 시작되는 점을 고려해 양측의 추가 자료를 확인한 뒤 조속히 결정을 내릴 방침이다.&lt;br&gt;&lt;br&gt;김 지사는 지난해 11월 전북 전주시의 한 음식점에서 지역 청년들과의 모임 자리에서 대리 운전비 목적의 현금을 건넨 의혹을 받는다. &lt;br&gt;&lt;br&gt;민주당은 지난 1일 긴급 최고위원회의를 열고 만장일치로 김 지사의 제명을 의결했다. 김 지사는 이에 불복해 다음 날 법원에 가처분 신청을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, ‘내란 혐의’ 한덕수 2심 징역 23년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/07/AGVNIFYZ7BBVHB5DMLRW6QDEYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/07/AGVNIFYZ7BBVHB5DMLRW6QDEYE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 08:01:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZGIZLEGA2TMNBYGA2WCMRWGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 공모·가담한 내란 혐의로 1심에서 징역 23년을 선고받은 한덕수 전 국무총리에게 조은석 내란 특별검사팀이 항소심에서도 징역 23년을 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 7일 서울고법 형사12-1부(재판장 이승철) 심리로 열린 한 전 총리의 내란 중요 임무 종사 등 혐의 사건 결심 공판에서 이같이 구형했다. 1심 구형량인 징역 15년보다 8년 상향된 것이다.&lt;br&gt;&lt;br&gt;특검팀은 “원심은 국무총리였던 피고인이 헌법을 준수하기 위해 노력할 의무가 있음에도 내란에 가담했고, 내란의 진실을 밝히는 대신 허위 공문서 작성과 위증 등으로 진정한 반성을 보이지 않았다”며 징역 23년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “피고인은 항소심에서도 범행을 부인하고 있다”며 “피고인은 기억이 안 난다는 태도로 일관하며 정파적 이익을 앞세워 헌법재판관 미임명 등으로 국론 분열을 야기했다”고 주장했다. 그러면서 “원심의 징역 23년은 죄책과 죄질에 부합하는 형”이라며 원심과 같은 형을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;한 전 총리 측은 최후변론에서 “피고인은 계엄 선포 이후 송구한 마음으로 계엄 (해제) 직후 열린 국회 본회의에서 국민 앞에 사죄했고, 현재도 송구한 마음에 밤잠을 이루지 못하고 있다”고 했다. 이어 변호인은 한 전 총리의 내란 혐의와 관련해 “계엄 선포 행위가 ‘국헌 문란 목적의 폭동’에 해당한다는 점을 인식하고 가담했어야 한다”며 “그런데 그 어디에도 피고인이 사전에 (계엄 계획에) 관여한 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;한 전 총리 측은 “피고인은 총리로서 계엄 선포를 막기 위해 국무위원들의 의견을 더 들어봐야 한다고 했을 뿐, 형식적으로 정족수를 채우고 건의해 계엄 선포의 외관을 갖추는 방법으로 내란에 가담했다는 특검 주장은 도무지 납득하기 어렵다”고 했다. “총리로서 헌법이 부여한 권한 내에서 윤석열 전 대통령을 적극적으로 설득하고 말렸지만, 이를 저지할 강제수단은 없었다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마그네슘? 멜라토닌? 수면 돕는 영양제 이렇게 복용하세요 [이러면 낫는다]</title>
-      <link>https://www.chosun.com/medical/2026/04/07/OQ377VBDUVCYJIUTZIWX6O7SK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/07/OQ377VBDUVCYJIUTZIWX6O7SK4/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 08:01:24 +0000</pubDate>
-      <content:encoded>불면증을 겪는 사람들이 수면제와 수면 보조제에 의존하는 경우가 많아지고 있다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 신원철(강동경희대병원 신경과 교수) 대한수면연구학회 회장과 함께 수면제, 멜라토닌, 마그네슘 등 대표적인 수면 관련 약물 및 보조제의 올바른 사용법에 대해 알아봤다. &lt;br&gt;&lt;br&gt;‘증상 조절제’ 수면제는 불면증의 원인을 근본적으로 해결하는 약이 아니다. 두통약과 같이 일시적인 증상을 완화하는 조절제에 가깝다. 불안과 긴장이 높아 잠들지 못할 때 벤조디아제핀과 같은 진정제 계열의 약물을 쓰면, 뇌를 억제하는 신경세포인 ‘가바(GABA)’를 자극해 수면을 돕는다. &lt;br&gt;&lt;br&gt;하지만 약에만 의존하면 뇌가 스스로 잠드는 능력을 잃게 되고, 약을 끊었을 때 내성이 생겨 수면제가 듣지 않는 부작용을 낳을 수 있다. 따라서 수면제를 복용할 때는 규칙적인 수면 습관, 낮 시간의 충분한 활동, 취침 전 스마트폰 사용 금지와 같은 노력을 반드시 병행해야 한다. 수면제를 끊을 때는 천천히 용량을 줄여나가야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVU5OWH5VRGQTL65SHMJDWRGXI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면 보조제로 알려진 멜라토닌은 뇌 시상하부의 체온을 약간 떨어뜨려 졸음을 유발한다. 멜라토닌의 장점은 자고 깨는 24시간 생체 리듬을 고정해 주는 것이다. 교대 근무자나 시차 적응이 필요한 사람, 불규칙한 수면 패턴을 가진 사람에게 특히 유용하다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPJXHMCFSFHD3GP54I7MK3E74U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멜라토닌은 종류에 따라 복용 시간이 다르다. 시중에서 구하는 식물성 멜라토닌이나 미국산 제품(속방형)은 대사가 빨라 2시간 정도면 몸에서 빠져나가기 때문에, 취침 30분~1시간 전에 복용하는 게 좋다. 반면, 병원에서 처방받는 멜라토닌(서방형)은 약효가 천천히 흡수돼 6시간가량 유지되므로 취침 1시간~1시간 30분 전에 복용해야 한다. &lt;br&gt;&lt;br&gt;멜라토닌 복용 후에는 스마트폰 등 빛을 보지 않아야 한다. 빛이 눈에 들어오면 생체 시계가 켜진 것으로 뇌가 인식해 멜라토닌의 수면 유도 효과가 완전히 사라지게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIV6O3PHRNEWBCXURQDWGJELZA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면 보조 마그네슘은 근육을 이완시키고 마음을 진정시키는 작용을 해 수면에 도움을 준다. 체내에 들어온 마그네슘은 멜라토닌 생성을 돕는 원료로 작용하며, 뇌 화학 물질인 가바(GABA·Gamma-Aminobutyric acid) 수치를 조절해 신경계를 안정시킨다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5W2J5MJPVC5PJCA76SAX7TBSU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면 목적일 경우 하루 200~300㎎ 정도의 마그네슘을 취침 2~3시간 전에 복용하는 게 좋다. 마그네슘은 신장을 통해 대사되는데, 신장 기능이 좋지 않은 사람은 섭취에 유의해야 한다. &lt;br&gt;&lt;br&gt;더 자세한 내용은 조선일보 유튜브 ‘오! 건강’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>태평양 공동 창립자 배명인 前 법무부 장관 별세</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/07/TTE6VGXN4BBUBILYIZOFXBVKLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/07/TTE6VGXN4BBUBILYIZOFXBVKLE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 07:58:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TCNZWGYYDQNLGGMYGGZTBMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무법인 태평양을 공동 설립한 배명인(94) 전 법무부 장관이 지난 6일 숙환으로 별세했다. &lt;br&gt;&lt;br&gt;1932년 경남 진해에서 태어난 고인은 진해고와 서울대 법대를 졸업한 뒤 1956년 제8회 고등고시 사법과에 합격해 법조계에 입문했다. 1958년 서울지검 검사를 시작으로 광주지검장, 법무부 검찰국장, 대검찰청 차장검사 등을 거쳐 1982년부터 1985년까지 33대 법무부 장관을 지냈다. 1983년 홍조근정훈장, 1985년 청조근정훈장을 받았따.&lt;br&gt;&lt;br&gt;1986년 김인섭·이정훈 변호사와 함께 변호사와 법무법인 태평양의 전신인 태평양합동법률사무소를 공동 설립했다. 태평양의 영문명인 ‘bkl(BAE, KIM &amp;amp; LEE)’은 배 전 장관과 김 변호사, 이 변호사의 이니셜을 따 만들었다. &lt;br&gt;&lt;br&gt;고인은 ‘정도(正道)’ 경영으로 태평양의 조직문화와 운영 원칙을 정립하고, 태평양을 국내 최대 로펌으로 성장시키는 데 핵심 역할을 했다. 한국 로펌의 기틀을 닦은 주역으로도 평가받는다.&lt;br&gt;&lt;br&gt;유족은 아내 강애자씨와 아들 익준씨, 딸 문경·은경씨가 있다. 빈소는 서울성모병원 장례식장, 발인은 9일 오전 10시다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김예영 前법관회의 의장 “사법행정구조 개선, 법원행정처가 주도할 순 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/07/33RLHU2ZDNDSPBHCCA5CPFCYJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/07/33RLHU2ZDNDSPBHCCA5CPFCYJY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 07:27:50 +0000</pubDate>
-      <content:encoded>전국법관대표회의 의장을 지냈던 김예영 부장판사가 7일 법원행정처 폐지안 등 사법행정 개선 논의를 법원행정처가 주도해서는 안 된다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYTOZBQGIYTEY3EMY4TCMRUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김예영 전 전국법관대표회의 의장(부장판사)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 부장판사는 이날 오전 법원 내부망 코트넷에 게시글을 올려 “올해 전국법관대표회의에서 사법행정 제도 및 기획예산 분과위원회 구성 등을 통해 사법행정 구조 개선안에 대한 연구와 논의를 해달라”고 촉구했다.&lt;br&gt;&lt;br&gt;더불어민주당은 ‘사법 개혁’의 일환으로 최근 공포된 사법 3법(법왜곡죄·재판소원·대법관 증원) 외에도 법원행정처를 폐지하고 사법행정위원회를 신설해 사법행정사무를 총괄하도록 하는 법원조직법 개정안을 추진 중이다.&lt;br&gt;&lt;br&gt;김 부장판사는 “재판 제도와 국민의 권리 구제에 큰 변화를 초래하는 3법 개정이 이뤄지는 동안 대법원과 법원행정처는 공론화와 숙의를 요청하며 사실상 반대만 했을 뿐, 개정 요청의 근저에 있는 국민의 요구를 파악하지도, 설득력 있는 대안을 내놓지도 못했다”고 지적했다. 이어 “구체적 개정안에 우려스러운 지점들이 있더라도 그와 같은 요구가 분출하고 지지를 받는 것은 기존의 제도와 관행에 개선할 점이 있기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;김 부장판사는 그러면서 “개인이나 기관의 능력과 선의를 떠나, 사법 행정 구조 개선 문제를 그 대상이 되는 법원행정처가 주도적으로 다룰 수는 없다”고 주장했다. 전국법관대표회의가 2017년 설치된 이래 선도적으로 사법 행정 개선에 대해 논의해 왔고, 연구 성과도 축적돼 있다는 것이다.&lt;br&gt;&lt;br&gt;김 부장판사는 “사법 행정 구조 개선의 문제만이라도 법원이 주체적으로, 법원 안팎의 충분한 공론화와 숙의를 거쳐 사법의 독립성과 책임성을 최대한 보장하는 방안으로 실현할 수 있기를 희망한다”며 “이를 위해 법관 대표들께서 논의를 이끌어달라”고 했다.&lt;br&gt;&lt;br&gt;법관대표회의는 각급 법원에서 선출된 대표 판사들이 모여 사법 행정 및 법관 독립에 관해 의견을 표명하거나 건의하는 회의체로, 오는 13일 경기 고양 사법연수원에서 올해 첫 정기회의를 열고 의장단을 선출한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민중기 특검 아들도 2차 특검서 ‘김건희 의혹’ 수사</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/07/A2S6CKCJHFD37PR35RT7YD447E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/07/A2S6CKCJHFD37PR35RT7YD447E/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 06:59:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3GIZBYMU4TEZTDGE2WENZRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희와 명태균·건진법사 관련 국정농단 및 불법 선거 개입 사건 등 진상규명을 위한 특별검사팀 민중기 특별검사가 29일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 특별검사팀 브리핑룸에서 특검 수사 결과 종합 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검에 민중기 특검의 아들 민모 검사가 합류했다는 사실이 7일 뒤늦게 알려졌다. 민 검사는 지난달부터 민 특검이 수사하던 김건희 여사 관련 잔여 의혹에 대한 수사를 맡고 있다.&lt;br&gt;&lt;br&gt;종합특검 측은 “민 검사에 대한 평판 등을 고려해 특검 측에서 먼저 합류를 제안했다”며 “수사의 공정성을 해할 여지는 없다”고 했다. 부자가 같은 의혹을 수사한다는 사실만으로는 이해 충돌의 소지가 없다는 의미다. 종합특검은 지난 2월 출범 이후 특검법이 정한 파견 검사 정원 15명을 다 채우지 못했다. 현재 12명의 검사가 근무 중이다.&lt;br&gt;&lt;br&gt;앞서 민 검사는 윤석열 전 대통령이 계엄을 선포한 지 사흘 만인 2024년 12월 6일 검찰 내부망인 이프로스에 글을 올리고 “윤 전 대통령에게서 국가 원수로서의 자질과 품격을 찾아볼 수 없다”며 “검찰이 현직 대통령일지라도 엄중 수사하겠다는 의지를 표명해달라”고 했다.&lt;br&gt;&lt;br&gt;한편 대장동 개발 비리 의혹 사건과 위례신도시 개발 비리 의혹 사건을 수사했던 오모 부장검사는 지난달 종합특검에 출근했다가 곧바로 원청 복귀한 것으로 전해졌다. 오 부장검사는 2022년 10월 서울중앙지검 반부패1부에 투입돼 대장동·위례신도시 사건의 수사와 공판을 담당했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민 1인당 외래진료 17.9회…4년만에 줄었지만 여전히 OECD의 3배</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/07/JZA4N5GWYFCNTOZIV4PV6ZA2DA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/07/JZA4N5GWYFCNTOZIV4PV6ZA2DA/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 06:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XXCHRROMFBLVIHF6Y3BODND6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건강보험심사평가원의 의료 서비스 이용 현황 통계에 따르면 2024년 국민 1인당 외래 진료 횟수는 17.9회를 기록했다. 사진은 지난 8월 서울의 한 병원에서 휠체어에 앉은 노인 환자가 진료 순서를 기다리고 있는 모습.
-/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 국민 한 사람당 병원을 찾아 진료를 받는 평균 횟수가 4년 만에 감소세로 전환했다. 다만 경제협력개발기구(OECD) 회원국과 비교하면 여전히 3배 수준으로 진료를 받은 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 건강보험심사평가원의 의료 서비스 이용 현황 통계에 따르면 2024년 국민 1인당 외래 진료 횟수는 17.9회를 기록했다. 1년 동안 의사와 한의사를 찾아가 진료를 본 횟수가 평균 18번 가까이 된다는 것이다.&lt;br&gt;&lt;br&gt;2024년의 외래 진료 횟수 평균은 1년 전의 18회보다 0.6% 줄었다. 평균치 감소는 2020년(전년 대비 14.5% 감소) 이후 처음 있는 일이다.&lt;br&gt;&lt;br&gt;다만 감소 폭은 적어 국민 1인당 외래 진료 횟수는 여전히 OECD 회원국 평균(2023년 기준 6회)의 3배에 달했다.&lt;br&gt;&lt;br&gt;해당 통계는 치과 외래 진료는 별도로 조사했는데 치과 평균 외래 진료 횟수는 1.7회로 전년과 같은 수준을 유지했다. OECD의 평균 치과 외래 진료 횟수는 1.2회였다.&lt;br&gt;&lt;br&gt;1인당 외래 진료 횟수는 국가별 의료 접근성을 평가하기 위한 지표다. 이 지표가 OECD 평균의 3배라는 것은 한국 국민의 의료 접근성이 그만큼 좋다는 뜻이다.&lt;br&gt;&lt;br&gt;치과를 포함한 전체 과목의 외래 진료 횟수 평균을 성별로 나누면 남성이 17.3회, 여성이 21.8회로 여성이 소폭 많았다. 연령별로 보면 20~24세 국민의 평균 외래 진료 횟수가 8.7회로 가장 적었고, 이후에는 연령이 올라갈수록 횟수가 늘어나는 양상을 보였다. 가장 횟수가 많은 연령은 75~79세로 이들은 한 해 동안 평균 40.8회의 외래 진료를 받았다.&lt;br&gt;&lt;br&gt;외래 진료 비율이 가장 많은 질병은 관절염, 골다공증 등 ‘근골격계통 및 결합 조직의 질환’이었다. 이 질병으로 국민 1인당 평균 3.8회의 외래 진료를 받았다. 도시별로는 서울·대구가 평균 22.7회로 가장 많았고, 부산(22.3회), 대전(21.8회), 전북(21.3회) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;이번 조사에서 성인 중환자실 병상 수는 2018년 8273개에서 2024년 9988개로 20.7% 늘어난 것으로 나타났다. 같은 기간 소아 중환자실 병상은 142개에서 183개로 28.9% 증가했으나 신생아 중환자 병상은 1812개에서 1852개로 2.2% 느는 데 그쳤다. 이 기간에 성인 중환자 병상 가동률은 66.1%에서 55.3%로 하락했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>靑 하정우, 與 사무총장과 회동… 부산 북갑 출마 가시화</title>
