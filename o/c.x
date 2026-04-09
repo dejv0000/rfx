@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘김현지 부속실장 명예훼손’ 인터넷 매체 발행인, 구속영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/10/KBKL362KSNA7DAXHH2UCTSTPTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/KBKL362KSNA7DAXHH2UCTSTPTA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Apr 2026 15:14:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSWKMZQMQYDQNDEGIYDIZBXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김현지 제1부속실장이 청와대에서 열린 수석보좌관회의에 참석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김현지 청와대 제1부속실장에 대한 허위 사실을 유포한 혐의를 받는 인터넷 매체 발행인에 대한 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이종록 영장 전담 부장판사는 9일 정보통신망법상 명예훼손 혐의를 받는 한미일보 발행인 허모씨의 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “수사 진행과 출석 상황, 주거 및 사회적 유대 관계 등에 비춰 증거를 인멸하거나 도망할 염려가 있다고 보기 어렵다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;허씨는 김 부속실장과 관련해 불륜·혼외자·국고 남용 등 허위 사실을 담은 기사를 작성·유포해 명예를 훼손한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당 국민소통위원회는 지난해 10월 허씨와 한미일보를 정보통신망법 위반 혐의로 서울경찰청에 고발했다. 한미일보는 허씨가 인터넷 매체 ‘스카이데일리’ 퇴사 이후 창간한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 10일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/09/GFFU6T6C2REIPCEQ57SQXHYBKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/09/GFFU6T6C2REIPCEQ57SQXHYBKM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Apr 2026 14:34:00 +0000</pubDate>
+      <content:encoded>금 - 전국 흐리다가 맑아짐&lt;br&gt;&lt;br&gt;토~일 - 전국 대체로 맑고, 제주도 흐림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5UKU4BIINFBTOT3J43L3TEK7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 노동위원회 “쿠팡CLS, 분리 교섭 안돼”... 1호 기각</title>
+      <link>https://www.chosun.com/national/labor/2026/04/09/4ZGF7ORP7JH2PP5FYEXEA7QP3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/09/4ZGF7ORP7JH2PP5FYEXEA7QP3A/</guid>
+      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Apr 2026 11:18:47 +0000</pubDate>
+      <content:encoded>서울지방노동위원회가 민주노총 전국택배노동조합이 쿠팡CLS를 상대로 제기한 ‘교섭 단위 분리 신청’을 기각한 것으로 9일 확인됐다. 하청 노조가 주장한 분리 교섭 요구 필요성을 부인한 것으로, 노란봉투법 시행 후 노동위원회가 기각 결정을 내린 건 이번이 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTMM3BGRQTGYLEMZRWIMRZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 쿠팡 물류센터에 배송트럭이 주차돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국택배노조는 노란봉투법 시행 첫날인 지난달 10일 서울지방노동위원회에 교섭 단위 분리 신청을 냈다. 같은 날 한국노총 산하 전국택배산업노동조합이 먼저 쿠팡CLS에 단체교섭을 요구하자, 한국노총 계열 노조와는 별도로 교섭하겠다며 분리 신청을 제기했지만 받아들여지지 않은 것이다. 이들은 “앱을 통한 업무 지시로 택배 노동자를 통제하는 만큼 원청 사용자성이 인정돼야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;그러나 서울지노위 심판위원회는 “다른 노조 조합원들과 현격한 근로조건 및 고용 형태상 차이가 없다는 점, 안정적·효율적 교섭체계 구축 및 교섭창구 단일화 제도의 취지와 필요성 등을 종합적으로 고려해 기각을 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 서울시장 후보 정원오, 부산시장 후보 전재수 확정</title>
+      <link>https://www.chosun.com/politics/assembly/2026/04/09/5E65ZYS6YVC6DMERC3YO4Q6ASM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/04/09/5E65ZYS6YVC6DMERC3YO4Q6ASM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Apr 2026 11:49:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NN2OMPG2WVEWVGJWYIJYF24ADQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오는 6. 3 지방선거에서 더불어민주당 서울시장과 부산시장 후보로 확정된 정원오 전 성동구청장과 전재수 의원/ 국회사진기자단, 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 서울시장, 부산시장 후보로 9일 정원오 전 성동구청장과 3선의 전재수 의원이 선출됐다. 두 사람 모두 ‘명픽’(이재명 대통령의 선택) 후보로 불린다. &lt;br&gt;&lt;br&gt;정원오 후보는 7~9일 진행된 권리당원 투표 50%, 일반 여론조사 50% 방식 경선에서 과반을 얻어, 박주민·전현희 의원을 꺾고 결선 투표 없이 서울시장 후보로 뽑혔다. 3선 구청장을 지낸 정 후보는 지난해 12월 이 대통령이 X(옛 트위터)에서 ‘일 잘한다’고 공개 칭찬하면서 서울시장 후보로 급부상했고 민주당의 중진 의원들을 줄줄이 꺾고 민주당 후보가 됐다. &lt;br&gt;&lt;br&gt;전재수 후보도 같은 방식의 경선에서 이재성 전 부산시당위원장을 누르고 후보로 선출됐다. 전 후보는 부산 북갑에서 3선 국회의원을 지냈고, 2024년 총선 때 부산에서 유일하게 민주당 간판으로 당선됐다. 이재명 정부 출범 이후엔 초대 해양수산부 장관에 임명됐지만 통일교 금품 수수 의혹으로 장관직에서 사퇴했다. 하지만 경찰 수사를 받으면서도 전 후보는 정부·여당의 지원을 받으며 부산시장 후보로 확정됐다.&lt;br&gt;&lt;br&gt;민주당이 정·전 후보를 앞세워 서울·부산시장 탈환에 나서는 가운데, 국민의힘 후보는 조만간 정해질 예정이다. 국민의힘은 오는 18일 오세훈 서울시장과 박수민 의원, 윤희숙 전 의원 간 서울시장 경선 결과를, 오는 11일 박형준 부산시장과 주진우 의원 간 부산시장 경선 결과를 발표한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YL7CH7BKOVHKTANXWC4S7PY2QQ.jpg?auth=c8d76cdc96ad4a84609c7bc4e15fe01319279a539a437d068a37afcad8ff6b84&amp;smart=true&amp;width=1440&amp;height=1080" type="image/jpeg" height="1080" width="1440">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>“나이 안 맞게 젊은 척, 연애 목적”... 2030은 ‘영포티’를 이렇게 본다</title>
       <link>https://www.chosun.com/national/national_general/2026/04/09/F4CPRAHLVJF4XCIHEDX7CIQYJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/F4CPRAHLVJF4XCIHEDX7CIQYJI/</guid>
@@ -796,15 +835,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3TGYJWHBTDOOLDHE3DQN3GMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 함안의 한 자동차부품 공장에서 60대 작업자가 기계에 끼여 숨지는 사고가 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;8일 함안경찰서에 따르면 이날 오후 3시 20분쯤 함안군 칠원읍 칠원공단 내 자동차부품 공장에서 작업 중이던 60대 A씨가 기계에 끼이는 사고가 났다.&lt;br&gt;&lt;br&gt;공장 작업자의 신고를 받고 출동한 소방 당국은 A씨를 병원으로 옮겼지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 로봇이 주로 작업하는 자동차 부품 생산 공정에서 마무리 연마 작업을 하던 중 사고를 당한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 공장은 5인 이상 사업장으로, 중대재해처벌법 적용 대상인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 공장 관계자 등을 상대로 업무상과실 여부와 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>광명서 초등학생 끌고 가려던 고등학생, 1심서 실형 선고 </title>
-      <link>https://www.chosun.com/national/court_law/2026/04/08/EZDFSOCYRNCEFPS6LKLWGSSY3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/08/EZDFSOCYRNCEFPS6LKLWGSSY3M/</guid>
-      <dc:creator>안산=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 09:31:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZTKN3EHA4GCOJSMYZTMOLBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명에서 귀가하려던 초등학생을 끌고 가려던 고등학생에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 형사1부(재판장 정경희)는 8일 성폭력범죄의 처벌 등에 관한 특례법 위반(13세 미만 미성년자에 대한 강간·강제추행 등 미수) 혐의를 받는 A군에게 장기 2년 4월, 단기 2년의 징역형을 선고했다. 이는 소년법에 따라 19세 미만 피고인에게 적용되는 부정기형으로, 수감 생활 태도가 좋은 경우 단기형이 지난 후 사회 복귀를 하게 된다.&lt;br&gt;&lt;br&gt;법원은 또 A군에게 40시간의 성폭력 치료 프로그램 이수와 5년간 아동·청소년 관련 기관 취업 제한도 명령했다. 앞서 검찰은 A군에게 징역 장기 10년, 단기 5년을 구형하면서, 성폭력 치료 프로그램 이수 및 10년간 취업 제한 명령을 요청했다.&lt;br&gt;&lt;br&gt;A군은 작년 9월 8일 오후 4시 20분쯤 광명시의 한 아파트에서 초등학교 저학년생인 B양을 뒤따라가 강제로 끌고 가려 한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;A군은 B양을 따라가 엘리베이터 같은 층에서 내린 뒤 목을 조르며 이 같은 범행을 저지른 것으로 조사됐다. A군은 당시 B양이 강하게 저항하며 비명을 지르자 현장에서 달아났으나, 곧바로 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;A군은 수사기관에 “B양에게 성범죄를 저지를 목적이었다”고 진술한 것으로 알려졌다. A군 측은 재판 과정에서 “범행의 고의가 없었다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자의 진술 내용과 피고인의 답변, CCTV 자료 등을 종합하면 범행의 의도가 충분히 인정된다”며 “어린 피해자를 상대로 범행 수법이 대담하고, 피해자와 그 가족에게 감내하기 어려운 정신적·신체적 상처와 후유증을 남겼다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 소년인 점, 지적장애로 사고 능력이 미약해 보이는 점, 범행이 미수에 그쳤고 초범인 점, 반성하는 태도를 보이는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한국여성단체협의회 “지방선거 여성 후보 30% 이상 공천해야”</title>
       <link>https://www.chosun.com/national/national_general/2026/04/08/EJ7Q7DFRRJBQHGXQIN533UEYSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/EJ7Q7DFRRJBQHGXQIN533UEYSQ/</guid>
@@ -832,19 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4GF27LQK5MLPFZSD5MCPYFCG4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 종로구 변호사회관에서 열린 새로운 형사사법체계의 안정적 정착 방안 토론회에서 박용철 서강대 법학전문대학원 교수가 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 검찰청이 폐지된 이후 공소청에 보완수사권을 부여할지를 두고 전문가들은 “수사, 기소, 공판, 집행은 상호 연결된 절차”라며 “검사의 수사권을 완전 박탈해야 한다는 주장(이른바 ‘검수완박’)은 수사·기소 분리를 답으로 정해 놓고 답에 맞는 문제지 내용을 적어 내는 것과 같다”고 했다. 기소를 위한 법리 검토와 수사는 분리할 수 없는 유기적 관계라는 의미다. “검사에게 수사권을 부여하는 일이 잘못됐다면 왜 특검은 검사를 파견받아 수사와 공소 제기를 모두 담당하게 하냐”는 비판도 나왔다.&lt;br&gt;&lt;br&gt;박용철 서강대 법학전문대학원 교수는 8일 오후 국무총리실 산하 검찰개혁추진단 등이 서울 종로구 변호사회관에서 연 ‘새로운 형사 사법 체계의 안정적 정착 방안 토론회’에서 “‘검수완박’은 검사에게 어떤 기능을 부여해야 적법하고 효율적인 형사 사법 제도 운영이 가능한지 우선적으로 고민하는 게 아닌 수사와 기소 분리를 답으로 정해 놓고 답에 맞는 문제지 내용을 서술하는 격”이라며 “경찰에 수사권을 전담하게 하면 수사권 남용은 없으리라 보는 근거 없는 신념 내지 희망의 표현”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “검사에게 수사권을 부여하는 일이 원천적으로 잘못됐다면 특검법을 모두 개정해 검사 파견 없이 경찰로 구성한 특검 수사를 해야 한다”며 “수많은 검사를 파견받아 수사를 지휘하게 하고 공소 제기와 유지까지 담당하게 하는 현실은 법리적으로 복잡한 수사의 경우 법률적 판단을 할 수 있는 검사가 반드시 수사를 함께해야 함을 인정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이은의 변호사도 “수사 과정 중 특히 진술의 경우, 진술을 받으면서 유기적으로 보완돼야 할 것이 많다”며 “수사 자체가 부실한데 보완수사를 할 수 없거나 보완수사 요구를 통해서도 보충되지 않을 경우 부족한 수사 기록을 통해 기소를 결정하긴 쉽지 않다”고 했다.&lt;br&gt;&lt;br&gt;공소청을 과거 수사권을 가졌던 검찰의 연장선으로 생각하지 말아야 한다는 의견도 있었다. 이국운 한동대 법학부 교수는 “수사는 수사기관의 일이고 공소관의 소관은 아니기 때문에 지극히 예외적으로만 보완수사권을 허용해야 한다”고 했다. 이 교수는 “수사 기구(경찰, 중수청)에 맞서 공소관의 권한을 강화하기 위해선 ‘기소배심제도’나 ‘검사장 주민직선제’ 등을 도입해 장기적으로 공소관의 민주적 대표성을 강화하면 된다”고 했다.&lt;br&gt;&lt;br&gt;손병호 법무법인 원 변호사는 “검찰 수사가 경찰보다 뛰어난 것처럼 보였던 것은 검찰이 영장청구권과 기소권을 독점적으로 보유한 채 이를 수사 과정에서 십분 활용했기 때문”이라며 “수사 역량의 본질적 우월함이 아닌 권한 집중에서 비롯된 구조적 산물”이라고 했다. 그러면서 “검사는 보완수사 요구권을 통해 수사 절차를 감시하는 사법 통제자로서 본연의 역할에 그쳐야 한다”고 주장했다. 유승익 명지대 법학과 교수도 “경찰도 부패·금융·경제 범죄 등 수사에서 성과를 내고 있다”며 “복잡한 법리가 적용돼야 하는 사건의 경우 검사 대신 변호사, 회계사 등 전문가를 보강해 대응하면 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>610만뷰 공무원이 만들었다...전북선관위, 홍보 숏폼 공개</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/04/08/A4ZU62E7YZEZDMBGD2UCJZQRFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/04/08/A4ZU62E7YZEZDMBGD2UCJZQRFM/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 08:53:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4JTZGKOYBBCXB7BO7K3XN5R4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북선관위가 제9회 전국동시지방선거를 앞두고 군산시청 소속 ‘스타 공무원’ 박지수 주무관과 협업해 제작한 선거 홍보 영상 중 한 장면./전북선관위&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제9회 전국동시지방선거를 앞두고 전북도선거관리위원회가 이색적인 홍보전에 나섰다. 전북 군산시청 소속 이른바 ‘스타 공무원’으로 불리는 박지수 주무관과 손잡고 숏폼 콘텐츠를 선보인 것이다. &lt;br&gt;&lt;br&gt;전북선관위는 박 주무관과 협업해 제작한 선거 홍보 숏폼 콘텐츠를 공식 SNS 채널 등에 본격적으로 게시한다고 9일 밝혔다. &lt;br&gt;&lt;br&gt;박 주무관은 톡톡 튀는 숏폼 콘텐츠로 큰 화제를 모으고 있는 인물이다. 특히 지난 제21대 대통령선거 당시 군산시 공식 인스타그램에 올린 ‘투표 시 유의사항’ 영상은 누적 조회수 610만회를 기록했다. &lt;br&gt;&lt;br&gt;이번에 공개되는 영상은 자칫 무겁고 딱딱하게 느껴질 수 있는 선거 관련 정보를 유권자들이 쉽고 재미있게 즐길 수 있도록 기획된 것이 특징이다. 영상은 투표참여 독려, 정책선거 홍보, 투표소 질서 훼손행위 방지 등 세 가지 핵심 주제를 다루고 있다. &lt;br&gt;&lt;br&gt;전북선관위 관계자는 “이번 영상이 다양한 연령층의 유권자를 투표소로 이끄는 마중물이 될 것으로 기대한다”며 “다가오는 선거일까지 유권자의 눈높이에 맞춘 다채로운 홍보 콘텐츠를 지속적으로 선보일 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/W4JTZGKOYBBCXB7BO7K3XN5R4A.jpg?auth=c340a7aa3c7be8b0945213496e0807c2c80ad49f8b49ab36de53fbda3e50743e&amp;smart=true&amp;width=1024&amp;height=1819" type="image/jpeg" height="1819" width="1024">
-        <media:description type="plain">전북선관위가 제9회 전국동시지방선거를 앞두고 군산시청 소속 ‘스타 공무원’ 박지수 주무관과 협업해 제작한 선거 홍보 영상 중 한 장면./전북선관위</media:description>
-        <media:credit role="author" scheme="urn:ebu">김정엽 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>경찰, 이혼한 아내 살해하고 유기한 남성 구속 송치</title>
       <link>https://www.chosun.com/national/national_general/2026/04/08/S3W3465DJBDXDADH3HMJZO26XM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/S3W3465DJBDXDADH3HMJZO26XM/</guid>
@@ -863,15 +880,6 @@
       <content:encoded>이른바 ‘임성근 구명 로비’ 의혹과 관련해 이종호 전 블랙펄인베스트 대표, 임성근 전 해병대 1사단장과 2022년 여름 술자리를 가졌다고 진술한 배우 박성웅씨가 8일 법정에서 임 전 사단장을 직접 대면한 뒤 “저는 이 분을 모른다”고 증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CTP3JRINVKPVJQQQAOC2KNNQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박성웅씨가 8일 서울중앙지법에 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울중앙지법 형사22부(재판장 조형우)에서 열린 임 전 사단장의 국회 위증 혐의 사건 재판에 증인으로 나온 박씨는 증인석 오른편에 앉은 임 전 사단장을 보더니 “이쪽 분이 임성근 사단장입니까? 저는 이 분을 모릅니다”라고 말했다. 박씨는 “2022년 여름 이 전 대표 등과 술자리를 가진 것은 맞다”면서도 “그 자리에 온 해병대 사단장이 임 전 사단장인지는 모른다”고 증언했다.&lt;br&gt;&lt;br&gt;이날 법정에서 공개된 박씨의 해병 특검 참고인 진술서에는 박씨가 문제의 인물에 대해 “이 전 대표가 임 장군, 우리 사단장, 해병대라고 불렀다”고 말한 대목이 담겨 있었다. 임 전 사단장은 “이 전 대표를 모른다”고 국회에서 말하는 등 구명 로비 의혹을 부인해 왔는데, 특검은 박씨를 비롯한 참고인들의 진술을 토대로 임 전 사단장이 거짓말을 했다고 본다. &lt;br&gt;&lt;br&gt;그러나 박씨는 “임 장군이 아니라 우리 장군”이라고 이날 진술을 정정한 것이다. 진술이 바뀐 경위에 대해선 “특검이 다른 술자리 배석자들의 진술을 조합해 물어봤다”며 “이 전 대표는 당시 ‘임 장군’이 아니라 ‘우리 장군’이라는 표현을 썼다”고 재차 강조했다. &lt;br&gt;&lt;br&gt;박씨는 “이 전 대표와 해병대 장군이라는 사람이 수차례 허그를 하는 등 친해 보였다”고 진술했으나, 이를 제외한 부분은 기억이 나지 않는다고 했다. 특검 측은 “통상 술자리에서 군 장성을 만나기 어려우니, 비교적 선명하게 기억이 남았을 것 같다”며 추궁했지만, 박씨는 “제가 사업을 같이 한 것도 아니고, 이득을 바란 관계도 아니다”라며 “제겐 모두 다 같은 일반인”이라고 했다. 술자리에 참석한 해병대 사단장이 임 전 사단장인지는 기억나지 않는다는 것이다.&lt;br&gt;&lt;br&gt;한편 박씨는 이날 자신의 진술 내용이 언론에 보도된 것에 대해 불만을 드러내기도 했다. 특검 측이 익명을 보장해준다고 해 철석같이 믿고 수사에 협조했는데, 불과 한 달여 만에 조사 받은 사실이 보도돼 일상생활이 불가능할 정도의 문의에 시달렸다는 것이다. 이 과정에서 임 전 사단장이 자신의 연락처를 알아내 접근하는 일이 있었다고도 박씨는 증언했다.&lt;br&gt;&lt;br&gt;박씨는 이날 재판을 마친 뒤 기자들과 만나 “아는 것 잘 얘기하고 증언했다”고 말한 뒤 법원을 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘김병기 가족 진료 특혜 의혹’ 보라매병원 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/08/5LCBM5FJO5FUNHY26QIZOMU5K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/5LCBM5FJO5FUNHY26QIZOMU5K4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 08:42:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTIMTBMQ4GIYRTGJRWGMZUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13가지 비위 의혹으로 수사를 받고 있는 김병기 무소속 의원이 8일 오전 피의자 신분으로 조사를 받기 위해 서울 마포구 서울경찰청 공공범죄수사대에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김병기 무소속 의원의 가족 병원 진료 특혜 의혹과 관련해 강제 수사에 나섰다. &lt;br&gt;&lt;br&gt;8일 경찰에 따르면 서울경찰청 공공범죄수사대는 지난 6일 김 의원의 지역구인 서울 동작구에 위치한 보라매병원을 압수수색했다.&lt;br&gt;&lt;br&gt;이 병원은 2024년 11월 김 의원 가족들에게 진료 관련 특혜를 제공했다는 의혹을 받고 있다. 이 시기는 의정 갈등으로 일반 시민들이 병원 이용에 차질을 빚던 때다. &lt;br&gt;&lt;br&gt;2024년 11월, 김 의원 보좌진 A씨는 문자 메시지로 보라매병원 관계자에게 김 의원 장남의 주민등록번호와 전화번호를 전달하며 신속한 진료를 요청했다. 이에 병원 측은 “편한 시간에 방문하시면 진료를 받을 수 있도록 하겠다”며 “조금 일찍 오시면 대기 없이 진료를 보실 수 있게 조치하겠다”고 답했다.&lt;br&gt;&lt;br&gt;진료 기록을 확보한 경찰은 특혜 의혹에 대한 사실관계를 확인 중이다. &lt;br&gt;&lt;br&gt;한편 김 의원은 이날 6차 피의자 조사에 출석해 약 5시간 30분간 조사를 받은 뒤 “무죄 입증을 자신한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>봄비 시샘에 ‘벚꽃 엔딩’... 내일 수도권 최고 50㎜</title>
       <link>https://www.chosun.com/national/transport-environment/2026/04/08/KCEXNAON2BFCXIZTJQDDIDKTEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/08/KCEXNAON2BFCXIZTJQDDIDKTEI/</guid>
@@ -879,15 +887,6 @@
       <description/>
       <pubDate>Wed, 08 Apr 2026 08:22:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRTDGY3DMM4GMNBWGM4WGMRYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내리는 6일 광주 서구 운전저수지를 찾은 시민들이 벚꽃나무사잇길을 걷고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올봄 들어 가장 많은 양의 비가 예고됐다. ‘여름 바람’으로 불리는 남풍이 비구름대 크기를 키우면서 여름 수준의 비가 내릴 것으로 보인다. 비가 그치고 난 뒤에는 초여름 수준의 더위가 찾아올 전망이다.&lt;br&gt;&lt;br&gt;8일 기상청에 따르면, 중국 중부지방에서 서해상으로 이동하는 저기압의 영향으로 9~10일 전국에 비가 내리겠다. 비는 9일 새벽 제주와 전남에서 시작돼 오전 중 전국으로 확대될 것으로 보인다. 이번 비는 고온다습한 남풍이 비의 씨앗이 되는 수증기를 다량 공급할 것으로 보여 강수량이 늘어날 것으로 전망된다. &lt;br&gt;&lt;br&gt;9~10일 예상 강수량은 수도권·강원도 10~50㎜, 충청권 10~60㎜, 광주·전남 50~100㎜, 전북 30~80㎜, 부산 50~100㎜, 경남·울산·대구·경북 30~80㎜, 제주도 50~150㎜ 등으로 예보됐다. 제주산지에는 최대 250㎜ 이상 비가 내리는 곳이 있겠다. &lt;br&gt;&lt;br&gt;9일 제주와 남부지방에는 시간당 20~30㎜의 강한 비가 쏟아지는 곳이 있겠다. 시간당 30㎜는 ‘매우 많은 비’의 기준이 되는 양이다. 운전시 와이퍼를 켜도 앞이 잘 보이지 않는 정도다. 대기 불안정이 커 비가 내릴 땐 돌풍과 함께 천둥·번개를 동반할 것으로 보인다. 비구름대는 10일 늦은 오후 경기 동부와 강원도에 마지막 비를 뿌리고 우리나라 상공을 빠져나가겠다.&lt;br&gt;&lt;br&gt;8일 내륙을 중심으로 기온이 0도 내외로 떨어지는 등 수은주를 뚝 떨군 ‘꽃샘추위’의 여파는 9일까지 이어질 것으로 보인다. 9일 아침 최저기온은 3~12도, 낮 최고기온은 11~18도에 그칠 것으로 보인다.&lt;br&gt;&lt;br&gt;10일 오후 비가 그치고 나면, 저기압이 통과한 자리를 중국 북부지방에서 남동쪽으로 이동하는 고기압이 차지할 것으로 보인다. 이 영향으로 다시 우리나라 상공이 ‘고기압 지붕’에 갇히면서 당분간 초여름 수준의 더위가 나타날 전망이다. 10일 남부지방을 중심으로 한낮 기온이 최고 24도까지 오르겠고, 주말인 12~13일에는 수은주가 최고 26도까지 오를 것으로 예보됐다.&lt;br&gt;&lt;br&gt;다음 주 월요일인 13일 제주와 남부지방에 한 차례 비가 내리는 것을 제외하면 이달 중순까지 큰 비 소식 없이 전국이 고기압 영향권에 계속 갇힐 것으로 예상된다. 이 영향으로 초미세먼지(PM) 수치가 ‘나쁨’ 수준으로 올라가며 공기가 탁할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘포괄임금제 오남용’ 막는다...노동부, 현장 가이드라인 발표</title>
-      <link>https://www.chosun.com/national/labor/2026/04/08/6B34Q6MO2VHJLI5W6ON7GSGRSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/08/6B34Q6MO2VHJLI5W6ON7GSGRSQ/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 07:59:38 +0000</pubDate>
-      <content:encoded>정부가 포괄임금제를 이유로 직원들에게 ‘공짜 노동’을 시키는 회사들에 대한 관리·감독을 강화하기로 했다. 근로 시간 기록을 의무화하고, 포괄임금 계약을 맺었더라도 실제 근로시간에 따른 법정 수당보다 적은 금액을 지급하면 임금 체불로 간주돼 처벌 받는다. 근로시간 측정이 쉽지 않은 중소·중견기업에선 부담이 가중될 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4WINRRMIZDGYRVGJQWMMJVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강석윤 한국노총 상임부위원장(왼쪽부터), 이동근 한국경영자총협회 상근부회장, 김영훈 고용노동부 장관, 한성규 민주노총 부위원장, 오기웅 중소기업중앙회 상근부회장이 지난해 12월 30일 오후 서울 중구 서울 R.ENA 컨벤션센터에서 열린 '실노동시간 단축' 노·사·정 공동선언 및 대국민 보고회에서 기념 촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 고용노동부는 ‘공짜 노동 근절을 위한 포괄임금 오남용 방지 지도 지침’을 발표하고 9일부터 시행한다고 밝혔다. 정부 차원에서 포괄임금 관련 가이드라인을 만든 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;포괄임금제는 실제 일한 시간과 관계없이 일정 수준의 초과근로를 전제하고 미리 정한 임금을 지급하는 방식이다. 원칙적으로는 실제 근로시간에 따라 연장·야간·휴일 수당을 지급해야 하지만, 현장에서는 근로시간을 정확히 산정하기 어렵다는 이유로 포괄임금제를 널리 활용해 왔다. 그러나 일부 사업장에서 이를 악용해 추가 수당 없이 초과근무를 시키는 사례가 발생해 ‘공짜 노동’을 유발한다는 비판이 제기돼 왔다.&lt;br&gt;&lt;br&gt;이번 지침의 핵심은 임금 계산과 지급 기준을 명확히 밝힌 것이다. 사용자는 직원들의 근로시간을 정확히 기록해야 한다. 기본급과 수당을 구분하지 않는 ‘정액급제’나, 각종 수당을 구분하지 않고 일괄 지급하는 ‘정액 수당제’ 방식은 허용되지 않는다. 또 국내 대기업 대부분이 사용하는 ‘고정 OT(수당을 미리 정해 고정으로 지급하고, 초과하면 추가 정산하는 방식)’ 제도가 있더라도 실제 근로시간 기준 수당보다 적을 경우 차액을 반드시 지급해야 한다. 차액을 주지 않을 경우 임금 체불로 보고 제재한다는 방침이다. &lt;br&gt;&lt;br&gt;다만 현장에서는 우려도 적지 않다. 개발자나 영상 제작사 등 일부 업종은 업무 특성상 근로시간을 일률적으로 산정하기 어려운 경우가 많기 때문이다. 또 중소·영세 사업장에서는 근로시간을 정확히 측정하고 관리할 여력이 부족하다. 임금 관련 제도는 법적 분쟁으로 이어질 가능성도 높아 체계를 바꾸려면 노무·법률 컨설팅 등을 거쳐야 하는데, 영세 기업이 이를 감당하기에는 부담이 크다는 지적도 제기된다. 한 중소기업계 관계자는 “현 정부 출범 이후 여러 노동 정책이 동시다발적으로 추진되고 있는데, 현장 기업들이 따라갈 수 있도록 제도 시행 전 설명과 지원을 해줬으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>20일부터 항공기 내 보조배터리 사용 금지</title>
