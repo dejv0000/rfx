@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>마그네슘? 멜라토닌? 수면 돕는 영양제 이렇게 복용하세요 [이러면 낫는다]</title>
+      <link>https://www.chosun.com/medical/2026/04/07/OQ377VBDUVCYJIUTZIWX6O7SK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/07/OQ377VBDUVCYJIUTZIWX6O7SK4/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 07 Apr 2026 08:01:24 +0000</pubDate>
+      <content:encoded>불면증을 겪는 사람들이 수면제와 수면 보조제에 의존하는 경우가 많아지고 있다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 신원철(강동경희대병원 신경과 교수) 대한수면연구학회 회장과 함께 수면제, 멜라토닌, 마그네슘 등 대표적인 수면 관련 약물 및 보조제의 올바른 사용법에 대해 알아봤다. &lt;br&gt;&lt;br&gt;‘증상 조절제’ 수면제는 불면증의 원인을 근본적으로 해결하는 약이 아니다. 두통약과 같이 일시적인 증상을 완화하는 조절제에 가깝다. 불안과 긴장이 높아 잠들지 못할 때 벤조디아제핀과 같은 진정제 계열의 약물을 쓰면, 뇌를 억제하는 신경세포인 ‘가바(GABA)’를 자극해 수면을 돕는다. &lt;br&gt;&lt;br&gt;하지만 약에만 의존하면 뇌가 스스로 잠드는 능력을 잃게 되고, 약을 끊었을 때 내성이 생겨 수면제가 듣지 않는 부작용을 낳을 수 있다. 따라서 수면제를 복용할 때는 규칙적인 수면 습관, 낮 시간의 충분한 활동, 취침 전 스마트폰 사용 금지와 같은 노력을 반드시 병행해야 한다. 수면제를 끊을 때는 천천히 용량을 줄여나가야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVU5OWH5VRGQTL65SHMJDWRGXI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면 보조제로 알려진 멜라토닌은 뇌 시상하부의 체온을 약간 떨어뜨려 졸음을 유발한다. 멜라토닌의 장점은 자고 깨는 24시간 생체 리듬을 고정해 주는 것이다. 교대 근무자나 시차 적응이 필요한 사람, 불규칙한 수면 패턴을 가진 사람에게 특히 유용하다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPJXHMCFSFHD3GP54I7MK3E74U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멜라토닌은 종류에 따라 복용 시간이 다르다. 시중에서 구하는 식물성 멜라토닌이나 미국산 제품(속방형)은 대사가 빨라 2시간 정도면 몸에서 빠져나가기 때문에, 취침 30분~1시간 전에 복용하는 게 좋다. 반면, 병원에서 처방받는 멜라토닌(서방형)은 약효가 천천히 흡수돼 6시간가량 유지되므로 취침 1시간~1시간 30분 전에 복용해야 한다. &lt;br&gt;&lt;br&gt;멜라토닌 복용 후에는 스마트폰 등 빛을 보지 않아야 한다. 빛이 눈에 들어오면 생체 시계가 켜진 것으로 뇌가 인식해 멜라토닌의 수면 유도 효과가 완전히 사라지게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIV6O3PHRNEWBCXURQDWGJELZA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면 보조 마그네슘은 근육을 이완시키고 마음을 진정시키는 작용을 해 수면에 도움을 준다. 체내에 들어온 마그네슘은 멜라토닌 생성을 돕는 원료로 작용하며, 뇌 화학 물질인 가바(GABA·Gamma-Aminobutyric acid) 수치를 조절해 신경계를 안정시킨다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5W2J5MJPVC5PJCA76SAX7TBSU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면 목적일 경우 하루 200~300㎎ 정도의 마그네슘을 취침 2~3시간 전에 복용하는 게 좋다. 마그네슘은 신장을 통해 대사되는데, 신장 기능이 좋지 않은 사람은 섭취에 유의해야 한다. &lt;br&gt;&lt;br&gt;더 자세한 내용은 조선일보 유튜브 ‘오! 건강’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“저는 김창민 감독 살해범입니다” 유튜브 방송 한 가해자</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/10/S5P3DQZRIBBPPAVWBHFYBH6H5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/S5P3DQZRIBBPPAVWBHFYBH6H5M/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Apr 2026 22:17:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FCI5ZBLINEFJJMACZQ2IYZVHY.png"&gt;&lt;figcaption&gt;&lt;small&gt;자신을 고(故) 김창민 감독의 가해자라고 밝힌 이모씨가 9일 유튜브 방송에 출연했다. /유튜브 '카라큘라 탐정사무소'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 11월 장기 기증으로 4명을 살리고 떠난 김창민 영화감독을 폭행해 숨지게 한 혐의를 받는 가해자가 유튜브 채널에 출연했다. 그는 유가족에게 사과했지만, 이 방송을 내보낸 유튜버는 “비열한 사과는 부디 개나 줘버리라”며 후속 영상을 예고했다. &lt;br&gt;&lt;br&gt;9일 유튜브 채널 ‘카라큘라 탐정사무소’에는 ‘저는 김창민 감독 살해범입니다’라는 제목의 영상이 올라왔다. &lt;br&gt;&lt;br&gt;자신을 김 감독의 가해자라고 밝힌 이모씨는 영상에서 “고인이 되신 김창민 감독님과 그 피해자 유가족분들에게 너무 죄송하고 사죄의 말씀을 드리고 싶다”며 “죄송하다는 말밖에 생각이 들지 않는다. 정말 죄송하다”고 했다. 이어 “유가족분들에게도 아들을 잃으신 그 슬픔을 저도 정말 알고 있다”며 “죄송하다는 말밖에 할 수 있는 말이 없어서 너무 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;이씨가 “여기까지”라고 말하자 유튜버 카라큘라가 당시 사건 동석자들에게 질문하는 장면으로 넘어갔다. 카라큘라는 이씨가 ‘범인’이라는 이름으로 ‘양아치’라는 제목의 음원을 낸 이유를 물었다. 이씨는 “작년 그 사건 있기 전부터 준비했던 거고, 예전에 제가 오래 만났던 첫사랑 얘기를 힙합스럽게 한 것”이라고 했다. 활동명을 ‘범인’으로 한 이유에 대해서는 “제가 호랑이띠랑 잘 맞는다고 해서 실제 등에 호랑이 문신을 했다”고 했다. &lt;br&gt;&lt;br&gt;카라큘라는 이 영상 댓글에 “가해자들이 유튜버인 저를 찾은 데에는 자신들만의 이루고자 한 어떤 특수한 목적이 있을 수 있다고 생각한다”며 “그러나 저는 그들의 바람대로 그 어떤 조력도, 도움도 보태줄 마음이 눈곱만큼도 없다”고 했다. 이어 “곧 업로드될 저의 후속 영상에는 그들이 저를 찾은 진짜 숨겨진 이유와 카메라가 꺼진 줄 알고 무심코 내뱉은 가해자들의 추악한 민낯들이 담길 것”이라며 “아마도 가해자들은 ‘카라큘라를 잘못 찾아갔다’고 뒤늦게 자책하며 후회하게 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;그러면서 가해자들을 향해 “당신들은 번지수를 잘못 찾아왔다. 비열한 사과는 부디 개나 줘버리시길 바란다”고 했다. &lt;br&gt;&lt;br&gt;앞서 김 감독은 지난해 10월 20일 새벽 발달장애 아들과 구리시의 한 식당을 찾았다가 다른 손님과 소음 등 문제로 다툼을 벌이던 중 주먹으로 가격당해 쓰러졌다. 약 1시간 만에 인근 병원으로 옮겨진 김 감독은 의식을 회복하지 못하고 작년 11월 7일 뇌사 판정을 받아 장기 기증을 통해 4명에게 새 생명을 나누고 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 김 감독을 폭행한 남성에 대해 구속영장을 신청했으나 검찰이 보완을 요구하며 반려했다. 이후 경찰은 유가족의 요청과 검찰이 요구한 보완 수사를 통해 상해치사 혐의로 구속영장을 다시 신청했으나 의정부지법 남양주지원은 “주거가 일정하고 증거인멸 우려가 없다”며 영장을 기각했다. &lt;br&gt;&lt;br&gt;이에 경찰은 이 사건을 불구속 상태로 검찰에 넘겼고, 유가족 측은 폭행 피해 후 초동대응부터 피의자 처벌까지 모든 과정이 부실하다고 분통을 터트렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>남욱 “검사가 배 가른다고 해 허위 진술”… 검찰 “묻지도 않았는데 적극 진술”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/10/JA2KAKRFTBGRJMHV5LDBOL3VLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/JA2KAKRFTBGRJMHV5LDBOL3VLA/</guid>
@@ -747,15 +765,6 @@
       </media:content>
     </item>
     <item>
-      <title>멜라토닌 먹고 자기 전 스마트폰 보면 무용지물</title>
-      <link>https://www.chosun.com/medical/2026/04/09/67AME6PCJBB7RM7TDVBHEIYZ2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/09/67AME6PCJBB7RM7TDVBHEIYZ2I/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTKHEWICHZHCTBIYMRRYYBWIJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 신원철(강동경희대병원 신경과 교수) 대한수면연구학회 회장과 함께 수면제, 멜라토닌, 마그네슘 등 대표적인 수면 관련 약물 및 보조제의 올바른 사용법을 알아봤다.&lt;br&gt;&lt;br&gt;신원철 회장은 “수면제에만 의존하면 뇌가 스스로 잠드는 능력을 잃게 되고, 약을 끊었을 때 내성이 생겨 수면제가 듣지 않는 부작용을 낳을 수 있다”고 말했다. 따라서 수면제를 복용할 때는 규칙적인 수면 습관, 낮 시간의 충분한 활동, 취침 전 스마트폰 사용 금지와 같은 노력을 반드시 병행해야 한다. &lt;br&gt;&lt;br&gt;수면 보조제로 알려진 멜라토닌은 24시간 생체 리듬을 고정해 주는데 도움을 준다. 교대 근무자나 시차 적응이 필요한 사람, 불규칙한 수면 패턴을 가진 사람에게 특히 유용하다.&lt;br&gt;&lt;br&gt;식물성 멜라토닌은 대사가 빨라 2시간 정도면 몸에서 빠져나가기 때문에, 취침 1시간 이내에 복용하는 게 좋다. 병원에서 처방받는 멜라토닌(서방형)은 약효가 천천히 흡수돼 6시간가량 유지되므로 취침 약 1시간 30분 전에 복용해야 한다.&lt;br&gt;&lt;br&gt;신 회장은 “멜라토닌 복용 후에는 스마트폰 등 빛을 보지 않아야 한다”며 “빛이 눈에 들어오면 생체 시계가 켜진 것으로 뇌가 인식해 멜라토닌의 수면 유도 효과가 완전히 사라지게 된다”고 말했다.&lt;br&gt;&lt;br&gt;수면 보조 마그네슘은 근육을 이완시키고 마음을 진정시키며, 멜라토닌 생성을 돕는 원료로 작용한다. 수면 목적일 경우 하루 200~300㎎ 정도의 마그네슘을 취침 2~3시간 전에 복용하는 게 좋다. 지면에 표기된 QR코드를 스마트폰으로 찍으면, ‘수면 영양제’ 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLTHM4S3ZVFG7LN6CNKMBGTFYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[굿모닝 멤버십] K2 전차 수출 막던 미국이 폴란드에 허락한 이유</title>
       <link>https://www.chosun.com/national/2026/04/09/2RSH5NQOJBFNHCTAA6X367EW4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/04/09/2RSH5NQOJBFNHCTAA6X367EW4Q/</guid>
@@ -819,15 +828,6 @@
       <description/>
       <pubDate>Wed, 08 Apr 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJJPSB7TOZDS5JUIMBWS7PO2YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계적 미래학자이자 ‘특이점이 온다’의 저자인 레이 커즈와일이 인공지능(AI)이 인간 지능에 도달하는 ‘범용인공지능(AGI)’ 시대가 3년 안에 도래할 것이라는 전망을 내놨다.&lt;br&gt;&lt;br&gt;커즈와일은 지난 7일 미 샌프란시스코 모스콘센터에서 열린 AI 콘퍼런스 ‘휴먼X’ 대담에서 “AGI의 정의가 모호할 순 있지만, 늦어도 2029년까지는 확실히 실현될 것”이라고 했다. 이는 그가 2005년 저서에서 ‘튜링 테스트(AI가 실제 사람과 얼마나 비슷하게 대화할 수 있는지 평가하는 것)’를 통과하는 시기로 2029년을 예견한 것과 일치한다. &lt;br&gt;&lt;br&gt;그는 AI 기술이 인류의 생물학적 한계와 ‘수명’의 패러다임을 바꿀 것이라고 강조했다. 커즈와일은 “2032년 이후에는 기술 발전으로 인한 수명 연장 속도가 세월의 속도를 추월해, 노화로 인한 사망이 사라지는 시대가 열릴 것”이라고 주장했다. 현재는 1년이 지나면 수명 1년을 잃지만, 2032년이 되면 기술력을 통해 잃어버린 1년을 온전히 되돌려받는 ‘수명 탈출 속도’에 진입한다는 논리다.&lt;br&gt;&lt;br&gt;인간의 뇌와 AI의 결합에 대해서도 구체적인 로드맵을 제시했다. 그는 2030년대 초가 되면 뇌와 AI가 융합돼 사고의 출처를 구분하기 어려워지고, 2030년대 중후반에는 수술 없이도 AI가 비침습적으로 뇌 속으로 들어가는 단계에 이를 것이라고 내다봤다.&lt;br&gt;&lt;br&gt;커즈와일은 2029년 출간 예정인 신작 ‘AGI가 왔다!’를 집필하며 구글의 AI ‘제미나이’를 활용한 일화를 소개했다. 그는 “제미나이에게 내 새 책의 내용을 묻자, 아직 세상에 나오지 않은 내 구상을 AI가 파악해 답변을 내놨다”며 “AI는 인간의 창의성과 융합될 수 있는 수준의 창조적 능력을 갖췄다”고 평가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>심혈관질환자, LDL 콜레스테롤 수치 55로 ‘확’ 낮춰야 안전</title>
-      <link>https://www.chosun.com/medical/2026/04/09/FQZ5ONSPYZEGPIE4JU5NVCMDDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/09/FQZ5ONSPYZEGPIE4JU5NVCMDDI/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>세브란스병원 심장내과 김병극·이용준·이승준 교수 연구팀은 동맥경화성 심혈관질환 환자에서 LDL 콜레스테롤을 55(mg/dL) 미만으로 적극적으로 낮추는 치료 전략이 기존 목표치인 70 미만보다 주요 심혈관질환 발생 사건을 30% 이상 낮출 수 있다고 밝혔다. LDL 콜레스테롤은 심혈관질환을 일으키는 핵심 요인이다. &lt;br&gt;&lt;br&gt;이번 연구 결과는 최근 열린 2026년 미국심장학회(ACC) 학술대회에 발표됐으며, 세계 최고수준의 국제학술지 ‘뉴잉글랜드 의학 저널’ 최신호에 게재됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3ATNYUHPVFKVH4N34ET4XCYRM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동맥경화성 심혈관질환 환자는 심근경색이나 뇌졸중 등 주요 심혈관 사건이 재발할 위험이 높은 고위험군이다. 이러한 환자에서 이상지질혈증 치료의 핵심 목표는 LDL 콜레스테롤을 낮추는 것이다. 그러나 구체적인 목표치를 검증한 연구는 부족했다. &lt;br&gt;&lt;br&gt;이에 연구팀은 국내 17개 의료기관에서 동맥경화성 심혈관질환 환자 3048명을 대상으로 LDL 콜레스테롤 목표치를 55 미만으로 설정한 집중 목표군과 70 미만을 목표로 한 기존 목표군으로 나눠 치료 효과를 비교했다. 각 군의 환자는 무작위로 배정했으며, 추적 관찰 기간 동안 목표 LDL 콜레스테롤 수치를 달성하기 위해 간에서 콜레스테롤 합성을 억제하는 대표적인 콜레스테롤 강하제 스타틴 용량을 조절하고, 소장에서 콜레스테롤 흡수를 억제하는 비(非)스타틴 약물도 사용했다.&lt;br&gt;&lt;br&gt;3년간의 추적 관찰 결과, 심혈관 사망, 심근경색, 뇌졸중 등 주요 심혈관 사건 발생률이 집중 목표군(55 미만)에서 6.6%로 기존 목표군(70 미만) 9.7%와 비교해 약 30% 이상 낮은 것으로 나타났다. 안전성 분석에서도 혈당 조절 악화, 근육 관련 부작용, 간효소 상승 등 대부분의 이상반응에서 두 군 간의 차이가 없었다.&lt;br&gt;&lt;br&gt; 이번 연구 결과는 치료 가이드라인에 반영될 것으로 보인다. 미국 심장학회 등은 심혈관질환 위험이 높을수록 LDL 관리 목표 치를 더 낮게 잡고, 생활요법과 스타틴을 기본으로 하되 목표에 못 미치면 비스타틴 약제를 단계적으로 더한다는 가이드라인을 제시하고 있다&amp;lt;그래픽 참조&amp;gt;.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>꽃가루 알레르기, 약 미리 먹으면 가볍게 지나가</title>
