@@ -13,6 +13,131 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검·경 합수본, 전재수 무혐의 처분... 공천 하루만에 족쇄 풀어줬다</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/10/JWHHSXJ4KZDQZMC5MDD7DIOCSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/JWHHSXJ4KZDQZMC5MDD7DIOCSA/</guid>
+      <dc:creator>김나영 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 02:01:48 +0000</pubDate>
+      <content:encoded>통일교의 정치권 금품 수수 의혹을 수사 중인 검경 합동수사본부(본부장 김태훈 대전고검장)가 수수자로 지목된 전현직 국회의원들에 대해 무혐의 처분했다고 10일 밝혔다. 더불어민주당의 부산시장 후보인 전재수 의원이 명품 시계를 받은 의혹은 ‘공소권 없음’ 처분됐다. &lt;br&gt;&lt;br&gt;전 의원이 공천을 확정받고 난 후에야 혐의를 벗자 법조계에서는 “합수본이 여권 실력자에 면죄부를 줬다”는 비판 목소리가 나온다. 전 의원이 전날 부산시장 후보로 확정되자, 합수본이 하루 만에 기다렸다는 듯 수사 결과를 발표한 모양새라는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTDSOBTME3GIYZVGAYWEYRZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 더불어민주당 의원이 지난 2일 부산 동구 해양수산부 청사 앞에서 기자회견을 열고 6·3 지방선거 부산시장 출마를 공식 선언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 6일 출범한 합수본은 약 3개월간 수사를 벌이고 이같이 결론 내렸다. 합수본 관계자는 “전 의원 등의 정치자금법 위반 등 사건에 대해 공소시효가 완성되거나 증거가 불충분하다고 판단했다”고 설명했다. 통일교 의혹을 수사한 합수본 경찰팀은 지난 3일 불송치 결정을 내렸고, 검찰이 이날 기록을 반환하면서 수사가 종결됐다.&lt;br&gt;&lt;br&gt;전 의원은 2018년 8월 21일 경기 가평군에 있는 통일교 천정궁에서 한일 해저터널에 대한 청탁을 받고 785만원 상당 까르띠에 시계 1점과 현금 2000만~3000만원을 수수한 혐의(뇌물수수·정치자금법 위반)를 받았다. 합수본은 정원주 전 통일교 총재 비서실장이 시계를 구입하고, 전 의원의 지인이 2019년 7월 해당 시계를 수리 맡긴 사실도 확인했지만 시계 실물은 확보하지 못했다고 한다.&lt;br&gt;&lt;br&gt;합수본 관계자는 “전 의원과 통일교 정선교회장 목사가 8월 21일 천정궁을 방문했을 때 시계가 전달된 것으로 의심하고 있다”면서도 “수수했다고 단언하긴 어렵고 그러한 정황이 있다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;또 “현금 제공과 관련해선 윤영호 전 세계본부장의 진술이 사실상 유일한 증거로, 현금 수수 여부나 액수를 특정하기 어렵다”라며 “시계를 포함해 제공된 금품이 3000만원 이상이라고 보기 어려워 공소시효(7년)가 완성됐다고 봤다”고 했다. 3000만원이 넘어가면 공소시효가 10년으로 늘어나지만, 돈의 액수 자체를 밝혀내지 못해 공소권 없음으로 결론 냈다는 것이다.&lt;br&gt;&lt;br&gt;당초 이 의혹은 민중기 특검팀이 처음 인지했다. 특검팀은 작년 8월 22일 윤 전 본부장에게서 해당 의혹과 관련해 진술을 받았지만 특검법상 수사 대상이 아니라는 이유로 수사하지 않았다. 이후 ‘수사 뭉개기’라는 논란이 불거지자 경찰이 수사에 착수했고, 지난 1월 출범한 합수본이 사건을 이어받았다. 특검 측 관계자는 “합수본이 수수 시점을 2018년 8월 21일로 특정했다면, 저희가 사건을 인지했을 때도 이미 공소시효 시점이 임박했을 무렵이었던 셈”이라고 했다.&lt;br&gt;&lt;br&gt;전 의원은 2019년 10월 통일교 산하 선화예술중고의 이전 관련 청탁을 받고 자서전 500권 구입 대금 명목인 현금 1000만원을 수수한 혐의도 받았다. 이에 대해 합수본은 “자서전을 구입한 사실은 인정되지만, 그 무렵 통일교에서 전 의원을 만나 청탁했다고 볼 구체적인 사정이 없다”며 무혐의로 판단했다. 앞서 합수본이 확보한 통일교 내부 문건에는 ‘전 의원 미팅’이라는 문구와 함께 ‘유니버설 재단 및 선화예술중고 이전 개발’ 등이 적혀 있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDYUX6GKPRAW7KUJSJUFOW6FRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임종성(왼쪽) 전 더불어민주당 의원과 김규환 전 미래통합당 의원./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임·김 전 의원은 2020년 4월 통일교 측으로부터 각각 현금 3000만원을 받은 혐의(정치자금법 위반)를 받았다. 합수본은 “두 사람이 각종 통일교 행사에 참석하는 등 일정한 관계를 유지해온 사실은 인정된다”면서도 “구체적인 금품 액수나 제공 경위 등이 불분명해 혐의없음으로 판단했다”고 했다. 이에 따라 금품의 공여자로 의심받았던 통일교 한학자 총재, 정 전 비서실장, 윤 전 본부장 등도 혐의를 벗게 됐다. &lt;br&gt;&lt;br&gt;다만 합수본은 전 의원 보좌진 4명이 압수수색에 대비해 부산 지역구 사무실 내 PC를 초기화하고, 하드디스크를 파손한 정황을 포착하고 이들을 증거인멸죄로 불구속 기소했다. 그러나 보좌진들이 전 의원의 지시를 받고 증거를 인멸했는지 여부는 드러나지 않았다.&lt;br&gt;&lt;br&gt;한편 민 특검은 편파 수사 및 수사 무마 의혹으로 고위공직자범죄수사처 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 다시 봄기운… 미세먼지 없이 포근</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/10/2XD5WNTFSRCA5AWKZK7GFMTEO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/10/2XD5WNTFSRCA5AWKZK7GFMTEO4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 04:31:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVRCW34QGVKTVHAXQAPHZNVORQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내린 10일 서울 여의도 윤중로 벚나무에 벚꽃잎이 떨어지고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봄비가 그친 이번 주말은 전국이 따뜻한 봄기운을 되찾을 것으로 예보됐다. 10일까지 내린 봄비에 우리나라 상공에 쌓여 있던 미세먼지가 모두 씻겨나가며 오랜만에 쾌청한 주말을 맞을 것으로 보인다.&lt;br&gt;&lt;br&gt;10일 기상청에 따르면, 이날 오후 늦게 저기압이 우리나라 상공을 완전히 빠져나가면서 전날부터 내린 비가 그치겠다. 전날 제주와 남부지방에 내려진 호우특보도 모두 해제된 상태다.&lt;br&gt;&lt;br&gt;저기압이 빠져나간 자리에는 서해상에 위치한 고기압이 들어오면서 10일 오후부터 주말인 11~12일까지 전국이 대체로 맑을 전망이다. 다만 12일 오후 중국 상하이 부근에서 동쪽으로 이동하는 기압골의 영향을 받는 제주와 전남에는 5~10㎜의 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;11~12일 아침 최저기온은 3~12도, 낮 최고기온은 16~24도로 예보됐다. 해가 뜨면 따뜻하고, 지면 빠르게 기온이 떨어지면서 낮과 밤의 기온 차가 15도 이상 크게 벌어질 것으로 보인다.&lt;br&gt;&lt;br&gt;다음 주 월요일인 13일에는 저기압의 영향으로 제주와 남부지방엔 비가 내리겠고, 중부지방은 흐릴 것으로 예상된다. &lt;br&gt;&lt;br&gt;이후 14일부터 주말까지는 큰 비 소식 없이 전국이 대체로 맑겠고, 최고기온이 26도까지 오르며 평년보다 높은 기온을 유지할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오피스텔 ‘깡통전세’ 사기로 52억 뜯어내…사회초년생 울린 일당 49명 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/10/WKKOQELDTJCLNNFEIVJMTVUIOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/WKKOQELDTJCLNNFEIVJMTVUIOE/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 03:00:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65WYBBQVOJDWRDJ2YAQWCLMY5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;사회초년생들에게 ‘깡통 전세’ 수법으로 52억원을 뜯어낸 전세 사기 일당이 마스크와 선글라스로 얼굴을 가리고 경찰의 추적을 피하는 모습./서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회 초년생들에게 ‘깡통 전세’ 수법으로 52억원을 뜯어낸 전세 사기 일당이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 광역범죄수사대는 ‘깡통 전세’ 수법으로 52억원을 챙긴 전세 사기 일당 49명을 검거하고 이 중 1명을 구속 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 건축주, 분양 브로커, 바지 임대인, 공인중개사 등으로 구성된 이들은 2021년 12월부터 2022년 7월 사이 대학생과 사회 초년생 등 22명을 상대로 전세 보증금 52억원을 가로챈 혐의를 받는다. 이들은 오피스텔 매매 대금을 웃도는 금액으로 전세 보증금을 책정해 계약을 맺은 뒤, 바지 임대인에게 명의를 넘기는 이른바 ‘동시 진행’ 수법을 사용했다.&lt;br&gt;&lt;br&gt;범행 과정은 철저히 분업화됐다. 분양 업체는 신용 불량자인 바지 임대인들을 건축주에게 소개해주고 건당 2400만~3600만 원의 수수료를 챙겼다. 이 바지 임대인들은 전세금 변제 능력이 없음에도 전세계약을 다수 체결하며 범행에 가담했다. 공인중개사 및 중개보조원들은 고액 보증금을 낼 임차인을 끌어오면서 법정 수수료의 10~15배를 초과하는 수수료를 불법으로 가져갔다.&lt;br&gt;&lt;br&gt;특히, 구속된 일부 바지 임대인은 전세 계약서를 월세 계약서로 위조한 뒤 이를 대부업체에 제시해 1억3000만원의 대출금을 가로채는 추가 범행까지 저지른 것으로 드러났다. 또 피의자들이 잠적한 뒤 대부업자들이 세입자를 찾아와 빚을 독촉하는 등, 임차인들은 2차 피해를 겪었다.&lt;br&gt;&lt;br&gt;경찰은 2024년 8월 국토교통부의 수사 의뢰를 받고 내사에 착수해, 약 1년 7개월간의 추적 끝에 피의자들을 대부분 검거했다. 이 과정에서 구속 전 피의자 심문(영장실질심사)에 불출석하고 도주한 피의자를 쫓다 그를 숨겨주던 또 다른 지명수배자까지 함께 붙잡기도 했다.&lt;br&gt;&lt;br&gt;경찰은 “임대인이 변경될 때 계약 승계를 원하지 않는 임차인은 기존 임대인에게 계약 해지 및 이의 제기를 할 수 있는 거부권이 있다”며 “사회 초년생 등 약자를 대상으로 한 전세 사기에 대해 앞으로도 지속적인 수사를 이어갈 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 ‘천원의 아침밥’ 먹은 대학생들 집단 식중독 증상</title>
+      <link>https://www.chosun.com/national/regional/2026/04/10/FKXCNGXBGBAY5L64Y36N2R4WAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/FKXCNGXBGBAY5L64Y36N2R4WAU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 04:50:38 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYWCNTDGYYTKYRRGU2TONTDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;식중독균 배양검사 장면. 위 사진은 기사와 직접적인 관련은 없음. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;부산의 한 대학교에서 학생들이 도시락을 먹은 뒤 집단으로 식중독 의심 증상을 보여 보건 당국이 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;10일 부산시에 따르면 지난 7일 부산 지역 한 대학에서 제공한 도시락을 먹은 학생 20명이 구토와 설사 등 식중독으로 의심되는 증상을 호소했다.&lt;br&gt;&lt;br&gt;해당 도시락은 교육부와 농림축산식품부가 함께 추진하는 대학생 복지 지원 사업인 ‘천원의 아침밥’을 통해 제공된 것으로 확인됐다. 이 사업은 학생들이 1000원만 부담하면 나머지 비용을 정부와 지자체가 지원하는 방식으로 운영된다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “도시락 제조업체와 학교를 대상으로 검체를 확보해 역학조사를 진행하고 있다”며 “현재까지 부산지역에서 추가로 접수된 식중독 의심 신고는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주 벚꽃축제서 여중생 집단폭행… 10대 4명 입건</title>
+      <link>https://www.chosun.com/national/regional/2026/04/10/EF4H3QMHUBDZPFPN6AKEZBGFG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/EF4H3QMHUBDZPFPN6AKEZBGFG4/</guid>
+      <dc:creator>청주=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 04:49:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 열린 벚꽃 축제 현장에서 또래 여중생을 집단 폭행한 10대 4명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;청주 청원경찰서는 폭력행위처벌법상 공동폭행 혐의로 A양 등 10대 4명을 불구속 입건해 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 5일 오후 7시 50분쯤 청주시 무심천 벚꽃 축제가 열리던 둔치 무대 뒤편 임시 주차장에서 B양을 집단 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 현장에 있던 축제 자원봉사자가 이들을 제지한 뒤 경찰에 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A양 등을 상대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>걸음마다 치유 남긴 ‘제주 올레 길잡이’</title>
+      <link>https://www.chosun.com/national/regional/2026/04/08/IWGMARD6M5EXVH5TCM25AGSGQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/08/IWGMARD6M5EXVH5TCM25AGSGQY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 07 Apr 2026 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YK6JDLIFTREHHMRKCPHNR7KHVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 사단법인 제주올레&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서명숙(69) 제주올레 이사장이 7일 별세했다. 서 이사장은 제주도에 올레길을 만들어 걷기 바람을 일으킨 주인공이다. 제주 서귀포에서 태어난 서 이사장은 시사저널 편집장을 지낸 기자 출신이다. 정치부 여기자 1세대로 꼽힌 고인은 22년간 언론인으로 활동했다. 그러다 2006년 불쑥 스페인 산티아고 순례길로 떠났다. 한 달간 800㎞를 걸으면서 ‘살아서 갈 수 있는 천국이 바로 여기구나’ 감탄했다고 한다. “내가 ‘5년에 한 번씩은 땡빚을 내서라도 산티아고에 와야지’ 하고 큰소리치니까 옆에 있던 헤니라는 영국인 친구가 그래요. ‘우리, 자기 나라로 돌아가서 각자의 길을 만드는 게 어때? 너는 너의 길을, 나는 나의 길을.’ 머리에 번개를 맞은 기분이었죠.” 서 이사장 얘기다.&lt;br&gt;&lt;br&gt;한국에 돌아오자마자 고향 제주로 내려갔다. 2007년 여름이었다. 사단법인 제주올레를 세우고 서귀포 시흥리에 첫 코스를 냈다. 꾸준히 길을 발굴해 15년 만인 2022년 제주도 한 바퀴를 걸어서 여행할 수 있는 27개 코스, 437㎞를 완성했다. 그해 올레길을 걸은 ‘올레꾼’이 1000만명을 돌파했다. 올레가 지나는 마을은 청년이 돌아오면서 활력을 되찾았다.&lt;br&gt;&lt;br&gt;제주올레는 2010년대 도보 여행 바람을 일으켰다. 전국 곳곳에 제주올레를 본뜬 도보 여행 길이 생겼다. 2012년에는 일본 규슈에도 올레를 수출했다. 이러한 공로로 2017년 ‘국민훈장 동백장’을 받았다. &lt;br&gt;&lt;br&gt;올 2월 서 이사장은 산티아고 순례길에서 만났던 잔느 캐서린 헤니(74·영국)와 재회했다. 20년 만이었다. 헤니를 그리워한 서 이사장이 주변 사람들의 도움을 받아 찾아낸 것이다. 서 이사장은 헤니를 초청해 제주올레 6코스를 함께 걸었다. “수키(서명숙)가 이 길을 냈다고? 믿어지지 않는다. 정말 위대한 일을 했다. 올레길을 중심으로 많은 사람이 모이는 걸 보고 수키가 ‘인간의 길(Human Trail)’을 만들었다는 걸 알 수 있었다. 엄청나게 놀랐고 감동했다.” 헤니는 이렇게 말했다고 한다. 안은주 제주올레 대표는 “올레길을 만든 서 이사장은 20년 만에 헤니와 재회한 뒤 하늘 속 순례길로 떠났다”고 했다.&lt;br&gt;&lt;br&gt;빈소는 서귀포의료원 장례식장에 마련됐다. 영결식은 오는 10일 오전 9시 제주올레 6코스 서복공원 잔디광장에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쯔양 협박해 5500만원 뜯은 구제역… 이번엔 무고 혐의로 검찰 송치 </title>
+      <link>https://www.chosun.com/national/incident/2026/04/10/GJQKUG36OFG5PI4XEKEXBSFID4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/10/GJQKUG36OFG5PI4XEKEXBSFID4/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 04:07:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZGMZRZGVSDOZRYGRTDOZBWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 구제역(본명 이준희). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 쯔양(본명 박정원)을 협박해 돈을 뜯어낸 혐의로 징역 3년의 실형을 확정받은 유튜버 구제역(본명 이준희)이 쯔양을 상대로 허위 고소를 한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 수원팔달경찰서는 무고 혐의로 이씨를 검찰에 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;구제역은 2023년 2월 쯔양에게 “탈세 및 사생활 의혹을 제보받았다”며 이를 공론화하지 않는 대가로 5500만원을 받아낸 혐의로 재판에 넘겨져 지난달 대법원에서 징역 3년형이 확정됐다. 이후 재판 과정에서 “쯔양이 위증했다”는 취지의 고소장을 제출했으나, 해당 내용이 허위로 판단되면서 무고 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난해 2월 구제역의 고소를 접수해 수사했지만, 쯔양의 위증 사실이 없다고 보고 불송치 결정을 내렸다. 이후 쯔양은 같은 해 10월 해당 수사 결과를 근거로 구제역을 무고 혐의로 고소했다.&lt;br&gt;&lt;br&gt;경찰은 구제역이 허위 사실로 고소를 제기한 것으로 보고 최근 사건을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;한편 구제역은 대법원 판결에 대해 헌법소원을 제기하는 등 불복 절차를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘IQ 204’ 백강현 “과학고 자퇴하고 싶지 않았다”…학폭 피해 고백</title>
+      <link>https://www.chosun.com/national/people/2026/04/10/MPYZW37FHVC45BUCLKJA2RIPK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/10/MPYZW37FHVC45BUCLKJA2RIPK4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 00:34:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6BJD7ING5AW3PRZCLWWRTOS5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;IQ 204의 영재소년으로 유명한 백강현(13)군이 2023년 서울과학고를 자퇴한 후 근황을 전했다. /유튜브 '백강현'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만 10세에 과학고에 입학해 화제를 모았던 ‘영재’ 백강현군이 재학 시절 학교 폭력 피해로 “굉장히 많이 울었던 걸로 기억한다”며 “사실 그때 자퇴하고 싶지는 않았다”고 당시 심정을 털어놨다.&lt;br&gt;&lt;br&gt;4월 9일 방송된 SBS ‘영재발굴단 인피니티’ 2회에서는 과거 ‘영재발굴단’을 통해 이름을 알렸던 백강현군이 출연했다. 백군은 방송에서 과학고를 자퇴하게 된 배경과 이후의 도전 과정을 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNNUDXEY6BFUXBCNERQA2WMJ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과거 '영재발굴단'에 출연한 백강현군의 모습./SBS ‘영재발굴단 인피니티’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백군은 과거 ‘영재발굴단’ 출연 당시 생후 41개월로, 방송에서 방정식을 푸는 등 수학과 음악에 재능을 보였다. 백군의 지능지수는 웩슬러 기준 IQ 164, 멘사 기준 IQ 204로 측정됐다. 이후 만 6세에 초등학교에 입학한 뒤 시험을 거쳐 7세에 5학년으로 조기 진급했고, 만 9세에 중학교에 들어간 뒤 만 10세에 과학고에 진학했다.&lt;br&gt;&lt;br&gt;백군은 만 10세에 과학고에 진학했지만 학교 폭력으로 인해 5개월 만에 자퇴하게 됐다고 밝혔다. 그는 “그때 공부하는 걸 굉장히 재미있게 생각했고, 형·누나들과 관계는 매우 화목했다”고 말했다.&lt;br&gt;&lt;br&gt;백군의 어머니는 “많은 학생이랑은 잘 지냈는데 유독 한 학생과 문제가 계속 있었다. 인터넷에 나쁜 글도 공개적으로 올리고 점점 강현이랑 이야기하다 보니까 강현이가 얼마나 괴롭힘을 당했는지 알게 되고 그러다 보니 그만두고 싶다고 이야기했다. 그래서 자퇴를 하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;공개된 자료에 따르면 가해 학생은 학교 폭력 3호 처분을 받았다. 3호 처분은 교내에서 봉사 활동을 통해 자신의 행동을 반성하는 기회를 주기 위한 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZZORVFT5VEQ3JOTFE6USIDHMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10살의 나이에 서울 과학고에 입학해 화제를 모았던 '영재' 백강현군이 학교 폭력을 겼었던 당시를 떠올리고 있다./SBS ‘영재발굴단 인피니티’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백군은 “그때 굉장히 많이 울었던 걸로 기억한다. 사실 그때 자퇴를 하고 싶지는 않았다. 과학고에 대해서는 아직도 본교로 생각하고 있다. 그때는 막막했다. 학교에서 나왔으니까. 검정고시 준비를 해야 하나 고민이 많았다”며 당시 심정을 전했다.&lt;br&gt;&lt;br&gt;이후 백군은 유학 제안을 받아 영국 옥스퍼드대 컴퓨터사이언스과 입시에 도전했다. 백군은 영국 대학 입학시험 인터내셔널 A레벨 준비를 위해 평일에 15시간 이상 공부했다고 밝혔다. 그는 “손가락에 굳은살이 박여서 보기 힘들 정도로 된 적이 있다”며 “그동안 푼 시험지를 합치면 제 키의 3배 정도 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;그 결과 백군은 수학, 심화 수학, 물리, 화학 네 과목 모두에서 최고 등급인 에이스타(A*)를 받았고, 또 다른 시험인 MAT(Mathematics Admissions Test)에서도 85점으로 상위 10%에 들었다. 그러나 최종 합격에는 이르지 못했다. 백군은 “MAT에서 만점에 가까운 점수를 받았으면 불합격하기 어려웠을 것”이라고 한 뒤 “떨어졌지만 도전한 건 좋은 선택이었다”고 말했다.&lt;br&gt;&lt;br&gt;현재 백군은 옥스퍼드대 입시 실패 이후에도 작사, 작곡, 앱 게임 개발 등 다양한 분야에서 도전을 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LOOQVP6KBNETFPWEMYYIXCESZA.jpg?auth=104c60f3fb772d63e3ee016f266b32cef6210064874735ac7dbfb723e64730e5&amp;smart=true&amp;width=284&amp;height=213" type="image/jpeg" height="213" width="284">
+        <media:description type="plain">10살의 나이에 서울 과학고에 입학해 화제를 모았던 '영재' 백강현군이 학교 폭력을 겼었던 당시를 떠올리고 있다./SBS ‘영재발굴단 인피니티’</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[핫코너] “월세 공짜” 공실 늘자 콧대 낮춘 가로수길 건물주들</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/09/BKZDUCYWJBCWFCPAKD73KDLK2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/BKZDUCYWJBCWFCPAKD73KDLK2Y/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 15:47:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBRCSOJMKZGSBDJV5N4YPSD2PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 서울 강남구 가로수길의 공실 한 곳에 '임대' 딱지가 붙어 있다./김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1990년대 ‘오렌지족’의 본거지였던 서울 강남구 신사동 가로수길은 이후 30여 년간 젊은이들이 넘쳐나는 서울의 노른자위 땅으로 통했다. 세계 최고 상권에만 문을 여는 애플스토어 국내 첫 매장도 2018년 이곳에 들어섰다. 2010년대까지 대기업 프랜차이즈들이 앞다퉈 입점하려 줄을 서며 가로수길 건물주들의 위상은 ‘갑 중의 갑’으로 꼽혔다. 하지만 코로나 팬데믹 이후 상권 침체가 장기화하고 공실률이 40%를 넘어서자, 콧대 높던 건물주들이 월세를 인하한 데 이어 ‘무상 임대’ 카드까지 검토하고 있다.&lt;br&gt;&lt;br&gt;가로수길 건물주 20여 명이 모인 ‘가로수길 지역 번영회’는 6월 열리는 지역 축제를 앞두고 최소 3개월에서 최대 1년간 임대료를 받지 않는 방안을 검토 중인 것으로 8일 알려졌다. 평당 50만원 선인 월세를 받지 않고 팝업스토어 등을 유치하겠다는 것이다. 다만 전기료 등 공과금과 대행사 수수료는 임차인이 부담하는 조건이다. 현재 건물주 5~6명이 이런 ‘무상 월세 팝업스토어’ 유치를 긍정적으로 검토하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;가로수길 건물주들의 이런 움직임은 지역 상가 공실률 때문이다. 부동산 컨설팅사 쿠시먼앤드웨이크필드에 따르면, 작년 4분기 가로수길 공실률은 45.2%다. 가로수길 지역만큼은 아니지만 청담동(공실률 13.4%), 강남역 일대(11.3%) 등 강남 지역 다른 상권도 상황은 비슷하다.&lt;br&gt;&lt;br&gt;코로나 팬데믹에서 타격을 입은 강남 지역 상권이 일상 회복 후로도 좀처럼 예전 명성을 되찾지 못하는 건 높은 월세 때문이란 분석이 많다. 강남 월세를 감당하지 못한 식당이나 카페들이 서울 성수동이나 한남동으로 떠나간 것도 한몫했다. 작년 4분기 기준 성수동 공실률은 2.5%, 한남동·이태원은 7.9% 수준이다.&lt;br&gt;&lt;br&gt;강남 건물주들이 월세를 낮춘 것은 이번이 처음은 아니다. 강남구 압구정 로데오 일대 건물주들은 2017년 상권 쇠퇴를 막기 위해 월세를 최대 50%까지 낮춘 적이 있다. 그 결과 압구정 로데오 일대는 어느 정도 활기를 되찾았다. 부동산 업계 관계자는 “강남은 기업 임차인이 많아 건물주들은 공실이 생겨도 높은 월세를 고수하는 경향이 강하고, 그렇다 보니 상권의 개성을 유지해 줄 소상공인들이 떠나면서 공실률이 높아지는 악순환이 반복된 것”이라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼립 시화공장 또 사고… 센서 교체 중 근로자 2명 손가락 절단 </title>
+      <link>https://www.chosun.com/national/incident/2026/04/10/NIUD746CBFAVXGU4D2FPACXWEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/10/NIUD746CBFAVXGU4D2FPACXWEA/</guid>
+      <dc:creator>시흥=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 00:38:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTMZJZGE2TANZRGAYWEMLDMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 시흥시 SPC삼립 시화공장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 0시 19분쯤 경기 시흥시 소재 삼립 시화공장에서 컨베이어 설비를 점검하던 근로자 2명이 손가락이 절단되는 사고가 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;이 사고로 20대 근로자 A씨는 왼손 중지와 약지 일부가, 30대 근로자 B씨는 오른손 엄지 일부가 각각 절단됐다.&lt;br&gt;&lt;br&gt;사고는 컨베이어 센서 교체 작업 도중 발생한 것으로 파악됐다. 신고를 받고 출동한 소방당국은 부상자들을 병원으로 이송했으며, 경찰과 고용노동부에 사고 사실을 통보했다.&lt;br&gt;&lt;br&gt;경찰은 현장 감시카메라를 확보하고 작업 당시 안전조치 이행 여부 등을 확인하고 있다. 수사 결과 안전관리 의무 위반 정황이 드러날 경우, 관련 책임자를 업무상과실치상 혐의로 입건할 방침이다.&lt;br&gt;&lt;br&gt;해당 공장은 반복된 산업재해로 논란이 이어져 온 곳이다. 지난해 5월에는 50대 여성 근로자가 컨베이어 설비 내부에서 작업 중 끼임 사고로 숨졌고, 지난 2월에는 화재로 근로자 3명이 부상을 입고 500여 명이 대피했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최근 혼인신고했는데…40대 女, 남편 살해 뒤 사망 </title>
+      <link>https://www.chosun.com/national/regional/2026/04/10/HYDCYHOCYVGRFFSBEJG7YRTNBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/HYDCYHOCYVGRFFSBEJG7YRTNBU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 00:06:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4F2JTXG3TLIAGMOLLQMVIHH5WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 기장경찰서 전경./ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 아파트에서 40대 부부가 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;10일 새벽 2시 20분쯤 부산 기장군의 한 아파트 복도에서 40대 남성이 흉기에 찔려 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;남성을 살해한 것으로 추정되는 40대 여성 A씨는 범행 이후 투신해 숨졌다. &lt;br&gt;&lt;br&gt;이들은 최근 혼인 신고를 한 법적 부부 관계인 것으로 파악됐다. 경찰 조사 결과 A씨는 남편과 말다툼을 벌이다 흉기를 이용해 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전에 늑대가 나타났다... 오월드 동물원서 탈출, 수색중</title>
+      <link>https://www.chosun.com/national/regional/2026/04/08/SWYVMTAGCJHBRDW67QGL4VLYC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/08/SWYVMTAGCJHBRDW67QGL4VLYC4/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Apr 2026 02:53:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QB2L6AYIMFNTVKLYFZT4SGAGFA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 대전 오월드에서 탈출한 늑대 1마리가 대전 도심에서 목격되고 있다. 현재소방, 경찰, 오월드, 금강유역환경청, 엽사 등이 수색 및 포획 작업을 하고 있다. /대전소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 중구 사정동 오월드 동물원에서 8일 늑대 한 마리가 울타리가 있는 늑대 사파리 우리를 탈출했다. 신고를 받고 출동한 소방 당국과 경찰은 긴급 포획에 나섰다. &lt;br&gt;&lt;br&gt;대전소방본부 등에 따르면, 이날 오전 10시 10분쯤 오월드 측으로부터 “우리에 있던 늑대가 탈출했다”는 신고가 소방 당국에 접수됐다. &lt;br&gt;&lt;br&gt;탈출한 늑대는 2024년 태어난 수컷으로 몸무게는 30㎏정도 라고 한다. 늑대는 이날 오전 9시 18분쯤 울타리 밑 땅을 파서 우리 밖으로 나간 것으로 파악됐다. 오월드 측은 이날 오전 9시 30분쯤 사파리 내 늑대 한 마리가 없는 것을 CCTV를 통해 확인했다. &lt;br&gt;&lt;br&gt;하지만 경찰·소방 신고는 약 40분 뒤쯤 이뤄졌다. 오월드 측이 자체적으로 늑대를 수색하다가 여의치 않자 뒤늦게 소방·경찰에 뒤늦게 신고한 것으로 추정된다. &lt;br&gt;&lt;br&gt;사파리 울타리를 빠져나온 늑대는 2시간 가량 오월드 내부에 있다 오전 11시 30분쯤 오월드 밖으로 나간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고 접수 후 경찰 120명과 오월드 직원 100명, 소방 관계자 등 총 250여 명이 수색 및 포획 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;대전시는 오후 1시 29분 재난 문자를 통해 “오월드에서 탈출한 늑대는 오월드 사거리 쪽으로 나간 것으로 확인되었으니 인근 시민분들께서는 안전에 유의해 달라”고 전했다.&lt;br&gt;&lt;br&gt;‘늑대가 대전 중구 사정동 길거리에 나타났다’는 소문이 퍼지자 주민들은 불안감을 감추지 못했다. 산성초등학교 주변에서 만난 주민 김모(42)씨는 “몇년 전엔 퓨마가 탈출했다고 한바탕 난리였는데 이번엔 늑대가 탈출했다니 겁이 난다”며 “혹시 사람을 물어 다치지 않을까 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “늑대 발견 시 직접 포획하려 하지 말고, 119 또는 112로 즉시 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;해가 지면서 경찰과 소방 당국은 야간수색에 돌입했다. 경찰과 소방, 엽사 등이 한 조를 이뤄 늑대가 은신할 만한 인근 숲을 집중 수색한다. 소방용 열화상 카메라와 수색견도 활용한다. 엽사가 동행하지만 늑대에게 마취총을 쏴 생포하는 것을 목표로 할 방침이다.&lt;br&gt;&lt;br&gt;늑대가 놀라지 않도록 최소 인원을 투입하면서, 귀소 본능을 활용해 탈출한 늑대가 사파리로 돌아가도록 토끼몰이식 수색을 벌일 계획이다. 수컷 늑대를 유인하기 위해 암컷 늑대도 동물원 특정 구역에 묶어두기로 했다. 나머지 대기 인력은 늑대가 동물원을 떠나 외곽으로 달아나지 않도록 길목을 차단할 계획이다.&lt;br&gt;&lt;br&gt;수색대는 야행성 동물인 늑대가 해가 지면 활발히 움직일 것으로 보고 있다. 소방 관계자는 “열화상 카메라는 낮에는 형체 구분이 잘 안 되지만 야간에 상대적으로 잘 드러난다”며 “사살보다는 생포하는 것을 우선 목표로 수색을 진행할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;대전 오월드에선 2018년 퓨마 한마리가 탈출했다가 4시간 30분 만에 동물원 내에서 총에 맞아 사살됐다. 당시 사육장 출입문 미잠금, CCTV 고장, 2인 1조 근무 원칙 미준수 등 관리 부실이 문제점으로 드러난 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QB2L6AYIMFNTVKLYFZT4SGAGFA.JPG?auth=c06957d3103135d34615d31a92961a38a704dc5c2fd42e62a24d4d82ee5d939f&amp;smart=true&amp;width=1280&amp;height=960" type="image/jpeg" height="960" width="1280">
+        <media:description type="plain">8일 대전 오월드에서 탈출한 늑대 1마리가 대전 도심에서 목격되고 있다. 현재소방, 경찰, 오월드, 금강유역환경청, 엽사 등이 수색 및 포획 작업을 하고 있다. /대전소방본부 </media:description>
+        <media:credit role="author" scheme="urn:ebu">(대전=뉴스1) 김기태 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>횡성 양계장서 불… 닭 1만마리 폐사</title>
+      <link>https://www.chosun.com/national/regional/2026/04/10/H2VLBFLDXRADDPLIKJHVAMG7MM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/H2VLBFLDXRADDPLIKJHVAMG7MM/</guid>
+      <dc:creator>횡성=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Apr 2026 23:37:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P37QLB4R3JFPZCBQY4R7IQS4UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 강원 횡성군 서원면 한 양계장에서 불이 나자 소방대원들이 진화 작업을 벌이고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전 4시 54분쯤 강원 횡성군 서원면 한 양계장에서 불이 났다.&lt;br&gt;&lt;br&gt;불은 출동한 소방대원들에 의해 약 1시간 만에 진화됐지만 양계장 1동이 불에 타면서 닭 1만여 마리가 폐사했다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;소방당국은 목격자 등을 상대로 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>마그네슘? 멜라토닌? 수면 돕는 영양제 이렇게 복용하세요 [이러면 낫는다]</title>
       <link>https://www.chosun.com/medical/2026/04/07/OQ377VBDUVCYJIUTZIWX6O7SK4/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/07/OQ377VBDUVCYJIUTZIWX6O7SK4/</guid>
@@ -785,51 +910,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/7TXF5BXHTNBZ7JMFBK3CHB3DYA.jpg?auth=274b97d4864be007a622bf1813dd5d3fe915132789caee1567539a40bcb6e652&amp;smart=true&amp;width=2240&amp;height=1260" type="image/jpeg" height="1260" width="2240"/>
     </item>
     <item>
-      <title>홍승권 건강보험심사평가원장</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/09/UWHGXLLFLVBZNOFPQPFHOWBF4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/09/UWHGXLLFLVBZNOFPQPFHOWBF4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XUXSBUFV5DQVFAI4QJ4K33FMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험심사평가원 신임 원장에 홍승권(57) 서울대 보건대학원 겸임교수가 임명됐다. 임기는 3년. 한국일차보건의료학회장인 홍 신임 원장은 지난 대선 당시 이재명 후보 대선 캠프에서 보건의료 정책 자문을 맡기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 대한민국 과학기술인상 4월 수상자 외</title>
-      <link>https://www.chosun.com/national/people/2026/04/09/6ZZA4FRQRFBSBDCQWAS6U4B5QY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/09/6ZZA4FRQRFBSBDCQWAS6U4B5QY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;과학기술정보통신부&lt;/b&gt;와 &lt;b&gt;한국연구재단&lt;/b&gt;은 대한민국 과학기술인상 4월 수상자로 심우영 연세대 신소재공학과 교수를 선정했다고 8일 밝혔다. 심 교수는 자연계에 존재하지 않는 새로운 구조의 3-5족 반도체 소재를 개발해 반도체 기술 국제 경쟁력을 강화한 공로를 인정받았다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;에쓰오일&lt;/b&gt;은 8일 소방청·한국사회복지협의회와 함께 서울 마포구 소재 본사에서 소방영웅지킴이 후원금으로 4억7500만원을 전달했다고 밝혔다. 후원금은 올해 공상 소방관 치료비, 순직 소방관 유자녀 학자금, 소방영웅 시상금 등 다양한 소방영웅지킴이 프로그램에 사용될 예정이다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;숭실대&lt;/b&gt;는 우윤석 행정학부 교수가 한국토지주택공사(LH) 신임 이사회 의장으로 임명됐다고 8일 밝혔다. 임기는 내년 2월까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김선교 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/09/SWFGSBP2K5ECNNUWJZKR3YJAMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/09/SWFGSBP2K5ECNNUWJZKR3YJAMU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김선교 &lt;/b&gt;별세, &lt;b&gt;김형조&lt;/b&gt; 한화호텔앤드리조트 사장·&lt;b&gt;김민경&lt;/b&gt; 딜로이트 안진회계법인 전무 부친상, &lt;b&gt;홍성미&lt;/b&gt; 법무법인 광장 미국변호사 시부상=7일19시39분 서울아산병원, 발인 10일4시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박수남 &lt;/b&gt;별세, &lt;b&gt;이광재&lt;/b&gt; 前 한국지엠 본부장·&lt;b&gt;이홍재 &lt;/b&gt;前&lt;b&gt; &lt;/b&gt;광주일보 주필·&lt;b&gt;이봉재 &lt;/b&gt;前 세지중 교장·&lt;b&gt;이경재 &lt;/b&gt;전주대 교수·&lt;b&gt;이경란 &lt;/b&gt;아동문학가&lt;b&gt; &lt;/b&gt;모친상,&lt;b&gt; 임형채&lt;/b&gt; 장모상=8일1시 광주광역시 VIP장례타운, 발인 10일8시30분, (062)521-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;염태수&lt;/b&gt; 前 정우유조 대표 별세, &lt;b&gt;최화자&lt;/b&gt; 남편상,&lt;b&gt; 염혜영&lt;/b&gt; 숙명여중 교사·&lt;b&gt;염호석&lt;/b&gt; 前 금호타이어 독일법인장·&lt;b&gt;염승훈&lt;/b&gt; 현대오토에버 팀장 부친상, &lt;b&gt;이덕형&lt;/b&gt; 장인상, &lt;b&gt;정은정&lt;/b&gt; 화정초 교사·&lt;b&gt;이지영&lt;/b&gt; 시부상=8일9시22분 서울성모장례식장, 발인 10일6시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유승임 &lt;/b&gt;별세, &lt;b&gt;한혜옥&lt;/b&gt;·&lt;b&gt;한미옥&lt;/b&gt;·&lt;b&gt;한덕동&lt;/b&gt; 한국일보 충청강원본부장 모친상, &lt;b&gt;정정택&lt;/b&gt;·&lt;b&gt;양승현&lt;/b&gt; 장모상=8일2시 충북 청주참사랑병원, 발인 10일6시30분, (043)298-9200&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강석훈 K-정책플랫폼 이사장</title>
-      <link>https://www.chosun.com/national/people/2026/04/09/QF4OZUNVJZCUPARQ6BFFJUFKRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/09/QF4OZUNVJZCUPARQ6BFFJUFKRM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJENN7GGGJGVBFLUVICG3BRTZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;K-정책플랫폼은 지난 1일 총회를 개최하여 강석훈 성신여대 교수를 제3대 이사장으로 선임했다고 8일 밝혔다. 강 신임 이사장은 1997년부터 성신여대 경제학과 교수로 재직하고 있으며 한국산업은행 회장, 대통령비서실 경제수석, 제19대 국회의원 등을 역임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“2032년 이후 노화로 죽지 않는 시대 열려”</title>
-      <link>https://www.chosun.com/national/people/2026/04/09/IAD6TBMHOVGMZIMNXN5Y22A7XM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/09/IAD6TBMHOVGMZIMNXN5Y22A7XM/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJJPSB7TOZDS5JUIMBWS7PO2YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계적 미래학자이자 ‘특이점이 온다’의 저자인 레이 커즈와일이 인공지능(AI)이 인간 지능에 도달하는 ‘범용인공지능(AGI)’ 시대가 3년 안에 도래할 것이라는 전망을 내놨다.&lt;br&gt;&lt;br&gt;커즈와일은 지난 7일 미 샌프란시스코 모스콘센터에서 열린 AI 콘퍼런스 ‘휴먼X’ 대담에서 “AGI의 정의가 모호할 순 있지만, 늦어도 2029년까지는 확실히 실현될 것”이라고 했다. 이는 그가 2005년 저서에서 ‘튜링 테스트(AI가 실제 사람과 얼마나 비슷하게 대화할 수 있는지 평가하는 것)’를 통과하는 시기로 2029년을 예견한 것과 일치한다. &lt;br&gt;&lt;br&gt;그는 AI 기술이 인류의 생물학적 한계와 ‘수명’의 패러다임을 바꿀 것이라고 강조했다. 커즈와일은 “2032년 이후에는 기술 발전으로 인한 수명 연장 속도가 세월의 속도를 추월해, 노화로 인한 사망이 사라지는 시대가 열릴 것”이라고 주장했다. 현재는 1년이 지나면 수명 1년을 잃지만, 2032년이 되면 기술력을 통해 잃어버린 1년을 온전히 되돌려받는 ‘수명 탈출 속도’에 진입한다는 논리다.&lt;br&gt;&lt;br&gt;인간의 뇌와 AI의 결합에 대해서도 구체적인 로드맵을 제시했다. 그는 2030년대 초가 되면 뇌와 AI가 융합돼 사고의 출처를 구분하기 어려워지고, 2030년대 중후반에는 수술 없이도 AI가 비침습적으로 뇌 속으로 들어가는 단계에 이를 것이라고 내다봤다.&lt;br&gt;&lt;br&gt;커즈와일은 2029년 출간 예정인 신작 ‘AGI가 왔다!’를 집필하며 구글의 AI ‘제미나이’를 활용한 일화를 소개했다. 그는 “제미나이에게 내 새 책의 내용을 묻자, 아직 세상에 나오지 않은 내 구상을 AI가 파악해 답변을 내놨다”며 “AI는 인간의 창의성과 융합될 수 있는 수준의 창조적 능력을 갖췄다”고 평가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>꽃가루 알레르기, 약 미리 먹으면 가볍게 지나가</title>
       <link>https://www.chosun.com/medical/2026/04/09/ZNIJT6TMZZC77LD5D7SLUWFF3A/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/09/ZNIJT6TMZZC77LD5D7SLUWFF3A/</guid>
@@ -837,15 +917,6 @@
       <description/>
       <pubDate>Wed, 08 Apr 2026 15:41:00 +0000</pubDate>
       <content:encoded>이제 곧 꽃가루 알레르기 시즌이다. 봄철 알레르기는 보통 4월부터 6월 초까지이며, 특히 4월 하순부터 5월에 급증하여 정점을 이룬다. 공기중에 날리는 꽃가루가 코 안으로 들어오면 점막을 자극해 면역 반응을 일으킨다. 맑은 콧물이 줄줄 흐르고, 재채기가 끊이지 않으며, 코가 꽉 막히고 눈 주변이 가려워, 일상생활이 무척 괴로워진다.&lt;br&gt;&lt;br&gt;이비인후과 전문의들은 꽃가루가 본격적으로 날리기 2주 전인 요즘 항히스타민제 같은 약을 미리 복용하면 알레르기를 앓는 증상을 크게 줄일 수 있다고 말한다. &lt;br&gt;&lt;br&gt;이상덕 하나이비인후과병원 원장은 “알레르기를 줄이는 약물을 미리 투여해 놓으면 코 점막에 숨어 있던 염증을 눌러줘서 증상이 훨씬 가볍게 지나간다”며 “매일 아침저녁으로 생리식염수로 코를 세척하면 콧속에 쌓인 유해 물질을 씻어내고, 점막에 수분도 공급할 수 있어 비염 예방에 큰 도움이 된다.”고 말했다.&lt;br&gt;&lt;br&gt; 꽃가루 알레르기를 심하게 앓는 사람은 기상청에서 발표하는 꽃가루 농도 지수를 수시로 확인하여, ‘높음’ 이상인 날에는 되도록 외출을 줄이는 것이 좋다. 어쩔 수 없이 나가야 할 때는 선글라스와 KF80 이상의 황사 마스크를 꼭 착용하는 것이 권장된다. 외출 후 돌아온 뒤에는 겉옷을 털고, 손과 얼굴을 씻고, 샤워와 머리 감기까지 해서 몸에 묻은 꽃가루를 깨끗이 제거해야 한다.&lt;br&gt;&lt;br&gt; 때론 코 감기를 알레르기 비염 증세로 혼동할 수 있다. 박흥우 서울대병원 알레르기면역내과 교수는 “바이러스가 원인이 되는 감기는 발열과 몸살, 두통을 동반하며 대개 1~2주 이내 호전되지만, 알레르기 비염은 열이 나지 않으면서 증상이 한두 달 이상 장기적으로 지속된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 고지혈증 약 ‘스타틴’ 설명서에 적힌 부작용 66가지 중 실제론 4개만 유의미</title>
-      <link>https://www.chosun.com/medical/2026/04/09/6VDBKPZF6RDXVJPPIGNPUEAKOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/09/6VDBKPZF6RDXVJPPIGNPUEAKOM/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>약물 포장에 있는 약품 설명서의 부작용 리스트를 읽어보면, 부작용 종류가 너무 많아서 약을 먹어도 될지 겁이 날 때가 많다. 심혈관질환 예방과 치료를 위해 가장 널리 사용되는 콜레스테롤 저하제 스타틴 제제도 근육염, 당뇨병을 일으킬 수 있다고 되어 있고, 그 밖에 간효소 수치 이상, 부종, 인지장애, 우울증, 불면증, 간질성 폐렴, 말초신경염 등 무려 66가지 부작용을 포함하고 있다. &lt;br&gt;&lt;br&gt;최근 영국 옥스퍼드대 연구팀은 스타틴 제제의 부작용 리스트가 실제로 약제에 의해서 유발된 부작용인지를 검증해서 세계 최고 수준의 국제학술지 랜싯에 발표했다.&lt;br&gt;&lt;br&gt;연구는 무작위 맹검 비교 연구를 통해 스타틴 제제와 위약의 효능과 부작용을 비교한 총 19개의 연구를 종합 분석했다. 평균 63세 12만3940명의 자료를 평균 4.5년 추적 관찰했다.&lt;br&gt;&lt;br&gt;연구 결과, 스타틴 제제의 부작용으로 기록된 66개 항목 중에서 스타틴 제제군은 위약군에 비해서 간의 트랜스아미나제 효소 수치 상승을 41%, 기타 간효소 수치 상승을 26%, 단백뇨와 같은 소변검사 이상을 18%, 부종을 7% 더 일으켰다. 하지만 나머지 62개 부작용 발생률은 스타틴 제제와 위약군 간에 차이가 없었다. &lt;br&gt;&lt;br&gt;약품설명서에 기재된 부작용 리스트는 해당 약을 시판하면서 발생하는 모든 부작용을 정리해서 기록하기 때문에 그중 상당수는 실제로 해당 약제의 부작용이라기보다는 약을 복용하는 동안 우연히 발생했을 가능성이 높다. 먹고 있는 약의 효능과 주요 부작용을 충분히 인지하고 있으면, 약효를 제대로 볼 수 있다. 잔뜩 써 있는 부작용 리스트를 보고 너무 겁낼 일은 아니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [뉴스 속의 한국사] 봄에는 복숭아·살구꽃, 가을엔 국화꽃 구경했대요</title>
@@ -858,15 +929,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;정조가 즐겨 찾은 꽃놀이 명소는?&lt;/b&gt;&lt;br&gt;&lt;br&gt;북악산의 암벽 세심대(지금의 종로구 신교동)도 꽃놀이 명소였습니다. 1791년 3월 7일 조선의 22대 왕 정조는 세심대에 행차해서 꽃구경을 했어요. 바로 근처에 할머니 영빈 이씨에게 제사를 지내던 선희궁이 있었기 때문이죠. 당시 수많은 신하가 따라와 큰 잔치를 벌여 함께 시를 짓고 음악도 연주했기 때문에 한양 백성들이 구경 왔다고 합니다.&lt;br&gt;&lt;br&gt;이날 정조의 꽃구경에 참여해 왕의 명령으로 시를 받아 적은 사람이 바로 다산 정약용입니다. 정약용은 이날의 추억을 늙어서까지 간직했다고 하죠. 정조는 다음 해에도 세심대로 꽃구경을 나와 화전도 부쳐 먹고, 신하들과 활을 쏘며 놀았다고 합니다. 너무 즐거워서 떠나기 아쉬워했다는 기록도 있어요.&lt;br&gt;&lt;br&gt;또 다른 꽃놀이 명소는 창덕궁 후원(궁궐 뒤에 만든 정원)의 정자 부용정이었습니다. 봄이 되면 이 정원에는 갖가지 꽃이 피었고, 왕은 자신이 아끼는 신하들을 불러다가 꽃놀이를 함께했다고 합니다. 정조 시대의 학자인 유득공도 참석해 창덕궁 후원 연못에서 낚시를 했다고 합니다. 또 연못에 띄운 비단 돛을 단 배를 타고 시를 짓기도 했죠. 정조는 아끼는 신하들에게 술을 선물했고, 왕과 신하가 즐겁게 꽃놀이를 했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TVZVJ4BXFFFPFU2R2VP62LMQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창덕궁 후원 연못가에 있는 정자인 부용정입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;꽃놀이와 술&lt;/b&gt;&lt;br&gt;&lt;br&gt;옛사람들은 꽃구경을 하며 무엇을 했을까요? 술을 마셨다고 해요. 조선의 시인 정철의 시조 ‘장진주사’를 보면 ‘꽃을 꺾어 세며 끝없이 술을 마시자’는 내용이 나옵니다. 꽃을 보며 준비해온 술을 마시기도 하고, 꽃을 재료로 써서 술을 담그기도 했습니다. 특히 진달래꽃으로 담근 술을 ‘두견주’라고 불렀어요.&lt;br&gt;&lt;br&gt;아예 꽃으로 음식을 만들기도 했습니다. 대표적인 것이 우리가 잘 알고 있는 화전이지요. 오늘날 우리가 먹는 화전은 찹쌀 반죽을 동그랗게 부치고 그 위에 꽃을 올린 것인데요. 옛사람들의 화전은 조금 달랐습니다. 진달래꽃이나 장미, 국화 등을 쌀가루와 버무린 뒤 꿀과 밤을 소로 넣어 기름에 부쳐먹었죠.&lt;br&gt;&lt;br&gt;꽃놀이와 술 이야기에 대해, 조선 시대 수학책인 ‘주서관견’에서는 흥미로운 문제가 하나 나옵니다. ‘지금 사람들이 술을 가지고 꽃놀이를 하러 가고 있다. 그런데 술을 추가해 원래 가지고 갔던 양의 2배인 3두 4승을 마셨다. 원래 술을 얼마나 가져갔는가?’ 두와 승은 곡식이나 술을 잴 때 쓰던 부피 단위로 1두는 10승입니다. 그만큼 꽃놀이에는 술이 빠질 수 없었던 것이지요.&lt;br&gt;&lt;br&gt;여성들도 꽃놀이를 즐겼습니다. 1778년, 정조는 궁녀들이 꽃놀이 등을 위해 궁궐 바깥으로 놀러 나가는 것을 금지했어요. 조선 시대 궁녀들은 늘 궁에만 사는 것이 아니라 때로 휴가를 받을 수도 있었는데요. 일부 궁녀가 꽃놀이를 명목으로 밖에 나가 기생을 불러 잔치를 열고, 하인을 거느린 채 돌아다니거나 다른 사람의 정자와 별장에 함부로 드나드는 등 질서를 어지럽히는 일이 있었기 때문입니다. 정조는 이런 풍습이 나라의 법 질서를 어지럽힌다고 본 것이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GW4RUXZ7KBCU5PIBW3LRVCBC5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장독대에 두견주를 담그는 장면입니다. 진달래꽃을 두견화라고도 불러 이런 이름이 붙었습니다. /간송미술관·국립고궁박물관·국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;가을엔 국화꽃놀이&lt;/b&gt;&lt;br&gt;&lt;br&gt;이렇듯 꽃놀이는 남녀를 불문하고 옛날 사람들의 큰 즐거움이었습니다. 하지만 꽃은 언젠가 지기 마련이지요. 조선 전기의 문신 강희맹은 그의 시 ‘기경무’에서 꽃이 지는 것을 아쉬워했습니다. ‘봄바람이 궂어서 / 별안간 온갖 꽃송이를 다 쓸어내어 / 사람들이 꽃놀이 못 한 것을 슬퍼하네.’&lt;br&gt;&lt;br&gt;다행히 봄꽃이 진다고 슬픔이 영영 이어지지는 않습니다. 가을에는 국화꽃을 보기 위해 다시 산에 올랐기 때문이죠. 중양절(음력 9월 9일)이 되면 국화꽃을 따서 술잔에 띄워 국화 향을 즐겼고, 국화꽃으로 술을 담그기도 했죠. 고려 말에는 정몽주나 정도전, 이숭인 같은 당대 인재들이 모여 국화 향기와 술에 취해 노래를 부르며 “우리들이 신선이구나!” 하며 즐겼다는 기록도 있습니다. 인간사의 고뇌를 잠시 잊게 해주는 꽃의 힘을 보여주는 것 같아요.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중학생이 女교사 폭행해 응급실행…“교사 때리면 학생부 기록 안 남아”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/09/TQWIVWFRZRB77NRCM3HHFWQR3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/TQWIVWFRZRB77NRCM3HHFWQR3U/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:10:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQO6236X4ZLSPMNLMI7W6W22BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국교총 등 교원단체들이 지난 1월 청와대 앞에서 '이재명 정부 첫 교권보호 방안 추가 대책 마련 촉구 기자회견'을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 경기 광주의 한 중학교에서 학생이 수업 중에 여교사를 폭행한 사건이 발생한 것과 관련, 교원단체가 “교사는 때려도 학생부 기록이 남지 않는다”며 교권 보호 대책 마련을 촉구했다.&lt;br&gt;&lt;br&gt;한국교원단체총연합회(교총)와 경기도교원단체총연합회는 8일 성명을 통해 “새 학기에 수업 중 학생의 폭행으로 교사가 상해를 입는 상황이 또다시 나타났다”며 “반복되는 학생의 교사 폭행에 대한 근본적인 대책 마련이 절실하다”고 했다.&lt;br&gt;&lt;br&gt;이들은 “하루가 멀다 하고 발생하는 교권 침해 사건에 둔감해지는 사회와 정부·정치권이 더 문제이며 우려스러운 지점”이라며 “교사가 학생으로부터 폭행당하는 현실에서 어떻게 좋은 교육, 교육 개혁을 이끌 수 있겠는가?”라고 했다. &lt;br&gt;&lt;br&gt;강주호 교총 회장은 “제자에게 상해·폭행을 당한 피해 교사는 평생 씻을 수 없는 트라우마와 싸우며 교단에 서야 한다”며 “형법상 중대 범죄에 해당하는 상해·폭행이 가벼이 넘어가는 것은 결코 온당치 못하다”고 했다. &lt;br&gt;&lt;br&gt;특히 강 회장은 “현재 학생 간 학교 폭력은 그 조치 사항이 학생부에 기록되어 입시 등에 반영되는 반면, 교사를 폭행하여 전학이나 퇴학 처분을 받아도 학생부에는 아무런 기록이 남지 않는다”며 “이는 명백한 역차별이며, ‘교사는 때려도 기록에 남지 않는다’는 잘못된 신호를 학생과 학부모에게 주는 꼴”이라고 강력히 비판했다. &lt;br&gt;&lt;br&gt;이상호 경기교총 회장도 “교사가 안전하지 않은 교실에서 학생들의 학습권은 결코 보장될 수 없고, 매번 사건이 터질 때마다 내놓는 땜질식 처방으로는 한계가 있다”며 “정부와 국회는 교권 회복이야말로 공교육의 정상화를 이끄는 기본 전제임을 잊지 말고, 중대 교권 침해 학생부 기재를 포함한 강력한 법적 장치를 즉각 마련하라”고 촉구했다. &lt;br&gt;&lt;br&gt;이들은 “이번 사건은 단순히 한 학생의 폭행을 넘어, 현행 교권 보호 제도의 허점을 여실히 드러냈다”며 “그간 수없이 강조해 온 ‘중대 교권 침해 사항(폭행, 상해, 성폭행 등)의 학생부 기재’가 왜 필요한지 이번 사건이 증명하고 있으므로 국회는 즉각 교원지위법 개정안을 통과시켜야 할 것”이라고 했다. &lt;br&gt;&lt;br&gt;한편 경기도교육청 등에 따르면 지난달 31일 경기 광주의 한 중학교에서 2학년 학생 A군이 수업 중 여교사 B씨를 폭행하는 사건이 발생했다. 이로 인해 해당 교사는 부상을 입고 응급실에 실려 갔던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[데스크에서] 일상이 된 마약, 청춘이 무너진다</title>
       <link>https://www.chosun.com/national/court_law/2026/04/08/7A6IME6ZUJF4RFGPZLSYH4HR6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/08/7A6IME6ZUJF4RFGPZLSYH4HR6A/</guid>
@@ -874,42 +936,6 @@
       <description/>
       <pubDate>Wed, 08 Apr 2026 14:37:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7BME77KYVAAXHVUJTGXWSCOUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 오전 3시쯤 찾은 서울 마포구 홍대 클럽 거리에 한 남성이 길바닥에 드러누워 있다. /윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 만나는 사람마다 주식과 전쟁 얘기를 한다. 올해 코스피 지수가 6000을 넘기면서 너도나도 주식 투자에 나섰다가 중동 상황에 민감해진 것이다. 그런데 주식 못지않게 일상 깊숙이 스며든 것이 있다. 바로 마약이다.&lt;br&gt;&lt;br&gt;국내에서 적발된 마약사범은 2023년 2만7611명으로 정점을 찍고 나서 2024년 2만3022명, 작년 2만3403명으로 3년 연속 2만명을 넘어섰다. 마약 범죄 암수율(드러나지 않는 범죄 비율)이 약 28배인 점을 고려하면 실제 마약사범은 65만5000여 명으로 추산된다. 국민 100명 중 1명 이상이 마약과 얽혀 있는 셈이다. 이 중 10~30대가 60%를 넘는다.&lt;br&gt;&lt;br&gt;본지 취재팀이 주말에 방문한 서울 강남의 한 클럽에는 ‘공부약’으로 불리는 각성제 포장지와 알코올 솜이 나뒹굴었다. 청소년들도 ‘공부약’ ‘다이어트약’ 같은 마약성 의약품과 필로폰 등 마약을 텔레그램이나 해외 직구 등을 통해 손쉽게 구할 수 있다. 마약성 의약품에 중독된 열여덟 살 딸의 상태가 더 나빠질까 봐 경찰에 신고한 부모 얘기는 남의 일 같지가 않았다. “평범한 집안 출신 지인 자식이 마약에 손댔다는 소식을 듣고 깜짝 놀랐다. 알고 보니 비슷한 일을 겪고도 쉬쉬하는 사람도 있더라”며 한탄하던 검찰 고위직 출신 인사의 말도 과언이 아니다.&lt;br&gt;&lt;br&gt;마약 범죄는 ‘투 트랙’으로 접근해야 한다고 전문가들은 강조한다. 공급·유통 사범에 대해선 엄벌해야 한다. 국제 공조 수사를 통해 해외 마약 조직 총책을 검거하고 범죄 수익도 환수해야 한다. 단순 투약 사범에 대해선 ‘중독 환자’로 보고 치료·재활을 받을 수 있도록 정부가 지원해야 한다. 투약 사범이 제대로 치료받지 못한 채 몇 차례 교도소를 드나들다 보면 경제적으로 궁핍해진다. 그러다 마약 유통까지 손을 대며 ‘굴레’에서 헤어나지 못하게 된다. &lt;br&gt;&lt;br&gt;하지만 마약 중독 치료를 위한 인프라는 턱없이 부족하다. 마약 중독을 전문으로 치료할 수 있는 의사는 전국에 4~5명뿐이며, 마약 치료 전문 병상도 341개에 불과하다. 법조계에선 미국의 DEA(마약단속국) 같은 마약청 설립을 제안하며, 검찰·경찰·국정원·관세청·해양경찰청 등에 분산된 마약 관련 기능을 통합해 국제 수사와 치료·재활까지 아우르는 컨트롤타워가 필요하다고 주장한다. 정부도 마약청 설치 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;또 금연 교육처럼 초등학생 때부터 마약 예방 교육도 해야 한다는 목소리도 크다. ‘마약김밥’ ‘마약떡볶이’ 등을 주변에서 쉽게 볼 수 있고, 연예인들의 마약 사건이 잇따르며 젊은 층의 경각심이 희박해진 현상이 문제로 지적된다.&lt;br&gt;&lt;br&gt;10~30대 젊은 세대가 마약으로 무너지면 한국 사회의 미래도 흔들린다. 마약 단속과 수사, 치료, 예방에 대한 정부 대책이 시급하다. 우리 사회가 이 위기에 냉정히 맞서지 않는다면 평범한 일상은 물론 젊은 세대의 꿈과 희망도 무너지고 말 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 9일</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/08/V2HU4OGY5ZCJJBZ434YZEGUMKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/V2HU4OGY5ZCJJBZ434YZEGUMKE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 14:35:00 +0000</pubDate>
-      <content:encoded>전국에 비 내리고 바람 강하게 불어&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRPTL3PKA5GWXKGQA7C4NPLNF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동물원 탈출 늑대 생포 요구 확산…암컷까지 투입해 유인 작전</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/08/L7LCAEOYXRCHHNYIYJFMDZIA3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/L7LCAEOYXRCHHNYIYJFMDZIA3I/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 13:58:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZWIZBWMYYDKZLFMNSWIOBUGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 대전 오월드에서 탈출한 늑대 1마리가 대전 도심을 배회하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 동물원에서 수컷 늑대 한 마리가 탈출해 소방 당국과 경찰이 10시간 넘게 수색 작전을 펼치고 있는 가운데 동물 단체들은 일제히 생포를 요구하는 성명을 발표했다. &lt;br&gt;&lt;br&gt;8일 대전소방본부 등에 따르면, 이날 오전 10시 10분쯤 대전 중구 사정동 오월드 동물원에서 수컷 늑대 한 마리가 탈출했다는 신고가 접수됐다. 탈출한 늑대의 이름은 ‘늑구(2024년생, 수컷)’로 몸무게는 30㎏ 정도라고 한다.&lt;br&gt;&lt;br&gt;동물자유연대는 이날 성명을 통해 “금강유역환경청은 ‘생포’를 우선하고 있다고 밝혔으나, 엽사가 동행한 이상 현장 상황에 따라 사살될 가능성도 배제할 수 없는 위태로운 국면”이라며 “한 가지 분명히 짚어야 할 사실은 늑구는 이번 사건의 본질적인 피해자라는 점이다. 동물전시시설의 관리 부실과 구조적 결함으로 빚어진 사고의 책임으로 시설에 갇혀 있던 동물의 목숨이 담보가 될지도 모르는 현실은 명백히 부당하다”고 했다. &lt;br&gt;&lt;br&gt;동물자유연대는 “이번 사고가 발생한 곳은 2018년 탈출한 퓨마 ‘뽀롱이’가 사살됐던 바로 그 오월드다. 8년이나 시간이 흘렀음에도 동일한 사고가 발생했다”며 “우리는 늑구가 뽀롱이의 전철을 밟지 않고 무사히 생포되기를 바란다. 늑구의 안전한 구조와 함께, 시대착오적인 동물전시시설의 구조적 한계를 전면적으로 개편하는 논의의 계기가 되기를 촉구한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WMMRVMYZWKM3FMZRGIZBVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 대전 오월드에서 늑대 1마리가 탈출한 가운데 소방, 경찰, 오월드, 금강유역환경청, 엽사 등이 수색 및 포획 작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동물단체 곰보금자리프로젝트는 “2인 1조 원칙만 잘 지키면 막을 수 있는 사고지만 동물원에서는 그 간단한 것을 지키지 않아서 늘 사고가 난다”며 “기본적인 동물 돌봄도 못하면서 번지르르한 거짓말만 늘어놓는 동물원들은 운영 주체와 시스템을 바꿔야 한다. 겁에 질린 채 헤매고 있을 늑대가 너무 고통스러운 시간을 보내지 않기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;대전충남녹색연합도 “늑대의 무사 송환을 요구한다. 뽀롱이와 같은 사살 사태는 일어나선 안 된다”며 “시민들의 안전과 늑대의 안전을 위해 최선의 대책을 강구하기 바란다. 더불어 대전시는 이번 늑대 탈출 사건을 엄중히 받아들여 ‘오월드 재창조 사업’을 전면 재검토해야 한다”고 했다. &lt;br&gt;&lt;br&gt;한편 경찰과 소방 당국은 해가 지면서 야간 수색에 돌입했다. 경찰과 소방, 엽사 등이 한 조를 이뤄 늑대가 은신할 만한 인근 숲을 집중 수색한다. 엽사가 동행하지만 늑대에게 마취총을 쏴 생포하는 것을 목표로 할 방침이다. 또 수컷 늑대를 유인하기 위해 암컷 늑대도 동물원 특정 구역에 묶어두기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성적 상위권과 하위권, ‘주말 공부 시간’에서 갈렸다</title>
-      <link>https://www.chosun.com/national/education/2026/04/08/VJEGUMNFDVF5JKBKQRM5IQB4OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/08/VJEGUMNFDVF5JKBKQRM5IQB4OI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 11:53:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN2LV6J5OFPI7JXCBFJYWBNO24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 중구 경북여자고등학교 복도에서 학생들이 자습을 하고 있는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 성적 상위권과 하위권 학생들은 주말 공부 시간에서 차이가 큰 것으로 나타났다. &lt;br&gt;&lt;br&gt;입시 정보 업체 진학사는 8일 이 같은 내용의 분석 결과를 발표했다. 이는 지난 2월 고등학생 3522명을 대상으로 주말과 평일 공부 시간을 조사한 것이다. 여기에는 학원 수업이나 인터넷 강의를 듣는 시간을 제외한 혼자 스스로 공부한 시간만 포함했다.&lt;br&gt;&lt;br&gt;이에 따르면, 학교 내신 성적이 1등급대라고 밝힌 학생들은 평일 하루 평균 4시간 이상 공부하는 경우(55%)가 가장 많았다. 그다음으론 3~4시간(22.8%), 2~3시간(13%) 순이었다. 반면 내신 성적이 5등급대 이하라고 밝힌 학생들은 하루 평균 4시간 이상 공부하는 경우가 18.9%뿐이었고, 2~3시간 공부하는 이들이 26.6%로 가장 많았다.&lt;br&gt;&lt;br&gt;특히 주말에는 공부 시간 차이가 더 컸다. 1등급대 학생들의 46.8%는 주말 하루 평균 6시간 이상을 공부에 썼다. 8시간 이상 공부하는 경우도 26.8%나 됐다. 그런데 5등급대 학생 중엔 주말 하루 평균 6시간 이상 공부한 이가 8.8%에 불과했고, 8시간 이상은 3.8%밖에 되지 않았다. &lt;br&gt;&lt;br&gt;진학사는 고3 가운데 내신 성적이 1학년 때보다 오른 1061명의 공부 시간도 따로 분석했다. 그 결과, “이전보다 공부 시간을 늘렸다”고 한 학생이 88%에 달했다. 하루 평균 ‘2~3시간 증가(37%)’가 가장 많았다. 그다음은 ‘1~2시간 증가(27%)’, ‘3시간 이상 증가(24%)’ 순이었다. 늘어난 공부 시간이 거의 없거나, 오히려 줄어든 이는 12%에 불과했다. &lt;br&gt;&lt;br&gt;성적이 오른 학생들이 가장 힘들게 포기한 것으론 ‘게임·소셜미디어·유튜브 등 여가 시간(43%)’이 가장 많았다. 그다음이 ‘늦잠·늦은 취침(22.7%)’, ‘친구들과의 약속(12%)’, ‘주말 휴식·외출(9.1%)’ 등이었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘200억 탈세 의혹’ 차은우, 결국 국세청에 백기 “세금 모두 납부”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/08/PUCVEEPWFNFCDFXPSPLC4BQWWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/PUCVEEPWFNFCDFXPSPLC4BQWWU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 12:14:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RWMMBUGUYDCMJUGFRGGZRXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 차은우. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200억원대 탈세 의혹이 제기됐던 가수 겸 배우 차은우(본명 이동민)가 법적 대응을 중단하고 관련 세금을 모두 납부했다고 밝혔다. &lt;br&gt;&lt;br&gt;8일 차은우는 입장문을 통해 “최근 저와 관련된 납세 논란으로 팬분들을 비롯한 많은 분들께 실망과 혼란을 드린 점, 진심으로 사과드린다”며 “여러 행정 절차가 진행되는 과정에서 입장을 말씀드리는 데 신중할 수밖에 없었고, 그로 인해 말씀드리는 시기가 늦어진 점에 대해서도 또 한 번 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;차은우는 “늦었지만 지금이라도 다시 한번 제 생각과 입장을 직접 말씀드리고자 한다”며 “저는 국세청의 절차와 결과를 존중하며, 더 이상의 혼란이 이어지지 않도록 관련 세금을 모두 납부했다. 남은 절차 또한 성실히 임하도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;차은우는 “많은 분들의 사랑과 응원 속에서 활동해 온 만큼, 이번 사안을 더욱 무겁고 깊게 받아들이고 있다”며 “제가 충분히 살피지 못한 부분이 있었다면 그 책임 또한 모두 저에게 있다. 어떠한 이유로도 ‘몰랐다’거나 ‘누군가의 판단이었다’는 말로 회피하지 않겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “활동 중 여러 변화와 혼란을 겪는 시기에 제 활동을 좀 더 안정적으로 이어가기 위해 준비하는 과정에서 법인을 설립했지만, 지금 돌이켜보면 그 과정에서 충분히 살피지 못한 부분이 있었다”며 “이번 일을 통해 제 자신을 스스로 한번 돌아봐야겠다는 점을 절실히 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;차은우는 “같은 문제가 다시 반복되지 않도록, 앞으로의 제 활동 전반을 보다 신중하고 엄격한 기준으로 점검하겠다”며 “제 선택과 행동에 끝까지 책임을 다하는 차은우가 되기 위해 더욱 노력하고 또 노력하겠다. 다시 한번 깊은 사죄의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 차은우는 어머니가 세운 유령 법인을 통해 최대 45%인 소득세 대신 20%포인트 이상 낮은 법인세율을 적용받아 세금을 납부해 왔다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;차은우는 지난해 7월 서울지방국세청 조사4국 고강도 비정기 세무조사를 받은 뒤, 200억원이 넘는 세금 추징을 통보받은 것으로 알려졌다. 차은우는 당초 국세청 판단에 불복하고 대형 로펌을 선임해 법적 대응에 나섰었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘스태프에 부적절 발언’ 데뷔 3개월만에 활동중단 선언한 아이돌</title>
@@ -937,24 +963,6 @@
       <description/>
       <pubDate>Wed, 08 Apr 2026 09:14:04 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4B2UESLGNOD3K5OOA5NWH3YF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 안은나 기자 = 정진석 전 대통령 비서실장(왼쪽부터), 최상목 전 경제부총리, 김주현 전 대통령실 민정수석, 이원모 전 공직기강비서관이 10일 오후 서울 서초구 중앙지방법원에서 윤석열 전 대통령 탄핵 소추 이후 국회가 추천한 헌법재판관 후보자 미임명 혐의와 관련 첫 공판에 출석하고 있다. 2026.2.10/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘헌법재판관 미임명 및 졸속 지명’ 의혹 등으로 기소된 한덕수 전 국무총리 등의 재판에서 수사 당시 검사에게 압박을 받았다는 취지의 증언이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지방법원 형사 33부(재판장 이진관)는 지난 3일 한 전 총리의 헌법재판관 미임명과 관련한 직권남용 혐의 재판을 열고 윤석열 정부 대통령실 공직기강비서관실에서 인사 검증 업무를 담당했던 전 행정관 서모 씨에 대한 증인 신문을 진행했다. &lt;br&gt;&lt;br&gt;국세청에서 파견된 서 전 행정관은 박근혜 정부와 윤석열 정부를 거치며 약 6년간 인사 검증 업무를 진행했다. 그는 이날 변호인 반대 신문에서 이완규 당시 헌법재판관 후보자의 재산과 납세 변동 내역을 자신이 검증했다고 밝혔다. &lt;br&gt;&lt;br&gt;변호인이 이완규 후보자와 이뤄진 네 번의 통화 내역을 묻자 “(검증) 보고서를 쓰면서 추가적으로 필요한 부분, 예를 들어 어떤 재산을 팔았다고 하면 누구에게 팔았는지 그런 부분을 추가적으로 확인하기 위해 전화했다”고 했다. &lt;br&gt;&lt;br&gt;또한 함상훈 후보자에 대해서도 재산 변동 및 납세 내역을 검증했고, “두 후보자에 대한 사후 검증 내역에 특별히 문제가 없었다고 한 게 맞느냐”는 변호인 질문에 그렇다고 했다. &lt;br&gt;&lt;br&gt;내란특검은 한덕수 당시 대통령 권한대행이 두 후보자의 임명을 강행하는 과정에서 서씨 등 인사 검증 담당자가 제대로 된 검증을 하지 못하도록 직권을 남용했다며 한 전 총리, 정진석 전 대통령 비서실장, 김주현 전 민정수석, 이원모 전 공직기강비서관 등을 기소했다. &lt;br&gt;&lt;br&gt;검사로부터 압박을 받았다는 취지의 증언은 재판 막바지에 나왔다. 서씨는 “기소 이틀 전 이뤄진 작년 9월 2차 조사에서 오전 9시 53분부터 오후 4시까지 네 차례 10분간 휴식 외에 점심시간도 부여받지 못한 게 맞느냐”는 이원모 전 비서관 변호인의 질문에 당시 상황을 증언했다.&lt;br&gt;&lt;br&gt;서씨는 “제가 (안 나간다는) 얘기도 안 했는데 안 나오면 피의자 전환된다는 얘기를 먼저 했다”며 조사 전 상황을 설명했다. 그는 “1시 정도면 조사가 끝날 것 같다고 해서 따로 점심시간을 갖지 않았다. 수사관이 12시 23분쯤 담당 검사에게 자료를 보내 스크린해야 한다고 해서 기다리고 있었는데 갑자기 담당 검사가 와서 ‘왜 똑바로 진술하지 않냐, 왜 이런 식으로 진술하냐’고 해서 많이 압박됐던 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이어 “(검사가) 똑바로 진술하지 않으면 직무유기다, 이게 왜 똑바른 검증이냐고 강하게 얘기했다”며 “헌법존중 TF에도 통보할 수 있다’는 얘기를 들었다”고 했다. 그러면서 “거의 끝났다고 생각한 조사를 5시간, 사실상 제가 느끼기엔 더 받은 것”이라고 했다. &lt;br&gt;&lt;br&gt;그는 해당 검사가 ‘김모 행정관도 싹싹 빌고 갔다’고 말했다고 주장했다. 이어 “그걸로 인해 공직을 떠나야 하나 생각했다” “이런 얘기를 들으려고 그렇게(노력) 했나 싶을 정도로 자괴감이 들었다”고 했다. &lt;br&gt;&lt;br&gt;이 전 비서관 변호인이 “추가조사 받으면서 기존 진술 변경한 것 있나”고 묻자 서씨는 “‘인사 검증에 최선을 다했다’고 답변했다가 ‘부족함이 있었던 것 같다’로 바꿨다”고 밝혔다. &lt;br&gt;&lt;br&gt;그러자 재판장은 “그것은 평가에 해당하는 부분”이라며 “위축됐다고 하는데 그런 걸로 사실관계를 다르게 말한 게 있느냐”고 물었다. 이에 서씨는 “그냥 빨리 갔으면 좋겠다고 생각해서 ‘신원 조사를 생략한 사례가 있었나’는 질문에 그냥 ‘없습니다’라고 대답한 부분”이라고 답했다. &lt;br&gt;&lt;br&gt;이날 법정에서는 공판에도 참여하고 있는 해당 검사의 이름이 거론되기도 했다. 재판부는 오는 10일 특검측 재주신문을 진행한다고 밝혔다. 변호인은 “증인 입장도 있으니 다른 검사가 신문하게 해 달라”고 했고 특검은 “증인이 원하면 그렇게 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“검수완박 주장하며 왜 특검엔 검사 파견 받나” “수사·기소는 유기적 절차, 분리 안 돼"</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/08/XEVW5S4RCBFVNNLKI6K4SPAZBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/08/XEVW5S4RCBFVNNLKI6K4SPAZBU/</guid>
-      <dc:creator>강지은 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 09:09:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4GF27LQK5MLPFZSD5MCPYFCG4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 종로구 변호사회관에서 열린 새로운 형사사법체계의 안정적 정착 방안 토론회에서 박용철 서강대 법학전문대학원 교수가 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 검찰청이 폐지된 이후 공소청에 보완수사권을 부여할지를 두고 전문가들은 “수사, 기소, 공판, 집행은 상호 연결된 절차”라며 “검사의 수사권을 완전 박탈해야 한다는 주장(이른바 ‘검수완박’)은 수사·기소 분리를 답으로 정해 놓고 답에 맞는 문제지 내용을 적어 내는 것과 같다”고 했다. 기소를 위한 법리 검토와 수사는 분리할 수 없는 유기적 관계라는 의미다. “검사에게 수사권을 부여하는 일이 잘못됐다면 왜 특검은 검사를 파견받아 수사와 공소 제기를 모두 담당하게 하냐”는 비판도 나왔다.&lt;br&gt;&lt;br&gt;박용철 서강대 법학전문대학원 교수는 8일 오후 국무총리실 산하 검찰개혁추진단 등이 서울 종로구 변호사회관에서 연 ‘새로운 형사 사법 체계의 안정적 정착 방안 토론회’에서 “‘검수완박’은 검사에게 어떤 기능을 부여해야 적법하고 효율적인 형사 사법 제도 운영이 가능한지 우선적으로 고민하는 게 아닌 수사와 기소 분리를 답으로 정해 놓고 답에 맞는 문제지 내용을 서술하는 격”이라며 “경찰에 수사권을 전담하게 하면 수사권 남용은 없으리라 보는 근거 없는 신념 내지 희망의 표현”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “검사에게 수사권을 부여하는 일이 원천적으로 잘못됐다면 특검법을 모두 개정해 검사 파견 없이 경찰로 구성한 특검 수사를 해야 한다”며 “수많은 검사를 파견받아 수사를 지휘하게 하고 공소 제기와 유지까지 담당하게 하는 현실은 법리적으로 복잡한 수사의 경우 법률적 판단을 할 수 있는 검사가 반드시 수사를 함께해야 함을 인정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이은의 변호사도 “수사 과정 중 특히 진술의 경우, 진술을 받으면서 유기적으로 보완돼야 할 것이 많다”며 “수사 자체가 부실한데 보완수사를 할 수 없거나 보완수사 요구를 통해서도 보충되지 않을 경우 부족한 수사 기록을 통해 기소를 결정하긴 쉽지 않다”고 했다.&lt;br&gt;&lt;br&gt;공소청을 과거 수사권을 가졌던 검찰의 연장선으로 생각하지 말아야 한다는 의견도 있었다. 이국운 한동대 법학부 교수는 “수사는 수사기관의 일이고 공소관의 소관은 아니기 때문에 지극히 예외적으로만 보완수사권을 허용해야 한다”고 했다. 이 교수는 “수사 기구(경찰, 중수청)에 맞서 공소관의 권한을 강화하기 위해선 ‘기소배심제도’나 ‘검사장 주민직선제’ 등을 도입해 장기적으로 공소관의 민주적 대표성을 강화하면 된다”고 했다.&lt;br&gt;&lt;br&gt;손병호 법무법인 원 변호사는 “검찰 수사가 경찰보다 뛰어난 것처럼 보였던 것은 검찰이 영장청구권과 기소권을 독점적으로 보유한 채 이를 수사 과정에서 십분 활용했기 때문”이라며 “수사 역량의 본질적 우월함이 아닌 권한 집중에서 비롯된 구조적 산물”이라고 했다. 그러면서 “검사는 보완수사 요구권을 통해 수사 절차를 감시하는 사법 통제자로서 본연의 역할에 그쳐야 한다”고 주장했다. 유승익 명지대 법학과 교수도 “경찰도 부패·금융·경제 범죄 등 수사에서 성과를 내고 있다”며 “복잡한 법리가 적용돼야 하는 사건의 경우 검사 대신 변호사, 회계사 등 전문가를 보강해 대응하면 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 이혼한 아내 살해하고 유기한 남성 구속 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/08/S3W3465DJBDXDADH3HMJZO26XM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/08/S3W3465DJBDXDADH3HMJZO26XM/</guid>
-      <dc:creator>지혜진 기자, 조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 09:01:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2TSNBVGA3TQNJVMZTDSNLEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼한 전처를 살해하고 시신을 유기한 남성이 구속 상태로 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울 서초경찰서는 60대 남성 A씨를 살인 및 시체유기 혐의로 서울중앙지검에 구속 송치했다고 8일 밝혔다. 시체유기 혐의는 기존 미수에서 기수로 변경 적용됐다.&lt;br&gt;&lt;br&gt;A씨는 지난달 30일 오전 11시 20분쯤 서울 서초구의 한 아파트에서 전처 B씨를 살해한 뒤 시신을 여행용 가방으로 옮겨 충북 음성군의 한 묘지 배수로에 유기한 혐의를 받는다. 음성군은 A씨의 연고지인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 B씨와 연락이 닿지 않는다는 아들의 신고를 접수하고 출동해 같은 날 오후 5시쯤 음성군에서 A씨를 검거했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 재산 분할 문제로 아내와 다퉜다는 취지의 진술을 한 것으로 알려졌다. 과거 가정폭력 신고나 시신 훼손 정황은 없던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 2년 9개월 만에 ‘직장 내 괴롭힘 의혹’ 변협회장 과태료 불처벌 결론</title>
