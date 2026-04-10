@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 유튜버 전한길에 구속영장 신청</title>
+      <link>https://www.chosun.com/national/incident/2026/04/10/LCTPDTEXT5HY5FGHNBHPQUJ3M4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/10/LCTPDTEXT5HY5FGHNBHPQUJ3M4/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 13:43:41 +0000</pubDate>
+      <content:encoded>경찰이 한국사 강사 출신 유튜버 전한길(본명 전유관)씨에 대해 정보통신망법상 명예훼손 혐의로 구속영장을 신청했다. 서울경찰청은 전씨에 대해 이재명 대통령과 이준석 개혁신당 대표에 대한 명예훼손 혐의로 최근 서울중앙지검에 구속영장을 신청했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFCGD2D6OVKDDMR4UAL4WCTX6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 전한길씨가 지난 1일 서울 동작경찰서에 조사를 받기 위해 출석하고 있다. 그는 이날도 이준석 개혁신당 대표의 학력이 허위 사실이라는 의혹을 제기했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전씨는 지난달 18일 자신의 유튜브 채널에서 ‘이재명 대통령이 160조원 규모의 비자금과 군사기밀을 중국에 넘겼다’는 주장을 인용해 내보냈다. 지난달 23일에는 이 대표에 대해 “하버드 대학도 정식 졸업했는지 아닌지 의혹이 많다”고 했다. 이에 민주당 법률국과 이 대표는 전씨를 정보통신망법상 허위 사실 적시에 의한 명예훼손 혐의로 서울경찰청에 고소·고발했다. &lt;br&gt;&lt;br&gt;경찰은 지난달부터 이달까지 전씨를 세 차례 조사한 후 구속영장을 신청했다. 전씨는 13일 오후 2시 서울중앙지검에 출석해 구속영장 청구 전 피의자 조사를 받을 예정인 것으로 전해졌다. 검찰의 영장 청구 전 피의자 조사는 피의자 인권 보호를 위한 절차로 2021년 도입됐다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>행안부, 9조4880억 추경 확정… 고유가 지원금 4조8000억 푼다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/10/XBB6XG67QZGDRGSFYMMFMWPM7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/XBB6XG67QZGDRGSFYMMFMWPM7M/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 14:04:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DSMDBMQ3WMNZUMVTDKYJXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울 여의도 국회에서 열린 제434회 국회(임시회) 3차 본회의에서 2026년도 제1회 추가경정예산안(정부)이 가결되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 10일 국회 본회의를 통과한 정부 추가경정예산(추경) 가운데 행안부 소관 예산이 9조4880억원 규모로 확정됐다고 밝혔다. &lt;br&gt;&lt;br&gt;이 가운데 절반가량인 4조7930억원은 국민에게 직접 지급되는 ‘고유가 피해지원금’으로 편성됐다. 정부는 고유가·고물가로 인한 서민 부담을 완화하기 위해 소득 하위 70% 국민에게 1인당 최대 60만원을 지급할 계획이다. 지원금은 지역사랑상품권 형태로 1·2차로 나눠 순차적으로 지급된다. 유가 상승에 따른 생활비 부담을 줄이고 지역 소비를 유도하겠다는 취지다.&lt;br&gt;&lt;br&gt;지방 재정 지원도 확대된다. 내국세 증가에 따라 지방자치단체에 배분되는 지방교부세는 4조6793억원 증액됐다. 정부는 이를 통해 지방정부의 재정 여력을 보강하고 지역 경제 회복을 지원한다는 방침이다.&lt;br&gt;&lt;br&gt;청년 대상 일경험 사업도 새로 포함됐다. 총 156억원을 투입해 사회연대경제 분야에서 청년들에게 일자리 경험을 제공하는 사업으로, 이달 설명회와 수요조사를 거쳐 6월부터 본격 시행된다.&lt;br&gt;&lt;br&gt;에너지 자립 확대를 위한 ‘햇빛소득마을’ 사업에도 평가 예산 2억원이 반영됐다. 정부는 이를 바탕으로 올해 700개 이상 마을을 선정하고 전국으로 확대할 계획이다.&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관은 “고유가 피해지원금과 지방교부세를 신속하고 차질 없이 집행해 고유가 부담 완화와 민생안정이라는 추경 목적을 적시에 달성할 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대한병원협회 회장에 유경하 이화의료원장... 첫 여성 회장 탄생</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/10/YFIPIVWRK5G2LMVQPWFNGLJI5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/10/YFIPIVWRK5G2LMVQPWFNGLJI5A/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 13:21:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOMYXQV4EJDGBHJEXMRFZ7F2PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유경하 신임 대한병원협회 회장/이화여대의료원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제43대 대한병원협회(병협) 회장으로 유경하(66) 이화여대 의무부총장 겸 의료원장이 10일 선출됐다. 첫 여성 병협 회장이다. 다음 달 취임해 2028년 4월까지(2년) 병협 회장을 맡게 된다.&lt;br&gt;&lt;br&gt;소아청소년과 전문의 출신인 유 신임 회장은 이날 열린 병협 정기총회에서 지역·직능별 임원선출위원 40명의 투표를 통해 당선됐다.&lt;br&gt;&lt;br&gt;유 회장은 이화여자대학교 의과대학을 졸업하고 동 대학원 의학 석사와 박사 학위를 받았다. 이대목동병원 진료협력센터장, 교육연구부장 등을 거쳐 이화의료원 기획조정실장과 이대목동병원장을 지냈다. &lt;br&gt;&lt;br&gt;그는 당선 직후 소감에서 “상급종합병원과 중소병원, 공공과 민간을 아우르는 ‘상생 협력’ 체계를 구축해 병원계 전체를 위한 구조적 해법을 마련하겠다”며 “지역·필수·공공 의료의 실마리를 지역에서부터 풀기 위해 지역별·직능별 회의를 현장에서 순회 개최하겠다”고 했다.&lt;br&gt;&lt;br&gt;유 회장이 신임 회장으로 당선된 배경으로는 병협에서도 여성 리더가 필요하다는 인식과 더불어 사립대의료원협의회라는 든든한 우군이 있었던 점이 꼽힌다. 그는 이번 선거에서 사립대의료원협의회의 추대를 받아 출마했다.&lt;br&gt;&lt;br&gt;다만 경쟁자였던 이왕준(62) 명지병원 이사장도 일각에서 강력한 지지를 얻어 선거는 혼전 양상을 띠었다. 친여권 인사로 분류되는 이 이사장이 신임 회장이 되면 병원협회가 정권과 호흡을 맞추기 좋을 것이란 관측도 나왔다. 실제 이 이사장은 학생운동으로 구속된 이력 등을 바탕으로 더불어민주당 인사들과 두터운 친분을 가지고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특히 이 이사장이 명지병원과 제천명지병원, 청풍호노인사랑병원 등 다양한 유형의 의료기관 경영에 관여하면서 서로 다른 기능과 역할을 가진 병원을 운영한 경험이 있다는 점에서 그의 행정력을 높이 사는 이가 많았다고 한다. 국제병원연맹(IHF) 차기 회장으로도 선출된 만큼 국제 병원계와의 협력을 늘릴 수 있을 것으로 봤다. 서울대 출신임을 강조하며 의료계에 퍼져 있는 동문들의 표심도 어느 정도 확보했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;다만 선거 전부터 논란이 일었던 ‘출마 자격’ 문제가 결국 그의 발목을 잡은 것으로 보인다. 병협은 대학병원과 중소 병원의 신사협정을 통해 지난 10여 년간 회장 자리를 양측이 번갈아 하는 원칙이 있었다. 이번에는 대학병원 출신이 회장을 맡을 차례였는데, 이 이사장이 출마한 것이 맞느냐는 논란이 제기됐다. 그는 명지병원이 한양대 협력병원이란 명분으로 출마를 강행했다. 앞서 병협 법제위원회는 “협력병원에 출마 자격을 인정해 준 선례를 이번에도 적용한다”며 이 이사장 손을 들어줬다.&lt;br&gt;&lt;br&gt;그러나 대학병원들의 반발은 만만치 않았다. 대한사립대병원협회는 이 이사장이 후보 사퇴를 하지 않으면 병협을 탈퇴하겠다는 입장을 밝혔고, 실제 이 이사장이 당선될 경우 탈퇴하려 했던 일부 대학병원도 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;대학병원들은 여기에 그치지 않고 이 이사장이 당선될 경우 오는 10월 서울에서 열리는 IHF 행사를 보이콧하겠다는 계획도 세웠다고 한다. 이 이사장이 IHF 차기 회장으로 나서는 행사에서 대학병원이 협조를 하지 않으면 국제 행사가 쪼그라들 수밖에 없는 상황이었다. 한 의료계 인사는 “정권과 지나치게 가까운 이 이사장이 당선되면 병협이 너무 시끄러워질 수 있다는 인식이 선거인단에 있었던 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘사용자성 판단’ 원청 손 들어준 노동위...노란봉투법 첫 사례</title>
+      <link>https://www.chosun.com/national/labor/2026/04/10/IU7U45AYSZE7NE4GVTL4CGJTMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/10/IU7U45AYSZE7NE4GVTL4CGJTMI/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 11:45:54 +0000</pubDate>
+      <content:encoded>노란봉투법 시행 이후 처음으로 하청 노조의 사용자성 판단 관련 신청이 받아들여지지 않은 사례가 나왔다. 앞서 노동위원회는 9일까지 사용자성을 다투는 판단에 있어 모두 하청 노조 손을 들어줬다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITUVAHNQTANDCVM6EQ26EMWFVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주택재개발 신축공사 현장에서 운용되고 있는 타워크레인. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 건설업계에 따르면, 전남지방노동위원회는 이날 한국노총 소속 한국타워크레인조종사노동조합이 중흥건설과 중흥토건을 상대로 낸 사용자성 판단 신청을 기각했다.&lt;br&gt;&lt;br&gt;앞서 노조는 노란봉투법 시행 이후 두 회사를 상대로 단체교섭을 요구했다. 하지만 회사 측이 교섭 요구에 대응하지 않자 지난달 24일 노동위원회에 사용자성 판단 신청을 제기했다. 타워 조종사들이 원청으로부터 직접 지시·관리를 받는다는 것이다. &lt;br&gt;&lt;br&gt;반면 중흥건설 측은 타워크레인 조종사의 경우 임금이나 작업 방식 등에 대해 원청이 크게 관여하지 않고, 작업 과정에서도 자율성이 크다는 점을 들어 사용자성을 인정하기 어렵다는 입장을 보여왔다.&lt;br&gt;&lt;br&gt;이번 판단으로 하청 노조에 대한 원청의 사용자성이 인정되지 않으면서 중흥건설과 중흥토건은 한국타워크레인조종사노조에 대해 교섭 의무를 지지 않게 됐다. 판정에 불복할 경우 노조는 중앙노동위원회에 재심을 신청할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, 검찰개혁 토론회 개최…전문가 다수 “검사 보완수사권 필요”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/10/KSA6W4HJDFEEVNT5PM6DGGKBY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/KSA6W4HJDFEEVNT5PM6DGGKBY4/</guid>
+      <dc:creator>정동하 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 12:09:19 +0000</pubDate>
+      <content:encoded>대검찰청이 오는 10월 검찰청 폐지와 중대범죄수사청(중수청)·공소청 출범을 앞두고 검찰 제도 개편 방향을 논의하는 토론회를 열었다. 검찰청 폐지안이 국회를 통과한 이후, 대검이 이와 관련된 토론회를 개최한 것은 이번이 처음이다. 법조계 전문가들은 “어떤 방식으로든 검사의 보완수사권은 보장돼야 한다”고 입을 모았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUOYMG4VIRAZ5HEYTB72Z7YFZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울 서초구 대검찰청 별관에서 열린 제6회 대검찰청 형사법포럼에서 최익구 서울동부지법 국선전담변호사가 발언하고 있다. /정동하 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 10일 오후 서울 서초구 대검찰청 청사에서 ‘국민을 위한 검찰 제도 개편 방향’을 주제로 제6회 형사법포럼을 열었다. 이날 토론회에서는 검찰청 폐지 이후 공소청 검사에게 보완수사권을 남겨야 할지가 핵심 쟁점으로 다뤄졌다.&lt;br&gt;&lt;br&gt;토론에 참여한 전문가 다수는 검사의 직접 보완수사권이 필요하다고 주장했다. 전문가들은 “직접 보완수사를 금지하면 기소 판단 과정에서 상당한 비효율이 발생하고, 그 부담이 결국 범죄 피해자에게 전가될 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;박용철 서강대 법학전문대학원 교수는 “공소 유지를 위한 수사가 필요한 경우 검사의 보완 수사가 가장 신속하고 효율적이며 사실상 유일한 수단일 수 있다”며 “직접 보완 수사가 더 합리적인 경우도 있는데 이를 전면 금지할 실익이 없다”고 했다. 이어 “검사가 영장 청구에 필요한 사항을 확인할 수 있는 방법을 보완 수사 요구로만 제한하는 것은 헌법 취지에 맞지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;최익구 서울동부지법 국선전담변호사는 “검사가 다른 수사기관이 수집한 증거만으로 사실관계를 판단하게 되면 수사 기록의 틀에 갇힐 가능성이 있다”며 “결국 조서와 수사 보고서에 의존하는 ‘조서 수사’로 이어질 것”이라고 했다. 또 “법관과 변호인, 경찰은 사건 관계인을 직접 대면하는데 검사만 법정에서 처음 대면하도록 하는 제도는 납득하기 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;보완수사권이 폐지되면 범죄 피해자에게 피해가 돌아갈 거라는 우려도 나왔다. 정수경 법무법인 지혜로 변호사는 “공소청 검사가 직접 수사를 할 수 없게 되면 부족한 부분마다 중수청 등에 보완 수사를 요구해야 한다”며 “사건 처리 기간이 더 길어지고, 기관 간 견해 차이로 사건이 장기간 표류할 위험도 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “2021년 검경 수사권 조정 이후에도 수사기관 간 ‘핑퐁’으로 사건 처리 기간이 최소 수개월 이상 늘어났다”며 “보완수사권까지 사라질 경우 절차 지연이 더 심해져 범죄 피해자들에게 상당한 피로를 줄 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잔금 갈등 5년…대전서 공인중개사 흉기 피습</title>
+      <link>https://www.chosun.com/national/incident/2026/04/10/EYOKKRSGGBDFFJISJOGFH46VXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/10/EYOKKRSGGBDFFJISJOGFH46VXQ/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 11:57:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부동산 거래 잔금 문제로 장기간 갈등을 빚어온 70대 남성이 공인중개사를 흉기로 찔러 다치게 한 사건이 발생했다.&lt;br&gt;&lt;br&gt;대전서부경찰서는 살인미수 혐의로 A씨를 붙잡아 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 3시33분쯤 대전 서구 변동의 한 부동산 사무실과 인근 거리에서 공인중개사 대표 B씨를 흉기로 여러 차례 찌른 혐의를 받는다. 범행 직후 A씨는 지나가던 시민의 신고로 체포됐다.&lt;br&gt;&lt;br&gt;B씨는 얼굴과 목 등을 다쳐 병원으로 옮겨졌으나 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 약 5년 전 B씨를 통해 체결한 부동산 계약과 관련해 잔금을 받지 못했다며 갈등을 이어왔다고 진술한 것으로 알려졌다. 이 과정에서 A씨는 수차례 B씨를 찾아간 적이 있었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 범행 자체는 인정하면서도 계획범행과 살해 의도는 부인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 흉기를 미리 준비한 점과 기존 갈등 경위 등을 토대로 계획범행 가능성이 있다고 보고 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>34회 JW중외박애상에 신응진 순천향대 교수</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/10/BUBKWIJIXRAPLFOUF2BLGHTMTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/10/BUBKWIJIXRAPLFOUF2BLGHTMTI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 11:56:33 +0000</pubDate>
+      <content:encoded>10일 서울 코엑스에서 열린 ‘제34회 JW중외박애·봉사상 시상식’에서 신응진(61) 순천향대 부천병원 교수가 JW중외박애상을 받았다. JW중외제약과 대한병원협회가 박애 정신을 구현하는 의료인 발굴을 위해 공동으로 제정한 상이다. &lt;br&gt;&lt;br&gt;순천향대 부천병원장과 대한외과학회 이사장 등을 지낸 신 교수는 공공 의료 기반 강화에 힘써온 공로를 인정받았다.&lt;br&gt;&lt;br&gt;이날 JW중외봉사상은 전성훈(65) 서울아산병원 교수, 박중겸(77) 한마음의료재단 하나병원 이사장에게 돌아갔다. 전 교수는 취약 계층에 꾸준히 의료 봉사를 한 공로를, 박 이사장은 지역 사회 의료 수준 향상에 힘쓴 공로를 인정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZTSZDGMFSTOODFMIZTCZLDGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 신응진 교수, 전성훈 교수, 박중겸 이사장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해군 잠수함 화재 고립 근로자, 하루 만에 ‘사망’ 정정</title>
+      <link>https://www.chosun.com/national/incident/2026/04/10/4HCRZUOTURF7NFITNGFUI4LNLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/10/4HCRZUOTURF7NFITNGFUI4LNLY/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Apr 2026 11:19:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WKM3BME3DGYJRMEYDOODBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HD현대중공업 울산조선소 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;HD현대중공업 울산조선소에서 발생한 해군 잠수함 화재 사고로 고립된 근로자 구조가 이틀째 난항을 겪는 가운데, 회사가 구조 완료 전 해당 근로자를 ‘사망’으로 공시했다.&lt;br&gt;&lt;br&gt;HD현대중공업은 전날 화재 당시 잠수함 내부에 고립됐던 60대 여성 근로자 A씨를 기존 ‘부상자’에서 ‘사망자’로 정정하는 중대재해 발생 공시를 냈다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날까지도 구조되지 못한 상태로, 의료진의 사망 판정이나 사망진단서 발급도 이뤄지지 않은 것으로 전해졌다. 통상 사망 여부는 의사가 판단한다.&lt;br&gt;&lt;br&gt;회사 측의 공시 정정은 고용노동부 울산지청 판단에 따른 것으로 확인됐다. 노동부는 현장 소방 구조대로부터 “사망으로 추정된다”는 의견을 전달받고, 사망 사고에 준해 중대재해 발생 보고서를 작성해 본부에 보고했다. &lt;br&gt;&lt;br&gt;이에 따라 HD현대중공업도 공시 내용을 수정한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 사고 현장에서는 감전 등 2차 사고 우려로 구조 작업이 지연되고 있다. A씨가 고립된 잠수함 내부 진입이 쉽지 않아 구조는 이틀째 진전을 보지 못하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘근무 시간 음주 소동’ 부장판사 퇴직...대법, 사직서 수리</title>
       <link>https://www.chosun.com/national/court_law/2026/04/10/37JVYCAFRRB33NXMWUGEZVYE2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/37JVYCAFRRB33NXMWUGEZVYE2Y/</guid>
@@ -864,75 +936,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PZDLYY2ZPACN2MF4YZFQFMEO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 저동 국가인권위원회 모습./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공군사관학교 예비생도 기초 훈련 과정에서 강제 취식과 폭행·폭언 등 가혹 행위가 있었다는 국가인권위원회 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;인권위는 공군사관학교장에게 가혹 행위 관련자 징계를, 공군참모총장에게는 학교에 대한 특별 정밀 진단 실시를 각각 권고했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;이번 조사는 예비생도 A씨가 지난 2월 인권위에 진정을 제기하면서 이뤄졌다. A씨는 공군사관학교 예비생도 기초 훈련 도중 교관 등으로부터 폭행과 폭언 등을 당한 뒤 자퇴했다고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 구보 중 무릎과 허리를 다쳐 최소 1~2주간 훈련 열외를 권장하는 군의관 진단을 받았지만, 생활 지도 생도가 “가라(가짜) 환자 주제에”라며 부상 부위를 폭행했다고 주장했다. 또 1.5ℓ 쿨피스와 맘모스빵을 지급한 뒤 빨리 먹게 강요하고, 이후 “식사할 필요가 없다”며 밥을 2회 굶게 했다고 했다.&lt;br&gt;&lt;br&gt;인권위는 지난 2월 23일부터 25일까지 공사 예비생도 79명을 상대로 설문조사를 실시했다. 그 결과 20명(25%)은 ‘식고문’ 형태의 음식 취식을 강요받았다고 답했다. 식사를 못 하게 한 사실이 있거나 이를 목격한 적이 있다고 답한 인원은 36명(46%)이었다. 인권 침해 피해를 당한 적이 있느냐는 질문에는 31명(39%)이 ‘있다’고 응답했다.&lt;br&gt;&lt;br&gt;조사 과정에서는 10분 안에 큰 빵과 음료를 다 먹지 않으면 식사를 제한한다고 해 억지로 다 먹고 토했다는 진술도 나왔다. 나체 상태로 목욕탕에서 팔굽혀펴기를 시켰다거나, 방범 카메라(CCTV)가 없는 세탁실 등에서 팔굽혀펴기와 버피 테스트를 50~100회 실시하고 엎드려뻗쳐 자세에서 네 발로 기게 했다는 주장도 있었다.&lt;br&gt;&lt;br&gt;해당 지도생도와 교관 중 일부는 “예비생도들에게 훈육을 한 사실은 있으나, 과도한 수준은 아니었다”고 인권위에 해명했다. 또 “네 애비가 그렇게 가르쳤냐”라는 말을 한 것은 사실이지만, ‘애비’라는 표현은 예비생도의 담당 지도생도를 지칭하는 은어였을 뿐이라고 했다.&lt;br&gt;&lt;br&gt;인권위는 얼차려와 폭언, 강제 취식, 식사 제한 등이 있었던 것으로 판단하고 학교 측에 시정을 권고했다. 또 “사관생도들이 민간인 신분의 예비생도를 대상으로 사실상 군기 훈련을 실시하는 것은 법령 위반의 소지가 크다”며 국방부 장관에게도 기초훈련에 대한 법적 근거를 마련하라고 권고했다.&lt;br&gt;&lt;br&gt;공사는 인권위 발표 후 배포한 입장자료를 통해 “인권위의 조사 결과와 권고 의견을 존중한다”며 “향후 예비생도들과 사관생도들의 기본권을 보장하는 가운데 정예 장교를 양성할 수 있도록 사관학교 교육·훈련 프로그램을 개선하겠다”고 밝혔다. 그러면서 “현재 관련자에 대한 조사를 진행 중이며, 법과 절차에 따라 엄정 조치하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 4월 10일 금요일 (음력 2월 23일 甲寅)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/09/RUEGYJMWONBFFEMLD2SBHS5LUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/RUEGYJMWONBFFEMLD2SBHS5LUA/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>대한민국 걷기 열풍 주인공...서명숙 제주올레 이사장 별세</title>
-      <link>https://www.chosun.com/national/regional/2026/04/07/O6QKY2QEL5A4LB57KGHL4QHZZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/07/O6QKY2QEL5A4LB57KGHL4QHZZI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 04:26:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPYF3GEZOZGFFF2SYOIAEAQ67I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서명숙 제주올레 이사장./(사)제주올레&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서명숙 (사)제주올레 이사장이 7일 별세했다. &lt;br&gt;&lt;br&gt;서명숙 이사장은 향년 68세로 제주 서귀포 출신이다. 정치부 여기자 1세대로, 시사저널 여성 편집장을 역임했다. 22년간 언론인으로 활동하며 지친 몸과 마음을 이끌고 2006년 스페인 산티아고로 불쑥 떠났다. 서 이사장은 순례길 800km를 걸으며 비로소 치유와 성찰의 시간을 얻었다. 그 경험을 통해 고향인 제주에 올레길을 만들기로 결심하고 30년만에 귀향했다. 2007년 여름의 일이었다.&lt;br&gt;&lt;br&gt;그는 “걷는 길은 우리 국토 곳곳에 이미 존재하고 있다. 다만 우리가 걷지 않았고, 잊어버렸고, 상실한 것일 뿐. 길을 만들기 이전에 최대한 많은 시간과 열정을 쏟아 찾아내야만 한다. 그런 길이라야 걷는 이들에게 감동과 위안, 그리고 행복을 선사할 수 있을 것이므로. 지친 현대인들이 걷고 싶어하는 길은 세련된 산책길이 아니라, 자연이 살아 숨쉬고 조상들의 땀과 숨결이 배인 소박한 흙길 돌길 마을길이므로.”라고 제주올레 조성 이유를 설명했다. 그 결과 2007년 사단법인 제주올레를 발족하고 제주올레 1코스를 개장한 이후, 2022년 27번째 코스인 18-2코스를 개장하며 제주를 순수 도보로만 여행할 수 있는 제주올레 길 27개 코스, 437km를 완성했다.&lt;br&gt;&lt;br&gt;제주올레 길은 2010년대 대한민국에 도보여행, 생태여행 문화를 확산시킨 대표적인 사례로 꼽혀왔다. 서명숙 이사장은 2013년 ‘아쇼카 펠로우’에 선정됐고, 2017년에는 ‘국민훈장 동백장’을 받았다. &lt;br&gt;&lt;br&gt;서 이사장은 ‘클린올레’ 환경 캠페인을 통해 길을 걸으며 환경을 보호하고, 주민행복사업을 통해 마을 자원을 활용한 콘텐츠를 개발했다. 여성·청소년·이주민·장애인까지 참여하는 포용적 모델을 통해 제주올레 길의 지속가능성을 끊임없이 고민했다. 또 일본 규슈와 미야기, 몽골 등지에 제주올레의 철학을 수출하고 산티아고 순례길 등 세계 여러 길과 우정을 맺음으로써 ‘길이 단순히 이동하는 통로만이 아니라, 자연과 인간, 문화가 공존하는 살아있는 유산’이라는 가치를 전파하는데 애썼다.&lt;br&gt;&lt;br&gt;서명숙 이사장이 변함없이 제주올레 최우선의 가치로 내세운 것은 ‘치유와 성찰’이었다. 그는 “올레길은 나 자신의 삶을 다시 일으켜 세운 행복한 종합병원”이라며 “걷기를 통해 심신을 회복하고 건강한 삶을 이어올 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;빈소는 서귀포의료원 장례식장에 마련됐다. 영결식은 오는 10일 오전 9시 제주올레 6코스 서복공원 잔디광장에서 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PPYF3GEZOZGFFF2SYOIAEAQ67I.jpg?auth=f3c52682cd6fb80517cadab23f02c78c01362540d84a2b401aa44a98da3fc297&amp;smart=true&amp;width=2599&amp;height=1727" type="image/jpeg" height="1727" width="2599">
-        <media:description type="plain">서명숙 제주올레 이사장./(사)제주올레</media:description>
-        <media:credit role="author" scheme="urn:ebu">[QRIMAHN]                       </media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>’마약 집행유예 중 음주운전’ 前 위너 남태현, 1심서 실형</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/09/C63YAQGAJFHSNEJX7HYX5DB33E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/C63YAQGAJFHSNEJX7HYX5DB33E/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 05:59:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSCGCC7CE5OBFI6DPNCQAQTJSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 남태현이 지난 2024년 서울 마포구 서부지법에서 열린 필로폰 매수·투약한 혐의 관련 선고기일을 마친 뒤 법원을 나서며 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집행유예 기간 중 음주운전 사고를 낸 유명 아이돌 그룹 ‘위너’ 출신 가수 남태현(32)씨가 1심에서 징역 1년을 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사11단독 양은상 판사는 9일 오후 도로교통법 위반(음주운전 등) 혐의로 기소된 남씨에게 징역 1년과 벌금 100만원을 선고했다. 앞서 검찰이 구형한 징역 1년 6개월보단 낮은 형량이다.&lt;br&gt;&lt;br&gt;재판부는 “도로 교통상의 위험이 매우 높았다는 점에서 엄중하게 처벌할 필요성이 있다”면서도 증거 인멸 및 도망의 염려가 없다고 보고 구속 영장은 발부하지 않았다. 남씨는 판결이 확정될 때까지 구속을 면하게 됐다.&lt;br&gt;&lt;br&gt;남씨는 작년 4월 27일 새벽 술에 취한 채 차량을 끌고 강변북로 일산 방향 동작대교 인근에서 중앙분리대를 들이받은 혐의로 불구속 기소됐다. 당시 남씨의 혈중알코올농도는 면허취소(0.08%) 기준을 넘는 0.122%였던 것으로 나타났다.&lt;br&gt;&lt;br&gt;사고 당시 인명 피해는 없었지만 한때 남씨의 차량이 도로 제한 속도인 시속 80km를 훌쩍 넘는 182km를 기록한 것으로 조사됐다. 특히 남씨의 음주운전은 지난 2024년 1월 그가 마약 투약 혐의로 징역 1년에 집행유예 2년을 선고받은 뒤, 해당 집행유예 기간을 채 마치지 않았을 때 발생했다.&lt;br&gt;&lt;br&gt;남씨는 지난 2023년 3월 서울 강남구의 한 주택가에서 술을 마신 채 택시와 접촉사고를 내 벌금 600만원의 약식명령을 받은 적도 있다.&lt;br&gt;&lt;br&gt;남씨는 지난달 최후변론을 통해 “과거의 행동이 용납될 수 없다는 사실을 안다”며 “다시는 같은 일이 반복되지 않도록 저라는 사람을 바꾸겠다”고 혐의를 인정했다.&lt;br&gt;&lt;br&gt;2014년 YG엔터테인먼트 아이돌 그룹 ‘위너’로 데뷔한 남씨는 2년 만에 팀을 탈퇴한 후, 밴드 ‘사우스클럽’을 결성했다. 하지만 이후에도 각종 논란으로 구설수에 올라 연예계 활동을 접었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대 소액기부 캠페인에 1년만에 4억5000여만원 모여</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/09/JMRNMKHGGZDKBNHKX7ALMY2YS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/JMRNMKHGGZDKBNHKX7ALMY2YS4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 05:36:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2WGOJZMYYGCMRZGU2DQM3GMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대가 소액 기부 프로그램을 시작한 지 1년 만에 4억5000여 만원의 기부금이 모금됐다.&lt;br&gt;&lt;br&gt;서울대는 지난해 3월부터 지난 2월까지 1년 동안 소액 기부 프로그램 ‘샤인 기부’를 통해 기부자 868명으로부터 4억5456만754원을 모금했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;샤인 기부란 동문, 학부모, 교직원 등 누구나 가볍게 참여할 수 있도록 설계된 소액 정기 기부 캠페인이다. ‘작은 기부가 모여 서울대의 미래를 완성한다’는 철학에서 시작됐다. 탁상시계, 달력 등 굿즈를 활용해 이 같은 소액 정기 기부를 마련한 건 서울대가 국내 대학 중 최초다.&lt;br&gt;&lt;br&gt;지난 1년 동안 기부에 참여한 후원 건수 중 39.1%는 동문, 33.1%는 학부모, 14.4%는 교직원, 5.0%는 교수였다. 기부에 참여한 방식은 정기 후원(86.7%)이었으며 일시 후원(13.3%)도 일부 있었다.&lt;br&gt;&lt;br&gt;서울대는 샤인 기부 캠페인 출범 1주년을 기록해 이날 서울대 관악캠퍼스 아크로폴리스 광장에서 ‘1주년 성과 보고회’를 연다. 행사에는 유홍림 총장과 기부자 등 100여 명이 참석할 예정이다.&lt;br&gt;&lt;br&gt;기부금은 미래 혁신 인재 육성과 글로벌 연구 역량 축적, 인공지능(AI) 네이티브 캠퍼스 조성 등에 활용될 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘땅콩회항 폭로’ 박창진, 한국공항공사 자회사 임원 됐다</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/09/J43ATNLI4NFPTMUNZHCHYBLYZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/J43ATNLI4NFPTMUNZHCHYBLYZY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 05:12:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZTMNTGGM3DCOBRGZTDGOBQGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 박창진 KAC공항서비스 기획본부장. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 이른바 ‘땅콩 회항’ 사건을 폭로했던 박창진 전 대한항공 사무장이 한국공항공사(KAC) 자회사인 KAC공항서비스 기획본부장(상임이사)으로 취임한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;9일 KAC공항서비스 등에 따르면 박창진 신임 본부장은 지난 7일 임직원, 노조 관계자 등이 참석한 가운데 본사 대회의실에서 취임식을 개최했다. &lt;br&gt;&lt;br&gt;박 본부장은 취임사를 통해 “우리 회사의 경영 방침 중 현장 중심의 경영에 가장 공감한다”면서 “과거 현장에서 받은 연대와 위로를 바탕으로 현장과 직원 곁에서 함께하는 기획본부장이 되겠다”고 말했다.&lt;br&gt;&lt;br&gt;박 본부장은 “공항은 다시 돌아온 고향 같은 곳”이라며 “현장 중심, 소통과 연결, 함께 성장하는 리더십을 실천하겠으며, 현장의 땀의 가치를 소중하게 여기는 기획본부장이 되겠다”고 했다. &lt;br&gt;&lt;br&gt;박 본부장은 1996년 대한항공에 객실 승무원으로 입사해 사내 홍보 모델과 VIP 담당 승무원으로 활동하다가 2005년 객실 사무장으로 승진했다. 그러나 2014년 이른바 ‘땅콩회항’ 사건을 폭로하면서 사측과 갈등을 빚다가 2020년 1월 퇴사했다.&lt;br&gt;&lt;br&gt;‘땅콩회항’ 사건은 2014년 12월 5일, 대한항공 오너 일가인 조현아 전 부사장이 이륙 준비 중이던 기내에서 땅콩 제공 서비스를 문제 삼으며 난동을 부린 데 이어, 비행기를 되돌려 수석 승무원을 하기시킨 사건이다. &lt;br&gt;&lt;br&gt;대한항공 퇴사 뒤 정치권에 입문한 박 본부장은 정의당 부대표를 지내다 2024년 더불어민주당에 입당해 부대변인으로 활동해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 돌풍 영향에 항공기 88편 결항</title>
-      <link>https://www.chosun.com/national/regional/2026/04/09/T7WN5L3KYVHQLN7LIQHGIFTJZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/09/T7WN5L3KYVHQLN7LIQHGIFTJZY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 01:14:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYWEOLEGIZGKMRXMQ4DIYZYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 제주국제공항 이용객이 공항 1층 도착장 대합실 전광판에 뜬 결항 안내를 바라보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 제주에 강풍을 동반한 비가 내리면서 항공기 운항에 차질이 발생하고 있다.&lt;br&gt;&lt;br&gt;한국공항공사 제주공항에 따르면 이날 오전 11시 기준 국내선 145편(출발 68편·도착 77편)과 국제선 7편(출발 3편·도착 4편) 등 모두 152편이 결항했다. 또 국내선 51편이 지연 운항했다.&lt;br&gt;&lt;br&gt;상하이 푸둥공항에서 출발한 국제선 등 모두 2편은 제주에 도착하지 못하고 회항했다.&lt;br&gt;&lt;br&gt;현재 제주공항에는 급변풍 경보와 강풍 경보가 발효 중이다.&lt;br&gt;&lt;br&gt;제주공항 관계자는 “제주뿐 아니라 광주와 여수 등 남부지방 악기상으로 결항과 지연이 발생했다”며 “항공기 이용객은 사전에 운항 정보를 확인해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;또 제주도 남쪽 바깥 먼바다와 남서쪽·남동쪽 안쪽 먼바다에 풍랑특보가 발효됐다. 이로 인해 다른 지역을 잇는 6개 항로 여객선 9척 중 3개 항로 3척이 운항하지 않는다. 제주도 본섬과 우도, 가파도, 마라도로 오가는 여객선은 오전 9시 기준 모두 통제됐다.&lt;br&gt;&lt;br&gt;기상청은 10일까지 제주 곳곳에 돌풍과 함께 천둥·번개를 동반한 많은 비가 내리겠다고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘검찰판 왕사남’에서도 권력은 한명회 손에...</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/09/DABQQBRPNFA27I5F6YVHWJZNXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/09/DABQQBRPNFA27I5F6YVHWJZNXI/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 01:52:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3TT2CS6JBQVOT2E4P3JMCBOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '왕과 사는 남자' 속 한명회 역(유지태, 좌측)과 엄흥도 역(유해진)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘왕과 사는 남자(왕사남)’가 1600만 관객을 돌파하는 등 흥행에 성공하면서 검찰 안팎에선 2006년 춘천지검 영월지청장 인사가 새삼 회자되고 있다. 왕사남은 1457년 단종이 강원도 영월로 유배된 이후 죽음에 이르는 과정을 그렸는데, 2006년 영월지청에서는 단종의 죽음과 관련해 상반된 입장에 있던 역사적 인물들의 후손들이 검사로 함께 근무했기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSWEOBXGVQTAN3EGI4DMZTDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '왕과 사는 남자' 포스터. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 2006년 2월 천정배 전 법무장관은 춘천지검 영월지청장으로 한찬식(사법연수원 21기) 전 서울동부지검장을 보임했다. 한 전 지검장은 청주 한씨로 계유정난을 주도해 단종을 폐위시킨 한명회의 후손이라고 한다.&lt;br&gt;&lt;br&gt;그런데 당시 영월지청에는 성상헌(30기) 서울남부지검장과 엄희준(32기) 광주고검 검사도 평검사로 근무했다. 두 사람은 각각 창녕 성씨와 영월 엄씨를 쓰는 성삼문과 엄흥도의 후손이다. 성삼문은 단종의 복위를 꾀하다 처형된 사육신의 핵심 인물이고, 엄흥도는 유배된 단종을 보살피고 시신을 수습해 장례를 치른 영월의 호장이다.&lt;br&gt;&lt;br&gt;한 전 지검장과 성 지검장, 엄 검사는 2006년 8월까지 6개월간 영월지청에서 함께 근무했는데, 단종을 지키려 했던 인물들의 후손들이 한명회의 후손을 지청장으로 모셨던 것이다.&lt;br&gt;&lt;br&gt;특히 영월지청에는 지청장이 부임하는 날 영월에 있는 단종릉을 참배하는 관행이 있었는데, 한 전 지검장 역시 영월지청장으로 부임하면서 성 지검장, 엄 검사 등을 대동하고 단종릉을 참배했다고 한다.&lt;br&gt;&lt;br&gt;이에 대해 한 검찰 고위간부는 “단종을 몰아낸 쪽과 단종을 지키려 한 쪽의 후손들이 아이러니하게 한 지청에서 함께 근무했던 셈”이라며 “영화 ‘왕사남’ 흥행과 맞물려 검찰 내부에서는 2006년 영월지청장 인사가 검찰 역대 최악의 인사라는 우스갯소리가 나온다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QK6OCIOKFNE23FVNBBBGJD4PQE.jpg?auth=150c7a58361aae8e0bf1b107e3d49e89584494b48c6a4de21706c4e9623061bc&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
-    </item>
-    <item>
       <title>2차 특검, 김태효 전 안보실 차장 압수수색 “내란 중요 임무 종사”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/09/246XPUHXCBCRVCUWVW3G5WPSFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/09/246XPUHXCBCRVCUWVW3G5WPSFQ/</guid>
@@ -952,16 +955,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/TREHPLOIQBCY3EYYSK5L4SL4XE.JPG?auth=87c9f826dc727dc1af9ae60b549dd03c2ae9a967db79832e44204318243c9050&amp;smart=true&amp;width=551&amp;height=413" type="image/jpeg" height="413" width="551">
         <media:description type="plain">곽튜브 인스타그램</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[굿모닝 멤버십] K2 전차 수출 막던 미국이 폴란드에 허락한 이유</title>
-      <link>https://www.chosun.com/national/2026/04/09/2RSH5NQOJBFNHCTAA6X367EW4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/09/2RSH5NQOJBFNHCTAA6X367EW4Q/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 18:00:00 +0000</pubDate>
-      <content:encoded>📅1940년 4월 9일 새벽 4시, 덴마크 주재 독일 대사 렌테-핑크는 외무장관을 급히 불러 “저항을 멈추지 않으면 코펜하겐을 폭격하겠다”는 최후통첩을 보냈습니다. 노르웨이 진출을 위한 핵심 거점이었던 덴마크를 점령하기 위한 나치 독일의 ‘베저위붕 작전(Operation Weserübung)’이 시작된 것이죠. 세계 최초의 공수부대 투입과 함께 하늘에선 독일어로 ‘선언(OPROP!)’이라 적힌 전단지가 비처럼 쏟아졌고, 덴마크 육군 항공대는 이륙도 해보기 전에 궤멸당했습니다. 결국 덴마크는 단 6시간 만에 항복을 선언했습니다. 전쟁사에서 가장 짧은 점령전으로 기록된 이 비극은, 평화가 얼마나 허무하게 무너질 수 있는지를 보여줍니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKSAH5KSPWUXTFOTK26SU4W22Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 ‘랜드 오브 마인’에서 독일 소년병들은 2차 대전이 끝나도 귀국하지 못하고 덴마크 해안의 지뢰 제거 작업에 투입된다. 영화는 실제 무대였던 덴마크 남서쪽 해안에서 촬영됐다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그로부터 86년이 지난 오늘, 국방의 전선은 철조망을 넘어 ‘나노’ 단위의 반도체 회로와 정밀한 방산 기술로 옮겨왔습니다. 대한민국은 첨단 기술의 요충지로서 전 세계의 주목을 받고 있죠. 글로벌 기술 패권 전쟁의 최전선은 여전히 긴박하게 돌아가고 있습니다. 오늘 조선멤버십은 우리 안보의 중심에 선 방벽의 지각변동을 예리하게 분석했습니다.&lt;br&gt;&lt;br&gt;🏗️ 대한민국을 세계 10대 경제 강국으로 이끈 이병철과 정주영, 두 거목이 일궈낸 반도체와 중공업의 토양 위에 우리 경제는 눈부신 꽃을 피웠습니다. 하지만 현재의 기업 경영인들은 인류 지능의 1만 배에 달한다는 ‘초인공지능(ASI)’의 습격과 천문학적인 보조금을 쏟아붓는 중국의 ‘기술 굴기’라는 전례 없는 복합 위기에 직면해 있죠. 여기에 인류 문명의 존속을 위협하는 인구 붕괴와 한반도 주변의 지정학적 리스크까지 더해지며, 과거의 성공 방정식만으로는 풀 수 없는 숙제들이 쌓여가고 있습니다. 과연 우리는 이 거대한 파고를 넘어 정주영 회장이 꿈꿨던 통일 한국의 시너지와 새로운 도약의 전기를 마련할 수 있을까요?&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/industry-company/2026/04/09/JXD2B4AGQFBRBOAD7OU5CLIUWE/" target="_self" rel="" title="https://www.chosun.com/economy/industry-company/2026/04/09/JXD2B4AGQFBRBOAD7OU5CLIUWE/"&gt;반도체·조선·방위산업·원자력… 이병철·정주영 업적 이어 받은 3세들의 과제&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLJRDCKOH5A2ZBDTCWWCOGHX5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🚀 대한민국이 세계 8번째로 첨단 전투기 KF-21을 출고하며 방산 강국의 위용을 과시하고 있습니다. 흥미롭게도 이 눈부신 성장의 발판은 46년 전, 미국이 방위비 분담을 요구하며 “우리 무기를 사라”고 압박했던 ‘리더십 보고서’에서 시작되었습니다. 당시의 강요된 무기 도입은 결과적으로 한미 무기 체계의 상호운용성을 극대화했고, 이는 오늘날 폴란드가 미국 대신 한국의 K2 전차를 전격 선택하게 만든 결정적인 ‘신의 한 수’가 되었죠. 척박했던 방산 불모지에서 어떻게 미국조차 탄약 생산을 의존하는 핵심 파트너로 거듭날 수 있었는지, 그 드라마틱한 역전의 과정을 확인해 보시길 바랍니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/international/international_general/2026/04/09/QF7BMFFYFBDNVFBZQYOWP2R6DA/" target="_self" rel="" title="https://www.chosun.com/international/international_general/2026/04/09/QF7BMFFYFBDNVFBZQYOWP2R6DA/"&gt;“미국 무기 사라” 방위비 분담 압박… ‘K-방산’ 씨앗이 됐다&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52MR5QLAF5G55KGUUNY7MAGF6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🏛️ 2차 종합특검이 출범하자마자 ‘쌍방울 대북 송금’ 사건을 ‘초대형 국정농단’으로 규정하며 정국의 핵으로 부상했습니다. 특검은 수사 개시 사흘 만에 전임 정부의 개입 정황을 의심하며 수사 범위를 대폭 확대하고 있는데, 이를 두고 법조계에서는 수사권 범위를 초과한 위법적 행보라는 비판이 거셉니다. 일각에서는 이번 수사가 결국 특정 인물의 기소 사건을 거둬들이기 위한 ‘공소 취소’ 수순이 아니냐는 의구심까지 제기하고 있죠. 사상 초유의 공소 취소 시나리오가 현실화될 수 있을지, 법원의 사법 통제가 어떤 결정적 변수가 될지 그 내밀한 법리적 쟁점을 짚어보았습니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/national/court_law/2026/04/09/2PGXDMR6EZF6FCMZ6A76BAZZJM/" target="_self" rel="" title="https://www.chosun.com/national/court_law/2026/04/09/2PGXDMR6EZF6FCMZ6A76BAZZJM/"&gt;사흘 만에 “초대형 국정농단” 규정… 2차 특검의 ‘수사권 월권’ 논란&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3EAMH4D7VFPRK2N5WITKXEUIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://members.chosun.com/membership/join/index.html" target="_self" rel="" title="https://members.chosun.com/membership/join/index.html"&gt;&lt;b&gt;조선멤버십 회원이 되시려면 여기 누르세요.&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
     </item>
     <item>
       <title>[데스크에서] 일상이 된 마약, 청춘이 무너진다</title>
