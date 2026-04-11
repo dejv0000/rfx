@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울양양고속도로서 승용차 5대 추돌 사고</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/LTXFT7CQWFFGHJTVNXH5A47OVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/LTXFT7CQWFFGHJTVNXH5A47OVM/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 08:37:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWQONUYRBBCYXMSDQN5MCL7K7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울양양고속도로 추돌 사고./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울양양고속도로에서 차량 5대가 잇따라 부딪쳐 2명이 다쳤다.&lt;br&gt;&lt;br&gt;11일 강원소방본부에 따르면 이날 오후 3시 27분쯤 강원 춘천시 남면 서울양양고속도로 서울 방향 발산 1교 인근에서 승용차 5대가 잇따라 추돌했다.&lt;br&gt;&lt;br&gt;이 사고로 운전자 2명이 경상을 입고 인근 병원으로 이송돼 치료를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>고양 BTS 공연장서 팔찌 티켓 500장 도난</title>
       <link>https://www.chosun.com/national/national_general/2026/04/11/G4USK5CACBC7PECOVQEXWXATXQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/G4USK5CACBC7PECOVQEXWXATXQ/</guid>
@@ -926,15 +935,6 @@
       <description/>
       <pubDate>Thu, 09 Apr 2026 15:14:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSWKMZQMQYDQNDEGIYDIZBXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김현지 제1부속실장이 청와대에서 열린 수석보좌관회의에 참석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김현지 청와대 제1부속실장에 대한 허위 사실을 유포한 혐의를 받는 인터넷 매체 발행인에 대한 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이종록 영장 전담 부장판사는 9일 정보통신망법상 명예훼손 혐의를 받는 한미일보 발행인 허모씨의 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “수사 진행과 출석 상황, 주거 및 사회적 유대 관계 등에 비춰 증거를 인멸하거나 도망할 염려가 있다고 보기 어렵다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;허씨는 김 부속실장과 관련해 불륜·혼외자·국고 남용 등 허위 사실을 담은 기사를 작성·유포해 명예를 훼손한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당 국민소통위원회는 지난해 10월 허씨와 한미일보를 정보통신망법 위반 혐의로 서울경찰청에 고발했다. 한미일보는 허씨가 인터넷 매체 ‘스카이데일리’ 퇴사 이후 창간한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 10일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/09/GFFU6T6C2REIPCEQ57SQXHYBKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/09/GFFU6T6C2REIPCEQ57SQXHYBKM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 14:34:00 +0000</pubDate>
-      <content:encoded>금 - 전국 흐리다가 맑아짐&lt;br&gt;&lt;br&gt;토~일 - 전국 대체로 맑고, 제주도 흐림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5UKU4BIINFBTOT3J43L3TEK7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“나이 안 맞게 젊은 척, 연애 목적”... 2030은 ‘영포티’를 이렇게 본다</title>
