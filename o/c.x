@@ -13,6 +13,50 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>고양 BTS 공연장서 팔찌 티켓 500장 도난</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/G4USK5CACBC7PECOVQEXWXATXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/G4USK5CACBC7PECOVQEXWXATXQ/</guid>
+      <dc:creator>고양=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 07:36:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74NMECXBMRDCZFA4SYFAT6IVYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BTS 새 월드투어 '아리랑' 고양 공연./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양시 방탄소년단(BTS) 공연장 티켓부스에서 입장용 손목 팔찌 500개가 도난당해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;11일 경찰에 따르면 이날 오후 3시 20분쯤 고양시 일산서구 고양종합운동장 보조경기장 티켓부스에서 한 남성이 손목 팔찌 500개를 들고 달아났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;도난당한 팔찌는 공연장 출입에 필요한 물품으로 현장에서 티켓과 함께 확인 절차를 거쳐야만 입장이 가능하다.&lt;br&gt;&lt;br&gt;경찰은 확보된 용의자의 인상착의를 바탕으로 인근 주요 길목 중심으로 수색 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IOAMSEWRMVNHNIAKL4NWUYPNW4.jpg?auth=10401c3af11c7cd3141cc0186d948846e6fc0ae72f7a160b60eb826b09a2ac74&amp;smart=true&amp;width=2048&amp;height=1366" type="image/jpeg" height="1366" width="2048">
+        <media:description type="plain">&lt;YONHAP PHOTO-3049&gt; BTS 새 월드투어 '아리랑' 고양 공연
+    (서울=연합뉴스) 그룹 방탄소년단(BTS)이 9일 경기도 고양종합운동장 주경기장에서 새 월드투어 '아리랑'의 막을 올렸다. 2026.4.10 [빅히트뮤직 제공.재판매 및 DB 금지]
+    photo@yna.co.kr/2026-04-10 07:03:22/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, ‘정원오 여론조사 왜곡 의혹’ 제기한 野 김재섭 측 고발인 조사</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/2TCC62YNVVEQJGZJMIFPQGXOSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/2TCC62YNVVEQJGZJMIFPQGXOSA/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 08:12:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSTMNJVMVTDKNBQGYYDSN3BGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김재섭 의원(왼쪽)과 더불어민주당 서울시장 예비후보인 정원오 전 성동구청장(오른쪽). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여론조사 결과를 왜곡해 유포했다는 의혹이 제기된 더불어민주당 정원오 서울시장 후보와 관련해 11일 경찰이 고발인 조사를 진행했다.&lt;br&gt;&lt;br&gt;서울 성동경찰서는 이날 오전 정 후보를 공직선거법 위반 혐의로 고발한 국민의힘 김재섭 의원의 대리인을 불러 조사했다고 밝혔다. 서울경찰청이 성동서에 사건을 배당한 지 하루 만이다.&lt;br&gt;&lt;br&gt;앞서 정 후보는 민주당 서울시장 후보 경선 과정에서 3개 기관의 여론조사 결과를 자신에게 유리한 응답만 가공해 홍보물로 만들었다는 의혹이 제기됐다. 후보 적합도 문항에서 ‘모름’·‘무응답’ 층을 제외하고 당내 지지층 응답만 백분율로 환산했다는 것이다. 정 후보는 해당 홍보물에서 자신이 당내 서울시장 후보 적합도 1위라고 표기했다.&lt;br&gt;&lt;br&gt;이에 지난 6일 경쟁 후보였던 더불어민주당 박주민·전현희 의원이 당 지도부에 의혹을 제기하며 본경선 일정 유예 등을 요구했다. 다음 날 김 의원은 정 후보를 서울경찰청에 고발했다. 곧이어 중앙선거관리위원회도 수사기관이 신속한 판단을 내도록 협조하겠다며 서울경찰청에 관련 자료를 전달했다.&lt;br&gt;&lt;br&gt;정 후보는 “공직선거법 위반 소지가 없다”는 입장을 고수하고 있다. 현재 그는 성동구청장 재임 중 여성 공무원과 멕시코 휴양지 칸쿤에 출장을 다녀오며 관련 문서를 위조했다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양주 3살 아이 의식불명’…친부 아동학대 일부 확인</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/R6TCWSEVZZCVHLL7WYLEQ4GIII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/R6TCWSEVZZCVHLL7WYLEQ4GIII/</guid>
+      <dc:creator>양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 08:09:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVA5Y5FYNDPRGAQW6B2KEJALQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./김은진기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주에서 세 살 아이가 온 몸에 상처를 입고 의식을 잃은 채 병원으로 옮겨진 사건과 관련, 경찰이 친부의 아동학대 혐의를 일부 확인했다. &lt;br&gt;&lt;br&gt;경기북부경찰청 여성청소년수사계는 아동복지법상 아동학대 혐의로 세 살 남자아이 A군의 친부인 20대 남성 B씨에 대해 구속영장을 신청했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 B씨의 휴대전화 포렌식 등을 통해 학대 정황을 일부 확인한 것으로 알려졌다. 다만 경찰은 A군이 경련을 일으키고 머리 외상을 입은 경위와 학대 행위 사이의 직접적인 연관성은 아직 확인하지 못한 상태다.&lt;br&gt;&lt;br&gt;경찰은 함께 긴급체포했던 20대 친모에 대해서는 아이의 치료 상황을 고려해 석방 결정을 내렸으며, 별도의 구속영장은 신청하지 않기로 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아이의 치료 상황으로 친모를 석방했지만 아동학대 혐의에 대해선 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 9일 오후 6시 44분쯤 양주시 옥정동의 한 아파트에서 “아이가 울고 경련한다”는 신고가 접수됐다. 구급대가 현장에 도착했을 당시 A군은 자발호흡은 있었지만 의식이 없는 상태였고, 의정부의 한 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;보호자는 소방대원에게 “쿵 하는 소리를 듣고 가보니 아이가 경련하고 있었다”는 취지로 설명한 것으로 알려졌다. 이송 당시 턱 부위의 멍은 있었지만 뚜렷한 두부 외상은 확인되지 않았다고 소방 당국은 전했다.&lt;br&gt;&lt;br&gt;이후 아이를 진료하던 병원 측은 같은 날 오후 9시 30분쯤 “아동학대가 의심되고 머리 외상이 있다”며 112에 신고했다.&lt;br&gt;&lt;br&gt;A군은 병원에서 뇌 수술을 받았으며 현재까지 의식을 되찾지 못한 채 위중한 상태인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 병원 소견과 보호자 진술, 기존 신고 이력 등을 종합해 아동학대 혐의점이 있다고 보고 전날 오후 11시쯤 친부와 친모를 응급실에서 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 B씨에 대해서는 지난해 12월에도 A군에 대한 병원의 아동학대 의심 신고가 접수된 바 있다. 다만 이 사건은 당시 경찰과 검찰 수사 끝에 불기소 처분됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 4월 12일 일요일 (음력 2월 25일 丙辰)</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/S64EXDQ5JZBWBBV4WTBSPKIK4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/S64EXDQ5JZBWBBV4WTBSPKIK4E/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
       <title>암행순찰차 타보니… 버스전용차로 위반 2시간 만에 ‘119건’</title>
       <link>https://www.chosun.com/national/national_general/2026/04/11/CDP745IKEJFLREC3LJFAOEFGLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/CDP745IKEJFLREC3LJFAOEFGLE/</guid>
@@ -848,15 +892,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBRCSOJMKZGSBDJV5N4YPSD2PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 서울 강남구 가로수길의 공실 한 곳에 '임대' 딱지가 붙어 있다./김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1990년대 ‘오렌지족’의 본거지였던 서울 강남구 신사동 가로수길은 이후 30여 년간 젊은이들이 넘쳐나는 서울의 노른자위 땅으로 통했다. 세계 최고 상권에만 문을 여는 애플스토어 국내 첫 매장도 2018년 이곳에 들어섰다. 2010년대까지 대기업 프랜차이즈들이 앞다퉈 입점하려 줄을 서며 가로수길 건물주들의 위상은 ‘갑 중의 갑’으로 꼽혔다. 하지만 코로나 팬데믹 이후 상권 침체가 장기화하고 공실률이 40%를 넘어서자, 콧대 높던 건물주들이 월세를 인하한 데 이어 ‘무상 임대’ 카드까지 검토하고 있다.&lt;br&gt;&lt;br&gt;가로수길 건물주 20여 명이 모인 ‘가로수길 지역 번영회’는 6월 열리는 지역 축제를 앞두고 최소 3개월에서 최대 1년간 임대료를 받지 않는 방안을 검토 중인 것으로 8일 알려졌다. 평당 50만원 선인 월세를 받지 않고 팝업스토어 등을 유치하겠다는 것이다. 다만 전기료 등 공과금과 대행사 수수료는 임차인이 부담하는 조건이다. 현재 건물주 5~6명이 이런 ‘무상 월세 팝업스토어’ 유치를 긍정적으로 검토하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;가로수길 건물주들의 이런 움직임은 지역 상가 공실률 때문이다. 부동산 컨설팅사 쿠시먼앤드웨이크필드에 따르면, 작년 4분기 가로수길 공실률은 45.2%다. 가로수길 지역만큼은 아니지만 청담동(공실률 13.4%), 강남역 일대(11.3%) 등 강남 지역 다른 상권도 상황은 비슷하다.&lt;br&gt;&lt;br&gt;코로나 팬데믹에서 타격을 입은 강남 지역 상권이 일상 회복 후로도 좀처럼 예전 명성을 되찾지 못하는 건 높은 월세 때문이란 분석이 많다. 강남 월세를 감당하지 못한 식당이나 카페들이 서울 성수동이나 한남동으로 떠나간 것도 한몫했다. 작년 4분기 기준 성수동 공실률은 2.5%, 한남동·이태원은 7.9% 수준이다.&lt;br&gt;&lt;br&gt;강남 건물주들이 월세를 낮춘 것은 이번이 처음은 아니다. 강남구 압구정 로데오 일대 건물주들은 2017년 상권 쇠퇴를 막기 위해 월세를 최대 50%까지 낮춘 적이 있다. 그 결과 압구정 로데오 일대는 어느 정도 활기를 되찾았다. 부동산 업계 관계자는 “강남은 기업 임차인이 많아 건물주들은 공실이 생겨도 높은 월세를 고수하는 경향이 강하고, 그렇다 보니 상권의 개성을 유지해 줄 소상공인들이 떠나면서 공실률이 높아지는 악순환이 반복된 것”이라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“만취女 도와줬더니 변태 취급”… 분노의 글 올린 입주민</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/10/MHVATXQIWBB3HLNWBKMUQ4BSYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/MHVATXQIWBB3HLNWBKMUQ4BSYQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:28:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5YZLSAYPJDHFBUXD2OYXDUCLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 단지내에 붙여진 경고문 / 보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트 입주민이 단지 내에서 술에 취한 여성을 도와줬다가 범죄자로 몰렸다며 억울함을 호소한 글이 온라인에서 화제가 되고 있다. &lt;br&gt;&lt;br&gt;9일 온라인 커뮤니티 보배드림에는 ‘변태로 오해받은 어느 입주민의 경고문’이라는 제목으로 사진이 올라왔다. 사진을 보면, 손글씨로 적힌 쪽지에는 한 입주민이 술에 취한 여성을 도와줬다가 오해를 받았다며 불쾌감을 토로하는 내용이 담겼다. &lt;br&gt;&lt;br&gt;작성자는 “며칠 전 새벽 2시가 넘어 담배를 피우러 나갔다가 현관 밖에서 한 여성이 쓰러져 있는 것을 발견해 깨웠다”며 “여성이 비밀번호를 제대로 누르지 못해 대신 눌러줬다”고 했다. &lt;br&gt;&lt;br&gt;이어 “2026년 3월 29일 새벽 2시 40분쯤 다시 담배를 피우러 나갔을 때 이 여성과 동행한 남성이 자신을 범죄자 취급하며 바라보고 ‘내가 따라오길 잘했네’라고 말한 걸 들으니 너무 기분이 안 좋다”며 “CCTV를 확인해 보길 바란다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “나도 눈이 있지 어이없네”라며 “좋은 일 하고도 범죄자 취급받는 더러운 세상. 직접 와서 사과하라”라고 했다. &lt;br&gt;&lt;br&gt;작성자는 또 다른 쪽지에서도 “만취해서 비밀번호 못 누르는 거 도와줬더니. 거울도 안 보고 사나? 아 열받네” “입주 7년 차다 우리 서로 기본은 지킵시다”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBTAWJA5BC2RE6YZNLTVCBBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 단지내에 붙여진 경고문 / 보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “좋은 일을 하고도 범죄자 취급을 받는 건 정말 억울할 것 같다” “요즘에는 세상이 무서워서 직접 도움을 요청하지 않는 한 그냥 지나치는 게 좋다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 일부 네티즌들은 “억울한 심정은 알겠지만 외모로 저렇게 욕을 하는 게 맞나” “외모 평가와 욕설은 자제하자” 등의 반응을 보이기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>무기력·우울증 빠진 4050 ‘은둔형 외톨이’ 늘고 있다</title>
       <link>https://www.chosun.com/national/national_general/2026/04/10/LUINRKDCIFE2JOWA2SJF25JUBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/LUINRKDCIFE2JOWA2SJF25JUBM/</guid>
@@ -873,18 +908,6 @@
       <description/>
       <pubDate>Thu, 09 Apr 2026 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQTAYRVMI2WCNJUMFSDEN3BMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태안화력 고(故) 김충현 비정규직 노동자 사망사고 대책위원회 회원들이 서울 용산구 대통령실 앞에서 기자회견을 하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동위원회가 노란봉투법 관련 ‘사용자성 판단 신청 사건’에서 대부분 하청 노조 측의 손을 들어주고 있다. 지난달 노란봉투법 시행 후 전국 지방노동위원회에 접수된 사용자성 판단 관련 신청 사건은 278건(7일 기준). 9일까지 총 21건에 대한 판단이 이뤄졌는데 17건의 사용자성이 인정됐다. 하청 노조가 노동위에서 원청의 ‘사용자성’이 인정되기 쉬운 산업 안전 분야를 교섭 의제로 내걸어 원청을 일단 ‘교섭 테이블’로 끌어내는 데 성공한 것이다. 이를 기반으로 “하청 노조가 교섭 테이블에 앉은 원청에 임금 인상, 복지 개선 등을 압박하는 상황이 될 가능성이 크다”는 우려가 나온다.&lt;br&gt;&lt;br&gt;노동위의 사용자성 판단은 공공 부문에서부터 시작됐다. 충남지방노동위는 지난 2일 한국원자력안전기술원, 한국원자력연구원, 한국자산관리공사, 한국표준과학연구원 등 4곳에 대해 “하청 노조에 대한 안전 관리와 인력 배치에 실질적 영향력을 행사한다”며 원·하청 간 사용자성을 인정했다. 뒤이어 경북지방노동위도 한국산업단지공단에 대해 같은 취지의 판단을 내놨다.&lt;br&gt;&lt;br&gt;민간 부문 역시 연이어 사용자성이 인정되고 있다. 서울지방노동위는 지난 6일 민주노총 공공운수노조가 성공회대와 인덕대를 상대로 제기한 사용자성 판단 사건에서 “원청이 근로조건을 구체적으로 통제하고, 작업 환경 개선과 관련한 교섭 의제에 실질적 지배력을 가진다”며 사용자성을 인정했다. 8일에는 경북지방노동위가 포스코 하청 노조의 사용자성을 인정하면서 상급 단체(한국노총, 민주노총)가 다른 노조들이 각각 포스코와 분리해 교섭하라는 판정을 내리기도 했다. 9일에도 국민은행, 하나은행, 포스코이앤씨, 동희오토 등 7개 업체에 대한 사용자성이 인정됐다. 다만 하청 노조들이 쿠팡CLS(서울지방노동위), SK에너지·에쓰오일·고려아연(울산지방노동위) 등을 상대로 제기한 ‘교섭 단위 분리’ 신청은 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TM3T7AP5EBGJNAG4NM5PLOPXLE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전문가들은 노동위가 사용자성을 인정하는 근거로 ‘산업 안전’ 분야를 주로 언급하고 있다는 데 주목한다. 법 시행 전부터 원청이 산업재해 등 하청의 안전사고 방지를 위한 조치를 하는 경우 오히려 사용자로 인정될 가능성이 클 수 있다는 관측이 나왔다. 그런데 실제 이 분야가 사용자성 인정의 주요 근거가 되고 있다는 것이다.&lt;br&gt;&lt;br&gt;일각에선 “사용자성을 판단하는 노동위원회가 현재 구조상 사용자성 인정에 무게가 쏠릴 수밖에 없다”는 지적도 나온다. 노동위의 사용자성 판단은 근로자위원(1명), 사용자위원(1명), 공익위원(3명)으로 구성된 심판위원회가 맡는다. 캐스팅 보트 역할을 하는 공익위원은 고용노동부 장관, 지방노동위원장이 제청하는 만큼 주요 결정에서 정부 입장이 반영될 가능성이 크다는 것이다. 더욱이 노동위는 사용자성 판단 관련 신청이 있는 경우 그날로부터 20일 내 결론을 내야 한다. 박지순 고려대 법학전문대학원 교수는 “기업별·현장별 사정이 천차만별이고 따져봐야 할 내용이 적지 않아 20일 시간 제한은 촉박할 수 밖에 없다”며 “이 때문에 사실상 서류만 보고 판단하는 기계적 결정이 쏟아질 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;사용자성이 인정된 업체 중 일부는 상급 기관인 중앙노동위에서 다시 한번 다퉈볼 기회를 포기하고, 지방노동위 판단을 받아들여 교섭 사실 공고에 나섰다. 지난 3일 한국원자력연구원과 한국원자력안전기술원은 교섭 요구 사실을 공고했다. 이는 하청 노조와 교섭하겠다는 뜻이다. 민간 기업에선 “기울어진 운동장에서 의미 없는 싸움이 될 것 같다”는 말도 나온다.&lt;br&gt;&lt;br&gt;노동위(지노위·중노위) 결정에 불복해 행정소송을 진행해 다툴 수 있지만, 2심에 해당하는 중노위 결정 후 교섭 사실 공고를 하지 않으면 부당 노동 행위로 처벌받는 것도 문제로 지적된다. 한국경영자총협회 측은 “기업이 교섭 요구 사실을 공고하는 건 사용자성을 인정하는 행위라 신중할 수 밖에 없다”며 “사용자성을 다투는 과정에서 미공고에 따른 처벌이 이뤄지는 건 원청 업체의 권한을 지나치게 제약하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“매력 없네” 독설 쏟아낸 김선태… 여수섬박람회 영상 ‘조회수 300만’</title>
-      <link>https://www.chosun.com/national/regional/2026/04/10/QAVXTWCYBJH3XNURIL7OGR3TOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/QAVXTWCYBJH3XNURIL7OGR3TOE/</guid>
-      <dc:creator>여수=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGXMTPUPZZASHEIJ4BOKS3IIAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 드론에서 바라본 전남 여수시 진모지구의 ‘2026 여수 세계섬박람회’ 주 행사장 모습. 9일 기준 공정률 76%다. 조직위 관계자는 “바닥 공사를 끝내고 한 달이면 임시 텐트 등 시설물을 모두 설치할 수 있게 된다”고 했다./2026 여수 세계섬박람회 조직위&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 27일 전남 여수시 돌산읍의 간척지 진모지구. 오는 9월 열리는 ‘2026 여수 세계섬박람회’의 주행사장이 들어설 이곳에선 기초 바닥 공사가 한창이었다. 그런데 카메라 너머로 한 남자의 날 선 말이 들려왔다. “공사장인데, 여길 왜 데려오신 걸까요?” 예상치 못한 직설적인 한마디에 멋쩍어하던 전남도 관계자는 이내 평정심을 찾고 현장 상황을 차근차근 설명했다. &lt;br&gt;&lt;br&gt;이 ‘저돌적인’ 관찰자는 지난 2월 충주시에 사직서를 던진 전직 ‘충주맨’ 김선태(39)씨다. 충주시 홍보 담당 주무관이었던 그는 사직 후 홍보 유튜버로 활동하고 있다. 김씨가 유튜브를 시작하자마자 기업과 지방자치단체 등에서 ‘김선태 잡기’에 나섰는데, 전남도가 가장 먼저 김씨를 모셔오는 데 성공했다. 여수 세계섬박람회를 홍보하기 위해서다.&lt;br&gt;&lt;br&gt;김씨는 다른 홍보 유튜버와 다르게 직설로 승부한다. 이날도 박람회 마스코트 ‘다섬이’를 보고 “썩 매력이 없다”고 크게 꾸짖었고, 8년 전 여수에서 택시를 탔다가 바가지를 썼던 경험을 가감 없이 털어놨다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQNTDKLSFRFUNGY3WJVQXD5IJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 유튜버 김선태씨가 전남 여수 세계섬박람회 행사장 조성 공사 현장을 찾아 ‘독설’을 쏟아내고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평범한 홍보 영상이었다면 이런 발언이 편집 없이 나가는 건 ‘사고’나 마찬가지. 그러나 전남도는 오히려 김씨의 이런 날카로운 지적과, 여기에 구체적인 설명을 덧붙이는 방식으로 섬박람회를 홍보하기로 했다. 전남도 대변인실 관계자는 “섬박람회를 전국적으로 알리고자 하는 절박함에서 김씨를 잡았다”며 “장점만 늘어놓는 영상을 요즘 누가 보겠느냐”고 했다. ‘포장된 진실’보다 ‘날것의 비판’에 열광하는 MZ세대의 특성을 활용한 것이다.&lt;br&gt;&lt;br&gt;김씨의 광고 영상은 어지간한 TV 광고보다 파급력이 크다는 게 전남도의 판단이다. 실제 구독자 162만명인 김씨의 유튜브 채널 ‘김선태’에 지난 4일 여수섬박람회 영상이 올라오자 닷새 만에 조회 수 300만회를 찍었다. 이 영상을 본 한 네티즌은 “솔직하게 보여주니 오히려 믿음이 간다”며 “저 허허벌판이 어떻게 변할지 궁금해 여수에 가보기로 결심했다”고 했다. 전남도 관계자는 “김씨의 생생한 지적이 오히려 행사에 대한 관심을 높였다”며 “다른 지자체와 관공서에서도 김씨와 접촉하려고 애를 쓰는 것으로 알고 있다”고 했다. &lt;br&gt;&lt;br&gt;다만 지자체가 사활을 걸고 추진 중인 국제 행사의 홍보를 개인 유튜버의 입담과 임기응변에 의존하는 것이 지속 가능한 전략이냐는 지적이 나온다. 한 홍보 전문가는 “김씨의 마케팅은 한두 번은 신선할 수 있지만, 정책의 본질 자체가 의심받을 수 있다”고 했다. 온라인 커뮤니티에선 “홍보 영상은 이목을 끌었지만 행사를 제대로 치를 수 있을지는 걱정된다”는 말이 나왔다.&lt;br&gt;&lt;br&gt;전남도에 따르면, 9일 기준 섬박람회 주 행사장의 기반 공사 공정률은 76%다. 조직위원회 관계자는 “예산을 절약하기 위해 정식 건물 대신 ‘특수 강화 텐트’를 주로 세울 계획”이라며 “7월 중순 모든 시설을 세우고 8월 시범 운영을 시작할 것”이라고 했다. 여수섬박람회는 섬을 주제로 한 국내 첫 국제 박람회다. 관람객 300만명 유치를 목표로 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K2JTD7Q2EFA3RDI4MHZQKU7GT4.jpg?auth=21781578babb527840e53857cbc193a9084a7b06179ec987dcc85ad01987f8c9&amp;smart=true&amp;width=709&amp;height=397" type="image/jpeg" height="397" width="709">
-        <media:description type="plain">김선태 전 충주시 주무관의 유튜브 채널에서 공개된 2026 여수 세계 섬박람회 주 행사장 공사 현장/유튜브</media:description>
-      </media:content>
     </item>
     <item>
       <title>‘1분 단위’로 출퇴근 시간 조절… “급할 때 아이 곁 지켰죠”</title>
@@ -912,27 +935,6 @@
       <description/>
       <pubDate>Thu, 09 Apr 2026 14:34:00 +0000</pubDate>
       <content:encoded>금 - 전국 흐리다가 맑아짐&lt;br&gt;&lt;br&gt;토~일 - 전국 대체로 맑고, 제주도 흐림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5UKU4BIINFBTOT3J43L3TEK7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 노동위원회 “쿠팡CLS, 분리 교섭 안돼”... 1호 기각</title>
-      <link>https://www.chosun.com/national/labor/2026/04/09/4ZGF7ORP7JH2PP5FYEXEA7QP3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/09/4ZGF7ORP7JH2PP5FYEXEA7QP3A/</guid>
-      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 11:18:47 +0000</pubDate>
-      <content:encoded>서울지방노동위원회가 민주노총 전국택배노동조합이 쿠팡CLS를 상대로 제기한 ‘교섭 단위 분리 신청’을 기각한 것으로 9일 확인됐다. 하청 노조가 주장한 분리 교섭 요구 필요성을 부인한 것으로, 노란봉투법 시행 후 노동위원회가 기각 결정을 내린 건 이번이 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTMM3BGRQTGYLEMZRWIMRZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 쿠팡 물류센터에 배송트럭이 주차돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국택배노조는 노란봉투법 시행 첫날인 지난달 10일 서울지방노동위원회에 교섭 단위 분리 신청을 냈다. 같은 날 한국노총 산하 전국택배산업노동조합이 먼저 쿠팡CLS에 단체교섭을 요구하자, 한국노총 계열 노조와는 별도로 교섭하겠다며 분리 신청을 제기했지만 받아들여지지 않은 것이다. 이들은 “앱을 통한 업무 지시로 택배 노동자를 통제하는 만큼 원청 사용자성이 인정돼야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;그러나 서울지노위 심판위원회는 “다른 노조 조합원들과 현격한 근로조건 및 고용 형태상 차이가 없다는 점, 안정적·효율적 교섭체계 구축 및 교섭창구 단일화 제도의 취지와 필요성 등을 종합적으로 고려해 기각을 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>與 서울시장 후보 정원오, 부산시장 후보 전재수 확정</title>
-      <link>https://www.chosun.com/politics/assembly/2026/04/09/5E65ZYS6YVC6DMERC3YO4Q6ASM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/04/09/5E65ZYS6YVC6DMERC3YO4Q6ASM/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 11:49:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NN2OMPG2WVEWVGJWYIJYF24ADQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오는 6. 3 지방선거에서 더불어민주당 서울시장과 부산시장 후보로 확정된 정원오 전 성동구청장과 전재수 의원/ 국회사진기자단, 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 서울시장, 부산시장 후보로 9일 정원오 전 성동구청장과 3선의 전재수 의원이 선출됐다. 두 사람 모두 ‘명픽’(이재명 대통령의 선택) 후보로 불린다. &lt;br&gt;&lt;br&gt;정원오 후보는 7~9일 진행된 권리당원 투표 50%, 일반 여론조사 50% 방식 경선에서 과반을 얻어, 박주민·전현희 의원을 꺾고 결선 투표 없이 서울시장 후보로 뽑혔다. 3선 구청장을 지낸 정 후보는 지난해 12월 이 대통령이 X(옛 트위터)에서 ‘일 잘한다’고 공개 칭찬하면서 서울시장 후보로 급부상했고 민주당의 중진 의원들을 줄줄이 꺾고 민주당 후보가 됐다. &lt;br&gt;&lt;br&gt;전재수 후보도 같은 방식의 경선에서 이재성 전 부산시당위원장을 누르고 후보로 선출됐다. 전 후보는 부산 북갑에서 3선 국회의원을 지냈고, 2024년 총선 때 부산에서 유일하게 민주당 간판으로 당선됐다. 이재명 정부 출범 이후엔 초대 해양수산부 장관에 임명됐지만 통일교 금품 수수 의혹으로 장관직에서 사퇴했다. 하지만 경찰 수사를 받으면서도 전 후보는 정부·여당의 지원을 받으며 부산시장 후보로 확정됐다.&lt;br&gt;&lt;br&gt;민주당이 정·전 후보를 앞세워 서울·부산시장 탈환에 나서는 가운데, 국민의힘 후보는 조만간 정해질 예정이다. 국민의힘은 오는 18일 오세훈 서울시장과 박수민 의원, 윤희숙 전 의원 간 서울시장 경선 결과를, 오는 11일 박형준 부산시장과 주진우 의원 간 부산시장 경선 결과를 발표한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YL7CH7BKOVHKTANXWC4S7PY2QQ.jpg?auth=c8d76cdc96ad4a84609c7bc4e15fe01319279a539a437d068a37afcad8ff6b84&amp;smart=true&amp;width=1440&amp;height=1080" type="image/jpeg" height="1080" width="1440">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>“나이 안 맞게 젊은 척, 연애 목적”... 2030은 ‘영포티’를 이렇게 본다</title>
