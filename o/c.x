@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>암행순찰차 타보니… 버스전용차로 위반 2시간 만에 ‘119건’</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/CDP745IKEJFLREC3LJFAOEFGLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/CDP745IKEJFLREC3LJFAOEFGLE/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 05:45:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRRHOPMZJGVTO27VIXUUPZ24Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 경부고속도로 버스전용차로 경찰 합동 단속에 적발된 차량이 위반 사실을 고지받고 있다. 이날 경찰은 2시간 동안 119건(승차정원 미준수 106건·차종 위반 13건)의 위반 차량을 적발했다. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“속도 줄이고 창문 내리세요!”&lt;br&gt;&lt;br&gt;11일 오전 11시 7분 서울 서초구 경부고속도로 상행선. 사이렌 소리가 요란하게 울리며 차량 추격전이 벌어졌다. 꽉 막힌 고속도로 한편에서 버스전용차로를 달리던 흰색 승합차를 암행 순찰차가 뒤쫓았다. 해당 차량은 경찰 단속에 적발됐음을 인지한 듯 갓길로 이동해 정차했다.&lt;br&gt;&lt;br&gt;‘버스전용차로 승차정원 미준수’. 차량에는 운전자인 50대 남성 한 명뿐이었다. 고속도로 버스전용차로는 9인승 이상 승용차·승합차만 이용 가능하고 승용차나 12인승 이하 승합차는 6명 이상이 타 있어야 한다. 그는 경찰이 위반 사실을 고지하고 범칙금을 부과하자 떨떠름한 표정으로 면허증을 꺼내 보였다.&lt;br&gt;&lt;br&gt;이날 경찰은 오전 10시부터 경부고속도로 한남대교 남단~신탄진나들목 구간 버스전용차로 합동 단속을 진행했다. 경찰청·서울경찰청·경기남부청·충남청·충북청 소속 순찰차·사이드카 등 17대가 이 구간을 누비며 2시간 동안 119건(승차정원 미준수 106건·차종 위반 13건)의 위반 차량을 적발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JR6UUWBG3NEZBC4RRMDW76QZCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 경부고속도로 버스전용차로 경찰 합동 단속에 투입된 암행순찰차. 버스전용차로를 달리던 흰색 승합차를 쫓아가고 있다. 이정훈 경사가 "속도 줄이고 갓길로 나오세요!"라고 소리치고 있다./김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지는 이날 암행 순찰차에 동승해 경찰 단속 과정을 지켜봤다. 암행 순찰차는 겉보기엔 경광등이나 순찰차 특유의 도색이 없어 은밀한 단속이 가능한 차량이다.&lt;br&gt;&lt;br&gt;오전 10시 44분쯤 경부고속도로 서울 방면 양재나들목 인근. 본격 단속에 돌입해 경광등을 끈 채 2차선으로 옮겨간 지 단 2분 만에 검은색 카니발이 버스전용차로를 내달렸다. 이때 일반 차로 통행 속도는 고작 시속 20~30km대였던 반면, 해당 차량은 최소 시속 60km는 돼 보였다.&lt;br&gt;&lt;br&gt;“옆으로 빠져서 따라오세요! 속도 줄이시고!” 운전대를 잡은 서울경찰청 도시고속순찰대 이정훈 경사가 마이크를 들고 소리쳤다. 적발 차량의 선팅이 짙은 탓에 내부가 잘 보이지 않아 직접 승차인원을 확인하기로 했다. 조수석에 있던 이동희 경감은 경광봉을 창밖으로 내밀며 뒤따르는 차량을 통제했다.&lt;br&gt;&lt;br&gt;위반 차량 운전자는 50대 남성 캐나다인. ‘현지 도로 규정을 몰랐다’고 항변하며 국제 면허증을 보였다. 신원을 확인한 이 경사는 교통법규 이해가 부족했다고 보고 그를 계도 조처했다. 경찰이 갓길에서 위반 사실을 고지하는 사이에도 몇몇 차량이 버스전용차로로 달리고 있었다.&lt;br&gt;&lt;br&gt;얼마 안 가 또 다른 카니발 차량이 버스전용차로를 질주하다 적발됐다. 이 차량 역시 탑승자는 50대 남성 운전자뿐이었다. 범칙금 4만원과 벌점 10점이 부과됐다. 곧이어 포르쉐를 몰던 20대 남성이 암행 순찰차에 걸렸다. 운전자는 “(버스전용차로인 건) 알긴 했는데 빨리 가려는 생각에…”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AR7BT5ZHGBBIBDYFSEREQDXUUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 경부고속도로 버스전용차로 경찰 합동 단속에 적발된 차량이 위반 사실을 고지받고 있다. 이날 경찰은 2시간 동안 119건(승차정원 미준수 106건·차종 위반 13건)의 위반 차량을 적발했다. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 본지가 동승한 암행 순찰차는 2시간 동안 승차정원 미준수로 4건을 적발, 2건을 계도 조처했다. 고속도로 곳곳 전광판에 ‘버스전용차로 집중 단속 중’이란 문구가 나오고 있었지만 위반 차량이 줄줄이 나온 것이다. 이 경감은 “운전자들이 위반 사실을 알면서도 그저 빨리 가려는 마음에 잘못을 저지르는 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;경부고속도로 버스전용차로는 평일 양재나들목부터 안성나들목까지 58.1km 구간, 토요일·공휴일에는 양재나들목부터 신탄진나들목까지 134.1km 구간에서 오전 7시~오후 9시 운영된다.&lt;br&gt;&lt;br&gt;버스전용차로 통행 시 승차정원이나 차종을 위반할 경우 범칙금과 함께 최대 벌점 30점이 부과된다. 벌점이 누적 40점을 넘으면 운전면허 정지 처분을 받게 된다.&lt;br&gt;&lt;br&gt;경찰은 버스전용차로 위반 및 대형 버스 법규 위반 외에도 대열 운행, 하위 차로를 이용한 앞지르기 등 주요 위반 행위에 대한 단속을 병행할 방침이다.&lt;br&gt;&lt;br&gt;정승희 경찰청 고속도로순찰대장은 “봄철 나들이와 학생 체험 학습이 증가해 버스전용차로 위반과 대형 버스의 불법 행위로 인한 사고 우려가 커지고 있다”며 “행락철 교통 안전을 위해 자발적인 법규 준수를 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘조폭 참교육’ 외치던 50만 유튜버… 동료 폭행 혐의 구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/S5AHCBM7OBHO7EIVRMQC2GSHPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/S5AHCBM7OBHO7EIVRMQC2GSHPY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 05:27:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4DQZLEHE2GCMDDG4ZWIZRQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부지방경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조직폭력배를 응징하는 영상 콘텐츠로 인기를 끈 유튜버가 동료 유튜버를 폭행한 혐의 등으로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기남부경찰청 광역범죄수사대는 공동상해·폭행·강요 등 혐의로 유튜버 엄모씨를 구속 송치했다고 11일 밝혔다. 엄씨는 작년 3월 평소 가까이 지내던 유튜버 김모씨 등과 함께한 자리에서 시비가 일자 김씨를 때리는 등 최근까지 김씨를 비롯한 동료 유튜버 4명을 수차례 폭행한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;앞서 경찰은 엄씨에 대한 체포영장을 발부받아 지난 1일 주거지에서 엄씨를 체포했다. 이후 엄씨의 사무실과 스튜디오에 대한 압수수색을 진행했다. 이 과정에서 엄씨가 유튜브 방송 중 피해자를 상대로 욕설이나 폭언한 영상도 확보했다. 엄씨는 이처럼 증거가 남아 있는 범행에 관해서는 혐의를 인정한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;엄씨는 ‘압구정 롤스로이스 사건’ 가해자 지인을 협박해 3억원을 갈취한 혐의(공갈·정보통신망법상 명예훼손 등)로 2024년 4월 구속 기소됐다가 같은 해 10월 보석으로 풀려났다. 불구속 상태에서 재판을 이어가던 중 이번 범행으로 재차 구속됐다.&lt;br&gt;&lt;br&gt;엄씨는 주로 격투기와 사적 제재를 주제로 방송해 왔다. 수원 최대 폭력조직인 ‘남문파’를 응징한다는 이른바 ‘참교육’(잘못을 저지른 사람을 호되게 벌한다는 의미) 콘텐츠를 다뤄왔다. 현재 50만명 이상의 구독자를 보유하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 광명시장 앞 도로서 자전거 탄 80대, 덤프트럭에 치여 사망</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/11/2P5GURSVPFGL7HLHTYVBOC5D3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/2P5GURSVPFGL7HLHTYVBOC5D3Q/</guid>
+      <dc:creator>광명=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 05:18:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42GINLGHAZTMZLFG4YDMNTCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시장 앞 도로에서 자전거를 탄 80대 남성이 덤프트럭에 치여 숨졌다. &lt;br&gt;&lt;br&gt;11일 소방과 경찰 등에 따르면 이날 오전 10시 10분쯤 광명시 광명시장 앞 도로에서 덤프트럭이 자전거를 탄 80대 남성 A씨를 들이받았다. &lt;br&gt;&lt;br&gt;이 사고로 크게 다친 A씨가 심정지 상태로 병원에 옮겨졌지만 결국 숨졌다. &lt;br&gt;&lt;br&gt;사고는 보행 신호가 끝난 뒤 1차로에 있던 트럭이 출발하면서 발생했다. &lt;br&gt;&lt;br&gt;A씨의 자전거가 보행 신호가 끝날 무렵 횡단보도에 접어들어 트럭 앞을 지나고 있었는데, 트럭 운전자인 50대 남성 B씨가 이를 보지 못하고 사고를 낸 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 B씨가 신호를 위반하지는 않았다고 보고 있다. 다만 사망사고로 이어진 만큼 교통사고처리특례법 위반 혐의로 B씨를 입건하고 구체적인 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무 “추경 7억원 긴급 편성... 민생·물가 안정 전담 수사 집중” </title>
+      <link>https://www.chosun.com/national/court_law/2026/04/11/ME5CKT7VYVD2TA6K5IRB7EEX3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/11/ME5CKT7VYVD2TA6K5IRB7EEX3A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 05:01:16 +0000</pubDate>
+      <content:encoded>정성호 법무장관은 11일 “중동 사태 대응을 위한 추경안이 국회를 통과했다”며 “민생·물가 안정 전담 수사에 집중할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4DCYZTG5RTAMTCGNSWMZBRMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 소셜미디어에 글을 올려 이같이 밝혔다. 정 장관은 우선 “물가 담합, 조작 세력을 엄단하겠다”며 “국제 정세 불안과 유가 급등으로 국민 삶이 위협받는 지금, 공동체의 어려움을 틈타 폭리를 취하고 시장 질서를 어지럽히는 행위는 결코 용납될 수 없는 반사회적 범죄”라고 했다. 이어 정 장관은 “추경 통과 즉시 대검 반부패부를 컨트롤타워로 해 전국 18개 지검에 ‘민생·물가 안정 전담 수사팀’도 본격 가동하도록 조치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 같은 조치는 이재명 대통령의 ‘엄정 대응’ 지시에 따른 것이라는 게 정 장관 설명이다. 정 장관은 “법무부는 지난 3월 초부터 대검찰청에 불공정 담합 등 시장 교란 행위 근절을 특별 지시한 바 있다”고 했다. 또 “최근 검찰이 9조원 규모의 설탕, 밀가루 등 생필품 담합 범죄를 적발해 기소한 것처럼, 전담팀은 유가 담합과 지역 토착 비리, 국민의 삶을 침해하는 불공정 거래 범죄를 추적해 엄단할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 정 장관은 외국인 투자자들의 국제투자분쟁(ISDS)에 선제적으로 대응하기 위해 예산 7000만원을 편성했다고 밝혔다. 정 장관은 “얼마 전 승소한 론스타, 엘리엇, 쉰들러사의 소송 제기와 같은 일을 조기에 막기 위한 차원”이라며 “비상 상황 대응을 위한 우리 조치가 국제적으로 보호받을 수 있는 환경을 조성하겠다”고 설명했다.&lt;br&gt;&lt;br&gt;정 장관은 “법무부는 이번 추경의 목적인 민생 안정을 최우선에 두고, 부당한 물가 상승으로 인해 국민의 고통이 가중되지 않도록 모든 역량을 집중하려 한다”며 “어떤 상황에서도 국민께서 안심하고 일상을 이어가실 수 있도록 현장을 꼼꼼히 챙기겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘목동 빗물펌프장 수몰’ 근로자 유가족, 서울시에 손배소 냈으나 패소</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/11/UM2RXXEA6NBLRBF5P6QBUSQCNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/11/UM2RXXEA6NBLRBF5P6QBUSQCNA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Apr 2026 04:51:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZJKUYBVRKKTTO34PC7AGMZTU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2019년 목동 빗물펌프장 수몰 사고의 유가족이 서울시와 양천구를 상대로 손해배상 소송을 냈으나 패소했다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 서울중앙지법 민사42부(재판장 최누림)는 유가족 A씨 등 4명이 서울시·양천구를 상대로 낸 손해배상 소송에서 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;이 사건은 2019년 7월 양천구 목동 빗물 펌프장 공사장에서 현장 점검 작업자 3명이 빗물에 휩쓸려 사망한 게 발단이 됐다. 당시 작업자들은 폭우가 예보된 상황에서 점검을 위해 지하 40m에 위치한 수로로 내려갔다가 사고에 휩쓸렸다. 이에 유가족들은 “폭우가 예상되는데도 시·구에서 작업 중단을 지시하지 않았다”며 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;그러나 재판부는 시·구의 관리 부실로 사고가 발생했다고 볼 수 없다고 판단했다. 강수량이 늘어나자 서울시 재난안전대책본부가 1단계 비상근무를 지시한 점, 보강근무 및 비상근무 발령 상황 등에 맞춰 해당 시설에 공무원을 배치했다는 것이다. 오히려 재판부는 시공사와 감리단이 안전 대책을 제대로 수립하지 않았다고 지적했다. 시공사 등이 공사 현장에서 작업 및 인력 투입 여부를 결정한다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “시·구의 관리 및 대처가 부족했는지 여부는 사건·사고 발생이라는 사후적 결과에 따라 판단해서는 안 된다”며 “당시 기상 상황 등 객관적 사정을 고려해야 한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>고유가 지원금 27일부터 준다... 소득하위 70%에 최대 60만원</title>
       <link>https://www.chosun.com/national/national_general/2026/04/11/V5BPGDZ3YBFLBIDNIWWJ6V3MUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/11/V5BPGDZ3YBFLBIDNIWWJ6V3MUY/</guid>
@@ -842,42 +887,6 @@
       </media:content>
     </item>
     <item>
-      <title>[부음] 고삼순 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/10/7PLFZWFR7ZGTHDOWU7SE7DJBPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/10/7PLFZWFR7ZGTHDOWU7SE7DJBPY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;고삼순&lt;/b&gt; 별세, &lt;b&gt;나영식&lt;/b&gt; 前 금호건설 본부장·&lt;b&gt;나앵금&lt;/b&gt;·&lt;b&gt;나승교&lt;/b&gt; 前 대우자동차 본부장·&lt;b&gt;나선희&lt;/b&gt; 모친상, &lt;b&gt;황성철&lt;/b&gt; 前 광주MBC 보도국장·&lt;b&gt;모웅남&lt;/b&gt; 모웅남치과의원 원장 장모상, &lt;b&gt;김명희&lt;/b&gt; 시모상=8일23시19분 광주광역시 VIP장례타운, 발인 11일8시30분, (062)521-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김기문&lt;/b&gt; 별세, &lt;b&gt;김원하&lt;/b&gt;·&lt;b&gt;김미혜&lt;/b&gt;·&lt;b&gt;김원권&lt;/b&gt;·&lt;b&gt;김원삼&lt;/b&gt; 제주항공 홍보팀장 부친상, &lt;b&gt;박경인&lt;/b&gt;·&lt;b&gt;윤소정&lt;/b&gt;·&lt;b&gt;강민정&lt;/b&gt; NH농협금융지주 ESG상생금융부 팀장 시부상=9일7시49분 제주 그랜드부민장례식장, 발인 11일9시30분, (064)742-5000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박민자&lt;/b&gt; 별세, &lt;b&gt;황정욱&lt;/b&gt; 한화이센셜 대표·&lt;b&gt;황승현&lt;/b&gt; 모친상, &lt;b&gt;강문희&lt;/b&gt; 시모상, &lt;b&gt;황윤아&lt;/b&gt;·&lt;b&gt;황지후&lt;/b&gt; 조모상=9일7시14분 삼성서울병원, 발인 11일7시, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;백성기&lt;/b&gt; 前 IP&amp;amp;I치과의원 원장 별세, &lt;b&gt;백광현&lt;/b&gt; 모드하우스 부대표·&lt;b&gt;백지현&lt;/b&gt; 미국 오하이오감리교신학대학 교수 부친상=8일12시55분 서울아산병원, 발인 11일8시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이상흡&lt;/b&gt; 前 KBS PD 별세, &lt;b&gt;권숙경&lt;/b&gt; 남편상, &lt;b&gt;이종희&lt;/b&gt; 경향신문 편집부 기자 부친상, &lt;b&gt;전혜원&lt;/b&gt; 시부상=9일6시 은평성모병원, 발인 11일6시15분, (02)2030-4444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전우용 세종학당재단 이사장</title>
-      <link>https://www.chosun.com/national/people/2026/04/10/BUR6NI6OBRCPPOESHNSMI4HC5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/10/BUR6NI6OBRCPPOESHNSMI4HC5M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7S6F5MT2UFETZJIFVTJMGFT6IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문화체육관광부는 세종학당재단 이사장에 역사학자 전우용(64)씨를 임명했다고 9일 밝혔다. 임기는 3년.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>프로야구 데뷔 20주년 류현진, 소아암 환아·유망주 위해 2억 </title>
-      <link>https://www.chosun.com/national/people/2026/04/10/C7KGCAJDY5G5PAEG4RFBOGXYOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/10/C7KGCAJDY5G5PAEG4RFBOGXYOA/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTDSMTFMI3GINZXMQ2WEMRYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류현진(한화 이글스)과 배지현 아나운서 부부가 류현진의 프로 데뷔 20주년을 맞아 총 2억 원을 기부했다./류현진 재단 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한화 류현진(39)이 프로야구 데뷔 20주년을 맞아 유소년 야구 유망주와 소아암 환자들을 위해 2억원을 기부했다.&lt;br&gt;&lt;br&gt;류현진 재단은 류현진이 아내 배지현 전 아나운서와 함께 한국백혈병어린이재단에 1억원을 기부했다고 9일 밝혔다. 기부금은 경제적 어려움을 겪는 소아암 및 희귀 난치 질환 환아들의 수술·치료비에 쓰일 예정이다. 이들 부부는 류현진 재단에도 야구 장학생 장학금, 유소년 야구 캠프 등을 위해 1억원을 추가로 기부했다.&lt;br&gt;&lt;br&gt;류현진은 “프로 데뷔 20주년을 기념해 팬들께 받은 사랑을 나눌 수 있어 기쁘다”며 “유소년 선수들이 더 나은 환경에서 꿈을 키우고, 아픈 아이들이 하루빨리 건강을 되찾기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 유미희·강경석 아들 도겸 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/10/TXKHNFCNQJE5ZAPLP6NXS3TMHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/10/TXKHNFCNQJE5ZAPLP6NXS3TMHU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQ35BDYF5JCLDJ57U72JMBSA4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘1분 단위’로 출퇴근 시간 조절… “급할 때 아이 곁 지켰죠”</title>
       <link>https://www.chosun.com/national/education/2026/04/10/UHVBQNXUSJEM5CAIFSHRMPKT3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/10/UHVBQNXUSJEM5CAIFSHRMPKT3Y/</guid>
@@ -885,15 +894,6 @@
       <description/>
       <pubDate>Thu, 09 Apr 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FS5QEY4DYFFPFLJYQYIOQN7HO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신세계아이앤씨 직원들이 서울 역삼동 본사에서 자녀들과 웃고 있다. 이 업체는 여성 사원들에게 임신 기간 재택근무를 허용하는 등 일과 가정을 병행할 수 있는 다양한 지원 제도를 운영하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신세계아이앤씨(I&amp;amp;C)에 다니는 조아람(35)씨는 아들(5)과 딸(4)을 임신했을 때 줄곧 재택근무를 했다. 근무 시간도 2시간 줄었다. 덕분에 임신 기간 몸에 큰 무리 없이 회사 일을 할 수 있었다. 조씨는 출산 후 회사에 복귀한 이후에는 근무 시간을 유연하게 조정하는 제도를 활용해 하루 7시간(주 35시간)만 근무하고 있다. 오후 4시에 퇴근해 두 자녀를 어린이집에서 데려올 수 있는 것이다. 조씨는 “둘째 아이를 연년생으로 갖게 되면서 첫째를 제대로 돌보지 못할까 걱정했는데 둘째 임신 때도 재택과 단축 근무를 하면서 아이를 돌볼 수 있었다”며 “회사 복직 후에도 유연 근무제로 아이와 단단한 애착을 형성하며 일할 수 있다는 게 다행”이라고 했다. &lt;br&gt;&lt;br&gt;신세계그룹 IT 계열사인 신세계아이앤씨는 임신부터 출산·육아 등 생애 주기에 따라 직원들이 안심하고 업무에 집중할 수 있도록 다양한 지원 제도를 운영하고 있다. 이런 지원 시스템은 직원이 아이를 갖게 된 시점부터 가동된다. 모든 여성 직원은 임신 전(全) 기간 동안 임금 삭감 없이 하루 2시간 단축 근무를 할 수 있다. 근로기준법상 여성 근로자는 임신 12주 이내 또는 32주 이후에 회사에 단축 근무를 신청할 수 있지만 회사 차원에서 그런 제한을 두지 않은 것이다. 또 출퇴근이 힘든 임신부들을 배려해 임신 시점부터 출산 전까지 횟수 제한 없이 재택근무를 허용하고 있다. 통상 다른 기업에서는 임신한 직원이라도 일정 기간만 재택근무가 가능하거나 재택 횟수 제한을 두는 경우가 많다. &lt;br&gt;&lt;br&gt;2024년에 아들을 출산한 사원 정서희(34)씨는 “임신 초기 입덧이 심해서 걷기만 해도 속이 울렁거려 출근이 힘들었는데 이후부터 재택근무를 하며 어려운 시기를 무사히 넘길 수 있었다”며 “다른 회사에 다니는 친구들도 ‘임신 전 기간 재택근무’를 가장 부러워한다”고 했다. &lt;br&gt;&lt;br&gt;IT 분야 특성상 남자 직원이 많았던 신세계아이앤씨는 2010년대 중반 들어 여성 직원이 늘자 출산과 육아 관련 복지 제도를 강화하기 시작했다. 현재 여성 직원 비율은 30%대다. 특히 최근 IT 기업 간 고급 개발 인력 유치 경쟁이 치열해지면서 우수 인재들이 육아 부담으로 경력이 단절되지 않도록 지원하는 게 더 중요해졌다. 회사는 각종 육아·출산 지원 제도를 통해 가족 친화적 근무 환경을 정착시킨 공로를 인정받아 지난해 ‘가족친화 우수기업’ 대통령 표창을 받았다. &lt;br&gt;&lt;br&gt;회사는 출산 이후 육아와 업무를 병행해야 하는 직원들을 위해 개인 여건에 맞춰 근무 시간 등을 조정할 수 있는 유연 근무제도를 늘려가고 있다. 대표적으로 ‘선택적 근로시간제’를 활용하면 1분 단위로 출퇴근 시간을 스스로 설정할 수 있다. 예를 들어 오전 8시 49분에 출근한 날은 오후 5시 49분에 퇴근하는 식이다. 개인 사정으로 일찍 퇴근할 경우 해당 월의 다른 날에 그만큼 더 근무하면 된다. 회사에 따르면 전체 직원의 91%(2024년 기준)가 이 제도를 활용하고 있다. 프로젝트 등으로 주 52시간 이상 근무할 경우 초과 근무 시간만큼을 휴가로 적립해 나중에 몰아서 쉴 수 있는 ‘보상 휴가제’도 직원들에게 인기다. &lt;br&gt;&lt;br&gt;이런 다양한 유연 근무 제도는 특히 ‘아빠 사원’들의 육아 참여를 이끄는 원동력이 되고 있다. 사원 정창석(34)씨는 매일 경기 동탄 집에서 서울 역삼동 사무실까지 편도 1시간 넘는 거리를 출퇴근한다. 그런데 아침마다 아내 대신 두 살 딸을 어린이집에 데려다주고 출근한다. 자유롭게 출근 시간을 정하는 ‘선택적 근로시간제’ 덕분에 눈치 보지 않고 다른 직원보다 늦게 사무실에 출근할 수 있기 때문이다. 아내가 임신 중 몸 상태가 나빠졌을 때 보상휴가제를 활용해 연차 사용 없이 아내를 병원에 데려다줄 수 있었다. &lt;br&gt;&lt;br&gt;정씨는 최근 6개월간 육아 휴직을 다녀왔다. 그는 “휴직 기간에도 휴양비 지원과 호텔 숙박 혜택 등 사내 복지 제도를 이용할 수 있어서 큰 경제적 부담 없이 아이와 추억을 쌓을 수 있었다”며 “아이가 걷기 시작할 무렵 매일 걸음마 연습을 시키며 집 주변을 산책한 게 가장 기억에 남는다”고 했다. &lt;br&gt;&lt;br&gt;신세계아이앤씨는 자녀가 초등학교에 입학하면 그해 한 달간 휴직할 수 있는 ‘초등 자녀 입학 돌봄 휴직제’도 운영하고 있다. 회사에서 집이 먼 직원들을 위해 서울뿐 아니라 경기 일산, 분당 등 3곳에 푸르니보육지원재단과 직장 어린이집을 공동 운영하고 있다.&lt;br&gt;&lt;br&gt;세 살 자녀를 일산의 직장 어린이집에 보내는 한 직원은 “아이가 집에서 가까운 어린이집을 다니니 덜 피곤해하고 회사에 출근하는 길도 부담스럽지 않다”며 “모든 준비물을 어린이집에서 마련해 준다는 점도 아침에 바쁜 맞벌이 부부에게 큰 장점”이라고 했다. &lt;br&gt;&lt;br&gt;이진 신세계아이앤씨 인사 담당은 “뛰어난 인재를 유치하고 이들이 역량을 마음껏 펼치게 하는 힘은 결국 ‘일과 가정의 균형’에서 나온다”며 “좋은 복지 제도를 마련하는 데 그치지 않고, 제도가 실제로 제대로 활용되는 조직 문화가 정착되도록 노력하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아이 튼튼하게] 갑자기 팔·다리 떠는 우리 아이, 자극에 대한 뇌 발달 과정이에요</title>
-      <link>https://www.chosun.com/national/nie/2026/04/10/YNDOFPHLKVBIHCJNL4NVXNXNAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/04/10/YNDOFPHLKVBIHCJNL4NVXNXNAQ/</guid>
-      <dc:creator>백정현 우리아이들병원 병원장</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>아기가 갑자기 몸을 떨거나 멍하니 허공을 응시할 때, 또는 손과 발을 반복적으로 움직일 때 ‘혹시 경련은 아닐까’ 걱정하는 마음에 병원을 찾는 부모를 종종 진료실에서 만납니다. 하지만 다행히 상당수 사례는 커가면서 자연스럽게 나타나는 과정이에요.&lt;br&gt;&lt;br&gt;신생아 시기 아기가 턱이나 팔다리를 미세하게 덜덜 떠는 경우가 있어요. 이를 ‘신생아 지터링’이라고 부르며, 아직 뇌 발달이 미숙해 자극에 민감하게 반응하는 겁니다. 떨리는 부위를 손으로 잡아주면 떨림이 멈춰요. 만약 잡아도 계속 떨린다면 경련일 가능성이 크지요.&lt;br&gt;&lt;br&gt;아기가 감기에 걸려도 몸을 부르르 떨 수 있는데요. 이는 근육을 수축해 체온을 올리려는 우리 몸의 생리적 반응이에요. ‘오한’이라고 하죠. 갑자기 머리와 어깨를 부르르 떠는 경우도 있는데, 소변을 보거나 맛있는 것을 먹었을 때 그럴 수 있어요.&lt;br&gt;&lt;br&gt;단순히 노는 중이거나 습관인 경우도 있어요. 아기는 기분이 좋거나 흥분할 때, 혹은 반대로 지루할 때도 몸을 꼿꼿이 세우거나 다리를 꼬기도 하고 힘을 주는 행동을 하죠. 얼굴이 붉어지기도 해서 경련으로 오해할 수 있어요. 하지만 이름을 부르거나 장난감을 보여주었을 때 즉시 행동을 멈추고 부모에게 반응을 보이면 아기가 혼자 노는 중이었다고 보면 됩니다. &lt;br&gt;&lt;br&gt;손을 흔들거나 몸을 앞뒤로 흔드는 등 특정 동작을 반복하는 ‘상동 행동’이 나타나기도 하는데요. 이런 행동 또한 아기가 놀이에 집중하거나 혼자만의 시간을 즐길 때 나타날 수 있어요. 이 역시 외부 자극을 받으면 쉽게 중단된다는 특징이 있어요.&lt;br&gt;&lt;br&gt;하지만 ‘신생아 경련’과 ‘영아연축’ 등 실제 경련도 나타날 수 있습니다. 신생아 경련은 전신이 뻣뻣해지는 경련과는 증상이 조금 달라요. 입을 쩝쩝거리거나, 눈동자가 한 곳으로 고정되고, 자전거 페달을 밟듯 다리를 휘젓는 동작 등이 나타나지요. 4~8개월 정도 된 아기가 몸을 푹 숙이는 동작을 수초 간격으로 반복한다면 이 동작은 뇌전증 발작인 영아연축일 가능성이 있고, 이는 인지 발달 저하를 초래할 수 있어 약물 치료가 시급한 응급 질환이에요.&lt;br&gt;&lt;br&gt;아기 이름을 불렀을 때 아기가 동작을 멈추고 부모와 눈을 맞춘다면 대개는 안심하셔도 돼요. 하지만 아기가 멍해 보이거나 억지로 멈추려 해도 멈춰지지 않는 동작을 반복한다면 동영상을 찍어놓고 전문가 진료를 받아야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김현지 부속실장 명예훼손’ 인터넷 매체 발행인, 구속영장 기각</title>
