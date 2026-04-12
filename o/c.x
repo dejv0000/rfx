@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>중학교서 행패 부린 후 상의 탈의한 채 돌아다닌 만취 30대 입건</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/04/12/CZQHI6E4DFF2PKHYXRMYEAE43M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/04/12/CZQHI6E4DFF2PKHYXRMYEAE43M/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 13:37:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4TSODDGA3WIZRQGU4TEZJSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 만취한 남성이 중학교에 들어가 행패를 부리고 인근 상가에서 상의를 벗고 돌아다니다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 해운대경찰서는 건조물 침입 등의 혐의로 A(30대)씨를 불구속 입건해 조사하고 있다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오전 11시 41분쯤 부산 해운대구 한 중학교에 만취 상태로 들어가 남학생 3명에게 억지로 팔짱을 끼고 끌고 다니는 등 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;학교 관계자의 신고를 받고 출동한 경찰은 학교 인근에서 A씨를 발견해 신원을 확인한 뒤 귀가 조처했다.&lt;br&gt;&lt;br&gt;하지만 A씨는 귀가하지 않고 이날 오후 1시 38분쯤 이 중학교 인근 한 아파트 상가에 들어가 상의를 벗은 채 돌아다녔다.&lt;br&gt;&lt;br&gt;주민들 신고로 다시 출동한 경찰은 아파트 인근 도로에서 A씨를 현행범으로 체포했다. A씨는 이날 오전에 일행 2명과 함께 소주 8병을 마신 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양주 세 살배기 의식불명 사건… 20대 친부 구속</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/04/12/C6UKHZTZIBDVPNOUQTWCXQCAWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/04/12/C6UKHZTZIBDVPNOUQTWCXQCAWM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 12:09:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2DANJRGJQWMYZZHA2DGYRTHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주시에서 3세 아이가 머리 등을 다쳐 혼수상태에 빠진 사건과 관련해 친부가 구속됐다.&lt;br&gt;&lt;br&gt;의정부지법은 12일 아동복지법상 아동학대 혐의를 받는 A(20대)씨에 대해 “도주 및 증거인멸 우려가 있다”며 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 지난 9일 오후 6시 44분쯤 양주시 옥정동의 한 아파트에서 “아기가 울고 경련한다”는 신고가 접수됐다. 당시 보호자는 신고를 받고 출동한 소방대원에게 “‘쿵’ 하는 소리를 듣고 가보니 아이가 경련하고 있었다”는 취지로 설명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다친 B(3)군을 진료한 병원 측은 같은 날 오후 9시 30분쯤 “아동학대가 의심되고 머리 외상이 있다”며 경찰에 신고했다.&lt;br&gt;&lt;br&gt;B군은 병원에서 뇌 수술을 받았지만 현재까지 의식을 되찾지 못한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 병원 측의 소견과 보호자 진술, 기존 신고 이력 등을 종합해 아동학대 혐의점이 있다고 보고 친부 A씨와 친모를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰은 휴대전화 포렌식 등을 통해 학대 정황을 일부 확인하고 A씨에 대해 구속영장을 신청했다. 포렌식으로 확인된 정황은 B군의 머리 외상과 직접적인 연관성은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월에도 B군에 대한 아동 학대 의심 신고가 접수돼 조사를 받았지만 불기소 처분된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>안세영, 아시아선수권 첫 우승... ‘커리어 그랜드 슬램’ 완성</title>
       <link>https://www.chosun.com/national/national_general/2026/04/12/42JXQTABBFAIRGZP6NZWXHSW7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/42JXQTABBFAIRGZP6NZWXHSW7U/</guid>
@@ -926,15 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDCZBRHEZDEZRRMI2TANBWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세월호 참사가 발생한 당일 박근혜 정부 청와대가 승객 구조를 위해 생산하거나 접수한 문서 목록을 비공개할 근거가 없다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정10-3부(재판장 원종찬)는 10일 송기호(현 청와대 경제안보비서관) 변호사가 대통령기록관장을 상대로 낸 정보 비공개 처분 취소 소송의 파기환송심에서 원고 승소 판결했다.&lt;br&gt;&lt;br&gt;이번 재판은 송 변호사가 대통령기록관장을 상대로 낸 소송에 대해 지난해 1월 대법원이 원심판결을 파기환송하면서 열렸다.&lt;br&gt;&lt;br&gt;송 변호사는 2017년 5월 대통령기록관장에게 ‘2014년 4월 16일 대통령비서실, 대통령경호실, 국가안보실에서 세월호 승객을 구조하기 위한 공무 수행을 위해 생산하거나 접수한 문서의 목록’에 대한 정보 공개를 청구했다. 하지만 대통령기록관장은 해당 문건이 비공개 대상 정보에 해당한다며 청구를 받아들이지 않았고, 송 변호사는 2017년 6월 행정소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 원고 승소로 판결했다. 재판부는 “정보 공개 청구 대상은 대통령비서실 등이 공무 수행을 위해 생산한 문건 목록에 불과하다”며 “관련 법상 지정기록물의 요건을 갖추지 못했다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 2심은 다르게 판단했다. 재판부는 “이 사건 청구가 대통령기록물법에서 정한 예외적인 경우에 해당한다고 인정할 자료는 없으므로, 대통령기록물법에 따라 원고의 공개 청구를 거부한 피고의 행위에 어떠한 위법이 있다고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;대법원에서 판결은 또 한 번 뒤집혔다. 대법원은 “원심의 판단에는 이 문서에 대한 대통령지정기록물 지정행위의 적법 여부에 관한 판단을 누락하거나, 필요한 심리를 다하지 않아 판결에 영향을 미친 잘못이 있다”며 2심 판결을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란특검, ‘일반이적’ 여인형 징역 20년·김용대 징역 5년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/10/3NLVNV7MERDFPF4XDMYPG6ZFLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/3NLVNV7MERDFPF4XDMYPG6ZFLA/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 07:48:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZWCMTFGFSGKMJQMRRTGOBSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 전 국군방첩사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 관련 내란·외환 의혹을 수사한 조은석 내란특검팀이 일반이적 등 혐의를 받는 여인형 전 국군방첩사령관에게 징역 20년을 구형했다. 군용물손괴교사 혐의 등으로 기소된 김용대 전 드론작전사령관에게는 징역 5년을 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 10일 서울중앙지법 형사36부(재판장 이정엽) 심리로 열린 여 전 사령관의 일반이적, 직권남용권리행사방해 혐의 사건과 김 전 사령관의 군용물손괴교사, 군기누설, 허위명령 등 혐의 사건 결심 공판에서 이같이 구형했다. &lt;br&gt;&lt;br&gt;특검팀은 여 전 사령관에 대해 “국군통수권자와 이를 추종하는 세력이 우리 국민의 생명과 재산을 담보로 하여, 계엄선포 여건 조성 목적으로 한반도의 전시 상황을 조성하려 한 반헌법적·반인륜적 중대 범행”이라고 했다. 그러면서 “이 사건 범행으로 실제 국가안보에 대한 실질적인 위해 등 대한민국의 군사상 이익이 심히 저해되는 결과가 발생했고, 국가적 혼란과 군기 문란이 초래된 점 등을 고려해 피고인 여인형에게 징역 20년을 구형한다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 전 사령관에게는 징역 5년을 구형하며 “직무상 권한을 남용해 군사작전을 은폐할 목적으로 적극적, 조직적으로 부하 군인들을 은폐·조작 범행에 동원했다”고 했다.&lt;br&gt;&lt;br&gt;지난해 11월 특검팀은 윤석열 전 대통령과 김용현 전 국방부 장관, 여 전 사령관을 일반이적 및 직권남용권리행사방해 혐의로 재판에 넘겼다. 김 전 사령관에게는 일반이적 혐의가 적용되지 않았지만, 별도 혐의로 함께 기소됐다. 재판부는 이날 여 전 사령관과 김 전 사령관을 분리해 재판을 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘음료 3잔’ 알바생, 합의금 550만원 돌려받았다...점주는 영업정지</title>
       <link>https://www.chosun.com/national/national_general/2026/04/10/ZQFKAOQXVBFUFLRFKES5TKMHIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/ZQFKAOQXVBFUFLRFKES5TKMHIA/</guid>
@@ -951,15 +960,6 @@
       <description/>
       <pubDate>Fri, 10 Apr 2026 06:05:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKWI54A4KFGEPH37TYVAFTG34A.png"&gt;&lt;figcaption&gt;&lt;small&gt;무단 침입해 반려견 끌고 가는 60대 A씨./동물구조단체 '유엄빠'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 주택 마당에 묶여 있던 반려견을 산 채로 끌고 간 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대전대덕경찰서는 10일 주거침입, 절도, 동물보호법 위반 등 혐의로 60대 A씨를 입건해 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 7일 오전 대전 대덕구 한 주택에 들어가 마당에 묶여 있던 황색 진돗개 ‘봉봉이’를 올무 등 도구를 이용해 끌고 간 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해 주인의 신고를 접수한 경찰은 대전에서 개장수로 활동하던 A씨를 특정했다.&lt;br&gt;&lt;br&gt;A씨는 의뢰인 B씨의 부탁을 받고 인근 다른 이웃집 개를 데려가기로 돼 있었으나, 내비게이션이 안내한 집 주소를 착각해 피해자의 반려견을 잘못 데려갔다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 원래 의뢰받았던 집에 구입 비용을 지급한 내역과, 해당 개가 실제로 그 집에 그대로 있던 사실 등을 확인했다.&lt;br&gt;&lt;br&gt;문제는 봉봉이의 행방이 아직 파악되지 않고 있다는 점이다. A씨는 자신의 농막에 말뚝을 박아 봉봉이를 묶어뒀는데, 이후 개가 탈출했다고 주장하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해자 측에 따르면, A씨는 처음에는 “개가 이미 죽었다”고 말했다가 경찰 조사 과정에서 진술을 바꾼 것으로 전해졌다.&lt;br&gt;&lt;br&gt;피해자 신고와는 별개로 동물 구조 단체 ‘유엄빠’도 전날 가해자들을 엄벌해 달라는 내용의 고발장을 경찰에 접수했다.&lt;br&gt;&lt;br&gt;경찰은 기초 조사를 마친 상태로, 필요할 경우 압수수색 등 강제 수사도 검토하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검·경 합수본, 전재수 무혐의 처분... 공천 하루만에 족쇄 풀어줬다</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/10/JWHHSXJ4KZDQZMC5MDD7DIOCSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/JWHHSXJ4KZDQZMC5MDD7DIOCSA/</guid>
-      <dc:creator>김나영 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 02:01:48 +0000</pubDate>
-      <content:encoded>통일교의 정치권 금품 수수 의혹을 수사 중인 검경 합동수사본부(본부장 김태훈 대전고검장)가 수수자로 지목된 전현직 국회의원들에 대해 무혐의 처분했다고 10일 밝혔다. 더불어민주당의 부산시장 후보인 전재수 의원이 명품 시계를 받은 의혹은 ‘공소권 없음’ 처분됐다. &lt;br&gt;&lt;br&gt;전 의원이 공천을 확정받고 난 후에야 혐의를 벗자 법조계에서는 “합수본이 여권 실력자에 면죄부를 줬다”는 비판 목소리가 나온다. 전 의원이 전날 부산시장 후보로 확정되자, 합수본이 하루 만에 기다렸다는 듯 수사 결과를 발표한 모양새라는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTDSOBTME3GIYZVGAYWEYRZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 더불어민주당 의원이 지난 2일 부산 동구 해양수산부 청사 앞에서 기자회견을 열고 6·3 지방선거 부산시장 출마를 공식 선언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 6일 출범한 합수본은 약 3개월간 수사를 벌이고 이같이 결론 내렸다. 합수본 관계자는 “전 의원 등의 정치자금법 위반 등 사건에 대해 공소시효가 완성되거나 증거가 불충분하다고 판단했다”고 설명했다. 통일교 의혹을 수사한 합수본 경찰팀은 지난 3일 불송치 결정을 내렸고, 검찰이 이날 기록을 반환하면서 수사가 종결됐다.&lt;br&gt;&lt;br&gt;전 의원은 2018년 8월 21일 경기 가평군에 있는 통일교 천정궁에서 한일 해저터널에 대한 청탁을 받고 785만원 상당 까르띠에 시계 1점과 현금 2000만~3000만원을 수수한 혐의(뇌물수수·정치자금법 위반)를 받았다. 합수본은 정원주 전 통일교 총재 비서실장이 시계를 구입하고, 전 의원의 지인이 2019년 7월 해당 시계를 수리 맡긴 사실도 확인했지만 시계 실물은 확보하지 못했다고 한다.&lt;br&gt;&lt;br&gt;합수본 관계자는 “전 의원과 통일교 정선교회장 목사가 8월 21일 천정궁을 방문했을 때 시계가 전달된 것으로 의심하고 있다”면서도 “수수했다고 단언하긴 어렵고 그러한 정황이 있다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;또 “현금 제공과 관련해선 윤영호 전 세계본부장의 진술이 사실상 유일한 증거로, 현금 수수 여부나 액수를 특정하기 어렵다”라며 “시계를 포함해 제공된 금품이 3000만원 이상이라고 보기 어려워 공소시효(7년)가 완성됐다고 봤다”고 했다. 3000만원이 넘어가면 공소시효가 10년으로 늘어나지만, 돈의 액수 자체를 밝혀내지 못해 공소권 없음으로 결론 냈다는 것이다.&lt;br&gt;&lt;br&gt;당초 이 의혹은 민중기 특검팀이 처음 인지했다. 특검팀은 작년 8월 22일 윤 전 본부장에게서 해당 의혹과 관련해 진술을 받았지만 특검법상 수사 대상이 아니라는 이유로 수사하지 않았다. 이후 ‘수사 뭉개기’라는 논란이 불거지자 경찰이 수사에 착수했고, 지난 1월 출범한 합수본이 사건을 이어받았다. 특검 측 관계자는 “합수본이 수수 시점을 2018년 8월 21일로 특정했다면, 저희가 사건을 인지했을 때도 이미 공소시효 시점이 임박했을 무렵이었던 셈”이라고 했다.&lt;br&gt;&lt;br&gt;전 의원은 2019년 10월 통일교 산하 선화예술중고의 이전 관련 청탁을 받고 자서전 500권 구입 대금 명목인 현금 1000만원을 수수한 혐의도 받았다. 이에 대해 합수본은 “자서전을 구입한 사실은 인정되지만, 그 무렵 통일교에서 전 의원을 만나 청탁했다고 볼 구체적인 사정이 없다”며 무혐의로 판단했다. 앞서 합수본이 확보한 통일교 내부 문건에는 ‘전 의원 미팅’이라는 문구와 함께 ‘유니버설 재단 및 선화예술중고 이전 개발’ 등이 적혀 있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDYUX6GKPRAW7KUJSJUFOW6FRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임종성(왼쪽) 전 더불어민주당 의원과 김규환 전 미래통합당 의원./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임·김 전 의원은 2020년 4월 통일교 측으로부터 각각 현금 3000만원을 받은 혐의(정치자금법 위반)를 받았다. 합수본은 “두 사람이 각종 통일교 행사에 참석하는 등 일정한 관계를 유지해온 사실은 인정된다”면서도 “구체적인 금품 액수나 제공 경위 등이 불분명해 혐의없음으로 판단했다”고 했다. 이에 따라 금품의 공여자로 의심받았던 통일교 한학자 총재, 정 전 비서실장, 윤 전 본부장 등도 혐의를 벗게 됐다. &lt;br&gt;&lt;br&gt;다만 합수본은 전 의원 보좌진 4명이 압수수색에 대비해 부산 지역구 사무실 내 PC를 초기화하고, 하드디스크를 파손한 정황을 포착하고 이들을 증거인멸죄로 불구속 기소했다. 그러나 보좌진들이 전 의원의 지시를 받고 증거를 인멸했는지 여부는 드러나지 않았다.&lt;br&gt;&lt;br&gt;한편 민 특검은 편파 수사 및 수사 무마 의혹으로 고위공직자범죄수사처 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주말 다시 봄기운… 미세먼지 없이 포근</title>
