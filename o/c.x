@@ -13,6 +13,57 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>안세영, 아시아선수권 첫 우승... ‘커리어 그랜드 슬램’ 완성</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/42JXQTABBFAIRGZP6NZWXHSW7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/42JXQTABBFAIRGZP6NZWXHSW7U/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 07:53:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WN536EF3JBBNAFCGLY32GGP6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;
+안세영이 지난 1월 11일 새해 첫 출전 대회인 말레이시아 오픈 3연패(連覇)를 확정하고서 주먹을 불끈 쥐며 포효하는 모습/ AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배드민턴 여자 단식의 최강자 안세영(24·삼성생명)이 생애 첫 아시아선수권 정상에 오르며 ‘커리어 그랜드 슬램’의 마지막 퍼즐을 완성했다. &lt;br&gt;&lt;br&gt;세계 랭킹 1위 안세영은 12일 중국 닝보에서 열린 2026 아시아개인선수권대회 결승전에서 세계 2위 왕즈이(중국)를 2대1(21-12 17-21 21-18)로 승리했다. 지난달 전영 오픈 결승전에서 왕즈이에게 당한 패배를 한 달 만에 설욕했다. 상대 전적도 19승 5패로 차이를 더욱 벌렸다. &lt;br&gt;&lt;br&gt;안세영은 이날 우승으로 커리어 그랜드 슬램을 달성했다. 배드민턴에서 그랜드 슬램은 올림픽·세계선수권·대륙 선수권·대륙별 종합 경기 대회 우승을 일컫는다. 안세영은 올림픽 금메달(2024년), 세계선수권 우승(2023년), 아시안게임 금메달(2023년)을 모두 이뤘으나 아시아선수권과는 유독 인연이 없었다. 2022년 동메달과 2023년 은메달을 딴 이후 2024년엔 8강에서 탈락했고, 지난해엔 부상으로 대회에 나서지 못했다.&lt;br&gt;&lt;br&gt;2년 만에 다시 그는 32강부터 준결승전까지 한 세트도 내주지 않으며 승승장구했다. 반면 왕즈이는 준결승전에서 세계 4위 야마구치 아카네(일본)와 ‘풀 게임’ 접전을 벌이며 어렵게 결승에 올랐다. 안세영은 체력 우위를 적극 활용했다. 경기 초반부터 강하게 몰아붙이는 대신 긴 랠리를 유도하며 상대 체력을 빼놓으려고 했다. 반격에 나선 왕즈이에게 2게임을 내줬으나, 그사이 왕즈이의 체력은 더욱 떨어졌다. 손쉽게 따내는 듯했던 3게임 막판 왕즈이의 추격이 거셌으나, 안세영이 끝까지 집중력을 잃지 않고 승리를 지켜냈다.&lt;br&gt;&lt;br&gt;안세영은 2017년 12월 만 15세 나이로 처음 성인 국가대표에 뽑힌 이후로 8년 5개월여 만에 그랜드 슬램을 달성했다. 그는 ‘천재 소녀’로 불리며 기대를 모았으나 처음 나섰던 2018 아시안게임에선 32강 탈락, 2020 도쿄 올림픽에선 8강 탈락으로 아쉬움을 남겼다. 안세영은 고된 레슬링 훈련을 자청하며 체력을 기르는 등 절치부심하며 타고난 수비력에 더해 지구력과 공격력까지 갖춰나갔고, 결국 배드민턴 ‘레전드’로 인정받을 성과를 냈다. 2023년 세계선수권 우승과 항저우 아시안게임 개인·단체전 2관왕으로 전성기를 활짝 연 그는 2024년 파리 올림픽 금메달을 따낸 지 2년 만에 마지막 남은 아시아선수권 우승까지 이뤄냈다.&lt;br&gt;&lt;br&gt;안세영의 그랜드 슬램은 여자 단식 선수로는 캐롤리나 마린(스페인)에 이어 역대 두 번째다. 2016 리우 올림픽 금메달리스트인 마린은 세계선수권 3회, 유럽선수권 7회, 유러피안 게임 1회 우승을 차지했다. 남자 단식에선 중국 린단, 덴마크 빅토르 악셀센 등 3명만 그랜드 슬램을 이뤘다. 복식에선 한국 박주봉, 김동문, 김문수 등 그랜드 슬램을 이룬 선수가 세계적으로 많다. 그러나 여자 복식에선 한국 선수가 그랜드 슬램을 이룬 적이 없어 단·복식을 합쳐 한국 여자 선수로는 안세영이 최초다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5WN536EF3JBBNAFCGLY32GGP6Y.jpg?auth=d28090bc0e4e7a450db45f623309179ec2beb8bca8dfb5c1c85f13b5724ba0dd&amp;smart=true&amp;width=2083&amp;height=1560" type="image/jpeg" height="1560" width="2083">
+        <media:description type="plain">
+안세영이 지난 1월 11일 새해 첫 출전 대회인 말레이시아 오픈 3연패(連覇)를 확정하고서 주먹을 불끈 쥐며 포효하는 모습/ AP 연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 4월 13일 월요일 (음력 2월 26일 丁巳)</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/YXB3AXLA3FBT7NLJXAQ3GL4XEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/YXB3AXLA3FBT7NLJXAQ3GL4XEE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>‘공학 수학’ 과제가 벚꽃 사진 찍기… 어느 교수의 ‘낭만’</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/BYTRYY3XTNEVXCFJIWF4PL6JZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/BYTRYY3XTNEVXCFJIWF4PL6JZQ/</guid>
+      <dc:creator>정채빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 07:29:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSWCNZTMIZDAYJVGA2TIOJTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주 무심천에 벚꽃이 만개했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“따뜻한 봄날에 하루 정도는 공부 안 하고 계절을 즐겨도 좋지 않을까요?”&lt;br&gt;&lt;br&gt;이는 한 공대 교수가 ‘공학 수학’ 강의 과제를 내면서 밝힌 과제 배경이다. 이 교수는 봄을 맞아 학생들에게 벚꽃 사진을 찍어 제출하는 과제를 냈다. 이는 최근 “낭만적인 전공 과제”라며 온라인 상에서 확산하며 화제가 됐다. &lt;br&gt;&lt;br&gt;충북대 공과대학 공업화학과 강동우 교수는 지난달 25일 “4월 중 벚꽃 개화 시기에 청주 또는 체류 지역 내 벚꽃 스폿 방문하여 사진 촬영”이라는 과제를 공지했다. 강 교수는 과제 배경 중 하나로 “공대생의 메말라 비틀어진 감성 향상”이라고 밝혔다. 과제 공지에 따르면, 학생들은 벚꽃이 시들기 전 사진을 제출해야 하고, 교내나 집 근처가 아닌 다른 장소의 벚꽃을 촬영해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUKRJEOYWBAF3JOQSDHKBHPWTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이는 대학생 온라인 커뮤니티에서 화제가 된 이후 다른 소셜미디어로 확산하며 주목받았다. 네티즌들은 “이런 교수님들이 계셔야 제대로 대학 생활을 즐길 수 있다”, “한 번쯤은 이런 과제를 해도 인생이 망하지 않는다는 걸 잘 가르쳐주고 계신다”, “벚꽃의 꽃말은 중간고사인데 낭만 있다” 등 반응을 보였다. &lt;br&gt;&lt;br&gt;과제가 많은 관심을 받게 되자 강 교수는 소셜미디어 댓글을 통해 “활기차야 할 대학생들이 취업과 미래에 대한 고민으로 봄조차 느끼지 못하는 것 같아 과제를 내봤다”고 밝혔다. 이어 “대내외적으로 기업도 어렵고 채용도 줄어들고 하는 중에 스펙 쌓기, 도서관에서 공부만 하기보다 하루 시간 내서 여유를 가지는 것도 리프레시하는 데 큰 도움이 되지 않을까 싶다”고 말했다. &lt;br&gt;&lt;br&gt;강 교수의 ‘벚꽃 촬영’ 과제는 2021년부터 시작됐다. 강 교수는 조선닷컴에 “2021년 충북대 임용 후부터 과제를 내고 있다”며 “학생들이 멋있는 포즈로 단체 사진을 보낼 때도 있고, 독사진을 멋지게 찍을 때도 있다”고 말했다. 그러면서 “요즘엔 역동적인 사진도 많이 보내주더라”고 했다. &lt;br&gt;&lt;br&gt;강 교수에 따르면 6년간 과제를 제출하지 않은 학생은 한 명도 없었다. 그는 “미제출자가 한 명도 없었다”며 “과제 평가는 제출, 미제출로 이뤄진다”고 설명했다. 이어 “대부분 과제를 제출하다 보니 가장 멋진 사진을 제출한 학생 또는 단체 사진 구성원에게 커피 쿠폰 등 조그만 선물을 주려고도 생각 중”이라고 했다. &lt;br&gt;&lt;br&gt;다만 이 과제가 주목받으면서 ‘과제로 수업을 대체하는 등 수업을 소홀히 하는 것 아니냐”는 말이 나오기도 했다. 이에 대해 강 교수는 “일부 우려가 있는 것처럼 과제로 수업을 대체하는 것은 아니니 걱정 안 하셔도 괜찮다”고 말했다. 그는 “혼자 또는 소중한 누군가와 하루를 추억할 수 있도록 과제를 내게 됐다”며 “나중에 사진첩을 들여다보다 20대의 즐거운 한때를 보면서 추억할 수 있으면 좋겠다”고 했다. 그러면서 “다들 조금 더 여유를 가지고 주변도 바라봐 주시고 올해 행복한 일들 많이 생겼으면 좋겠다”고 덧붙였다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 냄새 풀풀 나는데… 음주 측정 거부 40대 ‘벌금 700만원’</title>
+      <link>https://www.chosun.com/national/2026/04/12/TOVBGWT5TBCHXHTRZPJ5YXWEZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/12/TOVBGWT5TBCHXHTRZPJ5YXWEZ4/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 06:18:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SZEZGGL5ZGH7FHXEDLWDOV6VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관의 음주 측정 요구를 수차례 거부한 운전자에게 수백만 원의 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사5단독 조국인 부장판사는 도로교통법 위반 혐의로 재판에 넘겨진 A(40대)씨에게 벌금 700만원을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 11일 밤 울산의 한 도로에서 술을 마신 채 운전하던 중 경찰관에게 단속됐다.&lt;br&gt;&lt;br&gt;당시 경찰관은 A씨에게 술 냄새가 나자, 약 20분간 음주 측정을 요구했다. &lt;br&gt;&lt;br&gt;하지만 A씨는 음주 감지기를 손으로 밀어내고, 그 자리에서 벗어나려 하는 등 측정을 거부했다.&lt;br&gt;&lt;br&gt;조 부장판사는 “음주 측정 거부는 사회적 위험성이 큰 음주운전 범행의 증명과 처벌을 곤란하게 하고, 공권력을 경시하는 풍조를 조장하는 것으로 엄히 처벌할 필요가 있다”며 “다만 피고인이 범행을 인정하고 잘못을 반성하는 점, 아무런 형사 처벌 전력이 없는 점 등을 참작했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI가 진단 넘어 소견서까지 쓴다... 국내 의료 AI 3년 새 2.5배 급증</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/12/DSXFC6DAMZBVHE4Q4TLAT5IULA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/12/DSXFC6DAMZBVHE4Q4TLAT5IULA/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 06:09:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3WINZQMM2WINZVG5STSOJWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성메디슨은 19일 서울 코엑스에서 열린 KIMES 2026에서 인공지능(AI) 초음파를 선보였다. /홍다영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 기업들이 잇달아 의료 인공지능(AI) 사업에 뛰어들면서 보건 당국의 허가를 받고 있는 건수도 3년 새 2.5배 이상 늘어났다. 국내 허가 건수의 폭증은 전 세계적인 의료 AI 개발 속도전에 국내 기업이 발맞춰 가고 있는 덕이라는 해석이 나온다.&lt;br&gt;&lt;br&gt;12일 식품의약품안전처에 따르면 AI 기반 소프트웨어 의료기기의 허가·인증·신고 건수가 2023년 62건에서 2024년 108건, 2025년 157건으로 3년 사이 2.53배 늘었다. 올해 1분기에도 이미 55건이 허가·인증·신고돼 단순 계산하면 한 해 동안 220건을 기록할 수 있을 전망이다. 2018년 4건, 2019년 13건, 2020년 50건 등과 비교하면 10년도 되지 않아 허가 건수가 폭증한 셈이다.&lt;br&gt;&lt;br&gt;실제 개발·허가 현장에서 의료 AI의 발전은 매우 빠르다. 일례로 이달 식약처에서 국내 제품 중에선 처음으로 생성형 AI 기반 디지털 의료기기 허가를 받은 ‘AI리드-CXR’은 단순히 질병을 진단하는 것을 넘어 활자화된 소견서를 작성하는 기능을 갖고 있다. 기존 AI 디지털 의료기기는 흉부 X선 영상에서 이상이 있는 부위를 찾아내고 질병의 유무나 중증도를 표시하는 수준에 그쳤다면 이 제품은 아예 의료진이 참고할 수 있는 예비 소견서를 만들어낸다.&lt;br&gt;&lt;br&gt;이 밖에도 업계에서 연내 허가를 예상하고 있는 ‘M4CXR’이라는 제품도 흉부 X선 영상을 분석한 후 42종의 흉부 질환과 영상 의학적 소견에 대한 판독 소견서를 생성할 수 있다.&lt;br&gt;&lt;br&gt;업계의 선발 주자 격인 루닛이 만든 ‘인사이트 DBT’는 유방 단층 촬영술 영상을 AI로 분석하는 기능으로 지난해 허가를 받았다. 3차원 영상을 AI 기반으로 분석해 의료진의 유방암 진단을 돕는 제품으로, 기존 2차원 유방 촬영술보다 정확한 진단이 가능하다는 평가를 받는다. 루닛은 이런 성과 덕에 지난해 창사 이후 최대인 831억원의 매출을 올리기도 했다.&lt;br&gt;&lt;br&gt;이 같은 국내 의료 AI의 빠른 발전이 정부의 절차 간소화 덕이라는 해석도 나온다. 지난해 1월 ‘디지털의료제품법’이 시행되면서 환자에게 직접적인 치료를 하는 게 아닌 ‘데이터’ 임상시험은 식약처장의 승인이 필요 없어졌기 때문이다. 식약처 관계자는 “AI 소프트웨어는 데이터 임상이 많은 만큼 식약처 승인 없이 실시하는 임상이 많이 있을 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>월요일 최고 26도, 완연한 봄…큰 일교차 주의</title>
       <link>https://www.chosun.com/national/transport-environment/2026/04/12/OKQMJQW2DZGJXODGIH7RAHC67U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/12/OKQMJQW2DZGJXODGIH7RAHC67U/</guid>
@@ -893,16 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2TGNRUMRRDMMJSGMZDONLFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시민들이 아이스커피를 들고 있다. 기사 내용과 직접적인 관련 없음./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아르바이트생의 음료 무단 취식을 문제 삼아 550만원의 합의금을 받아 논란이 된 충북 청주의 한 카페 점주가 결국 돈을 돌려주고 사과했다. &lt;br&gt;&lt;br&gt;지난 8일 청주에서 프랜차이즈 카페를 운영하는 A 점주가 아르바이트생 B씨에게 550만원을 반환하고 사과 의사를 전달한 것으로 확인됐다. A 점주는 앞서 B씨가 지난해 5월부터 약 5개월간 자신의 매장에서 근무하면서 총 35만원어치 음료를 가로챘다며 합의금 550만원을 받아냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5DEMEBLFJFGNHMOTOTVBNNLDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주 빽다방 카페 점주가 아르바이트생에게 합의금 명목으로 받은 550만원을 돌려줬다. /유튜브 '저널리스트'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공개된 문자 메시지에 따르면 A 점주는 “폭언하고 상처 줘서 정말 미안하다. 나도 언론사에 시달린 만큼 (내게) 시달린 마음 충분히 이해한다. 상처가 된 말 진심으로 사과한다”고 했다. 이어 “나 역시 너와 그런 일 겪고 마음이 편치 않았다”면서 “아버님과 상의 후 만나서 차 한잔하며 얘기 나눴으면 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;A 점주는 또 “사과하면 뒤끝 없는 내 성격 알지 않나”라며 “널 믿고 안쓰럽게 생각했다. 네게 관심이 많아서 훈계한 건데 어른으로서 잘못된 방법이었다는 걸 후회하고 있다”고 했다. 그러면서 “다시는 이런 사태가 나오지 않게 반성하겠다. 이제 모든 짐 내려놓고 학업에 충실하라”고 사과했다.&lt;br&gt;&lt;br&gt;그러면서 “더 이상 언론에 보도가 나가지 않았으면 한다. 내 잘못된 언행으로 생계가 있는 전국 점주님께 더는 피해가 가지 않게 부탁한다”고 했다. 이후 A 점주는 B씨 계좌로 550만원을 송금했다.&lt;br&gt;&lt;br&gt;빽다방 본사인 더본코리아는 해당 매장에 영업정지 조치를 내리겠다고 밝혔다. A점주의 지인이 운영하는 빽다방 C지점에도 비슷한 수준의 조치가 적용될 예정이다. 앞서 C지점 점주는 B씨가 퇴근길에 남은 음료 3잔(1만2800원 상당)을 만들어 가져갔다며 업무상 횡령 혐의로 고소한 바 있다.&lt;br&gt;&lt;br&gt;더본코리아는 향후 고용노동부 근로감독 결과에 따라 추가 조치를 검토할 방침이다. 노동부는 B씨를 상대로 한 A·C지점 점주의 직장 내 괴롭힘 여부를 비롯해 임금 체불, 연장·야간·휴일근로수당 미지급 여부 등을 살펴보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 4월 11일 토요일 (음력 2월 24일 乙卯)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/10/63RNGMVBL5GSBFF6COWPUATPUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/63RNGMVBL5GSBFF6COWPUATPUQ/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
       <title>“집 주소 착각했다”...가정집 무단침입해 반려견 끌고 간 개장수</title>
       <link>https://www.chosun.com/national/national_general/2026/04/10/FH6WY7AJGBBZ5IZQLCDT45XB5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/FH6WY7AJGBBZ5IZQLCDT45XB5Q/</guid>
@@ -910,28 +951,6 @@
       <description/>
       <pubDate>Fri, 10 Apr 2026 06:05:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKWI54A4KFGEPH37TYVAFTG34A.png"&gt;&lt;figcaption&gt;&lt;small&gt;무단 침입해 반려견 끌고 가는 60대 A씨./동물구조단체 '유엄빠'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 주택 마당에 묶여 있던 반려견을 산 채로 끌고 간 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대전대덕경찰서는 10일 주거침입, 절도, 동물보호법 위반 등 혐의로 60대 A씨를 입건해 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 7일 오전 대전 대덕구 한 주택에 들어가 마당에 묶여 있던 황색 진돗개 ‘봉봉이’를 올무 등 도구를 이용해 끌고 간 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해 주인의 신고를 접수한 경찰은 대전에서 개장수로 활동하던 A씨를 특정했다.&lt;br&gt;&lt;br&gt;A씨는 의뢰인 B씨의 부탁을 받고 인근 다른 이웃집 개를 데려가기로 돼 있었으나, 내비게이션이 안내한 집 주소를 착각해 피해자의 반려견을 잘못 데려갔다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 원래 의뢰받았던 집에 구입 비용을 지급한 내역과, 해당 개가 실제로 그 집에 그대로 있던 사실 등을 확인했다.&lt;br&gt;&lt;br&gt;문제는 봉봉이의 행방이 아직 파악되지 않고 있다는 점이다. A씨는 자신의 농막에 말뚝을 박아 봉봉이를 묶어뒀는데, 이후 개가 탈출했다고 주장하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해자 측에 따르면, A씨는 처음에는 “개가 이미 죽었다”고 말했다가 경찰 조사 과정에서 진술을 바꾼 것으로 전해졌다.&lt;br&gt;&lt;br&gt;피해자 신고와는 별개로 동물 구조 단체 ‘유엄빠’도 전날 가해자들을 엄벌해 달라는 내용의 고발장을 경찰에 접수했다.&lt;br&gt;&lt;br&gt;경찰은 기초 조사를 마친 상태로, 필요할 경우 압수수색 등 강제 수사도 검토하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“학생들에게 디딤돌 되길”… 경인여대, 1억원 기부한 이정윤 씨에게 감사패</title>
-      <link>https://www.chosun.com/national/regional/2026/04/10/NV6SHGXVZ5HQNE3IE76R32DQ6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/NV6SHGXVZ5HQNE3IE76R32DQ6A/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 06:21:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TYWGKMPWFBTHND6DYAALR53RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육동인 경인여대 총장(사진 오른쪽)이 최근 1억원을 기부한 이정윤씨에게 감사패를 전달하고 기념촬영을 하고 있다. /경인여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경인여대가 1억원을 기부한 이정윤(여·88)씨에게 감사패를 전달했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;경인여대는 학생들이 자신의 능력을 키울 수 있게 더욱 노력해 달라며 이씨가 기부금을 전달해 왔다고 설명했다. &lt;br&gt;&lt;br&gt;한국전쟁 등 시대적 어려움으로 배움의 기회를 놓친 이씨는 “배우지 못한 아쉬움이 컸다”며 “이 작은 정성이 새로운 꿈을 꾸는 학생들에게 디딤돌이 될 수 있었으면 한다”고 했다.&lt;br&gt;&lt;br&gt;경인여대는 이씨의 기부금을 활용해 ‘마리나 장학금’을 만들고, 학생들이 안정적인 환경에서 학업에 전념할 수 있게 지원할 방침이다. &lt;br&gt;&lt;br&gt;육동인 경인여대 총장은 “깊은 울림이 있는 이번 기부금을 국가와 사회에 기여하는 여성 인재 양성에 사용하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 흰머리 나듯 나이들면 어깨도 노화로 손상</title>
-      <link>https://www.chosun.com/medical/2026/03/05/AR235HJE4BGKHE3D5HVJPXMPUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/05/AR235HJE4BGKHE3D5HVJPXMPUA/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>어깨 통증은 중장년 세대가 겪는 흔한 증상이다. 통증은 대부분 팔과 몸통을 연결시키는 회전근개 힘줄의 이상 때문에 발생한다. 하지만 힘줄에 이상이 있어도 어깨 증상이 전혀 없는 경우가 많아서 영상에서 보이는 힘줄 이상이 실제 통증의 원인인지에 대해서는 다소 논란이 있다. &lt;br&gt;&lt;br&gt;최근 미국의사협회지 내과편에 건강한 사람의 회전근개 힘줄 이상 여부를 조사한 연구 결과가 발표됐다. 연구는 40세 이상 건강한 핀란드인 602명을 대상으로 했다. 어깨 통증 유무를 조사한 후, 고해상도 MRI 검사를 통해서 양측 어깨 관절 이상 여부를 찾아봤다.&lt;br&gt;&lt;br&gt;연구 결과, 전체 대상의 98.7%(595명)에서 회전근개 힘줄 이상 소견이 발견됐다. 25%에서는 힘줄이 부어 있었고, 62%에서는 힘줄의 부분 파열, 11%에서는 완전 파열이 관찰됐다. 힘줄 이상은 나이가 들수록 더 흔했으며, 파열 소견이 주로 관찰됐다. &lt;br&gt;&lt;br&gt;어깨에 통증이 있는 경우 98%에서 힘줄 이상이 발견되었지만, 통증이 전혀 없는 경우에도 96%에서 이상이 관찰됐다. 완전 파열이 관찰된 96례 중에서도 증상이 없는 경우가 78%였다.&lt;br&gt;&lt;br&gt;나이가 들면서 팔을 계속 쓰다 보면, 어깨 힘줄 염증으로 힘줄이 붓고, 무리를 하면 일부가 파열되거나 전체 힘줄이 끊어지게 된다. 영상검사에서 발견되는 어깨 힘줄의 이상을 모두 병으로 볼 필요는 없다는 게 이 연구의 의미다. 나이가 들면 흰머리가 생기듯이, 중장년의 어깨 영상 이상 소견은 노화 현상인 경우가 대부분이다. 어깨 힘줄이 일부 끊어졌다고 너무 겁낼 일이 아니다. 케이스마다 다르겠지만, 재활해서 잘 보존해 가며 쓰면 되지 싶다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FKHT7PUSAG4QXS2VKQJBTHB62Y.jpg?auth=c857d60f309ab8e5953ec521906ee9cc6515815afee6b925af2c76d6d687bb9d&amp;smart=true&amp;width=720&amp;height=727" type="image/jpeg" height="727" width="720">
-        <media:description type="plain">어깨 통증/ 회전근개 파열</media:description>
-        <media:credit role="author" scheme="urn:ebu">회전근개 파열</media:credit>
-      </media:content>
     </item>
     <item>
       <title>검·경 합수본, 전재수 무혐의 처분... 공천 하루만에 족쇄 풀어줬다</title>
@@ -950,24 +969,6 @@
       <description/>
       <pubDate>Fri, 10 Apr 2026 04:31:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVRCW34QGVKTVHAXQAPHZNVORQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내린 10일 서울 여의도 윤중로 벚나무에 벚꽃잎이 떨어지고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봄비가 그친 이번 주말은 전국이 따뜻한 봄기운을 되찾을 것으로 예보됐다. 10일까지 내린 봄비에 우리나라 상공에 쌓여 있던 미세먼지가 모두 씻겨나가며 오랜만에 쾌청한 주말을 맞을 것으로 보인다.&lt;br&gt;&lt;br&gt;10일 기상청에 따르면, 이날 오후 늦게 저기압이 우리나라 상공을 완전히 빠져나가면서 전날부터 내린 비가 그치겠다. 전날 제주와 남부지방에 내려진 호우특보도 모두 해제된 상태다.&lt;br&gt;&lt;br&gt;저기압이 빠져나간 자리에는 서해상에 위치한 고기압이 들어오면서 10일 오후부터 주말인 11~12일까지 전국이 대체로 맑을 전망이다. 다만 12일 오후 중국 상하이 부근에서 동쪽으로 이동하는 기압골의 영향을 받는 제주와 전남에는 5~10㎜의 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;11~12일 아침 최저기온은 3~12도, 낮 최고기온은 16~24도로 예보됐다. 해가 뜨면 따뜻하고, 지면 빠르게 기온이 떨어지면서 낮과 밤의 기온 차가 15도 이상 크게 벌어질 것으로 보인다.&lt;br&gt;&lt;br&gt;다음 주 월요일인 13일에는 저기압의 영향으로 제주와 남부지방엔 비가 내리겠고, 중부지방은 흐릴 것으로 예상된다. &lt;br&gt;&lt;br&gt;이후 14일부터 주말까지는 큰 비 소식 없이 전국이 대체로 맑겠고, 최고기온이 26도까지 오르며 평년보다 높은 기온을 유지할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하청 노조 21전 17승… ‘사용자성’ 대거 인정해준 노동위</title>
-      <link>https://www.chosun.com/national/labor/2026/04/10/QOAFVBOYAFBNZLT4O75HP3BZH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/10/QOAFVBOYAFBNZLT4O75HP3BZH4/</guid>
-      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQTAYRVMI2WCNJUMFSDEN3BMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태안화력 고(故) 김충현 비정규직 노동자 사망사고 대책위원회 회원들이 서울 용산구 대통령실 앞에서 기자회견을 하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동위원회가 노란봉투법 관련 ‘사용자성 판단 신청 사건’에서 대부분 하청 노조 측의 손을 들어주고 있다. 지난달 노란봉투법 시행 후 전국 지방노동위원회에 접수된 사용자성 판단 관련 신청 사건은 278건(7일 기준). 9일까지 총 21건에 대한 판단이 이뤄졌는데 17건의 사용자성이 인정됐다. 하청 노조가 노동위에서 원청의 ‘사용자성’이 인정되기 쉬운 산업 안전 분야를 교섭 의제로 내걸어 원청을 일단 ‘교섭 테이블’로 끌어내는 데 성공한 것이다. 이를 기반으로 “하청 노조가 교섭 테이블에 앉은 원청에 임금 인상, 복지 개선 등을 압박하는 상황이 될 가능성이 크다”는 우려가 나온다.&lt;br&gt;&lt;br&gt;노동위의 사용자성 판단은 공공 부문에서부터 시작됐다. 충남지방노동위는 지난 2일 한국원자력안전기술원, 한국원자력연구원, 한국자산관리공사, 한국표준과학연구원 등 4곳에 대해 “하청 노조에 대한 안전 관리와 인력 배치에 실질적 영향력을 행사한다”며 원·하청 간 사용자성을 인정했다. 뒤이어 경북지방노동위도 한국산업단지공단에 대해 같은 취지의 판단을 내놨다.&lt;br&gt;&lt;br&gt;민간 부문 역시 연이어 사용자성이 인정되고 있다. 서울지방노동위는 지난 6일 민주노총 공공운수노조가 성공회대와 인덕대를 상대로 제기한 사용자성 판단 사건에서 “원청이 근로조건을 구체적으로 통제하고, 작업 환경 개선과 관련한 교섭 의제에 실질적 지배력을 가진다”며 사용자성을 인정했다. 8일에는 경북지방노동위가 포스코 하청 노조의 사용자성을 인정하면서 상급 단체(한국노총, 민주노총)가 다른 노조들이 각각 포스코와 분리해 교섭하라는 판정을 내리기도 했다. 9일에도 국민은행, 하나은행, 포스코이앤씨, 동희오토 등 7개 업체에 대한 사용자성이 인정됐다. 다만 하청 노조들이 쿠팡CLS(서울지방노동위), SK에너지·에쓰오일·고려아연(울산지방노동위) 등을 상대로 제기한 ‘교섭 단위 분리’ 신청은 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TM3T7AP5EBGJNAG4NM5PLOPXLE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전문가들은 노동위가 사용자성을 인정하는 근거로 ‘산업 안전’ 분야를 주로 언급하고 있다는 데 주목한다. 법 시행 전부터 원청이 산업재해 등 하청의 안전사고 방지를 위한 조치를 하는 경우 오히려 사용자로 인정될 가능성이 클 수 있다는 관측이 나왔다. 그런데 실제 이 분야가 사용자성 인정의 주요 근거가 되고 있다는 것이다.&lt;br&gt;&lt;br&gt;일각에선 “사용자성을 판단하는 노동위원회가 현재 구조상 사용자성 인정에 무게가 쏠릴 수밖에 없다”는 지적도 나온다. 노동위의 사용자성 판단은 근로자위원(1명), 사용자위원(1명), 공익위원(3명)으로 구성된 심판위원회가 맡는다. 캐스팅 보트 역할을 하는 공익위원은 고용노동부 장관, 지방노동위원장이 제청하는 만큼 주요 결정에서 정부 입장이 반영될 가능성이 크다는 것이다. 더욱이 노동위는 사용자성 판단 관련 신청이 있는 경우 그날로부터 20일 내 결론을 내야 한다. 박지순 고려대 법학전문대학원 교수는 “기업별·현장별 사정이 천차만별이고 따져봐야 할 내용이 적지 않아 20일 시간 제한은 촉박할 수 밖에 없다”며 “이 때문에 사실상 서류만 보고 판단하는 기계적 결정이 쏟아질 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;사용자성이 인정된 업체 중 일부는 상급 기관인 중앙노동위에서 다시 한번 다퉈볼 기회를 포기하고, 지방노동위 판단을 받아들여 교섭 사실 공고에 나섰다. 지난 3일 한국원자력연구원과 한국원자력안전기술원은 교섭 요구 사실을 공고했다. 이는 하청 노조와 교섭하겠다는 뜻이다. 민간 기업에선 “기울어진 운동장에서 의미 없는 싸움이 될 것 같다”는 말도 나온다.&lt;br&gt;&lt;br&gt;노동위(지노위·중노위) 결정에 불복해 행정소송을 진행해 다툴 수 있지만, 2심에 해당하는 중노위 결정 후 교섭 사실 공고를 하지 않으면 부당 노동 행위로 처벌받는 것도 문제로 지적된다. 한국경영자총협회 측은 “기업이 교섭 요구 사실을 공고하는 건 사용자성을 인정하는 행위라 신중할 수 밖에 없다”며 “사용자성을 다투는 과정에서 미공고에 따른 처벌이 이뤄지는 건 원청 업체의 권한을 지나치게 제약하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘1분 단위’로 출퇴근 시간 조절… “급할 때 아이 곁 지켰죠”</title>
-      <link>https://www.chosun.com/national/education/2026/04/10/UHVBQNXUSJEM5CAIFSHRMPKT3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/10/UHVBQNXUSJEM5CAIFSHRMPKT3Y/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FS5QEY4DYFFPFLJYQYIOQN7HO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신세계아이앤씨 직원들이 서울 역삼동 본사에서 자녀들과 웃고 있다. 이 업체는 여성 사원들에게 임신 기간 재택근무를 허용하는 등 일과 가정을 병행할 수 있는 다양한 지원 제도를 운영하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신세계아이앤씨(I&amp;amp;C)에 다니는 조아람(35)씨는 아들(5)과 딸(4)을 임신했을 때 줄곧 재택근무를 했다. 근무 시간도 2시간 줄었다. 덕분에 임신 기간 몸에 큰 무리 없이 회사 일을 할 수 있었다. 조씨는 출산 후 회사에 복귀한 이후에는 근무 시간을 유연하게 조정하는 제도를 활용해 하루 7시간(주 35시간)만 근무하고 있다. 오후 4시에 퇴근해 두 자녀를 어린이집에서 데려올 수 있는 것이다. 조씨는 “둘째 아이를 연년생으로 갖게 되면서 첫째를 제대로 돌보지 못할까 걱정했는데 둘째 임신 때도 재택과 단축 근무를 하면서 아이를 돌볼 수 있었다”며 “회사 복직 후에도 유연 근무제로 아이와 단단한 애착을 형성하며 일할 수 있다는 게 다행”이라고 했다. &lt;br&gt;&lt;br&gt;신세계그룹 IT 계열사인 신세계아이앤씨는 임신부터 출산·육아 등 생애 주기에 따라 직원들이 안심하고 업무에 집중할 수 있도록 다양한 지원 제도를 운영하고 있다. 이런 지원 시스템은 직원이 아이를 갖게 된 시점부터 가동된다. 모든 여성 직원은 임신 전(全) 기간 동안 임금 삭감 없이 하루 2시간 단축 근무를 할 수 있다. 근로기준법상 여성 근로자는 임신 12주 이내 또는 32주 이후에 회사에 단축 근무를 신청할 수 있지만 회사 차원에서 그런 제한을 두지 않은 것이다. 또 출퇴근이 힘든 임신부들을 배려해 임신 시점부터 출산 전까지 횟수 제한 없이 재택근무를 허용하고 있다. 통상 다른 기업에서는 임신한 직원이라도 일정 기간만 재택근무가 가능하거나 재택 횟수 제한을 두는 경우가 많다. &lt;br&gt;&lt;br&gt;2024년에 아들을 출산한 사원 정서희(34)씨는 “임신 초기 입덧이 심해서 걷기만 해도 속이 울렁거려 출근이 힘들었는데 이후부터 재택근무를 하며 어려운 시기를 무사히 넘길 수 있었다”며 “다른 회사에 다니는 친구들도 ‘임신 전 기간 재택근무’를 가장 부러워한다”고 했다. &lt;br&gt;&lt;br&gt;IT 분야 특성상 남자 직원이 많았던 신세계아이앤씨는 2010년대 중반 들어 여성 직원이 늘자 출산과 육아 관련 복지 제도를 강화하기 시작했다. 현재 여성 직원 비율은 30%대다. 특히 최근 IT 기업 간 고급 개발 인력 유치 경쟁이 치열해지면서 우수 인재들이 육아 부담으로 경력이 단절되지 않도록 지원하는 게 더 중요해졌다. 회사는 각종 육아·출산 지원 제도를 통해 가족 친화적 근무 환경을 정착시킨 공로를 인정받아 지난해 ‘가족친화 우수기업’ 대통령 표창을 받았다. &lt;br&gt;&lt;br&gt;회사는 출산 이후 육아와 업무를 병행해야 하는 직원들을 위해 개인 여건에 맞춰 근무 시간 등을 조정할 수 있는 유연 근무제도를 늘려가고 있다. 대표적으로 ‘선택적 근로시간제’를 활용하면 1분 단위로 출퇴근 시간을 스스로 설정할 수 있다. 예를 들어 오전 8시 49분에 출근한 날은 오후 5시 49분에 퇴근하는 식이다. 개인 사정으로 일찍 퇴근할 경우 해당 월의 다른 날에 그만큼 더 근무하면 된다. 회사에 따르면 전체 직원의 91%(2024년 기준)가 이 제도를 활용하고 있다. 프로젝트 등으로 주 52시간 이상 근무할 경우 초과 근무 시간만큼을 휴가로 적립해 나중에 몰아서 쉴 수 있는 ‘보상 휴가제’도 직원들에게 인기다. &lt;br&gt;&lt;br&gt;이런 다양한 유연 근무 제도는 특히 ‘아빠 사원’들의 육아 참여를 이끄는 원동력이 되고 있다. 사원 정창석(34)씨는 매일 경기 동탄 집에서 서울 역삼동 사무실까지 편도 1시간 넘는 거리를 출퇴근한다. 그런데 아침마다 아내 대신 두 살 딸을 어린이집에 데려다주고 출근한다. 자유롭게 출근 시간을 정하는 ‘선택적 근로시간제’ 덕분에 눈치 보지 않고 다른 직원보다 늦게 사무실에 출근할 수 있기 때문이다. 아내가 임신 중 몸 상태가 나빠졌을 때 보상휴가제를 활용해 연차 사용 없이 아내를 병원에 데려다줄 수 있었다. &lt;br&gt;&lt;br&gt;정씨는 최근 6개월간 육아 휴직을 다녀왔다. 그는 “휴직 기간에도 휴양비 지원과 호텔 숙박 혜택 등 사내 복지 제도를 이용할 수 있어서 큰 경제적 부담 없이 아이와 추억을 쌓을 수 있었다”며 “아이가 걷기 시작할 무렵 매일 걸음마 연습을 시키며 집 주변을 산책한 게 가장 기억에 남는다”고 했다. &lt;br&gt;&lt;br&gt;신세계아이앤씨는 자녀가 초등학교에 입학하면 그해 한 달간 휴직할 수 있는 ‘초등 자녀 입학 돌봄 휴직제’도 운영하고 있다. 회사에서 집이 먼 직원들을 위해 서울뿐 아니라 경기 일산, 분당 등 3곳에 푸르니보육지원재단과 직장 어린이집을 공동 운영하고 있다.&lt;br&gt;&lt;br&gt;세 살 자녀를 일산의 직장 어린이집에 보내는 한 직원은 “아이가 집에서 가까운 어린이집을 다니니 덜 피곤해하고 회사에 출근하는 길도 부담스럽지 않다”며 “모든 준비물을 어린이집에서 마련해 준다는 점도 아침에 바쁜 맞벌이 부부에게 큰 장점”이라고 했다. &lt;br&gt;&lt;br&gt;이진 신세계아이앤씨 인사 담당은 “뛰어난 인재를 유치하고 이들이 역량을 마음껏 펼치게 하는 힘은 결국 ‘일과 가정의 균형’에서 나온다”며 “좋은 복지 제도를 마련하는 데 그치지 않고, 제도가 실제로 제대로 활용되는 조직 문화가 정착되도록 노력하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
