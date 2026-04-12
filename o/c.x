@@ -13,6 +13,133 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>월요일 최고 26도, 완연한 봄…큰 일교차 주의</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/12/OKQMJQW2DZGJXODGIH7RAHC67U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/12/OKQMJQW2DZGJXODGIH7RAHC67U/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 04:32:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSWGZBRME2WKZBRMZTGGMTGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 경남 창녕군 남지읍 창녕낙동강유채단지에서 열린 '제21회 창녕 낙동강유채축제'를 찾은 상춘객이 봄기운을 봄기운을 만끽하고 있다./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 13일은 낮 최고 기온이 26도까지 올라가는 등 포근한 봄 날씨가 나타나겠다. 다만 낮 동안 햇볕이 강해진 상황에서 찬 공기가 밤 기온을 끌어내려 낮·밤의 기온 차가 15도 가량 벌어지는 등 큰 일교차를 나타내겠다.&lt;br&gt;&lt;br&gt;12일 기상청에 따르면, 월요일 중부 지방은 대체로 맑다가 오후부터 구름이 많아지고 남부 지방도 오후 늦게부터 흐려지겠다. 제주도와 전남 남해안, 경남 서부 남해안엔 오전부터 비가 내릴 것으로 전망된다. 예상 강수량은 전남 남해안과 경남 남해안이 5㎜ 미만, 제주도가 5∼30㎜다. 기상청은 “제주도를 비롯한 일부 지역엔 바람이 순간풍속 시속 55㎞ 안팎으로 강하게 부는 곳이 있어 시설물 관리와 안전사고에 유의해달라”고 했다.&lt;br&gt;&lt;br&gt;아침 최저 기온은 7~13도, 낮 최고 기온은 15~26도로 예보됐다. 서울이 9~26도를 기록하는 것을 비롯해 대전 10~26도, 광주 11~24도, 부산 13~20도, 대구 11~23도를 나타내겠다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이원석 전 검찰총장 “국정조사야말로 보복·편파·강압수사”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/12/SRB3XWZF3ZEX7FKZXI3AMP7BKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/12/SRB3XWZF3ZEX7FKZXI3AMP7BKU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 03:16:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRGMYZZGQYDEZLGMI3WCMTCME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 전 검찰총장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이원석 전 검찰총장이 국회 ‘윤석열 정권 조작기소&lt;b&gt; &lt;/b&gt;의혹 사건 국정조사’ 출석을 앞두고 “이번 국정조사야말로 보복·표적·기획·편파·강압 수사”라며 “앞으로 살아 있는 권력에 대한 수사와 재판은 없을 것”이라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이 전 총장은 12일 언론에 A4 용지 2장 분량의 입장문을 배포하고 “이번 국정조사는 수년간 수십~수백회에 걸쳐 법원의 증거 조사와 판단이 이루어진 사실관계와 법리를 단 며칠 만에 송두리째 뒤집고 있다”며 “법원에서 인정된 증거는 배제되고 유죄판결을 받은 피고인들의 일방적 주장과 편향된 일부 반대 증거만을 전면에 내세워 국회가 단정적으로 ‘조작 기소이자 무죄’라고 판결까지 내리고 있다”고 했다. &lt;br&gt;&lt;br&gt;이번 국정조사는 헌법과 법률을 위반한 조치라고도 했다. 이 전 총장은 “판결이 선고되거나 재판 중인 사건, 심지어 대법원 판결이 확정된 사건 등에 대해 국회로 ‘법원의 법정’을 들어 옮겼다”며 “입법부가 사실상 사법부 역할을 맡아 재판을 해 헌법상 삼권분립 원칙에 반한다”고 했다. 또 이번 국정조사가 ‘국회의 감사나 조사는 재판과 수사에 관여할 목적으로 행사돼서는 안 된다’고 규정한 국정감사 및 조사에 관한 법률에 어긋난다는 문제도 지적했다.&lt;br&gt;&lt;br&gt;이 전 총장은 “정치권에 대한 수사를 했다는 이유로 현직 검사 40여 명을 증인으로 불러 죄인처럼 추궁하는 것은 수사와 재판에 외압을 가하여 사법 시스템을 크게 위축시키는 것”이라며 “이러한 국정조사가 진행된다면 앞으로 정치권과 권력에 대한 수사와 재판을 맡아 수행할 검사와 판사는 단연코 없을 것”이라고도 했다.&lt;br&gt;&lt;br&gt;이 전 총장은 윤석열 정부가 출범한 2022년 5월 대검 차장검사로서 총장 직무대리를 맡다가 그해 9월 총장으로 취임한 뒤 2024년 9월까지 2년 4개월간 검찰 수장을 맡았다. 서해공무원 피살 은폐 사건, 쌍방울 대북송금 사건, 대장동 개발비리 의혹 등 이번 국정조사의 대상이 되는 사건에 대한 수사가 이때 이뤄졌다. 국정조사에 증인으로 채택돼 오는 16일 출석할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>적법 절차 안 지킨 ‘병역 기피자’ 신상공개... 법원 “병무청 처분은 위법”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/12/KIL4QUCZBZD3DAEWBPHWSYPXTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/12/KIL4QUCZBZD3DAEWBPHWSYPXTM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 03:19:34 +0000</pubDate>
+      <content:encoded>병역 의무자에게 요건을 갖추지 못한 공시 송달 방법으로 사전 통지서를 보낸 뒤 병역의무 기피자로 인적 사항을 공개한 병무청 처분을 취소하라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4DIZRYG5RWGZLFGEZWEMRUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경./서울가정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 서울행정법원 행정12부(재판장 강재원)는 20대 남성 이모씨가 병무청장을 상대로 낸 인적 사항 공개 처분 취소 소송에서 지난 2월 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;이 사건은 이씨가 대체역 편입을 신청한 게 발단이 됐다. 이씨는 2019년 병역판정검사에서 현역병 입영 대상자 판정을 받았으나 양심의 자유를 이유로 대체역 편입을 신청했고, 2021년 2월 대체역으로 편입됐다. 병무청은 이듬해 11월 이씨에게 대체복무 교육센터에 입소하라는 내용의 통지서를 보냈지만, 이씨는 ‘현행 대체복무가 징벌적이라고 생각해 받아들일 수 없다’는 입장 표명서를 보내고 소집 일자에 나타나지 않았다.&lt;br&gt;&lt;br&gt;병무청은 2024년 2월 이씨를 병역의무 기피자 인적 사항 잠정 공개 대상자로 선정하고, 소명서를 제출하라는 내용의 사전 통지서를 이씨의 주민등록상 주소지로 두 차례 보냈다. 그러나 통지서는 모두 반송됐다. 이후 병무청은 사전 통지서를 직접 방문해 받아 가라는 내용의 공고를 홈페이지에 올리는 방법으로 이씨에게 사전 통지서와 소명 서식을 공시 송달했고, 2024년 12월 이씨의 인적 사항과 기피 요지 등을 병무청 홈페이지에 게시했다. 이에 이씨는 병무청의 인적 사항 공개 처분을 취소해 달라며 행정소송을 낸 것이다.&lt;br&gt;&lt;br&gt;이씨는 사전 통지서를 받지 못해 소명서를 제출할 기회가 없었고, 공시 송달의 효력이 발생하기 전에 병무청이 처분을 내렸다며 절차상 위법을 주장했다. &lt;br&gt;&lt;br&gt;법원은 이씨의 주장을 받아들여 병무청의 공개 처분에 절차적 하자가 있어 위법하다고 판단했다. 구체적으로 재판부는 병무청이 병적조회서를 통해 이씨의 주소지와 휴대전화 번호 등을 확보했음에도 이씨의 다른 주소지 등을 확인하는 시도를 하지 않은 채 곧바로 공시송달을 진행한 것이 문제라고 봤다. 재판부는 “이 사건 공개처분은 공개대상자의 명예 등 인격권을 제한하는 침익적 처분이기 때문에 사전통지 및 의견 청취 절차와 관련한 통지서를 송달함에 있어서 공시송달 요건 충족 여부는 엄격하게 해석돼야 한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>75세 이상 시민, 버스 요금 무료… 인천시, 하반기 시행</title>
+      <link>https://www.chosun.com/national/regional/2026/04/12/LSADOXHPUNA25OBE7GJD6CNAKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/12/LSADOXHPUNA25OBE7GJD6CNAKI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 04:08:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZTIZJXGU4DKNRQHEZTEMBVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 올 하반기부터 지역 75세 이상 시민들에게 시내버스 요금을 받지 않는다. &lt;br&gt;&lt;br&gt;인천시는 올 하반기 지하철 무임 카드인 시니어 프리패스를 ‘i(아이)실버 패스’로 교체 발급해 카드 1장으로 지하철과 시내버스를 모두 무료로 이용할 수 있게 할 계획이라고 12일 밝혔다. &lt;br&gt;&lt;br&gt;인천시는 노인들의 가계 부담 완화와 이동권 보장 등을 위해 이번 정책을 추진하게 됐다고 설명했다. &lt;br&gt;&lt;br&gt;이번 정책이 시행되면 약 22만명이 혜택을 볼 것으로 예상되고 있다. 인천시는 이를 위해 올해 170억원의 사업비를 투입할 계획이다. &lt;br&gt;&lt;br&gt;인천시는 지난달 카드의 디자인을 확정했고, 현재 카드 제작과 교통카드 단말기 시스템 개선 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “하반기 시행에 차질이 없도록 잘 준비해 나가겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연세대서 공연 매표 인파 넘어져... 20대 외국인 병원 이송</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/PEXYE5UJANHCTOSQPYLXY6WQN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/PEXYE5UJANHCTOSQPYLXY6WQN4/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 04:02:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WEYJSMM4GGY3DG5SWGNJVGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연세대학교 정문 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 연세대학교에서 인파 밀집 사고가 발생해 외국인 여성 1명이 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;12일 소방 당국에 따르면 이날 오전 7시 8분쯤 연세대 대강당 앞에 ‘2026 LOVESOME 조선미술관 뮤직페스티벌’ 매표 대기 인파가 몰리며 관객들이 넘어지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 20대 외국인 여성이 턱에 찰과상을 입고 인근 병원으로 이송됐다. 이외 타박상 등을 입은 관객 23명도 현장에서 응급 처치를 받았다. 경찰과 소방 등은 인원 115명과 장비 17대를 동원해 현장 대응에 나섰다.&lt;br&gt;&lt;br&gt;이 공연은 11~12일 연세대 노천극장에서 진행된다. 로이킴, 멜로망스, 장범준, 아이돌 그룹 라이즈 등이 출연한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나도 어려웠다” 안정환, 유튜브 수익금 4억 전액 기부한 이유</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/5ZTWYA5TUFFLBBE4EK7CDP3PVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/5ZTWYA5TUFFLBBE4EK7CDP3PVQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 03:56:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKL5BP2S7JC5VGRVB4BCQJH3UI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 안정환. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 국가대표 출신 방송인 안정환이 유튜브 수익금 4억 3600만원 전액을 기부한 이유를 밝혔다. &lt;br&gt;&lt;br&gt;안정환은 지난 11일 선공개된 tvN ‘유 퀴즈 온 더 블록’ 영상에서 “유튜브를 처음 시작할 때 취지가 재능 기부 형식으로 아이들에게 제가 가지고 있는 것을 몸이 허락하는 한 알려주고 싶었다”며 “하다 보니까 좀 더 어려운 환경에 있는 친구들을 도와줄까 하다가 여기까지 온 거다”라고 밝혔다. &lt;br&gt;&lt;br&gt;진행자인 유재석은 “기부한 곳이 어려운 조손 가정이나 유소년 꿈나무, 주로 청소년 관련된 곳에 기부하셨다고 한다”라고 설명했다. &lt;br&gt;&lt;br&gt;이에 대해 안정환은 “친구들이나 후배들, 선배들이 지도자를 많이 한다. 그 환경에 어려운 친구들이 많다. 그리고 축구하는데 돈이 되게 많이 든다”며 “나도 어렸을 때 그렇게 넉넉하지 않은 편이어서 도와주면 좋을 것 같다는 생각을 했었다. 그러면서 작게 한 게 지금까지 오게 됐다”라고 했다. &lt;br&gt;&lt;br&gt;안정환이 운영하는 유튜브 채널 ‘안정환 19’는 운영 5년 만인 지난 3월 누적 기부 금액 4억 3600만원을 달성한 사실을 알렸다.&lt;br&gt;&lt;br&gt;당시 안정환은 “힘들다. 경기가 어려워 현실적으로 좀 많이 어렵다. 그래서 저희가 시간이 좀 오래 걸렸다”면서 “저희가 이제 5억을 채우려고 지금 노력을 하고 있는데 쉽지 않다. 여러 가지 어려움이 있는데 그래도 최선을 다해서 하고 있으니까 많은 성원 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;2002년 한일 월드컵 4강 신화의 주역인 안정환은 1998년 부산 대우 로얄즈(현 부산 아이파크)에서 프로 데뷔 후 이탈리아, 일본, 프랑스, 독일, 중국 등 여러 리그를 거치며 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘환자 사망’ 양재웅 병원, 결국 폐업… 3개월 업무정지 직후 신고</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/DJPO7VGEPFHS3FDFIKGW7TWYSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/DJPO7VGEPFHS3FDFIKGW7TWYSM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 01:17:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ANNCKKP2JCPNIZHK6ZKT5QYPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국감 출석 당시 양재웅. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 정신과 의사 양재웅(44)이 운영하던 병원이 환자 사망 사고로 인한 업무정지 기간이 끝난 직후 폐업 신고를 한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;12일 경기 부천시보건소는 양재웅이 운영해 온 경기도 부천의 A병원이 지난 1일 폐업을 신고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A병원은 지난해 말부터 입원 환자를 모두 전원 조치하고, 입원을 희망하는 환자들에게도 다른 병원을 안내하는 등 폐업 준비를 해왔다. &lt;br&gt;&lt;br&gt;2010년 7월 부천에서 개원한 A병원은 2024년 5월 마약류 성분이 포함된 다이어트약 중독 치료를 받던 30대 여성이 입원 17일 만에 숨진 사실이 알려지면서 논란이 됐다. 담당 주치의와 간호사 4명 등 5명은 환자 관찰을 소홀히 한 혐의 등으로 재판을 받고 있다. &lt;br&gt;&lt;br&gt;경기 부천시보건소는 지난해 12월 의료진의 무면허 의료 행위(의료법 위반) 등이 적발됐다며 A병원에 대해 올해 1월 1일부터 3월 31일까지 업무정지 처분을 내렸다.&lt;br&gt;&lt;br&gt;한편 양재웅은 정신건강의학과 전문의로 다양한 방송 프로그램에 패널로 출연해 얼굴을 알렸다. 그는 정신건강의학과 전문의인 형 양재진과 함께 유튜브 채널도 운영했다.&lt;br&gt;&lt;br&gt;양재웅은 지난 2024년 10살 연하의 그룹 EXID 출신 배우 하니(본명 안희연·34)와 결혼을 발표했으나, 해당 사건이 불거진 후 결혼식을 연기했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘도 소방관 2명 잃었다... 완도 수산물 가공공장 화재 진화중 순직</title>
+      <link>https://www.chosun.com/national/regional/2026/04/12/64NAGUWZTNE6JOKCD75TMCTPLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/12/64NAGUWZTNE6JOKCD75TMCTPLM/</guid>
+      <dc:creator>조홍복 기자, 완도=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 01:52:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRELXGE5ZZIUBE5NKPUVBD66BE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 8시 25분쯤 전남 완도군 군외면 원동리의 한 냉동창고에서 불이 나 소방당국이 진화작업을 벌이고 있다 / 전남소방본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 완도 수산물 가공 공장 냉동 창고에서 불이 나 진화·인명 검색에 투입된 뒤 고립됐던 소방대원 2명이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;12일 전남소방본부에 따르면, 이날 오전 8시 25분쯤 전남 완도군 군외면 원동리에 있는 수산물 가공·제조 업체 냉동 창고에서 원인을 알 수 없는 화재가 발생했다. 신고를 받은 소방 당국은 오전 8시 31분쯤 선착대를 도착시키고 진화 작업에 나섰다. &lt;br&gt;&lt;br&gt;소방 당국은 인명 피해 여부를 확인하기 위해 창고 내부로 진입했다. 오전 9시 2분쯤 현장 활동 중이던 대원 2명이 연락이 끊겨 고립됐다.&lt;br&gt;&lt;br&gt;소방 당국은 즉시 ‘대응 1단계’를 발령하고 인력 115명과 장비 39대를 투입해 구조에 나섰다. 오전 10시쯤에는 동료 소방관을 구조하기 위한 전문 조직인 신속 동료 구조팀(RIT)이 현장에 도착해 집중 수색을 벌였다.&lt;br&gt;&lt;br&gt;수색 과정에서 고립됐던 대원 1명이 이날 10시 2분쯤 숨진 채 발견됐다. 소방 당국은 곧바로 발견되지 않은 나머지 대원 1명을 찾기 위해 사력을 다했으나, 이 대원도 오전 11시 23분쯤 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;화재가 발생한 냉동창고는 내부 단열재인 우레탄폼 등이 타면서 배출되는 강력한 유독가스와 짙은 연기로 인해 수색 작업에 난항을 겪는 것으로 전해졌다. 불은 이날 오전 11시 26분쯤 완전히 진화됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AZPG65M3URGZRPQGBSOI4IKP4Y.gif?auth=c041bf9138a762ba529d8acade53f5cf36051bd78c3272d045f6517d25529e48&amp;smart=true&amp;width=924&amp;height=520" type="image/jpeg" height="520" width="924"/>
+    </item>
+    <item>
+      <title>다른 재판서 얻은 상대방 소득정보 증거로 낸 변호사... 대법 “정당행위... 위법 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/12/U23FSQNWOFFCJAFKJIDY4CEYJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/12/U23FSQNWOFFCJAFKJIDY4CEYJ4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 03:21:12 +0000</pubDate>
+      <content:encoded>변호사가 다른 재판에서 취득한 타인의 금융 및 소득 관련 정보를 증거로 제출한 것은 정당 행위에 해당해 위법성이 인정되지 않는다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTSODBMM4GCMRQGJSDMNDEGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 대법원 1부(주심 마용주 대법관)는 금융실명법·개인정보보호법 위반 혐의로 기소된 변호사 A씨에 대해 선고유예를 내린 원심 판결을 파기하고 사건을 서울중앙지법에 돌려보냈다. 선고유예란 유죄는 인정하지만 범죄 정황이 경미해 일정 기간 형의 선고 자체를 미루는 것을 뜻한다.&lt;br&gt;&lt;br&gt;민사 소송의 피고 측을 대리한 A씨는 2023년 1월 재판 과정에서 상대 원고의 금융 및 소득 정보를 취득해 이를 다른 재판의 증거로 제출한 혐의를 받는다. A씨가 소송을 대리한 피고들은 2022년 두 원고로부터 각각 체불 임금 및 퇴직금 지급 청구 소송을 당했는데, A씨는 두 소송을 동시에 대리하며 각 원고의 계좌 거래 내역 및 소득 금액 증명 정보를 교차로 활용한 것으로 조사됐다. 첫 번째 사건 원고의 정보를 두 번째 사건 재판부에 제출하고, 두 번째 사건 원고의 정보를 첫 번째 사건 재판부에 제출하는 방식이다.&lt;br&gt;&lt;br&gt;1·2심은 A씨의 행위를 유죄로 판단했다. A씨가 각 재판부에 제출명령을 재차 신청하는 등 적법한 절차를 거쳐 자료를 제공받을 수 있었으므로 이를 정당한 행위라고 볼 수 없다는 것이다. &lt;br&gt;&lt;br&gt;하지만 대법원은 원심 판단을 뒤집었다. 재판부는 “(A씨의 행위가) 옛 금융실명법·개인정보보호법 위반 혐의의 구성요건에 해당하더라도 사회상규에 위배되지 않는 행위에 해당해 위법성이 조각된다고 볼 소지가 충분하다”고 판시했다. &lt;br&gt;&lt;br&gt;형법 20조는 법령에 의한 행위 또는 업무로 인한 행위, 기타 사회상규에 위배되지 아니하는 행위는 벌하지 않는다고 규정한다. 재판부는 “두 민사 사건의 주요 쟁점과 사실관계, 증거가 공통되고 원고들의 동일한 주장을 반박하기 위해 A씨가 (원고들의) 거래 내역, 소득 금액 증명 등을 증거로 제출할 필요가 있었다고 보인다”며 “정당한 소송행위의 일환으로 평가할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>트와이스 모모, 결국 치아 발치까지… 다현, 발목 골절 이어 ‘혹사 논란’</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/C5R73AAIKVCT5PLI674IAAOHFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/C5R73AAIKVCT5PLI674IAAOHFA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 02:27:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYWMNLFMZQTKMLDHAZTCM3CGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;트와이스 멤버 모모. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 트와이스의 멤버 모모가 월드투어 일정 중 치아를 발치한 소식을 알려 ‘트와이스 혹사 논란’이 다시 불거지고 있다. &lt;br&gt;&lt;br&gt;12일 연예계에 따르면, 모모는 최근 팬 소통 플랫폼을 통해 미국 시카고 공연 중 갑자기 이를 빼게 됐다며 “너무 부어 보여도 이해해 달라”는 당부의 글을 남겼다.&lt;br&gt;&lt;br&gt;모모는 “시카고 공연 때 이가 너무 아팠다. 아침에 시카고 치과에 갔는데 치료는 한국에 가야 할 수 있었다”며 현실적으로 치료를 위해 한국에 갈 수 없었고, 너무 아파서 진통제를 먹더라도 공연을 정상적으로 할 수 없을 것 같아서 발치를 했다고 밝혔다. &lt;br&gt;&lt;br&gt;모모는 “원래는 뺄 정도는 아닌데 한국에 갈 수 없고 공연은 해야 하니까 치과에서 고민하다 뺐다”고 부연했다.&lt;br&gt;&lt;br&gt;모모의 팬들은 ‘뺄 정도가 아니었던 치아’를 월드투어 강행군 때문에 뽑아야 했다며 소속사를 향해 비판을 쏟아내고 있다. &lt;br&gt;&lt;br&gt;트와이스는 현재 전 세계 43개 지역에서 총 78회 공연을 펼치는 자체 최대 규모 월드 투어 ‘디스 이즈 포’(THIS IS FOR)를 진행하고 있다. &lt;br&gt;&lt;br&gt;이 과정에서 멤버 다현은 지난 2월 발목 골절 부상을 입어 북미 공연에 불참한 바 있다. 다현은 이후에도 부상이 호전되지 않아 지난 3월 잠정 활동 중단을 선언했다. 멤버 채영 역시 건강 문제로 일부 일정에 불참했다. &lt;br&gt;&lt;br&gt;한편 트와이스는 2015년 데뷔한 3세대 대표 K팝 걸그룹이다. 치얼업(Cheer Up), 티티(TT), 왓 이즈 럽? (What is Love?) 등 다수 히트곡으로 사랑받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 앞바다서 나 홀로 조업, 50대 선장 실종… 해경 수색</title>
+      <link>https://www.chosun.com/national/regional/2026/04/12/WG23UFQ5B5H37DPHXUHMZU6OX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/12/WG23UFQ5B5H37DPHXUHMZU6OX4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 02:42:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNTWCMYIM5CGLMP7D6ZKAZZEDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 부산 앞바다에서 승선원 없이 표류 중인 어선. /부산해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 앞바다에 홀로 조업을 나선 50대 선장이 실종됐다는 신고가 접수돼 해경이 수색에 나섰다. &lt;br&gt;&lt;br&gt;12일 부산해양경찰서에 따르면, 이날 오전 5시 32분쯤 부산 사하구 북형제도 동쪽 2㎞ 해상에서 승선원 없이 표류 중인 부산 다대 선적 2.99t 연안 자망 어선 A호가 발견됐다.&lt;br&gt;&lt;br&gt;부산해경은 A호 선장 B(55)씨의 가족으로부터 ‘전화 연락이 안 된다’는 신고를 접수하고 소재 파악에 나선 상태였다. A호는 전날 오후 6시 26분쯤 출항했다고 한다.&lt;br&gt;&lt;br&gt;부산해경은 경비함정과 연안 구조정, 중앙해양 특수구조단, 부산항공대 헬기, 어업관리단 무궁화호를 비롯해 해양 재난 구조대 민간 선박 4척 등을 투입해 사고 해역 일대를 수색하고 있다.&lt;br&gt;&lt;br&gt;부산해경 관계자는 “발견 당시 선체 충돌 흔적은 없었다”며 “실종자 구조에 주력하는 한편 주변 선박과 가족 등을 대상으로 사고 경위를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 송파구 올림픽훼밀리타운, 최고 26층 6787가구 단지로 재탄생</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/12/LM5IX7EMT5AFTPUVVWBOUBBSTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/LM5IX7EMT5AFTPUVVWBOUBBSTY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 02:46:30 +0000</pubDate>
+      <content:encoded>서울 송파구 ‘올림픽훼밀리타운’ 아파트가 최고 26층 6787가구 대단지로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDPI3O56SVHRXEHDQY5VPZBWHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;올림픽훼밀리타운 재건축 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 10일 제5차 도시계획위원회를 열고 이 같은 내용의 ‘올림픽훼밀리타운 재건축사업 정비계획 결정안’을 통과시켰다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;올림픽훼밀리타운 아파트는 1988년 지은 4494가구 단지 아파트다. 지하철 3·8호선 가락시장역과 8호선 문정역이 인근에 있고, 송파대로와 탄천이 단지 양옆으로 붙어 있다.&lt;br&gt;&lt;br&gt;계획안에 따르면, 올림픽훼밀리타운 아파트는 최고 26층 6787가구 단지로 재건축한다. 그중 796가구가 공공 주택이다.&lt;br&gt;&lt;br&gt;탄천 인근에는 21층 이하 동을 배치하고, 단지 중앙과 북쪽으로 갈수록 층수가 자연스럽게 높아지도록 할 계획이다.&lt;br&gt;&lt;br&gt;가락시장역 인근에는 누구나 이용할 수 있는 사회 복지 시설과 공공 체육 시설 등을 조성한다. 단지 서쪽에 생기는 탄천 덮개공원과 연결되도록 단지 북쪽에 있는 숯내공원도 확장한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “대규모 주택 공급으로 주변 주택 시장 안정에 기여할 것으로 예상한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김민석 총리 “완도 화재 소방관 구조 최선” 긴급 지시</title>
+      <link>https://www.chosun.com/politics/goverment/2026/04/12/YSKZYRM63NBZLNOPBUENUMGDNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/12/YSKZYRM63NBZLNOPBUENUMGDNM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 02:09:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2TSMLBGFSTOZDGMYZDKYLGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 12일 아침 전남 완도군에서 일어난 냉동 창고 화재 진압 중 소방대원들이 고립된 데 대해 “가용한 모든 장비와 인력을 동원해 고립된 소방공무원 구조에 최선을 다하라”고 지시했다.&lt;br&gt;&lt;br&gt;국무총리실에 따르면, 김 총리는 이날 완도군 화재 진압 중 구조대원 1명과 진압대원 1명이 고립됐다는 상황을 보고받고 이 같은 긴급 지시를 하달했다.&lt;br&gt;&lt;br&gt;김 총리는 “추가 인명피해가 발생하지 않돌고, 현장 활동 중인 화재진압대원 등 소방공무원의 안전에 만전을 기하고, 현장 통제와 주민 대피 안내 등 안전 조치도 철저히 하라”고 했다.&lt;br&gt;&lt;br&gt;이날 오전 8시 25분쯤 전남 완도군 군외면 한 냉동 창고에서 불이 나 이를 진압하던 소방관 2명이 냉동 창고에 고립됐다. 1명은 숨진 채 발견됐다. 나머지 1명은 소방 당국이 수색 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 12·29 여객기 참사 현장 250명 투입해 전면 재수색</title>
+      <link>https://www.chosun.com/politics/goverment/2026/04/12/6MA6ADCOEJEEDLXJEQGK7O6MP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/12/6MA6ADCOEJEEDLXJEQGK7O6MP4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Apr 2026 01:30:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFTLK324TBIDVHNATKU5F2WLIY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 전남 무안군 무안국제공항에서 제주항공 여객기 참사 유가족들이 기체 잔해 재분류 작업에서 유해로 추정되는 물체가 발견되자 묵념하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 무안공항 제주항공 여객기 참사 미수습 유해를 찾기 위해 정밀 재수색을 진행한다고 발표했다.&lt;br&gt;&lt;br&gt;국무조정실 항공·철도사고조사위원회 사무국은 12일 “12·29 여객기 참사 현장에서 희생자 부분 유골 및 유류품이 추가로 발견됨에 따라, 유가족들과 협의를 거쳐 사고 현장 및 주변 지역에 대한 대대적인 정밀 재수색을 추진하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;재수색은 13일부터 두 달간 진행되고, 경찰관 100명, 군인 100명, 소방관 20명, 항철위·전남도·무안군·유가족 30여 명 등 250여 명이 투입된다.&lt;br&gt;&lt;br&gt;항철위는 “국방부 유해발굴감식단과 민간 발굴 전문가의 도움을 받아 발굴 및 감식의 노하우 전수 교육을 시행하는 등, 한 점의 유해나 유류품도 빠짐없이 수습할 수 있도록 만전을 기할 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤창렬 국조실장은 “이번 전면 재수색은 사고 당시 수습 과정에서 부족했던 점을 철저히 보완하고, 12·29 여객기 참사 희생자의 소중한 한 점 흔적도 놓치지 않기 위한 조치”라며 “민·관·군·경 범부처가 합동으로 정밀하고 투명하게 수색을 진행해 유가족께 신뢰할 수 있는 결과를 도출하겠다”고 했다.&lt;br&gt;&lt;br&gt;지난 2024년 12월 29일 무안국제공항에서 동체 착륙을 시도하던 제주항공 2216편이 활주로를 벗어나 착륙 유도 시설인 로컬라이저가 설치된 콘크리트 둔덕을 들이받았다. 이 사고로 탑승자 181명 가운데 179명이 숨졌다. 정부는 지난 1월까지 사고 사망자 유해를 수색했으나, 수색 종료 뒤인 지난 2월 여객기 잔해를 정리하는 과정에서 사망자 유해가 추가로 발견됐고, 유가족들이 전면 재수색을 요구해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>그네 세게 밀어 친구 중상 입힌 20대… 법원 “2억 배상해야”</title>
       <link>https://www.chosun.com/national/national_general/2026/04/12/BZQ6RGCZ3ZEVRBNDI76RBXEA3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/BZQ6RGCZ3ZEVRBNDI76RBXEA3U/</guid>
@@ -807,66 +934,6 @@
       </media:content>
     </item>
     <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 여성호르몬 복용해도 사망률엔 차이 없어… 부작용 걱정 말고 폐경 증후군 심하면 드세요</title>
-      <link>https://www.chosun.com/medical/2026/03/12/UNV4NWWE25BAXONQKTLQ7QUQWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/12/UNV4NWWE25BAXONQKTLQ7QUQWE/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>여성은 대개 45~55세 사이에 여성호르몬이 더 이상 나오지 않게 되면서 폐경을 겪는다. 폐경 후 평균 7년 동안 약 80%의 여성은 얼굴 홍조, 야간 식은땀, 불면증, 우울증 등 다양한 폐경 증후군을 겪는다.&lt;br&gt;&lt;br&gt;여성호르몬 투여는 폐경 증후군을 개선하는 데 효과적이지만 유방암, 자궁암 발생을 증가시키고, 혈액 내 혈전을 증가시키는 경향이 있어서 안전성에 대한 우려가 있다. 최근 영국의학회지에 여성호르몬의 장기 복용이 안전성의 최종 판단 기준인 사망률에 미치는 영향을 분석한 연구가 발표됐다.&lt;br&gt;&lt;br&gt; 연구는 덴마크에서 1950~1977년 사이에 태어난 건강한 여성 87만6805명을 대상으로 했다. 연구 대상자들의 여성호르몬 치료 유무를 조사한 후, 평균 14.3년을 관찰하면서 여성호르몬 복용에 따른 전체 사망률을 비교 조사했다.&lt;br&gt;&lt;br&gt; 조사 결과, 전체 대상자 중 11.9%가 여성호르몬을 복용하였는데, 여성호르몬을 복용한 여성과 복용하지 않은 여성의 전체 사망률비는 0.96으로 차이가 없었다. 복용 기간에 따라 분석해 보아도 1년 미만으로 복용한 경우나 10년 이상 복용한 경우나 사망률 차이가 없었다. 다만 45~54세에 양측 난소 절제술을 받은 여성은 여성 호르몬을 복용한 경우 전체 사망률이 약 30% 낮았다.&lt;br&gt;&lt;br&gt;폐경으로 인한 여성호르몬 부족은 폐경 증후군에 따른 다양한 불편함을 겪는 것에 그치지 않고, 양측 난소절제술 환자와 같이 일부에서는 여성호르몬을 복용하지 않으면 되레 사망률을 증가시킬 수도 있다. 여성호르몬의 부작용이 걱정된다고 복용을 무조건 피할 일은 아니다. 폐경 증후군이 심한 경우에는 여성호르몬 복용이 권장된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OB7YL3ZAMFB5DCCPXWFJ74BC5I.jpg?auth=30cef044b1ebadb4255f06996a337306a3600440cf4f7bd6610ffe1220ceb5de&amp;smart=true&amp;width=700&amp;height=467" type="image/jpeg" height="467" width="700">
-        <media:description type="plain">/게티이미지뱅크</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 근력 좋으면 사망률 낮아… 걷기만으론 한계</title>
-      <link>https://www.chosun.com/medical/2026/03/19/3ATH4HIFRBCELIQSC6HY24W3FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/03/19/3ATH4HIFRBCELIQSC6HY24W3FM/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Mar 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SS7FLIAZ75A4RLKPWFOQYMLOBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나이 들수록 몸이 아프고 피로하다면 근육 건강을 지켜야 할 때다. 건강을 지키려면 근력운동과 함께 단백질을 꾸준히 섭취하는 게 중요하다. / 게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나이가 들면 근육이 감소하고 근력도 지속적으로 떨어진다. 근력이 없어지면 움직이지 못해서 근육이 더 감소하고 근육이 감소하면 더욱 근력이 없어지는 악순환에 빠진다. 최근 미국의사협회지 네트워크판에 노인 여성에서 근력이 사망률에 미치는 영향을 조사한 연구 결과가 발표됐다.&lt;br&gt;&lt;br&gt; 연구는 보행이 가능한 63~99세 미국 여성 5472명을 대상으로 했다. 악력 검사를 통해서 상체 근력을, 의자 일어서기 검사 시간 측정을 통해서 하체 근력을 측정했다. 또한 연구 대상자들에게 활동 가속계를 부착시키고 하루 운동량과 앉아 있는 시간을 측정한 후, 평균 8.4년을 관찰하면서 대상자들의 사망률을 조사했다. 그 기간 중 총 1964명이 사망했다.&lt;br&gt;&lt;br&gt;연구 결과, 악력을 4단계로 분류했을 때 근력이 가장 낮은 1단계에 비해 2단계는 사망률이 6%, 3단계는 15%, 4단계는 33% 낮았다. 악력이 낮을수록 사망률이 높았다는 의미다. 의자 일어서기 경우도 1단계에 비해서 2단계는 21%, 3단계는 24%, 4단계는 37% 사망률이 낮았다. 하루 운동량과 앉아 있는 시간을 감안해도 근력이 좋을수록 사망률이 낮은 관계는 일정했다.&lt;br&gt;&lt;br&gt;근력이 있어야 운동을 효율적으로 함으로써 심폐기능을 유지할 수 있다. 근육 내의 혈액을 펌핑해서 혈액순환을 원활하게 할 수 있으며, 체내 염증을 신속하게 제거할 수 있기 때문에, 근력이 있는 사람은 사망률이 낮은 것으로 추정된다.&lt;br&gt;&lt;br&gt;건강 장수를 위해 열심히 걷는 사람이 많다. 이번 연구는 근력 증진 없이 걷는 것만으로는 사망률을 낮출 수 없다는 것을 시사한다. 근력이 수명이다. 꾸준히 근력 강화 운동을 하자.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 고지혈증 약 ‘스타틴’ 설명서에 적힌 부작용 66가지 중 실제론 4개만 유의미</title>
-      <link>https://www.chosun.com/medical/2026/04/09/6VDBKPZF6RDXVJPPIGNPUEAKOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/09/6VDBKPZF6RDXVJPPIGNPUEAKOM/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>약물 포장에 있는 약품 설명서의 부작용 리스트를 읽어보면, 부작용 종류가 너무 많아서 약을 먹어도 될지 겁이 날 때가 많다. 심혈관질환 예방과 치료를 위해 가장 널리 사용되는 콜레스테롤 저하제 스타틴 제제도 근육염, 당뇨병을 일으킬 수 있다고 되어 있고, 그 밖에 간효소 수치 이상, 부종, 인지장애, 우울증, 불면증, 간질성 폐렴, 말초신경염 등 무려 66가지 부작용을 포함하고 있다. &lt;br&gt;&lt;br&gt;최근 영국 옥스퍼드대 연구팀은 스타틴 제제의 부작용 리스트가 실제로 약제에 의해서 유발된 부작용인지를 검증해서 세계 최고 수준의 국제학술지 랜싯에 발표했다.&lt;br&gt;&lt;br&gt;연구는 무작위 맹검 비교 연구를 통해 스타틴 제제와 위약의 효능과 부작용을 비교한 총 19개의 연구를 종합 분석했다. 평균 63세 12만3940명의 자료를 평균 4.5년 추적 관찰했다.&lt;br&gt;&lt;br&gt;연구 결과, 스타틴 제제의 부작용으로 기록된 66개 항목 중에서 스타틴 제제군은 위약군에 비해서 간의 트랜스아미나제 효소 수치 상승을 41%, 기타 간효소 수치 상승을 26%, 단백뇨와 같은 소변검사 이상을 18%, 부종을 7% 더 일으켰다. 하지만 나머지 62개 부작용 발생률은 스타틴 제제와 위약군 간에 차이가 없었다. &lt;br&gt;&lt;br&gt;약품설명서에 기재된 부작용 리스트는 해당 약을 시판하면서 발생하는 모든 부작용을 정리해서 기록하기 때문에 그중 상당수는 실제로 해당 약제의 부작용이라기보다는 약을 복용하는 동안 우연히 발생했을 가능성이 높다. 먹고 있는 약의 효능과 주요 부작용을 충분히 인지하고 있으면, 약효를 제대로 볼 수 있다. 잔뜩 써 있는 부작용 리스트를 보고 너무 겁낼 일은 아니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CWHF4E3A4VANPNZFUA7W3W4HHE.jpg?auth=7df65eda188c95d7222e2d0f0265eb3b0f4ca81ef1d7130d65d6b2c81677dbe2&amp;smart=true&amp;width=500&amp;height=326" type="image/jpeg" height="326" width="500">
-        <media:description type="plain">//첨부용// 삽화 사건사고 약 약통 약품 의약 처방 제약</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘연이율 1만8250%’ 불법 사채 일당 검거...전화 폭탄으로 빚 독촉까지  </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/10/NJ6AWGWL4FDSTOG4JXIKOH25GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/NJ6AWGWL4FDSTOG4JXIKOH25GQ/</guid>
-      <dc:creator>윤성우 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 06:00:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRTEYLDHEYTCYJRMVTGMYRUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법으로 빚을 독촉하고 원금의 최대 182배 이자를 뜯어낸 일당이 경찰에 붙잡혔다. 10일 서울 마포경찰서는 불법대출 및 채권추심 일당 8명을 붙잡아 이중 4명을 구속하고, 4명을 불구속 상태로 검찰에 넘겼다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 대출이 급한 서민 600여 명에게 1741차례에 걸쳐 약 17억원을 빌려주고, 최대 연 1만8250%의 이자율을 적용해 수수료 명목으로 8억4000만원을 챙긴 혐의를 받는다. 현행 법정 최고금리는 연 20%다. &lt;br&gt;&lt;br&gt;일당은 범행을 철저히 분업화했다. 미등록 사무실에서 본인 및 타인 명의로 등록한 대부업등록증을 이용해 대부 중개 플랫폼에 광고한 뒤 고객과 전화 상담을 하는 ‘콜’, 고객을 직접 대면하여 상담을 진행하고 대출금을 지급하는 ‘출동’, 대출을 진행한 뒤 상환 일자 및 상환금액을 안내하는 ‘수금’ 등 역할을 나눴다.&lt;br&gt;&lt;br&gt;일당은 수사기관의 추적을 피하기 위해 피해자들에게 대부업체 상호를 밝히지 않거나 다른 업체 이름을 알려줬고, 가명과 대포폰·대포계좌를 사용했다. 이들은 지난해 1차 검거 당시 업장 대표에 대한 구속영장이 기각돼 석방되자, 새 사무실을 임차해 같은 수법으로 불법 사금융 영업을 이어갔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 일당은 피해자가 전화를 받을 때까지 전화를 수백 통씩 자동으로 반복해서 걸도록 하는 앱을 이용한 불법 추심 활동까지 벌였다.&lt;br&gt;&lt;br&gt;경찰은 “인터넷 사이트를 통해 비대면 대출을 받는 경우 불법 사채업자가 운영하는 대부업체로부터 고리 대출을 받게 될 가능성이 높고, 대출 이후에도 불법 추심을 당할 수 있어 주의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“다른 사람 살리고 싶어” 봉사 앞장서던 60대, 3명에 새 삶 선물 </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/10/WCLUGOYAGBBIDMGYYUGN7BCBHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/WCLUGOYAGBBIDMGYYUGN7BCBHE/</guid>
-      <dc:creator>윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 05:45:03 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQB3ITBZURGCTE5UR25OEUOASI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 폐와 양쪽 신장을 기증하고 세상을 떠난 정구견씨가 생전 산에 오른 모습. 그는 봉사단체 회장을 맡으며 이웃을 도왔다. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평소 꾸준한 봉사 활동으로 이웃을 돕던 60대 남성이 뇌사 장기 기증으로 3명에게 새 삶을 선물하고 세상을 떠났다.&lt;br&gt;&lt;br&gt;10일 한국장기조직기증원은 지난 1월 28일 한림대성심병원에서 정구견(61)씨가 폐와 양측 신장을 기증했다고 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 앞서 같은 달 18일 자택에서 쓰러진 채 발견돼 병원으로 이송됐으나, 의식을 되찾지 못하고 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;유족은 주변에 베풀고 살아야 한다는 정씨의 신념을 지키고자 기증을 결심했다. 정씨는 생전 가족들과 장기 기증 뉴스를 보며 “내 몸이 건강해서 다른 사람을 살릴 수 있다면 얼마나 좋을까”라고 말했던 것으로 전해졌다. 또한 정씨는 5년 전 뇌전증으로 쓰러진 이후, 건강을 회복하기 위해 매일 3시간씩 산책하며 몸 관리에 힘써왔다.&lt;br&gt;&lt;br&gt;전북 정읍시에서 4형제 중 장남으로 태어난 정씨는 밝은 성격으로 친구가 많았고 주변인들을 살뜰히 챙겼다. 특히 라이온스, 로타리클럽 등 여러 봉사 단체에서 회장직을 맡아 매년 김장 봉사에 참여하고 요양원을 방문하는 등 도움이 필요한 이웃에게 먼저 다가갔다.&lt;br&gt;&lt;br&gt;정씨의 딸 정시영씨는 “아빠는 진심으로 존경할 수 있는 참 좋은 사람”이라며 “아빠가 살아온 것처럼 서로 챙기면서 잘 지낼 테니 좋은 곳에서 편히 쉬어. 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘13개 의혹’ 김병기, 허리 복대 차고 7차 조사 출석 </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/10/4P4LXWKBKJFFVCSW7HGQ26TS3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/4P4LXWKBKJFFVCSW7HGQ26TS3M/</guid>
-      <dc:creator>장윤 기자, 윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 05:23:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7MEB77KXFLTBJLVHOELDFS5GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌물수수 등 13개 의혹을 받는 무소속 김병기 의원이 10일 서울 마포구 서울경찰청 공공범죄수사대에 조사를 받기 위해 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차남 특혜 편입 등 13가지 비위 의혹을 받는 김병기(무소속·서울 동작갑) 의원이 10일 오후 2시 경찰에 출석했다. 7번째 소환조사이자 이틀 만의 재조사다. 불구속 피의자를 이처럼 여러 차례 조사하는 것은 이례적인 일이다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오후 2시부터 김 의원을 피의자 신분으로 불러 조사하고 있다. &lt;br&gt;&lt;br&gt;오후 1시 55분쯤 경찰에 출석한 김 의원은 취재진에 “뭘 여기서부터 (질문하냐)”라며 “여전히 구속영장이 신청되지 않을 거라고 보는지” “수사 지연 비판에 대해 어떻게 생각하는지” “오늘도 허리 통증이 있는지” 등의 질문에는 묵묵부답했다. &lt;br&gt;&lt;br&gt;김 의원은 허리 디스크 통증 등을 이유로 반나절 조사 후 귀가를 반복하고 있다. 이로 인해 6개월째 이어지고 있는 수사가 막판까지 뚜렷한 진척을 보이지 못하고 있는 것으로 전해졌다. 이날 조사에서도 그는 이전과 마찬가지로 허리에 복대를 착용한 모습이었다.&lt;br&gt;&lt;br&gt;경찰은 일부 혐의에 대한 분리 송치로 가닥을 잡은 만큼, 이번 조사에서 이른 시일 내 입증 가능한 혐의를 집중 추궁할 것으로 보인다.&lt;br&gt;&lt;br&gt;김 의원은 작년 9월 차남의 숭실대 편입 특혜 의혹을 시작으로 현재까지 13가지 의혹을 받고 있다. 경찰 수사가 6개월 넘게 이어지고 있지만 결론이 난 건 한 건도 없는 가운데, 박정보 서울경찰청장은 지난 6일 정례 기자간담회에서 “일부 혐의 내용은 혐의 유무 판단이 가능할 정도로 상당 부분 수사가 진행됐다”며 “조만간 검찰 송치 등 수사 결론을 낼 것”이라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;김 의원의 주요 혐의로는 차남의 숭실대 편입·기업 취업에 영향력을 행사했다는 의혹이 꼽힌다. 김 의원이 보좌관 등을 동원해 숭실대를 찾고 편입 요건 충족을 위해 차남을 모 중소기업에 취업시켰다는 게 골자다.&lt;br&gt;&lt;br&gt;김 의원이 차남의 가상자산 거래소 취업에 관여했다는 의혹도 주요 수사 대상이다. 김 의원이 2024년 9~11월 빗썸과 두나무(업비트)에 채용 청탁을 했고, 이 과정에서 빗썸 경영진과 여러 차례 만났다는 것이다. 경찰은 지난 2일 김 의원 부자를 불러 조사하는 등 이 의혹들의 혐의 유무를 판단하는 데 주력하고 있다.&lt;br&gt;&lt;br&gt;김 의원은 지난 2020년 제21대 총선을 앞두고 동작구의원 2명에게 3000만원을 받았다가 돌려준 혐의도 받는다. 또 차남의 가상자산 거래소 빗썸 취업과 숭실대 편입 과정에 개입했다는 의혹, 아내의 동작구의회 법인카드 유용 관련 경찰 수사를 무마하려 했다는 의혹, 전직 보좌진의 인사 불이익 청탁 의혹 등도 수사가 진행 중이다.&lt;br&gt;&lt;br&gt;김 의원은 현재 모든 의혹을 전면 부인하고 있다. 지난 8일 조사에서 김 의원은 “(경찰이) 너무 많이 부른다”며 “구속영장이 신청될 일이 있겠느냐”고 강조한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검·경 합수본, 전재수 무혐의 처분... 공천 하루만에 족쇄 풀어줬다</title>
       <link>https://www.chosun.com/national/court_law/2026/04/10/JWHHSXJ4KZDQZMC5MDD7DIOCSA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/10/JWHHSXJ4KZDQZMC5MDD7DIOCSA/</guid>
@@ -883,82 +950,6 @@
       <description/>
       <pubDate>Fri, 10 Apr 2026 04:31:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVRCW34QGVKTVHAXQAPHZNVORQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내린 10일 서울 여의도 윤중로 벚나무에 벚꽃잎이 떨어지고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봄비가 그친 이번 주말은 전국이 따뜻한 봄기운을 되찾을 것으로 예보됐다. 10일까지 내린 봄비에 우리나라 상공에 쌓여 있던 미세먼지가 모두 씻겨나가며 오랜만에 쾌청한 주말을 맞을 것으로 보인다.&lt;br&gt;&lt;br&gt;10일 기상청에 따르면, 이날 오후 늦게 저기압이 우리나라 상공을 완전히 빠져나가면서 전날부터 내린 비가 그치겠다. 전날 제주와 남부지방에 내려진 호우특보도 모두 해제된 상태다.&lt;br&gt;&lt;br&gt;저기압이 빠져나간 자리에는 서해상에 위치한 고기압이 들어오면서 10일 오후부터 주말인 11~12일까지 전국이 대체로 맑을 전망이다. 다만 12일 오후 중국 상하이 부근에서 동쪽으로 이동하는 기압골의 영향을 받는 제주와 전남에는 5~10㎜의 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;11~12일 아침 최저기온은 3~12도, 낮 최고기온은 16~24도로 예보됐다. 해가 뜨면 따뜻하고, 지면 빠르게 기온이 떨어지면서 낮과 밤의 기온 차가 15도 이상 크게 벌어질 것으로 보인다.&lt;br&gt;&lt;br&gt;다음 주 월요일인 13일에는 저기압의 영향으로 제주와 남부지방엔 비가 내리겠고, 중부지방은 흐릴 것으로 예상된다. &lt;br&gt;&lt;br&gt;이후 14일부터 주말까지는 큰 비 소식 없이 전국이 대체로 맑겠고, 최고기온이 26도까지 오르며 평년보다 높은 기온을 유지할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오피스텔 ‘깡통전세’ 사기로 52억 뜯어내…사회초년생 울린 일당 49명 검거</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/10/WKKOQELDTJCLNNFEIVJMTVUIOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/WKKOQELDTJCLNNFEIVJMTVUIOE/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 03:00:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65WYBBQVOJDWRDJ2YAQWCLMY5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;사회초년생들에게 ‘깡통 전세’ 수법으로 52억원을 뜯어낸 전세 사기 일당이 마스크와 선글라스로 얼굴을 가리고 경찰의 추적을 피하는 모습./서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회 초년생들에게 ‘깡통 전세’ 수법으로 52억원을 뜯어낸 전세 사기 일당이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 광역범죄수사대는 ‘깡통 전세’ 수법으로 52억원을 챙긴 전세 사기 일당 49명을 검거하고 이 중 1명을 구속 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 건축주, 분양 브로커, 바지 임대인, 공인중개사 등으로 구성된 이들은 2021년 12월부터 2022년 7월 사이 대학생과 사회 초년생 등 22명을 상대로 전세 보증금 52억원을 가로챈 혐의를 받는다. 이들은 오피스텔 매매 대금을 웃도는 금액으로 전세 보증금을 책정해 계약을 맺은 뒤, 바지 임대인에게 명의를 넘기는 이른바 ‘동시 진행’ 수법을 사용했다.&lt;br&gt;&lt;br&gt;범행 과정은 철저히 분업화됐다. 분양 업체는 신용 불량자인 바지 임대인들을 건축주에게 소개해주고 건당 2400만~3600만 원의 수수료를 챙겼다. 이 바지 임대인들은 전세금 변제 능력이 없음에도 전세계약을 다수 체결하며 범행에 가담했다. 공인중개사 및 중개보조원들은 고액 보증금을 낼 임차인을 끌어오면서 법정 수수료의 10~15배를 초과하는 수수료를 불법으로 가져갔다.&lt;br&gt;&lt;br&gt;특히, 구속된 일부 바지 임대인은 전세 계약서를 월세 계약서로 위조한 뒤 이를 대부업체에 제시해 1억3000만원의 대출금을 가로채는 추가 범행까지 저지른 것으로 드러났다. 또 피의자들이 잠적한 뒤 대부업자들이 세입자를 찾아와 빚을 독촉하는 등, 임차인들은 2차 피해를 겪었다.&lt;br&gt;&lt;br&gt;경찰은 2024년 8월 국토교통부의 수사 의뢰를 받고 내사에 착수해, 약 1년 7개월간의 추적 끝에 피의자들을 대부분 검거했다. 이 과정에서 구속 전 피의자 심문(영장실질심사)에 불출석하고 도주한 피의자를 쫓다 그를 숨겨주던 또 다른 지명수배자까지 함께 붙잡기도 했다.&lt;br&gt;&lt;br&gt;경찰은 “임대인이 변경될 때 계약 승계를 원하지 않는 임차인은 기존 임대인에게 계약 해지 및 이의 제기를 할 수 있는 거부권이 있다”며 “사회 초년생 등 약자를 대상으로 한 전세 사기에 대해 앞으로도 지속적인 수사를 이어갈 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산서 ‘천원의 아침밥’ 먹은 대학생들 집단 식중독 증상</title>
-      <link>https://www.chosun.com/national/regional/2026/04/10/FKXCNGXBGBAY5L64Y36N2R4WAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/FKXCNGXBGBAY5L64Y36N2R4WAU/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 04:50:38 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYWCNTDGYYTKYRRGU2TONTDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;식중독균 배양검사 장면. 위 사진은 기사와 직접적인 관련은 없음. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;부산의 한 대학교에서 학생들이 도시락을 먹은 뒤 집단으로 식중독 의심 증상을 보여 보건 당국이 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;10일 부산시에 따르면 지난 7일 부산 지역 한 대학에서 제공한 도시락을 먹은 학생 20명이 구토와 설사 등 식중독으로 의심되는 증상을 호소했다.&lt;br&gt;&lt;br&gt;해당 도시락은 교육부와 농림축산식품부가 함께 추진하는 대학생 복지 지원 사업인 ‘천원의 아침밥’을 통해 제공된 것으로 확인됐다. 이 사업은 학생들이 1000원만 부담하면 나머지 비용을 정부와 지자체가 지원하는 방식으로 운영된다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “도시락 제조업체와 학교를 대상으로 검체를 확보해 역학조사를 진행하고 있다”며 “현재까지 부산지역에서 추가로 접수된 식중독 의심 신고는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주 벚꽃축제서 여중생 집단폭행… 10대 4명 입건</title>
-      <link>https://www.chosun.com/national/regional/2026/04/10/EF4H3QMHUBDZPFPN6AKEZBGFG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/10/EF4H3QMHUBDZPFPN6AKEZBGFG4/</guid>
-      <dc:creator>청주=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 04:49:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 열린 벚꽃 축제 현장에서 또래 여중생을 집단 폭행한 10대 4명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;청주 청원경찰서는 폭력행위처벌법상 공동폭행 혐의로 A양 등 10대 4명을 불구속 입건해 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 5일 오후 7시 50분쯤 청주시 무심천 벚꽃 축제가 열리던 둔치 무대 뒤편 임시 주차장에서 B양을 집단 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 현장에 있던 축제 자원봉사자가 이들을 제지한 뒤 경찰에 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A양 등을 상대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>걸음마다 치유 남긴 ‘제주 올레 길잡이’</title>
-      <link>https://www.chosun.com/national/regional/2026/04/08/IWGMARD6M5EXVH5TCM25AGSGQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/08/IWGMARD6M5EXVH5TCM25AGSGQY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YK6JDLIFTREHHMRKCPHNR7KHVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 사단법인 제주올레&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서명숙(69) 제주올레 이사장이 7일 별세했다. 서 이사장은 제주도에 올레길을 만들어 걷기 바람을 일으킨 주인공이다. 제주 서귀포에서 태어난 서 이사장은 시사저널 편집장을 지낸 기자 출신이다. 정치부 여기자 1세대로 꼽힌 고인은 22년간 언론인으로 활동했다. 그러다 2006년 불쑥 스페인 산티아고 순례길로 떠났다. 한 달간 800㎞를 걸으면서 ‘살아서 갈 수 있는 천국이 바로 여기구나’ 감탄했다고 한다. “내가 ‘5년에 한 번씩은 땡빚을 내서라도 산티아고에 와야지’ 하고 큰소리치니까 옆에 있던 헤니라는 영국인 친구가 그래요. ‘우리, 자기 나라로 돌아가서 각자의 길을 만드는 게 어때? 너는 너의 길을, 나는 나의 길을.’ 머리에 번개를 맞은 기분이었죠.” 서 이사장 얘기다.&lt;br&gt;&lt;br&gt;한국에 돌아오자마자 고향 제주로 내려갔다. 2007년 여름이었다. 사단법인 제주올레를 세우고 서귀포 시흥리에 첫 코스를 냈다. 꾸준히 길을 발굴해 15년 만인 2022년 제주도 한 바퀴를 걸어서 여행할 수 있는 27개 코스, 437㎞를 완성했다. 그해 올레길을 걸은 ‘올레꾼’이 1000만명을 돌파했다. 올레가 지나는 마을은 청년이 돌아오면서 활력을 되찾았다.&lt;br&gt;&lt;br&gt;제주올레는 2010년대 도보 여행 바람을 일으켰다. 전국 곳곳에 제주올레를 본뜬 도보 여행 길이 생겼다. 2012년에는 일본 규슈에도 올레를 수출했다. 이러한 공로로 2017년 ‘국민훈장 동백장’을 받았다. &lt;br&gt;&lt;br&gt;올 2월 서 이사장은 산티아고 순례길에서 만났던 잔느 캐서린 헤니(74·영국)와 재회했다. 20년 만이었다. 헤니를 그리워한 서 이사장이 주변 사람들의 도움을 받아 찾아낸 것이다. 서 이사장은 헤니를 초청해 제주올레 6코스를 함께 걸었다. “수키(서명숙)가 이 길을 냈다고? 믿어지지 않는다. 정말 위대한 일을 했다. 올레길을 중심으로 많은 사람이 모이는 걸 보고 수키가 ‘인간의 길(Human Trail)’을 만들었다는 걸 알 수 있었다. 엄청나게 놀랐고 감동했다.” 헤니는 이렇게 말했다고 한다. 안은주 제주올레 대표는 “올레길을 만든 서 이사장은 20년 만에 헤니와 재회한 뒤 하늘 속 순례길로 떠났다”고 했다.&lt;br&gt;&lt;br&gt;빈소는 서귀포의료원 장례식장에 마련됐다. 영결식은 오는 10일 오전 9시 제주올레 6코스 서복공원 잔디광장에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쯔양 협박해 5500만원 뜯은 구제역… 이번엔 무고 혐의로 검찰 송치 </title>
-      <link>https://www.chosun.com/national/incident/2026/04/10/GJQKUG36OFG5PI4XEKEXBSFID4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/10/GJQKUG36OFG5PI4XEKEXBSFID4/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 04:07:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZGMZRZGVSDOZRYGRTDOZBWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 구제역(본명 이준희). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 쯔양(본명 박정원)을 협박해 돈을 뜯어낸 혐의로 징역 3년의 실형을 확정받은 유튜버 구제역(본명 이준희)이 쯔양을 상대로 허위 고소를 한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 수원팔달경찰서는 무고 혐의로 이씨를 검찰에 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;구제역은 2023년 2월 쯔양에게 “탈세 및 사생활 의혹을 제보받았다”며 이를 공론화하지 않는 대가로 5500만원을 받아낸 혐의로 재판에 넘겨져 지난달 대법원에서 징역 3년형이 확정됐다. 이후 재판 과정에서 “쯔양이 위증했다”는 취지의 고소장을 제출했으나, 해당 내용이 허위로 판단되면서 무고 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난해 2월 구제역의 고소를 접수해 수사했지만, 쯔양의 위증 사실이 없다고 보고 불송치 결정을 내렸다. 이후 쯔양은 같은 해 10월 해당 수사 결과를 근거로 구제역을 무고 혐의로 고소했다.&lt;br&gt;&lt;br&gt;경찰은 구제역이 허위 사실로 고소를 제기한 것으로 보고 최근 사건을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;한편 구제역은 대법원 판결에 대해 헌법소원을 제기하는 등 불복 절차를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘IQ 204’ 백강현 “과학고 자퇴하고 싶지 않았다”…학폭 피해 고백</title>
-      <link>https://www.chosun.com/national/people/2026/04/10/MPYZW37FHVC45BUCLKJA2RIPK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/10/MPYZW37FHVC45BUCLKJA2RIPK4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Apr 2026 00:34:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6BJD7ING5AW3PRZCLWWRTOS5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;IQ 204의 영재소년으로 유명한 백강현(13)군이 2023년 서울과학고를 자퇴한 후 근황을 전했다. /유튜브 '백강현'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만 10세에 과학고에 입학해 화제를 모았던 ‘영재’ 백강현군이 재학 시절 학교 폭력 피해로 “굉장히 많이 울었던 걸로 기억한다”며 “사실 그때 자퇴하고 싶지는 않았다”고 당시 심정을 털어놨다.&lt;br&gt;&lt;br&gt;4월 9일 방송된 SBS ‘영재발굴단 인피니티’ 2회에서는 과거 ‘영재발굴단’을 통해 이름을 알렸던 백강현군이 출연했다. 백군은 방송에서 과학고를 자퇴하게 된 배경과 이후의 도전 과정을 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNNUDXEY6BFUXBCNERQA2WMJ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과거 '영재발굴단'에 출연한 백강현군의 모습./SBS ‘영재발굴단 인피니티’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백군은 과거 ‘영재발굴단’ 출연 당시 생후 41개월로, 방송에서 방정식을 푸는 등 수학과 음악에 재능을 보였다. 백군의 지능지수는 웩슬러 기준 IQ 164, 멘사 기준 IQ 204로 측정됐다. 이후 만 6세에 초등학교에 입학한 뒤 시험을 거쳐 7세에 5학년으로 조기 진급했고, 만 9세에 중학교에 들어간 뒤 만 10세에 과학고에 진학했다.&lt;br&gt;&lt;br&gt;백군은 만 10세에 과학고에 진학했지만 학교 폭력으로 인해 5개월 만에 자퇴하게 됐다고 밝혔다. 그는 “그때 공부하는 걸 굉장히 재미있게 생각했고, 형·누나들과 관계는 매우 화목했다”고 말했다.&lt;br&gt;&lt;br&gt;백군의 어머니는 “많은 학생이랑은 잘 지냈는데 유독 한 학생과 문제가 계속 있었다. 인터넷에 나쁜 글도 공개적으로 올리고 점점 강현이랑 이야기하다 보니까 강현이가 얼마나 괴롭힘을 당했는지 알게 되고 그러다 보니 그만두고 싶다고 이야기했다. 그래서 자퇴를 하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;공개된 자료에 따르면 가해 학생은 학교 폭력 3호 처분을 받았다. 3호 처분은 교내에서 봉사 활동을 통해 자신의 행동을 반성하는 기회를 주기 위한 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZZORVFT5VEQ3JOTFE6USIDHMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10살의 나이에 서울 과학고에 입학해 화제를 모았던 '영재' 백강현군이 학교 폭력을 겼었던 당시를 떠올리고 있다./SBS ‘영재발굴단 인피니티’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백군은 “그때 굉장히 많이 울었던 걸로 기억한다. 사실 그때 자퇴를 하고 싶지는 않았다. 과학고에 대해서는 아직도 본교로 생각하고 있다. 그때는 막막했다. 학교에서 나왔으니까. 검정고시 준비를 해야 하나 고민이 많았다”며 당시 심정을 전했다.&lt;br&gt;&lt;br&gt;이후 백군은 유학 제안을 받아 영국 옥스퍼드대 컴퓨터사이언스과 입시에 도전했다. 백군은 영국 대학 입학시험 인터내셔널 A레벨 준비를 위해 평일에 15시간 이상 공부했다고 밝혔다. 그는 “손가락에 굳은살이 박여서 보기 힘들 정도로 된 적이 있다”며 “그동안 푼 시험지를 합치면 제 키의 3배 정도 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;그 결과 백군은 수학, 심화 수학, 물리, 화학 네 과목 모두에서 최고 등급인 에이스타(A*)를 받았고, 또 다른 시험인 MAT(Mathematics Admissions Test)에서도 85점으로 상위 10%에 들었다. 그러나 최종 합격에는 이르지 못했다. 백군은 “MAT에서 만점에 가까운 점수를 받았으면 불합격하기 어려웠을 것”이라고 한 뒤 “떨어졌지만 도전한 건 좋은 선택이었다”고 말했다.&lt;br&gt;&lt;br&gt;현재 백군은 옥스퍼드대 입시 실패 이후에도 작사, 작곡, 앱 게임 개발 등 다양한 분야에서 도전을 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LOOQVP6KBNETFPWEMYYIXCESZA.jpg?auth=104c60f3fb772d63e3ee016f266b32cef6210064874735ac7dbfb723e64730e5&amp;smart=true&amp;width=284&amp;height=213" type="image/jpeg" height="213" width="284">
-        <media:description type="plain">10살의 나이에 서울 과학고에 입학해 화제를 모았던 '영재' 백강현군이 학교 폭력을 겼었던 당시를 떠올리고 있다./SBS ‘영재발굴단 인피니티’</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[핫코너] “월세 공짜” 공실 늘자 콧대 낮춘 가로수길 건물주들</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/09/BKZDUCYWJBCWFCPAKD73KDLK2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/09/BKZDUCYWJBCWFCPAKD73KDLK2Y/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBRCSOJMKZGSBDJV5N4YPSD2PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 서울 강남구 가로수길의 공실 한 곳에 '임대' 딱지가 붙어 있다./김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1990년대 ‘오렌지족’의 본거지였던 서울 강남구 신사동 가로수길은 이후 30여 년간 젊은이들이 넘쳐나는 서울의 노른자위 땅으로 통했다. 세계 최고 상권에만 문을 여는 애플스토어 국내 첫 매장도 2018년 이곳에 들어섰다. 2010년대까지 대기업 프랜차이즈들이 앞다퉈 입점하려 줄을 서며 가로수길 건물주들의 위상은 ‘갑 중의 갑’으로 꼽혔다. 하지만 코로나 팬데믹 이후 상권 침체가 장기화하고 공실률이 40%를 넘어서자, 콧대 높던 건물주들이 월세를 인하한 데 이어 ‘무상 임대’ 카드까지 검토하고 있다.&lt;br&gt;&lt;br&gt;가로수길 건물주 20여 명이 모인 ‘가로수길 지역 번영회’는 6월 열리는 지역 축제를 앞두고 최소 3개월에서 최대 1년간 임대료를 받지 않는 방안을 검토 중인 것으로 8일 알려졌다. 평당 50만원 선인 월세를 받지 않고 팝업스토어 등을 유치하겠다는 것이다. 다만 전기료 등 공과금과 대행사 수수료는 임차인이 부담하는 조건이다. 현재 건물주 5~6명이 이런 ‘무상 월세 팝업스토어’ 유치를 긍정적으로 검토하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;가로수길 건물주들의 이런 움직임은 지역 상가 공실률 때문이다. 부동산 컨설팅사 쿠시먼앤드웨이크필드에 따르면, 작년 4분기 가로수길 공실률은 45.2%다. 가로수길 지역만큼은 아니지만 청담동(공실률 13.4%), 강남역 일대(11.3%) 등 강남 지역 다른 상권도 상황은 비슷하다.&lt;br&gt;&lt;br&gt;코로나 팬데믹에서 타격을 입은 강남 지역 상권이 일상 회복 후로도 좀처럼 예전 명성을 되찾지 못하는 건 높은 월세 때문이란 분석이 많다. 강남 월세를 감당하지 못한 식당이나 카페들이 서울 성수동이나 한남동으로 떠나간 것도 한몫했다. 작년 4분기 기준 성수동 공실률은 2.5%, 한남동·이태원은 7.9% 수준이다.&lt;br&gt;&lt;br&gt;강남 건물주들이 월세를 낮춘 것은 이번이 처음은 아니다. 강남구 압구정 로데오 일대 건물주들은 2017년 상권 쇠퇴를 막기 위해 월세를 최대 50%까지 낮춘 적이 있다. 그 결과 압구정 로데오 일대는 어느 정도 활기를 되찾았다. 부동산 업계 관계자는 “강남은 기업 임차인이 많아 건물주들은 공실이 생겨도 높은 월세를 고수하는 경향이 강하고, 그렇다 보니 상권의 개성을 유지해 줄 소상공인들이 떠나면서 공실률이 높아지는 악순환이 반복된 것”이라고 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무기력·우울증 빠진 4050 ‘은둔형 외톨이’ 늘고 있다</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/10/LUINRKDCIFE2JOWA2SJF25JUBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/10/LUINRKDCIFE2JOWA2SJF25JUBM/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Apr 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SM7FTYMRAJEV7EIACBWOVCNSRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고민하는 중년 남성/ 게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도봉구에 사는 A(57)씨는 거동이 불편한 어머니와 젊을 때부터 단둘이 지내며 일과 간병을 병행해 왔다. 하지만 50대에 접어들며 체력적으로나 정신적으로 한계에 부딪혔다. 그때부터 지인들을 멀리하기 시작했고 고립감이 찾아왔다고 한다. 그는 결국 2021년 어머니를 요양원에 모셨다. 이후 A씨는 마음의 병이 더 깊어졌다고 했다. A씨는 “오랜 간병으로 심신이 지친 데다, 어머니를 끝까지 모시지 못했다는 죄책감에 무기력증에 빠졌다”고 했다. 서울 강동구에 사는 B(60)씨는 2017년 사업에 실패하고 6년간 은둔 생활을 하다가 3년 전 간신히 마음을 다잡았다고 한다. B씨는 “사업에 실패하고 재기해보려 했지만 나이가 많은 데다 후천적 청각 장애까지 있어 일자리를 구할 수 없었다”며 “우울감과 무력감이 심해지면서 어느 순간 사회에서 고립돼 버렸다”고 했다. &lt;br&gt;&lt;br&gt;A·B씨처럼 만성 우울감에 빠진 40·50대 중년 인구가 늘어나고 있다. 외로움과 경제적 부담에 시달리는 중년 인구가 많아지고 있기 때문이라고 전문가들은 말한다. 결혼하지 않은 중년이 많아지고 평균수명이 길어져 부모님을 부양해야 하는 기간도 연장되면서 중년들이 고독과 부담감에 짓눌리고 있다는 것이다. 갑작스러운 실업, 경제적 격차에 따른 상실감, 알코올 중독 등도 중년층을 우울에 빠트리는 요인으로 꼽힌다. &lt;br&gt;&lt;br&gt;청년층에서 문제가 된 ‘은둔형 외톨이’ 현상이 중년층에도 확산하고 있다. 실제로 우울증으로 진료받는 중년층이 가파르게 늘고 있다. 국민건강보험공단이 서미화(더불어민주당) 의원실에 제출한 자료를 보면, 40대 우울증 진료 인원은 2020년 11만276명에서 2025년 16만7251명으로 51.7% 증가했다. 이는 전 연령대 평균 우울증 증가율(17.1%)을 크게 웃도는 수치다. 50대 우울증 관련 진료자도 2020년 11만7691명에서 2025년 13만6506명으로 5년 새 2만명 가까이 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCDIC5MCYVCVZIIFMFNO3JETHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외로움은 사람을 우울감에 빠트리기 쉽다. 그런 외로움에 휘말린 중년은 앞으로 더 많아질 가능성이 있다고 전문가들은 말한다. 한국보건사회연구원에 따르면, 한국 남성 50세 미혼율은 1985년 0.5%에서 2021년 16.8%로 증가했고, 2050년에는 30.6%로 오를 것으로 전망된다. 여성의 경우도 1985년 0.3%에서 2021년 7.5%로 늘어 2050년에는 14.5%를 기록할 것으로 예측됐다. 박승희 성균관대 사회복지학과 교수는 “미혼자는 기혼자에 비해서 고립감에 훨씬 더 취약할 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;갑작스러운 구조조정으로 조기 퇴직에 내몰린 중년들도 은둔에 빠져들고 있다. 사회 활동이 한순간에 중단되면서 상실감과 무력감에 시달린다는 것이다. 고령의 부모를 홀로 책임져야 하는 일명 ‘독박 간병’에 내몰리면서 은둔 생활에 접어드는 경우도 적잖다. &lt;br&gt;&lt;br&gt;우울증에 빠진 중년 인구가 늘고 있지만 이들에 대한 사회적 지원은 부족하다. 현행 복지 시스템이 청년과 노인에 집중됐다는 것이다. 사정이 이렇다 보니 청년 전용 상담센터를 찾아 도움을 요청하는 중년도 늘고 있다고 관계자들은 전했다. 김주희 서울청년기지개센터장은 “얼마 전 부산에 사는 한 어르신이 ‘내 자식 좀 살려 달라. 쉰 살이 넘은 아들이 하루 종일 집 안에만 틀어박혀 있다’며 도와달라는 전화를 걸어왔다”며 “대상자가 아니어서 직접 도움을 주지 못했다”고 말했다.&lt;br&gt;&lt;br&gt;이런 모습은 한국보다 고령화 시대를 맞이한 일본에서 먼저 나타났다. 일본에서는 이를 ‘8050 문제’라고 부른다. 80대 고령 부모가 사회 활동을 중단한 50대 자녀를 부양하며 경제적·정신적 고통을 고스란히 떠안는 사회 현상을 뜻한다. 최항섭 국민대 사회학과 교수는 “고독사나 고립 상태에 놓인 사람을 위한 지원책은 여전히 대부분 청년이나 독거노인에 편중돼 있다”며 “중년층 문제를 적극적으로 발굴하고 지원하는 체계 구축이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>하청 노조 21전 17승… ‘사용자성’ 대거 인정해준 노동위</title>
