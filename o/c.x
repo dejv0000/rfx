@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title> ‘대전 오월드 탈출’ 늑구 발견...포획 시도 중</title>
+      <link>https://www.chosun.com/national/regional/2026/04/14/E2GXQWEUHVDO5MNUO7I2SZO6N4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/14/E2GXQWEUHVDO5MNUO7I2SZO6N4/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Apr 2026 22:05:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DGYZSMQZDKZRVGA4DSNZWME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 대전 오월드에서 탈출한 늑대 '늑구'의 모습./대전소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 오전 대전 오월드에서 탈출해 행방이 묘연했던 늑대 ‘늑구’가 오월드 인근 산에서 발견됐다. &lt;br&gt;&lt;br&gt;14일 대전소방본부에 따르면, 전날 오후 10시 43분쯤 오월드 인근 야산에서 늑구를 목격했다는 신고가 119에 접수됐다. 수색 당국 관계자들이 현장을 확인한 결과 늑구가 맞는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;현재 늑구를 한쪽으로 몰아 포획하기 위해 수색 당국 관계자들과 대치 중인 상황이다. 늑구가 발견된 지점은 오월드에서 약 1.8㎞ 떨어진 야산으로 알려졌다.&lt;br&gt;&lt;br&gt;수색 당국 관계자는 “곧 본격적인 포획 작전을 실시할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;늑구는 지난 8일 오전 9시 18분 대전 오월드 사파리 철조망 밑 땅을 파고 탈출했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>교장실서 상담 중, 흉기로 교사 찌른 고3 학생</title>
       <link>https://www.chosun.com/national/education/2026/04/14/3X3RBPFVBFGLDDD75EQ4YDLEEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/14/3X3RBPFVBFGLDDD75EQ4YDLEEM/</guid>
@@ -949,15 +958,6 @@
       <description/>
       <pubDate>Sun, 12 Apr 2026 01:30:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFTLK324TBIDVHNATKU5F2WLIY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 전남 무안군 무안국제공항에서 제주항공 여객기 참사 유가족들이 기체 잔해 재분류 작업에서 유해로 추정되는 물체가 발견되자 묵념하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 무안공항 제주항공 여객기 참사 미수습 유해를 찾기 위해 정밀 재수색을 진행한다고 발표했다.&lt;br&gt;&lt;br&gt;국무조정실 항공·철도사고조사위원회 사무국은 12일 “12·29 여객기 참사 현장에서 희생자 부분 유골 및 유류품이 추가로 발견됨에 따라, 유가족들과 협의를 거쳐 사고 현장 및 주변 지역에 대한 대대적인 정밀 재수색을 추진하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;재수색은 13일부터 두 달간 진행되고, 경찰관 100명, 군인 100명, 소방관 20명, 항철위·전남도·무안군·유가족 30여 명 등 250여 명이 투입된다.&lt;br&gt;&lt;br&gt;항철위는 “국방부 유해발굴감식단과 민간 발굴 전문가의 도움을 받아 발굴 및 감식의 노하우 전수 교육을 시행하는 등, 한 점의 유해나 유류품도 빠짐없이 수습할 수 있도록 만전을 기할 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤창렬 국조실장은 “이번 전면 재수색은 사고 당시 수습 과정에서 부족했던 점을 철저히 보완하고, 12·29 여객기 참사 희생자의 소중한 한 점 흔적도 놓치지 않기 위한 조치”라며 “민·관·군·경 범부처가 합동으로 정밀하고 투명하게 수색을 진행해 유가족께 신뢰할 수 있는 결과를 도출하겠다”고 했다.&lt;br&gt;&lt;br&gt;지난 2024년 12월 29일 무안국제공항에서 동체 착륙을 시도하던 제주항공 2216편이 활주로를 벗어나 착륙 유도 시설인 로컬라이저가 설치된 콘크리트 둔덕을 들이받았다. 이 사고로 탑승자 181명 가운데 179명이 숨졌다. 정부는 지난 1월까지 사고 사망자 유해를 수색했으나, 수색 종료 뒤인 지난 2월 여객기 잔해를 정리하는 과정에서 사망자 유해가 추가로 발견됐고, 유가족들이 전면 재수색을 요구해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>그네 세게 밀어 친구 중상 입힌 20대… 법원 “2억 배상해야”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/12/BZQ6RGCZ3ZEVRBNDI76RBXEA3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/12/BZQ6RGCZ3ZEVRBNDI76RBXEA3U/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 11 Apr 2026 23:08:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;놀이터에서 그네에 탄 친구를 세게 밀어 중상을 입힌 20대가 억대의 손해배상금을 물게 됐다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 최근 청주지법 민사3단독 김현룡 부장판사는 20대 A씨가 친구 B씨를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결을 했다.&lt;br&gt;&lt;br&gt;재판부는 B씨가 손해배상 청구액 2억1700여만원 중 1억9600여만원을 지급해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;재판부에 따르면 B씨는 지난 2020년 12월 충북 청주의 한 놀이터에서 친구 A씨가 탄 그네를 4차례 세게 밀어 공중에서 추락하게 했다. &lt;br&gt;&lt;br&gt;A씨는 당시 그네에서 추락해 전치 32주의 중상을 입었고, 치료 후에도 영구적인 후유증을 앓게 됐다.&lt;br&gt;&lt;br&gt;재판부는 “B씨는 A씨가 다쳐도 상관없다는 듯 비상식적으로 세게 그네를 밀었다”며 “A씨의 노동능력 상실률과 치료비 등을 고려해 배상액을 정했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “다만 A씨도 그네를 세게 밀지 말라고 요구하거나 그네의 줄을 단단히 잡지 않은 과실이 있어 10% 정도의 책임이 인정된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 B씨는 이 사건과 관련해 과실치상 혐의로 약식 기소돼 벌금 500만원도 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
