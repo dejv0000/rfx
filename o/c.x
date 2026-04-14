@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의날씨] 2026년 4월 15일</title>
+      <link>https://www.chosun.com/national/education/2026/04/14/R66JUXWJNRDY3LBTGTU44ZXMBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/14/R66JUXWJNRDY3LBTGTU44ZXMBA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 14:34:00 +0000</pubDate>
+      <content:encoded> 전국 대부분 흐리다가 오전부터 차차 맑아짐&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGCHSHVBFZFPFOKIOJ6IT3B3OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[김철중의 생로병사] 빠르고 얕은 호흡만 하는 현대인, 어느덧 ‘늙은 폐’로 살아간다</title>
+      <link>https://www.chosun.com/opinion/essay/2026/04/14/AB2DXPTUMZDOBPZZOQ7ICV774Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/opinion/essay/2026/04/14/AB2DXPTUMZDOBPZZOQ7ICV774Q/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 14:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUN4AW4K3VFKNGLEBLJFFFD7EY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 안에서 사람들이 숨 쉬는 것을 유심히 보면 공통점이 있다. 대부분 윗가슴만 살짝 들썩이며 다소 빠른 호흡을 한다. 숨 쉴 때 어깨는 올라가 있고, 배는 거의 움직이지 않는다. 겉으로는 아무 문제가 없어 보이지만, 생리학적으로 이들은 늘 ‘얕은 숨’을 쉬고 있는 상태다. 숨을 들이마시고 있지만, 제대로 내쉬지는 못한다. 건강에 좋은 호흡은 ‘깊게 하고, 횟수는 줄이는 것’인데, 최근 연구들은 현대인이 숨을 얕고 빠르게 쉰다고 지적한다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇현대인의 호흡이 얕아진 이유&lt;/b&gt;&lt;br&gt;&lt;br&gt;폐 호흡에는 ‘기능적 잔기량’이라는 개념이 있다. 이는 숨을 내쉰 뒤에도 폐에 남아 있는 공기량을 뜻한다. 폐가 완전히 쭈그러들지 않도록 하고, 일정 분량의 공기 저장고 역할도 한다. 들숨과 날숨의 완충 공간이라고 할 수 있다.&lt;br&gt;&lt;br&gt;이 기능적 잔기량이 적정선을 넘어 늘어나면 문제가 된다. 폐에 오래 머무는 공기는 산소가 낮고 이산화탄소는 높다. 잔기량이 많으면 폐는 이미 상당히 부풀어 있는 상태가 되어 새로 들이마신 공기가 들어올 공간이 줄어든다. 그리하여 산소 교환 효율이 감소한다. 체내 산소가 최대화되지 않을 수 있다는 의미다. &lt;br&gt;&lt;br&gt;그런 극단적인 상태가 만성폐쇄성 폐질환이다. 폐와 기관지의 공기 순환이 줄어들어 폐 속 공기가 몸 밖으로 못 나가고 계속 남아서 폐가 점점 부풀어 오르는 것이다. 얕고 빠른 호흡을 하는 사람일수록 산소 활용도가 떨어진 ‘늙은 폐’를 쓰는 셈이다. 반대로 젊고 건강한 폐는 깊고 느린 호흡을 한다. &lt;br&gt;&lt;br&gt;얕은 호흡과 잔기량 증가 징후는 호흡 패턴으로 알 수 있다. 가슴 위쪽만 움직이는 호흡을 하거나, 호흡 횟수가 빠르며, 목과 어깨가 긴장되어 있고, 한숨이 자주 나온다. 얕은 호흡은 빠른 호흡을 부르고, 빠른 숨은 교감신경 활성을 높인다. 불안과 심박수가 늘고, 수면의 질은 떨어진다. 만성 피로와 집중력 저하의 원인이 되기도 한다.&lt;br&gt;&lt;br&gt;그렇다면 왜 현대인은 얕은 숨을 쉬게 되었나? 대표적인 이유는 삶의 방식에 있다. 일상에서 상체를 움츠리고 앉아 있는 시간이 너무 많다. 스마트폰, 컴퓨터를 장시간 사용하면서 항상 구부정한 자세를 하고 있다. 갈비뼈가 열리지 않으면, 숨은 물리적으로 커질 수 없다. 그러니 호흡은 가슴 위쪽에서만 짧게 이루어진다. 흉곽 움직임이 제한되고 횡격막 사용도 감소해 큰 숨을 쉬지 않게 된다. 스트레스 증가도 얕은 호흡 원인이다. 만성 긴장 상태가 되면, 빠른 호흡이 유도되어 얕은 숨을 쉬게 된다.&lt;br&gt;&lt;br&gt;폐는 스스로 움직이지 않는다. 15개의 호흡 근육이 폐를 움직이게 한다. 하지만 우리는 호흡 운동 부족으로 호흡 근육의 힘이 점차 약해지고 있다. 신체 활동이 적은 현대인은 호흡 근육의 힘을 측정하는 ‘최대 흡기압’이 점점 낮아지고 있다. 특히 앉아서 생활하는 시간이 길수록 흡기압 감소 폭이 크다. 숨을 들이쉬는 근육 자체가 약해졌다는 뜻이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇깊은 호흡으로 돌아와야&lt;/b&gt;&lt;br&gt;&lt;br&gt;이제 본연의 크고 깊은 활기찬 호흡으로 돌아가야 한다. 그러려면 ‘호흡 스트레칭’이 필요하다. 숨을 억지로 깊게 쉬려 하지 말고 몸을 풀어서 자연스럽게 호흡이 깊어지게 하라는 의미다. 횡격막을 쓰고 폐 하부까지 환기시키는 호흡을 만드는 것이 핵심이다. 폐를 끝까지 쓰고, 끝까지 비우려는 노력이 있어야 한다. 얕은 호흡만 하는 현대인은 ‘깊은 호흡 피트니스’가 필요하다. 몸을 안 쓰는 현대인이 일부러 시간과 돈을 내어 헬스클럽을 가서 몸을 쓰는 것과 같은 원리다. &lt;br&gt;&lt;br&gt;일상 속 복식 호흡 훈련이 권장된다. 한 손은 가슴, 한 손은 배에 둔다. 코로 천천히 숨을 들이마신다. 그럼 배가 먼저 나온다. 그리고 입으로 길게 내쉰다. 그럼 배가 들어간다. 가슴은 거의 움직이지 않게, 배만 풍선처럼 부풀렸다가 줄이는 게 핵심 포인트다. 횡격막 기능이 활성화되고, 폐 하부 환기가 증가한다. 자연스레 얕은 호흡이 교정된다. 하루 5분만 해도 호흡 패턴이 바뀌기 시작한다.&lt;br&gt;&lt;br&gt;완전히 내쉬는 호흡은 늘어난 잔기량을 줄이는 데 도움이 된다. 우리는 들이마시기보다 덜 내쉬는 게 문제다. 코로 4초간 들이마시고, 입으로 6~8초간 길게 내쉬며, 마지막 1~2초는 ‘쥐어짜듯’ 완전히 내쉰다. 건강한 호흡은 잘 들이마시는 것이 아니라, 잘 내쉬는 것이다.&lt;br&gt;&lt;br&gt;현대인은 흉곽 갈비뼈 움직임이 굳어 있다. 갈비뼈 확장 스트레칭이 필요하다. 손을 머리 위로 올리고, 옆으로 천천히 기울인다. 그런 후 깊게 들이쉬고 깊게 내쉰다. 폐 확장 범위를 늘릴 수 있다.&lt;br&gt;&lt;br&gt;호흡의 70%는 자세에서 결정된다. 일상에서 턱을 당기고, 가슴을 펴고, 양 어깨를 뒤로 펴시라. 폐용적이 늘어난다. 거북목처럼 머리가 어깨 앞으로 나오지 않도록 항상 신경 써야 한다. 하품은 최고의 자연 호흡이다. 일부러 크게 하품하는 것도 좋다. 천천히 말하는 습관을 가지면 얕은 호흡이 준다.&lt;br&gt;&lt;br&gt;분당 호흡 수의 정상 범위는 12~20회다. 현대인은 질병 없이도 분당 호흡 수가 상위 구간에 있는 사람이 많다. 습관화된 얕은 호흡 때문이다. 잔 호흡이 많을수록 산소가 많아지는 것이 아니라, 오히려 산소 교환 효율이 떨어진다. 호흡은 깊고 적게 해야 좋다. 호흡은 혈압, 심박수, 뇌 기능, 감정 상태 등과 연결되어 있다. 심장과 박동이 전신을 움직이는 엔진이라면, 폐와 호흡은 생체 에너지를 제공하는 발전소다.&lt;br&gt;&lt;br&gt;현대인의 호흡은 얕고, 빠르며, 약하다. 호흡이 깊어지는 몸과 습관을 만드시라. 계단 오르기는 자연스럽게 깊은 호흡을 유도한다. 좋은 호흡은 거저 얻는 게 아니라, 훈련과 연습의 성과물이다. 건강 장수로 가는 길, 숨을 제대로 오래 쉬면 갈 수 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DUN4AW4K3VFKNGLEBLJFFFD7EY.png?auth=9ec79542fe70edb59a571d5ba9a72a08be1666274039ca4b2bd13028a000f579&amp;smart=true&amp;width=2000&amp;height=778" type="image/png" height="778" width="2000">
+        <media:description type="plain">그래픽=박상훈</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘전분당 담합’ 대상 대표, 구속영장 또 기각</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/14/FUD44QK4WJB6HKBUORQS6ZWLXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/FUD44QK4WJB6HKBUORQS6ZWLXM/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 13:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDQMBZHA2WIZLBMY4TSNRYGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10조원대 전분 및 당류(전분당) 가격 담합 의혹을 받는 임 모 대상 대표가 14일 서울 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10조원대 전분당 가격 담합 의혹을 받는 식품업체 ‘대상’ 대표이사의 구속영장이 14일 재차 기각됐다. &lt;br&gt;&lt;br&gt;서울중앙지법 이지영 영장 전담 부장판사는 14일 오전 9시 30분부터 대상 임모 대표에 대한 구속영장실질심사를 진행한 뒤 검찰이 청구한 구속영장을 기각했다. 이 부장판사는 “종전 구속영장 청구가 기각된 후 추가로 수집, 제출된 자료를 종합해도 피의자를 구속할 정도로 범죄 혐의에 대한 충분한 소명이 되었다고 보기 어렵다”고 했다. 또 “피의자가 혐의를 다투고 있는 상황에서 방어권을 보장할 필요성이 있다”며 “현 단계에서 피의자에 대한 구속의 필요성 및 상당성을 인정하기 어렵다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;임 대표에 대한 구속영장은 지난달 31일에 이어 재차 기각됐다. 해당 의혹을 수사한 검찰은 임 대표와 김모 전분당사업본부장, 사조CPK 이모 대표이사에 대한 구속영장을 청구했는데, 김 본부장의 영장만 발부됐다. 이에 검찰은 지난 9일 임 대표에 대한 구속영장을 재청구했다.&lt;br&gt;&lt;br&gt;전분당 업계 1·2위인 대상과 사조CPK는 전분당이나 옥수수 부산물 판매 가격을 미리 맞추고, OB맥주·서울우유 등 대형 실수요처의 입찰 과정에서 가격을 합의한 혐의(공정거래법 위반)를 받는다. 검찰은 최근 담합을 통해 소비자 가격을 끌어올리는 행위를 ‘서민 경제 교란 범죄’로 규정하고 수사를 이어가고 있다. 지난 2월에는 설탕과 밀가루, 한국전력공사 입찰 담합을 벌인 관계자 총 52명을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사실혼 여성·딸 흉기 찌른 60대…범행 직후 옥상서 투신</title>
+      <link>https://www.chosun.com/national/incident/2026/04/14/FOBQKQXMV5HEZCFEGDUYHFAPUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/14/FOBQKQXMV5HEZCFEGDUYHFAPUM/</guid>
+      <dc:creator>광주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 13:30:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광주시의 한 빌라에서 사실혼 관계의 여성과 그의 딸에게 흉기를 휘두른 60대 남성이 범행 직후 투신해 숨졌다.&lt;br&gt;&lt;br&gt;14일 경찰에 따르면, 이날 오후 5시 32분쯤 광주시의 한 빌라 건물에서 60대 A씨가 사실혼 관계인 50대 B씨와 B씨의 딸 20대 C씨에게 흉기를 휘둘렀다.&lt;br&gt;&lt;br&gt;B씨는 얼굴과 가슴 부위를, C씨는 어깨 부위를 크게 다쳐 병원으로 옮겨져 치료를 받고 있다. 현재까지 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 흉기로 자해한 뒤 건물 옥상으로 올라가 투신했다. 경찰은 A씨를 병원으로 이송했으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 수년간 함께 살아온 B씨에게 지난해 말 이별을 요구받은 뒤 갈등을 겪어온 것으로 보고 있다. 이날 짐을 찾기 위해 빌라를 찾은 피해자 모녀를 상대로 범행을 저지른 것으로 추정된다.&lt;br&gt;&lt;br&gt;경찰은 정확한 범행 동기와 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법 “허위 사실 유포 안민석, 최서원에 2000만원 배상”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/14/ZYC3MD2N5NHSTJTBDTRDFNRHNU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/ZYC3MD2N5NHSTJTBDTRDFNRHNU/</guid>
@@ -877,15 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BTNSDSH3JKR3JK57SNOAHLKCA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 양천구 서울지방식품의약품안전청에서 식약처 관계자가 건강기능식품으로 오인하도록 부당 광고를 한 알부민 제품들을 보여주고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먹는 알부민을 건강기능식품처럼 오인하도록 광고한 업체들이 식품의약품안전처에 무더기로 적발됐다.&lt;br&gt;&lt;br&gt;식약처 식품부당행위긴급대응단은 13일 “지난달 20일~이달 3일까지 판매 업체를 점검한 결과 온라인 쇼핑몰 등에서 알부민 식품을 건강기능식품으로 혼동하도록 부당 광고해 18억원어치를 판매한 업체 9곳을 적발했다”고 밝혔다.&lt;br&gt;&lt;br&gt;현행법상 건강기능식품이 아닌 제품을 건강기능식품인 것처럼 오인하도록 광고하면 안 된다. 현재 먹는 알부민 제품 중 건강기능식품은 없다. 모두 일반 식품이라는 뜻이다.&lt;br&gt;&lt;br&gt;하지만 해당 업체들은 ‘피로 회복’, ‘간 기능 유지에 도움’, ‘알부민 영양제’, ‘아미노산 영양제’ 등의 문구를 써서 소비자들이 알부민 식품을 건강기능식품으로 혼동하도록 했다. 업체는 ‘알부민은 혈관 속 삼투압 유지에 도움이 된다’는 등의 문구를 썼지만, 이는 원재료인 알부민의 효능·효과일 뿐, 해당 식품의 효능·효과는 아니라고 식약처는 설명했다.&lt;br&gt;&lt;br&gt;식약처는 문제가 된 제품 이름도 공개했다. ‘배한호 원장의 명작 알부민 967’, ‘김오곤 메가 실크알부민Q’, ‘알부민 인텐시브 골드 329’, ‘활력 알부민’, ‘연세 알부민 골드 플러스’, ‘보령 알부민 프리미엄 골드’, ‘타우린 알부민 플러스 1000골드’, ‘호관원 알부민 프리미엄 맥스’, ‘젊은형님들 알부민상태콜’, ‘보령뉴알부민골드’ 등이다.&lt;br&gt;&lt;br&gt;식약처는 “식품 원료로 쓰는 난백 알부민과 전문 의약품인 혈청 알부민은 완전히 다르다”고 했다. 일반적인 식품에 쓰이는 난백 알부민은 달걀 흰자에서 유래한 식품 단백질로 영양소 공급원일 뿐이고, 혈액 안에서 고유한 생리 기능을 수행하는 단백질인 혈청 알부민은 의사 처방에 따라 간경변 환자 등에게 주사하는 전문 의약품이라는 것이다. 식약처는 “먹는 알부민 제품은 모두 소화 기관을 통해 흡수될 뿐, 약효는 없다”며 “난백 알부민에 의약품 성분인 혈청 알부민이 함유된 것으로 오인하지 않아야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;이날 식약처는 알부민 식품 등의 제조에 식품용으로 수입 신고하지 않은 용기를 사용한 제조·판매업체 12곳도 적발했다. 이들 업체는 식품용으로 수입 신고되지 않은 용기를 써 알부민 식품 등 108개 품목을 만들었고, 유통 전문 판매업체 51곳이 해당 제품을 유통했다. &lt;br&gt;&lt;br&gt;식약처 식품부당행위긴급대응단 백남이 단장은 “먹는 알부민은 의학적 효과나 효능을 기대하기 어렵기 때문에 부당 광고에 현혹되지 않도록 주의해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>고등학생이 교사를 찔렀다... 교장실서 범행, 긴급 체포</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/13/4GS6RF2F2RDYBAZEADDBVSYRJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/13/4GS6RF2F2RDYBAZEADDBVSYRJE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 03:25:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남의 한 고등학교에서 학생이 교사에게 흉기를 휘두른 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;13일 논산경찰서 등에 따르면, 이날 오전 8시 44분쯤 충남 계룡시의 한 고등학교 교장실에서 재학생 A군이 30대 남성 교사 B씨를 미리 준비한 흉기로 찔렀다.&lt;br&gt;&lt;br&gt;교사 B씨는 목 부위 등을 다쳐 병원에 옮겨졌으나 다행히 생명에 지장은 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 현장에서 A군을 긴급 체포했다. 경찰은 학생과 교사를 상대로 자세한 범행 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “범행 동기는 아직까지 밝혀지지 않았다”며 “자세한 내용은 수사 중”이라고 했다. &lt;br&gt;&lt;br&gt;충남교육청 관계자는 조선닷컴과의 통화에서 “교사 B씨는 A군의 현재 담임은 아니지만, A군의 중학교 시절 학생부장으로서 그를 지도한 적이 있다”며 “올해 해당 고등학교로 전근을 오면서 재회하게 됐다”고 했다. 이어 “A군이 중학생 때부터 지도를 받는 과정에서 B씨에게 불만을 품어온 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“타이어보다 못한 뚱녀”... 롯데 투수 최충연, 팬에 막말 논란</title>
       <link>https://www.chosun.com/national/national_general/2026/04/13/MBMLWJZ5Z5GMDMUXTNN46WWM4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/13/MBMLWJZ5Z5GMDMUXTNN46WWM4Y/</guid>
@@ -915,33 +945,6 @@
       <description/>
       <pubDate>Mon, 13 Apr 2026 05:27:52 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTDENJQGMYDKMRTMI2WMODBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본군 위안부 피해자 모욕 및 허위 사실을 유포한 혐의를 받는 김병헌 위안부법폐지국민행동 대표가 지난 3월 20일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사3부(부장 김정옥)는 13일 일본군 위안부 피해자의 명예를 훼손한 혐의 등을 받는 김병헌(67) 위안부법폐지국민행동 대표를 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;김 대표는 2024년 1월부터 올 1월까지 페이스북이나 유튜브에 일본군 위안부 피해자 3명을 ‘가짜 피해자’ ‘성매매 여성’ 등으로 표현한 허위 글과 동영상을 69회 게시한 혐의(정보통신망법상 명예훼손)를 받는다. 피해자 3명 중 1명이 작년 2월 사망하면서 김 대표에게는 사자명예훼손 혐의도 추가됐다.&lt;br&gt;&lt;br&gt;또한 김 대표는 2025년 12월 29일 서울 서초고와 무학여고 앞에서 ‘매춘 진로지도 하나’ ‘흉물 위안부상 철거하라’ 등이 적힌 현수막을 들고 미신고 집회를 한 혐의(집시법 위반)도 있다. 이 집회에서 학생 2명에게 수치심과 불쾌감을 준 혐의(아동복지법 위반)도 적용됐다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 지난 1월 6일 소셜미디어 엑스(X)에 소녀상 철거를 요구하는 김 대표의 시위에 대해 “얼빠진 사자명예훼손”이라고 비판하는 글을 올렸다. 이후 서울 서초경찰서는 지난 1월 9일 서울시교육감의 고발장을 접수하고 수사를 본격화했다. 경찰은 김 대표를 조사한 후 그의 구속영장을 청구해 달라고 검찰에 신청했고, 이지영 서울중앙지법 영장 전담 부장판사는 지난달 20일 “도망할 염려가 있다”며 김 대표의 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;검찰은 지난달 26일 경찰에서 사건을 넘겨받아 위안부 문제를 연구한 교수와 시민단체 관련자 등을 참고인 조사하며 김 대표가 일본군 위안부 피해를 부정하는 논리와 배경을 분석했다.&amp;nbsp;검찰에 따르면, 김 대표는 피해자 구술자료의 전후맥락을 왜곡하고, 자신의 주장에 대한 근거는 제시하지 않으면서 ‘위안부는 성매매’라는 결론을 반복한 것으로 조사됐다. 검찰은 김 대표가 국내 교과서에서 위안부 내용을 삭제하고, 위안부 피해 역사를 없애는 것을 목표로 범행을 계속했다고 분석했다.&lt;br&gt;&lt;br&gt;또한 검찰은 김 대표가 지난 5년간 일본 지지 세력 후원금 7600여 만원을 받은 사실도 확인했다. 검찰 관계자는 “김 대표가 활동 상황을 공유하면 지지세력이 김 대표의 활동 영상을 유튜브에 게시하며 홍보하고 활동을 독려했다”고 했다.&amp;nbsp;&lt;br&gt;&lt;br&gt;검찰은 김 대표를 기소하면서, 피해자 보호 및 재범 방지를 위해 김 대표가 인터넷에 올린 명예훼손 게시글과 영상을 삭제·차단했다. 또한 아동복지법상 아동 관련기관 취업제한 명령 규정도 적용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“故김수미 사망 2년 지나, 출연료 지급하라” 연기자노조 등 반발</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/13/IRA7HESLIVA5DAHBGVIQXMJREE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/13/IRA7HESLIVA5DAHBGVIQXMJREE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 05:18:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4HZJKAFVVAJDB3CQREXOK7LP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 서울 성동구 한양대학교병원 장례식장에서 배우 故 김수미씨의 발인식이 엄수되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 고(故) 김수미가 별세 후 2년 가까이 뮤지컬 제작사로부터 출연료를 지급받지 못한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;13일 한국연예매니지먼트협회(이하 연매협) 상벌조정윤리위원회와 한국방송연기자노동조합(한연노) 탤런트 지부는 공동 입장문을 통해 “뮤지컬 제작사의 출연료 미지급 행위는 사회 통념상 중대한 위법 행위이자 정당화할 수 없는 질서 교란 행위이며, 고인에 대한 모독 행위”라고 비판했다.&lt;br&gt;&lt;br&gt;이들은 “대한민국의 많은 배우들은 드라마 및 뮤지컬 또는 영화 등에 출연을 하고도 출연료를 받지 못해 생존권에 위협을 받고 있다”며 “특히 지난 2024년 고인이 되신 김수미 배우가 출연했던 뮤지컬의 제작사가 2년 가까이 지난 현재까지 출연료 지급을 불이행해 진정이 접수됐다”고 했다. &lt;br&gt;&lt;br&gt;이들은 “제작사의 출연료 미지급으로 그의 가족들까지도 2차 피해를 호소하는 작금의 시점에 더 이상 이 사태를 묵과할 수 없다”며 “출연료 미지급이 계속된다면 더 이상 묵과될 수 없는 불법 행위로 간주해 업계 퇴출을 주도하고, 제작사 및 제작자의 활동 규제 제재 조치를 할 것”이라고 경고했다. &lt;br&gt;&lt;br&gt;이어 “연매협과 한연노가 공조하여 출연료 미지급을 자행하고 있는 불량 제작사들과 제작자들에게 보다 강력하고도 능동적인 대응을 하기로 의견을 모았다”며 “김수미 배우의 출연료 미지급금을 즉시 지급할 것을 강력하게 요구하는 바”라고 했다. &lt;br&gt;&lt;br&gt;한편 배우 고(故) 김수미는 2024년 10월 25일 서울 서초구 방배동 자택에서 심정지 상태로 발견됐다. 가족이 의식을 잃은 김수미를 발견해 119에 신고했고 서울성모병원 응급실로 이송됐지만 사망 판정을 받았다. 사인은 고혈당 쇼크인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조희대, 법관대표회의서 “사법3법 시행, 무거운 책임”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/13/BBVXV5QO3BC4PHQRWKVJW7SO7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/13/BBVXV5QO3BC4PHQRWKVJW7SO7I/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 04:33:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4WKNJYMQ3DGNDFMNSDOOJSHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년도 상반기 전국법관대표회의 정기회의 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 13일 전국 법관 대표들을 만나 ‘사법 3법’(법왜곡죄·재판소원·대법관 증원)과 관련해 “무거운 책임을 느낀다”며 대응책 마련에 나서겠다고 밝혔다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 경기 고양시 사법연수원에서 열린 2026년 상반기 전국법관대표회의 인사말에서 “최근 사법 제도의 근간을 바꾸는 법률들이 시행되면서 법관 여러분이 느끼는 우려가 클 것”이라며 “이런 결과에 이르게 된 데 대해 대법원장으로서 무거운 책임을 느낀다”고 말했다. 이어 “국민에게 불편과 어려움이 없도록 하고, 법관들에게 불안과 걱정이 가중되지 않도록 실효성 있는 대응 방안을 강구하고 있다”고 했다. &lt;br&gt;&lt;br&gt;조 대법원장 그러면서 사법부의 역할을 강조했다. 조 대법원장은 “사법부의 사명은 공정하고 신속한 재판을 통해 법치주의를 확립하고 국민의 기본권을 수호하는 데 있다”며 “국민 신뢰 회복은 이러한 사명을 충실히 이행하는 데서 출발한다”고 말했다. &lt;br&gt;&lt;br&gt;그러면서 “지금 상황이 엄중하더라도 법원 본연의 역할에 충실한다면 위기를 극복하고 국민의 신뢰를 회복할 수 있을 것”이라며 “법관 대표들의 다양한 의견을 적극적으로 경청하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;조 대법원장은 “사법부는 어려운 시기마다 구성원 모두의 헌신과 노력으로 흔들림 없이 그 소임을 다해 왔다”며 “지금 상황이 아무리 엄중하더라도, 모두가 법원 본연의 역할에 충실하고 법관의 사명에 최선을 다한다면 위기를 극복하고 국민의 신뢰와 사랑을 회복하게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢 “AI 가짜뉴스·금품선거 엄정 대응”…600명 규모 선거전담수사반 운영</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/13/IDFFCAXNSJA5PF4RNXGSC5SU44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/13/IDFFCAXNSJA5PF4RNXGSC5SU44/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 03:00:00 +0000</pubDate>
-      <content:encoded>대검찰청이 13일 제9회 전국동시지방선거 대비 선거전담 부장검사 회의를 열고 선거사범 대응 방안을 점검했다. 이번 회의에는 전국 60개 지검·지청 소속 선거전담 부장검사 71명이 참석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TMZBVMYZDKZTCHFQTKN3BMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 검찰총장 직무대행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구자현 검찰총장 직무대행은 이날 모두발언을 통해 “6월 3일 치러지는 지방선거는 새 정부 출범 후 처음 실시되는 전국 단위 선거”라며 “그 어느 때보다 검찰의 역량을 집중해 대응할 필요가 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;구 직무대행은 특히 “AI 기술 발달로 온라인과 모바일 공간에서 더욱 정교해진 가짜뉴스가 유포돼 선거 결과에 영향을 미칠 수 있고, 이는 선거 결과를 왜곡할 수 있는 중대한 선거범죄”라며 “검찰이 가진 모든 수단과 역량을 동원해 엄정 대응할 필요가 있다”고 강조했다. 그는 또 “금품선거 역시 경제적 이익으로 유권자의 자유의사를 왜곡하는 주요 선거범죄”라며 “각별한 대응이 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 회의에서는 ‘흑색선전’과 ‘금품선거’를 주제로 한 주제 발표도 진행됐다. 회의에 참석한 부장검사 2명은 딥페이크 영상 등의 표시의무 위반과 허위사실공표죄 적용 대상, 기부행위 주체별 구성요건 차이 등 주요 법리를 검토하고 판결례와 구체적 사례를 공유했다. 대검은 또 “지난 지방선거 입건·처분 현황과 범죄 유형별, 수사 단서별 입건 현황도 분석하며 이번 선거 대응 체계를 점검했다”고 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 앞으로 약 600명 규모의 선거전담수사반을 중심으로 흑색선전, 금품선거, 공무원 등의 선거개입, 선거 관련 폭력행위 등 중대 선거범죄에 수사력을 집중할 계획이다. 주요 사안은 주임검사를 부장검사로 지정하고 현행 선거사건 처리기준도 더 엄격히 적용하기로 했다. 또 죄질이 불량한 사범에 대해서는 양형 인자를 적극 발굴해 재판 과정에서 드러낼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>지예은, ‘스맨파’ 댄서 바타와 열애 인정...“좋은 감정으로 만나”</title>
