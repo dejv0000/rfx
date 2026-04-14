@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “허위 사실 유포 안민석, 최서원에 2000만원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/14/ZYC3MD2N5NHSTJTBDTRDFNRHNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/ZYC3MD2N5NHSTJTBDTRDFNRHNU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 10:36:27 +0000</pubDate>
+      <content:encoded>안민석 전 더불어민주당 의원이 “최서원(개명 전 최순실)씨의 해외 은닉 재산이 수조 원에 달한다”며 의혹을 제기한 것과 관련해 손해배상액 2000만원을 배상하라는 판결이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTDMYRXME4TEYRTGVSDOY3BME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안민석 전 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 대법원 1부(주심 서경환 대법관)는 최씨가 안 전 의원을 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결한 파기환송심을 지난 2일 심리불속행 기각으로 확정했다.&lt;br&gt;&lt;br&gt;안 전 의원은 박근혜 정부의 국정 농단 의혹이 불거진 2016년 말부터 각종 방송에 출연해, 당시 비선 실세로 지목된 최씨가 해외에 수조 원대 재산을 은닉했다는 의혹을 제기했다. 2017년 7월에는 최씨의 해외 은닉 재산을 찾겠다며 유럽 5국을 방문했다. 최씨 재산을 몰수하기 위한 특별법도 발의했다.&lt;br&gt;&lt;br&gt;이에 최씨는 “허위 사실로 피해를 입었다”며 안 전 의원을 상대로 1억원의 손해배상을 청구하는 소송을 제기했다. 최씨가 문제 삼은 안 전 의원 발언은 “해외 은닉 재산 규모가 수조원에 달한다” “재산의 출처는 박정희 전 대통령이다” “최씨가 미국 방산 업체 회장을 만나 이익을 취득했다” 등 10가지였다.&lt;br&gt;&lt;br&gt;2021년 9월 1심은 안 전 의원 측이 별다른 대응을 하지 않으면서 원고 승소로 판결했지만, 2심은 안 전 의원 발언의 공익성을 인정해 판결을 뒤집었다. 그러나 대법원은 지난해 6월 원심에 대해 파기환송 결정을 내리고 이 사건을 서울남부지법으로 돌려보냈다. 대법원은 안 전 의원이 제기한 일부 의혹이 명예훼손에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;이후 지난해 11월 파기환송심 재판부는 “(안 전 의원이) 오랜 기간 발언의 출처를 진실이라고 볼 근거를 제대로 밝히지 못하는 등 허위라 판단된다”며 “안 전 의원이 최씨에게 2000만원을 배상하라”고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘금융·특수 수사 전문' 한기식 전 차장 변호사 개업</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/14/NQHCWWN6IRFIJJEVC62JW4N6JA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/NQHCWWN6IRFIJJEVC62JW4N6JA/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 10:16:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON7HIFNTNRFS3EIII5CBENDQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한기식(사법연수원 33기) 전 차장검사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무법인 더킴로펌은 14일 한기식(53·사법연수원 33기) 전 차장검사를 영입했다고 밝혔다.&lt;br&gt;&lt;br&gt;한 전 차장은 경남 통영 출신으로 마산고와 고려대 사회학과를 졸업했다. 2004년 사법연수원을 수료한 후 검사 생활을 시작했다. 평검사 시절 서울중앙지검 특수부에 근무하며 CJ, 효성, STX 등의 회계 부정 및 조세 포탈 사건을 담당했다. &lt;br&gt;&lt;br&gt;2019~2020년 수원지검 여주지청 형사부장 재직 시절 2020년 4월 38명이 사망한 경기 이천 물류창고 화재 사건 수사팀장을 맡았다. 2021~2022년에는 중앙지검 형사4부장으로서 유사수신, 다단계 등 대규모 다중피해 사건을 전담했다. &lt;br&gt;&lt;br&gt;한 전 차장은 금융부실책임조사본부(2018~2019년) 및 금융위원회 자본시장조사단(2022~2023년) 파견 근무를 하며 금융 분야 전문성을 인정받아 대검찰청 공인전문검사(회계·자금 분야) 인증을 받기도 했다.&lt;br&gt;&lt;br&gt;김형석 더킴로펌 대표변호사는 “한기식 변호사는 대형 반부패·금융 사건을 직접 다루며 축적된 실무 경험과 균형 잡힌 판단력을 갖춘 전문가”라며 “기업이 직면하는 복합적인 리스크를 보다 정교하게 진단하고 실질적인 해결책을 제시하는 데 중요한 역할을 할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘여성법학’ 강의 시작, 배경숙 인하대 명예교수 별세</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/14/UMNEBESTSBFJJEGREKVYODMX7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/UMNEBESTSBFJJEGREKVYODMX7M/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 09:11:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WCZTDMY4TOM3CMI2DQNZYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배경숙 인하대 법학전문대학원 명예교수. (인하대 홈페이지 캡처)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 대학에서 ‘여성법학’ 강의를 처음으로 개설한 배경숙(96) 인하대 법학전문대학원 명예교수가 14일 오전 5시 34분 별세했다.&lt;br&gt;&lt;br&gt;인천 출신인 배 명예교수는 숙명여중과 서울대 법대를 나와 건국대에서 ‘한국 여성의 사법(私法)상 지위에 관한 연구’로 법학박사 학위를 받았다.&lt;br&gt;&lt;br&gt;1972년 저서 ‘여성과 법률’을 펴내며 여성의 법적 지위를 학문적으로 조명하기 시작했고, 이를 계기로 국내 대학에서 처음으로 ‘여성법학’ 강의를 개설했다. 이후 관련 강의와 연구가 각 대학으로 확산되는 계기를 마련했다.&lt;br&gt;&lt;br&gt;1976년부터 1995년까지 인하대 법대에서 재직하며 후학을 양성했고, 이 대학 법대와 법학전문대학원의 기반을 닦았다. 퇴직 후에는 아세아여성법학연구소를 설립해 소장을 맡았고, 1998년 학술지 ‘아세아여성법학’을 창간해 관련 연구를 이어갔다.&lt;br&gt;&lt;br&gt;학계 활동도 활발했다. 민사법학회 이사·부회장, 가족법학회 부회장과 회장, 한국여성유권자연맹 회장, 세계여성법률가회 부회장 등을 지내며 여성의 법적 권리 확대 논의를 이끌었다.&lt;br&gt;&lt;br&gt;특히 1980년대 한국여성유권자연맹 회장으로 활동하며 가족법 개정 논의에 참여해 여성과 자녀의 권리 확대에 기여했다. 당시 가족법 개정은 여성 권리 신장을 넘어 헌법 정신에 부합하는 시대적 과제라는 점을 강조했다.&lt;br&gt;&lt;br&gt;배 명예교수의 학문적 업적에 대해 황적인 서울대 명예교수는 “여성법학을 국내에 처음 도입해 수십 년간 발전시켜 법학계에 정착시켰다”고 평가했다.&lt;br&gt;&lt;br&gt;인천시 문화상(1985), 국민훈장 석류장(1997)을 받았고, 2012년 ‘자랑스러운 서울법대인’에 선정됐다.&lt;br&gt;&lt;br&gt;유족으로는 조카 배호영(육아방송 대표이사), 배준영 국민의힘 의원, 배요환 우련통운 대표이사, 배향림씨, 배해영 전 인하대 대학원장 등이 있다. 빈소는 인하대병원. 발인은 16일 오전 8시 30분. (032)890-3180.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘현직 항공사 기장 살해’ 김동환 구속 기소</title>
       <link>https://www.chosun.com/national/incident/2026/04/14/K6TFB5FT4BH5DKWIFIOPNAZEGE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/14/K6TFB5FT4BH5DKWIFIOPNAZEGE/</guid>
@@ -899,24 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4HZJKAFVVAJDB3CQREXOK7LP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 서울 성동구 한양대학교병원 장례식장에서 배우 故 김수미씨의 발인식이 엄수되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 고(故) 김수미가 별세 후 2년 가까이 뮤지컬 제작사로부터 출연료를 지급받지 못한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;13일 한국연예매니지먼트협회(이하 연매협) 상벌조정윤리위원회와 한국방송연기자노동조합(한연노) 탤런트 지부는 공동 입장문을 통해 “뮤지컬 제작사의 출연료 미지급 행위는 사회 통념상 중대한 위법 행위이자 정당화할 수 없는 질서 교란 행위이며, 고인에 대한 모독 행위”라고 비판했다.&lt;br&gt;&lt;br&gt;이들은 “대한민국의 많은 배우들은 드라마 및 뮤지컬 또는 영화 등에 출연을 하고도 출연료를 받지 못해 생존권에 위협을 받고 있다”며 “특히 지난 2024년 고인이 되신 김수미 배우가 출연했던 뮤지컬의 제작사가 2년 가까이 지난 현재까지 출연료 지급을 불이행해 진정이 접수됐다”고 했다. &lt;br&gt;&lt;br&gt;이들은 “제작사의 출연료 미지급으로 그의 가족들까지도 2차 피해를 호소하는 작금의 시점에 더 이상 이 사태를 묵과할 수 없다”며 “출연료 미지급이 계속된다면 더 이상 묵과될 수 없는 불법 행위로 간주해 업계 퇴출을 주도하고, 제작사 및 제작자의 활동 규제 제재 조치를 할 것”이라고 경고했다. &lt;br&gt;&lt;br&gt;이어 “연매협과 한연노가 공조하여 출연료 미지급을 자행하고 있는 불량 제작사들과 제작자들에게 보다 강력하고도 능동적인 대응을 하기로 의견을 모았다”며 “김수미 배우의 출연료 미지급금을 즉시 지급할 것을 강력하게 요구하는 바”라고 했다. &lt;br&gt;&lt;br&gt;한편 배우 고(故) 김수미는 2024년 10월 25일 서울 서초구 방배동 자택에서 심정지 상태로 발견됐다. 가족이 의식을 잃은 김수미를 발견해 119에 신고했고 서울성모병원 응급실로 이송됐지만 사망 판정을 받았다. 사인은 고혈당 쇼크인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희 “尹이 비상계엄 미리 말한 적 없다” 1년 5개월 만에 첫 입장 밝혀</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/13/OIZNI6DLW5BYXF4XX2IMWPEFAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/13/OIZNI6DLW5BYXF4XX2IMWPEFAA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 02:29:17 +0000</pubDate>
-      <content:encoded>김건희 여사가 13일 박성재 전 법무장관의 ‘디올백 수사 무마’ 의혹 재판에서 “윤석열 전 대통령이 비상계엄을 미리 말한 적이 없다”고 증언했다. 공개된 석상에서 김 여사가 직접 입장을 밝힌 것은 이날이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2DCNBXGY3TSMRUMNQWIOLCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사는 이날 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 박 전 장관의 내란 중요 임무 종사 및 청탁금지법 위반 혐의 재판에 증인으로 출석했다. 증인신문을 마칠 때쯤 배석 판사가 “윤 전 대통령이 증인에게 비상계엄에 대해 말한 적이 있느냐”고 묻자, 김 여사는 “없습니다”라고 대답했다. 판사가 재차 “전후로 다 없느냐”고 묻자 “전혀 없습니다”라고 했다.&lt;br&gt;&lt;br&gt;비상계엄 선포를 미리 알지 못했다는 김 여사 발언은 2024년 12·3 비상계엄 선포 후 1년 5개월 만에 나왔다. 앞서 이상민 전 행정안전부 장관은 지난해 1월 경찰청 국가수사본부 특별수사단 조사에서 “윤 전 대통령이 비상계엄 선포 전 국무회의에서 ‘심지어 우리 와이프도 모른다’고 말했다”고 진술한 것으로 알려진 바 있다. 윤 전 대통령 부부와 가까운 것으로 알려진 서정욱 변호사도 작년 9월 한 라디오 방송에서 “김 여사는 계엄 선포를 미리 몰랐다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;조은석 내란 특검팀도 앞서 지난해 12월 수사 결과를 발표하면서 김 여사의 비상계엄 선포 개입 의혹은 사실이 아니라고 결론내린 바 있다. 당시 특검은 “김 여사 측근들로부터 ‘계엄을 선포했을 때 윤 전 대통령과 김 여사가 심하게 싸웠다’ ‘김 여사가 윤 전 대통령에게 너 때문에 다 망쳤다고 하면서 분노했다’는 내용의 진술을 확보했다”고 밝혔었다.&lt;br&gt;&lt;br&gt;특검팀은 이날 김 여사에게 박 전 장관으로부터 디올백 수수 의혹 관련 수사 진행 상황을 보고 받고, 2024년 5월 검사장 인사에 관여했는지 여부를 캐물었으나 뚜렷한 답을 듣지는 못했다. 특검은 김 여사로부터 ‘디올백 수수 의혹 수사 진행 상황을 파악해달라’는 메시지를 받은 박 전 장관이 법무부 간부에게 수사 상황을 확인해 보고하도록 지시했다고 의심한다.&lt;br&gt;&lt;br&gt;특검 측은 김 여사에게 “박 전 장관 취임 후 있었던 첫 검찰 인사 당시 박 전 장관에게 검찰 인사에 대한 보고를 받거나 내용을 전달 받은 사실이 있느냐”고 물었고, 김 여사는 “전혀 없다”고 답했다. 특검 측은 재차 “증인이 박 전 장관이나 윤 전 대통령에게 검찰 인사 관련 의견이나 희망사항을 전달한 사실이 있느냐”고 물었고, 김 여사는 “전혀 없다”며 선을 그었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사법3법 공포 후 첫 전국법관대표회의… 의장에 강동원 부장판사</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/13/ITOM5A2BZFAWFPQDYYFEZC5FZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/13/ITOM5A2BZFAWFPQDYYFEZC5FZA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 02:44:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKTTGWD3T5J6BECZVJPW6LS7HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 경기 고양 사법연수원에서 전국법관대표회의가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 각급 법원 판사들의 대의기구인 전국법관대표회의 신임 의장으로 강동원 부장판사가 선출됐다. 부의장에는 조정민 부장판사가 당선됐다.&lt;br&gt;&lt;br&gt;전국법관대표회의는 13일 경기도 고양시 사법연수원에서 온·오프라인으로 올해 첫 정기 회의를 열고 새로운 의장단 구성을 마쳤다. 이번 회의는 지난 2월 법관 정기 인사 이후 새롭게 선출된 법관 대표 130여 명이 모인 자리다.&lt;br&gt;&lt;br&gt;새롭게 꾸려진 강동원·조정민 의장단 체제의 법관대표회의는 향후 1년간 사법 행정 및 법관 독립과 관련된 주요 현안에 대해 일선 판사들의 목소리를 대변하는 역할을 맡는다.&lt;br&gt;&lt;br&gt;이번 회의가 더욱 주목받는 이유는 지난달 재판소원 제도와 법 왜곡죄, 대법관 증원 등 ‘사법 3법’이 공포된 이후 열리는 첫 회의이기 때문이다. 현재까지 공식 안건은 의장단 선출 한 건이지만, 법관 대표들이 현장에서 안건을 제안할 경우 그에 관한 회의를 진행할 수도 있다. 이미 ‘재판소원, 법왜곡죄 도입과 대법관 증원 법안의 국회 통과에 깊은 책임감을 느끼고 우려를 표명한다’는 취지의 의견을 표명하는 안건이 추가로 제안된 상태다.&lt;br&gt;&lt;br&gt;이날 선출된 의장이 이 안건을 직권으로 상정하거나, 현장에서 법관 대표 10명 이상이 찬성하면 논의할 수 있다. 대법원 규칙에 따라 구성된 전국법관대표회의는 사법 행정과 법관 독립에 대해 의견을 밝히거나 건의할 수 있고, 설명을 요구할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>조희대, 법관대표회의서 “사법3법 시행, 무거운 책임”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/13/BBVXV5QO3BC4PHQRWKVJW7SO7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/13/BBVXV5QO3BC4PHQRWKVJW7SO7I/</guid>
@@ -933,15 +942,6 @@
       <description/>
       <pubDate>Mon, 13 Apr 2026 03:00:00 +0000</pubDate>
       <content:encoded>대검찰청이 13일 제9회 전국동시지방선거 대비 선거전담 부장검사 회의를 열고 선거사범 대응 방안을 점검했다. 이번 회의에는 전국 60개 지검·지청 소속 선거전담 부장검사 71명이 참석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TMZBVMYZDKZTCHFQTKN3BMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 검찰총장 직무대행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구자현 검찰총장 직무대행은 이날 모두발언을 통해 “6월 3일 치러지는 지방선거는 새 정부 출범 후 처음 실시되는 전국 단위 선거”라며 “그 어느 때보다 검찰의 역량을 집중해 대응할 필요가 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;구 직무대행은 특히 “AI 기술 발달로 온라인과 모바일 공간에서 더욱 정교해진 가짜뉴스가 유포돼 선거 결과에 영향을 미칠 수 있고, 이는 선거 결과를 왜곡할 수 있는 중대한 선거범죄”라며 “검찰이 가진 모든 수단과 역량을 동원해 엄정 대응할 필요가 있다”고 강조했다. 그는 또 “금품선거 역시 경제적 이익으로 유권자의 자유의사를 왜곡하는 주요 선거범죄”라며 “각별한 대응이 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 회의에서는 ‘흑색선전’과 ‘금품선거’를 주제로 한 주제 발표도 진행됐다. 회의에 참석한 부장검사 2명은 딥페이크 영상 등의 표시의무 위반과 허위사실공표죄 적용 대상, 기부행위 주체별 구성요건 차이 등 주요 법리를 검토하고 판결례와 구체적 사례를 공유했다. 대검은 또 “지난 지방선거 입건·처분 현황과 범죄 유형별, 수사 단서별 입건 현황도 분석하며 이번 선거 대응 체계를 점검했다”고 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 앞으로 약 600명 규모의 선거전담수사반을 중심으로 흑색선전, 금품선거, 공무원 등의 선거개입, 선거 관련 폭력행위 등 중대 선거범죄에 수사력을 집중할 계획이다. 주요 사안은 주임검사를 부장검사로 지정하고 현행 선거사건 처리기준도 더 엄격히 적용하기로 했다. 또 죄질이 불량한 사범에 대해서는 양형 인자를 적극 발굴해 재판 과정에서 드러낼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 경력 신임검사 48명 임용...치솟는 미제 사건에 역대 최대 규모 뽑아</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/13/GAXPI6CMXVB55JO2445KQE6SF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/13/GAXPI6CMXVB55JO2445KQE6SF4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 02:59:38 +0000</pubDate>
-      <content:encoded>법무부가 변호사 등으로 활동한 경력이 있는 법조인 48명을 신임검사로 임용한다고 13일 밝혔다. 한 해 경력 검사를 50명 가까이 뽑은 건 이번이 처음이다. 검찰청 폐지 등을 앞두고 인력이 줄어들면서 일선 검찰청에서 미제 사건이 치솟는 영향으로 풀이된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UUCCWR44VON5FIU5HYLPX4PXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법무부가 13일 경력 신임검사 48명의 명단을 공개했다. 역대 최대 규모다. 사진은 서울 서초구 대검찰청 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 경력 검사 임용 대상자의 명단을 홈페이지에 공개하며 “2주간 검사로서 적격 여부에 관한 의견을 청취하고, 오는 5월 초순경 임관식을 진행할 예정”이라고 밝혔다. 경력 검사들은 법무연수원에서 약 2개월간 교육을 받은 뒤 오는 6월 말쯤 일선 검찰청에 배치된다.&lt;br&gt;&lt;br&gt;경력 검사 제도는 법원이나 금융감독원 등에서 근무하며 전문성을 기른 법조인을 검사로 선발하는 제도로, 2024년부터 운영되고 있다. 법무부 관계자는 “매년 8월에 경력 검사를 선발했지만, 올해는 3개월 정도 앞당겨 절차를 진행했다”고 설명했다.&lt;br&gt;&lt;br&gt;시기도 이르지만, 규모도 역대 최대다. 2024년엔 32명, 지난해엔 24명의 법조인이 경력 검사로 선발됐다. 경력 검사 규모가 전년에 비해 2배 늘어난 것이다. 48명 중엔 변호사 출신이 31명으로 가장 많았고, 경찰청(6명)·법원 재판연구원(3명)·특검 수사관(3명) 등 순이었다. 법무부와 금융감독원, 서울시 강동구청 등 출신도 포함됐다.&lt;br&gt;&lt;br&gt;법무부가 경력 검사를 대규모로 임용한 건 전국 검찰청에서 미제 사건이 급증하고 있어서다. 대검찰청에 따르면, 전국 검찰청에서 3개월 넘게 결론을 내지 못한 장기 미제 사건은 2024년 1만8198건에서 지난해 3만7421건으로 두 배 넘게 늘었다.&lt;br&gt;&lt;br&gt;반면 검찰 인력은 갈수록 줄어드는 추세다. 검찰청 폐지를 앞두고 조직을 떠나거나, 특검이나 합동수사본부 등으로 파견되는 경우가 늘어서다. 법무부에 따르면 차장검사를 둔 지방검찰청 10곳의 근무 검사 인원은 지난달 기준 정원의 55% 수준이다. 법무부는 미제 사건이 비교적 적은 지청 소속 검사들을 미제 사건이 더 많은 지검 등에 파견하는 ‘검사 돌려막기’에 나서고 있지만, 법조계에서는 “급한 불을 끄는 것 이상으로 만성화된 인력난을 해소해야 한다”는 목소리가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>지예은, ‘스맨파’ 댄서 바타와 열애 인정...“좋은 감정으로 만나”</title>
