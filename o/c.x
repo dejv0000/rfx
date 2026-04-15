@@ -13,6 +13,65 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[기자의 시각] ‘치안 실패’ 숨긴 경찰 보도자료</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/AT35CS3YJZEKPDWNQFJ5HWUX6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/AT35CS3YJZEKPDWNQFJ5HWUX6Q/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 14:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRTMNJZMVQTCM3DMI4WCNRUMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 청사에 깃발이 펄럭이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 ‘경기 남양주 스토킹 살인’ 사건 발생 24일 만인 지난 7일 후속 조치 결과를 발표했다. 하지만 경찰이 배포한 A4 세 장의 보도자료 첫머리에 적힌 “경찰청은 남양주 스토킹 살인 사건을 계기로 관계성 범죄 전수 점검을 실시했다”는 선언은 겉치레일 뿐이다. “점검 기간 구속영장 신청이 전년 대비 376% 늘었다” “가해자 격리와 피해자 보호에 총력 대응했다” “선제적 대응으로 추가 피해를 예방했다”는 문구도 자기 합리화에 가까웠다.&lt;br&gt;&lt;br&gt;경찰청은 전국 경찰서의 스토킹 범죄 우수 대응 사례도 선별해 공개했다. 보도자료에는 각 사건 경위와 함께 경찰이 ‘잘한 점’이 굵은 글씨로 부각돼 있었다. 우수 경찰관에게는 특별 성과 포상금 1000만원을 준다고 했다. 마치 경찰의 치적을 담은 홍보물처럼 비쳤다.&lt;br&gt;&lt;br&gt;그러나 이번 후속 조치는 경찰의 명백한 ‘치안 실패’에서 비롯됐다. 김훈이 지난달 14일 경기 남양주에서 전자발찌를 착용한 채 스토킹하던 20대 여성을 흉기로 살해한 비극적 사건이 계기였다. 피해 여성은 경찰에 수차례 가정 폭력과 스토킹 피해를 호소했고, 자신의 차량에서 김훈이 설치한 위치추적기가 발견됐다고 신고했다. 그러나 관할 경찰관들은 피해자에 대한 적극적 안전 조치나 가해자 구속·격리에 나서지 않았다. 결국 피해자가 살해된 후 비판 여론이 일자 황급히 대응에 나선 것이다.&lt;br&gt;&lt;br&gt;경찰청이 분명하게 밝혔어야 할 것은 실패의 경위와 책임 소재다. 그러나 보도자료 후반부에 딱 한 문장만 들어 있었다. “감찰 조사 결과 경찰 대응 전반이 안이했고 미흡한 점이 있다고 확인했으며, 책임 있는 자에 대해 인사 조치할 예정이다.” 취재 결과 이 사건을 맡았던 구리경찰서와 남양주남부경찰서 담당자들이 피해자 면담 등 안전 조치를 누락하고, 사망 후 뒤늦게 면담을 한 것처럼 허위 보고를 한 정황이 포착된 것으로 드러났다. 자체 감찰로 밝혀낸 구체적 혐의는 이 보도자료에서 사실상 빠졌다. 뼈아픈 치안 실패를 덮으려 우수 사례를 과장하고, 문책 사항은 축소해 알린 거라면 국민 기만이다.&lt;br&gt;&lt;br&gt;경찰은 또 점검 기간 구속영장 신청 건수가 대폭 늘었다고 자랑했지만, 정작 법원의 영장 발부율은 35.7%로 지난해(59.7%)보다 크게 떨어졌다. 유치장에 가두거나 위치 추적 전자장치를 부착하는 조치도 신청 건수만 증가하고 인용률은 낮아졌다. 경찰 수뇌부에 보여주기 위한 통계를 만들기 위해 일선 서에서 무리하게 조치를 남발했을 가능성이 있다.&lt;br&gt;&lt;br&gt;스토킹 피해자를 지키지 못한 경찰이 후속 대응을 잘했다며 자화자찬하는 모습은 기만적이다. 치안 실패가 반복되지 않으려면 국민에게 부족한 점을 인정하고 재발 방지에 총력을 기울여라. 이번 수사 의뢰 등 조치에 따른 추후 보도자료는 달라지길 바란다. 진정한 치안 강화는 결과로 증명돼야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WUU5BZLCIJAIRGF25VSWCGYHIE.png?auth=f5da2e1c480b947f70156c1472b2f8d6086f19f6b317c97379d807a2d9b46841&amp;smart=true&amp;width=500&amp;height=500" type="image/png" height="500" width="500"/>
+    </item>
+    <item>
+      <title>청주 LP가스 폭발 전날 ‘가스 냄새’, 차단장치도 꺼져 있었다</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/RHAICW3BPZBJTJBL7WPTX32MRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/RHAICW3BPZBJTJBL7WPTX32MRA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 13:09:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GKNBWGI2DKOJVMYYTCMTFMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 4시쯤 청주시 흥덕구 봉명동의 한 상가에서 LP 가스가 폭발하는 사고가 발생해 인근에 거주하는 주민 16명이 다친 가운데 국립과학수사연구원과 소방당국 등 관계기관이 음식점 내외부에서 합동 감식을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16명의 부상자가 발생한 충북 청주시 ‘식당 LP가스 폭발 사고’와 관련해 이 식당의 가스누출 자동 차단 장치가 사고 발생 전날부터 꺼져 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;15일 관계당국 등에 따르면 식당 업주는 사고가 나기 하루 전인 지난 12일 오전 “가스 냄새가 난다”며 설비업체 측에 연락했다.&lt;br&gt;&lt;br&gt;식당 업주는 당시 냄새와 함께 누출 차단기가 작동했다는 취지로 신고했고, 설비업체 관계자는 현장을 방문해 점검을 진행한 뒤 경보기 ‘오작동’으로 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 설비업체는 배관 부분을 중심으로 가스 누출 검사와 계량기 수치 등을 확인했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;가스누출 자동 차단 장치는 일정 농도 이상의 가스를 감지하면 경보와 함께 밸브를 자동으로 차단하는 구조다.&lt;br&gt;&lt;br&gt;경찰은 차단 장치 작동 여부가 사고 원인을 밝힐 수 있는 단서로 보고 집중 조사하고 있다. 하지만 이번 사고 충격으로 차단 장치가 사라져 정확한 작동 여부를 확인하기는 쉽지 않은 실정이다.&lt;br&gt;&lt;br&gt;관계당국은 해당 식당의 연소기 설치와 가스 배관 공사를 함께 진행한 점에 주목해 배관 연결부 등 시공에 문제가 없었는지 등을 파악하고 있다.&lt;br&gt;&lt;br&gt;또 설비업체 측의 가스 농도 측정 등 점검 과정과 경보기 오작동 판단 근거를 확인하기 위한 기록 등을 살펴보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “업주의 관리 책임과 시공업체의 부실시공 가능성 등을 종합적으로 들여다보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;지난 13일 오전 3시 59분쯤 청주시 흥덕구 봉명동 3층짜리 상가건물 1층 식당에서 LP가스 폭발 사고가 발생했다. 이 사고로 주민 등 16명이 다쳤고, 400여 세대에서 차량과 창문 파손 등 재산 피해가 났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 홍천서 트랙터에 깔린 80대 심정지 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/VKYGOGYQABF33LHYHOHUHDLJDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/VKYGOGYQABF33LHYHOHUHDLJDM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 13:57:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 5시 56분쯤 강원 홍천군 북방면의 한 주택 앞에서 80대 A씨가 트랙터에 깔리는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 병원에 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 16일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/15/MACDFHWJLFGHLCENEYYQ4SFTAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/15/MACDFHWJLFGHLCENEYYQ4SFTAM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 14:32:00 +0000</pubDate>
+      <content:encoded>‘최고 27도’ 전국 대체로 맑고 초여름 더위&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFOTJAJBTVCOVABQB55TOEIPVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>응급실 뺑뺑이로 사망... 병원에 4억 배상 판결</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/QEBWQKNHOVFZNLUOASNQHJBVU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/QEBWQKNHOVFZNLUOASNQHJBVU4/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 10:59:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVX2J24S5QA5IHHKMVWRVSWRKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생명이 위독한 4세 아이의 119 응급의료 요청을 거부해 ‘응급실 뺑뺑이’를 돌게 한 병원이 유족에게 수억원을 배상해야 한다는 판결이 나왔다.&lt;br&gt;&lt;br&gt;15일 한국환자단체연합회에 따르면 부산지법 서부지원은 고(故) 김동희 군 유족이 병원을 상대로 제기한 손해배상청구소송에서 피고는 원고에게 청구액의 70%인 4억원을 배상하라며 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;김군은 지난 2019년 10월 4일 경남 양산의 A대학병원에서 편도선 제거 수술을 받았고, 회복 과정에 출혈 증세를 보여 부산 B병원을 찾았다.&lt;br&gt;&lt;br&gt;김군은 입원 중 상태가 악화했고 B병원 응급실 의사는 김군을 치료하지 않고 119구급차에 인계하면서 진료기록을 제대로 넘겨주지도 않았다.&lt;br&gt;&lt;br&gt;의식이 없던 김군을 후송하던 119구급대원들은 가장 가까우면서도 김군이 편도선 제거 수술을 받았던 A대학병원으로 이동하면서 소아응급실로 연락했으나, A병원은 ‘심폐소생 중인 응급환자가 있으니 다른 병원으로 가줬으면 좋겠다’는 취지로 사실상 치료를 거부했다.&lt;br&gt;&lt;br&gt;그러나 경찰 수사 결과, 당시 A병원 응급실에는 김군의 치료를 기피할 만큼 위중한 환자는 없었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;김군을 태운 구급차는 결국 20㎞가량 떨어진 부산의 다른 병원으로 향했고, 김군은 의식을 회복하지 못한 채 연명 치료를 받다가 이듬해 3월 숨졌다.&lt;br&gt;&lt;br&gt;재판부는 정당한 이유 없이 응급환자 진료를 거부한 A병원과 대리 당직 의사를 배치하고 제대로 된 처치 없이 119구급차에 환자를 태운 B병원 모두 과실이 인정된다고 봤다.&lt;br&gt;&lt;br&gt;앞서 울산지법에서 열린 형사재판에서는 1심 재판부가 응급의료법 위반으로 A병원에 벌금 1000만원, A병원 의사에 벌금 500만원, 의료법 위반으로 B병원 의사에게 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UJBIHRHF4NDPVL4SFQM52JFGJI.jpg?auth=9d58057cadd688bc34a2e33701b2e08ff4412525770ae7553abe738c8926ebdc&amp;smart=true&amp;width=650&amp;height=366" type="image/jpeg" height="366" width="650">
+        <media:description type="plain">응급실 뺑뺑이</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>장애인 거주 시설서 학대 의심 사례 33건 발견… 정부, 시설 연 2회 점검한다</title>
+      <link>https://www.chosun.com/politics/goverment/2026/04/15/34QRTLZSVBA5BPIA2VSUOB7YKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/15/34QRTLZSVBA5BPIA2VSUOB7YKY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 11:16:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWZ6BG4RTVL4LJW7N2FMLQBBPE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 15일 오후 서울 종로구 정부서울청사에서 열린 제28차 장애인 정책 조정 위원회에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 전국의 장애인 거주 시설 1507곳을 전수 점검한 결과, 장애인 학대 피해 의심 사례 33건이 발견됐다. 정부는 시설 거주 장애인에 대한 학대를 예방하기 위해 장애인 거주 시설을 정례적으로 점검하고, ‘중점 관리 시설’을 선정해 수시로 점검하기로 했다. 중장기적으로는 시설 구조를 다인실 위주에서 소규모 단위로 바꾸고, 독립형 주거 서비스를 늘려 가기로 했다.&lt;br&gt;&lt;br&gt;정부는 15일 오후 정부서울청사에서 김민석 국무총리 주재로 제28차 장애인 정책 조정 위원회를 열어 이 같은 내용을 담은 ‘장애인 거주 시설 학대 예방 및 인권 강화 종합 대책’을 심의해 발표했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 회의에서 인천 강화군에 있는 중증 장애인 거주 시설 ‘색동원’에서 일어난 장애인 학대 사건을 언급했다. 김 총리는 “색동원 사건은 인권 국가를 표방하는 우리나라에 여전히 차가운 사각지대가 남아 있음을 뼈아프게 보여준 사례였다”며 “1월 30일 국무총리(본인)가 긴급 지시를 내리고 경찰이 특별 수사단을 꾸려서 수사를 진행했고, 정부는 국무조정실을 중심으로 합동 대응 TF(태스크포스)를 구성해 지난 두 달간 대책을 논의해 왔다”고 했다. 이어 “매년 정부가 (장애인 거주 시설을) 점검하기는 했는데, 폐쇄적인 시설 운영 가운데서 학대가 은폐되고 장기화되는 구조적인 문제를 확인했다”며 “다시는 이런 일이 발생하지 않도록 종합 대책을 논의하겠다”고 했다.&lt;br&gt;&lt;br&gt;정부는 보건복지부·성평등가족부·경찰청·지방자치단체와 장애인 권익 옹호 기관이 합동 점검팀을 구성해 지난 1월부터 3월까지 전국의 장애인 거주 시설 1507곳을 전수 점검한 결과, 인권 침해 의심 사례 33건을 발견했다고 밝혔다. 장애인 권익 옹호 기관이 학대 여부를 판단하고 있고, 이 가운데 폭행 혐의 등 8건에 대해서는 수사에 착수한 상태다.&lt;br&gt;&lt;br&gt;이와 관련해 정부는 “장애인 거주 시설의 폐쇄적인 구조로 인해 학대가 장기간 은폐되는 사례가 생기고, 학대를 내부 신고에 의존해 적발해야 하는 구조로 인해 조기에 발견하지 못하는 문제점이 있었다”며 “이에 사후 대응 중심에서 예방 중심으로, 기관별 분절적 대응에서 기관 간 통합 대응으로 정책 방향을 전환한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 앞으로 모든 장애인 거주 시설은 지방자치단체와 경찰, 장애인 권익 옹호 기관, 전문 지원 기관으로부터 연 2회 합동 점검을 받는다. 또 민원이 들어오거나, 인력 변동이 잦거나, 행정 처분을 받은 이력이 있거나, 회계상 이상 징후가 있는 시설은 ‘중점 관리 시설’로 선정돼 수시·특별 점검 대상이 된다.&lt;br&gt;&lt;br&gt;장애인 권익 옹호 기관은 전문 인력을 충원하고, 단계적으로 확대하기로 했다. 또 장애인 거주 시설 운영자들을 중심으로 구성돼 온 ‘인권지킴이단’을 지방자치단체 중심으로 전환하고, 지자체 공무원과 경찰관, 변호사, 공공 후견인, 인권 단체 활동가 등을 참여시키기로 했다. 장애인 학대 의심 사례가 생기면 지자체와 권익 옹호 기관, 경찰서, 해바라기센터가 공동으로 대응하기로 했다.&lt;br&gt;&lt;br&gt;정부는 이날 장애인정책조정위원회에서 2023년부터 2027년까지 시행되는 제6차 장애인 정책 종합 계획의 올해 시행 계획도 확정했다. 정부는 장애인 복지·건강 등 9대 정책 분야에 예산을 지난해보다 약 9% 늘어난 7조원을 투입하고, 장애인 활동 지원 서비스 제공을 지난해 13만3000명에서 올해 14만명으로 늘린다. 장애아 전문·통합 어린이집은 올해 80곳, 내년에 80곳 늘리고, 특수·일반 교사가 통합 교육을 하는 ‘정다운학교’는 지난해 284곳에서 올해 320곳으로 늘린다. 장애인 공공 일자리는 지난해 3만3546명에서 올해 3만5846명으로 늘린다. 장애인 고용 장려금 지급 대상은 연인원 기준 지난해 76만2886명에서 올해 81만730명으로 늘린다. 전북과 충남에 재활병원 2곳 건립을 추진하고, 공공어린이재활병원·센터 2곳을 단계적으로 개원한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>종합특검, ‘김건희 수사 무마 의혹’ 심우정 전 검찰총장 PC 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/04/15/PE6KCSYJCRCHXJTGGXX4T6QKZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/PE6KCSYJCRCHXJTGGXX4T6QKZE/</guid>
@@ -882,43 +941,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVFHEAWYGO53LWGCGFIW2BWXUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 사태 당시 내란에 가담한 혐의로 기소된 조지호 경찰청장이 20일 오전 서울 서초동 서울중앙지방법원에서 열린 첫 공판에 출석하고 있다. 조 청장과 김봉식 전 서울경찰청장은 윤석열 대통령의 지시를 받고 계엄 당시 경찰병력 약 2000명을 동원해 국회와 중앙선거관리위원회 시설들을 봉쇄한 혐의를 받는다. 2025.3.20/뉴스1 ⓒ News1 박정호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 포고령 발동 이후 2차 국회 봉쇄가 조지호 경찰청장과 김봉식 전 서울경찰청장의 지시에 따라 이뤄졌다는 경찰 간부들의 법정 증언이 나왔다. 다만 이들은 “실제 투입된 경력이 국회를 봉쇄할 수 있는 수준은 아니었다”고 진술했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 31일 내란중요임무종사 혐의로 기소된 조지호 경찰청장과 김봉식 전 서울경찰청장, 윤승영 전 경찰청 국가수사본부 수사기획조정관과 목현태 전 국회경비대장 등 4명의 대한 재판을 진행했다.&lt;br&gt;&lt;br&gt;이날 주진우 당시 서울경찰청 경비부장과 오부명 경북경찰청장(전 서울청 공공안전차장) 등이 증인으로 출석해 비상계엄 ‘국회 봉쇄’ 당시 상황을 진술했다. ​지난해 12월 3일 윤석열 대통령이 비상계엄을 선포하자 국회경비대는 오후 10시 46분쯤부터 국회 출입을 20분정도 통제했다가 다시 열어준 뒤, 오후 11시 37분 국회의원을 포함한 전면 통제에 나섰다.&lt;br&gt;&lt;br&gt;주 전 경비부장은 국회 전면 통제 지시가 재차 내려오자 현장에서는 혼란이 있었다고 설명했다. 포고령 1호의 ‘정치활동을 금지한다’는 조항이 국회의원 출입 통제와 상충되는지 각자 의견으로 논란이 있었다는 것이다. 그는 “최현석 당시 서울청 생활안전차장이 ‘긴급 시 포고령은 법률적 효과가 있다’고 말했다”며 “김 전 청장이 그 말을 듣고는 결론을 내리며 ‘이거 조지호 경찰청장 지시다’라고 손사래를 치고, 포고령에 따라야 한다고 말했다”고 했다.&lt;br&gt;&lt;br&gt;‘조 청장이 포고령에 근거해서 지시한 것이냐’고 묻자 주 전 경비부장은 “그 부분은 모른다”면서 “김 전 청장이 현장에서 ‘청장님 지시’라고 말해 조 청장 지시로 인식했다”고 답했다.&lt;br&gt;&lt;br&gt;다만 주 전 경비부장은 변호인 측 반대신문에서 국회 봉쇄 지시가 내려올 당시 계엄에 대한 언급은 없었다고 진술했다. 또, 경력 배치 때 출입 차단 목적이 아닌 우발 상황과 충돌을 방지하고 안전 관리를 위한 것이었는지 묻자 “그것은 맞는다”고 했다.&lt;br&gt;&lt;br&gt;주 전 경비부장은 실제 국회 외곽에 투입된 300여명의 경력으로 국회 봉쇄가 가능한가에 대해 “불가능하다”고 답했다. 어느 정도 인원이어야 봉쇄할 수 있는지 묻자 주 전 경비부장은 “국회 둘레가 2.5km이고 산술적으로 따지면 서울 전 부대를 동원해도 불가능하다”며 “전국 경력을 다 동원해도 경찰 부대로 통제한다는 건 장담은 못 한다”고 말했다. &lt;br&gt;&lt;br&gt;오부명 청장은 이날 “임정주 경찰청 경비국장을 통해 ‘포고령이 발령됐으니 다시 국회를 전면 차단하라. 청장님 지시’라는 얘길 듣고 이를 서울청장에게 전달했다”고 증언했다. 그는 2차 봉쇄 이후 전화가 왔을 때 ‘포고령이 있더라도 의원 출입을 막는 건 다시 한번 생각해보시고 건의해달라’고 했지만 받아들여지지 않았다고도 했다.&lt;br&gt;&lt;br&gt;조 청장과 김 전 청장은 비상계엄 당시 경찰 부대를 보내 국회를 봉쇄하고 ‘정치인 체포조’ 운영에 가담한 혐의를 받는다. 앞서 지난 20일 열린 첫 재판에서 조 청장과 김 전 청장은 국헌 문란의 의도가 없었고 “평상시와 마찬가지로 치안 임무를 수행한 것에 불과하다”며 혐의를 부인했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘2억 합의금’ 한밤 도로 누워있던 노인 치어 숨지게 한 운전자 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/LRTOSQHTBVGOVNZBEYRDIJFIAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/LRTOSQHTBVGOVNZBEYRDIJFIAU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 07:37:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLKEDSPMN24JW6UE6IV6EYZTJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야간 도로 사진. 기사와 직접적인 관련이 없음. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 도로 중간에 누워 있던 70대 남성을 차로 치어 숨지게 한 운전자에게 벌금형이 선고됐다. 재판부는 운전자가 피해자 유족에게 합의금 2억원을 지급하고 합의한 점 등을 참작해 이같이 판결했다고 밝혔다. &lt;br&gt;&lt;br&gt;14일 광주지법 형사9단독 전희숙 판사는 운전 중 부주의로 사망 사고를 낸 혐의(교통사고처리 특례법 위반)로 재판에 넘겨진 30대 남성 A씨에게 벌금 500만원을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;운전 업무에 종사하고 있는 A씨는 2024년 8월 8일 오전 1시 30분쯤 광주광역시 북구의 한 아파트 단지 입구 교차로에서 도로 중간에 누워 있던 70대 남성 B씨를 자신의 차량으로 치어 숨지게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;예견하기 어려운 사고이긴 했으나, A씨는 당시 교차로 진입 전 일시 정지선에서 일시 정지를 하지 않았고 전방 주시도 제대로 하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;70대 남성 B씨는 A씨 차량에 치인 후 병원으로 옮겨져 치료를 받던 중 지난해 5월 다발성 장기 부전으로 사망했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인의 주의 의무 위반으로 피해자가 사망하는 돌이킬 수 없는 결과가 초래되어 죄책이 가볍지 않다”면서도 “피해자 유족에게 합의금 2억원을 지급하고 합의해 유족이 처벌을 원하지 않는 점, 아무런 처벌 전력이 없는 초범인 점 등을 참작했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 4월 15일 수요일 (음력 2월 28일 己未)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/XSZSHD4KHNAQLKELUP6D2YMV3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/XSZSHD4KHNAQLKELUP6D2YMV3E/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>“차량 없는 척”…기초생활비 등 8000만원 챙긴 50대 집유</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/PNMQZTOFTZFUVLZTTYOE3XYKCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/PNMQZTOFTZFUVLZTTYOE3XYKCM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 06:31:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량 소유 사실을 숨기고 기초생활수급비 등 8000여 만원을 부정 수급한 50대 여성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;14일 울산지법 형사8단독 김정진 부장판사는 국민기초생활보장법 위반 등으로 재판에 넘겨진 50대 여성 A씨에게 징역 6개월에 집행유예 2년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 자신의 차량을 지인 명의로 등록해 타고 다니면서도 기초생활보장급여를 신청해 지난 2019년 7월부터 2024년 7월까지 154회에 걸쳐 7500여 만원을 받은 혐의다.&lt;br&gt;&lt;br&gt;A씨는 같은 수법으로 한부모가정지원비도 750만원 가량을 받았다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 부정하게 수급한 합계액이 상당하다”면서도 “피고인이 초범인 점, 자신의 잘못을 반성하는 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김성수 부산 해운대구청장 부부, 대출사기 혐의로 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/04/14/UEQ6G5X3O5HGVLOCDV3JYQMMMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/14/UEQ6G5X3O5HGVLOCDV3JYQMMMA/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 07:17:07 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEDG3AA3SWUW64EXAHOT34LLUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성수 해운대구청장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성수 부산 해운대구청장 부부가 은행에서 부정하게 대출받아 지인에게 빌려준 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;14일 부산경찰청과 검찰 등에 따르면, 김 구청장과 그의 배우자는 지난 10일 직권남용 권리행사방해 및 특경법상 사기 혐의로 검찰에 불구속 송치됐다.&lt;br&gt;&lt;br&gt;이들은 작년 부동산 매매 계약을 하는 것처럼 서류를 꾸며 은행에서 약 30억원 상당의 대출을 받은 뒤 지인 A씨에게 빌려준 혐의를 받는 것으로 알려졌다. A씨는 해운대구 소재 병원을 개설하는 데 이 자금을 사용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 구청장은 또 A씨가 병원을 개설하는 과정에서 인허가 관련 편의를 봐준 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;김 구청장은 이날 입장문을 내고 모든 혐의를 부인했다. 그는 “은행이 요구한 자료를 제공해 정상적인 대출 심사 절차를 거쳤다”며 “병원 인허가 사항은 시청 소관이고, 구청장이 개입할 수 있는 여지가 전혀 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>소방관 2명 숨진 냉동창고 화재... 30대 외국인 영장 신청</title>
       <link>https://www.chosun.com/national/national_general/2026/04/14/P74WGHVCM5AR3HTLTSG5UYO42E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/P74WGHVCM5AR3HTLTSG5UYO42E/</guid>
@@ -929,15 +951,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/HBRTIZDEMQZGIYRSGFQTIMBQGA.jpg?auth=c01d1e165b07628f8821f7a7525859b8ca050a5145a86d50d7458363bb9e64a5&amp;smart=true&amp;width=800&amp;height=360" type="image/jpeg" height="360" width="800">
         <media:description type="plain">지난 12일 오전 전남 완도군 군외면 한 수산물 가공업체 냉동창고에서 불이 나 소방관이 진화 작업을 하고 있다. /전남소방본부</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>대법 “총선 후보 공약 점수·등급 매기면 ‘서열화 금지’ 위반”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/14/SVW3JZBTPVBTBADV2VFTZUXOYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/SVW3JZBTPVBTBADV2VFTZUXOYI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 03:00:00 +0000</pubDate>
-      <content:encoded>제22대 총선 당시 후보들의 기후 관련 공약을 평가해 공직선거법 위반 혐의로 기소된 시민단체 활동가들에게 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4GIYJWMRQTENBQGRRWEMZSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 노경필 대법관)는 공직선거법 위반 혐의로 기소된 창원기후행동 박종권(74) 고문에게 벌금 100만원, 변기수(70) 전 대표 등에게 벌금 70만원을 선고한 원심을 확정했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;창원기후행동은 창원 지역 시민단체들이 기후위기 대응을 위해 설립한 단체다. 이들은 2024년 4월 제22대 국회의원 선거를 앞두고 창원 지역 후보자 11명의 기후 관련 공약을 평가해 -10점에서 +10점까지 점수를 부여하고, 최우수·우수·보통·미흡·낙제 등 등급을 매긴 뒤 창원시의회 앞 기자회견에서 이를 공개한 혐의를 받았다.&lt;br&gt;&lt;br&gt;공직선거법은 단체가 후보자 공약을 비교·평가하면서 점수나 순위, 등급 등으로 서열화하는 행위를 금지하고 있다. 이번 사건에서는 후보자 공약에 점수를 부여하고 등급을 매긴 행위가 이 같은 서열화 금지 규정에 해당하는지가 쟁점이 됐다.&lt;br&gt;&lt;br&gt;지난해 5월 1심은 “서열화란 일정한 기준에 따라 순서대로 늘어서게 하는 일체의 행위를 의미한다. ‘최우수·우수·보통·미흡·낙제’와 같은 등급 분류도 유권자에게 미치는 영향이 순위 나열과 동일하다”며 유죄를 인정했다. 피고인들은 기자회견 전 선거관리위원회(선관위)에 문의해 허용된 행위라고 주장했지만, 재판부는 “선관위는 해당 행위가 법에 위반된다고 안내한 것으로 보인다”며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이후 피고인들은 판결에 불복해 항소했지만 2심도 이를 기각했다. 대법원 역시 원심의 유죄 판단을 그대로 유지했다. 재판부는 “원심 판단에 공직선거법 제108조의3 제2항 제2호의 ‘서열화’ 등에 관한 법리를 오해한 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>e음카드 캐시백 20%, 주유비 할인… 인천시, 민생 지원 추경안 추진 </title>
@@ -959,19 +972,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/LRGQZ55GAZNTTLM4755FMHUUTQ.JPG?auth=725710a58a4621c9b3752b6f13b2ce6b186d37f500298f8887d93233c58d0d5f&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
         <media:description type="plain">(완도=뉴스1) 박지현 기자 = 14일 전남 완도군 농어민문화체육센터에서 열린 순직 소방공무원 영결식에서 운구가 진행되고 있다.  2026.4.14/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(완도=뉴스1) 박지현 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>교장실서 상담 중, 흉기로 교사 찌른 고3 학생</title>
-      <link>https://www.chosun.com/national/education/2026/04/14/3X3RBPFVBFGLDDD75EQ4YDLEEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/14/3X3RBPFVBFGLDDD75EQ4YDLEEM/</guid>
-      <dc:creator>김석모 기자, 표태준 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:46:00 +0000</pubDate>
-      <content:encoded>충남 계룡시의 한 고등학교에서 고3 학생이 교사에게 흉기를 휘두르는 사건이 벌어졌다. 가장 안전해야 할 학교에서 최근 이 같은 흉기 사건이 잇따라 발생하자 정부의 대책 마련이 시급하다는 목소리가 높아지고 있다. &lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면, 이날 오전 8시 41분쯤 계룡시 한 고등학교 3학년생 A(18)군이 학교 교장실에서 교사 B(38)씨에게 흉기를 휘둘렀다. 등과 목을 다친 B씨는 대전의 한 병원에서 응급 수술을 받았고 생명에는 지장이 없는 상태다. A군은 범행 직후 달아났다가 경찰에 자진 신고해 붙잡혔다. &lt;br&gt;&lt;br&gt;A군은 과거 중학생 시절 학생부장이었던 B씨가 본인을 훈육한 일에 불만을 품어온 것으로 알려졌다. B씨는 올해 이 고교 역사 교사로 전근을 오며 A군과 다시 만났다. A군은 B씨가 옆반 담임으로 부임하자 지난달 초부터 정신적 고통을 호소하며 등교를 거부했다. B씨는 A군에게 사과 편지를 보냈지만 문제가 해결되지 않았고, A군은 학교 측의 제안으로 지난 6일부터 아산시에 위치한 대안학교에서 위탁교육을 받아온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 A군은 대안학교가 아닌 해당고교를 찾아 교장에게 B씨와 면담을 요청했고, 교장이 자리를 비운 사이 교복 바지에서 준비해둔 흉기를 꺼내 휘두른 것으로 파악됐다. 경찰 조사에서 “중학생 시절 트라우마가 떠올라 범행했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최근 학교에서는 이런 흉기 사건이 끊이지 않는 상황이다. 경찰청에 따르면 학교 내 폭력 사건(상해·폭행 등)은 2022년 1283건, 2023년 1555건, 2024년 1561건 등 증가 추세다. 지난달 24일에는 광주광역시의 한 중학교에서 특수교육 대상자인 학생이 동급생 두 명에게 흉기를 휘둘러 다치게 하는 사건이 벌어졌다. 자고 있는데 친구들이 깨웠다는 이유였다. 지난달 19일에는 청주시 한 고교 복도에서 한 학생이 흉기로 동급생을 두 차례 찔렀다. 이 학생은 경찰 조사에서 “기분 나쁜 일이 있었는데 순간 욱해서 범행했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;작년 4월 20일에도 청주시 한 고등학생이 흉기 난동을 벌여 교직원 등 6명을 다치게 하는 사건이 벌어졌다. 학교생활 스트레스로 범행을 저지른 것으로 조사됐다. 당시 교육부는 이 사건을 계기로 돌발 위기 상황 대응 매뉴얼을 만들어 배포하고, 학교 안전 보안관을 늘리겠다고 발표했지만, 실효성이 없었던 셈이다. 교사에 대한 상해·폭행 사건은 2022년 347건, 2023년 488건, 2024년 502건 등 매년 증가 추세다. &lt;br&gt;&lt;br&gt;전문가들은 학생들이 교사에게 흉기까지 휘두르는 것은 ‘교권 추락’만으로는 설명이 어렵다고 보고 있다. 학생들의 전반적인 정신 건강이 악화된 영향이 크다는 것이다. 국가데이터처가 작년 발표한 ‘아동·청소년 삶의 질’ 보고서에 따르면, 일상생활에서 스트레스를 느낀다는 청소년이 2024년 42.3%로, 전년 대비 5%p 늘었다. ‘범불안장애 경험률’ 역시 14.1%로 전년 대비 1.5%포인트 증가했다. 박미랑 한남대 경찰행정학과 교수는 “정신적으로 힘든 시간을 보내는 학생들은 학교에서 느끼는 긴장도가 높고 해소 방법을 몰라 폭력으로 표출하는 경우가 있다”며 “정부가 학생 정신 건강을 면밀히 파악하고, 치료 대상 학생을 중심으로 흉기 소지 여부 등을 지속적으로 확인해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 충남교사노조는 성명을 내고 “학생인권조례의 ‘소지품 검사 제한’ 등으로 흉기 소지 여부 검사 같은 선제적 조치가 불가능한 상황”이라며 “위험을 인지하고도 개입하지 못하는 구조를 탈피할 법적·제도적 안전망이 필요하다”고 했다. 한국교총도 성명을 내고 “상해나 폭행, 성폭력 등 중대 교권 침해 조치 사항은 학생부에 기재해 범죄를 예방해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/URZF6YW74FBR3JSZCSJS544XEI.jpg?auth=a25348aaaa706c95d473855e5e80cec6a6539966a3338e2c2066f4ae575d295d&amp;smart=true&amp;width=600&amp;height=341" type="image/jpeg" height="341" width="600">
-        <media:description type="plain">학교 교실 자료사진. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">Hyosik</media:credit>
       </media:content>
     </item>
   </channel>
