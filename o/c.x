@@ -13,6 +13,153 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오염물질 배출 없는 백령도·연평도, 고농도 초미세먼지 발생 이유는?</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/F2XFOS24BNAQTF6M4ICIDIVTQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/F2XFOS24BNAQTF6M4ICIDIVTQ4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 03:26:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZGH33E2PNCLNDBEDCNNAZ452E.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천연구원이 발표한 '인천 도서지역 국외 초미세먼지 유입 특성 조사' 연구보고서 내용 중 일부. /인천연구원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해 최북단 백령도 등 인천 섬 지역의 초미세먼지가 중국 등 해외에서 바람을 타고 유입됐을 가능성이 높다는 연구 결과가 나왔다. &lt;br&gt;&lt;br&gt;인천연구원은 15일 이 같은 내용을 담은 ‘인천 도서 지역 국외 초미세먼지 유입 특성 조사’ 연구 보고서를 발표했다. &lt;br&gt;&lt;br&gt;이번 연구에선 2021년 3월~2023년 4월까지 인천 옹진군 백령도와 연평도, 울도 등 3개 섬에서 ‘24시간 평균 70㎍/㎥ 이상’ 고농도 초미세먼지(PM 2.5)가 발생한 기간에 대한 분석이 중점적으로 이뤄졌다. 이들 섬에 있는 국가 배경 농도 측정망과 백령도 대기 환경 연구소의 측정 자료가 활용됐다. &lt;br&gt;&lt;br&gt;백령도와 연평도, 울도의 연평균 초미세먼지 농도는 대기 오염 물질 배출량이 적음에도 2020년 이후 15~20㎍/㎥을 기록하는 등 서울, 경기 등 수도권 지역과 비슷하게 나타나고 있다. 특히 조사 대상 기간에 포함된 2023년 1월엔 백령도와 울도에서 260㎍/㎥ 이상의 초고농도 초미세먼지가 측정되기도 했다. &lt;br&gt;&lt;br&gt;분석 결과, 이들 섬 지역의 초미세먼지는 주로 중국 네이멍구와 허베이, 산둥, 랴오닝 등에서 발생한 초미세먼지가 북서 계열의 바람을 타고 유입된 것으로 추정됐다. 또 1~3월 사이 집중 발생했으며 질산염 성분이 초미세먼지 농도 증가의 주요 요인으로 파악됐다. &lt;br&gt;&lt;br&gt;연구 책임을 맡은 박현영 인천연구원 부연구위원은 “중국발 초미세먼지가 인천 도서 지역 고농도 초미세먼지 발생에 영향을 미치고 있음을 시사한다”며 “인천은 바람의 흐름상 국외 영향이 큰 지역인 만큼, 관련 국가와의 공동 연구와 협력 플랫폼 구축이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해외 떠돌던 현대캐피탈 해킹 사건 주범, 15년 만에 송치…심경 변화로 입국</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/3B6YHRVKSZDK5KKOIS5F7N26NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/3B6YHRVKSZDK5KKOIS5F7N26NA/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 04:59:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIJF75RRNVKR7ILCZIHYAZBEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 현판.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2011년 발생한 현대캐피탈 해킹 사건의 주범이 15년 만에 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사과는 50대 남성 정모씨를 정보통신망법 위반 등 혐의로 지난달 말 검찰에 구속 송치했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 지난 2011년 4월 다른 공범들과 함께 현대캐피탈 서버를 해킹하고 4만여 차례 무단 접속해 이용자 약 175만명의 개인정보를 빼돌린 혐의를 받는다. 당시 이 사건은 “금융권도 뚫릴 수 있다”는 국민적 충격을 안겨준 대형 보안 사고로 평가됐었다.&lt;br&gt;&lt;br&gt;정씨는 수사를 피해 필리핀 등에서 10년 넘게 도피 생활을 이어오다가 최근 개인 사정과 심경 변화를 이유로 입국한 것으로 전해졌다. 경찰은 피의자가 국내에 입국할 때 수사기관에 통보되는 ‘입국 시 통보 절차’를 통해 정씨를 체포했다고 한다. 해외에 머물던 정씨는 그간 수배 상태로 남아있었다.&lt;br&gt;&lt;br&gt;정씨가 검거되면서 현대캐피탈 해킹 사건 공범 대부분이 경찰에 붙잡혔다. 국내 총책인 허모씨는 사건이 일어난 그해 5월 구속 기소됐고, 정씨의 제안을 받아 해킹을 수행한 신모씨는 같은 해 10월 필리핀 현지에서 검거돼 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정선 시골마을서 20년만에 아기 울음 “응애”…온 동네 들썩</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/WUDYSUG3DRDEROHJ4Q6DI7DBVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/WUDYSUG3DRDEROHJ4Q6DI7DBVA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 04:49:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DC6JD7ONBJGRPDNZTNFDSVP4LE.png"&gt;&lt;figcaption&gt;&lt;small&gt;정선 문곡리서 20년 만에 태어난 아기. /정선군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인구 감소로 적막하던 강원 정선군의 한 시골 마을에 20년 만에 새 생명이 탄생했다.&lt;br&gt;&lt;br&gt;15일 정선군에 따르면, 최근 북평면 문곡리에 거주하는 김현동·장유진 부부가 아들을 출산했다. 한반도를 닮은 지형으로 ‘한반도마을’이라고도 불리는 문곡리에서 출생 소식이 전해진 건 20년 만이다.&lt;br&gt;&lt;br&gt;이에 마을엔 온통 축제 분위기가 이어졌다. 마을 곳곳에 축하 현수막이 내걸렸고, 행정복지센터를 비롯한 지역 기관·단체들도 잇따라 축하 행렬에 동참했다. 특히 아기 아버지가 활동 중인 군 수영연맹 회원들은 “백일잔치에 참여한 지 오래됐다”며 정성을 담아 백일반지를 마련하기로 했다. 백일잔치도 열릴 예정이다.&lt;br&gt;&lt;br&gt;아버지 김씨는 “이렇게 많은 분이 함께 기뻐하고 축하해주셔서 큰 힘이 된다”며 “현재 마을 반장을 맡고 있는 만큼 앞으로도 지역을 위해 더욱 성실히 일하겠다”고 했다.&lt;br&gt;&lt;br&gt;김철수 문곡리 이장은 “20년 만에 맞이한 마을의 큰 경사”라며 “부녀회원들과 함께 아기의 건강한 성장을 기원하는 백일잔치를 준비할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>꿈에 李 대통령 부부 나오더니... 연금복권 1·2등 동시 당첨</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/NKJRITVKIBCRXHPC2JGHAJELZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/NKJRITVKIBCRXHPC2JGHAJELZM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 04:33:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4TEM3EMZQTQNTBMM4GKNBRMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 복권판매점 앞에 복권을 사기 위한 시민들이 길게 줄을 서 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령 부부를 만나는 꿈을 꾼 뒤 복권을 샀다가 연금복권 1등과 2등에 동시에 당첨됐다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;지난 10일 동행복권에 따르면, 제310회차 ‘연금복권720+’ 추첨에서 서울 노원구의 한 판매점에서 복권을 구입한 A씨가 1등 1매와 2등 4매에 함께 당첨됐다.&lt;br&gt;&lt;br&gt;A씨는 최근 꿈에서 이 대통령 내외를 만나 인사를 나누는 장면을 생생하게 봤다고 한다. 그는 “좋은 기운을 놓치고 싶지 않아 꿈 내용을 누구에게도 말하지 않고 복권을 구매해야겠다고 결심했다”고 전했다.&lt;br&gt;&lt;br&gt;평소 로또와 연금복권 등을 꾸준히 사왔던 A씨는 판매점주의 권유에 따라 직접 번호를 골랐다. A씨는 “평소 좋아하는 숫자 ‘7’과 ‘죽기 살기로 해보자’는 간절함을 담아 끝자리가 ‘4’로 끝나는 번호를 선택했다”고 말했다.&lt;br&gt;&lt;br&gt;당첨 사실을 확인한 뒤 A씨는 가장 먼저 딸에게 소식을 전했다고 한다. A씨는 “딸이 ‘살다 보니 이런 날도 오네, 엄마’라며 함께 기뻐해 줬다”며 “간절했던 마음이 좋은 결과로 이어진 것 같아 감사하다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 이번 당첨금을 대출금 상환과 향후 주택 마련 자금으로 사용할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;연금복권720+는 조 번호와 숫자 6자리를 포함한 총 7자리를 맞혀야 한다. 보통 1세트는 5장으로 판매되는데, 모든 조를 같은 번호로 구매해 당첨될 경우 1등과 2등이 동시에 나오는 구조다. 1등 당첨금은 20년간 매월 700만원, 2등은 10년간 매월 100만원씩 지급된다. 총 당첨금은 21억6000만원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“캄캄한 길에 차량 줄지어” 공포체험장된 살목지에… 예산군 “야간 통행 금지” </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/AFSWGWYSKVF23ESHMZZ4NNJMWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/AFSWGWYSKVF23ESHMZZ4NNJMWI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 03:37:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRDAYZTGY3TCNTEGVRTSMDGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 새벽 충남 예산군에 있는 저수지 살목지로 향하는 자동차 행렬이 이어지고 있다. /X(엑스) 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공포 영화 ‘살목지’가 흥행하면서 영화 속 배경이 된 충남 예산군의 저수지에 한밤중 방문객이 몰리고 있다. 이에 예산군은 저수지 야간 방문을 자제해 달라고 했다.&lt;br&gt;&lt;br&gt;예산군은 14일 소셜미디어에 “귀신의 낙원 살목지”라는 제목의 안내문을 올려 “취사·야영·낚시·쓰레기 투척 금지, 밤에는 물가에 가까이 가지 않기, 오후 6시부터 다음 날 오전 6시까지는 통행 금지”라고 알렸다. &lt;br&gt;&lt;br&gt;군이 야간 통행 제한 조치에 나선 건 이곳을 배경으로 한 영화 ‘살목지’가 지난 8일 개봉하면서, 담력 체험을 위한 야간 방문객이 늘었기 때문이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBPLFOGRBZEBPDEWTTLFYARJYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;살목지 방문객이 늘자 예산군이 '취사 금지, 야간방문 통제'를 공지했다./ 예산군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 예산군 광시면의 살목지는 1982년 농업용수 공급을 위해 조성한 저수지다. 2022년 MBC ‘심야괴담회’에서 “한 여성이 퇴근길에 내비게이션이 이끄는 방향으로 운전하다 살목지에 빠질 뻔했고, 이후 교통사고로 혼수상태에 빠지는 등 기이한 현상을 겪었다”는 사연이 소개되면서 이름을 알렸다. 여기에 영화 흥행까지 겹치면서 방문객이 늘고 있다. &lt;br&gt;&lt;br&gt;소셜미디어에는 늦은 밤 살목지 인근에 차량들이 줄지어 서 있는 사진이 공유되기도 했다. 네티즌들은 “새벽 3시인데 핫플 됐다. 있던 귀신들 시끄러워서 다 강제 이주했겠다” “밤 12시에 지도 검색해보니 이 시간에 실시간 통행량이 149대나 있다” “살목지 살리단길 되겠네” “귀신 살리도” “이 정도면 양기로 귀신 퇴마했을 듯” 등의 반응이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3M5QDYBMK5GNBP22NDTFEM6CYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌이 야간에 충남 예산군 살목지에 방문해 촬영한 사진. / 블로그 '소이'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 네티즌이 블로그에 올린 방문 후기도 주목을 받았다. 그는 “심야 영화로 살목지를 보고 생각나서 서울에서 예산까지 드라이브 겸 살목지를 다녀왔다”며 “고속도로를 벗어나면 외진 길이 나온다. 가로등이 있지만 꽤 어둡다. 속도 제한이 없어도 빠르게 갈 수 없다”고 했다. &lt;br&gt;&lt;br&gt;그는 “살목지에 도착하니 아주 좁고 험난한 외진 길이 있다. 좌측으로는 숲이고 우측으로는 낭떠러지처럼 아래로 떨어질 수 있다”고 했다. 정면에서 차가 오면 비켜줄 곳이 없어 계속 후진해야 한다”며 “차 시동을 끄면 안 보일 정도로 어둡다” “담력 훈련을 즐기는 건지 텐트 치고 야영하는 분들도 있다”고 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘당근’에서 산 차량으로 무면허 운전한 고등학생…사고 내 적발</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/44CZ3WLZEVBVVLOULVUQQOEGW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/44CZ3WLZEVBVVLOULVUQQOEGW4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 02:13:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQNPEPJVUBAQHKMQQORT6DGYSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고등학생이 당근에서 구입한 차량을 몰고 있는 가운데 일행이 나란히 오토바이를 몰며 차량 유리창 너머에서 슈퍼맨 흉내를 내는 모습. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허인 10대 고등학생들이 중고 거래 플랫폼 ‘당근(옛 당근마켓)’을 통해 구매한 차량을 운전하다 사고를 내 경찰에 적발된 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;15일 부산 금정경찰서에 따르면 고등학생인 A군이 지난달 부산 금정구에서 에쿠스 차량을 몰다 사고를 내 경찰에 적발됐다. 경찰 조사 결과 A군은 친구 3명과 함께 차량을 번갈아 운전하다 사고를 낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들이 운전한 차량은 중고 거래 플랫폼인 ‘당근’에서 350만원을 주고 구매한 것으로 확인됐다. 이들은 온라인 플랫폼을 통한 개인 간 거래에선 신분증이나 면허 확인 과정이 없다는 점을 노렸다. 차량 등록은 20대 지인의 명의를 빌려 했다.&lt;br&gt;&lt;br&gt;공개된 영상에 따르면, 이들은 밤 시간 시속 120㎞가 넘는 속도로 도로를 달리며 차선을 넘나들었고, 일행은 나란히 오토바이를 몰며 차량 유리창 너머에서 슈퍼맨 흉내를 내기도 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “현재 교통과에서 수사를 맡고 있다”며 “자세한 내용은 수사 중”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 돌며 교량 동판 416개 훔친 일당 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/EVZ35I6ULZC5PGNOGVEYS3V65Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/EVZ35I6ULZC5PGNOGVEYS3V65Y/</guid>
+      <dc:creator>삼척=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 03:23:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XZCGJ37RBEI7LEWWRDR7JATRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰에 압수된 교량 동판 / 삼척경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국을 돌며 다리 동판을 훔친 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 삼척경찰서는 특수절도 혐의로 30대 A씨와 B씨를 구속했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 3월 21일부터 4월 7일까지 전국을 돌며 교명판이나 교량 설명판 416개를 훔친 혐의다. 이들이 훔친 동판 총 무게는 1910㎏으로, 이를 팔아 약 2000만원의 범죄 수익을 챙겼다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 이들은 경기 이천·여주·평택, 강원 춘천·삼척·인제, 충청 천안·제천, 경북 안동·문경 등 전국 22개 시·군 120개 교량을 찾아 이 같은 범죄를 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;전직 보험 설계사인 이들은 최근 구릿값이 급등함에 따라 범행을 저질렀다고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;삼척경찰서는 지난 3일 교명판이 없어졌다는 신고를 접수하고 방범카메라(CCTV) 등을 분석해 범행 장면을 포착, 지난 8일 이들의 주거지인 경기 안산과 인천에서 A씨와 B씨를 각각 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰은 이들이 훔친 교량 동판을 매입한 고물상 업주 등에 대해서도 장물취득 혐의로 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도피 중인 친구에게 수사정보 전달한 경찰관...항소심도 실형</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/5ILL5AKJXNFGHBZTOHRQFZMBZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/5ILL5AKJXNFGHBZTOHRQFZMBZQ/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 03:49:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가짜 석유 제품을 유통한 혐의를 받으며 도주한 친구에게 수사 정보를 전달한 혐의로 기소된 경찰관이 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 형사3-1부(재판장 홍은아사)는 범인도피 등 혐의로 기소된 경찰관 A씨와 검사가 각각 제기한 항소를 모두 기각하고 A씨에게 원심과 같은 징역 1년 6개월을 유지했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 모 경찰서에 근무하던 2023년 8월 석유 및 석유사업법 위반 혐의 피의자인 친구 B씨에게 수사 관련 내용을 전달해 B씨가 도피 대책을 세우는 것을 도운 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 B씨에게 사전 구속영장이 청구됐으나, B씨는 구속 전 피의자 심문(영장실질심사)에 출석하지 않고 도주하고 있었다.&lt;br&gt;&lt;br&gt;B씨의 공범이 구속돼 있던 상황에서 공범을 접견한 변호인들이 확보한 수사 상황을 A씨가 전달받아서 친구 B씨에게 건넸다.&lt;br&gt;&lt;br&gt;A씨가 B씨에게 전달한 내용 중 수사기관이 파악한 쟁점과 공범의 범위, 금전 거래·통화 내역뿐 아니라 향후 예상되는 수사 진행 방향에 대비한 책임 회피 진술 등도 언급돼 있었다. 또 유심 교체나 택시 이용 등을 당부하는 내용도 포함됐다.&lt;br&gt;&lt;br&gt;앞서 A씨는 같은 해 5월 경찰 내부망에 접속해 B씨의 수배 여부도 알아봐 줬다고 한다. 또 경찰서 아동안전지킴이에 지원한 B씨의 장모를 위해 관련 면접 평가 질문을 유출한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;남편인 A씨에게 면접 평가 질문을 전달한 C씨도 공무상 비밀 누설 혐의로 함께 기소됐다. C씨는 아동안전지킴이 관련 업무를 하는 경찰관이었다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “경찰관으로서 본분을 저버리고 친구에게 공무상 비밀을 누설하고, 공범으로부터 변호사 접견을 빌미로 전달받은 수사 사항 등을 도주 중인 친구에게 전달해 범인 도피 행위를 도왔다”며 “수사기관의 범죄 수사 기능에 지장을 초래했고, 경찰 직무의 공정성과 이에 대한 국민 신뢰도 훼손했다”며 징역 1년 6개월을 선고했다. A씨의 아내 C씨에게는 선고유예 판결을 했다.&lt;br&gt;&lt;br&gt;검사와 피고인 모두 ‘양형 부당’을 이유로 항소했으나, 2심 재판부는 1심의 판단이 정당했다고 봤다.&lt;br&gt;&lt;br&gt;2심 재판부는 “당심에 이르러 범행을 인정했지만, 사안의 중대성에 비춰 이를 양형에 적극적으로 반영할 만한 사정으로 평가하기 어렵다”며 “원심이 선고한 형이 너무 무겁거나 가벼워서 재량의 합리적인 범위를 벗어나 부당하다고 볼 수 없다”고 판시했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“노사상생 모범 찾는다”… 대구시,  ‘ 산업평화대상’ 공모</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/ULQRQUXCXFC3ZIRCRQ5AXTFKZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/ULQRQUXCXFC3ZIRCRQ5AXTFKZ4/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 02:02:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLOLFJ5EXQLLRC5VRAZFNQGBTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격동 청사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 23일까지 ‘제8회 대구시 산업평화대상’ 후보자를 모집한다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;산업평화대상은 지역 산업 현장에서 노사 상생·협력 문화를 앞장서 이끌어온 사업장과 유공자를 발굴·포상하기 위해 마련됐다. 시상은 ‘산업평화 사업장’과 ‘산업평화 유공자’ 부문이다. 사업장 부문에서는 모범 사업장 2곳을 선정해 각 사업장별로 근로자 대표와 사용자 대표 1명씩, 총 4명에게 시상한다. 유공자 부문에서는 유공자 1명을 별도 선정한다.&lt;br&gt;&lt;br&gt;신청 자격은 사업장 부문은 대구에 주사업장을 두고 3년 이상 업력을 보유한 기업의 근로자와 사용자, 유공자 부문은 대구에 3년 이상 살면서 노사 화합에 공적이 뛰어난 개인이다. &lt;br&gt;&lt;br&gt;이번 공모는 포상의 공정성을 높이기 위해 대구지방고용노동청, 대구경북지방중소벤처기업청, 기업 소재 구·군청 경제 부서, 대구상공회의소, 한국산업인력공단 대구지역본부, 한국노총대구지역본부, 대구경영자총협회, 주요 산업단지관리공단 등 유관 기관의 추천을 통해 접수받는다고 대구시는 밝혔다. &lt;br&gt;&lt;br&gt;‘산업평화 사업장’으로 선정된 기업에는 산업평화대상 우수업체기와 함께 근로환경 개선 사업비 등 인센티브가 제공된다. &lt;br&gt;&lt;br&gt;박기환 대구시 경제국장은 “녹록지 않은 경제 여건 속에서도 노사가 한마음으로 협력해 기업 성장을 이끌고 지역사회 발전에 이바지하는 분들이야말로 대구 경제의 진정한 원동력”이라며 “이번 산업평화대상이 더 많은 모범 사례를 발굴하고, 상생과 협력의 문화가 대구 전역에 뿌리내리는 계기가 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘성과급 7억 예상’ 하이닉스 생산직 “공고 졸업 후 취업, 인생 달다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/VPC5XI4SV5F2VJTAMTX3UXMLZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/VPC5XI4SV5F2VJTAMTX3UXMLZU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 00:35:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZTIMJSMUZDAYLDGIZTGZJXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 이천시 SK하이닉스 본사의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK하이닉스 임직원들의 성과급이 평균 수억 원에 달할 것이라는 예상이 나오는 가운데 한 생산직 직원이 올린 글이 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;14일 직장인 익명 커뮤니티 블라인드에는 “하이닉스 생산직인데 인생이 달다”라는 글이 올라왔다. 블라인드는 가입 시 회사 공식 메일 등을 통해 소속을 인증해야 이용할 수 있다.&lt;br&gt;&lt;br&gt;작성자는 20대이며 현재 하이닉스 생산직으로 재직 중이라고 밝혔다. 그는 “중학교 때 공부도 잘하지 않아서 인문계는 꿈도 꾸지 않고 취업이나 일찍 하려 했다”며 “동네 공업고등학교에 갔다가 편하게 전교 2등하고 지난해 이직해서 들어왔다”고 입사 과정을 밝혔다. &lt;br&gt;&lt;br&gt;그는 “학원 등을 한 번도 다닌 적이 없어서 돈 들 일도 없었다. 이만한 가성비 루트가 없다”며 “인생은 메타인지(자기 객관화)가 중요한 것 같다”고 했다. &lt;br&gt;&lt;br&gt;그는 추가 댓글을 통해 “당연히 사무직과 생산직은 입사 난이도부터 다른 것도 잘 알고 있다. 나는 스스로 수준 파악이 잘 되는 사람이기에 4년제 대학에 가도 대기업은커녕 중견기업도 못 갈 것 같아서 일찍 취업한 사례”라며 “물론 나 말고 스펙 좋고 뛰어난 분이 붙으실 수도 있었을 것이다. 당연히 운도 많이 따라줘야 한다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이 글은 최근 SK하이닉스 성과급 규모에 대한 전망이 나오면서 화제가 되고 있다. 증권가 일부 전망에서는 SK하이닉스가 AI 반도체 슈퍼사이클(초호황기)에 힘입어 올해 연간 250조원의 영업이익을 달성할 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이 전망이 현실화할 경우 내년 초 지급될 ‘초과이익분배금(PS)’의 재원(영업이익의 10%)은 25조원에 이른다. 직급과 연차에 따라 차이가 있겠으나, 단순하게 이를 전체 임직원 수(약 3만5000명)로 나누면 직원 1인당 평균 약 7억원의 성과급을 받게 된다.&lt;br&gt;&lt;br&gt;SK하이닉스는 AI 반도체 수요에 대응하기 위해 생산직(전임직) 직원 채용을 진행하고 있다. 모집 직무는 설비 유지·보수와 라인 운영을 담당하는 ‘메인트(Maintenance)’와 반도체 장비 운영과 품질 검사를 수행하는 ‘오퍼레이터(Operator)’다. 지원 대상은 고등학교 또는 전문대 졸업자로, 이달 22일까지 서류 접수를 받는다. 합격자는 경기 이천과 용인, 충북 청주 캠퍼스에 배치돼 고대역폭 메모리(HBM) 등 차세대 반도체 생산 라인의 유지·보수와 공정 관리를 맡을 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>光州 중학교서 학생이 교사 밀쳐 뇌진탕 부상</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/FF4PZQNOSJHOBNEZC2SWITVWKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/FF4PZQNOSJHOBNEZC2SWITVWKA/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 01:58:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAFFQJXUHCGVRDE3BURQ5OLN6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주시교육청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 한 중학교에서 학생이 교사를 밀쳤고, 이로 인해 교사가 뇌진탕 부상을 입은 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;15일 광주시교육청에 따르면 지난달 27일 광주의 한 중학교에서 A 교사가 뇌진탕을 입어 병가를 받았다. 이날 쉬는 시간 도중 B 학생이 A 교사를 밀쳤고, A교사는 넘어지면서 부상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B 학생은 A 교사가 대화 태도를 지적하자 실랑이를 벌이던 중 밀친 것으로 알려졌다. A 교사는 부상을 입은 직후 병원으로 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;해당 중학교는 B 학생에 대해 출석 정지 조치를 했다. 교육청은 교권보호위원회를 열어 정확한 사건 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SAFFQJXUHCGVRDE3BURQ5OLN6Q.jpg?auth=d660c705f9b165c838762315a7346360c1757e505d098f3582438ba62b079bcc&amp;smart=true&amp;width=719&amp;height=405" type="image/jpeg" height="405" width="719">
+        <media:description type="plain">광주시교육청 전경. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>보이스피싱 의심되면 여기로…대검 ‘찐센터’ 상담 건수 1년 새 3배 증가</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/15/JL4H6QRQ3RAIXFDOSZUX5F2HEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/JL4H6QRQ3RAIXFDOSZUX5F2HEY/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 01:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYGEMJVGIZTCYRSGM2GKNJTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청 ‘보이스피싱 서류 진짜인지 알려줘 콜센터(’찐센터‘)가 접수한 상담 건수가 1년 만에 약 3배 증가한 것으로 15일 나타났다. 보이스피싱으로 의심되는 전화와 문자를 받은 국민은 누구나 찐센터에 연락해 검사·수사관 사칭 여부 등을 안내받을 수 있다.&lt;br&gt;&lt;br&gt;찐센터가 접수한 월평균 상담 건수는 2024년 2291건에서 지난해 6717건으로 약 3배 늘었다. 올해에도 증가 추세는 이어져 지난달까지 총 9980건의 상담이 접수됐다.&lt;br&gt;&lt;br&gt;특히 찐센터는 지난해부터 카카오톡 채널 ‘대검찰청 찐센터’를 개설해 운영함으로써 접근성을 높여왔다. 기존 전화와 문자(010-3570-8242) 상담에서 모바일 메신저로 상담 채널을 다각화한 것이다. 해당 카카오톡 채널에서는 채팅 상담뿐 아니라 정기적으로 보이스피싱 수법 등에 대한 영상과 카드뉴스를 받아볼 수 있다. 또 위조 사이트로 의심되는 링크를 제보할 수도 있다. 위조 사이트가 맞다고 판단될 경우 한국인터넷진흥원(KISA)이 사이트를 차단한다.&lt;br&gt;&lt;br&gt;2020년 9월 서울중앙지검에 설치돼 출범한 찐센터는 지난해 2월부터 보이스피싱 범죄 전담 부서인 대검 조직범죄과로 이전했다. 대검 관계자는 “향후 보이스피싱 의심 사안에 대한 신속한 확인과 안내 기능을 강화하고 이를 적극 홍보하여 더 많은 국민들이 더욱 손쉽게 보이스피싱 여부를 확인함으로써 소중한 재산을 지킬 수 있도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘이상고온’ 내일까지...최고 27도 초여름 더위 계속</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/15/VUFDQUDISVFTLAOS5LRD6RA4NQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/15/VUFDQUDISVFTLAOS5LRD6RA4NQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 01:32:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3Q77KLO6BE3TPI5OFJS6JIOJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초여름 날씨를 보인 지난 14일 오후 서울 청계천에 외국인 관광객들이 더위를 피하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름을 방불케하는 이상고온 현상이 16일까지 이어지겠다고 기상청이 15일 밝혔다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 16일 낮 최고기온이 27도까지 오르면서 내륙을 중심으로 수은주가 크게 오르겠다. 16일 아침 최저기온은 5~12도, 낮 최고기온은 14~27도로 예보됐다. 낮과 밤의 기온차가 15도가량 벌어질 것으로 보인다.&lt;br&gt;&lt;br&gt;이번 이상고온의 원인은 우리나라 북쪽으로 이동성 고기압이 자리 잡은 상황에서, 남쪽으로 저기압이 통과하며 흔히 ‘여름 바람’으로 불리는 고온다습한 남동풍이 들어왔기 때문이다.&lt;br&gt;&lt;br&gt;고기압 영향권 아래에선 하늘이 맑고, 우리나라 상공에 지붕을 씌워놓은 듯 공기 정체가 발생해 낮동안 내리쬔 햇볕에 의해 기온이 크게 오른다. 대신 여름처럼 습하진 않아서 해만 떨어지면 기온이 빠르게 떨어진다. 그래서 최근 일교차가 크게 나타나는 것이다.&lt;br&gt;&lt;br&gt;이상고온 현상은 작년 4월에도 발생했다. 작년 4월 21일 서울의 최고기온이 27.1도까지 올랐고, 최저기온도 14.2도에 달해 일평균기온이 20.7도를 기록했다. 올해도 지난 14일 최고 28도, 최저 14.3도를 기록해 일 평균기온이 20.7도로 작년4월 최고 기록과 같았다. 다만 올해는 25도 넘는 더위가 3일 이상 지속돼 길어지는 경향을 보이고 있다. &lt;br&gt;&lt;br&gt;평년보다 6도가량 높은 기온은 17일 다시 예년과 비슷하거나 조금 낮아지겠다.&lt;br&gt;&lt;br&gt;16일 미세먼지 농도는 전 권역이 ‘좋음’∼‘보통’으로 예상된다. 수도권·충청권·광주·전북은 새벽 시간대에 ‘나쁨’ 수준을 보이는 곳이 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오재원도 고객...프로포폴 놔주고 41억 챙긴 피부과 의사, 징역 4년 확정 </title>
+      <link>https://www.chosun.com/national/court_law/2026/04/15/D7LSILE6YFHUJAJBXGH2HRPUXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/D7LSILE6YFHUJAJBXGH2HRPUXA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 00:18:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRDOZLCGIZDQZRRGBTDGZDBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미용 시술로 위장해 100여명에게 수면마취제 프로포폴 등을 불법 투약하고 40억원 넘는 수익을 올린 의사에게 대법원이 징역 4년의 실형을 확정했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 마약류관리법 위반(향정) 및 의료법 위반 등 혐의로 기소된 의사 노모(65)씨에게 징역 4년과 벌금 500만원을 선고하고 41억4000만여 원의 추징을 명령한 원심 판결을 지난달 확정했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;서울 강남구 청담동에서 피부과 의원을 운영하던 노씨는 2021년 1월부터 약 3년 6개월간 ‘프로포폴 장사’를 한 혐의로 재판에 넘겨졌다. 노씨는 장부에는 마취가 필요 없는 간단한 피부 시술을 하는 것처럼 꾸며 환자 105명에게 3703차례 프로포폴과 레미마졸람 등을 투약하고 41억4051만원을 받아 챙겼다. 그는 단속을 피하기 위해 식약처 마약류통합관리시스템(NIMS)에 타인 명의를 도용해 허위 보고를 하거나 진료기록부를 조작한 것으로 나타났다.&lt;br&gt;&lt;br&gt;노씨는 이미 심각하게 중독된 환자들에게 ‘생일 기념’이나 ‘교도소 출소 기념’이라며 프로포폴을 공짜로 놔주는 이벤트를 열고, 상담실장이나 간호조무사 등 직원들에게 매출을 내면 인센티브를 주기도 했다. 심한 경우 한 사람에게 하루 15~20차례 주사한 사례도 있었다. 노씨는 간호조무사를 시켜 스스로 프로포폴을 ‘셀프 투약’하기도 했다. 마약 투약 혐의로 유죄가 확정된 야구선수 오재원과 강남 한복판에서 마약에 취해 주차 시비 상대방을 흉기로 위협한 람보르기니 운전자 홍모씨도 이곳에서 투약한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “약물 오남용의 폐해와 위험성을 누구보다 잘 알고 있어야 할 의료인으로서 본분을 망각하고 중독자를 양산해 사회적 위해를 끼쳤다”며 징역 4년과 벌금 500만원을 선고했다. 노씨 측은 “수익금 중 일부는 실제 미용 시술비”라며 추징 대상에서 제외해야 한다고 주장했으나 법원은 “미용 시술은 수면마취를 가장하기 위한 수단에 불과했다”며 범행 기간 병원 수익금 전액인 41억4000여만원을 전부 추징하라고 명령했다. 다만 마약 거래(매매) 혐의에 대해선 “마약 판매보다 수면마취를 위해 약을 처분하는 행위에 가깝다”며 무죄로 판단했다. &lt;br&gt;&lt;br&gt;2심과 대법원의 판단도 같았다. 대법원은 “마약류관리법은 ‘투약’과 ‘매매’를 구분하고 있다”며 “특별한 사정이 없다면 의사가 업무 외 목적으로 향정신성의약품을 투여했더라도 ‘향정신성의약품을 매매하는 행위’로 볼 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“6월 역대급 장마 온다” 인스타 가짜뉴스… 기상청 “공식 발표 아니다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/KPQ3MQL225ENLKN43M33K76EHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/KPQ3MQL225ENLKN43M33K76EHM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 00:03:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHW4KREE3NDWBOGRLSMWE2SOQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 장마를 예측한 가짜뉴스 /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 소셜미디어에서 ‘장마 예측 기간’ 게시물이 확산하자 기상청은 공식 발표 내용이 아니라고 반박했다. &lt;br&gt;&lt;br&gt;기상청은 14일 “현재 소셜미디어에 확산하는 장마 전망은 기상청 공식 발표 내용이 아니다”라면서 “혼선이 없기를 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;최근 인스타그램 등 소셜미디어에는 “2026년 여름 장마 기간 떴다” “올해 6월 역대급 장마가 온다” “한 달 내내 비가 내릴 것” 등의 게시물이 확산하고 있다. 글 내용을 보면 평년(1991∼2020년 평균) 장마 기간을 올해 장마 기간 예상처럼 표현했다. 장마철이라고 매일 비가 오는 것은 아니지만 장마철 내내 비가 내린다고 과장해 표현하는 글도 있었다. &lt;br&gt;&lt;br&gt;장마는 여름철 북태평양고기압이 한반도 부근으로 북상하면서 가장자리를 따라 들어오는 고온다습한 공기와 북쪽 한랭 건조한 공기가 충돌하면서 정체전선이 형성돼 장기간 비가 내리는 현상을 말한다.&lt;br&gt;&lt;br&gt;기상청은 1961년부터 2008년까지 장마 시작일과 종료일을 예보했다가 2009년 중단했다. 기후변화로 극한 호우 패턴이 잦아지면서 시종일 예보가 무의미해졌기 때문이다. 일본과 중국도 장마 예측은 하지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼척 환선굴 전망대서 60대 관광객 추락해 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/BUQTSCKG7NDR7MVCHIYKV3GXPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/BUQTSCKG7NDR7MVCHIYKV3GXPM/</guid>
+      <dc:creator>삼척=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Apr 2026 23:38:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVV46QV23ZGNDMUBP4LG3MERU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오후 강원 삼척시 환선굴 은하전망대에서 60대 관광객이 2.5m 아래로 추락하는 사고가 발생, 소방대원들이 구조 작업을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 삼척시 환선굴 전망대에서 60대 남성이 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;15일 강원소방본부에 따르면, 전날 오후 4시 53분쯤 강원 삼척시 신기면 환선굴 내 은하전망대에서 A(65)씨가 2.5m 아래로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 병원에 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 방범 카메라(CCTV) 등을 토대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김용현과 노상원·무속女, 그리고 비선 라인…12·3 계엄 그 이틀간 기록</title>
       <link>https://www.chosun.com/national/court_law/2026/04/15/R26TO35YT5DHNAJWD6GCIVRVEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/R26TO35YT5DHNAJWD6GCIVRVEA/</guid>
@@ -695,24 +842,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYTOMRWMU4TEMZQMVQTGMDFGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 곽튜브(본명 곽준빈)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민권익위원회가 유튜버 곽튜브(본명 곽준빈) 배우자의 산후조리원 협찬 논란과 관련해 청탁금지법 적용 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;14일 권익위에 따르면, 사무처 부패방지국 청탁금지제도과는 지난 10일 관련 질의 민원을 접수하고 이 사안이 법 위반에 해당하는지 여부를 분석 중이다.&lt;br&gt;&lt;br&gt;민원 작성자는 ▲배우자가 직접 향유한 편익을 공직자 본인의 수수로 볼 수 있는지 ▲유튜버의 홍보 효과만 기대한 경우에도 직무 관련성이 인정되는지 ▲업그레이드 비용 차액이 금품 가액 산정 기준이 되는지 등을 문의했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N65G6OX3HBGEHEJRAEW3RQQ5AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽튜브가 아이를 돌보고 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;논란은 곽튜브가 지난 1일 인스타그램에 산후조리원 이용 사진과 함께 ‘협찬’ 해시태그를 게시했다가 삭제하면서 불거졌다.&lt;br&gt;&lt;br&gt;당초 곽튜브 측은 “전체 협찬이 아닌 객실 업그레이드 등 일부 서비스만 제공받은 것”이라고 해명했다. 그러나 해당 산후조리원의 이용 요금은 2주 기준 가장 낮은 등급인 로얄이 690만원, 최고 등급인 프레지덴셜 스위트가 2500만원으로 책정돼 있다. 이 때문에 업그레이드에 따른 차액이 최소 360만원에서 최대 1810만원에 달한다는 사실이 알려지며 비판이 제기됐다.&lt;br&gt;&lt;br&gt;현행 청탁금지법은 공직자 등이 직무 관련 여부와 관계없이 동일인으로부터 1회 100만원, 연간 300만원을 초과하는 금품을 받을 수 없도록 규정하고 있다. 산후조리원 혜택이 산모에게 집중되는 특성상, 공무원 신분인 배우자가 실질적 수혜자라면 법 위반에 해당할 수 있다는 지적이다.&lt;br&gt;&lt;br&gt;논란이 확산되자 곽튜브는 “배우자가 공무원 신분인 만큼 논란이 제기된 이후 법률 자문을 구했고 해당 협찬이 저와 산후조리원 사이의 사적 계약이며 배우자의 직무와도 연관성이 없다는 점을 확인했다”면서도 “부족했던 저의 배려심을 반성하며 예전부터 마음에 담아두고 있었던 미혼모분들을 위한 지원에 3000만원을 기부하고자 한다”고 밝혔다. 이어 산후조리원 측에도 협찬받은 차액을 전액 지불했다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>화성 제조업체 ‘에어건 상해’ 의혹…경찰, 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2026/04/14/6NUH7JHTMJFMZMR7IQFZQEAFHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/14/6NUH7JHTMJFMZMR7IQFZQEAFHE/</guid>
-      <dc:creator>화성=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 23:35:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성시의 한 제조업체에서 대표가 외국인 노동자를 상대로 에어건을 분사해 중상을 입힌 사건과 관련해 경찰이 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;경기남부경찰청 광역수사단 광역범죄수사대는 14일 오전 8시부터 화성시 소재 해당 업체에 수사관 20여명을 투입해 압수수색 영장을 집행하고 있다고 밝혔다. 앞서 경찰은 지난 7일 이 사건에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;이 사건은 업체 대표가 외국인 이주 노동자에게 고압의 공기를 분사해 장기 손상을 입혔다는 의혹이 제기되며 논란이 됐다. 피해 노동자는 복부 팽창과 호흡 곤란 증세를 보여 병원 치료를 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이날 압수수색을 통해 대표의 휴대폰과 감시카메라 영상 등을 확보해 실제 가해 행위가 있었는지 등을 집중적으로 들여다볼 방침이다. 앞서 경찰은 이 사건 업체로부터 에어건 2대를 임의제출 받아 위력 등을 분석하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> ‘대전 오월드 탈출’ 늑구 발견...포획 시도 중</title>
-      <link>https://www.chosun.com/national/regional/2026/04/14/E2GXQWEUHVDO5MNUO7I2SZO6N4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/14/E2GXQWEUHVDO5MNUO7I2SZO6N4/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 22:05:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DGYZSMQZDKZRVGA4DSNZWME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 대전 오월드에서 탈출한 늑대 '늑구'의 모습./대전소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 오전 대전 오월드에서 탈출해 행방이 묘연했던 늑대 ‘늑구’가 오월드 인근 산에서 발견됐다. &lt;br&gt;&lt;br&gt;14일 대전소방본부에 따르면, 전날 오후 10시 43분쯤 오월드 인근 야산에서 늑구를 목격했다는 신고가 119에 접수됐다. 수색 당국 관계자들이 현장을 확인한 결과 늑구가 맞는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;현재 늑구를 한쪽으로 몰아 포획하기 위해 수색 당국 관계자들과 대치 중인 상황이다. 늑구가 발견된 지점은 오월드에서 약 1.8㎞ 떨어진 야산으로 알려졌다.&lt;br&gt;&lt;br&gt;수색 당국 관계자는 “곧 본격적인 포획 작전을 실시할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;늑구는 지난 8일 오전 9시 18분 대전 오월드 사파리 철조망 밑 땅을 파고 탈출했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>교장실서 상담 중, 흉기로 교사 찌른 고3 학생</title>
       <link>https://www.chosun.com/national/education/2026/04/14/3X3RBPFVBFGLDDD75EQ4YDLEEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/14/3X3RBPFVBFGLDDD75EQ4YDLEEM/</guid>
@@ -726,45 +855,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘경영계 달래기’ 나선 중앙노동위원장 “노동계 주장, 무식하게 판단 안할 것”</title>
-      <link>https://www.chosun.com/national/labor/2026/04/14/GNB4SYFS7JF2DLUXCFKKNVR2GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/14/GNB4SYFS7JF2DLUXCFKKNVR2GM/</guid>
-      <dc:creator>세종=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:46:00 +0000</pubDate>
-      <content:encoded>박수근 중앙노동위원장은 노란봉투법 시행 한 달을 맞아 산업 현장 곳곳에서 혼란이 벌어진 데 대해 “(사용자성이 인정된) 기업들은 하청 노조와 만나서 애로 사항을 듣고, 받아들일 건 받아들이고 거부할 건 거부하면 된다”고 밝혔다. 박 위원장은 또 하청 노조와 교섭에 응해야 하는 ‘사용자성’이 노동위원회에서 인정되더라도, 교섭 의제에 ‘임금 인상’ 등을 포함시키지 않아도 된다는 점을 강조했다. 이를 놓고 일각에선 “최근 각 지방노동위원회가 ‘사용자성 판단’ 사건에서 연이어 하청 노조의 손을 들어주는 상황에서 경영계 달래기에 나선 것 아니냐”는 해석도 나온다. 중앙노동위원회는 전국 지방노동위원회의 판정을 재심하는 상급 기관으로, 사실상 ‘사용자성’ 판단 기준을 제시하는 역할을 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXDPWMG5AZG5VOMHU4EKACL6SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수근 중앙노동위원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 위원장은 13일 정부세종청사에서 기자 간담회를 갖고 “경영계 우려에 동의한다”고 했다. 그동안 노란봉투법을 놓고 “1년 내내 다수 하청 노조와 교섭을 해야 하는 것 아니냐”는 우려가 제기돼왔다. 또 현장에선 하청 노조들이 ‘산업 안전’ 등 비교적 사용자성을 인정받기 쉬운 의제를 앞세워 원청 기업을 교섭 테이블로 불러낸 뒤, 임금·복지 문제로까지 협상을 요구할 것이란 관측이 나온다. 이에 박 위원장은 “교섭 의무가 없는 의제에 대해 기업이 교섭을 거부해도 ‘부당 노동’ 행위에 해당하지 않는다”며 “노동계도 과하게 주장하는 내용이 많은데, 노동위원회가 (노동계 주장을 다 들어줄 정도로) 무식하게 판단하지 않을 것”이라고 했다. &lt;br&gt;&lt;br&gt;하지만 현장에선 교섭 의제가 아니라는 이유로 노조의 교섭 요구를 일방적으로 거절하기는 쉽지 않다는 지적이 많다. 박 위원장의 말처럼 ‘거부할 것은 거부할 수 있는 상황’이 아니라는 것이다. 한 대기업 관계자는 “교섭 의제 중 하나라도 사용자성이 인정되면 파업 등 쟁의 행위로 이어질 수 있다”며 “전체 공정이 지연되고 수억 원씩 손실이 발생할 수 있는 상황에서 단호하게 ‘그건 안 된다’고 말할 수 있는 ‘간 큰’ 기업이 얼마나 될지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;박 위원장은 이날 “노란봉투법은 노동자 중 가장 어려운 사람들을 위해 필요한 법”이라면서 양대 노총(한국노총·민주노총)을 비판하기도 했다. 그는 “양대 노총이 하청 노동자 고용을 위해 얼마나 노력했는가”라며 “문재인 정부 당시 ‘인천국제공항공사 사태’처럼, 원청도 자신들의 임금 감소와 고용 불안을 우려해 하청 노동자 고용을 반대한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한글 뗐는데도 계속 책을 읽어줘야 할까요?</title>
-      <link>https://www.chosun.com/national/education/2026/04/14/O4OGZZ55HVCIJGC7CFIBE2GIFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/14/O4OGZZ55HVCIJGC7CFIBE2GIFE/</guid>
-      <dc:creator>김다정 초등독서강사·'엄마의 질문력' 저자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 18:00:00 +0000</pubDate>
-      <content:encoded>“이제는 혼자 읽어보자.”&lt;br&gt;&lt;br&gt;책을 다 읽어준 뒤, 부모는 조심스럽게 말을 건넵니다. 아이의 손에 책을 건네면 몇 페이지를 넘기다 이내 멈춥니다. 분명 글자를 읽고 있었는데, 이어지지 않습니다.&lt;br&gt;&lt;br&gt;그리고 잠시 뒤, 아이는 묻습니다.&lt;br&gt;&lt;br&gt;“이게 무슨 내용이야?”&lt;br&gt;&lt;br&gt;영유아기 때 책을 열심히 읽어줬는데, 초등학교에 입학하면 부모는 같은 고민 앞에 서게 됩니다. 더 이상 책을 읽어주지 않아도 될 것 같고, 계속 읽어주자니 오히려 의존하게 될까 걱정도 됩니다. 그래서 어느 순간, 부모는 책을 읽어주기를 멈추려 합니다. &lt;br&gt;&lt;br&gt;하지만 이때 우리가 놓치기 쉬운 사실이 있습니다. 아이가 읽지 못하는 것이 아닙니다. 읽고 있지만, 아직 ‘따라가고’ 있지 못하다는 데 있습니다. 글자를 읽을 수 있다는 것과, 이야기를 하나의 흐름으로 따라가는 힘은 다릅니다. 앞 문장과 다음 문장을 연결해 하나의 이야기로 이어가는 데는 아직 서툴 수 있기 때문이죠.&lt;br&gt;&lt;br&gt;아직 읽기 독립을 하기에는 준비가 덜 된 상태일까. 이 시점을 두고 학부모님들은 언제 아이가 스스로 읽게 되는지를 궁금해하고, 대신 읽어주기를 멈추려 합니다. &lt;br&gt;&lt;br&gt;그런데 읽어주기를 멈춰야 할 시점보다, 방식이 바뀌어야 할 시점이 더 중요합니다. 아이가 글자를 읽기 시작했다면, 이제는 내용을 더 깊이 따라갈 수 있도록 지켜봐 주고, 질문을 건네는 역할로 옮겨가야 합니다. &lt;br&gt;&lt;br&gt;“꼭 기억하고 싶은 내용을 한 문장으로 말해줄 수 있어?”&lt;br&gt;&lt;br&gt;아이는 흥미 있게 읽은 내용을 자기 언어로 붙잡아보는 경험을 해봅니다. 완벽하게 말하지 않아도 괜찮습니다. 그 순간, 읽어주기는 함께 들으며 생각하는 경험이 됩니다. &lt;br&gt;&lt;br&gt;아이가 혼자 읽는 연습은 필요합니다. 그러나 저학년일수록 모든 읽기를 혼자 감당하게 할 필요는 없습니다. 글자는 혼자 읽을 수 있어도, 생각은 책과 대화를 나눌 때 함께 자라나기 때문입니다. &lt;br&gt;&lt;br&gt;읽어주기를 멈춰도 되는 시점은 생각보다 분명합니다. 아이에게 이런 변화가 보인다면, 그때가 신호입니다. &lt;br&gt;&lt;br&gt;이때 비로소 아이는 읽는 아이에서 이해하는 아이로 넘어가고 있는 중입니다.&lt;br&gt;&lt;br&gt;“언제까지 읽어줘야 할까요?”라는 질문을 이렇게 바꿔보면 어떨까요.&lt;br&gt;&lt;br&gt;언제까지 읽어주는지가 아니라 언제까지 함께 생각해 볼까.&lt;br&gt;&lt;br&gt;읽어주기는 멈추는 일이 아니라, 아이의 마음속으로 옮겨가는 과정입니다. 그 시간 속에서 함께 나눈 문장 하나가 오래 살아남아, 다음 생각을 조용히 피워냅니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QBOAWG5CLRATLPMHY7FNRUAXQ4.jpg?auth=4ec48a851c7284825ccb679e8d2b503c69866d0e571dff40b3ce5551283d7130&amp;smart=true&amp;width=3840&amp;height=1920" type="image/jpeg" height="1920" width="3840">
-        <media:description type="plain">그래픽=조선디자인랩 김연주·Midjourney</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>인권위 “우크라 北포로 데려와야”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/DA2AVK7FOZGMBFOTLL5IAHCT5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/DA2AVK7FOZGMBFOTLL5IAHCT5I/</guid>
-      <dc:creator>구아모 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:54:00 +0000</pubDate>
-      <content:encoded>국가인권위원회가 13일 우크라이나군에 생포된 북한군 포로 2명의 신속 송환이 이뤄질 수 있도록 한국 정부가 지원해야 한다는 의견을 국무총리와 외교부 장관에게 밝혔다. &lt;br&gt;&lt;br&gt;국가인권위는 이날 제7차 전원위원회를 열어 ‘우크라이나 북한군 포로의 생명·신체 및 정신건강 보호와 대한민국 입국을 위한 인도적 조치 권고의 건’을 논의하고 이같이 결정했다. 인권위는 ‘의견 표명’ 형식으로 입장을 냈고, 이런 방침에 인권위원 11명 전원이 찬성했다.&lt;br&gt;&lt;br&gt;인권위는 이날 러시아군에 파병됐다가 우크라이나군에 생포된 북한군 포로 2명과 관련해 러시아로의 강제 송환 금지, 대한민국 등으로의 안전한 입국 추진, 우크라이나 당국과 협의를 통한 생명·건강 보호, 국제기구와의 공조 등을 주문했다. 이는 인권 보호의 차원을 넘어, 사실상 북한군 포로들을 러시아 측에 넘기지 말고 한국으로 데려오라는 취지로 해석된다.&lt;br&gt;&lt;br&gt;인권위는 애초 지난달 23일 제6차 전원위에서 정부에 북한군 포로와 관련한 직접적인 조치를 요구하는 ‘권고’ 형태로 입장을 정리하려 했다. 그러나 정부의 북한군 한국 입국을 위한 외교적 조치를 고려해 ‘의견 표명’ 형식으로 입장을 밝혔다. &lt;br&gt;&lt;br&gt;우크라이나에 생포된 북한군 포로 2명은 작년 2월 본지 인터뷰에서 한국행 의사를 밝혔고, 이후 러시아가 우크라이나와 포로 교환 과정에서 이들의 송환을 요구한 사실도 확인됐다. 이런 가운데 인권위가 정부에 인권 보호와 송환 조치를 촉구하고 나선 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇외교적 부담에 ‘권고 → 의견 표명’ 수위 낮춰&lt;/b&gt;&lt;br&gt;&lt;br&gt;우크라이나에 생포된 북한군 포로 2명이 한국행을 원한다는 사실은 지난해 2월 본지가 이들을 현지에서 인터뷰하면서 알려졌다. 북한군 포로 리모(27)씨와 백모(22)씨는 본지 인터뷰에서 “한국에 가고 싶다”는 뜻을 밝혔고 이후로도 이런 뜻을 일관되게 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PS43R6QOYRCODLCCFXYU7XX7RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한군 포로 리모 씨(왼쪽)와 백모 씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 우크라이나 정부와 한국 정부 간에 포로 송환을 둘러싼 논의가 이어졌다. 작년 12월에는 탈북민 단체를 통해 이들의 귀순 의사가 담긴 자필 편지가 공개됐다. 포로 2명은 편지에 “한국에 계신 분들을 친부모, 친형제로 생각하고 그 품속으로 가기로 마음먹었다”는 내용을 담았다.&lt;br&gt;&lt;br&gt;그러던 중 러시아가 우크라이나와 포로 교환 과정에서 북한군 포로 2명을 여러 차례 송환해 달라고 요구한 사실이 지난 3월 국민의힘 유용원 의원 기자회견을 통해 공개됐다. &lt;br&gt;&lt;br&gt;이후 인권위는 포로 2명과 관련한 권고안 논의를 시작했다. 지난 3월 9일 열린 인권위 전원위원회에서 오완호 인권위원은 “인권위가 포로 송환을 촉구하는 의견 표명을 해야 한다”고 주장했다. 그러나 지난달 23일 인권위 전원위를 앞두고 외교부가 “포로 송환 문제는 우크라이나·러시아와의 협상 등 고도의 외교적 고려가 필요한 사안”이라는 의견을 전달하면서 일부 위원들이 이견을 제시했다. &lt;br&gt;&lt;br&gt;결국 위원 간 조율을 거쳐 13일 전원위원회에서 안건이 재상정됐고, 결국 ‘권고’보다 수위를 낮춘 의견 표명 형식으로 전원일치 의결됐다. 위원들 사이에서는 ‘시정(권고)’보다는 정부의 인도적 결단에 힘을 실어주는 ‘의견 표명’이 보다 실효적이라는 의견이 힘을 얻은 것이다. &lt;br&gt;&lt;br&gt;인권위원 11명은 대통령 지명 4명, 대법원장 지명 3명, 국회 선출 4명(여야 각 2명)으로 구성된다. 인권위 관계자는 “정치 성향을 떠나 북한 포로들을 안전하게 한국으로 데려와야 한다는 데 위원들 간에 이견이 없었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 조선일보 환경대상 주인공을 찾습니다</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/14/LURMNTYG4JFN3IWJMMBOGWDBNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/14/LURMNTYG4JFN3IWJMMBOGWDBNA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AE3WKNO5YFERRAKWSKKTIGSKOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제34회 조선일보 환경대상’의 주인공을 찾습니다. 조선일보 환경대상은 1993년 환경부(현 기후에너지환경부)와 조선일보사가 공동 제정한 국내 최초이자 최고 권위의 환경 부문 사회 공로상입니다. 전 국민의 환경운동 열기와 환경 보전 의식을 고취시키자는 취지로 제정한 이 상은 환경을 보전하고 개선시키기 위해 묵묵히 노력해 온 개인, 단체, 기관, 기업 등이라면 누구나 신청할 수 있습니다. 환경 보호에 관심과 뜻이 있는 많은 분의 신청 바랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲시상&lt;/b&gt;: 상패 및 상금(수상자 각 1500만원), 기후에너지환경부 장관 상장&lt;br&gt;&lt;br&gt;&lt;b&gt;▲제출 서류&lt;/b&gt;: 신청서 및 증빙 자료(홈페이지에서 양식 내려받으세요, 증빙 서류는 사본 제출)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲접수 마감&lt;/b&gt;: 4월 24일(금) 우편 소인까지&lt;br&gt;&lt;br&gt;&lt;b&gt;▲시상식&lt;/b&gt;: 6월 말 (예정)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲접수처&lt;/b&gt;: (우편번호 04519) 서울 중구 세종대로21길 30 조선일보 문화사업단 내 환경대상 집행위원회&lt;br&gt;&lt;br&gt;&lt;b&gt;▲문의&lt;/b&gt;: (02)724-6324&lt;br&gt;&lt;br&gt;&lt;b&gt;▲홈페이지&lt;/b&gt;: grand.chosun.com&lt;br&gt;&lt;br&gt;&lt;b&gt;▲후원&lt;/b&gt;: 한국환경공단&lt;br&gt;&lt;br&gt;&lt;b&gt;▲주최&lt;/b&gt;: 기후에너지환경부·조선일보사&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“한국, 개인에 간병 떠넘겨… 日은 집에서 치료사 돌봄받고 여행도”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/04/15/OP3X2LGXKFHOPF46EHSGAZQZKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/15/OP3X2LGXKFHOPF46EHSGAZQZKI/</guid>
@@ -775,42 +865,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5LID4EBMFCDXJ4SSBPHGD4ENA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;남상요 교수&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“日, 간병 담당 복지사 200만명&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;식사·치료 계획 등 세심한 관리&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;전문직으로 인정, 20대도 많아”&lt;/b&gt;&lt;br&gt;&lt;br&gt;일본 의료 정책 전문가인 남상요 인하대 정책대학원 노인학과 교수는 13일 본지 인터뷰에서 “일본에선 눈만 깜빡이는 중환자가 집에서 치료를 받으면서 가족 여행도 가고, 부부 싸움도 한다”고 했다. 다음은 일문일답. &lt;br&gt;&lt;br&gt;-한국 정부도 내년부터 요양 병원을 대상으로 간병비 지원을 시작한다. 어떻게 평가하나.&lt;br&gt;&lt;br&gt;“더 일찍 했어야 한다. 세계 주요 국가 중 간병 책임을 국가가 지지 않고 개인에게 전가하는 건 우리나라가 유일하다. 부끄러운 일이다.”&lt;br&gt;&lt;br&gt;-일부 요양 병원에 대한 구조 조정도 병행해야 하나. &lt;br&gt;&lt;br&gt;“그렇다. 질 낮은 간병을 하는 병원까지 지원하는 건 곤란하다. 정부도 1200여 요양 병원 중 중환자 입원율이 높은 500곳에 대해서만 간병비를 지원하겠다는 입장이니, 자연스럽게 감축이 될 것이다. 질 높은 요양 병원 지원에 집중해야 한다.”&lt;br&gt;&lt;br&gt;-질 높은 요양 병원이 무슨 뜻인가.&lt;br&gt;&lt;br&gt;“중환자를 위한 세세한 의료 서비스를 제공하는 병원이다. 그래야 손이 많이 가는 중환자를 제대로 돌볼 수 있다. 일본의 경우 치매에 특화된 ‘세부 진료 항목’이 41개 있다. 모두 수가(정부가 병원에 주는 돈)를 받는다. 그중엔 ‘환자 생활 습관 관리’ ‘환자 가족 상담’ 등이 포함돼 있다. 우리나라엔 없는 항목이다. 한국은 일반적인 치료·간병만 하니 중환자 케어가 어려운 것이다.” &lt;br&gt;&lt;br&gt;-간병 인력난 해결을 위해 해외 인력을 데려와야 하나.&lt;br&gt;&lt;br&gt;“일본도 2000년대부터 국가 간 협정을 통해 동남아에서 간병 인력을 들여왔지만 근본적 해결책이 아니었다. 일본으로 들어온 외국 간병 인력이 이직하는 경우가 많았기 때문이다. 결국 자국의 젊은 층이 유입돼야 한다.”&lt;br&gt;&lt;br&gt;-그럼, 어떻게 해야 하나.&lt;br&gt;&lt;br&gt;“정부가 간병인을 사회적으로 인정받는 전문직으로 만들어야 젊은 층이 들어온다. 지금 우리나라 요양 병원의 간병인 대부분은 60·70대다. 간병인은 전문성도 없고 소득도 낮은 3D(어렵고 더럽고 위험한 일) 직종으로 인식돼 젊은 층이 외면하기 때문이다.”&lt;br&gt;&lt;br&gt;-전문직 간병인이란 게 어떤 건가.&lt;br&gt;&lt;br&gt;“가령 일본의 개호(돌봄) 복지사를 참고할 수 있다. 개호 복지사가 되려면 전문대 개호복지학과에서 2년 이상 교육을 받고 국가 자격 시험에 통과해야 한다. 개호 복지사는 환자의 식사 등을 보조하는 일도 하지만 환자의 치료·돌봄 계획을 짜고 그에 맞춰 개호 인력을 투입하는 핵심 관리자다. 사회적으로 전문직종으로 통한다. 200만명 개호 복지사 중엔 20대도 많다.”&lt;br&gt;&lt;br&gt;-한국에선 최근 집에서 치료·돌봄을 받는 통합 돌봄이 시작됐는데.&lt;br&gt;&lt;br&gt;“재택 돌봄으로 가야 한다. 자기가 살던 집, 동네에서 생을 마치고 싶은 게 인지상정이다.”&lt;br&gt;&lt;br&gt;-집에서 중환자를 돌보는 게 어렵다는 지적도 나온다.&lt;br&gt;&lt;br&gt;“꼭 그렇지 않다. 일본 히로시마현 오노미치시의 한 가정집을 방문한 적이 있는데, 눈만 깜빡이는 중환자 노인이 병상에 누워 있었다. 이 환자는 특정 글자에 시선을 두는 투명 문자판으로 아내와 소통을 했다. 아내 말로는 ‘부부 싸움도 하고, 물리치료사 등을 대동해 남편과 가족 여행도 간다’고 하더라.”&lt;br&gt;&lt;br&gt;-재정적 부담이 적지 않을 것 같은데. &lt;br&gt;&lt;br&gt;“그렇다. 일본의 연간 의료비 지출은 400조원으로 이 중 절반가량은 노인 의료비로 추정된다. 의료비 과다 문제가 사회적 논쟁거리가 되기도 한다. 일본이 정답은 아니지만 분명한 것은 초고령 사회인 우리나라도 노인 돌봄 비용이 급증할 수밖에 없다는 것이다. 재정의 효율적 배분을 고민해야 한다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;☞남상요 교수&lt;/b&gt;&lt;br&gt;&lt;br&gt;국내에서 손꼽히는 일본 노인 의료 정책 전문가다. 1993년 일본 도쿄대에서 보건학 박사를 취득한 뒤, 현지 병원 컨설팅 회사에서 근무했다. 이후 대한요양병원협회 초대 사무총장, 한일의료경영연구회장, 한국보건의료행정학회장 등을 지냈다.&lt;br&gt;&lt;br&gt;--------------------------------------------------------&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARJMHOIHLZCDNHUZNCEZA2NKOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김진현 교수&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“한국 요양 병상 수, OECD국 9배&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;시·군·구에 공립 요양병원 짓고&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1200개 넘는 민간시설은 줄여야"&lt;/b&gt;&lt;br&gt;&lt;br&gt;국내 대표적인 간병 문제 전문가인 김진현 서울대 간호대 명예교수는 13일 본지 인터뷰에서 “전국 200여 시·군·구마다 지자체가 공립 요양 병원과 요양원을 하나씩 만들고, 1200여 민간 요양 병원의 최소 절반은 감축해야 한다”고 했다. 다음은 일문일답. &lt;br&gt;&lt;br&gt;-전국 시·군·구마다 요양 병원을 만드는 게 가능한가.&lt;br&gt;&lt;br&gt;“그렇다. 가령 병원 설립 때 정부·지자체로부터 건축비 지원을 받는 대신 20년 정도 운영을 하다가 소유권을 지자체에 넘기는 ‘기부채납 요양 병원’이 지자체마다 꽤 있다. 소유권을 넘겨받아도 운영 주체를 찾지 못해 다시 원래 병원에 운영을 맡기는 경우가 많은데, 이 운영권을 관할 지자체 내 국립대병원이나 시·도립 병원으로 넘겨야 한다.”&lt;br&gt;&lt;br&gt;-왜 국립대병원 등으로 넘기나.&lt;br&gt;&lt;br&gt;“지역의 국공립 병원이 산하에 요양 병원과 요양원을 두고 관리하면 환자가 편하고 좋기 때문이다.”&lt;br&gt;&lt;br&gt;-어떤 점이 그런가.&lt;br&gt;&lt;br&gt;“거점 국공립 병원이 치료를 마치고 상태에 따라 환자를 산하 요양 병원이나 요양원으로 보내면 환자 치료 상황이 어느 정도 공유되기 때문에 환자 맞춤형 간병·요양을 제공할 수 있다. 지자체의 지원을 받아 간병 인력도 많아진다. 이 때문에 국공립 요양원의 경우 입소 대기 기간이 1년이 넘는 경우가 많다.”&lt;br&gt;&lt;br&gt;-왜 민간 요양 병원은 절반 이상 줄여야 하나.&lt;br&gt;&lt;br&gt;“한국의 요양 병원 병상 수는 경제협력개발기구(OECD) 가입국 평균보다 9배 많다. 정부가 2000년대 중반 고령화 대책으로 요양 병원 설립 요건을 완화하면서 재래시장 상가 3~4층에도 요양 병원이 생길 만큼 난립하게 됐다. 간병의 질도 국민 눈높이에 맞지 않는 곳이 많았다.”&lt;br&gt;&lt;br&gt;-정부는 내년부터 요양 병원에 대한 간병비 지원을 시작하는데.&lt;br&gt;&lt;br&gt;“간병비 지원은 필요하다. 간병은 국가가 책임져야 할 핵심 복지다. 다만 지금 상태에서 간병비 지원부터 시작하면 밑 빠진 독에 물 붓기다. 간병비는 의료보험이 적용되지 않아 환자가 부담해야 한다. 역설적으로 이것이 요양 병원의 과잉 입원을 억제하는 면이 있었다. 그런데 이를 없애면 요양 병원은 아무나 입원하는 숙박 시설처럼 될 수도 있다.”&lt;br&gt;&lt;br&gt;-구조 조정이 필요하단 말인가.&lt;br&gt;&lt;br&gt;“그렇다. 중환자를 볼 능력이 안 되는 요양 병원은 이제 정리해야 한다. 요양 병원의 인력과 장비 등을 재가 돌봄 쪽으로 돌리는 방안을 검토해야 한다. 우리나라도 환자가 집에서 돌봄을 받다 생을 마치는 재가 돌봄으로 가야 한다.” &lt;br&gt;&lt;br&gt;-중환자를 집에서 보긴 어렵지 않나.&lt;br&gt;&lt;br&gt;“요양 병원을 중증 치매 환자나 근육병 환자 같은 중환자만 가는 곳으로 바꿔야 한다. 섬망(의식 혼란) 증세 등을 동반하는 치매·뇌졸중 환자가 본인을 받아줄 병원을 찾아 떠도는 간병 난민 문제도 중환자를 볼 수 있는 제대로 된 요양 병원이 없기 때문에 생긴 것이다.”&lt;br&gt;&lt;br&gt;-중환자는 의료보험이 적용되는 간호·간병 통합 병동에 들어가기 어렵다는 지적이 나오는데.&lt;br&gt;&lt;br&gt;“병원이 손이 많이 가는 중환자보다 경증 환자를 많이 받고 있어서다. 중환자는 일반 병동에서 한 달에 400만~500만원을 주고 개인 간병인을 써야 하는 구조다. 현재 간호·간병 통합 서비스에 참여하고 있는 700여 병원의 병동을 100% 통합 병동으로 만들면 된다. 이를 위해 매년 1조5000억원 정도가 필요할 것으로 추정되는데, 우리나라의 한 해 사적 간병비 지출액이 10조원 이상이란 점을 감안하면 과도한 비용이라고 할 수 없다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;☞김진현 교수&lt;/b&gt;&lt;br&gt;&lt;br&gt;보건·의료 정책 전문가다. 서울대 경제학과 졸업 후 미국 하버드대 케네디스쿨에서 행정학 석사 학위를, 서울대 보건대학원에서 보건학 박사 학위를 받았다. 한국보건경제정책학회장, 한국보건의료기술평가학회장, 복지부 의사 인력 수급 추계위원 등을 역임했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>AI 고소장 늘자 AI 수사관 도입</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/UJAWISJM3FEPXFZCIDMCOBA7XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/UJAWISJM3FEPXFZCIDMCOBA7XA/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>요즘 일선 경찰서에는 ‘인공지능(AI) 고소·고발장’이 물밀듯 들어오고 있다고 한다. AI가 작성해 준 고소·고발장은 겉보기엔 그럴싸해 보인다. 하지만 자세히 들여다보면 내용이 앞뒤가 안 맞거나 존재하지 않는 법령과 판례를 근거로 든 경우가 많다고 경찰은 말한다. 이 때문에 경찰관들이 사실 관계를 확인하느라 골머리를 앓고 있다는 것이다. 서울의 한 경찰서 수사관은 “서류가 이상해 조금만 캐물으면 당사자가 ‘AI로 작성했다’고 실토한다”며 ”기초적인 법리나 사실관계가 맞지 않는 경우가 적잖다”고 했다.&lt;br&gt;&lt;br&gt;경찰청이 더불어민주당 양부남 의원실에 제출한 자료를 보면, 지난해 전국 경찰서에 접수된 고소·고발 접수 건수는 총 71만8330건으로 2023년 45만2183건, 2024년 67만7979건보다 늘었다. 지난 2023년 혐의점이 없는 사건도 경찰이 고소·고발장을 반드시 접수한 뒤 수사를 거쳐 종결하도록 수사 관련 규정이 바뀐 영향이 크다.&lt;br&gt;&lt;br&gt;이런 가운데 챗GPT 등 생성형 AI를 활용하는 사람이 많아지면서 고소·고발장을 AI 도움을 받아 작성하는 사람도 늘고 있다. 챗GPT를 활용해 고소장을 쓰는 법을 알려주는 책이 발간되는가 하면, 유튜브에선 ‘AI로 변호사비 아끼는 법’ ‘AI 고소장 작성 공식’ 같은 영상이 적잖게 올라온다. &lt;br&gt;&lt;br&gt;이에 경찰도 ‘AI 수사관’을 도입해 대응에 나섰다. AI에 수사 자료 분석을 맡겨 오류를 잡거나 범죄 일람표를 만들게 하고, 동종 사건을 분석해 사건 관련자들에게 질문할 내용까지 추천받겠다는 것이다. 경찰청은 이처럼 경찰 업무를 돕는 ‘경찰 수사지원 AI’(KICS-AI)를 올해 11월까지 도입할 계획이다. &lt;br&gt;&lt;br&gt;수사지원 AI는 전국에 흩어진 사건 관련 계좌·전화번호·소셜미디어 등 범죄 단서를 비교 분석해 유사한 형태의 범행을 조기에 찾아내는 기능도 갖출 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무리지어 달리며 “비켜!” 산책로 민폐 된 러닝크루</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/DZQIFPE5KZAHBIGJ6ICYR3MK7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/DZQIFPE5KZAHBIGJ6ICYR3MK7A/</guid>
-      <dc:creator>한영원 기자, 원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHERZGPEO5DLTCVPPUE344COLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 11시쯤 서울 종로구 경복궁 돌담길을 따라 무리지어 달리는 러닝크루가 달려오는 모습. /원종빈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 오전 10시 서울 송파구 석촌호수공원. 매일 아침저녁으로 산책한다는 주민 차석순(68)씨와 이광희(64)씨는 폭이 5m 정도 되는 산책로 가장자리를 따라 걷고 있었다. 표정이나 몸짓이 영 불편해 보였다. 차씨는 “단체로 달리기 하는 사람들을 피해 조심조심 다녀야 해 여간 불편한 게 아니다”라며 “달리는 사람들이 뒤에서 ‘비켜!’라고 소리치는 일도 있었다”고 했다. &lt;br&gt;&lt;br&gt;이날은 평일 오전인데도 석촌호수공원에 옷을 맞춰 입은 20여 명이 2~3명씩 짝 지어 달리고 있었다. 이런 광경은 서울 시내 공원 곳곳에서 볼 수 있다. 날씨가 풀리면서 일명 ‘러닝 크루(단체 달리기 모임)’가 활동을 재개하면서다. 각종 소모임 앱이나 당근 같은 플랫폼을 통해 지역별로 러닝 크루를 결성하는 움직임도 활발하다. 하지만 러닝 크루들이 보행자를 밀치거나, 공원 보행로를 독차지하는 일이 자주 발생하면서 불편을 호소하는 주민도 늘고 있다. &lt;br&gt;&lt;br&gt;“가자! 할 수 있다!” 지난 8일 오후 8시 30분쯤 서울 여의도 한강공원에서는 러너 50여 명이 큰 소리로 기합을 넣으며 달리기를 시작했다. 이들은 12~13명씩 4개 조로 나뉘어 한강공원에서 서강대교까지 약 5.5㎞ 구간을 달렸다. 그런데 이들이 달리면서 넣는 기합 소리에 공원을 산책하던 시민들은 “소리를 꼭 크게 질러야 하느냐”며 눈살을 찌푸렸다. 러닝 크루가 보행로 대부분을 점거한 채 빠른 속도로 달리는 통에 이들이 다 지나갈 때까지 멈춰 서서 기다리는 시민도 있었다.&lt;br&gt;&lt;br&gt;시민 민원이 이어지자 지방자치단체는 ‘3인 이상 러닝 금지’ 등 대책을 내놓고 있다. 서울 송파구는 석촌호수에, 서초구는 반포종합운동장에 안내 현수막을 걸고 수시로 러닝 크루들에게 안전 수칙 방송을 내보내고 있다. 성북구는 성북천을 찾는 러닝 크루들에게 ‘한 줄로 달리기’를 권하고 있다. 하지만 러닝 크루들이 달리는 시점을 예측하기 어렵고, 지자체 차원에서 이들이 달리는 것을 규제할 법적 근거가 마땅치 않아 실효성이 떨어진다는 지적이 나온다. 석촌호수공원 관리 직원 김모(66)씨는 “러닝 크루를 일일이 쫓아다니거나 강제로 멈춰 세울 수도 없고 사진을 찍어 보고하는 게 전부”라고 했다. &lt;br&gt;&lt;br&gt;신인철 서울시립대 도시사회학과 교수는 “달리기를 처음 시작하는 시민들이 계속 유입되면서 기본적인 에티켓이 지켜지지 않는 사례가 반복되는 것”이라며 “지자체와 러닝 크루 운영진은 잘 뛰는 법뿐만 아니라 공공장소에서의 에티켓 교육도 철저히 병행해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주 상가서 LPG 폭발… 아파트 창문도 와장창</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/7CZTERO57NE6RO6PKE54ZITHXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/7CZTERO57NE6RO6PKE54ZITHXQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCAMFYAWVZFURBI725PP5SS6IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S56KCKZ3MBCXRELFH3I74XQ6H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 4시쯤 충북 청주 흥덕구 한 식당에서 폭발 사고가 발생해 주변 상가 건물이 파손되고 차량이 뒤집혔다(위쪽). 마치 폭탄이 떨어진 것 같은 모습이다. 약 30m 거리에 있는 아파트도 창문이 깨지고 방충망이 찢어졌다(아래쪽). 집에서 잠을 자던 주민 등 15명이 깨진 유리창에 얼굴을 베이는 등 상처를 입었다. 소방 당국은 “식당에 있던 LP가스통에서 가스가 누출돼 폭발한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“몰래 파는건데…” 마약류 진통제, 전통시장서 버젓이 거래</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/353BTBDYCBDUDOJSWYF6GEOPDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/353BTBDYCBDUDOJSWYF6GEOPDI/</guid>
-      <dc:creator>이나윤 기자, 김병권 기자, 조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23R245EPXVDDBKUKTGWZ2ZKAEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울의 한 전통시장에 일본산 진통제 ‘이브(EVE)’가 놓여 있다. 국내에선 향정신성의약품으로 분류돼 반입이 금지된 약이다. 상인들이 단속을 피해 알음알음 팔고 있었다. /이나윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9일 오전 서울 종로구의 A시장. 시장 입구에 들어서자 비타민 같은 건강보조제와 타이레놀 등을 가판대에 쌓아 놓고 파는 상인이 여럿 있었다. 그중 한 상인에게 “진통제 ‘이브(EVE)’를 구할 수 있느냐”고 물었다. 그러자 상인은 귓속말로 “숨겨놨는데 하나 꺼내줄까요?”라고 은밀히 제안하듯 말했다.&lt;br&gt;&lt;br&gt;서울 중구의 B시장에서도 기자가 확인한 것만 점포 8곳에서 이브를 팔고 있었다. 이 시장 상인들은 “우리가 제일 싸게 판다” “어디서도 이 가격에는 못 구한다”며 사가길 권했다. 시장에서 팔리는 이브 가격은 40정 기준 1만3000~1만9000원. 이는 일본 현지 판매가(7000~1만4000원대)보다 2배 가까이 비싼 가격이다.&lt;br&gt;&lt;br&gt;이브는 일본산 진통제다. 생리통과 두통에 효과가 좋다고 소문이 나 한때 일본을 찾는 한국인 여행객 사이에서 ‘필수 구매 상품’으로 꼽혔다.&lt;br&gt;&lt;br&gt;하지만 이브에 포함된 ‘알릴이소프로필아세틸우레아(AIAU)’ 성분이 마약류관리법에서 정한 향정신성의약품으로 분류되면서, 작년 4월부터 국내 반입이 전면 금지됐다. 그런데 본지가 전통시장을 돌아봤더니 버젓이 거래되고 있었다. 시장 상인들은 “단속에 걸릴까 봐 몰래 숨겨놓고 팔고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSGYSKMMJZGO5HLFLV52CZVGBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이브에 들어 있는 AIAU는 갈수록 더 많은 양을 복용해야 효과가 나타나는 내성을 유발한다. 내성이 생겨 과다 복용하면 환각과 몽롱한 상태를 유발할 수 있다. 또한 혈액 내 혈소판을 감소시켜 몸 여기저기에 멍이 들고 출혈이 멈추지 않는 심각한 부작용을 일으킬 수 있다. 그래서 의사 처방 없이 사고파는 것은 물론 소지하는 것도 불법이다. 세계적으로 퇴출되거나 엄격히 제한되는 추세다.&lt;br&gt;&lt;br&gt;현행 마약류관리법의 적용을 받는 마약류는 크게 마약과 대마, 향정신성의약품으로 나뉜다. 식품의약품안전처 허가를 받지 않은 코카인 등 마약, 뇌전증 치료용이 아닌 대마는 의사 처방에 관계없이 소지·투약·흡입하는 게 불법이다. 향정신성의약품은 반드시 마약류 취급 자격이 있는 의사가 처방하고 환자는 그 처방에 따라 정해진 용도로만 사용해야 한다. 이브에 포함된 AIAU를 비롯해 필로폰, 케타민, 프로포폴 등이 모두 향정신성의약품이다. 성분마다 처벌 수위는 다르지만, AIAU의 경우 소지하거나 판매하면 10년 이하의 징역 또는 1억원 이하의 벌금에 처해질 수 있다. 상습적일 경우 최대 15년 이하의 징역으로 가중 처벌될 수 있는 중죄다.&lt;br&gt;&lt;br&gt;이처럼 처벌 수위가 높은데도 향정신성의약품 성분이 들어간 약품이 전통시장에서 거래되는 것은 단속이 어렵기 때문이다. 이른바 ‘보따리상’이 선박 등을 통해 약을 들여올 때 과자 같은 식품 사이에 소량을 끼워 넣기 때문에 세관에서 적발하기 쉽지 않다는 것이다. 관세청 관계자는 “비행기나 선박으로 들어오는 모든 수하물을 최대한 검사하고 있지만, 약이 소량일 경우 엑스레이만으로는 발견하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;당국은 단속 책임을 서로 떠넘기고 있다. 불법 의약품 판매 관련 단속 의무는 식약처에 있으나, 식약처 측은 “‘의약품 제조·유통 관리 기본 계획’에 따라 불법 판매에 대한 상시 감시 책임은 지방자치단체에 있다”는 입장이다. 반면 서울 중구 관계자는 “민원이 접수돼야 단속을 나갈 수 있고, 행정 처분 권한이 경찰에 있어 지자체 차원의 독자적인 단속은 어렵다”고 했다. 경찰 또한 신고나 첩보, 혹은 식약처의 수사 의뢰가 있어야 본격적인 수사에 나설 수 있다는 입장이라 단속 사각지대가 발생하고 있다.&lt;br&gt;&lt;br&gt;당국이 사실상 손을 놓은 사이 향정신성의약품 적발 건수는 꾸준히 늘고 있다. 대검찰청에 따르면, 지난해 검거된 향정신성의약품 관련 사범은 1만9212명으로 2024년(1만7751명)보다 약 8% 증가했다. 경찰청 국가수사본부가 지난해 8월부터 올 1월까지 단속을 벌여 검거한 마약류 사범 6648명 중 향정신성의약품 관련 사범이 5666명(85%)으로 가장 많았다. 올해 1~3월 불법 의약품 적발 중량도 2만7768g으로, 전년 같은 기간(1만9551g)보다 42% 증가했다. 이윤호 동국대 경찰행정학부 명예교수는 “공급자 검거 위주의 방식에서 벗어나 구매를 차단하는 대책이 마련되어야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 수사 무마 의혹… 이원석·송경호 출국금지</title>
       <link>https://www.chosun.com/national/court_law/2026/04/14/Y3K4RAN3EBB65OL6GQOUALREIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/Y3K4RAN3EBB65OL6GQOUALREIA/</guid>
@@ -818,61 +872,6 @@
       <description/>
       <pubDate>Mon, 13 Apr 2026 15:47:00 +0000</pubDate>
       <content:encoded>3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 사건을 넘겨받아 수사 중인 2차 종합특검이 이원석 전 검찰총장과 송경호 전 서울중앙지검장을 출국 금지한 것으로 13일 확인됐다. 특검은 2024년 10월 중앙지검이 김건희 여사의 도이치모터스 주가조작 의혹과 디올백 수수 의혹을 무혐의 처분하는 과정에서 대통령실이나 법무부 등의 외압이 있었는지를 수사 중이다.&lt;br&gt;&lt;br&gt;특검 관계자는 “수사 과정에서 두 사람의 출국 금지가 필요하다고 판단했다”며 “고발장에 따른 조치가 아니라 특검팀의 자체 판단”이라고 밝혔다. 특검은 두 사람이 당시 대통령실이나 법무부 등으로부터 김 여사 사건 관련 지시를 받았는지 등을 확인하기 위해 출국 금지한 것으로 보인다. 두 사람은 현재 참고인 신분인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;재미 목사인 최재영씨는 2022년 9월 함정 취재를 하며 김 여사에게 300만원 상당의 디올백을 전달했고, 이듬해 11월 인터넷 매체 ‘서울의 소리’가 이 영상을 공개했다. 이와 관련, 검찰은 “대통령 직무 관련성이 없고, 공직자의 배우자를 처벌하는 규정이 없다”며 김 여사를 2024년 10월 무혐의 처분했다. 검찰은 같은 시기 김 여사의 도이치모터스 주가조작 의혹도 증거 불충분 등을 이유로 무혐의 처리했다. 하지만 서울고검의 재수사 과정에서 김 여사가 주가 조작을 사전에 인지한 정황이 담긴 녹취록이 발견돼 부실 수사 논란이 불거졌다. 다만 민중기 특검이 기소한 김 여사의 주가조작 공모 혐의는 1심에서 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“참으로 시원하구나”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/14/CPANB5O44JERXMHJONEUGBFJTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/14/CPANB5O44JERXMHJONEUGBFJTA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRPMMQNJKNBDTOTCKVAW3PWSUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오후 서울 광화문광장 내 세종대왕 동상에 세척액을 뿌리고 있는 모습. 서울시는 이 광장에 있는 세종대왕 동상과 이순신 장군 동상의 원형 보존을 위해 정기적으로 세척 작업을 하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, ‘비정규직 2년 제한’ 기간제법 개편 착수</title>
-      <link>https://www.chosun.com/national/labor/2026/04/14/S4X66J4HYBAGHIN5E2W5OZ5G5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/14/S4X66J4HYBAGHIN5E2W5OZ5G5U/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:46:00 +0000</pubDate>
-      <content:encoded>정부가 기간제 근로자를 고용하면 2년 뒤 무기계약직으로 전환하도록 한 ‘기간제법’ 개편에 나선다. 고용노동부는 6월까지 기간제 실태 조사를 진행한 뒤 전문가 토의 및 사회적 대화를 거쳐 제도를 고칠 계획이라고 13일 밝혔다. &lt;br&gt;&lt;br&gt;2007년 시행된 기간제법은 기간제 근로자가 2년을 초과해 근무할 경우 정규직(무기계약직)으로 전환하도록 한 법이다. 그러나 이 법 때문에 오히려 2년이 되기 전 계약을 해지하는 편법만 늘었다는 지적이 제기돼왔다. 이에 지난주 이재명 대통령이 민주노총 지도부와의 간담회에서 “사실상 ‘2년 이상 고용 금지법’이 돼 버렸다”며 현실적 대안을 만들면 좋겠다고 지적하자, 소관 부처인 고용노동부가 제도 개선에 속도를 내는 것이다. &lt;br&gt;&lt;br&gt;고용노동부는 기간제 제도 개편 논의를 위해 한국노동연구원에 연구 용역을 발주한 상태다. 오는 6월까지 기간제 노동자 실태 조사를 마친 뒤, 노동·경제 전문가로 구성된 포럼에서 제도 개선 방안을 논의한다는 계획이다. 이에 앞서 노동부는 이달 중 공공 부문 비정규직 노동자들의 처우 개선 대책을 발표할 예정이다.&lt;br&gt;&lt;br&gt;한편 노동계에서는 기간제 노동 사용 자체를 엄격히 제한해야 한다고 주장했다. 한국노총은 13일 성명을 내고 “기간제 노동자 사용 사유를 보다 엄격히 제한하는 방안과 함께 비정규직 고용에 따른 비용을 높이는 방안도 검토해야 한다”고 밝혔다. 민주노총도 이날 “일시적 업무에만 기간제를 허용하고 상시 업무에는 정규직 고용을 의무화해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강봉연씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/14/J73ZPSW4URHT7J7CP6T6RUE4KE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/14/J73ZPSW4URHT7J7CP6T6RUE4KE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강봉연&lt;/b&gt; 서안개발 부회장 별세, &lt;b&gt;서영선&lt;/b&gt;·&lt;b&gt;서재홍&lt;/b&gt; 서안개발 대표·&lt;b&gt;서유성&lt;/b&gt;·&lt;b&gt;서재근&lt;/b&gt; 서안개발 부사장 모친상=11일11시19분 신촌세브란스병원, 발인 15일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김종호&lt;/b&gt; 前 우성이엔지 대표 별세, &lt;b&gt;남진현&lt;/b&gt; 남편상, &lt;b&gt;김승환&lt;/b&gt; 네스트컴퍼니 대표·&lt;b&gt;김영은&lt;/b&gt; 부친상, &lt;b&gt;박창규&lt;/b&gt; 서울경제신문 사회부 차장 장인상, &lt;b&gt;노수정&lt;/b&gt; 시부상=13일9시35분 이대서울병원, 발인 15일5시30분, (02)6986-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박종우&lt;/b&gt; 별세, &lt;b&gt;박천탁 &lt;/b&gt;현대제철 상생홍보실장 부친상=11일22시49분 경북 안동의료원, 발인 14일8시30분, (054)850-6440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이말찬&lt;/b&gt; 별세, &lt;b&gt;김남수&lt;/b&gt; 강릉과학산업진흥원장 장인상=12일5시 부산전문장례식장, 발인 14일6시, (051)312-4444&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>스스로를 예수에 빗댄 트럼프 “교황, 외교 형편없고 나약하다”</title>
-      <link>https://www.chosun.com/national/people/2026/04/14/BCAL64TJYZHSDJNTC2SXPRPFNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/14/BCAL64TJYZHSDJNTC2SXPRPFNY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CJM4MYZDVH2TNV4KPMKV576KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 트루스소셜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도널드 트럼프 미국 대통령이 레오 14세 교황에 대해 “나약하고 외교 정책에선 형편없다”고 원색적 비난을 쏟아낸 직후 자신을 예수에 빗댄 이미지를 트루스소셜에 올렸다. &lt;br&gt;&lt;br&gt;트럼프 대통령은 13일 트루스소셜을 통해 “나는 이란의 핵무기 보유를 용인하는 교황은 원치 않는다”며 “미국이 베네수엘라를 공격한 것을 비난하는 교황도 원하지 않는다. 베네수엘라는 미국에 엄청난 양의 마약을 공급하고, 더 나아가 살인범, 마약상, 흉악범들을 포함한 죄수들을 감옥에서 풀어 미국으로 들여보냈다”고 주장했다. 이어 “나는 미국 대통령을 비판하는 교황도 원하지 않는다”며 “나는 범죄율을 사상 최저치로 낮추고, 역사상 최고의 주식 시장을 만들어내는 등 주어진 일을 정확히 수행하고 있기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;레오 14세 교황의 선출을 두고는 “레오 교황은 감사하게 생각해야 한다. 단지 미국인이라는 이유만으로 교회가 그를 교황으로 임명한 것”이라며 “내가 백악관에 없었다면 레오 교황은 바티칸에 없었을 것”이라고 했다. 지난해 5월 프란치스코 교황의 후임으로 선출된 레오 14세 교황은 역사상 최초의 미국인 교황이다. “교황 레오는 정신을 차리고 급진 좌파에 영합하는 것을 멈추고 정치인이 아닌 위대한 교황으로서의 역할에 집중해야 한다”며 “이 같은 행동은 교황 자신에게도, 가톨릭 교회에도 큰 해를 끼치고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 글을 올린 날 트럼프 대통령은 자신이 환자를 치유하는 구원자처럼 표현되고, 주변에는 미군과 성조기, 천사 등이 배치된 그림도 올렸다. 자신을 신성한 존재로 연출하려는 의도가 담겼다는 분석이 나온다.&lt;br&gt;&lt;br&gt;레오 14세 교황은 지난 11일 바티칸 성 베드로 대성당에서 열린 특별 기도회에서 “자기중심적인 우상숭배와 돈에 대한 집착은 이제 그만! 권력 과시도 이제 그만! 전쟁도 이제 그만!”이라며 트럼프 대통령의 이란 전쟁을 비판한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 문화일보</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/14/NYNTH4JDC5BONCEUMX4TVPLDHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/14/NYNTH4JDC5BONCEUMX4TVPLDHU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;문화일보&lt;/b&gt;▷편집부장 배기표▷정치부장 오남석▷경제부장 김석▷사회부장 신보영▷국제부장 유회경&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [위인과 정신건강] 스트레스로 번아웃 겪은 ‘석유왕’… 교육·의학 분야 기부하며 극복했대요</title>
-      <link>https://www.chosun.com/national/nie/2026/04/14/MOAX75FB4NHRNPCSFWX2I6YGR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/04/14/MOAX75FB4NHRNPCSFWX2I6YGR4/</guid>
-      <dc:creator>이헌정 고대 안암병원 정신건강의학과 교수</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Apr 2026 15:40:00 +0000</pubDate>
-      <content:encoded>부자들은 늘 행복할까요? 돈이 많으면 가난에서 오는 걱정은 덜 수 있지만, 마음의 고통까지 모두 사라지는 것은 아니에요. ‘석유왕’으로 불린 존 D. 록펠러(1839~1937)의 삶이 그런 점을 잘 보여줍니다. 그는 당시 미국의 대표적인 부자로, ‘스탠더드 오일’이라는 정유 회사를 세워 엄청난 부를 쌓았어요.&lt;br&gt;&lt;br&gt;록펠러는 미국 뉴욕주의 작은 마을에서 태어나 넉넉하지 않은 환경에서 자랐어요. 어린 시절부터 돈을 아껴 쓰고, 수입과 지출을 꼼꼼히 기록하는 습관이 있었다고 해요. 그는 16세 무렵 취직을 했는데요. 지금 기준으로 보면 이른 나이처럼 느껴지지만, 1850년대 미국은 지금과 달랐어요. 오늘날처럼 청소년 노동을 엄격히 제한하는 법도, 의무 교육 제도도 충분히 자리 잡기 전이었죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6OG6R673JBAZHGF4K7LJRL5AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;록펠러의 강점은 작은 것까지 끝까지 파고드는 태도였어요. 그는 회사에서 회계 보조로 일하며 거래 관리 방법을 익혔고, 이 경험을 바탕으로 사업에 뛰어들었습니다. 꼼꼼한 성격은 사업을 운영하는 데 큰 힘이 됐죠. 하지만 스탠더드 오일이 거대한 회사로 성장하면서 사회의 시선도 차가워졌어요. 석유의 생산·가공·유통을 거의 장악한 회사라는 이유로 “공정한 경쟁을 해친다”는 비난을 받았어요. 그런 압박은 그의 건강에도 악영향을 줬어요. 1890년대 초 록펠러는 과로와 스트레스로 건강이 크게 나빠져 머리카락과 눈썹이 빠질 정도의 변화도 겪었다고 전해집니다.&lt;br&gt;&lt;br&gt;오늘날의 기준으로 단정해서 진단할 수는 없지만, ‘번아웃 증후군’으로 볼 수 있어요. 번아웃 증후군은 일에 몰두하던 사람이 극도의 피로 때문에 무기력해지는 스트레스 상태를 가리켜요. 정식 의학적 질병명은 아니지만, 세계보건기구(WHO)는 번아웃 증후군을 ‘건강 상태에 주요한 영향을 끼칠 수 있는 직업 관련 현상’으로 인정했습니다.&lt;br&gt;&lt;br&gt;록펠러의 부가 쌓일수록 돈을 어떻게 관리하고 어디에 써야 할지 결정하는 일 자체가 또 하나의 큰 압박이 됐어요. 그는 이 부담을 혼자 감당하지 않으려 했고, 재산 관리와 기부를 도울 사람들을 두기 시작했어요. 1897년, 59세 무렵에는 사실상 경영 일선에서 물러났습니다. 그러면서 삶의 방향도 조금씩 바뀌었습니다.&lt;br&gt;&lt;br&gt;은퇴 이후 록펠러는 교육, 의학, 공중보건 등 분야에 기부를 하는 데 힘을 쏟았습니다. 사람들이 기억하는 그의 말년 모습 가운데에는 이런 장면도 있어요. 바로 길에서 만난 모르는 아이들에게 10센트짜리 동전을 건네던 습관입니다.&lt;br&gt;&lt;br&gt;그의 삶은 사회적 성공이 항상 행복과 같은 뜻은 아니라는 사실을 보여줍니다. 어쩌면 록펠러의 성공은 가장 높이 올라섰던 순간이 아니라, 가장 많이 나누던 때에 있었는지도 모릅니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 4월 14일</title>
