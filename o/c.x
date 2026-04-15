@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>종합특검, ‘김건희 수사 무마 의혹’ 심우정 전 검찰총장 PC 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/15/PE6KCSYJCRCHXJTGGXX4T6QKZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/PE6KCSYJCRCHXJTGGXX4T6QKZE/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 10:06:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQWEZRZME4TMZDGMYYGMYRSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장이 지난 2025년 9월 서울 서초구  순직해병특검팀에 이종섭 호주대사 임명 및 도피성 출국 관련 피의자 신분으로 소환되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 사건을 넘겨받아 수사 중인 2차 종합특검은 지난 10일 서울 서초구 대검찰청을 압수수색하는 과정에서 심우정 전 검찰총장이 사용하던 PC 자료를 확보한 것으로 15일 알려졌다. 특검은 2024년 10월 중앙지검이 김건희 여사의 도이치모터스 주가조작 의혹과 디올백 수수 의혹을 무혐의 처분하는 과정에서 대통령실이나 법무부 등의 외압이 있었는지를 수사 중이다.&lt;br&gt;&lt;br&gt;2024년 9월부터 지난해 7월까지 검찰총장을 지낸 심 전 총장은 무혐의 처분 당시 도이치모터스 주가조작 사건에 대한 수사지휘권이 없었지만, 특검은 이 사건 재기수사 과정에서 심 전 총장이 관여한 정황을 일부 확인하고 압수수색에 나선 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 도이치모터스 사건 당시 검찰 간부들에 대해 집중적으로 수사를 확대하고 있다. 지난달엔 이창수 전 중앙지검장과 조상원 전 중앙지검 4차장을, 최근엔 이원석 전 검찰총장과 송경호 전 서울중앙지검장을 출국 금지했다. &lt;br&gt;&lt;br&gt;‘수사 무마 의혹’은 김 여사가 도이치모터스 주가 조작에 가담해 8억1000만원 가량 부당이득을 취득했다는 의혹과 디올백 수수 의혹에 대해 중앙지검 반부패수사2부가 불기소 처분을 내리는 과정에서 부실 수사가 있었다는 의혹이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“방시혁이랑 잘 안다, BTS 청바지 만들자” 13억 사기친 작곡가, 징역 6년</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/15/RIPIR3BMJZBTLI7NW6TH3J7VO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/RIPIR3BMJZBTLI7NW6TH3J7VO4/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 09:56:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 연예 기획사인 ‘하이브’의 방시혁 의장과의 친분으로 방탄소년단(BTS)의 의류 사업을 할 수 있다고 속여 13억원을 가로챈 작곡가에게 2심 법원이 징역 6년을 선고했다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 수원고법 형사1부(재판장 신현일)는 특정 경제범죄 가중 처벌 등에관한 법률 위반(사기) 등의 혐의로 기소된 50대 A씨의 항소를 기각하고 원심 판결을 그대로 유지했다. 앞서 1심 재판부는 A씨에게 징역 6년을 선고했다.&lt;br&gt;&lt;br&gt;작곡가이자, 여러 회사를 운영하며 음원 서비스업을 하던 A씨는 2021년 8월 경기도 하남시에 있는 자신의 사무실에서 정보통신 서비스 업체 대표 B씨 등에게 “BTS 청바지 제품을 제작·판매하는 사업을 진행하려 한다. 우리가 설립할 법인으로 라이선스를 이전해 독자적 사업을 수행하자”고 속여 업체 측에서 7억5000만원을 받아 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 “하이브 이사회 의장인 방시혁과 친분이 있다” “B사를 통해 사업 진행 중인데 이미 B사는 BTS 슬리퍼 등 제품을 제작·판매하고 있고, 내가 그 회사 지분 50%를 10억원에 취득한 상태”라는 취지로 말하며 속인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 “하이브 모 팀장이 청바지 사업 관련 라이선스를 취득하게 해주는 데 애를 쓰고 있다”고 속여 로비 자금 명목으로 5억5000만원을 받아 챙긴 혐의도 받는다.&lt;br&gt;&lt;br&gt;그러나 A씨는 회사 지분을 취득한 사실이 없었고, 하이브 등과 청바지 사업에 관해 논의하거나 진행하지도 않았다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피고인은 아무런 실체가 없으면서 자신의 인맥을 이용해 사업을 추진할 수 있는 것처럼 속여 13억원이라는 거액을 편취했다”며 “청바지 사업을 위해 노력하거나 이뤄낸 것이 거의 없는 것으로 보임에도 잘못을 반성하지 않고 납득하기 어려운 변명으로 부인하고 있다”고 판결했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “원심의 유죄 판단은 정당한 것으로 수긍된다”며 “원심 선고 이후 양형 기준에 별다른 사정 변경을 찾아볼 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 금감원 사칭해 34억원 뜯어낸 보이스피싱 일당 7명 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/15/2EQLWVB3IBAGRAYMMGUBIIBZOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/2EQLWVB3IBAGRAYMMGUBIIBZOA/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 09:50:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43TQZJWGBRDMY3DMJQTQMDFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 금융감독원 등을 사칭해 34억원이 넘는 수표를 가로챈 보이스피싱 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 강동경찰서는 검찰, 금융감독원 등을 사칭해 34억6700만원가량의 수표를 가로챈 보이스피싱 일당 7명을 검거하고 이 중 3명을 구속 송치했다고 15일 밝혔다. 나머지 피의자 4명은 불구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이들은 지난달 6일부터 31일까지 보이스피싱 조직의 지시를 받아 전국 각지의 피해자 10명으로부터 수표 34억6700만원을 가로챈 혐의를 받는다. 이들은 가로챈 돈을 조직 상선에게 전달했다고 한다. 한 피해자는 “주식 투자로 높은 수익을 올려주겠다”는 조직원의 말에 속아 수표 17억원을 넘겨준 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 지난달 12일 “계좌가 범죄에 연루된 것 같으니 계좌에 있는 현금을 모두 인출하여 확인해야 한다”는 보이스피싱 조직원의 전화를 받고 1억5700만원 상당의 수표를 건넸다는 피해자의 신고를 접수한 뒤 수사에 착수했다. 경찰은 현장 폐쇄회로(CC)TV 등을 분석해 신고 다음 날 수거책 1명을 검거했고, 이후 지난달 31일까지 수거·전달책 총 7명을 차례로 붙잡았다. 이 과정에서 8억7000만원 상당의 수표도 압수해 이를 전달한 피해자 3명에게 돌려줬다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “전화로 수사기관이나 공공기관을 사칭하며 계좌 점검 등을 이유로 현금 인출을 요구하는 것은 100% 사기”라며 “최근에는 피해금을 수표로 인출해 전달하게 하는 고액 피해 사례도 적지 않은 만큼 각별한 주의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 피의자들의 추가적인 범행을 확인하는 한편, 공범 및 상선 조직에 대한 수사도 확대할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEE7U55MXVB2TBRBMMOKXURAKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 수표 중 일부./서울 강동경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>철강 산업 흔들… 인천 동구 ‘고용위기 선제대응지역’ 지정</title>
+      <link>https://www.chosun.com/national/regional/2026/04/15/7G74FMLW7VCELFATMLGTKU5JMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/7G74FMLW7VCELFATMLGTKU5JMI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 09:26:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BVJ6O2SVJKPPLFX6Q5AZAM7CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 동구 현대제철 인천공장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 동구가 15일 정부의 ‘고용위기 선제대응지역’으로 지정됐다. &lt;br&gt;&lt;br&gt;인천시는 고용노동부의 고용정책심의회에서 이 같은 내용이 의결됐다고 이날 밝혔다. &lt;br&gt;&lt;br&gt;인천시는 앞서 지난 3월 동구를 고용위기 선제대응지역으로 지정해 달라고 지난 3월 고용노동부에 건의했다. &lt;br&gt;&lt;br&gt;인천시에 따르면 동구엔 현대제철과 동국제강의 인천공장을 중심으로 40여 개의 철강 제조업체(협력업체 포함)가 운영 중이다. 2023년 기준 동구 전체 생산액 중 철강 제조업이 51.7%(4조8590억원)를 차지할 정도로 비중이 높다. &lt;br&gt;&lt;br&gt;그러나 미국의 철강 관세 부과 등 글로벌 통상환경 악화와 건설경기 침체 등 복합적인 요인으로 동구의 철강 제조업 고용보험 피보험자 수는 지난해 7월부터 12월까지 월평균 3068명으로, 전년 같은 기간 3178명 대비 110명 감소하는 등 어려움을 겪고 있다. 동구의 한 대형 제철 공장의 경우엔 철근 생산 라인 가동률이 2024년 91%에서 2025년 68%로 줄어들기도 했다. &lt;br&gt;&lt;br&gt;인천시는 이번 고용위기 선제대응지역 지정으로, 총 40억원 규모의 국비를 동구 지역 철강 산업분야 근로자에게 지원할 수 있게 됐다고 설명했다. &lt;br&gt;&lt;br&gt;인천시는 우선 임금 체불 근로자 300명에게 1인당 최대 300만원의 긴급 생계비를 지원하고, 근로자 3000명에게 1인당 50만원의 복지·생활 안정 장려금을 지급한다. &lt;br&gt;&lt;br&gt;또 재취업자에게 최대 200만원의 취업 성공 정착 지원금을 비롯해 휴직 근로자 소득 감소 보전비(1인당 20만원), 퇴직 근로자 재취업 지원비(1인당 50만원) 등을 지원한다. &lt;br&gt;&lt;br&gt;이와는 별도로 재취업 교육을 위한 내일배움카드 한도와 기업에 지원되는 고용 유지 지원금 수준 등이 상향된다. &lt;br&gt;&lt;br&gt;인천시는 5월 중 동구 송림동 공구상가유통센터와 송림동 송림공구상가 등 2곳에 ‘고용위기 종합지원센터’를 설치해 지원 신청을 받고, 6월 말까지 지급을 마무리할 방침이다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “이번 고용위기 선제대응지역 지정을 계기로 인천 제조업의 뿌리라고 할 수 있는 동구 철강 제조업 분야 근로자들이 일터를 지키고 안정적인 생활을 이어갈 수 있도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주사기 국내 재고 전날보다 200만개 줄어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/15/E7JAZ4OPZJH2JMDAV5IQ7J7CMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/15/E7JAZ4OPZJH2JMDAV5IQ7J7CMM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Apr 2026 09:14:32 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN2QXEC4XBPIFH7A3XC6AFM5AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 경기 안산시 단원구 한국백신 공장에서 주사기 제품이 생산되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중동 전쟁 여파로 동네 병원에서 주사기를 못 구하는 상황이 벌어지자 정부가 앞으로 주사기 생산과 출고, 재고 현황을 집계해 매일 공개한다. 일반 국민들이 안심할 수 있도록 정보를 투명하게 제공한다는 취지다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 “14일 오후 5시 기준 국내 주사기 재고량은 약 4516만개로 집계됐다”고 15일 밝혔다. 13일 재고(약 4715만개)보다는 약 200만개 줄어든 수치다. 14일 생산량은 약 332만개, 출고량은 약 531만개로 조사됐다. 일반 주사기 외에 필터 주사기, 인슐린 주사기를 포함한 수치다.&lt;br&gt;&lt;br&gt;정부는 국내에서 주사기 제조 및 출고가 정상적으로 이뤄지고 있다는 입장이다. 그러나 현장에선 동네 병원 등이 주사기와 주사 바늘, 일회용 장갑 등 각종 의료용품을 구하지 못해 발을 구르고 있다. 소규모 병원들은 주로 온라인을 통해 주사기 등을 주문하는데, 대부분의 온라인몰에서 의료용품이 품절이기 때문이다.&lt;br&gt;&lt;br&gt;식약처는 “제조·판매업체가 매점 매석행위를 하고 있다는 것을 알게 되면 신고해달라”며 “필수 의료기기가 안정적으로 공급되도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“강원도 2박 3일이 60만원?”... 논란 끝에 수학여행 결국 취소</title>
       <link>https://www.chosun.com/national/national_general/2026/04/15/XTEEGEQHY5HYBMHKIMDKT6PRGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/XTEEGEQHY5HYBMHKIMDKT6PRGQ/</guid>
@@ -886,15 +931,6 @@
       </media:content>
     </item>
     <item>
-      <title>묶인 개에 비비탄 난사... 20대 남성 3명 재판행</title>
-      <link>https://www.chosun.com/national/incident/2026/04/14/IWRL6K6FJRAFRAC7FQNTJV3MRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/14/IWRL6K6FJRAFRAC7FQNTJV3MRA/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 05:58:36 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPD44IFLGBA57CE2XSDLD474OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;식당 마당에 묶인 개에게 비비탄총을 난사하는 모습. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당 마당에 묶여 있던 반려견들에게 비비탄을 난사한 군인 등 20대 남성 3명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 동부지청 형사2부(부장 이주희)는 총포·도검·화약류 등의 안전 관리에 관한 법률과 동물보호법 위반 등 혐의로 20대 남성 A·B씨를 불구속 기소했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 6월 8일 오전 1시쯤 경남 거제시 일운면 한 식당 마당에 묶여 있던 반려견 4마리를 향해 비비탄을 난사한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해 견주가 공개한 방범 카메라(CCTV) 영상에는 이들이 1시간 넘게 빛을 쏘거나 돌을 던지며 장난스레 촬영하는 모습이 담겼다. 비비탄 총을 겨누는 모습도 포착됐다.&lt;br&gt;&lt;br&gt;이 사건으로 반려견 1마리는 죽고, 2마리는 안구가 손상되는 등 큰 상처를 입었다. 나머지 1마리도 다친 것으로 전해졌다. &lt;br&gt;&lt;br&gt;조사 결과 이들은 인근 펜션 숙박객으로 사건 당시 술을 마신 것으로 알려졌다. 이들 중 2명은 현역 군인으로 당시 휴가 기간이었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;피해 견주 신고를 받은 경찰은 이를 확인하고, 군인 신분 2명에 대해서는 군부대에 사건을 넘겼다. 군 검찰은 이들 가운데 현역 군인인 20대 남성 C씨를 기소했고, C씨는 군사법원에서 재판받고 있다. B씨는 작년 12월 전역하면서 사건이 검찰로 이송됐다.&lt;br&gt;&lt;br&gt;다만 반려견 1마리가 숨진 것과 관련해 비비탄 난사로 죽었다는 인과관계가 부족해 불기소 처분이 내려진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법 “총선 후보 공약 점수·등급 매기면 ‘서열화 금지’ 위반”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/14/SVW3JZBTPVBTBADV2VFTZUXOYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/14/SVW3JZBTPVBTBADV2VFTZUXOYI/</guid>
@@ -904,24 +940,6 @@
       <content:encoded>제22대 총선 당시 후보들의 기후 관련 공약을 평가해 공직선거법 위반 혐의로 기소된 시민단체 활동가들에게 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4GIYJWMRQTENBQGRRWEMZSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 노경필 대법관)는 공직선거법 위반 혐의로 기소된 창원기후행동 박종권(74) 고문에게 벌금 100만원, 변기수(70) 전 대표 등에게 벌금 70만원을 선고한 원심을 확정했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;창원기후행동은 창원 지역 시민단체들이 기후위기 대응을 위해 설립한 단체다. 이들은 2024년 4월 제22대 국회의원 선거를 앞두고 창원 지역 후보자 11명의 기후 관련 공약을 평가해 -10점에서 +10점까지 점수를 부여하고, 최우수·우수·보통·미흡·낙제 등 등급을 매긴 뒤 창원시의회 앞 기자회견에서 이를 공개한 혐의를 받았다.&lt;br&gt;&lt;br&gt;공직선거법은 단체가 후보자 공약을 비교·평가하면서 점수나 순위, 등급 등으로 서열화하는 행위를 금지하고 있다. 이번 사건에서는 후보자 공약에 점수를 부여하고 등급을 매긴 행위가 이 같은 서열화 금지 규정에 해당하는지가 쟁점이 됐다.&lt;br&gt;&lt;br&gt;지난해 5월 1심은 “서열화란 일정한 기준에 따라 순서대로 늘어서게 하는 일체의 행위를 의미한다. ‘최우수·우수·보통·미흡·낙제’와 같은 등급 분류도 유권자에게 미치는 영향이 순위 나열과 동일하다”며 유죄를 인정했다. 피고인들은 기자회견 전 선거관리위원회(선관위)에 문의해 허용된 행위라고 주장했지만, 재판부는 “선관위는 해당 행위가 법에 위반된다고 안내한 것으로 보인다”며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이후 피고인들은 판결에 불복해 항소했지만 2심도 이를 기각했다. 대법원 역시 원심의 유죄 판단을 그대로 유지했다. 재판부는 “원심 판단에 공직선거법 제108조의3 제2항 제2호의 ‘서열화’ 등에 관한 법리를 오해한 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>70대 1인 가구 8.9%는 당장 병원 가야 하는 우울증 고위험군</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/14/XCLCTQTL45AH5L5IJH2TWFPAZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/14/XCLCTQTL45AH5L5IJH2TWFPAZM/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 05:12:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MULKFKTIGZCSMVRBLN3JTY4WYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노인 우울증/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 1인 가구 중 8.9%는 전문가 상담이 시급한 우울증 고위험군인 것으로 나타났다. 코로나 팬데믹 이후 치솟은 한국인들의 우울감이 계속해서 유지되고 있는 가운데, 이런 우울증을 일으키는 가장 큰 원인은 ‘수면’이었다.&lt;br&gt;&lt;br&gt;14일 질병관리청은 지난해 전국 19세 이상 성인 약 23만명을 대상으로 수행한 ‘2025 지역사회건강조사’ 자료를 토대로 우울 관련 지표를 심층 분석한 이 같은 결과를 공개했다.&lt;br&gt;&lt;br&gt;질병청 분석을 살펴보면, 지난해 우울 증상 유병률은 2017년 2.7%에서 2025년 3.4%로 25.9% 증가했다. 우울 증상 유병률이란 전체 인구 중에서 우울증 선별 도구 점수 총합이 10점이 넘는 사람의 비율을 뜻한다. 선별 도구는 27점이 제일 높지만 10점 이상만 돼도 중등도 우울증으로 분류돼 의료기관 방문과 전문가 상담이 권고된다. 이 유병률은 코로나 팬데믹의 영향이 있기 전인 2020년에 2.6%를 기록한 이후 2021년에 3.1%로 치솟았고, 이후 2022~2025년엔 3.4~3.5% 사이를 오르내리고 있다.&lt;br&gt;&lt;br&gt;이번 조사에서는 우울증 고위험군과 그렇지 않은 집단 간의 유병률 차이가 명확하게 드러났다. 통상 우울증 고위험군에는 여성, 70대 이상 고령층, 무직자, 월 소득 가구 200만원 미만, 1인 가구 및 기초생활수급 가구 등이 들어간다. 구체적으로 여성은 남성 대비 1.7배, 기초생활수급 가구는 미수급 가구 대비 4.6배, 1인 가구는 2.3배 높은 우울 증상 유병률을 보였다. 특히 70대 이상 1인 가구의 경우 유병률이 8.9%로 전체 유병률 대비 2.6배나 높게 나타났다.&lt;br&gt;&lt;br&gt;우울 증상을 일으키는 가장 큰 요인으론 수면 시간이 꼽혔다. 하루 7~8시간을 자는 사람들에 비해 6시간 이하 또는 9시간 이상을 자는 사람들은 유병률이 2.1배나 높았다. 친구와의 교류가 월 1회 미만으로 적을 경우 2배, 이웃 간 신뢰가 낮은 경우 1.8배 커졌다.&lt;br&gt;&lt;br&gt;이외 건강 행태 요인에서 흡연은 1.7배, 걷기나 근력 운동과 같은 신체 활동 부족은 1.2∼1.4배, 고위험 음주는 1.3배 우울 증상 위험을 증가시키는 것으로 집계됐다.&lt;br&gt;&lt;br&gt;임승관 질병청장은 “이번 분석을 통해 20·30대 여성과 70대 이상 고령층 등이 우울증 위험군으로 확인됐다”며 “우울증 예방을 위해 적정 수면과 사회적 관계 유지 및 건강한 생활 습관이 중요하다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>왜가리가 알 낳고, 수달이 뛰어놀고…서울시, 한강 모니터링 결과 발표</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/CQV6QU673BCQTO6TW76226XNBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/CQV6QU673BCQTO6TW76226XNBU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 05:03:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLQAWMMHNVCXNDMQF37HEG7ZUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도샛강생태공원에서 둥지에 알을 낳고 있는 왜가리의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 최근 한강 생태 모니터링을 실시한 결과, 여의도샛강생태공원에서 왜가리가 알을 낳는 장면을 포착했다고 14일 밝혔다. 서울시 조사에서 왜가리의 번식이 확인된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;서울시에 따르면, 이번 생태 모니터링은 여의도샛강생태공원을 비롯해 고덕생태공원, 난지한강공원 등 한강 일대를 대상으로 실시했다.&lt;br&gt;&lt;br&gt;모니터링 결과, 여의도샛강생태공원에서는 왜가리 4마리가 알을 낳은 장면이 포착됐다. 왜가리는 하천과 습지에서 사는 조류로, 안정적인 먹이가 확보되면 그곳에서 번식하는 상위 포식자다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “샛강 일대의 수질이 개선되면서 물고기가 살 수 있는 환경이 만들어졌고, 그에 따라 왜가리도 번식할 수 있게 된 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;여의도샛강생태공원에서는 잉어 100여 마리가 알을 낳는 모습도 관찰됐다.&lt;br&gt;&lt;br&gt;한편 난지한강공원에서는 수달의 활동을 확인했다. 수달은 주로 저녁 시간대에 활동하는 것으로 나타났다. 고덕생태공원과 암사생태공원에서도 수달의 흔적이 발견됐고, 멸종 위기 동물인 삵도 이곳에 사는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이외에도 강서습지생태공원에서는 황조롱이와 청딱다구리 등 조류 40여 종이 관찰됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “하천 생태계로서 한강이 안정적인 번식 환경으로 기능하고 있다는 뜻”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>e음카드 캐시백 20%, 주유비 할인… 인천시, 민생 지원 추경안 추진 </title>
       <link>https://www.chosun.com/national/regional/2026/04/14/CVR6CGNFVNCLDCSS7TBEL4IDF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/14/CVR6CGNFVNCLDCSS7TBEL4IDF4/</guid>
@@ -929,24 +947,6 @@
       <description/>
       <pubDate>Tue, 14 Apr 2026 02:51:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTK56NVPKVH4TNB3J4TS5GZ4YU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민생 지원 추경안 설명하는 유정복 인천시장. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자식 지역 화폐인 ‘인천 e음카드’를 사용할 때 받을 수 있는 캐시백 비율이 5월부터 3개월간 10%에서 20%로 높아진다. 캐시백 비율 20%는 인천의 모든 주유소에서도 적용된다. 그동안은 연 매출 30억원 미만 주유소에서만 10%의 캐시백을 받을 수 있었다. 인천 지역 기초생활수급자 등 취약 계층에 대한 정부의 고유가 피해 지원금은 비수도권과 같은 15만원이 지원된다. &lt;br&gt;&lt;br&gt;인천시는 이 같은 내용을 담은 ‘2026년도 1회 추가경정예산안’ 편성 계획을 14일 밝혔다. &lt;br&gt;&lt;br&gt;인천시의 이번 추가경정예산안은 15조5742억원 규모로 편성될 예정이다. 기존 예산 15조3260억원보다 2482억원(1.62%) 늘어난 액수다. &lt;br&gt;&lt;br&gt;인천시는 지난해 확보했으나 올해 예산에 반영하지 못한 보통교부세 미반영분 1100억원과 올해 보통교부세 증액분 770억원, 지방채 발행액 825억원 등을 주요 재원으로 이번 추경안을 편성할 예정이라고 설명했다. 늘어난 재원 중 200억원 정도는 예비비 등으로 활용할 계획이다. &lt;br&gt;&lt;br&gt;인천시는 이번에 추가로 확보한 예산을 민생 지원을 위해 집중 투입할 계획이다. 인천 e음카드 캐시백 확대, 주유비 할인, 고유가 피해지원금 추가 지급, 농어업인 수당 선지급 등이 주된 내용이다. &lt;br&gt;&lt;br&gt;시는 우선 e음카드에 1145억원의 예산을 투입해 5월부터 7월까지 3개월간 캐시백 비율을 기존 10%에서 20%(연 매출 30억원 미만 사업장 대상)로 높일 계획이다. &lt;br&gt;&lt;br&gt;인천 지역 367개 주유소에서도 20% 캐시백 지원(127억원 예산 소진 시까지)을 받게 된다. 그동안엔 연 매출 30억원 이하의 주유소 62곳에서만 10% 캐시백 지원을 받을 수 있었다. 인천시는 L당 400원가량의 주유비 할인 혜택을 볼 것으로 예상했다. &lt;br&gt;&lt;br&gt;인천시는 또 150억원을 투입해 기초생활수급자, 차상위계층, 한부모가정에 고유가 피해지원금 5만원씩을 추가로 지급할 계획이다. 취약계층에겐 비수도권에 지급되는 고유가 피해지원금과 같은 액수를 지급하겠다는 취지다. &lt;br&gt;&lt;br&gt;고유가로 직격탄을 맞은 택시·화물차 종사자 지원 차원에서 노후 택시 폐차 지원 대상을 666대에서 1600대로 늘리고, 화물차 유가 보조금도 증액할 예정이다.&lt;br&gt;&lt;br&gt;농어업인에게 매월 지급되는 수당은 다음 달에 1년 치(60만원)를 선지급할 계획이다.&lt;br&gt;&lt;br&gt;인천시는 이달 중 추경안을 편성해 시의회에 제출할 예정이다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “정부 추경안에서 지방정부에 부담하도록 한 20% 분담분 등은 지방채를 발행해 부담하게 될 것”며 “이번 인천형 추경을 통해 경제 위기 속 시민의 시름을 덜어드리겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWCPPLGVZFCWXB6NRAQFZY6E3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천형 민생 추경안./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘목동 깨비시장 돌진’ 70대 운전자에 금고 3년 구형</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/3KKEXGS54BHKLJXDM5T4FFG4LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/3KKEXGS54BHKLJXDM5T4FFG4LY/</guid>
-      <dc:creator>김진영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 04:22:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OR5JLBG4467RX3RW3DUX75N5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년, 서울 양천구 목동 깨비시장 차량 돌진 사고로 12명의 사상자가 발생했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2024년 서울 양천구 목동 깨비시장에서 승용차를 몰고 돌진해 12명의 사상자를 낸 70대 운전자에게 검찰이 금고형을 구형했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사5단독 서지원 판사는 14일 교통사고처리 특례법 위반(치사·치상) 등의 혐의를 받은 김모(76)씨에 대해 결심 공판을 열었다. &lt;br&gt;&lt;br&gt;이날 검찰은 김씨에게 금고 3년을 선고해달라고 재판부에 요청했다. 금고형은 교도소에 수용하되 징역형과 달리 강제 노역을 부과하지 않는 형벌이다.&lt;br&gt;&lt;br&gt;검찰은 “단 한 번의 사고로 1명이 사망하고 다수의 부상자가 발생하는 등 중대한 결과가 초래됐다”면서도 “피고인이 초범이며, 피해 회복을 위해 노력해 대부분의 피해자와 원만히 합의한 점을 참작했다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 2024년 12월 31일 오후 4시 18분쯤 목동 깨비시장에서 앞서가던 버스를 추월하기 위해 가속하다 시장 내 과일 가게로 돌진한 혐의를 받는다. 당시 차량의 속도는 시속 76.5㎞에 달했던 것으로 조사됐으며, 이 사고로 1명이 숨지고 11명이 크고 작은 부상을 입었다.&lt;br&gt;&lt;br&gt;사고 직후 받은 정밀 검사에서 김씨는 초기 알츠하이머 진단을 받은 것으로 드러났다. 김씨는 사고 전인 2023년 11월 알츠하이머 전조 증상인 경도인지장애 진단을 받고 약물 치료를 받았으나, 처방약을 모두 복용한 뒤 스스로 치료를 중단한 것으로 확인됐다. 김씨는 요양 시설에서 생활하며 불구속 상태로 재판을 받아왔다.&lt;br&gt;&lt;br&gt;김씨 측 변호인은 “피고인이 질병으로 인해 심약한 상태이며 현실적으로 재범 가능성이 낮은 점을 고려해 관용을 베풀어 달라”고 했다.&lt;br&gt;&lt;br&gt;김씨에 대한 1심 선고 공판은 오는 23일 오후 2시에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘KBS 검언유착 오보’ 신성식 전 검사장에 항소심서 벌금형 구형</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/14/LAXKZDMEORBCPAGIYBHITL2RYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/14/LAXKZDMEORBCPAGIYBHITL2RYI/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 04:03:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UG3PG6W5F37PE5W4EO7RIF3IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신성식 전 검사장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KBS에 잘못된 정보를 전달해 ‘검언 유착 녹취록’ 오보에 관여한 혐의로 재판에 넘겨졌던 신성식 전 검사장에 대해 검찰이 항소심에서 벌금형을 구형했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사항소3-1부(재판장 장윤선)는 14일 출판물에 의한 명예훼손, 정보통신망법 위반(명예훼손) 혐의를 받는 신 전 검사장과 KBS 기자 이모씨에 대한 결심 공판을 열었다.&lt;br&gt;&lt;br&gt;이날 검찰은 원심을 파기하고 신 전 검사장과 이씨에게 각각 벌금 1000만원, 징역 1년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;지난 2020년 KBS는 당시 한동훈 법무부 장관과 이동재 전 채널A 기자가 유시민 노무현재단 이사장의 신라젠 주가조작 관련 의혹을 제기하기로 공모했다는 ‘검언 유착’ 정황이 담겼다며 녹취록을 보도했다가 하루 만에 오보를 인정하고 사과했다.&lt;br&gt;&lt;br&gt;검찰은 KBS 기자들에게 허위 사실을 알린 것이 신 전 검사장이라고 봤다. 검찰은 신 전 검사장을 서울중앙지검 3차장으로 재직하던 당시 KBS 기자들에게 한 전 대표와 이 전 채널A 기자의 대화 녹취록 내용이라며 허위 사실을 제보한 혐의로 기소했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 이들에게 무죄를 선고했다. 당시 재판부는 “검찰 고위 공직자인 피고인이 쉽게 드러날 허위 사실을 고의적으로 적시했다고 보기는 어렵다”고 했다. 이씨에 대해서도 “피고인이 허위 사실이라는 인식을 가지고 이 사건을 보도한 것이 아니고 비방할 목적도 없었다고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;항소심 선고는 다음 달 7일 오후 2시에 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아빠는 내 영웅”... 완도 화재 순직 소방관 눈물의 영결식</title>
