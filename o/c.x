@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘국민 여동생’ 문근영, 벌써 40대...희귀병 완치 후 모습 공개</title>
+      <link>https://www.chosun.com/national/people/2026/04/16/2CSYKWWCIBH6VE365NAWZYQSOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/16/2CSYKWWCIBH6VE365NAWZYQSOA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 14:51:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7HKKECZ7JGUPALQQ5ZDHHCOGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 문근영./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 문근영이 희귀 응급 질환인 급성구획증후군을 겪은 뒤의 근황을 전했다.&lt;br&gt;&lt;br&gt;지난 15일 방송된 tvN ‘유 퀴즈 온 더 블럭’ 예고편에는 문근영이 출연했다. &lt;br&gt;&lt;br&gt;문근영은 2017년 2월 연극 ‘로미오와 줄리엣’ 출연 중 급성구획증후군을 진단받아 활동을 중단했다. 치료와 수술로 공백기를 보낸 뒤 같은 해 9월 공식 활동을 재개했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSGCNJUMJQTCYRWGA4TGMRTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;급성구획증후군 진단을 받았던 배우 문근영이 완치 후 근황을 전했다./tvN ‘유퀴즈’ &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 문근영은 오른쪽 팔에 설명하기 어려운 극심한 통증을 느꼈고, 병원을 찾은 결과 급성구획증후군 진단을 받았다고 한다. 단순한 근육통으로 보기 어려울 정도의 통증이었고, 진단 직후 예정됐던 공연도 모두 취소한 채 응급 수술을 받았다.&lt;br&gt;&lt;br&gt;문근영은 병원으로부터 “골든타임이 이미 지나 괴사가 시작됐을 수도 있다”는 말을 들었다고 털어놨다. 이후 긴급 수술을 결정했고, 모두 네 차례 수술과 치료를 이어갔다. 그는 “급성구획증후군 수술 후 ‘엄마, 나 마음 놓고 쉴 수 있어서 너무 좋다’고 말했다”며 “몸이 커지면서 마음도 커진지 모르겠는데, 40대는 좀 익사이팅해도 재밌을 것 같다는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;급성구획증후군은 근육과 신경이 포함된 구획 내부의 압력이 높아지면서 통증이 발생하는 질환이다. 심할 경우 구획 안의 근육이 마비될 수도 있는 희귀병으로 알려져 있다. 원인은 비교적 일상적인 경우도 있다. 가장 흔한 경우는 심한 타박상이나 골절이지만, 치료 과정에서 압박 붕대나 통깁스를 지나치게 강하게 조였을 때도 내부 압력이 올라가 질환이 생길 수 있다. &lt;br&gt;&lt;br&gt;전문가들은 외부에서 강하게 조이는 환경이 압력을 높이는 주요 원인이 될 수 있다며, 깁스 후 통증이 줄지 않고 오히려 심해진다면 즉시 의료진을 통해 상태를 확인해야 한다고 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 17일</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/16/VKFBXH3M6ZH57LLBA5J6OS5PKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/VKFBXH3M6ZH57LLBA5J6OS5PKQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 14:34:00 +0000</pubDate>
+      <content:encoded>금 - 전국 흐림...초여름 더위 잠시 주춤&lt;br&gt;&lt;br&gt;토~일 - 전국 맑은 하늘...기온 다시 올라&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CZPOVDJRZAJDI53PBKPIDCRF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 전한길 구속영장 기각 “증거인멸·도망 염려 인정 어려워”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/16/BRN4VRAE7BDSRAOZAMKFMUN4RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/BRN4VRAE7BDSRAOZAMKFMUN4RI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 13:39:07 +0000</pubDate>
+      <content:encoded>유튜브에서 이재명 대통령과 관련된 가짜 뉴스를 유포해 명예를 훼손한 혐의를 받는 전한길(본명 전유관)씨가 16일 구속을 피했다. 서울중앙지법 김진만 영장 전담 부장판사는 이날 전씨의 구속영장 실질심사를 진행한 뒤 “증거인멸 및 도망 염려를 인정하기 어렵다”며 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTDGOJQGNSTQYZSG44WMZBVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령과 개혁신당 이준석 대표의 명예를 훼손한 혐의를 받는 유튜버 전한길(본명 전유관)씨가 16일 서울 서초구 서울중앙지방법원에서 열린 구속영장 실질심사에 출석하며 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전씨는 작년부터 자신의 유튜브 채널을 통해 이 대통령이 대장동 사업으로 번 돈을 싱가포르에 숨겨뒀다거나 이 대통령에게 혼외자가 있다는 의혹을 제기했다가 경찰에 고발당했다. 또 이준석 개혁신당 대표의 하버드대 학력이 허위라고 주장해 이 대표에게 고소당했다. 경찰은 정보통신망법상 명예훼손과 전기통신기본법 위반 혐의로 전씨를 수사하고 있다.&lt;br&gt;&lt;br&gt;전씨는 고소·고발을 당한 이후에도 지난달 ‘이재명 대통령이 160조원 규모의 비자금과 군사기밀을 중국에 넘겼다’는 주장을 유튜브로 내보내고 “이준석 개혁신당 대표가 하버드 대학을 정식 졸업했는지 아닌지 의혹이 많다”고 했다. 경찰은 전씨가 이 대통령과 이 대표 관련 유튜브 영상 6개를 올려 3260만원을 벌었다고 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 전씨를 세 차례 조사한 뒤 구속영장을 신청했고, 서울중앙지검 인권보호부는 전씨에 대한 구속영장 청구 전 피의자 면담을 진행한 뒤 “전씨가 가짜 뉴스를 반복적으로 만들어 유포하는 등 사안이 중대하고 재범과 도주의 우려가 있다고 보인다”며 법원에 영장을 청구했다.&lt;br&gt;&lt;br&gt;전씨는 이날 이 대통령 관련 주장에 대해 “미국 언론 보도를 인용한 것뿐”이라며 혐의를 부인했다. 이 대표 관련해선 “하버드에서 경제학 학사를 취득하려면 4년 동안 16과목을 이수해야 하는데 (이 대표는) 5과목만 이수했다. 아무리 허술하다고 해도 하버드 경제학위를 그렇게 줄 리가 없다”며 학력 위조 주장을 되풀이했다.&lt;br&gt;&lt;br&gt;한편, 이날 전씨의 영장 심사는 약 1시간 30분 만에 종료됐으나, 변호인단이 전씨에게 수갑을 채우지 말라고 항의하면서 유치장 호송이 2시간가량 지연된 것으로 전해졌다. 변호인단은 전씨가 수갑을 찬 채 법원을 나서는 모습이 부당하다며 이를 채증하려 했으나 법원 방호원들이 “경내 촬영은 허가가 필요하다”며 제지해 충돌이 빚어졌다고 한다. &lt;br&gt;&lt;br&gt;전씨 측은 “구속 여부도 결정되지 않은 피의자에게 수갑을 채워 심리적으로 위축시키고 언론에 낙인을 찍으려는 것”이라며 “자발적으로 출석한 피의자에게 수갑을 채우는 것은 인격권 침해”라고 했다. 이에 대해 경찰은 “구인영장을 집행한 경우 수갑을 채워 호송하는 것은 적법한 절차”라고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노동위 “한화오션, 위탁 급식업체 노조와도 교섭해야”</title>
+      <link>https://www.chosun.com/national/labor/2026/04/16/OSJ7YJO4TFCGZGH2GVL4Q3J4ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/16/OSJ7YJO4TFCGZGH2GVL4Q3J4ZI/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 11:56:38 +0000</pubDate>
+      <content:encoded>민주노총 금속노조가 한화오션을 상대로 노동위원회에 제기한 ‘사용자성 판단’ 관련 신청이 인용됐다. 금속노조는 한화오션이 급식 업체 ‘웰리브’ 소속 하청 노동자와도 교섭에 나서야 한다고 주장해 왔다. 그동안 한화오션 측은 “웰리브는 생산과 직접 관련이 없는 사업체”라며 사용자성을 부정해 왔지만, 이날 경남지노위는 하청 노동자들의 손을 들어준 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTDAOBYHFRDSNZSGA3TCN3FGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 거제시 한화오션 거제사업장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 경남지방노동위원회는 심판 회의를 열고 민주노총 금속노조가 한화오션을 상대로 제기한 ‘사용자성 판단’ 사건을 인용했다. 웰리브는 한화오션의 급식, 출퇴근 버스 운행, 시설 관리 등 업무를 맡는 도급 업체다.&lt;br&gt;&lt;br&gt;지난달 10일 노란봉투법 시행 직후 금속노조 거제통영고성 조선하청지회와 웰리브지회는 한화오션에 단체교섭을 요구했다. 그러나 한화오션은 교섭 대상에 조선하청지회만 포함하고 웰리브지회는 제외했고, 이에 금속노조는 ‘웰리브지회도 교섭 대상에 포함시켜야 한다’는 이의 신청을 노동위에 제기했다. &lt;br&gt;&lt;br&gt;이번 결정으로 웰리브지회 하청 노동자들도 사용자성을 인정받은 것으로 풀이된다. 이번 결정에 따라 앞으로 한화오션은 급식 등 위탁업체 노동자들과도 직접 교섭해야 할 가능성이 생겼다. 앞으로 도급 방식으로 급식을 운영하고 있는 전국의 다른 기업들에도 영향을 미칠 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안동 야산 화재 4시간만에 완진…“담뱃불 원인 추정”</title>
+      <link>https://www.chosun.com/national/regional/2026/04/16/XUXQE3J6PFD5JJ76OSYNWC6PYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/16/XUXQE3J6PFD5JJ76OSYNWC6PYM/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 13:11:44 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSGEZJVMQ2TCMJZHFRTMMTEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 2시 25분쯤 경북 안동시 길안면 백자리 야산 인근 벌채목 더미에서  불이 나 4시간만에 꺼졌다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 경북 안동시 길안면 한 야산 공터에 쌓여있던 폐목재와 벌채목 등에서 시작한 화재가 약 4시간 만에 완전히 꺼졌다.&lt;br&gt;&lt;br&gt;소방 당국과 안동시 등에 따르면 이날 오후 2시 25분쯤 길안면 백자리 야산 내 공터에 쌓여 있던 폐목재와 벌채목에서 불이 났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;당국은 헬기 4대(소방 2대·산림청 1대·임차 1대)와 안동 119 산불 신속대응팀 등을 투입해 진화 작업에 나섰다. 4시간가량이 오후 6시 20분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;이 불로 폐목재 10t가량이 소실된 것으로 조사됐다. 안동시 산불감시원들은 혹시 모를 재발화에 대비해 뒷불 감시 작업을 이어가고 있다.&lt;br&gt;&lt;br&gt;당국은 이번 화재가 신원 미상의 인물이 버린 담뱃불에 의한 것으로 보고 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;안동시 관계자는 “화재 현장 진입로가 협소해 헬기 위주로 진화를 했다”며 “중장비로 나뭇더미를 뒤집어가면서 진화를 했기 때문에 재발화 가능성은 낮은 걸로 보고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>섬 박람회 점검 간 金총리 “뭘 보여주겠다는 건지 불명확”</title>
+      <link>https://www.chosun.com/politics/goverment/2026/04/16/BNMGBVY56ZDHJHUZDU5A4KWQZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/16/BNMGBVY56ZDHJHUZDU5A4KWQZQ/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 12:00:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRRWPJWA65OANFMNTWNENBGC5E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김 총리는 16일 오후 전남 여수시 여수엑스포기념관을 찾아 전남도와 여수시, 박람회 조직위원회 관계자들로부터 박람회 준비 상황을 보고받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 9월 개막하는 여수 세계 섬 박람회가 준비 부족으로 ‘제2의 잼버리’가 될 수 있다는 우려가 나온 가운데, 김민석 국무총리가 16일 전남 여수를 찾아 행사 준비 상황을 점검했다.&lt;br&gt;&lt;br&gt;여수 섬 박람회는 여수시가 이달 초 지방자치단체 공무원 출신 유튜버 ‘충주맨’ 김선태씨를 불러 만든 홍보 영상을 통해 미흡한 준비 실태가 알려지면서 논란이 됐다. 김씨는 터만 닦고 있는 박람회 행사장에 와서 “공사장인데, 여길 왜 데려왔느냐”고 지적하고, 박람회 예정지라고 안내받고 찾아간 무인도가 기초적인 접안 시설조차 갖춰져 있지 않은 모습을 보여줬다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오후 전남 여수시 여수엑스포기념관을 방문해 전남도와 여수시, 박람회 조직위원회 관계자들로부터 박람회 준비 상황을 보고받았다. 조직위 관계자는 ‘계획대로 진도가 나가고 있다’고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이들에게 “며칠 전 국무회의 때 대통령님께서 ‘여수 세계 섬 박람회가 광주·전남 통합 이후 첫 국제 행사로 예정돼 있는데, 여기저기에서 준비가 잘되고 있는지에 대한 궁금함과 걱정이 있고, 지방선거 때문에 광역자치단체나 여수시가 (박람회 준비에 대한) 집중력이 떨어질 수 있으니 살펴보는 게 좋겠다’고 말씀하셔서 내가 급하게 오게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 여수 세계 섬 박람회가 예산 600여억 원을 투입하고도 개막을 5개월 앞둔 지금까지 거의 준비되지 않았다는 지적이 나왔다. 그러자 이재명 대통령은 14일 국무회의에서 “인프라 조성과 홍보 등에 박차를 가해야 하는 시점인데, 현장에서 우려의 목소리가 나온다”며 “지방선거로 인한 행정 공백 가능성을 감안하면, 대회 준비를 전적으로 지방정부에만 맡겨두기가 만만치 않다. 중앙정부 차원에서 준비 상황을 빈틈없이 점검하고 필요한 지원을 해주면 좋겠다”고 당부했다.&lt;br&gt;&lt;br&gt;김 총리는 박람회 관계자들에게 “오늘은 전체 상황(에 관한 설명)을 말로 듣는 것을 주로 하고, 다음 주에 한 번 더 오겠다”고 했다. 그는 “한두 번 더 와 보고 종합적인 판단을 해서, 보완돼야 할 부분이 어떤 것이 있는지, 중앙정부가 어떤 의견을 낼 수 있는지를 그때 말하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 또 “기본적으로 이것은 여수시가 준비한 국제 행사이고, 여수 시민의 세금이 투입되는 것”이라며 “그만큼 여수시가 주도성과 책임성을 갖고 임하는 것이 당연하다”고 했다. 이어 “중앙정부나 광역자치단체는 지켜보고 옆에서 지원할 것을 지원하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 총리는 “전남광주통합시건 여수시건 (더불어민주당의 공천을 받아) 지방선거에서 당선이 유력한 분들이 (당선 전이라도) 집중력을 갖고 미리 지켜봤으면 좋겠다”고도 했다. 여수시장 권한대행에게도 “선거 기간에는 권한대행에게 책임이 다 위임되는 것이니까, 책임감 있게 잘해 주기 바란다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 조직위에 “섬 박람회가 무엇을 보여주겠다는 것인지 불명확하다”고도 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWI4334SX5OSHFJEBZXOWYXK3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 16일 오후 전남 여수시 개도를 방문해 2026 여수 세계 섬 박람회 준비 상황을 점검하고 있다. /국무총리실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 총리는 이어 행정선을 타고 부행사장인 개도(섬)로 이동해 행사장 조성 현장을 살펴보고, 관광 콘텐츠와 숙소, 식당 등 편의 시설은 무엇이 있는지 점검했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>포천 식품공장서 화재…소방, 진화 중 </title>
       <link>https://www.chosun.com/national/regional/2026/04/16/PRFUVKSZARE4ZO6X3SDXGGQUSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/16/PRFUVKSZARE4ZO6X3SDXGGQUSY/</guid>
@@ -906,60 +960,6 @@
       <description/>
       <pubDate>Wed, 15 Apr 2026 07:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TEMBZGVSGMOBSGQYTGYRQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 2터미널에서 여행객들이 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도로 2박 3일 수학여행을 추진하며 1인당 60만원이 넘는 경비를 안내했던 한 중학교가 비용 논란 끝에 결국 수학여행을 취소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;14일 한 온라인 커뮤니티에는 ‘수학여행 60만원’ 논란 이후 상황을 전하는 글이 올라왔다. 작성자 A씨는 “별일이 아니라고 생각했는데, 이슈화되면서 일이 커지더니 결국 학교에서 수학여행 취소를 결정했다고 한다”고 전했다.&lt;br&gt;&lt;br&gt;이어 “처음 글을 올린 사람이 어떤 의도였는지는 알 수 없지만, 비싸다고 생각하면서도 아이의 추억을 위해 보내려 했던 것 아니겠냐”며 “결국 피해는 대다수 아이가 보게 됐다”고 적었다. 또 “누구의 잘못이라고 단정하기도 어려운 상황이라 더 씁쓸하다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEPE3ABAAFF3NNJPKIUL6NQOZQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 학교의 강릉 수학여행 통지서./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 여러 온라인 커뮤니티에는 ‘수학여행 경비 보더니 안 가겠다는 아들’이라는 제목의 글이 올라왔다. 공개된 안내문에 따르면 이 학교의 수학여행은 다음 달 27일부터 29일까지 2박 3일 일정으로 강원도 일대에서 진행될 예정이었다. 주요 프로그램은 박물관 탐방과 케이블카, 제트보트, 루지, 목장 체험 활동 등이며, 크로스컨트리 등 올림픽 체험도 포함됐다.&lt;br&gt;&lt;br&gt;안내문에 적시된 1인당 예상 경비는 60만6000원이었다. 전세버스 비용은 12만1000원, 조식을 포함한 숙식비는 15만원, 5끼 식비는 9만7000원, 입장료는 10만9000원으로 안내됐다.&lt;br&gt;&lt;br&gt;게시글을 올린 작성자 B씨는 “처음에는 가야지 했다가 비용 보고는 황당하긴 하더라. 숙박비와 식비, (전세)버스가 저 비용이 맞느냐”고 했다. B씨 자녀를 비롯해 일부 학생들은 비용 부담 때문에 수학여행에 가지 않겠다는 생각을 하는 것으로 전해졌다. B씨는 “아이가 처음 가는 수학여행이라 설득해 보내야 하지 않을까”라고도 했다.&lt;br&gt;&lt;br&gt;수학여행 취소 소식이 전해지자 온라인에서는 엇갈린 반응이 나왔다. 일부는 “60만원이면 비싸다. 돈 없으면 가지 말라는 건 차별이다”라고 했고, 다른 일부는 “수학여행이라는 추억을 뺏은 것 같아 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 쉰들러에 소송비용 96억원 전액 환수… 승소 한 달만</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/15/YZBCS6XPMVDEFIWQJNYVQU5D6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/YZBCS6XPMVDEFIWQJNYVQU5D6I/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 06:58:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSTCY3BGQ2GENRZHBTGKYRSGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 한국 정부가 스위스의 글로벌 승강기 업체 쉰들러로부터 소송비용 전액을 환수했다고 15일 밝혔다. 쉰들러가 제기한 약 3200억원 규모의 국제투자분쟁(ISDS)에서 지난달 14일 한국 정부가 승소한 데 따른 조치다. 이번에 환수한 소송 비용 96억원은 한국 정부의 역대 ISDS 사건 중 최대 규모다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2018년 현대엘리베이터의 2대 주주인 쉰들러가 한국 정부에 약 5000억원 규모 ISDS를 제기하면서 시작됐다. 쉰들러 측은 2013~2015년 진행된 현대엘리베이터 유상증자와 전환사채(CB) 발행이 오너 일가의 경영권 강화 차원에서 이뤄졌음에도 공정거래위원회·금융감독원·금융위원회 등 관계 당국이 이를 방치해 부당한 손해를 입었다고 주장했다. 쉰들러 측의 최초 ISDS 청구 액수는 약 5000억원이었다. 그러나 지난 8년간 법적 공방이 이어지면서 배상 청구액은 3200억원 수준으로 줄었다.&lt;br&gt;&lt;br&gt;중재판정부는 한국 공정위·금융위·금감원의 조치에 대해 “자의적이거나 차별적이지 않은 합법적인 권한 범위 내에서 충분한 조사와 심사를 수행한 것”이라며 쉰들러의 손해배상 청구를 전부 기각했다. 그러면서 ‘패소자 비용 부담 원칙’에 따라 쉰들러 측이 한국 정부에게 소송 비용 약 96억원을 지급할 것을 명령했다.&lt;br&gt;&lt;br&gt;통상 ISDS 사건에서는 패소한 투자자가 국가에 소송 비용 지급을 미루거나 거부해 국가가 해외 법원에 별도의 판정 집행 소송을 제기하는 경우가 많다고 한다. 이에 법무부는 지난달 19일 쉰들러 측에 “지급 기한인 4월 12일 안에 변제하지 않을 경우 13일부터 이자를 가산해 청구할 것이며 미변제 시 강제 집행 절차에 착수할 수 있다”는 내용의 변제 촉구 서신을 보냈다. 쉰들러는 지난 10일부터 이날까지 소송 비용 약 96억원 전액을 법무부 지정 계좌에 송금했다. 해당 금액은 국고로 귀속될 예정이다.&lt;br&gt;&lt;br&gt;최근 한국 정부는 ISDS 사건에서 연이어 승소하고 있다. 작년 11월 미국계 사모펀드 론스타와의 약 4000억원대 ISDS 취소 사건에서 승소한 데 이어, 지난 2월 23일에는 미국계 사모펀드 엘리엇과의 1600억원대 ISDS 취소 소송에서 승소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“보완수사가 가장 효율적인 선택” vs “예외로도 인정 안 돼”…검찰개혁 시민 토론회</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/15/VAD3CMMFRFBFPJYPFGVA6YLPFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/VAD3CMMFRFBFPJYPFGVA6YLPFI/</guid>
-      <dc:creator>정동하 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 08:31:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBVCZM4BXBE55IIU4BDTIC6I4M.png"&gt;&lt;figcaption&gt;&lt;small&gt;15일 광주 동구 전일빌딩에서 열린 검찰개혁을 위한 시민 토론회에서 김봉수 전남대 법학전문대학원 교수가 발언하고 있다. /총리실TV 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 검찰청 폐지 이후 신설되는 공소청에 보완수사권을 남겨두는 문제에 대해 전문가들이 “검사의 직접 보완수사가 가장 신속하고 효율적인 선택”이라는 의견과 “예외적으로도 인정해서는 안 된다”는 의견으로 대립했다.&lt;br&gt;&lt;br&gt;국무총리실 산하 검찰개혁추진단과 사회대개혁위원회는 15일 광주광역시 동구 전일빌딩에서 검찰개혁 토론회를 열었다. 이날 토론회엔 김봉수 전남대 법학전문대학원 교수와 대검 감찰부장 출신 한동수 법무법인 정세 변호사가 발제자로 나섰다. 김 교수는 ‘보완수사가 필요하다’는 입장인 반면, 한 변호사는 ‘보완수사가 없어도 무방하다’는 주장을 내세웠다.&lt;br&gt;&lt;br&gt;김 교수는 “송치된 사건의 공소 제기 및 유지의 관점에서 검사의 직접 보완수사가 가장 신속하고 효율적인 선택”이라고 주장했다. 김 교수는 2021년 수사권 조정 이후 늘어난 검찰과 경찰 간의 ‘사건 핑퐁’ 문제를 언급하며 “비효율과 불편을 국민이 부담하고 있다”고 했다.&lt;br&gt;&lt;br&gt;‘수사-기소 분리’라는 검찰개혁의 원칙에 대해서도 반대 목소리를 냈다. 김 교수는 “수사와 기소는 기능적으로 연결돼 있어 완전한 분리는 실체적 진실을 발견한다는 이념에 반할 우려가 높다”며 “수사와 기소가 분리를 넘어서 단절됐다는 게 이번 검찰개혁의 한계”라고 지적했다. 그러면서 “(수사-기소 분리가) 개혁 주체의 정치적 목적은 될 수 있지만 형사소송법이 추구해야 할 규범적 목적이나 당위가 될 수 없다”고 강조했다. &lt;br&gt;&lt;br&gt;한 변호사는 “보완수사권의 예외적 인정을 거론하는 것 자체가 수사-기소 분리 원칙을 훼손하려는 시도”라며 반대 의견을 펼쳤다. 그는 “사건 처리가 지연될 수 있다는 우려는 검경 간 수사 협의 등으로 해결할 수 있다”면서 “보완수사요구 불이행으로 일어나는 사건 핑퐁 현상이 실제로 존재하는지 객관적으로 확인된 바도 없다”고 했다. 검사가 직접 수사하지 않아도 미진한 수사를 보완할 수 있는 방법이 있다는 것이다.&lt;br&gt;&lt;br&gt;토론회에 참석한 시민들이 의견을 내기도 했다. 한 시민은 “지난 2년간 경찰이 피해자나 참고인들의 인권을 침해한 현장을 목격했다”며 “작년 8월 전북경찰청 반부패수사대에서 2명이 수사받다 죽은 일도 있었다”고 했다. 그러면서 “선출된 권력을 통해 수사권 독점을 통제할 수 있는 길이 필요하다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 김 교수는 “‘오늘의 검찰개혁’이 ‘내일의 경찰개혁’으로 이어지지 않기 위해선 수사권의 통제 방안에 대한 고민이 반드시 함께 이루어져야 한다”며 “이왕 검찰 개혁을 할 거라면 ‘경찰 개혁’도 함께 했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;검찰개혁추진단은 최근 보완수사권 관련 전문가 토론회 등을 연달아 열며 관련 의견을 수렴하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“징역 1년에 1억원씩 보상” 바지사장 앉혀 시세 조종한 일당 재판行</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/767TZ2KUANB3LD6Q5SUUGNK6GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/767TZ2KUANB3LD6Q5SUUGNK6GM/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 08:30:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZWGYLBMIZTANBTGRRGMZRXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코스닥 상장사의 주가를 조작하고 바지 사장을 해외로 도피시킨 일당이 무더기로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사제2부(부장 김태겸)는 자본시장법 위반 및 범인도피 교사 등의 혐의를 받는 A씨 등 일당 7명을 기소했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 지난 2018년부터 2019년까지 차명 계좌 100개 이상을 동원해 코스닥 상장사 포티스(현 디에스앤엘) 주가를 조작한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 서울 강남구 소재 사무실에서 고가 매수, 가장매매 등 24만회 이상의 시세 조종 주문으로 범행을 벌인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이들은 2018년 8월부터 11월까지 범행을 통해 40억원 상당의 부당 이득을 얻었다. 하지만 같은 해 11월부터 이듬해 2월까지 또다시 범행을 벌이던 중 포티스 주가가 떨어져 최종적으로는 손해를 본 것으로 조사됐다. &lt;br&gt;&lt;br&gt;2013년 1월 코스닥 시장에 상장했던 포티스는 범행 이후인 2024년 1월 3일 상장 폐지됐다.&lt;br&gt;&lt;br&gt;이 일당은 A씨를 바지사장으로 앉히고 “형사처벌을 받으면 징역 1년당 1억~2억원을 보상해주겠다”고 하며 A씨의 계좌를 이용해 범행을 저지른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이후 2019년 금융 당국의 조사가 시작되자, 곧바로 A씨를 베트남으로 도피시켜 조사를 방해했다. 또한 A씨의 해외 도피 자금을 5년 이상 지원한 것으로 드러났다.&lt;br&gt;&lt;br&gt;검찰은 인터폴 수배 끝에 바지사장 A씨를 검거해 지난해 구속 기소했으며, 이날 공범 6명을 추가로 적발해 불구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교사 밀쳐 뇌진탕 부상입힌 중학생… 알고보니 ‘금쪽이’ 출연 이력</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/AOJG72NZDRGO5FAALKEWFEY5LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/AOJG72NZDRGO5FAALKEWFEY5LA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 08:11:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWZILFCTK7RJH3CNYVGCND3DIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중학교 학생들이 등교하는 모습. 기사와 직접적인 관련이 없음. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교에서 교사를 밀쳐 뇌진탕 부상을 입힌 중학생이 과거 아동 문제 행동을 다루는 방송 프로그램에 출연한 이력이 있는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;15일 광주시교육청에 따르면, 지난달 27일 광주광역시의 한 중학교에서 A군이 쉬는 시간에 교무실에 찾아가 B교사와 실랑이를 벌이다 교사를 밀쳐 넘어뜨렸다. B교사는 넘어지는 과정에서 뇌진탕 부상을 입어 병원으로 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;A군은 B교사가 자신의 대화 태도를 지적한 것을 놓고 실랑이를 벌이다 교사를 밀친 것으로 알려졌다. B교사는 현재 공무상 병가를 받고 자택에서 회복 중이다. &lt;br&gt;&lt;br&gt;특히 A군은 초등학교 시절부터 반복적으로 문제 행동을 보여 아동 문제 행동을 다루는 방송 프로그램인 ‘요즘 육아 금쪽같은 내 새끼’에 출연한 이력이 있는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;교육청 관계자는 조선닷컴과의 통화에서 “중학생 때 출연한 것은 아니고 초등학생 때 출연한 것으로 알고 있다”고 했다. &lt;br&gt;&lt;br&gt;A군이 쓰러진 B교사를 향해 ‘오버하고 있네’라고 발언했다는 일부 보도에 대해서는 “정식으로 보고받은 내용에는 없다. 아직 동료 교사 등 목격자들에 대한 조사는 하지 않았다”고 했다. &lt;br&gt;&lt;br&gt;해당 중학교는 A군에 대해 지역교권보호위원회 개최 전까지 출석정지 조치를 했다. 교육청은 이달 중 교권보호위원회를 열어 정확한 사건 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이웃 할머니 집 급습해 폭행…조현병 앓던 60대 남성 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/15/YCQ6J26U7JAYVA3WDK5YFD7LRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/YCQ6J26U7JAYVA3WDK5YFD7LRQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 08:04:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NP32MDUB7VILLAZAI2VY2KKX7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 신도욱)는 홀로 사는 고령의 이웃 여성을 폭행한 60대 남성 A씨를 살인미수·노인복지법 위반 등 혐의로 15일 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;조현병·양극성 정동장애를 앓던 A씨는 지난달 말 자신이 거주하던 서울 서초구 빌라에서 일면식도 없는 여성 B(85)씨의 목을 조르고 머리와 가슴 부위를 발로 찬 혐의를 받는다. 당시 A씨는 아래층에 살던 B씨 집 문을 발로 차 B씨를 불러낸 뒤, B씨가 문을 열자 방 안으로 급습해 B씨의 목을 조르고 머리와 가슴 부분을 수차례 폭행한 것으로 조사됐다. B씨는 가슴 부분에 골절 등 중상을 입고 인근 병원으로 옮겨졌다. A씨 폭행은 별다른 동기가 없는 ‘이상 동기 범행’이라고 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;당시 범행 현장을 찍은 폐쇄회로(CC)TV나 목격자가 없었고, 피해자도 충격으로 기억이 소실돼 수사는 난항을 겪었다. 그러나 검찰은 의무기록사본과 혈흔분석결과서를 분석하고 법의학자와 신경외과 전문의의 자문을 구하는 등 보완 수사를 통해 A씨가 B씨의 급소를 반복적으로 폭행했다는 사실을 밝혀냈다. 송치됐을 당시엔 노인에 대한 상해를 가중 처벌하는 법률인 노인복지법 위반 혐의 등만 적용됐지만, 검찰은 A씨의 폭행에 살인의 고의가 있었다고 보고 살인미수 혐의도 적용해 A씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“전한길, 李대통령·이준석 허위사실 유포해 3000만원대 수익"</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/POHUBGEA6JFEZE3EYQMZIGXFCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/POHUBGEA6JFEZE3EYQMZIGXFCQ/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 08:02:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRI2V26X6NPYHLAVDTBUVOVOK4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;보수 성향 유튜버 전한길씨가 13일 이재명 대통령과 이준석 개혁신당 대표 관련 명예훼손 등의 혐의로 구속영장 청구 전 피의자 조사를 받기 위해 서울 서초구 서울중앙지방검찰청으로 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령과 이준석 개혁신당 대표에 대한 허위사실을 유포한 혐의로 구속영장이 청구된 유튜버 전한길(본명 전유관)씨가 관련 영상으로 3000만원대 수익을 거둔 것으로 확인됐다.&lt;br&gt;&lt;br&gt;15일 경찰에 따르면 최근 서울경찰청 광역범죄수사대는 압수수색을 통해 전씨의 유튜브 후원계좌 거래 내역을 확보했다. 이를 분석한 결과, 전씨가 이 대통령과 이 대표 관련 허위사실이 담긴 영상 6개로 총 3260만원의 수익을 거둔 것으로 나타났다.&lt;br&gt;&lt;br&gt;전씨는 지난달 18일 자신의 유튜브 채널에서 이 대통령의 혼외자 의혹과 중국 망명설 등을 제기했다. 또한 ‘이 대통령이 160조원 규모의 비자금과 군사기밀을 중국에 넘겼다’는 한 남성의 주장도 그대로 인용해 내보냈다. 같은 달 27일에는 이 대표의 하버드대 졸업 및 경제학 복수전공이 거짓이라는 취지의 주장도 했다가 고소당했다.&lt;br&gt;&lt;br&gt;경찰은 지난달부터 이달까지 전씨를 세 차례 불러 조사한 끝에 지난 10일 정보통신망법상 명예훼손 및 전기통신기본법 위반 혐의로 구속영장을 신청했다. 전씨는 경찰 조사에서 국민의 알 권리를 위한 것이었다고 주장하면서도 객관적 검증은 하지 않았다고 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰도 지난 14일 “가짜뉴스를 반복적으로 양산·유포하는 등 사안이 중대하며 재범 및 도주 우려가 있다”며 전씨에 대한 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;전씨의 구속 전 피의자 심문(영장실질심사)은 16일 오전 10시 30분 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
