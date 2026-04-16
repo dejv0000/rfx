@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>포천 식품공장서 화재…소방, 진화 중 </title>
+      <link>https://www.chosun.com/national/regional/2026/04/16/PRFUVKSZARE4ZO6X3SDXGGQUSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/16/PRFUVKSZARE4ZO6X3SDXGGQUSY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 10:48:21 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWLEKY3N7VNRRHED5MY5KSGICY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 4시 24분쯤 경기 포천시 이동면 장암리의 한 식품 제조공장에서 불이 났다. /포천소방서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;16일 오후 4시 24분쯤 경기 포천시 이동면 장암리의 한 식품 제조공장에서 불이 나 소방 당국이 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 소방차 등 장비 31대와 77명의 인원을 투입해 오후 5시 5분 대응 1단계를 발령했다. 대응 1단계는 31∼50대의 장비를 동원하는 경보령이다. &lt;br&gt;&lt;br&gt;현재까지 확인된 인명 피해는 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;포천시는 화재 발생과 관련, 재난안전문자를 발송하고 인근 주민들에게 사고 지점에서 떨어진 안전한 곳으로 이동하고 차량은 우회할 것을 안내했다.&lt;br&gt;&lt;br&gt;소방 당국은 “진화를 마치는 대로 화재 원인과 재산 피해 규모를 조사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대장동 수사 검사, 청문회 증인 출석 요구받고 극단선택 시도”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/16/RVMZ5FOXTZBF3ATYWQUPRUAJ3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/RVMZ5FOXTZBF3ATYWQUPRUAJ3E/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 09:16:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTGIN3FHFSGMMDGMNSDGNDCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서영교 윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회 위원장이 지난 13일 서울 여의도 국회에서 열린 중간 보고회에서 지난 9일 수원지검 현장 조사 관련 자료를 들어보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검의 대장동 사건 2기 수사팀 소속이었던 현직 검사가 더불어민주당 등 여권이 제기하는 ‘조작 기소’ 의혹에 억울함을 호소하며 최근 극단적 시도를 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 이모 검사는 국회 ‘윤석열 정권 조작기소 의혹 사건 국정조사’ 특별위원회 증인 출석 요청을 받고 지난주 후반쯤 극단적 시도를 한 것으로 알려졌다. 이 검사는 현재 서울 강남의 한 병원에 입원 중이다.&lt;br&gt;&lt;br&gt;이 검사는 지난 3월 25일 국정조사 특위 증인으로 채택돼 이날 열린 대장동·위례신도시·김용 전 민주연구원 부원장 사건 청문회 참석하라는 통보를 받았다. 그는 “지난달 16일 신장절제수술을 받은 후 추가로 입원해 치료 중이나 상태가 호전되지 않아 국회 출석이 불가능하다”며 지난 13일 국회에 불출석 사유서를 냈다. 이 검사는 신장암 판정을 받고 신장 수술을 받은 것으로 알려졌다. 그런데도 국회는 이날 청문회에 불출석한 이 검사에 대한 동행명령장을 발부했다.&lt;br&gt;&lt;br&gt;이 검사는 2022~2023년 대장동 2기 수사팀에서 대장동 민간 개발업자인 남욱 변호사 등을 조사했다. 남씨는 구속돼 서울구치소에 수감됐던 2022년 9월 16일부터 48시간 동안 검찰 조사를 받았는데, 당시 구치소로 돌아가지 못하고 검찰청사 내 구치감에 있었다. &lt;br&gt;&lt;br&gt;여당에서는 “검찰에 유리한 진술을 이끌어내기 위한 강압수사이자 조작기소”라고 주장하고 있다. 반면 검찰 안팎에서는 “남씨가 구속된 상태에서 검찰 임의조사 요청에 응하지 않자 수사팀이 법원에서 체포영장을 발부받았고, 인치 장소가 서울구치감이었던 것”이라며 “구치감 시설이 구치소보다 크게 열악하지 않다”는 반론이 나왔다.&lt;br&gt;&lt;br&gt;이 검사는 여당의 의혹 제기에 극심한 스트레스를 받은 것으로 전해졌다. 평소 주위에 억울하다는 뜻을 나타내며 “떳떳함을 밝히는 방법은 이것뿐이다” “내가 죽어야 내 이야기를 들어줄 것”이라고 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아내 탄 차유리 ‘쾅쾅’ 깨부순 50대...  “가정불화로 범행”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/16/C6M4WK4QVBERHMN7KWF3SHJ7OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/C6M4WK4QVBERHMN7KWF3SHJ7OI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 10:04:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2LPKUK6DZGH7GIRB5TEOQ7KS4.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 도로에서 한 남성이 검은색 승용차에 고무망치를 휘두르고 있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내가 탄 차량에 고무망치를 수차례 휘두른 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산 중부경찰서는 16일 특수재물손괴 혐의로 50대 남성 A씨를 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오전 11시쯤 울산 중구 다운동의 한 도로에서 검은색 승용차를 몸으로 막은 뒤 고무망치를 휘둘러 차량 앞유리를 파손한 혐의를 받는다. 신고를 받고 출동한 경찰은 A씨를 현장에서 검거했다.&lt;br&gt;&lt;br&gt;당시 차량 뒷좌석에는 A씨의 아내인 50대 여성 B씨가 타고 있었고, 운전석에는 70대 남성 C씨가 있었던 것으로 전해졌다. A씨는 차 안을 향해 “내려! 내려!”라고 크게 외친 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상을 보면 현장에 있던 다른 시민들이 소동에 놀라 횡단보도를 빠르게 뛰어가는 모습도 포착됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “가정불화로 인해 범행을 저질렀다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이번 사건을 가정폭력으로 판단하고 수사를 중부서 여성청소년과에 배당했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “B씨와 C씨의 관계는 밝힐 수 없다”며 정확한 범행 경위를 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IIGLACZB5HMLEKC7AIRWYOCK4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;한 도로에서 한 남성이 검은색 승용차에 고무망치를 휘두르고 있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2IIGLACZB5HMLEKC7AIRWYOCK4.gif?auth=c393027cca74efbddba795d91fff39203eca2694010baf69bea0c914d73e3a01&amp;smart=true&amp;width=525&amp;height=475" type="image/jpeg" height="475" width="525">
+        <media:description type="plain">한 도로에서 한 남성이 검은색 승용차에 고무망치를 휘두르고 있다./스레드</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘10조원대 전분당 가격 담합 의혹’ 대상 사업본부장, 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/16/SKEXNCEEVZAKLOAUT7XUF2BVFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/SKEXNCEEVZAKLOAUT7XUF2BVFA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 10:11:06 +0000</pubDate>
+      <content:encoded>10조원대 전분당 가격 담합 의혹을 받는 식품업체 ‘대상’의 사업본부장이 16일 구속 기소됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTQNJYME3WKNJTGJSWCNLBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전분당 업체들의 담합 의혹과 관련해 대상그룹 사업본부장이 지난달 31일 영장실질심사를 받기 위해 서울 서초구 서울중앙지법에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 독점규제 및 공정거래에 관한 법률 위반 혐의를 받는 대상 사업본부장 김모씨를 구속 상태로 재판에 넘겼다. &lt;br&gt;&lt;br&gt;김씨는 경쟁 업체인 사조CPK·삼양사·CJ제일제당 등과 함께 전분당의 판매 가격을 미리 맞추고, OB맥주·서울우유 등 대형 수요처를 상대로 한 입찰 과정에서 가격을 짬짜미해 공정한 시장 경쟁을 방해한 혐의를 받는다. 전분당은 포도당·올리고당 등으로, 과자나 유제품 등 각종 가공식품을 만드는 데 많이 쓰인다.&lt;br&gt;&lt;br&gt;검찰은 업계 시장 점유율 1위인 대상의 핵심 실무 책임자인 김씨가 장기간 담합에 깊숙이 관여한 것으로 보고 있다. 검찰은 이들 4개 업체의 담합 규모가 지난 8년간 10조원을 넘는 것으로 의심하고 있다. 검찰은 지난달 23일 전분당 업체 4곳을 압수수색했고, 지난주에는 대상 대표이사 출신 인사에 대해서도 공정위에 고발 요청권을 행사했다. &lt;br&gt;&lt;br&gt;앞서 검찰은 김씨와 대상그룹 임모 대표이사, 사조CPK 이모 대표이사에 대해 구속영장을 청구했다. 법원은 지난달 31일 김씨에 대해서만 “증거 인멸 및 도망 염려가 있다”며 구속영장을 발부했다. 나머지 두 사람에 대한 영장은 기각됐다.&lt;br&gt;&lt;br&gt;검찰은 임씨와 이씨에 대해서는 추가 수사를 벌인 뒤 처분 방향을 정할 방침이다. 검찰 관계자는 “김씨는 구속 기한을 고려해 먼저 기소했고, 나머지 피의자들에 대해서는 추가 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 남대문경찰서 과장급 간부, 성비위 의혹으로 대기 발령</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/16/JSEGHDLR75DVXBO6SSYLA56I5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/JSEGHDLR75DVXBO6SSYLA56I5A/</guid>
+      <dc:creator>구아모 기자, 윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 09:38:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EMKZAWWZC7CUUUVMEPCZKIWJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남대문경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 남대문경찰서 소속 간부가 성비위 의혹으로 대기발령 조치된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;16일 경찰에 따르면, 서울 남대문경찰서 소속 A 경정은 최근 성비위 의혹이 제기되어 대기발령 조치됐다. 해당 사건은 현재 경찰청 본청 인권조사계가 전담해 조사 중이다.&lt;br&gt;&lt;br&gt;현재 A 경정에 대한 조사와 징계 절차는 각각 경찰청과 서울경찰청이 나누어 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민주당 세종시장 후보에 조상호… 국민의힘 최민호와 맞붙는다 </title>
+      <link>https://www.chosun.com/politics/goverment/2026/04/16/7BD4MUY24RCG5NTC7DEZFSZLH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/16/7BD4MUY24RCG5NTC7DEZFSZLH4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 09:16:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2HG6MQVMRNORFWWSFJJDRR4QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조상호 더불어민주당 세종시장 후보. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 조상호 전 세종시 경제부시장이 16일 6·3 지방선거 세종시장 후보로 선출됐다. 한때 자신의 상관이었던 이춘희 전 세종시장을 경선에서 꺾었다. 조 후보는 연임에 도전하는 국민의힘 소속 최민호 현 시장, 조국혁신당 후보로 공천된 황운하 의원과 본선에서 맞붙는다.&lt;br&gt;&lt;br&gt;이해찬 전 국무총리의 국회의원 보좌관 출신인 조 후보는 2014년 이춘희 전 시장이 세종시장으로 당선되자 이 전 시장의 비서실장과 정책특보로 일했다. 2018년 이 전 총리가 민주당 대표가 되자 여의도로 복귀해 당대표 정무조정실장을 맡았다가 이듬해 세종으로 돌아와 이 전 시장 밑에서 경제부시장을 했다. 2022년 이 전 시장과 세종시장 후보 경선에서 맞붙었으나 패했다. 그러나 이번 두 번째 대결에서는 이 전 시장을 꺾고 본선에 나서게 됐다.&lt;br&gt;&lt;br&gt;조 후보와 대결하는 최민호 현 시장은 행정안전부 공무원 출신으로 이명박 정부 때 행정중심복합도시건설청장을 지냈고, 2022년에 이어 이번에 세종시장 연임에 도전한다. 지난달 11일 국민의힘에서 단수 공천을 받았다. 경찰대 출신으로 문재인 정부 시절 대전경찰청장을 역임하고 2024년 총선에서 조국혁신당 간판으로 국회에 입성한 황운하 의원도 지난 1월 세종시장 출마를 선언한 데 이어 지난달 15일 후보로 확정돼 뛰고 있다.&lt;br&gt;&lt;br&gt;그러나 세종시장 선거가 끝까지 세 후보 간 경쟁이 될지는 불확실하다. 조국혁신당이 민주당에 후보 단일화를 요구하고 있기 때문이다. 황 의원은 지난 14일과 15일 기자회견을 잇따라 열어 “국민의힘 후보의 당선 가능성을 원천 차단하기 위해서는 단일화가 필수적”이라며 민주당을 압박했다. 이 후보 공천 직후인 17일 협상을 시작해 20일까지 협상을 마무리하고 30일까지 단일화를 완료하자는 시간표까지 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>EBS 신동호 사장 임명 취소 판결, 방미통위 항소 포기로 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/16/5R73BGH23VAJPLLGDQ4C4MFNIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/5R73BGH23VAJPLLGDQ4C4MFNIU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 09:37:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3TQMJYGNQWKNTFMYYGMMZZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김유열 EBS 사장./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송통신위원회(현 방송미디어통신위원회)가 지난해 ‘2인 체제’에서 의결한 신동호 한국교육방송공사(EBS) 사장 임명 처분이 위법하다는 1심 법원의 판단이 확정됐다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 방미통위는 서울행정법원 행정2부(재판장 공현진)에 항소 기한인 지난 10일까지 패소 판결에 대한 항소장을 제출하지 않았다. 행정 소송의 항소 기한은 판결문 송달일로부터 2주인데 이를 넘기면서 1심 판결은 지난 11일 그대로 확정됐다.&lt;br&gt;&lt;br&gt;재판부는 지난달 26일 김유열 EBS 사장이 방미통위를 상대로 낸 사장 임명 처분 무효 확인 소송에서 “신동호 사장의 임명 처분을 취소한다”며 원고 일부 승소로 판결했다. 이는 방통위가 지난해 3월 26일 이진숙 위원장과 김태규 부위원장 등 2인 체제에서 전체회의를 열고 신동호 사장 임명 동의안을 의결하자 김 사장이 반발해 낸 소송이다. &lt;br&gt;&lt;br&gt;재판부는 “합의제 기관인 방통위가 적법하게 의결하기 위해서는 최소 3인 이상 위원이 재적한 상태에서 과반수 찬성이 필요하다”며 “2인 체제에서 이뤄진 사장 임명 동의 의결은 정족수 요건을 충족하지 못해 효력이 없다”고 했다. 이어 “신동호 사장 임명 처분은 전제가 되는 방통위 동의를 거치지 않은 채 이뤄진 중대한 절차적 하자가 있어 위법하다”고 했다.&lt;br&gt;&lt;br&gt;한편, 법원은 김 사장이 본안 소송과 함께 냈던 집행정지 신청에 대해 그해 4월 “회복하기 어려운 손해를 막기 위한 긴급한 필요가 있다”며 인용했고 김 사장은 업무에 복귀했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>권익위 “사건 정보 잘못 입력한 경찰, 檢 송치 후라도 정정해야”</title>
+      <link>https://www.chosun.com/politics/goverment/2026/04/16/RAUTANJ5LFGX7MPETZCOMMK3OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/16/RAUTANJ5LFGX7MPETZCOMMK3OY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 09:47:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEF4BMAT35JWPLJGS2VDM4FUBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민권익위원회 한삼석 부위원장 겸 사무처장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 전산망에 피의자의 죄명을 잘못 입력해 놓고 ‘검찰에 송치했다’는 이유로 정정을 거부하자, 국민권익위원회가 시정을 권고했다.&lt;br&gt;&lt;br&gt;16일 권익위에 따르면, 개인택시 기사인 A씨는 후방 차량 운전자의 과실로 후방 추돌 교통사고를 당했다. 그런데 A씨는 자동차 의무보험에 가입하지 않은 상태였고, 사고를 조사하던 경찰이 이를 알게 돼 A씨를 자동차손해배상 보장법 위반으로 입건했다. A씨가 피의자인 사건이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;A씨가 자신이 연루된 형사사건의 상황을 조회해볼 수 있는 형사사법포털(KICS)에서 사건을 조회해 보니, 자신의 죄명이 자동차손배법 위반이 아니라 ‘교통사고처리 특례법 위반’으로 돼 있었다. 이 법은 교통사고를 일으킨 운전자에게 적용되는 법으로, 교통사고를 당한 A씨에게는 적용될 일이 없었다.&lt;br&gt;&lt;br&gt;A씨가 경찰서에 ‘잘못 입력한 죄명을 정정해 달라’고 요청했으나, 경찰서는 ‘사건이 검찰로 송치되면 경찰은 형사사법포털에서 내용을 수정할 수 없다’고 했다. A씨는 담당 경찰관의 잘못된 업무 처리로 피해를 입었다며 지난해 12월 권익위에 민원을 냈다.&lt;br&gt;&lt;br&gt;권익위는 A씨 사고를 조사한 경찰관은 A씨에게 자동차손배법 위반 혐의를 정상적으로 적용한 사실을 확인했다. 전산망에 죄명 입력만 잘못돼 있었던 것이다.&lt;br&gt;&lt;br&gt;권익위는 개인택시 기사인 A씨가 마치 본인에게 책임이 있는 교통사고를 낸 것처럼 기록이 남으면 A씨에게 불이익이 될 우려가 있고, 경찰이 업무 처리 과정에서 잘못 입력한 죄명을 단지 전산망의 기능상 한계를 이유로 계속 두는 것은 부적절하다고 판단했다.&lt;br&gt;&lt;br&gt;권익위는 경찰청에 형사사법포털에 잘못 입력한 A씨 죄명을 정정하라는 의견을 냈다. 해당 경찰서에는 A씨와 같은 사례가 재발하지 않도록 소속 경찰관들에게 교육 등의 조치를 하라고 권고했다.&lt;br&gt;&lt;br&gt;권익위 한삼석 부위원장 겸 사무처장은 “공무원의 잘못된 행정 처리로 국민의 권익이 침해될 우려가 있는데도 이를 즉시 해결하지 않고 국민이 불이익을 감수하도록 방치하는 것은 행정 편의적인 관행”이라고 비판했다. 그러면서 “권익위는 이러한 불합리한 관행을 개선하기 위해 지속적으로 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>실종 선장 찾았던 배우 하재숙 남편, 해경 감사장 받았다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/16/6RJVPIYEMZATNPS6V7JTINB6UA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/6RJVPIYEMZATNPS6V7JTINB6UA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Apr 2026 09:24:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2DGY3NEP5GPPFIILWZ2RMG5H4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 하재숙. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 속초 앞바다 어선 전복 사고 현장에서 수색 활동에 참여한 민간 구조대원들에게 감사장이 수여됐다. 당시 실종된 70대 선장을 발견한 대원이자 배우 하재숙의 남편인 이준행씨도 포함됐다.&lt;br&gt;&lt;br&gt;속초해양경찰서는 16일 속초시 동명동 속초해경 회의실에서 헌신적인 수색 활동을 펼친 민간 구조대원 4명에게 감사장을 전달했다고 밝혔다. 이들은 최근 양양 물치항과 속초 대포항 해상 실종자 수색 작업에 참여해 적극적인 구조 활동을 펼친 공로를 인정받았다. 모두 생업까지 뒤로한 채 현장에 나서 힘을 보탠 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2GGNLFME2GMYLBG42TQYZSMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 해양 사고 현장에서 적극적인 구조 활동을 펼친 민간 구조대원들이 감사장을 받고 기념 촬영을 하고 있다. 맨 오른쪽이 배우 하재숙의 남편 이준행씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 수여 대상에는 하재숙의 남편으로 알려진 이씨도 포함돼 눈길을 끌었다. 이씨는 지난 8일 오후 2시 14분쯤 속초시 대포항 동쪽 1㎞ 해상 수심 약 20m 지점에서 전날 어선 전복 사고로 실종된 70대 선장 A씨를 찾아냈다. 다만 심정지 상태로 발견된 A씨는 인근 병원으로 옮겨졌으나 끝내 사망했다.&lt;br&gt;&lt;br&gt;앞서 하재숙은 지난 9일 인스타그램에 “며칠 전 사고로 실종되셨던 선장님은 어제 남편이 발견해서 잘 모시고 나왔다”며 “부디 이런 사고가 더는 없었으면 한다. 따뜻한 곳에서 편히 쉬세요. 선장님”이라는 글을 써 고인을 애도했다. 이씨는 과거에도 화재 사고 현장에서 선박 인양을 도와 해양경찰 감사장을 받은 바 있다.&lt;br&gt;&lt;br&gt;속초해경 측은 “민간 구조대원들의 투철한 사명감과 헌신이 해양 안전을 지키는 데 큰 힘이 되고 있다”며 “앞으로도 민·관의 긴밀한 협력을 통해 안전한 바다를 만드는 데 최선을 다하겠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전세 사기치고 필리핀 도주…현직 검찰 수사관, 6개월 만에 검거 </title>
       <link>https://www.chosun.com/national/incident/2026/04/16/JYTBDD37SZEVXN7JFZSUPOPA34/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/16/JYTBDD37SZEVXN7JFZSUPOPA34/</guid>
@@ -876,100 +960,6 @@
       <description/>
       <pubDate>Wed, 15 Apr 2026 08:02:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRI2V26X6NPYHLAVDTBUVOVOK4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;보수 성향 유튜버 전한길씨가 13일 이재명 대통령과 이준석 개혁신당 대표 관련 명예훼손 등의 혐의로 구속영장 청구 전 피의자 조사를 받기 위해 서울 서초구 서울중앙지방검찰청으로 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령과 이준석 개혁신당 대표에 대한 허위사실을 유포한 혐의로 구속영장이 청구된 유튜버 전한길(본명 전유관)씨가 관련 영상으로 3000만원대 수익을 거둔 것으로 확인됐다.&lt;br&gt;&lt;br&gt;15일 경찰에 따르면 최근 서울경찰청 광역범죄수사대는 압수수색을 통해 전씨의 유튜브 후원계좌 거래 내역을 확보했다. 이를 분석한 결과, 전씨가 이 대통령과 이 대표 관련 허위사실이 담긴 영상 6개로 총 3260만원의 수익을 거둔 것으로 나타났다.&lt;br&gt;&lt;br&gt;전씨는 지난달 18일 자신의 유튜브 채널에서 이 대통령의 혼외자 의혹과 중국 망명설 등을 제기했다. 또한 ‘이 대통령이 160조원 규모의 비자금과 군사기밀을 중국에 넘겼다’는 한 남성의 주장도 그대로 인용해 내보냈다. 같은 달 27일에는 이 대표의 하버드대 졸업 및 경제학 복수전공이 거짓이라는 취지의 주장도 했다가 고소당했다.&lt;br&gt;&lt;br&gt;경찰은 지난달부터 이달까지 전씨를 세 차례 불러 조사한 끝에 지난 10일 정보통신망법상 명예훼손 및 전기통신기본법 위반 혐의로 구속영장을 신청했다. 전씨는 경찰 조사에서 국민의 알 권리를 위한 것이었다고 주장하면서도 객관적 검증은 하지 않았다고 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰도 지난 14일 “가짜뉴스를 반복적으로 양산·유포하는 등 사안이 중대하며 재범 및 도주 우려가 있다”며 전씨에 대한 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;전씨의 구속 전 피의자 심문(영장실질심사)은 16일 오전 10시 30분 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>천고법치문화재단 신임 이사장에 박한철 전 헌법재판소장</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/15/CKCTJ3L6QFFCZF2MGUX3DF2NWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/CKCTJ3L6QFFCZF2MGUX3DF2NWE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 07:48:20 +0000</pubDate>
-      <content:encoded>천고법치문화재단은 15일 신임 이사장에 박한철(사법연수원 13기) 전 헌법재판소장을 위촉했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2DMMBRMY4TOYJVGA4DSMRRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박한철 신임 천고법치문화재단 이사장./천고법치문화재단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이사로는 안철상(15기) 전 대법관, 문무일(18기) 전 검찰총장, 이종엽(18기) 전 대한변호사협회장, 이수형 법률신문 사장이 참여한다. 제정부 전 법제처장, 강민구(14기) 전 부산지방법원장이 감사를 맡는다. 재단은 지난달 26일 이사회 의결, 지난 6일 법무장관 승인을 거쳐 이 같은 신임 임원 선임을 확정했다. 신임 이사진은 내달 30일부터 공식 활동에 들어간다.&lt;br&gt;&lt;br&gt;박 이사장은 “법치주의는 권력 위에 군림하는 기준이자 국민의 자유를 지키는 ‘살아있는 원칙’이 되어야 한다”며 △헌법 가치 수호 및 공정한 사법질서 확립 △인공지능(AI) 시대에 부합하는 새로운 법치 패러다임 정립 △미래세대를 위한 법치 교육을 3대 과제로 내세웠다.&lt;br&gt;&lt;br&gt;박 이사장은 제물포고와 서울대 법대를 졸업한 뒤 1982년 사법연수원을 13기로 수료했다. 이듬해 부산지검 검사로 임관한 뒤 법무부 정책홍보관리실장, 울산지검장, 대검 공안부장, 대구지검장, 서울동부지검장을 차례로 지냈다. 2013년 4월 헌법재판소장에 임명돼 4년간 헌재를 이끌었다. 소장 임기를 마친 뒤엔 서울대·서울시립대 법학전문대학원 초빙교수를 지냈고, 현재 동국대 법대 석좌교수를 지내고 있다. 지난달 25일 매헌윤봉길의사기념사업회 제13대 회장으로 취임했다.&lt;br&gt;&lt;br&gt;지난 2014년 재단을 설립한 송종의 초대 이사장은 임원진 개편에 따라 물러난다. 송 이사장은 “법치주의가 확립된 사회를 만드는 것이 평생의 꿈이었다”며 “그간 정책 개발 기능에 아쉬움이 있었으나, 훌륭한 후배들이 재단을 이끌며 국가 정책 개발이라는 크나큰 숙제를 잘 풀어낼 것이라 확신한다”고 소회를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MQ2DMMBRMY4TOYJVGA4DSMRRMQ.jpg?auth=d3aad5cb21c4d0d921a8edda103d4e6cf34dcc3f8183ecc9fff227faf786b6f3&amp;smart=true&amp;width=1440&amp;height=959" type="image/jpeg" height="959" width="1440">
-        <media:description type="plain">박한철 신임 천고법치문화재단 이사장./천고법치문화재단 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>민주노총 “7·8·9월 총파업으로 세상 흔들 것...현대차, 하청 교섭 응하라”</title>
-      <link>https://www.chosun.com/national/labor/2026/04/15/I5U4CXLTLJC6JGBPGVVHQUFNFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/15/I5U4CXLTLJC6JGBPGVVHQUFNFY/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 07:39:01 +0000</pubDate>
-      <content:encoded>민주노총이 “노란봉투법 시행 이후에도 원청이 교섭에 응하지 않고 있다”며 전국 곳곳에서 기자회견과 결의 대회를 열고 교섭을 요구하고 나섰다. 금속노조는 ‘총파업’까지 예고하며 압박 수위를 높여가고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDT5HSTNN5MLXHLB7M3R3VHXYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 금속노조 조합원들이 15일 서울 서초구 현대차그룹 본사 앞에서 열린 결의대회에서 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 민주노총 금속노조는 서울 양재동 현대차그룹 본사 앞에서 결의 대회를 열고 “현대차는 하청 노조와의 교섭에 나서라”고 촉구했다. 이날 박상만 금속노조 위원장은 “원청 교섭에 나오지 않고 있는 현대차 본사 타격 투쟁을 지속하겠다”며 “7월·8월·9월 총파업으로 세상을 한번 흔들어 보자”고 말했다.&lt;br&gt;&lt;br&gt;이날 결의 대회에는 금속노조 현대차·기아지부를 비롯해 현대차 비정규직지회, 현대모비스·글로비스·제철 등 계열사 지부가 참석했다. 김미옥 금속노조 현대글로비스 울산지회장은 “현대차 공장엔 이미 산업 로봇들이 배치되어 있는데, 이미 대량 해고 계획이 시작된 것”이라며 “현대차가 하청 노조와의 교섭에 나와 고용 보장 방안을 제시하라”고 주장했다.&lt;br&gt;&lt;br&gt;이날 오전엔 서울 종로구 SK서린빌딩 앞에서도 원청 교섭을 촉구하는 기자회견이 열린 가운데, 고용노동부를 향한 비판도 이어졌다. 김경규 보건의료노조 전략조직위원장은 “노동부는 원청 사용자의 범위에 대한 명확한 기준을 제시하지 않고 사용자들의 책임 회피를 방치하고 있다”고 주장했다. 현재까지 약 1000개 하청 노조가 300여 개 원청 사업장을 상대로 교섭을 요구했지만, 교섭 절차가 개시된 곳은 30곳 수준이다. 민주노총은 노동부가 명확한 기준을 제시하지 않아 원청들이 교섭을 미루고 있다고 보고 있다.&lt;br&gt;&lt;br&gt;한편 민주노총은 사용자성 판단을 둘러싼 노동위원회 결정에 대해서도 반발하고 있다. 전남지방노동위원회는 최근 한국노총 타워크레인조종사노조 사건에서 원청 건설사의 사용자성을 인정하지 않았는데, 이에 대해 민주노총은 14일 성명을 내고 “교섭 자체를 차단한 과도한 판단”이라며 “건설 현장 현실과 법 취지를 거스른 퇴행적 결정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘교사가 선거인단에 학생 동원’ 의혹에 교육당국 감사 착수 </title>
-      <link>https://www.chosun.com/national/education/2026/04/15/NRXBSRXWI5DDHC774P4AQVUFII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/15/NRXBSRXWI5DDHC774P4AQVUFII/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 07:05:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3WKMDEHA3WIOJQMNRDKODGGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기민주진보교육감 단일화 예비후보 4명이 공동선언문을 발표하고 있다. 왼쪽부터 유은혜, 안민석, 박효진, 성기선 예비후보./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육감 선거를 앞두고 불거진 현직 교사의 학생 선거인단 동원 의혹에 대해 교육 당국이 감사에 착수했다.&lt;br&gt;&lt;br&gt;15일 평택교육지원청은 관내 은혜고등학교에서 불거진 선거인단 동원 의혹에 대해 이날부터 감사에 들어갔다고 밝혔다.&lt;br&gt;&lt;br&gt;전날 유은혜 경기도교육감 예비후보 측은 성명을 통해 “13일 한 언론 보도에 따르면 안민석 예비후보와 공군 동기를 자처하는 현직 교사가 수업 시간 중 학생들에게 선거인단 가입을 반복 지시하고, 안 예비후보와 수업 중 통화까지 나누는 기막힌 행태를 보였다”며 “이 내용이 사실이라면 이는 교육의 근간을 흔드는 전무후무한 ‘교육 농단’”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “안 후보는 학생들과의 통화 경위, 특혜성 발언 여부, 해당 교사와의 관계 등 ‘특혜성 약속’의 진실을 경기도민 앞에 낱낱이 밝혀야 한다”면서 “더 이상 침묵하지 말고 즉각 해명하라”고 했다. &lt;br&gt;&lt;br&gt;경기도교육감 진보 진영 후보 단일화가 진행 중인 가운데, 선거인단의 투표 결과 반영 비율은 55%로 여론조사(45%)보다 높다. 선거인단은 16일까지 모집한다. 교육계에 따르면, 은혜고 교사 A씨는 지난 10일 특정 학생을 시켜 학생 단체 대화방에 안민석 예비후보 선거인단 가입 링크가 담긴 문자를 올리게 한 것으로 알려졌다. 이 과정에서 A씨는 “나는 안 예비후보와 동기”라며 친분을 드러내고 안 예비후보와 학생 통화를 주선하기도 했다. 최근 은혜고 한 학생은 교사의 행동에 문제가 있다며 선거관리위원회에 ‘위반 행위’로 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;안 후보 측은 “후보가 요청한 일이 없다”며 연관성을 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정지영 감독 “조진웅 바로 은퇴할 줄은…식사 제안도 거절”</title>
-      <link>https://www.chosun.com/national/people/2026/04/15/2PKXVWOCUVEWVFS4TCFDYTNNKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/15/2PKXVWOCUVEWVFS4TCFDYTNNKQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 07:04:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4WMMBSHFRTQNBYMRRTMNZVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정지영 감독이 지난 2일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '내 이름은' 언론시사회 및 기자간담회에서 포즈를 취하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정지영 감독이 은퇴를 선언한 배우 조진웅의 근황을 조심스럽게 전했다.&lt;br&gt;&lt;br&gt;제주 4·3 사건을 소재로 한 영화 ‘내 이름은’ 개봉을 앞둔 정지영(80) 감독은 지난 14일 서울 종로구 모처에서 열린 인터뷰에서 조진웅을 언급했다. &lt;br&gt;&lt;br&gt;조진웅은 지난해 12월 과거 소년범 전력과 성인이 된 이후의 폭행, 음주 운전 전과 등이 잇따라 폭로되자 “미성년 시절 잘못했던 행동이 있었다”며 미성년 때 성폭행 의혹을 제외한 상당 부분을 사실상 인정하고 은퇴를 선언한 바 있다.&lt;br&gt;&lt;br&gt;정 감독은 지난해 12월 연예계에서 물러난 조진웅을 떠올리며 “나 역시 당시 보도를 보고 너무 큰 충격을 받았다. 사건도 충격적이었지만, 그렇게 바로 은퇴까지 할 줄은 몰랐다”고 했다. 이어 “나는 조진웅이 반성의 뜻으로 활동을 잠시 중단하고 휴식기를 가질 줄 알았다”고 말했다.&lt;br&gt;&lt;br&gt;조진웅은 2019년 정 감독의 영화 ‘블랙머니’에 주연으로 출연한 바 있다. 정 감독은 논란이 불거진 뒤 직접 전화를 걸어 안부를 물었다고 한다. 그는 “논란 이후 조진웅에게 전화를 했다. ‘만나서 점심이라도 한 끼 하자’고 했는데, ‘감독님, 지금은 아직 아니다. 밖에 나가서 공개적으로 사람들 많이 있는 데서 보고 싶지 않다’고 이야기하더라”고 전했다.&lt;br&gt;&lt;br&gt;정 감독은 배우 고(故) 안성기도 떠올렸다. 그는 “안성기는 죽을 때까지 영화를 하고자 했던 배우였다. 평생 연기를 천직으로 생각한 사람이었는데, 아프면서 일을 하지 못하게 된 것이 안타까웠다”며 “영화계에서 그런 배우를 다시 만나기는 쉽지 않다. 꼭 필요한 존재였다”고 했다.&lt;br&gt;&lt;br&gt;안성기와의 인연에 대해서는 “나와 ‘남부군’(1990), ‘하얀 전쟁’(1992), ‘부러진 화살’(2011) 세 작품을 함께했다. 모두 쉽지 않은 작품이었지만 안성기가 있었기에 가능했다”며 “외국에 있어 장례식도 가지 못했다. 한국에 돌아와 묘소를 찾았을 때 마음이 무거웠다”고 털어놨다.&lt;br&gt;&lt;br&gt;올해 80세인 정 감독은 여전히 현역으로 활동하는 데 대한 고민도 밝혔다. 그는 “감독은 관객이 불러줘야 계속할 수 있는 직업”이라며 “이 급변하는 시대에 내가 하고자 하는 이야기가 여전히 관객에게 유효할지 고민이 많다”고 말했다.&lt;br&gt;&lt;br&gt;정 감독의 신작 ‘내 이름은’은 촌스러운 이름을 지우고 싶은 18세 아들 영옥(신우빈 분)과 까맣게 잊힌 1949년 제주의 아픈 기억을 되찾으려는 어머니 정순(염혜란 분)의 궤적을 쫓는 작품이다. 영화는 15일 개봉한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HE4WMMBSHFRTQNBYMRRTMNZVGE.jpg?auth=92b16523ffbc67ef4d3c1b4f1c979eede00f0726042e44e90228646e24070a7b&amp;smart=true&amp;width=2481&amp;height=1689" type="image/jpeg" height="1689" width="2481">
-        <media:description type="plain">정지영 감독이 지난 2일 서울 용산구 CGV용산아이파크몰에서 열린 영화 '내 이름은' 언론시사회 및 기자간담회에서 포즈를 취하고 있다. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>당사자 동의 없어도 공무원이 생계 급여 직권으로 신청</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/15/SNIMB6CN3ZAHNLABWJR5ZPS53E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/15/SNIMB6CN3ZAHNLABWJR5ZPS53E/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 06:42:48 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFGHDTRJPZIEPIBB3YCDBIBW74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 울산 울주군의 한 빌라에서 숨진 채 발견된 네 남매와 30대 아빠 김모씨의 빈소 모습. 경찰은 현장에서 발견된 유서 등을 토대로 아내가 수감된 뒤 남편이 혼자 아이들을 키우며 생활고에 시달린 것으로 보고 있다. 지방자치단체는 아빠 김씨에게 기초생활보장 신청을 안내했지만, 김씨는 끝내 신청을 하지 않은 것으로 알려졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위기 상황의 저소득층 등 취약 계층이 생계 곤란을 겪을 때, 대상자의 동의 없이도 공무원이 직권으로 생계 급여를 신청할 수 있게 된다. 생계 급여란 저소득층 가구에 국가가 매월 현금을 줘 의식주 등 기본적인 생활을 보장하는 복지 제도다. &lt;br&gt;&lt;br&gt;지금도 사회 복지 담당 공무원은 생계 급여를 직권으로 신청할 수 있다. 하지만 당사자 동의가 반드시 필요하다. 이 때문에 담당 공무원이 지원 대상자에게 생계 급여를 직권으로 신청하려 해도, 당사자가 거부하면 결국 지원으로 이어지지 못한다. 또, 신청 이후 조사 단계에서도 금융 재산 확인을 위해 금융 정보 제공 서면 동의가 반드시 필요하다. &lt;br&gt;&lt;br&gt;이에 복지부는 담당 공무원이 대상자를 대신해 생계 급여를 직권으로 신청하고, 간이 소득·재산 조사로 일정 기간 급여를 지원할 수 있도록 규정을 마련하기로 했다. 구체적으로는 ‘긴급복지 지원’ 이력이 있는 위기가구 중 미성년자·발달장애인 등이 있고, 친권자 등으로부터 동의를 받기 어려우면 담당 공무원이 직권으로 생계 급여를 신청할 수 있게 할 방침이다. &lt;br&gt;&lt;br&gt;재산 조사 단계에서는 당사자 동의가 필요한 금융재산을 제외한 소득과 일반재산 정보만 우선 조사해 급여를 결정하고, 3개월 뒤 금융재산을 포함해 재조사를 한다.&lt;br&gt;&lt;br&gt;이번 조치는 지난달 울산 울주군 일가족 사망 사건이 계기가 돼서 나왔다. 당시 30대 아빠와 네 남매가 숨진 채 발견됐다. 생활고에 시달린 것으로 알려졌는데, 아빠 김모씨는 생계 급여 신청을 거부한 것으로 알려졌다. 복지부 관계자는 “(직권 신청이 가능했다면) 아버지를 제외한 아이 4명에게 생계급여를 지원할 수 있었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소녀상 입 맞추고 욱일기 들던 美 유튜버, 징역형 법정구속</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/HY5UNAWMGBAZ5IGCKGWMTJRUAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/HY5UNAWMGBAZ5IGCKGWMTJRUAU/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 08:01:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3WBUDRTFZG35CAPDM3JGNNAAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국인 유튜버 조니 소말리가 평화의 소녀상에 입을 맞추는 등 모욕적인 기행을 벌이던 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘평화의 소녀상’에 입을 맞추는 등 각종 기행을 벌여온 미국인 유튜버 조니 소말리(27·본명 램지 칼리드 이스마엘)가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;서울서부지법 형사1단독 박지원 부장판사는 15일 업무방해·경범죄처벌법 위반·성폭력범죄의 처벌 등에 관한 특례법 위반(허위 영상 반포) 등 혐의로 불구속 기소된 소말리에게 징역 6개월과 구류 20일을 선고했다. 아동·청소년 및 장애인 관련 기관 취업 제한 5년 명령도 함께 내렸다.&lt;br&gt;&lt;br&gt;소말리는 2024년 10월 서울 마포구 한 편의점에서 노래를 크게 틀고 컵라면에 담긴 물을 테이블에 쏟는 등 업무를 방해한 혐의를 받는다. 버스와 지하철, 롯데월드 등에서 소란을 피우거나 남녀의 얼굴을 합성한 외설스러운 영상을 유튜브 채널로 송출한 혐의 등도 있다. 앞서 검찰은 지난 2월 소말리에게 징역 3년과 벌금 15만원을 구형한 바 있다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피고인의 공소사실은 모두 유죄로 인정된다”며 “유튜브 방송으로 수입을 얻기 위해 불특정 다수의 피해자를 상대로 반복해 범행을 저지르면서 이를 방송하는 등 국내 법질서를 무시하는 정도가 심각하다”고 지적했다. 다만 일부 피해자가 처벌을 원하지 않은 점, 심각한 피해를 본 사람이 없는 점, 소말리가 출국 정지로 장기간 본국에 돌아가지 못한 점을 고려했다고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEHEOR666NEK7L3E536YMJUTF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;각종 기행을 벌여온 미국인 유튜버 조니 소말리가 15일 오전 서울 마포구 서울서부지법에서 열린 1심 선고 공판에 출석해 취재진 질문을 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 소말리는 구속 전 심문에서 “본국에 가족이 있고 무척 보고 싶다”며 “큰 실수를 저질렀고 책임져야 한다는 걸 인정하지만, 아직 젊고 새출발할 기회를 얻고 싶다”고 말했다. 출석 전 취재진에게도 “제 범죄를 후회하고 있고 한국 국민에게 사과하고 싶다”며 “제 삶을 바꾸고 더 나은 사람이 되고 싶다”고 전했다.&lt;br&gt;&lt;br&gt;보통 1심에서 징역형을 선고하더라도 항소 등 후속 절차가 남아있어 판결이 확정되는 것은 아니므로 곧바로 형이 집행되진 않는다. 그러나 재판부는 불구속 재판을 받아온 소말리가 도주할 우려가 있다고 보고 구속영장을 발부해 법정 구속했다.&lt;br&gt;&lt;br&gt;소말리는 유튜브 방송에서 일본군 위안부 피해자를 기리는 평화의 소녀상에 입을 맞추는 등 모욕적 행동으로 비난받았던 인물이다. 위안부 피해자와 함께 있는 일본군 사진에 자기 얼굴을 합성한 뒤 ‘나의 여자친구들’이라는 설명을 달아 소셜미디어에 올리기도 했다. 다만 이런 모욕 행위는 재판 대상에 포함되지 않았다.&lt;br&gt;&lt;br&gt;2025년 3월 첫 공판 때에는 ‘Make America Great Again’(MAGA·미국을 다시 위대하게) 문구가 적힌 빨간 모자를 쓰고 등장한 뒤 “나는 미국 시민이고 한국은 미국의 속국”이라고 말했다. 같은 해 7월 라이브 방송에선 욱일기를 들고 나와 “일본이 한국을 다시 점령해야 한다” “독도는 일본 영토” 등의 발언을 해 공분을 샀다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/X3WBUDRTFZG35CAPDM3JGNNAAI.jpg?auth=e702fe73788505648575eb59201d5fcf8fe47cbbbe64d731429e42d0eb554c6d&amp;smart=true&amp;width=500&amp;height=375" type="image/jpeg" height="375" width="500">
-        <media:description type="plain">미국인 유튜버 조니 소말리가 평화의 소녀상에 입을 맞추는 등 모욕적인 기행을 벌이던 모습. /인스타그램</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세] 4월 16일 목요일 (음력 2월 29일 庚申)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/5OQSROUH2RAOXEUFT7FGPY23IY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/5OQSROUH2RAOXEUFT7FGPY23IY/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>사회초년생 근로자 임금 상습 체불한 ‘악질 사업주’</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/3RWRTMZ7PJAZ7FZRHP24DEYR74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/3RWRTMZ7PJAZ7FZRHP24DEYR74/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 07:28:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3DONJVMNTDSNTCMIZDCMDEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지검 남양주지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회초년생들의 임금을 상습적으로 체불한 사업주가 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;의정부지검 형사4부(부장 박영식)는 근로기준법 위반 혐의로 A씨를 구속 기소했다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 20대 사회초년생 근로자들의 임금 1000만원을 주지 않은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;그는 동종 범죄를 19회 재범했으며 노동청 근로감독관들의 연락에 불응하고 주거지를 자주 옮기는 등 범죄 수사를 여러 차례 장기화시킨 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 보완수사 과정에서 A씨에 대한 체포영장을 발부받고 통신기지국 위치 추적 등을 통해 A씨를 직접 검거했다. &lt;br&gt;&lt;br&gt;또한 구속 전 피의자심문에 참여해 피해 상황 등 구속 필요성에 대해 의견을 개진, 구속영장을 발부받았다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “공소제기 이후 피해자들의 권리 회복을 위해 법률상담을 안내했다”며 “피고인에게 죄에 상응하는 엄중한 처벌이 이루어질 수 있도록 공소유지에 만전을 기할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“주사기 재고, 2주면 동나” 병원들, 항생제 투여 줄여</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/15/D6H5ZZL7ONEYFKSL5MGJIVNWLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/15/D6H5ZZL7ONEYFKSL5MGJIVNWLM/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Apr 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZCO64PEEBEPPHN2X4PTP232DU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 서울 동대문구의 한 병원 창고에서 담당자가 1회용 주사기 재고를 확인하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 서울 동대문구 A 산부인과. 지하 1층 물품 창고로 들어가자 일회용 주사기와 장갑 등을 보관하는 선반 곳곳이 비어 있었다. A 병원 원무부장은 “재고가 보름여 치밖에 없는데, 지난주부터 주사기를 구할 수 없는 상황”이라고 했다. 이 산부인과는 이날부터 입원 환자들에게 하루 3번 투여하던 항생제를 하루 1번만 투여해도 되는 제품으로 바꿨다. 일회용 주사기 사용을 조금이라도 아끼려는 고육지책이다. 병원 원장은 “지금 상황이 계속되면 사실상 분만을 할 수 없게 된다”고 했다.&lt;br&gt;&lt;br&gt;‘동네 병원’에 주사기나 주사 바늘, 장갑, 거즈 등 의료용품 공급이 제대로 안 돼 의료계에 비상이 걸렸다. 중동 전쟁 여파로 각종 플라스틱의 원료가 되는 나프타 수급이 불안정해진 여파가 의료계까지 덮친 것이다. 일부 산부인과에서는 분만 시 통증을 줄여주는 일명 ‘무통 주사’를 산모에게 권하지 않는 것으로도 전해졌다. 무통 주사는 각종 진통제와 생리식염수 등을 섞어 만드는데, 이 과정에 보통 주사기 3개가 필요하다.&lt;br&gt;&lt;br&gt;충북의 B 산부인과는 주사기와 장갑, 수액, 일회용 수술포 등의 재고가 2~3주 치밖에 남지 않았다. B 산부인과 원장은 “주사기 문제가 해결되지 않으면 분만 환자를 모두 대학 병원으로 보내야 할 판”이라고 했다. 임신을 준비하는 여성에게 배란 유도제 등을 주사해야 하는 난임 병원도 어려움을 겪고 있다.&lt;br&gt;&lt;br&gt;산부인과만이 아니다. 서울 강서구의 20병상 규모 C 정형외과도 주사기 재고가 모자라 입원 환자에게 놓는 주사 횟수를 줄였다. 소염진통제와 근이완제 등을 보통 매일 주사했는데, 지금은 이틀에 한 번만 주사하고 있다. 이 병원 원무부장 유모(68)씨는 “매일 아침부터 밤까지 의료용품 판매 사이트에 들락거리고 있지만, 거의 모든 물품이 품절돼 주문조차 할 수 없다”고 했다. 실제로 유씨가 보고 있는 컴퓨터 모니터 화면에는 ‘품절’이라는 표시가 빼곡했다. &lt;br&gt;&lt;br&gt;의료용품 품절 현상은 평소 재고가 많지 않은 중소 병원에 직격탄이 되고 있다. 경기도 성남시의사회에 따르면, 성남시 중소 병원 86곳이 ‘의료용품이 부족하다’고 의사회에 호소했다. 이들은 “주사기를 대체 어디에서 살 수 있나” “재고가 일주일 치밖에 없다”며 발을 동동 구르고 있다. &lt;br&gt;&lt;br&gt;의료용품 공급 문제가 갈수록 심각해지자, 정부는 14일 0시를 기해 주사기와 주사침에 대한 매점매석 행위를 금지하는 고시를 발령했다. 제조·판매업자는 주사기 4종과 주사침 3종을 폭리 목적으로 기준 이상으로 과도하게 보유해서는 안 된다. 정부는 이어 15일 0시부터는 나프타에서 생산되는 에틸렌, 프로필렌, 부타디엔 등 기초 유분 7종에 대한 매점매석 금지 조치를 시행한다. 특히 이들 기초 유분을 활용해 생산하는 폴리에틸렌(PE), 폴리프로필렌(PP) 등 중간재나 의료용 수액 백, 포장 용기 등 제품에 대한 수급 상황을 주시하며, 수급 불안 시 매점매석 금지 대상으로 추가 지정한다는 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OZCO64PEEBEPPHN2X4PTP232DU.jpg?auth=9b1c2672b0db61608d9d407d57b418639d7c792d4fe9fa2328aa3fd483688787&amp;smart=true&amp;width=3000&amp;height=2000" type="image/jpeg" height="2000" width="3000">
-        <media:description type="plain">14일 오후 서울 동대문구의 한 병원 창고에서 담당자가 1회용 주사기 재고를 확인하고 있다./고운호 기자</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
