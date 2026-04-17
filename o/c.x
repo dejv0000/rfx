@@ -13,6 +13,118 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>70대 노모 때려 숨지게 한 40대 남매, 징역형</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/VLYAW3BTJJGD5H4RFLKBCIXN7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/VLYAW3BTJJGD5H4RFLKBCIXN7M/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 05:04:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 노모를 때려 숨지게 한 40대 남매가 실형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 17일 존속살해, 노인복지법 위반 등의 혐의로 구속 기소된 누나 백모(47)씨에게 징역 7년을, 남동생 백모(43)씨에게 징역 3년을 각각 선고했다.&lt;br&gt;&lt;br&gt;다만 재판부는 존속살해 혐의가 아닌 존속폭행치사 혐의에 대해 유죄로 인정했다. 살인의 고의를 인정하기 어렵다고 본 것이다. &lt;br&gt;&lt;br&gt;재판부는 “피해자 호흡이 가빠지자 병원에 데려가 진료받게 했고 평소에도 식사와 약 복용을 챙기는 과정에서 화가 나 폭행에 이른 점 등 살해 동기가 명확히 드러나지 않는다”며 “지속적 폭행과 그로 인해 사망에 이르는 결과가 중하긴 하지만, 살인의 고의까지 쉽게 인정하긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “연약한 상태에 있는 존속을 고령으로 인한 인지 능력 저하를 이유로 지속 폭행한 것은 피해자가 느꼈을 극심한 고통을 고려할 때 매우 패륜적”이라며 “사회적 범죄로서 죄질이 좋지 않다”고 했다. 다만 “결과적으로 비극적인 일이 발생했지만 그간의 일상적 유대 관계까지 부인하기는 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 지난해 12월 10일 서울 구로구 자택에서 함께 살던 70대 어머니를 폭행해 살해한 혐의를 받는다. 학대 행위는 2024년 5월부터 이어진 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이들은 어머니가 나이가 들어가며 인지 능력이 떨어지니 멍하니 서 있거나 한다는 이유로 폭행을 이어갔다. 어머니의 입을 청테이프로 붙여 막거나 쓰러진 어머니를 수차례 발길질한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 검찰은 결심 공판에서 누나 백씨에게는 무기징역을, 남동생에게는 징역 20년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호르무즈 봉쇄 이후…한국 유조선 ‘우회로’ 홍해 첫 통과  </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/FU7RP6GLQNBHFFZXSLZHHQTRHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/FU7RP6GLQNBHFFZXSLZHHQTRHM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 04:55:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4WCYZYMUZGMZRUMI3GMMZRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호르무즈 해협의 유조선과 화물선./AP연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중동 사태로 호르무즈 해협이 봉쇄된 가운데 원유를 실은 한국 선박이 처음으로 우회로인 홍해를 안전하게 빠져나왔다. 홍해는 예맨에 있는 친(親)이란 후티 반군의 공격 위험이 있어 운항 자제를 권고하던 곳이다.&lt;br&gt;&lt;br&gt;17일 해양수산부에 따르면, 홍해 연안에 위치한 사우디아라비아 얀부항에서 원유를 적재한 우리 선박이 홍해를 안전하게 빠져나왔다. 이는 호르무즈 해협 봉쇄 이후 대체 항로인 홍해를 거쳐 국내로 원유를 운송하는 첫 사례다.&lt;br&gt;&lt;br&gt;앞서 중동 사태로 이란이 호르무즈 해협을 봉쇄하면서 원유를 수송할 대체 항로가 필요했다. 이에 정부는 지난 6일 제14차 국무회의 겸 제4차 비상경제점검회의에서 홍해를 우회로로 활용해 우리 선박의 안전을 지원하며 원유를 수급하는 방안을 논의했다. 해수부는 이 선박이 홍해를 항해하는 동안 24시간 모니터링하며 항해 정보를 제공하고 선박 및 선사와 소통해 왔다. &lt;br&gt;&lt;br&gt;홍해는 예멘의 친이란 후티 반군이 활동하는 거점이다. 2023년 10월 이스라엘과 하마스의 무력 충돌 이후 79건의 선박 피격이 발생하기도 했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 이날 엑스(X)에 “호르무즈 해협 봉쇄 후 처음으로 홍해를 통해 원유를 안정적으로 운송하고 있다는 기쁜 소식”이라며 “관련 부처들이 원팀으로 움직이며 이뤄낸 값진 성과다. 어려운 여건 속에서도 밤낮없이 애써주신 모든 분께, 특히 선원분들께 감사의 말씀을 전한다”고 했다. 이어 “정부는 중동전쟁이 불러온 위기를 돌파하기 위해 모든 역량을 집중하고 있다”며 “앞으로도 철저한 대응과 빈틈없는 준비로 국민의 삶과 국익을 지켜내는 일에 혼신의 힘을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QHH2IE76FFDPHPHUYFJM6OUDSQ.png?auth=17714463224df4f05c725bc80f9904562d9363938e49be6e8a907e7328f7e94b&amp;smart=true&amp;width=924&amp;height=520" type="image/png" height="520" width="924">
+        <media:description type="plain">출처/제미나이</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>오산 접착제 공장서 화학물질 누출 신고… 소방당국, 현장 조치 중</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/6U3TO47G7FHJNCAXMGP6WYEWNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/6U3TO47G7FHJNCAXMGP6WYEWNY/</guid>
+      <dc:creator>오산=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 05:08:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 오산의 한 접착제 제조 공장에서 화학물질 누출이 의심된다는 신고가 들어와 현장 조치가 이뤄지고 있다.&lt;br&gt;&lt;br&gt;17일 소방 당국에 따르면 이날 오전 10시 42분쯤 오산시 누읍동의 한 접착제 제조 공장에서 “공장 부근에서 악취가 난다”는 내용의 누출 의심 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 있던 근로자 등 10명가량은 두통 등을 호소해 병원에서 치료받고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해당 공장에는 평소 소방 당국이 위험물로 분류하는 톨루엔과 아크릴산 등을 취급해왔던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이와 관련, 오산시는 재난안전문자를 통해 관련 내용을 알리며 “인근 주민들은 창문을 닫아달라”고 당부했다. &lt;br&gt;&lt;br&gt;현재 소방 당국과 환경청, 경찰 관계자 등이 현장 조치를 하고 있다. 경찰 관계자는 “정확히 어떤 화학물질이 누출됐는지에 대해서 현장 조사를 더 해봐야 한다”며 “해당 사업장의 안전 수칙 준수 여부 등을 살펴 볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전광훈 “난동 때 잤다… 난 소변도 스스로 못 누니 재구속 말라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/UKP5ZKLDCZEC7II5QWLDYSWPIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/UKP5ZKLDCZEC7II5QWLDYSWPIY/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 04:33:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3IDZHXQGFLC7AI4QUGJ4OCQL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 난동 사태 배후로 지목돼 수건조물침입교사 혐의 등으로 기소된 전광훈 사랑제일교회 목사가 17일 서울 마포구 서울서부지법에서 열린 재판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태 배후로 지목돼 구속 상태로 재판에 넘겨졌던 전광훈 사랑제일교회 목사가 17일 열린 재판에서 거듭 혐의를 부인했다. 이날 재판은 전 목사가 보석으로 풀려난 뒤로는 처음 열렸다.&lt;br&gt;&lt;br&gt;서울서부지법 형사1단독 박지원 판사는 이날 특수건조물침입교사 등 혐의를 받는 전 목사에 대한 2차 공판기일을 열었다. 앞서 법원은 지난 7일 건강상 사유 등으로 보증금 납입 및 주거 제한과 같은 조건을 걸고 전 목사의 보석 청구를 인용한 바 있다.&lt;br&gt;&lt;br&gt;재판장에 출석한 전 목사는 “사건 전날 연설을 마치고 몸이 안 좋아 집에 가서 자고 있었다”며 “다음 날 인천공항에서 유튜브를 보고 나서야 지지자들이 법원에 쳐들어간 사실을 알게 됐다”고 했다. 난동 사태를 조장했다는 혐의를 재차 부인한 것이다.&lt;br&gt;&lt;br&gt;전 목사가 보석 조건을 어겼는지를 두고 공방이 오가기도 했다. 검찰 측은 전 목사가 지난 12일 영상 예배에서 “수도권 자유마을 대표들을 교육하겠다”고 발언한 점을 문제 삼았다. 보석 조건으로 명시된 ‘교사행위의 정범으로 기재된 인물들에 대한 직간접적 접촉 및 의사소통 금지’를 어겼다는 취지다. 반면 전 목사 측은 “해당 발언은 정범과 무관하다”고 반박했다.&lt;br&gt;&lt;br&gt;한편 이날 전 목사는 재판 출석에 앞서 취재진에 “나는 오줌도 내 힘으로 못 싸서 의료기기로 강제 배출하고 있다. 목 수술만 3번을 했고 목에 철심을 박아 손발이 제대로 움직이지 않는 중환자”라고 했다. 이어 “이런 사람을 두 달 반 동안 구치소에 가둬 놓는 게 말이 되느냐”며 “판사도 이런 점을 알고 있기 때문에 보석을 허가한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;전 목사는 지난해 1월 19일 윤석열 전 대통령 지지자들이 서울서부지법에 난입해 집기를 파손하고 경찰을 폭행하도록 조장한 혐의를 받는다. 검찰은 당시 전 목사가 자신의 신도와 광화문 집회 참가자 등을 상대로 “국민저항권으로 반국가세력을 처단해야 한다”는 취지의 발언을 해 난동을 부추겼다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘태블릿PC 조작설’ 변희재 징역 2년 확정… “공정하게 재판 받을 권리 침해” 재판소원 청구</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/R3ZMXO2LT5HWFB7E2FQTCRQWU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/R3ZMXO2LT5HWFB7E2FQTCRQWU4/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDEOJYGEZTIZJWHBSDENZTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미디어워치 대표 고문 변희재. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;JTBC가 ‘박근혜 국정농단’ 사건 핵심 증거인 태블릿PC에 담긴 정보를 조작해 보도했다고 주장한 인터넷 매체 ‘미디어워치’ 대표 고문 변희재씨가 대법원에서 징역 2년을 확정받았다. 변씨는 공정한 재판을 받을 권리 등이 침해됐다며 재판소원을 청구했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준)는 명예훼손 혐의를 받는 변씨의 상고를 기각했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;미디어워치 전 대표이자 현 대표 고문인 변씨와 소속 기자 등은 2016년 12월 “JTBC가 김한수 전 청와대 행정관과 공모해 태블릿PC를 입수한 뒤, 파일을 임의로 조작해 최서원(개명 전 최순실)씨가 사용한 것처럼 보도했다”는 허위 사실을 퍼뜨렸다. 이들은 해당 내용을 미디어워치 홈페이지와 유튜브에 게재했으며, 변씨 등이 발간한 서적에 해당 내용을 포함시키기도 했다. 변씨 등은 이후 명예훼손 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 변씨에게 징역 2년을 선고했다. 재판부는 “JTBC가 태블릿PC를 입수하게 된 경위 부분에 합리적으로 의심할 만한 정황이 나타나지 않았음에도 피고인들은 당시 잠금장치를 해제하는 과정에서 패턴이 일치할 확률이 수학적으로 매우 희박하다는 등의 이유를 들어 태블릿PC 입수 경위에 대한 JTBC의 보도는 허위라고 주장하고 있다”고 했다. 그러면서 “피고인들의 주장 내용은 막연한 추측이거나 피고인들의 주관에 기인한 것일 뿐 피고인들이 그 사실의 출처 등을 밝히거나 구체적인 소명자료를 제시한 바가 없다”고 판단했다. &lt;br&gt;&lt;br&gt;2심은 변씨와 검찰의 항소를 기각했다. 재판부는 “피고인 측에서 구체적인 소명 자료를 전혀 제출하지 않았고, 검사가 제출한 증거들에 의해 주장에 대한 신빙성이 탄핵되었다”고 봤다. 또 “피고인은 당심이 이르러서까지도 잘못을 진지하게 반성하기는커녕 자신들을 합리화하기에 급급하고, 현재까지도 이 사건 공소사실 기재 주장과 동일한 주장을 인터넷 매체를 통해 보도하는 등 피해자들에 대한 명예훼손 행위를 반복하고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 변씨의 상고를 기각했다. 대법원은 “원심의 판단에 필요한 심리를 다하지 않은 채 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 법리오해, 판단누락 등의 잘못이 없다”고 설명했다.&lt;br&gt;&lt;br&gt;실형이 확정되자 변씨 측은 “사법부는 언론의 자유와 비판적 소수 의견을 소중히 여기고 가급적 처벌을 삼가야 한다”며 재판소원을 청구했다. 변씨 측은 “태블릿PC의 실제 사용자와 데이터 조작 여부를 밝히기 위해 필수적인 증거조사를 수차례 신청했으나, 법원은 합리적 이유 없이 이를 기각해 청구인의 방어권을 본질적으로 침해했다”며 “대법원 역시 항소심의 명백한 위법을 바로잡지 않아 청구인의 공정한 재판을 받을 권리 등을 중대하게 침해했다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“알갱이를 종이에 말아 흡입”… 대로변서 마약 투약한 외국인 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/J5LKZLNIJBHERGF3ECAZ6E75CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/J5LKZLNIJBHERGF3ECAZ6E75CI/</guid>
+      <dc:creator>양인성 기자, 강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 02:41:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종암경찰서가 대로변에서 마약을 투약한 외국인을 긴급체포해 조사하고 있다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;외국인 남성 A씨는 지난 15일 저녁 6시 15분쯤 서울 성북구 길음동의 한 왕복 8차선 대로변에서 본인이 소지하고 있던 마약을 투약한 혐의를 받는다. 경찰은 “외국인 남성이 알갱이를 작은 종이에 말아 흡입하고선 기침을 한다”는 신고를 받고 출동해 A씨를 긴급체포했다고 한다.&lt;br&gt;&lt;br&gt;경찰이 A씨를 상대로 진행한 마약 간이 시약 검사에서는 양성 반응이 나왔다. 정확한 마약 성분은 분석 중이다. 경찰은 A씨가 마약을 입수한 경로와 투약 경위를 조사하는 한편 A씨에 대한 출국금지도 검토하고 있다고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 특검, ‘계엄 가담 의혹’ 해양경찰청·안성식 전 해경 기획조정관 관사 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/LEY6ZCXBWJGWXPXYORGIAYFFJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/LEY6ZCXBWJGWXPXYORGIAYFFJM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 02:37:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTDMOJXGUZDENZYMFTDSYZYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 25일 경기 과천시 2차 종합특검팀(권창영 특별검사) 사무실 앞에서 열린 현판식에서 현판이 공개되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 사건을 수사 중인 2차 종합특검이 17일 해양경찰청과 안성식 전 해경 기획조정관의 관사 등에 대한 압수수색에 나섰다. 종합특검은 해경의 12·3 비상계엄 가담 여부를 수사 중이다.&lt;br&gt;&lt;br&gt;이날 압수수색 대상에는 해양경찰청장실·차장실·정보외사국·수사국 등 해경 청사 사무실과 피의자 안 전 조정관의 관사 등이 포함됐다. 윤석열 전 대통령, 김용현 전 국방부 장관과 같은 충암고 출신인 안 전 조정관은 2023년부터 방첩사 내부 규정인 ‘계엄사령부 편성 계획’에 계엄 선포 후 합수부가 구성되면 해경 인력을 자동으로 파견한다는 내용이 추가되도록 관여한 혐의를 받는다. 또 계엄 선포 직후 전국 지휘관 화상회의에서 직원들의 총기 휴대와 합동수사본부 수사 인력 파견을 주장했다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;조은석 내란 특검은 안 전 조정관 등을 불기소 했으나, 종합특검은 보완수사를 통해 안 전 조정관의 내란 부화수행 혐의점을 포착하고 강제 수사에 착수했다고 한다.&lt;br&gt;&lt;br&gt;종합특검은 복수의 해경 관계자를 상대로 조사를 진행했다. 지난 15일에는 박성하 전 국군방첩사령부 기획관리실장이 참고인 신분으로 조사를 받았다. 특검은 박성하 대령을 상대로 방첩사 내부 규정 개정 배경 등을 물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>돌아온 ‘늑구’ 뱃속에서 2.6cm 낚시바늘 발견… 시술받고 회복 중</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/04/17/WJCVXUIKDNGQ3G22AMBSQPCAAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/04/17/WJCVXUIKDNGQ3G22AMBSQPCAAQ/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 02:52:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTCYZXMVSTEMBWGJQWKYJZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 오월드 동물원을 탈출한 수컷 늑대 '늑구'가 17일 생포됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 오월드를 탈출한 지 9일 만에 생포된 늑대 ‘늑구’가 위장에서 발견된 낚시바늘 제거 시술을 받고 회복 중이다.&lt;br&gt;&lt;br&gt;17일 대전시와 오월드 등에 따르면 이날 오전 0시 44분쯤 마취 상태로 생포된 늑구는 오월드 내 동물병원으로 옮겨졌다. 호흡과 맥박 등 건강에는 이상이 없는 상태로 확인됐다.&lt;br&gt;&lt;br&gt;하지만 정밀 검사를 진행하는 과정에서 엑스레이(X-ray) 촬영 결과 늑구의 위장에서 2.6㎝ 길이의 낚시바늘이 발견됐다. &lt;br&gt;&lt;br&gt;결국 늑구는 이날 오전 오월드 외부의 동물병원으로 옮겨져 내시경으로 낚시바늘을 꺼내는 시술을 받았다. &lt;br&gt;&lt;br&gt; 오월드 관계자는 “낚시바늘과 생선 가시, 나뭇잎 등이 위장에서 발견됐는데 낚시바늘 위치가 너무 깊어 위험하다고 판단했다”면서 “혈액 검사 등도 정상적으로 나와 건강에는 이상이 없는 상태로 회복 중이다”고 말했다. &lt;br&gt;&lt;br&gt;오월드는 당분간 늑구를 별도 공간에서 보호하며 건강 상태를 확인한다는 방침이다.&lt;br&gt;&lt;br&gt;늑구는 지난 8일 오월드 늑대사파리의 철조망 밑 땅을 파고 탈출하면서 17일 잡히기 전까지 오월드를 중심으로 한 수색이 벌어졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“새벽마다 소주가 사라진다” 오일장 식당서 상습 절도 50대, 잠복 경찰에 덜미</title>
+      <link>https://www.chosun.com/national/regional/2026/04/17/IBWREDCYHZHCXKRNV6AQZUGTZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/17/IBWREDCYHZHCXKRNV6AQZUGTZE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 02:18:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZY3RB4WCDBCLBHYJLRZRMTHIX4.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포시 중문오일장 내 식당에서 새벽 시간대를 노린 소주 절도범이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서귀포경찰서는 절도 혐의로 50대 남성 A씨를 검거해 조사하고 있다고 17일 밝혔다. A씨는 지난 15일 오전 5시 37분쯤 서귀포시 중문오일장 한 식당에 침입해 술 보관 박스에 있던 판매용 소주를 꺼내 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 이 남성은 지난 3월 28일부터 4월 15일까지 약 19일간 총 9차례에 걸쳐 영업을 하지 않는 새벽 시간대 식당에 몰래 들어가 소주를 훔친 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 경찰은 “새벽마다 소주가 사라진다”는 상인들의 민원을 접수하고 수사에 착수했다. 방범 카메라(CCTV) 영상을 확인한 결과, 오전 3시부터 오전 6시 사이 식당에 들어가 술 보관함에서 소주를 꺼내 가는 피의자의 모습이 반복적으로 포착됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 오전 4시부터 현장 주변에서 잠복 근무를 실시했고, 범행 직전 식당 내부를 물색하던 피의자를 현장에서 검거했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“건강해지라고” 생후 2개월에 떡국 먹인 친모…아동학대 혐의 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/RGLTM7ZXJZD67GJIYMKANPHQKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/RGLTM7ZXJZD67GJIYMKANPHQKE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 00:48:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KCZOGFAINASZGBC24LBXLDMIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소셜미디어(SNS)에 게시된 아기 숟가락 놓인 떡국 사진./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 2개월 아기에게 떡국을 먹인 정황이 담긴 사진을 소셜미디어에 올린 30대 친모가 아동학대 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 아동복지법상 아동학대 혐의로 30대 여성 A씨를 불구속 상태로 검찰에 송치했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 인천 서구 자택에서 생후 2개월 된 아들 B군에게 떡국을 먹이며 학대한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 충분히 소화 기관이 발달하지 못한 B군에게 분유가 아닌 음식을 먹이면서 신체적으로 학대한 것으로 판단했다. 이외의 물리적인 학대나 방임 행위는 확인되지 않았다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “더 건강해지라고 (떡국을) 먹였다”고 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이번 사건은 A씨가 지난 2월 소셜미디어에 직접 올린 사진에서 시작됐다. 사진에는 작은 그릇 안에 떡국과 아기용 숟가락을 놓은 사진이 담겼다. 이를 본 네티즌들은 ‘생후 2개월은 분유만 먹여야 한다’고 우려했고, 일부는 경찰에 학대 의심 신고를 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;인천가정법원은 경찰의 신청을 받고 A씨에게 이달 20일까지 B군 주변 100m 이내 접근을 금지하는 임시 조치 명령을 내린 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘범죄도시 마석도’ 모티브였던 경찰관, 음주운전으로 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/FW3FXVI6IJB33GCTO3WIRGVWJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/FW3FXVI6IJB33GCTO3WIRGVWJA/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 00:42:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCN3FG42GEODBGEZTCOBQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 신도욱)는 수서경찰서 A 경위를 도로교통법 위반(음주 운전) 혐의로 지난 15일 불구속 기소한 것으로 17일 알려졌다. A 경위는 영화 ‘범죄도시’에서 배우 마동석이 연기한 ‘마석도’ 역의 실제 모델로 알려진 인물이다.&lt;br&gt;&lt;br&gt;A 경위는 작년 11월 24일 오후 8시 30분쯤 술에 취한 채 차량을 운전하다가 서울 강남구 도곡동 강남세브란스병원 인근에서 접촉 사고를 냈다. 당시 A 경위의 혈중알코올농도는 면허 취소 수준(0.08%)으로 조사됐다. 사고로 인한 인명 피해는 없었다. A 경위는 경찰 조사에서 “만취해 차에서 내렸던 상황부터 기억이 난다”는 취지로 자신의 혐의를 인정했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A 경위의 음주 운전 사고 사실이 알려진 후 그를 직위해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김해 압력탱크 제조공장서 점검 중 폭발… 50대 작업자 1명 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/04/17/7FMG6JMN3NBYTBJFOFR4QWSJFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/17/7FMG6JMN3NBYTBJFOFR4QWSJFM/</guid>
+      <dc:creator>김해=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 00:53:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62WQBCC4GB52G3XJZ5EAKJ5FLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김해 중부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 오후 7시 11분쯤 경남 김해시 상동면 압력탱크 제조공장에서 압력탱크가 점검 도중 터지는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 이 공장 근로자 50대 A씨가 날아온 압력탱크 부품에 맞아 크게 다쳐 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;당시 A씨는 이 회사에서 만든 변압기 압력탱크를 점검하던 중이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 사업장은 중대재해 처벌에 관한 법률 적용 대상이다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위와 업체 과실 여부 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오월드 탈출 늑구, 열흘 만에 집으로…건강 이상 없어</title>
       <link>https://www.chosun.com/national/national_general/2026/04/17/DYCHP77C4FGXTNHQRZO6YXXO5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/DYCHP77C4FGXTNHQRZO6YXXO5M/</guid>
@@ -797,15 +909,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UUCCWR44VON5FIU5HYLPX4PXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 관련 이미지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취한 상태의 15세 여학생을 성폭행하고 불법 촬영한 20대 남성 4명이 검찰의 보완 수사 끝에 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;16일 서울북부지검에 따르면 서울북부지검 여성아동범죄조사부(김지영 부장검사)는 전날 간음 및 불법촬영 등 혐의로 20대 남성 2명을 구속 기소하고, 공범인 나머지 2명은 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 과거 술에 취해 의식을 잃은 15세 여학생을 성폭행하고 불법 촬영한 혐의를 받는다. 검찰은 피해자에 대한 2차 피해를 우려해 정확한 사건 일시 등은 비공개하기로 했다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 경찰은 ‘피해자 동의를 받았다’는 피의자들의 주장을 받아들여 이들을 불송치했다.&lt;br&gt;&lt;br&gt;이후 고소인의 이의 신청으로 사건을 넘겨받은 검찰은 사건 관련 영상을 면밀히 분석하고 피의자들을 전면 재조사했다. &lt;br&gt;&lt;br&gt;이를 통해 당시 피해자가 정확한 의사 표명을 할 수 없는 심신 상실 상태였다고 판단해 주범 2명에게 구속영장을 청구했고, 나머지 2명은 가담 정도 등을 고려해 불구속 상태로 기소했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 조선닷컴과의 통화에서 “경찰이 불송치한 사건에 대해 고소인이 이의신청을 하여 검찰이 직접 보완 수사를 진행한 사건”이라며 “앞으로도 피해자 목소리에 귀를 기울이는 등 인권 보호 기관으로서의 책무를 성실히 수행하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한동훈 “받았네, 받았어”에 전재수 “받았다고 해도 허위사실 공표”</title>
-      <link>https://www.chosun.com/politics/assembly/2026/04/16/EDKFOPYLCJHAXA32AYPNVT6WHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/04/16/EDKFOPYLCJHAXA32AYPNVT6WHA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 01:13:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UA6JNCWLTNNJHMK4SVNB7IMRTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전재수(오른쪽) 부산시장 후보가 지난 15일 부산 동구 부산항국제컨벤션센터에서 정청래 대표가 준 파란색 점퍼를 입고 함께 기념 사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한동훈 전 국민의힘 대표가 부산시장 선거에 출마한 전재수 더불어민주당 의원의 통일교 뇌물 수수 의혹과 관련해 “‘까르띠에(시계) 안 받았다’ 한마디를 못한다”고 말한 데 대해 전 의원이 16일 “받았다고 이야기하면 허위사실 공표”라고 맞받았다.&lt;br&gt;&lt;br&gt;전 의원은 16일 아침 CBS라디오 ‘박성태의 뉴스쇼’에 출연했다. 진행자는 최근 한 전 대표와의 인터뷰에서 한 전 대표가 전 의원을 거론하면서 ‘까르띠에 시계 받았냐, 안 받았냐. (전 의원이) 말을 못한다’고 했다고 전했다. 한 전 대표는 15일 페이스북에 올린 글에서도 “전 의원이 (YTN라디오 ‘장성철의 뉴스명당’ 인터뷰에서) ‘까르띠에 안 받았다’ 한마디를 못한다”며 “진행자가 ‘전 의원님, 그래서 까르띠에 받으셨습니까, 안 받았다고 이해해도 되겠습니까’라고 물어도 끝까지 ‘안 받았다’고 못하고 ‘수사가 끝났다’고 한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 전 의원은 “(한 전 대표가 저를) 걸고넘어지는 것”이라며 “악의적인 선전·선동에 제가 일일이 대꾸할 필요가 없다”고 했다. &lt;br&gt;&lt;br&gt;진행자가 “검경 합동수사본부가 전 의원을 불송치했는데, 공소시효 등의 문제 때문이라고 했고, (불송치를 알리는 보도 자료에) ‘의심은 간다’는 표현도 들어 있다”며 “한 전 대표도 (전 의원이) ‘안 받았다’고 직접 이야기하면 허위사실 공표가 될 수 있어서 (‘안 받았다’고 하지 못하는 것이라고 주장한다)”고 했다.&lt;br&gt;&lt;br&gt;그러자 전 의원은 “‘받았다’고 해도 허위사실 공표가 된다”고 주장했다. 그러면서 “그래서 제가 선거법상 허위사실 공표 혐의로 이 건과 관련해 고발을 해놓은 것도 있다”고 했다.&lt;br&gt;&lt;br&gt;진행자가 다시 “그래서 거기에 대한 명확한 답을 요구하는 것 같다”고 하자 전 의원도 다시 “말려들어갈 이유가 전혀 없다. 저를 걸고넘어지면서 하는 것이니까”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7LZV6AFSJOZBK4B6ZAI5CH4FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표가 지난 14일 부산 북구 만덕2동 행정복지센터를 찾아 전입 신고를 한 뒤 주민들과 사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 의원은 한 전 대표를 향해 “‘(전재수가 까르띠에 시계를) 받았다’고 이야기하면 허위사실 공표고 현행법 위반”이라고 했다. 이어서 “(한 전 대표는) 악의적인 선전·선동과 남을 비판하면서 자신의 존재감을 키우려고 하는 정치 행태를 보여 왔기 때문에 제가 거기에 일일이 대응할 이유가 없다”고 했다.&lt;br&gt;&lt;br&gt;검경 합수본은 지난 10일 전 의원이 2018년 8월 21일 경기 가평군에 있는 통일교 천정궁에서 한일 해저터널에 관한 청탁을 받고 785만원 상당 까르띠에 시계 1점과 현금 2000만~3000만원을 수수한 혐의와 관련해, 정원주 전 통일교 총재 비서실장이 시계를 구입하고 전 의원 지인이 2019년 7월 해당 시계를 수리 맡긴 사실을 확인했다고 밝혔다. 그러면서도 제공된 금품이 3000만원에 미치지 않아 공소시효(7년)가 지났다며 무혐의 처리했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“세상 바뀌었는데 北에 돈 줬단 진술은 안 바뀌었다… 그게 진실”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/16/OVDOYVC2ZFFUHBM5PYDVDUESXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/OVDOYVC2ZFFUHBM5PYDVDUESXU/</guid>
@@ -816,15 +919,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/SRHMPML75ZH6TIEFQW3OIVDLTY.jpg?auth=4a8ed81c393b4efa029b121f12bddf3fd131e76f0bfd8120ec3c3e1ae07a237e&amp;smart=true&amp;width=5008&amp;height=3339" type="image/jpeg" height="3339" width="5008">
         <media:description type="plain">2026년 4월 15일 오후 서울 중구 조선일보 대회의실에서 박상용 검사가 본지와의 인터뷰를 갖고 있다. /장련성 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 한국어능력시험, 해외서 먼저 보고 국내 중국인에 답 유출</title>
-      <link>https://www.chosun.com/national/education/2026/04/16/U4HSBTLYDRA5RBWHYMNCCDPJRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/16/U4HSBTLYDRA5RBWHYMNCCDPJRA/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T72PN3QLNZERRAJKVCHJIE6ZIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제33회 한국어능력시험(TOPIK) 을 치르는 학생들./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인의 한국어 능력을 평가하는 ‘한국어능력시험(토픽·TOPIK)’ 답안이 중국인 응시자들을 중심으로 사전 유출된 정황이 포착돼 정부가 대책 마련에 나선 것으로 확인됐다. 한류 확산과 유학생 증가로 토픽 지원자가 최근 수년간 급증해 50만명을 넘어가면서 이제는 사전에 답안이 유출되는 사태까지 벌어진 것이다.&lt;br&gt;&lt;br&gt;15일 본지 취재를 종합하면, 지난 12일 국내 한 토픽 시험 고사장에서 중국인 유학생 A씨가 이번 시험 문제의 답안이 적힌 것으로 보이는 쪽지를 보다가 적발됐다. 토픽 시험을 주관하는 교육부 산하 국립국제교육원은 A씨가 중국 소셜미디어 등을 통해 토픽 답안을 사전 입수한 것으로 보고, 현장에서 시험 응시 자격을 박탈하고 경찰에 신고했다. 국립국제교육원은 A씨를 업무방해 등 혐의로 고소할 계획이다.&lt;br&gt;&lt;br&gt;정부는 최근 A씨처럼 사전에 토픽 답안을 입수해 시험을 치르는 부정 행위가 심각해지고 있다고 보고 대책 마련에 나선 상황이다. 특히 쪽지를 가져왔다 적발된 A씨와 달리 유출 답안을 암기해 시험을 본 응시자도 많을 것으로 추정한다. 실제 지난 12일 중국 현지에서 토픽 시험이 치러지기 수시간 전, 중국 소셜미디어 ‘샤오훙슈(Xiaohongshu)’에 토픽 시험 답안으로 보이는 문서가 공유된 사실이 알려지면서 외국인들 사이에서 논란이 퍼지고 있다. &lt;br&gt;&lt;br&gt;토픽 시험 답안 유출이 가능한 것은 대륙별 시차 때문이다. 예컨대 이번 시험은 지난 11일 미국, 유럽, 아프리카, 오세아니아 등에서 먼저 치러졌다. 12일에는 한국, 중국 등 아시아 국가에서 실시됐다. 11일 유럽 등에서 시험을 먼저 치른 응시자가 답안을 복기해 중국인 응시자에게 사전 유출한 것으로 추정된다. 11일 자 시험과 12일 자 시험은 일부 문제를 제외하곤 대부분 문제가 유사해 답안을 암기하면 쉽게 맞힐 수 있는 구조다. 한국에서도 2013년 SAT(미국 대학 입학 자격시험)가 이처럼 국가별로 시차를 두고 진행된다는 점을 악용, 학원 강사들이 동남아에서 치러진 SAT 문제를 사전 입수해 학생들에게 유출하는 사태가 벌어진 바 있다. &lt;br&gt;&lt;br&gt;국립국제교육원은 작년부터 중국을 중심으로 이처럼 답안을 사전 입수해 다른 응시자에게 판매하거나, 학생들끼리 공유하는 등 부정 행위가 본격화하기 시작한 것으로 보고 있다. 이에 작년 말 유출 사례를 조사해 경찰에 수사 의뢰했지만, 주로 중국 소셜미디어에서 익명으로 자료가 퍼진 탓에 유출자 특정이 어려워 수사가 난항을 겪는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;전 세계 토픽 지원자 규모는 2021년 33만16명에서 2023년 42만1812명, 2025년 55만3237명 등 빠르게 증가하고 있다. 작년 중국에서 토픽에 응시한 사람만 7만명이 넘는다. 한류 확산과 함께 한국으로 유학이나 취업을 오려는 외국인이 늘어난 덕분이다. 교육부는 외국인 유학생이 국내 대학에 입학할 때 토픽 3급(전문대는 2급), 졸업 전까지 토픽 4급(전문대는 3급) 이상을 취득할 것을 권고하고 있다. &lt;br&gt;&lt;br&gt;이처럼 토픽이 인기를 끌며 최근 수년 사이 수백만 원을 받고 시험을 대신 치러주는 ‘토픽 대리 시험 전문 업체’까지 생겨나는 등 부정 행위가 기승을 부리고 있다. 토픽 부정 행위 적발 건수는 2020년 182건에서 2024년 414건으로 늘어났다. 그런데 이제는 토픽 답안까지 사전 유출되는 문제가 벌어지기 시작한 것이다.&lt;br&gt;&lt;br&gt;현재 토픽 시행 국가는 89개국으로, 올해는 총 12차례(읽기·듣기·쓰기) 치러진다. 이 중 4·7·10월 시험은 대부분 국가에서 동시에 진행된다. 국립국제교육원 관계자는 “난이도 유지를 위해 같은 시기 진행되는 시험은 국가마다 유사할 수밖에 없다는 점을 악용한 것”이라면서 “국가별로 보기와 답안이 크게 차이 나도록 하는 등 재발 방지 대책을 마련해 올해 안에 적용할 수 있게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞한국어능력시험(토픽·TOPIK)&lt;/b&gt;&lt;br&gt;&lt;br&gt;외국인들의 한국어 사용 능력을 평가하는 공식 시험. 한국 대학 입학이나 취업·이민 등의 절차를 밟을 때 검정 기준으로 쓰인다. 시험은 교육부 산하 국립국제교육원이 주관하는데, 듣기·읽기·쓰기 과목으로 구성돼있다. 등급은 총 6단계(1~6급)로 나뉘고, 제일 높은 6급은 원어민에 가까운 의사소통이 가능한 전문가 수준으로 평가된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘사기 무마’ 청탁 받은 경찰, 수사팀장 끌어들여… 룸살롱·금품 수수</title>
@@ -845,33 +939,6 @@
       <content:encoded>여름을 방불케 하는 이상고온 현상이 주말까지 이어질 전망이다. 금요일인 17일 저기압이 우리나라를 통과하며 더위가 반짝 해소되겠으나, 주말에 다시 초여름 수준으로 더워질 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 15일 경북 김천의 최고기온이 29.3도까지 오르는 등 내륙을 중심으로 수은주가 30도 가까이 올라갔다. 16일에도 기온이 최저 5~12도, 최고 14~28도로 예보돼 낮 동안 초여름 수준으로 더울 전망이다.&lt;br&gt;&lt;br&gt;보통 고기압 영향권에 들면 구름이 거의 끼지 않아 낮 동안 강한 햇볕에 지표가 쉽게 뜨거워진다. 고기압이 일종의 지붕처럼 열을 가두기도 한다. 아직 습도가 높진 않아서 해가 지면 기온도 빠르게 떨어져 일교차가 15도가량 크게 벌어지고 있다.&lt;br&gt;&lt;br&gt;지난 13일부터 발생한 이상고온 현상은 이런 고기압의 영향에 뜨겁고 축축한 남동풍 계열 바람이 더해지며 만들어졌다. 현재 중국 상하이 부근에서 제주 남쪽 해상 쪽으로 이동 중인 저기압이 반시계 방향으로 회전하면서 적도 부근의 뜨거운 공기를 우리나라 쪽으로 밀어 넣고 있다. &lt;br&gt;&lt;br&gt;올해는 4월의 이상 고온 현상이 작년보다 오래 지속되고 있다. 작년에는 4월을 통틀어 21일 하루만 서울의 낮 최고기온이 27.1도, 일평균 기온은 20.7도까지 올랐다. 그런데 올해는 13일부터 최고 27.4도를 넘기더니, 14일에는 최고 28도를 기록하며 올해 들어 가장 더웠다. 15~16일에도 저기압이 남동풍을 계속 견인하면서 더운 날이 이어지는 상황이다.&lt;br&gt;&lt;br&gt;저기압은 17일 남부 지방과 제주를 중심으로 많은 비를 뿌린 후 우리나라를 빠져나갈 것으로 보인다. 덕분에 더위도 일단 꺾일 전망이다. 17일 예상 강수량은 호남 5~40㎜, 영남 5~20㎜, 제주도 20~80㎜ 등으로 예보됐다. 충청권에도 5㎜ 안팎의 비가 내리는 곳이 있겠다. 특히 제주 산지에는 시간당 10~20㎜의 강한 비가 쏟아질 것으로 보인다. &lt;br&gt;&lt;br&gt;잠시 해소됐던 더위는 이번 주말 저기압이 재차 우리나라 남쪽 해상으로 다가오면서 내륙을 중심으로 다시 발생할 전망이다. 토요일인 18일 오전까지 남부 지방에, 오후까지 제주도에 비가 내리겠다. 수도권 등 내륙은 낮 기온이 최고 28도까지 올라가며 덥겠다. 19일에도 비슷한 수준의 더위가 나타날 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 방송미디어통신심의위원회 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/16/4QVOITL7UFDWJMCI54PO654XWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/16/4QVOITL7UFDWJMCI54PO654XWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;방송미디어통신심의위원회&lt;/b&gt;▷사무총장 송요훈&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연합뉴스&lt;/b&gt;▷편집총국장 김병수&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국내 1호 여성 조경가 정영선 대표, 포니정 혁신상</title>
-      <link>https://www.chosun.com/national/people/2026/04/16/G5WWNXYLDREOFM3KCHGGUJBA7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/16/G5WWNXYLDREOFM3KCHGGUJBA7A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>포니정재단이 제20회 ‘포니정 혁신상’ 수상자로 국내 1호 여성 조경가인 정영선 조경설계 서안 대표를 선정했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YXU2XCAQBEXVE6WMTDKMXEHBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정영선 조경가는 1975년 서울대학교 환경대학원 조경학과를 1기로 졸업했으며 1980년에는 국내 여성 중 처음으로 조경 국토개발 기술사 자격증을 취득했다. 2023년에는 ‘조경 분야 노벨상’으로 불리는 제프리 젤리코 상을 한국인 최초로 받기도 했다. 대표작으로는 예술의전당, 샛강생태공원, 청계광장, 서울식물원 등이 있다.&lt;br&gt;&lt;br&gt;포니정 혁신상은 현대차 초대 사장을 지낸 고(故)정세영 HDC그룹 명예회장의 애칭인 ‘포니(현대차 자동차 모델)정’을 따서 2006년 만들어졌다. 상금은 3억원이며, 시상식은 다음 달 28일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 공오득 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/16/NSH5YHITUREBZP6LJINK2GMNFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/16/NSH5YHITUREBZP6LJINK2GMNFA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲ &lt;b&gt;공오득&lt;/b&gt; 별세, &lt;b&gt;정민순&lt;/b&gt; 남편상, &lt;b&gt;공진수&lt;/b&gt;·&lt;b&gt;공명의&lt;/b&gt;·&lt;b&gt;공현숙&lt;/b&gt; 부친상, &lt;b&gt;정하덕&lt;/b&gt;·&lt;b&gt;이현 &lt;/b&gt;한국자산관리공사 국민행복기금관리처 팀장 장인상, &lt;b&gt;김보경&lt;/b&gt; 시부상=14일9시 전북 남원장례식장, 발인 16일9시, (063)635-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;구본술&lt;/b&gt; 한국실명예방재단 명예회장 별세, &lt;b&gt;구윤모&lt;/b&gt; 인하대 명예교수·&lt;b&gt;구한모&lt;/b&gt; 관악구 성모안과의원 원장 부친상,&lt;b&gt; 안재현&lt;/b&gt; 카이스트 명예교수 장인상=14일15시38분 서울성모병원, 발인 17일8시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;권형석&lt;/b&gt; 우재준 의원실 보좌관 본인상=14일4시20분 신촌세브란스병원, 발인17일6시40분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;엄달분&lt;/b&gt; 별세, &lt;b&gt;문정복 &lt;/b&gt;더불어민주당 국회의원 모친상=15일14시21분 시흥장례원, 발인 17일8시, (0507)1420-4114&lt;br&gt;&lt;br&gt;▲&lt;b&gt;천남득&lt;/b&gt; 별세, &lt;b&gt;심춘자&lt;/b&gt; 남편상, &lt;b&gt;천현미 &lt;/b&gt;교사·&lt;b&gt;천관우 &lt;/b&gt;상아산업 대표·&lt;b&gt;천현경&lt;/b&gt; 전북은행 영업부장·&lt;b&gt;천현아&lt;/b&gt; 익산시 농촌활력과 근무·&lt;b&gt;천복귀 &lt;/b&gt;한겨레신문 편집3팀장 부친상, &lt;b&gt;신귀중&lt;/b&gt; 장인상=14일15시33분, 전북 익산 동이리장례식장, 발인 16일12시30분, (063)843-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정학영 &lt;/b&gt;별세, &lt;b&gt;정찬화&lt;/b&gt; 조선일보 AD영업관리팀 차장 부친상=14일22시45분 서울대병원, 발인 17일5시30분, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍수표 &lt;/b&gt;개천산업 회장 별세, &lt;b&gt;김은희&lt;/b&gt; 오에스콘 대표&lt;b&gt; &lt;/b&gt;남편상, &lt;b&gt;홍명희&lt;/b&gt;·&lt;b&gt;홍승희&lt;/b&gt;·&lt;b&gt;홍성주 &lt;/b&gt;개천산업 대표 부친상, &lt;b&gt;장순웅&lt;/b&gt; 국토교통부 과장 장인상=15일11시50분 서울대병원, 발인 17일10시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍용기&lt;/b&gt; 별세, &lt;b&gt;방병철&lt;/b&gt; 前 단양군 정무보좌관 장인상=14일18시2분 충북 청주 하나노인전문병원, 발인 16일6시30분, (043)270-8400&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[Dr.이은봉의 의학 연구 다이제스트] 비만 주사 끊었더니 1.4년 내 원래 체중으로</title>
       <link>https://www.chosun.com/medical/2026/04/16/ZQ4NWKUXRNAILGE6NMWXBK5JZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/16/ZQ4NWKUXRNAILGE6NMWXBK5JZ4/</guid>
@@ -888,70 +955,6 @@
       <description/>
       <pubDate>Wed, 15 Apr 2026 15:40:00 +0000</pubDate>
       <content:encoded>남녀 주인공으로 변우석·아이유를 발탁해 방영 전부터 관심을 끈 TV 드라마 ‘21세기 대군부인’이 지난 10일 방영을 시작했어요. ‘만약 지난 역사가 이미 일어난 사실과 다르게 전개됐다면 어떻게 됐을까?’라는 가정에서 출발한 ‘대체 역사물’인데, 현재도 우리나라에 여전히 왕실과 신분제가 존재한다는 가상 세계를 배경으로 하고 있습니다. 재벌 가문이지만 평민인 여주인공이 ‘이안대군’과 결혼해 신분 상승을 노린다는 설정입니다. 그런데 여기서 ‘대군(大君)’이란 어떤 사람을 지칭하는 것일까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZVQ7GOH4RAMLKTUPJZVEDOSKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;드라마 '21세기 대군부인' 포스터입니다. 이안대군(오른쪽)과 여주인공이 서로 바라보고 있어요. /디즈니+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;왕비가 낳으면 ‘대군·공주’, 후궁이 낳으면 ‘군·옹주’&lt;/b&gt;&lt;br&gt;&lt;br&gt;조선시대 왕자를 보면 어떤 사람은 양녕대군·효령대군(이상 태종의 아들)처럼 ‘대군’으로 불리고, 어떤 사람은 임해군·순화군(이상 선조의 아들)처럼 ‘군(君)’이라 불립니다. 무슨 차이가 있는 걸까요? 정비(正妃), 즉 본처인 왕비의 아들은 ‘대군’, 왕의 첩인 후궁의 아들은 ‘군’입니다. 대군의 명칭은 지역 이름에서 따오는 경우도 있었는데 세종의 아들 수양대군(훗날의 세조)의 ‘수양’은 황해도 해주, 다른 아들인 금성대군의 ‘금성’은 전라도 나주의 별칭이었습니다.&lt;br&gt;&lt;br&gt;여기서 주의할 점은 장차 왕위를 이을 세자는 ‘대군’으로 불리지 않았다는 것입니다. 왕의 맏아들은 정식으로 세자가 되기 이전에는 ‘원자’라고 불리다가, 이후 왕이 되기 전까지 ‘세자’라고 불렸어요. 원래 세자였던 양녕대군의 경우 1418년 세자 자리에서 쫓겨나면서 비로소 ‘양녕대군’이란 칭호가 내려졌습니다. 세자의 아들은 후궁의 아들과 마찬가지로 ‘군’이라 불렸습니다.&lt;br&gt;&lt;br&gt;딸의 경우에는 어땠을까요? 정비가 낳았다면 ‘공주(公主)’라 불렀습니다. 이 명칭은 옛날 중국 주(周)나라에서 왕이 딸을 시집보낼 때 최고위 세 관직을 일컫던 삼공(三公)이 그 일을 주관했기 때문에 생긴 말이라고 합니다. 그렇다면 후궁이 낳은 딸은 뭐라고 부를까요? ‘옹주(翁主)’라고 했습니다. 예를 들어 세종의 누나였던 정순공주는 태종과 정비 원경왕후의 딸이었고, 고종의 딸 덕혜옹주는 후궁인 귀인 양씨가 생모였습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3XG52CMUNHXZAC7G4ZYP55AR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1913년에 촬영한 덕혜옹주의 어린 시절 모습입니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;호칭은 ‘마마’가 아니라 ‘자가’&lt;/b&gt;&lt;br&gt;&lt;br&gt;드라마 ‘21세기 대군부인’을 보면 대군에게 ‘자가(自家)’라는 호칭을 쓰는 것을 알 수 있습니다. 이것은 역사적으로 맞는 설정입니다. 18세기 학자 황윤석이 쓴 ‘이재난고’에는 ‘나라의 풍속에 일컫기를, 왕자와 대군·왕손을 자가라고 했다’는 기록이 나옵니다. 현재는 조선 시대 임금과 가까운 인물, 그러니까 대군·군·공주·옹주와 일부 후궁을 사람들이 ‘자가’라고 불렀다는 것이 정설입니다. 이것은 ‘자기(自己)’와 비슷한 뜻으로 예스럽게 부르는 높임말이라고 해요. &lt;br&gt;&lt;br&gt;일부 사극에서 ‘대군 마마’ ‘공주 마마’라고 하는 것은 잘못됐다고 합니다. ‘자가’가 변한 말이 ‘자갸’인데 1960년대까지도 쓰였으며, 이것이 요즘 부부나 연인 사이에 쓰는 ‘자기야’라는 말로 바뀌었다고 보기도 합니다.&lt;br&gt;&lt;br&gt;그렇다면 세자는 뭐라고 불렀을까요? 세자와 세자빈 부부의 호칭은 황제의 호칭인 ‘폐하(陛下)’, 왕의 호칭인 ‘전하(殿下)’보다 낮은 ‘저하(邸下)’라고 했습니다. 앞의 두 명칭이 궁전 계단 아래 있는 사람이 높은 자리의 임금을 부르는 개념이라면, ‘저하’는 아래에 있는 사람이 높은 자리의 세자를 부른다는 의미였어요.&lt;br&gt;&lt;br&gt;사실 ‘대군’의 공식 명칭은 ‘부원대군(府院大君)’이었습니다. 대군은 그 약칭이었던 것이죠. 그래서 대군의 정실 아내는 그 명칭이 드라마 제목처럼 ‘대군 부인’이 아니라 부원대군의 ‘부’ 자를 딴 ‘부부인(府夫人)’이었습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSR4RJP4BJCDXO7RFHKRAMRHQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김은호 화백이 1935년 그린 세조 어진 초본. 세조는 세종의 차남으로 원래 수양대군이었으나 계유정난을 통해 권력을 잡고 조선 7대 임금이 됐습니다. /국립고궁박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;훗날 조선의 왕이 된 ‘대군’은 6명&lt;/b&gt;&lt;br&gt;&lt;br&gt;조선 시대 ‘대군’이었던 사람이 왕이 된 경우는 얼마나 있었을까요? 왕이 되기 전 4대 세종은 충녕대군, 6대 세조는 수양대군, 8대 예종은 해양대군, 11대 중종은 진성대군, 13대 명종은 경원대군, 17대 효종은 봉림대군이라 불렸습니다. 이것은 무슨 의미일까요? 모두 정실 왕비가 낳은 왕자 출신이긴 한데, 원래 세자 자리에 있었던 인물은 아니었다는 얘기입니다. &lt;br&gt;&lt;br&gt;세종은 충녕대군 시절 형 양녕대군이 세자 자리에서 쫓겨난 뒤 새 세자가 됐고, 세자가 아니었던 수양대군은 계유정난이라는 정변을 일으킨 뒤 왕위에 올라 세조가 됐습니다. 예종은 세자였던 형(추존왕 덕종)이 일찍 죽어 새 세자가 됐죠.&lt;br&gt;&lt;br&gt;성종과 세 번째 정비 정현왕후 사이에서 태어난 진성대군은 세자 자리를 거치지 않았는데, 이복 형 연산군을 몰아내는 반정(反正)이 일어나 왕위에 올랐습니다. 이것을 ‘중종반정’이라 합니다. 중종과 문정왕후 사이의 아들인 경원대군은 이복 형 인종이 7개월 만에 승하하자 다음 왕인 명종이 됐죠. 인조와 인열왕후의 차남인 봉림대군은 형 소현세자가 갑자기 죽은 뒤 세자로 책봉돼 훗날 효종이 됐습니다.&lt;br&gt;&lt;br&gt;‘대군’인 적 없이 왕이 됐다가 죽은 뒤 ‘대군’이 된 경우도 있었습니다. 바로 6대 단종 임금입니다. 왕위를 잃은 뒤인 1457년(세조 3년) ‘노산군’으로 강등돼 죽음을 맞은 단종은 훗날 숙종 때 복권되는 과정에서 일시적으로 ‘노산대군’으로 승격됐다가 다시 ‘단종’이 돼 왕위를 되찾았습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWIBN3T33RFITJA4SV6YQAQIRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구에 있는 망원정 터입니다. '경치를 멀리 바라본다'는 의미의 망원정(望遠亭)은 조선 성종의 형 월산대군이 머물던 정자예요. 지금 건물은 1989년 복원된 거예요. 인근 망원동이란 지명도 이 정자에서 유래했죠. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;권력엔 뜻을 두지 말고 살아야 했죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;또 한 가지, 조선 시대의 대군은 ‘권력에 뜻이 없다’는 것을 명백히 드러내야 의심을 피해 편하게 살 수 있었습니다. 평생을 ‘자연인’으로서 초야에 묻혀 유유자적 살아간 성종의 형 월산대군이나, 풍류에 심취했던 예종의 아들 제안대군처럼 말이죠. 반면 선조가 새 세자로 삼으려 했던 영창대군은 이복 형 광해군이 왕이 된 뒤 살해됐습니다.&lt;br&gt;&lt;br&gt;대군은 벼슬을 할 수도 없었습니다. 조선 초의 법전인 ‘속육전’에서부터 ‘종친불임이사(宗親不任以事)’, 즉 ‘임금의 친족에게는 일을 맡기지 않는다’는 규정이 명시돼 있었기 때문입니다. 수양대군을 제외하면 이후의 모든 대군은 이 원칙을 지켰습니다. 드라마에서처럼 대군이 섭정(군주를 대신해 나라를 다스리는 사람)을 맡는 것은 조선 왕조에선 불가능한 일이었습니다. 하지만 뭐 어쩌겠어요. 어차피 가상의 대체 역사물이니 ‘그 이후에 법이 바뀌었던 것’이라고 하면 그만일 테니까요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[기자의 시각] ‘치안 실패’ 숨긴 경찰 보도자료</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/AT35CS3YJZEKPDWNQFJ5HWUX6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/AT35CS3YJZEKPDWNQFJ5HWUX6Q/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 14:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRTMNJZMVQTCM3DMI4WCNRUMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 청사에 깃발이 펄럭이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 ‘경기 남양주 스토킹 살인’ 사건 발생 24일 만인 지난 7일 후속 조치 결과를 발표했다. 하지만 경찰이 배포한 A4 세 장의 보도자료 첫머리에 적힌 “경찰청은 남양주 스토킹 살인 사건을 계기로 관계성 범죄 전수 점검을 실시했다”는 선언은 겉치레일 뿐이다. “점검 기간 구속영장 신청이 전년 대비 376% 늘었다” “가해자 격리와 피해자 보호에 총력 대응했다” “선제적 대응으로 추가 피해를 예방했다”는 문구도 자기 합리화에 가까웠다.&lt;br&gt;&lt;br&gt;경찰청은 전국 경찰서의 스토킹 범죄 우수 대응 사례도 선별해 공개했다. 보도자료에는 각 사건 경위와 함께 경찰이 ‘잘한 점’이 굵은 글씨로 부각돼 있었다. 우수 경찰관에게는 특별 성과 포상금 1000만원을 준다고 했다. 마치 경찰의 치적을 담은 홍보물처럼 비쳤다.&lt;br&gt;&lt;br&gt;그러나 이번 후속 조치는 경찰의 명백한 ‘치안 실패’에서 비롯됐다. 김훈이 지난달 14일 경기 남양주에서 전자발찌를 착용한 채 스토킹하던 20대 여성을 흉기로 살해한 비극적 사건이 계기였다. 피해 여성은 경찰에 수차례 가정 폭력과 스토킹 피해를 호소했고, 자신의 차량에서 김훈이 설치한 위치추적기가 발견됐다고 신고했다. 그러나 관할 경찰관들은 피해자에 대한 적극적 안전 조치나 가해자 구속·격리에 나서지 않았다. 결국 피해자가 살해된 후 비판 여론이 일자 황급히 대응에 나선 것이다.&lt;br&gt;&lt;br&gt;경찰청이 분명하게 밝혔어야 할 것은 실패의 경위와 책임 소재다. 그러나 보도자료 후반부에 딱 한 문장만 들어 있었다. “감찰 조사 결과 경찰 대응 전반이 안이했고 미흡한 점이 있다고 확인했으며, 책임 있는 자에 대해 인사 조치할 예정이다.” 취재 결과 이 사건을 맡았던 구리경찰서와 남양주남부경찰서 담당자들이 피해자 면담 등 안전 조치를 누락하고, 사망 후 뒤늦게 면담을 한 것처럼 허위 보고를 한 정황이 포착된 것으로 드러났다. 자체 감찰로 밝혀낸 구체적 혐의는 이 보도자료에서 사실상 빠졌다. 뼈아픈 치안 실패를 덮으려 우수 사례를 과장하고, 문책 사항은 축소해 알린 거라면 국민 기만이다.&lt;br&gt;&lt;br&gt;경찰은 또 점검 기간 구속영장 신청 건수가 대폭 늘었다고 자랑했지만, 정작 법원의 영장 발부율은 35.7%로 지난해(59.7%)보다 크게 떨어졌다. 유치장에 가두거나 위치 추적 전자장치를 부착하는 조치도 신청 건수만 증가하고 인용률은 낮아졌다. 경찰 수뇌부에 보여주기 위한 통계를 만들기 위해 일선 서에서 무리하게 조치를 남발했을 가능성이 있다.&lt;br&gt;&lt;br&gt;스토킹 피해자를 지키지 못한 경찰이 후속 대응을 잘했다며 자화자찬하는 모습은 기만적이다. 치안 실패가 반복되지 않으려면 국민에게 부족한 점을 인정하고 재발 방지에 총력을 기울여라. 이번 수사 의뢰 등 조치에 따른 추후 보도자료는 달라지길 바란다. 진정한 치안 강화는 결과로 증명돼야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WUU5BZLCIJAIRGF25VSWCGYHIE.png?auth=f5da2e1c480b947f70156c1472b2f8d6086f19f6b317c97379d807a2d9b46841&amp;smart=true&amp;width=500&amp;height=500" type="image/png" height="500" width="500"/>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 16일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/15/MACDFHWJLFGHLCENEYYQ4SFTAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/15/MACDFHWJLFGHLCENEYYQ4SFTAM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 14:32:00 +0000</pubDate>
-      <content:encoded>‘최고 27도’ 전국 대체로 맑고 초여름 더위&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFOTJAJBTVCOVABQB55TOEIPVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장애인 거주 시설서 학대 의심 사례 33건 발견… 정부, 시설 연 2회 점검한다</title>
-      <link>https://www.chosun.com/politics/goverment/2026/04/15/34QRTLZSVBA5BPIA2VSUOB7YKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/15/34QRTLZSVBA5BPIA2VSUOB7YKY/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 11:16:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWZ6BG4RTVL4LJW7N2FMLQBBPE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 15일 오후 서울 종로구 정부서울청사에서 열린 제28차 장애인 정책 조정 위원회에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 전국의 장애인 거주 시설 1507곳을 전수 점검한 결과, 장애인 학대 피해 의심 사례 33건이 발견됐다. 정부는 시설 거주 장애인에 대한 학대를 예방하기 위해 장애인 거주 시설을 정례적으로 점검하고, ‘중점 관리 시설’을 선정해 수시로 점검하기로 했다. 중장기적으로는 시설 구조를 다인실 위주에서 소규모 단위로 바꾸고, 독립형 주거 서비스를 늘려 가기로 했다.&lt;br&gt;&lt;br&gt;정부는 15일 오후 정부서울청사에서 김민석 국무총리 주재로 제28차 장애인 정책 조정 위원회를 열어 이 같은 내용을 담은 ‘장애인 거주 시설 학대 예방 및 인권 강화 종합 대책’을 심의해 발표했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 회의에서 인천 강화군에 있는 중증 장애인 거주 시설 ‘색동원’에서 일어난 장애인 학대 사건을 언급했다. 김 총리는 “색동원 사건은 인권 국가를 표방하는 우리나라에 여전히 차가운 사각지대가 남아 있음을 뼈아프게 보여준 사례였다”며 “1월 30일 국무총리(본인)가 긴급 지시를 내리고 경찰이 특별 수사단을 꾸려서 수사를 진행했고, 정부는 국무조정실을 중심으로 합동 대응 TF(태스크포스)를 구성해 지난 두 달간 대책을 논의해 왔다”고 했다. 이어 “매년 정부가 (장애인 거주 시설을) 점검하기는 했는데, 폐쇄적인 시설 운영 가운데서 학대가 은폐되고 장기화되는 구조적인 문제를 확인했다”며 “다시는 이런 일이 발생하지 않도록 종합 대책을 논의하겠다”고 했다.&lt;br&gt;&lt;br&gt;정부는 보건복지부·성평등가족부·경찰청·지방자치단체와 장애인 권익 옹호 기관이 합동 점검팀을 구성해 지난 1월부터 3월까지 전국의 장애인 거주 시설 1507곳을 전수 점검한 결과, 인권 침해 의심 사례 33건을 발견했다고 밝혔다. 장애인 권익 옹호 기관이 학대 여부를 판단하고 있고, 이 가운데 폭행 혐의 등 8건에 대해서는 수사에 착수한 상태다.&lt;br&gt;&lt;br&gt;이와 관련해 정부는 “장애인 거주 시설의 폐쇄적인 구조로 인해 학대가 장기간 은폐되는 사례가 생기고, 학대를 내부 신고에 의존해 적발해야 하는 구조로 인해 조기에 발견하지 못하는 문제점이 있었다”며 “이에 사후 대응 중심에서 예방 중심으로, 기관별 분절적 대응에서 기관 간 통합 대응으로 정책 방향을 전환한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 앞으로 모든 장애인 거주 시설은 지방자치단체와 경찰, 장애인 권익 옹호 기관, 전문 지원 기관으로부터 연 2회 합동 점검을 받는다. 또 민원이 들어오거나, 인력 변동이 잦거나, 행정 처분을 받은 이력이 있거나, 회계상 이상 징후가 있는 시설은 ‘중점 관리 시설’로 선정돼 수시·특별 점검 대상이 된다.&lt;br&gt;&lt;br&gt;장애인 권익 옹호 기관은 전문 인력을 충원하고, 단계적으로 확대하기로 했다. 또 장애인 거주 시설 운영자들을 중심으로 구성돼 온 ‘인권지킴이단’을 지방자치단체 중심으로 전환하고, 지자체 공무원과 경찰관, 변호사, 공공 후견인, 인권 단체 활동가 등을 참여시키기로 했다. 장애인 학대 의심 사례가 생기면 지자체와 권익 옹호 기관, 경찰서, 해바라기센터가 공동으로 대응하기로 했다.&lt;br&gt;&lt;br&gt;정부는 이날 장애인정책조정위원회에서 2023년부터 2027년까지 시행되는 제6차 장애인 정책 종합 계획의 올해 시행 계획도 확정했다. 정부는 장애인 복지·건강 등 9대 정책 분야에 예산을 지난해보다 약 9% 늘어난 7조원을 투입하고, 장애인 활동 지원 서비스 제공을 지난해 13만3000명에서 올해 14만명으로 늘린다. 장애아 전문·통합 어린이집은 올해 80곳, 내년에 80곳 늘리고, 특수·일반 교사가 통합 교육을 하는 ‘정다운학교’는 지난해 284곳에서 올해 320곳으로 늘린다. 장애인 공공 일자리는 지난해 3만3546명에서 올해 3만5846명으로 늘린다. 장애인 고용 장려금 지급 대상은 연인원 기준 지난해 76만2886명에서 올해 81만730명으로 늘린다. 전북과 충남에 재활병원 2곳 건립을 추진하고, 공공어린이재활병원·센터 2곳을 단계적으로 개원한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, ‘김건희 수사 무마 의혹’ 심우정 전 검찰총장 PC 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/15/PE6KCSYJCRCHXJTGGXX4T6QKZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/15/PE6KCSYJCRCHXJTGGXX4T6QKZE/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 10:06:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQWEZRZME4TMZDGMYYGMYRSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장이 지난 2025년 9월 서울 서초구  순직해병특검팀에 이종섭 호주대사 임명 및 도피성 출국 관련 피의자 신분으로 소환되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 사건을 넘겨받아 수사 중인 2차 종합특검은 지난 10일 서울 서초구 대검찰청을 압수수색하는 과정에서 심우정 전 검찰총장이 사용하던 PC 자료를 확보한 것으로 15일 알려졌다. 특검은 2024년 10월 중앙지검이 김건희 여사의 도이치모터스 주가조작 의혹과 디올백 수수 의혹을 무혐의 처분하는 과정에서 대통령실이나 법무부 등의 외압이 있었는지를 수사 중이다.&lt;br&gt;&lt;br&gt;2024년 9월부터 지난해 7월까지 검찰총장을 지낸 심 전 총장은 무혐의 처분 당시 도이치모터스 주가조작 사건에 대한 수사지휘권이 없었지만, 특검은 이 사건 재기수사 과정에서 심 전 총장이 관여한 정황을 일부 확인하고 압수수색에 나선 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 도이치모터스 사건 당시 검찰 간부들에 대해 집중적으로 수사를 확대하고 있다. 지난달엔 이창수 전 중앙지검장과 조상원 전 중앙지검 4차장을, 최근엔 이원석 전 검찰총장과 송경호 전 서울중앙지검장을 출국 금지했다. &lt;br&gt;&lt;br&gt;‘수사 무마 의혹’은 김 여사가 도이치모터스 주가 조작에 가담해 8억1000만원 가량 부당이득을 취득했다는 의혹과 디올백 수수 의혹에 대해 중앙지검 반부패수사2부가 불기소 처분을 내리는 과정에서 부실 수사가 있었다는 의혹이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 금감원 사칭해 34억원 뜯어낸 보이스피싱 일당 7명 검거</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/15/2EQLWVB3IBAGRAYMMGUBIIBZOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/15/2EQLWVB3IBAGRAYMMGUBIIBZOA/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 09:50:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43TQZJWGBRDMY3DMJQTQMDFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 금융감독원 등을 사칭해 34억원이 넘는 수표를 가로챈 보이스피싱 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 강동경찰서는 검찰, 금융감독원 등을 사칭해 34억6700만원가량의 수표를 가로챈 보이스피싱 일당 7명을 검거하고 이 중 3명을 구속 송치했다고 15일 밝혔다. 나머지 피의자 4명은 불구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이들은 지난달 6일부터 31일까지 보이스피싱 조직의 지시를 받아 전국 각지의 피해자 10명으로부터 수표 34억6700만원을 가로챈 혐의를 받는다. 이들은 가로챈 돈을 조직 상선에게 전달했다고 한다. 한 피해자는 “주식 투자로 높은 수익을 올려주겠다”는 조직원의 말에 속아 수표 17억원을 넘겨준 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 지난달 12일 “계좌가 범죄에 연루된 것 같으니 계좌에 있는 현금을 모두 인출하여 확인해야 한다”는 보이스피싱 조직원의 전화를 받고 1억5700만원 상당의 수표를 건넸다는 피해자의 신고를 접수한 뒤 수사에 착수했다. 경찰은 현장 폐쇄회로(CC)TV 등을 분석해 신고 다음 날 수거책 1명을 검거했고, 이후 지난달 31일까지 수거·전달책 총 7명을 차례로 붙잡았다. 이 과정에서 8억7000만원 상당의 수표도 압수해 이를 전달한 피해자 3명에게 돌려줬다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “전화로 수사기관이나 공공기관을 사칭하며 계좌 점검 등을 이유로 현금 인출을 요구하는 것은 100% 사기”라며 “최근에는 피해금을 수표로 인출해 전달하게 하는 고액 피해 사례도 적지 않은 만큼 각별한 주의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 피의자들의 추가적인 범행을 확인하는 한편, 공범 및 상선 조직에 대한 수사도 확대할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEE7U55MXVB2TBRBMMOKXURAKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 수표 중 일부./서울 강동경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>철강 산업 흔들… 인천 동구 ‘고용위기 선제대응지역’ 지정</title>
-      <link>https://www.chosun.com/national/regional/2026/04/15/7G74FMLW7VCELFATMLGTKU5JMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/15/7G74FMLW7VCELFATMLGTKU5JMI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 09:26:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BVJ6O2SVJKPPLFX6Q5AZAM7CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 동구 현대제철 인천공장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 동구가 15일 정부의 ‘고용위기 선제대응지역’으로 지정됐다. &lt;br&gt;&lt;br&gt;인천시는 고용노동부의 고용정책심의회에서 이 같은 내용이 의결됐다고 이날 밝혔다. &lt;br&gt;&lt;br&gt;인천시는 앞서 지난 3월 동구를 고용위기 선제대응지역으로 지정해 달라고 지난 3월 고용노동부에 건의했다. &lt;br&gt;&lt;br&gt;인천시에 따르면 동구엔 현대제철과 동국제강의 인천공장을 중심으로 40여 개의 철강 제조업체(협력업체 포함)가 운영 중이다. 2023년 기준 동구 전체 생산액 중 철강 제조업이 51.7%(4조8590억원)를 차지할 정도로 비중이 높다. &lt;br&gt;&lt;br&gt;그러나 미국의 철강 관세 부과 등 글로벌 통상환경 악화와 건설경기 침체 등 복합적인 요인으로 동구의 철강 제조업 고용보험 피보험자 수는 지난해 7월부터 12월까지 월평균 3068명으로, 전년 같은 기간 3178명 대비 110명 감소하는 등 어려움을 겪고 있다. 동구의 한 대형 제철 공장의 경우엔 철근 생산 라인 가동률이 2024년 91%에서 2025년 68%로 줄어들기도 했다. &lt;br&gt;&lt;br&gt;인천시는 이번 고용위기 선제대응지역 지정으로, 총 40억원 규모의 국비를 동구 지역 철강 산업분야 근로자에게 지원할 수 있게 됐다고 설명했다. &lt;br&gt;&lt;br&gt;인천시는 우선 임금 체불 근로자 300명에게 1인당 최대 300만원의 긴급 생계비를 지원하고, 근로자 3000명에게 1인당 50만원의 복지·생활 안정 장려금을 지급한다. &lt;br&gt;&lt;br&gt;또 재취업자에게 최대 200만원의 취업 성공 정착 지원금을 비롯해 휴직 근로자 소득 감소 보전비(1인당 20만원), 퇴직 근로자 재취업 지원비(1인당 50만원) 등을 지원한다. &lt;br&gt;&lt;br&gt;이와는 별도로 재취업 교육을 위한 내일배움카드 한도와 기업에 지원되는 고용 유지 지원금 수준 등이 상향된다. &lt;br&gt;&lt;br&gt;인천시는 5월 중 동구 송림동 공구상가유통센터와 송림동 송림공구상가 등 2곳에 ‘고용위기 종합지원센터’를 설치해 지원 신청을 받고, 6월 말까지 지급을 마무리할 방침이다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “이번 고용위기 선제대응지역 지정을 계기로 인천 제조업의 뿌리라고 할 수 있는 동구 철강 제조업 분야 근로자들이 일터를 지키고 안정적인 생활을 이어갈 수 있도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주사기 국내 재고 전날보다 200만개 줄어</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/15/E7JAZ4OPZJH2JMDAV5IQ7J7CMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/15/E7JAZ4OPZJH2JMDAV5IQ7J7CMM/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Apr 2026 09:14:32 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN2QXEC4XBPIFH7A3XC6AFM5AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 경기 안산시 단원구 한국백신 공장에서 주사기 제품이 생산되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중동 전쟁 여파로 동네 병원에서 주사기를 못 구하는 상황이 벌어지자 정부가 앞으로 주사기 생산과 출고, 재고 현황을 집계해 매일 공개한다. 일반 국민들이 안심할 수 있도록 정보를 투명하게 제공한다는 취지다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 “14일 오후 5시 기준 국내 주사기 재고량은 약 4516만개로 집계됐다”고 15일 밝혔다. 13일 재고(약 4715만개)보다는 약 200만개 줄어든 수치다. 14일 생산량은 약 332만개, 출고량은 약 531만개로 조사됐다. 일반 주사기 외에 필터 주사기, 인슐린 주사기를 포함한 수치다.&lt;br&gt;&lt;br&gt;정부는 국내에서 주사기 제조 및 출고가 정상적으로 이뤄지고 있다는 입장이다. 그러나 현장에선 동네 병원 등이 주사기와 주사 바늘, 일회용 장갑 등 각종 의료용품을 구하지 못해 발을 구르고 있다. 소규모 병원들은 주로 온라인을 통해 주사기 등을 주문하는데, 대부분의 온라인몰에서 의료용품이 품절이기 때문이다.&lt;br&gt;&lt;br&gt;식약처는 “제조·판매업체가 매점 매석행위를 하고 있다는 것을 알게 되면 신고해달라”며 “필수 의료기기가 안정적으로 공급되도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
