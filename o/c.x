@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“늑구(Neukgu)는 자유의 상징”… 외신도 생포 소식 집중 보도</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/KHSGDCZRNRC2DPPZLEEVCSLY34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/KHSGDCZRNRC2DPPZLEEVCSLY34/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 10:34:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2GMOBWME4TGMTBMZRGIMJQGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 오월드 동물원을 탈출한 수컷 늑대 '늑구'가 9일 만에 포획됐다. 17일 관계자들이 오월드로 이송된 늑구의 건강상태를 확인하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 동물원에서 탈출한 수컷 늑대 ‘늑구’가 9일 만에 생포됐다는 소식이 전해지자 외신도 이를 일제히 보도했다. &lt;br&gt;&lt;br&gt;17일 BBC는 ‘한국에서 9일간 도망치던 늑대가 마침내 잡혔다’라는 제목의 기사를 통해 “한국의 한 동물원에서 탈출해 전국적인 관심을 끌었던 두 살배기 늑대 늑구(Neukgu)가 9일간의 수색 끝에 마침내 잡혔다”고 전했다. &lt;br&gt;&lt;br&gt;BBC는 “수백 명의 인원이 투입돼 늑구를 쫓았지만, 포위망이 좁혀올 때마다 늑구는 번번이 빠져나갔다”며 특히 2018년 같은 동물원에서 탈출한 퓨마 ‘뽀롱이’가 사살됐던 전례가 있어, 동물권 단체들이 늑구의 안위를 깊이 우려했다고 했다.&lt;br&gt;&lt;br&gt;이어 BBC는 늑구의 신출귀몰한 도주 과정을 상세히 설명하며, “늑구는 ‘결코 갇혀 있으려 하지 않는 늑대’이자 ‘자유의 상징(symbol of independence)’으로 불리고 있다”고 소개했다.&lt;br&gt;&lt;br&gt;로이터는 이날 늑구 생포 소식을 전하면서 “늑구 탈출 사건이 전국적인 관심을 끌었다”며 “한국의 온라인 게시판은 늑구 포획 소식으로 떠들썩했으며, 일부 네티즌은 늑구를 ‘동물원의 명예 홍보대사’라고 부르며 동물원이 재개장하면 꼭 방문하겠다고 다짐했다”고 했다. &lt;br&gt;&lt;br&gt;로이터는 늑구(Neukgu) 이름을 붙인 암호화폐 ‘밈코인’도 생겼다는 사실도 소개했다. &lt;br&gt;&lt;br&gt;CNN은 “늑구 생포 후 소셜미디어에는 ‘돌아온 걸 환영해’, ‘늑구야 밖은 위험해’ 등의 축하 게시물이 쏟아졌다”며 “동물원이 재개장하면 늑구는 엄청난 인기 스타가 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;대전시 등에 따르면 지난 8일 대전 오월드에서 탈출한 늑구는 이날 오전 0시 44분쯤 마취총에 맞고 생포됐다. &lt;br&gt;&lt;br&gt;당국은 수백 명의 인원과 열화상카메라가 부착된 드론 등을 투입해 포획에 나섰지만 늑구는 번번이 포위망을 뚫고 도망쳐 전 국민을 애타게 했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>치킨 기름 공급사 유통마진 ‘0원’으로 인하한 교촌, 재판행</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/NUCO4QXHMBGXFA6GRGRWR2G67E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/NUCO4QXHMBGXFA6GRGRWR2G67E/</guid>
+      <dc:creator>성남=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 09:27:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLQSVEMGKN57UHCBUXN5HG7QRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 교촌치킨 매장 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치킨 튀김 전용 기름 공급사의 유통 마진을 일방적으로 ‘0원’으로 인하한 혐의를 받는 교촌에프앤비가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 성남지청 형사3부(부장 엄영욱)는 17일 공정거래법 위반 혐의로 ‘교촌치킨’ 프랜차이즈 본부인 교촌에프앤비를 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 교촌에프앤비는 2021년 5∼12월 거래상의 지위를 부당하게 이용해 치킨을 튀기는 전용 기름(전용유)을 유통하는 협력업체 두 곳의 유통 마진을 캔당 1350원에서 0원으로 일방적으로 인하한 혐의를 받는다. 전용유는 치킨의 바삭함을 결정짓는 기름으로 bhc·BBQ·교촌 등 주요 치킨 프랜차이즈는 전용 기름을 사용하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO7OVWDCUF33VFGAYX2UWMWUHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 성남지청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 “교촌에프앤비는 2021년 4월 전용유 제조사들로부터 전용유 매입가 인상을 요구받자, 유통업체에 보장해 줬던 마진을 없애는 방법으로 그 인상분을 유통업체에 고스란히 전가했다”고 밝혔다. 이에 따라 유통업체들은 약 7억원 상당의 손실을 보게 된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이와 관련해 교촌에프앤비는 2024년 10월 공정거래위원회로부터 2억8000만원 상당의 과징금을 부과받았다. 당시 공정위는 “코로나 사태로 치킨 전용유 가격이 뛰자 교촌에프앤비가 기존 계약 조건과 달리 일방적으로 마진을 깎았다”고 설명했다.&lt;br&gt;&lt;br&gt;공정위 처분에 불복한 교촌에프앤비는 행정소송을 제기했다. 그러나 서울고법은 지난 2월 “원고는 거래상 이익을 이용해 계약 기간 도중에 일방적으로 유통업체에 공급 마진을 0원으로 변경했다”며 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “장애인 이용 버스에 휠체어 탑승 설비 설치”... 이용 가능성 높은 일부 노선에만 한정</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/GL53ZYCZX5HKBGTKEE536D6NNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/GL53ZYCZX5HKBGTKEE536D6NNI/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 09:33:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZTSNDCHE3GGYJRGI4DCYZZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인들이 이동권을 보장하라며 버스 업체를 상대로 낸 소송이 최근 대법원에서 확정됐다. 소송 제기 12년 만에 버스 업체가 버스에 휠체어 탑승 설비를 설치해야 한다고 판단했지만, 설치 범위는 이들이 사용할 가능성이 높은 일부 노선으로 한정됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 김모씨 등 장애인 3명이 버스 업체 2곳을 상대로 낸 차별구제 소송 재상고심에서 원심의 원고 일부승소 판결을 전날 심리불속행 기각으로 확정했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;김씨 등은 2014년 버스 업체 금호고속과 명성운수가 시외버스와 광역형 시내버스에 저상(低床) 버스를 도입하지 않고 휠체어 탑승 설비도 장착하지 않은 것은 장애인차별금지법상 차별 행위라며 소송을 제기했다. 당시 휠체어 탑승 설비가 장착된 광역·시외버스는 한 대도 없었다.&lt;br&gt;&lt;br&gt;1심 재판부는 두 버스 업체가 모든 노선에 즉시 휠체어 탑승 설비를 설치하라고 판단했다. 2심도 같은 판결을 내렸다.&lt;br&gt;&lt;br&gt;대법원도 휠체어 탑승 설비 도입이 의무라고 인정했다. 당시 대법원은 “교통 사업자에게는 버스에 휠체어 탑승 설비를 제공할 의무가 있다”며 “누구든지 ‘과도한 부담이나 현저히 곤란한 사정’에 이르지 않는 범위에서 최대한 성실하게 차별 금지 의무를 이행해야 한다”고 했다. &lt;br&gt;&lt;br&gt;다만 버스 회사들이 ‘즉시’ ‘모든 버스’에 휠체어 탑승 설비를 설치하도록 한 원심 판결은 잘못됐다고 봤다. 대법원은 두 업체의 재무 상태를 고려해 ‘원고가 탑승할 현실적 개연성이 있는 노선’에 대해서만 먼저 설비를 설치하라고 범위를 한정했다.&lt;br&gt;&lt;br&gt;파기환송심을 맡은 서울고법 민사33부는 지난해 11월 원고들의 가족 주거지 등 원고가 탈 가능성이 높은 극히 일부 노선만 휠체어 탑승 설비를 설치하라고 판결했다. 이에 원고들은 재상고했지만, 대법원은 파기환송심 판결에 잘못이 없다고 보고 본격 심리 없이 상고를 기각했다.&lt;br&gt;&lt;br&gt;원고 측을 대리한 법무법인 두루의 한상원 변호사는 “적극적 조치의 범위를 원고들의 가족 주거지로 향하는 버스 노선으로 한정한 부분이 유감”이라면서도 “법원에서 차별행위와 이에 따른 적극적 조치 의무를 확정한 만큼 피고들과 주무부처인 국토교통부가 적극적으로 광역, 고속버스에 휠체어 탑승설비가 확충될 수 있도록 책임을 다해야 한다”고 했다. 그러면서 “국토교통부가 위헌적인 시행규칙을 개정하고 손실 보전 등 운수업체들이 휠체어 탑승 설비를 확충할 수 있도록 실질적인 지원 및 유도 정책을 수립해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울행정법원 “소송구조 결정부터 변호사 선임까지 원스톱”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/7UBV4KC7ARBQPDNNNMJQWYJJHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/7UBV4KC7ARBQPDNNNMJQWYJJHY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 09:35:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRWKMZQGE3GGY3EMYZDIZBUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원·대한법률구조공단이 장애인 등 사회적 약자의 소송구조 실질화를 위한 업무 협약을 맺었다. /서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이동이나 의사소통이 어려워 변호사를 선임하기 어려웠던 장애인들에게 국가가 직접 방문해 선임 계약까지 도와주는 서비스가 마련된다. 서울행정법원은 대한법률구조공단과 이런 내용의 ‘장애인 등 사회적 약자 소송구조 실질화를 위한 업무협약(MOU)’을 체결했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;소송구조는 경제적 형편이 어려운 당사자를 위해 법원이 변호사 보수·인지대 등을 유예·면제해주는 제도다. 그런데 지금까지는 장애인이 법원에서 소송구조 결정을 받아도 실제 소송을 하려면 직접 변호사를 찾아 사무실을 방문해 선임 계약을 맺어야 했다. 이동이 어렵거나 의사소통이 원활하지 않은 장애인은 이 단계에서 막혀 대리인 선임이 늦어지는 경우가 많았다. 재판이 미뤄지고, 그 사이 생계를 위협받는 경우도 적지 않았다고 한다.&lt;br&gt;&lt;br&gt;앞으로는 서울행정법원이 장애인 소송구조를 결정하면, 당사자 동의를 받아 인적사항을 공단에 통보한다. 공단은 장애 유형과 상황에 맞게 선임 계약을 도와준다. 신체 장애인에게는 집으로 찾아가는 방문 상담이, 지적·정신 장애인에게는 보조인을 통한 방문 상담이 주로 이뤄질 것으로 보인다.&lt;br&gt;&lt;br&gt;이번 협약은 서울행정법원이 추진 중인 ‘한국형 사회법원’의 일환이다. 서울행정법원은 올 2월 정기인사 이후 사회보장 전담재판부를 전면 개편하고, 발달·정신·지체·시청각 장애 등 유형별 전문 소송구조 변호사 36명을 추가 등록했다. 독일 사회법원 모델을 참고해 장애인·노인·임산부·아동 등 사회적 약자의 사법 접근성을 높이겠다는 구상이다. 서울행정법원에는 장애등급 결정 처분을 다투는 소송이 집중적으로 접수되는데, 이 사건 당사자들이 공단 지원을 우선적으로 받게 될 것으로 보인다.&lt;br&gt;&lt;br&gt;정선재 서울행정법원장은 “소송구조 제도가 실질적으로 활용돼 정신·신체 장애인 모두가 비장애인과 동등하게 권리를 주장할 수 있게 되길 기대한다”고 밝혔다. 서울행정법원은 앞으로 이 제도를 장애인뿐 아니라 다른 사회적 약자까지 확대하고, 전국 법원으로 확산하는 방안도 검토할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최태원-노소영 재산분할 파기환송심 조정 회부... 기일 5월 13일</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/F7U5THMRIJFIROOVYD7NMOS6FU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/F7U5THMRIJFIROOVYD7NMOS6FU/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 10:27:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTGMNRXMY3TSMZSGEYDSYLFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 재산분할 소송 파기환송심이 조정 절차에 회부됐다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 서울고법 가사1부(재판장 이상주)는 최 회장과 노 관장의 재산분할 파기환송심 조정기일을 다음 달 13일 오전 10시로 정했다. &lt;br&gt;&lt;br&gt;지난해 10월 대법원은 최 회장이 노 관장에게 이혼 재산 분할로 1조3808억원을 지급하라고 한 항소심 판결을 파기했다. 지난 2024년 5월 서울고법 항소심 재판부는 최 회장과 노 관장 부부의 공동 재산을 약 4조원으로 산정했고, 이 중 35%를 노 관장이 가져야 한다고 판단했다. 당시 재판부는 노 관장의 부친인 노태우 전 대통령의 비자금 300억원이 SK그룹에 유입된 점 등을 고려했다.&lt;br&gt;&lt;br&gt;하지만 대법원은 SK가 비자금을 받았다고 하더라도 이는 법의 보호를 받을 수 없는 불법적인 자금으로 재산 분할에서 노 관장의 기여로 참작할 수 없다고 판단했다. 대법원은 “법적 보호 가치가 없고 이혼 재산 분할에서 노 관장의 기여로 고려하면 안 된다”며 재산 분할 비율을 다시 산정하라고 했다.&lt;br&gt;&lt;br&gt;파기환송심 첫 변론은 지난 1월 9일 열렸다. 변론은 비공개로 진행됐으며, 재판부는 양측 주장을 담은 서면을 제출받은 것으로 알려졌다. 당시 노 장관은 법정에 출석했지만, 최 회장은 출석하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 경무관 45명 전보 인사 발표</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/PXQWDW3TDBDOLEYXAIXF7UVJQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/PXQWDW3TDBDOLEYXAIXF7UVJQY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 09:53:46 +0000</pubDate>
+      <content:encoded>경찰청이 17일 경무관 45명에 대한 전보 인사를 발표했다. 경무관은 경찰청장인 치안총감과 치안정감, 치안감에 이어 경찰에서 네 번째로 높은 계급으로 통상 ‘경찰의 별’로 불린다. 시·도 경찰청 부장, 인구 40만 명 이상 관할 경찰서장 등의 보직을 맡는다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTIZDFMFTGMZJQGVRDQYJQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 치안정보국 치안심의관에는 최근 인사에서 경무관으로 승진한 김성준 경기남부경찰청 치안정보과장이 임명됐다. 국가수사본부 전기통신금융사기 통합대응단장에는 오창배 부산경찰청 홍보담당관이, 국수본 형사국 과학수사심의관에는 이미경 충남청 생활안전부장이 임명됐다. &lt;br&gt;&lt;br&gt;김병기 의원 관련 의혹이나 강호동 농협중앙회장의 횡령 의혹 등 각종 특수 사건 수사를 맡고 있는 서울경찰청 수사 지휘부도 상당수가 교체됐다. 서울청 수사부장에는 오승진 서울 강서경찰서장이, 광역수사단장에는 박찬우 국수본 수사국 경제범죄과장이, 안보수사부장에는 국무조정실에 파견됐던 최은정 경무관이 임명됐다. &lt;br&gt;&lt;br&gt;기존에는 총경이 서장을 맡았던 서울 영등포경찰서·관악경찰서는 이번 인사를 기점으로 경무관이 서장을 맡게 된다. 인구가 늘고 연간 범죄가 1만 건을 돌파하는 등 중요도가 올라갔기 때문이다. 영등포서장에는 여진용 인천청 공공안전부장이, 관악서장에는 김광식 강원청 원주서장이 임명됐다.&lt;br&gt;&lt;br&gt;지난 3일 인사에서 경무관으로 승진한 총경 28명은 이번 인사를 통해 모두 새 보직을 받았다. 김종관 경찰청 인사과장은 대전청 생안부장에, 김상희 서울청 여성안전과장은 서울 강서서장에 임명됐다. 이들은 윤석열 정부 시절 경찰국 설립에 반대해 열린 ‘총경 회의’ 참석자다. 3대 특검에 파견됐던 강일구 서울청 금융범죄수사대장은 충북청 수사부장에, 최준영 경기북부청 형사과장은 울산청 수사부장에 임명됐다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 구자현 검찰총장 대행 ‘대장동 검사 극단 선택 시도’ “참담한 마음...공정한 국정조사 간곡하게 부탁”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/17/GMUU5ZDTIBALTHHFUWL46KYOMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/GMUU5ZDTIBALTHHFUWL46KYOMU/</guid>
@@ -864,52 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDQYRTMQ2WGYTFGM3TOM3EMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난해 11월 19일 서울 서초동 서울중앙지법에서 한덕수 전 국무총리의 내란 혐의 재판에 증인으로 출석해 증언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포 전 국무회의를 개최하려 했다는 취지로 허위 증언한 혐의로 기소된 윤석열 전 대통령에게 조은석 내란 특별검사팀이 징역 2년을 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 16일 서울중앙지법 형사32부(재판장 류경진) 심리로 열린 윤 전 대통령의 위증 혐의 사건 결심 공판에서 이같이 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 “위증죄는 사법기관의 실체적 진실 발견을 어렵게 하고 나아가 국가의 사법 기능 전체를 해하는 중대한 범죄”라며 “피고인은 20년 넘도록 검사로 근무했던 사람으로 위증죄의 엄중함을 너무나도 잘 알고 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 대통령으로서 헌법과 법률을 수호하고 국민의 생명과 신체를 보호해야 할 의무가 있음에도 이를 저버린 채 비상계엄을 선포해 국가적 혼란을 야기하고 대외 신인도에도 악영향을 줬다”며 “그럼에도 계엄의 진실을 밝히려는 재판을 지켜보는 국민의 기대를 저버리고 거짓 진술을 해 죄책이 매우 무겁다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “현재도 반성하는 대신 범행을 부인하고 진실을 은폐하기 위해 거짓 주장을 반복하고 있다”며 재판부에 징역 2년을 선고해 달라고 요청했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 최후진술에서 “(국무위원) 전원을 소집해 미리 안건을 알려줬다면 전국 도심에서 치안 수요가 많아지고 병력 투입이 늘어나는 등 관리가 안 되는 상황이 올 수 있다”며 “계엄과 관련해 필수적이라고 판단되는 국무위원들을 순차적으로 불렀다”고 했다.&lt;br&gt;&lt;br&gt;이어 “최소한의 병력 투입과 보안 유지를 위해 전원 소집이 어려웠던 사정을 고려해 달라”며“국무회의는 자문 회의로서 대통령의 의사결정을 귀속하지는 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 작년 11월 19일 한덕수 전 국무총리의 내란 중요 임무 종사 등 혐의 재판에 증인으로 출석해 국무회의를 사전에 개최할 계획이 있었던 것처럼 허위 증언한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 당시 재판에서 “한 전 총리가 합법적 외관을 갖추기 위해 국무회의를 소집하자고 건의했느냐”는 특검 측 질문에 “국무위원들이 외관을 갖추려고 온 인형도 아니고, 너무 의사가 반영된 질문 아니냐”고 말했다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 당초 국무회의를 열 의사가 없었으나, 한 전 총리의 건의를 계기로 뒤늦게 회의를 연 것으로 보고 있다.&lt;br&gt;&lt;br&gt;재판부는 이날 변론을 종결하고 오는 5월 28일 오전 10시에 선고하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>18년간 ‘사무장 병원’ 운영해 48억 챙긴 부부, 불구속 기소</title>
-      <link>https://www.chosun.com/national/regional/2026/04/16/GDXP46RTVRDYHAFGAIKYKLF3GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/16/GDXP46RTVRDYHAFGAIKYKLF3GE/</guid>
-      <dc:creator>김천=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 07:43:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4GIZJQMU3TMYJXMFRWINJUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사 명의를 빌려 18년간 ‘사무장병원’을 운영해 요양급여, 의료급여 등으로 수십억원을 받아 가로챈 혐의로 부부와 의사가 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;대구지검 김천지청 형사1부(부장 임지수)는 특정경제범죄법 위반(사기)과 의료법 위반, 보조금 관리법 위반 등의 혐의로 A병원 사무장 50대 B씨와 그의 아내(40대), 그리고 명의를 빌려준 40대 의사 C씨를 불구속 기소했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;B씨 부부는 2006년부터 2024년 9월까지 18년 동안 의사 C씨의 명의를 빌려 병원을 운영하면서 요양급여, 의료급여 명목으로 48억원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨 부부와 C씨는 “의사가 정상적으로 운영하는 병원”이라고 주장했지만, 검찰은 병원 급여계좌, 휴대 전화 포렌식, 병원 내부 사정을 전해 들은 참고인 조사 등을 통해 B씨가 퇴사했다고 주장하는 무렵에도 B씨가 병원 자금을 관리하고, 개인 주식 투자 등에 활용한 사실을 확인해 이들을 기소했다. &lt;br&gt;&lt;br&gt;검찰은 또 48억원의 범죄 수익 환수를 위해 이들 부부와 명의를 빌려준 의사 C씨의 아파트 등 재산을 동결했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국민의 생명과 안전을 위협하는 사무장 병원에 대해 적극적인 수사로 엄단하고, 사무장 병원 개설과 운영으로 인한 범죄 수익 박탈에도 만전을 기하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 4월 17일 금요일 (음력 3월 1일 辛酉)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/16/53PJGJQNRNAPDLH5CQJEHIH5JM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/53PJGJQNRNAPDLH5CQJEHIH5JM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>“경남 매력 숏폼으로 알린다”… 경남도, 필리핀 인플루언서 팸투어 진행</title>
-      <link>https://www.chosun.com/national/2026/04/16/PIULJDNWBNFD7L7PUQCLBBINAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/16/PIULJDNWBNFD7L7PUQCLBBINAI/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 06:39:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6MK4NC4BNDQ7MBHR7PDVESNDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 경남 양산시 통도사를 찾은 필리핀 인플루언서들. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도가 1500만명에 달하는 막강한 팔로어를 보유한 필리핀 ‘메가 인플루언서’ 군단을 초청해 동남아 관광객 유치 선점에 나섰다. 단순한 경치 구경을 넘어 K푸드 체험과 숏폼(Short-form) 콘텐츠 제작을 결합해 부산을 찾은 외국인 관광객의 발길을 경남으로 돌리겠다는 전략이다.&lt;br&gt;&lt;br&gt;경남도는 한국관광공사(KTO) 마닐라 지사와 손잡고 지난 15일부터 16일까지 이틀간 필리핀 인플루언서 12인을 초청해 ‘K컬처 홍보 콘텐츠 제작 팸투어’를 진행했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;이번에 방문한 이들은 한국관광공사 마닐라 지사의 SNS 서포터스인 ‘K크리에이터스 클럽(K-Creators Club)’ 소속이다. 이들의 합산 팔로어 수는 약 1498만명에 달한다. 필리핀 인구(약 1억 1600만명) 10명 중 1명 이상이 이들의 콘텐츠를 꾸준히 소비하는 셈이다. 경남도는 “현지 파급력이 상당할 것”이라고 기대했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VO2BJPW4QFEFHIA7VSRQ7OFODQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 경남 창원시 성산구에 있는 양조기업 맑은내일 플레이스에서 필리핀 유명 인플루언서들이 막걸리 시음을 하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방문단은 부산과 인접해 접근성이 좋은 양산과 김해, 창원을 집중적으로 돌았다. 양산에서는 유네스코 세계문화유산인 통도사와 인근 청보리밭을 찾았다. 김해에서는 한옥 체험관과 낙동강 레일 바이크를, 창원에서는 굿데이 뮤지엄 등을 찾아 막걸리 만들기 체험을 했다. &lt;br&gt;&lt;br&gt;경남도 관계자는 “필리핀 관광객들이 선호하는 전통 문화와 현대적 감각의 K푸드 체험을 코스에 포함했다”고 설명했다. &lt;br&gt;&lt;br&gt;이번에 경남을 찾은 필리핀 인플루언서의 홍보 주력 플랫폼은 필리핀 내 최대 여행 정보 습득 채널인 ‘틱톡(TikTok)’이다. 인플루언서들은 1인당 최소 6건 이상 숏폼 영상을 제작해 개인 채널과 한국관광공사 공식 계정을 통해 경남의 매력을 실시간으로 송출할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AN74OXFHFFIHAHIG2JTJBCEW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 경남 양산시 통도사를 찾은 필리핀 인플루언서들이 숏폼 영상을 촬영하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도가 필리핀 시장에 공을 들이는 이유는 최근 동남아에서 급부상하는 방한 수요 때문이다. 지난 2월 발표된 ‘2026 국가관광전략회의’에 따라 방한 경험이 있는 필리핀 관광객에 대한 5년 복수 비자 발급이 쉬워진 점이 결정적이다.&lt;br&gt;&lt;br&gt;도는 비자 장벽이 낮아진 만큼 부산을 찾았던 개별 관광객(FIT)들이 인근 경남 지역으로 발걸음을 넓히는 ‘관광 낙수 효과’를 노리고 있다.&lt;br&gt;&lt;br&gt;심우진 경남도 관광정책과장은 “필리핀은 K-컬처 충성도가 매우 높고 숏폼 콘텐츠 소비가 가장 활발한 전략 시장 중 하나”라며 “메가 인플루언서들의 시선으로 담아낸 경남의 매력이 잠재 관광객들을 경남으로 이끄는 기폭제가 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘양주 아동학대’ 사망 세살 아이…부검서 “머리 손상” </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/16/GHDAUZFFEVB6XPPDN44IWZEGXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/GHDAUZFFEVB6XPPDN44IWZEGXU/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 06:07:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVA5Y5FYNDPRGAQW6B2KEJALQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청/김은진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주에서 아동 학대 의심으로 사망한 세 살 아이가 머리를 다쳐 숨진 것으로 추정된다는 국립과학수사연구원의 소견이 나왔다. &lt;br&gt;&lt;br&gt;경기북부경찰청은 국과수로부터 A(3)군에 대한 부검 결과 “두부 손상으로 사망한 것으로 보인다”는 1차 구두 소견을 전달받았다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;또한 A군의 복부에서 과거 출혈 흔적도 발견된 것으로 파악됐다. 경찰은 국과수 소견을 토대로 A군의 사망과 학대 행위의 연관성을 수사할 계획이다. &lt;br&gt;&lt;br&gt;더불어 경찰은 현재 A군의 부모에게 적용된 아동 학대 혐의를 아동 학대 치사 등으로 변경하는 것을 검토 중이다. &lt;br&gt;&lt;br&gt;앞서 지난 9일 오후 6시 40분쯤 양주시 옥정동의 한 아파트에서 A군이 의식 불명 상태에 빠져 병원으로 옮겨졌다. 당시 A군의 친부 B(20대)씨는 “쿵 하는 소리를 듣고 가보니 아이가 경련하고 있었다”고 했다. &lt;br&gt;&lt;br&gt;이후 아이를 진료하던 병원 측은 같은 날 오후 9시 30분쯤 “아동 학대가 의심되고 머리 외상이 있다”며 112에 신고했다. 경찰은 병원 소견과 보호자 진술, 기존 신고 이력 등을 종합해 아동학대 혐의점이 있다고 보고 지난 10일 오후 11시쯤 친부와 친모를 응급실에서 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 B씨는 작년 12월에도 A군에 대한 병원의 아동학대 의심 신고가 접수된 바 있다. 다만 이 사건은 당시 경찰과 검찰 수사 끝에 불기소 처분됐다.&lt;br&gt;&lt;br&gt;한편 A군이 사망하기 전 수사 당국이 청구한 친권 정지 임시조치를 법원이 받아들여 피의자인 부모의 친권은 정지된 상태였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김치통 속 1230만원·분당 37억 아파트… 檢 “범죄수익 끝까지 추적”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/IARZH5IIPFATJF2VCH76FMKJEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/IARZH5IIPFATJF2VCH76FMKJEQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 05:55:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INNQZWHKFFGPPCHEQ7WF4XU2HI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 범죄수익환수부가 지난 15일 추징금 39억8000만원을 미납한 A씨 주거지에서 압류한 금고 속 김치통. 김치통에는 현금 1230만원이 들어 있었다. /서울중앙지검 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 범죄수익환수부(부장 소정수)는 해외 불법 도박사이트를 운영해 추징금 39억8000만원이 확정된 A씨의 실거주지를 지난 15일 수색해 에르메스 버킨백 포함 1억원 상당의 명품 가방 8점과 현금 1230만원을 압류했다고 밝혔다. 현금은 A씨의 금고 안 김치통에 들어 있었다고 한다.&lt;br&gt;&lt;br&gt;또 검찰은 사설 선물 거래 사이트를 만든 혐의(자본시장법 위반) 등으로 추징금 28억8000만원이 확정된 B씨에 대해서도 B씨 배우자를 상대로 22억원 상당의 채권자대위 부당이득반환소송을 제기해 지난 14일 1심에서 승소(가집행 선고)했다고 했다. 검찰은 B씨 배우자 명의 아파트에 대한 강제 경매 절차를 진행할 예정이다. &lt;br&gt;&lt;br&gt;B씨는 2020년 7월 배우자 명의 차명 법인 자금과 배우자 명의를 이용해 경기 분당의 한 아파트를 22억원(현재 실거래가 36억5000만원)에 매수했다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “‘범죄수익은 결국 박탈된다’는 인식이 자리잡을 수 있도록 환수에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘F1 인천 그랑프리대회’ 경제성 있다… 인천시, 2028년 개최 추진</title>
       <link>https://www.chosun.com/national/regional/2026/04/16/J4TLKZ6FSVFBNF37PKMPRSPOPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/16/J4TLKZ6FSVFBNF37PKMPRSPOPM/</guid>
@@ -917,15 +925,6 @@
       <description/>
       <pubDate>Thu, 16 Apr 2026 02:55:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGYLPEMPMRAOBHPL4QS3QYJCVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장이 16일 시청 브리핑룸에서 F1 그랑프리 사전 타당성조사 결과를 발표하고 있다./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올림픽, 월드컵과 함께 세계 3대 스포츠 행사로 평가되는 F1(포뮬러1) 그랑프리 대회를 5년간 인천에서 개최했을 때 1조원이 넘는 편익이 발생해 경제성이 있는 것으로 분석됐다. 대회 개최 장소는 송도 달빛축제공원 인근이 적합한 것으로 판단됐다. 인천시는 이 같은 연구 결과를 바탕으로 2028년 대회 개최 준비를 본격화한다. &lt;br&gt;&lt;br&gt;인천시는 16일 ‘F1 인천 그랑프리 기본구상 및 사전타당성 조사 용역’ 결과를 발표했다. &lt;br&gt;&lt;br&gt;세계적 서킷 디자인 전문업체인 독일의 틸케(Tilke)와 한국산업개발연구원이 공동으로 진행한 이번 용역에선 대회를 5년간 개최했을 때 비용편익분석(B/C) 값이 1.45로 나왔다. 비용편익분석은 1.0 이상일 경우 경제적 타당성이 있는 것으로 본다. &lt;br&gt;&lt;br&gt;대회 개최에 8023억원의 비용이 들어가지만, 입장료, 스폰서십 등 8899억원의 직접편익과 관광수입 등 간접편익 2798억원 등 총 1조1697억원의 편익이 발생한다는 게 용역 분석 결과다.&lt;br&gt;&lt;br&gt;사업 주체의 수익 창출 가능성을 따지는 재무성 분석에서도 수익성 지수가 1.67로 파악돼 대회 개최로 수익 확보가 가능한 것으로 분석됐다. 중앙정부와 시가 지원할 예산 규모는 2371억원으로 추산됐다.&lt;br&gt;&lt;br&gt;용역에선 경기가 열리는 사흘 동안 총 30만∼40만명의 국내외 관광객이 방문하고, 5800억원 규모의 관광 수익과 4800명의 고용 창출 효과가 있을 것으로 예상됐다.&lt;br&gt;&lt;br&gt;레이싱이 펼쳐질 장소로는 송도 달빛축제공원 인근이 적합한 것으로 판단됐다. 평균 시속 230㎞, 최고 속도 337㎞로 달릴 수 있는 4960m 길이의 현대적인 F1 서킷 기준을 충족하는 시설 설치가 가능하고, 인천공항, 인천지하철 등 풍부한 교통 인프라가 갖춰져 있다는 점이 높게 평가됐다. 주변에 인천대교와 호수 등의 경치를 감상할 수 있다는 점도 고려됐다. &lt;br&gt;&lt;br&gt;용역 수행사는 송도와 영종, 청라 등 경제자유구역을 비롯해 미추홀구 문학경기장과 서구 아시아드주경기장, 청운대 제물포캠퍼스 등 7곳을 대상으로 검토해 이 같은 결론을 내렸다. &lt;br&gt;&lt;br&gt;인천시는 이번 용역 결과를 바탕으로, 정부와 국제경기대회지원법 시행령 개정, 대회 유치 승인 절차 등을 협의하고, 기업들에 사업 참여 의사를 타진해 민간 사업자를 공모할 방침이다.&lt;br&gt;&lt;br&gt;유정복 인천시장은 “2028년 대회 개최를 목표로 하고 있다”며 “F1 그랑프리는 단순한 스포츠 대회를 넘어 도시 브랜딩과 관광 산업의 판도를 바꿀 핵심 동력인 만큼, 인천을 공항만 거쳐가는 곳이 아닌 세계인이 방문하는 목적지로 만들겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D35YH4F3OFHFLH6LACBDEP3TNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;F1 인천 그랑프리 대회 시가지 서킷 조감도./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명·이준석 명예훼손’ 전한길 구속심사 출석...“범죄와 무관”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/RAHGEEXKVFBWTJQQ5PX3UWKOJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/RAHGEEXKVFBWTJQQ5PX3UWKOJU/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 02:18:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRWGNJSMZSGINBQGVRTQZJUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 전한길. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령과 이준석 개혁신당 대표에 대한 허위 사실을 유포해 명예를 훼손한 혐의를 받는 유튜버 전한길씨가 영장실질심사에 출석했다.&lt;br&gt;&lt;br&gt;서울중앙지법 김진만 영장전담 부장판사는 16일 오전 10시 30분부터 정보통신망법상 명예훼손과 전기통신기본법 위반 혐의를 받는 전씨에 대한 영장실질심사를 진행 중이다.&lt;br&gt;&lt;br&gt;전씨는 이날 오전 10시 3분쯤 법원에 도착한 후 취재진과 만나 “55년간 법 없이 살아왔고 전과도 없다”며 “이재명 정권이 탄생한 뒤 경찰서에 오게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;허위 사실 유포 혐의를 받는 전씨는 “언론 보도를 인용한 것”이라며 혐의를 부인했다. 전씨는 유튜브에서 이 대통령이 160조원 규모의 비자금을 조성했다는 주장과 함께 청와대 김현지 제1부속실장에 대한 허위 사생활 의혹을 제기한 바 있다. 이에 대해 전씨는 “내가 최초 보도한 게 아니고 이미 미국 언론에서 보도됐다”며 “의혹을 보도한 것이지 범죄하고는 상관이 없다”고 했다. &lt;br&gt;&lt;br&gt;이 대표의 하버드대 경제학 학사가 허위라는 주장에 대해선 “경제학 학사는 허위”라고 재차 강조했다. 전씨는 “경제학 학사를 취득하려면 4년 동안 16과목을 이수해야 하는데 (이 대표는) 5과목만 이수했다”며 “아무리 허술하다고 해도 하버드 경제학위를 그렇게 줄 리가 없다”고 했다.&lt;br&gt;&lt;br&gt;전씨는 유튜브 수익을 위해 각종 의혹을 보도한 게 아니냐는 지적을 받고 있기도 하다. 이에 대해 전씨는 “연간 3억원 정도 수익이 나오는데 이준석과 이재명을 언급하지 않아도 그 정도 수익은 들어오기 때문에 가짜 뉴스”라고 반박했다.&lt;br&gt;&lt;br&gt;해당 의혹을 수사한 서울경찰청 광역범죄수사대는 지난달 전씨를 세 차례 불러 조사했다. 이후 구속영장을 신청했고, 검찰은 지난 14일 영장을 청구했다. 경찰은 전씨가 가짜 뉴스를 담은 영상으로 3260만원 상당의 수익을 올렸다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘사기 무마’ 청탁 받은 경찰, 수사팀장 끌어들여… 룸살롱·금품 수수</title>
