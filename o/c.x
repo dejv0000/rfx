@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>자문위원들과 골프 친 해경서장… 유착 의혹으로 대기발령</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/04/17/SRNWSMY5URANVDRDOKQOFXXCPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/04/17/SRNWSMY5URANVDRDOKQOFXXCPQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 12:47:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DGOLCMRRDKMZRGZSGCMBVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산해양경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직무 관련자들과 골프를 쳐 유착 의혹이 불거진 전북 군산해양경찰서장이 대기 발령됐다.&lt;br&gt;&lt;br&gt;서해지방해양경찰청은 17일 오후 군산해양경찰서장을 대기 발령 조치했다고 밝혔다. &lt;br&gt;&lt;br&gt;오 서장은 최근 군산해경 정책 자문위원들과 여러 차례 골프를 쳤다는 의혹이 제기됐다. 해양경찰청 공무원 행동 강령에서는 직무 관련자와는 비용 부담 여부와 관계없이 골프를 같이해선 안 된다고 규정하고 있다.&lt;br&gt;&lt;br&gt;부득이하게 골프를 같이할 경우에는 신고해야 한다.&lt;br&gt;&lt;br&gt;정책 자문위원회는 사회 각계각층의 전문가들이 모인 단체로 위원들 중에는 해양 산업과 관련된 업체 대표 등이 다수 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서해해경청 관계자는 “부적절한 처신으로 정상적인 업무 수행이 곤란하다고 보고 오 서장을 대기 발령 조치했다”면서 “제기된 의혹에 대해 본청 차원에서 철저한 진상 조사를 진행하고, 부적절한 행위가 확인되면 엄정 조치하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘이우환 그림 공천청탁’ 김상민 前검사 항소심도 징역 6년 구형... 내달 8일 선고</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/17/UMEUZDLYBNC7FOTIM3F5EHLRBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/UMEUZDLYBNC7FOTIM3F5EHLRBY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 13:03:34 +0000</pubDate>
+      <content:encoded>김건희 여사에게 공천과 공직 임명을 청탁하며 이우환 화백의 그림을 건넨 혐의를 받는 김상민 전 부장검사에게 민중기 특별검사팀이 17일 징역 6년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HUPQ5CIMBJ5PNIM2BNHGCDH4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 부장검사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 이날 서울고법 형사6-2부(재판장 박정제) 심리로 열린 김 전 검사의 결심 공판에서 청탁금지법 위반 혐의에 대해 징역 3년, 정치자금법 위반 혐의에 대해 징역 3년, 추징금 4130만원을 선고해 달라고 요청했다. 1심과 같다.&lt;br&gt;&lt;br&gt;특검팀은 “문제의 그림은 진품 감정서가 없는 상황에서도 능히 100만원을 초과하는 것으로 추정돼 적어도 100만원을 초과하는 금품이라고 봄이 타당하다”며 “피고인에게 청탁금지법 위반 성립이 명백하다”고 했다. 이어 “피고인은 범행 당시 누구보다 법을 준수해야 할 부장검사인데도 공천 등 직무와 관련해 고가의 그림을 제공했다”며 “공천이 불발되자 국가정보원장 특별보좌관 자리를 보장받으면서 공직 인사의 투명성, 국민 신뢰를 훼손했다”고 주장했다.&lt;br&gt;&lt;br&gt;반면 김 전 검사 측은 문제의 그림이 위작이라 가치가 없어 혐의가 성립될 수 없다고 반박했다. 변호인은 “어떤 수사기관도 피고인이 인식한 가치만으로 공소를 제기한 적이 없다”며 “가치가 없는 위작을 건넸는데 ‘진품인 줄 알았다’는 이유로 처벌한다면 죄형법정주의에 반하는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;김 전 검사는 최후 진술에서 “검찰 조직 문화에서 윗사람은 아랫사람에게 비용 부담을 시키지 않는다”며 “선배(윤석열 전 대통령)를 배제하고 부인한테 선물 청탁을 한다는 것은 검찰 조직에 몸담아본 사람이라면 생각하기 어렵다. 대통령을 건너뛰고 제가 김 여사를 만난다는 것은 상상할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 1심은 해당 그림이 김 여사에게 전달되지 않았을 개연성이 있다며 정치자금법 위반 혐의만 유죄로 인정해 김 전 검사에게 징역 6개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안세영, 배드민턴계 부조리 폭로 공로로 민주평화상… 상금 5000만원 </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/17/FQUO26NJLZECDE5CA2XYPDSI5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/FQUO26NJLZECDE5CA2XYPDSI5Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 13:22:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GDHEQELFMJL2ZKUEMPEVPFPPWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 배드민턴 메이저 대회에서 그랜드슬램을 달성한 안세영(왼쪽 세 번째)이 17일 서울 중구 프레스센터에서 열린 제7회 4·19 민주평화상 시상식에서 민주평화상을 수상하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배드민턴 여자 단식 최강자 안세영이 배드민턴계의 부조리를 폭로한 공로 등으로 4·19 민주평화상을 받았다. &lt;br&gt;&lt;br&gt;안세영은 17일 서울 중구 한국프레스센터 내셔널프레스클럽에서 열린 제7회 4·19 민주평화상 시상식에서 “이 상은 저 혼자만의 결과가 아니라 함께해주신 모든 분의 노력과 마음이 모인 결과”라고 소감을 밝혔다.&lt;br&gt;&lt;br&gt;안세영은 “힘든 순간마다 저를 일으켜 세워준 것은 결과보다 과정의 의미를 믿게 해준 분들”이라며 “이 상의 의미를 잊지 않고 더 나은 방향으로 나아가는데 책임감을 갖고 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXPONQMJZZKDHJAOFDSSZBCDN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 배드민턴 메이저 대회에서 그랜드슬램을 달성한 안세영(오른쪽)과 반기문 전 유엔 사무총장이 17일 서울 중구 프레스센터에서 열린 제7회 4·19 민주평화상 시상식에서 인사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4·19 민주평화상 운영위원회는 “세계 최정상에 오른 이유만으로 안 선수가 본 상의 수상자로 선정된 것은 아니다”라며 “본 심사위원회가 특히 주목했던 점은 파리 올림픽 직후 우리나라 배드민턴계의 숨겨진 어두운 면에 대한 안 선수의 문제 제기였다”고 밝혔다. &lt;br&gt;&lt;br&gt;운영위는 “안 선수는 자신에게 돌아올 수 있는 불이익과 비난을 두려워하지 않고 진실을 알리는 용기를 보여 주었다”며 “그 결과 배드민턴계뿐 아니라 우리나라 체육계의 오래된 잘못된 관습과 부조리가 바로 잡히게 되는 계기가 마련되었다”고 평가했다. &lt;br&gt;&lt;br&gt;안세영은 지난 2024년 파리올림픽에서 여자 배드민턴 단식 종목 금메달을 딴 후 대표팀의 부상 관리 소홀과 배드민턴 협회의 후원사 용품 사용 강요 등 여러 부조리를 폭로한 바 있다.&lt;br&gt;&lt;br&gt;4·19 민주평화상은 서울대 문리과대학 동창회가 2020년 4·19 혁명 60주년을 맞아 제정했다. 수상자에게는 상금 5000만원과 상패가 수여된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MOSJHSODSNJGLPHLHZYC4XM4Q4.jpg?auth=ef4868ada3a07dc61ee06825163517df94e46a4e4c43aa1be7a540cb14b80c99&amp;smart=true&amp;width=4231&amp;height=2821" type="image/jpeg" height="2821" width="4231">
+        <media:description type="plain">&lt;YONHAP PHOTO-5606&gt; 국기에 경례하는 안세영
+    (서울=연합뉴스) 임화영 기자 = 세계 배드민턴 메이저 대회에서 그랜드슬램을 달성한 안세영이 17일 서울 중구 프레스센터에서 열린 제7회 4·19 민주평화상 시상식에서 국기에 경례하고 있다. 2026.4.17
+    hwayoung7@yna.co.kr/2026-04-17 17:49:05/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">임화영</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“늑구(Neukgu)는 자유의 상징”… 외신도 생포 소식 집중 보도</title>
       <link>https://www.chosun.com/national/national_general/2026/04/17/KHSGDCZRNRC2DPPZLEEVCSLY34/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/KHSGDCZRNRC2DPPZLEEVCSLY34/</guid>
@@ -889,33 +923,6 @@
       <description/>
       <pubDate>Thu, 16 Apr 2026 07:20:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBJZPAK5EXOWW7LDSCVZ4ZTFOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사람유두종바이러스(HPV) 백신을 접종하는 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;질병관리청이 다음 달부터 12세 남성 청소년(2014년생)을 대상으로 사람유두종바이러스(HPV) 백신 국가 예방접종을 지원한다고 16일 밝혔다. HPV 바이러스는 자궁경부암의 원인으로 잘 알려진 바이러스다. 이 때문에 정부가 나서서 2016년부터 여성 청소년들에게 예방접종을 해왔는데, 이번에 이를 남성 청소년으로 확대하는 것이다. &lt;br&gt;&lt;br&gt;그간 여성계와 산부인과 학계 등에선 ‘접종 대상 확대’ 주장이 계속 제기돼왔다. 여성이 이 바이러스를 보유한 남성에게 감염돼 자궁경부암에 걸릴 수 있다는 점 때문이었다. 남성 청소년도 예방접종을 맞으면 항문암, 생식기 사마귀, 항문 상피 내 종양 등을 예방할 수 있다는 점 역시 대상 확대 주장에 힘을 실었다.&lt;br&gt;&lt;br&gt;하지만 이를 놓고 “다른 시급한 백신이 많은 상황에서 굳이 이를 국가 예방접종하는 것은 포퓰리즘적 결정”이란 지적도 나온다.&lt;br&gt;&lt;br&gt;HPV 백신 접종이 학계에서 주장하는 국가 예방접종 우선순위에서는 한참 뒤에 있다는 사실 때문이다. 앞서 질병청은 2023년 고려대 산학협력단에 의뢰해 백신 도입 우선순위를 연구했는데, 지금처럼 남성 청소년에게 HPV 백신을 확대하자는 안은 14위에 불과했다. 현재 영유아·노인만 대상으로 하는 인플루엔자(독감) 백신 접종 대상을 성인 만성 질환자로 늘리자는 안, 노인 대상 폐렴구균 백신을 예방 효과가 더 뛰어난 백신으로 바꾸자는 안, 대상포진 백신 도입안 등이 상위권에 있었으나 무산됐다. 마상혁 전 대한백신학회 부회장(경남의사회 공공의료대책 위원장)은 “훨씬 시급하게 도입돼야 하는 백신이 많음에도 전문가 의견은 무시하고 여성계만 의식한 포퓰리즘적인 결정을 한 셈”이라고 지적했다.&lt;br&gt;&lt;br&gt;특히 이번 HPV 백신 접종 확대는 그간 백신 도입을 주장해 온 산부인과 학회에서도 환영받지 못하고 있다. 현재 전 세계적 추세는 9가지 유형의 바이러스를 막을 수 있는 9가 백신을 도입하는 분위기인데, 현재 한국의 국가 예방접종 백신은 4가 백신이다. 자궁경부암 기준 9가의 예방 효과는 90%, 4가는 70% 정도로 알려져 있다. 굳이 정책의 우선순위를 정하자면 여성 청소년에게 9가 백신을 접종해 주는 게 필요한데, 그보다 4가 백신의 접종 대상만 늘린 셈이다. 학회 관계자는 “4가 백신은 세계보건기구(WHO)나 유니세프 등 국제기구가 개발도상국·후진국에 지원해주는 경우가 많을 정도로 현재는 수요가 적은 백신”이라며 “시급히 9가 백신으로 전환할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;질병청은 재원이 한정돼 학계의 우선순위를 있는 그대로 반영하기는 어렵다는 입장이다. 하지만 비용을 고려해도 여성 청소년 대상 9가 백신 도입이 남녀 전체 대상 4가 백신 접종보다는 비용이 적은 것으로 나타났다. 연구에 따르면 남성 청소년 대상 4가 백신 접종 소요 예산은 279억원으로 여성 청소년 대상 9가 백신 접종 예산 117억원보다 많은 것으로 나타났다. 학계 우선순위 1위인 만성 질환자 독감 예방 접종은 1031억원이 드는 것으로 산출됐다. 이 밖에 폐렴구균 백신은 445억원, 대상포진 백신은 282억원이 드는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘삼부토건 이기훈 도주 조력’ 코스닥 상장사 회장, 1심 징역 1년6월</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/VGQVFTUTCRG3BAVVSLLUMBXFZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/VGQVFTUTCRG3BAVVSLLUMBXFZI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 07:17:56 +0000</pubDate>
-      <content:encoded>‘삼부토건 주가조작’ 사건의 ‘키맨’으로 꼽힌 이기훈 전 부회장의 도주를 도운 코스닥 상장사 이진훈 회장이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNJNVSSZSKGJ7DMVKTLEASLVUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'삼부토건 주가조작' 사건으로 수사받다가 도주한 이기훈 삼부토건 부회장(겸 웰바이오텍 회장). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 16일 범인도피·범인은닉 혐의로 구속 기소된 이 회장에게 징역 1년 6개월을 선고했다. 앞서 검찰은 징역 3년을 구형했었다.&lt;br&gt;&lt;br&gt;이 전 부회장에게 생필품과 대포폰 등을 제공하며 장기간 도주를 도운 공범 A씨에게는 징역 1년을 선고하고 법정 구속했다. 나머지 공범 5명에게는 징역 6~10개월에 집행유예 2년, 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;이 회장 등은 지난해 7월 구속영장 심사를 앞두고 도주한 이기훈 전 삼부토건 부회장을 숨기기 위해 경기 포천시의 별장과 가평군의 한 펜션 등을 은신처로 제공한 혐의를 받는다. 이 과정에서 데이터 에그와 유심을 따로 보관하는 방식으로 수사기관의 위치 추적을 방해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “법원의 구속 전 피의자 심문(구속영장 실질심사)을 앞둔 수사 대상자 이기훈을 도피시키기 위해 다수인의 역할을 분담하고 치밀하게 조직적, 계획적으로 모의한 범죄”라며 “이 범행으로 수사기관이 이기훈을 찾는 데 상당한 인력과 시간을 투입하고 수사에 차질을 빚는 등 죄책이 무겁다”고 지적했다.&lt;br&gt;&lt;br&gt;특히 이진훈 회장에 대해 “여러 사람을 끌어들인 이 사건 범행의 주범으로서 죄질이 가장 무겁다”며 “본인 스스로도 자본시장법 위반 혐의로 재판을 받던 중 보석으로 석방된 상태였음에도 또다시 범행을 저질러 엄중한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;이 전 부회장은 55일의 도주 끝에 9월 10일 수사기관에 체포됐다. 그는 2023년 5∼6월 삼부토건 주가조작에 가담해 약 369억원의 부당이익을 챙긴 혐의로 지난해 9월 26일 구속 기소돼 재판받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘직원 성폭행 시도’ 김가네 회장 “구속되면 가맹점주에 큰 피해”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/16/UYJMDW2KHFEADMFYK2EN47J55U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/UYJMDW2KHFEADMFYK2EN47J55U/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 06:27:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TQOLFGNSDQNRTGRRTCZJWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용만 김가네 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회식 중 술에 취한 여성 직원을 성폭행하려 한 혐의로 재판에 넘겨진 유명 분식 프랜차이즈 김가네 김용만 회장에게 징역형이 구형됐다.&lt;br&gt;&lt;br&gt;16일 검찰은 서울북부지법 형사합의14부(오병희 부장판사) 심리로 열린 김 회장의 준강간미수 혐의 1심 첫 공판에서 이 같은 형을 선고해달라고 요청했다. 성폭력 치료프로그램 이수와 신상정보 공개·고지, 취업제한 5년도 함께 요청했다.&lt;br&gt;&lt;br&gt;김 회장은 지난 2023년 9월 회식 자리에서 술에 취해 항거 불능 상태였던 여직원을 근처 모텔로 데려가 성폭행하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 공판에서 김 회장 측 변호인은 “사건 직후 피해자와 합의해 사실상 종결된 사안이었으나 이혼 소송 중인 배우자의 고발로 수사가 다시 시작돼 기소에 이르게 됐다”며 선처를 요청했다.&lt;br&gt;&lt;br&gt;김 회장은 최후진술을 통해 “저지른 잘못을 깊이 반성한다”면서도 “제가 구속될 경우 가맹점주와 직원들의 생계에 큰 피해가 갈 수 있다. 남은 인생은 서민을 위한 음식을 만들어 사회에 봉사하는 등 회사 운영에 매진하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 회장에 대한 선고 공판은 다음 달 21일 오전 10시에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검, ‘한덕수 재판 위증’ 尹에 징역 2년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/JM3RYHPPEJEP3OVFW26ZLUTNF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/JM3RYHPPEJEP3OVFW26ZLUTNF4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 06:19:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDQYRTMQ2WGYTFGM3TOM3EMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난해 11월 19일 서울 서초동 서울중앙지법에서 한덕수 전 국무총리의 내란 혐의 재판에 증인으로 출석해 증언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포 전 국무회의를 개최하려 했다는 취지로 허위 증언한 혐의로 기소된 윤석열 전 대통령에게 조은석 내란 특별검사팀이 징역 2년을 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 16일 서울중앙지법 형사32부(재판장 류경진) 심리로 열린 윤 전 대통령의 위증 혐의 사건 결심 공판에서 이같이 구형했다.&lt;br&gt;&lt;br&gt;특검팀은 “위증죄는 사법기관의 실체적 진실 발견을 어렵게 하고 나아가 국가의 사법 기능 전체를 해하는 중대한 범죄”라며 “피고인은 20년 넘도록 검사로 근무했던 사람으로 위증죄의 엄중함을 너무나도 잘 알고 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 대통령으로서 헌법과 법률을 수호하고 국민의 생명과 신체를 보호해야 할 의무가 있음에도 이를 저버린 채 비상계엄을 선포해 국가적 혼란을 야기하고 대외 신인도에도 악영향을 줬다”며 “그럼에도 계엄의 진실을 밝히려는 재판을 지켜보는 국민의 기대를 저버리고 거짓 진술을 해 죄책이 매우 무겁다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “현재도 반성하는 대신 범행을 부인하고 진실을 은폐하기 위해 거짓 주장을 반복하고 있다”며 재판부에 징역 2년을 선고해 달라고 요청했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 최후진술에서 “(국무위원) 전원을 소집해 미리 안건을 알려줬다면 전국 도심에서 치안 수요가 많아지고 병력 투입이 늘어나는 등 관리가 안 되는 상황이 올 수 있다”며 “계엄과 관련해 필수적이라고 판단되는 국무위원들을 순차적으로 불렀다”고 했다.&lt;br&gt;&lt;br&gt;이어 “최소한의 병력 투입과 보안 유지를 위해 전원 소집이 어려웠던 사정을 고려해 달라”며“국무회의는 자문 회의로서 대통령의 의사결정을 귀속하지는 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 작년 11월 19일 한덕수 전 국무총리의 내란 중요 임무 종사 등 혐의 재판에 증인으로 출석해 국무회의를 사전에 개최할 계획이 있었던 것처럼 허위 증언한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 당시 재판에서 “한 전 총리가 합법적 외관을 갖추기 위해 국무회의를 소집하자고 건의했느냐”는 특검 측 질문에 “국무위원들이 외관을 갖추려고 온 인형도 아니고, 너무 의사가 반영된 질문 아니냐”고 말했다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 당초 국무회의를 열 의사가 없었으나, 한 전 총리의 건의를 계기로 뒤늦게 회의를 연 것으로 보고 있다.&lt;br&gt;&lt;br&gt;재판부는 이날 변론을 종결하고 오는 5월 28일 오전 10시에 선고하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘F1 인천 그랑프리대회’ 경제성 있다… 인천시, 2028년 개최 추진</title>
