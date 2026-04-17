@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“결말 알아도 오빠 선택할 거야” 순직 소방관 예비신부가 하늘로 보낸 편지 </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/18/H3QBAMSHQZFVPPDZNZW4OMPSSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/H3QBAMSHQZFVPPDZNZW4OMPSSM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 22:41:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2ZMAC6W4FC3DAKOZVELL7G3MA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 전남 완도군의 한 냉동창고에서 화재진압중 순직한 박승원 소방경과 노태영 소방교의 영결식이 유족과 동료 소방관들의 오열 속에 완도군농어민문화체육센터에서 열렸다./ 김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 완도 냉동창고 화재 진압 중 순직한 소방관의 예비 신부가 쓴 글이 전해지면서 온라인상에는 애도의 물결이 이어지고 있다. &lt;br&gt;&lt;br&gt;오는 10월 결혼을 앞두고 있었던 고(故) 노태영(30) 소방교의 예비 신부는 지난 16일 소셜미디어에 “사랑한다는 말로도 부족한 바보같이 착한 우리 남편”이라며 추모 편지를 올렸다.&lt;br&gt;&lt;br&gt;예비 신부는 “얼마나 뜨겁고 무섭고 두려웠을까. 아직도 나는 4월 12일 아침에 머물러 있다”며 “실종 연락을 받고 가슴이 먹먹해지고 세상이 무너졌다”고 했다. 이어 “오빠는 항상 가정이 있어도 가장 먼저 들어가서 늦게 나올 것 같다고 말했었지”라며 고인의 사명감을 떠올렸다.&lt;br&gt;&lt;br&gt;예비 신부는 “3년이라는 시간 동안 잘해준 기억만 남아 마음이 더욱 힘들다. 미운 모습이라도 있으면 그걸 탓하며 살 텐데, 탓할 것도 없이 후회만 한다”며 “우리의 결말을 알고 있어도 똑같이 오빠를 선택할 거야. 내 인생 가장 행복한 순간들을 만들어줘서 고맙다”고 했다. 그는 “자주 보러 갈게. 우리 남편 사랑하고 또 사랑해”라며 마지막 인사를 건넸다.&lt;br&gt;&lt;br&gt;이 글에는 “오래 기억하겠다. 삼가 고인의 명복을 빈다” “결말을 알아도 다시 선택하겠다는 말에 가슴이 미어진다” 등 1300개가 넘는 추모와 위로의 댓글이 달렸다. &lt;br&gt;&lt;br&gt;지난 12일 오전 8시 25분쯤 전남 완도군 군외면의 한 냉동 창고에서 화재가 발생해 소방대원들이 출동했다. 당시 노 소방교와 박승원 소방경은 인명을 구조하고 내부로 재진입했다가 고립됐고, 동료들에게 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;순직한 박 소방경은 슬하에 1남 2녀를 둔 가장이었다. 지난 14일 완도 농어민문화체육센터에서 열린 순직 소방관들의 영결식에서 박 소방경의 고등학생 아들 박 군은 아버지를 향해 “나의 영웅이자 정말 멋진 남자”라며 “엄마와 두 동생은 가장으로서 내가 잘 챙기겠다. 아빠처럼 무슨 일이든 묵묵히 해내는 가장이 될 테니 지켜봐 달라”고 했다.&lt;br&gt;&lt;br&gt;정부는 두 소방관의 희생을 기려 옥조근정훈장을 추서했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“삼전·하이닉스 억대 성과급 지역화폐로 지급하라” 온라인 황당 주장 </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/18/JW2ID5SLIREYTAKOGA3XZLBNQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/JW2ID5SLIREYTAKOGA3XZLBNQY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Apr 2026 22:17:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3DSN3FGFTDQZRVMI4TSYTFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자와 SK하이닉스./각사 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반도체 업계 호황으로 삼성전자와 SK하이닉스 임직원의 내년 성과급이 수억 원에 달할 것이라는 전망이 나온 가운데, 온라인에서 내수 경기를 살리기 위해 성과급을 지역 화폐로 지급해야 한다는 황당한 주장이 나오고 있다. &lt;br&gt;&lt;br&gt;18일 직장인 익명 커뮤니티 ‘블라인드’ 등 온라인에는 이 같은 주장이 잇따라 올라왔다. 한 네티즌은 “지역 화폐 성과급 괜찮다. 대기업이 혼자 이뤘나 국민이 같이 이뤘지. 내수 경제에 맞게, 부동산에 안 흘러가게 (지역 화폐로 주자)”라고 했다.&lt;br&gt;&lt;br&gt;또 다른 네티즌은 “하이닉스 성과급은 왜 하이닉스만 받느냐”며 “하이닉스 망하고 산은(산업은행) 통해서 국세 털어서 부활시켰는데 그럼 당연히 하이닉스 성과급도 전 국민이 같이 나눠야 하는 거 아닌가”라고 했다.&lt;br&gt;&lt;br&gt;이 밖에도 “1억 이상 성과급은 지역 화폐로 지급하라, 1년 안에 못 쓰면 국고 환수하라” “초고액 성과급에 별도 과세를 하자” 등의 의견도 올라왔다.&lt;br&gt;&lt;br&gt;이런 주장이 나온 배경에는 반도체 산업이 정부의 지원 아래 성장했다는 인식이 있다. 반도체 공장 건설을 위한 도로·전력·용수 공급 등 기반 시설 구축이 이뤄졌고, 세액 공제 및 반도체 불황기 산업은행의 저리 대출 혜택을 받았다는 것이다. &lt;br&gt;&lt;br&gt;업황 호조에 따라 역대급 성과급 전망이 나오면서 이런 주장에 힘이 실렸다. SK하이닉스는 영업이익의 10%를 성과급으로 지급하는 초과이익분배금(PS) 제도를 운영 중이다. 올해 영업이익을 200조원으로 예상되면서 약 20조원이 성과급으로 쓰일 수 있다. 임직원 약 3만5000명을 기준으로 계산하면 내년 지급되는 1인당 성과급은 5억~6억원에 이른다.&lt;br&gt;&lt;br&gt;삼성전자 노조도 영업이익의 15%를 성과급으로 배분하라고 요구하고 있다. 증권사들은 삼성전자의 올해 영업이익으로 약 300조원을 전망했다. 노조가 요구하는 대로 삼성전자가 영업이익의 15%를 성과급 재원으로 활용하면 45조원 규모에 달한다. 이걸 직원수로 나누면 1인당 평균 성과급은 5억원대에 이른다. &lt;br&gt;&lt;br&gt;반면 성과급 지역화폐 지급 방안이 비현실적이고 재산권을 침해한다는 의견도 있다. 네티즌들은 “공무원 월급도 지역화폐로 받지 그러느냐” “성과를 나누고 싶다면 주식을 사거나 입사하면 될 일이지, 일괄적 분배 요구는 과도하다” “세금을 얼마나 내는지 알고 있느냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#18세스노보더유승은#사장과알바</title>
       <link>https://www.chosun.com/national/weekend/2026/04/18/NDZGKXEZSRCYTPMXEUGERHJ5NE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/04/18/NDZGKXEZSRCYTPMXEUGERHJ5NE/</guid>
@@ -801,24 +819,6 @@
       <description/>
       <pubDate>Thu, 16 Apr 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNOI743A3VDLLIHGJSU4V4RLQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-4-17일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 10일 ‘우리 아기가 태어났어요’ 코너에 실린 이로하&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“육아 부담 무게 100㎏라면 행복은 최소 1000㎏예요”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/17/MS2TXZNCJJBQFLJV3URM6VRDVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/17/MS2TXZNCJJBQFLJV3URM6VRDVI/</guid>
-      <dc:creator>구리=조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SS2NSDJAGFHBHCZLQZAQWJUC3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권다솔(뒷줄 맨 왼쪽)씨와 남편 백영걸씨가 15일 경기 구리시의 자택에서 다혜, 시언, 다은이(앞줄 왼쪽부터)와 함께 카메라를 향해 손을 흔드는 모습. 놀다가 토라진 다혜가 무표정한 표정을 짓자 웃던 다은이도 덩달아 표정이 굳어졌다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현관문이 열리자, 안에 있던 아이들의 웃음소리가 15층 아파트 복도 전체로 울려 퍼졌다. 15일 저녁 경기 구리시의 한 아파트에서 세쌍둥이 시언(4·아들)·다은(4·딸)·다혜(4·딸)가 엄마 권다솔(34)씨와 아빠 백영걸(39)씨에게 업히거나 매달리면서 깔깔대고 있었다. 삼 남매는 퇴근해 거실 소파에서 쉬고 있는 엄마의 다리에 서로 올라가 앉으려고 쟁탈을 벌이기도 했다. 시언이가 엄마 다리를 차지하고 내려오지 않자, 막내인 다혜가 토라져 뚱한 표정으로 팔짱을 끼고 엄마를 등졌다. 순간 아빠가 다혜를 번쩍 들어 무릎에 앉히자, 다혜 표정이 풀렸다. &lt;br&gt;&lt;br&gt;엄마 권씨는 사회복지사다. 회사원인 남편 백씨는 현재 육아 휴직(1년) 중이다. 부부는 시험관 시술을 통해 2021년 세쌍둥이를 임신했다. “기다리던 임신 소식이라 너무 기뻤지만, 세쌍둥이가 모두 건강하게 태어날 수 있을지 걱정이 됐다”고 했다. 세쌍둥이 임신은 조산 등의 가능성이 높은 ‘고위험 임신’으로 통한다. 백씨는 “주변에선 아내의 안전을 위해서라도 (태아 하나를 줄이는) 선택적 유산을 생각해 보라고 했다”고 말했다. 하지만 아내 권씨는 병원 초음파 검사로 세 아이의 심장 박동 소리를 듣고 나서부터는 세쌍둥이 중 한 명도 포기하지 않기로 마음먹었다고 한다. &lt;br&gt;&lt;br&gt;2022년 5월 4일 오전 10시 26분, 아들 시언이가 세상으로 나왔다. 이후 1분 간격으로 다은이와 다혜가 태어났다. 권씨는 “세 아이가 모두 무사히 태어나 우는 걸 보고 안도감에 수술대에 누운 채로 펑펑 울었다”고 했다. &lt;br&gt;&lt;br&gt;권씨 부부의 ‘정신 없는 하루’는 새벽 6시에 시작된다. 권씨가 출근 준비를 할 동안 남편 백씨는 아이들 유치원 가방을 싸고 아침을 차린다. 아침 7시에 아이들을 깨운다. 권씨는 아이들 아침을 먹이다가 집을 나서 서울 송파구 직장으로 출근한다. 이때부터 세쌍둥이의 식사, 양치, 세수, 머리 땋기와 옷 입히기는 남편 백씨와 친정 어머니가 맡는다. 백씨는 “아침 8시 10분에 유치원 통학 버스가 아파트 정문으로 온다”며 “아이들과 어떤 옷을 입을지 실랑이를 벌이면 정말 시간에 쫓기게 된다”고 했다. &lt;br&gt;&lt;br&gt;백씨는 오후 3시 30분이 다가오면 집에 있는 분홍색 킥보드 3대를 양손에 들고 아파트 정문으로 가서 하원하는 아이들을 기다린다. 세쌍둥이는 바로 킥보드를 타고 아파트 단지 곳곳을 누비고, 백씨는 아이들을 쫓아 뛰어다닌다. 아내 권씨는 저녁 7시 30분쯤 귀가한다. &lt;br&gt;&lt;br&gt;권씨는 “세쌍둥이 육아는 여전히 호락호락하지 않다”며 “출산 직후 혼자 육아를 할 땐 아이들이 울면 한 명은 업고, 또 한 명은 안았는데도 여전히 한 명이 남아 쩔쩔매다가 제가 주저앉아 울 때도 많았다”고 했다. 선천적으로 심장이 약했던 시언이는 생후 100일 만에 심장 수술을 받았다. 백씨는 “의사 선생님이 ‘아이 생명이 위험할 수도 있다’고 했다”며 “다행히 수술이 잘 끝나 지금은 우리 집 최고 개구쟁이가 됐다”고 했다. 이들 부부는 “세쌍둥이를 낳지 않았으면 어쩔 뻔 했나라는 생각이 들 때가 많다”고 했다. 권씨는 “제가 표정이 안 좋으면 아이들이 슬며시 와서 뽀뽀도 해주고 등도 토닥여준다”며 “시언이는 ‘엄마 힘들지?’라면서 제 손과 발 여기저기에 반창고를 붙여준다(웃음)”고 했다. &lt;br&gt;&lt;br&gt;남편 백씨는 작년 11월부터 6개월째 육아 휴직 중이다. 그동안 그는 아이들이 일어나기 전에 서울의 직장으로 출근했고, 아이들이 잠자리에 든 뒤 집에 들어오는 경우가 많았다고 한다. 백씨는 “주말에 아이들과 놀려고 하면 ‘아빠 저리 가’라며 피하더라”며 “제가 밥 먹여주는 것도, 옷 입혀주는 것도 싫어하는 걸 보고 지금이 아이들과 친해질 수 있는 마지막 기회라는 생각에 휴직계를 냈다”고 했다. 그는 “요즘은 아이들에게 공룡 책도 읽어주고 같이 숨바꼭질도 할 정도로 친해졌다”며 “예전 상태로 아이들이 자랐다면 날 ‘돈 버는 사람’으로만 생각했을 것 같다”고 했다. 시언이는 “아빠가 집에 있으니 재밌다”고 했고, 다은이는 “아빠랑 놀아서 좋다”고 했다. &lt;br&gt;&lt;br&gt;아내 권씨는 “엄마가 눈치 보지 않고 아이들을 키울 수 있는 환경이 됐으면 좋겠다”며 “월급은 적게 받더라도 아이가 어느 정도 클 때까진 엄마가 오전에만 일하는 등의 단축 근무를 마음 놓고 쓸 수 있는 사회 분위기가 되면 좋겠다”고 했다. 그는 “요즘 젊은 층이 출산을 기피하는 이유가 뭐라고 보느냐”는 질문에 “다들 고단해서 그런 것 같다”고 했다. 이어 “예전에는 열심히 일해서 적금 붓고 하면 내 집 마련을 할 수 있었지만 지금은 아니지 않나”라며 “저희만 해도 다자녀 (아파트) 청약이 있지만 당첨이 된다 해도 높은 분양가를 감당하기 어렵다”고 했다. 그러면서도 부부는 “(출산을 고민하는 이들에게) 아이를 낳아 기르는 건 해볼 만한 일이라고 말해주고 싶다”고 했다. 아내 권씨는 “세쌍둥이 육아 부담의 무게가 100㎏이라면, 행복의 무게는 최소 1000㎏”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 양소라·노경배 딸 지우 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/17/NZ2ZGLWTEBBB7PU5S423IL5ILI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/17/NZ2ZGLWTEBBB7PU5S423IL5ILI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHPWDSAN6NBGHMZVTXDMWHPIPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘국민 여동생’ 문근영, 벌써 40대...희귀병 완치 후 모습 공개</title>
