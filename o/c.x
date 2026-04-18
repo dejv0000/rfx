@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>보석 석방된 전광훈 “대한민국 망했다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/18/O4QPSFBXEVFCRCQW3DRHGHEK6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/O4QPSFBXEVFCRCQW3DRHGHEK6I/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 08:45:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRWKMRVGI4WKNJRGQ4WMY3FGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 사랑제일교회 목사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태의 배후로 지목돼 구속 기소됐다가 보석으로 풀려난 상태에서 재판을 받고 있는 전광훈 사랑제일교회 목사가 18일 광화문 집회 현장에 참석했다.&lt;br&gt;&lt;br&gt;전 목사는 이날 오후 서울 종로구 동화면세점 앞에서 열린 대한민국바로세우기국민운동본부(대국본) 집회 무대에 올라 “대한민국은 이미 망했다”며 “북한에 나라를 넘겨주면 안 되기 때문에 20년 광화문 운동을 지켜왔다”고 주장했다. 전 목사는 약 3분 만에 발언을 마치고 무대 아래로 내려갔다. &lt;br&gt;&lt;br&gt;그가 보석 후 집회 현장에 직접 나온 것은 처음이다. 전 목사는 지난 12일 광화문 광장 주말 예배에 영상으로 모습을 드러낸 바 있다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난 7일 전 목사가 당뇨병에 의한 비뇨기과 질환으로 주기적으로 병원 치료를 받아야 하는 점, 얼굴이 널리 알려져 도주하기 쉽지 않은 점 등을 고려해 사건 관계인 7인 접촉 금지 등을 조건으로 보석을 허가했다. 집회 참석 제한 조건은 없다.&lt;br&gt;&lt;br&gt;그는 지난해 1월 19일 새벽 윤석열 전 대통령 구속 직후 지지자들이 서부지법에 난입해 집기를 부수고 경찰을 폭행하도록 부추긴 혐의로 지난 2월 구속 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 전 목사가 사랑제일교회 신도와 광화문 집회 참가자 등에게 ‘국민 저항권으로 반국가 세력을 처단해야 한다’는 취지의 발언을 해 난동을 부추겼다고 봤다. 전 목사는 “당시 저는 자고 있었는데 어떻게 교사를 할 수 있느냐”며 “사건 자체도 출국을 위해 찾은 공항에 가서야 알았다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;한편 이날 집회에는 한국사 강사 출신 유튜버 전한길씨도 참석했다. 전씨는 이재명 대통령과 이준석 개혁신당 대표의 명예를 훼손한 혐의 등으로 구속영장이 청구됐으나 지난 16일 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘이종섭 출국금지 정보 누설’ 공수처 관계자 고발 사건 각하</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/18/VQOBBTCD35HIZEFAGQ5QU2VYGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/VQOBBTCD35HIZEFAGQ5QU2VYGQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 08:42:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDCZBXGJSDCMJZGZSWCMTFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방부 장관. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처) 관계자들이 이종섭 전 국방부 장관의 출국 금지 여부 등 수사 기밀을 언론에 알려줬다며 제기된 고발 사건을 검찰이 각하 처분한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 서울중앙지검 형사1부(부장 신도욱)는 성명불상의 공수처 관계자들이 언론에 이 전 장관의 출국 금지 사실을 누설했다는 내용의 공무상비밀누설 고발 사건을 지난 10일 각하 처분했다. 각하란 소송 요건이 맞지 않을 때 조사 없이 불기소 처분을 내리고 사건을 종결하는 조치다.&lt;br&gt;&lt;br&gt;이종배 전 국민의힘 서울시의원은 지난 2024년 3월 성명 불상의 공수처 관계자들을 공무상 비밀누설 혐의로 서울중앙지검에 고발했다. &lt;br&gt;&lt;br&gt;윤석열 전 대통령은 해당 보도 이틀 전인 2024년 3월 4일 이 전 장관을 주호주대사로 임명했다. 당시 이 전 장관은 폭우 실종자 수색 중 순직한 해병대 고(故) 채수근 상병 사망 사건 조사 결과를 보고받고 결재했다가 경찰 이첩을 보류하고 법리 검토를 다시 하라며 회수하라고 지시했다는 혐의(직권남용) 등으로 공수처에 고발된 상태였다.&lt;br&gt;&lt;br&gt;검찰은 고발 내용이 이 전 시의원의 추측에 근거하고 있다며 수사를 개시할 구체적인 이유가 부족하다고 결론 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 4월 19일 일요일 (음력 3월 3일 癸亥)</title>
       <link>https://www.chosun.com/national/national_general/2026/04/18/F3YPVNLQDZCIBMBGUWMBEESBZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/F3YPVNLQDZCIBMBGUWMBEESBZI/</guid>
@@ -876,15 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRRWPJWA65OANFMNTWNENBGC5E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김 총리는 16일 오후 전남 여수시 여수엑스포기념관을 찾아 전남도와 여수시, 박람회 조직위원회 관계자들로부터 박람회 준비 상황을 보고받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 9월 개막하는 여수 세계 섬 박람회가 준비 부족으로 ‘제2의 잼버리’가 될 수 있다는 우려가 나온 가운데, 김민석 국무총리가 16일 전남 여수를 찾아 행사 준비 상황을 점검했다.&lt;br&gt;&lt;br&gt;여수 섬 박람회는 여수시가 이달 초 지방자치단체 공무원 출신 유튜버 ‘충주맨’ 김선태씨를 불러 만든 홍보 영상을 통해 미흡한 준비 실태가 알려지면서 논란이 됐다. 김씨는 터만 닦고 있는 박람회 행사장에 와서 “공사장인데, 여길 왜 데려왔느냐”고 지적하고, 박람회 예정지라고 안내받고 찾아간 무인도가 기초적인 접안 시설조차 갖춰져 있지 않은 모습을 보여줬다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오후 전남 여수시 여수엑스포기념관을 방문해 전남도와 여수시, 박람회 조직위원회 관계자들로부터 박람회 준비 상황을 보고받았다. 조직위 관계자는 ‘계획대로 진도가 나가고 있다’고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이들에게 “며칠 전 국무회의 때 대통령님께서 ‘여수 세계 섬 박람회가 광주·전남 통합 이후 첫 국제 행사로 예정돼 있는데, 여기저기에서 준비가 잘되고 있는지에 대한 궁금함과 걱정이 있고, 지방선거 때문에 광역자치단체나 여수시가 (박람회 준비에 대한) 집중력이 떨어질 수 있으니 살펴보는 게 좋겠다’고 말씀하셔서 내가 급하게 오게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 여수 세계 섬 박람회가 예산 600여억 원을 투입하고도 개막을 5개월 앞둔 지금까지 거의 준비되지 않았다는 지적이 나왔다. 그러자 이재명 대통령은 14일 국무회의에서 “인프라 조성과 홍보 등에 박차를 가해야 하는 시점인데, 현장에서 우려의 목소리가 나온다”며 “지방선거로 인한 행정 공백 가능성을 감안하면, 대회 준비를 전적으로 지방정부에만 맡겨두기가 만만치 않다. 중앙정부 차원에서 준비 상황을 빈틈없이 점검하고 필요한 지원을 해주면 좋겠다”고 당부했다.&lt;br&gt;&lt;br&gt;김 총리는 박람회 관계자들에게 “오늘은 전체 상황(에 관한 설명)을 말로 듣는 것을 주로 하고, 다음 주에 한 번 더 오겠다”고 했다. 그는 “한두 번 더 와 보고 종합적인 판단을 해서, 보완돼야 할 부분이 어떤 것이 있는지, 중앙정부가 어떤 의견을 낼 수 있는지를 그때 말하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 또 “기본적으로 이것은 여수시가 준비한 국제 행사이고, 여수 시민의 세금이 투입되는 것”이라며 “그만큼 여수시가 주도성과 책임성을 갖고 임하는 것이 당연하다”고 했다. 이어 “중앙정부나 광역자치단체는 지켜보고 옆에서 지원할 것을 지원하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 총리는 “전남광주통합시건 여수시건 (더불어민주당의 공천을 받아) 지방선거에서 당선이 유력한 분들이 (당선 전이라도) 집중력을 갖고 미리 지켜봤으면 좋겠다”고도 했다. 여수시장 권한대행에게도 “선거 기간에는 권한대행에게 책임이 다 위임되는 것이니까, 책임감 있게 잘해 주기 바란다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 조직위에 “섬 박람회가 무엇을 보여주겠다는 것인지 불명확하다”고도 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWI4334SX5OSHFJEBZXOWYXK3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 16일 오후 전남 여수시 개도를 방문해 2026 여수 세계 섬 박람회 준비 상황을 점검하고 있다. /국무총리실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 총리는 이어 행정선을 타고 부행사장인 개도(섬)로 이동해 행사장 조성 현장을 살펴보고, 관광 콘텐츠와 숙소, 식당 등 편의 시설은 무엇이 있는지 점검했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“대장동 수사 검사, 청문회 증인 출석 요구받고 극단선택 시도”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/RVMZ5FOXTZBF3ATYWQUPRUAJ3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/RVMZ5FOXTZBF3ATYWQUPRUAJ3E/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 09:16:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTGIN3FHFSGMMDGMNSDGNDCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서영교 윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회 위원장이 지난 13일 서울 여의도 국회에서 열린 중간 보고회에서 지난 9일 수원지검 현장 조사 관련 자료를 들어보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검의 대장동 사건 2기 수사팀 소속이었던 현직 검사가 더불어민주당 등 여권이 제기하는 ‘조작 기소’ 의혹에 억울함을 호소하며 최근 극단적 시도를 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 이모 검사는 국회 ‘윤석열 정권 조작기소 의혹 사건 국정조사’ 특별위원회 증인 출석 요청을 받고 지난주 후반쯤 극단적 시도를 한 것으로 알려졌다. 이 검사는 현재 서울 강남의 한 병원에 입원 중이다.&lt;br&gt;&lt;br&gt;이 검사는 지난 3월 25일 국정조사 특위 증인으로 채택돼 이날 열린 대장동·위례신도시·김용 전 민주연구원 부원장 사건 청문회 참석하라는 통보를 받았다. 그는 “지난달 16일 신장절제수술을 받은 후 추가로 입원해 치료 중이나 상태가 호전되지 않아 국회 출석이 불가능하다”며 지난 13일 국회에 불출석 사유서를 냈다. 이 검사는 신장암 판정을 받고 신장 수술을 받은 것으로 알려졌다. 그런데도 국회는 이날 청문회에 불출석한 이 검사에 대한 동행명령장을 발부했다.&lt;br&gt;&lt;br&gt;이 검사는 2022~2023년 대장동 2기 수사팀에서 대장동 민간 개발업자인 남욱 변호사 등을 조사했다. 남씨는 구속돼 서울구치소에 수감됐던 2022년 9월 16일부터 48시간 동안 검찰 조사를 받았는데, 당시 구치소로 돌아가지 못하고 검찰청사 내 구치감에 있었다. &lt;br&gt;&lt;br&gt;여당에서는 “검찰에 유리한 진술을 이끌어내기 위한 강압수사이자 조작기소”라고 주장하고 있다. 반면 검찰 안팎에서는 “남씨가 구속된 상태에서 검찰 임의조사 요청에 응하지 않자 수사팀이 법원에서 체포영장을 발부받았고, 인치 장소가 서울구치감이었던 것”이라며 “구치감 시설이 구치소보다 크게 열악하지 않다”는 반론이 나왔다.&lt;br&gt;&lt;br&gt;이 검사는 여당의 의혹 제기에 극심한 스트레스를 받은 것으로 전해졌다. 평소 주위에 억울하다는 뜻을 나타내며 “떳떳함을 밝히는 방법은 이것뿐이다” “내가 죽어야 내 이야기를 들어줄 것”이라고 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>아내 탄 차유리 ‘쾅쾅’ 깨부순 50대...  “가정불화로 범행”</title>
       <link>https://www.chosun.com/national/national_general/2026/04/16/C6M4WK4QVBERHMN7KWF3SHJ7OI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/C6M4WK4QVBERHMN7KWF3SHJ7OI/</guid>
@@ -904,15 +913,6 @@
       <description/>
       <pubDate>Thu, 16 Apr 2026 10:11:06 +0000</pubDate>
       <content:encoded>10조원대 전분당 가격 담합 의혹을 받는 식품업체 ‘대상’의 사업본부장이 16일 구속 기소됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTQNJYME3WKNJTGJSWCNLBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전분당 업체들의 담합 의혹과 관련해 대상그룹 사업본부장이 지난달 31일 영장실질심사를 받기 위해 서울 서초구 서울중앙지법에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 독점규제 및 공정거래에 관한 법률 위반 혐의를 받는 대상 사업본부장 김모씨를 구속 상태로 재판에 넘겼다. &lt;br&gt;&lt;br&gt;김씨는 경쟁 업체인 사조CPK·삼양사·CJ제일제당 등과 함께 전분당의 판매 가격을 미리 맞추고, OB맥주·서울우유 등 대형 수요처를 상대로 한 입찰 과정에서 가격을 짬짜미해 공정한 시장 경쟁을 방해한 혐의를 받는다. 전분당은 포도당·올리고당 등으로, 과자나 유제품 등 각종 가공식품을 만드는 데 많이 쓰인다.&lt;br&gt;&lt;br&gt;검찰은 업계 시장 점유율 1위인 대상의 핵심 실무 책임자인 김씨가 장기간 담합에 깊숙이 관여한 것으로 보고 있다. 검찰은 이들 4개 업체의 담합 규모가 지난 8년간 10조원을 넘는 것으로 의심하고 있다. 검찰은 지난달 23일 전분당 업체 4곳을 압수수색했고, 지난주에는 대상 대표이사 출신 인사에 대해서도 공정위에 고발 요청권을 행사했다. &lt;br&gt;&lt;br&gt;앞서 검찰은 김씨와 대상그룹 임모 대표이사, 사조CPK 이모 대표이사에 대해 구속영장을 청구했다. 법원은 지난달 31일 김씨에 대해서만 “증거 인멸 및 도망 염려가 있다”며 구속영장을 발부했다. 나머지 두 사람에 대한 영장은 기각됐다.&lt;br&gt;&lt;br&gt;검찰은 임씨와 이씨에 대해서는 추가 수사를 벌인 뒤 처분 방향을 정할 방침이다. 검찰 관계자는 “김씨는 구속 기한을 고려해 먼저 기소했고, 나머지 피의자들에 대해서는 추가 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민주당 세종시장 후보에 조상호… 국민의힘 최민호와 맞붙는다 </title>
-      <link>https://www.chosun.com/politics/goverment/2026/04/16/7BD4MUY24RCG5NTC7DEZFSZLH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/16/7BD4MUY24RCG5NTC7DEZFSZLH4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 09:16:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2HG6MQVMRNORFWWSFJJDRR4QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조상호 더불어민주당 세종시장 후보. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 조상호 전 세종시 경제부시장이 16일 6·3 지방선거 세종시장 후보로 선출됐다. 한때 자신의 상관이었던 이춘희 전 세종시장을 경선에서 꺾었다. 조 후보는 연임에 도전하는 국민의힘 소속 최민호 현 시장, 조국혁신당 후보로 공천된 황운하 의원과 본선에서 맞붙는다.&lt;br&gt;&lt;br&gt;이해찬 전 국무총리의 국회의원 보좌관 출신인 조 후보는 2014년 이춘희 전 시장이 세종시장으로 당선되자 이 전 시장의 비서실장과 정책특보로 일했다. 2018년 이 전 총리가 민주당 대표가 되자 여의도로 복귀해 당대표 정무조정실장을 맡았다가 이듬해 세종으로 돌아와 이 전 시장 밑에서 경제부시장을 했다. 2022년 이 전 시장과 세종시장 후보 경선에서 맞붙었으나 패했다. 그러나 이번 두 번째 대결에서는 이 전 시장을 꺾고 본선에 나서게 됐다.&lt;br&gt;&lt;br&gt;조 후보와 대결하는 최민호 현 시장은 행정안전부 공무원 출신으로 이명박 정부 때 행정중심복합도시건설청장을 지냈고, 2022년에 이어 이번에 세종시장 연임에 도전한다. 지난달 11일 국민의힘에서 단수 공천을 받았다. 경찰대 출신으로 문재인 정부 시절 대전경찰청장을 역임하고 2024년 총선에서 조국혁신당 간판으로 국회에 입성한 황운하 의원도 지난 1월 세종시장 출마를 선언한 데 이어 지난달 15일 후보로 확정돼 뛰고 있다.&lt;br&gt;&lt;br&gt;그러나 세종시장 선거가 끝까지 세 후보 간 경쟁이 될지는 불확실하다. 조국혁신당이 민주당에 후보 단일화를 요구하고 있기 때문이다. 황 의원은 지난 14일과 15일 기자회견을 잇따라 열어 “국민의힘 후보의 당선 가능성을 원천 차단하기 위해서는 단일화가 필수적”이라며 민주당을 압박했다. 이 후보 공천 직후인 17일 협상을 시작해 20일까지 협상을 마무리하고 30일까지 단일화를 완료하자는 시간표까지 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>EBS 신동호 사장 임명 취소 판결, 방미통위 항소 포기로 확정</title>
