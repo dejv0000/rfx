@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 4월 19일 일요일 (음력 3월 3일 癸亥)</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/18/F3YPVNLQDZCIBMBGUWMBEESBZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/F3YPVNLQDZCIBMBGUWMBEESBZI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>“부정선거 감시하겠다”며 선관위 난입, 직원도 다치게 해...벌금형→징역형</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/18/BNARNCPFHZAYHP5GZOEWA4EPYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/BNARNCPFHZAYHP5GZOEWA4EPYI/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 06:53:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4YHOQTMONHTFGHTB6X5VZTT4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 사전선거 투표소에서 시민들이 투표를 하고 있다. 기사와 직접 관련 없음. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령 선거 사전 투표가 이뤄졌던 작년 5월 부정선거를 감시하겠다며 선거관리위원회 사무실로 난입해 직원을 다치게 한 60대에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 수원고법 형사3부(재판장 조효정)는 공직선거법 위반, 상해, 건조물침입 등 혐의를 받는 A씨의 항소심에서 징역 10개월과 집행유예 2년, 벌금 300만원을 선고했다. 앞서 1심 법원은 A씨의 건조물침입죄에 대해선 벌금 100만원을, 나머지 혐의에 대해선 벌금 500만원을 각각 선고했는데, 형량이 늘어난 것이다.&lt;br&gt;&lt;br&gt;일명 ‘부정선거부패방지대’ 모 권역의 사무국장이었던 A씨는 작년 5월 29일 오후 8시 30분쯤 경기 수원시 권선구 선거관리위원회 사무실 출입문 개방을 요구하며 난동을 부리고, 선관위 직원 B씨가 자신을 제지하려고 잠시 문을 연 틈을 타 사무실에 침입한 혐의를 받는다. 그는 이 과정에서 B씨 등 2명을 철제 출입문에 부딪치게 해 무릎 등을 다치게 한 혐의도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2DQMTBMFSWMOLBMZSDCYZUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 재판에서 “선관위 사무실 밖에서 문을 밀었을 뿐, 침입한 사실도 없고 폭행의 고의도 없었다”고 주장했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피고인의 행위는 자유롭고 공명한 선거를 보장하고자 하는 공직선거법의 입법 취지를 훼손하는 것으로 엄중히 처벌할 필요가 있다”며 “다만 선거에 영향을 미치려는 정치적 의도나 목적이 있는 것으로 보이지는 않아 동기에 다소 참작할 만한 여지가 있다”고 판시했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 부정선거를 방지하겠다는 의도에서 범행에 이르게 됐다고 주장하지만, 선거와 관련된 문제 제기는 법이 정한 절차에 따라 이뤄져야 함에도 이를 따르지 않고 선거관리위원회와 그 직원들을 상대로 직접 물리력을 행사해 그 의도와 별개로 피고인의 행위는 비난 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;이어 “원심은 피고인에게 선거에 영향을 미치려는 정치적 의도나 목적이 있는 것으로 보이지 않는다는 점을 유리한 정상으로 고려했으나 기록에 의하면 피고인은 범행 당시 특정 후보자의 선거 관련자라고 언급하며 부정선거를 감시하겠다고 말했다”며 “양형이 부당하다는 검사의 주장은 이유가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주서 승합차 충돌 후 전신주 들이받은 시내버스...14명 다쳐 </title>
+      <link>https://www.chosun.com/national/incident/2026/04/18/EULOYEXV6FEYXN7GS2QD2SAURE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/18/EULOYEXV6FEYXN7GS2QD2SAURE/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 05:31:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZTENBWGVSGEMBUGEZWCMJWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 9시 50분쯤 광주 남구 주월동 한 도로에서 시내버스가 전신주를 들이받는 사고가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오전 9시 50분쯤 광주광역시 남구 주월동의 한 도로에서 시내버스가 승합차와 충돌한 뒤 전신주를 들이받는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 버스에 타고 있던 승객 20여 명 중 14명이 병원으로 옮겨져 치료를 받고 있다. 이 중 중상자는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 버스가 전신주에 강하게 부딪히면서, 전신주가 쓰러진 상태다. 사고 수습에 시간이 소요되면서 일대에 정체가 빚어지기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRWCMRRGFRDANZYGAZTIYJSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 광주광역시 남구 주월동에서 버스에 부딪힌 전신주가 쓰러져 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주시는 이날 오후 1시 5분쯤 “시내버스 교통사고로 백운 교차로~주월동 양방향 교통이 혼잡하니 이곳을 지나는 차량은 우회해달라”고 안전 문자를 발송했다.&lt;br&gt;&lt;br&gt;경찰은 버스와 승합차 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>촉법소년 연령 하향 이번엔 결론 날까... 주말 시민 토론회</title>
       <link>https://www.chosun.com/national/education/2026/04/18/7C7NYGBTWVC3HLVW6FRDLC65B4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/18/7C7NYGBTWVC3HLVW6FRDLC65B4/</guid>
@@ -830,24 +858,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPO7MDTN5EJCR3QWRJBEG2WVBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방검찰청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 정수기 업체 창업주의 아들 A씨는 2019년 3월 회사 대표직을 아버지에게서 물려받았다. 그런데 1년 4개월 뒤 업체 대표가 돌연 창업주인 아버지로 다시 교체됐다. 그사이 무슨 일이 벌어진 것일까. 그로부터 수년이 흐른 2025년 12월, A씨는 회삿돈 65억여 원을 횡령한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;경찰에서 A씨 횡령 혐의 사건을 넘겨받은 서울남부지검은 검토 과정에서 석연치 않은 점을 발견했다. A씨가 회사에서 빼돌린 돈 대부분이 여성 장모(50)씨에게 흘러 들어간 것. 장씨는 A씨에게 받은 돈으로 33억원 상당 서울 서초구에 있는 아파트를 사들였다. 그런데 A씨는 “장씨에게 돈을 빌려준 것일 뿐”이라고 주장했다고 한다. 검찰 관계자는 “A씨가 마치 장씨를 보호하려는 듯한 인상을 받았다”고 했다.&lt;br&gt;&lt;br&gt;이상함을 느낀 검찰은 수사에 나섰다. 계좌 추적과 관계자 조사 등을 통해 장씨가 A씨를 ‘가스라이팅(심리적 지배)’해 횡령을 유도했다는 의심을 검찰은 갖게 됐다. 결국 검찰은 보완 수사 끝에 지난 2월 장씨 일당을 특정경제범죄가중처벌법상 사기·공갈 등 혐의로 구속 기소했다.&lt;br&gt;&lt;br&gt;본지가 입수한 공소장에 따르면, 장씨는 2017년 서울의 한 유명 사립초등학교 학부모 모임에서 A씨의 처 B씨를 처음 만났다. B씨가 정수기 회사 창업주의 며느리라는 사실을 알게 된 장씨는 B씨에게 부부 모임을 제안하며 친분을 쌓았다. 이듬해 A·B씨가 아들의 건강 문제를 털어놓자, 장씨는 “고위층 사주를 봐주는 유명한 무속인이 있다”며 ‘조말례’란 인물을 소개했다. 조말례가 단번에 A씨 부부 아들의 열경련 증상을 짚어내자 이후 A씨 부부는 장씨를 신뢰하게 됐다고 한다.&lt;br&gt;&lt;br&gt;그러나 무속인 조말례는 실존하지 않는 가상의 인물이었다. 장씨와 그의 전 남편 심모(48)씨가 조말례를 사칭한 것. 장씨와 심씨는 A씨 부부와 교류하면서 알게 된 정보를 바탕으로 조말례 행세를 한 것이었다. A씨 부부가 조말례란 가상의 인물에게 속아 넘어간 것은 문자 메시지로만 소통했기 때문이다. 장씨와 심씨가 조말례인 양 문자 메시지로 A씨 부부에게 상담을 해준 것이다. &lt;br&gt;&lt;br&gt;장씨와 심씨는 이런 방식으로 A씨를 심리적으로 지배하며 회삿돈을 횡령하도록 종용해 65억원을 가로챘다. 장씨와 심씨는 B씨에게도 같은 방식으로 2018년부터 2020년까지 40여 차례에 걸쳐 아파트 지분과 현금 등 87억원을 빼앗았다. 장씨 일당이 2년여간 A씨 부부로부터 가로챈 금액은 150억원이 넘는다. 장씨 일당은 B씨에게 “더러운 피를 없애야 한다”며 음란 영상을 찍어 보내라고 강요하고, 이후 “돈을 가져오지 않으면 영상을 학교와 가족에게 유포하겠다”고 협박한 것으로 조사됐다. 이런 일들로 가정불화를 겪던 A씨와 B씨는 2020년 이혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘국민 여동생’ 문근영, 벌써 40대...희귀병 완치 후 모습 공개</title>
-      <link>https://www.chosun.com/national/people/2026/04/16/2CSYKWWCIBH6VE365NAWZYQSOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/16/2CSYKWWCIBH6VE365NAWZYQSOA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 14:51:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7HKKECZ7JGUPALQQ5ZDHHCOGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 문근영./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 문근영이 희귀 응급 질환인 급성구획증후군을 겪은 뒤의 근황을 전했다.&lt;br&gt;&lt;br&gt;지난 15일 방송된 tvN ‘유 퀴즈 온 더 블럭’ 예고편에는 문근영이 출연했다. &lt;br&gt;&lt;br&gt;문근영은 2017년 2월 연극 ‘로미오와 줄리엣’ 출연 중 급성구획증후군을 진단받아 활동을 중단했다. 치료와 수술로 공백기를 보낸 뒤 같은 해 9월 공식 활동을 재개했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSGCNJUMJQTCYRWGA4TGMRTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;급성구획증후군 진단을 받았던 배우 문근영이 완치 후 근황을 전했다./tvN ‘유퀴즈’ &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 문근영은 오른쪽 팔에 설명하기 어려운 극심한 통증을 느꼈고, 병원을 찾은 결과 급성구획증후군 진단을 받았다고 한다. 단순한 근육통으로 보기 어려울 정도의 통증이었고, 진단 직후 예정됐던 공연도 모두 취소한 채 응급 수술을 받았다.&lt;br&gt;&lt;br&gt;문근영은 병원으로부터 “골든타임이 이미 지나 괴사가 시작됐을 수도 있다”는 말을 들었다고 털어놨다. 이후 긴급 수술을 결정했고, 모두 네 차례 수술과 치료를 이어갔다. 그는 “급성구획증후군 수술 후 ‘엄마, 나 마음 놓고 쉴 수 있어서 너무 좋다’고 말했다”며 “몸이 커지면서 마음도 커진지 모르겠는데, 40대는 좀 익사이팅해도 재밌을 것 같다는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;급성구획증후군은 근육과 신경이 포함된 구획 내부의 압력이 높아지면서 통증이 발생하는 질환이다. 심할 경우 구획 안의 근육이 마비될 수도 있는 희귀병으로 알려져 있다. 원인은 비교적 일상적인 경우도 있다. 가장 흔한 경우는 심한 타박상이나 골절이지만, 치료 과정에서 압박 붕대나 통깁스를 지나치게 강하게 조였을 때도 내부 압력이 올라가 질환이 생길 수 있다. &lt;br&gt;&lt;br&gt;전문가들은 외부에서 강하게 조이는 환경이 압력을 높이는 주요 원인이 될 수 있다며, 깁스 후 통증이 줄지 않고 오히려 심해진다면 즉시 의료진을 통해 상태를 확인해야 한다고 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 17일</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/16/VKFBXH3M6ZH57LLBA5J6OS5PKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/VKFBXH3M6ZH57LLBA5J6OS5PKQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 14:34:00 +0000</pubDate>
-      <content:encoded>금 - 전국 흐림...초여름 더위 잠시 주춤&lt;br&gt;&lt;br&gt;토~일 - 전국 맑은 하늘...기온 다시 올라&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CZPOVDJRZAJDI53PBKPIDCRF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>노동위 “한화오션, 위탁 급식업체 노조와도 교섭해야”</title>
       <link>https://www.chosun.com/national/labor/2026/04/16/OSJ7YJO4TFCGZGH2GVL4Q3J4ZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/16/OSJ7YJO4TFCGZGH2GVL4Q3J4ZI/</guid>
@@ -930,15 +940,6 @@
       <description/>
       <pubDate>Thu, 16 Apr 2026 09:24:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2DGY3NEP5GPPFIILWZ2RMG5H4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 하재숙. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 속초 앞바다 어선 전복 사고 현장에서 수색 활동에 참여한 민간 구조대원들에게 감사장이 수여됐다. 당시 실종된 70대 선장을 발견한 대원이자 배우 하재숙의 남편인 이준행씨도 포함됐다.&lt;br&gt;&lt;br&gt;속초해양경찰서는 16일 속초시 동명동 속초해경 회의실에서 헌신적인 수색 활동을 펼친 민간 구조대원 4명에게 감사장을 전달했다고 밝혔다. 이들은 최근 양양 물치항과 속초 대포항 해상 실종자 수색 작업에 참여해 적극적인 구조 활동을 펼친 공로를 인정받았다. 모두 생업까지 뒤로한 채 현장에 나서 힘을 보탠 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2GGNLFME2GMYLBG42TQYZSMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 해양 사고 현장에서 적극적인 구조 활동을 펼친 민간 구조대원들이 감사장을 받고 기념 촬영을 하고 있다. 맨 오른쪽이 배우 하재숙의 남편 이준행씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 수여 대상에는 하재숙의 남편으로 알려진 이씨도 포함돼 눈길을 끌었다. 이씨는 지난 8일 오후 2시 14분쯤 속초시 대포항 동쪽 1㎞ 해상 수심 약 20m 지점에서 전날 어선 전복 사고로 실종된 70대 선장 A씨를 찾아냈다. 다만 심정지 상태로 발견된 A씨는 인근 병원으로 옮겨졌으나 끝내 사망했다.&lt;br&gt;&lt;br&gt;앞서 하재숙은 지난 9일 인스타그램에 “며칠 전 사고로 실종되셨던 선장님은 어제 남편이 발견해서 잘 모시고 나왔다”며 “부디 이런 사고가 더는 없었으면 한다. 따뜻한 곳에서 편히 쉬세요. 선장님”이라는 글을 써 고인을 애도했다. 이씨는 과거에도 화재 사고 현장에서 선박 인양을 도와 해양경찰 감사장을 받은 바 있다.&lt;br&gt;&lt;br&gt;속초해경 측은 “민간 구조대원들의 투철한 사명감과 헌신이 해양 안전을 지키는 데 큰 힘이 되고 있다”며 “앞으로도 민·관의 긴밀한 협력을 통해 안전한 바다를 만드는 데 최선을 다하겠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전세 사기치고 필리핀 도주…현직 검찰 수사관, 6개월 만에 검거 </title>
-      <link>https://www.chosun.com/national/incident/2026/04/16/JYTBDD37SZEVXN7JFZSUPOPA34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/16/JYTBDD37SZEVXN7JFZSUPOPA34/</guid>
-      <dc:creator>화성=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 09:07:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전세 사기 혐의로 고소 위기에 몰리자 해외로 달아났던 현직 검찰 수사관이 도주 6개월여 만에 필리핀 현지에서 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 화성동탄경찰서는 16일 사기 혐의로 피소된 서울중앙지검 소속 수사관 A씨를 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 화성 동탄신도시 일대에서 주거용 오피스텔 등 약 70채를 보유한 임대인으로, 다수 임차인으로부터 전세 보증금을 받아 챙긴 혐의를 받고 있다. 피해자들은 계약 만료 이후에도 각각 1억원가량의 보증금을 돌려받지 못했다며 잇따라 고소장을 제출했다.&lt;br&gt;&lt;br&gt;현재까지 접수된 고소는 20건, 피해 금액은 총 26억원에 달하는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 임차인들로부터 법적 대응을 예고받자 검찰에 휴직계를 제출한 뒤, 지난해 9월 27일 필리핀으로 출국해 도주한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 여권을 무효화하고 인터폴 적색 수배를 요청하는 한편, 필리핀 현지 코리안데스크와 공조해 소재를 추적해왔다. 그 결과 A씨는 지난 15일 필리핀 세부의 한 은신처에서 현지 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “필리핀 당국과 협의해 신속히 국내로 송환한 뒤 범행 경위와 여죄를 포함해 엄정 수사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이원석 “성공한 수사라던 ‘대장동’,  민주당 의뢰로 감찰 대상 돼” </title>
