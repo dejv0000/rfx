@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>촉법소년 연령 하향 이번엔 결론 날까... 주말 시민 토론회</title>
+      <link>https://www.chosun.com/national/education/2026/04/18/7C7NYGBTWVC3HLVW6FRDLC65B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/18/7C7NYGBTWVC3HLVW6FRDLC65B4/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 04:23:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LLOOMVHNVOBNDWEQ3DQTBWSDI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;원민경 성평등가족부 장관이 18일 충북 오송 컨벤션센터에서 열린 '형사미성년자(촉법소년) 시민참여단 숙의토론회'에 참석해 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;촉법소년(형사미성년자) 연령을 만 14세 미만에서 13세 미만으로 낮추는 논의를 위해 출범한 사회적대화협의체가 18~19일 시민 200여명이 참여하는 숙의 토론회를 열고 연령 조정에 대한 의견을 모은다. 정부는 이번 주말 토론회를 포함해 수련된 의견을 바탕으로 이달 말 최종안을 낼 계획이다.&lt;br&gt;&lt;br&gt;원민경 성평등가족부 장관은 이날 오전 1차 숙의토론회가 열리는 충북 오송 OCC오송컨벤션센터에서 “촉법소년 제도와 쟁점에 대한 정확한 이해를 기반으로 다양한 의견을 나누고 시민 여러분의 의견을 경청하기 위해 마련된 뜻깊은 자리”라며 “한 분 한 분이 전하는 생생한 목소리는 촉법소년 연령 조정 이슈와 대안을 검토하는데 든든한 밑거름이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;촉법소년 연령 하향 논의는 2017년 9월 부산에서 10대 여학생들이 또래 여중생을 집단폭행한 사건이 소셜미디어를 통해 알려지며 시작했다. 당시 정부가 촉법소년 연령 하향 추진 계획을 발표했다. &lt;br&gt;&lt;br&gt;2022년 법무부는 촉법소년 연령 기준 현실화 태스크포스(TF)를 구성하고 촉법소년 연령을 하향하는 내용이 담긴 ‘소년범죄 종합대책’을 발표했다. 같은 해 정부안으로 관련 법률 개정안이 국회에 제출됐지만 임기 만료로 폐기됐다.&lt;br&gt;&lt;br&gt;흐지부지되던 논의는 작년 12월 이재명 대통령이 법무부와 성평등가족부 업무보고에서 촉법소년 연령 하향 문제에 대한 검토가 필요하다고 지시하며 재점화했다. 이후 성평등부를 중심으로 법무부, 교육부, 보건복지부, 경찰청 등이 참여하는 사회적대화협의체가 2월 구성됐다.&lt;br&gt;&lt;br&gt;협의체는 지난 두 달간 모은 각계 의견과 이번 숙의토론회 의견을 바탕으로 30일 열릴 4차 전체회의에서 최종 권고안을 낼 예정이다. 연령 하향 여부는 국무회의에서 최종 결정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘인플루언서 수사 무마’ 경찰 간부 직위해제</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/18/P7M745IFB5AZPK64UDBSFKSBJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/P7M745IFB5AZPK64UDBSFKSBJU/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 03:14:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YWCMRRME4WKZBXHEYTQMRTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 인플루언서가 연루된 사기 사건을 덮었다는 의혹이 제기된 경찰관이 18일 직위 해제됐다. &lt;br&gt;&lt;br&gt;경찰청은 이날 “강남경찰서 수사 무마 의혹 사건과 관련해 A 경정을 직위 해제했다”고 밝혔다. &lt;br&gt;&lt;br&gt;인플루언서 B씨는 2024년 7월 가맹점주들로부터 사기와 가맹사업법 위반 혐의로 고소당했으나, 강남서는 같은 해 12월 ‘혐의없음’으로 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;당시 경찰 수사가 시작되자 인플루언서 B씨 남편인 사업가 C씨는 평소 친분이 있던 A 경정을 통해 수사를 무마할 방법을 모색했다고 한다. A 경정은 평소 알고 지내던 강남서 수사1과 팀장 D 경감에게 C씨의 청탁을 전달했다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합동수사부는 수사 무마 의혹 정황을 포착하고 지난 9일 경찰청 청사를, 지난달 27일에는 강남서를 압수 수색했다.&lt;br&gt;&lt;br&gt;검찰은 C씨가 평소 친분이 있던 A 경정을 통해 D 경감을 만나 룸살롱에서 접대하며 금품을 건넨 것으로 보고 있다. D 경감 역시 같은 의혹으로 직위 해제됐다. &lt;br&gt;&lt;br&gt;검찰은 두 경찰관에게 뇌물 수수와 알선수재 등 혐의를 적용하는 방안을 검토하고 있다. 검찰이 이들에 대해 구속영장을 청구할 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마약합수본, 박왕열 조카 ‘흰수염고래’ 필리핀서 현지 조사</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/18/YS4Z2AV2HJBKDDVFQSCQIE65PY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/YS4Z2AV2HJBKDDVFQSCQIE65PY/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 02:33:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSWGOBYMJSDSNBWMU4DMZDBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;필리핀에서 국내로 압송된 '마약왕' 박왕열이 지난 3일 오전 경기 의정부지방검찰청으로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘마약왕’ 박왕열(48)을 수사 중인 마약범죄 정부합동수사본부가 그의 외조카인 ‘흰수염고래’를 필리핀 현지에서 조사한 것으로 18일 알려졌다.&lt;br&gt;&lt;br&gt;수사 당국에 따르면, 마약합수본은 지난 12일 검사 1명과 수사관 등 9명을 필리핀 마닐라로 보냈다. 현지 교정 시설에 수감돼 있는 박왕열의 외조카이자 공범, 일명 ‘흰수염고래’ A씨를 면담 조사하기 위해서였다.&lt;br&gt;&lt;br&gt;A씨는 박왕열을 도와 2024년부터 마약 밀수를 담당해 국내 유통에 관여해 온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;마약합수본은 A씨 외에도 박왕열에게 마약과 계좌를 공급한 공범과 조직 관련자들에 대한 접견 조사도 벌인 것으로 전해졌다. 마약합수본 수사팀은 이날 귀국할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DKUDIKUINFS3PCVF2EOP6IXFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2016년 박왕열이 한국인 3명을 필리핀의 한 사탕수수밭에서 살해한 후 잠적했다 37일 만에 검거됐을 때의 모습. /유튜브 '스모킹건'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약합수본은 조사 자료 등을 토대로 박왕열에 대한 혐의 입증 보강 작업을 거친 후, 조만간 그를 구속 기소할 방침이다. 경찰은 지난 3일 박왕열을 검찰에 넘겼다. 그의 구속 시한은 오는 22일까지다.&lt;br&gt;&lt;br&gt;박왕열은 2016년 10월 필리핀에서 한국인 3명을 살해한 혐의로 교도소에서 복역하다가 2019년 10월 탈옥했다. 그는 도피 생활 중 텔레그램에 마약 판매 채널인 ‘전세계’ 등을 개설하고, 2019년 11월부터 2024년 8월까지 이 채널을 통해 필로폰 12.7㎏을 포함해 마약류 17.7㎏을 한국에 유통하려 한 것으로 조사됐다. 시가로 총 63억원어치에 해당하는 양이다. 수사 당국은 박왕열이 밀수·유통·판매하거나 판매를 시도한 마약 총량은 시가 131억원어치 정도로 추정하고 있다. &lt;br&gt;&lt;br&gt;마약합수본의 수사에 따라 범죄 규모는 더 늘어날 수 있다.&lt;br&gt;&lt;br&gt;지난달 25일 필리핀에서 국내로 임시 인도된 박왕열은 현재 수원구치소에 수감 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘BJ 강제추행’ 유명 걸그룹 오빠 구속영장 반려...“혐의 소명 부족”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/18/ERWJUPGT2ZEDJLCSSEXJ3VVSEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/ERWJUPGT2ZEDJLCSSEXJ3VVSEE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 02:32:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 인터넷 방송 진행자(BJ)를 추행한 혐의로 체포된 유명 걸그룹 멤버 오빠에 대한 구속영장이 검찰에서 반려됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 전날(17일) 서울중앙지검은 강남경찰서가 신청한 30대 남성 김모씨의 구속영장을 반려했다. 검찰은 혐의에 대한 소명이 부족하다며 영장을 반려한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 지난 14일 저녁 강남구의 한 식당에서 피해자와 술을 마신 후 자신의 집으로 데려가 부적절한 신체 접촉을 시도한 혐의로 체포됐다. 김씨는 유명 걸그룹 멤버의 오빠로, 범행 이틀 전 피해자로부터 300만원 상당의 ‘식사 데이트권’을 구매한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>군 복무 중 생활관에서 4억대 스포츠 사이버 도박한 20대, 전역 후 벌금형 </title>
+      <link>https://www.chosun.com/national/court_law/2026/04/18/IBACI5Z5XFBK3NCE3BRQTE2RME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/IBACI5Z5XFBK3NCE3BRQTE2RME/</guid>
+      <dc:creator>의정부=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 01:07:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JOGYGH35ZHHNOIR3LSXQLKWNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남경찰청이 적발한 인터넷 불법 스포츠 도박 사이트 화면. 기사와 직접 관련 없음. /경남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현역으로 군 복무 중 휴대전화를 이용해 4억원대의 사이버 도박을 한 20대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 의정부지법 형사6단독 이용희 판사는 국민체육진흥법 위반(도박) 혐의로 재판에 넘겨진 A씨에게 벌금 700만원을 선고했다.&lt;br&gt;&lt;br&gt;경기 연천군 전곡읍 모 포병대대에서 군 복무 중이던 A씨는 지난 2024년 11월부터 작년 10월까지 인터넷 불법 도박 사이트에 접속해 스포츠 경기 결과를 맞히며 배팅하는 도박을 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5EQGYW2G5IKBDYOTAYNVVLOJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 생활관 등에서 자신의 휴대전화를 이용해 이같이 범행한 것으로 조사됐다. 그는 809회에 걸쳐 도박 사이트에 입금한 것으로 확인됐다. 입금한 돈만 4억7800만원에 달했다. A씨의 도박 자금 출처는 알려지지 않았다.&lt;br&gt;&lt;br&gt;앞서 A씨는 군검찰에 의해 기소됐다가, 전역 후에는 의정부지법에서 재판을 받았다.&lt;br&gt;&lt;br&gt;이 판사는 “피고인은 자격이 없는 자가 운영하는 업체를 통해 스포츠 결과를 적중시키면 돈을 받는 도박을 했다”며 “다만 초범이고, 당시 의무복무 중인 군인이었던 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국어능력시험 부정행위 500건 첫 돌파... 답안 사전 유출 사태까지</title>
+      <link>https://www.chosun.com/national/education/2026/04/18/RWAFSIPW2RB3JIH5XCN2WPBSRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/18/RWAFSIPW2RB3JIH5XCN2WPBSRQ/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 00:18:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T72PN3QLNZERRAJKVCHJIE6ZIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동국대학교 문화관에서 수험생들이 한국어능력시험(TOPIK)을 치르고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인의 한국어 실력을 평가하는 한국어능력시험(토픽·TOPIK)의 부정행위 적발 건수가 작년 처음으로 500건을 넘은 것으로 나타났다. 한류 확산과 유학생 증가로 토픽 지원자가 최근 수년간 급증해 50만명을 넘어가며 부정행위도 잇따르는 것이다.&lt;br&gt;&lt;br&gt;18일 토픽을 주관하는 교육부 산하 국립국제교육원에 따르면 작년 토픽 부정행위 적발 건수는 554건으로 집계됐다. 2021년 331건, 2022년 240건, 2023년 421건, 2024년 414건으로 증가 추세를 보이다 처음으로 500건을 넘긴 것이다.&lt;br&gt;&lt;br&gt;특히 최근에는 중국인을 중심으로 시험을 보기 전 토픽 답안을 사고 파는 등 새로운 형태의 부정행위가 확산하고 있다. &lt;br&gt;&lt;br&gt;정부는 앞서 12일 국내 한 토픽 시험 고사장에서 중국인 유학생 A씨가 이번 시험 문제의 답안이 적힌 것으로 보이는 쪽지를 보는 모습을 적발했다. 토픽 시험을 주관하는 교육부 산하 국립국제교육원은 A씨가 중국 소셜미디어 등을 통해 토픽 답안을 사전에 구매한 것으로 보고, 현장에서 시험 응시 자격을 박탈하고 경찰에 신고했다. &lt;br&gt;&lt;br&gt;토픽 시험 답안 유출이 가능한 것은 대륙별 시차 때문이다. 예컨대 이번 시험은 지난 11일 미국, 유럽, 아프리카, 오세아니아 등에서 먼저 치러졌다. 12일에는 한국, 중국 등 아시아 국가에서 실시됐다. 11일 유럽 등에서 시험을 먼저 치른 응시자가 답안을 복기해 중국인 응시자에게 사전 유출한 것으로 추정된다.&lt;br&gt;&lt;br&gt;정부는 쪽지를 가져왔다 적발된 A씨와 달리 유출 답안을 암기해 시험을 본 응시자도 많을 것으로 추정한다. 실제 지난 12일 중국 현지에서 토픽 시험이 치러지기 수시간 전, 중국 소셜미디어 ‘샤오훙슈(Xiaohongshu)’에 토픽 시험 답안으로 보이는 문서가 공유된 사실이 알려지면서 외국인들 사이에서 논란이 퍼지고 있다.&lt;br&gt;&lt;br&gt;이처럼 수법이 고도화하며 교육당국은 대응에 나섰다. 교육부와 국립국제교육원은 “중국 브로커의 토픽 부정행위에 강력히 대응하겠다”며 “국가별 시차를 이용한 답안 유출을 원천 방지하기 위해 대륙별 시험지 간 유사성이 없도록 하는 등 공정성 강화 대책을 마련해 오는 7월 시험부터 즉시 적용하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다시 찾아온 ‘초여름 날씨’... 서울 낮 최고 27도</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/18/K4DFX2YPLJEBFAOTK2BG4TJ62M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/K4DFX2YPLJEBFAOTK2BG4TJ62M/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 00:01:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TGZDEGFTDSMTFGBQWCNDDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 낮 최고 기온이 25도까지 오르는 등 초여름 날씨를 보인 13일 서울 경복궁에서 외국인 관광객이 한복으로 햇빛을 가리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일은 18일은 낮 최고기온이 27도까지 오르는 등 초여름 더위가 찾아오면서 일교차가 크게 나타나겠다.&lt;br&gt;&lt;br&gt;이날 낮 최고기온은 19~27도로 예보돼 평년기온(17~22도)보다 높은 수준이겠다.&lt;br&gt;&lt;br&gt;지역별 아침 최저기온은 △서울 10도 △인천 10도 △춘천 8도 △강릉 11도 △대전 11도 △대구 13도 △전주 13도 △광주 14도 △부산 15도 △제주 15도다. &lt;br&gt;&lt;br&gt;낮 최고기온은 △서울 27도 △인천 24도 △춘천 26도 △강릉 22도 △대전 26도 △대구 25도 △전주 26도 △광주 25도 △부산 20도 △제주 21도 등으로 예보됐다. 낮과 밤의 일교차가 크겠으니 건강관리에 유의할 필요가 있다.&lt;br&gt;&lt;br&gt;중부지방은 대체로 맑겠으나 남부지방과 제주도 곳곳에는 비가 내리겠다. 전북 동부는 새벽까지, 전남 남해안·동부 내륙·경북권 남부·경남권은 오전까지 비가 내리는 곳이 있겠다. 제주도는 오전부터 비가 시작돼 사흘간 이어지겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 전남 남해안·부산·울산·경남 5∼10㎜, 전북 동부·전남 동부 내륙·대구·경북 남부 5㎜ 미만이다. 제주도에는 18∼20일 사흘간 20∼60㎜의 비가 예보됐다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전 권역이 ‘좋음’∼‘보통’으로 예상된다.&lt;br&gt;&lt;br&gt;바다의 물결은 동해·남해 앞바다에서 0.5∼1.5m, 서해 앞바다에서 0.5∼1.0m로 일겠다. 안쪽 먼바다(해안선에서 약 200㎞ 내의 먼바다)의 파고는 동해·서해 0.5∼2.0m, 남해 0.5∼2.5m다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기저귀로 때리고 중요 부위 꼬집어...외국인 간병인 ‘징역형 집유’</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/18/DLQESC4QYJHYHKQ2CY44BETRAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/DLQESC4QYJHYHKQ2CY44BETRAU/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Apr 2026 00:19:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGVGSAGGQ24REOMOCD7GBCBS7A.png"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환자가 짜증을 낸다는 이유로 기저귀로 얼굴을 때리고 신체 중요 부위를 꼬집은 혐의를 받는 외국인 간병인에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 청주지법 제천지원 형사 단독 김동원 부장판사는 노인복지법 위반 혐의로 재판에 넘겨진 러시아 국적 60대 A씨에게 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 9일 오후 6시 30분쯤 충북 제천의 한 요양병원에서 80대 환자를 돌보던 중, 환자가 자신에게 짜증을 내자 기저귀로 그의 얼굴을 폭행하고 신체 중요 부위를 여러 차례 꼬집은 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 부장판사는 “피해자를 보호해야 할 위치에 있는 피고인이 범죄에 취약한 피해자를 상대로 범행했다”며 “다만, 외국인인 피고인이 의사소통 문제를 겪어 그로 인한 갈등이 범죄 동기가 된 것으로 보이는 점을 참작했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“결말 알아도 오빠 선택할 거야” 순직 소방관 예비신부가 하늘로 보낸 편지 </title>
       <link>https://www.chosun.com/national/national_general/2026/04/18/H3QBAMSHQZFVPPDZNZW4OMPSSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/H3QBAMSHQZFVPPDZNZW4OMPSSM/</guid>
@@ -749,15 +821,6 @@
       <content:encoded>대장동 개발 비리 사건을 수사했다가 국회 ‘윤석열 정권 검찰 조작기소 의혹’ 국정조사 증인으로 채택된 현직 검사가 억울함을 호소하며 극단적 선택을 시도한 것으로 16일 알려졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 이모 검사는 지난주 국정조사 특별위원회로부터 이날 열리는 대장동·위례신도시·김용 전 민주연구원 부원장 사건 청문회에 출석하라는 통보를 받았다. 이후 지난 주말쯤 이 검사는 극단적 선택을 시도했다가 병원으로 옮겨졌다. 그는 주변에 “떳떳함을 밝히는 방법은 이것 뿐이다” “죽어야 내 말을 들어줄 것”이라는 취지로 억울함을 호소했다고 한다. 이 검사는 현재 서울 강남의 한 병원에 입원 중이며, 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;2022~2023년 초까지 서울중앙지검 ‘대장동 2기 수사팀’에서 민간사업자 남욱씨 등에 대한 수사를 맡았던 이 검사는 지난 13일 국회에 “지난달 16일 신장절제수술을 받은 후 추가로 입원해 치료 중이나 상태가 호전되지 않아 국회 출석이 불가능하다”는 제출한 불출석 사유서를 제출했다.&lt;br&gt;&lt;br&gt;대장동 사건의 조작 의혹은 작년 9월 남욱씨가 정진상 전 더불어민주당 당대표실 정무조정실장의 대장동 사건 재판에서 “검사가 가족 사진을 보여주며 ‘배를 갈라 장기를 꺼내겠다’고 해 검사의 수사 방향대로 진술했다”고 주장하면서 시작됐다. 이 발언을 한 것으로 지목된 정일권 부장검사는 이날 청문회에 나와 “환부만 도려내는, 실체 진실에 부합하는 사실관계를 확인하려는 것이라고 말했을 뿐”이라고 했다. 가족 사진에 대해선 “남씨가 어려운 시기를 이겨냈으면 좋겠다는 취지로 보여줬고, 회유하거나 협박한 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 청문회에는 화천대유 대주주 김만배씨와 정영학씨 등도 불참했다. 김씨는 “진행 중인 재판에 심각한 영향을 미칠 것으로 사료돼 증언하기가 상당히 곤란하다”고 했다. 국조 특위는 이날 민주당 주도로, 이 검사와 김씨 등 불출석한 증인 5명에 대해 동행명령장을 발부했다.&lt;br&gt;&lt;br&gt;한편 2차 종합특검은 이날 ‘쌍방울 대북 송금 사건’의 진술 회유 의혹을 수사하던 권영빈 특검보를 김치헌 특검보로 교체했다. 권 특검보가 과거 이화영 전 경기도 평화부지사와 방용철 전 쌍방울그룹 부회장을 변호한 이력으로 이해충돌 논란이 불거졌기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>동아시아는 벌써 여름… 뜨거워진 바다가 ‘열돔’ 씌웠다</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/17/5W5N7B62DNDRBLMNISNV3HEYQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/17/5W5N7B62DNDRBLMNISNV3HEYQI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVPX7SMDJFF6FJJFM46LOA44OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 광주 북구청 광장 분수대에서 아이들이 물장구를 치며 놀고 있는 모습. 이날 전국 최고기온은 28도까지 올랐다. 다음 주 중반까지 이상고온 현상이 나타나며 더운 날씨가 이어질 전망이다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4월 들어 한국을 포함한 일본·중국·대만 등 동아시아 일대에 이상고온 현상이 나타나고 있다. 한여름 무더위를 견인하는 북태평양고기압이 평년보다 뜨거워진 해수면 때문에 일찍 확장된 것이 주요 원인으로 꼽힌다.&lt;br&gt;&lt;br&gt;16일 기상청에 따르면, 이날 경기 파주의 최고기온이 29.5도까지 오르는 등 내륙을 중심으로 30도에 육박하는 더위가 나흘째 이어졌다. 서울은 ‘여름 수준 더위’의 기준인 ‘일 최고기온 25도’를 넘긴 날이 이달 들어 16일까지 총 4일을 기록했다. 역대 가장 더웠던 2024년만 해도, 이 기간 25도를 넘긴 날은 이틀밖에 안 됐다. &lt;br&gt;&lt;br&gt;이 같은 현상은 동아시아 일대에서 광범위하게 발생하고 있다. 아시아 각국의 기상 당국은 “‘4월 이상고온’이 심각한 수준의 더위로 발전할 수 있다”고 경고하고 있다. 이달 초 일본 기상청은 ‘4월 평균기온’을 평년보다 2.4~2.7도 정도 높게 예측하면서 “10년에 한 번 올 수준의 통계적으로 매우 드문 고온 현상”이라고 했다. 중국 기상국도 “베이징을 포함한 화베이 지역의 4월 한낮 기온이 역대 최고 수준에 도달했다”고 했다. 베이징은 4월 평균 최고기온이 20도 안팎인데, 지난 14일에는 이보다 10도가량 높은 30.3도를 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UORTNIN3RHMJCS2ORFPD43AB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태국 기상국의 경우, 4월에 습도를 감안한 체감 온도가 방콕 등 도심에서 54도, 일부 지역에선 60도에 이를 것이라고 예측했다. 태국은 체감 온도에 따라 ‘주의’부터 ‘매우 위험’까지 4단계로 폭염 경보를 발령한다. 이 중 54도 이상은 ‘열사병 발생 가능성이 매우 높음’에 해당하는 최고 단계다. 적색 경보에 해당한다. 필리핀은 4월 초부터 전역에서 체감 온도가 42~44도 수준으로 올라가 마닐라를 비롯한 전국 대부분 학교에서 대면 수업을 중단하고 원격 수업으로 전환하기도 했다.&lt;br&gt;&lt;br&gt;여름 수준의 더위가 이처럼 앞당겨진 원인은 4월 초부터 서(西)태평양을 비롯해 동아시아 인근 해역의 해수면 온도가 평년보다 1도 이상 높아져서다. 해수면 온도 상승은 이상 고온이 발생하는 첫 ‘단추’이자 핵심 요인이다. 해수면 온도가 높아지면 바다 위 공기가 더 많이 팽창하게 된다. 덥혀진 공기는 상공 위로 높이 떠올라 대기 상층에 강력한 고기압을 형성한다. 고기압은 느리게 이동하기 때문에 육지 위에서 햇볕의 열기를 가두는 지붕 효과를 낸다. 이를 ‘열돔(Heat Dome)’ 현상이라고 부른다. 현재 평년보다 0.5~1도가량 해수면 온도가 상승한 우리나라를 비롯해 필리핀해·동중국해 등에선 수온이 오르며 곳곳에 고기압성 기류가 강해지고, 열돔 현상이 나타나고 있다.&lt;br&gt;&lt;br&gt;고기압 중에는 북태평양고기압 같은 거대 기단도 있다. 북태평양고기압은 보통 5월부터 세력을 넓히기 시작해 8월 말까지 일본, 대만, 중국, 한국 상공을 차례로 뒤덮는다. 북태평양고기압이 거대한 열돔을 형성한 상태에서 고온다습한 남풍이 더해지며 여름철 찜통더위가 발생하는 것이다. 그런데 서태평양 부근의 해수면 온도가 4월부터 높게 형성되면서 북태평양고기압도 빠르게 활동을 시작하게 됐다. 대만의 기상청인 중앙기상서는 “벌써 여름 더위가 시작됐다”고 발표하기도 했다.&lt;br&gt;&lt;br&gt;한편 우리나라에서 지난 13일부터 이어진 초여름 수준의 더위는 17일 제주와 남부 지방에 비가 내리며 반짝 해소되겠다. 17~18일 예상 강수량은 전북 5~30㎜, 광주·전남 5~60㎜, 경남 10~60㎜, 부산·울산 10~40㎜, 대구·경북 5~20㎜, 제주도 20~100㎜로 예보됐다. 제주 산지에는 150㎜ 이상의 많은 비가 쏟아지는 곳이 있겠다. 17일에는 기온이 20도 중후반까지 올랐던 전날과 달리 평년 수준을 보이며 초여름 수준의 더위가 잠시 누그러질 것으로 보인다. 이날 아침 최저기온은 7~14도, 낮 최고기온은 16~20도로 예보됐다. 하지만 주말인 18일부터는 내륙을 중심으로 낮 기온이 다시 최고 28도까지 오르며 22일까지 더위가 이어질 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[사건 인사이드] 유령 무당 ‘조말례’에 속아 150억을… 재력가 부부에 무슨 일이</title>
       <link>https://www.chosun.com/national/national_general/2026/04/17/CIXGN4AOMJGHFEE4AWPVTFW3MQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/CIXGN4AOMJGHFEE4AWPVTFW3MQ/</guid>
@@ -765,60 +828,6 @@
       <description/>
       <pubDate>Thu, 16 Apr 2026 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPO7MDTN5EJCR3QWRJBEG2WVBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방검찰청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 정수기 업체 창업주의 아들 A씨는 2019년 3월 회사 대표직을 아버지에게서 물려받았다. 그런데 1년 4개월 뒤 업체 대표가 돌연 창업주인 아버지로 다시 교체됐다. 그사이 무슨 일이 벌어진 것일까. 그로부터 수년이 흐른 2025년 12월, A씨는 회삿돈 65억여 원을 횡령한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;경찰에서 A씨 횡령 혐의 사건을 넘겨받은 서울남부지검은 검토 과정에서 석연치 않은 점을 발견했다. A씨가 회사에서 빼돌린 돈 대부분이 여성 장모(50)씨에게 흘러 들어간 것. 장씨는 A씨에게 받은 돈으로 33억원 상당 서울 서초구에 있는 아파트를 사들였다. 그런데 A씨는 “장씨에게 돈을 빌려준 것일 뿐”이라고 주장했다고 한다. 검찰 관계자는 “A씨가 마치 장씨를 보호하려는 듯한 인상을 받았다”고 했다.&lt;br&gt;&lt;br&gt;이상함을 느낀 검찰은 수사에 나섰다. 계좌 추적과 관계자 조사 등을 통해 장씨가 A씨를 ‘가스라이팅(심리적 지배)’해 횡령을 유도했다는 의심을 검찰은 갖게 됐다. 결국 검찰은 보완 수사 끝에 지난 2월 장씨 일당을 특정경제범죄가중처벌법상 사기·공갈 등 혐의로 구속 기소했다.&lt;br&gt;&lt;br&gt;본지가 입수한 공소장에 따르면, 장씨는 2017년 서울의 한 유명 사립초등학교 학부모 모임에서 A씨의 처 B씨를 처음 만났다. B씨가 정수기 회사 창업주의 며느리라는 사실을 알게 된 장씨는 B씨에게 부부 모임을 제안하며 친분을 쌓았다. 이듬해 A·B씨가 아들의 건강 문제를 털어놓자, 장씨는 “고위층 사주를 봐주는 유명한 무속인이 있다”며 ‘조말례’란 인물을 소개했다. 조말례가 단번에 A씨 부부 아들의 열경련 증상을 짚어내자 이후 A씨 부부는 장씨를 신뢰하게 됐다고 한다.&lt;br&gt;&lt;br&gt;그러나 무속인 조말례는 실존하지 않는 가상의 인물이었다. 장씨와 그의 전 남편 심모(48)씨가 조말례를 사칭한 것. 장씨와 심씨는 A씨 부부와 교류하면서 알게 된 정보를 바탕으로 조말례 행세를 한 것이었다. A씨 부부가 조말례란 가상의 인물에게 속아 넘어간 것은 문자 메시지로만 소통했기 때문이다. 장씨와 심씨가 조말례인 양 문자 메시지로 A씨 부부에게 상담을 해준 것이다. &lt;br&gt;&lt;br&gt;장씨와 심씨는 이런 방식으로 A씨를 심리적으로 지배하며 회삿돈을 횡령하도록 종용해 65억원을 가로챘다. 장씨와 심씨는 B씨에게도 같은 방식으로 2018년부터 2020년까지 40여 차례에 걸쳐 아파트 지분과 현금 등 87억원을 빼앗았다. 장씨 일당이 2년여간 A씨 부부로부터 가로챈 금액은 150억원이 넘는다. 장씨 일당은 B씨에게 “더러운 피를 없애야 한다”며 음란 영상을 찍어 보내라고 강요하고, 이후 “돈을 가져오지 않으면 영상을 학교와 가족에게 유포하겠다”고 협박한 것으로 조사됐다. 이런 일들로 가정불화를 겪던 A씨와 B씨는 2020년 이혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국공학한림원, 英서 자율주행포럼</title>
-      <link>https://www.chosun.com/national/people/2026/04/17/7F4XFN3I2RECHKQQOMJS5Q5HL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/17/7F4XFN3I2RECHKQQOMJS5Q5HL4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>한국공학한림원(NAEK)과 영국왕립공학한림원(RAEng)은 지난 13일 영국 런던에서 ‘한·영 자율 주행 정책·기술 포럼’을 개최하고 정책·제도·보험·기술 분야의 협력을 확대하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조정원 WT 총재, 우즈벡 최고 훈장</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/PXQALX2MOBARJHZDZO5U2J4IMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/PXQALX2MOBARJHZDZO5U2J4IMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GORW3XYXZBRXKGWYTNPGB2MKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조정원 세계태권도연맹(WT) 총재가 16일 우즈베키스탄 정부가 수여하는 최고 권위 국가 훈장 중 하나인 ‘우정 훈장’을 받았다. 샵카트 미르지요예프 대통령은 우즈베키스탄 태권도 발전에 기여하고, 스포츠를 통한 연대 강화에 힘쓴 조 총재의 공로를 높이 평가해 훈장을 수여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 경향신문 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/17/CZ54VDIN2BE7BNO3PPG7XKGNXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/17/CZ54VDIN2BE7BNO3PPG7XKGNXI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;경향신문&lt;/b&gt;◇편집국 기획콘텐츠총괄 이주영▷뉴스총괄 겸 정치·국제　에디터 박영환▷영상·콘텐츠랩〃　이용균▷정치·국제〃　손제민▷사회〃　홍진수▷문화·오피니언〃　최민영▷콘텐츠편집·유통〃　장용석▷주간경향 편집장 이용욱▷기획취재팀장 황경상▷유튜브기획팀장 윤지원▷국제부장 박은경▷산업부장 이윤주▷사회부장 송진식▷정책사회부장 최희진▷전국사회부장 이성희▷문화부장 이영경▷오피니언·인물팀장 김윤숙▷콘텐츠편집1부장 채희현▷〃　2부장 김은태▷〃　3부장 홍경진▷사진부장 김창길▷엔터테인먼트부장 안병길▷스포츠부장 김세훈▷편집부장 주현수▷미디어전략실 서비스기획팀장 염기호▷광고국 광고관리팀장 박영진◇경영기획실 경영기획팀장 이영수▷기획인사팀장 조현진◇스포츠경향 생활경제부장 강석봉◇문화사업국 사업2팀장 민기혜◇사회경제연구원 포럼기획팀장 고영득&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS한국방송&lt;/b&gt;▷콘텐츠전략본부 멀티플랫폼센터 마케팅국 광고기획부장 신경식&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“허둥지둥 등교하던 내 자식 같아” 성균관대 미화원들의 아침밥 기부</title>
-      <link>https://www.chosun.com/national/people/2026/04/17/DKR5C2HABVFM7JL2L4APYTRO6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/17/DKR5C2HABVFM7JL2L4APYTRO6A/</guid>
-      <dc:creator>김병권 기자, 이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTNPVJWHU5B25ENPRYXDQG3EOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 종로구 성균관대 명륜당 앞에서 인문사회과학캠퍼스 미화원들이 기념 사진을 찍고 있다. 이들은 ‘천원의 아침밥’ 사업에 써달라며 십시일반 모은 2026만원을 성균관대에 기부했다. /김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 성균관대 인문사회과학캠퍼스 지하 3층에 있는 환경 미화원 사무실 입구엔 작년 1월부터 갈색 종이 상자가 하나 놓여 있었다. 아침을 거르고 오는 학생들을 위해 아침밥을 챙겨주자는 취지로, 미화원들이 의기투합해 십시일반 성금을 모으기 위해 둔 상자였다.&lt;br&gt;&lt;br&gt;지난 달까지 상자 안에 모인 돈은 총 2026만원. 올해 연도와 같은 숫자다. 10원짜리 동전부터 5만원권 지폐까지 권종도 다양했다. 미화원 64명이 모금한 돈을 성균관대 ‘천원의 아침밥’ 사업에 써달라며 지난 15일 학교에 기부했다. ‘천원의 아침밥’은 정부와 학교가 지원해 학생들에게 저렴하게 아침 식사를 제공하는 사업이다. 학생들은 1000원만 내면 학내 식당에서 아침 식사를 해결할 수 있​는데, 성균관대 미화원들의 이번 기부로 더 많은 학생이 혜택을 누릴 수 있게 됐다.&lt;br&gt;&lt;br&gt;작년 6월 대학 야구 선수로 활동하던 작은아들을 암으로 떠나보냈다는 미화원 김모(64)씨는 “항상 겸손하고 예의 바르게 인사하는 학생들을 보면 내 자식 같다”며 “밥 잘 챙겨 먹고 사회에 나가서도 잘 적응했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;13년째 성균관대에서 미화원으로 근무 중인 오모(66)씨는 “아침에 청소하다 보면 강의실 앞에서 음료수도 없이 빵 한 조각 먹는 학생들을 보게 된다”며 “그때마다 허둥지둥 등교하던 자녀들 생각이 나 안타까웠다”고 했다. 그는 이어 “명문대에서 일하는 것도 큰 행운인데, 대학교도 못 다닌 내 한(恨)을 학생들 아침밥을 차려 준다는 생각으로 틈틈이 기부하며 풀었다”고 했다.&lt;br&gt;&lt;br&gt;미화원들 중에는 10년 이상 근무한 이가 많아 학생들을 가족처럼 여기는 분위기가 크다고 했다. 16년째 이 학교 미화원으로 일하고 있는 박복순(72)씨도 “2년 전 친손녀가 아픈 적이 있는데 그때 돈이 인생의 전부가 아니라는 걸 깨닫게 됐다”며 “어렵게 사는 학생들이 많을 텐데, 친손주 같은 학생들 아침밥이라도 챙겨 먹이고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;성균관대 미화원들의 선행은 이번이 처음이 아니다. 성균관대 자연과학캠퍼스 미화원 100여 명은 지난 2024년 3월에도 학교 측에 1200만원을 ‘천원의 아침밥’ 기금으로 전달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 곽동길 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/17/Y3T5BJAUIBHYBNV2U7CMC4IGYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/17/Y3T5BJAUIBHYBNV2U7CMC4IGYE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;곽동길&lt;/b&gt; 별세, &lt;b&gt;이상수&lt;/b&gt;·&lt;b&gt;이상원&lt;/b&gt;·&lt;b&gt;이상욱&lt;/b&gt;·&lt;b&gt;이정숙&lt;/b&gt;·&lt;b&gt;이상태&lt;/b&gt; 모친상, &lt;b&gt;윤호병&lt;/b&gt; 장모상, &lt;b&gt;조선자&lt;/b&gt;·&lt;b&gt;조양현&lt;/b&gt;·&lt;b&gt;김종란&lt;/b&gt; 시모상, &lt;b&gt;이환희&lt;/b&gt;·&lt;b&gt;이준희&lt;/b&gt;·&lt;b&gt;이효정&lt;/b&gt;·&lt;b&gt;이유희&lt;/b&gt;·&lt;b&gt;이인희&lt;/b&gt; 전자신문 전국부 기자·&lt;b&gt;이채린&lt;/b&gt;·&lt;b&gt;이건희&lt;/b&gt;·&lt;b&gt;이보경&lt;/b&gt; 조모상, &lt;b&gt;윤해인&lt;/b&gt;·&lt;b&gt;윤원준&lt;/b&gt; 외조모상=15일17시 국립경찰병원, 발인 18일9시, (02)3400-1400&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이명희&lt;/b&gt; 별세, &lt;b&gt;이정희&lt;/b&gt;·&lt;b&gt;이용희&lt;/b&gt; 우리영상미디어 대표·&lt;b&gt;이성희&lt;/b&gt; 모친상, &lt;b&gt;이재환&lt;/b&gt; 앳스타일 대표 조모상=16일5시25분 고려대구로병원, 발인 18일6시30분, (02)857-0444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임경애&lt;/b&gt; 별세, &lt;b&gt;허병두&lt;/b&gt; 前 숭문고 교사·&lt;b&gt;허보인&lt;/b&gt; 서울시 노동자복지관 상담실장·&lt;b&gt;허보경&lt;/b&gt; 모친상, &lt;b&gt;정두현&lt;/b&gt; 투월드 대표·&lt;b&gt;마크 캘버트&lt;/b&gt; 장모상, &lt;b&gt;임은림&lt;/b&gt; 시모상=15일22시46분 국민건강보험공단 일산병원, 발인 18일9시, (031)900-0444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조기찬&lt;/b&gt; 별세, &lt;b&gt;조정현&lt;/b&gt;·&lt;b&gt;조은희&lt;/b&gt;·&lt;b&gt;조수정&lt;/b&gt;·&lt;b&gt;조윤주&lt;/b&gt; 부친상, &lt;b&gt;김윤구&lt;/b&gt;·&lt;b&gt;김관흥&lt;/b&gt;·&lt;b&gt;김성환&lt;/b&gt; 한국투자증권 사장 장인상, &lt;b&gt;신재분&lt;/b&gt; 시부상=16일9시30분 서울성모병원, 발인 18일6시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한종희&lt;/b&gt; 前 두산그룹 오리콤 상무 별세, &lt;b&gt;한동연&lt;/b&gt; 숙명여대 겸임교수 부친상=15일7시32분 서울아산병원, 발인 17일8시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/04/17/5RPTLGE75NBZ5O7SUDWYT6ZAN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/04/17/5RPTLGE75NBZ5O7SUDWYT6ZAN4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNOI743A3VDLLIHGJSU4V4RLQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-4-17일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 10일 ‘우리 아기가 태어났어요’ 코너에 실린 이로하&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘국민 여동생’ 문근영, 벌써 40대...희귀병 완치 후 모습 공개</title>
@@ -837,15 +846,6 @@
       <description/>
       <pubDate>Thu, 16 Apr 2026 14:34:00 +0000</pubDate>
       <content:encoded>금 - 전국 흐림...초여름 더위 잠시 주춤&lt;br&gt;&lt;br&gt;토~일 - 전국 맑은 하늘...기온 다시 올라&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CZPOVDJRZAJDI53PBKPIDCRF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 전한길 구속영장 기각 “증거인멸·도망 염려 인정 어려워”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/BRN4VRAE7BDSRAOZAMKFMUN4RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/BRN4VRAE7BDSRAOZAMKFMUN4RI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 13:39:07 +0000</pubDate>
-      <content:encoded>유튜브에서 이재명 대통령과 관련된 가짜 뉴스를 유포해 명예를 훼손한 혐의를 받는 전한길(본명 전유관)씨가 16일 구속을 피했다. 서울중앙지법 김진만 영장 전담 부장판사는 이날 전씨의 구속영장 실질심사를 진행한 뒤 “증거인멸 및 도망 염려를 인정하기 어렵다”며 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTDGOJQGNSTQYZSG44WMZBVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령과 개혁신당 이준석 대표의 명예를 훼손한 혐의를 받는 유튜버 전한길(본명 전유관)씨가 16일 서울 서초구 서울중앙지방법원에서 열린 구속영장 실질심사에 출석하며 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전씨는 작년부터 자신의 유튜브 채널을 통해 이 대통령이 대장동 사업으로 번 돈을 싱가포르에 숨겨뒀다거나 이 대통령에게 혼외자가 있다는 의혹을 제기했다가 경찰에 고발당했다. 또 이준석 개혁신당 대표의 하버드대 학력이 허위라고 주장해 이 대표에게 고소당했다. 경찰은 정보통신망법상 명예훼손과 전기통신기본법 위반 혐의로 전씨를 수사하고 있다.&lt;br&gt;&lt;br&gt;전씨는 고소·고발을 당한 이후에도 지난달 ‘이재명 대통령이 160조원 규모의 비자금과 군사기밀을 중국에 넘겼다’는 주장을 유튜브로 내보내고 “이준석 개혁신당 대표가 하버드 대학을 정식 졸업했는지 아닌지 의혹이 많다”고 했다. 경찰은 전씨가 이 대통령과 이 대표 관련 유튜브 영상 6개를 올려 3260만원을 벌었다고 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 전씨를 세 차례 조사한 뒤 구속영장을 신청했고, 서울중앙지검 인권보호부는 전씨에 대한 구속영장 청구 전 피의자 면담을 진행한 뒤 “전씨가 가짜 뉴스를 반복적으로 만들어 유포하는 등 사안이 중대하고 재범과 도주의 우려가 있다고 보인다”며 법원에 영장을 청구했다.&lt;br&gt;&lt;br&gt;전씨는 이날 이 대통령 관련 주장에 대해 “미국 언론 보도를 인용한 것뿐”이라며 혐의를 부인했다. 이 대표 관련해선 “하버드에서 경제학 학사를 취득하려면 4년 동안 16과목을 이수해야 하는데 (이 대표는) 5과목만 이수했다. 아무리 허술하다고 해도 하버드 경제학위를 그렇게 줄 리가 없다”며 학력 위조 주장을 되풀이했다.&lt;br&gt;&lt;br&gt;한편, 이날 전씨의 영장 심사는 약 1시간 30분 만에 종료됐으나, 변호인단이 전씨에게 수갑을 채우지 말라고 항의하면서 유치장 호송이 2시간가량 지연된 것으로 전해졌다. 변호인단은 전씨가 수갑을 찬 채 법원을 나서는 모습이 부당하다며 이를 채증하려 했으나 법원 방호원들이 “경내 촬영은 허가가 필요하다”며 제지해 충돌이 빚어졌다고 한다. &lt;br&gt;&lt;br&gt;전씨 측은 “구속 여부도 결정되지 않은 피의자에게 수갑을 채워 심리적으로 위축시키고 언론에 낙인을 찍으려는 것”이라며 “자발적으로 출석한 피의자에게 수갑을 채우는 것은 인격권 침해”라고 했다. 이에 대해 경찰은 “구인영장을 집행한 경우 수갑을 채워 호송하는 것은 적법한 절차”라고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>노동위 “한화오션, 위탁 급식업체 노조와도 교섭해야”</title>
