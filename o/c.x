@@ -13,6 +13,38 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>헌재 간부급 연구관 ‘성 비위’ 잇따라… 그 와중에 승진시킨 헌재</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/JWHSLENFIZEDXC7ML57R2KEURA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/JWHSLENFIZEDXC7ML57R2KEURA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 05:38:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZQTEMBRMY3TCZBZGRTGIZDGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 종로구 재동 헌법재판소 게양대에 걸린 헌법재판소 깃발이 바람에 휘날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소 내부에서 간부급 헌법연구관들의 성 비위 의혹이 불거지며 논란이 일고 있다. 헌재는 최근 발생한 사안과 관련해서는 현재 징계 절차를 밟고 있다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 헌재 소속 A 부장연구관은 약 3년 전 내부 워크숍에서 술에 취한 상태로 여성 연구관 2명에게 부적절한 신체 접촉을 했다는 의혹을 받고 있다. 당시 피해자들의 문제 제기가 있었지만, 피해자들의 의사에 따라 상담 단계에서 사건이 종결되면서 정식 조사나 징계 절차로 이어지지는 않았다.&lt;br&gt;&lt;br&gt;A 부장연구관 사례와는 별개로 또 다른 간부급 인사인 B 부장연구관 역시 성 비위 문제로 징계 절차를 밟고 있는 것으로 알려졌다. B 부장연구관은 한 여성 연구관에게 수개월에 걸쳐 사적인 연락과 만남을 반복적으로 요구한 의혹을 받고 있다. 헌재 내부에서는 그의 행위가 ‘스토킹’ 수준이었다는 주장도 나왔다고 한다.&lt;br&gt;&lt;br&gt;이 사안은 최근 헌재 내부에서 징계가 의결됐다. 이르면 다음 주 중으로 당사자에게 징계 결과가 통보될 예정이다. 징계가 확정되면 헌재 사상 첫 성 비위 징계 사례가 된다.&lt;br&gt;&lt;br&gt;이런 가운데 두 연구관이 최근 승진한 사실이 알려지면서 논란이 일었다. 이에 대해 헌재 관계자는 “인사 발령은 징계 절차 개시 이전에 이뤄진 것”이라며 “단순 신고만으로 인사상 불이익을 줄 경우 절차상 문제가 발생할 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “현재 징계 절차가 진행 중인 B 부장연구관에 대해서는 징계 결과가 나오는 즉시 필요한 후속 조치를 취할 계획”이라며 “인사 조치도 이뤄질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3I4O4KZ6PFKHBDOFJAXQWGNZF4.JPG?auth=43933767080af7195ae0f0fbc48ea9d9d105caa042c05598d3d9348c9b38db6c&amp;smart=true&amp;width=2177&amp;height=1344" type="image/jpeg" height="1344" width="2177">
+        <media:description type="plain">(서울=뉴스1) 이호윤 기자 = 헌법재판소는 법원 재판에 대한 헌법소원을 허용하는 재판소원 제도 시행 이후 지정재판부 사전심사에서 접수된 총 153건중 26건의 청구 사건에 대해 각하 결정을 내렸다. 사진은 25일 서울 종로구 헌법재판소에 걸린 헌법재판소 깃발이 바람에 휘날리는 모습. 2026.3.25/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이호윤 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 4월 20일 월요일 (음력 3월 4일 甲子)</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/19/KS2H3QVDXNAS3FAAILM2TESUPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/19/KS2H3QVDXNAS3FAAILM2TESUPM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>가족에 돌아온 늑구… 소고기 특식 먹으며 점차 기력 회복 중</title>
+      <link>https://www.chosun.com/national/regional/2026/04/19/D3OYSDWAPJELNFMCM5DIUH6HVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/19/D3OYSDWAPJELNFMCM5DIUH6HVA/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 05:54:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRKZUIDCPBAANDT4QKWFAZ4PT4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 대전 중구 오월드에서 탈출한 늑대 '늑구'가 외부 의료기관에서 치료를 받고 회복중인 모습. 늑구는 현재 사육사 및 수의사 관리 하에 정상적인 먹이 섭취와 휴식이 이루어지고 있다. /대전시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 대전 오월드 사파리에서 탈출했다가 17일 새벽 생포된 2살 수컷 늑대 ‘늑구’가 동물원에서 특식을 먹으며 안정을 되찾고 있는 것으로 확인됐다. 탈출 기간 중 낚싯바늘까지 삼킨 늑구는 현재 별 이상 없이 건강을 회복하는 중이다.&lt;br&gt;&lt;br&gt;늑구가 부모와 수컷 동생 등 가족이 있는 동물원으로 무사히 돌아온 직후 대전을 연고지로 둔 프로야구 및 프로축구 팀이 경기에서 승리하자 온라인 커뮤니티에선 “늑구 효과 때문”이라는 말도 돌고 있다. 주요 외신들도 ‘극민 늑대’로 떠오른 늑구의 생환 소식을 일제히 소개하며 높은 관심을 보였다. &lt;br&gt;&lt;br&gt;19일 오월드 등에 따르면, 늑구는 생포된 직후부터 현재 오월드 내 동물병원에서 치료를 받고 있다. 늑구의 건강 상태는 전반적으로 양호한 상태다. 현재 늑구의 체중은 탈출 전(30㎏)보다 3㎏가량 빠진 상태로 알려졌다. 동물원을 탈출해 야생에서 생활하는 동안 제대로 먹지 못한 탓이다. 하지만 늑구가 생포될 당시 몸무게가 35.8㎏으로 탈출전보다 4㎏가량 빠져 있었던 것에 비해선 상태가 점점 나아지고 있다.&lt;br&gt;&lt;br&gt;생포된 늑구는 진료 과정에서 위장 안에 박힌 길이 2.6㎝ 낚싯바늘이 발견돼 내시경으로 제거하는 시술을 받았다. 오월드 관계자는 “늑구가 야생 생활 도중 물가에서 물고기를 먹는 과정에서 낚싯바늘을 함께 삼킨 것으로 추정된다”며 “문제없이 제거한 상태”라고 했다. &lt;br&gt;&lt;br&gt;현재 늑구는 정상적으로 먹이를 섭취하며 기력을 회복하고 있다고 한다. 오월드 측은 소화 부담을 줄이기 위해 늑구에게 평소 먹던 것(생닭 2마리 1㎏ 정도)보다 적은 양의 고기를 잘게 갈아서 먹이고 있다. 기존에 주던 닭고기에 더해 소고기도 함께 먹이는 특식이다. 오월드 측은 “늑구에게 소고기와 닭고기를 갈아 만든 650g을 먹이로 줬는데 남기지 않고 모두 먹었다”며 “늑구 상태를 지켜보면서 먹이는 양을 늘려갈 것”이라고 했다. 또 혹시 모를 바이러스 감염 가능성에 대비해 먹이에 약물을 섞어 먹이고 있다고 한다. 늑구의 회복 상태에 따라 소간 등 고영양 먹이를 추가해 줄 예정이다.&lt;br&gt;&lt;br&gt;늑구는 당분간 동물원 내 별도 공간에서 격리 상태를 유지할 것으로 보인다. 늑구에게 외상은 없지만 야생에서 생활하는 동안 바이러스나 기생충에 노출됐을 가능성이 있기 때문이다. 초기 혈액검사 결과에선 바이러스 감염 등 특이 사항은 없었던 것으로 확인됐다. 오월드 측은 “바이러스 등의 잠복기를 고려해 최소 일주일 이상 늑구의 건강 상태를 꼼꼼히 지켜본 뒤 이상이 없을 경우에 다른 늑대들과 합사할지 여부를 정할 방침”이라고 했다. 이 때문에 늑구와 가족 간의 재회는 아직 이뤄지지 못하고 있다.&lt;br&gt;&lt;br&gt;오월드는 늑구가 탈출한 직후부터 운영이 중단됐다. 아직 운영 재개 시점을 정하지 못한 상태다. 시설 재점검 등을 거쳐야 해서 동물원 운영이 재개되려면 최소 열흘 이상 걸릴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대전 유성구에 사는 주부 김모(43)씨는 “당장 달려가 늑구를 보고 싶지만 지금은 기력을 되찾는 게 우선”이라며 “동물원이 다시 문을 열면 자녀들과 함께 찾아가 늑구의 생환을 축하해줄 계획”이라고 했다.&lt;br&gt;&lt;br&gt;늑구는 연일 화제를 모으고 있다. 늑구를 향한 관심이 온라인과 오프라인을 중심으로 좀처럼 사그라지지 않고 있는 것이다. 대전 지역 온라인 커뮤니티와 SNS 등에는 연일 늑구의 소식과 함께 ‘밈(Meme·인터넷 유행 콘텐츠)’이 유행처럼 번지고 있다. 유명 예능 프로그램 속 늑대를 합성한 사진이 등장하는가 하면, 오월드 방사형 사파리 운영 방식에도 관심을 보이고 있다. &lt;br&gt;&lt;br&gt;온라인 커뮤니티에선 ‘늑구 효과’라는 말이 돌고 있다. 늑구가 돌아온 뒤, 최근 성적이 부진했던 대전을 연고지로 둔 야구 및 축구 프로팀이 연이어 승리하자 나온 말이다. 앞서 ‘늑구도 돌아왔으니 이제 한화의 불펜 제구만 돌아오면 되겠다’는 웃지 못할 농담이 나왔다. 이어 늑구가 살아 돌아오면서 열광하는 분위기 속에 프로야구 한화 이글스가 18일 부산 원정 경기에서 롯데 자이언츠를 이겼다. 또 같은 날 프로축구팀 대전 하나시티즌도 서울월드컵경기장에서 열린 하나은행 K리그1 2026 8라운드 원정 경기에서 서울팀을 1-0으로 꺾었다. 하나시티즌은 최근 3연패에 빠져 있었다. &lt;br&gt;&lt;br&gt;생포 직후 SNS를 통해 늑구 상태를 상세히 공유한 이장우 대전시장은 ‘늑구가 돌아오니 축구, 야구 모두 승리했네∼’라는 게시글을 올렸다. 그러자 대전 시민들은 “한화울브스로 이름을 바꿔야” “늑구는 대전의 승리 요정” “꿈돌이에 이어 늑구 마스코트도 만들어달라”는 등의 댓글을 올리기도 했다. 대전의 한 전자제품 대리점은 전광판을 통해 내보내던 ‘늑구야 돌아와’ 메시지를 생포 이후에는 ‘늑구야 돌아와서 고마워’로 바꿔 올리고 있다. &lt;br&gt;&lt;br&gt;주요 외신인 BBC와 CNN, 로이터통신 등은 ‘늑구의 생환’ 소식을 비중 있게 다뤘다. BBC는 ‘한국에서 9일간 도망치던 늑대가 마침내 잡혔다’는 제목의 기사에서 “두 살배기 늑대 늑구(Neukgu)가 전국적 관심을 받으며 9일간 수색 끝에 생포됐다”며 “수백 명의 인력이 투입됐지만 늑구는 포위망이 좁혀질 때마다 번번이 빠져나갔다”는 소식을 상세히 전했다. 그러면서 “늑구는 ‘결코 갇혀있으려 하지 않는 늑대’이자 ‘자유의 상징’으로 불렸다”고 했다. 로이터통신은 늑구 사건이 한국 사회 전반의 관심을 끌었다는 점에 주목하며 “온라인 게시판과 소셜미디어에서 늑구 포획 소식이 화제가 됐다”면서 일부 네티즌이 늑구를 ‘동물원의 명예 홍보대사’라고 부르며 재개장 시 방문 의사를 밝히고 있다고 전했다. 그러면서 ‘늑구 이름을 딴 암호화폐 밈코인(meme coin)까지 등장했다’는 내용도 소개했다. CNN은 늑대 생포 이후 반응에 초점을 맞춰 “소셜미디어에는 ‘돌아온 걸 환영해’, ‘늑대야, 밖은 위험해’ 등 축하 메시지가 쏟아졌다”며 “동물원이 재개장하면 늑대가 큰 인기를 끌 가능성이 높다”고 보도했다.&lt;br&gt;&lt;br&gt;오월드를 관리하는 대전도시공사는 재발 방지 대책을 마련 중이다. 외부 전문 기관과 합동으로 시설 및 운영 시스템 전반에 대해 점검을 벌여 문제점이 확인되면 즉시 개선할 방침이다. 이번 늑구 탈출 사태로 시민들의 불안을 유발한 만큼 동물 사육장 내부 탈출 방지 대책뿐 아니라 동물원 외부로 빠져나가지 못하도록 안전 장치를 보강할 계획이다. 동물원 측은 늑대 사파리 등에 있는 철조망 울타리를 보강하는 작업을 진행 중이다. 또 동물원 외곽 경계에 있던 기존 2~3.5m 높이 외부 철조망 울타리에 더해 높이 4m 울타리를 추가로 세워 안전장치를 강화할 예정이다.&lt;br&gt;&lt;br&gt;정국영 대전도시공사 사장은 “유사한 사고가 다시 발생하지 않도록 관리 체계를 전면 재정비하겠다”고 했다.&lt;br&gt;&lt;br&gt;지난 8일 오전 오월드 사파리 철조망 아래 땅을 파고 탈출한 늑구는 탈출 9일 만인 지난 17일 생포됐다. 수색 당국은 대전 중구 안영동 대전남부순환고속도로 안영IC 부근에서 늑구를 발견하고 포획에 나섰다. 이어 30분 만인 17일 오전 0시 44분 안영IC 인근 수로에서 늑구를 생포했다. 당시 수의사가 약 20m 거리에서 마취총을 쏴 늑구의 뒷다리 부위를 맞혔다. 늑구는 비틀거리며 400~500m를 달아나다 수로에 빠졌고, 수색 대원들이 구조했다. 이어 오월드 내 동물병원으로 응급 이송된 늑구는 동물원과 국립생태원에서 파견된 수의사들의 보호 속에 같은날 오전 4시쯤 뒤 마취에서 깨어나 회복 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공수처, ‘김건희 특검 편파 수사 의혹’ 박상진 前 특검보 참고인 조사 불발</title>
       <link>https://www.chosun.com/national/court_law/2026/04/19/ODJPBGEV7RBURD6WFJS6GY5LQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/ODJPBGEV7RBURD6WFJS6GY5LQM/</guid>
@@ -906,15 +938,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4ZLT2VX5NLWRCDUDC3QI26HNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부서 회식이 열리던 식당 공용 화장실에 불법 카메라를 설치한 충북교육청 장학관이 1일 오후 청주지법에서 영장실질심사를 받은 뒤 호송차에 오르고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당 공용화장실에 소형 카메라를 설치해 손님들을 몰래 촬영한 충북도교육청 소속 전직 장학관이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;청주지검은 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영·성적 목적 다중이용장소 침입) 혐의로 충북도교육청 전 장학관 A씨를 구속기소했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;검찰 등에 따르면 A씨는 지난 1월 3일부터 2월 25일까지 식당 공용화장실 등 공중화장실 4곳을 포함해 모두 6곳에서 여성 41명의 신체를 불법 촬영한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 올해 초 연수를 다녀오며 연수시설 내 여성 숙소에 카메라를 설치해 이틀간 동료의 신체를 촬영하는가 하면, 친인척 집 화장실에서도 수일간 같은 수법으로 범행을 저질렀다. &lt;br&gt;&lt;br&gt;A씨는 지난해 말부터 소형 카메라 4대를 구입한 것으로 확인됐다. 수사기관은 메모리카드 분석을 통해 전체 100여 개의 촬영물 중 범죄 혐의가 뚜렷한 47개 영상을 증거로 확보했다.&lt;br&gt;&lt;br&gt;A씨는 수사 과정에서 “호기심에 범행을 시작했다”며 피해자들에게 죄송하다는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난 2월 식당 화장실에서 한 시민이 “수상한 물건이 있다”며 경찰에 신고하면서 드러났다. 신고를 받고 출동한 경찰은 현장에서 설치된 카메라를 수거하고 주변 방범카메라 분석 등을 통해 A씨를 용의자로 특정했다. &lt;br&gt;&lt;br&gt;사안의 심각성을 인지한 충북도교육청은 경찰로부터 수사 개시 통보를 받은 즉시 A씨를 직위 해제했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>70대 노모 때려 숨지게 한 40대 남매, 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/VLYAW3BTJJGD5H4RFLKBCIXN7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/VLYAW3BTJJGD5H4RFLKBCIXN7M/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 05:04:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 노모를 때려 숨지게 한 40대 남매가 실형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 17일 존속살해, 노인복지법 위반 등의 혐의로 구속 기소된 누나 백모(47)씨에게 징역 7년을, 남동생 백모(43)씨에게 징역 3년을 각각 선고했다.&lt;br&gt;&lt;br&gt;다만 재판부는 존속살해 혐의가 아닌 존속폭행치사 혐의에 대해 유죄로 인정했다. 살인의 고의를 인정하기 어렵다고 본 것이다. &lt;br&gt;&lt;br&gt;재판부는 “피해자 호흡이 가빠지자 병원에 데려가 진료받게 했고 평소에도 식사와 약 복용을 챙기는 과정에서 화가 나 폭행에 이른 점 등 살해 동기가 명확히 드러나지 않는다”며 “지속적 폭행과 그로 인해 사망에 이르는 결과가 중하긴 하지만, 살인의 고의까지 쉽게 인정하긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “연약한 상태에 있는 존속을 고령으로 인한 인지 능력 저하를 이유로 지속 폭행한 것은 피해자가 느꼈을 극심한 고통을 고려할 때 매우 패륜적”이라며 “사회적 범죄로서 죄질이 좋지 않다”고 했다. 다만 “결과적으로 비극적인 일이 발생했지만 그간의 일상적 유대 관계까지 부인하기는 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 지난해 12월 10일 서울 구로구 자택에서 함께 살던 70대 어머니를 폭행해 살해한 혐의를 받는다. 학대 행위는 2024년 5월부터 이어진 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이들은 어머니가 나이가 들어가며 인지 능력이 떨어지니 멍하니 서 있거나 한다는 이유로 폭행을 이어갔다. 어머니의 입을 청테이프로 붙여 막거나 쓰러진 어머니를 수차례 발길질한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 검찰은 결심 공판에서 누나 백씨에게는 무기징역을, 남동생에게는 징역 20년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>호르무즈 봉쇄 이후…한국 유조선 ‘우회로’ 홍해 첫 통과  </title>
       <link>https://www.chosun.com/national/national_general/2026/04/17/FU7RP6GLQNBHFFZXSLZHHQTRHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/FU7RP6GLQNBHFFZXSLZHHQTRHM/</guid>
@@ -926,24 +949,6 @@
         <media:description type="plain">출처/제미나이</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>오산 접착제 공장서 화학물질 누출 신고… 소방당국, 현장 조치 중</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/6U3TO47G7FHJNCAXMGP6WYEWNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/6U3TO47G7FHJNCAXMGP6WYEWNY/</guid>
-      <dc:creator>오산=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 05:08:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 오산의 한 접착제 제조 공장에서 화학물질 누출이 의심된다는 신고가 들어와 현장 조치가 이뤄지고 있다.&lt;br&gt;&lt;br&gt;17일 소방 당국에 따르면 이날 오전 10시 42분쯤 오산시 누읍동의 한 접착제 제조 공장에서 “공장 부근에서 악취가 난다”는 내용의 누출 의심 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 있던 근로자 등 10명가량은 두통 등을 호소해 병원에서 치료받고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해당 공장에는 평소 소방 당국이 위험물로 분류하는 톨루엔과 아크릴산 등을 취급해왔던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이와 관련, 오산시는 재난안전문자를 통해 관련 내용을 알리며 “인근 주민들은 창문을 닫아달라”고 당부했다. &lt;br&gt;&lt;br&gt;현재 소방 당국과 환경청, 경찰 관계자 등이 현장 조치를 하고 있다. 경찰 관계자는 “정확히 어떤 화학물질이 누출됐는지에 대해서 현장 조사를 더 해봐야 한다”며 “해당 사업장의 안전 수칙 준수 여부 등을 살펴 볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 특검, ‘계엄 가담 의혹’ 해양경찰청·안성식 전 해경 기획조정관 관사 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/17/LEY6ZCXBWJGWXPXYORGIAYFFJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/LEY6ZCXBWJGWXPXYORGIAYFFJM/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 02:37:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTDMOJXGUZDENZYMFTDSYZYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 25일 경기 과천시 2차 종합특검팀(권창영 특별검사) 사무실 앞에서 열린 현판식에서 현판이 공개되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 사건을 수사 중인 2차 종합특검이 17일 해양경찰청과 안성식 전 해경 기획조정관의 관사 등에 대한 압수수색에 나섰다. 종합특검은 해경의 12·3 비상계엄 가담 여부를 수사 중이다.&lt;br&gt;&lt;br&gt;이날 압수수색 대상에는 해양경찰청장실·차장실·정보외사국·수사국 등 해경 청사 사무실과 피의자 안 전 조정관의 관사 등이 포함됐다. 윤석열 전 대통령, 김용현 전 국방부 장관과 같은 충암고 출신인 안 전 조정관은 2023년부터 방첩사 내부 규정인 ‘계엄사령부 편성 계획’에 계엄 선포 후 합수부가 구성되면 해경 인력을 자동으로 파견한다는 내용이 추가되도록 관여한 혐의를 받는다. 또 계엄 선포 직후 전국 지휘관 화상회의에서 직원들의 총기 휴대와 합동수사본부 수사 인력 파견을 주장했다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;조은석 내란 특검은 안 전 조정관 등을 불기소 했으나, 종합특검은 보완수사를 통해 안 전 조정관의 내란 부화수행 혐의점을 포착하고 강제 수사에 착수했다고 한다.&lt;br&gt;&lt;br&gt;종합특검은 복수의 해경 관계자를 상대로 조사를 진행했다. 지난 15일에는 박성하 전 국군방첩사령부 기획관리실장이 참고인 신분으로 조사를 받았다. 특검은 박성하 대령을 상대로 방첩사 내부 규정 개정 배경 등을 물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>돌아온 ‘늑구’ 뱃속에서 2.6cm 낚시바늘 발견… 시술받고 회복 중</title>
