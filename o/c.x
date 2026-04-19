@@ -13,6 +13,124 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>공수처, ‘김건희 특검 편파 수사 의혹’ 박상진 前 특검보 참고인 조사 불발</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/ODJPBGEV7RBURD6WFJS6GY5LQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/ODJPBGEV7RBURD6WFJS6GY5LQM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 03:10:25 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처)가 민중기 특별검사팀의 ‘통일교 편파 수사 의혹’과 관련해 19일 박상진 전 특검보를 참고인으로 불러 조사하려 했지만, 당사자가 불출석하면서 조사가 무산됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSBMIRJMCFMMNEO5KW3ZNQLKUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 관련 의혹을 수사 중인 민중기 특별검사팀의 박상진 특검보가 지난해 10월 2일 서울 종로구 특검 사무실에서 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처 수사4부(부장 차정현)는 이날 오전 민중기 특검팀에서 통일교 수사를 맡았던 박 전 특검보를 소환했지만, 박 전 특검보는 출석하지 않았다. 박 전 특검보는 참고인 조사 일정이 사전에 언론에 공개된 점을 문제 삼아 공수처에 불출석 의사를 밝힌 것으로 전해졌다. 공수처 관계자는 “날짜를 다시 조율해 조만간 참고인 조사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 민중기 특검팀이 지난해 8월 국민의힘 인사들뿐 아니라 더불어민주당 소속 정치인들이 통일교 측에서 금품을 받았다는 진술을 확보하고도, 이를 고의로 수사 대상에서 제외했는지 들여다보고 있다.&lt;br&gt;&lt;br&gt;특검팀은 당시 윤영호 전 통일교 세계본부장으로부터 “2018~2020년 전재수 전 해양수산부 장관에게 한일 해저터널 추진 등 현안 청탁 대가로 명품 시계 2개와 수천만원을 건넸다”는 취지의 진술을 확보했다. 임종성 전 민주당 의원과 김규환 전 미래통합당 의원 등에게도 금품이 전달됐다는 진술도 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;하지만 특검팀은 이들에 대한 수사에 바로 착수하지 않고 관련 내용을 수사 보고서에만 남겨뒀다가, 지난해 11월에야 내사 사건번호를 부여한 것으로 전해졌다. 국민의힘은 이를 두고 “특검이 편파 수사를 했다”며 민 특검 등을 직권남용 및 직무유기 혐의로 경찰에 고발했고, 공수처는 사건을 넘겨받아 수사하고 있다. 공수처는 현재까지 민 특검만 피의자로 입건했고, 박 전 특검보는 참고인 신분인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;공수처는 앞서 지난 1월 민중기 특검팀 사무실을 압수수색해 민 특검과 박 전 특검보의 휴대전화를 확보했다. 지난달에는 특검에서 통일교 수사를 이끌었던 채희만 수원지검 평택지청장을 참고인으로 조사했다. 채 지청장은 공수처 조사에서 박 전 특검보와 민 특검이 “윤 전 본부장의 진술은 수사 대상이 아닌 것 같다”는 취지로 말했다고 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>63세 국내 최고령 안양교도소 가보니... 시설 노후화·과밀수용으로 이중고</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/4KQ6SNFXWVCHXITMNDP3HCXPQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/4KQ6SNFXWVCHXITMNDP3HCXPQQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 03:00:00 +0000</pubDate>
+      <content:encoded>“물이 안 나옵니다” 지난 15일 오후 1시쯤 7평짜리 수용 거실 한쪽에 마련된 화장실에서 식판을 설거지하던 한 수용자가 말했다. 화장실 크기는 1평이 안 돼 한 사람씩만 쓸 수 있었고, 수용 거실에서 함께 식사를 한 수용자 18명이 차례로 자신의 차례를 기다리고 있는 상황이었다. 결국 교도관이 외부에서 물을 떠온 후에야 수용자들은 가까스로 설거지를 마칠 수 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MAQOAGMREFEPNFFFI6PKS5JY6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안양교도소 복도. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 경기 안양시 안양교도소에서 기자들을 대상으로 ‘일일 수용자 체험’을 진행하던 중 생긴 일이다. 1963년 준공된 안양교도소는 전국에서 가장 오래된 교도소다. 안양교도소 관계자는 “낡은 시설 탓에 공동 물탱크에서 물을 끌어올리는 수압이 약해졌다”며 “이곳에서는 심심치 않게 발생하는 일”이라고 했다.&lt;br&gt;&lt;br&gt;실제로 기자가 둘러본 안양교도소의 낙후된 시설은 심각한 수준이었다. 복도 벽면은 페인트칠이 군데군데 벗겨져 있었고, 천장에는 가스관, 수도관 등 각종 배관이 그대로 노출돼 있었다. 특히 배관이 무너져 내리는 것을 막기 위해 설치된 ‘ㄷ(디귿)자’ 철제 지지대도 복도 곳곳에서 눈에 띄었다.&lt;br&gt;&lt;br&gt;문제는 이처럼 낙후된 시설이 안양교도소의 교정·교화 기능에 실질적인 장애물이 되고 있다는 점이다. 안양교도소는 수용동을 비롯해 총 1만2107평 규모 89개 동으로 운영되고 있다. 그러나 이 중 34개 동은 지난해 안전진단에서 ‘조속한 보수·보강 필요’ 등급인 C등급을 받았다. 수용자들의 종교 활동을 돕는 교회당은 1~2층으로 운영됐다가 2층 교회당이 붕괴 우려 진단을 받으면서 1층에서만 축소 운영되고 있다. 안양교도소 관계자는 “노후 시설이 수년째 방치되면서 수용자들에 대한 내실 있는 교정·교화를 기대하기 힘든 상황이 됐다”고 했다. 사실상 범죄자들을 사회에서 격리하는 역할을 하는 데 그치고 있다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCNI4AJSJZFXTEJVDBDHE7FTAY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;안양교도소 혼거 수용거실. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;낙후된 시설과 함께 과밀 수용 문제도 안양교도소가 풀어야 할 숙제다. 안양교도소의 정원은 1700명이지만 지난 17일 기준 현원은 2284명으로 수용률은 134.4%이나 된다. 전국 교정시설 평균 수용률(125%)을 훨씬 웃도는 수치다. &lt;br&gt;&lt;br&gt;일일 수용자 체험이 진행된 혼거 수용거실 크기는 약 7.4평(24.61 ㎡)이었는데, 이곳에서 통상 15~17명의 수용자들이 함께 생활한다고 한다. 수용자 한 사람당 0.5평도 안 되는 공간을 쓰는 셈이다. 이렇다보니 수용자들이 1.3평(4.13㎡)짜리 독거실로 가기 위해 일부러 문제를 일으키는 사례도 종종 생긴다고 한다. 이와 관련해 수용자 체험에 참여한 정성호 법무부 장관은 “수용자의 안전과 인권, 위생 및 처우 측면에서 시설 신축이 절실한 상황”이라며 “안양교도소 현대화 사업의 시급성을 재확인했다”고 말했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L6DZR7CE35H7DN4GXOBNKWF4AQ.JPG?auth=f561d287bbc697027dcd77f67f7cffd6f916a827c829322bda757c79d3e5fd49&amp;smart=true&amp;width=6240&amp;height=4160" type="image/jpeg" height="4160" width="6240">
+        <media:description type="plain">안양교도소 혼거 수용거실. /법무부</media:description>
+        <media:credit role="author" scheme="urn:ebu">WANG</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>반세기 ‘꽁꽁’ 묶은 안동댐… 축구장 5300개 면적 규제 풀린다</title>
+      <link>https://www.chosun.com/national/2026/04/19/E2WAPQANWBE5ZLNZT2PPVO6BRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/19/E2WAPQANWBE5ZLNZT2PPVO6BRU/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 04:21:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPLVJJSLTTLBN5JTGNEQMWMEOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안동댐 전경. /안동시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1976년 안동댐이 준공된 이후 반세기 만에 자연환경보전지역 일부 규제가 풀렸다. &lt;br&gt;&lt;br&gt;안동시는 ‘안동댐 주변 용도지역(자연환경보전지역)’ 변경을 위한 경북도 도시계획위원회 재심의에서 조건부 의결됐다고 19일 밝혔다. 자연환경보전지역 변경은 안동댐 준공 이후 처음이다.&lt;br&gt;&lt;br&gt;경북도 도시계획위원회는 지난 17일 열린 회의에서 안동댐 주변 자연환경보전지역 일부 중 녹지·농림 지역으로 용도 변경이 가능하도록 조건부 의결했다. 심의에서 자연취락지구 지정은 제외됐다. 수질 오염 방지를 위한 기반 시설 확충 계획이 부족했기 때문이다. &lt;br&gt;&lt;br&gt;안동시에 따르면 안동댐 주변 자연환경보전지역은 시 전체 면적의 15.2%인 231.2㎢다. 이 중 규제가 완화된 축구장 5300개에 해당하는 38㎢는 녹지·농림 지역으로 용도 변경이 가능해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXRXEK4W55DNFFT3NVT3QIEXI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안동댐 주변 자연환경보전지역(붉은선). /안동시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1976년 안동댐 준공 이후 수질 보호와 생태계 보전을 이유로 각종 개발 행위가 제한됐다. 전국 20개 다목적 댐 중 수변 구역, 상수원보호구역 등이 있어도 자연환경보전지역으로 묶인 사례는 안동댐이 유일하다. 특히 낙동강 최상류 식수원이라는 점이 결정적이었다. &lt;br&gt;&lt;br&gt;이 때문에 지역 정치권과 시민들은 정부에 재산권 침해와 도시 성장 저해 등 과도한 토지 규제가 지역 발전의 걸림돌이란 지적을 꾸준히 제기해 왔다. &lt;br&gt;&lt;br&gt;안동시는 2013년부터 타당성 검토 용역 등 자연환경보전지역 규제 완화를 위한 사업을 추진해 왔다. 시 관계자는 “댐 건설 이후 반세기 동안 과도한 규제로 지역 발전이 억제됐지만 이번 결정으로 새로운 성장의 출발점이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여론조사 왜곡·조작 의혹… 경찰, 영주시장 선거 수사 착수</title>
+      <link>https://www.chosun.com/national/2026/04/19/NLHGIAIL6BFHXLCLIATT3ERVOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/19/NLHGIAIL6BFHXLCLIATT3ERVOI/</guid>
+      <dc:creator>영주=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 03:21:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYWEYLGMY3DCYZRGYZGENZVHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 영주시장 선거를 둘러싼 여론조사 왜곡·조작 의혹에 대해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;영주경찰서는 최근 해당 사안과 관련해 고발장이 접수돼 고발인 조사에 이어 녹취록과 관련 자료 등을 확보해 수사하고 있다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;여론조사 조작 의혹 논란은 앞서 지난 8일 박성만·송명달·유정근·최영섭 등 영주시장 예비후보 4명이 공동 기자회견을 열고 대응에 나서면서 불거졌다.&lt;br&gt;&lt;br&gt;이들이 고발장에 제기한 의혹은 안심번호(가상번호) 사전 유출, 가짜 ARS 조사 실시, 조직적인 착신전환, 중고 휴대전화 대량 동원 등이다. 이를 입증할 상대 예비후보 측의 양심 선언자도 확보한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;박성만 예비후보는 “유출된 가상번호를 이용해 미리 전화한 뒤 지지율을 올린 왜곡된 여론조사는 경선 판세를 좌우하려는 명백한 범죄 행위”라며 “여론조사 설계 과정과 정보 유출 여부, 외부 조직 개입 가능성 등 전반에 대한 철저한 수사를 촉구한다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 수사가 진행 중인 사안으로 구체적인 내용을 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대북 소금값 5억 횡령’ 민화협 전 간부들, 1심 징역 3년</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/ATXKWR53BVFXTDFHNW4ADEANNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/ATXKWR53BVFXTDFHNW4ADEANNA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 04:21:03 +0000</pubDate>
+      <content:encoded>대북 지원용 보조금을 유용한 혐의로 기소된 민족화해협력범국민협의회(민화협) 전 간부들이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;민화협은 김대중 정부 시절인 1998년 정당, 시민사회단체 등 200여 개 조직이 모여 만든 대북 지원 단체다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZDOZRQG5RDIYTEHEYGCY3CGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 서울중앙지법 형사32부(재판장 류경진)는 업무상 횡령과 지방자치단체 보조금법 위반 등 혐의로 기소된 민화협 전 대외협력팀장 엄모씨에게 징역 3년을 선고하고 추징금 6700여 만원을 선고했다. 함께 기소된 최모씨에게도 징역 3년과 추징금 6000여 만원을 선고했다.&lt;br&gt;&lt;br&gt;엄씨와 최씨는 2019년 11월부터 2021년 7월까지 대북 소금 지원 사업에 사용한다는 명목으로 민화협이 전라남도에서 받은 보조금 4억7000만원을 개인적으로 사용한 혐의를 받는다. 또 쌀가루 지원 사업과 관련해 보관 중이던 지원금 6800만원을 사업과 무관한 용도로 쓴 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;엄씨는 이와 함께 횡령한 보조금 중 약 20만위안(당시 환율 기준 약 3400만원)을 주중 북한 대사관 관계자에게 건네며 사업 편의를 요청한 혐의(외국환거래법 위반)도 있다.&lt;br&gt;&lt;br&gt;재판부는 “민화협을 위해 사용해야 할 자금을 횡령했고 그 금액이 약 5억원에 이른다”며 “특히 횡령한 4억7000만원은 전라남도로부터 대북 소금 사업 명목으로 지급받은 보조금으로 이는 국민들의 세금이고, 횡령으로 인한 피해가 완전히 회복되지 못했다”고 지적했다.&lt;br&gt;&lt;br&gt;다만 재판부는 쌀가루 지원 사업이 일정 부분 목적을 달성한 점 등을 유리한 정상으로 고려했다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>월요일 전국에 봄비 내리며 ‘초여름 더위’ 해소</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/19/RS5BEC3DZNB25LTZZCVB6V7PB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/19/RS5BEC3DZNB25LTZZCVB6V7PB4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 04:13:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSWIYZYGBQTMMBRMYYWGNZVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 낮 최고 기온이 25도를 웃돌며 초여름 날씨가 이어진 지난 16일 서울 종로구 광화문광장에서 외국인 관광객이 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한낮 수은주가 섭씨 30도 가까이 올라가며 초여름을 방불케 했던 날씨가 20일 봄비와 함께 한풀 꺾일 것으로 전망됐다. 20일 오후부터 북쪽에서 찬 공기가 남하하면서, 21일 출근길에는 기온이 전날 보다 5~10도가량 크게 떨어질 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 20일 중부지방은 북쪽을 지나는 기압골의 영향, 남부지방과 제주는 제주 남쪽 해상에 위치한 저기압의 영향을 각각 받아 전국에 비가 내리겠다. 20일 예상 강수량은 중부지방과 영남 5㎜ 미만, 호남 5~10㎜. 제주 10~60㎜ 등이다. 제주산지에는 80㎜ 이상 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;지난 13일부터 발생한 이상고온 현상은, 20일 이번 비와 함께 해소될 것으로 보인다. 20일 아침 최저기온은 10~15도, 낮 최고기온은 16~24도로 예보됐다. 20일 오후부터 찬 공기가 내려오면서, 21일에는 출근길 기온이 2~10도까지 크게 떨어질 것으로 보인다. 다만 낮 기온은 16~23도 수준으로 전날과 비슷해서, 일교차가 15도 이상 벌어지는 곳이 많겠다.&lt;br&gt;&lt;br&gt;다음 주는 비가 오락가락 할 것으로 전망된다. 22일 밤부터 제주에 비가 내리겠고, 23일에는 제주와 남부지방에 비가 예보됐다. 기온은 평년 수준을 유지할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>직업 변경 숨긴채 사망보험금 청구... ‘계약해지 무효’ 뒤집은 대법</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/VXP5DQHGZ5BHLBOIYGB2FTABKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/VXP5DQHGZ5BHLBOIYGB2FTABKQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 03:54:28 +0000</pubDate>
+      <content:encoded>보험 가입자가 사고 발생 위험이 높은 직업으로 변경한 사실을 숨긴 채 사망 보험금을 청구했다면, 유족이 보험금을 청구한 시점을 보험사가 ‘통지의무 위반 사실을 안 날’로 볼 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2TQMRWGAZWGOLBMMYDSOBWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 A씨 유족이 B보험회사를 상대로 낸 보험금 청구 소송에서 원고 승소 판결한 원심을 깨고 사건을 부산지법으로 돌려보냈다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2014년 5월 B사와 상해 사망 시 법정 상속인에게 1억5000만원을 지급하는 보험 계약을 체결했다. 당시 A씨의 직업은 ‘아파트 경비원’이었다.&lt;br&gt;&lt;br&gt;그런데 A씨는 이후 직업을 ‘선박기관장’으로 바꿨음에도 이를 보험사에 알리지 않았다. 그러던 중 2022년 4월 7일 대만 해상에서 A씨가 탑승했던 선박이 조난당하는 사고가 발생했고, 그는 다음 날 사망한 채 발견됐다.&lt;br&gt;&lt;br&gt;유족들은 같은 해 6월 3일 B사에 사망 보험금을 청구하면서 사망 원인을 ‘선박 조난으로 인한 익사’로 기재했다. 다만 A씨 직업이 바뀐 사실은 숨긴 채 ‘직무 외 1회성 선박 탑승’이었다고 주장했다.&lt;br&gt;&lt;br&gt;보험 약관과 상법 652조 1항에 따르면, 보험 기간 중 피보험자가 사고 발생의 위험이 현저하게 변경되거나 증가한 사실을 알게 된 때에는 지체 없이 보험자에게 통지해야 한다. 이를 위반하면 보험사는 그 사실을 안 날로부터 1개월 이내에 계약을 해지할 수 있다. 선박 승무원 등 직무상 선박에 탑승 중 발생한 사고도 보험금 지급 면책 사유에 해당한다.&lt;br&gt;&lt;br&gt;B사는 자체 조사를 통해 A씨가 선원으로 근무하다 사고를 당했다는 사실을 파악했다. 이후 보험금 청구일로부터 40일이 지난 7월 13일 ‘직업 변경 통지의무 위반’을 이유로 유족들에게 보험 계약 해지를 통보했다.&lt;br&gt;&lt;br&gt;하지만 유족들은 “B사가 통지의무 위반 사실을 안 날로부터 1개월이 지나 계약을 해지했으므로 해지권 행사는 무효”라며 소송을 제기했다.&lt;br&gt;&lt;br&gt;1·2심은 유족들 손을 들어줬다. 원심은 “B사는 유족들이 구체적인 사망 사유를 기재해 이 사건 보험금을 청구한 2022년 6월 3일경 망인의 통지의무 위반 사실을 알았다고 봄이 상당하다”며 “B사는 그로부터 제척 기간 1개월이 경과한 후인 2022년 7월 13일에 이르러서야 보험 계약 해지를 통보했으므로 B사의 해지권 행사는 제척 기간의 도과로 효력이 없다”고 판단했다. 그러면서 B사가 유족들에게 총 1억5000만원의 보험금을 지급해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;하지만 대법원 판단은 달랐다. 대법원은 “유족들은 ‘망인이 대만 해상에서 선박의 조난으로 익사했다’는 취지의 보험금 청구서를 제출하면서 망인의 ‘직무 외 1회성 선박 탑승’을 주장했으므로 B사로서는 망인의 직업이 보험계약 체결 당시의 ‘경비원’에서 ‘선박기관장’으로 변경된 사실조차 쉽사리 알 수 없었을 것으로 보인다”고 밝혔다. 이어 “B사가 보험금 청구서를 접수받았다는 사정만으로 그 즉시 망인의 직업 변경 통지의무 위반이 있음을 알게 됐다고 볼 수는 없다”며 사건을 파기환송했다.&lt;br&gt;&lt;br&gt;이번 대법원 판결로 파기환송심에서 B사의 보험계약 해지가 적법하다고 인정될 가능성이 커지면서 유족들의 보험금 지급은 어려워질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>살 쏙 빠져 돌아온 늑구, 소고기 특식 싹 비웠다… 회복 중</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/19/UMVJCMLE4RGFFKWYB4PKMIY56M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/19/UMVJCMLE4RGFFKWYB4PKMIY56M/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 00:50:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTQYLFGBQTKMTBGVRDMYZUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 대전 중구 오월드에서 탈출한 늑대 '늑구'가 외부 의료기관에서 치료를 받고 회복중인 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 오월드에서 탈출해 9일 만에 돌아온 늑대 ‘늑구’가 특식을 먹으며 안정을 되찾고 있다. 탈출 기간 낚싯바늘을 삼킨 것으로 나타났지만, 수술 후 큰 이상 없이 회복 중이다.&lt;br&gt;&lt;br&gt;19일 오월드에 따르면 늑구는 현재 사육사와 수의사의 관리 아래 정상적인 먹이 섭취와 휴식을 이어가고 있다. 이날 늑구는 먹이로 제공된 소고기와 생닭 약 650g을 남김없이 모두 섭취했다고 오월드는 밝혔다. 평소 오월드에서는 늑대에게 닭고기를 먹이로 공급하지만, 장기간 제대로 먹지 못한 늑구에게는 소고기와 닭고기를 함께 제공했다고 한다. 회복 속도에 따라 소간 등 영양이 풍부한 먹이도 줄 예정이다.&lt;br&gt;&lt;br&gt;오월드는 “지속적인 관찰을 통해 늑구의 상태를 실시간으로 살피고 있다”며 “늑구의 안정적인 적응을 돕기 위해 최선을 다하겠다”고 했다. 아울러 “오월드는 늑대뿐만 아니라 모든 동물의 안정과 안전을 최우선으로 신중하게 관리해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 늑구는 지난 8일 오월드 사파리 철조망 아래를 파고 탈출한 뒤, 9일 만인 지난 17일 생포됐다. 수색 당국은 이날 안영IC 부근에서 늑구를 발견하고 포획 작전에 나섰으며, 작전 시작 30분 만인 0시 44분 늑구의 허벅지에 마취총을 쏴 생포에 성공했다. 오월드 내 동물병원으로 응급 이송된 늑구는 전국 각지 동물원과 국립생태원에서 파견된 수의사들의 보호 속에 오전 4시쯤 마취에서 안전하게 깼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TMN3FGVSDINJSMNSTCNZYGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 오월드 동물원을 탈출한 수컷 늑대 '늑구'가 9일 만에 포획됐다. 17일 관계자들이 오월드로 이송된 늑구의 건강상태를 확인하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검사 결과 늑구에게 큰 건강상 이상은 없는 것으로 파악됐다. 다만 위장 깊은 곳에서 길이 2.6㎝의 낚싯바늘이 발견돼 인근 2차 병원으로 옮겨져 제거 시술을 받았다. 위 속에서는 나뭇잎과 생선 가시도 발견됐다. 탈출 이후 물가에서 물고기를 잡아먹으며 주린 배를 채웠던 것으로 보인다. 몸무게는 35.8㎏으로 평소보다 4㎏가량 줄었으며, 혈액검사에서는 특이 사항이 없었던 것으로 확인됐다. 외상은 발견되지 않았지만, 바이러스 등의 잠복기를 고려해 최소 일주일에서 열흘 동안은 격리 상태를 유지할 계획이다.&lt;br&gt;&lt;br&gt;늑구 포획 이후 오월드는 “먼저 지난 며칠간 늑대 탈출 소식으로 많이 놀라고 걱정했을 모든 분께 진심으로 고개 숙여 사과드린다”며 “다행히 많은 분이 한마음으로 걱정해 주고 도와준 덕분에 늑구를 무사히 발견해 안전하게 품으로 데려올 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;오월드는 늑구의 회복과 안전 점검을 위해 19일까지 휴장을 지속할 예정이다. 오월드는 늑구 탈출 이후 안전을 위해 운영을 일시 중단한 바 있다. 오월드는 “현재 늑구가 안정을 취할 수 있도록 보살피는 한편, 안전 관리 체계를 점검하고 시설을 재정비하고 있다”며 “재개장 일정은 정비가 끝나는 대로 홈페이지를 통해 빠르게 안내해 드리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YHZ2FKOG7JEXNBDD23YNCOREU4.JPG?auth=f777ca65db30576a57f0bb10b6e30d7cbff5bdba336d2b56b9d42848dad75c72&amp;smart=true&amp;width=1355&amp;height=1016" type="image/jpeg" height="1016" width="1355">
+        <media:description type="plain">17일 대전 중구 오월드에서 탈출한 늑대 '늑구'가 외부 의료기관에서 치료를 받고 회복중인 모습. (대전시 제공. 재판매 및 DB금지) 2026.4.17 ⓒ 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>法 “군필자 우대가 승진 격차로 이어지면 성차별”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/TZHNTPRT3RDIZKWTQBO45JVDUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/TZHNTPRT3RDIZKWTQBO45JVDUU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 03:25:03 +0000</pubDate>
+      <content:encoded>제대 군인에게 채용 시 호봉을 높게 쳐주는 것은 법적으로 문제가 없지만, 이로 인해 승진 시기까지 여성 근로자 등 비(非)군필자보다 앞당겨지게 한 사내 인사 제도는 ‘성차별’이라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYGINBTGFRTGOLBMIYDSMRSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 양순주)는 여성 근로자 A씨가 국가인권위원회를 상대로 낸 진정신청 기각처분 취소 소송에서 원고 승소 판결했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨가 입사한 사단법인은 대학 졸업자의 초임을 6급 10호봉으로 정한다. 다만 군 복무 경력 2년이 있는 제대 군인에게는 2호봉을 가산해 ‘5급 12호봉’으로 채용하고 있다. 이 때문에 A씨 등 여성 근로자들은 남성 근로자들과 같은 기간 동일한 노동을 제공해도 임금 격차가 발생하고, 높은 직급(4급)으로 승진하는 데 2년이 늦어지는 불이익을 받았다. A씨는 이를 문제 삼아 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;하지만 인권위는 지난해 2월 “제대 군인 여부에 따라 초임 호봉을 달리 정한 것은 여성 차별 행위로 보기 어렵다”며 A씨의 진정을 기각했다. 인권위는 제대군인법 16조 3항이 취업 지원 실시 기관에 채용된 제대 군인의 호봉이나 임금 결정 시 복무 기간을 근무 경력에 포함할 수 있도록 규정하고 있다는 점을 근거로 들었다. A씨는 이에 불복해 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 법인이 군 경력자에게 2호봉을 가산해 더 높은 기본급을 지급하는 것 자체는 정당하다고 봤다. 재판부는 “본인의 의사와 상관없이 징집 또는 소집돼 군 복무를 함에 따른 경제적 손실을 보전해주기 위한 것”이라며 “차별에 해당한다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;그러나 군필자에게 5급을, 미필자에게 6급을 부여해 결과적으로 여성의 승진 시기가 2년 늦어지게 설계된 구조는 위법하다고 판단했다. 재판부는 “제대군인법은 취업 지원 실시 기관이 호봉이나 임금을 결정함에 있어 군 경력을 근무 경력에 포함할 수 있다고 규정하고 있을 뿐, 이를 승진에까지 반영할 수 있다고 규정하고 있지는 않다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “이 사건 인사·관리 규정에서 경력 가산 사유로 규정한 ‘병역법 및 관련 법률에 의한 의무를 마치기 위해 징집 또는 소집된 경우’에는 여성이 편입될 수 없다”며 “이는 전체 남성 대부분에 비해 전체 여성을 차별 취급하고 있는 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“돈 받아 전달하면 수당”… 보이스피싱 가담 20대 징역 1년</title>
+      <link>https://www.chosun.com/national/regional/2026/04/19/YODP2DGQCZHCJC2IT7NBXXNUV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/19/YODP2DGQCZHCJC2IT7NBXXNUV4/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>구직 사이트에 일자리를 찾다 보이스피싱 범죄에 가담한 20대가 징역형을 선고받았다.
+춘천지법 형사2부(재판장 김성래)는 통신사기피해환급법 위반 혐의로 기소된 A(27)씨에게 징역 1년을 선고했다고 19일 밝혔다.</description>
+      <pubDate>Sun, 19 Apr 2026 01:27:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZWIYRSMJRWKMBWMQZDGZLEGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구직 사이트에서 일자리를 찾다 보이스피싱 범죄에 가담한 20대가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 통신사기피해환급법 위반 혐의로 기소된 A(27)씨에게 징역 1년을 선고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 3월부터 5월까지 4차례에 걸쳐 보이스피싱 피해자들로부터 9600만원을 건네받아 조직에 전달한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 2024년 2월 구직 사이트를 통해 알게 된 보이스피싱 조직원으로부터 “현금을 받아 전달해주면 수당을 주겠다”는 제안을 받고 범행에 가담한 것으로 나타났다. 이 조직은 금융기관 직원을 사칭해 대출금 상환을 빌미로 피해자들을 속였다.&lt;br&gt;&lt;br&gt;재판부는 “전기통신금융사기 범행은 사회적 해악이 심대해 엄히 처벌할 필요가 있다”면서 “다만 피고인에게 피해 금액 전부에 대한 책임을 지우는 것은 다소 가혹한 면이 있는 점, 동종 전과가 없는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>달리던 트럭 논고랑으로 빠져… 1명 숨지고 1명 부상</title>
+      <link>https://www.chosun.com/national/incident/2026/04/19/YCFBQ5U3OJHG5LIB5EFFMX2TR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/19/YCFBQ5U3OJHG5LIB5EFFMX2TR4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 01:29:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSGGMRSMQYDANRUMY4DCNJYGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화에서 도로를 달리던 트럭이 논고랑으로 빠지는 사고가 발생해 1명이 숨지고 1명이 다쳤다. &lt;br&gt;&lt;br&gt;19일 인천소방본부 등에 따르면 전날 오후 4시 35분쯤 인천 강화군 양사면 북성리의 한 도로에서 70대 남성 A씨가 몰던 1t 트럭이 논고랑으로 빠졌다. &lt;br&gt;&lt;br&gt;이 사고로 A씨가 119 구급대에 의해 병원으로 옮겨졌으나 숨졌고, 함께 타고 있던 A씨의 딸 40대 B씨가 다리와 팔 등을 다쳐 병원에서 치료를 받고 있다. &lt;br&gt;&lt;br&gt;A씨 트럭은 갑자기 중앙선을 넘은 뒤 논고랑으로 빠지면서 사고가 난 것으로 파악되고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>택시비 요구에 기사 폭행한 50대 ‘징역 1년’</title>
+      <link>https://www.chosun.com/national/regional/2026/04/19/7GP2GLLTLJD35MKSZ2E2DGSCZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/19/7GP2GLLTLJD35MKSZ2E2DGSCZQ/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>택시 요금을 요구하는 기사에게 주먹을 휘두르고 주차된 차량에 벽돌을 던진 50대가 징역형을 선고받았다.
+춘천지법 형사1단독 정종건 부장판사는 특정범죄가중법상 운전자 폭행 등 혐의로 기소된 A(53)씨에게 징역 10개월을 선고했다고 19일 밝혔다.</description>
+      <pubDate>Sun, 19 Apr 2026 01:30:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZWIYRSMJRWKMBWMQZDGZLEGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시 요금을 요구하는 기사에게 주먹을 휘두르고 주차된 차량에 벽돌을 던진 50대가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 정종건 부장판사는 특정범죄가중법상 운전자 폭행 등 혐의로 기소된 A(53)씨에게 징역 10개월을 선고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 9월 강원도 춘천에서 택시 기사 B(70)씨가 요금을 요구하자 “먼 길로 돌아왔다”며 시비를 걸고 B씨를 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 같은 해 8월에는 춘천의 한 주차장에서 술에 취한 상태로 주차된 승용차를 향해 벽돌을 던져 차량을 파손한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 이 전에도 폭행과 존속상해죄 등 범죄로 처벌받은 전력이 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;정 부장판사는 “피고인은 폭력 범죄로 여러 차례 처벌받은 전력이 있고, 누범 기간 중 범행을 반복한 점을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>사용자성 인정? 분리교섭 기각?... 노란봉투법 한달, 현장만 ‘흔들’</title>
       <link>https://www.chosun.com/national/2026/04/19/GUYGEZJZGNRTENJUHA2DOM3DMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/04/19/GUYGEZJZGNRTENJUHA2DOM3DMU/</guid>
@@ -819,33 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 오산의 한 접착제 제조 공장에서 화학물질 누출이 의심된다는 신고가 들어와 현장 조치가 이뤄지고 있다.&lt;br&gt;&lt;br&gt;17일 소방 당국에 따르면 이날 오전 10시 42분쯤 오산시 누읍동의 한 접착제 제조 공장에서 “공장 부근에서 악취가 난다”는 내용의 누출 의심 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 있던 근로자 등 10명가량은 두통 등을 호소해 병원에서 치료받고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해당 공장에는 평소 소방 당국이 위험물로 분류하는 톨루엔과 아크릴산 등을 취급해왔던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이와 관련, 오산시는 재난안전문자를 통해 관련 내용을 알리며 “인근 주민들은 창문을 닫아달라”고 당부했다. &lt;br&gt;&lt;br&gt;현재 소방 당국과 환경청, 경찰 관계자 등이 현장 조치를 하고 있다. 경찰 관계자는 “정확히 어떤 화학물질이 누출됐는지에 대해서 현장 조사를 더 해봐야 한다”며 “해당 사업장의 안전 수칙 준수 여부 등을 살펴 볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전광훈 “난동 때 잤다… 난 소변도 스스로 못 누니 재구속 말라”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/UKP5ZKLDCZEC7II5QWLDYSWPIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/UKP5ZKLDCZEC7II5QWLDYSWPIY/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 04:33:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3IDZHXQGFLC7AI4QUGJ4OCQL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 난동 사태 배후로 지목돼 수건조물침입교사 혐의 등으로 기소된 전광훈 사랑제일교회 목사가 17일 서울 마포구 서울서부지법에서 열린 재판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태 배후로 지목돼 구속 상태로 재판에 넘겨졌던 전광훈 사랑제일교회 목사가 17일 열린 재판에서 거듭 혐의를 부인했다. 이날 재판은 전 목사가 보석으로 풀려난 뒤로는 처음 열렸다.&lt;br&gt;&lt;br&gt;서울서부지법 형사1단독 박지원 판사는 이날 특수건조물침입교사 등 혐의를 받는 전 목사에 대한 2차 공판기일을 열었다. 앞서 법원은 지난 7일 건강상 사유 등으로 보증금 납입 및 주거 제한과 같은 조건을 걸고 전 목사의 보석 청구를 인용한 바 있다.&lt;br&gt;&lt;br&gt;재판장에 출석한 전 목사는 “사건 전날 연설을 마치고 몸이 안 좋아 집에 가서 자고 있었다”며 “다음 날 인천공항에서 유튜브를 보고 나서야 지지자들이 법원에 쳐들어간 사실을 알게 됐다”고 했다. 난동 사태를 조장했다는 혐의를 재차 부인한 것이다.&lt;br&gt;&lt;br&gt;전 목사가 보석 조건을 어겼는지를 두고 공방이 오가기도 했다. 검찰 측은 전 목사가 지난 12일 영상 예배에서 “수도권 자유마을 대표들을 교육하겠다”고 발언한 점을 문제 삼았다. 보석 조건으로 명시된 ‘교사행위의 정범으로 기재된 인물들에 대한 직간접적 접촉 및 의사소통 금지’를 어겼다는 취지다. 반면 전 목사 측은 “해당 발언은 정범과 무관하다”고 반박했다.&lt;br&gt;&lt;br&gt;한편 이날 전 목사는 재판 출석에 앞서 취재진에 “나는 오줌도 내 힘으로 못 싸서 의료기기로 강제 배출하고 있다. 목 수술만 3번을 했고 목에 철심을 박아 손발이 제대로 움직이지 않는 중환자”라고 했다. 이어 “이런 사람을 두 달 반 동안 구치소에 가둬 놓는 게 말이 되느냐”며 “판사도 이런 점을 알고 있기 때문에 보석을 허가한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;전 목사는 지난해 1월 19일 윤석열 전 대통령 지지자들이 서울서부지법에 난입해 집기를 파손하고 경찰을 폭행하도록 조장한 혐의를 받는다. 검찰은 당시 전 목사가 자신의 신도와 광화문 집회 참가자 등을 상대로 “국민저항권으로 반국가세력을 처단해야 한다”는 취지의 발언을 해 난동을 부추겼다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘태블릿PC 조작설’ 변희재 징역 2년 확정… “공정하게 재판 받을 권리 침해” 재판소원 청구</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/17/R3ZMXO2LT5HWFB7E2FQTCRQWU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/R3ZMXO2LT5HWFB7E2FQTCRQWU4/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDEOJYGEZTIZJWHBSDENZTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미디어워치 대표 고문 변희재. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;JTBC가 ‘박근혜 국정농단’ 사건 핵심 증거인 태블릿PC에 담긴 정보를 조작해 보도했다고 주장한 인터넷 매체 ‘미디어워치’ 대표 고문 변희재씨가 대법원에서 징역 2년을 확정받았다. 변씨는 공정한 재판을 받을 권리 등이 침해됐다며 재판소원을 청구했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준)는 명예훼손 혐의를 받는 변씨의 상고를 기각했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;미디어워치 전 대표이자 현 대표 고문인 변씨와 소속 기자 등은 2016년 12월 “JTBC가 김한수 전 청와대 행정관과 공모해 태블릿PC를 입수한 뒤, 파일을 임의로 조작해 최서원(개명 전 최순실)씨가 사용한 것처럼 보도했다”는 허위 사실을 퍼뜨렸다. 이들은 해당 내용을 미디어워치 홈페이지와 유튜브에 게재했으며, 변씨 등이 발간한 서적에 해당 내용을 포함시키기도 했다. 변씨 등은 이후 명예훼손 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 변씨에게 징역 2년을 선고했다. 재판부는 “JTBC가 태블릿PC를 입수하게 된 경위 부분에 합리적으로 의심할 만한 정황이 나타나지 않았음에도 피고인들은 당시 잠금장치를 해제하는 과정에서 패턴이 일치할 확률이 수학적으로 매우 희박하다는 등의 이유를 들어 태블릿PC 입수 경위에 대한 JTBC의 보도는 허위라고 주장하고 있다”고 했다. 그러면서 “피고인들의 주장 내용은 막연한 추측이거나 피고인들의 주관에 기인한 것일 뿐 피고인들이 그 사실의 출처 등을 밝히거나 구체적인 소명자료를 제시한 바가 없다”고 판단했다. &lt;br&gt;&lt;br&gt;2심은 변씨와 검찰의 항소를 기각했다. 재판부는 “피고인 측에서 구체적인 소명 자료를 전혀 제출하지 않았고, 검사가 제출한 증거들에 의해 주장에 대한 신빙성이 탄핵되었다”고 봤다. 또 “피고인은 당심이 이르러서까지도 잘못을 진지하게 반성하기는커녕 자신들을 합리화하기에 급급하고, 현재까지도 이 사건 공소사실 기재 주장과 동일한 주장을 인터넷 매체를 통해 보도하는 등 피해자들에 대한 명예훼손 행위를 반복하고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 변씨의 상고를 기각했다. 대법원은 “원심의 판단에 필요한 심리를 다하지 않은 채 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 법리오해, 판단누락 등의 잘못이 없다”고 설명했다.&lt;br&gt;&lt;br&gt;실형이 확정되자 변씨 측은 “사법부는 언론의 자유와 비판적 소수 의견을 소중히 여기고 가급적 처벌을 삼가야 한다”며 재판소원을 청구했다. 변씨 측은 “태블릿PC의 실제 사용자와 데이터 조작 여부를 밝히기 위해 필수적인 증거조사를 수차례 신청했으나, 법원은 합리적 이유 없이 이를 기각해 청구인의 방어권을 본질적으로 침해했다”며 “대법원 역시 항소심의 명백한 위법을 바로잡지 않아 청구인의 공정한 재판을 받을 권리 등을 중대하게 침해했다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“알갱이를 종이에 말아 흡입”… 대로변서 마약 투약한 외국인 긴급체포</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/J5LKZLNIJBHERGF3ECAZ6E75CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/J5LKZLNIJBHERGF3ECAZ6E75CI/</guid>
-      <dc:creator>양인성 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 02:41:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종암경찰서가 대로변에서 마약을 투약한 외국인을 긴급체포해 조사하고 있다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;외국인 남성 A씨는 지난 15일 저녁 6시 15분쯤 서울 성북구 길음동의 한 왕복 8차선 대로변에서 본인이 소지하고 있던 마약을 투약한 혐의를 받는다. 경찰은 “외국인 남성이 알갱이를 작은 종이에 말아 흡입하고선 기침을 한다”는 신고를 받고 출동해 A씨를 긴급체포했다고 한다.&lt;br&gt;&lt;br&gt;경찰이 A씨를 상대로 진행한 마약 간이 시약 검사에서는 양성 반응이 나왔다. 정확한 마약 성분은 분석 중이다. 경찰은 A씨가 마약을 입수한 경로와 투약 경위를 조사하는 한편 A씨에 대한 출국금지도 검토하고 있다고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2차 특검, ‘계엄 가담 의혹’ 해양경찰청·안성식 전 해경 기획조정관 관사 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/04/17/LEY6ZCXBWJGWXPXYORGIAYFFJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/LEY6ZCXBWJGWXPXYORGIAYFFJM/</guid>
@@ -871,90 +962,6 @@
       <description/>
       <pubDate>Fri, 17 Apr 2026 02:18:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZY3RB4WCDBCLBHYJLRZRMTHIX4.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포시 중문오일장 내 식당에서 새벽 시간대를 노린 소주 절도범이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서귀포경찰서는 절도 혐의로 50대 남성 A씨를 검거해 조사하고 있다고 17일 밝혔다. A씨는 지난 15일 오전 5시 37분쯤 서귀포시 중문오일장 한 식당에 침입해 술 보관 박스에 있던 판매용 소주를 꺼내 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 이 남성은 지난 3월 28일부터 4월 15일까지 약 19일간 총 9차례에 걸쳐 영업을 하지 않는 새벽 시간대 식당에 몰래 들어가 소주를 훔친 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 경찰은 “새벽마다 소주가 사라진다”는 상인들의 민원을 접수하고 수사에 착수했다. 방범 카메라(CCTV) 영상을 확인한 결과, 오전 3시부터 오전 6시 사이 식당에 들어가 술 보관함에서 소주를 꺼내 가는 피의자의 모습이 반복적으로 포착됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 오전 4시부터 현장 주변에서 잠복 근무를 실시했고, 범행 직전 식당 내부를 물색하던 피의자를 현장에서 검거했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“건강해지라고” 생후 2개월에 떡국 먹인 친모…아동학대 혐의 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/RGLTM7ZXJZD67GJIYMKANPHQKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/RGLTM7ZXJZD67GJIYMKANPHQKE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 00:48:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KCZOGFAINASZGBC24LBXLDMIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소셜미디어(SNS)에 게시된 아기 숟가락 놓인 떡국 사진./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 2개월 아기에게 떡국을 먹인 정황이 담긴 사진을 소셜미디어에 올린 30대 친모가 아동학대 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 아동복지법상 아동학대 혐의로 30대 여성 A씨를 불구속 상태로 검찰에 송치했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 인천 서구 자택에서 생후 2개월 된 아들 B군에게 떡국을 먹이며 학대한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 충분히 소화 기관이 발달하지 못한 B군에게 분유가 아닌 음식을 먹이면서 신체적으로 학대한 것으로 판단했다. 이외의 물리적인 학대나 방임 행위는 확인되지 않았다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “더 건강해지라고 (떡국을) 먹였다”고 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이번 사건은 A씨가 지난 2월 소셜미디어에 직접 올린 사진에서 시작됐다. 사진에는 작은 그릇 안에 떡국과 아기용 숟가락을 놓은 사진이 담겼다. 이를 본 네티즌들은 ‘생후 2개월은 분유만 먹여야 한다’고 우려했고, 일부는 경찰에 학대 의심 신고를 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;인천가정법원은 경찰의 신청을 받고 A씨에게 이달 20일까지 B군 주변 100m 이내 접근을 금지하는 임시 조치 명령을 내린 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘범죄도시 마석도’ 모티브였던 경찰관, 음주운전으로 불구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/17/FW3FXVI6IJB33GCTO3WIRGVWJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/FW3FXVI6IJB33GCTO3WIRGVWJA/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 00:42:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCN3FG42GEODBGEZTCOBQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 신도욱)는 수서경찰서 A 경위를 도로교통법 위반(음주 운전) 혐의로 지난 15일 불구속 기소한 것으로 17일 알려졌다. A 경위는 영화 ‘범죄도시’에서 배우 마동석이 연기한 ‘마석도’ 역의 실제 모델로 알려진 인물이다.&lt;br&gt;&lt;br&gt;A 경위는 작년 11월 24일 오후 8시 30분쯤 술에 취한 채 차량을 운전하다가 서울 강남구 도곡동 강남세브란스병원 인근에서 접촉 사고를 냈다. 당시 A 경위의 혈중알코올농도는 면허 취소 수준(0.08%)으로 조사됐다. 사고로 인한 인명 피해는 없었다. A 경위는 경찰 조사에서 “만취해 차에서 내렸던 상황부터 기억이 난다”는 취지로 자신의 혐의를 인정했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A 경위의 음주 운전 사고 사실이 알려진 후 그를 직위해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대장동 수사 검사 “떳떳함 밝힐 방법 이것 뿐” 극단선택 시도</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/17/WSU274JYWZAZLGZJ3ZOZHIZSO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/WSU274JYWZAZLGZJ3ZOZHIZSO4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:49:00 +0000</pubDate>
-      <content:encoded>대장동 개발 비리 사건을 수사했다가 국회 ‘윤석열 정권 검찰 조작기소 의혹’ 국정조사 증인으로 채택된 현직 검사가 억울함을 호소하며 극단적 선택을 시도한 것으로 16일 알려졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 이모 검사는 지난주 국정조사 특별위원회로부터 이날 열리는 대장동·위례신도시·김용 전 민주연구원 부원장 사건 청문회에 출석하라는 통보를 받았다. 이후 지난 주말쯤 이 검사는 극단적 선택을 시도했다가 병원으로 옮겨졌다. 그는 주변에 “떳떳함을 밝히는 방법은 이것 뿐이다” “죽어야 내 말을 들어줄 것”이라는 취지로 억울함을 호소했다고 한다. 이 검사는 현재 서울 강남의 한 병원에 입원 중이며, 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;2022~2023년 초까지 서울중앙지검 ‘대장동 2기 수사팀’에서 민간사업자 남욱씨 등에 대한 수사를 맡았던 이 검사는 지난 13일 국회에 “지난달 16일 신장절제수술을 받은 후 추가로 입원해 치료 중이나 상태가 호전되지 않아 국회 출석이 불가능하다”는 제출한 불출석 사유서를 제출했다.&lt;br&gt;&lt;br&gt;대장동 사건의 조작 의혹은 작년 9월 남욱씨가 정진상 전 더불어민주당 당대표실 정무조정실장의 대장동 사건 재판에서 “검사가 가족 사진을 보여주며 ‘배를 갈라 장기를 꺼내겠다’고 해 검사의 수사 방향대로 진술했다”고 주장하면서 시작됐다. 이 발언을 한 것으로 지목된 정일권 부장검사는 이날 청문회에 나와 “환부만 도려내는, 실체 진실에 부합하는 사실관계를 확인하려는 것이라고 말했을 뿐”이라고 했다. 가족 사진에 대해선 “남씨가 어려운 시기를 이겨냈으면 좋겠다는 취지로 보여줬고, 회유하거나 협박한 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 청문회에는 화천대유 대주주 김만배씨와 정영학씨 등도 불참했다. 김씨는 “진행 중인 재판에 심각한 영향을 미칠 것으로 사료돼 증언하기가 상당히 곤란하다”고 했다. 국조 특위는 이날 민주당 주도로, 이 검사와 김씨 등 불출석한 증인 5명에 대해 동행명령장을 발부했다.&lt;br&gt;&lt;br&gt;한편 2차 종합특검은 이날 ‘쌍방울 대북 송금 사건’의 진술 회유 의혹을 수사하던 권영빈 특검보를 김치헌 특검보로 교체했다. 권 특검보가 과거 이화영 전 경기도 평화부지사와 방용철 전 쌍방울그룹 부회장을 변호한 이력으로 이해충돌 논란이 불거졌기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[사건 인사이드] 유령 무당 ‘조말례’에 속아 150억을… 재력가 부부에 무슨 일이</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/CIXGN4AOMJGHFEE4AWPVTFW3MQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/CIXGN4AOMJGHFEE4AWPVTFW3MQ/</guid>
-      <dc:creator>김혜민 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPO7MDTN5EJCR3QWRJBEG2WVBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방검찰청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 정수기 업체 창업주의 아들 A씨는 2019년 3월 회사 대표직을 아버지에게서 물려받았다. 그런데 1년 4개월 뒤 업체 대표가 돌연 창업주인 아버지로 다시 교체됐다. 그사이 무슨 일이 벌어진 것일까. 그로부터 수년이 흐른 2025년 12월, A씨는 회삿돈 65억여 원을 횡령한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;경찰에서 A씨 횡령 혐의 사건을 넘겨받은 서울남부지검은 검토 과정에서 석연치 않은 점을 발견했다. A씨가 회사에서 빼돌린 돈 대부분이 여성 장모(50)씨에게 흘러 들어간 것. 장씨는 A씨에게 받은 돈으로 33억원 상당 서울 서초구에 있는 아파트를 사들였다. 그런데 A씨는 “장씨에게 돈을 빌려준 것일 뿐”이라고 주장했다고 한다. 검찰 관계자는 “A씨가 마치 장씨를 보호하려는 듯한 인상을 받았다”고 했다.&lt;br&gt;&lt;br&gt;이상함을 느낀 검찰은 수사에 나섰다. 계좌 추적과 관계자 조사 등을 통해 장씨가 A씨를 ‘가스라이팅(심리적 지배)’해 횡령을 유도했다는 의심을 검찰은 갖게 됐다. 결국 검찰은 보완 수사 끝에 지난 2월 장씨 일당을 특정경제범죄가중처벌법상 사기·공갈 등 혐의로 구속 기소했다.&lt;br&gt;&lt;br&gt;본지가 입수한 공소장에 따르면, 장씨는 2017년 서울의 한 유명 사립초등학교 학부모 모임에서 A씨의 처 B씨를 처음 만났다. B씨가 정수기 회사 창업주의 며느리라는 사실을 알게 된 장씨는 B씨에게 부부 모임을 제안하며 친분을 쌓았다. 이듬해 A·B씨가 아들의 건강 문제를 털어놓자, 장씨는 “고위층 사주를 봐주는 유명한 무속인이 있다”며 ‘조말례’란 인물을 소개했다. 조말례가 단번에 A씨 부부 아들의 열경련 증상을 짚어내자 이후 A씨 부부는 장씨를 신뢰하게 됐다고 한다.&lt;br&gt;&lt;br&gt;그러나 무속인 조말례는 실존하지 않는 가상의 인물이었다. 장씨와 그의 전 남편 심모(48)씨가 조말례를 사칭한 것. 장씨와 심씨는 A씨 부부와 교류하면서 알게 된 정보를 바탕으로 조말례 행세를 한 것이었다. A씨 부부가 조말례란 가상의 인물에게 속아 넘어간 것은 문자 메시지로만 소통했기 때문이다. 장씨와 심씨가 조말례인 양 문자 메시지로 A씨 부부에게 상담을 해준 것이다. &lt;br&gt;&lt;br&gt;장씨와 심씨는 이런 방식으로 A씨를 심리적으로 지배하며 회삿돈을 횡령하도록 종용해 65억원을 가로챘다. 장씨와 심씨는 B씨에게도 같은 방식으로 2018년부터 2020년까지 40여 차례에 걸쳐 아파트 지분과 현금 등 87억원을 빼앗았다. 장씨 일당이 2년여간 A씨 부부로부터 가로챈 금액은 150억원이 넘는다. 장씨 일당은 B씨에게 “더러운 피를 없애야 한다”며 음란 영상을 찍어 보내라고 강요하고, 이후 “돈을 가져오지 않으면 영상을 학교와 가족에게 유포하겠다”고 협박한 것으로 조사됐다. 이런 일들로 가정불화를 겪던 A씨와 B씨는 2020년 이혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노동위 “한화오션, 위탁 급식업체 노조와도 교섭해야”</title>
-      <link>https://www.chosun.com/national/labor/2026/04/16/OSJ7YJO4TFCGZGH2GVL4Q3J4ZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/16/OSJ7YJO4TFCGZGH2GVL4Q3J4ZI/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 11:56:38 +0000</pubDate>
-      <content:encoded>민주노총 금속노조가 한화오션을 상대로 노동위원회에 제기한 ‘사용자성 판단’ 관련 신청이 인용됐다. 금속노조는 한화오션이 급식 업체 ‘웰리브’ 소속 하청 노동자와도 교섭에 나서야 한다고 주장해 왔다. 그동안 한화오션 측은 “웰리브는 생산과 직접 관련이 없는 사업체”라며 사용자성을 부정해 왔지만, 이날 경남지노위는 하청 노동자들의 손을 들어준 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTDAOBYHFRDSNZSGA3TCN3FGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 거제시 한화오션 거제사업장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 경남지방노동위원회는 심판 회의를 열고 민주노총 금속노조가 한화오션을 상대로 제기한 ‘사용자성 판단’ 사건을 인용했다. 웰리브는 한화오션의 급식, 출퇴근 버스 운행, 시설 관리 등 업무를 맡는 도급 업체다.&lt;br&gt;&lt;br&gt;지난달 10일 노란봉투법 시행 직후 금속노조 거제통영고성 조선하청지회와 웰리브지회는 한화오션에 단체교섭을 요구했다. 그러나 한화오션은 교섭 대상에 조선하청지회만 포함하고 웰리브지회는 제외했고, 이에 금속노조는 ‘웰리브지회도 교섭 대상에 포함시켜야 한다’는 이의 신청을 노동위에 제기했다. &lt;br&gt;&lt;br&gt;이번 결정으로 웰리브지회 하청 노동자들도 사용자성을 인정받은 것으로 풀이된다. 이번 결정에 따라 앞으로 한화오션은 급식 등 위탁업체 노동자들과도 직접 교섭해야 할 가능성이 생겼다. 앞으로 도급 방식으로 급식을 운영하고 있는 전국의 다른 기업들에도 영향을 미칠 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>섬 박람회 점검 간 金총리 “뭘 보여주겠다는 건지 불명확”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/04/16/BNMGBVY56ZDHJHUZDU5A4KWQZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/16/BNMGBVY56ZDHJHUZDU5A4KWQZQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 12:00:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRRWPJWA65OANFMNTWNENBGC5E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김 총리는 16일 오후 전남 여수시 여수엑스포기념관을 찾아 전남도와 여수시, 박람회 조직위원회 관계자들로부터 박람회 준비 상황을 보고받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 9월 개막하는 여수 세계 섬 박람회가 준비 부족으로 ‘제2의 잼버리’가 될 수 있다는 우려가 나온 가운데, 김민석 국무총리가 16일 전남 여수를 찾아 행사 준비 상황을 점검했다.&lt;br&gt;&lt;br&gt;여수 섬 박람회는 여수시가 이달 초 지방자치단체 공무원 출신 유튜버 ‘충주맨’ 김선태씨를 불러 만든 홍보 영상을 통해 미흡한 준비 실태가 알려지면서 논란이 됐다. 김씨는 터만 닦고 있는 박람회 행사장에 와서 “공사장인데, 여길 왜 데려왔느냐”고 지적하고, 박람회 예정지라고 안내받고 찾아간 무인도가 기초적인 접안 시설조차 갖춰져 있지 않은 모습을 보여줬다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오후 전남 여수시 여수엑스포기념관을 방문해 전남도와 여수시, 박람회 조직위원회 관계자들로부터 박람회 준비 상황을 보고받았다. 조직위 관계자는 ‘계획대로 진도가 나가고 있다’고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이들에게 “며칠 전 국무회의 때 대통령님께서 ‘여수 세계 섬 박람회가 광주·전남 통합 이후 첫 국제 행사로 예정돼 있는데, 여기저기에서 준비가 잘되고 있는지에 대한 궁금함과 걱정이 있고, 지방선거 때문에 광역자치단체나 여수시가 (박람회 준비에 대한) 집중력이 떨어질 수 있으니 살펴보는 게 좋겠다’고 말씀하셔서 내가 급하게 오게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 여수 세계 섬 박람회가 예산 600여억 원을 투입하고도 개막을 5개월 앞둔 지금까지 거의 준비되지 않았다는 지적이 나왔다. 그러자 이재명 대통령은 14일 국무회의에서 “인프라 조성과 홍보 등에 박차를 가해야 하는 시점인데, 현장에서 우려의 목소리가 나온다”며 “지방선거로 인한 행정 공백 가능성을 감안하면, 대회 준비를 전적으로 지방정부에만 맡겨두기가 만만치 않다. 중앙정부 차원에서 준비 상황을 빈틈없이 점검하고 필요한 지원을 해주면 좋겠다”고 당부했다.&lt;br&gt;&lt;br&gt;김 총리는 박람회 관계자들에게 “오늘은 전체 상황(에 관한 설명)을 말로 듣는 것을 주로 하고, 다음 주에 한 번 더 오겠다”고 했다. 그는 “한두 번 더 와 보고 종합적인 판단을 해서, 보완돼야 할 부분이 어떤 것이 있는지, 중앙정부가 어떤 의견을 낼 수 있는지를 그때 말하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 또 “기본적으로 이것은 여수시가 준비한 국제 행사이고, 여수 시민의 세금이 투입되는 것”이라며 “그만큼 여수시가 주도성과 책임성을 갖고 임하는 것이 당연하다”고 했다. 이어 “중앙정부나 광역자치단체는 지켜보고 옆에서 지원할 것을 지원하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 총리는 “전남광주통합시건 여수시건 (더불어민주당의 공천을 받아) 지방선거에서 당선이 유력한 분들이 (당선 전이라도) 집중력을 갖고 미리 지켜봤으면 좋겠다”고도 했다. 여수시장 권한대행에게도 “선거 기간에는 권한대행에게 책임이 다 위임되는 것이니까, 책임감 있게 잘해 주기 바란다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 조직위에 “섬 박람회가 무엇을 보여주겠다는 것인지 불명확하다”고도 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWI4334SX5OSHFJEBZXOWYXK3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 16일 오후 전남 여수시 개도를 방문해 2026 여수 세계 섬 박람회 준비 상황을 점검하고 있다. /국무총리실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 총리는 이어 행정선을 타고 부행사장인 개도(섬)로 이동해 행사장 조성 현장을 살펴보고, 관광 콘텐츠와 숙소, 식당 등 편의 시설은 무엇이 있는지 점검했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아내 탄 차유리 ‘쾅쾅’ 깨부순 50대...  “가정불화로 범행”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/16/C6M4WK4QVBERHMN7KWF3SHJ7OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/16/C6M4WK4QVBERHMN7KWF3SHJ7OI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 10:04:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2LPKUK6DZGH7GIRB5TEOQ7KS4.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 도로에서 한 남성이 검은색 승용차에 고무망치를 휘두르고 있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내가 탄 차량에 고무망치를 수차례 휘두른 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산 중부경찰서는 16일 특수재물손괴 혐의로 50대 남성 A씨를 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오전 11시쯤 울산 중구 다운동의 한 도로에서 검은색 승용차를 몸으로 막은 뒤 고무망치를 휘둘러 차량 앞유리를 파손한 혐의를 받는다. 신고를 받고 출동한 경찰은 A씨를 현장에서 검거했다.&lt;br&gt;&lt;br&gt;당시 차량 뒷좌석에는 A씨의 아내인 50대 여성 B씨가 타고 있었고, 운전석에는 70대 남성 C씨가 있었던 것으로 전해졌다. A씨는 차 안을 향해 “내려! 내려!”라고 크게 외친 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상을 보면 현장에 있던 다른 시민들이 소동에 놀라 횡단보도를 빠르게 뛰어가는 모습도 포착됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “가정불화로 인해 범행을 저질렀다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이번 사건을 가정폭력으로 판단하고 수사를 중부서 여성청소년과에 배당했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “B씨와 C씨의 관계는 밝힐 수 없다”며 정확한 범행 경위를 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IIGLACZB5HMLEKC7AIRWYOCK4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;한 도로에서 한 남성이 검은색 승용차에 고무망치를 휘두르고 있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2IIGLACZB5HMLEKC7AIRWYOCK4.gif?auth=c393027cca74efbddba795d91fff39203eca2694010baf69bea0c914d73e3a01&amp;smart=true&amp;width=525&amp;height=475" type="image/jpeg" height="475" width="525">
-        <media:description type="plain">한 도로에서 한 남성이 검은색 승용차에 고무망치를 휘두르고 있다./스레드</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘10조원대 전분당 가격 담합 의혹’ 대상 사업본부장, 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/SKEXNCEEVZAKLOAUT7XUF2BVFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/SKEXNCEEVZAKLOAUT7XUF2BVFA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 10:11:06 +0000</pubDate>
-      <content:encoded>10조원대 전분당 가격 담합 의혹을 받는 식품업체 ‘대상’의 사업본부장이 16일 구속 기소됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTQNJYME3WKNJTGJSWCNLBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전분당 업체들의 담합 의혹과 관련해 대상그룹 사업본부장이 지난달 31일 영장실질심사를 받기 위해 서울 서초구 서울중앙지법에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 이날 독점규제 및 공정거래에 관한 법률 위반 혐의를 받는 대상 사업본부장 김모씨를 구속 상태로 재판에 넘겼다. &lt;br&gt;&lt;br&gt;김씨는 경쟁 업체인 사조CPK·삼양사·CJ제일제당 등과 함께 전분당의 판매 가격을 미리 맞추고, OB맥주·서울우유 등 대형 수요처를 상대로 한 입찰 과정에서 가격을 짬짜미해 공정한 시장 경쟁을 방해한 혐의를 받는다. 전분당은 포도당·올리고당 등으로, 과자나 유제품 등 각종 가공식품을 만드는 데 많이 쓰인다.&lt;br&gt;&lt;br&gt;검찰은 업계 시장 점유율 1위인 대상의 핵심 실무 책임자인 김씨가 장기간 담합에 깊숙이 관여한 것으로 보고 있다. 검찰은 이들 4개 업체의 담합 규모가 지난 8년간 10조원을 넘는 것으로 의심하고 있다. 검찰은 지난달 23일 전분당 업체 4곳을 압수수색했고, 지난주에는 대상 대표이사 출신 인사에 대해서도 공정위에 고발 요청권을 행사했다. &lt;br&gt;&lt;br&gt;앞서 검찰은 김씨와 대상그룹 임모 대표이사, 사조CPK 이모 대표이사에 대해 구속영장을 청구했다. 법원은 지난달 31일 김씨에 대해서만 “증거 인멸 및 도망 염려가 있다”며 구속영장을 발부했다. 나머지 두 사람에 대한 영장은 기각됐다.&lt;br&gt;&lt;br&gt;검찰은 임씨와 이씨에 대해서는 추가 수사를 벌인 뒤 처분 방향을 정할 방침이다. 검찰 관계자는 “김씨는 구속 기한을 고려해 먼저 기소했고, 나머지 피의자들에 대해서는 추가 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이원석 “성공한 수사라던 ‘대장동’,  민주당 의뢰로 감찰 대상 돼” </title>
-      <link>https://www.chosun.com/national/court_law/2026/04/16/QE6QY7HZLBGBDF5RPP42NEL5SI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/16/QE6QY7HZLBGBDF5RPP42NEL5SI/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Apr 2026 08:19:41 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAQ7LSSM7NFGJPOF4UNMBPRCTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 서울 여의도 국회에서 윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회 제8차 전체회의에서 열린 대장동·김용 전 민주연구원 부원장·위례신도시 조작기소 의혹 사건 청문회에 이원석 전 검찰총장이 의원 질의에 답하고 있다. 2026.04.16 /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이원석 전 검찰총장이 16일 국회 ‘조작 기소 국정조사’ 청문회에 증인으로 출석해 대장동 수사팀에 대한 법무부의 감찰 지시를 비판했다. &lt;br&gt;&lt;br&gt;이 전 총장은 대장동 및 대북 송금 수사가 정치적 기획 수사였냐는 윤상현 국민의힘 의원의 질의에 “이 사건들은 문재인 정부에서 시작되어 넘어온 잔여 사건이었다. 하늘을 우러러 부끄러움이 없다”고 했다. &lt;br&gt;&lt;br&gt;그는 대장동 항소 포기에 대해 “항소를 포기하면 대장동 일당의 형량은 올라가지 않고 범죄 수익 박탈도 어려워진다”며 “이만큼 대장동 일당에게 이익을 주는 행위가 어디 있겠느냐”고 했다. 또한 “남욱 변호사는 1억도 안 되는 돈을 넣고 1000억원 이상 배당받은 것으로 알고 있다. 1심에서 추징금은 0원”이라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “남욱 변호사는 본인 재산에 대한 압류를 풀어달라고 법률적 쟁송을 벌이는 것으로 알고 있다”고 했다. &lt;br&gt;&lt;br&gt;검찰은 대장동 재판에서 민간 업자들의 범죄 수익을 총 7524억원으로 보고 전액을 추징해 달라고 구형했다. 하지만 작년 10월 서울중앙지법 1심 재판부는 김씨 앞으로 선고된 428억원을 비롯해 총 473억원만 추징금으로 인정했다. 남욱, 정영학씨에 대해서는 추징금이 선고되지 않았다. &lt;br&gt;&lt;br&gt;이후 검찰이 항소를 포기하면서 남씨에 대한 추징금은 0원으로 확정됐다. 그러자 남씨는 작년 12월 검찰이 추징에 대비해 묶어 놓은 재산을 풀어 달라는 신청을 대장동 2심 법원에 냈다. &lt;br&gt;&lt;br&gt;이 전 총장은 또한 “정성호 법무장관이 항소 포기 당시 논란이 일자 대장동 수사와 재판은 성공한 재판이라고 했다”며 “그렇게 성공한 수사와 재판이 몇 달 뒤에 바로 수사 검사 9명을, 민주당의 감찰 의뢰를 받아 감찰 지시를 할 만큼 실패한 수사·재판으로 뒤집혔다. 이유를 납득하지 못하겠다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 지난 7일 대장동 개발 비리 의혹을 수사했던 검사 9명에 대해 감찰에 착수했다고 밝혔다. 이에 대검은 서울고검에 진상 조사를 지시했고 현재 쌍방울 대북 송금 사건의 ‘진술 회유 의혹’을 감찰 중인 인권침해점검 TF가 조사 중이다. 감찰 요청은 민주당 정치검찰조작기소 대응특별위원회가 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;그는 민주당의 ‘조작 수사’ 주장과 관련, “윤 전 대통령을 한 번도 만난 적도, 전화도 통화도 메시지도 주고받은 사실이 없다”며 “저는 텔레그램 깔 줄도 모른다”고 했다. 그러면서 “안 믿으실지 모르겠지만 재임 중 한동훈 법무 장관을 만난 적도 없다. 퇴임하고도 만난 적 없다”고 했다. 이어 “저희들(검찰)에 대해 무슨 말만 하면 내란 세력이라고 한다. 저희들도 계엄과 내란 이 부분에 대해서는 단호히 반대하고 잘못되었다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;이 전 총장은 국정조사에 대해서도 “지금까지 입법부가 사법부 판결에 이렇게 개입한 적이 없다”며 “헌법과 법률에 어긋난다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;그는 “며칠 전 김용 부원장에 대해 (민주당 의원들이) 대법원에 무죄 판결을 선고하라고 하시는 걸 봤다”며 “이걸 보면(국정조사가) 명확하게 재판에 관여할 목적이라는 것을 알 수 있다”고 했다. &lt;br&gt;&lt;br&gt;그는 “똑 같은 증언을 두고 이종석 국정원장과 방용철 전 쌍방울 부회장의 증언을 다투는 것은 법정에서 증언의 신빙성을 판단해야지 국회에서 할 일은 아니다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
