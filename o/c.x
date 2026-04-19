@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>외국인에 물값 2000원 따로… 광장시장 또 바가지 논란 </title>
+      <link>https://www.chosun.com/national/national_general/2026/04/19/N4OLLPD5BNFJLCPY67TYZIGZ5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/19/N4OLLPD5BNFJLCPY67TYZIGZ5Q/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 14:02:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G77CEEXLFREYNPXAAHCPE635MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 외국인 유튜버가 광장시장에서 물값 2000원을 따로 요구하자 "한국에서 처음"이라는 반응을 보이고 있다. /유튜브 '카잉'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 외국인이 서울 종로구 광장시장 노점에서 생수를 2000원에 구입한 영상이 공개되면서 또다시 ‘바가지 요금’ 논란이 일고 있다. &lt;br&gt;&lt;br&gt;한국 생활 13년 차인 미얀마 출신 유튜버 ‘카잉’은 16일 러시아인 친구와 광장시장에 방문한 영상을 올렸다. &lt;br&gt;&lt;br&gt;이들은 한 노점에 들러 만두와 잡채, 소주 한 병을 주문했다. 유튜버는 “소주도 종이컵으로 먹어요?”라고 묻자 상인은 “여기는 (그렇다)”라고 답했다. 이어 “물은 있어요?”라고 묻자 상인은 “2000원”이라며 물값을 따로 요구했다. &lt;br&gt;&lt;br&gt;한국에서 생활하는 동안 물값을 따로 받는 상황을 겪어본 적 없던 유튜버는 “한국 (식당)에서 물 파는 건 처음이에요”라고 말했고, 상인은 “(광장시장에는) 외국인이 많아서 그렇다”고 답했다. &lt;br&gt;&lt;br&gt;유튜버는 이후 해당 영상이 논란이 되자 언론에 “물을 파는 것까지는 이해할 수 있지만, 식당이나 노점에서 물값을 따로 받는 건 처음 겪는 일이어서 솔직히 좀 당황스러웠다”고 했다. &lt;br&gt;&lt;br&gt;광장시장은 해외 관광객 사이에서 주요 명소로 자리 잡았지만 가격과 서비스 논란이 잇따라 불거졌다. 지난해에는 계속되는 바가지 논란에 광장시장 내 일반 점포들이 노점들을 상대로 손해배상 청구 소송을 예고하기도 했다. &lt;br&gt;&lt;br&gt;광장시장은 1956년 지어진 3층짜리 광장주식회사 건물을 중심으로 시장 서문까지를 말한다. 이 구역의 요식업, 의류, 침구류, 전통공예 등 200여개 일반 점포와 먹자골목에서부터 동문까지의 광장전통시장에 위치한 노점들로 이뤄져 있다. &lt;br&gt;&lt;br&gt;논란이 계속되자 중소벤처기업부는 광장시장 신뢰 회복 조치에 나섰다. 중기부와 서울시, 종로구, 소상공인시장진흥공단, 상인회가 공동 협의체를 운영해 가격 표시제와 위생, 상인 대상 친절 서비스 교육 확대, 외국인 관광객 안내 인프라 개선 등을 추진하기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 20일</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/19/EAPK5I2OZVGHRO4WCTMXGHDVCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/19/EAPK5I2OZVGHRO4WCTMXGHDVCM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 14:32:00 +0000</pubDate>
+      <content:encoded>곳곳에 봄비…‘초여름 더위’ 한풀 꺾여&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2ABOGJLQJFJTEMRFTLBLIBDDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무 장관 “검찰, 왜 국민의 신뢰 잃었는지 반성과 성찰이 먼저”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/EWRTFXOXZ5F2BEVACGK3OT4URI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/EWRTFXOXZ5F2BEVACGK3OT4URI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 14:16:19 +0000</pubDate>
+      <content:encoded>정성호 법무부 장관이 19일 검찰을 향해 “왜 국민의 신뢰를 잃었는지 반성과 성찰이 먼저”라며 자성을 촉구했다. 최근 국회 ‘윤석열 정권 검찰 조작 기소 의혹’ 국정조사에 대한 검찰 내부 반발이 이어지는 상황에서, 오히려 검찰이 스스로를 돌아봐야 한다는 메시지를 낸 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTSMJZMY3WIMRWHFQWMOBZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 페이스북에 글을 올려 ‘서울시 공무원 간첩 조작 사건’을 언급했다. 서울시 계약직 공무원으로 일하던 유우성씨는 2013년 2월 국가보안법 위반 혐의로 구속 기소됐으나, 2015년 10월 대법원에서 무죄가 확정됐다. 대법원은 당시 검찰의 공소권 남용을 사상 처음으로 인정했다.&lt;br&gt;&lt;br&gt;이에 대해 정 장관은 “검찰은 이 사건에서 국정원의 증거 조작이 드러나 무죄가 선고되자, 과거 불기소했던 혐의를 다시 꺼내 별건으로 기소했다”며 “대법원은 이를 명백한 보복기소로 판단했다. 실수로 어깨만 부딪쳐도 사과하는 것이 상식있는 사람의 도리지만, 검찰은 한 사람의 삶을 파괴하고도 지금까지 피해자는 물론 국민에게 사과하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “드러난 사례는 빙산의 일각이라는 게 국민들의 믿음”이라며 “오랜 시간 ‘검찰 무오류’ 라는 자기 확신 속에서 자신의 잘못에는 침묵하고 타인의 허물에는 가혹했던 오만함과, 더 큰 권력을 쥔 뒤에는 정적을 향해 수사가 아닌 사냥을 벌이던 잔혹함이 결국 검찰을 개혁의 대상으로 전락시켰다”고 했다. 또 “검찰권 남용의 역사가 누적되어온 결과, 일부 정치 검찰의 과오였다고 항변해도 국민들이 공감하지 못하는 현실에 이르렀다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 “현재 검찰이 처한 어려운 현실과 다수 검사들의 노고를 잘 알고 있다”면서도 “국민들은 검찰이 자신의 어려움을 호소하는 만큼, 과거 국민에게 가한 아픔과 고통에 대해 스스로 진상을 밝히고 책임 있게 사과하고 변화하는 모습을 기대하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “검찰이 앞장서 좀 더 단호하게 잘못된 수사 관행과 오류를 체계적으로 점검하고 바로잡아 나가길 기대한다”며 “그 동안의 검찰권 남용의 피해자들에게도 형식적인 유감 표명이 아닌 구체적이고 진정성 있는 사과가 있어야 할 것”이라고 했다. 외부 전문가가 참여하는 위원회를 구성해 검찰 사무 전반을 시정하는 방안도 제시했다.&lt;br&gt;&lt;br&gt;끝으로 정 장관은 “대한민국은 어느 집단도 특권적 지위를 누리지 못하는 성숙한 민주주의 국가”라며 “국민들은 성찰하고 변화하는 검찰을 기다리고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘인플루언서 사기 무마 의혹’ 경찰 간부 “접대 인정… 룸살롱은 아냐”</title>
+      <link>https://www.chosun.com/national/incident/2026/04/19/WOKZG25O5ZDUJEH6RUVNZBNAJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/19/WOKZG25O5ZDUJEH6RUVNZBNAJE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 13:51:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFMMQOTRZQVLPR3OD2KYW754DI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 본청./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 19일 유명 인플루언서 A씨가 관련된 사기 사건을 무마하는 데 관여한 혐의를 받는 경찰청 소속 C 경정을 지난 18일 직위해제했다고 밝혔다. C 경정은 경찰청 감찰에서 A씨 남편인 사업가 B씨에게서 향응 접대를 받은 사실을 일부 인정했다고 한다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합동수사부(부장 신동환)는 C 경정이 B씨의 로비를 받고 A씨 관련 사건을 무마하는 데 관여한 혐의를 수사 중이다. 지난 2024년 7월 한 프랜차이즈 업체 가맹점주들이 A씨를 사기·가맹사업법 위반 혐의로 서울강남경찰서에 고소한 사건이다. C 경정은 당시 강남서 수사1과 팀장이던 D 경감에게 B씨의 청탁을 전달하고, 수사 정보를 빼돌린 혐의를 받고 있다. 강남서 수사1과는 그해 12월 A씨 사건을 검찰에 송치하지 않기로 하고 종결했다.&lt;br&gt;&lt;br&gt;그러자 B씨는 이듬해인 2025년 초 C 경정과 D 경감을 룸살롱에서 접대한 것으로 전해졌다. B씨와 D 경감은 서로 모르는 사이였는데 C 경정이 소개한 것으로 알려졌다. 검찰은 이후 B씨가 D 경감에게 금품을 건네고, 강남서 수사2과에 남아 있던 A씨 관련 다른 사기 사건까지 무마하려 한 정황을 잡고 수사를 확대하고 있다. &lt;br&gt;&lt;br&gt;이와 관련, C 경정은 경찰청 감찰에서 “지난해 초 유흥주점에서 B씨와 함께 D 경감을 만났다”며 접대받은 사실을 일부 인정한 것으로 알려졌다. C 경정은 다만 “접대받은 곳은 룸살롱이 아닌 바 형태의 주점이었고 다른 지인 2~3명이 함께 동석했다. B씨 아내 A씨도 잠시 들러 인사했다”고 주장했다고 한다. 하지만 C 경정은 B씨에게 D 경감을 소개한 이유, 수사 정보를 유출했는지 등에 대해서는 진술하지 않은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰청은 C 경정이 사건 관계인에게 부적절한 향응을 받은 것으로 판단하고 직위해제했다. D 경감은 지난달 말 먼저 직위해제됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>美 대사관 “방시혁 출국금지 풀어달라” 경찰에 서한</title>
+      <link>https://www.chosun.com/national/incident/2026/04/19/LHUKSNCVRJCTJCUV6S5MMDTSPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/19/LHUKSNCVRJCTJCUV6S5MMDTSPI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 13:47:59 +0000</pubDate>
+      <content:encoded>주한 미국 대사관이 최근 경찰 수사로 출국 금지된 방시혁 하이브 의장이 미국을 방문할 수 있도록 협조해 달라는 내용의 서한을 유재성(경찰청 차장) 경찰청장 직무대행 앞으로 보낸 것으로 19일 알려졌다. 출국 금지 조치를 일시 해제해 달라는 취지로 보인다.&lt;br&gt;&lt;br&gt;미국 대사관은 서한에서 방 의장과 이재상 최고경영자(CEO), 김현정 부사장 등 하이브 고위 경영진의 미국 방문 이유로 7월 4일 예정된 미국 250주년 독립기념일 축하 행사 참석을 언급했다고 한다. 최근 월드투어에 나선 방탄소년단(BTS)의 미국 투어 관련 협의 필요성도 거론한 것으로 알려졌다. 업무상 이유가 있는 만큼 출국 금지를 일시적으로 풀어달라는 취지로 보인다. &lt;br&gt;&lt;br&gt;방 의장과 이 대표는 하이브 상장 과정에서 2000억원 규모의 부당 이득을 챙긴 혐의(자본시장법 위반)로 서울경찰청 금융범죄수사대의 수사를 받고 있다. 방 의장은 작년 8월 출국 금지됐다. 출국 금지 해제는 통상 수사기관의 요청에 따라 법무부가 심의위원회를 열어 결정한다. &lt;br&gt;&lt;br&gt;박정보 서울경찰청장은 이달 초 방 의장 사건과 관련해 “법리 검토가 대부분 완료됐다”며 “머지않아 결론을 낼 것”이라고 했다. 경찰은 미국 대사관 측의 방 의장 출국 금지 일시 해제 요청을 수용할지 고심 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4KRBNH632ZF35MYWNTEWWGPOBA.jpg?auth=847a486b15c776ef988ffe1119cc9457e7fedaf38e782f77ac91005a5621d22d&amp;smart=true&amp;width=330&amp;height=186" type="image/jpeg" height="186" width="330">
+        <media:description type="plain">조사 받기 위해 경찰 출석하는 방시혁 의장</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>내일부터 우회전 집중단속… ‘아차’ 하면 6만원 날아간다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/19/WB62NCNOF5HXHJ2IVXN27ZIEWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/19/WB62NCNOF5HXHJ2IVXN27ZIEWA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 12:25:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRQWKYJZME4WMZDFGQ2DKMTFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우회전 일시정지 단속 자료사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 우회전 일시 정지 의무 위반 차량에 대해 두 달간 집중 단속에 나선다. 제도가 시행된 지 2년이 흘렀지만 현장 혼선이 이어지자 보행자 안전 확보를 위해 단속 수위를 끌어올린다는 취지다. &lt;br&gt;&lt;br&gt;경찰청은 20일부터 6월 19일까지 우회전 통행 방법 위반에 대한 집중 단속을 벌인다고 밝혔다. 단속은 교차로 등 우회전 사고 위험이 큰 구간을 중심으로 이뤄질 예정이다. &lt;br&gt;&lt;br&gt;현행 도로교통법에 따르면 우회전하려는 운전자는 전방 차량 신호등이 빨간색일 경우 차량 진행 방향의 정지선·횡단보도·교차로 앞에서 일시 정지해야 한다. 또 우회전 후 만나는 횡단보도에서 보행자가 건너고 있거나, 건너려고 하는 경우에도 일시 정지해야 한다. 일시 정지 의무를 어길 경우 승용차 기준 범칙금 6만원, 벌점 10점이 부과된다. &lt;br&gt;&lt;br&gt;문제는 아직까지 현장에서 규정을 정확하게 알지 못하는 운전자가 적지 않다는 점이다. 경찰청은 “일시 정지하지 않고 그대로 통과하거나, 일시 정지 의무를 지키는 앞차를 향해 경적을 울리는 등 운전자 간 마찰과 법규 오인 사례가 있다”고 설명했다. &lt;br&gt;&lt;br&gt;이런 혼선이 결국 사고 위험으로 이어진다는 게 경찰청의 분석이다. 지난해 우회전 교통사고는 1만4650건이 발생해 75명이 사망하고 1만8897명이 다쳤다. 사망자 중 42명(56%)은 보행자였다. &lt;br&gt;&lt;br&gt;같은 기간 전체 교통사고 사망자 중 보행자 비율이 36.3%인 점과 비교하면 우회전 사고 시 보행자 위험도가 특히 높다고 경찰은 보고 있다. &lt;br&gt;&lt;br&gt;경찰청 관계자는 “우회전 시 일시정지를 통해 보행자를 확인하고 서행하는 것만으로 사고를 충분히 예방할 수 있다”며 “이번 집중단속 기간을 통해 운전자들이 우회전 일시정지 의무를 명확히 인식하기를 기대한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘대장동 수사’ 송경호 前 지검장 “국정조사, 삼권분립 정면 도전”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/19/K3QQDRGNTNATXHMB5QFPVQWZ7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/K3QQDRGNTNATXHMB5QFPVQWZ7Q/</guid>
@@ -874,36 +931,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42WINLGMEZDKZBYMM2TEODFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원의 접근 금지 명령이 끝난 지 일주일 만에 아내를 흉기로 살해한 혐의로 재판에 넘겨진 60대 중국인에게 항소심 재판부도 징역 27년을 선고했다.&lt;br&gt;&lt;br&gt;법조계에 따르면 서울고법 인천원외재판부 형사2부(재판장 이정민)는 17일 살인 혐의를 받는 중국 국적 60대 A씨의 항소심 선고 공판에서 1심 판결을 그대로 유지했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 A씨에게 징역 27년을 선고했다. 1심에서 무기징역을 구형했던 검찰은 A씨의 형량이 너무 낮다며 항소했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “원심판결 이후 양형을 변경할 만한 사정이 없다”며 “검사가 항소심에서 주장한 양형(무기징역) 사유는 대부분 원심에서 고려된 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 19일 오후 4시 30분쯤 인천시 부평구 한 오피스텔 현관 앞에서 60대 아내 B씨를 흉기로 여러 차례 찔러 살해한 혐의를 받는다. 그는 2024년 12월 특수협박 범행으로 B씨 주변 100m 이내 접근 금지와 연락 제한 등 법원의 임시 조치 명령을 받았었다. A씨는 임시조치 기간이 끝난 뒤 일주일 만에 범행한 것으로 조사됐다. 또 사건 발생 사흘 전과 전날에도 B씨를 찾아간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>길고양이 죽여 집유 받았는데 또 범행... 징역 4개월 실형</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/17/SYGSK2WGDZFU5KONZAOXCQ6GBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/SYGSK2WGDZFU5KONZAOXCQ6GBI/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 07:31:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFJYCZHSVZPSHUI3P4DTXXQ2YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;길고양이의 모습. (사진은 기사와 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길고양이를 발로 차 죽인 혐의로 집행유예를 선고받은 30대가 또 같은 범행을 저질렀다가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면, 수원지법 형사14단독 강영선 판사는 동물보호법 위반 혐의로 재판에 넘겨진 A씨에게 징역 4월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 5월 4일 오후 11시 30분쯤 경기 수원시 장안구의 한 길가에서 발견한 고양이의 꼬리를 붙잡고 바닥에 여러 차례 내려치고 발로 짓밟아 죽게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 2024년 9월에도 고양이를 발로 걷어차 죽게 한 혐의(동물보호법 위반)로 재판에 넘겨져 작년 2월 징역 6월에 집행유예 2년을 확정 선고받았는데, 집행유예 기간에 재차 범행을 저지른 것이다. 그는 자신이 이 혐의로 처벌받은 것에 화가 난다며 또 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2GGZLGGY2WKZBXMEYDQYTGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강 판사는 “피고인은 집행유예 판결이 확정된 바 있음에도 얼마 지나지 않은 시점에서 노상에서 고양이를 보고 화가 난다는 이유로 범죄를 저질렀다”며 “범행의 수단과 방법도 매우 참혹해 비난 가능성이 커 죄책에 상응하는 실형 선고가 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;강 판사는 “재범하지 않겠다고 서약하면서 반성하는 태도를 보이는 점, 피고인이 앓는 질환의 증세가 이 사건 범행의 한 원인이 되는 등 경위에 일부나마 참작할 사정이 있는 점 등은 유리한 정상으로 참작한다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘딸·사위 집에 홈캠 설치' 류중일 감독 사돈 가족 1심 무죄</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/QJ5OBMRSLZA7HLHI2LQHWX42NM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/QJ5OBMRSLZA7HLHI2LQHWX42NM/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 05:51:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4WMODFGY2WCZRVGRSGENRYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류중일 전 한국 야구 국가대표팀 감독. photo 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;류중일 전 야구 국가대표팀 감독 아들 부부의 신혼집에 홈캠(홈 카메라)을 설치한 전 사돈 가족이 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;17일 서울남부지법 형사합의12부(재판장 박종열)는 통신비밀보호법 위반 등 혐의로 재판에 넘겨진 류 전 감독 아들의 전 장인 박모씨와 처남 박모씨에게 각각 무죄를 선고했다. 지난달 열린 결심 공판에서 검찰은 이들에게 각각 징역 1년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들이 (류 전 감독 아들의) 주거지에 홈캠을 설치한 사실이 인정되지만 수집된 증거만으로는 타인의 대화를 비밀리에 녹음하려는 고의가 있었다고 인정하기 어렵다”며 “(피해자 자택은) 별거 뒤 이혼 과정에서 아무도 거주하지 않은 상태였다”고 했다.&lt;br&gt;&lt;br&gt;이어 재판부는 “홈캠 설치를 지시한 전 장인이 녹음 기능까지 있는 장비를 설치하라고 지시했다고 볼 증거가 없다”며 “설령 소리가 녹음될 가능성을 인식했다고 하더라도, 그것이 곧바로 타인의 대화를 녹음하려는 의도라고 단정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;앞선 재판에서 이들은 “홈캠 설치는 몰카가 아닌 ‘방법’ 목적이었다”고 주장해왔다. 이에 대해 재판부는 “혹시라도 발생할 수 있는 사고 등을 미연에 방지하기 위해 설치할 필요가 있었다는 주장도 나름의 일리가 있는 요소”라고 봤다.&lt;br&gt;&lt;br&gt;이들은 지난 2024년 5월 13일 류 전 감독의 아들 부부 신혼집에 몰래 들어가 녹음 기능이 있는 홈캠을 설치한 혐의를 받았다. 당시 류씨 부부는 신혼집을 비운 채 별거 상태였다.&lt;br&gt;&lt;br&gt;박씨 부자는 류씨 부부가 이혼 소송을 진행하는 과정에서 갈등을 빚자 관련 대화를 녹음하고자 홈캠을 설치한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이 사건은 교사였던 류 전 감독의 며느리가 고등학생 제자와 부적절한 만남을 이어왔다는 의혹이 제기되며 불거졌다.&lt;br&gt;&lt;br&gt;류 전 감독은 지난해 12월 국민 청원 게시판에 글을 올려 교사인 며느리가 고등학생 제자와 호텔을 가는 등 부적절한 관계를 이어왔지만 검찰이 무혐의 처분을 내렸다며 처벌을 촉구했다. &lt;br&gt;&lt;br&gt;이에 류 전 감독의 사돈 측은 딸이 고등학생 제자와 부적절한 만남을 가진 적이 없으며, 류 전 감독 아들 측이 이 의혹을 빌미로 거액을 달라는 요구를 해왔다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대장동 원래 땅주인, 남욱·정영학에 30억 소송 패소</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/17/P4HU5EEHVFFWVNHTHG3RFXWN7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/17/P4HU5EEHVFFWVNHTHG3RFXWN7E/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 06:51:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSWEODGGBTGKZBSGNRWGNDGMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남욱 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시 대장동 개발 사업이 이뤄지기 전 원래 토지 소유주가 남욱 변호사와 정영학 회계사 등 민간 업자를 상대로 “개발 과정에서 입은 손해를 배상하라”며 소송을 냈으나 1심에서 패소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사27부(재판장 김경진)는 17일 전의 이씨 전성군 시평간공 사직공파(평산종중)가 남씨와 정씨, 화천대유 관계사인 천화동인 5호를 상대로 낸 30억원의 약정금 청구 소송에서 “원고의 청구를 모두 기각한다”고 선고했다. 소송 비용도 종중 측이 부담하도록 했다.&lt;br&gt;&lt;br&gt;이 사건은 대장동 개발 초기 민간 개발을 추진하던 시행사 ‘씨세븐’과 원래 토지주였던 종중 간 토지 거래에서 비롯됐다. 종중은 2009년 씨세븐 측에 토지를 매각하면서 사업 자금 조달을 위해 근저당권 설정을 해줬고, 이를 바탕으로 씨세븐은 저축은행 등에서 대규모 대출을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;하지만 이후 이재명 대통령이 성남시장으로 취임한 이후 공영 개발로 방침이 바뀌면서 씨세븐은 경영 위기에 몰렸고, 대출을 해준 저축은행 측이 담보로 잡힌 종중 토지를 압류하면서 거액의 손해를 떠안게 됐다고 한다. 종중은 이후 씨세븐 사업권을 넘겨받은 남씨가 “대장동 사업과 관련해 발생하는 모든 민·형사상 책임을 부담한다”는 취지의 확인서를 작성했다며 이를 근거로 배상을 요구한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;씨세븐 자문단이었던 남씨와 정씨는 2011년 씨세븐 경영권을 넘겨받으며 사업 주도권을 잡았고 이후 성남시의 민관 합동 방식에 올라탔다. 이 과정에서 김만배씨도 영입했다. 남씨와 정씨, 김씨 등 대장동 일당은 유동규 전 성남도시개발공사 기획본부장 등과 공모해 민간 측에 이익을 몰아주는 설계로 막대한 배당금과 시행 이익을 챙기고, 그만큼 공사에 손해를 입힌 혐의(배임) 등으로 기소됐다. 작년 10월 이 사건 1심 재판부는 “대장동 사건은 피고인들이 장기간에 걸쳐 금품 제공 등을 매개로 형성한 유착 관계에 따라 벌인 부패 범죄”라며 전원에게 실형을 선고하고 법정 구속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GZSWEODGGBTGKZBSGNRWGNDGMM.jpg?auth=22f8c2814cbdf79a595c2a30d28df5a65bdaabe55764f8ed8fe6b62e9b46646b&amp;smart=true&amp;width=4023&amp;height=2682" type="image/jpeg" height="2682" width="4023">
-        <media:description type="plain">남욱 변호사. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>미스 이란, 한국 지원 반대하더니... 글 지우고 “외교부에 감사”</title>
       <link>https://www.chosun.com/national/national_general/2026/04/17/MLDRNR74NBDB3KZC7XWG2EYWIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/MLDRNR74NBDB3KZC7XWG2EYWIE/</guid>
@@ -915,36 +942,6 @@
         <media:description type="plain">호다 니쿠 인스타그램</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>경북 경주 한 공장서 30대 작업자 철판에 깔려 숨져</title>
-      <link>https://www.chosun.com/national/regional/2026/04/17/JOI56DKWUVE5TFQMKO7DDE5ZTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/17/JOI56DKWUVE5TFQMKO7DDE5ZTU/</guid>
-      <dc:creator>경주=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 06:39:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주 한 공장에서 작업 중이던 30대가 철판에 깔려 숨졌다. &lt;br&gt;&lt;br&gt;17일 경북소방본부에 따르면, 이날 정오쯤 경북 경주시 안강읍 한 공장에서 작업 중이던 30대 A씨가 가로 4ｍ, 세로 2ｍ 크기 철판에 깔려 심정지 상태로 병원으로 이송됐으나 숨졌다. 이날 사고는 철판에 연결된 줄이 끊어지면서 그 아래에서 작업하던 A씨를 덮쳐 일어났다. &lt;br&gt;&lt;br&gt;경찰과 소방당국은 공장 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아침엔 액셀, 저녁엔 브레이크 밟아야 하루가 건강</title>
-      <link>https://www.chosun.com/medical/2026/02/26/O7LUBDNYNVFYZLB44VOJLT3XF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/02/26/O7LUBDNYNVFYZLB44VOJLT3XF4/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Feb 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGYMGH3PLNBZREGGNTIOMG2LCA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아침 7시. 스마트폰 알람이 세 번이나 울린 뒤에야 겨우 눈을 뜬다. 커튼은 닫힌 채 방 안은 어둡다. 세수도 하기 전 휴대전화 화면부터 들여다본다. 커피 한 잔과 토스트 한쪽으로 식사를 때우고 출근한다. 밤이 되면 상황은 반대다. 침대에 누웠지만 잠은 오지 않는다. 머리는 또렷하고, 생각은 꼬리를 문다. &lt;br&gt;&lt;br&gt;많은 현대인이 겪는 하루인데, 이는 태양 주기에 따른 자율신경의 흐름과 반대로 살고 있기 때문이다. 아침에 활성화되는 교감신경으로 하루 시작하고, 저녁과 밤에 활성화되는 부교감신경으로 하루 마침표를 찍어야 낮에는 활기차고, 밤에는 숙면에 이를 수 있다.&lt;br&gt;&lt;br&gt;그 리듬의 중심에 ‘자율신경’이 있다. 자율신경은 우리의 의지와 무관하게 심장, 혈관, 위장, 체온을 24시간 조절하는 생명 유지 시스템이다. 자율신경은 활동과 긴장을 담당하는 교감신경, 휴식과 회복을 담당하는 부교감신경 두 축으로 나뉜다. 자동차에 비유하면 교감신경은 ‘액셀’, 부교감신경은 ‘브레이크’다.&lt;br&gt;&lt;br&gt;건강한 하루의 조건은 아침에는 액셀을 밟고, 저녁에는 브레이크를 밟는 것이다. &amp;lt;생체시계만 알면 누구나 푹 잘 수 있다&amp;gt;의 저자 이헌정 고려대병원 정신건강의학과 교수는 “생체시계 하루 리듬은 아침에 맞춰 교감신경이 활성화 되어 낮에 각성하고 활동하게 하고, 밤에는 부교감신경이 활성화되어 편안히 이완되어 잠들 수 있도록 한다”고 말했다. “낮을 낮답게 보내야 밤이 밤답게 찾아온다”며 “아침의 움직임, 식사 같은 신호가 자율신경의 하루 리듬을 정렬해주고, 아침 햇빛은 뇌에 찍는 ‘출근 도장’ 역할을 한다”고 이 교수는 전했다.&lt;br&gt;&lt;br&gt;이에 아침 ‘스위치’를 잘 키는 게 중요하다. 첫째 엑셀은 햇빛이다. 아침 햇빛을 받으면 교감신경이 활성화되고, 약 12시간 뒤에는 부교감신경이 자연스럽게 올라갈 준비를 한다. 아침 빛이 밤 수면을 예약한다. 가능한 한 일출 시간에 맞춰 일어나 방안 커튼을 열고 햇빛을 봐야 한다. 햇살이 들어오는 창가에서 스트레칭을 하고, 출근길에는 고개를 들고 햇빛을 받는 게 좋다&amp;lt;그래픽 참조&amp;gt;. &lt;br&gt;&lt;br&gt;둘째 엑셀은 단백질 섭취다. 단백질은 세로토닌과 도파민 같은 신경전달물질 재료로, 이들은 뇌의 각성과 기분을 올린다. 식사를 거르면 교감신경을 올릴 연료가 부족해지는 셈이다. 계란, 두부, 생선, 요거트, 콩류 등 단백질을 포함한 아침 식사가 도움이 된다. 하루 식사의 비중은 아침·점심을 충분히, 저녁은 가볍게 하는 것이 자율신경 리듬에 유리하다. &lt;br&gt;&lt;br&gt;셋째 엑셀은 가벼운 움직임이다. 아침에 5~10분만 몸을 움직여도 교감신경은 빠르게 올라간다. 계단 오르기, 걷기, 간단한 스쿼트 등이 권장된다. 넷째는 배변이다. 아침에 일정한 시간에 화장실을 가는 습관은 장의 리듬을 안정시킨다.&lt;br&gt;&lt;br&gt;저녁엔 브레이크를 밟아야 한다. 늦은 밤의 과도한 빛, 스마트폰 사용, 과격한 운동, 과식은 교감신경을 다시 자극한다. 야식은 밤 브레이크를 망친다. 잠들기 1~2시간 전부터 실내 조명을 낮추고, 천천히 숨을 내쉬는 호흡을 해보라. 깊게 내쉴수록 부교감신경은 활성화된다.&lt;br&gt;&lt;br&gt;아침에 브레이크를 밟은 채 하루를 시작하고, 밤에 액셀을 밟은 채 잠자리에 드는 삶이 문제다. 숙면은 밤이 아니라 아침에 만들어진다. 아침엔 교감신경으로 살고, 저녁엔 부교감신경으로 살아보시라. 신이 내린 보약 햇빛을 아침과 오전에 많이 즐기고, 아침에 단백질을 먹고, 몸을 움직이고, 하루 일정한 리듬을 만들면, 낮은 활기차고, 밤은 고요하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YK3B7Y4ZTFHC5OML6H5PPKKAEY.png?auth=8b20fb5bb0738e640ef27a6bfef331911a4c8c19a2346516b5017b7b12a4abdd&amp;smart=true&amp;width=1097&amp;height=617" type="image/png" height="617" width="1097">
-        <media:description type="plain">그래픽=이철원</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘손가락 절단 사고’… 경찰, 삼립 시화공장 공장장 등 4명 입건</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/WEVHJ7TEYBGKFMJ4OODB4C3KZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/WEVHJ7TEYBGKFMJ4OODB4C3KZI/</guid>
-      <dc:creator>시흥=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 06:09:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42GINLGHAZTMZLFG4YDMNTCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥 삼립의 시화 공장에서 발생한 근로자 손가락 절단 사고와 관련해 공장장 등 사고 책임자들이 형사 입건됐다. &lt;br&gt;&lt;br&gt;시흥경찰서는 업무상 과실치상 혐의로 안전보건관리책임자인 공장장 A씨 등 공장 관계자 4명을 형사 입건했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이미 사고 당일 고용노동부로부터 산업안전보건법 위반 혐의로 입건된 바 있다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 10일 0시 19분쯤 시흥시에 있는 삼립 시화 공장에서 컨베이어 설비를 점검하던 근로자 2명의 손가락이 절단된 사고와 관련, 안전 의무를 다하지 못한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;현재 근로자 2명은 각각 왼손 중지와 약지, 오른손 엄지에 절단상을 입어 봉합 수술을 받고 회복 중이다. &lt;br&gt;&lt;br&gt;경찰은 이재명 대통령이 철저한 조사를 하라고 지시한 다음 날인 15일 수사 전담팀을 편성했다. &lt;br&gt;&lt;br&gt;이후 하루 만인 16일 A씨 등을 입건하면서 본격적인 수사에 들어갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>돌아온 ‘늑구’ 뱃속에서 2.6cm 낚시바늘 발견… 시술받고 회복 중</title>
