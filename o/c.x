@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘대장동 수사’ 송경호 前 지검장 “국정조사, 삼권분립 정면 도전”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/19/K3QQDRGNTNATXHMB5QFPVQWZ7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/K3QQDRGNTNATXHMB5QFPVQWZ7Q/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 09:46:31 +0000</pubDate>
+      <content:encoded>‘대장동 개발 비리 사건’ 수사를 지휘한 송경호 전 서울중앙지검장은 19일 A4 용지 7장 분량의 입장문을 내고 국회의 ‘윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사’에서 제기된 의혹을 조목조목 반박했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNOGYB7DINAP3N6WOCFUWFL4FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송경호 전 서울중앙지검장이 16일 서울 여의도 국회 '윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명' 국정조사특별위원회에서 열린 대장동·위례 개발비리 및 김용 전 민주연구원 부원장 관련 의혹 사건에 대한 청문회에서 의원 질의에 답하고 있다. 2026.04.16 /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 전 지검장은 대장동 개발 비리 사건에 대해 “성남시 수뇌부와 민간업자의 결탁에 따른 권력형 부패 범죄였고, 1심 재판부도 사업 추진 주체로 ‘성남시 수뇌부’를 명시하며 핵심 관계자들에게 중형을 선고했다”며 “이런 범죄 구조에서 최고 의사결정권자의 책임 여부를 규명하는 것은 수사의 기본 원칙”이라고 밝혔다. 대장동 사건 수사팀이 당시 성남시장이었던 이재명 대통령을 수사한 것을 두고 ‘표적 수사’로 매도하는 것은 본질을 왜곡하는 것이란 취지다. &lt;br&gt;&lt;br&gt;송 전 지검장은 또 “2022년 5월 1기 수사팀의 내부 보고서에는 이재명 전 시장에 대한 의혹, 직접 결재 공문서 등 객관적 물증이 구체적으로 명시돼 있었다”며 “보고서에는 추가 수사의 필요성과 수사 지속 의지가 확고히 적시돼 있었다”고 했다. 대장동 2기 수사팀이 정권이 바뀌자 전임 수사팀 결론을 뒤집어 무리하게 기소했다는 국정조사 특위 일각의 주장은 허위라는 것이다.&lt;br&gt;&lt;br&gt;증거 조작 의혹도 정면 반박했다. 송 전 지검장은 “법정에서 유죄의 증거로 쓰인 것은 문서화된 녹취록이 아니라 정영학 회계사가 제출한 ‘음성 녹음파일’ 원본이었다”며 “재판부는 법정에서 원본 파일을 직접 재생해 내용을 확인한 뒤 판결을 내렸다”고 했다. 수사팀이 이 사건 관련 문서 녹취록을 조작할 이유나 실익이 없다는 것이다. 남욱 변호사가 “검찰이 ‘배를 가르겠다’며 회유하고 협박했다”고 주장한 데 대해서도 “수사 과정을 의사의 진료에 비유해 ‘환자가 증상을 정확히 말해야 정확한 진단이 가능하듯, 사실대로 진술해야만 수사 범위를 필요한 부분으로 한정할 수 있다’는 점을 강조한 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;수사 실무를 둘러싼 논란에 대해서도 정상 절차였다고 밝혔다. 송 전 지검장은 “검찰은 2022년 10월 유동규 전 본부장 진술을 토대로 단서를 포착한 뒤 입건 전 조사를 거쳐 김용 전 부원장 등을 정식 입건했고, 이 과정에서 작성된 수사 서류에 사건 관계자를 피의자로 적시하거나 잠정 죄명을 기재하는 것은 법령과 지침에 따른 정상적인 절차였다”고 했다. 앞서 더불어민주당은 당시 입건도 되지 않은 이재명 대통령을 압수 조서에 ‘피의자’로 적시하는 등 수사 과정이 위법했다고 주장한 바 있다.&lt;br&gt;&lt;br&gt;특히 송 전 지검장은 이번 국정조사 자체가 “삼권분립에 대한 정면 도전”이라고 비판했다. 국정감사 및 조사에 관한 법률은 계속 중인 재판이나 수사 중인 사건의 소추에 관여할 목적으로 국정조사 권한을 행사해선 안 된다고 규정하는데, 현재 국정조사는 사실상 재판과 공소유지에 개입하는 방식으로 진행되고 있다는 것이다. 대장동 사건 피고인 측과 이해관계가 얽힌 인사가 국정조사 위원으로 포함돼 공정성 문제가 있다는 점도 지적했다. &lt;br&gt;&lt;br&gt;국조특위는 지난 16일 대장동 사건 등에 대한 청문회를 열어 송 전 고검장과 강백신 검사 등을 증인으로 불렀다. 여권은 이 자리에서 대장동 수사가 짜맞추기식 기획 수사였다고 주장했다. 이와 관련해 법무부도 대장동 2기 수사팀 검사 9명에 대한 감찰에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배달 기사인 척 식당 음식 ‘슬쩍’... 주문한 경찰에 딱 걸렸다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/19/FBISIIUACBDUFHJNBRJQRHTR4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/19/FBISIIUACBDUFHJNBRJQRHTR4Y/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Apr 2026 08:56:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2TAZTBG5STEYRQMM2WEMBXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 배달기사가 오토바이를 타고 이동하고 있다(사진은 기사 내용과 무관). / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배달 음식을 훔친 혐의로 경찰 추적을 받던 배달 기사가 경찰관에게 범행을 시도했다가 덜미가 잡혔다.&lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면, 서울 강서경찰서 공항지구대 소속 공지영(41) 경사는 휴무일이던 지난 13일 남편과 함께 스크린 골프장을 찾았다가 배달 앱을 이용해 김밥과 닭강정을 주문했다.&lt;br&gt;&lt;br&gt;그러나 배달 기사 A씨가 건넨 음식은 김밥뿐이었고, 그마저도 공 경사가 주문한 식당의 음식이 아니었다. 의아하게 여긴 공 경사는 문득 A씨의 인상착의가 자신이 쫓던 배달 기사와 비슷하다는 것을 깨달았다.&lt;br&gt;&lt;br&gt;공 경사는 지난 6일 ‘누군가 배달 기사인 척 식당에 들어와 음식을 훔쳤다’는 신고를 접수하고 폐쇄회로(CC)TV 영상을 통해 오토바이 운전자를 추적 중이었던 것이다.&lt;br&gt;&lt;br&gt;공 경사는 A씨의 오토바이 차량번호가 해당 CCTV 속 오토바이 번호판과 동일한 것을 확인하고 A씨에게 임의동행을 요구했다.&lt;br&gt;&lt;br&gt;A씨는 당초 혐의를 부인했으나, 경찰의 추궁 끝에 “원래 수령한 음식은 버렸다”고 진술하는 등 일부 혐의를 시인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 주문받은 음식을 먹은 뒤, 다른 식당에서 음식을 훔쳐 손님들에게 배달한 것으로 보고 A씨를 사기 등 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재 간부급 연구관 ‘성 비위’ 잇따라… 그 와중에 승진시킨 헌재</title>
       <link>https://www.chosun.com/national/court_law/2026/04/19/JWHSLENFIZEDXC7ML57R2KEURA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/19/JWHSLENFIZEDXC7ML57R2KEURA/</guid>
@@ -927,28 +945,6 @@
       <description/>
       <pubDate>Fri, 17 Apr 2026 06:09:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42GINLGHAZTMZLFG4YDMNTCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥 삼립의 시화 공장에서 발생한 근로자 손가락 절단 사고와 관련해 공장장 등 사고 책임자들이 형사 입건됐다. &lt;br&gt;&lt;br&gt;시흥경찰서는 업무상 과실치상 혐의로 안전보건관리책임자인 공장장 A씨 등 공장 관계자 4명을 형사 입건했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이미 사고 당일 고용노동부로부터 산업안전보건법 위반 혐의로 입건된 바 있다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 10일 0시 19분쯤 시흥시에 있는 삼립 시화 공장에서 컨베이어 설비를 점검하던 근로자 2명의 손가락이 절단된 사고와 관련, 안전 의무를 다하지 못한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;현재 근로자 2명은 각각 왼손 중지와 약지, 오른손 엄지에 절단상을 입어 봉합 수술을 받고 회복 중이다. &lt;br&gt;&lt;br&gt;경찰은 이재명 대통령이 철저한 조사를 하라고 지시한 다음 날인 15일 수사 전담팀을 편성했다. &lt;br&gt;&lt;br&gt;이후 하루 만인 16일 A씨 등을 입건하면서 본격적인 수사에 들어갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>식당 화장실에 ‘몰카’ 심은 장학관…  동료 숙소·친인척 집까지 ‘악마의 손길’</title>
-      <link>https://www.chosun.com/national/incident/2026/04/17/2BCYDSVCNBEBLL4MMGIOUDXP3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/17/2BCYDSVCNBEBLL4MMGIOUDXP3M/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 05:49:18 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4ZLT2VX5NLWRCDUDC3QI26HNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부서 회식이 열리던 식당 공용 화장실에 불법 카메라를 설치한 충북교육청 장학관이 1일 오후 청주지법에서 영장실질심사를 받은 뒤 호송차에 오르고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당 공용화장실에 소형 카메라를 설치해 손님들을 몰래 촬영한 충북도교육청 소속 전직 장학관이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;청주지검은 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영·성적 목적 다중이용장소 침입) 혐의로 충북도교육청 전 장학관 A씨를 구속기소했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;검찰 등에 따르면 A씨는 지난 1월 3일부터 2월 25일까지 식당 공용화장실 등 공중화장실 4곳을 포함해 모두 6곳에서 여성 41명의 신체를 불법 촬영한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 올해 초 연수를 다녀오며 연수시설 내 여성 숙소에 카메라를 설치해 이틀간 동료의 신체를 촬영하는가 하면, 친인척 집 화장실에서도 수일간 같은 수법으로 범행을 저질렀다. &lt;br&gt;&lt;br&gt;A씨는 지난해 말부터 소형 카메라 4대를 구입한 것으로 확인됐다. 수사기관은 메모리카드 분석을 통해 전체 100여 개의 촬영물 중 범죄 혐의가 뚜렷한 47개 영상을 증거로 확보했다.&lt;br&gt;&lt;br&gt;A씨는 수사 과정에서 “호기심에 범행을 시작했다”며 피해자들에게 죄송하다는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난 2월 식당 화장실에서 한 시민이 “수상한 물건이 있다”며 경찰에 신고하면서 드러났다. 신고를 받고 출동한 경찰은 현장에서 설치된 카메라를 수거하고 주변 방범카메라 분석 등을 통해 A씨를 용의자로 특정했다. &lt;br&gt;&lt;br&gt;사안의 심각성을 인지한 충북도교육청은 경찰로부터 수사 개시 통보를 받은 즉시 A씨를 직위 해제했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>호르무즈 봉쇄 이후…한국 유조선 ‘우회로’ 홍해 첫 통과  </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/17/FU7RP6GLQNBHFFZXSLZHHQTRHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/17/FU7RP6GLQNBHFFZXSLZHHQTRHM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 04:55:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4WCYZYMUZGMZRUMI3GMMZRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호르무즈 해협의 유조선과 화물선./AP연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중동 사태로 호르무즈 해협이 봉쇄된 가운데 원유를 실은 한국 선박이 처음으로 우회로인 홍해를 안전하게 빠져나왔다. 홍해는 예맨에 있는 친(親)이란 후티 반군의 공격 위험이 있어 운항 자제를 권고하던 곳이다.&lt;br&gt;&lt;br&gt;17일 해양수산부에 따르면, 홍해 연안에 위치한 사우디아라비아 얀부항에서 원유를 적재한 우리 선박이 홍해를 안전하게 빠져나왔다. 이는 호르무즈 해협 봉쇄 이후 대체 항로인 홍해를 거쳐 국내로 원유를 운송하는 첫 사례다.&lt;br&gt;&lt;br&gt;앞서 중동 사태로 이란이 호르무즈 해협을 봉쇄하면서 원유를 수송할 대체 항로가 필요했다. 이에 정부는 지난 6일 제14차 국무회의 겸 제4차 비상경제점검회의에서 홍해를 우회로로 활용해 우리 선박의 안전을 지원하며 원유를 수급하는 방안을 논의했다. 해수부는 이 선박이 홍해를 항해하는 동안 24시간 모니터링하며 항해 정보를 제공하고 선박 및 선사와 소통해 왔다. &lt;br&gt;&lt;br&gt;홍해는 예멘의 친이란 후티 반군이 활동하는 거점이다. 2023년 10월 이스라엘과 하마스의 무력 충돌 이후 79건의 선박 피격이 발생하기도 했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 이날 엑스(X)에 “호르무즈 해협 봉쇄 후 처음으로 홍해를 통해 원유를 안정적으로 운송하고 있다는 기쁜 소식”이라며 “관련 부처들이 원팀으로 움직이며 이뤄낸 값진 성과다. 어려운 여건 속에서도 밤낮없이 애써주신 모든 분께, 특히 선원분들께 감사의 말씀을 전한다”고 했다. 이어 “정부는 중동전쟁이 불러온 위기를 돌파하기 위해 모든 역량을 집중하고 있다”며 “앞으로도 철저한 대응과 빈틈없는 준비로 국민의 삶과 국익을 지켜내는 일에 혼신의 힘을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QHH2IE76FFDPHPHUYFJM6OUDSQ.png?auth=17714463224df4f05c725bc80f9904562d9363938e49be6e8a907e7328f7e94b&amp;smart=true&amp;width=924&amp;height=520" type="image/png" height="520" width="924">
-        <media:description type="plain">출처/제미나이</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>돌아온 ‘늑구’ 뱃속에서 2.6cm 낚시바늘 발견… 시술받고 회복 중</title>
