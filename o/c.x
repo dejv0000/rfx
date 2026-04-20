@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>건진-尹 첫 법정 대면... “尹 좌천 때 공직 남으라 조언했다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/20/LMPRYE4GRREJDARKOKL3JJG5R4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/20/LMPRYE4GRREJDARKOKL3JJG5R4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 10:56:32 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 20일 ‘건진 법사’ 전성배씨와 관련한 대선 허위 사실 공표 혐의 재판에서 전씨와 대면했다. 두 사람이 법정에서 대면한 것은 이날이 처음이다. 전씨는 “윤 전 대통령이 지방으로 좌천됐을 당시 ‘공직에 있는 게 좋겠다’고 조언했다”면서도 “대선 출마 선언 이후 따로 만난 적이 없다”고 증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2TKZJVMU2GGZJTMFTDCZJRGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇건진 “2013년 12월 金여사 소개로 처음 만나”&lt;/b&gt;&lt;br&gt;&lt;br&gt;전씨는 2013년 3월 김 여사를 처음 만났고, 그해 12월 윤 전 대통령 부부를 같이 만난 것으로 기억한다고 말했다. 전씨는 “2013년 윤 전 대통령이 국가정보원 댓글 수사를 이끌다 징계를 받은 당시 윤 전 대통령을 처음 만났나”라는 재판부 질문에 “자세하진 않지만 그쯤인 것 같다”고 답했다. 재판부는 윤 전 대통령과의 첫 만남에 김 여사가 동행했느냐고 물었고, 전씨는 “당연히 부부 같이 왔다. 따로 만날 수가 없다. 아는 사람이 있어야만 만나주지, 소개로 왔다고 말만 하면 저는 안 만나준다”고 했다. 다만 이 당시 대화 내용에 대해선 정확히 기억나지 않는다고 말했다.&lt;br&gt;&lt;br&gt;전씨는 윤 전 대통령과의 관계에 대해선 “그렇게 친하지 않았다”고 말했다. 특검 측은 “피고인이 지방으로 좌천된 2014~2016년 사이 증인의 주거지에 방문한 적이 있냐”고 물었고, 전씨는 “친하게 지낸 건 김 여사”라며 “피고인과는 개인적으로 많은 대화를 나누지는 않았다”고 했다.&lt;br&gt;&lt;br&gt;다만 전씨는 윤 전 대통령의 대구고검 좌천 당시 “아직 공직에 있는 게 좋겠다”고 조언한 것은 맞다고 인정했다. 전씨는 “만남 당시 좌천 문제와 관련해 사표를 낼지 여부를 묻기 위해 대화를 한 것 아닌가 싶었다”고 했다. 전씨는 당시 “대구는 비슬산(琵瑟山)에 둘러싸여 있다. 정기가 윤 검사에게 내렸다. 비슬산 한자(漢字)를 보면 임금 왕(王)자가 4개가 들어 있어 왕 세 명을 잡은 뒤 네 번째 왕이 된다. 무조건 말려야 한다”고 점괘를 알려줬다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3D7JZYO5BKXNFQ4BDINNUV4O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'건진 법사' 전성배씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 부부와의 인연은 이후에도 계속 됐다는 게 전씨 증언이다. 전씨는 “윤 전 대통령이 검찰총장일 때 부부가 집에 찾아온 적이 있냐”는 특검 질문에 “확실하지는 않다”면서도 “김 여사에게 ‘추미애 (당시 법무) 장관이 김 여사보다도 합이 더 좋다’고 말한 적이 있다”고 답했다. 추 전 장관이 힘들게 하더라도, 나중에 좋은 결과로 되돌아올 것이라고 조언했다는 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 전씨가 첫 만남 당시 대화 내용을 기억하지 못하자 직접 설명에 나섰다. 윤 전 대통령은 “2013년 제가 국정원 사건으로 징계를 받자 증인께서 제가 검찰에서 상사로 모셨던 분들에게 ‘잘 설명해주겠다’고 해 만나지 않았느냐”고 물었고, 전씨도 “그런 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 대선 출마 선언 후 인연 끊겼나&lt;/b&gt;&lt;br&gt;&lt;br&gt;전씨는 윤 전 대통령 부부와의 인연이 2021년 6월 대선 출마 선언 이후 사실상 끊겼다고 증언했다. 전씨는 “검찰총장 퇴임 후 출마 선언 전 한 번인가 봤다”며 “윤 전 대통령을 마지막으로 본 것도 2022년 1월 1일 대선 캠프 신년 하례회가 마지막이었다”고 했다.&lt;br&gt;&lt;br&gt;이는 전씨의 특검 진술과는 상반되는 것이다. 특검 측은 지난달 첫 공판에서 “피고인 부부는 2021년 대선 출마 선언 이후에도 아크로비스타나 코바나컨텐츠 사무실에서 세 차례 이상 전씨를 만났다”고 주장했다. 다만 전씨는 진술 번복 경위에 대해 뚜렷하게 설명하지는 않았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇건진 “대선 캠프서 金여사 만난 적 없어”&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편 전씨는 대선 캠프가 있는 빌딩에서 김 여사를 만난 적은 없다고 증언했다. 특검은 윤 전 대통령이 2022년 1월 언론 인터뷰에서 전씨가 연루된 ‘무속인 비선’ 의혹 관련 질문을 받고 “당 관계자에게 전씨를 스님이라고 소개받아 인사한 적은 있지만, 김 여사와 함께 만난 사실은 없다”며 허위 사실을 공표한 혐의가 있다고 본다. &lt;br&gt;&lt;br&gt;이와 관련해 윤 전 대통령 측은 “2022년 1월 1일 대선 캠프 신년 하례회 당시 전씨와 만난 사실이 알려져 무속인 논란이 빚어지자 당시 상황을 설명한 것에 불과하다”며 허위 사실을 공표한 게 아니라는 입장인데, 전씨가 이에 부합하는 증언을 한 것이다. 전씨는 자신이 승적을 갖고 있는 스님인 것이 분명하다고 말하기도 했다.&lt;br&gt;&lt;br&gt;이 밖에도 윤 전 대통령은 전씨가 윤한홍 국민의힘 의원을 소개해줬다고 말하기도 했다. 윤 전 대통령은 “윤 의원은 증인이 제게 소개해주고 인사시켜줬다”며 “오래전에 증인 법당에서 윤 의원과 셋이 본 적도 있지 않느냐”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘인플루언서 사기 무마 의혹’ 경찰·사업가 구속영장 청구</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/20/BQZVIW6ENBHFHEFKO5IR43XW3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/20/BQZVIW6ENBHFHEFKO5IR43XW3E/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 10:52:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFTDOYRTMNSDCODDGNSTSMJQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 유명 인플루언서 A씨의 사기 사건을 덮었다는 의혹이 제기된 경찰관에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;20일 본지 취재를 종합하면, 서울남부지검 금융·증권범죄합동수사부(부장 신동환)는 이날 뇌물수수·공무상비밀누설 등 혐의를 받는 B 경감에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;검찰은 뇌물공여·자본시장법 위반 등 혐의를 받는 인플루언서 A씨 남편 사업가 C씨에 대해서도 구속영장을 재청구했다.&lt;br&gt;&lt;br&gt;지난 2024년 한 프랜차이즈 업체 가맹점주들은 인플루언서 A씨를 사기·가맹사업법 위반 혐의로 서울 강남경찰서에 고소했다. 당시 강남경찰서 수사1과 팀장이었던 B 경감은 A씨 남편인 C씨에게 뇌물을 받고 A씨 관련 수사를 무마한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 C씨가 평소 친분이 있던 경찰청 소속 D 경정을 통해 B 경감을 만나 룸살롱에서 접대하며 금품을 건넨 것으로 보고 있다. 강남서 수사1과는 그해 12월 A씨 사건을 검찰에 송치하지 않기로 하고 종결했다.&lt;br&gt;&lt;br&gt;B 경감은 팀원으로 강등돼 직위해제된 상태다.&lt;br&gt;&lt;br&gt;C씨는 지난해 초 증권사 부장과 기업인 등 시세 조종 세력과 공모해 코스닥 상장사 주가 조작에 가담한 혐의로 지난달 구속영장이 청구됐으나 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;검찰의 구속영장 재청구에는 C씨가 B 경감과 D 경정에게 수사 무마를 청탁하고 뇌물을 건넨 혐의가 추가된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘박정훈 항명 사건’ 허위 영장 군 검사들에 실형 구형 </title>
+      <link>https://www.chosun.com/national/court_law/2026/04/20/TQAWZJSA35EQ3KOU6IWKS4FISA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/20/TQAWZJSA35EQ3KOU6IWKS4FISA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 10:20:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTAYLGHE3GCYRWMRTGKODEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정훈 대령 항명 혐의 수사·기소를 맡았던 군검사 염보현 육군 소령(왼쪽)과 김민정 공군 중령// 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘해병대원 순직 사건’을 수사했던 박정훈 전 해병대 수사단장의 항명 사건 수사 과정에서 허위 사실이 담긴 구속영장을 작성·청구한 혐의로 기소된 군 검사들에게 이명현 특별검사팀이 실형을 구형했다. 두 사람의 1심 선고는 6월 12일에 나온다.&lt;br&gt;&lt;br&gt;20일 서울중앙지법 형사24부(재판장 이영선) 심리로 열린 결심 공판에서 특검은 당시 국방부 보통검찰부장이었던 김민정 중령에게 징역 2년과 자격정지 3년을, 국방부 검찰단 과장이었던 염보현 소령에게 징역 1년과 자격정지 2년을 각각 구형했다.&lt;br&gt;&lt;br&gt;특검은 “피고인들은 이른바 ‘대통령 격노설’을 비롯한 수사 외압 정황을 인지했거나 최소한 미필적으로 인식했음에도 불구하고, 박 전 단장의 주장을 ‘망상’이나 ‘허위’로 단정짓고 영장에 기재했다”고 지적다. 특히 “박 전 단장이 증거를 인멸했다는 확증 없이 휴대전화 데이터 삭제 내역 등을 자의적으로 해석해 판사를 기망하고 인신 구속을 시도했다”고 했다.&lt;br&gt;&lt;br&gt;특히 김 중령에 대해 “부장으로서 영장 작성 전반을 주도하고 사실관계를 왜곡한 책임이 매우 무겁다”고 했다. 특검팀은 염 소령에 대해서는 “주임 검사로서 영장 기재 사실에 대한 검토를 소홀히 하고 수사권 남용에 가담했다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;김 중령과 염 소령은 혐의를 부인했다. 김 중령은 이날 피고인 신문에서 “당시 박 전 단장은 수사기관의 정당한 소환에 응하지 않고 장외에서 수사 공정성을 비난하고 있었다”며 “당시 수사팀이 확보한 진술과 자료를 토대로 최선의 판단을 내린 것이지, 특정 목적을 위해 허위 사실을 꾸며낼 동기가 전혀 없다”고 했다. 그는 최후진술에서 “어떤 판결이 내려져도 부정한 행위를 했다는 낙인은 사라지지 않을 것이라 생각하며 자책하고 있다”면서도 “국가에 도움이 되길 바라는 마음으로 성실히 복무했다는 점을 살펴달라”고 덧붙였다&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, 박성재 재판서 김건희 텔레그램 공개… “김혜경 수사미진 의문”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/20/IVWZTTWKBRDBNC7TYAGVYOZ7NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/20/IVWZTTWKBRDBNC7TYAGVYOZ7NI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 10:20:07 +0000</pubDate>
+      <content:encoded>김건희 여사의 디올백 수수 의혹 사건을 무마하려 했다는 의혹을 받는 박성재 전 법무부 장관 재판에서, 김 여사가 박 전 장관에게 보낸 텔레그램 메시지가 20일 법정에서 공개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W4PHOF4LFNI7GEB755DJOLEEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 이날 박 전 장관의 내란 중요 임무 종사 등 혐의 사건 속행 공판을 열고, 김 여사의 디올백 수수 의혹 사건을 수사한 김승호 부산고검 검사를 증인으로 불렀다. 김 검사는 2024년 5∼10월 서울중앙지검이 김 여사의 디올백 수수 의혹 사건을 수사해 무혐의 처분했던 시기 전담팀을 이끌었던 형사1부 부장검사였다.&lt;br&gt;&lt;br&gt;조은석 내란 특별검사팀은 이날 재판에서 김 여사가 2024년 5월 5일 박 전 장관에게 보낸 텔레그램 메시지를 공개했다.&lt;br&gt;&lt;br&gt;이 메시지에는 김 여사가 “다른 수사, 특히 김혜경(이재명 대통령 배우자)에 대한 수사 미진 이유와 대검에서 수사 막은 행위가 있었는지 의문 제기 필요”, “김명수(전 대법원장)에 대한 수사는 형사1부에서 한 지 2년이 넘어가는데 결론 없이 방치되고 있는 이유가 뭔지 관련 문제 제기 필(요)”라고 적혀 있었다.&lt;br&gt;&lt;br&gt;특검팀은 이를 근거로 “(김 여사가) ‘왜 나에 관한 수사는 빠르게 하고 더 오래된 사건은 묵혀두고 있냐’고 어필하는 게 느껴진다”고 말했다. 이에 김 검사는 “당시 김혜경씨와 김정숙 여사 사건은 우리 부서 담당이 아니었다”며, 김 전 대법원장 사건에 대해서는 “검사 1명이 여러 사건 갖고 있다 보니까 모든 에너지를 다 투입하긴 어려운 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;한편, 김 검사는 이날 대검찰청의 디올백 수수 의혹 사건 수사 개입 여부와 관련한 질문에 증언을 거부했다. 김 검사는 재판 시작 전 이의신청서를 제출하며 “디올백 사건과 관련해 수사를 받고 있어 (증언)거부권을 행사할 수밖에 없다”며 이에 대해 재판부는 “형사 처벌의 우려가 있는 부분에 한해 증언을 거부할 수 있다”며 신문을 이어갔다.&lt;br&gt;&lt;br&gt;재판부가 “사건 처리와 관련해 대검으로부터 (별도) 연락을 받은 게 있느냐”고 묻자, 김 검사는 “기본적으로 절차 관련 부분은 수사팀이 조율하기 때문에 대검에서 구조적으로 어떻게 하라고 하긴 쉽지 않다”며 “대검과 의견 교환이 되는 건 사건 처분 단계에서 ‘우린 이렇게 생각한다’ ‘대검은 더 해봐야 되는 거 아니냐’ 이런 조율이 이뤄진다”고 답했다. 그러나 재판부가 2024년 5월 이후 대검으로부터 수사 방향과 관련한 의견을 받았는지 거듭 묻자, 김 검사는 “초창기엔 대검에서 이래라 저래라 하기 쉽지 않은 구조”라면서도 “그 이후엔 증언 거부하도록 하겠다”며 증언을 거부했다.&lt;br&gt;&lt;br&gt;재판부는 27일 특검팀의 구형과 피고인 최종 진술을 듣는 결심 절차를 진행하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금 투자 미기로 456억 원 가로챈 50대 금은방 업주 송치</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/04/20/EEAR6QMBF5HTLJ6GUX73ZSPPZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/04/20/EEAR6QMBF5HTLJ6GUX73ZSPPZI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 10:19:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGYHVLNNCBGVJOAR7VDGWR6VKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충주경찰서 전경/충주경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주경찰서는 금 투자 명목으로 거액의 투자금을 가로챈 혐의(특정경제범죄가중처벌법상 사기 및 유사수신행위 규제법 위반)로 50대 여성 A씨를 불구속 송치했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;충주에서 금은방을 운영하던 A씨는 2024년 1월부터 약 1년간 친인척과 지인 등 피해자 61명을 상대로 총 456억 원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 “금을 저렴하게 매입해 비싸게 파는 방식으로 월 3~10%의 고수익을 보장하겠다”며 피해자들을 유혹했다. 범행 초기에는 약속한 수익금을 일부 지급하거나 실제 골드바를 보여주며 피해자들의 신뢰를 얻어 재투자를 유도했다. &lt;br&gt;&lt;br&gt;그러나 실상은 나중에 투자한 사람의 돈으로 앞선 투자자에게 수익금을 지급하는 ‘돌려막기’ 수법으로 범행을 이어온 것으로 드러났다. 경찰은 A씨의 범죄 수익금을 환수하기 위해 기소 전 추징보전 조치를 완료했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자의 건강 상태 등 제반 사정을 고려하여 불구속 송치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>구미서 박정희 대통령 사진 공모전…9월 30일까지</title>
       <link>https://www.chosun.com/national/national_general/2026/04/20/WUABAPJTIZAURGPJDVTMKA3GBE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/20/WUABAPJTIZAURGPJDVTMKA3GBE/</guid>
@@ -608,51 +653,6 @@
       <description/>
       <pubDate>Sun, 19 Apr 2026 09:46:31 +0000</pubDate>
       <content:encoded>‘대장동 개발 비리 사건’ 수사를 지휘한 송경호 전 서울중앙지검장은 19일 A4 용지 7장 분량의 입장문을 내고 국회의 ‘윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사’에서 제기된 의혹을 조목조목 반박했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNOGYB7DINAP3N6WOCFUWFL4FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송경호 전 서울중앙지검장이 16일 서울 여의도 국회 '윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명' 국정조사특별위원회에서 열린 대장동·위례 개발비리 및 김용 전 민주연구원 부원장 관련 의혹 사건에 대한 청문회에서 의원 질의에 답하고 있다. 2026.04.16 /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 전 지검장은 대장동 개발 비리 사건에 대해 “성남시 수뇌부와 민간업자의 결탁에 따른 권력형 부패 범죄였고, 1심 재판부도 사업 추진 주체로 ‘성남시 수뇌부’를 명시하며 핵심 관계자들에게 중형을 선고했다”며 “이런 범죄 구조에서 최고 의사결정권자의 책임 여부를 규명하는 것은 수사의 기본 원칙”이라고 밝혔다. 대장동 사건 수사팀이 당시 성남시장이었던 이재명 대통령을 수사한 것을 두고 ‘표적 수사’로 매도하는 것은 본질을 왜곡하는 것이란 취지다. &lt;br&gt;&lt;br&gt;송 전 지검장은 또 “2022년 5월 1기 수사팀의 내부 보고서에는 이재명 전 시장에 대한 의혹, 직접 결재 공문서 등 객관적 물증이 구체적으로 명시돼 있었다”며 “보고서에는 추가 수사의 필요성과 수사 지속 의지가 확고히 적시돼 있었다”고 했다. 대장동 2기 수사팀이 정권이 바뀌자 전임 수사팀 결론을 뒤집어 무리하게 기소했다는 국정조사 특위 일각의 주장은 허위라는 것이다.&lt;br&gt;&lt;br&gt;증거 조작 의혹도 정면 반박했다. 송 전 지검장은 “법정에서 유죄의 증거로 쓰인 것은 문서화된 녹취록이 아니라 정영학 회계사가 제출한 ‘음성 녹음파일’ 원본이었다”며 “재판부는 법정에서 원본 파일을 직접 재생해 내용을 확인한 뒤 판결을 내렸다”고 했다. 수사팀이 이 사건 관련 문서 녹취록을 조작할 이유나 실익이 없다는 것이다. 남욱 변호사가 “검찰이 ‘배를 가르겠다’며 회유하고 협박했다”고 주장한 데 대해서도 “수사 과정을 의사의 진료에 비유해 ‘환자가 증상을 정확히 말해야 정확한 진단이 가능하듯, 사실대로 진술해야만 수사 범위를 필요한 부분으로 한정할 수 있다’는 점을 강조한 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;수사 실무를 둘러싼 논란에 대해서도 정상 절차였다고 밝혔다. 송 전 지검장은 “검찰은 2022년 10월 유동규 전 본부장 진술을 토대로 단서를 포착한 뒤 입건 전 조사를 거쳐 김용 전 부원장 등을 정식 입건했고, 이 과정에서 작성된 수사 서류에 사건 관계자를 피의자로 적시하거나 잠정 죄명을 기재하는 것은 법령과 지침에 따른 정상적인 절차였다”고 했다. 앞서 더불어민주당은 당시 입건도 되지 않은 이재명 대통령을 압수 조서에 ‘피의자’로 적시하는 등 수사 과정이 위법했다고 주장한 바 있다.&lt;br&gt;&lt;br&gt;특히 송 전 지검장은 이번 국정조사 자체가 “삼권분립에 대한 정면 도전”이라고 비판했다. 국정감사 및 조사에 관한 법률은 계속 중인 재판이나 수사 중인 사건의 소추에 관여할 목적으로 국정조사 권한을 행사해선 안 된다고 규정하는데, 현재 국정조사는 사실상 재판과 공소유지에 개입하는 방식으로 진행되고 있다는 것이다. 대장동 사건 피고인 측과 이해관계가 얽힌 인사가 국정조사 위원으로 포함돼 공정성 문제가 있다는 점도 지적했다. &lt;br&gt;&lt;br&gt;국조특위는 지난 16일 대장동 사건 등에 대한 청문회를 열어 송 전 고검장과 강백신 검사 등을 증인으로 불렀다. 여권은 이 자리에서 대장동 수사가 짜맞추기식 기획 수사였다고 주장했다. 이와 관련해 법무부도 대장동 2기 수사팀 검사 9명에 대한 감찰에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보석 석방된 전광훈 “대한민국 망했다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/18/O4QPSFBXEVFCRCQW3DRHGHEK6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/O4QPSFBXEVFCRCQW3DRHGHEK6I/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 18 Apr 2026 08:45:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRWKMRVGI4WKNJRGQ4WMY3FGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 사랑제일교회 목사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태의 배후로 지목돼 구속 기소됐다가 보석으로 풀려난 상태에서 재판을 받고 있는 전광훈 사랑제일교회 목사가 18일 광화문 집회 현장에 참석했다.&lt;br&gt;&lt;br&gt;전 목사는 이날 오후 서울 종로구 동화면세점 앞에서 열린 대한민국바로세우기국민운동본부(대국본) 집회 무대에 올라 “대한민국은 이미 망했다”며 “북한에 나라를 넘겨주면 안 되기 때문에 20년 광화문 운동을 지켜왔다”고 주장했다. 전 목사는 약 3분 만에 발언을 마치고 무대 아래로 내려갔다. &lt;br&gt;&lt;br&gt;그가 보석 후 집회 현장에 직접 나온 것은 처음이다. 전 목사는 지난 12일 광화문 광장 주말 예배에 영상으로 모습을 드러낸 바 있다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난 7일 전 목사가 당뇨병에 의한 비뇨기과 질환으로 주기적으로 병원 치료를 받아야 하는 점, 얼굴이 널리 알려져 도주하기 쉽지 않은 점 등을 고려해 사건 관계인 7인 접촉 금지 등을 조건으로 보석을 허가했다. 집회 참석 제한 조건은 없다.&lt;br&gt;&lt;br&gt;그는 지난해 1월 19일 새벽 윤석열 전 대통령 구속 직후 지지자들이 서부지법에 난입해 집기를 부수고 경찰을 폭행하도록 부추긴 혐의로 지난 2월 구속 기소됐다.&lt;br&gt;&lt;br&gt;검찰은 전 목사가 사랑제일교회 신도와 광화문 집회 참가자 등에게 ‘국민 저항권으로 반국가 세력을 처단해야 한다’는 취지의 발언을 해 난동을 부추겼다고 봤다. 전 목사는 “당시 저는 자고 있었는데 어떻게 교사를 할 수 있느냐”며 “사건 자체도 출국을 위해 찾은 공항에 가서야 알았다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;한편 이날 집회에는 한국사 강사 출신 유튜버 전한길씨도 참석했다. 전씨는 이재명 대통령과 이준석 개혁신당 대표의 명예를 훼손한 혐의 등으로 구속영장이 청구됐으나 지난 16일 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘이종섭 출국금지 정보 누설’ 공수처 관계자 고발 사건 각하</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/18/VQOBBTCD35HIZEFAGQ5QU2VYGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/VQOBBTCD35HIZEFAGQ5QU2VYGQ/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 18 Apr 2026 08:42:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDCZBXGJSDCMJZGZSWCMTFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방부 장관. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처) 관계자들이 이종섭 전 국방부 장관의 출국 금지 여부 등 수사 기밀을 언론에 알려줬다며 제기된 고발 사건을 검찰이 각하 처분한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 서울중앙지검 형사1부(부장 신도욱)는 성명불상의 공수처 관계자들이 언론에 이 전 장관의 출국 금지 사실을 누설했다는 내용의 공무상비밀누설 고발 사건을 지난 10일 각하 처분했다. 각하란 소송 요건이 맞지 않을 때 조사 없이 불기소 처분을 내리고 사건을 종결하는 조치다.&lt;br&gt;&lt;br&gt;이종배 전 국민의힘 서울시의원은 지난 2024년 3월 성명 불상의 공수처 관계자들을 공무상 비밀누설 혐의로 서울중앙지검에 고발했다. &lt;br&gt;&lt;br&gt;윤석열 전 대통령은 해당 보도 이틀 전인 2024년 3월 4일 이 전 장관을 주호주대사로 임명했다. 당시 이 전 장관은 폭우 실종자 수색 중 순직한 해병대 고(故) 채수근 상병 사망 사건 조사 결과를 보고받고 결재했다가 경찰 이첩을 보류하고 법리 검토를 다시 하라며 회수하라고 지시했다는 혐의(직권남용) 등으로 공수처에 고발된 상태였다.&lt;br&gt;&lt;br&gt;검찰은 고발 내용이 이 전 시의원의 추측에 근거하고 있다며 수사를 개시할 구체적인 이유가 부족하다고 결론 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>촉법소년 연령 하향 이번엔 결론 날까... 주말 시민 토론회</title>
-      <link>https://www.chosun.com/national/education/2026/04/18/7C7NYGBTWVC3HLVW6FRDLC65B4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/18/7C7NYGBTWVC3HLVW6FRDLC65B4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 18 Apr 2026 04:23:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LLOOMVHNVOBNDWEQ3DQTBWSDI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;원민경 성평등가족부 장관이 18일 충북 오송 컨벤션센터에서 열린 '형사미성년자(촉법소년) 시민참여단 숙의토론회'에 참석해 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;촉법소년(형사미성년자) 연령을 만 14세 미만에서 13세 미만으로 낮추는 논의를 위해 출범한 사회적대화협의체가 18~19일 시민 200여명이 참여하는 숙의 토론회를 열고 연령 조정에 대한 의견을 모은다. 정부는 이번 주말 토론회를 포함해 수련된 의견을 바탕으로 이달 말 최종안을 낼 계획이다.&lt;br&gt;&lt;br&gt;원민경 성평등가족부 장관은 이날 오전 1차 숙의토론회가 열리는 충북 오송 OCC오송컨벤션센터에서 “촉법소년 제도와 쟁점에 대한 정확한 이해를 기반으로 다양한 의견을 나누고 시민 여러분의 의견을 경청하기 위해 마련된 뜻깊은 자리”라며 “한 분 한 분이 전하는 생생한 목소리는 촉법소년 연령 조정 이슈와 대안을 검토하는데 든든한 밑거름이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;촉법소년 연령 하향 논의는 2017년 9월 부산에서 10대 여학생들이 또래 여중생을 집단폭행한 사건이 소셜미디어를 통해 알려지며 시작했다. 당시 정부가 촉법소년 연령 하향 추진 계획을 발표했다. &lt;br&gt;&lt;br&gt;2022년 법무부는 촉법소년 연령 기준 현실화 태스크포스(TF)를 구성하고 촉법소년 연령을 하향하는 내용이 담긴 ‘소년범죄 종합대책’을 발표했다. 같은 해 정부안으로 관련 법률 개정안이 국회에 제출됐지만 임기 만료로 폐기됐다.&lt;br&gt;&lt;br&gt;흐지부지되던 논의는 작년 12월 이재명 대통령이 법무부와 성평등가족부 업무보고에서 촉법소년 연령 하향 문제에 대한 검토가 필요하다고 지시하며 재점화했다. 이후 성평등부를 중심으로 법무부, 교육부, 보건복지부, 경찰청 등이 참여하는 사회적대화협의체가 2월 구성됐다.&lt;br&gt;&lt;br&gt;협의체는 지난 두 달간 모은 각계 의견과 이번 숙의토론회 의견을 바탕으로 30일 열릴 4차 전체회의에서 최종 권고안을 낼 예정이다. 연령 하향 여부는 국무회의에서 최종 결정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘인플루언서 수사 무마’ 경찰 간부 직위해제</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/18/P7M745IFB5AZPK64UDBSFKSBJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/P7M745IFB5AZPK64UDBSFKSBJU/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 18 Apr 2026 03:14:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YWCMRRME4WKZBXHEYTQMRTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 인플루언서가 연루된 사기 사건을 덮었다는 의혹이 제기된 경찰관이 18일 직위 해제됐다. &lt;br&gt;&lt;br&gt;경찰청은 이날 “강남경찰서 수사 무마 의혹 사건과 관련해 A 경정을 직위 해제했다”고 밝혔다. &lt;br&gt;&lt;br&gt;인플루언서 B씨는 2024년 7월 가맹점주들로부터 사기와 가맹사업법 위반 혐의로 고소당했으나, 강남서는 같은 해 12월 ‘혐의없음’으로 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;당시 경찰 수사가 시작되자 인플루언서 B씨 남편인 사업가 C씨는 평소 친분이 있던 A 경정을 통해 수사를 무마할 방법을 모색했다고 한다. A 경정은 평소 알고 지내던 강남서 수사1과 팀장 D 경감에게 C씨의 청탁을 전달했다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합동수사부는 수사 무마 의혹 정황을 포착하고 지난 9일 경찰청 청사를, 지난달 27일에는 강남서를 압수 수색했다.&lt;br&gt;&lt;br&gt;검찰은 C씨가 평소 친분이 있던 A 경정을 통해 D 경감을 만나 룸살롱에서 접대하며 금품을 건넨 것으로 보고 있다. D 경감 역시 같은 의혹으로 직위 해제됐다. &lt;br&gt;&lt;br&gt;검찰은 두 경찰관에게 뇌물 수수와 알선수재 등 혐의를 적용하는 방안을 검토하고 있다. 검찰이 이들에 대해 구속영장을 청구할 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘BJ 강제추행’ 유명 걸그룹 오빠 구속영장 반려...“혐의 소명 부족”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/18/ERWJUPGT2ZEDJLCSSEXJ3VVSEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/ERWJUPGT2ZEDJLCSSEXJ3VVSEE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 18 Apr 2026 02:32:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 인터넷 방송 진행자(BJ)를 추행한 혐의로 체포된 유명 걸그룹 멤버 오빠에 대한 구속영장이 검찰에서 반려됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 전날(17일) 서울중앙지검은 강남경찰서가 신청한 30대 남성 김모씨의 구속영장을 반려했다. 검찰은 혐의에 대한 소명이 부족하다며 영장을 반려한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 지난 14일 저녁 강남구의 한 식당에서 피해자와 술을 마신 후 자신의 집으로 데려가 부적절한 신체 접촉을 시도한 혐의로 체포됐다. 김씨는 유명 걸그룹 멤버의 오빠로, 범행 이틀 전 피해자로부터 300만원 상당의 ‘식사 데이트권’을 구매한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한국어능력시험 부정행위 500건 첫 돌파... 답안 사전 유출 사태까지</title>
