@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 4월 21일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/20/TNL7NB2SNFDKVO6AJX65CG4LEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/20/TNL7NB2SNFDKVO6AJX65CG4LEE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 14:31:00 +0000</pubDate>
+      <content:encoded>아침기온 뚝 떨어지고 미세먼지 ‘매우나쁨’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZPUQ5B2QFHL3M7EHPAOIEB4RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘미성년자 성폭행’ 왕기춘, 6년 복역 마치고 곧 출소</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/20/NMP6BC2MH5ALRKKJPGT2LVZQS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/20/NMP6BC2MH5ALRKKJPGT2LVZQS4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 13:30:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2DEZBSGIYTCNTDMY2DGNZRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 유도 국가대표 선수 왕기춘. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년 제자를 성폭행한 혐의로 실형을 선고받고 복역 중인 올림픽 유도 은메달리스트 왕기춘(38)이 형기를 모두 채우고 사회로 나온다.&lt;br&gt;&lt;br&gt;20일 법조계 등에 따르면, 아동·청소년의 성보호에 관한 법률위반 등의 혐의로 기소돼 징역 6년이 확정된 왕기춘은 오는 5월 1일 만기 출소한다. 왕기춘은 지난 2020년 5월 1일 구속됐었다. &lt;br&gt;&lt;br&gt;한국 유도의 간판스타였던 왕기춘은 자신이 운영하던 체육관에 다니던 제자들을 성폭행한 혐의로 구속 기소됐다. 그는 당시 16, 17세였던 피해자들을 자신의 집으로 유인해 성폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;왕기춘은 재판 과정에서 피해자들이 성관계에 동의했다고 주장했지만 재판부는 받아들이지 않았다. 1심 재판부는 “정서적으로 미숙한 피해자들을 상대로 성적 자기결정권을 침해한 상태에서 범행을 거듭했다”며 징역 6년을 선고했다.&lt;br&gt;&lt;br&gt;2심도 “유도 스승으로 피해자들을 선도하고 감독할 위치에 있는 왕씨가 지위를 이용해 위력으로 간음하거나 미수에 그쳤다”며 1심 판결을 유지했다. 대법원은 지난 2021년 왕기춘에게 징역 6년을 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;왕기춘은 2008년 베이징올림픽 유도 국가대표로 출전해 은메달을 획득했다. 다양한 업어치기와 굳히기가 특기였던 왕기춘은 2012년 런던올림픽 때도 강력한 금메달 후보로 꼽혔지만, 부상에 발목 잡히면서 공동 5위에 그쳤다. &lt;br&gt;&lt;br&gt;올림픽 은메달리스트인 왕기춘은 이 사건으로 대한유도회에서 퇴출당했다. 왕기춘은 또 유도 단급이 모두 삭제되는 ‘삭단’ 조치를 당했으며, 그간 쌓아온 메달 실적에 따른 체육 연금 수령 자격도 박탈됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지수, 친오빠 물의에 선긋기… “금전·법률적 관계 없다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/20/YCICWUGCZFFAVOPVMCK7AEUDWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/20/YCICWUGCZFFAVOPVMCK7AEUDWY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 12:19:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2ZXBG4T75FM5A7QTU2POWOCKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴토피아 출연하는 블랙핑크 지수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 블랙핑크의 멤버 지수 측이 친오빠의 성추행 의혹과 관련, “아티스트(지수)와는 전혀 무관한 사안”이라고 선을 그었다. &lt;br&gt;&lt;br&gt;20일 지수 소속사 블리수의 법률대리인인 김앤장 법률사무소 은현호 변호사는 입장문을 통해 “현재 제기되고 있는 사안은 아티스트 및 블리수와는 전혀 무관한 사안”이라며 “아티스트는 어린 시절 연습생 생활을 시작하며 일찍이 독립해 오랜 기간 가족과 떨어져 지내왔고, 해당 인물의 사생활에 대해 인지하거나 관여할 수 없는 상황”이라고 했다. &lt;br&gt;&lt;br&gt;은 변호사는 “또한 아티스트는 블리수의 설립 준비 과정에서 가족 구성원들로부터 일부 제한적인 조언 및 대화의 전달자로 도움을 받은 사실은 있으나, 가족 구성원이 블리수로부터 보수를 받거나, 의사결정에 참여를 한 사실이 전혀 없다”며 “이후에는 가족 구성원과 일체의 관련 없이 완전히 독립적으로 경영돼 왔다”고 설명했다.&lt;br&gt;&lt;br&gt;특히 은 변호사는 블리수를 ‘아티스트와 해당 인물이 손을 잡고 설립했다’거나 ‘해당 인물이 블리수의 경영진 또는 대표이사’라는 취지의 소문은 전혀 사실이 아니라며 “해당 인물은 현재 블리수와 법적 또는 경영상 어떠한 관계도 가지고 있지 않다”고 강조했다. &lt;br&gt;&lt;br&gt;이어 “블리수와 아티스트는 해당 인물에 대해 일체의 금전적, 법률적 지원을 제공하고 있지 않다”며 “향후에도 그러한 지원을 제공할 계획이 없다. 또 본 사안과 관련해 어떠한 교류나 관여도 하지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;은 변호사는 “사실과 다른 내용을 지속적으로 유포하거나 아티스트의 이름·초상·이미지를 무관한 사안에 결부시켜 소비·확산시키는 행위는 명백한 권리 침해 및 명예훼손에 해당한다”며 “민·형사상 가능한 모든 법적 조치를 즉시 취할 예정”이라고 경고했다. &lt;br&gt;&lt;br&gt;한편 블리수는 지수가 YG엔터테인먼트와의 전속계약 종료 후 지난 2024년 설립한 개인 기획사다. 지수의 친오빠는 지난 14일 한 여성에게 부적절한 신체 접촉을 시도한 혐의로 현행범 체포됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/R665VQEUFBGU3MNND6J5S6BR6A.jpg?auth=415ca5da0107c3d5e412baa76a7b4354e2318c0f0989510fda69184112dfbe81&amp;smart=true&amp;width=544&amp;height=408" type="image/jpeg" height="408" width="544">
+        <media:description type="plain">뉴토피아 출연하는 블랙핑크 지수</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>민희진, 악플러 소송서 일부 승소…위자료 총 120만원 받는다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/20/NYGNNFUEU5FFLFN43RQVEJGM7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/20/NYGNNFUEU5FFLFN43RQVEJGM7Y/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Apr 2026 11:14:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDCZLCG43GKMRXGY3WINDFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 전 어도어 대표(현 오케이 레코즈 대표). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 전 어도어 대표(현 오케이 레코즈 대표)가 ‘악플’을 단 이들을 상대로 제기한 손해배상 소송에서 일부 승소해 총 120만원의 위자료를 받게 됐다. &lt;br&gt;&lt;br&gt;20일 법조계에 따르면 지난 2월 서울서부지법은 민 전 대표가 악성 댓글을 작성한 네티즌들을 상대로 제기한 두 건의 손해배상 청구 소송을 모두 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;서울서부지법 민사5단독(하진우 판사)은 네티즌 4명 중 3명의 배상 책임을, 민사12단독(이관형 판사)은 네티즌 7명 중 1명의 배상 책임을 인정했다. 종합하면 총 11명 가운데 4명의 배상 책임이 인정됐고, 나머지 7명에 대한 청구는 기각됐다.&lt;br&gt;&lt;br&gt;배상 책임이 인정된 네티즌 4명은 각 30만원씩 총 120만원을 민 전 대표에게 지급해야 한다. 이들은 민 전 대표와 하이브의 경영권 분쟁이 공론화됐던 당시 관련 기사에서 악성 댓글을 남겼다가 소송을 당했다.&lt;br&gt;&lt;br&gt;재판부는 “타인에 대해 비판적인 의견을 표명하는 것은 원칙적으로 위법하다고 볼 수 없지만 모멸적인 표현으로 모욕을 가하는 일은 허용될 수 없다”며 “이러한 모욕적 표현으로 인해 원고의 사회적인 평가가 훼손됐다”고 판단했다.&lt;br&gt;&lt;br&gt;앞서 민 전 대표는 악성 댓글을 작성한 네티즌들을 대상으로 300만∼400만원의 손해배상을 청구하는 소송을 제기한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>건진-尹 첫 법정 대면... “尹 좌천 때 공직 남으라 조언했다”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/20/LMPRYE4GRREJDARKOKL3JJG5R4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/20/LMPRYE4GRREJDARKOKL3JJG5R4/</guid>
@@ -664,33 +703,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T72PN3QLNZERRAJKVCHJIE6ZIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동국대학교 문화관에서 수험생들이 한국어능력시험(TOPIK)을 치르고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인의 한국어 실력을 평가하는 한국어능력시험(토픽·TOPIK)의 부정행위 적발 건수가 작년 처음으로 500건을 넘은 것으로 나타났다. 한류 확산과 유학생 증가로 토픽 지원자가 최근 수년간 급증해 50만명을 넘어가며 부정행위도 잇따르는 것이다.&lt;br&gt;&lt;br&gt;18일 토픽을 주관하는 교육부 산하 국립국제교육원에 따르면 작년 토픽 부정행위 적발 건수는 554건으로 집계됐다. 2021년 331건, 2022년 240건, 2023년 421건, 2024년 414건으로 증가 추세를 보이다 처음으로 500건을 넘긴 것이다.&lt;br&gt;&lt;br&gt;특히 최근에는 중국인을 중심으로 시험을 보기 전 토픽 답안을 사고 파는 등 새로운 형태의 부정행위가 확산하고 있다. &lt;br&gt;&lt;br&gt;정부는 앞서 12일 국내 한 토픽 시험 고사장에서 중국인 유학생 A씨가 이번 시험 문제의 답안이 적힌 것으로 보이는 쪽지를 보는 모습을 적발했다. 토픽 시험을 주관하는 교육부 산하 국립국제교육원은 A씨가 중국 소셜미디어 등을 통해 토픽 답안을 사전에 구매한 것으로 보고, 현장에서 시험 응시 자격을 박탈하고 경찰에 신고했다. &lt;br&gt;&lt;br&gt;토픽 시험 답안 유출이 가능한 것은 대륙별 시차 때문이다. 예컨대 이번 시험은 지난 11일 미국, 유럽, 아프리카, 오세아니아 등에서 먼저 치러졌다. 12일에는 한국, 중국 등 아시아 국가에서 실시됐다. 11일 유럽 등에서 시험을 먼저 치른 응시자가 답안을 복기해 중국인 응시자에게 사전 유출한 것으로 추정된다.&lt;br&gt;&lt;br&gt;정부는 쪽지를 가져왔다 적발된 A씨와 달리 유출 답안을 암기해 시험을 본 응시자도 많을 것으로 추정한다. 실제 지난 12일 중국 현지에서 토픽 시험이 치러지기 수시간 전, 중국 소셜미디어 ‘샤오훙슈(Xiaohongshu)’에 토픽 시험 답안으로 보이는 문서가 공유된 사실이 알려지면서 외국인들 사이에서 논란이 퍼지고 있다.&lt;br&gt;&lt;br&gt;이처럼 수법이 고도화하며 교육당국은 대응에 나섰다. 교육부와 국립국제교육원은 “중국 브로커의 토픽 부정행위에 강력히 대응하겠다”며 “국가별 시차를 이용한 답안 유출을 원천 방지하기 위해 대륙별 시험지 간 유사성이 없도록 하는 등 공정성 강화 대책을 마련해 오는 7월 시험부터 즉시 적용하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>다시 찾아온 ‘초여름 날씨’... 서울 낮 최고 27도</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/18/K4DFX2YPLJEBFAOTK2BG4TJ62M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/K4DFX2YPLJEBFAOTK2BG4TJ62M/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 18 Apr 2026 00:01:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TGZDEGFTDSMTFGBQWCNDDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 낮 최고 기온이 25도까지 오르는 등 초여름 날씨를 보인 13일 서울 경복궁에서 외국인 관광객이 한복으로 햇빛을 가리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일은 18일은 낮 최고기온이 27도까지 오르는 등 초여름 더위가 찾아오면서 일교차가 크게 나타나겠다.&lt;br&gt;&lt;br&gt;이날 낮 최고기온은 19~27도로 예보돼 평년기온(17~22도)보다 높은 수준이겠다.&lt;br&gt;&lt;br&gt;지역별 아침 최저기온은 △서울 10도 △인천 10도 △춘천 8도 △강릉 11도 △대전 11도 △대구 13도 △전주 13도 △광주 14도 △부산 15도 △제주 15도다. &lt;br&gt;&lt;br&gt;낮 최고기온은 △서울 27도 △인천 24도 △춘천 26도 △강릉 22도 △대전 26도 △대구 25도 △전주 26도 △광주 25도 △부산 20도 △제주 21도 등으로 예보됐다. 낮과 밤의 일교차가 크겠으니 건강관리에 유의할 필요가 있다.&lt;br&gt;&lt;br&gt;중부지방은 대체로 맑겠으나 남부지방과 제주도 곳곳에는 비가 내리겠다. 전북 동부는 새벽까지, 전남 남해안·동부 내륙·경북권 남부·경남권은 오전까지 비가 내리는 곳이 있겠다. 제주도는 오전부터 비가 시작돼 사흘간 이어지겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 전남 남해안·부산·울산·경남 5∼10㎜, 전북 동부·전남 동부 내륙·대구·경북 남부 5㎜ 미만이다. 제주도에는 18∼20일 사흘간 20∼60㎜의 비가 예보됐다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전 권역이 ‘좋음’∼‘보통’으로 예상된다.&lt;br&gt;&lt;br&gt;바다의 물결은 동해·남해 앞바다에서 0.5∼1.5m, 서해 앞바다에서 0.5∼1.0m로 일겠다. 안쪽 먼바다(해안선에서 약 200㎞ 내의 먼바다)의 파고는 동해·서해 0.5∼2.0m, 남해 0.5∼2.5m다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“결말 알아도 오빠 선택할 거야” 순직 소방관 예비신부가 하늘로 보낸 편지 </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/18/H3QBAMSHQZFVPPDZNZW4OMPSSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/H3QBAMSHQZFVPPDZNZW4OMPSSM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 22:41:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2ZMAC6W4FC3DAKOZVELL7G3MA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 전남 완도군의 한 냉동창고에서 화재진압중 순직한 박승원 소방경과 노태영 소방교의 영결식이 유족과 동료 소방관들의 오열 속에 완도군농어민문화체육센터에서 열렸다./ 김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 완도 냉동창고 화재 진압 중 순직한 소방관의 예비 신부가 쓴 글이 전해지면서 온라인상에는 애도의 물결이 이어지고 있다. &lt;br&gt;&lt;br&gt;오는 10월 결혼을 앞두고 있었던 고(故) 노태영(30) 소방교의 예비 신부는 지난 16일 소셜미디어에 “사랑한다는 말로도 부족한 바보같이 착한 우리 남편”이라며 추모 편지를 올렸다.&lt;br&gt;&lt;br&gt;예비 신부는 “얼마나 뜨겁고 무섭고 두려웠을까. 아직도 나는 4월 12일 아침에 머물러 있다”며 “실종 연락을 받고 가슴이 먹먹해지고 세상이 무너졌다”고 했다. 이어 “오빠는 항상 가정이 있어도 가장 먼저 들어가서 늦게 나올 것 같다고 말했었지”라며 고인의 사명감을 떠올렸다.&lt;br&gt;&lt;br&gt;예비 신부는 “3년이라는 시간 동안 잘해준 기억만 남아 마음이 더욱 힘들다. 미운 모습이라도 있으면 그걸 탓하며 살 텐데, 탓할 것도 없이 후회만 한다”며 “우리의 결말을 알고 있어도 똑같이 오빠를 선택할 거야. 내 인생 가장 행복한 순간들을 만들어줘서 고맙다”고 했다. 그는 “자주 보러 갈게. 우리 남편 사랑하고 또 사랑해”라며 마지막 인사를 건넸다.&lt;br&gt;&lt;br&gt;이 글에는 “오래 기억하겠다. 삼가 고인의 명복을 빈다” “결말을 알아도 다시 선택하겠다는 말에 가슴이 미어진다” 등 1300개가 넘는 추모와 위로의 댓글이 달렸다. &lt;br&gt;&lt;br&gt;지난 12일 오전 8시 25분쯤 전남 완도군 군외면의 한 냉동 창고에서 화재가 발생해 소방대원들이 출동했다. 당시 노 소방교와 박승원 소방경은 인명을 구조하고 내부로 재진입했다가 고립됐고, 동료들에게 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;순직한 박 소방경은 슬하에 1남 2녀를 둔 가장이었다. 지난 14일 완도 농어민문화체육센터에서 열린 순직 소방관들의 영결식에서 박 소방경의 고등학생 아들 박 군은 아버지를 향해 “나의 영웅이자 정말 멋진 남자”라며 “엄마와 두 동생은 가장으로서 내가 잘 챙기겠다. 아빠처럼 무슨 일이든 묵묵히 해내는 가장이 될 테니 지켜봐 달라”고 했다.&lt;br&gt;&lt;br&gt;정부는 두 소방관의 희생을 기려 옥조근정훈장을 추서했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“삼전·하이닉스 억대 성과급 지역화폐로 지급하라” 온라인 황당 주장 </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/18/JW2ID5SLIREYTAKOGA3XZLBNQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/18/JW2ID5SLIREYTAKOGA3XZLBNQY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 22:17:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3DSN3FGFTDQZRVMI4TSYTFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자와 SK하이닉스./각사 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반도체 업계 호황으로 삼성전자와 SK하이닉스 임직원의 내년 성과급이 수억 원에 달할 것이라는 전망이 나온 가운데, 온라인에서 내수 경기를 살리기 위해 성과급을 지역 화폐로 지급해야 한다는 황당한 주장이 나오고 있다. &lt;br&gt;&lt;br&gt;18일 직장인 익명 커뮤니티 ‘블라인드’ 등 온라인에는 이 같은 주장이 잇따라 올라왔다. 한 네티즌은 “지역 화폐 성과급 괜찮다. 대기업이 혼자 이뤘나 국민이 같이 이뤘지. 내수 경제에 맞게, 부동산에 안 흘러가게 (지역 화폐로 주자)”라고 했다.&lt;br&gt;&lt;br&gt;또 다른 네티즌은 “하이닉스 성과급은 왜 하이닉스만 받느냐”며 “하이닉스 망하고 산은(산업은행) 통해서 국세 털어서 부활시켰는데 그럼 당연히 하이닉스 성과급도 전 국민이 같이 나눠야 하는 거 아닌가”라고 했다.&lt;br&gt;&lt;br&gt;이 밖에도 “1억 이상 성과급은 지역 화폐로 지급하라, 1년 안에 못 쓰면 국고 환수하라” “초고액 성과급에 별도 과세를 하자” 등의 의견도 올라왔다.&lt;br&gt;&lt;br&gt;이런 주장이 나온 배경에는 반도체 산업이 정부의 지원 아래 성장했다는 인식이 있다. 반도체 공장 건설을 위한 도로·전력·용수 공급 등 기반 시설 구축이 이뤄졌고, 세액 공제 및 반도체 불황기 산업은행의 저리 대출 혜택을 받았다는 것이다. &lt;br&gt;&lt;br&gt;업황 호조에 따라 역대급 성과급 전망이 나오면서 이런 주장에 힘이 실렸다. SK하이닉스는 영업이익의 10%를 성과급으로 지급하는 초과이익분배금(PS) 제도를 운영 중이다. 올해 영업이익을 200조원으로 예상되면서 약 20조원이 성과급으로 쓰일 수 있다. 임직원 약 3만5000명을 기준으로 계산하면 내년 지급되는 1인당 성과급은 5억~6억원에 이른다.&lt;br&gt;&lt;br&gt;삼성전자 노조도 영업이익의 15%를 성과급으로 배분하라고 요구하고 있다. 증권사들은 삼성전자의 올해 영업이익으로 약 300조원을 전망했다. 노조가 요구하는 대로 삼성전자가 영업이익의 15%를 성과급 재원으로 활용하면 45조원 규모에 달한다. 이걸 직원수로 나누면 1인당 평균 성과급은 5억원대에 이른다. &lt;br&gt;&lt;br&gt;반면 성과급 지역화폐 지급 방안이 비현실적이고 재산권을 침해한다는 의견도 있다. 네티즌들은 “공무원 월급도 지역화폐로 받지 그러느냐” “성과를 나누고 싶다면 주식을 사거나 입사하면 될 일이지, 일괄적 분배 요구는 과도하다” “세금을 얼마나 내는지 알고 있느냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>수사하는지 정치하는지… 2차 특검, 기소 한명도 못하고 논란만 키워</title>
       <link>https://www.chosun.com/national/court_law/2026/04/18/3F5I5ZJYOVGFXOUBBMYHKJRQ6U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/18/3F5I5ZJYOVGFXOUBBMYHKJRQ6U/</guid>
@@ -702,15 +714,6 @@
         <media:description type="plain">권창영 2차 종합특검팀 특별검사(가운데)와 특검보들이 지난 2월 25일 경기 과천시 2차 종합특검팀 사무실 앞에서 열린 현판식에 참석하고 있다. 2026.2.25 ⓒ 뉴스1 김영운 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">Kim Young Un</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 사라지는 추억의 수학여행… 서울 내 초교는 5%만 간다</title>
-      <link>https://www.chosun.com/national/education/2026/04/18/RFYW4BJVSJCVLLKUQA7MT6HAJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/18/RFYW4BJVSJCVLLKUQA7MT6HAJU/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Apr 2026 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSWEYTBHA2WIMBYGJSTAMDCGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 초등학교의 등교 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“5월 제주도 수학여행비로 84만원을 내야 한다고 하네요. 돈 없으면 추억도 못 만들어주겠어요.” “외국으로 가는데 120만원 든다고 아이가 ‘가지 말까?’ 물어봅니다. 마음 짠해지는데, 안 가는 아이들은 없겠죠?”&lt;br&gt;&lt;br&gt;‘수학여행’ 시즌이 다가오는 가운데 학부모들 사이에서 “비용이 너무 비싸 부담스럽다”는 반응이 나오고 있다. 각종 물가 인상에다 최근 전쟁으로 기름값까지 오르면서 지난해보다 여행비가 껑충 뛰었기 때문이다. 가뜩이나 학부모 민원과 안전사고에 대한 처벌 우려로 교사들이 수학여행을 꺼리는 가운데 올해는 비용 논란까지 더해진 것이다. &lt;br&gt;&lt;br&gt;본지가 지난 14일 서울시교육청 홈페이지를 통해 학교가 공개한 올해 수학여행 예상 비용을 살펴보니, 제주도 2박 3일 일정에 1인당 70만~90만원인 학교가 상당수였다. 예컨대, 서울 서초구 A초는 이달 말 제주도로 2박 3일 일정 수학여행을 가는데 비용이 83만원이다. 이 학교는 3년 전에도 같은 일정으로 갔는데 당시 비용은 61만원이었다. 3년 새 36%나 오른 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63RT6DXYGVAHJI5XXX6D5PBI7I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외도 마찬가지다. 8월 말 싱가포르 3박 5일 일정으로 수학여행을 가는 B초는 1인당 비용을 250만원으로 책정했다. 2024년엔 214만원에 다녀온 일정이다.&lt;br&gt;&lt;br&gt;학교들은 물가 인상이 가장 큰 이유라고 설명한다. 서울 한 사립초 교감은 “밥값부터 입장료, 체험 활동비, 숙박비 등 거의 모든 가격이 다 올랐다”고 말했다. 최근 중동 전쟁으로 주유비가 오르고 항공권 유류할증료가 비싸지는 것도 영향을 줬다. &lt;br&gt;&lt;br&gt;학령인구 감소도 한 원인이다. 서울 은평구 한 여고 관계자는 “수학여행을 가는 2학년이 작년보다 한 학급 줄면서 버스 대절비 등 1인당 경비가 늘었다”고 말했다.&lt;br&gt;&lt;br&gt;비용 논란 때문에 수학여행을 취소한 학교도 나왔다. 최근 서울의 한 학부모가 온라인 커뮤니티에 “중3 자녀가 수학여행 비용이 말도 안 된다며 안 간다고 한다. 강원도 2박 3일에 60만원이다. 평일인데 숙박비, 식비 다 말이 안 되는 금액인 것 같다”는 글을 올려 논란이 됐다. 그러자 해당 학교는 수학여행을 아예 취소했다.&lt;br&gt;&lt;br&gt;최근 들어 수학여행을 안 가는 학교는 급증하는 추세다. 수학여행 실시 여부는 교사들이 협의해 정하는데, 반대하는 교사가 늘었기 때문이다. 2022년 초등학생이 체험 학습 중 버스에 치여 숨지자 담임 교사가 업무상 과실 치사 혐의로 기소돼 지난해 선고 유예를 받은 사건 이후 이런 분위기가 커졌다고 한다. 황철규 서울시의원이 서울시교육청에서 받은 자료에 따르면, 서울 지역 초·중·고 1331곳 중 올해 수학여행 계획이 있는 학교는 231곳(17%)뿐이다. 작년 562곳(42%)에서 급감했다. 특히 초등학교는 30곳(5%)만 수학여행을 가는 것으로 나타났다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 이명, 안면 마비… ‘코로나 백신 부작용’ 15개 추가 인정</title>
