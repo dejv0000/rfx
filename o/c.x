@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“어머니 살아있다” 화장 앞둔 시신 집으로 옮긴 70대 딸</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/21/KR7ZKJJSWNALDNTWXUJPJ4NB3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/21/KR7ZKJJSWNALDNTWXUJPJ4NB3E/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Apr 2026 14:57:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 모친의 죽음을 받아들이지 못한 70대 딸이 화장을 앞두고 시신을 자택으로 옮기는 일이 발생했다.&lt;br&gt;&lt;br&gt;21일 부산 사하경찰서와 사하구에 따르면, 70대 여성 A씨의 어머니 B씨는 지난 15일 사망했다. A씨는 사망진단서를 발급받고 3일장을 치를 예정이었다.&lt;br&gt;&lt;br&gt;하지만 A씨는 지난 18일 화장 시설로 이동하던 중 돌연 “어머니가 살아 있다”고 주장했다. 그는 화장 절차를 거부하더니 B씨 시신을 사하구의 자택으로 옮겼다. &lt;br&gt;&lt;br&gt;장례 지도사의 신고를 받고 출동한 경찰과 사하구 공무원의 설득 끝에 A씨는 어머니의 시신을 자택 인근 병원 영안실로 옮겼다. 이 과정에서 A씨는 건강이 급격히 나빠져 병원에 입원했다. &lt;br&gt;&lt;br&gt;사망한 B씨는 오래전 남편과 이혼했으며 다른 자녀들은 연락이 닿지 않거나 어머니와 인연이 끊겨 장사를 치를 의사를 보이지 않은 것으로 전해진다. &lt;br&gt;&lt;br&gt;사하구는 A씨의 상태가 호전되면 무연고 장례 동의를 거쳐 화장하는 방안을 검토하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 4월 22일</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/21/2DPCY7M7CNGERLNGDQDPPQ4QUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/21/2DPCY7M7CNGERLNGDQDPPQ4QUM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Apr 2026 14:35:00 +0000</pubDate>
+      <content:encoded>전국에 구름 많고, 남부지방·제주도는 비 내려&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7NL4L5DTZGWLCNGCHDN6C56K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰서 조사 대기 중 숨진 20대 사인은… ‘청산염 중독’ </title>
+      <link>https://www.chosun.com/national/2026/04/21/7VGRQNGRBNHW7GVFGVLQJANPVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/21/7VGRQNGRBNHW7GVFGVLQJANPVQ/</guid>
+      <dc:creator>김준호 기자, 광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Apr 2026 13:26:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XN4WVLLTC6JWCVX6W465MTLGVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 동부경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 조사를 기다리던 중 호흡 곤란 증상을 보이다 숨진 20대 피의자의 사인이 독극물 중독으로 추정된다는 부검 결과가 나왔다. &lt;br&gt;&lt;br&gt;광주 동부경찰서는 21일 20대 여성 A씨의 사인이 ‘청산염(일명 청산가리)에 의한 중독사’로 보인다는 국립과학수사연구원(국과수)의 감정 결과를 구두로 통보받았다고 밝혔다. 청산염은 독성이 매우 강한 물질로, 극소량으로도 생명에 치명적인 영향을 미치는 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;경찰에 따르면 국과수는 A씨 소지품에서 청산염 성분이 검출됐다고 경찰에 구두로 전달했다. A씨의 혈액 등에서도 동일 성분이 확인된 것으로 전해졌다. 정식 부검 결과는 수개월 뒤 나올 것으로 예상된다.&lt;br&gt;&lt;br&gt;A씨는 지난 18일 오후 5시쯤 동구 계림동의 한 아파트 지하 주차장에서 이별을 요구하는 전 연인을 흉기로 협박한 혐의(특수협박)로 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰서 피의자 대기실에서 조사를 기다리던 중 “암 환자라 약을 먹어야 한다”는 취지로 말한 뒤, 약을 가방에서 꺼내 먹고 호흡곤란 증상을 보이다 쓰러진 것으로 전해졌다. A씨는 인근 대학 병원으로 긴급 이송됐지만, 당일 오후 7시 5분쯤 숨졌다. A씨가 검거될 당시 외상은 없었던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 청산염을 언제 복용했는지, 직접 섭취했는지 등을 확인하는 한편 경찰서 내 피의자 관리 과정에서 미흡한 점이 있었는지 감찰에 착수했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종합특검, ‘통일교 수사 무마 의혹’ 윤희근 前 경찰청장 PC 등 확보</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/21/6TPOWZT5KZABVHMP3XENRXGPPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/21/6TPOWZT5KZABVHMP3XENRXGPPM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Apr 2026 12:20:52 +0000</pubDate>
+      <content:encoded>2차 종합특검이 ‘통일교 수사 무마’ 의혹에 윤희근 전 경찰청장이 개입했는지 확인하기 위해 경찰청 등을 압수수색한 것으로 21일 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7DBQRQULVNK5IAZE46FS727ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤희근 전 경찰청장이 지난 3월 12일 오전 서울 중구 은행회관에서 열린 10·29 이태원참사 진상규명 청문회에서 심문 질의에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 전날 경찰청과 강원경찰청, 춘천경찰서 등을 압수수색했다. 특검은 한학자 통일교 총재 등 통일교 간부들의 해외 원정 도박 의혹을 경찰이 인지하고도 수사를 제대로 하지 않고 무마했다는 의혹을 들여다보고 있다. &lt;br&gt;&lt;br&gt;앞서 춘천경찰서는 지난 2022년 6월, 한 총재 등이 2008~2011년 미국 라스베이거스에서 약 600억원 규모의 도박을 했다는 첩보를 입수하고도 정식 수사에 나서지 않았다. 이 과정에서 윤영호 전 통일교 세계본부장이 건진법사 전성배씨를 통해 수사를 무마했다는 의혹이 제기됐다. 전씨를 통해 권성동 국민의힘 의원 등 정치권에 수사 첩보가 전달되면서 수사가 흐지부지됐다는 것이다.&lt;br&gt;&lt;br&gt;특검은 당시 경찰청 차장이던 윤 전 경찰청장이 수사 무마에 관여했는지 확인하기 위해, 윤 전 처장이 차장 시절 사용하던 PC 등을 압수수색으로 확보한 것으로 전해졌다. 윤 전 청장은 윤석열 전 대통령 당선 이후 8개월 만에 치안감에서 경찰청장으로 승진했다.&lt;br&gt;&lt;br&gt;다만 이번 압수수색 영장에는 피의자가 특정되지 않고 ‘성명불상’으로 적시된 것으로 알려졌다. 윤 전 청장은 건진법사와의 친분이나 인사 청탁 의혹을 전면 부인하는 입장이다.&lt;br&gt;&lt;br&gt;앞서 이 의혹을 수사한 김건희 특검은 지난해 7월 경찰청 등을 압수수색했지만, 권 의원과 한 총재 등만 기소하고 경찰 내부 유출 경로에 대한 수사는 마무리하지 못했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>무려 1억450만톤 묻혀 있었다…영동군에서 발견된 ‘신비의 광물’</title>
       <link>https://www.chosun.com/national/national_general/2026/04/21/MYMDACCRRFH7TGN4PQQ3XGIZ4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/21/MYMDACCRRFH7TGN4PQQ3XGIZ4E/</guid>
@@ -870,24 +906,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LO6YXUJZWNFHZMCIXWYRNTEBNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스킨스쿠버 다이빙./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포시 문섬에서 스쿠버다이빙을 하던 40대가 숨져 해경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;20일 제주소방안전본부와 서귀포해양경찰서에 따르면 이날 오후 1시 7분쯤 서귀포시 서귀동 문섬 인근 해상에서 스쿠버다이빙을 하던 40대 여성 A씨가 인근 선박에 의해 구조돼 서귀포항으로 들어오고 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 이날 수중에서 의식이 없는 상태로 발견된 것으로 전해졌다. 그는 당시 주변 다이버에 의해 물 밖으로 구조된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국은 서귀포항에서 심정지 상태인 A씨를 인계받아 인근 병원으로 이송했지만 치료 중 숨졌다고 밝혔다.&lt;br&gt;&lt;br&gt;해경은 자세한 사망 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대법 “사무장병원 부당급여 환수액, 명의자보다 실운영자에게 더 부과할 수 있다”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/20/ORSK5OYJFRCRVOWQMX5FSWGOFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/20/ORSK5OYJFRCRVOWQMX5FSWGOFU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Apr 2026 01:10:07 +0000</pubDate>
-      <content:encoded>병원 개설 자격이 없는 비의료인이 의료인 명의를 빌려 개설·운영하는 ‘사무장병원’의 보험급여 부당이득을 환수할 때 책임 정도에 따라 실제 운영자에게 명의자보다 더 큰 금액을 부과할 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YR7X5XWV5ZEHNLRFBRT5RX4OQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 대법원 3부(주심 노경필 대법관)는 지난달 A의료법인과 이사장 B씨가 국민건강보험공단을 상대로 제기한 요양급여비용 환수처분 취소 소송에서 원고 일부승소한 원심 판결을 파기하고 사건을 서울고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;의료인이 아닌 B씨는 A법인 명의로 요양병원을 개설·운영해 요양급여비 명목으로 약 174억원을 지급받았다. 지난 2018년 국민건강보험공단은 해당 급여비에 대해 환수 처분을 했다. B씨는 문제의 요양병원이 적법한 의료기관인 것처럼 꾸미기 위해 법인을 세워 병원을 운영한 혐의 등으로 기소돼 2020년 징역 3년이 확정됐다. 공단은 내부 지침 및 재량 기준에 따라 A법인 및 B씨에 대해 각각 66억5200만원, 68억4500만원을 징수하기로 했는데, 이들은 불복해 소송을 냈다.&lt;br&gt;&lt;br&gt;이 사건 쟁점은 실질적 병원 개설·운영자에게 명의자인 법인보다 더 많은 부당이득을 징수할 수 있는지 여부였다. 원심은 실질적 개설·운영자에게 연대 납부하도록 할 수 있는 징수금은 애초 부당이득을 취득한 요양기관(법인)의 징수금 범위를 초과할 수 없다고 판단했다. &lt;br&gt;&lt;br&gt;하지만 대법원은 실질적 개설·운영자의 책임 정도에 따라 명의자에게 부과하는 액수를 초과해 징수할 수 있다고 본 것이다. 대법원은 “명의자·개설자의 역할과 불법성 정도, 의료기관 운영 성과의 귀속 여부 등에 따라 명의자의 책임과 개설자의 책임은 달라질 수 있다”고 봤다. 그러면서 “부당이득 징수 규정의 법적 성질, 입법 취지 등을 종합하면 실질적 개설·운영자는 명의자에 독립해 부당이득 반환 의무를 부담하되 연대 책임을 지는 관계”라며 “책임 경중에 대한 재량적 판단의 결과로 명의자에 부과되는 징수금을 초과할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쿠사마 야요이 ‘호박’ 팔아 45억원 벌고 “세금 안 내겠다”…법원 “15억 내야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/20/VUV7PLSCM5AOXBJEPSULRBABSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/20/VUV7PLSCM5AOXBJEPSULRBABSI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Apr 2026 00:47:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3TAOJSGY3TQMZZMYZWCNZZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구사마 야요이의 작품 '호박'. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 한 미술품 딜러가 세계적인 설치 미술가 쿠사마 야요이의 조각품 ‘호박’을 팔아 45억여 원의 차익을 거두고도 “사업과 무관하게 개인적으로 소장하다가 양도한 것이라 세금을 낼 필요가 없다”며 소송을 냈다가 패소했다. 20일 법조계에 따르면, 서울행정법원 행정4부(재판장 김영민)는 미술품 소매업자 A씨가 종로세무서장을 상대로 낸 경정 거부 처분 취소 소송에서 최근 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2018년 1월 쿠사마 야요이의 작품 ‘호박’을 구입한 뒤 2022년 1월 경매 회사에 위탁해 팔아 45억2100만원의 차익을 얻었다. A씨는 2023년 6월 종합소득세 신고 당시 이를 사업소득으로 신고했다가 두 달 뒤인 8월 “이건 사업소득이 아니다”라며 세금 약 15억3660만원을 돌려달라고 경정 청구를 했다. 종로세무서는 같은 해 12월 이를 거부했고, A씨는 소송을 냈다.&lt;br&gt;&lt;br&gt;A씨는 이 소득에 대한 세금을 아예 내지 않아도 된다고 주장했다. 그는 ‘서화나 골동품을 양도할 때 생기는 소득’을 기타소득으로 과세하는 소득세법을 들면서 ‘호박’은 조각품이라 이 규정에 해당하지 않고, 자신은 개인 소장가로서 판 것이므로 과세 대상 자체가 아니라고 주장했다. 또 설령 세금을 내야 한다고 하더라도 판매 시설이나 직원 없이 위탁 판매한 것이니 사업소득이 아닌 기타소득으로 보고 낮은 세율을 적용해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 A씨의 주장을 모두 받아들이지 않았다. 재판부는 A씨가 2009년 처음 미술품 소매업으로 사업자 등록을 한 뒤 개업과 폐업을 반복했지만 실질적으로는 미술품 판매업을 꾸준히 이어왔다고 봤다. A씨는 2014년부터 2022년까지 84억5000만원어치에 달하는 미술품 16점을 팔았고, 쿠사마 야요이 작품만 총 14차례 거래한 것으로 나타났다. 재판부는 “거래 건수가 적더라도 각 미술품이 고가여서 단기간 거래가 쉽지 않은 특성을 고려하면 계속성·반복성을 갖춘 사업 활동으로 볼 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;위탁 판매 방식이어서 기타소득이라는 A씨 주장도 인정되지 않았다. 재판부는 “사업소득 여부를 판단할 때 인적·물적 시설 보유나 직접 판매행위는 필수 요건이 아니다”라며 “판매 대금과 이익이 A씨에게 귀속되는 이상 위탁 판매도 실질적으로 A씨의 계산과 책임 하에 이루어진 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>고속도로 휴게소에 멧돼지가…女화장실 문 ‘쿵쿵’ 아수라장</title>
       <link>https://www.chosun.com/national/national_general/2026/04/20/W2H2F2FPNRFMFJ5SR7BWS4Z774/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/20/W2H2F2FPNRFMFJ5SR7BWS4Z774/</guid>
@@ -916,28 +934,6 @@
       <description/>
       <pubDate>Mon, 20 Apr 2026 03:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PEHF75V7NIYTPSW5YGUEHFJCE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김순환 서민민생대책위원회(서민위) 사무총장이 20일 오전 서울 영등포경찰서에 출석해 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성폭행 피해를 신고한 10대 여성이 경찰의 불송치 결정 이후 숨진 사건과 관련해 시민단체가 담당 수사팀을 법왜곡죄로 고발한 가운데, 경찰이 고발인을 소환해 본격적인 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 20일 오전 10시쯤부터 김순환 서민민생대책위원회(서민위) 사무총장을 소환해 고발인 조사를 진행하고 있다.&lt;br&gt;&lt;br&gt;김 사무총장은 지난 12일 안산단원경찰서 여성청소년수사팀과 여성청소년과장을 법왜곡·직권남용·명예훼손 혐의로, 안산단원서장을 직무유기 혐의로 고발했다.&lt;br&gt;&lt;br&gt;김 사무총장은 이날 조사에 앞서 취재진을 만나 “이 사건은 10대 여성이 (자신이 일하는 가게) 사장에 의해 성폭행을 당한 것으로 의심되는 건”이라며 “당시 피해 여성은 술을 마셨기 때문에 심신미약 상태라고 할 수 있고, 사장 주장처럼 합의 하의 관계라고 보기 어렵다”고 주장했다.&lt;br&gt;&lt;br&gt;또 “10월이 되면 검찰청이 폐지되고 경찰 수사에 무게가 실리는데 이러한 상황에서 국민이 어떻게 경찰을 믿겠느냐”며 “고심 끝에 법왜곡죄를 적용했고 다시 한 번 들여다봐 달라 정중히 요청한 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 경기 안산시의 한 주점에서 일하던 A(19)씨는 사장 B씨에게 성폭행을 당했다며 준강간 혐의로 고소했으나, 안산단원서는 지난 2월 18일 B씨에 대해 불송치 결정을 내렸다. 이후 A씨는 같은달 21일 “수사 결과를 받아들일 수 없다”는 이의 신청서를 남기고 건물에서 투신해 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 검찰의 보완 수사 요구에 따라 추가 조사를 진행했으나, 기존과 같은 결론을 유지한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>金총리 ‘고유가 지원금 늦어지지 않게 지방정부 추경 편성 독려하라’</title>
-      <link>https://www.chosun.com/politics/goverment/2026/04/20/BGELPN4Q5FDWJAFXCH62CPPUYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/20/BGELPN4Q5FDWJAFXCH62CPPUYA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Apr 2026 01:43:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PG76AF5T3FODHAGMDESQOCIA5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 20일 오전 서울 종로구 정부서울청사에서 열린 제7차 비상경제본부 회의에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 이달 말부터 지급하기로 계획돼 있는 ‘고유가 피해 지원금’의 실제 지급이 지방자치단체의 업무 처리 지연으로 7월 이후로 늦어질 수 있다며, 관계 부처에 독려를 당부했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오전 정부서울청사에서 비상경제본부 회의를 주재하며 “고유가 피해 지원금이 지방정부와 함께 마련해 지급되는 것이기 때문에, 지방정부가 관련 추경을 신속하게 편성하지 않으면 늦어질 수 있다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;김 총리는 “제가 쭉 점검해보니, 지방선거 관련해 단체장들이 선거에 나간 경우, (고유가 피해 지원금 지급을 위한 지방자치단체별 추가경정예산을) 지방정부가 편성하고 지방의회가 통과시켜야 하는 절차(가 늦어지기) 때문에, (중앙정부) 추경이 전체적으로 결정됐음에도 실제 (고유가 피해 지원금) 집행이 7월 이후로 늦어질 가능성이 있는 곳들이 상당히 있는 것으로 파악됐다”고 했다.&lt;br&gt;&lt;br&gt;국회가 지난 10일 통과시킨 26조2000억원 규모 추경안에는 소득 하위 70% 국민에게 고유가 피해 지원금 명목으로 6조1400억원을 주는 사업이 포함됐다. 국회는 이 가운데 4조8200억원은 중앙정부가, 1조3200억원은 지자체가 부담하도록 했는데, 지자체 부담분이 국민에게 실제로 지급되기 위해서는 지자체별로 추경을 편성해 관련 사업 지출 계획을 예산에 포함시켜야 한다. 정부는 지자체 정부와 의회가 추경을 즉각 편성·의결하는 것을 전제로 기초생활수급자와 차상위 계층에 대해서는 이달 27일부터, 나머지 소득 하위 70% 국민에 대해서는 다음 달 18일부터 고유가 피해 지원금을 준다는 계획을 세워 놓았다.&lt;br&gt;&lt;br&gt;김 총리는 “(지자체가 추경을 제때 처리하는지) 행정안전부가 점검해 주는 것이 중요할 것 같다”며 “지방정부가 관련 추경을 신속히 편성하도록 점검·독려하고, 지급 과정에 혼선이 발생하지 않도록 철저히 대비해 달라”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 한편 “고유가 때문에 연안 여객선 운항 횟수가 감축돼 섬 지역 주민들이 불편을 겪고 있다는 말을 많이 듣고 있다”며 “해양수산부와 관계 부처는 연안 여객선이 안정적으로 운항될 수 있도록 관련 추경 집행 계획과 선사 경영 지원 방안을 마련해 시행해 달라”고 주문했다.&lt;br&gt;&lt;br&gt;김 총리는 또 “주사기 등 필수 품목의 수급 상황은 정부가 계속 점검하고 있는데, 현장에서 제대로 작동하고 있는지, 생산·유통 과정에서 막힌 곳은 없는지 등을 꼼꼼하게 잘 챙겨, 국민들이 체감할 수 있게 해야 한다”며 “산업통상부와 재정경제부 등 관계 부처는 주요 필수 품목 수급 상황을 최대한 투명하고 선제적으로 공개하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>꽃샘추위에 역대 가장 늦은 한파특보...황사도 유입</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/20/KSMF4IJWRFCERLUFJ4AB7GWIFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/20/KSMF4IJWRFCERLUFJ4AB7GWIFY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Apr 2026 01:32:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3ME6SVLTFIZ7APQM36YRRXNLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;꽃샘추위가 찾아온 지난 7일 오전 서울 광화문 사거리에서 출근길 시민들이 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후부터 북쪽에서 찬 바람이 내려오면서 강원과 충남·전북 곳곳에 역대 가장 늦은 한파특보가 발령됐다.&lt;br&gt;&lt;br&gt;이날 기상청에 따르면, 21일 강원남부산지와 충남 공주·금산, 전북 무주에서 전날보다 아침 최저기온이 10도 이상 내려갈 것으로 예상돼 한파주의보가 내려졌다. 한파주의보는 아침 최저기온이 전날보다 10도 이상 떨어지고, 평년보다 3도 이상 낮을 것으로 예상될 때 내려진다.&lt;br&gt;&lt;br&gt;이번 한파특보는 기록을 누적 집계하기 시작한 2005년 7월 이후 가장 늦은 기록이다. 종전 기록은 2021년 4월 13일이었다.&lt;br&gt;&lt;br&gt;이번에 한파특보가 발령된 지역의 경우, 직전 가장 늦은 기록은 강원남부산지와 무주가 4월 13일(2021년), 금산은 4월 11일(2023년), 공주는 3월 21일(2019년)이었다.&lt;br&gt;&lt;br&gt;늦은 한파특보가 내려진 것은 최근 내륙을 중심으로 발생한 이상고온 현상 때문이다. 지난 13일부터 우리나라는 상공에 ‘고기압 지붕’이 열을 가두고, 남쪽 해상을 통과하는 저기압에 의해 뜨겁고 축축한 남동풍이 들어오면서 평년 4월보다 최고기온이 10도가량 높았다. &lt;br&gt;&lt;br&gt;이렇게 최고기온이 높아진 상황에서 갑자기 찬 북풍이 내려오며 기온이 10도 이상 떨어지게 됐고, 한파특보 발령 요건을 충족하게 된 것이다.&lt;br&gt;&lt;br&gt;21일 아침 최저기온은 2∼11도, 낮 최고기온은 16∼22도로 예보됐다. 낮과 밤의 기온 차가 15도 안팎으로 클 전망이다.&lt;br&gt;&lt;br&gt;한편 북서풍을 타고 황사도 유입될 전망이다. 지난 18일 고비사막과 내몽골고원에서 발원한 황사가 21일 국내에 영향을 줄 것으로 보인다. 황사의 영향으로 21일 미세먼지 농도는 전국에서 ‘매우 나쁨’ 수준일 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WP4MDUYJZ5FMDD43H7CCGB3I7U.JPG?auth=039cdae97223ef12be8a90790f74ada3ba17d039ce0ba1a1be38061eac494be8&amp;smart=true&amp;width=2534&amp;height=1425" type="image/jpeg" height="1425" width="2534">
-        <media:description type="plain">(서울=뉴스1) 황기선 기자 = 꽃샘추위가 찾아온 7일 오전 서울 광화문 사거리에서 출근길 시민들이 발걸음을 재촉하고 있다. 2026.4.7/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 황기선 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색</title>
