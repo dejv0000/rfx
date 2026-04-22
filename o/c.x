@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 4월 23일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/22/FETTF2CTOFDHZADPRORNHWVFLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/22/FETTF2CTOFDHZADPRORNHWVFLE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Apr 2026 14:31:00 +0000</pubDate>
+      <content:encoded>전국 대체로 흐림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QM2YLZAXARB7LKUA7CDEWUK2CM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢 감찰위 ‘검사 집단퇴정 징계불가’ 결론에… 정성호 “법무부가 기록받아 검토”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/22/ZAHPYIRA6REDTALGZW67KRBPFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/22/ZAHPYIRA6REDTALGZW67KRBPFU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Apr 2026 14:10:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDSYZRMVSDMMJZGM2TGOLBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 지난 3일 서울 여의도 국회에서 열린 윤석열정권정치검찰조작기소의혹사건진상규명국정조사특별위원회 전체회의에서 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 22일 대검찰청 감찰위원회가 ‘수원지검 검사 집단 퇴정 사건’을 징계할 수 없다고 판단한 것에 대해 “법무부가 기록을 넘겨받아 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 국회 법제사법위원회 전체회의에서 조국혁신당 박은정 의원이 ”친윤 검사장이 감찰부장으로 있는 감찰위에서 편을 들어준 것 아니냐“며 감찰위 결정을 문제 삼자 이같이 밝혔다. 정 장관은 ”대검 의견을 존중해야겠지만 전적으로 기속되는 건 아니라고 한다“며 ”법무부에서 기록을 검토해서 종합적으로 판단하겠다”고 했다.&lt;br&gt;&lt;br&gt;더불어민주당 김용민 의원은 “검사징계법 개정으로 검찰총장뿐 아니라 법무부 장관도 검사를 징계위원회에 회부할 수 있다”며 “직접 행사할 수 있는 권한을 적극적으로 행사해주시기를 바란다”고 했다. 그러자 정 장관은 “알겠다”며 “관련 기록을 법무부에서 보려고 하고 있다”고 답했다.&lt;br&gt;&lt;br&gt;지난해 11월 25일 수원지검 소속 검사 4명은 수원지법 형사 11부(재판장 송병훈) 심리로 열린 이화영 전 경기도 평화부지사의 ‘술 파티 위증 의혹 사건’ 공판준비기일에서 법관 기피 신청 의견을 밝힌 뒤 전원 퇴정했다. 검찰이 신청한 증인 64명 중 6명만 채택되는 등 재판부가 불공정하게 소송 지휘를 한다는 이유였다. 그러자 이재명 대통령은 이들에 대한 감찰과 수사를 지시했고, 정 장관의 지시로 대검과 수원고검에서 감찰이 이뤄졌다.&lt;br&gt;&lt;br&gt;최근 대검 감찰위는 비공개회의를 열고 집단 퇴정한 수원지검 검사들을 징계하기 어렵다고 결론 내린 것으로 알려졌다. 감찰위는 검찰총장에게 심의 결과를 보고하고 필요한 조치를 권고하는 역할을 한다. 검찰총장이 감찰위 권고를 그대로 이행해야 할 의무는 없지만, 감찰위 의견을 존중해 권고에 따르는 것이 일반적이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양평고속도로 변경 특혜’ 의혹 용역관계자...“대안 노선 선정 지시 없어” </title>
+      <link>https://www.chosun.com/national/court_law/2026/04/22/XRAZLVV2DZEWZEVZ7VAFKKIPSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/22/XRAZLVV2DZEWZEVZ7VAFKKIPSQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Apr 2026 14:04:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73NBHLY3ZBNSBJP67DVSBVFAWE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;원희룡 전 국토부장관이 지난 2023년 7월 경기 양평 서울-양평 고속도로 예비타당성조사 노선 종점 인근에서 열린 주민간담회 및 현장점검에서 발언을 하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양평고속도로 타당성평가를 담당한 용역업체 관계자가 재판에 나와 김모 국토교통부 서기관 등 관련자로부터 대안 노선 선정 과정과 관련된 지시를 받은 게 없다고 증언했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사31부(재판장 박준석)는 22일 ‘양평고속도로 변경 특혜’ 의혹을 받는 김 서기관과 국토부 공무원 이모씨, 한국도로공사 공무원 유모씨, 한국도로공사 공무원 최모씨에 대한 재판을 진행했다. 이날 재판에는 용역업체 관계자 이모씨에 대한 김건희특검팀의 증인신문이 이뤄졌다.&lt;br&gt;&lt;br&gt;이씨는 이날 “대안 노선 선정 과정에서 김 서기관을 포함해 피고인들이 구체적으로 지시를 한 사실이 있냐”는 특검팀 질문에 “착수보고 당시 대안을 검토했던 것이지 이렇게 검토를 하라고 지시를 받은 건 없다”고 답했다. 국토부 관계자와 회의 당시에 김 서기관이 원안에 대한 문제점을 계속 얘기했냐는 질문에는 “모든 걸 기억하지는 못하지만 그런 기억은 없다”고 했다.&lt;br&gt;&lt;br&gt;김 서기관 등은 2022년 3월 대통령직인수위원회(인수위) 내 성명불상자로부터 고속도로 종점 변경을 검토하라는 연락을 받고 용역업체에 이를 지시한 혐의를 받는다. 특검팀은 용역업체 관계자들이 이에 따라 “인수위 지시사항”이라며 대안 노선을 검토했다고 보고 있다.&lt;br&gt;&lt;br&gt;이날 재판에 이어 지난 6일 진행된 재판에서도 특검 측 주장과는 다른 취지의 증언이 나왔다. 당시 재판에는 용역업체 관계자 김모씨가 증인으로 출석했다. 김씨는 “특검 조사 당시 김 서기관이 (양평고속도로) 노선을 남양평 IC 방향으로 손가락으로 그으며 검토하라고 했고, 인수위에 국토부 사람이 참여하고 있는데 관심사라고 했다고 진술했다”는 특검팀 말에 “그 당시에는 인수위 지시사항이 있었던 것 같다고 진술했는데, 지금 기억해보면 그런 키워드는 없었던 것 같다. 다만 김 서기관이 남양평으로 검토해보자고 얘기한 것만 기억하고 있다”고 답했다. &lt;br&gt;&lt;br&gt;​지난 8일 진행된 재판에서 재판부는 특검팀의 공소장 내용 검토를 요청하기도 했다. 재판부는 “공소장을 보면 타당성 평가 용역 관리 감독을 담당하는 자는 합리적 근거없이 평가대행자로 하여금 특정 방향으로 결론을 도출하도록 유도하는 등 용역 수행에 개입해선 안 된다고 썼는데 지침에 나오는 말인지 궁금하다”고 했다. 그러면서 “평가대행이란 건 원래 국토부에서 자체적으로 평가할 수 있는 건데, 시킨 이상 개입해선 안 된다고 하는 게 이상한 것 같다”고 짚었다. 이에 대해 특검팀은 이날 진행된 재판에서 “타당성 평가 용역 관리 감독 담당자의 업무에 대해선 규정이 있었던 건 아니고 사회 통념상 통상 있어야 할 것을 기재한 것”이라며 “이 부분에 대한 입증은 추후 증인신문 절차를 통해 진행할 것”이라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오월드, ‘늑구 논란’ 해명하다 지쳤나… “당분간 소식 전달 안 해”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/22/PZBAM2P7HFAH7CCQABBNP46TZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/22/PZBAM2P7HFAH7CCQABBNP46TZY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Apr 2026 13:47:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YCHCHYA3ZOCLLOW5IUTVXFZHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 오월드에서 탈출했다 9일 만인 지난 17일 생포돼 돌아온 늑대 '늑구'가 20일 오후 2시 닭고기와 소고기 분쇄육을 먹다가 주변을 두리번거리고 있다. /오월드 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오월드가 동물원을 탈출했다가 9일 만에 생포돼 돌아온 늑대 ‘늑구’ 소식을 당분간 전하지 않겠다고 밝혔다. 앞서 오월드는 늑구 복귀 이후 먹이 섭취 모습 등 늑구 근황을 촬영해 소셜미디어에 공유했는데, 일부 네티즌이 먹이를 제공하는 방식과 환경이 비위생적이라는 비판을 제기한 바 있다. &lt;br&gt;&lt;br&gt;오월드는 22일 공지를 통해 “그동안 늑구 상태에 대해 걱정과 관심을 보내주신 점 진심으로 감사드린다. 덕분에 늑구는 빠르게 안정을 찾고 있다”면서도 “다만 현재 늑구에게 무엇보다 평온하고 조용한 환경이 필요하다고 판단해 완전한 회복을 위해 당분간 늑구의 사진이나 영상 촬영을 진행하지 않기로 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “늑구의 상태가 충분히 안정되고, 본래의 보금자리로 돌아가 편안하게 지낼 수 있는 시점에 다시 소식을 전해드리겠다”며 “늑구가 편안한 일상으로 돌아갈 수 있도록 따뜻한 마음으로 지켜봐 주시면 감사하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 오월드는 지난 20일 늑구가 바닥에 놓인 먹이를 먹는 영상을 공개했는데, 이를 두고 일부 네티즌은 이런 환경이 비위생적이라며 비판을 제기했다. “시멘트 바닥에 녹슨 철창이 안타깝다” “이런 영상 올리지 말고 환경 개선이나 좀 신경 써라. 예민한 상태인데 식사 중 촬영하는 것도 보기 불편하다” “밥을 그릇에 주지 왜 시멘트 바닥에 주냐” 등이다.&lt;br&gt;&lt;br&gt;이 같은 지적이 이어지자 오월드는 이튿날 “그릇에 먹이를 제공할 경우, 그릇 소리에 예민하게 반응해 섭취를 꺼릴 수 있어 바닥에 놓인 먹이를 섭취하고 있다”고 해명했다. “이는 늑대의 자연스러운 먹이 섭취 방식”이라며 “기존에도 동일한 방식으로 이뤄졌다”고도 했다.&lt;br&gt;&lt;br&gt;오월드를 운영하는 대전도시공사 측도 보도자료를 통해 “야생동물인 늑대는 평소 먹이를 별도의 용기에 담아 제공하지 않는다”며 “늑구는 현재 예민한 상태로, 평소와 다른 방식으로 먹이를 주면 잘 먹지 않는다”고 했다. 이어 “영상의 장소는 임시 격리 공간”이라며 “회복 후 늑구는 원래 살던 ‘늑대 사파리’로 이동할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대한어머니회 정기총회 개최</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/22/WFO3IMR4WFGZXAE7CZLXEPZILQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/22/WFO3IMR4WFGZXAE7CZLXEPZILQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Apr 2026 13:15:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBGAQU7SC5CABP6TTVLB3AQXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김두임 중앙회 회장은 22일 대한어머니회 정기총회에서 “조직을 정비하고 결속을 강화해 사회가 직면한 여러 문제를 극복해 가자”고 밝혔다. 
+
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사단법인 대한어머니회는 22일 대전 효문화 마을에서 중앙회, 10개 지방연합회 대의원 43명이 참석한 가운데 정기 총회를 개최했다. 김두임 중앙회 회장은 “대한어머니회는 1958년 창립한 이래 사회의 어두운 곳을 밝히고, 여성의 권익 신장과 민주사회 발전을 위해 쉼 없이 달려왔다”며 “조직을 정비하고 결속을 강화해 사회가 직면한 여러 문제를 극복해 가자”고 밝혔다. &lt;br&gt;&lt;br&gt;이날 정기 총회에선 올해 사업 계획 및 예산안 심의와 함께 신임 이사 2명 위촉이 이뤄졌다. 신임 이사엔 심영진 전 언론중재위원회 본부장과 조용경 전 서울시연합회 회장이 선임됐다. 이들의 임기는 24일부터 2028년 5월 8일까지다.&lt;br&gt;&lt;br&gt;이어 진행된 정책협의회에선 ‘변화하는 시대의 효율적인 NGO단체 운영방향(조미선 대전 YMCA 시민사회 위원장)’, ‘AI시대 인성교육은 왜 필요한가?(고명희 서울여대 교수)’를 주제로 한 강연이 열렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹 계엄 정당화 메시지’ 조태열 前 외교장관 특검 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/22/YA6WYZTJZJBXVN6WP6YRAUZIAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/22/YA6WYZTJZJBXVN6WP6YRAUZIAU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Apr 2026 12:12:24 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRWEYZZMUYDONTGMQ3TSNRUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태열 전 외교부 장관 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병) 잔여 사건을 수사하는 2차 종합특검팀은 22일 조태열 전 외교부 장관을 참고인 신분으로 불러 조사했다고 밝혔다. &lt;br&gt;&lt;br&gt;특검은 조 전 장관을 상대로 윤석열 전 대통령이 2024년 12월 3일 비상계엄을 선포한 직후, 당시 대통령실이 외교부에 계엄을 정당화하기 위한 메시지를 미국에 전달하라고 지시한 경위를 확인하기 위한 조사였다고 설명했다.&lt;br&gt;&lt;br&gt;당시 대통령실 메시지에는 ‘이번 조치(계엄)는 자유민주주의 수호를 위한 것’, ‘국회가 행정부를 마비시킨 것에 대응해 정치적 시위를 한 것’, ‘종북 좌파와 반미주의에 대한 대항’ 등의 내용이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검팀은 당시 외교부가 이같은 메시지 전달에 소극적이자, 윤 전 대통령이 신원식 전 안보실장과 김태효 전 안보실 1차장을 통해 메시지를 보내려 한 것으로 의심하고 있다. 이와 관련해 특검은 지난 8일 내란 중요 임무 종사와 직권남용 혐의로 김 전 차장의 집과 연구실 등을 압수수색했다. 신 전 실장도 같은 혐의로 입건했고, 내란 혐의로 재판을 받고 있는 윤 전 대통령에게는 직권남용 혐의를 적용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘수사 무마 의혹’ 인플루언서 남편 구속… 경찰은 기각</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/22/QCSETUN2UBDI7LQO3MWCSBEAY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/22/QCSETUN2UBDI7LQO3MWCSBEAY4/</guid>
+      <dc:creator>김혜민 기자, 지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Apr 2026 11:30:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2E4BQ62APRPNZJCAC6CFQ5PDME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유명 인플루언서 남편인 사업가 이모씨가 22일 서울 양천구 남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에게 뇌물을 건네 유명 인플루언서인 배우자의 사기 사건을 덮었다는 혐의를 받는 사업가가 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지법 황중연 판사는 22일 뇌물공여·자본시장법 위반 등 혐의를 받는 인플루언서 A씨 남편 사업가 B씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “증거인멸 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;뇌물수수·공무상비밀누설 등 혐의를 받는 서울 강남경찰서 소속 D 경감에 대한 구속영장은 기각됐다. 황 판사는 “피의자가 제공받은 향응 또는 금품이 뇌물에 해당하는지 여부에 다툼이 있어 방어권 보장이 필요하다”고 설명했다.&lt;br&gt;&lt;br&gt;지난 2024년 한 프랜차이즈 업체 가맹점주들은 인플루언서 A씨를 사기·가맹사업법 위반 혐의로 강남경찰서에 고소했다. 당시 강남경찰서 수사1과 팀장이었던 D 경감은 A씨 남편인 B씨에게 청탁을 받고 A씨 관련 수사를 무마한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 B씨가 평소 친분이 있던 경찰청 소속 C 경정을 통해 D 경감을 만나 룸살롱에서 접대하며 금품을 건넨 것으로 보고 있다. 강남경찰서 수사1과는 그해 12월 A씨 사건을 검찰에 송치하지 않기로 하고 종결했다.&lt;br&gt;&lt;br&gt;C 경정과 D 경감은 직위해제된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고도 기각</title>
       <link>https://www.chosun.com/national/court_law/2026/04/22/O754PLGQFZHR3FJ6E4QV66J2YA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/22/O754PLGQFZHR3FJ6E4QV66J2YA/</guid>
@@ -627,15 +692,6 @@
       <content:encoded>에듀조선수학평가연구소가 주최하는 ‘CME 수능형 수학 학력 평가’가 열립니다. 전국에서 오프라인으로 진행되며, 미래형 수학 교과 역량을 평가합니다. 이를 통해 보다 포괄적이고 정확한 교과 역량을 분석할 수 있습니다. 자세한 안내 사항은 홈페이지에서 확인 가능합니다. 많은 참여와 관심 부탁드립니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WU62RYFONBXTL2SM5FFARE3T4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▶ 시험 일정: 6월 13일 토요일 오전 11시~오후 12시 10분&lt;br&gt;&lt;br&gt;▶ 접수 기간: 5월 29일 금요일 오후 5시까지&lt;br&gt;&lt;br&gt;▶ 참가 대상: 초등학교 1학년~고등학교 1학년 재학생&lt;br&gt;&lt;br&gt;▶ 대회 장소: 전국 지정 시험장(서울: 숭실대)&lt;br&gt;&lt;br&gt;▶ 응시료: 4만원&lt;br&gt;&lt;br&gt;▶ 온라인 접수: www.educmeo.com&lt;br&gt;&lt;br&gt;▶ 문의 : 02-876-6788(수도권), 051-342-1230(비수도권)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2852] 강세 바꿔 읽기</title>
-      <link>https://www.chosun.com/national/nie/2026/04/22/SIRBIEAIGNE4DJ5WZ5ELGNE77U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/04/22/SIRBIEAIGNE4DJ5WZ5ELGNE77U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRMROOSSJJCENHP5M4QVHBU74E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 승리를 추구하다, 이기려고 힘쓰다</title>
       <link>https://www.chosun.com/national/nie/chinese/2026/04/22/3M2YPKBX3ZHPVBKGBQ6GOT7IN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/04/22/3M2YPKBX3ZHPVBKGBQ6GOT7IN4/</guid>
@@ -643,24 +699,6 @@
       <description/>
       <pubDate>Tue, 21 Apr 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERZUJHIDGNES5G5BN2WR5VON6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 종아리에 쥐가 나다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/04/22/42PGZXCX3VBMPAXZFSGF6BXE5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/04/22/42PGZXCX3VBMPAXZFSGF6BXE5Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3NX36MVO5GEPJYOLF5USBCJXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] on the off chance</title>
-      <link>https://www.chosun.com/national/nie/english/2026/04/22/HRNJMK32IVBFTG3SD6HERGQ3D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/04/22/HRNJMK32IVBFTG3SD6HERGQ3D4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Apr 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYSUKC22UJGJPBWY77FGLFT36A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문으로 배우는 실용한자] 무방(無妨)</title>
@@ -870,15 +908,6 @@
       <content:encoded>전국에 구름 많고, 남부지방·제주도는 비 내려&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7NL4L5DTZGWLCNGCHDN6C56K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰서 조사 대기 중 숨진 20대 사인은… ‘청산염 중독’ </title>
-      <link>https://www.chosun.com/national/2026/04/21/7VGRQNGRBNHW7GVFGVLQJANPVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/21/7VGRQNGRBNHW7GVFGVLQJANPVQ/</guid>
-      <dc:creator>김준호 기자, 광주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Apr 2026 13:26:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XN4WVLLTC6JWCVX6W465MTLGVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 동부경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 조사를 기다리던 중 호흡 곤란 증상을 보이다 숨진 20대 피의자의 사인이 독극물 중독으로 추정된다는 부검 결과가 나왔다. &lt;br&gt;&lt;br&gt;광주 동부경찰서는 21일 20대 여성 A씨의 사인이 ‘청산염(일명 청산가리)에 의한 중독사’로 보인다는 국립과학수사연구원(국과수)의 감정 결과를 구두로 통보받았다고 밝혔다. 청산염은 독성이 매우 강한 물질로, 극소량으로도 생명에 치명적인 영향을 미치는 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;경찰에 따르면 국과수는 A씨 소지품에서 청산염 성분이 검출됐다고 경찰에 구두로 전달했다. A씨의 혈액 등에서도 동일 성분이 확인된 것으로 전해졌다. 정식 부검 결과는 수개월 뒤 나올 것으로 예상된다.&lt;br&gt;&lt;br&gt;A씨는 지난 18일 오후 5시쯤 동구 계림동의 한 아파트 지하 주차장에서 이별을 요구하는 전 연인을 흉기로 협박한 혐의(특수협박)로 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰서 피의자 대기실에서 조사를 기다리던 중 “암 환자라 약을 먹어야 한다”는 취지로 말한 뒤, 약을 가방에서 꺼내 먹고 호흡곤란 증상을 보이다 쓰러진 것으로 전해졌다. A씨는 인근 대학 병원으로 긴급 이송됐지만, 당일 오후 7시 5분쯤 숨졌다. A씨가 검거될 당시 외상은 없었던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 청산염을 언제 복용했는지, 직접 섭취했는지 등을 확인하는 한편 경찰서 내 피의자 관리 과정에서 미흡한 점이 있었는지 감찰에 착수했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>종합특검, ‘통일교 수사 무마 의혹’ 윤희근 前 경찰청장 PC 등 확보</title>
       <link>https://www.chosun.com/national/court_law/2026/04/21/6TPOWZT5KZABVHMP3XENRXGPPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/21/6TPOWZT5KZABVHMP3XENRXGPPM/</guid>
@@ -910,19 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDDXXM4M5CPV35P2GDSD35XGNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화영 전 경기도 평화부지사의 위증 혐의 재판에서 집단으로 퇴정한 검사들을 징계할 수 없다고 대검찰청 감찰위원회가 판단한 것으로 21일 알려졌다. 작년 11월 이재명 대통령이 해당 검사들에 대한 감찰에 착수하라고 지시한 지 약 5개월 만이다.&lt;br&gt;&lt;br&gt;감찰위는 대검 감찰부의 감찰 결과를 기반으로 검사들에 대한 징계 가능 여부를 논의했지만, 이들을 징계할 수 없다고 의결한 것으로 이날 전해졌다. 감찰위는 검찰총장에게 심의 결과를 보고하고 필요한 조치를 권고하는 역할을 한다. 검찰총장이 감찰위 권고를 그대로 이행해야 할 의무는 없지만, 감찰위 의견을 존중해 권고에 따르는 것이 일반적이라고 한다.&lt;br&gt;&lt;br&gt;작년 11월 25일 수원지법 형사11부(재판장 송병훈)에서는 “대북 송금 사건 조사 과정 중 검사실에서 연어 술 파티가 있었다”고 위증한 혐의를 받는 이 전 부지사에 대한 공판 준비 기일이 열렸다. 검찰은 이 전 부지사의 출정(出廷)을 담당한 교도관 전원 등 64명에 대해 증인 신청을 했다. 그런데 재판부는 “(기간 내) 국민참여재판을 마치려면 증인 신문을 최소화해야 한다”며 그중 6명만 증인으로 채택했다. 이에 재판에 출석한 검사 4명은 법관 기피 신청 의사를 밝힌 뒤 법정을 나갔다. “소수의 증인만으로 공소 사실을 입증하라고 한 것은 사실상 입증 활동 포기를 지휘한 것”이라며 반발한 것이다.&lt;br&gt;&lt;br&gt;대통령실은 다음 날인 26일 브리핑을 열고 “이 대통령은 법관에 대한 모독은 사법 질서와 헌정에 대한 부정 행위이기에 공직자인 검사들의 집단 퇴정과 같은 법정 질서를 해치는 행위에 대해 법과 원칙에 따라 신속하고 엄정한 감찰과 수사를 진행할 것을 지시했다”고 밝혔다. 정성호 법무장관은 대통령 지시에 따라 해당 검사들에 대한 감찰을 지시했다.&lt;br&gt;&lt;br&gt;그간 법조계에선 검사들이 법원에서 퇴정한 게 감찰할 사안인지를 두고 논란이 있었다. 형사소송법은 물론 대검 예규 등에는 검사들이 재판부의 소송 지휘가 부당할 경우 퇴정할 수 있다거나 어떤 경우라도 법정을 지켜야 한다는 규정은 없다. 성남FC, 원세훈 전 국가정보원장, 론스타 사건 등 과거에도 검사들이 재판부에 항의하며 퇴정한 사례가 있지만 감찰이나 징계를 받은 적은 없는 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;민주당은 대북 송금 사건을 검찰의 조작 기소로 보고 국정조사를 진행 중이다. 대북 송금 사건은 2019년 경기도가 이재명 당시 경기지사의 방북을 성사시키기 위해 쌍방울 자금 300만달러를 북한에 송금하도록 했다는 내용이다. 이 전 부지사가 이를 주도한 혐의 등으로 대법원에서 유죄 확정 판결을 받았고, 이 대통령은 사건 공범으로 기소됐지만 재판이 중단된 상태다. 여권은 검찰이 이 대통령을 주범으로 엮기 위해 이 전 부지사 등을 회유해 이 대통령에 대한 불리한 진술을 받아냈고, 그 과정에서 이 전 부지사를 상대로 검사실에서 ‘연어 술 파티’를 벌였다고 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>새 최저임금위원장에 권순원 교수... 민노총 “주69시간 주도한 인물” 반발</title>
-      <link>https://www.chosun.com/national/labor/2026/04/21/3CUIXYFBYRDRFPLJLRIOLQCGQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/21/3CUIXYFBYRDRFPLJLRIOLQCGQQ/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Apr 2026 07:48:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROR2XNRQ5ITBAAVFMY5LTFMHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 세종시 정부세종청사에서 권순원 신임 최저임금위 위원장이 국민의례를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년도 최저임금을 결정하게 될 최저임금위원회 위원장에 권순원 숙명여대 경영학부 교수가 선출됐다. 최저임금위는 21일 1차 전원회의를 열고 이같이 결정했다. 노동경제학 분야 전문가로 꼽히는 권 교수는 권영길(85) 전 민주노동당 대표 사위기도 하다. 최저임금위에선 2019년부터 공익위원으로 활동했다.&lt;br&gt;&lt;br&gt;권 신임 위원장은 이날 “최저임금 결정은 저임금 근로자의 생활 안정과 노동의 가치 보호는 물론 소상공인과 중소기업의 지불 능력과 고용 여건, 우리 경제 전반의 지속 가능성까지 함께 고려해야 하는 매우 중요한 책무”라며 “어느 한 쪽의 입장만으로 완성될 수 없다”고 강조했다. &lt;br&gt;&lt;br&gt;권 위원장은 윤석열 정부 노동 정책의 밑그림을 그렸다는 평가를 받는 ‘미래노동시장연구회’의 좌장이었다. 지난 2023년 ‘주52시간제’를 보완하는 근로시간제 개편을 주도하기도 했다. 당시 개편 핵심은 주 단위 근무 시간을 월·분기·반기·연 단위로 확대해 탄력적 운용이 가능하게 한 것이다. 그러나 노동계는 당시 ‘주69시간’ 노동이 가능해진다며 강하게 반대했고 결국 제도 개편은 무산됐다.&lt;br&gt;&lt;br&gt;이날 민주노총은 권 위원장 선출에 강하게 반발하며 회의장에서 퇴장했다. 이미선 민노총 부위원장은 “권 위원장은 윤석열 정부에서 주 69시간 장시간 노동을 정당화하면서 노동자 삶을 파괴하려 했던 인물”이라고 비판했다.&lt;br&gt;&lt;br&gt;위원회는 첫 회의에서 김영훈 고용노동부 장관이 보낸 ‘2027년 적용 최저임금 심의요청서’를 접수했다. 이들은 앞으로 최저임금 금액 결정뿐 아니라 업종별 구분 적용, 배달 라이더 등 플랫폼·특수 고용 노동자에 대한 최저임금 적용 여부 등을 논의하게 된다. 최저임금위는 노동부 장관으로부터 심의 요청을 받은 날로부터 90일 이내에 최저임금안을 의결해야 한다. 김 장관이 지난달 31일 심의 요청을 했기 때문에 원칙대로라면 6월 말까지 논의가 끝나야 한다. 그러나 법정 시한을 지킨 사례가 1988년 제도 도입 후 9차례에 불과한 만큼 올해도 7월쯤 내년도 최저임금이 결정될 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4ROR2XNRQ5ITBAAVFMY5LTFMHQ.JPG?auth=463f653e494e500a592b82468f9d8b3f3687cecfe1cb4c18639d4c8400ae56ca&amp;smart=true&amp;width=5424&amp;height=3072" type="image/jpeg" height="3072" width="5424">
-        <media:description type="plain">21일 세종시 정부세종청사에서 권순원 신임 최저임금위 위원장이 국민의례를 하고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(세종=뉴스1) 김기남 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>BJ과즙세연 협업에 소비자 반발…화장품 브랜드 측 “깊이 사과”</title>
       <link>https://www.chosun.com/national/national_general/2026/04/21/ASQVNK2WTZH3VEEBZAADJAYFEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/21/ASQVNK2WTZH3VEEBZAADJAYFEY/</guid>
@@ -942,24 +958,6 @@
       <description/>
       <pubDate>Tue, 21 Apr 2026 09:01:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57O5HHRZDJIBRHKJYDAWN7YN2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 경기도 고양시 한 마트 전기차 충전소에서 전기차량이 충전을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 들어 불과 4개월 만에 전기차 신규 등록이 10만대를 넘으면서 국내에 운행 중인 전체 전기차가 100만대를 돌파(누적 기준)했다. 최근 중동 전쟁에 따른 유가 급등 영향 때문이란 분석이 나온다.&lt;br&gt;&lt;br&gt;21일 기후에너지환경부에 따르면, 올해 전기차 신규 등록 대수는 이달 17일 기준으로 10만대를 넘어섰다. 이는 역대 최단을 기록했던 2025년 때보다 약 3개월 앞당겨진 것이다. 실제로 2025년에는 7월, 2024년에는 9월이 되서야 그해 신규 전기차 등록이 각각 10만대를 달성했었다. 특히 올해 신규 등록 전기차는 3월 8만3544대에서, 이달 2만3460대(17일 기준)가 추가 등록됐다. 이에 따라 국내에 등록된 전체 전기차 역시 3월 약 98만대에서 이달 100만4727대로 늘어났다. 기후부는 중동 전쟁에 따른 고유가 상황과 다양한 신차 출시 및 가격 할인 경쟁, 정부의 보급 정책 등을 전기차 인기 요인으로 꼽았다. &lt;br&gt;&lt;br&gt;전기차의 인기가 높아지면서, 전체 신차 중 전기차 비중은 3월 말 기준 20.1%(41만5746대 중 8만3533대)까지 올랐다. 그간 신차 중 전기차 비중은 2025년 13.0%, 2024년 8.9%, 2023년 9.2%, 2022년 9.7% 등 10% 안팎이었다.&lt;br&gt;&lt;br&gt;정부는 최근 추가 경정 예산으로 승용차 2만대, 화물차 9000대분의 전기차 구매 보조금 예산을 추가로 확보했다. 이를 통해 올해 보조금 지급 물량은 승용차 28만대, 화물차 4만5000대, 승합차 3800대가 됐다. 이달 17일 기준 올해 등록된 전기차는 승용차가 9만1373대, 화물차 1만5091대, 승합차 311대다.&lt;br&gt;&lt;br&gt;상반기 전기차 보조금 지급 물량이 동난 지자체도 속출하고 있다. 정부는 전기차 보조금 지급을 위해 추가로 예산을 편성해야 하는 지자체는 일단 국비로 먼저 보조금을 지급할 수 있도록 해 보조금 지원이 재개되도록 할 계획이다. 또 하반기 물량이 남은 지자체는 지급 공고 시기를 앞당기도록 할 방침이다. 공고를 앞당기기로 한 지자체는 승용차 기준 81곳, 화물차 기준 75곳이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“돈 주면 마약범 풀어주겠다” 특사경이 뇌물 요구…검찰, 직접 수사로 밝혀내</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/21/5ALSOAEKOVB4DPH6YBQE3J3IJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/21/5ALSOAEKOVB4DPH6YBQE3J3IJI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Apr 2026 08:41:50 +0000</pubDate>
-      <content:encoded>검찰이 마약 사건을 무마해주는 대가로 1억4500만원 상당의 뇌물을 받은 특별사법경찰관(특사경)을 재판에 넘겼다. 법조계에서는 “검사의 특사경 지휘·감독권이 폐지되면 이 같은 비위를 적발하기 어려워질 수 있다”는 우려가 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4GIZJQMU3TMYJXMFRWINJUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패2부(부장 이상혁)는 특정범죄가중처벌법상 뇌물 등 혐의를 받는 전 서울세관 수사팀장 A(49)씨를 구속 기소했다고 21일 밝혔다. A씨는 관세청 소속 특사경으로, 마약 밀수 사건 등을 수사하던 인물이었다. 특사경은 세무·환경·노동 등 전문 분야 기관에 소속돼 제한적으로 수사를 담당하는 공무원이다. 전국에 약 2만명이 있으며, 수사 과정에서 검사의 지휘를 받는다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 2023년 9월부터 2024년 1월까지 마약 밀수 등 혐의 피의자들에게 “불구속 수사를 해주겠다”거나 “사건을 무마해주겠다”고 제안한 뒤, 약 1억2000만원을 받은 혐의를 받는다. 2024년 5월부터 8월 사이에는 의류 수입업체 운영자들을 상대로 “관세 포탈로 10억원대 세금과 벌금이 부과될 수 있다”고 겁을 준 뒤, 사건을 무마해주는 대가로 약 3000만원을 챙긴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 이와 관련해 각각 코카인 밀수와 합성 대마 매매 혐의로 수사를 받던 자녀의 처벌을 낮춰달라는 청탁과 함께 5000만원과 2000만원을 건넨 B(69)씨와 C(70)씨도 뇌물공여 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 압수수색 과정에서 확보한 자료를 바탕으로 피의자들의 직업과 가족관계, 재산 상황을 파악한 뒤 이를 협박 수단으로 삼은 것으로 조사됐다. 구체적으로 A씨는 “마약 밀수는 중대 범죄라 구속될 일인데 구속을 면하게 해주겠다” “현금을 주면 사건을 아예 종료해주겠다”는 식으로 노골적으로 금품을 요구했다고 한다.&lt;br&gt;&lt;br&gt;관세청은 당초 A씨의 비위 행위를 적발한 뒤 뇌물 요구 혐의로만 검찰에 고발했다. 그러나 사안이 중대하다고 판단한 검찰은 직접 수사에 나섰고, 기존 고발 내용 외에 총 1억4500만원 상당의 뇌물 수수 혐의를 추가로 밝혀냈다. 검찰 관계자는 “계좌 추적을 위해 5차례 영장을 청구하는 등 끈질기게 수사를 이어간 끝에 범행의 전말을 밝혀냈다.”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJTZUX62NVLR5JDAULTPPI25K4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“검사가 특사경 통제 못 하면 비위 적발 어려워져”&lt;/b&gt;&lt;br&gt;&lt;br&gt;더불어민주당 주도로 지난달 20일 국회를 통과한 공소청 신설 법안에는 검사의 특사경에 대한 지휘·감독권을 폐지하는 내용이 담겼다. 오는 10월 검찰청이 폐지되면 특사경을 통제하거나 감독하기 어려워질 거라는 전망이 나온다.&lt;br&gt;&lt;br&gt;검사가 특사경을 지휘·감독할 권한이 사라지면, 특사경이 체포·구속한 피의자를 임의로 석방할 수 있게 된다. 그러면 이번 사건처럼 석방을 대가로 금품을 요구하는 등 강제 수사의 권한을 남용하는 사례가 반복될 거라는 지적이 나온다. 검찰 관계자는 “검사의 특사경 지휘·감독권은 기관별로 분산된 수사 기준을 일정하게 유지하고, 위법하거나 과도한 수사를 통제해 국민 인권을 보호하기 위한 장치로 반드시 필요하다”고 했다.&lt;br&gt;&lt;br&gt;또 특사경이 내사 사건을 자체적으로 종결할 경우 이를 검찰에 보고할 의무가 없다는 점도 문제로 지적된다. 이 때문에 특사경이 비위를 저질러도 사건 자체가 외부에 드러나지 않을 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;이번 사건에서도 A씨는 의류 수입업체 관련 사건을 비교적 경미한 미신고 물품 수입 혐의로 내사하다가, 별건으로 관세 포탈 가능성을 언급하며 피의자들에게 금품을 요구한 것으로 조사됐다. 그러나 내사 결과 보고서에는 미신고 물품 수입 혐의 처리 내용만 담겼고, 관세 포탈 관련 수사 내용은 포함되지 않았다. &lt;br&gt;&lt;br&gt;검찰에 보고되지 않은 채 사건이 자체 종결되면서 초기에는 검찰도 이 사건의 존재를 알지 못했다고 한다. 검찰이 직접 수사에 나선 뒤에야 못했던 것으로 이 같은 비위 정황을 파악하게 된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 관계자는 “이 사건처럼 특사경이 수사 과정에서 무분별하게 별건 혐의를 확장한 뒤 임의로 종결하는 방식으로 수사권을 남용하는 행위는 검사의 지휘권이 없으면 더욱 심해질 것”이라며 “검사의 특사경 지휘·감독권 폐지에 대해 다시 검토할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영선 “윤석열 여론조사 토대로 내가 공천받아” 尹 재판서 녹음 공개</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/21/7Q2OKADN6ZC3LHA75S4SVEXJ3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/21/7Q2OKADN6ZC3LHA75S4SVEXJ3U/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Apr 2026 08:22:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMWGXEIWE5AS3LK3QQ3NP2TJK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영선 전 국민의힘 의원이 지난 1일 오전 서울 서초구 서울중앙지법에서 열린 오세훈 서울시장의 여론조사 대납 의혹 사건 1심 재판에 증인신문을 위해 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영선 전 국민의힘 의원이 ‘정치 브로커’ 명태균씨의 대선 여론조사 덕분에 자신이 공천을 받았다는 사실을 인정하는 정황이 법정에서 공개됐다.&lt;br&gt;&lt;br&gt;21일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 윤석열 전 대통령과 명씨의 정치자금법 위반 혐의 재판에서 특검은 2022년 11월 25일 명씨가 실질적으로 운영했다고 지목된 여론조사 업체 ‘미래한국연구소’ 부소장이었던 강혜경씨와 김 전 의원이 나눈 대화 녹음 파일을 틀었다.&lt;br&gt;&lt;br&gt;녹음 파일에서 김 전 의원은 강씨에게 “윤통(윤석열 대통령) 여론조사 한 거잖아. 윤통이 제일 시혜자인데 그걸 토대로 명태균 본부장이 협상해서 내가 공천받았으니 간접적으로 내가 혜택을 받은 것”이라고 말했다. 특검은 이를 두고 “명씨가 윤 전 대통령 부부를 위해 여론조사를 무상으로 실시하고, 그 대가로 김 전 의원이 공천 혜택을 받았다는 것을 입증하는 대화”라고 주장했다.&lt;br&gt;&lt;br&gt;특검은 공천 개입을 뒷받침하는 증거라며 윤 전 대통령 부부와 명씨의 통화 내용도 공개했다. 법정에서 재생된 녹음 파일에 따르면 6·1 재·보궐선거 공천 발표 하루 전인 2022년 5월 9일, 윤 전 대통령은 명씨에게 “공관위(공천관리위원회)에서 나한테 들고 왔길래 내가 김영선 (공천)해주라 했는데 말이 많네”라며 “(윤)상현이한테 다시 얘기할게, 공관위원장이니까”라고 말했다. 같은 날 김 여사가 명씨에게 “당선인(윤석열)이 전화했는데, 당선인 이름 팔지 말고 하라 했어요. 아무튼 너무 걱정 마, 잘 될 거야”라고 말하는 녹음도 공개됐다.&lt;br&gt;&lt;br&gt;한편, 이날 재판에서 윤 전 대통령은 2021년 9월 무렵 명씨와 연락을 끊었다고 밝혔다. 그는 국민의힘 대선 경선 룰과 관련해 명씨와 이견이 있었다며 “결국 이 양반이 이준석 편이구나, 제가 그때부터는 서로 연락하지 말자고 했다”라고 했다. 이어 김건희 여사가 명씨와 지속적으로 소통한 것을 알았느냐는 재판부의 질문에 윤 전 대통령은 전혀 몰랐다는 취지로 해명했다. 윤 전 대통령은 “(명씨에게) 우리 집사람하고는 하지 말아 달라고 했다. 우리 집사람도 연락했을 텐데, 저하고는 일절 없었다. 제가 굉장히 화를 많이 냈다”라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령과 명씨는 2021년 6월부터 2022년 3월 대선 직전까지 58차례에 걸쳐 2억7450만원 상당의 대선 여론조사를 무상으로 주고받은 혐의(정치자금법 위반)로 기소됐다. 특검은 윤 전 대통령과 김 여사가 명씨와 수시로 연락을 주고받으며 여론조사 진행 경과와 방법을 묻고, 판세를 분석하면서 향후 대응 방안을 논의했다고 보고 있다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사27부(재판장 우인성)는 같은 의혹으로 기소된 김 여사 1심에서 “윤 전 대통령 부부가 여론조사를 지시하거나 의뢰한 게 아니고, 이를 받았다고 해서 재산상 이득을 취득한 것으로 볼 수도 없다”며 정치자금법 위반 혐의에 대해 무죄를 선고했다. 특검이 항소하면서 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>치매 노인 재산 국가가 맡는다 …22일부터 ‘안심재산관리’ 시범 시행</title>
