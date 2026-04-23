@@ -13,6 +13,125 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>헌법소원 30%가 ‘묻지마 청구’… 헌재 “전자접수 제한” 첫 제재</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/24/OYZNXPGDCVDVTNZFD73YAZHKQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/OYZNXPGDCVDVTNZFD73YAZHKQU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:50:00 +0000</pubDate>
+      <content:encoded>헌법재판소가 한 해 수백 건씩 비슷한 취지의 헌법소원을 제기하는 사람에 대해 온라인 접수를 제한한 것으로 23일 확인됐다. 헌재가 헌법소원 접수를 제한한 것은 처음이다. 매년 헌법소원을 남발하는 사람들이 제기한 이른바 ‘묻지 마 사건’이 전체 사건의 30%를 넘는다. 이런 가운데 법원 확정 판결을 취소해 달라는 ‘재판소원’이 지난달부터 시행되면서 헌법소원 남소(濫訴) 가능성이 더 커졌다. 그러자 헌재가 무분별한 남소를 줄여 사건 지연을 막겠다며 전자 접수 제한 조치를 취하고 나온 것이다.&lt;br&gt;&lt;br&gt;헌재는 A씨와 B씨에 대해 각각 작년 12월과 올해 3월 헌법소원 전자 접수 시스템 사용을 3개월간 정지했다. A씨는 “경찰이 불법 체포영장을 발부받아 감금했다”는 취지로 주장하며 작년에만 헌법소원 308건을 냈다. A씨는 체포영장 요건을 규정한 형사소송법이 위헌이라고 주장했다고 한다. 또 자기 형사 사건을 담당한 재판부에 대한 기피 신청이 받아들여지지 않자 법관 기피 제도를 규정한 법 조항이 헌법상 기본권을 침해한다는 취지의 헌법소원을 낸 것으로 알려졌다. 헌재는 A씨가 낸 308건을 모두 각하(却下)했다. 각하는 소송 요건을 갖추지 못한 사건을 심리하지 않고 종료하는 결정이다.&lt;br&gt;&lt;br&gt;B씨는 지난달 12일 재판소원 제도가 시행되기도 전에 자기 형사 재판의 판결과 결정을 취소해 달라는 헌법소원을 냈다. B씨는 재물손괴와 주거침입 혐의 등으로 법원에서 벌금형을 확정받은 후 심급별 판결에 대해 재심을 청구했다고 한다. B씨는 법원에서 기각 결정이 나오면 항고했다. B씨가 올해 1~3월 법원 판결과 재심·항고 기각 결정 등에 대해 헌법소원을 낸 게 312건인데 모두 각하됐다.&lt;br&gt;&lt;br&gt;헌재가 전자 접수를 제한해도 헌재 청사를 방문하거나 우편을 통해 헌법소원을 내는 건 가능하다. A씨는 전자 접수가 제한된 이후에도 우편으로 헌법소원 2건을 냈다. B씨는 전자 접수 제한 조치 이후에 헌법소원을 내지는 않았다고 한다. 헌법소원을 남발하는 사람들에 대해 전자 접수를 제한할 수 있도록 하는 규정은 2022년 9월 마련됐다.&lt;br&gt;&lt;br&gt;헌재는 헌법소원 남소 문제가 심각하다고 본다. 헌재는 한 사람이 연간 50건 이상의 헌법소원을 청구할 경우 남소로 분류해 관리하고 있다. 2022년부터 올해 3월까지 접수된 헌법소원 1만2347건 중 4247건(34.4%)이 헌법소원을 남발한 9명이 낸 사건이었다. 이 중 4221건(99.4%)이 본안 심리에 올라가지도 않고 각하됐다. 남소 사건으로 분류된 사건 중에서 헌재 전원재판부가 판단해 합헌 또는 기각으로 판단한 게 각각 1건, 2건이고 나머지는 심리 중이다. 연도별 헌법소원 남소 사건 비율은 2022년 39.3%, 2023년 35.7%, 2024년 31.6%, 2025년 31.6%, 올해(1~3월) 33.2%로 매년 30%를 넘었다. 헌재 관계자는 “법원 판결에 불복해 내는 재판소원 사건도 늘고 있어 남소 방지를 위한 제재가 필요하다고 판단했다”고 했다. 헌법소원 남소를 그대로 둘 경우 통계가 왜곡돼 실태를 정확히 파악하기 어렵고, 행정력이 낭비될 수도 있다. 헌재는 지난달 ‘헌법소송 남소 방지’ 정책 연구 용역도 발주했다. 헌재 관계자는 “연구 결과에 따라 인지대(소송 수수료) 부과, 과태료 제도 도입 등을 검토할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>값싼 간호·간병 통합병동, 지방 상급병원부터 늘리기로</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/24/RJ7CVEW5CNFRHLNFWZDBO6RZEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/24/RJ7CVEW5CNFRHLNFWZDBO6RZEQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TDEN3DMUYDOZLFMI3DMODGMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 중구의 한 병원에서 간호사들이 환자를 돌보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환자가 병원에 입원했을 때 간호사가 간호뿐 아니라 간병까지 맡는 ‘간호·간병 통합 서비스’ 병동이 늘어날 것으로 보인다. &lt;br&gt;&lt;br&gt;보건복지부는 23일 건강보험정책심의위원회를 열고 ‘간호·간병 통합서비스 확대를 위한 제도 개선 방안’을 의결했다. 모든 환자들이 들어가기 원하지만, 병상이 모자란다는 지적이 많았던 간호·간병 통합 병동을 늘리겠다는 취지다. 통합 병동에 환자들이 몰리는 건 가격은 싸고, 질은 좋기 때문이다. 복지부에 따르면, 일반 병동에 입원하면 입원료(2만2000원)에 사적 간병비(11만원)까지 하루 13만원 정도를 부담해야 하지만, 통합 병동은 입원료만 부담하면 된다. 부담이 5분의 1 수준으로 줄어드는 것이다. 통합 병동 입원 환자가 일반 병동 입원 환자보다 퇴원 후 재입원할 확률이 낮다는 연구 결과도 있다. &lt;br&gt;&lt;br&gt;지금까지는 상급종합병원이 간호·간병 통합서비스 병동을 4개만 운영할 수 있게 제한했다. 통합 병동은 일반 병동에 비해 간호 인력이 더 많이 필요하다. 지방의 군소 병원들은 “통합 병동이 늘어나면 지방의 간호사들과 환자들이 서울의 대형 병원으로 더 몰려갈 것”이라며 반발했고, 정부도 이를 의식해 그동안 통합 병동 확대를 제한해왔다. &lt;br&gt;&lt;br&gt;정부는 이번 규제 폐지로 지방 상급종합병원별 통합 병동이 현재 4개에서 20여개 안팎으로 늘어날 것으로 보고 있다. 병동마다 40개 병상이 들어가기 때문에 600개 넘는 병상이 추가로 생기게 되는 것이다. 2024년 기준 전국 상급종합병원의 간호·간병 통합서비스 병상은 9463개다. &lt;br&gt;&lt;br&gt;중증 환자를 집중적으로 돌보는 ‘중증환자 전담 병실’도 확대된다. 이 전담 병상은 일반 병상에 비해 수가(정부가 병원에 주는 돈)가 높지만 요건이 엄격해 이를 운영하는 병원은 9곳 뿐이었다. 그마저도 비수도권엔 없었다. 복지부는 요건 완화를 통해 비수도권 128개 병원에 중환자 전담 병실을 운영할 수 있게 됐다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G5TDEN3DMUYDOZLFMI3DMODGMI.jpg?auth=d20c95b623ff5ff75dbccc47cf4eaa4ccdd8be856aff392295a0a295c41ebc8e&amp;smart=true&amp;width=4956&amp;height=3000" type="image/jpeg" height="3000" width="4956">
+        <media:description type="plain">대전 중구의 한 병원에서 간호사들이 환자를 돌보고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(대전=뉴스1) 김기태 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[굿모닝 멤버십] 스마트폰 다음은 로봇, 피지컬 AI 시대를 여는 기업은</title>
+      <link>https://www.chosun.com/national/2026/04/24/VSXYEWFJ7RBALEWUYFY3FEXJDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/24/VSXYEWFJ7RBALEWUYFY3FEXJDM/</guid>
+      <dc:creator>조선일보 멤버십</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 18:00:00 +0000</pubDate>
+      <content:encoded>📅 4월 24일 금요일 아침입니다. 1990년 오늘, ‘인류의 눈’이라 불리는 허블 우주 망원경이 디스커버리호에 실려 우주로 발사되었습니다. 지상 망원경으로는 대기의 간섭 때문에 볼 수 없었던 먼 우주의 신비가 허블을 통해 비로소 우리 눈앞에 펼쳐졌죠. 허블은 역사상 가장 상세한 가시광선 영상을 촬영함으로써, 인류에게 멀기만 했던 우주의 모습을 생생하게 알려주었습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFBVJZUDXBEDLPUZS6DHZZC7FE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;허블 망원경에 관측된 인공위성 궤적./NASA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허블 망원경이 대기권 밖에서 지구의 한계를 넘어 우주를 포착했듯, 눈으로 보이는 것 너머 세상의 본질을 들여다보는 ‘안목의 렌즈’가 필요합니다. 우주 어딘가에 있는 미지의 존재처럼 오늘 준비한 기사들이 회원님께 새로운 시야를 열어주길 바랍니다. &lt;br&gt;&lt;br&gt;🏛️ 셰익스피어의 맥베스 부인이나 영화 속 잭 니컬슨이 보여준 기괴한 반복 행동은 오랫동안 ‘영혼의 병’이나 ‘나쁜 양육’의 결과로 오해받으며, 환자들에게 깊은 수치심을 안겨주었습니다. 지난달 타계한 주디스 라포포트 박사는 강박장애(OCD)가 도덕적 결함이 아닌 뇌 회로의 신경학적 오류임을 과학적으로 증명하며 정신의학의 패러다임을 바꾼 인물입니다. 뇌 과학을 통해 ‘괴짜’들의 행동에 질병이라는 이름을 붙여주고 인간적인 이해의 길을 열어주었죠. 강박장애로 자책하던 수많은 영혼을 구원한 그녀의 치열했던 연구 여정을 기사에서 확인해 보세요.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/science/2026/04/24/SCVJZLBSONG5NGQF3OBOB443G4/" target="_self" rel="" title="https://www.chosun.com/economy/science/2026/04/24/SCVJZLBSONG5NGQF3OBOB443G4/"&gt;잭 니컬슨과 레이디 맥베스…그 닮은 꼴의 비밀을 파헤친 의사&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKPCPPHIJNATTNJBO233AJQA7M.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🤖 인류의 경제 패권이 스마트폰을 넘어 로봇 몸체에 인공지능을 입힌 ‘피지컬 AI’로 급격히 이동하고 있습니다. 도로 위 ‘실전 데이터’를 싹쓸이한 테슬라, 가상 세계에서 무한 훈련을 마친 엔비디아가 정면으로 붙었습니다. 일론 머스크는 자동차를 넘어 ‘두 발 달린 로봇’에 사활을 건 가운데, 과연 누가 먼저 거실까지 들어올 ‘1가구 1로봇’ 시대를 선점하게 될까요? 로봇 전쟁의 승패를 가를 결정적 변수를 알려드립니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/money/2026/04/24/V7MPXJXE7JGRJA2ANAAGYKPCMQ/" target="_self" rel="" title="https://www.chosun.com/economy/money/2026/04/24/V7MPXJXE7JGRJA2ANAAGYKPCMQ/"&gt;바퀴 달린 컴퓨터에서 두 발 달린 AI로…테슬라가 ‘자동차’를 버린 이유&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6JCHGQPZFAWBJGFOJOKURCIWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🎖️ 한국군 현대화의 상징인 2군단 재창설식 현장, 미 8군 사령관 제임스 밴 플리트 장군은 평소보다 무거운 표정으로 단상에 섰습니다. 행사 직후 그가 동료들에게 털어놓은 소식은 충격적이었습니다. 바로 전날, 아들 밴 플리트 2세 중위가 작전 중 실종됐다는 비보를 접했던 것입니다. 자식을 잃은 슬픔에도 그는 강한 한국군을 만드는 일을 멈추지 않았습니다. 오히려 한국군 장교들의 유학을 돕고 육군사관학교를 설립하기도 했죠. 아들을 묻은 땅을 제2의 고향으로 삼아 ‘필승의 의지’를 가르쳤던 밴 플리트 사령관의 헌신을 기사에서 만나보세요.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/international/china/2026/04/24/KGHCGZOHVZA6XOGXZBGSQB2DPA/" target="_self" rel="" title="https://www.chosun.com/international/china/2026/04/24/KGHCGZOHVZA6XOGXZBGSQB2DPA/"&gt;아들의 실종 소식 앞에서도 “의지”를 말하다…밴 플리트 장군의 위대한 침묵&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YK7CQ5EYVAL5ALUSZWRKJVXXA.png"&gt;&lt;figcaption&gt;&lt;small&gt;1952년 4월5일 한국군 2군단 재창설식이 끝난 뒤 아들의 실종소식을 알리는 밴 플리트 미 8군 사령관(오른쪽 둘째) 모습. 오른쪽으로부터 시계방향으로 와이만 미 9군단장, 오다니엘 미 2군단장, 파머 10군단장, 백선엽 한국군 2군단장. /백선엽 장군 기념재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://members.chosun.com/membership/join/index.html" target="_self" rel="" title="https://members.chosun.com/membership/join/index.html"&gt;&lt;b&gt;조선멤버십 회원이 되시려면 여기 누르세요.&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
+    </item>
+    <item>
+      <title>웨이터 없는 식당의 안내문 ‘Bus your table’ </title>
+      <link>https://www.chosun.com/national/education/2026/04/24/NBOS73XSJ5AUNEC5YCBDKWWAXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/24/NBOS73XSJ5AUNEC5YCBDKWWAXM/</guid>
+      <dc:creator>윤희영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 18:00:00 +0000</pubDate>
+      <content:encoded>캐주얼한 셀프 서비스 식당이나 패스트푸드점의 벽에는 “Please bus your table”이라는 안내문이 붙어 있습니다. ‘bus’라는 단어 뜻을 제대로 모르면 “우리가 타고 온 버스를 어찌 하라고 하는 건가? 다 먹었으면 버스 타러 가라는 건가?” 해서 어리둥절한 표정을 짓게 됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVATXCI2OVFIZH4IRTMNFVGWNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여기서 ‘bus’는 대중교통 버스가 아니라 “다 먹은 그릇을 치우다”라는 뜻의 동사입니다. “다 드신 후 쟁반과 그릇을 직접 치워주세요”라는 정중한 요청이지요.&lt;br&gt;&lt;br&gt;레스토랑에서 빈 그릇을 치우고 테이블을 정리하는 직원을 busboy 또는 busser라고 합니다.&lt;br&gt;&lt;br&gt;캐주얼한 식당이나 셀프 서비스가 기본인 카페에서는 손님이 직접 그릇을 치우게 돼 있는데, 그런 경우 안내문에 동사 bus를 사용하죠. 인건비 절감과 효율성을 위해 ‘Bus station(식기 반납대)’ 또는 ‘Tray return(쟁반 반납대)’을 두고 있는 경우가 많습니다. 그러니까 “Please bus your table”이라는 안내문이 보이면 빈 그릇 담은 쟁반을 들고 그곳에 가져다주면 됩니다.&lt;br&gt;&lt;br&gt;그릇을 치우는 것 외에도 손님이 직접 이용해야 하는 ‘&lt;mark class="hl_yellow"&gt;셀프 서비스&lt;/mark&gt;’를 self-serve라고 표현합니다. “self”라고만 하면 못 알아들을 수 있습니다.&lt;br&gt;&lt;br&gt;“The water station is self-serve.” (물은 셀프로 가져다 드시면 됩니다.)&lt;br&gt;&lt;br&gt;‘Please bus your table’이라는 문구가 보이면 식사 후 뒷정리를 직접 하는 것이 기본 매너인 곳입니다. 보통 퇴식구 근처에 ‘Bus station’, ‘Tray return’ 또는 ‘Dish return’이라고 적힌 선반이 있습니다. 쓰레기통과 식기 반납 공간이 나뉘어 있는 곳도 많고, 나라마다 분리수거 방식이 다를 수 있으니 앞사람이 하는 것을 따라 하거나 직원에게 도움을 요청하면 됩니다. 손님이 직접 테이블 정리를 하고 빈 그릇 쟁반을 퇴식구에 갖다 주면 직원들은 “Thanks for bussing!” 하며 감사 표시를 합니다.&lt;br&gt;&lt;br&gt;“Where do I take the trays?” (식기 반납 어디로 하면 되나요?)&lt;br&gt;&lt;br&gt;“Where is the tray return?” (식기 반납하는 곳이 어디 있나요?)&lt;br&gt;&lt;br&gt;“Do I need to sort the trash before busing?” (치우기 전에 분리수거를 해야 하나요?)&lt;br&gt;&lt;br&gt;“Where is the trash bin for leftovers?” (남은 음식 버리는 쓰레기통은 어디 있나요?)&lt;br&gt;&lt;br&gt;“Where should I leave my tray?” (쟁반을 어디에 두면 되나요?)&lt;br&gt;&lt;br&gt;“We’re done here. Is it okay to leave the tray?” (다 먹었는데, 쟁반 여기 그냥 두면 될까요?)&lt;br&gt;&lt;br&gt;“Is it okay to leave the leftovers here?” (남은 음식 여기 두면 될까요?)&lt;br&gt;&lt;br&gt;“Could you take these plates when you get a chance?” (시간 되실 때 이 그릇들 좀 치워주실 수 있나요?)&lt;br&gt;&lt;br&gt;“Let me help you bus those dishes.” (그릇 치우는 거 도와드릴게요.)&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KZW55S7GJNA2DKQQS3LGIWOF5Q.png?auth=bd907ae3545f321f10f0e80b0beab67a42ecc44837bcf9b7fa0a6d8e5482c727&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
+        <media:description type="plain">/Gemini</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘말차’의 모든 것…  보성에서 만나요</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/04/24/6LOWGLFPAFDL7FSMS64RJ3SCB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/04/24/6LOWGLFPAFDL7FSMS64RJ3SCB4/</guid>
+      <dc:creator>보성=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:47:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIHWFACM5ZFYPMWG42P2OHM5TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 보성군은 5월 1일부터 5일간 한국차문화공원에서 ‘제49회 보성다향대축제’를 연다고 23일 밝혔다. 올해 축제는 ‘보성말차! 젊음을 담다! 세계를 담다’를 주제로 열린다. 이번 축제는 참여형 행사를 대폭 강화했다. 말차 브랜드관을 통해 현대적 감각의 음료와 디저트를 선보이고, 야간에는 천체 관측 프로그램 등을 운영해 MZ 세대와 외국인 관광객 공략에 나선다는 전략이다. &lt;br&gt;&lt;br&gt;보성에선 축제를 앞두고 햇차 수확이 본격적으로 시작됐다. 지난 20일, 24절기 중 여섯 번째인 ‘곡우(穀雨)’를 맞은 차밭에선 어린 찻잎을 따느라 농민들의 손이 분주했다. 보성군 관계자는 “올해는 적절히 단비가 내렸고 냉해 피해도 없어 찻잎의 품질이 아주 좋다”고 했다. 녹차 중 최고급으로 꼽히는 ‘우전(雨前)차’는 곡우에 수확한 찻잎을 주로 쓰는데, 이 역시 올해 품질이 특히 우수할 것으로 기대된다.&lt;br&gt;&lt;br&gt;보성군은 최근 음료, 제과·제빵, 건강식품 등 다양한 산업에 활용되는 말차를 주력으로 녹차 시장을 확장한다는 전략을 세웠다. 보성군 관계자는 “이번 축제에선 녹차의 전통을 계승하는 것을 넘어 세계와 소통할 수 있는 말차 산업 부흥기를 열고자 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>분만 등 필수 의료, 중대 과실 없으면 형사 처벌 안 받아</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/04/24/OE4HWPIJ4ZA2VPGYTPKPS6ARII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/24/OE4HWPIJ4ZA2VPGYTPKPS6ARII/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:50:00 +0000</pubDate>
+      <content:encoded>생명과 직결된 필수 의료 분야에서 의료 사고가 발생했더라도 ‘중대한 과실’이 없는 경우, 의료진은 형사처벌을 받지 않게 된다. 의사들이 고위험 수술 등이 많은 필수 진료 분야 전공을 기피하는 현상이 심해지자 나온 대책이다. &lt;br&gt;&lt;br&gt;국회는 23일 본회의에서 이 같은 내용의 ‘의료 분쟁 조정법’을 통과시켰다. 내년 5월부터 시행되는 이 법은 중증·소아·응급·분만·외상 등 고위험 필수 의료 분야 사고를 형사 재판에 넘기지 못하게 한 게 핵심이다. 대신 의료진 소속 병원이 책임 보험에 가입돼 있어야 하고, 손해를 전액 배상해야 한다. 또 사전에 의료 행위의 위험성 등에 대해 제대로 설명을 했어야 한다. 설사 이 조건이 충족되지 않아 형사 재판에 넘겨졌더라도 재판부가 사고 당시 상황 등을 고려해 임의로 형을 감면할 수 있는 내용도 이 법안에 담겼다. &lt;br&gt;&lt;br&gt;또 필수 의료 분야가 아니라도 의료진이 형사 책임을 벗어날 수 있는 범위를 넓혔다. 그동안은 ‘경상’인 경우 환자가 ‘처벌을 원하지 않는다’고 해야만 수사기관이 의료진을 기소할 수 없었는데, 앞으로는 경상이 아닌 ‘상해’에도 이 원칙이 적용된다. &lt;br&gt;&lt;br&gt;중대한 과실이 인정되는 경우는 12가지로 명시했다. 설명 내용과 다른 수술이나 수술 부위 착오 등이다. 그러나 의료계에선 “중대한 과실을 규정한 기준이 여전히 모호하고 자칫 확대 해석될 소지가 있다”며 반발하고 있다. ‘환자 생명·신체에 중대 영향을 미칠 위험이 있는 의료 행위’, ‘기본적 안전 관리 의무’ 등이 대표적이다. &lt;br&gt;&lt;br&gt;이와 함께 일명 ‘공공 의대’로 불렸던 ‘국립의학전문대학원(국립의전원) 설치법’도 이날 국회 본회의를 통과했다. 국립의전원은 설립 준비 작업 등을 거쳐 2030년 문을 열 것으로 보인다. 정원 100명의 4년제 의학전문대학원 형태로, 학생에게는 학비 등 교육비가 지원된다. 졸업 후 의사 면허를 취득하면 복지부 장관이 지정하는 의료 기관에서 15년간 의무 복무해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성웰스토리 ‘급식 몰아주기’… 법원, 2349억원 과징금 취소</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/24/HV4BIHK2S5AU5G2ER7LMI3GOSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/HV4BIHK2S5AU5G2ER7LMI3GOSY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:50:00 +0000</pubDate>
+      <content:encoded>서울고법 행정3부(재판장 윤강열)는 23일 삼성그룹 계열사들이 사내 급식을 삼성웰스토리에 몰아줬다는 이유로 공정거래위원회가 부과한 2000억원대 과징금을 취소하라고 판결했다.&lt;br&gt;&lt;br&gt;공정위는 삼성전자 등 계열사 4곳이 2013년부터 사내 급식을 웰스토리에 맡기고 식재료비 마진 보장 등 유리한 조건으로 계약했다며 2021년 8월 2349억원대 과징금 처분을 내렸다. 공정위는 삼성 미래전략실이 이른바 ‘에버랜드 운영회의’를 통해 수의계약을 지시했고 웰스토리 수익이 삼성물산을 거쳐 그룹 승계 재원으로 흘러들어 갔다고 봤다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “웰스토리에 과다한 경제상 이익을 제공했다거나 부당 지원이라고 볼 수 없다”고 판단했다. 미전실 운영회의에 대해서도 “마진을 최소로 줄이는 방안 등 웰스토리 이익 보전과 무관한 내용이 상당 부분 기재돼 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>꽃향기 따라 철쭉 동산으로</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/24/CW4PGBQYPFFFXJWWIWKKCUUFH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/CW4PGBQYPFFFXJWWIWKKCUUFH4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TVH5PWZBVEFDJO55JQXPXZN2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장련성 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 경기 군포시 철쭉동산에서 ‘2026 군포철쭉축제’가 열리고 있다. 시민들이 산책로를 따라 걸으며 활짝 핀 철쭉을 감상하고 있다. 축제는 오는 26일까지 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린이날엔 서울로… 아이와 추억 만드세요</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/24/5GNRACVTFJD5FNNROJ6XSGAUX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/5GNRACVTFJD5FNNROJ6XSGAUX4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:49:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZPQ37OP6FBRTMMD2U6BZ43O2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 잠원한강공원에 있는 ‘여기저기 서울형 키즈카페’의 모습. /서울시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 어린이날을 맞아 5월 1일부터 7일까지 일주일간 서울 전역에서 ‘키즈위크’ 행사를 연다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;어린이날인 5월 5일에는 서울 시내 ‘서울형 키즈카페’ 110여 곳이 모두 문을 연다. 이 중 60여 곳은 무료로 개방한다. 시설별로 마술 공연이나 악기 체험 등 어린이날 특별 프로그램을 선보이기도 한다. 서울시 관계자는 “우리동네키움포털 홈페이지에서 무료 이용이 가능한지, 어떤 프로그램이 열리는지 확인할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;한강공원 등 야외 공간에 주말마다 문을 여는 ‘여기저기 서울형 키즈카페’ 11곳은 5월 2~3일 무료로 이용할 수 있다. 이 중 북서울꿈의숲과 여의도한강공원·반포한강공원, 서울식물원 등 4곳에 설치되는 여기저기 키즈카페는 어린이날까지 무료로 문을 연다. &lt;br&gt;&lt;br&gt;민간 키즈카페 이용자는 24일 오전 10시 발행되는 ‘서울형 키즈카페머니’를 구입해두면 좋다. 서울 민간 인증 키즈카페 62곳에서 쓸 수 있고, 20% 할인 효과가 있다. 1인당 월 20만원까지 구매할 수 있다.&lt;br&gt;&lt;br&gt;키즈위크가 열리는 5월 1일 서울숲 숲속놀이터에는 ‘초록초록 서울형 키즈카페’도 새롭게 문을 연다. 같은 날 서울숲에서 개막하는 ‘서울국제정원박람회’도 관람할 수 있다. 마채숙 서울시 여성가족실장은 “어린이날 연휴를 맞아 아이들이 서울 곳곳에서 마음껏 뛰어놀며 즐거운 추억을 쌓을 수 있기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“금정산 국립공원  마스코트 됐어요”</title>
+      <link>https://www.chosun.com/national/regional/2026/04/24/LK7OBR6FIRHDDEXN2S4OM66G7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/24/LK7OBR6FIRHDDEXN2S4OM66G7E/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:48:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4N3GWVHND5FZBJH3PMXOE45SC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가는동자꽃(왼쪽)·고리도롱뇽(오른쪽)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 첫 ‘도심형 국립공원’인 금정산의 깃대종으로 ‘가는동자꽃’과 ‘고리도롱뇽’이 선정됐다고 금정산국립공원사무소가 23일 밝혔다. 깃대종은 특정 지역의 생태, 지리, 문화적 특성을 보여주는 상징적인 야생 동·식물로, 국립공원의 ‘마스코트’와 같다. 모든 국립공원이 동·식물 각 1종씩을 깃대종으로 선정한다. 예를 들어 지리산은 반달가슴곰(동물)과 히어리(식물)가 깃대종이다.&lt;br&gt;&lt;br&gt;산 습지에 사는 가는동자꽃은 한국과 일본에만 분포하는 ‘멸종위기야생생물 2급’ 희귀종이다. 국내에선 금정산에서만 산다. 7~8월 붉은색 꽃을 피운다.&lt;br&gt;&lt;br&gt;한국 고유종인 고리도롱뇽은 금정산을 비롯해 부산과 양산 등 경상권 동남부 지역에서 발견된다. 수질을 확인할 수 있는 환경 지표종 역할도 한다.&lt;br&gt;&lt;br&gt;금정산에는 가는동자꽃과 고리도롱뇽뿐 아니라 수달과 삵, 삼백초 등 야생생물 1782종이 서식하고 있다. 금정산국립공원사무소는 지난달 전문가와 지방자치단체, 지역 주민, 환경단체 등으로 구성된 깃대종 선정위원회를 꾸려 깃대종을 뽑았다. 사무소 관계자는 “올 상반기 깃대종으로 마스코트 모형을 만들어 공개할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현대차 있는 울산 북구, 전·현직 구청장 세번째 맞대결</title>
+      <link>https://www.chosun.com/politics/election2026/2026/04/24/GO4BF2BFVFEBDLB5UJCDLBXQJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/04/24/GO4BF2BFVFEBDLB5UJCDLBXQJ4/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:48:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5CTXB6NI5EGHH45JRAFAQJSP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 울산 북구청장 선거에서는 전현직 구청장이 세 번째 대결을 펼친다. 더불어민주당 소속의 이동권(69) 전 구청장과 국민의힘 박천동(60) 현 구청장이다. 민주당에서는 이 전 청장이 “고지를 탈환하겠다”며 벼르고 있고, 국민의힘 박 청장은 현역 프리미엄을 앞세워 수성에 나섰다. 진보당 이은영(60) 전 울산시의원도 지난 1월 출마를 선언했다.&lt;br&gt;&lt;br&gt;2018년 지방선거에서는 이 전 구청장이 45.55%를 얻어 당시 재선을 노리던 자유한국당 소속 박 구청장(32.54%)을 13.01%포인트 차로 이겼다. 2022년 지방선거에서는 박 구청장이 50.60%를 얻어 현직이던 이 전 구청장(40.02%)을 눌렀다. 이번 선거에서 박 구청장이 승리하면 첫 3선 북구청장이 된다.&lt;br&gt;&lt;br&gt;울산 북구는 평균 연령이 41.3세로 울산에서 가장 젊은 구다. 또 현대자동차 울산 공장과 협력업체, 중소기업이 밀집해 진보 성향 유권자가 많은 지역으로 꼽힌다. 21대 대선 때는 민주당 이재명 후보가 48.63%를 얻어 국민의힘 김문수 후보 40.63%를 8%포인트 차로 이겼다. 윤석열 전 대통령이 당선된 20대 대선 때도 영남권에서 유일하게 이재명 후보가 윤 대통령을 이긴 곳이 울산 북구다.&lt;br&gt;&lt;br&gt;울산 북구는 역대 구청장 선거에서 한 정당이 연속으로 구청장을 배출한 적이 없다. 민선 2기엔 무소속 조승수 구청장이 당선됐고 3기 민주노동당 이상범, 4기 한나라당 강석구, 5기 민주노동당 윤종오, 6기 새누리당 박천동, 7기 민주당 이동권, 8기엔 국민의힘 박천동 구청장이 당선됐다. &lt;br&gt;&lt;br&gt;선거 전문가들은 민주당과 진보당의 후보 단일화가 이뤄질지 주목한다. 민주당과 진보당은 단일화의 필요성에 공감하고 있다. 다만 진보당이 울산시장과 울산 지역 5개 구·군 기초단체장 선거에 모두 후보를 내면서 단일화 셈법이 복잡해졌다. 진보당은 “단체장은 물론 광역의원까지 포함해 후보 단일화를 논의해야 한다”는 입장인 반면, 민주당은 “단체장 선거 정도까지 단일화를 하고 광역의원 후보 단일화는 필요에 따라 하겠다”는 입장이다. 도수관 울산대 행정학과 교수는 “현 정부 지지율이 민주당에 유리하게 작용할 수 있다”면서도 “진보 진영 후보 간 단일화가 이뤄지지 않을 경우 현역 구청장에게 유리한 구도가 형성될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 청남대 영춘제서  봄꽃 나들이 어떠세요</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/04/24/53TNEEYIWJAE3PKRHVHNA675FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/04/24/53TNEEYIWJAE3PKRHVHNA675FM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Apr 2026 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K35NP5CLIREQJH4OOQ5BJFFCXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 충북 청남대에서 열린 영춘제 현장.
+관광객들이 산책로를 따라 걸으며 봄꽃을
+감상하고 있다. /충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북도 청남대관리사업소는 오는 24일부터 내달 6일까지 청남대에서 ‘2026 청남대 봄꽃축제, 영춘제’를 개최한다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;청남대는 ‘따뜻한 남쪽의 청와대’라는 뜻으로, 1983년부터 20년간 대한민국 대통령의 공식 별장으로 사용됐다. 2003년 민간에 전면 개방됐다. 현재는 매년 많은 관광객이 찾는 충북의 핵심 관광지로 자리 잡았다. &lt;br&gt;&lt;br&gt;축제 기간 청남대 전체가 거대한 꽃밭이 된다. 산책로 곳곳에는 청남대 측에서 직접 재배한 팬지, 비올라, 제라늄, 데이지, 마가렛 등 3만5000여 본의 초화류를 심었다. 헬기장과 청남대기념관 주변에선 충북야생화연구회가 마련한 희귀 분재 등을 구경할 수 있다. 청남대 관계자는 “패션쇼, 마술, 밴드 공연, 사진전 등 전 세대가 즐길 수 있는 행사도 열 것”이라고 했다. &lt;br&gt;&lt;br&gt;특히 올해 영춘제에선 지난 3월 정식 개통한 모노레일을 즐길 수 있다. 청남대 옛 장비 창고에서 제1전망대까지 약 330m 구간을 오간다. 노인이나 어린이도 쉽게 전망대에 올라 청남대와 대청호, 꽃 축제를 한눈에 감상할 수 있다. 강혜경 청남대관리사업소장은 “방문객들이 대통령의 정원에서 봄의 정취를 만끽할 수 있도록 철저히 준비하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원 “홍명보·클린스만 대표팀 감독 선임 부적절”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/24/MAGZFV2ZSNEQ3EQFX73LCLJDAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/MAGZFV2ZSNEQ3EQFX73LCLJDAM/</guid>
@@ -699,34 +818,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3GMY3DMYYDGNJTMVTGENTCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태안해양경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서해바다에서 불법 조업을 하던 중국 어선이 해경에 붙잡혔다.&lt;br&gt;&lt;br&gt;태안해양경찰서는 불법 조업 혐의로 중국 어선 A호(100t급·승선원 15명) 1척을 나포해 조사하고 있다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A호는 지난 22일 오후 1시 16분쯤 충남 태안군 서격렬비열도 남서방 80㎞ 해상에서 해상 경비 중인 해경에 의해 적발됐다.&lt;br&gt;&lt;br&gt;해경은 A호가 어업협정선을 1.5해리(2.4㎞) 침범해 우리 측 배타적 경제수역에서 불법 조업한 것을 확인해 추격에 나서 나포했다. A호와 승선원들은 신진항으로 압송됐다.&lt;br&gt;&lt;br&gt;해경 관계자는 “승선원들을 경제수역어업주권법 위반 등 혐의로 입건한 상태”라며 “승선원들을 상대로 자세한 경위를 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>팔팔이냐 골골이냐… 두 걸음 보면 남은 인생 보인다</title>
-      <link>https://www.chosun.com/medical/2026/04/23/3FHCFGB5ERHBPNFGKL676CE5Q4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/23/3FHCFGB5ERHBPNFGKL676CE5Q4/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPMOVPU35JAMVIAAH4WNM76DSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“두 걸음에 당신의 남은 인생이 달려 있습니다.”&lt;br&gt;&lt;br&gt;고령사회에서 신체 기능 평가는 단순한 건강 체크를 넘어, 향후 삶의 질과 자립성 유지 여부를 예측하는 핵심 지표다. 특히 보행 능력은 노화 진행 정도를 가장 직관적으로 반영한다. 이러한 흐름 속에서 두 걸음 보폭을 재는 ‘투 스텝(two-step) 테스트’가 전 세계적으로 운동 기능과 노쇠를 예측하는 지표로 활발히 쓰이고 있다.&lt;br&gt;&lt;br&gt;투 스텝 테스트는 일본 정형외과학계를 중심으로 개발된 운동 기능 평가법이다. 최대 보폭으로 두 걸음을 내디뎠을 때 이동한 거리를 키(㎝)로 나눈 값이다. 이 검사법이 주목받는 이유는 복잡한 장비 없이도 신체 기능을 정량화할 수 있고, 초기 단계의 운동 기능 저하를 민감하게 포착하기 때문이다. 이에 지역사회 건강관리 프로그램에 널리 활용되고 있다.&lt;br&gt;&lt;br&gt; 투 스텝 테스트는 하체 근력 정도를 잘 반영한다. 보폭을 크게 내디디려면 대퇴사두근과 둔근의 충분한 힘이 필요하기 때문이다. 보행은 단순 반복 동작이 아니라 중추신경계와 말초신경계의 정교한 협력 결과다. 큰 보폭을 유지하려면 체중 이동 과정에서 균형 유지 능력이 필수적이다. 고관절과 무릎 관절의 유연성이 제한되면 보폭이 줄어들기에 테스트로 관절 가동성도 평가된다. 결국 투 스텝 테스트는 ‘보행 기능의 종합 점수’이기에 두 걸음만 보면 남은 인생 폭이 보인다고 할 수 있다.&lt;br&gt;&lt;br&gt;측정 과정은 간단하지만 표준화된 절차를 따라야 한다&amp;lt;그래픽 참조&amp;gt;. 측정 값이 1.3 이상이면 정상 범위다. 1.1 이상 ~ 1.3 미만이면 운동 기능 저하 초기 단계다. 1.1 미만이면 이동 기능 저하가 꽤 진행된 상태다. 이 수준에서는 낙상 위험, 이동 능력 저하, 향후 요양원 입소 기능성과 밀접하게 연관된다. &lt;br&gt;&lt;br&gt;질병으로 투 스텝 점수가 낮은 경우가 있다. 첫째는 근감소증이다. 노화에 따른 근육량 감소는 보폭 감소의 가장 직접적인 원인이다. 무릎 및 고관절 퇴행성 관절염으로 통증이 있으면, 보폭을 의도적으로 줄인다. 파킨슨병, 말초신경병증 등은 보행 패턴 자체를 변화시켜 투 스텝 점수가 매우 낮다. 장시간 좌식 생활은 근력과 균형 능력을 동시에 저하시킨다. 낙상 경험이 있는 고령자는 낙상 이후 심리적 불안으로 보폭을 줄이는 경향이 있다.&lt;br&gt;&lt;br&gt; 투 스텝 테스트로 낙상 위험을 예측하고, 노쇠 진행 속도를 모니터링할 수 있다. 특히 기존의 보행 속도 검사보다 초기 변화에 민감하다는 점에서 조기 개입 기준으로 활용 가치가 높다.&lt;br&gt;&lt;br&gt; 투 스텝 거리를 늘리려면 하체 근력 강화 운동이 필수다. 고령자에게는 의자에서 앉았다 일어나는 ‘체어 스쿼트’가 권장된다. 의자에 앉았다가 팔을 사용하지 않고 일어나는 운동을 매일 10~15회, 2~3세트 반복하는 것이 좋다. 이 운동으로 보폭 확대 추진력이 커진다.&lt;br&gt;&lt;br&gt;균형 능력 강화 운동도 필요하다. 한 발 서기 운동이 대표적이다. 한 발로 서서 10~30초 유지하는 방법이다. 힘이 부칠 때는 벽이나 의자를 잡고 하는 것도 괜찮다. 균형 능력이 좋아지면 보폭을 넓히는 데 심리적 안정성을 제공한다. 평소 걸을 때 보폭을 의도적으로 늘리며 걷는 훈련도 효과적이다. 기존보다 10~20% 보폭을 늘려 걷는 게 좋다. &lt;br&gt;&lt;br&gt; 김헌경(전 도쿄건강장수의료센터 연구부장) 차의과학대 통합의학대학원 겸임교수는 “일본에서는 지역사회 차원에서 투 스텝 테스트로 노쇠 가능성이 있는 사람을 찾아내 노쇠 예방 운동을 실시한다”며 “하체 운동과 함께 충분한 단백질 섭취, 비타민 D 보충, 수면 질 개선, 당뇨, 고혈압 등 만성질환 관리가 이뤄져야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3ASTK7W6CNC57NGGWCKHA4N4UM.png?auth=ef19b1898a130a426e47aa04e7b31fe79eb8a45463ac03979b370df4f085f73f&amp;smart=true&amp;width=1600&amp;height=900" type="image/png" height="900" width="1600"/>
-    </item>
-    <item>
-      <title>[플라자] 울산과학기술원 수리과학과 성락경 교수, 백천물리학상 수상</title>
-      <link>https://www.chosun.com/national/people/2026/04/23/CZWL6HDTBBBBLKRO36Q26FBNSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/23/CZWL6HDTBBBBLKRO36Q26FBNSM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;울산과학기술원&lt;/b&gt;(UNIST)은 수리과학과 성락경 교수가 한국물리학회가 수여하는 ’2026년 백천물리학상’을 받았다고 22일 밝혔다. 백천물리학상은 한국물리학회가 입자물리학이론 분야의 젊고 뛰어난 물리학자에게 주는 상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢·공수처 ‘핑퐁’ 2년 하다가 13억원 뇌물 사건 처벌 놓쳐</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/23/CDQWJEVVJNG7FJIZAOFW2AUFT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/23/CDQWJEVVJNG7FJIZAOFW2AUFT4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4GKZRXGVRDGMRSG42TGMLFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안동건 서울중앙지검 제1차장검사가 22일 서초구 서울고등검찰청 브리핑룸에서 감사원 고위공무원 뇌물수수 사건 처분 관련 브리핑을 하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 고위공직자범죄수사처(공수처)가 감사원 간부의 15억원대 뇌물 사건을 2년 5개월 동안 서로 미루다가 결국 일부 혐의에 대해서만 기소했다. 공수처가 수사한 사건을 검찰이 보완 수사하거나, 공수처에 보완 수사를 요구할 수 있는 권한이 법에 규정돼 있지 않아 이런 일이 벌어졌다. &lt;br&gt;&lt;br&gt;서울중앙지검 형사5부(부장 정재신)는 22일 감사원 간부(3급) 출신 김모(54)씨를 2억9000만원 상당의 뇌물을 받은 혐의 등으로 불구속 기소했다고 밝혔다. 애초 검찰은 김씨가 뇌물을 총 15억8000만원 받은 정황을 포착했지만 이 중 12억9000만원에 대해선 증거 부족 등을 이유로 기소하지 못했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 김씨는 전기 공사 업체를 다른 사람 이름으로 운영하면서, 감사원 감사 대상인 건설사들을 압박해 일감을 따낸 혐의를 받는다. 건설사들이 공사를 안 주면 감사 과정에서 벌점을 부과하거나 입찰을 제한하겠다고 압박했다고 한다. 김씨는 이런 수법으로 건설사 등에서 19차례에 걸쳐 일감을 총 15억8000만원어치 따낸 혐의(뇌물 수수)를 받았다. 검찰은 “이번 사건은 감사원 간부라는 직무 권한을 이용한 조직적이고 계획적인 부패 범죄”라고 했다. &lt;br&gt;&lt;br&gt;그러나 실제 기소는 김씨가 2018~2021년 사이 3차례에 걸쳐 2억9000만원을 받은 부분에 대해서만 이뤄졌다. 이는 검찰과 공수처가 보완 수사 권한을 두고 충돌하면서 수사가 제대로 진행되지 않았기 때문이다. &lt;br&gt;&lt;br&gt;이 사건 수사는 2021년 10월 감사원이 공수처에 수사를 의뢰하면서 시작됐다. 공수처는 2023년 11월 김씨에 대해 구속영장을 청구했지만, 법원은 “증거가 충분하지 않고 뇌물 액수 산정에 다툼의 여지가 있다”며 기각했다. 이후 공수처는 추가 수사 없이 16일 만에 “기소해달라”며 사건을 검찰에 보냈다. 현행법상 공수처는 판사, 검사, 경무관 이상 경찰을 제외한 고위공직자 범죄는 공수처가 직접 기소할 수 없고 검찰에 공소 제기를 요구하도록 돼 있다.&lt;br&gt;&lt;br&gt;그러나 검찰은 2024년 1월 “법리 검토 등 추가 수사가 필요하다”며 공수처에 보완 수사를 요구했다. 하지만 공수처는 “검찰이 보완 수사를 요구한 사건을 공수처가 수리할 법적 근거가 없다”며 사건을 검찰로 돌려보냈다. 현행법에는 공수처 사건에 대한 검찰의 보완 수사권과 보완 수사 요구권 둘 다 명확히 규정돼 있지 않은 상태다&lt;br&gt;&lt;br&gt;이런 가운데 검찰은 작년 5월 직접 보완 수사를 하기 위해 김씨에 대한 압수수색과 통신 영장을 청구했다. 하지만 법원은 “검사에게 공수처 사건에 대한 추가 수사권이 있다는 법적 근거가 없다”며 영장을 모두 기각했다. 사건을 직접 수사할 방법이 없어진 검찰은 지난해 9월 사건 기록 일부를 공수처에 보내 보완 수사를 해달라고 요청했지만 공수처는 별다른 조치를 하지 않은 것으로 전해졌다. 이처럼 두 기관 사이에서 사건이 오가는 이른바 ‘핑퐁’이 2년 5개월 이어졌다. 결국 검찰은 이러지도 저러지도 못한 채 사건을 들고 있다가 공소시효가 임박하자 이날 일부 혐의만 기소한 것이다.&lt;br&gt;&lt;br&gt;법조계에서는 이번 사건을 “수사기관 간 권한 충돌로 인해 수사의 공백이 발생한 대표적인 사례”라고 지적한다. 서울중앙지검 관계자는 “검사의 직접 보완 수사권과 보완 수사 요구권이 모두 제한될 경우 발생할 수 있는 문제를 여실히 보여줬다”며 “향후 검찰청이 사라지고 중대범죄수사청이 출범하더라도, 검사의 보완 수사권이나 보완 수사 요구 권한이 사라지면 비슷한 일들이 반복될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[핫코너] ‘쑥뜸’ 꽂힌 MZ 늘자, 무면허 업소도 늘어</title>
       <link>https://www.chosun.com/national/national_general/2026/04/23/YU4FRCWF4RG6POMZEGX7S7DJSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/23/YU4FRCWF4RG6POMZEGX7S7DJSY/</guid>
@@ -734,16 +825,6 @@
       <description/>
       <pubDate>Wed, 22 Apr 2026 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXY2C6K4DBEETGTEA6CDV7JLLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울의 한 쑥뜸방 사장이 업체에서 사용 중인 쑥뜸기를 내보이고 있다. 아홉 개의 공간에 각각 쑥을 넣은 뒤, 이를 태워 뜸을 놓는 방식이다. /김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 청년층에서 ‘쑥뜸 치료’가 인기를 끌면서 쑥뜸방으로 불리는 업체가 우후죽순 생겨나고 있다. 하지만 쑥뜸 시술 과정에서 사고도 심심찮게 발생해 불법 무면허 시술 논란이 일고 있다. 쑥뜸은 말린 쑥을 태운 열로 신체를 자극하는 한방 요법. 한의사 면허가 없으면 쑥뜸 치료를 해서는 안 된다. 그러나 쑥뜸 업체들은 “무자격·무경력 가정주부도 할 수 있다”며 쑥뜸방을 홍보하고 있다.&lt;br&gt;&lt;br&gt;쑥뜸이 MZ세대 사이에서 유행하는 건 소셜미디어를 통해 쑥뜸 치료가 일종의 ‘체험형 놀이’처럼 퍼졌기 때문이다. 네이버 데이터랩에 따르면, 올해 3월 19~39세 네이버 이용자의 ‘쑥뜸’ 검색량은 지난해 같은 달과 비교해 3배 이상 늘었다.&lt;br&gt;&lt;br&gt;그러나 상당수 쑥뜸방에서 이뤄지는 시술은 한의사 면허가 없는 사람이 한다. 하루 정도 쑥뜸 기기 사용 교육을 받고 쑥뜸방을 운영하는 경우도 적잖다고 한다. 전국에 쑥뜸방을 수십 곳 운영하는 쑥뜸 프랜차이즈 업체들은 창업 요건으로 한의사 자격을 요구하지 않는다. 한 쑥뜸 프랜차이즈 업체 관계자는 “쑥뜸방은 정식 의료기관이 아닌 서비스업체”라며 “적은 돈만 있으면 주부들도 손쉽게 창업할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEFMF4S3ZZAHDNDPOZKQUEQ5FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울의 한 쑥뜸방 벽에 쑥뜸의 명현반응과 쑥뜸기 이용요금에 대한 설명이 적혀 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 보건복지부 관계자는 “쑥뜸방이 일반 서비스업으로 분류되더라도, 무면허자가 쑥뜸 치료 등 의료 행위를 하는 건 처벌 대상”이라고 말했다. 현행 의료법은 무면허 의료 행위에 대해 5년 이하의 징역이나 5000만원 이하의 벌금에 처할 수 있다고 규정한다.&lt;br&gt;&lt;br&gt;무면허 쑥뜸 시술로 환자가 다치는 일도 잇따라 발생하고 있다. 지난 2월 서울 동작구의 한 쑥뜸방에서 복부 쪽에 시술을 받던 조모(28)씨는 2도 화상을 입고, 업주를 업무상 과실치상 혐의로 경찰에 고소했다. 해당 업주는 한의사 면허가 없는 무자격자로 알려졌다. 부산지법은 지난해 9월 면허 없이 쑥뜸 시술을 하다 환자 다리에 3도 화상을 입힌 60대 여성에게 벌금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이하전 애국지사 유해, 고국 품으로</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/23/GC7Y5SOHNFHUPDVTCZBZHPNWWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/23/GC7Y5SOHNFHUPDVTCZBZHPNWWY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AM3PQN7R25HW7NCW76F5XJYDGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김지호 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 서울 동작구 국립서울현충원에서 독립유공자 이하전 지사의 유해 봉환식이 열렸다. 이 지사는 1938년 비밀 결사 ‘독서회’를 조직해 독립운동을 했다. 1941년 일본 유학 중 경찰에 체포돼 옥고를 치렀다. 광복 후 미국 북캘리포니아 지역의 광복회장을 맡았다. 지난 2월 105세로 별세했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>책상 차지한 AI, 조교도 인턴도 짐쌌다</title>
@@ -755,15 +836,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQ6FZ53BRBH6VCWNHZXELOIAKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인공지능 로봇이 사무실에 홀로 일하는 모습 /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대 첨단컴퓨팅학부 이종민 교수는 컴퓨터 공학 기초 강좌를 맡고 있다. 학부생 70명을 대상으로 알고리즘 설계와 컴퓨터 과학의 논리적 흐름을 가르치는 강좌다. 이 교수는 지난 학기까지는 과제를 채점한 뒤 학생들에게 상세히 설명까지 해주려면 조교 3명이 필요했다고 한다. 하지만 이 교수는 이번 학기에는 조교를 1명으로 줄였다. 그는 “AI(인공지능) 덕분에 학생들 과제를 순식간에 처리할 수 있게 돼 조교 숫자를 줄였다”고 했다. &lt;br&gt;&lt;br&gt;고려대 전기전자공학부 김중헌 교수는 작년부터 아예 ‘AI 조교’를 도입했다. 김 교수가 맡은 강좌는 수강생이 2200명이나 되는 온라인 필수 교양 강좌. 하지만 강의 내용을 학습한 AI 조교가 학생들의 질문에 24시간 실시간으로 대답해주면서 조교를 3분의 1로 줄였다고 한다. 김 교수는 “2000명이 넘는 강좌는 통상 30명가량 조교가 필요한데 지금은 11명이면 충분하다”고 했다.&lt;br&gt;&lt;br&gt;대학에서 AI가 조교 업무를 빠르게 대체하고 있다. 전국 대학의 조교 인력 규모를 정확히 집계한 통계는 없지만, 주요 대학 현황을 종합하면 4년 전보다 조교 수는 3분의 1로 줄어들었다고 교수들은 말한다. 서울대 경제학부의 한 교수는 “아직 조교 정원을 줄이지는 않았지만 조교들이 하던 논문 자료 검색이나 정리 작업을 AI에 맡기고 있다”면서 “조교들도 업무를 AI에 의존하는 실정이라 교수들이 직접 AI를 활용하는 편이 낫다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLNODWVQ6NCH3LOVWDMSZQOXCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AI 활용 확대로 인한 인력 구조 변화는 법조계에서도 나타나고 있다. 로펌은 그동안 1~10년 차 변호사를 ‘어쏘 변호사(Associate Lawyer)’라는 직함으로 고용해 서면 작성이나 판례·법리 조사 등 보조 업무를 맡겨왔다. 하지만 아무리 기민하고 박식한 어쏘 변호사라 해도, 500만건이 넘는 판례와 법령 등을 학습한 AI보다 단순 업무를 더 빠르게 처리하기는 쉽지 않다. 국내 법률AI 업체 로앤컴퍼니가 개발한 AI ‘슈퍼로이어’의 경우 작년 3월 변호사시험 150개 문항에서 111개 문항을 맞춰 평균 합격선(103개)을 넘었다. 그해 5월 시험에선 상위 5% 수준 성적을 기록하기도 했다.&lt;br&gt;&lt;br&gt;국내 한 대형 로펌 소속 A 변호사는 “상위 10%의 어쏘 변호사를 제외하면 AI를 활용하는 게 업무 효율이 더 높다”며 “로펌 입장에서는 신입 변호사를 대거 채용할 유인이 사라지고 있다”고 말했다.&lt;br&gt;&lt;br&gt;AI가 전문직 보조 업무를 속속 대체하면서 직무 경험을 쌓아야 할 청년층 일자리를 잠식한다는 분석도 나온다. 한국은행에 따르면, 챗GPT 등 생성형 AI가 출시된 2022년 하반기부터 2025년 상반기까지 3년간 청년층(15~29세) 일자리 21만1000개가 줄었다. 이 가운데 AI의 영향이 큰 업종의 일자리가 20만8000개로 줄어든 청년층 일자리의 98.6%를 차지했다. 반면 같은 기간 50대 일자리는 이전의 고용 증가세를 유지하며 20만9000개 늘었다. 한국은행은 보고서에서 “AI가 경력이 적은 청년층이 주로 수행하는 정형화된 업무를 상대적으로 쉽게 대체했다”며 “지금처럼 입문 단계의 고용이 줄어들면 장기적으로는 기업의 인력 구조가 악화될 수 있다”고 분석했다. &lt;br&gt;&lt;br&gt;법조계에서 주니어 변호사 채용을 줄이다 보니 경력이 있는 주니어 변호사를 뽑기도 쉽지 않다고 한다. 한 로펌 대표는 “이제 2~3년 차 경력 변호사를 구하려 해도 찾기가 쉽지 않다”며 “변호사 시험 합격 후에도 취업하지 못한 변호사가 늘어나면서 실무 경험을 통한 경력 쌓기가 어려워지고 있다”고 했다. 국가데이터처에 따르면 올해 1분기 실업자 수는 102만9000명으로 실업자 4명 중 1명(26.4%)이 15~29세였다. 청년 취업자는 14분기 연속 감소했다. 리서치 회사 인턴 김모(24)씨는 “리서치 업계에서도 데이터 정리나 리서치 같은 업무는 AI가 더 잘한다는 인식이 퍼지면서 정규직으로 전환될 수 있을지 불안하다”고 했다.&lt;br&gt;&lt;br&gt;이런 현상은 전세계적으로 벌어지고 있다. 미국 컨설팅 업체 챌린저 그레이 앤드 크리스마스에 따르면 작년 1~11월 미국 기업이 발표한 감원 규모는 117만명으로 1년 전(76만명)보다 54% 증가했다. 영국의 국립교육연구재단(NFER)이 작년 11월 공개한 보고서는 2035년까지 행정이나 비서 등 저숙련 직종에서 최대 300만개 일자리가 감소할 수 있다고 전망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>막말·폭행 논란 터졌던 안민석, 경기교육감 진보 단일 후보 확정</title>
-      <link>https://www.chosun.com/national/education/2026/04/23/MBLJFMFHQZG5RFVW3DFD4IMCMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/23/MBLJFMFHQZG5RFVW3DFD4IMCMM/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A73MBSWEHRMUTDHCYABDF7FM2Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;안민석 경기교육감 선거 민주진보 진영 단일후보가 22일 경기 수원시 경기도의회 브리핑룸에서 단일후보 발표 기자회견을 마치고 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 교육감 선거에서 안민석 전 국회의원이 진보 단일 후보로 확정됐다. 40여 일 앞으로 다가온 6월 지방선거에서 안 후보는 재선 출마 의사를 밝힌 보수 성향 임태희 현 경기교육감과 맞대결을 치르게 될 전망이다.&lt;br&gt;&lt;br&gt;경기교육감 선거 진보 진영 단일화를 주관한 경기교육혁신연대는 22일 “선거인단 투표 55%, 여론조사 45%를 합산한 결과 안 후보가 1위를 기록해 단일 후보로 확정했다”고 밝혔다. 단일화에는 안 후보와 유은혜 전 교육부 장관 등 4명이 참여했다. &lt;br&gt;&lt;br&gt;서울대 체육교육과를 나온 안 후보는 2004년 제17대 총선에서 열린우리당 후보(경기 오산)로 출마해 당선되며 정계에 입문했다. 이후 같은 지역구에서 5선 연임했다. 2024년 총선에서 더불어민주당이 그를 컷오프(공천 배제)하며 6선에는 실패했다. &lt;br&gt;&lt;br&gt;교육계에서는 숱한 막말과 과격한 행동으로 논란이 끊이지 않던 그가 교육감 자리에 어울리느냐는 우려의 목소리가 나왔다. 안 후보는 2008년 이른바 ‘광우병 시위’ 당시 경찰관 3명을 폭행해 대법원에서 벌금 300만원이 확정됐다. 2015년에는 부안군수에게 “노래를 부르면 부안에 100억원 예산을 내려주겠다”고 발언해 논란을 일으켰다. 2020년 지역구인 경기 오산에서 사업하는 인사에게 “X탱이가 답이 없네”라는 메시지를 보낸 사실이 드러나자, “후배에게 보낸 것이 잘못 갔다”고 해명했다.&lt;br&gt;&lt;br&gt;안 후보의 ‘사법리스크’를 우려하는 목소리도 있다. 그는 최서원(개명 전 최순실)씨가 박근혜 전 대통령의 비선 실세라는 의혹이 제기되던 2016년 각종 매체에서 “최씨가 수조 원의 돈세탁을 했다” 등 허위 사실을 유포한 혐의로 기소돼 작년 7월 1심에서 벌금 300만원을 선고받았다. 징역 1년형을 구형한 검찰과 안 후보 측이 모두 항소하며 2심 재판이 진행 중이다. 만약 2심에서 안 후보가 징역형 집행유예 등 금고형 이상을 선고받고 대법원이 이를 확정하면 교육감에 당선돼도 직위를 상실하게 된다. 이 사건과 관련, 최씨는 안 후보를 상대로 손해배상 청구 소송도 제기했는데, 대법원은 최근 안 후보가 최씨에게 2000만원을 배상하라고 한 판결을 확정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[부음] 김규화 별세 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/04/23/TG6JVO5VHVB3PE57AOB6UCVELM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/23/TG6JVO5VHVB3PE57AOB6UCVELM/</guid>
@@ -773,60 +845,6 @@
       <content:encoded>▲&lt;b&gt;김규화 &lt;/b&gt;별세, &lt;b&gt;우윤걸&lt;/b&gt;·&lt;b&gt;이종선&lt;/b&gt;·&lt;b&gt;이종희 &lt;/b&gt;모친상, &lt;b&gt;엄태영 &lt;/b&gt;국민의힘 국회의원 장모상, &lt;b&gt;김동임 &lt;/b&gt;시모상=21일22시40분 충북 제천서울병원, 발인 24일9시, (043)644-4422&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박준성 &lt;/b&gt;별세, &lt;b&gt;박강래&lt;/b&gt; HCN충북방송 선임 영상취재기자 부친상=22일4시 충북대병원, 발인 24일6시30분, (043)269-6969&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박찬원 &lt;/b&gt;사진작가 별세, &lt;b&gt;유창희 &lt;/b&gt;남편상, &lt;b&gt;박형지&lt;/b&gt;·&lt;b&gt;박상우 &lt;/b&gt;부친상, &lt;b&gt;황윤정 &lt;/b&gt;시부상, &lt;b&gt;박윤우&lt;/b&gt;·&lt;b&gt;박우현 &lt;/b&gt;조부상=21일2시30분 서울 보라매병원, 발인 24일6시30분, (02)836-6900&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박태수 &lt;/b&gt;별세, &lt;b&gt;박성래 &lt;/b&gt;前 KBS 보도본부 시사제작1부장·&lt;b&gt;박영현&lt;/b&gt;·&lt;b&gt;박건국 &lt;/b&gt;삼성전자 수석연구원·&lt;b&gt;박숙현 &lt;/b&gt;창원 양덕여중 교사 부친상, &lt;b&gt;김경대 &lt;/b&gt;KAIST 부설 한국과학영재학교 교감 장인상, &lt;b&gt;양은경 &lt;/b&gt;조선일보 법조전문기자 시부상=22일8시 부산 시민장례식장, 발인 24일5시, (051)636-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오승현 &lt;/b&gt;별세, &lt;b&gt;오미영&lt;/b&gt; 한국주택금융공사 홍보실 부실장 동생상=22일2시52분 서울성모병원, 발인 24일8시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이남희 &lt;/b&gt;배우 별세, &lt;b&gt;서추자 &lt;/b&gt;남편상=22일17시 신촌세브란스병원, 발인 24일10시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>기안84, 폐지 줍는 노인 100명에 1억</title>
-      <link>https://www.chosun.com/national/people/2026/04/23/46MJXW5GAVEBDHYOGOGIKL7KSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/23/46MJXW5GAVEBDHYOGOGIKL7KSQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JS5GK6YC5VBXVJZIGGTML6Q6BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰 작가 겸 방송인 기안84(본명 김희민·42)가 폐지 줍는 노인 100명에게 총 1억원을 기부했다고 소속사 AOMG가 22일 밝혔다. 할머니 손에 자랐다는 기안84는 “평소 고생하시는 할머니, 할아버지를 보면 돕고 싶었다”고 기부 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김병삼 월드휴먼브리지 이사장</title>
-      <link>https://www.chosun.com/national/people/2026/04/23/V5HHUDAJDBADTM2S4NWWJYACTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/23/V5HHUDAJDBADTM2S4NWWJYACTE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6QHV2QK2FAGDMZQK5JEOVOAMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국제구호개발 비영리단체인 월드휴먼브리지가 김병근 회장, 김병삼 이사장, 배재학 사무총장(이상 오른쪽부터) 체제를 갖추고 글로벌 나눔 사업의 전문성 강화에 나선다고 22일 밝혔다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국제구호개발 비영리단체인 월드휴먼브리지가 김병근 회장, 김병삼 이사장, 배재학 사무총장(이상 오른쪽부터) 체제를 갖추고 글로벌 나눔 사업의 전문성 강화에 나선다고 22일 밝혔다. 김병근 회장은 “소외된 이웃을 연결하는 축적된 역량을 바탕으로 세계가 주목하는 나눔의 모델이 되겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국경 없는 전화 만든 이 남자, NBA 독점도 허문다</title>
-      <link>https://www.chosun.com/national/people/2026/04/23/PTIAEGSK4BCW5CI2JW5IFKMHKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/23/PTIAEGSK4BCW5CI2JW5IFKMHKA/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4CNI7SJUFHYFCHRMYHBDTFP2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스카이프 창업자인 제프리 프렌티스 CEO는 국제 남녀 농구 리그인 '프로젝트 B'를 운영한다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“20년 뒤 농구의 수도는 어디일까요? 더 이상 뉴욕이나 로스앤젤레스가 아닐 수도 있습니다. 서울일 수도, 도쿄일 수도 있고, 세계 어느 도시도 농구 수도가 될 수 있을 겁니다.”&lt;br&gt;&lt;br&gt;이달 초 한국을 찾은 제프리 프렌티스(Geoffrey Prentice) 프로젝트B 공동 창업자는 “농구 팬의 90%가 미국 밖에 있는데, 정작 경기의 99%는 미국 안에서만 열린다”며 “미국프로농구(NBA)가 생긴 이래 76년 동안 중계권과 수익 구조가 미국에만 고정된 이 지독한 불균형을 깨는 것이 프로젝트 B의 본질이다”라고 했다. 스카이프의 공동 창업자인 그는 미시건 대학 시절 룸메이트였던 그레이디 버넷과 3년 전부터 농구 리그 프로젝트B를 준비해왔다. 이들이 농구를 택한 이유는 5대5 경기 구조상 스타 한 명의 영향력이 압도적이기 때문이다. 그는 “소수의 스타만으로도 판 전체를 바꿀 수 있다”고 했다. &lt;br&gt;&lt;br&gt;프렌티스는 “사우디 자본이 만든 골프 리그인 LIV(리브) 골프가 기존 리그 PGA와 ‘전쟁’을 벌였다면, 프로젝트 B는 기존 구단과의 경쟁이 아닌, 확장을 지향한다”며 “NBA가 닿지 못하는 90%의 글로벌 시장을 선점하겠다는 전략”이라고 했다. 프로젝트B는 팀당 선수 11명으로 구성된 6팀이 아시아, 유럽, 북미 도시에서 2주간의 토너먼트를 7차례 치르는 방식으로 운영된다. 포뮬러 원(F1)처럼 세계 주요 도시를 순회하는 ‘글로벌 서킷’ 형식을 도입한 것이다. 각 도시에서 농구 경기를 진행하면서 패션과 음악이 결합된 체류형 축제를 만든다는 구상이다. 일단 11월부터 중국 항저우, 스페인 발렌시아, 일본 도쿄, 싱가포르 등을 순회한다. 프렌티스는 프로젝트B의 핵심 후보지로 서울을 강조했다. 그는 “한국의 대중문화 영향력은 압도적”이라며 “아시아 확장의 전략적 거점으로 서울이 반드시 필요하다”고 했다. &lt;br&gt;&lt;br&gt;프렌티스는 스카이프에서 최고전략책임자(CSO)를 역임한 뒤 기술 벤처캐피털(VC) 아토미코와 핀테크 기업 오리엔테를 공동 창업한 ‘연쇄 창업가’다. 그는 스타트업을 공동 창업하거나 초기 합류한 임직원이 해당 기업의 지분을 받는 방식을 프로젝트B에도 그대로 적용했다. 프렌티스는 “프로젝트 B의 가장 급진적인 지점은 선수 대우다. 선수를 고용인이 아닌 ‘주주(shareholder)’로 본다”며 “리그 참여 선수들에게 리그의 지분을 나눠주고 공동 창업자로서의 권리를 부여하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;프로젝트B는 여자 농구 리그부터 시작할 예정이다. 유명 미국여자프로농구(WNBA) 선수였던 알라나 비어드가 농구 총괄 책임자(CBO)를 맡고, WNBA 선수들과 계약도 체결했다. 프렌티스는 여자 농구를 “폭발 직전의 블루오션”이라며 “이미 세계 여자 선수 상위권 8명 중 5명을 확보했다”고 했다. WNBA의 캔디스 파커, 미국 프로 풋볼(NFL)의 스티브 영, 테니스 선수 노바크 조코비치 등 스포츠계 스타 선수들이 투자자 및 자문위원으로 참여했고, 사우디 국영 공공투자기금(PIF)이 소유한 엔터테인먼트 기업 셀라가 파트너로 합류했다. 프렌티스는 “인공지능(AI) 시대일수록 사람들을 다시 모이게 하는 ‘라이브 플랫폼’이 필요하다”며 “과거 스카이프가 목소리를 데이터로 바꿔 통신을 혁명했듯, 도시로 연결된 글로벌 네트워크로 미국 중심의 농구를 바꿀 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘네이처’에 2주 연속 이름 올린 연구자</title>
-      <link>https://www.chosun.com/national/people/2026/04/23/AVTYWW6JB5B5BJ2NRBK5F3Z4JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/23/AVTYWW6JB5B5BJ2NRBK5F3Z4JE/</guid>
-      <dc:creator>최원우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQ3Z6DGQ75CMFMTRFYUZEDVXXA.png"&gt;&lt;figcaption&gt;&lt;small&gt;노준석 포스텍 기계공학과·화학공학과·전자전기공학과 교수. /과학기술정보통신부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 연구진이 스마트폰 화면에 필름처럼 붙이면, 평소 2D 화면을 보여주다가 원할 때 3D 안경 없이도 입체 화면으로 전환되는 디스플레이 기술을 세계 최초로 개발했다.&lt;br&gt;&lt;br&gt;과학기술정보통신부는 22일 노준석(45) 포스텍 교수와 삼성전자 공동 연구팀이 차세대 광학 소자인 ‘메타렌즈’를 활용해 2D와 3D를 자유롭게 전환할 수 있는 기술을 개발했다고 밝혔다. 메타렌즈는 나노미터(10억분의 1m) 크기 인공 구조체를 평면에 배열해 빛의 방향을 정밀하게 제어하는 초박형 렌즈로, 기존 볼록렌즈보다 수백 배 얇게 만들 수 있다. 연구 결과는 국제 학술지 네이처에 게재됐다.&lt;br&gt;&lt;br&gt;기존에도 비슷한 기술이 있었지만 한계가 뚜렷했다. 시야각이 극히 좁아 정면에서 1명이 겨우 볼 수 있는 정도였고, 화질도 떨어졌다. 이번 기술은 시야각을 100도로 넓혀 여러 사람이 다양한 위치에서 입체 영상을 볼 수 있다. 2D 화질도 크게 개선했다. 두께는 1.2㎜에 불과하고, OLED 패널 위에 부착하는 방식이라 기존 기기와 호환성도 높다. 2D와 3D 전환 시간도 0.01초면 된다.&lt;br&gt;&lt;br&gt;노 교수는 성균관대 공동 연구팀과 메타렌즈 대량 생산 가능성을 제시하는 기술도 개발했다. 메타렌즈는 그동안 전자빔으로 나노 패턴을 하나씩 새기는 공정에 의존해 비용이 많이 들고, 대량 생산이 어렵다는 한계가 있었다. 노 교수팀은 이를 극복하기 위해 신문을 인쇄하듯 찍어내는 ‘롤투롤 나노임프린트’ 공정 기술을 개발했다. 기존 방식보다 100배 빠른 초당 300개 속도로 메타렌즈를 만들 수 있고, 비용도 많이 줄어든다. 이 연구 역시 지난 16일 네이처에 실렸다. 과기부에 따르면, 국내 연구자가 네이처에 2주 연속 논문을 실은 것은 처음이다. &lt;br&gt;&lt;br&gt;다만 실제 상용화까지 풀어야 할 과제는 남아 있다. 노 교수는 “실험실에서는 여러 번 성공했지만, 공장 수준의 반복성과 투과율 개선 등은 더 연구가 필요하다”고 했다. 상용화되면 스마트폰·태블릿 등 모바일 기기부터 대형 광고판, 의료 영상 시스템, 초경량 AR 안경 등으로 활용 범위가 넓어질 전망이다.&lt;br&gt;&lt;br&gt;노 교수는 올해 노벨심포지움 발표자로도 초청돼 있다. 노벨심포지움은 노벨상 선정 기관인 스웨덴 왕립과학원과 노벨재단이 주관하는 최고 수준의 국제학술회의다. 노 교수는 “메타물질이 정말 세상을 바꿀 수 있다고 판단한다는 의미”라며 “이번 연구가 메타렌즈 상용화로 이어질 수 있는 실질적 토대를 마련했다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20~30대에 지방간 있으면 신장암 위험 1.5배</title>
-      <link>https://www.chosun.com/medical/2026/04/23/PTRUOBGGMBEA5IFZHNE4SYTBRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/23/PTRUOBGGMBEA5IFZHNE4SYTBRU/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>비(非)알코올성 지방간이 20~30대 신장암 발생 위험을 높일 수 있다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;지방간은 간 무게의 5% 이상 지방이 축적된 상태를 말하는데 비알코올성 지방간은 술을 거의 마시지 않음에도 발생한다. 주요 원인은 비만, 당뇨병, 고지혈증 등의 대사증후군으로 알려져 있다.&lt;br&gt;&lt;br&gt;국가암등록통계에 따르면, 신장암은 2013년 4392명에서 2023년 7367명으로 약 67.7% 증가해 전체 암 증가 폭을 크게 웃도는 상승세를 보인다. 특히 20~30대만 떼어놓고 봐도 같은 기간 신장암 유병자 수가 76.4%나 상승했다.&lt;br&gt;&lt;br&gt;이런 상황에서 고대안산병원 가정의학과 박주현 교수 연구팀은 2009년부터 2012년까지 국가건강검진을 받은 20~39세 한국인 560만여 명을 최대 12년간 추적 관찰했다. 분석 결과, 총 2956명의 신장암 환자가 발생했으며 비알코올성 지방간이 있는 경우는 그렇지 않은 사람보다 신장암 발생 위험이 약 1.5배 높았다. &lt;br&gt;&lt;br&gt;지방간 정도가 심할수록 그 위험은 더 커졌다. 중등도 지방간은 약 37%, 중증은 약 70%까지 신장암 위험을 높이는 경향을 보였다. 특히 비만과 지방간이 동반된 경우에는 신장암 발생 위험이 약 2.1배까지 증가했다. &lt;br&gt;&lt;br&gt;비알코올성 지방간이 만성 염증, 산화 스트레스, 인슐린 저항성 등 전신적인 변화를 일으키며 신장암 발생 위험을 높일 가능성이 있다고 연구팀은 추정했다. &lt;br&gt;&lt;br&gt;박주현 교수는 “지방간을 조기에 발견하고 적극적으로 관리하는 것이 젊은 연령층에서 증가하는 신장암 발병 위험을 줄이는 데 핵심적인 역할을 할 수 있다”고 말했다. 이번 연구는 미국암연구학회가 발행하는 국제학술지 암역학 및 예방 지에 발표됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>잇몸병 있으면 식도암 위험 10% 늘어… ‘3·2·4 수칙’으로 건강 지켜요</title>
-      <link>https://www.chosun.com/medical/2026/04/23/DKXZQLF7IRDJZNGW2QHOVZYSVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/23/DKXZQLF7IRDJZNGW2QHOVZYSVQ/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>“철저한 잇몸 관리가 소화기암 위험을 줄입니다.”&lt;br&gt;&lt;br&gt;대한치주과학회와 동국제약이 최근 진행한 ‘잇몸의 날’ 기념 심포지엄에서 불량한 잇몸 건강 상태와 식도암의 연관성 연구와 잇몸병 원인균이 대장암 진행과 밀접한 관련이 있다는 연구 결과가 잇따라 발표됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DYF7NQBCJHHPK35PFGV2RMNYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박재용 중앙대의대 소화기내과 교수는 ‘잇몸 건강과 식도암의 관계’를 강조했다. 박 교수팀은 국민건강보험공단 데이터를 활용해, 불량한 잇몸 건강 상태와 식도암 발생 위험 관련성을 실제 진료 데이터와 비교해 분석했다. 그 결과 치아 상실이 있는 경우 식도암 위험이 약 16% 높았다. 치주질환이 있는 경우는 약 10% 높았다. 이 밖에 하루 3회 미만 칫솔질, 취침 전 칫솔질 부족, 치간 세정 도구 미사용 등 불량한 구강 위생 습관도 식도암 발생 위험과 유의한 연관성을 보였다. 박 교수는 “이러한 결과는 잇몸병(치주질환)과 구강 내 미생물 불균형이 식도암 관련 위험 지표일 수 있음을 시사한다”고 말했다.&lt;br&gt;&lt;br&gt; 국중기 조선대치대 구강생화학교실 교수는 “잇몸병 세균이 대장암 발생 초기 및 진행에 영향을 미친다”는 연구 결과를 발표했다. 2024년 네이처지에 발표된 본인의 연구를 통해 구강 내 잇몸병 원인균인 푸소박테리움 뉴클레아툼 계열의 특정 세균이 강한 위산을 견뎌내는 ‘위산 저항성 기전’을 가지고 있어서, 대장까지 도달해 대장암을 악화시키는 결정적인 역할을 한다고 국 교수는 말했다. 잇몸병 세균이 대장암 발병 초기 및 진행의 위험 인자라는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 설양조(서울대치대 치주과 교수) 치주과학회장은 올바른 칫솔질과 철저한 잇몸 관리가 구강 내 잇몸병 원인균으로 인한 여러 전신 질환을 예방하는 확실한 방법임을 강조하며 잇몸과 소화기 건강을 위한 ‘3.2.4 수칙’을 실천하자고 제안했다. 이는 하루 세(3)번 이상 칫솔질, 일년에 두(2)번 스케일링, 사(4)이사이 치간칫솔 사용을 의미한다.&lt;br&gt;&lt;br&gt;‘하루 세 번 이상 칫솔질’은 식후 치아 사이의 음식물 찌꺼기를 제거해 치태 생성을 막고 구강 내 미생물의 양을 줄이는 핵심 습관이다. ‘일년에 두 번 스케일링’은 정기적인 치과 방문을 통해 구강 검진과 잇몸 상태를 확인하자는 의미를 담았다. ‘사이사이 치간칫솔’은 일반 칫솔로 제거하기 힘든 치아 사이 치태를 치실이나 치간칫솔 등 보조기구로 꼼꼼히 관리하라는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[Dr.이은봉의 의학 연구 다이제스트] 70세 넘어서는 대장내시경 검진 의미 없어</title>
       <link>https://www.chosun.com/medical/2026/04/23/YZB3PAI4ABADBAWVDSKP33ZS2A/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/23/YZB3PAI4ABADBAWVDSKP33ZS2A/</guid>
@@ -834,15 +852,6 @@
       <description/>
       <pubDate>Wed, 22 Apr 2026 15:41:00 +0000</pubDate>
       <content:encoded>대장 세포의 유전자 돌연변이는 선종을 만들고, 이는 대장암으로 발전한다. 따라서 선종(대장 폴립의 한 원인)은 대장암 발생의 주요 위험 요인이다. 대장내시경은 폴립을 조기에 발견할 수 있는 유용한 검사이다. 하지만 노인의 경우, 대장내시경은 장 천공과 같은 치명적인 부작용을 종종 일으킬 수 있기 때문에, 75세 이상에서는 정기적인 대장경 검사가 추천되지 않는다. &lt;br&gt;&lt;br&gt;최근 미국의사협회지에 노인에서 예방적 대장내시경 검사의 득실을 분석한 연구가 발표됐다. 연구는 평균 71세에 대장암 조기검진을 목적으로 대장내시경 검사를 받은 미국인 퇴역 군인 9만1952명을 대상으로 했다. 대상자 중 27.8%는 선종이 있었고, 72.2%는 선종이 없었다. 대상자들을 75세부터 10년을 추적관찰하면서 대장암 발생을 조사한 결과, 역시 선종이 있던 대상자에서 대장암 10년 누적 발생률이 1.1%로 선종 없던 그룹(0.7%)보다 많았다.&lt;br&gt;&lt;br&gt;하지만 대장암 이외의 다른 원인에 의한 사망률이 46.9~48.2%까지 이르러서 전체 사망률은 선종 유무와 관계없이 차이가 없었다. 즉, 70세 이상 고령에서는 대장암을 조기발견해도 전체 사망률을 개선시키지는 못한다는 의미다. 대장의 폴립이 대장암으로 발전하기 위해서는 10년 이상의 시간이 걸리고 실제로 암이 생기는 경우도 1% 내외에 불과하다. 70세 이상은 노쇠와 같이 암 이외의 다른 원인으로 대부분 사망하기 때문에, 대장내시경 검사를 통해 미리 선종을 발견해도 전체 사망률을 개선시키지는 못한 것으로 추정된다. 70세 이상에서는 대장내시경 검진보다 노쇠를 막는 데 더 노력해야 하지 싶다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이유 없는 멍·출혈… 혈액암 신호일수도</title>
-      <link>https://www.chosun.com/medical/2026/04/23/JGXOB4BQGRCO7NSFA46NDJAYXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/23/JGXOB4BQGRCO7NSFA46NDJAYXY/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDP3Q5L7DBB23ILSSO2CZOO6TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혈액암은 어린아이들에게만 주로 발생하는 것으로 알려졌지만, 60대 이후부터 발병률이 급증하는 질환이다. 최근 초고령 사회로 진입하면서 혈액암 발병이 급속도로 증가하고 있다고 한다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 ‘경희대병원과 함께하는 전신 건강 지키기’ 2편으로 종양혈액내과 김현정 교수와 함께 3대 혈액암에 대해 알아봤다.&lt;br&gt;&lt;br&gt;혈액암은 조혈모세포의 분화 단계와 위치에 따라 크게 백혈병, 림프종, 다발성 골수종 등으로 나뉘며, 이를 ‘3대 혈액암’이라고 한다. &lt;br&gt;&lt;br&gt;병원을 반드시 찾아야 하는 혈액암 의심 증상이 있다. ▲양치나 발치 후 잇몸에서 피가 멈추지 않거나 ▲다친 적 없는데도 몸에 계속 멍이 드는 경우 ▲여성의 월경 기간이 2주 이상 지속될 때는 검사가 필요하다고 한다. &lt;br&gt;&lt;br&gt;김현정 교수는 “뚜렷한 이유 없는 발열, 수면 중 옷이 흠뻑 젖을 정도의 식은땀, 의도하지 않은 10㎏ 이상의 급격한 체중 감소 등도 주의 깊게 살펴야 할 신호”라고 말했다.&lt;br&gt;&lt;br&gt; 김 교수는 “혈액암은 최근 치료 기술 발전으로 생존율이 크게 높아졌다”며 “대표적인 치료인 ‘조혈모세포 이식’은 고강도 항암 치료 후 본인 혹은 다른 사람의 건강한 조혈모세포를 주입하는 방식으로 생존율을 크게 끌어올렸다.”고 말했다.&lt;br&gt;&lt;br&gt;“태풍이나 홍수가 발생하는 걸 막을 수 없듯 혈액암 발병을 원천 차단하기는 어렵다”면서도 “평소 균형 잡힌 식사와 규칙적인 운동, 기저질환 관리를 통해 건강한 체력을 다져놓으면 피해를 최소화할 수 있다”고 이 교수는 전했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면, 혈액암 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IYEPUAH4VBBDDFXYQL6VDYV3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 4월 23일</title>
