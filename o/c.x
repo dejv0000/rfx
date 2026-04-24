@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“엄마가 사준 SK하이닉스 주식, 9억 됐다”...3000% 수익률 인증글 화제</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/R43OQBL36BD5HEUBU6U7Z4X4ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/R43OQBL36BD5HEUBU6U7Z4X4ZI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 22:56:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DW3UQ3FGHRI7PDV3KAK3AZ3BDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코스피가 전 거래일(6475.81)보다 0.18포인트(0.00%) 내린 6475.63에 마감한 24일 오후 서울 중구 하나은행 딜링룸 전광판에 종가가 표시되어 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 어머니가 자신의 명의로 계좌를 만들어 사준 SK하이닉스 주식이 3000%가 넘는 수익률을 기록했다는 사연이 온라인상에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;최근 한 온라인 커뮤니티에는 “10여 년 전 SK하이닉스에 투자해서 결혼 자금을 만들 수 있게 됐다”는 내용의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “어머니가 오래전 주식을 전혀 몰랐던 날 데리고 증권 회사에 데려가 계좌를 만들게 했다”며 “3000만원 안 되는 돈을 넣어주시고 SK하이닉스 주식을 사주셨다”고 했다. 이어 “당시 어머니가 나중에 결혼 자금에 보태라고 하셨다. 아직 결혼하지 않아 계좌가 그대로 있다”며 “어머니께 너무 감사하다. 그때 어머니 선택이 정말 대단하셨다고 생각한다. 지금도 매일 감사하다고 말씀드린다. 꼭 효도할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHOA47FE6RD75AQP3BR7YXGSVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과거 매수한 SK하이닉스 주식이 3000%가 넘는 수익률을 기록했다며 올라온 인증 사진. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨가 공개한 계좌 화면에는 SK하이닉스 주식 보유 내역이 담겼다. 잔고 수량은 782주였고, 매입가는 3만3554원으로 표시됐다. 현재가는 114만6000원이었다. 약 10년 전쯤 매입한 것으로 추정된다. 평가 금액은 8억9617만2000원으로 나타났다. 평가 손익은 8억6993만2129원이었고, 수익률은 3315%에 달했다.&lt;br&gt;&lt;br&gt;이 글은 여러 온라인 커뮤니티와 소셜미디어(SNS) 등으로 확산했다. 이를 본 네티즌들은 “어머님 선구안 대단하시다” “하이닉스 3만원대라니” “나였으면 이미 팔았을 것 같은데 대단하다” “평단 대박이다” “진짜 부럽다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 SK하이닉스는 올 1분기 매출액과 영업이익 모두 역대 최대 실적을 달성하며 ‘어닝 서프라이즈’를 기록했다. 23일 SK하이닉스는 연결 기준 올해 1분기 매출액 52조5763억원, 영업이익 37조6103억원, 순이익 40조3459억원의 경영 실적을 기록했다고 공시했다. 영업이익과 매출 모두 분기 최대 기록이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인에 ‘물값 2000원’ 판매한 광장시장 노점, 3일 영업정지</title>
+      <link>https://www.chosun.com/national/people/2026/04/25/JBK6VPALPBHHLDYL5DF73FHA54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/25/JBK6VPALPBHHLDYL5DF73FHA54/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 21:47:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G77CEEXLFREYNPXAAHCPE635MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 외국인 유튜버가 광장시장에서 물값 2000원을 따로 요구하자 "한국에서 처음"이라는 반응을 보이고 있다. /유튜브 '카잉'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 광장시장에서 손님에게 500㎖ 생수 한 병을 2000원에 판매해 ‘바가지 요금’ 논란을 일으킨 노점이 영업 정지 처분을 받았다.&lt;br&gt;&lt;br&gt;24일 광장시장 노점 상인회에 따르면, 해당 노점은 상인회 징계 결정에 따라 지난 22일부터 이날까지 사흘간 영업을 중단했다. 이번 조치는 최근 한 외국인 유튜버가 올린 영상에서 비롯된 논란에 따른 것이다.&lt;br&gt;&lt;br&gt;앞서 지난 16일 한 외국인 유튜버가 서울 종로구 광장시장 노점에서 500㎖ 생수를 2000원에 구입한 영상이 공개되면서 ‘바가지 요금’ 논란이 일었다. 한국 생활 중 물값을 따로 받는 상황을 겪어본 적 없던 유튜버는 “한국 식당에서 물을 파는 건 처음이에요”라고 말했고, 상인은 “광장시장에는 외국인이 많아서 그렇다”고 답했다.&lt;br&gt;&lt;br&gt;유튜버는 이후 언론에 “물을 파는 것까지는 이해할 수 있지만, 식당이나 노점에서 물값을 따로 받는 건 처음 겪는 일이어서 솔직히 당황스러웠다”고 밝혔다.&lt;br&gt;&lt;br&gt;상인회 관계자는 “노점이다 보니 1.8ℓ짜리 생수를 사서 컵에 따라주는 곳들이 있었는데, 외국인들이 ‘누군가 마시다 남긴 물’로 오해하는 경우가 있었다”고 설명했다. 이어 “노점들이 개인사업자이다 보니 판매 가격을 일률적으로 지정할 수는 없겠지만, 이번 일을 계기로 적정 가격으로 판매할 것으로 예상한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#AI100대인재권인소#SK하이닉스쇼크</title>
       <link>https://www.chosun.com/national/weekend/2026/04/25/HK7HG7JGXRFVPHHQUXYY7QDNJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/04/25/HK7HG7JGXRFVPHHQUXYY7QDNJ4/</guid>
@@ -744,15 +762,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YBVYQBDP5LETAEMMILNUI63NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정원오 더불어민주당 서울시장 후보와 오세훈 국민의힘 서울시장 후보가 지난 22일 서울 용산구 백범김구기념관에서 열린 서울시사회복지사협회 창립 40주년 기념 행사에서 만나 악수하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 여야 서울시장 후보 확정 뒤 첫 여론조사에서 정원오 더불어민주당 후보 지지율이 오세훈 국민의힘 후보를 10%포인트(p) 넘게 앞서는 것으로 나타났다.&lt;br&gt;&lt;br&gt;CBS가 여론조사 업체 한국사회여론연구소(KSOI)에 의뢰해 지난 22~23일 서울에 사는 18세 이상 1001명에게 시행해 24일 공개한 조사에 따르면, 서울시장 선거 가상 대결에서 정 후보를 지지한다는 응답자가 전체의 45.6%로, 오 후보를 지지한다는 응답자 35.4%보다 10.2%p 많았다. 그 밖의 인물을 지지한다는 응답자는 7.0%, 지지 후보가 없다는 응답자는 7.0%, 잘 모르겠다는 응답자는 5.0%였다.&lt;br&gt;&lt;br&gt;이번 지방선거에서 ‘정부에 힘을 실어주기 위해 여권 후보를 선택해야 한다’는 응답자는 46.6%로, ‘정부를 심판하기 위해 야권 후보를 선택해야 한다’는 응답자 37.2%보다 9.4%p 많았다.&lt;br&gt;&lt;br&gt;서울 구청장 선거에서 민주당 후보를 뽑겠다는 응답자는 43.2%로, 국민의힘 후보를 뽑겠다는 응답자 31.7%보다 11.5%p 많았다.&lt;br&gt;&lt;br&gt;다만 서울교육감 선거에서는 보수 성향 후보를 뽑겠다는 응답자가 38.5%로, 진보 성향 후보를 뽑겠다는 응답자 38.1%와 비슷했다.&lt;br&gt;&lt;br&gt;이 조사에서 민주당을 지지한다는 응답자는 44.2%로, 국민의힘 지지자 31.5%보다 12.7%p 많았다. 개혁신당 지지자는 3.7%, 조국혁신당 지지자는 3.3%였다.&lt;br&gt;&lt;br&gt;스트레이트뉴스가 조원씨앤아이에 의뢰해 지난 20~21일 서울 거주 18세 이상 802명을 대상으로 한 조사에서는 정 후보를 지지한다는 응답자가 49.7%로, 오 후보를 지지한다는 응답자 35.9%보다 13.8%p 많았다. 지지 후보가 없다는 응답자는 8.8%, 잘 모르겠다는 응답자는 5.6%였다.&lt;br&gt;&lt;br&gt;정 후보는 모든 지역에서 오 후보에게 앞섰다. 서울 북동부(강북·도봉·노원·성북·동대문·중랑·성동·광진구)에서는 정 후보 54.2%, 오 후보 32.0%로 22.2%p 격차가 났고, 서남부(강서·양천·영등포·동작·구로·금천·관악구)에서는 정 후보 48.9%, 오 후보 35.7%로 13.2%p 격차가 났다. 북서부(은평·종로·서대문·중·마포·용산구)에서는 정 후보 44.0%, 오 후보 36.6%로 7.4%p 차, 남동부(서초·강남·송파·강동구)에서는 정 후보 48.8%, 오 후보 41.4%로 7.4%p 차였다.&lt;br&gt;&lt;br&gt;응답자 연령별로 보면, 50대는 정 후보 62.3%, 오 후보 24.2%, 40대는 정 후보 53.3%, 오 후보 34.0%, 60대는 정 후보 52.9%, 오 후보 34.5%였다. 30대는 정 후보 50.4%, 오 후보 37.3%, 70대 이상은 정 후보 49.5%, 오 후보 38.5%였다. 10·20대(18~29세)에서만 오 후보가 47.5%로 정 후보 29.6%보다 높았다.&lt;br&gt;&lt;br&gt;이 조사에서 민주당을 지지한다는 응답자는 49.6%, 국민의힘을 지지한다는 응답자는 33.8%였다.&lt;br&gt;&lt;br&gt;CBS·KSOI 조사는 무선 전화 ARS 방식으로 이뤄졌다. 응답률은 5.1%, 표본 오차는 95% 신뢰 수준에서 ±3.1%p다. 스트레이트뉴스·조원씨앤아이 조사도 무선 전화 ARS 방식으로 이뤄졌다. 응답률은 6.3%, 표본 오차는 95% 신뢰 수준에서 ±3.5%p다. 그 밖의 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘말차’의 모든 것…  보성에서 만나요</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/04/24/6LOWGLFPAFDL7FSMS64RJ3SCB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/04/24/6LOWGLFPAFDL7FSMS64RJ3SCB4/</guid>
-      <dc:creator>보성=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIHWFACM5ZFYPMWG42P2OHM5TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 보성군은 5월 1일부터 5일간 한국차문화공원에서 ‘제49회 보성다향대축제’를 연다고 23일 밝혔다. 올해 축제는 ‘보성말차! 젊음을 담다! 세계를 담다’를 주제로 열린다. 이번 축제는 참여형 행사를 대폭 강화했다. 말차 브랜드관을 통해 현대적 감각의 음료와 디저트를 선보이고, 야간에는 천체 관측 프로그램 등을 운영해 MZ 세대와 외국인 관광객 공략에 나선다는 전략이다. &lt;br&gt;&lt;br&gt;보성에선 축제를 앞두고 햇차 수확이 본격적으로 시작됐다. 지난 20일, 24절기 중 여섯 번째인 ‘곡우(穀雨)’를 맞은 차밭에선 어린 찻잎을 따느라 농민들의 손이 분주했다. 보성군 관계자는 “올해는 적절히 단비가 내렸고 냉해 피해도 없어 찻잎의 품질이 아주 좋다”고 했다. 녹차 중 최고급으로 꼽히는 ‘우전(雨前)차’는 곡우에 수확한 찻잎을 주로 쓰는데, 이 역시 올해 품질이 특히 우수할 것으로 기대된다.&lt;br&gt;&lt;br&gt;보성군은 최근 음료, 제과·제빵, 건강식품 등 다양한 산업에 활용되는 말차를 주력으로 녹차 시장을 확장한다는 전략을 세웠다. 보성군 관계자는 “이번 축제에선 녹차의 전통을 계승하는 것을 넘어 세계와 소통할 수 있는 말차 산업 부흥기를 열고자 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>어린이날엔 서울로… 아이와 추억 만드세요</title>
       <link>https://www.chosun.com/national/national_general/2026/04/24/5GNRACVTFJD5FNNROJ6XSGAUX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/5GNRACVTFJD5FNNROJ6XSGAUX4/</guid>
@@ -769,15 +778,6 @@
       <description/>
       <pubDate>Thu, 23 Apr 2026 15:48:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4N3GWVHND5FZBJH3PMXOE45SC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가는동자꽃(왼쪽)·고리도롱뇽(오른쪽)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 첫 ‘도심형 국립공원’인 금정산의 깃대종으로 ‘가는동자꽃’과 ‘고리도롱뇽’이 선정됐다고 금정산국립공원사무소가 23일 밝혔다. 깃대종은 특정 지역의 생태, 지리, 문화적 특성을 보여주는 상징적인 야생 동·식물로, 국립공원의 ‘마스코트’와 같다. 모든 국립공원이 동·식물 각 1종씩을 깃대종으로 선정한다. 예를 들어 지리산은 반달가슴곰(동물)과 히어리(식물)가 깃대종이다.&lt;br&gt;&lt;br&gt;산 습지에 사는 가는동자꽃은 한국과 일본에만 분포하는 ‘멸종위기야생생물 2급’ 희귀종이다. 국내에선 금정산에서만 산다. 7~8월 붉은색 꽃을 피운다.&lt;br&gt;&lt;br&gt;한국 고유종인 고리도롱뇽은 금정산을 비롯해 부산과 양산 등 경상권 동남부 지역에서 발견된다. 수질을 확인할 수 있는 환경 지표종 역할도 한다.&lt;br&gt;&lt;br&gt;금정산에는 가는동자꽃과 고리도롱뇽뿐 아니라 수달과 삵, 삼백초 등 야생생물 1782종이 서식하고 있다. 금정산국립공원사무소는 지난달 전문가와 지방자치단체, 지역 주민, 환경단체 등으로 구성된 깃대종 선정위원회를 꾸려 깃대종을 뽑았다. 사무소 관계자는 “올 상반기 깃대종으로 마스코트 모형을 만들어 공개할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대차 있는 울산 북구, 전·현직 구청장 세번째 맞대결</title>
-      <link>https://www.chosun.com/politics/election2026/2026/04/24/GO4BF2BFVFEBDLB5UJCDLBXQJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/04/24/GO4BF2BFVFEBDLB5UJCDLBXQJ4/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5CTXB6NI5EGHH45JRAFAQJSP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 울산 북구청장 선거에서는 전현직 구청장이 세 번째 대결을 펼친다. 더불어민주당 소속의 이동권(69) 전 구청장과 국민의힘 박천동(60) 현 구청장이다. 민주당에서는 이 전 청장이 “고지를 탈환하겠다”며 벼르고 있고, 국민의힘 박 청장은 현역 프리미엄을 앞세워 수성에 나섰다. 진보당 이은영(60) 전 울산시의원도 지난 1월 출마를 선언했다.&lt;br&gt;&lt;br&gt;2018년 지방선거에서는 이 전 구청장이 45.55%를 얻어 당시 재선을 노리던 자유한국당 소속 박 구청장(32.54%)을 13.01%포인트 차로 이겼다. 2022년 지방선거에서는 박 구청장이 50.60%를 얻어 현직이던 이 전 구청장(40.02%)을 눌렀다. 이번 선거에서 박 구청장이 승리하면 첫 3선 북구청장이 된다.&lt;br&gt;&lt;br&gt;울산 북구는 평균 연령이 41.3세로 울산에서 가장 젊은 구다. 또 현대자동차 울산 공장과 협력업체, 중소기업이 밀집해 진보 성향 유권자가 많은 지역으로 꼽힌다. 21대 대선 때는 민주당 이재명 후보가 48.63%를 얻어 국민의힘 김문수 후보 40.63%를 8%포인트 차로 이겼다. 윤석열 전 대통령이 당선된 20대 대선 때도 영남권에서 유일하게 이재명 후보가 윤 대통령을 이긴 곳이 울산 북구다.&lt;br&gt;&lt;br&gt;울산 북구는 역대 구청장 선거에서 한 정당이 연속으로 구청장을 배출한 적이 없다. 민선 2기엔 무소속 조승수 구청장이 당선됐고 3기 민주노동당 이상범, 4기 한나라당 강석구, 5기 민주노동당 윤종오, 6기 새누리당 박천동, 7기 민주당 이동권, 8기엔 국민의힘 박천동 구청장이 당선됐다. &lt;br&gt;&lt;br&gt;선거 전문가들은 민주당과 진보당의 후보 단일화가 이뤄질지 주목한다. 민주당과 진보당은 단일화의 필요성에 공감하고 있다. 다만 진보당이 울산시장과 울산 지역 5개 구·군 기초단체장 선거에 모두 후보를 내면서 단일화 셈법이 복잡해졌다. 진보당은 “단체장은 물론 광역의원까지 포함해 후보 단일화를 논의해야 한다”는 입장인 반면, 민주당은 “단체장 선거 정도까지 단일화를 하고 광역의원 후보 단일화는 필요에 따라 하겠다”는 입장이다. 도수관 울산대 행정학과 교수는 “현 정부 지지율이 민주당에 유리하게 작용할 수 있다”면서도 “진보 진영 후보 간 단일화가 이뤄지지 않을 경우 현역 구청장에게 유리한 구도가 형성될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원 “홍명보·클린스만 대표팀 감독 선임 부적절”</title>
