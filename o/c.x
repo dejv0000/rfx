@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유동규 “檢 압박 아닌 이재명 배신감에 사실 털어놔”…국조특위 남욱 발언 반박</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/24/NZPV3EXCKVHO3ALFGH3MDBPRGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/NZPV3EXCKVHO3ALFGH3MDBPRGQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 09:31:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYWMNZRGA3TCZBXGJSGGYZSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 기획본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유동규 전 성남도시개발공사 기획본부장은 2022년 검찰의 대장동 수사 과정에서 태도를 바꿔 자백 진술한 것에 대해 “검찰 압박이나 회유 때문이 아니라 이재명 대통령에 대한 배신감 때문이었다”고 24일 밝혔다. &lt;br&gt;&lt;br&gt;서울고법 형사6-3부(재판장 민달기) 심리로 열린 재판에서 증인석에 선 유씨는 2022년 9월 검찰 조사 도중 태도를 바꾼 이유를 묻는 김만배씨 측 변호인의 질문에 “이재명과 정진상을 맹목적으로 따랐는데 배신당했다는 생각이 들었다”고 했다. 그는 “강릉에서 놀다가도 정진상 전 실장이 빨리 오라고 하면 바로 운전하고 갔다”며 “그 정도였는데 ‘내가 바보같이 살았구나’ 하고 자책했다”고 했다.&lt;br&gt;&lt;br&gt;이는 최근 남욱 변호사가 국회 ‘조작 기소 국정조사’ 청문회에 출석해 한 주장과는 다르다. 남씨는 국회에 나와 “당시 검찰이 ‘목표는 하나(이재명)’라며 강압·회유했고, 가족사진까지 이용해 심리 압박을 가했다”면서 검찰의 수사 방향대로 진술할 수밖에 없었다고 주장했다. 유씨는 이에 대해 “남욱의 증언은 제가 뭐라 할 말이 없지만, 저는 압박을 느껴본 적이 없다”며 “이 대통령은 이미 대통령이 됐고 언론과 국회의 힘도 다 쥐고 있는데, 내가 (이제 와서) 간신배처럼 말을 바꿀 이유가 없다”고 했다.&lt;br&gt;&lt;br&gt;유씨는 성남시가 대장동 사업의 ‘확정 이익’ 방식을 고수한 이유가 당시 성남시장이던 이 대통령의 ‘치적 쌓기’ 때문이었다고도 증언했다. 그는 “사업이 조금이라도 지지부진하게 가면 시장 입장에서 공약을 이행했다고 할 수 없어서 어떻게든 (이익을) 확정시켜놔야 했다”고 했다. 성남시의 실익보다는 이 대통령이 시장 임기 내 이익을 확정하려고 했던 것이 대장동 사업 구조를 결정했다는 얘기다.&lt;br&gt;&lt;br&gt;유씨는 이날 “대장동 개발의 피해자는 원래 주민들”이라고도 했다. 그는 “제가 원주민들을 많이 만나서 가급적 유리한 방식으로 하겠다고 주장했는데 (성남시 지휘부가) ‘400표’밖에 안 된다고 해서 묵살당했다”고도 했다. 유씨는 “이 대통령도 정 전 실장과 함께 있는 자리에서 ’400표밖에 안 된다’고 했다”며 “제가 복도에서 정 전 실장에게 지나친 것 아니냐고 따진 적도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘채용 비리 의혹’ 서울 강서구의회 의장 구속 기소</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/24/4DHJG5AYUFHGVN2UIBLRBVCTAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/4DHJG5AYUFHGVN2UIBLRBVCTAA/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 10:49:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZTIMTGGZSGENRYMY2DIMJSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서구의회 비석. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원 채용을 대가로 뇌물을 받은 혐의로 현직 구의회 의장과 운영위원장이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 형사6부(부장 전철호)는 24일 특정범죄가중처벌법상 뇌물수수 혐의로 서울 강서구의회 의장 박모씨와 운영위원장 전모씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;이들에게 금품을 건네고 타인의 뇌물도 전달한 혐의(뇌물공여·제3자뇌물취득)를 받는 A씨와 뇌물공여 혐의를 받는 공여자 4명도 함께 불구속 기소됐다.&lt;br&gt;&lt;br&gt;박씨와 전씨는 지난해 4~7월 공무원 채용을 대가로 A씨로부터 1500만원 상당의 금목걸이와 현금 2500만원 등 총 4000만원을 수수한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 A씨를 통해 다른 공여자 3명으로부터 총 3100만원을 수수한 것으로도 조사됐다. 박씨는 2024년 7월경 B씨로부터 공무원 계약을 연장해주는 대가로 200만원을 수수한 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “공무원 채용이나 계약 연장의 대가로 금품을 수수하는 불법적인 관행을 근절시킬 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다리에 수포 생기더니 돌연 사망 “해산물 섭취 주의”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/24/NDZTOK2ARBGKNFPC7RKMN43EWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/NDZTOK2ARBGKNFPC7RKMN43EWI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 09:45:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZWKMJRGI4WGYRWMM4TGNJSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비브리오패혈증균 검사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 첫 비브리오패혈증 환자가 사망에 이르면서 당국이 예방 수칙을 강조했다. &lt;br&gt;&lt;br&gt;질병관리청은 24일 경기도의 한 병원에 입원 중이던 40대 A씨가 전날 비브리오패혈증 진단을 받은 뒤 사망했다고 밝혔다. A씨는 지난 21일부터 다리 부위 부종과 수포, 통증 등으로 병원을 찾았으나 증상이 빠르게 악화됐다. A씨는 간질환 등 기저질환 보유자로 비브리오패혈증 고위험군에 해당했다. &lt;br&gt;&lt;br&gt;주로 바닷물, 갯벌, 어패류 등에 서식하는 비브리오패혈균 감염에 의한 급성 패혈증인 비브리오패혈증은 제3급 법정 감염병이다. 매년 바닷물 온도가 18도 이상으로 올라가는 4~6월쯤 첫 환자가 나온 뒤 8~10월에 많이 발생한다. &lt;br&gt;&lt;br&gt;비브리오패혈균에 오염된 해산물을 날로 먹거나 상처 난 피부가 오염된 바닷물에 접촉할 경우 감염되는 경우가 많다. 우리나라에서도 매년 두 자릿수의 감염자와 사망자가 나온다. 지난해에만 68명이 감염돼 26명이 사망한 것으로 잠정 집계됐다. &lt;br&gt;&lt;br&gt;비브리오패혈증에 걸리면 급성 발열, 오한, 혈압 저하, 복통, 구토, 설사 등의 증상이 나타난다. 증상 시작 후 24시간 이내에 다리 쪽에 발진, 부종, 출혈성 수포 등이 생긴다. 이러한 증상이 나타나면 즉시 병원에 방문해 신속하게 치료받아야 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTKM3DME4TEZTFGQ2TMYZZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비브리오패혈증 예방수칙./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 만성 간 질환자, 당뇨병 환자, 알코올 의존자 등은 고위험군에 속한다. 건강한 일반인은 감염되더라도 구토·설사·복통 등 경미한 증상으로 그치는 경우가 많지만, 면역력이 저하된 기저 질환자는 발병 후 수일 이내 사망할 수 있어 각별한 주의가 필요하다. &lt;br&gt;&lt;br&gt;예방하기 위해서는 어패류는 섭취 전 흐르는 물에 깨끗이 씻고 85℃ 이상의 고온에서 완전히 익혀 먹는 것이 좋다. 저장 시에는 가능한 한 5℃ 이하의 저온에서 보관하고, 손질·요리할 땐 장갑을 착용하며 도마와 칼 등을 소독하는 것이 권장된다. 피부에 상처가 났다면 바다에 가급적 들어가지 말아야 하고, 일단 바닷물과 접촉했다면 비누와 깨끗한 물로 상처 부위를 씻어내는 것이 좋다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, 방시혁 구속영장 반려... “경찰에 보완수사 요구”</title>
       <link>https://www.chosun.com/national/national_general/2026/04/24/GEO7C7LHRFBXVBW2KPAKDTRAXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/GEO7C7LHRFBXVBW2KPAKDTRAXM/</guid>
@@ -894,27 +921,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
-      <title>이다도시 “이혼 후 양육비 한 푼도 안 받아”...두 아들 홀로 키운 사연</title>
-      <link>https://www.chosun.com/national/people/2026/04/23/JYQSSHD5SFFPLGNEAFXVFGSTCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/23/JYQSSHD5SFFPLGNEAFXVFGSTCU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 06:38:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3WEZRQMY2DGYRVHFRGCNLEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 이다도시./유튜브 채널 'A급 장영란'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 이다도시(57)가 한국인 전 남편과 이혼한 뒤 두 아들을 홀로 양육하며 교수로 재직 중인 근황을 공개했다.&lt;br&gt;&lt;br&gt;지난 22일 유튜브 채널 ‘A급 장영란’에는 장영란이 프랑스 여행을 앞두고 이다도시의 집을 방문한 영상이 올라왔다. &lt;br&gt;&lt;br&gt;이다도시는 1992년 연세대학교 시간강사로 재직하던 중 EBS 프랑스어 방송에 섭외되며 방송계에 입문했다. 그는 당시 남편과의 만남에 대해 “(연세대에서) 일하면서 애들 아빠도 만나게 됐다. 친구들끼리 자연스럽게 만나다 친구 이상이 됐다”고 회상했다. &lt;br&gt;&lt;br&gt;이어 “23세였다. 갑자기 결혼하자더라. 본인이 30세라 결혼 안 하면 안 될 거 같다고 하더라. (집안에) 하나밖에 없는 아들이라 자기 엄마가 무조건 결혼하라고 결혼 타령했다더라”며 이른 나이에 결혼하게 된 배경을 설명했다.&lt;br&gt;&lt;br&gt;이후 이다도시는 KBS ‘아침마당’ 등 여러 프로그램에서 국제 부부로 출연하며 큰 인기를 얻었다. 특히 ‘임신하셨어요?’라는 유행어를 남긴 광고에 대해서는 “너무 잘돼서 (광고를) 세 번이나 찍었다”고 밝혔다. 하지만 수입에 대해서는 “초기 때 그렇게 비싸게 안 받았다. 난 몰랐다. 매니저는 이후에 생겼다. 방송(생활)이 이렇게 길게 갈 줄 몰랐다. 30년 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;장영란이 “건물을 좀 샀냐”고 묻자, 이다도시는 결혼 16년 만에 한국인 남편과 이혼한 사실을 언급하며 고충을 토로했다. 그는 “굉장히 힘들었다. 그때 돈 벌어서 다행이었다. 왜냐면 혼자 다 보탰다. (양육비는) 한 푼도 안 받았다”고 밝혔다. 이다도시는 각각 엔지니어와 MBA 과정을 밟은 아들을 언급하며 “애들이 공부를 너무 잘해서 길게 공부했다”고 말했다.&lt;br&gt;&lt;br&gt;이다도시는 이혼과 동시에 교수직을 준비해 현재 숙명여대 프랑스언어문화학과 전임교수로 16년째 재직 중이다. 그는 “면접 보고 이력서 보내서 됐다”며 “교수로 일하면서 방송에서 예능 쪽으로 일하기가 애매했다”고 전했다. 현재는 교수 활동 외에도 한불상공회의소에서 일하고 있으며, 최근 마크롱 프랑스 대통령과 함께 찍은 사진을 공개하기도 했다.&lt;br&gt;&lt;br&gt;이다도시는 1993년 한국인과 결혼했으나 2009년 이혼했다. 이후 10년간 홀로 두 아들을 키웠으며, 2019년 프랑스인 피에르와 재혼해 현재 한국에서 생활하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GQ3WEZRQMY2DGYRVHFRGCNLEGE.jpg?auth=5354195eb7d65d4b4a4f325e80bcc2cfd2ab65dff598f7a7c632920511eb01bb&amp;smart=true&amp;width=647&amp;height=396" type="image/jpeg" height="396" width="647">
-        <media:description type="plain">방송인 이다도시./유튜브 채널 'A급 장영란'</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>출입구 막고 잠수 타는 ‘주차 빌런’... 이제 걸리면 과태료 최대 500만원 </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/23/FHJU4QZGSFHUNPJMJFHGGRI3KE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/23/FHJU4QZGSFHUNPJMJFHGGRI3KE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 06:38:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTINRRVHXVC7DGF66WTLGXVTNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상가 건물 주차장 출입구 차단기 앞에 차량이 방치된 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;#. 2023년 6월 인천의 8층 상가 지하 주차장 출입구에 한 임차인이 빈 차를 닷새째 방치하는 일이 있었다. 이 임차인은 평소 관리비로 건물 관리소 측과 갈등을 빚었던 것으로 알려졌다. 그러나 차량을 방치한 곳이 도로교통법상 도로가 아닌 상가 건물 내부여서 견인 조치를 할 수 없는 상황이었고, 며칠간 방문 차량들은 통행에 불편을 겪어야 했다. &lt;br&gt;&lt;br&gt;#. 2024년 4월 대구에선 한 운전자가 평소 자주 방문하는 아파트 관리사무소 측이 출입증을 발급해 주지 않는다는 이유로 아파트 주차장 출입구를 약 18시간 가로막은 사건이 있었다. 이 운전자는 업무방해 혐의로 재판에 넘겨져 벌금 200만원을 선고받았다. &lt;br&gt;&lt;br&gt;앞으로 이런 아파트·상가 출입구를 가로막는 행위나 공영 주차장을 장기간 점유하는 행위에 대해 강력한 처벌이 가능해진다. 23일 국토교통부 유튜브에 따르면, 오는 8월 28일부터 주차 방해 행위에 대해 제재를 강화하는 내용의 주차장법 개정안이 시행된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRV6CQOTSNCIVF2QSHLRKOK6XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주차장 진입로 막은 차량/ 보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량으로 진입로를 막는 행위는 화재·응급 상황 발생 시 긴급 차량의 진입을 방해할 수 있어 안전을 위협한다. 그러나 도로교통법상 사유지에 주차된 차량은 불법 주정차 규정을 적용하기 어렵다는 한계가 있었다. &lt;br&gt;&lt;br&gt;주차장법 개정안은 아파트, 상가 출입구 등에서 주차 방해를 할 경우 주차장 관리자가 이 차주에게 이동을 요구할 수 있도록 했다. 이에 응하지 않으면 최대 500만원 이하 과태료 부과와 견인 조치가 가능해진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGSTNMCT2ZIADGYY24MH7NOTNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;신종 코로나바이러스 감염증(코로나19)의 장기화로 캠핑 인구가 빠르게 늘면서 캠핑 카라반의 불법 주정차 문제가 계속해서 늘어나고 있는 가운데 15일 오후 경기 화성 동탄신도시의 한 거리에 캠핑 카라반들이 황색실선 위에 불법 주정차 되어 있다. 2022.3.15/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무료 공영 주차장에서 장기간 차량을 방치하는 이른바 알박기 행위에 대한 제재 기준도 강화된다. 그간 캠핑카나 카라반을 상습적으로 장기 주차하는 얌체족들이 문제가 됐지만 주차 딱지 외에는 제재할 방법이 마땅치 않았다. &lt;br&gt;&lt;br&gt;기존에는 주차 구획을 기준으로 단속했지만 개정안은 단속 기준을 주차장 전체로 확대했다. 주차장 내에서 차량을 옮겨가며 장기 주차하는 행위를 막겠다는 취지다. 정당한 사유 없이 1개월 이상 장기 주차할 경우 100만원 이하의 과태료가 부과된다.&lt;br&gt;&lt;br&gt;정부는 이번 개정으로 반복적이고 고의적인 주차 방해 행위에 대해 더 강력한 대응이 가능해질 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“75차례 거부에도 성폭행 무죄?”… 여성단체들 헌재로</title>
       <link>https://www.chosun.com/national/court_law/2026/04/23/PJCDFPMHTFGQDEZA7SY6W7VCR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/23/PJCDFPMHTFGQDEZA7SY6W7VCR4/</guid>
@@ -922,15 +928,6 @@
       <description/>
       <pubDate>Thu, 23 Apr 2026 06:38:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHSHQA2ZK5OZLCGIE3P3UGMSTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 서울 종로구 헌법재판소 앞에서 열린 '동의없는 성폭력' 관련 재판소원 기자회견에서 참가자들이 피켓을 들고 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성관계 시도에 피해자가 수십 차례나 명확히 거부 의사를 밝혔는데도 폭행·협박이 없었다는 이유로 무죄를 선고한 판결에 대해 여성인권단체들이 23일 헌법재판소에 재판소원을 청구했다.&lt;br&gt;&lt;br&gt;민주사회를 위한 변호사모임(민변) 여성인권위원회, 한국성폭력상담소 등 6개 단체로 구성된 ‘동의 없는 성폭력 재판소원 공동대책위원회’는 이날 오전 11시 서울 종로구 헌재 앞에서 기자회견을 열고, 2심에서 무죄가 확정된 유사 강간 사건에 대해 재판소원을 제기했다고 밝혔다. 이들은 관련자 보호를 위해 법원명 등은 공개하지 않았다.&lt;br&gt;&lt;br&gt;공대위에 따르면, 이 사건 피해자는 가해자가 기습적으로 유사 강간 등 성폭력을 시도하는 과정에서 약 1시간 동안 75차례 이상 거절 의사를 밝혔고, 이는 녹음 파일로도 확인된다. 피해자는 “그만해”, “아파”, “안 돼”라며 저항했지만 1·2심 재판부는 모두 무죄를 선고했다. 당시 재판부는 ‘피고인이 피해자의 내심의 의사를 정확하게 파악하지 못했을 가능성이 없지 않다’는 취지로 판단했다. 폭행이나 협박이 ‘피해자의 반항을 불가능하게 할 정도’는 아니었다는 ‘최협의설’을 적용한 것이다. 이후 검찰이 상고를 포기하면서 이 판결은 대법원의 판단 없이 확정됐다.&lt;br&gt;&lt;br&gt;이에 대해 공대위는 “강간죄의 보호 법익이 ‘여성의 정조’에서 ‘성적 자기결정권’으로 바뀐 지 35년이 넘었음에도 사법부의 시계는 여전히 과거에 멈춰 있다”며 “(사법부가) 기본권 보호 의무를 방기한 것”이라고 했다. 명백한 거부 의사가 입증된 사건에서조차 물리적 폭행이 있었는지만 따지는 것은 헌법상 기본권 보호 의무를 저버린 위헌적 재판이라는 취지다.&lt;br&gt;&lt;br&gt;피해자를 대리해 재판소원을 제기한 오지원 민변 여성인권위원회 소속 변호사는 이날 기자회견에서 “피해자가 1시간 동안 75회 이상의 명시적 거부 의사 표시를 했음이 객관적 증거로 확인됨에도 ‘피해자의 저항이 부족했다’는 낡은 잣대로 가해자에게 면죄부를 준 법원 재판을 바로잡기 위해 이 자리에 섰다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “왜 더 중대한 신체 침해인 유사 강간 사건에서 여전히 피해자에게 ‘죽을 힘을 다해 저항했음’을 증명하라고 요구하느냐”며 “피해자는 아무리 거부했어도 존중받지 못한 상황에서 오히려 법이 요구하는 저항까지 못한 것이 피해자 본인의 잘못이라는 죄책감까지 평생 안고 살아야 한다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “이번 판결은 범죄 피해자인 청구인의 성적 자기결정권, 평등권, 인격권, 그리고 공정한 재판을 받을 권리를 본질적으로 침해했다”며 “피해자가 남은 마지막 구제 수단은 재판소원뿐”이라고 했다.&lt;br&gt;&lt;br&gt;이날 기자회견에서 한선희 천주교성폭력상담소장이 피해자의 글을 대독했다. 피해자는 글에서 “1심 판결문에는 제가 사건 당시 분명한 거부 의사를 표현했다는 사실이 기록돼 있다. 그럼에도 재판부는 같은 판결문에 ‘피고인이 피해자의 내심의 의사를 정확하게 파악하지 못하였을 가능성이 없지 않다’고도 쓰여 있다”며 “피고인이 제 거부 의사를 정확하게 파악하지 못한 것은 ‘오해’에서 비롯된 것이 아니라 수십 차례 거부 의사를 말하는 제 말을 ‘무시’했기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “그날 밤의 일이 저를 무너뜨렸다고 생각했다. 그러나 저를 더 큰 절망에 빠트리고 세상에 대한 불신을 갖게 한 것은 ‘피해자인 저를 보호하지 않겠다’고 말하는 이 두 재판의 판결문이었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 헌재를 향해 “부디 이 사건을 문 앞에서 돌려보내지 말아 달라”며 “가해자의 논리로 재해석되지 않는 나라, 어느 재판부를 만나느냐가 피해자의 운명을 결정하지 않는 나라, 그 시작이 부디 이 사건이기를 간절히 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 전 대통령 친구 사망케 한 대리기사, 항소심도 금고형</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/23/ZK4LB7VLDVAPNOTLZWEUJORRLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/23/ZK4LB7VLDVAPNOTLZWEUJORRLE/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 06:37:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DC45NXUAZRMIFOE2H5C4QCQ4EA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 아파트에서 테슬라 차량을 몰던 중 주차장 벽을 들이받아 조수석에 타고 있던 차주 윤모 씨를 숨지게 해 재판에 넘겨진 대리운전 기사 A씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량 대리 운전을 하다 가속 페달을 잘못 밟아 윤석열 전 대통령 친구인 차주를 숨지게 한 대리기사가 항소심에서도 금고형을 선고받았다.&lt;br&gt;&lt;br&gt;23일 서울서부지법 형사1부(재판장 반정우)는 교통사고처리특례법 위반(치사) 혐의로 기소된 대리기사 최모(65)씨에게 1심 판결과 같은 금고 1년형을 선고했다. 금고는 수형자를 교도소에 가두지만 징역과 달리 강제노동은 집행하지 않는 형벌이다.&lt;br&gt;&lt;br&gt;앞서 최씨와 검찰 측이 ‘형이 부당하다’며 항소를 제기했지만, 재판부는 “1심 양형은 합리적인 범위 내에서 이뤄졌다”며 기각했다. 운행정보상 사고 당시 가속페달 변위량이 29.6%에서 100%로 점차 증가한 점, 브레이크 페달을 밟은 기록이 없는 점을 들어 최씨 측의 ‘차량 급발진’ 주장도 인정하지 않았다.&lt;br&gt;&lt;br&gt;최씨는 지난 2020년 12월 서울 용산구 한남동 소재 아파트 지하 주차장에서 테슬라 차량을 몰다 주차장 벽을 들이받았다. 충돌 당시 차량 속도는 약 시속 95km였다. 이 사고로 차량 화재가 나면서 조수석에 타고 있던 차주 A(당시 60세)씨가 숨졌다. A씨는 대형 로펌 변호사로, 윤 전 대통령의 40년 지기 친구로도 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘해든이’ 학대 살해 친모 ‘무기징역’… 법원 “아이 분풀이 대상 삼았다”</title>
