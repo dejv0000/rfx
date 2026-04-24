@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법, ‘기자 희화화’ 캐리커처 그려 게시한 작가에 1인당 300만원 배상 판결 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/24/OGJJUNAGLNEORDWVT474YJSRCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/OGJJUNAGLNEORDWVT474YJSRCM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 12:30:03 +0000</pubDate>
+      <content:encoded>대법원이 기자들을 희화화해 그린 캐리커처를 소셜미디어에 게시한 작가에게 “기자 1인당 300만원을 지급하라”는 판결을 확정했다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 대법원 2부(주심 박영재 대법관)는 기자 20명이 작가 박모씨를 상대로 낸 손해배상 청구 소송에서 박씨의 배상 책임을 인정한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTSODBMM4GCMRQGJSDMNDEGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박씨는 2020년 4월부터 2021년 11월까지 소셜미디어에 기자들을 희화한 캐리커처를 그려 게시했다. 이때 대상 기자의 실명, 소속 언론사와 사진도 함께 올렸다. 캐리커처 아래에는 ‘ㄱㄷㄱㅌㅊㅍㄹㅈㅌ(기더기퇴치프로젝트)’라는 초성을 기재하고 기자들 외모를 조롱, 비난하는 댓글을 달았다.&lt;br&gt;&lt;br&gt;서울민족예술단체총연합(서울민예총)은 2022년 6월 ‘굿바이 시즌2-언론 개혁을 위한 예술가들의 행동’ 전시회에서 박씨가 그린 전·현직 기자, 정치인 등 100여 명의 캐리커처를 전시했다. 이에 기자들은 박씨의 행위가 명예훼손, 모욕, 초상권 침해 등에 해당한다며 1인당 1000만원의 위자료를 청구했다.&lt;br&gt;&lt;br&gt;1심은 지난 2024년 6월 박씨가 기자들에게 100만원씩 지급하고, 관련 게시글을 삭제하라고 판결했다. 서울민예총에겐 기자 1인당 30만원씩 공동 배상하라고 했다. 1심은 “박씨가 그린 캐리커처는 원고들의 얼굴을 함부로 그림으로 묘사하고 공표해 원고들의 초상권을 침해했다”며 “캐리커처는 기자들의 얼굴을 과장하여 기괴하고 혐오스럽게 묘사했고, ‘기레기’ ‘기더기’ 등 모멸적인 표현이 사용된 데다 외모 비하 댓글도 달렸다”며 모욕이 인정된다고 했다.&lt;br&gt;&lt;br&gt;2심은 지난해 11월 박씨의 게시물이 인신 공격(모욕)과 초상권 침해에 해당한다고 보고 기자 1인당 배상액을 300만원으로 늘렸다. 다만 1심과 달리 서울민예총의 책임은 인정하지 않았다. 서울민예총이 박씨와 불법행위를 공모했거나 방조했다고 볼 수 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘핼러윈 참사’ 前 용산소방서장, 검찰 재수사 끝에 재판행</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/24/KRI6PI55XJF6XE4A3WZLZ4WVH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/KRI6PI55XJF6XE4A3WZLZ4WVH4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 11:01:15 +0000</pubDate>
+      <content:encoded>핼러윈 참사 당시 현장 구조를 총괄했던 최성범 전 용산소방서장이 검찰 재수사 끝에 재판에 넘겨졌다. 검찰이 한 차례 불기소 처분했던 판단을 뒤집은 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CJ5N6FAKRN6NEXPOQXW36IUS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 13일 서울 중구 은행회관에서 10·29 이태원참사 진상규명과 재발방지를 위한 특별조사위원회가 연 청문회에서 최성범 당시 용산소방서장이 위원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지검 이태원 참사 진상규명을 위한 검·경 합동수사팀은 24일 최 전 서장을 업무상 과실치사상 혐의로 불구속 기소했다. 다만 같은 혐의를 받는 이봉학 전 용산소방서 현장지휘팀장에 대해서는 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;검찰에 따르면 최 전 서장은 2022년 10월 서울 이태원에서 참사가 발생하기 전, 인파가 집중돼 사고가 발생할 위험성을 충분히 인식할 수 있었음에도 별다른 안전 조치를 취하지 않은 것으로 조사됐다. 참사 발생 이후에도 피해자 구조 등 대응 조치도 적시에 제대로 취하지 않았던 것으로 나타났다.&lt;br&gt;&lt;br&gt;검찰은 2024년 1월 최 전 서장과 이 전 팀장의 업무상 과실치사상 혐의에 대해 불기소 처분을 내렸다. 그러나 올해 1월 ‘10·29 이태원 참사 진상규명과 재발 방지를 위한 특별조사위원회’가 이들에 대한 재수사를 의뢰하면서, 검찰이 다시 수사에 나선 것이다. 앞서 검찰은 김광호 전 서울경찰청장과 서울경찰청 상황관리관이던 류미진 총경, 112 상황실 관계자 등은 업무상 과실치사상 혐의로 불구속 기소한 바 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후 재판 과정에서 죄에 상응하는 형이 선고될 수 있도록 공소 유지에 만전을 기하고, 수사 중인 다른 사건에 대해서도 엄정하게 수사하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유동규 “檢 압박 아닌 이재명 배신감에 사실 털어놔”…국조특위 남욱 발언 반박</title>
       <link>https://www.chosun.com/national/court_law/2026/04/24/NZPV3EXCKVHO3ALFGH3MDBPRGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/NZPV3EXCKVHO3ALFGH3MDBPRGQ/</guid>
@@ -911,16 +929,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/NJCND2VQPNFOBAE23BVOKD2OVM.png?auth=7600900681bc0f35c1e1dd8ae03fb5f619c871612c2c7b788b09e4a41e43b3e6&amp;smart=true&amp;width=1000&amp;height=563" type="image/png" height="563" width="1000"/>
     </item>
     <item>
-      <title>[오늘의 운세] 4월 24일 금요일 (음력 3월 8일 戊辰)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/23/WLEF5WI2DFFW5L7A7SD2NUJ65Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/23/WLEF5WI2DFFW5L7A7SD2NUJ65Q/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
       <title>“75차례 거부에도 성폭행 무죄?”… 여성단체들 헌재로</title>
       <link>https://www.chosun.com/national/court_law/2026/04/23/PJCDFPMHTFGQDEZA7SY6W7VCR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/23/PJCDFPMHTFGQDEZA7SY6W7VCR4/</guid>
@@ -946,15 +954,6 @@
       <description/>
       <pubDate>Thu, 23 Apr 2026 05:37:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSDGNJSGYZTOYRTGNQTSNLFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보건소 방역 기동반 직원들이 방역을 하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 첫 중증열성혈소판감소증후군(SFTS) 환자가 울산광역시에서 발생했다. SFTS는 치명률(사망률)이 18%에 달하고, 치료제와 백신이 없어 예방 수칙을 준수하는 것이 최선이다.&lt;br&gt;&lt;br&gt;질병관리청은 지난 21일 올해 처음으로 SFTS 환자가 발생했다고 23일 밝혔다. 첫 환자는 울산광역시에 거주하는 70대 남성이다. 울주군 소재 텃밭에서 농작업 후 근육통, 발열, 오한, 식욕 감소 증상 등이 나타나 병원을 방문했다. SFTS 진단 검사 결과 양성으로 확인됐고, 현재는 미열 증세로 입원 치료 중이다.&lt;br&gt;&lt;br&gt;SFTS는 4~11월 사이 SFTS 바이러스를 갖고 있는 참진드기에 물려 감염된다. 물린 후 2주 이내 고열, 오심, 구토, 설사 증상 등이 나타난다. 중증일 경우 혈소판·백혈구 감소, 다발성 장기 부전 등으로 사망할 수 있다.&lt;br&gt;&lt;br&gt;SFTS는 2013년 법정 감염병으로 지정된 이후 지난해까지 총 2345명의 환자가 발생했다. 그중 422명이 사망해 누적 치명률은 18.0%다.&lt;br&gt;&lt;br&gt;지난해 지역별 SFTS 환자 수는 경상북도 45명(16.1%), 경기도 42명(15.0%), 강원도 31명(11.1%) 순이었다. 성별은 남성이 51.1%(143명), 여성이 48.9%(137명)로 비슷했다.&lt;br&gt;&lt;br&gt;SFTS는 치료제와 예방 백신이 없다. 야외 활동을 할 때는 긴 옷과 모자, 양말 등을 착용해 노출 부위를 줄이고, 기피제를 사용해야 한다. 돗자리 없이 풀밭에 앉지 말아야 하고, 귀가 후에는 즉시 샤워하고 입은 옷은 세탁하는 것이 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송경호 前 지검장 “국회 청문회는 기획된 연극, 사법시스텝 파괴 피해는 국민 몫”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/22/GDOMUMBF2BENBJE7YF3KBXW5XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/22/GDOMUMBF2BENBJE7YF3KBXW5XA/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Apr 2026 08:19:00 +0000</pubDate>
-      <content:encoded>‘대장동 개발 비리’ 사건 수사를 지휘한 송경호 전 서울중앙지검장은 22일 국회의 ‘검찰 조작기소 청문회’를 “사전 대본에 따라 치밀하게 기획된 연극”으로 규정하며 “국정 운영의 한 축을 책임지는 이들이 정파적 이익을 위해 형사사법 시스템을 무력화하고, 사법부 판단을 부정하며, 헌법상 보장된 방어권마저 조롱하는 행태는 중단돼야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWO3UWQA7VJ2RHHXX3QQPREFXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송경호 전 서울중앙지검장이 지난 16일 국회 '윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명' 국정조사특별위원회에서 열린 대장동·위례 개발비리 및 김용 전 민주연구원 부원장 관련 의혹 사건에 대한 청문회에서 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 전 지검장은 이날 A4 용지 9장 분량의 입장문에서 “재판·수사 중인 사건을 겨냥한 청문회는 사법부의 고유 영역을 침범하는 위헌적 시도”라며 “특정 피고인의 이해관계를 대변하며 법 집행 공직자들을 근거 없이 죄인으로 몰아가는 청문회 연극은 중단돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;그는 특히 국회 의결을 거쳤다는 이유만으로 청문회의 정당성이 확보되는 것은 아니라는 점을 강조했다. 절차적 적법과 실체적 적법은 별개인데도, 더불어민주당 등 여권이 다수결로 의결을 일방 처리한 뒤 ‘조작 기소’ 프레임을 덧씌워 사법 판단에 개입하고 있다는 것이다. 그러면서 그는 “차라리 국회 입법으로 ‘공소 취소’라는 목적을 직접 달성하시라”고도 했다. &lt;br&gt;&lt;br&gt;그는 대장동 사건의 핵심 증거인 ‘정영학 녹취록’에 이재명 대통령의 이름이 나오지 않는다는 여권의 주장도 정면으로 반박했다. 송 전 지검장은 “1300여 쪽 분량의 녹취록에는 ‘이재명’ 또는 ‘시장님’이라는 표현이 21차례 나온다”면서 “2012년 9월에는 남욱 변호사가 ‘유동규, 이재명, 최윤길 세 사람이 처음부터 각본을 짜서 진행한 것’이라고 말한 대목이 있고, 2013년에는 유동규 전 본부장이 ‘내가 시장님을 다 설득할 수 있다’고 언급한 내용도 있다”고 했다. 또 2020년 3월에는 김만배씨가 “나중에 ‘이재명 님’ 청와대 가면은”이라고 말한 내용도 있다고 한다.&lt;br&gt;&lt;br&gt;게다가 2021년 1월 녹취에선 김만배씨가 “정진상이 20억원을 요구하는데 지금 당장 돈이 없다”고 말하는 등 이 대통령 최측근의 불법 자금 요구 정황까지 확인됐다고 밝혔다. 이런 내용이 담긴 ‘정영학 녹취록’은 객관적 물증으로 법원에서도 채택됐는데, 그럼에도 민주당이 “이 대통령 관련 이름이 전혀 나오지 않는다”고 주장하는 것은 국민을 기만하는 것이라는 게 송 전 지검장의 주장이다. 그는 아울러 청문회 과정에서 제기된 검찰의 증거 조작 의혹도 이미 사법부 심리를 거쳐 객관적 근거가 없는 것으로 판명됐다고 했다. &lt;br&gt;&lt;br&gt;송 전 지검장은 청문회 운영 방식에 대해서도 거세게 비판했다. 그는 “일부 위원들이 증인 발언을 가로막고 고압적 태도로 압박했으며, 위원 중에는 조사 대상 사건 피고인의 변호인도 포함돼 있다”고 했다. 이번 청문회가 실체적 진실 규명보다는 최고 권력자 관련 수사를 ‘조작’으로 규정해 특검 도입 명분을 쌓고, 종국적으로는 공소를 무력화해 면죄부를 주려는 시도라는 것이다. 그는 “사법 시스템이 흔들리면 그 피해는 법의 보호가 절실한 서민에게 돌아간다”며 “이 비극적인 연극의 결말이 누구의 피해로 돌아가게 될지 국민들이 엄중히 판단해 달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
