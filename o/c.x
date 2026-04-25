@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북·울산 해상서 다이버·어선 선장 실종...해경 수색중</title>
+      <link>https://www.chosun.com/national/regional/2026/04/25/OWSWFMGCW5AJ5AGFU2E42BOUQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/25/OWSWFMGCW5AJ5AGFU2E42BOUQI/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 09:19:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PB2JGDNUN5MGXP2SPDHDXVR2KU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 울산 동구 앞바다에서 조업하던 70대 선장이 실종돼 해경이 수색 작업을 벌이고 있다./울산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북과 울산에서 수중 레저활동을 하던 다이버와 조업에 나선 선장이 실종됐다.&lt;br&gt;&lt;br&gt;해경에 따르면 이날 오전 10시 33분쯤 울진군 죽변항 인근 해상에서 수중레저활동을 하던 다이버 A씨가 실종됐다. 당시 A씨 등 모두 7명이 오전 9시 50분쯤 바다에 입수했으나 이중 A씨만 해상으로 올라오지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 8시 22분쯤에는 혼자 조업을 나간 70대 선장이 입항하지 않았다는 신고가 접수됐다. 선장 B씨는 조업을 나간다며 이날 오전 2시 27분쯤 울산 동구 화암항에서 출항한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 해경은 슬도에서 1.8여km 떨어진 해상에서 엔진이 켜진 B선장 소유의 어선을 발견했다. 하지만 어선 안에는 고기잡이 그물이 내려진 흔적만 있을 뿐 B씨는 없었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 함정과 연안구조정, 헬기 등을 투입해 실종된 다이버와 선장에 대한 집중 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광화문 집회 또 나온 전광훈 “서부지법 난동범 몰라...교사도 안 해”</title>
       <link>https://www.chosun.com/national/national_general/2026/04/25/HSTQOMAGVJDBLHNOOXTZOR5KUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/HSTQOMAGVJDBLHNOOXTZOR5KUU/</guid>
@@ -925,15 +934,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GM3DAZJRGZQTKNJZMY3GIYTEGM.jpg?auth=060bc6d8fe70012187c873e84a8e96ce59eb9abd438495f4fdebcd45b74a96b9&amp;smart=true&amp;width=559&amp;height=293" type="image/jpeg" height="293" width="559">
         <media:description type="plain">임우재 전 삼성전기 고문./연합뉴스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>국토부, 테슬라 FSD 무단 활성화한 차주들 수사 의뢰</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/04/23/BW4BAN3CJRH7RLOCYZTAJAVAUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/23/BW4BAN3CJRH7RLOCYZTAJAVAUM/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 09:25:40 +0000</pubDate>
-      <content:encoded>국토교통부가 테슬라 차량의 완전자율주행 기능을 무단으로 해제한 차주들에 대해 수사를 의뢰했다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRGKYTCMFQTKNRZMJRWEYJXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미 캘리포니아 한 테슬라 매장 앞에서 충전 중인 테슬라 모델 Y 차량./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 국토부는 “자동차에 설치된 소프트웨어를 임의로 변경한 사례들에 대해 경찰청에 수사를 의뢰했다”고 밝혔다. 최근 국내 테슬라 이용자들 사이에선 자율주행 기능인 FSD(Full Self-Driving·완전 자율 주행)를 무단으로 활성화하는 ‘탈옥’ 사례가 나타나고 있기 때문이다.&lt;br&gt;&lt;br&gt;앞서 국토부는 지난달 “FSD 기능을 무단 활성화할 경우 자동차관리법에 따라 처벌받게 된다”고 밝혔다. 자동차 제작사 역시 소프트웨어가 임의로 변경될 경우 해당 차량을 원격으로 비활성화하도록 하고 있다. 그럼에도 자율주행 기능 무단 해제 사례가 이어지면서 경찰 수사로 이어지게 된 것이다. 경찰청은 제작사로부터 관련 자료를 제출받아 수사를 개시할 계획이다.&lt;br&gt;&lt;br&gt;현재 국내에서는 FSD 기능 사용이 제한되고 있다. 자동차관리법에 따르면 해당 소프트웨어를 무단 활성화할 경우 2년 이하의 징역 또는 2000만원 이하의 벌금에 처해질 수 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국립의전원 2030년 문 연다…공공의료 15년 의무 복무</title>
