@@ -13,6 +13,65 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광화문 집회 또 나온 전광훈 “서부지법 난동범 몰라...교사도 안 해”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/HSTQOMAGVJDBLHNOOXTZOR5KUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/HSTQOMAGVJDBLHNOOXTZOR5KUU/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 08:11:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSDKNBSHAZGGMRXGVTDQYJUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국바로세우기국민운동본부(대국본)가 지난 18일 서울 종로구 동화면세점 앞에서 주최한 집회 무대에 올라 발언하는 전광훈 사랑제일교회 목사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 폭력 난동 사태의 배후로 지목돼 구속 기소됐다가 병원 치료 등 사유로 풀려나 재판을 받고 있는 전광훈 사랑제일교회 목사가 또다시 광화문 집회에 참석했다.&lt;br&gt;&lt;br&gt;전 목사는 대한민국바로세우기국민운동본부(대국본)가 25일 서울 종로구 동화면세점 앞에서 주최한 집회 무대에 올라 서부지법 난동범들에 대해 “알지도 못하는 사람들이고 (범행을) 교사한 적도 없다”며 혐의를 재차 부인했다.&lt;br&gt;&lt;br&gt;그는 “서울구치소에 3번 구속됐는데, 100% 무죄를 받아 법무부로부터 6000만원의 보상금을 받았다”며 “이번 재판도 틀림없이 3000만원의 보상금을 받을 것 같다”고 주장했다. 전 목사는 집회 참가자들에게 “내가 없으면 광화문이 존재할 수가 없다” “대한민국 헌법은 자유민주주의 질서 안에서 평화 통일을 명령하고 있다. 국민들이 너무 멍청해서 수없이 외쳐도 못 알아듣는다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난 7일 전 목사가 당뇨병에 의한 비뇨기과 질환으로 주기적으로 병원 치료를 받아야 하는 점, 얼굴이 널리 알려져 도주하기 쉽지 않은 점 등을 고려해 사건 관계인 접촉 금지 등을 조건으로 보석을 허가했다. 보석은 구속된 피고인에게 보증금을 받거나 보증인을 세워 일부 조건을 걸고 잠시 석방하는 제도다.&lt;br&gt;&lt;br&gt;다만, 법원이 집회 참석 제한 조건은 두지 않아 지난 18일 전 목사는 보석 후 처음으로 집회 현장에 직접 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안성재 미쉐린 식당 ‘와인 교체’ 피해자 “사과 받았다...보상 바란 적 없어”</title>
+      <link>https://www.chosun.com/national/people/2026/04/25/I2YMC4WNJNHPTMJJUWOETKFTJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/25/I2YMC4WNJNHPTMJJUWOETKFTJY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 05:13:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TSYZWMRRDSNZTMJSTSNTEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안성재 셰프./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안성재 셰프가 운영하는 파인다이닝 레스토랑 ‘모수 서울’이 와인 바꿔치기 논란에 대해 사과한 가운데, 피해를 주장한 고객이 모수 측으로부터 직접 사과를 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;피해 고객 A씨는 지난 24일 온라인 커뮤니티에 모수에서 겪은 와인 바꿔치기 논란과 관련해 모수 측과 나눈 대화 내용을 추가로 공개했다.&lt;br&gt;&lt;br&gt;A씨는 사건 발생 사흘 만인 지난 21일 모수 측과 3차례 통화했다고 밝혔다. 그는 모수 측으로부터 사과를 받았고, 식사 초대도 받았지만 이를 거절했다고 했다. A씨는 거절 이유에 대해 “식사를 다시 사더라도 저를 포함한 일행, 서비스를 해주시는 분들 모두 불편한 자리가 될 것이기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 21일 폭로 글을 올리기 전 모수 측에 연락했지만, “바라는 게 있느냐”는 취지의 질문을 받았다고 했다. 이에 A씨는 “보상을 바라고 연락드린 것은 아니다”라고 답했다고 전했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 18일 저녁 지인들과 함께 모수를 방문했다. 당시 담당 소믈리에가 80만원 상당의 2000년 빈티지 와인 대신 10만원가량 저렴한 2005년 빈티지 와인을 잘못 서빙했다. A씨는 이후 문제를 제기했지만 사과 없이 ‘다른 빈티지도 맛보게 해드리겠다’는 식으로 응대받았다고 주장했다.&lt;br&gt;&lt;br&gt;논란이 커지자 모수 측은 지난 23일 공식 인스타그램을 통해 사과문을 냈다. 모수 측은 “서비스 과정에서 고객님께 정확한 안내가 이뤄지지 않아 혼선을 드리고 이후 응대 과정에서도 충분한 설명을 드리지 못해 큰 실망을 안겨 드린 점에 대해 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “안성재 셰프를 비롯한 저희 팀 모수 전원은 이번 사안을 매우 엄중하게 받아들이고 있다”며 “관련 서비스 전반을 점검하고 재발 방지를 약속드린다. 보여 주기식 사과에 그치지 않고, 진정성 있는 자세로 고객님과의 신뢰를 다시 쌓아 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;모수 서울은 2023년 국내 유일 미쉐린 가이드 3스타로 선정됐으나, 식당 이전 문제로 문을 닫았다. 이후 지난해 3월 서울 이태원에서 다시 문을 열었고, 1년 만인 지난 3월 2스타를 받아 미쉐린 가이드에 다시 이름을 올렸다. 이곳의 디너 가격은 1인당 42만원 수준이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세계 바다지도서 ‘일본해’ 사라진다</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/LOIT3WI7T5DLDLKCUPL7ME3ZJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/LOIT3WI7T5DLDLKCUPL7ME3ZJU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 07:57:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCMT6WT6R5VLDYTOOOQAVZIFUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘Sea of Japan(일본해)’이라고 표기된 동해 지도 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국제수로기구(IHO)가 최근 총회를 열고 바다 이름을 지명 대신 고유 식별 번호로 표기하는 디지털 표준을 정식 채택했다. &lt;br&gt;&lt;br&gt;25일 해양수산부 등에 따르면 지난 19일부터 23일까지 모나코에서 열린 제4차 IHO 총회에서 새로운 디지털 데이터셋 S-130이 완성돼 정식 채택됐다. IHO는 선박 항해에 반드시 필요한 해도 및 해양 정보의 표준 개발과 관리를 담당하는 정부 간 국제기구다. &lt;br&gt;&lt;br&gt;S-130은 해역을 지명 대신 고유 번호로 표기하는 디지털 방식의 새로운 해도집 표준이다. 전자 항해와 지리 정보 체계 활용에 적합하도록 명칭보다 숫자 기반 식별 체계를 도입한 것이 특징이다.&lt;br&gt;&lt;br&gt;이에 따라 향후 IHO 체계에서는 모든 바다가 고유 식별 번호로 관리된다. 번호는 각 해역 중심점의 위도와 경도를 조합해 부여된다.&lt;br&gt;&lt;br&gt;IHO는 표준 해도집인 S-23 초판을 일제강점기였던 1929년 발간하면서 동해를 ‘일본해(Sea of Japan)’로 단독 표기했다. 이에 한국 정부는 1997년부터 동해와 일본해를 병기하자는 외교전을 펴왔다.&lt;br&gt;&lt;br&gt;비록 일본해 단독 표기를 동해 병기로 바꾸지는 못했지만, 향후 도입될 디지털 표준에서는 바다 명칭 자체가 사용되지 않게 됐다는 점에서 의미가 있다.&lt;br&gt;&lt;br&gt;조현 외교부 장관은 S-130 데이터셋 채택에 대해 “그간의 다각적인 외교적 노력의 성과라는 데 의미가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CESEBUXRRFAUDAKHSWEZ4TSG3Y.jpg?auth=fb38a2f5447f711e82ade4820ff3e1f30c5ca8f6d536c9ccf5b2294a9d7ef8e3&amp;smart=true&amp;width=314&amp;height=235" type="image/jpeg" height="235" width="314">
+        <media:description type="plain">‘Sea of Japan(일본해)’이라고 표기된 동해</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진=박영언씨 블로그 캡처</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“내가 애인해도 되겠어?”…등산하던 젊은 여성들에 추파 던진 노인</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/G6DDBWDOZZDZTBUQSW4M6ZMTNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/G6DDBWDOZZDZTBUQSW4M6ZMTNY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 06:54:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKNVAAMDF5BONCHZ6TQ2R47TNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노인이 여성들에게 자신이 애인을 해도 되겠냐고 묻는 장면. /유튜브 ‘산 속에 백만송희’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대로 추정되는 노인이 30대 여성들에게 추파를 던지는 영상이 공개돼 논란이 일고 있다. &lt;br&gt;&lt;br&gt;25일 온라인 커뮤니티 등에 따르면, 구독자 33만명의 등산 전문 유튜버 ‘산 속에 백만송희’는 지난 2일 여동생과 함께 경기 부천시에 있는 원미산을 찾아 영상을 촬영했다.&lt;br&gt;&lt;br&gt;공개된 영상을 보면 등산 중에 쉬고 있는 이들에게 한 노인이 다가오더니 “여기 앉을게”라며 옆에 앉았다.&lt;br&gt;&lt;br&gt;이 노인은 자리에 앉자마자 “아이고 예뻐라, 몇 살?” 등의 말을 걸었고, 이들은 웃으며 “서른 살이다”라고 답했다. 노인은 “뭐야? 서른 살이야? 내 딸은 40이 훨씬 넘었지”라고 말했다.&lt;br&gt;&lt;br&gt;여성들이 “진짜요? 그렇게 안 보이신다”라고 덕담을 건네자 노인은 갑자기 “애인 해도 되겠어?”라고 물었다.&lt;br&gt;&lt;br&gt;당황한 여성들이 “뭐라고요?”라고 되묻자 노인은 재차 “애인 해도 되겠냐고”라고 말했다.&lt;br&gt;&lt;br&gt;여성들이 “누가요?”라고 하자 노인은 “나”라고 했다. 여성들은 굳은 표정으로 “그건 안 되죠”라고 답하고 자리를 떠났다. &lt;br&gt;&lt;br&gt;여성들은 “잘못 들은 줄 알았다. 난 처음에 ‘애인 생겨야겠어’ 이렇게 들었다”며 불쾌감을 드러냈다. &lt;br&gt;&lt;br&gt;해당 영상은 ‘등산하는 여자 꼬시는 할배’ 등의 제목으로 온라인상에 확산돼 논란이 됐다. 영상을 접한 네티즌들은 “딸보다 어린 여성들에게 무슨 추태냐” “너무 소름이 돋는다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;한편 최근 온라인상에는 여성들이 혼자 산에 올랐다가 범죄 피해를 당할 뻔했다는 경험담이 다수 올라와 불안감이 커지고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 4월 26일 일요일 (음력 3월 10일 庚午)</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/44URTHP7XZBCPAHFFAXW6TTAKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/44URTHP7XZBCPAHFFAXW6TTAKI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>송상교 진실화해위원장, 창원 한국전쟁 민간인 희생자 추모제 참석</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/ZT3N6DAK2FA6HDBMSAN3J7MEZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/ZT3N6DAK2FA6HDBMSAN3J7MEZE/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 06:50:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYDGMTCMI2TIZRRME2GMOJSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송상교 3기 진실·화해를 위한 과거사정리위원회(진실화해위) 위원장이 지난달 4일 오후 서울 중구 진실화해위원회 대회의실에서 열린 취임식에서 취임사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송상교 3기 진실·화해를 위한 과거사정리위원회(진실화해위) 위원장이 취임 이후 처음으로 한국전쟁 전후 민간인 희생자 추모제에 참석해 “이념적 잣대가 아닌 피해자를 위한 과제에 집중하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;송 위원장은 25일 오후 경남 창원시에서 열린 ‘제76주년 제19회 창원 합동추모제’에 참석해 이같이 말했다.&lt;br&gt;&lt;br&gt;송 위원장은 이날 추도사에서 “충분히 밝혀지지 못한 희생을 더 밝혀내고 유해 발굴과 신원 확인, 명예 회복과 후속 조치가 실질적으로 진전될 수 있도록 맡은 책무를 다하겠다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 1·2기 진실화해위는 한국전쟁 전후 경남 창원과 마산 주민들 다수가 마산 형무소 등에 불법 구금됐고, 일부가 아리송골과 나밭고개 등에서 집단 살해된 사실을 확인했다. 구금된 이들 중 일부는 해군 함정에 탄 채로 바다에 집단 수장(水葬)됐다고 한다.&lt;br&gt;&lt;br&gt;송 위원장은 추모제 후 안병욱 1기 진실화해위원장과 만나 3기 활동에 대한 의견을 들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>종합특검, 검찰 내부망 서버 압수수색…심우정 계엄 관여 의혹 관련</title>
       <link>https://www.chosun.com/national/court_law/2026/04/25/ID673XKIQRAH5FOSYMW5PSJMCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/25/ID673XKIQRAH5FOSYMW5PSJMCA/</guid>
@@ -856,42 +915,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YBVYQBDP5LETAEMMILNUI63NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정원오 더불어민주당 서울시장 후보와 오세훈 국민의힘 서울시장 후보가 지난 22일 서울 용산구 백범김구기념관에서 열린 서울시사회복지사협회 창립 40주년 기념 행사에서 만나 악수하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 여야 서울시장 후보 확정 뒤 첫 여론조사에서 정원오 더불어민주당 후보 지지율이 오세훈 국민의힘 후보를 10%포인트(p) 넘게 앞서는 것으로 나타났다.&lt;br&gt;&lt;br&gt;CBS가 여론조사 업체 한국사회여론연구소(KSOI)에 의뢰해 지난 22~23일 서울에 사는 18세 이상 1001명에게 시행해 24일 공개한 조사에 따르면, 서울시장 선거 가상 대결에서 정 후보를 지지한다는 응답자가 전체의 45.6%로, 오 후보를 지지한다는 응답자 35.4%보다 10.2%p 많았다. 그 밖의 인물을 지지한다는 응답자는 7.0%, 지지 후보가 없다는 응답자는 7.0%, 잘 모르겠다는 응답자는 5.0%였다.&lt;br&gt;&lt;br&gt;이번 지방선거에서 ‘정부에 힘을 실어주기 위해 여권 후보를 선택해야 한다’는 응답자는 46.6%로, ‘정부를 심판하기 위해 야권 후보를 선택해야 한다’는 응답자 37.2%보다 9.4%p 많았다.&lt;br&gt;&lt;br&gt;서울 구청장 선거에서 민주당 후보를 뽑겠다는 응답자는 43.2%로, 국민의힘 후보를 뽑겠다는 응답자 31.7%보다 11.5%p 많았다.&lt;br&gt;&lt;br&gt;다만 서울교육감 선거에서는 보수 성향 후보를 뽑겠다는 응답자가 38.5%로, 진보 성향 후보를 뽑겠다는 응답자 38.1%와 비슷했다.&lt;br&gt;&lt;br&gt;이 조사에서 민주당을 지지한다는 응답자는 44.2%로, 국민의힘 지지자 31.5%보다 12.7%p 많았다. 개혁신당 지지자는 3.7%, 조국혁신당 지지자는 3.3%였다.&lt;br&gt;&lt;br&gt;스트레이트뉴스가 조원씨앤아이에 의뢰해 지난 20~21일 서울 거주 18세 이상 802명을 대상으로 한 조사에서는 정 후보를 지지한다는 응답자가 49.7%로, 오 후보를 지지한다는 응답자 35.9%보다 13.8%p 많았다. 지지 후보가 없다는 응답자는 8.8%, 잘 모르겠다는 응답자는 5.6%였다.&lt;br&gt;&lt;br&gt;정 후보는 모든 지역에서 오 후보에게 앞섰다. 서울 북동부(강북·도봉·노원·성북·동대문·중랑·성동·광진구)에서는 정 후보 54.2%, 오 후보 32.0%로 22.2%p 격차가 났고, 서남부(강서·양천·영등포·동작·구로·금천·관악구)에서는 정 후보 48.9%, 오 후보 35.7%로 13.2%p 격차가 났다. 북서부(은평·종로·서대문·중·마포·용산구)에서는 정 후보 44.0%, 오 후보 36.6%로 7.4%p 차, 남동부(서초·강남·송파·강동구)에서는 정 후보 48.8%, 오 후보 41.4%로 7.4%p 차였다.&lt;br&gt;&lt;br&gt;응답자 연령별로 보면, 50대는 정 후보 62.3%, 오 후보 24.2%, 40대는 정 후보 53.3%, 오 후보 34.0%, 60대는 정 후보 52.9%, 오 후보 34.5%였다. 30대는 정 후보 50.4%, 오 후보 37.3%, 70대 이상은 정 후보 49.5%, 오 후보 38.5%였다. 10·20대(18~29세)에서만 오 후보가 47.5%로 정 후보 29.6%보다 높았다.&lt;br&gt;&lt;br&gt;이 조사에서 민주당을 지지한다는 응답자는 49.6%, 국민의힘을 지지한다는 응답자는 33.8%였다.&lt;br&gt;&lt;br&gt;CBS·KSOI 조사는 무선 전화 ARS 방식으로 이뤄졌다. 응답률은 5.1%, 표본 오차는 95% 신뢰 수준에서 ±3.1%p다. 스트레이트뉴스·조원씨앤아이 조사도 무선 전화 ARS 방식으로 이뤄졌다. 응답률은 6.3%, 표본 오차는 95% 신뢰 수준에서 ±3.5%p다. 그 밖의 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“금정산 국립공원  마스코트 됐어요”</title>
-      <link>https://www.chosun.com/national/regional/2026/04/24/LK7OBR6FIRHDDEXN2S4OM66G7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/24/LK7OBR6FIRHDDEXN2S4OM66G7E/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4N3GWVHND5FZBJH3PMXOE45SC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가는동자꽃(왼쪽)·고리도롱뇽(오른쪽)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 첫 ‘도심형 국립공원’인 금정산의 깃대종으로 ‘가는동자꽃’과 ‘고리도롱뇽’이 선정됐다고 금정산국립공원사무소가 23일 밝혔다. 깃대종은 특정 지역의 생태, 지리, 문화적 특성을 보여주는 상징적인 야생 동·식물로, 국립공원의 ‘마스코트’와 같다. 모든 국립공원이 동·식물 각 1종씩을 깃대종으로 선정한다. 예를 들어 지리산은 반달가슴곰(동물)과 히어리(식물)가 깃대종이다.&lt;br&gt;&lt;br&gt;산 습지에 사는 가는동자꽃은 한국과 일본에만 분포하는 ‘멸종위기야생생물 2급’ 희귀종이다. 국내에선 금정산에서만 산다. 7~8월 붉은색 꽃을 피운다.&lt;br&gt;&lt;br&gt;한국 고유종인 고리도롱뇽은 금정산을 비롯해 부산과 양산 등 경상권 동남부 지역에서 발견된다. 수질을 확인할 수 있는 환경 지표종 역할도 한다.&lt;br&gt;&lt;br&gt;금정산에는 가는동자꽃과 고리도롱뇽뿐 아니라 수달과 삵, 삼백초 등 야생생물 1782종이 서식하고 있다. 금정산국립공원사무소는 지난달 전문가와 지방자치단체, 지역 주민, 환경단체 등으로 구성된 깃대종 선정위원회를 꾸려 깃대종을 뽑았다. 사무소 관계자는 “올 상반기 깃대종으로 마스코트 모형을 만들어 공개할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “홍명보·클린스만 대표팀 감독 선임 부적절”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/24/MAGZFV2ZSNEQ3EQFX73LCLJDAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/24/MAGZFV2ZSNEQ3EQFX73LCLJDAM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>문화체육관광부가 대한축구협회의 국가대표팀 감독 선임 절차 등을 문제 삼아 정몽규 회장에 대해 중징계를 요구한 것은 정당하다는 1심 법원 판단이 나왔다. 서울행정법원 행정5부(재판장 이정원)는 23일 축구협회가 징계 요구를 취소해 달라며 문체부를 상대로 낸 소송에서 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;문체부는 2024년 7~8월 축구협회를 감사한 뒤 그해 11월 대표팀 감독 선임 절차와 ‘비리 축구인’ 기습 사면 과정 등에서 9가지 위법·부당 사안을 확인했다며 정 회장에 대해 자격 정지 이상의 중징계를 요구했다. 자격 정지 이상 징계에는 해임과 제명도 포함돼 사실상 사퇴 요구로 풀이됐다. 축구협회는 불복해 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 홍명보 대표팀 감독뿐만 아니라 위르겐 클린스만(독일) 전 감독 선임 과정이 적정하지 않았다며 문체부 손을 들어줬다. 축구협회 정관상 대표팀 감독은 국가대표 전력강화위원회(전강위)가 후보를 추천하고 이사회가 최종 결정하는데, 이 절차가 제대로 작동하지 않았다는 것이다. 재판부는 홍 감독 선임에 대해 “감독 추천 권한이 없는 이임생 당시 기술총괄이사가 추천해 이사회의 감독 선임 권한이 의미가 없어졌다”고 했다. 재판부는 또 클린스만 전 감독 선임과 관련해 “정 회장의 후보자 면접을 단순 면담으로 볼 수 없다”며 “전강위의 감독 추천 기능이 무력화됐고 정 회장이 감독 선임 과정에 권한 없이 개입했다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 이밖에 축구협회가 충남 천안 코리아풋볼파크를 만들며 문체부 승인 없이 대출을 받고 보조금을 허위로 신청한 것, 승부조작 등으로 징계 받은 전·현직 축구 선수 100명을 사면한 것 등도 부적절하다고 봤다.&lt;br&gt;&lt;br&gt;다만, 정 회장에 대한 문체부의 징계 요구는 내달 24일까지 집행되지 않는다. 이후 법원이 추가로 집행정지를 결정하지 않으면 축구협회는 징계 요구를 이행하고 그 결과를 문체부에 통보해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 4월 24일</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/23/FSZQYL6F6BHHHLZKYUKDV4ANNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/23/FSZQYL6F6BHHHLZKYUKDV4ANNQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 14:34:00 +0000</pubDate>
-      <content:encoded>금 - 일교차 크고 구름 많아&lt;br&gt;&lt;br&gt;토~일 - 맑고 따뜻한 봄 날씨&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5I3X3XC5ZCJLNUV5ML5S6PEKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>섬 박람회 준비 상황 질타한 金총리 “콘셉트·교통 문제 재점검하라”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/04/23/AVT7YGI2EVCU5EH6RBUGTFSF3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/23/AVT7YGI2EVCU5EH6RBUGTFSF3U/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 13:33:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JMDAQBDZVP73GIOEI5JG27A6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 23일 여수 세계 섬 박람회가 열릴 전남 여수시 돌산읍 진모지구를 찾아 준비 상황을 점검하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9월 개막하는 여수 세계 섬 박람회가 준비 부족으로 ‘제2의 잼버리’가 될 수 있다는 우려가 나오자 김민석 국무총리가 23일 두 번째로 여수를 찾아 준비 상황을 점검했다. 김 총리는 박람회에 관광객들이 와서 즐길 만한 콘텐츠가 부족하다고 지적하고, 여수시가 책임감을 갖고 준비 상황 전반을 재점검하라고 주문했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오전 주행사장 공사가 진행 중인 전남 여수시 돌산읍 진모지구를 둘러본 뒤 여수청소년해양교육원으로 이동해 종합 점검 회의를 주재했다. 회의에는 박람회 조직위원회와 여수시 관계자, 김영록 전남지사를 비롯한 전남도 관계자, 행정안전부·문화체육관광부·국토교통부·해양수산부 관계자 등이 참석했다.&lt;br&gt;&lt;br&gt;김 총리는 2012 여수 엑스포가 열렸던 장소를 주행사장으로 쓰지 않은 데 대해 여수시가 ‘박람회 8개월 전부터 공간을 확보해 두어야 하는데 엑스포장은 매각 예정이라 어려웠다’는 취지로 설명하자 “와닿지 않는다”고 따졌다. 김 총리는 “8개월 전부터 준비해야 한다고 이야기하는데, 기 시설이 존재하는 엑스포장에서 준비했다면 2개월 정도면 될 수 있었던 것 아닌가”라고 했다.&lt;br&gt;&lt;br&gt;여수시 관계자가 엑스포장은 이미 식당과 예식장, 카페 등으로 임대돼 있었고, 확보할 수 있는 공간이 박람회에 필요한 면적에 비해 부족했다는 등의 설명을 했다. 그러자 김 총리는 “그 설명을 듣고 오히려 의문이 생긴다”며 “왜 주 행사장을 엑스포장이 아닌 다른 곳에 했느냐에 대해 사회적인 문제 제기가 있는데, 명료하게 설명하지 않는다”고 비판했다.&lt;br&gt;&lt;br&gt;김 총리는 박람회의 콘셉트가 명확하지 않다는 점도 지적했다. 김 총리는 “섬 박람회라고 하면 이곳에 와서 섬들을 둘러볼 수 있다는 것인지, 아니면 섬을 체험해볼 수 있다는 것인지, 몇 가지가 있을 텐데, 콘셉트가 명료했으면 좋겠다”고 했다. 김 총리는 “현재로서는 주 행사장에 와서 시설물 안에 들어가서 섬과 관련된 이모저모를 영상 등으로 둘러보고, 배를 40분 정도 타고 여수에 있는 여러 섬 중 한 곳에 있는 시설물에 가볼 수 있다는 것 정도가 주최 측이 보여줄 수 있는 것인데, 관광객 입장에서 즐길 수 있는 것이 무엇인지, 뭐가 남을지를 주최 측이 염두에 둬야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;김 총리는 이번 박람회가 2012 여수 엑스포와 달리 국가적인 차원의 행사가 아니라는 점도 국민에게 알려야 한다고 강조했다. 그는 “여수 섬 박람회는 기초자치단체가 만들면서 이름에만 ‘세계’를 붙이는 것으로, 국가가 고민했던 국제 행사로서의 2012 여수 엑스포와는 다른 행사”라고 했다. 그러면서 “자칫하면 ‘여수 엑스포 같은 것을 또 하나 보다’라는 오해를 일으킬 수 있다”며 “이(국가적 행사가 아니라는) 부분을 명료하게 해야 한다”고 했다. “예산과 책임도 여수시에 반 이상이 있다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 교통 문제를 가장 큰 위험 요소로 꼽았다. 김 총리는 “일상적인 상황에서도 교통 수요를 감당하기 쉽지 않은데, 박람회 기간에는 (수요 증가로) 관광객뿐 아니라 주민 불편까지 초래할 가능성이 있다”며 “요트 투입 등 모든 대안을 검토하되, 그것으로도 해결이 안 될 가능성을 전제로 준비해야 한다”고 했다.&lt;br&gt;&lt;br&gt;여수시가 박람회를 이유로 104억원을 들여 인공섬을 조성한다는 논란에 대해서는 “주최 측이 ‘5문 5답’이든 ‘10문 10답’이든 만들어서 국민적인 오해나 비판에 대해 설명하라”고 했다.&lt;br&gt;&lt;br&gt;김영록 전남지사는 “박람회 중에라도 섬 관광 활성화를 위해 ‘반값 여행’ 프로그램을 해보고 싶다”며 “국비로 조금이라도 (지원해 달라)”고 요청했고, 김 총리는 “고민하겠다”고 했다.&lt;br&gt;&lt;br&gt;여수 섬 박람회는 여수시가 이달 초 지자체 공무원 출신 유튜버 ‘충주맨’ 김선태씨를 불러 만든 홍보 영상을 통해 미흡한 준비 실태가 알려지면서 논란이 됐다. 이재명 대통령도 지난 14일 국무회의에서 “현장에서 우려의 목소리가 나온다”며 “중앙정부 차원에서 준비 상황을 점검하고 지원해주면 좋겠다”고 했다. 김 총리는 지난 16일 부행사장인 개도(섬)을 둘러본 데 이어 이번에 두 번째로 점검을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>임우재 전 삼성전기 고문, 징역 1년 복역 중… 80대 감금·폭행 사건 연루</title>
       <link>https://www.chosun.com/national/court_law/2026/04/23/OJM53ENF2VH25MQQ2EQRTLI42U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/23/OJM53ENF2VH25MQQ2EQRTLI42U/</guid>
@@ -902,24 +925,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GM3DAZJRGZQTKNJZMY3GIYTEGM.jpg?auth=060bc6d8fe70012187c873e84a8e96ce59eb9abd438495f4fdebcd45b74a96b9&amp;smart=true&amp;width=559&amp;height=293" type="image/jpeg" height="293" width="559">
         <media:description type="plain">임우재 전 삼성전기 고문./연합뉴스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>헌재, 스토킹 의혹 헌재 연구관 견책 처분</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/23/7N5XA2PQTFAZDEL2Z7FZTONKG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/23/7N5XA2PQTFAZDEL2Z7FZTONKG4/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 11:45:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TDSNJXGQZDGY3FGZSGEZJUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 스토킹 의혹을 받는 부장급 연구관에게 견책 처분을 내린 것으로 파악됐다. 헌재 설립 이래 성비위 징계가 이뤄진 건 처음이다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면 헌재는 여성 연구관에게 수개월간 연락을 시도하거나 만남을 요청하는 등 스토킹 의혹을 받는 A부장연구관에게 견책 처분을 결정했다. &lt;br&gt;&lt;br&gt;헌재는 지난주 A부장연구관에 대한 징계위원회를 연 것으로 파악됐다. 징계 전 헌재는 피해자에 대해선 A부장연구관과 업무를 분리하는 조치도 취한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 헌재는 3년 전, 성 비위 의혹 사건이 있었던 바 있다. 당시 내부 워크숍에서 한 부장연구관은 술에 취한 여성 연구관들에게 부적절한 신체 접촉을 했다는 의혹을 받았다. &lt;br&gt;&lt;br&gt;헌재는 해당 사건에 대해서 고충상담을 접수했으나, 피해자들이 공론화를 원하지 않아 상담 단계에서 마무리된 것으로 파악됐다. 헌재 내부 ‘성희롱·성폭력 고충상담 메뉴얼’에는 ‘피해자가 명시적으로 요청할 경우 상담 단계에서 사건이 종결되고 이후 절차는 진행되지 않는다’고 돼 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정근식, 서울교육감 진보 단일 후보 확정</title>
-      <link>https://www.chosun.com/national/education/2026/04/23/WM7P5LUCVVA6XJJZ2NSTO3YIT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/23/WM7P5LUCVVA6XJJZ2NSTO3YIT4/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 10:19:37 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZGCMRZHE4TINJYHFSDENLGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정근식 서울시교육감 예비후보가 8일 서울 종로구에 위치한 선거사무실에서 열린 제9회 전국동시지방선거 서울시교육감 출마선언 기자회견에서 참석자들과 함께 손을 잡고 기념촬영을 하고 있다. 2026.4.8/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정근식 전 서울시교육감이 서울교육감 선거에 나설 진보 단일 후보로 확정됐다. &lt;br&gt;&lt;br&gt;서울교육감 선거 진보 진영 단일화를 주관한 ‘2026서울민주진보교육감단일화추진위원회’는 23일 오후 “시민참여단 2만8516명 중 1만7559명(61.58%)이 투표에 참여했고, 정근식 후보가 과반수를 얻어 2026년 서울 민주 진보 교육감 단일 후보로 결정됐다”고 밝혔다. 단일화에는 강민정 전 국회의원, 한만중 전국교육자치혁신연대 상임대표 등 6명이 참여했다.&lt;br&gt;&lt;br&gt;정 후보는 “이번 경선에 함께해준 나머지 5명의 후보님들께 진심으로 존경과 감사의 말씀 드린다. 각 후보님께서 보여준 교육 철학과 비전은 서울 교육의 소중한 자산”이라며 “경쟁은 끝났지만 우리의 목표는 하나다. 이제 한 팀이 돼 서울 교육의 미래를 향해 함께 나아가자”고 말했다.&lt;br&gt;&lt;br&gt;하지만 다른 후보들은 이날 결과에 납득하기 어렵다는 반응을 보였다. 한만중 후보는 “오늘까지 많은 관심을 가지고 선거에 참여해주신 분들께 감사드린다”면서도 “제가 예상했던 것과 전혀 다른 상황이라 판단이 잘 안 된다. 이 부분(결과)과 관련해선 나름대로 판단을 해 추후에 말씀드리겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울대 사회학과 교수 출신인 정 후보는 문재인 정부 당시 진실·화해를위한과거사정리위원장을 지냈다. 조희연 전 서울교육감이 2024년 8월 직을 상실하면서 열린 그해 10월 서울교육감 보궐선거에 도전해 당선됐다.&lt;br&gt;&lt;br&gt;강민정 후보는 “결과가 저로서는 굉장히 충격적이지만, 결과를 받아들이겠다”고 했다. 하지만 강 후보는 이날 현장을 떠나면서 “정의가 부정의를 이기지 못했다”고 말하는 등 결과를 납득할 수 없어 하는 모습을 보였다.&lt;br&gt;&lt;br&gt;이번 서울교육감 진보 단일화 과정은 시민참여단 대리 신청부터 참가비(5000원) 대납 정황까지 각종 잡음으로 논란이 거셌다. 이에 추진위는 지난 17~18일에 진행하기로 한 1차 투표를 22~23일로 연기했다. 추진위는 지난 21일 보도자료를 내고 “미입금자 확인, 세부주소 미입력 등 다양한 방법으로 검증 작업을 진행해 시민참여단 선거인단을 확정했다”고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국토부, 테슬라 FSD 무단 활성화한 차주들 수사 의뢰</title>
