@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘코요태 신지’ 예비남편, 이혼 이력 고백에 일 끊겨… “물류센터·청소일 다녔다”</title>
+      <link>https://www.chosun.com/national/people/2026/04/25/A7RLHWZYJJBRLFISFPSM7GKZ6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/25/A7RLHWZYJJBRLFISFPSM7GKZ6A/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 12:59:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7QW6ICSHZH6ZI2GL3VKY33S3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문원 신지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼성그룹 ‘코요태’ 멤버 신지(45·본명 이지선)와 결혼을 앞둔 가수 문원(38·본명 박상문)이 재혼 논란 이후 일이 끊겨 어려움을 겪고 있다고 토로했다. &lt;br&gt;&lt;br&gt;지난 24일 방송된 KBS2 ‘신상출시 편스토랑’에서는 결혼을 앞두고 있는 신지와 문원의 신혼집이 최초 공개됐다. 이날 방송에서 문원은 신지를 위해 요리부터 청소까지 도맡는 모습을 보여 눈길을 끌었다. &lt;br&gt;&lt;br&gt;문원은 신지를 살뜰히 챙기는 이유에 대해 “연애 초반 아내가 제 앞에서 실신한 적이 있다”며 “옆에서 챙겨줘야겠다는 생각이 들었다”고 설명했다.&lt;br&gt;&lt;br&gt;문원은 신지에 대해서는 “처음에는 어려운 사람이었지만, (겪어보니) 존경할 만한 사람이었다”며 “나를 많이 변화시켜줬다”고 했다. &lt;br&gt;&lt;br&gt;신지 또한 문원에 대해 “손 하나 까딱하지 않게 해준다”며 “그게 너무 고맙고 미안하다. 나를 만나지 않았으면 이 사람이 작년에 이렇게까지 주목받지 않았을 것”이라고 안타까워했다. &lt;br&gt;&lt;br&gt;신지는 지난해 자신의 유튜브 채널을 통해 문원과 함께 코요태 김종민, 빽가와 만나 상견례 겸 식사를 하는 모습을 공개했다.&lt;br&gt;&lt;br&gt;당시 문원은 “좀 놀라실 수도 있는 이야기다. 결혼을 한 번 했었다. 그리고 사랑스러운 딸이 한 명 있다”고 고백했다. 또 신지에 대해 “유명한지 몰랐다”고 발언해 결혼 진정성을 의심하는 여론이 형성됐다. &lt;br&gt;&lt;br&gt;신지는 “(논란 이후) 이 사람이 많이 힘들었다. 그동안 해오던 공연, 축가 일들이 갑자기 뚝 끊겨버렸다”고 했다. &lt;br&gt;&lt;br&gt;이에 문원은 “제가 할 수 있는 일을 찾다가 물류센터와 계단 청소 일도 했다”며 “손 놓고 쉴 수는 없었고 보탬이 되고 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;신지는 “코요태 멤버들도 (문원이) 오늘도 청소하러 갔다고 하니 진짜로 성실하고 좋은 친구라고 하더라”고 했다. &lt;br&gt;&lt;br&gt;문원은 자신을 향한 비판에 대해서는 “신지를 사랑하는 팬들이 걱정하는 거니까 그만큼 노력을 해서 보여드리는 것밖에 답이 없다”고 했다. &lt;br&gt;&lt;br&gt;신지는 “문원이 충분히 자랑스럽고, 존경스럽고 고맙다”며 “다 지나갔고 잘 버텼다”고 했다.&lt;br&gt;&lt;br&gt;한편, 7세 연상연하 커플인 두 사람은 오는 5월 2일 서울 모처에서 결혼식을 올릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경북·울산 해상서 다이버·어선 선장 실종...해경 수색중</title>
       <link>https://www.chosun.com/national/regional/2026/04/25/OWSWFMGCW5AJ5AGFU2E42BOUQI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/25/OWSWFMGCW5AJ5AGFU2E42BOUQI/</guid>
@@ -934,15 +943,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GM3DAZJRGZQTKNJZMY3GIYTEGM.jpg?auth=060bc6d8fe70012187c873e84a8e96ce59eb9abd438495f4fdebcd45b74a96b9&amp;smart=true&amp;width=559&amp;height=293" type="image/jpeg" height="293" width="559">
         <media:description type="plain">임우재 전 삼성전기 고문./연합뉴스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>국립의전원 2030년 문 연다…공공의료 15년 의무 복무</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/04/23/F6VIIYNVVJAHVN7VUXEUO2N5XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/04/23/F6VIIYNVVJAHVN7VUXEUO2N5XI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 09:50:31 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQWIMDFMY3DMNBSHE2TON3EGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학병원에서 의료진이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립의학전문대학원(국립의전원) 설치법이 23일 국회 본회의를 통과했다. 국립의전원은 설립 준비 작업 등을 거쳐 2030년 문을 열 것으로 보인다.&lt;br&gt;&lt;br&gt;보건복지부는 이날 국회 본회의에서 국립의학전문대학원 설립 및 운영에 관한 법률이 통과됐다고 밝혔다. 국립의전원 설치는 이재명 정부의 의료 분야 국정과제 중 하나로 추진돼 왔다. 국가가 공공의료 특화 교육기관을 직접 설립해 만성적인 인력 부족 문제를 해결하겠다는 취지다.&lt;br&gt;&lt;br&gt;2030년 개교할 국립의전원은 정원 100명의 4년제 의학전문대학원 형태로 설립된다. 학생에게는 학비 등 교육비가 지원된다. 졸업 후 의사 면허를 취득하면 보건복지부 장관이 지정하는 공공보건의료기관에서 15년간 의무 복무해야 한다. 의무 복무 기간은 지역의사제보다 5년 더 길다.&lt;br&gt;&lt;br&gt;학생 선발 역시 기존 의대·의전원의 기준을 준용하되, 전문성과 객관성을 갖춘 학사위원회를 통해 공정하고 투명하게 진행한다는 방침이다. 선발 지역 제한은 별도로 없다.&lt;br&gt;&lt;br&gt;복지부는 국립의전원에서 공공 의료 특화 교육 과정을 운영하고, 감염·정신·중독·법의학 등 공공 의료 분야에 필요한 전문 인력을 양성한다는 방침이다. 국립대병원·국립암센터 등과 연계한 실습 과정도 운영한다.&lt;br&gt;&lt;br&gt;복지부는 국립의전원의 신속한 추진을 위해 이형훈 2차관을 위원장으로 하는 설립준비위원회를 구성하고, 하위 법령 마련 등 법 시행을 위한 준비 작업에 나설 예정이다. 교육 인프라를 구축해야 하고, 운영 시스템도 동시에 꾸려야 하는 만큼 만만치 않은 작업이 될 것으로 보인다.&lt;br&gt;&lt;br&gt;정은경 복지부 장관은 “국립의학전문대학원이 국내 최고 수준의 의학 교육 기관으로 자리 잡고, 졸업생들이 자부심을 갖고 공공 의료 현장에서 근무할 수 있도록 철저히 준비하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의료 사고 형사처벌 제한하는 ‘의료분쟁 조정법’ 국회 본회의 통과</title>
