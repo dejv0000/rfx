@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>종합특검, 검찰 내부망 서버 압수수색…심우정 계엄 관여 의혹 관련</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/25/ID673XKIQRAH5FOSYMW5PSJMCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/25/ID673XKIQRAH5FOSYMW5PSJMCA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 03:17:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYDMMTDGQ3TMNTCMVQTCZBVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검팀이 심우정 전 검찰총장이 12·3 비상계엄에 관여한 의혹을 규명하겠다며 검찰 내부망 서버를 압수 수색했다. 검찰 내부망 서버 전체를 대상으로 한 압수수색은 이번이 처음인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;종합특검팀은 지난 24일 밤 광주(光州) 서구에 있는 대검찰청 내부망 ‘이프로스’ 서버를 압수수색했다. 특검 관계자는 “형사소송법상 절차를 준수하는 과정에서 영장 집행 시작이 늦어졌다”며 “심야에 이르러 집행을 중단했고 추후 계속 진행할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이번 압수수색은 검찰이 비상계엄 당시 합동수사본부에 검사 파견을 검토한 경위를 확인하기 위한 것으로 알려졌다. 특검은 심 전 총장이 당시 박성재 전 법무부 장관 지시로 합수부에 검사 파견을 검토했다고 의심한다. 박 전 장관과 심 전 총장은 계엄 선포 직후 세 차례 통화한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 또 지난해 3월 윤석열 전 대통령에 대한 법원의 구속 취소 결정과 관련해 검찰이 즉시 항고를 포기한 경위도 들여다보고 있다. 검찰 내부 메신저 기록을 확보해 당시 의사 결정 과정과 보고 라인 등을 추적할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이효리가 고백한 톱스타 시절 “기고만장하고 무서울 것 없었다”</title>
+      <link>https://www.chosun.com/national/people/2026/04/25/SQG6KWFHVFGXDICEOER7I2F3KM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/25/SQG6KWFHVFGXDICEOER7I2F3KM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 02:37:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4TQNRWGAYDKZJUGVRWIM3DGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이효리./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 이효리가 톱스타 시절을 돌아보며 “정신없이 지나가 기고만장했다”고 회상했다.&lt;br&gt;&lt;br&gt;이효리는 지난 24일 유튜브 채널 ‘십오야’의 ‘난다 긴다 아난다 이효리 선생님의 나마스테 요가 클래스-에그문화센터’라는 제목의 영상에 출연했다. &lt;br&gt;&lt;br&gt;이효리는 대한민국에서 ‘이효리’로 사는 기분이 어떤지를 묻는 질문에 “톱스타 시절 정신없이 지나가 기고만장했다”며 “주위에서 그렇게 만들기도 했다 ‘너는 그냥 앉아 있어라’란 말이 자연스러웠다”고 말했다. 이어 “내가 그렇게 해도 되는가 보다 싶었다. 무서울 거 없고 당찼던 시절”이라고 했다. 그러면서 “나중에 그런 게 없어졌을 때 상실감 있다”라며 “그런 거 없이 사는 게 오히려 좋다”고 했다.&lt;br&gt;&lt;br&gt;이효리는 요가원을 연 것이 개인적으로도 많은 도움이 됐다고 밝혔다. 그는 “요가원을 열면서 정신없이 할 일을 해야 하니까 많이 도움이 되는 거 같다”라며 “매일 새벽 5시에 일어나는데 그러면 전날 무조건 오후 10~11시에는 자야 한다. 나만의 규칙을 만들어 놓으니 정신이 건강하게 유지되는 느낌”이라고 했다.&lt;br&gt;&lt;br&gt;요가원을 운영하는 이유에 대해서는 “난 요가 덕분에 내 삶에 혜택을 많이 봤다. 마음 놓고 터놓고 지낼 수 있는 친구들도 요가로 만났다”라며 “나랑 비슷한 고민을 하는 사람들도 요가를 배워서 조금 편안해졌으면 좋겠다는 마음도 있고, 돌려주고 싶은 마음도 있다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;이효리는 2013년 가수 이상순과 결혼한 뒤 제주도에서 거주하다 2024년 서울로 거주지를 옮겼다. 지난해 서울 서대문구에 요가원을 개원해 직접 수업을 진행하고 있다. 이 요가원은 매달 강좌를 열 때마다 수강권이 매진되며 관심을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UI4ZVLEZI5BJZH4A5CYI6V7JYQ.jpg?auth=3c937212183f5766b4fc3e559ad39d9c10cb265b44f9e1c7c90bbd9c1644ef5a&amp;smart=true&amp;width=685&amp;height=514" type="image/jpeg" height="514" width="685">
+        <media:description type="plain">이효리</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘코로나 집단감염’ 동부구치소 수용자들, 국가 상대 손배소 또 패소 </title>
+      <link>https://www.chosun.com/national/court_law/2026/04/25/QLUNJ5QLFNEHPFOXUUPYAQF4BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/25/QLUNJ5QLFNEHPFOXUUPYAQF4BM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 02:34:24 +0000</pubDate>
+      <content:encoded>2020년 코로나 집단 감염이 발생한 서울 동부구치소의 수용자들과 가족들이 국가를 상대로 손해배상 소송을 냈지만 항소심에서도 졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7P6PJOFPGAA6I7LMMWZ5JTVCV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법-서울고법 전경./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 서울중앙지법 민사항소5-1부(재판장 장준현)는 최근 동부구치소 수용자 및 가족 33명이 국가와 추미애 당시 법무부 장관을 상대로 낸 손해배상 청구 소송에서 1심과 같이 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;2020년 동부구치소에서는 코로나 확진자가 하루 수백 명씩 발생하면서 법무부의 관리 부실 논란이 불거졌다. 모든 활동이 실내에서 이뤄지는 아파트형 구조인 동부구치소에선 2020년 말 1200명에 달하는 확진자가 발생했다. 당시 동부구치소는 확진자들을 수용 거실에 모아 격리했다. &lt;br&gt;&lt;br&gt;수용자와 가족들은 당시 확진자가 연일 발생했는데도 법무부가 확진자 격리와 전수조사 등 방역 조치를 제때 하지 않아 피해를 봤다고 주장했다. 이에 국가를 상대로 한 손해배상 소송이 잇따라 제기됐지만, 법원은 이를 받아들이지 않고 있다.&lt;br&gt;&lt;br&gt;항소심 재판부는 동부구치소가 밀접 접촉자들을 감염 경로별로 구분하지 않아서 감염을 확산시켰다는 수용자 측 주장을 받아들이지 않았다. 재판부는 “동부구치소는 밀접 접촉자를 확진자와 비확진자라는 명확한 기준에 따라 구분했다”며 “당시 확진자의 감염 경로를 개별적으로 파악하기에는 시간적·공간적 제약이 있어 상당히 어려웠을 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 재판부는 2020년 11월 17일부터 진행된 직원 중심의 1차 감염 확산과 같은 해 12월 7일 이후 이어진 수용자 중심의 2차 감염 사이의 인과관계를 인정하지 않았다. 재판부는 “1차 감염과 2차 감염 바이러스 간 유사성이 낮고, 1차 감염 당시 실시된 검사에서도 수용자의 양성률이 낮았다”며 “바이러스 유입 경로가 서로 다르다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YZJKUYBVRKKTTO34PC7AGMZTU4.jpg?auth=e790a42f2f5a55409a14cc99ad55710b1514725c628ded959cc2ecea74f2bdf6&amp;smart=true&amp;width=3500&amp;height=2333" type="image/jpeg" height="2333" width="3500">
+        <media:description type="plain">서울중앙지법 전경. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경기교육감 진보 단일화 이의신청 기각…혁신연대 “중대한 하자 없다”</title>
+      <link>https://www.chosun.com/national/education/2026/04/25/HBHJV5UJXJHCXKEZDFKGTO2UWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/25/HBHJV5UJXJHCXKEZDFKGTO2UWU/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 02:12:39 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DEOBTGFRDOMJVMVQWKMZQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기교육감 진보 진영 예비후보들/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육감 진보 진영 후보 단일화를 주관한 경기교육혁신연대 선거관리위원회가 유은혜 예비후보 측의 이의 신청을 기각하고 사실상 안민석 단일 후보 확정을 유지하기로 했다.&lt;br&gt;&lt;br&gt;경기교육혁신연대는 24일 회의에서 “이미 확정·발표된 단일 후보를 취소하거나 그 효력을 정지할 정도의 중대한 하자는 발견되지 않아 단일 후보 확정의 효력을 정지할 수 없다”고 결론 내렸다. 혁신연대 측은 이날 오후 이러한 내용이 담긴 회의 결과를 유 예비후보 측에 발송한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;혁신연대 선관위는 선거 결과를 뒤집을 명확한 범죄 행위나 증거가 없고, 제3자 결제가 가능했던 시스템 문제도 모든 후보 측이 사전에 인지한 사안이라 경선 결과를 부정할 근거가 되지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;혁신연대는 유 후보 측이 제기한 단일화 과정 중 선거인단 대리 등록 의혹에 대해서는 경찰에 수사 의뢰하기로 했다. 유 예비후보 측은 선거인단 대리 등록·납부 의혹을 제기하며 수사 결과가 나올 때까지 단일 후보 확정을 유보하고 수사 결과에 따라 단일화를 원천 무효화 해달라고 요구한 바 있다.&lt;br&gt;&lt;br&gt;앞서 혁신연대는 단일화에 참여한 안민석, 유은혜 후보와 박효진, 성기선 등 모두 4명의 예비 후보를 대상으로 여론조사 결과(45%)와 선거인단 투표 결과(55%)를 합산해 지난 22일 안 후보를 경기교육감 진보 단일 후보로 선출했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘청와대 행정관’ 사칭하며 6억여원 가로챈 70대</title>
+      <link>https://www.chosun.com/national/regional/2026/04/25/PRXF25ONNZBA7NULHS4JF7XQFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/25/PRXF25ONNZBA7NULHS4JF7XQFM/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 01:02:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOSJUAUXXFGTLIN57WINKVGMPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청와대 행정관을 사칭해 6억 여원을 챙긴 70대가 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;25일 광주고법 전주재판부 제1형사부(정문경 부장판사)는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 구속 기소된 A(70)씨에 대한 항소심 선고 공판에서 징역 4년을 선고한 원심을 유지했다고 밝혔다. 원심이 선고한 5850만 원 상당의 범죄수익 추징도 유지됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 2015년 10월부터 2023년까지 약 7년 6개월간 지인을 통해 알게 된 사업가 B 씨로부터 120여회에 걸쳐 총 6억6500만 원을 가로챈 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 ‘청와대 행정관’이라는 가짜 명함을 B씨에게 건네며 자신이 정무수석실 행정관이라고 속인 뒤 관련 인사들과 연결해 주겠다고 속이는 방법으로 범행을 저질렀다.&lt;br&gt;&lt;br&gt;특히 A씨는 B씨의 회사에 찾아가 “내가 청와대 정무수석실 행정관인데 당신이 받는 검찰 수사를 해결해주겠다”며 “검찰 인사권이 있는 민정수석에게 인사를 해야 하니 우선 2000만원을 달라”고 제안했다. B씨는 이 금액을 당일 바로 송금했다.&lt;br&gt;&lt;br&gt;그러나 A씨는 실제로 청와대에 근무한 사실이 전혀 없을 뿐더러, 민정수석을 만나본 적 조차 없었던 것으로 알려졌다. 또 A씨는 군산지역 숙원사업 중 하나인 조선소·새만금 재생에너지 등 대형 프로젝트에도 B씨의 업체를 참여시켜 주겠다고 하는 등 8년간 6억원이 넘는 인사·접대비를 가로챘다. 이 돈 대부분을 가족 계좌로 이체하거나 생활비 등 개인 용도로 사용한 것으로 확인됐다. A씨는 과거 동종 범행으로 여러 차례 실형과 집행유예, 벌금형 전력도 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인이 범행을 모두 인정하고 반성하는 태도를 보이고 있으나, 양형의 조건에 본질적인 변화가 생겼다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“불타는 타원형 물체가 떨어졌다” 밤하늘 목격담 이어져</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/OSRU5EU64RFGRCCEEZQJCZCBXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/OSRU5EU64RFGRCCEEZQJCZCBXY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 01:20:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZQ7L6NE2RAY7GEOV7C5HJCVSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화구 추정 물체 낙화 모습./X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 밤하늘에 불타며 떨어지는 타원형 물체를 봤다는 목격담이 잇따랐다. 한국천문연구원은 시민들이 목격한 물체가 별똥별로 불리는 유성체일 가능성이 크다고 보고 있다.&lt;br&gt;&lt;br&gt;이날 소셜미디어(SNS)에는 밤하늘에서 별똥별처럼 보이는 물체가 떨어지는 장면이 담긴 영상과 사진이 올라왔다.&lt;br&gt;&lt;br&gt;인천에 사는 A씨는 이날 오후 8시 43분쯤 부평구 십정동 인근 도로를 주행하던 중 큰 별똥별 같은 물체가 떨어지는 장면을 목격했다. A씨의 자동차 블랙박스에 녹화된 장면을 보면, 불꼬리를 길게 남기며 추락하던 물체가 한두 차례 분열하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPJQO5U4FRDHJKBHD5LPQUIL5E.gif"&gt;&lt;figcaption&gt;&lt;small&gt;화구 추정 물체 낙화 모습./X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비슷한 목격담은 경기 양주에서도 나왔다. 시민 B씨는 연합뉴스에 “양주 회암동 천보터널 인근에서 미확인 물체가 하늘에서 떨어졌다”고 말했다.&lt;br&gt;&lt;br&gt;한국천문연구원은 시민들이 본 물체를 별똥별로 추정하고 있다. 유성체의 크기가 클 경우 불에 타면서 ‘파이어볼’로 불리는 화구처럼 보일 수 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한국천문연구원 관계자는 “블랙박스 속 천체는 전형적인 화구로 보인다”며 “불꼬리가 길어지면서 소멸하고 있는데, 지금으로서는 낙하 위치를 추정할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IZQ7L6NE2RAY7GEOV7C5HJCVSY.jpg?auth=6f2d78a21afe117eb556286f32daaa50670a04ea0562aa19072a159e23bbea99&amp;smart=true&amp;width=1079&amp;height=530" type="image/jpeg" height="530" width="1079">
+        <media:description type="plain">화구 추정 물체 낙화 모습./연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>제주에 여행 온 줄 알았는데...중국인 소매치기 주의보</title>
+      <link>https://www.chosun.com/national/regional/2026/04/25/INHVW5XZXZAKTHK6LJT52HMELE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/25/INHVW5XZXZAKTHK6LJT52HMELE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 00:36:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDUXMSOW7RFN3DKLU2VUM75IQ4.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 온 뒤 소매치기 범행을 저지른 중국인들의 범행이 연이어 발생하고 있다.&lt;br&gt;&lt;br&gt;25일 제주동부경찰서 등에 따르면 40대 중국인 A씨를 절도 혐의로 붙잡아 조사중이다. A씨는 무사증으로 제주에 입국한 뒤 이달 9일께 제주시 한 버스에 탑승했다. 그는 버스에 있던 70대 승객에게 접근해 가방 안에 있던 지갑과 현금 20만원을 훔쳐 달아난 혐의를 받고 있다. 피해자는 인근 파출소를 찾아 피해를 알렸다.&lt;br&gt;&lt;br&gt;경찰은 버스 동선에 따라 주변 방범카메라(CCTV) 영상을 분석해 A씨를 용의자로 특정하고 추적했다. 그러다 이달 15일 제주시 연동 소재 음식점에서 식사 중인 A씨를 검거했다. A씨는 범행을 부인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 국내 거주지가 없는 점 등을 토대로 도주 우려가 있다고 판단, A씨에 대한 구속영장을 신청했다. 하지만 제주지검은 이달 17일쯤 해당 구속영장을 법원에 청구하지 않고 자체 기각했다. 사안이 경미하고 증거가 확보된 점 등이 기각 사유로 알려졌다. A씨는 현재 석방된 상태다. 제주지검 관계자는 기각 사유에 대해 “수사 중인 사안이라 밝힐 수 없다”고 전했다.&lt;br&gt;&lt;br&gt;또 중국인 50대 B씨와 C씨는 지난 12일 오전 제주시 소재 전통시장에서 피해자 가방 안에 있던 지갑을 훔친 혐의를 받고 있다. 지갑과 현금을 포함해 피해금액은 100만원 상당으로 추산됐다. 특히 B씨는 지난 10일 또 다른 전통시장에서 60대 피해자 가방 안에 있던 상품권 등 8만원을 훔친 것으로도 확인됐다.&lt;br&gt;&lt;br&gt;이들은 지난 7일 오후 9시쯤 제주시 한 길거리에서 보행자를 노려 가방 안에 지갑을 훔치려다 미수에 그친 것으로 나타났다. 이들 모두 구속돼 조사 중이다.&lt;br&gt;&lt;br&gt;이달 14일쯤 제주시 한 버스에서는 중국인 3인조가 버스 승객의 지갑과 현금 등 60만원을 훔친 것으로 파악됐다. 이 중 E(30대)씨와 F(40대)씨는 이미 중국으로 출국한 것으로 확인됐다. 또 다른 1명에 대해서는 신원을 확인하고 있다.&lt;br&gt;&lt;br&gt;경찰은 무사증 중국인들의 소매치기 범죄가 잇따르자 각 경찰서에 전담반을 꾸려 대응하고 있다. 조직적 범행 여부를 확인하기 위해 중국인 피의자를 상대로 휴대폰 포렌식(전자증거수집) 절차도 밟고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 낮 최고 27도... 초여름 같은 주말</title>
+      <link>https://www.chosun.com/national/education/2026/04/25/K5F4A5D7BZHFRDOKTI6OO34KN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/25/K5F4A5D7BZHFRDOKTI6OO34KN4/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Apr 2026 00:05:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YR6KYGIMRJP27ARWC242HN4WX4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;초여름 날씨를 보인 24일 오후 서울 청계천에서 시민들이 더위를 식히고 있다. 25일에도 낮에 19~27도까지 오르면서 일교차가 크게 나타날 전망이다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 25일 전국이 대체로 맑겠지만 낮 최고기온이 27도까지 오르는 초여름 수준의 날씨가 될 전망이다. &lt;br&gt;&lt;br&gt;기상청에 따르면 이날 아침 최저기온은 4∼11도, 낮 최고기온은 19∼27도로 예보됐다. 전국 내륙 지역을 중심으로 일교차가 20도 안팎으로 커 건강관리에 신경 써야 한다.&lt;br&gt;&lt;br&gt;중부지방과 경북권, 일부 전북은 건조 특보가 내려졌다. 그 밖의 지역으로 특보가 확대될 가능성이 있어 산불 등 화재에 유의가 필요하다.&lt;br&gt;&lt;br&gt;미세먼지는 전 권역이 ‘좋음’∼‘보통’ 수준을 보일 것으로 예보됐다. 일부 중서부 지역은 오전과 밤에 대기 정체로 일시적으로 농도가 상승하겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“승우야, 하늘나라선 잘 지내지?”...순직 이병 아버지의 20년 만의 답장</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/25/WBRI5YNRMREGJN5PE42IINVT5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/WBRI5YNRMREGJN5PE42IINVT5I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Apr 2026 23:49:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPP5RJGARZHE5P56GK4LUXGBFY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2005년 복무 중 순직한 고(故) 한승우 이병의 아버지 한일석씨가 아들에게 보내는 편지를 낭독하고 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; “꽃비 내리는 4월을 보내며 절절한 그리움을 통곡으로 쓴다.”&lt;br&gt;&lt;br&gt;군 복무 중 순직한 아들이 20년 전 가족에게 남겼지만 끝내 부치지 못한 편지에, 아버지가 이렇게 답장을 썼다. &lt;br&gt;&lt;br&gt;24일 국가보훈부 공식 인스타그램 계정에는 2005년 복무 중 순직한 고(故) 한승우 이병의 아버지 한일석씨가 아들에게 보내는 편지를 낭독하는 영상이 올라왔다.&lt;br&gt;&lt;br&gt;이날 서울 동작구 국립서울현충원에서는 제3회 순직의무군경의 날 기념식이 열렸다. 올해 기념식은 ‘그리운 이름, 영원히 푸르른 당신을 기억합니다’를 주제로 진행됐다.&lt;br&gt;&lt;br&gt;한 이병은 20년 전 군 복무 도중 가족에게 편지를 썼지만 끝내 부치지 못했다. 이날 행사에서 아버지 한씨는 아들이 남긴 편지에 답하는 형식의 편지를 낭독했다.&lt;br&gt;&lt;br&gt;한씨는 “승우야 하늘나라에서는 잘 지내고 있지”라고 운을 뗐다. 이어 “가난했던 시절 먹고 싶은 것 한 번 제때 사주지 못하여 가슴 메인다”며 아들을 향한 미안함을 전했다.&lt;br&gt;&lt;br&gt;그는 아들의 유품을 정리하던 때도 떠올렸다. 한씨는 “너의 체취가 물씬 남아 있는 유품을 정리하면서 마지막 입대할 때 입었던 옷은 차마 소각할 수 없어 금색 보자기에 고이고이 싸 두었다”고 했다.&lt;br&gt;&lt;br&gt;편지를 읽던 한씨는 중간중간 말을 잇지 못하고 흐느꼈다. 그는 “꽃비 내리는 4월을 보내며 절절한 그리움을 통곡으로 쓴다”며 “승우야 안녕”이라고 했다. 낭독이 끝난 뒤에도 한씨는 눈물을 멈추지 못했다. 행사에 참석한 김민석 국무총리가 한씨를 부축하기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4DOYJUMZQTQYRYHFTGMZLBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유가족 위로하는 김민석 국무총리./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보훈부는 영상과 함께 “다가오는 5월은 가정의 달”이라며 “누군가에게 5월은 따뜻한 계절만큼이나 깊은 그리움이 밀려오는 시간이기도 하다. 꽃피는 봄날에도 자식의 빈자리를 가슴에 안고 살아가는 순직의무군경 유가족들이 있기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “국가를 위해 헌신하다 생을 달리한 청춘들을 기억하며, 소중한 가족을 잃은 유가족분들께 깊은 위로의 마음을 전합니다”라고 했다.&lt;br&gt;&lt;br&gt;영상을 본 네티즌들은 “너무 슬프다” “세상 그 어떤 슬픔보다 더 고통스러운 심경이 너무 절절하게 느껴진다” “삼가 고인의 명복을 빈다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MPP5RJGARZHE5P56GK4LUXGBFY.gif?auth=2796ae585fb3715377c61fa798d6385a07234bdb5f852678da5145aded3ca0b9&amp;smart=true&amp;width=485&amp;height=715" type="image/jpeg" height="715" width="485">
+        <media:description type="plain">2005년 복무 중 순직한 고(故) 한승우 이병의 아버지 한일석씨가 아들에게 보내는 편지를 낭독하고 있다./인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>“엄마가 사준 SK하이닉스 주식, 9억 됐다”...3000% 수익률 인증글 화제</title>
       <link>https://www.chosun.com/national/national_general/2026/04/25/R43OQBL36BD5HEUBU6U7Z4X4ZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/25/R43OQBL36BD5HEUBU6U7Z4X4ZI/</guid>
@@ -762,15 +856,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YBVYQBDP5LETAEMMILNUI63NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정원오 더불어민주당 서울시장 후보와 오세훈 국민의힘 서울시장 후보가 지난 22일 서울 용산구 백범김구기념관에서 열린 서울시사회복지사협회 창립 40주년 기념 행사에서 만나 악수하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 여야 서울시장 후보 확정 뒤 첫 여론조사에서 정원오 더불어민주당 후보 지지율이 오세훈 국민의힘 후보를 10%포인트(p) 넘게 앞서는 것으로 나타났다.&lt;br&gt;&lt;br&gt;CBS가 여론조사 업체 한국사회여론연구소(KSOI)에 의뢰해 지난 22~23일 서울에 사는 18세 이상 1001명에게 시행해 24일 공개한 조사에 따르면, 서울시장 선거 가상 대결에서 정 후보를 지지한다는 응답자가 전체의 45.6%로, 오 후보를 지지한다는 응답자 35.4%보다 10.2%p 많았다. 그 밖의 인물을 지지한다는 응답자는 7.0%, 지지 후보가 없다는 응답자는 7.0%, 잘 모르겠다는 응답자는 5.0%였다.&lt;br&gt;&lt;br&gt;이번 지방선거에서 ‘정부에 힘을 실어주기 위해 여권 후보를 선택해야 한다’는 응답자는 46.6%로, ‘정부를 심판하기 위해 야권 후보를 선택해야 한다’는 응답자 37.2%보다 9.4%p 많았다.&lt;br&gt;&lt;br&gt;서울 구청장 선거에서 민주당 후보를 뽑겠다는 응답자는 43.2%로, 국민의힘 후보를 뽑겠다는 응답자 31.7%보다 11.5%p 많았다.&lt;br&gt;&lt;br&gt;다만 서울교육감 선거에서는 보수 성향 후보를 뽑겠다는 응답자가 38.5%로, 진보 성향 후보를 뽑겠다는 응답자 38.1%와 비슷했다.&lt;br&gt;&lt;br&gt;이 조사에서 민주당을 지지한다는 응답자는 44.2%로, 국민의힘 지지자 31.5%보다 12.7%p 많았다. 개혁신당 지지자는 3.7%, 조국혁신당 지지자는 3.3%였다.&lt;br&gt;&lt;br&gt;스트레이트뉴스가 조원씨앤아이에 의뢰해 지난 20~21일 서울 거주 18세 이상 802명을 대상으로 한 조사에서는 정 후보를 지지한다는 응답자가 49.7%로, 오 후보를 지지한다는 응답자 35.9%보다 13.8%p 많았다. 지지 후보가 없다는 응답자는 8.8%, 잘 모르겠다는 응답자는 5.6%였다.&lt;br&gt;&lt;br&gt;정 후보는 모든 지역에서 오 후보에게 앞섰다. 서울 북동부(강북·도봉·노원·성북·동대문·중랑·성동·광진구)에서는 정 후보 54.2%, 오 후보 32.0%로 22.2%p 격차가 났고, 서남부(강서·양천·영등포·동작·구로·금천·관악구)에서는 정 후보 48.9%, 오 후보 35.7%로 13.2%p 격차가 났다. 북서부(은평·종로·서대문·중·마포·용산구)에서는 정 후보 44.0%, 오 후보 36.6%로 7.4%p 차, 남동부(서초·강남·송파·강동구)에서는 정 후보 48.8%, 오 후보 41.4%로 7.4%p 차였다.&lt;br&gt;&lt;br&gt;응답자 연령별로 보면, 50대는 정 후보 62.3%, 오 후보 24.2%, 40대는 정 후보 53.3%, 오 후보 34.0%, 60대는 정 후보 52.9%, 오 후보 34.5%였다. 30대는 정 후보 50.4%, 오 후보 37.3%, 70대 이상은 정 후보 49.5%, 오 후보 38.5%였다. 10·20대(18~29세)에서만 오 후보가 47.5%로 정 후보 29.6%보다 높았다.&lt;br&gt;&lt;br&gt;이 조사에서 민주당을 지지한다는 응답자는 49.6%, 국민의힘을 지지한다는 응답자는 33.8%였다.&lt;br&gt;&lt;br&gt;CBS·KSOI 조사는 무선 전화 ARS 방식으로 이뤄졌다. 응답률은 5.1%, 표본 오차는 95% 신뢰 수준에서 ±3.1%p다. 스트레이트뉴스·조원씨앤아이 조사도 무선 전화 ARS 방식으로 이뤄졌다. 응답률은 6.3%, 표본 오차는 95% 신뢰 수준에서 ±3.5%p다. 그 밖의 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>어린이날엔 서울로… 아이와 추억 만드세요</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/24/5GNRACVTFJD5FNNROJ6XSGAUX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/5GNRACVTFJD5FNNROJ6XSGAUX4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZPQ37OP6FBRTMMD2U6BZ43O2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 잠원한강공원에 있는 ‘여기저기 서울형 키즈카페’의 모습. /서울시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 어린이날을 맞아 5월 1일부터 7일까지 일주일간 서울 전역에서 ‘키즈위크’ 행사를 연다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;어린이날인 5월 5일에는 서울 시내 ‘서울형 키즈카페’ 110여 곳이 모두 문을 연다. 이 중 60여 곳은 무료로 개방한다. 시설별로 마술 공연이나 악기 체험 등 어린이날 특별 프로그램을 선보이기도 한다. 서울시 관계자는 “우리동네키움포털 홈페이지에서 무료 이용이 가능한지, 어떤 프로그램이 열리는지 확인할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;한강공원 등 야외 공간에 주말마다 문을 여는 ‘여기저기 서울형 키즈카페’ 11곳은 5월 2~3일 무료로 이용할 수 있다. 이 중 북서울꿈의숲과 여의도한강공원·반포한강공원, 서울식물원 등 4곳에 설치되는 여기저기 키즈카페는 어린이날까지 무료로 문을 연다. &lt;br&gt;&lt;br&gt;민간 키즈카페 이용자는 24일 오전 10시 발행되는 ‘서울형 키즈카페머니’를 구입해두면 좋다. 서울 민간 인증 키즈카페 62곳에서 쓸 수 있고, 20% 할인 효과가 있다. 1인당 월 20만원까지 구매할 수 있다.&lt;br&gt;&lt;br&gt;키즈위크가 열리는 5월 1일 서울숲 숲속놀이터에는 ‘초록초록 서울형 키즈카페’도 새롭게 문을 연다. 같은 날 서울숲에서 개막하는 ‘서울국제정원박람회’도 관람할 수 있다. 마채숙 서울시 여성가족실장은 “어린이날 연휴를 맞아 아이들이 서울 곳곳에서 마음껏 뛰어놀며 즐거운 추억을 쌓을 수 있기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“금정산 국립공원  마스코트 됐어요”</title>
       <link>https://www.chosun.com/national/regional/2026/04/24/LK7OBR6FIRHDDEXN2S4OM66G7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/24/LK7OBR6FIRHDDEXN2S4OM66G7E/</guid>
@@ -787,78 +872,6 @@
       <description/>
       <pubDate>Thu, 23 Apr 2026 15:44:00 +0000</pubDate>
       <content:encoded>문화체육관광부가 대한축구협회의 국가대표팀 감독 선임 절차 등을 문제 삼아 정몽규 회장에 대해 중징계를 요구한 것은 정당하다는 1심 법원 판단이 나왔다. 서울행정법원 행정5부(재판장 이정원)는 23일 축구협회가 징계 요구를 취소해 달라며 문체부를 상대로 낸 소송에서 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;문체부는 2024년 7~8월 축구협회를 감사한 뒤 그해 11월 대표팀 감독 선임 절차와 ‘비리 축구인’ 기습 사면 과정 등에서 9가지 위법·부당 사안을 확인했다며 정 회장에 대해 자격 정지 이상의 중징계를 요구했다. 자격 정지 이상 징계에는 해임과 제명도 포함돼 사실상 사퇴 요구로 풀이됐다. 축구협회는 불복해 소송을 냈다.&lt;br&gt;&lt;br&gt;재판부는 홍명보 대표팀 감독뿐만 아니라 위르겐 클린스만(독일) 전 감독 선임 과정이 적정하지 않았다며 문체부 손을 들어줬다. 축구협회 정관상 대표팀 감독은 국가대표 전력강화위원회(전강위)가 후보를 추천하고 이사회가 최종 결정하는데, 이 절차가 제대로 작동하지 않았다는 것이다. 재판부는 홍 감독 선임에 대해 “감독 추천 권한이 없는 이임생 당시 기술총괄이사가 추천해 이사회의 감독 선임 권한이 의미가 없어졌다”고 했다. 재판부는 또 클린스만 전 감독 선임과 관련해 “정 회장의 후보자 면접을 단순 면담으로 볼 수 없다”며 “전강위의 감독 추천 기능이 무력화됐고 정 회장이 감독 선임 과정에 권한 없이 개입했다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 이밖에 축구협회가 충남 천안 코리아풋볼파크를 만들며 문체부 승인 없이 대출을 받고 보조금을 허위로 신청한 것, 승부조작 등으로 징계 받은 전·현직 축구 선수 100명을 사면한 것 등도 부적절하다고 봤다.&lt;br&gt;&lt;br&gt;다만, 정 회장에 대한 문체부의 징계 요구는 내달 24일까지 집행되지 않는다. 이후 법원이 추가로 집행정지를 결정하지 않으면 축구협회는 징계 요구를 이행하고 그 결과를 문체부에 통보해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 전병남 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/24/NPJFBFS6YBAYPHLKEZ72OX4BXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/24/NPJFBFS6YBAYPHLKEZ72OX4BXE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲전병남 &lt;/b&gt;별세, &lt;b&gt;전수진 &lt;/b&gt;前 SBS미디어넷 엔터채널 대표·&lt;b&gt;전현진 &lt;/b&gt;방송작가 부친상, &lt;b&gt;김성호&lt;/b&gt; 바텍이우홀딩스 경영지원실장·&lt;b&gt;홍창수 &lt;/b&gt;대구대 교수 장인상=23일3시54분 신촌세브란스병원, 발인 25일6시, (02)2227-7500 &lt;br&gt;&lt;br&gt;&lt;b&gt;▲조영해 &lt;/b&gt;별세, &lt;b&gt;조성희&lt;/b&gt;·&lt;b&gt;조진희&lt;/b&gt;·&lt;b&gt;조연우&lt;/b&gt;·&lt;b&gt;조대희 &lt;/b&gt;SK증권 대구금융센터장&lt;b&gt; &lt;/b&gt;부친상, &lt;b&gt;이종영 &lt;/b&gt;장인상, &lt;b&gt;권민정 &lt;/b&gt;시부상=22일23시14분 대구가톨릭대병원, 발인 25일9시, (053)650-4444 &lt;br&gt;&lt;br&gt;&lt;b&gt;▲황재성 &lt;/b&gt;前 종로세무서장&lt;b&gt; &lt;/b&gt;별세, &lt;b&gt;김민현 &lt;/b&gt;남편상, &lt;b&gt;황규리&lt;/b&gt; 서울대 의대 교수·&lt;b&gt;황규찬&lt;/b&gt; 부친상, &lt;b&gt;이성은 &lt;/b&gt;시부상, &lt;b&gt;황도현&lt;/b&gt;·&lt;b&gt;황라현 &lt;/b&gt;조부상=23일3시30분 서울 보라매병원, 발인 25일8시30분, (02)836-6900 &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국고용정보원 개원 20주년 “AI 고용 플랫폼으로 도약”</title>
-      <link>https://www.chosun.com/national/labor/2026/04/24/4ZBGZMMZONA7TBMDKOXSWXCUBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/24/4ZBGZMMZONA7TBMDKOXSWXCUBM/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>한국고용정보원(원장 이창수)이 23일 개원 20주년을 맞아 ‘미래 전략 선포식’을 가졌다. 고용정보원은 고용노동부 산하 기관으로 각종 고용·직업 정보를 제공하는 기관이다. 온라인 정부 일자리 플랫폼 ‘고용24’를 구축·운영하고 있다.&lt;br&gt;&lt;br&gt;이창수 원장은 이날 선포식에서 구직자의 역량과 기업의 인력 수요를 분석해 연결하는 ‘AI 기반 고용 서비스’를 만들겠다고 밝혔다. 이를 위해 AI 전략팀을 신설하고 노동시장 분석 태스크포스(TF)를 가동하는 등 약 130억원을 투입하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘어성전’ 시리즈 이인섭 화백 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/24/GLM225MYNBFYHHO7QL47MIYKQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/24/GLM225MYNBFYHHO7QL47MIYKQA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YW3LCI2LRVCB5H74SCUN5YVPRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 양양의 시골 마을 풍경을 담은 ‘어성전(漁城田)’ 시리즈로 이름을 알린 이인섭(74) 화백이 23일 오전 별세했다. 홍익대 학사 및 석사 과정을 마친 고인은 금호미술관, 당림미술관 등에서 개인전을 36회 개최하며 활발한 활동을 이어왔다. 엑스포 시카고, 아트021 상하이, 키아프 서울 등 주요 국제 아트페어에 참여했고, 지난해 아트 센트럴 홍콩 ‘레전드’ 섹션의 초청 작가로 활동했다. 유족으로 부인 공미숙씨, 아들 이정균씨, 며느리 신미진씨 등이 있다. 빈소는 서울성모병원, 발인은 25일 오전 5시. (02)2258-5977.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북 아너 소사이어티 ‘직장인 1호’ SK하이닉스 직원, 익명으로 1억</title>
-      <link>https://www.chosun.com/national/people/2026/04/24/5BDLSWJSVFEQ7NBOLGMYO6EGQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/24/5BDLSWJSVFEQ7NBOLGMYO6EGQ4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>SK하이닉스 직원이 충북 지역의 고액 기부자 모임인 ‘아너 소사이어티’에 직장인으로서는 처음으로 이름을 올린 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;23일 충북사회복지공동모금회에 따르면 SK하이닉스 청주캠퍼스 소속 A(40대)씨는 지난 1월 1억원을 기부해 충북 99번째 아너소사이어티 회원이 됐다. 아너소사이어티는 1억원 이상을 기부했거나 5년 이내 납부를 약정한 개인 고액 기부자들의 모임이다. 기업인 중심으로 구성된 충북 아너소사이어티 회원 모임에 직장인이 이름을 올린 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;A씨는 당시 익명으로 거액을 기부한 뒤 모금회 측에 기부 사실을 외부에 알리지 말아 달라고 당부했다. 그러나 모금회 측이 선행의 귀감이 될 수 있다며 꾸준히 설득한 끝에 이 같은 사실이 뒤늦게 공개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 경찰청</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/24/XNVNKKPB7VFBJMZ33I7BAQYLWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/XNVNKKPB7VFBJMZ33I7BAQYLWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲경찰청&lt;/b&gt;◇총경 승진 예정▷마약조직범죄수사 길민성▷안보수사지휘 박현준▷재정 김홍기▷교통기획 이종학▷사이버테러대응 이승운▷과학수사기획 김정민▷정책지원 백민욱▷경호 박진우▷국제협력 조정미▷치안정보상황 박준현▷감사 천문영▷인사 박상구▷장비운영 이재환▷감찰 이성재▷청소년보호 임희진▷경무 이희상▷치안상황 강길범▷범죄예방정책 김재영▷여성안전기획 정대일▷반부패·공공범죄수사 최연석&amp;lt;서울청&amp;gt;▷홍보 송현건▷서울중랑 범죄예방대응 이규탁▷교통관리 정균수▷서울은평 범죄예방대응 송천호▷금융범죄수사 장보은▷서울종로 교통 정용우▷서울서초 형사 김경태▷서울용산 경비 정형은▷서울강동 범죄예방대응 이상일▷서울중부 교통 조응현▷서울수서 치안정보 문태호▷서울서초 치안정보 김정태▷공공범죄수사 고태완▷서울영등포 범죄예방대응 이교진▷서울광진 여성청소년 윤지숙▷서울강북 번동파출소 신승렬▷광역범죄수사 이승하▷서울마포 형사2 김하철▷서울강남 범죄예방대응 한승일▷서울남대문 치안정보 오종호▷서울서대문 범죄예방대응 김양수▷서울서부 경무 김남균▷서울송파 형사2 도영호▷안보관리 정한용▷치안정보상황 김호덕&amp;lt;경기남부청&amp;gt;▷형사 이용주▷수원영통 치안정보안보 이정호▷경무기획 박웅▷교통 김준▷경무기획 서영남▷분당 범죄예방대응 송경호▷용인서부 범죄예방대응 김종성&amp;lt;경기북부청&amp;gt;▷형사 한상민▷치안정보 서민석▷의정부 형사2 조은철&amp;lt;강원청&amp;gt;▷경무기획정보화장비 최우영▷청문감사인권 박경흠&amp;lt;경북청&amp;gt;▷경비 정선중▷홍보 박철민▷치안정보 한재웅&amp;lt;경남청&amp;gt;▷수사 김상일▷치안정보 이경랑▷청문감사인권 백진호▷반부패경제범죄수사 김종석&amp;lt;전북청&amp;gt;▷형사 박병연▷경무기획정보화장비 김명겸▷청문감사인권 이만석&amp;lt;전남청&amp;gt;▷교통 고성민▷경무기획정보화장비 김석진▷형사 최현▷범죄예방대응 서명준&amp;lt;충북청&amp;gt;▷청문감사인권 장성재▷안보수사 차상학&amp;lt;충남청&amp;gt;▷여성청소년 조상규▷예산 이권수▷형사 류근실▷홍보 서창선&amp;lt;인천청&amp;gt;▷여성청소년 최지혜▷홍보 최상욱▷수사 소완선▷경무기획 이정준▷반부패경제범죄수사 장현필&amp;lt;광주청&amp;gt;▷경무기획정보화장비 한정민▷치안정보 최윤석▷수사 한희주▷여성청소년 박의경&amp;lt;대구청&amp;gt;▷수사 이대헌▷홍보 김천우▷범죄예방대응 최홍열&amp;lt;대전청&amp;gt;▷광역범죄수사 김항수▷수사 신승주▷형사 김재춘&amp;lt;울산청&amp;gt;▷홍보 정지원&amp;lt;세종청&amp;gt;▷공공안전 이강범&amp;lt;부산청&amp;gt;▷부산연제 경무 임홍란▷부산해운대 경비 박명철▷범죄예방대응 신찬욱▷치안정보 심재준▷여성청소년 표준영▷청문감사인권 김한국▷수사 정태운&amp;lt;제주청&amp;gt;▷여성청소년 문기철&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한 달에 두번 오후 3시 퇴근해 아이와 카페서 수다떨어요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/24/NMPX7R425BEYTF4SWL24H76TOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/NMPX7R425BEYTF4SWL24H76TOQ/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2VIV7KARBC6PC4TP7R7NMM5YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 서울 강남구 메드트로닉코리아 사무실에서 직원들이 자녀 사진을 들고 활짝 웃고 있는 모습. 이 회사는 가족 돌봄 휴가와 재택근무 등을 통해 아이를 키우는 직원들을 지원하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주시에 사는 오황종(45)씨는 매달 두 번, 금요일 오후에 초등학교 4학년 딸과 데이트를 한다. 아이 하교 시간인 오후 3시 40분쯤 학교 정문에서 만나 동네 카페까지 산책을 하고, 도착해선 케이크를 먹으며 1시간 30분가량 수다를 떨다 집에 오는 소소한 동네 데이트다. 오씨는 “밝은 표정으로 오늘은 학교에서 무슨 일이 있었고, 친구들과 요즘 어떻게 지내는지 말하는 아이를 보면 저절로 행복해진다”고 했다.&lt;br&gt;&lt;br&gt;전업주부가 아니면 불가능해 보이는 이런 일상을 워킹맘인 오씨는 올해까지 4년째 이어오고 있다. 오씨가 근무하고 있는 메드트로닉코리아의 ‘가족의 날’(Family Day) 덕분이다. 가족의 날은 매달 첫째·셋째 주 금요일엔 오후 3시에 퇴근하는 회사 제도로, 가족 친화적인 조직 문화를 강화하기 위해 2022년 도입됐다. 오씨는 “작년 가을에 가족의 날을 이용해 놀이공원을 다녀왔는데, 당일 저녁 아이가 ‘오늘 행복했어요. 엄마 사랑해요’라고 하더라”며 “그 말을 듣는 순간 피곤이 싹 사라지고, 가족의 날 등의 제도를 통해 일도 육아도 모두 잘해낼 수 있게 적극 도와주는 회사가 있어 다행이라는 생각이 들었다”고 말했다.&lt;br&gt;&lt;br&gt;메드트로닉코리아는 미국·아일랜드 등 150개 국가에 9만5000여 명의 직원을 둔 글로벌 의료기술 기업 ‘메드트로닉’이 지난 2000년 설립한 한국 법인이다. 세계에서 가장 작은 심장박동기를 비롯해, 인공 판막, 암 수술에 쓰이는 로봇 등을 만드는 기업이다. 이 회사는 ‘구성원의 행복이 좋은 성과로 이어진다’는 철학 아래, 다양한 가족 친화적 제도를 운영하는 것으로 유명하다. 직원들이 일에 집중하려면 일·가정 양립으로 고민하거나 갈등하지 않을 수 있는 환경이 먼저 마련돼야 한다고 본 것이다. &lt;br&gt;&lt;br&gt;먼저 기혼 직원들이 “육아할 때 든든한 버팀목이 돼 준다”고 입을 모아 말하는 회사 제도는 ‘가족 돌봄 휴가(Family Care Leave)’였다. 출산이나 입양, 가족 간병 등의 사유가 발생하면 최대 6주간 유급 휴가를 남녀 직원 상관없이 육아휴직, 출산휴가와 별개로 쓸 수 있다. 출산과 육아는 계획대로 되지 않을 때가 많은 만큼, 직원들이 회사 눈치 보지 않고 가정에 집중할 수 있게 해주자는 취지에서 2021년 도입했다.&lt;br&gt;&lt;br&gt;공급망 관리팀에서 일하는 박병준(42)씨는 아들 셋, 딸 하나를 키우는 워킹대디다. 그는 셋째와 넷째 출산 때 가족 돌봄 휴가를 각각 4주, 2주간 사용했다. 특히 박씨는 아내가 넷째를 임신 중이던 작년 11월 말, 가족 돌봄 휴가가 없었다면 일과 가정 중 하나를 포기해야 하는 암담한 상황에 직면했을 것이라고 회상했다. 당시 양수가 새는 등 아내에게 조산 증상이 나타나 급하게 응급실로 향했더니, 병원에서 당장 입원해야 한다는 얘기를 들었다. 박씨는 “아내 병간호뿐 아니라 세 아이 육아까지 챙겨야 해 도저히 일을 할 수 없어 다음날 아침에 가족 돌봄 휴가를 급하게 신청했다”며 “회사 입장에서도 급작스러웠을 텐데 가정이 먼저라며 바로 휴가에 들어갈 수 있게 처리해줘 온전히 가족에게만 집중할 수 있었다”고 했다. 이어 “아이를 키우는 일은 분명 행복하지만 예기치 않은 일도 자주 생긴다”며 “회사가 가족 돌봄 휴가 등의 제도로 가족들에게 내가 가장 필요한 시기에 그 옆을 지킬 수 있게 해줘 참 고마웠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;메드트로닉코리아는 직원들이 업무 특성에 맞게 회사 출근과 재택근무(최대 주 2회)를 병행할 수 있는 유연근무제도 운영 중이다. 현재 직원 500여 명의 절반 이상(51%)이 이를 활용하고 있다. 재택근무 날짜가 따로 고정돼 있지 않고 필요한 요일에 재택을 하면 돼 직원 만족도가 높다고 한다. &lt;br&gt;&lt;br&gt;허가팀(Regulatory Affairs)에서 일하는 방아름(36)씨는 재택근무의 가장 큰 장점으로 다섯 살 된 딸과 함께하는 시간이 조금이라도 많아진다는 점을 꼽았다. 경기 시흥시에 사는 방씨는 회사 사무실이 있는 서울 강남 테헤란로까지 출퇴근에만 왕복 4시간이 걸린다. 사무실로 출근하는 날엔 오전 6시에 집을 나서야 해 잠자는 아이의 얼굴만 볼 수 있고, 퇴근하고 집에 오면 오후 7시여서 하원을 챙기기 어렵다. 하지만 재택하는 날엔 통근 시간이 따로 들지 않으니, 등원하는 아이에게 웃으며 ‘잘 다녀와’ 하고 인사를 할 수 있다. 하원할 때 마중도 가능하다. 학원 차량에서 내린 아이는 ‘엄마!’ 외치며 팔 벌려 뛰어와 품에 안긴다. 두 사람은 놀이터에서 놀다 집으로 돌아온다. &lt;br&gt;&lt;br&gt;방씨는 “재택근무하는 날이면 애가 먼저 ‘엄마가 집에서 일하는 날이다!’라고 좋아한다”며 “통근 피로는 줄고 아이와의 추억은 더 많이 만들어주는 재택근무가 있어 일도, 육아도 더욱 몰입해서 해낼 수 있는 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;메드트로닉코리아 직원들은 최대 4주간 원격 근무를 할 수도 있다. 아이가 해외로 영어 캠프를 떠날 때, 또는 가정사가 있지만 굳이 가족 돌봄 휴가까지 쓰지 않아도 될 때 최대 4주 원격 근무를 이용하는 경우가 많다고 한다. 또 이 회사는 2019년부터 매년 가족 초청 행사도 진행하고 있다. 직원 30~40명의 가족들을 메드트로닉 이노베이션 센터로 초대해, 수술용 로봇, 인공 판막 등을 직접 조작하고 만져볼 수 있게 해준다. 회사 관계자는 “자녀들에게 엄마와 아빠가 어떤 회사에서 일하는지 경험할 수 있게 해주자는 취지에서 시작했다”며 “아이들이 평소 쉽게 접해볼 수 없는 것들을 체험할 수 있다 보니 인기가 많다. 매년 공들여 행사를 준비하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아이 이럴 땐 어떻게?] 배변훈련 실수로 시무룩한 아이, 안정된 정서적 지지가 필요해요</title>
-      <link>https://www.chosun.com/national/nie/2026/04/24/3WQ7VVPLVJF2FM4RGKB2TLOAB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/04/24/3WQ7VVPLVJF2FM4RGKB2TLOAB4/</guid>
-      <dc:creator>이윤선 배화여대 아동보육과 교수</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;Q. 24개월 여자아이를 키우는 엄마입니다. 며칠 전부터 기저귀 떼는 연습을 시작했어요. 하루에 실수하는 횟수가 조금씩 줄고 있어요. 그런데 아이가 실수했을 때 많이 시무룩해지고 실망합니다. 혼낸 적도 없는데 말이죠. 괜히 제가 일찍 시작해서 스트레스 주는 건 아닐까 걱정됩니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. 15개월 이전에는 기저귀에 전적으로 의존하는 시기입니다. 개인차는 있지만, 15~24개월은 배변 훈련이 가능해지는 시기로 볼 수 있습니다. 24~29개월에는 점차 대소변을 가리기 시작하지만, 여전히 실수가 잦습니다. 30~36개월이 되면 배변 의사 표현이 가능해지고, 소변을 잠시 참는 능력도 발달합니다.&lt;br&gt;&lt;br&gt;배변 훈련의 발달 단계는 크게 ‘의존’에서 ‘인식 시작’, ‘연습과 실수’ 그리고 ‘표현과 조절’로 나눌 수 있습니다. 현재 24개월 영아는 실수와 성공이 함께 나타나는 ‘연습과 실수’ 단계에 해당합니다. 성공하면 기뻐하고 실수하면 실망한 표정을 보일 수 있어요. 이러한 반응은 ‘행동의 주체가 나’라는 자아 인식 발달과 관련 있습니다. 자기 행동의 결과를 자기 자신과 연결하여 이해하고 있다는 의미입니다. 이때 나타나는 좌절은 단순한 실패가 아니라, 다시 시도하려는 의지로 이어지는 중요한 발달 과정입니다.&lt;br&gt;&lt;br&gt;영아기 배변 훈련은 자율성을 발달시키는 중요한 과업입니다. 자율성이란 스스로 선택하고, 결정하며, 자신의 행동을 조절하는 능력입니다. 여기서 중요한 것은 ‘스스로’입니다. 영아는 아직 신체·언어적으로 미숙하기 때문에 완전히 독립적으로 수행하는 데는 제한이 있지만, 성공 경험을 통해 ‘스스로 할 수 있다’는 감각을 형성해 갑니다. &lt;br&gt;&lt;br&gt;실수는 발달 과정에서 자연스럽게 나타나는 현상입니다. 중요한 것은 실수 이후에도 다시 시도하려는 의지를 유지하는 것입니다. 영아가 실수 후 보이는 실망하거나 위축된 표정은 양육자의 반응을 인식하고 있다는 신호입니다. 따라서 “괜찮아, 그럴 수 있어” “조금씩 배우는 중이야”와 같은 표현으로 정서적 지지를 제공하는 것이 중요합니다. 이때 불안하거나 걱정스러운 표정보다는 담담하고 안정된 태도로 반응하는 것이 필요합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/04/24/C7PYP4PFNZFY5CGTHTR6RZ26PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/04/24/C7PYP4PFNZFY5CGTHTR6RZ26PM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Apr 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXNYO6JXRFE67PNH2MLSDKONJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-4-24일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 17일 ‘우리 아기가 태어났어요’ 코너에 실린 조우리&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 4월 24일</title>
