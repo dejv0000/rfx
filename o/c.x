@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 4월 27일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/04/26/GB2CGNCNKNGENISYTJA6ZEDR5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/04/26/GB2CGNCNKNGENISYTJA6ZEDR5E/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Apr 2026 14:34:00 +0000</pubDate>
+      <content:encoded> 수도권·강원 등에 저녁부터 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WC7PLU3S7NCJBPLN5BRIPWL2VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“낯설고 외로운 타국살이, 서울 도심 달리며 날려 버렸죠”</title>
+      <link>https://www.chosun.com/national/people/2026/04/26/GTZNFFHZTBDPJM3UWNSO7V2TV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/26/GTZNFFHZTBDPJM3UWNSO7V2TV4/</guid>
+      <dc:creator>김동현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Apr 2026 13:47:46 +0000</pubDate>
+      <content:encoded>2만1000여 명의 땀방울이 봄날을 물들인 2026 서울하프마라톤(서울특별시·서울특별시체육회·조선일보사 공동 주최). 수많은 인파 속에 이국적인 외모와 옷차림의 외국인 참가자들이 눈에 띄었다. 미국과 영국, 독일, 필리핀 등 14국에서 온 72명의 ‘외국인 러너’가 올해 대회에 출사표를 던졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI36U7JXFFEYRHC5ROUWEI4JRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울하프마라톤에 출전한 코린 스패스(미국·왼쪽), 푸트리 데비나 위댜(인도네시아·가운데), 프랭키 챈(호주)씨./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 대회 10㎞ 부문 결승점 여의도공원에서 만난 벤자민 이컹(33)씨는 “서울하프마라톤 덕분에 달리기를 시작해 무엇이든 할 수 있다는 자신감을 얻었다”며 환하게 웃었다. 3년 전 필리핀 세부의 섬 막탄에서 건너와 경기도 이천의 도넛 공장 치즈볼 생산 라인에서 일하는 그는 “한때 적응에 어려움을 겪으며 우울감에 빠져 살았다”고 털어놓았다.&lt;br&gt;&lt;br&gt;“언어부터 음식, 일하는 방식, 혼자 지내는 일상까지 모든 게 낯설고 버거운 데다 고향의 가족과 친구들이 사무치게 그리웠어요.” 그런 이컹씨의 삶을 바꾼 건 작년 11월 소셜미디어에서 우연히 본 서울하프마라톤 게시물이었다. 수많은 사람과 뒤섞여 서울 도심을 누비면 외로움이 씻겨나갈 것 같다는 생각에 무작정 러닝화를 사서 매일 집 근처를 달리며 훈련했다.&lt;br&gt;&lt;br&gt;이날 10㎞를 57분43초에 주파한 이컹씨는 “꿈에 그리던 서울하프마라톤을 완주하니 앞으로 어떤 목표든 이룰 수 있다는 용기가 솟구친다”며 “열심히 저축해 한국에서 작지만 번듯한 내 사업장을 꾸리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;부상을 딛고 생애 첫 하프 코스(21.0975㎞)에 도전한 사연도 눈길을 끌었다. 대구국제학교의 학생 상담사 코린 스패스(34·미국)씨는 2시간20분54초 기록으로 결승선을 통과했다. 2년 전 허리와 골반 부상으로 고생했지만, 꾸준한 재활과 달리기 덕에 건강을 되찾았다고 한다.&lt;br&gt;&lt;br&gt;3년 전 대구에 정착한 스패스씨는 “2019년 서울 여행을 왔다가 한강과 북한산, 노래방 등 한국 특유의 풍경과 문화에 푹 빠졌다”며 “서울의 상징적인 도심을 달릴 수 있다는 소식에 주저 없이 인생 첫 하프 마라톤을 신청했다”고 했다. 그는 “무리 지어 달리는 한국의 젊은 러너들을 보며 나도 ‘러닝 크루’에 가입하고 싶어졌다”며 “학업이나 교우 관계로 스트레스를 받는 우리 학생들에게도 달리기를 적극적으로 추천할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;국경을 뛰어넘는 가족애를 뽐낸 참가자도 있었다. 나카가와 사치(36·일본)씨는 10년 전 부부의 연을 맺은 한국인 남편과 나란히 10㎞ 코스를 완주했다. 마라톤 마니아인 남편의 권유로 2년 전 달리기에 입문한 나카가와씨는 “작년에는 춘천마라톤 풀코스를 뛰었는데, 화려한 서울 거리를 질주하는 기분은 또 다르다”며 “언젠가 남편과 내가 두 딸(8·6세)의 페이스메이커가 되어 온 가족이 나란히 결승선을 밟고 싶다”고 미소를 지었다.&lt;br&gt;&lt;br&gt;한국인 아내, 딸(13)과 함께 3년 전 서울로 이주한 프랭키 챈(47·호주)씨는 46분29초 기록으로 10㎞ 레이스를 마쳤다. 챈씨는 “호주, 홍콩 등 여러 나라에서 살아봤지만, 장거리를 신호등 없이 달릴 수 있는 하천길이 조성된 도시는 서울 말곤 없었다”며 “주말마다 달리기에 시간을 쏟는 나를 항상 응원해주는 딸과 아내에게 늘 감사하다”고 했다.&lt;br&gt;&lt;br&gt;외국인 참가자들은 한국의 뜨거운 ‘러닝 열기’에 반했다고 했다. 이날 히잡을 쓰고 10㎞ 코스를 완주한 한양대 박사과정생 푸트리 데비나 위댜(32·인도네시아)씨는 “한국의 젊은 세대가 달리기로 하나 되어 체력과 끈기를 다지는 모습이 놀랍고 부러웠다”고 참가 계기를 밝혔다. 4년 넘게 유학 생활을 해온 그는 “앞으로 훈련량을 늘려 당당히 한국에서 풀코스 완주 메달을 목에 걸겠다”고 포부를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가평 골프장 10만명 털렸다… 경찰 “北 해킹조직 무게”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/26/RYW5DLHVYBCCPCBGK6Q2BJ2F6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/26/RYW5DLHVYBCCPCBGK6Q2BJ2F6Q/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Apr 2026 12:10:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7H2AHURXFJGBJFQMJB2W6GMHBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 가평군에 있는 골프장 리앤리컨트리클럽(CC)/홈페이지 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 가평의 골프장 리앤리컨트리클럽(리앤리CC)에서 고객 개인 정보가 유출된 사실이 확인돼 경찰이 수사에 나섰다. 경찰은 북한 해커 조직의 소행 가능성에 무게를 두고 있다.&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면 경찰청 안보수사지휘과는 리앤리CC 홈페이지 해킹 사건과 관련해 수사를 진행 중이다. 경찰은 북한 정찰총국 산하 해킹 조직의 활동을 추적하는 과정에서 해당 골프장 서버가 악성코드에 감염된 정황을 포착하고, 지난 17일 리앤리CC 측에 해킹 사실을 통보한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;리앤리CC 측은 이후 지난 18일 홈페이지 공지와 문자메시지를 통해 고객들에게 개인 정보 유출 사실을 알리고 사과문을 게시했다. 회사는 지난해 10월 21일 홈페이지에 악성코드가 삽입되면서 고객 정보가 유출된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;유출된 정보는 이름, 생년월일, 성별, 아이디, 비밀번호, 연락처, 이메일, 주소 등으로, 10만명 이상이 피해를 본 것으로 추산된다. 경찰은 구체적인 유출 경위와 규모, 해킹 배후에 대해 추가 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대장동 수사 지휘 송경호 “항소 포기, 국조·특검해야”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/26/ZVM3MXE5TZBNDFFGVWVIG4QQZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/26/ZVM3MXE5TZBNDFFGVWVIG4QQZI/</guid>
@@ -894,33 +921,6 @@
       <description/>
       <pubDate>Fri, 24 Apr 2026 07:26:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZGIYLFMMYGGYTFMI2GENDDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가전제품 렌털 계약 후 물품을 지급하지 않고 대금 7억원을 가로챈 50대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 특정경제범죄 가중처벌 등에 관한 법률상 사기 혐의로 렌털업체 대표 50대 A씨를 구속했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;인천지법은 전날 증거인멸 등을 이유로 A씨에 대한 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;A씨는 2023년 9월부터 이듬해 8월까지 피해자 27명과 가전제품 렌털 계약을 맺은 뒤 7억여 원의 대금을 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 냉장고와 냉동고를 대여하면 정부 지원 사업과 연계해 수익금을 주겠다고 속여 계약을 유도한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;피해자들로부터 고소장을 접수한 경찰은 수사에 나서 A씨가 물품을 지급할 능력이 없이 계약을 맺은 것으로 봤다. &lt;br&gt;&lt;br&gt;그러나 A씨는 범행을 부인하는 것으로 알려졌다. 경찰은 구체적인 범행 경위를 파악해 A씨를 검찰에 송치할 예정이다. 공범이 없는지 여부도 수사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아들, 40곳 취업 탈락해 해외로” 조혜련도 체감한 일자리 감소</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/24/O3BLZFIVFFGDVMD2Q6VOU3JJH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/O3BLZFIVFFGDVMD2Q6VOU3JJH4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Apr 2026 07:12:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IICSAE6H6RBJBGLWH443CPLGQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 조혜련과 아들 김우주 씨. /조혜련 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 조혜련이 아들 김우주씨가 국내에서 취업에 실패해 결국 해외로 나가게 됐다는 사연을 공개했다.&lt;br&gt;&lt;br&gt;조혜련은 지난 23일 유튜브 채널 ‘머니그라피’에 출연해 ‘백수인데 집에서 눈치 안 보고 누워 있고 싶다’는 내용의 사연을 접했다. &lt;br&gt;&lt;br&gt;조혜련은 “이거는 내가 봤던 모습이다. 내 남동생이 그랬고 아들 우주가 그랬다”며 “집에서 일을 안 하고 있는 건 그렇다 치는데 제일 화가 나는 건 누워 있는 것”이라고 공감을 표했다.&lt;br&gt;&lt;br&gt;조혜련은 “아무 일도 안 하고 집에 있으려면 최소한 앉아는 있어야 하지 않냐. 정말 미안하면 서 있든가”라며 “그런 마음이라도 가지고 있으면 밉지가 않은데 낮 3시가 되어도 안 일어나고 그러면 너무 화가 난다”고 했다. &lt;br&gt;&lt;br&gt;다만 조혜련은 “솔직히 이야기하면 취직을 못하는 건 죄가 아니다. 취직을 할 수가 없다. 취직을 할 곳이 없다”고 현재 취업 시장의 상황을 전했다. &lt;br&gt;&lt;br&gt;조혜련은 “아들 우주가 대학교 입학하며 게임기획학과에 들어갔다. 한 학년에 250명을 뽑았다”며 “그때는 게임이 한창 유행이었다. 갑자기 AI(인공지능) 세상이 되더니 사람들이 게임을 안 한다. 그러니까 (게임을) 기획할 일이 없는 거다. 그럼 얘는 어떻게 하냐”고 했다. &lt;br&gt;&lt;br&gt;조혜련은 “그래서 우주도 다른 나라로 간다. 시드니로 간다. 워킹 홀리데이로 간다”며 “정말 거짓말이 아니라 아들이 원서를 40군데쯤 냈다. 다 떨어졌다. 안 뽑는다. 그러니까 (백수가) 죄인은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;쉬고 있는 청년들에게는 “잘 쉬어라. 쉴 때 잘 쉬어야 한다. 쉴 만큼 쉬어 봐야 ‘아 못 쉬겠어 이제’ 이러고 일어난다”면서도 “쉬면서 죄인처럼 살지는 말았으면 좋겠는데 누워 있는 건 매너가 아닌 것”이라고 재차 강조했다. &lt;br&gt;&lt;br&gt;23일 국가데이터처에 따르면, 올해 1분기(1~3월) 아르바이트 등 단기 근로를 하며 또 다른 일자리를 찾길 희망하는 청년층 불완전 취업자 규모가 5년 만에 가장 많았다. 아르바이트조차 구하기 힘든 상황이 이어지면서 구직을 포기하고, 집에서 쉬는 청년 역시 크게 늘고 있다. 한국은행에 따르면, 지난해 ‘쉬었음’ 청년은 58만명으로 코로나 직전인 2019년(46만명)보다 12만명 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대한박물관’ 간판 달고... 은평한옥마을서 中 유물 전시 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/24/JZMDZVVWZBBPNMDOFPYURDXTUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/JZMDZVVWZBBPNMDOFPYURDXTUE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Apr 2026 06:53:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRQQZYOL7NDJLPMUCONEV34E2U.png"&gt;&lt;figcaption&gt;&lt;small&gt;'대한' 이름을 내걸고 중국 고대 역사 유물 전시에 나서 논란이 된 시설. /서경덕 교수 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평한옥마을 근처에 ‘대한박물관’이라는 이름을 내걸고 중국 고대 역사 유물 전시에 나선 시설이 논란이 됐다. 이에 은평구는 “이 시설은 구와 전혀 관련이 없다”며 강경 대응을 예고했다. 한 서울시의원은 이 시설 운영 주체를 경찰에 고발하기도 했다.&lt;br&gt;&lt;br&gt;은평구는 24일 입장문을 통해 “은평구는 진관동 소재 ‘대한박물관’(Korea Museum)과 관련된 주민 여러분의 우려를 무겁게 받아들이고 있다”며 “해당 시설은 은평구와 전혀 관련 없음을 분명히 밝힌다. 본 시설은 미등록 사설 박물관”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “구는 지난 17일 현장 점검을 통해 건축물대장상 용도(제2종 근린생활시설) 및 지구단위계획상 허용 용도와 실제 사용 형태가 일치하지 않을 가능성이 있음을 확인했다”며 “오는 5월 초 본 시설이 개관하는 즉시 현장 확인을 실시할 것”이라고 했다.&lt;br&gt;&lt;br&gt;은평구는 이 시설이 중국 역사 유물을 주로 전시하면서도 ‘대한박물관’이라는 명칭을 사용하는 점도 문제 삼았다. 구는 “방문객이 한국 문화 전시 시설로 오인할 우려가 있다”며 “이 부분에 대해서는 실태를 확인해 표시광고법 위반 여부를 공정거래위원회에 고발하는 방안도 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;다만 “현행 법령상 개관 이전에 행정적으로 취할 수 있는 조치에는 한계가 있음을 답답한 마음으로 말씀드린다”며 “은평구는 가용한 법적 수단을 최대한 활용하되, 절차에 따라 단호하고 적법하게 대응하겠다”고 했다. 아울러 “은평한옥마을과 한문화체험특구는 구가 오랜 시간 공들여 조성해 온 한국 전통문화의 거점”이라며 “이 지역의 문화적 정체성을 지키고자 하는 주민 여러분의 뜻을 깊이 새기며 할 수 있는 모든 조치를 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;아직 정식 개관하지는 않은 이 시설은 ‘대한’이라는 명칭을 내걸고 정작 중국 역사 위주로 전시를 준비해 논란이 됐다. 최근까지 건물 앞에 내걸린 전시 안내판에는 하·상·주 같은 고대 왕조부터 청나라까지 중국 역사 전시 리스트가 담겼다.&lt;br&gt;&lt;br&gt;이곳 박물관에서 불과 100m 떨어진 거리에는 한옥마을이 위치하고 있어 외국인 관광객의 경우 오해하기 쉽다는 지적이 제기됐다. 서경덕 성신여대 교수는 “은평한옥마을은 내국인뿐만 아니라 외국인 관광객들의 발길이 끊이지 않는 명소라는 점에서 한국 역사 전시 시설로 오인할 가능성이 매우 높다”며 “간판은 ‘코리아 뮤지엄’인데 박물관 안에 들어가면 중국 역사를 맞이하게 되는 건 외국인 관광객들을 기만하는 행위가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;서 교수가 이곳을 직접 방문했을 당시 입구 쪽에서 중국 기마병 같은 전시품이 제일 먼저 눈에 들어왔다고 한다. 서 교수는 “어떤 취지로 이 박물관의 이름을 ‘코리아 뮤지엄’으로 지었는지는 정확히 모르겠지만, 명칭을 반드시 바꿔야 할 것”이라며 “지나가는 지역 주민들도 손가락질을 하면서 이 문제의 심각성을 표출했다. 서울시 및 은평구는 관련 법규 등을 잘 살펴보고 대처를 잘해 주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;문성호 서울시의회 의원은 23일 이 박물관 운영 주체를 건축법 위반, 표시광고법 위반, 박물관미술관법 위반 혐의로 서울경찰청에 고발했다고 밝히기도 했다. 문 의원은 “자칭 ‘대한박물관’의 등기부등본을 확인한 결과 박물관 운영이 가능한 ‘문화 및 집회시설’이 아닌 ‘제2종 근린생활시설’로 등록돼 있었다”며 “건축법상 용도 변경 허가 절차 없이 박물관으로 사용하는 것은 명백한 불법”이라고 했다.&lt;br&gt;&lt;br&gt;또 “한옥마을이라는 입지 조건과 관광 명소의 위상을 이용하고 ‘대한’이라는 명칭을 결합해 방문객들이 한국 전통문화를 전시하는 곳으로 오인하도록 유도하고 있다”며 “실제로는 중국 신석기 시대부터 명·청 시대에 이르는 중국 왕조사 위주로 구성돼 있어 표시광고법 제3조가 금지하는 ‘기만적 표시·광고’”라고 했다. 여기에 더해 미등록 시설임에도 ‘박물관’이라는 명칭을 사용하는 점이 허위 정보를 제공하는 불법 명칭이라는 게 문 의원 지적이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선관위, 주민들 휴대전화 걷어 전남 군수 경선 ‘대리 응답’한 3명 고발</title>
-      <link>https://www.chosun.com/politics/politics_general/2026/04/24/GJXUDLS44FE2ZNAJM3YIWL66DE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2026/04/24/GJXUDLS44FE2ZNAJM3YIWL66DE/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Apr 2026 06:24:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGEV4RD2YBMF7AI5T4Q7R2GENQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전라남도선거관리위원회가 지난 15일 전남 나주 영산강 유채꽃밭에 기표 모양 꽃길을 만들어 6·3 지방선거를 홍보하고 있다. /전라남도선거관리위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 전남 지역 군수 후보를 선출하기 위한 당내 경선 여론조사에서 대리 응답을 한 3명이 선거법 위반으로 경찰에 고발됐다.&lt;br&gt;&lt;br&gt;24일 전라남도선거관리위원회에 따르면, 마을 이장인 A씨는 이달 초 마을 방송으로 “오늘은 칼국수를 먹으러 가는 날이다. 한 분도 빠짐없이 휴대폰을 가지고 경로당으로 나오라”라며 주민들을 불러 모았다. A씨는 모인 주민 26명의 휴대전화에 각 주민의 이름과 생년월일을 적은 종이를 붙였고, 주민들을 식당으로 이끌었다.&lt;br&gt;&lt;br&gt;A씨는 식당에서 주민들에게 “02로 오는 전화가 오면 달라”고 요구했다. 6명에게 실제로 경선 여론조사 전화가 걸려오자, A씨는 앞서 적어둔 이름과 생년월일 정보를 활용해 특정 후보를 지지한다고 대신 응답했다. 전화가 오지 않은 17명의 휴대전화는 나중에 여론조사 전화가 오면 응답하기 위해 회관으로 가져가 보관했다.&lt;br&gt;&lt;br&gt;특정 정당의 권리당원인 B씨도 전남광주통합시장 후보 선출을 위한 당내 경선과 군수 후보 선출을 위한 당내 경선을 위해 마을 회관을 두 차례 방문해 주민 18명의 휴대전화와 이름·생년월일 등 인적 사항을 건네받았고, 이 가운데 8명에게 경선 여론조사 전화가 걸려오자 현장에서 특정 후보들을 위해 대리 응답을 했다.&lt;br&gt;&lt;br&gt;다른 권리당원 C씨도 전남광주통합시장 후보와 군수 후보 선출을 위한 당내 경선을 앞두고 마을을 돌아다니며 주민 7명에게 휴대전화를 빌렸다. C씨는 휴대전화를 자기 집에 보관하다가 1명에게 경선 여론조사 전화가 걸려오자 대리 응답을 했다.&lt;br&gt;&lt;br&gt;전남선관위는 A·B·C씨가 각각 선거법 237조 ‘부정한 방법으로 당내 경선의 자유를 방해한 자’에 해당돼 5년 이하 징역 또는 1000만원 이하의 벌금에 처해질 수 있다고 지적했다. 또 선거법 108조 ‘선거에 관한 여론조사의 결과에 영향을 미치게 하기 위해 둘 이상의 전화번호를 같은 사람이 두 차례 이상 응답하는 행위’에 해당돼, 3년 이하의 징역 또는 600만원 이하의 벌금에도 처해질 수 있다고 했다.&lt;br&gt;&lt;br&gt;전남선관위는 “당내 경선은 후보자 선출의 중요한 절차로, 유권자의 자유로운 의사 표현이 보장돼야 한다”며 “타인의 의사에 개입해 여론조사 결과를 왜곡하는 행위에 대해 무관용 원칙으로 엄중 조치할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>더위만큼 빨리 온 모기, 평년보다 7배 많아져</title>
