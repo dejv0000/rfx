@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대장동 수사 지휘 송경호 “항소 포기, 국조·특검해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/26/ZVM3MXE5TZBNDFFGVWVIG4QQZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/26/ZVM3MXE5TZBNDFFGVWVIG4QQZI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Apr 2026 09:12:40 +0000</pubDate>
+      <content:encoded>대장동 개발 비리 사건 수사를 지휘한 송경호 전 서울중앙지검장이 ‘대장동 항소 포기’ 사태에 대해 국정조사와 특검이 필요하다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4WMOLCGVRDCYJYHEZTMODEGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송경호 전 서울중앙지검장이 지난 16일 서울 여의도 국회 윤석열 정권 조작기소 의혹 사건 진상규명 국정조사특별위원회 사건 청문회에서 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 전 지검장은 26일 입장문을 내고" 특검이 향해야 할 곳은 사상 초유의 ‘대장동 1심 항소 포기’ 사태의 진상규명“이진상 규명”이라며장했다. 송 전 지검장은 검찰의 항소 포기에 대해 ”부패 세력“부패천문학적 범죄수익을 범죄 수익을납한 참담한 ‘사법적 배임’ 행위“라며 행위”라며 “지휘부의항소 포기 지시는 대장동 일당에게 ‘든든한 방패막이’를 자처한 꼴이 되었다”고 비판했다.&lt;br&gt;&lt;br&gt;송 전 지검장은 “이번 사태는 정상적인 지휘 체계를 완전히 무너뜨린 법무부의 압박과 이에 비겁하게 순응한 검찰 수뇌부가 빚어낸 사법적 참사”라며 “당시 중앙지검장은 자신의 결재를 스스로 번복했고, 검찰총장 직무대행 또한 ‘숙고 끝에 내린 결정’이라고 강변하며 지휘부의 과오를 정당화했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “항소 포기 사태 직후, 지휘부에 합리적인 경위 설명을 촉구한 전국 검사장들을 향해 법무부는 해명 대신 ‘강등 및 좌천’이라는 가혹한 보복을 택했다”며 “권력의 입맛에 맞지 않는 목소리를 냈다는 이유만으로 검찰 핵심 간부들을 하루아침에 내친 것은 명백한 인사권 남용”이라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “부패 재산은 철저히 보호하면서 진실을 쫓던 검사들만 벼랑 끝으로 내모는 이 기막힌 현실이야말로, 지금 국회가 강행하는 국정조사의 추악한 실체를 적나라하게 증명하고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;송 전 지검장은 “법무부 수뇌부와 대검·중앙지검 지휘부가 과연 누구 지시를 받아 7800억 원대 범죄수익 환수를 포기했는지 명명백백히 밝혀야 한다”며 “사상 초유의 ‘항소 포기 사태’에 대한 즉각적인 국정조사와 특검 도입을 다시 한번 강력히 촉구한다”고 마무리했다.&lt;br&gt;&lt;br&gt;그는 지난 22일에도 입장문을 통해 “특정 피고인의 이해관계를 대변하며 법 집행 공직자들을 근거 없이 죄인으로 몰아가는 청문회 연극은 중단돼야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“러닝으로 육아 스트레스 풀어요”... 서울하프마라톤의 ‘엄마 러너’들</title>
       <link>https://www.chosun.com/national/national_general/2026/04/26/L6I5UEPOKNG2ZBV3ZCKX5P4UGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/26/L6I5UEPOKNG2ZBV3ZCKX5P4UGI/</guid>
@@ -925,15 +934,6 @@
         <media:description type="plain">서울 낮 최고 기온이 25도를 웃돌며 초여름 날씨가 이어지는 16일 서울 종로구 광화문광장에서 외국인 관광객이 발걸음을 옮기고 있다. 2026.4.16 ⓒ 뉴스1 최지환 기자</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>서울경찰청, 주한 태국 대사 등 8명 국제협력 자문위원으로 위촉</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/24/J6JDXVN7IRFBXCLZKEVS2X6YGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/24/J6JDXVN7IRFBXCLZKEVS2X6YGU/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Apr 2026 06:10:08 +0000</pubDate>
-      <content:encoded>서울경찰청이 태국·베트남·인도네시아·필리핀 등 아세안 11개 국가의 주한 대사단과 고위 공무원단을 국제협력 자문단으로 임명하는 위촉식을 24일 개최했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZH22F6P55CGBER4ZFVGAP6K6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청은 24일 아세안 11개 국가 주한 대사단 관계자들을 '국제협력 자문단'으로 위촉했다. 앞줄 왼쪽 네 번째부터 순서대로 타니 생랏 주한 태국 대사, 민병철 선플재단 이사장, 박정보 서울경찰청장. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 이날 대사단 위원장인 타니 생랏 주한 태국 대사, 민병철 선플재단 이사장 등 8명을 국제협력 자문위원 및 명예 자문위원으로 위촉했다. 경찰에 따르면 이날 행사는 우리 경찰의 외국인 대상 안전 확보에 대해 아세안 대사단이 감사의 뜻을 전하는 차원에서 열렸다. &lt;br&gt;&lt;br&gt;경찰과 대사단은 이날 국내 거주하는 외국인이나 다문화 가정을 대상으로 하는 범죄 예방과 피해자 보호·지원 방안 등을 논의했다. 또 오는 6월 서울에서 열리는 국제 수도경찰협의체(ICPC) 행사에 대비한 수도 경찰간 공조 강화 방안도 의견을 나눴다. 다문화 가족과 국내 거주 외국인에 대한 편견과 차별을 지양하고 상호 존중하는 ‘K-리스펙트 캠페인’에도 동참한다.&lt;br&gt;&lt;br&gt;박정보 서울청장은 “외국인 대상 범죄는 어느 한 나라 또는 한 기관이 홀로 대응할 수 있는 문제가 아니다”라며 “특히 서울은 27만9000명(올해 1월 기준)의 외국인이 거주하고 있고 주요 대사관도 밀집한 만큼, 범죄 예방 및 피해자 보호를 위한 협력 체계를 강화할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>특검, ‘평양 무인기’ 윤석열 1심서 징역 30년 구형</title>
