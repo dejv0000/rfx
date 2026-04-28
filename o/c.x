@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>개 데리고 밥 먹는 식당 늘었지만… 10명 중 7명은 “사회적 합의 부족”</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/29/5RGJCWXSWVC4VAJO42WLIRSRZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/29/5RGJCWXSWVC4VAJO42WLIRSRZM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Apr 2026 23:42:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQWCNRXGBSWGOJQMRRDSOBRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 지난달부터 ‘반려동물 동반 출입 음식점’ 제도를 본격 시행하면서 관련 매장이 빠르게 늘고 있지만, 위생과 안전에 대한 시민들의 우려는 여전히 높은 것으로 나타났다.&lt;br&gt;&lt;br&gt;29일 시장조사 전문기업 엠브레인 트렌드모니터가 전국 성인 남녀 1,000명을 대상으로 조사한 결과에 따르면, 현행 제도 시행에 대한 긍정적 평가는 28.5%에 불과했다.&lt;br&gt;&lt;br&gt;반면 ‘반려인과 비반려인 사이의 갈등이 심화할 것’이라는 응답은 62.6%에 달했다. 70.6%는 ‘사회적 합의가 충분하지 않다’고 지적했다.&lt;br&gt;&lt;br&gt;세대별 인식 차이도 뚜렷했다. 응답자 가운데 60대의 53.5%는 반려동물의 존재 자체에 심리적 불편함을 느낀 반면, 20대의 43%는 이를 매장의 ‘문화적 감도’를 보여주는 긍정적 지표로 받아들였다.&lt;br&gt;&lt;br&gt;제도 안착을 위해 더욱 세밀한 법적 기준이 필요하다는 의견도 많았다. 응답자의 84.8%가 구체적인 제도 마련을 촉구했으며, 필수 조항으로는 ▲리드줄 착용 의무화 33.2% ▲배변 처리 및 위생용품 지참 30.6% ▲전용 구역 별도 운영 28.3% 등을 꼽았다.&lt;br&gt;&lt;br&gt;그럼에도 반려동물 동반 외식 문화 자체는 피할 수 없는 흐름으로 받아들여지는 분위기였다. 응답자의 61.7%는 동반 외식 문화가 더욱 확산할 것이라고 내다봤다. 또 ‘펫티켓’만 잘 지켜진다면 거부감이 없다는 응답은 58.9%, 위생 관리가 철저하다면 수용 가능하다는 응답은 50.5%로 각각 절반을 넘었다.&lt;br&gt;&lt;br&gt;식품의약품안전처에 따르면, 전날 기준 전국 반려동물 동반 출입 음식점은 1,821곳으로 집계됐다. 이는 제도 시행 첫 주인 지난달 6일 287곳과 비교해 약 6배로 늘어난 수치다.&lt;br&gt;&lt;br&gt;엠브레인 관계자는 “제도가 안정적으로 정착하려면 허용 범위를 넓히는 것뿐 아니라 매장 위생 관리와 보호자 책임 강화 등 이용자 간 불편을 실질적으로 줄일 수 있는 대책이 뒷받침돼야 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마약 거래 코인 환전 도운 전직 육군부사관들 징역 2년 </title>
+      <link>https://www.chosun.com/national/2026/04/26/3VWQL4WPD5CYZBL2IIDZV746MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/04/26/3VWQL4WPD5CYZBL2IIDZV746MA/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Apr 2026 05:33:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTONRTMRRTCZJVMY2TCNTEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방법원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미신고 가상자산 거래소를 운영하며 불법 마약 대금을 환전한 전직 육군 부사관 2명에게 실형이 선고됐다. &lt;br&gt;&lt;br&gt;창원지법 형사4부(재판장 오대석)는 마약류 관리에 관한 법률 위반(향정·대마) 방조 등 혐의로 기소된 30대 A 씨 등 2명에게 각각 징역 2년을 선고했다고 26일 밝혔다. 또 이들에게 공동으로 5469만원 추징을 명령했다.&lt;br&gt;&lt;br&gt;육군 특수전사령부(특전사) 부사관 출신인 이들은 같은 부대에서 복무하며 알게 된 공범들과 2023년 7월부터 2024년 8월까지 자신들이 운영하는 미신고 가상자산 거래소를 이용해 90여 차례에 걸쳐 5469만원 상당의 마약류 매매 범행을 도운 혐의로 기소됐다. A씨는 범행 당시 군복무 중이었다. &lt;br&gt;&lt;br&gt;판결문에 따르면 이들은 탈법적인 목적으로 가상자산 거래를 원하는 사람들이 높은 수수료를 주면서도 미신고 가상자산 거래소를 이용하는 점을 노렸다.&lt;br&gt;&lt;br&gt;여기엔 마약 거래를 하는 이들도 이용했다. &lt;br&gt;&lt;br&gt;A씨 등은 텔레그램에 미신고 가상자산 거래소 채널을 개설한 뒤 마약 구매자들에게 마약 구매 대금을 무통장 송금으로 받고, 수수료를 뗀 뒤 가상화폐로 환전해 마약 판매상에게 전달하는 방식으로 범행을 이어갔다.&lt;br&gt;&lt;br&gt;재판 과정에서 A씨 등은 “가상자산 거래소에서 이뤄진 환전 등이 마약류 매매와 관계된 것이라는 사실까지 알지 못했기 때문에 마약류 매매 방조에 고의가 없었다”는 취지로 주장했지만, 재판부는 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;재판부는 “피고인들은 미신고 가상자산 거래소의 조직원들을 지휘·감독하며 이 사건 각 범행을 주도했고, 수사·재판을 받는 과정에서도 거래소를 계속 운영하면서 증거를 은폐해 그 죄질이 좋지 않다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>청산가리로 친아버지와 동생까지… 1980년대 ‘여성 연쇄살인마’ 김선자</title>
       <link>https://www.chosun.com/national/incident/2026/04/29/PGJIUNB2EFD4RAIQARWLHTI7IU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/29/PGJIUNB2EFD4RAIQARWLHTI7IU/</guid>
@@ -853,15 +871,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIFU2COBUJOXBJ67UUN7PYN64M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'국제 강아지의 날'인 23일 경기도 화성시 반려마루 화성에서 봉사자가 입양을 기다리는 강아지 미용을 해주고 있다. 국제 강아지의 날은 2006년 미국 반려동물학자 콜린 페이지의 제안으로 제정됐다. 이날은 모든 강아지를 사랑하고 보호하자는 취지뿐 아니라 유기견 입양의 중요성을 알린다는 의미도 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동구에서 14년째 애견 호텔을 운영하는 김모(50)씨는 반려동물을 맡긴 뒤 연락을 끊는 견주들 때문에 골머리를 앓고 있다. 지난해 12월, 한 견주가 강아지 다섯 마리를 맡기고 잠적해 100일 치 호텔 이용료 1500만원을 받지 못했다. 김씨는 “경찰에 견주를 신고했지만 처벌 근거가 없다는 이유로 무혐의 처분됐다”며 “결국 민사 소송 과정에서 알게 된 견주 집 주소로 직접 찾아가 개를 돌려줘야 했다”고 했다.&lt;br&gt;&lt;br&gt;애견 호텔이나 동물 병원에 반려동물을 방치하는 사례가 늘고 있다. 이는 현행 동물보호법상 애견 호텔이나 동물 병원에 반려동물을 버리는 걸 처벌하기 어렵기 때문이다. 공공장소에 동물을 버리면 유기 혐의로 신고가 가능하고 300만원 이하의 벌금이 부과된다. 그러나 애견 호텔이나 동물 병원은 공공장소에 해당하지 않아 법적으로 유기로 해석하기 어렵다는 것이다. 반면 업주들이 동물을 가게 밖으로 내보내면 오히려 유기범으로 몰릴 수 있다. 게다가 양심상 생명을 저버릴 수 없다는 책임감에 사비를 들여 동물을 돌봐야 하는 이중고를 겪고 있는 셈이다.&lt;br&gt;&lt;br&gt;농림축산검역본부에 따르면 국내에서 유기되는 동물은 2024년 기준 연간 10만6824마리다. 2019년 13만5791마리를 기록한 뒤 감소 추세이긴 해도 여전히 매년 10만마리를 웃돌고 있다. 더구나 이 수치는 전국 231개 지방자치단체 동물보호센터에 입소한 개체 수다. 동물보호센터에 들어오지 못한 유기 동물을 감안하면 실제 버려진 동물은 이보다 많을 가능성이 크다. &lt;br&gt;&lt;br&gt;관련 부처는 문제를 인식하고는 있지만 아직 마땅한 해결책을 내놓지 못하고 있다. 유기 동물이 발견될 경우 지자체는 구조 및 보호 책임을 진다. 그러나 농림축산식품부 관계자는 “현행법상으로는 지자체에 구조해달라고 요구할 명분이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이런 문제를 해결하기 위해 국회에선 동물보호법 개정안이 발의됐다. 반려동물을 애견 호텔 같은 동물 위탁 관리 업체에 맡긴 후 찾아가지 않는 행위도 ‘유기’에 포함하고, 유실·유기 동물 발생 범위를 공공장소 외에 동물병원과 애견 호텔 등으로 확대하는 내용이다. 동물 유기에 대한 벌금도 최대 300만원에서 500만원으로 높이는 내용도 담겼다. 개정안은 이르면 오는 28일 국회 농림축산식품해양수산위원회 법안심사소위에서 논의될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 법무부</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/28/NI5QPGY4ONEVDP77FTV6GHMVWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/28/NI5QPGY4ONEVDP77FTV6GHMVWA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;법무부&lt;/b&gt;◇고위공무원 승진▷경북북부제1교도소장 김성호◇부이사관 승진▷법무부 교정기획과장 서호성▷〃 보안과장 이성호◇부이사관 전보▷화성직업훈련교도소장 양원동▷의정부교도소장 정진▷창원교도소장 안영삼▷부산교도소장 이민열▷전주교도소장 주정민◇서기관 승진▷법무부 기획조정실 양성필▷〃 감사담당관실 강홍석▷〃 의료과 문우식▷서울구치소 총무과장 이동근▷안양교도소 보안과장 박성래▷서울동부구치소 보안과장 정세락▷의정부교도소 총무과장 이병환▷대구교도소 총무과장 이창현▷경북북부제1교도소 총무과장 유동윤▷전주교도소 총무과장 김희숙▷〃 보안과장 김종배◇서기관 전보▷법무부 직업훈련과장 허만혁▷〃 사회복귀과장 이도곤▷〃 분류심사과장 김선희▷〃 심리치료과장 박승률▷〃 특별점검팀장 정영모▷서울지방교정청 총무과장 김수희▷법무부 마약사범재활팀 최소연▷서울지방교정청 사회복귀과장 오선호▷〃 분류센터장 권창모▷서울남부교도소장 정진우▷춘천교도소장 송재열▷원주교도소장 김성열▷강원북부교도소장 최장훈▷서울구치소 부소장 정희동▷〃 보안과장 이영준▷안양교도소 부소장 이형직▷수원구치소 부소장 권익광▷〃 총무과장 박자웅▷서울동부구치소 부소장 위종진▷인천구치소 부소장 오희순▷서울남부구치소 총무과장 구민규▷대구지방교정청 총무과장 임유정▷〃 사회복귀과장 최창호▷경북북부제2교도소장 김용인▷경북북부제3교도소장 권영복▷통영구치소장 이병훈▷밀양구치소장 조형근▷상주교도소장 박경식▷대구교도소 부소장 김영춘▷부산구치소 부소장 이성보▷경북북부제1교도소 부소장 유시록▷대전지방교정청 총무과장 김용국▷〃 보안과장 이정용▷〃 사회복귀과장 조관성▷〃 분류센터장 박평규▷청주교도소장 조영혁▷천안교도소장 정인식▷공주교도소장 오병각▷충주구치소장 이권상▷천안개방교도소장 김승▷대전교도소 부소장 강성안▷광주지방교정청 총무과장 이영성▷광주교도소 부소장 박성현▷〃 보안과장 오원종&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>本紙 박성원·장경식 기자 ‘이달의 보도사진상’ 수상</title>
       <link>https://www.chosun.com/national/national_general/2026/04/28/NP4FBQCOFVGEFDSBSDCBPDC3UU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/28/NP4FBQCOFVGEFDSBSDCBPDC3UU/</guid>
@@ -870,15 +879,6 @@
       <pubDate>Mon, 27 Apr 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMTYQZMC2JB5PAOKA5QET7R6N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 서울 강남구 구룡마을에 화재가 발생한 가운데 주민들이 집을 빠져나오고 있다. 소방당국은 대응 2단계를 발동, 화재 진압에 나서고 있다. /박성원 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사진기자협회는 2026년 1분기 이달의 보도사진상 수상작을 27일 발표했다. 277회 뉴스부문 최우수상에 박성원 기자의 ‘&lt;b&gt;불난 집 뒤로한 채 한숨만&lt;/b&gt;’을, 피쳐 부문 최우수상에 장경식 기자의 ‘&lt;b&gt;얼음 위 강태공들&lt;/b&gt;‘을 포트레이트 부문 최우수상에 장경식 기자의 ‘&lt;b&gt;전투기 앞에 선 ‘빨간 마후라’의 두 노장&lt;/b&gt;’을 선정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X56VPL62HBCABCA3AHODLYSPN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 강원 화천군 ‘2026 산천어축제’ 현장. 강원, 수도권 등 중부 지방에 한파특보가 발령됐지만 전국에서 낚시꾼이 몰렸다. 낚시꾼들이 꽁꽁 언 화천천에 구멍을 뚫고 낚시를 하고 있다. 전날부터 함박눈이 내려 도화지처럼 하얀 얼음 위로 참가자들의 그림자가 보인다. 이날 화천군의 아침 최저 기온은 영하 13도. 화천군은 “강추위에도 10~11일 이틀간 12만6000여 명이 축제장을 찾았다”고 밝혔다. 올해 산천어축제는 다음달 1일까지 열린다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJ6ROETN6VGB7ES7I64HKXX6RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 1월 16일 서울 용산구 전쟁기념관에서 영화 '빨간 마후라'의 실제 인물 김두만 장군이 김두만 장군을 연기한 신영균 배우의 머플러를 정리해 주고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVHHPKKKUZC4FP5KK6E4GUAIOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 경기도 남양주 봉선사 법당 앞에서 주지 호산 스님이 자신의 스노보드를 탄 채 뛰어오르고 있다. “눈이 아닌 흙바닥에선 스피드가 나지 않아 점프를 할 수 없을 것 같다”고 걱정했지만 여러 차례 폴짝폴짝 뛰었다. 그는 “예전엔 하프파이프에서 점프도 잘 했는데, 이젠 안 한다”며 “그래도 여든까지 탈 수 있을 것 같다”고 했다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 278회 포트레이트 부문 최우수상에는 박성원 기자의 ‘&lt;b&gt;날아라! 스님 보드...동계올림픽 주역 키워낸 달마&lt;/b&gt;’가 279회 선정됐다. ‘달마배’를 통해 대한민국의 스노보드 종목의 저변을 묵묵히 넓혀온 호산스님의 개척자적 면모와 파격적인 수행 철학을 사찰 마당에서의 역동적인 점프 샷으로 표현했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김익수 前 한국체육대 교수 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/04/28/CNXHYTD7WFAVXJ63K5G77XR3F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/04/28/CNXHYTD7WFAVXJ63K5G77XR3F4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 Apr 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김익수&lt;/b&gt; 前 한국체육대 교수 별세, &lt;b&gt;김용재&lt;/b&gt; LG전자 책임연구원·&lt;b&gt;김재원&lt;/b&gt; 세계비즈앤스포츠월드 산업부 차장 부친상, &lt;b&gt;공병훈 &lt;/b&gt;연세아너스치과의원 원장 장인상, &lt;b&gt;이은미 &lt;/b&gt;시부상=27일0시30분 서울대병원, 발인 29일7시, (02)2072-2020&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김진일&lt;/b&gt; 가수 별세, &lt;b&gt;이우경&lt;/b&gt; 남편상, &lt;b&gt;김충일&lt;/b&gt; 동생상=27일13시40분 신촌세브란스병원, 발인 29일9시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오석범&lt;/b&gt; 前 대전 대문중 교장 별세, &lt;b&gt;오광수&lt;/b&gt; 前 경향신문 문화부장·&lt;b&gt;오승수&lt;/b&gt; 테니스 코치 부친상, &lt;b&gt;홍인표&lt;/b&gt; 前 국가독성연구소 감사부장·&lt;b&gt;고세영&lt;/b&gt; 前 JNS 수석엔지니어 장인상=27일2시10분 대전 충남대병원, 발인 29일7시30분, (042)280-8181&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이석찬&lt;/b&gt; 별세, &lt;b&gt;최병구&lt;/b&gt; 마포세무서장 모친상=27일5시17분 수원요양병원, 발인 29일9시, (031)640-9797&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정송희&lt;/b&gt; 별세, &lt;b&gt;조상현&lt;/b&gt; 前 인천국제공항공사 언론홍보팀장 모친상=26일18시 중앙보훈병원, 발인 29일6시, (02)2225-1004&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>응급 의료서 ‘거리’는 생명과 직결… 권역응급의료센터 지정에 온 힘</title>
