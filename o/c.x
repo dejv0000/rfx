@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>월 10만원 적금하면 3년 뒤 1440만원...대구서 청년내일저축계좌 모집</title>
+      <link>https://www.chosun.com/national/national_general/2026/04/29/TH3V6ADVO5HA5B26ODL2QBFDMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/29/TH3V6ADVO5HA5B26ODL2QBFDMM/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Apr 2026 10:43:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJTGENBUGM3GIMZVHE4WENDBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서귀포시 청년내일저축계좌 홍보 포스터/보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매달 10만원을 저축하면 3년 뒤 1440만원을 받을 수 있는 적금 상품 가입자를 대구시에서 모집한다.&lt;br&gt;&lt;br&gt;대구시는 오는 4일부터 20일까지 올해 ‘청년내일저축계좌’ 신규 가입자를 모집한다고 29일 밝혔다. 2022년 도입된 청년내일저축계좌는 일하는 저소득층 청년들의 자산 마련을 돕는 사업이다.&lt;br&gt;&lt;br&gt;가입 대상은 만 15세 이상 만 39세 이하의 청년 중 근로·사업 소득이 있는 기준 중위소득 50% 이하의 기초생활수급자·차상위 계층 청년이다. 가입한 청년이 매월 10만원을 저축하면 정부와 대구시가 30만원을 매월 지원한다. 3년 만기 시엔 본인 저축금 360만원과 추가 지원금 1080만원을 더해 1440만원을 받을 수 있고, 최대 5% 상당의 적금 이자도 더해진다.&lt;br&gt;&lt;br&gt;가입 후 3년간 근로 활동을 지속하고, 매월 10만원을 적립하며, 유지소득 기준을 충족해야 한다. 가령 3인 가구 청년의 경우, 가입 신청 당시 가구의 소득 인정액은 기준 중위 소득(월 535만9036원)의 50%인 월 267만9518원을 충족해야 하지만, 가입 기간에는 기준 중위 소득 100% 이하(월 535만9036원 이하)를 유지하면 된다. 이 밖에도 10시간가량의 자립 역량 교육을 이수하고, 자금 활용 계획서를 제출하는 등 만기 지급 조건을 달성해야 적립금을 받을 수 있다.&lt;br&gt;&lt;br&gt;가입을 희망하는 청년은 보건복지부가 운영하는 ‘&lt;a href="https://www.bokjiro.go.kr" target="_self" rel="" title="https://www.bokjiro.go.kr"&gt;복지로 포털&lt;/a&gt;’에서 신청하거나, 주소지 내 관할 행정복지센터를 방문해 접수할 수 있다. &lt;a href="https://hope.welfareinfo.or.kr" target="_self" rel="" title="https://hope.welfareinfo.or.kr"&gt;자산형성포털&lt;/a&gt;에서도 자세한 사항을 확인할 수 있다.&lt;br&gt;&lt;br&gt;신규 가입자는 소득 및 재산 조사 등을 거쳐 8월 중 선정된다. 선정된 청년은 하나은행 지점 방문 또는 하나은행 원큐앱을 통해 전용 통장을 개설하고 8월부터 저축할 수 있다.&lt;br&gt;&lt;br&gt;이재홍 대구시 보건복지국장은 “일하는 저소득 청년들이 안정적으로 자산을 형성하고 만기 지원금을 발판으로 더 나은 미래를 설계할 수 있도록 지속적으로 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종합특검, ‘반란’ 혐의 김용현 전 장관 내달 6일 재소환 통보</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/29/3BBITZN2YJHXXETO6WYVFAZ3RA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/29/3BBITZN2YJHXXETO6WYVFAZ3RA/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Apr 2026 09:59:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VF245TZCIFGATLL7QB5AOKL32M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열(가운데 위) 전 대통령이 지난 2월 19일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의 사건 1심 선고 기일에서 지귀연 부장판사의 판결을 듣고 있다. 가운데 아래는 김용현 전 국방부 장관. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)의 잔여 사건을 수사하는 2차 종합 특검이 김용현 전 국방부 장관에게 ‘군형법상 반란 혐의’ 피의자 조사를 받으라고 다시 통보했다.&lt;br&gt;&lt;br&gt;특검은 29일 오전 10시까지 출석하라고 통보했던 김 전 장관이 조사에 불응하자 다음 달 6일에 출석하라고 재차 요구했다. 김 전 장관은 군형법상 반란 혐의로 조사를 받을 예정이었다. 그러나 김 전 장관 측은 이날 오전 경찰 특별수사본부에서 윤석열 전 대통령의 탄핵 심판 위증 혐의 피의자 조사가 예정돼 있다는 이유로 불출석 의사를 전달한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령에게도 군형법상 반란 혐의를 적용한 상태이다. 윤 전 대통령이 김 전 장관과 공모해 12·3 비상계엄 당시 특전사령부, 수도방위사령부, 정보사령부 부대원들에게 병기를 휴대하게 한 뒤 이들을 국회와 중앙선거관리위원회에 보내 폭동을 일으켰다는 것이다. &lt;br&gt;&lt;br&gt;이와 관련해 윤 전 대통령 역시 종합 특검으로부터 30일 출석하라는 통보를 받았지만, 응하지 않을 것으로 전해졌다. 윤 전 대통령은 “현재 진행 중인 재판이 많아 소환 조사를 준비할 시간이 부족하고, 방어권 확보가 필요하다”는 취지의 불출석 사유서를 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또한 윤 전 대통령과 김 전 장관 측은 특검의 군형법상 반란 혐의 적용과 관련해 같은 내용에 혐의만 새롭게 적용한 이중 수사에 해당한다며 반발했다. 현재 재판 중인 내란 혐의와 동일한 사건을 대상으로 하기에 별도로 수사할 수 없다는 것이다. 군형법상 반란 수괴는 최대 사형이 선고될 수 있다. 반란을 지휘하거나 중요 임무에 종사한 사람은 무기 또는 7년 이상의 징역이나 금고에 처해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>선관위, 허위 경력 담긴 홍보물 배부한 영종구청장 예비후보 고발</title>
+      <link>https://www.chosun.com/national/regional/2026/04/29/XIV5YXJFAFGJHBBNGRNPJCFXQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/29/XIV5YXJFAFGJHBBNGRNPJCFXQA/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Apr 2026 10:20:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZGWDFK3X5J2PHIPUEZ7JVJYVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 미추홀구 인천시선거관리위원회에서 열린 제9회 전국동시지방선거 '사전투표 장비담당 사무원 교육'에 참여한 인천 중구, 미추홀구 선관위 직원들이 사전투표 장비를 시험 운영하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영종구선거관리위원회는 허위 경력이 담긴 홍보물을 배부한 혐의(공직선거법 위반)로 영종구청장 예비후보 A씨와 선거사무장 B씨를 경찰에 고발했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;선관위에 따르면, A씨 등은 허위 경력이 담긴 홍보물 6600부를 유권자의 주소지로 우편 발송한 혐의를 받고 있다. 선관위는 해당 홍보물을 받은 세대가 영종구 전체 6만6000세대의 10%에 달하는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이들은 또 허위 경력이 기재된 현수막을 선거사무소 내부에 게시해 사무소 개소식 참석자들과 방문객들이 볼 수 있게 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;공직선거법에 따르면 당선 목적으로 후보자와 관련한 허위 사실을 공표하면 5년 이하의 징역이나 3000만원 이하의 벌금에 처해질 수 있다.&lt;br&gt;&lt;br&gt;인천시선관위 관계자는 “허위 사실 공표를 비롯한 흑색선전은 선거의 공정성을 해치는 중대한 범죄”라면서 “선거 범죄를 적발하면 철저히 조사해 엄중하게 조치하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>롯데, 창업주 故신격호 회장 세운 ‘울산과학관’서 개관 15주년 기념 공헌활동</title>
+      <link>https://www.chosun.com/national/regional/2026/04/29/OJAUXW7DVZDERPYBLRVR3K3MDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/29/OJAUXW7DVZDERPYBLRVR3K3MDI/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Apr 2026 10:23:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWA2AR2ZHFHL3DM57CSRW2SHTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;롯데지주와 울산 지역 15개 계열사, 롯데재단 임직원들은 29일 울산과학관 개관 15주년을 맞아 과학관 일대에서 환경정화활동을 진행했다. /롯데지주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;롯데지주와 울산지역 계열사, 롯데재단은 29일 창업주인 고(故) 신격호 롯데그룹 명예회장이 사재를 출연해 세운 울산과학관 일대에서 환경 정화 활동을 펼쳤다고 밝혔다.&lt;br&gt;&lt;br&gt;행사에는 롯데케미칼, 롯데정밀화학, 롯데이네오스화학, 롯데백화점 울산점, 롯데호텔, 롯데마트 등 울산에 사업장을 둔 주요 계열사 15곳과 롯데재단 등의 임직원 50여 명이 참여했다. 계열사 임직원 50여 명은 이날 오후 울산과학관 주변에서 쓰레기 수거 등 환경 정비 작업을 했다.&lt;br&gt;&lt;br&gt;울산과학관은 2011년 신격호 명예회장이 사재 240억원을 출연해 건립한 뒤 울산시에 기부채납했다. 당시 신 명예회장은 “고향인 울산의 어린이와 청소년이 과학에 대한 꿈을 마음껏 키우고, 대한민국 미래를 이끌어갈 인재로 성장하길 바란다”는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;롯데는 2016년부터 지난해까지 울산에서 총 189억원, 연평균 약 19억원을 들여 어린이 놀이시설 조성, 방과 후 돌봄 공간 지원, 도시농업 프로그램 운영, 취약계층 지원 등을 해오고 있다. 롯데지주는 2018년과 2024년 울산 남구에 ‘mom편한 놀이터’ 2개소를, 2021년 울주군에 방과 후 아동 돌봄 공간인 ‘mom편한 꿈다락’ 2개소를 조성하며 돌봄 인프라 확충에 앞장섰다.&lt;br&gt;&lt;br&gt;환경 정화 봉사 활동 역시 2024년 울산 중구 태화강국가정원, 2025년 울산 북구 강동몽돌해변 등에서 펼치고 있다.&lt;br&gt;&lt;br&gt;지난해 3월 울산 울주군 산불 당시에는 울산 소재 계열사 13곳이 힘을 모아 생수와 구호 물품을 지원했다. 일부 계열사는 울산을 거점으로 친환경 사업을 추진 중이다. 롯데정밀화학은 청정 암모니아 설비 확충을 진행 중이며, 롯데SK에너루트는 수소연료전지 발전 사업을 운영하고 있다.&lt;br&gt;&lt;br&gt;롯데는 앞으로도 울산과학관과 연계해 과학 교육 지원과 환경 관련 활동을 이어갈 계획이다. 롯데재단과 15개 계열사가 함께 지역 청소년을 위한 기초 과학 교육 지원과 친환경 가치 확산을 목표로 울산과학관과 협력 방안을 논의해 나갈 예정이다.&lt;br&gt;&lt;br&gt;양호철 울산지역 롯데 계열사 협의체 의장(롯데케미칼 울산공장장)은 “울산과학관 개관 15주년을 맞아 임직원들이 창업주의 고향 사랑이 깃든 공간에서 환경 정화 활동을 펼쳐 의미가 있다”며 “앞으로도 시민들이 체감할 수 있는 사회공헌 활동을 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>金총리, 3기 신도시 현장 찾아 “주택 공급에 온 국민 관심… 빨리 잘 지어야”</title>
       <link>https://www.chosun.com/politics/goverment/2026/04/29/FPX6FVRTWVHKXNRRVLWLCZQJL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/29/FPX6FVRTWVHKXNRRVLWLCZQJL4/</guid>
@@ -894,42 +930,6 @@
       <description/>
       <pubDate>Tue, 28 Apr 2026 07:40:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDONZZGBRWMNJVGE3WKNRZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중대재해처벌법 위반 혐의로는 처음으로 구속된 상태에서 재판에 넘겨진 박영민(67) 전 영풍 석포제련소 대표이사가 항소심에서도 유죄를 선고받았다. &lt;br&gt;&lt;br&gt;대구지법 형사항소3-2부(재판장 김성열)는 28일 중대재해 처벌 등에 관한 법률 위반 혐의로 기소된 박 전 대표이사와 주식회사 영풍 등에 대한 항소심에서 검사와 피고인들의 항소를 기각했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 1심은 박 전 대표이사와 석포제련소 안전보건총괄책임자로서 근로자의 사업 재해를 예방해야 할 의무를 위반한 혐의(산업안전보건법 위반 등)로 기소된 배상윤 전 석포제련소장에게 각각 징역 1년 6개월에 집행유예 3년을 선고했다. 같은 혐의로 기소된 법인 영풍에는 벌금 2억원, 석포 전력에 벌금 5000만원을 선고했다.&lt;br&gt;&lt;br&gt;이들은 2023년 12월 6일 아연 제련소인 경북 봉화 영풍 석포제련소에서 발생한 인명사고와 관련, 산업재해 예방을 위한 안전조치를 제대로 하지 않은 혐의로 재판에 넘겨졌다. 당시 석포제련소에선 탱크 모터 교체 작업을 하던 작업자 1명은 비소 가스에 노출·중독돼 다발성 장기 부전으로 숨지고, 다른 작업자 3명이 다치는 사고가 있었다. &lt;br&gt;&lt;br&gt;경영 책임자인 박 전 대표이사는 원청 대표이사가 중대재해 처벌 등에 관한 법률 위반 혐의로 구속 기소된 국내 첫 사례다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘개 짖는 소리’ 못 참아...제주서 층간 소음으로 이웃 흉기 위협한 50대</title>
-      <link>https://www.chosun.com/national/regional/2026/04/28/DN3633IOL5AD5KTEN4XYWYWCEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/28/DN3633IOL5AD5KTEN4XYWYWCEE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Apr 2026 06:57:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTGSNOKIWBCUZHR5OX7ZIS4HGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 반려견이 짖는 소리에 불만을 품고 흉기로 이웃을 살해하려 한 50대가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;제주지검은 A(50대)씨를 살인미수 혐의로 구속 기소했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, A씨는 지난 3월 24일 오후 7시쯤 제주시 연동에 있는 다가구 주택에서 술에 취한 상태로 흉기를 들고 위층에 올라가 주민 B씨를 살해하려 한 혐의다.&lt;br&gt;&lt;br&gt;A씨는 “1년간 위층에서 들리는 개 짖는 소리 때문에 고통받았다”고 진술한 것으로 전해졌다. 다행히 B씨는 다치지 않았다.&lt;br&gt;&lt;br&gt;경찰은 피해자의 신고를 받고 출동해 A씨를 특수협박 혐의로 현행범 체포했다. 이후 당시 상황과 증거, 진술 등을 종합해 A씨를 살인미수 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한만중 “추진위, 불법·부정으로 경선 유린... 서울교육감 선거에 독자 출마하겠다”</title>
-      <link>https://www.chosun.com/national/education/2026/04/28/MMZEG6EEERB6HCYX7CDNHOZ5X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/28/MMZEG6EEERB6HCYX7CDNHOZ5X4/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Apr 2026 06:44:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZ2K7ZLFIVJH3HXIJVFI2AK4TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시교육감 선거 민주진보교육감 단일화 경선 중 탈락한 한만중(왼쪽)·강신만 예비후보가 28일 서울경찰청에서 단일화 과정에서 부정 투표 의혹을 제기하며 단일화 추진위 수사의뢰서 제출 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한만중·강신만 서울시교육감 예비 후보가 진보 진영 후보 단일화를 주관한 시민단체를 수사해 달라고 경찰에 요청했다.&lt;br&gt;&lt;br&gt;한만중 후보와 강신만 후보는 28일 오전 서울 종로구 서울경찰청 정문 앞에서 기자회견을 진행하고, ‘2026 서울 민주진보교육감 단일화 추진위원회(추진위)’ 수사 의뢰서를 제출했다. 두 후보는 이날 기자회견에서 “공정함과 투명함은 선거의 생명인데, 어떠한 상식과 논리로도 납득될 수 없는 불법적 행태와 부정의 흔적들이 잇달아 드러났다”고 했다. &lt;br&gt;&lt;br&gt;한 후보는 “이번 선거 과정에선 시민참여단 6000여명의 투표권이 소리 소문 없이 실종되고, 특정 후보에게 유리한 방식으로 선거인단이 선별되는 반민주적 행태가 있었다. 하지만 추진위와 정근식 예비 후보 측은 반성은커녕 ‘참관인을 배제한 밀실 개표 집계’와 ‘이의신청 기간 중 서버 삭제’로 모든 의혹과 증거를 인멸했다”고 주장했다. &lt;br&gt;&lt;br&gt;강 후보는 “추진위가 대리 신청과 대납 의혹 등이 불거진 이후 단일화 경선 투표 참여를 희망한 3만여명을 전수조사했어야 하는데, 10%만 전화를 걸어 확인했다고 한다. 그랬는데도 800여명이나 걸러냈다. 나머지 90%를 확인했다면 걸러내야 할 이들이 더 많이 나왔을 것”이라며 “민주주의는 단 한 표라도 문제가 있으면 무효 처리하는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;추진위는 지난 23일 “시민참여단 2만8516명 중 1만7559명(61.58%)이 투표에 참여했고, 정근식 후보가 과반수를 얻어 2026년 서울 민주 진보 교육감 단일 후보로 결정됐다”고 밝혔다. 이 단일화 경선엔 과반수를 얻은 정 후보 외에도 한 후보, 강 후보, 강민정 예비 후보 등 6명이 참여했다.&lt;br&gt;&lt;br&gt;추진위는 이 단일화 경선 투표를 원래 지난 17~18일 진행하려 했지만, 시민참여단 대리 신청 및 참가비(5000원) 대납 의혹 등이 불거지면서 투표 일정을 22~23일로 미루고 의심되는 부정 참여자들을 확인해 가려내는 작업을 진행했다. 한 후보는 추진위가 참여자를 검증하는 과정에서 자신을 지지하는 시민들을 임의로 명단에서 삭제하거나, 투표 온라인 링크를 발송하지 않았다고 주장한다.&lt;br&gt;&lt;br&gt;또 한 후보 측은 추진위가 경선 후보자들의 대리인, 선거관리위원장을 내보내고 정 후보의 고등학교·대학교 후배 등 이해관계가 있는 인물끼리 투표 결과를 집계했다고도 주장하고 있다. 한 후보는 이런 의혹들이 있는 경선 결과에 승복하긴 어렵다며 독자 출마를 선언한 상황이다. &lt;br&gt;&lt;br&gt;추진위는 말도 안 되는 의혹이라는 입장이다. 추진위 관계자는 “시민참여단 참가자들이 누구를 지지하는지 알 수 없는데, 어떻게 특정 후보의 지지자들만 골라내 삭제할 수 있겠냐”고 말했다. 투표 결과 집계 과정을 참관하지 못하게 했다는 주장에 대해선 “후보자 혹은 그 대리인이 집계 과정과 결과를 지켜봤고, 서명한 기록도 남아 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이태원참사 진상규명 기여자에 포상금 3000만원…치유휴직도 연장  </title>
-      <link>https://www.chosun.com/national/national_general/2026/04/28/LKFA7NNIZ5BPRBDUOUXWQVAFXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/28/LKFA7NNIZ5BPRBDUOUXWQVAFXE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Apr 2026 06:33:52 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZDIY3BGEYDENJXHFSGEMBZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송기춘 10·29 이태원참사 진상규명과 재발방지를 위한 특별조사위원회 위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 10·29 이태원 참사 진상 규명에 기여한 사람에게 포상금 3000만원을 지급하기로 했다. 피해자 치유 휴직 기간은 1년까지로 연장했다.&lt;br&gt;&lt;br&gt;행정안전부는 이런 내용을 담은 ‘10·29 이태원 참사 피해자 권리 보장과 진상 규명 및 재발 방지를 위한 특별법 시행령’ 개정안이 국무회의에서 의결돼 다음 달 11일부터 시행된다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;개정 시행령에 따르면 언론 등에 알려지지 않았지만 진상 규명에 직접적이고 결정적인 정보를 제공한 자는 포상금 3000만원을 받을 수 있다. 포상금 지급 여부는 이태원 참사 특별조사위원회가 결정한다. 부정한 방법으로 포상금을 수령한 사실이 적발되면 즉시 환수된다.&lt;br&gt;&lt;br&gt;기존 6개월이던 이태원 참사 피해자의 치유 휴직 기간도 최대 1년까지 가능하도록 했다. 휴직을 연장하려면 휴직이 끝나기 7일 전까지 사업주에게 의사 진단서·소견서를 제출해야 한다. 이미 휴직이 끝난 경우에도 진단서 등을 발급받은 뒤 원하는 휴직 시작일 7일 전까지 신청하면 된다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “참사 피해자가 회복에 전념해 다시 온전한 일상을 되찾을 수 있도록 끝까지 지원하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 文정부 ‘통계 조작’ 감사·수사... 부동산원 노조 “강압 없었다”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/28/3DODGUOYSZALTACCCCAO2CPL5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/28/3DODGUOYSZALTACCCCAO2CPL5M/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Apr 2026 03:32:46 +0000</pubDate>
-      <content:encoded>한국부동산원 노동조합이 문재인 정부의 ‘통계 조작’ 의혹과 관련해 진행된 감사원 감사와 검찰 수사에 강압이나 위법한 절차가 없었다는 내용이 담긴 탄원서를 최근 감사원에 제출한 것으로 28일 확인됐다. 더불어민주당 등 여당은 그동안 ‘통계 조작’ 의혹 관련 감사와 수사가 무리하게 이뤄졌다고 주장했는데, 정작 피감기관이었던 부동산원 직원들은 정반대 입장인 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYTGYJQGJRDKNLBGE2DQNDCGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 감사원 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 부동산원 노조는 지난 17일 감사원에 ‘통계 조작’ 감사의 재심의를 요청하는 탄원서를 제출했다. 노조 측은 탄원서와 함께 제출한 소명서에서 “감사원 감사를 통해 엄정한 사정기관의 시선과 함께 통계업무에 대한 사명감을 고취할 수 있었다”며 “대오각성함은 물론이고 재발 방지를 위한 다양한 대책을 수립했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “문재인 정부는 부동산 시장이 과열되자 2017~2021년 사이 총 27차례에 걸쳐 관련 대책을 발표했고, 부동산원도 정부의 정책 보조기관으로서 관련 지시에 불복하기보다는 협조적 스탠스를 취할 수밖에 없었던 사정이 있었다”고 했다. 그러면서 “비록 상급기관의 지시라 하더라도 부당한 지시는 거부하는 것이 마땅하지만, 당시 국내 부동산 가격이 역대급으로 상승한 점 등이 통계법 위반 여부를 판단하는 데 장애 요소로 작용했다”고 밝혔다. 부동산 통계 조작은 대통령비서실과 국토교통부 등 상급기관 지시에 따른 것이었고, 부동산원 직원들은 고도의 정책적 결정에 동참하는 정도로 판단했다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYTGZBTGMZWKMDDGAZTIOBXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 노조 측은 “‘당시 부동산원 임직원들은 (부동산 통계 관련) 사전보고가 부당하다며 12차례 걸쳐 중단해 달라고 요청했지만, 대통령비서실과 국토부는 부동산원 예산 삭감 등을 압박하며 거부했다’는 사실이 검찰 수사를 통해 밝혀졌다”며 “검찰은 대통령실이 부동산원의 사전보고 중단 요청에 대해 ‘사전보고를 폐지하면 부동산원 예산이 없어질 텐데, 괜찮겠냐’고 말하며 요청을 묵살한 점도 밝혀냈다”고 강조했다.&lt;br&gt;&lt;br&gt;또 “(감사원 감사와 검찰 수사를 통해) 대통령비서실과 국토부 등이 부동산원을 압박해 통계 수치를 조작하거나 왜곡하게 했다는 점을 명확하게 밝혀내 주신 부분에 대해서는 심심한 감사의 마음을 갖게 됐다”고도 했다. ‘통계 조작’ 의혹의 당사자였던 부동산원 직원들이 나서 당시 감사 및 수사에 강압이나 위법한 절차가 없었다는 점을 인정한 셈이다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 대전지검은 문재인 정부 시절 김수현·김상조 전 정책실장과 김현미 전 장관 등 대통령비서실과 국토부 관계자 7명이 정부의 부동산 대책 효과로 집값이 안정된 것처럼 보이기 위해 부동산원의 ‘주간 주택가격 변동률’을 125회에 걸쳐 조작했다고 결론 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>공공부문 단기 근로자에 10% 수당 더 준다</title>
