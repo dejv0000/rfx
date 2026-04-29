@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박성재 ‘내란 가담’ 징역 20년 구형에 눈물 “국민께 충격 드려 죄송”</title>
+      <link>https://www.chosun.com/national/court_law/2026/04/27/S3UVCDQDGRDHNEFPEP67LKGAIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/27/S3UVCDQDGRDHNEFPEP67LKGAIU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Apr 2026 08:32:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVQBMZXNTVI6HGQKWG2EG4L4XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 27일 서울 서초동 서울중앙지법에서 열린 내란 가담 및 김건희 수사 무마 혐의 1심 결심 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특별검사팀이 27일 내란 중요 임무 종사 등 혐의를 받는 박성재 전 법무부 장관에게 징역 20년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;특검팀은 이날 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 박 전 장관의 내란 중요 임무 종사, 직권남용, 청탁금지법 위반 혐의 사건 1심 결심 공판에서 이같이 구형했다. 박 전 장관은 “(비상계엄 선포) 상황을 막지 못하고 대통령 설득을 실패한 데 대해 많은 책임을 느낀다”며 눈물을 보였다.&lt;br&gt;&lt;br&gt;특검 측은 “법무부 장관은 국가의 법질서를 수호하고 국민의 기본권을 보호하는 최고 책임자”라며 “이와 같은 권한은 오직 헌법과 법률의 테두리 안에서만 행사돼야만 정당성을 가질 수 있다”고 했다. 이어 “박 전 장관은 윤석열 전 대통령이 비상계엄의 허울을 쓰고 내란을 일으킨 2024년 12월 3일 밤, 자신에게 부여된 막중한 권한을 헌법 수호에 사용하지 않았다”며 “도리어 계엄을 수단으로 한 범죄가 성공할 수 있도록 적극적으로 부화뇌동하면서 내란을 정당화하고 절차적으로 뒷받침하는 데 앞장섰다”고 했다.&lt;br&gt;&lt;br&gt;특검 측은 박 전 장관이 윤 전 대통령의 내란에 동조해 이를 정당화하는 데 앞장섰다고 주장했다. 특검 측은 “박 전 장관이 불법적 행위임을 인지하고도 사후적으로 합법의 외양을 갖춰 국민을 기망할 수 있도록 ‘법 기술적 아이디어’를 제공했다”며 “과천 법무부 청사로 이동하는 차량에서 출국금지팀을 비상대기하도록 지시하는 등 윤 전 대통령의 지시 사항을 조치하면서 간부 회의를 소집했고, 그 자리에서 전국 교정 시설의 수용 여력을 파악하고 곧 꾸려질 합동수사본부에 검사 파견을 검토하도록 했다”고 말했다.&lt;br&gt;&lt;br&gt;김건희 여사의 디올백 수사 관련 청탁을 들어준 혐의에 대해서도 특검 측은 “공사 분별력을 잃고 대통령 부인의 부정한 청탁을 거리낌 없이 수용하고 실행했다”고 주장했다. 특검 측은 “김 여사로부터 지시성 청탁 메시지를 수신한 7일 후인 2024년 5월 13일 인사 시기가 아님에도 검찰총장과 협의 없이 김 여사를 수사하고 있는 서울중앙지검 지휘부를 교체하는 인사를 단행했다”며 “교체된 지휘부는 검찰총장에게 사전 보고도 없이 검찰총장의 명령에 반하는 방식으로 김 여사를 조사한 후 무혐의 처리함으로써, 결국 김 여사가 의도한 수사 결과가 도출되도록 했다”고 말했다. 특검 측은 “박 전 장관이 저지른 일련의 행위는 소통이 아니라 적극적인 ‘권력형 유착’이라고 보는 것이 타당하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;박 전 장관은 12·3 비상계엄 선포 후 법무부 실·국장 회의를 소집하고, 합동수사본부 검사 파견 검토, 교정 시설 수용 여력 점검, 출국 금지 담당 직원 출근 지시 등을 통해 윤석열 전 대통령의 내란에 가담한 혐의로 지난해 12월 11일 불구속 기소됐다. 또 김건희 여사로부터 검찰 전담 수사팀 구성과 관련한 문의를 받고 실무자에게 확인과 보고를 지시한 혐의(청탁금지법 위반)도 있다.&lt;br&gt;&lt;br&gt;특검팀은 박 전 장관과 함께 기소된 이완규 전 법제처장에게는 징역 3년을 구형했다. 이 전 처장은 지난해 12월 11월 국회 법제사법위원회에 출석해 계엄 해제 직후 이뤄진 ‘삼청동 안가 회동’에서 계엄 관련 논의가 없었다는 취지로 허위 증언한 혐의(국회증언·감정법 위반)를 받고 있다.&lt;br&gt;&lt;br&gt;특검 측은 “대통령 탄핵소추안이 발의된 상황에서 친목 모임을 가졌다는 주장은 거짓”이라며 “12.4 안가 모임은 계엄 해제 후 후속 대응책을 논의한 대책 회의라고 보는 것이 타당하다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 오는 6월 9일 선고하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VVQBMZXNTVI6HGQKWG2EG4L4XE.jpg?auth=0d6728ce95bbd15d9fe07177e08c74d9c5e390d45bf3201a2d3ad394e1085d5c&amp;smart=true&amp;width=2982&amp;height=1935" type="image/jpeg" height="1935" width="2982">
+        <media:description type="plain">박성재 전 법무부 장관이 27일 서울 서초동 서울중앙지법에서 열린 내란 가담 및 김건희 수사 무마 혐의 1심 결심 공판에 출석하고 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">홍효식</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>징역 4년으로 뒤집힌 판결… 2심은 왜 ‘김건희 공범’으로 봤나</title>
       <link>https://www.chosun.com/national/court_law/2026/04/30/PN2F6O5KEBAC3L5HPM73DCI6TM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/PN2F6O5KEBAC3L5HPM73DCI6TM/</guid>
@@ -934,18 +947,6 @@
       <description/>
       <pubDate>Tue, 28 Apr 2026 14:34:00 +0000</pubDate>
       <content:encoded>전국 대체로 흐리고 일교차 심해&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2ERL6J75RFFXLPCM72MCEJMXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>차은우, 세금 논란 후 모습 포착...군악대 행사서 경례</title>
-      <link>https://www.chosun.com/national/people/2026/04/28/GJ25SEZALFEHLFXOEAWK442C5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/04/28/GJ25SEZALFEHLFXOEAWK442C5U/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Apr 2026 13:52:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEEUSPW5DREC5O3O64FV6B2JZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 차은우./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 복무 중인 가수 겸 배우 차은우가 군악대 행사에 참석한 모습이 포착돼 눈길을 끌고 있다.&lt;br&gt;&lt;br&gt;28일 각종 온라인 커뮤니티와 소셜미디어(SNS)에는 지난 23일 열린 군악대 행사 무대에 오른 차은우의 사진이 올라왔다. 공개된 사진에는 차은우가 정장 차림으로 오케스트라 단원들 사이에 서 있는 모습과 무대 위에서 경례하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “군복이나 수트나 가릴 것 없이 비주얼이 열일한다” “복무 중이라 조금 피곤해 보이지만 잘생김은 변함없다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;앞서 차은우는 200억원대 탈세 의혹에 휩싸이며 논란이 됐다. 이후 차은우는 인스타그램을 통해 “국세청의 절차와 결과를 존중하며 더 이상의 혼란이 이어지지 않도록 관련 세금을 모두 납부했다”며 “최근 납세 논란으로 실망과 혼란을 드린 점 진심으로 사과한다”고 했다.&lt;br&gt;&lt;br&gt;소속사 판타지오 측은 모친이 설립한 1인 기획사가 실질적인 과세 대상에 해당하는지가 쟁점이었으며, 세법 해석 과정에서 발생한 차이라고 해명했다.&lt;br&gt;&lt;br&gt;차은우는 지난해 7월 입대해 현재 군악대 상병으로 복무 중이다. 전역은 2027년 1월로 예정돼 있다. 현재 차기작 ‘원더풀스’ 출연을 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MJO5IWEQYNBQBLWPQW627A3RNQ.jpg?auth=2d01a772de9a8d27c701e2ea3a1aa852ed5d8d61ff5b83bc13a86102432988cf&amp;smart=true&amp;width=391&amp;height=293" type="image/jpeg" height="293" width="391">
-        <media:description type="plain">가수 겸 배우 차은우./온라인 커뮤니티</media:description>
-      </media:content>
     </item>
     <item>
       <title>[단독] ‘현직 구청장 컷오프’ 박일하 동작구청장, 효력정지 가처분 신청</title>
