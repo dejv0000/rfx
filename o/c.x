@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>사전투표 해놓고 재투표 시도한 50대女, 벌금 200만 원 </title>
+      <link>https://www.chosun.com/national/regional/2026/05/01/EVFT2NAXKZBZ3FTCRYKCAOLLVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/01/EVFT2NAXKZBZ3FTCRYKCAOLLVU/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 May 2026 10:21:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 대통령 선거 당시 사전투표를 했음에도 재투표를 시도한 혐의로 재판에 넘겨진 50대 여성이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 임성철)는 공직선거법 위반 혐의로 기소된 A씨에게 벌금 200만원을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 29일 오전 10시 15분쯤 부산 동래구 한 주민센터에 설치된 사전투표소에서 투표한 뒤 6월 3일 오전 11시쯤 같은 투표소에서 또 투표를 하려고 한 혐의다.&lt;br&gt;&lt;br&gt;당시 투표 사무원이 선거인 명부를 대조하는 과정에서 A씨가 사전투표를 했다는 사실이 확인돼 중복 투표로 이어지지 않았다.&lt;br&gt;&lt;br&gt;A씨는 고의가 아니었고 기억력 문제 등을 주장했으나 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;평소 부정선거 의혹을 제기했던 A씨는 해당 투표소에서 재투표를 하지 못하게 되자 선거 제도를 신뢰하지 않는다는 취지의 발언도 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “이미 사전투표를 마쳤는데도 투표소에 들어가고, 마치 사전투표를 하지 않은 것처럼 투표사무원에게 신분증을 제시해 재투표를 시도했다”며 “선거관리의 효율성을 해하고 민주주의 선거의 중대한 원칙인 ‘1인 1투표 원칙’의 실현에 지장을 초래한다는 점에서 죄책이 가볍지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캠핑용 난로 테스트하다 불…1명 연기흡입·차량 2대 전소</title>
+      <link>https://www.chosun.com/national/regional/2026/05/01/LILCYWANNVFFHFDVCJLL25NZ4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/01/LILCYWANNVFFHFDVCJLL25NZ4U/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 May 2026 10:00:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGGXCADUHVGY5JUZ3FNXX62OVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 1시 25분쯤 인천시 남동구 운연동 한 노상 주차장에 세워진 승용차에서 불이 났다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 인천소방본부에 따르면 이날 오전 1시 25분쯤 인천시 남동구 운연동 한 노상 주차장에 세워진 승용차에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 40대 남성 A 씨가 연기를 흡입해 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;차량에 붙은 불이 인근에 주차된 승합차로 옮겨 붙어 차량 2대가 모두 탔다.&lt;br&gt;&lt;br&gt;지나가던 목격자의 신고를 받고 출동한 소방 당국은 화재 발생 25분 만인 오전 1시 50분에 불을 모두 껐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 차 안에 있던 캠핑용 난로를 테스트하다가 차량에 불이 옮겨 붙은 것으로 보고, 구체적인 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“아들로 한밑천 잡으려 하나”…대한체육회 간부, 의식불명 선수 가족에 막말 논란</title>
       <link>https://www.chosun.com/national/national_general/2026/05/01/CRLRRSLKNZDLZN72BSTULGPAHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/01/CRLRRSLKNZDLZN72BSTULGPAHA/</guid>
@@ -940,18 +958,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDCZBRHEZDEZRRMI2TANBWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이승한)는 30일 협력업체 등에서 청탁과 함께 8억6000만원 상당의 금품을 수수한 혐의로 재판에 넘겨진 서정식 전 현대오토에버 대표의 항소심에서 무죄를 선고했다. 1심 결론과 같다.&lt;br&gt;&lt;br&gt;재판부는 “서 전 대표가 수수한 돈과 거래 관계 연장 청탁 사이에 연관성이 있다고 단정하기 어렵다”며 “부정한 청탁과 대가가 오간 것으로 의심되는 사정이 있지만 충분히 증명됐다고 보기 어렵다”고 했다. 서 전 대표와 현대오토에버의 외부감사법, 자본시장법 위반 부분도 무죄로 판단했다. 서 전 대표에게 돈을 건넨 혐의로 함께 재판에 넘겨진 이들도 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;검찰은 KT그룹 계열사인 KT클라우드가 차량용 클라우드 업체인 스파크앤어소시에이츠(스파크·현 오픈클라우드랩)를 고가에 매입했다는 의혹을 수사하는 과정에서 서 전 대표의 배임수재 혐의를 포착해 이 사건 수사에 착수했다. 검찰은 서 전 대표가 협력업체 대표 등 3명에게서 거래 관계 유지, 납품 편의 등 여러 청탁을 받고 법인 카드와 현금 등 총 8억6000만원 상당의 경제적 이익을 받았다고 보고 2024년 5월 재판에 넘겼다.&lt;br&gt;&lt;br&gt;한편 윤경림 전 KT 사장은 스파크 고가 매입 의혹으로 기소돼 재판을 받고 있다. 스파크는 정의선 현대자동차그룹 회장의 동서 박모씨가 설립했는데, 현대차 임원 출신인 윤 전 사장이 개인적 이해관계에 따라 배임 행위를 저질렀다고 검찰은 본다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>불법체류 추방 중국인들, 6m 어선 타고 570km 바다 건너 밀입국</title>
-      <link>https://www.chosun.com/national/regional/2026/04/30/YV3NZXKWTJCRTO7HIAENRQQKZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/30/YV3NZXKWTJCRTO7HIAENRQQKZY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 04:10:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DAZBUHE3DMZJQGZSDSNZRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인들이 지난 3월28일 제주 밀입국에 사용한 어선./제주경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배를 타고 제주로 밀입국한 중국인들이 재판에 넘겨졌다. 이들은 제주에서 불법 체류하다가 강제 출국당한 뒤 다시 돌아온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;제주경찰청은 출입국관리법 위반 혐의로 30대 중국인 A씨와 B씨 등 2명을 구속 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 3월 27일 낮 12시쯤 중국 산둥성 칭다오에서 1.5∼2t급 소형 선박(길이 6여 m)을 타고 서해 약 570㎞를 건너 22시간 만인 28일 오전 10시 제주시 한경면 판포리 해안가로 밀입국한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 앞서 제주에서 각각 1년 10개월, 5년 9개월간 농사일을 하며 머물다 2025년 10월과 11월 강제 출국됐다.&lt;br&gt;&lt;br&gt;이후 중국인 브로커에게 각각 3만위안(한화 약 650만원)과 3만5000위안(약 760만원)을 내고 제주에 밀입국한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 제주에 몰래 들어온 뒤 강제출국 이전 제주에서 경험을 바탕으로 양파 수확일을 하며 생활했다.&lt;br&gt;&lt;br&gt;앞서 지난해 9월에는 중국인 6명이 중국 남동부 장쑤성 난퉁시에서 90마력 엔진이 달린 고무보트를 타고 제주시 한경면 용수리 해안을 통해 밀입국한 혐의로 전원 구속기소됐었다.&lt;br&gt;&lt;br&gt;제주 해안을 통해 연이어 밀입국한 중국인들이 붙잡히면서 제주 해상 경계 체계에 허점이 드러났다는 지적도 나온다. 제주 해안에 열영상감시장비(TOD)가 24시간 가동 중이지만, 약 250㎞의 제주 해안 전 구간을 감시할 인력과 장비는 제한적이기 때문이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “소형 선박이라 기상 상황에 따라 레이더에 제대로 찍히지 않는 경우도 있다. 제주경찰 해안경비단 인력만으로 제주 모든 해안을 차단하는 것은 어려움이 있다”며 “군과 해경 등 유관 기관과 함께 대책을 모색하겠다”고 설명했다. 또 “경찰에서는 제주에 있는 밀입국자와 밀입국 브로커에 대한 수사를 철저히 해 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JFTW3BKGJ5C6LNLFPKAV5QW2FE.JPG?auth=2c2b128f45c0fff9fe37dd74eaac5f208fd2ffc29ab47ccc1ee4db68b3c5e4f7&amp;smart=true&amp;width=884&amp;height=663" type="image/jpeg" height="663" width="884">
-        <media:description type="plain">중국인들이 지난 3월28일 제주 밀입국에 사용한 어선./제주경찰청</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>남성 4명에 수면제 먹여 4900만원 빼앗은 20대 여성</title>
       <link>https://www.chosun.com/national/national_general/2026/04/30/SYMGX3NUUNCE7P674WAHCGYRYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/SYMGX3NUUNCE7P674WAHCGYRYY/</guid>
@@ -959,18 +965,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 01:08:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBRGHJ5LVZBWHMX7IXGZBEFYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부경찰서 전경./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남성들에게 수면제를 먹인 뒤 수천만원을 빼앗은 20대 여성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;경기 의정부경찰서는 강도상해와 마약류관리법 위반 혐의로 20대 여성 A씨를 구속 송치했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 작년 12월부터 올해 4월까지 수도권 일대에서 남성 4명에게 수면제를 먹인 뒤 금품 약 4890만원을 빼앗은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 결혼정보업체나 지인 소개로 알게 된 30대 남성 B씨 등에게 접근해 한 달가량 동거하며 관계를 유지한 뒤 음식이나 음료에 수면제를 탄 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 피해자들과 함께 생활하며 계좌 비밀번호 등을 알아낸 뒤 잠든 피해자들의 지문을 이용해 휴대전화 잠금을 해제했다. 이후 돈을 자신의 계좌로 이체하거나 수백만원 상당의 물품을 구매한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이 사건은 지난 23일 의정부의 한 주택에서 잠들었던 B씨가 깬 뒤 경찰에 신고하면서 드러났다. 경찰이 B씨에 대한 소변 검사 결과 수면제 성분이 검출됐다.&lt;br&gt;&lt;br&gt;경찰은 서울 양천구와 중랑구, 용산구에서도 유사한 피해 고소장이 접수된 사실을 확인하고 A씨를 검거했다. 피해자들은 수면제를 먹게 된 경위를 제대로 기억하지 못하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “남성들이 스스로 수면제를 먹었다”며 혐의를 부인해 왔지만 이후 “생활비가 필요해 범행했다”고 시인했다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 휴대전화 등에 대한 디지털 포렌식을 통해 추가 피해자와 공범 여부 등을 확인 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>우리 밖으로, 우리도 나가봐?</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/30/3MQM4FZLGFCNZENTPD6IGYBQYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/3MQM4FZLGFCNZENTPD6IGYBQYM/</guid>
-      <dc:creator>구아모 기자, 한영원 기자, 최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 Apr 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLUYDLAZJRB77GSQNHERSZM5QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 일러스트=챗GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아프리카관에서 하마 한 마리가 탈출했습니다. 모든 관람객과 직원은 가까운 실내 공간으로 대피해 주세요.”&lt;br&gt;&lt;br&gt;28일 오후 1시 48분, 경기 과천시 서울대공원 동물원 제2아프리카관. ‘꼬마하마’라고도 불리는 피그미하마 한 마리가 우리 문이 열린 틈을 타 탈출했다. 동물원 중앙 관제실에서는 하마 탈출 사실을 인지하자마자 대피 방송을 했고, CCTV로 피그미하마 위치 확인에 나섰다.&lt;br&gt;&lt;br&gt;탈출 3분 만에 피그미하마가 제2아프리카관 바로 옆에 있는 유인원관에 있는 것으로 파악됐다. 동물원 측은 무전으로 사육사들에게 피그미하마 위치를 전달했고, 사육사 3명은 흰 그물과 방패를 들고 현장으로 뛰어갔다. 이 상황은 동물 탈출을 가정해 서울대공원이 실시한 모의 훈련이었다. 사육사 한 명이 피그미하마 탈을 쓰고 탈출 동물 ‘나몽이’ 역할을 맡았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PX3MIL2VTFFANN6QLJYNSS7IRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 경기 과천시 서울대공원에서 관계자들이 동물(피그미하마) 탈출 모의 훈련을 하고 있다. 2026.4.28 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 대전 오월드에서 늑대 ‘늑구’가 탈출하는 등 사고가 잇따르자 주요 동물원이 관련 훈련을 강화하고 있다. 209종 1927마리 동물을 보유한 서울대공원은 2015년부터 연 2회씩 ‘동물 탈출 모의 훈련’을 하고 있다. 올해는 사람들이 몰렸을 때 동물이 흥분하는 상황 등 여러 돌발 상황을 가정해 훈련을 진행했다. 방사장 앞까지 돌아온 피그미하마가 관람객 사이로 파고들려 하자, 사육사들은 초록색 먹이통을 흔들며 “나몽아 가자”라고 달래 진정시키는 훈련 등이었다.&lt;br&gt;&lt;br&gt;서울대공원 문규봉 주무관은 “동물을 통제한다고 해도 방사장을 벗어나면 예측 불가능한 상황이 벌어진다”며 “이번 훈련을 통해 근접 거리에서 방패로 유도하는 연습을 했지만, 동물의 흥분을 막기 위해 일정 거리를 두고 몰아가는 연습을 보강할 필요가 있다”고 말했다. 51종 514마리 동물을 보유한 서울 광진구의 어린이대공원도 수년간 실시해 온 맹수 탈출 훈련에 더해, 최근에는 초식동물 탈출 대비 훈련까지 범위를 넓혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FS7UTTLVRGMJGJ53QXYC5D52M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 경기 과천시 서울대공원에서 관계자들이 동물(피그미하마) 탈출 모의 훈련을 하고 있다. 2026.4.28 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후에너지환경부가 국민의힘 김형동 의원실에 제출한 자료를 보면 최근 5년(2021~2025년)간 전국 동물원에서 발생한 사고는 93건. 이 가운데 동물이 우리를 벗어난 탈출·이탈 사고는 11건이었다. 매년 두 건 이상 꼴로 탈출 사고가 발생한 것이다. 관람객이 물리는 등 안전사고는 68건, 사육사·관리자 사고는 14건이었다. &lt;br&gt;&lt;br&gt;동물 탈출 사고가 발생하는 요인으로는 사육사의 부주의와 시설 노후화가 지목된다. 실제로 사육사가 우리를 청소하는 도중에 동물이 탈출하는 사례가 적잖게 발생하고 있다. 2022년 경남 부경동물원 캥거루 두 마리, 2023년 대구 달성공원 동물원 침팬지 부부 ‘루디’와 ‘알렉스’는 모두 청소 중 우리 문이 열린 틈을 타 탈출했다. 지난해 강원 펫힐링 달빛동물원에서 청소 중 빠져나간 긴코너구리의 행방은 아직도 묘연하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPCO4YWYFVGJZK4WVLAIESQHJQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시설 노후화도 심각하다. 지난해 기후부가 실시한 동물원 실태 조사 결과, 사자·호랑이·곰 등 육식동물과 코끼리·코뿔소 등 대형 초식동물이 있는 전국 24개 동물원 174개 동물사 가운데 26%(46개)는 안전사고 예방을 위해 ‘신속한 개선’이 필요한 위험 상태였다. 동물원에 있는 우리 네 곳 중 한 곳은 언제든 뚫릴 위험이 있다는 뜻이다.&lt;br&gt;&lt;br&gt;2021년 부산 캐니언파크에선 출입구 잠금장치가 고장 나 문이 열린 틈을 타 은여우가 탈출했다. 2022년엔 고슴도치처럼 생긴 포유류 호저가 제주 동물원에서 울타리가 파손된 틈으로 우리를 빠져나갔다. 2024년 대구 스파밸리 네이처파크에서는 일본원숭이가 천장 펜스를 뚫고 탈출했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZAO3EEYJRFRTHF3SCG7ZDRYFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 아쿠아리움 동물원 모습. 비쩍 마른 사자가 자연 환경과는 동떨어진 비좁은 우리 안에서 관객 쪽을 바라보고 있다./동물자유연대 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 2022년 동물원수족관법을 개정해 동물원 등록제에서 허가제로 전환했다. 전문성 있는 관리 체계, 동물 복지 강화 및 학대 방지 방안 등을 마련한 동물원에만 운영 허가를 내주기 위해서다. 2028년까지 유예 기간을 주긴 했지만, 작년 12월 기준 전국 동물원 121곳 중 허가를 받은 곳은 10곳(8%)에 불과했다. &lt;br&gt;&lt;br&gt;조희경 동물자유연대 대표는 “동물들은 스트레스가 극심한 상황에서 탈출하는 경우가 많다”며 “노후한 시설과 함께 동물들이 생활하는 방사장 환경도 개선하는 방향으로 동물 탈출 문제를 해결해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TXRHX6UKGFCLHHLOPYCWK6ZSEE.jpg?auth=a0ede0302a0f0e4381d9afd3418fae645c554c99d43d2e55a7971f2a171325bd&amp;smart=true&amp;width=2451&amp;height=1564" type="image/jpeg" height="1564" width="2451">
-        <media:description type="plain">/챗GPT</media:description>
-      </media:content>
     </item>
     <item>
       <title>檢, ‘버터 없는 버터맥주’ 판매 박용인에 항소심서도 징역 1년 구형</title>
