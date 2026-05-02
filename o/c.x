@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘태국 송환’ 박왕열 마약 공급책에 구속영장 신청키로</title>
+      <link>https://www.chosun.com/national/regional/2026/05/02/5RIHMYMRYJHQZDD7W2AJMLFVYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/02/5RIHMYMRYJHQZDD7W2AJMLFVYA/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 08:02:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BV2LBU6M4ZCLZGRVCW53ZDEPOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국에서 검거된 마약 공급책 최모씨가 한국으로 송환되고 있다./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘필리핀 마약왕’으로 불리는 박왕열에게 필로폰 등 마약류를 공급한 혐의를 받는 최모(51)씨에 대해 2일 구속영장을 신청하기로 했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 마약·국제범죄수사대는 전날 태국에서 강제 송환된 최씨에 대해 이날 중 구속영장을 신청할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 2019년부터 필로폰 22㎏ 등 총 100억원에 달하는 마약류를 국내에 밀반입하거나 유통한 혐의(마약류관리법 등 위반)를 받고 있다.&lt;br&gt;&lt;br&gt;최씨는 텔레그램에서 ‘청담’, ‘청담사장’ 등의 활동명을 썼다. 최씨는 가족과 청담동에 거액 부동산을 소유하고 ‘슈퍼카’를 타고 다니는 등 호화 생활을 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;한국 경찰은 지난 3월 25일 필리핀에서 강제 송환된 박왕열을 수사하는 과정에서 최씨가 마약 공급책이라는 단서를 확보했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 최씨가 별건의 마약 밀반입 사건과 관련해 경기남부경찰청의 지명 수배 및 기소 중지 처분을 받은 상태였던 점을 고려해 경기남부청 마약·국제범죄수사대를 집중 수사 관서로 지정했고, 최씨의 행적을 추적했다.&lt;br&gt;&lt;br&gt;이어 최씨가 태국에 거주 중인 사실을 확인한 뒤, 태국 경찰과 공조 수사에 나선 끝에 지난달 10일 태국 현지에서 그를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 전날 오전 최씨가 태국 공항에서 기내에 탑승하자 체포영장을 집행했다. 최씨는 인천국제공항을 거쳐 현재 수원영통경찰서 유치장에 입감돼 있다.&lt;br&gt;&lt;br&gt;경찰은 전날에 이어 이날까지 최씨를 피의자 신분으로 조사하고 있다. 또 현지에서 압수한 차명 여권들과 휴대전화 등 증거물 분석에도 속도를 내고 있다.&lt;br&gt;&lt;br&gt;경찰은 최씨와 박왕열 간의 거래 규모, 정확한 범죄 수익 등을 확인하고 최씨의 여권법 위반 혐의 등 전반에 대해 수사할 계획이다. 또 태국 현지에 마약 생산 공장이 있는지 등도 공조 수사를 통해 밝힌다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 3일 일요일 (음력 3월 17일 丁丑)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/02/7VQ36IGM5RE2JESBYHGESH4LLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/7VQ36IGM5RE2JESBYHGESH4LLM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>‘강제징집·프락치 강요 공작’ 희생자 추모제 열려… “국가폭력기록관 설치해야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/02/VQ5EDP7RKRAPZBDKMXQ3XSXPNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/VQ5EDP7RKRAPZBDKMXQ3XSXPNY/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 06:29:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVNO6RTZOZMV3BMSLIS2AFKSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전두환 정권 시절 고문을 받고 프락치 활동을 강요당한 피해자 박만규 목사가 지난 2023년 11월 22일 오후 서울 서초구 서울중앙지법에서 국가를 상대로 낸 손해배상 소송 선고공판을 마친 뒤 열린 기자회견에서 발언을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 옛 국군보안사령부 터인 서울 종로구 국립현대미술관 앞에서 ‘대학생 강제징집 및 프락치 강요 공작 사건’의 피해자를 기리는 합동추모문화제가 열렸다.&lt;br&gt;&lt;br&gt;해당 사건은 1970~1980년대 공권력이 학생운동을 벌이던 대학생들을 강제로 군대에 끌고 가 전향시킨 뒤 ‘프락치’(정보망원)로 활용한 공작 사건을 말한다. 앞선 2022년 11월 23일 2기 진실화해위는 이를 공권력에 의한 중대한 인권침해 사건으로 결론 내리고 187명을 피해자로 인정했다.&lt;br&gt;&lt;br&gt;송상교 3기 진실·화해를 위한 과거사정리위원회 위원장은 이날 김귀옥 상임위원이 대독한 추모사에서 “2기 위원회가 사건의 구조적 실체를 충분히 규명하지 못했다는 비판을 겸허히 받아들인다”며 “철저한 진실규명을 위해 국가정보원과 국군방첩사령부(옛 보안사) 등 가해 기관의 자료를 추가 확보하겠다”고 전했다.&lt;br&gt;&lt;br&gt;한편 추모제를 주최한 피해자단체 ‘강제징집 녹화·선도공작 진상규명위원회’는 지금의 국립현대미술관 자리에 국가의 인권침해 사건들을 다루는 ‘국가폭력기록관’을 설치하자고 제안했다. 이들은 추모제가 끝난 뒤 청와대까지 행진해 이재명 대통령과의 면담을 요청했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화성서 마을버스가 신호 대기하던 화물차 들이받아…17명 부상</title>
+      <link>https://www.chosun.com/national/incident/2026/05/02/L3X5Y6FFCFFMHMVKJY3LJJYO6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/02/L3X5Y6FFCFFMHMVKJY3LJJYO6I/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 05:45:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YEBJUFYEKNFQBNEWBRX2HNPZ2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 경기 화성에서 발생한 마을버스 추돌 사고 현장 모습. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오전 11시 6분쯤 경기 화성시 효행구 정남면의 한 도로에서 마을버스가 신호 대기 중이던 4.5t 화물차 후미를 들이받는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 버스 기사 A씨와 승객 15명, 화물차 운전자 등 모두 17명이 다쳐 인근 병원에서 치료를 받았다. 부상자들은 모두 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 정남면 방향으로 버스를 몰던 A씨가 브레이크 페달을 뒤늦게 밟으면서 사고가 났던 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 버스 기사 A씨 등을 대상으로 자세한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>디지털미디어시티역 인근 도로서 택시 충돌… 3명 경상</title>
       <link>https://www.chosun.com/national/national_general/2026/05/02/YVYPLDJNAVEOBBOKQP4SZ3EDNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/YVYPLDJNAVEOBBOKQP4SZ3EDNM/</guid>
@@ -881,24 +918,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘스토킹 보복 살인’ 김훈 공범 3명, 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/30/H6XUKWU7ZNETDHXDESTSOITTNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/H6XUKWU7ZNETDHXDESTSOITTNI/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 08:45:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2NJ7I7THNCW7MDS5PCYD3T3L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남양주 스토킹 살인범 김훈. /경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스토킹하던 여성을 보복 살해한 김훈(44)의 범행을 도운 공범들이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;경기북부경찰청은 위치정보법 위반, 스토킹처벌법 위반 등 혐의로 30대 남성 2명과 20대 여성을 불구속 송치했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 작년 6월부터 올해 3월까지 김훈이 스토킹했던 20대 여성 B씨의 차량과 B씨 어머니 차량, 지인 차량 등에 위치추적장치를 부착한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;공범들은 김훈과 온라인 게임이나 일 등을 통해 알게 된 사이로 평소 함께 술자리를 하는 등 관계를 유지해왔다. &lt;br&gt;&lt;br&gt;김훈은 이들에게 위치추적장치 부착을 부탁했다. 이에 공범들은 온라인 쇼핑몰에서 위치추적장치 5개를 구매, 차량에 부착한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;다만 이를 대가로 김훈에게 금품을 정황은 확인되지 않았다는 게 경찰의 설명이다. &lt;br&gt;&lt;br&gt;경찰은 살인 사건 이후 차량 등에서 위치추적장치 3개를 추가로 발견했으며, 총 5개 장치에 대해 국립과학수사연구원 감정을 의뢰했다. &lt;br&gt;&lt;br&gt;감정 결과 이 중 2개의 장치에서 김훈과 공범들의 지문이 확인됐다. 공범들은 모두 혐의를 인정했다. &lt;br&gt;&lt;br&gt;또 경찰은 김훈에 대해서 위치정보법 위반, 스토킹처벌법 위반, 가정폭력처벌법 위반(보호처분 불이행) 등 혐의를 추가로 적용해 검찰에 송치했다.&lt;br&gt;&lt;br&gt;김훈은 지난 1월 중순부터 2월 초까지 B씨에게 전화와 회유성 메시지를 10여 차례 보내고 주거지 주변을 7차례 감시한 혐의를 받았다. &lt;br&gt;&lt;br&gt;경찰은 김훈이 B씨를 대면하지 않았지만 위치추적장치 부착과 주거지 주변 탐색 등으로 지속해서 스토킹한 것으로 봤다. &lt;br&gt;&lt;br&gt;김훈은 지난 14일 오전 8시 56분쯤 남양주시 오남읍 피해자 A씨의 직장 인근에서 A씨를 살해한 혐의로 구속기소됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교원 채용 대가 금품 받은 대전 사립대 前 총장 직무대리, 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/04/30/CJ6MNXOBVBDN7DLZAF4POVYNXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/30/CJ6MNXOBVBDN7DLZAF4POVYNXQ/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 08:07:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4TKZRTG5RGCOLBMM3TEYLDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경. /대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교원 채용을 대가로 금품을 수수한 혐의를 받는 대전의 한 사립대 전 총장 직무대리가 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;대전경찰청 반부패수사대는 배임수재 및 청탁금지법 위반 혐의로 대전의 한 사립대 학교 법인 이사 60대 A씨를 구속 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;학교 법인 이사인 A씨는 해당 대학 총장 직무대리를 지내면서 2021년부터 2024년까지 교원 채용을 해주겠다며 5명으로부터 금품 약 3억원 상당을 받아 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 과정에서 역할을 한 B씨를 통해 돈을 건네받기도 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 지난해 5월 첩보를 입수해 수사에 착수한 뒤 범죄 혐의점이 있는 것으로 보고 A씨에 대해 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “구속의 필요성이 있다고 판단해 A씨와 B씨에 대해 구속영장을 신청했고, 검찰에 구속 송치했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢, ‘강북 모텔 살인’ 김소영 추가 기소</title>
       <link>https://www.chosun.com/national/national_general/2026/04/30/6LYZF4YVBFFJRP7BSURGEL63LA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/6LYZF4YVBFFJRP7BSURGEL63LA/</guid>
@@ -910,16 +929,6 @@
         <media:description type="plain">'강북구 모텔 연쇄 살인 사건' 피의자 김소영</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세] 5월 1일 금요일 (음력 3월 15일 乙亥)</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/30/PYMIUJMICNEMVFLZ46FIDXI43A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/PYMIUJMICNEMVFLZ46FIDXI43A/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
       <title>종합특검, 구자현 검찰총장 대행·대검 감찰부장 징계 요청…“수사 방해”</title>
@@ -938,15 +947,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 05:39:27 +0000</pubDate>
       <content:encoded>서울 시내버스 노사 갈등의 불씨를 댕겼던 동아운수 버스 기사들의 통상임금 소송에서 대법원이 버스 기사들의 주장을 받아들여, 실제 근로 시간이 아니라 노사가 합의한 ‘보장 근로시간’을 기준으로 연장·야간 근로 시간을 지급해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTGCNZXHE4TSODFGFRTIMLEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시내버스 운행 모습.(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 동아운수 전·현직 버스 기사 97명이 회사를 상대로 낸 임금 소송에서 미지급 연장·야간 근로 수당 청구 부분에 대한 원심을 깨고 사건을 서울고법으로 돌려보냈다고 30일 밝혔다. 2심에서 기사들이 패소한 부분 중 일부만 파기하고, 나머지 판단은 그대로 유지했다.&lt;br&gt;&lt;br&gt;동아운수는 2012년 6월부터 2015년 6월까지 서울시버스운송사업조합과 전국자동차노동조합연맹 서울시버스노동조합이 체결한 단체협약과 임금 협정에 따라 버스 기사들에게 임금을 지급했다. 협약에 따르면 주 5일 근무일에는 소정 근로 8시간에 연장 근로 1시간을 더해 하루 9시간 근무한 것으로 간주하고, 격주로 이뤄지는 연장 근무일에는 5시간의 연장 근로를 한 것으로 보고 수당을 지급한다.&lt;br&gt;&lt;br&gt;이에 따라 실제 근로 시간이 이에 미치지 않더라도 주 5일 근무일에는 1시간분의 연장 근로 수당(기본 시급의 150%)이, 연장 근무일에는 5시간분의 시프트(교대) 근로 수당(기본 시급의 150%)이 지급된다. 야간 근로를 한 경우에도 오전 근무자는 2시간, 오후 근무자는 3시간을 근무한 것으로 간주해 야간 근로 수당(기본 시급의 150%)이 지급된다.&lt;br&gt;&lt;br&gt;동아운수 전·현직 기사들은 2015년 “정기 상여금을 통상임금으로 인정해 미지급된 수당을 다시 계산해 달라”며 회사를 상대로 소송을 제기했다.&lt;br&gt;&lt;br&gt;2019년 2월 1심은 “정기 상여금에는 ‘고정성’이 없다”며 이를 통상임금으로 인정하지 않았다. 그러나 지난해 10월 2심은 이러한 판단을 뒤집었다. 2024년 12월 대법원 전원합의체가 통상임금의 ‘고정성’ 요건을 폐기하는 취지의 판결을 내린 것이 계기가 됐다.&lt;br&gt;&lt;br&gt;기존에는 통상임금으로 인정되려면 임금의 지급 여부나 금액이 사전에 확정돼 있어야 한다는 ‘고정성’ 요건이 필요했다. 하지만 이 요건이 폐기되면서, 상여금처럼 지급에 일정한 조건이 있더라도 근로의 대가로 정기적·일률적으로 지급된다면 통상임금에 포함될 수 있게 됐다. 이에 따라 2심 재판부는 변경된 대법원 판례를 근거로 “서울 시내버스의 정기 상여금은 소정 근로의 대가로서 정기성·일률성을 충족한다”며 통상임금에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;다만 2심 재판부는 연장·야간 근로 수당을 계산할 때 실제 근무한 시간으로 계산하도록 판결했다. 이에 당시 노조가 동아운수 측에 청구한 미지급 연장·야간 근로 수당 18억9500만원 중 8억4382만원만 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;대법원은 정기 상여금을 통상임금으로 인정한 원심 판단을 유지했다. 다만 대법원은 원심이 간주 근로 시간이 아닌 실제 근로 시간만큼 연장·야간 근로 수당을 지급하도록 판결한 부분에 대해선 법리를 오해했다고 보고 파기했다.&lt;br&gt;&lt;br&gt;대법원은 “노사 간에 연장·야간 근로 시간에 대해 실제 근로 시간과 관계없이 일정 시간을 연장·야간 근로 시간으로 간주하기로 하는 합의가 있었고, 이에 따라 원고들에게 연장·야간 근로 수당을 지급했다”며 “원고들의 연장·야간 근로 시간이 보장 시간에 미달하더라도 그 보장 시간을 기준으로 삼아야 한다”고 판단했다. 버스 회사 노사가 연장·야간 근로 시간을 실제 근로 시간과 무관하게 일정 시간으로 인정하기로 합의했다면, 임금을 계산할 때도 실제 근로 시간이 아니라 합의된 시간을 기준으로 해야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 “상여금을 통상임금에 반영해 연장·야간 근로 수당을 재산정할 때에도 근로자들의 실제 연장·야간 근로 시간이 보장 시간에 미달하는 경우에는 보장 시간이 기준이 되어야 한다는 기존 법리를 재확인한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;결과적으로 실제 일한 시간이 아닌 당초 노사가 합의한 보장 근무 시간을 기준으로 밀린 수당을 다시 계산해야 해 파기환송심을 거쳐 버스 기사들이 사측으로부터 받아낼 최종 임금 규모는 원심보다 더 늘어날 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홈플러스 회생안 가결 기한 2개월 또 연장…7월 3일까지</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/TD7NQY3TLRF75CNTBVTKZINGPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/TD7NQY3TLRF75CNTBVTKZINGPQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 04:38:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RTIY3CGMZWEYJTMZRTINRUMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 홈플러스 매장 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기업 회생 절차를 밟고 있는 홈플러스의 회생 계획안 가결 기한이 다시 한번 연장됐다.&lt;br&gt;&lt;br&gt;서울회생법원 회생4부(재판장 정준영 법원장)는 30일 홈플러스 회생 사건에서 회생 계획안 가결 기간을 기존 5월 4일에서 7월 3일까지 약 2개월 연장하기로 결정했다. 지난 3월에 이어 두 번째 연장이다.&lt;br&gt;&lt;br&gt;법원은 홈플러스의 핵심 구조조정인 수퍼마켓 사업부 ‘홈플러스 익스프레스’ 매각 절차가 막바지에 이른 점을 고려했다. 최근 공개 입찰에서는 NS홈쇼핑이 우선협상대상자로 선정돼 본계약 체결을 앞두고 있다.&lt;br&gt;&lt;br&gt;홈플러스 대주주인 MBK파트너스는 익스프레스 사업부를 먼저 매각해 운영 자금을 확보한 뒤, 대형 마트 본체의 새 주인을 찾겠다는 구상이다. 익스프레스 매각 대금에 추가 금융 지원(DIP 파이낸싱)을 통해 경영 정상화를 도모하한 뒤 마트 인수합병(M&amp;amp;A)을 추진한다는 것이다. 법원은 매각 절차가 마무리된 뒤 회생계획안의 실행 가능성을 높이기 위해 추가 시간을 부여한 것으로 해석된다. &lt;br&gt;&lt;br&gt;향후 익스프레스 매각이 완료되면 홈플러스 측은 이를 반영한 회생계획 수정안을 법원에 제출해야 한다. 채권자 등이 참여하는 관계인 집회에서 최종 결의가 이뤄질 예정이다. 다만 익스프레스 매각이 성사되더라도 본체 매각이 이뤄지지 않으면 청산 가능성도 배제할 수 없다는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
