@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>디지털미디어시티역 인근 도로서 택시 충돌… 3명 경상</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/02/YVYPLDJNAVEOBBOKQP4SZ3EDNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/YVYPLDJNAVEOBBOKQP4SZ3EDNM/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 01:40:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TSCIIR7KPA5PNQEKLPBORJYL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;디지털미디어시티역./김리영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 상암동 디지털미디어시티역 인근 도로에서 택시 2대가 충돌하는 사고가 발생해 3명이 다쳤다.&lt;br&gt;&lt;br&gt;2일 오전 7시 47분쯤 디지털미디어시티역 인근 도로에서 직진 중이던 택시가 비보호 좌회전하던 택시와 부딪혀 전복됐다.&lt;br&gt;&lt;br&gt;이 사고로 택시 운전자 2명과 전복된 직진 택시의 승객 1명이 경상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;경찰은 운전자들에게 음주나 약물 정황은 없었던 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화곡동 다가구 주택서 화재… 50대 심정지 이송</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/02/2SPPSXPD6VE2NOIGQACV72UKWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/2SPPSXPD6VE2NOIGQACV72UKWI/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 03:33:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6TZA7UVAFAMFBMAYLYL5ZYZOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방관 화재 진압 삽화./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 서울 강서구 화곡동의 한 다가구 주택에서 불이 나 50대 여성이 심정지 상태로 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;서울 강서소방서에 따르면, 이날 오전 7시 18분쯤 “세입자 방에서 연기가 난다”는 신고가 접수돼 소방차가 출동했다.&lt;br&gt;&lt;br&gt;이 화재로 이곳에 거주하던 50대 여성 한 명이 심정지 상태로 발견돼 심폐소생술(CPR)을 받으면서 병원으로 이송됐다. 주민 등 10명은 스스로 대피했으며 다치지는 않았다.&lt;br&gt;&lt;br&gt;소방 당국은 소방 인력 78명과 장비 21대를 투입해 신고 약 20분 만인 7시 38분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인과 재산 피해 규모를 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주여자교도소 5인방 화보? 쏟아지는 AI 콘텐츠에 2차 가해 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/02/EZRRNL55YJAXLK4FOMXGCZGGGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/EZRRNL55YJAXLK4FOMXGCZGGGQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 02:37:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQYC6H2DBVAQJDSI45TXUIFLDE.png"&gt;&lt;figcaption&gt;&lt;small&gt;'청주 여자 교도소 5인방'이라며 온라인에 공유된 사진. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;악명 높은 범죄자들의 얼굴과 음성 데이터를 기반으로 만든 인공지능(AI) 영상이 무분별하게 확산되면서 피해자 측에 대한 2차 가해 우려가 제기된다.&lt;br&gt;&lt;br&gt;2일 유튜브 등 소셜미디어에서는 현재 수감 중인 악명 높은 범죄자들이 죄수복 차림으로 밥을 먹거나 교도소를 활보하는 AI 영상이 ‘교도소 근황’, ‘교도소 식사’ 등의 제목으로 유포되고 있다.&lt;br&gt;&lt;br&gt;이들의 신상이 언론 등을 통해 공개된 만큼, 얼굴과 음성 데이터를 학습한 AI 영상은 실제 모습처럼 보인다. 한 영상에는 이른바 ‘계곡 살인 사건’ 가해자 이은해가 “된장국에 돼지갈비찜이 나왔는데 식재료가 중국산이라 맛없다”고 불평하는 모습이 담겼다. 죄수복을 입은 ‘박사방’ 주범 조주빈이 “오늘은 제가 제일 좋아하는 치즈돈가스가 나왔습니다. 이러니 제가 살을 뺄 수가 없죠”라고 너스레를 떠는 영상도 있다. 범죄자들이 우스꽝스럽게 춤을 추는 영상도 등장했다. &lt;br&gt;&lt;br&gt;‘청주여자교도소 5인방’이라며 여성 흉악범들을 한데 모은 AI 화보도 공유됐다. 사진 속에는 1∼5번까지 차례로 이은해, 과외 앱으로 알게 된 또래 여성을 살해·유기한 정유정, 전 남편을 흉기로 찔러 살해한 뒤 시신을 유기한 고유정, 약물이 든 음료로 남성 2명을 살해한 김소영, 남편과 내연남을 약물로 살해한 뒤 사고사로 위장해 보험금을 탄 ‘엄 여인 사건’의 엄인숙이 정면을 응시하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MNWZFNMYZAWTK2HD6IWEFAXJU.png"&gt;&lt;figcaption&gt;&lt;small&gt;이은해 AI 영상. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 콘텐츠는 온라인에서 쉽게 이목을 끈다. 한 영상은 조회수가 260만 회에 달한다. 대부분 네티즌은 이런 영상에 “사형 시켜라” “세금 아깝다” 등 이들의 범죄 사실을 떠올리며 다시금 비판을 쏟아내고, 콘텐츠 제작자는 조회수를 올린다. &lt;br&gt;&lt;br&gt;일각에서는 범죄 피해자들이 심각한 2차 가해에 노출된다는 지적이 나온다. 피해자들은 이미 공개된 가해자 사진만으로도 트라우마를 느끼는데, 의도하지 않은 사이 지속해서 이 같은 모습을 마주하게 될 수 있다는 것이다. 초상권이나 명예를 훼손당하는 주체가 범죄자 본인이라 피해자는 2차 가해를 당하고도 고소하기 어렵다.&lt;br&gt;&lt;br&gt;가해자의 얼굴과 목소리가 AI 기술로 재가공돼 ‘밈’(meme·인터넷 유행 콘텐츠)처럼 소비될 경우, 범죄 자체가 단순 흥미성 콘텐츠로 전락할 수 있다는 우려도 제기된다. 피해자나 유족 등에게는 평생에 걸쳐 각인된 중대한 범죄인데, 가해자가 희화화·캐릭터화된다는 지적이다. AI 생성물은 실제 영상이나 사진처럼 보일 정도로 정교해지고 있어, 단순한 패러디나 조롱을 넘어 허위 정보 확산과 모방 콘텐츠 양산으로 이어질 가능성도 있다.&lt;br&gt;&lt;br&gt;다만 이런 AI 콘텐츠에 대한 규제는 마땅하지 않다. 방송미디어통신심의위원회가 플랫폼 사업자에게 삭제나 접속 차단 같은 조치를 요청하는 정도다.&lt;br&gt;&lt;br&gt;전창배 국제인공지능윤리협회 이사장은 “신상이 공개된 범죄자 측에서 명예훼손이나 초상권 침해 문제를 제기할 가능성도 있다”며 “AI를 어떻게 윤리적으로 활용할지 명확한 원칙과 기준을 시급히 만들어 법제화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>황금연휴 고속도로 곳곳 정체, 서울~부산 7시간 10분</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/02/6QDYPBGYARAMXI2LZYBNC6GBNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/02/6QDYPBGYARAMXI2LZYBNC6GBNY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 01:31:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEKMW5XXE5OYDC4YYU4HUWGUGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노동절 연휴가 시작된 지난 1일 오후 서울 서초구 잠원IC 인근 경부고속도로 하행선이 나들이 차량들로 길게 늘어서 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;징검다리 연휴 둘째 날인 2일 전국 고속도로 곳곳에서 정체가 이어지고 있다. 한국도로공사는 “전국 고속도로 교통량이 581만대를 기록하며 도로가 혼잡하겠다”며 “수도권에서 지방으로 빠져나가는 차량은 44만대, 지방에서 수도권으로 들어오는 차량은 46만대를 기록하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 정체는 영동선과 서해안선 등 주요 노선을 중심으로 양방향에서 나타나겠다. 지방 방향은 오전 7~8시부터 정체가 시작됐고, 오전 11시~12시에 절정에 이른 뒤 오후 10~11시쯤 해소될 것으로 전망된다. 서울 방향은 오전 9~10시 혼잡한 상황이 시작돼 오후 5~6시 가장 혼잡하고, 오후 11시~12시 정체가 풀릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;오전 11시 기준 이동 시간은 서울~부산이 7시간10분, 서울~대구 6시간10분, 서울~광주 4시간30분, 서울~대전 2시간50분, 서울~강릉 4시간30분이 걸리겠다. 상행선은 부산~서울 6시간, 대구~서울 5시간, 광주~서울 3시간20분, 대전~서울 1시간40분, 강릉~서울 2시간40분으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“앉아달라” 버스기사 말에 격분... 폭행한 만취 승객 징역 2년6개월</title>
+      <link>https://www.chosun.com/national/regional/2026/05/02/UQKXZTTXJZB2VFS7XQRGZUXY4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/02/UQKXZTTXJZB2VFS7XQRGZUXY4A/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 00:52:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIIWAEXOKRDJBI2JTO7JAQAQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 버스에 탔다가 착석을 요구하는 버스 기사를 폭행한 60대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 특정범죄가중법상 운전자 폭행과 업무방해, 공무집행방해 혐의로 기소된 A(65)씨에게 징역 2년 6개월을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 1일 오전 9시 5분쯤 홍천군 영귀미면 한 시내버스 안에서 운전기사 B씨에게 발길질하고 목덜미를 때리는 등 폭행해 전치 2주의 상처를 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;술에 취한 채 버스에 오른 A씨는 B씨에게 “위험하니 앉아주세요”라는 말을 들은 뒤 화를 내며 폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난해 11월 식당에서 혼자 술을 마시던 도중 식당 주인에게 욕설하며 상을 뒤엎는 등 소란을 피우고, 신고를 받고 출동한 경찰관을 폭행하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “폭행 등으로 수차례 처벌받은 전력이 있고, 공무집행방해죄 등으로 인한 누범 기간이었음에도 범행을 저질렀다”며 “범행을 인정하며 반성하는 태도를 보이는 점 등을 고려해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>우크라이나 유학생이 ‘미스 춘향’ 됐다</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 00:36:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTVY66LQKVFJVF7O532I3L3EVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;제96회 글로벌 춘향선발대회에서 '춘향 진'으로 뽑힌 김하연(왼쪽)씨와 '미'로 뽑힌 우크라이나 유학생 출신 리나씨. /남원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제96회 글로벌 춘향선발대회에서 한양대를 졸업한 김하연(22·경기 파주) 씨가 우리나라 최고의 전통미인 자리에 올랐다.&lt;br&gt;&lt;br&gt;김 씨는 지난달 30일 밤 전북 남원시 광한루원 앞 특설무대에서 열린 대회에서 단아한 자태와 지성미로 최고 점수를 받으며 ‘춘향 진’으로 뽑혔다.&lt;br&gt;&lt;br&gt;김 씨는 “최고의 미의 대전에서 진의 영광을 차지해 너무 기쁘고 행복하다”며 “춘향 정신과 남원 문화자산을 널리 알리는 홍보대사가 되겠다”고 했다.&lt;br&gt;&lt;br&gt;선에는 이소은(27·서울·서울대 졸), 미에는 리나(23·우크라이나·경북대 대학원), 정에는 김도현(19·서울·동국대), 숙에는 김서원(22·전북 전주·한국예술종합대 무용원), 현에는 이현아(20·서울·한양여자대) 씨가 각각 뽑혔다.&lt;br&gt;&lt;br&gt;특별상인 글로벌 앰버서더에는 엘로디 유나 불라동(25·스위스·로잔호텔대), 안젤라 보셰네(18·캐나다·오타와대) 씨가 선정됐으며, 기업후원상은 강민선(21·경기 의정부시·숭실대), 김민주(24·서울·중앙대 졸) 씨에게 돌아갔다.&lt;br&gt;&lt;br&gt;우정상은 조유주(22·경기 성남시·서울예술대) 씨가 차지했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPJBUDK4JNPXLAVS3SI5JI3RA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제96회 춘향제의 하이라이트인 글로벌 춘향선발대회에서 '미스 춘향 진'에 선정된 김하연(22·경기 파주·한양대 무용학과 졸)씨. /남원시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUBQBM6CNRLI7DJD6Q7ULE2QBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제96회 춘향제의 하나로 지난 달 30일 밤 전북 남원시 광한루원 앞 특설무대에서 열린 글로벌 춘향선발대회의 입상자들. /남원시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;글로벌 춘향선발대회 본선에서 입상한 춘향 진·선·미·정·숙·현과 글로벌 앰버서더상 2명, 기업후원상 2명은 2일 남원시 홍보대사로 공식 위촉된다.&lt;br&gt;&lt;br&gt;춘향선발대회는 춘향제의 하이라이트로, 배우 최란(1979년)·박지영(1988년)·오정해(1992년)·윤손하(1994년) 등 연예인들을 대거 배출한 미인대회다.&lt;br&gt;&lt;br&gt;대회의 세계화를 위해 2024년부터 외국인에게도 문호를 개방하며 이름을 글로벌 춘향선발대회로 바꿨다. 작년에는 에스토니아 유학생이 ‘춘향 현’에 이름을 올렸다. 올해는 우크라이나 유학생 리나씨가 ‘춘향 미’를 차지했다. &lt;br&gt;&lt;br&gt;권덕철 춘향제전위원장은 “올해 대회는 춘향의 정신과 아름다움을 보다 현대적이고 세계적인 감각으로 풀어낸 뜻깊은 무대였다”며 “춘향선발대회를 춘향제의 대표 문화콘텐츠로 발전시켜 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4STVR25PXREN5JPIC56ASY57AU.png?auth=6f105c58c13d827bbc8050b6f332dd8187a57858dabfee770a30b61dfbca9832&amp;smart=true&amp;width=408&amp;height=306" type="image/png" height="306" width="408">
+        <media:description type="plain">제96회 글로벌 춘향선발대회에서 '춘향 진'으로 뽑힌 김하연(왼쪽)씨와 '미'로 뽑힌 우크라이나 유학생 출신 리나씨. /남원시</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>전국 흐리고 건조, 수도권 미세먼지 ‘나쁨’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/02/O6J6KB7DJJE7VEDJTRNFDODVEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/02/O6J6KB7DJJE7VEDJTRNFDODVEI/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 00:33:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIBRCX3MGBIANO3RSZBIFYJP4U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 오전 서울 중구 남산타워 전망대 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연휴 이튿날인 2일(토요일)은 전국이 대체로 흐리고 대기가 건조하겠다. 낮 최고 기온이 26도까지 오르는 가운데 일교차가 큰 전형적인 5월 초순 날씨를 보이겠다.&lt;br&gt;&lt;br&gt;2일 기상청에 따르면 서울과 충청권 내륙, 전북 북동 내륙, 경북권 내륙에 건조특보가 발효됐다. 그 밖의 지역도 대부분 대기가 건조해 산불 등 화재에 유의할 필요가 있겠다. 수도권과 강원 내륙·산지에는 밤부터 비가 내리기 시작하며 건조특보는 해제될 전망이다. 2~4일 사흘간 예상 강수량은 서울·인천·경기 5~30㎜, 서해5도 5~20㎜, 강원도 10~40㎜다.&lt;br&gt;&lt;br&gt;2일 낮 최고 기온은 최저(8~16도) 보다 크게 오른 20~26도로 예보됐다. 평년 기온(19.7 ~ 24.8도)과 비슷한 수치다. 서울이 22도, 대전·광주가 23도, 대구 26도, 부산 22도를 기록하겠다. 미세먼지 농도는 수도권은 ‘나쁨’, 그 밖의 지역은 ‘보통’을 나타내겠다.&lt;br&gt;&lt;br&gt;3일은 비가 내리며 기온이 다소 내려갈 것으로 전망된다. 아침 최저 기온은 11~15도, 낮 최고 기온은 14~19도를 기록하겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>29주 임신부, 병원 못찾아 청주서 부산까지…태아는 숨져 </title>
+      <link>https://www.chosun.com/national/regional/2026/05/02/UNWQ5RT2GBGF7M3GPCHLUN5NWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/02/UNWQ5RT2GBGF7M3GPCHLUN5NWI/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 00:08:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3DKOJRMI4GMZJUME3TAYRXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 한 임신부가 야간에 응급 분만할 병원을 찾지 못해 부산까지 이송됐으나, 끝내 태아가 숨지는 일이 발생했다.&lt;br&gt;&lt;br&gt;2일 소방 당국에 따르면, 전날 오후 11시 3분쯤 충북 청주시 흥덕구의 한 산부인과에서 29주 차 산모 A(30대)씨의 태아 심박수가 떨어진다는 119 신고가 접수됐다. 당시 A씨는 해당 산부인과에 입원한 상태였다.&lt;br&gt;&lt;br&gt;산부인과는 태아의 심박수가 떨어지자 충북과 충남·대전·세종 지역 병원 등에 전원을 요청했으나, 전문의 부재 등을 이유로 수용이 불가능하다는 답을 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 당국은 전국 병원을 수소문한 끝에 헬기를 동원해 A씨를 약 3시간 30분 만에 부산 동아대병원으로 이송했지만, 태아는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 수술을 받고 병원에서 치료를 받고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>연말부터 비대면 진료… 탈모·여드름약 처방은 왜 안되죠?</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/05/02/7SKKPCNWVJFWDFAOJEQHGGKXHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/02/7SKKPCNWVJFWDFAOJEQHGGKXHY/</guid>
@@ -846,42 +922,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
     </item>
     <item>
-      <title>“가짜 유족 있다”… 제주항공 참사 허위글 게시한 대학생 벌금 600만원</title>
-      <link>https://www.chosun.com/national/regional/2026/04/30/WVNYFFRHUJEMBFZZOTVYAUH3D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/30/WVNYFFRHUJEMBFZZOTVYAUH3D4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 07:28:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRDOZDDMEZDCMJSMQ4WIZLFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 참사와 관련해 ‘가짜 유족이 있다’는 내용의 허위 글을 게시한 혐의로 재판에 넘겨진 20대 대학생에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사3단독 이현석 판사는 정보통신망 이용 촉진 및 정보보호 등에 관한 법률 위반 혐의로 기소된 20대 A씨에게 벌금 600만원을 선고했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2024년 12월 31일 대구 북구 자신의 집에서 B대학 커뮤니티 사이트 자유게시판에 유가족 대표단 집행부 사진과 함께 ‘유가족 행세하는 가짜 유가족이 5명 있다고 함, 이 사람 유족 대표라고 하는 건 다 가짜 뉴스’라는 허위 사실을 게시한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;이 판사는 “A씨는 자신의 글이 허위일 수 있다는 인식을 가지고 있으면서 피해자가 유족이 아니라고 단정했다”며 “피해자의 명예를 훼손할 수 있다는 것을 분명하게 인식하고 있었을 것으로 보이는 것은 물론 피해자를 비방하려는 목적도 포함되어 있다고 충분히 인정할 수 있다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검, ‘尹 허위 계엄선포문 행사’ 무죄에 항소</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/KYMPAHZBRBF3HIF4TSHB2WU2KI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/KYMPAHZBRBF3HIF4TSHB2WU2KI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 07:22:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2TQM3FMU4GKZLGGYZTQNJWMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 29일 서울 서초구 서울고등법원에서 열린 항소심 선고공판에서 피고인석에서 일어나 주문을 듣고 있다./서울고등법원 제공 영상 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란특검은 윤석열 전 대통령이 비상계엄 사후에 허위로 작성한 선포문을 행사하지 않았다고 본 항소심 판단에 불복해 30일 상고했다.&lt;br&gt;&lt;br&gt;이날 내란특검은 언론 공지를 통해 “비상계엄 선포문은 대통령기록물에 해당하므로 대통령실에 보관하는 것만으로도 선포문의 효용이 있다”며 “공범인 한덕수 전 국무총리와 강의구 전 대통령실 부속실장에 대한 재판도 진행되고 있으므로 대법원 판단을 받아볼 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 12·3 비상계엄이 국회 요구로 해제된 이후 계엄 선포 절차에 위법이 있었다는 의혹이 제기되자, 적법한 절차를 거친 것처럼 가장하기 위해 선포문 표지를 허위로 작성한 혐의를 받는다. 2심 재판부는 윤 전 대통령이 선포문을 작성하고 폐기하게 했다는 혐의에 대해서는 유죄를 인정했다. 그러나 선포문이 대통령실 서랍 안에 보관돼 외부에 공개되지 않았으므로 해당 문서를 ‘행사’한 것은 아니라고 보고 허위공문서 행사 혐의는 무죄로 판단했다.&lt;br&gt;&lt;br&gt;2심 재판에서 윤 전 대통령은 징역 7년을 선고받았다. 1심(징역 5년)보다 형량이 2년 늘었다. 선포문 허위 작성 혐의를 비롯해 대통령경호처 직원을 동원해 공수처의 체포를 방해한 혐의, 계엄 선포 당시 의도적으로 일부 국무위원만 소집한 혐의 등 대부분 혐의가 유죄로 인정됐다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 항소심 선고 직후 “납득이 안 된다”며 “법리적으로 다툴 수 있는 부분은 대법원에 가서 치열하게 다투도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 12·29 여객기 참사 유해 14개월 ‘야적 방치’ 확인… 공직자 12명 문책</title>
-      <link>https://www.chosun.com/politics/goverment/2026/04/30/LKBNABABAFA3FAG72ASNEMLQUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/04/30/LKBNABABAFA3FAG72ASNEMLQUA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 07:07:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSMC4BPPTFNB3F2JVIJHHNTS74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영수 국무조정실 국무1차장이 30일 오후 서울 종로구 정부서울청사에서 12·29 여객기 참사 희생자 유해 부실 수습 경위 점검 결과를 브리핑하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 무안공항 제주항공 여객기 참사 사망자 유해를 부실하게 수습하고 잔해를 장기간 방치한 책임을 물어 경찰·소방과 국토교통부 및 항공·철도사고조사위원회 간부 12명을 문책하기로 했다.&lt;br&gt;&lt;br&gt;국무조정실 정부합동 공직복무점검단은 30일 오후 정부서울청사에서 ‘12·29 여객기 참사 희생자 유해 부실 수습 경위 점검 결과’를 발표했다. 지난 2024년 12월 29일 전남 무안국제공항에서 동체 착륙을 시도하던 제주항공 2216편이 활주로를 벗어나 착륙 유도 시설이 설치된 콘크리트 둔덕을 들이받았고, 탑승자 181명 가운데 179명이 숨졌다. 정부는 지난 1월까지 1년 넘게 이 사고 사망자 유해를 수색·수습했으나, 수색 종료 뒤인 지난 2월 여객기 잔해를 정리하는 과정에서 사망자 유해 다수가 추가로 발견됐다. 이재명 대통령은 지난 3월 “사고 초기에 유해 수습이 안 된 경위와, 이후 유해가 1년 넘게 방치된 경위에 대해 철저히 조사하고, 책임 있는 관계자들을 엄중히 문책하라”고 지시했다. 이달 13일부터는 유해 재수색이 진행 중이다. 점검단은 관련 기관들을 감찰해 이날 결과를 내놨다.&lt;br&gt;&lt;br&gt;점검단은 “항공기 사고 수색·수습 방식에 대한 구체적인 지침이 없는 상황에서, 소방·경찰의 미흡한 현장 지휘·감독으로 초기 수색·수습이 불완전하게 이뤄졌고, 항철위는 미수습된 유해가 포함된 잔해물을 보관·관리하는 과정에서 관련 규정과 매뉴얼을 위반해 잔해물을 장기간 야적·방치했음이 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;점검단에 따르면, 항공기 사고가 일어났을 때 수색·구조를 총괄해야 하는 소방청에는 항공기 사고 수색·수습에 관한 구체적인 지침이 없었다. 이에 소방과 경찰은 합리적인 기준 없이 현장에서 임의로 일부 구역만 수색 대상으로 선정해 수색을 진행했다. 수색 작업에 투입된 인력 대다수는 관련 경험이 없었고, 그런데도 소방·경찰은 방법을 교육하거나 구체적인 지침을 주지 않았다.&lt;br&gt;&lt;br&gt;또 사고 당일부터 지난해 1월 7일까지 최초 수색을 총괄한 전남소방본부는 경찰이 사고 현장에서 유해를 발견하고 있는데도 기관 간 소통 부재로 이를 알지 못하고 ‘추가 유해가 없다’고 보고했고, 1차 수색을 종료해 버렸다.&lt;br&gt;&lt;br&gt;1월 9일부터는 전남경찰청이 주가 돼 2차 수색을 했고, 유족과 합의해 1월 15일에 수색을 종료했다. 하지만 종료 다음 날에도 유해가 발견됐다. 그런데도 전남경찰청은 추가 수색을 검토하지 않았다.&lt;br&gt;&lt;br&gt;항철위는 1월 16~17일 현장에서 사고 항공기 잔해물을 수거해 대형 포대에 나눠 담았다. 그런데 이 과정에서 잔해물에 사망자 유해나 유류품이 섞여 있는지를 제대로 확인하지 않았다. 항철위 자체적으로 갖고 있는 항공기 사고 조사 매뉴얼에는 항철위가 반드시 잔해 정밀 조사 계획을 세우고 실행하도록 돼 있었으나, 항철위는 이마저도 하지 않았다.&lt;br&gt;&lt;br&gt;그 결과, 사망자 유해가 뒤섞인 잔해물이 포대에 담긴 채로 14개월간 방치됐다. 항철위가 잔해 보관 관련 규정도 지키지 않아, 포대는 무안공항 아스팔트 도로 위에 쌓여 있었고, 방수포와 차양막에 덮인 채로 비와 눈을 맞았다. 유족들이 재수색을 요청하는 상황에서도 야외 방치가 5개월 넘게 계속됐다.&lt;br&gt;&lt;br&gt;항철위 관계자들은 올해 1월 13일 사고 현장을 돌아보다가 우연히 사고 항공기 잔해와 사망자 유류품을 추가로 발견했다. 그런데도 추가 수색을 검토하지 않았고, 발견한 잔해와 유류품만 수거했다.&lt;br&gt;&lt;br&gt;점검단은 경찰과 소방, 국토부, 항철위에 중간 관리자급 이상의 관련 공무원들에 대한 문책을 요구하기로 했다. 이들에 대한 징계 수위는 각 기관의 조사와 징계위원회를 통해 결정된다.&lt;br&gt;&lt;br&gt;점검단은 다만 실무 공무원들에 대해서는 책임을 묻지 않기로 했다. 점검단 관계자는 “현장을 접했던 공무원들이 극심한 외상 후 스트레스 증상을 겪고 있다”고 전했다.&lt;br&gt;&lt;br&gt;점검단은 또 부실 수색·수습이 관련 규정과 매뉴얼이 없거나 미흡한 데서 비롯됐다고 보고, 소방청 등 관계 기관에 제도를 정비하도록 했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>크루즈컨트롤 켜놓고 졸음운전, 2명 숨지게 한 운전자 집유</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/30/BVUX2KLIFVHBLF74O3XX3HTN6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/BVUX2KLIFVHBLF74O3XX3HTN6Q/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 06:35:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 자동차 크루즈컨트롤(정속 주행 장치) 기능을 켜놓고 졸음운전을 하다 사고를 내 2명을 숨지게 한 30대 운전자가 1심에서 금고형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;30일 전주지법 정읍지원 형사1단독(정성화 부장판사)은 교통사고처리특례법 위반(치사) 혐의로 구속 기소된 30대 A씨에게 금고 1년 2개월에 집행유예 3년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 4일 오전 1시 51분쯤 서해안고속도로 상행선 고창분기점에서 SUV 차량을 몰다가 교통사고를 수습하던 현장을 덮쳐 경찰관 등 2명을 숨지게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;당시 현장에서는 음주운전 차량과 다른 승용차 간 충돌 사고가 발생해 전북경찰청 소속 이승철 경정(54)과 견인차 기사 30대 B씨, 119구급대원등이 수습 작업을 진행 중이었다. 이승철 경정과 B씨는 사고로 크게 다쳐 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 사고 당시 크루즈컨트롤 기능을 켠 상태에서 졸음운전을 한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 과속‧졸음운전을 하다 사고를 일으켜 피해자들에게 사망이라는 중대한 결과를 초래했다”면서도 “다만 범행을 인정하고 피해자 측과 합의한 점, 형사처벌 전력이 없는 점 등을 고려해 형을 정했다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>종합특검, 구자현 검찰총장 대행·대검 감찰부장 징계 요청…“수사 방해”</title>
       <link>https://www.chosun.com/national/court_law/2026/04/30/C6JZRUF3UZEWDLFVTPFOPXX3NI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/C6JZRUF3UZEWDLFVTPFOPXX3NI/</guid>
@@ -889,24 +929,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 06:14:12 +0000</pubDate>
       <content:encoded>2차 종합특검이 30일 “검찰이 특검 수사를 방해했다”며 구자현 검찰총장 직무대행과 대검찰청 김성동 감찰부장에 대한 징계를 법무부에 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DSZRTG43DKNJTGBSTMMRWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특검팀  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 “12·3 비상계엄 관련 수사를 진행하면서 대검찰청에 자료 제출 등 수사 협조를 요청했지만, 대검은 법률적 근거 없이 ‘특검이 요구한 자료 일체는 관련 규정에 따라 제공할 수 없다’며 협조를 거부했다”고 밝혔다.&lt;br&gt;&lt;br&gt;구체적으로 “지난달 25일 검찰청 헌법존중 정부혁신 TF 조사 자료 송부해달라고 대검에 요청했지만, 대검은 지난 28일 해당 자료가 관련 규정상 비공개 대상이라는 이유로 제공을 거부했다”고 설명했다. 이에 대해 특검은 “특검법 규정에 반하는 것이자 특검의 수사를 심각하게 방해하는 행위”라고 했다.&lt;br&gt;&lt;br&gt;특검법 6조는 특별검사가 직무 수행에 필요한 경우 대검찰청 등 관계 기관에 수사 기록과 증거 등 자료 제출을 요청할 수 있도록 하고 있다. 또 정당한 사유 없이 이를 따르지 않을 경우 특별검사가 관계 기관의 장에 대해 징계 절차 개시를 요구할 수 있도록 규정하고 있다. 특검은 이를 근거로 “수사 방해 행위자인 검찰총장 직무대행과 대검찰청 감찰부장에 대한 징계 절차 개시를 법무부 장관에게 요청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검이 제출을 요구한 자료는 심우정 전 검찰총장의 비상계엄 관여 의혹을 수사하는 과정에서 필요한 것으로 알려졌다. 특검은 심 전 총장이 비상계엄 당일, 박성재 전 법무부 장관의 지시를 받고 합동수사본부에 검사 파견을 검토한 경위를 들여다보고 있다. 이와 관련해 특검은 최근 대검과 검찰 내부망 서버 등을 압수수색한 바 있다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “특검법과 관련 규정에 따라 필요한 조치 등을 검토해보겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세계음식 먹고 공연 즐기고... 다리 위 ‘세계음식관서’ 거리 공연</title>
-      <link>https://www.chosun.com/national/regional/2026/04/30/RSL7UNHXYZH3FELRJA6GWHZLTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/04/30/RSL7UNHXYZH3FELRJA6GWHZLTQ/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 06:26:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPXKDP62DFFYHLZ33RQHGFC6LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 태화강 울산교 위에 지어진 울산세계음식문화관. /울산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산시는 국내 최초로 다리 위에 조성된 ‘울산 세계음식문화관’에서 가정의 달을 맞아 5월 한 달 간 거리 공연을 연다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;세계음식문화관은 지난 3월 차량이 다니지 않고 보행자만 다니는 울산교에 문을 열었다. 이탈리아·일본·베트남·태국·멕시코·우즈베키스탄 등 6개국 음식점과 카페 1곳으로 구성돼 있다. &lt;br&gt;&lt;br&gt;울산시에 따르면 개관 이후 1만3000여 명이 방문해 도심 속에서 세계 각국의 음식을 즐겼다.&lt;br&gt;&lt;br&gt;거리 공연은 5월 한 달 간 매주 토·일요일 오후 5시부터 약 30분간 울산교 위에서 진행된다. 어린이 마술과 풍선 공연, 코믹 마임 저글링, 일반 마술 등 4개 프로그램으로 구성돼 가족 단위 관람객이 함께 즐길 수 있도록 했다.&lt;br&gt;&lt;br&gt;전문 마술사 등으로 구성된 공연팀은 5월 중 총 10차례 공연을 선보일 예정이다. 울산시는 체험형·참여형 공연을 통해 세계음식문화관 방문객의 즐길거리를 한층 늘릴 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 가덕도 테러 조력자·전 경찰 간부 4명 송치…국정원 배후 의혹 수사 계속</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/30/OPDF6M3U6JFV5KYKVVXQ7WRWXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/OPDF6M3U6JFV5KYKVVXQ7WRWXE/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 05:55:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFGLAPFRXROY7PWIOA3INU4MAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'테러'로 지정된 2024년 이재명 대통령 피습 사건을 수사하는 국가수사본부 가덕도 테러사건 수사TF가 국회 정보위원회 등에 대해 압수수색에 나선 지난 2월 12일 수사팀 관계자들이 국회 본청을 떠나고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 부산 가덕도 피습 테러 사건과 관련해 조력자와 전직 경찰 간부 등 4명을 30일 검찰에 송치했다. 그동안 제기돼 온 국정원 개입 의혹과 김상민 전 검사 관련 사안 등에 대해서는 수사를 이어간다는 방침이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 송치된 인물은 테러 행위 정범을 도운 조력자 A씨와 사건 현장 물청소에 관여한 전 부산강서경찰서장, 당시 현장에 있던 경정급 간부 2명이다.&lt;br&gt;&lt;br&gt;A씨는 기존 수사에서는 입건되지 않았던 인물이었으나, 재수사 과정에서 범행 결의를 강화하는 데 관여한 정황이 확인됐다. 경찰은 법리 검토를 거쳐 살인미수 방조 혐의를 적용했고, 검찰과 협의를 통해 테러방지법 위반 혐의도 추가했다. 경찰 관계자는 “방조 혐의가 짙다고 판단돼 적용 법리를 확장했다”고 설명했다.&lt;br&gt;&lt;br&gt;전 경찰 간부 3명에 대해서는 사건 직후 현장 물청소 과정에 관여한 점이 문제로 지적되며 직권남용과 증거인멸 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;경찰은 부산에서 이뤄진 주요 수사에 대해서는 이날까지 부산지검으로 송치를 마무리했으며, 나머지 의혹 수사는 서울로 옮겨 계속 진행할 계획이다. 특히 국정원 및 정보위 관계자 관련 의혹, 김상민 전 검사 연루 의혹 등은 서울경찰청으로 이전한 TF가 맡는다. 경찰 관계자는 “TF가 종료된 것은 아니고, 수사 효율성을 고려해 주된 수사 거점을 서울로 옮긴 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 국가수사본부 주도로 부산경찰청 산하에 수사 TF를 꾸려 재수사에 착수했다. TF는 경무관 단장을 중심으로 50여 명 규모로 출범해 압수수색, 참고인 조사, 기존 수사·재판 기록 검토, 포렌식 등을 진행해 왔다.&lt;br&gt;&lt;br&gt;이 사건은 2024년 1월 당시 더불어민주당 대표였던 이재명 대통령이 부산 가덕도 신공항 부지를 방문하던 중 60대 김모씨가 휘두른 흉기에 왼쪽 목을 찔린 사건이다. 김씨는 이후 재판에서 징역 15년이 확정됐지만, 사건 이후 배후설과 수사 축소·은폐 의혹 등이 제기되며 재수사 필요성이 제기돼 왔다.&lt;br&gt;&lt;br&gt;정부는 지난 1월 20일 이 사건을 ‘국가 공인 1호 테러’로 지정했다. 민주당은 당시 윤석열 정부의 국가정보원과 대테러센터가 사건을 테러로 규정하지 않고 현장 증거를 인멸하는 등 사건을 축소·왜곡했다는 의혹을 제기하며 전면 재수사를 촉구해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대법, 동아운수 통상임금 소송 “노사 합의된 시간으로 수당 계산해야”</title>
@@ -918,18 +940,6 @@
       <content:encoded>서울 시내버스 노사 갈등의 불씨를 댕겼던 동아운수 버스 기사들의 통상임금 소송에서 대법원이 버스 기사들의 주장을 받아들여, 실제 근로 시간이 아니라 노사가 합의한 ‘보장 근로시간’을 기준으로 연장·야간 근로 시간을 지급해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTGCNZXHE4TSODFGFRTIMLEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시내버스 운행 모습.(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 동아운수 전·현직 버스 기사 97명이 회사를 상대로 낸 임금 소송에서 미지급 연장·야간 근로 수당 청구 부분에 대한 원심을 깨고 사건을 서울고법으로 돌려보냈다고 30일 밝혔다. 2심에서 기사들이 패소한 부분 중 일부만 파기하고, 나머지 판단은 그대로 유지했다.&lt;br&gt;&lt;br&gt;동아운수는 2012년 6월부터 2015년 6월까지 서울시버스운송사업조합과 전국자동차노동조합연맹 서울시버스노동조합이 체결한 단체협약과 임금 협정에 따라 버스 기사들에게 임금을 지급했다. 협약에 따르면 주 5일 근무일에는 소정 근로 8시간에 연장 근로 1시간을 더해 하루 9시간 근무한 것으로 간주하고, 격주로 이뤄지는 연장 근무일에는 5시간의 연장 근로를 한 것으로 보고 수당을 지급한다.&lt;br&gt;&lt;br&gt;이에 따라 실제 근로 시간이 이에 미치지 않더라도 주 5일 근무일에는 1시간분의 연장 근로 수당(기본 시급의 150%)이, 연장 근무일에는 5시간분의 시프트(교대) 근로 수당(기본 시급의 150%)이 지급된다. 야간 근로를 한 경우에도 오전 근무자는 2시간, 오후 근무자는 3시간을 근무한 것으로 간주해 야간 근로 수당(기본 시급의 150%)이 지급된다.&lt;br&gt;&lt;br&gt;동아운수 전·현직 기사들은 2015년 “정기 상여금을 통상임금으로 인정해 미지급된 수당을 다시 계산해 달라”며 회사를 상대로 소송을 제기했다.&lt;br&gt;&lt;br&gt;2019년 2월 1심은 “정기 상여금에는 ‘고정성’이 없다”며 이를 통상임금으로 인정하지 않았다. 그러나 지난해 10월 2심은 이러한 판단을 뒤집었다. 2024년 12월 대법원 전원합의체가 통상임금의 ‘고정성’ 요건을 폐기하는 취지의 판결을 내린 것이 계기가 됐다.&lt;br&gt;&lt;br&gt;기존에는 통상임금으로 인정되려면 임금의 지급 여부나 금액이 사전에 확정돼 있어야 한다는 ‘고정성’ 요건이 필요했다. 하지만 이 요건이 폐기되면서, 상여금처럼 지급에 일정한 조건이 있더라도 근로의 대가로 정기적·일률적으로 지급된다면 통상임금에 포함될 수 있게 됐다. 이에 따라 2심 재판부는 변경된 대법원 판례를 근거로 “서울 시내버스의 정기 상여금은 소정 근로의 대가로서 정기성·일률성을 충족한다”며 통상임금에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;다만 2심 재판부는 연장·야간 근로 수당을 계산할 때 실제 근무한 시간으로 계산하도록 판결했다. 이에 당시 노조가 동아운수 측에 청구한 미지급 연장·야간 근로 수당 18억9500만원 중 8억4382만원만 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;대법원은 정기 상여금을 통상임금으로 인정한 원심 판단을 유지했다. 다만 대법원은 원심이 간주 근로 시간이 아닌 실제 근로 시간만큼 연장·야간 근로 수당을 지급하도록 판결한 부분에 대해선 법리를 오해했다고 보고 파기했다.&lt;br&gt;&lt;br&gt;대법원은 “노사 간에 연장·야간 근로 시간에 대해 실제 근로 시간과 관계없이 일정 시간을 연장·야간 근로 시간으로 간주하기로 하는 합의가 있었고, 이에 따라 원고들에게 연장·야간 근로 수당을 지급했다”며 “원고들의 연장·야간 근로 시간이 보장 시간에 미달하더라도 그 보장 시간을 기준으로 삼아야 한다”고 판단했다. 버스 회사 노사가 연장·야간 근로 시간을 실제 근로 시간과 무관하게 일정 시간으로 인정하기로 합의했다면, 임금을 계산할 때도 실제 근로 시간이 아니라 합의된 시간을 기준으로 해야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 “상여금을 통상임금에 반영해 연장·야간 근로 수당을 재산정할 때에도 근로자들의 실제 연장·야간 근로 시간이 보장 시간에 미달하는 경우에는 보장 시간이 기준이 되어야 한다는 기존 법리를 재확인한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;결과적으로 실제 일한 시간이 아닌 당초 노사가 합의한 보장 근무 시간을 기준으로 밀린 수당을 다시 계산해야 해 파기환송심을 거쳐 버스 기사들이 사측으로부터 받아낼 최종 임금 규모는 원심보다 더 늘어날 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정규직 100만원 받을 때 비정규직 65만원…임금 격차 10년 전으로</title>
-      <link>https://www.chosun.com/national/labor/2026/04/30/Z4YDY3S6QREGBD7COZMAPVEKCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/04/30/Z4YDY3S6QREGBD7COZMAPVEKCY/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 03:00:00 +0000</pubDate>
-      <content:encoded>지난해 비정규직 근로자의 시간당 임금은 정규직의 65.2%에 그친 것으로 나타났다. 정규직이 같은 시간 일해 100만원을 받을 때, 비정규직은 65만2000원을 받은 셈이다. 2000년대 이후 점차 줄어들던 정규직·비정규직 격차는 최근 다시 벌어져 10년 전인 2015년(65.5%) 수준으로 되돌아갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POSPHT4NZJ735ISCD4VJSJBWNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 고용노동부 청사 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부가 30일 발표한 ‘고용형태별 근로실태조사’에 따르면, 작년 전체 근로자의 시간당 임금은 2만5839원으로 전년보다 2.7% 늘었다. 정규직의 시간당 임금은 2만8599원이었지만, 비정규직은 1만8635원이었다. 같은 시간 일해도 정규직과 비정규직 사이 시간당 1만원 가까운 차이가 난 것이다.&lt;br&gt;&lt;br&gt;정규직 대비 비정규직 임금 수준은 2008년 55.5%에서 점차 올라 2021년 72.9%까지 높아졌다. 그러나 2022년(70.6%) 다시 하락세로 돌아섰고, 지난해에는 65.2%까지 떨어졌다. 노동부 관계자는 “상대적으로 근로 시간이 짧고 임금이 낮은 고령층 일자리와 보건·사회복지업 일자리가 비정규직에서 많이 늘어난 영향”이라고 말했다. 최근 18시간 미만으로 일하는 단시간 일자리가 증가한 점도 격차 확대에 영향을 줬다는 분석이다.&lt;br&gt;&lt;br&gt;정규직 임금이 비정규직보다 더 빠르게 오른 것도 격차를 키운 요인이다. 정규직의 시간당 평균 임금은 2023년 2만4799원에서 지난해 2만8599원으로 2년 사이 15.3% 올랐다. 반면 비정규직은 같은 기간 1만7586원에서 1만8635원으로 6% 오르는 데 그쳤다. 정규직 임금 상승 속도가 비정규직보다 두 배 이상 빨랐던 것이다.&lt;br&gt;&lt;br&gt;대기업과 중소기업 간 임금 격차는 소폭 줄었다. 지난해 중소기업(300인 미만) 근로자의 시간당 임금은 대기업 근로자(300인 이상)의 57.3% 수준이었다. 전년(56.2%)보다 1.1%포인트 높아진 것이다. 다만 여전히 대기업과 중소기업 간 임금 차이는 큰 것으로 나타났다.&lt;br&gt;&lt;br&gt;성별 임금 격차는 역대 가장 낮은 수준으로 줄었다. 지난해 여성의 시간당 평균 임금은 남성의 72% 수준이었다. 2008년 60.8%였던 것과 비교하면 성별 임금 격차는 조금씩 좁혀지고 있다.&lt;br&gt;&lt;br&gt;한편 작년 노조 가입률은 소폭 올랐다. 지난해 전체 근로자 중 노조에 가입한 비율은 10.2%로 전년 대비 0.5%포인트 상승했다. 하지만 임금뿐 아니라 노조 가입률에서도 정규직과 비정규직 간 차이가 컸다. 정규직의 노조 가입률은 13.7%였지만, 비정규직은 1.2%였다. 다만 이번 조사는 노란봉투법 시행 이전 기준이어서, 올해 통계에서는 비정규직 노조 가입률이 큰 폭으로 늘어날 가능성도 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IF6AN2HLQZFE3JJH7MPEWUZ3RA.jpg?auth=e637c7996511d308826ef49f67d12d9877c8c2043c50e903941a514f1d43bbdc&amp;smart=true&amp;width=4368&amp;height=2912" type="image/jpeg" height="2912" width="4368">
-        <media:description type="plain">29일 세종시 정부세종청사 고용노동부 관련 이미지 사진/ 신현종 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>홈플러스 회생안 가결 기한 2개월 또 연장…7월 3일까지</title>
       <link>https://www.chosun.com/national/court_law/2026/04/30/TD7NQY3TLRF75CNTBVTKZINGPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/TD7NQY3TLRF75CNTBVTKZINGPQ/</guid>
@@ -937,15 +947,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 04:38:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RTIY3CGMZWEYJTMZRTINRUMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 홈플러스 매장 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기업 회생 절차를 밟고 있는 홈플러스의 회생 계획안 가결 기한이 다시 한번 연장됐다.&lt;br&gt;&lt;br&gt;서울회생법원 회생4부(재판장 정준영 법원장)는 30일 홈플러스 회생 사건에서 회생 계획안 가결 기간을 기존 5월 4일에서 7월 3일까지 약 2개월 연장하기로 결정했다. 지난 3월에 이어 두 번째 연장이다.&lt;br&gt;&lt;br&gt;법원은 홈플러스의 핵심 구조조정인 수퍼마켓 사업부 ‘홈플러스 익스프레스’ 매각 절차가 막바지에 이른 점을 고려했다. 최근 공개 입찰에서는 NS홈쇼핑이 우선협상대상자로 선정돼 본계약 체결을 앞두고 있다.&lt;br&gt;&lt;br&gt;홈플러스 대주주인 MBK파트너스는 익스프레스 사업부를 먼저 매각해 운영 자금을 확보한 뒤, 대형 마트 본체의 새 주인을 찾겠다는 구상이다. 익스프레스 매각 대금에 추가 금융 지원(DIP 파이낸싱)을 통해 경영 정상화를 도모하한 뒤 마트 인수합병(M&amp;amp;A)을 추진한다는 것이다. 법원은 매각 절차가 마무리된 뒤 회생계획안의 실행 가능성을 높이기 위해 추가 시간을 부여한 것으로 해석된다. &lt;br&gt;&lt;br&gt;향후 익스프레스 매각이 완료되면 홈플러스 측은 이를 반영한 회생계획 수정안을 법원에 제출해야 한다. 채권자 등이 참여하는 관계인 집회에서 최종 결의가 이뤄질 예정이다. 다만 익스프레스 매각이 성사되더라도 본체 매각이 이뤄지지 않으면 청산 가능성도 배제할 수 없다는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>남성 4명에 수면제 먹여 4900만원 빼앗은 20대 여성</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/30/SYMGX3NUUNCE7P674WAHCGYRYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/SYMGX3NUUNCE7P674WAHCGYRYY/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 01:08:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBRGHJ5LVZBWHMX7IXGZBEFYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부경찰서 전경./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남성들에게 수면제를 먹인 뒤 수천만원을 빼앗은 20대 여성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;경기 의정부경찰서는 강도상해와 마약류관리법 위반 혐의로 20대 여성 A씨를 구속 송치했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 작년 12월부터 올해 4월까지 수도권 일대에서 남성 4명에게 수면제를 먹인 뒤 금품 약 4890만원을 빼앗은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 결혼정보업체나 지인 소개로 알게 된 30대 남성 B씨 등에게 접근해 한 달가량 동거하며 관계를 유지한 뒤 음식이나 음료에 수면제를 탄 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 피해자들과 함께 생활하며 계좌 비밀번호 등을 알아낸 뒤 잠든 피해자들의 지문을 이용해 휴대전화 잠금을 해제했다. 이후 돈을 자신의 계좌로 이체하거나 수백만원 상당의 물품을 구매한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이 사건은 지난 23일 의정부의 한 주택에서 잠들었던 B씨가 깬 뒤 경찰에 신고하면서 드러났다. 경찰이 B씨에 대한 소변 검사 결과 수면제 성분이 검출됐다.&lt;br&gt;&lt;br&gt;경찰은 서울 양천구와 중랑구, 용산구에서도 유사한 피해 고소장이 접수된 사실을 확인하고 A씨를 검거했다. 피해자들은 수면제를 먹게 된 경위를 제대로 기억하지 못하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “남성들이 스스로 수면제를 먹었다”며 혐의를 부인해 왔지만 이후 “생활비가 필요해 범행했다”고 시인했다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 휴대전화 등에 대한 디지털 포렌식을 통해 추가 피해자와 공범 여부 등을 확인 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
