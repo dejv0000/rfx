@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“현주엽에게 학폭당해” 폭로한 후배, 무죄 확정</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/02/5OVZTPYFXZCEJJ667EQHBXPK6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/02/5OVZTPYFXZCEJJ667EQHBXPK6E/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 May 2026 11:39:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3TCYRTGI2GKYTCGQ3GEODDGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로농구 선수 출신 방송인 현주엽. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;농구 선수 출신 방송인 현주엽의 학교 폭력 의혹 글을 온라인에 올린 혐의로 재판에 넘겨진 네티즌이 1심에 이어 항소심에서도 무죄를 선고받아 확정됐다. &lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 수원지법 제1-2형사부는 정보통신망 이용촉진 및 정보보호 등에 관한 법률상 명예훼손 혐의로 기소된 A씨의 항소심에서 원심과 같이 무죄를 선고했다. &lt;br&gt;&lt;br&gt;A씨는 2021년 3월 14일 한 온라인 커뮤니티에 “현주엽에게 학교 폭력을 당했다”는 취지의 글을 올린 혐의를 받았다. A씨는 자신이 현주엽과 같은 중·고등학교 농구부 후배라고 주장하며 당시 폭행 피해로 농구를 그만두게 됐다는 취지의 글을 게시한 것으로 조사됐다. 현주엽은 “악의적으로 지어낸 말”이라며 A씨를 명예훼손 혐의로 고소했다. &lt;br&gt;&lt;br&gt;검찰은 금전 요구 목적으로 A씨가 범행한 것으로 봤으나 법원은 검찰의 주장을 받아들이지 않았다. 앞서 1심 재판부는 “검찰이 제출한 증거만으로는 게시글 내용이 허위라고 단정하기 어렵다”고 판단했다. 또한 “문자메시지 등을 보면 금전 요구보다는 과거 피해에 대한 감정이 동기가 된 것으로 보인다”고 봤다. &lt;br&gt;&lt;br&gt;검찰은 항소심에서 “A시가 금전을 목적으로 현주엽에 대한 허위 사실을 유포해 명예를 훼손한 것이 명백한데도 1심이 무죄로 판단한 것은 사실오인과 법리오해”라고 주장했다. &lt;br&gt;&lt;br&gt;하지만 항소심 재판부도 “검찰이 제출한 증거만으로는 피고인이 비방할 목적으로 허위 사실을 적시했다고 단정하기 부족하다”며 원심 판단을 유지했다. &lt;br&gt;&lt;br&gt;검찰이 상고하지 않으면서 A씨의 무죄 판결은 그대로 확정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, ‘태국 송환’ 박왕열 마약 공급책에 구속영장 신청키로</title>
       <link>https://www.chosun.com/national/regional/2026/05/02/5RIHMYMRYJHQZDD7W2AJMLFVYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/02/5RIHMYMRYJHQZDD7W2AJMLFVYA/</guid>
@@ -904,18 +913,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 08:52:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TEOBWMNRTIYLFGY3GIYTCME.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난29일 서울 서초구 서울고등법원에서 열린 항소심 선고공판에서 자리에서 일어나 주문을 듣고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)가 지난 29일 1심과 달리 윤석열 전 대통령의 ‘국무위원 2인의 계엄 심의권 침해’ 혐의를 유죄로 뒤집었다. 항소심 판결문에는 안덕근 전 산업통상자원부 장관이 12·3 비상계엄 선포 전 소집 통지를 받고 대통령실로 이동했으나, 도착 전 ‘국무회의가 종료됐다’는 문자메시지를 받는 등 현실적으로 회의 참석이 불가능한 시점에 소집 통지를 받았다는 내용이 포함됐다.&lt;br&gt;&lt;br&gt;30일 본지가 확보한 131쪽 분량의 윤 전 대통령 항소심 판결문에는 윤 전 대통령이 비상계엄을 선포하기 전 국무회의에 국무위원을 소집하던 당시 상황이 자세하게 담겼다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 2024년 12월 3일 비상계엄을 선포하기 전 한덕수 전 국무총리, 박성재 전 법무부 장관, 김영호 전 통일부 장관 등 일부 국무위원을 우선 소집했다. 박 전 장관은 이날 오후 8시 16분경에, 김영호 전 통일부 장관은 오후 8시 35분경, 한 전 총리는 오후 8시 40분경에 도착했다. 이 외에도 이상민 전 행안부 장관, 최상목 전 경제부총리 등이 순차적으로 대통령실에 오며 총 11명이 모이게 됐다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 오후 10시 14분경 대통령실 대접결실에 모습을 드러냈고, 국무위원들에게 발언을 시작했다. 이후 김 전 국방부 장관은 비상계엄 선포문을 국무위원들에게 나눠줬다. 오후 10시 23분경 윤 전 대통령은 대통령실 1층 브리핑룸으로 이동했고, 비상계엄을 선포했다.&lt;br&gt;&lt;br&gt;당시 국무회의에 참석하지 못한 국무위원은 총 9명이다. 2명은 소집 연락을 받았으나 대통령실에 도착하지 못했고, 7명은 연락을 받지 못했다. &lt;br&gt;&lt;br&gt;박상우 전 국토교통부 장관의 경우, 대통령실로부터 오후 9시 18분경 “빨리 대통령실로 들어오셔야 한다”는 연락을 받았다. 당시 박 전 장관은 경기 군포시에 위치한 자택에 있었다. 택시를 타고 대통령실 인근까지 간 박 전 장관은 대통령실 보안차량을 타고 오후 10시 23분경 대접결실에 도착했다. 하지만 국무회의는 모두 끝났고 윤 전 대통령도 떠난 상태였다.&lt;br&gt;&lt;br&gt;안 전 장관은 대통령실로 이동하던 중 국무회의가 종료됐으니 귀가하라는 연락을 받았다. 이날 오후 9시 54분경 안 전 장관은 강의구 전 대통령실 부속실장으로부터 “대통령실로 와야 한다”는 연락을 받았다. 이에 안 전 장관은 서울 강남구 주거지에서 택시를 타고 서울 용산구로 갔으나, 이동 중이던 오후 10시 30분경 대통령실로부터 “종료됐습니다. 바로 귀가하시면 되겠습니다”라는 내용의 문자메시지를 받았다.&lt;br&gt;&lt;br&gt;재판부는 이 같은 내용을 토대로 1심에서 무죄로 판단된 국무위원 2인에 대한 계엄 심의권 침해 혐의를 유죄로 봤다. 재판부는 “박상우와 안덕근의 위치, 현실적인 이동 시간, 국무회의가 개최된 시각 등을 고려하면 이들은 현실적으로 국무회의 참석이 불가능한 시점에 소집 통지를 받은 것으로 보인다”며 “피고인이 주장하는 비상계엄 선포의 신속성과 밀행성을 고려하더라도 소집 통지를 모든 국무위원에게 직접 하지 않고 국무위원별로 나눠 순차적으로 한다거나 일부 국무위원들만 있는 자리에서 비상계엄 선포에 관한 논의를 우선적으로 해야 할 필요성이 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 윤 전 대통령에게 징역 7년을 선고했다. 1심에선 징역 5년이 선고됐다. 재판부가 일부 무죄 판단이 나온 국무위원의 계엄 심의권을 침해한 혐의(직권남용)와 비상계엄 선포 후 외신에 허위 공보를 지시한 혐의(직권남용)를 모두 유죄로 보며 형량이 늘어났다. 작년 1월 대통령경호처를 동원해 고위공직자범죄수사처의 체포영장 집행을 방해한 혐의(특수공무집행방해)와 계엄 선포문을 사후 작성하고 폐기한 혐의(허위 공문서 작성 및 행사), 군 사령관들의 비화폰 통화 기록을 삭제하도록 한 혐의(직권남용 교사)는 1심과 같이 유죄로 판단됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조전혁 전 의원, 서울 교육감 예비후보 등록</title>
-      <link>https://www.chosun.com/national/education/2026/04/30/W6UYPZTOMBG3THTLL5YM2YT3KY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/04/30/W6UYPZTOMBG3THTLL5YM2YT3KY/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 08:58:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJQTOMTFMM4DQMTEGIYWMNJXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조전혁 전 의원이 선관위에 서울교육감 예비후보 등록을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조전혁 전 의원이 30일 서울시교육감 출마를 선언했다. &lt;br&gt;&lt;br&gt;조 전 의원은 이날 오후 서울선거관리위원회를 찾아 예비 후보 등록을 했다. 조 전 의원은 “무너진 공교육을 바로 세우는 것이 서울교육의 서울 교육의제”라며 “지난 선거에 대한 무한한 책임감으로 분열된 보수 진영의 단합을 이끌어 반드시 승리하겠다”고 밝혔다. 조 전 의원은 2022년 지방선거와 2024년 재보궐 선거에서 서울교육감에 도전했지만 각각 조희연, 정근식 후보에게 패해 2위로 낙선했다. &lt;br&gt;&lt;br&gt;조 후보는 이날 본지 통화에서 “보수 진영 예비 후보들과 단일화 추진을 논의하고 있다”고 밝혔다. 앞서 보수 진영 단일화 협의체인 ‘서울·경기·인천 좋은 교육감 후보 추대 시민회의(시민회의)’는 경선을 통해 윤호상 후보를 단일 후보로 추대했다. 시민회의에 참여하지 않았던 김영배 후보, 경선 과정 불공정성을 주장하며 단독 출마를 시사한 류수노 후보 등과 단일화를 추진할 계획이다. &lt;br&gt;&lt;br&gt;다만 윤호상 후보가 이미 시민회의를 통해 보수 단일 후보로 선출됐기 때문에 전체 보수 후보 단일화에 이르기는 쉽지 않을 것이라는 관측이 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HF42PJQRUVAQPOEZH5SFFYTNA4.jpg?auth=1d76ce8fe360d365395d2ba343be4b5b2651ef92224fd6987493cf9d1fdd49c6&amp;smart=true&amp;width=628&amp;height=471" type="image/jpeg" height="471" width="628">
-        <media:description type="plain">조전혁 전 의원이 선관위에 서울교육감 예비후보 등록을 하고 있다./뉴시스</media:description>
-      </media:content>
     </item>
     <item>
       <title>檢, ‘강북 모텔 살인’ 김소영 추가 기소</title>
