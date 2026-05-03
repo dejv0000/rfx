@@ -13,6 +13,61 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“군대 왜 안갔냐 물어도 돼” 유승준, 유튜브 Q&amp;A 방송</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/03/2EYBMZHFGRBX3MVXQR7FGYTSLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/03/2EYBMZHFGRBX3MVXQR7FGYTSLY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 08:02:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWUTUQPMSFF23NZC2XUZTWJWPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 유승준이 소통 방송을 예고했다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 유승준(50·미국명 스티브 승준 유)이 자신을 둘러싼 각종 논란에 대한 정면 돌파를 예고했다.&lt;br&gt;&lt;br&gt;유승준은 2일 유튜브 채널에 ‘저… 그때 진짜 무너졌었습니다. 이제 다 말합니다. 유승준 Q&amp;amp;A 시작합니다’라는 제목의 영상을 올리고 “특별한 시간을 가져보려고 한다. 그 누구보다 진솔하고 정직하고 있는 그대로의 삶을 나눌 수 있다고 믿기 때문에 여러분과 Q&amp;amp;A를 진행해 보겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “보통 Q&amp;amp;A는 질문하고 답하는 시간이지만 그것보다 따뜻하고 깊은 나눔이 있는, 여러분의 삶과 제 삶이 공유될 수 있는 공간을 원한다”며 “저도 절망적이고 모든 걸 포기하고 싶을 때가 있었다. 아픔과 상처를 갖고 사는 사람들의 인생은 모두 비슷한 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “누가 제게 ‘지금 네가 살아 있는 게 기적이다’라는 말을 하더라”라며 “힘들 때는 왜 나에게만 이런 일이 일어나는지, 어떻게 이런 일이 일어날 수 있는지. 자기 자신이 세상에서 제일 불행하고 힘든 사람이라고 느껴질 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “저는 살면서 참 다양한 경험을 했다. 어린 나이에 많은 사랑과 인기를 받기도 했고 그만큼 많은 오해, 질타, 비판을 받기도 했다”며 “누구는 제가 한국에서 가수를 계속했으면 어마어마하게 행복하고 인기와 돈을 벌었을 거라더라. 정말 그럴까”라고 말했다.&lt;br&gt;&lt;br&gt;마지막엔 “제게 궁금한 이야기가 있으시면 오해나 루머나 ‘군대 왜 안 갔어요?’ 이런 제 이슈에 관련된 이야기까지 어떤 질문도 괜찮다. 이제 얘기 못 할 것도 없다”며 “제가 그럴싸한 해답이나 정답을 드릴 순 없지만 함께 나누고 공감하면서 서로 힘이 돼 줄 수 있는 시간이 되면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;1997년 데뷔한 유승준은 ‘가위’ ‘열정’ ‘나나나’ 등 다수의 히트곡을 발표하며 국내 최정상급 댄스 가수로 활동했다. 그러나 2002년 입대 약속을 번복하고 미국 시민권을 취득했으며 한국 입국을 제한당했다. 이후 재외동포 비자로 입국을 희망했으나 거부당했다. &lt;br&gt;&lt;br&gt;2015년 행정소송을 내 2020년 승소 판결을 받고 비자 발급을 재차 신청했으나 실패했다. 이를 둘러싼 정부와의 법적 다툼은 지금도 계속되고 있다. 다만 병무청이 유승준에게 내린 입국 금지 조치를 지금도 유지하고 있어, 비자가 발급되더라도 한국 땅을 밟을 수 있을지는 미지수다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소방헬기 이송에도 끝내 숨진 태아, 정은경 복지장관, “개선 방안 마련하겠다”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/05/03/2LANN7Q35NDYVP64TGBH5WGVVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/03/2LANN7Q35NDYVP64TGBH5WGVVE/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 08:39:40 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIMTLY2TLVFRBADVN2DIPG4GTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 정은경 보건복지부 장관이 충북 충주의 충북대병원에서 권역모자의료센터, 충청권 병원 관계자 등과 긴급 간담회를 하고 있다. /정은경 복지부 장관 X 캡처.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29주차 태아를 임신한 산모가 소방 헬기로 충북 청주에서 부산까지 옮겨졌지만 결국 태아가 숨진 것과 관련해, 정은경 보건복지부 장관이 “개선 방안을 마련하겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 3일 오후 본인의 ‘X(옛 트위터)’ 계정에 지역에서든 안심하고 분만할 수 있는 임산부·신생아 의료체계를 반드시 만들어내겠다”는 제목의 글을 올려 이같이 밝혔다. 정 장관은 이날 오후 충북 충주의 충북대병원에서 긴급 간담회를 진행했다. 충청권 권역 병원 관계자들과 지역 모자의료센터 센터장 등이 모인 간담회로, 임산부와 신생아 의료 체계의 문제점과 개선 방안을 논의했다고 정 장관은 설명했다.&lt;br&gt;&lt;br&gt;정 장관은 “간담회에서 24시간·365일 응급 대응을 위한 적정 규모 전문의 확보의 어려움, 책임에 비해 낮은 보상, 의료 사고 발생 시 민형사상 책임 문제 등 여러 문제점이 지적됐다”며 “구조적 난제를 해결하기 위해 중증-권역-지역 모자의료센터 체계를 면밀히 분석하고, 중증도별 모자의료 체계를 재정비하겠다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 “특히 취약 지역에 대한 개선 방안을 시급히 마련하겠다”며 “고위험 분만과 같은 필수 분야에 더 많은 의료 인력이 근무하고 적극적으로 환자를 수용할 수 있도록 의료 사고 안전망을 탄탄히 하겠다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 4일 전국의 22개 중증·권역 모자의료센터와 산부인과학회, 소아청소년과학회 등과 함께 개선 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 1일 오후 11시 3분쯤 충북 청주시 흥덕구의 한 산부인과에서 30대 산모 A씨가 임신한 29차 태아의 심박수가 떨어진다는 신고가 119에 접수됐다. 해당 산부인과는 충남과 대전, 세종 지역 상급종합병원 6곳에 전원을 요청했지만, ‘소아과 전문의가 없다’는 등의 이유로 수용이 불가능하다는 대답이 돌아왔다고 한다. 결국 산모 A씨는 신고 3시간 30분 만에 소방헬기를 통해 부산 동아대병원으로 옮겨졌다. A씨는 결국 출산했지만, 신생아는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 4일 월요일 (음력 3월 18일 戊寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/03/XHOJGZHNZREZLGKG6QCTLPCTJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/03/XHOJGZHNZREZLGKG6QCTLPCTJU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>한변 “위헌적 조작기소 특검법 철회하라... 李대통령 거부권 행사해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/03/SM7KEZXSXZA4PJSYU6FB6EGIBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/SM7KEZXSXZA4PJSYU6FB6EGIBY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 07:28:07 +0000</pubDate>
+      <content:encoded>보수 성향 변호사 단체인 ‘한반도 인권과 통일을 위한 변호사모임(한변)’이 더불어민주당이 발의한 ‘조작 기소’ 특검 법안에 대해 “헌정사에 유례가 없는 권력 사유화 입법”이라며 “즉각적인 철회를 강력히 촉구한다”는 입장을 3일 밝혔다. 이재명 대통령을 향해선 “야만적 법안의 추진을 즉각 중단할 것을 요구하고, 국회를 통과할 경우 재의요구권을 행사하라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYTINRVMJTDOZRTMY4DGZBZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천준호 더불어민주당 원내대표 직무대행과 국정조사특위 위원들이 지난달 30일 서울 여의도 국회 의안과에 '윤석열 정치검찰 조작기소 진상규명 특검법'을 제출하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한변은 이날 성명을 발표하면서 조작 기소 특검법에 대해 “‘누구도 자기 사건의 재판관이 될 수 없다(Nemo iudex in causa sua)’는 법치주의의 가장 기본적인 원칙에 정면으로 반한다”고 지적했다. 특별검사 임명권을 갖고 있는 이 대통령이 사실상 자신의 형사재판 공소 유지 여부를 결정하도록 하는 것이어서 헌법에 규정된 적법절차와 재판청구권의 본질을 훼손한다는 것이다.&lt;br&gt;&lt;br&gt;한변은 특히 조작 기소 특검법이 헌법 제84조가 정한 대통령 불소추특권의 입법취지도 왜곡한다고 지적했다. 민주당이 이 대통령 재임 중 재판이 정지된 점을 악용해 ‘직무 수행 보장을 위한 한시적 방패’를 ‘영구적 면죄부’로 변질시키려 한다는 것이다. 한변은 “헌법이 예정한 바 없는 자기사면”이라며 “헌법질서에 대한 노골적 도전”이라고 비판했다.&lt;br&gt;&lt;br&gt;이 밖에도 한변은 조작 기소 특검법이 권력분립의 원칙과 사법권의 독립을 본질적으로 침해한다는 주장도 펼쳤다. 법원에서 재판 중인 사건을 강제로 이첩시켜 특검에게 맡기는 것은 형사소송법이 정한 국가소추주의의 근간을 무너뜨린다는 것이다. 한변은 “대검찰청조차 이례적으로 ‘재판의 독립성에 부당한 영향을 끼칠 가능성이 있다’고 우려를 표했다”며 “위헌성이 그만큼 명백한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한변은 “이 대통령은 자신을 위한 공소취소 입법 추진을 좌시해서는 안된다”며 “헌법 수호의 궁극적 책무를 지는 자로서 민주당에게 입법 추진을 즉각 중단하라고 요구해야 한다”고 했다. 이어 “법안이 국회를 통과할 경우 재의요구권을 행사하라”고 요구했다. 결백이 분명하다면 임기를 마친 뒤 법정에 서서 사법적 판단을 받겠다고 선언해야 한다는 것이다.&lt;br&gt;&lt;br&gt;민주당은 6·3 지방선거를 한 달여 앞둔 지난달 30일 이 대통령이 피고인인 사건에 대한 공소 취소 권한을 특검에 부여하는 조작 기소 특검 법안을 발의했다. 특검 임명권은 대통령에게 있고, 특검법 재가도 대통령이 한다. 이번 특검 법안은 이 대통령 관련 대장동 사건의 변호인이었던 민주당 이건태 의원 등이 주도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국 원정대, 6220m 히말라야 미답봉 ‘사트 피크’ 세계 첫 등정</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/03/E2P7C77E7ZG3XFLRDTCZKXED4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/03/E2P7C77E7ZG3XFLRDTCZKXED4E/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 07:05:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRGINTFGIYDCNBRGA3WMMTGHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국 원정대의 히말라야 '사트 피크' 등정 경로. /대한산악연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산악인 안치영 대장이 이끄는 한국 원정대가 히말라야의 미답봉 ‘사트 피크’(SAT PEAK·해발 6220m)를 세계 최초로 등정했다. 대한산악연맹은 3일 “한국 원정대가 현지 시각으로 2일 오후 4시 15분 사트 피크 정상에 올랐다”며 “안치영 원정 대장과 이상국, 이의준 대원이 정상 등정에 성공했다”고 밝혔다.&lt;br&gt;&lt;br&gt;네팔 히말라야 칸첸중가 지역 샤르푸 산군에 위치한 사트 피크는 급경사의 설벽과 날카로운 빙능선, 암빙 혼합 구간이 이어지는 고난도 루트를 갖춘 미답봉으로, 2022년 이탈리아 원정대가 전위봉(약 6100m)까지 진출했으나 정상 등정에는 실패했다고 산악연맹은 전했다. 연맹은 “이번 원정대는 해당 구간의 난이도를 극복하고 동벽과 동남벽 루트를 통해 정상 도달에 성공했다”고 설명했다.&lt;br&gt;&lt;br&gt;이번 원정은 지난달 11일부터 이달 10일까지 29일 일정으로 시작했다. 안치영 대장을 비롯해 대원 7명으로 원정대가 구성됐다. 원정대는 출국 후 나핀다 협곡 상부에 베이스캠프를 구축하고 본격적인 등반에 나서 안치영 대장 등 3명이 정상 등정에 성공했다.&lt;br&gt;&lt;br&gt;산악연맹에 따르면 원정대는 지난달 28일 베이스캠프를 출발해 캠프1을 구축하고 29일 캠프2를 구축했다. 30일은 악천후로 캠프2에 대기한 뒤 1일 캠프3을 구축하고 2일 정상에 올랐다. 원정대는 현재 캠프3로 하산 중이며, 3일 밤 캠프3에서 비박한 뒤 4일 중으로 베이스캠프에 복귀할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDSZTGGIZDOYLEGRRDENBUGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;히말라야 '사트 피크' 등정에 나선 한국 원정대원들. /대한산악연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 이번 등정은 간단한 장비와 식량만 챙기고 외부 지원 없이 등반하는 ‘알파인 스타일’로 진행해 더욱 의미가 크다는 게 산악연맹의 설명이다. 원정대는 현지 베이스캠프 철수 작업을 거쳐 이달 10일 귀국할 예정이다.&lt;br&gt;&lt;br&gt;대한산악연맹은 “이번 등정은 대한민국 산악인의 저력과 불굴의 도전 정신을 세계에 알린 역사적인 성과”라며 “이번 성공이 침체된 국내 산악계에 새로운 도전 정신을 불어넣는 계기가 될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주지 입적 후 술 마셨다가… 상습 음주 운전 승려, 결국 철창행</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/03/IESVRCAGQVCLPI3KYZJZSKG5ZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/03/IESVRCAGQVCLPI3KYZJZSKG5ZQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 06:51:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRGKNBXG42DONJQMMYTIYRZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상습 음주 운전으로 처벌받았던 승려가 또다시 만취 상태로 운전대를 잡아 철창 신세를 지게 됐다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 수원지법 형사10단독 서진원 판사는 도로교통법 위반(음주 운전) 혐의로 불구속 기소된 50대 승려 A씨에게 징역 8개월을 선고하고 법정 구속했다.&lt;br&gt;&lt;br&gt;A씨는 작년 7월 7일 새벽 3시 45분쯤 전남 나주시 한 도로에서 만취한 채 약 200m 구간을 운전한 혐의를 받는다. 당시 그는 주지 스님 입적 후 지인들과 술을 마신 후 귀가하던 것으로 알려졌다. 혈중알코올농도는 면허 취소 수치인 0.172%였다.&lt;br&gt;&lt;br&gt;앞서 A씨는 음주 운전으로 2004년, 2008년 4월, 2008년 11월 벌금형을 선고받은 바 있다. 2020년 1월에도 같은 범행을 저질러 법원에서 징역 2년에 집행유예 3년 판결을 받았었다. 2009년부터 2012년까지는 무면허 운전으로 벌금형과 징역형의 집행유예, 실형을 받은 전력도 있다.&lt;br&gt;&lt;br&gt;서 판사는 “범행 당시 피고인의 혈중알코올 농도가 상당히 높고 여러 차례 동종 전과가 있음에도 재차 범행을 저지른 점은 불리한 정황”이라고 지적했다. 다만 “사고가 발생하지 않은 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>무면허 음주운전 적발되자 친언니 행세한 60대女 ‘집유’</title>
       <link>https://www.chosun.com/national/regional/2026/05/03/S5DVLANJFRBTRA4I7QL4WQH52Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/03/S5DVLANJFRBTRA4I7QL4WQH52Q/</guid>
@@ -836,24 +891,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFN5Y2UOJJOJPBBWAB3YTOLSVQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 검찰총장 직무대행이 지난 달 17일 오후 서울 서초구 대검찰청을 나서며 대장동·대북송금 의혹 사건을 둘러싼 정치권의 국정조사와 관련해 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 사건을 수사 중인 권창영 2차 종합특별검사팀이 30일 구자현 검찰총장 직무대행 등 검찰 지휘부가 특검 수사를 방해했다며 법무부 장관에게 징계를 요청했다.&lt;br&gt;&lt;br&gt;2차 종합특검은 이날 “구 총장 대행과 김성동 대검찰청 감찰부장이 자료 제출 거부 등으로 특검 수사를 방해했다”며 “이들에 대한 징계 절차 개시를 법무부 장관에게 요청했다”고 밝혔다. 특검 측은 지난 3월 25일 대검에 ‘검찰청 헌법존중 정부혁신 태스크포스(TF)’의 조사 기록을 달라고 요청했다. 그런데 대검이 최근 “비공개 대상”이라며 자료 제출을 거부했다는 게 특검 주장이다. 특검 관계자는 “종합특검법 규정에 반하는 것은 물론, 수사를 심각하게 방해하는 행위”라고 말했다.&lt;br&gt;&lt;br&gt;특검이 기록 제출을 요구한 관련 TF는 이재명 정부 출범 후 국무조정실이 주도해 윤석열 전 대통령의 12·3 비상계엄에 동조한 공직자를 찾기 위해 전 중앙부처에 설치됐다. 특검이 검찰 내부의 내란 동조 세력과 관련한 감찰 조사 기록을 확보하려다가 실패하자 검찰의 방해 때문이라고 규정하고 징계를 요구한 것이다. &lt;br&gt;&lt;br&gt;특검은 12·3 비상계엄 당시 검찰총장이었던 심우정씨가 계엄에 관여했다고 의심하고 있다. 심 전 총장은 비상계엄 당일, 박성재 당시 법무장관의 지시를 받아 계엄 합동수사본부에 검사 파견을 검토한 혐의를 받는다. 특검은 또 검찰이 작년 3월 윤 전 대통령의 구속이 취소됐을 때 즉시항고를 포기한 경위도 수사 중이다. 이와 관련해 특검은 지난달 24일 대검과 검찰 내부망 서버 등을 압수수색했다. &lt;br&gt;&lt;br&gt;특검은 검찰 지휘부에 대한 이번 징계 요청의 근거로 특검법 6조를 들었다. 이 조항은 ‘특검이 직무 수행에 필요한 경우 대검 등 관계 기관에 수사 기록과 증거 등 자료 제출을 요청할 수 있고, 수사에 협조하지 않을 경우 관계 기관의 장에 대해 징계를 요청할 수 있다’고 규정하고 있다. 이 규정에 따르면 대검은 특검 요청에 따라 자료를 제출해야 하는데 그러지 않았다는 게 특검 입장이다. 특검 관계자는 “특검은 수사 기한이 짧은데 일일이 법원이 발부한 압수수색 영장을 근거로 자료를 확보하라는 것은 말이 안 된다”며 “징계 요구는 대검이 지나치게 비협조적으로 굴어 전향적인 태도 변화를 촉구하는 차원”이라고 했다. &lt;br&gt;&lt;br&gt;이에 대해 대검은 “특검이 요청한 감찰 기록을 임의로 제공할 경우 정보공개법 저촉 가능성이 있어, 압수 영장에 의할 경우 제출할 의사가 있음을 전달했다”며 “징계 절차 개시를 요청한 것에 대해 유감을 표명한다”고 했다. 대검은 또 “특검법 6조는 특검의 우선적 수사권을 인정하는 조항이지, 관계 기관이 보유한 모든 자료를 제출받을 수 있는 규정은 아니다”라며 “특검 주장대로 해석할 경우 헌법상 영장주의에 위배될 가능성이 매우 크다”고 했다. 대검 관계자는 “특검에 이런 취지를 설명했고, 특검 측도 ‘알겠다’고 했는데 갑자기 징계를 요구하고 나오니 당황스럽다”고 했다. &lt;br&gt;&lt;br&gt;이에 대해 특검은 재차 입장문을 내고 “검찰의 TF 조사결과에는 ‘대상자들을 모두 조사했으나 해당 의혹은 사실이 아닌 것으로 확인됨’이라고 돼 있어 그 근거 자료를 확인할 필요가 있었다”며 “자료 요청 후 몇 차례 독촉 끝에 회신을 받았으나 ‘압수수색 영장 집행 시 협조하겠다’는 내용은 전혀 없었다”고 했다. 그러면서 “앞으로 대검이 특검 수사에 적극 협조하기를 촉구하며, 비협조가 계속되면 수사 방해로 보고 법적 조치를 취할 것”이라고 했다.&lt;br&gt;&lt;br&gt;특검의 징계 요청과 관련해 법무부 관계자는 “특검법과 관련 규정에 따라 총장 대행 등에 대한 필요한 조치를 검토해보겠다”고 했다.&lt;br&gt;&lt;br&gt;특검과 검찰이 갈등을 빚는 모양새를 보이자 법조계에서는 “의아하다”는 반응이 나온다. 부장검사 출신 변호사는 “정치적 목적으로 출범한 종합특검이나 현 검찰 지휘부는 사실상 같은 편인 셈인데, 자료 제출 방식을 두고 옥신각신할 이유가 있느냐”며 “특검이 수사 진척이 안 되니 애먼 곳에 화풀이하는 것 같다”고 했다. 그러나 특검 관계자는 “우리는 수사 기관이고, 대검은 특검의 수사 대상”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 김관영 전북도지사를 내란 동조 혐의 피의자로 불러 조사했다. 김 지사는 계엄 당일 전북도청 청사 폐쇄를 지시했다는 혐의를 받는다. 김 지사는 특검 출석에 앞서 기자들에게 “저희는 평상시와 동일한 방호 태세를 유지했고, 청사를 폐쇄한 일도 없다”며 “청사가 폐쇄된 일이 없기에 내란에 동조한 일도 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정규직 100만원 받을때 비정규직 65만원</title>
-      <link>https://www.chosun.com/national/labor/2026/05/01/2FZ363YEAVEC3GTR7GYQINK3Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/01/2FZ363YEAVEC3GTR7GYQINK3Y4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4F3UCFS5HZD6LL6WHZK45PHUAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 서울 여의도 국회 앞에서 열린 전국학교비정규직연대회의 2차 총파업대회에서 참석자들이 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 비정규직 근로자의 시간당 임금이 정규직의 65.2%에 그친 것으로 나타났다. 정규직이 100만원을 받을 때, 비정규직은 65만2000원을 받은 셈이다. 2000년대 이후 점차 좁혀지던 정규직·비정규직 격차는 최근 다시 벌어지고 있다. 임금이 적고 근로시간이 짧은 ‘질 낮은 일자리’가 증가한 영향이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;고용노동부가 30일 발표한 ‘고용형태별 근로실태조사’에 따르면, 작년 전체 근로자의 시간당 임금은 2만5839원으로 전년보다 2.7% 늘어난 것으로 나타났다. 정규직의 시간당 임금은 2만8599원인 반면 비정규직은 1만8635원으로 1만원 가까이 차이났다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AD3ERLS65VGMDOBT7IA7YUII4A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정규직 대비 비정규직 임금 수준은 2008년 55.5%에서 2021년 72.9%까지 높아졌다. 그러나 2022년(70.6%) 하락세로 돌아섰고, 지난해에는 65.2%까지 떨어졌다. 2015년 수준(65.5%)으로 되돌아간 것이다. 노동부 관계자는 “상대적으로 근로 시간이 짧고 임금이 낮은 고령층 일자리와 보건·사회복지업 분야 비정규직이 많이 늘어난 영향”이라고 말했다. &lt;br&gt;&lt;br&gt;정규직 임금이 비정규직보다 더 빠른 속도로 오른 것도 격차를 키웠다. 정규직의 시간당 평균 임금은 2023년 2만4799원에서 지난해 2만8599원으로 2년 사이 15.3% 올랐다. 반면 비정규직은 같은 기간 1만7586원에서 1만8635원으로 6% 오르는 데 그쳤다. &lt;br&gt;&lt;br&gt;성별 임금 격차는 여전히 컸지만, 역대 가장 낮은 수준으로 좁혀졌다. 지난해 여성의 시간당 평균 임금은 남성의 72% 수준이었다. 관련 조사를 시작한 2008년(60.8%) 이후 격차는 계속 줄고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “정기상여금은 통상임금”… 서울 버스기사들 승소</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/01/VRCOSGZAJJDE7BHXQWJGHVB6T4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/01/VRCOSGZAJJDE7BHXQWJGHVB6T4/</guid>
-      <dc:creator>오유진 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGVOQCHJ7JGURLSAQIV423IXZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내버스 노조가 총파업에 돌입한 지난 1월 13일 서울의 한 공영차고지에 현수막이 내걸려 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 시내버스 기사들의 정기 상여금이 통상임금에 포함된다는 대법원 판결이 나오자, 서울 시내버스 노조는 즉각 “미지급 수당을 지급하라”고 요구하고 나섰다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 이날 서울 시내버스 업체인 동아운수 전·현직 기사 등 90여 명이 회사를 상대로 낸 임금 소송에서 정기 상여금을 통상임금으로 인정한 원심 판결을 확정했다. 다만 대법원은 버스 기사들의 연장·야간근로 수당에 대한 부분은 “실제 근무시간이 아닌 노사 협약에 정해진 시간만큼 지급해야 한다”는 취지로 원심을 일부 파기해 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;동아운수 측은 버스업체 사업주들의 조합인 서울시버스운송사업조합과 서울시버스노조가 체결한 임금 및 단체협약에 따른 수당을 지급해 왔는데, 이 회사 기사들은 2016년 9월 “정기 상여금을 통상임금에 포함하고, 이를 근거로 야근 수당 등을 새로 계산해달라”며 소송을 제기했다.&lt;br&gt;&lt;br&gt;2019년 1심은 “정기 상여금은 근로 대가로 당연히 지급되는 ‘고정성’이 없다”며 통상임금으로 인정하지 않았으나, 작년 10월 2심은 “상여금이 정기적·일률적으로 지급돼 통상임금에 포함된다”고 판단했다. 2024년 12월 통상임금의 요건에서 ‘고정성’을 제외하는 대법원 판례가 나오면서 상황이 바뀐 것이다. 이에 대법원 역시 원심 판단을 유지했다.&lt;br&gt;&lt;br&gt;서울 시내버스 노조는 지난해와 올해 초 파업 등 쟁의 행위를 벌이면서도 정기 상여금을 통상임금으로 인정해야 한다고 요구했었다. 지난 1월 임·단협에서 노사 양측은 이 문제를 동아운수 사건의 대법원 판결 이후 다시 논의하기로 했다. 당시 사측은 “인건비 부담이 너무 커진다”고 반대했고, 노조는 “이미 대법원 판례가 있어 협상 대상이 아니다”라고 맞섰다. 서울 시내버스는 버스업체들의 적자를 예산으로 메워주는 ‘준공영제’로 운영 중이어서, 당시 서울시는 노조의 요구대로 통상임금이 늘어나면 매년 1800억원 정도 추가 예산이 들어갈 것으로 추산했다. &lt;br&gt;&lt;br&gt;이날 동아운수 판결 후 노조는 성명을 내고 “회사들이 미지급 수당 지급을 거부하면 모든 수단을 동원해 투쟁에 나서겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의왕 아파트 화재로 부부 숨져</title>
       <link>https://www.chosun.com/national/national_general/2026/05/01/O5FOS5UQEZFNFMY35QR7V5NYRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/01/O5FOS5UQEZFNFMY35QR7V5NYRU/</guid>
@@ -885,24 +922,6 @@
       </media:content>
     </item>
     <item>
-      <title>[플라자] 한양대 ‘박화영음악관’ 기공식 개최 외</title>
-      <link>https://www.chosun.com/national/people/2026/05/01/EGPZZPME4FAKRIB2EPNTYG2RXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/01/EGPZZPME4FAKRIB2EPNTYG2RXI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲한양대는 30일 서울캠퍼스 백남음악관 콘서트홀에서 ‘박화영음악관’ 기공식을 개최했다고 밝혔다. 박화영 인코코그룹 회장의 후원을 받아 2028년 5월 준공될 박화영음악관은 지하 1층부터 지상 5층까지 규모로 지어질 예정이다.&lt;br&gt;&lt;br&gt;▲광주과학기술원(GIST)은 수자원 전문가 고광흥씨가 발전 기금 5억원을 기탁했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 1일</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/01/DI5LV7CEYJCMLBW5NK2LYBV4GU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/01/DI5LV7CEYJCMLBW5NK2LYBV4GU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>낮 최고 25도, 일교차 크고 남부엔 오전 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZUKVJID5ZCDDMV2BJ63KWILAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전세금 200만원 들고 청계천서 시작… 연매출 730억원 기업 일군 ‘케이블 장인’</title>
       <link>https://www.chosun.com/national/people/2026/05/01/3JAZSMS3KVDMJIBIU3LN3C6XFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/01/3JAZSMS3KVDMJIBIU3LN3C6XFA/</guid>
@@ -910,24 +929,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 15:42:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLYHF2P6RNGQTGZANS5DE6ZJFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;태양3C 황창순(오른쪽) 대표가 부품 개발 연구소에서 연구원과 함께 1회용 내시경 기기를 살펴보는 모습. 태양3C는 서울에 연구소를, 강원도 홍천에 생산 공장을 두고 있다. /고용노동부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“20대 후반에 어쩔 수 없이 직장을 나오게 된 뒤, 뭘 해야 할지 막막했습니다. 직장에서 배운 일이 전선과 케이블을 수입해 파는 것이어서 일단 수중에 있는 돈을 들고 청계천 상가로 갔죠.”&lt;br&gt;&lt;br&gt;황창순(71) 태양3C 대표는 1983년 서울 청계천 상가에서 전선과 케이블 부품 사업을 시작했다. 가진 돈은 전세금 200만원이 전부였다. 남의 사무실을 빌려 사용했고, 전철과 버스를 타고 상가를 돌며 전선을 감싸는 플라스틱 튜브를 팔았다. 그렇게 시작한 작은 상사는 40여 년 뒤 첨단 의료 기기에 들어가는 극세 케이블을 만드는 연매출 730억원대의 제조기업으로 성장했다.&lt;br&gt;&lt;br&gt;황 대표는 최근 고용노동부 선정 ‘이달(2월)의 기능 한국인’ 수상자로 뽑혔다. 기능 한국인은 직업계고나 전문대를 졸업한 뒤 산업 현장에서 전문성을 쌓은 기술인에게 매달 주는 상이다. &lt;br&gt;&lt;br&gt;집안 형편이 넉넉지 않았던 황 대표는 서울공고 화공과에 진학했다. 이후 동국대 화공과를 나와 율산실업 등 종합 무역 회사에서 일했다. 그러나 회사 사정이 나빠져 퇴사해야 했다. 재취업과 창업 사이에서 그는 창업을 택했다. 결혼해 두 살 딸과 막 태어난 아들이 있을 때였다. 열수축 튜브 판매로 시작한 사업은 곧 여러 전선을 묶어 전기 신호를 전달하는 부품인 ‘하네스’로 넓어졌다. 하지만 1997년 IMF(국제통화기금) 외환 위기 땐 환차손으로 수십억 원의 손실을 입었고, 2007년에는 중국발 저가 공세 때문에 회사 구조 조정을 단행하는 아픔도 겪었다. 한때 500명에 달했던 직원을 당시 200명으로 줄였다고 한다. 황 대표는 “이때 마치 내 팔을 자르는 느낌”이라고 했다. 그는 “회사의 어려운 사정을 솔직히 설명하니 오히려 직원들이 ‘알겠다’며 이해해 줬지만, 고통스러웠다”고 했다.&lt;br&gt;&lt;br&gt;이후 황 대표가 돌파구로 집중한 게 바로 초극세 케이블이었다. 의료용 초음파 진단기에 들어가는 머리카락보다 가는 케이블이다. 저가 제품과 경쟁하기보다 정밀 기술이 필요한 고부가가치 틈새시장 공략에 나선 것이다. 그 결과 한때 운영할수록 적자가 쌓이던 회사는 매년 수십억 원의 영업이익을 올리는 기업으로 탈바꿈했다.&lt;br&gt;&lt;br&gt;황 대표는 기술인의 덕목으로 “꾸준히 우물을 파는 장인 정신”을 꼽았다. 그는 후배 기술인들에게 “처음부터 큰 시장에 뛰어들기보다 자기 분야를 찾아 기반을 쌓아야 한다”고 했다. 중국과 대만의 저가 공세, 외환 위기, 구조 조정을 거치며 얻은 결론이다. “사업은 운도 크게 작용하지만, 결국 버티는 사람이 기회를 잡습니다. 이게 40여 년간 현장에서 얻은 깨달음입니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 헌법재판소 외</title>
-      <link>https://www.chosun.com/national/people/2026/05/01/EH5ELTFAK5CWHFYFKVGKWBX644/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/01/EH5ELTFAK5CWHFYFKVGKWBX644/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;헌법재판소&lt;/b&gt;◇헌법연구관 임용▷임주미 장재원◇헌법연구관보 임용▷고희준 김범수◇과장 전보▷심판사무1과장 김병섭◇과장 신규보임▷심판사무2과장 황해훈◇서기관 승진▷재정기획과 이승우▷인사과 임소형◇서기관 전보▷심판사무1과 이석준&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;◇보직▷비상계획관 김삼식◇과장 승진▷문화사업단 이지영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;TV조선&lt;/b&gt;▷디지털미디어센터장 정석영▷디지털미디어센터 IP전략팀장 황수원▷보도본부 시사제작국장 김진우▷보도본부 콘텐츠사업국 사업운영부장 김관▷보도본부 디지털스튜디오 오리지널제작팀장 김수홍▷보도본부 디지털스튜디오 온라인콘텐츠팀장 안광연▷제작본부 디지털콘텐츠CP 조상범▷편성전략실 편성제작팀장 오인성&lt;br&gt;&lt;br&gt;▲&lt;b&gt;디지틀조선일보&lt;/b&gt;▷디지틀조선TV·디지틀조선일보 편집인 겸 콘텐츠사업본부장 김미선▷콘텐츠사업본부 디지틀조선(TV·일보) 편집국장 김종훈▷글로벌교육사업본부장 유수연&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김무영 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/05/01/LMVFJGO3G5GNRERONQLGRXX5AU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/01/LMVFJGO3G5GNRERONQLGRXX5AU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김무영&lt;/b&gt; 별세,&lt;b&gt; 강예원 &lt;/b&gt;배우(본명 &lt;b&gt;김지은&lt;/b&gt;) 부친상=29일20시 서울아산병원, 발인 2일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김을중&lt;/b&gt; 별세, &lt;b&gt;박신영&lt;/b&gt; 한국국토정보공사 대전충남본부 처장 모친상, &lt;b&gt;소재권&lt;/b&gt; 주택관리공단 대전 판암4관리소장·&lt;b&gt;박승기&lt;/b&gt; 서울신문 충청본부장 장모상=30일1시55분 대전 건양대병원, 발인 2일7시, (042)600-6660&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김종수&lt;/b&gt; 별세, &lt;b&gt;김재욱&lt;/b&gt; 금융투자협회 전문인력관리부장 부친상=30일0시 경기 성남 분당제생병원, 발인 2일8시, (031)708-4444 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;반항섭&lt;/b&gt; 별세, &lt;b&gt;반상훈&lt;/b&gt; 前 대전일보 기획부장 부친상=30일13시8분 대전 쉴낙원갈마성심장례식장, 발인 2일6시30분, (042)533-4400&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최순화&lt;/b&gt; 별세, &lt;b&gt;남명식&lt;/b&gt;·&lt;b&gt;남정식&lt;/b&gt; 모친상,&lt;b&gt; 양지혜&lt;/b&gt; 조선일보 기자 외조모상=29일18시35분 경기 여주시민장례문화원, 발인 1일10시30분, (031)882-1000&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>탈북 청소년, ‘오픈 버스’ 타고 서울 나들이 “北서 꿈꿔온 풍경” </title>
