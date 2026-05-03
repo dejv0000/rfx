@@ -13,6 +13,117 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>무면허 음주운전 적발되자 친언니 행세한 60대女 ‘집유’</title>
+      <link>https://www.chosun.com/national/regional/2026/05/03/S5DVLANJFRBTRA4I7QL4WQH52Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/03/S5DVLANJFRBTRA4I7QL4WQH52Q/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 05:23:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXXJSI4ONBHA3KCDXLW3B2ICWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 상태로 음주 운전을 하다 경찰에 적발되자 처벌을 피하려고 친언니 행세를 한 60대 여성에게 법원이 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;부산지법 형사11단독 이호연 판사는 3일 도로교통법 및 주민등록법 위반 등 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고했다. 또 80시간의 사회봉사와 40시간의 준법운전 강의 수강 명령도 내렸다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 29일 오전 1시 10분쯤 부산 부산진구 한 주차장 2층에서 1층까지 약 10m 구간을 술에 취한 상태로 승용차를 몬 혐의를 받는다. A씨의 혈중알코올농도는 운전면허 취소(0.08% 이상) 기준을 훌쩍 넘는 0.169%였다. 또 A씨는 2023년 7월 창원지법에서 음주 운전을 한 혐의로 기소돼 벌금 1000만원을 선고받고 운전 면허가 취소된 상태였다.&lt;br&gt;&lt;br&gt;A씨는 경찰 적발 이후 처벌을 피하고자 자신의 언니 행세를 했으며, 경찰서에서도 언니의 이름으로 된 피의자신문조서에 서명까지 했다.&lt;br&gt;&lt;br&gt;이 판사는 “피고인은 2년 전 음주운전 전과가 있음에도 이 사건 범행을 저질렀고, 자신의 행위를 숨기려고 언니의 서명까지 위조하고 행사해 죄질이 매우 불량하다”면서 “피고인이 반성의 태도를 보이고 있는 점, 피도용인이 피고인에 대한 처벌을 원하지 않는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“폐업한 가게에 강아지 갇혀”…‘용산 맛집' 반려견 방치 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/03/P5USCEI7VVFFFEA3ZVPFDXFGYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/03/P5USCEI7VVFFFEA3ZVPFDXFGYY/</guid>
+      <dc:creator>정채빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:54:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNVGJD4HQBCCFJ7BF2KV7EOHNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 A씨가 올린 식당에 있는 강아지 사진./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구 한 식당이 폐업하면서 업주가 반려견을 식당에 방치했다는 의혹이 제기돼 논란이 일었다. 이에 대해 업주 측은 “상황상 며칠간 강아지와 지내지 못했다”면서 “수시로 강아지를 보살폈다”고 해명했다.&lt;br&gt;&lt;br&gt;지난 1일 소셜미디어에는 서울 용산구 후암동의 한 식당이 “지난달 초 폐업하면서 강아지를 버리고 갔다”고 주장하는 글이 올라왔다. 작성자 A씨는 “강아지 혼자 덩그러니 있던 것 그나마 근처 주민들이 물이라도 주고 있다”며 “너무 벌벌 떨고 있어서 가게 안에 앞치마랑 옷가지 찾아다가 바닥에 깔아주고 왔다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFDCAHITRZF3NMYJ7FSLBDTVPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;"강아지가 갇혀있다"는 내용이 적힌 종이가 붙어있는 모습을 A씨가 공개했다. 식당 문 안에는 강아지가 서 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨가 공개한 사진을 보면 불이 꺼진 식당 안에 흰 강아지가 한 마리 있다. 식당 문에는 “강아지가 갇혀 있다”는 내용의 문구가 적힌 종이가 붙어 있다. 또 그가 올린 영상에는 강아지가 떨면서 주위를 두리번거리는 모습이 담겼다. &lt;br&gt;&lt;br&gt;A씨는 “파리와 모기가 드글거리고 환기도 안 돼서 악취가 난다. 요즘 낮에 실내 온도가 높아서 덥고, 전기도 끊긴 지 좀 됐다고 한다”며 “(강아지는) 귀랑 다리도 안 좋은 것 같다. 눈도 안 좋아 보인다”고 말했다. &lt;br&gt;&lt;br&gt;다음 날 A씨는 다른 글을 통해 “(식당에) 출입문 말고 창문도 하나 없어서 캄캄하다”며 “(주민들이) 소셜미디어에서 보고 사료, 간식, 배변 패드, 생수 등을 챙겨줬다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGASBH4V7RCGBH6XJLCWZDTXBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작성자 A씨가 올린 강아지 사진./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이는 온라인상에서 빠르게 확산했다. 특히 2년 전 가수 성시경의 유튜브 채널에 맛집으로 소개됐던 곳으로 언급되며 논란이 커졌다. &lt;br&gt;&lt;br&gt;이에 업주 측은 지난 2일 강아지를 데려간 것으로 전해졌다. 업주 측은 소셜미디어에 “가게 내부 사정으로 영업을 임시 중단한 상태에서 오해를 살 만한 상황을 인지했다”며 “강아지를 버렸거나 유기했다는 일은 결코 없다. 상황상 강아지를 둘 곳이 없어 저희에게 가장 안전한 장소에 두고 남편이 상주하며 강아지와 함께 지냈다”고 주장했다.&lt;br&gt;&lt;br&gt;그는 “며칠간은 가게 영업과 관련해 급하게 해결해야 할 일이 있어 강아지와 같이 지내지 못한 부분이 있다”고 말했다. 이어 “수시로 드나들며 강아지를 보살폈다”며 “위생과 관련해 주기적으로 치우고 있다. 아마 보셨을 당시 치우지 못한 상태를 보신 것 같다”고 주장했다. 그러면서 “최대한 빠른 시간 내에 해결하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RNVGJD4HQBCCFJ7BF2KV7EOHNQ.jpg?auth=7020f2888215c691d5d6b85762849cca74b28386ca980c69adbf863a4a14aa9a&amp;smart=true&amp;width=1080&amp;height=881" type="image/jpeg" height="881" width="1080">
+        <media:description type="plain">지난 2일 A씨가 올린 식당에 있는 강아지 사진./인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>질투심에 전남편 유골함 폐기한 아내·내연남...항소심 징역 1년 선고</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/03/NNFBIO64IJBO7E7IDWXRJHFYBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/NNFBIO64IJBO7E7IDWXRJHFYBU/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:55:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73PCJBSTA46FSWJFESIN654VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경. 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남편의 유골함을 훔쳐 폐기한 혐의를 받는 여성과 내연남이 항소심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 서울중앙지법 형사항소4-2부(재판장 엄철)는 지난달 16일 유골영득 및 특수절도 혐의로 재판에 넘겨진 A씨와 B씨의 항소를 기각하고 원심과 같이 각각 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 과거 전남편 C씨와 2016년 혼인신고를 했으나 이듬해 별거를 시작했고, C씨는 같은 해 9월 사망했다. A씨와 교제 중이던 B씨는 가족관계등록상 C씨가 배우자로 남아있는 걸 탐탁지 않아 했고, A씨에게 호적 정리를 요구해 왔다. 조사에 따르면 실제로 B씨는 A씨에게 “호적 정리가 안 되면 같이 죽자” 등 협박 메시지를 보내며 관계를 끝내라고 하기도 했다.&lt;br&gt;&lt;br&gt;범행은 지난 2024년 1월 이들이 C씨의 사망 소식을 알면서 시작됐다. A씨와 B씨는 C씨의 유골함이 있는 추모공원을 찾아 유골함과 크리스탈 명패, 사진 등을 훔쳤다. 범행은 같은 해 2월 C씨의 아들이 설날을 맞아 추모공원을 방문하며 드러났다.&lt;br&gt;&lt;br&gt;지난 3월 열린 항소심 결심 공판에서 A씨는 “유골을 길에 폐기해 회수할 수 없었다”고 말했다. A씨는 유골을 어떻게 처리했냐는 재판부 질문에 “유골함을 B씨와 차에 싣고 가다가 논두렁 같은 곳에 폐기했다”며 “집어던져서 (폐기했다)”고 말했다. 다만 구체적인 방법이나 위치 등은 설명하지 않았다.&lt;br&gt;&lt;br&gt;재판부는 반인륜적 범행을 저지른 A씨와 B씨를 강하게 질타했다. 재판부는 “물건을 돌려주는 것도 아니고 유골이다”라며 “어떻게 처리했냐. 어디에 (유골을) 가져다놨냐”고 질책했다. 검찰 측은 “피고인들은 1심에서 혐의를 부인하다 항소심에 이르러 자백했으나 유골함을 어떻게 처분했는지 얘기하지 않고 있다”며 “유족은 사는 내내 고통일 것”이라고 했다.&lt;br&gt;&lt;br&gt;재판부는 지난달 16일 열린 선고 공판에서 A씨와 B씨의 항소를 기각했다. 재판부는 “B씨는 망인에 대해 극심한 질투와 적개심을 드러내며 인연 정리를 요구해 왔다”며 “유골을 절취할 동기가 충분하다”고 봤다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 항소심 판결에 불복해 각각 지난달 23일과 24일 상고장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임시직으로 들어와 계속 임시직…韓 임시직 비율, OECD 평균의 2.4배</title>
+      <link>https://www.chosun.com/national/labor/2026/05/03/53IYQYW2CZDAHJNPTUVVUAU7PA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/03/53IYQYW2CZDAHJNPTUVVUAU7PA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:47:33 +0000</pubDate>
+      <content:encoded>한국의 임시직 근로자 비율이 경제협력개발기구(OECD) 회원국 평균의 2배를 넘는 것으로 나타났다. 직원 채용도 임시직이 늘고, 한 번 임시직으로 들어간 근로자는 더 오래 임시직에 머무는 구조가 굳어지고 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TDQNZRG42WINBWHE2DAYZYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 서울서부고용복지플러스센터에 일자리 정보가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한국노동연구원이 발간한 ‘월간 노동리뷰’ 4월호에 따르면, 2024년 한국의 임시직 비율은 26.9%였다. OECD 평균 11.2%의 약 2.4배다. 대부분의 OECD 회원국에서 2019년보다 임시직 비율이 줄어든 것과 달리, 한국은 오히려 증가했다. 한국의 임시직 비율은 2019년 24.3%에서 2024년 26.9%로 약 2.6%포인트 올랐다. &lt;br&gt;&lt;br&gt;임시직은 계약 종료 시점이 정해진 임금 근로자를 뜻한다. 기간제 근로자, 파견 근로자, 일용 근로자 등이 포함된다. 국가마다 비정규직의 개념이 다르기 때문에, OECD는 임시직 비율을 비교 지표로 활용한다.&lt;br&gt;&lt;br&gt;연구진은 한국 노동시장에서 임시직이 단순히 많은 수준을 넘어, 노동시장에 진입하는 단계부터 임시직 채용이 확대되고 있다고 분석했다. 신규 채용 가운데 임시직이 차지하는 비율은 높아진 반면, 임시직 내부에서 신규 채용자 비율은 줄었다. 새로 사람을 뽑을 때 임시직을 더 많이 쓰면서도, 한 번 임시직으로 들어가면 계속 임시직으로 남는다는 의미다. 김복순 한국노동연구원 전문위원은 “임시직 가운데서도 초단시간·저임금 일자리 비율이 늘어나고 있다”고 했다.&lt;br&gt;&lt;br&gt;청년층에서도 임시직·비정규직 위주로 채용이 늘고 있는 흐름이 나타나고 있다. 같은 호에 실린 ‘비정규직 고용 구조와 근로 조건 변화’ 보고서에 따르면, 2025년 청년층에서는 정규직 신규 입직자가 6만9000명 줄어든 반면, 신규 입직 ‘전일 기간제’는 5만4000명 늘었다. 전일 기간제는 계약 기간은 정해져 있지만 전일제로 일하는 고용 형태를 말한다. &lt;br&gt;&lt;br&gt;기업들이 내는 구인 공고에서도 이런 변화가 확인된다. 고용행정통계 기준 전체 구인 수 대비 전일 기간제 비율은 2018년 17.4%에서 2025년 28.0%로 올랐다. 정규직으로 들어가는 문이 좁아지면서 임시직이 장기 체류지처럼 굳어지고 있다는 의미다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 백화점 입점업체  여직원에 흉기 휘두른 40대 직원, 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/05/03/6ENCYFEIYRHOZHKG2XCXKQDEFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/03/6ENCYFEIYRHOZHKG2XCXKQDEFA/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:38:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6QGC3LZ6ZPN7PKSDWGT3HNRLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 대전 서구 한 백화점 식당가에서 흉기 난동이 발생해 경찰 과학수사대가 범행 현장에서 증거를 보존하고 있다. 이날 오후 5시 55분쯤 백화점 지하 2층에서 20대 여성에게 흉기를 휘두른 40대 남성이 살인미수 혐의로 현행범 체포됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영업 중인 대전의 백화점에서 입점 업체 여직원에게 흉기를 휘둘러 다치게 한 다른 입점 업체 남성 직원이 구속됐다.&lt;br&gt;&lt;br&gt;대전 둔산경찰서는 3일 살인 미수 혐의로 40대 남성 A씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 30일 오후 5시 55분쯤 대전 서구 둔산동 한 백화점 지하 2층 식당가에서 인근 입점 업체 20대 여성 직원인 B씨의 팔과 다리 등을 흉기로 여러 차례 찔러 살해하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;흉기에 찔린 B씨는 현재 병원 치료를 받고 있으며, 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;각각 다른 점포에서 일하는 두 사람은 서로 말다툼을 벌였고, 화가 난 A씨가 매장에 있던 흉기를 들고 와 휘두른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;범행 당시 백화점은 영업 중이었다. 노동절에서 어린이날까지 이어지는 닷새간의 연휴를 하루 앞두고 적지 않은 손님들도 주변에 있었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 두 사람의 관계, 범행 동기 등 자세한 사건 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>징역 5년 복역 중 여죄 드러난 마약조직 부총책... 법원, 징역 3년 6개월 추가</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/03/ZFWHCGNHTVAM5FARNKN5LK6YLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/ZFWHCGNHTVAM5FARNKN5LK6YLM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:22:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73PCJBSTA46FSWJFESIN654VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에서 마약을 들여와 텔레그램을 통해 판매한 마약 밀매 조직의 부총책이 실형을 추가로 선고 받았다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 특정범죄가중처벌법상 향정 등 혐의로 추가 기소된 마약 밀매 조직 부총책 A씨에게 징역 3년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2023년 8~9월 해외 판매상으로부터 엑스터시 2000정을 구매하고 이 중 526정을 국내에 들여온 혐의로 재판에 넘겨졌다. 이와 관련, 작년 4월 징역 5년이 확정됐다. 검찰은 A씨가 2023년 12월~2024년 1월 사이 같은 판매상으로부터 엑스터시 약 1230정을 사들여 국내로 들여오고, 합성대마 460㎖를 수수·관리했다는 혐의를 적용해 추가 기소한 것이다.&lt;br&gt;&lt;br&gt;재판부는 “취급한 마약류 규모가 상당한 점, 범행 횟수·방법 등을 고려할 때 죄질이 좋지 않다”고 지적했다. 이어 “마약류 범죄는 국민 보건에 위해를 가하고 마약류 중독자에게 다른 범죄를 저지르게 하는 등 사회 전반에 미치는 해악이 크므로 엄정하게 대처할 필요성이 있다”고 양형 이유를 밝혔다. 다만 재판부는 “판결이 확정된 죄와 형평을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보험 대리 판매로 수수료 번 카드사... 법원 “교육세 과세 대상 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/03/AGAXJBA43VAAHF4QBZM6SVAVPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/AGAXJBA43VAAHF4QBZM6SVAVPE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:08:41 +0000</pubDate>
+      <content:encoded>신용카드사가 보험 판매를 대리하며 얻은 수수료는 교육세 과세 대상에 해당하지 않는다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 서울행정법원 행정8부(재판장 양순주)는 최근 현대카드가 영등포세무서장을 상대로 제기한 교육세 경정 거부 처분 취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63JYZBTUPBELGSC63UKQWPGGE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동에 위치한 서울행정법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 2018년 현대카드가 “보험 대리업으로 벌어들인 수수료는 교육세 과세 대상이 아니다”라며 과세 당국에 환급을 요구하는 경정 청구를 한 게 발단이 됐다. 과세 당국이 청구를 거부하자 현대카드는 행정소송을 제기해 승소했고, 2021년 대법원에서 판결이 확정됐다. 그러나 해당 판결은 2013∼2017 사업연도에 해당하는 세금에만 효력이 있어, 현대카드는 과세 당국에 2018 사업연도에 귀속된 교육세 환급을 다시 요구했다.&lt;br&gt;&lt;br&gt;하지만 과세 당국은 2024년 5월 경정 청구를 일부 거부했다. 현대카드는 같은 해 8월 조세심판원 심판 청구도 냈으나, 보험 수수료에 대한 세금은 돌려받지 못했다. 이에 보험 대리 수수료와 관련된 세금 1억3222만여 원을 대상으로 지난해 6월 재차 행정소송을 낸 것이다.&lt;br&gt;&lt;br&gt;재판부는 과세 당국의 경정 거부 처분이 위법하다며 현대카드의 손을 들어줬다. 보험 대리업은 옛 교육세법상 납세 대상인 ‘금융·보험업’과는 구별된다는 것이다. &lt;br&gt;&lt;br&gt;특히 재판부는 여신금융전문금융업법 시행령상 보험 대리 업무는 카드사의 고유 업무가 아닌 ‘겸영(兼營)’ 업무에 해당한다고 판단했다. 겸영 업무란 은행이 창구에서 펀드나 보험 판매를 하는 것처럼 본업 외에 법률로 정하는 다른 금융 업무를 같이하는 것을 가리킨다.&lt;br&gt;&lt;br&gt;재판부는 또 카드사가 겸영 업무를 할 경우 기존 사업과 구분해 회계 처리를 하기 때문에 보험 판매를 대리해 벌어들인 수수료는 신용카드업과 분리된 별개의 영업 수익이라고 봤다. 이를 종합하면 카드사가 겸영 업무인 보험 대리 업무로 번 돈은 ‘금융·보험업자’의 수익에 해당하지 않는다는 게 법원 판단이다.&lt;br&gt;&lt;br&gt;과세 당국은 재판 과정에서 “현대카드가 금융·보험업자인 여신전문금융회사에 해당하므로 문제의 수수료도 과세 대상”이라고 주장했으나 재판부는 받아들이지 않았다. 재판부는 “교육세 납세의무는 납세의무자의 지위가 아니라, 납세의무자가 어떤 영업으로 수익을 얻었는지에 따라 결정된다”며 “겸영 업무로 지급받은 대가가 신용카드 회사의 카드업이나 부수 수익에 해당한다고 볼 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “보험료 지급 기준이 불명확하다면...고객에게 유리하게 해석해야</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/03/C5DFRW6VJJEX5AXACT5DXWRQ5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/C5DFRW6VJJEX5AXACT5DXWRQ5U/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:07:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TAMZRGJTDQNRTMNSWGZLBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보험사의 보험료 지급 약관조항이 명백하지 않다면 고객에게 불이익을 주지 않는 방향으로 유리하게 해석해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 사망한 A씨의 유족이 신한라이프생명보험을 상대로 낸 보험금 청구 소송에서 원고 패소 판결한 원심을 깨고 사건을 서울중앙지법에 보냈다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 1월 광주 광산구의 한 도로에서 운행 중이던 자동차에 부딪히는 사고를 당했다. 치료를 받던 A씨는 같은 해 6월 다발성 장기 손상으로 사망했고, 유족은 신한라이프에 교통재해 사망보험금 등을 청구했다. &lt;br&gt;&lt;br&gt;신한라이프 측은 A씨가 보험 기간 종료 후 사망했다는 이유로 보험금을 지급하지 않았다. A씨는 보험 기간을 2023년 4월까지로 하는 계약을 체결한 바 있다. 이에 A씨의 유족은 신한라이프 측에 보험금을 지불하라며 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심은 신한라이프가 A씨의 유족에게 3500만원을 지급하라고 판단했다. 재판부는 “망인이 보험 기간 이후에 사망했더라도 ‘보험 기간 내 교통재해로 인해 사망’한 경우에 해당하므로 보험금을 지급할 의무가 있다”고 봤다.&lt;br&gt;&lt;br&gt;2심에선 다른 판단이 나왔다. 재판부는 “망인의 사망은 보험의 보험 기간 종료 후에 발생한 사고라, 원고의 청구는 이 사건 약관조항에 따른 교통재해사망보험금 지급요건을 충족하지 못하였다고 할 것”이라고 했다. 재판부는 보험 기간 내 교통재해가 발생해 보험 기간 종료 후 사망한 것을 보험 기간 내 사망한 것과 동일하게 볼 수 없다며 1심 판결을 취소하고 A씨 유족의 청구를 기각했다.&lt;br&gt;&lt;br&gt;반면 대법원은 판단을 다시 뒤집었다. 대법원은 보험사의 약관조항이 규정한 교통재해 사망보험금의 지급사유가 다의적으로 해석돼 약관조항의 뜻이 명백하지 않다고 짚었다. 그러면서 “약관의 규제에 관한 법률 5조 2항이 규정하는 작성자 불이익의 원칙을 적용해 보험 기간 중 교통재해가 발생했을 것만을 요구한다고 해석함이 상당하다”고 판단했다. 또 보험 기간 중 발생한 교통사고가 A씨의 직접적인 사망 원인으로 봄이 상당하다며 원심에는 법리를 오해하는 등 판결에 영향을 미친 잘못이 있다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재 “자녀 이름에 쓸 漢字 제한하는 법 규정은 합헌”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/03/RN7DYN6Z75HFDAJDLPKWKGSF34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/RN7DYN6Z75HFDAJDLPKWKGSF34/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 04:02:32 +0000</pubDate>
+      <content:encoded>헌법재판소가 자녀의 이름에 쓸 수 있는 한자를 제한하는 가족관계등록법 규정이 합헌이라는 결정을 내놨다. 10년 전 판례와 같은 결론이다.&lt;br&gt;&lt;br&gt;3일 헌재는 청구인 김모씨가 가족관계등록법 제44조 제3항에 대해 낸 위헌 심판을 재판관 5대4 의견으로 지난달 29일 기각했다고 밝혔다. 이 조항은 ‘자녀의 이름에는 한글 또는 통상 사용되는 한자를 사용하여야 한다’고 규정한다. 통상 사용되는 한자는 대법원규칙으로 정하도록 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5TDMIZAD5L73OISZL7C3WVOUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판관들이 지난달 29일 서울 종로구 헌법재판소 대심판정에 착석해 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 2023년 2월 태어난 딸의 이름을 ‘래O(婡O)’로 정하고, 관할 주민센터에 출생신고를 접수했다. 담당 공무원은 ‘婡(예쁠 래)’ 자가 가족관계등록법 규정에 따라 제정된 가족관계등록규칙 제37조 제1~2항에서 정한 ‘통상 사용되는 한자’의 범위에 포함되지 않는다며 가족관계등록부에 한글로만 이름을 적었다. 김씨는 이에 기본권이 침해당했다며 헌법소원을 낸 것이다.&lt;br&gt;&lt;br&gt;구체적으로 김씨는 “심판 대상 조항은 행정상의 어려움을 이유로 이름에 사용할 수 있는 한자의 범위를 ‘통상 사용되는 한자’로 제한하고 있으나 선정 기준이 모호하다”며 “혼인과 가족생활의 자유를 보호할 필요성이 커진 상황에서 심판 대상 조항으로 달성되는 공익이 중대하다고 보기 어렵다”고 주장했다.&lt;br&gt;&lt;br&gt;헌재는 김씨 청구를 기각하면서 10년 전 판례를 인용했다. 당시 헌재는 “한자는 그 숫자가 방대하고 범위가 불분명해 일반 국민이 이를 모두 읽고 사용하는 데 어려움이 있다”고 판단했다. 이어 “이름에 통상 사용되지 않는 어려운 한자를 사용하는 경우 오독(誤讀)이나 오자(誤字) 등으로 인해 당사자와 이해관계인이 겪을 불편을 해소하고, 가족관계등록 업무가 전산화됨에 따라 이름에 사용되는 한자 역시 전산 시스템에 모두 구현되어야 한다는 점을 고려한 가족관계등록법 규정은 합헌”이라고 판단했다.&lt;br&gt;&lt;br&gt;헌재는 이러한 선례를 변경할 필요성이 없다고 결론 내린 것이다. 헌재는 “고대 문헌에 수록됐으나 현대에 사용되지 않는 한자나, 외국에서만 사용되는 한자 등 우리 사회 공동체에서 통상 사용되는 문자라고 할 수 없는 한자를 제한하는 것은 당연하고 합리적인 규율”이라고 판시했다. 또 “대법원은 인명용 한자로 선정되지 않아 출생신고가 수리되지 않는 문제를 해결하기 위해 추가 선정 절차를 마련하고 있다”며 “당장 원하는 한자를 가족관계등록부에 등록할 수 없다 하더라도 보완이 가능하다”고 봤다. 이 밖에도 헌재는 “인명용 한자는 2016년 이후 세 차례의 개정을 거쳐 현재 9389자”라며 “한자를 공식 문자로 지정하고 있는 중국이나 일본의 인명용 한자보다 많은 숫자”라고 했다.&lt;br&gt;&lt;br&gt;한편 소수 의견을 낸 정정미·김복형·마은혁·오영준 재판관은 “이름은 개인의 정체성을 집약적으로 표현하는 수단으로서 이를 결정하고 사용하는 당사자의 의사가 존중될 필요성이 더욱 크다”며 “이름의 결정과 사용에 대한 국가의 개입은 신중하게 이루어져야 한다”고 봤다. 한자를 활용해 이름을 짓는 데는 부모의 자녀에 대한 기대나 염원이 심사숙고 끝에 담기게 된다는 것이다. 소수 의견 측은 “자녀의 복리에 반하지 않는 한 부모는 자녀의 이름에 원하는 한자를 자유롭게 사용할 권리가 있다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“마약 집유 중 또 사고”… 람보르기니 만취 뺑소니 대학생 ‘실형’ </title>
+      <link>https://www.chosun.com/national/2026/05/03/GBOB3U5OU5FZRFFHNG5IZI2V6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/03/GBOB3U5OU5FZRFFHNG5IZI2V6Y/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 03:53:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XOOTEFTJBH4DLR4FZUCMQRA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 외제차를 몰다가 사고를 낸 후 조치 없이 도주한 대학생에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;울산지법 형사5단독 조국인 부장판사는 특정범죄 가중처벌 등에 관한 법률 위반(도주치상) 및 도로교통법 위반(사고후미조치) 혐의 등으로 재판에 넘겨진 20대 여성 A씨에게 징역 8개월을 선고하고, 법정구속했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 지난 2024년 10월 11일 오후 10시 50분쯤 울산 남구 한 도로에서 람보르기니 스포츠유틸리티 차량(SUV)을 운전하다가 정차 중인 택시 뒷 부분을 들이받는 사고를 냈다.&lt;br&gt;&lt;br&gt;사고 당시 차량 블랙박스 영상에는 ‘쿵’하며 부딪히는 소리와 함께 택시 운전기사와 승객이 순간적으로 몸이 들썩일 정도로 충격을 받은 장면이 담겼다. &lt;br&gt;&lt;br&gt;이 사고로 택시 기사와 승객은 허리 등을 다쳐 병원 치료를 받아야 했다. &lt;br&gt;&lt;br&gt;하지만 사고 직후 A씨는 조치 없이 그대로 차를 몰고 현장을 달아났다. 1㎞가량 도주하던 A씨는 신고를 받고 출동한 경찰에 붙잡혔다. 당시 A씨의 혈중알코올 농도는 면허 취소 기준(0.08%)을 넘은 0.098%로 측정됐다. &lt;br&gt;&lt;br&gt;A씨는 동종 전과가 없고, 피해자들과 합의했지만, 재판부는 A씨를 법정에서 구속하고 실형을 선고했다.&lt;br&gt;&lt;br&gt;조국인 부장판사는 “피고인은 마약류 관련 범행으로 집행유예를 선고받은 후 불과 6개월 만에 술에 취해 운전하다가 사고를 내고 도주했다”며 “잘못을 뉘우치고 있고, 피해자들 부상 정도가 심하지 않은 데다 합의도 했지만, 책임에 상응하는 엄중한 처벌이 불가피하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>상해·살인미수로 기소된 와중에도… 구치소 동료 수감자 폭행</title>
+      <link>https://www.chosun.com/national/2026/05/03/37DJEVNAJFCAZP5W5PCNBVEVE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/03/37DJEVNAJFCAZP5W5PCNBVEVE4/</guid>
+      <dc:creator>대구=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 03:15:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRDOZDDMEZDCMJSMQ4WIZLFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상해·살인 미수 혐의로 기소된 상태에서 구치소에서 동료 수감자를 폭행한 20대 2명에게 법원이 집행유예를 선고했다. &lt;br&gt;&lt;br&gt;대구지법 형사3단독 이현석 판사는 구치소에서 동료 수감자에게 상해를 입힌 혐의로 기소된 20대 A씨에게 징역 10개월에 집행유예 2년을 선고했다고 3일 밝혔다. 또 같은 혐의로 재판에 넘겨진 20대 B씨에게 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 27일∼6월 13일 “기강이 해이해졌다”는 이유로 대구구치소에서 함께 지냈던 20대 C씨를 무릎과 주먹 등으로 8차례 때려 상해를 입힌 혐의로 재판에 넘겨졌다. 또 B씨는 작년 6월 6일 C씨가 자신을 놀렸다는 이유로 필기도구로 C씨 팔뚝을 여러 차례 내려찍은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 상해 및 살인 미수 등 혐의로 각각 기소돼 구치소 생활을 하던 중 C씨를 상대로 한 추가 범행을 저지른 것으로 밝혀졌다. A씨 등은 현재 기존 범행들에 대한 징역형이 확정돼 교도소에 수감 중이다.&lt;br&gt;&lt;br&gt;이 판사는 “피고인들은 다른 범죄로 구금되어 있는데도 자중하지 않고 이 사건 범행을 저질렀다”며 “다만 피해자로부터 용서받은 점 등 여러 양형 조건을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동해서 만취 10대가 몰던 차 전복… 동승자 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/05/03/IJNPYWUEMNDYHF4OAUXZ3DDYTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/03/IJNPYWUEMNDYHF4OAUXZ3DDYTA/</guid>
+      <dc:creator>동해=정성원 기자</dc:creator>
+      <description>3일 오전 1시 24분쯤 강원 동해시 망상동 대진해수욕장 인근 도로에서 A(19)양이 몰던 모닝 승용차가 전복되는 사고가 발생했다.</description>
+      <pubDate>Sun, 03 May 2026 00:56:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFAWPHBQQJBWVMXDA3SGCMJRJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 강원 동해시 망상동 한 도로에서 모닝 승용차가 전복되는 사고가 발생해 소방대원들이 구조 작업을 벌이고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 1시 24분쯤 강원 동해시 망상동 대진해수욕장 인근 도로에서 A(19)양이 몰던 모닝 승용차가 전복되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 조수석에 타고 있던 B(19)양이 숨지고, A양과 뒷좌석에 타고 있던 C(19)양이 다쳐 병원에서 치료 중이다.&lt;br&gt;&lt;br&gt;A양은 사고 당시 혈중알코올농도 0.062%의 면허 정지 수준의 음주 상태에서 운전한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 대학생으로 부모 차량을 몰던 중 사고를 낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A양 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>닐 암스트롱이 서울을 방문한 날…불고기를 맛보더니 ‘원더풀!’</title>
       <link>https://www.chosun.com/international/2026/05/03/3G43I34QQRCXZJHRGHH6OVKAHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/2026/05/03/3G43I34QQRCXZJHRGHH6OVKAHA/</guid>
@@ -828,87 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKOGXOPLXZBWBMXEMX6V445A54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 탈북 청소년들이 서울 광화문에서 서울시티투어 버스를 탄 뒤 기념 촬영을 하고 있다. 이들은 “서울 풍경은 K드라마를 보고 꿈꾸던 모습 그대로”라고 전했다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“서울에 온 첫날 얼마나 놀랐는지 몰라요. 북한에선 한국이 더 못 산다고 배웠거든요.” &lt;br&gt;&lt;br&gt;여덟 살 때 가족과 함께 탈북한 안강권(18)군은 29일 오후 서울 광화문에서 2층 서울시티투어 버스에 올라타며 이렇게 말했다. 안군은 백두산 동남부 기슭에 위치한 양강도 삼지연시에서 태어나 2017년까지 살았다. 삼지연시는 북한에서도 가장 추운 지역으로 꼽히는 곳. 안군은 9년이 지났지만, 한국에 들어오던 날 처음 본 서울 풍경이 아직도 생생하다고 했다.&lt;br&gt;&lt;br&gt;그는 “북한에서는 남한 사람들이 더 못 살고, 다 쓰러져가는 초가집에 산다고 가르친다”며 “하지만 북한 주민들 사이에서는 서울에 높은 빌딩이 많고, 밤에도 불빛이 번쩍거리며 한강을 가로지르는 전철이 있다는 소문이 돌았다”고 말했다. 안군은 “실제 서울 모습은 소문을 듣고 꿈꿔왔던 풍경 그대로라 깜짝 놀랐다”고 했다. &lt;br&gt;&lt;br&gt;서울시티투어 버스는 안군을 비롯한 탈북 청소년 26명을 태웠다. 광화문에서 출발해 약 2시간 동안 명동, 남산서울타워, 동대문디자인플라자(DDP), 청와대, 경복궁 등 서울 주요 관광지를 돌았다. 버스에 탄 이들은 ‘통일과나눔 아카데미’ 22기 학생들이다. 본지와 통일문화연구원 공동 주관으로 운영되고 있는 아카데미는 탈북 청소년의 안정적인 정착과 사회 참여 확대를 지원하기 위해 2014년 설립됐다.&lt;br&gt;&lt;br&gt;안군과 함께 아카데미에 참여한 강하은(19)양은 한국에 오기 전 K드라마를 즐겨 봤다고 한다. 투어 버스를 타다 남산타워에서 내려 서울 전경을 내려다보던 강양은 “내가 좋아하는 드라마 ‘별에서 온 그대’와 ‘도깨비’에서 남산타워가 자주 나왔다”며 “한국에 오면 꼭 한번 와보고 싶었던 곳”이라고 했다.&lt;br&gt;&lt;br&gt;탈북 청소년들은 각자의 방식으로 이번 투어를 즐기는 모습이었다. 옆자리 친구와 과자를 나눠 먹으며 끊임없이 이야기 나누는 학생들, 서울 풍경을 하나하나 놓치지 않으려는 듯 말없이 조용히 창밖을 응시하는 학생, 더 예쁜 모습을 셀카로 담아내려 립글로스를 바르고 볼하트를 만드는 학생까지 다양했다.&lt;br&gt;&lt;br&gt;이번 행사는 서울시티투어 타이거버스 측이 비용 전액을 지원해 마련됐다. 길진용 서울시티투어 타이거버스 대표는 “탈북 청소년들이 서울을 생생하게 경험하도록 돕고 싶었다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/05/01/XYDJZSTMIBAOBPNVQZKAQPNZHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/05/01/XYDJZSTMIBAOBPNVQZKAQPNZHA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHAN2NTO2FHJXF2ZBO6NFDFEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-5-1일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 24일 ‘우리 아기가 태어났어요’ 코너에 실린 김하은&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아이 튼튼하게] 기관지염·폐렴 잦은 우리 아이, 물 섭취·습도 조절이 중요해요</title>
-      <link>https://www.chosun.com/national/nie/2026/05/01/JV3UWXFXNFBE5EDS5NTOMNRCXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/01/JV3UWXFXNFBE5EDS5NTOMNRCXI/</guid>
-      <dc:creator>백정현 우리아이들병원 병원장</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:40:00 +0000</pubDate>
-      <content:encoded>아이가 기침을 할 때 가래 끓는 소리가 나면 부모들은 걱정부터 앞서게 됩니다. ‘우리 아이는 감기만 걸리면 꼭 기침이 심해지고 기관지염이나 폐렴으로 넘어가는데, 선천적으로 기관지가 약한 걸까?’라는 고민을 하게 되죠. 하지만 이는 단순히 기관지가 약해서라기보다, 아직 ‘아이’라는 생물학적 특성과 환경적 요인이 복합적으로 작용하기 때문이랍니다.&lt;br&gt;&lt;br&gt;아이들이 감기에 걸렸을 때 쉽게 기관지 질환으로 이어지는 핵심적인 이유는 해부학적 미성숙함에 있습니다. 어린아이들은 몸이 작은 만큼 기도 역시 성인에 비해 매우 좁아요. 약간의 염증으로 점막이 붓거나 가래만 차도 기도가 쉽게 좁아집니다. 그래서 기침이 심해지고, 쌕쌕거리는 소리가 나기 쉽습니다. 또 아이들의 기관지 연골은 아직 단단하지 않고 부드러워서 기침을 세게 하거나 호흡이 가빠지면 기도가 쉽게 눌리거나 좁아지게 돼요.&lt;br&gt;&lt;br&gt;면역 체계 역시 완전히 갖춰지지 않았어요. 호흡기 점막에는 외부 침입자를 막아주는 면역 물질이 존재하는데, 아이들은 아직 이 방어막이 완벽하게 구축되지 않아 바이러스가 코나 목에서 기관지, 폐로 전파되는 속도가 훨씬 빨라요.&lt;br&gt;&lt;br&gt;어린이집이나 유치원 등 단체 생활을 일찍 시작하는 것도 원인입니다. 다양한 바이러스에 노출돼, 이미 걸린 감기가 다 낫기도 전에 새로운 바이러스에 감염되면서 기관지가 쉴 틈 없이 자극을 받는 상태일 수 있어요.&lt;br&gt;&lt;br&gt;이외에도 간접흡연, 미세 먼지, 건조한 실내 공기 등 환경적 자극은 기관지 점막의 청소 기능을 담당하는 ‘섬모’의 운동을 방해해요. 결국 깨끗하게 걸러지지 못한 바이러스가 기관지 깊숙이 침투하기 좋은 환경이 만들어지는 것이죠.&lt;br&gt;&lt;br&gt;그렇다면 어떻게 관리해 줘야 할까요? 충분한 수분을 섭취할 수 있게 해 주세요. 가래가 끈적해지지 않도록 물을 자주 마시게 하는 것이 좋습니다. 점막이 촉촉해야 바이러스를 걸러내는 방어 기전이 원활하게 작동합니다. 실내 습도는 50~60%로 유지해 주세요. 건조한 공기는 기관지의 가장 큰 적입니다. 특히 기침이 심한 밤에는 가습기를 활용해 적정 습도를 유지해 주는 것이 필수적입니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교회커플서 삼공주 엄빠로… “아이들 수다소리에 행복해요”</title>
-      <link>https://www.chosun.com/national/education/2026/05/01/TFMPIYPE5FBODJ2KMNAPGFCN5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/01/TFMPIYPE5FBODJ2KMNAPGFCN5U/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPGJSYOQD5D65AJUG74O4IZJH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 충북 충주시에 있는 한 교회 앞에서 이태영(맨 왼쪽)·김동녘씨 가족이 함께 사진을 찍고 있는 모습. 엄마 이씨 품에 안긴 아이가 첫째 아인이고, 둘째 아엘(가운데)이와 셋째 아림(맨 오른쪽)이는 아빠 김씨 팔에 매달렸다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘인간은 계획하고, 신은 웃는다’라는 서구권 속담처럼 세쌍둥이 자매 아인·아엘·아림(3)이는 예상치 못한 타이밍에 이태영(34)·김동녘(46) 부부를 찾아왔다. 목사인 김씨는 2017년 교회에서 교인이던 아내 이씨와 만나 이듬해 결혼했다. 4년여 동안 자녀가 생기지 않았고, 부부는 2023년 초 김씨의 신학 박사 학위 취득을 위해 미국 유학을 준비하고 있었다. 그런데 신은 출국을 몇 주 앞두고 부부에게 삼둥이를 안겼다.&lt;br&gt;&lt;br&gt;아내 이씨가 “하나님 뜻에 한번 맡겨보자”며 큰 기대 없이 시도했던 시험관 시술이 단번에 성공한 것이다. 이처럼 수월하게 성공할 줄은 전혀 예상하지 못했다고 한다. 김씨는 “아내가 갑자기 하혈을 해 시험관 시술에 실패해 유산한 줄 알고 응급실로 허겁지겁 달려갔다”며 “그런데 의료진이 세 쌍둥이를 임신했다고 하더라”고 했다. 부부가 함께 미국으로 가려던 계획은 어그러졌다. 아내 이씨는 “지금이 아니면 남편이 공부할 때가 없을 것이라고 생각해 혼자 가라고 했다”며 “임신했을 때 친정에서 지내며 두 동생이 저를 알뜰살뜰 돌봐줘 남편의 부재가 크지는 않았다”고 했다. 남편 김씨는 이때부터 지금까지 3개월 단위로 미국과 한국을 오가며 학업과 육아를 병행하고 있다.&lt;br&gt;&lt;br&gt;다태아 산모는 대부분 고혈압 등 임신 중독증을 앓으며 임신 말기 거동이 어렵다. 그런데 이씨는 입덧이 조금 심했을 뿐 아무런 잔병치레를 하지 않았다고 한다. 임신 말기에도 혼자 걸어 다닐 정도로 건강했다. 이에 병원에선 제왕절개가 아닌 자연분만을 추천했다고 한다. 산모 회복이 빠르고 합병증 가능성도 적기 때문이다.&lt;br&gt;&lt;br&gt;이씨는 출산 예정일 3주 전부터 병원에 입원해 자연분만을 준비했다. 그러나 신은 또 이 계획을 그대로 받아들이지 않았다. 자연분만은 했지만, 이씨는 과다 출혈로 응급 수술에 수혈만 6팩을 받는 등 생사를 오갔다. 남편 김씨는 “출산이 끝나고도 7시간가량 수술과 치료를 받고 나온 아내의 얼굴을 보는 순간 눈물부터 났다”고 했다. 하지만 이씨는 “결국 아이들이 모두 건강하지 않느냐. 삼둥이를 위해서 그 정도는 참을 수 있다”며 웃었다고 한다.&lt;br&gt;&lt;br&gt;이렇게 일란성인 첫째 아인과 둘째 아엘, 이란성인 셋째 아림이 태어났다. 다태아는 대부분 동맥관 개존증(동맥관이 정상적으로 닫히지 않고 열려 있는 것) 등 질환을 하나씩 앓는 경우가 많다. 그런데 모두 별다른 질환 없이 건강했다. 육아는 이들이 사는 충북 충주로 남편 김씨의 부모님이 이사를 와 도와주고 있다. 김씨 역시 미국에서 한 학기가 끝날 때마다 곧장 귀국해 육아에 전념했다. &lt;br&gt;&lt;br&gt;아내 이씨는 “아이들이 신생아 때 배앓이가 심해 끊임없이 울었던 것이 가장 힘들었다”며 “체력적인 한계 때문에 아이들에게 더 잘해주지 못한다는 마음에 속상했다”고 했다. 이씨는 출산하며 겪은 고통 때문에 무릎에 물이 계속 차고 손목뼈도 어긋나는 등 건강이 악화됐다. 그럼에도 아이들의 손짓 한 번, 미소 한 번이 이 부부를 견디게 한다. 김씨는 “외출 준비를 하는데 아이가 와서 같이 나가자고 그 작은 손으로 제 손을 잡더라”며 “작은 기쁨의 순간들이 모여 우울감을 씻어냈다”고 했다. 이씨는 “아침이 되면 아이들이 침대에 올라와 ‘엄마 잘 잤어’라고 웃는다”고 했다.&lt;br&gt;&lt;br&gt;특히 지난해부터 삼둥이가 말을 본격적으로 시작하면서 집 안은 딸들의 조잘조잘대는 소리로 시끌벅적하다고 한다. 첫째 아인은 엄마가 아프다고 하면 ‘호호’ 바람을 불고 따라다니며 간병을 하는 통에 ‘사랑둥이’라는 별명을 얻었다. 둘째 아엘은 틈날 때마다 스스로 러시아 음악가 차이콥스키의 ‘백조의 호수’를 틀고 한 번도 본 적 없는 발레를 흉내 내는 예술가 기질을 가졌다. 셋째 아림은 키가 제일 큰데 언니들이 괴롭히고 장난감을 빼앗아도 마냥 참으며 내어주는 순둥이라고 한다.&lt;br&gt;&lt;br&gt;부부는 마치 자신들의 계획에서 벗어난 것처럼 보였던 임신·출산·육아의 시간이 결국 자신들을 더욱 성장시키는 밑거름이었다고 했다. “아이들의 눈동자에 비친 제 모습, 사랑이 담긴 말 한마디를 통해 제가 세상에 존재하고 있음을 느낀다”며 “저의 부모님과 이웃의 삶을 이해하게 되며 세상을 대하는 태도가 달라졌다”고 했다.&lt;br&gt;&lt;br&gt;부부는 국가에서 아이 돌봄 정책을 더 적극적으로 확대해야 한다고 입을 모았다. 현재 성평등가족부의 ‘아이돌봄 서비스’를 이용하며 육아 부담을 크게 줄였지만, 지방이라 인력이 적고 돌봄 난도가 높은 삼둥이인 탓에 처음엔 돌보미 선생님을 구하기가 여간 쉽지 않았다고 한다. 이씨는 “삼둥이 엄마들끼리 모인 커뮤니티에서 돌보미 선생님을 몇 달째 구하지 못해 고민이라는 얘기가 늘 나온다”며 “정부에서 돌봄 걱정 없는 환경을 만드는 것이 저출산 극복의 핵심 아닐까 생각한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(betterfuture@korea.kr)로 사연을 보내주세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 이한솔·김다빈 딸 하리 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/05/01/XLKJEMBXJJFJHCWBHGCTHBEH5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/01/XLKJEMBXJJFJHCWBHGCTHBEH5M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:40:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FS6K5N7VXJBPNLPFG2NHWN27EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>철거 위기 넘긴 ‘밥퍼’… 동대문구 상대 소송서 최종 승소</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/QFLOG2YEV5EVPBLQRZ3ZAJX6AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/QFLOG2YEV5EVPBLQRZ3ZAJX6AQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 11:17:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3GEY3EMEZWCNZRHA3WCNDBGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;34년째 노숙인과 노인을 대상으로 무료급식사업을 벌인 밥퍼나눔운동(밥퍼). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 청량리역 인근에서 노숙인 무료 급식을 하는 다일복지재단이 무허가 건물 철거 명령을 내린 구청을 상대로 낸 소송에서 최종 승소했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 30일 다일복지재단이 동대문구를 상대로 낸 시정 명령 처분 취소 소송에서 원고 승소 판결한 원심을 심리불속행 기각으로 확정했다.&lt;br&gt;&lt;br&gt;다일복지재단은 노숙인에게 무료 식사를 제공하는 ‘밥퍼’ 활동으로 잘 알려진 단체다. 하지만 재단이 2021년 7월 기존 건물 양측에 3층짜리 건물 2개 동을 증축해 무료 급식소를 확장하면서 문제가 불거졌다. 재단은 해당 건물을 급식소와 식당, 식자재 보관 공간으로 활용할 계획이었다.&lt;br&gt;&lt;br&gt;건축 허가권자인 동대문구는 기존 건물을 모두 철거한 뒤 2개 동을 신축하는 조건으로 허가를 내줬다. 그런데 재단은 허가 내용과 달리 기존 건물을 철거하지 않은 채 증축을 진행했다. 이에 동대문구는 해당 건물을 ‘무허가 건물’로 보고 2022년 12월 무허가 철거 시정 명령을 내리는 한편, 이행 강제금 2억8300만원을 부과했다. 재단 측은 이 같은 처분이 부당하다며 이듬해 1월 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심은 재단 손을 들어줬다. 재판부는 재단이 증축을 추진하는 과정에서 구청이 별도의 허가나 신고가 필요 없다는 취지의 입장을 반복적으로 밝힌 점을 근거로 들었다. 2심도 같은 취지로 동대문구의 항소를 기각했다. 대법원 역시 심리불속행 기각으로 상고를 받아들이지 않으면서 재단 승소가 확정됐다. 심리불속행 기각은 민사·행정 사건에서 본안 심리 없이 상고를 기각하는 제도다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전 백화점서 옛 연인에 ‘칼부림’ 40대男 체포</title>
-      <link>https://www.chosun.com/national/incident/2026/04/30/NH65LYE2BNEQNDIDZYQ3YYABPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/04/30/NH65LYE2BNEQNDIDZYQ3YYABPY/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 11:20:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCNTEGFRTENTBG5SWINJYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 도심의 한 백화점에서 40대 남성이 전 연인이었던 20대 여성에게 흉기를 휘두르는 사건이 발생했다.&lt;br&gt;&lt;br&gt;대전 둔산경찰서는 살인미수 혐의로 A(40대)씨를 현행범으로 체포해 조사하고 있다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 이날 오후 5시 55분쯤 대전 서구 둔산동 소재의 한 백화점 지하 2층에서 20대 여성 B씨를 향해 흉기를 휘두른 혐의를 받는다. 신고를 받고 출동한 경찰은 사건 현장에서 A씨를 즉각 제압해 긴급체포했다.&lt;br&gt;&lt;br&gt;이날 범행으로 팔과 다리 등에 자상을 입은 B씨는 인근 병원으로 옮겨져 치료를 받고 있다. 다행히 생명에는 지장이 없는 상태인 것으로 전해졌다. 범행 당시 A씨는 B씨 외에 다른 시민이나 고객들에게는 흉기를 휘두르지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 두 사람은 해당 백화점 내 입점 점포에서 함께 근무하던 직원으로 과거 연인 사이였던 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 원한 관계 등 정확한 범행 동기와 경위를 집중적으로 조사하고 있다”며 “조사를 마치는 대로 구속영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>항소심서 형량 늘어난 윤석열·김건희 나란히 상고... 대법원 간다</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/C6OC5CUAGZAMXIWSRUB37IM72M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/C6OC5CUAGZAMXIWSRUB37IM72M/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 10:47:04 +0000</pubDate>
-      <content:encoded>항소심 재판에서 형량이 늘어난 윤석열 전 대통령 부부가 30일 판결에 불복해 상고했다. 윤 전 대통령은 ‘체포 방해’ 등 혐의 사건 항소심에서 징역 7년을 선고받았다. ‘도이치모터스 주가 조작’ 혐의 등 사건으로 기소된 김 여사는 항소심에서 징역 4년이 선고됐다. 모두 1심보다 형량이 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7LUWFOEWFDDZN7KPE2LELGC6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 이날 내란전담재판부인 서울고법 형사1부(재판장 윤성식)에 상고장을 제출하고, 상고이유서를 준비 중인 것으로 전해졌다. 윤 전 대통령 측은 지난 29일 판결에 대해 “깊은 유감을 표명한다”며 “추후 대법원에서 국무위원 심의권 침해의 성립 범위, 외신 대상 허위 공보와 직권남용의 한계, 공수처 수사권의 범위, 영장 집행의 적법성, 특수공무집행방해 등 핵심 쟁점에 대하여 보다 엄중한 법리 판단이 이루어질 수 있도록 최선을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;형사1부는 지난 29일 1심(징역 5년)보다 형량이 2년 늘어난 징역 7년을 선고했다. 1심이 유죄로 인정한 혐의에 대한 유죄 판단은 그대로 유지하면서, 1심에서 무죄를 선고했던 혐의 대부분에 대해서도 유죄를 선고한 것이다. 재판부는 특히 윤 전 대통령이 받고 있는 계엄 선포 전 국무위원들의 국무회의 심의권 침해 혐의와 관련해 회의 소집 연락을 받고도 참석하지 못한 2명에 대해서도 심의권을 침해했다며 유죄를 선고했다. 1심 재판부는 이 부분에 대해선 무죄를 선고했었다. 그러나 항소심 재판부는 “국무회의 소집은 모든 국무위원이 참석할 수 있도록 충분한 시간을 줘야 하는데 현실적으로 도착이 어려운 시간에 통지해 심의권을 침해했다”고 했다. 재판부는 윤 전 대통령이 계엄 선포 후 외신 대변인에게 “합헌적 틀 안에서 조치를 취했다”는 내용의 입장문을 외신에 알리라고 지시한 혐의도 1심과 달리 유죄를 선고했다.&lt;br&gt;&lt;br&gt;이에 앞서 서울고법 형사15-2부(재판장 신종오)는 지난 28일 김 여사의 자본시장법 위반 등 혐의 사건 항소심에서 징역 4년과 벌금 5000만원, 추징금 2094만원을 선고했다. 1심의 징역 1년 8개월보다 형량이 두 배 넘게 늘었다. 1심에서 무죄가 선고됐던 주가 조작 혐의와 일부 금품 수수 혐의가 유죄로 인정된 데 따른 것이다.&lt;br&gt;&lt;br&gt;형사15-2부는 김 여사를 도이치모터스 주가 조작 공범으로 볼 수 없다는 1심 판결을 뒤집고 “주가 조작 세력인 블랙펄인베스트에 20억원짜리 증권 계좌를 맡기고 수익의 40%를 나눠 갖기로 한 것은 주가 조작에 가담한 것으로 봐야 한다”고 판단했다. 윤 전 대통령이 당선인 신분이던 2022년 4월 김 여사가 건진 법사 전성배씨를 통해 802만원짜리 샤넬백을 받은 혐의도 1심과 달리 유죄로 판단했다. 800만원이 넘는 가방을 단순히 친분 형성을 위한 막연한 기대 속에 주고받았다고 볼 수는 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, ‘양평고속도로 특혜 의혹’ 백원국 전 국토부 차관 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/KYKGMEZWVFD43KIYAWFC2R25DI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/KYKGMEZWVFD43KIYAWFC2R25DI/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 10:34:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBPUN3IV3NKNDKQ4FMVW4WAN4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;백원국 전 국토교통부 제2차관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검이 ‘양평고속도로 특혜 의혹’과 관련해 백원국 전 국토교통부 차관을 불러 조사한 것으로 30일 파악됐다. &lt;br&gt;&lt;br&gt;백 전 차관은 원희룡 전 국토부 장관 시절 2차관을 지냈다. 특검은 지난 1일 양평고속도로 특혜 의혹과 관련해 백 전 차관의 휴대전화 등을 압수한 바 있다. 특검은 같은 날 국가정보자원관리원과 국토부, 관련자의 주거지와 사무실 등도 압수수색해 양평고속도로 사업 관련 이메일과 작성 문건 등 자료를 확보했다. &lt;br&gt;&lt;br&gt;양평고속도로 특혜 의혹은 2023년 국토부가 서울~양평고속도로 사업을 추진하는 과정에서 김건희 여사 일가의 땅이 있는 곳으로 고속도로 건설 계획을 바꿔 특혜를 줬다는 내용이다.&lt;br&gt;&lt;br&gt;당초 2021년 예비타당성 조사를 통과한 양평군 양서면에 종점을 두기로 했는데, 국토부가 2023년 5월 김 여사 일가 땅이 있는 강상면 종점 노선을 검토하면서 의혹이 불거졌다. 논란이 커지자 당시 원희룡 전 국토부 장관은 같은 해 7월 사업 백지화를 선언했다. 이와 관련해 특검은 지난 3월 원 전 장관을 출국금지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘대장동 50억 클럽’ 권순일 전 대법관에 징역 1년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/P3PU7LJKVFC73CYQLUUZAXI6GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/P3PU7LJKVFC73CYQLUUZAXI6GI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 10:12:12 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKADCTZ343Y2PX3IZPEMLQHEFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권순일 전 대법관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김만배씨가 대주주인 화천대유자산관리(화천대유)에서 고문으로 재직하며 등록 없이 변호사 활동을 한 혐의로 재판에 넘겨진 권순일(67·사법연수원 14기) 전 대법관에게 검찰이 징역 1년을 구형했다. 권 전 대법관은 “검찰이 범죄를 만들었다. 이러니 검찰청이 없어지는 것”이라고 반발했다.&lt;br&gt;&lt;br&gt;검찰은 30일 서울중앙지법 형사21단독 김대규 부장판사 심리로 열린 권 전 대법관의 변호사법 위반 혐의 결심 공판에서 “전직 대법관의 변호사법 위반 범행으로 사안이 가볍지 않다”며 “권 전 대법관은 2년간 2억 2000만 원의 변호사 직무 수행 대가를 약정하고 2020년 11월부터 9월경까지 1억 5000만 원을 실제로 수수했다”고 했다.&lt;br&gt;&lt;br&gt;권 전 대법관은 2020년 9월 퇴임 후 대한변호사협회에 등록하지 않은 채 2021년 1월~8월 화천대유 고문으로 활동하며 민사소송 상고심과 행정소송 재판의 법률 문서를 작성해주고 대응 법리를 만들어주는 등 변호사 직무를 수행하고 그 대가로 1억 5000만 원을 수수한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;권 전 대법관은 이에 대해 “법률 문화 사업을 도와달라는 뜻에서 고문으로 일한 것”이라며 “독립적 지위에서 대가를 받고 법률 사무를 한 것이 아니라 회사 소속 근로자로서 경영 전반에 대해 자문한 것에 불과하다”고 주장했다.&lt;br&gt;&lt;br&gt;권 전 대법관은 또 “제가 배운 것은 ‘죄는 검찰이 만드는 것’이라는 사실이었다”고 했다. 그는 “검찰이 수사권도 없는 사건을 강제로 재이송받아 압수수색과 포렌식을 진행한 것은 직권남용”이라며 “이런 수사가 적법한 수사냐, 그러니까 검찰청이 없어지는 것 아니냐”고 했다.&lt;br&gt;&lt;br&gt;그는 과거 윤석열 전 대통령과 한동훈 전 국민의힘 대표의 검찰 시절 ‘사법 행정권 남용’ 수사 당시 “이재명 대통령 재판에서 (무죄) 다수 의견을 썼다는 이유로 집요하게 괴롭히는 것 아닌가 생각한다”고도 했다.&lt;br&gt;&lt;br&gt;권 전 대법관의 변호인도 “일반 회사에 고용돼 자문하는 업무를 변호사법 위반으로 처벌한다면, 현재 활동하는 수많은 자격사가 위법자가 될 것”이라며 “이번 기소는 검찰의 편파적인 공소권 남용”이라고 했다. 권 전 대법관의 1심 선고 공판은 오는 6월 11일에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 대검 “조작기소 특검법, 재판에 부당한 영향 줄 것…우려스러워"</title>
       <link>https://www.chosun.com/national/court_law/2026/04/30/VR5H2CJN3VD53H65P5H5BBFCCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/VR5H2CJN3VD53H65P5H5BBFCCU/</guid>
@@ -916,37 +946,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 09:49:03 +0000</pubDate>
       <content:encoded>더불어민주당이 30일 발의한 이재명 대통령 연루 사건의 공소를 취소할 수 있도록 한 특검법을 두고 검찰이 “재판의 독립성에 부당한 영향을 끼칠 가능성이 있어 우려스럽다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘강북 모텔 살인’ 김소영 추가 기소</title>
-      <link>https://www.chosun.com/national/national_general/2026/04/30/6LYZF4YVBFFJRP7BSURGEL63LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/04/30/6LYZF4YVBFFJRP7BSURGEL63LA/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 07:56:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRDAOJXHAZWGOJXMNTGKZTCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강북 모텔 연쇄살인 김소영/인스타그램·서울북부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘강북 모텔 살인범’ 김소영(20)이 추가 범행으로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울북부지검은 서울 강북 지역에서 남성들을 연쇄 살인한 김소영에 대해 특수상해·마약류관리법 위반죄로 추가 기소했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;김소영은 지난해 10월부터 올해 1월까지 피해 남성 3명에게 벤조디아제핀 계열의 향정신성 의약품을 탄 술이나 숙취 해소제를 마시도록 해 상해를 입힌 혐의를 받는다.&lt;br&gt;&lt;br&gt;이에 김소영은 지난달 10일 살인·특수상해·마약류관리법 위반 혐의로 구속 기소됐는데, 검찰이 수사 과정에서 같은 수법으로 의식 불명 상태에 빠졌던 추가 피해자 3명을 확인했다. 이로 피해자는 기존 3명에서 총 6명으로 늘었다. &lt;br&gt;&lt;br&gt;한편 현재 김소영은 앞서 구속 기소된 사건으로 서울북부지법에서 재판을 받고 있다. 지난 9일 열린 첫 공판에선 “살인의 의도는 없었다”며 혐의를 부인했다. &lt;br&gt;&lt;br&gt;다음 재판은 오는 7일 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FHS67VVD6RHZFIA7U5RANZQNIM.JPG?auth=37a6fb9d92b4cd56d5e88efcaf608be72471beed7a489dea2c4d28f05791c26f&amp;smart=true&amp;width=1267&amp;height=950" type="image/jpeg" height="950" width="1267">
-        <media:description type="plain">'강북구 모텔 연쇄 살인 사건' 피의자 김소영</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>종합특검, 구자현 검찰총장 대행·대검 감찰부장 징계 요청…“수사 방해”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/C6JZRUF3UZEWDLFVTPFOPXX3NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/C6JZRUF3UZEWDLFVTPFOPXX3NI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 06:14:12 +0000</pubDate>
-      <content:encoded>2차 종합특검이 30일 “검찰이 특검 수사를 방해했다”며 구자현 검찰총장 직무대행과 대검찰청 김성동 감찰부장에 대한 징계를 법무부에 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DSZRTG43DKNJTGBSTMMRWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특검팀  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 “12·3 비상계엄 관련 수사를 진행하면서 대검찰청에 자료 제출 등 수사 협조를 요청했지만, 대검은 법률적 근거 없이 ‘특검이 요구한 자료 일체는 관련 규정에 따라 제공할 수 없다’며 협조를 거부했다”고 밝혔다.&lt;br&gt;&lt;br&gt;구체적으로 “지난달 25일 검찰청 헌법존중 정부혁신 TF 조사 자료 송부해달라고 대검에 요청했지만, 대검은 지난 28일 해당 자료가 관련 규정상 비공개 대상이라는 이유로 제공을 거부했다”고 설명했다. 이에 대해 특검은 “특검법 규정에 반하는 것이자 특검의 수사를 심각하게 방해하는 행위”라고 했다.&lt;br&gt;&lt;br&gt;특검법 6조는 특별검사가 직무 수행에 필요한 경우 대검찰청 등 관계 기관에 수사 기록과 증거 등 자료 제출을 요청할 수 있도록 하고 있다. 또 정당한 사유 없이 이를 따르지 않을 경우 특별검사가 관계 기관의 장에 대해 징계 절차 개시를 요구할 수 있도록 규정하고 있다. 특검은 이를 근거로 “수사 방해 행위자인 검찰총장 직무대행과 대검찰청 감찰부장에 대한 징계 절차 개시를 법무부 장관에게 요청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검이 제출을 요구한 자료는 심우정 전 검찰총장의 비상계엄 관여 의혹을 수사하는 과정에서 필요한 것으로 알려졌다. 특검은 심 전 총장이 비상계엄 당일, 박성재 전 법무부 장관의 지시를 받고 합동수사본부에 검사 파견을 검토한 경위를 들여다보고 있다. 이와 관련해 특검은 최근 대검과 검찰 내부망 서버 등을 압수수색한 바 있다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “특검법과 관련 규정에 따라 필요한 조치 등을 검토해보겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법, 동아운수 통상임금 소송 “노사 합의된 시간으로 수당 계산해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/04/30/OMJ5BJSUWNHZJN2PMUWXWKH5W4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/04/30/OMJ5BJSUWNHZJN2PMUWXWKH5W4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 05:39:27 +0000</pubDate>
-      <content:encoded>서울 시내버스 노사 갈등의 불씨를 댕겼던 동아운수 버스 기사들의 통상임금 소송에서 대법원이 버스 기사들의 주장을 받아들여, 실제 근로 시간이 아니라 노사가 합의한 ‘보장 근로시간’을 기준으로 연장·야간 근로 시간을 지급해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTGCNZXHE4TSODFGFRTIMLEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시내버스 운행 모습.(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 동아운수 전·현직 버스 기사 97명이 회사를 상대로 낸 임금 소송에서 미지급 연장·야간 근로 수당 청구 부분에 대한 원심을 깨고 사건을 서울고법으로 돌려보냈다고 30일 밝혔다. 2심에서 기사들이 패소한 부분 중 일부만 파기하고, 나머지 판단은 그대로 유지했다.&lt;br&gt;&lt;br&gt;동아운수는 2012년 6월부터 2015년 6월까지 서울시버스운송사업조합과 전국자동차노동조합연맹 서울시버스노동조합이 체결한 단체협약과 임금 협정에 따라 버스 기사들에게 임금을 지급했다. 협약에 따르면 주 5일 근무일에는 소정 근로 8시간에 연장 근로 1시간을 더해 하루 9시간 근무한 것으로 간주하고, 격주로 이뤄지는 연장 근무일에는 5시간의 연장 근로를 한 것으로 보고 수당을 지급한다.&lt;br&gt;&lt;br&gt;이에 따라 실제 근로 시간이 이에 미치지 않더라도 주 5일 근무일에는 1시간분의 연장 근로 수당(기본 시급의 150%)이, 연장 근무일에는 5시간분의 시프트(교대) 근로 수당(기본 시급의 150%)이 지급된다. 야간 근로를 한 경우에도 오전 근무자는 2시간, 오후 근무자는 3시간을 근무한 것으로 간주해 야간 근로 수당(기본 시급의 150%)이 지급된다.&lt;br&gt;&lt;br&gt;동아운수 전·현직 기사들은 2015년 “정기 상여금을 통상임금으로 인정해 미지급된 수당을 다시 계산해 달라”며 회사를 상대로 소송을 제기했다.&lt;br&gt;&lt;br&gt;2019년 2월 1심은 “정기 상여금에는 ‘고정성’이 없다”며 이를 통상임금으로 인정하지 않았다. 그러나 지난해 10월 2심은 이러한 판단을 뒤집었다. 2024년 12월 대법원 전원합의체가 통상임금의 ‘고정성’ 요건을 폐기하는 취지의 판결을 내린 것이 계기가 됐다.&lt;br&gt;&lt;br&gt;기존에는 통상임금으로 인정되려면 임금의 지급 여부나 금액이 사전에 확정돼 있어야 한다는 ‘고정성’ 요건이 필요했다. 하지만 이 요건이 폐기되면서, 상여금처럼 지급에 일정한 조건이 있더라도 근로의 대가로 정기적·일률적으로 지급된다면 통상임금에 포함될 수 있게 됐다. 이에 따라 2심 재판부는 변경된 대법원 판례를 근거로 “서울 시내버스의 정기 상여금은 소정 근로의 대가로서 정기성·일률성을 충족한다”며 통상임금에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;다만 2심 재판부는 연장·야간 근로 수당을 계산할 때 실제 근무한 시간으로 계산하도록 판결했다. 이에 당시 노조가 동아운수 측에 청구한 미지급 연장·야간 근로 수당 18억9500만원 중 8억4382만원만 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;대법원은 정기 상여금을 통상임금으로 인정한 원심 판단을 유지했다. 다만 대법원은 원심이 간주 근로 시간이 아닌 실제 근로 시간만큼 연장·야간 근로 수당을 지급하도록 판결한 부분에 대해선 법리를 오해했다고 보고 파기했다.&lt;br&gt;&lt;br&gt;대법원은 “노사 간에 연장·야간 근로 시간에 대해 실제 근로 시간과 관계없이 일정 시간을 연장·야간 근로 시간으로 간주하기로 하는 합의가 있었고, 이에 따라 원고들에게 연장·야간 근로 수당을 지급했다”며 “원고들의 연장·야간 근로 시간이 보장 시간에 미달하더라도 그 보장 시간을 기준으로 삼아야 한다”고 판단했다. 버스 회사 노사가 연장·야간 근로 시간을 실제 근로 시간과 무관하게 일정 시간으로 인정하기로 합의했다면, 임금을 계산할 때도 실제 근로 시간이 아니라 합의된 시간을 기준으로 해야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 “상여금을 통상임금에 반영해 연장·야간 근로 수당을 재산정할 때에도 근로자들의 실제 연장·야간 근로 시간이 보장 시간에 미달하는 경우에는 보장 시간이 기준이 되어야 한다는 기존 법리를 재확인한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;결과적으로 실제 일한 시간이 아닌 당초 노사가 합의한 보장 근무 시간을 기준으로 밀린 수당을 다시 계산해야 해 파기환송심을 거쳐 버스 기사들이 사측으로부터 받아낼 최종 임금 규모는 원심보다 더 늘어날 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
