@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 5월 4일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/03/CD4BJ4VHXBE4NHSPQ2L6P3SGSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/03/CD4BJ4VHXBE4NHSPQ2L6P3SGSU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 14:32:00 +0000</pubDate>
+      <content:encoded>오후에 차차 맑아져&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CISDL5I475D6VN4YZEB4FJ4B7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박왕열에 100억대 마약 공급한 혐의 ‘청담’ 구속 </title>
+      <link>https://www.chosun.com/national/2026/05/03/DCEPIV2KRNCZ3FZFLPBLJAO46Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/03/DCEPIV2KRNCZ3FZFLPBLJAO46Q/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 12:32:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2G23WMTIOVIIFGXK67GHQGEHKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'마약왕' 박왕열에게 마약을 공급한 혐의로 구속영장이 청구된 '청담사장' 최모(51)씨가 구속 전 피의자 심문(영장실질심사)에 출석하기 위해 3일 경기 수원시 장안구 경기남부경찰청 마약·국제범죄수사대를 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘필리핀 마약왕’으로 불리는 박왕열에게 필로폰 등 마약류를 공급한 혐의를 받는 최모(51)씨가 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 영장 당직 박소영 판사는 3일 오후 3시 30분쯤 마약류관리법 위반 등 혐의를 받는 최씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 “증거 인멸 및 도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;최씨는 지난 2019년부터 필로폰 22㎏ 등 총 100억원대 마약류를 국내에 밀반입하거나 유통한 혐의(마약류관리법 등 위반)를 받는다. &lt;br&gt;&lt;br&gt;최씨는 텔레그램에서 ‘청담’ ‘청담사장’ 등의 활동명을 썼다. 최씨는 범죄 수익으로 가족과 청담동에 거액 부동산을 소유하고, 고액의 ‘슈퍼카’를 타고 다니는 등 호화 생활을 한 것으로 드러났다. &lt;br&gt;&lt;br&gt;경찰은 지난 3월 25일 필리핀에서 강제 송환된 박왕열을 수사하는 과정에서 최씨가 마약 공급책이라는 단서를 확보했다. &lt;br&gt;&lt;br&gt;경찰은 최씨가 태국에 거주 중인 사실을 확인하고, 태국 경찰과 공조 수사에 나서 지난달 10일 태국 현지에서 검거했다. &lt;br&gt;&lt;br&gt;최씨는 경찰 조사에서 별건의 다른 마약 혐의에 대해서는 일부 인정했으나, 핵심 수사 대상인 박왕열과의 연관성에 대해서는 “모르는 사람”이라는 등 혐의를 부인한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 앞서 태국에서 최씨를 압송하며 현지에서 확보한 휴대전화 13대 등을 압수해 디지털 포렌식하는 등 증거물 분석에 집중하고 있다.&lt;br&gt;&lt;br&gt;경찰은 구속된 최씨를 상대로 박왕열과의 거래 규모와 정확한 범죄 수익을 확인하고 최씨의 여권법 위반 혐의 등 전반에 대해 수사할 계획이다.&lt;br&gt;&lt;br&gt;아울러 태국 현지에 마약 생산 공장이 있는지 등도 공조 수사를 통해 밝혀낼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“내 오른쪽은 우리 특검님”… SNS에 임명장·진술조서 올린 수사관</title>
       <link>https://www.chosun.com/national/court_law/2026/05/03/JA6SAXPKLFHNVAXXYMI7KSJNNA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/JA6SAXPKLFHNVAXXYMI7KSJNNA/</guid>
@@ -879,25 +897,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/BXVQQSEBIJFOTNOPOOT4FNQFGY.jpg?auth=ce1ef46c206d64870f3a94a8c578da1c40cd1c866dcf828763fa5f499a65d37e&amp;smart=true&amp;width=4000&amp;height=2958" type="image/jpeg" height="2958" width="4000">
         <media:description type="plain">23일 서울 동작구 보라매공원에서 열린 2025 서울국제정원박람회를 찾은 시민들이 등나무 터널을 즐기고 있다. 2025.5.23. / 고운호 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>눈부신 봄날… 오늘부터 최대 5일 연휴</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/01/62CLJYRXAZD6FHW47PEMGH6LLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/01/62CLJYRXAZD6FHW47PEMGH6LLU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:56:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUJLCIPHERDCVBOW4BISBL2MSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 전남 순천시 순천만국가정원을 찾은 시민들이 산책을 즐기고 있다. 정원에 보라색 알리움 꽃이 활짝 폈다. 알리움은 4~5월에 공 모양 꽃을 피운다. 노동절인 1일부터 어린이날인 5일까지 최대 5일간 ‘징검다리 연휴’가 시작됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[바로잡습니다] 4월 27일 자 A2면 ‘동맹국에 더 거센 ‘트럼프 폭풍’…한국의 길 찾는다’ 기사 중 외</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/01/F5YHDRUZEFA23LYI7JF2FHZ5CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/01/F5YHDRUZEFA23LYI7JF2FHZ5CI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:55:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;4월 27일 자 A2면 ‘동맹국에 더 거센 ‘트럼프 폭풍’…한국의 길 찾는다’&lt;/b&gt; 기사 중 ‘그 여느 때보다’를 ‘그 어느 때보다’로, 그래픽 중 ‘티라니주’는 ‘티라나주’로 바로잡습니다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;4월 29일 자 A3면 ‘의원들 겸직정보 공개한 지방의회 12%뿐’ &lt;/b&gt;기사에서 제목과 본문에 나오는 ‘겸직정보’ ‘홈페이지 게시판에 공개한 정보’는 ‘겸직 및 징계 정보’이기에 바로잡습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>청정 봄나물로 봄기운 느껴볼까</title>
