@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“내 오른쪽은 우리 특검님”… SNS에 임명장·진술조서 올린 수사관</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/03/JA6SAXPKLFHNVAXXYMI7KSJNNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/JA6SAXPKLFHNVAXXYMI7KSJNNA/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 10:08:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2TCYRWMIZDAMJSGNTGCYJTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시에 있는 2차 종합특검팀 사무실./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검 소속 수사관이 임명장과 진술조서 등 특검 내부 자료를 소셜미디어에 게재해 논란이 일고 있다. 법조계에선 “수사가 끝나지도 않았는데 벌써부터 특검 경력을 개인 홍보 수단으로 이용하려 한다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 변호사 출신인 종합특검 소속 특별수사관 이모씨는 지난 2일 소셜미디어 ‘쓰레드’에 “늘 피의자 편에만 서다 난생 처음으로 수사기관에 들어왔다” “수사관 관점에서 수사 경력을 쌓으면 형사 사건에 대한 전문성이 극대화될 것”이라는 내용의 글을 올렸다. 이씨는 자신의 소셜미디어 계정 소개란에도 “이혼 전문” 등의 수식어에 더해 “특검 수사관 경력”을 써뒀다. &lt;br&gt;&lt;br&gt;이씨는 “(사진에서) 내 오른쪽에 있는 분이 우리 특검님”이라며 권창영 특검에게 임명장을 받는 사진과 자신의 이름이 적힌 사무실 팻말, 도장이 날인된 진술 조서를 글에 덧붙여 올렸다. 권 특검과 이씨의 얼굴은 모자이크 없이 그대로, 진술조서는 진술자 측 이름과 도장을 보라색으로 칠해 가려서 올렸다. 그러면서 “정치색 같은 건 없는 사람이라 보라색(더불어민주당을 상징하는 파란색과 국민의힘을 상징하는 빨간색을 섞은 색)으로 처리했다”고 했다.&lt;br&gt;&lt;br&gt;현재 게시물은 삭제된 상태다. 이씨는 게시물 작성 경위 등을 묻는 본지 질문에 답하지 않았다. 특검 측은 “해당 게시글의 적절성 및 징계 여부 등은 아직 논의된 바 없다”고 했다.&lt;br&gt;&lt;br&gt;특검 구성원들의 대외적 언행을 둘러싼 논란은 꾸준히 있어왔다. 앞서 지난달 9일 김지미 특검보는 ‘김어준의 겸손은 힘들다 뉴스공장’의 한 코너에 출연해 약 40분간 수사 상황을 설명해 “수사의 중립성이 우려된다”는 비판을 받은 적 있다. 또 권창영 특검은 참고인 조사를 받으러 출석한 최강욱 전 민주당 의원을 만나 “계엄을 뿌리 뽑으려면 특별 합동수사본부를 3년은 해야 될 것 같다”고 말했고, 이 사실은 최 전 의원이 친여 성향 유튜브에 출연해 언급하면서 알려졌다. 여권 정치인 입을 빌려 “수사 잘하고 있으니 관심 가져달라”는 메시지를 내보낸 것이라는 해석이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 풍력발전기 조류 충돌 조사…해외선 매년 수십만 마리 죽어</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/03/FYTDTSLRCVEWPAUVWEORZCNLPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/03/FYTDTSLRCVEWPAUVWEORZCNLPI/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 May 2026 09:19:25 +0000</pubDate>
+      <content:encoded>정부가 풍력발전기가 철새 등 생태계에 미치는 영향을 분석하는 연구에 나선다. 정부의 재생에너지 확대 정책에 따라 산지와 해안가에 풍력 터빈이 대거 들어설 전망인데, 풍력발전이 조류와 환경에 어떤 영향을 미치는지에 대해선 연구가 충분하지 않다는 지적에 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZUMNNZZEZFMVJC2EE52WK3SBAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 한림읍 해안도로에서 바라본 한림해상풍력발전기의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 기후에너지환경부에 따르면, 기후부는 풍력발전기가 철새 등 조류와 주변 생태계에 미치는 영향을 조사하고 피해를 줄일 방안을 검토하고 있다. 풍력 발전은 조류의 터빈 충돌뿐 아니라 생태계에 다양한 영향을 주는 것으로 알려져 있다. 철새 이동 경로에 발전 단지가 놓이면 새들이 이를 우회하면서 이동 경로가 달라질 수 있고, 산지나 해안가에 발전기를 설치하는 과정에서 서식지가 훼손될 수도 있다. 정부는 보안카메라 영상 등을 활용해 발전기가 조류에 미치는 영향을 정량 분석한다는 계획이다. &lt;br&gt;&lt;br&gt;앞으로 풍력발전 설비는 빠르게 늘어날 전망이다. 정부는 올해 초 기준 약 38GW인 재생에너지 발전 설비 용량을 2030년까지 100GW로 늘릴 계획이다. 이를 위해 현재 약 2GW인 육상풍력 설비 용량은 2030년 6GW까지 늘리고, 해상풍력은 0.35GW에서 4GW 이상으로 확대한다. 작년 말 이런 풍력 확대 계획을 발표할 당시 생태계에 미칠 영향을 충분히 고려하지 않았다는 비판이 나왔다. &lt;br&gt;&lt;br&gt;우리나라보다 앞서 풍력발전을 보급한 국가에선 풍력발전이 조류에 미치는 영향에 대한 연구가 적지 않다. 미국에선 매년 14만~57만3000여 마리의 새가 풍력 터빈에 충돌해 죽는다는 연구 결과도 있다. 풍력 터빈, 통신탑, 건물 등 구조물과 충돌해 죽는 사례는 전 세계적으로 매년 수십억 건에 달한다고 한다. 국내에선 풍력단지 주변의 조류 분포를 조사한 연구는 있지만, 풍력발전기에 실제 얼마나 많은 새가 충돌해 죽는지 등을 분석한 연구는 거의 없었다. &lt;br&gt;&lt;br&gt;정부는 풍력발전 사업자가 대체서식지를 찾는 기준을 구체화하는 방안도 검토하고 있다. 육상 풍력발전기는 바람이 강한 산 정상부나 능선에 들어서는 경우가 많은데, 주요 생물종의 서식지와 겹칠 가능성이 크다. 이 경우 사업자는 기존 서식지와 비슷하면서도 너무 멀지 않은 곳에 대체 서식지를 마련해야 하는데, 명확한 기준이 없어 후보지 선정에 어려움을 겪는 경우가 많다. 이를 위해 구체적인 가이드라인을 주겠다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“군대 왜 안갔냐 물어도 돼” 유승준, 유튜브 Q&amp;A 방송</title>
       <link>https://www.chosun.com/national/national_general/2026/05/03/2EYBMZHFGRBX3MVXQR7FGYTSLY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/03/2EYBMZHFGRBX3MVXQR7FGYTSLY/</guid>
@@ -880,25 +898,6 @@
       <description/>
       <pubDate>Thu, 30 Apr 2026 15:55:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;4월 27일 자 A2면 ‘동맹국에 더 거센 ‘트럼프 폭풍’…한국의 길 찾는다’&lt;/b&gt; 기사 중 ‘그 여느 때보다’를 ‘그 어느 때보다’로, 그래픽 중 ‘티라니주’는 ‘티라나주’로 바로잡습니다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;4월 29일 자 A3면 ‘의원들 겸직정보 공개한 지방의회 12%뿐’ &lt;/b&gt;기사에서 제목과 본문에 나오는 ‘겸직정보’ ‘홈페이지 게시판에 공개한 정보’는 ‘겸직 및 징계 정보’이기에 바로잡습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 특검 “수사 방해한 구자현 징계해달라”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/01/72NVCP3CB5HG3LHGILQXQS5YEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/01/72NVCP3CB5HG3LHGILQXQS5YEE/</guid>
-      <dc:creator>김나영 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFN5Y2UOJJOJPBBWAB3YTOLSVQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 검찰총장 직무대행이 지난 달 17일 오후 서울 서초구 대검찰청을 나서며 대장동·대북송금 의혹 사건을 둘러싼 정치권의 국정조사와 관련해 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 사건을 수사 중인 권창영 2차 종합특별검사팀이 30일 구자현 검찰총장 직무대행 등 검찰 지휘부가 특검 수사를 방해했다며 법무부 장관에게 징계를 요청했다.&lt;br&gt;&lt;br&gt;2차 종합특검은 이날 “구 총장 대행과 김성동 대검찰청 감찰부장이 자료 제출 거부 등으로 특검 수사를 방해했다”며 “이들에 대한 징계 절차 개시를 법무부 장관에게 요청했다”고 밝혔다. 특검 측은 지난 3월 25일 대검에 ‘검찰청 헌법존중 정부혁신 태스크포스(TF)’의 조사 기록을 달라고 요청했다. 그런데 대검이 최근 “비공개 대상”이라며 자료 제출을 거부했다는 게 특검 주장이다. 특검 관계자는 “종합특검법 규정에 반하는 것은 물론, 수사를 심각하게 방해하는 행위”라고 말했다.&lt;br&gt;&lt;br&gt;특검이 기록 제출을 요구한 관련 TF는 이재명 정부 출범 후 국무조정실이 주도해 윤석열 전 대통령의 12·3 비상계엄에 동조한 공직자를 찾기 위해 전 중앙부처에 설치됐다. 특검이 검찰 내부의 내란 동조 세력과 관련한 감찰 조사 기록을 확보하려다가 실패하자 검찰의 방해 때문이라고 규정하고 징계를 요구한 것이다. &lt;br&gt;&lt;br&gt;특검은 12·3 비상계엄 당시 검찰총장이었던 심우정씨가 계엄에 관여했다고 의심하고 있다. 심 전 총장은 비상계엄 당일, 박성재 당시 법무장관의 지시를 받아 계엄 합동수사본부에 검사 파견을 검토한 혐의를 받는다. 특검은 또 검찰이 작년 3월 윤 전 대통령의 구속이 취소됐을 때 즉시항고를 포기한 경위도 수사 중이다. 이와 관련해 특검은 지난달 24일 대검과 검찰 내부망 서버 등을 압수수색했다. &lt;br&gt;&lt;br&gt;특검은 검찰 지휘부에 대한 이번 징계 요청의 근거로 특검법 6조를 들었다. 이 조항은 ‘특검이 직무 수행에 필요한 경우 대검 등 관계 기관에 수사 기록과 증거 등 자료 제출을 요청할 수 있고, 수사에 협조하지 않을 경우 관계 기관의 장에 대해 징계를 요청할 수 있다’고 규정하고 있다. 이 규정에 따르면 대검은 특검 요청에 따라 자료를 제출해야 하는데 그러지 않았다는 게 특검 입장이다. 특검 관계자는 “특검은 수사 기한이 짧은데 일일이 법원이 발부한 압수수색 영장을 근거로 자료를 확보하라는 것은 말이 안 된다”며 “징계 요구는 대검이 지나치게 비협조적으로 굴어 전향적인 태도 변화를 촉구하는 차원”이라고 했다. &lt;br&gt;&lt;br&gt;이에 대해 대검은 “특검이 요청한 감찰 기록을 임의로 제공할 경우 정보공개법 저촉 가능성이 있어, 압수 영장에 의할 경우 제출할 의사가 있음을 전달했다”며 “징계 절차 개시를 요청한 것에 대해 유감을 표명한다”고 했다. 대검은 또 “특검법 6조는 특검의 우선적 수사권을 인정하는 조항이지, 관계 기관이 보유한 모든 자료를 제출받을 수 있는 규정은 아니다”라며 “특검 주장대로 해석할 경우 헌법상 영장주의에 위배될 가능성이 매우 크다”고 했다. 대검 관계자는 “특검에 이런 취지를 설명했고, 특검 측도 ‘알겠다’고 했는데 갑자기 징계를 요구하고 나오니 당황스럽다”고 했다. &lt;br&gt;&lt;br&gt;이에 대해 특검은 재차 입장문을 내고 “검찰의 TF 조사결과에는 ‘대상자들을 모두 조사했으나 해당 의혹은 사실이 아닌 것으로 확인됨’이라고 돼 있어 그 근거 자료를 확인할 필요가 있었다”며 “자료 요청 후 몇 차례 독촉 끝에 회신을 받았으나 ‘압수수색 영장 집행 시 협조하겠다’는 내용은 전혀 없었다”고 했다. 그러면서 “앞으로 대검이 특검 수사에 적극 협조하기를 촉구하며, 비협조가 계속되면 수사 방해로 보고 법적 조치를 취할 것”이라고 했다.&lt;br&gt;&lt;br&gt;특검의 징계 요청과 관련해 법무부 관계자는 “특검법과 관련 규정에 따라 총장 대행 등에 대한 필요한 조치를 검토해보겠다”고 했다.&lt;br&gt;&lt;br&gt;특검과 검찰이 갈등을 빚는 모양새를 보이자 법조계에서는 “의아하다”는 반응이 나온다. 부장검사 출신 변호사는 “정치적 목적으로 출범한 종합특검이나 현 검찰 지휘부는 사실상 같은 편인 셈인데, 자료 제출 방식을 두고 옥신각신할 이유가 있느냐”며 “특검이 수사 진척이 안 되니 애먼 곳에 화풀이하는 것 같다”고 했다. 그러나 특검 관계자는 “우리는 수사 기관이고, 대검은 특검의 수사 대상”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 김관영 전북도지사를 내란 동조 혐의 피의자로 불러 조사했다. 김 지사는 계엄 당일 전북도청 청사 폐쇄를 지시했다는 혐의를 받는다. 김 지사는 특검 출석에 앞서 기자들에게 “저희는 평상시와 동일한 방호 태세를 유지했고, 청사를 폐쇄한 일도 없다”며 “청사가 폐쇄된 일이 없기에 내란에 동조한 일도 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의왕 아파트 화재로 부부 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/01/O5FOS5UQEZFNFMY35QR7V5NYRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/01/O5FOS5UQEZFNFMY35QR7V5NYRU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Apr 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPWXF6I3XVCRVLBBSZX3GCBDEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 오전 경기 의왕시 내손동의 한 아파트 14층에서 불이 나 검은 연기가 창밖으로 치솟고 있다. 경기도소방재난본부 등에 따르면, 화재 직후 이 집에 살던 60대 남성 A씨가 추락해 숨졌고, 아내 B씨는 화장실에서 숨진 채 발견됐다. A씨의 옷 안에서는 경제적 어려움을 토로하는 유서 형식의 메모가 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>청정 봄나물로 봄기운 느껴볼까</title>
