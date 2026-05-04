@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“환풍기 시끄럽다” 2년간 식당 주인 괴롭혀 폐업시킨 이웃 ‘실형’  </title>
+      <link>https://www.chosun.com/national/national_general/2026/05/05/BHXY34HSJRHOFNSO5Y3AIRITXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/05/BHXY34HSJRHOFNSO5Y3AIRITXI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 May 2026 22:54:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환풍기 소음이 시끄럽다며 주거지 인근 식당 주인을 반복적으로 괴롭힌 50대가 스토킹 범죄 혐의로 실형을 선고받았다.&lt;br&gt;&lt;br&gt;5일 광주지법 형사4단독 서지혜 판사는 스토킹 범죄의 처벌 등에 관한 법률 위반 혐의로 재판을 받아온 50대 A씨에게 징역 10개월을 선고했다고 밝혔다. A씨에게는 40시간의 스토킹 치료프로그램 이수 명령도 내려졌다.&lt;br&gt;&lt;br&gt;A씨는 광주 북구 자신의 주거지 인근에서 식당을 운영하는 B씨에게 2023년부터 약 2년 동안 욕설이 섞인 문자메시지를 보내거나 식당 내외부를 촬영하는 등 반복적으로 불안감을 준 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;B씨는 A씨의 괴롭힘을 견디다 못해 결국 식당을 폐업했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자는 잦은 항의에 환풍기 모터 진동 감소 장치와 모터 진동 흡수장치 설치, 환풍기 일부 폐쇄 등의 조처를 했다”며 “구청 공무원도 민원 신고를 받고 소음 데시벨을 측정한 결과 피해자가 관련 법령을 위반하지 않았다고 판단했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인은 피해자를 상대로 한 민사소송에서 패소했음에도 스토킹 행위를 반복했고, 식당 영업에 상당한 지장을 받은 피해자는 결국 식당을 폐업했다”며 “피고인에 대한 엄한 처벌로 범행의 중대성과 심각성에 대한 인식을 제고할 필요가 있다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “새벽배송 주 48시간 땐, 택배비 1000원 올라”</title>
       <link>https://www.chosun.com/national/labor/2026/05/05/VKJ4EUD3O5AXFJILPF7Z2IVWSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/05/VKJ4EUD3O5AXFJILPF7Z2IVWSI/</guid>
@@ -952,15 +961,6 @@
       <description/>
       <pubDate>Fri, 01 May 2026 15:47:00 +0000</pubDate>
       <content:encoded>정부가 공공 부문에서 일하는 비정규직 근로자에게 추가 수당을 지급하는 이른바 ‘공정 수당’을 내년부터 도입한다고 발표했지만, 비정규직 노동자들은 공정 수당 도입 계획 철회를 주장하고 나섰다. 오히려 공정 수당이 비정규 제도를 고착화하는 부작용을 낳는다는 것이다.&lt;br&gt;&lt;br&gt;민주노총 산하 비정규직 노조 등이 주축인 ‘비정규직 이제그만 공동투쟁’은 노동절인 1일 서울 종로구 전태일다리에서 기자회견을 열고 “차별을 조금 완화한다고 차별 그 자체가 사라지는 것은 아니다”라며 “정부는 수당 몇 푼으로 비정규직의 눈을 가리지 마라. 우리가 원하는 것은 돈이 아니라 해고 걱정 없는 정규직화”라고 주장했다. 이어 “공정 수당은 비정규직 제도를 구조적으로 고착하는 시혜적 정책”이라면서 ‘공정 수당’ 철회를 촉구했다.&lt;br&gt;&lt;br&gt;공정 수당은 1년 미만 기간제 노동자에게 추가 수당을 지급해 고용 불안을 보상한다는 취지로 지난달 28일 정부가 내놓은 비정규직 처우 개선 대책이다. 내년에 공공 부문부터 공정수당을 지급할 계획이다. 고용노동부는 내년 예산안에 공정수당 몫을 반영하고, 내년 중 계약이 만료되는 공공 부문 기간제 근로자부터 수당을 지급하기로 했다. 노동부에 따르면, 공공부문 기간제 근로자는 약 14만6000명. 이 중 1년 미만 계약자는 약 7만3000명으로 추산된다. 근로 계약 기간에 따라 기준 금액(최저임금의 118%·254만5000원)의 8.5~10%를 추가 수당으로 받게 된다. 공공부문 비정규직으로 한 달만 근무해도 추가 수당 38만2000원을 받게 된다.&lt;br&gt;&lt;br&gt;이처럼 대규모 세금이 투입되지만, 막상 노동계 내에선 이를 놓고 “비정규직이 더 늘어날 수 있다”는 우려가 나오고 있다. 앞서 양대 노총 또한 “‘공정수당’이 해법은 아니다”라는 입장을 밝히기도 했다. “수당 몇 가지를 신설하는 것으로 근본 문제가 해결되지는 않는다”(한국노총), “비정규직 문제의 핵심은 정규직 전환”(민주노총)이라는 것이다. &lt;br&gt;&lt;br&gt;정부는 현재 공공 부문에만 시행하겠다고 밝혔지만, 앞으로 민간 부문으로 확대될 수 있다는 관측이 나온다. 정부는 “민간 부문 적용을 위해선 노·사·정 대화가 필요하다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 2일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/02/5QILJVX255CUHBLD45JGDX2DCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/02/5QILJVX255CUHBLD45JGDX2DCA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>‘최고 26도’ 포근, 수도권은 공기 탁해 &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PUVKBVTBNCJLIF6HMXVYE3JWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>맹그로브 군락 품은 원시의 섬… ‘동양의 갈라파고스’에서 누린 날것의 자연</title>
