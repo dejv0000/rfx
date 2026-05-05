@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>여주 곰 농장서 반달가슴곰 증식 정황...경찰 수사</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/05/PONJJZJ3ZBFP5ENE7Y7B5A4CGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/05/PONJJZJ3ZBFP5ENE7Y7B5A4CGI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 May 2026 11:09:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSJXMW3NQZOQ3PPC4BOHD4XYFU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;여름 특식을 먹고 있는 반달곰. 기사와 관련 없음./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해부터 곰 사육과 증식이 금지된 가운데, 경기 여주의 한 곰 사육 농장에서 불법 증식이 이뤄진 정황이 포착돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경기 여주경찰서는 야생생물법 위반 혐의로 고발된 여주시 점동면 소재 곰 사육 농장주 A씨를 형사 입건했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 자신의 곰 사육 농장에서 반달가슴곰 여러 마리를 키우면서 번식을 시도한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 사육곰 보호 단체인 ‘곰 보금자리 프로젝트’로부터 지난달 30일 고발장을 접수한 뒤 최근 고발인 조사를 진행했다. 경찰은 고발 내용에 대한 사실 확인이 필요하다고 보고 강제 수사를 검토 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “관련법상 곰 사육이나 증식은 불법”이라며 “이제 막 고발인 조사를 마친 단계여서 자세한 내용은 설명이 어렵다”고 했다.&lt;br&gt;&lt;br&gt;국내 곰 사육은 1980년대부터 시작됐다. 이후 웅담 채취 등을 목적으로 한 사육곰 산업이 형성됐다. 그러나 곰을 사육하거나 증식해서는 안 된다는 내용을 담은 야생생물법 개정안이 올해 시행되면서 관련 산업은 40여 년 만에 막을 내렸다.&lt;br&gt;&lt;br&gt;다만 곰 사육 농장에 남아 있는 곰들을 보호할 시설 마련 등의 문제가 아직 완전히 해결되지 않아, 단속과 처벌은 6개월간 유예된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>익산 숙박업소서 40대 女 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/05/05/GT7YU2WJ5VBCJLRGZV6UNF2LPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/05/GT7YU2WJ5VBCJLRGZV6UNF2LPE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 05 May 2026 11:02:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJLLLRADJF6SUWNBD5OEVEIEM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;익산경찰서 전경. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오후 4시쯤 전북 익산시 인화동의 한 숙박업소에서 여성 A(48)씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 숙박업소 주인이 방 안에 A씨가 쓰러져 있던 것을 확인하고 112에 신고한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 현재까지 강력범죄에 연루된 가능성은 없는 것으로 보고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 시신을 부검할 예정”이라며 “지병에 의한 돌연사 등 모든 가능성을 열어 놓고 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용현 전 장관, 종합특검 2차 소환에도 불응...“이중 수사” 불출석 사유서 제출</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/05/H6GWFZX37RCDHMRCUEAP6B2Q7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/05/H6GWFZX37RCDHMRCUEAP6B2Q7A/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 May 2026 10:49:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVPQHEYAXVMN7LAHGLVVNGZPDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. (헌법재판소 제공) /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검이 김용현 전 국방부 장관에게 오는 6일 조사를 받으라고 재차 통보했으나 김 전 장관 측은 이번에도 불응한다는 의사를 전달했다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, 김 전 장관 측은 전날 특검에 불출석 사유서를 전달했다. 김 전 장관이 지난 4월 29일 ‘군형법상 반란 혐의’ 피의자 조사에 이어 6일 예정돼 있던 조사에도 출석을 거부한 것이다.&lt;br&gt;&lt;br&gt;특검은 이번 2차 소환에서 김 전 장관을 상대로 ‘범죄단체조직 혐의’ 피의자 조사를 진행할 예정이었다. 특검이 김 전 장관을 범죄단체조직 혐의 피의자 신분으로 소환한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;이에 김 전 장관 측은 “특검 수사가 같은 내용에 혐의만 새롭게 적용한 ‘이중 수사’에 해당한다”며 불출석 의사를 전한 것으로 알려졌다. 현재 재판 중인 내란 혐의와 동일한 사건을 대상으로 별도 수사하는 것은 불법 수사라는 것이다.&lt;br&gt;&lt;br&gt;앞서 특검은 김 전 장관을 포함해 노상원 전 정보사령관 등 5명을 범죄단체조직 혐의로 입건했다. 이들은 12·3 비상계엄 당시 합동수사본부 산하에 ‘제2수사단’이라는 비선 조직을 꾸린 혐의를 받는다. 이와 관련해 특검은 지난달 22일 노 전 사령관을 피의자 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>밤 12시, 광주 여고생은 이유도 모르고 죽었다</title>
       <link>https://www.chosun.com/national/national_general/2026/05/05/ASOMKWWBTFEADPW7RCFFXUUBSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/05/ASOMKWWBTFEADPW7RCFFXUUBSM/</guid>
@@ -747,33 +774,6 @@
       <description/>
       <pubDate>Sun, 03 May 2026 04:47:33 +0000</pubDate>
       <content:encoded>한국의 임시직 근로자 비율이 경제협력개발기구(OECD) 회원국 평균의 2배를 넘는 것으로 나타났다. 직원 채용도 임시직이 늘고, 한 번 임시직으로 들어간 근로자는 더 오래 임시직에 머무는 구조가 굳어지고 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TDQNZRG42WINBWHE2DAYZYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 서울서부고용복지플러스센터에 일자리 정보가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한국노동연구원이 발간한 ‘월간 노동리뷰’ 4월호에 따르면, 2024년 한국의 임시직 비율은 26.9%였다. OECD 평균 11.2%의 약 2.4배다. 대부분의 OECD 회원국에서 2019년보다 임시직 비율이 줄어든 것과 달리, 한국은 오히려 증가했다. 한국의 임시직 비율은 2019년 24.3%에서 2024년 26.9%로 약 2.6%포인트 올랐다. &lt;br&gt;&lt;br&gt;임시직은 계약 종료 시점이 정해진 임금 근로자를 뜻한다. 기간제 근로자, 파견 근로자, 일용 근로자 등이 포함된다. 국가마다 비정규직의 개념이 다르기 때문에, OECD는 임시직 비율을 비교 지표로 활용한다.&lt;br&gt;&lt;br&gt;연구진은 한국 노동시장에서 임시직이 단순히 많은 수준을 넘어, 노동시장에 진입하는 단계부터 임시직 채용이 확대되고 있다고 분석했다. 신규 채용 가운데 임시직이 차지하는 비율은 높아진 반면, 임시직 내부에서 신규 채용자 비율은 줄었다. 새로 사람을 뽑을 때 임시직을 더 많이 쓰면서도, 한 번 임시직으로 들어가면 계속 임시직으로 남는다는 의미다. 김복순 한국노동연구원 전문위원은 “임시직 가운데서도 초단시간·저임금 일자리 비율이 늘어나고 있다”고 했다.&lt;br&gt;&lt;br&gt;청년층에서도 임시직·비정규직 위주로 채용이 늘고 있는 흐름이 나타나고 있다. 같은 호에 실린 ‘비정규직 고용 구조와 근로 조건 변화’ 보고서에 따르면, 2025년 청년층에서는 정규직 신규 입직자가 6만9000명 줄어든 반면, 신규 입직 ‘전일 기간제’는 5만4000명 늘었다. 전일 기간제는 계약 기간은 정해져 있지만 전일제로 일하는 고용 형태를 말한다. &lt;br&gt;&lt;br&gt;기업들이 내는 구인 공고에서도 이런 변화가 확인된다. 고용행정통계 기준 전체 구인 수 대비 전일 기간제 비율은 2018년 17.4%에서 2025년 28.0%로 올랐다. 정규직으로 들어가는 문이 좁아지면서 임시직이 장기 체류지처럼 굳어지고 있다는 의미다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>징역 5년 복역 중 여죄 드러난 마약조직 부총책... 법원, 징역 3년 6개월 추가</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/03/ZFWHCGNHTVAM5FARNKN5LK6YLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/ZFWHCGNHTVAM5FARNKN5LK6YLM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 May 2026 04:22:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73PCJBSTA46FSWJFESIN654VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에서 마약을 들여와 텔레그램을 통해 판매한 마약 밀매 조직의 부총책이 실형을 추가로 선고 받은 것으로 3일 확인됐다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 특정범죄가중처벌법상 향정 등 혐의로 추가 기소된 마약 밀매 조직 부총책 A씨에게 최근 징역 3년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2023년 8~9월 해외 판매상으로부터 엑스터시 2000정을 구매하고 이 중 526정을 국내에 들여온 혐의로 재판에 넘겨졌다. 이와 관련, 작년 4월 징역 5년이 확정됐다. 검찰은 A씨가 2023년 12월~2024년 1월 사이 같은 판매상으로부터 엑스터시 약 1230정을 사들여 국내로 들여오고, 합성대마 460㎖를 수수·관리했다는 혐의를 적용해 추가 기소한 것이다.&lt;br&gt;&lt;br&gt;재판부는 “취급한 마약류 규모가 상당한 점, 범행 횟수·방법 등을 고려할 때 죄질이 좋지 않다”고 지적했다. 이어 “마약류 범죄는 국민 보건에 위해를 가하고 마약류 중독자에게 다른 범죄를 저지르게 하는 등 사회 전반에 미치는 해악이 크므로 엄정하게 대처할 필요성이 있다”고 양형 이유를 밝혔다. 다만 재판부는 “판결이 확정된 죄와 형평을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보험 대리 판매로 수수료 번 카드사... 법원 “교육세 과세 대상 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/03/AGAXJBA43VAAHF4QBZM6SVAVPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/AGAXJBA43VAAHF4QBZM6SVAVPE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 May 2026 04:08:41 +0000</pubDate>
-      <content:encoded>신용카드사가 보험 판매를 대리하며 얻은 수수료는 교육세 과세 대상에 해당하지 않는다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 서울행정법원 행정8부(재판장 양순주)는 최근 현대카드가 영등포세무서장을 상대로 제기한 교육세 경정 거부 처분 취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63JYZBTUPBELGSC63UKQWPGGE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동에 위치한 서울행정법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 2018년 현대카드가 “보험 대리업으로 벌어들인 수수료는 교육세 과세 대상이 아니다”라며 과세 당국에 환급을 요구하는 경정 청구를 한 게 발단이 됐다. 과세 당국이 청구를 거부하자 현대카드는 행정소송을 제기해 승소했고, 2021년 대법원에서 판결이 확정됐다. 그러나 해당 판결은 2013∼2017 사업연도에 해당하는 세금에만 효력이 있어, 현대카드는 과세 당국에 2018 사업연도에 귀속된 교육세 환급을 다시 요구했다.&lt;br&gt;&lt;br&gt;하지만 과세 당국은 2024년 5월 경정 청구를 일부 거부했다. 현대카드는 같은 해 8월 조세심판원 심판 청구도 냈으나, 보험 수수료에 대한 세금은 돌려받지 못했다. 이에 보험 대리 수수료와 관련된 세금 1억3222만여 원을 대상으로 지난해 6월 재차 행정소송을 낸 것이다.&lt;br&gt;&lt;br&gt;재판부는 과세 당국의 경정 거부 처분이 위법하다며 현대카드의 손을 들어줬다. 보험 대리업은 옛 교육세법상 납세 대상인 ‘금융·보험업’과는 구별된다는 것이다. &lt;br&gt;&lt;br&gt;특히 재판부는 여신금융전문금융업법 시행령상 보험 대리 업무는 카드사의 고유 업무가 아닌 ‘겸영(兼營)’ 업무에 해당한다고 판단했다. 겸영 업무란 은행이 창구에서 펀드나 보험 판매를 하는 것처럼 본업 외에 법률로 정하는 다른 금융 업무를 같이하는 것을 가리킨다.&lt;br&gt;&lt;br&gt;재판부는 또 카드사가 겸영 업무를 할 경우 기존 사업과 구분해 회계 처리를 하기 때문에 보험 판매를 대리해 벌어들인 수수료는 신용카드업과 분리된 별개의 영업 수익이라고 봤다. 이를 종합하면 카드사가 겸영 업무인 보험 대리 업무로 번 돈은 ‘금융·보험업자’의 수익에 해당하지 않는다는 게 법원 판단이다.&lt;br&gt;&lt;br&gt;과세 당국은 재판 과정에서 “현대카드가 금융·보험업자인 여신전문금융회사에 해당하므로 문제의 수수료도 과세 대상”이라고 주장했으나 재판부는 받아들이지 않았다. 재판부는 “교육세 납세의무는 납세의무자의 지위가 아니라, 납세의무자가 어떤 영업으로 수익을 얻었는지에 따라 결정된다”며 “겸영 업무로 지급받은 대가가 신용카드 회사의 카드업이나 부수 수익에 해당한다고 볼 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “보험료 지급 기준이 불명확하다면...고객에게 유리하게 해석해야</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/03/C5DFRW6VJJEX5AXACT5DXWRQ5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/03/C5DFRW6VJJEX5AXACT5DXWRQ5U/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 May 2026 04:07:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TAMZRGJTDQNRTMNSWGZLBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보험사의 보험료 지급 약관조항이 명백하지 않다면 고객에게 불이익을 주지 않는 방향으로 유리하게 해석해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 사망한 A씨의 유족이 신한라이프생명보험을 상대로 낸 보험금 청구 소송에서 원고 패소 판결한 원심을 깨고 사건을 서울중앙지법에 보냈다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 1월 광주 광산구의 한 도로에서 운행 중이던 자동차에 부딪히는 사고를 당했다. 치료를 받던 A씨는 같은 해 6월 다발성 장기 손상으로 사망했고, 유족은 신한라이프에 교통재해 사망보험금 등을 청구했다. &lt;br&gt;&lt;br&gt;신한라이프 측은 A씨가 보험 기간 종료 후 사망했다는 이유로 보험금을 지급하지 않았다. A씨의 아내는 2003년 4월, 피보험자를 A씨로 하고 보험 기간을 2023년 4월까지로 하는 교통재해 사망보험을 체결한 바 있다. 보험 계약에는 A씨가 사망할 경우 수익자를 법정상속인으로 한다는 내용이 담겼다. A씨의 유족은 이 같은 계약을 이유로 신한라이프 측에 보험금을 지불하라며 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심은 신한라이프가 A씨의 유족에게 3500만원을 지급하라고 판단했다. 재판부는 “망인이 보험 기간 이후에 사망했더라도 ‘보험 기간 내 교통재해로 인해 사망’한 경우에 해당하므로 보험금을 지급할 의무가 있다”고 봤다.&lt;br&gt;&lt;br&gt;2심에선 다른 판단이 나왔다. 재판부는 “망인의 사망은 보험의 보험 기간 종료 후에 발생한 사고라, 원고의 청구는 이 사건 약관조항에 따른 교통재해사망보험금 지급요건을 충족하지 못하였다고 할 것”이라고 했다. 재판부는 보험 기간 내 교통재해가 발생해 보험 기간 종료 후 사망한 것을 보험 기간 내 사망한 것과 동일하게 볼 수 없다며 1심 판결을 취소하고 A씨 유족의 청구를 기각했다.&lt;br&gt;&lt;br&gt;반면 대법원은 판단을 다시 뒤집었다. 대법원은 보험사의 약관조항이 규정한 교통재해 사망보험금의 지급사유가 다의적으로 해석돼 약관조항의 뜻이 명백하지 않다고 짚었다. 그러면서 “약관의 규제에 관한 법률 5조 2항이 규정하는 작성자 불이익의 원칙을 적용해 보험 기간 중 교통재해가 발생했을 것만을 요구한다고 해석함이 상당하다”고 판단했다. 또 보험 기간 중 발생한 교통사고가 A씨의 직접적인 사망 원인으로 봄이 상당하다며 원심에는 법리를 오해하는 등 판결에 영향을 미친 잘못이 있다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘기운 명당’ 관악산에 ‘라면국물’ 웅덩이가…등산객 증가에 자연 훼손 잇따라</title>
