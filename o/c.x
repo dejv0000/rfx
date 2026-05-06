@@ -13,6 +13,185 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘양평고속도로 변경 특혜’ 의혹 용역업체 관계자 “국토부로부터 지시받은 적 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/6W3MBRBNABHTFKLSFTB6OAIJYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/6W3MBRBNABHTFKLSFTB6OAIJYQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 05:37:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRTVWCCM75PCZB3Z2FWCHYNKKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 국토교통부 입구. 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양평고속도로 타당성평가를 담당한 용역업체 관계자가 ‘양평고속도로 변경 특혜’ 의혹 재판에 나와 “국토교통부(국토부) 관계자에게 지시를 받은 적 없다”고 증언했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사31부(재판장 박준석)는 6일 직권남용 등 혐의를 받는 김모 국토부 서기관, 이모 국토부 공무원, 유모 한국도로공사 공무원 등 7명의 재판을 열었다. 이날 재판에는 지난달 22일에 이어 용역업체 관계자 이모씨가 증인으로 출석했다.&lt;br&gt;&lt;br&gt;이씨는 김 서기관 측 반대신문에서 특정 지시를 받고 양평고속도로 종점을 변경한 게 아니라는 취지로 답했다. 김 서기관 측은 이씨에게 “원안 노선(양서면 종점)과 대안 노선(강상면 종점)에 대한 환경성 검토를 한 것 같은데, 어떤 게 더 나았냐”고 물었고, 이씨는 “제 생각에는 지금 대안 노선이 더 나은 것 같다”고 답했다.&lt;br&gt;&lt;br&gt;이씨는 “특정 노선이 최적안이 될 수 있도록 특정 항목 삭제, 배제 등 지시를 받았냐”는 질문에는 “그렇지 않다”고 말했다. 대안 노선에 김건희 여사 일가의 토지가 있다는 걸 알게 된 시기에 대해선 “이슈(문제)가 됐을 때 알게 됐다”고 했다.&lt;br&gt;&lt;br&gt;민중기 특별검사팀이 수사 과정에서 별건 혐의로 증인을 압박했다는 내용도 언급됐다. 김 서기관 측은 “증인은 (특검팀) 조사와 법정에서 동일하게 용역 진행 과정에 따라 노선을 검토했고 (국토부로부터) 지시받은 게 없다고 진술했는데 맞냐”고 물었다. 그러면서 “작년 7월 별건 입찰 방해 혐의 피의자 신문 조서를 작성할 때 (특검팀과) 면담을 하다 말을 바꿔 (국토부) 지시가 있었다고 했다”고 짚었다. &lt;br&gt;&lt;br&gt;이에 대해 이 부사장은 “내가 지시가 있었다고 했냐”며 “국토부 지시를 받은 게 없기 때문에 일관되게 진술했다”고 했다. 이후 김 서기관 측은 “특검팀은 별건인 입찰 방해 등에 대한 수사 권한이 없고, 법정에선 그런 압박을 받지 않아도 될 것 같다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 서기관 등은 2022년 3월 대통령직인수위원회 내 성명불상자로부터 고속도로 종점 변경을 검토하라는 연락을 받고 용역업체에 이를 지시한 혐의로 재판에 넘겨졌다. 김 서기관 등은 혐의를 모두 부인한다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검사 직접 보완수사 폐지 추진에 양홍석 “힘없는 사람 희생 판돈으로 건 실험이 왜 개혁이냐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/D2UWRBJITJDRRFKOAXLO67AAOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/D2UWRBJITJDRRFKOAXLO67AAOA/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 05:40:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPWNZFW7ZBE7ZMF5XHOT577JLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양홍석 법무법인 이공 변호사 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰개혁추진단 자문위원인 양홍석(48·사법연수원 36기) 법무법인 이공 변호사가 6일 “검사의 직접 보완수사를 폐지하고 보완수사요구권만 남겨야 한다”는 주장에 대해 “힘없는 사람들의 희생을 판돈으로 건 실험을 왜 개혁이라고 하냐”고 비판했다.&lt;br&gt;&lt;br&gt;양 변호사는 이날 서울 중구 프레스센터에서 열린 ‘국민을 위한 형사사법 체계개선 당정 공동 토론회’에서 “현재 검사의 (경찰에 대한) 보완수사요구는 전체의 10% 정도뿐이고, 나머지 90%는 검사가 직접 보완수사하고 있다”면서 “검사의 직접 보완수사를 폐지하면 보완수사요구가 폭증할텐데 경찰이 감당할 수 있겠냐”고 했다. 그러면서 “80년간 계속된 검사 제도의 근간을 흔든 2021년 검경 수사권 조정 이후 사법적 재난 상황의 징후가 곳곳에서 나타나고 있는데도 ‘과도기적인 현상’이라고 말하면 도대체 언제까지 기다려야 하냐”고 했다.&lt;br&gt;&lt;br&gt;이날 윤창렬 검찰개혁추진단장(국무조정실장)은 토론회 인사말에서 “보완수사요구 원칙 하에 어떤 실질적·실효적 방안이 필요한지 논의해 향후 형사소송법 개정에 반영하겠다”고 했다. 법조계에서 유지해야 한다는 의견이 많은 검사의 보완수사권 대신 보완수사요구권을 기본 원칙으로 해 오는 6월 지방선거 이후 본격화할 국회의 형사소송법 개정 작업에 참여하겠다는 것이다. &lt;br&gt;&lt;br&gt;토론회 발제자로 나온 유승익 명지대 법학과 교수도 비슷한 취지의 주장을 했다. 유 교수는 “기존에 검찰이 독점하고 있던 방대한 수사 자원과 전문 인력을 수사의 실행 주체(경찰)로 전면 이관해 국가 수사 총량의 비대칭성을 해소하고 전문성을 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 양 변호사는 “현재 방식대로 하면 100% 문제가 생기고, 그 문제는 힘 없고 권력 없는 사람들이 감당할 것”이라면서 “그 사람들의 희생과 돈을 사법시스템에 대한 실험의 판돈으로 걸어서 제도를 망치는 건데 왜 개혁이라는 이름을 갖다 붙이냐”고 비판했다.&lt;br&gt;&lt;br&gt;양 변호사는 유 교수의 주장에 대해서도 “(2021년) 검경 수사권 조정 후 경찰 수사 인력이 1만1000명 늘었는데도 부족하다고 하면 올해 검찰개혁에서는 얼마나 많은 인원을 늘려야 한다는 것이냐”고 지적했다. 그러면서 “그 논의를 충분히 하지 않고 10월에 제도 개편을 시작하면 사법적 재난 상황이 발생할 것”이라고 했다.&lt;br&gt;&lt;br&gt;또한 양 변호사는 “검사가 하는 게 문제가 많다고 해서 1년도 논의되지 않은 검사의 직접 보완수사 폐지를 성급하게 밀어붙이려 하고 있다”면서 “아이디어 수준의 제안으로 어떻게 법안을 만들고 제도를 운영하냐”면서 “그런데도 오늘이 마지막 토론이라고 하니 답답하다”고 했다.&lt;br&gt;&lt;br&gt;검찰개혁추진단은 지난 3월부터 이날까지 총 6번에 걸쳐 형사소송법 개정을 위한 토론회를 열었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>선고 하루 전 “억대 성공보수 주면 석방” 변호인 말대로 됐다…‘뇌물 수수’ 현직 부장판사 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/6IEUE65K7JDKXP4O62XF3GU7RU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/6IEUE65K7JDKXP4O62XF3GU7RU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 01:30:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2TSNJRHBSGCMRYMRQWMZBXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 고위공직자범죄수사처./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금품을 받은 대가로 고교 동문 변호사가 수임한 사건에 가벼운 형을 선고해 준 현직 부장판사가 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;고위공직자범죄수사처 수사2부(부장 김수환)는 6일 수도권 지역 지방법원의 김모(44) 부장판사를 뇌물 수수·청탁금지법 위반 등 혐의로 불구속 기소했다. 김 부장판사에게 금품을 제공한 혐의(뇌물 공여)를 받는 정모(48) 변호사도 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;김 부장판사는 2023년 5월부터 2025년 4월까지 고교 선배인 정 변호사로부터 3300여 만원의 금품을 건네받은 것으로 조사됐다. 2023년 2월 전북의 한 지방법원으로 자리를 옮긴 후 해당 지역에서 활동하는 정 변호사와 친분을 쌓기 시작했다. 고가의 식사와 현금 300만원을 수수한 것은 물론, 2024년 3월부터 2025년 4월까지 정 변호사 소유의 건물을 무상으로 빌려 아내의 바이올린 교습소로 이용하고 방음 시설 등 공사비까지 정 변호사가 대납한 것으로 드러났다. 김 부장판사가 지불하지 않은 임대료는 약 1400만원, 공사비는 약 1500만원이다.&lt;br&gt;&lt;br&gt;공수처는 김 부장판사가 뇌물의 대가로 정 변호사가 수임한 사건의 형을 깎아주는 이른바 ‘재판 거래’를 했다고 보고 있다. 두 사람은 변론기일이나 선고기일을 전후해 190여 회에 걸쳐 통화했는데, 2심 재판장이었던 김 부장판사가 담당한 정 변호사 수임 사건 21건 중 17건이 징역형에서 집행유예·벌금형으로 감경됐다. 음주운전, 마약, 온라인 도박, 보이스피싱 등 민생 범죄가 대다수였다. &lt;br&gt;&lt;br&gt;김 부장판사가 재직하던 법원 인근 교도소에는 두 사람의 관계에 대한 소문이 퍼졌고, 정 변호사에게 수천만~수억 원을 주고 석방 등을 의뢰하는 수용자가 많았다고 한다. 정 변호사는 석방이 성공할 시 수천만원의 보수를 지급받기로 약속한 뒤 김 부장판사와 통화했고, 바로 성공 보수를 지급받았다고 한다. 보석 허가 결정이 나기 전인데도 재판 결과를 미리 아는 것처럼 성공 보수를 지급받은 것이다. 이 외에도 선고 하루 전 수억 원대 성공 보수 납부 조건이 계약서에 추가됐던 경우도 발견됐다.&lt;br&gt;&lt;br&gt;앞서 공수처는 지난 3월 18일 두 사람에 대한 구속영장을 청구했으나 서울중앙지법은 같은 달 23일 “주된 공여 부분에 대한 소명이 부족하다”며 영장을 기각했다. 김 부장판사는 정 변호사에게서 받은 금품은 친분으로 받은 단순 선물일 뿐 대가성이 없었다는 입장인 것으로 알려졌다. 건물 무상 사용 부분에 대해 정 변호사 측은 “임대차 계약을 하던 중 계약이 파기돼 실제 김 부장판사 가족이 무상으로 사용하지 않았다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종합특검 ‘디올백 수사 무마 의혹’ 법무부·대검 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/WHIXAF32YVENNMWCAVNRWO5ND4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/WHIXAF32YVENNMWCAVNRWO5ND4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 05:07:32 +0000</pubDate>
+      <content:encoded>3대(김건희·내란·해병) 특검의 잔여 사건을 수사하는 2차 종합특검이 6일 김건희 여사의 ‘디올백 수사 무마 의혹’과 관련해 대검찰청과 법무부를 압수수색했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TAYZQGQZWKOBVMM3WKYLEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2차 종합특검팀(권창영 특별검사) 사무실 앞. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 김지미 특검보는 “디올백 수사 무마와 관련해 대검과 법무부 검찰과에 대한 압수수색 영장을 집행 중에 있다”고 밝혔다. 앞서 종합특검은 검찰 지휘부가 서울중앙지검의 김 여사 디올백 수수 사건 수사를 무마한 혐의로 중앙지검과 대검 정보통신과를 압수수색했다.&lt;br&gt;&lt;br&gt;김 여사의 디올백 수수 사건은 2022년 9월 김 여사가 자신이 운영하던 전시업체 코바나컨텐츠 사무실에서 최재영 목사로부터 300만원 상당의 디올백을 받았다는 내용이다. 인터넷 언론 서울의소리는 2023년 11월 이런 정황이 담긴 영상을 공개하고, 그해 12월에는 윤석열 전 대통령 부부를 뇌물수수, 청탁금지법 위반 혐의로 고발했다.&lt;br&gt;&lt;br&gt;그러나 검찰은 2024년 10월 직무관련성과 대가성이 없다며 불기소 처분했다. 이후 12·3 비상계엄 관련 내란 특검 수사 과정에서 김 여사가 2024년 5월 박성재 당시 법무부 장관에게 수사 상황에 대한 텔레그램 메시지를 보낸 사실이 밝혀지면서 수사 무마를 시도한 것 아니냐는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변호사 선정 우수 법관 신종오, ‘김건희 선고’ 8일뒤 극단선택</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/K7BSUDDVBFBCXDEDLXVEZFTHWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/K7BSUDDVBFBCXDEDLXVEZFTHWU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 May 2026 23:55:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYEBRTU5BBFKVLHDZIJQUCDE6E.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 김건희 항소심을 진행하고 있는 신종오 서울고법 판사. /서울고등법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 ‘도이치모터스 주가 조작’ 사건 항소심 재판장을 맡았던 신종오(55) 서울고법 판사가 서울 서초구 법원 청사에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 법조계에 따르면 경찰은 지난 5일 자정 무렵 신 판사 가족 신고를 받고 출동해 서울고법 청사 5층 테라스에서 신 판사를 발견해 병원으로 옮겼다. 경찰은 신 판사가 추락한 것으로 보고 정확한 사망 원인을 파악하고 있다.&lt;br&gt;&lt;br&gt;신 판사가 사망 당시 입고 있던 옷에서는 유서가 발견됐다. 여기엔 “죄송하다. 스스로 떠난다”는 내용이 담겼다고 한다. 유서에 김건희 여사나 재판에 관련된 내용은 들어 있지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신 판사가 재판장을 맡은 서울고법 형사15-2부는 지난달 28일 김 여사의 도이치모터스 주가 조작과 통일교 청탁 혐의 사건을 맡아 징역 4년에 벌금 5000만 원을 선고했다. 이는 1심의 징역 1년 8개월보다 2년 4개월 늘어난 것이다.&lt;br&gt;&lt;br&gt;재판부는 특히 1심에서 무죄가 선고됐던 도이치모터스 주가 조작에 공범으로 가담한 혐의(자본시장법 위반)를 일부 유죄로 뒤집었다. 윤석열 전 대통령이 당선인 신분이던 2022년 4월 통일교로부터 청탁 목적으로 802만원 상당의 샤넬 가방을 받은 혐의(알선수재)도 1심과 달리 유죄로 판단했다.&lt;br&gt;&lt;br&gt;신 고법판사는 서울 상문고와 서울대 법대를 졸업하고 사법연수원을 27기로 수료했다. 2001년 서울지법 의정부지원에서 법관 생활을 시작해 울산지법, 대법원 재판연구관, 대구고법, 대전고법 청주재판부 등을 거쳤다. 법원 내에서는 과묵하고 성실하며 원칙을 중요시하는 것으로 알려져 있다. 2023년에는 서울지방변호사회가 선정하는 우수 법관에 이름이 오르기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSTEZDFG42TEODEMVSWEYRTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구서울고등법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CYEBRTU5BBFKVLHDZIJQUCDE6E.png?auth=9aa627c1c3a2c31967056f3c7df559a0bb7feb47eeb471c056684c28896b4534&amp;smart=true&amp;width=475&amp;height=301" type="image/png" height="301" width="475">
+        <media:description type="plain">지난달 28일 김건희 여사의 항소심을 진행하고 있는 신종오 서울고법 판사. /서울고등법원</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>법원서 숨진 채 발견된 신종오 판사는... “재판에 매진하는 성실한 법관”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/DP5KVBWCSVBMHAJTQX3ORTOCYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/DP5KVBWCSVBMHAJTQX3ORTOCYQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 02:41:21 +0000</pubDate>
+      <content:encoded>6일 서울고법에서 숨진 채 발견된 고(故) 신종오(사법연수원 27기) 서울고법 판사는 법관들 사이에서 “과묵하고 성실하게 재판하는 판사”였다는 평가를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCRXTQVFHNFH5IQ6I3HS4AA4VI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 김건희 여사의 항소심을 진행하고 있는 신종오 서울고법 판사. /서울고등법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1995년 서울대 사법학과를 졸업한 신 판사는 같은 해 사법시험에 합격했고, 1998년 사법연수원을 27기로 수료했다. 2001년 서울지법 의정부지원(현 의정부지법) 판사로 임관한 뒤 2010년 서울고법 판사에 임명됐다. 이후 대법원 재판연구관, 대전지법 부장판사를 지낸 뒤 2014년 서울고법 판사로 부임했다. 대구고법, 대전고법 청주재판부, 서울고법 인천재판부를 거쳐 지난 2월 서울고법에 돌아왔고, 부패 사건을 전담하는 형사15-2부 재판장을 맡았다.&lt;br&gt;&lt;br&gt;법관들은 신 판사에 대해 “과묵하고 성실하게 재판에만 집중하는 분이었다”고 입을 모았다. 신 판사와 근무연이 있는 현직 고위 법관은 “평일과 휴일에 관계없이 출근해 사건 기록을 살펴볼 정도로 성실했다”며 “힘들 때도 표를 내지 않을 정도로 묵묵히 일만 해온 분”이라고 했다. 2023년 서울지방변호사회가 선정한 우수 법관에 이름이 오르기도 했다.&lt;br&gt;&lt;br&gt;법원 안팎에선 신 판사가 형사15-2부 재판장으로 부임한 뒤 과중한 업무에 시달렸다는 말도 나왔다. 서울고법 형사1부가 내란 전담 재판부로 지정되면서, 신 판사가 있는 형사15부가 형사1부에서 재판 중이던 사건을 모두 넘겨받은 것으로 전해졌다. 이런 가운데 김 여사 항소심까지 맡으면서 스트레스가 심했을 거란 얘기다. 한 법원 관계자는 “신 판사가 지난달 김건희 여사 항소심 선고를 앞두고 재판 중계 등 문제로 스트레스가 있었던 걸로 안다”고 했다. 신 판사는 최근 불면증을 앓았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신 판사는 서울고법 행정8-2부 재판장이던 2021년 12월, 인플루언서 황하나씨의 마약 투약 혐의를 경찰 의견만 믿고 무혐의 처분한 검사의 감봉 처분 불복 소송 항소심에서 원고 패소 판결했다. 이듬해 7월엔 이명박 전 대통령의 처남 부인인 권영미씨가 9억원대 증여세 부과에 불복해 낸 행정소송의 항소심에서 권씨 승소로 판결했다. 신 판사는 2019년 북한 선원 2명을 강제 북송한 문재인 정부 조처가 적절했는지 조사해달라는 진정을 국가인권위원회가 각하한 것은 부적절하다고 판결하기도 했다.&lt;br&gt;&lt;br&gt;신 판사는 지난달 28일 김 여사의 도이치모터스 주가 조작과 통일교 청탁 혐의 사건을 맡아 징역 4년에 벌금 5000만원을 선고했다. 이는 1심의 징역 1년 8개월보다 2년 4개월 늘어난 것이다.&lt;br&gt;&lt;br&gt;재판부는 특히 1심에서 무죄가 선고됐던 도이치모터스 주가 조작에 공범으로 가담한 혐의(자본시장법 위반)를 일부 유죄로 뒤집었다. 윤석열 전 대통령이 당선인 신분이던 2022년 4월 통일교로부터 청탁 목적으로 802만원 상당의 샤넬 가방을 받은 혐의(알선수재)도 1심과 달리 유죄로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대한법학교수회 “조작기소 특검법안, 법치주의 근간 흔드는 위험한 발상... 엄중 경고”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/EGYZFLAWYJBENHIWVCSSBY23GI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/EGYZFLAWYJBENHIWVCSSBY23GI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 04:15:06 +0000</pubDate>
+      <content:encoded>사단법인 대한법학교수회는 6일 더불어민주당이 발의한 ‘조작 기소 특검법안’에 진행 중인 재판의 공소취소 권한이 포함된 것에 대해 “법치주의와 권력분립 원칙을 파괴하는 독소 조항”이라며 “위험한 발상에 대해 엄중히 경고한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTDTRYDUNZPZJOOUASTBMFKERQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 천준호 원내대표 직무대행과 ‘조작 기소’ 국정조사특위 위원들이 지난달 30일 국회 의안과에 ‘윤석열 정치검찰 조작 기소 진상 규명’ 특검법안을 내고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교수회는 이날 성명에서 “특검에 공소 취소권을 부여해 이미 진행 중인 재판을 중단시키려는 시도는 사법권을 현저하게 파괴하는 행위”라며 “법원의 최종적 판단 권한을 박탈하는 것으로써 헌법상 권력분립 원칙에 정면으로 위배되는 명백한 위헌”이라고 주장했다.&lt;br&gt;&lt;br&gt;특히 교수회는 공소취소 조항에 대해 ‘자기 사건에 대한 재판관 금지’ 원칙에 어긋나는 불법적 행위라고 지적했다. 이재명 대통령이 특별검사 임명 권한을 갖고 있는데, 특검이 이 대통령 관련 사건의 공소를 취소할 수 있게 되는 상황을 지적한 것이다. 교수회는 “특정 사건에 대한 불법 기소의 실체적 진실을 규명하려는 시도는 긍정적”이라면서도 “공소 취소 권한을 특검에게 부여하는 것은 현행 형사소송법 위반이며, 사법 시스템의 근간을 부정하는 퇴행적 조치”라고 비판했다.&lt;br&gt;&lt;br&gt;교수회는 “작금의 사태를 법치주의에 대한 중대한 도전으로 간주한다”며 “공소권의 적정한 행사와 재판권의 독립을 위협하는 어떠한 시도도 절대 용납할 수 없다”고 했다. 이어 “여야를 불문하고 당리당략에 따른 사법 개입 시도를 즉각 중단하고 형사 사법 제도의 독립성을 존중할 것을 강력하게 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “한수원 기본상여금은 통상임금… 차등 지급된 기본성과급은 다시 따져야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/4HDOZORFD5CUPC2IWURAYDXVT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/4HDOZORFD5CUPC2IWURAYDXVT4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 03:00:00 +0000</pubDate>
+      <content:encoded>한국수력원자력(한수원) 전·현직 근로자들이 회사를 상대로 낸 통상임금 소송에서 기본상여금은 통상임금에 포함되지만, 차등 지급된 기본성과급의 통상임금 인정 범위는 다시 따져봐야 한다는 대법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSGKNLBMM3DQZRYGU2DINZSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 대법원 1부(주심 신숙희 대법관)는 한수원 전·현직 근로자 99명이 회사를 상대로 낸 임금 소송에서 기본상여금을 통상임금으로 인정한 원심 판결을 확정했다. 다만 대법원은 기본성과급에 대한 부분은 “기준임금의 200% 전액을 최소지급분으로 본 원심 판단은 잘못됐다”며 최소지급분 범위를 다시 심리하라는 취지로 원심을 일부 파기하고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;한수원 전·현직 근로자들은 2013년 8월 “회사가 지급한 기본상여금과 기본성과급, 경영성과급 등을 통상임금에 포함해 수당, 퇴직금을 다시 계산해 달라”며 소송을 제기했다. 통상임금은 근로자가 정기적으로 받는 임금으로 각종 수당과 퇴직금 산정의 기준이 된다.&lt;br&gt;&lt;br&gt;2017년 2월 1심은 “기본상여금은 ‘지급일 기준 현재 재직 중에 있을 것을 조건으로 지급되는 것이므로 근로 대가로 당연히 지급된다는 고정성이 없다”며 통상임금으로 인정하지 않았다. 하지만 2023년 1월 2심은 “지급일 현재 재직하고 있는 자에 한해 기본상여금을 지급하도록 한 것은 급여를 지급하기 위한 조건이라기보다 급여의 ‘정산 방법’을 정한 것”이라며 “정기적·일률적으로 지급되는 고정적인 임금인 통상임금에 해당된다”고 판단했다. 대법원도 원심 판단을 유지했다.&lt;br&gt;&lt;br&gt;하지만 기본성과급에 대해서는 기준임금의 200% 전액을 통상임금으로 인정한 원심 판단이 잘못됐다고 봤다. 앞서 2011년 11월 기획재정부는 공기업 성과급 차등 폭을 확대하라는 지침을 내렸고, 한수원은 2012년 1월 보수 규정을 개정해 성과급을 사업소·개인별로 차등 지급할 수 있도록 했다. 대법원은 “기본성과급의 지급률을 원칙적으로 200%로 정하면서도 이를 사업소 및 개인별로 차등 지급할 수 있다고 규정하고 있다”며 “실제로 한수원은 2012년분 기본성과급을 (근로자들에게) 133~267%로 차등해 지급했다”고 밝혔다. 그러면서 “기본성과급 중 최소지급분의 범위를 추가로 심리·판단해 이를 기초로 수당과 퇴직금을 다시 산정할 필요가 있다”며 사건을 2심 법원으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 밖에 대법원은 전년도 실적에 대한 공공기관 경영평가 결과에 따라 지급률이 결정되는 경영성과급과, 10년 이상 근속한 직원들에게 5년마다 지급되는 장기근속격려금은 통상임금에 해당하지 않는다는 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘묻지마 칼부림’ 고교생 살해 피의자… 경찰, 신상 공개 검토</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/06/C5KVDYIGPJBYZB4EF34IKLCEHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/06/C5KVDYIGPJBYZB4EF34IKLCEHE/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 02:08:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXBW5YX6TZKVDN5FXSLADYXBPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오전 광주 광산구 월계동 한 도로에서 살인 혐의 등을 받는 20대 피의자 장모 씨를 경찰이 긴급 체포하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 흉기를 휘둘러 고교생 1명을 살해하고 다른 학생에게 중상을 입힌 20대 피의자의 신상 공개를 검토한다.&lt;br&gt;&lt;br&gt;6일 광주경찰청에 따르면 경찰은 살인 등 혐의로 긴급 체포된 장모(24)씨에 대한 신상 정보 공개 여부 심의에 착수한다.&lt;br&gt;&lt;br&gt;장씨는 전날 오전 0시 11분쯤 광산구 월계동의 한 대로변에서 귀가 중이던 고교 2학년 A양(17)을 흉기로 찔러 살해하고, A양을 도우러 온 B군(17)에게도 흉기를 휘둘러 상해를 입힌 혐의를 받고 있다. 장씨는 경찰 조사에서 “자살을 고민하던 중 A양이 지나가는 것을 보고 범행을 저질렀다”고 진술했다.&lt;br&gt;&lt;br&gt;‘특정 중대 범죄 피의자 등 신상 정보 공개에 관한 법률’은 중대한 피해, 수단의 잔인성, 죄를 범했다고 믿을 만한 충분한 증거, 국민의 알 권리, 공공의 이익 등 요건을 충족하면 피의자의 신상 정보를 공개할 수 있다고 규정한다.&lt;br&gt;&lt;br&gt;경찰은 장씨가 신상 공개 심의 대상에 해당한다고 판단해 내부 인사와 외부 인사 등 총 10명 이내로 심의위원회를 구성 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “심의위원회가 신상 공개 의견을 제시하면 관할 경찰서장이 공개 여부를 결정한다”며 “이후 피의자에게 신상 공개를 통보하고 5일 이상 유예 기간을 줘야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 이날 중 장씨에 대한 구속영장을 신청할 방침이다. 구속 전 피의자 심문(영장실질심사)은 7일쯤 열릴 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘김건희 2심’ 재판장 유서엔 “죄송하다, 스스로 떠난다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/06/FSX3TM7P7BEMXJVZSDVMEIT3QY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/06/FSX3TM7P7BEMXJVZSDVMEIT3QY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 00:27:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCRXTQVFHNFH5IQ6I3HS4AA4VI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 김건희 여사의 항소심을 진행하고 있는 신종오 서울고법 판사. /서울고등법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 밤 숨진 채 발견된 신종오(55) 서울고법 판사 옷에서 유서가 발견된 것으로 6일 알려졌다. 유서에는 “죄송하다. 스스로 떠난다”는 내용이 담긴 것으로 전해졌다. 신 판사는 김건희 여사의 ‘도이치모터스 주가 조작’ 사건 항소심 재판장을 맡아 최근 징역 4년을 선고했었다. &lt;br&gt;&lt;br&gt;경찰은 6일 새벽 12시 20분쯤 신 판사의 딸로부터 “아빠와 연락이 닿지 않는다”는 신고를 받고 출동해 이날 새벽 1시쯤 서울 서초동 서울고법 청사 5층 테라스에서 신 판사를 발견했다. 신 판사는 이후 병원으로 이송됐으나 사망했다. 경찰은 신 판사가 옥상에서 투신한 걸로 보고 있다.&lt;br&gt;&lt;br&gt;신 판사가 사망 당시 입고 있던 옷에서는 유서가 발견됐다. 유서에는 김건희 여사나 재판에 관련된 내용 등 사망 원인을 추정할 만한 내용이 담기지 않았다고 한다. 경찰 관계자는 “정확한 사망 원인을 파악하고 있다”며 “범죄 혐의점은 발견되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;신 판사가 재판장을 맡은 서울고법 형사15-2부는 지난달 28일 김 여사의 도이치모터스 주가 조작과 통일교 청탁 혐의 사건을 맡아 징역 4년에 벌금 5000만 원을 선고했다. 이는 1심의 징역 1년 8개월보다 2년 4개월 늘어난 것이다.&lt;br&gt;&lt;br&gt;재판부는 특히 1심에서 무죄가 선고됐던 도이치모터스 주가 조작에 공범으로 가담한 혐의(자본시장법 위반)를 일부 유죄로 뒤집었다. 윤석열 전 대통령이 당선인 신분이던 2022년 4월 통일교로부터 청탁 목적으로 802만원 상당의 샤넬 가방을 받은 혐의(알선수재)도 1심과 달리 유죄로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金총리 “檢 보완수사권 폐지 전제로 보완수사요구권 남길지 논의하라” 지시</title>
+      <link>https://www.chosun.com/politics/goverment/2026/05/06/FLUS2RGQZZDL7N75RODFCPS5KU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/05/06/FLUS2RGQZZDL7N75RODFCPS5KU/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 02:26:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFWBDQKKVFKSVLTVTEUFPJCGWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 6일 오전 청와대에서 열린 이재명 대통령 주재 국무회의에 참석해 있다. 왼쪽부터 조현 외교부 장관, 김 총리, 이 대통령. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 검찰청을 폐지하고 신설되는 공소청에 보완 수사권을 남겨두는 문제와 관련해 김민석 국무총리가 관계 기구에 ‘보완 수사권 폐지를 전제로 논의하라’고 지시했다.&lt;br&gt;&lt;br&gt;6일 총리실 관계자에 따르면, 김 총리는 최근 총리실 검찰개혁추진단에 “검사의 보완 수사권은 폐지하는 것으로 방향을 잡고, 보완 수사 요구권 부여 여부를 논의하라”고 지시했다. 검찰개혁추진단은 공소청 검사의 권한을 정하는 형사소송법 개정안을 준비해 왔다.&lt;br&gt;&lt;br&gt;정부는 그동안 검사의 보완 수사권은 가급적 없애되, 예외적인 경우에는 허용하는 방안도 논의해야 한다는 입장이었다. 이재명 대통령은 지난 1월 21일 신년 기자회견에서 “(검사가) 보완 수사를 안 하는 게 맞다고 생각한다”면서도 “예외적으로 필요한 경우가 있다”고 했다. 이 대통령은 “공소시효가 이틀밖에 안 남았는데 (경찰에서 검찰로 사건이) 송치됐을 때, 간단히 확인할 게 있어도 보완 수사가 전면 금지돼 있으면 (사건을) 다시 경찰로 보내고 돌아오는 데 이틀이 끝나 버린다”며 “남용 가능성을 봉쇄하고 안전장치를 만든 다음에 그런 것 정도는 허용해 주는 게 국가 업무를 효율적으로 처리하는 개혁”이라고 했었다. 김 총리도 지난 2월 2일 기자 간담회에서 “보완 수사권은 원칙적으로 없는 게 맞다고 생각하지만, 필요하다고 생각하는 분들이 있는 것도 현실”이라며 “충분히 찬반 토론을 해야 한다”고 했었다.&lt;br&gt;&lt;br&gt;반면 더불어민주당 강경파는 ‘보완 수사권은 직접 수사권’이라며, 수사·기소 분리 원칙을 지키려면 검사에게 보완 수사권을 남겨둬서는 안 된다는 입장을 고수하고 있다.&lt;br&gt;&lt;br&gt;이런 상황에서 김 총리의 지시는 정부가 보완 수사권을 예외적으로도 허용하지 않는 쪽으로 방향을 선회한 것으로 풀이된다. 김 총리는 검사가 경찰에 보완 수사를 요구할 수 있는 권한을 주는 문제에 대해서만 여지를 뒀다.&lt;br&gt;&lt;br&gt;이를 두고 정치권에서는 김 총리가 6·3 지방선거 이후 펼쳐질 민주당 당권 경쟁을 염두에 두고 검찰 개혁 논의의 주도권을 가지려 한다는 해석이 나온다.&lt;br&gt;&lt;br&gt;검찰개혁추진단은 이날 검사 보완 수사 요구권 등 이른바 ‘검찰 개혁’ 방안에 대해 민주당과 함께 공동 토론회를 연다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양도세, 합법적으로 줄여주겠다’… 세무사 사칭 9억원대 사기 일당 구속</title>
+      <link>https://www.chosun.com/national/incident/2026/05/06/AWCPT5OWSBFIROK65ZHPT44RMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/06/AWCPT5OWSBFIROK65ZHPT44RMQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 02:14:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QN5GKLMHU5GD3IJNUTJZKPKTLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 남동경찰서 소속 경찰들이 지난 3월 서울의 한 오피스텔에서 사기 등 혐의를 받는 총책 A(38)씨 등에 대한 구속영장을 집행하는 모습.  /인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무사를 사칭해 절세를 도와주겠다고 접근해 9억여 원을 가로챈 일당이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 남동경찰서는 사기, 범죄집단조직, 세무사법 위반 등 혐의로 총책 A(38)씨 등 8명을 구속해 검찰에 송치했다고 6일 밝혔다. 또 같은 혐의로 해외콜센터 직원 40대 B씨에 대해 인터폴에 적색수배를 요청했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난해 5월부터 지난달까지 절세 컨설팅을 해주고 세무신고를 대신해주겠다며 34명으로부터 9억 9100만원을 받아 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 “탈세가 아닌 합법적인 양도소득세 절세를 선택해야 한다”고 대표 홈페이지 등에 홍보하며 세무사를 사칭해 상담을 유도한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;피해자 중에는 양도세 중과 대상인 다주택자들도 포함된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 이들의 범죄수익금 5억4000만원을 기소 전 추징보전으로 동결했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “세무신고 자격 없이 마치 세무법인 것처럼 홈페이지를 운영하며 범행했다”며 “이 같은 방식의 사기 범행에 각별히 주의해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정교유착 합수본, 통일교 압수수색…한학자 횡령 혐의</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/06/6LOYBENJQZBOFMW2MUFQQEEYIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/6LOYBENJQZBOFMW2MUFQQEEYIE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 02:02:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3WCZBXMU2GIZBTGQYGMYJQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교 '천정궁' /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정교유착 검·경 합동수사본부가 6일 통일교 한학자 총재의 횡령 의혹과 관련해 통일교 시설 등에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;합수본은 이날 오전부터 통일교 천정궁과 서울본부, 효정글로벌통일재단, 한 총재 등 통일교 관계자의 자택 등에 수사관을 보내 관련 자료를 확보하고 있다. &lt;br&gt;&lt;br&gt;이번 압수수색 영장에는 한 총재를 포함한 통일교 관계자들이 횡령 혐의 피의자로 적시된 것으로 파악됐다. 합수본은 통일교 차원의 업무상 횡령 혐의를 수사 중이다. 앞서 합수본은 지난 1월 통일교 차원의 업무상 횡령 의혹과 관련해 통일교 시설에 대해 두 차례 압수수색 영장을 집행했다. 한 총재의 횡령 혐의로 강제수사에 나서는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;합수본은 통일교 내부 자금이 조직적으로 유용돼 한 총재 측 비자금이 조성됐는지 여부를 들여다보고 있다. 합수본은 이날 확보한 통일교의 회계 자료와 내부 문건 등을 토대로 자금 흐름과 교단 운영 구조 등을 전반적으로 분석할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 중부지방 약한 봄비</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/06/BCDJMCC55RAMFDNH7WGPTWPBXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/06/BCDJMCC55RAMFDNH7WGPTWPBXI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 01:16:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRGMZTDGE4DMNDFG4ZTAZDGGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 오후 서울 중구 시청역 인근에서 시민들이 우산을 쓰고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 중부지방을 중심으로 약한 봄비가 예보됐다.&lt;br&gt;&lt;br&gt;6일 기상청에 따르면, 우리나라 북쪽을 통과하는 기압골의 영향으로 7일 오후부터 밤사이 수도권과 강원도, 충청권에 5㎜ 안팎의 비가 내리겠다.&lt;br&gt;&lt;br&gt;7일 아침 최저기온은 9∼18도, 낮 최고기온은 18∼27도로 예보됐다. 일교차가 15도 이상 벌어질 전망이다.&lt;br&gt;&lt;br&gt;8일에는 기압골의 영향을 받는 강원도에 5㎜ 내외의 비가 내리겠다.&lt;br&gt;&lt;br&gt;이후 주말까지는 전국이 고기압 영향권에 들면서 완연한 봄 날씨를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사제 총기·석궁 만들어 시험 발사한 50대 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/05/06/3K3B55Y3JVBKLB2EGQ7MJJVHLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/06/3K3B55Y3JVBKLB2EGQ7MJJVHLU/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>사제 총기와 석궁을 불법 제작·보관하며 시험 발사까지 해온 50대 남성이 경찰에 붙잡혔다.
+강원경찰청 광역범죄수사대는 총포·도검·화약류 등의 안전 관리에 관한 법률 위반 혐의로 50대 A씨를 구속했다고 6일 밝혔다.</description>
+      <pubDate>Wed, 06 May 2026 01:42:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYWCODEMNRWGYZWMRTDSMJUGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사제 총기와 석궁을 불법 제작·보관하며 시험 발사까지 해온 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원경찰청 광역범죄수사대는 총포·도검·화약류 등의 안전 관리에 관한 법률 위반 혐의로 50대 A씨를 구속했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년부터 인터넷으로 총기 부품을 구입해 살상용 사제 총기 3정과 석궁 2점을 제작한 혐의를 받고 있다. 그는 총기와 석궁에 쓰는 탄환과 화살촉도 직접 만든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨가 만든 총기는 조준경이나 탄창을 결합할 수 있는 구조였고, 석궁은 화살뿐 아니라 쇠구슬도 발사할 수 있도록 개조돼 있었다. &lt;br&gt;&lt;br&gt;특히 직접 만든 총알은 지름 약 8㎜로 일반 공기총(4.5~5.5㎜)보다 커 2㎝ 두께의 합판을 관통할 정도의 위력을 지닌 것으로 파악됐다. A씨는 자택 마당 등에서 여러 차례 시험 발사를 해오기도 했다.&lt;br&gt;&lt;br&gt;경찰은 “살상용 사제 총기를 만들어 보관하고 있는 사람이 있다”는 제보를 받고 수사에 착수했다”면서 “현장에서 천장 등에 숨겨둔 총기 3정과 석궁 2점, 다량의 총알과 화살촉, 총기 부품, 설계 도면 등을 압수했다”고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 총기 제작 과정에서 부품 제공이나 제작 수법 공유 등 공범이 있었는지 여부에 대해서도 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>멀쩡한 소를 병든 소로… ‘귀표 바꿔치기’로 4억대 보험금 챙긴 일당 검거</title>
+      <link>https://www.chosun.com/national/incident/2026/05/06/N2LKHB2H7BHADGO2MTKCDC4JCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/06/N2LKHB2H7BHADGO2MTKCDC4JCY/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 01:27:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MTPZ6NZTCRKYKCC4KRXLQSGU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 전경./전북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 지역에서 멀쩡한 한우를 병든 소로 위장해 도축하는 수법으로 수억 원대의 가축재해보험금을 타낸 축산업자와 수의사 등 일당이 무더기로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전북경찰청 광역범죄수사대는 보험사기방지특별법 위반 등 혐의로 주범인 축산업자 A씨를 구속 송치하고, 범행에 가담한 다른 축산업자들과 수의사 등 7명을 불구속 송치했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 가축재해보험에 가입된 소의 ‘귀표(소의 신원을 식별하는 인식표)’를 떼어내 보험에 가입되지 않은 도축 대상 소에게 달아주는 일명 ‘귀표 바꿔치기’ 수법을 사용한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이후 일당은 미리 섭외해 둔 수의사를 통해 멀쩡한 소가 질병에 걸렸다는 내용의 허위 진단서를 발급받았다. 이를 근거로 소를 ‘긴급 도축’한 뒤 보험사에 가축재해보험금을 청구하는 방식을 썼다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 이들은 2022년부터 올해까지 군산, 김제, 고창 등지에서 한우 농가 8곳을 운영하며 이 같은 수법으로 총 245회에 걸쳐 보험금 4억4000만원가량을 가로챈 것으로 드러났다. 보험사의 의심을 피하려고 여러 축사에서 보험금을 분산 청구했다. &lt;br&gt;&lt;br&gt;주범 A씨는 경찰 조사에서 혐의를 완강히 부인했으나, 경찰의 과학 수사 앞에 결국 덜미를 잡혔다. 경찰은 도축된 소의 DNA와 귀표에 등록된 소의 DNA가 일치하지 않는다는 점을 밝혀냈다. 또한, 허위 진단서상 ‘폐렴’으로 도축되었음에도 해당 소의 폐 부위가 정상적으로 시중에 유통된 사실 등 증거를 확보해 혐의를 입증했다.&lt;br&gt;&lt;br&gt;전북경찰청 관계자는 “가축재해보험은 축산 농가의 예상치 못한 손해를 보전하기 위해 공적 자금이 투입된 제도인 만큼, 개인의 사리사욕을 위해 악용하는 범죄에 대해서는 앞으로도 엄정하게 수사할 방침”이라고 강조했다.&lt;br&gt;&lt;br&gt;경찰은 이번 사건을 계기로 유사 범죄를 예방하기 위해 개별 농가가 직접 귀표를 부착하는 현행 관행을 개선하고, 재발행된 귀표 관리 감독을 강화하도록 관계 기관에 제도 개선을 요청할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰·고용노동부, 해군 잠수함 화재 HD현대중공업 압수수색</title>
+      <link>https://www.chosun.com/national/regional/2026/05/06/CPNCHX44JVEEDO3N2EQHSL2T4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/06/CPNCHX44JVEEDO3N2EQHSL2T4A/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 01:15:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4GENBZHEYWKYTBGA3TKMTCGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해군 잠수함인 '홍범도함'에서 발생한 화재로 협력업체 노동자 1명이 숨진 사고와 관련해 원인 규명을 위한 경찰 차량이 지난 달 14일 HD현대중공업 울산조선소 안으로 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰과 고용노동부가 6일 지난달 60대 하청 근로자가 잠수함 화재로 숨진 사고와 관련해 HD현대중공업 울산조선소를 압수수색했다.&lt;br&gt;&lt;br&gt;고용노동부 울산지청과 울산경찰청은 이날 오전 9시부터 근로감독관과 경찰관 등 60여명을 투입해 HD현대중공업 울산 본사와 협력업체 사무실에서 압수수색을 진행 중이다.&lt;br&gt;&lt;br&gt;지난달 9일 HD현대중공업 울산 본사에서 정비 작업을 진행 중이던 해군 잠수함 ‘홍범도함’에서 불이 나 협력업체 근로자인 60대 여성 1명이 숨졌다.&lt;br&gt;&lt;br&gt;두 기관은 관계자들의 PC 등을 확보하고, 화재 관련 대피와 같은 안전조치 이행 여부 등을 면밀히 살필 예정이다.&lt;br&gt;&lt;br&gt;또 압수수색을 통해 확보된 증거자료를 토대로 안전조치의무 책임 소재 등을 밝히고, 산업안전보건법 및 중대재해처벌법 위반 여부를 수사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구시, 7~8일 햇빛소득마을 조성 사업 주민설명회</title>
+      <link>https://www.chosun.com/national/regional/2026/05/06/2SSH64UMTRHF7AQXXTNTZONNBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/06/2SSH64UMTRHF7AQXXTNTZONNBM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 01:21:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LILJSAMA6ZA3LAGS47NALJZMKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;햇빛소득마을 선정 공모 포스터./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 7~8일 군위군과 달성군에서 ‘햇빛 소득 마을’ 조성 사업 주민 설명회를 연다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;햇빛 소득 마을 사업은 마을의 노는 땅이나 농지 등에 태양광 발전 시설을 설치하고, 여기서 생긴 수익을 공동체 복리 증진과 지역 경제 활성화 등에 활용하는 주민 참여형 재생에너지 모델이다. &lt;br&gt;&lt;br&gt;대구시는 이번 사업이 단순히 재생에너지를 보급하는 차원을 넘어 인구 감소와 고령화로 어려움을 겪는 농촌 마을에 지속 가능한 소득을 제공할 수 있을 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;설명회는 7일 오후 3시 군위군청 대회의실과 8일 오후 2시 달성군청 군민소통관에서 각각 열린다. 이 자리에서는 사업 취지와 참여 방법, 기대 효과 등을 상세히 설명해 주민 이해를 높이고, 자발적인 참여를 끌어낼 방침이다. 또 관계 기관이 참석해 태양광 설비 설치에 따른 계통 연계, 공공 유휴 부지 활용 등 주요 사항을 직접 안내할 계획이라고 대구시는 설명했다. 1차 사업은 이달 말, 2차는 7월 말까지 신청을 받는다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “사업 시행 첫해인 만큼 관계 기관과 함께 협동조합 구성부터 부지 및 재원 확보까지 현장 준비를 적극 지원할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[Dr.이은봉의 의학 연구 다이제스트] 살 안 빼고 내장지방만 줄여도 당뇨병 막는다</title>
+      <link>https://www.chosun.com/medical/2026/04/30/7EH2PT3ZEVGAZJJHNMMGWS2FRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/04/30/7EH2PT3ZEVGAZJJHNMMGWS2FRU/</guid>
+      <dc:creator>이은봉</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Apr 2026 15:41:00 +0000</pubDate>
+      <content:encoded>당뇨병은 당대사 호르몬인 인슐린이 모자라거나 제대로 작동하지 않아서 발생한다. 환자들은 당부하 검사 이상을 보이는 전(前)당뇨 단계를 거쳐서 당뇨병으로 진행한다. 전당뇨 단계에서 체중을 크게 줄이면, 당뇨병으로의 진행을 어느 정도 막을 수 있으나, 과도한 체중 감량은 현실적으로는 매우 어렵다. &lt;br&gt;&lt;br&gt;최근 독일 튀빙겐대 연구팀은 체중 감량 없이 당뇨병 진행을 억제할 수 있는 방안에 대한 연구를 국제학술지 네이처 메디신에 발표했다.&lt;br&gt;&lt;br&gt;연구는 전당뇨 단계에 있는 독일인 1105명을 대상으로 했다. 1년간 식이, 운동을 통한 생활 중재를 시행한 후, MRI를 통해서 체내 지방 분포 변화를 파악했다. 최대 9년간 추적관찰을 통해서 이들의 당뇨병 발생을 조사했다. &lt;br&gt;&lt;br&gt;분석 결과, 체중 감소가 없었던 234명 중 21%에서는 체중 감량이 없었음에도 불구하고 전당뇨가 소실됐다. 이들은 당뇨병 발생이 71% 감소했다.&lt;br&gt;&lt;br&gt;전당뇨가 소실된 환자(반응군)와 유지된 환자(비반응군)를 비교한 결과, 반응군은 피하지방이 늘고 내장지방이 줄어서 피하지방/내장지방 비율이 4.01에서 4.94로 늘어났다. 반면 비반응군에서는 내장지방이 늘어서 해당 비율이 줄어들었다.&lt;br&gt;&lt;br&gt;전당뇨가 사라진 반응군처럼 내장지방이 줄어들고 피하지방이 늘어나면, 아디포넥틴이라고 하는 지방호르몬이 증가한다. 그 결과 인슐린 감수성이 높아지고, 인슐린 분비도 늘어나기 때문에 전당뇨가 교정된 것으로 추정된다. 내장 지방을 줄이려면 식물 또는 생선에 많이 들어 있는 다불포화 지방산 섭취를 늘리고, 저녁 탄수화물 섭취를 줄이고, 하체 근력 운동을 실천해야 한다. 당뇨가 걱정된다면, 우선 복부 비만 내장 지방을 줄이는 데 집중해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CVN7INMZ3VGC5CR4FPXGMOX24A.jpg?auth=5a389e5e2545523852a3573e5f78e637dc9db44082786f58735991372e1c493f&amp;smart=true&amp;width=1000&amp;height=585" type="image/jpeg" height="585" width="1000">
+        <media:description type="plain">내장지방은 당뇨병·심장질환·뇌졸중 등 중대 질환 위험을 높인다. 내장비만이 심해지면 대사증후군은 4.1배, 고혈압과 고지혈증은 2배나 증가한다./게티이미지뱅크</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>서울고검 TF “이화영 수사 때 술 파티 있었다”</title>
       <link>https://www.chosun.com/national/court_law/2026/05/06/SO3M6B3FTZCU3DKI3EXUGLK4OE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/06/SO3M6B3FTZCU3DKI3EXUGLK4OE/</guid>
@@ -764,15 +943,6 @@
       <content:encoded>▲&lt;b&gt;이상복 &lt;/b&gt;서울대 의대 명예교수&lt;b&gt; &lt;/b&gt;별세, &lt;b&gt;장혜원 &lt;/b&gt;피아니스트 남편상, &lt;b&gt;이호원 &lt;/b&gt;백석예대 디자인학부 교수 부친상, &lt;b&gt;서명환&lt;/b&gt; 서울대병원 이비인후과 교수 장인상=3일4시 서울대병원, 발인 6일7시, (02)2072-2011&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종설 &lt;/b&gt;별세, &lt;b&gt;이정우&lt;/b&gt;·&lt;b&gt;이선우&lt;/b&gt;·&lt;b&gt;이원우 &lt;/b&gt;前&lt;b&gt; &lt;/b&gt;홍천읍 이장협의회 회장·&lt;b&gt;이혜정&lt;/b&gt;·&lt;b&gt;이충우&lt;/b&gt; 前 국회의원 수석보좌관 부친상=4일3시49분 강원 홍천군장례식장, 발인 6일8시, (033)436-1919&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전귀례 &lt;/b&gt;별세, &lt;b&gt;석대성&lt;/b&gt; 법률방송 기자 외조모상=4일1시 한양대구리병원, 발인 6일8시30분, (031)566-2040&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한경자 &lt;/b&gt;별세, &lt;b&gt;김대순&lt;/b&gt; 경기도 행정2부지사 모친상=4일4시45분 경북 영주 명품장례문화원, 발인 6일7시30분, (054)634-4444&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재미있는 과학] 우주에서는 소변을 정수해 ‘식수’로 활용한대요</title>
-      <link>https://www.chosun.com/national/nie/2026/05/05/VVUZVM5OKNG5VOFITR24B7LQWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/05/VVUZVM5OKNG5VOFITR24B7LQWA/</guid>
-      <dc:creator>김형자 과학칼럼니스트, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>54년 만에 달을 향해 떠났던 미국 유인 탐사선 ‘아르테미스 2호’가 지난달 10일(현지 시각) 새 역사를 쓰고 무사히 귀환했어요. 하지만 이 위대한 여정 뒤에는 아찔한 순간도 있었어요. 우주선이 발사되자마자 소변을 빨아들이는 장치가 고장 나면서 어려움을 겪었거든요. 화장실을 쓸 수 없게 된 우주비행사들은 급한 대로 비상용 비닐봉지를 사용했고, 다행히 지상 관제 센터의 도움을 받아 겨우 장치를 고쳤어요.&lt;br&gt;&lt;br&gt;그런데 며칠 뒤, 소변을 내보내는 호스가 꽁꽁 얼어붙어 막혀버렸어요. 우주비행사들은 호스를 녹이려고 히터를 틀고 우주선을 따뜻한 태양빛 쪽으로 기울이며 노력했지만 쉽게 해결되지 않았어요. 이 소식을 들으면 이런 궁금증이 생겨날 거예요. ‘대체 중력도 없는 우주선 안에서 화장실은 어떻게 작동하는 걸까?’라고 말이죠. 그럼 지금부터 우주 화장실의 원리에 대해 알아볼까요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDV2FZQAWVCWJBT2FSJ4DXY3UI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;우주 화장실은 수퍼 진공청소기&lt;/b&gt;&lt;br&gt;&lt;br&gt;지구에서는 화장실 걱정을 할 필요가 없어요. 사과가 땅으로 툭 떨어지듯, 우리 몸의 배설물도 중력 덕분에 변기 아래로 자연스럽게 가라앉으니까요. 하지만 중력이 거의 없는 우주에서는 배설물이 변기 아래로 떨어지지 않아요. 그래서 우주비행사들이 지구에서처럼 화장실을 사용하면 배설물이 우주선 안을 이리저리 둥둥 떠다니는 참사가 벌어질 거예요. 그러다 배설물이 우주선의 정밀한 전자 장비 틈으로 스며들어 고장을 일으킨다면 정말 큰일이겠죠. 게다가 배설물로 오염된 공기는 우주비행사들의 건강까지 위협할 수 있습니다.&lt;br&gt;&lt;br&gt;1969년 달에 처음 발을 내디딘 닐 암스트롱 시절만 해도 우주선에는 화장실이 없었어요. 대신 우주복 안에 특수 기저귀를 차고 견뎌야 했죠. 이후 미국 항공우주국(NASA)은 수십 년간의 연구 끝에 ‘진공 흡입식 화장실’을 발명해 냈습니다. 이 화장실은 변기 안쪽에 달린 ‘팬’이라는 장치의 강력한 흡입력을 이용해 배설물을 빨아들입니다. 마치 우리가 집에서 쓰는 진공청소기와 같은 원리예요.&lt;br&gt;&lt;br&gt;우주 화장실에는 소변과 대변용 흡입 장치가 각각 설치돼 있어서 소변과 대변이 따로따로 분리돼요. 소변은 호스를 통해 저장 탱크로 이동하고, 대변은 아래로 빨려 들어가 전용 봉투에 모아져 압축 저장됩니다. 이때 중력이 없다 보니 우주비행사가 가만히 앉아만 있어도 몸이 ‘붕’ 떠오를 수 있기 때문에, 엉덩이는 변기에 완전 밀착하고 손잡이를 잡은 채 발은 발 받침대에 고정시킵니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;소변이 마실 물로 변한다?&lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 진공청소기처럼 빨아들인 배설물은 그 뒤에 어떻게 처리될까요? 아르테미스 2호처럼 짧은 기간 우주 비행을 하고 올 때는 소변을 저장 탱크에 모아두었다가 일정 주기마다 우주로 배출합니다. 반면 몇 개월씩 머물러야 하는 국제우주정거장(ISS)에서는 소변을 정수해 식수로 활용합니다. 우주선에 실을 수 있는 물의 양은 한정되어 있어 물이 귀하기 때문이에요.&lt;br&gt;&lt;br&gt;사람의 소변은 95%의 물과 5%의 불순물(나트륨, 칼륨, 요소 등)로 이루어져 있습니다. 이 5%의 성분만 완벽하게 걸러내면 우리가 마시는 물과 똑같아지죠. 실제로 국제우주정거장에서는 강력한 정수 장치를 통해 소변의 98%를 깨끗한 생수로 만들어내고 있습니다.&lt;br&gt;&lt;br&gt;원리는 이렇습니다. 먼저 소변을 진공 상태에서 보글보글 끓여 수증기로 만든 다음, 이 수증기를 차갑게 식혀 맑은 물방울로 모읍니다. 이렇게 모인 물은 한 번 더 깐깐한 정화 과정을 거치게 되죠. 정화 장치의 소변이 식수로 만들어지는 데 걸리는 시간은 8일 정도 됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;0도 근처에서 소변 끓여&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 우주에서는 어떻게 소변을 끓일까요? 기압이 약해지면 물은 평소보다 훨씬 낮은 온도에서도 끓기 시작합니다. 예를 들어 에베레스트처럼 높은 산 정상에서는 공기가 희박해 기압이 낮아져서 70~80도만 돼도 물이 끓거든요. 특히 공기가 없는 우주에서는 기압이 거의 없어서 0도 가까이에서도 물이 끓을 수 있습니다. 우주선의 정화 장치는 바로 이 점을 이용해요. 정화 장치 안을 공기가 없는 진공 상태로 만들어, 아주 적은 에너지로 소변을 끓게 해서 수증기를 쏙쏙 뽑아내는 것이죠.&lt;br&gt;&lt;br&gt;소변은 물로 바꾼다지만 대변은 어떻게 될까요? 대변은 냄새가 밖으로 새 나가지 않도록 특수 봉투에 하나씩 담겨 꼼꼼하게 밀봉된 뒤 냉동 보관됩니다. 이렇게 차곡차곡 모인 봉투들은 화물선이 지구로 귀환할 때 가져오게 되죠.&lt;br&gt;&lt;br&gt;화물선이 지구 대기권으로 진입할 때는 엄청난 마찰열이 발생하는데요. 이때 화물선과 함께 대변 봉투들도 밤하늘의 별똥별처럼 활활 타오르며 흔적도 없이 사라진답니다. 우리가 밤하늘을 보며 빌었던 소원 중 하나는 어쩌면 우주비행사의 대변이 타오르며 만든 빛이었을지도 모르겠네요.&lt;br&gt;&lt;br&gt;화물선에 쓰레기를 담아 태우는 방식’은 주로 국제우주정거장(ISS)처럼 장기간 머무는 곳에서 쓰입니다. 상대적으로 짧은 기간 비행을 한 아르테미스 2호에는 도중에 쓰레기를 받아줄 화물선이 따로 붙지 않았습니다. 아르테미스 2호 우주비행사들의 대변은 화물선에 버려져 불타는 대신, 우주선 안의 특수 캔에 압축·밀봉돼 지구까지 함께 귀환했죠. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [사소한 역사] 일을 멈추고 산으로 가버린 평민들… 로마시대에도 파업 있었대요</title>
       <link>https://www.chosun.com/national/nie/2026/05/05/DZKSWAT7FRET3K62MJ3D4PPJLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/05/DZKSWAT7FRET3K62MJ3D4PPJLI/</guid>
@@ -791,28 +961,6 @@
       <content:encoded>오는 9일 이탈리아 베네치아에서는 세계 최대 현대미술 행사인 베네치아 비엔날레가 열립니다. 베네치아 비엔날레는 1895년 시작됐어요. 격년제로 열리는 게 특징인데, 비엔날레라는 단어부터 이탈리아어로 ‘2년’이란 뜻이에요.&lt;br&gt;&lt;br&gt;이 행사는 이탈리아 왕의 은혼식(결혼 25주년)을 기념해 베네치아 시의회가 처음 추진했어요. 당시 베네치아는 1000년간의 화려한 공화국 역사가 끝난 지 100년이 지나면서 산업은 쇠퇴한 상태였습니다. 그렇지만 낭만적인 풍경 덕분에 관광객이 모여들면서 유럽 최고의 관광 도시로 부상했죠. 첫 비엔날레에 22만명이 몰렸어요. 베네치아 전체 인구보다 많았습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLSMQECXBJH4FIVKMN5YMDT7KA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 한국문화예술위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베네치아 비엔날레는 크게 본전시와 국가관으로 나뉩니다. 본전시는 총감독이 세계 각국의 작가를 초청해 열리는 형태입니다. 국가관은 세계 각국이 대표 작가들을 선정해 단독 전시를 여는 거예요. 1907년 벨기에가 가장 먼저 국가관을 세웠어요. 베네치아 본섬 동쪽 끝 자르디니 공원이었죠. 이후 국가관은 계속 늘어났습니다. 우리나라는 1995년에 자르디니 공원 내 26번째로 국가관을 세웠습니다. 그 직후 공원은 더 이상 국가관을 세울 수 없을 정도로 포화 상태가 됐어요. 지난해 공원 입구 쪽에 카타르 국가관이 생긴다는 소식이 발표됐는데, 내년 완공되면 32년 만에 공원에 생기는 국가관이 됩니다.&lt;br&gt;&lt;br&gt;자르디니 공원이 포화 상태가 된 뒤로는 아르세날레에 국가관이 생겼습니다. 아르세날레는 베네치아 공화국 때 조선소 겸 해군 무기고로 쓰이던 유적지예요. 1999년 비엔날레 본 전시가 자르디니 공원을 넘어 아르세날레로 확장되면서 공간을 리모델링했고, 이때 몇몇 국가들이 국가관을 갖게 됐습니다. 그중 가장 규모가 큰 곳은 중국관과 이탈리아관이에요. 나머지 나라들은 베네치아 곳곳 건물을 매번 임대해 국가관으로 활용합니다. &lt;br&gt;&lt;br&gt;베네치아 비엔날레 하면 보통 예술전만 떠올리지만 사실 건축전도 열려요. 1980년 처음 시작한 건축전은 1990년대 후반 완전히 자리 잡았죠. 예술전과 건축전이 돌아가면서 열리니까 베네치아는 매년 비엔날레를 여는 셈이에요. 2014년 ‘한반도 오감도’라는 제목의 전시를 열었던 한국관은 최우수 국가관에 주는 황금사자상을 받았어요. 예술전에 쏠려 있던 국내 관심이 건축전으로 확장되는 계기가 됐죠.&lt;br&gt;&lt;br&gt;내년 열리는 건축전은 중국 국적으로 처음 프리츠커 건축상을 받은 왕슈와 그의 아내 류웬위가 최초의 중국인 총감독으로 공동 선임됐어요. 중국 항저우를 기반으로 활동하는 그들은 중국 전통 건축 기법을 현대 건축에 응용하는데요. 옛 벽돌과 기와를 콘크리트와 혼합한 ‘와편장’ 기법을 사용한 중국 저장성 닝보 역사박물관이 그들의 대표작입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“뇌사 아들로 한밑천” 막말... 대한체육회 사무총장 사의</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/04/SIDPL5JBK5ARVGK5OEDLDMGUI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/04/SIDPL5JBK5ARVGK5OEDLDMGUI4/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 13:26:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3FQ5FMD4JRFADTDWULTKTLWK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인사말 하는 김나미 대한체육회 사무총장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;복싱 경기 중 의식을 잃은 중학생 선수에 대해 부적절한 발언을 한 김나미 대한체육회 사무총장이 사의를 밝혔다. &lt;br&gt;&lt;br&gt;대한체육회는 4일 “김나미 총장이 최근 제기된 사안과 관련해 책임을 지고 사임 의사를 표명했다”고 발표했다. &lt;br&gt;&lt;br&gt;김 총장은 체육회를 통해 “국민과 체육인 여러분께 심려를 끼쳐드린 점에 대해 깊이 사과드린다. 공직자로서 무거운 책임감을 느끼고 직위에서 물러나겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;김 총장은 작년 9월 전국시도복싱대회 경기 도중 쓰러진 뒤 의식을 찾지 못한 중학생 복싱 선수 A군 가족에 대해 했던 발언이 공개돼 비판을 받았다. &lt;br&gt;&lt;br&gt;당시 김 총장은 A군 부모에게 “100% (체육회가) 책임지겠다”고 했으나 이후 입장을 바꿨다. &lt;br&gt;&lt;br&gt;목포MBC가 공개한 녹취록에 따르면, 김 총장은 A군에 대해 “처음부터 가능성이 없었다. 이미 뇌사다. 이제 깨어날 수 있는 확률이….”라고 말했고, “(다른) 마라톤 대회에서 사고로 한 사람이 죽었는데 가족들이 장기 기증을 했다”는 발언을 했다. &lt;br&gt;&lt;br&gt;A군 가족이 녹취하려 한 데 대해 “아들 이렇게 된 걸로 뭔가 한밑천 잡으려고 하는 건가 할 정도로 굉장히 기분 나빴다”는 말도 했다. &lt;br&gt;&lt;br&gt;파장이 커지자 유승민 대한체육회장은 해외 출장 일정을 당겨 귀국한 뒤 김 총장에 대한 징계 절차에 돌입했다. 이후 김 총장은 사의를 밝혔다. 이에 따라 신동광 사무부총장이 총장 대행을 맡게 됐다. &lt;br&gt;&lt;br&gt;사임한 김 총장은 알파인스키 국가대표 출신으로 국제바이애슬론연맹 부회장, 체육인재육성재단 사무총장 등을 역임했으며, 유 회장이 취임한 이후 지난해 3월 최초 여성 총장으로 선임됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/B3HDBEARGZAF5BCUF6CYS53J2M.jpg?auth=0ab3d8e349cf1c09d84d3dac7238abafbf85071cba69e75845ac138a9ae1be1a&amp;smart=true&amp;width=453&amp;height=340" type="image/jpeg" height="340" width="453">
-        <media:description type="plain">인사말 하는 김나미 대한체육회 사무총장</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>차량에 고의로 손 부딪히고 합의금 뜯어낸 50대 긴급체포</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2026/05/04/3XE7GCA45FAUHPDYPMB42ZESZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/05/04/3XE7GCA45FAUHPDYPMB42ZESZ4/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 13:22:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQWENJQMZRDQOBVMVSDGMZQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 춘천경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주행 차량에 고의로 손을 부딪히는 수법으로 여성 운전자들에게 돈을 뜯어낸 50대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 사기 혐의로 A(51)씨를 붙잡아 조사하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 30일부터 총 4차례에 걸쳐 여성이 운전하는 차량에 고의로 손을 부딪히는 ‘손목치기’ 수법으로 돈을 받아 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;총 4차례의 범행 중 1차례는 미수에 그쳤다. 3차례의 범행에서는 총 16만800원을 받아 챙겼다.&lt;br&gt;&lt;br&gt;같은 수법으로 범행을 이어가던 A씨는 같은 장소에서 동일한 운전자를 상대로 다시 범행을 시도하다 운전자가 112에 신고하면서 덜미를 잡혔다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 긴급체포하는 한편, 구체적인 범행 동기와 여죄를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경실련도 “특검법 중대한 위헌 소지... ‘공소 취소’ 부여 조항 삭제하라”</title>
       <link>https://www.chosun.com/national/court_law/2026/05/04/B7AQRTBIGNBN5EVRSO7M74MKLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/B7AQRTBIGNBN5EVRSO7M74MKLM/</guid>
@@ -826,33 +974,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘여권 무효’ 한국인 친팔레스타인 활동가, 다시 가자지구행 </title>
-      <link>https://www.chosun.com/national/national_general/2026/05/04/P2OZXVFYGBFHXEGJFNLIBKVMXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/04/P2OZXVFYGBFHXEGJFNLIBKVMXQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 12:24:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O53FTNXUJFDIPEMLXSABGZ6IMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진은 한국인 활동가가 탑승한 것으로 추정되는 구호선단 모습. / 시민단체 '팔레스타인 해방을 위한 항해 한국본부'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 팔레스타인 가자지구로 향하다 이스라엘군에 구금됐던 한국인 활동가가 다시 가자지구로 이동 중이다. &lt;br&gt;&lt;br&gt;시민단체 ‘팔레스타인 해방을 위한 항해 한국본부’는 4일 소셜미디어에 “한국 시각으로 2일 오후 11시 김아현(활동명 해초)씨가 자유선단연합 소속 구호선단 ‘리나 알 나블시호’에 탑승해 가자로 가는 항해를 시작했다”고 전했다.&lt;br&gt;&lt;br&gt;단체는 “팔레스타인 민중들이 자신의 땅 위에서 자유롭게 이동하고 스스로의 삶을 결정할 권리가 있는 것과 마찬가지로, 가자로 향하는 우리의 항해 역시 어떠한 행정적 폭력으로도 가로막을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “바다를 군사화된 폭력과 통제의 장소로 삼고 팔레스타인과 연대를 가로막는 모든 시도에 강력히 대항할 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 김씨는 작년 10월 가자지구 봉쇄에 반대하는 구호선단 ‘천 개의 매들린 호’에 탑승해 가자지구로 향하던 중 이스라엘군에 배가 나포돼 현지 교도소에 수감됐고 이틀 만에 풀려났다. 그는 지난 1월 언론을 통해 가자 구호선단 운동에 다시 참여할 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;이에 외교부는 김씨의 여권을 지난달 4일부로 무효화했다. 김씨는 외교부의 여권 반납 명령 처분에 대해 집행정지를 신청했으나 법원은 지난달 3일 기각했다. 김씨는 처분 전 해외로 출국한 것으로 알려졌으며, 가자지구 방문의 위험성을 알리려는 외교부의 연락을 받지 않은 것으로 전해졌다. 외교부는 관련 국가 당국에 김씨의 안전을 요청하는 등 조처를 할 것으로 예상된다.&lt;br&gt;&lt;br&gt;가자지구는 여권법 등에 따라 허가 없는 방문·체류가 금지된 지역이다. 예외적 여권 사용 허가를 받지 않고 방문·체류하면 1년 이하 징역 또는 1000만원 이하 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산신항 부두 변전소서 20대 남성 감전 사고로 숨져</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2026/05/04/RDWN53E3NBG23D6ZXTBSQWXBLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/05/04/RDWN53E3NBG23D6ZXTBSQWXBLQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 12:15:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차량. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 강서구 부산신항 한 변전소에서 작업 중이던 20대 남성이 감전 사고로 숨졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 4일 오전 9시 30분쯤 부산 강서구 부산신항 한 부두 변전소에서 크레인 전원 차단 작업을 하던 A(20대)씨가 쓰러진 채 발견됐다. A씨는 소방 당국에 의해 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 작업 중 원인을 알 수 없는 이유로 감전됐고, 이후 화재가 발생한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;노동당국은 해당 번전소에 작업 중지 명령을 내리고 산업안전보건법과 중대재해처벌법 위반 여부를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>넷플릭스 이어 메타도 국내 법인세 취소 1심서 승소</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/04/YI3E753IGBCYND6EUNAND7GLRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/YI3E753IGBCYND6EUNAND7GLRM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 11:11:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TCYTEGIYDEYRSHEZGMYZXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;메타 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페이스북과 인스타그램을 운영하는 메타가 국내 과세 당국의 법인세 부과에 불복해 낸 행정소송 1심에서 일부 승소했다. &lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 메타 아일랜드 법인이 역삼세무서장을 상대로 낸 법인세 부과 처분 취소 소송에서 지난달 23일 원고 일부 승소로 판결했다. &lt;br&gt;&lt;br&gt;메타는 2010년 11월 페이스북코리아와 페이스북·인스타그램 광고 판매 및 마케팅 서비스 계약을 맺고 일정 금액을 지급해왔다. 페이스북코리아는 2019년 11월 국내 광고주들에게 광고를 재판매하고 법인세를 납부하기 시작했다.&lt;br&gt;&lt;br&gt;국세청은 2019~2020년 메타에 대해 통합 세무 조사를 실시하고, 메타가 페이스북코리아의 국내 사업장과 직원을 통해 국내 일부 광고주들에게 광고를 판매하는 등 국내 고정 사업장을 두고 있다고 보고 직권으로 사업자 등록을 했다. 이어 역삼세무서는 페이스북코리아가 메타의 국내 고정 사업장에 해당한다고 보고 메타의 광고 판매 소득에 대해 법인세와 부가가치세를 부과했다.&lt;br&gt;&lt;br&gt;메타 측은 국내 사업장은 한국 법인이 별도의 사업을 수행하는 곳일 뿐이고, 한국에서의 업무도 판촉 활동 등 예비적·보조적 활동에 불과하다고 맞섰다. 한·아일랜드 조세 협약 등에 따르면 외국 법인의 일반 고정사업장은 물리적 장소가 있어야 하고 이에 대한 처분·사용 권한을 가지며 본질적이고 중요한 사업 활동을 해야 한다.&lt;br&gt;&lt;br&gt;재판부는 메타 측 손을 들어줬다. 메타 아일랜드 법인이 한국 사업장에 대한 처분·사용권을 갖고 있지 않다는 취지다. 재판부는 “한국 법인이 아일랜드 법인에 제공한 용역 활동이 아일랜드 법인에 경제적 이익을 제공한다고 해서 이를 곧 사업 활동의 일부라고 평가할 수 있는 근거는 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “한국 법인이 (페이스북·인스타그램 등) 플랫폼의 개발·운영에 전혀 관여한 바 없다”며 “홍보 및 판촉 활동은 특별한 사정이 없는 한 사업활동에서 본질적이고 중요한 부분이 아니라 보조적인 활동에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난달 글로벌 동영상 스트리밍 서비스(OTT) 업체 넷플릭스도 서울 종로세무서장을 상대로 법인세 부과 취소 처분을 내 일부 승소한 바 있다. 법원은 762억원 가운데 687억원을 취소해야 한다고 판결했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘매출 부풀리기’ 카카오모빌리티 前 CFO 과징금·징계...법원 “위법”</title>
       <link>https://www.chosun.com/national/court_law/2026/05/04/BZOWUZSOQRHTVLSN7CMCICUSEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/BZOWUZSOQRHTVLSN7CMCICUSEU/</guid>
@@ -860,133 +981,6 @@
       <description/>
       <pubDate>Mon, 04 May 2026 11:19:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRGENLEGY3DAZTEGEYTEOBXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카카오T 운영사인 카카오 모빌리티/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융당국이 카카오모빌리티의 ‘매출 부풀리기’ 의혹과 관련해 최고재무책임자(CFO)에게 내린 징계와 과징금이 위법하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 호성호)는 이창민 전 카카오모빌리티 CFO가 증권선물위원회와 금융위원회의 징계 처분을 취소해달라며 낸 소송에서 지난달 10일 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;증권선물위원회는 2024년 11월 이 전 CFO에 대해 면직 권고와 6개월 직무정지 처분을 의결했고 금융위원회는 그해 12월 과징금 3억4062만원을 부과했다. 카카오모빌리티가 2020~2022년 재무제표에서 택시 가맹수수료(약 20%)와 업무제휴수수료(약 17%)를 각각 전액 매출과 비용으로 잡는 ‘총액법’을 적용한 것을 문제 삼았다. 외형상 계약 구조만을 근거로 수수료 전액을 매출로 인식한 것은 회계 기준 위반이며, 중대한 과실에 해당한다고 봤다. 이 전 CFO는 이에 불복해 작년 1월 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;법원은 회계 기준 위반 자체는 인정하면서도, 이를 ‘중대한 과실’로 보기는 어렵다고 판단했다. 재판부는 “총액법을 적용해 수익과 비용이 과대 계상된 것은 기준 위반”이라면서도 “고의나 중대한 과실, 또는 현저한 주의의무 위반이 있었다고 보기는 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;징계 수위도 지나치다고 봤다. 재판부는 “수익과 비용이 같은 수준으로 늘어났을 뿐 영업이익 등 핵심 지표에 미치는 영향은 제한적”이라며 “투자자에게 중요한 정보가 은폐되는 등 실질적 피해가 발생했다고 보기 어렵다”고 했다. 또 당시 관련 회계 기준에 대한 선례가 충분하지 않았고 외부 감사에서도 ‘적정 의견’이 나온 점을 고려해야 한다고 덧붙였다.&lt;br&gt;&lt;br&gt;재판부는 “이 전 CFO가 특별히 주의의무를 심각하게 위반했다고 보기 어렵다”며 면직 권고 등 제재는 “지나치게 가혹하다”고 판단했다. 증선위와 금융위는 이 판결에 불복해 지난달 30일 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘故 김창민 감독 사건’ 가해자 구속에...정성호 장관 “보완수사가 만들어낸 일”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/04/HUT3EQ35YFBOZGLXLUHMLNXZAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/HUT3EQ35YFBOZGLXLUHMLNXZAU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 10:03:41 +0000</pubDate>
-      <content:encoded>정성호 법무부 장관이 4일 고(故) 김창민 감독의 상해치사 사건과 관련해 “가해자 2명이 구속됐다”며 “지난해 10월 사건 발생 후 7개월이 지나서야 이뤄진 구속에 고인과 유가족께 송구한 마음”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3WCMBXGZSTMZJZGBRTGMBWG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 페이스북을 통해 “고인의 억울함을 풀기 위해 검찰은 지난달 초 경찰로부터 사건을 송치받은 직후 전담팀을 구성했고, 초동수사의 미진함을 지적한 유족들의 호소와 엄중한 처벌을 요구하는 국민의 요구에 부응하기 위해 보완수사에 총력을 다해왔다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 가해자 자택 압수수색과 휴대전화 분석을 통해 범행 의도와 증거인멸 정황을 확보했다고 한다. 이와 관련해 정 장관은 “사건 발생 후 6개월 만의 첫 가해자 자택 압수수색과 압수된 휴대전화에서 ‘죽여버리려 했다’는 취지의 가해자들 녹취와 증거인멸 모의 정황을 찾아냈다”고 했다.&lt;br&gt;&lt;br&gt;또 “폭행이 사망의 직접적 원인임을 입증하는 전문 의학 소견을 보강하고, 발달장애 아들이 보는 앞에서 아버지를 폭행한 잔인함에 대해서는 ‘장애인복지법 위반’ 혐의를 추가 적용했다”고 말했다.&lt;br&gt;&lt;br&gt;정 장관은 특히 “그 결과 초동수사에서 두 번 기각됐던 구속영장을 발부받았다”며 “사건을 다시 들여다보고 실체에 다가설 두 번째 기회인 보완수사로 만들어 낸 일이었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 “오늘의 구속이 상처 입은 유족들께 작은 위로가 되길 소망한다”며 “법무부는 피해자의 억울함은 풀고, 범죄자는 단 하루도 편히 잠들지 못하도록 국민을 보호하는 정교하고 촘촘한 형사사법 시스템을 만들어 가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 청도군 ‘승진 청탁 의혹’ 수사 대상자 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/2026/05/04/AZJIXE7WX5FZVIXR7X2DFQZ2YY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/04/AZJIXE7WX5FZVIXR7X2DFQZ2YY/</guid>
-      <dc:creator>청도=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 09:52:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGJDZ74YYVBKHEEWDEXW7ZZGKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 청도에서 공무원 승진 청탁에 관여한 혐의로 경찰 수사를 받아온 70대 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;4일 경찰에 따르면 전날 오후 4시쯤 경산시 남천면 한 야산에서 70대 김모씨가 숨져 있는 것을 행인이 발견해 신고했다.&lt;br&gt;&lt;br&gt;경북경찰청은 “숨진 김씨가 청도군 매관매직 사건 수사 대상자”이며 “타살 혐의점은 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;청도군수 측근으로 알려진 김씨는 지난 3월, 공무원에게 승진 청탁과 함께 수천만 원을 받아 전달한 혐의로 고발당해 경찰 수사를 받고 있었다.&lt;br&gt;&lt;br&gt;고발인 측은 고발장을 통해, 자신이 공무원에게 승진 대가로 돈을 받아 김씨를 통해 김하수 청도군수에게 전달했다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “김씨를 불러 조사한 적은 없지만 사망에 따라 ‘공소권 없음’으로 사건을 종결하고, 해당 사건의 수사는 예정대로 이어갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘통일교서 1억 수수’ 권성동, 2심 징역 2년에 상고</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/04/5ELIELH2NFH6VMKYBWOGZIRXYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/5ELIELH2NFH6VMKYBWOGZIRXYI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 07:32:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYGIZBQGFQWCZRXHA2TMYTEGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 권성동 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교 측에서 불법 정치자금 1억원을 받은 혐의로 항소심에서도 징역 2년의 실형을 선고받은 국민의힘 권성동 의원이 대법원에 상고했다. 권 의원 측은 4일 항소심 재판부인 서울고법 형사2-1부(재판장 백승엽)에 상고장을 제출했다.&lt;br&gt;&lt;br&gt;권 의원은 2022년 1월 5일 윤영호 전 통일교 세계본부장에게서 윤석열 정부 교단 지원 등 청탁과 함께 불법 정치자금 1억원을 받은 혐의(정치자금법 위반)로 지난해 10월 구속 기소됐다. 항소심 재판부는 지난달 28일 선고 공판에서 특검과 권 의원 측의 항소를 모두 기각하고 징역 2년과 추징금 1억원을 선고했다.&lt;br&gt;&lt;br&gt;당시 항소심 재판부는 “이 사건 정치자금은 대의민주주의와 정교분리의 원칙이라는 헌법적 가치를 본질적으로 침해하고, 권 의원은 지역구민을 포함해 국민의 기대와 국회의원으로서의 헌법상 책무를 저버렸다”고 했다.&lt;br&gt;&lt;br&gt;권 의원 측은 항소심 선고 후 입장문을 내고 “이 재판은 기초적인 사실관계 확인조차 없이 미리 정해둔 결론을 향해 진행된 요식 절차에 불과했다”며 “수사기관의 부당한 조사 방식이 드러났음에도 법원이 묵인해줬다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경쟁사 단가 부풀려 특정 업체 낙찰 도운 한화에어로 전 직원 ‘징역 2년’ </title>
-      <link>https://www.chosun.com/national/2026/05/04/ICEHRIUBSJE63LZKO72NGXPQZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/04/ICEHRIUBSJE63LZKO72NGXPQZU/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 09:17:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTONRTMRRTCZJVMY2TCNTEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방법원./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뒷돈을 받고 청탁받은 업체의 낙찰을 도운 혐의로 재판에 넘겨진 한화에어로스페이스 전 직원에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사1단독 김세욱 부장판사는 업무상배임 및 배임수재 혐의로 기소된 한화에어로스페이스 전 직원 A(40대)씨에게 징역 2년을 선고하고, 수수액 전액인 4억8600여만원에 대한 추징을 명령했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 방산기업인 한화에어로스페이스에서 해외 부품 구매 업무를 담당하면서 2022년 2월부터 이듬해 4월까지 입찰을 조작해 특정 기업 2곳이 낙찰받도록 도와 회사에 손해를 입힌 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 지난 2019년부터 2024년 5월까지 한화에어로스페이스에서 해외 부품 구매 업무를 담당한 핵심 실무자였다. 해외 업체로부터 복수의 견적을 받아 납품 단가와 품질, 기한 등을 비교·분석하고, 단가가 저렴한 업체를 선정해 계약을 체결하는 게 주된 업무였다.&lt;br&gt;&lt;br&gt;그런 A씨에게 유착 관계에 있던 업체 두 곳이 “낙찰 받을 수 있게 도와달라”고 청탁했다. &lt;br&gt;&lt;br&gt;이에 A씨는 지난 2022년 2월 한 부품 낙찰 과정에서 경쟁사가 기재한 부품 단가를 부풀려 기재했다. 청탁 업체는 경쟁사보다 부품 단가를 적게 쓰고 낙찰받도록 했다. &lt;br&gt;&lt;br&gt;결과적으로 회사는 불필요한 비용을 지불하면서 부품을 구매한 셈이다. &lt;br&gt;&lt;br&gt;A씨는 이 같은 수법으로 총 6차례에 걸쳐 회사에 9858달러 상당의 재산상 손해를 가한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 4월부터 같은 해 12월까지 낙찰 청탁의 대가로 두 업체 관계자에게서 총 4억8642만6590원을 챙긴 것으로 드러났다. &lt;br&gt;&lt;br&gt;김 부장판사는 “이 사건 범행은 업무 관련성이 높은 업체 관계자들로부터 거액을 받은 것으로, 계획적인 범행이고 범행 동기와 수법에 비춰 죄질도 매우 불량해 실형의 선고가 불가피하다”며 “A씨가 범행을 모두 인정하고 반성하고 있는 점, 배임수재로 얻은 이득액 대부분이 추징을 통해 환수될 것으로 보이는 점 등을 양형에 참작했다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>슈퍼주니어 려욱, 어린이날 맞아 1억 기부…국내 취약계층 아동 지원</title>
-      <link>https://www.chosun.com/national/people/2026/05/04/4AL2VW53KJBBLBQGI2OSZ7VEMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/04/4AL2VW53KJBBLBQGI2OSZ7VEMI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 06:25:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXJVWNTXQ26UF24ZV227YTKLHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 슈퍼주니어 멤버 려욱. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘슈퍼주니어’의 멤버 려욱이 어린이날을 맞아 국내 취약계층 아동 지원을 위해 1억원을 기부했다. &lt;br&gt;&lt;br&gt;4일 국제개발협력NGO 지파운데이션은 려욱의 기부 소식을 전하며 기부금은 결식 우려 아동과 보육원 아동을 위한 지원사업에 각각 5000만원씩 배분돼 사용될 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;지파운데이션은 전달된 기부금을 바탕으로 결식 우려 아동에게 식료품 키트와 식비를 지원해 안정적인 식생활을 돕고, 보육원 아동에게는 교육·의료·문화체험을 연계한 통합 지원을 통해 발달 단계에 맞는 성장과 정서적 안정을 지원할 계획이다.&lt;br&gt;&lt;br&gt;지파운데이션 박충관 대표는 “아이들의 오늘과 내일을 함께 고민하며 의미 있는 나눔을 실천해주신 려욱 님께 깊이 감사드린다”며 “전달해주신 기부금은 도움이 필요한 아동들에게 실질적인 변화를 만들어낼 수 있도록 투명하게 사용할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;지파운데이션은 UN 경제사회이사회(UN ECOSOC)의 특별 협의적 지위를 취득한 국제개발협력 NGO로 해외 개발도상국을 대상으로 교육 지원, 보건의료 사업 등을 비롯해 국내 아동·청소년 지원 사업, 저소득 여성 지원 사업, 사회적 경제 사업 등 활발한 사업을 수행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 김병기 의원 ‘뇌물·불법 정치자금’ 혐의로 일괄 송치 방침</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/04/QMQ6JP6FN5DGFNDL4X3N72NO2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/04/QMQ6JP6FN5DGFNDL4X3N72NO2M/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 09:10:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQTEYJXMJRDKZBXHBTDIOLDMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원이 지난달 8일 서울 마포구 서울경찰청 공공범죄수사대에 조사받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김병기(무소속·서울 동작갑) 의원의 불법 정치자금 수수와 차남 특혜 의혹 등 13가지 혐의에 대한 수사를 조만간 마치고 일괄 송치한다는 방침을 세운 것으로 4일 전해졌다. 김 의원의 차남 채용 청탁 의혹에 대해서는 뇌물죄를, 전직 동작구의원들에게 3000만원을 받은 의혹에 대해서는 정치자금법 위반죄가 적용될 전망이다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 최근 김 의원의 각종 의혹에 대한 처분 방향과 신병 처리 여부를 결정한 뒤 모든 혐의를 한꺼번에 검찰에 넘기는 쪽으로 가닥을 잡은 것으로 알려졌다. 앞서 박정보 서울경찰청장은 기자간담회에서 김 의원의 일부 혐의를 먼저 분리 송치하겠다고 밝혔지만, 수사팀 내부 검토 후 일괄 송치하는 것으로 바꾼 것이다. 경찰은 지난달 10일 김 의원에 대한 7차 조사를 진행한 뒤 혐의별 적용 법리와 처분 방향을 결정하는 데 집중하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 김 의원이 차남의 빗썸 취업과 관련해 영향력을 행사했다는 의혹에 대해선 뇌물죄 적용을 검토 중이다. 국회 정무위원회 소속으로 가상자산 업계에 영향력을 행사할 수 있는 김 의원이 빗썸 경영진과 만나 “아들을 채용해 달라”고 청탁하고, 이후 정무위에서 경쟁 거래소인 두나무를 겨냥한 질의를 준비했다는 김 의원 보좌진 진술을 확보했기 때문이다. 경찰은 김 의원의 채용 청탁 등에 직무 관련성, 대가성이 인정되는 것으로 보고 있다. 김 의원 차남이 한 중소기업에 위장 취업해 숭실대에 편입했다는 의혹에 대해서도 뇌물죄 적용이 검토되고 있다.&lt;br&gt;&lt;br&gt;김 의원 아내와 측근이 2020년 4월 총선 직전 전직 동작구의원 2명에게 현금 3000만원을 받은 의혹에 대해선 정치자금법 위반죄가 적용될 것으로 보인다. 앞서 구의원들은 경찰 조사에서 “김 의원 아내가 ‘남편 선거에 돈이 필요하다’는 식으로 눈치를 줘 돈을 줬다”는 취지로 자백했다. 김 의원 측은 “돈을 요구한 적도 없고, 받은 적도 없다”며 부인했지만, 경찰은 김 의원이 선거에 사용할 용도로 불법 정치자금을 받은 것으로 본다.&lt;br&gt;&lt;br&gt;김 의원은 여러 차례에 걸친 경찰 조사에서 “모든 의혹은 사실무근”이라며 혐의를 부인했다고 한다. 경찰은 김 의원에 대해 구속영장을 신청할지 검토 중이다. 다만 법조계 일각에선 경찰이 6·3 지방선거를 앞두고 김 의원에 대한 신병 처리나 처분을 결정하기 어려울 것이라는 전망도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘故 김창민 감독 사망사건’ 피의자 2명, 구속</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/04/JTBUZ24JKJE63OWUQ65RBWHNU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/04/JTBUZ24JKJE63OWUQ65RBWHNU4/</guid>
-      <dc:creator>남양주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 07:00:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTQZRVME2TGNZXGI2WKNZUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김창민 감독&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김창민 영화감독을 폭행해 숨지게 한 피의자들이 구속됐다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 오덕식 영장전담 부장판사는 4일 상해치사 혐의를 받는 A씨와 B씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 “도주 및 증거 인멸의 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;A씨와 B씨는 작년 10월 20일 오전 1시쯤 경기 구리시의 한 식당 앞에서 김 감독을 집단으로 폭행해 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 김 감독은 발달장애가 있는 아들과 함께 식당을 찾았다가 다른 손님들과 언쟁이 벌어졌고, 폭행을 당한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;폭행으로 인해 의식을 잃은 김 감독은 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;폭행 장면은 식당 안팎 CCTV에 담겼다. 이 사건은 김 감독의 유족 측에서 부실 수사 등 문제를 제기해오면서 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 사건 직후 피의자 1명에 대해 구속영장을 신청했지만 검찰이 보완수사를 요구하며 반려됐다. 이후 추가 피의자를 특정해 다시 영장을 신청했지만 법원은 주거가 일정하고 증거 인멸 우려가 없다는 이유로 영장을 기각한 바 있다.&lt;br&gt;&lt;br&gt;논란 이후 검찰은 당시 사건 현장에 김 감독과 함께 있었던 아들을 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;이후 지난달 15일 피의자들의 자택을 압수수색하고 24일 10시간가량 소환 조사한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WTA3YX6VAVHORKO56RURPBSUPA.jpg?auth=12bc133e397cd9391f04dd835162a3f937969910afaf19f4422d6d2a2ab3b6f1&amp;smart=true&amp;width=647&amp;height=485" type="image/jpeg" height="485" width="647">
-        <media:description type="plain">故 김창민 감독의 생전 모습 / 사진 : 허지웅 인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] 종합특검 ‘조서 SNS 업로드’ 수사관 징계...감봉 1개월</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/04/WFEMPGDDF5GZJJQT2RBJVETEZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/WFEMPGDDF5GZJJQT2RBJVETEZY/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 05:16:52 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2TCYRWMIZDAMJSGNTGCYJTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시에 있는 2차 종합특검팀 사무실./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 종합특검 ‘조서 SNS 업로드’ 수사관 징계...감봉 1개월&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유은혜, 불출마 선언...경기 교육감, 보수 임태희-진보 안민석 대결로 </title>
-      <link>https://www.chosun.com/national/education/2026/05/04/4AKYGYMW35GRPBOYU2A2QKY3MQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/04/4AKYGYMW35GRPBOYU2A2QKY3MQ/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 05:14:00 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RTCNBSGVSDKN3DMM2TQOJWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유은혜 전 교육부장관이 4일 경기도의회 브리핑룸에서 경기도교육감 출마 기자회견을 하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육감 예비후보로 나섰던 유은혜 전 교육부 장관이 불출마 선언을 했다. 최근 진보 후보 단일화 결정 이후 경선 과정에 불복, 단독 출마를 고심했는데 불출마로 가닥을 잡은 것이다. 이에 따라 다음 달 3일 치러지는 선거에서 경기도교육감을 두고 보수 진영에서 임태희 현 교육감과 진보 진영 안민석 후보 간 대결로 좁혀졌다. &lt;br&gt;&lt;br&gt;유은혜 후보는 4일 보도자료를 통해 “제가 부족했다. 유권자 여러분께 깊이 사과드린다”며 중도 사퇴 입장을 밝혔다. 그는 “길을 잃어버린 공교육 앞에서 저는 조금 다른 접근을 하고 싶었다”며 “학생도 교직원도 학부모도 먼저 숨부터 쉬게 하자, AI와 함께 성장하는 아이들에게 우선 ‘숨 쉬는 학교’를 만들어 주고 싶다는 저의 소망은 오랜 시간 경험과 성찰을 통해 얻은 진심이었다”고 했다. &lt;br&gt;&lt;br&gt;유 후보는 그러면서 이번 진보 진영 단일화 과정에 대한 비판 입장도 밝혔다. 그는 “금지돼 있던 집단적 대리 등록, 대리 납부라는 심각한 정황은 서둘러 덮어버리고, 선관위원장이 수사 의뢰를 하고도 즉각적인 결과 승복만 강요하는 것은 민주주의를 부정하는 폭력”이라고 말했다. 그는 “원칙과 약속을 지킨 사람들이 조롱받는 현실은 참으로 견디기 어려웠다”며 “교육감은 아이들 앞에 당당하게 정직과 책임을 이야기할 수 있어야 한다”고 했다. 또 “안민석 후보와 캠프에 대해서는 드릴 말씀이 없다. 스스로 가슴에 손을 얹고 판단할 일”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 경기교육혁신연대는 지난달 22일 안민석 후보를 진보 진영 단일 후보로 선출했다. 여론조사 45%와 선거인단 투표 55%를 합산한 결과다.&lt;br&gt;&lt;br&gt;유 후보 측은 경선 과정에서 선거인단 대리 등록·대리 납부 의혹을 제기하며 이의신청을 하고 경찰 수사를 요구했다. 혁신연대 측은 수사 의뢰를 수용하면서도 단일 후보 선출 결정은 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이런 노조도 있습니다... 홈플러스 노조 “어려운 회사 위해 월급 안 받겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/04/SOCZJG4VRJHL5LX2XQHLQASA7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/04/SOCZJG4VRJHL5LX2XQHLQASA7A/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 04:39:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UP4TQKZWQFDSNKK4OT5A5MEGCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 경기 광명시 KTX광명역 대회의실에서 홈플러스 일반노동조합 정기 대의원 대회가 열렸다. 대의원들이 ‘홈플러스 기업 회생, 지켜내자 생존권’이라고 쓴 플래카드를 들었다. 노조는 “직원 월급을 포기해서라도 영업 정상화를 이루겠다”고 밝혔다./홈플러스 일반노동조합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“노동자들에게 월급은 피와 땀의 결정체이지만, 지금 회사가 무너지면 그마저도 의미가 없다는 것을 잘 알고 있습니다.”&lt;br&gt;&lt;br&gt;홈플러스 일반노동조합은 지난달 30일 소속 노조원 1400여 명의 월급 수령을 포기하겠다며 이같이 밝혔다. 이날 서울회생법원은 원래 5월 4일이었던 홈플러스 회생 계획안 가결 시한을 두 달 더 연장하기로 결정했다. 홈플러스가 회생 계획안을 마련할 시간을 두 달 벌게 된 상황에서 홈플러스 일반노조가 노동의 대가인 월급을 포기하겠다며 회생에 대한 의지를 밝히고 나온 것이다. 노조는 이날 발표한 입장문에서 “홈플러스의 지속 가능성을 확보하기 위해 노동의 대가인 월급을 포기하고, 해당 재원이 전액 영업 정상화 및 상품 공급에 투입될 것을 촉구한다”며 “이는 회사를 살리기 위해 노동자가 할 수 있는 가장 뼈아픈 희생”이라고 했다.&lt;br&gt;&lt;br&gt;홈플러스 일반노조는 한국 유통업계에서 상징적인 존재다. 1997년 한국 까르푸 노조로 출범해 내년이면 30주년을 맞는다. 이마트, 롯데마트 등 국내 대형 마트 3사 중에선 가장 먼저 설립된 노조다. 한때 강성 노조로 꼽혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJ7ETNDILBCC3D3SGY7H3W6QAI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여기엔 사연이 있다. 까르푸는 2006년 국내에서 철수했고 이랜드가 이를 인수해 ‘홈에버’로 이름이 바뀌었다. 이랜드는 2007년 홈에버 비정규직 계산원 등 1000여 명을 해고하려 했다. 이에 대항해 노조원들은 512일간 파업했고, 결국 노사는 비정규직 2000여 명을 무기계약직으로 전환하기로 합의했다. 이 일은 영화 ‘카트’, 웹툰 ‘송곳’의 소재가 됐다. 이후 2008년 삼성물산·테스코의 합작사 삼성테스코가 홈에버를 인수하며 이름이 홈플러스로 바뀌었고, 이후 2015년 사모펀드 MBK파트너스가 다시 이를 인수했다.&lt;br&gt;&lt;br&gt;노동계 관계자는 “회사 소유주가 여러 차례 바뀌면서 노동자들은 인력 구조조정 가능성 등 고용 불안에 시달릴 수밖에 없었다”고 했다. 홈플러스 일반노조는 2019년에도 노조 소속 무기계약직 3000여 명 전원의 정규직 전환을 이끌어냈다. 하지만 경영 악화로 1년 이상 기업 회생 절차가 진행되고, 이마저도 통과 여부가 불투명하자 노조가 나서 월급까지 포기하고 영업 정상화에 전력을 기울이기로 한 것이다. 이들이 포기하는 월급은 직급에 따라 월 200만~600만원이다. 홈플러스 일반노조 관계자는 “까르푸 시절부터 지켜봤지만 지금처럼 아예 납품이 들어오지 않은 경우는 처음”이라며 “평균 근속 15년이 넘는 직원들이 대승적으로 희생을 감수해야 한다는 공감대가 있었다”고 했다.&lt;br&gt;&lt;br&gt;홈플러스 회생 전망은 불투명하다. 홈플러스는 쿠팡 등 온라인 쇼핑몰이 득세하면서 경영이 지속적으로 악화된 끝에 지난해 3월 기업 회생 절차를 신청했다. 자금 부족으로 거래처 납품 대금과 입점 업체 판매 대금이 밀리면서 서울 강서본점 등 핵심 점포에서도 매대가 비는 일이 벌어지고 있다. 일반노조에 따르면 현재는 PB(자체 브랜드) 상품 위주로 매대를 채우고 있고, 매출은 평소의 30% 수준이다.&lt;br&gt;&lt;br&gt;홈플러스 직원 수는 희망퇴직 등으로 작년 2월 1만9924명에서 지난달 1만6450명으로 17% 줄었다. 회사 측은 올해 안에 부실 점포 19곳도 추가 폐점할 예정이다. 회사 전체를 파는 이른바 통매각은 무산됐고 급한 불을 끄기 위해 수퍼마켓 사업부인 홈플러스 익스프레스를 분리 매각하는 방안을 추진 중이다. 작년만 해도 7000억원이었던 익스프레스 매각 희망가는 현재 2000억원 안팎까지 떨어진 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;최근 억대 성과급을 요구하며 파업을 요구한 삼성전자 노조는 이들에게는 다른 세상 얘기다. 홈플러스 일반노조의 한 조합원은 “회사가 제대로 돌아가야 투자도 하고, 고용도 가능한 것 아니겠느냐”라며 “회사부터 살려야 한다는 생각에 월급까지 포기한 입장에서 삼성전자 노조를 보면 박탈감이 드는 것은 어쩔 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김대종 세종대 경영학과 교수는 “삼성전자의 호실적이든 홈플러스의 경영 악화든, 직원들의 근태(勤怠)보다는 시장 흐름에 따른 결과로 봐야 한다”고 했다. 시장 흐름과 산업 경쟁력에 따라 정규직 노동자들도 양극화하는 등 노동 시장의 이중 구조가 심화하고 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KN34AG2Z3FIABGMAY73NT37ISQ.JPG?auth=a6c70355bb1030676fad8ae9f1a5f4127431e81b3cdccb2c69cbb7b37df6d277&amp;smart=true&amp;width=5022&amp;height=3150" type="image/jpeg" height="3150" width="5022">
-        <media:description type="plain">(서울=뉴스1) 오대일 기자 = 마트산업노동조합 조합원들이 15일 서울 여의도 국회 앞에서 홈플러스 살리기 삼보일배 행진을 하고 있다. 
-
-참가자들은 홈플러스 회생기한 만료일(5월 4일)을 앞두고 정부의 홈플러스 정상화 약속 이행을 촉구하며 국회에서 청와대까지 1박 2일 삼보행진을 진행한다.  2026.4.15/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 오대일 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰, ‘김경 로비 의혹’ 양준욱 전 서울시의회 의장 송치  </title>
-      <link>https://www.chosun.com/national/national_general/2026/05/04/GEC3HKI4EJHAHGBNNTBGKPFFZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/04/GEC3HKI4EJHAHGBNNTBGKPFFZA/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 04:50:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4DANJZMVSTOZDCMQYTONLCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양준욱 전 서울시의장이 지난 2월 서울경찰청 공공범죄수사대에서 조사를 받고 나가는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구청장 공천 대가로 김경 전 서울시의원으로부터 금품을 수수한 혐의를 받는 양준욱 전 서울시의회 의장이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;4일 경찰에 따르면 서울경찰청 공공범죄수사대는 정치자금법 위반 혐의를 받는 양씨를 지난달 말 서울중앙지검에 송치했다. &lt;br&gt;&lt;br&gt;양씨는 지난 2023년 10월 치러진 서울 강서구청장 보궐선거를 앞두고 김 전 시의원으로부터 공천 청탁과 함께 금품을 수수한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 전 시의원은 앞선 경찰 조사에서 양씨에게 수백만원을 줬다고 밝혔지만, 양씨는 금품을 수수한 사실이 없다고 반박한 바 있다. &lt;br&gt;&lt;br&gt;그러나 피의자 신분 전환 이후 더불어민주당 전략공천위원회는 강동구청장 후보 공천과 관련해 양 전 시의장을 컷오프(공천 배제)했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>法 “이주 대책은 토지수용위 재결 대상 아냐”... ‘대체 부지’ 요구한 공장주 패소</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/04/OBHLDKP3PNCHNHQE46FOEFU6SM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/OBHLDKP3PNCHNHQE46FOEFU6SM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 02:52:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTQNLFMQ3TCNRSHE3TSMBUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로 개설 공사로 수용된 공장 부지 대신 ‘대체 부지’ 보상을 요구하며 관할 지자체와 중앙토지수용위원회를 상대로 소송을 낸 목재공장 운영자가 1심에서 패소했다. 법원은 공장이 수용된 경우 이주 대책 수립을 요구하려면 토지수용위원회가 아닌 사업 시행자를 상대로 해야 한다고 판단했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 공장 운영자 A씨가 중앙토지수용위원회와 고양시장을 상대로 낸 수용재결취소 등 소송에서 고양시장에 대한 소를 각하하고, 중앙토지수용위원회에 대한 청구를 기각했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 십수년 전부터 고양시 일대에서 목재 가공 공장을 운영해오던 중, 해당 부지가 고양시가 시행하는 도로 개설 공사 구역에 편입되면서 2024년 2월 경기도지방토지수용위원회로부터 공장을 이전하라는 재결을 받았다. 이전재결은 토지 위 건물 등을 다른 곳으로 옮기도록 하는 토지수용위원회의 재결을 뜻한다. 이에 A씨는 이전 비용을 받아 다른 곳으로 옮기는 대신 공장을 계속 운영할 수 있는 ‘대체 부지’를 달라고 요구했다.&lt;br&gt;&lt;br&gt;A씨는 “고양시장이 이주 대책을 수립하지 않는 것은 헌법상 평등원칙과 정당한 보상 원칙에 위배된다”며 부작위 위법 확인을 구하는 소송을 냈다. 행정소송법에서 부작위란 행정청이 당사자 신청에 대해 일정한 처분을 한 법률상 의무가 있는데도 이를 하지 않은 것을 말한다. 또 “중앙토지수용위원회가 이의 재결 과정에서 이주 대책 수립 여부를 조사·심리하지 않은 채 금전 보상액만 변경한 것도 위법하다”며 이의 재결 취소를 함께 청구했다.&lt;br&gt;&lt;br&gt;하지만 법원은 A씨의 주장을 모두 받아들이지 않았다. 우선 고양시장을 상대로 낸 소송에 대해서는 요건을 갖추지 못했다며 각하했다. 재판부는 “공장 이주 대책 수립 요청은 사업 시행자에게 해야 하는 바, A씨가 사업 시행자가 아닌 피고 위원회에 대해 공장 이주 대책 수립을 요청했다는 사실만으로 사업 시행자인 피고 시장이 위 요청에 대한 응답 의무를 진다고 볼 수 없다”고 지적했다. 또 “A씨가 참가인에게 공장 이주 대책 수립 여부를 구두로 문의하는 것을 넘어, 명시적이고 확정적으로 공장 이주 대책 수립을 요청하는 의사 표시를 했다고 인정하기 부족하다”고 판단했다. 적법한 신청 행위가 인정되지 않는 만큼 이를 전제로 한 부작위도 성립하지 않는다는 취지다.&lt;br&gt;&lt;br&gt;A씨가 중앙토지수용위원회를 상대로 낸 이의 재결 취소 청구도 기각돼. 재판부는 토지수용위원회의 재결 사항은 “수용하거나 사용할 토지의 구역 및 사용 방법, 손실 보상, 수용 또는 사용의 개시일과 기간, 그 밖에 이 법 및 다른 법률에서 규정한 사항에 한정된다”며 “사업 시행자의 공장 이주 대책 수립 의무 위반 또는 금전 보상 자체의 적정성·타당성 여부는 토지수용위원회의 재결 사항이 아니다”라고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 이어 “이주 대책은 헌법 23조 3항이 정하는 정당한 보상의 내용이 아니라 생활 보상의 일환으로 이뤄지는 것이어서 토지수용위원회의 재결 사항인 손실 보상에 포함된다고 보기 어렵다”며 A씨의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, ‘집사게이트 공범’ 조영탁 IMS모빌리티 대표 보석 인용</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/04/YUCEPICGYVCZJAJOX5VXB3R2JQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/04/YUCEPICGYVCZJAJOX5VXB3R2JQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 May 2026 02:32:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4TSNRXME2DCZTDGU2DOOJXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조영탁 IMS모빌리티 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 일가의 ‘집사’로 지목된 김예성씨와 함께 투자금을 횡령한 혐의로 기소된 조영탁 IMS모빌리티 대표가 불구속 상태로 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 서울중앙지법 형사21부(재판장 조순표)는 특정경제범죄가중처벌법상 배임·횡령, 업무상 횡령 등 혐의로 기소된 조 대표의 보석 청구를 지난달 29일 인용했다. 재판부는 “보석을 허가할 상당한 이유가 있다”며 조 대표의 보석 청구를 인용했다. 이에 따라 조 대표는 다음 속행 공판이 열리는 오는 6일부터 불구속 상태에서 재판을 받게 됐다. 앞서 조 대표는 지난 2월 9일 보석을 청구했다.&lt;br&gt;&lt;br&gt;재판부는 조 대표의 보석 조건으로 서약서와 출국금지 서약서, 보증금 납입 약정서 제출을 명했다. 보석 보증금은 2억원으로 정해졌다. 조 대표는 석방 후 지정된 주거지에 거주해야 하고, 위치추적 전자장치를 부착해야 한다. 지정된 주거지를 이탈하거나 해외로 출국하려면 사전에 법원의 허가를 받아야 한다.&lt;br&gt;&lt;br&gt;조 대표는 2023년 IMS모빌리티가 다수 기업으로부터 투자금을 유치한 뒤 그 일부로 자사 구주를 매입하는 과정에서 35억원을 횡령하고 32억원 상당의 배임을 저지른 혐의를 받는다. 또 현직 기자에게 약 8400만원을 주고 회사에 우호적인 기사를 쓰게 한 혐의와, 압수수색 직전 PC 은닉을 교사한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
