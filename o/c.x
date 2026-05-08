@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>미성년 딸 만나는 20대男 머리 둔기로 때린 40대 엄마 집행유예  </title>
+      <link>https://www.chosun.com/national/national_general/2026/05/08/WA4H2MPYWZEGZFA45FQU7BIQFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/08/WA4H2MPYWZEGZFA45FQU7BIQFM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 08 May 2026 10:54:32 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 미성년 딸과 교제한다는 이유로 20대 남성을 폭행한 40대 여성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;대구지법 형사13부(채희인 부장판사)는 미성년자인 딸과 교제하는 20대 남성을 마구 폭행해 상처를 입힌 혐의(특수상해) 등으로 기소된 40대 A씨에게 징역 6개월에 집행유예 1년을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 3월 11일 경북 경산시의 20대 남성 B씨 집에서 B씨의 머리 부분을 둔기로 여러 차례 내려치고, B씨의 머리카락을 강제로 자른 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 자신의 10대 딸과 만나지 말 것을 요구했다가 거부당하자 이같이 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;폭행당한 B씨는 전치 2주의 부상을 입은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;재판부는 “피해자가 상당한 정신적 충격을 받았을 것으로 보인다”며 “성년인 피해자가 미성년자인 피고인 딸과 만나지 말라고 경고하는 과정에 발생한 일로 범행 경위에 있어 일부나마 참작할 여지가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>병든 아버지 숨지자 시신 방치… ‘수급비’만 쏙 타낸 아들 징역 5년 </title>
+      <link>https://www.chosun.com/national/court_law/2026/05/08/IQ7AD5EZH5DJRMMFHOKKWTVL2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/08/IQ7AD5EZH5DJRMMFHOKKWTVL2Q/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 May 2026 09:32:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42WINLGMEZDKZBYMM2TEODFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병든 아버지를 방치해 숨지게 하고, 10개월가량 시신을 유기한 혐의를 받는 30대 남성에 대한 항소심에서 징역 5년이 선고됐다.&lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사2부(재판장 이정민)는 8일 중존속유기치사, 사체유기 등 혐의를 받는 A씨에 대한 항소심 선고공판에서 1심과 같이 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 10월쯤 인천 계양구 자택에서 거동이 불편한 60대 아버지 B씨를 방치해 숨지게 한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;B씨는 당시 폐색전증과 조현병 등으로 의사소통이 어렵고, 대소변을 가리지 못하던 상황이었다. A씨는 B씨를 찾아가지 않고, 병원에 데려가지도 않는 등 홀로 방치한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 숨진 뒤에도 시신을 그대로 방치해 유기하고, B씨가 사망한 사실을 숨겨 정부의 주거 생계급여 590여 만원을 받아내기도 했다.&lt;br&gt;&lt;br&gt;A씨의 범행은 숨진 B씨의 시신이 작년 9월 발견되면서 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;1심 재판부는 “일상생활이 불가능한 아버지를 장기간 방치해 사망케 하고 아버지 시신을 유기했다”며 “기초생활 급여도 부정 수급하는 등 범행 경위나 패륜성 등을 고려했을 때 죄질이 매우 좋지 않고 비난 가능성도 크다”고 했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “원심판결 이후 양형을 변경할 만한 사정이 없었다”며 “원심 형이 너무 무겁거나 가벼워 부당하다고 볼 수 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교장실서 교사 흉기로 찌른 고3 학생 재판에 넘겨져 </title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/08/RYYKM6D7JJAMHNIWMZOOLAJCUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/08/RYYKM6D7JJAMHNIWMZOOLAJCUI/</guid>
+      <dc:creator>논산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 May 2026 09:39:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTZYEYUVYTA57GOGBHFT4PKEUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 마크. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남의 한 고등학교 교장실에서 교사에게 흉기를 휘두른 고교생이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검 논산지청은 8일 살인미수 혐의로 고등학교 3학년생 A군을 구속 기소했다.&lt;br&gt;&lt;br&gt;A군은 지난달 13일 오전 8시 41분쯤 충남 계룡시의 한 고등학교 교장실에서 교사 B(38)씨에게 여러 차례 흉기를 휘둘러 살해하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A군은 중학교 재학 시절 학생부장이었던 B씨가 본인만 유독 더 강하게 혼냈다고 생각해 불만을 품은 것으로 파악됐다. 이후 올해 B씨가 같은 고교로 전근을 오자, A군은 등교를 거부하기도 했다.&lt;br&gt;&lt;br&gt;범행 당일에는 A군이 면담을 요청해 교장실에서 B씨와 만났고, 이 자리에서 미리 준비한 흉기를 휘두른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 얼굴과 어깨 등을 다쳐 치료를 받고 있지만, 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“시끄럽다고 폭행·결박”… 두 살 아들 살해 혐의 20대 부부 구속 기소 </title>
+      <link>https://www.chosun.com/national/2026/05/08/LWJVAFWJDZDKDAOSNIDLE264BQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/08/LWJVAFWJDZDKDAOSNIDLE264BQ/</guid>
+      <dc:creator>창녕=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 May 2026 09:56:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYGGMDBGU3TQNTEGFRDGNZRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창녕에서 20대 부부가 두 살배기 아들을 학대·방치해 숨지게 한 혐의로 구속돼 재판에 넘겨진 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;창원지검 밀양지청은 아동학대범죄의 처벌 등에 관한 특례법 위반(아동학대 살해) 등 혐의로 20대 친부 A씨와 친모 B씨를 지난달 구속 기소했다고 8일 밝혔다. A씨와 함께 피해 아동의 시신을 유기한 혐의(시체 유기)로, 숨진 아동의 외조부 C(50대)씨도 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 1월 4일 창녕 주거지에서 장시간 이어진 폭행으로 탈진 증세를 보이는 만 2세 아들을 성인용 셔츠로 움직이지 못하도록 묶고, 다음 날 새벽 탈수 증세를 보였음에도 이를 방치해 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 또 숨진 아들의 시신을 장인인 C씨와 함께 마대에 넣어 주거지 인근 폐가에 유기한 혐의도 받고 있다. 이 폐가는 과거 C씨가 살았던 곳으로 전해졌다.&lt;br&gt;&lt;br&gt;이들의 범행은 지난 3월 중순 창녕군이 숨진 아이가 어린이집에 나오지 않는 등 소재가 파악되지 않자 경찰에 수사를 의뢰하면서 발각됐다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 아들이 잠을 자지 않고 시끄럽게 한다는 이유 등으로 장시간 폭행하고, B씨는 범행 과정에서 아들을 성인용 셔츠로 움직이지 못하게 결박한 것으로 파악됐다. 피해 아동은 탈수 증세가 악화되는 상황에서도 적절한 치료를 받지 못한 채 방치됐고, 결국 다음 날 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 살인 혐의를 부인했지만, B씨를 상대로 한 조사 등에서 아동 학대 정황이 발견돼 구속됐다. &lt;br&gt;&lt;br&gt;검찰은 A씨와 B씨의 다른 자녀들에 대한 학대 여부에 대해서도 파악하라는 취지로 경찰에 보완 수사를 요구한 상태다. &lt;br&gt;&lt;br&gt;A씨 부부와 C씨에 대한 첫 공판은 오는 13일 오후 3시 20분 창원지법 밀양지원에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구과학관, 중앙아프리카 오지 마을에 과학 교육 전했다 </title>
+      <link>https://www.chosun.com/national/national_general/2026/05/08/235RA2XNXZAC3IGOSUFRRRN5OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/08/235RA2XNXZAC3IGOSUFRRRN5OQ/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 May 2026 09:57:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XL3IV4RRS5GYJGGXXJVATNTLUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27~28일 중앙아프리카 욤보, 파타 지역에서 국립대구과학관이 진행한 과학교육 수업에 참여한 현지 학생들./국립대구과학관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 과학관 직원들이 교육 소외 지역인 중앙아프리카공화국의 학생들에게 과학 수업을 진행했다.&lt;br&gt;&lt;br&gt;국립대구과학관은 지난달 27일부터 이틀간 중앙아프리카공화국의 욤보·파타 지역에서 체험형 과학 교육인 ‘국제 나눔 과학교육’ 봉사를 했다고 8일 밝혔다. 이 교육은 국내 자동차 부품 기업 아진산업의 후원과 새마을재단의 협력으로 진행됐다. &lt;br&gt;&lt;br&gt;과학관 교육 봉사단은 욤보와 파타 두 지역에서 학생 200명을 대상으로 힘의 분산·공기 대포를 비롯해 마찰력을 주제로 한 과학 공연을 열었다. 공연 이후엔 에어로켓 및 풍선 로켓 제작, 손가락으로 바람개비처럼 돌리는 장난감인 ‘피젯 스피너’ 만들기 등 학생들이 직접 실습할 수 있는 교육 프로그램도 제공했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AQLXWE2I5FSVM6N7DQOE2R5N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 중앙아프리카공화국 욤보(Yombo) 지역의 학교에서 국립대구과학관 관계자들과 현지 학생 및 교사들이 ‘국제나눔 과학교육’을 마친 뒤 기념 촬영을 하고 있다./국립대구과학관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 별도로 욤보·파타 지역 교사 25명을 위한 교사 연수도 진행했다. 전기가 공급되지 않아 해가 지면 교육 활동이 중단되는 지역 특성을 고려해, 태양전지를 활용한 무드등 제작법을 가르쳤다. &lt;br&gt;&lt;br&gt;이난희 국립대구과학관장은 “이론적 지식 전달보다 과학 원리를 몸으로 체험하고, 신재생에너지를 실생활에서 활용할 수 있는 교육을 전하고 싶었다”며 “향후 중앙아프리카공화국을 비롯한 교육 소외 지역의 과학교육 격차를 줄이기 위해 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>권익위 “정승윤 전 사무처장, 김건희 사건 처리 전 尹 만난 정황” </title>
       <link>https://www.chosun.com/politics/election2026/2026/05/08/FPVZ566F5FGCLA35PILKVOMGXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/05/08/FPVZ566F5FGCLA35PILKVOMGXI/</guid>
@@ -866,43 +911,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY3AUOBQGNK4DMGNFHX6BZOJGE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;홍승욱 전 광주고검장(전 수원지검장) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옛 쌍방울 불법 대북송금 사건 수사 지휘부가 7일 대검찰청 감찰위원회에 “공소취소를 위한 부당한 징계로부터 사법정의를 지켜달라”고 했다. 대검 감찰위는 오는 11일 회의를 열고 박상용 검사에 대한 징계를 법무부에 청구하는 게 적절한지 심의할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;2022~2023년 수원지검 지검장·2차장검사(직무대행)·형사6부장이었던 홍승욱·김영일·김영남 변호사는 이날 ‘쌍방울의 경기도지사 방북 비용 등 대납 사건 수사 당시 수원지검 지휘부 입장문’을 냈다. &lt;br&gt;&lt;br&gt;홍 전 지검장 등은 입장문에서 “대검 감찰위가 오직 객관적인 사실과 법리, 상식에 근거해 정치적 외풍으로부터 검찰의 독립성과 형사사법 시스템을 지켜내는 공정하고 현명한 결정을 내려주길 간곡히 호소한다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “증거에 따라 실체적 진실을 밝혀낸 검사가 부당한 징계의 희생양이 된다면, 앞으로 어떤 공직자가 거대 권력과 자본의 비리에 맞서 소신 있게 진실을 규명하겠냐”면서 “실체적 논란과 무관한 지엽적 논란을 징계 사유로 삼아 이를 ‘조작기소’로 둔갑시키려는 시도는 사건의 본질을 흐리는 정치적 공세에 불과하다”고 비판했다.&lt;br&gt;&lt;br&gt;구체적으로 홍 전 지검장 등은 “대북송금 사건은 2년 7개월간 70회 안팎의 공판기일을 거치며 수십명의 증인신문과 수만 쪽에 이르는 증거조사, 검사와 변호인 간의 치열한 공방과 교차 검증 끝에 대법원의 최종 판단까지 이루어진 사안”이라고 했다. 이화영 전 경기도 평화부지사가 이재명 당시 경기지사의 방북 비용을 쌍방울에 대납시키게 한 혐의 등으로 작년 6월 5일 징역 7년 8개월형이 확정된 것을 언급한 것이다.&lt;br&gt;&lt;br&gt;대북송금 사건 수사 지휘부는 “일각에서 제기하는 이른바 연어 술파티, 진술 세미나, 쌍방울 주가 부양 및 수사 무마, 리호남 필리핀 부재 의혹은 이미 재판 과정에서 피고인 측이 충분히 주장했던 내용이고, 사법부의 엄정한 심리와 객관적 증거를 통해 모두 받아들여지지 않았다”고 다시 강조했다.&lt;br&gt;&lt;br&gt;이어 “이번 징계 시도는 단순히 검사 개인에 대한 문책을 넘어 수사의 정당성을 훼손하려는 시도로 비칠 수 있다”면서 “결국 특검을 통한 (이재명 대통령 사건) 공소취소 및 이화영 전 부지사 사면을 정당화하기 위한 정치적 명분으로 악용될 수 있다는 우려를 낳기에 충분하다”고 지적했다.&lt;br&gt;&lt;br&gt;홍 전 지검장 등은 “대검 감찰위가 정치적 외풍에 흔들리지 않고, 검찰의 독립성과 사법 정의를 지켜내는 공정하고 현명한 결정을 내려줄 것을 다시 한번 간곡히 호소한다”면서 “국민 여러분께서도 대한민국 법치주의가 특정 세력의 힘에 의해 무너지지 않도록 사안의 본질을 냉철하게 지켜봐 주시기를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 박상용 검사가 2023년 5월 17일 이 전 부지사를 조사하며 연어 술파티를 열고 회유했다는 의혹 등을 조사한 서울고검 인권침해점검 태스크포스(TF)는 의혹이 사실이라고 결론 내리고 대검에 보고한 것으로 전해졌다. 이에 대검 감찰위는 박 검사에 대한 징계를 법무부에 청구할지 심의할 예정이다. 감찰위는 위원장과 부위원장 각 1명 포함 5~9명으로 구성되고, 대부분이 외부 위원이다. 박 검사에 대한 징계 시효는 오는 16일까지다. &lt;br&gt;&lt;br&gt;박 검사는 서울고검 TF에서 관련 조사를 받은 적도 없고, 당시 술이 반입되지도 않았다고 주장하고 있다. 김성태 전 쌍방울 회장도 지난달 28일 국회 국정조사 특별위원회 청문회에 나와 “5월 17일 날 정확히 술 안 먹었다”고 증언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“택시비 내줄게” 미성년자 유괴하려던 50대 男, 1심서 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/07/G54PPYPCHFGCVPHRZLM5O5X7RE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/07/G54PPYPCHFGCVPHRZLM5O5X7RE/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 07:07:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2TANZQGYZDSYRUGBQTIN3DGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시비를 내주겠다며 접근해 미성년자를 유괴하려 한 50대 남성이 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사5단독 서지원 판사는 7일 미성년자약취유인 미수 혐의로 구속 기소된 김모(58)씨에게 징역 10개월을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “김씨가 범행을 부인하고 있지만, 약취 의도가 있었던 것으로 보인다”며 유죄로 판단했다. &lt;br&gt;&lt;br&gt;다만 재판부는 “유괴 시도가 미수에 그쳤고 김씨에게 동종 전과가 없는 점을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;김씨는 지난 3월 12일 서울 양천구 한 버스정류장에서 버스를 기다리던 16세 여학생을 유괴하려 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;김씨는 “택시비를 내주겠다”며 동의 없이 피해자를 같은 택시에 태우고, 하차한 뒤에도 8분간 250m를 걸어 뒤쫓은 것으로 조사됐다. 김씨는 택시 기사의 신고를 받고 출동한 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;서울 양천경찰서는 지난 3월 13일 김씨를 구속하고 같은 달 18일 검찰에 넘겼다. 앞서 검찰은 지난달 23일 열린 결심공판에서 김씨에게 징역 3년을 구형했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천적십자병원, 외국인 근로자 무료 진료하는 ‘다문화 건강축제’ 개최</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/05/07/QFW6VD6I5RFD7F5MV2CNHDOLBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/07/QFW6VD6I5RFD7F5MV2CNHDOLBI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 06:36:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ORYWTUQ2BC2NI7CBTK4KQ3O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천적십자병원 다문화 건강축제. /인천적십자병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천적십자병원이 오는 9일 인천 연수구에 있는 병원에서 ‘2026 다문화 건강 축제’를 개최한다. &lt;br&gt;&lt;br&gt;의료보험 등 제도권 밖에 놓여 있는 외국인 근로자나 의료 취약 계층을 대상으로 한 무료 진료가 행사의 핵심이다. 적절한 치료를 받기 어려운 이들에게 실질적인 의료 서비스를 제공하겠다는 취지다.&lt;br&gt;&lt;br&gt;다양한 국적의 주민들이 참여하는 다문화 축제도 함께 열린다. 각 나라별 부스 운영을 통해 전통 음식, 문화 체험, 공연 등이 진행된다. &lt;br&gt;&lt;br&gt;의료 선교와 인도주의 정신을 실천했던 로제타 홀 여사의 뜻을 기리기 위한 ‘로제타 홀 기념관’ 개소식도 함께 열린다. 이 공간은 앞으로 무자격 외국인과 의료 취약 계층을 위한 상설 무료 진료소로 운영될 예정이다.&lt;br&gt;&lt;br&gt;인천적십자병원 이정교 원장은 “의료 서비스 제공을 넘어 서로의 문화를 이해하고 존중하는 의미 있는 자리”라며 “앞으로도 공공 병원으로서 의료 사각지대 해소와 지역 사회 통합에 앞장서겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 5월 8일 금요일 (음력 3월 22일 壬午)</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/07/5JFXJD5L65GZ7N4ULLEPVXJOKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/07/5JFXJD5L65GZ7N4ULLEPVXJOKM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
-    </item>
-    <item>
-      <title>“왜 울어” 생후 2개월 아들, 흉기 위협에 폭행… 친부 징역형 집유</title>
-      <link>https://www.chosun.com/national/regional/2026/05/07/PAROY7LDYNDSFAQW62KIPPFJ74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/07/PAROY7LDYNDSFAQW62KIPPFJ74/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 06:20:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DKOJZGYYTEOLGGI4TGYRUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태어난 지 두 달 된 아들이 운다는 이유로 흉기로 위협하고, 얼굴을 때린 혐의로 재판에 넘겨진 30대 아버지에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사13부(재판장 채희인)는 7일 아동복지법 위반 혐의 등으로 기소된 A씨에게 징역 3년에 집행유예 5년을 선고했다. 또 40시간 사회봉사와 40시간의 성폭력·아동학대 재범 예방 강의 수강, 아동 관련 기관 취업 제한 5년을 명했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 7월 대구 동구 자신의 집에서 배우자와 다투던 중 당시 생후 2개월인 아들이 울자 흉기를 들고 배우자와 아들을 위협하고 아들의 얼굴을 때린 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;또 A씨는 2021년 11월 같은 집에서 당시 생후 8개월이었던 딸이 운다는 이유로 베개로 얼굴을 누른 혐의도 받는다. &lt;br&gt;&lt;br&gt;재판부는 “이 사건이 결혼 생활 중 발생했지만, 현재는 혼인 관계가 해소돼 재범 위험이 없는 점, 피해자들로부터 용서 받지 못한 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“지켜주지 못해 미안해”… 광주 여고생 희생 현장에 노란 리본 물결</title>
       <link>https://www.chosun.com/national/national_general/2026/05/07/32TFJJSXP5BULND5QQTDH5MTQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/07/32TFJJSXP5BULND5QQTDH5MTQ4/</guid>
@@ -941,18 +949,6 @@
       <description/>
       <pubDate>Wed, 06 May 2026 15:47:00 +0000</pubDate>
       <content:encoded>3대(내란·김건희·해병) 특검이 마무리하지 못한 사건을 수사하는 2차 종합특검(특별검사 권창영)이 윤석열 정부 대통령실이 수원지검의 ‘쌍방울 대북 송금 사건’ 수사에 개입한 의혹을 수사한다며 지난달 한동훈 전 국민의힘 대표를 출국 금지했다. 그러나 이달 6일까지 한 전 대표에 대한 소환 조사가 이뤄지지 않고 있다. 그러자 한 전 대표는 물론 법조계 일각에서도 “6·3 지방선거를 앞두고 야권 정치인에 대한 출국 금지를 남발해 특검이 선거에 직간접적으로 관여한다는 논란을 불렀다”는 말이 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6E4VLMBDJFZBFYW4LP4AEHSEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 대표는 이날 페이스북을 통해 “(출국 금지된 이후) 특검으로부터 어떠한 연락조차 받은 것이 없다”며 “출국 금지 기한은 5월 12일까지인데, 특검이 그동안 뭐라도 할지, 지난 특검처럼 오물만 끼얹고 슬그머니 도망갈지 지켜보겠다”고 했다. 앞서 순직 해병 특검은 한 전 대표가 이종섭 전 국방부 장관의 ‘주(駐)호주 대사 임명 도피’ 의혹에 관여했는지 확인해야 한다며 지난해 3개월여 동안 그를 출국 금지했다. 그러나 한 전 대표를 조사 한 번 하지 않고 ‘무혐의’ 처분했다.&lt;br&gt;&lt;br&gt;2차 특검팀이 한 전 대표를 출국 금지한 시점은 지난달 13일이다. 이와 관련, 특검 관계자는 “출국 금지 조치는 윤석열 정부 대통령실의 수원지검 수사 개입 의혹 사건과 관련해 (한 전 대표에 대한) 고발장이 접수됐기 때문”이라고 설명했다. 현행법에 따르면, 출국 금지 기간은 최장 1개월이며, 수사 필요에 따라 매달 연장할 수 있게 돼 있다. 연장 횟수는 별도의 제한이 없다.&lt;br&gt;&lt;br&gt;그러나 한 전 대표는 “4월 13일은 제가 (지방선거 출마를 위해) 부산 북구 만덕에 집을 구했다고 알린 날이었다”며 “(특검 측의) 치졸한 선거 개입”이라고 주장했다. 특검팀이 자기를 불러 조사할 의사도 없으면서, 단지 고발장이 접수됐다는 이유로 출국 금지 등 수사권을 남용했다는 취지다.&lt;br&gt;&lt;br&gt;앞서 지난달 2일 특검팀은 서울고검 인권침해 점검 태스크포스(TF)에서 쌍방울 대북송금 관련 사건을 넘겨받았다. 이와 관련해 권영빈 특검보는 같은 달 6일 정례 브리핑에서 “윤석열 정부 대통령실의 쌍방울 대북 송금 사건 개입 시도 정황이 확인됐다”며 “초대형 국정 농단 의심 사건”이라고 했다. 하지만 특검팀은 한 달이 넘도록 이 사건과 관련해 이렇다 할 수사 결과를 내놓지 못하고 있다.&lt;br&gt;&lt;br&gt;정치적 논란을 부른 특검팀의 출국 금지 사례는 또 있다. 특검팀은 김건희 여사의 디올백 수수 관련 수사 무마 의혹과 관련해 이원석 전 검찰총장과 송경호 전 서울중앙지검장도 출국 금지했다. 특검 관계자는 “수사 과정에서 두 사람의 출국 금지가 필요하다고 판단했다”며 “고발에 따른 조치가 아니라 특검팀의 자체 판단”이라고 밝혔다. &lt;br&gt;&lt;br&gt;그런데 두 사람은 현재 참고인 신분으로 알려져 있다. 더욱이 이들은 현직에 있을 때 오히려 대통령실 등의 외압에 맞서 김 여사를 원칙대로 수사해야 한다고 주장했었다. 이에 대해 한 검찰 고위 간부는 “피의자도 아닌 참고인들까지 범죄자처럼 비치도록 출국 금지하는 것은 과도한 조치 같다”고 했다.&lt;br&gt;&lt;br&gt;앞서 작년 7월 김건희 특검도 ‘서울~양평 고속도로 노선 변경 특혜’ 의혹을 수사하며 원희룡 전 국토부 장관을 출국 금지해 그해 12월까지 5차례나 출국 금지 기간을 연장했다. 하지만 특검은 수사를 종결할 때까지 원 전 장관을 한 차례도 소환하지 않았다.&lt;br&gt;&lt;br&gt;이와 관련해 한 법조계 인사는 “대상자에게 혐의점이 없더라도 수사기관은 수사 편의를 위해 출국 금지부터 하고 보는 경향이 있다”며 “당사자들에게 피해를 주는 수사기관의 출국 금지 남발을 견제할 장치가 꼭 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘많이 걷기’보다 ‘짧게 빨리 걷기’가 압도적으로 좋다</title>
-      <link>https://www.chosun.com/medical/2026/05/07/6JMQ25VEPZBBRMTCA4TP4GQ4LE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/07/6JMQ25VEPZBBRMTCA4TP4GQ4LE/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 May 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWWPXXMG2REIJCRMSLHB5THFBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“하루 만보 걸으세요!” 한때 최고의 건강 상식처럼 통하던 이 말이 최근 바뀌고 있다. 오래 많이 걷는 것이 건강 관리 핵심이라는 인식에서 이제는 “짧더라도 빠르게 걸어야 한다”는 방향으로 변하고 있는 것이다. 최근 일본과 미국, 유럽의 운동생리학 연구에서는 걷기의 양보다 ‘강도’가 건강 효과를 좌우한다는 결과들이 잇따르고 있다. &lt;br&gt;&lt;br&gt;특히 일본에서는 틈틈이 빠르게 걷기가 새로운 건강 트렌드로 자리 잡고 있다. NHK 건강 프로그램과 일본 주요 신문들은 “천천히 오래 걷기보다 짧게라도 숨이 조금 찰 정도로 빠르게 걸으라”는 메시지를 반복해서 내보내고 있다. &lt;br&gt;&lt;br&gt;일본 신슈대 의학대학원 스포츠과학 연구팀은 중년과 고령자들을 대상으로 많이 걷기와 짧지만 빠르게 걷기를 비교한 연구를 내놓아 세계적으로 주목받았다. 많이 걷기 그룹은 5개월간 주 4회 이상 하루 8000보 이상 걸었다. 짧지만 빠르게 걷기 그룹은 같은 기간 하루 3분 빠르게 걷기를 5회 실시했다.&lt;br&gt;&lt;br&gt;연구 결과, 짧지만 빠르게 걷기 그룹에서 허벅지 앞쪽과 뒤쪽 근력 증가가 더 컸고, 최대 유산소 능력도 좋아졌고, 안정 시 수축기 혈압 감소 효과도 컸다. 걷기 대결에서 짧지만 빠르게 걷기가 압도적인 판정승을 거뒀다.&lt;br&gt;&lt;br&gt;왜 이런 일이 벌어졌을까. 사람의 근육량은 40대를 기점으로 감소하기 시작한다. 특히 엉덩이와 허벅지 같은 하체 근육이 빠르게 줄어든다. 근육은 크게 지구력 중심의 지근(느린 근육)과 순간적인 힘을 내는 속근(빠른 근육)으로 나뉘는데, 노화로 먼저 줄어드는 것은 속근이다. &lt;br&gt;&lt;br&gt;속근은 평소 천천히 걷거나 일상적인 움직임으로는 거의 사용되지 않는다. 속근이 줄면 계단 오르기가 힘들어지고, 자주 넘어지고, 걷는 속도가 감소한다. 따라서 걷기로 속근 감소를 줄이고 속근 능력을 키우려면 통상보다 빠르게 걷기를 해야 하는 것이다. 짧은 시간이라도 숨이 조금 차는 속도로 걸어야 한다. 1주일간 누적으로 총 60분을 빠르게 걷는 것을 권장한다. 그게 하루 1만보 걷기보다 건강에 좋다는 얘기다.&lt;br&gt;&lt;br&gt;빠르게 걸으면 왜 효과가 좋을까. 그 이유는 보폭과 근육 사용 패턴 변화에 있다. 일반 보행(시속 4㎞)과 빠른 보행(시속 7㎞)을 비교했을 때, 빠르게 걸을 때 보폭이 자연스럽게 넓어지고, 허벅지 근육 활성도가 증가한다. 같은 ‘걷기’라도 속도를 올리면 걷기로 근력 운동에 가까운 효과를 보는 것이다.&lt;br&gt;&lt;br&gt;빠르게 걷기의 효과는 전신으로 확장된다. 혈당이 개선되고, 혈압이 떨어지고, 비만이 줄고, 수면 질에도 영향을 미쳐 우울감이 감소하고, 인지 기능이 개선된다. 빠르게 걸으려면 자세가 중요하다. 허리를 곧게 펴고 시선은 정면을 향하고, 발뒤꿈치부터 착지하고, 허벅지로 밀어서 걸어야 한다. 걷는 속도는 “숨이 약간 차고 조금 힘들다”는 느낌이어야 한다. 빠르게 걷는 시간은 한 번에 최소 1분 이상이어야 좋다.&lt;br&gt;&lt;br&gt;걸을 때 시간을 재기가 불편하니, 빠르게 걷는 구간을 설정하면 된다. 출근길 특정 구간을 빠르게 걷는 식이다. 예를 들어 집에서 버스정류장까지 약 3분 구간을 빨리 걸으면 된다. &lt;br&gt;&lt;br&gt;이제 걷기 패러다임이 바뀐다. 걷기도 ‘양의 시대’에서 ‘질의 시대’로 넘어가고 있다. 많이 걷기에서 이제는 “짧아도 좋다. 대신 빠르게 걸어라.”로 간다. 나이가 들수록 중요한 것은 근육의 양이 아니라 기능이다. 빠르게 감소하는 속근을 어떻게 유지할 것인가가 건강 수명을 좌우한다. 길 위에서 아무런 장비 없이 두 다리로 건강 장수로 안내할 속근을 키우시라. 10년 후 삶의 질과 폭이 달라진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QWWPXXMG2REIJCRMSLHB5THFBQ.png?auth=219bbbd57bfcb87451dbf8949eb1861c6454b2f7dbb73028e60d6aad842a9516&amp;smart=true&amp;width=2000&amp;height=1193" type="image/png" height="1193" width="2000">
-        <media:description type="plain">그래픽=양인성</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
