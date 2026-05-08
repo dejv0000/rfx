@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>학생 나체 영상 올리고 조롱한 코치… 스승 아닌 괴물이었다</title>
+      <link>https://www.chosun.com/national/2026/05/08/ORBIYOEKQFAGPARYKBAWGG7ABE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/08/ORBIYOEKQFAGPARYKBAWGG7ABE/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 May 2026 11:53:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRTENZUHE2DCMJWMMYTQMRXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제자의 나체를 촬영하고 학생들이 있는 단체대화방에 유포한 혐의를 받는 30대 중학교 운동부 코치가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충북경찰청은 8일 아동복지법 위반, 성폭력처벌법 위반 혐의로 도내 모 중학교 운동부 코치 A씨를 불구속 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;A 씨는 지난해 11~12월쯤 자택에서 자신이 지도하는 지적장애 학생 B군의 나체를 휴대전화로 촬영한 후 운동부 학생들이 있는 단체대화방에 사진과 영상을 공유한 혐의를 받는다. 이 학생은 집에서 학교가 멀어 운동부 코치 집에서 합숙 생활을 하다가 이 같은 일을 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 제자의 나체 사진과 영상을 수차례 공유하면서 학생들과 조롱 섞인 대화도 주고받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A 씨는 경찰 조사에서 “장난이었다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;이 사건은 지난 2월 단체대화방에 참여하고 있던 한 학생 부모가 영상을 발견하고 학교 측에 알리면서 수면 위로 드러났다. 학교 측은 피해 학생 부모에게만 사실을 알리고, 2주간 상급 기관 보고나 경찰 신고 등의 조치를 취하지 않았다. 아동학대처벌법은 어린이집·유치원 종사자, 학교 교직원, 아동권리보장원 등 각종 지원시설 종사자가 아동학대 범죄를 알게 됐을 때 즉시 신고하도록 의무를 부여하고 있다. &lt;br&gt;&lt;br&gt;그러다 박진희 충북도의원이 소셜미디어(SNS)에서 이 문제를 제기했고, 학교 측은 그제야 학교전담경찰관(SPO)에게 내용을 통보하고, 정식 수사도 의뢰했다.&lt;br&gt;&lt;br&gt;A씨는 의혹이 불거진 후 해당 학교에서 사직했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>미성년 딸 만나는 20대男 머리 둔기로 때린 40대 엄마 집행유예  </title>
       <link>https://www.chosun.com/national/national_general/2026/05/08/WA4H2MPYWZEGZFA45FQU7BIQFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/08/WA4H2MPYWZEGZFA45FQU7BIQFM/</guid>
@@ -900,15 +909,6 @@
       <description/>
       <pubDate>Thu, 07 May 2026 08:22:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMOIKQRCQ3QADICAMDM7O3AF2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'나는 솔로' 포스터. /ENA, SBS플러스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 리얼리티 프로그램 ‘나는 솔로’에 출연했던 남성이 성폭행 혐의로 2심에서도 징역형의 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;서울고법 형사14-1부(재판장 이형근)는 준강간 혐의로 재판에 넘겨진 박모(36)씨에게 징역 1년 6개월에 집행유예 3년을 선고했다. 1심 선고 형량과 같다. 또한 성폭력 치료 강의 40시간 수강, 5년간 아동·청소년·장애인 관련 기관 취업 제한도 명했다. &lt;br&gt;&lt;br&gt;박씨는 작년 6월 새벽 서울 마포구 서교동 한 주차장에서 술에 취한 20대 여성을 성폭행한 혐의로 구속 기소됐다. 작년 9월 1심은 박씨의 혐의를 유죄로 인정하면서도 그가 범행을 인정하며 반성하는 태도를 보이고, 합의한 피해자가 처벌을 원하지 않고 있다며 징역형의 집행유예를 선고했다. &lt;br&gt;&lt;br&gt;검찰은 1심 형이 너무 가볍다며 항소했으나 2심 재판부는 “원심 양형이 재량의 합리적 범위를 벗어났다고 보기 어렵다”며 받아들이지 않았다. &lt;br&gt;&lt;br&gt;박씨는 SBS플러스와 ENA에서 방영한 ‘나는 솔로’, ‘나는 솔로, 그 후 사랑은 계속된다’에 출연했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쌍방울 대북송금 수사팀 “공소취소 위한 부당한 징계 막아달라”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/07/HZUUXHPFXRB4VAS4IOWPTCVNBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/07/HZUUXHPFXRB4VAS4IOWPTCVNBI/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 07:22:36 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY3AUOBQGNK4DMGNFHX6BZOJGE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;홍승욱 전 광주고검장(전 수원지검장) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옛 쌍방울 불법 대북송금 사건 수사 지휘부가 7일 대검찰청 감찰위원회에 “공소취소를 위한 부당한 징계로부터 사법정의를 지켜달라”고 했다. 대검 감찰위는 오는 11일 회의를 열고 박상용 검사에 대한 징계를 법무부에 청구하는 게 적절한지 심의할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;2022~2023년 수원지검 지검장·2차장검사(직무대행)·형사6부장이었던 홍승욱·김영일·김영남 변호사는 이날 ‘쌍방울의 경기도지사 방북 비용 등 대납 사건 수사 당시 수원지검 지휘부 입장문’을 냈다. &lt;br&gt;&lt;br&gt;홍 전 지검장 등은 입장문에서 “대검 감찰위가 오직 객관적인 사실과 법리, 상식에 근거해 정치적 외풍으로부터 검찰의 독립성과 형사사법 시스템을 지켜내는 공정하고 현명한 결정을 내려주길 간곡히 호소한다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “증거에 따라 실체적 진실을 밝혀낸 검사가 부당한 징계의 희생양이 된다면, 앞으로 어떤 공직자가 거대 권력과 자본의 비리에 맞서 소신 있게 진실을 규명하겠냐”면서 “실체적 논란과 무관한 지엽적 논란을 징계 사유로 삼아 이를 ‘조작기소’로 둔갑시키려는 시도는 사건의 본질을 흐리는 정치적 공세에 불과하다”고 비판했다.&lt;br&gt;&lt;br&gt;구체적으로 홍 전 지검장 등은 “대북송금 사건은 2년 7개월간 70회 안팎의 공판기일을 거치며 수십명의 증인신문과 수만 쪽에 이르는 증거조사, 검사와 변호인 간의 치열한 공방과 교차 검증 끝에 대법원의 최종 판단까지 이루어진 사안”이라고 했다. 이화영 전 경기도 평화부지사가 이재명 당시 경기지사의 방북 비용을 쌍방울에 대납시키게 한 혐의 등으로 작년 6월 5일 징역 7년 8개월형이 확정된 것을 언급한 것이다.&lt;br&gt;&lt;br&gt;대북송금 사건 수사 지휘부는 “일각에서 제기하는 이른바 연어 술파티, 진술 세미나, 쌍방울 주가 부양 및 수사 무마, 리호남 필리핀 부재 의혹은 이미 재판 과정에서 피고인 측이 충분히 주장했던 내용이고, 사법부의 엄정한 심리와 객관적 증거를 통해 모두 받아들여지지 않았다”고 다시 강조했다.&lt;br&gt;&lt;br&gt;이어 “이번 징계 시도는 단순히 검사 개인에 대한 문책을 넘어 수사의 정당성을 훼손하려는 시도로 비칠 수 있다”면서 “결국 특검을 통한 (이재명 대통령 사건) 공소취소 및 이화영 전 부지사 사면을 정당화하기 위한 정치적 명분으로 악용될 수 있다는 우려를 낳기에 충분하다”고 지적했다.&lt;br&gt;&lt;br&gt;홍 전 지검장 등은 “대검 감찰위가 정치적 외풍에 흔들리지 않고, 검찰의 독립성과 사법 정의를 지켜내는 공정하고 현명한 결정을 내려줄 것을 다시 한번 간곡히 호소한다”면서 “국민 여러분께서도 대한민국 법치주의가 특정 세력의 힘에 의해 무너지지 않도록 사안의 본질을 냉철하게 지켜봐 주시기를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 박상용 검사가 2023년 5월 17일 이 전 부지사를 조사하며 연어 술파티를 열고 회유했다는 의혹 등을 조사한 서울고검 인권침해점검 태스크포스(TF)는 의혹이 사실이라고 결론 내리고 대검에 보고한 것으로 전해졌다. 이에 대검 감찰위는 박 검사에 대한 징계를 법무부에 청구할지 심의할 예정이다. 감찰위는 위원장과 부위원장 각 1명 포함 5~9명으로 구성되고, 대부분이 외부 위원이다. 박 검사에 대한 징계 시효는 오는 16일까지다. &lt;br&gt;&lt;br&gt;박 검사는 서울고검 TF에서 관련 조사를 받은 적도 없고, 당시 술이 반입되지도 않았다고 주장하고 있다. 김성태 전 쌍방울 회장도 지난달 28일 국회 국정조사 특별위원회 청문회에 나와 “5월 17일 날 정확히 술 안 먹었다”고 증언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“지켜주지 못해 미안해”… 광주 여고생 희생 현장에 노란 리본 물결</title>
