@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[인사] 헤럴드경제</title>
+      <link>https://www.chosun.com/national/people/2026/05/08/P5MYJBR4SBBTRARTNRJ2Z3MRTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/08/P5MYJBR4SBBTRARTNRJ2Z3MRTM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 May 2026 15:43:00 +0000</pubDate>
+      <content:encoded> &lt;b&gt;▲헤럴드경제&lt;/b&gt;▷강원취재본부장 함영훈&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>저절로 향기 품고 내어 주는 꽃처럼… 법향 전하는 ‘꽃스님’입니다</title>
       <link>https://www.chosun.com/national/weekend/2026/05/09/UD236QLRHVEHNGVFYKSZOVGGNA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/05/09/UD236QLRHVEHNGVFYKSZOVGGNA/</guid>
@@ -841,15 +850,6 @@
       <description/>
       <pubDate>Thu, 07 May 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YN2TMXW5NGXVCIWJSARBVJE7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 4월 ‘세종 낙화 축제’ 현장을 찾은 시민들이 바람에 흩날리는 불꽃을 감상하고 있다. 올해 축제는 오는 16일 열린다. /세종시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시는 오는 16일 호수공원에서 ‘2026 세종 낙화(落火) 축제’를 개최한다고 7일 밝혔다. 이 축제는 불교낙화법보존회와 세종시문화관광재단이 공동으로 마련했다.&lt;br&gt;&lt;br&gt;낙화는 재앙을 없애고 복을 기원하는 전통 불교 문화 행사 중 하나다. 숯가루 등을 넣어 한지로 감싼 낙화봉을 나뭇가지나 장대에 매달아 불을 붙이면 불씨가 꽃잎처럼 흩날린다. 사람들은 떨어지는 불꽃을 보며 마음을 정화하고 소원을 비는 시간을 가지게 된다.&lt;br&gt;&lt;br&gt;이번 축제는 세종시 무형유산으로 지정된 ‘세종 불교 낙화법’을 현대적으로 재해석한 것으로, 2022년부터 열리고 있다. &lt;br&gt;&lt;br&gt;축제는 오후 7시 30분부터 약 2시간가량 진행된다. 낙화봉 8000개를 매화공연장, 물놀이섬, 푸른들판 등 호수공원 8곳에 설치한다. 호수공원 어디에서나 낙화를 관람할 수 있게 한 것이다. 축제장으로 향하는 세호교 양쪽에는 100여 개의 전통 등이 불을 밝힌다.&lt;br&gt;&lt;br&gt;세종시 관계자는 “이번 축제는 낙화 연출 장소를 분산해 관람객들이 더욱 편안하고 깊이 있게 낙화의 아름다움을 느낄 수 있도록 했다”면서 “낙화 축제가 전통과 현대가 어우러진 세종만의 야간 관광 콘텐츠로 자리매김할 수 있게 하겠다”고 ㅇ했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세계 최초 ’24시간 뉴스' 시대 연 美 CNN 창립자 테드 터너 별세</title>
-      <link>https://www.chosun.com/national/people/2026/05/08/BT67RQQXCFG5HM4O5OBDW5Z4WU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/08/BT67RQQXCFG5HM4O5OBDW5Z4WU/</guid>
-      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCKZ5CYRZ5KB3DXJIUCJN47WJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 CNN 창립자 테드 터너가 6일 별세했다. 터너는 1980년 6월 세계 최초의 24시간 뉴스 전문 채널을 표방한 CNN을 설립했다. 사진은 2010년 4월 한 국제회의의 토론자로 나선 터너의 모습. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계 최초 24시간 뉴스 전문 채널인 미국 CNN 창립자 테드 터너(87)가 6일 별세했다. 터너의 가족은 이날 그가 플로리다주 탤러해시 자택에서 세상을 떠났다고 밝혔다. 터너는 2018년 퇴행성 뇌 질환의 일종인 루이소체 치매 진단을 받았고 지난해엔 폐렴으로 입원했다. &lt;br&gt;&lt;br&gt;1938년 오하이오주 신시내티에서 태어난 터너는 1956년 명문 브라운대에 입학했지만 학칙 위반으로 퇴학당했다. 이후 아버지가 운영하는 옥외 광고 회사에 합류했다. 1970년 부도 위기에 놓인 애틀랜타 지역 방송국을 인수해 이름을 WTCG(채널 17)로 바꿨다. 1972년 프로야구 애틀랜타 브레이브스와 프로농구 애틀랜타 호크스의 중계권을 확보하면서 중요한 분기점을 맞았다. 스포츠 중계가 방송국의 핵심 콘텐츠가 되자 중계권을 지키기 위해 1976년 브레이브스에 이어 이듬해 호크스 구단을 인수했다. &lt;br&gt;&lt;br&gt;터너는 1980년 6월 CNN을 설립해 24시간 뉴스 방송을 시작했다. 터너는 “오후 7시까지 일하고 집에 오면 뉴스는 끝나 있었다”면서 “나 같은 사람들이 많을 거라고 생각했다”고 했다. 이후 다른 방송사들이 CNN을 따라하면서 24시간 뉴스 체제가 만들어졌다. &lt;br&gt;&lt;br&gt;CNN은 1990년대 걸프전 보도를 통해 미국의 대표적 뉴스 채널로 발돋움했다. CNN은 이라크 바그다드 현장에서 방송했고, 정부 공식 발표보다 빠르게 소식을 전하며 신뢰를 쌓았다. 조지 HW 부시 당시 대통령은 “나는 CIA(중앙정보국)보다 CNN에서 더 많이 배운다”고 말하기도 했다. 1996년엔 CNN이 포함된 터너 브로드캐스팅 시스템(TBS)을 타임워너와 합병해 세계적 규모의 미디어 그룹을 탄생시켰다. &lt;br&gt;&lt;br&gt;젊은 시절 자신이 공화당원이라고 했던 터너는 1964년 대선 당시 미국 보수주의의 대부로 불리는 공화당의 배리 골드워터 후보를 지지했다. 하지만 1982년 쿠바 방문 이후 피델 카스트로와 교류했고, 민주당 지미 카터 대통령과도 친분을 쌓으며 점차 진보적인 국제주의자로 변모했다. &lt;br&gt;&lt;br&gt;2016년 대선에서는 힐러리 클린턴 민주당 후보를 공개 지지하며 젊은 시절과는 대조적인 정치색을 보였다. 중국 정부에 우호적인 발언으로 논란을 빚기도 했다. 뉴욕타임스(NYT)는 “터너의 정치적 입장은 모순되고 논란이 많았다”고 했다. 도널드 트럼프 대통령은 터너의 별세 소식에 “그는 역대 최고 인물 중 한 명이었다. 언제나 대의를 위해 기꺼이 싸우려 했다”며 애도했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>송진우 선생 서거 81주기 추모식</title>
