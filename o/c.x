@@ -13,6 +13,65 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘살인 미수’ 태권도장 관장·직원, 모텔 연쇄살인범 약물 사용</title>
+      <link>https://www.chosun.com/national/regional/2026/05/09/BY3TP3VYAFBM3B2NIXQGWLNCHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/09/BY3TP3VYAFBM3B2NIXQGWLNCHY/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 06:45:58 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHONRNBMOZKKRHN4DT3ZCEZOVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;약물을 탄 술로 직원의 남편을 살해하려 한 혐의를 받는 태권도장 관장 20대 여성 A씨가 9일 오후 구속 전 피의자 심문(영장실질심사)이 끝난 뒤 인천지법 부천지원을 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZ3X7R6EJVKRBDIYQ5WP7FEFYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;약물을 탄 술로 남편을 살해하려 한 혐의를 받는 40대 태권도장 직원이 9일 오후 공범인 관장과 구속 전 피의자 심문(영장실질심사)을 받은 뒤 인천지법 부천지원을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;약물을 탄 술로 남편을 살해하려 한 혐의를 받는 40대 여성 태권도장 직원과 20대 여성 관장이 경찰에 붙잡혔다. 경찰은 범행 동기를 밝히는 데 수사력을 집중하고 있다. &lt;br&gt;&lt;br&gt;9일 경기 부천 원미경찰서에 따르면, 지난 6일 오후 6시 30분쯤 태권도장 관장 A씨는 부천시 원미구 한 주택에서 자신의 태권도장 직원인 B씨의 남편 C(50대)씨에게 흉기를 휘둘렀다. A씨의 범행으로 C씨는 목과 손가락 등을 다쳤지만, 생명에는 지장이 없는 상태다. 경찰은 사건 현장에서 A씨를 특수상해 혐의로 체포했다. 말다툼 중 벌어진 우발적 범행으로 보고 수사를 진행했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGHQO4BIHWYZPGGCGUFJAIVE24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천원미경찰서./뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만, 조사 과정에서 A씨와 B씨가 휴대전화 메시지로 사전에 약물을 탄 술을 C씨에게 먹여 살해하는 방법을 논의한 것으로 드러나면서 살인 미수 사건으로 전환됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨에게 특수상해가 아닌 살인 미수와 살인 예비 혐의를, B씨에게는 살인 예비 혐의를 적용해 긴급 체포했다. &lt;br&gt;&lt;br&gt;경찰은 C씨가 평소 혼자 술을 마시는 점을 노리고 범행을 계획한 것으로 파악하고 있다. 이들은 지난달 25일 약물을 탄 술을 B씨 냉장고에 넣어둔 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 알약 형태의 벤조디아제핀계 약물 60정을 빻아 가루로 만들어 범행에 사용했다는 취지로 진술한 것으로 알려졌다. 벤조디아제핀은 불면증과 불안장애 등의 완화에 쓰이는 향정신성의약품 성분으로 ‘강북 모텔 연쇄살인범’ 김소영(20)이 지난해 12월부터 20대 남성 2명을 살해할 때 범행에 사용했다. &lt;br&gt;&lt;br&gt;경찰은 B씨의 집 냉장고에서 약물이 들어가 있는 술을 발견했으며, 국립과학수사연구원에 성분 분석을 의뢰해 놓은 상태다. &lt;br&gt;&lt;br&gt;경찰은 이러한 조사 내용을 바탕으로 A씨에게는 살인 미수, B씨에게는 살인 예비 혐의를 적용해 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;하지만 현재까지 태권도장 관장과 직원이 C씨를 살해하려 한 이유는 확인되지 않고 있다. A씨와 B씨는 경찰 조사에서 우울증과 공황장애를 앓고 있다고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 상황이라 이들의 병력 등 자세한 내용은 확인해 줄 수 없다”며 “피의자들의 범행 동기를 계속 수사할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>병수발 20년 남편 먹이려고... 할머니는 단팥빵 5개를 훔쳤다</title>
+      <link>https://www.chosun.com/national/regional/2026/05/09/MGTYRKYPSZH3HICMT3THEJR36Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/09/MGTYRKYPSZH3HICMT3THEJR36Y/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 06:05:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2I66AX3ZY5HVXDCEWKOUV2PZVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;단팥빵 훔친 할머니/ 제미나이 생성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단팥빵 5개를 훔친 80대 할머니에게 경찰이 도움의 손길을 건넨 사연이 뒤늦게 알려졌다. 기초생활 수급자인 이 할머니는 지병을 앓고 있는 남편에게 먹이고 싶어 단팥빵을 훔친 것으로 조사됐다. &lt;br&gt;&lt;br&gt;9일 경기 고양경찰서에 따르면 A씨는 지난달 2일 오후 2시쯤 경기도 고양시의 한 빵집에 혼자 들어간 뒤 단팥빵 5개를 계산하지 않고 들고나온 혐의로 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “남편이 단팥빵을 좋아해 먹이고 싶었다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 기초생활 수급자로 약 20년간 지병을 앓은 남편을 홀로 돌보고 있는 것으로 경찰은 파악했다.&lt;br&gt;&lt;br&gt;이런 사실을 알게 된 경찰은 A씨를 돕기 위해 나섰다. 우선 A씨의 거주지와 관할 행정복지센터를 직접 방문해 지자체가 운영하는 긴급 생계비 지원을 받을 수 있도록 도왔다. 긴급 생계비 지원은 생계 곤란 등 위기 상황에 처한 주민에게 긴급 구호 물품과 돌봄 서비스 등을 한시적으로 지원하는 제도다.&lt;br&gt;&lt;br&gt;경찰은 이 사건을 경미범죄 심사위원회에 회부해 감경 조치한 뒤 경미한 범죄에 대해 정식 형사재판 대신 간이 절차로 처리하는 즉결심판에 넘겼다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범죄에는 원칙대로 대응해야 하지만, 생계형 범죄나 사회적 약자의 어려움까지 외면해서는 안 된다고 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2I66AX3ZY5HVXDCEWKOUV2PZVU.jpg?auth=f256892eaa3c3760bd09876d2c7c164323a78d7612fd7adf0f9540f1312412a2&amp;smart=true&amp;width=1024&amp;height=559" type="image/jpeg" height="559" width="1024">
+        <media:description type="plain">단팥빵 훔친 할머니/ 제미나이 생성</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>AI로 카톡 100만건 분석해 증거 확보... 대검 형사부 첫 ‘특별성과 포상’</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/09/OTUVFO2A5NEYDJRT232N3IWORA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/09/OTUVFO2A5NEYDJRT232N3IWORA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 08:16:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQWCMBXG42DGNZZGJRTIMBVMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능(AI)을 활용해 100만건이 넘는 카카오톡 대화에서 핵심 증거를 찾아낸 검찰 수사팀이 대검찰청 형사부의 첫 ‘특별성과 포상’ 대상으로 선정됐다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 대검은 지난 8일 AI 분석 기법을 수사에 활용한 서울동부지검 형사4부 손성민 검사 등을 특별성과 포상 수상자로 선정했다. 특별성과 포상 제도는 ‘탁월한 성과를 낸 공무원에 대해 파격적 보상이 이뤄지도록 하라’는 정부 방침에 따라 올해 신설됐다. 이번 수상자 선정도 정성호 법무부 장관의 지시에 따라 이뤄졌다.&lt;br&gt;&lt;br&gt;동부지검 형사4부는 해외 쇼핑몰 구매대행 프로그램 소스코드를 빼돌려 경쟁업체에 넘긴 혐의(부정경쟁방지법 위반·업무상 배임·저작권법 위반 등)로 개발자 박모씨 등 3명을 지난달 불구속 기소하는 과정에서 AI를 활용했다.&lt;br&gt;&lt;br&gt;검찰은 피의자들이 주고받은 카카오톡 대화 약 100만건과 유출된 소스코드 자료를 AI에 학습시켜 범행 정황이 의심되는 대화 내용을 추려냈다. 이를 통해 경찰 수사 단계에서 확인되지 않았던 공모 정황과 증거를 추가로 확보했다고 한다.&lt;br&gt;&lt;br&gt;수사팀은 “(타사 프로그램과) 너무 똑같아서 색이라도 바꿔야 하나 고민했다”, “(타사 프로그램이) 생각나게 하는 것보다 다른 느낌으로 가자” 등 소스 코드 복제를 의심할 수 있는 대화도 추가 증거로 확보했다.&lt;br&gt;&lt;br&gt;법무부는 앞으로도 성과 중심 보상 원칙에 따라 관련 포상을 확대해 나갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“차량 2·5부제 위반했다”며 기후부 사칭한 스미싱 문자 나와</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/09/OZB3WD2GUNEQ3CS3VE4RKIJNXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/09/OZB3WD2GUNEQ3CS3VE4RKIJNXY/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 05:52:19 +0000</pubDate>
+      <content:encoded>기후에너지환경부가 최근 ‘공공기관 차량 2부제나 공영 주차장 차량 5부제를 위반한 사실이 있다’며 기후부를 사칭해 문자를 보낸 사례가 확인됐다며 주의를 당부했다.&lt;br&gt;&lt;br&gt;기후부는 9일 “기후에너지환경부는 문자메시지로 관련 위반 고지를 하지 않는다”며 이같이 밝혔다. 기후부는 “개인정보 입력 요구나 전화 요청, 앱 설치 유도 등도 하지 않는다”며 “출처가 불분명한 링크는 절대 클릭하지 말고 바로 삭제해달라”고 했다.&lt;br&gt;&lt;br&gt;정부는 중동 전쟁 여파로 원유 가격이 급등하자 지난 3월 25일 공공기관을 대상으로 승용차 5부제를 도입했다. 이어 2주 뒤인 지난 8일 공공기관 5부제를 2부제로 확대했다. 홀수일에는 차량 번호 끝자리가 홀수인 차량만, 짝수일에는 짝수인 차량만 운행할 수 있다. 지난 8일에는 공공기관이 운영하는 노상·노외 유료 주차장에 승용차 5부제가 적용됐다. 번호 끝자리가 1·6인 차량은 월요일, 2·7은 화요일, 3·8은 수요일에 공영 주차장 출입이 제한되는 방식이다. &lt;br&gt;&lt;br&gt;장애인·임산부·유아 동승 차량, 전기·수소차, 긴급·의료·경찰·소방 등 특수 목적 차량, 생계형 차량 등은 공공기관 2부제나 공영 주차장 5부제 대상에서 제외된다.&lt;br&gt;&lt;br&gt;기후부는 “공공기관 승용차 2부제나 공영 주차장 5부제와 관련한 문의는 콜센터(070-4703-3730)로 연락해 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EVT3L6M3RCVLOLI5QBA4NENUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기후에너지환경부가 사칭 스미싱 문자를 주의해달라며 홈페이지에 내건 공지문. /기후에너지환경부 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 10일 일요일 (음력 3월 24일 甲申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/09/BMG46L72K5DN7IIAXIUSFWA2UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/09/BMG46L72K5DN7IIAXIUSFWA2UQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>연세대 141주년 기념식 열려...“인간 중심 AI 캠퍼스 구축할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/09/C5RDFP7GORD6PHTXKT6QYT2NSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/09/C5RDFP7GORD6PHTXKT6QYT2NSA/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 07:49:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QKX64PDMVG4TGQV4LR7IKGNGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 서대문구 연세대 신촌캠퍼스 백주년기념관 콘서트홀에서 열린 연세대 창립 141주년 기념식에서 윤동섭 연세대 총장이 축사를 하고 있다./연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 9일 서울 서대문구 연세대 신촌캠퍼스 백주년기념관 콘서트홀에서 창립 141주년 기념식을 열었다. 기념식에는 허동수 학교법인 연세대학교 이사장, 윤동섭 연세대 총장, 이경률 총동문회장 등 1000여 명이 참석했다.&lt;br&gt;&lt;br&gt;윤 총장은 이날 기념사에서 “1885년 선교사 알렌과 언더우드 선교사의 헌신으로 시작된 연세대는 언제나 자유로운 학풍 속에서 ‘인간에 대한 깊은 이해’와 ‘자유로운 질문의 힘’을 지켜왔다”라며 “연세대 구성원 모두는 ‘인류 난제를 해결하는 글로벌 허브 대학’이라는 목표로 꾸준히 나아가고 있다”고 했다. &lt;br&gt;&lt;br&gt;윤 총장은 이날 연세대가 교육·연구 중심 글로벌 대학으로 도약하기 위한 세 가지 핵심 방향으로 ‘재정 기반 강화’ ‘신촌·국제·미래 캠퍼스 간 네트워크 구축’ ‘인간 중심 AI 캠퍼스 조성’을 제시했다. 재정 안정화 부문에서는 최근 6300억원 규모의 연구비를 수주하고 6400억원 규모의 자회사 기업가치를 만들어냈다고 말했다. 캠퍼스 혁신에서는 송도 국제캠퍼스를 바이오, 양자, 미래 의학, 첨단공학·약학 분야를 선도하는 혁신 거점으로 재편하겠다고 밝혔다. AI 혁신 부문에서는 AI를 교육과 연구의 기본 인프라로 전면 도입하겠다고 강조했다. &lt;br&gt;&lt;br&gt;윤 총장은 “지식을 전달하는 대학에서 벗어나 질문하고 문제를 해결하는 대학으로 나아가겠다”라며 “전공 간 경계를 허무는 융합교육과 자기주도 연구, 글로벌 경험 기회를 확대해 대학 구성원 모두가 좋은 질문을 만들고 공유하는 문화를 정착시키겠다”라고 했다.&lt;br&gt;&lt;br&gt;이경률 총동문회장은 “141년의 역사를 가능케 한 것은 선배들과 교수님들의 헌신 덕분”이라며, “동문 모두의 마음을 모아 모교 발전을 적극적으로 지원하고 연세 공동체를 더욱 굳건히 만들겠다”라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 연세 학술상에는 조성배 컴퓨터과학과 조성배 교수, 권영준 물리학과 교수, 도현철 사학과 교수, 정상철 심리학과 교수가 선정됐다. 조성배 교수는 인공신경망과 기호주의 AI를 결합한 새로운 AI 모델을 개발했다. 권영준 교수는 빅뱅 이후 우주에 물질만 남은 이유를 규명하는 데 기여했다. 도현철 교수는 여말선초 개혁 사상을, 정상철 교수는 인간이 여러 시각 정보를 한꺼번에 파악하는 인지 방식을 연구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>백령도서 中어선 2척 나포… 압송 중 선원 1명 사망</title>
       <link>https://www.chosun.com/national/regional/2026/05/09/WDX2GYCOJJBZXEZLNSMDXBZCOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/09/WDX2GYCOJJBZXEZLNSMDXBZCOQ/</guid>
@@ -779,15 +838,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JQX5F6IGRDKRKSTAAQFGUF4SA.png"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 정원오 더불어민주당 서울시장 후보, 오세훈 국민의힘 서울시장 후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 정원오 서울시장 후보와 국민의힘 서울시장 오세훈 후보가 연일 부동산 문제를 두고 공방을 벌이고 있다. 두 후보 모두 재건축·재개발 속도를 높이겠다는 공약을 내놓은 가운데, 서로 상대방 공약이 자기 공약을 베낀 것이라거나 부동산 문제 해결에 소용없는 것이라고 비난했다.&lt;br&gt;&lt;br&gt;정 후보는 7일 오후 서울 강남 3구의 유일한 공공 재개발 현장인 송파구 거여새마을지구를 찾았다. 정 후보는 “이곳은 통합 심의가 3개월, 사업 심의가 2개월 만에 해결됐다”며 “결국 정비 사업이 얼마나 빠르게 진행되는지는 행정의 밀착에 달려 있는데, 이것이 바로 정원오의 ‘착착 개발’”이라고 했다. 오 후보를 겨냥해서는 “4년 전 매년 8만호씩 주택을 공급하겠다고 했는데 그 절반인 4만호도 안 했다”고 했다. 정 후보 측은 이날 대변인 논평에서 “오 후보는 말로만 주택 공급을 외치면서 정작 서민들의 주거 안정과 지역 공동체 붕괴에는 눈을 감아 왔다”며 “오 후보는 무능하다”고 했다. ‘착착 개발’은 정 후보의 핵심 공약으로 재개발을 소요 기간을 3년 단축하겠다는 것이 골자다. 정 후보는 또 500세대 미만 재개발 구역 지정 권한을 서울시에서 자치구로 넘기고, 공공 재개발도 활성화하겠다고 했다.&lt;br&gt;&lt;br&gt;오 후보는 이날 영등포구 대림동과 광진구 구의동 등을 연달아 찾아 “‘닥공’, 즉 닥치고 공급”이라며 “서울에는 유휴 부지가 많지 않기 때문에, 공급의 완성은 ‘압도적 속도’에서 나온다”고 했다. 오 후보는 “2031년까지 총 31만호의 주택 착공을 이뤄내, 압도적인 주택 공급 물량을 확보하겠다”고 약속했다.&lt;br&gt;&lt;br&gt;오 후보는 공급 속도를 높이기 위해 85개 재개발 구역의 8만5000호를 ‘핵심 전략 정비 구역’으로 선정해 집중 관리하겠다고 했다. 또 ‘쾌속 통합’ 트랙을 도입해, 재개발 절차에서 추진위원회 구성 단계를 생략할 수 있도록 하고, 서울시가 사업 시행 인가와 관리 처분 계획 인가를 한 번에 내주도록 하겠다고 약속했다.&lt;br&gt;&lt;br&gt;오 후보는 정 후보를 겨냥해서는 이날 라디오에서 “재개발·재건축은 10~20년이 걸리니, 정 후보가 슬쩍 빌라 쪽에 무게중심을 두고 있다”며 “정 후보가 당선되면 ‘부동산 지옥’이 현실화된다”고 했다. 정 후보 측은 오 후보의 ‘쾌속 통합’이 정 후보의 ‘착착 개발’을 베낀 것이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“날 좀 보소 날 좀 보소” 밀양 아리랑 대축제</title>
-      <link>https://www.chosun.com/national/2026/05/08/DJUABLUE6BDHZMW7PGYQ5UOPCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/08/DJUABLUE6BDHZMW7PGYQ5UOPCE/</guid>
-      <dc:creator>밀양=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWSARTDREJFXLC7HIAT5DRN4WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 ‘밀양아리랑대축제’ 무대에서 뮤지컬 공연이 펼쳐지고 있다. 올해 축제는 7~10일 열린다. /밀양시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밀양시는 7일부터 10일까지 국보 영남루(嶺南樓)와 밀양강변 일대에서 ‘밀양 아리랑 대축제’를 연다고 밝혔다. 밀양 아리랑 대축제는 1957년 영남루 대보수 기념 행사로 시작해 올해 68회째다. 2012년 아리랑이 유네스코 인류무형문화유산으로 지정된 후 규모를 확대했다. &lt;br&gt;&lt;br&gt;올해 축제는 ‘아리랑, 시대를 넘어 미래로’를 주제로 열린다. 전통 민요인 아리랑에 현대적 콘텐츠를 접목해 미래 세대와 전 세계에 알린다는 취지다.&lt;br&gt;&lt;br&gt;아리랑 주제관에서는 밀양 아리랑을 포함한 전국 아리랑의 역사와 현재, 미래를 볼 수 있다. 일본·중국·우즈베키스탄·카자흐스탄·몽골·미국(하와이) 등 7국으로 퍼진 아리랑을 주제로 한 특별전도 열린다. 축제의 하이라이트는 뮤지컬 공연 ‘밀양강 오디세이’다. 밀양 출신으로 임진왜란 때 승병을 일으킨 사명대사의 이야기가 주제다. 시민 배우 등 총 330명이 밀양강 둔치 야외 무대에 선다. &lt;br&gt;&lt;br&gt;밀양시 관계자는 “온 가족이 함께 체험할 수 있는 맞춤형 콘텐츠, 각종 민속 공연 등 다양한 프로그램을 즐길 수 있을 것”이라며 “아리랑이 문화 콘텐츠로서 더욱 확장하는 계기가 될 수 있게 축제를 운영하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 韓 내란죄 인정하면서도… “계엄 주도한 건 아니다” 감형</title>
       <link>https://www.chosun.com/national/court_law/2026/05/08/G5NKHTFDXZGUJOPQPR6WVEILEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/08/G5NKHTFDXZGUJOPQPR6WVEILEE/</guid>
@@ -806,34 +856,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTEYRXGA4TGYZQGVSDEYJTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사12-1부(재판장 이승철)는 7일 한덕수 전 국무총리의 내란 중요 임무 종사 사건 2심에서 12·3 비상계엄과 관련해 “국헌문란 목적으로 선포돼 폭동행위로 나아갔다”고 평가했다. 이에 따라 법조계에선 내란 우두머리 혐의로 1심에서 무기징역을 선고받은 윤석열 전 대통령에게 2심에서도 중형이 선고될 가능성이 커졌다는 분석이 나왔다. 내란전담재판부로 지정된 서울고법 형사12-1부는 윤 전 대통령의 내란 우두머리 사건 항소심 재판도 맡고 있다.&lt;br&gt;&lt;br&gt;서울고법 형사12-1부는 이날 한 전 총리 사건 재판과는 별개로 윤 전 대통령과 김용현 전 국방장관 등의 내란 사건 2심 공판 준비 절차를 마쳤다. 윤 전 대통령은 1심에서 내란 우두머리 혐의가 유죄로 인정되자 “단순히 군대가 국회에 갔기 때문에 비상계엄이 내란이라는 논리는 납득하기 어렵다”며 항소했다. 하지만 서울고법 내란전담재판부가 다른 항소심 재판에서도 12·3 비상계엄이 국헌 문란을 목적으로 한 폭동이란 점을 인정할 가능성이 커졌다는 분석이 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3TQ36OBBREB3CV5FCQH7MTK3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 선포 직후 언론사 5곳에 대한 단전·단수 조치를 지시한 혐의를 받는 이상민 전 행정안전부 장관은 오는 12일 항소심 선고 공판이 예정돼 있다. 이 전 장관은 “단전·단수 지시 관련 문건을 받지 않았다”고 주장했으나 1심 재판부는 징역 7년을 선고했다. 이날 한 전 총리 내란 중요 임무 종사 사건 2심 재판부도 “계엄 선포 후 한 전 총리는 이 전 장관과 단전·단수 문건 속 지시를 이행할 방안을 논의한 것으로 인정된다”고 판단했다. &lt;br&gt;&lt;br&gt;박성재 전 법무부 장관이 내란 중요 임무에 종사했다는 사건 1심 선고는 오는 6월 9일 나올 예정이다. 박 전 장관은 비상계엄이 선포되자 법무부 실·국장 회의를 소집한 뒤 합동수사본부 검사 파견 검토, 교정 시설 수용 여력 점검 등을 지시한 혐의를 받는다. 특검팀은 지난달 박 전 장관에게 징역 20년을 구형했다. 박 전 장관은 “계엄 선포 후 어려운 문제가 발생할 경우에 대비했을 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;법조계 일각에선 이날 한 전 총리 항소심 판결이 추경호 전 국민의힘 원내대표 1심 재판에 변수가 될 수 있다는 분석이 나온다. 추 전 원내대표는 윤 전 대통령, 한 전 총리 등의 전화를 받고 국회의 계엄 해제 표결을 방해했다는 혐의로 기소됐다. 그러나 한 전 총리 2심 재판부는 이날 “제출된 증거만으로는 한 전 총리가 추 전 원내대표에게 국회 상황을 확인하거나, 비상계엄이 계속될 것이라는 믿음을 줬다고 보기 어렵다. 국민의힘 의원들이 계엄 해제 표결에 참여하지 못하도록 하라고 지시했다고 보기도 어렵다”고 판단했다. 추 전 원내대표는 국민의힘 후보로 6·3 대구시장 선거에 출마했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>코로나 끝나자, 부모님 안부 전화도 줄어</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/05/08/FVSRQAEYUBGCJEVFM6VPB4J7BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/08/FVSRQAEYUBGCJEVFM6VPB4J7BA/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:50:00 +0000</pubDate>
-      <content:encoded>부모와 함께 살지 않는 자녀들은 3~4일에 한 번씩 부모에게 ‘안부 전화’를 하는 것으로 조사됐다. 안부 전화 빈도는 코로나 유행 시기 늘었다가 다시 감소한 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 한국보건사회연구원의 ’2025년 한국복지패널 조사·분석 보고서’에 따르면, 조사 대상 7499가구 가운데 44.3%(3321가구)는 부모와 따로 살고 있었다. 따로 사는 부모와 지난 1년간 얼마나 전화 연락을 했는지 조사했더니 평균 105회였다. 3.5일에 한 번꼴로 부모와 통화한 셈이다.&lt;br&gt;&lt;br&gt;부모와의 연평균 연락 횟수는 2018년 90회, 2019년 97회였다가 코로나 유행이 본격화한 2020년 103회로 증가했다. 2021년 112회, 2022년 113회로 증가세를 이어갔다. 하지만 2023년 106회, 2024년 105회로 코로나 유행이 끝나자 다시 줄었다. 코로나 이전에는 평균 4일에 한 번꼴로 연락했다면, 팬데믹 시기에는 약 3.2일에 한 번꼴로 통화한 것이다.&lt;br&gt;&lt;br&gt;소득 수준에 따른 차이도 있었다. 2024년 기준 일반 가구는 연평균 106회 전화 연락을 했는데, 저소득 가구는 연평균 86회에 그쳤다. 2018~2024년 모두 일반 가구가 저소득 가구보다 부모와 평균적으로 더 자주 연락하는 경향이 이어졌다.&lt;br&gt;&lt;br&gt;따로 사는 부모와 왕래 횟수는 2019년 43회에서 코로나 기간인 2020년과 2021년 40회로 줄었다. 이후 2023년 42회, 2024년 41회로 약간 늘었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교사에 악성 민원 한번만 해도 교권 침해</title>
-      <link>https://www.chosun.com/national/education/2026/05/08/HSA3GRSNFNABXCDCXCHJWNN2ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/08/HSA3GRSNFNABXCDCXCHJWNN2ME/</guid>
-      <dc:creator>최인준 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:50:00 +0000</pubDate>
-      <content:encoded>앞으로 학교 교사에게 한 번이라도 ‘악성 민원’을 하면 교권 침해 행위로 인정돼 제재를 받게 된다. 기존에는 반복적인 행위만 교권 침해로 간주했는데, 교사의 교육 활동을 방해하는 경우 횟수와 관계없이 침해 행위로 보겠다는 것이다. &lt;br&gt;&lt;br&gt;7일 국회 본회의에서 이런 내용의 ‘교원의 지위 향상 및 교육활동 보호를 위한 특별법’ 개정안이 통과됐다. 현행법은 학교·교사에 대한 악성 민원을 ‘목적이 정당하지 않은 민원을 반복적으로 제기하는 행위’로 규정하고 있다. 이번 개정안에선 이 조항이 ‘목적이 정당하지 않은 민원을 반복적이거나 교육 활동에 현저한 지장을 주는 방식으로 제기하는 행위’로 바뀌었다. &lt;br&gt;&lt;br&gt;또 이번 법 개정으로 교사의 대면 수업뿐 아니라 비대면 수업도 보호받아야 할 교육 활동에 포함됐다. 학생이나 학부모가 온라인 수업을 방해하는 것도 교권 침해가 될 수 있는 것이다. &lt;br&gt;&lt;br&gt;이날 본회의에서는 연차휴가를 시간 단위로 나눠 쓸 수 있도록 한 근로기준법 개정안도 통과됐다. 기존 법은 ‘1년간 80% 이상 출근한 근로자에게 15일의 유급휴가를 주어야 한다’고만 규정할 뿐, 연차 사용 단위는 따로 정하지 않고 있다. 이 때문에 병원 진료나 은행 업무처럼 짧은 개인 용무에도 연차나 반차를 써야 했다. 이런 불편을 줄이기 위해 ‘휴가를 시간 단위로 쓸 수 있다’는 조항을 추가한 것이다. 개정안엔 반차(4시간) 사용 시 휴게시간을 근무 종료 시점에 붙일 수 있도록 하는 내용도 담겼다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰청 10월 폐지 앞두고… 신임 검사 134명 임관 </title>
-      <link>https://www.chosun.com/national/national_general/2026/05/08/P5NKX2W3AFHQ7OSGA5PEJLDB3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/08/P5NKX2W3AFHQ7OSGA5PEJLDB3Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEBN6DXOVZBUNGHRH3MVYY2OGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 경기 과천 정부과천청사 대강당에서 신임 검사 임관식이 열렸다. 신임 검사 134명이 선서를 하고 있다. 법무부는 “일선 검사 인력난을 고려해 선발을 3개월 정도 앞당기고 인원도 늘렸다”고 했다. 한편, 검찰청은 오는 10월 폐지된다. 기소와 공소유지는 공소청이, 수사는 중수청이 각각 맡는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“도성회, 도로公 내부정보로 휴게소 사업 따내… 적자에도 셀프배당”</title>
       <link>https://www.chosun.com/national/transport-environment/2026/05/08/AQTVNGY2HFEJNGH6K3YAHJ4SAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/08/AQTVNGY2HFEJNGH6K3YAHJ4SAI/</guid>
@@ -850,24 +872,6 @@
       <description/>
       <pubDate>Thu, 07 May 2026 15:50:00 +0000</pubDate>
       <content:encoded>24시간 응급 분만, 고위험 임산부·신생아 진료를 위해 정부가 별도로 지정한 전국 권역 모자의료센터 20곳 중 12곳이 산과 전문의 필수 인력 기준(4명 이상)을 충족하지 못한 것으로 확인됐다. 산과 전문의 부족으로 권역 모자의료센터가 제 역할을 하지 못하는 만큼 대책 마련이 시급하다는 지적이 나온다. &lt;br&gt;&lt;br&gt;6일 본지 취재를 종합하면, 권역 모자의료센터 가운데 필수 인력 기준을 충족하는 병원은 서울성모병원·고려대구로병원·분당서울대병원·강원대병원 등 8곳에 불과했다. 4명 미만인 나머지 12곳 중 충북대병원과 양산부산대병원의 경우, 근무하는 산과 전문의가 현재 각각 1명뿐이다.&lt;br&gt;&lt;br&gt;앞서 정부는 지난해부터 고위험 산모와 신생아 진료 유지를 위해 전국에 모자의료센터(중증·권역·지역) 제도를 도입하고 기존 병원 중에서 이를 지정해 운영하고 있다. 특히 이 중에서도 권역 모자의료센터는 전국에 2곳뿐인 중증 모자의료센터와 전국 33곳이 있는 지역 모자의료센터의 허리 역할을 한다. 권역모자의료센터로 지정되면 첫해에 16억원(설치비 포함)을 비롯해 이후 매년 운영비 6억원이 지원된다. 하지만 인력 기준 등이 충족되지 않더라도 다른 불이익은 없다. &lt;br&gt;&lt;br&gt;보건복지부 관계자는 “정부도 현재 대책 마련을 고민하고 있다”고 했다. 문제는 당장 인력을 충원할 수 있는 뾰족한 방안이 없다는 것이다. 산과 의사 4명이 근무하던 수도권의 A 병원은 지난해 말 2명이 그만둬 현재 2명이 근무 중이다. 이 병원은 다른 병원에서 산과 교수를 영입하는 방안을 검토 중이지만, 제대로 진행되지 않는 것으로 전해졌다. ‘빅5’ 등 상위 병원들도 산과 의사를 추가 채용하는 데 어려움을 겪고 있다고 한다. &lt;br&gt;&lt;br&gt;이 같은 인력난을 놓고 한 산과 교수는 “최근 10~15년 사이 전국의 산과 교수가 감소한 데다, 이에 따른 영향으로 신규 배출되는 산과 의사가 줄어들고 있다”며 “오랜 시간에 걸친 산과 교육 인프라 붕괴 현상이 현실화되고 있는 것”이라고 했다. 오수영 삼성서울병원 산부인과 교수는 “고위험 분만을 주로 맡는 대학병원 산과 교수 육성 방안에 대한 체계적인 정책이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 미혼 중년 80%가 혼자 산다</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/08/RFGCPFG6Y5GYBDPCXWCWBP6QME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/08/RFGCPFG6Y5GYBDPCXWCWBP6QME/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:50:00 +0000</pubDate>
-      <content:encoded>서울에 사는 40~59세 시민 중에서 결혼을 하지 않은 사람 비율이 20.4%인 것으로 7일 나타났다. 중년 5명 중 1명은 결혼을 하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;서울시가 이날 공개한 ‘서울시 미혼 중년의 삶’ 보고서를 보면, 2024년 기준 서울의 40~59세 인구는 274만299명으로 집계됐다. 이 중 결혼을 하지 않은 사람은 56만323명(20.4%)이었다. 40~59세 중년 미혼자는 2022년과 비교해 2년 새 4만6797명(9.1%) 늘었다. 설동훈 전북대 사회학과 교수는 “결혼과 출산을 뒤로 미루는 사회적 현상이 반영된 것”이라고 말했다.&lt;br&gt;&lt;br&gt;미혼 중년 중에서 혼자 사는 1인 가구 비율이 빠르게 늘고 있었다. 2015년 61.3%였던 중년 미혼 1인 가구 비율은 지난해 80.5%로 19.2%포인트 올랐다. 반면 부모 등과 함께 사는 가구는 33.5%에서 17.7%로 절반 가까이 줄었다.&lt;br&gt;&lt;br&gt;전문직·사무직 등 수입이 안정적인 직종에서 1인 가구 흐름이 두드러졌다. 중년 미혼 1인 가구 중 전문직·사무직 비율은 2015년 53.9%에서 지난해 66.9%로 13%포인트 올랐다. 같은 기간 부모 등과 함께 사는 전문직·사무직 비율이 7%포인트 오른 것과 비교하면 증가세가 더 가파르다. 서울시 관계자는 “소득이 높고 직업이 안정적인 사람들이 혼자 살기를 선택한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;중년 미혼 1인 가구는 소득 수준에 따라 여가를 즐기는 방식도 달랐다. “주말에 주로 어떻게 시간을 보내느냐”는 질문에 전문직의 47.1%, 사무직의 44.1%가 “문화예술·스포츠·여행 등 야외 활동을 즐긴다”고 답한 반면, 블루칼라는 60.7%가 “취미 활동을 하거나 집에서 쉰다”고 답했다. “문화예술·스포츠·여행 등 야외 활동을 즐긴다”고 응답한 블루칼라층은 31.5%였다.&lt;br&gt;&lt;br&gt;한편 이웃과 알고 지내고 동네 행사에 참여하는 등 중년 미혼 1인 가구가 느끼는 ‘지역 사회 소속감’은 10점 만점에 3.4점이었다. 기혼 부부 가구(4.3점)보다 0.9점 낮았다. 중년 미혼 1인 가구의 단체 활동 참여율 역시 76.2%로, 기혼 부부 가구(80.7%)보다 4.5%포인트 낮았다. 중년 미혼 1인 가구가 기혼 부부 가구보다 상대적으로 사회적 연결망이 취약하다는 분석이 나온다. 설 교수는 “중년층의 외로움·고립은 이들이 은퇴한 뒤 노인이 되면 더 큰 문제로 발전할 가능성이 있다”며 “정부나 지방자치단체가 이들의 특성에 맞게 정책을 개발할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시 “러브버그야 올해는 가만 안둔다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/08/3LVA33ZIIFC67AYJXKOMJ3PMDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/08/3LVA33ZIIFC67AYJXKOMJ3PMDE/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6VYLC6BXFA5BOWBJPTCF6LXNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 노원구 불암산에서 서울시 관계자가 ‘러브버그(붉은등우단털파리)’ 방제제를 뿌리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 이른바 ‘러브버그’(붉은등우단털파리) 확산을 막기 위해 7일부터 선제적으로 방제 작업에 나섰다고 밝혔다. 친환경 방제제를 살포하고, 포집 장비를 확대 설치한다.&lt;br&gt;&lt;br&gt;러브버그는 진드기 같은 해충을 잡아먹는 익충이지만 개체 수가 지나치게 늘어 시민 민원이 많다. 암수가 붙어 다니며 번식하는 습성 때문에 이런 이름이 붙었다. 장마철을 앞둔 6~7월 대량 출몰한다. &lt;br&gt;&lt;br&gt;서울시는 일단 러브버그 유충이 많이 있을 것으로 예상되는 은평구 백련산과 노원구 불암산에 친환경 미생물 방제제 ‘BTI’를 살포할 계획이다. BTI는 일반 동식물에는 영향을 주지 않고 러브버그 등 특정 파리류 유충만 죽인다.&lt;br&gt;&lt;br&gt;6~7월 성충이 대량 출몰하는 시기에는 고공 포집기를 운영한다. 고공 포집기는 3m 높이에서 빛으로 러브버그를 유인해 잡는 장비로, 지난해 백련산에서 시범 운영해 효과를 봤다. 올해는 불암산에도 설치한다. 자치구 19곳의 공원과 산에 향기로 러브버그를 유인하는 포집기 약 1300대를 설치한다. 강서·양천구에는 살수 드론도 도입할 계획이다. 러브버그는 날개가 물에 젖으면 날지 못하고 떨어진다.&lt;br&gt;&lt;br&gt;한편 지난해 서울시에 접수된 러브버그 관련 민원은 총 5282건이었다. 서울시 관계자는 “민원 데이터를 정밀히 분석해 적시에, 적재적소에 방제 작업을 할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>허인구 전 G1방송 대표이사, 사격연맹 인사기금마케팅위원장</title>
