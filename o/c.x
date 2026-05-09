@@ -13,13 +13,49 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
-      <title>[인사] 헤럴드경제</title>
-      <link>https://www.chosun.com/national/people/2026/05/08/P5MYJBR4SBBTRARTNRJ2Z3MRTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/08/P5MYJBR4SBBTRARTNRJ2Z3MRTM/</guid>
-      <dc:creator>조선일보</dc:creator>
+      <title>백령도서 中어선 2척 나포… 압송 중 선원 1명 사망</title>
+      <link>https://www.chosun.com/national/regional/2026/05/09/WDX2GYCOJJBZXEZLNSMDXBZCOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/09/WDX2GYCOJJBZXEZLNSMDXBZCOQ/</guid>
+      <dc:creator>노인호 기자</dc:creator>
       <description/>
-      <pubDate>Thu, 07 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded> &lt;b&gt;▲헤럴드경제&lt;/b&gt;▷강원취재본부장 함영훈&lt;br&gt;&lt;br&gt;</content:encoded>
+      <pubDate>Sat, 09 May 2026 00:39:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2QFFTR7ONNE3NHV3ZJULBFWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 외국어선 특별단속 훈련 준비하는 해경 함정들./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 백령도 해상에서 불법 조업 중이던 중국어선 2척이 해양경찰에 나포됐다.&lt;br&gt;&lt;br&gt;중부지방해양경찰청 서해5도특별경비단은 영해 및 접속수역법 위반 혐의로 중국어선 A호 등 2척을 나포했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A호 등은 전날인 8일 오후 인천시 옹진군 백령도 북서방 해상에서 서해 북방한계선(NLL)을 최대 3㎞가량 침범해 불법조업을 한 혐의를 받는다. 해경은 NLL을 침범해 불법조업 중 외국어선들을 발견하고 해군과 합동 작전을 벌여 이들 어선을 나포했다. 해경은 나포한 어선과 선원들을 인천 해경 전용부두로 압송했다. 이 과정에서 40대 중국인 선원 B씨가 건강이상 증세를 보여 병원으로 옮겼으나 숨졌다. &lt;br&gt;&lt;br&gt;해경 관계자는 “관계 법령과 절차에 따라 중국인 선원의 사망 사실을 중국 측 영사기관에 통보했다”며 " 중국선원과 함정 직원 등을 대상으로 B씨의 사망경위와 원인, 불법 조업 경위 등에 대해 조사할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포항해경, 풍랑주의보 내려진 먼 바다에서 뇌졸중 의심 선원 긴급 이송 </title>
+      <link>https://www.chosun.com/national/regional/2026/05/09/L5VOFE3TYRAEXFZZWF2BHIHDMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/09/L5VOFE3TYRAEXFZZWF2BHIHDMQ/</guid>
+      <dc:creator> 노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 04:03:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBY7QK4RMBF5LCNRQO6RUI3VLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 포항해양경찰서 관계자들이 먼바다에서 뇌졸중 의심 증세를 보인 60대 선원을 헬기로 이송하고 있다./포항해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동해 먼바다에서 조업 중이던 뇌졸중 의심 환자가 포항해경의 도움으로 병원에 긴급 이송됐다. &lt;br&gt;&lt;br&gt;9일 경북 포항해양경찰서에 따르면, 전날 오후 8시 12분쯤 영덕군 축산면 동쪽 약 256㎞ 바다에서 조업하던 80t급 어선 A호(승선원 11명)에서 “60대 선원 B씨가 뇌졸중 의심 증상으로 긴급 이송이 필요하다”는 신고가 해경에 접수됐다. 당시 동해 남부 먼바다에는 풍랑주의보가 발령된 상태였다.&lt;br&gt;&lt;br&gt;신고를 접수한 포항해경은 인근 해역을 경비하던 1000t급 1003함을 현장에 급파하는 동시에 동해지방해양경찰청에 긴급 항공 이송을 요청했다. 포항해경 1003함은 약 165㎞를 고속 항해해 3시간 30분가량 만인 같은 날 오후 11시 42분쯤 현장에 도착했다. 이후 환자를 함정으로 옮긴 뒤 원격응급의료시스템을 가동했다. B씨에 대한 진료 결과, 혈압이 높고 안면마비 증상 등 뇌졸중이 의심되는 상황이었다. 해경 측은 B씨의 상태를 지속해서 확인하면서 육지 방향으로 이동했고 다음 날인 9일 오전 4시 25분쯤 영덕군 남정면 구계항 동쪽 74㎞ 해상에서 해경 헬기로 B씨를 옮겼다. 이후 1시간가량 뒤 포항경주공항에 대기 중이던 119구급대를 통해 B씨를 병원으로 이송했다. 선원을 구조하기 위해 신고 이후 악천후에도 야간 256㎞ 먼바다에서 발생한 뇌졸중 의심 환자를 해경 함정과 헬기, 그리고 119구급대까지 9시간 릴레이 구조를 진행한 것이다.&lt;br&gt;&lt;br&gt;이근안 포항해경서장은 “먼바다에서 조업 중인 어선에서 발생하는 응급 환자는 이송에 많은 시간이 소요되는 만큼 발견 즉시 신고가 필요하다”며 “앞으로도 국민의 생명을 지키기 위해 최선을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>납북 귀환했더니 불법구금에 사찰까지… 法 “춘곡호 선원 유족에 3600만원 배상” </title>
+      <link>https://www.chosun.com/national/court_law/2026/05/09/OSBFGNTI3ZGXDM7P35OIQDHTRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/09/OSBFGNTI3ZGXDM7P35OIQDHTRM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 02:32:41 +0000</pubDate>
+      <content:encoded>1965년 동해상에서 조업 중 북한 경비정에 납북됐다가 귀환한 ‘춘곡호’ 선원과 그 가족들이 국가를 상대로 낸 손해배상 소송에서 승소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJFCQJTJHTETDWHK7L5GDGNXWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 서울중앙지법 민사44단독 정승화 판사는 춘곡호 선원 고(故) A씨의 배우자, 자녀 등 유족 5명이 국가를 상대로 낸 손해배상 청구 소송에서 지난달 30일 원고 일부 승소로 판결했다. 재판부는 “국가가 A씨의 배우자에게 1345만원, 자녀 4명에게 각각 563만원 등 약 3600만원을 배상하라”고 명령했다.&lt;br&gt;&lt;br&gt;이 사건은 1965년 11월 13일로 거슬러 올라간다. 춘곡호는 강원 고성군 거진항을 출항해 어업을 마치고 귀항하던 중 북한 함정의 기관포 사격을 받아 침몰했다. 이 과정에서 A씨 등 선원 5명은 북한군에 납치돼 억류됐다가 이듬해인 1966년 5월 2일 묵호항으로 귀환했다.&lt;br&gt;&lt;br&gt;그러나 조국으로 돌아온 이들을 기다린 건 위로가 아닌 ‘수사’였다. 국가 소속 군경은 귀환 직후 영장 없이 A씨를 체포·구금해 18일간 합동 수사를 벌였다. A씨는 이후 고성경찰서를 거쳐 반공법 위반 혐의로 춘천지검 강릉지청에 송치됐으나, 같은 해 8월 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;문제는 무혐의 처분 이후에도 A씨와 그 가족들이 오랜 기간 군경 등 공무원들의 감시와 사찰을 받았다는 점이다. 진실·화해를 위한 과거사정리위원회는 2024년 4월 “국가는 춘곡호·영풍호 납북 귀환 어부들을 영장 없이 불법 구금한 점, 선원들이 석방된 이후에도 장기간 사찰로 당사자와 가족들에 대한 인권을 침해한 점 등에 대해 사과하고 실질적인 피해 회복 조치를 취해야 한다”며 진실규명 결정을 내렸다. 이후 2018년 1월 10일 A씨가 사망하자 유족들은 국가배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 유족들의 손을 들어줬다. 재판부는 “피고 소속 군경은 법관이 발부한 영장에 의하지 않고 망인을 체포·구금한 후 약 18일간의 불법 구금 상태에서 망인을 강제 조사해 망인의 인간으로서의 존엄과 신체의 자유, 거주·이전의 자유 등 헌법상 기본권을 중대하게 침해했다”고 판단했다. 이어 “피고 소속 군경 등 공무원들은 망인에 대한 불기소 처분이 이뤄진 후에도 정당한 이유 없이 상당 기간 망인과 원고들에 대한 감시·사찰 행위를 해 헌법상 기본권을 침해했다”며 “국민의 기본적 인권을 보호할 의무를 저버린 행위”라고 지적했다.&lt;br&gt;&lt;br&gt;국가 측은 구금 당시 2~5세였던 자녀 2명과 아직 태어나지도 않았던 자녀 2명에게는 고유의 위자료 청구권이 인정될 수 없다고 주장했다. 하지만 재판부는 “당시 어렸고 기억이 없다는 사정만으로 정신적 피해를 입지 않았다고 단정할 수 없을 뿐만 아니라, 불법 행위에는 지속적인 감시·사찰 행위도 포함된다”며 “불법 행위로 망인과 배우자가 받은 정신적 고통이 자녀들에게도 일정 부분 전가됐을 것”이라며 자녀들의 위자료 청구도 받아들였다.&lt;br&gt;&lt;br&gt;다만 재판부는 국가가 어선 보호 의무를 소홀히 해 납북 사태가 발생했다는 유족 측 주장에 대해서는 “북한군에 나포된 상세 경위와 내용, 당시 군경의 대비 태세 등을 알 수 있는 구체적 증거가 부족하다”며 기각했다. 재판부는 망인의 불법 구금과 감시·사찰로 인한 고통, 국가기관의 반인권적 행위의 중대성 등을 종합적으로 고려해 위자료 액수를 정했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“美 고엽제 보상서 한국군 제외”... 베트남전 참전용사 패소, 왜</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/09/2T7Y2L6G7ZDBHLULHE5JGQ3XWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/09/2T7Y2L6G7ZDBHLULHE5JGQ3XWA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 01:31:59 +0000</pubDate>
+      <content:encoded>베트남전 당시 미국이 연합군에 지급한 고엽제 피해 보상 절차에서 한국 정부가 참전 용사들을 고의로 배제했다며 한 참전 용사가 국가를 상대로 소송을 냈지만 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXXVFNZQDSOWCMRKABJFHY33WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1969년 4월 2일 우리나라 국군 부대가 베트남 전쟁에 참여하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 서울중앙지법 민사35단독 노민식 판사는 베트남전 참전 용사 A씨가 국가를 상대로 낸 연합군 고엽제 피해 합의금 청구 소송에서 지난달 28일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 1968년 3월부터 이듬해 6월까지 베트남전에 참전한 군인으로, ‘고엽제후유의증 등 환자 지원 및 단체 설립에 관한 법률’ 적용 대상자다. 고엽제(Agent Orange)는 베트남전 당시 미군이 나뭇잎 등을 제거하기 위해 사용한 제초제로, 청산가리보다 수천 배 강한 독성을 지닌 다이옥신이 들어 있다.&lt;br&gt;&lt;br&gt;A씨는 “미국이 베트남전에 참전한 연합군 20만~24만여 명에게 1인당 미화 1000~1200달러씩 합계 미화 2억4000만달러의 보상을 했음에도 대한민국 정부는 베트남전 참전 군인들이 이 같은 보상 절차에 참여하지 못하도록 배제했다”고 주장했다. 그러면서 당시 1인당 보상금 1200달러를 현재 가치로 환산하고 여기에 징벌적 손해배상까지 더해 총 5930만원을 지급하라고 국가에 요구했다.&lt;br&gt;&lt;br&gt;하지만 법원은 증거가 부족하다며 A씨의 청구를 받아들이지 않았다. 재판부는 “제출된 증거만으로는 미국 정부가 연합군에게 1인당 미화 1000~1200달러를 지급했다거나 피고가 베트남 전쟁 참전 군인들이 위 보상 절차에 참여하지 못하도록 했음을 인정하기 어렵고, 달리 이를 인정할 증거가 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서도 재판부는 “베트남 전쟁 참전 군인들이 국가의 부름을 받아 베트남 전쟁에서 목숨을 건 희생과 헌신을 다했고, 이에 터 잡아 피고 대한민국은 국제사회의 책임 있는 일원으로 자리매김할 수 있었을 뿐만 아니라, 경제 발전의 기반을 마련한 사실은 부인하기 어렵다”고 했다. 이어 “그러한 점에서 우리나라 국민들은 베트남 전쟁 참전 군인들이 흘린 땀과 피를 기억하고, 그 희생과 노고에 대하여 존경과 예우를 할 필요가 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 맑지만 월요일부터 전국 곳곳 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/09/MFCQ6R6HKRGXTEIYNHHKXOZB64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/09/MFCQ6R6HKRGXTEIYNHHKXOZB64/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 May 2026 01:37:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZWZGA4P3ZMNLI23OZWSMZ3Q3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 화창한 날씨 속에서 강원도 속초 해수욕장 일원에 잔잔한 파도가 치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;토요일인 9일은 전국이 대체로 맑은 가운데 화창한 봄 날씨가 이어질 전망이다. 낮 최고기온은 20~26도로 평년(19~24도)과 비슷하겠다.&lt;br&gt;&lt;br&gt;9일 기상청에 따르면 이날 낮 최고기온은 서울 23도, 인천 21도, 대전·광주 23도, 대구·울산 24도 등으로 예상된다. 고기압의 영향으로 맑은 날씨가 이어지고, 온난한 남서풍이 유입된다고 기상청은 설명했다. 하지만 낮과 밤의 기온 차는 15~20도로 크게 벌어져 건강 관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;일부 수도권과 강원 동해안, 충북, 경상권 일부도 대기가 건조하다. 대구·경북 남동부에는 건조 특보가 발효됐다. 서울 동북권과 서남권에도 이날 오전 10시를 기해 건조 주의보가 발효됐다.&lt;br&gt;&lt;br&gt;일요일인 10일도 전국이 대체로 맑을 전망이다. 아침 최저기온은 6~14도, 낮 최고기온은 20~27도로 평년과 비슷하다. 미세먼지 농도도 전 권역이 ‘좋음’으로 예상된다.&lt;br&gt;&lt;br&gt;하지만 월요일인 11일은 오후부터 밤사이 수도권과 강원 내륙·산지, 충남 북부, 충북 중·북부에 비가 내릴 것으로 예보됐다. 예상 강수량은 서울·인천·경기와 강원 내륙·산지가 5~10㎜, 충청권이 5㎜ 안팎이다.&lt;br&gt;&lt;br&gt;화요일인 12일은 전국이 대체로 흐리고, 새벽 수도권과 충남, 제주도를 시작으로 오전부터 전국 대부분 비가 내린다. 비는 오후에는 대부분 그칠 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>저절로 향기 품고 내어 주는 꽃처럼… 법향 전하는 ‘꽃스님’입니다</title>
@@ -832,42 +868,6 @@
       <description/>
       <pubDate>Thu, 07 May 2026 15:49:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6VYLC6BXFA5BOWBJPTCF6LXNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 노원구 불암산에서 서울시 관계자가 ‘러브버그(붉은등우단털파리)’ 방제제를 뿌리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 이른바 ‘러브버그’(붉은등우단털파리) 확산을 막기 위해 7일부터 선제적으로 방제 작업에 나섰다고 밝혔다. 친환경 방제제를 살포하고, 포집 장비를 확대 설치한다.&lt;br&gt;&lt;br&gt;러브버그는 진드기 같은 해충을 잡아먹는 익충이지만 개체 수가 지나치게 늘어 시민 민원이 많다. 암수가 붙어 다니며 번식하는 습성 때문에 이런 이름이 붙었다. 장마철을 앞둔 6~7월 대량 출몰한다. &lt;br&gt;&lt;br&gt;서울시는 일단 러브버그 유충이 많이 있을 것으로 예상되는 은평구 백련산과 노원구 불암산에 친환경 미생물 방제제 ‘BTI’를 살포할 계획이다. BTI는 일반 동식물에는 영향을 주지 않고 러브버그 등 특정 파리류 유충만 죽인다.&lt;br&gt;&lt;br&gt;6~7월 성충이 대량 출몰하는 시기에는 고공 포집기를 운영한다. 고공 포집기는 3m 높이에서 빛으로 러브버그를 유인해 잡는 장비로, 지난해 백련산에서 시범 운영해 효과를 봤다. 올해는 불암산에도 설치한다. 자치구 19곳의 공원과 산에 향기로 러브버그를 유인하는 포집기 약 1300대를 설치한다. 강서·양천구에는 살수 드론도 도입할 계획이다. 러브버그는 날개가 물에 젖으면 날지 못하고 떨어진다.&lt;br&gt;&lt;br&gt;한편 지난해 서울시에 접수된 러브버그 관련 민원은 총 5282건이었다. 서울시 관계자는 “민원 데이터를 정밀히 분석해 적시에, 적재적소에 방제 작업을 할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조경이 예술이네… 전주 정원박람회</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/05/08/4ANKFENZVJCXVL7WXI64RSXF7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/05/08/4ANKFENZVJCXVL7WXI64RSXF7Q/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKOSNY4LKBBOPIZC3NOZQONRJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 전주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주시는 8~12일 전주월드컵광장 등에서 ‘2026 대한민국 전주 정원 산업 박람회’를 개최한다고 7일 밝혔다. 6회째인 박람회는 올해 역대 최대 규모로 열린다. 이전까지는 전주월드컵광장에서만 열렸는데, 이번엔 덕진공원 등으로 확장했다. 예산 총 20억원이 투입됐다.&lt;br&gt;&lt;br&gt;전주월드컵광장에서 진행되는 정원 산업전에는 식물, 예술, 재료, 도구 등 다양한 분야의 우수 정원 산업체 146곳이 참여한다. 비즈니스 라운지에서는 생산 농가와 바이어를 연결하는 ‘1대1 B2B’ 상담 코너가 마련된다. ‘정원도시 전주 콘퍼런스’에선 학계, 산업계 전문가들이 탄소 중립 시대의 정원의 역할, 시장 전망 등을 논할 예정이다. &lt;br&gt;&lt;br&gt;시내엔 총 45곳의 정원이 조성된다. 특히 덕진공원 일대에서는 전통 정원을 현대적으로 재해석한 정원 10곳을 구경할 수 있다. &lt;br&gt;&lt;br&gt;가족 단위 방문객과 시민들이 정원 문화를 즐길 수 있는 문화·체험 프로그램도 있다. 전주시립예술단의 ‘음악이 있는 뜰’ 공연, 정원을 가꾸는 경험을 공유하는 ‘정원 토크쇼’, 정원 가꾸기 도구 체험 등이다. 전주시 관계자는 “박람회를 통해 전주형 정원 산업을 더욱 육성할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>안 좋은 일 다 날리고 올해 소원 빌어보세요</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/08/QDMKBXQ3MFGHFBI2FQM7AB6IXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/08/QDMKBXQ3MFGHFBI2FQM7AB6IXA/</guid>
-      <dc:creator>세종=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YN2TMXW5NGXVCIWJSARBVJE7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 4월 ‘세종 낙화 축제’ 현장을 찾은 시민들이 바람에 흩날리는 불꽃을 감상하고 있다. 올해 축제는 오는 16일 열린다. /세종시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시는 오는 16일 호수공원에서 ‘2026 세종 낙화(落火) 축제’를 개최한다고 7일 밝혔다. 이 축제는 불교낙화법보존회와 세종시문화관광재단이 공동으로 마련했다.&lt;br&gt;&lt;br&gt;낙화는 재앙을 없애고 복을 기원하는 전통 불교 문화 행사 중 하나다. 숯가루 등을 넣어 한지로 감싼 낙화봉을 나뭇가지나 장대에 매달아 불을 붙이면 불씨가 꽃잎처럼 흩날린다. 사람들은 떨어지는 불꽃을 보며 마음을 정화하고 소원을 비는 시간을 가지게 된다.&lt;br&gt;&lt;br&gt;이번 축제는 세종시 무형유산으로 지정된 ‘세종 불교 낙화법’을 현대적으로 재해석한 것으로, 2022년부터 열리고 있다. &lt;br&gt;&lt;br&gt;축제는 오후 7시 30분부터 약 2시간가량 진행된다. 낙화봉 8000개를 매화공연장, 물놀이섬, 푸른들판 등 호수공원 8곳에 설치한다. 호수공원 어디에서나 낙화를 관람할 수 있게 한 것이다. 축제장으로 향하는 세호교 양쪽에는 100여 개의 전통 등이 불을 밝힌다.&lt;br&gt;&lt;br&gt;세종시 관계자는 “이번 축제는 낙화 연출 장소를 분산해 관람객들이 더욱 편안하고 깊이 있게 낙화의 아름다움을 느낄 수 있도록 했다”면서 “낙화 축제가 전통과 현대가 어우러진 세종만의 야간 관광 콘텐츠로 자리매김할 수 있게 하겠다”고 ㅇ했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송진우 선생 서거 81주기 추모식</title>
-      <link>https://www.chosun.com/national/people/2026/05/08/C4N6KRJTDVBI5POOSKOHA53XYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/08/C4N6KRJTDVBI5POOSKOHA53XYU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>재단법인 고하(古下) 송진우 선생 기념사업회(이사장 김창식)는 다음 달 8일 오후 3시 서울 동작동 국립서울현충원 현충관에서 국가보훈부 등의 후원으로 송진우 선생 탄생 136주년 및 서거 81주기 추모식을 갖는다. 선생은 중앙학교 교장으로 3·1운동을 주도하고 일제의 탄압 속에서 자유민주주의와 민족정신을 고취했다. 해방 후 한국민주당 수석총무로 건국 활동을 하다 흉탄에 서거했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 인천적십자병원 ‘다문화 건강축제’ 연다</title>
-      <link>https://www.chosun.com/national/people/2026/05/08/ZVAMLX44UZEVPPHZKP4UWWE3I4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/08/ZVAMLX44UZEVPPHZKP4UWWE3I4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲인천적십자병원은 오는 9일 인천 연수구의 병원에서 외국인 근로자 등에게 무료 진료를 해 주는 ‘다문화 건강축제’를 연다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>허인구 전 G1방송 대표이사, 사격연맹 인사기금마케팅위원장</title>
