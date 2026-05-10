@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 5월 11일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/10/PQLKFLYQWNGVHJBSU67D7GJ2GQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/10/PQLKFLYQWNGVHJBSU67D7GJ2GQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 14:32:00 +0000</pubDate>
+      <content:encoded>전국 대체로 흐리고 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILTLZQJPWRGT5AIJ64E4RIEWYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“노인일자리 새 모델 찾는다”…신규 노인일자리 아이템 공모전 개최</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/10/PWALP4Z25NDCDCP5B5FYDH75CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/PWALP4Z25NDCDCP5B5FYDH75CI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 12:34:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AL7LY6EX5LGROBA4WHCMV6D7Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;중장년 구직자들이 채용게시판을 보고 있다. 기사와 직접적인 관련이 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부가 지역사회에 기여할 수 있는 신규 노인일자리 아이템 공모전을 개최한다. &lt;br&gt;&lt;br&gt;10일 보건복지부는 다음 달 10일까지 ‘2027년 신규 노인일자리 개발을 위한 아이템 공모전’을 국가행정기관, 지방자치단체, 공공기관, 노인일자리 수행기관을 대상으로 개최한다고 밝혔다. &lt;br&gt;&lt;br&gt;공모 분야는 노인일자리 신규 직무(노인역량활용) 또는 신규 활동(노인공익활동) 아이템이다.&lt;br&gt;&lt;br&gt;이번 공모전에서는 노인이 수행하기에 적합하고, 확대·지속 가능성이 높으며, 사회적 효용이 큰 우수 아이템 12점을 선정한다. 전문가 심사 및 표절 심사를 통해 보건복지부 장관상(대상 1점: 상금 200만원) 등 총 12개 기관을 선정하여 7월 중 수상작을 발표할 예정이다.&lt;br&gt;&lt;br&gt;지자체는 이번 공모전 수상작을 2027년 노인일자리 시범사업으로 선정하여 지역 특색에 맞게 창의적으로 시행할 수 있으며, 우수 사례는 표준화하여 다음 해 전국 확대·보급하는 방식으로 운영된다. &lt;br&gt;&lt;br&gt;참여를 희망하는 기관·단체는 보건복지부 누리집과 한국노인인력개발원 누리집에서 참여 방법을 확인해 응모하면 된다.&lt;br&gt;&lt;br&gt;임을기 보건복지부 노인정책관은 “이번 신규 아이템 공모전은 안전·보건·돌봄·환경 등 지역사회가 필요로 하는 분야에서 양질의 노인 일자리를 발굴하는 좋은 기회가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘전재수 불기소’ 합수본 고발 사건, 서울청 반부패수사대에서 수사</title>
       <link>https://www.chosun.com/national/national_general/2026/05/10/6W3RHG7R6ZB2JPCWDZWEDIOPH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/6W3RHG7R6ZB2JPCWDZWEDIOPH4/</guid>
@@ -911,15 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZWCMZWGU3DKY3CHEYTSNTEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조현범 한국앤컴퍼니그룹 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200억원대 횡령·배임 혐의로 재판에 넘겨졌던 조현범 한국앤컴퍼니그룹 회장이 법인카드 유용 등 비리가 유죄로 인정되며 대법원에서 징역 2년이 확정됐다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 8일 특정경제범죄가중처벌법상 횡령·배임 등 혐의로 기소된 조 회장 상고심에서 징역 2년을 선고한 원심 판결을 확정했다. 가장 핵심 혐의였던 130억원대 계열사 부당 지원 의혹은 무죄가 나왔으나 법인카드 유용 등 20억원 규모의 개인 비리에 대해 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;조 회장은 자신이 대주주로 있는 타이어 몰드 제조사 MKT(현 한국프리시전웍스)에 물량을 몰아주고 높은 단가를 유지해 주는 ‘신단가 테이블’을 적용해 약 131억원의 부당 이득을 취하게 한 혐의로 2023년 기소됐다. 재무 상태가 악화된 지인 회사에 계열사 자금 50억원을 적절한 담보 없이 대여하도록 지시한 혐의도 있었다.&lt;br&gt;&lt;br&gt;이 밖에 지인과 함께 법인카드를 5억8000만원어치 사적으로 사용하고, 고급 외제차 5대를 회사 명의로 리스해 개인 용도로 쓰고, 이사 비용과 가구 구입비 약 2억7000만원과 배우자 전속 수행기사 인건비 약 4억3000만원을 회사 돈으로 쓴 혐의도 받았다.&lt;br&gt;&lt;br&gt;1심은 MKT 부당 지원 혐의를 제외한 대부분 혐의를 유죄로 인정해 징역 3년을 선고하고 조 회장을 법정 구속했다. 반면 2심 재판부는 지인 회사에 50억원을 대여한 혐의에 대해 “경영상 판단으로 보인다”며 무죄로 뒤집고 징역 2년으로 줄였다. 대법원은 “원심 판단에 배임·횡령죄와 재산상 손해액 산정 등에 관한 법리를 오해한 잘못이 없다”며 그대로 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“6·25 전사 사실도 몰랐는데 보상금 시효 끝?” 유족 손 들어준 대법</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/08/Q3AFC2C7GJDG5D2RHCPPNORQFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/08/Q3AFC2C7GJDG5D2RHCPPNORQFU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 May 2026 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYTEYRXHEYTKYJVG5RWIYJUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 중 전사한 군인의 유족이 국가로부터 공식적인 사망 통지를 받기 전까지는 보상금 청구 기한이 진행된다고 볼 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 최근 6·25 전사자 자녀 A씨가 국군재정관리단장을 상대로 낸 소송 상고심에서 원고 패소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨의 아버지 B씨는 1949년 육군에 입대해 이듬해인 1950년 8월 6·25 전쟁 중에 목숨을 잃었다. 당시 군 당국은 B씨 죽음을 ‘전사’가 아닌 ‘실종’으로 처리했고, 남은 가족들은 생사를 모른 채 지내다 1963년 집안 어른들의 권유로 사망신고를 했다. 육군본부가 B씨 죽음을 전사로 인정한 것은 그로부터 35년이 지난 1998년이었다.&lt;br&gt;&lt;br&gt;A씨는 2022년 7월 국군재정관리단에 아버지의 군인 사망 보상금을 청구했다. 그러나 군 당국은 1950년대 적용되던 옛 ‘군인 사망 급여금 규정’에 따라 사망 보상금 청구 기한인 ‘사망일로부터 5년’이 지났다며 지급을 거부했다. &lt;br&gt;&lt;br&gt;A씨가 이에 소송을 냈으나 앞서 1·2심은 모두 원고 패소 판결했다. B씨가 사망한 1950년은 물론, 가족이 사망신고한 1963년이나 군이 전사 결정을 내린 1998년을 기준으로 보더라도 A씨가 보상금을 청구한 2022년은 이미 5년이라는 법적 기한이 훌쩍 지났다고 봤기 때문이다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “군인의 사망 여부가 객관적으로 분명하지 않아 유족이 알 수 없었던 경우에도 무조건 사망일부터 소멸시효가 진행된다고 보는 것은 정의와 형평에 맞지 않는다”며 판단을 뒤집었다.&lt;br&gt;&lt;br&gt;대법원은 1955년 정부가 ‘군인 사망 급여금 규정’을 개정해 소멸시효 시작점을 ‘사망일’에서 ‘사망 통지서를 받은 날’로 바꾼 것에 주목했다. 전쟁 상황에서 유족들이 전사 여부를 제대로 확인하기 어려웠기 때문에 국가가 공식 통지를 한 시점부터 시효를 계산하도록 개선한 것이었다. &lt;br&gt;&lt;br&gt;대법원은 이에 대해 “불평등을 시정하기 위한 반성적 고려의 결과”라며, 개정 취지에 맞게 새로운 규정 시행 당시 시효가 완성되지 않았던 B씨 전사의 경우 ‘사망통지서를 받은 날’로부터 보상금 시효를 따지는 규정을 적용해야 한다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 그러면서 “원심이 ‘유족이 국가로부터 망인의 사망 통지를 받았거나 보상금 지급사유가 발생한 사실을 알 수 있게 된 때’가 언제인지 명확히 심리하지 않은 잘못이 있다”고 지적했다. 군 내부적으로 전사 결정이 내려진 1998년이 아니라, 국가가 유족에게 공식적으로 전사를 통지한 시점을 확인해 시효를 다시 따져야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘채상병 순직’ 임성근 前 사단장, 1심 징역 3년... “성과위해 대원들 위험 빠트려”</title>
       <link>https://www.chosun.com/national/court_law/2026/05/08/5SGVW2UWPZDADFNWXGS7NOJ4I4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/08/5SGVW2UWPZDADFNWXGS7NOJ4I4/</guid>
@@ -930,15 +939,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GFHBJJMLYJHCRCXEB5SZQYER7M.jpg?auth=ad663a3c6852247a823f9ce8c6d1a18c74e443228819ea21aac2b9e5e0838e77&amp;smart=true&amp;width=1802&amp;height=1014" type="image/jpeg" height="1014" width="1802">
         <media:description type="plain">채상병 순직 및 수사 외압·은폐 의혹의 핵심 피고인인 임성근 전 해병대 1사단장. 2025.10.23/뉴스1 ⓒ News1 김진환 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>정원오 “吳, 말로만 주택 공급” 오세훈 “鄭 되면 부동산 지옥”</title>
-      <link>https://www.chosun.com/politics/election2026/2026/05/08/AWYN4SK22VE37P5K7DPVLRRRY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/05/08/AWYN4SK22VE37P5K7DPVLRRRY4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JQX5F6IGRDKRKSTAAQFGUF4SA.png"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 정원오 더불어민주당 서울시장 후보, 오세훈 국민의힘 서울시장 후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 정원오 서울시장 후보와 국민의힘 서울시장 오세훈 후보가 연일 부동산 문제를 두고 공방을 벌이고 있다. 두 후보 모두 재건축·재개발 속도를 높이겠다는 공약을 내놓은 가운데, 서로 상대방 공약이 자기 공약을 베낀 것이라거나 부동산 문제 해결에 소용없는 것이라고 비난했다.&lt;br&gt;&lt;br&gt;정 후보는 7일 오후 서울 강남 3구의 유일한 공공 재개발 현장인 송파구 거여새마을지구를 찾았다. 정 후보는 “이곳은 통합 심의가 3개월, 사업 심의가 2개월 만에 해결됐다”며 “결국 정비 사업이 얼마나 빠르게 진행되는지는 행정의 밀착에 달려 있는데, 이것이 바로 정원오의 ‘착착 개발’”이라고 했다. 오 후보를 겨냥해서는 “4년 전 매년 8만호씩 주택을 공급하겠다고 했는데 그 절반인 4만호도 안 했다”고 했다. 정 후보 측은 이날 대변인 논평에서 “오 후보는 말로만 주택 공급을 외치면서 정작 서민들의 주거 안정과 지역 공동체 붕괴에는 눈을 감아 왔다”며 “오 후보는 무능하다”고 했다. ‘착착 개발’은 정 후보의 핵심 공약으로 재개발을 소요 기간을 3년 단축하겠다는 것이 골자다. 정 후보는 또 500세대 미만 재개발 구역 지정 권한을 서울시에서 자치구로 넘기고, 공공 재개발도 활성화하겠다고 했다.&lt;br&gt;&lt;br&gt;오 후보는 이날 영등포구 대림동과 광진구 구의동 등을 연달아 찾아 “‘닥공’, 즉 닥치고 공급”이라며 “서울에는 유휴 부지가 많지 않기 때문에, 공급의 완성은 ‘압도적 속도’에서 나온다”고 했다. 오 후보는 “2031년까지 총 31만호의 주택 착공을 이뤄내, 압도적인 주택 공급 물량을 확보하겠다”고 약속했다.&lt;br&gt;&lt;br&gt;오 후보는 공급 속도를 높이기 위해 85개 재개발 구역의 8만5000호를 ‘핵심 전략 정비 구역’으로 선정해 집중 관리하겠다고 했다. 또 ‘쾌속 통합’ 트랙을 도입해, 재개발 절차에서 추진위원회 구성 단계를 생략할 수 있도록 하고, 서울시가 사업 시행 인가와 관리 처분 계획 인가를 한 번에 내주도록 하겠다고 약속했다.&lt;br&gt;&lt;br&gt;오 후보는 정 후보를 겨냥해서는 이날 라디오에서 “재개발·재건축은 10~20년이 걸리니, 정 후보가 슬쩍 빌라 쪽에 무게중심을 두고 있다”며 “정 후보가 당선되면 ‘부동산 지옥’이 현실화된다”고 했다. 정 후보 측은 오 후보의 ‘쾌속 통합’이 정 후보의 ‘착착 개발’을 베낀 것이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 韓 내란죄 인정하면서도… “계엄 주도한 건 아니다” 감형</title>
