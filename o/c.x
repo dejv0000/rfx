@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 동매산서 불나...2시간 만에 주불 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/05/11/NBJIAGUTTJA4HI2RVTP6YD3BVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/11/NBJIAGUTTJA4HI2RVTP6YD3BVY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 23:35:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBYMMYKCIBGEPL4DSP7MU5Q3WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 부산 사하구 동매산 8부 능선에서 불이 났다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 사하구 동매산에서 불이 났다. 소방 당국은 헬기 4대 등을 투입해 화재 발생 2시간여 만에 주불을 잡았다.&lt;br&gt;&lt;br&gt;11일 부산소방재난본부에 따르면, 이날 오전 4시 18분쯤 부산 사하구 동매산 8부 능선에서 불이 났다. &lt;br&gt;&lt;br&gt;소방 당국은 헬기 4대 등 장비 22대와 인력 75명을 투입해 진화에 나섰다.&lt;br&gt;&lt;br&gt;소방은 이날 오전 7시 30분쯤 주불을 잡았고, 현재 잔불을 정리하고 있다. 피해 면적은 0.1ha로 추정됐다.&lt;br&gt;&lt;br&gt;산림 당국은 진화 작업을 마치는 대로 정확한 피해 규모와 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “두 달간 잠 거의 못 자고 계속 일해” 내란전담 지정이 판사 죽음 불렀나</title>
       <link>https://www.chosun.com/national/national_general/2026/05/11/BDIT3P3XLJAM7CH2JGDXNY5AXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/11/BDIT3P3XLJAM7CH2JGDXNY5AXI/</guid>
@@ -895,15 +904,6 @@
       <description/>
       <pubDate>Fri, 08 May 2026 10:54:32 +0000</pubDate>
       <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 미성년 딸과 교제한다는 이유로 20대 남성을 폭행한 40대 여성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;대구지법 형사13부(채희인 부장판사)는 미성년자인 딸과 교제하는 20대 남성을 마구 폭행해 상처를 입힌 혐의(특수상해) 등으로 기소된 40대 A씨에게 징역 6개월에 집행유예 1년을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 3월 11일 경북 경산시의 20대 남성 B씨 집에서 B씨의 머리 부분을 둔기로 여러 차례 내려치고, B씨의 머리카락을 강제로 자른 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 자신의 10대 딸과 만나지 말 것을 요구했다가 거부당하자 이같이 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;폭행당한 B씨는 전치 2주의 부상을 입은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;재판부는 “피해자가 상당한 정신적 충격을 받았을 것으로 보인다”며 “성년인 피해자가 미성년자인 피고인 딸과 만나지 말라고 경고하는 과정에 발생한 일로 범행 경위에 있어 일부나마 참작할 여지가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>병든 아버지 숨지자 시신 방치… ‘수급비’만 쏙 타낸 아들 징역 5년 </title>
-      <link>https://www.chosun.com/national/court_law/2026/05/08/IQ7AD5EZH5DJRMMFHOKKWTVL2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/08/IQ7AD5EZH5DJRMMFHOKKWTVL2Q/</guid>
-      <dc:creator>인천=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 May 2026 09:32:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42WINLGMEZDKZBYMM2TEODFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병든 아버지를 방치해 숨지게 하고, 10개월가량 시신을 유기한 혐의를 받는 30대 남성에 대한 항소심에서 징역 5년이 선고됐다.&lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사2부(재판장 이정민)는 8일 중존속유기치사, 사체유기 등 혐의를 받는 A씨에 대한 항소심 선고공판에서 1심과 같이 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 10월쯤 인천 계양구 자택에서 거동이 불편한 60대 아버지 B씨를 방치해 숨지게 한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;B씨는 당시 폐색전증과 조현병 등으로 의사소통이 어렵고, 대소변을 가리지 못하던 상황이었다. A씨는 B씨를 찾아가지 않고, 병원에 데려가지도 않는 등 홀로 방치한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 숨진 뒤에도 시신을 그대로 방치해 유기하고, B씨가 사망한 사실을 숨겨 정부의 주거 생계급여 590여 만원을 받아내기도 했다.&lt;br&gt;&lt;br&gt;A씨의 범행은 숨진 B씨의 시신이 작년 9월 발견되면서 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;1심 재판부는 “일상생활이 불가능한 아버지를 장기간 방치해 사망케 하고 아버지 시신을 유기했다”며 “기초생활 급여도 부정 수급하는 등 범행 경위나 패륜성 등을 고려했을 때 죄질이 매우 좋지 않고 비난 가능성도 크다”고 했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “원심판결 이후 양형을 변경할 만한 사정이 없었다”며 “원심 형이 너무 무겁거나 가벼워 부당하다고 볼 수 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘尹 감찰 의혹’ 박은정, 검사 시절 해임 취소 소송 승소</title>
