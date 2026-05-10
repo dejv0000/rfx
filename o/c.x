@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘전재수 불기소’ 합수본 고발 사건, 서울청 반부패수사대에서 수사</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/10/6W3RHG7R6ZB2JPCWDZWEDIOPH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/6W3RHG7R6ZB2JPCWDZWEDIOPH4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 10:02:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZGMYRWGI4DSMLGME4TSMBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전재수 부산시장 후보가 10일 오후 부산 북구에서 열린 하정우 북갑 국회의원 보궐선거 후보 선거사무소 개소식에서 인사말하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 전재수 부산시장 후보의 통일교 금품수수 의혹을 불기소 처분한 검·경 합동수사본부 관계자들에 대한 고발 사건이 서울경찰청으로 이첩됐다.&lt;br&gt;&lt;br&gt;10일 경찰에 따르면 서울 동대문경찰서는 김태훈 합동수사본부장과 전 후보 사건 처분 책임자들에 대한 직무유기 등 혐의 고발 사건을 지난달 28일 서울경찰청 광역수사단 반부패수사대로 넘겼다.&lt;br&gt;&lt;br&gt;동대문경찰서는 고발인에게 보낸 수사결과 통지서에서 “동일 사건에 대한 수사를 진행하고 있는 광역수사단 반부패수사대로 사건을 이송했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이종배 전 서울시의원은 지난달 12일 “합동수사본부가 전 후보에게 수사상 부당한 이익을 주기 위해 관련 법령을 제대로 적용하지 않았다”며 김 본부장과 사건 처분 책임자들을 직무유기 등 혐의로 고발했다. 사건은 같은 달 21일 동대문경찰서에 배당됐다.&lt;br&gt;&lt;br&gt;경찰은 통일교 정관계 로비 의혹 수사 과정에서 전재수 후보가 2018년 천정궁에서 현금과 고가 시계를 받았다는 의혹을 조사했다. 시계 구매 및 수리 정황은 확인했지만 실물은 확보하지 못했고, 정치자금법 위반은 공소시효 만료, 나머지는 증거 부족으로 ‘공소권 없음’ 및 불기소 처분했다. 전 후보는 금품 수수 의혹을 전면 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정은경 복지장관 “모든 아이가 안심하고 진료받는 환경 만들 것”</title>
       <link>https://www.chosun.com/national/national_general/2026/05/10/RG3ROB7RZBCDFLLWQ7XKVYJMHQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/RG3ROB7RZBCDFLLWQ7XKVYJMHQ/</guid>
@@ -909,15 +918,6 @@
       <description/>
       <pubDate>Fri, 08 May 2026 03:01:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYTEYRXHEYTKYJVG5RWIYJUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 중 전사한 군인의 유족이 국가로부터 공식적인 사망 통지를 받기 전까지는 보상금 청구 기한이 진행된다고 볼 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 최근 6·25 전사자 자녀 A씨가 국군재정관리단장을 상대로 낸 소송 상고심에서 원고 패소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨의 아버지 B씨는 1949년 육군에 입대해 이듬해인 1950년 8월 6·25 전쟁 중에 목숨을 잃었다. 당시 군 당국은 B씨 죽음을 ‘전사’가 아닌 ‘실종’으로 처리했고, 남은 가족들은 생사를 모른 채 지내다 1963년 집안 어른들의 권유로 사망신고를 했다. 육군본부가 B씨 죽음을 전사로 인정한 것은 그로부터 35년이 지난 1998년이었다.&lt;br&gt;&lt;br&gt;A씨는 2022년 7월 국군재정관리단에 아버지의 군인 사망 보상금을 청구했다. 그러나 군 당국은 1950년대 적용되던 옛 ‘군인 사망 급여금 규정’에 따라 사망 보상금 청구 기한인 ‘사망일로부터 5년’이 지났다며 지급을 거부했다. &lt;br&gt;&lt;br&gt;A씨가 이에 소송을 냈으나 앞서 1·2심은 모두 원고 패소 판결했다. B씨가 사망한 1950년은 물론, 가족이 사망신고한 1963년이나 군이 전사 결정을 내린 1998년을 기준으로 보더라도 A씨가 보상금을 청구한 2022년은 이미 5년이라는 법적 기한이 훌쩍 지났다고 봤기 때문이다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “군인의 사망 여부가 객관적으로 분명하지 않아 유족이 알 수 없었던 경우에도 무조건 사망일부터 소멸시효가 진행된다고 보는 것은 정의와 형평에 맞지 않는다”며 판단을 뒤집었다.&lt;br&gt;&lt;br&gt;대법원은 1955년 정부가 ‘군인 사망 급여금 규정’을 개정해 소멸시효 시작점을 ‘사망일’에서 ‘사망 통지서를 받은 날’로 바꾼 것에 주목했다. 전쟁 상황에서 유족들이 전사 여부를 제대로 확인하기 어려웠기 때문에 국가가 공식 통지를 한 시점부터 시효를 계산하도록 개선한 것이었다. &lt;br&gt;&lt;br&gt;대법원은 이에 대해 “불평등을 시정하기 위한 반성적 고려의 결과”라며, 개정 취지에 맞게 새로운 규정 시행 당시 시효가 완성되지 않았던 B씨 전사의 경우 ‘사망통지서를 받은 날’로부터 보상금 시효를 따지는 규정을 적용해야 한다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 그러면서 “원심이 ‘유족이 국가로부터 망인의 사망 통지를 받았거나 보상금 지급사유가 발생한 사실을 알 수 있게 된 때’가 언제인지 명확히 심리하지 않은 잘못이 있다”고 지적했다. 군 내부적으로 전사 결정이 내려진 1998년이 아니라, 국가가 유족에게 공식적으로 전사를 통지한 시점을 확인해 시효를 다시 따져야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>진통 겪는 삼성전자 임금교섭...노동장관 “젊음은 상 아니다”</title>
-      <link>https://www.chosun.com/national/labor/2026/05/08/EDVIYHI43JC5XLTVVRZOPPXJKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/08/EDVIYHI43JC5XLTVVRZOPPXJKM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 May 2026 02:11:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4DCZJSGQ2WENZVGJRDKZRWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최승호 삼성그룹 초기업노동조합 삼성전자 지부 위원장이 17일 서울 삼성전자 서초사옥 정문에서 열린 과반노조 공식 선언 기자회견에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자 노조가 총파업을 예고한 가운데, 8일 정부의 직접 중재를 앞두고 김영훈 고용노동부 장관은 X(옛 트위터)에 “너의 젊음이 상이 아니듯 나의 늙음도 벌이 아니다”라고 밝혔다. 과도한 요구로 임금교섭을 교착 상태에 빠뜨린 일부 노조원을 비판하면서 노동계의 연대를 촉구한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;김 장관은 이날 이 같은 문구를 인용하면서 “삼성전자 임금교섭이 잘 마무리 될 수 있도록 적극 지원하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 장관의 비유는 흔히 세대 간 갈등과 봉합을 강조할 때 인용된다. 이는 이번 삼성전자의 파업과 노사 갈등의 이면에 각각 노조와 사측으로 대표되는 젊은 세대와 기성 세대의 마찰이 존재함을 짚으면서도, 노조 측에 서로를 ‘적’이 아니라 ‘동료’로 인식하라는 점을 강조한 것으로 해석된다.&lt;br&gt;&lt;br&gt;김 장관은 지난 7일 열린 전국 기관장 회의에서도 삼성전자 노조를 겨냥해 “삼성전자의 성과에는 노동자뿐만 아니라 정부 지원과 협력업체 노력, 지역 주민들의 협조도 있었다”고 강조한 바 있다. 그러면서 “이러한 사정들을 종합적으로 고려해 삼성전자 노사는 진정성 있는 대화를 조속히 성사시켜 주기 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;삼성전자 노조는 오는 21일부터 18일간 총파업에 돌입한다는 방침이다. 노조 측은 사측에 성과급 상한을 폐지하고 영업이익의 15%를 지급하라고 요구하고 있다. 고용노동부는 8일 노사정 미팅을 진행해 중재에 나서기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘채상병 순직’ 임성근 前 사단장, 1심 징역 3년... “성과위해 대원들 위험 빠트려”</title>
