@@ -13,6 +13,106 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>말다툼 중 책상 뒤집었지만… 대법 “놀라게 했다고 다 폭행은 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/10/GT2ANCQ5L5D2FANEP33V44ORYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/10/GT2ANCQ5L5D2FANEP33V44ORYI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 03:26:26 +0000</pubDate>
+      <content:encoded>아파트 입주자대표회의 중 말다툼을 하다 책상을 뒤집어엎어 파편이 상대방에게 튀었더라도, 이를 곧바로 폭행죄로 처벌할 수는 없다는 대법원 판단이 나왔다. 단순히 상대를 놀라게 하거나 위협을 느끼게 했다는 사정만으로는 폭행죄가 성립하지 않는다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSTGY3GGYYDQYZQMVSTKZDGGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 폭행 혐의로 기소된 아파트 입주자대표회의 회장 A씨에게 벌금 30만원을 선고한 원심을 깨고 사건을 의정부지법으로 돌려보냈다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 5월 경기 고양시의 한 아파트 입주자대표회의 회의실에서 회의록 작성 문제로 감사인 B씨와 말다툼을 벌이다 화가 나 양손으로 앞에 놓인 책상을 뒤집은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 1·2심은 A씨의 행위를 폭행으로 인정해 벌금 30만원을 선고했다. 1심은 두 사람이 1m도 안 되는 가까운 거리에 있었고, 책상 파편 일부가 B씨 등에게 튄 데다, A씨의 갑작스러운 행동에 피해자가 놀라 위협을 느낀 점 등을 유죄 근거로 들었다. 2심도 “A씨가 책상을 뒤집어엎기 직전에는 피해자와 말다툼을 하는 모습이 확인된다”며 1심 판단을 유지했다.&lt;br&gt;&lt;br&gt;하지만 대법원 판단은 달랐다. 대법원은 “단순히 피해자를 놀라게 하거나 겁을 줬다는 것만으로 ‘폭행’으로 볼 수 없다”며 원심의 유죄 판결을 뒤집었다.&lt;br&gt;&lt;br&gt;대법원은 “A씨가 약 1m 안 되는 가까운 위치에 있던 피해자와 말다툼을 하던 중 갑자기 앞에 있는 책상을 자신의 정면 방향(A씨 기준 12시 방향)으로 뒤집어엎은 사실은 인정할 수 있다”면서도 “책상을 뒤집어엎은 방향은 다른 책상으로 막혀 있었고, 피해자는 A씨 기준 약 10시 방향에 서 있어 피해자의 신체에 대한 위험성이 있었다고 보이지 않는다”고 했다. 또 책상 파편이 튄 것도 책상을 엎은 과정에서 발생한 부수적인 결과일 뿐, 폭행의 고의를 인정할 근거는 아니라고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>월요일부터 시작되는 봄비, 화요일엔 전국으로</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/10/MNSLMRAVCBH7BMZXOYJYRXAYHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/10/MNSLMRAVCBH7BMZXOYJYRXAYHU/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 04:13:52 +0000</pubDate>
+      <content:encoded>월요일인 11일부터 전국 곳곳에 비가 내리겠다. 비는 중부지방에서 시작돼 화요일인 12일 새벽엔 전국 대부분 지역으로 확대될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55CY3ZGTGVLD5M6JIFFBHKNLSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비가 내린 7일 오후 서울 중구 거리에서 한 시민이 우산을 쓴 채 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 11일 아침 최저기온은 8~16도, 낮 최고기온은 19~26도로 예보됐다. 비는 11일 오전 중부지방에서 시작되겠고, 오후에는 전북 북부와 경북 중·북부에도 비가 내리는 곳이 있겠다. 12일 새벽에는 전국 대부분 지역으로 비가 확대됐다가 오후에는 대부분 그칠 것으로 보인다.&lt;br&gt;&lt;br&gt;12일까지 예상 강수량은 수도권과 서해5도 5~10㎜, 강원 내륙·산지 5~20㎜, 강원 동해안 5㎜ 안팎이다. 충청권과 전라권, 경상권에는 5~30㎜, 울릉도·독도에는 5㎜ 안팎, 제주도에는 5~10㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;11일과 12일 비가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠고, 12일에는 내륙을 중심으로 우박이 떨어지는 곳도 있겠다. 시설물과 농작물 관리, 안전사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;12일 아침 최저기온은 13~16도, 낮 최고기온은 19~24도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5만원에서 10만원으로...축의금·부의금 기준 달라졌다</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/10/AAZRZIT6GFB5VHAPNDCDHOCQD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/AAZRZIT6GFB5VHAPNDCDHOCQD4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 02:47:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMBINSMXCBHAFHRW4UDTAFHQ2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고물가 영향으로 결혼식 축의금에 이어 장례식 부의금도 10만원을 보내는 경우가 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;최근 카카오페이가 발표한 ‘송금 서비스 출시 10주년 리포트’에 따르면 전체 송금 중 봉투 사용 비율은 2019년 13%에서 지난해 23%로 높아졌다.&lt;br&gt;&lt;br&gt;지난 10년간 카카오페이 송금 봉투 누적 사용 건수는 4억5487만건으로 집계됐다. 가장 많이 쓰인 봉투는 10년간 1억2663만건을 기록한 ‘정산완료’였다. 이어 ‘내마음’ ‘축결혼’ ‘고마워요’ 순이었다. &lt;br&gt;&lt;br&gt;경조사 관련 송금도 늘었다. ‘축결혼’ 봉투 사용 건수는 2019년과 비교해 2023년 약 4.6배 증가한 것으로 나타났다. 축의금 봉투로 가장 많이 송금된 금액은 2022년까지 5만원이었으나, 2023년부터는 10만원이 1위로 올라섰다. &lt;br&gt;&lt;br&gt;부의금 봉투에서도 처음으로 10만원 비중이 5만원을 넘어섰다. 물가 상승과 경조사 관행 변화가 디지털 송금 데이터에도 반영된 것으로 풀이된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI5G5NJW2BETXH3X3M6FZ6XC4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/제미나이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장인들이 체감하는 경조사비 기준도 비슷한 흐름을 보였다. 지난해 5월 HR테크 기업 인크루트가 직장인 844명을 대상으로 설문 조사한 결과, ‘같은 팀이지만 덜 친하고 협업할 때만 마주하는 직장 동료의 축의금’으로 10만원이 가장 적절하다는 응답이 60.1%로 가장 많았다. 인크루트는 “이는 물가 상승이 영향을 미친 것으로 해석된다”고 밝혔다.&lt;br&gt;&lt;br&gt;카카오페이 송금 이용층도 넓어졌다. 10대의 총 송금액은 2019년 40억원 수준에서 지난해 6853억원으로 급증했다. 50대 이상 중장년층과 노년층의 사용량도 매년 늘었고, 2021년에는 103세 고령자가 카카오페이 송금을 이용한 기록도 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UI5G5NJW2BETXH3X3M6FZ6XC4U.jpg?auth=3af34cf23ee3e33eec732c16c243eab40855cf5b2d041616ee5fe38303472b31&amp;smart=true&amp;width=1024&amp;height=559" type="image/jpeg" height="559" width="1024"/>
+    </item>
+    <item>
+      <title>법원 “다단계 사기로 받은 수익금도 종합소득세 대상”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/10/LT63NNBUDBHLJFHH45F5JRLLYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/10/LT63NNBUDBHLJFHH45F5JRLLYQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 03:46:12 +0000</pubDate>
+      <content:encoded>투자금을 돌려막는 방식의 다단계 유사 수신 행위(폰지 사기)에 참여해 배당금을 챙긴 투자자들에게 부과된 종합소득세는 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDSMDFHEZWCY3CG43DGYZTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정4부(재판장 김영민)는 A씨 등 3명이 강서·반포·성북세무서장을 상대로 낸 종합소득세 부과 처분 취소 소송에서 원고 패소로 판결했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 화장품 판매업체 B사에 투자금 명목으로 돈을 맡기고 수익금을 받았다. 세무 당국은 이를 비영업대금 이익에 따른 이자소득으로 보고 2024~2025년 900만~4000만원의 종합소득세를 부과했다. 소득세법 시행령상 비영업대금 이익은 사업 목적 없이 일시적·우발적으로 돈을 빌려주고 받은 이자나 수수료를 뜻한다.&lt;br&gt;&lt;br&gt;A씨 등은 “B사와 화장품을 공동 구매한 뒤 판매를 위탁하고 수익금을 받은 것이기 때문에 이자소득이 아니라 ‘사업소득’에 해당한다”며 종합소득세 부과 처분을 취소해 달라는 소송을 냈다.&lt;br&gt;&lt;br&gt;하지만 재판부는 이들의 주장을 받아들이지 않았다. 재판부는 “B사는 2014년 7월 화장품 판매업 등을 목적으로 설립됐으나, 실제로는 화장품을 거래하지 않았다”며 “‘화장품 공동구매 사업에 투자하면 4개월간 투자금의 약 5%를 수익금으로 지급하고, 5개월 뒤에는 원금을 돌려주겠다’는 다단계 방식으로 투자금 명목의 금원을 받고, 신규 투자금으로 기존 투자자에게 수익금을 지급하는 이른바 돌려막기 방식으로 운영됐다”고 지적했다.&lt;br&gt;&lt;br&gt;실제 B사의 회장은 특정경제범죄가중처벌법상 사기 혐의 등으로 2022년 징역 20년을 선고받았고, 이듬해 형이 확정됐다.&lt;br&gt;&lt;br&gt;재판부는 또 “A씨 등은 화장품 위탁 판매업에 수반되는 위험 등을 부담하지 않은 채 단순히 약정된 금액만을 수령했을 뿐이므로 단순 자금 제공자에 불과하다”며 “독립된 사업을 영위했다고 보기 어렵다”고 지적했다. 이어 “A씨 등이 대부업 등록을 하지 않았고, B사 외에 불특정 다수를 대상으로 반복적인 거래를 했다고 볼 증거도 없다”며 수익금을 사업 소득이 아닌 이자 소득(비영업 대금 이익)으로 본 세무 당국의 처분은 정당하다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 지방선거 범죄 대응 최고 수준 격상…“가짜뉴스 무관용”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/10/5SC3ROOR2JG4LOA7O2UPVHGUL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/5SC3ROOR2JG4LOA7O2UPVHGUL4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 04:12:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6NYNNIRRZO5NACSXZOESKKCGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 18일 유재성 경찰청장 직무대행이 서울 서대문구 경찰청에서 열린 '선거 사범 수사상황실 현판식'을 마친 뒤 회의를 주재하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거를 앞두고 경찰이 허위 정보 유포와 흑색선전, 선거 폭력 등 선거 사범 단속을 강화한다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 지방선거 후보자 등록 개시일인 14일부터 선거 사범 대응 체제를 현행 2단계에서 최고 수준인 3단계로 격상한다. 이에 따라 각급 경찰서 수사팀은 경비·지구대(파출소) 등과 협력해 선거 범죄에 신속하게 대응한다는 방침이다.&lt;br&gt;&lt;br&gt;경찰은 특히 허위·가짜 뉴스 유포 등 흑색선전, 유권자들에게 금품·향응을 제공하는 행위, 공직자들의 선거 관여 등 민주주의 근간을 해치는 3대 선거 범죄에 대해서는 ‘무관용 원칙’으로 엄정하게 수사할 계획이다.&lt;br&gt;&lt;br&gt;경찰은 또 인공지능(AI) 기술을 활용한 허위 정보 확산에 대응하기 위해 ‘AI 조작 콘텐츠 분석 대응 체계’도 가동한다. 단순히 가짜 뉴스의 진위 판별을 넘어, 콘텐츠 제작부터 유포까지 전 과정을 추적해 범죄 혐의를 입증할 예정이다.&lt;br&gt;&lt;br&gt;국수본은 지난 2월 3일 전국 관서별로 선거 사범 수사 전담팀 2096명을 편성하고, 3월 18일부터는 24시간 선거 사범 수사상황실을 운영해 왔다. 국수본 관계자는 “공명정대한 선거 분위기 확립을 위해 선거 사범에 대한 국민들의 적극적인 신고와 제보를 당부한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 ‘교통 과태료’ 집중 단속 4개월 만 1000억 징수</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/10/PRCHNEPGDNDE3DACUOLEJRLHBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/PRCHNEPGDNDE3DACUOLEJRLHBE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 04:05:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGM2HGRPMBJWBGA6PCJU4FMLK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 16일 경기 구리·남양주 톨게이트에서 경찰, 한국도로공사 관계자들이 교통 과태료 등 체납 차량 합동 단속을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 올해 1~4월 넉 달간 교통 과태료 장기 체납자에 대한 특별 단속을 벌여 1016억여 원을 거둬들였다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청은 신호 위반·끼어들기 등 교통 법규를 위반한 사람에게 부과되는 교통 과태료 체납을 근절하기 위해 지난 1월부터 특별 단속 등 징수 강화 대책을 시행했다.&lt;br&gt;&lt;br&gt;경찰은 교통 과태료 체납자의 자동차 번호판을 떼어간 다음 과태료 납부 시 돌려줄 수 있는데, 이를 통해 7만2676대의 자동차 등록번호판을 영치하고 318억원의 과태료를 징수했다. 장기 체납자의 차량과 예금을 압류해 각각 585억원, 112억원을 징수하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 이번 특별 단속으로 징수한 금액이 작년 같은 기간(682억원) 대비 총 49% 증가했다고 밝혔다. 단속 과정에서 지명 수배자를 발견해 검거하거나, 운행 정지 명령을 받은 차량이나 불법 명의 차량 등을 적발하여 형사 처벌 절차도 진행했다.&lt;br&gt;&lt;br&gt;현장 단속·영치 과정에서 체납자가 교통 법규를 위반한 실제 운전자라는 사실이 확인된 경우, 경찰은 과태료를 범칙금으로 전환해 벌점을 부과했다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “앞으로도 상습·장기 체납자에 대해서는 끝까지 추적해 엄정하게 대응하겠다”며 “올해 하반기에는 국세청과 협업해 과태료 체납자의 주소지를 방문해 체납 사실을 적극적으로 안내하는 등 징수를 더욱 강화할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>개장 앞당기고, 폐장 늦추고...제주 해수욕장 다음달 24일 문 연다</title>
+      <link>https://www.chosun.com/national/regional/2026/05/10/RUUJHJ5TLBDWRPRPGLHTTNBWXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/10/RUUJHJ5TLBDWRPRPGLHTTNBWXY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 01:51:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2TGZDGMY3DKOBYMM3DGMRUMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 조천읍 함덕해수욕장에서 피서객들이 더위를 쫓고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해수욕장 12곳이 다음 달 24일 개장해 피서객을 맞이한다.&lt;br&gt;&lt;br&gt;10일 제주도에 따르면 올해 지역내 12개 해수욕장이 6월 24일부터 9월 6일까지 75일간 운영된다.&lt;br&gt;&lt;br&gt;더 뜨거워진 여름 이용객 수요를 반영해 폐장을 지난해 8월 31일보다 6일 늦췄다. 지난해까지 해수욕장별로 달랐던 운영 기간도 모두 통일했다. 운영 시간은 오전 10시부터 오후 7시까지다. 다만 7월 15일부터 8월 15일까지는 삼양·월정해수욕장은 오후 8시까지, 야간 조명을 갖춘 이호테우·협재해수욕장은 오후 9시까지 연장 운영한다.&lt;br&gt;&lt;br&gt;함덕해수욕장은 지난해에 이어 올해도 반려동물과 함께 물놀이할 수 있는 특화 해수욕장 ‘펫 비치’(Pet Beach)가 마련됐다.&lt;br&gt;&lt;br&gt;편의용품 이용 가격은 12개 해수욕장 모두 파라솔 2만 원, 평상 3만 원으로 3년째 동결한다.&lt;br&gt;&lt;br&gt;제주도는 물놀이 수요 증가에 대비, 해수욕장 안전 관리 인력을 지난해 288명에서 27명 늘린 총 315명 투입한다. &lt;br&gt;&lt;br&gt;올해 해수욕장 이용객 목표는 지난해(약 144만 명)보다 약 10% 많은 160만 명으로 잡았다. 조기 개장과 특화해수욕장 운영으로 방문객을 늘리고, 주변 상권 소비로 이어지도록 할 계획이다.&lt;br&gt;&lt;br&gt;또 하루 30분씩 관광객과 도민이 함께 하는 쓰담 달리기(플로깅·이동하며 쓰레기를 줍는 활동) 시간을 운영하고, 수질 검사와 해파리 발생 정보도 공유할 계획이다. &lt;br&gt;&lt;br&gt;지난해 도내 해수욕장 이용객은 2024년 대비 약 28% 증가한 144만8500명이었다. 해수욕장별로는 함덕해수욕장 70만3064명, 협재해수욕장 14만4845명, 중문색달해수욕장 11만880명, 금능해수욕장 11만343명, 이호테우해수욕장 8만7087명 등으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>친딸 6살부터 8년간 성폭행 50대 아버지, 항소심도 징역 20년</title>
+      <link>https://www.chosun.com/national/regional/2026/05/10/YRKDUFHVBVB2RAKUERIW3O5AW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/10/YRKDUFHVBVB2RAKUERIW3O5AW4/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 02:02:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3TSYTFGA2TONZVGQ4GMNRWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산고법 창원재판부가 있는 창원지방법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년 친딸을 수년간 성폭행하고 성 착취물까지 만든 50대 남성이 항소심에서도 징역 20년을 선고받았다.&lt;br&gt;&lt;br&gt;부산고법 창원재판부 형사1부(재판장 박광서)는 성폭력 범죄의 처벌 등에 관한 특례법 위반(13세 미만 미성년자 강간) 등 혐의로 기소된 50대 A씨의 항소심에서 피고인과 검찰의 항소를 모두 기각하고 원심에서 선고한 징역 20년을 유지했다고 10일 밝혔다. 10년간 아동·청소년·장애인 관련 기관 취업제한과 5년간 보호관찰도 유지했다.&lt;br&gt;&lt;br&gt;2014년 이혼한 A씨는 경남 한 지역에서 양육하던 친딸 B양을 2017년부터 지난해까지 약 8년간 200회 넘게 성폭행했다.&lt;br&gt;&lt;br&gt;첫 범행 당시 B양 나이는 6세였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 과정에서 “성관계를 하지 않으면 고아원에 보내겠다”며 B양을 협박하거나, 성 착취물도 제작한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;또 B양과 함께 양육하던 친아들 C군을 강제 추행한 혐의도 받는다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 A씨에게 징역 20년을 선고하면서 아동·청소년 및 장애인 관련 기관 취업제한 10년과 보호관찰 5년을 명령했다.&lt;br&gt;&lt;br&gt;당시 재판부는 “A씨는 보호와 양육 책임이 있는 자녀를 성욕 충족의 도구로 삼았고, 최초 범행 당시 B양 나이는 6세에 불과했다”며 “죄질이 극히 불량하고, 사회로부터 장기간 격리가 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 검찰의 위치추적 전자장치(전자발찌) 부착 명령 청구는 재범 가능성이 작다는 취지로 판단해 기각했다.&lt;br&gt;&lt;br&gt;이에 A씨는 형량이 너무 무겁다고, 검찰은 형량이 가볍고 위치추적 전자장치 부착 명령 청구 기각이 잘못됐다며 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “원심은 A씨를 둘러싼 여러 사정을 고려해 형을 정했다”며 “항소심에서 양형 조건에 변화가 없고, 집행 종료 후 보호관찰을 넘어서 위치추적 전자장치 부착까지 필요하다고 보기는 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>편의점 돌며 점주 폭행하고 현금·담배 훔친 선후배 3명, 실형</title>
+      <link>https://www.chosun.com/national/regional/2026/05/10/Z4YHAW5WKNHARGXBZQM7H2Y5G4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/10/Z4YHAW5WKNHARGXBZQM7H2Y5G4/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 01:08:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;편의점에 들어가 점주를 폭행하고 현금과 담배 등을 훔쳐 달아난 혐의로 10대와 20대 등 3명이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 형사12부(재판장 김병만)는 강도상해 및 특수강도 등 혐의로 기소된 A(19)씨와 B(22)씨에게 각각 징역 3년 6개월과 징역 4년 6개월을 선고했다고 10일 밝혔다. 함께 기소된 공범 C(18)군에게는 징역 장기 4년 6개월, 단기 4년을 선고했다.&lt;br&gt;&lt;br&gt;선후배 사이인 이들은 지난해 7월 15∼16일 충북 청주 서원구와 대전 중구 일대 편의점 6곳에서 점주를 제압하거나 폭행하고 현금 70여 만원과 담배 40여 갑, 200만원 상당의 휴대전화 등을 훔쳐 달아난 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이 중 편의점 세 곳에선 점주가 강하게 저항하면서 범행이 미수에 그쳤다. 이들은 범행 과정에서 일부 편의점 점주에게 전치 3∼4주 상해를 입히기도 했다. 이들은 점주의 몸을 강제로 제압하거나, “현금 인출기가 안 되는데 도와달라”며 점주를 인출기 쪽으로 유인하고 넘어뜨린 뒤 발로 얼굴 등을 때리는 수법으로 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들의 폭행 정도가 강하고 범행 횟수도 많은 데다 C군은 소년보호처분을 받은 전력도 있다”면서 “다만 위험한 범행 도구를 사용하지 않았고 재산 피해가 적은 점, A씨와 C군은 범행 당시 소년이었던 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수익률 좋은 단기 금융상품 있다”… 고객 속여 5억 가로챈 은행원 ‘징역 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/10/SCICLWWSARCUZJR7P7XWYNKPOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/10/SCICLWWSARCUZJR7P7XWYNKPOY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 01:22:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSDGZBXGNQTKZRZGMYTGZTGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 법원 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융 상품에 투자하면 고수익을 낼 수 있다고 속여 고객으로부터 5억4000만원을 가로챈 50대 은행원에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사5단독 송종환 판사는 사기 혐의로 기소된 A(50)씨에게 징역 2년을 선고했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;30년간 은행원으로 근무한 A씨는 지난 2024년 9월 20일부터 지난해 1월 18일까지 B씨 등 피해자 2명을 속여 5억4000만원을 받아 가로챈 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;조사 결과, A씨는 B씨에게 “이벤트성으로 수익률이 좋은 단기 금융 상품이 있다”며 “돈을 투자하면 기존 정기예금 만기일까지 원금과 수익을 받을 수 있다”고 속여 4억원을 받아냈다. &lt;br&gt;&lt;br&gt;피해자 C씨에겐 “자녀가 외국에 유학을 가게 돼 잔고 증명이 필요하니 돈을 주면 잔고 증명 후 바로 돌려주겠다” “VVIP 전용 상품이 있으니 돈을 넣어보라”는 등의 얘길 하며 속여 1억4000만원을 가로챘다. &lt;br&gt;&lt;br&gt;송 판사는 “피해액 등으로 볼 때 범행 죄질이 좋지 않고, 피해액이 전혀 변제되지 않았다”며 “피고인이 잘못을 인정하고 반성하고 있는 점, 자신의 친아들로부터 기망당한 사실이 범행에 큰 영향을 미친 것으로 보이는 점, 초범인 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;송 판사는 A씨에게 피해회복 기회를 주기 위해 법정 구속은 하지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>90억원대 ‘짝퉁 명품’ 6300개 판매한 40대… 징역 2년5개월 </title>
+      <link>https://www.chosun.com/national/regional/2026/05/10/SBC32SII3RFRTB2YH3QUGQU3LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/10/SBC32SII3RFRTB2YH3QUGQU3LU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 10 May 2026 01:17:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDCNRXGVSWCYTBGM2WGZJZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산고등·지방법원 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;90억원대 짝퉁 명품 6300여개를 국내에서 판매한 40대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사4단독(변성환 부장판사)은 상표법 위반 등 혐의로 기소된 40대 A씨에게 징역 2년 5개월과 벌금 1000만원을 선고하고, 추징금 3150만원을 명령했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2023년 9월부터 2025년 5월까지 프라다와 루이비통의 상표를 위조한 가방과 신발 등 시가 90억원 상당의 제품 6300개를 네이버 밴드와 카카오톡 등을 이용해 판매한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 2025년 7월 한 달간 대구 서구의 한 창고와 차량에 짝퉁 명품 향수 등 시가 60억원어치 제품 1981개를 보관하고 있었다. 이 기간에 A씨는 중국에서 핸드백 등을 수입하면서 관할 대구세관에 납세 의무자 등을 허위로 신고하기도 했다.&lt;br&gt;&lt;br&gt;변 부장판사는 “범행 기간, 침해한 상표권의 개수와 침해행위의 횟수 등을 보더라도 그 죄책이 가볍지 않다”며 “수사에 적극적으로 협조한 점을 양형에 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>월 1회 이상 폭음, 남성은 줄고 여성은 늘었다...최고는 40대 남성</title>
       <link>https://www.chosun.com/national/national_general/2026/05/10/EWJ5S3V6MJC2VNWYXUSCQFS66Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/10/EWJ5S3V6MJC2VNWYXUSCQFS66Y/</guid>
@@ -826,33 +926,6 @@
       </media:content>
     </item>
     <item>
-      <title>주말 낮 최고 27도, 맑고 공기도 쾌청</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/08/ALFDGQZCVFFMJMMONU3Q5PJFNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/08/ALFDGQZCVFFMJMMONU3Q5PJFNI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 May 2026 01:42:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3TGYZZGRRDGMBUMIYTSOJSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 용산구 이촌 한강공원을 찾은 시민들이 자전거를 타며 여유로운 시간을 보내고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말엔 완연한 봄 날씨가 나타날 전망이다. 전국이 맑은 가운데 일요일인 10일에는 낮 기온이 최고 27도까지 오를 전망이다.&lt;br&gt;&lt;br&gt;8일 기상청에 따르면, 토요일인 9일 전국 대부분 지역에서 맑은 하늘과 함께 화창한 날씨가 이어지겠다. 미세먼지 농도 역시 전 권역이 ‘좋음’으로 예상된다. 이 같은 맑은 날씨는 한반도가 중국 중부 지방에서 남동쪽으로 이동하는 고기압의 영향권에 들기 때문이다.&lt;br&gt;&lt;br&gt;아침 최저기온은 4~11도, 낮 최고기온은 19~25도로 예보됐다. 서울이 10~22도, 대전이 8~24도, 광주 6~23도, 대구 9~24도, 부산이 11~22도를 기록하겠다. 기상청은 “낮과 밤의 기온차가 15도 안팎으로 크겠으니 외출 시 겉옷을 챙기는 등 건강관리에 유의해 달라”고 당부했다. &lt;br&gt;&lt;br&gt;일요일엔 기온이 더 오른다. 아침 최저 기온은 6~13도, 낮 최고 기온은 20~27도를 기록하겠다. 다음 주 역시 남서풍 계열의 따뜻하고 습한 공기가 일부 유입되며 기온이 점차 상승할 것으로 보인다. 다만 월요일인 11일엔 서해상과 남해상을 중심으로 안개 가능성이 있으며 중부지방에는 비가 내릴 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>채팅 앱으로 만난 20대女에 ‘마약 맥주’ 건넨 40대男 구속</title>
-      <link>https://www.chosun.com/national/2026/05/08/QTP7UZTKU5E6LIPTVHZMENUIKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/08/QTP7UZTKU5E6LIPTVHZMENUIKE/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 May 2026 01:57:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XJQSOW5RFWLTVPDL32653KZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진해경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채팅 애플리케이션으로 처음 만난 20대 여성에게 필로폰을 탄 맥주를 마시게 하고, 자신도 마약을 투약한 40대 남성이 검찰에 넘겨졌다. 경찰은 해당 여성 또한 마약 성분이 포함된 사실을 인지하고 마신 것으로 보고 함께 기소 의견으로 송치했다.&lt;br&gt;&lt;br&gt;경남 진해경찰서는 마약류 관리에 관한 법률 위반 혐의로 A씨를 구속 송치했다고 8일 밝혔다. 경찰에 따르면, A씨는 지난달 23일 오후 7시 20분쯤 창원시 진해구 한 주택에서 채팅 앱을 통해 알게 된 20대 여성 B씨를 처음 만났다. &lt;br&gt;&lt;br&gt;이 자리에서 A씨는 주사기를 이용해 필로폰을 직접 투약하고, B씨에게는 필로폰을 섞은 맥주를 건네 마시게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 B씨로부터 마약 투약 사실을 전해 들은 지인의 신고를 받고 수사에 나섰다. 경찰은 B씨가 마셨던 종이컵에서 A씨의 지문을 채취해 신원을 특정했다. 이후 지난달 30일 체포영장과 압수수색 영장을 집행해 A씨 주거지에서 범행에 사용한 일회용 주사기 등을 확보했다.&lt;br&gt;&lt;br&gt;A씨와 B씨 모두 소변 검사 등에서 마약 양성 반응이 나왔다. A씨는 경찰 조사에서 자신의 범죄 혐의를 인정했지만, 마약 입수 경로에 대해서는 입을 닫고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 B씨 역시 마약 투약의 공범으로 판단해 불구속 송치했다. B씨가 A씨와 대화하는 과정에서 필로폰을 지칭하는 은어인 ‘아이스’를 사용한 정황 등을 포착했다고 한다. 경찰 관계자는 “맥주에 마약이 들어 있다는 사실을 인지하고도 마신 것으로 보고 있다”고 말했다. 경찰은 구속된 A씨를 상대로 필로폰 공급책과 유통 경로 등에 대해 수사를 확대할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미소만 지으면 그만? 뛰고 소리치고… 승무원 채용 과정 참여해보니</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/08/TWR5JKHO4NEDVLVINBHAK6HPGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/08/TWR5JKHO4NEDVLVINBHAK6HPGA/</guid>
-      <dc:creator>김진영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLT5HMPS6JCW3C5K6V6W4QLGSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 1시 서울 강서구의 한 체육관에서 이스타항공 승무원 모의 채용 체력시험이 실시됐다. 본지 기자를 비롯한 참가자들이 균형 감각 평가를 위한 '평형성 테스트'에 임하고 있다. /김진영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“발목 잡아! 머리 숙여! 자세 낮춰!”&lt;br&gt;&lt;br&gt;한 승무원이 숨을 깊게 들이마시더니 고성을 질렀다. 극심한 난기류를 만난 비행기가 더 이상 정상 운행이 불가능해진 상황이었다. 비행기 내 위기 상황으로 승객들의 비상 탈출이 불가피했다. 승무원은 우왕좌왕하는 승객들을 진정시키고 큰 목소리로 매뉴얼을 읊어야 했다. 그런데 승무원 안내에 따라 움직이는 승객은 아무도 없었다. 이 모든 건 실제 상황을 가정한 모의 평가였기 때문이다.&lt;br&gt;&lt;br&gt;7일 이스타항공은 서울 강서구 한 체육관에서 객실 승무원 모의 채용 과정을 선보였다. 기존 인성 면접 수준에 그치지 않고 상황 대처, 체력 검정 등 다양한 역량을 검증하는 방식으로 개편했다는 것이다. 이날 본지 기자는 직접 이스타항공 승무원 채용 전형에 참여해봤다.&lt;br&gt;&lt;br&gt;이날 오후 1시부터 시작된 전형은 총 6개 종목으로 구성된 체력 시험부터 치러졌다. ‘암리치 테스트’는 발뒤꿈치를 들고 손을 뻗어 기내 선반이나 비상 장비에 닿는 거리를 측정했다. 곧이어 난기류 등 비상 상황에서 균형 감각을 확인하는 ‘평형성 테스트’는 안대를 쓴 채 한쪽 다리를 들어올려 넘어지지 않고 버텨야 했다. 비상구 개방과 승객 짐을 수거하는 힘을 보는 ‘악력 테스트’, 긴급 상황 시 승객들 안내를 위한 성량을 측정하는 ‘데시벨 테스트’도 진행했다. 체력 검정의 마지막 관문인 20m 왕복 오래달리기는 여성 25회, 남성 40회씩 정해진 시간에 맞춰 달려야 한다. 본지 기자는 체력 검정 합격 기준을 결국 통과하지 못했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFE4FTFPQBAL5EOU5FWYA3C4NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 1시 서울 강서구의 한 체육관에서 이스타항공 승무원 모의 채용 체력 검정이 진행되고 있다. 본지 기자를 비롯한 참가자들이 항공기 비상구 개방, 노약자 등 인력 부축을 위한 '악력 테스트'에 참가했다./김진영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체력 검정 종료 후 오후 4시까지 ‘상황 대처 면접’이 이어졌다. 특정 상황을 부여받은 지원자들은 5인 1조로 8분간 토론한 뒤, 해법을 제안해야 했다. 이 전형에선 올해 초 실제 채용 과제로도 제시됐던 ‘메신저 소통을 선호하는 20대 신입과 대면 보고 및 회식을 고집하는 50대 부장 간 세대 갈등’ 시나리오가 부여됐다. 단순히 기내 상황뿐 아니라 사내 협업과 갈등 상황 대처 역량도 시험하는 셈이다.&lt;br&gt;&lt;br&gt;이러한 채용 과정은 승무원을 단순 서비스 역량뿐 아니라 안전 역량도 갖춘 전문가로서 알리기 위해 작년 3월 도입됐다. 데시벨 측정 등을 포함한 체력 검정을 시행하고 있는 곳은 국내 항공사 중 이스타항공이 유일하다. 승무원 활동성 강화를 위해 카디건 정복을 허용한 것 역시 마찬가지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4H7MIIQWBAI7JYQ3KUIVUWIMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 3시, 서울 강서구의 이스타항공 본사에서는 승무원 모의 채용 상황대처면접이 실시됐다. 기자들이 지원자들의 입장에서 가정된 직장 내 갈등 해결책에 대해 답변했다./김진영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채용 전형에서 치러진 역량은 채용 후에도 연 1회 시험대에 오른다. 비슷한 수준의 체력 검정과 상황 가정 테스트를 치른 뒤 합불 결과에 따라 1년 단위로 계약 연장 여부가 결정된다. 이 결과는 국토교통부에 정식 보고돼 국가 차원의 안전 지표로도 활용된다.&lt;br&gt;&lt;br&gt;이스타항공 관계자는 “승무원은 처음 접하는 당황스러운 상황에서도 최선의 결정을 내려야 한다”며 “승무원을 안전 전문가로 양성하기 위해 신체 능력과 판단력 등을 다양하게 평가해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정원오 “吳, 말로만 주택 공급” 오세훈 “鄭 되면 부동산 지옥”</title>
       <link>https://www.chosun.com/politics/election2026/2026/05/08/AWYN4SK22VE37P5K7DPVLRRRY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/05/08/AWYN4SK22VE37P5K7DPVLRRRY4/</guid>
@@ -871,24 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D66XAMSSZJNK5HWIWWQZZYMO3I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 서초구 서울고등법원에서 한덕수(오른쪽) 전 국무총리의 ‘내란 중요 임무 종사 사건’ 2심 선고 공판이 열리고 있다. 한 전 총리가 일어나 판결 내용을 듣고 있다. 이날 재판부는 한 전 총리에게 1심(징역 23년)보다 가벼운 징역 15년을 선고했다.(서울고등법원) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사12-1부(재판장 이승철)가 7일 한덕수 전 국무총리의 내란 중요 임무 종사 혐의를 유죄로 인정하면서도, 1심(징역 23년)보다 8년 줄어든 징역 15년을 선고한 것은 한 전 총리가 ‘계엄을 막지 못한 것’에 대해 법적 책임을 묻기는 어렵다고 봤기 때문이다. 앞서 1심 재판부는 한 전 총리에 대해 ‘대통령의 위헌·위법한 계엄 선포를 막아야 할 총리로서의 의무를 다하지 않은' 혐의, ‘특정 언론사 단전·단수 시도를 막지 않은’ 혐의를 유죄로 판단했다. 특히 12·3 계엄을 ‘위로부터의 내란’ ‘친위 쿠데타’ 등으로 규정하며 전두환·노태우 전 대통령의 신군부 내란 사건의 형량을 뛰어넘는 형을 선고했다. 하지만 2심 재판부는 한 전 총리의 계엄 가담 혐의를 인정하면서도, 1심이 이례적으로 중형을 선고하면서 제시한 근거들을 배척했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGYNKH2NGRFXHDI3OS7VMGO7YE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ “계엄 막지 못한 것, 처벌 못 해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 항소심 재판부가 1심과 달리 판단한 것은 한 전 총리가 ‘해야 할 일을 하지 않은 것(부작위)’을 범죄로 볼 수 없다는 점이다. 1심 재판부는 한 전 총리가 국무위원들을 전부 모아 계엄 반대 의견을 전달하는 등의 방식으로 윤 전 대통령의 위법한 계엄 선포를 막지 못한 것을 내란죄로 판단했다. &lt;br&gt;&lt;br&gt;그러나 2심 재판부는 “부작위가 범죄가 되려면 ‘의무를 이행했을 경우 결과가 달라질 수 있다’는 요건이 충족돼야 하는데, 한 전 총리의 경우 윤 전 대통령에게 반대 의견을 전달했더라도 계엄 선포를 막을 수 있었다고 단정하기 어렵다”며 이 부분을 무죄로 판단했다.&lt;br&gt;&lt;br&gt;1심은 한 전 총리가 이상민 전 행안부 장관의 언론사 단전·단수 시도를 적극 말리지 않은 부분도 유죄로 인정했다. 이 혐의는 특검이 기소하지 않은 것이다. 2심은 “특검이 기소하지도 않은 혐의를 1심이 유죄로 판단한 것은 법리 오해”라고 지적했다. 다만 2심은 한 전 총리가 국무회의를 건의하고 장관들에게 재촉 전화를 한 것, 이 전 장관과 단전·단수에 대해 논의한 행위가 이미 내란죄에 해당된다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 이날 한 전 총리가 계엄 사태가 일단락된 뒤 12월 3일 자 가짜 계엄 선포문 표지에 서명한 혐의(허위 공문서 작성), 이와 관련한 수사가 시작되자 표지를 파쇄하게 한 혐의(대통령기록물법 위반), 헌법재판소의 윤 전 대통령 탄핵 심판에서 “계엄 관련 문건을 받은 기억이 없다” 등 허위 증언한 혐의(위증)는 1심과 같이 유죄로 판단했다. &lt;br&gt;&lt;br&gt;다만 한 전 총리가 헌재에서 “김용현 전 국방장관이 이상민 전 행정안전부 장관에게 계엄 문건을 건네는 걸 보지 못했다”고 증언한 부분은 허위로 볼 수 없다며 무죄로 판단했다. 또 특검이 1심 무죄 선고에 불복해 항소한 ‘계엄 해제 지연’ 혐의도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“韓, 계엄 모의하거나 주도 안 해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;항소심은 1심이 한 전 총리에게 과거 신군부의 내란 사건 형량을 뛰어넘어 중형을 선고한 논리를 사실상 받아들이지 않았다. 1심 재판부는 “국민이 선출한 권력자의 내란 행위는 민주주의와 법치주의에 대한 신념 자체를 뿌리째 흔든다”며 “이는 ‘위로부터의 내란’이기 때문에 기존의 ‘아래로부터의 내란’ 관련 판결을 기준으로 삼을 수 없다”고 했다. 이어 “대한민국은 세계적으로 선진국으로 인정받고 있기 때문에 ‘친위 쿠데타’로 인해 생긴 경제적·정치적 충격은 과거 내란 사건과는 비교할 수 없을 정도로 크다”고도 했다.&lt;br&gt;&lt;br&gt;하지만 2심 재판부는 “한 전 총리는 대통령의 제1보좌기관이자 행정부의 2인자로서&lt;b&gt; &lt;/b&gt;대통령의 권한이 합헌·합법적으로 행사되도록 보좌할 막중한 책무를 저버리고 내란에 가담하는 편에 섰다“면서도 “한 전 총리가 내란 행위를 사전에 모의하거나 조직적으로 주도했다고 볼 만한 자료는 찾기 어렵다”고 했다. 그러면서 재판부는 “한 전 총리가 50여 년 공직 생활을 하면서 여러 훈장과 표장을 받는 등 국가에 헌신해 온 공로가 있기도 하다”며 “국회에서 계엄 해제 요구안이 의결되자 대통령을 대신해 해제 국무회의를 소집·주재해 약 6시간 만에 계엄이 해제된 점 등을 감경 사유로 고려했다”고 했다. &lt;br&gt;&lt;br&gt;이날 판결로 한 전 총리 형량이 징역 15년보다 무거워지기는 어려워졌다. 대법원 판례상 검찰은 “형이 너무 가볍다”는 이유만으로 대법원에 상고하는 것이 허용되지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“도성회, 도로公 내부정보로 휴게소 사업 따내… 적자에도 셀프배당”</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/08/AQTVNGY2HFEJNGH6K3YAHJ4SAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/08/AQTVNGY2HFEJNGH6K3YAHJ4SAI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2B27GHZNBNNFTGOHKG7625XI7U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경부고속도로의 한 휴게소 음식점에 메뉴가 표시돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국도로공사가 퇴직자 단체인 ‘도성회(道城會)’에 고속도로 휴게소 운영권 입찰 관련 정보를 유출한 정황이 포착됐다. 도성회는 한국도로공사 퇴직자 2800여 명이 소속된 비영리법인으로 자회사·손자회사 등을 통해 전국의 휴게소 9곳, 휴게소 주유소 7곳 등을 운영하고 있다. 이들이 지난해 고속도로 휴게소에서 벌어들인 돈(매출액)은 2703억원에 달한다. 도성회 전관(前官) 카르텔 문제는 지난 2001년 국정감사 등을 시작으로 26년간 국회와 언론을 통해 지적돼 왔는데, 한국도로공사 전·현직자들이 입찰 관련 정보를 주고받은 정황이 드러난 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;국토교통부는 7일 이 같은 내용이 담긴 ‘고속도로 휴게 시설 운영 적정성 등에 대한 감사’ 결과를 발표했다. 지난해 12월 이재명 대통령이 “휴게소 음식이 비싸고 맛없는 이유는 매출의 절반가량을 임대료와 수수료로 떼어가기 때문”이라며 비정상적 가격 결정 구조를 지적한 데 따른 것이다. 국토부는 이번 감사 외에도 추가 감사와 함께 휴게소 운영, 계약 관련 구조 개선 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;1984년 설립된 도성회는 한국도로공사 임원 출신, 10년 이상 재직한 퇴직자들이 주축이 돼 만든 비영리법인이다. 도성회 정관엔 ‘고속도로 건설 기술 발전에의 기여’ 등 공익적 활동을 목적 사업으로 적고 있지만, 실제 이들이 집중한 건 이윤 추구였다. 이들은 1986년부터 H&amp;amp;DE, 더웨이유통, HK하이웨이 등 자회사와 손자회사, 출자사를 만들어 휴게소 9곳, 휴게소 주유소 7곳을 운영하고 있다. 도성회가 매년 3개 회사를 통해 휴게소로 벌어들이는 매출은 2000억~3000억원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTICYLBSKJFFLNEWCU6AKNY4QA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토부는 도성회가 이 같은 돈을 벌어들이는 데 한국도로공사의 도움이 있었다고 판단했다. 국토부 감사관실은 “지난해 5월 선산휴게소(창원 방향) 등 휴게소 4곳 리모델링 입찰 사업 관련 정보가 도성회 측으로 유출된 정황이 있다”고 밝혔다. 도성회가 입찰 일정이나 사업 관련 연구용역 진행 상황뿐 아니라 다른 업체의 가격 제시안 등까지 알고 있었다는 것이다. 국토부는 한국도로공사가 이를 도성회에 전달했을 것으로 보고 수사 의뢰도 했다. &lt;br&gt;&lt;br&gt;한국도로공사가 이 과정에서 동일 시설 휴게소·주유소를 한 회사에서 운영하게 하고, 같은 그룹사 내 회사들을 서로 다른 별도 회사로 판단한 것 역시 도성회에 이득을 준 행위라고 국토부는 밝혔다. 당시 선산휴게소는 H&amp;amp;DE, 선산주유소는 더웨이유통이 맡고 있었는데, 도로공사는 이전까지 같은 그룹사 내 회사들을 한 회사로 봤기 때문에 이는 ‘휴게소·주유소 운영 일원화’ 방침에 전혀 어긋난 게 아니었다. 하지만 돌연 도로공사는 이를 서로 다른 별개의 회사라면서 선산휴게소와 주유소 운영을 모두 H&amp;amp;DE가 맡도록 했다. 이어 더웨이유통에는 다른 지역 주유소 운영권을 수의계약을 통해 추가로 줬다. 도성회 입장에선 가만히 앉아서 주유소를 하나 더 운영하게 된 것이다.&lt;br&gt;&lt;br&gt;도성회 자회사, 손자회사 등이 벌어들인 돈은 배당을 통해 도성회로 돌아왔다. 휴게소 7곳을 운영하는 핵심 회사 H&amp;amp;DE의 경우, 지난 10년간 88억7000만원을 도성회에 배당했다. 심지어 최저임금 상승, 짧아진 휴게소 체류 시간 등에 따라 적자를 낸 최근 3년 동안에도 매년 7억~8억원 가량을 배당했다. &lt;br&gt;&lt;br&gt;도성회는 이를 회원들에게 생일 축하 등 명목으로 배분했다. 도성회 회원은 가입비 5만원, 평생회비 50만원을 내는데 이들은 축·조의금을 제하고도 1인당 평균 244만원 가량을 받는다고 한다. 비영리법인이 구성원들에게 이익을 배분하는 건 위법 소지가 크다. 더욱이 도성회는 이런 불법 분배를 다른 사업에 사용한 것처럼 세금 신고한 사실도 적발됐다. 국토부 관계자는 “H&amp;amp;DE의 대표이사 등 임원(4명)은 모두 도성회 회원이고, 도성회 사무총장은 H&amp;amp;DE의 비상임이사를 겸직했다”며 “도성회는 이를 통해 수익금 셀프 배당, 휴게소 관련 주요 의사 결정을 해 온 것”이라고 했다. 도로공사는 이날 “퇴직자 단체의 입찰 참여 배제 등 입찰 시 불이익 부여 기준을 마련할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허인구 전 G1방송 대표이사, 사격연맹 인사기금마케팅위원장</title>
-      <link>https://www.chosun.com/national/people/2026/05/08/3LNWFZVNNRHUNGYLESCI4MAYNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/08/3LNWFZVNNRHUNGYLESCI4MAYNQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATPQCZABPBC6TM6KDDKZYZRXM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한사격연맹이 허인구 전 G1방송 대표이사를 인사기금마케팅위원회 위원장으로 선임했다. 허인구 신임 위원장은 MBC와 SBS를 거쳐 G1방송 대표이사를 역임했고 현재 아시아올림픽평의회(OCA) 문화위원으로 활동하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“넘어져도 괜찮아”… 김길리, 아동센터 초등생들에 ‘빙판 교실’</title>
       <link>https://www.chosun.com/national/people/2026/05/08/RAQ7JLH62BDGFFG7EM2JUYC6IA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/08/RAQ7JLH62BDGFFG7EM2JUYC6IA/</guid>
@@ -896,63 +951,6 @@
       <description/>
       <pubDate>Thu, 07 May 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEGQSIHMNNBWVETPQYHTN4NHQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 서울 성북구 고려대 아이스링크에서 2026 밀라노·코르티나담페초 동계올림픽 쇼트트랙 금메달리스트 김길리(오른쪽)가 ‘빙판 교실’에 참가한 아이들과 인사하고 있다. 빙판 교실은 고려대와 서울시 성북강북교육지원청이 추진한 ‘2026 SG(Strong &amp;amp; Growth) 프로젝트’의 첫 프로그램이다. SG 프로젝트는 지역 아이들에게 스포츠를 가르치는 사업이다. 고려대가 아이스링크를 무료로 개방하고 교육지원청이 학생을 모았다. 고려대에 재학 중인 쇼트트랙 국가대표 김길리와 임종언이 강사로 참여한다. 올 연말까지 성북·강북 지역아동센터 초등학생 약 200명에게 스케이트를 가르친다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 윤봉순씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/05/08/WNR3XYHNVBFBFOWSCP2SSVLI7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/08/WNR3XYHNVBFBFOWSCP2SSVLI7M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 15:03:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;윤봉순&lt;/b&gt; 별세, &lt;b&gt;한의상&lt;/b&gt; 팜젠사이언스 회장·&lt;b&gt;한범상&lt;/b&gt;·&lt;b&gt;한관수&lt;/b&gt;·&lt;b&gt;한해경&lt;/b&gt; 모친상, &lt;b&gt;김현숙&lt;/b&gt;·&lt;b&gt;안공주&lt;/b&gt;·&lt;b&gt;백미순&lt;/b&gt; 시모상=7일10시 서울성모병원, 발인10일10시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이규정&lt;/b&gt; 별세, &lt;b&gt;이현수&lt;/b&gt; 동부건설 감사 장인상=6일21시 서울아산병원, 발인 9일12시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이판용&lt;/b&gt; 별세, &lt;b&gt;최수연&lt;/b&gt; 남편상, &lt;b&gt;이윤희&lt;/b&gt;·&lt;b&gt;이윤옥&lt;/b&gt;·&lt;b&gt;이재영&lt;/b&gt; 뉴스토마토 자본시장정책부 선임기자 부친상, &lt;b&gt;이승민&lt;/b&gt;·&lt;b&gt;이봉준&lt;/b&gt; 장인상, &lt;b&gt;차나경&lt;/b&gt; 시부상=6일16시 경남 진주중앙병원, 발인 8일9시, (055)745-8000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 8일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/07/PVQJHZYGOFEKFN5KMJ2VX2GJ7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/07/PVQJHZYGOFEKFN5KMJ2VX2GJ7M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 14:36:00 +0000</pubDate>
-      <content:encoded>금 - 전국 대부분 맑음&lt;br&gt;&lt;br&gt;토~일 -일교차 큰 봄 날씨&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGZO5GMJ2ZAM7EOOPTPDWJDUDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여교사 신체 접촉한 남학생 제지하자… “명예훼손” 고소한 학부모</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/07/6F7GBVYG3NBQJHZDFX6O7UDAA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/07/6F7GBVYG3NBQJHZDFX6O7UDAA4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 14:22:48 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXG344AU4BBULOJBQ2KV32VQB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남의 한 초등학교에서 특수 학생 학부모의 잇단 아동 학대 신고로 교사들이 정신과 치료를 받는 등 피해를 호소하고 있다. &lt;br&gt;&lt;br&gt;경남교사노동조합은 6일 경남도교육청 브리핑룸에서 기자회견을 열고 “경남교육감은 교권 침해 학부모를 공무집행방해와 무고 혐의로 형사고발하라”고 촉구했다. &lt;br&gt;&lt;br&gt;노조에 따르면 학부모 A씨는 자녀 B군이 1학년이던 2021년부터 6학년이 된 현재까지 담임과 특수 교사 10여 명을 상대로 악성 민원과 무분별한 아동 학대 신고를 지속해 왔다. &lt;br&gt;&lt;br&gt;A씨는 아들이 1학년 때부터 교실에 상주하겠다고 요구하면서 수업 도중에 아들을 하교시키거나 교육 활동에 간섭한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;지난해에도 개학 직후부터 교실에 상주하며 수시로 수업에 개입했고, 참관이 거부돼도 교실 밖에서 지켜봤다고 한다. 1학기 담임 교사는 거식증을 겪는 등 건강 악화로 담임을 그만뒀다고 노조는 전했다. &lt;br&gt;&lt;br&gt;2학기에 신입 교사가 담임을 맡자 A씨는 일주일 치 수업 계획을 미리 검사받으라고 요구했다. 이 교사는 B군의 돌발 행동으로 손목 인대가 파열되는 영구적 부상을 입었다. 이후로도 A씨의 계속되는 괴롭힘으로 극심한 공황 장애를 겪다 극단적 선택을 시도하기도 했다. 결국 교사는 중증 후유증으로 교단을 떠난 상태다. &lt;br&gt;&lt;br&gt;올해 6학년이 된 B군은 여성 특수 교사의 옷 안에 손을 집어넣거나 여성 자원봉사자의 특정 신체 부위를 움켜쥐는 행동을 하는 것으로 알려졌다. A씨는 이를 ‘장애 인권’이나 ‘순수한 사랑’이라며 정당화한 것으로 전해졌다. 특수 교사 역시 불안·우울 장애 진단을 받고 치료 중이다. &lt;br&gt;&lt;br&gt;이에 현재 담임 교사가 A씨에게 성적 자기 결정권 보호에 대한 안내문을 보내자 A씨는 자신의 자녀를 “성범죄자로 낙인찍었다”며 담임 교사를 협박과 명예훼손 혐의로 고소했다.&lt;br&gt;&lt;br&gt;또 교실에서 B군이 폭력적인 행동을 하고 나가려 하자 담임 교사가 뒷문을 잠그는 조치를 한 것을 두고 ‘정서적 감금’이라며 아동 학대 혐의로 해당 교사를 경찰에 신고했다. &lt;br&gt;&lt;br&gt;노조는 “A씨가 지난해 교권보호위원회로부터 서면 사과 및 재발 방지 서약 등 1호 처분을 받고도 이에 불복해 행정심판을 제기하는 등 반성없는 태도로 일관하고 있다”며 “경남도교육감이 가해 학부모를 공무집행방해 및 무고 혐의로 즉각 형사 고발해야 한다”고 밝혔다. 이어 “실효성 없는 교권보호제도의 전면 개편과 처분 이행을 강제할 수 있는 법적 장치 마련이 시급하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘저상버스 촉구’ 전장연 대표 1심서 집유... “폭력시위 정당화 안돼”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/07/64VZCKXTVZGRXCMLRAKCTMTE24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/07/64VZCKXTVZGRXCMLRAKCTMTE24/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 11:29:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KLOB2X3HZPRTL3JLEIIH7GB4Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국장애인차별철폐연대(전장연) 활동가들이 버스 정류장에서 장애인 이동권 관련 시위를 위해 저상버스에 탑승하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저상버스 도입을 촉구하며 버스 밑으로 들어가는 시위를 벌인 전국장애인차별철폐연대(전장연) 활동가들에게 1심에서 징역형 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사3단독 이호선 판사는 7일 일반교통방해와 업무방해 등 혐의를 받는 서울장애인차별철폐연대 공동대표 이형숙·이규식씨에게 각각 징역 4개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;이들은 2021년 3월 충북 청주 오송역 인근에서 장애인 이동권 보장을 위한 저상버스 도입을 촉구하는 시위를 하면서 버스 밑으로 들어가거나 도로를 점거해 교통을 방해한 혐의로 기소됐다. 관할 경찰서에 사전 신고를 하지 않고 이 시위를 벌여 집회·시위법 위반 혐의도 받았다.&lt;br&gt;&lt;br&gt;법원은 이들의 일반교통방해와 업무방해 혐의를 유죄로 인정했다. 이 판사는 “장애인 이동권 보장을 요구하는 목적이라 하더라도 법을 위반한 폭력 시위는 정당화될 수 없다”며 “범행 수법이 과격하고 동종 전과도 다수 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 집시법 위반 혐의는 무죄가 나왔다. 당시 전장연이 세종시에서 열리는 장애인 단체 시위에 참석하기 위해 이동하던 중 버스 기사가 휠체어를 탄 이형숙씨의 탑승을 거부하자 이에 항의하는 과정에서 우발적으로 시위가 벌어졌다는 전장연 측 주장을 받아들였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 한덕수 2심 재판부 “국무위원 전원 반대했어도 尹 계엄 못 막았을 것”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/07/NWXEYL34NBA4DKFDYJ666RQCCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/07/NWXEYL34NBA4DKFDYJ666RQCCE/</guid>
-      <dc:creator>이민경 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 10:06:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXA7HP44MZII7KZMDVYDYEDD74.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 총리가 7일 오전 서울 서초구 서울고등법원에서 열린 내란우두머리방조 등 2심 선고 공판에서 선고를 받고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사12-1부(재판장 이승철)가 7일 내란 중요임무 종사 등 혐의를 받는 한덕수 전 총리 항소심 판결문에 “한 전 총리가 12·3 비상계엄에 반대했더라도 윤석열 전 대통령의 비상계엄 선포를 막을 수 있었다고 단정할 수 없다”고 판시한 것으로 파악됐다. 재판부는 1심이 한 전 총리에게 비상계엄을 막아야 할 의무가 있다며 적용한 부작위(해야 할 일을 하지 않은 것) 혐의 등을 무죄로 뒤집으며 징역 15년을 선고했다. 1심은 징역 23년을 선고했다.&lt;br&gt;&lt;br&gt;7일 본지가 확보한 158쪽 분량의 한 전 총리 항소심 판결문에는 재판부가 부작위 혐의를 무죄로 판단한 이유에 대한 구체적인 설명이 담겼다.&lt;br&gt;&lt;br&gt;앞서 1심은 한 전 총리에게 국무회의 운영 및 소집과 관련해 부작위가 있었다고 판단했다. 당시 1심은 한 전 총리가 비상계엄을 막아야 할 의무가 있음에도 아무것도 안 한 점을 유죄로 짚었다.&lt;br&gt;&lt;br&gt;반면 항소심은 한 전 총리가 윤 전 대통령의 비상계엄 선포를 막지 못한 걸 별도 범죄로 보지 않았다. 재판부는 한 전 총리가 윤 전 대통령을 말렸더라도 이미 비상계엄 선포를 결심한 대통령을 막을 수 없었을 것이라고 봤다.&lt;br&gt;&lt;br&gt;재판부는 판결문에 “(2024년 12월 3일) 윤석열은 ‘비상계엄은 고도의 통치 행위이기 때문에 꼭 국무회의를 거칠 필요는 없다’ ‘내가 한 결정이다. 이미 언론에 다 이야기했고, 문의도 빗발치는 상황이어서 돌이킬 수 없다’는 취지로 말하는 등 국무회의 심의 유무와 관계없이 비상계엄을 선포하려고 했다”고 언급했다. 그러면서 “피고인이 만약 국무위원 전원을 소집하고 실질적인 심의를 통해 윤석열에게 비상계엄 선포에 대한 반대 의견을 전달하며 국무회의록을 작성했더라도 비상계엄 선포를 막을 수 있었다고 단정할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;이 외에도 대통령이 국무회의 심의내용에 구속받지 않고 비상계엄을 선포할 권한을 갖고 있는 점 등을 근거로 들었다. 재판부는 이 같은 이유로 ”부작위범의 요건을 갖추지 못했다”고 설명했다. &lt;br&gt;&lt;br&gt;다만 이와 별개로 재판부는 한 전 총리가 국무위원 소집을 건의하고 재촉 전화를 하는 등 내란에 적극적으로 가담한 혐의는 인정된다고 판단했다. 재판부는 “피고인은 대통령의 제1보좌기관이자 행정부 2인자로서 대통령의 권한이 합법적으로 행사되도록 보좌하고, 잘못된 권한 행사는 통제할 의무가 있다“며 ”그럼에도 피고인은 자신이 부여받은 권한과 지위에서 오는 막중한 책무를 저버리고 오히려 (비상계엄의) 절차적 정당성을 갖추는 방법으로 내란에 가담하는 편에 섰다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇韓 “트럼프 면담 때문인 줄”...재판부 “그랬다면 공식 연락했을 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 한 전 총리가 비상계엄 당일 윤 전 대통령이 갑작스럽게 호출한 이유를 두고 “트럼프 미국 대통령과의 면담 문제 때문인 줄 알았다”는 취지로 주장한 부분도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 판결문에서 “피고인은 윤석열이 자신을 갑자기 대통령실로 오라고 연락한 이유가 트럼프 미국 대통령과의 면담 문제 때문인 것으로 생각했다는 취지로 진술하기도 하나, 윤석열이 피고인을 그와 같은 이유로 대통령실로 오라고 했다면 소집 이유를 미리 알려주면서 국가안보실장이나 비서실장을 통해 공식적으로 연락했을 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 한 전 총리는 지난달 7일 결심 공판에서 변호인으로부터 “(2024년 12월 3일) 윤 전 대통령이 왜 부른다고 생각했느냐”는 질문을 받고 “모른다”며 “당시 트럼프 미국 대통령과 대한민국 대통령 간 면담이 추진되고 있었는데, 그것이 확정됐거나 논의를 하기 위해 소집하는 것 아닌가 생각했다”고 답했다. 한 전 총리에 대한 피고인 신문은 1심에서는 이뤄지지 않아, 이 주장은 항소심에서 처음 제기됐다. 그러나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 이어 한 전 총리가 비상계엄 선포 전부터 윤 전 대통령의 위헌·위법한 계엄 가능성을 충분히 예상할 수 있었다고도 판단했다. 재판부는 “비상계엄 선포 이전부터 정치권에서는 ‘윤석열이 비상계엄 선포 후 국회의원을 체포·구금해 국회의 비상계엄 해제 요구를 저지하려는 것 아니냐’는 의혹이 제기돼 왔다”며 “윤석열이 비상계엄을 선포하는 경우 군 병력을 동원해 국회의 기능을 정지시킬 수 있다는 것을 충분히 예상할 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내 손 잡아” 람보르길리, 초등생 스케이팅 교실 열어</title>
-      <link>https://www.chosun.com/national/people/2026/05/07/YHCXLXHIIBDVFJ77PDPRW7XRZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/07/YHCXLXHIIBDVFJ77PDPRW7XRZ4/</guid>
-      <dc:creator>강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 May 2026 08:17:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXSPQ2RCXRA73NNK4JCA2Q2BPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 서울 성북구 고려대학교 서울캠퍼스 아이스링크에서 쇼트트랙 국가대표 김길리가 학생들을 가르치고 있다. 고려대학교는 서울 성북강북교육지원청과 함께 지역사회 아이들을 위한 체육교육 프로그램 '2026 SG 프로젝트'를 진행한다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후 서울 성북구 고려대 아이스링크. 헬멧을 쓴 한 초등학생이 빙판 가장자리에서 한 발도 떼지 못한 채 머뭇거리고 있었다. 쇼트트랙 국가대표 김길리 선수가 “괜찮아, 손잡고 가보자”라며 아이에게 손을 내밀었다. 김 선수의 두 손을 잡고 앞으로 나아가기 시작한 아이는 곧 자신감이 붙은 듯했다. 아이는 김 선수의 손을 놓은 뒤에도 스스로 균형을 잡고 한 발 한 발 앞으로 나아갔다. 임종언 선수도 “혼자 갈 수 있어?”라며 학생의 손을 잡아 이끌었다.&lt;br&gt;&lt;br&gt;김 선수와 ISU 세계선수권 금메달리스트 임 선수는 이곳에서 취약 계층 어린이 11명을 위한 ‘빙판 교실’을 열었다. 두 국가대표의 ‘빙판 교실’은 고려대학교와 성북강북교육지원청이 마련한 ‘2026 SG(Strong Growth) 프로젝트’의 첫 번째 프로그램이다. 고려대는 아이스링크 등 교육 시설을 제공하고, 교육청은 학생 모집을 담당했다. 김 선수와 임 선수 모두 고려대 세종캠퍼스 국제스포츠학부에 재학 중이기도 하다. &lt;br&gt;&lt;br&gt;빙판 교실에 참여한 어린이들은 시종일관 국가대표 선수에게서 눈을 떼지 못했다. 이모(11)양은 “올림픽 방송에서 보던 김길리 선수를 실제로 보니 신기했다”고 했다.&lt;br&gt;&lt;br&gt;교육청은 성북·강북 지역아동센터 소속 초등학생 약 200명을 대상으로 연말까지 총 80회에 걸쳐 스케이트 강습을 진행한다. 교육청 관계자는 “취약 계층 어린이들에게 빙상 스포츠는 평소 비용 부담 때문에 쉽게 접하기 어려운 운동”이라며 “장비와 헬멧은 물론, 이동을 위한 셔틀버스까지 모두 무료로 지원해 많은 아이들이 스케이트를 탈 수 있게 해주자는 취지”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHRS5WQNVVFYDOIU2FTIOPPHGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 서울 성북구 고려대학교 서울캠퍼스 아이스링크에서 쇼트트랙 국가대표 김길리와 임종언이 학생들을 가르치고 있다. 고려대학교는 서울 성북강북교육지원청과 함께 지역사회 아이들을 위한 체육교육 프로그램 '2026 SG 프로젝트'를 진행한다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OXSPQ2RCXRA73NNK4JCA2Q2BPY.jpg?auth=3cf43617dcc67b3fbe88bac9b939966f62eda6c7f0b24a5146537ed367e4542a&amp;smart=true&amp;width=5732&amp;height=3822" type="image/jpeg" height="3822" width="5732">
-        <media:description type="plain">7일 오후 서울 성북구 고려대학교 서울캠퍼스 아이스링크에서 쇼트트랙 국가대표 김길리가 학생들을 가르치고 있다. 고려대학교는 서울 성북강북교육지원청과 함께 지역사회 아이들을 위한 체육교육 프로그램 '2026 SG 프로젝트'를 진행한다. /장련성 기자</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
