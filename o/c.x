@@ -13,6 +13,21 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>주한미군 ‘위문열차’ 올라탄 미국 국민 퀴즈쇼</title>
+      <link>https://www.chosun.com/international/us/2026/05/12/3P3T2IMYM5EMHJUQ6CPRNK73RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/international/us/2026/05/12/3P3T2IMYM5EMHJUQ6CPRNK73RE/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 May 2026 22:51:22 +0000</pubDate>
+      <content:encoded>한국의 ‘장학퀴즈’와 ‘전국노래자랑’을 버무린 듯한 미국 TV 프로그램이 있다. 미국 국민 퀴즈쇼로 불리는 ‘제퍼디!(Jeopardy!)’다. 1964~1975년 한 차례 방영된 뒤, 1984년부터 지금까지 42년동안 현재 포맷으로 방송되고 있다. 과거 AFKN으로 불리던 미군방송이 한국 공중파 TV 채널2번으로 방영되던 1980~80년대 저녁시간대에 전파를 타 한국 중·장년층에게도 제법 친숙하다. 중독성 강한 반복적 멜로디가 반복되는 오프닝송도 유명하다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHNU6BC3ZNDTTMWPSZQVBIYA7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;USO 주관으로 열린 주한미군을 위한 제퍼디 특별 프로그램.
+/USO Korea Facebook&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 제퍼디를 태운 ‘위문열차’가 얼마 전 한국을 다녀갔다. 전세계 곳곳에서 복무하는 미군들을 위한 위문공연을 주관해온 비영리단체 USO(United Service Organization) 주관으로 사회자 켄 제닝스(52)가 제작진과 함께 주한 미군기지를 위문차 다녀간 것이다. 1984년부터 췌장암으로 2020년 세상을 떠날 때가지 마이크를 놓지 않아 ‘국민 퀴즈 MC’로 사랑받았던 전임 알렉스 트레벡 때부터 면면이 이어지던 제퍼디의 위문열차 전통도 이번 방문을 통해 재조명받고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKVZAIKZVFGIXMIQNUJ3EWNW5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제퍼디 진행자 켄 제닝스가 주한미군들과 함께 기념사진을 찍고 있다.
+/Ken Jennings Instagram&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제닝스는 자신의 인스타그램에 한국 방문 사진을 여러장 올려놓았다. 이번 행사는 ‘인사이드 제퍼디 라이브 온 투어’라는 이름으로 동두천(5일)·오산(6일)·군산(7일)에서 진행됐다. 프로그램의 로고와 소품 등으로 꾸민 행사장에서 군인과 가족들이 제닝스와 직접 이야기를 하고, 팟캐스트를 진행하고 실제로 즉석 퀴즈쇼를 벌이는 형식으로 진행됐다. 제닝스는 행사에 참가한 군인들과 함께 제퍼디와 USO로고가 그려진 벽을 배경으로 기념사진을 찍었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UQEM4ZV4VA5JON65FFKP6TAWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주한미군 위문차 한국에 온 켄 제닝스가 숭례문 야경을 배경으로 찍은 셀카.
+/Ken Jennings Instagram&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제닝스에게 한국은 단순 방문지가 아니다. 변호사 아버지와 미군 군무원 어머니 사이에서 태어난 그는 어린 시절 외국을 옮겨다니면서 생활했고 성장기를 서울에서 보냈다. 그래서 이번 방문에서 서울을 고향처럼 푸근한 곳(Adopted Hometown)이라고 불렀다. 한국 도착 뒤 숭례문을 배경으로 야경 셀카를 찍은 뒤 ‘고향 같은 서울에 다시 돌아와 기쁘다. 화장품 필요하신 분 있으면 말해달라’는 글을 올리며 K뷰티를 살짝 언급했다. 남산이 보이는 이태원 동네의 자신을 찍어올리고 “어린 시절 동네의 각도는 그대로인데 멋진 카페와 렉서스 전시장이 눈에 띈다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXKTCKUP5VBC5AN42VNVJ3UWXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;켄 제닝스가 한국을 방문해 청소년 시절 살던 이태원 동네 풍경을 찍어서 올렸다.
+/Ken Jennings Instagram&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제닝스는 ‘엄친아’라는 말로는 설명이 모자란 인물이다. 차원이 다른 박학다식을 선보이며 국민퀴즈쇼를 제패하며 떼돈을 번 뒤, 그 명성에 힘입어 자신을 스타로 만들어준 프로그램의 MC까지 꿰찼기 때문이다. 공부를 통해 퀴즈에서 이겨 부와 명예를 쌓은 그의 이력은 아메리칸 드림의 전형으로도 여겨진다. 지금으로부터 22년전인 2004년. 유타주 솔트레이크시티의 메디컬 회사에서 소프트웨어 담당 엔지니어로 일하고 있던 제닝스는 낙타가 바늘귀를 뚫고 들어가는 것보다 더 어렵다는 제퍼디 참가 오디션에 합격했다. 정치·경제·사회·문화·스포츠·라이프 등 인간사 모든 분야에 박학다식한 만물박사들이 일합을 겨루는 이 퀴즈쇼에서 제닝스는 영예로운 칭호인 GOAT(Greatest of All Tie\me)을 얻었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQKXNRQHDJDABKQVMAQ5EXNFCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지금은 고인이 된 알렉스 트레벡이 제퍼디 진행 시절 함께 한 USO 행사에서 여군과 이야기를 나누고 있다.
+/USO&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 규칙은 한 회 우승자가 이길 경우 무제한 출연할 수 있었다. 제닝스는 11월 30일 방송에서 패배할때까지 6개월동안 안방극장을 찾아갔다. 그는 74연승을 거뒀고 벌어들인 상금은 252만 달러(약 37억 달러)에 이른다. 미국 TV역사상 최고의 퀴즈의 달인으로 등극한 그는 ‘투나잇쇼’, ‘’데이비드 레터맨과 함께 하는 레이트 쇼’, ‘새서미 스트리트’ 등 간판 프로그램 게스트로 소개됐고, 미국 문화 속 퀴즈 현상을 다룬 ‘브레이니악(Brainiac)’, 켄 제닝스의 알쓸신잡(Ken Jennings’s Trivia Almanac) 등은 베스트셀러가 됐다. 2020년은 그에게 잊을 수 없는 한 해가 됐다. 그 해 역대 출연자와 겨룬 일합에서 승리하면서 공식적으로 ‘제퍼디 고트’가 됐기 때문이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KV6N453NGREIDMNGXGYZ42LWAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제퍼디 진행자 알렉스 트레벡이 생전 주독미군들과 어울리는 모습.
+/USO Photo&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그리고 2년 뒤에는 알렉스 트레벡 별세 이후 좀처럼 자리를 잡지 못했던 제퍼디 MC로 낙점돼 지금까지 진행하며 프로그램을 안착시켰다. 제닝스는 이번 USO 제퍼디 투어가 제퍼디 그 자체라 할 수 있는 고(故) 알렉스 트레벡의 유산임을 강조했다. 트레벡은 1987년을 시작으로 총 열 세 차례 ‘제퍼디 위문열차’에 올라타 한국·일본·독일·이탈리아·필리핀·튀르키예·아이슬란드 등의 기지에서 장병들과 만났다. 2020년 11월 그가 타계했을 때 USO는 장문의 추도 메시지를 내고 “수많은 장병들과 군인 가족들은 그를 단지 TV 속 진행자가 아니라 자신들과 함께 시간을 보낸 사람으로 기억하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 공공 아이돌봄 1년 대기하는데… ‘민간 참여’ 손 놓은 정부</title>
       <link>https://www.chosun.com/national/education/2026/05/12/W4IGN6RVWFAYTGF3TPD6F2DPDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/12/W4IGN6RVWFAYTGF3TPD6F2DPDQ/</guid>
@@ -795,15 +810,6 @@
       <description/>
       <pubDate>Sun, 10 May 2026 20:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTSMJWGNTGKMLCMEYDANRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 인플루언서 A씨 관련 사건을 무마했다는 의혹이 불거진 서울 강남경찰서가 수사과를 사실상 해체하는 수준의 물갈이에 나섰다. 강남서는 지난 8일 변호사 자격증 소지자나 강남권 외 경찰서 수사 경력자 등을 지원 조건으로 하는 ‘수사·형사과 보직 공모’를 공고했다. &lt;br&gt;&lt;br&gt;강남서 보직 공모 공고를 보면, 수사·형사과 팀원은 변호사 자격이 있거나 수사 경력이 있으면서 강남권 경찰서 5곳(강남·서초·송파·방배·수서) 외 서울 지역 경찰서에 근무 중인 자를 응모 조건으로 내걸었다. 경감 계급이 주로 맡는 팀장급은 여기에 시·도경찰청 광역수사단에서 근무하거나 일선서 팀장으로 근무 중이어야 한다는 요건을 추가했다.&lt;br&gt;&lt;br&gt;강남서가 수사 라인 물갈이에 나선 것은 최근 인플루언서 A씨가 고소된 사건을 조사하는 과정에서 불거진 강남서 수사팀 간부의 수사 무마 의혹 때문이다. A씨는 2024년 7월 건강 관련 프랜차이즈 업체 가맹점주들로부터 사기·가맹사업법 위반 등 혐의로 피소됐다. 이 사건은 강남서 수사1·2과에 배당됐다. 그런데 A씨 남편인 이모씨는 평소 친분이 있던 경찰청 소속 경정 B씨를 통해 강남서 수사1과 팀장으로 근무하던 C경감에게 사건 무마 청탁했다는 의혹이 불거졌다. 이와 관련해 강남서 수사1과는 A씨에 대해 “혐의가 있다고 보기 어렵다”며 불송치 결정을 내렸고, C경감은 이후 이씨로부터 향응과 금품을 제공받은 혐의로 검찰 수사를 받고 있다. &lt;br&gt;&lt;br&gt;강남서는 2019년 경찰청이 발표한 ‘유착 비리 근절 종합 대책’에 따라 ‘특별 인사 관리 구역’으로 지정돼 있다. 비위 전력이 있는 경찰은 2027년까지 강남서에 발령받을 수 없고, 강남서에서 징계를 받으면 타 관서로 즉시 전출된다. 강남 지역은 기업들이 밀집해 있고 유흥 등 상권이 발달한 터라 경찰관들이 부패에 물들 수 있다고 보고 인사를 엄격하게 관리하겠다는 취지였다. 그러나 이번에 또 강남서 수사 라인 간부 관련 비위 의혹이 터져 나오자 아예 물갈이 수준의 인사에 나선 것이다. &lt;br&gt;&lt;br&gt;강남서는 이번 보직 인사 때 장기 근무자들을 비강남권 경찰서로 전출할 것으로 알려졌다. 전출 대상으로는 경정은 강남·서초 등 강남권 근무 2년 이상, 경감은 강남서 근무 3년 이상이 검토된다. 팀장급만 최소 11명이 교체될 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 정말 싫다, 딱 질색이다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/05/11/HE2VOSTNSRAC7KSV25BMSLV2SM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/05/11/HE2VOSTNSRAC7KSV25BMSLV2SM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 10 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVRRD6RW3RF3XGNR6MTHKG6GO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김관영 출마에… ‘與 텃밭’ 전북 요동</title>
