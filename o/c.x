@@ -13,6 +13,48 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 전재수 43% 박형준 41%, 대구 김부겸 44% 추경호 41% 초접전 [한국갤럽]</title>
+      <link>https://www.chosun.com/politics/election2026/2026/05/13/FPJ2SDOU3VENHKV2FNCRVTYVHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/05/13/FPJ2SDOU3VENHKV2FNCRVTYVHM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 May 2026 23:49:31 +0000</pubDate>
+      <content:encoded>13일 공개된 서울·부산·대구시장과 경북지사 선거 여론조사 결과에서 여야 후보 간 격차가 줄어든 것으로 나타났다. 부산·대구·경남에서는 오차 범위 내 접전이 벌어지고 있고, 서울에서도 한 달 전 조사 때보다 격차가 크게 줄어들었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇부산 전재수 43% 박형준 41%… 한 달 전 11%p 차 사라져&lt;/b&gt;&lt;br&gt;&lt;br&gt;뉴스1·한국갤럽이 지난 10~11일 시행한 부산시장 선거 조사 결과에 따르면, 부산시장으로 더불어민주당 전재수 후보를 선호한다는 응답자는 43%, 국민의힘 박형준 후보를 선호한다는 응답자는 41%로, 오차 범위(±3.5%p) 안이었다. 한 달 전 세계일보 의뢰로 한국갤럽이 시행한 조사의 가상 양자 대결에서는 전 후보 51%, 박 후보 40%로 11%포인트(p) 차였다.&lt;br&gt;&lt;br&gt;응답자 연령별로 보면, 전 후보는 40대에서 62%대25%, 50대에서 61%대30%로 박 후보를 크게 앞섰으나, 70대 이상에서는 24%대60%, 60대에서도 40%대53%로 박 후보가 앞섰다. 10·20대에서는 29%대35%, 30대에서는 42%대35%로 비슷했다. 보수층은 64%가 박 후보, 진보층은 78%가 전 후보를 선호했고, 중도층에서는 전 후보 47%, 박 후보 34%였다.&lt;br&gt;&lt;br&gt;조작 기소 특검법안에 대해서는 ‘적절하지 않다’는 응답자가 47%로, ‘적절하다’는 응답자 30%보다 17%p 많았다.&lt;br&gt;&lt;br&gt;지방선거에서 여당에 힘을 실어줘야 한다는 응답자는 43%, 야당에 힘을 실어줘야 한다는 응답자는 41%로 비슷했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대구 김부겸 44% 추경호 41%… ‘조작 기소’ 특검법 부적절 54%&lt;/b&gt;&lt;br&gt;&lt;br&gt;뉴스1·한국갤럽이 9~10일 시행한 대구시장 선거 조사에서는 민주당 김부겸 후보가 44%, 국민의힘 추경호 후보가 41%로, 오차 범위 안이었다. 한 달 전 세계일보·한국갤럽 조사의 가상 양자 대결에서는 김 후보 53%, 추 후보 36%로 17%p 차였다.&lt;br&gt;&lt;br&gt;응답자 연령별로 보면, 김 후보는 40대에서 70%대22%, 50대에서 61%대33%로 추 후보를 크게 앞섰다. 그러나 70대에서는 22%대66%, 10·20대에서는 20%대42%, 60대에서는 39%대52%로 추 후보가 김 후보를 크게 앞섰다. 보수층의 67%는 추 후보, 진보층의 80%는 김 후보를 선호했고, 중도층에서는 김 후보 55%, 추 후보 27%였다.&lt;br&gt;&lt;br&gt;조작 기소 특검법안에 대해서는 ‘적절하지 않다’가 54%로, ‘적절하다’ 22%보다 32%p 많았다.&lt;br&gt;&lt;br&gt;지방선거에서 야당에 힘을 실어줘야 한다는 응답자는 42%, 여당에 힘을 실어줘야 한다는 응답자는 40%로 비슷했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇경남 김경수 45% 박완수 38%… 특검 부적절 48%&lt;/b&gt;&lt;br&gt;&lt;br&gt;뉴스1·한국갤럽이 11~12일 시행한 경남지사 선거 조사에서는 민주당 김경수 후보가 45%, 박완수 후보가 38%로, 오차 범위 안이었다. 한 달 전 세계일보·한국갤럽 조사의 가상 양자 대결에서도 김 후보 44%, 박 후보 40%로 오차 범위 안이었다.&lt;br&gt;&lt;br&gt;응답자 연령별로 보면, 김 후보는 50대에서 65%대29%, 40대에서 58%대24%, 30대에서 39%대30%로 박 후보를 앞섰다. 70대 이상에서는 23%대59%로 박 후보가 김 후보를 앞섰다. 10·20대에서는 35%대34%로 비슷했다.&lt;br&gt;&lt;br&gt;조작 기소 특검법안에 대해서는 ‘적절하지 않다’가 48%로, ‘적절하다’ 29%보다 19%p 많았다.&lt;br&gt;&lt;br&gt;지방선거에서 여당에 힘을 실어줘야 한다는 응답자는 43%, 야당에 힘을 실어줘야 한다는 응답자는 38%로 비슷했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇서울 정원오 46% 오세훈 38%… 한 달 전에는 52%대37%&lt;/b&gt;&lt;br&gt;&lt;br&gt;뉴스1 의뢰로 여론조사 업체 한국갤럽이 지난 9~10일 시행한 서울시장 선거 조사에서는, 서울시장으로 더불어민주당 정원오 후보를 선호한다는 응답자는 46%로, 국민의힘 오세훈 후보를 선호한다는 응답자 38%보다 8%p 많았다. 개혁신당 김정철 후보, 정의당 권영국 후보, 여성의당 유지혜 후보를 선호하는 응답자가 각각 1%였고, 지지 후보가 없다는 응답자는 6%, 잘 모르겠다고 답하거나 응답을 거절한 사람은 7%였다. 한 달 전 세계일보·한국갤럽 조사에서는 가상 양자 대결에서 정 후보가 52%, 오 후보가 37%를 받아, 15%p 격차였다.&lt;br&gt;&lt;br&gt;응답자 연령별로 보면, 정 후보는 50대에서 64%대25%, 40대에서 62%대26%로 오 후보를 크게 앞섰고, 60대에서 50%대44%, 30대에서 40%대38%로 비슷했다. 오 후보는 70대 이상에서 63%를 받아, 30%를 받은 정 후보를 앞섰다. 10·20대(18~29세)에서는 오 후보가 34%, 정 후보가 27%였다. 보수층은 70%가 오 후보, 21%가 정 후보를 선호했고, 진보층은 75%가 정 후보, 11%가 오 후보를 선호했다. 중도층은 정 후보 47%, 오 후보 33%였다.&lt;br&gt;&lt;br&gt;서울시의 부동산 정책을 가장 잘 추진할 후보를 묻는 물음에는 정 후보라는 응답자가 34%, 오 후보 30%로, 오차 범위 안이었다. 이재명 정부 부동산 정책을 긍정적으로 평가한 응답자가 43%, 부정 평가한 응답자가 42%로, 역시 오차 범위 안이었다. 집을 팔 때 매기는 양도소득세를 깎아주는 장기보유특별공제를 비거주 1주택자에게도 유지해야 하는지와 관련한 물음에는 ‘현행 수준을 유지해야 한다’는 응답자가 35%로 가장 많았다. ‘현행보다 공제 비율을 높여야 한다’, 즉 세금을 더 깎아줘야 한다는 응답자도 15%에 달했다. ‘현행보다 공제 비율을 낮춰야 한다’거나 ‘폐지해야 한다’는 응답자는 각각 16%, 14%였다.&lt;br&gt;&lt;br&gt;특검에 이재명 대통령 관련 사건의 공소를 취소할 수 있는 권한을 주는 ‘조작 기소’ 특검법안에 대해서는 ‘적절하지 않다’는 응답자가 49%로, ‘적절하다’는 응답자 31%보다 18%p 많았다.&lt;br&gt;&lt;br&gt;이번 지방선거에서 ‘국정 지원을 위해 여당에 힘을 실어줘야 한다’는 응답자는 48%로, ‘정권 견제를 위해 야당에 힘을 실어줘야 한다’는 응답자 38%보다 10%p 많았다.&lt;br&gt;&lt;br&gt;뉴스1·한국갤럽 조사는 무선 전화 인터뷰 방식으로 진행했고, 표본 오차는 95% 신뢰 수준에서 3.5%p였다. 서울시장 선거 조사는 지난 9~10일 서울에 사는 18세 이상 802명을 대상으로 했고, 응답률은 11.0%였다. 부산시장 선거 조사는 지난 10~11일 부산에 사는 18세 이상 801명을 대상으로 했고, 응답률은 14.7%였다. 대구시장 선거 조사는 지난 9~10일 대구에 사는 18세 이상 803명을 대상으로 했고, 응답률은 20.3%였다. 경남지사 선거 조사는 지난 11~12일 경남에 사는 18세 이상 804명을 대상으로 했고, 응답률은 13.4%였다.&lt;br&gt;&lt;br&gt;세계일보·한국갤럽 조사도 무선 전화 인터뷰 방식으로 진행했고, 표본 오차는 95% 신뢰 수준에서 3.5%p였다. 서울시장 선거 조사는 지난달 10~11일 서울에 사는 803명을 대상으로 했고, 응답률은 11.9%였다. 부산시장 선거 조사는 지난달 9~10일 부산에 사는 18세 이상 805명을 대상으로 했고, 응답률은 12.8%였다. 대구시장 선거 조사는 지난달 10~11일 대구에 사는 805명을 대상으로 했고, 응답률은 13.9%였다. 경남지사 선거 조사는 지난달 7~8일 경남에 사는 806명을 대상으로 했고, 응답률은 15.4%였다.&lt;br&gt;&lt;br&gt;각 조사의 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수면장애, 치매뿐 아니라 파킨슨병도 부른다</title>
+      <link>https://www.chosun.com/medical/2026/05/07/AIOS6UIGW5ES5D5X6JLKGOUMI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/07/AIOS6UIGW5ES5D5X6JLKGOUMI4/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 15:41:00 +0000</pubDate>
+      <content:encoded>수면장애가 알츠하이머병 치매뿐만 아니라 파킨슨병 등 다양한 신경퇴행성질환 발생 위험도 높인다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;수면은 뇌의 노폐물을 제거하고 신경세포를 보호하는 핵심 회복 과정으로 알려져 있다. 즉, 수면은 뇌의 야간 정비 시간이다. 이에 최근 수면장애가 뇌 보호 기능을 무너뜨려 신경퇴행성질환으로 이어질 수 있다는 연구들이 발표되고 있는데, 수면장애가 어떤 뇌질환 위험을 높이는지, 어떤 수면 습관이 특히 위험 신호인지는 충분히 밝혀지지 않았다.&lt;br&gt;&lt;br&gt;연세의대 의생명시스템정보학교실 김태원, 박유랑 교수와 세브란스병원 신경과 이필휴 교수 등 공동연구팀은 영국의 대규모 건강 데이터베이스 UK 바이오뱅크에서 수면장애를 진단받은 3만여명과 수면장애가 없는 14만여명을 최대 30년간 추적 관찰하며 신경퇴행성질환 발생을 비교 분석하여 최근 국제학술지 ‘알츠하이머스와 치매’에 발표했다.&lt;br&gt;&lt;br&gt;연구 결과, 수면장애가 있는 그룹은 그렇지 않은 그룹보다 신경퇴행성질환 발생 위험이 32% 높은 것으로 나타났다. 파킨슨병(1.31배), 알츠하이머치매(1.33배), 혈관성 신경퇴행성질환(1.38배) 등의 발생 위험이 유의미하게 증가했다.&lt;br&gt;&lt;br&gt;뇌의 노폐물 청소가 주로 이뤄지는 비(非)렘수면에 장애가 있을 경우 신경퇴행성질환 위험비가 3.46으로 가장 높았다. 수면 관련 행동 특성과 관련해서는 불면증 환자가 잦은 낮잠을 자는 경우 신경퇴행성질환 위험도가 2.85배로 매우 높았다. &lt;br&gt;&lt;br&gt;이필휴 교수는 “수면장애를 적극적으로 진단하고 관리하는 것이 향후 신경퇴행성질환 예방 전략에서 중요한 출발점이 된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KGTLPJ3S2RFE5GJM7WP6LX74NY.jpg?auth=08577ae898038d6bbbfdfdd8b8136b1f2cca2e91135c8ccb86d0c5a0122da101&amp;smart=true&amp;width=824&amp;height=618" type="image/jpeg" height="618" width="824">
+        <media:description type="plain">‘불면의 밤’은 괴로울 뿐 아니라, 중·노년층의 건강과 직결되어 있다. 잠을 못 자면 뇌졸중·치매 등 뇌혈관질환의 위험성이 매우 높아진다./123RF.com</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[Dr. 이은봉의 의학 연구 다이제스트] 무릎 반월판 연골 손상 환자 10년 뒤 봤더니 연골 제거 수술 안 한 사람 무릎이 더 건강</title>
+      <link>https://www.chosun.com/medical/2026/05/07/R4LANSFGNVEBFDOVE7EXYNSIRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/07/R4LANSFGNVEBFDOVE7EXYNSIRU/</guid>
+      <dc:creator>이은봉</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 May 2026 15:41:00 +0000</pubDate>
+      <content:encoded>무릎 관절 내 양옆에 있는 C자 모양의 반월판 연골은 허벅지뼈와 정강이뼈 사이의 충격을 완충해주는 쿠션 역할을 한다. 손상된 반월판 연골 부분을 관절경으로 제거하는 수술은 전 세계적으로 정형외과에서 가장 흔히 하는 수술이다. &lt;br&gt;&lt;br&gt;최근 핀란드 연구팀은 무릎 반월판 연골 손상 시 관절경 수술이 얼마나 도움이 되는지를 장기 추적한 연구 결과를 세계 최고 수준의 국제학술지 ‘뉴 잉글랜드 의학저널’에 발표했다.&lt;br&gt;&lt;br&gt;연구는 반월판 연골이 파열된 핀란드인 146명을 대상으로 했다. 연구 대상자를 무작위로 나누어서 70명에게는 관절경을 통해서 찢어진 연골을 제거하는 수술을 시행했고, 76명 대조군에게는 가짜 수술만 시행했다. 수술 후 10년을 추적 관찰하며 수술 결과를 비교했다.&lt;br&gt;&lt;br&gt;연골 파열과 관련된 증상을 평가하는 위밋(WOMET) 점수(100점 만점으로 높을수록 좋은 점수)는 수술군은 80.1점, 가짜 수술 시행 대조군은 87.3점이었다. 무릎 기능을 평가하는 점수도 수술군보다 대조군이 좋았다. 환자가 운동 후 느끼는 통증도 수술군보다 대조군에서 적었다. 전반적으로 수술하지 않은 쪽의 무릎이 더 좋았다는 얘기다.&lt;br&gt;&lt;br&gt;관절은 적응 능력이 뛰어나서, 퇴행성으로 연골이 찢어진 경우 당장은 심한 통증과 부종을 일으키지만 시간이 지나면 많은 경우 통증과 부종이 회복된다. 인위적으로 연골판을 제거해서 관절 내에 구조적인 변화를 일으키면 퇴행성 관절염을 촉진할 수 있기 때문에, 관절경 수술군의 장기 성적이 오히려 나쁜 것으로 추정된다. 나이 들면 퇴행성 변화로 반월판 연골이 많이 찢어지는데, 이때 무조건 수술을 받아야 하는 것은 아니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GQ3DIMBYGQYDQNJTGU4TEZDGME.jpg?auth=6a38d3df121caac20c8f2edcf682180646220e51be802490f92d85d4dc55533c&amp;smart=true&amp;width=719&amp;height=479" type="image/jpeg" height="479" width="719">
+        <media:description type="plain">무릎</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>BTS·대기업 총수 정보도 유출…해킹으로 380억 챙긴 중국인 국내 송환</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/13/FUZWTFAZT5DORDRSQPGSXHVA4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/13/FUZWTFAZT5DORDRSQPGSXHVA4Q/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 May 2026 23:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSDIMRRGVTGCMJWMVQWIYRSMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 법무부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 국내 웹사이트를 해킹해 재력가들의 개인 정보를 도용한 뒤 수백억 원을 가로챈 해킹 조직원을 태국에서 국내로 강제 송환했다고 13일 밝혔다. 작년 8월 해당 조직 총책을 국내로 송환한 데 이어 그 공범까지 붙잡아 온 것이다.&lt;br&gt;&lt;br&gt;중국 국적의 남성 A(40)씨는 태국 등지에서 해킹 범죄 단체를 만들어 2023년 8월부터 작년 4월까지 국내 웹사이트 여러 곳을 해킹했다. 이 과정에서 웹사이트 이용자들의 이름과 주민등록번호 등을 수집했다. A씨 조직은 해킹을 통해 모아둔 개인 정보를 이용해 ‘알뜰폰’을 대거 개통하는 수법으로 총 380억여 원을 빼돌렸다. 이른바 ‘대포폰’을 만들어 피해자들의 금융 계좌와 가상 자산 계정에서 예금을 인출한 것이다.&lt;br&gt;&lt;br&gt;BTS 멤버 정국을 비롯해 재계 순위 30위 안에 드는 재벌 총수, 벤처기업 대표 등도 정보 유출 피해를 입은 것으로 조사됐다. 다만 정국은 해킹 직후 소속사가 조치에 나서 금전적 피해를 당하지는 않았다고 한다.&lt;br&gt;&lt;br&gt;법무부를 통해 인터폴과 공조 수사를 벌이던 서울경찰청은 작년 5월 A씨 조직의 총책인 중국인 남성 B(36)씨를 검거했고, 그 과정에서 A씨 신병도 확보했다. 법무부는 곧바로 태국 정부에 A씨의 긴급 인도 구속 청구를 보냈다. 긴급 인도 구속 청구는 정식으로 범죄인 인도 청구를 하기 전 신병을 우선 확보해 달라고 요청하는 제도다. 3개월 뒤인 8월에는 범죄인 인도를 청구했고, 태국 내 범죄인 인도 재판 절차를 거쳐 태국 당국의 승인을 받아 A씨를 국내로 송환했다.&lt;br&gt;&lt;br&gt;작년 송환됐던 총책 B씨는 작년 9월 16일 구속 기소돼 한국에서 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정부 나섰지만...삼성전자 노사, 사후조정 최종 결렬</title>
       <link>https://www.chosun.com/national/labor/2026/05/13/AXBAOIBEERC2BH6A77X4VF74SM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/13/AXBAOIBEERC2BH6A77X4VF74SM/</guid>
@@ -942,42 +984,6 @@
       <description/>
       <pubDate>Mon, 11 May 2026 14:32:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZM673GEP4BNYJJ7N3THNQ7BWXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청송 주왕산서 실종된 초등생 A군. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 청송군 주왕산국립공원에서 실종된 A(11·초6)군을 찾기 위해 수색 당국이 이틀째 야간 수색에 들어갔다. &lt;br&gt;&lt;br&gt;경북경찰청과 경북소방본부, 국립공원공단 등은 11일 해가 진 뒤에도 장비와 인력을 주왕산국립공원에 투입해 야간 수색을 한다고 밝혔다.&lt;br&gt;&lt;br&gt;당국은 이날 야간 기상 상황을 고려해 경찰 40명, 소방 28명, 국립공원공단 직원 12명 등 인력 80명과 열화상 카메라가 장착된 드론 5대를 투입해 수색을 이어갈 예정이다.&lt;br&gt;&lt;br&gt;수색대는 부모가 A군을 마지막으로 목격한 기암교부터 주봉(해발 720.6ｍ)까지 이어지는 등산로를 중심으로 수색 작업을 이어갈 방침이다. 기암교와 주봉 간 거리는 약 2.3㎞다.&lt;br&gt;&lt;br&gt;A군은 전날 부모와 주왕산국립공원 내 사찰을 함께 방문했다가, 당일 정오쯤 기암교에서 “조금만 산에 올라갔다 오겠다”는 말을 남기고 사라진 것으로 알려졌다. A군이 돌아오지 않자 부모는 같은 날 오후 5시 53분쯤 119에 실종 신고를 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z676U4HXLVPEZDEHL7ZCP5LLGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 경북 청송군 주왕산국립공원에서 전날 실종된 초등학생 A(11)군을 찾기 위한 야간 수색작업이 진행되고있다. /경북소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 6시부터는 청송군 일대에 천둥·번개를 동반한 비가 예보됐다. 비는 오는 12일 오후 6시까지 내릴 것으로 보이며, 예상 누적 강수량은 20㎜다. 수색 종료 시점은 현장 상황에 따라 유동적으로 정해질 전망이다.&lt;br&gt;&lt;br&gt;당국은 이날 낮에도 헬기 1대와 드론 2대, 인력 90여 명 등을 투입해 A군을 찾아다녔다. 하지만 A군의 행방은 확인되지 않았다.&lt;br&gt;&lt;br&gt;키가 145㎝가량이고 마른 편인 A군은 실종 당일 삼성라이온즈 유니폼과 모자를 착용하고 있었다. 휴대전화는 갖고 있지 않았다. A군 가족은 경찰 등에 “1년 전쯤에도 이곳에서 등반했었는데, 아이가 힘들어해 중도 하산한 적이 있다”며 “실종 당일 아이가 ‘조금만 올라갔다가 오겠다’고 했다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;실종 소식이 알려진 이후 전후 사정을 제대로 모르는 일부 네티즌의 과한 추측성 댓글 등으로 A군 가족은 심리적 고통을 받는 것으로 알려졌다. A군 아버지는 연합뉴스에 “사찰에서 산으로 넘어가는 짧은 길이 있는데 거기까지 같이 있었다”며 “그게 마지막이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 12일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/11/KQ3W5J3EORBDPDAIZV4Y4CGLAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/11/KQ3W5J3EORBDPDAIZV4Y4CGLAU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 May 2026 14:31:00 +0000</pubDate>
-      <content:encoded>전국에서 돌풍 동반한 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJWH6D5RPZEU5KTB5WQ4NTSGTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중대산업재해 5년 내 재범 시 ‘1.5배’ 가중처벌 권고키로</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/11/HE24GGDHKBHEVGS4CI6T6WXDU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/11/HE24GGDHKBHEVGS4CI6T6WXDU4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 May 2026 11:50:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AO2HISMEA5OJFCW4SSBKMMIYD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이동원 양형위원회 위원장이 11일 오후 서울 서초구 대법원에서 열린 양형위원회 제145차 전체회의에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 양형위원회가 중대재해처벌법 양형 기준 마련에 본격 착수했다. 중대산업재해를 반복해 일으킨 경우 권고 형량을 1.5배 높여 가중 처벌을 권고하기로 했다. 119 구조대원을 폭행하거나 소방대원의 화재 진압을 방해하는 등 응급 의료·구조 방해 범죄에 대해서도 별도 기준을 만든다.&lt;br&gt;&lt;br&gt;11일 양형위는 145차 회의를 열고 ‘과실치사상·산업안전보건범죄’ 양형 기준 수정안과 ‘응급의료·구조·구급범죄’ 양형 기준 설정안을 심의했다. 양형 기준은 판사가 형량을 정할 때 참고하는 일종의 가이드라인이다. 반드시 따라야 하는 것은 아니지만 양형 기준을 벗어난 형량을 선고하려면 그 이유를 판결문에 적어야 한다. 다만 이날 회의에서는 구체적인 권고 형량까지는 논의하지 않았다. &lt;br&gt;&lt;br&gt;양형위는 앞으로 중대재해법 양형 기준이 마련되면, 중대산업재해 범죄로 처벌받은 뒤 5년 안에 다시 같은 범죄를 저지른 경우 권고 형량의 하한과 상한을 모두 1.5배 높이기로 했다. 중대재해법은 산업 현장에서 사망 사고 등이 발생한 경우 사업주나 경영 책임자를 1년 이상 징역 또는 10억원 이하 벌금으로 처벌하는 법으로 2022년 1월 시행됐다. 다만 법인을 함께 처벌하는 양벌 규정과 벌금형에 대한 양형 기준은 이번에 논의하지 않는다. 또 ‘가습기 살균제 사건’ 등 같이 일터가 아닌 곳에서 벌어지는 중대시민재해 관련 범죄도 아직 처벌 사례가 없어 아직 만들지 않기로 했다.&lt;br&gt;&lt;br&gt;양형위는 또 응급실 의료진 폭행이나 구급차 활동 방해에 대해서도 양형 기준을 따로 만들기로 했다. 소방대원의 화재 진압이나 구급대원의 구조 활동을 막는 행위가 대상이다. 응급의료 종사자 폭행 범죄는 결과에 따라 ‘폭행’, ‘상해’, ‘중상해’, ‘사망’ 등으로 나눠 기준을 마련한다. 양형위는 “응급실과 구조 현장은 사람의 생명과 직결되는 만큼 의료진과 소방대원 등에 대한 보호 필요성이 크다”고 했다. &lt;br&gt;&lt;br&gt;양형위는 앞으로 각 범죄의 구체적인 권고 형량과 가중·감경 요소 등을 정한 뒤 공청회 등을 거쳐 최종 양형 기준을 확정할 예정이다. 한편 양형위는 다음 달 22일 음주운전 등 교통범죄와 서민 경제를 위협하는 대부업·채권 추심 관련 범죄 양형 기준을 수정하는 안을 심의한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전재수 사무실 압수수색 전... 보좌진, 망치로 PC 부쉈다</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/11/XWJGWWHPOBD4FL2WIWPCJMU4GA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/11/XWJGWWHPOBD4FL2WIWPCJMU4GA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 May 2026 11:37:38 +0000</pubDate>
-      <content:encoded>더불어민주당 전재수 부산시장 후보의 국회의원 시절 보좌진들이 수사기관의 압수수색을 앞두고 사무실 PC를 초기화하고 하드웨어를 망치로 부순 것으로 11일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZDMYJVGQZWCY3GMQZTGYTBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 더불어민주당 부산시장 후보가 지난 4일 부산 동구 부산항국제전시컨벤션센터에서 열린 부산 현장 최고위원회의에서 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 검경 합동수사본부(본부장 김태훈 대전고검장)가 국민의힘 주진우 의원실에 제출한 전 후보 보좌관들의 공소장에 따르면, 전 후보 보좌진들은 작년 12월 경찰 압수수색을 앞두고 증거인멸을 공모한 것으로 나타났다.&lt;br&gt;&lt;br&gt;이에 따르면 작년 12월 10일 전 의원 선임비서관 A씨는 합수본의 압수수색에 대비해 인턴 비서관에게 부산 지역구 사무실에 있는 PC들을 초기화하라고 지시했다. A씨는 “압수수색이 나올 수 있으니 수사기관에 책 잡힐 일을 만들면 안 된다”고 말하며 자신의 PC뿐만 아니라 부산 사무실 내 업무용 PC 전체를 초기화해야 한다고 제안한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;보좌관은 A씨의 보고를 받은 뒤 “포맷(초기화) 전 필요한 자료는 백업해두라”고 말했다고 한다. 이 과정에서 A씨는 전 후보의 서울 사무실 8급 비서관에게 PC 초기화 방법을 문의하고, 이 비서관은 ‘SSD 카드를 꽂았던 PC는 다시 한 번 더 포맷을 해야 한다’는 취지로 설명한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 PC 포맷을 마친 뒤, PC에서 분리한 저장장치도 파손했다. 그는 PC의 HDD(하드디스크)를 드라이버로 해체한 뒤 망치로 내리치고, SSD(솔리드스테이트드라이브)는 손과 발로 구부러뜨려 부순 것으로 조사됐다. A씨는 이렇게 파손한 저장장치를 주거지 인근 밭 또는 목욕탕 쓰레기통에 버린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;합수본은 A씨를 비롯한 전 후보 보좌진 4명을 불구속 상태로 재판에 넘겼다. 다만 이들이 PC 초기화 및 폐기에 대해 전 후보에게 보고했는지 여부는 공소장에 적시하지 않았다. 전 후보가 통일교로부터 금품과 명품 시계를 받았다는 의혹에 대해서는 공소시효가 지났다고 판단해 기소하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성폭력 피해자 지원 단체 “검찰 보완수사 어려워지면 피해자 고통 가중”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/11/INA4RFLZMVE37MTJA5R2SMJSTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/11/INA4RFLZMVE37MTJA5R2SMJSTQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 May 2026 11:12:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UFNGWPDNZHOPLC7ELQWHLYFCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 11일 정부과천청사에서 한국성폭력상담소, 한국여성의전화 등 성폭력 피해자 지원 단체와 기념촬영을 하고 있다. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 정성호 장관이 11일 한국성폭력상담소, 한국여성의전화, 장애여성공감 성폭력상담소, 성매매문제해결을위한전국연대, 민주사회를위한변호사모임 여성인권위원회 등 성폭력 피해자 지원 단체와 만나 현장 의견을 청취했다고 밝혔다.&lt;br&gt;&lt;br&gt;김혜정 한국성폭력상담소장은 정 장관에게 “검찰의 보완수사가 어려워지면 성폭력 수사 및 기소에 절차가 상당히 지연될 것으로 예상되고, 이로 인한 피해자의 고통은 가중될 것이 우려된다”며 적극적인 대책을 마련해달라고 했다. 이에 정 장관은 “성폭력 피해자 보호에 빈틈이 발생하지 않도록 최선을 다하겠다”고 답했다.&lt;br&gt;&lt;br&gt;법무부는 정 장관이 이날 면담에서 성폭력 피해자의 수사와 기소 과정에서 발생하는 어려움과 개선 필요사항, 성폭력 관련 형법 개정 과제, 연이은 친밀한 관계 폭력 현황을 반영한 법률 개정 방향 등에 대한 피해자 지원 단체 의견을 듣고 보완 방안을 논의했다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
