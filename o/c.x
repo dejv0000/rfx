@@ -13,6 +13,119 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘54만명 가입’ AVMOV 핵심 운영자 구속…“도주 우려”</title>
+      <link>https://www.chosun.com/national/incident/2026/05/13/VKQB6GLDOZEEVCDMJ3KOSUHMJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/13/VKQB6GLDOZEEVCDMJ3KOSUHMJE/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 10:06:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가족과 연인 등을 불법 촬영한 음란물을 유통해 온 대형 사이트 AVMOV의 핵심 운영자가 구속됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 13일 성폭력처벌법 및 아동·청소년성보호법 위반 혐의를 받는 40대 A씨에 대해 구속영장이 발부됐다고 밝혔다. 수원지법은 이날 열린 구속 전 피의자 심문(영장실질심사)에서 “도주 및 증거인멸 우려가 있다”며 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 불법 사이트 AVMOV에서 불법 촬영물을 대량 게시·유통하고, 이를 통해 범죄 수익을 챙긴 혐의를 받고 있다. 경찰 수사가 시작되자 태국으로 출국했던 그는 또 다른 운영자인 30대 B씨와 함께 지난 11일 자진 입국했고, 인천국제공항에서 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨에 대해 각각 구속영장을 신청했지만, 검찰은 B씨에 대한 영장은 반려했다. 경찰은 B씨를 석방했으나 범행 가담 정도 등을 추가 수사한 뒤 신병 확보 여부를 다시 검토할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 지난해 12월 자체 모니터링 과정에서 해당 사이트를 포착해 내사에 착수했다. 이후 운영진 추적 과정에서 A씨 등을 특정했다고 한다. 경찰은 현재 운영진급 인물 7명도 추가 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;2022년 8월 개설된 AVMOV는 가입자 수가 54만명에 이르는 대형 불법 사이트다. 이용자들이 가족·지인·연인 등을 몰래 촬영한 영상을 공유하거나, 포인트를 결제해 불법 촬영물을 내려받는 방식으로 운영됐다. 현재 사이트는 접속 차단된 상태다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 이재명 대통령은 지난 12일 자신의 X(옛 트위터)에 관련 기사를 공유하며 “이제는 이런 짓을 하고 해외로 숨어도 강제 귀국시켜 반드시 엄벌한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“기후 위기 공동 대응”...자연의권리찾기·기후변화센터 업무협약</title>
+      <link>https://www.chosun.com/national/regional/2026/05/13/46SITTV3CVH6NMMKLYSW2SCT4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/13/46SITTV3CVH6NMMKLYSW2SCT4E/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 10:01:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIVMXQDN2NHB5B37AQ3U6664ZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;자연의권리찾기와 기후협력센터 관계자들이 업무협약을 체결한 뒤 기념사진을 촬영하고 있다. /자연의권리찾기 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후 위기를 주제로 한 영화제인 ‘하나뿐인 지구영상제’를 주관하는 ‘자연의권리찾기’가 기후 교육에도 나선다. 자연의권리찾기는 13일 기후·환경 전문 기관인 ‘기후변화센터’와 기후 위기 공동 대응을 위한 업무협약을 체결했다고 밝혔다.&lt;br&gt;&lt;br&gt;두 기관은 기후·환경 콘텐츠 기반 대중 확산 프로그램 공동 기획, 시민 대상 기후 위기 인식 제고 교육, 기후 대응 정책 제언 등 다양한 분야에서 협력하기로 했다.&lt;br&gt;&lt;br&gt;올해로 5회째를 맞이한 ‘하나뿐인 지구영상제’는 이번 협약을 통해 영화를 상영하는 행사를 넘어 시민들이 기후 위기의 심각성을 느끼게 하고, 기후 행동에 동참하게 만드는 글로벌 환경 플랫폼으로 성장한다는 계획이다.&lt;br&gt;&lt;br&gt;장제국 자연의권리찾기 이사장(동서대 총장)은 “작은 한 편의 영화가 한 사람의 생각을 바꾸고, 그 생각이 세상을 바꾸는 힘이 된다고 믿는다”며 “기후변화센터와의 협력은 ‘하나뿐인 지구영상제’가 더 많은 시민의 실천적 기후 행동으로 이어지는 결정적인 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;최재철 기후변화센터 이사장은 “기후 위기 대응은 정책과 기술을 넘어 시민들의 공감과 참여로 완성된다”며 “문화 콘텐츠를 매개로 더 많은 시민이 기후 행동에 동참할 수 있도록 힘쓰겠다”고 했다.&lt;br&gt;&lt;br&gt;자연의권리찾기는 지난달 20일 부산시교육청과 업무협약을 체결하는 등 미래 세대를 위한 기후 교육 활성화에도 박차를 가하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘삼성전자 갑질’ 美 브로드컴, 공정위 186억 과징금 불복해 소송 냈으나... 패소</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/13/H6V4LLVI6FEXNAN2VMUMKHRW5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/13/H6V4LLVI6FEXNAN2VMUMKHRW5Y/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 09:49:08 +0000</pubDate>
+      <content:encoded>삼성전자를 상대로 불리한 계약 체결 요구 등 갑질을 했다는 의혹이 제기돼 공정거래위원회로부터 과징금 186억여 원을 부과 받은 미국 반도체 기업 브로드컴이 취소 소송을 냈으나 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSAPFRMQ3BGSPO2TUSHZPEB4TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 행정6-1부(재판장 김민기)는 13일 브로드컴이 공정위를 상대로 낸 시정명령 및 과징금 납부 명령 취소 소송에서 브로드컴 측 청구를 모두 기각하고 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;이 사건은 공정위가 2023년 9월 브로드컴에게 공정거래법을 위반했다며 과징금 186억원을 부과한 게 발단이 됐다. 공정위에 따르면, 브로드컴은 2019년 12월부터 치밀한 장기계약 체결 전략을 세워 삼성전자를 압박했다. 브로드컴 CEO는 ‘내가 증오하는 경쟁사(myhatedcompetitor)와 계약한 것에 실망했다’고 삼성전자 대표이사에게 이메일을 보냈고, 2020년 2월부터는 공급을 재검토하겠다며 구매 주문을 받지 않았다. 브로드컴은 이어 부품 선적과 기술 지원도 중단했다.&lt;br&gt;&lt;br&gt;압박이 이어지자 삼성은 한 달 만에 계약에 서명했다. 2021년부터 3년간 매년 브로드컴이 만드는 부품을 최소 7억6000만달러어치 구매하고, 이를 지키지 못할 경우 차액을 배상하는 조건이었다. 계약 결과 삼성전자는 ‘갤럭시 S21′ 스마트폰에 계획과 달리 브로드컴 부품을 탑재해야 했다. 또 삼성전자는 구매 금액 조건을 맞추기 위해 다음 해 물량을 선구매하는 등 8억달러 부품을 강매당하다시피 했다고 한다.&lt;br&gt;&lt;br&gt;브로드컴 측은 2023년 11월 공정위 처분에 불복해 소송을 냈다. 재판 과정에서 브로드컴 측은 “삼성전자를 상대로 불이익을 준 적이 없다”고 주장했다. 그러나 재판부는 “브로드컴이 계약을 통해 삼성전자에 불이익을 준 점이 인정된다”고 했다. 또 공정위가 브로드컴이 ‘매우 중대한 위반 행위’를 저질렀다고 보고 매출액의 2.0%를 과징금으로 부과한 것 역시 문제가 없다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>과격행동 아동 팔 잡아 멍들게 한 유치원 교사...1심 벌금형, 2심 판단은</title>
+      <link>https://www.chosun.com/national/regional/2026/05/13/Q7YTFKYCVZEY3FZ7ZR7WNRGOSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/13/Q7YTFKYCVZEY3FZ7ZR7WNRGOSU/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 09:38:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCDUZU42UZDPPAYLO6U3F5GYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시의 한 유치원 교사가 ‘과격한’ 행동을 하는 아동을 제지하다 팔에 멍이 들게 한 혐의로 1심에서 벌금형을 받은 사건과 관련, 전교조 세종지부가 항소심 재판부에 선처해 줄 것을 촉구하고 나섰다.&lt;br&gt;&lt;br&gt;13일 대전지법 형사4부(구창모 부장판사) 심리로 유치원 교사 A씨의 아동학대 범죄의 처벌 등에 관한 특례법 위반(아동시설 종사자 등의 아동학대 가중 처벌) 혐의 사건의 항소심 공판이 열렸다. A씨는 2023년 세종시 한 유치원에서 당시 6세인 B양에게 “울면 놀이터에서 못 논다. 아무리 화가 나도 친구나 선생님을 때리면 안 된다”고 말했는데, B양이 울며 양팔을 휘두르는 등 과격한 행동을 한다는 이유로 양팔을 강하게 붙잡아 팔에 멍이 들게 한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 “학대의 고의가 없었고, 피해 아동과 다른 원아들의 안전을 위한 정당한 행위였다”고 주장했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피해 아동의 잘못된 행동에 대해 적절한 훈육이 필요한 상황이었더라도 피고인의 행위가 정당한 보육 내지 훈육 행위로서 사회 통념상 객관적 타당성을 갖췄다고 보기 어렵다”며 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;1심 선고 후 전교조 세종지부는 “교사의 정당한 교육 활동을 보호하라”며 반발했고, A씨에 대한 징계는 보류된 상태다.&lt;br&gt;&lt;br&gt;A씨 변호인은 항소심에서 “사회 통념상 용인될 수 있는 훈육 행위이자 교육 활동의 일환으로 이뤄진 행위였다”며 “피해 아동 및 주변 원아들의 신체 안전이라는 보호 법익은 제지로 인해 발생한 경미한 멍이라는 침해의 법익보다 현저히 우월하다”고 주장했다. 그러면서 “여러 차례 언어적 제지에 불응하고 행동이 격화하자 최후 수단으로 신체적 제지를 사용한 것”이라고 했다.&lt;br&gt;&lt;br&gt;A씨 변호인은 또 원심이 판결 근거로 삼은 법 규정인 유아교육법 시행령의 특정 조항이 사건 발생 이후인 2024년 2월 신설됐다는 점을 지적했다. 이를 소급 적용해 피고인에게 불리한 판단을 내린 것은 잘못이라는 입장이다.&lt;br&gt;&lt;br&gt;A씨도 “피해 아동과 다른 원아들을 위험으로부터 지키고자 한 행동이었는데, 신체 학대로 유죄 판결이 내려져 당혹스럽다”며 “억울한 사정을 잘 살펴주셔서 현명한 판단을 내려주셨으면 감사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;반면 검찰은 원심에서 무죄로 판단한 혐의까지 유죄라고 주장하며 A씨에게 징역 6개월을 구형했다. 1심 재판부는 A씨가 피해 아동을 때려 볼에 멍이 들게 한 혐의에 대해 “검사가 제출한 증거만으로는 혐의가 입증되지 않았다”며 무죄로 봤다.&lt;br&gt;&lt;br&gt;전교조 세종지부는 이날 대전지법 앞에서 기자회견을 열고 “1심의 유죄 판결은 서이초 사건 이후에도 달라지지 않은 학교 현실을 적나라하게 보여준 것”이라며 “이런 판결은 교사들에게 ‘어떤 상황에서도 개입하지 말라’는 메시지로 받아들여지고, 결국 학교 현장의 심각한 교육 위축으로 이어진다”고 했다. 이어 “재판부가 부디 교육 현장에 미칠 영향을 깊이 고려해 무죄를 선고해 달라”고 촉구했다. A씨에 대한 2심 선고는 다음 달 17일 열릴 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“임신했다” 속여 남자친구 돈 1000만원 뜯은 20대 女</title>
+      <link>https://www.chosun.com/national/regional/2026/05/13/UEWMIW7PSNGUBMNVMWX6CRSPOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/13/UEWMIW7PSNGUBMNVMWX6CRSPOU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 09:17:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTFIDBVGP5GQ3NWGQVXFK24DII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임신했다고 속여 남자 친구에게서 수천만원을 뜯은 혐의로 재판에 넘겨진 20대 여성이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 부산지법 형사6단독 김민지 부장판사는 사기와 공갈 미수 혐의로 기소된 20대 여성 A씨에게 징역 10개월에 집행유예 2년을 선고하고, 40시간의 사회봉사를 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 9~12월 남자 친구인 20대 B씨에게 임신했다고 속여 병원비와 중절 수술 비용 명목으로 26차례에 걸쳐 1039만원을 뜯은 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 1년 전인 2023년 9월 평소 알고 지내던 B씨에게 의도적으로 접근해 연인 관계로 발전한 뒤 임신을 빌미로 돈을 챙길 계획을 세웠다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 교제를 제안한 바로 다음 날 성관계를 했고 “콘돔에 구멍이 난 것 같아 병원에 가야겠다”며 돈을 받아내기 시작했다.&lt;br&gt;&lt;br&gt;A씨는 또 B씨에게 “가족에게 알리겠다”고 협박하며 임신 중절 수술 부작용에 대한 보상금으로 300만원을 추가로 뜯어내려다 미수에 그친 혐의도 받는다.&lt;br&gt;&lt;br&gt;이 외에도 A씨는 100만원짜리 명품 지갑을 크리스마스 선물로 주겠다고 속여 B씨에게 60만원 상당의 지갑을 받아낸 혐의도 있다.&lt;br&gt;&lt;br&gt;김 부장판사는 “피고인은 연인 관계였던 피해자에게 임신 중절 수술비 명목으로 돈을 편취하는 등 죄질이 불량하다”며 “다만 뒤늦게나마 600만원을 주고 합의해 피해자가 피고인에 대한 처벌을 원하지 않는 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수입 SUV 훔쳐 운전한 겁 없는 초등생 3명 검거</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/13/NXDH74AVYZEUXM4WZUCR4V3YOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/13/NXDH74AVYZEUXM4WZUCR4V3YOA/</guid>
+      <dc:creator>천안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 09:02:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4TMOLDMY4DIZDCGZTGIY3CMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안동남경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훔친 차를 몰고 돌아다닌 초등학생들이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 천안동남경찰서는 특수절도 및 도로교통법 위반(무면허 운전) 혐의로 A군 등 초등학생 3명을 붙잡아 조사하고 있다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 이날 오전 7시 20분쯤 충남 천안시 동남구 한 아파트 지하 주차장에서 수입 스포츠유틸리티차(SUV)를 훔쳐 운전한 혐의를 받는다.&lt;br&gt;&lt;br&gt;“차량을 도난당했다”는 신고를 받고 출동한 경찰은 인근 한 초등학교 부근에서 “초등학생이 차를 운전해 돌아다니고 있다”는 신고가 잇따라 접수되자 추적에 나섰다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 9시 45분쯤 천안 동남구 신부동 도로에서 차량을 운전한 A군을 현행범으로 체포했다. A군과 함께 범행을 벌인 다른 초등학생 2명은 차에서 내려 도주했지만, 오후 3시 25분쯤 거리에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;A군 등은 잠겨있지 않은 차량 문을 열고 들어갔다가 시동이 걸리자 그대로 운전해 달아난 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 차량 운행 중 도로 가드레일을 들이받는 사고를 냈지만 인명 피해는 없었던 것으로 알려졌다. 경찰은 A군 등을 상대로 정확한 범행 경위를 확인하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법정 구속된 30대 男 자해… 소방 당국, 병원 이송</title>
+      <link>https://www.chosun.com/national/incident/2026/05/13/W4T3AIJU3REOJGN3YGF7PPMEB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/13/W4T3AIJU3REOJGN3YGF7PPMEB4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 07:46:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBHFNJMPTBCKRE2HZOPH7DOVPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천지법 청사 전경. /인천지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지법에서 법정 구속된 피고인이 자해를 시도해 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;13일 인천소방본부 등에 따르면 이날 오후 2시 23분쯤 인천 미추홀구 인천지법에서 30대 남성 A씨가 목 부위를 자해해 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;119 신고를 받고 출동한 소방 당국은 바닥에 누운 채 교도관들로부터 응급처치를 받고 있던 A씨를 인근 병원으로 이송했다. &lt;br&gt;&lt;br&gt;A씨는 현재 응급 치료를 받고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;당시 준강제추행미수 혐의로 실형을 선고받고 법정 구속된 A씨는 피고인 대기실에서 자신이 갖고 있던 접이식 흉기로 자해한 것으로 파악됐다. 이른바 ‘맥가이버 칼’ 형태의 이 흉기에는 열쇠 등이 함께 달려 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;법원 건물에 들어갈 땐 출입문에서 보안 검색 과정을 거친다. 흉기 등 위험물을 가지고 들어갈 수 없다. &lt;br&gt;&lt;br&gt;인천지법 관계자는 “엑스레이 등을 활용한 검색 과정에서 (흉기가) 잘 걸러지지 않은 것으로 보이지만 아직 (경위가) 확실치는 않다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전광훈 측 “출국금지 조치는 도피 우려 낙인 찍는 것”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/13/XJICN46GGBFINJAF2OHFPL2F4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/13/XJICN46GGBFINJAF2OHFPL2F4U/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 08:46:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JM2KKUOK6ZN3ZFNIHI3XTCMFYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사랑제일교회 전광훈 목사가 11일 서울 성북구 사랑제일교회에서 열린 기자회견에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전광훈 사랑제일교회 목사 측이 “출국 금지 처분을 풀어달라”며 법무부 장관을 상대로 낸 집행정지 신청에 대한 법원 심문이 13일 열렸다. 전 목사는 서울서부지법 난동 사태와 관련해 구속됐다가 보석으로 풀려난 상태다. 이날 전 목사 측 법률 대리인은 “출국 금지 조치는 도피 우려가 있다는 낙인을 찍는 행위”라는 취지라고 주장했다.&lt;br&gt;&lt;br&gt;수원지법 행정1부(재판장 박성규)는 이날 오후 전 목사가 법무부 장관을 상대로 낸 출국 금지 처분 집행정지 사건 심문 기일을 열었다. 이날 심문은 비공개로 진행됐다. 전 목사는 출석하지 않았다.&lt;br&gt;&lt;br&gt;전 목사 측 변호인은 심문이 끝나고 취재진에게 “사건 공범으로 지목된 7명이 전 목사와 관련 없이 (법원에) 들어간 것이라고 하는 등 교사 혐의가 없다”며 “건강 상태도 좋지 않아 도피할 상황이 아니고 얼굴이 알려진 인물이라 도피 위험이 현저히 낮다고 평가된다”고 했다. 또 “(출국 금지가) 해외 도피 우려가 있다는 잘못된 인식을 국민에게 심어줄 수 있어 부당하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 목사는 지난해 1월 서울서부지법 난동 사태와 관련해 윤석열 전 대통령 지지자들이 법원에 난입해 집기를 부수고 경찰을 폭행하도록 조장한 혐의(특수공무집행방해 교사 등)로 같은 해 8월 경찰 수사를 받으면서 출국 금지 조치를 당했다. 전 목사는 작년 2월 3일 이 혐의로 구속 기소됐다가, 지병을 이유로 4월 7일 보석 석방됐다.&lt;br&gt;&lt;br&gt;이 과정에서 출국 금지 조치가 내려지자, 전 목사 측은 지난달 23일 출국 금지를 풀어달라며 법무부 장관을 상대로 가처분 신청을 냈다. 이와 함께 출국 금지 조치 처분 취소에 대한 행정소송도 제기했다.&lt;br&gt;&lt;br&gt;법무부 측 변호인은 “전 목사의 혐의가 중대하다”는 취지로 출국 금지 처분이 계속돼야 한다고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가로수 베어내고 소나무 새로 심은 마포구…서울시 감사서 ‘위법’ 적발</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/13/VBY6HNSAPFHM3MML4FEAG42P2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/13/VBY6HNSAPFHM3MML4FEAG42P2M/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 07:56:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKLW2CV4KJDGZGK5I3DJGMVFZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구의 한 소나무에 걸린 안내문. /이건송 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기존 가로수를 베어내고 그 자리에 소나무를 새로 심은 서울 마포구의 사업에서 일부 위법이 있었다는 서울시 감사 결과가 나왔다.&lt;br&gt;&lt;br&gt;13일 서울시 등에 따르면, 시 시민감사옴부즈만위원회는 지난 8일 이 같은 내용의 ‘품격 있는 녹색 특화 거리 조성 사업’ 감사 결과를 발표했다. 작년 9월 마포구 주민 505명이 “마포구가 사업을 추진하는 과정에서 법·조례 등이 정한 기준을 준수하지 않았다”며 감사를 청구한 지 약 8개월 만이다.&lt;br&gt;&lt;br&gt;위원회는 “삼개로 구간에서 관리청의 승인 없이 시공사가 기존 가로수를 제거한 것은 법령 위반”이라고 지적했다.&lt;br&gt;&lt;br&gt;‘도시숲 등의 조성 및 관리에 관한 법률(도시숲법)’에 따르면, 외부 시공사가 가로수를 제거하고 심으려면 관리청의 사전 승인과 관리·감독이 필요하다. 그러나 위원회는 삼개로 구간에서 시공사가 관리청의 승인 없이 기존 가로수를 제거하고 새 나무를 심은 것으로 확인했다. 그 과정에서 마포구가 이를 사전에 통제하거나 승인하지도 않았다. 위원회는 다만 “현재 수사기관에서 수사가 진행 중인 점을 고려할 때 최종 판단은 수사 결과를 지켜볼 필요가 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 위원회는 마포구가 도시숲 심의위원회의 심의 결과에 따르지 않고 사업을 추진한 것 역시 법령에 따른 절차를 위반한 것으로 봤다. 지방자치단체장은 도시숲법에 따라 심의위원회 심의 결과를 반영해 가로수 조성 사업을 추진해야 한다.&lt;br&gt;&lt;br&gt;심의 결과에 따르면, 마포구는 마포대로에 있는 양버즘나무 33그루를 베어내고 소나무 117그루를 심어야 했다. 그런데 마포구는 양버즘나무 82그루를 베어내 심의 결과보다 49그루 더 많이 베어냈다. 소나무는 심의 결과보다 37그루 많은 154그루를 심었다.&lt;br&gt;&lt;br&gt;위원회는 이를 두고 “단순한 현장 오차의 범위를 넘어 사업의 규모·내용을 실질적으로 변경하는 것”이라며 “심의 결과를 준수하지 않은 절차상 위법 요소가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;다만 위원회는 가로수 교체 사업 자체에 대해선 “가로수 정비가 일정 부분 재량 행위에 해당하는 점을 고려할 때, 이를 중대한 법령 위반으로 단정하기는 어렵다”며 “기준의 합리성과 엄정성이 부족한 부당·미흡 행정 처리로 판단한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“밝은 웃음 선사하고 싶었다”...소아암 환자 위해 머리카락 기부한 여군 장교</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/13/D7CAMHODWVHCBAALY5UE33Q53Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/13/D7CAMHODWVHCBAALY5UE33Q53Q/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 07:27:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTOMBSGEZTANBZMI3WEMBWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육군 제53사단 부산여단 17해안감시기동대대 이예담 대위./육군 제53보병사단 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소아암 환자를 돕기 위해 2년간 기른 머리카락을 기부한 육군 여군 장교의 사연이 알려졌다.&lt;br&gt;&lt;br&gt;13일 육군 제53보병사단 부산여단에 따르면 17해안감시기동대대 소속 이예담 대위는 가정의 달을 맞아 머리카락 35㎝를 어머나운동본부에 기증했다.&lt;br&gt;&lt;br&gt;어머나운동본부는 어린 암 환자를 위한 머리카락 나눔 운동을 하는 단체다.&lt;br&gt;&lt;br&gt;이 대위의 모발 기부는 이번이 세 번째다. 그는 고등학생이던 2014년 처음 모발을 기부한 뒤 기부를 이어왔다.&lt;br&gt;&lt;br&gt;이 대위는 건강한 모발을 기부하기 위해 지난 2년 동안 꾸준히 머리카락을 관리해온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대위는 “항암치료로 어려움을 겪고 있는 분들에게 밝은 웃음과 행복을 선사하고 싶었다”며 “군 생활 동안 타인과 더불어 살며 도움을 주고 싶어 모발을 기부했다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “앞으로도 모발 기부 외에 지역사회에 헌신할 수 있는 다양한 나눔·봉사·기부 활동에도 적극 동참하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NFJUITILCFA7VOP7HNDHY46LFI.jpg?auth=d5d6867c36fc736744baaae29e51798817628c8a4db374ce584d9e57d970d8b1&amp;smart=true&amp;width=404&amp;height=227" type="image/jpeg" height="227" width="404">
+        <media:description type="plain">육군 제53사단 부산여단 17해안감시기동대대 이예담 대위</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 14일 목요일 (음력 3월 28일 戊子)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/13/LKO22NZBNBC2BCDF2VCIMRBLJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/13/LKO22NZBNBC2BCDF2VCIMRBLJA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>애인 살해하고 시신 유기한 20대, 무기징역… “돈 노린 반인륜적 범죄”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/13/NZQAB3WVUVBL3N44ZQMEPVGHIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/13/NZQAB3WVUVBL3N44ZQMEPVGHIM/</guid>
+      <dc:creator>안산=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 May 2026 06:47:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYGEZBVHBSTSN3EG4YDGOLBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈을 가로챌 목적으로 만난 지 한 달 된 여자 친구를 살해한 뒤 시신을 유기한 20대 남성에게 무기징역이 내려졌다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 형사1부(재판장 정경희)는 13일 강도살인 혐의를 받는 A씨에게 무기징역을 선고하고, 20년간 위치추적 전자장치 부착을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 28일 오후 9시 40분쯤 경기 안산시 단원구 한 주택가에 주차한 자신의 차량에서 여자 친구인 20대 B씨를 살해한 혐의를 받는다. 그는 또 B씨 시신을 포천시 고속도로 인근에 유기하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 “연인 간 말다툼을 벌이다가 범행했다”고 진술하는 등 우발적으로 범행했다는 취지로 주장했다. 그러나 검찰은 차량 블랙박스와 휴대전화 포렌식, 금융 정보 내용 분석 등을 통해 A씨가 B씨의 돈을 빼앗을 목적으로 범행한 것으로 봤다. 검찰은 A씨에게 강도살인죄를 적용했다. 강도살인죄는 일반 살인죄보다 법정형이 더 높다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 B씨의 휴대전화를 통해 계좌에서 수천만 원을 빼내려다 실패했고, 카드 대출을 받으려고도 한 것으로 조사됐다. 당시 A씨는 불법 온라인 도박 빚이 있었고, B씨와는 한 달째 교제 중이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 우발적 범행이라고 주장하지만 증거에 따르면 피고인은 경제적 어려움을 겪던 중 피해자의 계좌에 수천만원이 있다는 사실을 우연히 알게 된 뒤 피해자를 살해하고 돈을 가로챌 마음을 먹은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “강도살인은 경제적 이익을 위해 타인의 생명을 빼앗는 반인륜적 범죄로, 피고인의 범행으로 피해자의 앞날은 송두리째 사라졌고 유족이 받았을 정신적 충격과 비통함은 가늠할 수 없다”며 “피고인이 범행으로 취한 금전적 이득이 없다는 점을 감안하더라도 영구히 격리해야 할 필요성이 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“반도체 이익 나누자” 좌담회 앞두고 살해 협박…경찰 출동</title>
       <link>https://www.chosun.com/national/national_general/2026/05/13/CID6YHAM4JDZVAXW6PODAA4G3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/13/CID6YHAM4JDZVAXW6PODAA4G3M/</guid>
@@ -790,24 +903,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2U54YXPWCJEDROJ3RXOFDVTCA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경산의 한 경로당을 방문한 대구가톨릭대 유학생 봉사단 학생들이 어르신들에게 준비한 음식에 담긴 문화적 의미를 소개하고 있다./대구가톨릭대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 28일 정오쯤 경북 경산시 하양읍 한 경로당. 히잡 등을 쓴 외국인 유학생들이 도시락을 들고 이곳을 찾아왔다. 이들은 파키스탄, 베트남, 인도 등에서 대구가톨릭대에 유학 온 학생들로, 도시락 안에는 각국의 전통 음식인 인도 커리, 베트남 쌀국수 등이 담겨 있었다. 유학생들은 자신들이 만들어 온 각 나라의 대표 음식을 어르신들과 함께 나누며 음식에 담긴 문화적 의미와 문화도 소개했다. 이들은 어르신들과의 식사 이후 윷놀이와 만국기 딱지치기 등 한국 전통 놀이 프로그램도 함께 즐겼다. 이날 경로당에 있던 어르신 12명은 손주 또래의 낯선 외국인 유학생의 식사 대접에 미소로 화답했다. &lt;br&gt;&lt;br&gt;이날 봉사 활동에 참여한 페리(28·타지키스탄·대구가톨릭대 대학원 호텔관광학과)씨는 “고국의 음식을 어르신들과 나눌 수 있어 뜻 깊었고, 한국의 문화와 온정을 경험할 수 있는 의미있는 시간이었다”고 말했다. &lt;br&gt;&lt;br&gt;대구가톨릭대는 경산시자원봉사센터와 연계해 최근 경북 경산 한 경로당을 찾아 ‘맛으로 잇고, 마음으로 담은 글로벌 식탁 in 경산’ 프로그램을 진행했다고 12일 밝혔다. 이 프로그램은 유학생과 지역 주민이 함께 어울리는 문화 교류형 봉사활동 중 하나다. &lt;br&gt;&lt;br&gt;이날 활동을 위해 대구가톨릭대 식품영양학과 재학생들로 구성된 ‘K-멘토’는 외국인 유학생의 식재료 준비부터 조리, 위생 관리까지 전 과정에 참여해 전공 역량을 발휘했다. 유학생들은 전통 음식 조리법과 정성을 더해 도시락을 완성했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLO3JTPRYNEQ7C3YH4Q5YAUCQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구가톨릭대 유학생 봉사단 학생들이 학교 내 조리시설에서 어르신들에게 선물할 각국의 전통 음식을 만들고 있다. /대구가톨릭대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구가톨릭대 이경아 교수(식품영양학과장)는 “이번 프로그램은 식품영양학 전공 역량을 지역사회 봉사와 문화 교류로 확장한 의미 있는 활동이었다”며 “학생들이 조리와 위생 관리, 식문화 이해를 바탕으로 지역 어르신들과 유학생을 연결하는 역할을 수행했다는 점에서 매우 뜻깊다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘가짜 차용증’으로 수사받자 경찰에게 돈다발 보낸 80대 실형</title>
-      <link>https://www.chosun.com/national/regional/2026/05/12/55UOTKYOLVA6TPXTMOD33QZKDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/12/55UOTKYOLVA6TPXTMOD33QZKDI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 06:21:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQWKY3CGJSWIZRVMU4DANZRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무고 혐의로 수사받게 되자 담당 경찰관을 매수하려고 현금다발을 보낸 80대에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 부산지법 서부지원 형사1부(재판장 나원식)는 무고와 뇌물공여, 사문서위조, 위조사문서행사 등 혐의로 기소된 A씨에게 징역 1년 8개월을 선고하고, 뇌물로 건네려 한 현금 1000만원을 몰수했다.&lt;br&gt;&lt;br&gt;A씨는 작년 5월 자신의 가게에서 일했던 종업원 2명이 2700만원을 빌린 뒤 이를 갚지 않았다며 경찰에 고소했다. 당시 그는 차용증을 증거로 제출했다. 하지만 경찰 수사 과정에서 A씨가 제출한 차용증은 모두 위조된 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 작년 9월 경찰로부터 무고 피의자로 출석할 것을 요구받자 수사를 무마하기 위해 두 차례에 걸쳐 택시 기사를 통해 현금 1000만원과 12만원 상당의 과일을 담당 수사관에게 보냈다. 그는 뇌물을 건네며 첨부한 편지에 “건강이 좋지 않아 출석하지 못한다”는 내용과 함께 추가 뇌물 공여를 암시할 수 있는 문구도 적었다.&lt;br&gt;&lt;br&gt;법정에서 A씨는 차용증을 위조하지 않았다고 주장했지만, 재판부는 받아들이지 않았다. &lt;br&gt;&lt;br&gt;재판부는 “피해자들을 사기죄로 고소하면서 신고 내용이 진실인 것처럼 가장하기 위해 수차례 사문서를 위조해 행사하는 등 죄책이 무겁다”면서 “또 경찰에게 뇌물을 준 범행은 사회적 신뢰를 훼손하는 중대한 범죄로 엄하게 처벌할 필요가 있다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10년간 미용 봉사해온 70대 여성, 생명 나누고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/12/WJ5MMRDH6JHDNHKMY6QNO5ZMBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/12/WJ5MMRDH6JHDNHKMY6QNO5ZMBQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 06:21:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZQT4ECGKNF2JA2Q5WW7XTKDTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 김용분 씨가 남편 오지환 씨와 바닷가에서 작은 결혼식을 하고 있는 모습. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10여 년간 노인들을 대상으로 미용 봉사를 해온 70대 여성이 뇌사 장기기증으로 생명을 나누고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;12일 한국장기조직기증원은 지난 3월 6일 이대서울병원에서 김용분(76)씨가 뇌사 장기기증으로 2명의 환자에게 간과 신장을 나누고 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 1월 27일 갑작스러운 뇌출혈로 쓰러져 병원으로 이송됐으나 끝내 회복하지 못하고 뇌사 상태에 빠졌다. 가족들은 생전 고인의 뜻에 따라 장기기증을 결심했다. &lt;br&gt;&lt;br&gt;남편 오지환 씨는 아내가 생전에 생명나눔 약속을 수차례 했다며 “한 사람이라도 더 살리고 싶어했던 아내의 선한 마음을 따랐다”고 했다.&lt;br&gt;&lt;br&gt;서울에서 6남매 중 장녀로 태어난 김씨는 어려운 가정 형편 탓에 학업을 뒤로하고 일찍 생업에 뛰어들었다. 20대 중반에 남편 오씨와 결혼해 3남매를 낳아 키웠다. 남편이 개척교회를 세우고 25년간 목사의 길을 걷는 동안 묵묵히 곁을 지키며 든든한 조력자 역할을 했다. &lt;br&gt;&lt;br&gt;고인은 생전 나눔의 삶을 몸소 실천했다. 미용 기술을 배워 10여 년간 노인들을 대상으로 미용 봉사를 했으며 요양보호사 자격을 취득해 이웃을 돌보는 데에도 앞장섰다.&lt;br&gt;&lt;br&gt;남편 오씨는 아내와의 가장 행복했던 기억으로 몇 년 전 해외에 사는 딸 부부의 초대로 함께 떠난 여행을 꼽았다. 당시 딸 부부는 과거 결혼식을 제대로 올리지 못했던 부모님을 위해 바닷가에서 작은 결혼식을 열어주었다. &lt;br&gt;&lt;br&gt;오씨는 아내에게 “못난 남편 만나 경제적으로 부족하게 지내 마음이 너무 아프고 애절해서 눈물만 난다”며 “여보, 꿈에서라도 한번 만나고 싶다. 나중에 천국에서 다시 만나자. 사랑한다”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“삼린이 위해 추모하자”… 주왕산 숨진 초등생에 팬들 애도 물결</title>
       <link>https://www.chosun.com/national/national_general/2026/05/12/2UK4OBUTANDMTDTGCXZMW6NFNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/12/2UK4OBUTANDMTDTGCXZMW6NFNY/</guid>
@@ -845,24 +940,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘승소’ 이승환, 구미시장에 사과 요구… “형, 잘못했어요 한마디면 될 일”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/12/HKBWCJZPSVDFVMITMM2JPI46CY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/12/HKBWCJZPSVDFVMITMM2JPI46CY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 05:31:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PMF726AK7KRI3SVQ7W2B35PXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 이승환. /드림팩토리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 이승환이 구미시의 공연 취소와 관련한 손해배상 소송 1심에서 일부 승소한 뒤 김장호 구미시장을 향해 공개 사과를 요구했다.&lt;br&gt;&lt;br&gt;이승환은 11일 인스타그램을 통해 “4년 더 산 형으로서 감히 충고와 제안을 드리고자 한다”며 김 시장을 향해 사과를 요구했다.&lt;br&gt;&lt;br&gt;그는 “‘형, 제가 잘못했습니다’ 이 솔직한 한마디면 될 일”이라며 “정치는 기술, 기만이 아니고 진심과 진실이기 때문”이라고 했다. 이어 “솔직한 한마디만 하신다면, 저는 피고 김장호를 포함해 1심 판결 전부를 수용할 것”이라며 “피고 김장호는 저 짧은 사과로 자신에 대한 배상 책임을 피할 수 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이승환은 사과 여부와 별개로 항소하지 않겠다는 입장도 밝혔다. 그는 “이미 낭비된 구미시의 세금과 행정력, 그리고 추락한 대내외적인 신뢰를 더 이상 방치해서는 안 될 것”이라며 “그러한 판단 속에 저는 피고 구미시에 대해서는 김장호의 사과 여부와는 별개로 항소하지 않을 것”이라고 했다. 이어 “구미시가 1심 판결 이상의 배상 책임을 부담하는 것을 원치 않기 때문”이라며 “이미 약속했듯 저와 드림팩토리에 대한 배상금 또한 법률 비용을 제외한 모든 금액을 구미시 ‘우리 꿈빛 청소년 오케스트라’에 기부할 것”이라고 했다.&lt;br&gt;&lt;br&gt;끝으로 “구미시장으로서 마지막 자존심을 지키시기 바란다”며 김 시장을 향해 거듭 사과를 요구했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 민사913단독 박남준 부장판사는 8일 이승환과 소속사 드림팩토리클럽, 공연 예매자 100명이 구미시와 김장호 구미시장을 상대로 낸 2억5000만 원 규모 손해배상 청구 소송에서 “구미시는 이승환에게 3500만 원, 드림팩토리클럽에 7500만 원, 예매자 100명에게 각 15만 원을 지급하라”며 원고 일부 승소 판결했다.&lt;br&gt;&lt;br&gt;이번 사건은 구미시가 2024년 12월 25일 예정됐던 이승환의 구미시문화예술회관 콘서트를 공연 이틀 전에 취소하면서 불거졌다. 당시 이승환이 다른 지역 공연에서 윤석열 전 대통령 탄핵소추안 의결과 관련해 “탄핵이 되니 좋다. 앞으로 편한 세상이 될 것 같다”고 발언한 뒤 지역 시민단체들이 공연 반대 집회를 예고한 상황이었다. 구미시는 이승환 측에 ‘정치적 선동 및 오해 등의 언행을 하지 않겠다’는 내용의 서약서를 요구했지만, 이승환 측이 이를 거부하자 공연 이틀 전 대관을 취소했다. 이후 이승환과 소속사, 공연 예매자들은 “대관 취소로 공연이 무산되면서 정신적·재산상 손해를 입었다”며 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심 이후 김 시장은 입장문에서 판결 내용을 공유하며 “저는 시장으로서 시민의 안전에 대해서는 법과 원칙에 따라 물러서지 않을 것”이라며 “앞으로도 시민의 생명과 안전을 최우선으로 생각하고 임하도록 할 것”이라고 했다. 그러면서 “향후 대응에 대해서는 법률 자문을 거쳐 진행해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘부정선거 수사단’ 노상원 징역 2년... 비상계엄 사건 첫 대법원 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/12/P4W4ZU2BVZDMPC6XVDOVHFWO5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/12/P4W4ZU2BVZDMPC6XVDOVHFWO5Y/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 05:34:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRDGMBVMVQTCMTDMMZTCMBXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 국군정보사령관./서울중앙지방법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄을 앞두고 ‘부정선거 수사단’을 꾸리려 한 혐의 등을 받는 노상원 전 국군정보사령관이 12일 대법원에서 징역 2년을 확정받았다. 비상계엄 관련 사건에 대한 첫 대법원 판결이다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 이날 노 전 사령관의 개인정보보호법 위반 및 특정범죄가중처벌법상 알선수재 혐의 사건 상고심 선고를 열고 징역 2년과 추징금 2490만원을 선고한 원심 판결을 상고 기각으로 확정했다.&lt;br&gt;&lt;br&gt;노 전 사령관은 비상계엄 당시 부정선거 의혹을 수사할 제2수사단을 구성하기 위해 2024년 9~12월 정보사에 정예 요원 46명을 선발하도록 하고 인적 사항을 빼낸 혐의(개인정보보호법 위반)를 받았다. 노 전 사령관은 현직 군 간부들에게 진급을 도와주겠다는 명목으로 현금 2000만원과 백화점 상품권 600만원어치를 받은 혐의(알선수재)도 적용됐다. 이 사건은 윤석열 전 대통령, 김용현 전 국방장관과 비상계엄을 사전에 모의했다는 내란 중요 임무 종사 혐의와는 따로 기소된 사건이다. 조은석 내란 특검팀은 지난해 6월 18일 수사를 개시한 뒤 9일 만인 27일 노 전 사령관을 추가 기소했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “노 전 사령관 범행은 실체적 요건을 갖추지 못한 비상계엄이 선포 단계까지 이르게 한 동력 중 하나가 됐다”며 “위헌·위법한 비상계엄 선포라는 중대하고 엉뚱한 결과를 야기했다는 점에서 엄중한 책임을 묻지 않을 수 없다”며 유죄를 선고했다. 2심 재판부는 “비상계엄의 실체적 요건을 갖추지 않은 상황에서 비상계엄 선포를 상정하고, 병력 구성과 구체적 임무를 정하고 이를 준비한 건 그 자체로 위헌·위법한 행위”라며 노 전 사령관의 항소를 기각했다.&lt;br&gt;&lt;br&gt;대법원은 “원심 판단에 논리와 경험의 법칙을 위반하여 자유심증주의의 한계를 벗어나거나, 공소권 남용, 개인정보보호법 위반죄의 성립 등에 관한 법리를 오해한 잘못이 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>최태원 동거인 허위사실 퍼뜨린 유튜버... 법원 “2000만원 배상해야”</title>
       <link>https://www.chosun.com/national/national_general/2026/05/12/I4T3DVIJCJAJNCFFCRCUZTV4YA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/12/I4T3DVIJCJAJNCFFCRCUZTV4YA/</guid>
@@ -872,60 +949,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCWCHNWZA5GBJKL3J6DYICSIQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장과 동거인 김희영 티앤씨재단 이사장. /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장의 동거인 김희영 티앤씨재단 이사가 자신을 비방한 유튜버를 상대로 제기한 소송에서 일부 승소했다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 서울서부지법 민사6단독 이정훈 판사는 지난달 21일 김 이사가 유튜브 채널 운영자 A씨를 상대로 낸 3000만원 손해배상 청구 소송에서 2000만원을 배상하라고 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 8월 두 차례 김 이사의 바이올린 기부에 대한 악의적인 비방 등 김 이사와 모친에 관한 허위 사실을 담은 동영상 2개를 유튜브 채널에 올렸다.&lt;br&gt;&lt;br&gt;이에 김 이사는 “명예와 사생활, 인격권이 심각하게 침해됐고 큰 정신적 고통을 겪고 있다”며 3000만원의 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;법원은 “인터넷을 이용한 명예훼손은 빠른 속도로 불특정 다수에게 확산된다”며 “피고는 이러한 명예훼손을 통해 구독자와 시청자 수를 늘리고 유튜브 시청에 따른 수익을 얻었다”고 지적했다. A씨는 김 이사에 대한 유튜브 채널을 올리며 조회수 50만을 기록했다.&lt;br&gt;&lt;br&gt;또 “A씨가 민사상 손해배상을 부담한다고 하더라도 유튜브 시청자들이 김 이사에 대해 가지게 된 인식이 바뀔 가능성은 높지 않다”고 했다.&lt;br&gt;&lt;br&gt;다만 A씨가 영상을 모두 삭제하고 채널을 폐쇄한 점, 영상에서 언급한 내용이 과거 인터넷에 유포됐던 점을 고려해 배상금을 2000만원으로 정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘일본인 모녀 참변’ 음주운전자, 징역 5년 선고</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/12/J5EYHYNZ6RAQVLUTZTBJIDR2LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/12/J5EYHYNZ6RAQVLUTZTBJIDR2LY/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 05:28:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DEYTGMIZDGNRSMJQWMODDGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도로교통법상 음주운전과 특정범죄가중처벌법상 위험운전치사상 혐의를 받는 서모씨. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심에서 음주운전을 하다 일본인 관광객 모녀에게 돌진해 모친을 숨지게 한 혐의로 기소된 30대 남성이 1심에서 징역 5년을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25단독 이성열 판사는 11일 도로교통법 위반(음주운전) 및 특정범죄가중처벌법상 위험운전치사상 혐의를 받는 30대 서모씨에 대한 선고 재판에서 이같이 선고했다. 음주운전에 사용한 테슬라 차량 1대 몰수도 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 정상 운전이 곤란한 상태에서 자동차를 운전하던 중 신호위반을 하고 횡단보도를 건너던 외국인을 들이받았다”며 “이로 인해 모녀 중 한 명은 사망하고 한 명은 6주 상해를 입는 비극적인 결과를 초래했다”고 했다. 다만 재판부는 서씨가 장례 비용 등을 지불하고, 유족이 피고인에 대한 처벌을 원하지 않은 점 등을 유리한 양형 조건으로 참작했다고 했다.&lt;br&gt;&lt;br&gt;서씨는 작년 11월 소주 3병을 마시고 음준운전을 하던 중 서울 종로구 흥인지문 사거리에서 횡단보도를 건너던 일본인 모녀를 들이받은 혐의로 재판에 넘겨졌다. 이 사고로 어머니인 50대 여성은 숨졌다. 이 모녀는 당시 일본 오사카에서 2박 3일 일정으로 한국을 찾은 관광객이었으며, 여행 첫날 사고를 당했다.&lt;br&gt;&lt;br&gt;지난달 3일 열린 결심 재판에서 검찰은 징역 7년과 음주운전에 사용한 테슬라 차량의 몰수를 구형했다. 검찰은 “유족이 입은 피해는 어떤 금전적 보상으로도 회복할 수 없다”며 “피해자들이 일본 국적이어서 일본 언론에서도 사건이 주목받았고 한국의 낮은 형량을 우려하는 기사들이 잇따랐다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>진보 교육감 후보들 “내신·수능은 절대평가, 특목고는 일반고로 전환하겠다”</title>
-      <link>https://www.chosun.com/national/education/2026/05/12/CMGRLTJW4JFNNNEN3RJDD3557U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/12/CMGRLTJW4JFNNNEN3RJDD3557U/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 05:15:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPSP52PWLVLU5KOCTNPJW6DMPY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 광화문광장에서 열린 '2026 민주진보교육감후보 교육대전환 공동 공약' 발표 기자회견. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거와 함께 치러지는 교육감 선거가 20여일 남은 가운데, 진보 진영 교육감 예비후보들이 ‘내신·수능 절대평가 전환’ ‘특목고 폐지’ 등을 공동 공약으로 발표했다.&lt;br&gt;&lt;br&gt;12일 정근식(서울)·안민석(경기)·임병구(인천) 등 전국 진보 진영 교육감 예비후보 15명은 서울 종로구 광화문광장에서 기자회견을 열고 이 같은 내용을 담은 ‘교육대전환 공동 공약’을 발표했다.&lt;br&gt;&lt;br&gt;후보들이 제시한 공동 공약은 다섯 가지다. 먼저 입시 경쟁 교육을 해소해 공교육 정상화와 학교 혁신을 추진하겠다고 밝혔다. 이를 위해 교육 선진국 수준의 대입 자격고사 도입을 추진하겠다고 했다. 또 늦어도 2030년대 초반까지 상대평가를 폐지하고, 내신과 수능을 절대평가로 바꾸겠다고 했다.&lt;br&gt;&lt;br&gt;과도한 입시 경쟁을 고착화하는 대학 서열 체제를 완화하기 위해 ‘서울대 10개 만들기’ 정책과 연계한 거점국립대 공동학위제 확대, 지역연합대학체제 구축, 지방대학 재정 지원 확대 등을 추진하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;진보 진영에서 꾸준히 주장해 온 고교 평준화도 공동 공약에 포함됐다. 이들은 자사고와 외고, 국제고 등 ‘특권학교’를 일반고로 전환하겠다고 강조했다. 이를 통해 고교 서열화를 해소하고 고교 평준화를 내실화해 학교 간 격차를 줄인다는 것이다.&lt;br&gt;&lt;br&gt;이외에도 교사의 교육권과 교육과정 운영 자율성 보장, 교직원의 정치 기본권 보장, 학생 인권 보호를 위한 법과 조례 개정, 인공지능(AI) 리터러시 교육 강화 등을 약속했다. &lt;br&gt;&lt;br&gt;공동 공약에는 정근식, 안민석, 임병구, 강삼영(강원), 송영기(경남), 이용기(경북), 장관호(전남광주), 임성무(대구), 성광진(대전), 임전수(세종), 조용식(울산), 천호성(전북), 고의숙(제주), 이병도(충남), 김성근(충북) 교육감 후보 등이 참여했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울고법, 법관 사망에 ‘업무부담 경감 TF’ 구성</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/12/ZCTEYQN52RHKZCSI5FNMVR3KJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/12/ZCTEYQN52RHKZCSI5FNMVR3KJM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 05:15:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMAVN4RAABDGBHAMLR243JYNBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 오전 서울 서초구 서울고등법원에서 관계자들이 이동하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법은 김건희 여사 ‘도이치모터스 주가 조작’ 사건 항소심 재판장을 맡았던 고(故) 신종오 서울고법 판사 사망 이후 법관들의 업무 부담을 줄이고 지원 방안을 마련하기 위한 논의체를 구성하기로 했다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 서울고법은 법관들의 업무 부담을 줄이고 지원 방안을 마련하는 한편, 재판 관련 제도 개선 의견을 논의하기 위한 태스크포스(TF)를 꾸리기로 했다. 이는 서울고법 형사15-2부 재판장이었던 신 판사가 지난 6일 서울 서초구 법원 청사에서 숨진 채 발견된 이후 나온 후속 조치다.&lt;br&gt;&lt;br&gt;법원 안팎에선 신 판사가 최근 급격히 늘어난 업무량으로 과로에 시달렸다는 말이 나온다. 신 판사는 지난 2월 부패 사건을 전담하는 서울고법 형사15-2부 재판장으로 부임했다. 같은 달 서울고법 형사1부가 내란전담재판부로 지정되면서 형사15부는 형사1부가 맡고 있던 다른 사건을 모두 넘겨받았다.&lt;br&gt;&lt;br&gt;신 판사는 특히 김건희 여사의 도이치모터스 주가 조작 사건 항소심 재판장을 맡아 빠듯한 재판 일정을 소화하기도 했다. 내란·김건희·순직해병 등 3대 특검법에는 신속한 재판 진행을 위해 1심은 6개월, 2심과 상고심은 각각 3개월 안에 마무리하도록 하는 이른바 ‘6·3·3’ 원칙이 담겼다. 김 여사 사건 역시 형사1부가 맡았던 사건으로, 지난 2월 6일 형사15-2부에 접수됐고 3개월이 채 되지 않은 지난달 28일 선고가 이뤄졌다.&lt;br&gt;&lt;br&gt;공석이 된 서울고법 형사15-2부 재판장은 이희준(46·사법연수원 35기) 고법판사가 맡을 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하차 후 움직이는 차량 세우려다 깔려…70대 남성 사망</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/12/PK4VMRRPRJCOFG7UW6GIAKWO7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/12/PK4VMRRPRJCOFG7UW6GIAKWO7Y/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 05:04:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSIDVVV3GZHV3GCL3XZIG4YJGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시에서 70대 남성이 차에서 내린 뒤 움직이는 차량에 깔려 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;12일 파주경찰서에 따르면, 전날 오후 3시 33분쯤 파주시 공릉천 인근 농로에 70대 남성 A씨가 자신이 운전하던 차를 세웠다.&lt;br&gt;&lt;br&gt;차에서 내린 A씨는 차량 앞쪽에 서 있었는데, 갑자기 차가 앞으로 움직였다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 이를 막아보려 했으나 넘어지면서 결국 앞바퀴에 깔린 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 심폐 소생술을 받으며 병원으로 옮겨졌고 한때 심장 박동이 돌아오기도 했으나 치료 중 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 낚시를 하기 위해 현장을 찾은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 사고 당시 차량 기어가 주차 상태가 아닌 점 등을 토대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유치장서 경찰관 폭행 20대... 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/12/5XTMCBVOXNEPZGRXGW7D6BZBSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/12/5XTMCBVOXNEPZGRXGW7D6BZBSY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 05:35:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXJM7CI677TCT6WQWDMIFGBG2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주흥덕경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유치장 신세를 면하려고 경찰관 3명을 폭행한 20대가 더 엄한 처벌을 받게 될 처지에 놓였다. &lt;br&gt;&lt;br&gt;충북 청주 흥덕경찰서는 유치장에 들어가기 전 절차를 진행하던 중 경찰관 3명을 폭행한 혐의(공무집행방해)로 A씨를 검찰에 불구속 송치했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오전 4시쯤 흥덕경찰서 내 유치장에서 경찰관 3명을 폭행한 혐의를 받는다. A씨 폭행으로 B 경위가 얼굴에 큰 상처를 입어 치료를 받았다. &lt;br&gt;&lt;br&gt;만취 상태였던 A씨는 사건 당일 택시 요금을 내지 않았다가 현행범으로 체포돼 유치장 입감 절차를 진행하고 있었다. A씨는 갑자기 B 경위 등을 폭행한 뒤 달아나려 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “아무것도 기억나지 않는다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 경찰은 A씨에 대한 구속영장을 신청했지만, 검찰은 A씨가 초범이라는 이유 등으로 영장을 반려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “항소하지 않은 혐의, 2심 재판부가 판단하는 건 위법”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/12/7FFGMDIVHFF7DCPGYT3RNNVPTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/12/7FFGMDIVHFF7DCPGYT3RNNVPTA/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 May 2026 04:37:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVBDBC4HFWMEM32HLUEC6FRHTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 항소하지 않아 1심에서 확정된 혐의를 2심 재판부가 심리해서는 안 된다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 전자장치 부착 등에 관한 법률 위반 혐의로 재판에 넘겨진 A씨에게 징역 8개월을 선고한 원심을 파기하고 사건을 제주지법으로 돌려보냈다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2024년 7월 아동·청소년의 성보호에 관한 법률 위반(강제추행) 등 혐의로 징역 1년에 5년간 위치추적 전자장치 부착을 명령받았다. 작년 3월 형 집행을 마치면서 전자장치 부착 기간 혈중알코올농도 0.03% 이상 음주를 하지 말라는 준수사항도 부과받았다.&lt;br&gt;&lt;br&gt;하지만 A씨는 법원의 이같은 명령에 따르지 않고, 2025년 8월 제주시 용담2동의 한 교차로 근처에서 지인 1명과 소주 1병 반을 나눠 마셨다. 이후 A씨는 같은 날 오전 10시 35분쯤 제주보호관찰소 보호서기보 B씨로부터 음주측정을 받았는데, 당시 혈중알코올농도는 0.215%로 측정됐다.&lt;br&gt;&lt;br&gt;B씨는 A씨에게 귀가할 것을 안내했다. 그러나 A씨는 집에 가지 않고 같은 날 오후 12시 50분쯤 제주시의 한 시장 근처에서 막걸리 등을 추가로 마셨다. B씨는 오후 1시 18분쯤 음주측정을 다시 했고, A씨의 혈중알코올농도는 0.243%로 측정됐다. A씨는 정당한 사유 없이 음주제한 준수사항을 위반한 혐의로 결국 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;앞서 1심은 A씨에게 징역 8개월을 선고했다. 1심 재판부는 A씨가 음주를 한 후 혈중알코올농도를 측정한 시점을 오전과 오후로 나눠 판단했는데, 오전 10시 35분에 혈중알코올농도가 0.03%를 넘어간 건 유죄로 판단하고 오후 1시 18분에 측정된 건 무죄로 봤다. 재판부는 오후에 측정된 혈중알코올농도에 대한 유죄 사실을 인정하기에는 검사 측 증명이 부족하다고 판단했다. 이에 A씨는 항소하지 않았으나 검사는 무죄 부분에 대해 항소했다.&lt;br&gt;&lt;br&gt;항소심은 1심 판결을 파기한 뒤, 무죄와 유죄 부분을 합쳐 징역 8개월을 선고했다. 재판부는 1심이 무죄로 판단했던 오후 측정 혈중알코올농도에 대해 “혈중알코올농도가 0.243%로 측정돼, 추가로 음주제한 준수사항을 위반했다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 이 같은 2심 판결에 문제가 있다고 봤다. 일부는 유죄, 일부는 무죄가 선고된 1심 판결에 검사만 무죄 부분에 대해 항소한 경우, 항소하지 않은 유죄 부분은 확정된 상태로 항소심이 진행된다는 것이 대법원 판례이기 때문이다.&lt;br&gt;&lt;br&gt;대법원은 “A씨가 1심 판결에 항소하지 않았고 검사는 무죄 부분에 대해서만 항소했기 때문에 1심의 유죄 부분은 확정됐다”며 “이미 확정된 부분까지 심리해 다시 형을 선고한 원심판결에는 심리의 범위에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘언론사 단전·단수’ 이상민 항소심 선고…1심은 징역 7년</title>
       <link>https://www.chosun.com/national/court_law/2026/05/12/UV6JUSNO4JADFGLVOAOCBTDUME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/12/UV6JUSNO4JADFGLVOAOCBTDUME/</guid>
@@ -933,27 +956,6 @@
       <description/>
       <pubDate>Tue, 12 May 2026 05:18:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYWCZTFMU2WMOBZMMZDCMBYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 당시 '언론사 단전·단수'를 지시한 의혹으로 1심에서 징역 7년이 선고된 이상민 전 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 12·3 비상계엄에 가담해 소방청에 특정 언론사 단전·단수 조치를 지시한 혐의로 1심에서 징역 7년이 선고된 이상민 전 행정안전부 장관의 항소심 선고가 12일 나온다. &lt;br&gt;&lt;br&gt;서울고법 내란전담재판부인 형사1부(재판장 윤성식)는 이날 오후 3시부터 이 전 장관의 내란 중요 임무 종사 등 사건 항소심 선고 공판을 연다.&lt;br&gt;&lt;br&gt;이 전 장관은 계엄 선포 직후 소방청에 언론사 5곳에 대한 단전·단수를 지시하고(내란 중요 임무 종사), 일선 소방서가 관련 조치를 위한 대응 태세를 갖추도록 한 혐의(직권남용)를 받는다. 또 지난해 2월 헌법재판소의 윤석열 전 대통령 탄핵 심판 변론에 증인으로 출석해 “단전·단수 지시를 받은 적 없다” “대통령이 최상목 전 경제부총리에게 계엄 문건을 받는 모습을 보지 못했다”는 등 허위 증언한 혐의(위증)도 있다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 이 전 장관의 내란 혐의에 대해 “윤 전 대통령에게 언론사 단전·단수 지시가 담긴 문건을 받은 뒤 소방청장에게 이를 하달했다”며 유죄로 판단했다. 다만 “내란의 ‘중요 임무’로 수행한 행위는 소방청에 대한 전화 한 통”이라며 사전 모의 정황이 없고 실제 단전·단수 조치도 이뤄지지 않은 점을 양형에 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;1심 재판부는 직권남용 혐의에 대해서는 “일선 소방서가 실제 단전·단수 대응 태세를 갖췄다고 보기 어렵다”며 무죄로 판단했다. 윤 전 대통령 탄핵 심판에서 위증한 혐의와 관련해서는 “3개월 만에 기억을 상실했다고 볼 수 없다”며 유죄를 인정했으나 최 전 부총리가 윤 전 대통령에게 계엄 문건을 건네는 것을 보지 못했다고 허위 증언한 혐의에 대해서는 무죄로 판단했다.&lt;br&gt;&lt;br&gt;조은석 내란 특검은 1심에서 징역 15년을 구형했지만 징역 7년이 선고되자 “형이 지나치게 가볍다”며 항소했다. 특검은 지난달 22일 열린 항소심 결심 공판에서도 징역 15년을 구형하며 “이 전 장관은 15년을 재직한 법조인으로서 12·3 계엄의 위헌·위법성을 명백히 인식했음에도 헌정 파괴 범죄에 가담했다“고 했다. 이어 “위헌적인 포고령에 따라 특정 언론사의 기능을 완전히 마비시키고, 계엄에 비판적인 언론사를 완전히 봉쇄해 위헌적 계엄에 대한 우호적인 여론을 조성하려 했다”고 지적했다.&lt;br&gt;&lt;br&gt;이 전 장관 측도 유죄 판단에 불복해 항소했다. 이 전 장관은 항소심 최후진술에서 “우연히 본 (계엄) 문건이 걱정스러워 소방청장과 통화한 것이 이렇게 거센 올가미가 돼 내란이라는 혐의를 받게 될 줄 몰랐다”며 “도저히 받아들이기 힘든 상황”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책] 세종대왕이 창제한 ‘훈민정음’, 신하들과 아들·딸 도움 받았죠</title>
-      <link>https://www.chosun.com/national/nie/2026/05/11/VK5Z4TYWG5HY5BURRA2NATCXIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/11/VK5Z4TYWG5HY5BURRA2NATCXIE/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 10 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5QCURET7RFPFBFBVONU4ZPBVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김슬옹 지음 l 출판사 미래엔아이세움 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;세종대왕이 창제한 한글의 정식 이름은 훈민정음입니다. 백성을 깨우치는 바른 글자라는 뜻이지요. 훈민정음을 한문으로 쓴 해설서이자 활용 설명서인 ‘훈민정음 해례본’도 있습니다. 해례본에는 세종이 한글 창제 목적과 자음·모음 발음 등에 대해 쓴 ‘예의’, 창제 원리와 글자 사용법 등을 신하들이 해설한 ‘해례’, 정인지라는 학자가 쓴 ‘서문’이 들어 있습니다. 해례본의 예의는 한글로 번역되어 1459년 불교 서적인 ‘월인석보’ 첫 부분에 실렸습니다.&lt;br&gt;&lt;br&gt;한글은 세종대왕 혼자 만들었을까요? 정인지·신숙주·성삼문·최항·박팽년·강희안·이개·이선로 등 해례를 쓴 신하 여덟 명이 세종을 도왔다고 합니다. 세종의 첫째 아들 문종도 세자 시절 “한글 창제에만 매달린다”는 비판을 받았습니다. 둘째 아들 수양대군은 세종이 하는 일을 자주 도왔고 ‘석보상절’ 등 한글 도서를 간행했습니다. 셋째 아들 안평대군은 목판 인쇄된 해례본의 원고 글씨를 썼습니다. 둘째 딸 정의공주는 특정 소리를 어떻게 글자로 표현할지 논의하는 데 도움을 줬다고 전해집니다. 새로운 문자를 만들겠다는 것은 세종의 단독 아이디어였지만, 그걸 만드는 과정에선 신하들과 가족의 도움을 받은 거지요. &lt;br&gt;&lt;br&gt;한글 창제 이후 조선의 왕실 여성들은 한글을 폭넓게 사용했습니다. 대왕대비가 한글로 쓴 문서에 왕의 도장이 찍히기도 했습니다. 중전이 영의정에게 한글 명령서를 전하거나, 관리들이 중전에게 한글로 보고하고 중전이 한글로 답을 보내기도 했습니다. 정조의 어머니 혜경궁 홍씨가 자신의 인생을 회고하며 쓴 수필인 ‘한중록’은 섬세한 한글 표현이 돋보입니다. 여성들은 한글의 쓰임새를 넓히는 데 기여했고 단정하고 우아한 한글 글씨체인 ‘궁체’를 발전시켰습니다.&lt;br&gt;&lt;br&gt;정인지는 해례본 서문에서 한글의 필요성과 특징을 강조합니다. ‘중국 이외 다른 나라 말은 소리만 있고 글자가 없어서 중국 글자를 빌려다 쓰고 있으니, 둥근 자루를 모난 구멍에 억지로 끼워 맞추려는 것과 같다. 정음 스물여덟 글자는 간단하면서 정밀하여, 슬기로운 이는 스승에게 배우지 않아도 스스로 하루아침을 마치기 전에 배울 수 있다. 바람 소리, 학 울음, 닭 울음, 개 짖는 소리라도 모두 적을 수 있다.’&lt;br&gt;&lt;br&gt;이 책의 저자에 따르면, 한글은 새로운 쓰임새를 얼마든지 만들어낼 수 있는 문자입니다. 예컨대 휴대전화 한글 자판은 적은 글자들을 간단히 배열해서 빠르고 편리하게 입력할 수 있습니다. 저자는 한글이 “과학적인 문자가 아니라 과학이다”라고 주장합니다. 한글의 쓰임새를 넓히고 가치를 찾는 일을 우리가 해야겠지요. 오는 15일은 ‘제629돌 세종대왕 나신 날’이랍니다. 훈민정음을 만든 세종대왕을 민족 전체의 스승이라고 생각하고, 5월 15일을 스승의 날로 기념하고 있답니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도로에 ‘PED X-ING’ 무슨 뜻일까</title>
-      <link>https://www.chosun.com/national/education/2026/05/12/TOXHUHO3LRFHVOSKIMGYWBNFVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/12/TOXHUHO3LRFHVOSKIMGYWBNFVM/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 May 2026 18:00:00 +0000</pubDate>
-      <content:encoded>영어권 도시 거리를 걷다 보면, 길바닥에 커다랗게 적힌 ‘PED X-ING’ 문구를 자주 마주하게 됩니다.&lt;br&gt;&lt;br&gt;‘X’는 보통 금지나 틀렸다는 뜻이니까, “보행자(PED)는 절대 들어오지 말라는(X) 경고인가?” 싶어 멈칫하게 됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EA64HUTFKVFSJM5PFORH5YFQPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제로는 진입 금지가 아니라 ‘보행자 횡단보도’라는 표시지요.&lt;br&gt;&lt;br&gt;길바닥의 ‘X-ING’은 ‘crossing(건너는 곳)’을 시각적으로 줄여놓은 일종의 약호입니다. 영어에서 ‘cross’가 ‘X’ 모양과 닮았기 때문에 쓰는 줄임말이죠. 공간이 좁은 도로 표지판에 긴 단어를 다 쓸 수 없으니 X로 대신한 겁니다.&lt;br&gt;&lt;br&gt;횡단보도를 미국에서는 주로 crosswalk, 영국에서는 zebra crossing 또는 pedestrian crossing이라고 부릅니다. 영국의 zebra crossing은 횡단보도의 흑백 줄무늬가 얼룩말 무늬를 닮은 데서 유래했습니다.&lt;br&gt;&lt;br&gt;철도와 도로가 만나는 ‘건널목’은 미국에선 railroad crossing, 영국과 영연방 국가들에선 level crossing이라고 하구요.&lt;br&gt;&lt;br&gt;그리고 Deer X-ING은 사슴 출몰 횡단 주의, Cattle X-ING은 가축 이동 횡단 주의, School X-ING은 어린이 보호 구역(학교 앞 횡단보도)을 뜻하는 표시입니다.&lt;br&gt;&lt;br&gt;눈으로는 ‘X-ING’을 보더라도, 입으로는 ‘crosswalk’ 또는 ‘crossing’이라고 발음해야 합니다. 현지인에게 “Where is the PED 엑스-잉?”이라고 물어보면 십중팔구 못 알아듣습니다.&lt;br&gt;&lt;br&gt;“Is it okay to cross now?” (지금 건너도 되나요?)&lt;br&gt;&lt;br&gt;“Is it safe to cross here?” (여기서 건너도 안전한가요?)&lt;br&gt;&lt;br&gt;“Wait for the walk signal.” (보행 신호를 기다리세요.)&lt;br&gt;&lt;br&gt;“The light is about to change. Hurry!” (신호 곧 바뀌어요. 서두르세요!)&lt;br&gt;&lt;br&gt;“It’s a one-way street, so just watch for cars coming from the left.” (일방통행이라 왼쪽에서 오는 차만 조심하면 돼요.)&lt;br&gt;&lt;br&gt;“Watch out for turning cars!” (회전하는 차량 조심하세요!)&lt;br&gt;&lt;br&gt;미국이나 캐나다의 큰 교차로에는 보행자가 직접 버튼을 눌러야 신호가 바뀌는 ‘Pedestrian Push Button’이 있는 경우가 많습니다. 아무리 기다려도 신호가 안 바뀐다면 기둥에 붙은 버튼을 찾아봐야 합니다.&lt;br&gt;&lt;br&gt;“Press the button to activate the pedestrian signal.” (버튼을 누르면 보행 신호가 켜져요.)&lt;br&gt;&lt;br&gt;“In New York, everyone jaywalks, but still watch out for cabs.” (뉴욕에선 다들 무단횡단하긴 하는데, 그래도 택시는 조심해야 해요.)&lt;br&gt;&lt;br&gt;영국은 차가 보행자에게 무조건 양보하는 문화가 강하지만, 미국 도시에서는 신호와 상관없이 차가 먼저 가는 경우가 적지 않습니다. 특히 뉴욕시 맨해튼에서는 녹색불이 켜져도 좌우를 꼭 확인하고 건너야 합니다.&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;Keep an eye out for ~&lt;/mark&gt;”는 “&lt;mark class="hl_yellow"&gt;~을 잘 살펴보세요&lt;/mark&gt;” “&lt;mark class="hl_yellow"&gt;주의해서 보세요&lt;/mark&gt;”라는 뜻으로, 특정 표지판이나 장소를 찾아야 할 때 자주 쓰는 표현입니다.&lt;br&gt;&lt;br&gt;“Keep an eye out for the exit signs.” (출구 표지판을 잘 확인하세요.)&lt;br&gt;&lt;br&gt;“Keep an eye out for a blue building.” (파란색 건물이 보이는지 잘 보세요.)&lt;br&gt;&lt;br&gt;“Keep an eye out for pickpockets in this area.” (이 구역에서는 소매치기를 조심하세요.)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZR3L3LYSHFBLDJ4LMSFIXMFKQE.png?auth=982eb1f026a427b0df18d1f1df6d96fe799aaf839ac9ebc4bb98690f684f54d8&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
-      </media:content>
     </item>
     <item>
       <title>[핫코너] 이름 짓는 AI… 눈물짓는 작명소</title>
