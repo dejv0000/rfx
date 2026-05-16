@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[부음] 강효순씨 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/05/15/VZYEOH7VYBFGXAYLFSHLVOSETA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/15/VZYEOH7VYBFGXAYLFSHLVOSETA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 May 2026 15:43:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;강효순&lt;/b&gt; 별세, &lt;b&gt;김성용&lt;/b&gt; SSG랜더스 스카우트 팀장 모친상=14일2시30분 쉴낙원경기장례식장, 발인 16일8시30분, (031)672-1009&lt;br&gt;&lt;br&gt;▲&lt;b&gt;권병조&lt;/b&gt; 前 인천공항서비스 사장 별세, &lt;b&gt;권현수&lt;/b&gt; 한화갤러리아 과장·&lt;b&gt;권기현&lt;/b&gt; 부친상, &lt;b&gt;우열&lt;/b&gt; 한화갤러리아 과장·&lt;b&gt;이주미&lt;/b&gt; 시부상=13일6시55분 건국대병원, 발인 15일11시, (02)2030-7901&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박서운&lt;/b&gt; 별세, &lt;b&gt;허윤자&lt;/b&gt;·&lt;b&gt;허윤심&lt;/b&gt;·&lt;b&gt;허윤경&lt;/b&gt;·&lt;b&gt;허양무&lt;/b&gt; 한국금융경제신문 호남취재본부 부장·&lt;b&gt;허윤정&lt;/b&gt;·&lt;b&gt;허진무&lt;/b&gt; 부친상, &lt;b&gt;박영준&lt;/b&gt;·&lt;b&gt;박봉주&lt;/b&gt;·&lt;b&gt;이성규&lt;/b&gt;·&lt;b&gt;정선화&lt;/b&gt; 장인상=13일6시 전남 진도군산림조합직영추모관, 발인 15일7시, (061)543-4040&lt;br&gt;&lt;br&gt;▲&lt;b&gt;송덕순&lt;/b&gt; 별세, &lt;b&gt;박성열&lt;/b&gt; 대전 박치과 원장·&lt;b&gt;박진열&lt;/b&gt; 前 스포츠조선 이테크팀장 모친상, &lt;b&gt;이세현&lt;/b&gt;·&lt;b&gt;김희선&lt;/b&gt; 우리은행 차장 시모상=14일10시 대전을지대병원, 발인 16일10시30분, (042)611-3979&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤문기&lt;/b&gt; YMG충용 시큐리티 대표 별세, &lt;b&gt;손지원&lt;/b&gt; 남편상, &lt;b&gt;윤종혁&lt;/b&gt;·&lt;b&gt;윤종진&lt;/b&gt; 부친상=13일12시3분 국민건강보험공단 일산병원, 발인 15일5시30분, (031)900-0444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장명환&lt;/b&gt; 별세, &lt;b&gt;이대희&lt;/b&gt; 남편상, &lt;b&gt;장원경 &lt;/b&gt;서울아산병원 소아청소년과 교수·&lt;b&gt;장지훈 &lt;/b&gt;미국 센트럴아칸소대 경영학과 교수 부친상, &lt;b&gt;이충욱&lt;/b&gt; 서울아산병원 영상의학과 교수 장인상, &lt;b&gt;이정화&lt;/b&gt; 시부상=13일14시16분 서울아산병원, 발인 16일8시20분, (02)3010-2411&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>진짜 박사 된 ‘존스 박사’ 해리슨 포드… “지금은 그대들의 시간, 세상을 움직여라”</title>
+      <link>https://www.chosun.com/international/us/2026/05/15/MEQLGIFKI5GVNMG2A3223XD2BU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/international/us/2026/05/15/MEQLGIFKI5GVNMG2A3223XD2BU/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 May 2026 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7RE4CXYAVDKFBWIIKCNNQU5HY.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;'인디애나 존스'의 배우 해리슨 포드가 11일 애리조나 주립대에서 명예박사학위를 받은 뒤 졸업식 축사를 하고 있다. /Arizona State University&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“대학 3학년 때 학점이 엉망이어서 누워서 떡먹기로 A학점 받을 수 있는 과목을 찾아봤어요. 바로 연극 수업이었죠. 강의실에 가니 내가 이전까지는 괴짜나 사회부적응자라고 여겼던 이들이 앉아 있었어요. 수업을 통해 알게 됐죠. 이 사람들이 내 사람이구나!”&lt;br&gt;&lt;br&gt;지난 11일 미국 애리조나주 템피 애리조나주립대 캠퍼스. 졸업식 축사를 맡아 연단에 선 할리우드 배우 해리슨 포드(84)가 연기로 진로를 틀었던 순간을 회고하자 졸업생들이 환호했다. 포드는 이날 이 학교에서 연기와 환경보호 활동을 통해 미국과 세계에 기여한 공로로 명예 인문·예술학 박사학위를 받았다. 포드는 할리우드의 대표적 환경운동가로도 유명하다. &lt;br&gt;&lt;br&gt;그는 위스콘신주 리폰대를 중퇴하고 무명 연극배우로 활동하다 ‘스타워즈’ ‘인디애나 존스’ 시리즈 주연으로 발탁돼 액션 스타로 거듭났다. 인디애나 존스 5편 ‘운명의 다이얼’(2023) ‘캡틴 아메리카: 브레이브 뉴 월드’(2025) 등 최신작에서도 액션 연기를 이어가고 있다. &lt;br&gt;&lt;br&gt;인디애나 존스 시리즈에서 모험가이자 고고학자인 주인공을 연기하며 ‘존스 박사’로 불렸던 그가 이날 학위 수여식에서 ‘박사’가 된 것이다. 애리조나는 인디애나 존스 시리즈 2편의 주요 촬영지이기도 하다. &lt;br&gt;&lt;br&gt;베이비붐 세대(2차 대전 전후 출생)로 X세대(1970~80년대생) 자녀를 둔 포드는 손자뻘인 졸업생들에게 영화 속 존스 박사의 고고학 수업처럼 카랑카랑한 목소리로 말했다. 이들의 영향력이 베이비붐·X세대에 비해 미약하다는 세간의 평가를 염두에 둔 듯 “여러분 세대는 스스로 생각하는 것보다 훨씬 더 큰 힘을 가지고 있다”며 “지금은 여러분의 시간”이라고 했다. 이어 젊은 세대의 리더십으로 단절된 세상을 이어 달라고 호소했다. “스스로를 위해 목소리를 낼 수 없는 사람들을 위해 일어서십시오. 서로 이야기하지 않던 사람들을 이어주세요. 바로 그것이 리더십, 세상을 움직이는 힘입니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/C7RE4CXYAVDKFBWIIKCNNQU5HY.jpeg?auth=ea79945139d55d0ad86131dda148488e34d7104db853df631838428df03db3b3&amp;smart=true&amp;width=1200&amp;height=675" type="image/jpeg" height="675" width="1200">
+        <media:description type="plain">'인디애나 존스'의 배우 해리슨 포드가 11일 애리조나 주립대에서 명예박사학위를 받은 뒤 졸업식 축사를 하고 있댜.
+/Arizona State University</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>홍명보 “32강이 1차 목표 ... 주장 손흥민 득점력 살리겠다”</title>
       <link>https://www.chosun.com/national/national_general/2026/05/16/ELLIJHPYENDFHJS74TOJ2QCFDU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/16/ELLIJHPYENDFHJS74TOJ2QCFDU/</guid>
@@ -916,15 +938,6 @@
       <content:encoded>사랑의열매 사회복지공동모금회는 27년간 교직 생활을 마치고 퇴직한 &lt;b&gt;홍은경&lt;/b&gt;(63)씨가 최근 1억원을 기부하며 고액 기부자 모임인 ‘아너 소사이어티’ 회원으로 가입했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4BS5O5VLZHE3B3F4TU266ERE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;언론 보도를 통해 ‘아너 소사이어티’를 처음 접한 홍씨는 “나도 언젠가는 꼭 가입하고 싶다”는 목표를 세우고 약 10년간 기부를 준비해왔다고 한다. 그는 “워런 버핏 같은 사람들을 보며 나도 저렇게 살아보고 싶다는 생각을 했다. 그들만큼은 아니더라도 1억원만큼은 꼭 기부하고 싶다는 목표를 세웠다”며 “이렇게 기부를 하고 나니까 사회에 대한 마지막 숙제를 마친 기분”이라고 했다. &lt;br&gt;&lt;br&gt;홍씨는 기부 이유에 대해 “살아오면서 세상으로부터 알게 모르게 많은 사랑과 도움을 받았다고 느꼈다”며 “나눔은 결국 나에게 다시 돌아오는 힘이 있다”고 밝혔다. 초등학교 교사 출신인 홍씨는 “아이들과 젊은 세대가 기부든 봉사든 꼭 직접 체험을 해봤으면 좋겠다. 금액이 크지 않아도 좋으니 일단 시작해보길 권하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>방일영문화재단, 저술 지원… 언론인·언론학자 16명 선정</title>
-      <link>https://www.chosun.com/national/people/2026/05/15/FSBRXBSUUJGFFENQIF2QHUXCWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/15/FSBRXBSUUJGFFENQIF2QHUXCWE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>방일영문화재단(이사장 변용식)은 14일 2026년 상반기 저술 지원을 받을 전‧현직 언론인과 언론학자 16명을 발표했다. 다음은 선정된 명단. ▷김성호 전 광운대 정보콘텐츠대학원장▷김유경 한국외대 미디어커뮤니케이션학부 명예교수▷김준배 한국무역신문 산업부장▷노창현 뉴스로 대표기자▷박건형 조선일보 콘텐츠앤AI전략팀장▷박지호 TV조선 편집1부 차장▷서영수 전 동아일보 사진부장▷서화동 한국소비자포럼 캠페인인사이트팀 국장▷설태주 울산 MBC 보도제작부 기자▷심성욱 한양대 광고홍보학과 교수▷심연희 KBS시청자사업부장▷오영환 전 중앙일보 도쿄총국장▷오형규 전 한국경제신문 논설실장▷이경미 한겨레신문 정책금융팀장▷이광회 조선비즈 고문▷이우탁 전 연합뉴스 콘텐츠평가실장&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>젠슨 황, 밴플리트상 받는다 ‘AI 협력’ 넘어 韓美 가교 역할</title>
       <link>https://www.chosun.com/national/people/2026/05/15/YRSMT7T4EZAGVFWLSNQTBAQ564/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/15/YRSMT7T4EZAGVFWLSNQTBAQ564/</guid>
@@ -932,15 +945,6 @@
       <description/>
       <pubDate>Thu, 14 May 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOOBLYV6O5DWFDUKIY2SKJRALA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;젠슨 황 엔비디아 최고경영자(CEO)가 한미 관계 발전에 기여한 공로로 밴플리트상(賞)을 받는다. 미국 뉴욕의 한·미 친선 비영리단체 코리아소사이어티는 “올해 밴플리트상 수상자로 젠슨 황 CEO를 선정했다”고 13일 밝혔다. 에이브러햄 김 코리아소사이어티 회장은 “엔비디아는 삼성전자·SK그룹 등 한국 혁신 기업들과의 협력 확대에 기여했다”면서 선정 이유를 밝혔다. 젠슨 황 CEO는 시상식 참여 의사를 밝힌 것으로 전해졌다. 시상식은 9월 28일 뉴욕에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국립중앙박물관</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/05/15/K4MMQKDUTNC4RN2PBTS3XMVWWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/15/K4MMQKDUTNC4RN2PBTS3XMVWWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국립중앙박물관&lt;/b&gt;▷국립중앙박물관 유물관리부장 장용준▷미술부장 이수경▷국립진주박물관장 박진일▷국립춘천박물관장 장진아&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아빠 잃은 제자에 매월 15만원... 7년간 버팀목이 되어준 스승</title>
