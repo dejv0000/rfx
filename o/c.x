@@ -13,6 +13,86 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘담배연기, 살인충동’...서울 대형병원 출구 앞 글귀에 환자들 술렁</title>
+      <link>https://www.chosun.com/national/incident/2026/05/16/GARGBKCRRBEI3DIWPTNIGVOI6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/16/GARGBKCRRBEI3DIWPTNIGVOI6Y/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 02:35:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUAQJF7KOFGGLK3Y56D4G5ZGKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울의 한 대형병원 앞 1층 출입구 바로 앞에 세워진 오토바이에 '담배 연기, 살인 충동'이라는 글귀가 적혀 있다/독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘담배 연기, 살인 충동’&lt;br&gt;&lt;br&gt;15일 오후 서울의 한 대형병원 암병원 건물 1층 출입문 바로 앞엔 낡은 검정 오토바이가 한 대 서 있었다. 환자와 가족, 병원 직원들이 오토바이 옆을 지나다 이 문구를 보고 웅성거렸다. 오토바이 뒷편엔 배달 음식을 싣는 용도로 보이는 직사각형 상자가 달려 있었는데, 이 상자의 뚜껑이 바깥 쪽으로 활짝 열려 있었고 이 뚜껑 안쪽에 ‘담배 연기, 살인 충동’이란 글귀가 크게 적혀 있었다. &lt;br&gt;&lt;br&gt;이 병원은 국내 가장 큰 대형 병원 5개, 즉 ‘빅5’로 불리는 병원 중 한 곳이다.&lt;br&gt;&lt;br&gt;한 중년 여성은 “병원 앞에 이런 말을…. 무섭다”며 병원 안으로 들어갔다. 이 병원 환자의 가족인 또다른 여성은 “음식 배달을 온 것 아니겠느냐. 이전에도 종종 이 오토바이를 본 것 같은데 겁난다”고 했다. 이런 글을 오토바이 보관 상자 뚜껑에 적은 배달 기사 한 명으로 인한 단순한 해프닝일 수도 있다. &lt;br&gt;&lt;br&gt;하지만 담배 냄새에 시달린 일부 입원 환자나 그 가족이 오토바이를 통해 ‘과격한 경고’를 하고 있는 것 아니냐고 말하는 사람도 있었다. 실제 이 오토바이가 세워진 해당 병원의 암병원 건물 1층 출입문에서 야외 흡연 구역까지는 100m 정도밖에 되지 않을 정도로 가깝다. 이 병원 야외 흡연 구역을 이용하는 흡연자들에 대한 감정이 담긴 경고라면 단순 해프닝으로 볼 수 없다는 것이다. &lt;br&gt;&lt;br&gt;병원 측은 “현재 병원 건물 주변에 그런 오토바이가 없고, 환자들에게 민원이 들어온 것도 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YBPFRETIVVHNFK7W7B4NEEB5EQ.jpg?auth=5c185829e444c79d284048ce3b898906971e560a295b49bc04db3c6d78123ef0&amp;smart=true&amp;width=1064&amp;height=798" type="image/jpeg" height="798" width="1064">
+        <media:description type="plain">15일 오후 서울의 한 대형병원 앞 1층 출입구 바로 앞에 세워진 오토바이에 '담배 연기, 살인 충동'이라는 글귀가 적혀 있다/독자 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>주말 밀양 실내수영장 ‘날벼락’… 승용차가 덮쳐 70대 운전자 등 2명 부상</title>
+      <link>https://www.chosun.com/national/regional/2026/05/16/PA33Y7UXKVHV3GZSB64WJMKPOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/16/PA33Y7UXKVHV3GZSB64WJMKPOA/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 05:05:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TCNBSGUZTCOJRME3DCYZWGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 경남 밀양시 하남스포츠센터로 70대 여성이 몰던 쏘나타 승용차가 돌진하는 사고가 발생했다. 사진은 사고 당시 CCTV영상 캡쳐./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오전 10시 20분쯤 경남 밀양시 하남읍 하남스포츠센터에서 70대 여성이 운전하던 승용차가 센터 1층 유리창을 깨고 안으로 돌진해 지하 실내 수영장으로 추락했다. 차량은 수영장에 떨어진 후 뒤집혔다. 당시 실내 수영장에서 수영하던 회원들이 운전자를 구조했다.&lt;br&gt;&lt;br&gt;현장 목격자는 “수영하던 남성들이 수영장에 가라앉은 차량에서 운전자를 구조했고, 수영 강사가 심폐소생술을 했다”고 전했다. 출동한 119구급대는 의식이 있으면서 가슴 통증을 호소한 운전자와 깨진 유리창 파편에 열상을 입은 것으로 보이는 50대 여성 등 2명을 병원으로 이송했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DACSCGC5ZBALZCDCLNYHWRFC5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 밀양 수영장에 떨어져 뒤집힌 차량./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고 당시 수영하던 8명이 사고 장소에서 떨어져 있어 화를 면했다고 한다. 경찰이 스포츠센터 방범카메라(CCTV)를 확인한 결과 운전자가 수영하고 귀가하려고 차량에 탑승해 후진을 시도했다. 이후 다른 차량과 부딪친 후 스포츠센터 유리창을 깨고 지하 수영장에 떨어졌다고 한다.&lt;br&gt;&lt;br&gt;운전자는 “당시 상황이 전혀 기억나지 않는다”고 진술한 것으로 알려졌다. 경찰은 사고 운전자가 술을 마시거나 무면허로 운전한 것은 아니라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전남 1호 관광도로’ 여수 백리섬섬길… 남해안 대표 해상 관광도로로 뜬다</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/05/16/UECERZLPENE6XDBUPXVVKHSKMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/05/16/UECERZLPENE6XDBUPXVVKHSKMQ/</guid>
+      <dc:creator>여수=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 03:57:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFIGZMAXX5HU5CZWGB35CAGVMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;옥빛 바다에 점점이 떠 있는 섬들이 겹겹이 포개져 있다. 전남 여수와 고흥 100리(39.2㎞)를 잇는 백리섬섬길이다./여수세계섬박람회 조직위&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 오후 전남 여수시 화정면 낭도 방파제. 여수시청에서 차로 30분 남짓 달리자 쪽빛 여자만(汝自灣) 너머로 고흥반도가 손에 잡힐 듯 다가왔다. 과거 배 없이는 발을 들이지 못했던 이 외딴섬은 이제 명실상부한 ‘해상 드라이브의 성지’로 탈바꿈했다. 목포에서 온 오승택(53)씨는 “섬과 섬을 다리로 건너며 즐기는 풍광이 마치 바다 위를 달리는 환상 같은 경험을 선사한다”며 “도로 자체가 하나의 거대한 예술품 같다”고 말했다.&lt;br&gt;&lt;br&gt;낭도 등을 잇는 여수 ‘백리섬섬길(국도 77호선)’은 지난해 11월 대한민국 관광도로로 지정됐다. 국토교통부가 추진한 ‘2025년 대한민국 관광도로’ 지정 평가에서 백리섬섬길이 전남 첫 관광도로로 최종 확정된 것이다. 2024년 ‘도로법 시행령’ 개정 이후 정부가 관광 자원으로서의 가치를 공식 인정한 첫 사례다. 여수 백리섬섬길을 포함, 전국 6개 노선이 지정됐다. 여수시는 백리섬섬길이 여수 대표 관광지로 인기를 끌고 있다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 전국에서 35개 노선이 도전장을 내밀었다. 관광·경관·역사·문화 전문가들이 참여한 3단계(서면·현장·종합) 평가를 거쳤다. 현장 평가에 오른 10개 후보지 중에서도 백리섬섬길은 독보적인 점수를 받았다. 다도해의 비경과 섬 특유의 문화, 그리고 해양 생태계를 관통하는 노선 설계가 “도로와 자연이 한 몸으로 연결된 해안 관광 도로의 정석”이라는 평가를 이끌어냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNES7R7WQ5AQPJI5B7TN5RMKXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수시 백리섬섬길 전경./여수시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백리섬섬길은 여수 돌산읍에서 고흥군 영남면까지 약 100리(39.2㎞)를 잇는 길이다. 적금도·낭도·백야도·개도 등 10개 본섬을 11개 해상교량으로 잇는 이 프로젝트에는 국비 1조4260억원이 투입된다. 현재 7개 다리가 완공됐다. 나머지 4개 교량이 완성되는 2028년이면 착공 24년 만에 ‘남해안의 해상 관광 동맥’이 그 위용을 드러내게 된다.&lt;br&gt;&lt;br&gt;정부와 전남도, 여수는 이번 지정을 계기로 백리섬섬길을 세계적인 브랜드로 육성한다는 방침이다. 전용 관광 도로 이정표를 설치하고, 지능형 관광 도로 시스템을 구축해 실시간 정보를 제공한다. 차용석 여수시 도로계획팀장은 “백리섬섬길은 섬과 섬을 이어주는 살아 있는 교량 박물관”이라고 말했다. 정현구 여수시장 권한대행(부시장)은 “관광 도로 1호 브랜드를 적극적으로 활용해 여수 섬이 가진 고유한 가치를 국내는 물론 전 세계에 알리겠다”고 말했다.&lt;br&gt;&lt;br&gt;백리섬섬길은 앞으로 여수~남해 해저터널(2031년 개통), 금오도 해상 교량(2032년 개통)과 맞물려 영·호남을 잇는 거대 관광 벨트의 중추 역할을 할 전망이다. 한편, 여수 대경도도 해상 교량(1.36㎞)으로 이르면 2028년 육지와 연결된다. 이 섬에선 미래에셋자산운용이 호남권 최초로 5성급 ‘JW 메리어트’ 호텔 건립을 추진 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/B6CWR2PIIRFYDFROXLLA4NQZ7Y.jpg?auth=ac6c980c4d1147ce84026db94dce82ae9366926f56af29e18e1f1545aedd05de&amp;smart=true&amp;width=700&amp;height=394" type="image/jpeg" height="394" width="700">
+        <media:description type="plain">전남 여수시 백리섬섬길 전경. /여수시 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>주말에도 초여름 더위... 낮 최고 33도까지 올라</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/05/16/5SGJYXJLHNBXXAKJLEU3LXCXSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/16/5SGJYXJLHNBXXAKJLEU3LXCXSE/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 00:29:38 +0000</pubDate>
+      <content:encoded>서해상에 위치한 고기압의 영향으로 이번 주말 전국이 대체로 맑은 가운데, 한낮 기온이 33도까지 치솟는 초여름 더위가 본격적으로 시작된다. 당분간 평년 기온을 웃도는 더운 날씨가 이어지겠으며, 16일 오전 주요 도시 기온은 서울 18.2도, 대전 17.6도, 광주 17.0도, 대구 17.1도 등을 기록했다. 낮 최고기온은 25~33도까지 올라 전국 대부분 지역에서 30도를 웃돌겠고, 일부 지역은 최고 체감온도가 31도 안팎까지 상승해 제법 덥겠다. 다만 아침 최저기온은 12~19도 분포에 머물며 내륙을 중심으로 낮과 밤의 기온 차가 15도 안팎으로 크게 벌어지는 만큼 건강관리에 각별히 신경 써야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYGMOJSGBQWIMBWGVTDENTFG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 낮기온이 30도를 넘는 초여름 날씨를 보인 14일 광주 북구 일곡 제1근린공원으로 야외 수업 나온 초등학생들이 물놀이를 하며 더위를 식히고 있다/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 일요일인 17일에는 강한 햇볕이 내리쬐면서 전국의 자외선 지수가 ‘매우 높음’ 단계까지 치솟을 것으로 보인다. 이는 햇볕에 그저 수십 분만 노출되어도 피부에 화상을 입을 수 있는 위험한 수준이다. 따라서 주말 야외 활동 시에는 자외선 차단제를 꼼꼼히 바르고 모자나 양산 등으로 햇볕을 가려야 한다.&lt;br&gt;&lt;br&gt;안개와 해수면 상승에도 대비가 필요하다. 주말 동안 서해상과 제주도 해상, 17~18일에는 동해상에 바다 안개가 짙게 낄 전망이다. 인천, 경기 서부, 충남, 전남 등 일부 내륙과 섬 지역은 가시거리가 200m 미만으로 좁혀지거나 이슬비가 내릴 수 있어 교통안전과 해상 사고에 유의해야 한다. 또한 17일부터는 달의 인력이 강해짐에 따라 바닷물의 높이가 평소보다 높아지므로 해안가 저지대 침수나 안전사고를 조심해야 한다. 한편 주말 내내 전국의 미세먼지 농도는 ‘좋음’에서 ‘보통’ 수준을 유지해 공기 자체는 쾌청할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현관문에 페인트칠·계란 투척… ‘보복 대행’ 범죄였다</title>
+      <link>https://www.chosun.com/national/regional/2026/05/16/KUGHWHB67NBLLLSMHJCFP6RXEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/16/KUGHWHB67NBLLLSMHJCFP6RXEE/</guid>
+      <dc:creator>조홍복 기자, 인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 02:30:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PBNGSWSWFKQBE6RLP7XHNDDKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배달 애플리케이션의 외주 운영센터 상담원으로 위장 취업해 고객 정보를 빼돌리고, 이를 사적 보복 범죄에 악용한 일당의 총책 30대 남성 정 모씨가 지난달 3일 서울 양천경찰서에서 검찰로 구속 송치되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 이른바 ‘보복 대행’ 범행을 저지른 20대가 사흘 만에 경찰에 붙잡혔다. 인천 서부경찰서는 재물손괴와 주거침입 등 혐의로 20대 A씨를 체포해 조사하고 있다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 13일 오전 5시 30분쯤 서구 청라동 한 아파트 세대 앞 현관문에 페인트칠하고 계란 등 음식물을 뿌린 혐의를 받고 있다. 경찰은 당시 퀵서비스 기사로 위장하고 범행한 A씨를 추적해 이날 오전 3시 30분쯤 천안 거주지에서 그를 긴급체포했다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 텔레그램 의뢰를 통해 착수금 30만원을 받고 범행한 것으로 확인됐다. 경찰은 30대 피해자 B씨에게 악감정을 품은 누군가가 보복 대행을 한 것으로 보고 의뢰자 등에 대해 추가 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;다만 B씨는 경찰에서 “별달리 짚이는 부분이 없다”는 취지로 말한 것으로 전해졌다. 그는 이전의 보복 대행 범죄 피해자들처럼 사기 피해를 보거나 은행에 지급 정지 신청을 한 상태는 아닌 것으로 파악됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2TGMZTG4YDCMZVMVSWKNBVMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서부경찰서 전경./서부경찰서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에게 보복 대행을 의뢰한 배후가 누군지에 대해 추가 수사를 벌이면서 협박죄 추가 적용 여부도 검토하고 있다”며 “수사 후 A씨의 구속영장을 신청할 방침”이라고 말했다. 인천 서구에서는 지난 1월 16일에도 돈을 받고 남의 집에 인분을 뿌리는 등 보복성 범행을 대행한 20대 남성 2명이 경찰에 붙잡혀 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54VDGVDP7BCQJNU54NZ5HA5EVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령 SNS./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 이재명 대통령은 전날 해당 사건 내용을 담은 보고서를 자신의 사회관계망서비스(SNS)에서 공개하면서 “사적 보복 대행은 부탁받는 사람도 부탁하는 사람도 모두 중대 범죄”라며 “현대 문명국가에서 사적 분쟁은 법질서에 따라 해결해야 한다”고 강조하기도 했다. &lt;br&gt;&lt;br&gt;이 대통령이 공개한 보고서를 보면, 텔레그램을 이용한 보복 대행 범죄는 지난해 8월 대구에서 처음 발생했으며 전날까지 관련 피의자 50명이 검거됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>눈 속 작은 점, 암일 수도 있다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/05/16/FXJQ7CJREBFNRHAQ4OCN4K3GIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/16/FXJQ7CJREBFNRHAQ4OCN4K3GIQ/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 01:19:31 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;거울을 보다가 내 눈동자에서 작은 점을 발견했다면? 전문가들은 “통증이 없더라도 그냥 넘기지 말고 빨리 병원을 찾아가 보라”고 권고했다. 양지명 서울아산병원 안과 교수는 최근 이 병원 홈페이지에 올린 ‘건강 이야기’ 동영상에서 “우리의 눈속에도 피부처럼 점이 생길 수 있는데, 이를 의학 용어로 ‘맥락막 모반’이라고 부른다”며 “대부분의 모반은 문제없이 평생 유지가 되지만, 일부에서는 크기가 커져서 맥락막 흑색종(종양)으로 진행할 수가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFRQ5OOSIFLFG2YE7WO2OHA4YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안과에서 눈을 검사하는 모습./northern vision Care 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양 교수는 안구 내 종양이 발생할 경우 치명적인 결과를 초래할 수 있다고 했다. 그는 “안구 내 종양은 일부 단순한 혹처럼 보일 수 있는데, 치료 시기를 놓치면 시력뿐 아니라 생명에 큰 영향을 줄 수가 있다”고 했다. 안구암은 발병 초기 단계에서 환자가 자각할 수 있는 통증이나 이상 증상이 거의 없는 것이 특징이다. 이에 대해 양 교수는 “가장 중요한 점은 증상이 없고 아프지 않아도 위험할 수 있다는 것, 이게 포인트”라고 했다.&lt;br&gt;&lt;br&gt;의학계에 따르면, 눈속 점이 점점 커지거나 두꺼워지는 경우, 점 주변에 액체가 생기는 경우, 시력 저하가 동반되는 경우가 대표적인 ‘위험 신호’라고 한다. 질환이 진행되면 시야가 흐려지거나 검은 점 또는 그림자가 시야 일부를 가리는 증상이 나타나며, 소아의 경우에는 동공이 하얗게 변하기도 한다. 양 교수는 “이러한 변화가 있다면 반드시 정밀 검사가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;양 교수는 “과거에는 안구의 종양이 발견되면 굉장히 악성이기 때문에 눈을 제거해야 하는 경우가 많았다”고 했다. 그러나 최근에는 안구와 시력을 보존하는 치료가 가능해졌다. 근접 방사선 치료가 대표적이다. 이는 방사선이 나오는 작은 금속판을 종양 주위에 붙여 종양에만 선택적으로 방사선을 조사한 뒤 제거하는 방식이다.&lt;br&gt;&lt;br&gt;양 교수는 해당 치료법에 대해 “종양에만 집중 치료하면 주변 조직 손상을 최소화할 수 있고, 그렇기 때문에 비교적 안전한 치료이고 시력도 보존할 수 있는 좋은 치료 방법”이라며 “예전에는 눈을 잃을 수 있었던 질환이 지금은 눈을 살리고 시력도 보존하면서 치료가 가능하다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 내부 “국민의힘 청문회 참석으로 박상용 징계하려면 임은정도 징계하라”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/16/JGE2R7MACNAJ3HUV2IFFXVMOWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/16/JGE2R7MACNAJ3HUV2IFFXVMOWU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 01:53:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGAIY3KE5VLRBPY6VXPGVCU5OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박상용 인천지검 부부장검사가 국민의힘이 개최한 국회 청문회에 참석한 일도 법무부의 감찰 대상이라는 사실이 알려지자 검찰 내부에서는 “같은 논리라면 여권 주도 검찰개혁토론회에 참석했던 임은정 서울동부지검장도 감찰해야 하는 것 아니냐”는 목소리가 나오고 있다.&lt;br&gt;&lt;br&gt;공봉숙 서울고검 검사는 최근 검찰 내부망 이프로스에 올라온 글과 임 검사장의 댓글을 15일 페이스북에 소개했다. “특정 정당 행사에 참석한 것으로 박 검사를 징계하려면 임 검사장도 징계해야 하는 것 아니냐”는 질문에 임 검사장은 “시민단체 및 여러 정당 국회의원 주최 입법 공청회에 토론자로 참석한 사실이 있다”며 “2024년 2월 징계 청구된 건이 있지만 공수처에서 관련 사건을 무혐의했으니 조만간 정리될 것으로 기대하고 있다”고 답했다고 한다.&lt;br&gt;&lt;br&gt;공 검사는 “다른 건에서 무혐의를 받았으니 이 건(공청회 참석)도 문제가 없다는 것이냐”며 “검사장님은 누가 뭐라고 하면 항상 다른 얘기, 옛날 얘기하는 나쁜 버릇이 있던데 집중에 방해되니 이제 좀 고치셨으면 좋겠다”고 했다. 임 검사장이 언급한 무혐의 처분을 받았다는 사건은 2021년 한명숙 전 국무총리 모해 위증 의혹 감찰 과정을 소셜 미디어에 언급했다가 공무상 비밀 누설 혐의로 공수처 수사를 받았던 일을 말한다. 공청회와는 아무런 관계가 없는 별도의 일이다.&lt;br&gt;&lt;br&gt;이어 공 검사는 임 검사장이 참석했던 공청회와 박 검사가 참석했던 청문회를 비교했다. 박 검사는 더불어민주당이 주도하는 국회 ‘윤석열 정권 조작기소 국정조사’ 특별위원회가 한창 열리던 지난달 7일 국민의힘 특위 위원들이 별도로 개최한 청문회에 참석해 발언했다. 임 검사장은 작년 8월 국회 의원회관에서 열린 검찰 개혁 공청회에서 “(검찰 개혁안이) 검사장 자리 늘리기 수준인 것 같아서 참담한 심정” “정성호 법무부 장관조차도 검찰에 장악돼 있다”며 법무부의 검찰 개혁 방안을 강력 비판했다. 여권 강경파 주장에 힘을 실은 발언으로 해석됐다.&lt;br&gt;&lt;br&gt;임 검사장의 공청회는 촛불행동 등 시민단체와 민주당·조국혁신당이, 박 검사의 청문회는 국민의힘 의원들이 주최했다. 공 검사는 “두 청문회 모두 정치적이라는 점을 부정할 수는 없다고 본다”며 “임 검사장은 어물쩍 황당하다며 넘어가지 말고 어떤 점이 다른지 밝혀달라”고 했다. 그러면서 “대검 및 법무부 감찰 담당자들도 비교를 잘 해보라. 내가 보기엔 집권 여당과 대통령 심기를 건드린 차이밖에는 없어 보인다”고 했다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 지난 15일 “박 검사가 적법한 국정조사에는 응하지 않으면서 야당이 주최한 유사 청문회에 참석해 여러 발언을 했다”며 “이 부분들도 같이 보고(감찰하려 하고) 있다”고 했다. 구자현 검찰총장 대행은 지난 12일 “부당하게 피의자의 자백을 요구하고, 외부 음식물을 정당한 사유 없이 제공했다”며 법무부에 박 검사에 대한 ‘정직 2개월’ 징계를 청구했는데, 법무부에서는 박 검사의 청문회 참석도 징계 사유가 될 수 있는지 추가로 들여다보고 있다는 것이다.&lt;br&gt;&lt;br&gt;한편 민주당은 박 검사가 2023년 쌍방울 대북 송금 사건을 수사하며 김성태 전 쌍방울 회장 등에게 연어와 술을 제공하며 “이재명 대통령이 이 사건에 관여했다”는 진술을 하도록 회유했다고 주장해 왔다. 그러나 대검 징계 청구서에는 민주당이 주장해 온 ‘연어 술 파티’는 물론, 술·술 반입 등이 전혀 포함되지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“부정맥 검사 전 커피·스쿼트·줄담배가 ‘특효’”… 사기 주도 보험설계사, 징역 3년</title>
+      <link>https://www.chosun.com/national/regional/2026/05/16/3UI5I7ZEPNEQPG7XIFYPGWO6JM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/16/3UI5I7ZEPNEQPG7XIFYPGWO6JM/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 May 2026 01:06:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2TMZDDMEYTEMJSGQ2TKZBTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산고등·지방법원 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원에서 허위로 부정맥 진단을 받는 요령을 고객에게 알려주고 보험금을 받게 한 혐의로 재판에 넘겨진 보험설계사가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사 6단독(판사 김민지)은 보험사기방지 특별법 위반 혐의로 기소된 30대 남성 A씨에게 징역 3년을 선고했다고 16일 밝혔다. 또 A씨와 함께 기소된 B씨 등 고객 4명 중 1명에게는 징역 10개월의 실형을, 나머지 3명에게는 징역 6개월~1년 6개월에 집행유예 2~3년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 보험설계사로서 직업윤리를 저버리고 범행을 주도했다”며 “다수 보험 가입자에게 피해가 번졌고, 보험이 갖는 사회적 기능이 저해돼 엄벌이 불가피하다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 국내 한 보험사 소속 보험설계사로 근무하면서 2022~2025년 B씨 등 고객들에게 허위로 부정맥 진단을 받는 방법을 알려주고 보험금을 청구하게 한 혐의를 받았다. 30명이 넘는 보험 계약자가 A씨의 제안으로 여러 보험 상품에 가입하고 병원에서 허위 부정맥 진단을 받아 챙긴 보험금만 10억원이 넘었다.&lt;br&gt;&lt;br&gt;A씨는 해당 보험금의 일부를 수수료로 챙긴 것으로 알려졌다. 부정맥은 심장 박동이 비정상적으로 빨라지거나 늦어지는 등 불규칙해지는 증상이다. A씨는 이런 사실에 착안해 ‘부정맥 진단 매뉴얼’을 만들어 고객들과 공유하면서 보험금 청구 과정 전반을 관리했다. &lt;br&gt;&lt;br&gt;매뉴얼에는 병원 접수나 진료 시 ‘가슴이 두근거리고 답답하다’ ‘가만히 앉아 있어도 그런 증상이 간간이 있다’는 증상 설명 방법이 담겼다. 특히 초음파와 심전도 검사 등을 앞둔 전날에는 에스프레소 3잔과 에너지 음료를 마신 뒤 밤을 새우고 병원에 가야 검사 시 이상이 있을 확률이 높다고 강조됐다. &lt;br&gt;&lt;br&gt;또 줄넘기, 스쿼트, 계단 걷기 등을 통해 심박수를 불규칙하게 만드는 것은 물론 잠도 자지 말고 줄담배를 피우라는 등의 내용도 있었다. A씨는 고객들에게 부정맥 진단이 잘 나오는 특정 병원을 소개했고, 보험사의 ‘보험사기 리스트’에 오르지 않도록 보험금 수령 이후 대응 요령 등도 상세히 알려줬다고 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>요리에 식용 불가 ‘개미 토핑’… 미쉐린 2스타 식당 대표 기소 </title>
       <link>https://www.chosun.com/national/national_general/2026/05/16/ZOAODBBRUZADDLDCMD6L5JEYBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/16/ZOAODBBRUZADDLDCMD6L5JEYBY/</guid>
@@ -864,84 +944,6 @@
       <description/>
       <pubDate>Thu, 14 May 2026 15:41:00 +0000</pubDate>
       <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXLHKYOCUVAVPDMS2GCDCX4ZLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 물심양면(物心兩面)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/05/15/ATNCNYXCDRCFDMSHI5J24K7FRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/05/15/ATNCNYXCDRCFDMSHI5J24K7FRQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAAFLCXCQFGSJKAOZALE5CP3SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] didn’t see that coming</title>
-      <link>https://www.chosun.com/national/nie/english/2026/05/15/AWZAOLEBUBHXZPVLQVV2R5IHIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/05/15/AWZAOLEBUBHXZPVLQVV2R5IHIQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66SSWEJISFCVRFJOIERLNVTCIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2867] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2026/05/15/S2RXKDSRZFEKXHOB4F5XVZOU6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/15/S2RXKDSRZFEKXHOB4F5XVZOU6Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGC7IARS5BDOFPOANC2I7UAWRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 열정이 샘솟다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/05/15/PNYCDPYPURDQJB3SFRNRMIRI4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/05/15/PNYCDPYPURDQJB3SFRNRMIRI4M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BESNZADTXZBH5F62DYQAZLYZDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 따뜻하고 포근하다, 따사롭다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/05/15/BMG7E3VCRZGL7D6Z2Q7HBRY45Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/05/15/BMG7E3VCRZGL7D6Z2Q7HBRY45Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DWYXTQRLRCUNEVAF5UBKGJ2LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5월 중순인데 찐다 쪄... 주말까지 최고 33도</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/14/UZSGSPQUDVET3JR5KDWE5ZJDA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/14/UZSGSPQUDVET3JR5KDWE5ZJDA4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 12:03:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VUVQNTL55I3REDMKPHFGVQ2FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초여름 날씨를 보인 14일 오후 서울 종로구 광화문광장 분수대 터널에서 아이들이 물놀이를 하며 더위를 식히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말까지 전국에 초여름 날씨가 이어지겠다. 일요일인 17일에는 일부 지역 한낮 기온이 최고 33도까지 오르겠다. 6월 중순쯤 접했던 더위가 한 달가량 빨리 찾아온 것이다. 이번 더위는 다음 주 전국에 비가 내리면서 해소될 전망이다.&lt;br&gt;&lt;br&gt;14일 기상청에 따르면, 이날 서울 용산구의 한낮 기온이 32.9도까지 오르는 등 올해 들어 서울 수은주가 처음으로 30도를 넘었다. 작년(5월 21일)보다 일주일 빠른 기록이다. 폭염(최고 체감온도 33도 이상)에 가까운 더위가 때 이르게 발생한 것이다.&lt;br&gt;&lt;br&gt;더위의 원인은 우리나라 상공을 덮은 고기압과 동해상에서 불어온 동풍이 꼽힌다. 고기압이 느리게 움직이면서 우리나라 상공에 지붕을 씌운 듯 열기가 갇히는 효과가 생겼고, 태백산맥을 넘는 과정에서 ‘푄 현상’에 의해 뜨거워진 동풍이 열기를 더하고 있다. 주말까지 태백산맥 서쪽 지역에 이런 열풍이 계속 공급될 것으로 보인다. 15일 아침 최저기온은 10~17도, 낮 최고기온은 22~32도로 예보됐다. 이는 이맘때 평년 최고기온(20~25도)보다 10도 정도 높은 것이다. 열기가 점점 쌓이면서 17일 대구·경북 등에선 한낮 최고기온이 33도까지 오를 것으로 보인다.&lt;br&gt;&lt;br&gt;보통 봄은 대기 불안정이 심해지면서 비구름대를 동반한 저기압과 이동성 고기압이 3~4일 간격으로 한반도 상공을 번갈아 통과하는 게 일반적이다. 비가 오락가락하고, 흐린 날도 많다. 하지만 올봄은 ‘바람’에 의한 이상 고온 현상이 반복되며 마치 여름이 당겨져 온 듯 고기압 영향권에 오래 머무는 날이 늘어났다. 앞서 지난달엔 북태평양고기압의 이른 확장과 저기압의 영향으로 남부 지방에 ‘여름 바람’으로 불리는 고온다습한 남풍이 때 이르게 유입됐다. 동해상에선 동풍 유입으로 중부 지방 곳곳에 최고 30도가 넘는 더위를 견인하기도 했다. 현재 한반도 주변 해수면 온도가 평년보다 1도 이상 높은 상태라 동해나 남해에서 내륙으로 불어오는 공기의 온도도 더 높다. 이런 이례적 ‘고온의 바람’이 아직 5월인데도 마치 여름이 온 것처럼 전국의 수은주를 크게 끌어올리고 있는 것이다.&lt;br&gt;&lt;br&gt;주말까지 기온이 계속 오를 것으로 예상되면서, 곳곳에서 5월 일(日) 최고기온 기록이 경신될 수 있다는 관측도 나온다.&lt;b&gt; &lt;/b&gt;서울의 5월 일 최고기온 공식 기록은 1950년 5월 30일 세운 34.4도(종로구)다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MVQTKNLFGMZTGMZTGI2GKNZVGA.jpg?auth=6f5277d3cfa104c2b914c33b289083173b127c5e8b34ae1f2298d1291937a3a3&amp;smart=true&amp;width=1470&amp;height=1073" type="image/jpeg" height="1073" width="1470">
-        <media:description type="plain">서울 낮 최고기온 28도까지 오르며 초여름 날씨를 보인 13일 오후 서울 종로구 광화문광장에서 외국인 관광객들이 시원한 분수 아래를 지나고 있다. 2026.5.13 ⓒ 뉴스1 조연우 인턴기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘尹 정부 포스터 그대로’…충북경찰청, 감찰 대상에</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/14/2F6B7FRUDJA6BM6JBUYQDRUUQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/14/2F6B7FRUDJA6BM6JBUYQDRUUQU/</guid>
-      <dc:creator>김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 13:56:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGVYGSMHGBESJF7W4QNSTAEEOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북경찰청이 민원실 내 윤석열 정부 국정 목표 포스터를 교체하지 않고 있다가 감찰을 받고 있다.&lt;br&gt;&lt;br&gt;경찰청은 14일 충북경찰청 경무계와 민원실을 상대로 감찰을 진행 중이다.&lt;br&gt;&lt;br&gt;충북청 경무계는 지난 1월 이재명 정부의 국정 목표 시안을 하달받았지만 이를 민원실에는 전달하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 지난달 27일 김소연 변호사는 자신의 SNS에 “모 지방 경찰청 방문 중인데 윤석열 정부 시절 국정목표가 그대로 걸려 있다“며 ”너무 반갑고 또 눈물이 난다”는 내용의 글과 사진을 게시한 바 있다.&lt;br&gt;&lt;br&gt;경찰청은 해당 게시글을 통해 국정 목표 포스터가 교체되지 않은 사실을 확인하고 새 포스터로 교체되지 않은 경위를 파악하라고 감찰을 지시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;충북청 민원실은 지난달 30일 윤석열 정부의 국정 목표 포스터를 치웠으며 지난 8일 이재명 정부의 국정 목표 포스터를 새로 게시했다.&lt;br&gt;&lt;br&gt;경찰청은 지난 6일 전국 시도경찰청에 국정 목표 포스터를 새로 교체했는지 점검하라고 지시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DVB2IMFUVVG4NHHUJJTAFAOZWI.jpg?auth=840f9ba56d87f28ac65d78f43934db852e73c3b46c09cb5da7a2fa392b4e37e6&amp;smart=true&amp;width=470&amp;height=500" type="image/jpeg" height="500" width="470">
-        <media:description type="plain">김소연 변호사 페이스북.</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 15일</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/14/MIXOWO4HYVA35OYFCHSP7S6NTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/14/MIXOWO4HYVA35OYFCHSP7S6NTY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 14:34:00 +0000</pubDate>
-      <content:encoded>금 - 한낮 최고 32도 초여름 날씨&lt;br&gt;&lt;br&gt;토~일 - 전국 대체로 맑음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VH4KDJ6Q3ZHFFHIPZGOPSUZ3IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아빠 잃은 제자에 매월 15만원... 7년간 버팀목이 되어준 스승</title>
