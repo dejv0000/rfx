@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 5월 18일</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/17/ICCTTSNNP5HORHXYIYSQFJTADQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/ICCTTSNNP5HORHXYIYSQFJTADQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 May 2026 14:35:00 +0000</pubDate>
+      <content:encoded>전국 낮 30도 이상 더위&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBBNBT4RUBDYVLYC24KYGUGUUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘정청래 암살 모의’에… 경찰, 여야 신변보호팀 조기 가동</title>
       <link>https://www.chosun.com/national/national_general/2026/05/17/VJVXD34E7ZF4DOZAQLYRA6ME5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/VJVXD34E7ZF4DOZAQLYRA6ME5Q/</guid>
@@ -934,15 +943,6 @@
       <description/>
       <pubDate>Fri, 15 May 2026 02:08:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3DSOLGME3DMZLFMM3DMYRSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 NC 다이노스의 홈경기 종료 후 그라운드에서 기념사진을 촬영하고 있는 지난해 희망 편지쓰기 대회 수상 아동과 가족들의 모습. /굿네이버스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;글로벌 아동 권리 전문 NGO 굿네이버스는 어린이날 주간을 맞아 지난 9일부터 10일까지 창원NC파크에서 진행한 ‘굿네이버스 데이’를 성황리에 마무리했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;굿네이버스 데이는 올해 창립 35주년을 맞은 굿네이버스가 프로야구 NC 다이노스와 함께 취약계층 아동의 꿈과 미래를 응원하기 위해 마련한 사회공헌 행사다. 굿네이버스는 지난해 NC 다이노스 구성원을 ‘꿈지원단’으로 위촉하고 지역사회 취약계층 아동 지원과 나눔 문화 확산을 위한 협력을 이어오고 있다.&lt;br&gt;&lt;br&gt;어린이날 주간을 맞아 열린 이번 행사는 NC 다이노스의 홈경기와 연계해 ‘아이들의 꿈을 캐치! 꿈의 홈베이스를 밟다’를 슬로건으로 진행됐다. 이틀 동안 3만6000여 명의 관중이 경기장을 찾았다.&lt;br&gt;&lt;br&gt;NC 다이노스 선수단은 굿네이버스 로고가 새겨진 유니폼을 입고 경기에 나섰다. 9일 경기에는 최근 굿네이버스의 아프리카 봉사활동을 다녀온 배우 정일우가 시구자로 나섰다. 10일에는 경남 가촌초등학교 문태윤 학생이 시구를, NC 다이노스 유격수 김주원이 시타를 맡았다. 이날 개인 통산 100도루를 달성한 김주원은 “지금 당장은 실패와 어려움이 있더라도 자신을 믿고 꿈을 향해 계속 도전하길 바란다”는 응원의 메시지를 전했다.&lt;br&gt;&lt;br&gt;한편 행사 기간 경남 지역 초등학생과 희망 편지쓰기 대회 수상 아동 등 60명이 그라운드에 초청돼 선수들과 하이파이브를 나누는 시간도 마련됐다. 경기장 외부에는 ‘꿈의 학교’ 콘셉트의 나눔 체험 부스가 운영됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> SCL헬스케어, 임상시험 검체분석 범위 확대…신약 개발에 적극적 대응</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/05/15/ZKBXDLX2WZHDLGPUGPL4YF7OXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/15/ZKBXDLX2WZHDLGPUGPL4YF7OXE/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 May 2026 01:58:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2WC6WUGBF5KHOHETROAS3KX54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SCL사이언스 로고.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SCL사이언스는 자회사 SCL헬스케어의 임상시험 검체분석기관 지정 범위에 ‘질량 분석’ 항목이 추가됐다고 15일 밝혔다. 회사는 지난달 30일 식품의약품안전처로부터 임상시험 검체분석기관 지정 구분 변경 승인을 받았다.&lt;br&gt;&lt;br&gt;SCL헬스케어는 그동안 임상검사, 면역 분석, 기타 생체지표 분석 등의 서비스를 수행했다. 여기에 질량 분석이 추가되면서 신약의 체내 흡수, 분포, 대사, 배설을 확인하는 약동학(Pharmacokinetics) 분석이 가능해진 것이다. 업체 관계자는 “제약·바이오 기업과 임상시험 수탁기관(CRO)을 대상으로 폭넓은 분석 서비스를 제공하고, 신약개발 과정에서 요구되는 검체분석 품질과 데이터 신뢰성 확보에 기여할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;SCL헬스케어는 신약개발의 첫 관문인 임상 1상 시험에 대한 검체분석 수주를 본격적으로 확대해 나갈 계획이다. 항체약물접합체(ADC)의 구조 분석과 체내 동태 분석, 항약물항체 평가 등 혁신 신약 개발 수요 전반에 적극적으로 대응한다는 방침이다.&lt;br&gt;&lt;br&gt;국내 임상 검체 분석 시장 규모는 2500억원으로 추정된다. 신약 파이프라인이 다변화하면서 관련 전문 분석 수요가 지속적으로 늘어나는 추세다. SCL사이언스는 이번 자회사의 분석 역량 확장을 기점으로 고난이도 신약 검체 분석 물량을 수주하고, 임상시험 전 단계에서 발생하는 검체 분석을 유치해 시장 지배력을 강화한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>배우자 ‘불륜 문자’ 몰래 촬영...대법 “민사 증거로 인정”</title>
