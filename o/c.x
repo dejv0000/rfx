@@ -13,6 +13,65 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘정청래 암살 모의’에… 경찰, 여야 신변보호팀 조기 가동</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/17/VJVXD34E7ZF4DOZAQLYRA6ME5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/VJVXD34E7ZF4DOZAQLYRA6ME5Q/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 May 2026 08:30:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRQECHYQNBJKBFRJ4DV6446V4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 정청래 대표가 17일 전북 김제의 민주당 박지원 전북 군산김제부안을 국회의원 보궐선거 후보 선거사무소 개소식에 참석해 인사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거를 앞두고 소셜미디어(SNS)에서 더불어민주당 정청래 대표를 겨냥한 테러 모의 의혹이 제기되자 경찰이 신변 보호와 수사에 착수했다. &lt;br&gt;&lt;br&gt;경찰청은 이날 “민주당, 국민의힘 대표에 대한 ‘전담 신변 보호팀’을 당 측과 협의 후 조기 가동했다”고 밝혔다. 당초 공식 선거 운동 기간인 21일부터 예정돼 있던 신변 보호 조치를 나흘 앞당긴 것이다. 다만 양당이 모두 지방 유세를 다니고 있어 실제 신변 보호 조치 시점은 추후 확정된다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “신변 보호팀의 규모 등 세부 사항은 대상자 안전과 관련된 사안인 만큼 비공개하기로 협의했다”고 했다.&lt;br&gt;&lt;br&gt;서울영등포경찰서는 이날 정 대표에 대한 테러 의혹 사건을 배당받아 조사에 착수했다. 민주당은 이날 오전 “공식 선거운동 기간을 나흘 앞둔 상황에서 ‘정청래를 죽이자’, ‘정청래 암살단 모집’ 등 실체를 알 수 없는 SNS 단체방에서 집단적인 테러 모의가 이뤄지고 있다는 제보가 잇따라 접수되고 있다”며 “어제 경찰에 신속한 수사와 신변 보호 조치를 요청했다”고 했다.&lt;br&gt;&lt;br&gt;정 대표는 이날 전북 익산 일정을 소화한 뒤 기자들과 만나 암살 의혹에 대해 “‘이렇게까지 해야 하나’ 하는 생각이 들어 참담하고 마음이 아프고 괴롭다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주차 방지턱 넘고 ‘급과속’...밀양 수영장 사고 18일 현장감식</title>
+      <link>https://www.chosun.com/national/regional/2026/05/17/76RJ5VQ6MFD53JREUZLOUFYGT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/17/76RJ5VQ6MFD53JREUZLOUFYGT4/</guid>
+      <dc:creator>밀양=김주영 기자, 밀양=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 May 2026 06:27:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FSI44JKJRIKHELTLPKUTD5CPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 10시 20분쯤 경남 밀양시 하남읍 하남스포츠센터에서 바깥에 있던 승용차 1대가 1층 유리창을 깨고 안으로 돌진해 지하 수영장으로 떨어진 후 뒤집어졌다. 수영장에 뒤집힌 채 가라앉은 차량. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 밀양시 한 공공 스포츠센터 주차장에서 70대가 몰던 차량이 유리창을 뚫고 실내 수영장으로 추락한 사고와 관련해 경찰이 사고 경위를 조사중이다.&lt;br&gt;&lt;br&gt;17일 경남경찰청에 따르면 지난 16일 오전 10시 20분쯤 밀양시 하남읍 하남스포츠센터에서 70대 여성이 운전하던 승용차가 센터 1층 유리창을 깨고 안으로 돌진해 지하 실내 수영장으로 추락했다. 차량은 수영장에 떨어진 후 뒤집혔다. 당시 수영을 하던 회원들과 강사가 운전자를 구조했다. 운전자 역시 이 곳 센터 회원으로, 수영을 마치고 귀가하던 중 사고를 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WX27M7DLVVF7BKH7HUB4LZP74M.gif"&gt;&lt;figcaption&gt;&lt;small&gt;운전자가 주차장에서 차량을 후진하던 중 뒤편을 지나던 다른 승용차와 접촉사고를 낸 이후 차량이 갑자기 속도를 내며 수영장 방향으로 돌진하는 모습이 담긴 CCTV 영상. /경남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 출동한 119구급대는 가슴 통증을 호소하는 운전자와 깨진 유리창 파편에 열상을 입은 것으로 보이는 50대 여성 등 2명을 병원으로 이송했다. 두 사람 모두 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;경찰이 센터 방범카메라(CCTV)를 분석한 결과 운전자는 주차장에서 차량을 후진하던 중 뒤편을 지나던 다른 승용차와 접촉사고를 냈다. 이후 차량이 갑자기 속도를 내며 수영장 방향으로 돌진했고, 주차 방지턱(스토퍼)을 뛰어 넘은 뒤 1층 대형 유리창, 철제 구조물을 잇달아 들이받고 4~5m 아래 지하 실내수영장으로 추락했다.&lt;br&gt;&lt;br&gt;사고 당시 이 수영장에는 8명이 수영을 하고 있었으나 차량이 추락한 장소에서 떨어져 있어 화를 면했다고 한다. 대부분 수영장 반대편에 있어 추가 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;운전자는 경찰에 “당시 상황이 전혀 기억나지 않는다”고 진술했다. 경찰은 사고 운전자가 술을 마시거나 무면허로 운전한 것은 아니라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7MSDTGARRAG7M4NZYP2FWFCOQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 센터는 밀양시가 조성한 지상 2층, 지하 2층 규모 공공 시설로, 지난 2024년 7월 개관했다. 사고가 난 수영장 내부엔 25m 길이 레인 7개와 유아풀 등이 있다. 준공 후 세 차례 정기 안전점검에서 안전 등급은 ‘양호’로 평가됐고 별도의 개선방향 등이 제시된 적은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 18일 센터에 대한 현장 감식을 진행하는 한편 운전자 등에 대한 추가 조사를 벌여 정확한 사고 경위를 파악할 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고 당일 운전자가 물을 많이 마셔 조사를 제대로 하지 못했다”며 “건강이 회복되는대로 사고 경위를 조사하는 한편 건물 구조에 이상이 없었는 지 등도 살필 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HXCLWNDT3NCHJKFTMRCBLK3DP4.gif?auth=0696acd3696ee9d558eef2d062aa4ab4eab428cb60a12017e0f382df26ac6f62&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
+        <media:description type="plain">주차장에서 차량을 후진하던 중 뒤편을 지나던 다른 승용차와 접촉사고를 낸 이후 차량이 갑자기 속도를 내며 수영장 방향으로 돌진하는 모습이 담긴 CCTV 영상. /경남경찰청</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>안창호 인권위원장, 5·18 기념식 불참…상임위원 3명만 참석</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/17/HAGG3KMY6BCJZMO7PHHXGADTP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/HAGG3KMY6BCJZMO7PHHXGADTP4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 May 2026 07:04:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2TGMRYGRSGENBZGYZDGOJTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원장이 지난해 5월 18일 오전 광주 북구 운정동 5·18민주묘지에서 열린 제45주년 5·18 민주화운동 기념식에 참석하던 중 시민단체의 항의에 발길을 되돌리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안창호 국가인권위원회 위원장이 올해 5·18 민주화운동 기념식에 참석하지 않기로 했다.&lt;br&gt;&lt;br&gt;17일 국가인권위원회에 따르면, 안 위원장은 18일 열리는 제46주년 5·18 민주화운동 기념식에 참석하지 않고, 김학자, 오영근, 이숙진 등 상임위원 3명만 참석할 예정이다.&lt;br&gt;&lt;br&gt;안 위원장은 지난해 5·18 민주화운동 기념식 참석을 위해 광주를 찾았지만, 윤석열 전 대통령 탄핵 과정에서 불거진 논란으로 시민과 5·18 단체 등의 항의로 행사장에 입장하지 못했다. 올해도 비슷한 상황이 예상되자 참석하지 않기로 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;제46주년 5·18 민주화운동 기념식은 18일 옛 전남도청 앞에서 열린다. 금남로에서 기념식이 열리는 것은 2020년 제40주년 행사 이후 6년 만이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“성차별적 구조가 낳은 비극”  강남역 10주기 추모 집회</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/17/BXN2A7W3BFE7LNO24VTBLNCXME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/BXN2A7W3BFE7LNO24VTBLNCXME/</guid>
+      <dc:creator>한영원 기자, 김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 May 2026 07:55:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23POYAXLFVLB3LM52BBPW5MYB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 강남역 10번 출구 일대에서 여성시민단체들 주최로 열린 '강남역 여성살해사건 10주기 추모행동'에서 참석자들이 손팻말을 들고 있다/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘강남역 살인 사건 10주기’인 17일 서울 지하철 2호선 강남역 10번 출구 인근에서 여성 단체들의 추모 집회가 진행됐다. 200여 m 떨어진 곳에선 ‘남성 역차별’을 주장하는 남성 단체들의 맞불 집회도 열렸다.&lt;br&gt;&lt;br&gt;“강남역 10주기! 추모를 딛고 행동하라!” 이날 오후 2시쯤 서울여성회 등 여성 단체 157곳이 강남역 10번 출구 인근에서 ‘강남역 여성살해사건 10주기 추모행동’ 집회를 진행했다. 이들은 이날 ‘여성폭력 STOP’ ‘그날을 기억하는 우리가 오늘을 바꾼다’ ‘안전은 요구가 아니라 권리다’ 등의 문구가 적힌 팻말을 들었다. “강남역 절대 잊지 않겠습니다” “살아남은 우리가 세상을 바꾼다” 등의 구호를 다 같이 외치기도 했다 &lt;br&gt;&lt;br&gt;무대에 선 박지아 젠더폭력해결페미니스트연대 공동대표는 “강남역은 단순한 사건 현장이 아닌, 여성들이 성차별 현실을 깨닫고 세상을 바꾸기 위해 결집한 연대의 공간”이라고 했다. 도경은 한국여성의전화 활동가도 “이 비극은 개인의 비극이 아닌 성차별적 구조가 낳은 구조적 재난”이라고 했다. &lt;br&gt;&lt;br&gt;이날 집회에 참가한 시민 강수빈(30)씨는 “당시 뉴스를 보고 ‘나 또한 범죄의 표적이 될 수 있겠구나’ 하는 섬뜩함이 들었다”며 “고인의 죽음이 헛되지 않기를 바라는 마음으로 참석했다”고 했다. 딸을 둔 엄마라는 김모(60)씨도 “조금이나마 힘이 되고 싶다”며 현장에 마련된 포스트잇에 ‘강남역으로 왕래하는 모든 이들이 안전하게 다닐 수 있도록 노력해주세요’라는 메모를 남겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJQYMFMMZJHJZOYMWZ5OHJHA6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 5월 17일 서울 강남구 강남역 10번출구 인근에서 한 남성단체가 여성단체 집회에 맞불 집회를 열고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 시간 200여 m 떨어진 곳에선 남성부 등 남성 단체 회원들이 모여 ‘남성 역차별’을 주장하는 맞불 집회를 열었다. 이들은 ‘남성은 더 이상 참지 않는다’ ‘여자만 특별시? 남자는 개무시!’ ‘남자가 훨씬 많이 죽는다’ 등의 문구를 적은 팻말을 곳곳에 세워뒀다. &lt;br&gt;&lt;br&gt;박찬우 남성부 대표는 단상에 올라 “저들은 언제나 자신들이 핍박받고 차별받아 온 여주인공 코스프레를 한다”며 “저들의 주장은 여섯 살 꼬마가 장난감을 사 달라고 때를 쓰는 것과 같다”고 주장했다. 이어 “군대에서는 매년 80명이 죽어나간다”며 “(강북 약물 살인 같은) 남성의 죽음에는 왜 침묵하느냐”고 했다. &lt;br&gt;&lt;br&gt;이날 집회 시작 전인 오후 1시 30분쯤에는 한 남성 유튜버가 라이브 방송을 켠 채, 여성 단체 쪽에 접근해 경찰의 제지를 받는 일도 있었다. 구독자 3300여 명을 보유한 해당 유튜버는 ‘이동해 달라’는 경찰 요구에 “제 권리 행사를 방해하시는 거다” “저들은 추모를 빌미로 이득을 취하고자 하는 겁니다!” 등의 발언으로 항의했다. &lt;br&gt;&lt;br&gt;이날 집회에는 오후 3시 기준 여성 단체 측 약 500명, 남성 단체 측 약 10명이 모였다. 한편 경찰은 양측 집회 참가자들 간 충돌을 막기 위해 두 집회 공간 사이에 펜스를 설치했고, 약 260명의 인력을 투입했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 18일 월요일 (음력 4월 2일 壬辰)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/17/JLJVRXB425ANVCVQN272XJLLMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/JLJVRXB425ANVCVQN272XJLLMI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232"/>
+    </item>
+    <item>
+      <title>구미에 400억 규모 반도체 소재·부품 제조 검증 시험장 구축</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/17/RAC2IKL3ARF6BAONQ5GS5OKHT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/RAC2IKL3ARF6BAONQ5GS5OKHT4/</guid>
+      <dc:creator>구미=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 May 2026 07:45:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYWPHM4D3RGDFBYCYS5XF7ZQKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미시에 반도체 소재·부품을 만들고 성능을 시험하는 시설이 들어선다.&lt;br&gt;&lt;br&gt;17일 경북도·구미시 등에 따르면 구미시는 산업통상부의 ‘반도체 챔버용 소재·부품 제조 및 검증 테스트베드 구축’ 사업에 선정됐다. 챔버는 화학 반응 속에서 반도체 웨이퍼를 보호하고 장비 손상을 방지하는 공정 공간을 뜻한다. 총사업비 400억원이 투입되며 2030년까지 구미국가1산업단지에 테스트베드가 조성된다.&lt;br&gt;&lt;br&gt;주관 기관인 한국세라믹기술원이 시제품 제조와 검증을 동시에 할 수 있는 연면적 3000㎡ 규모 ‘반도체 챔버 기술지원센터’를 구축하고 제조·검증용 장비 44종을 도입해 기업의 시제품 제작, 소재 분석, 공정 최적화 등을 지원할 방침이다. 공동 참여 기관인 한국산업기술시험원은 제품 성능 검증을 맡고, 한국반도체산업협회는 수요·공급 기업 간 연결과 기술 교류회를 열 예정이다. &lt;br&gt;&lt;br&gt;구미시는 테스트베드를 통해 지역 내 70여 개 반도체 소재·부품 기업이 제품 상용화 기간을 줄이고 수요에 대응할 수 있을 것으로 기대한다.&lt;br&gt;&lt;br&gt;정성현 구미시장 권한대행은 “이번 공모 선정을 통해 구미가 첨단 반도체 소재·부품 기술 혁신 거점으로 도약할 수 있도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 북한 ‘내고향축구단’ 전격 방남 ... 7년 5개월 만에 남북 체육 교류 재개 </title>
       <link>https://www.chosun.com/national/national_general/2026/05/17/UPW7J6WHZNCADJG7V6ASQB7SCY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/17/UPW7J6WHZNCADJG7V6ASQB7SCY/</guid>
@@ -886,19 +945,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2WC6WUGBF5KHOHETROAS3KX54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SCL사이언스 로고.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SCL사이언스는 자회사 SCL헬스케어의 임상시험 검체분석기관 지정 범위에 ‘질량 분석’ 항목이 추가됐다고 15일 밝혔다. 회사는 지난달 30일 식품의약품안전처로부터 임상시험 검체분석기관 지정 구분 변경 승인을 받았다.&lt;br&gt;&lt;br&gt;SCL헬스케어는 그동안 임상검사, 면역 분석, 기타 생체지표 분석 등의 서비스를 수행했다. 여기에 질량 분석이 추가되면서 신약의 체내 흡수, 분포, 대사, 배설을 확인하는 약동학(Pharmacokinetics) 분석이 가능해진 것이다. 업체 관계자는 “제약·바이오 기업과 임상시험 수탁기관(CRO)을 대상으로 폭넓은 분석 서비스를 제공하고, 신약개발 과정에서 요구되는 검체분석 품질과 데이터 신뢰성 확보에 기여할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;SCL헬스케어는 신약개발의 첫 관문인 임상 1상 시험에 대한 검체분석 수주를 본격적으로 확대해 나갈 계획이다. 항체약물접합체(ADC)의 구조 분석과 체내 동태 분석, 항약물항체 평가 등 혁신 신약 개발 수요 전반에 적극적으로 대응한다는 방침이다.&lt;br&gt;&lt;br&gt;국내 임상 검체 분석 시장 규모는 2500억원으로 추정된다. 신약 파이프라인이 다변화하면서 관련 전문 분석 수요가 지속적으로 늘어나는 추세다. SCL사이언스는 이번 자회사의 분석 역량 확장을 기점으로 고난이도 신약 검체 분석 물량을 수주하고, 임상시험 전 단계에서 발생하는 검체 분석을 유치해 시장 지배력을 강화한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 공공 아이돌봄 1년 대기하는데… ‘민간 참여’ 손 놓은 정부</title>
-      <link>https://www.chosun.com/national/education/2026/05/12/W4IGN6RVWFAYTGF3TPD6F2DPDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/12/W4IGN6RVWFAYTGF3TPD6F2DPDQ/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 May 2026 20:00:00 +0000</pubDate>
-      <content:encoded>만 12세 미만 자녀를 집에서 돌봐주는 정부의 ‘아이돌봄 서비스’ 평균 대기일이 지난해 역대 최장을 기록한 것으로 나타났다. 민간 돌보미 공급을 늘리는 법안이 작년 4월 국회를 통과했지만, 정부가 1년 넘게 손을 놓고 있는 사이 대기 문제가 더 심각해진 것이다. &lt;br&gt;&lt;br&gt;11일 국민의힘 조은희 의원실이 성평등가족부로부터 받은 자료에 따르면, 작년 아이돌봄 서비스 평균 대기일은 39.4일이었다. 2021년 19일, 2022년 27.8일, 2023년 33일, 2024년 32.8일 등 갈수록 서비스 이용이 어려워지는 추세다. 지역별로는 경북이 60.9일로 가장 길었고 서울(50.2일), 세종(49.3일), 인천(48일) 등 순이다. 맞벌이 부부는 많은데 활동하는 돌보미가 적은 동네는 1년 넘게 기다리는 경우도 많다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBGBIEZUZJDO7D23ZXE5E6YKU4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘아이돌봄 서비스’는 정부가 직접 돌보미를 교육하고 자격을 검증해 가정에 보내주기 때문에 부모들이 선호한다. 성평등부가 예산을 지자체에 주고, 지자체별 위탁 센터가 돌보미를 관리하고 가정에 파견한다. 이용 요금(시간당 1만2790원)도 부모 소득에 따라 15~90%까지 정부가 지원하기 때문에 민간 업체(1만6000~2만원)보다 저렴하다. 이 때문에 신청 가구는 늘고 있지만, 돌보미 수는 그만큼 늘지 않아 대기자가 증가하는 것이다. 아이돌봄 신청 가구는 2021년 7만8118가구에서 2025년 18만3794가구로 135.3% 증가했는데, 돌보미는 2만5917명에서 3만1718명으로 22.4% 증가하는 데 그쳤다. &lt;br&gt;&lt;br&gt;지난 정부는 민간 돌보미를 공급해 만성적 대기 문제를 해소하려고 시도했다. 작년 4월 아이돌봄지원법 개정안이 국회를 통과했고, 지난달 23일 시행됐다. 개정법에 따르면 정부가 마련한 시설·인력·서비스 기준에 맞춘 민간 업체는 지자체에 등록할 수 있다. 등록된 민간 업체는 소속 돌보미의 범죄 이력을 조회할 수 있고, 정부의 ‘아이돌봄서비스 플랫폼’에 올라 부모가 선택할 수 있다. 민간 업체 질을 높여 부모가 믿고 이용할 수 있게 하자는 것이다.&lt;br&gt;&lt;br&gt;그런데 본지 취재를 종합하면 이 법이 최근 시행됐는데도 등록을 신청한 민간 업체는 거의 없는 것으로 확인됐다. 민간 업체 200여 곳이 가입한 한국아이돌봄협회 정지예 회장은 “성평등가족부나 기초지자체에서 어떻게 등록하라는 지침이나 공지를 받은 적이 없어 신청 방법을 알 수 없다”며 “회원 중에 신청한 곳이 한 곳도 없다”고 했다. 실제 본지가 서울 종로구·강남구·송파구·관악구 등에 문의한 결과 등록을 신청한 민간 기관은 한 곳도 없었다. 부산 16개 구·군에도 신청한 업체가 없었다. &lt;br&gt;&lt;br&gt;성평등부 측은 “업체가 알아서 지자체에 신청하면 된다”는 입장이지만, 한 지자체 관계자는 “성평등부의 지침이 없으니, 민간 기관들도 신청 방법을 모를 것”이라고 말했다.&lt;br&gt;&lt;br&gt;민간 업계에선 “굳이 정부에 등록할 이유가 없다”는 분위기도 퍼져 있다. 정부에 등록하려면 각종 기준을 맞춰야 해 비용이 들고 정부 규제도 받게 되는데, 부모들은 결국 정부 지원금을 받을 수 있는 공공을 선택한다는 것이다. &lt;br&gt;&lt;br&gt;지난 정부는 민간 업체를 이용하는 부모에게도 지원금을 주는 방안을 검토했지만, 현 정부 들어서 논의가 사실상 중단된 상황이다. 성평등부 관계자는 “올해 아이돌봄 예산이 이미 확정된 만큼, 민간 기관 지원금 지급 방안은 검토하지 않고 있다”고 말했다. &lt;br&gt;&lt;br&gt;일각에선 “정부가 노조 눈치를 보느라 이 문제를 방치한다”는 얘기도 나온다. 공공 아이돌보미들이 소속된 민주노총 공공연대노조는 민간이 아이돌봄 서비스에 참여하는 것을 강력 반대해왔다. 민간에 돌봄을 맡기는 건 이재명 정부 국정과제인 ‘돌봄의 국가책임제’와 상충하고, 민간업체가 들어와 경쟁하면 돌보미 처우가 나빠진다는 이유다.&lt;br&gt;&lt;br&gt;전문가들은 정부가 그동안 공공 돌보미 부족 문제 해결에 실패한 만큼, 시급히 대안을 적용해야 한다고 본다. 권희경 국립창원대 사회복지학과 교수는 “지자체 센터들이 예산 부족, 돌보미와 부모를 중개하는 과정에서 생기는 법적 책임 문제 등을 이유로 운영을 포기하려는 경우도 많아 공공 공급이 늘 수 없는 상황”이라며 “공공의 한계가 명백한 상황이니 민간 업체를 통해 돌보미 부족 문제를 해소하고 공공과 민간 간 경쟁을 통해 질적 향상도 도모할 필요가 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RPR7EP3W4BAWJPF4X5A4OD4IEI.png?auth=f546de921bf12e219b57b155bda48c72e5123db901d11967aa97d9ac2bc0f6f9&amp;smart=true&amp;width=1354&amp;height=1015" type="image/png" height="1015" width="1354">
-        <media:description type="plain">일러스트=이철원</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>배우자 ‘불륜 문자’ 몰래 촬영...대법 “민사 증거로 인정”</title>
       <link>https://www.chosun.com/national/court_law/2026/05/15/ZG5WJVRQQFEL5MGR3PWIQGQXGY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/15/ZG5WJVRQQFEL5MGR3PWIQGQXGY/</guid>
@@ -906,61 +952,6 @@
       <description/>
       <pubDate>Fri, 15 May 2026 00:54:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZGIMJSMJSWMNTDMY3DQNBVHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우자 휴대전화 속 불륜 문자나 사진 등을 몰래 촬영한 자료는 형사 재판의 증거로는 쓸 수 없지만 경우에 따라 민사 재판의 증거로는 사용할 수 있다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 A씨가 배우자의 외도 상대방들을 상대로 낸 손해배상 청구 소송 상고심에서 지난달 원고 승소로 판결한 원심을 확정했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2005년 결혼한 배우자 B씨가 외도를 하고 있다고 의심하던 중 2021년 B씨로부터 이혼 요구를 받았다. 이후 조정이 이뤄지지 않아 정식 이혼 소송으로 이어졌고, A씨는 B씨의 외도 증거를 직접 수집했다.&lt;br&gt;&lt;br&gt;A씨는 B씨 차량에 몰래 녹음기를 설치해 B씨와 외도 상대방들의 대화를 녹음했다. 또 B씨 휴대전화에 저장돼 있던 문자메시지와 사진·동영상 등을 자신의 휴대전화로 촬영했다. A씨는 이후 외도 상대방들을 상대로 위자료 소송을 내면서 이 자료를 재판부에 제출했다.&lt;br&gt;&lt;br&gt;다만 A씨는 이혼 소송 과정에서 차량에 녹음기를 설치해 몰래 녹음한 혐의(통신비밀보호법 위반)와 배우자 휴대전화 속 문자·사진 등을 몰래 촬영한 혐의(정보통신망법 위반)로 유죄 확정 판결을 받았다. 위자료 소송에선 이렇게 위법하게 수집된 자료를 민사 재판에서 증거로 사용할 수 있는지가 쟁점이 됐다.&lt;br&gt;&lt;br&gt;대법원은 우선 차량 녹음에 대해서는 증거 능력을 인정하지 않았다. 통신비밀보호법상 제3자가 ‘공개되지 않은 타인 간 대화’를 몰래 녹음한 파일과 녹취록은 형사 재판은 물론 민사 재판에서도 사용할 수 없다고 봤다. &lt;br&gt;&lt;br&gt;반면 휴대전화 문자·사진을 촬영한 자료에 대해서는 다른 판단을 내렸다. 대법원은 “위법하게 수집된 증거이더라도 민사 소송에서의 증거 능력이 무조건 부정된다고 볼 수는 없다”고 했다. 형사소송법과 달리 민사소송법은 위법 수집 증거의 증거 능력을 배제하는 규정을 두고 있지 않기 때문이다.&lt;br&gt;&lt;br&gt;대법원은 “위법 수집 증거의 사용 가능 여부는 재판의 공정성과 사생활 침해 정도, 증거 확보의 필요성과 긴급성 등을 종합적으로 비교해 개별적으로 판단해야 한다”고 했다. &lt;br&gt;&lt;br&gt;대법원은 이번 사건에서는 A씨가 배우자의 외도를 의심할 만한 상황에서 이혼 소송 진행 중에 증거를 확보했고, 외도 사건 특성상 사생활 자료가 증거가 될 수밖에 없다고 봤다. 또, 다른 방법으로는 부정행위를 입증하기 어려웠고, 배우자나 외도 상대방들의 사생활을 침해한 정도도 중대하다고 보기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>목포 한 아파트서 고교생 2명 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/15/JPZHAODBHJC4FCYRSQ4DFEFZIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/15/JPZHAODBHJC4FCYRSQ4DFEFZIQ/</guid>
-      <dc:creator>목포=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 May 2026 01:57:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HESKZGXNAMGS5A6W445NACF2TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남경찰청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 목포의 한 아파트에서 추락한 고교생 2명이 숨져 경찰이 사고 원인 조사에 나섰다.&lt;br&gt;&lt;br&gt;15일 전남경찰청 등에 따르면 전날 오후 11시 19분쯤 목포시 한 아파트에서 A(16)양과 B(17)양이 의식을 잃은 채 발견돼 인근 병원으로 옮겨졌지만 숨졌다. 경찰은 이들에게서 범죄 혐의점을 발견하지 못했다.&lt;br&gt;&lt;br&gt;경찰은 A양 등이 극단적 선택을 한 것으로 추정하고 있다. 유서는 발견되지 않았다. 경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎109 또는 자살예방SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MMYDCMDEMY3TIYJYHBTGMMTEGI.jpg?auth=1c92115bd8c2064f246b8605251708ce74721e3468ac8f7c1012501612b1d98c&amp;smart=true&amp;width=1400&amp;height=1050" type="image/jpeg" height="1050" width="1400">
-        <media:description type="plain">전남경찰청 전경. ⓒ 뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>여수 디오션CC, 신축 클럽하우스 오늘 개장</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/05/15/72BWOCUU45GSHJASMS7UJPGWQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/05/15/72BWOCUU45GSHJASMS7UJPGWQM/</guid>
-      <dc:creator>여수=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 May 2026 02:40:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4DSOJQMJRDKNDBME2TMYJXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여수 디오션 cc 신축 클럽하우스./디오션 cc&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 디오션 컨트리클럽(CC)이 다도해 조망을 극대화한 신축 클럽하우스를 완공하고 15일 본격적인 운영에 들어갔다.&lt;br&gt;&lt;br&gt;이번 신축 클럽하우스는 여수 앞바다의 섬 지형에서 영감을 얻어 설계됐다. 건물 외벽에 층을 두어 겹겹이 보이는 다도해 풍경을 형상화한 것이 특징이다. 특히 진입로인 드롭존에서부터 바다를 전면으로 마주할 수 있도록 설계해 시각적 개방감을 확보했다.&lt;br&gt;&lt;br&gt;클럽하우스 내부는 ‘빛 담은 바다’를 테마로 조성됐다. 메인 로비는 최고 10m 높이의 층고와 천창 설계를 도입해 실내로 자연광이 깊게 들어오도록 했다. 총 연면적은 8856㎡ 규모다.&lt;br&gt;&lt;br&gt;이용객 편의 시설도 확충됐다. 레스토랑과 스타트하우스에는 오션뷰 테라스를 배치해 라운드 전후로 바다 경관을 감상하며 휴식할 수 있게 했다. 락커와 사우나 시설은 이용객의 안락한 휴식을 위해 고요한 분위기를 연출하는 데 중점을 뒀다.&lt;br&gt;&lt;br&gt;디오션 CC는 국내 유일의 18개 전 홀 바다 조망이 가능한 페블비치형 골프장이다. 리아스식 해안선을 따라 조성됐으며, 웨스트 코스 3번 홀(Par 3)은 ‘한국에서 가장 아름다운 홀 TOP 10’에 선정된 바 있다. 온화한 기후로 사계절 라운딩이 가능한 점이 특징이다.&lt;br&gt;&lt;br&gt;디오션 CC 관계자는 “신축 클럽하우스 오픈을 통해 명문 골프장의 새로운 기준을 제시하게 될 것”이라며 “여수의 자연경관 속에서 고객들이 최상의 서비스를 누릴 수 있도록 운영하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대치선경아파트 재건축 정비계획 확정… 최고 49층 1571가구로 재탄생 </title>
-      <link>https://www.chosun.com/national/national_general/2026/05/15/53VDJWLVMJD2TNQC5C2RIFQH3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/15/53VDJWLVMJD2TNQC5C2RIFQH3I/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 May 2026 01:35:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQTAUOKRKNGVFFV3ZMQ3UBCWT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 오어진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 대치선경아파트가 최고 49층 1571가구 규모 단지로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;서울시는 지난 14일 제7차 도시계획위원회를 열고 이 같은 내용의 ‘대치동 선경아파트 재건축 정비계획 결정안’을 수정 가결했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;대치선경아파트는 1983년 준공된 12개 동 1034가구 규모 아파트다. 지하철 3호선 대치역과 수인분당선 개포동역이 인근에 있고, 단지 옆으로 양재천이 붙어 있다.&lt;br&gt;&lt;br&gt;대치선경아파트는 지난 2023년 신속통합기획을 추진했으나 주민 반대로 철회했다. 이후 지난해 신속통합기획을 다시 추진하고 두 차례 자문회의 등을 거쳐 이번 정비계획을 결정했다.&lt;br&gt;&lt;br&gt;계획안에 따르면, 대치선경아파트는 최고 49층 1571가구로 재건축된다. 그중 231가구가 공공 주택이다.&lt;br&gt;&lt;br&gt;단지 남서측 대치초 인근에는 선형 문화공원이 조성된다. 공원 인근에는 작은 도서관. 어린이집. 다함께돌봄센터 등 개방형 공동시설도 함께 들어설 예정이다. &lt;br&gt;&lt;br&gt;문화공원 지하에는 3만6000㎥ 규모 저류조가 설치된다. 서울시는 이를 통해 대치역 일대 침수 피해를 줄이겠다는 계획이다.&lt;br&gt;&lt;br&gt;단지 동측 삼성로변에는 주민들이 자유롭게 이용할 수 있는 보행 공간과 개방형 녹지가 들어선다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSMDNJSY4VAOXJ4XCYSP6FFNC4.png"&gt;&lt;figcaption&gt;&lt;small&gt;대치선경아파트 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 향후 통합심의 등을 거쳐 건축계획을 확정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XSMDNJSY4VAOXJ4XCYSP6FFNC4.png?auth=ac9d7eee32652e727b8b10c0f744a16a9bf74125704fb82b164c77c7fedd44da&amp;smart=true&amp;width=1864&amp;height=1122" type="image/png" height="1122" width="1864">
-        <media:description type="plain">대치선경아파트 조감도. /서울시</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[핫코너] 2030, 새와 사랑에 빠지다</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/15/EIBKLA55YFDVFNYU5264Y6HM44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/15/EIBKLA55YFDVFNYU5264Y6HM44/</guid>
-      <dc:creator>구아모 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZGM5BHHYJFBTDM2GVUA7SUO34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탐조 활동 중 카메라로 새를 촬영하고 있다./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 30일 강원도 원주에 사는 조모(29)씨는 쌍안경을 챙겨 집 근처로 산책을 갔다. 수의대 진학을 준비 중인 조씨는 짬이 날 때면 주변 공원이나 길에서 새를 관찰하는 게 취미다. 이날도 전깃줄 위에 앉은 제비 한 마리를 숨죽인 채 쌍안경으로 한참 바라봤다. 조씨는 “새를 자세히 오래 바라보면 자연을 느끼게 된다”며 “시간이 날 때마다 공원을 찾아 새를 관찰하는 이유”라고 말했다.&lt;br&gt;&lt;br&gt;조씨처럼 ‘탐조(探鳥·새 관찰)‘에 빠진 MZ세대가 늘고 있다. 포털 사이트 검색량 분석을 봐도 ‘탐조’ 바람이 감지된다. 네이버 데이터랩에 따르면, 지난달 ‘탐조’ 검색량은 5년 전과 비교해 4배 늘었다. 새를 유인하는 데 쓰는 모이통이나 새 먹이, 망원경 등을 판매하는 탐조 장비 업체를 찾는 20·30대도 많아졌다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKGCS3X4NBC4DKGYP24TC3SH6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탐조에 빠진 조모(29)씨가 강원 원주시의 한 도심 전깃줄 위에 앉아 있는 제비를 쌍안경으로 관찰하고 있다./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 구로구의 한 탐조 장비 판매상은 “3년 전만 해도 손님 대부분이 50·60대였는데 요즘은 손님 다섯 명 중 한 명은 20·30대”라며 “젊은 층 탐조 입문자를 위해 강연도 시작했다”고 했다. 시중에선 새를 모티브로 한 기념품을 제작하는 업체, 탐조 전문 서점도 등장했다.&lt;br&gt;&lt;br&gt;새 관찰을 즐기는 MZ세대 사이에서 관련 은어도 확산되고 있다. 탐조를 취미로 한다는 김영은(28)씨는 “새를 처음 보고 생김새나 행동, 깃털과 색상 같은 특징을 관찰해 기록하는 것을 ‘종추(種追·종 추가)’라고 한다”며 “처음 오목눈이를 종추했을 때 세상을 다 가진 기분이었다”고 했다. 소셜미디어에 누군가 “탐조하러 간다”는 글을 올리면 “오늘도 조복(鳥福) 가득한 하루 되세요”란 댓글이 달린다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MORVRA4PDFG63KGGSEXIUMS5ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영은씨가 직접 촬영한 새./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학가에서도 탐조 바람이 불고 있다. 경희대는 올해부터 ‘캠퍼스의 새들’이라는 탐조 관련 교양 강좌를 개설했다. 강의실과 도서관만 오가는 학생들에게 자연을 관찰할 시간을 주려는 취지라고 한다. 탐조 동아리도 속속 생겨나고 있다.&lt;br&gt;&lt;br&gt;전문가들은 경쟁에 지친 MZ세대가 탐조를 통해 ‘나만의 속도’를 찾아가는 것이라고 해석한다. 이진원 경희대 교수는 “새를 관찰하는 활동은 현재 내 모습과 주변에 집중하게 해 심리적 안정감을 준다”며 “주변에서 쉽게 볼 수 있는 새를 통해 자기 자신을 찾아가는 과정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7ZGM5BHHYJFBTDM2GVUA7SUO34.jpg?auth=7ae3acc1d2192bf255c739530486a5c6a820815a54257591bd077ec31fa052bf&amp;smart=true&amp;width=1206&amp;height=1561" type="image/jpeg" height="1561" width="1206">
-        <media:description type="plain">탐조 활동 중 카메라로 새를 촬영하고 있다./독자제공</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>온라인 수업 ‘서울런’ 5년새 4만명 넘게 수강</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/15/YWVOUIESSJGR5K5UT4TTU32N3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/15/YWVOUIESSJGR5K5UT4TTU32N3Q/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 May 2026 15:49:00 +0000</pubDate>
-      <content:encoded>서울시는 무료 온라인 교육 플랫폼 ‘서울런’ 가입자가 지난 8일 기준 4만명을 돌파했다고 14일 밝혔다. 2021년 8월 서비스를 시작한 지 약 4년 9개월 만이다.&lt;br&gt;&lt;br&gt;서울런은 저소득층과 다문화 가정 등 취약 계층 청소년에게 온라인 강의를 무료로 수강할 수 있게 해주고, 일대일 멘토링도 받을 수 있게 해주는 서비스다. 서울에 사는 만 6~24세가 대상이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGHRDUA7XZGSPCATRLJKXTMTLY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울런은 실제 이용자 학력 증진에 도움이 된 것으로 나타났다. 서울시가 작년 12월부터 올해 1월까지 서울런 이용 고등학생 500명을 조사한 결과, 평균 내신 등급이 1학기 3.52등급에서 2학기 3.16등급으로 0.36등급 오른 것으로 집계됐다. 서울연구원 조사에선 서울런 이용 가구의 월평균 사교육비가 점점 줄어드는 것으로 나타났다. 2023년엔 월평균 사교육비가 25만6000원 줄었는데, 2024년엔 34만7000원 줄었다는 것이다.&lt;br&gt;&lt;br&gt;서울시는 다음 달부터 진로 관련 콘텐츠를 확대하고 인공지능(AI) 기반 영어 학습 서비스도 도입할 예정이다. 고등학생 이상 회원에게는 챗GPT 같은 유료 생성형 AI 서비스를 이용할 수 있게 지원할 계획이다. 정진우 서울시 평생교육국장은 “출발선이 달라도 공정한 기회가 보장되는 교육 환경을 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
