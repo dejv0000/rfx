@@ -13,6 +13,294 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>삼전, 사업성과 10.5%를 특별성과급으로... 주식으로 ’10년 지급'</title>
+      <link>https://www.chosun.com/national/labor/2026/05/21/HIS4QGY4QZGDRO3EEVGHUKC2Z4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/21/HIS4QGY4QZGDRO3EEVGHUKC2Z4/</guid>
+      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:27:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVGK63QVTFJDXH3ADWVL64VJWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기도 수원시 장안구 경기고용노동청에서 열린 삼성전자 임금협상을 마친 후 여명구 삼성전자 DS(디바이스솔루션·반도체 사업 담당) 피플팀장과 최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 잠정 합의한에 서명한 후 파이팅을 외치고 있다. (공동취재) /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자 노사가 21일로 예고됐던 총파업을 90분 앞두고 극적으로 성과급 협상을 타결했다. 이에 따라 반도체 생산 차질뿐 아니라 공급망과 수출 타격 등 최대 100조원가량 피해가 우려되던 대규모 파업 사태는 피했다. 지난 3월 18일 노조의 총파업 계획이 확정된 지 63일 만의 일이다.&lt;br&gt;&lt;br&gt;노사 교섭을 중재한 김영훈 고용노동부 장관은 이날 “쟁점이던 분배 방식을 두고 노사가 한발씩 양보해서 해법을 찾았다”고 했다. 노사 양측은 핵심인 OPI(초과이익성과급)의 경우 상한 유지 등 기존의 지급 방식을 그대로 유지하기로 했다. 대신 상한이 없는 특별경영성과급을 추가로 10년 간 지급한다. 올해부터 3년 간은 반도체 부문의 영업이익이 200조원을 넘고, 2029년부터 2035년까지는 100조원 달성시에 지급된다. 현금이 아닌 주식으로 지급되고 매각 제한 조건이 붙는다. 재원은 ‘노사가 합의해 선정한 사업 성과의 10.5%’로 합의됐다.&lt;br&gt;&lt;br&gt;사업부별 배분 비율과 관련해서는 4(반도체 전 부문)대 6(사업부)으로 최종 결정됐다. 다만 이 경우 적자 사업부 역시 수억 원의 성과급을 수령하는 문제가 생기기 때문에 적자 사업부에 대해선 공통 지급액의 60%만 지급하는 패널티를 주기로 했는데, 이는 2027년부터 적용된다. 노조는 합의안에 대해 22~27일 조합원 찬반 투표를 진행한다. 찬성이 50%를 넘기면 합의안이 최종 확정되지만, 반대가 많으면 다시 파업 위기를 맞게 된다.&lt;br&gt;&lt;br&gt;이번 합의가 성과급 관련 갈등의 끝이 아니란 지적도 나온다. 지난 3월부터 시행된 노란봉투법에 따라 하청 노조도 원청에 교섭을 요구할 수 있게 돼 성과급 문제가 다른 하청·협력업체로 번질 가능성도 제기된다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇사업 성과의 10.5%를 특별 성과급으로… 현금 아닌 주식 준다&lt;/b&gt;&lt;br&gt;&lt;br&gt;삼성전자 노사는 이번 합의로 최소한의 방어선은 지켰다는 입장이다. 사측은 OPI(초과이익 성과급)의 상한을 연봉의 50%로 유지 등 수성하는 데 성공했다. 특별경영성과급이란 이름으로 또 하나의 성과급을 지급하게 됐지만, 영업이익 100조~200조원 달성이라는 조건을 붙였다. 이는 현금이 아닌 주식으로 지급되고 매각 제한 조건이 붙는다. 지급된 주식의 3분의 1은 즉시 매각이 가능하고 3분의 1은 1년 뒤, 나머지 3분의 1은 2년 뒤 매각이 가능하다. &lt;br&gt;&lt;br&gt;노조 역시 기존 요구안을 모두 얻어내지는 못했지만 특별경영성과급을 제도화하고, 합의의 유효 기간을 10년으로 정하는 성과를 만들었다. 초기업 노조는 과반 노조 지위를 획득한 뒤 상급 단체 없이도 사측과 대등하게 협상했다는 명분도 얻었다.&lt;br&gt;&lt;br&gt;당초 20일까지 노사 합의를 가로막은 핵심 쟁점은 ‘적자 사업부에 대한 보상’ 문제였다. 양측은 이 배분 비율을 두고 4(반도체 전 부문)대 6(사업부)으로 하기로 합의했다. 공통 재원에 해당하는 부문 몫이 내려갈수록 사업부별 격차가 커진다.&lt;br&gt;&lt;br&gt;문제는 이 경우에도 적자 사업부 직원들이 연봉보다 훨씬 많은 돈을 받는다는 것이다. 메모리 소속은 1인당 평균 6억4813만원, 공통 조직은 5억908만원, 파운드리·시스템LSI 소속은 약 1억8462만원을 받게 된다. 사측 관계자는 “적자인 반도체 부분까지 몇억 원씩 특별 성과급을 주는 건 불합리하다”며 “같은 논리라면 반도체 부문 외 TV·가전, 스마트폰 사업을 담당하는 디바이스경험(DX) 부문이나 다른 계열사들도 비슷한 성과급을 받아야 하는 것 아니냐”고 했다.&lt;br&gt;&lt;br&gt;중앙노동위원회에서 진행된 2차 사후 조정이 깨진 것도 이 때문이었다. 삼성전자 사측은 조정 불성립 후 “적자 사업부에도 사회적으로 용납되기 어려운 규모의 보상을 하라는 건 성과 있는 곳에 보상이 있다는 회사 경영 기본 원칙을 정면으로 위배하는 것”이라며 “이 원칙을 포기할 경우 저희 회사뿐 아니라 다른 기업과 산업에도 악영향을 줄 수 있다”고 강하게 반발했다. 이를 두고 중노위가 성과주의 원칙 자체가 무너질 수 있음에도 기계적 중립에 집착한 것 아니냐는 비판도 나왔다.&lt;br&gt;&lt;br&gt;양측은 이에 적자 사업부에 대해선 성과급의 60%만 지급하는 페널티를 부여하고, 대신 이를 1년간 유예하기로 합의했다. &lt;br&gt;&lt;br&gt;이날 교섭 상황을 바꾼 건 이재명 대통령이 국무회의를 통해 “노조가 적정한 선을 넘었다”고 강하게 비판하면서다. 이 대통령은 “기업에는 위험과 손실을 부담한 투자자(주주)가 있고, 노동에 대해서는 정당한 노동의 대가가 보장되어야 하며, 채권자·소비자·연관 기업 생태계도 함께 보호돼야 한다”며 “일부 노동조합이 자신들의 이익을 관철하기 위해 노력하는 것은 좋은데 그것도 적정한 선이 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 그러면서 “국민 공동의 몫이라고 할 수 있는 세금도 떼기 전에 영업이익의 일정 비율을 제도적으로 나눠 갖는다는 것은 투자자도 할 수 없는 일”이라며 “투자자도 세금을 떼고 당기순이익에서 배당을 받는데, (노조의 요구는) 저로서는 약간 이해가 되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;당초 삼성전자 노조는 특별경영성과급의 재원을 영업이익으로 해야 한다고 주장해 왔고, 사측은 영업이익에서 법인세와 세금 등을 뺀 EVA(경제적 부가가치)가 기준이 돼야 한다고 맞섰다. 이런 상황에서 대통령이 영업이익을 직접 거론한 것이다. 양측은 결국 ‘노사가 합의해 선정한 사업 성과의 10.5%를 재원으로 한다’고 합의했다. 사업성과가 구체적으로 무엇인지는 잠정합의서에 담기지 않았다. &lt;br&gt;&lt;br&gt;이날 벼랑 끝 합의로 사측은 파업에 따른 반도체 생산 차질과 신뢰도 하락이라는 최악의 상황을 피하게 됐다. 업계에서는 파업이 현실화할 경우 하루 약 1조원 규모의 피해가 발생할 수 있다는 예상이 나왔다. &lt;br&gt;&lt;br&gt;전문가들은 이번 합의가 협력 업체나 다른 업계로 번질 가능성도 제기한다. 지난 3월부터 시행된 노란봉투법에 따라 하청 노조도 원청에 교섭을 요구할 수 있게 됐는데, 삼성전자는 협력 업체만 1700여 곳에 달하는 것으로 알려졌다. 또 이번 사태를 계기로 반도체 업계는 물론 조선·통신·플랫폼 등 다른 산업으로 확산될 것이라는 우려도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/M327ZH4TIFDKHP6KJWB6GQRKBU.JPG?auth=1de41b84819272b5388a57279114e939d521658490a7b4b4c35cd0c41402ffdc&amp;smart=true&amp;width=4008&amp;height=2255" type="image/jpeg" height="2255" width="4008">
+        <media:description type="plain">(수원=뉴스1) 김영운 기자 = 20일 경기도 수원시 장안구 경기고용노동청에서 열린 삼성전자 임금협상을 마친 후 여명구 삼성전자 DS(디바이스솔루션·반도체 사업 담당) 피플팀장과 최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 잠정 합의한에 서명한 후 파이팅을 외치고 있다. (공동취재) 2026.5.20/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(수원=뉴스1) 김영운 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“이 연사들을 직접 보다니…” 대학생 700명 참관</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/21/EODY7SUQZVF23MEQQZKG6Z2HSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/EODY7SUQZVF23MEQQZKG6Z2HSA/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWPRT2JHPJGD3F54L4VXQZCRDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 신라호텔에서 열린 아시안리더십콘퍼런스(ALC) 행사장에 전국 각지에서 온 ‘ALC 대학생 서포터스’들이 모였다. 지방 학생들에게도 국제 행사를 참관할 기회를 열어주기 위해 올해 ALC는 지방 대학생 200여명에게 교통비와 숙박비도 지원하면서 초청했다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보가 매년 주최하는 아시안리더십콘퍼런스(ALC)는 미래의 리더가 될 청년들이 시대의 흐름을 읽는 통찰력을 키울 수 있도록 대학생·대학원생 700명을 초청, 무료로 세션을 참관할 기회를 제공해왔다. 올해는 특별히 숙박비와 교통비까지 지원하면서 지방 대학생 200여명을 초청했다. 글로벌 컨퍼런스를 경험할 기회가 상대적으로 적은 지방 청년들을 위해 마련한 이 프로그램은 중견 기업인 정철원 (주)협성종합건업 회장의 후원으로 가능했다.&lt;br&gt;&lt;br&gt;20일 아침 일찍 세션 일정표를 확인하던 부산대 예술문화영상학과 3학년 김나현(21)씨는 “학과 교수님이 공결 처리해 줄 테니 꼭 다녀오라고 하셨다”면서 “SF 소설 ‘종이 동물원’의 작가 켄 리우의 올드팬인데 이번 ALC에서 그가 예술 분야에서 인간과 AI의 협력 방안을 말한다고 해 너무 기대된다”고 말했다. &lt;br&gt;&lt;br&gt;이번에 초청을 받은 대학생들은 다양한 분야의 세계 최고 전문가들의 강연을 직접 들을 수 있어 뜻깊었다고 입을 모았다. 경북대 일반사회교육과 2학년 송창민(22)씨는 “믹 멀베이니 전 백악관 비서실장을 직접 본 것만으로도 신기했는데, 한국 상황을 깊이 이해하고 있어 더 놀랐다”고 했다. &lt;br&gt;&lt;br&gt;토론토대 컴퓨터공학과 4학년 장재형(23)씨는 “중국을 방문했을 때 음식 배달에 드론이 활용되고 자율주행차가 실제 도로를 달리는 모습을 보며 과학기술 수준이 상당하다고 느꼈다”면서 “오늘 왕하이취안 전 BYD 부사장이 ‘전 세계인이 중국 기술의 혜택을 누릴 수 있도록 우리 기술을 확산하고 싶다’고 말했는데, 어떤 방식으로 이루려는지 궁금하다”고 했다.&lt;br&gt;&lt;br&gt;알파고와 대국을 벌인 이세돌 9단의 세션을 기대하는 학생들도 많았다. 푸단대 영어영문학과 이주환(26)씨는 “중국에서는 전공과 관계없이 AI 과목이 필수라, 나도 AI 서비스를 직접 배포해 본 경험이 있다”고 했다. 그는 “오늘 강연에서 이세돌이 ‘인간과 AI는 더 이상 대결 관계가 아니라 협력 관계’라고 말한 부분이 특히 인상 깊었다”고 했다.&lt;br&gt;&lt;br&gt;서울외국어대학원대학교 한영통번역학과에 재학 중인 한라현(33)씨는 플리토 번역 서비스에 관심을 보였다. 그는 “기존 인공지능 번역기는 매번 입력 언어를 설정해야 했는데, 플리토는 대화 상대에 맞춰 언어가 자동으로 번역돼 효율적이었다”고 했다. 그는 현대차그룹 보스턴다이내믹스가 개발한 로봇개 ‘스팟’이 머리를 갸웃거리며 다가오자 얼른 휴대폰을 꺼내 기념 사진을 찍기도 했다.&lt;br&gt;&lt;br&gt;강원대 경제학과 4학년 김다빈(26)씨는 “노벨 경제학상 수상자 조엘 모키어 교수 옆자리에서 점심을 먹고 사인북까지 받았다”며 “모키어 교수가 ‘AI 시대일수록 수학, 글쓰기, 철학 등 대체 불가능한 기초 교양을 쌓으라’고 강조했는데, 마음에 새길 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재 “너무 빨리 먹으면 배탈나듯… 모든 위대함엔 시간이 걸리죠”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/21/A2JN6XCNKRBBNON3BGGV64SSRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/A2JN6XCNKRBBNON3BGGV64SSRA/</guid>
+      <dc:creator>김광진 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTZM4ZFBTJBZVIZJG564R7S4RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재, 외할아버지 모시고 함께 셀카  20일 서울 중구 신라호텔에서 열린 제17회 아시안리더십콘퍼런스(ALC) 개막식에서 기조연설을 마친 작곡가 겸 가수 이재(맨 왼쪽)가 주요 참석자들과 셀카를 찍고 있다. 사진 왼쪽부터 이재, 제니 시플리 뉴질랜드 전 총리, 방준오 조선일보 사장, 이재의 외할아버지인 원로 배우 신영균, 최태원 대한상공회의소 회장, 고(故) 아베 신조 전 일본 총리의 부인 아베 아키에 여사, 믹 멀베이니 미국 백악관 전 비서실장. /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“영원히 깨질 수 없는”&lt;br&gt;&lt;br&gt;20일 서울 중구 신라호텔에서 열린 제17회 아시안리더십콘퍼런스(ALC)에 ‘케이팝 데몬 헌터스’ OST ‘골든(Golden)’의 한국어 가사 한 소절이 울렸다. 기조연설에 나선 작곡가 겸 가수 이재(EJAE·김은재·35)가 직접 불렀다. K팝이 반짝하고 사라지는 존재가 아니라 세계인의 문화 코드가 됐다는 선언으로 들렸다.&lt;br&gt;&lt;br&gt;이재는 “격동에서 벗어나는 것이 항상 ‘좋은’ 새로운 균형으로 이어지지는 않는다”며 “우리는 전쟁, 분열, 불신 그리고 기술이 우리의 삶에 어떤 영향을 미치고 있는지 온전히 이해하는 능력보다 더 빠르게 움직이면서 발생하는 마찰 속에서 살아가고 있다”고 했다. 그가 꺼낸 해법은 “잃어버린 인간성을 회복하고, 다른 목소리를 공감으로 듣는 일”이었다. &lt;br&gt;&lt;br&gt;그는 올해 ALC 주제인 ‘대변혁의 시대: 새로운 균형을 향하여’(Out of Turbulence: Toward a New Balance)를 비행 중 마주하는 ‘난기류’에 비유했다. 그는 “저는 무대 공포증뿐만 아니라 비행 공포증도 있다”며 “누군가는 울거나 비명을 지르기도 한다. 바로 제 모습”이라고 했다. 농담은 오늘의 세계를 설명하는 비유로 바뀌었다. 서로 다른 속도의 공기가 충돌할 때 비행기가 흔들리듯, 오늘의 사회도 전쟁과 분열, 불신, 기술의 속도 속에서 마찰을 겪고 있다는 진단이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7VDM2CVXRDEZNJ3AMZ5NGYHYM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “우리는 기술적으로 그 어느 때보다 더 긴밀히 연결돼 있지만, 어째서인지 그 어느 때보다 더 분열돼 있다고 느낀다”고 했다. 이재가 말한 ‘분열’은 더 빨리 소비하고 적응해야 한다는 압박 속에서, 자신을 성찰하는 힘을 잃어가는 현대인의 문제점을 꼬집는 키워드이다.&lt;br&gt;&lt;br&gt;객석이 크게 반응한 대목은 한국어 한마디였다. 이재가 “어릴 적 어머니에게 ‘너 너무 빨리 먹으면 배탈 난다’는 말을 자주 들었다”고 하자 객석에서 웃음이 터졌다. 그는 “너무 빠르게 움직이면 균형과 관점, 인내를 잃고, 충분히 음미했더라면 느꼈을 깊이와 맛마저 잃게 된다”고 했다.&lt;br&gt;&lt;br&gt;이 말은 그의 삶과도 맞물렸다. 이재는 2003년부터 10년 넘게 SM엔터테인먼트 연습생으로 지내며 가수의 꿈을 키웠지만, 몇 차례 데뷔가 무산되며 꿈을 접어야 했다. 그러나 음악을 떠나지는 않았다. 미국 뉴욕대 티시예술대학에 진학한 그는 레드벨벳 ‘사이코’, 에스파 ‘아마겟돈’ 등에 참여하며 작곡가로 이름을 알리기 시작했다. 지난해 ‘골든’으로 세계적 주목을 받기까지 무려 22년이 걸렸다. 이재는 “적응하는 데도, 진정한 성장에도, 자신을 찾는 일에도 시간이 걸린다”고 했다. &lt;br&gt;&lt;br&gt;그는 “‘케데헌’의 성공을 보며 문화가 어떻게 국경을 넘어 사람에게 닿는지 배웠다”고도 했다. 그는 “친구에게서 ‘지인의 아이가 이 영화에 완전히 빠졌다’는 이야기를 들었다”면서 “전쟁과 분열, 불안이 가득한 세상에서 아이를 잠시 꺼내 음악을 즐기게 하고, 다른 문화의 눈으로 연대와 포용을 배우게 했다”고 말했다. 이재는 “그것이 바로 문화의 아름다움”이라고 강조했다.&lt;br&gt;&lt;br&gt;마지막으로 그가 힘주어 말한 단어는 ‘연민(compassion)’이었다. 단순한 동정이 아니라 차이를 공감하는 마음으로 대하고 자기 자신까지 따뜻하게 받아들이는 태도다. “서로 간의 차이점에 공감하는 마음으로 다가가십시오. 스스로를 따뜻한 시선으로 포용하십시오. 저는 공감과 연민이야말로 인류에게 인간성을 불어넣어 주는 진정한 요소라고 믿기 때문입니다.”&lt;br&gt;&lt;br&gt;기조연설 뒤 제니 시플리 전 뉴질랜드 총리는 “젊은 세대뿐 아니라 나이 든 세대도 음악가의 시선으로 리더십을 다시 생각하게 한 연설이었다”며 “난기류 속에서도 스스로를 잃지 말고 새로운 균형을 찾을 수 있다는 메시지를 아름답게 전했다”고 말했다. 게오르크 슈미트 주한독일대사는 “그가 관객과 커다란 감정의 연결고리를 만들어낸 점이 인상 깊었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 “쥴리의 쥴 자도 쓴적 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/21/N7GFWSV56JC7VACNV33DJV3Q7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/21/N7GFWSV56JC7VACNV33DJV3Q7E/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:46:00 +0000</pubDate>
+      <content:encoded>20일 이른바 ‘쥴리’ 의혹을 제기한 유튜버 등이 기소된 사건 재판에 출석한 김건희 여사가 “(예명으로) 쥴리의 ‘쥴’ 자도 쓴 적이 없다” “쥴리라는 이름을 쓰거나 접대부로 일한 사실도 없다”고 증언했다. 김 여사는 그러면서 “채팅방, 미니홈피 등에서 쓴 이름은 제니였다”고 했다. 김 여사가 공개석상에서 쥴리 의혹과 관련해 입장을 직접 밝힌 건 처음이다.&lt;br&gt;&lt;br&gt;김 여사는 이날 서울중앙지법 형사34부(재판장 한성진) 심리로 열린 정천수 전 열린공감TV 대표와 안해욱씨의 공직선거법 위반 사건 재판에 증인으로 출석했다. 2020년 9월 유튜브 채널 열린공감TV는 김 여사와 관련한 쥴리 의혹을 처음 제기했다. 김 여사가 1990년대 중후반 서울 강남의 라마다르네상스 호텔 지하에 있던 나이트클럽에서 쥴리라는 이름의 접대부로 활동했다는 내용이었다. 이 프로그램은 정천수씨가 보도했다.&lt;br&gt;&lt;br&gt;이후 20대 대선을 앞둔 2021년 12월 열린공감TV에는 과거 김 여사의 모습을 기억한다고 주장하는 안해욱씨가 출연해 “1997년 5월 라마다 호텔 나이트클럽에서 쥴리라는 예명을 쓰는 김 여사로부터 접대를 받았다”는 주장을 했다. 검찰은 윤석열 전 대통령을 낙선시킬 목적으로 허위 사실을 퍼뜨렸다고 보고 이듬해 9월 두 사람을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;검찰 측은 이날 공판에서 김 여사에게 “열린공감TV가 보도한 쥴리 의혹을 비롯해 A검사와의 동거설, 윤 전 대통령과의 결혼 전 불임 판정설 등은 모두 거짓이냐”고 물었고, 김 여사는 “모두 거짓”이라고 답했다. 김 여사는 “쥴리라는 예명을 사용한 적 있느냐”는 검사 질문에 “단 한 번도 없다”고 했고, 안씨에 대해선 “전혀 모르고 만나본 적도 없다”고 했다. 김 여사는 이어 “라마다 호텔 내 식당은 여러 번 갔지만 나이트클럽에 간 적은 없다”며 “당시는 밤늦게까지 대학원 수업을 듣느라 호텔을 드나들 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;이어진 반대 신문에서 피고인 측 변호사가 “쥴리라는 호칭을 안 쓴 게 맞느냐”고 재차 묻자, 김 여사는 “쥴리의 ‘쥴’ 자도 쓰지 않았다”며 “채팅방이나 미니홈피 같은 데선 전부 제니로 불렸다”고 했다.&lt;br&gt;&lt;br&gt;김 여사는 이날 재판 도중에 “울음을 참고 있다”며 억울함을 토로했다. 김 여사는 “제 아버지는 제가 회색, 검은색 옷도 못 입게 할 정도로 보수적인 분이었고 집안도 부유했다”며 “제가 뭐가 아쉬워서 술 파는 곳에서 손님을 접대하겠느냐”고 했다. 그러면서 김 여사는 “피고인들은 한 사람의 인생을 거짓으로 만들었고, 저는 의혹이 제기된 뒤 6년째 정신과 약을 먹고 있다”며 “피고인들이 진정한 반성이 없다면 처벌을 원한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출근길 서울 지하철 화요일이 제일 ‘지옥’</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/21/SRB4OWENNJGBTB75IG4KFJQ7D4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/SRB4OWENNJGBTB75IG4KFJQ7D4/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:46:00 +0000</pubDate>
+      <content:encoded>출근길 서울 지하철이 가장 붐비는 요일은 월요일이 아니라 화요일이었다. 하루 평균 승객이 가장 많은 요일은 금요일로 조사됐다.&lt;br&gt;&lt;br&gt;서울교통공사가 20일 공개한 ‘2025년 서울 지하철 승하차 인원 분석 데이터’를 보면, 지난해 오전 7~9시 승하차 인원이 가장 많은 요일은 화요일이었다. 평균 190만명이 지하철을 이용했다.&lt;br&gt;&lt;br&gt;이어 월요일·수요일 이용객이 각 188만명, 목요일이 185만명, 금요일이 176만명이었다. 주말인 토요일은 47만명, 일요일은 30만명으로 집계됐다. 서울교통공사 관계자는 “보통 휴일이 끝나고 업무를 시작하는 월요일 출근길이 가장 붐빈다고 생각하는데 의외로 화요일 출근 승객이 더 많았다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사는 그 원인을 자가용 이용자가 지하철로 몰렸기 때문이라고 추정했다. 월요일 자가용을 몰고 출근했다가 교통 체증에 시달린 시민들이 화요일 지하철로 몰린다는 것이다.&lt;br&gt;&lt;br&gt;서울시의 ‘2025년 연간 통행 속도 보고서’를 보면, 오전 7~9시 서울 시내 차량 평균 속도는 월요일이 시속 22㎞로 가장 낮았다. 월요일에 도로가 가장 많이 막혔다는 뜻이다. 화요일은 시속 22.4㎞, 수요일은 22.6㎞로 체증이 점차 풀리는 모습이었다.&lt;br&gt;&lt;br&gt;퇴근 시간대인 오후 5~7시 지하철 승하차 인원은 금요일이 203만명으로 가장 많았다. 이어 수요일 196만명, 목요일 194만명, 화요일 193만명, 월요일 189만명 순이었다. 서울교통공사에선 금요일은 퇴근 승객뿐 아니라 이른바 ‘불금(불타는 금요일)’을 즐기려는 시민까지 겹쳐 이용객이 많은 것으로 분석했다. &lt;br&gt;&lt;br&gt;하루 전체 지하철 승객 수도 금요일이 가장 많았다. 금요일 평균 승객 수는 1042만명이었다. 이어 수요일(1018만명), 목요일(1016만명), 화요일(1008만명), 월요일(984만명) 등의 순으로 많았다. 하루 평균 이용객이 가장 적은 요일은 일요일로 544만명이었다. &lt;br&gt;&lt;br&gt;마해근 서울교통공사 영업본부장은 “시간별·요일별 데이터를 분석해 맞춤형 수송 서비스를 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 특검 “CIA에 계엄 정당성 설명할 자료, 홍장원이 재가”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/21/WXR4QYHOAVDHLFLVJ2APACGWKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/21/WXR4QYHOAVDHLFLVJ2APACGWKY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:46:00 +0000</pubDate>
+      <content:encoded>2차 종합특검(특별검사 권창영)은 20일 12·3 비상계엄 직후 국가정보원이 미국 중앙정보국(CIA) 관계자를 직접 만나 계엄의 정당성을 설명한 정황을 포착했다고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 비상계엄 해제 직후인 2024년 12월 4일 오전 대통령실 국가안보실이 국정원에 ‘미국 등 우방 국가에 비상계엄의 배경을 설명하라’고 요청한 정황을 포착했다. 특검은 지난달 국정원을 압수수색해 당시 국가안보실이 비상계엄의 정당성을 설명하는 내용으로 국정원에 보낸 ‘대외 설명자료’도 확보했다고 한다. 이 자료에는 “(윤석열 전 대통령은) 헌법에 따라 비상계엄을 선포하고 해제했다” “헌법의 테두리 안에서 정치적 시위를 한 것” 등의 내용이 담긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POY7SSP4A5BWDHU4WEHNELY7LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원 전 1차장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 관계자는 “당시 조태용 전 국정원장 지시에 따라 홍장원 전 1차장 산하의 해외 담당 부서가 이 설명자료를 영어로 번역했고, 주한 미국 CIA 책임자를 국정원으로 불러 자료의 취지를 설명했다”고 밝혔다. 특검은 “홍 전 차장이 이 모든 과정을 보고받고 재가했다”고 덧붙였다. 특검은 국정원 관계자 40여 명을 조사해 계엄의 정당성을 CIA에 전달하라는 지시가 하달된 구체적인 정황을 확인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 조 전 원장과 홍 전 차장 등 당시 국정원 지휘 라인에 있던 6명을 내란 중요 임무 종사 혐의로 입건해 조사 중이다. 특검은 오는 22일 홍 전 차장을 직접 불러 조사할 계획이다. &lt;br&gt;&lt;br&gt;특검은 홍 전 차장이 2024년 12월 5일 김태효 전 국가안보실 1차장에게 “탄핵 반대 당론이 나왔고 대통령이 대국민 담화를 한다 하니 ‘천재일우’의 기회다”, “국민 절반은 우리 편이다”라는 메시지를 보낸 점에도 주목하고 있다. 특검은 이 무렵 국정원이 CIA에 계엄 옹호 메시지를 전달했을 거라고 의심하고 있다.&lt;br&gt;&lt;br&gt;이에 대해 홍 전 차장은 “조 전 원장을 비롯해 윗선 누구에게도 CIA에 메시지를 전달하라는 지시를 받은 적이 없다”는 입장이다. 홍 전 차장은 본지에 “해외 담당 부서가 제 소관인 것은 맞지만 CIA 관련 내용을 지시한 적도, 보고 받은 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 오는 24일로 90일의 1차 수사 기간이 끝나면 30일간 수사 기간을 연장하기로 결정했다. 특검은 이날 “계속 수사가 필요한 여러 사건들 때문에 수사 기간 연장을 결정했다”며 “연장 사유 등을 대통령과 국회에 보고했다”고 밝혔다. 이에 따라 특검은 다음 달 24일까지 수사를 이어갈 예정이다. 특검법은 1차 수사 기간 90일에 두 차례 연장이 가능해 최장 150일까지 수사할 수 있도록 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>손 잘 씻었죠?</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/21/6YRRB4FIGFBH5HP7YWMM3PPDVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/6YRRB4FIGFBH5HP7YWMM3PPDVM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FGUKKQKNFDC3IJQP5ANIKX6DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 광주광역시 북구보건소가 북구청직장어린이집에서 ‘손 씻기 교육’을 하고 있다. 아이들이 손을 씻은 뒤 깨끗하게 잘 씻었는지 모니터를 통해 확인하고 있다. 초여름 식중독을 예방하기 위해 손 씻는 요령을 가르쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자 노사, 파국은 면했다... 총파업 90분前 잠정 합의</title>
+      <link>https://www.chosun.com/national/labor/2026/05/20/4Y6RNLC7MBBTVMAJ7LZ2HERL3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/20/4Y6RNLC7MBBTVMAJ7LZ2HERL3I/</guid>
+      <dc:creator>윤상진 기자, 김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 13:35:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVGK63QVTFJDXH3ADWVL64VJWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기도 수원시 장안구 경기고용노동청에서 열린 삼성전자 임금협상을 마친 후 여명구 삼성전자 DS(디바이스솔루션·반도체 사업 담당) 피플팀장과 최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 잠정 합의한에 서명한 후 파이팅을 외치고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자 노사가 총파업을 불과 1시간 30분 앞두고 임금협상 잠정 합의안을 도출했다. 이번 잠정 합의안이 노조 찬반투표에서 통과되면 창사 이래 최대 규모의 파업 사태를 피할 수 있게 된다.&lt;br&gt;&lt;br&gt;삼성전자 노사는 20일 오후 경기 수원시 노동부 경기고용노동청에서 2026년 임금협상 잠정 합의안에 서명했다.&lt;br&gt;&lt;br&gt;노사 양측은 핵심인 OPI(초과이익성과급)의 경우 상한 유지 등 기존의 지급 방식을 그대로 유지하기로 했다. 대신 상한이 없는 특별경영성과급을 추가로 10년 간 지급한다. 올해부터 3년 간은 반도체 부문의 영업이익이 200조원을 넘고, 2029년부터 2035년까지는 100조원 달성시에 지급된다. 현금이 아닌 주식으로 지급되고 매각 제한 조건이 붙는다. 재원은 ‘노사가 합의해 선정한 사업 성과의 10.5%’로 합의됐다.&lt;br&gt;&lt;br&gt;이견이 컸던 사업부별 배분 비율과 관련해서는 4(반도체 전 부문)대 6(사업부)으로 최종 결정됐다. 다만 이 경우 적자 사업부 역시 수억 원의 성과급을 수령하는 문제가 생기기 때문에 적자 사업부에 대해선 공통 지급액의 60%만 지급하는 패널티를 주기로 했는데, 이는 2027년부터 적용된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQZDWPO36FLC5M5W3FJQ6R5UQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기도 수원시 장안구 경기고용노동청에서 열린 삼성전자 임금협상을 마친 후 여명구 삼성전자 DS(디바이스솔루션·반도체 사업 담당) 피플팀장과 최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 잠정 합의안에 서명한 후 김영훈 고용노동부 장관과 손을 잡고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 합의 이후 삼성전자 노조 공동투쟁본부는 조합원 대상 투쟁지침을 통해 “5월 21일~6월 7일 총파업은 추후 별도 지침 시까지 유보한다”고 공지했다. 또 오는 22일 오후 2시부터 27일 오전 10시까지 잠정 합의안에 대한 찬반 투표를 부칠 예정이라고 전했다. 잠정합의안은 투표를 통과해야 합의안 자격을 갖게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMMV63EUXJPZZBR7TJ46RLSO4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기도 수원시 장안구 경기고용노동청에서 열린 삼성전자 임금협상을 마친 후 여명구 삼성전자 DS(디바이스솔루션·반도체 사업 담당) 피플팀장과 최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 잠정 합의안에 서명하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성전자 노사는 지난 18~20일 진행된 중노위 사후 조정에서 이견을 좁히지 못한 끝에 이날 오전 조정이 결렬됐다. 결국 김영훈 고용노동부 장관이 파업을 막기 위해 직접 노사를 설득, 이날 오후 경기도 수원의 노동부 경기고용노동청에서 노사 교섭이 재개됐다. 이번 노조 찬반 투표후 합의안이 최종 가결되면 작년 12월 이후 5개월여간 이어진 삼성전자 노사갈등도 종지부를 찍게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/M327ZH4TIFDKHP6KJWB6GQRKBU.JPG?auth=1de41b84819272b5388a57279114e939d521658490a7b4b4c35cd0c41402ffdc&amp;smart=true&amp;width=4008&amp;height=2255" type="image/jpeg" height="2255" width="4008">
+        <media:description type="plain">(수원=뉴스1) 김영운 기자 = 20일 경기도 수원시 장안구 경기고용노동청에서 열린 삼성전자 임금협상을 마친 후 여명구 삼성전자 DS(디바이스솔루션·반도체 사업 담당) 피플팀장과 최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 잠정 합의한에 서명한 후 파이팅을 외치고 있다. (공동취재) 2026.5.20/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(수원=뉴스1) 김영운 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>비바람 속 남북 축구… 더 큰 응원 받은 원정팀이 이겼다</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/21/H65UJLC25RG3FA5SHWIK56JB7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/H65UJLC25RG3FA5SHWIK56JB7A/</guid>
+      <dc:creator>수원=김영준 기자, 수원=배준용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:44:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QBBWCRZZNF3BMP7DGFO5UPBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원FC 위민과 북한 내고향여자축구단이 20일 경기 수원시 장안구 수원종합운동장에서 열린 2025-2026 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 4강전에서 12년 만의 여자 축구 남북 대결을 펼쳤다. 내고향 최금옥이 후반 10분 수원FC 위민 수비진을 뚫고 문전으로 솟구쳐 헤더 동점골을 집어넣고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수원FC 위민과 북한 내고향여자축구단(내고향)의 AFC(아시아축구연맹) 여자 챔피언스리그 준결승전이 열린 20일 수원종합운동장. 경기 시작 약 1시간 30분쯤 전 내고향 선수단 버스가 경기장에 도착하자 경찰과 안전 요원들이 주변을 통제하며 삼엄한 경계를 펼쳤다. 중년 여성 2명이 북한 선수단을 향해 다가가려고 했으나 경찰에 막혔다. “봤어? 북한 애들인가 봐.”&lt;br&gt;&lt;br&gt;경기장 입구에선 흥을 돋우는 풍물놀이 공연이 펼쳐졌다. 이번 경기 남북 공동 응원단으로 참가한 ‘평안남도중앙도민회’라는 단체가 북과 꽹과리 등을 치고 상모 돌리기를 했다. 이들은 ‘우리 문명의 정수 수원’ ‘내고향 승리를 위하여’ 등이 적힌 깃발을 들고서 “내고향 팀!” “수원 위민!”을 번갈아 외치며 행진했다. 시민 단체 소속 회원들을 태운 대형 버스도 속속 도착했다. ‘내고향 여자축구단 환영합니다’ ‘힘내라! 우리가 응원하고 있다’ 같은 현수막과 스카프가 나부꼈다. 수원FC 팬 최모(35)씨는 “우리 홈인데 마치 원정 경기를 치르는 것 같다”며 미간을 찌푸렸다.&lt;br&gt;&lt;br&gt;북한 선수단이 한국에 와서 경기를 한 건 2018년 말 이후 8년 만이었다. 여자 축구로 한정하면 12년 만이며, 북한 여자 축구 클럽팀이 방한한 건 처음이다. 정부는 대북 시민단체들이 구성한 공동 응원단 3000여 명에게 비용 3억원을 지원한다고 발표했다. 이날 우원식 국회의장, 최휘영 문화체육관광부 장관, 정몽준 아산재단 이사장, 정몽규 대한축구협회장 등이 VIP석을 채웠다.&lt;br&gt;&lt;br&gt;이날 수원FC 팬들 사이에선 “수원FC가 들러리가 된 것 같다”는 묘한 분위기가 흘렀다. 이번 경기 전엔 숙소로 논란이 일었다. AFC 규정에 따라 준결승에서 맞붙는 양 팀은 같은 호텔에 묵어야 했는데, 내고향 측의 요구로 수원FC 선수단이 다른 호텔로 숙소를 옮겼다. 공동 응원단 결성에 대해서도 수원FC 측과 아무런 사전 협의가 없었다고 한다. 이날 한 수원FC 서포터즈는 “평소엔 여자 축구에 관심도 없더니 북한 선수들이 온다고 하니 공동 응원단이 만들어지고, 양 팀 모두 응원한다고 하는데 사실 이해가 안 된다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5G6PBWQMTNCOVIOWTR23AR2DLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 수원종합운동장에서 남북 공동 응원단이 북한 내고향축구단을 환영한다는 내용의 현수막을 펼쳐 들고 응원하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 경기장엔 관중 5763명이 입장했는데, 수원FC 서포터즈 100여 명을 제외하곤 대부분 남북 공동 응원단이었다. 치어리더까지 동원한 공동 응원단은 내고향과 수원FC를 번갈아 외치긴 했지만, 내고향을 일방적으로 응원하는 분위기가 강했다. 후반 4분 수원FC 스즈키 하루히(일본)가 선제골을 넣을 땐 별 반응이 없더니 북한이 연달아 두 골을 넣을 땐 자리를 박차고 일어나 기뻐했다. 후반 34분 수원FC 지소연이 동점을 만들 수 있는 페널티킥을 실축했을 때도 응원석에서 환호성이 터졌다. 수적으로 열세인 수원FC 서포터즈는 울분을 토하듯 경기 내내 수원FC 선수들 이름을 연호하고 응원가를 불렀다. &lt;br&gt;&lt;br&gt;이런 응원석 분위기에 대해 박길영 수원FC 감독은 경기 후 “우리는 대한민국 축구 팀”이라며 “경기하는 내내 섭섭하고 마음이 좋지 않았다”고 말했다. 그러면서도 “그래도 이렇게 많은 관중과 취재진 앞에서 경기한 것이 처음이라 설레기도 했다”고 말했다. 리유일 내고향 감독은 “경기에 집중하다 보니 (응원은) 크게 의식하지 못했다”면서도 “이곳 주민들이 축구에 대한 관심이 높은 것 같다”고 했다.&lt;br&gt;&lt;br&gt;양 팀 선수들은 응원석 분위기에 개의치 않고 굵은 비를 맞으며 치열한 경기를 펼쳤다. 경기 전후 양 팀 선수단이 접촉을 피하지 않고 하이파이브를 했고, 비바람 속에서 서로 강하게 압박하며 양보 없이 부딪혔다. 거친 몸싸움도 피하지 않았다. 경기는 내고향이 2대1로 이겼다. 1-1로 맞선 후반 22분 김경영이 결승 골을 넣었다. 김경영은 “선수들이 하나가 돼 열심히 달렸기 때문에 오늘의 성과를 이룰 수 있었다”고 소감을 전했다. 내고향은 23일 오후 2시 같은 장소에서 일본 도쿄 베르디 벨레자와 우승컵을 놓고 격돌한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김진남 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/05/21/7C536MEGKFBE7J3VZN7YRBI5WM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/21/7C536MEGKFBE7J3VZN7YRBI5WM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:43:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김진남&lt;/b&gt; 별세, &lt;b&gt;김창의&lt;/b&gt;·&lt;b&gt;김형수&lt;/b&gt;·&lt;b&gt;김우성&lt;/b&gt;·&lt;b&gt;김민중 &lt;/b&gt;더민주전국혁신회의 대변인·&lt;b&gt;김량&lt;/b&gt;·&lt;b&gt;김효간&lt;/b&gt;·&lt;b&gt;김계영 &lt;/b&gt;부친상=19일16시50분 정읍장례문화원, 발인22일9시30분, (063)535-7777&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김진호 &lt;/b&gt;前&lt;b&gt; &lt;/b&gt;국립순천대 총장 별세, &lt;b&gt;김영구&lt;/b&gt;·&lt;b&gt;김영선&lt;/b&gt;·&lt;b&gt;김영권 &lt;/b&gt;부친상=19일12시26분 서울성모병원, 발인22일9시30분, (02)2258-5953&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김창수 &lt;/b&gt;별세, &lt;b&gt;방영옥 &lt;/b&gt;남편상, &lt;b&gt;김대덕&lt;/b&gt;·&lt;b&gt;김경란&lt;/b&gt;·&lt;b&gt;김경애&lt;/b&gt;·&lt;b&gt;김경정 &lt;/b&gt;부친상, &lt;b&gt;김지노&lt;/b&gt;·&lt;b&gt;이강우 &lt;/b&gt;팝콘뉴스 부사장·&lt;b&gt;강현주 &lt;/b&gt;장인상, &lt;b&gt;이수영 &lt;/b&gt;시부상=20일4시15분 동국대일산병원, 발인22일9시, (031)961-9400&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박준식 &lt;/b&gt;대동모빌리티 부사장 별세, &lt;b&gt;윤현진 &lt;/b&gt;남편상=20일8시16분 삼성서울병원, 발인22일8시15분, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“모든 게 가짜란 가정하에 진짜를 찾는 세상 왔다”</title>
+      <link>https://www.chosun.com/national/people/2026/05/21/W6KYGJMF7ZGFTLXIRTG5M44O6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/21/W6KYGJMF7ZGFTLXIRTG5M44O6M/</guid>
+      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEJRRWWKYFEDRO2IZCPVNMJLGU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;LG 구겐하임 어워드를 수상한 트레버 페글렌./LG전자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“우리는 가짜(fake)를 찾아내는 것이 아니라 모든 것이 가짜라고 가정한 상황에서 진짜를 찾는 시대에 살고 있습니다. 무언가 매우 근본적인 변화가 일어나고 있는 것이죠.”&lt;br&gt;&lt;br&gt;14일 미국 뉴욕 구겐하임 미술관에서 만난 미디어 아티스트 트레버 페글렌(52)은 “생성형 AI(인공지능)가 등장하며 예술 작품 뒤에 반드시 예술가가 존재하지 않아도 되는 매우 낯선 상황을 마주하고 있다”며 이렇게 말했다. &lt;br&gt;&lt;br&gt;페글렌은 위성을 사용한 국가 감시, 데이터 수집 같은 현대 감시 사회, 그리고 AI의 편향성과 같은 기술 발전의 어두운 단면을 작품에 담아 내는 예술가다. 예술과 과학, 탐사 저널리즘의 경계를 넘나드는 작업으로 예술성을 인정받아 2017년 ‘천재상’으로 불리는 ‘맥아더 펠로십’을 받았고, 올해 3월 ‘LG 구겐하임 어워드’ 수상자로 선정됐다. ‘LG 구겐하임 어워드’는 기술을 활용해 창의적인 방법으로 혁신을 이끈 예술가에게 상금 10만달러(약 1억5000만원)를 수여한다.&lt;br&gt;&lt;br&gt;페글렌은 2019년 진행한 프로젝트 ‘이미지넷 룰렛(ImageNet Roulette)’을 통해 AI 시대에 대한 날카로운 시각을 제시했다. 2009년 스탠퍼드대 연구팀이 중심이 돼 만든 ‘이미지넷’은 인터넷에서 1400만장이 넘는 사진을 담은 거대한 이미지 데이터베이스였다. 그런데 페글렌은 이 이미지넷 속에 수많은 인물 사진이 ‘실패자’ ‘몸을 파는 여자’와 같이 인종차별, 여성 혐오 등 편견으로 가득 찬 꼬리표(라벨)로 분류되어 있다는 사실을 찾아냈다. 그리고 이를 일반인들이 실험해 볼 수 있는 프로젝트를 기획해 폭로했다. &lt;br&gt;&lt;br&gt;이 프로젝트가 공개되자 사람들은 AI 역시 인간 사회의 데이터를 학습하는 과정에서 기존 편견을 재생산할 수 있다는 불편한 진실을 마주하게 됐다. 파장이 일자 결국 이미지넷 측은 시스템 내에서 수십만 장에 달하는 인물 사진을 삭제하겠다고 발표했다. 페글렌은 “‘우리가 기술을 어떻게 사용하고 싶은지’뿐만 아니라 ‘기술이 무엇을 하지 말아야 하는지’에 대한 논의가 본격적으로 이루어져야 할 시점”이라고 했다.&lt;br&gt;&lt;br&gt;페글렌은 직접 제작한 초장거리 망원 촬영 기법을 통해 수십㎞ 떨어진 군사 기지나 비밀 시설을 촬영해 공개하기도 한다. 또 직접 스쿠버 다이빙을 해 해저 통신 케이블을 작품에 담아내기도 했다. 그는 “데이터센터나 해저 케이블, 위성 등을 직접 찾아가 탐구하다 보면 디지털 세계 역시 물리적 인프라 위에 존재한다는 점을 알 수 있다”면서 “이런 작업을 통해 우리가 세계를 어떻게 변화시키고 있는지에 대해 보다 입체적이고 균형 잡힌 시각을 가질 수 있게 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[Dr. 이은봉의 의학 연구 다이제스트] 수술받은 후 많이 걸어야 빨리 퇴원한다</title>
+      <link>https://www.chosun.com/medical/2026/05/21/KNMSJHVLYZC6NC53SMML6YAG54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/21/KNMSJHVLYZC6NC53SMML6YAG54/</guid>
+      <dc:creator>이은봉</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKFEIE7H7FAZ3AA52J2O5CXXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전의 한 병원에서 환자가 산책을 하고 있다./신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수술받은 대부분의 환자는 수술 부위 통증으로 누워 있고 싶어 하지만, 조기에 빨리 움직여야 호흡기 합병증, 혈전증, 근쇠약증과 같은 합병증을 최소화하고, 입원 기간을 줄일 수 있다. &lt;br&gt;&lt;br&gt;수술이 얼마나 잘되었는지는 수술 후 입원 기간이 얼마나 짧은지, 수술 후에 합병증이 발생하지 않았는지, 수술 후 재입원이 없는지를 보면 알 수 있다. 최근 미국 오하이오 주립대 연구팀은 수술 전후 보행 수와 수술 결과 간의 관련성을 조사해서 미국 외과의사협회지에 보고했다.&lt;br&gt;&lt;br&gt;연구는 외과 수술을 받은 평균 나이 50세 미국인 1965명을 대상으로 했다. 웨어러블 기기를 통해서 대상자들의 수술 전후 걸음걸이 수, 심박 변이도(자율신경 기능)를 측정하고, 설문지를 통해서 대상자의 건강 상태에 대한 느낌을 조사했다. 수술 결과는 수술 후 입원 일수, 수술 후 합병증 발생 여부 및 재입원 여부를 조사해서 평가했다.&lt;br&gt;&lt;br&gt;연구 결과, 수술 후 매일 1000보를 더 걸을수록 수술 관련 입원 기간이 14% 더 짧았고, 30일째 합병증은 17% 더 낮았다. 90일 내 재입원율도 16% 더 낮았다. 심박변이도나 대상자가 느끼는 건강도는 수술 결과와 관련이 없었다.&lt;br&gt;&lt;br&gt;수술 후 빨리 움직여야 심폐기능을 유지하고, 염증을 줄일 수 있기 때문에, 수술 후 보행 수가 수술 결과를 반영할 수 있었던 것으로 추정된다. 반면에 수술 후 본인이 느끼는 건강 상태는 통증이나 약제 등 여러 다른 요소에 의해 영향을 받기 때문에 수술 결과를 객관적으로 반영하지 못한 것으로 보인다. 수술 후에는 누워만 있지 말고 움직이고 걸어야 수술 결과가 좋아진다는 점을 명심하자.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폐암 말기 환자 15년 생존 비결은!</title>
+      <link>https://www.chosun.com/medical/2026/05/21/5GBPCU2HCBHX7JU4ZONAYJSZ4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/21/5GBPCU2HCBHX7JU4ZONAYJSZ4E/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4LVAFWM7VC2FJH322GSC2NCSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기대수명이 늘면서 남성은 2명 중 1명, 여성은 3명 중 1명이 평생 한 번은 암에 걸려 사망하게 된다. 그러나 최근 20여 년 사이 항암제 발전 속도는 상상을 초월할 정도로 빨라져, 암은 점차 ‘관리 가능한 만성질환’으로 바뀌고 있다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 ‘세계적인 폐암 치료 권위자’로 꼽히는 안명주 한양대병원 혈액종양내과 교수와 함께 항암제의 현재와 미래를 짚어봤다.&lt;br&gt;&lt;br&gt;항암제는 크게 세 가지로 나뉜다. 전통적인 ‘세포독성 항암제’, 암세포의 특정 유전자 변이를 겨냥하는 ‘표적치료제’, 그리고 환자 자신의 면역세포를 활성화해 암을 공격하게 만드는 ‘면역항암제’다. 안명주 교수는 “폐암 치료의 변화는 항암제 발전사를 압축적으로 보여준다”며 “첫 전환점은 2002년 표적치료제 ‘이레사’의 등장이었다”고 말했다. 암을 일으킨 유전자 돌연변이를 찾아 차단하는 새로운 개념의 항암제였기 때문이다. 약을 써보니 비흡연자, 여성, 선암(腺癌) 환자에게 효과가 유독 좋았다고 안 교수는 전했다.&lt;br&gt;&lt;br&gt;면역항암제도 치료 지형을 바꿨다. 안 교수는 “기존 치료에 실패한 환자 가운데 20%가량이 면역항암제에 반응을 보였고 그 효과가 오랫동안 유지됐다”며 “6~7가지 항암 치료를 모두 시도한 뒤 더 쓸 약이 없던 환자가 면역항암제 임상시험에 참여해 극적으로 반응이 좋아져 치료 10년이 지난 지금도 생존해 계시고, 제가 담당한 환자 중에는 면역항암제 덕에 폐암 진단을 받고도 15년까지 사시는 분이 있다”고 했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면 ‘항암제’ 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6DXP7T7B5H55B2RNV7OLPCEZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대상포진 절반 이상이 50대 이하 젊은 층</title>
+      <link>https://www.chosun.com/medical/2026/05/21/TKUO73U7EJDHZP4HML4UTIVDOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/21/TKUO73U7EJDHZP4HML4UTIVDOM/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OAUUGPC2RH7DABNIWVEKJQO74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“칼로 베는 것 같았다.“, ”전기가 몸 안으로 흐르는 느낌이었다." “옷깃만 스쳐도 비명을 지를 정도였다.”&lt;br&gt;&lt;br&gt;대상포진 환자들이 자신이 겪은 통증을 표현하는 말들이다. 대상포진은 단순한 피부병이 아니라 신경 속에 숨어 있던 바이러스가 다시 깨어나 신경을 공격하는 병이기 때문이다. 대상포진은 과거에 수두를 앓았던 사람의 몸속 신경절에 잠복해 있던 수두-대상포진 바이러스가 면역력이 떨어지면서 다시 활성화되어 강한 통증과 함께 띠 모양의 물집과 발진을 보이는 신경계 질환이다.&lt;br&gt;&lt;br&gt;국내 대상포진 환자는 2010년 48만 여명에서 2024년 76만 여명으로, 14년 사이 한 해 환자 발생이 30만명 가까이 늘었다. 면역력이 떨어진 고령층에서 잘 발생하지만, 최근에는 젊은 환자까지 늘고 있어 ‘노인병’이라는 인식도 깨지고 있다. 2024년 환자의 절반 이상(55.2%)이 50대 이하에서 발생했다.&lt;br&gt;&lt;br&gt;젊은 층에서 대상포진이 늘고 있는 이유로 ‘부스터 효과 감소’가 꼽힌다. 과거에는 아이들이 수두에 자주 걸렸기에 성인은 아이들과 접촉하며 자연스럽게 수두 바이러스에 반복 노출됐다. 그 과정에서 몸속 면역 기억이 강화되는 ‘부스터 효과’가 있었다.&lt;br&gt;&lt;br&gt;하지만 어린이 수두 예방접종으로 실제 수두 환자가 예전에 비해 크게 줄었고, 성인이 자연스럽게 면역을 다시 강화할 기회도 감소했다. 이재갑 한림대 강남성심병원 감염내과 교수는 “여기에 과로와 스트레스, 수면 부족, 극심한 다이어트 등이 겹치며 젊은 환자가 늘고 있다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVEXCCCALJGPDC75WKLAP6JT6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대상포진은 초기 증상을 놓치기 쉽다. 가장 흔한 특징은 몸 한쪽만 아픈 것이다. 가슴이나 등, 옆구리, 얼굴 한쪽이 화끈거리거나 전기 오는 느낌이 들 수 있다. 이 단계에서 많은 사람이 대상포진이라고 생각하지 못한다. 허리디스크나 근육통, 두통, 치통, 피부 트러블로 오인하기 쉬운데, 누구나 대상포진에 걸릴 수 있다는 인식을 갖고 초기 증상에 대한 경각심을 가져야 한다&amp;lt;그래픽 참조&amp;gt;.&lt;br&gt;&lt;br&gt;대상포진 치료에서 가장 중요한 것은 시간이다. 발진 발생 후 72시간 이내 항바이러스제를 시작해야 후유증을 최소화해 나을 수 있다. 가장 무서운 후유증은 ‘대상포진 후 신경통’이다. 물집은 사라졌는데 통증은 계속 남는 상태다. 정희진 고려대구로병원 감염내과 교수는 “바이러스가 신경을 광범위하게 손상시키기 전에 바이러스 증식을 억제하는 약물을 투여해서 후유증 위험을 줄이는 것이 치료 관건”이라고 말했다.&lt;br&gt;&lt;br&gt;최근에는 백신으로 예방 효과는 물론 감염 시 후유증을 최소화하려는 인식이 커지고 있다. 현재 대상포진 백신은 기존의 생백신과 최근 주목받는 유전자 재조합 백신 두 종류다. 생백신은 1회 접종으로 끝나고 비교적 저렴하다. 하지만 예방 효과는 약 50~60% 수준이고, 5~8년 시간이 지나면 효과가 감소한다. &lt;br&gt;&lt;br&gt;반면 유전자 재조합 백신은 2회 접종이 필요하고 비용은 비싸지만 예방 효과가 90% 이상으로 높다. 고령층에서도 효과 유지가 뛰어나고, 대상포진 후 신경통 예방 효과도 우수하다. &lt;br&gt;&lt;br&gt;의료계에서는 대상포진은 오래가는 신경통이 큰 문제이기 때문에 재조합 백신 투여를 권장하는 분위기다. 이재갑 교수는 “과거 생백신을 맞았더라도 시간이 지나면서 면역력이 감소할 수 있기 때문에 재조합 백신으로 면역 효과를 다시 강화하는 것을 추천한다”고 말했다. 통상 기존 생백신 접종 후 2개월이 지났으면 재조합 백신을 맞을 수 있다.&lt;br&gt;&lt;br&gt;대상포진 백신은 50세 이상 성인에게 권고된다. 면역억제 치료를 받거나 항암치료 중인 환자, 만성질환이 있으면 더 젊은 나이에도 접종을 고려할 수 있다. 대상포진 감염 후 재발 방지를 위해 백신 접종을 하는 경우도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여성은 굶으면서 살 빼면 꿀잠 자기 어려워</title>
+      <link>https://www.chosun.com/medical/2026/05/21/MXYC2LMCKJD7XE5AXUD2DFWJDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/21/MXYC2LMCKJD7XE5AXUD2DFWJDQ/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYU3GD536BFU7H5XMTJXW7NFOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과도한 다이어트는 수면 건강을 해칠 수 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무작정 굶는 다이어트나 과도한 운동 중심의 체중 감량 방식이 여성의 수면 건강을 해칠 수 있다는 연구 결과가 나왔다. 먹는 양과 활동으로 소비하는 에너지 균형을 적절히 유지해야 숙면할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;서울대병원 가정의학과 박민선, 서울시보라매병원 서민정 교수 공동연구팀은 국민건강영양조사에 참여한 성인 1만3164명의 데이터를 분석했다. 연구팀은 하루 총 섭취 열량에서 기초대사량과 신체활동으로 소비한 열량을 뺀 값을 ‘에너지 섭취-소비 균형’ 지표로 삼았다. 그 값이 0에 가까우면 먹은 만큼 소비한 상태이고, 음수이면 에너지 부족, 양수이면 과잉 섭취 상태다. &lt;br&gt;&lt;br&gt;분석 결과, 여성은 에너지 부족이 가장 심한 그룹과 비교해, 먹는 양과 소비량이 비교적 균형을 이룬 그룹에서 하루 6시간 이하의 짧은 수면 위험이 약 29% 낮았다. 에너지 쓴 만큼 적절히 먹는 것이 중요하다는 의미다. 남성에서는 이런 연관성이 관찰되지 않았다. &lt;br&gt;&lt;br&gt;사람의 몸은 수면 중에도 면역세포를 활성화하고 낮 동안 축적된 염증 반응을 조절하기에 약 400㎉ 정도의 에너지가 필요하다. 이때 에너지가 지나치게 부족하면 깊은 잠을 이루기 어렵게 된다.&lt;br&gt;&lt;br&gt;박민선 교수는 “특히 여성에서 스트레스 호르몬과 렙틴, 에스트로겐 등 대사·면역 관련 호르몬 변화가 복합적으로 작용하기에 에너지 부족 상태에서 수면의 질이 더 쉽게 떨어질 수 있다”고 말했다. 무작정 굶는 지나친 저열량 식사와 과도한 운동이 반복되면 몸이 생존 모드로 들어가 긴장 상태를 유지하게 되고, 결과적으로 숙면이 어려워진다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>치매 신약, 한국인 환자에 투여했더니… 절반이 인지기능 좋아지거나 유지</title>
+      <link>https://www.chosun.com/medical/2026/05/21/DJQS33HJGFFBBBUF3JD22NRRUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/21/DJQS33HJGFFBBBUF3JD22NRRUE/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:42:00 +0000</pubDate>
+      <content:encoded>최근 알츠하이머 치매 치료제 레켐비(성분명 레카네맙)의 등장은 치매 ‘증상 완화’ 중심 시대에서 ‘원인 치료’ 시대로 넘어가는 전환점으로 평가됐다. 기존 약물이 기억력 저하나 행동 증상을 일시적으로 늦추는 수준이었다면, 레켐비는 알츠하이머병의 핵심 원인 물질로 지목되는 뇌 속 베타 아밀로이드 단백질을 제거하는 첫 세대 치료제이기 때문이다. 이에 국내 의료계는 한국인 환자에서 레켐비가 어떤 효과와 부작용 양상을 보일지 주목해 왔다. 국내 병원에서 한국인 환자를 대상으로 시행한 레켐비 투여 결과가 처음으로 공개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCZDB4GTRRC65EG4JPJNP2TUOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알츠하이머 치매 신약인 레켐비를 한국인 환자에 투여했더니 절반 이상이 인지 기능이 좋아지거나 유지된 것으로 나타났다. 사진은 의사가 환자에게 정맥주사를 놓는 모습. /게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대구로병원 신경과 강성훈 교수팀은 국내 시판 이후인 2024년 12월부터 2026년 3월까지 초기 알츠하이머병 환자 164명을 대상으로 한 레켐비 치료 경과를 발표했다. 환자의 평균 연령은 72.9세였고, 약 79%는 임상치매척도(CDR) 0.5 수준의 초기 환자였다. 즉 기억력 저하가 시작됐지만 일상생활은 어느 정도 가능한 경도인지장애 또는 초기 치매 단계였다.&lt;br&gt;&lt;br&gt;1년 이상 치료를 유지한 환자 57명을 강성훈 교수팀이 분석한 결과, 간이인지기능검사(MMSE) 점수가 유지되거나 오히려 좋아진 환자가 53%였다. 또 치매 중증도를 평가하는 점수가 악화되지 않은 환자도 55%였다. 특히 치매 초기 단계 환자일수록 인지 저하 속도가 더뎠다. 강 교수는 “레켐비가 기억력을 원래대로 되돌리는 ‘기적의 치료제’는 아니지만, 절반 이상에서 병의 진행 속도를 늦추는 데 의미 있는 역할을 했다”고 말했다.&lt;br&gt;&lt;br&gt;레켐비는 큰 부작용 없이 비교적 안정적으로 사용 가능한 것으로도 나타났다. 전체 환자의 약 22%에서 발열, 피로감, 두통 같은 증상이 나타났지만 대부분 경미한 수준이었다. 첫 투여 때 가장 많이 발생했고, 이후 치료가 반복될수록 빈도는 감소하는 경향을 보였다. &lt;br&gt;&lt;br&gt;레켐비 치료에서 의료진이 가장 주의 깊게 보는 것은 뇌에서 아밀로이드가 제거되는 과정에서 나타날 수 있는 뇌 이상 반응이었다. MRI 추적이 가능했던 146명을 살펴본 결과, 뇌 부종 계열은 4.8%, 미세 출혈 계열은 9.6%에서 나타났지만, 대부분 증상이 없거나 경미했다. &lt;br&gt;&lt;br&gt;다만 치료 대상이 제한적이다. 레켐비는 경도인지장애와 초기 치매 환자에게 효과가 기대되고, 이미 뇌세포 손상이 광범위하게 진행된 경우에는 효과가 제한적일 가능성이 크다.&lt;br&gt;&lt;br&gt;레켐비는 정맥주사 형태로 2주마다 병원을 방문해야 한다. 정기적인 MRI 검사도 필요하다. 18회 투여 기준으로 환자가 부담하는 약값만 4000만~5000만원이다. 건강보험이 적용되지 않아 환자와 가족의 부담이 적지 않다.&lt;br&gt;&lt;br&gt;그럼에도 의료계는 레켐비 등장이 치매 치료의 중요한 전환점이 될 것으로 보고 있다. 과거 치매 진료는 증상이 악화된 뒤 대응하는 방식이었다면, 앞으로는 치매 위험군을 조기에 적극적으로 찾아내고, 초기 단계부터 병의 진행 자체를 늦추는 치료가 이뤄질 것이기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [생활 속 경제] 세계 석유 생산량 1위 美, 왜 호르무즈 해협 봉쇄로 휘발유 가격이 오를까요?</title>
+      <link>https://www.chosun.com/national/nie/2026/05/21/KKASHOARTFBVBLA3WVBMB272SM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/21/KKASHOARTFBVBLA3WVBMB272SM/</guid>
+      <dc:creator>김나영 양정중 교사·경제전문작가</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;Q. 멀리 중동에서 전쟁이 벌어져 호르무즈 해협이 막히면서 우리나라뿐 아니라 미국 같은 주요 국가들에서도 항공유·휘발유 등 기름값이 오르고 있대요. 미국은 전 세계 원유 생산량 1위 국가라고 하는데, 왜 전쟁의 영향을 받는 걸까요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. 호르무즈 해협은 전 세계 석유가 지나다니는 바다 위 고속도로 같은 곳입니다. 특히 중동 산유국에서 나는 석유를 실은 유조선들이 세계 각지로 가기 위해 반드시 지나야 하는 곳이죠. 이곳이 전쟁 등으로 막히면 석유를 제때 운반하기 어려워져, 석유 공급이 줄어들 수 있습니다. 실제로 공급이 줄어들진 않더라도, 앞으로 석유가 부족해질 수 있다는 걱정 때문에 석유를 미리 사두려는 사람이 늘어나 유가가 오르기도 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4GMCPQN4BACNI5O6UT6C6SSPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 호르무즈 해협에 유조선들이 정박해 있어요. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국도 이 영향을 받아 기름값이 크게 올랐어요. 지난 2일 미국 8위 항공사 ‘스피릿 항공’이 문을 닫았죠. 이 회사가 망한 가장 큰 이유는 항공유 가격이 두 배로 뛰었기 때문이에요. 항공사는 비행기 연료로 돈을 많이 쓰거든요. 미국 내 휘발유는 최근 갤런당 4달러 52센트까지 치솟으며 4년 만에 최고치를 찍었죠. 전쟁 직전 3달러 아래였던 것이 50% 이상 올라버린 거죠.&lt;br&gt;&lt;br&gt;여기서 하나 의문이 들어요. 미국은 자기 나라에서 쓰는 것보다 더 많은 석유를 생산해 수출도 하는 나라거든요. 그럼 호르무즈 해협이 막혀도 자국 내 석유를 쓰면 되지 않을까 싶은데요. 자기 나라에서 석유가 펑펑 나오는데 왜 이럴까요? 여기에는 크게 두 가지 이유가 있습니다.&lt;br&gt;&lt;br&gt;첫째, 미국 정유 공장은 대부분 중동산 ‘무거운 기름(중질유)’을 처리하도록 설계돼 있어요. 미국에서 나오는 석유는 ‘가벼운 기름(경질유)’이라 자국 내 공장과 잘 맞지 않아요. 그래서 자기 나라 석유가 많아도 중동 석유를 계속 사 와야 합니다. 이걸 ‘정유 불일치’라고 불러요.&lt;br&gt;&lt;br&gt;둘째, 석유는 국제 시장에서 거래되는 상품이라 세계 시세를 따라가요. 중동에서 가격이 오르면 미국 안에서도 똑같이 오를 수밖에 없는 구조죠. 경제학에서는 이런 흐름을 ‘파급 효과’라고 불러요. 도미노처럼 한 곳에서 시작된 충격이 줄줄이 옆으로 퍼져 나가는 현상이죠. 산유국이라는 든든한 갑옷을 입은 미국조차 막지 못할 만큼 세계 경제는 촘촘히 엮여 있어요.&lt;br&gt;&lt;br&gt;그럼에도 미국 소비자들은 다른 주요 국가보다 낮은 가격에 휘발유를 구매하고 있어요. 기름값에 붙는 세금인 ‘유류세’가 낮은 점이 주요한 이유로 꼽혀요. 미국인들은 국토가 넓은 만큼 자동차 의존도가 높아 휘발유 가격 변화에 민감하다고 해요. 미국 휘발유 값에서 세금이 차지하는 비율은 약 15%뿐이지만, 우리나라는 48%, 유럽은 60%에 가까워요. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [뉴스 속의 세계사] 고구려·백제·신라 순으로 삼국시대 ‘불교’ 들어왔어요</title>
+      <link>https://www.chosun.com/national/nie/2026/05/21/RXX6OEDPI5BRJMLGJXYWTST76Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/21/RXX6OEDPI5BRJMLGJXYWTST76Q/</guid>
+      <dc:creator>유석재 역사문화전문기자, 기획·구성=정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:40:00 +0000</pubDate>
+      <content:encoded>오는 24일 일요일은 ‘부처님 오신 날’이에요. 대한민국의 법정 공휴일인 이 날은 석가모니의 탄생일이랍니다. 음력으로 4월 8일이기 때문에 ‘초파일(初八日)’로도 부르죠. 초파일은 여덟째 날이란 뜻이어서 ‘4월 초파일’이 더 정확한 표현이겠지만, 언제부터인가 석가모니의 탄생일을 가리키게 됐답니다. &lt;br&gt;&lt;br&gt;불교는 웬만한 우리나라 역사극에 절과 스님이 꼭 나올 정도로 아주 오래전부터 주요 종교였는데요. 오늘은 어떻게 불교가 우리나라에 들어오게 됐는지 그 연원을 따져 보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;인도에서 중앙아시아 거쳐 중국으로&lt;/b&gt;&lt;br&gt;&lt;br&gt;석가모니가 태어난 곳은 현재 네팔의 영토인 룸비니라는 곳이지만, 불교의 근원지는 크게 인도라고 봅니다. 불교는 인도에서 중앙아시아로 전파됐고, 다시 한(漢)나라 때 중국으로 전해졌어요. 대략 기원전 1세기에서 기원후 1세기 무렵이죠.&lt;br&gt;&lt;br&gt;중국은 4세기부터 북방 민족이 화북 지역을 점령하고 왕조를 세운 ‘오(5)호십육(16)국 시대’가 펼쳐졌고, 남쪽에선 동진, 송(유송), 제, 양, 진의 한족(漢族) 왕조가 잇달아 세워졌습니다. 여기서 이 설명을 해야 하는 이유가 있어요. 고구려는 당시 중국의 북쪽에 있는 왕조에서, 백제는 남쪽에 있는 왕조에서 불교를 받아들였기 때문이에요. 삼국 모두 공식 전래 시점보다 이른 시기에 이미 민간에 유입됐다고 보기도 합니다. 또 세 나라 모두 불교를 공식화한 것은 율령(律令·형률과 법령) 체제의 정비와 밀접한 관련이 있었다는 점이 중요합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G233N7PDJZBXBETZNZSOLFO4FU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고구려 승려 담징이 일본에 건너가 그렸다고 전해지는 호류지의 금당 벽화입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;첫 공식 전래는 전진→고구려&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리나라에 공식적으로 불교가 처음 들어온 것은 서기 372년 고구려 소수림왕 때였어요. 오호십육국 중 북쪽의 왕조였던 전진이 순도라는 승려를 통해 불상과 불경을 고구려에 보내면서 불교가 전래됐다는 거예요. 이후에 아도라는 승려가 또 고구려에 왔습니다. 소수림왕은 ‘초문사’와 ‘이불란사’ 두 절을 수도 국내성에 짓고 순도와 아도를 각각 주지로 있게 했대요.&lt;br&gt;&lt;br&gt;이후 광개토대왕 때인 392년 평양에 절 아홉 곳을 지었다고 합니다. 광개토대왕 시기의 연호(임금이 즉위한 해에 붙이는 칭호)는 영락(永樂)이었는데 ‘영원히 지속되는 즐거움’이란 뜻으로 불교적인 의미를 담고 있다고 해석되기도 해요. 이후 장수왕의 첩자로 백제 개로왕에게 접근했던 도림, 신라로 망명해 팔관회(토속신에게 제사를 지내던 의식)를 전했다는 혜량 같은 고구려 승려들이 역사에 나타납니다. 고구려 승려이자 화가인 담징은 일본에 건너가 유명한 호류지(法隆寺)의 ‘금당 벽화’를 그렸다고 전해집니다. 고구려 말기엔 연개소문이 귀족 세력을 억누르기 위해 도교를 받드는 대신 불교를 탄압하는 일도 있었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZ2CH6AYBRBQNCY5RC2ZXVK4ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국보 백제금동대향로. 충남 부여 국립부여박물관에 전시돼 있습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;동진→백제→일본으로 불교 전파됐죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;불교가 고구려로 공식 전래된 지 12년 뒤, 백제에도 전래됩니다. 고구려와는 달리, 중국의 남쪽 왕조인 동진에서 왔다고 해요. 서기 384년 백제 침류왕 때였습니다. 침류왕은 백제의 대표적 군주인 근초고왕의 손자예요.&lt;br&gt;&lt;br&gt;침류왕 때 불교 전파 임무를 맡은 동진의 승려는 인도 승려 마라난타로 전해집니다. 그래서 백제는 인도에서 직접 불교를 받아들인 것이나 마찬가지라고 보는 시각도 있어요. 당시 마라난타의 법문을 들으려고 사람들이 몰려드는 모습이 마치 왕명을 받고 모이는 것 같았다고 해요.&lt;br&gt;&lt;br&gt;침류왕의 아들 아신왕은 즉위(392년)하면서 ‘불법을 숭상해 복을 구하라’는 명을 내렸답니다. 백성에게 적극적으로 불교 신앙을 권한 셈이죠. 고구려와의 전쟁을 앞두고 불교를 통해 내부 결속을 강화하려는 의도로 보기도 해요. 백제가 고구려에 패해 한강 유역을 잃고 웅진(지금의 공주)으로 수도를 옮긴 뒤에도 불교는 백제에서 계속 중요한 역할을 했는데, 승려인 겸익은 526년(성왕 4년) 우리나라 승려 최초로 인도에 유학을 다녀오기도 합니다.&lt;br&gt;&lt;br&gt;지금 국립부여박물관에서는 방 하나에 유물 한 가지만 전시하는 곳이 있는데, 바로 1993년 발견된 ‘명품 중의 명품’인 국보 백제금동대향로예요. 이 문화유산이 발견된 장소는 백제의 왕실 사찰이 있던 곳으로, 위덕왕이 아버지 성왕의 명복을 빌기 위해 세운 절이었습니다.&lt;br&gt;&lt;br&gt;백제 불교의 역사에서 또 하나 빼놓을 수 없는 건 ‘백제가 일본에 불교를 전파했다’는 사실입니다. 552년(성왕 30년), 백제 관등 중 2품에 해당하는 달솔 벼슬의 노리사치계가 임금의 명을 받은 뒤 불상과 불경을 지니고 일본에 건너가서 불교를 소개했습니다. 일본 불교의 역사는 여기서부터 시작된 겁니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBTHBBBY65HMNCMQPX7D35DYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경주 백률사에 있던 이차돈 순교비. 순교한 이차돈을 기리기 위해 세워졌습니다. 지금은 국립경주박물관에 있어요. /한국민족문화대백과사전•국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;늦게 공인된 신라, 국가 통합의 밑거름&lt;/b&gt;&lt;br&gt;&lt;br&gt;불교가 정착되기까지 곡절이 가장 많았던 나라는 삼국 중 신라였습니다. 19대 임금 눌지마립간(재위 417~458년) 때 고구려의 승려 묵호자가 신라로 왔고, 그를 위해 절을 지어 줬다는 기록이 있습니다. 그러나 신라에서 불교가 공인된 것은 이로부터 100년 가까이 지난 528년 법흥왕 때였어요.&lt;br&gt;&lt;br&gt;법흥왕이 불교를 국가 종교로 받아들이고 흥륜사라는 사찰을 세우려 하자, 외래 종교인 불교를 배척하는 귀족들의 극심한 반대에 부딪쳤다고 합니다. 이때 왕의 신하인 이차돈이 나서서 ‘흥륜사 건립 공사 책임을 나에게 물어달라’며 자청해 처형을 당했대요. 그런데 이차돈의 목을 베니 흰 젖 같은 피가 한 길이나 솟구쳐 올랐고, 하늘은 어두워지고 땅은 진동했으며 사방에서 꽃비가 내렸다고 합니다. 이처럼 신비로운 그의 죽음을 계기로 결국 신라에선 불교가 공인되고, 이차돈은 한국사 최초의 불교 순교자로 기록됩니다. 다만 이를 법흥왕이 불교 공인을 위해 벌인 일종의 ‘정치 쇼’로 보는 시각도 있습니다.&lt;br&gt;&lt;br&gt;이후 신라는 삼국 중에서 가장 불교를 정치에 밀착시켜 국가 발전에 활용했다는 평가를 받아요. 7세기에 들어서면 진평왕 때 원광법사는 청소년 수련 단체인 화랑에게 불교의 가르침을 바탕으로 하는 지침 ‘세속오계’를 내렸고, 선덕여왕은 황룡사 구층탑을 세웠죠. 모두 불교가 신라의 정신적 통합에 영향을 끼친 사례랍니다. 원효와 의상 같은 한국사 대표 고승(高僧)이 출현한 것도 이 시기의 신라였어요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책] 케첩의 원조는 중국 생선 소스였대요</title>
+      <link>https://www.chosun.com/national/nie/2026/05/21/MFDNANYVHZBG7DBVODKFJC3YJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/21/MFDNANYVHZBG7DBVODKFJC3YJI/</guid>
+      <dc:creator>이진혁 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROGB65T33FC7JMHHIH2G5CM5CM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;댄 주래프스키 지음 l 김병화 옮김 l 출판사 어크로스 l 가격 1만7000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;배달 앱에서 메뉴 고를 때를 떠올려 보세요. ‘수제’ ‘정통’ ‘바삭’ ‘풍미’ 같은 말들이 빼곡하게 적혀 있지요. 우리는 단순히 음식을 고른다고 생각하지만 사실은 그 음식에 붙은 말들을 함께 고르고 있는지도 모릅니다. 저자는 음식 이름부터 메뉴판에 적힌 문장, 맛집 리뷰에 쓰인 말까지 두루 살피며 ‘먹는 일’이 ‘말하는 일’과 얼마나 깊이 연결돼 있는지 흥미진진하게 풀어냅니다.&lt;br&gt;&lt;br&gt;이 책은 우리가 아주 익숙하게 여긴 음식들을 전혀 다른 눈으로 보게 만들어요. 예를 들어 케첩은 원래 토마토가 전혀 들어가지 않은 중국 푸젠성 지방의 발효 생선 소스였습니다. 대항해 시대 무역과 변형을 거치며 오늘날의 토마토케첩으로 바뀐 거죠. 감자와 생선을 튀겨 만든 영국 국민 음식 피시앤드칩스도 유대인 이주민의 생선 튀김 조리법에 유럽 토박이 재료가 아니던 감자가 만나 완성됐고, 남미의 해산물 요리인 세비체 역시 아랍권을 거쳐 전해진 조리법이 현지 식재료와 결합한 결과물입니다. 전통 음식처럼 보이는 한 접시 안에도 사실은 이주와 무역, 문화의 뒤섞임이 켜켜이 쌓여 있습니다. 대부분의 요리는 문화가 만나는 경계에서 태어난다는 뜻이죠.&lt;br&gt;&lt;br&gt;저자의 시선은 과거의 역사에만 머물지 않고 오늘날 메뉴판과 포장지, 온라인 리뷰도 날카롭게 읽어냅니다. 방대한 데이터를 분석한 결과, 메뉴에 적힌 단어가 길어질수록 음식값도 올라간다는 사실은 무척 흥미롭습니다. 똑같은 요리라도 더 길고 세련된 말로 설명하면 비싸도 기꺼이 지갑을 열게 된다는 거죠. 값비싼 과자 포장지에 ‘천연’ ‘전통’ 같은 말이 유난히 많은 것도 같은 원리입니다. 우리는 맛뿐 아니라 그 음식을 먹는 나의 이미지까지 함께 소비합니다. “사람들이 먹는 것은 그들이 어떤 존재인지뿐 아니라 어떤 존재가 되고 싶어 하는지를 반영한다”라는 저자의 말처럼요.&lt;br&gt;&lt;br&gt;음식에 대한 말은 인간의 복잡한 심리도 생생하게 드러냅니다. 사람들은 맛집 리뷰에서 긍정적인 경험을 말할 때는 비슷한 단어를 반복하지만, 나쁜 경험을 묘사할 때는 훨씬 구체적이고 다양한 표현을 씁니다. 단순히 맛이 없었다는 말 대신 ‘눅눅했다’ ‘비렸다’ ‘무시당한 기분이었다’처럼 세세하게 적는 것이죠. 인간이 기쁜 일보다 불쾌한 상황을 더 예민하게 기억하고 자세히 말하려는 경향이 있기 때문입니다. 결국 맛집 리뷰를 분석해보면 인간이 무엇에 상처받고 무엇에 끌리는지 살펴볼 수 있습니다.&lt;br&gt;&lt;br&gt;그래서 ‘음식의 언어’는 음식책이면서 역사책이고 심리학책이며 인문학책이기도 합니다. 무심코 집어 드는 케첩 한 병, 메뉴판 한 장에도 세계사와 인간의 욕망이 고스란히 새겨져 있으니까요. 오늘 저녁 식탁 앞에 앉게 된다면 음식의 맛만 음미하지 말고, 그 음식과 관련된 말도 한번 천천히 생각해보세요. 평범한 한 끼가 훨씬 깊고 흥미로운 이야기로 바뀌는 마법을 경험하게 될 겁니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] fall back on ~</title>
+      <link>https://www.chosun.com/national/nie/english/2026/05/21/M3ORDYPMVND77IEI3QSLCGZADQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/05/21/M3ORDYPMVND77IEI3QSLCGZADQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVGABM4T4VCWDBVVUEOHMREY34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 영향을 받다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2026/05/21/K5WXMSRAHNDOXM3SSTSUNURJIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/05/21/K5WXMSRAHNDOXM3SSTSUNURJIU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRN2ZFRPQ5FALOMHROHLYDW6TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 예탁금(預託金)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2026/05/21/DXMA6GEQYJF77K4EX2QUGFCJJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/05/21/DXMA6GEQYJF77K4EX2QUGFCJJA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCBJGGZE7NATTDNO3VFEWREZKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 미안해요, 면목이 없습니다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2026/05/21/JIAIUY6MQ5BXDFKNKDJDUTTH6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/05/21/JIAIUY6MQ5BXDFKNKDJDUTTH6Y/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5JD7ZV2RBBKJMUIT757JILAUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2871] 문장 꽈배기</title>
+      <link>https://www.chosun.com/national/nie/2026/05/21/JOMAFDNZ55BZ5F6ZJRWXOHU5SA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/21/JOMAFDNZ55BZ5F6ZJRWXOHU5SA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBRLHAUQNNBKVCF6ZFZNQA2ZBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“탈탄소, 단순 환경문제 아냐...경제·에너지 안보 달렸다”</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/20/OLMDBDWUIZCK3H742AZB3T2WJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/20/OLMDBDWUIZCK3H742AZB3T2WJA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 11:42:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLMB2XH5YRB7XDSJPAOI4YYKAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 중구 신라호텔에서 열린 제17회 아시안리더십콘퍼런스(ALC)에서 '미·중 빠진 탈탄소, 파리협정의 의미를 다시 묻다' 세션에 참여한 패널들이 발언하고 있다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한해 전 세계가 내뿜는 탄소 중 절반을 차지하고 있는 중국과 미국, 인도는 2015년 맺은 파리협정을 탈퇴하거나 파리협정에서 약속한 ‘2050년’이라는 기한을 무시한 채 독자적 탈(脫)탄소 시점을 설정하는 식으로 여전히 많은 양의 탄소를 뿜어내고 있다.&lt;br&gt;&lt;br&gt;반면 한국은 2035년까지 2018년 대비 53~61%의 탄소를 줄이는 공격적인 NDC(국가 온실가스 감축 목표)를 설정했다. 인구 140만명의 에스토니아는 2030년까지 재생에너지로 화석연료 의존도를 30~40% 수준으로 줄이고, SMR(소형 모듈 원자로)를 도입해 에너지를 무탄소로 전환하겠다고 발표했다.&lt;br&gt;&lt;br&gt;하지만 최다 배출국의 탈탄소 참여가 요원한 상황에서 한국을 비롯한 상대적 저(低)배출국들이 노력이 무용한 것 아니냐는 시각도 적지 않다.&lt;br&gt;&lt;br&gt;20일 서울 중구 신라호텔에서 열린 제17회 아시안리더십콘퍼런스(ALC)에선 ‘미·중 빠진 탈탄소, 파리협정의 의미를 다시 묻다’라는 주제로, 미국과 중국의 이탈로 탈탄소 동력이 약해진 상황에서 앞으로 펼쳐질 기후변화 대응 양상과 녹색 전환의 미래에 대해 진단하는 시간을 가졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYRD2OSTENGRDONR5RATI2OERQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 ALC '미·중 빠진 탈탄소, 파리협정의 의미를 묻다' 세션에 참가해 발언하고 있는 이회성 IPCC 전 의장. 이 전 의장은 "전기의 탈탄소화에 그칠 것이 아니라 산업 소재의 탈탄소가 이뤄져야만 진정한 '경제의 탄소중립'이 이뤄질 수 있다"고 강조했다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;IPCC(기후변화에 관한 정부 간 협의체) 의장으로 제6차 평가 보고서 발간을 이끈 이회성 전 의장은 재작년 전 지구 온도가 1.55도 상승을 기록, 한 차례 목표치 위로 올라간 것을 지적하며 “이런 일시적 ‘오버 슈트’(목표치 이탈)가 수차례 이어지고 나서야 비로소 안정화 될 것”이라며 “파리협정의 목표는 2100년까지 길게 보고 가는 것이기 때문에, 당장 이것을 실패로 단정지을 순 없다”고 했다.&lt;br&gt;&lt;br&gt;이 전 의장은 “문제는 오히려 ‘왜 이렇게 더뎠느냐’에 있다”면서 “파리협정은 세계 195국(國)의 약속이고, 이것은 결국 ‘정부 실패’라고 밖에 볼 수 없다”고 했다. 그러면서 “각국 정부는 파리협정 이슈를 소환해 탈탄소의 책임을 정부 뿐만 아니라 기업, NGO, 시민 등 모든 이해 관계자들에게 분산시켰다”며 “이렇게 되면 아무도 책임을 지지 않는다. 그게 지금의 현실”이라고 꼬집었다.&lt;br&gt;&lt;br&gt;이 전 의장은 ‘RE100(재생에너지 100%)’ 등 유럽 NGO를 중심으로 일었던 재생에너지 중심의 탈탄소 흐름에 대해 지적하면서 “진정한 탄소중립을 달성하려면 마음에 드는 기술 하나를 골라 놓고 그것이 무조건 정답인 것처럼 강요하는 ‘기술 교조주의’에서 벗어나야 한다”며 “적(敵)은 ‘탄소’이지, ‘화석연료’가 아니다”고 했다. 그는 “(재생에너지에 강점을 가진) 유럽에서 그들의 이익을 위해 재생에너지를 다른 나라도 채택하도록 강제하는 것은 독단이며 이것이 탈탄소의 진짜 적”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOCCQFZBSNECLGK6V73TZVMPGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 ALC '미·중 빠진 탈탄소, 파리협정의 의미를 묻다' 세션에서 타넬 셉 주한에스토니아 대사가 발언하고 있다. 그는 "녹색 전환은 단순한 환경의 문제가 아니라 경제적 경쟁력, 에너지 안보 등이 걸린 한 국가의 생존 싸움"이라고 했다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;타넬 셉 주한에스토니아 대사는 탈탄소에 대한 유럽연합(EU)의 대응 흐름에 대해 “EU 안에서 강력한 인식 전환이 일어나고 있다”며 “그것은 탈탄소가 단순한 환경의 문제가 아니라 경제적 경쟁력, 에너지 안보, 그리고 기술 주권의 문제라는 것”이라고 했다.독일·프랑스 같은 큰 국가 뿐만 아니라, 에스토니아를 포함한 EU의 ‘작은 국가’도 탈탄소의 중요성에 대해 크게 공감하고 있다는 것이다.&lt;br&gt;&lt;br&gt;그는 러시아-우크라이나 전쟁으로 발트3국이 천연가스 수입에 문제를 겪었던 것을 짚으면서, “에스토니아는 에너지를 100% 화석연료에 의존해왔고, 모든 걸 수입하고 있었다”며 “전쟁을 계기로 에너지 안보와 독립의 중요성을 심각하게 느끼게 됐다”고 했다. 이어 “녹색 전환은 곧 화석연료 일변도로 인한 우리의 취약성과 연관된 문제”라며 “이것은 지역적 문제가 아니라 전 지구적 문제”라고 했다.&lt;br&gt;&lt;br&gt;그는 녹색 전환에 있어 에스토니아와 한국의 협력도 강조했다. 그는 “에스토니아의 강점은 유연한 비즈니스 환경으로 경쟁력 있는 스타트업이 많이 있다는 것”이라며 “한국은 에스토니아를 통해 기술 실현과 테스트 베드 확보를, 에스토니아는 한국을 통해 산업적 확장을 이룰 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMJFSKYFFZHMTPZ2MTXCZ5EIDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 ALC '미·중 빠진 탈탄소, 파리협정의 의미를 묻다' 세션에 참가한 이미선 기상청장은 “우리 기술로 대기, 해양, 지표면, 해빙에 걸친 물리적 변화 과정을 통합해 재난 관리, 농업, 에너지 등 다양한 분야에서 요구하는 맞춤형 정보를 제공할 것"이라고 했다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이미선 기상청장은 실제 직면한 기후 위기의 위협과 대응책에 대해 설명했다. 이 청장은 “기후 위기는 더 이상 예외적 사건이 아니라 일상적 위협이 됐기 때문에, 세계기상기구(WMO)에선 재해 경감과 조기 경보를 위한 기후 모니터링, 기술 협력에 주력하고 있다”며 “특히 지구 어디서나 모든 사람이 심각한 기상 현상에 대비해 생명을 지킬 수 있도록 조기 경보 시스템을 구축하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 청장은 “WMO에선 ‘통합 관측 시스템’을 통해 관측 데이터를 공유하기 위한 국제적 틀을 강화중”이라며 “날씨와 기후는 국경을 넘어 확장되기 때문에 특정 지역의 관측 공백은 전 세계적인 예측 정확도를 저해할 수 있다”고 했다. 그러면서 “기후 문제에 대한 과학적 투명성을 강화하기 위해 ‘글로벌 온실가스 감시 체계’(G3W)로 불리는 프레임 워크를 강화하고 있다”며 “이 체계를 통해 파리협정 목표 달성을 위한 객관적이고 과학적인 배출량이 산출될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;기상 분야에서 한국의 강점에 대해서는 “작년부터 국가 기후 예측 시스템을 개발하고 있다”며 “우리 기술로 대기, 해양, 지표면, 해빙에 걸친 물리적 변화 과정을 통합해 10년 단위 기후 예측 정보 뿐만 아니라 재난 관리, 농업, 에너지 등 다양한 분야에서 요구하는 맞춤형 정보를 제공할 것”이라고 했다. 이어 “기술 역량 강화를 통해 단기적으론 국가 정책 수립, 장기적으론 세부적인 국가 표준 기후변화 시나리오를 만들고자 한다”고 부연했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RDI4BRQZBF77NQO4HDIZCWTKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 ALC '미·중 빠진 탈탄소, 파리협정의 의미를 묻다' 세션에서 좌장을 맡은 박형건 캡처6 부사장. 그는 "탈탄소가 병목 현상을 겪고 있지만, 녹색 전환이 거스를 수 없는 흐름인 만큼 정부와 기업, 시민사회가 각자의 역할을 다한다면 파리협정의 목표에 다다를 수 있을 것"이라고 했다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 좌장을 맡은 박형건 캡처6 부사장은 “한국을 비롯한 각국이 적극적 탄소 저감 의지를 보이고 있지만, 오히려 탄소 최다 배출국들이 저감 의지 대신 배출을 더 늘리겠다고 선포하면서 파리협정 이행이 병목 현상을 겪고 있다”며 “하지만 녹색 전환이라는 큰 흐름을 거스를 수는 없다는 점에서 각국 정부와 기업, 시민사회가 각자의 위치에서 역할을 다하면 파리협정의 목표에 결국 다다를 수 있을 것으로 본다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장맛비 같은 봄비...경기·강원에 호우주의보 </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/20/B46KVGMBX5CADAG7GY77YJUX6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/20/B46KVGMBX5CADAG7GY77YJUX6U/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 13:04:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHJ4OOQUAJKLNAUAH3AEE7PJ5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 광화문광장 부근에서 시민들이 우산을 쓰고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봄비가 여름비처럼 강하게 퍼붓고 있다. 20일 밤에서 21일 새벽 사이 수도권에는 시간당 20㎜가 넘는 폭우가 쏟아질 것으로 보인다. 전남 일부 지역에 발령됐던 호우주의보는 경기·강원 곳곳으로 확대됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 20일 새벽 서해상을 통과해 들어온 저기압이 우리나라 전역을 훑고 지나가면서 21일 오후까지 전국에 많은 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;전날인 19일 전남 곳곳에 발령됐던 호우주의보(3시간 강수량 60㎜ 이상)는 20일 경기·인천·강원·전남·경남·제주산지까지 확대됐다.&lt;br&gt;&lt;br&gt;수도권은 20일 밤부터 21일 새벽 사이 강풍을 동반한 시간당 20㎜ 안팎의 강한 비가 퍼부을 것으로 보인다. ‘강한 비’의 기준이 시간당 15㎜로, 전방 시야가 크게 방해받는 정도다. 밤사이 강원도와 충청권은 시간당 10~20㎜, 남부지방과 제주도는 산지를 중심으로 시간당 최대 30㎜가 쏟아지는 곳도 있겠다.&lt;br&gt;&lt;br&gt;이번 비는 21일 오후 비구름대가 동해상으로 빠져나가며 그칠 것으로 보인다. 조각난 비구름대가 걸려 채 빠져나가지 못한 강원산지와 제주산지에선 저녁까지 비가 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;20~21일 예상 강수량은 수도권 20~80㎜, 강원도 20~100㎜, 충청권 20~80㎜, 호남권 10~80㎜, 영남권 20~80㎜, 제주도 10~120㎜ 등으로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 5월 21일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/20/V6IQ4AFBOBDTRJS76ETM6DQSAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/20/V6IQ4AFBOBDTRJS76ETM6DQSAM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 14:36:00 +0000</pubDate>
+      <content:encoded> 전국에 강풍 동반 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R56O2QNWL5A4FDPPP3GCKWEJNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종합특검, 尹 ‘반란 혐의’ 피의자 소환 조사…내달 6일·13일 </title>
+      <link>https://www.chosun.com/national/court_law/2026/05/20/2IICGU73CRCYDAMTOQGJZ7WMMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/20/2IICGU73CRCYDAMTOQGJZ7WMMU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 13:00:18 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 다음 달 6일 2차 종합특검에 처음 출석해 피의자 조사를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTDMN3BHAYDEZTBGJTGGMDEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령에게 다음 달 6일과 13일 이틀에 걸쳐 군형법상 ‘반란 우두머리 혐의’ 피의자로 출석해 조사받으라고 통보했다고 20일 밝혔다. 윤 전 대통령 측은 두 날 모두 출석하겠다는 입장을 특검에 전달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 김용현 전 국방부 장관, 박안수 전 육군참모총장, 곽종근 전 육군특수전사령관 등과 공모해 군 병력을 국회와 중앙선거관리위원회에 보내 폭동을 일으킨 혐의(반란 등)를 수사하고 있다. 윤 전 대통령에게 적용된 반란 우두머리 혐의의 법정형은 사형뿐이다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 이미 내란 우두머리 혐의로 1심에서 무기징역을 선고받고 항소심을 앞두고 있다. 윤 전 대통령 측은 반란 우두머리 혐의가 기존 내란 우두머리 혐의에 포함되는 만큼, 종합특검이 추가로 기소한다면 ‘이중 기소’에 해당한다는 입장이다.&lt;br&gt;&lt;br&gt;앞서 특검은 윤 전 대통령에게 지난달 30일 출석하라고 요구했지만, 윤 전 대통령 측이 재판 일정 등을 이유로 응하지 않으면서 조사가 불발됐다. 특검은 오는 23일 출석하라고 다시 통보했지만, 윤 전 대통령 측이 또다시 출석이 어렵다는 입장을 밝혔다고 한다. 특검과 윤 전 대통령 측 변호인이 수 차례 일정을 조율한 끝에 다음 달 6일 첫 조사가 이뤄지게 됐다. &lt;br&gt;&lt;br&gt;윤 전 대통령 측은 출석 조사 때 ‘계엄 정당화 메시지’ 의혹과 관련한 직권남용 혐의도 함께 조사받는 방안을 특검과 협의 중인 것으로 알려졌다. 특검은 윤 전 대통령이 비상계엄 직후 미국 등 국제사회에 계엄의 정당성을 설명하는 메시지를 전달하려 했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일주일 만에 또 차량 훔친 초등생… 친구 아버지차 몰았다가 붙잡혀</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/20/MTRLSHHN5FA7HJ5FD65XSEHMTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/20/MTRLSHHN5FA7HJ5FD65XSEHMTU/</guid>
+      <dc:creator>천안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 12:55:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STBYT5T4JBF3DNP4BULXPLCHNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 천안동남경찰서./천안동남경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안에서 차를 훔쳤던 초등학생이 일주일 만에 또 차를 훔쳐 타고 달아났다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 천안동남경찰서는 도로교통법(무면허 운전) 위반 및 특수절도 혐의로 A(12)군과 B(12)군을 붙잡아 조사하고 있다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 이날 오전 6시 30분쯤 충남 천안시 동남구에서 A군 부친의 승용차를 훔쳐 달아난 혐의를 받는다. A군의 부친은 오전 8시 17분쯤 “아들이 차를 훔쳐 도망갔다”고 112에 신고했다.&lt;br&gt;&lt;br&gt;A군과 B군은 범행 3시간 20분 만에 충남 당진에 차를 버리고 도주했지만, 당진시 읍내동 한 피시방에서 경찰에 붙잡혔다. 차량을 훔쳐 약 50㎞ 떨어진 당진까지 이동한 것이다.&lt;br&gt;&lt;br&gt;특히 훔친 차를 운전한 B군은 일주일 전 다른 초등생 2명과 함께 천안에서 차를 훔쳤다가 경찰에 붙잡혔던 것으로 확인됐다. 당시 B군은 훔친 차량에 탑승했었고, 직접 운전은 하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;일주일 전 경찰에 붙잡힌 B군 등 3명은 경찰 조사에서 “처음부터 차를 훔칠 목적은 아니었다”면서 “금품을 훔치려다가 시동이 걸려 타고 나온 것”이라고 진술했다.&lt;br&gt;&lt;br&gt;이 당시 소년부 법원은 3명 중 주범이자 차를 운전한 C군에 대해서만 소환 절차 없이 즉시 소년분류심사원에 강제 수감하는 긴급동행 영장을 발부했다. B군과 다른 1명은 조사 후 귀가 조치했다.&lt;br&gt;&lt;br&gt;경찰은 B군이 일주일 만에 재범을 저지르자 A군과 B군에 대해 긴급동행 영장 발부 요청을 검토하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>150만원 상당 행사 기념품 협찬… 충남지역 군수 후보자 고발</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/20/PMDAMWANBZFEHHLRYLXVYT6ZRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/20/PMDAMWANBZFEHHLRYLXVYT6ZRM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 11:56:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRQTMMLFGVTDKNRRG5TDQYLDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충청남도선거관리위원회./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행사 협찬 명목으로 기념품을 제공한 충남 지역 군수 선거 후보자가 검찰에 고발됐다.&lt;br&gt;&lt;br&gt;충남선거관리위원회는 공직선거법 위반 혐의로 군수 선거 후보자 A씨를 대전지검 관할 지청에 고발했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 친분이 있는 B씨로부터 지역 행사 협찬 물품 제공을 요청받고 기념품 50개(150만원 상당)를 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨는 A씨에게 기부를 요구한 혐의로 함께 고발됐다.&lt;br&gt;&lt;br&gt;공직선거법은 후보자 또는 후보자가 되려는 사람이 해당 선거구 안의 개인이나 단체에 기부 행위를 하는 것을 금지하고, 누구든지 후보자 등에게 기부를 요구할 수 없도록 규정하고 있다.&lt;br&gt;&lt;br&gt;이를 위반할 경우 5년 이하 징역 또는 1000만원 이하 벌금에 처할 수 있다.&lt;br&gt;&lt;br&gt;충남선관위 관계자는 “기부 및 매수 행위에 대해서는 무관용 원칙으로 철저히 조사해 엄중히 조치하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가세연 김세의 구속 기로… 배우 김수현 명예훼손 혐의</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/20/LOCJH2ZD4BFGZAHMF55DUBO6TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/20/LOCJH2ZD4BFGZAHMF55DUBO6TQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 12:03:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSGIYRSMVRWEMJWGMZDCNZUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김세의 가로세로연구소 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 배우 김수현(38)씨와 고(故) 김새론씨의 관계에 대한 허위 사실을 유포해 김수현씨의 명예를 훼손한 혐의를 받는 김세의(50) 가로세로연구소 대표에 대한 구속영장을 청구했다고 20일 밝혔다. 지난 14일 서울 강남경찰서가 성폭력범죄의 처벌 등에 관한 특례법 위반, 명예훼손 등 혐의로 김 대표에 대한 구속영장을 신청한 데 따른 것이다.&lt;br&gt;&lt;br&gt;김 대표는 작년 2월 김새론씨 사망 이후 유튜브 방송 등에서 “김수현이 과거 미성년자였던 김새론과 교제했고, 채무 변제를 압박해 김새론을 죽음에 이르게 했다”는 취지의 주장을 이어갔다. 작년 5월 김새론 유족 측과 함께 열었던 기자회견에서는 김새론씨가 15세 때 이미 김수현씨와 교제하고 있었다는 증거로 김새론씨의 육성 녹취록을 공개하기도 했다.&lt;br&gt;&lt;br&gt;김수현씨 측은 “김새론씨와는 김씨가 성인이 된 이후인 2019년부터 약 1년간 교제했고 채무 변제를 강요한 적도 없다”며 김 대표를 경찰에 고소했다. 그러면서 “녹취록은 AI로 조작된 것”이라고 주장했다. 경찰은 해당 녹취록의 진위를 판별하기 위해 국립과학수사연구원에 감정을 의뢰했으나 국과수는 “AI로 조작됐는지 판정할 수 없다”고 결론지었다.&lt;br&gt;&lt;br&gt;김 대표에 대한 구속 전 피의자 심문(영장실질심사)은 오는 26일 오전 10시 30분 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>ALC 행사장 마스코트 된 로봇 개…“집에 있는 강아지 생각 나”</title>
       <link>https://www.chosun.com/national/national_general/2026/05/20/C757V2FH5RB5LAYEXFUE75OPQI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/C757V2FH5RB5LAYEXFUE75OPQI/</guid>
@@ -629,15 +917,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VO6O4OP3JNA75H6OECMZSEQIUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 오전 3시 강원 양양군 설악산 한계령 탐방로의 문이 열리자 등산객들이 줄줄이 올라가고 있다. 이날 설악산국립공원사무소는 산불 예방을 위해 통제했던 설악산 탐방로를 73일 만에 개방했다. 전국에서 등산객이 몰려 ‘오픈런’이 벌어졌다. /설악산국립공원사무소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 새벽 강원 양양군 설악산 한계령 탐방로 입구. 오전 3시 출입통제문이 열리자 헤드랜턴 불빛 수백 개가 동시에 산길 위로 움직이기 시작했다. 전국에서 몰린 등산객들은 “칙칙폭폭 기차놀이 같다”며 앞사람 발걸음에 맞춰 대청봉 방향으로 줄지어 올라갔다. 일부 등산객은 “산에서 사람에 밀려 걷기는 처음”이라고 했다.&lt;br&gt;&lt;br&gt;설악산에 ‘오픈런’(문 열기 전 줄서기)이 등장했다. 73일 만에 다시 열린 설악산 고지대 탐방로에 전국의 등산객이 몰리며 진풍경이 벌어진 것이다. 설악산국립공원사무소는 지난 16일 오전 3시 산불 조심 기간 종료에 따라 설악산 최고봉인 대청봉(해발 1708ｍ)까지 오르는 고지대 탐방로를 전면 개방했다. 지난 3월 4일 통제가 시작된 이후 73일 만이다.&lt;br&gt;&lt;br&gt;19일 국립공원공단에 따르면, 지난 주말(16~17일) 설악산을 찾은 등산객은 약 3만2200명으로, 전주 주말(9~10일) 1만6500명 보다 2배 가까이 늘었다. 실제로 고지대 탐방로가 다시 열린 지난 주말 남설악(오색)과 한계령, 백담사, 설악동 등 주요 등산로 입구엔 새벽부터 전국 각지 산악회 회원들을 태운 관광버스와 자가용 행렬이 이어졌다. 일부 탐방지원센터 앞에는 출입문이 열리기 전부터 헤드랜턴을 켠 등산객 수백 명이 줄을 서 기다렸다. 대구에서 온 한 등산객은 “새벽 2시에 도착했는데도 이미 사람들이 줄 서 있었다”고 했다. &lt;br&gt;&lt;br&gt;우리나라 국립공원들은 산불이 나기 쉬운 3월 초부터 5월 중순까지 입산을 통제한다. 구체적인 통제 기간은 국립공원마다 다르지만, 통제가 해제되는 주말에 등산객이 몰리는 현상이 공통적으로 나타났다고 한다. 실제로 이달 1일 입산 통제가 해제된 지리산의 경우, 주말인 2~3일 등산객은 4만2000여 명으로, 전주 주말(2만5000여 명)보다 68% 늘었다. 같은 날 통제가 해제된 덕유산도 주말 등산객(6961명)이 전주 주말(5963명)보다 16.7% 많았다.&lt;br&gt;&lt;br&gt;산악인들은 “입산 통제 해제 날 국립공원을 찾는 건 ‘첫 대간(大幹)을 밟는다’는 상징적 의미를 지닌다”고 말한다. 수개월간 인간의 발길이 닿지 않아 때 묻지 않은 자연 그대로의 백두대간을 가장 먼저 밟는다는 것이다. 국립공원공단 관계자는 “여기에다 여름이 본격적으로 시작되기 전 얼마 남지 않은 봄 산행을 즐기고 싶어 하는 등산객들이 몰린 것”이라며 “입산 통제가 해제되는 날 방문객 수가 특히 많다”고 했다.&lt;br&gt;&lt;br&gt;현재 우리나라는 기존 중장년층 등산객에 더해, 젊은 층 사이에 등산이 트렌디한 취미로 자리 잡으면서 등산 인구 자체가 늘어난 상태다. 국립공원 탐방객 수는 2023년 3945만명에서 지난해 4331만명으로 증가했다. 치악산의 경우 지난해 실태 조사에서 연령대별 등산객이 50대(22.7%)에 이어 20대(21.6%)로 집계됐는데, 이는 처음으로 40대(19.8%)를 앞지른 것이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김형 회장, 모교 고려대에 10억원</title>
-      <link>https://www.chosun.com/national/people/2026/05/20/CKHYIO4EHFDRDAID373NNIE7JM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/20/CKHYIO4EHFDRDAID373NNIE7JM/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMNA24Q5VVEJJGUQRONHQFSZAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 서울 성북구 고려대 본관에서 열린 장학기금 기부식에 참석한 김경순 여사(왼쪽부터), 김형 미국 토펙스 회장, 김동원 고려대 총장. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김형 토펙스(Topex) 회장이 모교인 고려대학교에 10억원을 기부했다고 19일 고려대가 밝혔다.&lt;br&gt;&lt;br&gt;김 회장은 전날 고려대 본관에서 열린 장학기금 기부식에 참석해 “어려운 환경 속에서도 꿈을 키워가는 후배들이 훗날 국가와 사회에 기여하는 인재로 성장하는 데 보탬이 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;김 회장은 유전 파이프라인 건설 붐이 한창이던 1990년대 후반 미국 알래스카로 건너가 파이프라인 건설업에 종사했다. 2000년대 초 시애틀로 이주해 고려대 시애틀 교우회장을 맡았다. 현재는 시애틀에서 무역 회사 토펙스를 운영하고 있다.&lt;br&gt;&lt;br&gt;김 회장의 기부금은 학업 성적은 우수하지만 경제적 어려움을 겪는 고려대 행정학과와 법학전문대학원 학생들을 지원하는 데 쓰일 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사직서 내고 ‘사남매’ 품으로… 아빠는 10년 차 ‘안사람’</title>
       <link>https://www.chosun.com/national/people/2026/05/20/AMGSOKMEG5A4PAFSQFB3S4BB4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/20/AMGSOKMEG5A4PAFSQFB3S4BB4Q/</guid>
@@ -645,15 +924,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Tue, 19 May 2026 15:42:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23UHU5DPORDBPISWS2N6CT2MFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아빠가 주인공인 ‘반칙왕 몽키’ 포스터를 들고 사 남매가 활짝 웃고 있다. 전업주부 아빠 문현진(맨 왼쪽)씨와 워킹맘 조안나(맨 오른쪽)씨는 “아이들에게 가장 필요한 건 부모와 함께하는 시간”이라면서 “돌봄을 외주화하고 그 비용을 지원하기보다, 부모가 아이를 직접 돌볼 수 있는 환경이 보장되면 좋겠다”고 했다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저희 바깥양반 퇴근이 늦어서….” “아이들 때문에 혹시 집에서 봬도 될까요?” 약속을 잡는 것부터 쉽지 않았다. 오전 7시 반 출근, 오후 11시 퇴근. 네 아이를 키우는 아빠이자 10년 차 전업주부 문현진(40)씨의 하루는 육아와 살림으로 빈틈없이 돌아간다. 그는 스스로를 ‘안사람’, 사회복지사로 일하며 가족의 생계를 책임지는 아내 조안나(41)씨를 ‘바깥양반’이라 부른다. 합계 출산율 0.8명, 저출산 시대를 역행하는 이 가족은 ‘돈이 있어야 아이를 키울 수 있다’는 통념을 유쾌하게 뒤집는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPRXYMUSYJA47IUZ64IWIEORLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '반칙왕 몽키' 스틸컷 /스튜디오 그레인풀&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 개봉하는 다큐멘터리 영화 ‘반칙왕 몽키’는 서울 마포구 성미산 마을에서 사(四)남매를 키우는 문현진·조안나 부부의 일상을 담았다. 재주가 많아 ‘몽키’라는 별명으로 불리는 문씨는 어디서도 본 적 없던 아빠표 ‘육아 액션’을 선보인다. 긴 머리를 휘날리며 아기 띠를 메고 스케이트보드를 타고, 아이들을 조롱조롱 태우고 자전거로 동네를 누빈다. 15일 만난 문씨는 “아이를 낳고 키우는 일도 이렇게 즐거울 수 있다는 것을 보여드리고 싶었다”고 했다. “부모가 되면 포기해야 하는 게 많다고들 생각하지만, 저는 스케이트보드나 유도 같은 취미도 아이들과 함께하니 더 즐거워졌어요.”&lt;br&gt;&lt;br&gt;아이들의 건강한 웃음소리로 가득 찬 비타민 같은 영화다. 영화 대부분은 문씨가 스마트폰으로 직접 찍은 영상으로 구성됐다. 처음엔 육아 일기처럼 아이들을 담았지만, 아이들이 자라면서 카메라를 자신에게로 돌렸다. “사춘기가 되면 또래 집단에서 ‘전업주부 아빠’가 어떻게 받아들여질지, 혹시 아이들이 상처받진 않을까 걱정이 되더라고요. 그래서 기왕이면 대한민국에서 제일 유명한 전업주부가 돼야겠다고 결심했죠.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBGSKC3JGVCL5GEHBKXQQVAKK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '반칙왕 몽키' 스틸컷 /스튜디오 그레인풀&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부부는 열두 살, 열한 살 두 딸과 여덟 살, 다섯 살 두 아들을 키우고 있다. 문씨가 전업주부가 된 건 10년 전 둘째가 태어나면서다. 대학교에서 비정규직으로 일하던 문씨가 정규직인 아내 대신 육아를 전담하기로 했다. 행정학을 전공한 그는 대학에서 과 수석을 할 만큼 성실한 학생이었지만, 몇 년간 회사 생활을 하면서 “누구나 대체할 수 있는 일을 하고 있다”는 고민이 커졌다. “회사에 다닐 땐 ‘내 일’이라는 생각이 안 들었어요. 그런데 집안일은 하나부터 열까지 우리 가족을 위한 일이고, 이 집에서 저는 대체 불가능한 인력이잖아요. 직업 만족도는 최상이죠.”&lt;br&gt;&lt;br&gt;아내 조안나씨는 “체력도 좋고, 사람들과도 잘 어울려서 육아를 잘할 것 같긴 했지만 이 정도로 잘할 줄은 몰랐다”며 웃었다. “우리 아이들만이 아니라 남의 집 아이들까지 같이 키우고 있어요. 저라면 아마 못 했을 거예요.” 20대에 국토대장정에서 처음 만난 두 사람은 연애 시절부터 ‘아이 넷이 있는 복작복작한 가정’을 꿈꿨다. 남편은 불교, 아내는 기독교를 믿지만 “선(善)을 베풀며 살자”는 삶의 방향은 같다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2P33KE5FHGPCU3MZWPHMNYUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반칙왕 몽키 스틸컷 /스튜디오 그레인풀&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문씨는 동네 아이들을 위해 ‘몽키표 방과 후 학교’를 연다. 뒷산에 밧줄로 집라인을 설치하고, 금속 탐지기로 보물찾기 놀이를 만들고, 직접 나무를 잘라 비밀기지를 세우며 온 동네를 놀이터로 삼는다. 문씨는 “아이들과 놀 수 있는 방법은 무궁무진한데 요즘은 무조건 키즈카페만 찾는 것 같아 안타깝다”고 했다. “좋은 아빠의 기준이 돈이라면 저는 자격 미달이죠. 대신 제가 잘할 수 있는 걸 하기로 했어요. 아이들과 최대한 많은 시간을 보내고, 온 힘을 다해 놀아주는 것. 그게 제가 생각하는 ‘좋은 아빠’예요.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김산옥 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/05/20/LNHEIW6FX5H3PLT5NO5F47JH4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/20/LNHEIW6FX5H3PLT5NO5F47JH4Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김산옥&lt;/b&gt; 별세, &lt;b&gt;강광일&lt;/b&gt;·&lt;b&gt;강정희&lt;/b&gt;·&lt;b&gt;강대일&lt;/b&gt; 모친상, &lt;b&gt;신승환&lt;/b&gt; 장모상, &lt;b&gt;최현자&lt;/b&gt;·&lt;b&gt;이금주&lt;/b&gt; 시모상=18일17시20분 강원 원주의료원, 발인 21일6시45분, (033)760-4644&lt;br&gt;&lt;br&gt;▲&lt;b&gt;소은심&lt;/b&gt; 별세, &lt;b&gt;손용자&lt;/b&gt;·&lt;b&gt;손연심&lt;/b&gt;·&lt;b&gt;손연순&lt;/b&gt;·&lt;b&gt;손일갑&lt;/b&gt; 조선일보 동광주센터 대표·&lt;b&gt;손재일&lt;/b&gt;·&lt;b&gt;손연자&lt;/b&gt;·&lt;b&gt;손연희&lt;/b&gt;·&lt;b&gt;손선희&lt;/b&gt; 모친상, &lt;b&gt;정찬웅&lt;/b&gt;·&lt;b&gt;양재남&lt;/b&gt;·&lt;b&gt;윤재원&lt;/b&gt;·&lt;b&gt;석영균&lt;/b&gt;·&lt;b&gt;김익곤&lt;/b&gt; 장모상, &lt;b&gt;주광례&lt;/b&gt; 시모상=18일18시30분 광주광역시 스카이장례식장, 발인 20일7시, (062)951-1004&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장용선&lt;/b&gt; 별세, &lt;b&gt;최경옥&lt;/b&gt;·&lt;b&gt;최병록&lt;/b&gt;·&lt;b&gt;최인옥&lt;/b&gt;·&lt;b&gt;최병선&lt;/b&gt;·&lt;b&gt;최병호&lt;/b&gt; 법무법인 태평양 변호사 모친상, &lt;b&gt;변종걸&lt;/b&gt; 장모상=18일19시30분 부산 광혜병원, 발인 20일9시, (051)506-1022&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정수자·서도호·불교문화사업단, 제3회 무산문화대상 수상</title>
@@ -665,15 +935,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPLCQ2GJ4FCVZOOEIKBS7XPK4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시조 시인 정수자(왼쪽), 설치 미술가 서도호&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재단법인 설악·만해사상실천선양회(이사장 권영민 서울대 명예교수)는 시조 시인 정수자, 설치 미술가 서도호, 한국불교문화사업단이 제3회 무산문화대상 문학·예술·사회문화 부문 수상자로 각각 선정됐다고 19일 밝혔다. 시상식은 다음 달 9일 서울 중구 웨스틴 조선 서울. 상금은 각 부문 1억원&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 기상청</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/05/20/PCESVJX5F5CLDBUDMMHBGEXNO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/20/PCESVJX5F5CLDBUDMMHBGEXNO4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;기상청&lt;/b&gt;◇3급 승진▷대변인 민현주▷예보국 국가태풍센터장 이시우&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘제24회 자랑스러운 이화인’ 선정</title>
       <link>https://www.chosun.com/national/people/2026/05/20/Z6WZYQ3UXVAAFMLPX5SCIRCSUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/20/Z6WZYQ3UXVAAFMLPX5SCIRCSUM/</guid>
@@ -683,105 +944,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AORUDNY53BBO3A34MZSIHGY5N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정옥 김희경유럽정신문화장학재단 이사장과 박성경 이랜드그룹 전 부회장, 제인오 미국 항공우주국(NASA) 제트추진연구소 수석 시스템 엔지니어, 김영란 인도네시아 선교사가 19일 ‘제24회 자랑스러운 이화인’으로 선정됐다. 시상식은 29일 오전 10시 이화여대 창립 140주년 기념식에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [알립니다] 초등 NIE 여름학기 수강생 모집</title>
-      <link>https://www.chosun.com/national/nie/2026/05/20/W7AWC3VCXNHYLADZLFEVR4UYBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/20/W7AWC3VCXNHYLADZLFEVR4UYBM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>조선일보 NIE(신문 활용 교육) 교육센터에서 2026년 초등 NIE 여름학기 수강생을 모집합니다. NIE는 시사·인문·과학 등 다방면의 기사를 읽고 생각하는 수업입니다. 이번에 새로 개설되는 초등 NIE 한자 수업은 단어의 구성 원리를 이해하고 의미를 유추하는 훈련을 통해 어휘력을 길러줍니다. 이와 함께 초등 NIE 오프라인 120분 반도 신설됐습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEWDSMQ6JNABFMYSWDB7O35264.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수업 대상&lt;/b&gt;: 초등 1~6학년&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수업 시간&lt;/b&gt;: 오프라인(90·120분), 온라인(90분), 심화반(180분), 한자(60·90분)&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;수강 신청&lt;/b&gt;: nie.chosun.com&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;문의&lt;/b&gt;: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [445] ‘량’과 ‘양’</title>
-      <link>https://www.chosun.com/national/nie/2026/05/20/FJKLQVZWVRBC7ODTMLJLFGXU7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/20/FJKLQVZWVRBC7ODTMLJLFGXU7Q/</guid>
-      <dc:creator>김수은 토월초 교사</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQZ4ICXRYVEFNJO4DZRVJZTYSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비가 온 정도를 나타낼 때 ‘강수량’이라고 쓸까요, 아니면 ‘강수양’이라고 쓸까요? 또 하늘에 떠 있는 구름은 ‘구름량’일까요, ‘구름양’일까요? 이는 앞에 붙는 단어의 성격에 따라 달라집니다.&lt;br&gt;&lt;br&gt;먼저, 앞에 오는 단어가 한자어일 때는 본래의 소리대로 ‘-량’이라고 적습니다. 비가 내린다는 뜻의 ‘강수(降水)’, 몸을 단련한다는 뜻의 ‘운동(運動)’은 모두 한자어입니다. 따라서 강수량, 운동량처럼 쓰는 것이 맞습니다.&lt;br&gt;&lt;br&gt;반대로, 앞에 오는 단어가 순우리말이거나 영어나 프랑스어 같은 외래어일 때는 ‘양’이라고 적어야 합니다. ‘구름’과 ‘비’는 우리말이고, ‘칼로리’와 ‘에너지’는 외래어이지요? 그래서 구름양, 비양, 칼로리양, 에너지양으로 쓰는 것이 올바른 표기랍니다.&lt;br&gt;&lt;br&gt;왜 이런 규칙이 생겼을까요? 이는 단어의 첫머리에 특정한 소리가 오는 것을 피하는 ‘두음 법칙’ 때문입니다. 한자 ‘량(量)’이 우리말이나 외래어 뒤에 올 때는 독립된 단어처럼 취급돼, 발음하기 편하도록 ‘양’으로 바뀌는 것이랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-생각하는 힘을 기르려면 독서량(讀書量)을 늘려야 해.&lt;br&gt;&lt;br&gt;-오늘은 하늘의 구름양이 많아 햇빛이 잘 들지 않았어요.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 겨울에 눈 쌓이면 손 시려워 두 발로 ‘콩콩’ 뛰어다닌대요</title>
-      <link>https://www.chosun.com/national/nie/2026/05/20/436NFYCUOBE7NOXEYDCGHT6X54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/20/436NFYCUOBE7NOXEYDCGHT6X54/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>벨기에의 한 동물원에서 얼마 전 멸종 위기종인 황금들창코원숭이의 번식 소식이 들려왔어요. 중국이 원산지인 이 원숭이는 야생에 1만마리밖에 남아 있지 않기에 더욱 반가운 소식이었죠. 이 원숭이를 보면 왜 이렇게 재미있는 이름을 가졌는지 대번에 알 수 있어요. 얼굴 주변은 불그스름하거나 노란 털로 뒤덮여 금빛으로 빛나는 것 같고, 얼굴 피부는 푸르스름한 색에 코는 납작한데 콧구멍이 길쭉해 정말 들창코 같은 느낌을 주거든요.&lt;br&gt;&lt;br&gt;황금들창코원숭이는 험준한 고산지대와 울창한 숲이 많은 중국 쓰촨·후베이·산시·간쑤성 일대에 분포하고 있어요. 중국 정부는 이 원숭이를 판다 등과 함께 국가 1급 보호동물로 지정해 보호한답니다. 중국 사람들에게 오랫동안 친숙해져 있기 때문에 서유기의 주인공인 손오공의 모델이 황금들창코원숭이일 거라고 말하는 사람도 많습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7SXYLYHGFGYZCRPX6UGMBPCHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쓰촨성의 자연 보호 구역에서는 황금들창코원숭이와 판다가 함께 발견되기도 하죠. 두 녀석 모두 초식성이지만 판다는 대나무를 주로 먹고 황금들창코원숭이는 이끼류를 좋아하기 때문에 먹이를 두고 경쟁하는 일은 없대요. 황금들창코원숭이는 하루의 대부분 시간을 나무에서 보내는데, 살아 있는 나무보다는 이끼가 많이 끼어 있는 죽은 나무를 더 좋아한대요.&lt;br&gt;&lt;br&gt;이 녀석들의 독특한 코 생김새는 아주 중요한 생존 전략이랍니다. 서식 지역 중에는 해발 3000m가 넘는 고산 지역이 많고, 겨울철이 되면 쌓인 눈이 몇 달 동안 녹지 않고 기온은 영하 10도 가까이 떨어지죠. 이런 곳에서 다른 원숭이들처럼 오똑한 콧날을 가지고 있으면 강추위와 칼바람에 코가 노출돼 동상에 걸릴 수 있거든요. 봄·여름·가을철에는 네 발로 걸어 다니다가도 겨울철에 눈이 쌓이면 앞발(손)이 추위로 손상되는 걸 막기 위해 사람처럼 두 발로 껑충껑충 뛰어다닌답니다. 지구상의 원숭이 중 가장 북쪽에 사는 종류는 일본원숭이지만, 강추위에 제일 잘 견디는 원숭이는 황금들창코원숭이라고 해요. &lt;br&gt;&lt;br&gt;황금들창코원숭이는 ‘복화술에 능하다’는 얘기도 듣는답니다. 독특한 코 구조 때문에 입을 크게 벌리지 않고도 울음소리를 낼 수 있거든요. 이들은 위협·경고·놀람·인사 등 상황에 따라 최소 18개의 울음소리를 내며 의사소통을 한대요.&lt;br&gt;&lt;br&gt;많은 원숭이와 마찬가지로 이 녀석들도 무리 생활을 합니다. 크게 어른 수컷과 여러 마리의 암컷 및 새끼들로 이뤄진 가족과, 세 살 정도 돼서 무리에서 쫓겨난 수컷 3~6마리로 느슨하게 이뤄진 무리로 구분돼요. 무리 내 암컷들끼리는 종종 서열 다툼이 일어나는데, 번식철이 되면 암컷은 우두머리 수컷이 자신이 아닌 다른 암컷과 짝짓는 걸 훼방 놓기도 한대요.&lt;br&gt;&lt;br&gt;수컷의 입술에는 돌기가 부풀어 올라 있는데, 이건 암컷에게 더욱 매력적으로 보이게 하는 역할을 하는 것으로 추정돼죠. 수컷은 암컷과는 비교가 안 되는 아주 기다란 송곳니를 가지고 있어요. 이 송곳니는 다른 수컷에 맞서 자신의 우월적 지위를 과시하거나, 천적에 맞서 대항할 때 요긴하게 쓰인답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 720만달러에 산 알래스카, 처음엔 ‘바보짓’ 비난받았죠</title>
-      <link>https://www.chosun.com/national/nie/2026/05/20/DCQWMNREVZDG3BRG74HL7NII3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/20/DCQWMNREVZDG3BRG74HL7NII3E/</guid>
-      <dc:creator>윤서원 서울 단대부고 역사 교사, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>최근 도널드 트럼프 미국 대통령이 베네수엘라를 미국의 51번째 주(州·state)로 편입하는 방안을 “진지하게 검토 중”이라고 했어요. 실행 가능성과는 별개로, 이 발언이 주목받는 이유는 베네수엘라가 40조달러(약 5경원) 규모의 세계 최대 석유 매장량을 가진 나라이기 때문이에요.&lt;br&gt;&lt;br&gt;미국은 과거에도 자기 나라와 멀리 떨어져 있는 지역을 미국 주로 편입한 적이 있습니다. 미국은 처음부터 지금처럼 거대한 나라가 아니었습니다. 1776년 독립 당시 미국은 동부 해안에 있는 13개의 주로 출발했어요. 이후 전쟁·매입·협상·병합 등을 통해 오늘날의 영토를 만들었습니다.&lt;br&gt;&lt;br&gt;하지만 모든 지역이 순조롭게 미국의 주가 된 것은 아니었고 어떤 곳은 지금도 ‘미국 땅이지만 주는 아닌(준주·準州)’ 상태에 머물러 있기도 해요. 오늘은 미국 영토 확장의 역사 속 흥미로운 사례들을 살펴보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDDKOYXRRFDAJNDPU4E4PWV2XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국과 멕시코, 베네수엘라 등의 위치를 표시한 지도입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUHU27XQNZHAJAWFNPDPQSH4QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국의 여러 주(州) 등을 표시한 지도예요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1㎢당 5달러로 ‘알래스카’ 매입&lt;/b&gt;&lt;br&gt;&lt;br&gt;1867년 미국은 러시아로부터 거대한 땅 알래스카를 사들였습니다. 알래스카는 미국 북쪽에 있는 캐나다를 지나야 있는 지역이에요. 가격은 약 720만달러였어요. 알래스카의 면적을 고려하면 당시 매우 싼 가격이었답니다. 1㎢당 약 5달러를 지불한 셈이죠.&lt;br&gt;&lt;br&gt;19세기 전반에 러시아는 아메리카 대륙에 알래스카를 비롯해 여러 식민지를 갖고 있었어요. 그런데 러시아는 동유럽 크림반도에서 일어난 크림전쟁(1853~1856)에서 참패한 후 막대한 재정난을 겪게 됐고, 알래스카까지 관리하기 어려운 상황이었습니다. 그래서 차라리 미국에 돈을 받고 파는 것이 낫다고 판단했습니다.&lt;br&gt;&lt;br&gt;러시아의 알래스카 매각 제안을 받아들인 사람은 미국 국무장관이었던 윌리엄 H. 슈어드였는데요. 당시 미국 언론과 시민 일부는 이 거래를 비웃었지요. ‘쓸모없는 얼음 덩어리를 왜 샀냐’는 반응이 많았습니다. 그래서 사람들은 이를 ‘슈어드의 바보짓(Seward’s Folly)' 혹은 ‘슈어드의 얼음상자(Seward’s Icebox)‘라고 조롱했습니다. 알래스카는 춥고 황량해 농사도 어렵고 사람이 살기 힘든 땅처럼 보였거든요.&lt;br&gt;&lt;br&gt;하지만 1890년대 알래스카 남동부에서 대규모 금광이 발견되며 수만 명의 사람이 금을 찾아 몰려들었어요. 이후 석유와 천연가스가 대량으로 발견되면서 알래스카는 미국의 중요한 에너지 자원의 보고가 됐습니다.&lt;br&gt;&lt;br&gt;또한 알래스카는 냉전 시기 엄청난 전략적 가치를 인정받았습니다. 알래스카와 러시아 사이 가장 가까운 곳은 약 4㎞ 정도밖에 떨어져 있지 않아요. 미국과 소련이 대립하던 냉전 시대에 알래스카는 소련을 감시하는 미군의 핵심 거점 역할을 했답니다.&lt;br&gt;&lt;br&gt;알래스카 지역은 1912년에는 알래스카 준주가 됐지만 미국 대통령 선거권은 없는 등 제한이 있었어요. 알래스카 주민들은 ‘세금은 내는데 정치적 권리가 없다’며 주 승격 운동을 벌였고, 결국 1959년에 미국의 49번째 주가 됐습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWZDHZQZVVDYVN7ZN5WDUPERYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1867년 미국과 러시아가 알래스카 매매 조약을 체결하는 장면을 담은 그림입니다. 왼쪽에서 둘째가 당시 미국 국무장관이었던 윌리엄 H. 슈어드예요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EEOXTXM62FANJOSNORJ7EZTF4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알라모 전투에서 텍사스 반군이 멕시코군에 패배하고 있어요. /브리태니커•위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;멕시코서 독립했다 미국이 된 ‘텍사스’&lt;/b&gt;&lt;br&gt;&lt;br&gt;오늘날 텍사스는 미국 남부를 대표하는 거대한 주입니다. 그런데 원래 텍사스는 멕시코 땅이었다는 사실을 알고 있나요?&lt;br&gt;&lt;br&gt;1821년 멕시코는 스페인에서 독립했는데요. 멕시코 정부는 인구가 적은 북부 국경 지역을 개발하려고 미국인 이주를 허용했습니다. 문제는 예상보다 훨씬 많은 미국인이 들어왔다는 점이에요. 1834년에는 3만명이 넘는 미국인이 텍사스에 이주했고, 멕시코 주민은 8000여 명에 불과했어요.&lt;br&gt;&lt;br&gt;시간이 지나자 텍사스 지역에는 영어를 쓰고 노예제를 지지하는 미국계 주민이 늘어났습니다. 반면 멕시코 정부는 노예제를 금지하고 중앙집권적 통치를 강화하려 했어요. 결국 양측 갈등은 커졌고 1835년 10월 텍사스의 독립을 주장하는 ‘텍사스 혁명’이 시작됩니다.&lt;br&gt;&lt;br&gt;이 전쟁에서 중요한 전환점이 된 사건이 바로 ‘알라모 전투’예요. 텍사스 반군은 멕시코군에 맞서 알라모 요새를 방어했지만 13일간의 포위 끝에 결국 거의 전멸했습니다. 약 200명이 희생됐지요. 군사적으로는 멕시코의 승리였지만, 이 사건은 오히려 텍사스 독립 세력의 상징이 됐답니다. 텍사스인들은 ‘알라모를 기억하라(Remember the Alamo)’고 외치며 결집했고 결국 1836년 4월 멕시코군을 격파해 독립에 성공했어요.&lt;br&gt;&lt;br&gt;이후 텍사스는 약 10년 동안 ‘텍사스 공화국’이라는 독립 국가로 존재했습니다. 지금도 텍사스 사람들이 자신들만의 정체성을 강하게 느끼는 이유 가운데 하나입니다. 1845년 텍사스는 결국 미국에 편입됐고 미국의 28번째 주가 됐습니다.&lt;br&gt;&lt;br&gt;하지만 멕시코는 텍사스를 여전히 자기 영토라고 생각했어요. 결국 1846년 미국과 멕시코는 전쟁을 벌였고 미국이 승리해 오늘날의 캘리포니아·네바다·유타 등도 주로 편입했습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;과거 왕국이었던 유일한 주 ‘하와이’&lt;/b&gt;&lt;br&gt;&lt;br&gt;푸른 바다의 휴양지로 유명한 하와이는 원래 독립 국가였습니다. 1778년 영국의 제임스 쿡 선장이 유럽인 중 최초로 하와이에 도착했어요. 하와이 원주민 부족의 추장이었던 카메하메하 1세는 영국 문물을 받아들여 하와이를 통일하고 왕국을 세웠습니다.&lt;br&gt;&lt;br&gt;19세기에는 하와이에서 미국 이민자들의 사탕수수 농장이 성장하면서 미국의 영향력이 점차 커졌습니다. 그러다 1893년 이들이 미국 해군의 도움을 받아 하와이 왕정을 무너뜨리는 쿠데타를 일으켜 권력을 장악합니다. 결국 이듬해 하와이 이주 백인들이 하와이 공화국을 수립했어요. 하와이 원주민들의 반대가 있었지만 1898년 미국령이 됐지요.&lt;br&gt;&lt;br&gt;그러던 중 미국·스페인 전쟁(1898)이 발발해 미국이 필리핀을 얻게 되면서 태평양 전략이 더욱 중요해졌어요. 특히 미국은 태평양에서 해군 기지를 확보하려 했고 하와이의 진주만은 매우 중요한 군사 거점이 됐답니다. 하와이는 1900년 미국의 준주가 됐죠. 1959년에 정식으로 미국의 50번째 주가 됐는데요. 하와이 주민 투표에서 압도적인 찬성표가 나왔답니다. 그래서 하와이는 미국에서 유일하게 과거 왕국이었던 역사를 가진 주입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 연기하다, 뒤로 미루다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/05/20/F5QNBLSBWNFNTLFOKI6AFY2SAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/05/20/F5QNBLSBWNFNTLFOKI6AFY2SAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJDTQEEZVJDB7I4GXGHSAW77GU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2870] 신문은 스케치북</title>
-      <link>https://www.chosun.com/national/nie/2026/05/20/SCDDQ6ECF5BZ7KIHR4KBSSQPAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/20/SCDDQ6ECF5BZ7KIHR4KBSSQPAQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNORVGOOKFB23B35ALYLK7QMFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] crash and burn</title>
-      <link>https://www.chosun.com/national/nie/english/2026/05/20/TSWVGHDZCNAJLJ2GQ6HBG22GCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/05/20/TSWVGHDZCNAJLJ2GQ6HBG22GCM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPMPN4HXX5CUHJPGVC3CGNWLC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 몰각(沒却)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/05/20/4ANC2L6AAFEXFJ5GVZ7W2V4WWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/05/20/4ANC2L6AAFEXFJ5GVZ7W2V4WWE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7LTXIR3HNGDFDI72GNOVXOZKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 잡념을 없애다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/05/20/XRF5OW5PWRFWBO2PP2UDZFBARY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/05/20/XRF5OW5PWRFWBO2PP2UDZFBARY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSMXVJM3L5B4FGQXACX56STEII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 20일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/19/UFNGNGZAKFC5ZB7JNPZ7J3YT4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/19/UFNGNGZAKFC5ZB7JNPZ7J3YT4E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 14:32:00 +0000</pubDate>
-      <content:encoded>전국 대체로 흐리고 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QDDZWXQO5CJ3ALSD4VSG7MJBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하회 줄불놀이 통역 맡은 안동시 공무원 오가타씨 “가슴 벅차”</title>
-      <link>https://www.chosun.com/national/2026/05/19/OVCWMTWELZF5DFZXTCH42QCMCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/19/OVCWMTWELZF5DFZXTCH42QCMCQ/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 11:35:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FWNSDIMORZERNIUIIXXLMYAXRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 안동시 자치행정과 6급 공무원 오가타 게이코씨. /안동시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“설마 했던 한일 정상회담, 안동에서 열렸다는 자체만으로 가슴이 벅차 오릅니다.”&lt;br&gt;&lt;br&gt;경북 안동시 자치행정과 공무원 오가타 게이코(49·6급)씨는 19일 안동에서 개최한 한일정상회담에 대해 기쁜 마음을 감추지 못했다. &lt;br&gt;&lt;br&gt;오가타씨는 이날 오후 안동 하회마을에서 양국 정상이 보는 앞에서 진행되는 ‘선유줄불놀이’ 통역을 맡았다. 판소리 진행자가 선유줄불놀이에 대한 유례 등을 설명하면 400여 관객 중 일본인 100여명을 상대로 통역하는 역할이다.&lt;br&gt;&lt;br&gt;선유줄불놀이는 전통 방식으로 매듭지은 새끼줄에 낙화봉을 매달아 불을 붙여 강으로 불꽃이 쏟아지게 하는 ‘줄불’과 뱃놀이인 ‘선유’(船遊)가 합쳐진 하회마을 대표 불꽃 축제다. 밤하늘과 강물 위로 떨어지는 불빛이 장관을 이룬다. 이날 이재명 대통령과 다카이치 시나에 총리 두 정상이 함께 관람했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIGJHBUI6JGRRJF6U2UM3ZK5WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;선유줄불놀이는 부용대 절벽에서 낙동강을 가로질러 하회마을로 쏟아지는 전통 불꽃놀이다. /안동시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오가타씨가 한국에 온 건 지난 2001년, 25년 전이다. 안동에 산 지도 23년이 된 그는 아직 일본 국적을 갖고 있지만 사실상 한국인이나 마찬가지다. &lt;br&gt;&lt;br&gt;동갑내기 한국인 남편과 결혼해 두 자녀를 둔 그는 이번 안동 한일정상회담은 각별한 의미로 다가왔다.&lt;br&gt;&lt;br&gt;그는 “이재명 대통령의 고향 안동에서 ‘셔틀’ 회담이 성사되리라고는 꿈에도 생각하지 못했다”고 했다. 지난 1월 이재명 대통령이 다카이치 일본 총리 고향인 나라현을 방문했을 때도 마찬가지였다. 안동이 양국 정상이 찾기에는 교통, 숙박 등 여건이 그리 좋은 편은 아니기 때문이다.&lt;br&gt;&lt;br&gt;일본에서 비교 어문학을 공부한 그는 2001년 한국외대 일어일문학과에서 석사 과정을 밟았다. 2년 뒤인 2003년에는 안동시 외국인 공무원 채용 공고를 보고 응시해 최종 합격했다. 그의 역할은 안동에서 열리는 각종 국제 행사에서 일본어 통역과 번역, 가이드 등 일본에 관련된 모든 업무였다. &lt;br&gt;&lt;br&gt;오가타씨는 양국을 잇는 매개자 역할도 하고 있다. 지난 2008년부터 5년간 일본 유력지 요미우리 신문에 정기 기고를 통해 안동을 비롯한 한국 문화를 일본에 알리기도 했다. &lt;br&gt;&lt;br&gt;그런 그에게 이번 회담에서 두 정상의 화기애애한 모습을 보인 점은 매우 고무적으로 다가왔다. 두 나라 간 역사적인 아픔과 독립운동가들을 전국에서 가장 많이 배출한 안동이 정서적으로 민감한 곳이기 때문이다.&lt;br&gt;&lt;br&gt;오가타씨는 다카이치 사나에 총리를 직접 본 건 이번이 처음이다. 그는 “운명적으로 두 나라를 모두 사랑할 수밖에 없는 입장이지만 양국 역사의 아픔을 딛고 미래로 가는 상징적인 회담으로 오래 기억되길 간절히 소망한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 중노위 “삼성전자 노사, 오후 10시까지 합의 안되면 조정안 제시”</title>
       <link>https://www.chosun.com/national/labor/2026/05/19/UKRUZSZJ25EDZEAJR6OXJIUOX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/19/UKRUZSZJ25EDZEAJR6OXJIUOX4/</guid>
@@ -789,144 +951,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Tue, 19 May 2026 10:41:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQG2A3YDAVI2RMSDLX3NCU7T3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수근 중앙노동위원장이 19일 정부세종청사 중앙노동위원회에서 열린 삼성전자 2차 사후조정 2일차 회의에 들어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 중노위 “오후 10시까지 합의안되면 삼성전자 노사에 조정안 제시”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘밀양 여중생 집단 성폭행’ 피해자, 가해자 정보 유출 혐의로 입건</title>
-      <link>https://www.chosun.com/national/regional/2026/05/19/QOSV2YNCX5FP7O4R4SSQY232GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/19/QOSV2YNCX5FP7O4R4SSQY232GM/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 10:21:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XKCUM5SFREPZESXBBIPYJ2NA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 삼산경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘밀양 여중생 집단 성폭행’ 사건의 피해자가 가해자들의 개인정보를 유튜버들에게 전달한 혐의로 경찰에 입건된 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;인천 삼산경찰서는 개인정보보호법 위반 혐의로 A씨와 그의 동생을 불구속 입건했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2023년부터 2024년 사이 유튜버들에게 밀양 성폭력 사건 관련자들의 개인정보를 제공한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 피해자 신분으로 확보한 판결문을 통해 가해자의 실명, 주소, 주민등록번호 등을 유튜버들에게 공유한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 과정에서 사건과 관련성이 떨어지는 제3자의 개인정보까지 유출된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 고소장을 토대로 수사를 벌인 끝에 개인정보 유출 혐의가 인정된다고 보고 조만간 A씨 등을 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2004년 12월 밀양 지역 고교생 44명이 울산 여중생 1명을 1년간 성폭행한 사건이다.&lt;br&gt;&lt;br&gt;2024년 온라인 공간에서 가해자들 신상이 공개돼 당시 사건이 주목 받으면서 사적 제재 등을 둘러싼 논란이 일었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>남산서 흉기 지닌 40대 미국인 실종… “우울증 앓고 있어 자해하려”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/19/BWPO2LL6HJGOPFBMWODWL47FUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/19/BWPO2LL6HJGOPFBMWODWL47FUQ/</guid>
-      <dc:creator>윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 09:27:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52HKA34N7FODLDNWE5LNEZMC6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남산 일대/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극단적 선택을 암시하며 사라진 미국인 남성이 신고 15시간 만에 경찰에 발견됐다.&lt;br&gt;&lt;br&gt;서울 용산경찰서는 19일 새벽 12시 30분쯤 40대 미국인 남성 A씨의 실종 신고를 접수하고 수색 작업을 벌인 끝에 A씨를 발견했다고 밝혔다. 경찰에 따르면, A씨는 앞서 지인들에게 ‘죽겠다’는 내용의 문자 메시지를 남긴 뒤 흉기를 가방에 넣어 들고서는 자취를 감췄다고 한다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 10시쯤 소방에 공조를 요청했고, 소방은 특수구조대를 현장에 출동시켜 경찰과 합동 수색에 나섰다. 경찰과 소방은 오후 3시쯤 용산구 남산 일대에서 A씨를 찾은 것으로 전해졌다. A씨는 건강에 특별한 이상은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “우울증을 앓고 있어 자해할 목적으로 흉기를 소지했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>믹 멀베이니 前 백악관 비서실장, 노벨 경제학상 조엘 모키어...ALC 연사들 속속 입국  </title>
-      <link>https://www.chosun.com/national/national_general/2026/05/19/ZJE5L57I7RF5PAX6I6RDWBKOFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/19/ZJE5L57I7RF5PAX6I6RDWBKOFY/</guid>
-      <dc:creator>장윤 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 09:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIAC6N6RDVD2BH4ZM4PK54JOIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 5월 18일 인천국제공항 제1터미널에서 믹 멀베이니 트럼프 정부 1기 비서실장이 입국하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제17회 아시안리더십콘퍼런스(ALC) 개막을 앞두고 18일과 19일에 믹 멀베이니 전 백악관 비서실장, 제니 시플리 뉴질랜드 총리, 조엘 모키어 2025년 노벨 경제학상 수상자, 비탈리 김 우크라이나 미콜라이우주 주지사, 하기우다 고이치 일본 자민당 간사장 대행 등이 속속 입국했다.&lt;br&gt;&lt;br&gt;20일 ALC의 첫 세션 연사로 나서는 멀베이니 전 비서실장은 “트럼프 대통령과 함께 방문한 2019년 이후 7년 만의 방한”이라며 “오랜만에 다시 한국을 찾게 돼 매우 기대된다”고 했다. 그는 미 공화당 내 강경 보수 성향 의원 모임인 ‘프리덤 코커스’ 창립 멤버이다. 연방 하원의원 4선을 지낸 뒤 트럼프 1기 행정부에서 백악관 비서실장 등을 맡았다. 이번 ALC에서는 트럼프 대통령의 국정 운영 스타일과 정책 결정 구조, 트럼프 2기 행정부를 움직이는 핵심 요인 등을 내부자 시각에서 소개할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEEFNBTPVFHE3OSSFDNSBONO2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 5월 18일 인천국제공항 제1터미널에서 제니 시플리 뉴질랜드 전 총리가 입국하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뉴질랜드 첫 여성 총리인 제니 시플리 전 총리는 “한국은 이번이 벌써 여섯 번째 방문이고, 지난 3월에도 다녀갔다”며 “당시 한국의 젊은 학생들을 많이 만났는데 이번 콘퍼런스에서도 미래 세대 리더들과 교류하고 싶다”고 했다. 그는 “세계가 큰 압박과 변화를 겪는 지금, 젊은 지도자들이 앞으로 나아가는 것이 중요하다”며 “특히 여성 리더들이 남성과 함께 사회 문제 해결에 적극 참여해야 한다”고 강조했다. 시플리 전 총리는 여성 의원 비율이 세계 최고 수준인 뉴질랜드의 경험을 바탕으로 여성의 사회 참여와 리더십 확대 방안 등을 공유할 예정이다. &lt;br&gt;&lt;br&gt;‘고려인 4세’ 출신인 비탈리 김 우크라이나 미콜라이우주 주지사는 이번 ALC에서 우크라이나 전쟁 상황과 전후 산업 복구 계획 등을 설명할 예정이다. 그는 “다음에는 관광객으로 한국을 찾아 서울 곳곳을 둘러보고 싶다”고 했다. 이날 입국할 조엘 모키어 교수는 ‘창조적 파괴’를 통한 경제 성장 연구 공로로 지난해 노벨경제학상을 수상한 경제사학자로, 현재 미국 노스웨스턴대 경제학과 교수와 텔아비브대 에이탄 버글래스 경제학부 상임 석좌교수를 맡고 있다. 이번 콘퍼런스에서는 한국 경제가 나아갈 혁신의 방향성을 제시할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 관악구서 음주운전 차량에 50대 여성 사망</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/19/Z33CA3R6BFFGRDVY64T73XGMPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/19/Z33CA3R6BFFGRDVY64T73XGMPU/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 09:18:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYP6WFDY3HKBVFLKNBPFPRA26Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구의 한 도로에서 음주 운전 차량에 50대 여성이 치여 숨지는 사고가 발생했다. 피해자를 도우려던 60대 남성도 부상을 당했다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 특정범죄가중처벌법상 위험운전치사상 혐의로 50대 남성 박모씨에 대한 구속영장을 신청했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 박씨는 지난 18일 오후 8시 30분쯤 서울 관악구 봉천동의 한 5차선 도로에서 음주 상태로 차를 몰다가 50대 여성 A씨를 치어 숨지게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨를 구하기 위해 차도로 뛰어든 60대 남성 B씨도 같은 차량에 치여 골절상을 입었다. &lt;br&gt;&lt;br&gt;생전 정신 질환이 있던 A씨는 사고 당시 차도를 배회하고 있었던 것으로 파악됐다. A씨는 사고 직후 인근 병원에 옮겨졌지만 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 사망 직후인 오후 10시쯤 박씨를 긴급 체포했다. 체포 당시 박씨의 혈중알코올농도는 면허 취소 수준인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자를 상대로 정확한 사고 경위를 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전광훈 목사 ‘출국금지 집행정지 신청’ 법원서 기각</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/19/3Y2A7YTC35EVVH4DCSLQWBL25A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/19/3Y2A7YTC35EVVH4DCSLQWBL25A/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 09:05:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RR32664UXRPOZJMQSL4J6IJ3SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사랑제일교회 전광훈 목사가 지난 11일 서울 성북구 사랑제일교회에서 열린 기자회견에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전광훈 사랑제일교회 목사 측이 “출국 금지를 풀어달라”며 법무부 장관을 상대로 낸 집행정지 신청을 법원이 기각했다. 전 목사는 서울서부지법 난동 사태와 관련해 구속됐다가 보석으로 풀려난 상태다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 수원지법 행정1부(재판장 박성규)는 전날 전 목사가 법무부 장관을 상대로 낸 출국 금지 처분 집행정지 사건에 대해 기각 결정을 내렸다. 재판부는 “집행 정지 필요성이 소명됐다고 보기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;전 목사는 지난해 1월 서울서부지법 난동 사태와 관련해 윤석열 전 대통령 지지자들이 법원에 난입해 집기를 부수고 경찰을 폭행하도록 조장한 혐의(특수공무집행방해 교사 등)로 같은 해 8월 경찰 수사를 받으면서 출국 금지 조치를 당했다. 전 목사는 작년 2월 3일 이 혐의로 구속 기소됐다가, 지병을 이유로 4월 7일 보석 석방됐다.&lt;br&gt;&lt;br&gt;이 과정에서 출국 금지 조치가 내려지자, 전 목사 측은 지난달 23일 출국 금지를 풀어달라며 법무부 장관을 상대로 가처분 신청을 냈다. 이와 함께 출국 금지 조치 처분 취소에 대한 행정소송도 제기했다.&lt;br&gt;&lt;br&gt;전 목사 측은 지난 13일 열린 심문 기일에서 “건강 상태도 좋지 않아 도피할 상황이 아니고 얼굴이 알려진 인물이라 도피 위험이 현저히 낮다고 평가된다”고 했다. 또 “(출국 금지가) 해외 도피 우려가 있다는 잘못된 인식을 국민에게 심어줄 수 있어 부당하다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권익위 “실수로 고속도로 나갔다 들어왔다면 추가 요금 면제하라”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/05/19/QZQJVMXTQVEC3KO6ODZ4PGSCPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/05/19/QZQJVMXTQVEC3KO6ODZ4PGSCPE/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 09:06:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ABHXS75KNJINIUVNMBNVPWG24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 4일 경기 성남시 경부고속도로 서울요금소의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로를 실수로 빠져나갔다가 곧바로 다시 들어왔다면 통행료 기본요금을 다시 받지 않도록 하라고 국민권익위원회가 국토교통부와 한국도로공사에 권고했다.&lt;br&gt;&lt;br&gt;19일 권익위에 따르면, 현재는 고속도로를 잘못 빠져나갔다면 곧바로 다시 들어왔더라도 기본요금 900원부터 다시 내야 한다. 또 단순 실수로 통행료를 내지 않고 고속도로에 들어왔어도, 고의로 통행료를 내지 않은 사람과 똑같이 미납액의 10배까지 부가 통행료로 내야 한다. 고속도로 하이패스 카드가 만료된 것을 알지 못하고 고속도로에 들어왔다가 통행료 8000원의 10배인 8만원을 내게 된 것이 억울하다며 권익위에 민원을 제기한 국민도 있었다.&lt;br&gt;&lt;br&gt;권익위가 조사해 보니, 고속도로를 빠져나갔다가 10분 안에 같은 나들목으로 다시 들어온 차량은 지난해 11월 17일부터 30일까지 2주간 35만9534대에 달했고, 도로공사가 이들로부터 받은 통행료 기본요금만 3억2358만원에 달했다. 권익위는 1년에 934만여 대가 고속도로를 실수로 빠져나갔다가 10분 안에 같은 나들목으로 다시 들어오고, 도로공사가 이들로부터 ‘한 번 더’ 받는 통행료 기본 요금만 84억여 원에 달하는 것으로 추산했다. 고속도로를 빠져나간 지 10분 초과 20분 이내에 같은 나들목으로 다시 들어오는 차량도 726만여 대, 도로공사가 이들로부터 받은 통행료도 65억여 원에 달하는 것으로 추산됐다.&lt;br&gt;&lt;br&gt;권익위는 이런 요금 징수가 부당하다고 보고, 국토부와 도로공사에 관련 규정을 고쳐, 고속도로를 나오고 일정 시간 안에 같은 나들목으로 다시 들어온 차량에는 통행료 기본 요금을 받지 않도록 하라고 권고했다. 또 이런 차량들을 위한 기본 요금 자동 면제 시스템도 구축하라고 권고했다.&lt;br&gt;&lt;br&gt;권익위는 또 단순 실수로 통행료를 미납한 사용자에게는 부가 통행료를 걷지 않도록 관련 규정도 고치라고 국토부와 도로공사에 권고했다. 새 규정은 민자 고속도로를 운영하는 사업자에게도 적용되도록 했다.&lt;br&gt;&lt;br&gt;국토부와 도로공사는 내년 6월까지 관련 규정을 정비하고, 기본 요금 자동 면제 시스템도 구축하기로 했다.&lt;br&gt;&lt;br&gt;권익위 김기선 권익개선정책국장은 “이번 제도 개선으로 고속도로 이용 과정에서 발생하는 국민의 불필요한 경제적 부담은 낮추고, 고속도로 통행료 납부의 편의성은 높아지게 됐다”며 “앞으로도 권익위는 일상생활 속 불합리한 관행을 적극 발굴해 제도 개선을 지속적으로 추진하겠다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여성 단체 “성범죄자 변호 이력 후보, 국회의원 자격 없다”</title>
-      <link>https://www.chosun.com/national/education/2026/05/19/ITFYW2AUSFG6RCL6SOIU2UPQLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/19/ITFYW2AUSFG6RCL6SOIU2UPQLI/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 08:58:48 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSDOMJTMQ2TCOBUGZRGIYTGGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용남 더불어민주당 경기 팽택을 국회의원 후보가 15일 경기 평택시 안중읍 선거사무소에서 열린 개소식에서 지지자들에게 인사하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 경기 평택을 국회의원 재선거에 출마하는 김용남 더불어민주당 후보가 과거 성범죄자를 변호했다는 이력이 알려지면서 여성 단체를 중심으로 비판 목소리가 나오고 있다. &lt;br&gt;&lt;br&gt;한국여성단체연합, 한국성폭력상담소 등 55개 여성 단체는 19일 ‘성폭력 2차 피해 일삼는 자, 국회의원 자격 없다’는 제목의 공동 성명을 내고 “선거 때마다 드러나는 후보자의 성범죄자 변론 실태에 분노한다”며 “언론 보도에서 드러난 김 후보의 성범죄 가해자 변론은 심각하게 문제적이다. 후보자와 정당은 제대로 응답하라”고 주장했다. 앞서 한 매체는 김 후보가 2012년 변호사로 개업한 뒤 2024년까지 성범죄 사건 30여 건을 변호했다고 보도했다. &lt;br&gt;&lt;br&gt;여성 단체들은 성명에서 “피해자가 만취했는데도 ‘동의했다’고 주장하고, 처음 보는 자에게 겪은 성폭력도 피해자가 ‘유발했다’고 주장했다”며 “친족 성폭력을 ‘훈육’이라고 주장하는 것이 합리적이고 객관적인 법률가의 행위인가”라고 지적했다. 이어 “성폭력 피해자가 ‘피해자답지’ 않다는 이유로 공격하고 강간 통념을 재생산하는 것은 피해자의 인권을 침해하고 사회 정의를 퇴보시키는 일”이라고 했다. &lt;br&gt;&lt;br&gt;여성 단체는 김 후보의 성범죄자 변호 이력에 대한 민주당의 대응에 대해서도 비판했다. 이날 강준현 민주당 수석대변인은 국회 기자간담회에서 ‘(김 후보의) 논란들과 관련해 당 차원의 후보 검증을 더 하느냐’는 질문에 “후보 등록이 마무리됐기 때문에 물리적으로 검증 절차는 안 된다. 시민들이 판단해주셔야 한다”고 했다. 이에 여성단체는 성명에서 “후보자에 대한 검증은 정당의 책무다. 그러나 민주당은 후보 공천 과정에서 이러한 사실을 제대로 검증하지 못한 것에 대해 반성하는 것이 아니라 문제를 국민에게 떠넘기며 책임을 회피했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권익위 “출산 지원금 신청 기한 제대로 알리지 않았다면 기한 지났어도 지급하라”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/05/19/EHMUASYSNFEZ5D6MOJNNFT5ONM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/05/19/EHMUASYSNFEZ5D6MOJNNFT5ONM/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 08:47:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 국민권익위원회 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방자치단체로부터 출산 지원금 신청 기한을 명확히 안내받지 못했다면, 해당 지자체 조례상 신청 기한을 넘겼더라도 출산 지원금을 지급하라고 국민권익위원회가 권고했다.&lt;br&gt;&lt;br&gt;19일 권익위에 따르면, 2023년 12월 한 지자체로 전입한 A씨는 이듬해 4월 둘째 자녀를 낳았다. A씨는 자녀 출생 신고를 하면서 각종 출산·양육 지원 제도를 안내받았지만, 출산 지원금 신청 기한은 명확히 인지하지 못했다. A씨는 올해 2월 지자체 행정복지센터에 출산 지원금에 대해 문의하는 과정에서 신청 기한이 이미 지나 버렸다는 사실을 알게 됐다. A씨는 지자체에 지원금 지급해달라는 민원을 냈으나 받아들여지지 않자 권익위에 민원을 냈다.&lt;br&gt;&lt;br&gt;권익위가 조사해 보니, 이 지자체는 출산 축하·지원금 지원 조례에 따라 출산일 기준 1년 전부터 부모 가운데 1명 이상이 관내에 주민으로 등록돼 있는 경우에 출산 지원금을 주고 있었다. 전입한 지 1년이 되지 않아 출산한 경우에도 주민등록한 지 1년 6개월이 지나면 출산 지원금을 주고 있었다. A씨는 여기에 해당됐다. 그러나 이 요건을 충족한 뒤 6개월 안에 신청하지 않으면 받을 수 없게 돼 있었다.&lt;br&gt;&lt;br&gt;그런데 이 지자체는 A씨가 자녀 출생 신고를 할 때 이 제도를 안내하면서, 다른 여러 출산·양육 지원 제도와 함께 안내했다. 권익위는 A씨가 각 제도의 신청 기한을 명확히 알기는 어려웠으리라고 봤다. 또 이 지자체 홈페이지에도 신청 기한이 명확히 표시돼 있지 않았고, A씨가 신청할 수 있는 시점이 됐을 때 A씨에게 이를 알려주는 시스템도 갖춰져 있지 않았다.&lt;br&gt;&lt;br&gt;권익위는 “출산 지원금 제도가 실질적으로 지원해야 하는 대상자까지 신청 기한이 지났다는 이유로 지원 대상에서 배제하는 것은 제도 취지에 부합하지 않는다”며 이 지자체에 A씨에게 출산 지원금을 주라는 의견을 표명했다.&lt;br&gt;&lt;br&gt;권익위는 또 이 지자체의 출산 지원금 제도는 지자체에 전입한 지 얼마 안 된 주민들이 신청 시기를 놓치기 쉽게 돼 있다며, 주민들이 출산 지원금을 신청할 수 있는 때가 되면 이를 안내해 주는 방안을 마련하라고 권고했다.&lt;br&gt;&lt;br&gt;권익위 허재우 고충처리국장은 “출산 지원금은 저출산 극복과 양육 부담 완화를 위한 제도인 만큼, 단순히 신청 기한 경과만을 이유로 실질적인 지원 대상자를 배제하는 것은 신중해야 한다”며 “앞으로도 국민이 제대로 안내받지 못해 지원을 받지 못하는 일이 없도록 적극적으로 제도를 개선해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘탱크 데이’ 사과 몇 시간 만에 “스벅 간다”… 국민의힘 충북도당 SNS 논란</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/19/ASS3N6Y4EJDRXJVHA3AB6D22G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/19/ASS3N6Y4EJDRXJVHA3AB6D22G4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 08:29:56 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGJWSVXIIFCAPAFA4EZJG7XWAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 충북도당 스레드 계정 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 충북도당이 스타벅스의 ‘탱크 데이’ 논란을 연상시키는 SNS 게시글을 올렸다가 비판이 커지자 삭제하고 사과했다.&lt;br&gt;&lt;br&gt;19일 새벽 국민의힘 충북도당 사회관계망 서비스 스레드(Threads) 계정에는 “내일 스벅 들렀다가 출근해야지”라는 글이 게시됐다. 해당 계정은 도당 측 ‘MZ 관리자’가 운영하는 계정으로 알려졌다.&lt;br&gt;&lt;br&gt;논란은 해당 글이 스타벅스코리아가 5·18 민주화운동 폄훼 논란과 관련해 사과문을 낸 직후 올라왔다는 점에서 불거졌다. 온라인상에서는 “5·18 논란을 희화화한 것 아니냐”는 비판이 나왔다.&lt;br&gt;&lt;br&gt;해당 게시글에는 김선민 국민의힘 거제시장 후보 계정으로 “가서 샌드위치 먹어야지”라는 댓글이 달렸다. 충북도당 계정 운영자는 다시 “내일 아침은 샌드위치”라고 답글을 남기기도 했다.&lt;br&gt;&lt;br&gt;비판이 이어지자 국민의힘 충북도당은 관련 게시글을 삭제한 뒤 사과문을 게시했다. &lt;br&gt;&lt;br&gt;도당 측은 “부적절한 게시물로 인해 유가족과 국민 여러분께 심려를 끼쳐드린 점 진심으로 사과드린다”며 “5·18 민주화운동의 역사적 의미와 희생자, 유공자들의 아픔을 깊이 헤아리지 못한 명백한 잘못이었다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “민주주의를 위해 헌신한 분들의 뜻을 기려야 할 엄숙한 날 상처를 드린 데 대해 책임을 통감한다”며 “게시물 작성과 관리 과정을 전반적으로 점검해 유사 사례가 반복되지 않도록 하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 후보 측은 “후보 본인이 직접 작성한 댓글이 아니라 캠프 관계자가 작성한 것”이라며 “5·18 민주화운동이나 박종철 열사 고문치사 사건을 염두에 둔 댓글은 아니었다”고 해명한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 스타벅스코리아는 5·18 민주화운동 기념일인 지난 18일 텀블러 프로모션 행사에서 ‘탱크 데이’, ‘책상을 탁 치니 억 하고’ 등을 연상시키는 문구를 사용했다는 비판을 받았다. 논란이 확산하자 정용진 신세계그룹 회장은 사과문을 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민 73% “중동전쟁이 소비에 영향”...외식·여행 줄였다</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/19/AEU32O2XQBAJ3D2QNJ5E4HCCSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/19/AEU32O2XQBAJ3D2QNJ5E4HCCSA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 06:57:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GG3XOE3GTBOGNFWX4HIGVITJLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중동전쟁의 장기화로 인한 세계 곡물 가격 상승으로 김밥 등 시민들의 체감 외식 물가도 상승하는 가운데 10일 서울의 한 김밥 판매점 가격표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중동전쟁 장기화에 따른 경제적 불안이 커지면서 외식과 여행 등 소비를 줄였다는 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;한국언론진흥재단 미디어연구센터는 지난달 전국 20∼60대 성인 1000명을 대상으로 설문조사를 실시하고, 이를 바탕으로 19일 ‘중동전쟁 관련 정보와 국민의 경제 상황 인식’ 보고서를 발간했다.&lt;br&gt;&lt;br&gt;보고서에 따르면 중동전쟁 관련 정보에 노출된 응답자 가운데 77.8%가 불안을 경험했다고 답했다.&lt;br&gt;&lt;br&gt;불안을 느낀 이유로는 ‘유가 및 물가 상승 우려’가 96.6%로 가장 높았다. 이어 경기침체 심화가 94.2%로 뒤를 이었다. 반면 ‘한국의 국방·안보 상황 우려’를 꼽은 응답자는 67.4%로 상대적으로 적었다.&lt;br&gt;&lt;br&gt;재단은 이를 두고 국민들이 중동전쟁을 군사 문제가 아닌 생활경제 문제로 체감하고 있음을 보여준다고 설명했다. &lt;br&gt;&lt;br&gt;실제로 응답자 88.2%는 생활물가 상승을 체감한다고 답했다. 소비생활에 영향을 받았다는 응답도 72.8%였다. 소비를 줄인 항목은 외식이 43.6%로 가장 많았다. 이어 여행 43.2%, 자가용 이용 41.2% 순이었다.&lt;br&gt;&lt;br&gt;의료·위생물품 수급 불안을 우려한다는 응답도 77.8%에 달했다. 다만 실제로 생필품을 평소보다 많이 구매했다는 응답은 12.7%에 그쳐, 불안감이 사재기로 이어지지는 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;소셜미디어(SNS)나 온라인 커뮤니티, 생성형 인공지능(AI)을 많이 이용하는 사람들 사이에서는 물품 비축 비율이 상대적으로 높게 나타났다.&lt;br&gt;&lt;br&gt;중동전쟁 이후 정부 정책과 관련해서는 직접적인 가격 안정 정책에 대한 찬성률이 높았다. 유류세 인하에 찬성한다는 응답은 88.4%, 석유 가격 상한제 찬성은 86.3%였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 5월 20일 수요일 (음력 4월 4일 甲午)</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/19/FZI4YDTNXBGX5ESQD62XV5JAIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/19/FZI4YDTNXBGX5ESQD62XV5JAIE/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘항공사 기장 살인’ 김동환 공범 불구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2026/05/19/SX42OS54JJCPTJFF3DKPAGIOQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/19/SX42OS54JJCPTJFF3DKPAGIOQY/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 07:17:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JENCL7JOZNAM3ARZI4UEG2DUQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항공사 동료 기장을 흉기로 살해한 혐의를 받는 전직 부기장 김동환(49)이 20일 오후 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 항공사 기장을 흉기로 찔러 살해한 김동환(49)에게 자신의 운항 스케줄 확인 사이트 아이디를 빌려준 40대 남성이 검찰로 넘겨졌다. 김동환은 이 아이디를 통해 피해자들의 일정과 동선을 확인했다.&lt;br&gt;&lt;br&gt;부산 부산진경찰서는 정보통신망법상 정보통신망 침해 방조 혐의로 40대 남성 A씨를 검찰에 불구속 송치했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;당시 항공사 기장이었던 A씨는 올 1월 본인 명의의 사내 운항 스케줄 확인 사이트 아이디 등을 퇴사했던 김동환에게 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이후 김동환은 지난 3월 3~17일 A씨의 아이디로 운항 스케줄 사이트에 접속해 피해자들의 운항 스케줄을 확인할 수 있었다. 다만 경찰은 A씨가 김동환의 살인 범행에 대해선 알지 못했던 것으로 보고 있다.&lt;br&gt;&lt;br&gt;한편, 부산지법 형사7부(재판장 임주혁)는 이날 오전 살인 등 혐의로 구속 기소된 김동환의 첫 공판 기일을 열었다. 이날 김동환은 국민참여재판을 요청했다. 또 경찰에 신변 보호를 요청했던 항공사 기장 명단에 대해 사실조회를 신청하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;김동환은 지난 3월 16일 오전 4시 50분쯤 부산 부산진구 한 아파트에서 택배 기사로 위장해 침입한 뒤 항공사 기장 A씨를 흉기로 살해한 혐의를 받는다. 또 전날 오전 4시쯤 경기 고양시 한 아파트에서도 택배 기사로 위장해 침입한 뒤 항공사 기장 B씨를 살해하려다 미수에 그친 혐의도 받는다.&lt;br&gt;&lt;br&gt;그는 작년 8월부터 올 3월까지 범행 도구를 구입하고, 피해자 미행 및 주거지 답사 등을 통해 또 다른 항공사 기장 4명을 살해할 계획을 세운 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>진주남강유등축제, ‘글로벌 축제’ 도약 시동… 외국인 방문객 2배 늘린다 </title>
-      <link>https://www.chosun.com/national/2026/05/19/NEWCJTWCIFGMPP7QHX5Y4VYFF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/19/NEWCJTWCIFGMPP7QHX5Y4VYFF4/</guid>
-      <dc:creator>진주=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 06:56:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBBRIA4MFVADNJUJK4IBSIEGC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 진주시의 진주남강유등축제. /진주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 진주시가 지역 대표 축제인 ‘진주남강유등축제’를 세계적인 축제로 키운다. 이 축제는 보령머드축제·안동국제탈춤페스티벌과 함께 지난 3월 문화체육관광부와 한국관광공사가 주관하는 ‘글로벌 축제’로 선정됐다. 유등(流燈)은 물 위에 띄우는 등불을 말한다.&lt;br&gt;&lt;br&gt;진주시는 지난 18일 문화체육관광부가 서울에서 개최한 ‘2026 글로벌 축제 공동 기획단 발대식’에 참가해 대한민국 대표 축제인 진주남강유등축제의 세계화 전략을 발표했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;발표에 나선 진주시 관광진흥과 축제팀장은 “지난해 160만여 명이 찾으며 체류형 축제로서 경쟁력을 입증했다”며 “현재 약 5000명 수준인 외국인 방문객을 올해 1만명까지 확대하고, 지속적으로 늘려 글로벌 축제로 도약하겠다”고 했다.&lt;br&gt;&lt;br&gt;이를 위한 세 가지 핵심 전략을 제시했다.&lt;br&gt;&lt;br&gt;먼저 언어 장벽을 낮춘 글로벌 수용 체계를 구축한다. 한국어 중심의 기존 축제 애플리케이션(앱)을 다국어 통합 플랫폼으로 전환한다. 또 GPS(위치 확인 시스템) 기반 실시간 정보 제공과 현장 다국어 키오스크 서비스를 도입한다. 외국인 전용 라운지와 동행 가이드도 운영해 관람 편의를 높일 계획이다.&lt;br&gt;&lt;br&gt;경남권을 묶은 체류형 관광을 추진한다. 산청한방약초축제, 함안 낙화놀이 등 도내 주요 10월 축제와 연계한 관광 패키지를 개발한다는 계획이다. 이를 위해 지난 4월 인근 지자체와 관광 활성화 협약도 체결했다.&lt;br&gt;&lt;br&gt;시장별 맞춤형 해외 홍보도 늘리기로 했다. 일본·대만·베트남 등 인바운드 여행사와 협력해 단체 관광객을 유치하고, 자유여행객은 글로벌 온라인 여행 예약 플랫폼(OTA)과 연계해 공략할 방침이다.&lt;br&gt;&lt;br&gt;사전 마케팅도 단계적으로 진행한다. 6월에는 인바운드 여행업계 설명회를 열어 상품을 구체화하고, 7~8월에는 글로벌 OTA 대상 현지 홍보에 나선다. 9월에는 외국인 인플루언서 팸투어와 국내 거주 외국인 SNS 홍보단을 운영할 계획이다. 진주시는 한국관광공사 등 중앙기관에 광역 관광 상품 설명회 개최와 해외 지사를 통한 공동 홍보를 건의하며 협력도 요청했다.&lt;br&gt;&lt;br&gt;진주남강유등축제는 진주의 역사성이 깃든 우리나라를 대표하는 야간 축제다. 진주 남강에 등을 띄우는 유등 행사는 임진왜란 당시 3대 대첩 중 하나인 ‘진주대첩’에 기원을 두고 있다. 축제 때는 남강과 진주성 일대에 유등 7만개를 밝혀 장관을 이룬다. 지난 2023년 문화체육관광부의 지역문화대상을 받은 데 이어 세계축제협회로부터 ‘2024년 아시아 야간형 축제(Asia Night Festival of 2024)’로 선정됐다. 지난 3월엔 글로벌 축제로 선정되면서 3년간 매년 8억씩 총 24억원의 국비를 지원받게 됐다.&lt;br&gt;&lt;br&gt;올해 유등축제는 10월 3일부터 18일까지 16일간 진주성과 남강 일원에서 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노벨상 여성 과학자 4명, 과기한림원 외국인회원 선출 </title>
-      <link>https://www.chosun.com/national/people/2026/05/19/SL3I5FRUJZEXXB7PDJZZ4T6GBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/19/SL3I5FRUJZEXXB7PDJZZ4T6GBA/</guid>
-      <dc:creator>최원우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 05:46:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VABV44TGRZHX7JGIAQLNE5ZXGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국과학기술한림원은 19일 얀 륄리에 스웨덴 룬드대 교수(2023년 노벨물리학상), 도나 스트리클런드 캐나다 워털루대 교수(2018년 노벨물리학상), 메이브리트 모세르 노르웨이 과학기술대 교수(2014년 노벨생리·의학상), 프랑수아즈 바레시누시 프랑스 파스퇴르연구소 박사(2008년 노벨생리·의학상) 등 외국인 여성 노벨상 수상자 4명을 외국인 회원으로 선출했다고 밝혔다. 이번 선정으로 외국인 회원 59명 중 여성 회원수는 7명으로 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 2차 특검, ‘관저 이전 의혹’ 김대기·윤재순·김오진 구속영장 청구 </title>
-      <link>https://www.chosun.com/national/court_law/2026/05/19/DBOXJ7IBYRGCLALKAFWZKQIX44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/19/DBOXJ7IBYRGCLALKAFWZKQIX44/</guid>
-      <dc:creator>정동하 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 06:10:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDINTGMRTDAMBYGQ4DSYZTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김대기 전 대통령 비서실장이 지난 15일 윤석열 정부의 대통령실 및 관저 이전 특혜 의혹 관련 피의자 조사를 받기 위해 경기 과천 2차 종합특검 사무실로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합 특검은 19일 윤석열 정부 대통령실 관저 이전 의혹과 관련해 직권남용 혐의로 김대기 전 대통령실 비서실장, 윤재순 전 총무비서관, 김오진 전 관리비서관의 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;특검은 “관련 부처의 반발이 있었는데도 김 전 실장 등의 지시에 따라 대통령 관저와 무관한 행정안전부 정부청사관리본부의 예산이 불법 전용된 사실을 확인했다”면서 “범죄의 중대성, 증거인멸의 우려, 추가 수사의 필요성 등을 종합적으로 고려해 구속영장을 청구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일 전국에 많은 비...더위 한풀 꺾여</title>
@@ -945,24 +969,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Tue, 19 May 2026 01:20:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WJ5BGXGDDC5ZQKL75LEXDGVLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대통령 탄핵심판 증인 출석한 김용현 전 국방부장관. 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관 측이 내란전담재판부 구성이 위헌 법률에 따라 이뤄졌다며 위헌법률심판 제청 신청을 한 것에 대해 법원이 “전문성과 역량 등을 고려한 것”이라며 신청을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;19일 서울고법에 따르면 내란전담재판부인 형사12-1부(재판장 이승철)는 김 전 국방부 장관이 ‘내란·외환·반란 범죄 등의 형사절차에 관한 특례법(내란전담재판부법)‘에 대해 낸 위헌법률심판제청 신청을 기각·각하했다. 김 전 장관 측은 지난달 21일 내란전담재판부 구성 과정이 공정하거나 객관적이지 않다며 위헌법률심판 제청 신청서를 재판부에 냈다. &lt;br&gt;&lt;br&gt;우선 재판부는 서울고법 내란전담재판부가 내란 사건의 항소심 재판을 담당하는 걸 위헌이라고 볼 수 없다고 봤다. 재판부는 “대상 사건은 성격상 재판의 통일성을 확보하고, 전문성 강화와 절차의 효율성 및 사회적 공익 등을 제고할 필요성이 크다”고 했다. 그러면서 서울중앙지법 내란전담재판부가 전속 관할로 내란 재판을 담당하는 이상 항소심 재판을 서울고법에서 관할하기로 정한 것 역시 위헌으로 볼 수 없다고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법과 서울고법에 내란전담재판부를 각 2개 이상 설치하고 재판부 구성 기준 등을 마련하도록 정한 내란전담재판부법 7조와 8조에 대해서도 문제가 없다고 봤다. 재판부는 “구체적인 전담재판부 구성은 법원 자체적으로 판사회의 및 사무분담위원회를 통해 구성하도록 하고 있다”며 “각 규정이 법원의 사법권을 본질적으로 침해하거나 법관의 독립을 과도하게 제한한다고 보기는 어렵다”고 했다. 내란전담재판부 구성이 입법부의 개입으로 선별된 결과라고 볼 여지도 없다고 덧붙였다.&lt;br&gt;&lt;br&gt;재판 중계를 의무화한 11조에 대해선 국민의 알 권리 보장 및 실질적인 재판 공개 원칙의 실현이라는 공익 목적 달성을 위해 필요하다고 판단했다. 재판부는 “신청인이 우려하는 피고인과 변호인의 방어권 행사 위축, 여론을 의식한 증인들의 진술 번복, 여론에 따른 재판부의 결론 강요 등은 객관적 근거가 없는 막연한 우려에 가깝다”며 “재판 중계에 필연적으로 수반되는 사정으로 보기 어렵다”고 짚었다. &lt;br&gt;&lt;br&gt;재판부는 이 외에도 김 전 장관 측이 문제라고 본 일부 조항은 수사 단계 또는 1심 재판에 적용되는 규정이라며 각하했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>바르뎀, 트럼프·푸틴·네타냐후 직격 “유해한 남자들, 살인·전쟁 일으켜”</title>
-      <link>https://www.chosun.com/national/people/2026/05/19/75HJTV7IMJBKRAA5XMEEWTV2YA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/19/75HJTV7IMJBKRAA5XMEEWTV2YA/</guid>
-      <dc:creator>원선우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 May 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLCSWYYEZRKC7FQKO4KP5QGENU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 칸느영화제에 참석한 스페인 배우 하비에르 바르뎀. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스페인 출신 세계적 배우 하비에르 바르뎀(57)이 도널드 트럼프 미국 대통령, 블라디미르 푸틴 러시아 대통령, 베냐민 네타냐후 이스라엘 총리의 ‘유해한 남성성(toxic masculinity)’이 전쟁의 원인이라고 했다.&lt;br&gt;&lt;br&gt;AFP 통신에 따르면 제79회 칸 영화제에 참석한 바르뎀은 17일 기자회견에서 자신이 이번에 연기한 신작 캐릭터의 결함은 ‘유해한 남성성’이라며 전쟁을 부추기는 남성 특유의 공격적인 사고 방식이 여성에 대한 폭력을 일으킨다고 주장했다. 바르뎀은 로드리고 소로고옌 스페인 감독의 영화 ‘연인’(The Beloved)에서 폭발적 성미를 가진 독선적 영화감독을 연기했다. &lt;br&gt;&lt;br&gt;그는 스페인에서 매년 옛 남편들에게 살해되는 여성들을 거론하며 “매달 평균 두 명의 여성이 전 남편이나 전 남자친구, 혹은 전 남편에게 살해당한다. 그 숫자 자체가 끔찍한 일”이라고 했다. 그러면서 “이 모든 건 결국 유해한 남성성에서 비롯한다”고 했다. &lt;br&gt;&lt;br&gt;그는 이러한 ‘유해한 남성성’이 트럼프, 푸틴, 네타냐후 같은 허세 가득한 남자(big-balls men)에게도 문제가 된다며 “이들은 ‘내 물건이 네것보다 크니 나는 널 날려버릴 거야’라고 말한다. 이건 정말 빌어먹을 남성우월주의적 행태”라고 했다. &lt;br&gt;&lt;br&gt;바르뎀은 2023년 10월 7일 팔레스타인 무장정파 하마스의 공격으로 촉발된 가자지구 전쟁에 대해 가장 적극적으로 목소리 높여온 배우 중 한 명이다. 그는 이날도 집단학살(제노사이드)이 여전히 자행되고 있다고 주장하면서 “침묵이나 지지로 이를 정당화한다면 당신은 집단학살을 옹호하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;바르뎀은 2007년 코엔 형제 감독의 영화 ‘노인을 위한 나라는 없다’에서 단발머리 살인마 ‘안톤 시구르’ 역을 맡아 스페인 출신 최초로 아카데미 남우조연상을, 알레한드로 곤살레스 이냐리투 감독의 ‘비우티풀’(2010)로 칸 영화제 남우주연상을 받았다. 스페인 대표 여배우 페넬로페 크루즈의 남편이기도 하다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검  “조태용·홍장원 등 전 국정원 직원 내란 혐의 입건”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/18/HXO7A7JVMBFGHKZCGDKTIWGQCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/18/HXO7A7JVMBFGHKZCGDKTIWGQCQ/</guid>
-      <dc:creator>정동하 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 May 2026 05:07:00 +0000</pubDate>
-      <content:encoded>2차 종합특검이 조태용 전 국가정보원장과 홍장원 전 국정원 1차장을 내란 중요임무 종사 혐의로 입건해 수사 중이라고 18일 밝혔다. 특검은 윤석열 전 대통령이 12·3 비상계엄 직후 미국 등 우방국에게 계엄을 정당화하는 메시지를 전달하려 했고, 당시 국정원이 여기에 관여했다고 의심하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRDGMZSMQYTKYLEGQ2TQYJZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원 전 국가정보원 1차장이 지난 3월 16일 오후 서울 서초구 서울중앙지방법원에서 열린 조태용 전 국가정보원장의 1심 공판에 증인으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 브리핑에서 “조 전 원장과 홍 전 차장 등 국정원 정무직 출신 6명을 내란 중요임무 종사 혐의 피의자로 입건해 수사하고 있다”고 밝혔다. 특검은 “지난달 국정원 서버를 압수수색하고 관계자 40여 명을 조사한 결과, 비상계엄 당시 조 전 원장이 윤석열 전 대통령을 만난 뒤 국정원에서 정무직 회의와 부서장 회의를 진행한 사실을 확인했다”고 설명했다.&lt;br&gt;&lt;br&gt;특검은 조 전 원장에게 오는 19일 피의자 출석을 통보했지만 조 전 원장 측이 응하지 않았다고 밝혔다. 홍 전 차장에게는 오는 22일 출석을 통보했다고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 계엄 직후 외교부 라인과 국정원 라인을 통해 국제사회에 계엄 정당화 메시지를 보내려 했다고 의심하고 있다. 특검은 국정원이 미국 중앙정보국(CIA)을 접촉해 계엄을 옹호하는 취지의 메시지 전달을 시도한 정황을 포착한 것으로 알려졌다. 특히 특검은 홍 전 차장이 CIA 접촉과 메시지 전달 과정에 관여했을 가능성이 있다고 보고, 홍 전 차장을 내란 중요임무 종사와 국가정보원법 위반 혐의로 입건한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 신원식 전 국가안보실장과 김태효 전 국가안보실 1차장도 내란 중요임무 종사 혐의로 입건했다. 특검은 이들이 계엄 직후 외교비서관 등을 통해 미국 등 우방국에 “종북 좌파와 반미주의에 대항하는 입장을 견지한다”는 취지의 메시지를 전달하려 한 것으로 보고 있다. 특검은 지난 15일에 이어 이날도 김 전 차장을 피의자로 불러 조사 중이다.&lt;br&gt;&lt;br&gt;한편 특검은 오는 24일 1차 수사 기간(90일)이 종료됨에 따라 이번 주 안으로 대통령과 국회에 수사 보고서를 제출할 예정이라고 밝혔다. 특검법상 특검은 수사 기간을 30일씩 두 차례 연장할 수 있다. 두 차례 연장이 모두 이뤄지면 특검 수사 기간은 최대 150일까지 늘어난다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
