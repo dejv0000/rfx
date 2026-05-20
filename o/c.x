@@ -13,6 +13,128 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>ALC 행사장 마스코트 된 로봇 개…“집에 있는 강아지 생각 나”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/C757V2FH5RB5LAYEXFUE75OPQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/C757V2FH5RB5LAYEXFUE75OPQI/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 10:42:25 +0000</pubDate>
+      <content:encoded>&lt;b&gt;[제17회 아시안리더십콘퍼런스]&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBY2AUPT5BH2PGSFAETBX5464A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 신라호텔에서 열린 아시안리더십콘퍼런스회장에서 노벨 경제학상 수상자 조엘 모키어 미 노스웨스턴대 교수가 보스턴다이내믹스 로봇개 ‘스팟’에게 악수를 청하고 있다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“너무 재미있다. 개들끼리 기 싸움 하는 거 같아.”&lt;br&gt;&lt;br&gt;조선일보 주최 아시안리더십콘퍼런스(ALC) 행사 첫날인 20일 서울 중구 신라호텔 다이너스티홀 로비에서는 로봇 개 2대가 맞붙어 서로의 기량을 뽐냈다. 한 대는 오른쪽 앞발을 땅에 구르고 몸을 양옆으로 흔들었다. 목을 위로 쭉 펴고 입을 벌려 먹이를 먹는 흉내를 내거나, 주인이 던지는 공을 받는 시늉도 했다. 이 로봇 개의 이름은 ‘스팟(Spot)’. 현대차그룹 보스턴다이내믹스가 만들었다. 이날 행사장을 지나던 노벨 경제학상 수상자 조엘 모키어 미 노스웨스턴대 교수가 ‘스팟’에게 악수를 청하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DROURJUXLFHA3ED7ITIBE3I7VY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 서울 중구 신라호텔에서 열린 제17회 아시안리더십컨퍼런스(ALC)에서 보스턴다이내믹스 로봇개 '스팟'이 행사장을 누비고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반대편에는 중국 딥로보틱스(DEEP Robotics)가 개발한 ‘링스(Lynx)’가 자리했다. 링스는 세계 최초로 바퀴와 다리를 결합한 하이브리드형 4족 보행 로봇 개다. 스팟처럼 다양한 묘기는 없었지만, 바퀴를 이용해 빠른 속도로 달리거나 다리 관절을 섬세하게 꺾는 모습을 자랑하듯 보였다.&lt;br&gt;&lt;br&gt;이날 두 로봇 개는 등장한 지 얼마 되지 않아 사람들로 둘러싸였다. 카메라 플래시도 여러 번 터졌다. 컨퍼런스를 보러 인도에서 한국까지 왔다는 아가스티야(20)는 “살면서 로봇을 직접 보는 건 처음인데 너무 신기해서 한참을 쳐다보고 있었다”고 했다. 말레이시아에서 유학 와 석사 과정을 공부하고 있는 터징유(27)는 “공장에 있는 로봇만 봤지 이렇게 애교 부리는 로봇은 처음 본다”고 했다. 성균관대에 재학 중인 차민주(23)씨는 “집에 있는 강아지가 생각나더라”며 “이 정도 기술력이면 로봇도 언젠가는 감정을 느끼려나 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NHDXA4JEJFBJESM2SAXHQWRTY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 서울 중구 신라호텔에서 열린 제17회 아시안리더십컨퍼런스에서 보스턴다이내믹스 로봇개 '스팟'과 중국 딥로보틱스의 로봇 개 ‘링스’가  마주보고 재롱을 부리고 있다./고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 ALC에서는 전 세계를 휩쓸고 있는 ‘피지컬 AI(Physical AI·물리적 하드웨어와 융합한 인공지능)’ 기술을 행사장에서 두 눈으로 느낄 수 있다. 행사 둘째 날인 21일에는 휴머노이드(인간형) 로봇 3대도 행사장에 배치될 예정이다. 휴머노이드는 행사장으로 들어서는 관객들에게 악수를 청하고, 무대에 올라 음악에 맞춰 춤을 추는 퍼포먼스도 펼칠 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/A4XIXTAEJVCX7EUZ5VUUBY7B34.gif?auth=1f35b539e4cb284aa48e52d3e0002fa7b4ffd0d853959802e66f7363334f6613&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
+        <media:description type="plain">20일 오후 서울 중구 신라호텔에서 열린 제17회 아시안리더십컨퍼런스에서 보스턴다이내믹스 로봇 개 '스팟'과 중국 딥로보틱스의 로봇 개 ‘링스’가 행사장을 누비고 있다. /박성원 기자, 장경식 기자, 고유찬 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>유령 무당 ‘조말례’에 속아 66억 횡령한 재력가 실형</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/324DQVZPTNCMVBKUY5VSTLZ3E4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/324DQVZPTNCMVBKUY5VSTLZ3E4/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 09:36:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4TCZBSME3DANLFMNSTQM3DHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘조말례’라는 이름의 유령 무당에게 가스라이팅 당해 회삿돈 수십억 원을 횡령한 재력가가 1심에서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;20일 본지 취재를 종합하면, 서울남부지법 형사합의15부(재판장 노유경)는 특정경제범죄가중처벌 등에 관한 법률 위반(횡령) 혐의로 재판에 넘겨진 A씨에게 지난달 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;유명 생활가전 업체 창업주의 아들인 A씨는 장모(50)씨와 심모(48)씨에게 가스라이팅을 당해 회삿돈 65억8700만원을 횡령한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨의 아내였던 B씨는 2017년 서울의 한 유명 사립초등학교 학부모 모임에서 장씨를 처음 만나 친분을 쌓았다. 이듬해 A·B씨가 아들의 건강 문제를 털어놓자, 장씨는 “고위층 사주를 봐주는 유명한 무속인이 있다”며 ‘조말례’란 인물을 소개했다. 조말례가 단번에 A씨 부부 아들의 열경련 증상을 짚어내자 이후 A씨 부부는 장씨를 신뢰하게 됐다고 한다.&lt;br&gt;&lt;br&gt;그러나 무속인 조말례는 실존하지 않는 가상의 인물이었다. 장씨와 그의 전 남편 심씨가 조말례를 사칭한 것. 장씨와 심씨는 A씨 부부와 교류하면서 알게 된 정보를 바탕으로 조말례 행세를 한 것이었다.&lt;br&gt;&lt;br&gt;이후 장씨와 심씨는 “조말례가 제단에 바칠 돈이 필요하다고 했다”며 A씨가 회삿돈을 횡령하도록 종용해 약 66억원을 가로챘다. A씨는 회사 경영지원팀 과장에게 “급하게 쓸 돈이 필요하다. 2일 안에 혹은 월말에 다시 입금해 주겠다”며 회삿돈을 가로챈 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 무속인의 지시라는 공범자들의 말을 맹목적으로 추종하며 약 66억원 상당의 거액을 횡령했다”며 “피고인의 지위, 횡령금의 규모 등에 비춰 죄질이 매우 나쁘고 비난 가능성이 높다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교육부, 전자칠판 등 납품 비리 없게 ‘물품선정위’ 규정 강화</title>
+      <link>https://www.chosun.com/national/education/2026/05/20/P3ZF7S46ERHXZLNGFSV2WJOLNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/20/P3ZF7S46ERHXZLNGFSV2WJOLNY/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 09:35:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PICD7ZP75ZKW5HYL2MG3H5RRCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전자칠판 납품 사업과 관련해 업체 관계자들로부터 금품을 받은 혐의를 받는 인천시의원 2명이 작년 3월 구속 전 피의자 심문(영장실질심사)을 받기 위해 인천지법으로 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 시도 교육청 및 소속 기관에 ‘물품선정위원회 운영 규정’ 정비를 권고했다고 20일 밝혔다. 물품 구매 과정의 비리를 예방하고, 공정성을 높이기 위한 조치다.&lt;br&gt;&lt;br&gt;교육부는 전국 시도 교육청의 관련 규정을 점검한 결과 물품선정위의 운영 기준과 절차가 기관별로 달랐고, 이로 인해 공정성 수준에서 차이가 발생한다는 점이 확인돼, 개선 방향을 마련한 것이라고 설명했다.&lt;br&gt;&lt;br&gt;우선 교육부는 일부 기관 중심으로 운영되던 물품선정위를 전 교육 기관으로 확대하도록 권고했다. 앞으론 전국 초중고교와 교육청 산하 도서관, 박물관 등 교육 기관에서도 물품선정위가 구성될 전망이다. &lt;br&gt;&lt;br&gt;또 교육부는 물품선정위 평가위원 구성에서 기관장, 계약 담당자, 업체 관계자 등 이해 관계자를 배제하도록 했다. 또 공정성을 높이기 위해 외부 위원이 1명 이상 의무적으로 참여해야 한다.&lt;br&gt;&lt;br&gt;평가를 할 땐 업체 식별이 불가능하도록 블라인드 평가가 원칙으로 적용된다. &lt;br&gt;&lt;br&gt;교육부는 인천 학교들에서 벌어진 전자칠판 납품 비리 등 교육 기관에서의 물품 구매 문제가 끊이지 않자 이 같은 권고를 내놓았다. &lt;br&gt;&lt;br&gt;인천시교육청은 2023년 10월부터 2024년 4월까지 20억원대 전자칠판 사업을 추진했는데, 해당 사업에서 인천시의원 2명이 업체 관계자들에게 1억6000만원을 수수한 혐의로 기소됐다. 인천 모 중학교 교감도 뇌물을 받은 혐의로 경찰에 입건된 뒤 직위가 해제됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울고법, 尹·김용현·노상원 내란전담재판부 기피 신청 ‘기각’ </title>
+      <link>https://www.chosun.com/national/court_law/2026/05/20/IKNPY4PKBRBPZPCBBSRL3XPVZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/20/IKNPY4PKBRBPZPCBBSRL3XPVZE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 07:13:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WJ5BGXGDDC5ZQKL75LEXDGVLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등이 12·3 비상계엄 관련 내란 사건 항소심 재판부를 바꿔달라며 낸 법관 기피 신청이 법원에서 기각됐다. &lt;br&gt;&lt;br&gt;서울고법 내란전담재판부인 형사1부(재판장 윤성식)는 20일 윤 전 대통령과 김용현 전 국방부 장관, 노상원 전 국군정보사령관 측이 서울고법 형사12-1부(재판장 이승철)를 상대로 낸 기피 신청을 기각했다고 밝혔다. &lt;br&gt;&lt;br&gt;기피 신청은 재판을 불공정하게 할 우려가 있을 때 소송 당사자가 판사를 바꿔달라고 요구하는 절차다. 윤 전 대통령 등은 형사12-1부가 앞서 한덕수 전 국무총리의 내란 사건에서 비상계엄과 후속 행위를 내란으로 판단해 유죄의 예단을 드러냈다며 기피를 신청했다. 김 전 장관 역시 위헌법률심판 제청 신청을 기각했고 재판부가 한 전 총리 사건에서 국회 봉쇄 여부와 관련한 핵심 증거 신청도 받아들이지 않았다며 기피 신청을 냈다. &lt;br&gt;&lt;br&gt;그러나 기피 신청을 심리한 형사1부는 “관련 사건과 본안 사건은 별개의 형사사건”이라며 “본안 사건은 검사가 제출하는 증거와 피고인의 대응 등에 따라 판단이 이뤄지는 만큼 ‘법관이 불공평한 재판을 할 염려가 있을 때’에 해당하지 않는다”고 했다. &lt;br&gt;&lt;br&gt;형사12-1부가 위헌법률심판 제청 신청을 기각한 것에 대해서도 재판부는 “헌법과 법률에 따른 1차적 심판권 행사로 정당하다”고 했다. 증거 신청을 받아들이지 않은 것에 대해선 “법원의 재량 사항”이라며 기피 사유가 될 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;김 전 장관과 노 전 사령관 측은 형사1부가 기피 사건을 심리하게 되자 “또 다른 내란전담재판부가 기피 여부를 판단하는 것은 공정하지 않다”며 형사1부에 대해서도 재차 기피 신청을 냈었다. 그러나 형사1부는 이 신청에 대해서도 “결국 사건 심리를 지연시키기 위한 목적”이라며 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천·경기·전남·경남에 호우주의보… 행안부, 중대본 1단계 가동</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/ZAMQWTZM2RHKRDFL7AZ6NM4RAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/ZAMQWTZM2RHKRDFL7AZ6NM4RAY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 08:02:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJBGQL4F3ZOQBG6B7OESWIIASA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 서울 중구 서울시청 인근에서 우산을 쓴 시민들이 우산을 쓰고 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 인천·경기·전남·경남 등 4시·도에 호우주의보가 발표됨에 따라 20일 오후 4시 30분을 기해 중앙재난안전대책본부 1단계를 가동했다고 밝혔다. 행안부가 호우로 중대본을 가동한 것은 올해 들어 이번이 처음이다.&lt;br&gt;&lt;br&gt;행안부 장관인 윤호중 중앙재난안전대책본부장은 중대본 가동에 따라 지역별 비상 대응 체계를 철저히 구축하고 상황 관리에 빈틈이 없도록 지시했다.&lt;br&gt;&lt;br&gt;또 산사태 우려 지역이나 하천변, 반지하주택 등 침수 취약 지역은 사전 통제를 강화하고, 필요하면 선제적으로 주민을 대피시키도록 주문했다.&lt;br&gt;&lt;br&gt;한편 윤 본부장은 국민들에게 “기상 정보와 재난 문자 등 안내를 수시로 확인하고, 하천변이나 지하차도 같은 위험한 지역에는 접근을 자제하는 등 안전에 각별히 유의해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>난임 시술은 4년 만에 약 40% 급증... 평균 연령은 37.3세</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/05/20/GRHOF2SSBBHRVOUZYNDNTR25JQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/20/GRHOF2SSBBHRVOUZYNDNTR25JQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 08:14:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJRSCITW75H7ZD5F3W46YCK5CE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 난임 시술 건수가 4년 사이 40% 가까이 증가한 것으로 나타났다. 난임 시술을 받은 여성들의 평균 나이는 37.3세로 집계됐다. &lt;br&gt;&lt;br&gt;20일 건강보험심사평가원에 따르면 2023년 기준 국내 전체 난임 시술 건수는 20만3101건으로 2019년(14만6354건)보다 38.9% 늘었다. 인공 수정 시술을 비롯해 보통 ‘시험관 시술’로 불리는 체외 수정 시술을 모두 합친 숫자다. 전체 시술 중 84%는 체외 수정, 나머지 16%는 인공 수정이었다.&lt;br&gt;&lt;br&gt;난임(難姙)이란 피임을 하지 않고 정상적인 부부 생활을 했는데도 1년간(35세 이상은 6개월간) 임신이 되지 않는 것을 뜻한다. 2023년 난임 시술을 받은 여성은 7만7660명, 평균 연령은 37.3세였다. 2022년 만해도 37.9세였는데, 1년 사이 0.6세가 내려간 것이다. 평가원은 “혼인 연령이 계속 올라가는데다 정부의 난임 시술 정책 확대에 따라 난임 시술 지원이 늘어난 게 영향을 준 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;난임시술은 2017년부터 건강보험이 적용됐고, 2019년 지원 횟수가 인공수정은 3회에서 5회로 늘어나는 등 지원 범위가 확대됐다. 서울의 한 난임 전문 병원 관계자는 “예전보다 시험관 시술에 대한 거부감이 줄었고, 시술에 적극적인 부부들이 확연히 늘었다”고 했다.&lt;br&gt;&lt;br&gt;난임 이유 중 가장 많은 경우는 원인 불명(18.5%)이었다. 현대 의학으로는 임신이 안 되는 뚜렷한 이유를 찾지 못했다는 뜻이다. 이어 난소 기능 저하(17.7%), 남성에게 원인이 있는 경우(15.6%), 배란 기능 장애(7.6%) 등이 뒤를 이었다. 여성 나이가 올라갈수록 난소 기능 저하가 원인인 비율이 급격히 올라갔다. 45세 이상에서는 난소 기능 저하가 전체 원인 가운데 45.9%를 차지했다. &lt;br&gt;&lt;br&gt;시험관 성공률도 40대가 넘어가면서 급격히 낮아졌다. 체외 수정 시술 임신율(동결 배아 기준)도 30~34세 48.7%, 35~39세 47.4%로 25~29세(52.1%)와 큰 차이가 없었다. 하지만 40~44세는 29.6%, 45세 이상은 6%로 급격히 떨어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G5TGGZDBMUZTANBQMI4TKZRSMI.jpg?auth=91f561b7a8cb7b23655da43b37acbdbc1ec696172f30213f920addd1c8cf10f5&amp;smart=true&amp;width=720&amp;height=480" type="image/jpeg" height="480" width="720">
+        <media:description type="plain">임신</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>출근길 서울 지하철 화요일이 제일 ‘지옥’… 하루 승객 수는 금요일이 최다</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/SU5MPGGWDZEDZM62CLT2HR7QHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/SU5MPGGWDZEDZM62CLT2HR7QHE/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 08:30:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJSJLWG2PVNSRJAQLWWMWV7ROE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문역이 출근길 시민들로 붐비고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출근길 서울 지하철이 가장 붐비는 요일은 월요일이 아니라 화요일이었다. 하루 평균 승객이 가장 많은 요일은 금요일로 조사됐다.&lt;br&gt;&lt;br&gt;서울교통공사가 20일 발간한 ‘2025년 서울 지하철 승하차 인원 분석 데이터’를 보면, 지난해 오전 7~9시 승하차 인원이 가장 많은 요일은 화요일이었다. 평균 190만명이 지하철을 이용했다.&lt;br&gt;&lt;br&gt;이어 월요일·수요일 이용객이 각 188만명, 목요일이 185만명, 금요일이 176만명이었다. 주말인 토요일은 47만명, 일요일은 30만명으로 집계됐다. 서울교통공사 관계자는 “보통 휴일이 끝나고 업무를 시작하는 월요일 출근길이 가장 붐빈다고 생각하는데 의외로 화요일 출근 승객이 더 많았다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사는 그 원인을 자가용 이용객이 지하철로 몰렸기 때문이라고 추정했다. 월요일 자가용을 몰고 출근했다가 교통 체증에 시달린 시민들이 화요일 지하철로 몰린다는 것이다.&lt;br&gt;&lt;br&gt;서울시의 ‘2025년 연간 통행 속도 보고서’를 보면, 오전 7~9시 서울 시내 차량 평균 속도는 월요일이 시속 22㎞로 가장 낮았다. 월요일에 도로가 가장 많이 막혔다는 뜻이다. 화요일은 시속 22.4㎞, 수요일은 22.6㎞로 체증이 점차 풀리는 모습이었다.&lt;br&gt;&lt;br&gt;퇴근 시간대인 오후 5~7시 지하철 승하차 인원은 금요일이 203만명으로 가장 많았다. 이어 수요일 196만명, 목요일 194만명, 화요일 193만명, 월요일 189만명 순이었다.서울교통공사에선 금요일은 퇴근 승객뿐 아니라 ‘불금’을 즐기려는 시민까지 겹쳐 이용객이 많은 것으로 분석했다. &lt;br&gt;&lt;br&gt;하루 전체 지하철 승객 수도 금요일이 가장 많았다. 금요일 평균 승객 수는 1042만명이었다. 이어 수요일(1018만명), 목요일(1016만명), 화요일(1008만명), 월요일(984만명) 등의 순으로 많았다. 하루 평균 이용객이 가장 적은 요일은 일요일로 544만명이었다. &lt;br&gt;&lt;br&gt;마해근 서울교통공사 영업본부장은 “시간별·요일별 데이터를 분석해 맞춤형 수송 서비스를 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파업 앞두고... 삼전 노조·주주단체, 이재용 회장 자택 앞 집회신고 잇따라</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/HRM6OXOJENHYVJTYU4FJS6UNQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/HRM6OXOJENHYVJTYU4FJS6UNQY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 07:53:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YWMYRYGNQTMNJSGBSDEZRZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자 사측 대표교섭위원인 여명구 DS(반도체 부문) 피플팀장(왼쪽)과 최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 20일 정부세종청사 중앙노동위원회에서 열린 2차 사후조정 최종회의를 마치고 나서고 있다. 이날 삼성전자 노사의 협상이 합의점을 찾지 못하고 끝내 결렬 됐다. 노조는 내일 총파업에 돌입한다고 밝혔다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자 총파업을 둘러싸고 노동조합과 주주 단체가 21일 각각 이재용 회장 자택 인근에서 집회를 열 예정이다. &lt;br&gt;&lt;br&gt;20일 경찰 등에 따르면 삼성전자 초기업노조는 21일 오후 1시부터 3시까지 서울 용산구 한남동 이재용 회장 자택 일대에서 집회를 열겠다고 신고했다. 집회 신고 규모는 500명이다.&lt;br&gt;&lt;br&gt;맞불 집회도 예고됐다. 주주 단체인 대한민국 주주운동본부는 같은 날 오전 10시부터 11시 30분까지 같은 장소 인근에서 집회를 열겠다고 신고했다. 삼성전자 주주행동 실천본부도 한강진역 1번 출구 인근에서 오전 11시부터 집회를 개최할 예정이다.&lt;br&gt;&lt;br&gt;이날 오전 중앙노동위원회는 노측이 조정안을 수락했지만 사측이 이를 유보하면서 사후 조정 절차가 종료됐다고 밝혔다. 이에 따라 노조는 예정대로 21일 총파업에 돌입한다는 입장이다.&lt;br&gt;&lt;br&gt;다만 김영훈 고용노동부 장관이 직접 중재에 나선 노사 교섭이 이날 오후 4시부터 경기고용노동청에서 열릴 예정이어서, 파업 직전 극적으로 합의에 이를 가능성도 남아 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IWBS33X3PNBQFIAHP5GDOIZUFE.jpg?auth=95501b4c9c72956d2045e40b2baff3d7b70b57dab2ca29a409e288dd6403b675&amp;smart=true&amp;width=4368&amp;height=2912" type="image/jpeg" height="2912" width="4368">
+        <media:description type="plain">2024년 8월 1일 오전 서울 한남동 이재용 삼성전자 회장 자택앞에서 전국삼성전자노조(위원장 손우목) 집행부가  기자회견을 열고 이재용 회장에게 무노조경영 폐기 약속을 지키고 , 파업 협상 결렬에 대한 책임을 질 것을 촉구했다./ 전기병 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">Jun Key Byong
+The Chosunilbo</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>할아버지 살해한 20대 여성 구속... 법원 “도망·증거인멸 염려”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/GYK6NYQEFJBONEFVSLSKHXSGKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/GYK6NYQEFJBONEFVSLSKHXSGKE/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 06:42:18 +0000</pubDate>
+      <content:encoded>할아버지를 흉기로 찔러 살해한 혐의를 받는 20대 여성이 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4TGZJQGNRDSMJTME4WKMLEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울북부지법은 20일 오전 10시 30분쯤 존속 살해 혐의를 받는 20대 여성 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 연 뒤 구속영장을 발부했다. 법원은 도망 염려, 증거인멸 우려가 있다고 판단했다.&lt;br&gt;&lt;br&gt;지난 18일 A씨는 서울 동대문구 답십리동에서 자신의 할아버지인 80대 남성 B씨를 흉기로 찔렀다. B씨는 곧바로 병원으로 옮겨졌으나 사건 당일 숨졌다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 사건 당일 A씨를 현행범 체포한 뒤 19일 구속영장을 신청했다. 경찰은 “구체적인 사건 경위를 수사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한일 지역경제 협력 포럼’ 20일 경북도청서 열려</title>
+      <link>https://www.chosun.com/national/regional/2026/05/20/FO77BFYXQBFRXFNHTXDRIWGU5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/20/FO77BFYXQBFRXFNHTXDRIWGU5A/</guid>
+      <dc:creator>안동=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 07:57:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZLBD5XVN5HCNH4VT4ZBAGGA2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한일 지역경제 협력 포럼./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동에서 열린 한일 정상회담을 계기로 한국과 일본 지역·기업 간 경제 협력 확대를 모색하는 ‘한일 지역경제 협력 포럼’이 20일 경북도청 동락관에서 열렸다. &lt;br&gt;&lt;br&gt;경북도, 대한상공회의소, 풍산그룹, 법무법인 대륙아주 등의 후원으로 열린 이날 포럼은 양국 지역 경제 네트워크를 강화하고 민간 중심의 투자·교류 기반을 확대하기 위해 마련됐다&lt;br&gt;&lt;br&gt;행사는 경북도와 안동시 기업인, 경제 전문가, 일본 기업인 등이 참석한 가운데 주제 발표, 패널 토론 등의 순서로 진행됐다. 이남억 경북도 공항투자본부장이 ‘한일 지역 협력과 균형 발전’을, 일본 측에서는 서재현 이비덴그라파이트코리아 대표가 한일 교류의 성공 사례와 미래 전략을 주제로 발표했다. 패널 토론에서는 첨단 소재 산업과 지역 투자 환경, 한일 기업 간 협력 확대 방안 등이 논의됐다.&lt;br&gt;&lt;br&gt;황명석 경북도지사 권한대행은 “경북은 반도체, 이차전지, 소형모듈원자로(SMR) 등 산업구조 재편을 통해 첨단전략산업의 거점이자 글로벌 초격차 미래산업의 중심지로 거듭나고 있다”며 “한일 정상회담을 계기로 일본 지역과 경제 교류는 물론 문화·관광 분야에서도 협력을 더욱 공고히 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 21일 목요일 (음력 4월 5일 乙未)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/OPT52ZY3XFEKJMEM2ASK2P3NBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/OPT52ZY3XFEKJMEM2ASK2P3NBE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경북도, 폐기 사과·참외로 ‘친환경 곤충 먹이’ 만든다</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/20/RIYUGFSZKNFATOUVNRTLT4ZVOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/RIYUGFSZKNFATOUVNRTLT4ZVOI/</guid>
+      <dc:creator>상주=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 07:50:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3TANBRHFSTOODFMMYGKNBYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 떨어진 사과와 품질이 낮은 참외 등 버려지는 농산물을 산업용 곤충의 먹이로 만드는 기술을 개발한다.&lt;br&gt;&lt;br&gt;경북도 잠사곤충사업장은 농촌진흥청과 함께 사업비 79억원을 투입해 ‘인공지능(AI) 기반 곤충 자원 맞춤 생산 및 산업화 기술 개발’을 추진하던 중, 세부 연구 과제로 ‘곤충 맞춤형 친환경 사료 개발’을 선정했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;낙과 사과, 비상품 참외 등 상품성이 낮아 폐기되는 농산물을 곤충 사료로 만들어 사육 농가에 공급하자는 게 골자다. 식·의약품에 쓰이는 곤충 사육 농가들의 비싼 사료 비용을 줄이고, 폐기 농산물도 친환경적으로 처리하기 위해서다.&lt;br&gt;&lt;br&gt;연구 1~3년 차에는 폐기 농산물을 활용한 곤충 맞춤형 사료를 개발한다. 영양 분석과 안전성 검증을 통해 엄선한 폐기 농산물을 먹이로 만들고, 이를 곤충에게 먹인 뒤 곤충의 생산성과 기능성 변화를 평가한다. 4~5년 차에는 개발된 사료를 실제 곤충 사육 농가에 공급해 생산비 절감 효과를 검증하고 자동 먹이 급여 시스템도 농가에 보급할 방침이다. &lt;br&gt;&lt;br&gt;박찬국 경북도 농축산유통국장은 “지역에서 발생하는 농업 부산물을 곤충 사료로 전환해 자원 낭비와 환경오염을 막고 농가 소득을 높이겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울시, 광장시장 ‘바가지요금·비위생행위’ 종합점검 실시 </title>
       <link>https://www.chosun.com/national/national_general/2026/05/20/XJ4DHFHPQBBOJJCZTE4BY3RLHI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/20/XJ4DHFHPQBBOJJCZTE4BY3RLHI/</guid>
@@ -789,36 +911,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBBRIA4MFVADNJUJK4IBSIEGC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 진주시의 진주남강유등축제. /진주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 진주시가 지역 대표 축제인 ‘진주남강유등축제’를 세계적인 축제로 키운다. 이 축제는 보령머드축제·안동국제탈춤페스티벌과 함께 지난 3월 문화체육관광부와 한국관광공사가 주관하는 ‘글로벌 축제’로 선정됐다. 유등(流燈)은 물 위에 띄우는 등불을 말한다.&lt;br&gt;&lt;br&gt;진주시는 지난 18일 문화체육관광부가 서울에서 개최한 ‘2026 글로벌 축제 공동 기획단 발대식’에 참가해 대한민국 대표 축제인 진주남강유등축제의 세계화 전략을 발표했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;발표에 나선 진주시 관광진흥과 축제팀장은 “지난해 160만여 명이 찾으며 체류형 축제로서 경쟁력을 입증했다”며 “현재 약 5000명 수준인 외국인 방문객을 올해 1만명까지 확대하고, 지속적으로 늘려 글로벌 축제로 도약하겠다”고 했다.&lt;br&gt;&lt;br&gt;이를 위한 세 가지 핵심 전략을 제시했다.&lt;br&gt;&lt;br&gt;먼저 언어 장벽을 낮춘 글로벌 수용 체계를 구축한다. 한국어 중심의 기존 축제 애플리케이션(앱)을 다국어 통합 플랫폼으로 전환한다. 또 GPS(위치 확인 시스템) 기반 실시간 정보 제공과 현장 다국어 키오스크 서비스를 도입한다. 외국인 전용 라운지와 동행 가이드도 운영해 관람 편의를 높일 계획이다.&lt;br&gt;&lt;br&gt;경남권을 묶은 체류형 관광을 추진한다. 산청한방약초축제, 함안 낙화놀이 등 도내 주요 10월 축제와 연계한 관광 패키지를 개발한다는 계획이다. 이를 위해 지난 4월 인근 지자체와 관광 활성화 협약도 체결했다.&lt;br&gt;&lt;br&gt;시장별 맞춤형 해외 홍보도 늘리기로 했다. 일본·대만·베트남 등 인바운드 여행사와 협력해 단체 관광객을 유치하고, 자유여행객은 글로벌 온라인 여행 예약 플랫폼(OTA)과 연계해 공략할 방침이다.&lt;br&gt;&lt;br&gt;사전 마케팅도 단계적으로 진행한다. 6월에는 인바운드 여행업계 설명회를 열어 상품을 구체화하고, 7~8월에는 글로벌 OTA 대상 현지 홍보에 나선다. 9월에는 외국인 인플루언서 팸투어와 국내 거주 외국인 SNS 홍보단을 운영할 계획이다. 진주시는 한국관광공사 등 중앙기관에 광역 관광 상품 설명회 개최와 해외 지사를 통한 공동 홍보를 건의하며 협력도 요청했다.&lt;br&gt;&lt;br&gt;진주남강유등축제는 진주의 역사성이 깃든 우리나라를 대표하는 야간 축제다. 진주 남강에 등을 띄우는 유등 행사는 임진왜란 당시 3대 대첩 중 하나인 ‘진주대첩’에 기원을 두고 있다. 축제 때는 남강과 진주성 일대에 유등 7만개를 밝혀 장관을 이룬다. 지난 2023년 문화체육관광부의 지역문화대상을 받은 데 이어 세계축제협회로부터 ‘2024년 아시아 야간형 축제(Asia Night Festival of 2024)’로 선정됐다. 지난 3월엔 글로벌 축제로 선정되면서 3년간 매년 8억씩 총 24억원의 국비를 지원받게 됐다.&lt;br&gt;&lt;br&gt;올해 유등축제는 10월 3일부터 18일까지 16일간 진주성과 남강 일원에서 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중노위원장 “삼전 노사, 양보 중... 합의 가능성 일부 있다”</title>
-      <link>https://www.chosun.com/national/labor/2026/05/19/7NZ3BB2WU5BHVP5NHTLBAIYPH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/19/7NZ3BB2WU5BHVP5NHTLBAIYPH4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 05:42:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PR7JPMGIANFUVJM3ZIGMT6I4PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수근 중앙노동위원장이 19일 오후 정부세종청사 중앙노동위원회에서 열린 삼성전자 노사 2차 이틀째 사후조정 회의에 들어가며 취재진으로부터 질문을 받고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 삼성전자 노사의 2차 사후조정이 진행 중인 가운데, 박수근 중앙노동위원회 위원장이 노사 합의 가능성을 언급했다.&lt;br&gt;&lt;br&gt;박 위원장은 이날 점심 휴게시간 뒤 회의장에 들어서면서 ‘조정안 제시 전 노사 합의 가능성이 있느냐’는 취재진 질문에 “될 가능성도 일부 있다”고 말했다.&lt;br&gt;&lt;br&gt;다만 핵심 쟁점에서는 여전히 이견이 남아 있는 것으로 보인다. 박 위원장은 “한두 가지 쟁점이 정리가 안 되고, 좁혀지지 않고 있다”며 “노사가 양보하지 않으면 안 된다”고 말했다. 이어 “오후에 대안을 제시하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;노사 양측은 성과급 제도화와 상한 폐지 등을 놓고 견해 차이를 좁히지 못하고 있는 것으로 전해졌다. 사후조정에서는 노사 합의가 이뤄지지 않을 경우 중노위가 양측 입장을 반영한 조정안을 제시한다. 그러나 노사 한쪽이라도 조정안에 동의하지 않으면 협상은 종료된다.&lt;br&gt;&lt;br&gt;2차 회의 이날 오후 7시에 종료될 예정이지만, 논의가 길어질 경우 종료 시각이 늦어지거나 총파업 전날인 20일까지 연장될 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사제 총기로 생일상 차려준 아들 살해한 60대… 항소심도 ‘무기징역’</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/19/CAB3O6V5SRHY7NGAIWQOMLI6HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/19/CAB3O6V5SRHY7NGAIWQOMLI6HY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 06:33:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSTSM3FMJSTKN3DMNSGKOLCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사제 총기로 아들을 살해한 60대 조모씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직접 만든 총기로 자신의 생일상을 차려준 아들을 살해하고 며느리와 손주 등을 살해하려 한 혐의를 받는 60대 남성에게 항소심에서도 무기징역이 선고됐다. &lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사1부(재판장 정승규)는 19일 살인, 살인미수, 총포·도검·화약류 등의 안전관리에 관한 법률 위반 등 혐의로 구속 기소된 조모(63)씨에 대한 항소심 선고 공판에서 피고와 검사의 항소를 모두 기각하고, 원심과 같은 무기징역을 유지했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “피고는 자신의 생일을 축하하던 자리에서 갑작스러운 총격으로 아들을 살해하고, 며느리와 어린 손자까지 살해하려 했다”며 “피해자들은 심한 정신적 충격을 받았고 엄벌을 탄원하고 있다”고 했다. &lt;br&gt;&lt;br&gt;또 “수사 과정에서 (집을) 태워 전처의 흔적을 없애고 싶었다고 진술하고 범행 도구를 준비하는 등 집을 태워 없애려는 동기가 있었다고 보인다”며 “피고인의 범행 계획성과 규모 등을 감안하면 죄질이 극히 불량하고 죄책 또한 매우 무겁다”고 했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “이 법원에서 양형을 변경할 만한 특별한 사정은 없다”며 항소 기각 사유를 설명했다. &lt;br&gt;&lt;br&gt;앞서 검찰은 양형 부당을, 조씨는 사실오인과 양형 부당을 이유로 각각 항소했다.&lt;br&gt;&lt;br&gt;조씨는 지난해 7월 20일 오후 9시 31분쯤 인천 연수구 송도동 모 아파트 33층 집에서 직접 만든 총기로 산탄 2발을 발사해 아들 A(33)씨를 살해한 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;조씨는 당시 집에 함께 있던 며느리와 손주 2명, 외국인 가정교사 등 4명도 총기로 살해하려 한 혐의를 받았다.&lt;br&gt;&lt;br&gt;조씨는 총에 맞은 A씨가 벽에 기대 살려달라고 애원했음에도 한 차례 더 쏴 살해한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;조씨는 자신이 살던 서울 도봉구 쌍문동 아파트 자택에 시너가 든 페트병 등 인화성 물질 15개와 점화 장치를 설치해 범행 다음 날 폭발시키려 한 혐의도 받는다. &lt;br&gt;&lt;br&gt;조씨는 2024년 8월부터 범행을 계획하고 유튜브로 총기와 자동 발화 장치 제조법 등을 익힌 것으로 파악됐다. &lt;br&gt;&lt;br&gt;조씨는 자신의 성폭력 범행으로 2015년 이혼한 뒤, 일정한 직업 없이 전처와 아들로부터 장기간 경제적 지원을 받으며 생활하다 2023년 말 지원이 끊기자 앙심을 품고 범행한 것으로 드러났다. &lt;br&gt;&lt;br&gt;검찰은 조씨가 전처와 아들이 자신을 속이고 고립시킨다는 망상에 빠져 전처가 아끼는 아들과 그 가족을 살해해 복수하려 한 것으로 봤다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 미스코리아眞 출신 김연주, 고려대 교수됐다</title>
-      <link>https://www.chosun.com/national/education/2026/05/19/2574NJU2RVGNLIXOOB72FJENKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/19/2574NJU2RVGNLIXOOB72FJENKA/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 04:52:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4OFBK43PBFYNNUIFZF7VGKN54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미스코리아 진 출신 배우였던 김연주(46)씨가 고려대 통계학과 교수로 임용됐다.&lt;br&gt;&lt;br&gt;19일 고려대에 따르면, 김 교수는 지난 3월 서울캠퍼스 통계학과 전임 교원으로 임용됐다. 김 교수는 인간-컴퓨터 상호작용(HCI) 분야 연구를 맡아, 학부생 대상으로 ‘통계 계산 소프트웨어’ 과목 수업을 진행 중이다. &lt;br&gt;&lt;br&gt;김 교수는 1999년 미스코리아 진에 선발됐고 이후 배우 활동을 했다. 2003년 단국대 연극영화과를 졸업한 후 2013년 동 대학원 석사 학위를 취득했다. 이어 2019년 단국대 커뮤니케이션학과에서 박사를 마쳤다. 2022년부터 2025년까지 서울대 언론정보연구소에서 선임 연구원으로 지내며 연구 활동을 했다. AI(인공지능) 팩트체크, 메타버스 광고에 대한 소비자 반응 등을 주제로 논문을 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCF6X4U5RNFP3KHA4IKVQXHSPU.png"&gt;&lt;figcaption&gt;&lt;small&gt;김연주 고려대 통계학과 교수./고려대 정경대학 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 교수는 고려대의 ‘2026학년도 전기 연구 중점 교수 초빙 공고’에 지원해 임용됐다. 지원 자격은 ‘박사 학위 소지자’ ‘영어 강의가 가능한 자’이다. 1년 계약 뒤 평가를 거쳐 2년 계약제로 재임용하는 ‘비정년 트랙’이다. 3회 이상 재임용되면 정년 트랙 초빙에서 우대한다.&lt;br&gt;&lt;br&gt;김 교수는 통계학과의 ‘사회과학을 위한 데이터과학’ 분야 초빙에 지원해 합격했다. 이번 초빙은 통계학과, 경영학과, 식품공학과 등 10명을 대상으로 진행됐다. 고대 측에 따르면 연구 중점 교수는 우수한 연구 업적, 강의 능력, 전공과의 적합성 등을 종합적으로 고려해 선발한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7GVTNUGN2NK2S6QNW6UMLUTBJU.jpg?auth=25be425232892054ab25a4b050b1cec2ab956a31b26a0a3c1c57eab0b194bb2b&amp;smart=true&amp;width=540&amp;height=649" type="image/jpeg" height="649" width="540">
-        <media:description type="plain">배우 김연주</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>노벨상 여성 과학자 4명, 과기한림원 외국인회원 선출 </title>
       <link>https://www.chosun.com/national/people/2026/05/19/SL3I5FRUJZEXXB7PDJZZ4T6GBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/19/SL3I5FRUJZEXXB7PDJZZ4T6GBA/</guid>
@@ -835,74 +927,6 @@
       <description/>
       <pubDate>Tue, 19 May 2026 06:10:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDINTGMRTDAMBYGQ4DSYZTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김대기 전 대통령 비서실장이 지난 15일 윤석열 정부의 대통령실 및 관저 이전 특혜 의혹 관련 피의자 조사를 받기 위해 경기 과천 2차 종합특검 사무실로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합 특검은 19일 윤석열 정부 대통령실 관저 이전 의혹과 관련해 직권남용 혐의로 김대기 전 대통령실 비서실장, 윤재순 전 총무비서관, 김오진 전 관리비서관의 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;특검은 “관련 부처의 반발이 있었는데도 김 전 실장 등의 지시에 따라 대통령 관저와 무관한 행정안전부 정부청사관리본부의 예산이 불법 전용된 사실을 확인했다”면서 “범죄의 중대성, 증거인멸의 우려, 추가 수사의 필요성 등을 종합적으로 고려해 구속영장을 청구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘노상원 비화폰 지급’ 김용현 前국방장관 1심 징역 3년</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/19/XWCIC2226FGLPHQKPJKLAKRDNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/19/XWCIC2226FGLPHQKPJKLAKRDNI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 05:17:03 +0000</pubDate>
-      <content:encoded>서울중앙지법 형사34부(재판장 한성진)는 19일 12·3 비상계엄 당시 민간인 신분이던 노상원 전 국군정보사령관에게 비화폰을 지급하고, 비상계엄 관련 자료를 없애라고 지시한 혐의 등을 받는 김용현 전 국방장관에게 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSGENRZHE4TAZJUHA2DQYZTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 비상계엄 선포 전날인 2024년 12월 2일 대통령경호처가 관리하던 비화폰을 노 전 사령관에게 건넨 혐의(위계공무집행방해)를 받는다. 김 전 장관에겐 비상계엄이 국회 의결로 해제된 뒤인 같은 달 5일, 수행비서 역할을 한 양모씨에게 계엄 관련 자료가 담긴 것으로 추정되는 노트북과 서류 더미 등 증거 폐기를 지시한 혐의(증거인멸교사)도 적용됐다.&lt;br&gt;&lt;br&gt;재판부는 두 혐의를 모두 유죄로 인정했다. 비화폰 지급 혐의에 대해 재판부는 “피고인은 국방장관이자 전직 대통령경호처장으로서 비화폰 운영 취지를 잘 알 것이라는 관계자 진술이 있다”며 “피고인의 요청으로 비화폰이 노 전 사령관에게 제공돼 위계에 의한 공무집행방해가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;증거인멸 교사 혐의에 대해 재판부는 “피고인은 직접 작성한 계엄 선포문을 노트북에 저장하지 않았다고 하나 이는 매우 이례적”이라고 지적했다. 재판부는 또 “피고인은 노 전 사령관에게 ‘부정선거 수사단’ 구성과 관련한 국군정보사령부 요원 명단을 USB로 넘겨받았는데, 이를 노트북에 복사해 저장했을 가능성이 커 보인다”며 “이런 자료들이 국방장관 공관 압수수색 당시 발견되지 않은 점을 고려하면 증거인멸 교사 혐의가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 높은 직무윤리가 요구되는 국방장관이었음에도 지위를 이용해 공무집행방해를 저질렀고, 증거인멸을 교사해 비상계엄을 둘러싼 실체적 진실 발견이 어려워졌다”고 지적했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 판결 선고 직후 언론 공지를 통해 항소하겠다는 방침을 밝혔다. 김 전 장관 변호인단은 “조은석 내란 특검이 처음 기소한 이 사건은 구속 기간 만료를 막기 위해 수사도 없이 급조한 것”이라며 “위법한 공소제기를 그대로 받아들인 1심 재판부 판단에 불복한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>회사 내부 자료 4만 여건 삭제하고 퇴사한 출판업체 임원, 검찰 보완수사로 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/19/KYL43NBLABFIPM2ERIOYTVKCEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/19/KYL43NBLABFIPM2ERIOYTVKCEI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 05:32:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3TANZXMY4GKZDCMRRTEZBWGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사3부(부장 김호경)는 회사 내부 자료를 삭제하고 퇴사한 출판업체 임원 40대 A씨를 업무방해 혐의로 지난 14일 불구속 기소했다고 19일 밝혔다. 검찰은 경찰이 불송치한 사건을 직접 보완 수사해 혐의를 밝혀냈다고 한다.&lt;br&gt;&lt;br&gt;A씨는 2024년 11월 퇴사하는 과정에서 밀린 월급에 앙심을 품고 회사 컴퓨터에 저장된 업무 자료를 삭제했다는 혐의로 서울 서초경찰서에 고소당했다. A씨는 “자료가 자동으로 날아갔을 뿐 일부러 삭제한 게 아니다”라는 입장을 취했다고 한다. A씨를 고소한 업체 대표 B씨는 경찰에 “컴퓨터 포렌식 등을 통해 A씨 혐의를 밝혀달라”고 요구했지만, 경찰은 “이런 사건에선 디지털 포렌식을 하지 않는다”고 거절했다고 한다. 경찰은 작년 5월 사건을 불송치했고, A씨가 자료를 삭제했는지 여부가 입증되지 못한 채 수사가 종결됐다.&lt;br&gt;&lt;br&gt;B씨는 경찰 수사 결과에 불복해 같은 해 7월 이의 신청을 했고, 검찰은 같은 달 수사를 개시했다. 컴퓨터 포렌식 등을 통한 검찰 수사 결과, A씨는 거래처 연락처·홈페이지 접근 권한 자료 등 회사 내부 자료 4만8000건을 삭제한 것으로 드러났다.&lt;br&gt;&lt;br&gt;검찰은 “향후에도 충실한 보완 수사를 통해 경찰 수사의 미비점을 보완하고, 피해 입은 국민들의 억울함이 없도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5·18단체, ‘탱크데이’ 논란 스타벅스 사과 거부…“꼬리 자르기식 해명 납득 못 해”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/19/H4BITRRSUREJDFHU4MKLOO475M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/19/H4BITRRSUREJDFHU4MKLOO475M/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 02:24:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIRBJIZOAVF4RE34HQ7E3QBEB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스타벅스코리아가 18일 46주년을 맞은 5·18민주화운동 기념일에 '탱크 데이' 이벤트를 진행한 데 대해 사과하고 행사를 즉각 중단했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5·18 단체들이 올해 5·18 기념식이 열린 날 ‘탱크데이’ 폄훼 논란을 부른 스타벅스코리아의 사과를 거부했다. 5·18 피해자들을 울린 이벤트를 열게 된 구체적 경위 설명이 없는 사과는 받아들일 수 없다는 입장이다.&lt;br&gt;&lt;br&gt;5·18 기념단체와 5·18 공법 3단체(민주유공자유족회·부상자회·공로자회)는 19일 “기업 차원의 대국민 사과와 탱크데이 이벤트가 추진된 구체적 경위 설명 없이는 신세계그룹이나 스타벅스코리아 측과 만나지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;신세계그룹 계열사 스타벅스코리아는 지난 18일 오전 ‘탱크 시리즈’ 텀블러 판매 이벤트를 했다. 온라인으로 게재된 홍보물에서 ‘탱크데이’라는 문구와 함께 ‘5/18’ 날짜를 표기했다. ‘책상에 탁!’이라는 표현도 썼다.&lt;br&gt;&lt;br&gt;지난 18일 광주광역시 동구 금남로 옛 전남도청 앞에서 제46주년 5·18 민주화운동 기념식이 열렸다. 5월 18일에 맞춘 스타벅스의 이벤트를 두고 1980년 5월 광주에 투입된 계엄군의 무력 진압과 고(故) 박종철 열사의 고문치사 사건을 연상시킨다는 비판이 제기됐다.&lt;br&gt;&lt;br&gt;신세계그룹이 스타벅스코리아를 대신해 19일 오전 10시 5월 단체 대표자들을 만나 사과를 하려 했지만, 각 단체는 만남을 거부하기로 입장을 모았다.&lt;br&gt;&lt;br&gt;김태찬 5·18부상자회 부회장은 “특정한 날에 특정한 행위를 연상케하는 용어를 썼다. 꼬리 자르기식으로 젊은 사람이 했다는 해명은 합리적이지 않다”며 “명확한 경위 설명을 하지 않는 이상, 스타벅스코리아의 노이즈 마케팅이란 의구심도 든다”고 말했다.&lt;br&gt;&lt;br&gt;정용진 신세계그룹 회장은 이날 본인 명의 대국민 사과문을 통해 “신세계그룹 계열사인 스타벅스코리아가 있어서도 안 되고 용납될 수도 없는 부적절한 마케팅을 진행했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “5·18 민주화운동 영령과 유가족, 그리고 국민 여러분께 깊은 상처를 드렸다. 그룹을 대표해 머리 숙여 사죄드린다”고 했다. 정 회장은 전날 저녁 손정현 스타벅스 코리아 대표를 경질했다. 하지만 5월 단체들은 기업 차원의 공식적인 대국민 사과를 요구하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NMR4JGEINPEBBLBCR336IH6CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스타벅스 코리아가 5·18폄훼 이벤트로 물의를 빚고 있는 가운데 김수완 신세계그룹 부사장이 19일 광주 서구 쌍촌동 5·18기념문화센터를 찾아 입장을 밝히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김수완 신세계그룹 부사장이 5·18 단체와 만남이 불발된 직후 취재진 앞에서 현재까지 파악된 탱크데이 이벤트 경위에 대해 밝혔다.&lt;br&gt;&lt;br&gt;김 부사장은 5/18이라는 날짜를 쓴 이유에 대해 “날짜별로 진행되는 3가지 텀블러 행사였고 텀블러의 공식 명칭이 ‘탱크 텀블러’였다”며 “이벤트 최종 결재권자는 대표였다. 부적절한 마케팅을 진행한 경위는 면밀히 파악 중”이라고 설명했다.&lt;br&gt;&lt;br&gt;5월 단체들이 갖는 노이즈 마케팅 의심에 대해서는 “노이즈 마케팅 의도는 없었다”고 해명했다.&lt;br&gt;&lt;br&gt;이어 경위 파악 전 대표를 경질한 이유에 대해서는 “이 사안을 중대하게 보기 때문에 대표를 해임해야 한다고 봤다”며 “경위 파악보다 사과가 먼저라고 생각해서 5월 단체를 찾았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JIRBJIZOAVF4RE34HQ7E3QBEB4.jpg?auth=132d2735837e1eb2b77dbd0b4e92f77009280171d8cc931625bc402ce943e3b4&amp;smart=true&amp;width=578&amp;height=385" type="image/jpeg" height="385" width="578">
-        <media:description type="plain">스타벅스코리아가 18일 46주년을 맞은 5·18민주화운동 기념일에 '탱크 데이' 이벤트를 진행한 데 대해 사과하고 행사를 즉각 중단했다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>北 내고향여자축구단 “공동응원단, 우리가 생각할 문제 아냐... 경기만 집중”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/19/VNT2CH647VD2VMM6OEVSMDHWRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/19/VNT2CH647VD2VMM6OEVSMDHWRA/</guid>
-      <dc:creator>수원=김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 03:17:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSPS3JJJBFDJLKVA3D364WOVT4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 AFC(아시아축구연맹) 여자 챔피언스리그 파이널 기자회견에 나선 북한 내고향여자축구단 리유일 감독. /대한축구협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AFC(아시아축구연맹) 여자 챔피언스리그 파이널(준결승·결승) 참가를 위한 방한한 북한 내고향여자축구단 감독과 주장이 수원FC위민과의 준결승전을 하루 앞둔 19일 공식 기자회견에 나섰다. 이들은 남북 관계 등 축구와 관련 없는 정치적 질문을 피하면서 “내일 경기에 집중하겠다”는 원론적인 답변만 했다.&lt;br&gt;&lt;br&gt;내고향여자축구단 리유일 감독은 조별리그에서 3대0 승리를 거뒀던 수원FC위민을 4강전에서 다시 만나는 것에 대해 “감독으로서 이 팀이 어느 정도 실력인지 알 수 있을 뿐, 대결을 펼친 적이 있다고 해서 누가 강하고 약하다고 말할 순 없다”며 “내일 경기에서 성과를 내기 위해 최선을 다할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;대북 시민단체 등이 3000여명 규모로 구성한 남북 공동응원단에 대해선 “우리가 여기에 온 것은 철저하기 경기를 위한 것”이라며 “응원단은 감독과 선수들이 생각할 문제는 아니다. 오직 경기에만 집중하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHH7OHUZMFGZXCBKH4GKJFYBIQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 AFC(아시아축구연맹) 여자 챔피언스리그 파이널 기자회견에 나선 북한 내고향여자축구단 주장 김경영. /대한축구협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주장 김경영은 더욱 구체적인 답변을 피하는 모습이었다. 그는 “팀의 주장으로서, 공격수로서 팀 승리를 위해 최선을 다하겠다”며 “부모형제의 믿음과 기대에 화답하기 위해 전력을 다할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;수원FC위민과 내고향여자축구단은 20일 수원종합운동장에서 대회 4강전을 벌인다. 승자는 23일 멜버른시티-도쿄 베르디 승자와 결승전을 펼친다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 특검, ‘계엄 가담 의혹’ 김명수 전 합참의장 27일 소환 통보</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/19/QLVBYQKSDJCETEPPUYKB2NZAX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/19/QLVBYQKSDJCETEPPUYKB2NZAX4/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 01:51:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VZLKNXL7ZAA5EIFMPEACYQNXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김명수 전 합동참모본부 의장. /국회사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검이 김명수 전 합동참모본부 의장에게 오는 27일 내란 중요 임무 종사 혐의 피의자 신분으로 출석해 조사받으라고 통보했다. 특검이 김 전 의장에게 소환을 통보한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;김 전 의장은 12·3 비상계엄 당시 합참 지휘통제실에서 군이 국회 등에 투입되는 상황을 인지한 뒤에도 계엄사령부 구성에 참여하는 등 계엄에 가담한 혐의를 받는다. 또 김 전 의장은 계엄 당시 육군 특수전사령부와 수도방위사령부에 ‘계엄 사무를 우선하라’는 취지의 단편명령을 내렸다는 의혹도 받는다.&lt;br&gt;&lt;br&gt;앞서 특검은 합동참모본부 지휘부의 비상계엄 가담 의혹을 ‘1호 인지 사건’으로 규정하고 합참 김 전 의장, 정진팔 전 차장, 강동길 전 군사지원본부장, 이승오 전 작전본부장, 안찬명 전 작전부장, 이재식 전 전비태세검열차장과 김흥준 육군본부 정책실장 등 7명을 피의자로 입건했다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 지난 8일 안 전 작전부장을, 지난 15일 강 전 군사지원본부장을 피의자 신분으로 소환해 조사했다. &lt;br&gt;&lt;br&gt;특검은 김 전 의장이 연루된 ‘2차 계엄 시도 의혹’도 수사 중이다. 특검은 전·현직 합참 관계자를 조사해 “국회 계엄 해제 요구 결의안 통과 후 합참에 추가 병력 투입 요청이 있었다”는 취지의 진술을 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 내란 특검은 합참 관계자들을 여러 차례 불러 조사했지만, 그들의 계엄 관여 정황을 확인하지 못해 기소하지 않았다. 당시 내란 특검은 김 전 의장에게 비상계엄을 막지 못했다는 직무유기 혐의로 입건하는 방안도 검토했지만, 혐의 입증이 어렵다고 보고 김 전 의장을 입건하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 특검은 이날 오전 이진우 전 육군 수도방위사령관을 피의자 신분으로 불러 조사 중이다. 이 전 사령관은 비상계엄 당시 병력을 투입해 국회 봉쇄를 지시한 데 대해 군형법상 반란 혐의를 받는다. 앞서 특검은 지난 14일 곽종근 전 육군 특수전사령관도 같은 혐의 피의자 신분으로 소환해 조사한 바 있다.&lt;br&gt;&lt;br&gt;또 특검은 오는 22일 이승오 전 작전본부장에 대해 내란 혐의 피의자 조사를 진행할 계획이다. 특검은 이 전 본부장을 상대로 ‘평양 무인기 침투 의혹’ 등 외환 혐의도 살펴볼 것으로 전해졌다. 앞서 내란 특검은 무인기 침투 의혹과 관련해 이 전 본부장을 수차례 조사했지만, 지난해 11월 불기소(무혐의) 처분을 내렸다.&lt;br&gt;&lt;br&gt;평양 무인기 침투 의혹은 윤 전 대통령이 비상계엄 선포 명분을 만들기 위해 드론작전사령부가 2024년 10~11월 평양 등 북한에 무인기를 보내도록 했다는 내용이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘항공사 기장 살해’ 김동환, 첫재판서 국민참여재판 신청</title>
-      <link>https://www.chosun.com/national/regional/2026/05/19/GSWMYLIGGFAAXA74FI67UWCDL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/19/GSWMYLIGGFAAXA74FI67UWCDL4/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 05:03:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JENCL7JOZNAM3ARZI4UEG2DUQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항공사 동료 기장을 흉기로 살해한 혐의를 받는 전직 부기장 김동환(49)이 20일 오후 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 항공사 기장을 흉기로 찔러 살해한 혐의로 재판에 넘겨진 김동환(49)이 첫 공판에서 국민참여재판을 희망한다는 의사를 밝혔다. 또 경찰에 신변 보호를 요청했던 전 직장 동료 명단을 조회해 달라고 요청했다.&lt;br&gt;&lt;br&gt;부산지법 형사7부(재판장 임주혁)는 19일 오전 살인 등 혐의로 구속 기소된 김동환의 첫 공판준비기일을 열었다. 공판준비기일은 본격적인 재판에 앞서 쟁점과 증거 관계를 정리하기 위한 절차다.&lt;br&gt;&lt;br&gt;연두색 수의를 입고 법정에 들어선 김동환은 재판장이 국민참여재판 희망 여부를 묻자 “네, 맞습니다”라고 말했다.&lt;br&gt;&lt;br&gt;김동환 측은 공소사실에 대해 인정하고, 증거도 모두 동의한다고 밝혔다. 또 자신의 공제회 소송을 담당했던 변호사 1명과 항공사 기장 4명을 증인으로 신청했다. 아울러 경찰에 신변 보호를 요청했던 항공사 기장 명단에 대해 사실조회를 신청하겠다고 했다.&lt;br&gt;&lt;br&gt;김동환은 반성문을 한 건도 제출하지 않았다. 반면 피해자의 동료들은 김동환의 엄벌을 요청하는 탄원서 56장을 제출했다.&lt;br&gt;&lt;br&gt;재판부는 김동환이 신청한 증인 채택 여부 등을 검토하겠다고 밝혔다. 다음 기일은 다음 달 16일로 지정됐다.&lt;br&gt;&lt;br&gt;김동환은 지난 3월 16일 오전 4시 50분쯤 부산 부산진구 한 아파트에서 택배 기사로 위장해 침입한 뒤 항공사 기장 A씨를 흉기로 살해한 혐의를 받는다. 또 전날 오전 4시쯤 경기 고양시 한 아파트에서도 택배 기사로 위장해 침입한 뒤 항공사 기장 B씨를 살해하려다 미수에 그친 혐의도 받는다. &lt;br&gt;&lt;br&gt;그는 작년 8월부터 올 3월까지 범행 도구를 구입하고, 피해자 미행 및 주거지 답사 등을 통해 또 다른 항공사 기장 4명을 살해할 계획을 세운 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김관영, 이원택 추월... 민주 텃밭 전북 비상</title>
-      <link>https://www.chosun.com/politics/election2026/2026/05/19/7A6PXBAP7FARDDPPZAEDCPEZIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/05/19/7A6PXBAP7FARDDPPZAEDCPEZIU/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 May 2026 00:27:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RIPPXSGM5NKFBDNQEEHEZKIZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북지사 선거에 출마한 김관영(왼쪽) 무소속 후보와 이원택 더불어민주당 후보가 14일 전북 전주시 전북선거관리위원회에서 후보 등록을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북지사 선거에서 무소속 김관영 후보와 더불어민주당 이원택 후보가 오차 범위 안에서 접전을 벌이고 있다는 여론조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4I6RSIN7JHVJC7ARTSKR3AOW4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새전북신문 의뢰로 여론조사 업체 한길리서치가 지난 16~17일 시행해 18일 공개한 여론조사 결과에 따르면, 전북지사 지지도 조사에서 무소속 김관영 후보가 42.1%, 민주당 이원택 후보가 40.5%를 기록했다. 양정무 국민의힘 후보는 4.9%, 무소속 김성수 후보는 2.7%, 진보당 백승재 후보는 2.4%였다. 지지하는 후보가 없다는 응답자는 3.6%, 잘 모르겠다고 답한 사람은 3.9%였다.&lt;br&gt;&lt;br&gt;김관영·이원택 후보 간 지지율 격차는 1.6%포인트(p)로, 오차 범위(±3.1%p) 안이었다.&lt;br&gt;&lt;br&gt;지난달 30일~이달 1일 시행한 조사 때는 이 후보가 39.6%, 김 후보가 36.6%였다. 이때보다 이 후보는 0.9%p 올랐지만, 김 후보는 5.5%p 올라, 오차 범위 안에서 1·2위가 바뀌었다. 조원씨앤아이·뉴스1이 이달 9~10일 시행한 조사에서도 김 후보가 43.2%, 이 후보가 39.7%였다.&lt;br&gt;&lt;br&gt;새전북신문·한길리서치의 16~17일 조사는 전북에 사는 18세 이상 1001명을 대상으로 무선 전화 ARS 방식으로 진행됐고, 응답률은 8.5%였다. 지난달 30일~이달 1일 조사는 전북에 사는 18세 이상 1003명을 대상으로 무선 전화 ARS 방식으로 진행됐고, 응답률은 7.0%였다. 뉴스1·조원씨앤아이의 9~10일 조사는 전북에 사는 18세 이상 1000명을 대상으로 무선 전화 ARS 방식으로 진행됐고, 응답률은 14.8%였다. 각 조사의 표본 오차는 95% 신뢰 수준에서 ±3.1%p였다. 각 조사의 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZK2L4AGLIBBPLK34EXKRFMOSMI.gif?auth=8e50c62908fd7677d43bd00f132148bdbca630ac99d34165a1fac58724f620e6&amp;smart=true&amp;width=590&amp;height=332" type="image/jpeg" height="332" width="590"/>
     </item>
     <item>
       <title>내일 전국에 많은 비...더위 한풀 꺾여</title>
@@ -923,15 +947,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WJ5BGXGDDC5ZQKL75LEXDGVLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대통령 탄핵심판 증인 출석한 김용현 전 국방부장관. 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관 측이 내란전담재판부 구성이 위헌 법률에 따라 이뤄졌다며 위헌법률심판 제청 신청을 한 것에 대해 법원이 “전문성과 역량 등을 고려한 것”이라며 신청을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;19일 서울고법에 따르면 내란전담재판부인 형사12-1부(재판장 이승철)는 김 전 국방부 장관이 ‘내란·외환·반란 범죄 등의 형사절차에 관한 특례법(내란전담재판부법)‘에 대해 낸 위헌법률심판제청 신청을 기각·각하했다. 김 전 장관 측은 지난달 21일 내란전담재판부 구성 과정이 공정하거나 객관적이지 않다며 위헌법률심판 제청 신청서를 재판부에 냈다. &lt;br&gt;&lt;br&gt;우선 재판부는 서울고법 내란전담재판부가 내란 사건의 항소심 재판을 담당하는 걸 위헌이라고 볼 수 없다고 봤다. 재판부는 “대상 사건은 성격상 재판의 통일성을 확보하고, 전문성 강화와 절차의 효율성 및 사회적 공익 등을 제고할 필요성이 크다”고 했다. 그러면서 서울중앙지법 내란전담재판부가 전속 관할로 내란 재판을 담당하는 이상 항소심 재판을 서울고법에서 관할하기로 정한 것 역시 위헌으로 볼 수 없다고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법과 서울고법에 내란전담재판부를 각 2개 이상 설치하고 재판부 구성 기준 등을 마련하도록 정한 내란전담재판부법 7조와 8조에 대해서도 문제가 없다고 봤다. 재판부는 “구체적인 전담재판부 구성은 법원 자체적으로 판사회의 및 사무분담위원회를 통해 구성하도록 하고 있다”며 “각 규정이 법원의 사법권을 본질적으로 침해하거나 법관의 독립을 과도하게 제한한다고 보기는 어렵다”고 했다. 내란전담재판부 구성이 입법부의 개입으로 선별된 결과라고 볼 여지도 없다고 덧붙였다.&lt;br&gt;&lt;br&gt;재판 중계를 의무화한 11조에 대해선 국민의 알 권리 보장 및 실질적인 재판 공개 원칙의 실현이라는 공익 목적 달성을 위해 필요하다고 판단했다. 재판부는 “신청인이 우려하는 피고인과 변호인의 방어권 행사 위축, 여론을 의식한 증인들의 진술 번복, 여론에 따른 재판부의 결론 강요 등은 객관적 근거가 없는 막연한 우려에 가깝다”며 “재판 중계에 필연적으로 수반되는 사정으로 보기 어렵다”고 짚었다. &lt;br&gt;&lt;br&gt;재판부는 이 외에도 김 전 장관 측이 문제라고 본 일부 조항은 수사 단계 또는 1심 재판에 적용되는 규정이라며 각하했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>비슷한 무단횡단 사고, 위자료는 7배차… AI 활용해 ‘공식’ 세운다</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/19/7KFAXOGT7NCTNAZZHHTDA3M75E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/19/7KFAXOGT7NCTNAZZHHTDA3M75E/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 May 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUQTVR4GPQRWOMBXZBZLYT6TVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2018년 10월 25일 오전 서울광장에서 경찰청 주최 '제1회 어르신 안전보행 다짐대회'가 열리면서 노인 분장을 한 스턴트맨이 무단횡단의 위험성을 알리기 위해 사고 상황을 가정해 재현하고 있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2020년 7월 서울 은평구에서 자전거를 타고 무단횡단하던 A씨는 마주오던 승용차와 충돌해 숨졌다. 승용차 운전자는 제한속도를 초과해 달리다 사고를 냈다. 서울중앙지법은 1심에서 운전자 측이 A씨 유족에게 위자료 4400만원을 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;2년 뒤인 2022년 12월 충남 아산시에서도 무단횡단을 하던 보행자 B씨가 과속해 달려오는 전세버스에 치여 숨졌다. 수원지법은 1심에서 전세버스 회사가 B씨 유족에게 위자료 약 3억2000만원을 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;두 사건 모두 재판부는 “운전자가 전방 주시 의무를 지키지 않아 사망 사고가 발생했다”고 판단했다. 하지만 유족에게 지급할 위자료 액수는 7.2배가량 차이가 났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBFHZSSCIZCF5JTIUZUFVLOS2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 들쭉날쭉한 위자료 기준이 조만간 통일되고 액수도 현실화될 것으로 보인다. 대법원 법원행정처는 올 초부터 위자료 산정 체계를 전면 개편하는 연구를 진행 중인 것으로 18일 알려졌다. 손해배상 사건 경험이 많은 한 판사는 “비슷한 사건인데도 재판부마다 위자료를 다르게 결정하는 것은 법원 내부적으로 뚜렷한 기준이 확립돼 있지 않기 때문”이라며 “유족이나 변호사들 사이에서 사망 위자료가 최소 10억원은 돼야 한다는 의견이 많은데, 현재 위자료는 현실을 반영하지 못하고 있다”고 했다. &lt;br&gt;&lt;br&gt;법원행정처의 위자료 산정 기준에 대한 연구는 박혜진 한양대 로스쿨 교수가 책임 연구원을 맡고, 경제학 전공 강성만 성균관대 교수와 AI 전문가 황원석 서울시립대 교수도 참여했다. 연구팀은 AI가 판결문을 자동으로 읽고 분석하는 도구를 개발해 10~15년 치 판결문을 분석 중이다. 그동안 법원에서 위자료 산정이 어떻게 이뤄졌는지 파악하려는 것이다.&lt;br&gt;&lt;br&gt;현재 법원이 위자료를 산정하는 기준은 2016년 대법원이 공표한 ‘불법행위 유형별 적정한 위자료 산정 방안’이 유일하다. 판사들 사이에선 이 기준은 이미 유명무실해졌다는 평가가 많다. 한 부장판사는 “2016년 산정 방식에는 위자료 액수가 어떻게 정해졌는지 구체적인 설명이 없다”며 “교통사고 사망 피해자 위자료 기준 금액은 1억원인데, 왜 1억원인지 알 수 없게 돼 있다”고 했다. 연구팀은 이 기준이 실제 재판에서 얼마나 활용됐는지 살펴보고 있다.&lt;br&gt;&lt;br&gt;2024년 6월 학교장과 학부모 회장의 폭언에 시달리다 극단적 선택을 한 교육청 장학사의 유족은 가해자들로부터 위자료 3000만원을 받았다. 그러나 2019년 12월 직장 동료들의 괴롭힘으로 스스로 생을 마감한 콜센터 직원의 유족은 위자료로 1억9000만원을 받았다. 같은 직장 내 괴롭힘 사건이지만 배상액은 약 6.3배 차이 났다.&lt;br&gt;&lt;br&gt;이 같은 문제를 해결하기 위해 연구팀은 판결문 분석이 끝나면 ‘고통의 가치’를 측정할 계획이다. 의료·복지 분야에서 삶의 가치를 돈으로 환산할 때 쓰는 보건경제학 방법론을 활용하겠다는 것이다. 여기에는 ‘삶의 질 보정 생존 연수(QALY·Quality-Adjusted Life Year)’ 지표가 활용된다. 이 지표는 개인이 입은 손해, 건강 상태 등이 삶의 질에 미치는 영향을 0(사망)~1(완전한 건강) 사이 수치로 정량화한 것이다. 예컨대 1년을 완전한 건강 상태로 살면 1, 극심한 통증을 안고 산다면 0.5, 사망하면 0으로 계산하는 식이다. 연구팀은 이 수치를 토대로 정신적 고통이 얼마나 삶의 질을 떨어뜨리는지 측정하고, 이를 위자료 액수로 환산하는 방법을 개발할 계획이다. 이 과정에서 뇌과학·심리학·MRI(자기공명영상)를 이용한 뇌 분석 연구도 함께 진행한다.&lt;br&gt;&lt;br&gt;이번 연구 결과는 이르면 8~9월쯤 나올 것으로 보인다. 판사들로 구성된 대법원 손해배상소송연구회가 연구 결과를 토대로 새 위자료 산정 기준을 마련할 계획이다. 이를 위해 손해배상소송연구회는 판사 35인으로 구성된 태스크포스(TF)를 꾸렸다.&lt;br&gt;&lt;br&gt;과학적 방법을 적용해 위자료를 산정하는 경우는 다른 나라에서도 보기 드물다고 한다. 현재 유럽 몇 나라에 위자료 산정 기준은 있지만 물가 상승률을 반영하는 수준에 그친다. 박혜진 교수는 “이번 연구로 위자료 산정의 객관성과 예측 가능성을 높여 시대 변화에 맞는 배상 기준을 마련할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>바르뎀, 트럼프·푸틴·네타냐후 직격 “유해한 남자들, 살인·전쟁 일으켜”</title>
       <link>https://www.chosun.com/national/people/2026/05/19/75HJTV7IMJBKRAA5XMEEWTV2YA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/19/75HJTV7IMJBKRAA5XMEEWTV2YA/</guid>
@@ -939,19 +954,6 @@
       <description/>
       <pubDate>Mon, 18 May 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLCSWYYEZRKC7FQKO4KP5QGENU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 칸느영화제에 참석한 스페인 배우 하비에르 바르뎀. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스페인 출신 세계적 배우 하비에르 바르뎀(57)이 도널드 트럼프 미국 대통령, 블라디미르 푸틴 러시아 대통령, 베냐민 네타냐후 이스라엘 총리의 ‘유해한 남성성(toxic masculinity)’이 전쟁의 원인이라고 했다.&lt;br&gt;&lt;br&gt;AFP 통신에 따르면 제79회 칸 영화제에 참석한 바르뎀은 17일 기자회견에서 자신이 이번에 연기한 신작 캐릭터의 결함은 ‘유해한 남성성’이라며 전쟁을 부추기는 남성 특유의 공격적인 사고 방식이 여성에 대한 폭력을 일으킨다고 주장했다. 바르뎀은 로드리고 소로고옌 스페인 감독의 영화 ‘연인’(The Beloved)에서 폭발적 성미를 가진 독선적 영화감독을 연기했다. &lt;br&gt;&lt;br&gt;그는 스페인에서 매년 옛 남편들에게 살해되는 여성들을 거론하며 “매달 평균 두 명의 여성이 전 남편이나 전 남자친구, 혹은 전 남편에게 살해당한다. 그 숫자 자체가 끔찍한 일”이라고 했다. 그러면서 “이 모든 건 결국 유해한 남성성에서 비롯한다”고 했다. &lt;br&gt;&lt;br&gt;그는 이러한 ‘유해한 남성성’이 트럼프, 푸틴, 네타냐후 같은 허세 가득한 남자(big-balls men)에게도 문제가 된다며 “이들은 ‘내 물건이 네것보다 크니 나는 널 날려버릴 거야’라고 말한다. 이건 정말 빌어먹을 남성우월주의적 행태”라고 했다. &lt;br&gt;&lt;br&gt;바르뎀은 2023년 10월 7일 팔레스타인 무장정파 하마스의 공격으로 촉발된 가자지구 전쟁에 대해 가장 적극적으로 목소리 높여온 배우 중 한 명이다. 그는 이날도 집단학살(제노사이드)이 여전히 자행되고 있다고 주장하면서 “침묵이나 지지로 이를 정당화한다면 당신은 집단학살을 옹호하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;바르뎀은 2007년 코엔 형제 감독의 영화 ‘노인을 위한 나라는 없다’에서 단발머리 살인마 ‘안톤 시구르’ 역을 맡아 스페인 출신 최초로 아카데미 남우조연상을, 알레한드로 곤살레스 이냐리투 감독의 ‘비우티풀’(2010)로 칸 영화제 남우주연상을 받았다. 스페인 대표 여배우 페넬로페 크루즈의 남편이기도 하다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아빠의 농구 DNA 덕분? 세 남자 뒷바라지한 엄마가 진짜 MVP”</title>
-      <link>https://www.chosun.com/national/people/2026/05/19/ZKJ7MC7KJREF7BEUCH7HBODRSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/19/ZKJ7MC7KJREF7BEUCH7HBODRSY/</guid>
-      <dc:creator>용인=이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 May 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6X2LRGJ7BF2DFGFY44X4JX5WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KCC의 프로농구 챔피언전 우승을 이끈 형제는 팀 동료가 아닌 혈육끼리의 ‘스킨십’을 참을 수 없이 어색해했다. 형 허웅(아래)이 먼저 등을 내밀자 동생 허훈이 못 이기는 척 올라탔다. 허훈은 올 시즌 플레이오프 MVP를 수상하며, 아버지 허재(1998년)와 형(2024년)에 이어 삼부자 MVP라는 진기록을 세웠다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KCC가 2025-2026시즌 프로농구 챔피언에 오르고 이틀 뒤인 지난 15일 경기도 용인의 팀 훈련장에서 허웅(33), 허훈(31) 형제를 만났다. KCC를 우승으로 이끈 형제의 ‘끈끈한 케미’를 카메라에 담으려고 ‘어부바’ 포즈를 요청하니 둘 다 질색이었다. ‘혈육 간 스킨십’이 참을 수 없게 어색하다는 이유였다. 허웅이 체념한 표정으로 “야, 빨리 업혀”라고 채근하니, 허훈이 겨우 형의 등에 올라탔다. 동생은 ‘두 팔로 형을 감싸 안아달라’는 주문은 끝끝내 거부했다.&lt;br&gt;&lt;br&gt;둘은 지난 13일 국내 농구계에 다시 나오기 어려운 진기록을 세웠다. 허훈이 플레이오프 MVP로 뽑히면서 ‘삼부자 MVP’가 완성된 것이다. 허웅은 2년 전인 2024년 당시 동생이 속한 KT를 꺾고 MVP를 받았다. 둘의 아버지 허재(61)는 1998년 기아 소속으로 챔피언전에서 현대에 3승 4패로 패하고도 MVP를 차지했다. 프로농구에서 준우승팀에서 MVP가 나온 것은 이때가 유일하다. &lt;br&gt;&lt;br&gt;형제가 한 팀에서 우승컵을 들고, 나란히 MVP까지 받은 힘은 ‘농구 대통령’ 아버지의 우월한 유전자 덕분일 거라 생각했다. 하지만 형제는 한목소리로 어머니 이미수(60)씨 얘기를 꺼냈다. 형제는 물론 아버지까지 ‘허씨 삼부자’를 국내 최고의 농구 선수로 만든 것은 모두 어머니의 공이라는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIEBPKHHLFPSVARLW5ILZWIHDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 프로농구 챔피언전에서 우승한 KCC 허웅(오른쪽)-허훈(왼쪽) 형제가 어머니 이미수씨와 함께 기념 촬영을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허훈은 “저나 형, 아빠까지 세 명의 농구 선수를 키워낸 분”이라며 “MVP로도 모자라고 ‘대통령 엄마상’ 같은 거 없나요”라고 했다. 허웅은 “아버지 때부터 하도 많은 경험을 하셔서 (농구 선수인 아들들이) 예민한 시기엔 말도 없이 다니신다”며 “수십 년 동안 자기 인생을 포기하고 아버지와 두 아들을 서포트하신 것에 대해 감사한 마음뿐”이라고 했다. 둘은 소노와의 챔피언전 5차전이 끝나고 우승 행사 도중 농구장을 찾은 어머니 이씨에게 우승 트로피를 안기며 감사를 표했다. &lt;br&gt;&lt;br&gt;허웅과 허훈의 농구 인생은 늘 아버지의 명성이 그림자처럼 따라다녔다. 농구 명문인 용산중·고와 연세대를 거쳐 각각 DB와 KT에서 프로에 데뷔했다. 허웅이 2024년 KCC에서 첫 우승의 기쁨과 MVP까지 거머쥐며 정상에 섰고, 허훈은 지난해 KCC로 이적해 형과 함께 프로 첫 우승의 감격을 누렸다. 해외에 있던 아버지는 큰아들에게 전화를 걸어 기쁨을 숨기지 않았다고 한다. 허웅은 “우승도 기쁘지만 아버지가 ‘훈이가 MVP를 받아서 너무 좋다’고 하시더라”며 “저보다는 내심 (MVP 수상 경력이 없는) 훈이한테 기대를 하신 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;둘은 지난 1년간 처음으로 프로에서 한솥밥을 먹었다. 코트 밖에선 티격태격하며 게임·골프 같은 취미를 공유하는 형제지만, 경기장 안에선 서로를 가족이 아닌 ‘훌륭한 팀원’으로 생각한다고 입을 모았다. 올 시즌 정규 리그 3점슛 1위(2.8개)를 기록한 허웅에 대해 허훈은 “형이 아니라 ‘좋은 슈터’로 생각한다”고 했고, 허웅도 어시스트 1위(6.9개)인 동생에게 “좋은 타이밍에 패스를 뿌려주는, 길을 잘 봐주는 선수”라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TJXMXYVP5EMVEMT4LVCQQNC7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승부처에서 ‘한 방’이 있는 둘에게 동시에 “경기 종료 직전, 2점 뒤진 상황에서 누가 슛을 던지게 하겠느냐”고 물었다. 포인트 가드인 허훈은 “나나 형 중 컨디션 좋은 사람을 선택할 것”이라고 했지만, 슈팅 가드로 득점이 주무기인 허웅은 “나라면 무조건 내가 쏜다”고 했다. &lt;br&gt;&lt;br&gt;남은 농구 인생에 대해선 철학도 목표도 비슷했다. 허웅은 “선수로서 힘 닿는 데까지 커리어와 업적을 남긴 뒤 미국에서 연수하며 선진 농구를 배우고 싶다”고 했다. 허훈도 “우승 반지를 최대한 여러 개 껴보고, 농구 지도자를 할 생각이 있다”고 말했다.&lt;br&gt;&lt;br&gt;형제가 같은 팀이라서 불편한 점은 없을까. 둘은 “농구 못하면 욕을 두 배로 먹게 된다”며 “다행히 팀이 우승해서 우리의 가치를 입증한 것 같아 기쁘다”고 했다. 허웅이 내년 FA(자유계약선수) 자격을 획득하기 때문에 형제가 언제까지 같은 유니폼을 입고 경기할지는 알 수 없다. 허웅은 “동생과 적으로 만나더라도 선수로서 내 역할을 해낼 것”이라고 했다. 허훈 역시 “프로답게 하겠다”고 단호히 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/SIEBPKHHLFPSVARLW5ILZWIHDE.jpg?auth=859e55d2690cb1e9ea0f4251ed56105333316835a2083ee64cc7edb8a02d7af1&amp;smart=true&amp;width=4532&amp;height=3344" type="image/jpeg" height="3344" width="4532">
-        <media:description type="plain">지난 13일 프로농구 챔피언전에서 우승한 KCC 허웅(오른쪽)-허훈(왼쪽) 형제가 어머니 이미수씨와 함께 기념 촬영을 하고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">홍효식</media:credit>
-      </media:content>
     </item>
     <item>
       <title>종합특검  “조태용·홍장원 등 전 국정원 직원 내란 혐의 입건”</title>
