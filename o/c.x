@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>6개월 시한부였던 폐암, 이제 만성질환?... 항암제 20년 혁명 [이러면 낫는다]</title>
+      <link>https://www.chosun.com/medical/2026/05/20/MOKLCLAQ6VDTZLZPV2EPC3TMTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/20/MOKLCLAQ6VDTZLZPV2EPC3TMTI/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 May 2026 23:00:45 +0000</pubDate>
+      <content:encoded>한국인이 가장 두려워하는 질환은 단연 ‘암’이다. 기대수명이 늘면서 남성은 2명 중 1명, 여성은 3명 중 1명이 평생 한 번은 암에 걸려 사망하게 된다. 그러나 최근 20여 년 사이 항암제 발전 속도는 상상을 초월할 정도로 빨라져, 암은 점차 ‘관리 가능한 만성질환’으로 바뀌고 있다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 ‘세계 폐암치료 권위자’로 꼽히는 안명주 한양대병원 혈액종양내과 교수와 함께 항암제의 종류와 발전상을 짚어봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQPDJQFC5VBINCPPSMGMEFSC7M.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항암제는 크게 세 가지로 나뉜다. 전통적인 ‘세포독성항암제’, 암세포의 특정 유전자 변이를 겨냥하는 ‘표적치료제’, 그리고 환자 자신의 면역세포를 활성화해 암을 공격하게 만드는 ‘면역항암제’다. 안명주 교수는 “세포독성항암제와 표적치료제는 암을 직접 공격하는 약이지만, 면역항암제는 우리 몸의 T림프구(T세포)라는 면역세포가 암을 공격하도록 돕는 방식”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7CRLZDUK5BTZKEXBADW6QOMFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폐암 치료의 변화는 항암제 발전사를 압축적으로 보여준다. 안 교수는 “1990년대 초까지만 해도 폐암은 치료를 하지 않으면 6개월, 치료해도 10개월 정도 생존하는 병이었고, 1년 생존율은 15% 수준이었다”며 “1990년대 3세대 항암제가 나오면서 1년 생존율이 처음으로 30%가 됐는데, 그때 너무 좋아했던 기억이 난다”고 회고했다.&lt;br&gt;&lt;br&gt;전환점은 2002년 표적치료제 ‘이레사’의 등장이었다. 당시만 해도 유전자 돌연변이 개념이 명확하지 않았는데, 약을 써보니 비흡연자, 여성, 선암(腺癌) 환자들에게 효과가 유독 좋았다. 안 교수는 “2년 뒤 미국 두 연구팀이 그 원인이 EGFR(상피세포성장인자수용체) 유전자 돌연변이의 존재였다는 사실을 밝혀냈다”며 “이후 폐암 중 선암에서는 다양한 유전자 변이에 맞는 분자 표적 치료제가 잇따라 개발되며 ‘맞춤 치료’ 시대가 열렸다”고 말했다.&lt;br&gt;&lt;br&gt;면역항암제 역시 치료 지형을 바꿨다. 안 교수는 “2012년 신장암, 흑색종, 비소세포폐암 환자들에게 면역항암제를 처음 써봤더니, 기존 치료에 실패했던 환자 가운데 20%가량이 반응을 보였고 그 효과가 오랫동안 유지됐다”며 “이전 항암제와는 완전히 다른 약이라는 사실을 그때 확인했다”고 말했다. 안 교수는 “6~7가지 항암 치료를 모두 시도한 뒤 더 쓸 약이 없던 환자가 면역관문억제제 임상시험에 참여해 극적으로 반응이 좋아져 치료 10년이 지난 지금도 생존해 계신다”며 “제가 담당한 환자 중에는 폐암 진단을 받고도 15년까지 사시는 분이 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DII23NW4SVG5RP5LYBR2NF32NI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항암 부작용 관리 기술도 크게 발전했다. 안 교수는 “과거에는 부작용으로 음식도 잘 못 먹고 체중이 빠져 ‘차라리 치료받지 말라’던 시절이 있었지만, 지금은 구토를 막는 약, 식욕을 돋우는 약, 백혈구를 늘리는 약 등 다양한 보조요법으로 부작용을 극복하고 있다”며 “단순히 오래 살리는 것을 넘어, 환자의 삶의 질을 잘 유지하면서 치료하는 것이 항암 치료의 목표가 됐다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V22SKQZ27VBZLHL4FVEJON7UTY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암 예방 백신 시대도 일부 현실이 됐다. 안 교수는 “자궁경부암·편도선암·구강암 등 일부 두경부암은 인유두종바이러스(HPV) 백신으로 예방이 가능하고, B형 간염 백신 덕분에 간암도 크게 줄었다”며 “최근에는 폐암 수술 후 환자의 종양에서 검출된 십여 개 유전자를 모더나의 mRNA 백신에 넣어 재발을 막는 임상 연구가 끝나 결과를 기다리고 있다”고 전했다. 안 교수는 끝으로 “암은 더 이상 새로운 질병이 아니라 우리와 함께 가는 존재”라며 “많은 연구가 진행되고 있는 만큼 너무 두려워하지 말고, 전문가를 찾아 장기적인 치료 계획을 세워 대응해 달라”고 당부했다. 더 자세한 내용은 조선일보 의학·건강 유튜브 ‘이러면 낫는다’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] 국민성장펀드 선착순 전쟁에서 살아남는 법</title>
       <link>https://www.chosun.com/national/2026/05/20/5ETJCQG7VZBZ3GYHX6O2E27HC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/05/20/5ETJCQG7VZBZ3GYHX6O2E27HC4/</guid>
@@ -946,15 +955,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/MRSGIYRVHA2TKMZZGNRDANDBG4.jpg?auth=b0cfb1cb855fc649df78ece9ca710527cdcfdd0d9ed7de654a75957783f992b1&amp;smart=true&amp;width=2012&amp;height=1276" type="image/jpeg" height="1276" width="2012">
         <media:description type="plain">경찰 로고./뉴스1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>MC몽 “여친과 찍은 사진, 차가원 삼촌이 성매매로 몰아”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/18/DOYE3WN6BJGMLAM37ZH73VXJ3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/18/DOYE3WN6BJGMLAM37ZH73VXJ3U/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 May 2026 14:00:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7FRT4J2XFEDXE5VRKLXAFYY6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 MC몽. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;래퍼 겸 프로듀서 MC몽(47·본명 신동현)이 과거 병역 기피와 성매매 의혹 등 자신을 둘러싼 논란에 직접 입을 열었다.&lt;br&gt;&lt;br&gt;MC몽은 18일 틱톡 라이브 방송을 통해 “저는 28년 동안 MC몽이라는 이름으로 살아왔다. 혹은 ‘발치몽’이라는 별명으로 불리기도 했다”며 “가장 후회되는 것 중 하나가 병역 비리 기자회견에서 눈물을 흘린 것, 변호사들이 만들어 준 대본을 읽은 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “저는 치아를 뽑기 전에 허리 디스크와 십자인대 파열 등으로 이미 군 면제였다. 대법원까지 무죄였다”며 “하지만 저 뉴스를 봤을 때 (사람들은) ‘MC몽은 문제가 있구나’ ‘8000만원을 주고 생니를 뽑았구나’라고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “당시 1999년도에 찍은 엑스레이를 증거로 제출했다. 치아가 18개 무너진 거다. 근데 그 증거물이 사라졌다”며 “저는 그때 알았다. 이 나라는 증거물이 사라지기도 하지만, 증거물을 만들기도 하는구나라고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;MC몽은 2023년 차가원 피아크그룹 회장과 빅플래닛메이드엔터(BPM) 모회사인 원헌드레드를 공동 설립해 운영하는 과정에서 빚어진 갈등에 대해서도 해명했다. 그는 “차가원과 저는 경영 방식이 달랐다. 그래서 많이 부딪쳤다”며 “작년 5월에 차가원과 대판 싸웠다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “저희 집 영상을 저한테 보내더라. 여자 친구와 놀고 있는 모습이었다. 그러면서 관계자 모두가 보는 곳에 ‘MC몽씨는 오늘부터 BPM엔터 관련 일에서 배제한다’고 공표했다”며 “이루 말할 수 없는 배신감을 느꼈다. 그대로 회사에서 쫓겨났다”고 했다.&lt;br&gt;&lt;br&gt;또 “저 나름대로 얼마나 복수심이 있었겠나. 이후 차가원의 작은아버지 차준영에게 찾아갔다”며 “차가원이 차준영에게 ‘MC몽이 일해야 하는데 여자 친구와 놀았다’고 엘리베이터 사진을 보냈다. 그 엘리베이터 사진을 성매매 논란으로 바꾼 게 차준영”이라고 주장했다.&lt;br&gt;&lt;br&gt;회사 자금으로 불법 도박을 했다는 소문에 대해서도 “자금 출처는 계좌 추적하면 다 나오는데 내 계좌도 봤으면 좋겠다”며 “무슨 회삿돈으로 도박을 할 수 있나. 무슨 말인지도 이해가 안 간다”고 격앙된 목소리로 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>종합특검  “조태용·홍장원 등 전 국정원 직원 내란 혐의 입건”</title>
