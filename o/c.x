@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>ZARA에서 ‘갓’ 사는 시대</title>
+      <link>https://www.chosun.com/national/weekend/2026/05/23/4IAUNZEXDBDDXCBF4WJLBQHGB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/05/23/4IAUNZEXDBDDXCBF4WJLBQHGB4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 May 2026 18:12:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UIADAMXOBD7BEEPOJ3Z6CF3CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;글로벌 패션 업체 자라(ZARA)에서 판매하는 유아용 갓. /ZARA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탄생 1주년을 맞는 ‘케데헌’이 여전한 파워를 이어가고 있다.&lt;br&gt;&lt;br&gt;글로벌 패션 브랜드 자라(ZARA)로 가면 단번에 확인할 수 있다. ‘케데헌’에 울고 웃는 전 세계 아동을 타깃으로 ‘케데헌 컬렉션’을 개발했기 때문이다. 금장 장식 및 광택 소재 등 주인공 헌트릭스의 무대 공연 의상을 재현한 코스튬 의류까지 출시됐다. 심지어 극 중 사자보이즈가 쓰고 나온 ‘갓’까지 등장했다. 글로벌 패션 업체에서 유아용 갓을 판매하는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;‘시즌2’ 제작이 확정되면서 유행의 동력이 되살아났다는 평가다. 특기할 부분은 종이책 시장에서도 두각을 나타내고 있다는 점이다. 미국 최대 출판사 펭귄랜덤하우스(PRH)에서도 잇따라 관련 도서를 발간했는데, 뉴욕타임스 베스트셀러 1위를 차지한 ‘팬들을 위해!’가 올해 1분기에만 미국·영국·독일 등에서 160만부 이상 판매됐다. 이 같은 인기를 성인층으로 끌어오기 위해 PRH는 ‘케데헌’ 관련 다양한 신간 도서를 지속 출간한다는 계획이다.&lt;br&gt;&lt;br&gt;영화 속 음악과 액션, K팝 퍼포먼스를 라이브 무대로 구현하는 대망의 월드 투어도 시작될 예정이다. 넷플릭스는 지난 14일 “‘케데헌’에서 영감 받은 글로벌 투어를 개발·제작한다”며 “황금빛 에너지를 현실에서 직접 느낄 수 있게 될 것”이라고 출범을 공식 발표했다. 1주년 공식 팝업 스토어도 더현대 서울에서 다음 달 3일까지 열린다. 홍콩·대만·싱가포르 등 아시아 주요 도시 9곳으로 이어질 예정이다. ‘케데헌’의 지식재산권 가치는 약 1조원 수준으로 추산된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“성과급만 6억?” 허탈한 직장인 분노가 커진다</title>
       <link>https://www.chosun.com/national/national_general/2026/05/23/PA5NE53G4FH7LOPCOW23UAY6XE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/PA5NE53G4FH7LOPCOW23UAY6XE/</guid>
@@ -928,15 +937,6 @@
       <description/>
       <pubDate>Thu, 21 May 2026 10:46:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3TCYLBMM2WKMRZG5RTCMZWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 이천시 장호원읍 한 아파트에서 50대 고교 교사가 추락해 숨졌다.&lt;br&gt;&lt;br&gt;21일 경찰 등에 따르면, 이날 오후 2시쯤 경기 이천시 장호원읍의 한 아파트 1층 출입구 근처에서 이 아파트 13층에 사는 50대 고등학교 교사 A씨가 추락해 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 2023년 말 자신이 소속된 학교 관계자의 횡령과 음주운전 등 비리와 관련한 공익제보를 했다. 이후 학교 관계자로부터 명예훼손 등으로 고소를 당했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현장에서 유서는 발견되지 않았다. 경찰은 CCTV와 현장 정황증거 등을 토대로 범죄 혐의점은 없는 것으로 보고 있다. &lt;br&gt;&lt;br&gt;경찰은 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 대통령, ‘중국인이 강남집 싹쓸이’ 보도에 “의도적 가짜 뉴스”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/21/6OUPQKVKA5GS3CZFH6KKO4Y2MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/6OUPQKVKA5GS3CZFH6KKO4Y2MM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 09:37:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDAMRXMEZGEOJSGA4TMMRQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 21일 청와대에서 열린 수석보좌관회의에서 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령은 21일 중국인이 서울 강남의 아파트를 집중 매수했다는 취지의 내용을 담은 기사를 두고 “혐중(중국 혐오) 선동 재료로 사용될 수 있게 의도적으로 만든 가짜 뉴스로 추정된다”고 지적했다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 X를 통해 “‘중국인 서울 강남 아파트 944채 기습 매수…다주택자 던진 물량 싹쓸이’라는 가짜 영상 기사를 냈다가 지금은 삭제했다”면서 이같이 말했다.&lt;br&gt;&lt;br&gt;이어 “확인해 보니 1∼4월간 강남구 집합건물 중국인 매수자는 5명에 불과한 등 명백한 허위 기사”라며 “명색이 언론, 그것도 경제 언론인데 혐중을 부추겨 나라와 국민에 무슨 도움이 되겠냐”고 했다. 그러면서 “엄중하게 책임을 물어야겠지요?”라고 했다.&lt;br&gt;&lt;br&gt;앞서 한 매체는 최근 다주택자 양도세 중과 재개 직전 강남과 송파, 용산 등에서 다주택자가 내놓은 물량을 중국인들이 집중 매수했다는 취지로 보도했다.&lt;br&gt;&lt;br&gt;이후 국토부는 해명 자료를 내고 이 기사는 사실과 다르다고 반박했다. 올해 1∼4월 서울시에서 집합건물 매수를 위해 소유권 이전 등기를 신청한 외국인 매수인 592명 중 중국인은 218명이었고, 강남구에서 집합건물을 매수한 중국인은 5명에 불과했다는 설명이다. &lt;br&gt;&lt;br&gt;이 대통령은 전날 국무회의에서도 국토교통부 보고를 받으면서 이를 지적한 바 있다. 이 대통령은 “왜 그런 식의 거짓말 기사를 쓰는 거냐. 통계 자료를 자세히 보면 다 나오지 않느냐”며 “중국 혐오증 이런 것을 유발하려고 일부러 그러는 것”이라고 했다.&lt;br&gt;&lt;br&gt;당시 이 대통령은 법무부를 향해 “명백한 가짜 뉴스를 쓰는 것에 대한 처벌 조항이 없느냐”며 “언론 기사라는 이름으로 허위 사실을 유포해서 정책에 혼선을 주는 것을 처벌할 수 있지 않은지 한번 검토해 달라”고 했다. 봉욱 민정수석이 “경제적 이득을 취한 경우 가능하다”고 설명하자, 이 대통령은 “정부 정책을 왜곡·조작하는 가짜 기사를 처벌하기 당장 쉽진 않겠다”며 “정정·반론 보도를 청구하든 확실히 책임을 물어라. 한참 지나 ‘제목을 고쳐 주겠다’며 대충 넘어가지 않나”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘유서 대필 누명’ 강기훈… 法 “국가가 6700만원 추가 배상해야”</title>
