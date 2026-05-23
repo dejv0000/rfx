@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“북측”에 발끈한 北 내고향... 기자회견장 박차고 나갔다</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/23/GNS6CMRSKJA3DA6TO7Y5UT72M4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/GNS6CMRSKJA3DA6TO7Y5UT72M4/</guid>
+      <dc:creator>배준용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 08:32:23 +0000</pubDate>
+      <content:encoded>23일 2026 AFC 여자 챔피언스리그 우승을 차지한 북한 내고향축구단이 우승 후 열린 기자회견에서 ‘북측 여자 축구’라는 한국 취재진의 발언에 “국호를 제대로 불러라”며 항의한 뒤 기자회견장을 일방 퇴장했다. ‘북측’ 발언을 문제 삼은 돌발적 행동이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JODJ2EROVZJLZIWZEB57DROJTU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 리유일 북한 내고향여자축구단 감독과 김경영이 22일 경기 수원시 장안구 수원종합운동장에서 열린 2025-2026 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 결승전 기자회견에 앞서 기념촬영을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 수원 종합운동장에서 열린 결승전에서 일본 베르디 벨라자를 꺾고 여자 챔피언스리그 우승을 차지한 북한내고향축구단은 시상식 이후 리유일 감독과 대회 MVP를 받은 주장 김경영, 그리고 축구단의 통역사를 대동하고 우승 기자회견에 참석했다. &lt;br&gt;&lt;br&gt;해프닝은 기자회견 막판에 벌어졌다. 한국 기자가 “북측 여자 축구가 과거부터 수준이 높은데요”라고 말하자 내고향축구단 측은 “방금 뭐라고 한 겁니까?”라고 한 뒤 “국호를 제대로 불러라. 저 사람 질문은 받지 않겠다”라고 한 뒤, 잠시 굳은 표정으로 서로 잠시 상의한 후 그대로 기자회견을 빠져나갔다. 다른 외신 기자들이 대신해 추가 질문을 하려고 했으나 이들은 회견장을 빠져나갔고, 취재진들 사이에선 “대체 왜 저러느냐”는 반응이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHOJTVUFVVOTFEZNYOR3PX37OM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 경기 수원시 수원종합운동장에서 열린 2025-2026 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 결승 북한 내고향여자축구단과 도쿄 베르디의 경기에서 우승을 거둔 내고향 선수들이 인공기를 펼쳐 기념 촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들이 질문을 거부하며 회견장을 빠져나간 건 ‘북측’이라는 표현을 문제 삼은 것으로 보인다. 과거 남북은 화해를 모색하던 시기에는 서로를 ‘남측’과 ‘북측’으로 부르기도 했다. 북한은 한국을 주로 ‘남조선’으로 쓰거나 비난할 때는 ‘남조선 괴뢰’ 등으로 불렀으나, 김정은 국무위원장이 2023년 말 남북 관계를 ‘동족 관계가 아닌 적대적인 두 국가 관계’로 선언한 후 ‘남조선’ 대신 ‘한국’ ‘대한민국’을 혼용하고 있다.&lt;br&gt;&lt;br&gt;이런 흐름에서 회견장에서 ‘북측’이라는 표현이 나오자 내고향축구단 측은 북한의 국가적 지위를 무시하는 발언으로 규정하고 불쾌함을 표한 것으로 해석된다. &lt;br&gt;&lt;br&gt;전날 열린 경기 전 기자회견에서 리 감독은 한국 취재진과 해프닝이 있었다. 리 감독은 전날 “한일전 못지않게 내일 내고향과 도쿄 베르디의 경기도 치열한 경기가 될 것 같다”는 한국 취재진의 질문이 나오자 “한일전 못지않게라는 게 무슨 말인가”라며 되물었다. 이어 축구단 통역관에게 “한일전이 뭡네까?”라고 되물었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYGMYZUGMYTMYZZG43DCYRZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;질문에 답하는 리유일 내고향 감독&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 취재진이 “한국과 일본의 맞대결처럼 내고향과 도쿄 베르디의 경기도 거칠 것 같다는 의미”라고 하자 “준결승을 앞두고도 상대팀이 (우리를) 거칠다고 표현했는데 도대체 그 의미를 모르겠다. 표현 자체가 옳지 않다고 생각한다. 경기 규정이 허용하는 범위 안에서 최선을 다하는 것”이라고 하기도 했다. &lt;br&gt;&lt;br&gt;이날 기자회견에서 해프닝이 벌어지기 전 리유일 내고향축구단 감독은 우승 소감으로 “우리는 창립한 지 14년밖에 안 된 팀인데, 아시아에서 1등의 지위에 오르게 된 것은 경애하는 (김정은) 총비서 동지의 따스한 보살핌과 믿음이 있었기에 가능했다”며 “선수단을 대표해 크나큰 사랑과 믿음에 조금이라도 보답할 수 있었다고 생각하니 기쁜 마음을 금치 못하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;한국과 관련된 질문에 대해선 내고향축구단은 대회 내내 애써 회피하는 답변을 내놨다. 기자회견에서 “한국에 온 지 5~6일이 됐는데 감독님과 팀에 어떤 의미인지 궁금하다”는 질문이 나오자 리 감독은 “아시아축구연맹 조치로 인해 여기에 와서 경기를 하게 됐다”며 “저와 선수들은 오로지 경기와 우승을 위해 분초를 아껴가며 훈련하고 노력했다. 그래서 소기의 성과를 달성할 수 있었다. 오로지 축구, 우승, 발전에 초점을 두었고 그 외 것은 신경 쓸 겨를이 없었다”고 답했다. &lt;br&gt;&lt;br&gt;내고향축구단에 밀려 준우승에 그친 베르디 벨라자의 구스노세 나오키 감독은 “결승전에서 내고향축구단의 파워와 강한 압박에 밀렸다. 부상자가 많은 상황에서 우리 선수들이 최선을 다했으나 내고향축구단이 우승팀다운 강한 정신력을 보여줬다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2W3VRWF24FBXJPIEACBWT6K2AE.JPG?auth=ab1b1ec230ba8586d1d759b0e58f2518de8a62f622890887bba1b28a158d7b52&amp;smart=true&amp;width=5608&amp;height=3155" type="image/jpeg" height="3155" width="5608">
+        <media:description type="plain">(수원=뉴스1) 박지혜 기자 = 23일 오후 경기 수원시 수원종합운동장에서 열린 2025-2026 아시아축구연맹(AFC) 여자 챔피언스리그(AWCL) 결승에서 우승한 북한 내고향여자축구단의 리유일 감독이 트로피를 들어 올리고 있다. 2026.5.23/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(수원=뉴스1) 박지혜 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>진보 대학생 단체 “스타벅스 불매해야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/23/V3HFCTMLAFFWPKRGZ6N3X334AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/V3HFCTMLAFFWPKRGZ6N3X334AU/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 06:59:57 +0000</pubDate>
+      <content:encoded>진보 성향 대학생 단체가 신세계그룹 정용진 회장의 사퇴를 요구했다. 최근 5·18 폄훼 논란을 일으킨 스타벅스코리아의 ‘5·18 탱크데이’ 이벤트에 대해 모기업 신세계그룹의 정 회장도 책임이 있다는 것이다.&lt;br&gt;&lt;br&gt;한국대학생진보연합(대진연)은 23일 스타벅스코리아 강남 본사 앞에서 기자회견을 열고 “한국의 역사를 더럽히고 모독하는 자들을 확실히 응징해야 한다”며 스타벅스 불매운동을 시작하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPHKEFZDWNLYXEJWKM6FW7CBYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울 스타벅스커피코리아 본사 앞에서 한국대학생진보연합이 주최한 ‘정용진 사퇴! 스타벅스 불매! 대학생 기자회견’이 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 이번 논란에 대해 “기업 소유주가 극우 인식을 가지고 이를 거리낌 없이 표출하던 행태가 쌓인 결과”라며 “정 회장은 이번 사태를 책임지고 회장 직에서 물러나야 한다”고 했다. 이들은 정 회장이 과거 자신의 소셜미디어에 ‘공산당이 싫다’ ‘멸공’ 등을 언급하고, 보수 단체 행사에 스타벅스 커피를 후원한 것을 사례로 들었다. 기자회견을 마치고 쓰레기봉투에 스타벅스 텀블러를 버리는 모습을 연출하기도 했다. &lt;br&gt;&lt;br&gt;스타벅스는 지난 18일 연 ‘탱크 텀블러 세트’ 판매 이벤트 홍보물에 ‘5/18’ ‘탱크데이’ ‘책상에 탁!’ 등의 문구를 담았다. 이를 두고 5·18 민주화운동과 박종철 고문치사 사건을 폄훼했다는 비판이 빠르게 확산했다. &lt;br&gt;&lt;br&gt;정 회장은 손정현 스타벅스코리아 대표와 마케팅 담당 임원을 경질하고, 19일에는 “있어서도 안 되고 용납될 수 없는 부적절한 마케팅”이라며 사과문을 발표했다. 하지만 이재명 대통령이 지난 20일 국무회의에서 스타벅스코리아를 겨냥해 “어떻게 사람의 탈을 쓰고 그럴 수 있나”라고 하는 등 정부·여당 압박이 거세지고 있다. &lt;br&gt;&lt;br&gt;정 회장과 손 전 대표는 현재 모욕 및 5·18민주화운동 등에 관한 특별법 위반 등 혐의로 시민단체와 5·18민주화운동 유공자들에게 고발당한 상태다. 이 사건은 서울경찰청이 수사한다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무장관 “검찰 권력 시대 끝내는 것, 노무현 전 대통령 의지 계승하는 일”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/23/K3UEVX2DTRE3JO3VACM5XNF6GI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/23/K3UEVX2DTRE3JO3VACM5XNF6GI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 06:21:09 +0000</pubDate>
+      <content:encoded>정성호 법무부 장관이 23일 “무소불위 검찰 권력의 시대를 끝내고, 국민의 인권과 민주주의를 위해 봉사하는 검찰로 거듭나게 하는 것은 노무현 전 대통령의 의지를 계승하는 일”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOVLG5JFZVN4PK2OJCN7JUKITM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 지난 20일 서울 용산아트홀에서 열린 제19회 세계인의 날 기념식에서 기념사를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 페이스북에 “끝까지 국민 곁에 서고자 했던 노무현 전 대통령님 서거 17주기”라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 “이재명 정부와 법무부는 노무현 전 대통령님께서 꿈꾸던 ‘권력이 국민 위에 군림하지 않는 나라’ ‘국민주권의 나라’를 향해 나아가고 있다”며 “국가폭력으로 얼룩진 우리 현대사의 아픔을 치유하고자 ‘진실·화해를 위한 과거사정리위원회’를 출범시켰던 그 뜻을 이어받아, 국가의 잘못을 반성하고 책임 있게 사과하며 수많은 과거사 사건의 매듭을 풀어가고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “노무현 정부에서 시작한 친일재산 환수도 이재명 정부에서 다시 시작해 민족 정기와 임시정부의 법통을 바로세워 가고 있다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 “이재명 정부 법무부는 남기신 뜻을 기억하며, 노무현이 꿈꾸던 나라, 상식과 원칙이 통하는 정의로운 대한민국을 만들어가겠다”며 “국민을 위한 검찰개혁을 흔들림 없이 완수하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 해남서 초당대 소속 경비행기 추락…2명 중상</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/SC7EIQBTQ5EDLDPEO2NVNS44BA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/SC7EIQBTQ5EDLDPEO2NVNS44BA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 07:18:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3DMMBXGYYDMN3DG4ZDOOBWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 전남 해남군에 경비행기가 추락해 2명이 중상을 입었다./ 전남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 3시 10분쯤 전남 해남 문내면 석교리 일대 논에 경비행기가 추락했다. &lt;br&gt;&lt;br&gt;이 사고로 경비행기에 타고 있던 20대 남성이 중상을 입어, 신고를 받고 출동한 119 구급대에 의해 인근 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;경비행기는 초당대학교 소속으로, 교관 A(29)씨와 학생 B(24)씨가 타고 있던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨의 경우 의식이 없는 상태에서, B씨는 의식이 저하되는 상태에서 병원으로 옮겨진 것으로 알려졌다. &lt;br&gt;&lt;br&gt;전남소방본부 관계자는 “폭발이나 화재는 없었던 것으로 파악된다”고 했다. &lt;br&gt;&lt;br&gt;경비행기는 이날 오전 2시 40분쯤 무안공항에서 이륙해 산이비행장으로 이동하던 중 사고가 난 것으로 전해졌다. &lt;br&gt;&lt;br&gt;소방 당국은 정확한 사고 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 24일 일요일 (음력 4월 8일 戊戌)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/23/CNK7FTGRIRGF5O5IPLORVHAOTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/CNK7FTGRIRGF5O5IPLORVHAOTU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>아파트 소방 노즐 22t 훔쳐 고물상에 팔아… 40대 男 구속</title>
       <link>https://www.chosun.com/national/incident/2026/05/23/KSAV7YPGTZH2FNVDYCOKVXVBG4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/KSAV7YPGTZH2FNVDYCOKVXVBG4/</guid>
@@ -888,51 +940,6 @@
       <description/>
       <pubDate>Thu, 21 May 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5S6I6HZS7NB43JT45KR7DHSFBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2872] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2026/05/22/7NIEXZRUEJGLPLOHS4JAHSGCRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/22/7NIEXZRUEJGLPLOHS4JAHSGCRU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAIS5EJ3I5BGPJGJKQFCONZVOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] hold one’s tongue</title>
-      <link>https://www.chosun.com/national/nie/english/2026/05/22/GXPSXDISM5GRRODS4PMZB3K2DI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/05/22/GXPSXDISM5GRRODS4PMZB3K2DI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBGNJ6T3PJAE7KJFIT5ILYNU4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 발밑에도 미치지 못하다, 상대가 되지 않다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/05/22/NLZU255BGZCZREPHTTBBKRYPHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/05/22/NLZU255BGZCZREPHTTBBKRYPHU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V454VH7FT5AT5DNYAL4MDSS54E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 어려움에서 벗어나다, 고생 끝에 끝나다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/05/22/K3BNXNQDURDCRDR2QVGMPR63PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/05/22/K3BNXNQDURDCRDR2QVGMPR63PQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSDKLIDWDFDZNMYPFDBVI6J2VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 22일</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/05/22/ZN672AQY6VBN7GO5ERKGADBYLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/22/ZN672AQY6VBN7GO5ERKGADBYLI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 14:34:00 +0000</pubDate>
-      <content:encoded>22(금) - 낮에 덥다가 밤부터 흐려져&lt;br&gt;&lt;br&gt;토~일 -전국 대체로 흐려&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNVYLRMHHNCW7PTI6FPR52KTXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘유서 대필 누명’ 강기훈… 法 “국가가 6700만원 추가 배상해야”</title>
