@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘교육·스포츠계 거목’ 장충식 단국대 명예이사장 별세</title>
+      <link>https://www.chosun.com/national/education/2026/05/22/AHA4CAQMQREZHNYLHUJSSFESDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/22/AHA4CAQMQREZHNYLHUJSSFESDE/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 May 2026 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRWCYTGHAYWIMTFMUYWGNZXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故)장충식 단국대 명예이사장.(단국대 제공)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장충식 단국대 명예이사장이 20일 향년 93세로 별세했다. 1932년 중국 톈진에서 태어난 장 명예이사장은 서울대 사범대(역사학과·수료)와 단국대 정치과를 졸업했다. 고려대 사학과에서 석사 학위를 받았고, 미국 브리검영대에서 박사 과정을 수료한 뒤 1961년 단국대 교수로 부임했다.&lt;br&gt;&lt;br&gt;1966년 단국대학 학장에 취임한 고인은 이듬해 대학을 종합대로 승격시키고 초대 총장이 됐다. 이후 36년간 총장과 이사장을 지냈다. 총장 재임 시절 국내 최초로 지방 캠퍼스(천안캠퍼스)를 설립했다.&lt;br&gt;&lt;br&gt;1989년 남북 체육 회담 수석대표를 맡아 해방 이후 처음으로 남북 단일팀(탁구·청소년 축구)을 구성하는 등 남북 스포츠 교류에 기여했다. 2000년 대한적십자사 총재 시절엔 제1차 남북 이산가족 상봉 사업을 성사시켰다.&lt;br&gt;&lt;br&gt;유족으로는 아내 신동순 여사, 장호성 단국대 이사장과 3녀가 있다. 빈소는 충남 천안 단국대학병원, 영결식은 24일 오전 10시 단국대 죽전캠퍼스 체육관에서 단국대학장으로 엄수된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“20대 통째로 약에 무너졌다”…청주여자교도소에서 벌어지는 처절한 전쟁</title>
       <link>https://www.chosun.com/national/2026/05/24/CJWVCEGD3VFO3HXHTSFMXIGHBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/05/24/CJWVCEGD3VFO3HXHTSFMXIGHBA/</guid>
@@ -946,15 +955,6 @@
         <media:description type="plain">미셸 스틸이 5월 20일 미국 워싱턴 D.C.의 캐피톨 힐에서 열린 상원 외교위원회 청문회에서 주한 미국 대사 지명자 인준 청문회에 출석해 증언하고 있다./ 로이터 연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">Annabelle Gordon</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“만드는 힘과 알리는 힘의 조화가 K컬처 경쟁력”</title>
-      <link>https://www.chosun.com/national/people/2026/05/22/QLGA3SLI7VEIJIWRPBSZQH6ZP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/22/QLGA3SLI7VEIJIWRPBSZQH6ZP4/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNMBEUEAWFBKNP6S5ZKVZ77TDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 용산구 주한 이탈리아 대사관저에서 열린 ‘2026 문화소통포럼(CCF)’에 참석한 홍태선 YKH건축사무소 대표(왼쪽부터), 배우 박중훈, 최정화 한국이미지커뮤니케이션연구원(CICI) 이사장, 한복홍보대사 파비오, 에밀리아 가토 주한 이탈리아 대사, 김현성 이탈리아 대사관 직원. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; “제가 입고 있는 한복 예쁘죠? 한복을 처음 봤을 때 섬세하고 아련하다고 생각했지만 이 옷을 입고 사람들 앞에서 노래를 부르게 될 줄은 몰랐네요.”&lt;br&gt;&lt;br&gt;스페인 출신 방송인이자 한복진흥원의 한복 홍보 대사인 파비오가 21일 서울 용산구 주한 이탈리아 대사관저에서 옥빛이 도는 한복 두루마기를 입고 이선희의 ‘인연’을 열창했다. 그는 “한국에서 노래 학교를 다니면서 노래를 배웠다. 그 학교는 바로 ‘코인 노래방’”이라고 하자 객석에서 웃음이 터져나왔다. 이날 관저에서 열린 ‘2026 문화소통포럼(CCF)’의 ‘히든 탤런트’ 코너는 주한 외교사절들과 문화계 인사들이 본업 이면의 ‘숨겨진 재능’을 뽐내는 자리. 파비오를 비롯해 에밀리아 가토 주한 이탈리아 대사, 배우 박중훈, 건축가 홍태선 YKH 대표가 무대에 올랐다. 가토 대사는 영화 ‘어바웃 타임’ 삽입곡으로도 잘 알려진 지미 폰타나의 ‘일 몬도(Il Mondo)’를 지인이 직접 번역해준 한국어로 불렀다. 노래 중간에 피아노 반주에서 잔잔한 아리랑 선율이 흘러나오자 박수가 쏟아졌다. 박중훈은 애창곡인 엘비스 프레슬리의 ‘캔트 헬프 폴링 인 러브’를 부르고, 홍 대표는 쇼팽의 ‘에튀드 Op.25 No.1’을 피아노로 연주했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNI5PQIFPZHPBA3VFNACPRDG5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 용산구 주한 이탈리아 대사관저에서 열린 ‘2026 문화소통포럼’에서 에밀리아 가토(오른쪽) 주한 이탈리아 대사가 한국어로 번안된 지미 폰타나의 ‘일 몬도’를 부르고 있다. 왼쪽은 파비오 스카필리아티 이탈리아 대사관 상무관, 가운데는 노래 가사를 번역해준 김승일 씨다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2010년 G20 정상회의를 계기로 출범해 올해로 17년째를 맞은 CCF는 외교 사절과 국내외 문화계·재계 인사에게 한국 문화를 알리는 ‘명예 홍보대사’ 역할을 해왔다. CCF를 개최하는 한국이미지커뮤니케이션연구원(CICI)의 최정화 이사장은 “최근 K-컬처가 세계의 트렌드세터가 된 이유는 ‘잘 만드는 힘’, 세상에 ‘잘 알리는 힘’, 이 두 가지 힘이 조화와 균형을 이루고 있기 때문인 것 같다”며 “이 행사가 세계와 소통하는 새로운 아이디어 발굴의 계기가 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;올해 포럼의 화두는 ‘K-문화의 미래와 경쟁력’. CICI는 지난 3월부터 ‘한국 전통문화·현대 한국문화의 미래 모습’과 ‘인공지능(AI) 시대, K-콘텐츠만의 경쟁력은 무엇인가’를 주제로 카드뉴스(정보를 짧은 글과 이미지에 담아 모바일에서 넘겨보기 좋게 만든 콘텐츠) 공모전을 진행했다. 주제별 4 작품씩을 결선작으로 선정해 현장에서 발표했고, 포럼에 참석한 주한 대사들과 문화·재계 인사들이 모바일 투표를 통해 수상작을 정했다. 대상으로 뽑힌 작품 ‘AI가 흉내 낼 수 없는 언어의 감각, 한국어 뉘앙스’(한선정 달항아리 스튜디오 대표 ·박세준 TBS기술감독)은 ‘정’, ‘눈치’, ‘한’, ‘흥’처럼 AI번역만으로는 전달되지 않는 한국어의 감각과 정서를 조명했다. &lt;br&gt;&lt;br&gt;이날 행사에는 류진 풍산그룹 회장(한국경제인협회 회장), 김정수 삼양식품 회장, 서정호 앰배서더호텔그룹 회장, 브루노 얀스 벨기에 대사, 웡 카이 쥔 싱가포르 대사, 파울 두클로스 페루 대사, 자크 플리스 룩셈부르크 대사, 임형주 용산문화재단 이사장 등 50여 명 참석했다. 류 회장은 축사에서 “시대가 변해도 콘텐츠의 본질적인 힘과 K-컬처의 정체성은 변하지 않을 것”이라며 “세계와 소통하며, 끊임없이 새 지평을 열어갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘유서 대필 누명’ 강기훈… 法 “국가가 6700만원 추가 배상해야”</title>
