@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아파트 소방 노즐 22t 훔쳐 고물상에 팔아… 40대 男 구속</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/KSAV7YPGTZH2FNVDYCOKVXVBG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/KSAV7YPGTZH2FNVDYCOKVXVBG4/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 05:55:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3WENJSGEZTCYJYMY4DEOBWG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트에 설치된 황동 재질의 소방 노즐 20여 t을 훔친 40대 남성이 경찰에 구속됐다. &lt;br&gt;&lt;br&gt;경북 경주경찰서는 절도 혐의로 40대 A씨를 구속했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 8월부터 최근까지 경주, 포항, 대구, 울산 등지 아파트 단지에 있는 소화전에서 황동 재질의 소방 노즐 1만1300여 개를 훔쳐 고물상에 판 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨가 훔친 소방 노즐은 약 6억8000여만원 상당으로, 무게만 22.14t에 달하는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 소방 노즐을 고물상 등에 팔아 생활비와 유흥비로 써온 것으로 드러났다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 추가 범죄가 더 있는지 등을 확인하고, 다음 주 중 검찰에 송치할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“불안한 모습으로 폰만 만지작”…보이스피싱 수거책 잡은 은행원 촉</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/23/FJZUHYKWRVEM5FM54W5KHAHN2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/FJZUHYKWRVEM5FM54W5KHAHN2M/</guid>
+      <dc:creator>정채빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 05:09:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PFZJTMVZFNATRKDLWSJWMGPJXA.png"&gt;&lt;figcaption&gt;&lt;small&gt;은행 창구에 있는 보이스피싱 수거책./경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5000만원짜리 수표를 조직에 보내려던 보이스피싱 수거책이 은행원의 대처로 현장에서 붙잡혔다.&lt;br&gt;&lt;br&gt;22일 경찰청 유튜브채널에는 ‘보이스피싱인데…인출이 아니다?’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에 따르면, 지난달 13일 강원도 철원군의 한 은행에 영업 마감을 한 시간 앞두고 한 남성이 방문했다. 그는 5000만 원짜리 수표를 건네며 이체를 요구했다. 그는 은행원이 수표 관련 질문을 하자 제대로 답을 하지 않고 불안해 하며 휴대폰만 만졌다. 은행 팀장의 질문에도 남성은 횡설수설하며 휴대폰 화면만 봤다.&lt;br&gt;&lt;br&gt;이 모습에 은행 측은 보이스피싱 범죄를 의심하고 경찰에 신고했다. 신고를 받고 출동한 철원경찰서 형사팀은 현장 상황을 전달 받고 남성의 휴대폰을 확인했다. 조사 결과 그가 텔레그램을 통해 누군가로부터 지시를 받고 있는 정황이 확인됐다. 그는 수표의 출처를 묻는 형사의 질문에도 아무 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;이후 경찰은 이 남성이 피싱 피해자를 직접 만나 수표를 건네받은 것을 확인하고, 그를 전자금융사기 등의 혐의로 긴급체포했다. 현재 남성은 현재 재판 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;철원경찰서는 신속한 신고로 범죄 피해를 막고 범인 검거에 도움을 준 은행 직원에게 감사장을 수여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지인 사무실 찾아가 흉기로 살해한 40대 남성 체포</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/EQZ2CPCDAVHMRCEI3GLC4YICFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/EQZ2CPCDAVHMRCEI3GLC4YICFM/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 04:44:11 +0000</pubDate>
+      <content:encoded>지인의 사무실을 찾아가 흉기로 살해한 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문경찰서는 40대 남성 A씨를 살인 혐의로 체포해 조사 중이라고 23일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 22일 오후 8시 30분쯤 서울 서대문구의 지인 B씨 사무실에서 B씨를 흉기로 찔러 숨지게 한 혐의를 받는다. B씨는 남성이다. 두 사람은 직장 동료는 아니지만 서로 알고 지낸 사이로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 범행 후 경기 안양시 동안구의 자택에 돌아와 가족에게 범행 사실을 알린 것으로 전해졌다. 경찰은 가족의 신고를 받고 출동해 A씨를 체포했다. 이후 사건이 발생한 서울 서대문경찰서가 A씨 사건을 넘겨받았다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 구체적인 범행 동기와 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>스타벅스 방문 인증샷 배우… 논란 일자 출연 중이던 뮤지컬 하차</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/23/YI55EJES7FCL5BQYXCPJS4EBGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/YI55EJES7FCL5BQYXCPJS4EBGI/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 02:50:42 +0000</pubDate>
+      <content:encoded>소셜미디어에 스타벅스를 방문한 사진을 올렸던 배우 정민찬이 출연 중이던 뮤지컬에서 하차했다.&lt;br&gt;&lt;br&gt;뮤지컬 ‘디아길레프’ 제작사 쇼플레이는 22일 “정민찬 배우가 공연에서 하차하게 됐다”며 “정민찬 배우와 관련된 사안으로 심려를 끼쳐드려 관객 여러분께 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPROVUKZNVCGVM774LSS6GOJ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 정민찬. /정민찬 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WFIFV5XRVEIBDPXJP5UGDGAKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '디아길레프' 제작사 쇼플레이가 배우 정민찬의 뮤지컬 하차를 알리는 안내문. /쇼플레이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제작사 측이 자세한 하차 이유를 밝히지는 않았다. 하지만 정민찬이 지난 20일 자신의 소셜미디어 계정에 스타벅스를 방문한 사진을 올린 것이 이유로 추정된다. 당시 그는 “스타벅스 직원이 시음하라고 준 음료를 마셨는데, 막걸리 맛이 난다”는 감상을 함께 올렸다.&lt;br&gt;&lt;br&gt;이 글이 올라온 것은 지난 18일 스타벅스가 연 ‘탱크 텀블러 세트’ 판매 이벤트가 논란이 된 지 이틀 후였다. 당시 스타벅스가 안내 홍보물에 ‘5/18’ ‘탱크데이’ ‘책상에 탁!’ 같은 문구를 사용한 것을 두고 5·18 민주화운동과 박종철 고문치사 사건을 폄훼했다는 비판이 빠르게 확산했다. 이에 정민찬의 스타벅스 방문도 네티즌들 사이에서 논란이 된 것이다.&lt;br&gt;&lt;br&gt;정민찬은 이후 소셜미디어에 재차 글을 올려 “현생을 사느라 뉴스나 이슈를 잘 몰랐다”며 “몰랐던 것도 무지한 것도 잘못이니 심심한 사과의 말씀을 올린다. 앞으로는 뉴스를 열심히 챙겨보겠다”고 했다. 하지만 얼마 지나지 않아 정민찬의 뮤지컬 하차가 결정된 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5NBIS5FEFA2VAL56YXP6FWTKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 정민찬이 자신의 스타벅스 방문 사진이 논란이 되자 소셜미디어에 올린 사과문. /정민찬 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네티즌들의 반응은 엇갈린다. 쇼플레이의 정민찬 하차 관련 안내문에는 “스타벅스에서 커피를 사 마셨다고 하차시키는 게 말이 되느냐”는 댓글과 “빠른 결정에 감사한다”는 등의 댓글이 함께 달려있다.&lt;br&gt;&lt;br&gt;스타벅스에 대해선 정부 부처, 여당을 중심으로 비난 메시지와 불매 운동이 확산하는 분위기다. 이재명 대통령은 지난 20일 국무회의에서 스타벅스코리아를 겨냥해 “어떻게 사람의 탈을 쓰고 그럴 수 있나”라고 했다. 윤호중 행정안전부 장관은 지난 21일 행안부 주최 행사나 이벤트에서 스타벅스 상품권 등을 제공하지 않겠다고 밝혔다. &lt;br&gt;&lt;br&gt;법무부도 대검찰청에 예산으로 스타벅스 상품을 구입한 내역이 있으면 보고하라고 지시했다. 정청래 더불어민주당 대표는 22일 당 회의에서 “광주를 중심으로 스타벅스 불매 운동이 요원의 불길처럼 번질 것”이라며 정 회장의 석고대죄를 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LK2AOGSTIBF6TIWACSOL5TFLT4.jpg?auth=feff93878e39be7bcca3693a02fcfdd6d69dc041d1107e26adf242e0b9e9ac05&amp;smart=true&amp;width=725&amp;height=544" type="image/jpeg" height="544" width="725">
+        <media:description type="plain">뮤지컬 배우 정민찬. /정민찬 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘도박 빚 갚으려고’… 일부러 사고 내고 운전자 폭행, 20대 배달 기사 구속영장</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/WEQ65TKOXNFIXB7CGFY6JGQFVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/WEQ65TKOXNFIXB7CGFY6JGQFVY/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 02:47:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DEYZVG4ZGCNRXMM3DKZJTGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인동부경찰서./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고의로 교통사고를 낸 뒤 피해 차량 운전자를 폭행하고 금품을 뺏으려 한 20대 배달 기사가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경기 용인동부경찰서는 강도상해 혐의로 배달 기사인 20대 남성 A씨에 대해 구속영장을 신청했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 22일 오후 10시쯤 용인시 처인구 운학동의 한 도로에서 앞서가던 차량을 자신의 오토바이로 고의로 들이받고, 사고 처리를 위해 차에서 내린 운전자 40대 남성 B씨를 폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 오토바이에 흉기와 청테이프 등 범행 도구도 준비했던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 B씨가 저항하자 달아났다가 2시간여 만에 112에 자수했다. &lt;br&gt;&lt;br&gt;A씨는 “인터넷 도박 빚에 시달리다 돈을 마련하기 위해 범행했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 미리 범행을 계획했을 가능성이 있다고 보고, 구체적인 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, CJ그룹 여직원 330명 정보 유출 수사</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/Y5AV57P7RNFNXABKPJ7FTTT6QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/Y5AV57P7RNFNXABKPJ7FTTT6QM/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 01:37:39 +0000</pubDate>
+      <content:encoded>CJ그룹 여성 직원 330명의 개인 정보가 가상화폐로 거래된 정황에 대해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMHFIRF3A2I5N3O65TOPRH2AYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;CJ그룹 본사 사옥 전경 /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 사이버범죄수사대는 CJ그룹 전·현직 여성 직원 330명의 개인 정보가 유출된 사건에 대해 수사에 착수했다고 23일 밝혔다. 앞서 CJ그룹은 지난 19일 이 사건에 대해 개인정보보호법 위반 혐의로 서울경찰청에 고발했다.&lt;br&gt;&lt;br&gt;최근 한 텔레그램 채널에는 CJ그룹 직원 330명의 개인 정보, 사진 등이 게시됐다. 2023년 개설돼 약 2800명이 소속돼 있던 채널이었다. 이 채널의 소유권은 가상화폐를 통해 두 차례 걸쳐 거래된 것으로 전해졌고 최근 폐쇄됐다. 피해자 대부분은 20~30대 여성으로 전해졌다. &lt;br&gt;&lt;br&gt;CJ그룹은 외부 해킹보다는 내부자를 통한 정보 유출 가능성에 무게를 두고 있다고 한다. 유출된 정보 중 일부가 사내 인트라넷에서 조회할 수 있는 내용이었기 때문이다.&lt;br&gt;&lt;br&gt;경찰은 정보 유출 경위와 거래 규모를 파악하고, 텔레그램 채널 운영자와 거래자 등을 추적할 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교사 아동학대 자진신고한 어린이집...항소심도 “최하위 등급 적법”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/23/54GXQE5WZJE5FGDV7TVTIBDZO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/23/54GXQE5WZJE5FGDV7TVTIBDZO4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 00:57:55 +0000</pubDate>
+      <content:encoded>어린이집 원장이 보육교사의 아동학대 사실을 자진 신고했더라도 해당 시설에 대한 최하위 등급 처분은 적법하다는 판단이 항소심에서도 유지됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3GMMZQGE4DGNRZMUYGEMBRG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울고법 청사 앞에서 한 취재진이 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 행정4부(재판장 박연욱)는 지난달 15일 경기도 한 어린이집 원장 A씨가 교육부 장관을 상대로 낸 ‘어린이집 평가등급 최하위 조정 처분 취소’ 소송에서 1심에 이어 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 11월 학부모로부터 한 보육교사의 아동학대 의심 제보를 받고, 해당 교사를 경찰에 신고했다. 이 교사는 아동복지법 위반 혐의가 인정돼 기소유예 처분을 받았다. 이듬해 5월 보건복지부는 해당 어린이집을 당시 영유아보육법에 따라 최하위인 D등급으로 낮췄다.&lt;br&gt;&lt;br&gt;그러자 A씨는 “아동학대 사실을 즉각 경찰에 신고하고, CCTV 영상을 제출하는 등 성실히 조사에 협조했는데도 최하위 등급을 받는 건 복지부의 재량권 일탈·남용”이라며 행정소송을 제기했다. 재판 중 영유아 보육에 관한 사무가 교육부로 이관되면서 소송 진행 중 상대는 교육부 장관으로 변경됐다.&lt;br&gt;&lt;br&gt;A씨는 ’2024년도 보육사업안내' 복지부 지침에 성실한 조사 협조 시 처분을 감경·면제할 수 있다는 규정이 있는 만큼 처분이 부당하다고 주장했지만 1심은 받아들이지 않았다. 1심 재판부는 “복지부 지침보다 ‘아동학대 발생 시 등급을 조정해야 한다’고 규정한 상위법인 영유아보육법의 적용이 우선”이라고 봤다.&lt;br&gt;&lt;br&gt;A씨의 신고가 공익 신고에 해당해 불이익을 받아선 안 된다는 주장에 대해서도 1심은 “아동학대가 발생했기 때문에 (등급 조정) 처분이 이뤄진 것이지, 아동학대를 신고했다는 이유로 처분한 것은 아니다”라며 받아들이지 않았다. 공익 신고를 했다는 자체만으로 불이익 조치가 발생한 것이 아니기 때문에 공익신고자 보호법 대상이 아니라는 취지다.&lt;br&gt;&lt;br&gt;항소심 재판부도 항소를 기각하자, A씨는 대법원에 상고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 흐리고 가끔 비...부처님 오신 날 맑아져</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/23/B7CPFWGC2NC2ZDDVJPH6FLHWUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/23/B7CPFWGC2NC2ZDDVJPH6FLHWUA/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 00:52:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GP7RONADARMKVL5SSXE5NIUVLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내린 지난 20일 서울 중구에서 한 시민이 우산을 쓴 채 걷고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 23일 전국에 가끔 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 전국은 대체로 흐리겠다. 제주도는 낮까지, 강원 동해안을 제외한 전국에는 오전부터 낮 사이 가끔 비가 내릴 것으로 보인다. 예상 강수량은 5㎜ 미만이다.&lt;br&gt;&lt;br&gt;이날 최고 기온은 17~24도로 예보됐다. 평년 최고 기온(22.3~27.2도)보다 낮은 수준이다. 주요 도시 예상 최고 기온은 서울·인천·대전 23도, 광주 24도, 대구 22도, 울산·부산 20도 등이다.&lt;br&gt;&lt;br&gt;흐린 날씨는 부처님 오신 날인 24일 오전부터 맑아질 전망이다. 제주도는 24일에도 대체로 흐릴 것으로 예보됐다. 24일 아침 최저 기온은 11~16도, 낮 최고 기온은 21~28도로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 벽돌 제조 공장에서 추락사고… 1명 숨지고 1명 다쳐</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/PCK6QJTLH5HDVAO3E3VXNXGQJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/PCK6QJTLH5HDVAO3E3VXNXGQJI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 00:48:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 벽돌 제조 공장에서 일하던 노동자가 추락해 숨졌다. &lt;br&gt;&lt;br&gt;23일 인천소방본부 등에 따르면, 전날 오후 3시 13분쯤 인천시 서구 가좌동의 한 벽돌 제조 공장에서 50대 남성 A씨가 4m 높이에서 떨어졌다. &lt;br&gt;&lt;br&gt;A씨는 이 사고로 크게 다쳐 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;지상에서 일하던 70대 노동자는 추락하는 A씨와 부딪혀 부상을 당해 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;A씨는 용접기를 전달하던 중 사고를 당한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;소방 당국은 정확한 사고 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>ZARA에서 ‘갓’ 사는 시대</title>
       <link>https://www.chosun.com/national/weekend/2026/05/23/4IAUNZEXDBDDXCBF4WJLBQHGB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/05/23/4IAUNZEXDBDDXCBF4WJLBQHGB4/</guid>
@@ -849,94 +933,6 @@
       <description/>
       <pubDate>Thu, 21 May 2026 14:34:00 +0000</pubDate>
       <content:encoded>22(금) - 낮에 덥다가 밤부터 흐려져&lt;br&gt;&lt;br&gt;토~일 -전국 대체로 흐려&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNVYLRMHHNCW7PTI6FPR52KTXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추풍령휴게소로 돌진한 소방버스… 임신부 등 11명 중경상</title>
-      <link>https://www.chosun.com/national/regional/2026/05/21/EQA7354IXBEA3FVFUKNDK44ZI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/21/EQA7354IXBEA3FVFUKNDK44ZI4/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 13:41:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSDSMBUHA3TCM3EMY4DKM3CMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 4시 50분쯤 경북 김천시 경부고속도로 추풍령휴게소에서 소방버스가 나무를 들이받았다 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;소방대원들을 태운 버스가 고속도로 휴게소를 향해 돌진하는 사고가 나 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;21일 오후 4시 50분쯤 경북 김천시 경부고속도로 추풍령휴게소 내에서 소방 버스가 나무를 들이받는 단독사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 버스에 타고 있던 소방대원 11명 중 6명이 중상, 5명이 경상을 입었다. 이들은 인근 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;중상자 중에는 임신부도 있었다. 1차 검사 결과 태아에는 이상이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사고는 버스가 휴게소로 진입하던 중 속도를 줄이지 못하고 그대로 계단 시설 등을 들이받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;버스는 휴게소 내 경부고속도로 준공 기념탑 방향 계단을 타고 10여m 가량 올라가 나무에 부딪힌 뒤 멈춰 섰다.&lt;br&gt;&lt;br&gt;이 버스는 충남 한 소방서 소속으로 대구에서 열린 국제소방안전박람회 행사에 참석한 후 복귀하던 중이었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 “브레이크가 말을 듣지 않았다”는 운전자의 진술을 토대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 검사 ‘검찰청 폐지’ 불복… 헌재에 권한쟁의 심판 청구</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/21/Y3OWFL4FQFFM5CHPJRGFG65DI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/21/Y3OWFL4FQFFM5CHPJRGFG65DI4/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 13:50:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDEOJQMYYTENLBMU4TEYJTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 검사가 검찰청 폐지 및 중대범죄수사청(중수청)·공소청 신설을 골자로 하는 정부조직법 개정안과 법왜곡죄 신설이 위헌이라며 헌법재판소에 권한쟁의심판을 청구했다. 권한쟁의심판이란 국가기관 사이의 업무·권한에 대해 헌재가 그 책임과 권한을 가려달라고 제기하는 소송이다.&lt;br&gt;&lt;br&gt;송연규 서울고검 검사는 지난 11일 국회의 중수청법과 공소청법, 형법 개정안 입법은 검사의 수사권, 영장신청권, 직무수행권을 침해한 행위라는 취지의 권한쟁의 심판 청구서를 제출했다.&lt;br&gt;&lt;br&gt;본지가 확보한 250여 쪽 분량의 청구서에서 송 검사는 “1987년 개정된 현행 헌법이 말하는 검사는 수사·수사 통제·기소를 하나의 책임 사슬 안에서 연결하는 형사사법주체”라며 “이번 정부조직법 개정안은 검사를 수사 기관의 결과물을 사후적으로 검토하는 공소 전담기관으로 재정의하고 있다”고 했다. 그러면서 “검사라는 명칭은 남지만 수사와 기소를 책임 있게 연결하지 못하고, 수사라는 명칭은 남지만 기소를 위한 사실 확인으로 기능하지 못하며, 기소라는 명칭은 남지만 수사의 적법성·필요성·충분성을 책임 있게 통제하지 못할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “신설되는 공소청법 등은 검찰청법 자체의 폐지, 수사 직무 삭제, 검찰 판단권 위축을 동시에 이뤄지게 했다”며 “헌법이 검사에게 부여한 권한을 일부 조정하는 수준이 아니라 권한 자체를 형해화하고 있다”고 했다.&lt;br&gt;&lt;br&gt;송 검사는 검찰 내부망 이프로스에도 글을 올려 “검사라는 이름은 그대로 두면서 그 의미를 바꾸는 순간 헌법이 정한 권한 배분과 통제의 기준도 함께 바뀐다”며 “공동체의 언어가 입법으로 재정의될 수 있다면 헌법의 모든 핵심 개념이 같은 방법으로 무너질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 헌재는 지난 2월 10일 김성훈 청주지검 중요경제범죄조사단 부장검사가 정부조직법 개정안에 대해 낸 헌법소원을 각하했다. 헌재는 해당 정부조직법 개정안이 기본권 침해 가능성이 없다고 보고 청구를 각하한 것으로 전해졌다. 김 부장검사는 지난해 말 헌법소원을 내면서 “검찰청 폐지 법안이 헌법이 검사에게 부여한 수사권을 완전히 박탈해 검사의 신분과 권리를 부당하게 침해한다”며 “기본권 침해 발생이 확실하고 현시점에서도 불이익을 충분히 예측할 수 있어 기본권 침해가 인정된다”고 주장했는데, 헌재가 이를 받아들이지 않은 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 특검 권창영, 첫 구속영장 기각된 날 “파견검사 부족해 실적 없다”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/21/K7TEYR3U2VBNZDMDX4XG5DMIUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/21/K7TEYR3U2VBNZDMDX4XG5DMIUQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 13:04:55 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZWGMDGGQZDQMBUGRTDMOLFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특검 특별검사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)의 남은 사건을 수사하는 권창영 2차 종합 특별검사가 21일 구속영장 발부나 기소 건수가 전무하다는 비판에 대해 “검사 정원이 15명에 불과하기 때문”이라고 했다. 앞선 3대 특검에 비해 인력이 부족해 당장은 실적이 부족할 수밖에 없다는 것이다. &lt;br&gt;&lt;br&gt;권 특검은 이날 내부구성원에게 보낸 담화문에서 “3대 특검과 비교해 구속영장 발부나 기소 건수가 전무하다고 부정적인 여론이 다소 있지만 이는 종합특검의 특수성에 대한 이해가 부족한 상태에서 제기되는 것”이라고 했다. &lt;br&gt;&lt;br&gt;권 특검은 “내란특검은 검사 정원 70명·기소 인원 24명이었고, 김건희 특검은 검사 정원 70명·기소 76명이었지만, 종합특검은 검사정원이 15명에 불과하다”면서 “구속영장을 청구하거나 공소를 제기하면 여기에 참여해야 하는 파견검사의 수사와 특검보의 수사 지휘에 상당한 제약이 생긴다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 권 특검은 “지휘부는 한정된 인력을 효율적으로 활용하기 위해 ‘초기 구속영장 청구 자제’ ‘조기 기소 금지’ 방침을 세웠다”면서 “구속영장 청구나 공소제기는 수사 기간 후반기에 집중될 수밖에 없다는 점을 이해하시고 수사에 매진해 주시기를 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;당장은 피의자 구속이나 기소 등의 성과가 드러나지 않더라도 인력 부족 때문인 만큼 맡은 바 책임을 다해 달라는 취지다.&lt;br&gt;&lt;br&gt;권 특검은 이날 담화문에서 지난 19일 기준 미제 사건은 89건, 피의자는 224명(중복 포함), 피조사 인원은 465명이라고 했다. 압수수색영장과 통신영장은 각각 113회와 14건을 집행했고, 디지털포렌식은 120건(참관 47건·분석 73건) 실시했다고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 법원은 특검이 내란 선전 혐의로 지난 18일 청구한 이은우 전 KTV 원장의 구속영장을 이날 기각했다. 이종록 서울중앙지법 영장전담 부장판사는 이 전 원장의 구속영장을 기각하며 “범죄 성립 여부에 다툼의 여지가 있고 도망과 증거 인멸의 우려가 있다고 보기 어렵다”고 했다. 이 전 원장은 지난 2월 25일 수사를 개시한 특검이 82일 만이자 1차 수사 기한(90일) 종료(24일)를 앞두고 구속영장을 청구한 첫 번째 피의자였다. 특검은 전날(20일) 청와대와 국회에 수사 기한을 30일 연장해 달라고 요청했다.&lt;br&gt;&lt;br&gt;또한 권 특검은 구성원들에게 “먼 훗날 가족이나 지인이 ‘내란이나 국정농단에 대해서 아빠·엄마는 무엇을 하였느냐?‘라는 질문을 했을 때 ’나는 헌법(憲法)의 검(劍)인 종합특검의 구성원으로 범죄자들을 수사해 형사처벌을 받게 했고, 헌법을 수호하고 정의로운 대한민국을 만드는 데 일조했다’고 자랑스럽게 말할 수 있도록 하자”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤호중 “스타벅스 반역사적 행태에 유감”.. .정부 행사서 상품권 사용 중단 방침</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/21/VXLJYQISOVEPTLGVD7MBAPJ3J4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/VXLJYQISOVEPTLGVD7MBAPJ3J4/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 12:52:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVFFD64O35AI5LD7P2E2YVER5A.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤호중 행정안전부 장관이 21일 오후 업로드한 스타벅스 '불매' 게시글. /X 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관은 21일 “민주주의는 수많은 시민들의 희생과 헌신 위에 세워진 것이다. 그 역사를 가볍게 여기거나 상업적 소재로 소비하는 행태는 결코 가볍게 넘길 수 없는 문제”라며 “최근 물의를 빚은 스타벅스 코리아의 반역사적 행태에 깊은 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;윤 장관은 이날 X(옛 트위터)에 글을 올리고 “행안부를 비롯한 정부기관들은 그동안 설문조사·공모전·국민참여 이벤트 등에 커피 교환권 등 모바일 상품권을 활용해 왔다”며 “앞으로 민주주의 역사와 사회적 가치를 가볍게 여기거나 상업적 소재로 활용한 기업의 상품은 제공하지 않겠다”고 밝혔다. 사실상 정부 행사와 이벤트에서 스타벅스 상품권 사용을 중단하겠다는 뜻으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWHVJD5UQVODXMSDBXRP24R3DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 광주 서구 광천동 이마트 광주점 앞에서 열린 기자회견에서 광주·전남 시민단체 관계자들이 5·18 '탱크데이' 행사로 물의를 빚은 스타벅스 코리아와 정용진 회장을 규탄하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타벅스 코리아는 지난 18일 ‘탱크 텀블러 시리즈’ 프로모션 행사에서 ‘탱크 데이’ ‘책상에 탁’ 등의 문구를 사용했다가 5·18 민주화운동과 박종철 열사 고문치사 사건을 희화화했다는 비판을 받았다. 논란이 커지자 행사는 중단됐고, 정용진 신세계그룹 회장은 19일 “모든 책임은 저에게 있다”며 “5·18 민주화운동 영령과 유가족, 국민 여러분께 깊은 상처를 드렸다”고 사과했다.&lt;br&gt;&lt;br&gt;논란이 확산하면서 지방자치단체와 지역 사회의 불매 움직임도 이어지고 있다. 광주시는 시 주관 행사에서 스타벅스 상품권 사용을 전면 중단하기로 했다. 광주시는 이날 입장문을 내고 “스타벅스코리아 사태를 단순한 실무자의 실수가 아닌 역사 인식이 부재한 최고경영자가 유발한 사회적 중대재해로 인식한다”고 밝혔다. 광주 일부 중·고교와 광주은행도 스타벅스 상품권·제품 사용 중단 방침을 정했다.&lt;br&gt;&lt;br&gt;광주·전남 지역 143개 시민사회단체도 불매운동에 나섰다. 이들은 광주 서구 이마트 광주점 앞에서 기자회견을 열고 “탱크데이 이벤트로 5·18을 모욕한 스타벅스 불매운동에 나서겠다”고 밝혔다. 참가자들은 ‘스타벅스 영정’ 앞에서 사용하던 스타벅스 컵과 텀블러를 부수기도 했다. 5·18기념재단과 공법 3단체는 22일 신세계백화점 광주점 앞에서 규탄 집회를 열 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 2차 종합특검 첫 구속영장 기각... 前KTV 원장 구속 피해</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/21/TXIEK3ZCHREA5GNC4E6ZTRFXHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/21/TXIEK3ZCHREA5GNC4E6ZTRFXHA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 12:05:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSWMNLBG5RTOZJUGIYWKOBRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12.3 비상계엄과 관련 내란 선전 혐의를 받는 이은우 전 한국정책방송원(KTV) 원장이 21일 오후 서울 서초구 서울중앙지방법원에서 영장실질심사를 마치고 호송 차량에 탑승해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검이 지난 2월 출범한 뒤 세 달 만에 처음 청구한 구속영장이 21일 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이종록 영장 전담 부장판사는 이날 내란 선전 혐의를 받는 이은우 전 KTV 원장의 구속영장 실질심사를 진행한 뒤 “혐의 성립 여부에 다툼의 여지가 있고, 재판 중인 사건의 진행 상황에 비춰볼 때 도망하거나 증거를 인멸할 우려가 있다고 보기 어렵다”며 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;이 전 원장은 2024년 12월 3일 비상계엄이 선포되자 같은 달 13일까지 공공 채널인 KTV를 통해 비상계엄과 포고령의 정당성을 반복해 보도한 혐의를 받는다. 특검은 이 전 원장이 비상계엄과 내란 행위를 비판하거나 저지하는 내용의 뉴스와 자막은 선별적으로 차단·삭제하고, 계엄의 정당성을 강조하는 내용만 보도했다고 본다.&lt;br&gt;&lt;br&gt;그러나 법조계에선 특검이 ‘이중 수사’를 벌이고 있다는 지적이 나왔다. 조은석 내란 특검팀은 앞서 이 전 원장이 비상계엄을 비판하는 뉴스 자막의 삭제를 지시한 혐의(직권남용)가 있다며 재판에 넘겼고, 1심 선고를 앞두고 있기 때문이다.&lt;br&gt;&lt;br&gt;이와 관련, 2차 종합특검의 권영빈 특검보는 이날 영장 심사를 앞두고 기자들과 만나 “법을 잘 모르는 분들이 얘기하는 걸로 본다”며 “중복되는 사실 관계가 있다고 하더라도 직권남용죄와 내란선전죄의 보호법익 등이 다르기 때문에 별개의 사건으로 볼 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>행안부, 스타벅스 불매 선언… “많은 기관·국민 공감해 주길”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/21/SNCFYNG2FBFVZNX4WSGA3KXANQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/SNCFYNG2FBFVZNX4WSGA3KXANQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 12:36:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDSZTFHAZWGMZYGFTDCZBRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤호중 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관이 ‘5·18 탱크데이(Tank Day)’ 이벤트로 물의를 빚은 스타벅스에 대해 사실상 기관 차원의 불매운동을 선언했다. 정부 부처 차원의 불매 움직임이 관가 전반으로 확산할지 이목이 쏠린다.&lt;br&gt;&lt;br&gt;윤 장관은 21일 X를 통해 “민주주의는 수많은 시민의 희생과 헌신 위에 세워진 것”이라며 “그 역사를 가볍게 여기거나 상업적 소재로 소비하는 행태는 결코 가볍게 넘길 수 없는 문제”라고 했다. 그러면서 “최근 물의를 빚은 스타벅스 코리아의 반역사적 행태에 대해 깊은 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “행정안전부를 비롯한 정부 기관들은 그동안 각종 설문조사·공모전·국민 참여 이벤트 등에 커피 교환권 등 모바일 상품권을 활용해 왔다”며 “그러나 이번 사안을 계기로 행정안전부는 앞으로 민주주의의 역사와 가치를 가볍게 여기거나 상업적 소재로 활용한 기업의 상품은 제공하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “이번 행정안전부의 조치에 많은 기관과 국민 여러분께서도 함께 공감해 주시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3V77TFZXGFPXFAKU5EBNKJJG7Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국가폭력피해범국민연대 등 33개 시민사회단체 활동가들이 21일 오전 서울시 종로구 세종대로 스타벅스 광화문점 앞에서  스타벅스 규탄 기자회견을 열고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부 부처 중 공직 문화를 담당하는 행안부가 스타벅스 불매를 사실상 공식화한 만큼 공무원 사회에도 상당한 영향을 미칠 수밖에 없을 것이라는 관측이 나온다. 공식적인 불매 방침이 내려지지 않은 부처라도 앞으로 상품권 관련 행사를 할 때 스타벅스를 쓰기 어려울 것이라는 반응도 나온다.&lt;br&gt;&lt;br&gt;광주시는 이날 강기정 시장의 지시에 따라 각종 행사 경품으로 스타벅스 상품권 등이 사용되는 일이 없도록 조치한 것으로 알려졌다. 시는 입장문에서 “스타벅스 코리아 사태를 단순한 실무자의 실수가 아닌 역사 인식이 부재한 최고경영자가 유발한 사회적 중대 재해로 인식한다”며 “국민 분노에 합당한 조처를 해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XLZPNBKYCRNW5P3YK6MHESWLNQ.jpg?auth=565fcb8f52f47883e96f7c620a0ba7f47c0824b0a675485b0c5d36b5cb2d4959&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">&lt;YONHAP PHOTO-5932&gt; 깨지고 부서진 스타벅스
-    (광주=연합뉴스) 김혜인 기자 = 21일 광주 서구 광천동 이마트 광주점 앞에서 열린 스타벅스 코리아 규탄 기자회견에서 스타벅스 텀블러와 컵 등이 깨지고 찌그러진 채로 놓여있다. 2026.5.21
-    in@yna.co.kr/2026-05-21 15:40:15/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘부부의 날’ 발상지 창원서 기념식… 12쌍의 모범 부부 시상도 </title>
-      <link>https://www.chosun.com/national/2026/05/21/LMB54FDVURBDROROYM772L7F64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/21/LMB54FDVURBDROROYM772L7F64/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 11:12:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBHU2ZQUYZGRVCPMFGK2NE2ZJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 부부의 날을 맞아 세계부부의날위원회는 경남  창원 그랜드 머큐어 앰배서더에서  ‘2026 세계부부의 날 기념식’을 가졌다. /세계부부의날위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법정 기념일인 ‘부부의 날’(5월 21일)을 맞아 부부의 날이 시작한 경남 창원에서 기념식이 열렸다. &lt;br&gt;&lt;br&gt;세계 부부의 날 위원회(위원회)는 21일 ‘그랜드 머큐어 앰배서더 창원’에서 올해 세계 부부의 날 기념식을 열었다. 세계 부부의 날은 부부 사랑과 화합의 중요성을 알리기 위해 지난 1995년 창원에서 처음 제정된 기념일이다. 지난 2007년 국가 법정 기념일로 지정된 후 매년 5월 21일 전국에서 기념 행사가 열리고 있다. 기념식에는 장금용 창원특례시장 권한대행과 하충식 세계부부의날위원회 총재, 권재도 목사, 올해의 부부상 수상자 등 200여 명이 참석했다.&lt;br&gt;&lt;br&gt;위원회는 기념식에서 오랜 세월 서로의 버팀목이 돼주며, 이웃과 사회를 위해 헌신한 모범 부부 12쌍과 기관 1곳에 시상했다.&lt;br&gt;&lt;br&gt;올해 대상은 김재호·전문희 부부에게 돌아갔다. 이들 부부는 뇌병변 1급 장애를 가진 자녀를 양육하면서 10여 년간 무의탁 노약자와 취약 계층을 위한 봉사를 하며 지역사회에 감동을 전했다. &lt;br&gt;&lt;br&gt;40여 년간 호떡 봉사를 이어온 양청문·최혜숙 부부도 이날 모범 부부상을 받았다. 두 사람은 지난 2022년 제11기 국민 추천 포상에서 국무총리 표창을 나란히 받은 데 이어 이번에도 부부가 함께 수상의 영예를 안았다. 아내의 암 수술 후에도 20여 년간 소외 계층을 대상으로 밥차 봉사를 이어간 이선구·이정숙 부부도 수상했다.&lt;br&gt;&lt;br&gt;기관 부문에서는 지역 사회 내 부부의 날 조례안 가결에 기여하고 소외 계층 봉사를 주도한 세계 부부의 날 경주위원회의 손견익·박분선 부부 등이 수상했다. &lt;br&gt;&lt;br&gt;하충식 세계 부부의 날 위원회 총재는 “이번 기념식은 오랜 세월 서로의 버팀목이 되어주며 이웃과 사회에 사랑을 나누어 온 참된 부부들의 삶을 조명하는 자리”라며 “이분들의 아름다운 이야기가 널리 알려져, 전국의 수많은 부부가 ‘부부의 날’의 의미를 되새기고 서로에 대한 고마움과 사랑을 표현하는 따뜻한 시간을 보내기를 바란다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“민원 넣었지” 손도끼 들고 문신 보여주며 협박한 50대 구속</title>
-      <link>https://www.chosun.com/national/2026/05/21/JYEZBBL72ZBZVHIQN2HDAI5EQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/21/JYEZBBL72ZBZVHIQN2HDAI5EQE/</guid>
-      <dc:creator>통영=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 09:29:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCWM7IM66YOY5S7REFULVOCG6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신에 대한 민원을 넣었다고 생각한 이웃을 흉기로 위협하고 협박한 혐의를 받는 50대가 구속돼 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;창원지검 통영지청 형사2부(부장 임홍석)는 21일 특수협박 및 특정범죄가중처벌법상 보복협박 등 혐의로 50대 남성 A씨를 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 통영의 한 관광지 일원에서 공방을 운영하는 A씨는 손도끼를 들고 인근 카페 업주와 종업원을 찾아가 “박살을 내겠다” “가만두지 않겠다”며 협박한 혐의를 받는다. &lt;br&gt;&lt;br&gt;또 지난 2월 21일 카페 업주가 경찰 수사에 협조했다는 이유로, 몸에 있는 문신을 보여주며 “향후 처벌을 받게 되면 보복하겠다”고 협박한 혐의도 있다.&lt;br&gt;&lt;br&gt;평소 A씨는 공방에서 만든 물품 등을 인근 통행로에 뒀는데, ‘통행에 방해가 된다’는 민원이 들어와 계도 등이 진행됐다고 한다. 이에 A씨는 이웃인 카페 업주가 자신에게 민원을 넣었다고 생각해 이 같은 범행을 저지른 것으로 전해졌다. &lt;br&gt;&lt;br&gt;검찰은 지난 1월 20일 경찰로부터 종업원에 대한 협박 사건으로만 A씨를 불구속 송치받았지만, 보완 수사를 통해 같은 날 카페 업주를 상대로 한 협박과 지난 2월 보복 협박 사건을 추가 확인하고 지난 14일 A씨에 대한 구속영장을 발부받았다. &lt;br&gt;&lt;br&gt;검찰은 “A씨는 평소 이웃과 잦은 분쟁을 일으켜 이웃 주민들에게 불안감을 주던 중 이 범행을 저질렀다”며 “수사 및 재판 과정에서 실제로 발생할 수 있는 보복 범죄를 사전에 차단하고, 범죄 피해자 보호에 만전을 기하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘학내비리 공익제보’ 50대 고교 교사 추락 사망 </title>
-      <link>https://www.chosun.com/national/regional/2026/05/21/WMOGHJH55NDVNBADSLGWBJUDEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/21/WMOGHJH55NDVNBADSLGWBJUDEY/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 10:46:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3TCYLBMM2WKMRZG5RTCMZWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 이천시 장호원읍 한 아파트에서 50대 고교 교사가 추락해 숨졌다.&lt;br&gt;&lt;br&gt;21일 경찰 등에 따르면, 이날 오후 2시쯤 경기 이천시 장호원읍의 한 아파트 1층 출입구 근처에서 이 아파트 13층에 사는 50대 고등학교 교사 A씨가 추락해 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 2023년 말 자신이 소속된 학교 관계자의 횡령과 음주운전 등 비리와 관련한 공익제보를 했다. 이후 학교 관계자로부터 명예훼손 등으로 고소를 당했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현장에서 유서는 발견되지 않았다. 경찰은 CCTV와 현장 정황증거 등을 토대로 범죄 혐의점은 없는 것으로 보고 있다. &lt;br&gt;&lt;br&gt;경찰은 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘유서 대필 누명’ 강기훈… 法 “국가가 6700만원 추가 배상해야”</title>
