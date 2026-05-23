@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>화성 빌라서 불… 20대 손자 숨지고 80대 할머니 화상</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/IFVAAZ7UONDIDAATCH4JISK6Y4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/IFVAAZ7UONDIDAATCH4JISK6Y4/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 09:58:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3GGOLEHFSGCNZVHE2DGM3FHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성 다가구주택 화재 현장./ 경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 12시 47분쯤 경기 화성시의 한 다가구주택 4층에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 화재로 불이 난 세대 거주자인 20대 남성 A씨가 숨지고, 80대 여성 B씨는 얼굴 부위에 2도 화상을 입었다. A씨는 B씨의 손자로 알려졌다. &lt;br&gt;&lt;br&gt;5층에 있던 주민 4명은 소방대원이 구조했고, 다른 8명은 스스로 대피해 추가 인명피해는 없었다.&lt;br&gt;&lt;br&gt;“빌라 4층에서 검은 연기가 발생한다”는 119 신고를 받고 출동한 소방 당국은 장비 27대와 소방관 등 75명을 투입해 오후 1시 55분쯤 불을 껐다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인과 피해 규모를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>말다툼하던 동료 흉기 휘둘러 살해… 60대 통근버스 기사 체포</title>
+      <link>https://www.chosun.com/national/incident/2026/05/23/UJCTFW724ZCKDDL6F4MI44OC4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/23/UJCTFW724ZCKDDL6F4MI44OC4Q/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 May 2026 09:49:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTIMJVGIYGGNBWHFRTMMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼하던 동료에게 흉기를 휘둘러 숨지게 한 60대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;충북 괴산경찰서는 살인 혐의로 60대 A씨를 현행범 체포했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;통근버스 기사인 A씨는 이날 오후 3시쯤 충북 증평군 회사에서 동료 기사 60대 남성 B씨에게 흉기를 휘둘러 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 B씨와 말다툼을 벌이다가 흉기를 꺼내 든 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고, 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“북측”에 발끈한 北 내고향... 기자회견장 박차고 나갔다</title>
       <link>https://www.chosun.com/national/national_general/2026/05/23/GNS6CMRSKJA3DA6TO7Y5UT72M4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/GNS6CMRSKJA3DA6TO7Y5UT72M4/</guid>
@@ -922,24 +940,6 @@
       <description/>
       <pubDate>Thu, 21 May 2026 15:40:00 +0000</pubDate>
       <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIT6COQY4ZC5ZHASNTOZG5IFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>엄마·아빠 회사가 놀이공원 변신… “패밀리 데이 기다려져요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/22/B6NXSKREUZEHHNL2XPUWOUXANU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/22/B6NXSKREUZEHHNL2XPUWOUXANU/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>어린이날인 지난 5일, 삼성전기에 근무하는 윤정원 프로(사원부터 부장까지 아우르는 이 회사의 직급 호칭)는 세 아이를 데리고 수원에 있는 회사로 향했다. 평소 일반인 출입이 안 되는 회사가 어린이날에는 거대한 놀이공원으로 바뀌기 때문이다. 아이들은 엄마의 사무실 책상에 앉아보기도 하고, 사내 식당에서 식사를 하며 엄마의 ‘회사 생활’을 간접 체험했다. 윤 프로는 “아이들이 ‘엄마 회사에 우리가 언제 또 가냐’고 자꾸 묻는다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5EZSLU6XJF6DCDDNEVAJJ32BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOHVQ3UHYVGFZK76YKXEW6FMIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEJAUD2265DXLDOEVHAQVNBIVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전기가 매년 5월 임직원 가족을 위한 '패밀리 데이'를 연다. 사업장이 아이들을 위한 테마파크로 변신한다. 직원 가족들은 포토존에서 사진을 찍고(위), '버블 매직쇼'를 관람할 수 있다(가운데). 유아들이 장난감 삽과 양동이를 들고 촉감 놀이(아래)를 할 수 있는 공간도 마련됐다. /삼성전기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전기는 매년 5월 임직원 가족을 위한 ‘패밀리 데이’를 연다. 국내 3개(수원·세종·부산) 사업장의 임직원 가족 8000명을 초대하는 대규모 행사다. 올해도 어린이날 수원·세종 사업장이 ‘아이들을 위한 놀이터’로 개방됐다. 에어바운스와 꼬마 기차 등 다채로운 놀이 시설마다 어린이들의 웃음이 끊이지 않았다. 아이들은 ‘버블매직쇼’를 관람하며 탄성을 쏟아냈고, 회사 곳곳을 돌아다니며 ‘도장 찍기 미션’도 진행했다. 사막다람쥐와 고슴도치, 왕관앵무새 등 30종의 동물을 만져볼 수 있는 ‘미니 동물원’도 인기였다. 박봉수 삼성전기 피플팀장(부사장)은 “‘패밀리 데이’를 통해 아이들이 엄마·아빠가 일하는 공간을 둘러보면서 온 가족이 함께 추억을 만들어 주고 있다”고 했다. 부산 사업장의 경우, 지난 3일 경남 마산 로봇랜드를 대관해 패밀리데이를 열었다&lt;br&gt;&lt;br&gt;삼성전기는 2013년 여성가족부(현 성평등가족부)의 가족친화기업 인증을 처음 받은 뒤 현재까지 이를 유지하고 있다. 그만큼 다양한 육아·가족 지원 제도를 운영 중이란 의미다. 전체 직원 수는 1만1577명(지난해 말 기준)으로 이 중 약 25%인 2763명이 여성이라고 한다. 삼성전기가 가족 친화 제도에 공을 들이는 것은 일과 가정의 양립이 기업 경쟁력에 도움이 된다는 판단 때문이다. 회사에 대한 직원들의 만족도가 높아지면, 업무 성과도 함께 올라간다고 본 것이다. 실제 지난 10년간 삼성전기의 매출 규모는 2배 가까이 늘었다. &lt;br&gt;&lt;br&gt;최근 첫아이를 임신한 최미진(44) 프로는 ‘마미(Mommy) 휴직’을 신청했다. 임신 초기부터 쓸 수 있는 ‘마미 휴직’은 법정 출산휴가 전에도 최대 8개월(무급)까지 쉴 수 있는 제도다. 최 프로는 “주변 친구들은 출산 직전까지 출퇴근하는 경우가 많아 걱정이 컸는데, 임신 초기부터 눈치 보지 않고 안정을 취할 수 있어 마음이 가벼워졌다”고 했다. 특히 쌍둥이를 갖게 된 고위험 임산부는 임신 기간 동안 하루 두 시간씩 ‘유급 단축 근무’도 할 수 있다.&lt;br&gt;&lt;br&gt;난임으로 어려움을 겪는 직원들을 위해선 연 최대 6일(유급 5일·무급 1일)의 난임 휴가가 제공된다. 법정 기준(연 최대 6일·유급 2일)보다도 유급 휴가 지원 기간이 더 길다. 난임 휴직은 최대 1년까지 사용할 수 있는데, 여성뿐 아니라 남성 임직원도 대상이다. 부부가 함께 난임 치료에 집중할 수 있도록 한 것이다. 난임 의료비는 1건당 50만원 한도로 연간 100만원까지 지원한다. 건강보험 지원 없이 환자 본인이 모두 부담해야 하는 비급여 항목까지 지원 대상에 포함된다.&lt;br&gt;&lt;br&gt;육아휴직 기간 역시 법정 기준보다 길다. 법정 기준은 만 8세 이하 자녀가 있는 경우 최대 1년 6개월까지 사용할 수 있지만, 삼성전기에선 12세 이하 자녀를 둔 경우 최대 2년까지 가능하다. 부부가 함께 휴직하는 등 특정 조건을 충족할 땐 최대 2년 6개월까지도 사용할 수 있다. 쌍둥이 초등학생 자녀를 키우는 임은정(44) 프로는 최근 두 번째 육아휴직에 들어갔다. 아이들이 어릴 때 육아휴직을 쓰고, 초등학교에 입학해 손길이 많이 가는 시기가 되자 다시 휴직을 한 것이다. 임 프로는 “아이들이 학교에 입학하니 신경 써야 할 부분이 많았는데, 회사가 적극적으로 배려해줘 휴직을 결심했다”고 했다. 복직 이후에도 한 달 간 업무 적응 기간이 있다고 한다. 삼성전기의 육아휴직 복귀율은 99%에 달한다.&lt;br&gt;&lt;br&gt;또 이 회사는 직원들의 육아 지원을 위해 자율 출퇴근제도 운영 중이다. 1개월 단위로 정해진 총 근로시간 범위 내에서 출퇴근 시간을 자율적으로 택할 수 있어 아이 있는 직원들이 특히 좋아하는 제도라고 한다. 아이 등하원에 맞춰 출퇴근 시간을 변경할 수 있어서다. &lt;br&gt;&lt;br&gt;삼성전기는 사업장마다 3개의 사내 어린이집을 운영할 뿐 아니라 학자금 지원 제도도 ‘빵빵’하다. 유치원생 자녀를 대상으로는 연간 240만원을, 중·고등학생 자녀를 대상으로는 연간 300만원을 지원한다. 대학교 학자금은 국내 대학은 등록금 전액을, 해외 대학은 연간 1500만원 한도에서 지원한다. 특히 장애가 있는 자녀는 학자금 전액을 실비로 지원해준다. 삼성전기 관계자는 “직원들이 회사에 대한 만족도가 클수록 업무 능력도 올라간다”며 “앞으로도 직원들이 체감할 수 있는 지원책을 계속 발굴해나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 지고지순(至高至純)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/05/22/FRZLE5XVS5BUNLXEG32EUIVIXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/05/22/FRZLE5XVS5BUNLXEG32EUIVIXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5S6I6HZS7NB43JT45KR7DHSFBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘유서 대필 누명’ 강기훈… 法 “국가가 6700만원 추가 배상해야”</title>
