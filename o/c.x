@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 尹 체포 반대 ‘백골단’ 김정현... 美국무부, 공공기관 이사 임명</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/24/YESM2BGEMVC25PQBPVWRARSUYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/24/YESM2BGEMVC25PQBPVWRARSUYE/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 13:53:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWYNOCUOS5GPLN4FJYACWWRRLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정현 반공청년단장/ 김 단장 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 국무부가 12일 마르코 루비오 장관의 지명으로 김정현 반공청년단장을 하와이 동서문화센터(East-West Center) 이사로 임명한 것으로 24일 확인됐다.&lt;br&gt;&lt;br&gt;동서문화센터는 1960년 미 의회가 미국과 아시아 국가 간 외교력 향상을 위해 하와이대학 내 설립한 공공 연구기관이다. 이사회 멤버는 총 18명으로 구성되며 이 가운데 5명은 미 국무부 장관이 직접 임명한다. 과거 데이비드 스틸웰 미 국무부 동아시아·태평양 담당 차관보, 커트 캠벨 전 미국 국무부 부장관 등도 미 국무부 장관 지명으로 동서문화센터 이사를 역임했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2K7V33TDQL5PZWELC4ELAMHRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정현 반공청년단 단장과 단원들이 지난해 1월 9일 서울 여의도 국회 소통관에서 반공청년단 출범 기자회견을 한 뒤 취재진 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 단장은 2024년 윤석열 전 대통령의 탄핵소추안이 국회에서 통과된 뒤 ‘백골단’을 자처하며 대통령 관저 인근에서 흰 헬멧을 쓰고 대통령 체포 반대 집회를 열었다가 논란을 일으켰다. 백골단은 1980~1990년대 시위대를 진압하기 위해 구성된 사복 경찰 부대의 별칭이다. 이승만 정부 때 자유당이 조직한 백색 테러 단체와도 이름이 같아 한국 현대사에서 부정적인 의미가 강하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOFJFLASIFAQDC75YOHZCPODDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정현 반공청년단장이 미 국무부로부터 받은 임명장. /김 단장 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국과 미국 이중국적자인 김 단장은 백골단 논란 이후 미국에서 ‘백서스정책연구소’ 이름으로 활동해 왔다. 김 단장이 공개한 임명 서한에서 루비오 장관은 “김 단장의 탐사 기자, 제대 군인, 인도·태평양 지역의 정치 안보 이슈에 대한 정책 연구 전문가 등 활동 이력은 동서문화센터 이사회에 큰 힘이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 단장은 본지에 “한·미 안보 군사 동맹을 위한 가교 역할을 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘5·18 특별법 위반 혐의’ 정용진 피의자 입건</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/24/VGICUOUTYJD2LOYPRTRJE3M2FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/24/VGICUOUTYJD2LOYPRTRJE3M2FM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 14:03:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZGEMLBMY4WEMTDGBRDSYRYGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정용진 신세계그룹 회장./신세계그룹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5·18 민주화운동을 폄하했다는 논란에 휩싸인 스타벅스코리아 대주주 신세계그룹 정용진 회장이 고발 절차상 피의자 신분으로 입건됐다.&lt;br&gt;&lt;br&gt;24일 서울경찰청 공공범죄수사대는 정 회장과 손정현 전 스타벅스코리아 대표를 모욕 및 5·18 민주화운동 등에 관한 특별법 위반 등 혐의로 입건했다고 밝혔다. 이들은 지난 18일 텀블러 프로모션을 진행하는 과정에서 ‘탱크데이’ ‘책상에 탁!’이라는 문구를 사용하며 5·18 유공자와 유족 등을 모욕한 혐의를 받는다.&lt;br&gt;&lt;br&gt;다만 경찰의 피의자 입건은 지난 20일 시민단체 고발에 따른 절차상 조치로, 통상적으로 말하는 혐의 정황이 발견된 것은 아니다. 아직 정 회장과 손 전 대표에 대한 소환 조사는 이루어지지 않았다.&lt;br&gt;&lt;br&gt;경찰은 곧 스타벅스가 어떤 경위로 이 프로모션을 기획했으며 내부 문제 제기 등은 없었는지, 어느 선까지 보고됐는지 등에 대한 본격적인 수사에 나설 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2WFNFT4MQBEJBMOLQSB7IAEYUY.JPG?auth=1210ac43183d31d63507fdf36f201df63f63b6c19e13169a89dd7f76a3fee7fe&amp;smart=true&amp;width=1018&amp;height=573" type="image/jpeg" height="573" width="1018">
+        <media:description type="plain">정용진 신세계그룹 회장.(신세계그룹 제공).</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>조국 유세 현장서 선거사무원·경찰 폭행한 40대 유튜버 검거</title>
+      <link>https://www.chosun.com/national/incident/2026/05/24/MATLBTUSABGDHGJL74Q7GU2CFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/24/MATLBTUSABGDHGJL74Q7GU2CFQ/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 13:10:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJ6ZPG5Q2EEAFSQDZQEYGVIR2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;평택경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택을 국회의원 재선거에 출마한 조국혁신당 조국 후보의 선거 사무원을 폭행한 40대 유튜버가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;평택경찰서는 공직선거법 위반과 공무집행방해 등 혐의로 유튜버 A씨를 붙잡아 조사 중이라고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 낮 12시쯤 경기 평택시 정토사에서 조 후보 측 선거사무원인 B씨의 옷을 끌어당기고 때리는 등 수차례 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨는 부처님 오신 날을 맞아 해당 사찰에서 조 후보와 함께 선거운동을 하던 중 폭행을 당했다고 한다.&lt;br&gt;&lt;br&gt;당시 조 후보의 신변 보호를 위해 현장에서 대기하고 있던 경찰관이 제지에 나섰으나, A씨는 이들에게도 발길질하며 폭행했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 현행범으로 체포해 정확한 사건 경위와 동기 등을 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서산 자동차 부품 공장서 불...소방관 2명 다쳐</title>
+      <link>https://www.chosun.com/national/incident/2026/05/24/LJBCJTCI5BB7FLH6SZYE6FQGP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/24/LJBCJTCI5BB7FLH6SZYE6FQGP4/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 12:55:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSWIZDEMYYGCYRRGQ3TCNRYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서산 음암면 공장 화재 현장. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서산시 소재 자동차 범퍼 제조 공장에서 불이 났다. 소방은 대응 1단계를 발령, 화재 발생 약 10시간 만에 큰불길을 잡았다. 이 과정에서 바닥이 붕괴하는 사고가 발생해 소방관 2명이 다쳤다.&lt;br&gt;&lt;br&gt;24일 충남도 소방본부에 따르면, 이날 오전 8시 54분쯤 충남 서산시 음암면 한 자동차 범퍼 제조 공장에서 불이 났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 관할 소방서 인력 전체가 출동하는 ‘대응 1단계’를 발령, 헬기와 파괴차, 굴착기 등 장비 76대와 인력 405명을 투입해 이날 오후 7시쯤 초진을 완료했다.&lt;br&gt;&lt;br&gt;이 과정에서 2층에서 불을 끄던 소방관 2명이 바닥이 붕괴되면서 추락해 다쳤다. 또 공장 내에서 근무하던 6명은 대피했으며, 2명이 연기를 흡입해 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;소방은 대응 단계를 유지한 채 잔불을 정리하고 있지만, 공장 내부에 플라스틱 가연물이 많아 완진까지는 시간이 더 걸릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 불을 끄는 대로 화재 경위와 피해 규모 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 양평서 승용차가 전신주 ‘쾅’...노부부 사상</title>
+      <link>https://www.chosun.com/national/incident/2026/05/24/Z2QN7YD74BCDDA2L6SJ2SW5J4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/24/Z2QN7YD74BCDDA2L6SJ2SW5J4A/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 12:01:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRTGMTGG4YTANBVGIZTKMRSGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 양평경찰서 신청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양평군 한 도로에서 승용차가 전신주를 들이받아 1명이 숨지고, 1명이 다쳤다.&lt;br&gt;&lt;br&gt;24일 경찰 등에 따르면, 이날 오후 6시 16분쯤 경기 양평군 용문면 삼성리 한 도로에서 80대 남성 A씨가 몰던 승용차가 전신주를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 동승자이자 A씨의 아내인 70대 여성 B씨가 심정지 상태로 인근 병원으로 옮겨졌지만 숨졌다. A씨는 흉통 등을 호소해 병원에서 치료받고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 5·18 허위 사실 유포 관련 37개 계정 내사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/24/BXK7I63K7NCNXJOY6RAKJM6264/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/24/BXK7I63K7NCNXJOY6RAKJM6264/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 11:29:11 +0000</pubDate>
+      <content:encoded>경찰청이 소셜미디어를 통해 5·18 관련 허위 사실을 유포한 37개 계정에 대해 입건 전 조사(내사)에 나섰다고 24일 밝혔다. 경찰은 이들 계정의 작성 및 유포 경로 등을 조사 중이며, 지난 22일부터 이날까지 게시글 240건을 삭제·차단 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSDMNJZHFRTIMDGMIZTMZRQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인공지능을 활용한 가짜 광주일보 지면. 5·18민주화운동 당시 북에서 지령받은 간첩들이 무기고를 탈취해 계엄군을 공격했다고 적고 있으나 1980년 당시 광주일보는 존재하지 않았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령은 지난 21일 “5·18 관련 가짜뉴스와 피해자 모욕 행위를 응징하라”고 지시했다. 이에 경찰청은 가짜뉴스 유포에 대해 적극 수사하고 관련 게시물을 삭제·차단하겠다고 22일 밝혔다. 이어 이틀 만에 수사 상황을 밝힌 것이다.&lt;br&gt;&lt;br&gt;경찰은 이날 인공지능(AI)을 이용해 1980년 5월 당시 광주일보를 모방한 합성물로 허위 사실을 유포한 네티즌을 검거했다고도 밝혔다.&lt;br&gt;&lt;br&gt;광주경찰청 사이버범죄수사대는 5·18 민주화운동 등에 관한 특별법 위반, 명예훼손, 업무방해 등 혐의로 50대 여성 A씨를 24일 검거해 조사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 광주 지역 일간지인 광주일보의 판형, 기사 등 형식을 모방한 이미지를 지난 21일 자신의 소셜미디어 계정을 통해 유포한 혐의를 받는다. 이 이미지에는 5·18 사태가 북한에서 내려온 간첩들이 무기고를 탈취해 계엄군을 공격한 것이라는 허위 사실이 담겨 있다. 1980년 당시 광주일보 또한 존재하지 않았다. 경찰은 압수물 분석 등을 통해 공범이나 배후가 있는지 등을 수사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>용인 분수 조성 공사장서 60대 작업자 사망</title>
       <link>https://www.chosun.com/national/national_general/2026/05/24/DV6AQDUJ5VHYXBHT2RSM73VAPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/24/DV6AQDUJ5VHYXBHT2RSM73VAPI/</guid>
@@ -935,67 +992,6 @@
       <description/>
       <pubDate>Fri, 22 May 2026 03:43:34 +0000</pubDate>
       <content:encoded>2차 종합특검(특별검사 권창영)이 22일 ‘계엄 정당화 메시지 의혹’과 관련해 홍장원 전 국가정보원 1차장을 피의자 신분으로 소환했다. 홍 전 차장이 특검의 조사를 받는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVPCB4S6NRNGJDY52M5DO55FRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원 전 국가정보원 1차장이 22일 경기 과천시 2차 종합특검 사무실로 출석해 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 차장은 이날 오전 9시 53분쯤 경기 과천시 특검 사무실에 출석했다. 그는 “(특검의) 사전 조사나 통보 없이 갑작스럽게 입건됐고 소환 통보를 받았다”며 “12월 3일의 밤이 길었어도 하룻밤이었다. 아무리 생각해도 걱정을 시켜 드릴 만한 일은 하지 않은 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 12·3 비상계엄 선포 직후 국정원이 미국 등 주요 우방국에 계엄을 정당화하는 내용의 메시지를 전달하는 데 관여했다는 혐의(내란 중요임무 종사)를 받는다. 특검은 조태용 전 국가정보원장의 지시에 따라 홍 전 차장 산하 해외 담당 부서가 비상계엄 관련 ‘대외 설명자료’를 미국 중앙정보국(CIA) 측에 전달했고, 홍 전 차장이 이 과정을 보고받고 재가한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;홍 전 차장은 모든 혐의를 부인하는 입장이다. 홍 전 차장은 “조 전 원장으로부터 계엄 옹호 메시지를 전달하라는 지시를 받은 적이 없다”며 “과연 조 전 원장이 저에게 그런 지시를 할 수 있는 상황이었는지 생각해 보시면 상식적인 선에서 이해가 될 것”이라고 말했다. 특검이 압수한 ‘대외 설명 자료’에 대해선 “뭘 얘기하는 것인지 정확하게 특정이 안 돼 모르겠다”며 혐의를 거듭 부인했다.&lt;br&gt;&lt;br&gt;전날 조 전 원장의 1심 선고에서 재판부가 홍 전 차장의 ‘정치인 체포’ 관련 진술을 배척한 것에 대한 입장을 묻는 취재진 질문에는 “받아들이고 안 받아들이는 것은 법원의 일이고, 제가 말씀드릴 상황은 아닌 것 같다”고 했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 비상계엄 이후 이어진 수사와 탄핵 심판 과정에서 핵심적인 증언을 했던 인물이다. 그는 앞서 헌법재판소와 국회 등에 증인으로 출석해 계엄 선포 직후 윤석열 전 대통령으로부터 정치인 체포를 지시하는 취지의 전화를 받았다고 증언했다. 홍 전 차장의 진술은 윤 전 대통령의 탄핵 심판과 내란 우두머리 혐의 1심 재판에서 사실로 인정됐다.&lt;br&gt;&lt;br&gt;홍 전 차장은 또 이 같은 체포 지시 내용을 조 전 원장에게 보고했지만, 조 전 원장이 이를 묵살했다고도 주장했다. 이는 내란특검팀이 조 전 원장을 직무유기 등 혐의로 기소하는 데 주요한 근거가 되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주서 위조 中 위안화 환전하다 들통난 20대 중국인</title>
-      <link>https://www.chosun.com/national/regional/2026/05/22/APFY5LJSOFAQNHR7QHIFVX3XGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/22/APFY5LJSOFAQNHR7QHIFVX3XGA/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 May 2026 01:59:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYSFPJXHQRPUULFXYQ6DZJKE7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위안화/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 위조 중국 위안화를 한국 돈으로 환전한 20대 중국인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;제주동부경찰서는 사기 및 위조통화행사 혐의로 중국인 관광객 A씨를 불구속 송치했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7일 제주시에 있는 환전소 2곳에서 위조된 100위안짜리 지폐 96매(약 212만원)를 원화로 환전한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 제주시 연동에 위치한 환전소에서 100위안짜리 지폐 10매를 환전한 뒤 장소를 옮겨 제주시 삼도2동의 환전소에서 86매를 환전한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 위조지폐인 것을 확인한 두 번째 환전소 측의 신고를 받고 출동한 경찰에 긴급 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 “위조지폐인 것을 몰랐다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 12일 A씨를 검찰에 불구속 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘내신 전과목 1등급’ 6배로 늘자… ‘자퇴할까’ 고민도 늘어</title>
-      <link>https://www.chosun.com/national/education/2026/05/22/2J4ZQUUXTVCDXHTNRLLQOVHPOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/22/2J4ZQUUXTVCDXHTNRLLQOVHPOE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKREUJJ4OIMHQQ3W7IBNZQA4NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 학원가 앞에 내신 성적 향상을 안내하는 학원 광고 문구가 써있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 ‘내신 5등급제’가 처음 실시된 가운데, 내신 시험에서 전 과목 1등급을 받은 고등학교 1학년(현재 고2)이 전국적으로 4500명이 넘은 것으로 나타났다. 내신 9등급제를 적용하던 2024년보다 6배 이상이 됐고, 수도권 의대 입학 정원의 5배에 가깝다. 내신이 5등급제가 되면 변별력이 크게 떨어질 것이란 우려가 많았는데, 현실로 나타난 것이다. ‘한 과목이라도 1등급을 놓치면 의대에 못 간다’는 생각에 학교를 자퇴하고 수능에만 집중하자는 분위기가 늘어날 것이란 우려가 나온다. &lt;br&gt;&lt;br&gt;21일 김용태 국민의힘 의원실이 17개 시도교육청에서 받은 ‘23~25년 전국 고1 내신 현황’ 자료에 따르면, 지난해 고1 학생 42만3257명 가운데 1·2학기 모두 전 과목에서 1등급을 받은 학생은 4588명(1.1%)이었다. 2023년 739명(0.16%), 2024년 712명(0.16%)의 6배 이상이 됐다.&lt;br&gt;&lt;br&gt;고교 학점제가 도입된 지난해 고1은 내신 산출 방식도 9등급제에서 5등급제로 바뀌었다. 내신 5등급제일 때 1등급 비율은 ‘상위 10%’로, 9등급제(상위 4%) 때보다 2.5배로 늘었다. 내신 경쟁의 부담을 줄여주자는 취지로 도입했지만, 내신 변별력이 지나치게 약화될 것이란 우려도 제기됐었다. 그런데 실제 전 과목 1등급 학생이 9등급제일 때보다 6배 이상으로 늘면서 교육계 우려가 현실이 된 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIYYCNUOQBFJFLNWHIGQ5MY2D4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사교육 업계에선 1학년 때 전 과목 1등급 학생이 크게 늘면서 3학년 때까지 전 과목 1등급을 유지해야 수도권 의대를 갈 수 있다고 보고 있다. 지난해 전 과목 1등급을 받은 고1 규모(4588명)는 이들이 대학에 가는 2028학년도 수도권 12개 의대 입학 정원(1022명)의 4.5배에 달한다. 전국 39개 의대 입학 정원(3628명), 서울대 입학 정원(3603명)보다도 많다. &lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “전 과목 1등급인 고1 학생만으로도 이미 의대 정원을 넘어섰기 때문에 2~3학년 때에도 전 과목에서 1등급을 받지 않으면 수도권 의대에 가기 힘들 것으로 보인다”고 했다. 그러다보니 자퇴를 하는 학생이 늘 것이라는 전망도 있다. 이미 대학 입학자 가운데 검정고시 출신 비율은 2019년 1.3%에서 2024년 2.7%로 증가했는데, 이런 추세가 더 가속화될 수 있다는 것이다.&lt;br&gt;&lt;br&gt;더 큰 문제는 대학들이 내신 변별력 약화를 우려해 수시 모집에서 내신뿐 아니라 다양한 요소를 보기로 해 ‘학생들 부담’이 더 늘어났다는 점이다. 예컨대, 한양대는 2027학년도 수시 모집 선발 인원 중 54.2%(859명)에게만 수능 최저학력기준을 요구했는데, 2028학년도엔 이를 80.7%(1606명)로 늘렸다. 경희대는 46.5%에서 56%, 서강대도 38.4%에서 46%로 늘렸다. 수시에 지원한 내신 우수생들의 실력을 수능으로 한 번 더 확인하겠다는 취지로, 학생은 내신과 수능 둘 다 챙겨야 하는 상황이 됐다. 이 외에도 연세대나 이화여대 등은 내신 성적이라는 정량 평가가 거의 전부였던 학생부 교과 전형에 어떤 수업을 듣고 어떤 탐구 활동을 했는지 등의 정성 평가를 추가하기도 했다. &lt;br&gt;&lt;br&gt;게다가 현재 고2 학생들은 고교 학점제와 내신 5등급제 등 새로운 제도가 적용된 첫 학년이다 보니 더욱 혼란스러울 수밖에 없다. 이전 입시 자료로는 ‘어느 정도 성적이면 원하는 대학에 갈 수 있는지’ ‘지금 내신으로는 어떤 대학들에 지원해 볼 수 있을지’ 등을 예측하기 힘든데, 지난해 전 과목 내신 1등급은 이전보다 급증하기까지 했으니 학생들의 불안감은 더 커질 수밖에 없다. &lt;br&gt;&lt;br&gt;하지만 일각에선 고등학교 3년 내내 전 과목 1등급을 유지하는 일 자체가 쉽지 않고, 현 고2는 이전보다 상대평가로 내신을 산출하는 과목 자체가 늘었기에 사교육계에서 우려하는 것만큼 내신 변별력이 약화되지 않을 거란 의견도 나온다. 교육부 관계자는 “대학들이 정시 전형에서 수능 점수만 보는 게 아니라 학교 출결과 학생부까지 함께 보는 추세여서, 내신이 안 좋다고 학교를 그만두면 수시와 정시 모두 불리해질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조훈현 “위기 때 선택 다르더라” 이창호 “AI도 괴로워하는 것 같아”</title>
-      <link>https://www.chosun.com/national/people/2026/05/22/435KEZBUAVDBVDV2GHNMSQXWKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/22/435KEZBUAVDBVDV2GHNMSQXWKM/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7O5Z5CIJFECFGGPXFUCUBMF2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조훈현(왼쪽)과 이창호는 AI를 동반한 ‘사제 대결’에 대해 “AI와 합을 맞추기 어려웠지만, 새롭고 재미난 경험이었다”고 입을 모았다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“재미있었습니다. 그런데 (AI에) 맞추기가 힘들던데요.”&lt;br&gt;&lt;br&gt;조훈현 9단은 21일 처음으로 AI(인공지능)와 복식 바둑을 두고서 “AI가 사람이 생각하지 못하는 수를 두니까 그 뜻을 이해하기 어려웠다. 연구를 많이 해야 할 것 같다”고 말했다. 이날 백을 쥔 조훈현의 AI가 흑과 전투 중에 갑자기 포기하는 장면이 있었다. 조훈현은 “인간 기사(棋士)라면 보통 이어갔어야 할 수인데 그냥 손을 빼버리더라”며 “AI는 계산이 되니까 그렇게 두겠지만, 사람 머리로는 도저히 그렇게 둘 수 없다”고 했다. &lt;br&gt;&lt;br&gt;종반 패착에 대해서도 그는 인간과 AI의 감각 차이를 말했다. “내 생각대로 뒀으면 진행이 매끄러웠을 텐데, AI가 여기 뒀다 저기 뒀다 하니까 어렵더군요. AI에 맞춰야 하나, 내 머리에 맞춰야 하나 고민하다가 (국면이) 엉뚱하게 흘렀어요.” 그는 “사람은 한 집 차이나 백 집이나 지는 건 똑같으니 어떻게든 상대를 흔들려고 하는데, AI는 (집 차이) 적게 지는 것을 최선책으로 택하더라”고 했다.&lt;br&gt;&lt;br&gt;승자인 이창호 9단도 AI와의 협업을 “당황스럽고 어려웠다”고 돌아봤다. 그는 “AI가 워낙 실력이 좋아서 최대한 따라가야겠다고 생각했다”며 “초반엔 (국면이) 너무 안 좋아 괴로웠는데, AI도 같이 괴롭다고 하는 것 같았다”고 했다. 불리한 바둑을 끝까지 끌고 간 이유를 묻자 이창호는 “인간다운 호기심”이라고 했다. 그는 “이런 경험 자체가 처음이라 AI는 어떤 수법으로 두는지 계속 보고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;두 거장은 바둑계를 포함해 인간이 앞으로 AI를 어떻게 활용하고 공존할지에 대한 힌트도 제시했다. 조훈현은 “AI의 출현으로 바둑에서 승부의 의미가 바뀌었다고 생각하지 않는다. 답을 가르쳐주는 AI에 다가서기 위해 더 열심히 공부하는 것이 강해지는 길”이라고 했다. 이창호는 “(변화가) 빠른 시대일수록 오히려 느린 쪽의 의미를 생각한다. 기초와 바탕을 튼튼히 해야 버티는 힘도 생긴다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NKVWXXTVRZCC5FUE4565FRJFVM.jpg?auth=5abb973a4888707d9e9598365a3d187c882994317b24411ccdb94eb0490f6ea8&amp;smart=true&amp;width=5916&amp;height=3820" type="image/jpeg" height="3820" width="5916">
-        <media:description type="plain">2026년 5월 21일 신라호텔에서 열린 아시안 리더십 콘퍼런스에서 조훈현 9단과 이창호 9단이 각각 바둑 AI 카타고(KataGo)와 한 팀을 이뤄 대국을 펼치고 있다. /장경식 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>3선 노리는 이철우, 세 번째 도전 오중기… 8년 만에 재대결</title>
-      <link>https://www.chosun.com/national/2026/05/22/3XAEU4LLCFHRXHJXDBKDJ35CYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/22/3XAEU4LLCFHRXHJXDBKDJ35CYI/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:47:00 +0000</pubDate>
-      <content:encoded>6·3 경북지사 선거는 더불어민주당 오중기(59) 전 청와대 균형발전 선임행정관과 국민의힘 이철우(71) 현 지사의 양자 대결이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2G5TZQIDNCRZPPTLPWN5OINLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 후보는 8년 전인 2018년 지방선거에서도 맞붙었다. 당시 이 후보가 52.11%의 득표율로 당선됐다. 오 후보는 34.32%를 얻었다. 당시 지역 정가에선 “보수 성향이 강한 경북에서 민주당 후보가 30%를 넘긴 것은 최고 수준의 성적”이라는 평가가 나왔다. 선거 전문가들은 “철강 산업 노동자가 많은 포항, 산업단지 노동자가 밀집한 구미, 대학생이 많은 경산 등에서 오 후보 지지도가 높았던 덕분일 것”이라며 “이 지역 민심이 이번 선거에 어떻게 반영될지 지켜봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;민주당 오 전 선임행정관은 한국도로공사 대표이사, 더불어민주당 경북도당 위원장 등을 지냈다. 2014년, 2018년에 이어 이번이 세 번째 도지사 도전이다. &lt;br&gt;&lt;br&gt;그는 같은 당 대구시장 후보인 김부겸 전 국무총리와 ‘원팀’을 이뤄 대구·경북을 공략한다는 전략이다. 지난 10일에는 김 전 총리 선거사무소에서 공동 정책 협약식을 열고 “대구·경북 행정 통합, TK 신공항, 반도체·로봇 산업 벨트 등을 추진하겠다”고 했다. 그는 또 “중앙정부에서 연간 5조원, 2년간 총 10조원 규모의 ‘역대 최대 예산’을 확보할 것”이라고 했다. &lt;br&gt;&lt;br&gt;국민의힘 이 도지사는 경북 김천에서 국회의원 3선을 한 뒤 2018년 경북지사에 당선됐다. 이번에 3선에 도전한다. &lt;br&gt;&lt;br&gt;그는 ‘안정과 실적’을 내세우고 있다. 이 도지사는 “임기 중 77조5000억원 규모의 투자 유치 등 성과를 냈다”며 “앞으로는 TK 신공항과 영일만항을 연계한 글로벌 물류 체계를 구축하고 인공지능(AI)·반도체·2차전지·바이오·원전 등 첨단 산업 10대 벨트를 조성하겠다”고 했다. &lt;br&gt;&lt;br&gt;한국리서치가 KBS대구방송총국 의뢰로 지난 4~6일 진행한 여론조사에선 오 전 선임행정관 지지도가 12%, 이 도지사가 46%로 나타났다. (전화면접 방식으로 만 18세 이상 남녀 800명에게 조사, 표본오차는 95% 신뢰수준에 ±3.5%포인트. 자세한 내용은 중앙선거여론조사심의위원회 참조) &lt;br&gt;&lt;br&gt;다만 여론조사꽃이 지난 14~15일 진행한 가상 양자대결 조사에선 오 전 선임행정관이 34.2%, 이 도지사가 48.7%의 지지도를 기록했다. (만 18세 이상 1002명 대상 무선 ARS 조사, 표본오차 95% 신뢰수준에서 ±3.1%포인트.)&lt;br&gt;&lt;br&gt;지역 정가의 한 관계자는 “오 전 선임행정관이 집권 여당 프리미엄으로 중도층을 흡수해 지지도를 더 끌어올릴 가능성이 있지만, 경북의 강한 보수세가 관건”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 최초 女구청장 나오나… 서구·남구선 與 무투표 당선</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/22/G2X6TMGCURBNHKJQLCWIFJOJ3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/22/G2X6TMGCURBNHKJQLCWIFJOJ3M/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:46:00 +0000</pubDate>
-      <content:encoded>6·3 광주광역시 북구청장 선거에선 1995년 민선 구청장 선거 이래 처음으로 여성 구청장이 나올지에 관심이 쏠리고 있다. 서구·남구는 야당 출마자가 없어 민주당 소속 현직 단체장의 ‘무투표 당선’이 확정됐다. 조국혁신당은 동구에, 진보당은 북구와 광산구에 각각 후보를 내 민주당과 대결을 벌인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2VVHDHNOJDQFDZPHXRLV5TWKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 북구청장 후보는 신수정(53) 전 광주광역시의회 의장이다. 3선 구의원, 재선 시의원 출신인 그는 2024년 첫 여성 광주시의회 의장으로 선출됐다. 이번에 당선되면 광주 지역 첫 여성 구청장이 된다. 신 전 의장은 “쇠락한 광주역 일대에 지하철 1호선을 연결해 되살리는 등 인구 감소에 적극 대응할 것”이라고 공약했다. &lt;br&gt;&lt;br&gt;진보당에선 김주업(58) 광주시당 위원장이 출마했다. 그는 “월 임대료 10만원 수준의 20평대 청년 임대 주택을 1000호 이상 공급하겠다”고 했다. 무소속 김성현(61) 전 각화동농산물도매시장 소장, 노남수(57) 21대 대선 이재명 후보 직속 정무특보단 부단장도 출마했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4UYMLCXEBE5TN626UPTUSWZZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광산구청장 선거에선 민주당 박병규(60) 현 구청장과 정희성(56) 진보당 광주시당 지방자치위원장이 맞붙는다. 박 청장은 2022년 지방선거 당시엔 경쟁자가 없어 무투표 당선됐었다. 그는 “광주송정역 일대를 환승 역세권으로 개발하고 인공지능(AI)·첨단 산업 벨트를 조성하겠다”고 했다. 진보당 정 위원장은 “민주당 경선만 통과하면 당선되는 구조를 바꾸지 않고서는 지역 정치의 변화를 기대하기 어렵다”며 “새로운 정치를 시작할 수 있게 지지해달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3K6OLIUORBGBHDNMV6PQ2UQQEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동구청장 선거는 3선에 도전하는 민주당 임택(63) 현 청장과, 조국혁신당 김성환(65) 전 청장 간 대결이다. 김 전 청장은 2016년 동구청장 재선거 당시 국민의당 소속으로 당선됐다. 두 사람의 첫 대결은 2018년 지방선거였다. 당시 임 청장이 53.92%를 득표해 당선됐다. 2022년엔 임 청장과 민주당에 입당한 김 전 청장이 경선에서 붙었으나 임 청장이 이겼다. 이번에 세 번째 매치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KM6NOSSQ4NEG3OIWQWH2XYD2L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 소속 김이강(55) 광주 서구청장은 무투표 당선으로 재선이 확정됐다. 같은 당 김병내(53) 남구청장도 무투표 당선으로 구청장 3선이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘실향민의 딸’ 스틸 주한 美 대사 지명자, 청문회서 한국어로 “고생 끝에 낙이 온다”</title>
-      <link>https://www.chosun.com/national/people/2026/05/22/DQUWWFOBSBABND6WJS6VHTFKVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/22/DQUWWFOBSBABND6WJS6VHTFKVU/</guid>
-      <dc:creator>워싱턴=박국희 특파원</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSDGMBYHA2TENZTGE2GEN3BMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 미 상원에서 열린 인준 청문회에서 미셸 스틸 주한 미국 대사 후보자가 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미셸 스틸(71·한국명 박은주) 주한 미국 대사 지명자가 20일(현지 시각) 미 상원 인준 청문회에서 자신의 ‘탈북 가족사’를 언급하며 굳건한 한·미 동맹 수호 의지를 천명했다. &lt;br&gt;&lt;br&gt;스틸 지명자는 모두 발언에서 “70년 넘게 이어져 온 한국과의 동맹을 강화하는 데 헌신하겠다”며 “미국의 확장 핵 억지력으로 강화된 공동 방위 태세는 철통같다”고 강조했다. &lt;br&gt;&lt;br&gt;특히 그는 한국어로 “고생 끝에 낙이 온다”고 말해 눈길을 끌었다. 이어 6·25 전쟁 당시 북한을 탈출해 한국에 정착한 부모님의 사연을 소개했다. ‘실향민’의 딸로서 1955년 서울에서 태어난 스틸 지명자는 중·고교 시절을 일본에서 보내고 1975년 미국 캘리포니아주로 이주했다. 결혼 후 평범한 주부로 살다가 한인들에게 큰 피해를 입힌 1992년 LA 폭동을 계기로 정계에 입문, 캘리포니아주 조세형평국 위원 등을 거쳐 연방 하원 의원을 지냈다.&lt;br&gt;&lt;br&gt;그는 “내 부모는 공산주의를 피해 북한을 탈출해 모든 것을 잃었지만 한국에서 다시 일궈냈다”며 “북한에서 얼마나 많은 사람이 고통받는지 잘 알기 때문에 한·미·일의 매우 강력한 동맹이 필요한 것”이라고 역설했다.&lt;br&gt;&lt;br&gt;무역 및 경제 현안에 대해서는 원칙론자로서의 면모를 보였다. 그는 “현재 미국의 대(對)한국 무역 적자가 500억달러가 넘는다. 자유 무역은 ‘윈윈’이어야 하며 우리는 재협상할 수 있다”며 무역 불균형 해소를 위한 재협상 가능성을 시사했다. 또한 한국의 3500억달러 규모 대미 투자 계획에 대해 “자금 출처를 정확히 확인하고 싶다”며, 미국 기업들이 한국 시장에서 차별받지 않고 동일한 시장 접근권을 누려야 한다고 지적했다.&lt;br&gt;&lt;br&gt;이날 스틸 지명자는 하원 의원 시절 ‘미주 한인 이산가족 국가 등록 법안’을 공동 발의했던 팀 케인 민주당 의원 등으로부터 초당적인 지지를 받았다. 상원 인준안이 통과되면 1년 넘게 공석인 주한 미국 대사 자리에 성 김 전 대사에 이어 역대 두 번째 한국계 대사로 부임하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UDA3KQK5UNMH5EDZENBQ6ZCQYA.jpg?auth=f11a53a01b7b23046df0e9429afcf7ff08f833a42311e65c3e7ba498e8b9d7ac&amp;smart=true&amp;width=4000&amp;height=2667" type="image/jpeg" height="2667" width="4000">
-        <media:description type="plain">미셸 스틸이 5월 20일 미국 워싱턴 D.C.의 캐피톨 힐에서 열린 상원 외교위원회 청문회에서 주한 미국 대사 지명자 인준 청문회에 출석해 증언하고 있다./ 로이터 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">Annabelle Gordon</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
