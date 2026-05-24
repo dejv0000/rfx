@@ -13,13 +13,121 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
-      <title>‘교육·스포츠계 거목’ 장충식 단국대 명예이사장 별세</title>
-      <link>https://www.chosun.com/national/education/2026/05/22/AHA4CAQMQREZHNYLHUJSSFESDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/22/AHA4CAQMQREZHNYLHUJSSFESDE/</guid>
-      <dc:creator>최인준 기자</dc:creator>
+      <title>‘스타벅스 이벤트 논란’ 계속... 법원에 “충전금 전액 환불하라” 지급명령 신청</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/24/44TDYIO7LRDBFJXV7M4VLGVGIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/24/44TDYIO7LRDBFJXV7M4VLGVGIM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
       <description/>
-      <pubDate>Thu, 21 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRWCYTGHAYWIMTFMUYWGNZXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故)장충식 단국대 명예이사장.(단국대 제공)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장충식 단국대 명예이사장이 20일 향년 93세로 별세했다. 1932년 중국 톈진에서 태어난 장 명예이사장은 서울대 사범대(역사학과·수료)와 단국대 정치과를 졸업했다. 고려대 사학과에서 석사 학위를 받았고, 미국 브리검영대에서 박사 과정을 수료한 뒤 1961년 단국대 교수로 부임했다.&lt;br&gt;&lt;br&gt;1966년 단국대학 학장에 취임한 고인은 이듬해 대학을 종합대로 승격시키고 초대 총장이 됐다. 이후 36년간 총장과 이사장을 지냈다. 총장 재임 시절 국내 최초로 지방 캠퍼스(천안캠퍼스)를 설립했다.&lt;br&gt;&lt;br&gt;1989년 남북 체육 회담 수석대표를 맡아 해방 이후 처음으로 남북 단일팀(탁구·청소년 축구)을 구성하는 등 남북 스포츠 교류에 기여했다. 2000년 대한적십자사 총재 시절엔 제1차 남북 이산가족 상봉 사업을 성사시켰다.&lt;br&gt;&lt;br&gt;유족으로는 아내 신동순 여사, 장호성 단국대 이사장과 3녀가 있다. 빈소는 충남 천안 단국대학병원, 영결식은 24일 오전 10시 단국대 죽전캠퍼스 체육관에서 단국대학장으로 엄수된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <pubDate>Sun, 24 May 2026 06:18:25 +0000</pubDate>
+      <content:encoded>5·18 민주화운동 기념일에 ‘5·18 탱크데이’ 이벤트를 연 스타벅스를 상대로 “선불 충전금을 전액 환불하라”는 지급명령 신청이 법원에 접수된 것으로 24일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSDCNBZGFSDEZJVMZQTOZBXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5·18 민주화 운동 기념일에 진행한 스타벅스 '탱크데이(Tank Day)' 마케팅 논란이 지속되고 있는 가운데 22일 서울 시내의 한 스타벅스 매장에 사과문이 붙어있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무법인 이공의 양홍석 변호사는 지난 21일 서울중앙지법에 사용하지 않은 스타벅스 카드 잔액을 반환해달라는 지급명령 신청을 냈다고 소셜미디어를 통해 밝혔다. 지급명령이란 별도로 법정에서 재판을 열지 않고, 채권자가 제출한 서류를 심사하는 방식의 민사 분쟁 해결 절차다. 채무자가 이의를 신청할 경우 결정은 효력을 잃게 되고, 정식 소송 절차가 진행된다.&lt;br&gt;&lt;br&gt;이번 지급명령 신청은 스타벅스 카드 이용약관이 발단이 됐다. 스타벅스 약관은 마지막으로 카드에 돈을 충전한 시점의 잔액을 기준으로 60% 이상 사용한 뒤, 40% 이하의 금액을 환급한다고 규정한다. 이는 공정거래위원회의 신유형 상품권 표준약관을 따른 것이다. 그러나 양 변호사는 “스타벅스코리아는 빨리 고객들에게 미사용금에 대해 즉시 전액 환불하는 조치를 해주시는 것이 서로 덜 피곤하게 이 문제를 종결하는 것이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;스타벅스코리아는 지난 18일 ‘탱크 텀블러 세트’ 판매 이벤트를 열면서 ‘5·18 탱크데이’ ‘책상에 탁!’ 등 문구를 사용했다. 이를 두고 5·18 민주화운동과 박종철 고문치사 사건을 폄훼했다는 비판이 확산됐다. 논란이 커지자 스타벅스코리아는 행사를 중단했고, 스타벅스코리아 모회사인 신세계그룹 정용진 회장이 대국민 사과문을 내고 “모든 책임이 저에게 있음을 통감한다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 이재명 대통령은 지난 20일 국무회의에서 스타벅스코리아를 겨냥해 “어떻게 사람의 탈을 쓰고 그럴 수 있나”라고 비판했다. 일부 정부 부처와 여당에서도 불매운동을 부추기는 듯한 메시지가 집중적으로 나왔다. 윤호중 행정안전부 장관은 지난 21일 행안부 주최 행사나 이벤트에서 스타벅스 상품권 등을 제공하지 않겠다고 밝혔다. 법무부도 대검찰청에 예산으로 스타벅스 상품을 구입한 내역이 있으면 보고하라고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 이재명·정원오 스타벅스 비판에 “이제 좀 적당히 하라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/24/43U4N7LMYNETDCQPWBG6OKPBC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/24/43U4N7LMYNETDCQPWBG6OKPBC4/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 03:51:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUIZI3WKNJBK3JKOMPI7J2E3BU.png"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 국민의힘 서울시장 후보가 24일 페이스북에 게시한 글. /페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 국민의힘 서울시장 후보가 스타벅스 코리아의 ‘5·18 탱크데이’ 마케팅 논란과 관련한 이재명 대통령과 정원오 더불어민주당 후보의 비판에 대해 “이제 좀 적당히 하는 것이 어떻겠느냐”고 밝혔다.&lt;br&gt;&lt;br&gt;오 후보는 24일 페이스북에 글을 올려 “스타벅스는 분명 잘못했고 변명의 여지가 없다”면서도 “민간의 불매운동과 언론·시민단체 비판은 자유지만, 공적 권한을 행사할 수 있는 대통령과 집권여당 후보가 직접 나서는 것은 전혀 다른 차원의 일”이라고 주장했다.&lt;br&gt;&lt;br&gt;이어 “정원오 후보도 캠프에 스타벅스 금지령을 내렸다고 들었다”며 “아주 신속하고 정확한 대통령 코드 맞추기”라고 비판했다. 또 “부동산·환율·물가가 폭등하는데 대통령과 서울시장 후보의 시선이 어디에 가 있느냐”고 지적했다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 전날 X(옛 트위터)에 글을 올려 스타벅스가 세월호 참사일인 4월 16일 ‘세이렌’ 이벤트를 진행한 점 등을 언급하며 “돈 좀 벌겠다고 상습적으로 국가폭력과 참사 희생자들을 능멸하는 금수 같은 행태”라고 비판했다.&lt;br&gt;&lt;br&gt;정원오 후보 캠프도 지난 20일 “캠프 구성원 전원의 스타벅스 물품 반입 및 이용을 금지한다”는 내부 공지를 전달했다. 캠프 관계자들의 스타벅스 매장 출입과 음료·식품 반입을 제한하고, 기존에 사용하던 스타벅스 텀블러와 머그컵도 캠프 밖으로 반출하도록 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 스타벅스 코리아는 지난 18일 ‘탱크 텀블러 시리즈’ 프로모션 행사에서 ‘탱크 데이’ ‘책상에 탁’ 등의 문구를 사용했다가 5·18 민주화운동과 박종철 열사 고문치사 사건을 희화화했다는 비판을 받았다. 논란이 커지자 행사는 중단됐고, 정용진 신세계그룹 회장은 19일 “모든 책임은 저에게 있다”며 “5·18 민주화운동 영령과 유가족, 국민 여러분께 깊은 상처를 드렸다”고 사과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이회창 前 총재 부인 한인옥 여사 별세…향년 88세 </title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/05/24/TTQWQJM4S5FA5BA3MR7VOMZWFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/24/TTQWQJM4S5FA5BA3MR7VOMZWFQ/</guid>
+      <dc:creator>이해인 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 04:00:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXLFDID2IFCAFLVKVMT7ASIBWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이회창 전 한나라당 총재와 부인 한인옥씨가 2003년 10월 25일 오후 서울 성북동성당에서 열린 차남 수연씨의 결혼식에서 하객들을 맞이하고 있다. /공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이회창 전 한나라당(국민의힘 전신) 총재의 부인 한인옥 여사가 23일 향년 88세로 별세했다. &lt;br&gt;&lt;br&gt;1938년 경남 함안에서 한성수 전 대법관의 딸로 태어난 한 여사는 경기여고와 서울대 사범대 가정교육과를 졸업했다. 1962년 이 전 총재와 결혼해 정치적 고락(苦樂)을 함께하며 한평생 이 전 총재를 묵묵하게 내조했다. &lt;br&gt;&lt;br&gt;고인은 이 전 총재가 한나라당 대통령 후보로 출마했던 지난 2002년 전국의 당 소속 광역 및 기초자치단체장 아내 700여 명이 참석한 자리에서 “하늘이 두 쪽 나도 대통령 선거에서 이겨야 한다”고 발언한 사실이 알려져 화제가 되기도 했다. 당시 민주당은 “권력욕을 드러냈다”며 공세를 펼쳤고 고인은 한 언론 인터뷰에서 “다시는 정치 보복이나 부정부패가 난무하는 그런 정치는 없어야 한다는 뜻으로 말씀드린 건데 논란을 일으켜 정말 송구스럽다”고 했었다. &lt;br&gt;&lt;br&gt;유족으로는 이 전 총재와 정연·연희·수연씨 등 아들 2명과 딸 1명이 있다. 빈소는 서울 서대문구 세브란스병원 장례식장 특2호실에 마련됐다. 발인은 26일 오전 8시 20분, 장지는 광릉추모공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ROD7P6DGTELQKYT25OTMBKR7NM.jpg?auth=5b490c14c7083737dfc2abccd8810ad3d994d507925e536a8a4debecb5eb906b&amp;smart=true&amp;width=240&amp;height=285" type="image/jpeg" height="285" width="240">
+        <media:description type="plain">李후보 부인 한인옥씨.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>석가탄신일 사찰 찾은 부부 차량, 계곡으로 추락… 2명 부상</title>
+      <link>https://www.chosun.com/national/2026/05/24/THLRBDV56NDU5J6LLJL4F6VNRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/24/THLRBDV56NDU5J6LLJL4F6VNRU/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 04:40:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AESQZ72HHBBTJFDNV2OHTNQ2GY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 경북 칠곡군 가산면 용수리 용운사 주차장에서 승용차량이 2m 계곡 아래로 추락했다. /칠곡경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;석가탄신일 사찰을 찾은 부부가 몰던 승용차가 운전 미숙으로 계곡으로 추락했다. &lt;br&gt;&lt;br&gt;24일 오전 8시 17분쯤 경북 칠곡군 가산면 용수리 용운사 주차장에서 승용차량이 2m 계곡 아래로 추락하는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 해당 차량에 타고 있던 80대 남성과 70대 여성이 다쳐 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;이들은 부부 사이로 석가탄신일을 맞아 사찰에 방문했다가 사고를 당한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 차량 운전자가 페달 조작 미숙으로 계곡 아래로 추락한 것으로 보고 정확한 사고 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AESQZ72HHBBTJFDNV2OHTNQ2GY.jpg?auth=a7d73295da617b25b6173f455027eb7e021b5907d74832946fa0f4639e7aec03&amp;smart=true&amp;width=1149&amp;height=900" type="image/jpeg" height="900" width="1149">
+        <media:description type="plain">24일 오전 경북 칠곡군 가산면 용수리 용운사 주차장에서 승용차량이 2m 계곡 아래로 추락했다. /칠곡경찰서</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>조선호텔 결혼식장 꽃 세금 폭탄… 대법 “재화 아닌 용역, 부가세 대상”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/24/GOWAZVFDY5E6FJY74FLZNCTPIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/24/GOWAZVFDY5E6FJY74FLZNCTPIE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 03:19:49 +0000</pubDate>
+      <content:encoded>결혼식장을 꾸민 생화 꽃장식은 ‘재화’가 아닌 ‘용역’의 공급에 해당돼 부가가치세 부과 대상에 해당한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYTAYJZMFQTENBQMQYDANBTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웨스틴조선호텔 예식장에 설치된 꽃장식./조선호텔앤리조트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 조선호텔앤리조트가 남대문세무서장을 상대로 낸 부가가치세 부과 처분 소송에서 원심의 원고 패소 판결을 지난달 확정했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;조선호텔은 호텔 예식장에서 결혼식을 올리는 고객에게 예식 용역을 공급하면서, 별도의 사업장을 통해 예식장에 생화 꽃장식을 설치한다. 고객은 따로 책정된 생화 값을 내야 한다. 조선호텔 측은 꽃장식이 부가가치세법상 면세 대상인 ‘가공되지 않은 농산물’에 해당한다며 관련 세금을 신고하지 않았는데, 과세당국은 부가세 대상이 맞는다며 1억5000여만원을 추가로 부과했다.&lt;br&gt;&lt;br&gt;이에 조선호텔 측은 과세당국 처분에 불복해 행정소송을 냈으나, 1·2심에 이어 대법원도 과세당국의 손을 들어줬다. 소송의 쟁점은 꽃 장식 공급이 부가가치세 과세 대상인 용역의 공급에 해당하는지, 부가가치세가 면제되는 ‘재화의 공급’에 해당하는지였다. 조선호텔 측은 “고객이 생화의 소유권을 넘겨받아 하객에게 선물이나 기념품으로 나눠줘 자유롭게 처분하고, 그 대가로 고가의 생화 대금을 지급하는 것”이라고 주장했다. 꽃 장식 설치는 재화의 공급이라는 취지다. &lt;br&gt;&lt;br&gt;그러나 대법원은 “원고와 고객의 의사는 꽃 장식 소유권 이전보다는, 원고가 고객에게 꽃 장식이 설치된 예식장을 이용하게 하는 데 있었다고 봐야 한다”며 재화가 아닌 예식장업 용역의 공급이라고 판단했다. 대법원은 또 “설령 꽃의 소유권이 고객에게 넘어간다는 호텔 측 주장을 인정하더라도 꽃 장식은 결혼 예식 용역에 부수적으로 공급되는 것”이라며 용역 공급에 포함되는 것으로 봐야 한다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍장원, ‘윙크’로 자신감 보였지만… 특검 “추가 조사 필요”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/24/67WE27SE6VD77FU2W53TI6E4XM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/24/67WE27SE6VD77FU2W53TI6E4XM/</guid>
+      <dc:creator>유희곤 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 04:25:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJXU5O6NBNN3ZCREJL2CXIBQSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원 전 국가정보원 제1차장이 지난 22일 경기 과천시 2차 종합특별검사팀(특별검사 권창영) 사무실에 피의자 신분으로 출석하기 전 취재진의 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 등 우방국에 계엄의 정당성을 알리는 메시지를 전달한 혐의(내란 중요 임무 종사)를 받는 홍장원 전 국가정보원 1차장은 지난 22일 2차 종합특검에서 첫 피의자 조사를 받았다. 홍 전 차장은 약 9시간 동안 조사를 받고 나와 취재진에게 “오해가 풀렸다”고 했다. 그러나 특검 측은 24일 “본격적인 조사는 시작도 안 했다”며 홍 전 차장을 추가 소환할 것이라고 했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 지난 22일 조사를 마친 후 취재진에게 “아무래도 국정원의 핵심적인 위치에 있다 보니까 특검에서도 단단히 오해할 만한 상황이 있었던 것 같다”며 “충분히 오해를 풀었다”고 했다. 홍 전 차장은 ‘어떤 오해를 의미하냐’는 질문엔 “표정으로 답을 대신하겠다”며 윙크를 했다.&lt;br&gt;&lt;br&gt;그러나 특검 관계자는 이날 본지 통화에서 “지난 조사에선 홍 전 차장의 입장을 우선 들었을 뿐”이라면서 “다음 조사를 위해 홍 전 차장과 일정을 조율할 것”이라고 했다. “오해가 풀렸다”는 홍 전 차장 주장은 사실이 아니며, 그동안 수집한 물적 증거와 관련자 진술 등을 토대로 한 홍 전 차장 피의자 조사는 시작하지 않았다는 것이다. 특검 관계자는 “진행 상황에 따라 홍 전 차장을 여러 차례 조사할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;특검은 12·3 비상계엄이 선포된 직후 조태용 전 국가정보원장 지시에 따라 홍 전 차장 산하 해외 담당 부서가 비상계엄 관련 ‘대외 설명자료’를 미국 중앙정보국(CIA) 등에 전달한 것으로 보고 있다. 특검은 홍 전 차장이 이 과정을 모두 보고받고 재가받은 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;반면 홍 전 차장은 자신의 혐의를 부인하고 있다. 홍 전 차장은 “조 전 원장에게서 계엄 옹호 메시지를 전달하라는 지시를 받은 적이 없다”며 “조 전 원장이 저에게 그런 지시를 할 수 있는 상황이었는지 생각해 보시면 상식적인 선에서 이해가 될 것”이라고 했다. 특검이 확보한 대외 설명자료에 대해선 “뭘 얘기하는 것인지 정확히 특정되지 않아 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>25일 시작된 비, 26일 전국으로...남해안·제주 최대 200㎜ 쏟아져 </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/24/7OSFUXJ7NRCH3CTGYZBGXPFFOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/24/7OSFUXJ7NRCH3CTGYZBGXPFFOA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 04:16:24 +0000</pubDate>
+      <content:encoded>25일 월요일은 전국이 대체로 맑다가 차차 흐려지겠다. 낮부터 제주도에서 시작된 비는 밤에는 전라권과 경남 서부로 확대되고, 26일엔 전국에 많은 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LKQKHBTMZJOJMTJYDU5UFOTWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강한 바람이 불고 비가 내린 20일 서울 종로구 정부서울청사 인근에서 우산을 꼭 쥐고 있는 시민의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 25일 아침 최저기온은 12~18도, 낮 최고기온은 22~30도로 예보됐다. 내륙을 중심으로 낮과 밤의 기온 차가 15도 안팎까지 크게 벌어질 것으로 보인다.&lt;br&gt;&lt;br&gt;25일 남부 지방에서 시작된 비는 26일 오전 전국으로 확대되겠다. 26일은 전국이 흐린 가운데 아침 최저기온은 17~21도, 낮 최고기온은 20~25도로 평년과 비슷하거나 조금 낮겠다.&lt;br&gt;&lt;br&gt;26일까지 예상 강수량은 서울·인천·경기와 강원, 충청권이 30~80㎜다. 전남 남해안과 지리산 부근, 경남 남해안과 지리산 부근에는 80~150㎜, 많은 곳은 200㎜ 이상 비가 내리겠다. 제주도도 북부를 제외한 지역에 50~150㎜, 남부 중산간에는 200㎜ 이상, 산지에는 250㎜ 이상의 많은 비가 예보됐다.&lt;br&gt;&lt;br&gt;특히 26일에는 강한 비가 집중될 전망이다. 수도권과 강원, 충청권, 경북권에는 시간당 20~30㎜ 안팎의 비가 내리는 곳이 있겠고, 전남 남해안과 지리산 부근, 경남 남해안과 지리산 부근, 제주도 산지·중산간에는 시간당 50㎜ 안팎의 매우 강한 비가 쏟아질 수 있다.&lt;br&gt;&lt;br&gt;비가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳도 있겠다. 강한 비로 인한 시설물 피해와 농작물 피해, 축대·옹벽 붕괴, 토사 유출 등에 유의해야 한다. 비가 오는 동안 가시거리가 짧아지고 도로가 미끄러운 곳도 있어 차량을 운행할 때는 속도를 줄여 주행해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고소인에게 피의자 전과 알려준 검찰 수사관... 법원 “피의자 인권침해 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/24/7PCARAJ52BG2NELOF5LXI3L3A4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/24/7PCARAJ52BG2NELOF5LXI3L3A4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 03:39:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZWMYLEGEYDKOLCMEYTOMBQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경./서울가정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사기 사건 피해를 입었다고 주장하는 고소인 등에게 피의자의 전과 사실을 알려준 검찰 수사관의 행위가 인권 침해가 아니라는 법원 판단이 나왔다. 서울행정법원 행정3부(재판장 호성호)는 수사관 A씨가 낸 국가인권위원회 권고 결정 취소 소송에서 최근 A씨 승소로 판결했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;수원지검 성남지청 소속이던 A씨는 2022년 토지 대금 관련 고소 사건을 수사 중이었다. 이 사건은 피의자가 토지 대금 335억8000만원 중 101억원만 낸 뒤 몰래 소유권 이전 등기를 해 땅을 가로챘다는 게 핵심이다. 당시 피의자는 “곧 잔금을 내고 합의할 것”이라며 검찰 출석 요구를 거부했다. 토지 거래에 관여한 관계자도 검찰의 출석 요구에 응하지 않았다. 이런 와중에 고소인 측은 피의자로부터 위조 수표와 지급보증확인서를 담보로 받고 잔금 지급 날짜를 미뤄주고 있었다.&lt;br&gt;&lt;br&gt;이에 A씨는 고소인 등에게 “피의자는 이미 사기 전과가 있고, 출소한 지 얼마 되지 않아 이번 범행을 저질렀다”고 알려준 것이다. 피의자는 2023년 A씨를 인권위에 제소했고, 인권위는 성남지청장에게 A씨 대상 주의 조치 및 직무 교육 실시를 권고했다.&lt;br&gt;&lt;br&gt;A씨는 이에 반발해 소송을 냈고, 1심은 A씨 손을 들어줬다. 1심은 “A씨의 발언은 추가적인 경제적 피해 발생을 막고 관계자들에게 수사 협조를 구하기 위한 것”이었다며 “수사를 위해 필요한 합리적인 범위를 벗어나지 않은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;인권위는 재판 과정에서 “A씨가 고소인 측에 피의자의 전과를 알릴 불가피한 사정이 있었다고 보기 어렵다”고 주장했지만, 재판부는 “주요 참고인들이 조사를 회피하고 있었고, 일부 사건 관계자들은 피의자의 거짓 주장을 믿고 있었다”며 “추가 피해 방지를 위해 불가피하게 전과 사실을 알린 것으로 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재 “전자발찌 부착기간 준수사항 어기면 형사처벌, 합헌”</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/24/C4UFXC63WJGPJG4AD4JZCMET4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/24/C4UFXC63WJGPJG4AD4JZCMET4U/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 03:31:02 +0000</pubDate>
+      <content:encoded>전자장치(전자발찌) 부착 기간 중 음주 제한 등 준수 사항을 부과하고 이를 어기면 형사처벌하도록 한 현행법이 합헌이라는 헌법재판소 결정이 나왔다.&lt;br&gt;&lt;br&gt;헌법재판소는 지난 21일 재판관 전원 일치 의견으로 전자장치부착법 9조의2 1항 6호 및 39조 3항 관련 부분에 대해 합헌 결정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTAOBUMM4TCNJTMQYWCYZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 재동 헌법재판소 게양대에 걸린 헌법재판소 깃발이 바람에 휘날리고 있다. 2026.3.24 ⓒ 뉴스1 박정호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청구인 A씨는 1995년과 2006년 두 차례에 걸쳐 성폭력처벌법 위반 혐의로 징역형을 선고받은 뒤 14년가량 복역했다. A씨는 2017년 출소 직전 법원에서 성폭력 재범 우려가 있다는 이유로 전자장치 부착명령 10년에 더해 성폭력 치료 프로그램 80시간 이수, ‘밤 11시부터 이튿날 오전 6시까지 외출 및 음주를 삼갈 것’이라는 준수 사항을 부과받았다. 이 중 외출 관련 준수 사항은 2021년 ‘자정부터 오전 6시까지 주거지 외 외출 및 음주를 하지 말 것’으로 변경됐다.&lt;br&gt;&lt;br&gt;그런데 A씨는 이 준수 사항을 두 차례 위반해 전자장치부착법 위반 혐의로 유죄가 확정됐다. 이에 따라 전자장치 부착 기간은 2028년 11월까지로 늘어났고, 준수사항에는 ‘혈중알코올농도 0.05% 이상 음주하지 말고, 음주 여부를 확인하기 위한 보호관찰관의 불시 음주 측정 지시에 따를 것’이 추가됐다. &lt;br&gt;&lt;br&gt;A씨는 2024년 1월과 3월 보호관찰관의 음주 측정에서 두 차례 모두 준수사항보다 높은 혈중알코올농도가 나왔고, 전자장치부착법 위반 혐의로 다시 재판에 넘겨졌다. A씨는 1심에서 징역 8개월에 집행유예 2년을 선고받았고, 위헌법률심판 제청 신청이 법원에서 기각되자 2024년 10월 헌법소원을 냈다.&lt;br&gt;&lt;br&gt;A씨는 준수사항 관련 조항에 대해 “어떤 준수사항을 부과할 수 있는지 대강조차 정하고 있지 않고, 아무런 제한도 없어 사실상 무제한적으로 확장될 수 있다”며 “죄형법정주의의 명확성 원칙에 위배된다”고 주장. A씨는 또 처벌 조항에 대해선 “비난 가능성이 크지 않은 준수 사항 위반 행위에 대해서도 일률적으로 동일한 법정형에 따라 형사처벌하도록 하고 있어 형벌의 보충성 및 비례성 원칙에 위반된다”고 했다.&lt;br&gt;&lt;br&gt;그러나 헌재는 “법원이 준수 사항 부과를 판단할 때는 범죄의 내용뿐만 아니라 대상자의 연령·성행·범행 후 정황 등을 종합적으로 고려해야 한다”며 “준수 사항을 법률에 구체적으로 규정하는 것은 입법 기술적으로 불가능하거나 곤란하고, 오히려 경직성 때문에 개별 사안에 필요한 준수 사항을 부과하기 어려워질 우려가 있다”고 판시했다. 헌재는 이어 처벌 조항에 대해선 “법원이 부과한 사법적 명령을 위반한 데 대한 형사적 제재에 해당한다”며 “과태료 등 행정적 제재만을 부과한다면 전자장치 부착자의 준수 사항 이행이 약화될 우려가 있다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘스벅 인증샷 논란’ 정민찬, 재차 사과 “사회 분위기 몰랐다, 깊이 반성”</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/24/PQFEXCXYIFA4ZCCACAAYIWNEB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/24/PQFEXCXYIFA4ZCCACAAYIWNEB4/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 02:53:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LK2AOGSTIBF6TIWACSOL5TFLT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 정민찬. /정민찬 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타벅스 음료를 마시는 인증샷을 올렸다가 여론의 뭇매를 맞고 출연 중이던 작품에서 중도 하차한 뮤지컬 배우 정민찬이 재차 고개를 숙였다.&lt;br&gt;&lt;br&gt;정민찬은 23일 자신의 인스타그램에 사과문을 올려 “최근 제가 올린 게시물로 인해 많은 분들께 불편함과 실망을 드리게 된 점 진심으로 사과드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “평소 공연과 연습, 여러 활동들을 혼자 감당하며 지내다 보니 최근의 사회적 분위기와 관련된 상황들을 제대로 인지하지 못한 상태에서 게시물을 올리게 됐다”고 해명했다. 이어 “어떤 의도나 특정한 메시지를 담고 올린 것은 아니었다”며 “하지만 결과적으로 많은 분들께 상처와 불편함을 드리게 되었고, 제가 얼마나 경솔했고 부족했는지 뒤늦게 깊이 깨닫게 됐다”고 했다.&lt;br&gt;&lt;br&gt;또 “많은 분들의 의견과 반응들을 보며, 표현을 하는 일을 하는 사람으로서 사회적 분위기와 의미를 더 세심하게 바라보는 태도가 필요하다는 점 역시 깊이 돌아보게 됐다”며 “늘 무대와 작품으로 사람들의 마음을 전하는 일을 해오면서도, 정작 더 세심하게 살피고 고민했어야 할 부분들을 미처 놓치고 있었다는 점 또한 많이 반성하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 마지막으로 “뒤늦게 이번 이슈가 많은 분들께 얼마나 큰 의미와 아픔으로 받아들여지고 있는지, 또 그 안에서 더 나은 방향을 위해 목소리를 내고 행동하시는 분들이 계시다는 점 역시 알게 됐다”며 “늘 부족한 저를 응원해주시고 공연과 작품으로 지켜봐주셨던 분들께도 실망을 드려 죄송하다. 이번 일을 통해 더 많이 배우고, 앞으로는 더욱 신중하고 책임감 있는 모습으로 활동하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;스타벅스코리아는 앞서 5·18 광주민주화운동 46주년인 지난 18일 군사정권 시절 비극을 연상하게 하는 ‘탱크데이’ 이벤트를 진행했다가 폄훼 논란에 휩싸였다. 논란이 이어지고 있는 상황에서, 지난 20일 정민찬은 스타벅스 매장에서 찍은 일상 사진을 게재했다가 “부적절하다”는 비판을 받았다.&lt;br&gt;&lt;br&gt;그는 지적이 잇따르자 “뉴스나 이슈 거리를 잘 모르는데 제가 뭐라고 이렇게 관심을 다 주시고 몸 둘 바를 모르겠다. 몰랐던 것도, 무지한 것도 잘못이니 사과의 말씀 올린다”는 내용의 1차 사과문을 올렸다.&lt;br&gt;&lt;br&gt;하지만 그는 논란의 여파로 출연 중이던 뮤지컬에서 중도 하차하게 됐다. 뮤지컬 ‘디아길레프’ 제작사 쇼플레이 측은 22일 온라인 예매 페이지 등을 통해 “정민찬이 제작사와의 충분한 논의 끝에 공연에서 하차하게 됐다”고 알렸다.&lt;br&gt;&lt;br&gt;제작사 측은 “정민찬 배우와 관련된 사안으로 심려를 끼쳐드린 점, 갑작스러운 결정으로 인해 불편과 혼란을 드리게 된 점에 대해 관객 여러분께 사과드린다”고 했으며, 구체적인 하차 사유를 언급하지는 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>6·3 지방선거 유권자 4465만명… 외국인 10년 새 3배 넘게 증가</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/24/O4QVPR77MBAGFMW65OSRV3T5XI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/24/O4QVPR77MBAGFMW65OSRV3T5XI/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 May 2026 02:15:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVNC5ICBNBLEPI2XOAQU3QJMCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6.3 전국동시지방선거를 10일 앞둔 24일 서울 종로구 서울특별시선거관리위원회에 선거일까지 남은 일수가 표기돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 오는 6·3 지방선거 선거인 수가 총 4464만9908명으로 확정됐다고 24일 밝혔다. 이는 2022년 제8회 지방선거보다 34만6459명, 지난해 제21대 대통령선거보다 25만8037명 늘어난 규모다.&lt;br&gt;&lt;br&gt;전체 선거인 가운데 내국인은 4440만9225명, 재외국민은 8만9151명, 외국인은 15만1532명이었다. 특히 외국인 선거인 수는 2014년 제6회 지방선거 당시 4만8248명과 비교하면 10년 새 3.13배로 증가했다. &lt;br&gt;&lt;br&gt;외국인은 공직선거법에 따라 만 18세 이상으로 영주권 취득 후 3년이 지나고 해당 지방자치단체 외국인명부에 올라 있으면 지방선거 투표에 참여할 수 있다.&lt;br&gt;&lt;br&gt;연령별로는 50대가 863만6772명(19.34%)으로 가장 많았다. 이어 60대 800만8122명(17.94%), 40대 754만4332명(16.90%), 70대 이상 722만5683명(16.18%) 순이었다. 성별로는 여성이 2255만3936명(50.51%)으로 남성 2209만5972명(49.49%)보다 많았다.&lt;br&gt;&lt;br&gt;지역별로는 경기가 1187만8997명(26.60%)으로 가장 많았고, 서울 831만9134명(18.63%), 부산 285만7335명(6.40%) 순이었다. 가장 적은 지역은 세종으로 30만9134명(0.69%)이었다.&lt;br&gt;&lt;br&gt;이번 지방선거와 함께 치러지는 국회의원 재·보궐선거는 14개 지역구에서 실시된다. 재·보궐선거 선거인 수는 총 263만1866명으로 집계됐으며, 대구 달성(25만2539명)이 가장 많고 부산 북갑(12만9192명)이 가장 적었다.&lt;br&gt;&lt;br&gt;사전투표는 오는 29~30일 오전 6시부터 오후 6시까지 진행된다. 선거인명부 등재번호와 투표소 위치는 시·군·구청 홈페이지나 우편 안내문에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폐암 말기 환자 15년 생존 비결은!</title>
+      <link>https://www.chosun.com/medical/2026/05/21/5GBPCU2HCBHX7JU4ZONAYJSZ4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/05/21/5GBPCU2HCBHX7JU4ZONAYJSZ4E/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 May 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4LVAFWM7VC2FJH322GSC2NCSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기대수명이 늘면서 남성은 2명 중 1명, 여성은 3명 중 1명이 평생 한 번은 암에 걸려 사망하게 된다. 그러나 최근 20여 년 사이 항암제 발전 속도는 상상을 초월할 정도로 빨라져, 암은 점차 ‘관리 가능한 만성질환’으로 바뀌고 있다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 ‘세계적인 폐암 치료 권위자’로 꼽히는 안명주 한양대병원 혈액종양내과 교수와 함께 항암제의 현재와 미래를 짚어봤다.&lt;br&gt;&lt;br&gt;항암제는 크게 세 가지로 나뉜다. 전통적인 ‘세포독성 항암제’, 암세포의 특정 유전자 변이를 겨냥하는 ‘표적치료제’, 그리고 환자 자신의 면역세포를 활성화해 암을 공격하게 만드는 ‘면역항암제’다. 안명주 교수는 “폐암 치료의 변화는 항암제 발전사를 압축적으로 보여준다”며 “첫 전환점은 2002년 표적치료제 ‘이레사’의 등장이었다”고 말했다. 암을 일으킨 유전자 돌연변이를 찾아 차단하는 새로운 개념의 항암제였기 때문이다. 약을 써보니 비흡연자, 여성, 선암(腺癌) 환자에게 효과가 유독 좋았다고 안 교수는 전했다.&lt;br&gt;&lt;br&gt;면역항암제도 치료 지형을 바꿨다. 안 교수는 “기존 치료에 실패한 환자 가운데 20%가량이 면역항암제에 반응을 보였고 그 효과가 오랫동안 유지됐다”며 “6~7가지 항암 치료를 모두 시도한 뒤 더 쓸 약이 없던 환자가 면역항암제 임상시험에 참여해 극적으로 반응이 좋아져 치료 10년이 지난 지금도 생존해 계시고, 제가 담당한 환자 중에는 면역항암제 덕에 폐암 진단을 받고도 15년까지 사시는 분이 있다”고 했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면 ‘항암제’ 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6DXP7T7B5H55B2RNV7OLPCEZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QDQQFDF5GBCC3OPPCXKQX4QIIU.jpg?auth=fbaad92e726dd63bf213263439c2b02d022b00afda56e0a942b3321fc8d435c2&amp;smart=true&amp;width=1300&amp;height=867" type="image/jpeg" height="867" width="1300">
+        <media:description type="plain">게티이미지코리아</media:description>
+      </media:content>
     </item>
     <item>
       <title>“20대 통째로 약에 무너졌다”…청주여자교도소에서 벌어지는 처절한 전쟁</title>
@@ -817,37 +925,6 @@
       </media:content>
     </item>
     <item>
-      <title>[굿모닝 멤버십] ‘생물 다양성의 아버지’가 남긴 마지막 경고</title>
-      <link>https://www.chosun.com/national/2026/05/22/TOQBY4D63RAWHENXFLDVRJIP5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/22/TOQBY4D63RAWHENXFLDVRJIP5Y/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 18:00:00 +0000</pubDate>
-      <content:encoded>📅 5월 22일 금요일 아침입니다. 오늘은 UN이 지정한 ‘세계 생물 다양성의 날’입니다. 1992년 오늘, 케냐 나이로비에서 인류와 지구의 공존을 위한 ‘생물 다양성 협약’이 처음 채택된 것을 기념하는 날이죠. 지난 30년간 지구상 생물 종의 40%가 인간의 이기심과 기후 변화로 사라졌다고 합니다. 우리가 먹고 입는 의식주의 근간이 흔들리는 상황에서, 과연 인류는 이 거대한 멸종의 시계를 멈출 수 있을까요. 금요일 아침, 잠시 주변의 푸른 가로수와 작은 생명들을 돌아보며 공존의 가치를 되새겨봅니다. 오늘 조선멤버십은 메마른 일상에 깊이 있는 시각과 더해줄 특별한 이야기를 준비했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHTFD5MKWRJVFLD4FAOHSB6ATM.png"&gt;&lt;figcaption&gt;&lt;small&gt;[어린이조선일보] [세계의 기념일] 5월 22일 세계 생물 다양성의 날(The International Day for Biological Diversity)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;📃뉴스 픽 : 오늘 조선일보 필독 기사&lt;/b&gt;&lt;br&gt;&lt;br&gt;일본이 역대 최대 수준의 방위비를 바탕으로 첨단 무기 확보에 속도를 내고 있습니다. 드론과 무인(無人)잠수정, 사거리 2000㎞급 극초음속 미사일, 스텔스 전투기를 띄울 경항공모함까지… 러시아·우크라이나 전쟁 이후 ‘드론 전쟁’의 위력을 목격한 일본은 AI·무인 전력을 미래 핵심 전력으로 보고 있습니다. 특히 일본 방위상이 “세계에서 무인 장비를 가장 잘 활용하는 조직으로 변혁하겠다”고 직접 밝힌 점이 눈길을 끕니다. 북한 핵·미사일과 중국의 해양 군사력 확대 속에서 일본의 방위 전략이 어디까지 변화하고 있는지, 동북아 안보 지형에 어떤 파장을 가져올지 주목됩니다.&lt;br&gt;&lt;br&gt;하버드대 학생 10명 중 6명이 A학점을 받는 시대입니다. 최우등 졸업자를 가리기 위해 GPA를 소수점 다섯 자리까지 계산해야 할 정도라는데요. 결국 하버드가 칼을 빼 들었습니다. 앞으로는 강의마다 A학점 비율을 20%로 제한하기로 한 겁니다. 문제는 여기서 끝나지 않습니다. 학점 인플레이션을 막으면 변별력은 살아나지만, 학생들의 스트레스와 취업 불이익 논란도 커집니다. 실제로 프린스턴대와 웰즐리대는 비슷한 정책을 도입했다가 결국 포기했습니다. ‘A 학점 천국’이 된 미 명문대들이 왜 다시 성적 전쟁으로 돌아가려 하는지, 그 배경을 들여다봅니다.&lt;br&gt;&lt;br&gt;중국 최고 권력자의 키가 상황마다 달라진다면 믿으시겠습니까. 190㎝인 도널드 트럼프 미국 대통령과 나란히 섰을 땐 커지고, 178㎝인 다른 정상과 만날 땐 또 작아집니다. 해외 중국어권 매체들이 시진핑 중국 국가주석을 두고 ‘신축자재(伸縮自在)’라고 부르는 이유입니다. 시진핑은 왜 굳이 키까지 높여 연출하려 한 걸까요. 중국이 미국에 밀리지 않는다는 이미지를 보여주고 싶은 걸까요, 아니면 청년 실업과 부채, 흔들리는 민생 같은 중국 내부의 불안을 감추기 위한 몸짓일까요. 정상회담 사진 한 장에서 중국 권력의 심리를 읽어냅니다.&lt;br&gt;&lt;br&gt;🌱 지구상에 존재하는 수많은 생명체가 어떻게 서로 연결되어 거대한 생태계를 이루는지 그 비밀을 밝혀낸 인물이 있습니다. 최근 세상을 떠난 식물학자 피터 레이븐은 종과 종 사이의 끝없는 대화를 뜻하는 ‘공진화(Coevolution)’ 개념을 정립하며 현대 진화생물학의 교과서를 새로 쓴 인물입니다. 특히 그는 자연을 훼손하는 인간의 이기심이 결국 생태계의 연쇄 도미노 무너짐을 유발해 인류 자체를 파괴할 것이라는 섬뜩한 경고를 남겼습니다. 거장이 평생을 바쳐 증명해 낸 ‘생명의 그물’의 실체와, 그가 인류의 종말을 막기 위해 던진 마지막 경고는 무엇이었을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XOJTMOUQNEODB6DNHVVJWTOEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🪷 경북 문경의 희양산 자락 아래에는 오직 수행에만 전념하며 한국 불교의 자존심을 지켜온 특별한 공간이 있습니다. 평소에는 일반인의 출입이 엄격히 통제되지만, 1년에 단 하루 부처님오신날에만 비밀스러운 빗장을 열어젖히는 조계종립 특별선원 ‘봉암사’의 이야기입니다. 이곳은 현대 한국 불교의 기틀을 세운 성철 스님 등 눈푸른 선승들이 모여 ‘부처님 법대로만 살아보자’며 수행을 했던 곳이죠. 휴대전화도 터지지 않는 등 속세와 철저히 단절된 이 깊은 산중에서, 스님들이 백 년 넘게 지켜온 수행 기풍과 경내의 고즈넉한 모습이 궁금하지 않으신지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PS5DWYSHENEVPPIPSU5NRXQ5DM.png"&gt;&lt;figcaption&gt;&lt;small&gt;문경 봉암사 '진공문' 앞에서 본 태고선원. 뒤로 희양산의 바위 봉우리가 보이는 이곳에선 1년 내내 쉬지 않고 선승들이 정진한다. 1년 중 부처님오신날 단 하루만 일반인에게 개방하기에 경내는 인적 없이 조용하다. /사진=김한수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🛣️ 최근 런던 마라톤에서 인류 최초로 무공식 2시간 벽을 깨뜨린 ‘서브2’ 달성에는 독특한 가속 전략이 있었습니다. 레이스 후반부에 오히려 속도를 높이는 것이죠. 엘리트 선수들이 거리 부담이 큰 풀코스에서 사용하는 이 공식을 이제는 일반 러너들도 훈련을 통해 체득할 수 있습니다. 평소 달리기 효율을 극대화하고 싶은 러너들은 이 러닝 훈련법을 주목해야 합니다. 주변 분위기에 휩쓸려 레이스를 망치지 않고, 후반부로 갈수록 앞선 주자들을 하나둘 추월해 나가는 짜릿한 역전의 희열을 맛보고 싶지 않으신지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBYXL4PTYBCBVB7NGKSS3MF5RU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://members.chosun.com/membership/join/index.html" target="_self" rel="" title="https://members.chosun.com/membership/join/index.html"&gt;&lt;b&gt;조선멤버십 회원이 되시려면 여기 누르세요.&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
-    </item>
-    <item>
-      <title>성과급은 쟁의 대상 아닌데… 노조들은 파업 명분으로 삼아</title>
-      <link>https://www.chosun.com/national/labor/2026/05/22/6PTLYEALSJHFFMSZTT2363NPF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/22/6PTLYEALSJHFFMSZTT2363NPF4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQ4JOVIDEVOR3OIHRKYDGZQDYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카카오 노조원들이 20일 경기 성남시 판교역 광장에서 결의대회를 열고 구호를 외치고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자 노사의 성과급 협상은 타결됐지만, 성과급 규모 등에 대한 의견 차이가 파업(쟁의) 대상이 되는지를 두고 논란이 일고 있다. 법적으로 엄격하게 따져봐야 할 주제인데, 노조가 성과급 협상에서 파업 카드를 내미는 것이 뉴 노멀(새로운 표준)이 될 것이란 지적도 나온다. 실제 삼성바이오로직스와 카카오는 성과급 문제를 거론하며 파업을 진행하거나 파업권 확보 수순을 밟고 있다.&lt;br&gt;&lt;br&gt;현행 노조법은 파업과 같은 노동 쟁의에 대해 “노조와 사용자 간 임금, 근로시간, 복지, 해고, 기타 대우 등 근로조건의 결정에 관한 주장의 불일치로 인해 발생한 분쟁 상태”라고 규정한다. 논란의 핵심은 성과급이 노조법이 말하는 ‘근로조건’에 해당하느냐다. 법원은 성과급이 근로조건의 예시로 열거된 ‘임금’에는 해당하지 않는다고 보고 있다. 올 초 대법원은 삼성전자 성과급 사건에서 이번에 문제가 된 삼성전자의 OPI(성과 인센티브)는 임금에 해당하지 않는다고 판단했다. 근로 제공과 밀접한 관련성이 없고, 시장 상황과 경영 판단 등 근로자들이 통제하기도 어려운 다른 요인들이 더 큰 영향을 미치기 때문이다. &lt;br&gt;&lt;br&gt;반면 노동계는 성과급이 임금이라고 주장한다. 이름만 성과급일 뿐 반복, 관행적으로 지급한다는 이유다. 이번 삼성전자 성과급 합의에서 최소 10년간 특별 경영 성과급이 약속된 게 ‘성과급의 임금화’를 가속화할 것이란 해석도 나온다. &lt;br&gt;&lt;br&gt;성과급이 ‘기타 대우 등’에 해당한다는 주장도 있다. 이는 사용자가 노동자를 어떻게 대하는지를 포괄하는 개념이란 것이다. 그러나 성과급은 경영 성과의 사후 배분이기 때문에 근로에 따른 배분으로 보는 접근 자체가 틀렸다는 해석이 더 지배적이다. 박지순 고려대 법학전문대학원 교수는 “노사가 성과급을 협의할 수는 있지만, 이를 의무 협의로 보고 쟁의 대상까지 확대하는 건 과잉 해석”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사람 같아서 깜짝 놀랐다”… ALC 스타 떠오른 로봇</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/22/SMUYX3IMVFDJZCXLQMV2GMP4UU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/22/SMUYX3IMVFDJZCXLQMV2GMP4UU/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUUQNKSKGJFALIDHSLEMAUMO3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 신라호텔에서 열린 아시안리더십콘퍼런스 지능이 몸을 갖는 순간: 휴머노이드가 여는 물리적 지능의 시대 세션에 앞서 아이엘 봇이 춤 공연을 펼치고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 조선일보 아시안리더십콘퍼런스(ALC)가 예년과 다르게 차별화한 요소 중 하나가 ‘테크’이다. 관람객에게 피지컬 AI(인공지능)의 종착점으로 거론되는 ‘로봇’을 직접 체험할 수 있게 했다. 첫째 날 4족 보행 로봇 개에 이어 둘째 날에는 최첨단 휴머노이드가 관람객을 맞이했다. &lt;br&gt;&lt;br&gt;“아이돌 아냐? 나는 몸치라 죽었다 깨어나도 저렇게는 못 춰.”&lt;br&gt;&lt;br&gt;20일 오전, 서울 중구 신라호텔 다이너스티홀 무대에 오른 휴머노이드 로봇 ‘아이엘봇(ILBOT)’ 두 대가 음악에 맞춰 춤을 추자 관람객들은 일제히 휴대전화를 꺼내 들었다. 로봇들은 보랏빛 조명 아래에서 두 팔을 뻗으며 스텝을 밟았고, 허리를 틀고 상체를 젖히기도 했다. 공연이 끝나자 객석에서 인간 댄서에게 보내듯 박수가 터져 나왔다. 관람객들 사이에서는 “생각보다 훨씬 자연스럽다” ”사람 춤 같아서 놀랐다”는 반응이 이어졌다.&lt;br&gt;&lt;br&gt;이번 행사에서 큰 관심을 끈 ‘아이엘봇’은 세계 휴머노이드 로봇 양산 1위 기업인 중국 애지봇과 한국 기업 아이엘로보틱스가 협업해 개발한 최신형 휴머노이드 로봇이다. 휴머노이드 로봇은 머리·몸통·팔다리 등 인간과 유사한 형태를 갖추고 사람처럼 움직이며 상호작용할 수 있는 로봇을 뜻한다. 아이엘봇은 스마트폰 앱으로 조작해 30여 가지 표정을 구현할 수 있고, 팔다리·허리·목에 관절 구조를 갖춰 자연스럽게 움직일 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7LQVUUPD5F7LKIJG6MGGHGOHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 신라호텔에서 열리는 아시안 리더십 콘퍼런스 행사장에 아이엘봇이 등장해 지나는 사람들과 악수를 하거나 사진을 찍고 있다. /이태경기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후에 아이엘봇들이 다이너스티홀 앞을 돌아다니자 순식간에 관람객 60여 명이 몰렸다. 사람들은 “여기 봐 달라”며 로봇과 나란히 포즈를 취했고, 셀카를 찍느라 분주했다. 베트남에서 온 트란 티 티(28)씨가 왼팔로 하트 반쪽을 만들자 아이엘봇은 오른팔을 들어 하트를 완성했다. 트란씨는 “휴머노이드 로봇을 TV로만 봤는데 실제로 보는 건 처음”이라며 “기계처럼 딱딱할 줄 알았는데 관절을 자연스럽게 움직여 신기하다. 정말 세상이 많이 변한 것 같다”고 말했다. 아이엘봇은 한 관람객이 손을 내밀자 그 손을 잡고 악수를 하기도 했다. &lt;br&gt;&lt;br&gt;10여 분 동안 동영상을 촬영하던 계명대 공중보건학과 2학년 이채은(22)씨는 “‘CES 2026’ 이후 휴머노이드에 대한 관심이 생겨 오늘 오전에 들은 두 세션 모두 로봇 관련 주제였다”며 “실제 휴머노이드까지 직접 보니 기술 발전 속도가 실감 난다”고 했다. &lt;br&gt;&lt;br&gt;퇴장하는 아이엘봇을 따라가며 연신 사진을 찍던 가천대 신소재공학과 4학년 이동혁(26)씨는 “로봇 소프트웨어 개발과 로봇 소재 분야에 모두 관심이 많다”며 “지금은 중국 기업과 협력해 휴머노이드 로봇을 만들고 있지만, 언젠가는 더 자연스럽게 움직이는 로봇을 국내 기술로 개발하는 데 기여하고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JMIINXFHNVGRPI3ASEOCY35FFA.gif?auth=c352a83842c128e3f4e1f77eb23f18fc5375f23418cc2f24c1c0bf20d859dc9d&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
-        <media:description type="plain">20일 서울 중구 신라호텔에서 열린 제17회 아시안리더십콘퍼런스에서 국내 기업 아이엘로보틱스와 중국 로봇 기업 애지봇이 협업해 개발한 최신형 휴머노이드 로봇 아이엘봇이 춤 공연을 선보이는 모습. /장경식 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>조훈현 “위기 때 선택 다르더라” 이창호 “AI도 괴로워하는 것 같아”</title>
       <link>https://www.chosun.com/national/people/2026/05/22/435KEZBUAVDBVDV2GHNMSQXWKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/22/435KEZBUAVDBVDV2GHNMSQXWKM/</guid>
@@ -858,54 +935,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/NKVWXXTVRZCC5FUE4565FRJFVM.jpg?auth=5abb973a4888707d9e9598365a3d187c882994317b24411ccdb94eb0490f6ea8&amp;smart=true&amp;width=5916&amp;height=3820" type="image/jpeg" height="3820" width="5916">
         <media:description type="plain">2026년 5월 21일 신라호텔에서 열린 아시안 리더십 콘퍼런스에서 조훈현 9단과 이창호 9단이 각각 바둑 AI 카타고(KataGo)와 한 팀을 이뤄 대국을 펼치고 있다. /장경식 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>첫 영장 기각된 2차 특검 “검사 부족해 수사 속도조절 중”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/22/5GTXRSWPCJCINHART4PLKMTWRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/22/5GTXRSWPCJCINHART4PLKMTWRA/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:49:00 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)이 12·3 비상계엄과 관련해 이은우 전 KTV 원장에 대해 내란 선전 혐의를 적용해 청구한 구속영장이 21일 법원에서 기각됐다. 특검은 지난 2월 수사를 개시한 후 처음으로 구속영장을 청구했는데 법원이 받아들이지 않은 것이다. 이날 권 특검은 특검 직원들에게 담화문을 내고 “파견 검사가 적어 수사 속도를 조절하고 있다”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 이종록 영장전담 부장판사는 이날 오후 9시쯤 이 전 원장에 대한 구속 영장을 기각하며 “내란 선전죄 성립 여부에 다툼의 여지가 있다. 재판 중 사건 진행 상황에 비춰 도망하거나 증거를 인멸할 우려가 있다고 보기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 18일 이 전 원장에 대해 구속영장을 청구하며 “이 전 원장은 2024년 12월 3일부터 12월 13일까지 비상계엄 및 포고령 등 내란 행위의 정당성을 주장하는 뉴스를 반복·집중적으로 보도하는 한편, 내란 행위를 비판·저지하는 뉴스를 선별적으로 차단·삭제해 내란 행위를 선전했다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 법조계에선 특검의 내란 선전 혐의 구성에 무리가 있다는 지적이 나왔다. 형법은 내란 선전죄에 대해 ‘내란 등의 죄를 범할 것을 선전한 자는 3년 이상 유기징역이나 유기금고에 처한다’고 규정한다. 이는 비상계엄이 유지되던 기간에 한해서 적용할 수 있다는 게 법조계의 중론이었다. 앞서 내란특검(특별검사 조은석)도 이 전 원장에 대해 내란 선전죄 적용을 검토했다가 무리하다고 판단해 직권남용 혐의만 적용해 불구속 기소했다.&lt;br&gt;&lt;br&gt;특검이 청구한 첫 구속영장이 기각된 이날, 권창영 특검은 특검 직원들에게 담화문을 냈다. 담화문은 종합특검이 지난해 3대(내란·김건희·해병) 특검에 비해 구속영장 청구나 기소 등 수사 성과가 미비한 데 대한 해명이 주를 이뤘다.&lt;br&gt;&lt;br&gt;권 특검은 “내란 특검과 김건희 특검은 검사 정원이 70명인 반면 우리 특검은 검사 정원이 15명에 불과하다”며 “구속영장 실질심사나 공소 제기에 참여할 수 있는 자격은 특별검사보와 파견 검사에 한정되는데, 조기에 공소를 제기하게 되면 파견 검사는 진행 중인 수사를 중단해야 한다”고 했다. 그는 “수사인력이 조기에 공소유지 인력으로 전환되는 것을 방지하기 위해 특검은 ‘초기 구속영장 청구 자제’ ‘조기 기소 금지’라는 방침을 세웠다”고 했다. 재판에 들어가야 할 파견 검사 수가 적어 일부러 관련자 신병 처리를 늦추고 있다는 취지다.&lt;br&gt;&lt;br&gt;권 특검은 또 “특검에 대한 부정적인 기사가 보도되는 사례가 증가하고 있다”며 “수사 정보를 외부인에게 누설하는 행위는 엄격히 금지된다는 점을 상기해 달라”고도 했다. 담화문 말미엔 “먼 훗날, 가족이나 지인들이 ‘내란 때 아빠·엄마는 무엇을 했느냐’고 물으면 ‘헌법의 검(劍)인 종합특검의 구성원으로 범죄자들을 수사해 형사처벌 받게 했다’고 자랑스럽게 말하자”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울긋불긋… 공원 물들인 꽃양귀비</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/22/GYI3N3SKCFEC3GQCZM5VVKH2P4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/22/GYI3N3SKCFEC3GQCZM5VVKH2P4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKIVZESWNVD45PX467OQUN4ETI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 대부분 지역에 비가 내린 21일 전남 나주시 영산강정원에 꽃양귀비가 활짝 피었다. 관광객들이 꽃길을 걷고 있다. 꽃양귀비는 주로 5~6월에 활짝 핀다. 이 꽃밭 일대에선 22일부터 24일까지 ‘제22회 영산포 홍어·한우 축제’가 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>北 억류됐던 김학송 선교사 “혼자 돌아와 늘 미안한 마음”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/22/2PSHAIN5KJGL7DUFH6JOYINQWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/22/2PSHAIN5KJGL7DUFH6JOYINQWI/</guid>
-      <dc:creator>김민서 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C47K6SAZ75CBHGRVKYSFX2BYOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한에 억류됐다가 2018년 석방된 김학송 선교사 /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한에 1년간 억류됐다가 2018년 5월 마이크 폼페이오 당시 미국 국무부 장관의 방북 시 미국으로 송환된 한국계 미국인 김학송 선교사가 “김정욱·김국기·최춘길 한국인 선교사 세 분이 10년 넘게 아직도 북한에 억류 중”이라며 “혼자 살아 나왔다는 미안함에 아직도 잠이 안 올 때가 있다”고 21일 말했다.&lt;br&gt;&lt;br&gt;김학송 선교사는 이날 ‘북한 억류 국민 가족회’와 전환기정의그룹, 연세대 동서문제연구원이 ‘북한 억류 한국 선교사 3인을 집으로’를 주제로 연세대에서 공동 주최한 국제회의에 참석하기 위해 한국을 찾았다. 2014년 평양과학기술대 농생명학부 농장 담당 기술자로 북한에 입국했다가 2017년 5월 평양 공항에서 북한 당국에 억류된 그는 “이유를 전혀 모른 채 체포당했다”고 했다. 북한 조선중앙통신은 당시 김 선교사가 “공화국(북한) 적대 행위를 강행한 혐의”를 받고 있다고 했었다.&lt;br&gt;&lt;br&gt;김 선교사는 “독방 감옥에 들어간 첫날 저녁밥이 나왔는데 밥에도 무짠지에도 곰팡이가 피어 있어 먹을 수가 없었다”며 당시 북한 조사관이 “밥을 안 먹으면 공화국법에 반항하는 것으로 간주해 더 엄중히 처벌하겠다”고 협박했다고 전했다. 그는 “북한 감옥 독방에 1년 동안 있으면서 생긴 트라우마로 아직도 밤에 악몽을 꾸고 파킨슨병도 왔다”며 “감옥에 벌레가 너무 많아서 잠들려고 하면 벌레가 귀와 코로 막 들어왔다”고 했다.&lt;br&gt;&lt;br&gt;미국은 당시 북한에 억류된 3명의 한국계 미국인(김동철·김상덕·김학송 선교사) 석방을 위해 끈질긴 교섭을 했고, 2018년 평양을 방문한 폼페이오 장관이 이들을 전용기에 태워 미국으로 귀환시켰다. 김학송 선교사는 “다 포기했는데 폼페이오 장관이 직접 북한에 와서 저와 다른 분들을 데리고 나왔다”며 “(미국 도착 후) 도널드 트럼프 대통령이 기내 안까지 들어와 저희한테 한 첫마디가 ‘당신들은 미국의 영웅이다’였다”고 했다.&lt;br&gt;&lt;br&gt;현재 북한에 억류돼 있는 우리 국민은 김정욱·김국기·최춘길 선교사와 탈북민 고현철·김원호·박정호·함진우씨 등 총 7명이다. 2013년 10월부터 북한에 억류돼 있는 김정욱 선교사의 형 김정삼 선교사는 이날 회의에서 “북한에 억류된 선교사들의 생사와 건강 상태 확인이라도 할 수 있도록 부탁드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/C47K6SAZ75CBHGRVKYSFX2BYOE.jpg?auth=ec75bd4d19dff8a749cb5410e9801a345d36f6d99c05436386faeff202dc22bb&amp;smart=true&amp;width=5208&amp;height=3688" type="image/jpeg" height="3688" width="5208">
-        <media:description type="plain">북한에 억류됐다가 2018년 석방된 김학송 선교사/장경식 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>행안부도 ‘NO 스벅’</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/22/EEXUXHUPQVEZDCDBRQAFNKBRZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/22/EEXUXHUPQVEZDCDBRQAFNKBRZE/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:49:00 +0000</pubDate>
-      <content:encoded>윤호중 행정안전부 장관이 21일 X(옛 트위터)에 “최근 물의를 빚은 스타벅스 코리아의 반역사적 행태에 대해 깊은 유감을 표한다”고 밝혔다. 스타벅스는 5·18 민주화운동 기념일에 ‘5·18 탱크데이’ 이벤트를 해 논란을 빚었다. 이와 관련해 이재명 대통령이 전날 국무회의에서 “어떻게 사람의 탈을 쓰고 그럴 수 있나”라고 비판한 데 이어 윤 장관도 유감의 뜻을 밝힌 것이다.&lt;br&gt;&lt;br&gt;윤 장관은 “민주주의는 수많은 시민의 희생과 헌신 위에 세워진 것”이라며 “그 역사를 가볍게 여기거나 상업적 소재로 소비하는 행태는 결코 가볍게 넘길 수 없는 문제”라고 했다. 윤 장관은 이어 “행안부 등 정부기관들은 그동안 각종 설문조사·공모전·국민참여 이벤트 등에 커피 교환권 등 모바일 상품권을 활용해왔다”면서 “이번 사안을 계기로 행안부는 민주주의의 역사와 가치를 가볍게 여기거나 상업적 소재로 활용한 기업의 상품을 제공하지 않겠다”고 했다. 행안부 행사와 이벤트에서 스타벅스 상품권을 사용하지 않겠다는 뜻을 밝힌 것이라는 해석이 나왔다. 윤 장관은 “이번 행안부의 조치에 많은 기관들과 국민 여러분께서도 함께 공감해주시길 바란다”고 덧붙였다. &lt;br&gt;&lt;br&gt;스타벅스코리아는 지난 18일 ‘탱크 텀블러 세트’ 판매 이벤트를 열면서 ‘5·18 탱크데이’ ‘책상에 탁!’ 등 문구를 사용했다. 이를 두고 5·18 민주화운동과 박종철 고문치사 사건을 폄훼했다는 비판이 확산됐다. 논란이 커지자 스타벅스코리아는 행사를 중단했고, 스타벅스코리아 모회사인 신세계그룹 정용진 회장이 대국민 사과문을 내고 “모든 책임이 저에게 있음을 통감한다”고 했다. &lt;br&gt;&lt;br&gt;이번 논란을 계기로 스타벅스 불매 움직임이 벌어질 조짐도 나타나고 있다. 광주광역시는 이날 입장문을 내고 “이번 사태는 역사 인식이 부재한 최고경영자가 유발한 사회적 중대재해”라며 “시 주관 행사에서 스타벅스 상품권 사용을 전면 중단하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북 음성 맹동저수지, 가족형 휴식 공원으로 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/05/22/T2I6JZGASVAJHNV37QTSLOKUDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/05/22/T2I6JZGASVAJHNV37QTSLOKUDQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OURH3ACP7RE3XETJ6WSF2PKEFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 음성군이 가족 휴양지로 개발하겠다고 발표한 맹동저수지 전경. /음성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성군은 혁신도시 인근의 맹동저수지를 체류형 관광지로 개발할 계획이라고 21일 밝혔다. ‘맹동저수지 관광 자원화 종합 마스터플랜’을 수립해 이 일대를 수변 휴양지로 만든다는 구상이다. 총사업비는 2150억원 규모다.&lt;br&gt;&lt;br&gt;맹동저수지는 산과 숲으로 둘러싸여 있어 지역에선 ‘숨은 풍경 명소’로 통하는 곳이다. 다만 주차장, 보행로 등 편의 시설이 부족한 점이 단점으로 꼽혀왔다. 혁신도시가 조성된 이후 인구가 빠르게 늘면서 “맹동저수지를 가족형 휴식 공간으로 개발해야 한다”는 목소리도 커졌다.&lt;br&gt;&lt;br&gt;음성군은 “연구 용역을 통해 자연 훼손을 최소화하는 방향으로 개발 밑그림을 마련했다”고 했다. ‘숨겨진 비밀의 화원’을 콘셉트로 해 휴양 공원을 조성할 계획이다. &lt;br&gt;&lt;br&gt;공공이 기반 시설을 먼저 구축하고, 이후에 민간 참여를 유도하는 방식으로 개발을 추진한다. 이에 따라 음성군은 우선 도로와 주차장, 보행로 등을 조성해 접근성을 높일 방침이다. 이후 수변공원과 정원, 휴식 공간 등을 단계적으로 확충하기로 했다. &lt;br&gt;&lt;br&gt;음성군 관계자는 “자연 환경을 최대한 보존하면서 혁신도시와 연계된 중부내륙권 대표 휴양지로 만들 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>3선 노리는 이철우, 세 번째 도전 오중기… 8년 만에 재대결</title>
@@ -924,24 +953,6 @@
       <description/>
       <pubDate>Thu, 21 May 2026 15:46:00 +0000</pubDate>
       <content:encoded>6·3 광주광역시 북구청장 선거에선 1995년 민선 구청장 선거 이래 처음으로 여성 구청장이 나올지에 관심이 쏠리고 있다. 서구·남구는 야당 출마자가 없어 민주당 소속 현직 단체장의 ‘무투표 당선’이 확정됐다. 조국혁신당은 동구에, 진보당은 북구와 광산구에 각각 후보를 내 민주당과 대결을 벌인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2VVHDHNOJDQFDZPHXRLV5TWKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 북구청장 후보는 신수정(53) 전 광주광역시의회 의장이다. 3선 구의원, 재선 시의원 출신인 그는 2024년 첫 여성 광주시의회 의장으로 선출됐다. 이번에 당선되면 광주 지역 첫 여성 구청장이 된다. 신 전 의장은 “쇠락한 광주역 일대에 지하철 1호선을 연결해 되살리는 등 인구 감소에 적극 대응할 것”이라고 공약했다. &lt;br&gt;&lt;br&gt;진보당에선 김주업(58) 광주시당 위원장이 출마했다. 그는 “월 임대료 10만원 수준의 20평대 청년 임대 주택을 1000호 이상 공급하겠다”고 했다. 무소속 김성현(61) 전 각화동농산물도매시장 소장, 노남수(57) 21대 대선 이재명 후보 직속 정무특보단 부단장도 출마했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4UYMLCXEBE5TN626UPTUSWZZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광산구청장 선거에선 민주당 박병규(60) 현 구청장과 정희성(56) 진보당 광주시당 지방자치위원장이 맞붙는다. 박 청장은 2022년 지방선거 당시엔 경쟁자가 없어 무투표 당선됐었다. 그는 “광주송정역 일대를 환승 역세권으로 개발하고 인공지능(AI)·첨단 산업 벨트를 조성하겠다”고 했다. 진보당 정 위원장은 “민주당 경선만 통과하면 당선되는 구조를 바꾸지 않고서는 지역 정치의 변화를 기대하기 어렵다”며 “새로운 정치를 시작할 수 있게 지지해달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3K6OLIUORBGBHDNMV6PQ2UQQEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동구청장 선거는 3선에 도전하는 민주당 임택(63) 현 청장과, 조국혁신당 김성환(65) 전 청장 간 대결이다. 김 전 청장은 2016년 동구청장 재선거 당시 국민의당 소속으로 당선됐다. 두 사람의 첫 대결은 2018년 지방선거였다. 당시 임 청장이 53.92%를 득표해 당선됐다. 2022년엔 임 청장과 민주당에 입당한 김 전 청장이 경선에서 붙었으나 임 청장이 이겼다. 이번에 세 번째 매치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KM6NOSSQ4NEG3OIWQWH2XYD2L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 소속 김이강(55) 광주 서구청장은 무투표 당선으로 재선이 확정됐다. 같은 당 김병내(53) 남구청장도 무투표 당선으로 구청장 3선이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한남사려니오름숲 다시 시민 품으로 </title>
-      <link>https://www.chosun.com/national/regional/2026/05/23/ABT4KA6NPJCTZNHDC2QBWGAJAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/23/ABT4KA6NPJCTZNHDC2QBWGAJAQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSKZF3Y57RHC5MUWGDHOXQ33MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 국립산림과학원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림청이 지정한 ‘대한민국 100대 명품 숲’ 중 한 곳인 제주 서귀포시 한남사려니오름숲이 오는 10월까지 개방된다. 작년 11월 ‘산불 조심 기간’에 맞춰 폐쇄됐다가 6개월여 만에 다시 문을 여는 것이다. 하루 탐방 인원도 기존 300명에서 100명 늘어난 400명으로 확대했다. 산림청 관계자는 “작년 개방 기간 총 3만명이 탐방로를 찾은 만큼, 올해는 더 많은 탐방객이 숲길을 즐길 수 있게 한 것”이라고 했다. &lt;br&gt;&lt;br&gt;한남사려니오름숲 탐방로는 상록활엽수림, 낙엽활엽수림, 삼나무 전시림 등 다양한 삼림 경관을 체험할 수 있는 곳이다. 또 산림청 인증 산림 교육 프로그램도 운영하고 있어 방문객들이 숲 탐방을 할 수 있다. &lt;br&gt;&lt;br&gt;이번에 개방되는 구간은 국가 숲길인 한라산둘레길 6구간이다. 이승악에서부터 사려니숲까지 총 9.4㎞ 길이로 이어져 있다. 이 중 5.5㎞ 구간은 국립산림과학원 난대·아열대산림연구소가 조성한 시험림이라 탐방이 통제됐으나, 2022년부터 일정 기간 탐방을 허용하고 있다.&lt;br&gt;&lt;br&gt;난대·아열대산림연구소 관계자는 “이색적인 풍광의 하늘길, 삼나무와 편백나무 종자 생산지인 채종원까지 두루 구경할 수 있는 기회”라며 “많은 사람이 아름다운 숲을 직접 체험하고 쉼과 여유를 누릴 수 있도록 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 소규모 숙소들 스프링클러 유무 조사</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/22/UR2WSWQE7NENDDAGLWVCDQVKTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/22/UR2WSWQE7NENDDAGLWVCDQVKTY/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4AAMPPLVZNDDCRNX4MM76HRV4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 15일 서울 중구 소공동의 한 캡슐호텔에서 전날 화재사고가 발생 경찰과 소방당국 등 관계자들이 합동감식을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 소규모 숙박 업소의 화재시 안전 대책을 강화하기 위해 시내 숙박업소 총 7958곳에서 객실이 몇 개나 밀집돼 있는지, 스프링클러를 설치했는지 등을 전수조사할 계획이라고 21일 밝혔다. 지난 3월 방탄소년단(BTS) 광화문 공연을 보기 위해 서울을 찾은 외국인이 중구 소공동 캡슐호텔 화재로 숨진 이후 ‘안전 점검’ 필요성이 커졌다. &lt;br&gt;&lt;br&gt;서울시에 따르면 서울 시내 숙박 업소의 90% 이상은 스프링클러가 설치돼 있지 않다. 특히 전체의 약 80%를 차지하는 연면적 300㎡ 미만 소규모 숙소는 법적으로 스프링클러 설치 의무가 없다. &lt;br&gt;&lt;br&gt;이에 서울시는 전수조사를 통해 스프링클러가 설치돼 있지 않은 곳을 파악하고, 자동확산소화기와 화재감지기 등 보완 장비를 설치하도록 권고하기로 했다. 또 소화 설비 전원이나 밸브가 차단돼 있지는 않은지, 완강기 등 대피 설비가 제대로 관리되고 있는지 등을 점검할 예정이다. &lt;br&gt;&lt;br&gt;서울시는 소규모 숙소를 ‘다중이용업소’로 지정해 면적과 관계없이 스프링클러를 의무 설치하게 하는 방안도 정부에 건의했다고 밝혔다. 서울시 관계자는 “소규모 숙소에서도 불이 났을 때 빨리 대피할 수 있도록 안전 대책을 계속 보완할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘실향민의 딸’ 스틸 주한 美 대사 지명자, 청문회서 한국어로 “고생 끝에 낙이 온다”</title>
@@ -964,15 +975,6 @@
       <description/>
       <pubDate>Thu, 21 May 2026 09:45:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YDAZDFGVRGEOLEGA2DIMZVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이른바 '유서 대필 사건'의 피해자 강기훈씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘유서(遺書) 대필 사건’으로 징역 3년을 선고받았다가 재심 끝에 무죄를 확정받은 강기훈(62)씨와 가족이 국가 등을 상대로 낸 손해배상 소송 파기환송심에서, 국가가 6700만원을 추가 배상해야 한다는 법원 판단이 나왔다. 대법원이 수사 과정의 개별 불법 행위에 대한 국가 책임을 다시 따져야 한다며 사건을 돌려보낸 데 따른 것이다.&lt;br&gt;&lt;br&gt;21일 서울고법 민사5-1부(재판장 송혜정)는 강씨와 가족 등 4명이 국가 등을 상대로 낸 손해배상 청구 소송 파기환송심 선고 공판에서 “피고 대한민국은 원고 강기훈에게 5300여만원, 강씨의 아내에게 500만원, 강씨의 두 동생에게 각각 400여만원을 추가로 지급하라”고 판결했다. 재판부는 “이 법원 심판 범위인 개별 불법 행위, 위법한 피의자 조사, 변호인 접견교통권 침해, 피의사실 공표 등에 대해 위자료를 추가로 정한 것”이라고 밝혔다. 앞서 2018년 파기환송 전 2심은 강씨에게 6억8000여 만원, 아내에게 1억원, 두 동생에게 각각 7166만원 등 총 9억2000여 만원을 배상하라고 판결했다.&lt;br&gt;&lt;br&gt;‘유서 대필 사건’은 1991년 분신 자살한 전국민족민주연합(전민련) 사회부장 김기설씨의 유서를 당시 전민련 총무부장이던 강기훈씨가 대신 작성해 자살을 방조했다는 혐의로 기소된 사건이다.&lt;br&gt;&lt;br&gt;1991년 4월 명지대생 강경대씨가 시위 도중 경찰이 휘두른 쇠파이프에 맞아 숨진 뒤, 같은 해 5월 김기설씨(당시 26세)가 유서 2장을 남기고 서강대에서 분신해 숨졌다. 검찰은 김씨가 숨진 지 열흘 뒤 “유서를 다른 사람이 썼다”며 강씨를 대필자로 지목했다. 강씨는 1992년 7월 대법원에서 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;강씨는 사건 발생 17년 만인 2008년 1월 재심을 청구했다. 대법원은 2012년 10월 “수사 당시 강씨와 김씨 유서의 필적이 동일하다고 한 국립과학수사연구소(현 국립과학수사연구원) 소속 문서 감정인들이 허위 증언을 한 사실이 인정된다”며 재심 개시를 결정했다. 이후 2015년 5월 대법원은 강씨에게 최종 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이후 강씨와 가족은 국가 등을 상대로 31억원을 배상하라는 소송을 냈고, 2017년 7월 1심에서 6억8600만여 만원의 배상 판결을 받았다. 당시 재판부는 수사기관이 강씨를 상대로 가혹 행위를 했다고 인정했다. 수사 과정에서 강씨를 이틀 밤 동안 재우지 않은 채 조사하거나, 강씨가 졸면 선 채로 조사를 이어간 사실 등이 인정된 것이다. 재판부는 또 수사 검사가 강씨에게 “마약 사범을 조사할 때 천장에 달아매고 조사하는 관행이 있는데, 천장에 매달아 조사하겠다”고 위협하거나 “네가 말을 안 하면 주변에 있는 사람들을 족치는 수밖에 없다”며 가족과 지인을 거론해 협박한 사실도 인정했다.&lt;br&gt;&lt;br&gt;다만 재판부는 강씨에 대한 가혹 행위와 국과수 감정인의 잘못된 감정 등에 대한 국가 책임을 일부 인정하면서도 “기소나 전반적인 수사가 조작됐다고 보기 부족하다”며 검찰의 사건 조작 개입은 인정하지 않았다. 이마저도 소멸 시효가 지났다는 이유로 피고 중 수사 검사와 국과수 문서 감정인에 대한 배상 책임은 면제했다.&lt;br&gt;&lt;br&gt;하지만 2022년 대법원은 “진실·화해를 위한 과거사정리위원회가 규명한 ‘중대한 인권 침해·조작 의혹 사건’에 대해서는 국가의 소멸시효 항변이 허용되지 않는다”며 원심을 파기하고 사건을 서울고법으로 돌려보냈다. 파기환송 취지가 반영되면서 강씨와 가족의 배상액이 일부 늘어나게 됐다.&lt;br&gt;&lt;br&gt;이날 강씨 측 대리인단은 법원이 검찰의 사건 조작 개입의 불법성을 끝까지 인정하지 않았다고 지적했다. 대리인단은 선고 직후 입장문을 통해 “이번 판결은 사건을 개별 불법행위에 대한 위자료 문제로만 한정하고, 검찰이 주도한 수사 전반과 공소 제기·유지의 불법성을 끝내 인정하지 않아 ‘유서 대필 사건’의 본질을 또다시 외면했다”고 했다. 그러면서 “하나의 목적을 향해 자행된 수사 조작과 개별적 인권 침해는 결코 분리될 수 없는 단일한 불법행위”라며 “대한민국은 검찰이 주도한 조작의 전체 책임을 인정하고 강씨와 가족들에게 온전한 사과와 배상을 해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배우 김규리 자택서 강도 미수…40대 남성 검거</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/21/NS2LQQN3YVELHOFTK53GOADUMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/21/NS2LQQN3YVELHOFTK53GOADUMA/</guid>
-      <dc:creator>강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 May 2026 08:20:07 +0000</pubDate>
-      <content:encoded>배우 김규리의 자택에 침입해 금품을 훔치려 한 40대 남성이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3TAMTBMFSDAZJWGVRDKNJWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김규리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로경찰서는 종로구 북촌한옥마을에 위치한 김규리씨의 자택에 침입해 금품을 요구한 혐의(강도상해)로 40대 남성 A씨를 검거했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 20일 오후 9시쯤 김규리씨의 자택에 침입해 금품을 요구한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김규리와 함께 거주하던 다른 여성이 범행을 발견하자 A씨는 곧바로 달아난 것으로 전해졌다. 이 과정에서 해당 여성이 다쳐 치료를 받은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 추적에 나섰고, A씨는 범행 약 3시간 뒤인 자정쯤 서울 강서구 화곡동에서 자수한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 피의자와 김규리씨는 일면식이 없던 사이였던 것으로 나타났다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 경위를 조사하는 한편 구속영장 신청 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>檢, 김세의 가세연 대표 구속영장 청구...“김수현 미성년자 교제 허위"</title>
