@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>영종도 버스 공영 차고지 이용 기사들 식중독 증세... 보건당국 “역학 조사”</title>
+      <link>https://www.chosun.com/national/incident/2026/05/25/ZWJOKE3YCBAAHNMMSSFPTMAYHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/25/ZWJOKE3YCBAAHNMMSSFPTMAYHI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 May 2026 07:18:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZWIOLDHE3GEYLDGYZGIOBUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영종도의 버스 공영 차고지를 이용하는 버스 기사들이 식중독 의심 증상을 보여 보건 당국이 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;25일 인천시 등에 따르면 버스 기사 50명이 설사와 발열 증상 등을 보인다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;인천시는 이들이 영종도 공영 차고지의 지정 음식점을 이용한 것으로 보고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “증상을 보인 사람 중 병원에 다녀온 사람도 있고, 업무에 복귀한 경우도 있다”며 “역학조사를 진행할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;인천 중구 운북동에 있는 영종도 버스 공영 차고지는 버스 업체 4곳이 사용 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인천시는 26일 오전 시간대 영종 지역 버스 202번과 205번, 206번, 이음 13번, 2201번 등 5개 노선에서 버스 1대씩 감축 운행될 예정이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>말다툼한 동료 살해한 60대 통근버스 기사 구속</title>
+      <link>https://www.chosun.com/national/2026/05/25/HJOZD5JKJJACRMTDXPH7JLLVXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/25/HJOZD5JKJJACRMTDXPH7JLLVXM/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 May 2026 10:09:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRTSNBYMU3TCOJSHA4TIMRWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;괴산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼하던 동료에게 흉기를 휘둘러 숨지게 한 혐의로 경찰에 붙잡힌 60대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;충북 괴산경찰서는 직장 동료를 살해한 혐의(살인)로 통근버스 기사 A씨를 구속했다고 25일 밝혔다. A씨는 지난 23일 오후 3시쯤 충북 증평군 한 공장에서 동료 통근버스 기사 60대 남성 B씨에게 흉기를 휘둘러 살해한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 B씨가 평소 자신을 무시한다고 생각해 말다툼 끝에 가방에서 흉기를 꺼내 휘두른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;주변 공장 관계자의 신고로 출동한 경찰이 A씨를 현장에서 긴급체포했다. &lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “홧김에 우발적으로 휘둘렀다”는 취지로 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 조사를 마무리하는 대로 조만간 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 600여명 “휴게시간에도 출동 대기”... 초과근무수당 소송 패소</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/25/JWAOZVNYYFBILFSCIC7AHFAOT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/25/JWAOZVNYYFBILFSCIC7AHFAOT4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 May 2026 09:12:52 +0000</pubDate>
+      <content:encoded>전·현직 경찰관 600여 명이 치안 업무 특성상 휴게 시간에도 사실상 출동 대기 상태에 있었다며 국가를 상대로 초과 근무 수당을 지급해 달라는 소송을 냈지만 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZDCYZRHFSWMNLFMJRTKZRQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 서울행정법원 행정13부(재판장 진현섭)는 A씨 등 전·현직 경찰관 606명이 국가를 상대로 낸 근무 수당 등 청구 소송에서 지난 14일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;경찰서·경찰특공대·지구대·파출소 소속인 A씨 등은 “2022년부터 2024년 7월까지 ‘휴게 시간’이나 ‘휴일’로 지정된 시간에도 사실상 대기 근무를 했다”며 재작년 8월 미지급된 초과 근무 수당을 지급해 달라고 소송을 제기했다.&lt;br&gt;&lt;br&gt;이들은 인력 부족으로 언제든 출동할 수 있도록 상시 대기 상태를 유지해야 했고, 특히 파출소의 경우 순찰 시 2인 이상이 함께 근무해야 해 휴게 시간으로 지정된 인원도 사실상 대기해야 했다고 주장했다. 112 신고를 받고 실제 출동한 시간뿐만 아니라 대기한 시간 전체를 근무시간으로 인정해 초과 근무 수당을 지급받아야 한다는 논리다. A씨 등은 각각 82만5100원을 청구했다.&lt;br&gt;&lt;br&gt;그러나 법원은 이들의 주장을 받아들이지 않았다. 재판부는 “휴게시간 중 실제 출동한 경우 사후 초과 근무 결재에 따라 이미 초과 근무 수당이 지급됐던 것으로 보인다”며 “휴게시간 중 출동 업무의 빈도, 휴게시간 동안 상급자의 지휘·감독 여부 등 구체적인 근무 형태를 확인할 증거가 없는 이상 휴게시간 전부를 실질적 대기 시간으로서 근무시간에 해당한다고 볼 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;인력이 부족해 휴게 시간을 실질적으로 보장받지 못했다는 주장에 대해서도 재판부는 “원고들이 주장하는 사정은 소속 관서의 조직과 근무 형태 등 막연하고 일반적인 사정에 불과하다”며 “원고 등 개개인이 소속된 관서, 담당한 업무의 내용과 해당 관서에서의 구체적 업무 방식, 휴게 중인 사람에 대한 상급자의 간섭 여부 등을 확인할 만한 구체적·객관적인 증거가 없다”고 지적했다.&lt;br&gt;&lt;br&gt;A씨 등은 1심 판결에 불복해 지난 18일 항소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 26일 화요일 (음력 4월 10일 庚子)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/25/WGNBRLPP5NDNVNXU6THNPUCJ2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/25/WGNBRLPP5NDNVNXU6THNPUCJ2A/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘최대 2500만원’...대구시, 주식시장 상장 준비 기업 지원한다</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/25/WCQ6KIGUQRBUVFP2MU44CPAMQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/25/WCQ6KIGUQRBUVFP2MU44CPAMQQ/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 May 2026 07:40:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLOLFJ5EXQLLRC5VRAZFNQGBTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격동 청사/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 기업공개(IPO·상장)를 추진하는 지역 중소·중견 기업에 상장 준비 자금을 지원한다.&lt;br&gt;&lt;br&gt;25일 대구시와 대구테크노파크 등에 따르면 시는 오는 26일부터 다음 달 9일까지 ‘2026년 상장 활성화 지원 사업’ 참여 기업을 모집한다. &lt;br&gt;&lt;br&gt;지원 대상은 대구에 본사와 주 사업장을 둔 중소·중견기업 가운데 주식시장 상장을 준비 중인 기업이다. 대구시는 평가를 거쳐 4개 기업을 선정할 계획이다.&lt;br&gt;&lt;br&gt;선정 기업엔 최대 2500만원 상당의 지원금이 지급된다. 지원금은 상장 전략 수립과 국제회계기준 도입, 기술 평가 등 상장 준비 비용으로 사용할 수 있다.&lt;br&gt;&lt;br&gt;대구시는 2022년부터 상장 활성화 지원 사업을 추진해 현재까지 총 28개 기업을 지원했다. 이 가운데 6개 기업은 코스닥·코넥스 시장 상장에 성공했다. 올해 4월 코스닥에 상장한 전기차 급속 충전 인프라 기업 ‘채비’도 지원 기업 중 하나다. 채비는 상장 첫날 공모가(1만2300원) 대비 150% 수준인 3만750원까지 오르기도 했다.&lt;br&gt;&lt;br&gt;이은경 대구시 창업벤처혁신과장은 “상장 활성화 지원 등 관련 사항은 대구테크노파크와 대구스케일업허브 홈페이지 등에서 확인할 수 있다”면서 “지역 기업들이 상장을 통해 경쟁력을 높이고 지속 성장할 수 있도록 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[핫코너] “입학하자마자 정장 입고 면접”… 대학가 ‘학술 동아리’ 열풍</title>
       <link>https://www.chosun.com/national/national_general/2026/05/25/US33XZP5L5DBXBDO67IZCFYL4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/25/US33XZP5L5DBXBDO67IZCFYL4Q/</guid>
@@ -814,15 +862,6 @@
       <content:encoded>서울대 국가미래전략원과 조선일보의 공동 조사 결과를 보면 비수도권 주민들은 수도권 주민들보다 의료·교육 인프라 격차를 심각하게 받아들이고 있었다. 자산·소득 격차뿐 아니라 지역 간 의료·교육 인프라 격차도 분노를 유발하는 요인으로 작용한다는 뜻이다.&lt;br&gt;&lt;br&gt;이번 조사에서 ‘어떤 영역에서 불평등이 심각하다고 생각하느냐’는 물음에 서울·인천·경기 등 수도권에 사는 응답자의 42%가 ‘건강·의료 서비스 격차’를 꼽았다. 반면 비수도권 응답자는 61%가 건강·의료 서비스 격차가 심각하다고 답했다. 수도권 응답자보다 19%포인트 높은 수치다. 지역별 응답을 따져보면 차이는 더 두드러진다. 대형 병원 등 상급 의료 기관이 부족한 제주·강원 지역 주민의 65%가 건강·의료 격차가 심각하다고 느꼈지만, 의료 인프라가 집중된 서울과 경기·인천 주민은 각각 40%, 43%가 격차가 심각하다고 느낀다고 답했다.&lt;br&gt;&lt;br&gt;‘교육 기회 격차’와 관련해서도 심각하다고 한 수도권 응답자는 57%, 비수도권 응답자는 67%였다. 지역별로 보면 제주·강원 주민의 69%가 교육 기회 격차가 심각하다고 했고, 이어 대구·경북(68%), 광주·전라(67%), 부산·울산·경남(67%), 대전·세종·충청(66%), 인천·경기(58%), 서울(57%) 순이었다.&lt;br&gt;&lt;br&gt;이번 조사에서 전체 응답자의 83%는 ‘수도권과 지방 간 양질의 일자리 격차가 크다’고 답했다. 수도권에 사는 응답자의 62%는 ‘지방에 좋은 일자리가 생긴다면 이주할 의향이 있다’고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;이렇게 조사했습니다&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 조사는 지난달 27~30일 웹 설문 조사 방식으로 진행했다. 휴대전화와 이메일을 통해 전국에 거주하는 만 18세 이상 성인 남녀 2만6506명에게 URL을 발송했고, 이 중 3043명(12.1%)이 조사에 응했다. 응답자는 남성 1515명, 여성 1528명이었다. 연령별로는 18~29세 14%, 30~39세 15%, 40~49세 17%, 50~59세 20%, 60~69세 19%, 70세 이상 16%다. 표본 오차는 95% 신뢰 수준에서 ±1.8%포인트다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중장년층, 청년층보다 박탈감 더 커… “경제 격차, 부모 찬스 때문”</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/23/I7MAKLHVJJG7TOTKKLL3WCDHUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/I7MAKLHVJJG7TOTKKLL3WCDHUU/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 May 2026 15:53:00 +0000</pubDate>
-      <content:encoded>서울대 국가미래전략원과 조선일보의 공동 조사 결과를 보면 전체 응답자의 87%(복수 응답 가능)는 자산·소득 같은 경제적 격차가 발생한 원인으로 ‘부모의 경제적 배경과 물려받은 재산’을 꼽았다. ‘개인의 노력과 성실함의 차이’가 경제적 격차에 영향을 준다고 한 응답자는 55%였다.&lt;br&gt;&lt;br&gt;청년층보다 장년층에서 경제적 불평등이 ‘부모 찬스’ 때문이라고 보는 응답이 많았다. 50·60대 응답자의 89%가 부모의 배경과 재산이 경제적 불평등에 영향을 미친다고 응답했는데, 20대는 82%, 30대 84%였다. 자식 세대의 사회 진출을 돕는 장년층에서 부모 찬스로 인한 무력감을 더 크게 느끼는 것이다.&lt;br&gt;&lt;br&gt;장년층은 한국 사회에서 상대적으로 자산을 축적한 세대로 꼽힌다. 그런 그들이 부모 찬스를 경제적 격차의 주요 원인으로 지목한 것은 자기 경험과 관련이 있을 것이라고 전문가들은 분석했다. 부동산 시세 차익 등 사회 구조적인 흐름 덕분에 자산을 늘린 경험이 있어 청년 세대보다 현실을 더 냉정하게 인식하게 됐을 수 있다는 것이다. 강원택 서울대 국가미래전략원장은 “시간이 갈수록 ‘노력보다 출발선이 격차를 결정한다’는 인식이 전 세대에 광범위하게 고착될 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;부모 찬스가 경제적 계급을 좌우한다는 인식이 굳어지면서, ‘개천에서 용 난다’는 계층 상승의 기대감도 옅어지고 있다. 이번 조사에서 ‘열심히 노력하면 계층 상승이 가능하다’는 말에 응답자의 38%는 동의하지 않는다고 답했다. 계층 상승이 가능하다고 응답한 비율은 31%였다.&lt;br&gt;&lt;br&gt;노력해도 격차를 좁힐 수 없다는 좌절감은 미래에 대한 부정적 인식으로 이어졌다. ‘나의 자녀 세대는 나보다 더 나은 삶을 살 수 있을 것이다’는 말에 동의하지 않는 응답자는 33%로 동의하는 비율(31%)보다 높았다. 출산율이 가장 높은 30대는 16%만이 자녀 세대가 더 나은 삶을 살 것이라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“사회가 내 노력 배신했다”… 4060·중산층이 분노 지수 가장 높아</title>
       <link>https://www.chosun.com/national/national_general/2026/05/23/FR2F2ESC6VB53FZGE2TWKM2NHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/23/FR2F2ESC6VB53FZGE2TWKM2NHU/</guid>
@@ -845,15 +884,6 @@
       </media:content>
     </item>
     <item>
-      <title>2차 특검, 내란 혐의 홍장원 첫 피의자 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/23/XFYLUMZERRH5ROVXC7A4TS2IDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/23/XFYLUMZERRH5ROVXC7A4TS2IDA/</guid>
-      <dc:creator>박혜연 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 May 2026 15:48:00 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)이 22일 내란 중요임무 종사 혐의를 받는 홍장원 전 국가정보원 1차장을 피의자 신분으로 불러 9시간 조사했다. 홍 전 차장에 대한 특검 조사는 이번이 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44DNYJTKVJFYLLAYDAOA24GYDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 홍장원 전 국가정보원 1차장이 경기 과천시 2차 종합특별검사팀 사무실에 출석하기 직전 취재진의 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 차장은 2024년 12·3 비상계엄 해제 후 국가안보실로부터 받은 ‘대외 설명자료’를 토대로 미국 등 우방국에 계엄의 정당성을 알리는 메시지를 전달한 혐의를 받고 있다. 특검은 조태용 전 국정원장의 지시에 따라 홍 전 차장 산하 해외 담당 부서가 미국 중앙정보국(CIA)에 직접 메시지를 전달했다고 의심하고 있다. 이와 관련해 특검은 “홍 전 차장이 이 모든 과정을 보고받고 재가했다”고 했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 이날 오전 특검 사무실에 출석하며 “조 전 원장으로부터 계엄 옹호 메시지를 전달하라는 지시를 받은 적이 없다”며 “과연 조 전 원장이 제게 그런 지시를 할 수 있는 상황이었는지 생각해 보시면 상식적인 선에서 이해가 될 것”이라며 혐의를 부인했다. 홍 전 차장은 조사를 마친 후 “충분히 오해를 풀었다”고 했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 윤석열 전 대통령의 탄핵과 내란 사건 1심 유죄 판결에 결정적인 역할을 한 인물이다. 그는 헌법재판소와 국회 등에 출석해 “2024년 12월 3일 오후 10시 53분쯤 윤 전 대통령이 전화로 ‘이번 기회에 싹 다 잡아들여’라고 했다”고 증언했다. 또 홍 전 차장은 “계엄 당일 오후 11시 50분쯤 조 전 원장을 독대해 ‘대통령께서 방첩사가 이재명·한동훈 등 주요 정치인을 체포하는 것을 지원하라고 했다’고 보고했다”고 주장해왔다.&lt;br&gt;&lt;br&gt;이 같은 증언을 근거로 앞서 내란 특검은 “윤 전 대통령의 정치인 체포 계획을 알고도 국회에 보고하지 않았다”며 조 전 원장을 직무유기 혐의 등으로 기소했다. 그러나 조 전 원장 사건의 1심 재판부는 그에게 징역 1년 6개월을 선고하면서도, 홍 전 차장 진술의 신빙성을 대부분 인정하지 않았다. 이에 직무유기 등 핵심 혐의를 무죄 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “조 전 원장은 당시 홍 전 차장이 보고한 내용을 비상계엄 과정에서 발생한 풍문으로 받아들였을 가능성이 있다”며 “정치인 체포에 대한 기초사실을 제공받지 못한 조 전 원장에게 (국회) 보고 의무가 발생했다고 보기 어렵다”고 판시했다.&lt;br&gt;&lt;br&gt;재판부는 또 조 전 원장이 작년 1월 국회에 출석해 “홍 전 차장으로부터 대통령의 정치인 체포 지시 관련 보고를 받은 적이 없다”고 해 기소된 국회 증언·감정 등에 관한 법률 위반 혐의에 대해서도 “피고인의 인식과 홍 전 차장의 독대 보고 내용 등에 비춰 조 전 원장이 정치인 체포를 대통령의 지시로 인식했다고 단정하기 어렵다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이에 대해 홍 전 차장은 “(진술을) 받아들이고 안 받아들이는 것은 법원의 일이고, 제가 말씀드릴 상황은 아닌 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법무부 ‘제2 유승준’ 차단… 병역 미이행자 입국 막는다</title>
       <link>https://www.chosun.com/national/court_law/2026/05/23/TAHEG3MATNDARPSTJWBFWHLXAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/23/TAHEG3MATNDARPSTJWBFWHLXAI/</guid>
@@ -861,33 +891,6 @@
       <description/>
       <pubDate>Fri, 22 May 2026 15:48:00 +0000</pubDate>
       <content:encoded>법무부가 가수 유승준(50·미국명 스티브 승준 유)을 비롯해 병역 면탈자의 대한민국 입국을 금지하기 위한 법적 근거 마련에 나선다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKPKXQMYXVGAZJL5DSXLOPOUFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차용호 출입국·외국인정책본부장은 22일 열린 법무부 월간 업무회의에서 “스티브 유 사례 등 사회적 물의를 초래한 병역 면탈자의 입국을 금지할 수 있게 하는 출입국관리법상 근거를 명확히 규정하겠다”며 “출입국관리법 시행규칙에 입국 금지 대상자 조항을 신설해 병역 면탈자를 입국 금지 대상에 포함하도록 구체화하겠다”고 했다.&lt;br&gt;&lt;br&gt;현행 출입국관리법은 ‘법무부 장관이 입국이 적당하지 않다고 인정하는 사람’에 대해 입국을 금지할 수 있도록 하고 있다. 그러나 구체적인 대상을 나열한 규정이 없다는 한계가 있었는데, 이 법 시행규칙에 병역 면탈자 등을 구체적으로 명시하겠다는 취지다.&lt;br&gt;&lt;br&gt;이날 회의에서 정성호 법무부 장관은 “병역 의무는 이행하지 않고 국적을 이탈하고 다시 한국으로 와서 개인적 이득을 취하려는 건 사실 안 좋은 행위”라며 “이는 반사회질서이고, 그것이야말로 매국적 행위 아니겠느냐”고 말했다.&lt;br&gt;&lt;br&gt;1997년 데뷔해 연예계 활동을 한 유씨는 입대를 앞두고 미국 시민권을 취득해 병역을 기피했다는 논란이 일어 2002년 입국이 제한됐다. 이후 재외동포(F-4) 비자 발급을 시도했지만, 주 로스앤젤레스(LA) 총영사관에서 비자 발급을 거부하면서 소송으로 이어졌다. 2020년과 2023년 대법원은 유씨의 손을 들어줬지만, 정부는 판결 취지가 비자 발급 거부 과정에 절차적 문제가 있었다는 것이지 유씨에게 비자를 발급하라는 것은 아니라고 반박했다. 유씨는 세 번째 행정소송을 제기했고, 작년 8월 1심에서 승소한 뒤 오는 7월부터 항소심이 열릴 예정이다.&lt;br&gt;&lt;br&gt;이날 회의에서 법무부는 최근 폐지 논의가 본격화하고 있는 배임죄와 관련해 다음 달까지 개선 방안을 마련하기로 했다. 이재명 대통령이 취임 초기부터 강조해온 ‘경제 형벌 합리화’의 일환이다. 이와 관련해 정 장관은 “기업인들이 자유롭게 보다 진취적으로 경영 판단을 할 수 있게 도와줘야 한다는 공감대가 있다”면서 “검찰국과 법무실에서 배임죄 개선 문제에 속도를 냈으면 좋겠다”고 주문했다.&lt;br&gt;&lt;br&gt;이에 대해 이응철 검찰국장은 “현재 5개년 판례 3300여 개를 자체적으로 분석한 결과와 학계의 논의, 연구용역 결과물을 종합적으로 분석해 배임죄 개선안을 검토하고 있고, 형사법 개정특별위원회 논의와 전문가 자문회의를 통해 현행 배임죄 문제점에 대한 전문가의 다양한 의견도 확인 중”이라며 “다음달 내에는 개선안을 확정해 추진될 수 있도록 준비하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[관가 인사이드] 기사회생한 성평등가족부의 ‘자화자찬’ 성과 보고</title>
-      <link>https://www.chosun.com/national/education/2026/05/23/7UWW6FA3YFAZHLH4QVOQXGHGYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/23/7UWW6FA3YFAZHLH4QVOQXGHGYY/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 May 2026 15:47:00 +0000</pubDate>
-      <content:encoded>성평등가족부가 정부 출범 1주년을 맞아 ‘핵심 국정 성과’를 3페이지로 21일 발표했습니다. ‘약자 보호와 돌봄 국가 책임 강화를 위해 뛰었습니다’라는 제목의 자료에는 ‘위안부 피해자법 개정’, ‘디지털 성범죄 대응 체계 고도화’, ‘양육비 지원 제도 개편’이 핵심 성과로 나열됐습니다. 모두 중요한 사안이지만, 최근 사회적으로 벌어진 사건들을 보며 국민들이 성평등부에 기대한 내용과는 동떨어졌다는 얘기가 나옵니다.&lt;br&gt;&lt;br&gt;대표적 사건이 최근 광주광역시에서 20대 남성이 길을 가던 여고생을 살해한 사건입니다. 여성을 성폭행한 후 스토킹 신고까지 당한 남성은 그 여성을 찾으려다 고교생을 대신 범행 대상으로 삼았습니다. 여성들은 여성 안전 문제를 국가적 이슈로 떠오르게 한 ‘강남역 살인 사건’이 올해로 10년이 됐는데도 여전히 비슷한 범죄가 반복된다는 점에 큰 충격을 받았습니다.&lt;br&gt;&lt;br&gt;그런데 성평등부는 이에 대해 별다른 입장이나 대책을 내놓지 않았습니다. 기자 브리핑에서 사건에 대해 질문이 나오자 “여성 대상 폭력으로 볼 수 있다”고 짧게 언급한 정도입니다. 성평등부의 핵심 업무이자 국정 과제인 ‘여성 안전’이 무색한 대응이었습니다.&lt;br&gt;&lt;br&gt;남성 역차별 해소 정책도 마찬가지입니다. 작년 6월 이재명 대통령은 “남성이 차별받는 부분도 챙겨보라”고 성평등부에 지시했고, 성평등부는 새 부서도 만들었습니다. 그런데 대통령 지시 후 1년이 지난 지금까지 성평등부는 아무 정책도 내놓지 않았습니다. 청년 토크 콘서트를 열고 관련 위원회를 꾸린 게 전부입니다. 이 때문에 “성평등부가 민감한 이슈에 대해 몸을 사리려 한다”는 얘기가 나옵니다.&lt;br&gt;&lt;br&gt;‘가족 정책’ 분야는 더 문제입니다. 가족 정책은 성평등부 전체 예산 2조원 중 70%를 차지할 정도로 중요한 업무입니다. 그중에서도 아이돌봄 서비스 사업 예산이 43%(6000억원)를 차지하죠. 그런데 성평등부는 아이돌봄 서비스의 만성 대기를 해소하기 위해 민간 공급을 확대하는 법이 국회를 통과한 지 1년이 됐는데도 이를 사실상 방치했습니다. 민간 업체 참여를 독려하기는커녕 최근까지 지침도 내려주지 않아 등록한 업체가 한 곳도 없습니다. 심지어 이 사업을 담당하는 가족정책관(국장급) 자리를 1년 동안 공석으로 뒀다가, 본지에 관련 기사가 보도된 날 임명하기도 했습니다. &lt;br&gt;&lt;br&gt;성평등가족부는 지난 정부에서 폐지 위기에 놓였다가 정권이 교체되며 기사회생했습니다. 올해 예산은 전년 대비 13%나 늘었습니다. 이젠 국민들이 기대한 성과를 내며 존재 이유를 입증해야 한다는 목소리가 큽니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교육 정책은 없고 정치 공방에 그친 서울교육감 토론회</title>
-      <link>https://www.chosun.com/national/education/2026/05/23/MGKZRZW3YFCMZHOCMQIC2QCCDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/05/23/MGKZRZW3YFCMZHOCMQIC2QCCDA/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 May 2026 15:47:00 +0000</pubDate>
-      <content:encoded>다음 달 3일 치러지는 서울교육감 선거에 출마한 후보 8명이 22일 처음이자 마지막 생방송 TV 토론을 가졌다. 서울교육감은 서울 지역 학생 81만명과 예산 11조원을 관리하는 자리인데도, 최근 각종 여론조사에서 ‘지지 후보 없음’ ‘모름’이란 응답이 20% 안팎으로 나오는 등 유권자들로부터 큰 주목을 받지 못하고 있다. 이날 TV 토론 역시 이 같은 분위기나 흐름을 바꾸지 못했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;현재 진영별 후보 단일화 실패로 보수 후보 4명(김영배·류수노·윤호상·조전혁), 진보 후보 3명(정근식·한만중·홍제남), 중도 후보 1명(이학인) 등 총 8명이 출사표를 던진 상태다. 이는 다른 지역 교육감 선거는 물론, 지난 2008년 교육감 직선제 도입 이후 최다 후보 등록이다. &lt;br&gt;&lt;br&gt;그런데도 이날 TV 토론이 유권자들의 관심을 끄는 데 실패했다는 지적이 적지 않다. 공직선거법 기준(여론조사 지지율 5% 이상 등)에 따라 정근식·조전혁·한만중 후보 3인만 참여하는 초청 토론회와 나머지 후보 5인의 토론회로 쪼개져 진행됐지만, 이 두 토론회 모두 상당수 유권자가 시청하기 어려운 낮 시간대(낮 12시 30분과 오후 4시)에 각각 편성됐다. 후보자들 역시 정책 대결보다 상호 비방과 정치 진영 공방에 치우치는 모습이었다. 조전혁 후보(보수)가 “이재명 대통령에 대한 공소 취소 추진은 삼권분립이라는 헌법 가치를 파괴하는 일이다. 내가 교육감이 되면 공소 취소가 얼마나 나쁜 것인지 가르칠 것”이라고 하자, 정근식 후보(진보)는 “(2024년) 교육감에 취임하고 나서 보니 윤석열 정부에서 역사 교육 예산을 너무 적게 잡아 문제가 있었다”고 맞섰다. 교육 이슈와는 상관없는 ‘삼성전자 성과급’ 문제가 이날 토론회에서 언급되기도 했다.&lt;br&gt;&lt;br&gt;한 교육계 관계자는 “교육감 선거는 정치적 중립성을 지키기 위해 정당 공천 없이 치르는데, 정작 후보들이 중요한 교육 이슈에 대한 정책 차별화를 하지 않고 정치·이념 대결 양상만 보여 일반 유권자들로부터 외면받는 상황”이라며 “충분한 검증 없이 교육감을 뽑는다면 교육 현장에 맞지 않는 설익은 정책들이 쏟아질 텐데 그로 인한 피해는 고스란히 학생에게 돌아갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 구영자 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/05/23/4XBEFQPMY5CJJPTOFQQXAFTUHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/23/4XBEFQPMY5CJJPTOFQQXAFTUHE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 May 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;구영자 &lt;/b&gt;별세, &lt;b&gt;윤창희&lt;/b&gt; 인천 옹진군 안보정책자문관·&lt;b&gt;윤광석&lt;/b&gt; KT&amp;amp;G AX 추진단장 모친상=22일0시10분 울산전문장례식장, 발인 24일6시, (052)242-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박동석&lt;/b&gt; 별세, &lt;b&gt;김경순&lt;/b&gt; 남편상, &lt;b&gt;박경대&lt;/b&gt; 한화투자증권 커뮤니케이션팀 팀장·&lt;b&gt;박숙희&lt;/b&gt; 부친상, &lt;b&gt;김승연&lt;/b&gt; 장인상, &lt;b&gt;김린희&lt;/b&gt; 시부상, 22일9시20분 중앙대병원, 발인 24일8시, (02)860-3500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이순자 &lt;/b&gt;前 숙명여대 문헌정보학과 교수&lt;b&gt; &lt;/b&gt;별세,&lt;b&gt; 김한회 &lt;/b&gt;미국변호사·&lt;b&gt;김다니엘승회 &lt;/b&gt;데이라이트디자인 파트너 모친상&lt;b&gt;, 이수연 &lt;/b&gt;미국 스탠퍼드대학교 에이즈연구소 연구원·&lt;b&gt;이우영&lt;/b&gt; 서울대 법학전문대학원 교수 시모상=21일18시9분 서울성모병원, 발인 24일5시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이한영&lt;/b&gt; 별세, &lt;b&gt;서상기&lt;/b&gt; 남편상, &lt;b&gt;이상길&lt;/b&gt; 연세대 커뮤니케이션대학원 교수·&lt;b&gt;이상희&lt;/b&gt; 서울 양천구 건강증진팀장·&lt;b&gt;이연희 &lt;/b&gt;서울 강서구 선거관리위원회 근무 부친상, &lt;b&gt;윤중섭&lt;/b&gt;·&lt;b&gt;김학년 &lt;/b&gt;하나은행 영업1부PB센터 지점장 장인상, &lt;b&gt;김현경&lt;/b&gt; 시부상,=21일8시30분, 신촌세브란스병원, 발인 23일9시, (02)2227-7500&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘억대 연봉자 일상’ ‘대치맘 루틴’… 자랑인 줄 알면서 오늘도 클릭</title>
