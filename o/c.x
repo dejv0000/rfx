@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 검찰, ‘서소문 고가차도 붕괴 사고’ 전담수사팀 편성</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/27/ZNXATTYTRVA6VOZFALGCC6XXU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/27/ZNXATTYTRVA6VOZFALGCC6XXU4/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 26 May 2026 23:42:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZWEZJZGZSTAN3FHA3TMZJSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 붕괴 사고가 발생한 서울 서대문구 서소문 고가차도 철거 현장에서 야간 작업이 진행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 26일 발생한 서울 서대문구 서소문 고가차도 철거 현장 붕괴 사고와 관련해 전담 수사팀을 편성하기로 했다.&lt;br&gt;&lt;br&gt;27일 서울서부지검은 “서소문 고가차도 철거 현장 붕괴 사고와 관련해 전담팀을 편성해 신속하게 대응할 예정”이라고 밝혔다. 전담팀은 대검찰청 안전사고 분야 공인 전문 검사인 소재환 부장검사가 팀장을 맡고 전담 검사 4명과 수사관 6명 등 총 11명이 투입된다.&lt;br&gt;&lt;br&gt;전담팀은 경찰·고용노동부 등 유관 기관과 협력해 사고 원인과 책임 소재 등을 규명하는 한편, 피해자 지원에도 나설 방침이다.&lt;br&gt;&lt;br&gt;앞서 지난 26일 오후 2시 33분쯤 서소문 고가차도 철거 현장에서 상판 구조물이 붕괴해 시공사 현장소장 등 3명이 숨지고 작업자 2명이 다쳤다. 현장 인근을 지나가던 서울 서대문구 소속 공무원 1명도 부상당했다.&lt;br&gt;&lt;br&gt;이날 고용노동부는 사고 직후 중앙산업재해수습본부를 꾸리고 작업 중지 조치를 내렸다. 서울경찰청은 50여 명 규모 전담 수사팀을 꾸려 수사에 착수했다. 서울시는 재난안전대책본부를 구성해 사고 수습과 유가족 지원에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한남사려니오름숲 다시 시민 품으로 </title>
+      <link>https://www.chosun.com/national/regional/2026/05/23/ABT4KA6NPJCTZNHDC2QBWGAJAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/23/ABT4KA6NPJCTZNHDC2QBWGAJAQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 May 2026 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSKZF3Y57RHC5MUWGDHOXQ33MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 국립산림과학원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림청이 지정한 ‘대한민국 100대 명품 숲’ 중 한 곳인 제주 서귀포시 한남사려니오름숲이 오는 10월까지 개방된다. 작년 11월 ‘산불 조심 기간’에 맞춰 폐쇄됐다가 6개월여 만에 다시 문을 여는 것이다. 하루 탐방 인원도 기존 300명에서 100명 늘어난 400명으로 확대했다. 산림청 관계자는 “작년 개방 기간 총 3만명이 탐방로를 찾은 만큼, 올해는 더 많은 탐방객이 숲길을 즐길 수 있게 한 것”이라고 했다. &lt;br&gt;&lt;br&gt;한남사려니오름숲 탐방로는 상록활엽수림, 낙엽활엽수림, 삼나무 전시림 등 다양한 삼림 경관을 체험할 수 있는 곳이다. 또 산림청 인증 산림 교육 프로그램도 운영하고 있어 방문객들이 숲 탐방을 할 수 있다. &lt;br&gt;&lt;br&gt;이번에 개방되는 구간은 국가 숲길인 한라산둘레길 6구간이다. 이승악에서부터 사려니숲까지 총 9.4㎞ 길이로 이어져 있다. 이 중 5.5㎞ 구간은 국립산림과학원 난대·아열대산림연구소가 조성한 시험림이라 탐방이 통제됐으나, 2022년부터 일정 기간 탐방을 허용하고 있다.&lt;br&gt;&lt;br&gt;난대·아열대산림연구소 관계자는 “이색적인 풍광의 하늘길, 삼나무와 편백 종자 생산지인 채종원까지 두루 구경할 수 있는 기회”라며 “많은 사람이 아름다운 숲을 직접 체험하고 쉼과 여유를 누릴 수 있도록 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>눈치빠른 미남...‘정조의 칼잡이’ 홍국영의 몰락</title>
       <link>https://www.chosun.com/national/incident/2026/05/27/ZTX22BMJVJB7VMJKXMJ7TMMWYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/27/ZTX22BMJVJB7VMJKXMJ7TMMWYQ/</guid>
@@ -581,16 +599,6 @@
       <content:encoded>대검찰청이 국무총리 산하 검찰개혁 추진단(추진단)에 검찰 제도 개편과 관련해 수사·기소 분리 원칙을 지키려면 경찰 등 수사개시 기관이 수사한 사건을 모두 공소청에 송치하는 전건송치 제도를 복원해야 한다는 의견을 낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTGZLFG5SDEZDFMRRDQNBSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 본지 취재를 종합하면, 대검은 최근 추진단에 “수사·기소 분리라는 검찰 제도 개편 원칙을 감안하면 전건송치 제도가 필요하다”는 취지의 의견서를 제출했다. 검찰청이 오는 10월 공소 제기 여부만 판단하는 공소청으로 전환될 경우 과거 전건송치 제도를 되살려야 한다는 것이다.&lt;br&gt;&lt;br&gt;전건송치는 경찰 등 수사 기관이 수사한 모든 사건을 검찰에 보내 최종 처분 판단을 받도록 하는 제도다. 과거에는 경찰이 모든 사건을 검찰에 송치해야 했다. 그러나 2021년 검경 수사권 조정 이후 경찰에 수사 종결권이 부여되면서 검찰에는 일부 사건만 송치되고 있다. 경찰이 혐의가 없다고 판단한 사건은 원칙적으로 불송치할 수 있다.&lt;br&gt;&lt;br&gt;대검은 이 같은 구조가 수사·기소 분리 원칙에 맞지 않는다고 보고 있다. 대검은 추진단에 “수사개시 기관과 최종 기소 여부를 결정하는 기관은 분리돼야 한다는 것이 수사·기소 분리”라는 취지의 의견을 전달한 것으로 알려졌다. 경찰이나 중수청이 수사를 개시하고 불송치 권한까지 갖는 것은 사실상 기소 여부에 대한 1차 결정권까지 갖는 것이라는 논리다.&lt;br&gt;&lt;br&gt;대검은 또 수사·기소 분리의 취지가 사건에 대한 확증 편향을 막는 데 있다면, 수사개시 기관이 사건을 모두 송치하고 기소 여부는 공소청 검사가 판단하는 구조가 원칙에 부합한다고 본다.&lt;br&gt;&lt;br&gt;다만 이 같은 의견이 향후 형사소송법 개정 과정에 반영될지는 미지수다. 김민석 국무총리는 지난 6일 “검찰의 보완수사권 폐지를 전제로 형사소송법 개정안을 마련하라”고 지시했다. 당시 정치권과 법조계에서는 김 총리가 6·3 지방선거 이후 진행될 민주당 당권 경쟁을 의식해 ‘검찰 개혁’ 선명성 경쟁에 나선 것 아니냐는 해석이 나왔다.&lt;br&gt;&lt;br&gt;법조계에서는 보완수사권이 폐지되고 전건송치마저 복원되지 않을 경우 경찰 등 수사기관에 대한 견제 장치가 대폭 약해질 것이라는 우려가 나온다. 검사장 출신 한 변호사는 “검찰의 보완수사권이 사라진다면, 사건 암장 방지 등 수사 기관에 대한 견제 차원에서라도 전건송치 제도가 반드시 필요하다”며 “정치적 이해관계에 따라 전건송치 논의마저 묵살된다면 그 피해는 모두 국민에게 돌아갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘서핑·요가·드론쇼' 바다가 즐겁다…해운대·송정해수욕장 다음달 26일 개장 </title>
-      <link>https://www.chosun.com/national/regional/2026/05/26/AJM4Y6A3NJH4BCTJKFK4KUSAJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/05/26/AJM4Y6A3NJH4BCTJKFK4KUSAJE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 26 May 2026 00:43:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCACBY66UZEJTDGWQLOCXALJ6M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 부산 해운대해수욕장에서 휴양객과 시민들이 아침 햇살을 맞으며 해변 요가를 하고 있다.
-이날 행사는 해양 자원과 지역 문화를 결합해 시민과 관광객에게 휴식과 치유 경험을 제공하는 '2026 부산 해양치유 관광 프로그램' 중 하나이다. 5월부터 10월까지 매주 토·일, 부산 7개 해수욕장과 동백섬 일원에서 해변요가,선셋 필라테스, 오션러닝, 싱잉볼 명상 등의 프로그램으로 진행된다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6월 26일 해운대·송정해수욕장을 시작으로 7월 1일에는 송도·광안리·다대포(동측·서측)·일광·임랑해수욕장이 잇따라 문을 연다.&lt;br&gt;&lt;br&gt;이에 따라 부산시는 26일 오후 시청 소회의실에서 2026년 해수욕장 운영보고회를 연다. 안전 관리를 강화하기 위해서다. &lt;br&gt;&lt;br&gt;지난해 부산지역 해수욕장 방문객이 2197만9000명으로 2024년과 비교했을 때 11.4% 늘었다. &lt;br&gt;&lt;br&gt;개장 전 해수욕장 위험성 평가를 완료해 그 결과를 바탕으로 물놀이 구역과 수상레저 구역을 구분 지정해 운영하고 이용객 규모에 맞는 안전관리 인력을 배치한다.&lt;br&gt;&lt;br&gt;해운대·광안리·일광 등 주요 해수욕장에 해파리 차단 망과 유해 생물 방지시설을 설치하고 119시민수상구조대·민간 수상구조대·해경 등 관계기관 합동 대응체계를 구축한다.&lt;br&gt;&lt;br&gt;소방재난본부는 다음 달부터 9월까지 7개 해수욕장에 119시민수상구조대를 운영하고 구조 대응체계를 강화한다.&lt;br&gt;&lt;br&gt;시는 숙박업소 위생 관리와 식중독 등 식품안전관리, 해수욕장 주변 교통 및 주차관리, 바가지요금 방지 등 물가안정 관리, 해수욕장 수질, 토양 오염관리 등도 논의한다.&lt;br&gt;&lt;br&gt;송도에서 카약·스킨스쿠버, 송정에선 서핑, 광안리 패들보드(SUP) 등 지역별 해양 레포츠 특화 프로그램을 운영하고 해변 요가, 선셋 필라테스, 바다 러닝, 싱잉볼라운지 등 해양 치유 프로그램을 선보인다.&lt;br&gt;&lt;br&gt;또 광안리 M 드론라이트 쇼, 부산바다축제 등 사계절 즐길 수 있는 체험형 해양레저관광을 늘릴 예정이다.&lt;br&gt;&lt;br&gt;나윤빈 시 관광마이스국장은 “부산 해수욕장을 단순 피서지가 아닌 사계절 내내 찾는 명소로 만들겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 직원 5명 업체가… 서울 경찰서 리모델링 절반 싹쓸이</title>
       <link>https://www.chosun.com/national/national_general/2026/05/27/6ZFDQBNKUFHXBLJLIZKWGIH3BQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/27/6ZFDQBNKUFHXBLJLIZKWGIH3BQ/</guid>
@@ -961,15 +969,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/2WFNFT4MQBEJBMOLQSB7IAEYUY.JPG?auth=1210ac43183d31d63507fdf36f201df63f63b6c19e13169a89dd7f76a3fee7fe&amp;smart=true&amp;width=1018&amp;height=573" type="image/jpeg" height="573" width="1018">
         <media:description type="plain">정용진 신세계그룹 회장.(신세계그룹 제공).</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] ‘검찰 수사관’ 새 이름 선호도 1위는 ‘형사법무직’…“기소만 한다는 인상 싫다”</title>
-      <link>https://www.chosun.com/national/court_law/2026/05/24/WIT2D3PAYFELJENYVT25AYBEEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/24/WIT2D3PAYFELJENYVT25AYBEEY/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 May 2026 06:42:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WIODDGRQWMN3DG5QWMMBRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 실시한 ‘공소청 공무원’ 직렬명 선호도 조사에서 ‘형사법무직’이 1위를 차지한 것으로 24일 나타났다. 기소 업무만 처리한다는 인상을 주는 ‘공소직’보다, 영장 청구·형사 사건 검토 등 기소 이외의 다양한 업무도 수행함을 드러낼 수 있는 명칭인 ‘형사직’이 선호된 것으로 해석됐다.&lt;br&gt;&lt;br&gt;법무부는 지난달 28~30일 전국 검찰직 공무원 6506명을 대상으로 ‘공소청 직원 직렬명칭 최종 선호도 조사’를 실시하고 형사법무직·공소직·공소법무직 중 가장 마음에 드는 명칭 1개를 고르도록 했다. 일명 ‘검찰 수사관’으로 불리는 검찰직 공무원은 검사를 도와 사건을 수사하고 범죄 정보를 수집·분석하는 등 역할을 수행한다. 오는 10월 검찰청이 폐지되면 검사와 마찬가지로 중수청 수사관이 될지, 공소청 공무원으로 남을지 결정하게 된다. 그런데 헌법상 명칭이 적시돼 직렬명 변경이 필요 없는 ‘공소청 검사’들과 달리, 공소청 소속 공무원들은 ‘검찰직’에 대응할 직렬명을 새로 정해야 하는 상황이다.&lt;br&gt;&lt;br&gt;법무부가 나경원 국민의힘 의원실에 제출한 선호도 조사 결과를 보면, 설문에 참여한 2460명 중 1126명(45.8%)이 ‘형사법무직’을 선택했다. 공소직(750명), 공소법무직(584명)이 그 뒤를 이었다. 지난 3월 말 대검찰청이 검사와 검찰직 공무원 등을 상대로 실시한 설문조사에서는 공소법무직·공소직·공소행정직·공소사무직 등 4개의 보기 중 ‘공소법무직’이 1위를 차지했는데, 선택지에 ‘형사법무직’을 추가하자 순위가 뒤바뀐 것이다.&lt;br&gt;&lt;br&gt;이 같은 조사 결과는 검찰직 공무원들이 ‘사무’나 ‘행정’보다는 ‘법무’를, ‘공소’보다는 ‘형사’라는 명칭을 선호하기 때문인 것으로 분석됐다. 설문에 참여한 한 검찰직 공무원은 “공소직이라는 이름에는 직접 보완수사든, 보완수사 요구든 송치된 사건을 검토·보완한다는 역할이 충분히 드러나지 않는다”고 했다. 또 다른 검찰직 공무원은 “공소라는 이름이 아직 어색하다”며 “형사 사건을 다룬다는 걸 드러낼 수 있는 포괄적인 명칭이면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;설문조사 결과는 향후 직렬명 결정에 있어 주된 참고 자료로 사용될 예정이다. 다만 이번 선호도 조사를 두고 검찰 내부에선 “보완수사권 등 공소청의 실질적 역할이 아직 명확히 정해지지 않은 상황에서 명칭이나 고르라고 하니 힘이 빠진다”며 “선택한 대로 최종 결정될 것 같지도 않아 조사에 참여하지 않았다”는 목소리도 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
