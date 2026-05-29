@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[아무튼, 주말]#소록도슈바이처#지방선거BGM</title>
+      <link>https://www.chosun.com/national/weekend/2026/05/30/XE45APJNAVFOBIX734HMHVNHMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/05/30/XE45APJNAVFOBIX734HMHVNHMU/</guid>
+      <dc:creator>조선일보 주말뉴스부</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 May 2026 21:00:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLR67EGYLNFTFHDTJH4BNRYVX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;이달 초 만난 오동찬 국립소록도병원 의료부장은 인터뷰 내내 소탈한 웃음을 잃지 않았다. 수수한 정장 차림에 꾸밈없는 표정이 인상적이었다. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1. 소록도에는 세상에서 가장 행복한 의사가 삽니다&lt;/b&gt;&lt;br&gt;&lt;br&gt;스물일곱 살에 공중보건의로 소록도에 들어간 오동찬 국립소록도병원 의료부장은 31년째 그 섬에 살고 있습니다. 그는 편견과 차별 속에 살아온 한센인들을 특별한 환자가 아닌 가족 같은 이웃으로 만나왔습니다. 집 한 채 없이 살아온 그는 오히려 “소록도에서 받은 것이 너무 많다”며 자신을 세상에서 가장 행복한 의사라고 말합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5Z3F3S6IZKO5OCXEA72467MKA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(부산=뉴스1) 윤일지 기자 = 6·3 지방선거 및 국회의원 재보궐선거 사전투표 첫날인 29일 부산 연제구 연제구청에 마련된 사전투표소에서 유권자가 소중한 한 표를 행사하고 있다. 2026.5.29/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2.지방선거 로고송, 어디까지 들어봤니&lt;/b&gt;&lt;br&gt;&lt;br&gt;6.3 지방선거를 앞둔 마지막 주말입니다. 요즘 부쩍 자주 들리는 노래들, 있지요? 후보들이 트는 대중가요 인기곡 1위는 영탁의 댄스 트로트곡 ‘찐이야,’ 2위는 만화 주제가인 유정석의 ‘질풍가도’라고 합니다. 이번 선거의 흥 유발자인 로고송마다 재미있는 사연이 있습니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6DYBIE3BF5FIRN25QYGJLFPJQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;같은 피부과처럼 보여도 숨겨진 뜻이 있다. '○○피부과의원'은 피부과 전문의가 상주하는 곳, 진료과목을 따로 표기한 '●●의원'은 타전문의나 일반의가 진료하는 미용 클리닉일 가능성이 높다. 피부과 성형외과가 몰려 있는 서울 신사역 인근의 모습. /이건송 영상미디어 기자 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;3. 피부과 간판 보고 왔는데, 두드러기는 안 본다고요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;두드러기·건선·아토피 같은 피부 질환으로 피부과 병의원을 찾았다가 ‘일반 피부 질환은 안 봅니다’라는 진료 거부를 당한 사례가 많습니다. 피부과인 듯 피부과 아닌 피부과 같은 곳, ‘미용 전문 의원’이 우후죽순 늘어난 탓입니다. 피부과 10곳 중 1곳만 피부과 전문의가 상주하는 셈이라는데, 어떤 차이가 있는 걸까요. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAOX5NVOU5FHVPUQ3GSLPHAKRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;격식과 대면 접대를 중시하던 기존 장례 공식이 깨지고 있다. 필요에 따라 절차를 생략하거나, 기간을 단축하는 식이다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;4. 무빈소장·2일장·자유장… 장례 방식이 달라진다&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근 격식과 대면 접대를 중시하던 기존 장례 공식이 깨지고 있습니다. 필요에 따라 절차를 생략하거나 기간을 단축하는 사례가 늘고 있는데요. 영결식 때 생전 고인이 좋아했던 춤을 추기도 한다고 합니다. 관습에 얽매이기보다 개별 가정의 여건을 수용하는 사회적 분위기가 반영된 결과입니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P6FPVAKOLJBHVKKTETOT7PB2FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;5. 더 짜고, 자극적이고, 꼬들꼬들하게… 배달이 바꾼 음식의 맛&lt;/b&gt;&lt;br&gt;&lt;br&gt;2026년 한국인의 집밥은 배달 음식이라고 해도 무방할 듯합니다. 질병관리청이 발표한 ‘우리나라 성인의 식생활 현황’에 따르면, 하루 세 끼 중 한 끼 이상을 배달·포장 음식으로 해결하는 성인 비율은 24.3%로 집계됐습니다. 배달 문화의 확산은 편의성을 넘어 음식의 조리 방식과 미식의 기준까지 바꾸고 있습니다. 외식 전문가들은 “배달 음식이 주류가 되면서 음식이 짜고 자극적으로 바뀌고 있으며, 면·밥의 식감은 단단해지고 있다”고 말합니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHRJNG7RLRBY3B3T27DHUFJVM4.webp"&gt;&lt;figcaption&gt;&lt;small&gt;미국 인디애나주 카멀./US뉴스앤드월드리포트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;6.사람들의 마음이 향하는 곳&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근 공개된 도시별 거주 선호도 평가 결과에서 우리가 익히 아는 세계적 대도시들이 상위권에 들지 못했습니다. 도시는 점점 더 복잡해지는데, 사람들이 원하는 일상은 오히려 단순한 형태에 가까운 건 아닐까요. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 무안공항 사고기 조사, 해외 업체에 맡긴다</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/30/7WN3OPECQNFPNP4DLOQYK3KK5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/30/7WN3OPECQNFPNP4DLOQYK3KK5Y/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 May 2026 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ETDMHTFBZG5PNCAKDRYNGVSPQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 사고에 대해 전면적인 재수색이 시작된 지난달 13일 민관군경 합동으로 사고현장에서 유해수색을 하고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항공철도사고조사위원회가 무안 제주항공 사고기의 기체 결함 조사 등을 해외 업체에 맡기는 방안을 추진한다. 그동안 사조위는 피의자인 국토교통부 관계자와 유착돼 편향된 조사를 한다는 의혹을 받아왔는데, 이런 지적을 피하고 조사의 객관성을 확보하기 위해 해외 업체에 일부 조사를 맡긴다는 것이다.&lt;br&gt;&lt;br&gt;29일 본지 취재를 종합하면, 사조위는 해외 업체에 사고기 조사 등 용역을 주기로 하고 여러 곳을 접촉하고 있다. 이는 이재명 대통령이 지난 18일 무안공항을 방문해 유족들을 만나 “해외에서 전문성을 가진 사람이 있을 텐데 그런 사람을 데려다 쓸 수 있는 거 아니냐”고 말한 데 따른 것이다. 사조위가 접촉 중인 업체에는 미국 항공 사고 분석 전문 업체인 ESI와 익스포넌트(Exponent) 등이 포함된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;전문가들은 사조위가 사고 조사 범위를 확대하기로 하면서 이런 결정을 한 것으로 보고 있다. 사조위는 지금까지 무안공항 활주로 끝에 위치해 기체가 충돌한 콘크리트 둔덕에 대한 조사를 주로 했다. 그러나 유가족과 전문가들은 사고기가 정상 착륙 속도의 1.5배에 달하는 비정상적인 속도(시속 380㎞)로 착륙한 이유를 밝히는 것도 중요하다고 주장해 왔다. 사고기는 전력을 공급하는 장치인 엔진 전력 장치(IDG) 2개가 모두 작동이 중단되면서 속도 제어 기능이 마비된 상태로 의심되는데, 이것이 IDG 단절, 엔진 제어 장치 이상 등 설계 문제가 아닌지 밝혀야 한다는 것이다. 이날 사조위 관계자는 본지 통화에서 “제기된 의문을 풀 수 있도록 해외 업체 도움도 받으려 한다”고 했다.&lt;br&gt;&lt;br&gt;항공기는 인증 후 개선 작업을 계속해야 하는데, 보잉이 비용 절감 탓에 이를 지키지 않았다는 주장도 제기된다. 사고기는 IDG가 모두 꺼졌을 때 기체에 전력을 공급하는 또 다른 장치인 RAT(램에어터빈)가 없다. 허드슨강의 기적으로 알려진 ‘2009년 US에어웨이스’ 추락의 경우 무안 제주항공 참사와 비슷한 성격의 사고였지만, 당시 사고기(에어버스 A320)는 RAT가 작동된 덕에 큰 화를 면할 수 있었다. 항공 사고 전문인 하종선 변호사는 “보잉이 구식 시스템을 방치한 것도 과실, 설계 결함으로 볼 여지가 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 의경 죽음 부른 30년 전 연세대 사태… 진상조사 신청한다는 한총련 출신들</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/30/474XEIQOZFHKVCF7M5IFIE23JE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/30/474XEIQOZFHKVCF7M5IFIE23JE/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 May 2026 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7F67JGUCNND3VLWNDR5KIAQZQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1996년8월20일 서울 연세대학교 종합관을 점거하고 있던 한총련소속 시위학생들이 경찰의 진압작전후 경찰에 잡혀 종합관 옥상에서 고개를 숙인채 모여있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30년 전인 1996년 8월 있었던 이른바 ‘연세대 사태’를 주도한 한총련(한국대학총학생회연합) 간부 출신들이 ‘진실·화해를 위한 과거사 정리 위원회(진화위)’에 조사를 의뢰하는 방안을 추진 중인 것으로 29일 알려졌다. 당시 경찰이 시위를 진압하는 과정에서 인권 침해가 벌어졌다며 진상을 규명하자는 것이다.&lt;br&gt;&lt;br&gt;연세대 사태는 1996년 8월 연세대 서울 신촌 캠퍼스에서 열린 8·15 통일 대축전 및 범민족대회에서 벌어진 대규모 폭력 시위를 말한다. 당시 폭력 사태 진압 과정에서 의경 1명이 시위대가 던진 보도블록에 머리를 맞고 사망하는 사고도 발생했다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 연세대 사태 당시 한총련 간부였던 김모씨는 최근 ‘96년 8월 통일 행사 당시 인권 침해 사건에 대한 진정 신청 대행 위원회(통진위)’를 꾸렸다. 김씨는 지난 19일 소셜미디어 등에 통진위 출범 소식을 알리면서 당시 경찰에 구속되거나 연행된 자, 중상을 입었거나 일상생활에 불편을 느낄 정도의 트라우마를 겪고 있는 피해자를 모집한다고 했다.&lt;br&gt;&lt;br&gt;통진위는 모집 글에 “3기 진화위가 출범함에 따라 1996년 8월 당시 벌어진 사건에 대한 진상 조사의 길이 열렸다”며 “김영삼 정권이 벌인 국가 폭력의 실상과 진압·연행 과정에서의 인권 침해에 대한 조사를 의뢰할 계획”이라고 밝혔다. 통진위는 “30년간 침묵하며 살아온, 이젠 모두가 50을 넘긴 나이의 아저씨, 아줌마들이 과거의 아픔을 잠시 뒤로 미루고 우리가 겪었던 당시의 상황을 하나씩 밝혀보자”고 했다. 김씨는 본지 통화에서 “(관련 증언 수집 등) 준비를 마치는 대로 진화위에 조사를 신청할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;연세대 사태는 1996년 8월 13일부터 20일까지 연세대 서울 신촌 캠퍼스에서 한총련이 주축이 돼 벌인 폭력 농성 시위 사건이다. 한총련은 1980년대 학생 운동을 주도한 전국대학생대표자협의회(전대협)의 후신이다.&lt;br&gt;&lt;br&gt;당시 정부는 “범청학련 통일 축전을 이적 집회로 규정하고 불법 폭력 시위에 강력 대처한다”는 입장을 냈다. 하지만 한총련은 집회를 강행했다. 당시 집회 참여자들은 경찰이 캠퍼스에 진입하자 화염병과 돌을 던지고 쇠파이프를 휘두르며 저항했다. 이 사태로 경찰은 시국 사건으로는 최다 인원인 465명을 구속했다. 1998년 대법원은 한총련을 “반국가 단체인 북한의 노선과 활동을 찬양, 고무하고 동조하는 행위를 목적으로 하는 단체”라고 규정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“오물·래커칠 150만원” “댓글 30만원” 메뉴판까지 만들어 보복 대행</title>
       <link>https://www.chosun.com/national/incident/2026/05/30/K3RGREX2DVBM3PMHFQJTQ3DCTM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/30/K3RGREX2DVBM3PMHFQJTQ3DCTM/</guid>
@@ -932,33 +959,6 @@
       <description/>
       <pubDate>Thu, 28 May 2026 14:31:00 +0000</pubDate>
       <content:encoded>29일(금) - 전국 대체로 맑음&lt;br&gt;&lt;br&gt;토~일 - 맑지만 일교차 커&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSFRSHNIT5BO3GIVNCUAHADA7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서소문 고가차도 철거 재개… 지하철 2호선 홍대입구∼을지로입구 막차 1시간 단축 </title>
-      <link>https://www.chosun.com/national/national_general/2026/05/28/UW2PFYUTVFDXDP3ZQ3UT2LLNHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/28/UW2PFYUTVFDXDP3ZQ3UT2LLNHU/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 13:13:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTAMBTGQZTOYRYME2WINDFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 2호선 시청역에서 지하철을 기다리는 시민들의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사는 서소문 고가차도 철거 공사 재개 영향으로 28일 지하철 2호선 홍대입구역~을지로입구역 구간 막차 시간을 1시간 앞당긴다고 밝혔다. &lt;br&gt;&lt;br&gt;이에 따라 홍대입구역~을지로입구역 구간 사이 열차는 이날 밤 12시에 운행을 종료한다. 조기 종료 대상 역은 홍대입구·신촌·이대·아현·충정로·시청·을지로입구역 등 7개 역이다. 이외 구간은 기존과 같이 다음 날 오전 1시까지 정상 운행한다.&lt;br&gt;&lt;br&gt;서울교통공사는 시민 불편을 줄이기 위해 해당 구간에 대체 교통수단으로 버스 12대를 투입할 계획이다.&lt;br&gt;&lt;br&gt;서울교통공사 관계자는 “철거 작업이 진행되는 지점 아래로 2호선 충정로역~시청역 구간 터널이 지나가고 있어 안전상 이유로 막차 시간을 1시간 앞당겼다”며 “안전을 위한 조치인 만큼 시민들의 양해를 부탁드린다”고 말했다.&lt;br&gt;&lt;br&gt;한편 서울시는 지난 26일 사고 이후 중단됐던 서소문 고가차도 잔여 구조물 철거 작업을 29일 0시부터 재개한다고 이날 밝혔다. 서울시는 사전 안전 보강과 구조물 철거, 마무리 작업 등에 총 29시간이 소요될 것으로 보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노동부, ‘초과이익 사회에 배분’ 토론회 연기</title>
-      <link>https://www.chosun.com/national/labor/2026/05/28/PXNNHKVO3JGBFETMW5UMT3Q64E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/05/28/PXNNHKVO3JGBFETMW5UMT3Q64E/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 12:46:47 +0000</pubDate>
-      <content:encoded>고용노동부가 다음 달 1일 진행하기로 했던 ‘사회연대임금’ 관련 긴급 토론회를 연기하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSDCZJQMM3WCOBVMIYTKM3CGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 김영훈 고용노동부 장관이 출입기자단 차담회에서 '사회연대임금'에 대해 발언하는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동부는 28일 저녁 언론 공지를 통해 “각계의 보다 다양한 의견 수렴을 위해 개최 일정 등을 다시 조율 중”이라며 “구체적인 일정 등 토론회 개요는 조만간 확정되는 대로 공지할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 김영훈 노동부 장관은 지난 27일 기자간담회에서 “대기업의 초과 이익을 어떻게 사회적으로 배분할 것인가에 대한 유일한 해법은 사회적 대화밖에 없다”며 “한국형 사회연대임금의 시론을 모색하겠다”고 밝혔다. ‘사회연대임금’은 대기업과 중소기업, 정규직과 비정규직 등의 임금 격차를 줄이자며 유럽에서 도입했던 정책이다. 최근 삼성전자 성과급 사태를 계기로 대기업의 초과 이익 배분 문제를 둘러싼 논란이 커진 만큼, 노동부 차원에서 토론회를 열어 가이드라인을 마련하겠다는 취지였다.&lt;br&gt;&lt;br&gt;하지만 경영계 등에선 “정부가 대기업의 이익 배분을 사실상 강요하려는 것 아니냐”는 지적이 나왔다. 배분 기준이 되는 ‘초과이익’의 범위가 불분명한 데다, 노사 자치 영역인 성과급 문제에 정부가 개입하는 것은 부적절하다는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 노동부는 설명자료를 내고 “정부가 대기업 이익 배분을 강요한다는 것은 정부가 제안한 사회적 대화의 목적·취지와 전혀 맞지 않는다”고 해명했다. 일각에서는 노동부가 6·3 지방선거를 앞두고 민감한 논란이 커지는 것을 의식해 토론회를 미룬 것 아니냐는 해석도 나온다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연세대 총동문회장에 이경률 SCL그룹 회장 재선출</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/05/28/4XLSBV5HLNBRTOJOFH5TFJA2QA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/28/4XLSBV5HLNBRTOJOFH5TFJA2QA/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 01:53:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIW24AEE2RHHBAZSVFHXIMPQEM.jpg"&gt;&lt;br&gt;&lt;br&gt;이경률 SCL그룹 회장이 연세대학교 총동문회장으로 재선출됐다.&lt;br&gt;&lt;br&gt;연세대 총동문회는 27일 서울 서대문구 연세동문회관에서 정기총회를 열고 이경률 회장의 연임을 확정했다고 밝혔다. 제31대 총동문회장에 이어 32대 회장으로 선출된 이 회장은 2029년 5월까지 3년간 두 번째 임기를 수행한다.&lt;br&gt;&lt;br&gt;1985년 연세대 의학과를 졸업한 이 회장은 모교에서 진단검사의학과 교수를 지냈다. 2005년부터 총동문회 임원을 맡았으며, 2023년 31대 총동문회장에 선출됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
