@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>코레일, 31일 첫차부터 모든 열차 정상 운행</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/30/6RKROOTZDVDCRIIZPU6Z4WY34Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/30/6RKROOTZDVDCRIIZPU6Z4WY34Y/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 09:37:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYDEZRWMI2DANLCGQ2TOZLCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서소문 고가 철거현장 지나는 KTX/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 서소문 고가 사고 여파로 차질을 빚던 열차 운행이 31일부터 정상화된다.&lt;br&gt;&lt;br&gt;30일 코레일은 “모든 가용 자원을 동원해 사고 복구를 마치고 내일부터 모든 열차를 정상 운행한다”고 밝혔다.&lt;br&gt;&lt;br&gt;전 열차 정상 운행은 지난 26일 고가 철거 현장에서 구조물 붕괴 사고가 발생한 후 닷새 만이다. 코레일은 그간 임시 정비했던 차량들을 순차적으로 교체하며 기지에 입고시켜 유지·보수 점검 작업을 진행해왔다. 이를 통해 30일 첫차부터는 그간 중지됐던 서울~신촌 간 선로를 개통해 행신~서울·용산 간 KTX 운행이 재개됐다. 청량리까지만 운행한 강릉·중앙선 KTX-이음도 서울역까지 운행이 정상화됐다.&lt;br&gt;&lt;br&gt;김태승 코레일 사장은 “불가피한 열차 운행 감축에도 믿고 기다려주신 국민께 더욱 안전하고 편리한 철도로 보답하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OGEIS6CIBJOMZBXDAMQ4RFSRRI.jpg?auth=f9f38534231333499595f248c648dcfc70b9171c039e920602d9557897c7e335&amp;smart=true&amp;width=2820&amp;height=1861" type="image/jpeg" height="1861" width="2820">
+        <media:description type="plain">[서울=뉴시스] 김진아 기자 = 서소문 고가차도 붕괴 사고 여파로 운행에 차질을 빚었던 경의선 등 열차 운행이 재개된 30일 서울 서대문구 서소문 고가차도 철거현장을 열차가 통과하고 있다. 2026.05.30. bluesoda@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">bluesoda</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>횡단보도 건너던 임신부·태아 숨져… 화물차 기사에 집행유예 왜?</title>
+      <link>https://www.chosun.com/national/2026/05/30/XQXXWFGSZJA73L6CR6DCKGJUN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/30/XQXXWFGSZJA73L6CR6DCKGJUN4/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 09:05:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZTEY3GGQZDSOJQMU4WGZRYGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;횡단보도를 건너던 신혼부부를 치어 임신부와 태아를 숨지게 한 50대 화물차 운전자에게 금고형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 의정부지법 형사6단독은 교통사고처리 특례법상 치사·치상 혐의로 기소된 50대 A씨에게 금고 2년에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 10일 오후 10시쯤 경기 의정부시 신곡동의 한 교차로에서 7.5t 화물차를 운전하던 중 횡단보도를 건너던 30대 남성과 20대 여성을 들이받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;사고 당시 차량 신호는 적색이었고 피해자들은 보행 신호에 맞춰 횡단보도를 건너고 있었던 것으로 조사됐다. A씨가 전방 주시 의무를 소홀한 채 차량을 계속 운행하다 사고를 낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 사고로 임신 17주였던 여성은 머리에 강한 충격을 받아 외상성 지주막하출혈을 입고 치료를 받다가 사고 발생 17일 만에 숨졌다. 태아도 사산됐다. 함께 있던 남편도 늑골 골절과 폐 타박상, 외상성 혈기흉 등으로 8주 치료가 필요한 중상을 입었다.&lt;br&gt;&lt;br&gt;유족에 따르면 숨진 여성은 대학병원 중환자실 간호사로 근무했으며, 사고 당일 야간 근무를 마친 뒤 남편과 함께 귀가하던 중이었다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “옆 차로에 다른 차가 있어 백미러 쪽을 보다가 앞 신호를 보지 못했다”는 취지로 진술한 것으로 알려졌다. 경찰은 사안의 중대성을 고려해 구속영장을 신청했고 이후 A씨를 구속 상태로 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 횡단보도에 이르기 훨씬 전부터 차량 신호가 적색으로 바뀌어 있었음에도 이를 확인하지 못했다”며 “피해자들은 녹색 신호에 따라 횡단보도를 약 3분의 2가량 건넌 상태에서 사고를 당했다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “산모가 사망하고 남편도 크게 다쳐 현재까지 치료를 계속 받는 등 결과도 무겁다”며 “다만 피해자 측과 합의한 점, 피고인에게 벌금형을 넘는 전과가 없는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양팔 없고 의족에 의지 ‘왼발박사’, 한라산 정상 정복 </title>
+      <link>https://www.chosun.com/national/2026/05/30/CWOPXDNKW5GRDO6TBQFWHXPAA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/30/CWOPXDNKW5GRDO6TBQFWHXPAA4/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 08:29:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4GJQX24GZDA7BL3VWKNE3GOWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 한라산 백록담 등정에 나선 이범식씨가 정상부 해발 1900m 부근의 급경사 바위 구간을 통과 하고 있다. /'이범식 후원회' 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 중증장애인이 제주도 한라산 정상에 오르는 데 성공했다. 해발 1950m 한라산 백록담 정상을 완등한 주인공은 이범식(61) 한국장애인IT복지협회장이다. &lt;br&gt;&lt;br&gt;그는 지난 28일 오전 6시 30분쯤 한라산 정상 등정을 위해 제주 성판악 탐방로 입구에서 출발했다. 양팔이 없고 오른쪽 다리마저 의족에 의지해야 하는 신체 조건으로 그가 극복해야 할 탐방로는 성판악~진달래밭~한라산 정상까지 왕복 18.3km 코스다. &lt;br&gt;&lt;br&gt;9.4km 성판악 코스의 등정 과정은 순탄치 않았다. 특히 정상부 해발 1900m 부근의 급경사와 바위·자갈 구간이 최대 난관이었다. 양팔이 없으니 중심 잡기 어려운 조건에서 이씨는 어깨와 몸 전체를 활용해 로프에 기대고 의족으로 균형을 유지하며 해당 구간을 가까스로 통과했다. &lt;br&gt;&lt;br&gt;출발 6시간 10분 만인 낮 12시 40분, 이씨는 드디어 백록담 정상에 발을 디뎠다. 양팔 없이 한쪽 다리마저 의족에 의지한 중증장애인이 백록담 등정에 성공한 것은 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XCOTQZHQFAZRNB6PYFY2RCICM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 오전 6시 30분 성판악 탐방로 입구를 출발한 이범식씨가 6시간 10분 만인 낮 12시 40분 해발 1950m 한라산 백록담 등정에 성공했다. /‘이범식 후원회’ 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그의 도전에는 ‘이범식 후원회’ 회원 10명이 동행하며 안전 확보에 힘썼다. 이들은 이씨와 함께 등정하며 동영상과 사진 등으로 기록을 남겼다. 장애인 인식개선 교육, 청소년 인성교육 등 다양한 교육 콘텐츠로 활용하기 위해서다.&lt;br&gt;&lt;br&gt;이씨는 22세 때 전기공으로 일하다 고압전기에 감전돼 양팔과 오른쪽 다리를 잃었다. 오른쪽 다리는 의족을 착용해야만 걸을 수 있다. 이러한 신체 조건임에도 그는 좌절하지 않고 희망의 끈을 놓지 않았다. &lt;br&gt;&lt;br&gt;그가 47세 되던 해인 2011년, 경북 경산에 있는 대구대학교에 입학한 뒤 11년 만인 2021년 같은 대학 대학원에서 이학 박사학위를 땄다. 전공은 ‘장애인 직업재활’이다. 사지 중에 온전한 건 왼쪽 다리 뿐이라서 많이 이들이 그를 ‘왼발박사’로 부른다. 그는 현재 장애인 관련 각종 강연과 작가로 활동 중이다. &lt;br&gt;&lt;br&gt;이범식씨는 “장애는 절망과 끝이 아닌 또 다른 도전의 시작”이라며 “새로운 도전은 누군가에게 다시 살아갈 이유와 새로 시작할 용기가 되는 계기가 될 수 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“누나, 진짜 나한테 왜 그래”...황혼의 설렘이 머무는 ‘노년의 성수동’ 제기동</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/30/YOXACSIOG5BA5G5TEORT64HVIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/30/YOXACSIOG5BA5G5TEORT64HVIY/</guid>
+      <dc:creator>구아모 기자, 윤성우 기자, 강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 07:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M66GJURK3NEBZKLDOZAWL6TU3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 서울 동대문구 제기동의 한 콜라텍에서 노인들이 춤을 추고 있다. 제기동 일대는 콜라텍과 시장, 다방, 이발소 등이 모여 있어 '노년의 성수동'으로 불린다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“누나 진짜 나한테 왜 그래.”&lt;br&gt;&lt;br&gt;지난 17일 오후 7시 서울 동대문구 제기동역 인근 한 콜라텍 앞. 흰 바지에 구두를 차려입은 남성이 여성의 어깨를 붙잡고 울먹였다. “내가 여기까지 온 게 뭐가 되냐.” 여성은 “나는 됐어, 오늘 안 놀 거야”라며 등을 돌렸다. 두 사람은 제기동역 3번 출구에서 청량리역 방향으로 20분 넘게 실랑이를 벌였다. 연락이 닿지 않는 사이 다른 사람과 춤을 췄느냐를 두고 벌어진 다툼이었다. 급기야 남성은 “나도 죽겠다”고 외쳤고 여성은 “너 미쳤냐”고 받아쳤다. 20대 연인의 다툼 같았지만 둘은 백발의 노인이었다.&lt;br&gt;&lt;br&gt;서울 지하철 1호선 제기동역은 승객 두 명 중 한 명이 노인인 역이다. 서울교통공사에 따르면 올해 1분기 경로 무임승차 비율은 47.2%로 서울 지하철역 가운데 가장 높았다. 하지만 이곳은 단순히 노인이 많은 동네가 아니었다. 하루 2만원이면 밥을 먹고, 머리를 자르고, 장을 보고, 춤을 추고, 친구를 만나고, 새로운 인연을 만드는 거대한 ‘실버 도시’가 형성돼 있었다. 젊은 세대에게 성수동이 있다면 노년층에게는 제기동이 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2DWNRDJMVC2VHLXL32F33BDWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오후 5시 30분쯤 서울 동대문구 제기동역 인근 콜라텍. 500명 넘는 장노년이 손을 잡거나 안고 춤을 추고 있다. /윤성우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 17일 오후 5시 찾은 제기동역 3번 출구 앞. 개찰구를 빠져나오자 중절모를 쓴 백발의 남성들과 화려한 외출복을 차려입은 여성들이 쏟아져 나왔다. 역사 안팎에는 홍삼 젤리와 호박엿, 생강 캔디를 파는 노점이 줄지어 있었다. 남색 캡모자를 눌러쓴 한 노인은 “친구가 금방 온다”며 콜라텍에 함께 갈 일행을 기다리고 있었다.&lt;br&gt;&lt;br&gt;제기동역 인근의 한 콜라텍 앞은 홍대 클럽 앞을 방불케 했다. 반짝이는 원피스를 입은 여성들과 흰 바지에 구두를 신은 남성들이 2~3분 간격으로 건물을 드나들었다. 입구 한쪽에서는 70대 상인이 큼지막한 큐빅이 박힌 가짜 다이아몬드 목걸이를 흔들며 남성 손님들을 붙잡고 있었다. “이거 하면 여자들이 좋아해.” 가짜 다이아 목걸이는 1만원, 금도금 목걸이는 2만원이었다.&lt;br&gt;&lt;br&gt;지하 1층으로 내려가자 비상계단부터 음악이 쿵쿵 울렸다. ‘부킹 구함’, ‘욕설 금지’, ‘만취자 출입 금지’ 안내문이 붙은 로비를 지나자 거대한 무도장이 나타났다. 입장료는 2000원, 사물함 이용료는 1000원. 오후 4시 30분 이후에는 입장료도 받지 않는다. 이 시간에 맞춰 찾아오는 노인도 적지 않다고 했다. 60~80대 남녀가 발 디딜 틈 없이 춤을 추고 있었다. 대형 에어컨 10여 대를 18도에 맞춰 돌리고 있었지만 실내 온도는 22도였다. 반팔 차림의 노인들이 땀을 흘리며 블루스를 추고 있었다.&lt;br&gt;&lt;br&gt;느린 블루스 음악이 끝나고 이선희의 ‘J에게’를 빠른 지르박 리듬으로 편곡한 음악이 흘러나오자 무도장 전체가 들썩였다. 제자리를 돌던 노인들의 발걸음이 일제히 빨라졌다. 여성들은 크게 턴을 돌고 남성들은 보폭을 넓혀 발을 굴렀다. &lt;br&gt;&lt;br&gt;무도장 벽에는 ’246 금지‘, ‘뽕발 금지’, ‘여기는 잔발 구역’이라는 안내문도 붙어 있었다. 트로트 음악에 맞춰 큰 동작으로 빠르게 움직이는 ‘246 춤’과 ‘뽕발’을 금지하고, 좁은 공간에서 발만 잘게 움직이는 ‘잔발’이 이곳의 기본 스텝이었다.&lt;br&gt;&lt;br&gt;춤을 못 추면 파트너가 금세 다른 사람에게 가버린다. 그래서 제기동과 청량리 일대 사교 댄스 학원은 늘 문전성시다. 월 수강료는 50만원. 서울 동대문구의 한 댄스스포츠 학원 원장은 “평생 일만 하느라 몸이 굳어 ‘통나무’ 소리 듣던 70대 어르신도 몇 달 배우면 콜라텍 카사노바가 된다”며 “손주 돌보느라 자기 시간을 못 가져본 분들이 여기 와서 춤을 배우면서 표정이 달라지고 자신감이 생긴다”고 했다.&lt;br&gt;&lt;br&gt;신복례(80)씨는 이날도 오후 1시부터 다섯 시간 동안 춤을 추고 귀가하는 길이었다. 80대라고 믿기 어려울 만큼 자세가 꼿꼿했다. “여기 와서 춤추고 젊게 살려고 노력하니까 그렇게 되는 거죠.” 서울 성동구 뚝섬역 인근에 사는 그는 지하철로 20분가량을 타고 일주일에 두세 번씩 제기동을 찾는다. 주민센터와 복지관에서 배운 춤 실력을 이곳에서 마음껏 뽐낸다고 했다. “서예도 익히고 장구도 배웠지만, 나는 춤이 제일 좋아.”&lt;br&gt;&lt;br&gt;콜라텍 단골 장모(70)씨는 일주일에 여섯 번 이곳을 찾는다. “지하철도 공짜고, 입장료 2000원에 짐 맡기는 데 1000원이에요. 커피 한잔하고 춤추고 사람 만나도 하루 1만원이면 충분해요.” 춤 입문은 1990년대였다. 휴대폰 대리점 장사를 하다 우울증과 무료함을 극복하려고 동네 선후배의 권유로 춤에 발을 디뎠다. “사업 실패했던 기억도 여기 오면 잊힌다”며 “새로운 사람과 춤을 추면 아직도 설렌다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XR4EGMTQ7JGYFMVLOXETAZQYZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 서울 동대문구 제기동의 한 콜라텍 내부 식당. 춤을 마친 노인들이 술잔을 기울이며 이야기를 나누고 있다. /구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;콜라텍 내부는 하나의 거대한 상권을 형성하고 있었다. 슈퍼마켓, 분식집, 1만원짜리 삼겹살 고깃집, 치킨집, 카페 등이 성업 중이었다. 커피 1000원, 쌍화탕 1500원 등 물가도 매우 저렴했다. 술안주와 보양식으로 제격인 미꾸라지 튀김은 5000원, 장어는 1만원에 팔리고 있었다. 노인들은 이곳에서 춤을 추고 자연스럽게 밥과 술을 함께 먹는 구조였다.&lt;br&gt;&lt;br&gt;콜라텍 안에는 남녀를 연결해 주는 부킹 도우미도 있다. 10년 넘게 이곳에서 일한 한 여성은 “서로 모르는 남녀를 연결해 주는 역할”이라며 “생각보다 점잖게 춤만 추고 가는 사람이 대부분”이라고 했다. &lt;br&gt;&lt;br&gt;헌팅에 성공한 남녀가 줄줄이 밖으로 나왔다. 재킷에 흰색 바지를 입고 구두를 신은 남성이 초록색 바지와 구두를 깔맞춤한 여성과 손을 잡고 건물을 나섰다. 이들은 양산을 함께 쓰고 유유히 사라졌다. 5~10분에 한 번꼴로 손을 잡거나 팔짱을 낀 커플들이 밖으로 나왔다. 어색한 듯 거리를 두고 걷는 남녀도 있었다. 첫 데이트를 마친 연인들 같았다.&lt;br&gt;&lt;br&gt;제기동의 또 다른 매력은 저렴한 물가다. 제기동역에서 청량리역까지 이어지는 왕산로 북측 700m 구간은 노인을 위한 생활 플랫폼이었다. 저렴한 식당과 이발소, 콜라텍, 전통시장, 병원이 촘촘히 연결돼 있었다. 장을 보러 왔다가 친구를 만나고, 춤을 추고, 진료를 받은 뒤 귀가하는 일이 자연스러웠다. 노인들에게 제기동은 소비 공간이 아니라 관계와 여가가 이어지는 생활 플랫폼에 가까웠다.&lt;br&gt;&lt;br&gt;“이거 하나 둘러봐. 인물이 살잖여.” 길모퉁이에서 스카프를 팔던 80대 상인은 자전거를 타고 지나가던 할아버지를 붙잡아 세웠다. 회색 스카프를 목에 둘러주며 “멋쟁이가 따로 없네”라고 말했다. 노점에서는 “붕어빵 4개 천 원”이라는 녹음 방송이 반복해서 흘러나왔다. 붕어빵을 사면 믹스커피 한 잔은 500원이었다. &lt;br&gt;&lt;br&gt;인근 다방 메뉴판에는 잔치국수 4000원, 비빔국수 5000원, 쌍화탕 2000원이 적혀 있었다. 시장 안으로 들어서자 상인들이 “삼춘, 고기가 찰져” “누나, 싱싱하니 얼른 가져가”라고 외쳤다. 정육점에는 ‘한돈 1㎏ 3900원’ 팻말이 붙어 있었고 생선가게에는 꽃게와 갈치, 낙지, 오징어가 수북이 쌓여 있었다.&lt;br&gt;&lt;br&gt;건설 현장에서 일하는 최윤순(62)씨는 쉬는 날이면 제기동을 찾는다. 이날 청량리의 한 냉면집에서 8000원을 내고 점심을 해결한 그는 친구와 함께 동묘로 넘어가 작업복을 살 예정이라고 했다. 최씨는 “요즘 냉면 한 그릇에 1만원 넘는 곳도 많은데 여긴 아직 싸다”며 “작업복도 상의 3000원, 바지 8000원 정도면 살 수 있어 자주 온다”고 했다.&lt;br&gt;&lt;br&gt;경기 의정부에서 온 80대 고모씨는 무료 지하철을 타고 오전 9시 집을 나섰다. 4000원짜리 칼국수로 점심을 먹고, 1000원짜리 붕어빵과 2000원짜리 딸기를 사 먹었다. 500원짜리 믹스커피를 마신 뒤 7000원을 내고 머리를 잘랐다. 해 질 무렵까지 콜라텍과 당구장에서 시간을 보냈다. 하루 총지출은 1만 8500원이었다.&lt;br&gt;&lt;br&gt;청량리 인근 4000원짜리 칼국수집에서는 낯선 노인 네 명이 한 테이블에 둘러앉아 밥을 먹는 풍경도 흔했다. 처음 본 사람끼리 김치를 건네고 막걸리를 나누며 이야기를 이어갔다. 콜라텍에서 나와 채소 좌판에서 참외 한 소쿠리를 산 민은순(83)씨는 웃으며 말했다. “놀고 장 보고 집에 가는 거지.” &lt;br&gt;&lt;br&gt;서울약령시장 입구를 지나자 허성순(83)씨가 장바구니를 들고 집으로 향하고 있었다. 이날 오전 한의원에서 침을 맞고 경동시장에서 장을 본 그는 제기동을 찾는 노인을 두 부류로 나눴다. “쫙 빼입고 구두 신고 온 사람은 춤추러 온 사람이고, 리어카 끌고 온 사람은 장 보러 온 사람이야. 그래도 결국은 다 사람 만나러 오는 거지.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 31일 일요일 (음력 4월 15일 乙巳)</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/30/PTNXRL7AOJBLRBM2O3EIOKHLSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/30/PTNXRL7AOJBLRBM2O3EIOKHLSQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>법무부, 범죄피해자 지원 캠페인 개최…온·오프라인 2만3000명 참여</title>
       <link>https://www.chosun.com/national/court_law/2026/05/30/QPMMFZ5AWBD4HBZXZQVY7OZIDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/30/QPMMFZ5AWBD4HBZXZQVY7OZIDA/</guid>
@@ -907,15 +959,6 @@
       <content:encoded>이화여대가 29일 오전 10시 대강당에서 ‘창립 140주년 기념식’을 연다. 이번 기념식에는 김은미 이화학당 이사장, 이향숙 총장, 장명수 전 이사장 등이 참석한다. 이날 사회 각 분야에서 탁월한 업적을 이룬 동창에게 수여되는 ‘자랑스러운 이화인상’과 우수한 학문적 성과를 낸 교수에게 수여되는 ‘이화학술상’ 시상이 진행된다. 같은 날 오후 2시에는 이화여대 총동창회가 주관하는 ‘동창의 날’ 행사가 열려 동창 간 교류와 화합을 다질 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>백혈병 투병하다 떠난 아들 생일 맞아, 1000만원 기부한 아빠</title>
-      <link>https://www.chosun.com/national/people/2026/05/29/VTK67CVDHFDV7ALWRG4TU2YT4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/29/VTK67CVDHFDV7ALWRG4TU2YT4E/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57CTFXWMVJGKHFEPQCJ2CTC33E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 오후 이진규(오른쪽)씨가 서울아산병원에 1000만원을 기부한 후 최재원(왼쪽) 서울아산병원 대외협력실장과 기념 사진을 촬영하고 있다. 가운데는 이씨의 장남 이예성군./서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“예훈이 또래 아이들 치료에 조금이나마 도움이 되면 좋겠습니다.”&lt;br&gt;&lt;br&gt;27일 오후 서울아산병원에서 만난 이진규(44)씨가 병원에 1000만원을 기부하며 한 말이다. 이 병원은 이씨의 아들 예훈군이 작년 12월까지 치료를 받았던 곳. 2018년 5월 29일 태어난 예훈군은 같은 해 8월 소아 백혈병 진단을 받았다고 한다. 이후 서울아산병원에서 항암치료를 받아왔지만, 병마를 이기지 못하고 끝내 작년 12월 8일 새벽 숨을 거뒀다.&lt;br&gt;&lt;br&gt;이씨는 “아들에게 좋은 추억을 만들어주지 못한 것이 너무 미안하다”며 “예훈이는 바다를 좋아해서 같이 간 적이 있는데, 가슴에 의료용 고무관을 차고 있었기 때문에 마음껏 물에 들어가지 못했다”고 했다. 예훈군은 어린이집 2년을 제외하면 유치원이나 초등학교를 다니지도 못해 친구도 없었다고 한다.&lt;br&gt;&lt;br&gt;이씨는 “3년 전부터 예훈이는 거의 매일 병원에서 지냈다”며 “진통제 부작용으로 환각 증상도 종종 보였는데, 지금도 그 모습이 생생해 가슴이 찢어진다”고 했다. 이씨가 기부를 결심한 이유는 소아 백혈병 치료비 부담을 누구보다 잘 알기 때문이다. 이씨는 “보험이 된다고 해도 소아 백혈병 치료 막바지에는 비급여 약물을 사용해야 한다”며 “한 달에 1000만원 정도 돈이 드는데, 다른 아이들은 그런 걱정 없이 치료를 받았으면 하는 마음에 기부하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 아들과의 기억을 남기기 위해 3년 전부터 예훈군의 투병기를 인스타그램에 올렸다. 이를 보고 수많은 이들이 응원 댓글과 후원금을 보냈다고 한다. 이번 기부금도 이때 받은 후원금에 이씨 개인 돈을 보탠 것이다. 이씨는 “앞으로도 꾸준히 기부를 이어갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[부음] 김문생 별세 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/05/29/NYWMSWLPKZAXHDOYTCEAU7E34Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/29/NYWMSWLPKZAXHDOYTCEAU7E34Y/</guid>
@@ -923,42 +966,6 @@
       <description/>
       <pubDate>Thu, 28 May 2026 15:42:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;김문생 &lt;/b&gt;별세, &lt;b&gt;이인애&lt;/b&gt; 남편상, &lt;b&gt;김정화&lt;/b&gt;·&lt;b&gt;김정훈 &lt;/b&gt;세계일보 조사국장 부친상, &lt;b&gt;조기철 &lt;/b&gt;장인상, &lt;b&gt;최은주 &lt;/b&gt;시부상=28일2시 부산 인창요양병원, 발인 30일7시30분, (051)464-5822&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김희국 &lt;/b&gt;별세, &lt;b&gt;김창기&lt;/b&gt;·&lt;b&gt;김연진&lt;/b&gt;·&lt;b&gt;김성기 &lt;/b&gt;부친상, &lt;b&gt;오동헌 &lt;/b&gt;TY홀딩스 사장 장인상, &lt;b&gt;엄혜경&lt;/b&gt;·&lt;b&gt;권혜정 &lt;/b&gt;시부상=28일3시52분 강원대병원, 발인 30일6시, (033)254-5611&lt;br&gt;&lt;br&gt;▲&lt;b&gt;양희봉 &lt;/b&gt;前 해남경찰서장 별세, &lt;b&gt;최정한 &lt;/b&gt;남편상, &lt;b&gt;양웅 &lt;/b&gt;동서대 광고홍보학과 교수·&lt;b&gt;양일 &lt;/b&gt;서울 상일여고 교사 부친상, &lt;b&gt;신희수 &lt;/b&gt;시부상=28일11시27분 신촌세브란스병원, 발인 30일5시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오충섭 &lt;/b&gt;별세, &lt;b&gt;이현순 &lt;/b&gt;남편상, &lt;b&gt;오은성&lt;/b&gt;·&lt;b&gt;오광진 &lt;/b&gt;조선비즈 이코노미조선 편집장·&lt;b&gt;오은경 &lt;/b&gt;부친상, &lt;b&gt;이재영 &lt;/b&gt;장인상=28일5시 서울아산병원, 발인 30일8시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전상욱 &lt;/b&gt;별세, &lt;b&gt;박갑순 &lt;/b&gt;남편상, &lt;b&gt;전성수 &lt;/b&gt;서울 서초구청장 후보·&lt;b&gt;전성규&lt;/b&gt;·&lt;b&gt;전소영 &lt;/b&gt;부친상, &lt;b&gt;김기홍 &lt;/b&gt;장인상, &lt;b&gt;정현주&lt;/b&gt;·&lt;b&gt;김연진 &lt;/b&gt;시부상=27일10시37분 서울성모병원, 발인 29일13시, (02)2258-5922&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 최혜원·박범선 아들 화담 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/05/29/JHSN7X34INB47EKZUNVE4V2PXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/29/JHSN7X34INB47EKZUNVE4V2PXA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWVWWPKAKVFQ3GY4YUUD6GSKPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/05/29/6SEU6M6YDVGQPE2OSLYB4ON2VM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/05/29/6SEU6M6YDVGQPE2OSLYB4ON2VM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATJKMXENPBFWDCSIES75DCH65A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-5-29일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 22일 ‘우리 아기가 태어났어요’ 코너에 실린 유승우&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 산더미처럼[수북하게] 담다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/05/29/W7AMTLMWVFBRTOU4GASDTL5R4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/05/29/W7AMTLMWVFBRTOU4GASDTL5R4Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMFW5EANI5EBTEXORG3DE6SGZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 옥과 같이 온화하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/05/29/YKKDOM65URB7BOLHGDKMDAPM3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/05/29/YKKDOM65URB7BOLHGDKMDAPM3M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRTCNNCLTBCVVKUY2PDQP6YWXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
