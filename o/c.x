@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>포항서 대법원까지 400km 걷고 걸었다… 포항촉발지진 ‘정의 판결’ 촉구</title>
+      <link>https://www.chosun.com/national/2026/05/30/BVLTNYLXTFBRBPNSTPAEGXSIZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/30/BVLTNYLXTFBRBPNSTPAEGXSIZE/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 10:52:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBBEY22L2VJYLMHTJLPTKFIVVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 경북 포항지진 범대본이 포항촉발지진 대법원 상고 1주년을 맞아 포항시청에서 서울 대법원까지 400km 국토대장정 시작에 앞서 결의를 다지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항 촉발지진에 대한 국가 책임과 시민권익 회복을 촉구하며 400㎞ 국토대장정에 나섰던 포항시민들이 도보 11일 만인 29일 서울 대법원에 도착했다. &lt;br&gt;&lt;br&gt;이들이 국토대장정에 나선 이유는 포항지진 손해배상 소송에 대한 대법원의 ‘정의로운 판결’을 촉구하기 위해서다. &lt;br&gt;&lt;br&gt;포항지진범시민대책본부(범대본)는 서울 서초동 대법원 앞에서 국토대장정을 마무리하고 대법원에 ‘정의판결 촉구문’을 제출했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;이번 국토대장정은 지난해 포항지진 손해배상 소송이 대법원에 상고된 지 1년이 되는 시점에 맞춰 진행됐다.&lt;br&gt;&lt;br&gt;범대본은 “포항지진 발생 이후 9년째 이어지고 있는 시민들의 고통을 국민들에게 알리고, 대법원이 시민들의 절규를 외면하지 말아야 한다는 절박한 심정으로 국토대장정에 나섰다”고 밝혔다.&lt;br&gt;&lt;br&gt;국토대장정은 지난 19일 포항시청에서 출발해 영천·군위·의성·예천·문경을 지나 경북을 벗어났다. 이어 괴산·충주·음성·이천·용인·수원·안양·과천 등을 지나 지난 29일 서울 대법원에 도착했다. &lt;br&gt;&lt;br&gt;참가자들은 하루 평균 40㎞, 총 400㎞에 이르는 길을 걸었다. 당초 14일 일정으로 계획됐던 행진은 대법원 상고 1주기 일정에 맞추기 위해 속도를 높이며 11일 만에 마무리됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2WDC2BEWNFG3ASW7JBZ3WULCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 경북 포항시민들이 서울 서초동 대법원 앞에서 대법원에 ‘정의판결 촉구문’을 제출하고 기자회견을 하고 있다. /포항지진범시민대책본부.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 대장정을 완주한 황상봉(75·포항 해도동)씨는 “매일 새벽에 출발해 하루 12시간씩 1000리 길을 걷고 또 걸었다”며 “국민들과 대법관들에게 진실을 알려야 한다는 마음 하나로 버텼다”고 말했다.&lt;br&gt;&lt;br&gt;범대본 관계자는 “포항시민들은 단순한 금전 보상을 넘어 국가의 책임 인정과 정의로운 사법 판단을 원하고 있다”며 “대법원이 더 이상 시민들의 고통을 외면하지 말고 정의로운 판결로 국가 책임을 분명히 밝혀주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;이번 국토대장정의 배경은 포항지진 손해배상 소송이다. 1심에서는 포항 지열발전과 지진의 인과관계를 인정해 국가 책임을 일부 인정했다. 그러나 2심에선 “관련 기관의 과실과 지진의 인과관계를 인정하기 어렵다”며 원고 페소 판결이 나왔다. 현재 해당 사건은 대법원에 계류 중이다.&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>코레일, 31일 첫차부터 모든 열차 정상 운행</title>
       <link>https://www.chosun.com/national/transport-environment/2026/05/30/6RKROOTZDVDCRIIZPU6Z4WY34Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/30/6RKROOTZDVDCRIIZPU6Z4WY34Y/</guid>
@@ -948,15 +957,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/D4QBAAKTBBCC5HE76AXRQPQ5TA.jpg?auth=10e3c24fe920cf2232238e244be5aee51ce72594123cd32ec692a990e5038a2b&amp;smart=true&amp;width=1133&amp;height=816" type="image/jpeg" height="816" width="1133">
         <media:description type="plain">이종옥(왼쪽)씨는 지난 20여 년간 김형석 교수의 저술 및 강연 활동을 돕고 있다. 김 교수는 “나는 원고지에 쓰기만 하면 된다. 이종옥씨 덕분에 더 많은 일을 할 수 있게 됐다”고 했다./이종옥씨 제공</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>이화여대 창립 140주년 기념식</title>
-      <link>https://www.chosun.com/national/people/2026/05/29/VHFA6ZKHKBG2BC4O65UKLF2HXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/29/VHFA6ZKHKBG2BC4O65UKLF2HXI/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:42:00 +0000</pubDate>
-      <content:encoded>이화여대가 29일 오전 10시 대강당에서 ‘창립 140주년 기념식’을 연다. 이번 기념식에는 김은미 이화학당 이사장, 이향숙 총장, 장명수 전 이사장 등이 참석한다. 이날 사회 각 분야에서 탁월한 업적을 이룬 동창에게 수여되는 ‘자랑스러운 이화인상’과 우수한 학문적 성과를 낸 교수에게 수여되는 ‘이화학술상’ 시상이 진행된다. 같은 날 오후 2시에는 이화여대 총동창회가 주관하는 ‘동창의 날’ 행사가 열려 동창 간 교류와 화합을 다질 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 김문생 별세 외</title>
