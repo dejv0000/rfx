@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李 대통령 ‘투표지 노출’ 논란… 시민단체, 중앙선관위원장 등 경찰 고발</title>
+      <link>https://www.chosun.com/national/national_general/2026/05/30/SJA7IACRCFHHHLOQGDTHLC34NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/30/SJA7IACRCFHHHLOQGDTHLC34NU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 12:39:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSDSYRWMQZDOMZSGYYTSZJSHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 제9회 전국동시지방선거 사전투표 첫날인 29일 서울 종로구 삼청동 주민센터에서 사전 투표 중 기표 도장 관련 문의를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 6·3 지방선거 사전 투표 과정에서 불거진 ‘투표지 노출’ 논란과 관련해 시민단체가 노태악 중앙선거관리위원장 등을 경찰에 고발했다.&lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 30일 노 위원장과 김창모 서울시선거관리위원장, 류연중 종로구선거관리위원장을 직권남용과 직무유기 혐의로 서울경찰청에 고발했다. 고발장에는 “피고발인들을 직권남용, 직무유기 등으로 조사해 처벌해 달라”는 내용이 담겼다.&lt;br&gt;&lt;br&gt;논란은 이 대통령이 사전 투표 첫날인 29일 김혜경 여사와 함께 서울 종로구 삼청동 주민센터 사전 투표소를 찾으면서 불거졌다. 이 대통령은 주소지인 인천 계양구 지역에 대한 관외 투표를 하던 중 기표소 밖으로 나와 선거 사무원에게 기표 도장 상태를 문의했다.&lt;br&gt;&lt;br&gt;이 과정에서 기표한 투표지가 접히지 않은 상태로 기표소 밖에 나온 장면이 언론사 카메라에 포착되면서 논란이 일었다. 공직선거법은 기표한 투표지를 공개할 수 없고, 공개된 투표지는 무효로 처리하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;서민위는 고발장에서 이 대통령의 행위가 공직선거법상 투표 비밀 보장 원칙에 어긋난다고 주장했다. 또 선관위가 해당 행위에 대해 법적 문제가 없다는 취지로 설명한 것은 관리·감독 책임을 소홀히 한 것이라며 수사를 촉구했다.&lt;br&gt;&lt;br&gt;국민의힘은 이 대통령이 기표한 투표지를 노출했다며 선거법 위반 소지가 있다고 주장했다. 선관위는 투표관리관이 투표 내용을 보지 못했기 때문에 해당 투표지를 무효 처리하지 않았다고 설명했다.&lt;br&gt;&lt;br&gt;한편 서민위는 전날인 29일 이 대통령에 대해서도 같은 논란과 관련해 공직선거법 위반 혐의로 서울경찰청에 고발장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>포항서 대법원까지 400km 걷고 걸었다… 포항촉발지진 ‘정의 판결’ 촉구</title>
       <link>https://www.chosun.com/national/2026/05/30/BVLTNYLXTFBRBPNSTPAEGXSIZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/05/30/BVLTNYLXTFBRBPNSTPAEGXSIZE/</guid>
@@ -957,15 +966,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/D4QBAAKTBBCC5HE76AXRQPQ5TA.jpg?auth=10e3c24fe920cf2232238e244be5aee51ce72594123cd32ec692a990e5038a2b&amp;smart=true&amp;width=1133&amp;height=816" type="image/jpeg" height="816" width="1133">
         <media:description type="plain">이종옥(왼쪽)씨는 지난 20여 년간 김형석 교수의 저술 및 강연 활동을 돕고 있다. 김 교수는 “나는 원고지에 쓰기만 하면 된다. 이종옥씨 덕분에 더 많은 일을 할 수 있게 됐다”고 했다./이종옥씨 제공</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[부음] 김문생 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/05/29/NYWMSWLPKZAXHDOYTCEAU7E34Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/05/29/NYWMSWLPKZAXHDOYTCEAU7E34Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김문생 &lt;/b&gt;별세, &lt;b&gt;이인애&lt;/b&gt; 남편상, &lt;b&gt;김정화&lt;/b&gt;·&lt;b&gt;김정훈 &lt;/b&gt;세계일보 조사국장 부친상, &lt;b&gt;조기철 &lt;/b&gt;장인상, &lt;b&gt;최은주 &lt;/b&gt;시부상=28일2시 부산 인창요양병원, 발인 30일7시30분, (051)464-5822&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김희국 &lt;/b&gt;별세, &lt;b&gt;김창기&lt;/b&gt;·&lt;b&gt;김연진&lt;/b&gt;·&lt;b&gt;김성기 &lt;/b&gt;부친상, &lt;b&gt;오동헌 &lt;/b&gt;TY홀딩스 사장 장인상, &lt;b&gt;엄혜경&lt;/b&gt;·&lt;b&gt;권혜정 &lt;/b&gt;시부상=28일3시52분 강원대병원, 발인 30일6시, (033)254-5611&lt;br&gt;&lt;br&gt;▲&lt;b&gt;양희봉 &lt;/b&gt;前 해남경찰서장 별세, &lt;b&gt;최정한 &lt;/b&gt;남편상, &lt;b&gt;양웅 &lt;/b&gt;동서대 광고홍보학과 교수·&lt;b&gt;양일 &lt;/b&gt;서울 상일여고 교사 부친상, &lt;b&gt;신희수 &lt;/b&gt;시부상=28일11시27분 신촌세브란스병원, 발인 30일5시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오충섭 &lt;/b&gt;별세, &lt;b&gt;이현순 &lt;/b&gt;남편상, &lt;b&gt;오은성&lt;/b&gt;·&lt;b&gt;오광진 &lt;/b&gt;조선비즈 이코노미조선 편집장·&lt;b&gt;오은경 &lt;/b&gt;부친상, &lt;b&gt;이재영 &lt;/b&gt;장인상=28일5시 서울아산병원, 발인 30일8시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전상욱 &lt;/b&gt;별세, &lt;b&gt;박갑순 &lt;/b&gt;남편상, &lt;b&gt;전성수 &lt;/b&gt;서울 서초구청장 후보·&lt;b&gt;전성규&lt;/b&gt;·&lt;b&gt;전소영 &lt;/b&gt;부친상, &lt;b&gt;김기홍 &lt;/b&gt;장인상, &lt;b&gt;정현주&lt;/b&gt;·&lt;b&gt;김연진 &lt;/b&gt;시부상=27일10시37분 서울성모병원, 발인 29일13시, (02)2258-5922&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
