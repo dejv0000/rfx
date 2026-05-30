@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법무부, 범죄피해자 지원 캠페인 개최…온·오프라인 2만3000명 참여</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/30/QPMMFZ5AWBD4HBZXZQVY7OZIDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/30/QPMMFZ5AWBD4HBZXZQVY7OZIDA/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 02:29:14 +0000</pubDate>
+      <content:encoded>법무부와 전국범죄피해자지원연합회는 30일 서울 광진구 서울어린이대공원 열린무대에서 제13회 ‘다링 안심캠페인’을 개최했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J67RMHD6TNAN7I46KPLFICBSLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제13회 다링 안심캠페인. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다링 안심캠페인은 시민이 함께 걸으며 범죄피해자의 치유와 회복을 응원하고, 범죄피해자 보호·지원 제도에 대한 관심을 높이기 위한 공익 캠페인이다. 2014년부터 매년 열리고 있다.&lt;br&gt;&lt;br&gt;이날 행사에는 이진수 법무부 차관과 김갑식 전국범죄피해자지원연합회장, 범죄피해자, 시민 등 1000여 명이 참여했다. 또 지난 1일부터 걷기 앱 ‘워크온’을 통해 진행된 온라인 ‘나눔걷기 챌린지’에는 시민 2만2318명이 참여했다. 온·오프라인 전체 참여자는 2만3000여 명이다.&lt;br&gt;&lt;br&gt;행사는 이 차관 개회사, 범죄피해자 보호·지원 제도 홍보, 서울어린이대공원 둘레길 나눔걷기, 마술공연 등 순으로 진행됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CAOTQNSNFEHFMJ4JFV32GMHUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제13회 다링 안심캠페인. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 차관은 “법무부는 범죄피해자의 인권 보호를 최우선 가치로 두고 범죄피해 구조금 증액과 긴급생활안정비 신설 등 경제적 지원을 확대했다”고 밝혔다. 또 “야간·주말 심리상담이 가능한 ‘365 스마일센터 서비스’를 시작했고, 내년에는 ‘범죄피해자 통합지원 전산시스템’을 구축해 맞춤형 지원 제도를 마련하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 의료수가 평균 1.65% 인상… 건보 재정 1조2058억원 추가 소요</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/05/30/ZN6NXYM7HRDUDHNZKSYX27JRQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/05/30/ZN6NXYM7HRDUDHNZKSYX27JRQE/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 03:50:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZYFEDGJV5DJLPQJ475MZS5JOE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험공단이 의료기관에 주는 수가(의료행위의 대가)가 내년 1.65% 오른다. 이에 따라 환자가 내는 진료비가 소폭 오르게 되고, 내년 건강보험료 인상으로 이어질 수 있다.&lt;br&gt;&lt;br&gt;30일 건보공단은 7개 보건의료단체와 2027년도 요양급여비용 계약을 위한 협상을 마치고 재정운영 위원회에서 이를 심의·의결했다고 밝혔다.&lt;br&gt;&lt;br&gt;정부가 건보 재정에서 의료기관에 지급하는 의료 수가는 의료 행위별로 정한 ‘상대가치점수’에 매년 보건의료단체와 협상을 통해 정하는 ‘환산지수’를 곱해 산출한다. 이날 의결된 내년도 요양기관 유형별 환산지수 인상률은 병원이 1.2%, 치과 2.6%, 한의원 3.0%, 약국 3.7%, 조산원 6.0%이다.&lt;br&gt;&lt;br&gt;그러나 의원을 대표하는 대한의사협회(의협)와의 협상은 이견을 좁히지 못해 결렬됐다. 건보공단이 의협에 제시한 인상률은 1.6%였다. 협상이 결렬됨에 따라 다음달 30일 건강보험 정책심의 위원회에서 의결할 예정이다. 재정운영위는 이날 협상 결과를 심의·의결하면서 다른 단체와의 형평성을 유지하기 위해 의원급 의료기관과의 협상 단계에서 공단이 최종 제시한 인상률인 1.6%를 초과하지 않도록 해줄 것을 권고했다.&lt;br&gt;&lt;br&gt;이번 수가 인상에 따라 추가로 소요될 건강보험 재정은 1조2058억원이다. 재정 부담이 늘어나는 만큼 건강보험료도 인상될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구속 중 병원 치료받다 도주한 20대, 14시간 만에 검거</title>
+      <link>https://www.chosun.com/national/2026/05/30/CLCEMCAFR5DNDCNWB3RL26X2A4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/30/CLCEMCAFR5DNDCNWB3RL26X2A4/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 00:56:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYWEYLGMY3DCYZRGYZGENZVHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속 상태에서 외부 병원 치료를 받던 중 도주한 20대가 14시간 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 수영경찰서는 30일 오전 2시17분쯤 기장군 소재 한 야산 암자에서 도주 피의자 A씨를 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 청소년 성매수 혐의로 지난 27일 구속된 A씨는 전날 오전 11시 50분쯤 수영경찰서 유치장에서 나와 병원 치료를 받던 중 도주했다.&lt;br&gt;&lt;br&gt;당시 경찰관 3명과 병원에 동행한 A씨는 화장실을 이용하다가 화장실 칸 내부와 연결된 소품실을 거쳐 병원을 빠져나와 택시를 타고 달아났다. A씨가 찼던 수갑은 파손되지 않은 상태로 병원 건물 외부에서 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 도주 혐의를 추가해 조사를 진행한 뒤 구속영장을 신청할 예정이다. 경찰 관계자는 “피의자의 도주 경위 등을 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 전국 덥고 강한 자외선... 건강 관리 유의해야</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/30/BTBI5OY5HJGEFK4F3RSADGAAUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/30/BTBI5OY5HJGEFK4F3RSADGAAUM/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 May 2026 00:28:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRWGZLFHBSDSNRYGM3TAMRTGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초여름 날씨를 보인 29일 서울시청 인근에서 한 시민이 부채로 햇빛을 가리며 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5월 마지막 주말인 30~31일은 전국이 대체로 맑고 더운 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;30일 기상청에 따르면 이날 전국 대부분 지역에서 낮 기온과 최고 체감 온도가 올라 덥겠다.&lt;br&gt;&lt;br&gt;이날 오전 7시 기준 주요 도시 기온은 서울 17.1도, 인천 16.9도, 대전 16.8도, 광주 16.1도, 울산 20.4도, 부산 21.1도, 제주 19.2도를 기록했다.&lt;br&gt;&lt;br&gt;낮에는 햇볕과 남서풍에 의해 기온이 더 오를 전망이다. 경상권을 중심으로는 낮 기온이 30도 이상까지 올라 평년과 비슷하거나 높겠다. 전국의 낮 최고기온은 26~32도로 예보됐다.&lt;br&gt;&lt;br&gt;체감 온도는 최고 기온과 비슷하거나 조금 낮겠다. 특히 일부 경상권과 강원 동해안, 전남 해안을 중심으로는 최고 체감 온도가 31도 안팎으로 올라 덥겠다.&lt;br&gt;&lt;br&gt;자외선도 강할 전망이다. 낮 시간대 전국 자외선 지수가 ‘매우 높음’까지 오르겠다. 전남, 경남, 제주 일부 지역은 자외선 지수가 가장 높은 단계인 ‘위험’까지 오른다.&lt;br&gt;&lt;br&gt;높은 온도와 강한 햇볕은 온열 질환의 원인이 될 수 있어 건강 관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;31일 아침 최저기온은 13∼22도, 낮 최고기온은 27∼33도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#소록도슈바이처#지방선거BGM</title>
       <link>https://www.chosun.com/national/weekend/2026/05/30/XE45APJNAVFOBIX734HMHVNHMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/05/30/XE45APJNAVFOBIX734HMHVNHMU/</guid>
@@ -916,15 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMFW5EANI5EBTEXORG3DE6SGZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] That’s the spirit!</title>
-      <link>https://www.chosun.com/national/nie/english/2026/05/29/SCOZMMQUIFGKTBZF6D64L4KTYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/05/29/SCOZMMQUIFGKTBZF6D64L4KTYI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGLD4MWF4RCPRIFB6I5SK3RMJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 옥과 같이 온화하다</title>
       <link>https://www.chosun.com/national/nie/chinese/2026/05/29/YKKDOM65URB7BOLHGDKMDAPM3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/05/29/YKKDOM65URB7BOLHGDKMDAPM3M/</guid>
@@ -932,33 +959,6 @@
       <description/>
       <pubDate>Thu, 28 May 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRTCNNCLTBCVVKUY2PDQP6YWXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 소기시대(塑器時代)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/05/29/BDX5XCZGRFENJLKLD3EGXOJKIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/05/29/BDX5XCZGRFENJLKLD3EGXOJKIA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O35OHCHBA5GQJCRG7CXIH3WLTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2876] 강세 바꿔 읽기</title>
-      <link>https://www.chosun.com/national/nie/2026/05/29/GPV7VNNZW5BHHMMBHQSM7LZ2BY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/05/29/GPV7VNNZW5BHHMMBHQSM7LZ2BY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYLINLQGWRHLHBKX6OSNZ6TFBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 5월 29일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/28/DWHRU7HNJBEOBGHGRCAFFGHMSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/28/DWHRU7HNJBEOBGHGRCAFFGHMSE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 May 2026 14:31:00 +0000</pubDate>
-      <content:encoded>29일(금) - 전국 대체로 맑음&lt;br&gt;&lt;br&gt;토~일 - 맑지만 일교차 커&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSFRSHNIT5BO3GIVNCUAHADA7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
