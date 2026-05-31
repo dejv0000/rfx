@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 6월 1일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/31/OPUMPOPPBJEWVKJDLE4APW4NZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/31/OPUMPOPPBJEWVKJDLE4APW4NZM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 May 2026 14:35:00 +0000</pubDate>
+      <content:encoded>‘최고 30도 이상’ 무더위 속 제주에 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5HDQSAR5RHB7KJWLVZHPRBYSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>7~8월엔 어쩌려고... 강릉은 벌써 열대야</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/05/31/2L6SFM3EFJGKRI5BDNC6EWVMXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/31/2L6SFM3EFJGKRI5BDNC6EWVMXE/</guid>
+      <dc:creator>박상현 기자, 윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 May 2026 11:33:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLOUJZPZ6FNOBDTGDD5RCONDX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉지역의 최저기온이 25도를 넘어 올해 첫 열대야가 나타난 31일 이른 아침 경포해변 백사장에서 외국인들이 이불을 깔고 잠을 자고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 30일 강원 강릉에서 올해 첫 열대야가 발생했다. 작년만 해도 전국 첫 열대야가 6월 18일(강릉)에 나타났는데, 이보다 19일 빨라진 것이다.&lt;br&gt;&lt;br&gt;31일 기상청에 따르면, 30일 오후 6시부터 31일 오전 9시까지 강릉의 최저기온이 25도를 기록했다. 열대야는 이 시간대에 수은주가 25도 아래로 떨어지지 않는 현상이다. 열대야 발생일은 밤 기온 관측이 시작된 날짜를 기준으로 하기 때문에, 올해 첫 열대야 기록은 5월 30일이 됐다. ‘5월 열대야’는 2019년 이후 7년 만이다.&lt;br&gt;&lt;br&gt;이처럼 이른 열대야의 원인으로는 한반도 주변 해수면 온도가 평년보다 1도가량 높은 것이 꼽힌다. 바다의 온도가 높아지면 수증기 자체의 온도도 높고, 증발되는 양도 늘어나게 된다. 이렇게 만들어진 따뜻하고 습한 공기는 밤사이 지표의 열이 빠져나가는 것을 막아 최저기온을 끌어올린다. 여기에 ‘푄 현상’까지 겹쳐 열대야가 5월 말부터 나타난 것이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;‘푄 현상’은 바람이 산을 오르며 수분을 잃은 뒤, 반대편으로 내려오면서 기압에 눌려 더 뜨거워지는 현상을 말한다. 봄에서 여름으로 넘어가는 시기에는 우리나라로 따뜻한 남서풍 계열의 바람이 주로 불어온다. 이 바람이 태백산맥을 타고 넘으며 ‘푄 현상’에 의해 고온건조한 열풍(熱風)으로 바뀌게 된다. 이런 열풍이 밤사이 강릉 일대로 유입되며 밤 기온을 끌어올린 것이다. 이런 지리적 특성 때문에 강릉은 2019년 이후 7년 중 5차례 전국 첫 열대야가 발생할 정도로 늦봄부터 초여름까지 가장 뜨거운 지역으로 꼽힌다. &lt;br&gt;&lt;br&gt;한편 6월의 첫날인 1일에도 서울의 최고기온이 30도까지 오르는 등 전국 대부분 지역에서 한낮 수은주가 30도를 넘으며 더위가 이어지겠다. 1일 아침 최저기온은 16∼22도, 낮 최고기온은 28∼32도로 예보됐다. 특히 1일 ‘자외선 지수’는 오전 9시부터 오후 3시까지 제주를 제외한 전국 대부분 지역에서 ‘매우 높음’ 수준을 보일 것으로 전망된다. ‘매우 높음’은 ‘햇볕에 노출 시 수십 분 이내에 피부 화상을 입을 수 있는 정도’다. 비구름대를 동반한 기압골이 지나는 제주와 남부지방에는 1~2일 이틀 간 비가 내리겠다. 예상 강수량은 제주도 30~80㎜, 광주·전남·경남 5~10㎜, 부산·울산·경북 20~60㎜로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OQ24AM4XR5DXRATMZCZPKNVRBM.jpg?auth=9a309ec47723ecc1b2bf8fa54441e8eb9a867c400204ebff8bb5fabf193ab7ec&amp;smart=true&amp;width=2485&amp;height=1398" type="image/jpeg" height="1398" width="2485">
+        <media:description type="plain">&lt;YONHAP PHOTO-2592&gt; 올해 첫 열대야…이불 등장한 강릉 경포해변 
+    (강릉=연합뉴스) 유형재 기자 = 강원 강릉지역의 최저기온이 25도를 넘어 올해 첫 열대야가 나타난 31일 이른 아침 경포해변 백사장에서 외국인들이 이불을 깔고 잠을 자고 있다.
+    강원지방기상청은 밤사이 강릉의 최저 기온이 오전 5시 2분께 25도까지 떨어진 뒤 점차 오르고 있다고 밝혔다.
+    열대야는 밤사이(오후 6시 이후부터 다음 날 오전 9시까지) 기온이 25도 이상 유지되는 현상이다. 2026.5.31
+    yoo21@yna.co.kr/2026-05-31 07:15:27/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">유형재</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“쓰레기 쌓여 화났다”…아파트 5개 층 돌며 불 지른 20대 구속</title>
+      <link>https://www.chosun.com/national/incident/2026/05/31/6GIUJ4OBT5EU3J37THCGTRGXBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/05/31/6GIUJ4OBT5EU3J37THCGTRGXBU/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 May 2026 11:12:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3WENJSGEZTCYJYMY4DEOBWG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성의 한 아파트에서 공용공간에 쌓인 쓰레기와 직장 스트레스에 불만을 품은 20대 입주민이 여러 층을 돌며 잇달아 불을 지른 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;충북 음성경찰서는 현주건조물방화 혐의로 20대 A씨를 구속했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 29일 오후 7시 20분쯤 음성읍의 18층짜리 아파트에서 라이터를 이용해 5개 층에 걸쳐 종이와 박스, 의자 쿠션 등에 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;불은 주변으로 크게 번지지 않고 자연 진화되거나 주민들이 소화기로 초기 진화하면서 대형 화재로 이어지지는 않았다. 다만, 이 과정에서 A씨를 포함한 주민 3명이 연기를 흡입해 병원 치료를 받았다.&lt;br&gt;&lt;br&gt;A씨는 사건 직후 경찰 조사에서 “계단에서 운동 중이었다”고 진술했으나, 경찰이 감시카메라 영상 등을 토대로 추궁하자 범행을 시인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 아파트 공용공간에 쓰레기가 쌓여 있는 데 대한 불만과 직장 생활에서 받은 스트레스 때문에 범행을 저질렀다고 진술했다고 한다. 경찰은 정확한 범행 경위와 여죄 여부 등을 추가 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>호아킨 니만, LIV 골프 부산 대회 우승...상금 60억 획득</title>
       <link>https://www.chosun.com/national/people/2026/05/31/LQBGWA5CAZDNRPY3AIJMJ233S4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/05/31/LQBGWA5CAZDNRPY3AIJMJ233S4/</guid>
@@ -941,34 +977,6 @@
       <description/>
       <pubDate>Fri, 29 May 2026 01:41:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWVR523HIRAORASPFFGMWZGUOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잠실우성아파트 재건축 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 송파구 잠실우성아파트가 최고 49층 2646가구 규모 단지로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;서울시는 지난 28일 제10차 정비사업 통합심의위원회를 열고 ‘잠실우성아파트 재건축사업을 위한 건축·경관·교통·환경·교육·재해 6개 분야 통합심의안’을 조건부 의결했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;잠실우성아파트는 1981년 준공된 15층 1842가구 규모 아파트다. 지하철 2·9호선 종합운동장역 인근에 있고 탄천과 아시아공원, 잠실유수지공원과 맞닿아 있다. 단지 북측에서는 잠실 스포츠·마이스(MICE) 개발사업이 진행 중이다.&lt;br&gt;&lt;br&gt;통합심의안에 따르면 잠실우성아파트는 최고 49층 2646가구 규모로 재건축된다. 이 가운데 321가구는 공공임대주택으로 공급된다.&lt;br&gt;&lt;br&gt;단지 북측과 남측에는 소공원과 어린이공원이 들어선다. 단지 중앙에는 탄천과 아시아공원 등을 연결하는 공공보행통로를 조성하고, 지역문화센터와 지역공동체지원센터 등 주민 공동이용시설을 배치할 예정이다.&lt;br&gt;&lt;br&gt;단지 동측 올림픽로4길에는 연도형 상가와 함께 작은도서관, 돌봄센터, 어린이집 등 공공개방시설이 들어선다. 탄천변에는 오픈발코니를 적용한 수변 특화 세대도 조성된다.&lt;br&gt;&lt;br&gt;서울시는 향후 사업시행계획 인가 등 정비사업 절차를 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 서소문고가 사고 계기 건설현장 특별점검… 공사장 984곳·교량 27곳 대상</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/29/CE2KU2L3SBCBDGERPJ3IYL5UIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/29/CE2KU2L3SBCBDGERPJ3IYL5UIQ/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 May 2026 05:33:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUFRUKVVZNI3LM23HPZYN5LI54.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 서울 서대문구 서소문 고가차도 붕괴 사고현장에서 긴급 철거작업이 진행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 지난 26일 서소문고가 철거 현장 붕괴 사고를 계기로 해체·굴토 공사장과 노후 교량에 대한 특별 안전점검에 나선다.&lt;br&gt;&lt;br&gt;서울시는 다음 달 1일부터 7월 말까지 공공·민간 건설공사장 984곳을 대상으로 특별점검을 실시한다고 29일 밝혔다. 점검 대상은 서울시 발주 공공공사장 114곳과 해체·굴토 등 위험 공정이 진행 중인 민간 공사장 338곳, 우기철 지반침하 우려가 있는 굴착공사장 32곳, 안전관리자를 두지 않은 소규모 공사장 500곳 등이다.&lt;br&gt;&lt;br&gt;공공공사장은 안전관리계획서가 현장에서 제대로 이행되고 있는지를 중점적으로 점검한다. 작업구역 통제와 가설구조물 설치 상태, 추락·낙하물 방지 조치, 장비 운용 계획, 비상대응체계 등을 살필 예정이다. 민간 공사장은 해체·굴토 등 사고 위험이 큰 공정을 중심으로 구조 검토와 해체계획 준수 여부, 작업구간 통제, 감리·시공 관리 실태 등을 점검한다.&lt;br&gt;&lt;br&gt;서울시는 또 시내 C등급(보통) 고가·교량 27곳 전체에 대해서도 긴급안전점검을 실시한다. C등급은 안전 등급(A~E) 가운데 일부 부재에 결함이 있어 보수·보강이 필요하지만 시설물 전체 안전에는 지장이 없는 상태다. 점검 결과 물리적·기능적 결함이 확인되면 정밀안전점검을 추가로 진행하고 보수·보강 대책을 마련할 계획이다. &lt;br&gt;&lt;br&gt;김성보 서울시장 권한대행은 “해체 공사장과 고가·교량 시설물에 대한 시민 우려가 큰 만큼 선제적인 안전점검을 실시하겠다”며 “위험요인이 발견되면 즉시 조치하고 필요하면 통행 제한이나 공사 중지 등 강력한 안전조치도 병행하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 지난 26일 서울 서대문구 서소문고가 철거 현장에서는 안전진단 도중 상판과 비계가 무너지면서 현장 관계자 3명이 숨지고 3명이 다쳤다. 사고를 수사 중인 서울경찰청 광역수사단은 이날 서울시 도시기반시설본부와 시공사·하청업체 사무실 등 7곳에 대해 압수수색을 실시했다. 국토교통부는 고용노동부·행정안전부·서울시·경찰·소방당국 등이 참여하는 중앙산업재해수습본부를 꾸려 잔여 구조물 철거 및 복구 작업을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 최고 34도 초여름 무더위</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/05/29/K5WVCDGFMBFLJBX7R5VI4KTRC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/05/29/K5WVCDGFMBFLJBX7R5VI4KTRC4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 May 2026 01:35:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZWGYRUMQYTINTCME2TANLCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 서울 종로구 광화문광장에서 시민들이 나들이를 즐기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말엔 전국이 고기압 영향권에 들면서 맑고 무더운 초여름 날씨가 이어질 것으로 보인다. 일요일인 31일 낮 최고기온은 34도까지 오를 것으로 전망된다. &lt;br&gt;&lt;br&gt;29일 기상청에 따르면, 30일 토요일 아침 최저기온은 12~19도, 낮 최고기온은 25~32도를 기록하겠다. 중국 중부지방에서 동쪽으로 이동하는 고기압의 영향을 받은 탓이다. 일요일엔 기온이 더 올라 낮 최고기온이 27~34도를 기록하겠다. 서울과 대전이 30도, 강릉이 33도, 광주·대구 32도, 포항 34도, 부산 29도로 전망됐다.&lt;br&gt;&lt;br&gt;북상하던 6호 태풍 장미는 다음 달 2일쯤 오키나와 동쪽 해상에서 방향을 꺾어 일본 남쪽 해상을 통과하며 국내에 영향을 미치지 못할 것으로 보인다. 우리나라 쪽에 이동성 고기압이 강하게 버티고 있어 태풍이 더 북상하지 못하기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마약소굴이었던 ‘버닝썬’ 화장실… 유착 의혹 ‘경찰총장’은 지금…</title>
-      <link>https://www.chosun.com/national/national_general/2026/05/27/PAZX3YXE7JAGTBG4IAHP2O43EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/05/27/PAZX3YXE7JAGTBG4IAHP2O43EM/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 May 2026 18:00:00 +0000</pubDate>
-      <content:encoded>‘그곳’은 단순히 유흥만 즐기는 클럽이 아니었다. 화려한 조명, 귀를 찢을 듯한 음악 소리, 술에 취해 춤을 추는 사람들. 외관은 흔히 알려진 클럽의 모습과 비슷했다. 하지만 저 깊은 곳에는 쉽게 알 수 없는 어두운 비밀이 숨겨져 있었다.&lt;br&gt;&lt;br&gt;2019년 ‘마약게이트’로 대한민국을 흔들어놨던 ‘버닝썬 클럽’이다. 아이돌 그룹 ‘빅뱅’의 전 멤버 이승현(예명 승리)씨가 클럽 이사를 맡아 한때 핫플레이스였던 곳이다.&lt;br&gt;&lt;br&gt;버닝썬 화장실은 범죄 공간이었다. 손님들은 화장실에서 ‘클럽 마약’으로 불리는 향정신성의약품 엑스터시(MDMA)를 물과 함께 삼켰다. 초대받은 일부만 갈 수 있는 VIP룸에선 ‘데이트 강간 마약’으로 알려진 물뽕(GHB) 복용이 횡행한다는 소문까지 돌았다. 유흥 공간이 아니라 범죄 소굴에 더 가까웠다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUSSAGHX5BBBLPAUSFRLAFUDZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투여·성범죄 의혹을 받은 서울 강남구 클럽 ‘버닝썬’. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2018년 초 서울 강남구 역삼동에서 문을 연 버닝썬은 약 1년 만에 대대적인 수사를 받았다. 폭행, 경찰 유착(뇌물), 탈세 등 혐의도 여러 가지였다. 그중에서도 가장 논란을 낳은 사안은 마약이었다. 당시 마약으로 경찰에 입건된 사람은 10여 명에 달했다. &lt;br&gt;&lt;br&gt;버닝썬의 공동 대표였던 이문호씨부터가 마약 사범이었다. 그는 2018~2019년 버닝썬 등 여러 클럽에서 다양한 종류의 마약을 투약한 혐의로 재판에 넘겨져 유죄가 확정됐다. 이씨는 2019년 1월 버닝썬에선 지인으로부터 받은 엑스터시 1정을 물과 함께 삼켰고, 또 다른 클럽에선 물뽕을 사이다에 섞어 마신 혐의를 받았다. 1심에서 징역 1년 6개월에 집행유예 3년을 받았다가 2심에선 징역 1년 실형을 선고받았다. 형은 대법원에서 확정됐다. 법원은 “클럽 대표로서 불법 행위가 일어나지 않도록 관리할 책임이 있음에도 버젓이 클럽 안에서 위험성이 높은 마약을 사용했다”고 지적했다. &lt;br&gt;&lt;br&gt;‘버닝썬 동영상’이란 영상까지 온라인상에서 번졌다. 버닝썬 VIP룸으로 보이는 곳에서 한 남성이 여성을 상대로 음란한 행위를 하는 영상이었는데, 피해 여성이 마치 마약에 취한 듯 몸을 가누지 못하는 장면이 담겨 있었다. &lt;br&gt;&lt;br&gt;당시 클럽 주변에선 “여성들에게 몰래 물뽕을 먹여 반항하지 못하게 한 뒤 성폭행을 한다”는 말이 공공연히 나돌았다.&lt;br&gt;&lt;br&gt;재벌 3세 등 유명인이 버닝썬과 관련 있다는 의혹은 또 한 번 ‘버닝썬게이트’를 수면 위로 떠오르게 했다. 대표적 인물이 남양유업 창업주의 외손녀인 황하나씨다. 황씨는 버닝썬 공동 대표 이문호씨와 친한 사이였다고 한다. 그가 버닝썬 VIP라는 얘기도 있었다. 황씨 역시 이씨처럼 마약 투약 혐의로 지난 2019년 징역 1년에 집행유예 2년을, 이듬해에는 집행유예 기간에 재차 마약을 투약해 징역 1년 8개월을 선고받았다. 지금도 지난 2023년 지인에게 필로폰을 투약한 혐의로 구속 상태에서 재판을 받고 있다.&lt;br&gt;&lt;br&gt;‘버닝썬게이트’를 시작으로 버닝썬을 둘러싼 추악한 실태가 드러나기도 했다. 승리와 친하게 지낸 연예계 동료들의 집단 성폭행, 현직 경찰과 유착 관계 등 다양하다.&lt;br&gt;&lt;br&gt;승리의 지인으로 버닝썬 단골이었던 정준영, 최종훈 등은 만취 여성을 집단 성폭행하고 성관계 동영상을 불법 촬영해 유포한 혐의로 함께 재판에 넘겨졌다. 이들은 2016년 1월 강원 홍천, 같은 해 3월 대구에서 술에 취해 항거불능인 피해자들을 합동 강간한 후 성관계 장면과 나체 모습을 촬영해 지인들에게 공유했다. 정씨는 징역 5년이, 최씨는 징역 2년 6개월이 대법원에서 확정됐다. &lt;br&gt;&lt;br&gt;현직 경찰이 버닝썬의 ‘뒤’를 봐준다는 의혹도 제기됐다. 승리는 연예인들이 모인 단체 대화방에서 윤모 총경을 ‘청와대에서 근무하는 경찰총장’이라고 불렀다. &lt;br&gt;&lt;br&gt;버닝썬 수사 과정에서 윤 총경은 승리와의 유착 의혹을 받았다. 버닝썬에 대한 강남경찰서 단속 내용을 승리 측에 미리 알려줬다는 혐의(직권남용)로 입건되기도 했다. 하지만 해당 의혹은 무죄 판결을 받았고, 윤 총경은 버닝썬과는 무관한 개인 비리(자본시장법 위반 및 증거인멸 교사)로 대법원에서 벌금 2000만원이 확정됐다. 현행법상 경찰 공무원은 금고 이상 형이 확정돼야 당연 퇴직한다. 윤 총경은 지금도 경찰로 재직중이다.&lt;br&gt;&lt;br&gt;클럽이 ‘마약 소굴’로 전락했다. 마약을 소개받는 일부터 거래, 투약까지 모두 한 장소에서 이뤄진다.&lt;br&gt;&lt;br&gt;지난 2020년 경기 시흥시의 한 클럽에선 마약 판매상과 클럽 고객들 간 마약 거래가 이뤄졌다. 이들의 만남을 주선한 건 클럽의 관리인 A씨였다. A씨는 고객들이 엑스터시와 향정신성의약품인 케타민을 구할 수 있도록 도왔다. 편하게 흡입할 수 있게 케타민 등을 과일 접시에 올려줬다. A씨는 이 같은 행위로 법원에서 징역 1년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;서울 서초구 한 클럽에서 MD(영업 직원)로 일하던 B씨는 2022년 단돈 10만원에 고객에게 엑스터시 반정을 판매했다. 해당 고객은 엑스터시를 클럽 화장실에서 물과 함께 삼켰다. B씨는 클럽에서 고객뿐만 아니라 마약까지 영업하는 MD였다.&lt;br&gt;&lt;br&gt;실제로 ‘클럽 마약’을 구매하고 사용하는 사람은 늘고 있다. 경찰청 국가수사본부에 따르면 작년 8월부터 올해 1월까지 온라인·유흥가 등 주요 마약 유통 시장을 단속한 결과, 6개월간 6600여 명이 검거됐다. 전년 같은 기간보다 약 900여 명 늘어난 규모다. 마약 종류별로는 케타민, 합성 대마, 필로폰 등 향정신성의약품(약 5600여 명·약 85%)이 가장 많았다. 마약 관련 수사를 해온 한 경찰 관계자는 “클럽 내 마약 거래는 굉장히 은밀하게 이뤄지는 범죄”라며 “클럽으로 마약이 흘러갔다는 정황은 있는데 확인할 방법이 없는 게 많다. 실제로는 굉장히 많은 양이 유통되고 있을 수 있다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;클럽 내부 같은 은밀한 공간에서 시작된 마약은 2차 범죄로 이어지기 쉽다. 피해자에게 몰래 마약을 먹인 뒤 범행을 저지르는 식이다. &lt;br&gt;&lt;br&gt;2018년 서울 용산구의 한 클럽에서 여성 C씨는 오전 3시 30분쯤 지하철 첫차를 기다리고 있었다. 이때 한 남성 D씨가 “술을 사주겠다”며 접근했고, 칵테일의 한 종류인 예거밤을 건넸다. C씨는 예거밤을 몇 모금 마셨다. 졸피뎀이 들어간 예거밤이었다.&lt;br&gt;&lt;br&gt;약 1시간 뒤 낯선 모텔방에서 눈을 떴다. 하의는 벗겨져 있었다. D씨는 이미 모텔을 빠져나온 상황이었다. 경찰 조사에 따르면 D씨는 과거 졸피뎀 성분이 포함된 수면제를 병원에서 여러 차례 처방받은 전력이 있었다. 이 같은 상황을 종합해 법원은 D씨가 C씨의 술에 졸피뎀을 일부러 넣었고, C씨가 의식을 잃으려 하자 데리고 나와 강간했다고 판단했다.&lt;br&gt;&lt;br&gt;클럽에서 마약을 투약한 후 차를 몰다 인명 사고를 내는 경우도 있다. 지난 2022년 한 차량 운전자는 서울 강남 클럽에서 엑스터시를 하고 뺑소니 사고를 쳤다. 클럽 내에서 시작된 범죄가 외부로까지 번져 2차 피해를 야기한 셈이다.&lt;br&gt;&lt;br&gt;전문가들은 마약으로 인해 사소한 충돌부터 대형 사건까지 예측 불가능한 범죄가 일어날 수 있다고 지적한다. 김대규 한국마약예방연구소장은 “마약 범죄를 조사하다 보면 마약에 취해 본인의 의사와 관계없는 여러 행동을 하게 된다는 걸 알 수 있다”며 “성범죄부터 마약 운전까지 수사당국이 예방하기 어려운 사건·사고가 끊임없이 발생한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JDM3VMWOQRBT5LMY5VH4KXYNZA.png?auth=2952d713c20b90505d0661baf360b933387d3b561150792545612431ab2f04f2&amp;smart=true&amp;width=4845&amp;height=3304" type="image/png" height="3304" width="4845"/>
     </item>
     <item>
       <title>1회로 끝난 울산시장 선거 TV 토론… 민주 김상욱·국힘 김두겸 네거티브 공방</title>
