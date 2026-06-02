@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>BTS 부산 온다...부산역 유라시아플랫폼에 ‘아미 웰컴센터’ 운영</title>
+      <link>https://www.chosun.com/national/regional/2026/06/02/ZUF4JYWIB5EMZCMTKQZJW22LJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/02/ZUF4JYWIB5EMZCMTKQZJW22LJE/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Jun 2026 23:50:32 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WCZRYGMZGCMTFMVQTMZTBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS)의 공연 모습. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;글로벌 아이돌 그룹 방탄소년단(BTS)의 부산 공연을 앞두고 부산역에 팬덤 ‘아미(ARMY)’를 위한 공간이 조성된다. &lt;br&gt;&lt;br&gt;부산시와 부산관광공사는 5일부터 21일까지 부산유라시아플랫폼에서 ‘BTS 더 시티 아리랑 부산 웰컴센터’를 운영한다고 2일 밝혔다. 오는 12~13일 부산아시아드주경기장에서 열리는 ‘방탄소년단 월드투어 IN 부산’ 공연과 연계한 행사다.&lt;br&gt;&lt;br&gt;이 공간은 부산을 찾는 BTS 팬과 관광객을 위한 체험형 관광 공간으로 꾸며진다. 하이브(HYBE)의 ‘BTS 더 시티’ 프로젝트 공식 스탬프 랠리 코스에도 포함됐다.&lt;br&gt;&lt;br&gt;운영 시간은 일반 기간에는 오전 10시부터 오후 8시까지다. 특별 운영 기간인 10~16일에는 오후 10시까지 연장 운영한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSDMMJXG4ZGMMDBMVTGKMRTMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시와 부산관광공사는 5일부터 21일까지 부산역 유라시아플랫폼에 'BTS 더 시티 아리랑 부산 웰컴센터'를 운영한다. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웰컴센터에서는 부산 관광 안내, 짐보관·배송 서비스를 제공한다.&lt;br&gt;&lt;br&gt;다양한 체험 프로그램도 마련된다. 음악 체험존에서는 BTS 음원과 영상을 활용한 댄스와 노래를 즐길 수 있다.&lt;br&gt;&lt;br&gt;K-뷰티존에서는 방문객이 직접 스타일링을 체험할 수 있으며, 포토이즘 부스에서는 특별 프레임이 적용된 기념사진을 촬영할 수 있다.&lt;br&gt;&lt;br&gt;부산관광 체험존에서는 부산 여행 타입 진단과 게임형 콘텐츠를 통해 개인 맞춤형 부산 여행 코스를 추천한다. 구글 제미나이 인공지능 체험부스에서는 인공지능 라이브 도슨트를 활용해 취향에 맞는 부산 여행 정보를 제공한다.&lt;br&gt;&lt;br&gt;방문객 참여를 유도하기 위해 오는 11일부터 14일까지 부산시 소통캐릭터 ‘부기’가 웰컴센터에서 관광객을 맞이하며, 특별운영기간에는 ‘BTS 더시티 아리랑 랜덤 플레이 댄스’ 등 팬들이 함께 즐길 수 있는 현장 프로그램도 진행된다. &lt;br&gt;&lt;br&gt;웰컴센터 운영 기간 부산역 광장과 김해국제공항 등에서도 다양한 연계 행사가 열린다.&lt;br&gt;&lt;br&gt;부산역 광장에는 높이 5ｍ 규모의 ‘K-팝 리스너 부기’ 조형물이 설치된다.&lt;br&gt;&lt;br&gt;12∼13일에는 지역 제품 판매와 정책 홍보를 위한 부산 팝업스토어가 운영되며 부산국제무용제 거리 공연, 무형유산 창작 공연, 부산 예술인 거리 공연도 펼쳐진다.&lt;br&gt;&lt;br&gt;부산역 2층 버스킹광장에서는 밀양백중놀이, 감내게줄당기기, 밀양아리랑 예술단 공연 등 아리랑을 주제로 한 전통 공연이 이어진다.&lt;br&gt;&lt;br&gt;김경덕 부산시장 권한대행은 “앞으로도 대형 공연과 축제, 국제행사를 연계한 관광 콘텐츠를 발굴해 방문객들의 체류와 소비를 유도하고 재방문을 끌어내겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한 공장서 8년새 세번 폭발사고… 13명 숨지고 6명 부상</title>
       <link>https://www.chosun.com/national/regional/2026/06/02/TDRRWGFANBFFBDLDSOS5VG256M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/02/TDRRWGFANBFFBDLDSOS5VG256M/</guid>
@@ -879,15 +888,6 @@
       <description/>
       <pubDate>Sun, 31 May 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYYH5VN6QVET5OMQUXIZ3WZNQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 강물이 탁해지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/06/01/LSCEB6N2HNEKJJ4ZQE4KO2CL3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/06/01/LSCEB6N2HNEKJJ4ZQE4KO2CL3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 31 May 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHQMG4XJEZGUZAUBKRDHKFUNTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>7~8월엔 어쩌려고... 강릉은 벌써 열대야</title>
