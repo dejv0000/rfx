@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이명박 전 대통령, 본투표서 한 표… “많은 국민 참여했으면”</title>
+      <link>https://www.chosun.com/politics/election2026/2026/06/03/IDOL77W6EFB6THZX75WI4XHPIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/03/IDOL77W6EFB6THZX75WI4XHPIQ/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Jun 2026 01:02:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPQUUCKXPJIE3NPQXS6RTKDVKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이명박 전 대통령이 3일 오전 서울 강남구 국민연금공단 서울남부지역본부에 마련된 투표소 내 기표소에서 기표한 투표지를 들고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이명박 전 대통령이 3일 오전 6·3 지방선거 본투표에 참여했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 이날 오전 서울 강남구 국민연금공단 서울남부지역본부에 마련된 논현1동 제3투표소에서 부인 김윤옥 여사와 함께 본투표를 했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 투표소에 들어가기 전 입구에서 만난 시민들의 요청을 받고 사인을 해주거나 같이 사진을 찍었고, 주변 사람들에게 “투표했어요?”라고 묻기도 했다.&lt;br&gt;&lt;br&gt;투표하고 나온 이 전 대통령은 기자들과 만나 “투표는 국민의 의무니까 잘 참여했다”며 “많은 국민이 선거에 참여했으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 6·3 지방선거 선거운동 기간 막바지에 부산과 서울을 잇따라 찾아 친이계 국민의힘 후보들을 도왔다. 지난 31일에는 박형준 부산시장 후보, 박민식 부산 북갑 국회의원 보궐선거 후보와 함께 부산 해운대구 한 교회 예배에 참석했고, 이어 해운대시장을 찾아 마이크를 잡았다. 지난 1일에는 오세훈 서울시장 후보의 공동선거대책위원장인 윤희숙 전 의원, 고재현 성동구청장 후보 등과 함께 서울 성동구 서울숲을 찾아 “일 잘하는 시장·구청장을 뽑아야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한화에어로 사고’ 희생자 시신 5구 신원 확인 완료… 경찰 “유족에 인도 예정”</title>
+      <link>https://www.chosun.com/national/regional/2026/06/03/PQZBSX6Q5FAI5KT4TPB5BD35FY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/03/PQZBSX6Q5FAI5KT4TPB5BD35FY/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Jun 2026 23:01:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZTGNJWMY4GGZDFGEZDIY3CHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관이 1일 폭발 사고가 발생한 대전 유성구 외삼동 한화에어로스페이스 대전공장을 방문해 사고 현장 상황을 살피고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사망 5명, 부상 2명 등 7명의 사상자가 발생한 한화에어로스페이스 대전사업장 폭발 사고 발생 사흘째인 3일 사망자 5명의 신원이 확인됐다.&lt;br&gt;&lt;br&gt;대전경찰청은 국립과학수사연구원의 유전자(DNA) 감정 결과 사망자 5명의 신원이 모두 확인됐다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유가족과 망자의 DNA를 비교 대조해서 신원을 확인했다”며 “유족분들께 시신을 인도할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;이에 따라 이날 장례식장에 빈소가 차려질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 대법, 헌재가 요청한 ‘재판소원 1호’ 의견서 안 내기로</title>
       <link>https://www.chosun.com/national/court_law/2026/06/03/BC46P2JJ4FBABAIURBR3EWS2II/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/03/BC46P2JJ4FBABAIURBR3EWS2II/</guid>
@@ -877,15 +895,6 @@
       </media:content>
     </item>
     <item>
-      <title>金총리, 한화에어로 사고 현장 방문… “원인 철저히 규명하라”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/06/01/IU4BDXHBUZFPLCIWH5WEZ3PGW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/06/01/IU4BDXHBUZFPLCIWH5WEZ3PGW4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Jun 2026 10:10:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJJYHHZFORKGRDIPW3GECQ7BMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 1일 폭발 사고가 일어난 대전 유성구 한화에어로스페이스 대전사업장을 찾아 현장을 살펴보고 있다. 앞줄 오른쪽부터 윤호중 행정안전부 장관, 김 총리, 김영훈 고용노동부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 1일 폭발 사고가 일어난 대전 유성구 한화에어로스페이스 공장을 찾아 사고 원인에 대한 철저한 조사와 유가족 지원을 당부했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오후 사고 현장에서 피해 상황을 보고받은 뒤 내일 현장 감식이 예정돼 있다는 설명을 듣고 “현재까지는 (사고 원인을) 추정하기 어려운가”라고 물었다.&lt;br&gt;&lt;br&gt;김기선 유성소방서장은 “(사고 지점이) 세척 공정실이고, 사용하는 물품들도 비인화성 물품들이라 조사를 해봐야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;김 서장은 이어 “이 공장에서 과거에도 2018년, 2019년에 화약 (폭발) 사고가 있었다”고 설명했다. 김영훈 고용노동부 장관은 “이전에는 연료 주입 과정에서 폭발이 일어났는데, 이번에는 세척하는 과정의 마지막 단계에서 처음으로 (폭발이 일어난 것으로) 보고됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 총리는 이어 장례 준비 상황을 물었다. 이에 대해 김 장관은 “(시신 각각이) 어느 분인지는 알 수 없다”며 “DNA 분석을 면밀하게 해야 한다”고 했다. 행정안전부 담당자는 “이르면 내일 저녁, 아니면 모레에 신원 확인 결과가 나올 것으로 예상한다”고 설명했다.&lt;br&gt;&lt;br&gt;김 총리는 노동부와 행안부, 지방자치단체에 “함께 유가족을 잘 모셔 주시고 어려움이 없도록 챙겨 달라”고 당부했다.&lt;br&gt;&lt;br&gt;한편 행안부 담당자는 “돌아가신 분들 중에 한 분은 아버지, 한 분은 아들이 이곳에 같이 근무한다”고 보고했다. 사망자 2명 가운데 1명은 이 공장에서 아버지와 함께, 다른 1명은 아들과 함께 근무하다가 사고를 당했다는 것이다.&lt;br&gt;&lt;br&gt;총리실은 김 총리가 노동부와 행안부에 “이번 사고를 철저히 분석해 원인을 명확하게 규명하고, 유사 사고가 재발하지 않도록 필요한 개선 조치를 신속히 추진하라”고 지시했다고 밝혔다.&lt;br&gt;&lt;br&gt;또 김 총리가 “모든 사업장은 형식적인 안전 수칙 준수에서 벗어나, 실질적으로 작동하는 현장 중심의 안전 예방 체계를 철저히 가동해 달라”고 당부했다고 전했다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 10시 59분쯤 한화에어로스페이스 대전사업장에서 폭발과 화재가 일어나 5명이 숨지고 2명이 다쳤다. 부상자 2명 가운데 1명은 중태인 것으로 전해졌다. 이 공장은 항공·방산·우주 산업 관련 장비를 생산하는 시설이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘권경애 노쇼’ 학폭 피해자 유족, 재판소원 청구</title>
       <link>https://www.chosun.com/national/court_law/2026/06/01/MXZY3AJWY5FUHFEO75NJKZ3KXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/01/MXZY3AJWY5FUHFEO75NJKZ3KXM/</guid>
@@ -952,15 +961,6 @@
       <pubDate>Mon, 01 Jun 2026 05:05:56 +0000</pubDate>
       <content:encoded>1일 대전 유성구 외삼동 한화에어로스페이스 공장에서 화재가 발생해 직원 5명이 숨지고 2명이 부상을 입었다. 부상자 2명 중 1명은 중태로 전해졌다. 경찰, 소방 등은 이 공장 56동 세공실에서 화재가 발생한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYWMZJSMY2DONLBHBQWIZBVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 11시쯤 대전 유성구 외삼동 한화에어로스페이스 대전사업장에서 화재가 발생해 소방 차량이 화재 현장으로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;업계에 따르면 이날 화재가 발생한 대전 공장은 항공·방산·우주 산업 관련 시설과 장비를 생산하는 핵심 시설로 꼽힌다. 공장 직원은 580여명이다. &lt;br&gt;&lt;br&gt;이 공장의 모체는 국방과학연구소(ADD) 추진체 생산 시설로, 한화는 이 공장을 1987년 인수해 운영하고 있다. 현재는 미사일이나 로켓의 핵심 부품인 ‘추진 기관’을 실제 개발하고 생산하는 핵심 국가 보안 시설로 전해졌다. 추진 기관은 미사일 등의 엔진과 고체 연료 등으로 구성된다. &lt;br&gt;&lt;br&gt;이 공장에선 2018년, 2019년에도 폭발 사고가 일어나 각각 5명, 3명이 숨졌다. 민간 방산업체에서 생산하는 제품 특성상 극도의 보안 유지가 필수적이라는 이유로 안전 실태 점검이 미흡했던 것 아니냐는 지적이 나온다. 실제로 2018년 사고 이후 노동청의 특별 근로감독 결과 법 위반사항 486건이 적발되는 등 안전 수준이 최하 등급으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FMM37TQUFGX5H45VIH2BQRIGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/DW6HTXXFKVE7ZHJG2JRXAOSBSY.gif?auth=80b75251961937f3185c3abf2ddd8995b9ad962cfeb52ea808e6ece121183acd&amp;smart=true&amp;width=1024&amp;height=576" type="image/jpeg" height="576" width="1024"/>
-    </item>
-    <item>
-      <title>양팔 없고 의족에 의지 ‘왼발박사’, 한라산 정상 정복 </title>
-      <link>https://www.chosun.com/national/2026/05/30/CWOPXDNKW5GRDO6TBQFWHXPAA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/05/30/CWOPXDNKW5GRDO6TBQFWHXPAA4/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 May 2026 08:29:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4GJQX24GZDA7BL3VWKNE3GOWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 한라산 백록담 등정에 나선 이범식씨가 정상부 해발 1900m 부근의 급경사 바위 구간을 통과 하고 있다. /'이범식 후원회' 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 중증장애인이 제주도 한라산 정상에 오르는 데 성공했다. 해발 1950m 한라산 백록담 정상을 완등한 주인공은 이범식(61) 한국장애인IT복지협회장이다. &lt;br&gt;&lt;br&gt;그는 지난 28일 오전 6시 30분쯤 한라산 정상 등정을 위해 제주 성판악 탐방로 입구에서 출발했다. 양팔이 없고 오른쪽 다리마저 의족에 의지해야 하는 신체 조건으로 그가 극복해야 할 탐방로는 성판악~진달래밭~한라산 정상까지 왕복 18.3km 코스다. &lt;br&gt;&lt;br&gt;9.4km 성판악 코스의 등정 과정은 순탄치 않았다. 특히 정상부 해발 1900m 부근의 급경사와 바위·자갈 구간이 최대 난관이었다. 양팔이 없으니 중심 잡기 어려운 조건에서 이씨는 어깨와 몸 전체를 활용해 로프에 기대고 의족으로 균형을 유지하며 해당 구간을 가까스로 통과했다. &lt;br&gt;&lt;br&gt;출발 6시간 10분 만인 낮 12시 40분, 이씨는 드디어 백록담 정상에 발을 디뎠다. 양팔 없이 한쪽 다리마저 의족에 의지한 중증장애인이 백록담 등정에 성공한 것은 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XCOTQZHQFAZRNB6PYFY2RCICM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 오전 6시 30분 성판악 탐방로 입구를 출발한 이범식씨가 6시간 10분 만인 낮 12시 40분 해발 1950m 한라산 백록담 등정에 성공했다. /‘이범식 후원회’ 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그의 도전에는 ‘이범식 후원회’ 회원 10명이 동행하며 안전 확보에 힘썼다. 이들은 이씨와 함께 등정하며 동영상과 사진 등으로 기록을 남겼다. 장애인 인식개선 교육, 청소년 인성교육 등 다양한 교육 콘텐츠로 활용하기 위해서다.&lt;br&gt;&lt;br&gt;이씨는 22세 때 전기공으로 일하다 고압전기에 감전돼 양팔과 오른쪽 다리를 잃었다. 오른쪽 다리는 의족을 착용해야만 걸을 수 있다. 이러한 신체 조건임에도 그는 좌절하지 않고 희망의 끈을 놓지 않았다. &lt;br&gt;&lt;br&gt;그가 47세 되던 해인 2011년, 경북 경산에 있는 대구대학교에 입학한 뒤 11년 만인 2021년 같은 대학 대학원에서 이학 박사학위를 땄다. 전공은 ‘장애인 직업재활’이다. 사지 중에 온전한 건 왼쪽 다리 뿐이라서 많이 이들이 그를 ‘왼발박사’로 부른다. 그는 현재 장애인 관련 각종 강연과 작가로 활동 중이다. &lt;br&gt;&lt;br&gt;이범식씨는 “장애는 절망과 끝이 아닌 또 다른 도전의 시작”이라며 “새로운 도전은 누군가에게 다시 살아갈 이유와 새로 시작할 용기가 되는 계기가 될 수 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
