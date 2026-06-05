@@ -13,6 +13,140 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이른 더위에 온열질환자 200명 넘겨...작년의 2.8배</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/06/05/P3OTBWSVEJB23FLCR62VGB7JNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/05/P3OTBWSVEJB23FLCR62VGB7JNA/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 10:14:49 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZC5TV626FGPHDCRG4FWQWIAVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 세종대로 인근에서 시민들이 그늘 아래에서 횡단보도 신호를 기다리고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른 더위가 이어지면서 올해 누적 온열 질환자 수가 5일 200명을 넘겼다. 작년 같은 기간의 2.8배에 달하는 수치다.&lt;br&gt;&lt;br&gt;5일 질병관리청 온열 질환 응급실 감시 체계에 따르면 지난달 15일부터 이달 4일까지 누적된 온열 질환자는 총 201명이다. 사망자 1명을 포함한 수치다. 지난달 15일 서울에서 숨진 80대 남성이다. 관련 통계를 작성한 이후 가장 빨리 나온 온열 질환 사망자였다. 지난해 같은 기간 온열 질환자 수(71명)보다 2.8배에 달할 정도로 온열 질환자가 많은 것이다.&lt;br&gt;&lt;br&gt;온열 질환은 고온에 노출돼 발생하는 급성 질환이다. 두통, 어지럼증, 근육 경련, 피로감, 의식 저하 증상 등이 나타나고, 방치되면 생명을 위협할 수도 있다. &lt;br&gt;&lt;br&gt;발생 환자를 연령별로 보면 60대가 31명(15.4%)으로 가장 많았다. 이어 40대 29명(14.4%), 80대 이상 28명(13.9%) 등의 순이었다. 지역별로 보면 경기가 44명으로 가장 많았고, 서울 34명, 강원 19명 등이 뒤를 이었다. 남성이 134명으로 전체의 66.7%를 차지했고, 여성은 67명(33.3%)이었다.&lt;br&gt;&lt;br&gt;질환별로는 열탈진 106명(52.7%), 열실신 37명(18.4%), 열사병 39명(18.9%), 열경련 18명(9%) 등의 순이었다. 열탈진은 땀을 너무 많이 흘려 피부가 창백해지고 구역감이 나타나는 것이고, 열실신은 일시적으로 의식을 잃거나 어지러움증을 느끼는 것이다. 열사병은 체온이 40도 이상 올라가고, 열경련은 과도한 땀 배출로 근육 경련이 일어난다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘잠실 개표소’ 앞 시위대 2000명으로 불어나…재선거 요구 </title>
+      <link>https://www.chosun.com/national/national_general/2026/06/05/JDGAIWPDIFEFPAOVM5UUN7VKDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/05/JDGAIWPDIFEFPAOVM5UUN7VKDQ/</guid>
+      <dc:creator>김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 10:45:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WTJ4UHKAFI5DBNNUCQLQYKLCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 개표소인 올림픽공원 핸드볼경기장 앞에서 부정선거를 주장하는 시위대가 재선거를 요구하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘투표 용지 부족’ 사태로 시작된 부정선거 시위대가 투표소에서 개표소로 자리를 옮겼다. 시위 인원은 2000명까지 늘었다. &lt;br&gt;&lt;br&gt;5일 서울 송파구 잠실7동 제2투표소에 대한 개표가 진행된 서울 올림픽공원 핸드볼 경기장 앞에 부정선거를 주장하는 시민들과 보수 유튜버 등이 모였다. 시위 참가 인원은 오전 300명에서 오후 6시쯤 퇴근한 시민들이 합류하며 경찰 비공식 추산 약 2000명까지 불어났다. 이에 경찰 역시 기존 3개 기동대에서 2배 늘어난 6개 기동대를 현장에 배치했다.&lt;br&gt;&lt;br&gt;시위대는 “선관위는 범죄 집단”, “참정권 박탈” 등이 적힌 피켓을 들고 “재선거” 등의 구호를 외치고 있다. 김민수 국민의힘 최고위원, 유튜버 전한길씨 등도 시위 현장을 찾아 시위대를 격려했다.&lt;br&gt;&lt;br&gt;한편 잠실7동 제2투표소에 대한 개표는 현재 모두 마무리됐지만, 시위대가 건물 출입구를 모두 막아서고 있는 바람에 선관위 직원과 시설 관계자, 취재진 등 약 100명은 발이 묶인 상태다. 통상 개표를 마친 투표지는 봉인 작업을 거쳐 선관위 보관 시설로 이동돼야 하는데, 시위대가 대거 집결하면서 해당 절차도 영향을 받고 있다. &lt;br&gt;&lt;br&gt;시위대는 내부 인원이 잠깐 밖으로 모습을 드러낼 때마다 “들어가!” “투표지를 갖고 나가는 것 아니냐!”라고 외치며 빠져나가지 못하게 막아서고 있다. 오후 3시 20분쯤 일부 직원은 창문을 통해 밖으로 빠져나가기도 했다.&lt;br&gt;&lt;br&gt;한편 이날 경찰과 시위대가 대치하는 과정에서 부상자 6명이 발생했으나, 모두 경상인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“넌 재수 없는 것, 잘못은 없어” 노래방 살해범 백승태의 한마디</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/06/05/FIW3NBQWNNDJBJGBBJXALPWCP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/06/05/FIW3NBQWNNDJBJGBBJXALPWCP4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 09:59:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZDO6WNW7ZGZFECISNVENFEALU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 충북 청주 노래방에서 살인 행각을 저지른 백승태(60)는 자신의 처지를 비관해 흉기를 휘두른 것으로 드러났다.&lt;br&gt;&lt;br&gt;청주지검은 5일 살인 및 살인미수 혐의로 백승태를 구속 기소했다.&lt;br&gt;&lt;br&gt;백승태는 지난달 9일 오전 4~5시쯤 청주시 한 노래방에서 흉기를 휘둘러 B(50대)씨를 살해하고 C(40대)씨를 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;백승태는 경찰 조사에서 이들이 시비를 걸었다거나 기억이 나지 않는다는 식으로 진술했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 백승태의 휴대전화를 추가 분석해 평소 그가 자신의 처지를 비관한 정황을 파악하고 이 같은 심리 상태가 범행으로 이어졌다고 판단했다.&lt;br&gt;&lt;br&gt;사건 전날 백승태는 어버이날에도 자신에게 안부 연락을 하지 않는 자녀에게 전화해 다툰 것으로 확인됐다. 기초생활수급자인 그는 경제적 궁핍에 대한 좌절감과 지인들이 자신을 좋아하지 않는다는 생각에 평소 고립감을 느껴온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 백승태는 노래방에서 술을 마시고 잠에서 깬 뒤 곧장 B씨와 C씨가 잠든 방에 들어가 흉기를 휘둘렀다. 별다른 이유는 없었다. &lt;br&gt;&lt;br&gt;백승태는 흉기에 찔려 잠에서 깬 C씨에게 “오늘 다 죽여 버릴 거다. 넌 재수가 없는 것이지 잘못은 없다”고 말했다. 부검 결과 B씨는 별다른 저항도 못 하고 현장에서 숨진 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “백승태가 범행 당일 노래방 도우미나 업주에게는 위해를 가하지 않은 점 등을 고려해 ‘묻지 마’식 이상 동기 범죄로 결론 내리지 않았다”면서 “백승태에 대한 정신 감정을 의뢰한 상태다”라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IAAGNMCMGZCTRPUI2JKCZ7LVGA.png?auth=efb05cda72e35c84e01e4cb431f6dca714290ca89b71097688877b9ffc7a484c&amp;smart=true&amp;width=281&amp;height=211" type="image/png" height="211" width="281">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>임성근, ‘순직해병 특검법’ 헌법소원 제기... “항소 취하 권한 준 건 위헌”</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/05/XMHAF6RTOZF7ROKWZWXKZD6RZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/05/XMHAF6RTOZF7ROKWZWXKZD6RZU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 09:06:56 +0000</pubDate>
+      <content:encoded>고(故) 채수근 상병 사망 사건으로 1심에서 징역 3년을 선고받은 임성근 전 해병대 1사단장 측이 순직해병 특검법이 위헌이라며 헌법재판소에 헌법소원을 청구했다고 5일 밝혔다. 앞서 임 전 사단장 측은 1심을 심리한 서울중앙지법 형사22부(재판장 조형우)에 위헌법률심판 제청을 신청했으나 기각·각하됐다. 이에 헌법재판소에 직접 판단을 요청한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4GKM3GGU3TIMDGGMYDMZLGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 전 사단장 측이 특히 문제 삼는 특검법 조항은 특검이 진행 중인 재판의 공소를 취소할 수 있도록 규정한 6조 1항 1호다. 실제로 이 조항을 근거로 특검은 지난해 7월 박정훈 국방부 조사본부장 직무대리(준장)의 항명 혐의 사건 항소를 취하했고, 박 준장은 무죄가 확정됐다. 이에 대해 임 전 사단장 측은 특검법이 권력분립의 원칙을 어겨 위헌이라는 입장이다. 항소 취하 여부는 행정부의 일원인 군검찰이 판단해 결정해야 하는 것인데, 국회가 입법을 통해 행정부 소속이 아닌 특검에도 항소 취하 권한을 준 것은 문제라는 것이다.&lt;br&gt;&lt;br&gt;이 밖에도 임 전 사단장 측은 특검 임명 관련 조항이 위헌이라는 주장도 펼쳤다. 특검법은 법 시행 2일 안에 국회의장이 대통령에게 특별검사 임명을 요청하도록 규정한다. 요청을 받은 대통령은 2일 안에 특검 후보자 추천을 국회에 요구해야 하고, 더불어민주당과 비교섭 단체 중 의석수가 가장 많은 단체는 5일 안에 다시 후보자 2명을 대통령에게 추천해야 한다. 대통령은 추천 3일 안에 1명을 특검으로 임명해야 한다. 대통령이 기한 내 특검을 임명하지 않을 경우 후보자 2명 중 연장자가 특검에 임명된다는 단서 조항도 법에 포함돼 있다. 임 전 사단장 측은 이 조항들이 민주적 정당성을 결여하고 대통령의 공무원 임명권과 행정 담당 공무원의 임명권을 침해해 권력분립 원칙을 어겼다는 주장도 펼쳤다.&lt;br&gt;&lt;br&gt;1심 법원은 지난달 임 전 사단장에게 징역형을 선고하면서, 위헌법률심판 관련 주장을 모두 받아들이지 않았다. 우선 1심은 박 준장 항명 사건의 항소 취하가 임 전 사단장의 업무상 과실치사 사건과 별개여서 직접적 영향이 없다고 봤다. 또 특검 임명 관련 조항 부분에 대해선 국회의 입법 재량 범위 내에서 제정된 것으로서 기본권을 침해한다고 볼 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천교육감 선거 2위 후보, 선관위에 ‘재검표’ 요구하기로 </title>
+      <link>https://www.chosun.com/national/education/2026/06/05/FEM53DB3R5DXBDLJPWSM5YZUCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/05/FEM53DB3R5DXBDLJPWSM5YZUCM/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 08:47:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKEYCLFEZJDYVH4AWK2Z6DNWK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 이대형 인천시교육감 후보가 배우자와 구월2동 제2투표소에서 투표하고 있다./이대형 후보 측 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시교육감 선거에서 2위로 낙선한 보수 성향 이대형 후보 측이 선거관리위원회에 재검표를 요구하기로 했다.&lt;br&gt;&lt;br&gt;5일 이 후보 측 관계자는 “7~8일쯤에 선거관리위원회에 재검표를 위한 선거소청을 할 계획”이라고 밝혔다. 이어 “1위 후보와의 격차가 크지 않아 재확인을 해보자는 차원이며 음모론 등은 아니다”라고 했다. &lt;br&gt;&lt;br&gt;이번 인천교육감 선거엔 3명이 출마했다. 이 후보가 중도보수 단일 후보로 나섰고, 도성훈 현 인천교육감과, 임병구(진보) 후보도 출마했다. 개표 결과 1위는 도 교육감(36.35%·54만2849표)이었고, 이 후보는 35.59%(53만1629표)로 2위를 했다. 격차는 0.76%포인트였다. 1만1220표 차이다. 임 후보는 28.05%(41만8910표)로 3위였다. 무효표는 5만5410표였다.&lt;br&gt;&lt;br&gt;공직선거법에 따라, 선거의 효력에 관해 이의가 있는 경우 선거일부터 14일 이내에 소청할 수 있다 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“상대 후보 공약도 검토하라”…이현재 하남시장, 민선 9기 구상 착수</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/05/G6MY74WG6JGZNC7YH737GFLQW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/05/G6MY74WG6JGZNC7YH737GFLQW4/</guid>
+      <dc:creator>하남=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 08:23:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDWM7RIVL5HM3AZLZPLMDTFM2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 시장 집무실에서 개최된 ‘브레인스토밍타임(BST)’에서 이현재 시장이 국장·단장·소장·원장 등 간부급 공무원들에게 공약 이행의 합리성과 효율성을 강조하고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이현재 경기 하남시장이 지방선거를 마친 뒤 첫 간부 회의를 열고 민선 9기 시정 운영 방향 점검에 나섰다. 선거 과정에서 제시된 공약은 물론 상대 후보가 내놓은 정책까지 검토하라고 주문하며 정책 추진의 실효성을 강조했다.&lt;br&gt;&lt;br&gt;하남시는 5일 이 시장 주재로 브레인스토밍타임(BST) 회의를 열고 주요 현안을 논의했다고 밝혔다. 회의에는 부시장과 국·단장, 소장, 원장 등 간부 공무원들이 참석했다.&lt;br&gt;&lt;br&gt;이 시장은 이날 선거 과정에서 제시된 공약의 실현 가능성을 검토하고 주요 사업을 체계적으로 추진하기 위해 ‘미래발전위원회’를 조속히 구성할 것을 지시했다. 미래발전위원회는 민선 8기 시민참여혁신위원회를 대체하는 기구로 전문가와 지역 대표, 공무원 등 50명 안팎 규모로 꾸려진다.&lt;br&gt;&lt;br&gt;이 시장은 “상대 후보가 제시한 정책이라도 시민에게 도움이 되는 방안이라면 적극 검토할 필요가 있다”는 취지로 언급하며 공약 이행 과정에서 실효성과 효율성을 우선 고려할 것을 주문했다.&lt;br&gt;&lt;br&gt;교산신도시 개발과 관련해서는 원주민 권익 보호 방안을 마련하고 원도심 재건축·재개발 사업에 대한 행정 지원을 강화하라고 당부했다. 또 위례신사선 연장과 GTX-D 하남 경유, 지하철 3·9호선 적기 개통 등 광역 교통망 확충 사업도 경기도와 적극 협의할 것을 지시했다.&lt;br&gt;&lt;br&gt;이 시장은 “기존에 추진 중인 사업들을 차질 없이 마무리하는 것이 중요하다”며 “공직자들이 책임감을 갖고 시정 현안을 챙겨달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추경호 대구시장 당선인, 5일 대구시로부터 현안 보고 받아</title>
+      <link>https://www.chosun.com/national/regional/2026/06/05/FIH76PUWD5AE3IJUM5I23D7SZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/05/FIH76PUWD5AE3IJUM5I23D7SZA/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 08:20:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTDIK475X5IN5KLJCAIQA6J6FQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 추경호 대구시장 당선인이 5일대구정책연구원에서 김정기 대구시장 권한대행을 비롯한 대구시 관계자들에게 업무보고를 받기 위해 이동하고 있다./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 추경호 대구시장 당선인이 5일 대구시 주요 현안에 대한 업무 보고를 시작으로 본격적인 시정 운영 준비에 돌입했다.&lt;br&gt;&lt;br&gt;추 당선인은 이날 오전 대구정책연구원에서 김정기 시장 권한대행, 오준혁 기획조정실장, 안중곤 행정국장, 한응민 정책기획관으로부터 대구시 주요 현안에 대한 업무 보고를 받았다. 이날 업무 보고에서는 대구시 주요 현안 사업인 대구경북신공항, AX(인공지능 전환), 취수원 이전 등에 관한 보고가 이뤄진 것으로 알려졌다. 업무 보고는 1시간 30여 분간 비공개로 진행됐다. &lt;br&gt;&lt;br&gt;업무 보고 이후 추 당선인은 “긴급한 현안 등에 대해서 간략하게 보고를 할 게 있다고 해서 이 시간을 마련했다”며 “부서별로 구체적인 현안 보고는 다음 주부터 이뤄질 것”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65T6232AWZA4TENFISFW4YXQK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추경호 대구시장 당선인이 5일 대구정책연구원에서 열린 김정기 대구시장 권한대행 등으로부터 현안 업무 보고를 받고 있다./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시정 인수위원회 구성과 관련해 추 당선인은 “아주 필요한 최소한의 작은 규모로 꾸려 나갈 생각”이라며 “제가 직접 시청 공무원으로부터 보고를 받고, 필요한 지시나 방침이 있으면 할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;추 당선인은 “시청 공무원과 전문가, 협회 단체 관계인들의 목소리를 직접 듣고 정리를 해 나가는 식으로 일을 처리해 나갈 것”이라며 “현장도 필요할 때 다니겠다”고 설명했다. &lt;br&gt;&lt;br&gt;추 당선인은 전날인 4일 대구시선거관리위원회를 찾아 대구시장 당선증을 받았으며 임기는 오는 7월 1일부터 시작한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정청래 “미우나 고우나 민주당… 호남에 효도하는 심정으로 정치하겠다”</title>
+      <link>https://www.chosun.com/politics/election2026/2026/05/31/5MUWKACZOZH63I7UIREJYPZCBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/05/31/5MUWKACZOZH63I7UIREJYPZCBI/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 May 2026 04:35:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSDA6OYZRRMVRBS3JCTZMIETJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 더불어민주당 대표가 31일 오전 전남 구례군에서 장길선 구례군수 후보 지원 유세를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거를 사흘 앞둔 31일 전남을 찾은 정청래 더불어민주당 대표가 “미우나 고우나 민주당”이라며 지지를 호소했다.&lt;br&gt;&lt;br&gt;민주당 총괄상임선거대책위원장인 정 대표는 전날 전남 완도·진도·장흥·순천에서 지원 유세를 한 데 이어, 이날 오전 구례군 구례읍을 찾아 장길선 구례군수 후보 지지를 호소했다.&lt;br&gt;&lt;br&gt;장길선 후보는 앞서 공표된 여론조사에서 무소속 정현택 후보, 조국혁신당 이창호 후보 등과 오차 범위 안에서 접전을 벌이고 있는 것으로 나타났다. 지난 23일 코리아정보리서치가 일간투데이 의뢰로 시행한 무선 전화 자동 응답 조사에서는 장길선 후보 34.2%, 정현택 후보 23.5%, 이창호 후보 16.8%, 무소속 이현창 후보 12.4%였고, 지난 25~26일 코리아정보리서치가 광주타임즈 의뢰로 한 무선 전화 자동 응답 조사에서는 정현택 후보 31.0%, 장길선 후보 28.1%, 이창호 후보 19.6%, 이현창 후보 9.9%였다(각 조사의 자세한 사항은 중앙선거여론조사심의위원회 홈페이지 참조).&lt;br&gt;&lt;br&gt;정 대표는 “여러분, 이재명 대통령 좋아하시죠? 밀어주고 싶죠? 이 대통령에게 힘 실어드리고 싶죠?”라고 물으며 “그렇다면 이 대통령이 속해 있는 정당, 민주당의 기호 1번 장길선을 꼭 뽑아주실 것을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;정 대표는 전날 완도·진도·장흥·순천을 돌며 ‘우리가 어디 간당가, 민주당이지. 그라제’ ‘우리가 남이가, 우리가 다 민주당 찍어야지, 같은 식구요’라는 말을 들었다며 “고맙고 눈물 나게 감사했다”고 했다.&lt;br&gt;&lt;br&gt;정 대표는 “‘잘난 부모도 내 부모요, 못난 부모도 내 부모 아닌가. 잘난 자식도 내 자식이고, 못난 자식도 내 자식 아닌가.’ 이런 부모 같은 심정으로 민주당과 민주주의를 품어 주시는 호남 분들에게 정말 고마웠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “저희가 부족한 것은 채우고, 호남 분들에게 서운하게 했던 점도 충분히 더 잘하도록 노력하겠다”며 “민주당이 호남에 효도 정치를 잘하도록 하겠다”고 했다. 그러면서 “이 대통령께서 전남·광주를 통합하고 1년에 5조원, 4년간 20조원을 전남광주에 투여하기로 했다”며 “여러분이 피부로 느낄 수 있을 정도의 예산이 팍팍 밀려들 것”이라고 했다.&lt;br&gt;&lt;br&gt;정 대표는 “미우나 고우나 내 자식이지, 미우나 고우나 내 부모님이지 하는 심정으로 기호 1번 장길선에게 꼭 투표해 달라”고 했다. 그는 “민주당은 호남에 진 빚이 많지만, 여러분께서 다시 한번 민주당에 아낌없는 성원을 해주시리라 믿겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>선관위 “투표용지 부족했던 투표소 전국 50곳… 투표 중지된 곳 22곳”</title>
+      <link>https://www.chosun.com/politics/election2026/2026/06/05/Y7MBPNM5GJAS5IKGPW522S6PK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/05/Y7MBPNM5GJAS5IKGPW522S6PK4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 07:26:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQKKWP7WWVIIXEO6KWQFT4HVUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노태악 중앙선거관리위원장이 5일 오후 경기 과천 중앙선관위에서 투표용지 부족 사태 관련 대국민 사과를 하고 회견장을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙선거관리위원회가 6·3 지방선거 당시 투표용지 부족 사태가 벌어진 투표소가 전국에서 50곳 있었던 것으로 확인됐다고 5일 밝혔다. 이로 인해 투표가 일시 중지됐던 투표소는 22곳이었던 것으로 나타났다.&lt;br&gt;&lt;br&gt;윤재수 중앙선관위 선거정책실장은 이날 오후 브리핑을 통해 이같이 밝혔다. 윤 실장은 “투표용지가 부족해서 추가로 투표용지를 송부한 투표소 개수는 전국 1만4288개 투표소 중에서 67개로 파악된다”고 했다. 윤 실장은 “지역별로는 서울 35개 투표소, 부산 8개, 대구 7개, 인천 6개, 울산 3개, 경남 8개 투표소에서 투표용지를 추가 송부한 것으로 파악했고, 서울 송파구가 15개소로 가장 많았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이 중 실제 투표용지가 부족했던 투표소는 현재까지 송파구 14개를 포함해 50개소로 파악됐다”며 “다만 투표용지 부족으로 잠시라도 투표가 중지됐다가 재개한 투표소는 총 22개소”라고 했다. 17개소는 투표용지가 추가로 송부됐으나 사용하지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;중앙선관위가 함께 배포한 자료에 따르면, 서울 송파·성북·강남·광진·서초·동작·강서구와 부산 중·동·부산진·남·북·금정·수영구, 대구 동·남·북·달서구와 달성군, 인천 연수구, 울산 북·중·남구, 경남 창원시 성산구, 통영시, 함안·남해군 투표소에 투표용지가 부족해 투표용지가 추가로 전달됐다.&lt;br&gt;&lt;br&gt;이 가운데 서울 송파구 12곳, 강남구 4곳, 광진구 2곳, 서초구 1곳과 인천 연수구 3곳 등 22곳에서 투표용지 부족으로 투표가 중단됐었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇윤재수 선거정책실장 브리핑&lt;/b&gt;&lt;br&gt;&lt;br&gt;선거정책실장입니다. 다시 한번 죄송하다는 말씀을 드리면서, 선거일 투표소에서 발생한 투표용지 부족 사고에 대해 브리핑을 하도록 하겠습니다.&lt;br&gt;&lt;br&gt;현재까지 파악한 바에 따르면 투표용지가 부족해서 추가로 투표용지를 송부한 투표소 개수는 전국 1만4288개 투표소 중에서 67개로 파악됩니다. 지역별로는 서울 35개 투표소, 부산 8개, 대구 7개, 인천 6개, 울산 3개, 경남 8개 투표소에서 투표용지를 추가 송부한 것으로 파악했고, 서울 송파구가 15개소로 가장 많았습니다.&lt;br&gt;&lt;br&gt;이 중 실제 투표용지가 부족했던 투표소는 현재까지 송파구 14개를 포함해 50개소로 파악됐습니다.&lt;br&gt;&lt;br&gt;다만 투표용지 부족으로 잠시라도 투표가 중지됐다가 재개한 투표소는 총 22개소로 파악했습니다.&lt;br&gt;&lt;br&gt;투표용지가 추가로 송부는 됐으나 사용하지 않은 투표소는 17개소입니다.&lt;br&gt;&lt;br&gt;향후 투표록의 전수조사 등을 통해 추가 사항이 있는지 등은 진상규명위원회의 조사를 통해 밝힐 예정입니다.&lt;br&gt;&lt;br&gt;제일 궁금해하시는 부분인데요, 투표용지를 100% 인쇄하지 않고 선거인 수의 50%를 기준으로 감축 인쇄한 이유입니다.&lt;br&gt;&lt;br&gt;최근 선거에서 사전 투표율이 지속적으로 증가함에 따라, 사전 투표율이 높은 지역은 투표용지가 과다하게 남는 경향이 있었고, 이후 회수·보관·폐기 과정을 고려할 때, 선거일 투표소에서 사용하는 투표용지를 감축해 인쇄할 필요가 있다는 내부 의견이 있었습니다.&lt;br&gt;&lt;br&gt;그리고 실제 선거일 투표에 사용되는 투표용지는 사전 투표를 한 선거인이 빠지기 때문에, 선거인 수의 100%를 인쇄할 필요는 없는 것입니다.&lt;br&gt;&lt;br&gt;해서 내부 연구 결과와 일선 위원회의 의견을 반영해, 제9회 지방선거 종합 관리 지침에 해당 내용을 포함했고, 편람도 개정했습니다.&lt;br&gt;&lt;br&gt;구체적인 내용은 예상 사전 투표율, 최근 선거의 투표율 등을 감안해 축소 인쇄할 필요가 있다고 인정되는 때에는 구·시·군선관위의 의결로 결정하되, 대통령 선거와 국회의원 선거에서는 선거인 수의 60%를 기준으로, 다른 선거에 비해 투표율이 낮은 지방선거에서는 50%를 하한으로 산정할 수 있되, 지역 실정을 고려해 해당 선거구 또는 투표구별로 조정해 인쇄할 수 있도록 했습니다.&lt;br&gt;&lt;br&gt;투표용지가 부족했던 이유를 서울 송파구의 경우를 예로 들면, 선거일 투표용지 인쇄 매수를 위원회에서 의결해 선거인 수 기준 50%, 일부 투표소의 경우에는 60% 기준으로 인쇄했습니다.&lt;br&gt;&lt;br&gt;사전 투표율이 23.3%였기 때문에, 총 선거인 수 기준으로 보면 73.3% 정도를 인쇄한 것으로 볼 수 있습니다.&lt;br&gt;&lt;br&gt;그런데 최종 투표율이 66% 정도인 점을 감안할 때, 송파구 전체적으로는 투표용지가 부족하지 않았지만, 송파구 관내에는 146개의 투표소가 있습니다. 그래서 투표소마다 선거일 투표자 수에 편차가 있어서 일부 투표소에서 투표용지가 부족했던 것으로 파악됩니다.&lt;br&gt;&lt;br&gt;관내의 투표소별 선거인 수와 사전 투표 결과, 선거일의 투표 진행 상황 등을 종합적으로 감안하지 못해, 투표용지 부족 상황이 발생했는데요, 투표용지 인쇄 매수 산정 기준과 절차를 전반적으로 재검토해 재발 방지 대책을 수립하도록 하겠습니다.&lt;br&gt;&lt;br&gt;다시 한번 사과의 말씀을 드립니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SERM52OHRJBI3ODQCUDJVVS2ZI.JPG?auth=2ada4b52347cefa8a751dad95278272ead8037c9bd1fa651628e820992651eed&amp;smart=true&amp;width=3018&amp;height=1697" type="image/jpeg" height="1697" width="3018">
+        <media:description type="plain">(과천=뉴스1) 구윤성 기자 = 노태악 중앙선거관리위원장이 5일 오후 경기 과천 중앙선관위에서 ‘투표용지 부족 사태’ 관련 대국민 사과에 앞서 고개를 숙이고 있다. 2026.6.5/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(과천=뉴스1) 구윤성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 6일 토요일 (음력 4월 21일 辛亥)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/05/F5TDQY2VQJG5LEFKPGYFRCK4OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/05/F5TDQY2VQJG5LEFKPGYFRCK4OU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>수사당국, 한화에어로 대표·대전사업장장 휴대전화 등 5400점 자료 압수</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/06/05/DLYTGPJLZFDGXJAPCMNX2KE6FU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/06/05/DLYTGPJLZFDGXJAPCMNX2KE6FU/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 07:23:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGZ7PXDKSFLSNA6IKQ2M43G5HM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 대전경찰청 등 수사전담팀이 압수수색을 위해 한화에어로스페이스 대전사업장에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한화에어로스페이스 대전사업장 폭발사고를 수사하는 경찰과 노동당국이 대표이사 및 대전사업장장 등의 휴대전화를 압수하는 등 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;대전경찰청 수사전담팀은 지난 4일 대전지방고용노동청과 함께 진행한 압수수색을 통해 가재웅 대전사업장장 등을 포함한 6명의 휴대전화를 압수했다고 5일 밝혔다. 이 중 한 대는 노동청이 확보한 손재일 대표이사의 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사고가 난 56동 공정의 안전 관리 책임이 있는 팀장급 이상 관계자들 위주로 휴대전화를 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 노동청은 이들 휴대전화 6대에 대한 디지털포렌식 분석을 진행 중이다. 경찰은 압수수색 과정에서 서류 및 전자정보 5400여 점 등도 확보했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 압수수색을 통해 확보한 자료를 분석하고 있다”면서 “관련자 조사 등을 통해 이번 사고의 원인과 책임 소재를 규명하겠다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 4일 경찰과 노동청은 50여 명의 수사관 등을 투입해 한화에어로스페이스 서울 본사와 대전사업장, 대전 R&amp;amp;D 캠퍼스 등에 대한 압수수색을 진행했다. &lt;br&gt;&lt;br&gt;지난 1일 한화에어로스페이스 대전사업장 내 56동 세척공실에서는 원인 미상의 폭발 사고로 5명이 숨지고 2명이 다쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전재수 부산시장 당선인 “시민의 판단 무겁게 받아들여” </title>
+      <link>https://www.chosun.com/national/regional/2026/06/05/7UEFS7GKZZGGJFGXJBM2FF6PEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/05/7UEFS7GKZZGGJFGXJBM2FF6PEY/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 07:17:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTBPZVDCMNKQRJZYJUH7FUWE6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전재수 부산시장 당선인이 5일 부산 연제구 부산시선관위에서 열린 당선증 교부식에서 배우자 최혜진씨와 함께 기념촬영을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 소속 전재수 부산시장 당선인이 6·3 부산시장 선거 이틀 만인 5일 오후 부산시선거관리위원회에서 당선증을 받았다.&lt;br&gt;&lt;br&gt;이날 당선증 교부식에는 전 당선인과 김석준 부산교육감 당선인, 민주당·국민의힘 소속 비례대표 시의원 당선인 등이 참석했다.&lt;br&gt;&lt;br&gt;전 당선인은 “시민의 충직한 일꾼이 되겠다”며 “약속드린 해양수도 부산을 반드시 완성하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “행정, 사법, 기업, 금융을 집적화해 한반도 남단에 부산을 거점으로 하는 성장 엔진을 만들어 대한민국이 직면한 가장 큰 위기인 일극 체제를 극복하겠다”며 “다시 한번 시민의 판단을 무겁게 받아들인다”고 했다.&lt;br&gt;&lt;br&gt;전 당선인은 당선증 교부를 시작으로 인수위원회 구성 등 부산시장 취임 준비를 시작한다.&lt;br&gt;&lt;br&gt;부산시 인수위원회 설치·운영 조례를 보면 인수위는 위원장·부위원장 1명씩을 포함해 20명 내에서 구성할 수 있고 다음 달 20일까지 활동할 수 있다.&lt;br&gt;&lt;br&gt;전 당선인 측은 부산시와 협의해 인수위 사무실 위치 등을 정할 예정이다.&lt;br&gt;&lt;br&gt;부산시는 인수위 요청 시 사무직원을 파견할 수 있고 인수위 사무실, 비품, 차량, 위원 회의 여비 등을 예산으로 지원할 수 있다.&lt;br&gt;&lt;br&gt;전 당선인 측은 다음 주쯤 기자회견을 열어 부산시장직 인수위 운영 방안 등을 발표할 예정이다.&lt;br&gt;&lt;br&gt;이 자리에서 향후 부산시 조직 개편의 기본 원칙과 방향 등을 제시할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TIDGD4L625ES5DAIQCBZB624OQ.jpg?auth=cd9b36ef690e7365cbb461cf1133a339dad103beacba5071e64af35800e3ac40&amp;smart=true&amp;width=4002&amp;height=2251" type="image/jpeg" height="2251" width="4002">
+        <media:description type="plain">&lt;YONHAP PHOTO-5947&gt; 당선증 받아든 전재수
+    (부산=연합뉴스) 손형주 기자 = 더불어민주당 전재수 부산시장 당선인이 5일 부산 연제구 부산시선관위에서 열린 당선증 교부식에서 배우자 최혜진씨와 함께 기념촬영을 하고 있다. 2026.6.5
+    handbrother@yna.co.kr/2026-06-05 15:08:57/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">손형주</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>롯데, 비수도권 유일 부산서 ‘잡카페’ 열어 </title>
+      <link>https://www.chosun.com/national/regional/2026/06/05/HDFKS2367FFRREEI4TJKEC6774/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/05/HDFKS2367FFRREEI4TJKEC6774/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Jun 2026 07:25:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YMXGSFCQBHB3GNGSE5IINISPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;롯데는 5일 부산진구 롯데호텔부산 42층에서 부울경 지역 청년들을 위한 ‘2026 상반기 롯데 잡카페 인 부산’을 개최했다./롯데&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산·울산·경남 지역에 다수의 핵심 사업장을 운영하는 롯데가 지역 우수 인재 발굴을 위해 나섰다. &lt;br&gt;&lt;br&gt;롯데는 5일 부산진구 롯데호텔부산 42층에서 부울경 지역 청년들을 위한 ‘2026 상반기 롯데 잡카페 인 부산’을 개최했다. 이번 행사는 비수도권 가운데 유일하게 부산에서만 진행됐다.&lt;br&gt;&lt;br&gt;이러한 부산 단독 개최의 배경에는 지역 인재를 향한 롯데의 각별한 의지가 담겨 있다. 수도권에 쏠린 채용 행사의 틀을 깨고 부산 지역 청년들에게 양질의 채용 정보를 직접 제공하기로 한 것이다.&lt;br&gt;&lt;br&gt;이번 잡카페에는 롯데백화점, 롯데건설, 롯데호텔, 롯데월드, 롯데정밀화학, 롯데GRS, FRL코리아(유니클로), 롯데글로벌로지스, 롯데이노베이트, 대홍기획 등 총 10개 주요 계열사가 참여했다. 현장에서는 12개 직무에 대해 각 계열사의 채용 담당자와 현직자가 나서 일대일 맞춤형 직무 상담을 진행했다. 구직자들은 멀리 수도권까지 가지 않고도 현지에서 생생한 취업 노하우를 얻을 수 있었다.&lt;br&gt;&lt;br&gt;참가자들의 실전 취업 준비를 돕기 위한 부대 행사도 진행됐다. 취업 면접 특강과 부산 연고 구단인 롯데자이언츠와 FRL코리아(유니클로)는 특별 이벤트 부스를 운영해 다채로운 즐길 거리를 제공했다.&lt;br&gt;&lt;br&gt;롯데는 이번 부산 잡카페와 연계해 지난 2일부터 올해 두 번째 ‘예측 가능한 수시 채용’을 진행하고 있다. 이를 통해 세 자릿수 규모의 신입 사원을 모집한다. &lt;br&gt;&lt;br&gt;롯데 관계자는 “앞으로도 지역 청년들이 수도권으로 향하지 않고도 현지에서 양질의 일자리 정보를 얻고 롯데와 함께 성장할 수 있도록 지원을 아끼지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;롯데는 유통, 관광, 화학, 건설 등 부울경 지역 경제의 핵심적인 역할을 하는 주요 사업장들을 운영하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>檢, 천화동인 7호 실소유주 범죄수익 121억 추징보전</title>
       <link>https://www.chosun.com/national/court_law/2026/06/05/DZCX56VQIRGXHI4MWM3FCCUZMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/05/DZCX56VQIRGXHI4MWM3FCCUZMU/</guid>
@@ -822,126 +956,6 @@
       <description/>
       <pubDate>Wed, 03 Jun 2026 17:58:15 +0000</pubDate>
       <content:encoded>전국 지방자치단체에서 근무하는 5급 이상 여성 공무원 수가 처음 1만명을 넘은 것으로 집계됐다. 5급 이상 지방 공무원 10명 중 4명꼴이다. 5급은 사무관으로 시·군·구의 과장, 읍·면·동장 등을 맡는다. 관리자급에서도 여성 비율이 높아졌다는 뜻이다. 전체 지방 공무원 중 여성 비율은 52%였다.&lt;br&gt;&lt;br&gt;행정안전부는 3일 이 같은 내용의 ‘지방자치단체 공무원 인사통계’를 발표했다. 작년 말 기준 전국 지방 공무원은 31만3924명이었다. 2024년(31만5205명)보다 1281명(0.4%) 줄었다. 반면 여성 공무원은 16만3328명으로 1년 전보다 1618명 증가했다. 여성 공무원이 차지하는 비율은 2024년 51.3%에서 지난해 52.0%로 0.7%포인트 상승했다.&lt;br&gt;&lt;br&gt;특히 5급 이상 여성 공무원이 크게 늘었다. 2024년 9283명에서 지난해 1만518명으로 1235명(13.3%) 증가했다. 전체 5급 이상 공무원 중 여성 비율도 34.7%에서 38.8%로 4.1%포인트 상승했다.&lt;br&gt;&lt;br&gt;지난해 전국 지자체 공무원 중 휴직한 사람은 3만3948명으로 2024년보다 2818명(9.1%) 증가했다. 육아휴직이 2만4266명(71.5%)으로 가장 많았다. 이어 장기요양휴직 7140명(21.0%), 가족돌봄휴직 1659명(4.9%) 순이었다. 행안부 관계자는 “여성 공무원이 증가하고 가족친화적인 문화가 확산하면서 휴직 인원도 증가한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>잠실선 대기표 받으러 500명 줄 서… “포기하고 돌아간 사람 많다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/04/OKBRURJAAZHR7L3FNYU7N6W2HM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/04/OKBRURJAAZHR7L3FNYU7N6W2HM/</guid>
-      <dc:creator>방극렬 기자, 윤성은 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 17:57:53 +0000</pubDate>
-      <content:encoded>6·3 지방선거 본투표가 진행된 3일, 투표 용지가 부족해 투표가 중단된 전국 투표소 10여 곳에선 혼란이 이어졌다. 투표를 하기 위해 한 시간 넘게 대기한 시민들의 항의가 이어졌고, 투표권을 행사하지 못하고 발길을 돌린 유권자도 적지 않았다. 투표 용지 부족 사태가 벌어진 일부 투표소에서는 투표 마감 시간을 오후 6시에서 오후 10시로 연장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTWOHJO5WRH77IKIXQVDYY2HUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 9시 45분 서울 송파구 잠실7동 제2투표소 앞에 투표 용지가 부족해 투표를 못한 주민들이 모여 있다. 이 투표소는 추가 투표 용지가 뒤늦게 도착해 오후 10시까지 투표가 진행됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘에 따르면, 투표 용지 부족으로 투표가 중단된 투표소는 17곳이다. 서울 송파구 투표소 8곳(가락2동 3·7투표소, 문정1동 4투표소, 문정2동 2투표소, 잠실2동 6투표소, 잠실4동 5투표소, 잠실7동 2투표소, 위례동 5투표소), 강남구 2곳(청담동 4투표소, 개포2동 2투표소), 서초구 2곳(잠원동 7투표소, 반포4동 3투표소), 광진구 1곳(구의3동 6투표소), 동작구 1곳(노량진1동 7투표소), 인천 2곳(송도5동 1투표소, 동춘1동 6투표소), 경기 화성 1곳(동탄4동 5투표소) 등이다. 중앙선거관리위원회의 이상능 선거1국장은 “(이번과) 유사한 사례가 과거 발생했다는 보고를 받은 적은 없다”며 “송파구의 경우 전체 유권자 수의 50%만 투표 용지를 인쇄한 것으로 파악된다”고 했다. 총 유권자가 100명이라면 투표 용지를 50장만 인쇄해 놨었다는 얘기다. 조진만 덕성여대 교수는 “투표 용지가 남아도 갈등의 빌미가 있을 수 있기 때문에, 선관위가 용지 수를 보수적으로 집계한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;서울 송파구 잠실2동 6투표소(잠일초교)는 본지 기자가 투표 마감을 7분 남겨둔 오후 5시 53분쯤 찾았을 때 유권자 150여 명이 투표장에 들어가지 못한 채 투표 재개를 기다리고 있었다. 이 투표소는 오후 4시 30분부터 투표가 중단됐고, 선관위 사무원들은 유권자들에게 대기표를 나눠줬다. 투표소를 찾은 잠실2동 선관위원장은 “중앙선관위에서 투표 용지 50장을 받아 우선 50명부터 투표를 진행하고, 나머지 인원은 대기 후 순차적으로 투표하도록 하겠다”고 했다. 그러자 유권자들은 “이미 기다리다 돌아간 사람도 많은데 50명을 무슨 기준으로 정하느냐” “먼저 온 사람 순서를 어떻게 확인하느냐”며 반발했다. 같은 학교 다른 투표소인 잠실2동 5투표소도 투표가 중단됐는데, 이 투표소는 국민의힘이 발표한 투표 중단 투표소 17곳에 포함되지 않은 곳이다.&lt;br&gt;&lt;br&gt;잠실 우성아파트 단지 안에 설치된 잠실7동 2투표소는 오후 4시부터 투표가 중단됐다. 이곳에선 투표 마감을 15분 앞둔 오후 5시 45분 유권자 500여 명이 투표소 앞에 대기하고 있었다. 선관위 측이 대기표를 200장만 준비하는 바람에 나머지 유권자들은 대기표를 받으려고 대기하는 일까지 벌어졌다. 이 투표소에서는 오후 10시까지 투표가 진행됐다. 이미 다른 지역에선 개표가 한창 진행 중인 상황이었다. 오후 10시 25분쯤엔 시민 수십 명이 몰려와 “개표 무효! 선거 무효! 선관위 해체!”라는 구호를 외치기도 했다. &lt;br&gt;&lt;br&gt;이날 잠실7동 2투표소에선 투표가 끝나고도 유권자 200여 명이 투표함 반출을 막아 자정 넘는 시간까지 실랑이를 벌였다. 4일 0시 30분 선관위 요청으로 투표소 현장에 배치됐던 경찰 120명은 1시 50분쯤 투표소로 진입하려다 이에 저항하는 유권자와 대치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUWK5SQY3RFVXIYHZSUCVEI4JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 송파구 잠실2동 6투표소에서 투표 용지가 떨어져 대기표를 받고 기다리는 주민들. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 투표 용지 부족 사태가 발생한 일부 투표소에서는 선관위 측이 투표 용지를 지퍼백이나 쇼핑백 등에 담아 오는 모습이 목격돼 유권자들이 “지퍼백 선거냐”라며 반발했다. 한 50대 여성은 “2022년 대선 때는 소쿠리에 담아 투표 용지를 옮기더니, 이번에는 지퍼백에 담아 오냐”며 “믿을 수 없는 선거”라고 말했다.&lt;br&gt;&lt;br&gt;오후 5시 서울 강남구 청담 제4투표소에 도착한 한 여성(48)은 한 시간 넘게 기다렸다가 투표를 못 하고 돌아섰다. 이 여성은 “투표소 밖에서 줄을 서 있었는데 오후 6시가 돼서야 ‘대기표가 없으면 투표를 못 한다’고 안내했다”며 “선관위 직원과 실랑이를 벌이다가 투표를 포기했다”고 했다.&lt;br&gt;&lt;br&gt;오후 6시 30분쯤 한 여성이 10개월 된 아기를 안고 송파구 가락2동 제3투표소를 찾았다. 이 여성은 30분 넘게 기다리다가 선관위 직원이 “투표 마감 시한인 6시 이전에 대기표를 받은 사람만 투표할 수 있다”고 안내해 투표를 하지 못하고 귀가했다고 한다. 이 투표소에서는 대기표를 받고도 순서를 놓쳐 투표하지 못한 유권자도 여럿 있었다.&lt;br&gt;&lt;br&gt;법률 전문가들은 “선관위의 준비 부족이 유권자의 선거권을 침해했다”고 했다. 법조계에선 선관위의 중대한 잘못이 드러날 경우 선거 무효 소송이 잇따를 수 있다는 전망도 나온다. 수도권의 한 고등법원 부장판사는 “투표를 못 한 유권자가 몇 명인지 따져봐야겠지만, 투표권을 행사하지 못한 유권자가 나온 순간 선관위의 법적 책임이 생긴 것”이라며 “선거 무효 소송 등 법적 분쟁이 벌어질 가능성이 있어 보인다”고 했다. 다만 일각에선 용지 부족으로 투표하지 못한 유권자 수가 1·2위 후보자 득표 차보다 적다면 소송으로 가더라도 선거가 무효로 판정될 가능성은 크지 않을 수 있다는 분석도 내놨다.&lt;br&gt;&lt;br&gt;이런 가운데 4일 0시 30분쯤 투표 용지 부족 사태에 반발한 500여 명(경찰 추산)이 경기도 과천시 중앙선관위 청사로 몰려가 진입을 시도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부정선거 주장 시위대 500여명, 과천 선관위 집결</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/04/T54W6LNBQBENHCJ4YWZRFESMAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/04/T54W6LNBQBENHCJ4YWZRFESMAI/</guid>
-      <dc:creator>지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 17:15:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2V6QYVFOTRLJ3LLBHTIHNCBXQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[과천=뉴시스] 조성봉 기자 = 4일 경기 과천시 중앙선거관리위원회 앞에서 시민들이 제9회 전국동시지방선거 투표용지 부족 사태와 관련해 항의하며 진입을 시도하고 있다. 2026.06.04. suncho21@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제9회 지방선거 본투표가 진행된 3일 발생한 투표용지 부족 사태와 관련해 부정선거를 주장하는 시위대가 경기 과천 중앙선거관리위원회 청사 앞으로 속속 집결하고 있다.&lt;br&gt;&lt;br&gt;4일 본지 취재를 종합하면 한국사 강사 출신 보수 유튜버 전한길씨를 비롯한 시위대 500여 명(경찰 추산)이 이날 0시 30분쯤 경기도 과천시 중앙선관위 앞에 모였다. 이들은 선거 무효를 주장하며 항의 시위를 벌이고 있다.&lt;br&gt;&lt;br&gt;전 씨는 “전국에서 부정선거 증거가 넘쳐나고 있다”며 “서울에서 투표용지가 부족했다고 이번 문제를 서울에 국한하려 하지만, 인천에서도 투표용지가 부족했다”고 밝혔다. 전씨는 “전국 모든 지역의 투표가 무효”라고 주장했다.&lt;br&gt;&lt;br&gt;태극기와 성조기를 든 시위대는 ‘부정선거 입법독재’ 등의 문구가 적힌 플래카드를 흔들며 “선거 무효”, “개표 중단” 등의 구호를 외치고 선관위 정문 개방을 요구하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QG3W2SBY4JNBVJ65V6UTGGI7MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[과천=뉴시스] 조성봉 기자 = 유튜버 전한길씨가 4일 경기 과천시 중앙선거관리위원회 앞에서 제9회 전국동시지방선거 투표용지 부족 사태와 관련해 항의하고 있다. 2026.06.04. suncho21@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 전씨는 서울 광화문 정부서울청사에서 시위한 뒤 과천 중앙선관위로 자리를 옮겨 먼저 집회 중이던 시위대 100여 명과 합류했다. 전씨는 개인 방송을 통해 “중앙선관위 앞으로 모여달라”며 지지자들의 집결을 독려하고 있다.&lt;br&gt;&lt;br&gt;시간이 흐를수록 현장 인원이 늘어남에 따라 경찰은 만일의 충돌 사태에 대비해 기동대 등 경찰 200여 명을 배치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광화문 500명 모여 ‘부정선거’ 항의 시위</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/04/VYLTVMQS7VHWFA26J47SCBOEL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/04/VYLTVMQS7VHWFA26J47SCBOEL4/</guid>
-      <dc:creator>지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:50:59 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O45LG3N5ZRM73M75MOSCJM76BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 종로구 광화문광장에서 시민들이 제9회 전국동시지방선거 투표용지 부족 사태 관련 부정선거·개표중지·선거 무효 등을 주장하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거가 부정선거라고 주장하는 시위대가 3일 오후 서울 광화문 정부서울청사 앞 광장에 집결했다. 본지 취재를 종합하면 경찰 비공식 추산 약 500명 규모 부정선거 시위대는 이날 늦은 오후 광화문 광장에 모여 투표용지 부족 사태 등에 대한 항의 시위를 벌였다.&lt;br&gt;&lt;br&gt;이들은 “부정선거 원천무효”, “개표 중단하라” 등의 구호를 외치고 성조기와 태극기를 흔들었다. 기동대원들은 만일의 사태에 대비해 정부청사 앞을 가로 막았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNLAJWU355M5XESUQ6SW7V6KYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 경기 과천시 중앙선거관리위원회 앞에서 시민들이 제9회 전국동시지방선거 투표용지 부족 사태와 관련해 항의하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 한국사 강사 전한길씨가 개인 방송을 통해 “선거 결과는 무효다. 광화문으로 모여달라”고 요구했고, 이후 과천 선관위 앞으로 집결지를 변경했다. &lt;br&gt;&lt;br&gt;이에 시위 인파는 과천으로 향했고, 일부는 광화문 광장에 남아 시위를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [한입 테크 사전] 챗GPT가 영화 1만편 분량 데이터를 단숨에 읽어내는 비밀은 무엇일까요?</title>
-      <link>https://www.chosun.com/national/nie/2026/06/04/CFF6S5SCUZA25PAFDHUYQZZDJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/04/CFF6S5SCUZA25PAFDHUYQZZDJE/</guid>
-      <dc:creator>박상길 디노티시아 LLM 팀장·'비전공자도 이해할 수 있는 챗GPT' 저자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>요즘 챗GPT·제미나이처럼 사람과 대화하는 인공지능(AI)이 큰 인기를 끌고 있어요. 질문을 입력하면 마치 사람처럼 술술 답을 적어 내려가지요. 그런데 이 똑똑한 AI가 단어 하나를 만들어 내기 위해 얼마나 많은 데이터를 읽어 들이는지 알면 깜짝 놀랄 거예요. 무려 영화 25편 분량이랍니다. 어떻게 이런 일이 가능할까요? &lt;br&gt;&lt;br&gt;컴퓨터에서 메모리는 데이터를 잠깐 저장해 두는 공간이에요. 우리가 책을 읽을 때 책상 위에 책을 펼쳐 두는 것과 비슷해요. 그런데 인공지능은 한꺼번에 어마어마하게 많은 책을 펼쳐 봐야 합니다. 일반 책상(메모리)은 금방 책으로 꽉 찰 거예요. 이 문제를 해결한 비밀이 바로 ‘HBM(High Bandwidth Memory)’이라는 특별한 메모리 반도체에 숨어 있어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BD6ZXIW4FBE5JE3JBR5GD6YNZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 일러스트=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;챗GPT가 단어 하나를 출력하기 위해 읽어 들이는 데이터는 약 350기가바이트(GB)라고 알려져 있어요. 2시간짜리 고화질 영화 한 편이 약 14GB 정도이니, 단어 하나를 말하기 위해 영화 25편 분량의 데이터를 단숨에 읽어들이는 셈이지요. 더 놀라운 건 챗GPT가 한 번 대화할 때 보통 500단어 정도를 출력한다는 점이에요. 그러면 영화 1만 2500편 분량의 데이터를 계속해서 읽어들이는 것과 같답니다.&lt;br&gt;&lt;br&gt;이렇게 엄청난 양의 데이터를 매번 빠르게 읽어들이려면, 메모리도 보통보다 훨씬 더 빨라야겠지요? 그래서 등장한 것이 바로 HBM이에요. HBM은 우리말로 고대역폭 메모리라고 해요. 대역폭이라는 말이 어렵게 느껴질 텐데요. 데이터가 다니는 길의 폭, 즉 ‘넓이’라고 생각하면 쉽답니다.&lt;br&gt;&lt;br&gt;도로를 떠올려 볼까요? 차선이 1개인 좁은 도로에서는 한 번에 차 1대만 지나갈 수 있어요. 하지만 차선이 8개인 넓은 고속도로라면 한 번에 차 8대가 동시에 지나갈 수 있어요. HBM은 바로 이렇게 차선을 아주 많이 늘려, 데이터를 한꺼번에 잔뜩 보낼 수 있게 만든 메모리 반도체예요.&lt;br&gt;&lt;br&gt;또 다른 비밀은 메모리를 쌓아 올렸다는 점이에요. 우리가 평소 쓰는 메모리는 얇은 판 한 장이 컴퓨터 안에 평평하게 누워 있어요. 반면 HBM은 그 판을 아파트처럼 위로 보통 8·12층씩 쌓아 올린 모양이랍니다. 아파트 층마다 엘리베이터가 오르내리는 것처럼 위아래 층이 촘촘히 연결돼 있어, 같은 자리에서 훨씬 더 많은 데이터를 동시에 주고받을 수 있어요.&lt;br&gt;&lt;br&gt;인공지능 계산에는 그래픽 처리 장치(GPU)라는 특별한 칩이 쓰여요. GPU는 원래 게임 화면처럼 복잡한 그림을 빠르게 그리기 위해 만들어졌는데, 한꺼번에 수많은 계산을 동시에 처리할 수 있어서 인공지능 계산에도 안성맞춤이지요. 그런데 GPU가 아무리 빨라도, 옆에 붙은 메모리가 데이터를 제때 보내 주지 못하면 소용이 없어요.&lt;br&gt;&lt;br&gt;그래서 요즘 인공지능에 쓰이는 최신 GPU에는 거의 모두 HBM이 함께 들어간답니다. 전 세계 HBM 시장의 대부분은 SK하이닉스와 삼성전자 등 한국 기업이 차지하고 있어, 인공지능 시대의 숨은 주인공이라고 불려요. 특히 SK하이닉스는 HBM을 세계 최초로 개발한 기업이기도 하지요. 우리가 매일 쓰는 챗GPT 한 줄 한 줄 뒤에, 한국에서 만든 작은 반도체가 묵묵히 일하고 있다는 사실, 정말 멋지지 않나요?&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책] 잠을 줄이는 것은 ‘느린 안락사’, 뇌 기능 파괴하고 수명 갉아먹죠</title>
-      <link>https://www.chosun.com/national/nie/2026/06/04/Q4R52HK22VAZPEBZYMRLG5NYQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/04/Q4R52HK22VAZPEBZYMRLG5NYQA/</guid>
-      <dc:creator>이진혁 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWPHEDDDCBEBXHEBEV44DEO464.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;매슈 워커 지음 l 이한음 옮김 l 출판사 열린책들 l 가격 2만3000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;밤 11시. 숙제도 아직 남았고 재미있는 영상도 하나 더 보고 싶습니다. ‘조금만 더 보고 자야지’ 하다가 어느새 자정을 훌쩍 넘기기 일쑤죠. 다음 날 아침, 천근만근 무거운 몸을 이끌고 학교에 가며 대수롭지 않게 말합니다. “주말에 몰아서 자면 되지, 뭐.”&lt;br&gt;&lt;br&gt;하지만 세계적인 수면 전문가인 저자는 이 익숙한 생각에 단호하게 고개를 젓습니다. 밀린 잠은 나중에 은행 빚 갚듯 한꺼번에 갚을 수 있는 게 아니기 때문이죠. 저자는 잠을 줄이는 행위가 뇌 기능을 파괴하고 수명을 갉아먹는 “느린 형태의 자기 안락사”라고 강하게 경고합니다.&lt;br&gt;&lt;br&gt;우리는 흔히 깨어 있는 시간을 ‘생산적인 시간’, 자는 시간을 ‘버려지는 시간’이라고 생각합니다. 진화의 관점에서 봐도 잠은 이상한 행동입니다. 자는 동안엔 먹을 수도, 도망칠 수도 없어 천적의 위협에 무방비로 노출되니까요.&lt;br&gt;&lt;br&gt;그럼에도 수많은 동물이 잠을 자는 이유는 수면이 단순한 휴식이 아니라 ‘나’라는 존재의 운영 체제를 업그레이드하는 시간이기 때문입니다. 잠이 부족하면 면역력이 떨어져 암 발병률이 두 배로 치솟고 치매 위험이 커져요. 또 감정을 조절하는 뇌 영역이 고장 나 평소 같으면 웃어넘길 작은 일에도 쉽게 폭발하게 됩니다.&lt;br&gt;&lt;br&gt;특히 청소년들은 시험 기간이면 잠부터 줄여 공부 시간을 늘리려 합니다. 하지만 이 책에 따르면, 잠을 줄여서 공부하는 것은 도리어 공부를 망치는 지름길입니다. 깨어 있는 동안 벼락치기로 머릿속에 밀어 넣은 지식은 금방 지워지는 ‘임시 보관함’에 아슬아슬하게 놓여 있습니다. 우리가 깊은 잠에 푹 빠져들 때 비로소 이 지식들이 뇌의 장기 기억 저장소로 옮겨져 진짜 내 실력이 되지요.&lt;br&gt;&lt;br&gt;나아가 꿈을 꾸는 잠은 고통스러운 기억의 날카로운 감정을 다독이는 야간 심리 치료사 역할을 한답니다. 흩어져 있던 지식들을 이어 붙여 번뜩이는 창의성 무대가 되기도 하죠.&lt;br&gt;&lt;br&gt;물론 10대들이 잠들지 못하는 것이 온전히 의지 부족이나 유혹을 이기지 못해서만은 아닙니다. 사춘기가 되면 몸속 생체 시계가 뒤로 밀리면서, 밤이 왔음을 알리는 멜라토닌의 분비 시점도 어른보다 늦어집니다. 그래서 저자는 청소년에게 밤 10시에 자라고 하는 것은 어른에게 저녁 7시에 자라고 강요하는 것과 같다고 꼬집습니다.&lt;br&gt;&lt;br&gt;하지만 늦은 밤까지 놓지 못하는 스마트폰 화면은 멜라토닌 분비를 억제해 뇌가 아직 낮이라고 착각하게 만듭니다. 유전적 시차가 있는 데다, 디지털 기기들마저 우리의 수면을 집요하게 방해하고 있는 셈입니다.&lt;br&gt;&lt;br&gt;충분히 자는 일이야말로 더 잘 배우고, 더 잘 느끼고, 더 건강하게 살기 위한 가장 훌륭한 선택입니다. 이 책을 읽으면 잠자리에 드는 일이 조금은 다르게 보일 것입니다. 잠은 하루의 끝에 밀려나는 시간이 아닙니다. 내일의 나를 준비하는 가장 강력한 방법입니다. 그러니 졸리지 않더라도, 충분히 자야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 조선의 무관 시호 ‘충무’, 이순신 외에도 11명 받았어요</title>
-      <link>https://www.chosun.com/national/nie/2026/06/04/ZMC5JN3ECRG7NIAIKNDRCNSX6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/04/ZMC5JN3ECRG7NIAIKNDRCNSX6Q/</guid>
-      <dc:creator>이한 작가·'한잔 술에 담긴 조선' 저자, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>우리가 잘 아는 ‘충무공 이순신’ 장군 외에도 조선 시대에 ‘충무공’이라는 이름을 받은 영웅이 11명이나 더 있었다는 사실, 알고 계셨나요? 6월 호국보훈의 달을 맞아, 나라를 지킨 이들에게 국가가 내린 가장 특별한 영예이자 역사적 성적표였던 ‘충무’라는 ‘시호(諡號)’의 비밀을 살펴보겠습니다. 동아시아에서는 죽은 사람의 한평생을 평가하고, 그의 인생에 맞는 글자를 골라 특별한 이름을 내려줬는데 이를 ‘시호’라고 부르죠. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNXI75MUAJAW5DWVUWPIUYSIKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수 양제(가운데)의 모습을 담은 그림입니다. '양(煬)'은 지나치게 사치스럽고 폭군처럼 백성을 괴롭혔다는 뜻을 담은 시호예요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;수나라 양제, ‘양’은 폭군을 의미&lt;/b&gt;&lt;br&gt;&lt;br&gt;시호의 기원은 고대 중국으로 거슬러 올라갑니다. 왕이나 제후가 죽은 다음, 그의 일생을 평가해서 잘 다스린 왕에게는 ‘문(文)’ ‘성(成)’ 등의 글자를, 반대로 나라를 망친 왕에게는 ‘영(靈)’ ‘양(煬)’ 같은 글자를 시호로 줬습니다. ‘문(文)’은 보통 학문을 숭상하고 교양 있게 나라를 통치했다는 의미예요. ‘성(成)’은 큰 업적을 이루거나 나라를 안정적으로 발전시켰다는 뜻입니다. 반면, ‘영(靈)’은 변덕스럽고 이상한 일을 많이 벌였다는 부정적 의미를 갖고 있으며, ‘양(煬)’은 지나치게 사치스럽고 폭군처럼 백성을 괴롭혔다는 뜻이죠. 무리한 고구려 정벌과 사치로 나라를 망쳤다고 평가받는 수나라 양제의 시호에도 ‘양(煬)’ 자가 들어갑니다.&lt;br&gt;&lt;br&gt;시호 제도는 우리나라에선 삼국 시대 즈음 신라에서 사용되기 시작해 조선 때 적극적으로 사용됐습니다. 조선에서 시호를 정할 때는 당대 최고 학자들이 모인 홍문관에서 죽은 사람의 일생을 평가하고 그에 가장 어울리는 글자를 골랐습니다. 같은 사람이어도 누구에게는 좋은 사람일 수 있고, 다른 이에게는 나쁜 사람일 수가 있었기 때문에 때로는 치열한 논쟁이 벌어지기도 했습니다. 결국 시호는 죽은 사람을 세상이 어떻게 기억하느냐는 지표였고, 때로는 왕조차도 신하들의 여론을 함부로 뒤집을 수 없었습니다.&lt;br&gt;&lt;br&gt;시호는 원래 정2품 이상의 높은 관리들만 받을 수 있었습니다. 하지만 시대가 변하면서 이보다 지위가 낮다 해도 특별한 학문적 성취를 이루거나, 무엇보다 나라를 위해 목숨을 바쳐 싸운 사람들에게도 시호가 주어졌습니다. 이렇게 시호를 내리는 규정이 바뀌게 된 것은 조선이 임진왜란과 병자호란이라는 치열한 전쟁을 거치면서 나라를 위해 목숨을 바친 영웅들을 최대한 기리기 위해서였다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPLIJPONYBABNCAISFXRSU5NQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충무공 이순신의 초상화. 조선의 충무공은 이순신을 포함해 총 12명이랍니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;무관이 받을 수 있는 가장 영광스러운 시호&lt;/b&gt;&lt;br&gt;&lt;br&gt;신하들이 받을 수 있는 시호는 굉장히 다양했지만, 그중 무관들이 받을 수 있는 가장 영광스러운 시호 중 하나는 ‘충무’였습니다. 나라에 충성을 다한다는 ‘충(忠)’, 그리고 뛰어난 무력을 가졌다는 ‘무(武)’ 두 가지 좋은 글자가 함께 있기 때문입니다. 그래서 역사적으로도 충무 시호는 매우 위대하다고 평가받는 인물들이 가졌습니다. 삼국지에서 촉나라의 기둥이었던 제갈공명이나, 남송을 지탱했던 위대한 장군 악비 같은 인물들도 충무 시호를 받았죠.&lt;br&gt;&lt;br&gt;그중 가장 유명한 사람은 충무공 이순신이지요. 이순신은 임진왜란 때 조선 육군이 연패하는 동안 옥포대전을 시작으로 거의 모든 해전을 승리로 이끌었습니다. 도중 누명을 쓰고 잠시 파직되기도 했지만, 조선 수군이 궤멸의 위기에 빠졌을 때 명량대첩에서 겨우 13척의 배를 이끌고 수백 척 배를 가진 왜군을 이겼습니다. 이순신이 ‘신에게는 아직 12척의 배가 남아 있사옵니다’라고 올린 보고 때문에 12척의 배로 싸운 것으로 생각하지만, 실제 명량대첩에는 수리를 마친 배 1척이 추가되면서 총 13척이 투입됐다고 해요. &lt;br&gt;&lt;br&gt;이순신이 충무라는 시호를 받은 건 임진왜란의 마지막 전투인 노량해전(1598년)에서 전사한 지 무려 45년 뒤인 인조 21년이었습니다. 이순신 장군은 생전 모함으로 옥살이를 하고 백의종군(벼슬 없이 군대를 따라 싸움터로 감)을 하는 등 우여곡절을 겪었고, 임진왜란 이후 조선의 정국도 혼란스러웠습니다. 이런 여러 사정 속에 시호가 내려지기까지 오랜 시간이 걸린 것이지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XK4EPKKL4VHJTBMMTRWD2MU6JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 진주에 있는 충무공 김시민 동상이에요. 김시민은 임진왜란 3대 대첩 중 하나인 진주대첩을 승리로 이끌었죠.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGZWHUJZLFH7FGC6UMU7E4S4EA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충무공 정충신의 영정이에요. 정충신은 신분이 낮았지만 무과에 합격해 정묘호란 때 장군으로 활약했어요. /위키피디아•한국민족문화대백과사전&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;‘충문’ 시호를 받은 대표 인물은&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리에게 익숙한 충무공 이순신을 포함해 조선 역사상 충무 시호를 받은 인물은 총 12명입니다. 임진왜란 3대 대첩(한산도 대첩·행주대첩·진주대첩) 중 하나인 진주대첩에서 싸운 김시민의 시호도 충무공입니다. 김시민은 관군·백성 연합군 약 4000명을 이끌며 3만명의 일본군과 싸워 진주를 지켜냈습니다. 이 덕분에 일본이 호남 지역을 점령하지 못하고, 전쟁의 흐름이 조선에 유리하게 바뀌었죠. 비록 김시민은 이 전투에서 전사했지만, 진주대첩을 승리로 이끈 덕에 전라도의 곡창지대를 지켜낼 수 있었습니다. 결국 김시민도 충무공이 돼 그의 업적이 오늘날까지 기억되고 있죠.&lt;br&gt;&lt;br&gt;또 한 명의 유명한 충무공은 정충신입니다. 정충신은 원래 신분이 낮아 높은 벼슬길에 오르기 어려웠어요. 어린 시절에는 권율 장군의 부대에서 심부름을 하며 지냈는데, 어느 날 적의 움직임을 알리는 중요한 편지를 목숨을 걸고 전달해 사람들을 놀라게 했다고 해요. 이를 계기로 권율은 정충신의 용기와 재능을 높이 평가했습니다. 이후 정충신은 학문과 무예를 꾸준히 익혔고, 결국 무과에 합격한 정충신은 정묘호란 때 최고위급 장군으로 활약하며 나라를 지켜 충무 시호를 받았습니다.&lt;br&gt;&lt;br&gt;한편, 칼이 아닌 붓으로 위대한 업적을 남긴 사람에게 주어진 시호에는 ‘문성(文成)’과 ‘충문(忠文)’ 등이 있습니다. 특히 ‘충문’은 ‘충무’와 짝을 이루죠. 문성 시호는 한반도에 처음 성리학을 소개한 안향과 조선을 대표하는 유학자 율곡 이이가 받았습니다. 충문 시호를 받은 대표적 인물은 성삼문이에요. 삼촌인 수양대군(훗날의 세조)에게 사실상 왕위를 빼앗기고 폐위된 단종의 복위를 꾀하다가 처형당한 충신 여섯 명을 ‘사육신’이라고 부르는데요. 성삼문은 사육신 중 한 명이었습니다. 숙종 때 단종이 복권되면서 사육신을 비롯한 신하들도 시호를 받게 됩니다. 시대를 가리지 않고 옳은 일을 한 사람들의 이름을 역사가 영원히 기억하도록 하자는 나라의 메시지였던 셈이죠.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2879] 날씨 따라 삼천리</title>
-      <link>https://www.chosun.com/national/nie/2026/06/04/ADLRF7YFNZGXLAWMVGFPLKJUUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/04/ADLRF7YFNZGXLAWMVGFPLKJUUE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GI675L5RVAGBMRBBRXT2OG62U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] (계획·예산 집행 등을) 뒤로 미루다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/06/04/FQZBITDSXVERVJVPBZGHX7JYEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/06/04/FQZBITDSXVERVJVPBZGHX7JYEY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF5XAIBJN5BCBFTANPWK5GTTQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] It takes one to know one.</title>
-      <link>https://www.chosun.com/national/nie/english/2026/06/04/JMNPXZEOBVAYXIB2RVC7YAEYMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/06/04/JMNPXZEOBVAYXIB2RVC7YAEYMU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWRI52K7RBBEFMBFN674VAU6ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 난파선(難破船)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/06/04/MAKYVP27NFD75PPL5X4R7FFHGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/06/04/MAKYVP27NFD75PPL5X4R7FFHGE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTOFKR6E5BFCTMF67H6TPDLMYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 질투쟁이</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/06/04/67HL5YT32FFRNII7A2SWK5NTHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/06/04/67HL5YT32FFRNII7A2SWK5NTHI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZLYZXPDCJAJHIVZQTTPRCPIGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘투표용지 부족 사태’... 2021년 獨 베를린은 재선거</title>
-      <link>https://www.chosun.com/politics/election2026/2026/06/03/UIOIHUWBGJBNVGSTJCEVUDOZOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/03/UIOIHUWBGJBNVGSTJCEVUDOZOI/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 12:53:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBVVGRJTJVMIDKCHSAM5PLASHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;독일 베를린주 헌법재판소 결정으로 시의원·구의원 전체 재선거가 실시된 2023년 2월 12일, 독일 베를린의 한 투표소에서 유권자들이 기표를 하고 있다. /로이터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독일에서는 2021년 9월 26일 수도 베를린에서 치러진 선거에서 심각한 문제가 발견돼, 소송을 통해 선거가 무효화되고 2년 뒤 재선거가 치러지는 일이 벌어졌다. 이로 인해 시장이 바뀌었고, 각 당의 국회 의석 수에도 변동이 생겼다. 한국의 시·도선관위원장에 해당하는 베를린주 선거 책임자는 사퇴했다.&lt;br&gt;&lt;br&gt;당시 베를린에서는 총선과 지방선거 투표, 주민 투표가 한꺼번에 진행됐다. 투표소에 온 유권자들은 한국의 국회의원에 해당하는 연방하원의원을 뽑는 선거와 시의원·구의원 선거, 주민 투표를 위해 5가지 투표용지의 6가지 항목에 기표해야 했다.&lt;br&gt;&lt;br&gt;그런데 베를린주 선관위의 준비 부실로, 수많은 유권자가 투표를 못 하거나, 효력이 없는 투표용지를 받아 투표하는 일이 벌어졌다. 먼저 선관위가 유권자 한 사람이 투표를 하는 데 걸리는 시간을 잘못 예측하고 기표소를 턱없이 적게 준비한 탓에, 유권자들이 투표소 밖에 줄을 서서 몇 시간씩 기다려야 했다. 다른 선거구로 갔어야 할 투표용지가 잘못 전달돼, 유권자들이 자기 선거구와 무관한 후보자가 적힌 투표용지에 기표를 하기도 했다.&lt;br&gt;&lt;br&gt;이번 서울시 선거에서 벌어진 것과 같은 투표용지 부족 사태도 있었다. 선관위가 유권자 수보다 투표용지를 적게 준비했고, 이 때문에 투표용지가 부족해진 투표소가 속출했다. 이런 투표소들은 운영을 일시 중단했다가 나중에 재개해, 법정 투표 종료 시각인 오후 6시 넘어서까지 투표를 받았다. 일부 유권자는 출구 조사 결과가 보도된 상황에서 투표했다. 투표소 측에서 투표용지를 임의로 복사기로 복사해 배부하기도 했는데, 이 투표용지에 기표한 유권자들의 표는 무효가 됐다.&lt;br&gt;&lt;br&gt;야당들이 선거 결과에 이의를 제기했고, 베를린주 헌법재판소는 시의원·구의원 선거 전체가 무효라고 판단했다. 베를린주 헌재는 “단 몇 명이 아니라 수천 명의 유권자가 투표를 하지 못했거나, 유효하게 투표하지 못했거나, 부당한 조건에서 투표했거나, 외부 영향 없이 투표할 수 없었다”고 지적하면서 “베를린주 헌법에 명시된 선거의 자유, 보편성, 평등의 원칙을 침해했다”고 지적했다.&lt;br&gt;&lt;br&gt;베를린주 헌재는 특히 투표용지 부족으로 투표소 운영이 중단된 것에 대해 “투표를 기다리던 유권자들은 투표소가 언제 다시 문을 열지 알 수 없는 상황이었다”고 했다. 또 “긴 대기 줄과 (투표소 운영) 중단으로 투표가 불가능할 것으로 판단하고 집으로 돌아가버린 유권자가 몇 명인지 파악하는 것은 불가능하다”고 지적했다. 베를린주 헌재는 한편 투표함에 투입된 184만여 표 가운데 2만~3만표에 문제가 있었다고 추정하면서도 “일부 선거구에서는 100여 표만 다르게 집계됐더라도 의석 배분을 바꾸기에 충분했을 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;연방헌법재판소도 베를린 2256개 선거구 가운데 455개 선거구의 총선 결과를 무효화하고 재선거를 하도록 했다. 연방헌재는 특히 일부 투표소의 운영이 일시 중단된 것이 ‘공개 선거의 원칙’에 어긋난다고 지적했다. 공개 선거의 원칙이란, 선거의 모든 과정이 일반인이 쉽게 이해할 수 있도록 투명해야 하고, 선거 과정에 의혹이 제기되는 경우 이를 심사할 수 있어야 한다는 원칙이다. 다만 연방헌재는 선거의 결함이 결과를 바꿀 정도여야만 선거가 무효가 될 수 있다고 봤다. 이 때문에 연방헌재는 베를린의 전체 선거구가 아니라 결함이 구체적으로 확인된 일부 선거구에 대해서만 재선거를 실시하라고 결정했다.&lt;br&gt;&lt;br&gt;두 헌재의 결정에 따라 2023년 2월 12일 먼저 시의원·구의원 재선거가 치러졌다. 베를린 유권자들은 2021년 선거에서는 패했던 야당 기독교민주당에 표를 몰아줬고, 그 결과 시의회 다수당이 바뀌면서 시장까지 바뀌었다. 베를린 시장은 유권자들이 직선하지 않고 시의회에서 선출하기 때문이다. 이듬해 2월 11일에는 베를린 일부 선거구에서 총선이 다시 치러져, 4개 당의 연방하원 의석 수가 바뀌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AHL4XXKXUNHXDMG2G27TCU7K6E.gif?auth=39afcfb149feaca2be7bf02a1fdd33cb14608020e40246708e0a7ca2f45119f5&amp;smart=true&amp;width=1000&amp;height=667" type="image/jpeg" height="667" width="1000">
-        <media:description type="plain">일 오후 투표용지 부족으로 투표시간이 연장된 서울 송파구 잠실7동 제2투표소 앞에 시민들이 모여 있다./ 뉴시스 뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보]잠실7동 투표소 앞 주민 200명 몰려… 투표함 반출 두고 대치</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/03/PNGM7LP3MZBANPIABAUUEI3Q4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/03/PNGM7LP3MZBANPIABAUUEI3Q4I/</guid>
-      <dc:creator>원종빈 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 14:12:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHL4XXKXUNHXDMG2G27TCU7K6E.gif"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 투표용지 부족으로 투표시간이 연장된 서울 송파구 잠실7동 제2투표소 앞에 시민들이 모여 있다./ 뉴시스 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투표용지 부족 사태가 발생한 서울 송파구 잠실7동 제2투표소에서 3일 밤늦게까지 현장 혼란이 이어졌다. 이 투표소는 투표용지 부족으로 오후 6시 전 도착해 대기표를 받은 유권자를 대상으로 오후 10시까지 투표를 진행했다.&lt;br&gt;&lt;br&gt;이날 오후 9시 50분쯤 투표소 앞에는 투표 종료 상황을 지켜보려는 시민들이 모였다. 투표소 뒷문 주변에도 시민 20명가량이 대기했다. 오후 9시 52분쯤까지 추가로 투표한 유권자는 부부 2명과 70대 여성 1명 등 총 3명이었다.&lt;br&gt;&lt;br&gt;오후 9시 54분쯤에는 한 여성 유권자가 투표소를 찾았지만, 대기표가 없다는 이유로 투표하지 못하고 돌아갔다. 이 여성은 오후 6시 전 투표소에 왔었다고 했지만 대기표는 받지 못한 것으로 전해졌다. 오후 10시 9분쯤에도 여성 2명이 투표소를 찾았으나 투표하지 못하고 발길을 돌렸다. 이들은 “기사를 보고 이곳에서는 밤 10시까지 투표할 수 있는 줄 알고 왔다”며 “송파구 내 다른 투표소에서 투표용지가 부족해 투표하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;투표 종료 이후에는 투표함 반출과 개표 절차를 둘러싼 항의가 이어졌다. 오후 10시 25분쯤부터 투표소 정문 앞에 모인 시민들은 “선거 무효” “개표 중단” 등의 구호를 외쳤다. 오후 10시 40분쯤에는 투표소 앞에 주민 200명 안팎이 모였고, 일부 주민들은 투표함 반출을 막아야 한다며 정문과 뒷문 주변에 모였다. 경찰은 투표소 안으로 들어가 관계자들과 대응 방안을 논의했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“글자가 많아서 읽는 게 힘들어요”...여전히 눈총받는 ‘발달 장애인’의 느린 투표</title>
