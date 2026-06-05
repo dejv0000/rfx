@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 경찰, 잠실 투표소 강제 진입… 봉쇄 사흘 만에 투표함 반출</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/05/VLV3NI7KSJADXN4UCS4QIC5WMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/05/VLV3NI7KSJADXN4UCS4QIC5WMM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Jun 2026 23:30:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SH7GE2DPFBJHHC5ZARPLFWEWPY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;5일 '투표용지 부족' 사태가 발생한 서울 송파구 잠실7동 제2투표소 앞에서 서울시선관위 관계자들이 투표함을 이송하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 5일 서울 송파구 잠실7동 제2투표소에 대규모 병력을 투입해 시위대 강제 해산에 나선 끝에 투표함을 반출했다. 지난 3일 투표용지 부족 사태 이후 시민들이 투표함 반출을 막아서면서 개표소로 옮겨지지 못했던 투표함 2개(약 2000표)는 투표 마감 35시간 만에 개표소로 향하게 됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 7시 30분쯤부터 투표소 주변에는 기동대 18개 중대, 1000여 명의 경력이 배치됐다. 경찰은 밤새 투표함 반출을 막아온 시위대와 대치하다 오전 8시를 넘겨 해산 절차에 착수했다.&lt;br&gt;&lt;br&gt;송파경찰서 관계자는 현장에서 “서울시선거관리위원회로부터 투표함 호송과 현장 질서 유지에 대한 협조 요청을 받았다”며 “선거사무 종사자를 폭행·협박·감금하거나 투표용지 등 선거관리 시설과 장비를 훼손할 경우 공직선거법에 따라 처벌될 수 있다”고 경고했다.&lt;br&gt;&lt;br&gt;이어 “경찰관을 밀치거나 폭행할 경우에도 처벌될 수 있다”며 시위대에 해산 명령을 내렸다.&lt;br&gt;&lt;br&gt;오전 8시 15분쯤부터는 투표소 후문에서 경찰과 시위대의 대치가 본격화됐다. 후문 앞에는 시위대 20여 명이 바닥에 앉아 서로 팔짱을 낀 채 스크럼을 짜고 있었다. 경찰은 2~3명씩 조를 이뤄 시위 참가자들을 한 명씩 분리하며 통로 확보에 나섰다.&lt;br&gt;&lt;br&gt;정문에서도 수백 명의 시위대가 경찰과 대치했다. 일부 참가자들은 고성을 지르며 반발했지만 경찰은 후문을 중심으로 해산 작전을 진행했고, 결국 투표함을 투표소 밖으로 반출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGGTRPFAHBII5GDDVX6PGXH7VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 송파구 잠실7동 2투표소 앞에서 경찰이 투표함 이송을 위해 이를 막아선 시위대를 해산 조치하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 대치는 지난 3일 발생한 투표용지 부족 사태에서 비롯됐다. 잠실7동 제2투표소를 비롯한 서울·인천·경기 지역 일부 투표소에서 투표용지가 부족해 유권자들이 투표하지 못하고 돌아가는 일이 발생하자 시민들이 진상 규명과 책임자 문책을 요구하며 투표소 앞에 모여들었다.&lt;br&gt;&lt;br&gt;전날 밤에는 한때 1300여 명(경찰 비공식 추산)이 현장에 집결했다. 초기에는 투표하지 못한 유권자와 인근 주민들이 주를 이뤘지만, 이후 부정선거 의혹을 제기하는 유튜버와 정치인들이 현장을 찾으며 집회 규모가 커졌다.&lt;br&gt;&lt;br&gt;선관위는 잠실7동 제2투표소에 보관 중이던 투표함 2개를 개표소로 이송해 개표 절차를 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SH7GE2DPFBJHHC5ZARPLFWEWPY.JPG?auth=71b5945144f57adb324b520ff2975f4e4f3e8c8c8e5defa83571cab0b17b0e22&amp;smart=true&amp;width=3984&amp;height=2656" type="image/jpeg" height="2656" width="3984">
+        <media:description type="plain">5일 '투표용지 부족' 사태가 발생한 서울 송파구 잠실7동 제2투표소 앞에서 서울시선관위 관계자들이 투표함을 이송하고 있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김도우 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>與 충남지사 당선인 “대통령 이름 파는 게 선거전략이었다… 민심 잘못 읽어”</title>
+      <link>https://www.chosun.com/politics/election2026/2026/06/05/2SUDFSPKNZCLZHTEEN6ENHD6YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/05/2SUDFSPKNZCLZHTEEN6ENHD6YI/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Jun 2026 23:33:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHFUH5HX5VNTBFP4XBA7EA6SKI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 박수현 충남지사 당선인이 지난 4일 새벽 충남 천안시 선거 사무소에서 당선 소감을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 박수현 충남지사 당선인이 “국정 지지도가 높은 대통령 이름만 팔면서 시간이 빨리 가기만을 기다린 것이 유일한 선거 전략이었음을 고백한다”며 민주당이 스스로 반성해야 한다고 주장했다. 박 당선인은 친명계에서 분출된 정청래 대표 사퇴론에 대해서는 “‘네 탓’이 아니라 ‘내 탓’이라고 해야 한다”고 일축했다.&lt;br&gt;&lt;br&gt;박 당선인은 5일 아침 페이스북에 글을 올려 “충남지사 선거는 승리했지만 전국 상황을 돌아보면 특별한 일이 못 된다”고 했다. 이어 “기초단체장 선거는 패배했다. 충남 15개 시·군 중 10곳을 국민의힘에 내줬다. 그것도 제 (국회의원) 지역구였던 공주·부여·청양에서 국회의원 보궐선거를 포함해 3곳 모두 단체장까지 잃었다”며 “부여와 청양군수는 모두 100표 미만으로 패했다”고 했다. 그러면서 “뼈가 아프다. 모두 제 탓이고 제 탓이고 제 탓이다”라고 했다.&lt;br&gt;&lt;br&gt;박 당선인은 “제가 충남지사에 도전할 때, 이런 결과를 예상할 수 없었다. 쉽게 승리할 것이라고 확신했다. 여론조사도 그랬다”며 “그러나 결과는 정반대”라고 했다.&lt;br&gt;&lt;br&gt;박 당선인은 “민심을 읽는 기준을 잘못 세웠다”고 반성했다. 그는 “자신을 돌아보며 자신을 기준으로 민심을 읽었어야 했는데, 오직 유일한 기준은 이재명 대통령이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “도민의 마음을 사로잡을 어젠다를 제시하지도 못했다”며 “국정 지지도가 높은 대통령 이름만 팔면서 시간이 빨리 가기만을 기다린 것이 유일한 선거 전략이었음을 고백한다”고 했다.&lt;br&gt;&lt;br&gt;박 당선인은 “이대로 가면 다음 대선 전망이 밝지 않다”고 경고했다. 그는 “오세훈(서울시장 당선인)과 한동훈(무소속 부산 북갑 국회의원 보궐선거 당선인)이 힘을 모아 장동혁(국민의힘 대표)의 국민의힘을 끝내고 보수를 재건한다면 결코 만만치 않은 구도가 형성될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “그것보다 더 심각한 문제는 민주당에 있을지도 모르겠다”고 했다. 그는 “(민주당이) 스스로 반성하지 않고, 지방선거 결과도 차기 당권 투쟁과 연계해 아전인수 식 이전투구를 보이면, 민심이 급격히 차가워질 것”이라고 내다봤다. “이 대통령의 국정 운영에도 큰 부담이 될 것”이라고도 했다.&lt;br&gt;&lt;br&gt;박 당선인은 “지금 우리가 할 일은 진심으로 우리를 돌아보는 것”이라고 주장했다. 그러면서 “당대표와 지도부에 책임을 지고 사퇴하라고 하는 것이 최선이냐. 제대로 책임지는 새로운 민주당이 필요하다”며 “‘네 탓’이 아니라 ‘내 탓’이라고 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;박 당선인은 “민주당 지도부는 즉시 ‘6·3 지방선거 평가와 백서 발간 위원회’를 구성하라”며 “아전인수 이전투구 손가락질이 아니라, 질서 있는 평가를 통한 미래 방향 제시로 집권 여당다운 모습을 보여 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘잠실7동 투표소’ 투표함 반출</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/05/TUCAO6VI5ZATFABYNL6X23A7NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/05/TUCAO6VI5ZATFABYNL6X23A7NA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Jun 2026 23:55:05 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이준석 “與, 선관위 국정조사 요구 수용해야… 아니면 특검 가야”</title>
+      <link>https://www.chosun.com/politics/election2026/2026/06/05/4H2URU6QK5EGFLJP6IHXVUUUW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/05/4H2URU6QK5EGFLJP6IHXVUUUW4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Jun 2026 23:44:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDBXOXRGQVMOHEN2UD6MBPNGUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 지난 1일 당 선거대책위원회 회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이준석 개혁신당 대표는 6·3 지방선거에서 벌어진 투표용지 부족 사태와 관련해 중앙선거관리위원회를 국정조사해야 한다는 야당 요구를 더불어민주당이 수용해야 한다고 주장했다. 그러면서 민주당이 국정조사 요구를 받아들이지 않으면 야당은 특검 수사를 요구해야 한다고 했다.&lt;br&gt;&lt;br&gt;이 대표는 5일 새벽 페이스북에 글을 올려 “지금까지 소위 ‘부정 선거’론은 논리적 귀결이 맞지 않아서 오히려 계속 부정 선거론자들의 주장을 반박하고 지적했지만, 투표용지 부족 사태는 선거만 관리하는 기관이 투표용지 수 하나 제대로 예측·관리 못했다는 것을 국민 누가 받아들일 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “고의라면 책임질 사람이 생기고, 시스템상 결함이면 (선관위) 조직의 존속 여부를 다뤄야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 “즉시 (야당의) 국정조사(요구)를 여당이 받아야 한다”며 “야당도 주저하지 말고 (서울시장 선거 등의) 재선거 가능성까지 염두에 두고 선명한 주장을 해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이 대표는 “이재명 정부하의 수사기관 일체에 대한 불신을 여당이 만들었다”며, 이 문제를 경찰 등의 수사에 맡겨둘 수 없다는 취지로 말했다.&lt;br&gt;&lt;br&gt;그는 “(민주당이) 국정조사(요구)를 질질 끌면서 안 받을 경우, 특검하자는 이야기가 폭발할 수도 있다”며 “야권은 (민주당이) 국정조사 (요구를) 오늘 내로 안 받으면, 특검으로 격상해서 요구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 투표용지 부족 사태가 일어난 선거일 당일에도 페이스북에 글을 올려 “개표 절차를 중지해야 한다”고 주장했었다. 당시 이 대표는 “여러 선거가 동시에 치러지는 지방선거인 만큼, 서울시장이 아닌 (구청장·시의원·구의원 등) 다른 선거에서는 부족한 (투표용지로 행사되지 못한) 표가 당락에 영향을 미칠 것이고, 출구조사가 보도된 뒤 한참 동안 그 투표들이 진행된 것 자체가 투표가 왜곡될 소지가 있다”고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] “단기적 사고는 미래의 적”… 디지털 세상을 구한 거장</title>
       <link>https://www.chosun.com/national/2026/06/05/OH35QV2SABBM7PPNLGEH3QQ4YM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/06/05/OH35QV2SABBM7PPNLGEH3QQ4YM/</guid>
@@ -923,42 +963,6 @@
       <description/>
       <pubDate>Wed, 03 Jun 2026 06:37:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FX3APDTANFAEJGVJORKLMOUI6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 경기 과천장애인복지관은 발달 장애인을 상대로 투표 모의 연습을 했다. 사진은 한 발달장애인이 기표소에 들어가 도장을 직접 찍어보는 연습을 하는 모습./과천장애인복지관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“민지야, 얼른 도장 찍고 나와야지. 얘가 왜 이렇게 오래 걸리지…"&lt;br&gt;&lt;br&gt;지난달 19일 엄마 전종미(37)씨는 뇌병변 지적 장애가 있는 딸 박민지(29)씨와 함께 경기 과천시 문원동의 한 사전 투표소를 찾았다가 발을 동동 굴렀다. 기표소에 들어간 딸이 10분이 지나도록 나오지 않아 줄을 선 다른 시민들의 눈총을 받아야 했기 때문이다. 전씨는 “딸이 스스로 투표하길 바라는 마음에서 투표소에 데리고 갔지만, “왜 안 나오지?”하는 시민 분들의 표정을 보니 스스로 눈치가 보였다”고 했다. &lt;br&gt;&lt;br&gt;올해 열린 제9회 6·3 지방선거는 딸 박씨에게 3번째 투표였다. 우여곡절 끝에 투표장을 나선 엄마 전씨가 “민지야, 투표를 좀 빨리 할 수는 없었을까?”라고 묻자, 박씨는 “글자가 많으니까 읽는 게 힘들었어”라고 답했다. 전씨는 “발달 장애인들이 투표를 할 때, 도움이 필요한지 옆에서 물어본다던지, 놀이공원처럼 줄을 따로 설 수 있게 해주는 식의 도움이 있으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;점자 투표 용지나 투표 보조인 등 선거와 관련해 제도적 지원을 받을 수 있는 시각·신체 장애인 등과 달리, 발달 장애인들은 사각지대에 놓여 있다. 후보자들의 공약을 빼곡하게 담은 공보물은 발달 장애인들이 이해하기 어려운데다, 기표소에 보조인과 함께 들어갈 수도 없다. 현행 공직선거법이 ‘시각 또는 신체의 장애로 인하여 자신이 기표할 수 없는 선거인’만 보조인의 도움을 받을 수 있다고 정하고 있기 때문이다. 그래서 박씨 같은 발달 장애인들은 기표소 안에서 투표 용지를 이해하는 것 자체에 시간이 오래 걸리거나, 도장을 제대로 찍지 못해 사표 처리가 될 가능성도 적지 않다. &lt;br&gt;&lt;br&gt;특히 지방선거의 경우, 대선이나 총선과 달리 각 지자체별로 투표해야 할 후보자가 많아 발달 장애인들이 투표에 어려움을 겪는다. 김광옥 과천장애인복지관 국장은 “사전에 연습을 하더라도 후보자들의 공약을 제대로 숙지하기에는 어려움이 있다”며 “부모님이 선호하는 사람을 찍으라고 하시는 경우도 있어 발달 장애인들의 참정권 보장에는 분명 한계가 있다”고 했다. &lt;br&gt;&lt;br&gt;이에 일부 장애인복지관은 자체적으로 발달 장애인을 대상으로 선거 관련 교육을 실시하기도 한다. 최근 서울장애인복지관에서는 종로구 후보들의 공약을 스크린 화면에 띄어놓고, 화이트보드에 짧은 단어와 그림 등을 이용해 공약을 쉽게 설명하는 교육이 진행됐다. 교육을 담당한 권수빈 장애인재활상담사는 “후보들의 공약이 대부분 정제된 언어를 사용하다보니 장애인분들의 이해 수준에 맞게 쉽게 풀어 설명하는 데 어려움이 있었다”며 “정부가 나서서 후보들의 공약을 쉽게 설명해주는 역할을 해주면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;투표를 앞두고 최근 과천장애인복지관에서는 모의 투표가 진행됐다. 사회복지사들이 각각 ‘앞마당’ ‘퐁당퐁당’ ‘포도당’ ‘위풍당당’ 소속 후보로 출마해 “롯데월드로 소풍을 가겠습니다” “맛있는 요리 활동을 추가하겠습니다” 등의 공약을 설명하는 시간을 가진 뒤, 발달 장애인들이 실제 기표소와 유사한 공간에서 도장을 찍는 연습을 했다. &lt;br&gt;&lt;br&gt;한편 한국피플퍼스트 등 장애인 단체는 지난 2023년 발달 장애인의 투표 보조를 거부한 것은 차별 행위라며 국가를 상대로 차별구제청구 소송을 냈지만, 아직 대법원에서 계류 중이다. 1, 2심 재판부는 “투표 보조를 거부한 행위가 장애인차별금지법상 간접 차별에 해당한다”고 봤지만, 선거관리위원회가 상고를 하면서다. 2022년에는 발달 장애인들의 편의를 위해 ‘쉬운 투표용지’를 만들어달라는 소송도 제기됐지만 이 역시 대법원에서 심리 중이다. &lt;br&gt;&lt;br&gt;그 결과 장애인들의 투표권은 비장애인에 비해 크게 떨어지는 실정이다. 지난 2022년 치러진 20대 대선 당시 전국 최종 투표율은 77.1%를 기록했지만, 발달 장애인에 포함되는 지적 장애인은 55.1%, 자폐성 장애인은 53.7%에 그쳤다. &lt;br&gt;&lt;br&gt;전문가들은 발달 장애인들의 참정권이 의미 있으려면 무엇보다 공약에 대한 이해도를 높이고, 투표 과정에서 도움을 제공하는 것이 중요하다고 이야기한다. 전지혜 인천대 사회복지학과 교수는 “쉬운 공약집 등 발달 장애인을 위한 자료 배포가 공식화될 필요가 있다”며 “이는 장애인뿐 아니라 인지의 제약이 찾아오는 노인분들에게도 공약에 대한 접근성을 높이는 데 도움이 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 전 교수는 “그동안 우리 사회는 발달 장애인에 대한 ‘조력’ 보다는 ‘대리’에 치우쳐진 경향이 컸다”며 “투표를 포함한 사회 전반의 영역에서 발달 장애인의 선택과 판단을 (대신하는 것이 아니라) 세밀하게 도울 수 있는 시스템을 마련해가는 것이 중요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“계약직이 뭘 알아, 당신들이 지옥 불로 집어넣었다”… 한화에어로 참사 유족들 울분</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/03/FXYITVC5KRGG5NW3N3WCIQ5TUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/03/FXYITVC5KRGG5NW3N3WCIQ5TUM/</guid>
-      <dc:creator>대전=양인성 기자, 김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 03:16:43 +0000</pubDate>
-      <content:encoded>지난 1일 발생한 한화에어로스페이스 대전사업장 폭발 사고로 숨진 5명의 신원이 3일 모두 확인됐다. 이런 가운데 사망자 유족들은 장례식장을 찾은 회사 경영진에 울분을 쏟아냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROSTWVRY2JKVPIYKJBVCNSP3UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 손재일 한화에어로스페이스 대표가 대전 유성구의 한 병원에 모인 유가족들을 만나 이야기를 나누고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 10시 42분 손재일 한화에어로스페이스 대표는 직원들과 함께 대전 유성 선병원 장례식장을 찾았다. 손 대표는 침통한 표정으로 서서 고개를 숙인 채 유족들의 말을 들었다.&lt;br&gt;&lt;br&gt;한 유족은 “계약직들이 뭘 알겠느냐”며 “당신들이 (우리 가족을) 지옥 불로 집어넣었다”고 격앙된 목소리로 말했다. 또 다른 유족은 “회사가 2018년, 2019년 사고와 관련한 경험이 있는데, 앞으로 (이런 일) 생기면 안 되겠다는 다짐은 못 했느냐”고 했다. 말을 잇지 못하고 눈물을 훔치는 유족도 있었다.&lt;br&gt;&lt;br&gt;유족들은 “과거 사고 때도 합의가 지연됐던 것으로 안다”며 “지난번처럼 길어지지 않게 명확한 대책을 세워달라”고 했다. 이들은 그러면서 “(더 이상) 같은 일이 반복되지 않도록 회사가 분명한 입장을 내놔야 한다”고 했다. 유족들은 “유족들이 일일이 조건을 제시하기보다 회사 측이 먼저 생각하고 있는 방안을 설명해 달라”며 “합당한 내용이라면 충분히 검토할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;손 대표는 “죄송하다”며 “유족분들 슬픔을 어떻게 다 위로하겠냐만 제가 최선을 다하겠다. 사고 수습에 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 신원이 확인된 사망자 중 2명은 지난 2월 입사한 20대 후반 계약직 근로자였다. 또 20년 넘게 근무한 장기 근무자도 있었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, ‘관저 특혜 의혹’ 한창섭 前 행안부 차관 첫 참고인 소환</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/03/XEEKYWDINZCBDDOOOH3WGBXOPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/03/XEEKYWDINZCBDDOOOH3WGBXOPA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 06:28:30 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)은 3일 윤석열 전 대통령 관저 이전 특혜 의혹과 관련해 한창섭 전 행정안전부 차관을 처음 소환해 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYTKNRXMNSWGNTDMQ3DMNDGHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한창섭 전 행정안전부 차관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 오전 10시부터 한 전 차관을 참고인 신분으로 조사 중이라고 밝혔다. 한 전 차관은 2022년 5월 윤석열 정부의 초대 행안부 차관으로 임명돼 이상민 전 행안부 장관과 함께 근무한 뒤, 이듬해 8월 퇴임했다.&lt;br&gt;&lt;br&gt;특검팀은 오는 4일 이 전 장관에 대한 첫 피의자 조사를 앞두고 행안부 관계자들을 잇달아 소환해 사실관계를 확인하고 있다. 이 전 장관은 2022년 대통령 관저 이전 과정에서 김건희 여사와 친분이 있는 것으로 알려진 무자격 업체 21그램에 공사비를 지급하기 위해, 행안부 예산 28억원을 관저 공사 비용으로 전용하도록 지시한 혐의(직권남용) 등을 받는다.&lt;br&gt;&lt;br&gt;당시 일부 행안부 공무원들은 “지시를 받아들이기 어려우니 차라리 인사 조처를 해달라”며 반발한 것으로 전해졌다. 특검은 이 전 장관이 예산 전용에 반대한 공무원들에게 승진 배제 등 인사상 불이익을 줬다고 의심하고 있다. 또 특검은 최근 행안부 관계자들로부터 “이 전 장관이 자신의 지시에 불복한 공무원들을 멀리 보내라고 지시했다”는 취지의 진술을 확보한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특검은 이날 한 전 차관을 상대로 이 전 장관이 실제로 예산 전용을 지시했는지, 예산 전용에 반대한 공무원들에 대한 인사 조치가 이뤄졌는지 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법, ‘의료계 블랙리스트 유포’ 전공의 징역형 집유 확정… 면허 취소 수순</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/03/XEQ6ZWVJDRHEHKKGLKYL5LGSEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/03/XEQ6ZWVJDRHEHKKGLKYL5LGSEU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 05:41:00 +0000</pubDate>
-      <content:encoded>2024년 의정 갈등 당시 의료계 집단행동에 동참하지 않은 의사·의대생의 명단을 온라인에 게시해 유포한 혐의를 받는 사직 전공의에게 징역형 집행유예가 확정됐다. 이 전공의는 의료법 규정에 따라 의사 면허도 잃게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BWHT2LTSZFORLJHQXPIPCAYZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 3일 스토킹처벌법 위반 및 정보통신망법상 명예훼손 혐의로 기소된 류모씨에게 징역 2년에 집행유예 4년을 선고한 원심판결을 최근 확정했다고 밝혔다. 서울 소재 ‘빅5 병원’의 영상의학과 전공의였던 류씨는 2024년 8~9월 전공의 집단 사직, 의대생 집단 휴학에 참여하지 않은 의사와 의대생 2907명의 명단을 해외 사이트에 게시했다. 이 명단에는 대상자들의 이름, 나이, 소속 기관 등 개인 정보가 담겨 있었다. 류씨는 또 일부 의사·의대생에 대해 확인되지 않은 인신 공격성 글도 온라인에 올린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심은 류씨에게 징역 3년을 선고했다. 1심은 “피해자들은 자신들의 실명과 소속이 공개되는 것에 대한 심각한 두려움과 불안감을 가지고 있었고, 피고인도 이를 알고 피해자들을 배신자로 ‘박제’해 불이익을 줘야 한다는 취지로 명단을 게시했다”고 판결 이유를 밝혔다.&lt;br&gt;&lt;br&gt;항소심은 형이 너무 무겁다는 류씨 주장을 받아들여 징역 2년에 집행유예 4년을 선고했다. 항소심은 “피고인의 행위는 이른바 ‘좌표 찍기’에 해당돼 반드시 근절돼야 한다”면서도 “피고인이 자신의 모든 잘못을 인정하고 반성하고 있고, 피해자들로부터 용서받기 위해 상당한 노력을 했다”며 감형 이유를 밝혔다. 대법원도 이러한 원심 판결에 문제가 없다고 보고 형을 확정했다.&lt;br&gt;&lt;br&gt;류씨는 징역형 집행유예 판결 확정으로 의사 면허를 잃게 됐다. 현행 의료법은 금고 이상 형의 집행유예를 선고받은 경우 의사 면허를 취소할 수 있다고 규정한다. 이 규정에 따라 의사 면허가 취소된 사람은 집행유예 기간이 끝난 뒤 2년이 지날 때까지 의사 면허를 다시 취득할 수 없다.&lt;br&gt;&lt;br&gt;이런 가운데 류씨 측은 지난달 29일 유죄가 인정된 스토킹처벌법이 명확성 원칙에 어긋난다며 헌법재판소에 위헌 소원을 냈다. 류씨 측은 스토킹처벌법이 처벌 대상으로 규정하고 있는 ‘지속적·반복적 행위’라는 요건이 명확하지 않아 처벌 범위가 무한정 확대될 수 있다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 해운대 아파트 화단서 50대 엄마·20대 아들 잇따라 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/06/03/2D7GD74MWRHQ5FSA4G6S4OTBEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/03/2D7GD74MWRHQ5FSA4G6S4OTBEA/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Jun 2026 05:55:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 아파트에서 모자가 잇따라 숨져 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;3일 경찰에 따르면, 이날 오전 7시 44분쯤 부산 해운대구 한 아파트 화단에서 50대 여성 A씨가 숨져 있는 것을 이 아파트 주민이 발견해 경찰에 신고했다.&lt;br&gt;&lt;br&gt;이어 인근 화단에 20대 남성 B씨가 추락했다. B씨는 인근 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 모자 관계인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전노협과 임수경에 묻힌 ‘거리의 도살자’… 8명 죽인 연쇄살인마</title>
