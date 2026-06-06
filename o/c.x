@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정성호 “투표지 부족은 참정권 침해... 부정선거 음모론·과격시위는 단호 대응"</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/06/7XGZ5ZLY7VGEJBTWOM7LMYA2YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/06/7XGZ5ZLY7VGEJBTWOM7LMYA2YI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Jun 2026 13:06:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSGKNLGHAZDQNLDGE4GEMRTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 6·3 지방선거에서 벌어진 투표용지 부족 사태와 관련해 중앙선거관리위원회에 진상 규명을 촉구했다. 다만 이를 계기로 제기되는 부정선거론에 대해선 “망상”이라고 했다.&lt;br&gt;&lt;br&gt;정 장관은 6일 페이스북에 올린 글에서 “투표용지 부족 사태는 민주주의의 근간이자 국민의 불가침 권리인 참정권을 심각하게 침해한 중대한 문제”라며 “국민의 엄중한 비판을 받아 마땅한 사안”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “향후 밝혀지는 사실에 따라 철저한 제도 개선은 물론 관련 책임자들에 대한 무거운 책임 추궁이 반드시 뒤따라야 한다”며 “정부와 국회 여야 모두 이번 사태를 결코 묵과해서는 안 된다는 데 공감하고 있는 만큼, 특검이나 국정조사 등을 포함한 실효성 있는 조치가 신속히 이뤄질 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 다만 “사태의 혼란을 틈타 일각에서 또다시 준동하고 있는 부정선거 음모론과 극단 세력의 불법적인 폭력·위협 행위에 대해서는 깊은 우려를 표한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “일부 극단 세력은 참정권을 회복하려는 다수 국민의 합리적이고 정당한 요구에 이미 여러 차례 허위로 판명된 음모론을 교묘히 뒤섞고 있다”며 “이는 문제를 진단하고 제도적 해결책을 찾아야 할 사태의 본질을 흐리는 행위”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “참정권을 침해당한 국민의 정당한 분노를 망상과 혐오로 치환하려는 어떤 시도도 용납되지 않을 것”이라며 “비폭력 평화 시위를 과격 시위로 변질시키려는 시도에도 단호히 대응하겠다”고 밝혔다. 이어 “정당한 권리를 주장하는 국민과 민주주의의 공간에 부정선거 음모론자들과 극단 세력은 얼씬도 하지 않길 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>잠실 개표소 이틀째 시위 경찰 1만명 추산...분노한 2030 몰려</title>
       <link>https://www.chosun.com/national/national_general/2026/06/06/SM3GXK27CVBLFL3KXYQWRILHQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/06/SM3GXK27CVBLFL3KXYQWRILHQE/</guid>
@@ -875,15 +884,6 @@ jungho2035@gmail.com</media:credit>
       <description/>
       <pubDate>Thu, 04 Jun 2026 23:44:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDBXOXRGQVMOHEN2UD6MBPNGUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 지난 1일 당 선거대책위원회 회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이준석 개혁신당 대표는 6·3 지방선거에서 벌어진 투표용지 부족 사태와 관련해 중앙선거관리위원회를 국정조사해야 한다는 야당 요구를 더불어민주당이 수용해야 한다고 주장했다. 그러면서 민주당이 국정조사 요구를 받아들이지 않으면 야당은 특검 수사를 요구해야 한다고 했다.&lt;br&gt;&lt;br&gt;이 대표는 5일 새벽 페이스북에 글을 올려 “지금까지 소위 ‘부정 선거’론은 논리적 귀결이 맞지 않아서 오히려 계속 부정 선거론자들의 주장을 반박하고 지적했지만, 투표용지 부족 사태는 선거만 관리하는 기관이 투표용지 수 하나 제대로 예측·관리 못했다는 것을 국민 누가 받아들일 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “고의라면 책임질 사람이 생기고, 시스템상 결함이면 (선관위) 조직의 존속 여부를 다뤄야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 “즉시 (야당의) 국정조사(요구)를 여당이 받아야 한다”며 “야당도 주저하지 말고 (서울시장 선거 등의) 재선거 가능성까지 염두에 두고 선명한 주장을 해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이 대표는 “이재명 정부하의 수사기관 일체에 대한 불신을 여당이 만들었다”며, 이 문제를 경찰 등의 수사에 맡겨둘 수 없다는 취지로 말했다.&lt;br&gt;&lt;br&gt;그는 “(민주당이) 국정조사(요구)를 질질 끌면서 안 받을 경우, 특검하자는 이야기가 폭발할 수도 있다”며 “야권은 (민주당이) 국정조사 (요구를) 오늘 내로 안 받으면, 특검으로 격상해서 요구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 투표용지 부족 사태가 일어난 선거일 당일에도 페이스북에 글을 올려 “개표 절차를 중지해야 한다”고 주장했었다. 당시 이 대표는 “여러 선거가 동시에 치러지는 지방선거인 만큼, 서울시장이 아닌 (구청장·시의원·구의원 등) 다른 선거에서는 부족한 (투표용지로 행사되지 못한) 표가 당락에 영향을 미칠 것이고, 출구조사가 보도된 뒤 한참 동안 그 투표들이 진행된 것 자체가 투표가 왜곡될 소지가 있다”고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이화언론인상’ 이윤희 KBS 앵커, 김은령 전 디자인하우스 부사장</title>
-      <link>https://www.chosun.com/national/people/2026/06/05/XXTVNCTFP5C6TMUEFEEWOU2ZBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/05/XXTVNCTFP5C6TMUEFEEWOU2ZBY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jun 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOA4SAJ4HRC4NOE46UFPBCTOQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이윤희 KBS 보도국 앵커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이윤희 KBS 주말 9시 뉴스 앵커와 김은령 전 디자인하우스 부사장이 제26회 이화언론인상 수상자로 선정됐다.&lt;br&gt;&lt;br&gt;이윤희 앵커는 ‘경제콘서트’, ‘일요진단’ MC를 거쳐 지난해 3월부터 KBS 주말 9시 뉴스를 단독 진행하고 있다. KBS 9시 뉴스 여성 단독 진행은 33년만에 처음이다. 또 여성 앵커로는 처음 21대 대선 토론회 사회를 맡아 공정하고 균형 있는 토론을 이끌었다. &lt;br&gt;&lt;br&gt;김은령 전 부사장은 ‘행복이 가득한 집’, ‘럭셔리’ 편집장과 본부장 등을 지내며 디자인산업계 최대 박람회인 ‘리빙디자인페어’를 성공시켰다. 레이첼 카슨의 ‘침묵의 봄’ 번역 등, 작가와 번역가로도 명성을 얻었으며, 현재 콘텐츠 뉴스레터 ‘Her Report’를 발행하고 있다.&lt;br&gt;&lt;br&gt;시상식은 15일 이화여대 ECC 이삼봉홀에서 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KSCO63465FQ7LQN36QWODADAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김은령 전 디자인하우스 부사장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>폭행·음주운전… 교육감 당선인 3명이 전과자</title>
