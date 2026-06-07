@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산서도 ‘투표용지 부족 사태’ 분노한 2030 모였다</title>
+      <link>https://www.chosun.com/national/regional/2026/06/07/QATXSTU4IJDFRKIAMKRHJRBIM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/07/QATXSTU4IJDFRKIAMKRHJRBIM4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jun 2026 09:32:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APANPRBDNNF2NEYN7NOCTZ77UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 부산 연제구 부산시선거관리위원회 앞에서 6·3 지방선거 투표지 부족 사태를 규탄하는 시민들이 구호를 외치고 있다. /권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 투표용지 부족 사태와 관련해 부산에서도 재선거를 요구하는 집회가 열렸다.&lt;br&gt;&lt;br&gt;7일 경찰에 따르면, 이날 오후 5시부터 부산 연제구 부산시선거관리위원회 앞에서 6·3 지방선거 재투표를 요구하는 집회가 열렸다.&lt;br&gt;&lt;br&gt;이들은 ‘재선거’라는 구호를 거듭 외치며 태극기를 흔들었다. 손팻말에는 ‘재선거’ ‘선관위 해체’ 등이라고 적혀 있었다. 대부분 20~30대 청년들이었다.&lt;br&gt;&lt;br&gt;경남 양산에서 온 구본유(29)씨는 “서울로 올라가고 싶은데 너무 멀어서 가지 못했다”며 “국민의 권리인 참정권이 박탈당한 이번 사태에 분노해 찾아오게 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYRK7L7TANHGNPCVROQLU22MAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 부산 연제구 부산시선거관리위원회 앞에서 6·3 지방선거 투표지 부족 사태를 규탄하는 집회가 열리고 있다. /권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 시위를 주최한 유튜버 박재웅(44)씨는 “투표 용지 부족 사태는 국민 주권을 강탈한 심각한 문제다. 이에 분노해 집회를 열게 됐다”면서 “시민들 대부분은 자발적으로 참여했다. 특히 공정성을 중요하게 생각하는 청년들이 분노해 많이 찾아온다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “전날에도 부산선관위 앞에서 700여 명이 모여 집회를 진행했다”며 “이날 오후 6시 기준 550여 명이 모였다. 집회는 지난 6일부터 한 달간 신고돼 있다. 현재까지 물리적 충돌 없이 경찰 통제에 잘 따르고 있다”고 했다&lt;br&gt;&lt;br&gt;같은 시간 부산 부산진구 서면 일대에서도 ‘부정선거 검증 촉구’를 요구하는 집회가 열렸다. 경찰에 신고된 인원은 150명이다. 경찰은 만일의 사태에 대비해 부산선관위와 서면 일대에 각각 경력 100명과 40명을 투입해 집회 관리에 나섰다. &lt;br&gt;&lt;br&gt;한편, 6·3지방선거 본투표 날인 지난 3일 부산에서도 투표용지가 부족한 투표소가 있었던 것으로 드러났다. 부산선관위에 따르면, 지난 3일 투표용지가 추가로 송부된 부산 투표소는 총 8곳이다.&lt;br&gt;&lt;br&gt;이 중 실제로 투표용지가 부족했던 곳은 중구 영주2동과 금정구 금서2동, 북구 화명1동 등 3곳이다. 나머지 5개 투표소는 투표용지가 부족할 것을 우려해 추가 송부를 요청했으나, 실제로 부족하진 않았던 것으로 확인됐다. 특히 북구 화명1동 투표소에선 투표용지가 모자라면서 투표자들이 10분가량 현장에서 대기하는 일이 벌어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘무관의 신인왕’ 서교림, 생애 첫승... 코피까지 쏟았다</title>
+      <link>https://www.chosun.com/national/people/2026/06/07/V2PVO4NGSJCAZGNKGM3HIKGNF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/07/V2PVO4NGSJCAZGNKGM3HIKGNF4/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jun 2026 08:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJZQ5KNWPFE7JMKBZO35ALRKVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 KLPGA 투어 셀트리온 퀸즈 마스터즈에서 우승을 확정하는 파 퍼트에 성공한 뒤 서교림이 주먹을 불끈 쥐었다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISWXKCN4MJD25LYKH26JDKOBEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서교림이 우승 기쁨에 눈물을 흘리던 서교림이 코갑자기 쏟아진 코피를 닦고 있다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이번에도 준우승하면 너무 속상할 것 같아 정말 열심히 쳤어요. 마지막 퍼트 때는 정말 너무 너무 떨렸습니다.”&lt;br&gt;&lt;br&gt;지난해 KLPGA(한국 여자프로골프) 투어 신인상 서교림(20)이 셀트리온 퀸즈 마스터즈에서 생애 첫 우승을 달성했다. &lt;br&gt;&lt;br&gt;우승 퍼트에 성공하자마자 눈물을 흘린 그는 경기 후 중계 방송사 인터뷰에서 “앞선 세 번의 챔피언조에서는 모두 준우승을 했다”며 “작년에 우승이 없어 아쉬웠는데 올해 전지훈련에서 마음이 단단해지고 내 골프도 많이 성장해 드디어 우승을 할 수 있게 된 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;우승 압박이 컸던지 그는 경기 후 눈물과 함께 코피까지 쏟았다. 휴지로 코를 틀어막고 스코어카드를 작성하는 장면도 연출됐다. 대회 관계자는 “원래 코피가 잘 나는 스타일인데, 마지막 순간 눈물을 참으려다가 또 코피가 흘러나왔다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSXA47C7LNB4BOOX3HUHL4MOXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서교림이 7일 셀트리온 퀸즈 마스터즈 우승 트로피를 들고 환하게 웃었다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 강원도 원주 성문안 CC(파72)에서 열린 대회 마지막 날 3라운드. 서교림은 버디 5개와 보기 1개를 엮어 4타를 줄이며 최종 합계 15언더파 201타로 우승했다. &lt;br&gt;&lt;br&gt;“너무 떨렸다”는 말대로 서교림은 마지막 파5 18번홀에서 큰 위기를 맞았다. &lt;br&gt;&lt;br&gt;공동 2위 김민선7에게 2타 차로 쫓기던 서교림은 세컨드샷으로 투온을 노렸으나 공이 경사가 가파른 러프에 떨어졌다. &lt;br&gt;&lt;br&gt;볼을 그린에 올리기 위해 페이스를 열고 웨지를 휘둘렀으나 그린에 못 미쳤고, 네 번째 어프로치샷 이후 공은 홀컵을 지나 약 1.7m 거리에 멈췄다. &lt;br&gt;&lt;br&gt;경쟁자 김민선은 어프로치로 약 1m에 떨어뜨려 버디 확률이 큰 상황이었다. &lt;br&gt;&lt;br&gt;자칫 실패하면 연장전을 치러야 할 수도 있는 상황에서 서교림은 공을 홀컵에 정확히 떨어뜨리며 파를 잡아 우승을 확정했다. 김민선은 버디를 잡아 14언더파 단독 2위로 마쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F4YHTVA4RVE4LE52CFTTMHH5IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서교림이 7일 셀트리온 퀸즈 마스터즈 3라운드 4번홀에서 아이언샷을 하는 모습. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBP2RS5FCBBT7OR2IJ4UPWXJ6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 셀트리온 퀸즈 마스터즈 우승 후 에스코트 키즈들의 축하를 받고 있는 서교림. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서교림은 지난해 KLPGA 투어에 데뷔해 K-FOOD 놀부·화미 마스터즈, 에쓰오일 챔피언십에서 준우승하는 등 톱10을 4번 기록했다.&lt;br&gt;&lt;br&gt;영예의 신인상을 받았지만 우승이 없는 게 옥의 티였다. 올해도 10개 대회에 나와 국내 개막전인 더시에나 오픈에서 준우승, 지난 5월 E1 채리티 오픈에서 공동 3위까지 오르는 등 준수한 기량을 선보였으나 여전히 정상엔 닿지 못했는데, 이번 대회에서 한을 풀었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IA7RU5TEBFDXBBKSQCBP3MXTIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 셀트리온 퀸즈 마스터즈에서 우승한 서교림이 재킷을 입고 트로피를 들어보였다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서교림은 상금 2억7000만원을 받아 시즌 합산 5억3574만5714원으로 이 부문 1위로 올라섰다. 대상 포인트도 1위(187점)다. &lt;br&gt;&lt;br&gt;박혜준이 13언더파 3위, 김수지가 12언더파 4위를 기록했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMHOY36WFVFT3L7TTFL5FQT2VI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 KPGA 선수권 4라운드 1번홀에서 티샷을 하고 있는 문동현. /KPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 경남 양산 에이원 CC(파71)에서 끝난 KPGA(한국프로골프) 투어 KPGA 선수권대회에선 문동현(20)이 9언더파 275타로 김찬우(8언더파)를 1타 차로 제치고 역시 생애 처음으로 우승했다. &lt;br&gt;&lt;br&gt;투어 2년차인 문동현은 지난 4월 우리금융챔피언십에서 공동 4위, 지난달 경북오픈에서 단독 2위를 하며 기세를 끌어올린 데 이어 이날 우승까지 차지했다. 상금은 3억2000만원이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XKXJGYLZARA6TNJUUYHTL2SSRY.jpg?auth=0b7086a52cfb7cc48bd4297b68412e1626ec30fdfc944067e80dbb2d4579c000&amp;smart=true&amp;width=1456&amp;height=1092" type="image/jpeg" height="1092" width="1456">
+        <media:description type="plain">/KLPGA</media:description>
+        <media:credit role="author" scheme="urn:ebu">LEEKWANGHWHWAN</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 8일 월요일 (음력 4월 23일 癸丑)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/07/NSJCWJPHPVD7NNJNH5OQAHO6LM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/07/NSJCWJPHPVD7NNJNH5OQAHO6LM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>일요일에도 ‘잠실 참정권 시위’… 인천에서, 파주에서도 참가</title>
       <link>https://www.chosun.com/national/national_general/2026/06/07/T6UAVBRYPFGWVGV2BBB35IYH2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/07/T6UAVBRYPFGWVGV2BBB35IYH2M/</guid>
@@ -936,33 +970,6 @@ jungho2035@gmail.com</media:credit>
       <description/>
       <pubDate>Fri, 05 Jun 2026 01:56:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDQMLBGU2DEYLEGZQTSNJVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 대부업자가 법정 최고 이자율을 넘겨 받은 초과 이자를 채무자에게 모두 돌려줬더라도 국가가 해당 금액 전액을 추징할 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 5일 대부업법·범죄수익은닉규제법 위반 혐의로 기소된 A씨에게 징역 4개월에 집행유예 1년을 선고하고 4765만여 원의 추징을 명령한 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;A씨는 2018년 11월부터 2019년 7월까지 미등록 대부업을 하며 채무자에게 약 3400만원을 빌려주고 원리금 명목으로 8250만원을 받아 4765만8712원의 초과 이자를 가로챈 혐의로 기소됐다. 당시 법정 최고 금리는 24%였는데 A씨는 한 채무자에게 연 324%의 이자를 받기도 했다. A씨는 대포통장으로 원리금을 송금받아 범죄 수익 취득 사실을 숨긴 혐의도 받았다. &lt;br&gt;&lt;br&gt;A씨는 1심 재판이 진행되던 중 채무자에게 초과 이자를 전부 돌려주고 합의했다. 하지만 1심은 A씨에게 징역 4개월에 집행유예 1년을 선고하고 초과 이자 전액에 해당하는 4765만8712원의 추징을 명령했다. A씨는 돈을 다 돌려줬는데도 추징금이 선고된 것은 부당하다며 항소했으나, 항소심도 “A씨가 초과 이자를 ATM에서 현금으로 인출해 은닉하거나 소비한 이상, 이후 같은 금액을 채무자에게 반환했다고 해서 추징에서 제외할 것은 아니다”라며 항소를 기각했다.&lt;br&gt;&lt;br&gt;대법원 판단도 같았다. 대법원은 “구 대부업법을 위반해 수취한 초과 이자는 사후에 채무자에게 모두 반환하더라도 이미 범죄 수익으로 취득해 소비한 것”이라며 “범죄수익은닉규제법에 따른 추징 대상이 된다”고 판단했다. 피해 회복이 이뤄졌더라도 국가의 범죄 수익 환수는 별도로 이뤄져야 한다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민의힘 김재섭 “선관위 특검해야”</title>
-      <link>https://www.chosun.com/politics/election2026/2026/06/05/RPMGCACUJFGV5J7VPDDV43AR5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/05/RPMGCACUJFGV5J7VPDDV43AR5M/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Jun 2026 00:10:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGEJWHGNIJN7XIGKE5OLSPMXYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김재섭 의원이 지난 4일 전날 투표용지 부족 사태가 벌어졌던 서울 송파구 잠실7동 제2투표소를 찾아 선거관리위원회 관계자에게 문을 열어줄 것을 요구하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 김재섭 의원은 5일 6·3 지방선거 투표용지 부족 사태에 관해 “단순히 선거 무효 소송 등을 살필 것이 아니라, 특검을 통해 그 원인을 분명하게 밝혀야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;김 의원은 이날 아침 페이스북에 글을 올려 “이번 사태는 보통선거의 원칙을 위반하고 국민의 참정권을 침해한 반헌법적인 사태”라며 이같이 말했다.&lt;br&gt;&lt;br&gt;김 의원은 “누가 이 (투표용지를 선거인 대비 50%만 인쇄해놓아도 된다는) 방침을 결정했는지, 어느 선에서 승인이 이뤄졌는지, 현장에서 문제를 인지하고도 왜 신속한 조치가 이뤄지지 않았는지, 이 모든 것이 베일에 싸여 있다”고 지적했다. 그러면서 “단순히 행정 실수인지, 구조적 부실인지, 아니면 그 이상의 무언가가 있는지는 선관위 스스로의 조사만으로는 규명할 수 없다”고 했다. 앞서 선관위는 진상규명위원회를 설치해 자체적으로 조사하겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;김 의원은 “바로 이 지점에서 특검 필요성이 제기된다”며 “경찰이 선관위 관계자들에 대한 수사에 착수했지만, 경찰 수사만으로는 한계가 명확하다”고 했다.&lt;br&gt;&lt;br&gt;김 의원은 “게다가 선거관리위원회는 헌법상 독립기관”이라며 “이 ‘독립’이라는 지위는 본래 선거의 공정성을 정치 권력으로부터 지키기 위해 부여됐지만, 현실에서 그것은 성역이 됐다. 어떤 수사도, 어떤 감사도 제대로 뚫지 못했다”고 지적했다.&lt;br&gt;&lt;br&gt;그는 “독립 기관의 내부 결정과 지휘 체계를 일반 수사 기관이 온전히 파헤치기에는 구조적 제약이 따른다”며 “선관위가 오랜 세월 외부 통제의 사각지대에 놓여 있었다는 사실이, 이번 사태의 구조적 배경일 수 있다. 오직 특검만이 그 벽을 넘을 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;김 의원은 “특검 도입은 부정선거 음모론의 확산을 막기 위해서도 필요하다”고도 했다. 그는 “철저하고 독립적인 수사를 통해 사실관계를 낱낱이 밝히는 것만이, 근거 없는 음모론을 차단하고 우리 선거 제도에 대한 국민의 신뢰를 회복하는 유일한 길”이라며 “오히려 특검을 거부한다면, 그 자체가 의혹을 키우는 빌미가 된다”고 했다.&lt;br&gt;&lt;br&gt;김 의원은 “하루가 멀다 하고 SNS에 글을 쓰는 이재명 대통령이 선관위 사태에 대해서는 책임 있는 언급이 없다”고도 주장했다. 그는 “헌정 위기에 버금가는 이 사태에 대해 대통령은 책임 있게 행동하라”며 “이토록 심각한 상황에 대통령은 왜 갑자기 ‘입꾹닫’을 하고 가만히 있는가”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘잠실7동 투표소’ 투표함 반출</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/05/TUCAO6VI5ZATFABYNL6X23A7NA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/05/TUCAO6VI5ZATFABYNL6X23A7NA/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jun 2026 23:55:05 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이준석 “與, 선관위 국정조사 요구 수용해야… 아니면 특검 가야”</title>
-      <link>https://www.chosun.com/politics/election2026/2026/06/05/4H2URU6QK5EGFLJP6IHXVUUUW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/05/4H2URU6QK5EGFLJP6IHXVUUUW4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Jun 2026 23:44:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDBXOXRGQVMOHEN2UD6MBPNGUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 지난 1일 당 선거대책위원회 회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이준석 개혁신당 대표는 6·3 지방선거에서 벌어진 투표용지 부족 사태와 관련해 중앙선거관리위원회를 국정조사해야 한다는 야당 요구를 더불어민주당이 수용해야 한다고 주장했다. 그러면서 민주당이 국정조사 요구를 받아들이지 않으면 야당은 특검 수사를 요구해야 한다고 했다.&lt;br&gt;&lt;br&gt;이 대표는 5일 새벽 페이스북에 글을 올려 “지금까지 소위 ‘부정 선거’론은 논리적 귀결이 맞지 않아서 오히려 계속 부정 선거론자들의 주장을 반박하고 지적했지만, 투표용지 부족 사태는 선거만 관리하는 기관이 투표용지 수 하나 제대로 예측·관리 못했다는 것을 국민 누가 받아들일 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “고의라면 책임질 사람이 생기고, 시스템상 결함이면 (선관위) 조직의 존속 여부를 다뤄야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 “즉시 (야당의) 국정조사(요구)를 여당이 받아야 한다”며 “야당도 주저하지 말고 (서울시장 선거 등의) 재선거 가능성까지 염두에 두고 선명한 주장을 해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이 대표는 “이재명 정부하의 수사기관 일체에 대한 불신을 여당이 만들었다”며, 이 문제를 경찰 등의 수사에 맡겨둘 수 없다는 취지로 말했다.&lt;br&gt;&lt;br&gt;그는 “(민주당이) 국정조사(요구)를 질질 끌면서 안 받을 경우, 특검하자는 이야기가 폭발할 수도 있다”며 “야권은 (민주당이) 국정조사 (요구를) 오늘 내로 안 받으면, 특검으로 격상해서 요구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 투표용지 부족 사태가 일어난 선거일 당일에도 페이스북에 글을 올려 “개표 절차를 중지해야 한다”고 주장했었다. 당시 이 대표는 “여러 선거가 동시에 치러지는 지방선거인 만큼, 서울시장이 아닌 (구청장·시의원·구의원 등) 다른 선거에서는 부족한 (투표용지로 행사되지 못한) 표가 당락에 영향을 미칠 것이고, 출구조사가 보도된 뒤 한참 동안 그 투표들이 진행된 것 자체가 투표가 왜곡될 소지가 있다”고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고려대 ‘MZ 졸업생’, 모교에 1억원 기부</title>
