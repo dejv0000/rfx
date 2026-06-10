@@ -13,6 +13,201 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“중국 배터리 독점” 거짓 발표로 주가조작… 138억 챙긴 前 차관보 재판행</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/10/7IBWDZC7AFBQZBMLCFTY5MN7OA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/10/7IBWDZC7AFBQZBMLCFTY5MN7OA/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 06:30:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLO2FPROGFPFBMTTFT7VUNKGYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신동환 서울남부지검 금융증권범죄합동수사부 부장검사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코스닥 상장사를 이차전지 유망주로 거짓 포장해 주가를 띄워 138억원을 챙긴 전직 차관보 등이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 금융증권범죄합동수사부(부장 신동환)는 자본시장법 위반(사기적 부정거래) 등 혐의를 받는 알에프세미 전직 대표 구모씨와 현 대표 반모씨를 10일 구속 기소했다고 밝혔다. 이들과 함께 주가조작 범행에 가담한 일당 3명은 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이들은 연 260%의 고금리 사채를 끌어다 코스닥 상장사 알에프세미를 자기 자본 없이 인수한 뒤, 허위 공시로 주가를 인위적으로 끌어올린 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 “중국 공장과 계약해 이차전지를 독점 판매한다” “싱가포르와 195억원 배터리 공급 계약을 체결했다”는 등 허위 내용을 발표해 주가를 900% 상승시킨 것으로 조사됐다.&lt;br&gt;&lt;br&gt;2023년 초 2000원대 초반이었던 알에프세미 주가는 같은 해 4월 2만9450원까지 상승했으나, 이후 배터리 공급 계획 등이 거짓으로 밝혀지며 주식 거래가 정지돼 2000원대로 폭락했다. 이후 알에프세미는 상장폐지가 결정됐고, 현재 가처분 소송이 진행 중이다. 이 과정에서 소액 주주 1만5000여명이 경제적 피해를 입었다.&lt;br&gt;&lt;br&gt;반면 구씨 등 주가조작 일당은 시세 차익으로 138억원 상당을 챙긴 것으로 조사됐다. 또 이들은 사채 빚을 갚기 위해 140억원이 넘는 회삿돈을 사용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 주가조작 범행을 총괄한 구씨는 기획재정부 차관보 출신으로, 고위 공무원으로 일한 이력을 내세워 범행을 저지른 것으로 알려졌다. 또 구씨와 범행을 함께 총괄한 반씨는 8년 전 중국발 주가 조작 사건의 핵심인물이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 “사기적 부정거래 범죄는 시장의 신뢰를 무너뜨리고 서민 투자자들을 농락하는 악질적인 범죄”라며 “앞으로도 주식시장을 교란하고 국민의 신뢰를 훼손하는 행위에 단호하게 대처해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박찬대 인천시장 당선인, “시민 지갑 채우고, 한숨 덜 대책 취임 즉시 실행”</title>
+      <link>https://www.chosun.com/national/regional/2026/06/10/SJVA4GKWUFFI5NO5TWI5OIAHBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/10/SJVA4GKWUFFI5NO5TWI5OIAHBA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 06:04:24 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6J2Z5TYLNIPXN44FJ2AXJXOFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박찬대(왼쪽 네번째) 인천시장 당선인이 10일 오후 인천 연수구 송도 G타워에서 민선9기 인천시장직 인수위원회 현판 제막 후 인수위원들과 박수치고 있다.  /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 박찬대 인천시장 당선인은 10일 “시민들의 지갑을 채우고, 한숨 덜어드릴 대책을 취임 즉시 실행할 수 있도록 준비하겠다”고 했다. &lt;br&gt;&lt;br&gt;박 당선인은 이날 인천 송도국제도시 G타워에서 ‘민선 9기 인천시장직 인수위원회’ 출범식에서 “당장 오늘부터 ‘민생 회복 100일 프로젝트’의 시동을 건다”며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;박 당선인은 “시민들 앞에 놓인 절박한 과제는 얄팍해진 지갑을 채우고, 아이들을 안전하게 키우고, 어르신을 잘 모시고, 일자리를 지키는 생존의 문제”라며 “실무형 드림팀으로 구성된 인수위원회가 시민 삶의 해법을 찾는 최전선 베이스캠프가 돼 시민의 삶을 바꾸고, 인천을 크게 도약시킬 방안을 찾게 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;박 당선인은 “100년 전 6·10 만세운동의 시대정신은 자주독립이고 1987년 6·10 민주항쟁의 시대정신은 민주화였다”며 “두 번의 6월 10일과 같은 날 출범하는 인수위가 품어야 할 시대정신은 오직 인천 시민이어야 한다”고 했다. 이어 “인수위는 소매를 걷어붙이고 현장부터 챙기는 야전 상황실이 돼 치열하게 토론하며 달려나갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;인수위원장을 맡은 맹성규 국회의원은 “지방정부와 중앙행정 경험 등을 바탕으로 인천 시정 전반을 꼼꼼히 잘 살피고, (박 당선인이) 흔들림 없이 시정에 전념할 수 있도록 든든한 토대를 만들겠다”며 “시민들이 실질적인 변화를 체감하고 시장만 바뀐 게 아니라 시정이 달라졌다고 말씀하시도록 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;민선 9기 인천시장직 인수위원회는 총괄, 미래산업, 동반성장, 시민행복, 시정 등 4개 분야에 대한 분과위원회와 국비법안정비, 민생회복 등 2개 추진단(TF) 등으로 구성됐으며, 인천 지역 국회의원과 교수, 문화, 시민사회계 전문가 등 20명이 오는 30일까지 20일간 활동하게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHFCZETPQVCM5OTQAR3YQLZ454.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민선9기 인천시장직 인수위원회. /이현준기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 안산 국방산단, 그린벨트 해제 눈앞... 사업 추진 ‘청신호’</title>
+      <link>https://www.chosun.com/national/regional/2026/06/10/CBW2SD3IWNH4HFCBKONBJP7B3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/10/CBW2SD3IWNH4HFCBKONBJP7B3A/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 06:02:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAIJ52Y6EBAE3PW7DBN5R4RBCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안산 국방산업단지 조감도. /대전시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전시의 현안인 대전 유성구 안산 국방산업단지 조성 사업에 청신호가 켜졌다.&lt;br&gt;&lt;br&gt;10일 대전시에 따르면 국토교통부 중앙도시계획위원회(이하 중도위)가 이날 안산 국방산단 관련 개발제한구역(그린벨트) 해제 심의 관련 안건을 의결했다.&lt;br&gt;&lt;br&gt;이에 따라 대전시가 기업 유치 활동 내역에 대한 자료를 국토부에 제출하면 심의 절차가 마무리된다.&lt;br&gt;&lt;br&gt;안산 국방산단 조성 사업은 대전의 부족한 산업 용지를 확보하고 기업 유치 기반을 마련하기 위해 2015년부터 추진돼 왔다.&lt;br&gt;&lt;br&gt;이듬해 대전도시공사의 민간 사업자 선정 공모에 참여자가 없어 난항을 겪었다. 이어 2017년 한국토지주택공사(LH)와 협약을 체결한 뒤 2019년 예비타당성조사를 통과하는 등 진전이 있었으나, 인근 주민의 산업단지 편입 요구 등으로 사업이 재검토되며 추진이 중단됐다.&lt;br&gt;&lt;br&gt;이후 2021년 한국산업은행(KDB) 컨소시엄이 참여하는 민·관 합동 개발 방식으로 전환했다. 하지만 2023년 중도위의 개발제한구역 해제 재심의 결정에 이어 지난해 2월까지 이어진 감사원 감사로 사업 추진이 지연됐다.&lt;br&gt;&lt;br&gt;대전시 관계자는 “감사 과정에서 적합성과 타당성을 충분히 소명했고, 국토부에서 시의 조치 계획을 최종 수용함에 따라 개발제한구역 해제가 가능해졌다”고 설명했다.&lt;br&gt;&lt;br&gt;시는 앞으로 대전도시공사 지분 출자(10%)에 따른 주주 협약 변경 절차를 완료하고, 국토부와 협의해 개발제한구역 해제 고시를 추진할 계획이다.&lt;br&gt;&lt;br&gt;한국산업은행 컨소시엄은 1조4000억원을 투자해 유성구 대전도시철도 외삼차량기지∼남세종 나들목 인근에 159만㎡ 규모로 국방 제조 산업, 연구·주거 지원 기능이 융복합된 국방 산업 단지를 조성할 예정이다.&lt;br&gt;&lt;br&gt;시는 2027년 하반기 보상 절차에 착수해 2031년까지 사업을 완료한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성형외과 의사가 추천했는데, 알고보니 AI로 만든 가짜</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/06/10/25TAMPQDN5GZLIGTHDBIGQVE4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/10/25TAMPQDN5GZLIGTHDBIGQVE4U/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 05:48:51 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y73WLW52QVDJRGEGJL74ZEOCFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;AI로 만든 가짜 의사 홍보 영상. /식약처 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한 달 만에 확실한 변화를 원하는 분만 섭취하길 권한다. 피부과 시술이나 성형보다 훨씬 자연스럽고, 본질적인 회복이 된다.”&lt;br&gt;&lt;br&gt;‘성형외과 원장님이 알려주는 10년 어려지는 비법!’이라는 제목으로 소셜미디어(SNS)에 올라온 영상 중 일부다. 영상에 등장한 성형외과 의사는 흰 가운을 입고 “(이 제품에는) 한 박스에 토마토 730개 이상, 브로콜리 180개 이상의 NMN(니코틴아마이드 모노뉴클레오타이드)이 고함량으로 들어 있다”고 했다.&lt;br&gt;&lt;br&gt;하지만 이 영상은 가짜였다. 영상에 등장한 의사는 AI가 만든 가짜였다. 식품의약품안전처는 이 영상으로 과대 광고를 해 81억원어치 상품을 판매한 업체를 식품표시광고법 위반 혐의로 검찰에 송치했다고 10일 밝혔다. AI 영상을 이용해 일반식품을 신체 나이 감소나 노화 방지에 효과가 있는 것처럼 불법으로 광고한 혐의다. 작년 9월부터 지난 5월까지 9개월간 약 65만개의 제품을 판매해 총 81억원의 매출을 올렸다고 한다.&lt;br&gt;&lt;br&gt;식품표시광고법은 의사나 약사, 대학교수 등이 제품을 추천하거나 보증하는 내용의 광고 행위를 금지하고 있다. 이들은 실제 사람과 구별하기 어려운 가상의 중년 의사를 만들어 제품이 노화 방지 효과가 있는 것처럼 추천해 소비자를 속였다고 식약처는 설명했다.&lt;br&gt;&lt;br&gt;식약처 관계자는 최근 생성형 AI·딥페이크 기술 발전으로 실제 사람과 구분하기 어려운 가상 인물을 활용한 광고가 급증하고 있다“며 ”앞으로도 AI를 활용해 소비자를 속이는 광고 행위를 지속 점검할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L6BFF63FMZDTBEEOXAGKMKSNGQ.jpg?auth=f9bd851c33b6d14b5887813d83c73e50308f7bf92057086982bdb931a05695d9&amp;smart=true&amp;width=1125&amp;height=844" type="image/jpeg" height="844" width="1125">
+        <media:description type="plain">/식약처 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu">곽래건 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>선관위 규탄 회견 연 공무원노조... “다음 선거부터 동원 거부”</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/06/10/D63MLVTVIBFMNCL7ACAR27MIFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/10/D63MLVTVIBFMNCL7ACAR27MIFA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 05:24:33 +0000</pubDate>
+      <content:encoded>공무원노조가 6·3 지방선거 당시 발생한 ‘투표용지 부족 사태’와 관련해 선거 관리 업무에 지방공무원을 동원하는 현행 구조를 고쳐야 한다고 주장했다. 제도 개선이 이뤄지지 않을 경우 향후 선거 사무를 거부하겠다는 입장도 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6G7C7MCCVNQRNAE5GWH3K2NKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국공무원노조가 10일 서울시 선거관리위원회 앞에서 선관위 규탄 및 선거관리 제도 전면 개혁 촉구 기자회견을 열고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 전국공무원노동조합은 서울시선거관리위원회 앞에서 기자회견을 열고 “선관위가 권한은 쥐고 있으면서 선거 현장의 핵심 업무와 사고 책임은 지방자치단체 공무원에게 떠넘겨 왔다”며 “이 같은 기형적 구조가 이번 사태의 핵심 원인”이라고 주장했다. 선관위가 선거 관리의 최종 책임 기관이면서도 실제 투표소 운영과 현장 관리 업무 상당 부분을 지방공무원에게 맡겨 왔고, 사고가 발생하면 그 책임 역시 현장 공무원에게 전가하고 있다는 것이다.&lt;br&gt;&lt;br&gt;이해준 전공노 위원장은 이날 기자회견에서 “잘못된 선거 시스템 속에서 공무원 노동자들은 더 이상 선거 업무에 함께할 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;이날 전공노는 선관위가 최근 부정선거 의혹 제기에 대응한다는 명목으로 투·개표소 폐쇄회로(CC)TV 설치 등에만 집중하고 정작 기본적인 선거 관리 업무에는 소홀했다고 비판했다. 노조는 “보여주기식 대응에 몰두하다가 선거 현장에서 반드시 챙겨야 할 기본 책무를 방기했다”고 주장했다.&lt;br&gt;&lt;br&gt;전공노는 선거 사무에 투입되는 공무원들의 처우 개선과 수당 현실화도 필요하다고 밝혔다. 전공노는 선관위가 현행 구조를 개선하지 않을 경우 향후 선거 업무를 거부할 수 있다고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용 재판서 ‘허위 알리바이’ 위증한 이홍우, 1심 집행유예</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/10/LNKFCHHNSVDF3NVUR3TGMJ5B6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/10/LNKFCHHNSVDF3NVUR3TGMJ5B6E/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 03:01:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAHA24T3RRMNLFHWYBY6CF36UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용 전 민주연구원 부원장 재판에서 '거짓 알리바이' 증언을 부탁한 혐의를 받는 박모씨와 서모씨가 지난 2024년 1월 15일 서초구 서울중앙지법에서 열린 구속 전 피의자심문에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용 전 민주연구원 부원장의 불법 정치자금 수수 재판에서 허위 증언을 하고 조작한 증거를 법원에 제출한 혐의로 기소된 이홍우 전 경기도시장상권진흥원장이 1심에서 징역형 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사4단독 박강균 부장판사는 10일 위증 및 증거위조·사용 혐의로 기소된 이 전 원장에게 징역 6개월에 집행유예 1년을 선고했다. 다만 이 전 원장에게 위증을 시킨 혐의로 함께 기소된 이재명 대선 캠프 출신 박모·서모씨의 위증교사 혐의는 무죄로 판단했다. 박씨는 이 전 원장의 위조 증거 제출에 공모한 혐의만 인정돼 벌금 500만원을 선고받았다.&lt;br&gt;&lt;br&gt;이 전 원장은 김 전 부원장 1심 재판에 나와 “2021년 5월 3일 오후 3시부터 4시 40~50분까지 김 전 부원장과 업무 협의를 했다”고 거짓 증언한 혐의로 기소됐다. 2021년 5월 3일은 김 전 부원장이 유동규 전 성남도시개발공사 기획본부장에게 불법 정치자금 1억원을 받은 것으로 지목된 날짜다. 이 전 원장은 휴대전화 일정표 2021년 5월 3일 자에 ‘김용’을 사후 입력한 뒤 이를 촬영한 사진을 법정에 제출한 혐의도 받았다. &lt;br&gt;&lt;br&gt;박씨와 서씨는 김 전 부원장의 알리바이를 만들기 위해 이 전 원장에게 그날 함께 있었던 것처럼 거짓말을 해달라고 요구한 혐의로 함께 기소됐다. 이 전 원장은 김 전 부원장 1심 재판이 끝나기 전 박씨와 서씨 요청을 받아 위증했다고 주장하면서 김 전 부원장과 5월 3일 만난 사실이 없다고 진술을 바꿨다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ROWJW6TVNMF7MEIWMIY24QVIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용 전 더불어민주당 민주연구원 부원장이 2023년 11월 30일 서울 서초구 서울중앙지법에서 열린 민주당 불법 대선자금 의혹 선고 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법원은 이 전 원장의 위증 혐의를 유죄로 인정했으나, 박씨와 서씨에 대해선 당시 김 전 부원장과 이 전 원장이 실제 만났다고 생각했을 가능성을 배제하기 어렵다며 무죄를 선고했다. 박씨가 김 전 부원장의 일정표 5월 3일 자에 적힌 ‘노동 미팅’ 기록을 확인한 뒤, 대선 캠프의 노동 부문 담당에게 이를 문의해 진흥원이 있는 수원컨벤션센터 주차장 요금 결제 내역을 확인했다는 점을 근거로 들었다.&lt;br&gt;&lt;br&gt;박 부장판사는 또 “이 전 원장은 김 전 부원장을 도와주면 향후 정치 활동 과정에서 김 전 부원장이나 이재명 당시 대선 후보의 도움을 받을 수 있을 것이라는 막연한 기대와 세속적 욕심 때문에 스스로 허위 증언을 결심했을 가능성이 충분하다”고 했다. 이 전 원장이 신씨와 통화하며 “우리 5월 3일에 만나 업무 얘기를 한 게 맞느냐”고 확인한 뒤 박씨에게 먼저 전화를 걸어 증언하겠다고 말한 점이 근거가 됐다.&lt;br&gt;&lt;br&gt;박 부장판사는 “증거 위조와 위조 증거 사용은 실체적 진실을 밝히기 위한 법원의 심리를 방해하고 국가의 사법기능을 저해해 죄질이 좋지 않다”면서도 “이들의 범행이 김 전 부원장 사건 결과에 직접적인 영향을 미치지 않은 것으로 보이는 점을 고려했다”고 했다. 김 전 부원장은 대장동 민간 업자들로부터 불법 정치자금과 뇌물 6억7000만원을 받은 혐의가 인정돼 1·2심에서 징역 5년과 벌금 7000만원을 선고받고 대법원 판단을 앞두고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘중국 공안’ 조롱당한 경찰, “추락한 경권 회복해야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/10/32RHL26IDFDVZPNE3YDFGAKNGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/10/32RHL26IDFDVZPNE3YDFGAKNGQ/</guid>
+      <dc:creator>원종빈 기자, 한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 05:14:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55NRPCT7J5PUPPOPSRWAF35PSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표용지 부족 사태를 규탄하며 재선거를 요구하는 '잠실 참정권 집회'가 계속되고 있는 지난 9일 서울 송파구 올림픽공원 핸드볼경기장 출입구 앞에서 경찰들이 서 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘잠실 참정권 집회’에 투입됐다가 시위 참가자들에게 중국 공안으로 몰려 조롱과 욕설을 들은 현직 경찰관이 ‘경권 회복’을 촉구했다.&lt;br&gt;&lt;br&gt;서울경찰청 2기동단 경비과장 김민규 경정은 지난 9일 경찰청 내부망에 실명으로 ‘경권은 어디로’라는 제목의 글을 올렸다. 앞서 지난 5일 김 경정은 집회 현장에서 일부 집회 참여자에 둘러싸여 “무전 해봐라”, “왕따냐” 등의 말을 들으며 모욕을 당했다. 해당 장면을 찍은 영상은 김 경정이 중국 경찰이라는 허위 사실과 함께 소셜미디어에 유포됐다. &lt;br&gt;&lt;br&gt;김 경정은 “추락한 교권 회복을 위해 교사들은 부단히 노력하고 있다”며 “이제는 우리의 인권과 자존심이 어느 수준에 있는지, 그리고 필요 이상으로 추락했다면 이를 어떻게 회복할 수 있을지 스스로 고민해 봐야 할 시점”이라고 했다.&lt;br&gt;&lt;br&gt;또 서부지법 사태와 달리 당국의 제지를 거의 받지 않았기에 참가자들에겐 성공적 집회일 것이라고 적었다. 그러면서 “이 과정에서 이뤄지는 소규모의 불법과 일탈 행위는 대부분 교정되지 못하고 있는 상황”이라고 지적했다. 개표소인 올림픽공원 핸드볼경기장을 둘러싼 일부 집회 참가자들이 시민들의 소지품을 수색하고, 불법 촬영 범죄 등을 저지르는 상황을 비판한 것이다. &lt;br&gt;&lt;br&gt;김 경정은 “앞으로 시위 양상은 어디까지 경찰이 용인해 줄 것인지를 시험하는 수준으로 변할지도 모른다”며 “경찰이 실책을 책임지고 고쳐나가면서도 우리가 그로 인해 나약해지지 않고 극복할 수 있는 용기 섞인 시도가 더 많았으면 좋겠다”고 글을 마무리했다. &lt;br&gt;&lt;br&gt;최근 김 경정의 배우자는 소셜미디어 등을 통해 허위 사실을 유포한 악플러에 대해 선처 없는 고발을 예고하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성인PC방 18곳 단속했더니…33억 도박조직에 공인중개사 적발</title>
+      <link>https://www.chosun.com/national/regional/2026/06/10/PVRE5KXKKJDWTALIZJHMSZJQLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/10/PVRE5KXKKJDWTALIZJHMSZJQLI/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 05:34:12 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDIYJVMNRDOOJUHFRDEOJWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산경찰청은 30억원 규모의 불법 도박사이트를 운영한 일당과 불법 도박장임을 알면서도 점포를 알선해 준 공인중개사 등을 검거했다고 10일 밝혔다. 사진은 경찰 압수품. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;33억원 규모의 불법 도박 사이트를 운영한 일당과 도박장임을 알면서도 점포를 알선한 공인중개사 등이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산경찰청은 도박 공간 개설 등 혐의로 불법 도박 사이트 운영 조직 총책 A(30)씨 등 3명을 구속하고, 재무 담당책과 공인중개사 등 2명을 입건했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이 조직으로부터 도박 프로그램을 공급받아 손님들에게 제공한 PC방 업주 16명도 입건했다.&lt;br&gt;&lt;br&gt;친구 사이인 A씨 일당은 지난 4월 불법 도박 사이트를 제작한 뒤 브로커 B씨를 통해 성인 PC방에 프로그램을 공급한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;C씨는 해당 업소가 불법 도박 사이트를 유통하는 성인 PC방이라는 사실을 알면서도 부동산 임대차를 알선·중개한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 사이트 운영 3주 만에 조직을 적발했다.&lt;br&gt;&lt;br&gt;경찰은 성인 PC방 18곳을 단속해 차량과 업장 등에서 현금 5000만원, 스마트폰 39대, PC 132대를 압수했다. 또 22억원 상당의 과세 자료를 국세청에 통보했으며 범죄 수익금에 대한 추적도 진행하고 있다.&lt;br&gt;&lt;br&gt;조사 결과, 이들은 단기간에 막대한 수익을 올리자 부산·경남 등으로 영업 범위를 확대하는 방안도 논의한 것으로 드러났다.&lt;br&gt;&lt;br&gt;C씨는 A씨 일당과 경찰 단속 정보를 공유하고 불법 도박 사이트 운영과 관련한 대화를 나누는 등 범행 사실을 인지하고 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;특히 C씨의 전체 중개 건수 가운데 성인 PC방 관련 중개 비율은 70~80%에 달한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;C씨는 경찰에서 “부동산 경기가 어려워지면서 생계 유지를 위해 불법 성인 PC방 중개·알선에 가담하게 됐다”고 진술했다.&lt;br&gt;&lt;br&gt;울산경찰청 관계자는 “최근 경기 침체와 상가 공실 증가를 틈타 불법 사행성 게임장이 도심으로 깊숙이 파고들고 있다”며 “불법 사행성 게임장 단속과 사이트 개발자 추적, 범죄수익 환수에 총력을 기울하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이병선 속초시장 “전 시민 20만원 민생회복지원금 7월 지급”</title>
+      <link>https://www.chosun.com/national/regional/2026/06/10/PLN4YTQ7OJEJHJU5MJ4DMPWS7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/10/PLN4YTQ7OJEJHJU5MJ4DMPWS7Q/</guid>
+      <dc:creator>속초=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 05:15:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVM7336HVVAT7LFTCFE6SY3ATA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이병선 속초시장이 10일 속초시청 브리핑룸에서 기자회견을 갖고 민선 9기 시정 방향 관련 미디어브리핑을 진행하고 있다./속초시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거에서 재선에 성공한 이병선 강원 속초시장이 전 시민 민생회복지원금을 다음 달 지급하겠다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이 시장은 이날 속초시청 브리핑룸에서 기자회견을 열고 “민생회복지원금 지급을 위한 조례 제정 절차를 진행 중”이라며 “시의회와 협의해 조례 의결과 원포인트 추경 편성을 이달 안에 마무리하고 7월 중 지급하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 시장은 지방선거 과정에서 전 시민에게 1인당 20만원의 민생회복지원금을 지급하겠다고 공약했다.&lt;br&gt;&lt;br&gt;지원금 지급을 위한 ‘속초시 민생회복지원금 지원 조례안’은 이명애 속초시의회 부의장이 대표 발의했으며 현재 시의회 심의를 앞두고 있다.&lt;br&gt;&lt;br&gt;시는 접경지역 지정에 따라 절감된 시비 재원을 활용해 총 157억원 규모의 예산을 마련했다.&lt;br&gt;&lt;br&gt;지원 대상은 지난달 31일 기준 속초시에 주민등록을 둔 시민으로 성별과 연령, 소득, 재산에 관계없이 1인당 20만원이 지급된다.&lt;br&gt;&lt;br&gt;지원금은 지역화폐인 속초사랑상품권 충전 방식 또는 무기명 선불카드 형태로 지급할 예정이다.&lt;br&gt;&lt;br&gt;이 시장은 이날 민선 9기 주요 시정 운영 방향도 함께 발표했다.&lt;br&gt;&lt;br&gt;속초시는 동서고속화철도와 동해북부선 개통에 대비해 역세권 개발과 복합환승센터 조성, 수도권 공공기관 및 민간기업 유치 등을 추진할 계획이다. 또 접경지역 지정과 연계한 평화경제특구 지정과 영랑호 관광단지 조성, 육아복합지원센터 건립 등 주요 현안 사업도 추진한다.&lt;br&gt;&lt;br&gt;이 시장은 “민선 8기 역점사업을 차질 없이 추진해 지속 가능한 미래 100년의 기반을 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 마시다 지인 흉기로 찌른 40대 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/10/6RDBGHZAFJGTTCY3K4D3Y7JJXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/10/6RDBGHZAFJGTTCY3K4D3Y7JJXE/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 04:48:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBRGHJ5LVZBWHMX7IXGZBEFYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부경찰서 전경./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부에서 함께 술을 마시던 지인을 흉기로 찌른 40대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;의정부경찰서는 살인미수 혐의로 40대 여성 A씨를 붙잡아 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 3시쯤 의정부시 자택에서 30대 여성 B씨를 흉기로 찌른 혐의를 받고 있다. 당시 두 사람은 함께 술을 마시고 있었으며 A씨는 범행 직후 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;B씨는 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 조사한 뒤 구속영장 신청 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쿠팡CLS, 오늘 ‘교섭단위 분리’ 중노위 재심...박수근 위원장이 직접 판정</title>
+      <link>https://www.chosun.com/national/labor/2026/06/10/EWJ6D5ORJVCYTKAGKX3FC5CZJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/10/EWJ6D5ORJVCYTKAGKX3FC5CZJA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 04:12:56 +0000</pubDate>
+      <content:encoded>노란봉투법 시행 이후 원청 사용자성·교섭단위 분리 사건에 대한 중앙노동위원회의 재심 결과가 속속 나오고 있다. 지난주 중흥건설·중흥토건 사건에서 중노위가 초심을 뒤집고 원청 사용자성을 인정한 데 이어, 10일에는 쿠팡CLS, SK에너지, 포스코이앤씨, 화성시 사건 재심 결과가 나올 예정이다.&lt;br&gt;&lt;br&gt;이번 사건들은 노동위원회가 원청의 교섭 의무와 하청노조의 별도 교섭권을 어디까지 인정할지를 가늠할 수 있는 기준이 될 전망이다. 네 사건 모두 박수근 중앙노동위원장이 직접 공익위원으로 참여해 판정을 내린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYDCODGHBQTCYZYGY2DSY3GMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수근 중앙노동위원장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 이날 쿠팡CLS의 교섭단위 분리 사건은 앞으로 하청 노조간 교섭단위 분리를 결정하는 잣대가 될 것이라는 예측이 나온다. 앞서 서울지방노동위원회는 민주노총 전국택배노동조합이 쿠팡CLS를 상대로 낸 교섭단위 분리 신청을 기각했다. 민주노총은 한국노총 산하 노조와 이해관계가 다른 만큼 별도로 교섭해야 한다고 주장했지만, 서울지노위는 택배 기사의 업무와 근로조건이 유사하기 때문에 상급단체가 다르다는 이유만으로 교섭 단위를 분리하기는 어렵다고 봤다. 민주노총은 이 결정에 불복해 중노위에 재심을 신청했다.&lt;br&gt;&lt;br&gt;노란봉투법은 ‘노조 간 갈등 가능성’을 교섭 단위 분리 기준으로 두고 있는데, 전문가들은 이 조항이 오히려 하청 노조 간 갈등을 키우는 요인이 될 수 있다고 지적한다. 노조 간 갈등이 커질수록 교섭 분리 필요성을 인정받기 쉬워질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;실제 쿠팡CLS 사건은 최근 양대 노총 간 갈등으로 이어지고 있다. 민주노총 택배노조는 지난 8일 서울고용노동청 앞에서 기자회견을 열고 한국노총 택배산업본부를 강하게 비판했다. 이들은 “작년 말 쿠팡CLS 일부 영업점에서 한국노총 가입을 종용했다”며 “쿠팡이 노란봉투법에 대비해 어용 노조를 만들고 민주노총을 배제하려 한 것”이라고 주장했다. 이들은 관련 의혹에 대해 노동부에 진정을 제기한 상태다.&lt;br&gt;&lt;br&gt;한국노총도 즉각 반박했다. 한국노총 택배산업본부는 같은 날 성명을 내고 “한국노총 가입은 민주노총의 파멸적 투쟁에 환멸을 느낀 현장 기사들의 선택”이라며 “민주노총이 우리가 사측 주도로 조직된 것처럼 왜곡하며 비열한 여론 선동을 펼치고 있다”고 주장했다. &lt;br&gt;&lt;br&gt;한 노동계 인사는 “만약 중노위가 서울지노위 판단을 뒤집고 쿠팡CLS 교섭단위 분리를 인정한다면, 다른 사업장에서도 별도 교섭권을 갖기 위한 ‘노노갈등’이 더 커질 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LWOSXIOTSBBTFMQVZIQNJ7NIRM.jpg?auth=07dc356394dcfc6761e1665d884b6ebdf00b19f86c5e768bb09a1b3f9b738c07&amp;smart=true&amp;width=550&amp;height=413" type="image/jpeg" height="413" width="550">
+        <media:description type="plain">답하는 박수근 중노위원장</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>로봇 스님 만나 깨달음 얻어볼까... 대구서 불교문화엑스포</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/10/CBT53MEXANCAJIGALN4O73OMZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/10/CBT53MEXANCAJIGALN4O73OMZM/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 04:42:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJPGOEQT25KMDFD7VSN3B4YNTU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 6일 서울 종로구 조계사 대웅전 앞마당에서 열린 ‘2026 부처님오신날 기념 로봇 수계식’을 마친 뒤 휴머노이드 로봇 ‘가비’스님이 스님들과 함께 합장하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승려들과 문답을 나누고 불교 예술을 관람할 수 있는 불교 문화 축제가 대구에서 열린다.&lt;br&gt;&lt;br&gt;대구시가 오는 11일부터 14일까지 엑스코에서 ‘2026 대한민국 불교 문화 엑스포’를 개최한다고 10일 밝혔다. 올해로 5회째인 이 축제는 대구·경북의 전통 불교 문화와 첨단 기술, 지역 관광 산업 등을 접목해 불교의 가르침과 문화를 알리기 위해 마련됐다.&lt;br&gt;&lt;br&gt;올해는 처음으로 반려동물 친화적 프로그램을 도입했다. 반려동물을 동반한 관람객은 무료로 입장 할 수 있으며 반려동물을 위한 채식 간식 등을 구매할 수 있는 부스도 운영된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMJVHP5OVFK5RDOZ3MA73ONQUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 '2023 대한민국 불교문화 엑스포'를 찾은 스님이 불상을 살펴보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엑스포엔 모두 229개 부스로 들어선다. 주요 프로그램은 공뽑기·공수거 행사, 전통불교문화 상품전, 불교예술전, 사찰음식전 등이다. 공뽑기·공수거 프로그램에선 입장 시 받은 행운 동전으로 공을 뽑아 스님과 문답을 하거나 행운의 메시지를 확인할 수 있다. 대한불교조계종 총무원장 진우스님과 주지 선광스님, 삼성 라이온즈 소속 야구 선수인 구자욱·원태인·최형우, 프로축구 대구FC 소속 에이스인 세징야 등 대구 대표 스포츠 선수들이 쓴 메시지가 담긴 공들이 전시된다.&lt;br&gt;&lt;br&gt;전통 불교 문화 상품전에선 동자승 캐릭터를 활용한 키링 등 불교 문화 상품을 비롯해 불교 수행용품 등을 만날 수 있다. 불교 예술전에선 달마도·나전 불화 등 전통 불교 미술과 현대미술 작품이 전시된다. 스님들과 담소를 나누거나 금강경을 함께 읽는 프로그램도 참여할 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LD6IHHMLFZLCDHXV2OG3EN6OI4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 '2023 대한민국 불교문화 엑스포'를 찾은 관람객이 불상을 살펴보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 개막식에는 지난달 대한불교조계종에서 수계(受戒)를 통해 법명을 받은 인간형 로봇 스님 ‘가비’가 테이프 커팅에 나설 예정이다.&lt;br&gt;&lt;br&gt;황보란 대구시 문화체육관광국장은 “불교문화엑스포는 불교의 철학과 문화를 놀이와 체험 등으로 재해석해 누구나 친근하게 즐길 수 있는 축제”라며 “시민들이 전통과 현대 첨단기술이 어우러진 불교문화의 다양한 매력을 통해 일상 속 휴식과 위안을 얻길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장동혁 주장대로 재선거하면 오세훈 출마 불가능할 수도</title>
+      <link>https://www.chosun.com/politics/election2026/2026/06/10/VTFY2TAXRZHITO3KBDSECAY2ZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/10/VTFY2TAXRZHITO3KBDSECAY2ZA/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 02:32:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CMGDD33K5VFR5JTNHJ5O6BGO5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 장동혁 대표가 지난 9일 오전 국회에서 투표용지 부족 사태에 관해 기자회견을 하며 전국 재선거를 주장하고 있다. /박성원 기자 
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 장동혁 대표가 6·3 지방선거 투표용지 부족 사태와 관련해 “지방선거를 사실상 다시 실시해야 한다”며 전국 전체 재선거를 주장한 가운데, 장 대표 주장대로 재선거가 벌어지면 오세훈 서울시장이 출마하지 못하게 될 수도 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;지방자치법 제108조는 “지방자치단체의 장의 임기는 4년으로 하며, 3기 내에서만 계속 재임(在任)할 수 있다”고 규정하고 있다. 이에 따라 지자체장들은 3연임만 할 수 있다.&lt;br&gt;&lt;br&gt;오 시장이 5선 서울시장이 될 수 있었던 것은 오 시장이 민선 4·5기 시장으로 재임한 뒤 사퇴했고 이후 다른 시장이 재임했기 때문이다. 오 시장이 2021년 보궐선거에서 당선돼 민선 7기 잔여 임기를 재임한 것은 4·5기에서 ‘계속 재임’한 것으로 해석되지 않았고, 오 시장은 민선 7~9기를 계속 재임할 수 있게 됐다. 이론적으로는 민선 10기를 다른 시장이 재임하고 오 시장이 그다음 선거에서 또 당선된다면 오 시장이 민선 11~13기를 재임해 8선 시장이 되는 것도 가능하다.&lt;br&gt;&lt;br&gt;하지만 민선 9기 시장을 뽑은 이번 선거를 다시 하는 경우에는 상황이 복잡해진다. 법원 판결로 선거가 무효화된 경우에는 오 시장 당선도 없었던 일이 되므로 오 시장이 재선거에도 출마할 수 있다고 볼 수도 있다. 그러나 선거 무효화 판결이 7월 1일 이후에 이뤄져 오 시장이 이미 민선 9기 시장으로 취임해 하루라도 재임한 상태라면, 오 시장이 이미 3기를 계속 재임한 상태이므로 재선거에는 출마할 수 없다고 해석될 수도 있다. 반면 재선거로 선출된 시장은 민선 9기 잔여 임기를 수행하는 것이므로 ‘3기 내 계속 재임’에 해당돼 출마할 수 있다는 정반대 해석이 나올 수도 있다.&lt;br&gt;&lt;br&gt;법원의 선거 무효 판결이 없는 상태에서 오 시장이 자진 사퇴해 재선거를 하는 경우에는, 오 시장의 당선이 무효화되지 않았으므로 오 시장이 재선거에서 ‘연속 4선’에 도전하는 것이 가능한지를 두고 논란이 일 수 있다. 그럼에도 오 시장의 사퇴 시점이 민선 9기 시장 취임 전이라면, 7·8기만 재임한 것이므로 9기 시장 재선거에 출마할 수 있다고 해석될 수도 있다. 하지만 사퇴 시점이 민선 9기 시장 취임 후라면, 이미 3기를 재임했으므로 재선거 출마는 불가하다는 해석과 ‘3기 내 계속 재임’을 위한 재선거이므로 출마가 가능하다는 해석이 엇갈릴 수 있다.&lt;br&gt;&lt;br&gt;지방자치법 소관 부처인 행정안전부는 “당장 어떤 해석이 옳다고 판단하기 어렵다”는 입장이다. 행안부 관계자는 “비슷한 선례도 없고, 헌법상 중대한 기본권인 피선거권과 관련된 문제이기 때문에 행정부의 유권 해석으로 결정하기 어려운 사안”이라며 “결국 사법부가 판단하게 되지 않겠느냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HWC76OHR5P6PEXSFSCVVBHHKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김재섭 의원이 지난 8일 국회 소통관에서 기자회견을 하고 6·3 지방선거 투표용지 부족 사태와 관련해 더불어민주당에 야당 추천 특검을 수용하라고 촉구하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 내에서도 장 대표 주장에 대해 “무책임하다”는 비판이 나왔다. 오 시장의 공동선거대책위원장을 한 김재섭 의원은 10일 CBS라디오 ‘박성태의 뉴스쇼’에 출연해 “오 시장 재선거는 정치적으로도 불가능하고 법적으로도 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;김 의원은 “(당선 효력을 다투는 선거 소청·소송은) 진 사람 쪽에서 해야 하는데, 오 시장은 이겼다”고 했다. 김 의원은 또 “오 시장이 재선거를 요구하려면 사퇴한 뒤에 재선거를 요청해야 하는데, 오 시장이 지금 3연임인데, 사퇴를 하면 4연임은 애초에 법적으로 도전이 불가능하다”며 “그러면 오 시장은 사퇴하는 순간 도전자 자격을 잃어버린다”고 했다.&lt;br&gt;&lt;br&gt;김 의원은 “오 시장에게 재선거를 요구하는 것은 애초에 당신은 무조건 떨어지는 것을 전제로 다른 후보로 재선거를 하자는 요구인 것”이라며 “이게 (오 시장을 선출한) 서울시민의 민의에 맞느냐”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “애초에 (재선거) 도전 자체가 불가능한 사람한테 ‘사퇴하고 집에 가시고, 재선거는 우리끼리 하겠습니다’라고 하는 것은 당대표로서 할 말이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“압수수색 왔다” 위조 경찰 신분증으로 혼자 사는 여성 노렸다</title>
+      <link>https://www.chosun.com/national/regional/2026/06/10/Y5KIEV56AZDBTJI42I27XUX77Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/10/Y5KIEV56AZDBTJI42I27XUX77Q/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 02:26:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSETS47OPZHRNHGS5JTH6A42VE.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 신분증을 위조해 여성 혼자 사는 집에 들어가 금품을 빼앗은 30대가 붙잡혔다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 강도 혐의로 30대 A씨를 구속 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 27일 오전 1시 50분쯤 제주시 한 다가구주택에 침입해 현금과 귀금속 등 300만원 상당의 금품을 빼앗은 혐의를 받는다. A씨는 초인종을 누르고 AI를 활용해 위조한 경찰 신분증을 보여준 뒤 “경찰이다”, “압수수색을 하러 왔다”는 취지로 피해자를 속여 집 안으로 들어간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 피해자가 혼자 사는 여성이라는 것을 미리 파악한 뒤 범행한 것으로 드러났다.&lt;br&gt;&lt;br&gt;범행 이후 수상함을 느낀 피해자는 약 17시간이 지나 경찰에 신고했고 경찰은 다음 날인 28일 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 범행 경위 등을 조사한 뒤 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한국의 산티아고’ 걸어볼까... 칠곡 한티 순례길 10주년 축제</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/10/FWDW7GBSTRERFP5B4H3WD3JBPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/10/FWDW7GBSTRERFP5B4H3WD3JBPI/</guid>
+      <dc:creator>칠곡=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 02:19:29 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAFL5GRXPNF7VJHIDYURKZU6QU.png"&gt;&lt;figcaption&gt;&lt;small&gt;한티가는 길/칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 칠곡군의 대표 순례길인 ‘한티 가는 길’ 개통 10주년을 기념하는 축제가 열린다.&lt;br&gt;&lt;br&gt;칠곡군은 13일 오후 2시부터 한티 가는 길 일원에서 ‘2026 한티 가는 길 걷기여행 한티 한마당’을 개최한다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;한티 가는 길은 왜관읍 가실성당에서 동명면 팔공산 한티 순교성지까지 총 45.6㎞의 순례길이다. 1815년 을해박해 때부터 천주교 신자들이 관군을 피해 칠곡 한티 지역으로 숨었던 역사에서 유래했다. 2016년 9월 칠곡군청 설립 100주년을 기념해 숲길로 조성됐으며, 조성 이후 지난 10년간 ‘한국형 산티아고 순례길’로 불리며 지역 명소가 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BTIZIGWOJDH3MW2CWEWRSV2QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 행사는 오후 2시부터 9시까지 한티순교성지 잔디광장 일대에서 3부로 나뉘어 진행된다.&lt;br&gt;&lt;br&gt;1부 ‘한티 가는 길 걷기’에선 한티주차장에서 잔디광장을 오가는 왕복 3㎞ 코스와 선원사에서 한티성지를 거쳐 돌아오는 왕복 5㎞ 코스 중 하나를 선택해 걸을 수 있다. 이어지는 2부 ‘토크&amp;amp;달빛콘서트’에선 배우 박중훈이 진행하는 토크 콘서트와 10주년 축하 음악회가 열린다. 3부 ‘달빛 걷기’에선 한티성지에서 선원사까지 걷는 야간 걷기 프로그램이 진행된다.&lt;br&gt;&lt;br&gt;참가 신청은 10일까지 한티가는 길 홈페이지에서 가능하며 선착순 1000명을 모집한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQKDUF4O2RHNHGTLJFV2NV5LFI.png"&gt;&lt;figcaption&gt;&lt;small&gt;한티가는 길/칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김재욱 칠곡군수는 “한티가는 길은 숭고한 역사가 깃든 성찰의 길이자 아름다운 자연이 주는 치유의 길”이라며 “종교를 넘어 한티를 찾는 많은 이들이 마음의 평화를 얻어가길 바란다”고 했다. &lt;br&gt;&lt;br&gt;한편, 한티가는 길은 총 5개 구간으로 나뉘어져 있으며 각 구간 길이는 8~10㎞ 정도로, 한 구간을 걷는데 평균적으로 4시간 정도 걸린다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AQKDUF4O2RHNHGTLJFV2NV5LFI.png?auth=8d9ed7a0acad5f181ac2c62058f53b41096410acafc8b6db2497f21c827189b3&amp;smart=true&amp;width=1389&amp;height=920" type="image/png" height="920" width="1389">
+        <media:description type="plain">한티가는 길/칠곡군</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>드론 날려 부산 해작사·항모 불법 촬영한 中 유학생, 징역 1년6개월</title>
+      <link>https://www.chosun.com/national/regional/2026/06/10/XHWEAXLICRG53P5UJTNZ3ZTIYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/10/XHWEAXLICRG53P5UJTNZ3ZTIYM/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 02:07:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWU4UWGZIBDIPI4AD5IYMESNRI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 6월 22일 오전 미국 해군의 핵추진 항공모함 '시어도어 루스벨트'(CVN-71·10만t급)가 부산 남구 해군작전사령부 부산작전기지에 입항하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 군사 시설과 미국 항공모함 등을 드론으로 불법 촬영한 중국인 유학생이 일반이적 혐의로 실형을 선고받았다. 외국인이 일반이적으로 유죄 판결을 받은 것은 이번이 두 번째다.&lt;br&gt;&lt;br&gt;부산지법 형사5부(재판장 김현순)는 10일 일반이적과 군사시설보호법 위반 등 혐의로 기소된 중국인 A(49)씨에게 징역 1년 6개월을 선고했다. 또 군사시설보호법 위반 혐의로 기소된 중국인 B(36)씨에게 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2023년 3월부터 2024년 6월까지 부산 남구 해군작전사령부(해작사) 인근에서 드론을 띄워 국가 안보 시설인 해작사 기지 내부와 한·미·일 군사훈련에 참가하기 위해 입항한 미국 항공모함 시어도어 루스벨트호(10만t급) 등을 불법 촬영한 혐의를 받는다. 당시 이들은 부산의 한 국립대에 재학 중이었다.&lt;br&gt;&lt;br&gt;A씨는 또 중국 메신저 앱을 통해 지인에게 촬영물을 7차례 공유한 혐의도 있다.&lt;br&gt;&lt;br&gt;이들은 사진 172장과 동영상 22개 등을 촬영했으며, 총 용량은 약 12GB에 달했다. 이들이 사용한 드론은 중국의 유명 브랜드 제품으로, 전용 앱에 가입한 뒤 사진과 동영상을 촬영하면 자동으로 중국 업체 서버로 전송된다고 한다. 경찰은 주범인 A씨에게 외국인 최초로 일반이적 혐의를 적용했다.&lt;br&gt;&lt;br&gt;법정에서 A씨 측은 “평소 밀리터리(군사) 문화에 관심이 많아 호기심 때문에 촬영한 것일 뿐 한국의 군사적 이익이나 안보에 해를 끼칠 의도가 없었다”고 주장했다. 그러나 재판부는 “일반이적죄는 적국에 이익을 준다는 의사가 필요하지 않기 때문에 이 사건 증거에 의하면 유죄가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;군함이나 항공모함은 군사 시설이 아니라는 주장에 대해선 재판부는 “군사시설보호법에 따르면 군함이나 항공모함은 군사 시설에 해당하지 않는다”면서 “다만 군 기지를 촬영한 것은 유죄로 인정되기 때문에 따로 무죄 선고는 하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들은 군사 시설을 허가 없이 촬영한 사실은 불리한 정상으로 고려했다. 특히 A씨는 “군사 시설에 대한 정보를 노출시킴으로써 대한민국의 군사상 이익에 상당한 위험을 초래했다”면서 “다만 피고인들이 촬영한 사진이나 영상물이 적국이나 비우호 국가 또는 단체 등에 유출됐다는 사정이 보이지 않는 점은 유리한 정상으로 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;보석으로 풀려나 불구속 상태에서 재판을 받던 A씨는 이날 실형이 선고되면서 도주 우려로 인해 법정 구속됐다.&lt;br&gt;&lt;br&gt;한편, 수원지법 형사12부(재판장 박건창)는 지난달 15일 지역 공군 기지 등을 돌며 전투기와 시설 등을 몰래 촬영하고, 통신을 감청하려다 적발된 10대 중국인 고교생 2명에게 징역형을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 전국에 거센 소나기...남부는 30도 육박 더위</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/06/10/SXFEDKD54VBPTO4BBDT2VOQVAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/10/SXFEDKD54VBPTO4BBDT2VOQVAY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 01:17:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3TGNDBGA4DSNJTGY4DAM3GGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 강서구청 인근에서 우산을 쓴 시민들이 갑자기 내리는 소나기를 피하며 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 전국에 거센 소나기가 예보됐다. 남부지방은 낮동안 수은주가 30도 내외로 오르며 더울 전망이다.&lt;br&gt;&lt;br&gt;10일 기상청에 따르면, 11일 소나기 구름대가 형성되며 전국에 비가 내리겠다. 예상 강수량은 서울·경기 5~30㎜, 강원도 5~40㎜, 충청권 5~30㎜, 전북·경북 5~20㎜ 등이다.&lt;br&gt;&lt;br&gt;기상청은 “소나기가 내리는 지역에선 돌풍과 함께 천둥·번개가 치는 곳이 있겠고, 우박이 떨어지는 곳도 있어 시설물 관리와 안전 사고에 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;소나기 특성상 같은 지역 내에서도 강수량 차이가 클 것으로 보인다. 소나기는 일반적인 비구름대와 달리 국지적으로 퍼붓는 특징이 있다.&lt;br&gt;&lt;br&gt;11일 아침 최저기온은 12~18도, 낮 최고기온은 23~29도로 예보됐다. 남부지방을 중심으로 최고 30도에 육박하는 더위가 나타날 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국회의원회관 건물에서 50대 남성 추락...심정지 상태로 발견</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/10/B6TAYRIYW5CPNDW6WNYNBFIHXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/10/B6TAYRIYW5CPNDW6WNYNBFIHXQ/</guid>
+      <dc:creator>지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 01:03:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRTOZRXMQYWMOJSGM4TSOJSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포구 여의도 국회의사당 /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 의원회관에서 50대 남성이 추락해 심정지 상태에 빠졌다.&lt;br&gt;&lt;br&gt;10일 서울 영등포소방서에 따르면 50대 남성 A씨가 이날 오전 8시 39분쯤 서울 영등포구 국회 의원회관 2층 실내 화단에 추락한 채 발견됐다. &lt;br&gt;&lt;br&gt;소방은 “사람이 떨어져 있다”는 신고를 접수받고 출동해 심정지 상태인 A씨를 발견한 후, 심폐소생술을 실시하며 병원으로 이송했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 소속과 추락 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>투표용지 50%도 안 찍은 투표소 전국 1371곳</title>
+      <link>https://www.chosun.com/politics/election2026/2026/06/10/I26OPHSZRZCSFEHHGG2SH2YTK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/election2026/2026/06/10/I26OPHSZRZCSFEHHGG2SH2YTK4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 00:31:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6WK67MIVBPVLOQT66CC3EGPJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거일인 지난 3일 충북 청주체육관에 마련된 개표소에서 개표 사무원들이 투표지를 분류하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거에서 본투표용 투표용지 인쇄량이 유권자 수의 50%도 안 된 투표소가 전국 1371곳에 달한 것으로 나타났다. 중앙선거관리위원회가 투표용지 인쇄량 하한선을 50%로 낮춘 것이 투표용지 부족 사태의 원인이었다는 지적이 나오는 가운데, 이 기준마저 지키지 않은 투표소가 있었던 것이다.&lt;br&gt;&lt;br&gt;10일 김민전 국민의힘 의원실이 중앙선관위에서 받은 자료에 따르면, 6·3 지방선거 투표소 1만4288곳 가운데 투표용지 인쇄량이 선거인 수의 50% 미만인 곳은 1371곳이었다. 전체 투표소의 9.6%로, 10곳 가운데 1곳꼴이다.&lt;br&gt;&lt;br&gt;투표용지 부족 사태가 벌어진 투표소 91곳 가운데 42곳은 이렇게 선거인 수의 50%보다 적게 투표용지를 인쇄한 곳이었다. 특히 투표 중단 사태가 벌어진 26곳 가운데 15곳이 이에 해당됐다.&lt;br&gt;&lt;br&gt;투표용지 인쇄 비율이 가장 낮은 곳은 부산 동구 수정5동 제2투표소와 전남 여수 시전동 제4투표소로, 각각 45.5%였다. 두 투표소 모두 선거인 수가 2197명이었지만 실제로 인쇄된 투표용지는 1000매에 불과했다.&lt;br&gt;&lt;br&gt;세종시 86개 투표소 가운데 67곳(77.9%)이 50% 미만 인쇄 투표소였다. 인천은 746곳 가운데 312곳(41.8%)이었다. 광주는 30.0%, 전북은 23.7%, 서울은 13.5%, 경기는 5.6%, 부산은 2.7% 투표소가 50% 미만 인쇄 투표소였다. 서울에서는 성북구와 광진구, 송파구에 50% 미만 인쇄 투표소가 집중됐다.&lt;br&gt;&lt;br&gt;중앙선관위 지침상 투표용지 인쇄 매수는 구·시·군 선관위별로 위원회 의결을 거쳐 선거인 수의 50~100% 범위에서 정하도록 돼 있다. 그러나 100 단위 아래를 버리는 ‘절사’ 관행으로 인해, 위원회에서 의결된 비율보다 적게 인쇄되는 경우가 많았다. 예를 들어, 서울 송파구 송파1동 제4투표소는 선거인 수가 3999명이어서 50%는 1999.5명이었고 2000매를 인쇄해야 했지만, 100 단위 아래 숫자를 버려 1900매가 인쇄됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금강송 어우러진 울진 왕피천에서 피래미 축제 열린다</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/10/5K4HLR3INFDBJOVVE2NADMYQOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/10/5K4HLR3INFDBJOVVE2NADMYQOM/</guid>
+      <dc:creator>울진=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 01:17:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQNF6N2USBAEBNLQ5Y7CM5CDGM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 울진 왕피천 피래미 축제./울진군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 울진군이 13~14일 이틀간 근남면 굴구지 산촌마을 일원에서 제19회 왕피천 피래미 축제를 연다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;왕피천 피래미 축제는 주민들이 대나무를 이용해 냇가에서 피래미를 잡고 매운탕을 끓여 먹으며 즐기던 지역 전통놀이를 바탕으로 2008년부터 이어져 온 축제다. 울진군에선 대게 축제와 함께 대표적인 지역 축제로 꼽힌다.&lt;br&gt;&lt;br&gt;올해 축제는 울진으로 피서(避暑)를 온 가족이 함께 체험할 수 있는 프로그램으로 꾸며진다. 대나무를 이용한 전통 피래미 낚시 체험, 풍년 기원제, 보물찾기, 농산물 경매 등이 대표적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7VK5V43VBEPZKAGRSXR3BA7WE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 울진 왕피천 피래미 축제./울진군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해는 ‘왕피천 봇도랑길 트레킹 체험’도 처음 선보인다.&lt;br&gt;&lt;br&gt;굴구지 산촌마을은 왕피천과 금강소나무 숲이 어우러진 곳으로 최근 울진금강소나무숲길과 함께 지역의 대표 트레킹 명소로 주목받고 있다.&lt;br&gt;&lt;br&gt;이만호 울진군 농정과장은 “왕피천 피래미 축제는 마을 고유의 전통과 자연을 바탕으로 주민들이 만들어온 축제”라며 “많은 주민과 관광객이 울진의 자연 속에서 시원함을 만끽하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X7VK5V43VBEPZKAGRSXR3BA7WE.JPG?auth=32592fea53f55e7f3ea13cbdc612d6a7b5aa81f1256033a11c95b070cb513304&amp;smart=true&amp;width=1900&amp;height=1267" type="image/jpeg" height="1267" width="1900">
+        <media:description type="plain">지난해 열린 울진 왕피천 피래미 축제./울진군</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>“아직도 제가 ‘술 안 먹는 尹, 싸가지 있는 李로 보이나요?”</title>
       <link>https://www.chosun.com/national/people/2026/06/10/R3ANDBBPZVDAVP2BMWMJB3KBMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/10/R3ANDBBPZVDAVP2BMWMJB3KBMA/</guid>
@@ -738,18 +933,6 @@ jungho2035@gmail.com</media:credit>
       </media:content>
     </item>
     <item>
-      <title>“인생 첫 집회 참석… 기본권 무너지는 걸 두고볼 수 없었다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/09/6KGU4NSNGFAWPHCL3JLYIYNKBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/09/6KGU4NSNGFAWPHCL3JLYIYNKBM/</guid>
-      <dc:creator>원종빈 기자, 이나윤 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:52:00 +0000</pubDate>
-      <content:encoded>6·3 지방선거에서 불거진 투표용지 부족 사태에 항의하는 시민들이 8일에도 서울 송파구 잠실 개표소(올림픽공원 핸드볼경기장)에서 집회를 이어갔다. 지난 5일 집회를 시작한 지 나흘째다. 본지는 이 기간 현장에서 시민들을 만나 집회에 나온 이유를 들어봤다. 전남 순천에서 올라온 10대 학생, 20대 직장인, 아이를 유모차에 태우고 나온 2040 부부, 투표용지 부족 사태로 투표를 못 할 뻔한 50대 잠실 주민 등은 이번 사태를 보며 “민주주의의 위기를 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YIEHXGSNBHU7G5ITT4VOBC2AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 송파구 올림픽공원 핸드볼경기장 티켓박스에 시민들이 6·3 지방선거 투표용지 부족사태를 규탄하며 쓴 메시지가 부착돼있다. 이번 사태를 보며 “민주주의의 위기를 느꼈다”는 시민들이 지난 5일 이후 나흘째 이 곳에서 집회를 이어가고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇직장인 이태연(27) “기성 권력에 분노” &lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 잠실 집회는 단순히 선거관리위원회에 항의하거나 선거에 불복하려고 열린 게 아니다. 집값과 소득 격차, 일자리 등 사회 문제를 해결하지 못하는 기성 정치권에 대한 분노가 깔렸다고 본다. 2030 세대는 하루하루 경제적 문제를 고민하며 살아가는 것도 벅차다. 그런데 상상할 수 없는 투표용지 부족 사태가 벌어졌다. 민주주의의 기본인 참정권마저 뺏길 것 같은 위기감이 들었다. &lt;br&gt;&lt;br&gt;이런 중대한 문제가 발생했는데도 청년층을 제외하면 누구 하나 신경 쓰지 않는 것 같다. 지금도 선관위는 적당히 책임자가 사퇴하는 선에서 어물쩍 넘기려고 한다. 여야도 적당히 정쟁 수단으로 활용하며 방관하는 분위기 아니냐. 선관위의 명확한 해명과 조치, 진상 규명이 있을 때까지 집회 현장을 떠나지 않을 생각이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇직장인 안보연(31) “기본권 무너져”&lt;/b&gt;&lt;br&gt;&lt;br&gt;그동안 정치성 시위 현장엔 한 번도 나가본 적 없다. 인생 첫 집회 참석이다. 하지만 이번 사태는 정파와 무관하게 국민의 기본권을 무너뜨린 일이라 그냥 두고 볼 수 없었다. 선관위의 부실한 선거 관리로 나와 내 가족, 친구가 투표를 못 할 뻔했다. 집회 내내 오고 싶었는데 근무 일정이 있어 주말에 어렵게 짬을 내 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIJVPXE76JDCBC2ZTPM5MAOW7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 잠실 참정권 집회에 참여한 직장인 안보연씨의 모습. '재선거' 문구가 적힌 종이와 태극기를 들고 있다./강혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대학생 김모(19) “4·19 참여 기분” &lt;/b&gt;&lt;br&gt;&lt;br&gt;집회에 참여하기 위해 일요일인 7일 전남 순천에서 올라왔다. 뉴스에서 투표용지 부족 사태를 처음 접했을 땐 ‘21세기에 어떻게 이런 일이 벌어질 수 있나’ 싶었다. 민주주의 기본 절차가 흔들린 심각한 문제다. 선관위의 단순 실수로 치부하고 넘어갈 수 없다.&lt;br&gt;&lt;br&gt;투표권이 보장되지 않으면 앞으로 무엇을 신뢰하고 살아가야 하느냐. 교과서에서만 보던 ‘4·19 혁명’이 남의 일 같지 않아 태극기를 들고 나왔다. 이승만 정부 때 3·15 부정선거에 반대해 거리에 나선 학생들이 이런 마음이었겠구나 싶다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇송준혁(42)·양서경(26) 부부 “아이에겐 더 좋은 세상을” &lt;/b&gt;&lt;br&gt;&lt;br&gt;인스타그램과 스레드 등 소셜미디어를 통해 젊은이들이 평화롭게 시위하는 모습을 봤다. 그 덕분에 안심하고 16개월 된 아기를 유모차에 태워 집회 현장에 데리고 왔다. 우리 아이에게 더 좋은 세상을 만들어주고, 참정권 훼손에 항의하는 역사적인 현장도 보여주고 싶었다. &lt;br&gt;&lt;br&gt;이번 사태는 특검 수사든, 국회 국정조사를 하든 완전히 해결해야 한다. 다만 정치인들이 참정권 집회에 참여하고 상황을 주도하면 시민들의 순수한 목소리가 흐려질까 우려된다. 일각에서 주장하는 부정선거론과도 분리해 선거 관리 실패 문제를 규명하는 데 동력을 집중해야 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C36JDCNOCJD37POYKGPD4B5CA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송준혁·양서경 부부가 16개월 된 아들과 함께 태극기를 들고 지난 7일 오전 잠실 참정권 집회에 참석한 모습./원종빈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대학생 김모(22) “선관위 개혁해야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;소셜미디어를 통해 집회를 지켜보다가 광주(光州)에서 KTX 열차를 타고 상경했다. 이 상황이 이해가 안 간다. 선관위를 둘러싼 각종 의혹을 이번 기회에 해소하고, 대대적으로 개혁해야 한다. 선관위 직원들이 선거 기간에 유독 휴가·휴직을 몰아서 쓴다고 하던데, 사실이라면 심각한 문제다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UYYFO2CPBDGFO7YFSA2ILX774.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 잠실 참정권 집회에 참석한 대학생 김모씨가 '재선거 부정선거'라는 문구가 적힌 종이를 들고 있다. 김씨는 이날 아침 광주광역시에서 올라와 집회에 참여했다./원종빈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇주부 한영미(55) “부정선거 안 믿지만...”&lt;/b&gt;&lt;br&gt;&lt;br&gt;투표용지가 동이 났던 잠실 우성아파트 주민이다. 다행히 사전투표를 한 덕분에 내 참정권은 행사할 수 있었다. 그런데 사전투표를 하지 않은 이웃들은 본선거 당일 밤늦게까지 투표를 하기 위해 기다릴 수밖에 없었다. 유독 송파구에서만 집중적으로 투표용지 부족 사태가 왜 생겼는지 의문이다. 부정선거론을 믿지 않지만, 이런 식이라면 의심이 갈 수밖에 없다. 선관위가 명확히 경위를 설명하고 책임자를 문책해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/Y7CTE46LG5FHVGJ6XFGVELE5DY.gif?auth=883c678ec274db613ea1692d896afa233f90a41c39675a27d62d3c8b0a6949e1&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
-        <media:description type="plain">7일 오전 서울 송파구 올림픽공원 핸드볼 경기장 개표소 앞에서 본지와 만난 송준혁(가운데)·양서경 부부. 이 부부는 16개월 된 아들과 함께 잠실 참정권 집회에 참석했다./ 박성원, 원종빈 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>배심원 12명 확정… 이화영 ‘연어 술자리’ 위증 여부, 열흘간 가린다</title>
       <link>https://www.chosun.com/national/court_law/2026/06/09/BKZPPYTWQVHPDKX5SFYYZVL64I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/09/BKZPPYTWQVHPDKX5SFYYZVL64I/</guid>
@@ -768,16 +951,6 @@ jungho2035@gmail.com</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56O4A5RVJJGTJCPEZEBB5OMZ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 농촌진흥청에 따르면 흑염소에는 소고기의 11배, 돼지고기의 18배 더 많은 칼슘이 들어 있다. /게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 ‘초복’은 7월 15일이다. 보양식을 즐겨 먹는 초복을 한 달 앞둔 6월은 국내 염소 농장들이 대목을 기대할 때다. 그러나 지난 4일 본지가 찾은 전북 남원의 한 염소 농장은 복날 특수와는 상관없어 보였다. 보통 이맘때면 염소를 시장에 출하해 농장에 빈 공간이 많아야 정상이다. 하지만 15평 남짓한 축사에는 염소 80여 마리가 빼곡히 서서 건초를 뜯고 있었다. 농장주 전영기(63)씨는 “내년 2월 개 식용 금지법 시행을 앞두고 문을 닫은 개 농장이 많아 염소를 찾는 사람이 많을 것 같았는데 평소보다도 출하가 안 된다”고 했다.&lt;br&gt;&lt;br&gt;전씨 말처럼 최근 수년간 염소고기를 찾는 사람이 늘긴 했다. 농림축산식품부에 따르면, 국내 염소고기 소비량은 2020년 6328t에서 2024년 1만3708t으로 두 배 이상 증가했다. 이는 2024년 2월 ‘개 식용 종식법’이 제정된 영향이 크다. 개 식용 종식법은 개를 식용 목적으로 사육하거나 도살하는 행위를 처벌하는 법이다. 내년 2월 시행을 앞두고 이미 국내 육견 농장은 80%가량 폐업했다고 한다.&lt;br&gt;&lt;br&gt;하지만 식용 목적 개 사육·도살이 금지되는 혜택은 전국적으로 1만 곳이 넘는 국내 염소 농장의 몫이 아니었다. 수입산 염소고기가 시장을 잠식했기 때문이다. 호주 등에서 수입된 염소고기는 2020년 1161t에서 2024년 8143t으로 6982t 증가했다. 같은 기간 국내 염소고기 소비량 증가분(7380t) 대부분이 수입산이었던 셈이다.&lt;br&gt;&lt;br&gt;수입산 염소고기는 국내산보다 저렴하다. 업계에 따르면, 식당에 공급되는 국내산 염소고기 가격은 1㎏에 1만8000~1만9500원 정도인데, 호주산은 1㎏에 1만2000원 수준이다. 국내산이 50% 이상 비싼 셈이다. 2023년부터는 한국·호주 자유무역협정(FTA)에 따라 호주산 염소고기가 무관세로 들어오고 있다. 이 바람에 국내 염소 가격도 줄곧 하락세다. 농협에 따르면, 지난 2024년 전국 지역축협의 가축시장에서 거래된 살아 있는 염소 가격(암컷)은 1㎏당 1만9522원이었으나, 올해는 지난 4월 7021원까지 하락했다.&lt;br&gt;&lt;br&gt;상황이 이렇게 되자 정부도 대책을 마련 중이다. 농림축산식품부 관계자는 “한국·호주 FTA 발효 이전부터 염소 농장을 운영해 오던 농가에 ‘FTA 피해 보전 직불금’을 지원할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“전통놀이 신기해요” 사자탈과 셀카</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/09/6CVCE6VCCVCSDLFD5WVN6ITWOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/09/6CVCE6VCCVCSDLFD5WVN6ITWOA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBVIAH25LBEWNBQYEXDQKNARDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오전 서울 성동구 서울숲에서 ‘2026 대한민국 전통연희축제’가 열렸다. 외국인 관광객이 축제 마스코트인 사자탈과 사진을 찍고 있다. 사자는 예로부터 나쁜 기운을 물리치고 마을의 풍요를 기원하는 존재로 여겨졌다. 축제는 12일까지 열린다. 봉산탈춤, 북청사자놀음, 밀양백중놀이 등이 펼쳐진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[서초동 25시] “결혼 전 내가 사준 선물값 내놔” 법정으로 간 파혼 청구서</title>
       <link>https://www.chosun.com/national/court_law/2026/06/09/CCGDT6WGDBHTTAQ7TZCUXJKN3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/09/CCGDT6WGDBHTTAQ7TZCUXJKN3U/</guid>
@@ -785,15 +958,6 @@ jungho2035@gmail.com</media:credit>
       <description/>
       <pubDate>Mon, 08 Jun 2026 15:48:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKE6XAOYTRHB7G5V3SCECCYMPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30대 남성 A씨는 작년 초 데이팅 앱에서 만난 여성 B씨와 결혼을 약속했다. A씨는 예비 신부를 위해 아낌없이 돈을 썼다. “결혼 전 피부와 몸매 관리를 하겠다”고 하니 200만원 상당의 고급 에스테틱 비용도 결제해줬다. 올해 2~3월엔 명품 목걸이와 반지, 시계, 찻잔 세트 등 1800만원 상당의 선물도 줬다. 그러나 지난 3월 B씨의 외도 사실이 드러났고, A씨는 배신감에 서울가정법원에 약혼해제에 따른 손해배상 청구 소송을 냈다. A씨는 위자료 5000만원에 선물값 등 교제 기간 자신이 쓴 2000만원까지 총 7000만원을 청구했다.&lt;br&gt;&lt;br&gt;결혼을 약속했다가 관계가 깨진 사람들의 ‘파혼 정산’ 소송이 늘고 있다. 결혼이 무산됐을 때 귀책사유를 따져 정신적·재산상 손해를 배상받으려는 약혼해제 손해배상 소송이 증가하고 있다는 것이다. 서울가정법원에서는 2023년 11건에 불과했던 약혼해제 손해배상 소송이 2024년 22건, 지난해 37건으로 3년 만에 3배 이상 늘었다.&lt;br&gt;&lt;br&gt;C씨는 결혼식을 3개월 앞둔 작년 1월 동거 중이던 예비 신랑 D씨의 외도 사실을 알게 됐다. D씨가 소개팅 앱으로 다른 여성 4명과 연락하고, 그중 2명과 실제 만난 사실이 들통난 것이다. C씨는 수원가정법원에 위자료 3000만원을 청구하는 소송을 내 작년 9월 1000만원 배상 판결을 받았다. &lt;br&gt;&lt;br&gt;파혼 정산 소송에서는 결혼 준비 과정에 들어간 돈을 두고 다투는 사례도 적지 않다. 한 이혼 전문 변호사는 “신혼집 마련할 때 낸 부동산 중개 수수료, 이사 비용, 청첩장과 스드메(스튜디오·드레스·메이크업) 비용까지 계산해 손해배상 항목에 넣는 경우도 있다”고 말했다. &lt;br&gt;&lt;br&gt;또 상견례나 예식장 예약 등 약혼 관계였다는 점을 입증하기 어렵거나, 상대방의 귀책 사유가 불분명할 때는 빌려준 돈을 돌려받을 때 제기하는 ‘대여금 반환 소송’ 등으로 이어지기도 한다. 2022년 결혼을 전제로 동거했던 E씨와 여자친구 F씨. E씨는 2년여 동안 해외여행 경비 3300만원, 명품 시계와 가방 등 1570만원 상당의 선물을 사줬고, F씨가 차리려던 필라테스숍 보증금 2500만원도 대신 내줬다. 2024년 10월 이별하자 E씨는 “F씨가 결혼할 것처럼 속여 돈을 받아냈다”며 대여금 반환 소송을 냈다. 서울중앙지법은 작년 2월 여행 경비나 선물은 “애정 표시로 준 소비적 증여 성격이 강해 돌려줄 필요가 없다”고 했지만, 필라테스숍 보증금은 “사회통념상 데이트 비용을 초과하는 거액이어서 전액 돌려주라”고 판결했다. 가정법원 출신 한 변호사는 “과거에는 파혼을 하면 쉬쉬하고 감추는 분위기였는데, 요즘은 ‘돌려받을 건 다 받아내야 한다’는 인식이 강해졌다”며 “갈수록 결혼 준비 비용이 커지고 있는 만큼 이별 후 돈 문제를 둘러싼 다툼은 앞으로 더 많아질 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배송 기사, 타워크레인 기사 이어… 수도권 레미콘 노조도 “단체 협상”</title>
-      <link>https://www.chosun.com/national/labor/2026/06/09/COTZ4MCHNBAM7DNQE5H4YPXLXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/09/COTZ4MCHNBAM7DNQE5H4YPXLXI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPPFWHJ4VZHVPACWK37R6FCBQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 경기도 안양의 한 레미콘 공장에 레미콘 트럭들이 줄지어 세워져 있는 모습. 이날 전국레미콘운송노동조합은 운송비 인상과 단체교섭 등을 요구하며 수도권 지역 레미콘 운송을 전면 중단했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 전국레미콘운송노동조합이 “이날부터 무기한 휴업에 돌입한다”고 밝혔다. 이번 휴업에는 수도권 소속 조합원 8000여 명이 참여한다. 노조 측은 ‘휴업’이란 표현을 썼지만, 업계에선 이를 ‘파업’으로 받아들이고 있다.&lt;br&gt;&lt;br&gt;레미콘 기사들은 레미콘 제조사와 근로 계약을 맺은 ‘근로자’가 아니라 개별 사업자 신분인 ‘노무제공자(특수형태근로종사자)’다. 올해 이들은 이전과 다른 새로운 요구를 하고 있다. 그동안은 수도권 내 12개 권역으로 나눠 운송비 협상을 각각 따로 해왔는데, 이제 수도권을 하나로 묶은 ‘단체협상’을 하자는 것이다. 올 2월 서울행정법원이 레미콘 운송 기사를 노조법상 근로자, 레미콘운송노조를 노조로 판단한 데 따른 영향이다. 자신들이 지역별 사업자 단체가 아니라 노조인 만큼 개별 공장 단위가 아닌 수도권 전체를 대상으로 단일 교섭을 하겠다는 취지다. &lt;br&gt;&lt;br&gt;그러나 업계에선 현재 항소심이 진행 중이고, 대법원 판결 전 하급심에선 판단이 엇갈리는 경우도 많은 만큼 확정된 판례를 따르는 게 맞다고 반박한다. 앞서 2006년 대법원은 다른 사건에서 “레미콘 운송 기사들이 기본급이나 고정급 없이 운송 실적에 기초한 운반비를 지급받고, 사업자 등록을 해 사업소득세 등을 낸다”며 “이들을 근로자라고 보기 힘들다”고 밝힌 바 있다. 레미콘 제조사 관계자는 “아직 과거 대법원 판례가 변경된 것도 아닌데, 이들을 노조로 인정해 교섭하면 항소심을 포기하는 것과 같기 때문에 단체 협상에 응해줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;산업계에선 최근 노무 제공자들이 잇따라 파업을 벌이는 데 대한 우려가 나오고 있다. 지난달엔 타워크레인 기사들이 파업을 벌였고, 4월엔 편의점 CU 배송 기사들이 대규모 파업을 벌였다. 특히 CU 사태에선 배송 기사들이 속한 화물연대가 노조 설립 신고도 하지 않은 단체였는데, 사망자 발생 등으로 원청에 해당하는 CU 운영사가 교섭에 응하기도 했다. 경영계 관계자는 “법적 지위에 대한 논란이 있는 상태에서 집단행동으로 기업을 굴복시키는 선례가 만들어지고 있다”고 했다.&lt;br&gt;&lt;br&gt;현 정부는 한발 더 나아가 노무제공자의 파업을 아예 합법화하는 법 개정도 준비 중이다. 전 정부 때인 2022년 공정거래위원회는 화물연대를 사업자 단체로 보고 이들의 파업을 ‘담합’으로 규정한 바 있다. 현재 공정위는 ‘노무제공자들의 권리를 제약하지 않겠다’면서 이들의 파업을 공정거래법 적용 대상에서 예외로 하는 개정안을 추진하고 있다. 입장을 180도 바꾼 공정위는 이를 위한 연구용역에도 착수했다. 박지순 고려대 법학전문대학원 교수는 “노무제공자들의 파업은 일반 근로자 파업보다 영향력이 커 사용자인 기업들이 속수무책일 수밖에 없다”며 “대법원 판결 전부터 실력 행사를 하는 건 법적 안정성을 크게 해치는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이른 더위에… ‘오존의 공습’ 더 길어지고 독해졌다</title>
@@ -805,63 +969,6 @@ jungho2035@gmail.com</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYWCOJSHFRWIMDFGJSWIZLGMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경기 수원시 권선구 올림픽공원 인근 전광판에 표시된 오존주의보 /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“오존 주의보 발령. 노약자는 실외 활동을 자제하시기 바랍니다.”&lt;br&gt;&lt;br&gt;지난달 18일 오후 서울 중구 시청역 인근 전광판에 이 같은 안내 문구가 떴다. 오존은 눈·코·목 등 점막과 호흡기를 자극해 천식이나 만성 폐 질환이 있는 사람의 증상을 악화시키는 ‘여름철 대기오염 물질’로 꼽힌다. 자동차·공장 등에서 나온 질소산화물과 휘발성유기화합물이 햇빛과 만나 생성되는 오존은 기온이 높을수록 잘 만들어진다. 5월 중순인데도 이날 서울 낮 기온이 30도에 육박하자, 오존 주의보(1시간 평균 오존 농도 0.12ppm 이상일 때)가 발령된 것이다. 이처럼 때 이른 더위로 ‘오존의 계절’ 도래 시점이 앞당겨졌을 뿐 아니라 기간도 더 길어지고 있다. &lt;br&gt;&lt;br&gt;8일 한국환경공단에 따르면, 올 1~5월 전국에 발령된 오존 주의보는 129회로 지난해 같은 기간(73회)보다 약 77% 늘었다. 오존 주의보는 1995년만 해도 총 2차례에 불과했지만, 2010년대 중반부터 연 100회를 넘겼다. 최근에는 매년 수백 회씩 발령된다. 더위가 빨리 찾아오면서 과거 여름에 집중됐던 고농도 오존이 봄부터 나타나는 것이다. 10년 전인 2016년만 해도 5월 5일 전국에 첫 오존 주의보가 내려진 반면, 올해는 3월 27일 첫 오존 주의보가 내려진 뒤 3~4월에만 30회 발령됐다. 전국 연평균 오존 농도 역시 2000년 0.020ppm에서 2024년 0.033ppm으로 높아졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVIFO5FWUZHNDGHZBLCPAM6QLE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원인으로는 기후변화에 따른 평균기온 상승이 꼽힌다. 기상청이 1973~2025년 봄철(3~5월) 평균기온을 분석해보니 10년 단위로 평균 0.34도씩 올랐다고 한다. 지금까지 관측된 가장 더웠던 봄철 ‘상위 10위’를 추려보면, 그중 7개가 최근 10년(2017~2026년) 사이에 몰릴 정도로 추세가 뚜렷하다. 또 이형주 포스텍 교수 연구팀이 2001~2019년 서울 오존 관측 자료를 분석한 결과, 기온 상승 등 기후 조건 변화로 고농도 오존이 발생하는 시기(8시간 평균 오존 농도 0.060ppm 이상)가 89일 길어진 것으로 확인됐다. 국립환경과학원도 이런 변화에 맞춰 작년부터 오존 예보 기간을 4월 1일~10월 31일로 기존(4월 15일~10월 15일)보다 한 달 늘린 상태다. 온난화 영향으로 봄과 가을에도 고농도 오존이 나타나는 날이 많아졌기 때문이다.&lt;br&gt;&lt;br&gt;문제는 오존이 사람에겐 나쁜 영향을 끼친다는 것이다. 질병관리청의 ‘기후보건영향평가 보고서’에 따르면, 오존 노출로 인한 ‘초과 사망자’는 2010년 1248명에서 2019년 2890명으로 2배 이상 늘었다. 초과 사망자란 호흡기 질환 등과 같은 사망자 중에서 오존 영향만 아니었다면 실제로 죽지 않았을 인원 통계를 추산한 것이다. 사망자는 주로 65세 이상 고령층이었다. 오존은 미세먼지와 달리 마스크로 막기 어렵다. 이에 보건 당국에선 오존 주의보 발령 시 야외 활동을 자제하고, 실내에서도 창문을 닫아둘 것을 권하고 있다. 오존 피해가 사람뿐 아니라 장기적으로 작물 수확량 감소로 이어질 수 있다는 분석도 나온다. 김순태 아주대 환경안전공학과 교수는 “오존의 산화력은 쌀·밀·옥수수 등 주요 식량 작물의 생장을 방해한다”며 “오존 농도가 계속 높아진다면 세계적 식량 위기나 기아 문제가 더 심해질 것”이라고 했다. &lt;br&gt;&lt;br&gt;올해 여름(6~8월)은 평균 기온이 평년보다 높을 뿐 아니라 폭염까지 전망된 만큼, 고농도 오존 역시 이전보다 더 짙어질 가능성이 크다. 국립환경과학원 관계자는 “앞으론 ‘좋은 날씨’라고 하면 ‘비 오는 날’을 의미하게 될지도 모른다”며 “미세먼지가 씻겨 내려가고, 햇빛이 적어 오존도 잘 발생하지 않기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 이강길 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/06/09/Q2VK253AQFAF3ELSSISHAZSTFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/06/09/Q2VK253AQFAF3ELSSISHAZSTFE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;이강길&lt;/b&gt; 별세, &lt;b&gt;윤영숙&lt;/b&gt; 남편상, &lt;b&gt;이인재&lt;/b&gt; 前 한화임팩트 부사장·&lt;b&gt;이영재&lt;/b&gt; 前 신한생명 상무 부친상, &lt;b&gt;백은희&lt;/b&gt;·&lt;b&gt;송경희&lt;/b&gt; 시부상=7일15시4분 쉴낙원 양산시민장례식장, 발인 9일10시30분, (055)381-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장진남&lt;/b&gt; 별세, &lt;b&gt;이정모&lt;/b&gt; 파블로항공 방산부문 대표·&lt;b&gt;이인모&lt;/b&gt; 동아일보 강원주재 부장·&lt;b&gt;이정미&lt;/b&gt; 봉의고 행정실 주무관 모친상, &lt;b&gt;이미정&lt;/b&gt; 강원대 인문치료센터 연구원 시모상=8일8시 교원예움 강원장례식장, 발인 10일8시, (033)261-4441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정병준&lt;/b&gt; 별세, &lt;b&gt;정희선&lt;/b&gt;·&lt;b&gt;정재필&lt;/b&gt; 봉산 대표·&lt;b&gt;정희정&lt;/b&gt;·&lt;b&gt;정희경&lt;/b&gt;·&lt;b&gt;정상필&lt;/b&gt; 前 광주일보 기자 부친상=7일23시 전남 구례병원, 발인 10일9시, (061)783-4344&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쌍둥이 중 첫째 잃었지만… 152일 더 품어 둘째 지켜낸 엄마</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/09/56JFTTWT5BFBTPSRCJ4K66UX2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/09/56JFTTWT5BFBTPSRCJ4K66UX2A/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5YWBKPN6ZAYROWTI37GXBWJIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;첫째를 조산으로 떠나보낸 뒤 22주를 더 버텨 둘째를 낳은 A씨 부부와 A씨 주치의 고현선(가운데) 서울성모병원 권역모자의료센터 산모태아부센터장. /서울성모병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍둥이를 가진 산모가 임신 15주에 조산으로 한 태아를 잃었지만, 남은 태아를 22주간 뱃속에서 잘 지켜내 자연 분만 출산에 성공했다. 이 같은 분만을 ‘지연 간격 분만’이라고 하는데, 이번 사례(152일)는 국내 최장 기록이라고 한다.&lt;br&gt;&lt;br&gt;8일 서울성모병원에 따르면, 30대 후반 A씨는 지난달 19일 이 병원에서 딸(태명 ‘타카’)을 자연 분만으로 출산했다. 당초 A씨는 반복된 난임 끝에 결혼 9년 만인 지난해 쌍둥이를 가졌지만, 임신 15주에 자궁경부가 열리는 응급 상황으로 쌍둥이 중 하나(태명 ‘티키’)를 잃은 상태였다. 이들 쌍둥이의 태명은 아이들이 세상에 태어나 서로 잘 지내길 바라는 마음에서 ‘티키’ ‘타카’(짧은 패스를 빠르게 주고받는 축구 전술)였다고 한다. 보통 쌍둥이 중 첫째를 조산하면 자궁 수축이 계속될 가능성이 높고 감염·출혈 위험도 커진다. 둘째도 며칠 내 조산하는 경우가 많다.&lt;br&gt;&lt;br&gt;하지만 남은 아이를 지키겠다는 A씨의 의지와 의료진의 집중 관리에 둘째는 엄마 뱃속에서 152일을 더 지낸 뒤 지난달 19일 무사히 태어날 수 있었다. 몸무게는 2.49㎏.&lt;br&gt;&lt;br&gt;152일은 국내 보고 사례 가운데 2018년 영남대병원 사례(128일)를 넘어선 국내 최장 기록이라고 병원 측은 밝혔다. 해외에서는 첫째 조산 후 153일 만에 둘째를 분만한 사례 등이 있다.&lt;br&gt;&lt;br&gt;A씨는 “긴 시간을 버틸 수 있었던 건 의료진 덕분”이라며 “같은 어려움을 겪고 있을 고위험 산모들도 희망을 잃지 않았으면 좋겠다”고 했다. 주치의인 고현선 서울성모병원 권역모자의료센터 산모태아부센터장은 “긴 시간 힘든 과정을 견뎌낸 산모와 아기에게 감사와 축하의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[수퍼 스트롱] 여든다섯에도 욕심나는 게 있다면 ‘운동화’라오</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/09/JQ6Q5P2HZNGCJJYHL75LDQ26EI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/09/JQ6Q5P2HZNGCJJYHL75LDQ26EI/</guid>
-      <dc:creator>김경은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OR3B2S57ZG6JPCKROGTSVOCC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일주일에 세 번 헬스장을 찾아 러닝과 웨이트트레이닝으로 2시간을 채우는 정만영씨. 올해 서울하프마라톤 접수엔 실패했지만 “기록보다 즐기는 러닝”을 마음에 새기며 내년을 기약하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강동구 일자산 제2체육관 헬스장. 정만영(85)씨가 러닝화 끈을 조여 묶었다. 여든을 넘긴 지금도 그는 혼자 지하철을 타고 일주일에 세 번씩 이곳에 온다. 웨이트트레이닝 1시간, 러닝머신 1시간. 운동을 마치면 다시 지하철을 타고 집으로 돌아간다. “오래 건강하게 산다는 건 결국 스스로 생활하는 겁니다.”&lt;br&gt;&lt;br&gt;정씨는 지난해 4월 열린 ‘2025 서울하프마라톤’ 최고령 참가자였다. 당시 84세였던 그는 10㎞ 코스를 1시간 22분 27초에 완주했다. 완주 뒤에도 “10㎞ 정도는 뛰어도 무릎에 느낌도 없다”며 웃었다. 지금은 기록보다 몸 관리가 먼저다. “무리하면 안 돼요. 오래 움직이는 게 중요하지요.”&lt;br&gt;&lt;br&gt;고령자에게 운동은 취미를 넘어 독립적인 생활을 지키는 수단이다. 나이가 들수록 근육량과 균형 감각이 줄고, 낙상 위험도 커진다. 정씨가 근력 운동과 달리기를 함께 하는 이유도 여기에 있다. 근육은 몸을 지탱하고, 유산소운동은 심장과 폐를 붙든다. 그는 이렇게 말했다. “몸이 움직여줄 때 움직여야지요. 가만히 있으면 금방 굳어버려요.”&lt;br&gt;&lt;br&gt;인터뷰 내내 그는 이면지를 잘라 만든 메모지를 꺼내 보였다. ‘주어진 고통은 괴롭지만 스스로 선택한 고통은 즐겁다.’ ‘저물 때 빛나는 노을처럼 아름답게 나이 들고 싶다면 러닝을 멈추지 않으리.’ 운동 기록이라기보다 삶의 원칙에 가까운 말들이었다. 그중에는 ‘건강한 노년, 행복한 인생’이라는 문장도 있었다.&lt;br&gt;&lt;br&gt;러닝을 시작한 것은 마흔다섯 무렵이었다. 서울시 공무원으로 일하던 시절, 새벽마다 집 근처 초등학교 운동장에 나갔다. 처음엔 걷기만 했다. 그러다 트랙을 달리는 사람들을 보며 따라 뛰기 시작했다. “양복 입고 출근할 것 같은 사람들이 새벽부터 뛰더라고요. 그래서 저도 같이 뛰어본 거예요.”&lt;br&gt;&lt;br&gt;이후 달리기는 그의 생활이 됐다. 은퇴 뒤 마라톤 대회에 나섰고, 1998년 처음 풀코스에 도전했다. 여의도광장에서 출발해 천호대교를 돌아오는 코스였다. 기록은 4시간 40분. “그땐 겁도 없이 뛰었어요. 힘든 줄도 모르고 그냥 따라 뛰었지요.” 70대 중반까지 그는 풀코스를 20회 완주했다. 하지만 일흔여섯 무렵부터는 몸의 변화를 인정했다. 지금은 하프나 10㎞ 정도만 뛴다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DUOG3MDJVESRITAQXXXEEOYIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동구 일자산 제2체육관 헬스장에서 정만영씨가 운동을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운동 원칙은 단순하다. 무리하지 않는 대신 꾸준히 하는 것. 일주일에 세 번 헬스장에 와서 러닝머신 속도를 7.5에서 8.0으로 조절한다. “항상 70~80%만 한다고 생각해요. 운동도 과하면 몸이 싫어하거든요.” 생활도 규칙적이다. 밤 10시면 잠들고 아침 6시면 일어난다. 식사는 잡곡밥에 생선, 찌개 정도면 충분하다. 술과 담배도 하지 않았다. 대신 운동화만큼은 꼼꼼히 고른다. “무릎이 중요하거든요. 이 나이에 욕심내는 게 있다면 운동화예요.”&lt;br&gt;&lt;br&gt;1941년생인 그에게도 시련은 있었다. 마흔다섯 살 무렵, 공직 사회를 뒤흔든 숙정 조치 속에서 공무원직을 잠시 떠나 있어야 했던 시절이 있었다. 그후 복직해 정년까지 마쳤지만 그는 그 대목에서 말을 삼켰다. “그때 마음고생이 좀 있었어요. 복잡하면 그냥 뛰었지요. 뛰고 나면 잡생각이 없어져서 마음이 정리돼요.” 40대 가장이 마주한 막막함을 그는 새벽 운동장 트랙 위에서 땀으로 씻어냈다. 달리기는 마음이 무너지지 않게 붙잡아준 버팀목이었다.&lt;br&gt;&lt;br&gt;정씨가 러닝머신 위에 올라섰다. 속도를 7.5에 맞췄다. 기계가 돌아가자 그의 발도 리듬을 되찾았다. 그는 앞만 보고 달렸다. 기록을 향해서가 아니라, 아직 하루를 건너갈 수 있다는 사실을 확인하듯 다시 달리기 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HT6C3UP3NFADTJSHN52E64MCXE.png?auth=c31696e654210a2f1a41baa39b10875c427bd367e33e350270e23596ed552a4c&amp;smart=true&amp;width=1799&amp;height=1012" type="image/png" height="1012" width="1799">
-        <media:description type="plain">사진= 장련성 기자, 그래픽=조선디자인랩 이연주</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>이화여대 故김소연 동창 유족, 의과대에 장학금 2억원 기부  </title>
-      <link>https://www.chosun.com/national/people/2026/06/09/RWXLR23KDBHV3LFPEAS5M3JWYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/09/RWXLR23KDBHV3LFPEAS5M3JWYI/</guid>
-      <dc:creator>김진영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJIGNFIMPFA4XKBJW5CUQF2JVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 이화여대 본관에서 진행된 '김소연기념의대장학금' 기금전달식에 참석한 故 김소연 졸업생의 모친 이은숙씨(왼쪽)와 부친 김철민씨. /이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대는 고(故) 김소연 동창의 유족으로부터 기부금 2억원을 전달받아 ‘김소연기념의대장학금’을 조성했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;고인은 지난 2021년 이화여대 의과대학을 졸업했다. 이번에 조성된 장학금은 고인의 출신 고교인 한성과학고를 졸업하고 이화여대 의대에 재학 중인 학부생들에게 지급할 예정이다.&lt;br&gt;&lt;br&gt;지난달 20일 열린 기금 전달식에는 고인의 부친 김철민, 모친 이은숙씨를 비롯해 이향숙 총장, 박정수 연구·대외부총장, 고인의 지도 교수였던 최규룡 의학과 명예교수, 강덕희 의과대학장 등이 참석했다.&lt;br&gt;&lt;br&gt;유가족은 “딸의 꿈을 후배들이 대신 피워내 사회를 밝게 이끌길 바란다”며 기부 취지를 전했다. 이향숙 총장은 “학생들이 훌륭한 의료인으로 성장하도록 최선을 다하겠다”고 약속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 시간당 100㎜ 물폭탄, 주로 밤과 새벽에 집중된대요</title>
-      <link>https://www.chosun.com/national/nie/2026/06/09/MP5U26FXG5CBLGDYHB77AUW47Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/09/MP5U26FXG5CBLGDYHB77AUW47Q/</guid>
-      <dc:creator>이미선 기상청장, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>뉴스나 TV 방송에서 여름철 집중호우를 ‘게릴라(불규칙적인 유격전이라는 군사 용어) 폭우’나 ‘송곳 폭우’라는 무시무시한 별명으로 표현하는 것을 본 적 있나요? 이런 별칭은 그만큼 여름철 집중호우가 인명과 재산 등에 많은 피해를 주기 때문에 생긴 거예요.&lt;br&gt;&lt;br&gt;최근 우리나라 여름철 날씨의 가장 큰 특징 중 하나는 낮에는 멀쩡하다가 모두가 잠든 깊은 밤부터 새벽 사이 갑자기 어마어마한 비가 쏟아지며 피해를 주는 경우가 많다는 점입니다. 이를 ‘야행성 집중호우’라고 해요. 오늘은 야행성 집중호우가 왜 내리는지 알아볼게요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXYQAF3X7ZFJXLHAZYPLRWY4FA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;수증기 바람 ‘하층 제트’는 밤에 더 빨라&lt;/b&gt;&lt;br&gt;&lt;br&gt;왜 비는 낮보다 밤에 더 강해지는 걸까요? 여기에는 ‘하층 제트(Low-Level Jet)’라는 비밀 요원이 숨어 있습니다.&lt;br&gt;&lt;br&gt;하층 제트는 지상에서 약 1.5㎞ 상공에서 부는 아주 빠르고 강한 바람을 말해요. 이 바람은 남쪽 바다의 뜨겁고 습한 수증기를 우리나라로 실어 나르는 ‘배달 트럭’ 역할을 합니다. 비가 안 올 때에도 밤사이 이 바람을 통해 열기와 수증기가 계속 공급되면 여름철 잠을 설치게 하는 열대야가 심해지기도 합니다.&lt;br&gt;&lt;br&gt;여름철 뜨거운 아스팔트 위에서 아지랑이가 이글이글 올라오는 모습을 본 적 있나요? 낮에는 태양열이 땅 위 공기를 데워요. 이때 뜨거워진 공기는 위아래로 마구 뒤섞이게 됩니다. 지면의 열기가 공기를 위로 솟구치게 만들면 마찰이 생기면서 바람의 흐름을 방해하고 바람 속도도 느려지게 된답니다.&lt;br&gt;&lt;br&gt;하지만 해가 지면 공기는 다시 식고 차분하게 가라앉으면서 공기의 흐름을 방해하는 마찰이 줄어들어요. 이런 현상 때문에 하층 제트라는 배달 트럭이 마치 장애물이 사라진 고속도로를 달리듯 훨씬 빠른 속도로 더 많은 수증기를 몰고 오게 되는 거지요. 제트 기류가 비의 ‘씨앗’이 되는 수증기를 낮보다 밤에 더 많이 더 빨리 들여오기 때문에 비구름대의 덩치가 밤 시간대에 더 커지는 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘대기 불안정’ 더해져 비구름 기둥 탄생&lt;/b&gt;&lt;br&gt;&lt;br&gt;여기에 밤이 되면 공기가 아주 요란하게 움직이는 현상도 나타나요. 해가 지면 하늘 위의 공기는 빠르게 식고, 지면 공기는 상대적으로 천천히 식어서 위아래 온도 차가 밤에 커지기 때문인데요. 위쪽은 온도가 낮고, 아래쪽은 온도가 높으면 공기는 어떻게 될까요? 뜨거운 공기는 가벼워서 위로 올라가려 하고, 차가운 공기는 무거워서 아래로 내려가면서 공기가 아주 심하게 뒤섞이게 됩니다. 이를 ‘대기 불안정’이라고 해요.&lt;br&gt;&lt;br&gt;밤사이 빠른 속도로 배달된 엄청난 양의 수증기가 대기 불안정으로 만들어진 비구름과 만나면, 구름은 순식간에 몸집이 커져요. 그렇게 ‘적란운’이라고 부르는 거대한 비구름 기둥이 순식간에 만들어져 물 폭탄을 터뜨리게 되는 것이죠. 기상청 연구 결과에 따르면, 우리나라 여름철 강수 강도는 낮보다 밤과 새벽 시간에 훨씬 강하답니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;시간당 100㎜ 비의 위력은?&lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 실제로 얼마나 많은 비가 내리는 걸까요? 지난 2024년 7월 10일 새벽, 전북 군산에는 한 시간 만에 무려 146㎜의 기록적인 비가 쏟아졌습니다. 시간당 100㎜의 비가 내리면 우리가 흔히 쓰는 커다란 양동이 수만 개를 하늘에서 한꺼번에 쏟는 것과 같다고 볼 수 있어요. 이런 비를 맞으면 우리는 눈을 뜨기조차 힘들고, 운전 중이라면 아무리 자동차 와이퍼를 움직여도 앞이 보이지 않을 정도의 위력이랍니다.&lt;br&gt;&lt;br&gt;이런 현상은 최근 더 자주 나타나고 있어요. 지난해 7월 20일 새벽에도 경기 가평에 강한 야행성 집중호우가 쏟아져 건물이 무너지는 등 피해가 발생하기도 했어요. 기상청 통계에 따르면, 시간당 100㎜ 이상의 강수량을 기록한 사례는 2024년 16회, 2025년 15회 있었습니다. &lt;br&gt;&lt;br&gt;야행성 집중호우가 무서운 진짜 이유는 우리가 대비하기 힘든 시간에 찾아오기 때문입니다. 사람들이 잠자는 동안 물이 불어나 제방을 넘는 위험한 상황이 되거나, 지반이 약해진 산비탈이 갑자기 무너지면 대피하기가 매우 어렵거든요. 그래서 기상청은 이렇게 매우 위험한 수준의 비가 예상되는 지역에 사는 사람들에게 호우긴급재난문자를 발송해서 위험을 알리고 있어요. 호우긴급재난문자가 발송되는 기준은 ‘1시간에 50㎜ 이상이면서 3시간에 90㎜ 이상의 비’가 내릴 때나 ‘1시간에 72㎜ 이상의 극심한 비’가 쏟아질 때예요. 이 문자는 휴대폰이 무음 모드여도 아주 큰 소리로 경고음을 울려 잠든 사람들을 깨웁니다. “지금 즉시 안전한 곳으로 대피하세요!”라는 강력한 신호를 보내는 것이죠. 올해부터는 시간당 100㎜ 이상의 기록적인 호우가 내릴 때 ‘재난성 호우긴급재난문자’를 추가로 발송하기로 했답니다. &lt;br&gt;&lt;br&gt;여름철에는 잠들기 전 일기예보를 확인하고, ‘호우긴급재난문자’가 울리면 당황하지 말고 안전한 곳으로 이동하는 지혜가 필요합니다. 날씨 과학을 이해하고 미리 대비한다면 우리 가족의 안전을 지킬 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 영국에서 진공 청소기 가리키는 ‘후버’, 특허권 사들여 대중화한 인물 이름이죠</title>
-      <link>https://www.chosun.com/national/nie/2026/06/09/334JGIPYHJHJ5PWP5WGHM7TO6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/09/334JGIPYHJHJ5PWP5WGHM7TO6E/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>삼성전자가 만든 인공지능(AI) 로봇 청소기의 지난달 판매량이 2만대를 넘었다고 합니다. 작년 같은 달보다 60% 증가한 수치예요. 국내 로봇 청소기 시장에서는 원래 중국 제품이 우세했는데, 점차 우리나라 기업의 제품이 판도를 흔들고 있다는 평가가 나와요. 요즘은 ‘로청(로봇 청소기)이 심청보다 효녀’라는 말이 있을 정도로 필수 가전제품이지만, 청소기가 없던 시절에는 빗자루로 먼지를 쓸고 걸레질을 해야 했지요. 청소기는 언제부터 사용된 걸까요?&lt;br&gt;&lt;br&gt;대부분의 문명에서 바닥 청소를 위해 빗자루와 걸레를 사용했어요. 고대 메소포타미아 문명이나 중국 문명에서도 빗자루 유물이 출토됐죠. 초기 빗자루는 손잡이 부분이 없었지만, 시간이 흐르면서 손잡이가 추가돼 더욱 쉽게 청소할 수 있었습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXRN5VJPFZEONJOJA4VUD6EDDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제임스 스팽글러가 개발한 진공청소기. 1908년 제작된 것으로 추정됩니다. /스미소니언 미국 국립미국사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서양에서 바닥에 양탄자를 깔고 생활하면서 청소기가 필요해졌어요. 빗자루만으로는 양탄자에 쌓인 먼지를 청소하기 쉽지 않았죠. 청소기가 없을 때는 양탄자를 건물 밖으로 가져가 두들겨 먼지를 털어내는 불편한 과정을 거쳐야 했습니다. 이 때문에 양탄자를 청소하는 ‘카펫(양탄자) 청소기’가 등장했어요. 이 청소기는 미국인 멜빌 비셀이 1876년 개발했어요. 비셀 부부는 그릇 가게를 운영했는데 그릇을 포장할 때 톱밥을 완충재로 썼대요. 그런데 양탄자에 톱밥이 계속 쌓인 거예요. 이걸 해결하기 위해 중앙에 청소 솔이 있고 고무 바퀴가 달린 청소기를 개발한 겁니다. 이 청소기는 영국 왕실에서도 사용할 정도로 큰 인기를 얻었고, 그릇 매출보다 청소기 매출이 더 커졌다고 해요. 현재까지도 비셀은 청소기 회사 이름으로 남아 있어요.&lt;br&gt;&lt;br&gt;비슷한 시기 진공 청소기도 등장했습니다. 최초의 진공 청소기는 1871년 미국의 아이브스 맥개피가 만들었다고 합니다. 하지만 맥개피의 진공 청소기는 증기기관을 동력으로 사용했기 때문에 크기도 거대하고 소음이 심했죠. 이후 잉글랜드의 공학자 휴버트 부스가 1901년 휘발유 엔진 진공 청소기를 개발했지만, 이 청소기 역시 너무 거대해서 가정에서 사용하기에는 부적절했습니다. 하지만 공장 같은 곳에서는 부스의 청소기가 유용하게 쓰였다고 해요.&lt;br&gt;&lt;br&gt;가정용 진공 청소기를 개발한 사람은 미국 오하이오주에서 백화점 수위로 일하던 제임스 스팽글러였어요. 스팽글러는 1907년에 선풍기 모터와 비누 상자, 빗자루 손잡이를 결합해 진공 청소기를 만들었는데, 모터에 달린 팬이 이물질을 빨아들이면 상자에 이물질이 쌓이는 방식이었기 때문에 관리가 간편했죠. 스팽글러는 청소기 특허권을 사업가 윌리엄 후버에게 판매했고, 후버는 사업적 수완이 뛰어나 진공 청소기를 널리 퍼뜨렸습니다. 지금도 영국에서는 ‘후버’라는 단어가 진공 청소기 자체를 의미하거나, 진공 청소기를 사용하는 청소를 의미한다고 해요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [위인과 정신건강] 완벽주의자 말러가 겁냈던 ‘9번 교향곡’ 저주는 무엇일까요?</title>
       <link>https://www.chosun.com/national/nie/2026/06/09/Y2TKMJAUAJAMXNBHXJBW4UNKGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/09/Y2TKMJAUAJAMXNBHXJBW4UNKGM/</guid>
@@ -871,87 +978,6 @@ jungho2035@gmail.com</media:credit>
       <content:encoded>현악기 소리가 아주 조용히, 길게 숨 쉬듯 시작돼요. 마치 한참 망설이다가 겨우 말문을 여는 순간 같죠. 그 사이로 하프 소리가 맑고 부드럽게 울려요. 물결처럼 퍼지면서, 꿈속에 있는 것 같은 몽환적인 느낌을 만들어줘요.&lt;br&gt;&lt;br&gt;이 음악은 오스트리아의 작곡가 겸 지휘자 구스타프 말러(1860~1911)의 교향곡 5번 4악장 ‘아다지에토’예요. 이 곡은 말러가 아내에게 청혼하기 위해 작곡한 사랑의 편지로 알려져 있어요. 또한 영화에서도 자주 쓰였는데요. 영화 ‘베네치아에서의 죽음(1971)’에서는 아름다움과 죽음을 함께 느끼게 하는 음악으로 쓰였고, 박찬욱 감독의 영화 ‘헤어질 결심(2022)’에서도 주인공들의 복잡한 감정을 표현하는 데 사용됐어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JO7XCTA64FC57ASCAAFY4IINYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음악을 통해 이렇게 깊은 감정을 표현한 말러는 어떤 사람이었을까요? 말러는 아주 뛰어난 작곡가였지만, 완벽해지려는 마음이 매우 강한 사람이었어요. 그는 곡을 한 번에 쓰고 끝내지 않았어요. 여러 번 고치고 또 고쳤어요. 이미 완성된 곡도 다시 수정하는 경우가 많았어요. 당대에 유명한 지휘자이기도 했던 그는 관현악단 연주자들에게도 아주 높은 기준을 요구했어요. 그들의 작은 실수도 그냥 넘기지 않았어요.&lt;br&gt;&lt;br&gt;이런 모습은 정신의학적으로는 강박적 성격이라고 할 수 있어요. 강박적 성격은 단순히 꼼꼼한 것과는 조금 달라요. 틀리는 것이 너무 싫고, 모든 것을 내가 통제해야 마음이 편해지는 상태예요. 인간이 통제할 수 없는 가장 큰 일은 바로 죽음인데요. 그래서 강박적인 사람일수록 죽음에 대한 불안을 더 크게 느끼기도 해요.&lt;br&gt;&lt;br&gt;당시 작곡가들 사이에 ‘교향곡 9번을 쓰면 죽는다’는 말이 있었어요. 베토벤과 슈베르트가 9번 교향곡을 마지막으로 세상을 떠났고, 브루크너는 9번 교향곡을 작곡하다가 세상을 떠났기 때문이에요. 말러도 이 이야기를 신경 썼어요. 그래서 그는 아홉 번째 교향곡 작품을 쓰면서 일부러 ‘9번’이라는 번호를 붙이지 않았어요. 그 곡이 바로 ‘대지의 노래’예요. 사실은 교향곡이나 다름없는 작품인데, 9라는 숫자를 피한 거죠. 이 이야기는 죽음에 대한 두려움과 그것을 피하려는 마음을 보여줘요. ‘대지의 노래’로 9번 교향곡의 저주를 피했다고 생각한 말러는 다음 작품으로 9번 교향곡을 썼어요. 그리고 10번을 완성하지 못한 채 세상을 떠났죠. &lt;br&gt;&lt;br&gt;말러는 어릴 때부터 가족의 죽음을 많이 겪었고, 딸도 일찍 잃었어요. 그래서 그는 세상은 언제든 무너질 수 있다는 불안을 가지고 살았던 것 같아요. 이런 사람은 세상을 더 통제하려는 마음이 강해질 수 있어요. 완벽해지려는 마음은 사람을 힘들게 만들기도 해요. 계속 더 잘하려고 하다 보면 지치기 때문이에요.&lt;br&gt;&lt;br&gt;우리는 보통 완벽주의를 고쳐야 할 대상으로 생각해요. 하지만 말러의 삶은 다른 이야기를 들려줘요. 완벽주의는 말러의 경우처럼 큰 창조의 힘이 되기도 해요. 말러의 음악이 끝날 때쯤 우리는 그의 음악이 아름다운 이유는 단순히 멜로디 때문이 아니라 그 속에 한 사람이 불안한 마음을 끝까지 붙잡고 버텨낸 시간이 담겨 있기 때문이라는 것을 느끼게 돼요. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 숙련은 연습에서 온다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/06/09/YJMDK6A5CNASLME4LY4URAEVMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/06/09/YJMDK6A5CNASLME4LY4URAEVMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQ42QHJS5NFT3FBBMRFTQSOLKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2882] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2026/06/09/DBFFXDRR6RBBTII5TZT3XKIWAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/09/DBFFXDRR6RBBTII5TZT3XKIWAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRWEPZH2GBC4JPFDQVDFTLTVUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] go bankrupt</title>
-      <link>https://www.chosun.com/national/nie/english/2026/06/09/RPP343JB4NHRHHU3QEOFMBYJWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/06/09/RPP343JB4NHRHHU3QEOFMBYJWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AINYMMEWW5GUBJWHSCER7UBDAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 탈취(奪取)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/06/09/HHN7FI6C2VDUJAZG7WDQ52OOJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/06/09/HHN7FI6C2VDUJAZG7WDQ52OOJA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITJEO7YRDZCS3FQDI6HFZNKM3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 빽빽하게 늘어서다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/06/09/6RO5WH2WSND7ZKT3GBG3D2VEYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/06/09/6RO5WH2WSND7ZKT3GBG3D2VEYQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVPRXFPUHNBD7PYQLAH25P4J2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 6월 9일</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/08/7X2ZFIJRGVFRLFX4SDT3DE3NVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/08/7X2ZFIJRGVFRLFX4SDT3DE3NVE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 14:31:00 +0000</pubDate>
-      <content:encoded>전국 대체로 맑음... 낮 최고 22~30도&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBO4NMSLK5B7TP5FQOBT2WZLSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구서도 투표 중단 투표소 1곳 확인…6분간 중단됐다 재개 </title>
-      <link>https://www.chosun.com/national/regional/2026/06/08/67ZCJ55XDFHUXLJVZZJCGXNUL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/08/67ZCJ55XDFHUXLJVZZJCGXNUL4/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 14:03:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GL7SYRV7FOVHGD3HMJCA5RKPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 소속으로 6·3 지방선거에 출마해 대구 수성구의원에 당선된 김경민·박새롬 당선인을 비롯한 시민들이 8일 오후 대구시선거관리위원회 앞에서 투표용지 부족 사태 등 선거관리 부실에 대한 진상규명과 선관위 책임자 엄중 조사·처벌, 재선거 등을 주장하며 민주주의 장례식을 열고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 당일 대구 지역 투표소 한 곳에서도 투표용지 부족으로 6분간 투표가 중단됐던 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;8일 대구시선거관리위원회에 따르면 선거일인 지난 3일 오후 5시 39분쯤 동구 방촌동 제5투표소에서 투표용지가 부족해 투표가 중단됐다.&lt;br&gt;&lt;br&gt;해당 투표소는 선관위로부터 투표용지 100매를 추가로 받아 6분 만인 오후 5시 45분쯤 투표를 정상 재개했다.&lt;br&gt;&lt;br&gt;이후 투표 마감 시각인 오후 6시까지 유권자 15명이 정상적으로 투표를 마쳤다.&lt;br&gt;&lt;br&gt;대구 지역은 해당 투표소를 포함해 7곳에 투표용지가 추가 배부됐고 이 중 4곳이 이를 사용했다.&lt;br&gt;&lt;br&gt;다만 방촌동 제5투표소를 제외하면 투표가 중단됐던 곳은 없었다.&lt;br&gt;&lt;br&gt;선관위 관계자는 “예상 사전투표율과 최근 선거 투표율 등을 고려해 투표용지 인쇄매수는 선거인 수의 60％를 기준으로 산정했다”며 “시민들께 불편을 드린 점에 대해 깊이 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>완주서 굴착기 용접하다 끼임 사고…40대 사망</title>
-      <link>https://www.chosun.com/national/regional/2026/06/08/NATZQCNARFAIJFSP54LD7X4NTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/08/NATZQCNARFAIJFSP54LD7X4NTQ/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 11:48:24 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRWEMZYGA2TQZRRGVSDMOBXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완주경찰서 전경./전북경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;8일 오전 11시 4분쯤 전북 완주군 삼례읍의 한 주차장에서 굴착기를 정비하던 40대 A씨가 굴착기 본체와 붐대(지지대) 사이에 끼여 숨졌다.&lt;br&gt;&lt;br&gt;당시 A씨는 개인으로부터 요청을 받아 해당 굴착기의 용접 작업을 하던 중 사고를 당한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 작업 중 고정해 둔 장치가 풀리거나 떨어져 나가면서 사고가 난 것으로 보고 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>또 끼임사고…아워홈 용인공장서 50대 근로자 심정지</title>
-      <link>https://www.chosun.com/national/incident/2026/06/08/BEQRR2J7PRD3RJBWOO5RSUU4FA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/08/BEQRR2J7PRD3RJBWOO5RSUU4FA/</guid>
-      <dc:creator>용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 09:33:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZDKYRYHFRGEOBXG5STOMLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인시 처인구 남사읍 아워홈 용인2공장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품 가공업체 아워홈 용인공장에서 1년여 만에 또다시 끼임 사고가 발생해 50대 하청업체 근로자가 심정지 상태로 병원에 이송됐다.&lt;br&gt;&lt;br&gt;8일 경찰 등 따르면, 이날 오후 2시 50분쯤 경기 용인시 처인구 남사읍 아워홈 용인2공장 4층 어묵꼬치 포장작업장에서 하청업체 소속 근로자 A씨가 컨베이어벨트에 목 부위가 끼이는 사고를 당했다.&lt;br&gt;&lt;br&gt;A씨는 현장에서 심정지 상태로 구조돼 오후 3시 25분쯤 오산한국병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 감시카메라 영상과 목격자 진술 등을 토대로 정확한 사고 원인을 확인 중이다. A씨가 작업 중 착용하고 있던 두건이 컨베이어벨트 기계에 말려 들어가면서 사고가 발생한 것으로 추정된다.&lt;br&gt;&lt;br&gt;경찰은 사측이 안전장치 설치와 작업자 안전교육 등 사고 예방 조치를 제대로 이행했는지 여부를 집중적으로 살펴볼 방침이다. 안전관리 소홀 정황이 확인될 경우 관련 책임자를 업무상과실치상 혐의로 입건하는 방안도 검토하고 있다.&lt;br&gt;&lt;br&gt;해당 공장에서는 지난해에도 유사한 사고로 근로자가 숨진 바 있다. 지난해 4월 4일 오전 11시 20분쯤 같은 공장에서 30대 근로자 B씨가 냉각 기계에 목이 끼이는 사고를 당해 심정지 상태로 병원에 이송됐으나 닷새 뒤 숨졌다.&lt;br&gt;&lt;br&gt;김태원 아워홈 대표는 “업무 현장에서 절대 있어서는 안 되는 일이 발생한 데 대해 대표이사로서 이유 여하를 막론하고 깊이 사죄드린다”며 “사고가 발생한 생산라인 운영을 전면 중단했으며 지자체 및 정부기관과 함께 사고 원인을 조사하고 있다”고 밝혔다. 이어 “전 사업장에 대한 긴급 안전 점검을 실시해 재발 방지 대책을 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 15만명 키운다더니...서울대·아주대·한양대 등 수도권 첨단학과 ‘175명 증원’ 그쳤다</title>
       <link>https://www.chosun.com/national/education/2026/06/08/3RR3WLRUUVDN3NG7RBQO2TRAEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/08/3RR3WLRUUVDN3NG7RBQO2TRAEA/</guid>
@@ -959,28 +985,6 @@ jungho2035@gmail.com</media:credit>
       <description/>
       <pubDate>Mon, 08 Jun 2026 11:00:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRGKYZUMFSDCY3BG4ZGMZBYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;젠슨 황 엔비디아 최고경영자(CEO)가 8일 서울대학교 해동첨단공학관에서 열린 '빌드어클로(Build-a-Claw)' 행사장에서 유홍림 서울대 총장으로부터 학교 점퍼를 선물받아 착용한 뒤 학생들을 배경으로 셀카를 찍는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 고3이 치르는 2027학년도 입시에서 수도권 4년제 대학의 반도체·인공지능(AI) 등 첨단 분야 학과 모집 정원이 총 175명 늘어나는 것으로 확인됐다. 증원 규모가 전년 대비 절반 수준으로 줄면서 대학가에선 “정부가 미래 먹거리인 첨단 인재 양성에 더 공격적으로 나서야 한다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;8일 본지 취재를 종합하면, 교육부는 최근 첨단 분야 정원 증원을 신청한 대학들에 배정 결과를 통보했다. 수도권은 서울대 45명, 아주대 30명, 한양대 30명, 연세대 15명, 인하대 15명 등 8개 대학 12개 학과 정원 총 175명이 늘어난다. 비수도권은 9개 대학 19개 학과가 총 259명을 받았다.&lt;br&gt;&lt;br&gt;대학 첨단 학과 증원은 지난 정부가 미래 반도체·AI 분야 인재가 부족할 것을 대비해 2024년 시작했다. 수도권 대학 정원은 수도권 정비 계획법에 따라 총량제(11만7145명)로 묶여 1999년 이후 늘린 적이 없었다. 여유분이 7000명 정도 있어 지난 정부가 활용하기로 한 것이다. 결국 수도권 첨단 학과 정원은 2024학년도 817명, 2025학년도 569명, 2026학년도 381명 늘어났다. 2027학년도 175명을 합하면 4년간 총 1942명 늘어났다.&lt;br&gt;&lt;br&gt;하지만 정부가 증원 규모를 줄이면서 올해 고려대, 경희대, 동국대 등 서울 주요 대학들 상당수가 증원에 실패했다. 서울대는 100명 규모의 ‘융합AI광역’ 모집 단위를 신설하는 안을 신청했는데, 기존 학과 정원 45명 증원분만 받아들여졌다. &lt;br&gt;&lt;br&gt;정부는 2022년 향후 10년간 반도체 산업 인력 수요를 12만7000명이라고 보고 15만명을 키우는 인재 양성 방안을 마련했다. 그런데 작년 감사원 감사 결과 정부가 수요를 적게 예측한 것으로 나타났다. 감사원 추계 결과 인력 수요는 2031년까지 18만1000명으로, 정부 예측과 5만4000명 차이 났다. 이에 산업계에선 첨단 인재 부족 우려가 나온다. &lt;br&gt;&lt;br&gt;교육부는 인구가 급감하는 상황에서 수도권 대학들이 신청하는 대로 정원을 늘려주기는 어렵다는 입장이다. 내년부터는 수도권 대학 첨단 학과 증원 규모가 더 줄어들 가능성도 있다. 교육부가 앞으로 지역 대학을 위주로 첨단 학과를 증원해주고, 수도권 대학에 대해서는 정원을 늘려주기보다 역량을 키우도록 지원하는 데 집중하는 방안을 검토하고 있기 때문이다. &lt;br&gt;&lt;br&gt;교육부 관계자는 “4년간 수도권 대학 첨단 학과 정원을 2000명 가까이 늘리며 증원 수요가 상당 부분 충족된 것으로 판단하고 있다”며 “첨단 분야 관련 시설 확충이나 교원 확보 등 증원에 별다른 대비가 돼 있지 않은 대학들의 신청은 반려하다 보니 증원 규모가 줄어든 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“투표도 보장 안된 나라, 아이에 물려줄 수 없다” </title>
-      <link>https://www.chosun.com/national/national_general/2026/06/08/6UKALHGIUJGXFNKVYXGMPYHXNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/08/6UKALHGIUJGXFNKVYXGMPYHXNI/</guid>
-      <dc:creator>원종빈 기자, 강혜진 기자, 윤성은 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 07:45:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCYQNCGHRVF6LGKQ3GCFDVP7WA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송준혁(42)-양서경(26) 부부가 16개월 된 아들과 함께 잠실 참정권 시위에 참석한 모습/원종빈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거에서 발생한 투표용지 부족 사태에 항의하는 ‘잠실 참정권 집회’ 현장에는 어린 자녀의 손을 잡고 나온 가족 단위 참가자들도 적지 않았다. 이들은 “아이들에게 더 공정한 세상을 물려주고 싶다”고 입을 모았다.&lt;br&gt;&lt;br&gt;7일 오전 서울 송파구 잠실 개표소(올림픽공원 핸드볼경기장) 앞에서 만난 송준혁(42)·양서경(26)씨 부부는 생후 16개월 된 아들을 안고 집회에 참여했다. 송씨는 “아이들이 살아갈 세상이 더 나아지길 바라는 마음으로 왔다”며 “훗날 아들은 자신이 역사적인 현장에 있었음을 알게 될 것”이라고 말했다. 양씨는 “평범한 시민들이 평화롭게 모이는 모습을 소셜미디어로 보고 아이와 함께 와도 괜찮겠다고 판단했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DCT5HFFTBAMJII4K2HX3B7J6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 저녁 서울 송파구 올림픽공원 핸드볼경기장 앞에서 시민 3만6000여 명이 6·3 지방선거 투표용지 부족 사태에 항의하며 재선거를 촉구하고 있다./박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 충남 천안시에서 생후 8개월 딸을 유모차에 태우고 온 주부 서모(31)씨는 “투표권이 보장되지 않는 사회를 아이에게 물려줄 수는 없다”며 눈물을 흘렸다. 그는 “대의민주주의 사회에서 투표권이 박탈되면 일반 국민이 정치에 참여할 방법은 아예 사라지는 것”이라며 “그간 한 번도 집회에 참여한 적 없지만, 부모로서 책임감을 느껴 현장을 찾았다”고 했다.&lt;br&gt;&lt;br&gt;직장인 곽래엽(33)씨와 네덜란드 국적의 아내 판데르못 브리타메이(31)씨도 경기 안양시에서 생후 8개월 된 아들을 안고 현장에 도착했다. 브리타메이씨는 “투표용지 부족으로 유권자가 투표하지 못하는 상황은 세계 어디에서도 상상하기 어렵다”며 “네덜란드였다면 이렇게 평화로운 집회는 기대하기 어려웠을 것”이라고 했다. 곽씨는 “우리보다도 아이를 위해 나왔다”며 “일반 국민으로서 이해할 수 없는 사태”라고 했다. &lt;br&gt;&lt;br&gt;이재열 서울대 사회학과 교수는 “지금은 절차적 공정성에 민감한 MZ세대가 부모가 되는 시기”라며 “자녀가 살아갈 사회의 공정성에 대한 우려가 부모들의 행동으로 나타나는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/C36JDCNOCJD37POYKGPD4B5CA4.jpg?auth=73ef80cbd90428f94f9e6ada3ac7666f941de34971ea51581a280f9f86aedc9d&amp;smart=true&amp;width=4000&amp;height=2250" type="image/jpeg" height="2250" width="4000">
-        <media:description type="plain">송준혁(42)-양서경(26) 부부가 16개월 된 아들과 함께 잠실 참정권 시위에 참석한 모습/원종빈 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>조희대 대법원장, 노태악 선관위원장 사의 수용</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/08/N762K3DAIJFHZMOSAOFDCIZNG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/08/N762K3DAIJFHZMOSAOFDCIZNG4/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Jun 2026 10:37:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRMAXQ7G5JGDBAVUCP2UCUTIS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 경기도 과천 중앙선거관리위원회에서 노태악 중앙선관위원장이 투표용지 부족 사태와 관련 대국민 사과 기자회견을 갖고 있다. 2026.6.5 /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 지난 6·3 지방선거 당시 발생한 ‘투표용지 부족 사태’와 관련해 노태악 중앙선거관리위원장의 사의를 받아들였다.&lt;br&gt;&lt;br&gt;법조계에 따르면 조 대법원장은 8일 노 위원장에 대한 중앙선거관리위원장 지명을 해제하고 중앙선거관리위원회(선관위)에 이를 통보했다. &lt;br&gt;&lt;br&gt;노 위원장은 지난 5일 대국민 사과문을 발표하고 “모든 사태에 대한 책임을 통감하고 중앙선관위원장 직에서 물러나겠다”고 했다. 노 위원장은 김명수 전 대법원장 지명으로 지난 2022년 5월 위원장에 취임했다.&lt;br&gt;&lt;br&gt;선관위는 대통령 임명 3명, 국회 선출 3명, 대법원장 지명 3명 등 총 9명의 위원으로 구성된다. 위원장은 위원 중에서 선출되는데, 1963년 선관위가 문을 연 이후 관례에 따라 대법관이 위원장을 맡아왔다.&lt;br&gt;&lt;br&gt;조 대법원장은 지난 3월 노 위원장의 대법관 퇴임을 앞두고 후임으로 천대엽 대법관을 선관위 위원으로 내정했다. 위원장으로 지명되려면 국회 인사청문회를 통과해야 하는데, 천 대법관에 대한 인사청문 절차가 이뤄지지 않으면서 노 위원장이 대법관 퇴임 후에도 위원장직을 맡아왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>충북선관위, 선거인명부 누락 공식 사과…김영환 “선거 승복 못해”</title>
