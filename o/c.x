@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 투표 용지 부족 검경 합수본, 선관위 압수수색 </title>
+      <link>https://www.chosun.com/national/national_general/2026/06/11/MICXUDXQWJDEHHDOJIUXDULX3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/11/MICXUDXQWJDEHHDOJIUXDULX3Q/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Jun 2026 23:53:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYWIMJXMQ4TKNTFME2DGNRSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 '투표용지 부족' 사태가 발생한 서울 송파구 잠실7동 제2투표소 앞에서 서울시선관위 관계자들이 투표함을 이송하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 ‘투표 용지 부족 사태’를 수사 중인 경찰이 11일 오전 중앙선관위 등을 압수수색하고 있다. &lt;br&gt;&lt;br&gt;서울경찰청 광역수사대는 11일 오전 중앙선거관리위원회와 서울시선거관리위원회, 송파·서초·강남·광진·동작구 선거관리위원회 등 7곳에 대해 공직선거법 위반 및 직무유기 혐의로 압수수색을 진행하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 압수수색에는 서울경찰청 광역수사대 수사관과 국가수사본부, 서울경찰청 디지털포렌식 요원 등 100여 명이 투입됐다. 검찰에서도 합동수사본부 소속 검사 3명과 수사관 10여 명이 중앙선관위와 서울시선관위, 송파구선관위 등에 대한 압수수색에 참여했다.&lt;br&gt;&lt;br&gt;경찰은 “이번 압수수색을 통해 국민의 참정권 침해를 초래한 투표용지 부족 사태의 원인을 규명하고 사건의 실체적 진실을 밝히는 데 필요한 증거를 확보하는 데 집중하고 있다”며 “서울경찰청은 검·경 합동수사본부가 본격 가동되기 전까지 적법 절차에 따라 신속하게 수사를 진행할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 의료계도 성과급 논란… 연세의료원장 2.4억 수당에 교수들 반발</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/06/11/DNNWHNCN2BGHXBLJIFYBIUPFVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/11/DNNWHNCN2BGHXBLJIFYBIUPFVE/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Jun 2026 00:00:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSDQODFGNRDCMJQGVTGCNZSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세브란스병원 전경 /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세브란스병원을 총괄하는 연세의료원장이 의정 갈등 사태 직후인 올해 초 2억4000만원의 별도 수당을 받은 사실이 알려져 교수들 사이에 논란이 일고 있다.&lt;br&gt;&lt;br&gt;10일 의료계에 따르면, 연세의료원은 올 1~2월 금기창 원장을 포함한 고위직 9명에게만 수당 총 7억원을 지급했다고 한다. 금 원장이 2억4000만원, 병원장급 4명은 6000만~1억2000만원, 실·처장급 4명은 4000만원이었다.&lt;br&gt;&lt;br&gt;이를 위해 전에 없던 내부 규정을 신설하고 ‘병원 경영 수당’ ‘행정 책임 수당’이란 이름을 붙였다. 다만 이 중 병원장급 등 일부는 수당 지급 사실을 알게 되자마자 전액을 병원에 기부했다고 한다.&lt;br&gt;&lt;br&gt;최근 이 같은 사실이 알려져 교수들이 문제 제기에 나섰다. 연세대 의대 교수 평의회는 지난달 회의를 열고 의료원 측에 사실관계 확인을 요청했다.&lt;br&gt;&lt;br&gt;세브란스병원의 한 교수는 “의정 사태 기간 1만3000명의 구성원이 합심해 다 같이 당직 서고 무급 휴직을 써가며 위기를 넘겼는데, 기관장이 ‘셀프 인센티브’(성과급)를 챙긴 것 아니냐”며 “이는 의료원 140년 역사상 전례 없는 일”이라고 했다. &lt;br&gt;&lt;br&gt;이에 대해 의료원 측은 “‘성과급’이 아니라 ‘수당’으로, 규정·절차에 따라 적법하게 지급된 것”이라며 “연세의료원장 등의 연봉·수당이 다른 주요 병원보다 낮아 보완이 필요했고, 금액은 이익과 경쟁 병원 수준을 감안해 종합적으로 정했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “다만 (수당과 관련해) ‘다양한 구성원 의견이 충분히 수렴됐어야 한다’는 목소리가 나온 점에 유념하고, 앞으로 의견을 청취해 보완하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 중학 역사수업까지… 교육부 “근현대사 30%로 확대”</title>
       <link>https://www.chosun.com/national/education/2026/06/11/GGWLZJP7S5GPVI32J76ACGCQSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/11/GGWLZJP7S5GPVI32J76ACGCQSE/</guid>
@@ -944,24 +962,6 @@ jungho2035@gmail.com</media:credit>
       <description/>
       <pubDate>Tue, 09 Jun 2026 15:40:00 +0000</pubDate>
       <content:encoded>조선일보 NIE(신문 활용 교육) 교육센터에서 초등 글쓰기·리터러시 강좌 수강생을 모집합니다. 수업은 매주 1회 온라인으로 진행됩니다. 강의는 어휘력·문장력·독해력을 키워주는 칼럼 파트와, 다양한 주제로 토론하고 주장하는 글을 써보는 글쓰기 파트로 구성돼 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B52IQ4ZGKVBRNITWCJSQVR5DY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;강의 대상&lt;/b&gt;: 초등학교 5·6학년&lt;br&gt;&lt;br&gt;▲&lt;b&gt;강의 일정 및 수강료&lt;/b&gt;: 주 1회 60분 수업, 3개월 총 12회 30만원&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수강 신청&lt;/b&gt;: nie.chosun.com &lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의&lt;/b&gt;: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 관운(官運)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/06/10/ARKXNSN2WBA7DB7B5MSRHA3QM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/06/10/ARKXNSN2WBA7DB7B5MSRHA3QM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7W2EO63UURCJNCVSFEGCJVD5IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] somewhere along the line</title>
-      <link>https://www.chosun.com/national/nie/english/2026/06/10/Y32JZVIBBBG6HEGCN77GMRL7UM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/06/10/Y32JZVIBBBG6HEGCN77GMRL7UM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ECWA2CGLNHW3DMEEKUK5UGVH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“75차례 거부했는데도 무죄” 성폭력 사건 재판소원...헌재 전원재판부로</title>
