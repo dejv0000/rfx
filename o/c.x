@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘퀴어퍼레이드’ 열려… 기독교 단체는 “동성애 반대”</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/13/VPZTCUGMWNFYJBBWMQ6HEB246I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/13/VPZTCUGMWNFYJBBWMQ6HEB246I/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 06:32:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBGHAFEOBRPK5AUKOKRDMDIWPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 '제27회 서울 퀴어 퍼레이드'가 열린 서울 중구 남대문로 인근에서 집회 참가자들이 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 국내의 대표적 퀴어 축제 중 하나인 서울 퀴어축제가 열렸다. 한편 동성애에 반대하는 맞불 집회도 열려 서울 시내는 혼잡을 빚었다.&lt;br&gt;&lt;br&gt;서울퀴어문화축제조직위원회는 이날 서울 종로구 우정국로와 중구 남대문로 일대에서 5만명 규모(주최 측 추산)의 ‘제27회 서울퀴어퍼레이드’ 행사를 개최했다. 행사의 핵심인 퀴어퍼레이드는 오후 4시부터 시작된다. 행사 참가자들은 종각역 5번 출구에서 출발해 명동성당과 서울광장을 지나 을지로입구역 2번 출구까지 3.0㎞를 행진할 계획이다.&lt;br&gt;&lt;br&gt;행사장에는 대학생 동아리·후원기업 등 부스 70여 개가 설치됐다. 프랑스·호주·벨기에 주한 대사관들과 영광제일교회·가톨릭퀴어연구회·대한불교조계종 등 종교단체들이 만든 부스도 있었다. 부스는 성소수자 커뮤니티를 상징하는 무지개 깃발을 든 시민들로 가득찼다. 무지개 부채로 더위를 쫓는 이들도 눈에 띄었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWFEZMJECZLFFH3ND4RP7ZSLYY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 서울 중구 서울시의회 앞에서 열린 '동성애 퀴어축제 반대 국민대회를 위한 거룩한방파제 통합국민대회'에서 참가자가 손피켓을 들고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 오후 1시 퀴어문화축제 행사장에서 600ｍ가량 떨어진 중구 서울시의회 앞에서는 3만명 규모(주최 측 추산)의 동성애 반대 집회가 열렸다. 기독교 단체인 거룩한방파제가 주최하는 ‘남녀의 결혼, 건강한 대한민국’ 집회다.&lt;br&gt;&lt;br&gt;이날 집회 연단에 선 한 목사는 “인본주의의 얼굴을 한 동성애 합법화 시도를 깨뜨려 달라”며 기도문을 외웠다. 집회 참가자들은 차별금지법 반대 등을 주장하며 숭례문까지 행진할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 ‘잠실 참정권 집회’… 젊은 참가자들 크게 줄어</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/13/EWIVRF6QUZG63CXDNRFDD7ZTIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/13/EWIVRF6QUZG63CXDNRFDD7ZTIM/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 00:59:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTDKMDCGFQTEMRVGQZDSN3FMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 서울 송파구 올림픽공원 핸드볼경기장 앞에서 한 집회 참가자가 재선거를 요구하는 피켓을 들고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 6·3 지방선거에서 발생한 투표용지 부족 사태에 항의하는 ‘잠실 참정권 집회’가 9일차를 맞이한 가운데 집회 참가자 수가 지난주보다 크게 줄어들었다.&lt;br&gt;&lt;br&gt;이날 오전 9시 기준 서울 송파구 올림픽공원 핸드볼경기장 주변에는 경찰 비공식 추산 700명이 모였다. 서울시 실시간 도시 데이터에 따르면, 현재 이곳 인구는 7000∼7500명으로 조사됐다. 60대 이상(25.1%)이 가장 많았다.&lt;br&gt;&lt;br&gt;집회 구호는 “부정선거 재선거” “당일 개표 수개표”로 통일됐다. 황교안 자유와혁신 당대표와 한국사 강사 출신 정치 유튜버인 전한길씨 등이 집회 참가자들을 독려하는 모습도 보였다.&lt;br&gt;&lt;br&gt;지난주 주말 경찰 비공식 추산 3만명이 집결했던 것과 대비되는 모습이다. 당시에는 젊은 참가자들이 대거 현장을 찾았었다. 성조기를 들거나 정치적 구호를 외치는 행위는 금지됐었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹, 종합특검 두번째 출석... 반란 혐의 피의자 조사</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/13/ZBYELAJWZVFL3PLLUNE3B6FXQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/13/ZBYELAJWZVFL3PLLUNE3B6FXQY/</guid>
+      <dc:creator>이민준 기자, 정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 00:43:39 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 13일 2차 종합 특검에 출석했다. 지난 6일 첫 조사를 받은 지 일주일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RTAMDFGU3WENLGMU4DMNTBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 윤석열 전 대통령이 법무부 호송차를 탑승한 채 경기 과천시 2차 종합특검팀 사무실에 들어서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 오전 9시 42분쯤 법무부 호송차를 타고 경기 과천시 특검 사무실 지하 주차장에 도착했다. 특검은 이날 오전 10시부터 윤 전 대통령을 군형법상 반란 혐의 피의자 신분으로 조사한다.&lt;br&gt;&lt;br&gt;특검팀은 윤 전 대통령이 김용현 전 국방부 장관, 박안수 전 육군참모총장 등과 공모해 병기를 휴대한 군인들을 국회와 중앙선거관리위원회에 보내 폭동을 일으켰다는 의혹을 수사 중이다. 반란 혐의는 군인에게만 적용되지만, 특검은 군인이 아니더라도 군인과 공모한 혐의가 인정될 경우 혐의 적용이 가능하다고 본다.&lt;br&gt;&lt;br&gt;군형법은 작당(作黨)하여 병기를 휴대하고 반란을 일으킨 사람 중 수괴를 사형에 처한다고 규정한다. 반란 모의에 참여하거나 지휘 등 중요 임무에 종사한 사람, 반란 시 살상, 파괴 또는 약탈 행위를 한 사람은 사형, 무기징역 또는 7년 이상 징역·금고에 처하도록 규정돼 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 특검팀의 반란 혐의 조사는 이중 수사라며 강하게 반발하고 있다. 송진호 변호사는 이날 조사에 앞서 기자들과 만나 “내란죄에 대해 이미 조사가 다 완료됐는데, 특검이 성과를 만들기 위해서 반란죄 수사를 벌이는 것 자체가 매우 위법하다”고 했다. 이어 송 변호사는 “이미 내란죄와 관련 사건 (재판)을 통해서 수많은 증언을 했고, 관련자들의 재판에서도 증인으로 증언했다”며 “(이날 조사에선) 윤 전 대통령께서 판단해 진술할 것”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 출범 101일 만인 지난 6일 윤 전 대통령을 처음 소환해 조사했다. 윤 전 대통령은 12·3 비상계엄을 정당화하는 메시지를 전달했다는 직권남용 혐의를 받는다. 당시 윤 전 대통령은 오전에 출석했으나, 파견 검사가 아닌 경찰이 신문에 참여하는 것을 문제 삼아 조사를 거부했다. 특검보가 오후 조사에 배석하면서 윤 전 대통령도 조사에 응했다. &lt;br&gt;&lt;br&gt;특검은 이날 반란 혐의 외에도 김명수 전 합동참모본부 의장의 내란 중요 임무 종사 혐의에 대해 윤 전 대통령을 참고인 신분으로 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>승객 깔려 숨지게 한 버스 기사... 법원, 배심원 결론 뒤집고 “무죄”</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/13/3XMJRA42TZHFFE2VM5FZ3CKMGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/13/3XMJRA42TZHFFE2VM5FZ3CKMGY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 01:16:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2WCNBSGVRDSMRSMNRTGMJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마을버스에서 내린 승객을 뒷바퀴에 깔려 숨지게 한 혐의로 기소된 기사가 1심에서 무죄를 선고받았다. 이 사건은 배심원단 7명이 참여한 국민참여재판으로 진행됐는데, 배심원단의 유죄 결론을 뒤집고 재판부가 무죄를 선고했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 지난 8일 교통사고처리특례법상 치사 혐의로 기소된 A씨에게 무죄를 선고했다. A씨는 작년 5월 버스에서 내린 뒤 넘어진 피해자를 보지 못하고 그대로 출발하면서 피해자를 밟고 넘어갔다. 이 사고로 피해자는 사망했다.&lt;br&gt;&lt;br&gt;배심원 7명 중 4명은 A씨가 유죄라고 결론 내렸고, 3명은 무죄라고 판단했다. 그러나 재판부는 소수 의견이었던 무죄를 A씨에게 선고했다. 현행법상 재판부는 배심원단의 결론을 따라 선고하지는 않아도 된다. 다만 재판부는 판결문에 배심원단과 달리 판단한 이유를 적어야 한다.&lt;br&gt;&lt;br&gt;재판부는 “버스에서 하차한 승객이 인도를 걷다 갑자기 버스 밑으로 넘어지는 상황을 운전기사가 통상적으로 예상하기 어려웠다”며 “제출된 증거만으로는 A씨가 업무상 주의 의무를 위반해 피해자가 넘어지는 것을 확인하지 않은 과실이 있다고 인정하기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;A씨는 피해자를 내려준 뒤 다시 출발하면서 오른쪽 후면을 주시하지 않은 것으로 조사됐지만, 재판부는 “해당 도로가 2개 차선에서 1개 차선으로 합쳐지는 구간이었던 만큼 안전을 위해 반대편을 주시할 수밖에 없는 불가피한 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아이s 같이 먹을 사람”… 마약 은어로 투약자 모집 30대 벌금 1000만원</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/13/JVPCAAUK3ZDAJCK3ILVXWKMAHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/13/JVPCAAUK3ZDAJCK3ILVXWKMAHU/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 04:31:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2TMNDGMM4DEMDDGJTGGNRZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴대전화 채팅 앱에 마약류를 뜻하는 은어를 사용해 투약자를 모집하는 글을 게시한 30대에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사1단독 박광민 부장판사는 마약류 관리에 관한 법률 위반 혐의로 기소된 A(32)씨에게 벌금 1000만원을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 29일 휴대전화 채팅 앱에 필로폰을 뜻하는 은어인 ‘찬술’이라는 닉네임으로 접속해 게시판에 글을 작성한 혐의로 기소됐다. 같은 해 6월에도 두 차례에 걸쳐 해당 게시판에 ‘아이s 같이 먹을 사람’이라는 제목의 글을 올려 함께 필로폰을 투약할 사람을 찾은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;현행법상 마약 또는 향정신성의약품의 소지, 투약, 수수, 매매, 알선 등에 관한 정보를 타인에게 알리거나 제시하는 행위를 금지하고 있다. 투약을 유인하는 내용이 직접 담기지 않았더라도 은어를 활용해 관련 정보를 게시하는 것 자체만으로도 처벌 대상이 된다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 향정신성의약품을 소지·투약하는 행위에 관한 정보를 전자적 방식으로 문자를 송신하는 방법으로 3회에 걸쳐 타인에게 널리 알렸다”며 “다만 피고인의 연령, 범행 동기, 범행 후 정황 등 제반 양형 조건을 종합해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이준석 “北에 무인기 보내든 달러 보내든 이적 행위… 李대통령도 법정에서 끝 봐야”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/06/13/XSVCK7EKS5GF5OX35Q6PKIKY5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/06/13/XSVCK7EKS5GF5OX35Q6PKIKY5A/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 03:05:50 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOP4ROXMHBPS5GAHJHQBUB4C64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 지난 12일 서울 종로구 정부서울청사에서 열린 국민통합위원회 청년통통포럼 발대식에서 축사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 윤석열 전 대통령이 계엄 선포 명분을 만들기 위해 평양에 무인기를 침투시켰다고 보고 징역 30년을 선고한 데 대해 이준석 개혁신당 대표는 13일 “이것과 결별하지 못하는 보수에게 미래는 없다”고 말했다. 그러면서 불법 대북 송금 혐의로 기소된 이재명 대통령도 같은 잣대로 법의 심판을 받아야 한다고 했다.&lt;br&gt;&lt;br&gt;전날 서울중앙지법 형사36부(재판장 이정엽)는 윤 전 대통령의 일반이적죄를 유죄로 인정해 1심에서 징역 30년을 선고했다. 대통령이 재직 중 군사 작전과 관련된 일로 외환죄(外患罪)를 선고받은 것은 처음이다. 재판부는 “윤 전 대통령은 계엄 (선포 요건에 맞는) 상황을 조성하기 위해 국지전 등 무력 도발 상황이나 군사적 긴장 고조에 따른 국가 안보 위기 상황을 조성하기로 했다”고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTTE2OR33NP45LITFADGQKMWJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 12일 서울 서초구 서울중앙지법에서 열린 일반이적 및 직권남용권리행사방해 혐의 1심 선고 공판에 출석해 있다. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 이 대표는 13일 오전 페이스북에 글을 올려 “윤 전 대통령이 계엄의 명분을 만들려고 평양에 무인기를 날려 북한의 도발을 유도했다는 것이 1심의 판단”이라고 했다.&lt;br&gt;&lt;br&gt;이 대표는 “군 통수권은 국민을 지키라고 준 권한이지, 권좌를 지키라고 준 권한이 아니다”라며 “이것과 결별하지 못하는 보수에게 미래는 없다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 그러면서도 “그러나 잣대는 일관돼야 한다”며 “적(북한)에게 돈을 보냈다는 의혹을 받는 이 대통령도 법정에서 끝을 봐야 한다”고 했다. 이 대통령은 경기지사 시절 ‘방북 사례금’ 등의 명목으로 쌍방울 측이 북한에 800만 달러를 주게 한 혐의로 기소돼 있다.&lt;br&gt;&lt;br&gt;이 대표는 “(북한에) 무인기를 보내든, 달러를 보내든, 월권에 이적 행위”라며 “그런데 지금 여권은 ‘공소 취소’라는 뒷문을 만들고 있다”고 비판했다.&lt;br&gt;&lt;br&gt;이 대표는 그러면서 “국민의힘은 윤석열 앞에서 침묵하고, 민주당은 이재명 앞에서 침묵한다”며 “두 침묵 사이에서 말할 수 있는 정당은 개혁신당뿐”이라고 주장했다.&lt;br&gt;&lt;br&gt;이 대표는 “이 대통령에게 경고한다. 판결을 피해 공소 취소로 도망친다면, 마주할 저항은 지금 짐작하시는 것의 두 배, 세 배가 될 것”이라고 했다. 이어 “‘권력은 잠시지만, 책임은 끝까지 따라온다’는 교훈이 가장 무섭고 크게 들릴 사람은, 지금 가장 큰 권력을 쥔 사람”이라며 “법 위의 권력이 나라를 어떻게 흔드는지, 우리는 이미 수업료를 냈다. 같은 수업료를 두 번 낼 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정교유착 합수본, ‘당원 가입 의혹’ 신천지 前간부들 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/13/A7BGJRDAMVFVRL7SZ4U265SGPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/13/A7BGJRDAMVFVRL7SZ4U265SGPA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 00:54:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4DCMJVMQ4WINRWMI2WIOBTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시 신천지 총회 본부의 모습 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신천지가 신도 수만명을 국민의힘에 입당시켜 대선 및 총선 경선에 영향을 미치려 했다는 의혹을 수사 중인 정교유착 검·경 합동수사본부(본부장 김태훈)는 13일 2인자로 꼽히는 고동안 전 총무 등 전직 간부 3명에 대해 정당법 위반 혐의로 구속영장을 청구했다고 밝혔다. 고 전 총무 등 전직 간부들은 신천지 신도들을 상대로 국민의힘 당원 가입을 강요한 혐의를 받는다.&lt;br&gt;&lt;br&gt;지난 1월 수사를 개시한 합수본은 이만희 신천지 총회장이 2021년 대선 경선, 2024년 총선 경선을 앞두고 교인들을 국민의힘에 집당으로 입당시켜 영향력을 행사했다고 의심한다. 신천지는 이 총회장의 지시에 따라 ‘필라테스’라는 작전명의 계획을 짜고 조직적으로 신도 수만 명을 국민의힘에 입당시킨 뒤 당비를 대납해 준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;합수본은 신천지 지도부가 2021년 국민의힘 대선 경선에 나온 윤 전 대통령에게 “은혜를 갚아야 한다”고 했다는 관련자 진술도 확보했다. 신천지는 2020년 코로나19 사태 당시 감염 확산 진원지로 지목돼 수사 대상이 됐는데, 당시 검찰총장이었던 윤 전 대통령이 압수수색을 막아준 만큼 그에게 보답해야 한다는 취지였다고 한다. 이와 관련, 합수본은 고 전 총무를 지난달 두 차례 조사했다. 지난 4일엔 이 총회장도 피의자 신분으로 소환해 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토요일엔 ‘최고 32도’ 더위...일요일엔 전국 곳곳 소나기</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/06/13/X775A4JRBRCSLCZDOAIGLRSDAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/13/X775A4JRBRCSLCZDOAIGLRSDAY/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Jun 2026 00:50:47 +0000</pubDate>
+      <content:encoded>토요일인 13일 전국 낮 기온이 최고 32도까지 오르며 초여름 더위가 이어지겠다. 일요일인 14일에도 낮 기온이 최고 31도까지 오르는 가운데, 전국 곳곳에 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3GGMRTMFTDQZBRHA4TENJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 영등포구 여의도한강공원을 찾은 시민들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 13일 전국 낮 최고기온은 26∼32도로 예보됐다. 주요 도시별 최고기온은 서울·수원·대전 31도, 세종 30도, 인천·강릉·광주·울산 29도, 대구 32도, 부산 27도, 제주 26도 등이다. 당분간 전국 대부분 지역에서 낮 기온이 30도 안팎으로 오르며 더운 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;이날 중부지방과 경북권은 대체로 맑겠고, 경북권을 제외한 남부지방은 구름이 많겠다. 전라권에는 오후에 5∼30㎜의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;일요일인 14일 아침 최저기온은 15∼20도, 낮 최고기온은 25∼31도로 예상된다. 이날은 중부지방과 전북, 전남 북부, 경상 서부 내륙을 중심으로 소나기가 내리겠다. 경기 남동부와 강원 남부 내륙은 늦은 밤까지 비가 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;특히 수도권과 충남권, 전라권에는 시간당 20㎜ 안팎의 강한 소나기가 쏟아지는 곳이 있겠다. 예상 강수량은 수도권·충청권·전라권 5∼50㎜, 강원 내륙·경상권 5∼30㎜다. 제주에는 14일 밤사이 5㎜ 미만의 비가 내리겠다.&lt;br&gt;&lt;br&gt;소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다. 14일에는 우박이 떨어지는 곳도 있어 안전사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전 권역에서 ‘좋음’∼‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#재벌회장들의몸을설계한남자#심판을심판한다</title>
       <link>https://www.chosun.com/national/weekend/2026/06/13/LFGT6BREZJHGBHBNQEW7ZHGBMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/06/13/LFGT6BREZJHGBHBNQEW7ZHGBMQ/</guid>
@@ -842,26 +914,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4TQOBVMQ3GEMRWGE2GCYRQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 인사에서 고검 검사급 보직으로 사실상 강등된 정유미 검사장(대전고검 검사)이 11일 서울 서초구 서울행정법원에서 열린 인사명령처분취소 1심 판결선고기일에 출석한 뒤 밖으로 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 11일 대장동 항소 포기 사태에 반발했다가 검사장 보직인 법무연수원 연구위원에서 대전고검 검사(차장·부장검사급)로 좌천된 정유미(사법연수원 30기) 검사장에 대한 인사 명령을 취소하라고 판결했다.&lt;br&gt;&lt;br&gt;정 검사장은 윤석열 정부 때인 2023년 9월 검사장으로 승진해 대검찰청 공판송무부장에 임명됐다. 이듬해 5월 창원지검장으로 부임해 윤 전 대통령 부부가 연루된 ‘명태균 공천 개입 의혹’ 수사를 지휘했다. 그런데 작년 7월 현 정부 출범 후 검찰 간부 인사에서 정 검사장은 한직으로 꼽히는 법무연수원 연구위원으로 좌천됐다.&lt;br&gt;&lt;br&gt;4개월쯤 뒤 정 검사장은 검찰이 대장동 개발 비리로 기소된 김만배씨 등 민간 업자 1심 판결에 대해 항소를 포기하자, 검찰 내부망에 노만석 당시 검찰총장 직무대행 등을 비판하는 글을 올렸다. 그러자 법무부는 그해 12월 11일 정 검사장을 고검 검사로 발령냈다. 당시 법무부는 “검찰의 정치적 중립성·공정성에 대한 오해를 불러일으키고, 부적절한 표현으로 내부 구성원들을 반복적으로 비난해 조직의 명예와 신뢰를 실추시킨 대검 검사급 검사를 고검 검사로 발령했다”고 밝혔다. 이에 정 검사장은 “법무부가 인사권을 남용해 사실상 강등 징계를 내렸다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;이날 재판부는 “검사는 검찰총장과 검사로만 구분돼 있어서 고검 검사 발령은 국가공무원법상 징계인 ‘강등’에 해당되지 않는다”며 “검찰청법에는 검사장급 보직을 담당했던 검사가 검사장급 보직만을 계속 맡아야 한다는 규정은 없다”고 했다. 국가공무원법상 강등은 직급을 1계급 내리고, 3개월간 직무를 맡기지 않으면서 월급을 전액 감액하는 것을 말한다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “관행에 비춰볼 때 이 사건 인사는 매우 이례적”이라며 “사실상 불이익인 자발적 사직을 유도한 것”이라고 판단했다. 재판부는 “법무부가 인사 전 정 검사장에게 소명의 기회를 주거나 정식 징계 절차를 밟지 않고 하위 보직으로 전보시킨 것은 인사권을 일탈·남용한 것이어서 위법하다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 재판 과정에서 “정 검사장이 명태균 공천 개입 사건을 부실 수사한 의혹도 있다”고 주장했지만, 재판부는 “객관적으로 확인됐다고 보기 어렵다”며 받아들이지 않았다. 다만 재판부는 “정 검사장이 검찰 내부망에서 지휘부를 비판할 때 단정적이고 과장된 표현을 쓴 것은 부적절했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>하늘을 달리다</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/12/CBRDKIM22JBRLPILWYNIVUR32Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/12/CBRDKIM22JBRLPILWYNIVUR32Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRG2FKE5J5DYHN4WDAMMTWQ4I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관광객들이 11일 강원 강릉에 있는 ‘아라나비 바다하늘자전거’를 타고 있다. 강릉 남항진 약 20m 상공에 와이어를 설치한 뒤 자전거를 매달아 타고 달릴 수 있게 만들었다. 왕복 600m 코스다. 자전거를 타고 바다 위를 달리는 듯한 스릴을 느낄 수 있다. 날씨도 맑고 선선했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>물에 던지면 구조 보드가 빠르게 접근… 무인 구조 훈련</title>
-      <link>https://www.chosun.com/national/education/2026/06/12/KH6BEJTCONHXFK6646BDNSAXNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/12/KH6BEJTCONHXFK6646BDNSAXNE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKXCJ5CP3BHSNCU6EIH5ZT3M6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 대전 대덕구 대청호 선착장 부근에서 119구조대원들이 무인 수난 구조 보드를 활용해 인명 구조 훈련을 하는 모습. 이 보드는 원격 조종으로 구조대원보다 빠르게 익수자에게 접근할 수 있고, 한 번에 성인 남성 2명을 구할 수 있는 부력을 갖췄다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>BTS 멤버 단골식당·카페엔 ‘아미’ 행렬… 부산이 보랏빛으로 들썩</title>
       <link>https://www.chosun.com/national/regional/2026/06/12/OXCFQMI7DNBCNLSU3HQW3ZZJHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/12/OXCFQMI7DNBCNLSU3HQW3ZZJHY/</guid>
@@ -875,33 +927,6 @@
       </media:content>
     </item>
     <item>
-      <title>인천 영종도~옹진 신도, 차로 3분이면 건넌다</title>
-      <link>https://www.chosun.com/national/regional/2026/06/12/NGW6WM6UH5ENFFMHT4O5WZTME4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/12/NGW6WM6UH5ENFFMHT4O5WZTME4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM5KPP5MSVD7BENDYZTUWB27GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 7월 개통을 앞둔 신도평화대교. /이현준기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 옹진군 북도면 신도와 영종도를 잇는 ‘신도평화대교’가 이달 말 준공된다. 신도는 인천국제공항이 있는 영종도에서 북쪽으로 약 2㎞ 떨어진 곳이다. 그동안 한 시간에 한 번 있는 배를 타야 갈 수 있었는데, 앞으론 차량으로도 갈 수 있는 것이다. &lt;br&gt;&lt;br&gt;11일 인천시에 따르면 영종도 삼목선착장에서 신도까지 이어지는 총 길이 3.2㎞ 신도평화대교가 이달 말 준공돼 7월 중 개통될 예정이다. 인천시 관계자는 “지난달 기준 공정률이 96%로, 현재 마무리 공사 중”이라고 했다. 총 사업비는 1597억원이다. 그간 신도에 들어가려면 삼목선착장에서 한 시간에 한 번씩 운항하는 배를 타고 약 10분 정도 가야 했다. 신도평화대교가 뚫리면 차로 2~3분이면 신도에 갈 수 있게 된다. 신도는 이미 ‘형제 섬’으로 불리는 시도, 모도와 다리로 연결돼 있다. 신도평화대교가 개통하면 신도뿐 아니라 다른 섬들도 둘러볼 수 있게 되는 것이다. &lt;br&gt;&lt;br&gt;이 다리는 영종도에서 강화도까지 연결하는 ‘서해남북평화도로’의 1단계 구간이다. 2단계로는 강화도를 잇는 11.4㎞ 길이의 다리를 건설한다는 게 인천시 구상이다. 그동안 수요가 부족하다는 이유로 지지부진 했지만, 인천경제자유구역청이 지난해 산업통상부에 ‘강화 남단 경제자유구역’ 지정을 신청하면서 실현 가능성이 커졌다. 인천경제청은 강화군 길상면, 화도면 일대를 경제자유구역으로 지정해 농식품·생명자원 분야 바이오 산업 등을 육성하겠다는 계획이다. 경제자유구역으로 지정되면 기업에 땅을 분양하면서 건설 사업비도 확보하기가 쉬워진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>돌문어의 10배, 고성 50㎏ 대문어를 아시나요</title>
-      <link>https://www.chosun.com/national/regional/2026/06/12/AOTBGXM3YRF6PKC44LJD644ASQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/12/AOTBGXM3YRF6PKC44LJD644ASQ/</guid>
-      <dc:creator>고성=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAZLKFT2RNFB5HOZAUELMUKXSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 고성군 저도어장에서 어민이 대문어를 잡아 올리고 있다. 저도어장은 동해안에서 대문어가 많이 잡히는 곳이다. /고성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 최북단 항(港)인 강원도 고성 대진항에서 12~14일 ‘저도 대문어 축제’가 열린다. 고성의 특산품인 대문어를 맛볼 수 있는 축제다.&lt;br&gt;&lt;br&gt;대문어(대왕문어)는 동해안 찬물에 사는 문어다. 다 자라면 길이 3m, 무게 50㎏에 달한다. 붉은빛을 띠어 피문어라고도 한다.&lt;br&gt;&lt;br&gt;남해와 서해에서 주로 잡히는 참문어(돌문어)보다 10배 가까이 크다. 참문어는 무게가 5㎏ 정도다.&lt;br&gt;&lt;br&gt;고성에선 무게에 따라 4㎏ 이하는 소문어, 10㎏ 이하는 중소문어, 20㎏ 이하는 중대문어, 30㎏ 이하는 대문어로 부른다. 30㎏이 넘으면 특대문어다.&lt;br&gt;&lt;br&gt;경북 안동·영주 등에선 제사상에 대문어를 올린다. 이름에 ‘글월 문(文)’ 자를 품고 있어 선비들의 사랑을 받았다고 한다.&lt;br&gt;&lt;br&gt;고성 앞바다에 있는 ‘저도 어장’은 대문어의 황금 어장으로 불린다. 물이 찬 데다 바위가 많아 대문어가 숨기 좋다. 어민들은 매년 4월부터 12월까지 대문어를 낚는다. 낚시줄에 미끼를 달아 대문어를 유인한 뒤 낚아채는 방식으로 잡는다. 통발로 잡는 문어보다 더 싱싱하다고 한다. 북방한계선(NLL)과 불과 1.6㎞ 떨어진 곳이라 해경 경비함정이 어선을 호위한다.&lt;br&gt;&lt;br&gt;대문어와 참문어는 맛도 차이가 난다. 대문어는 살이 두툼하고 부드러운 반면 참문어는 쫄깃한 식감이 특징이다. 김현석 대진어촌계장은 “대문어는 씹을수록 단맛이 나고 부드러워 숙회로 즐기는 사람이 많다”고 했다.&lt;br&gt;&lt;br&gt;대문어는 고성 어민들의 주 수입원이다. 하지만 최근 어획량이 크게 줄어 걱정하는 어민이 많다.&lt;br&gt;&lt;br&gt;저도어장의 대문어 어획량은 2024년 140t에서 지난해 117t으로 16% 줄었다. 올해 어획량도 지난 10일까지 34t에 그쳤다. 어민들은 대문어 남획과 수온 상승을 원인으로 꼽았다. 고성군수협 관계자는 “문어는 12㎏ 이상 성장해야 알을 낳는데 그 전에 잡는 경우가 있다”며 “최근 20년간 동해안의 표층 수온이 1도 상승한 탓도 있다”고 했다. 문어는 서로 잡아먹어 양식도 어렵다.&lt;br&gt;&lt;br&gt;한국수산자원공단 동해본부는 어획량을 지키기 위해 작년 12월 저도 어장에 어미 대문어 135마리를 방류했다.&lt;br&gt;&lt;br&gt;저도 대문어 축제는 매년 3만명이 넘는 관광객이 찾는 고성의 대표 축제다. 대문어 숙회, 무침 등을 맛볼 수 있다. 시중가보다 30~40% 싼 가격에 대문어를 살 수도 있다. 고성 지역 가게에서 3만원 이상 쓴 영수증을 내면 5000원짜리 고성사랑상품권을 주는 이벤트도 연다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 권오길 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/06/12/GFZ77UK4SFDMRJN4MQCRRRTNBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/06/12/GFZ77UK4SFDMRJN4MQCRRRTNBM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;권오길 &lt;/b&gt;별세,&lt;b&gt; 권혁찬&lt;/b&gt;·&lt;b&gt;권혁중 &lt;/b&gt;삼성전자 커뮤니케이션실 부장 부친상, &lt;b&gt;윤종미&lt;/b&gt;·&lt;b&gt;김혜영 &lt;/b&gt;태성SNE 마케팅그룹장 시부상=10일16시55분 서울 원자력병원, 발인 13일6시, (02)970-2114&lt;br&gt;&lt;br&gt;▲&lt;b&gt;배원경 &lt;/b&gt;별세,&lt;b&gt; 김주혁&lt;/b&gt;·&lt;b&gt;김주홍 &lt;/b&gt;모친상, &lt;b&gt;배수경 &lt;/b&gt;이투데이 콘텐츠혁신부문장 언니상=11일2시59분 일산복음병원, 발인 13일9시, (031)977-6000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;송진혁 &lt;/b&gt;별세,&lt;b&gt; 송충원 &lt;/b&gt;前 대전일보 편집국장·&lt;b&gt;송호준&lt;/b&gt; 농협유통 근무 부친상=11일11시 대전 건양대병원, 발인 13일6시50분, (042)600-6666&lt;br&gt;&lt;br&gt;▲&lt;b&gt;원문자 &lt;/b&gt;별세,&lt;b&gt; 박봉규 &lt;/b&gt;前 국민일보 편집담당 부국장·&lt;b&gt;박미례&lt;/b&gt;·&lt;b&gt;박정규 &lt;/b&gt;모친상, &lt;b&gt;김정진&lt;/b&gt; 장모상, &lt;b&gt;최은주 &lt;/b&gt;시모상=11일4시9분 쉴낙원 홍천장례문화원, 발인 13일8시, (033)434-7788&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>유정훈 한국도로공사 사장</title>
       <link>https://www.chosun.com/national/people/2026/06/12/3Q46PSRQ7FAIFCSAAYFZHA4GN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/12/3Q46PSRQ7FAIFCSAAYFZHA4GN4/</guid>
@@ -909,15 +934,6 @@
       <description/>
       <pubDate>Thu, 11 Jun 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4WMMMHUP5EZDEIJLBPFBWM6XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유정훈 아주대 교통시스템공학과 교수가 11일 한국도로공사 사장으로 취임했다. 유 신임 사장은 서울대 도시공학과 출신으로, 한국교통연구원 연구위원, 국토교통부 대도시권광역교통위원회 위원, 대한교통학회 회장을 역임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울아산병원, 2031년 가동 목표… 국내 최대 ‘중입자 치료센터’ 착공</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/12/6S3RY2OYIBEV7MJXP6DN6HZJHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/12/6S3RY2OYIBEV7MJXP6DN6HZJHA/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLQOKDVTIBAPXA22C2IGGSO6CI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;11일 서울아산병원 중입자치료센터 착공식에서 정몽준(가운데) 아산재단 이사장 등 관계자들이 착공을 기념하며 첫 삽을 뜨고 있다. 왼쪽부터 정경구 IPARK현대산업개발 대표, 이창규 DK메디칼솔루션 회장, 코우 이소기미 니켄세케이 설계부문 대표, 츠토무 다케우치 도시바 대표, 정 이사장, 서강석 송파구청장, 박성욱 아산의료원장, 박승일 서울아산병원장, 송시열 서울아산병원 중입자추진단장. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울아산병원은 2031년 가동을 목표로 ‘중입자 치료센터’ 공사를 시작했다고 11일 밝혔다. 중입자 치료는 탄소 원자를 빛의 속도에 가깝게 환자의 암세포에 쏘아 치료하는 방식이다.&lt;br&gt;&lt;br&gt;2023년부터 가동 중인 연세암병원, 내년 가동 목표로 공사 중인 서울대병원에 이어 세 번째이며, 국내 최대 규모(연면적 3만9502㎡, 지하 3층~지상 9층)로 지어진다. 정몽준 아산재단 이사장은 “새로운 치료 기회를 기다리는 난치성 암 환자들에게 희망이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전영태 분당서울대병원장</title>
@@ -945,24 +961,6 @@
       <description/>
       <pubDate>Thu, 11 Jun 2026 15:41:00 +0000</pubDate>
       <content:encoded>2연패(連霸)를 노리는 신민준 9단과 세계 1위 신진서 9단이 나란히 제31회 LG배 조선일보 기왕전 4강에 진출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIWV47KATBETPAHGYCALOFZDD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제31회 LG배 조선일보 기왕전 4강에서 맞붙게 된 신민준(왼쪽부터)과 양카이원, 왕싱하오와 신진서가 11일 악수하고 있다. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신민준은 11일 전북 전주시 왕의지밀에서 열린 LG배 8강전에서 중국의 구쯔하오를 160수 만에 백 불계로 제압했다. 초반 우변 전투부터 적극적으로 압박에 나섰다. 중앙으로 몰린 흑 세력의 약점을 집요하게 파고들었고, 구쯔하오는 좀처럼 반격의 실마리를 찾지 못했다. 결국 신민준이 위기 한 번 없이 승리를 마무리했다.&lt;br&gt;&lt;br&gt;신진서는 중국 랭킹 1위 딩하오 9단을 167수 만에 흑 불계로 꺾고 4강에 올랐다. 신진서는 초반 팽팽한 흐름 속에서 중반 우상 전투를 유리하게 이끌었다. 신진서는 딩하오와의 상대 전적 격차를 13승 4패로 더 벌렸다.&lt;br&gt;&lt;br&gt;신민준과 신진서는 결승 진출을 놓고 중국 기사와 맞붙는다. 왕싱하오 9단과 양카이원 9단이 준결승에 합류했다. 왕싱하오는 박하민 9단을, 양카이원은 변상일 9단을 눌렀다. 한국과 중국 기사가 나란히 2명씩 4강에 오른 것은 LG배 통산 여덟 번째다.&lt;br&gt;&lt;br&gt;12일 같은 장소에서 열리는 4강 대진은 신민준-양카이원, 신진서-왕싱하오의 한중 대결로 정해졌다. 상대 전적에서는 한국 기사들이 우위에 있다. 신민준은 양카이원에게 3승 1패, 신진서는 왕싱하오에게 통산 5승 2패를 기록 중이다. &lt;br&gt;&lt;br&gt;조선일보가 주최하고 LG가 후원하는 LG배 우승 상금은 3억원, 준우승 상금은 1억원이다. 역대 국가별 우승 횟수는 한국이 15회로 가장 많고, 중국 12회, 일본 2회, 대만 1회다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>30대 초반 여성, 국내 최연소 사망보험금 유산기부 약정</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/12/M6DH4ETD2NAEVA2FYKOLRMPGFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/12/M6DH4ETD2NAEVA2FYKOLRMPGFA/</guid>
-      <dc:creator>윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:41:00 +0000</pubDate>
-      <content:encoded>사랑의열매는 11일 경기도에 사는 30대 초반 여성 A씨와 유산기부 약정을 맺었다고 밝혔다. 유산기부는 기부자가 사망한 후 남겨질 재산의 전부 또는 일부를 사회에 환원하는 기부 형태다. A씨는 자신의 생명보험 사망보험금 수익자를 사랑의열매로 지정했다.&lt;br&gt;&lt;br&gt;A씨는 이번 약정으로 국내 유산기부자 모임인 ‘레거시 클럽’의 최연소 회원이 됐다. 기존 최연소 유산기부자가 51세였다는 점을 감안하면 20여 년 앞당긴 것이다.&lt;br&gt;&lt;br&gt;A씨는 최근 전신 마취가 필요한 수술을 앞두고 유산기부를 결정했다고 밝혔다. 10여 년 전부터 유산기부를 고민해 왔는데, 수술이 잘 끝나자 더 이상 미루면 안 되겠다고 결심한 것이다.&lt;br&gt;&lt;br&gt;A씨는 “내가 쓸 수 없는 돈을 가장 절실하고 필요한 사람들이 썼으면 한다”며 “유산기부는 부자들만 하는 기부라고 알려져 있지만, 나처럼 평범한 사람도 할 수 있다는 것을 많은 사람이 알아주면 좋겠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/06/12/MJFFEKP6PRFF7K3QBB7SC5OK6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/06/12/MJFFEKP6PRFF7K3QBB7SC5OK6Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6PCUAONQ5HWZIY3DB4TVPU4GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-6-12일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 5일 ‘우리 아기가 태어났어요’ 코너에 실린 진서율&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국교위 “중학교 근현대사 비중 확대 개정, 추가 논의 필요”</title>
