@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북 포항서 패러글라이딩하던 70대 추락… 심정지 상태로 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/06/14/4WEWBBQOCJA27EGIN7IYJWP57Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/14/4WEWBBQOCJA27EGIN7IYJWP57Y/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jun 2026 10:38:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQWMMBRHBRTANTFMQ4GINJXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차 응급 출동./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항에서 패러글라이딩을 하던 70대가 추락해 심정지 상태로 병원에 이송됐다. &lt;br&gt;&lt;br&gt;14일 경북소방본부 등에 따르면, 이날 오후 3시 33분쯤 경북 포항시 북구 흥해읍 칠포해수욕장 인근에서 패러글라이딩하던 A씨가 추락했다. 신고받고 출동한 소방 당국은 심정지 상태인 A씨에게 심폐소생술 및 응급처치를 한 뒤 인근 병원으로 이송했다. &lt;br&gt;&lt;br&gt;포항시 북구 흥해읍 칠포리 곤륜산 일대에서 홀로 패러글라이딩에 나선 A씨는 칠포해수욕장 인근 전신주 전선에 걸리면서 추락했다고 소방당국은 전했다. &lt;br&gt;&lt;br&gt;경찰은 목격자 진술 등을 토대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천서 상가 건물 외벽 칠하던 60대 작업자 추락사</title>
+      <link>https://www.chosun.com/national/incident/2026/06/14/2RXYR4LJSBE6XFAQZ5OE4AGMYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/14/2RXYR4LJSBE6XFAQZ5OE4AGMYQ/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jun 2026 10:35:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/437IAEBS4VZVOZFMZUZODK35TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 한 상가 건물에서 도색 작업을 하던 60대 작업자가 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;14일 소방과 경찰 등에 따르면, 전날 오전 6시 16분쯤 인천 남동구 만수동 한 4층짜리 상가 건물 옥상에서 60대 남성 A씨가 10m 아래로 추락하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119 구급대가 A씨를 인근 병원으로 이송했지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;도색 업체에서 근무하던 A씨는 작업 의뢰를 받고 건물 외벽에 페인트를 칠하던 중 사다리에서 추락했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘마약 수사 외압’ 백해룡 경정, 권익위에 공익신고자 보호 신청</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/14/QE33B5PM6JER3GE3X7LJALJGHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/14/QE33B5PM6JER3GE3X7LJALJGHM/</guid>
+      <dc:creator>원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jun 2026 08:27:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDCZRYGNRTKZJTMU4WMNBXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검에 파견돼 3개월간 '세관 마약수사 은폐 의혹'을 수사한 백해룡 경정./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘마약 수사 외압 의혹’을 제기해 온 백해룡 경정이 국민권익위원회에 공익 신고하고, 공익신고자 보호를 신청했다고 밝혔다. &lt;br&gt;&lt;br&gt;백 경정은 14일 본인 소셜미디어를 통해 “지난 12일 수사 기록 약 5400쪽과 수사 과정에서 작성된 공문서 등을 포함한 약 6000쪽 분량의 자료를 권익위원회에 증거로 제출하고 공익신고자 등록을 마쳤다”고 전했다.&lt;br&gt;&lt;br&gt;그러면서 “지난 1000일 동안 온갖 공격과 핍박을 견디며 인내했던 결정적인 이유는 단 하나, 오직 ‘수사할 수 있는 기회’를 얻기 위함이었다”며 “더 이상 국가기관을 향해 ‘수사할 기회를 달라’고 구걸하듯 호소하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 서울동부지검 세관 마약 합동수사단 파견 당시 “단 한 번의 수사 회의에도 참여하지 못했고, 합수단이 취급했던 수사 자료는 단 한 장도 공유받지 못했다”며 통신 수사와 압수수색이 제대로 이뤄지지 않았다고 주장했다. &lt;br&gt;&lt;br&gt;백 경정은 “진실의 기록을 권력의 밀실에서 꺼내 ‘국민과 역사의 법정’에 모두 공개하겠다”며 “이 기록의 처분은 국민 수사대와 역사의 법관에게 맡기려 한다”고 했다. &lt;br&gt;&lt;br&gt;현재 백 경정은 합수단 파견이 종료된 지난 1월 서울 강서경찰서 화곡지구대장으로 복귀한 상태다. 서울경찰청은 백 경정이 합수단 수사 기록을 유출한 것과 관련해 감찰을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 15일 월요일 (음력 5월 1일 庚申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/14/XS2XUGRLTFARBM6JHMWLBCNNY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/14/XS2XUGRLTFARBM6JHMWLBCNNY4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>휴일 오후 덮친 호우주의보... 서울·경기 밤까지 강한 소나기</title>
       <link>https://www.chosun.com/national/transport-environment/2026/06/14/UA42PT3ONBEHFCK2CSUSPQR2BE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/14/UA42PT3ONBEHFCK2CSUSPQR2BE/</guid>
@@ -930,24 +969,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSGEMZZGU2GCM3GG4YTONZZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /서울중앙지법 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 계엄의 명분을 쌓기 위해 ‘평양 무인기 침투 작전’을 지시한 혐의 등으로 징역 30년을 선고받은 윤석열 전 대통령 측이 “특검의 수사와 기소, 그리고 재판이 바로 이적 행위”라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 12일 선고 직후 입장문을 내고 “우리 군의 무인기를 통한 대북 전단 살포는 북한의 7000여 개 오물 풍선 공격에 대한 정당한 군사 작전이었다”며 “이를 이적이라 하는 특검의 무리한 수사와 기소야말로 국가 안보를 심각하게 훼손하는 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;변호인단은 “북한은 2024년 5~11월 33회에 걸쳐 7000여 개의 오물 풍선 공격을 했고, 이로 인해 우리 국민의 인명·재산에 대한 직접적인 피해가 계속 발생했음은 물론이고 국회와 공항, 청와대, 외국 대사관 등 국가 중요 시설에 대한 테러 및 대규모 인명 피해에 대한 심각한 우려를 야기했다”고 했다. 이어 “북한은 오물 풍선에 GPS 장치를 달아 원하는 곳, 원하는 시기에 풍선을 터뜨려 내용물을 투하할 수 있는 능력도 갖춘 상태였다”며 “우리 군은 이러한 새로운 유형의 도발에 대응하고자 무인기 작전을 시행했던 것”이라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 특검의 드론작전사령부와 오산 공군기지 내 중앙방공통제소(MCRC), 공군작전사령부 압수수색에 대해서도 비판했다. 이들은 “드론사령부에 대한 수사는 군의 지휘 체계와 북한의 도발 대응에 심각한 혼란을 초래한 것”이라며 “오산 공군기지에 대한 강제 수사 역시 한·미 동맹에 대한 우려를 넘어 한·미 연합 감시 협력 체계의 신뢰에 큰 혼란을 줬다”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 “더욱 우려스러운 것은 특검의 수사가 군의 지휘 체계는 물론 상명하복이라는 군의 본질마저 훼손하고 있다는 것”이라며 “행여나 군이 적의 위협이 닥쳐왔을 때 즉각적인 대응에 앞서 상급자의 명령이라 하더라도 법적 책임을 두려워하며 본연의 임무를 수행하는 데 위축된다면 전쟁이나 적의 도발 행위에 대한 억제가 불가능해지는 것으로 심각한 안보 위험이 될 것”이라고 했다. 그러면서 “대한민국을 지키기 위한 군사적 대응과 안보 활동을 형사처벌의 대상으로 삼고 이를 이적 행위로 평가한 이번 사건의 수사와 기소는 처음부터 무리한 것이었다”며 “존재하지 않는 이적 프레임을 형사법의 영역으로 끌어들인 특검의 주장을 법원이 받아들인 것”이라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 이날 기자회견도 자청해 “대북 오물풍선에 대응한 정당한 (군사) 작전을 이적죄로 유죄 판결한 오늘은, 대한민국 안보가 사법부에 의해 철저히 무너져 내린 날”이라며 “항소를 통해 진실과 정의를 바로 세우겠다”고 했다.&lt;br&gt;&lt;br&gt;김용현 전 국방장관 변호인단도 별도 입장문을 통해 “휴전 국가에서 군의 손발을 묶어 놓고 나라를 지키라고 하는, 대한민국에 불행한 판결”이라며 “이 사건 판결로 이익을 보는 자는 김정은 정권. 우리 군이 뒤를 돌아보지 않고 본연의 사명과 역할을 다할 수 있도록 항소해 잘못된 판결에 대항해 끝까지 싸우겠다”고 했다.&lt;br&gt;&lt;br&gt;반면 내란 특별검사팀의 장우성 특검보는 선고 후 취재진에 “재판부가 (평양 무인기 작전을) 계엄 상황 조성을 목적으로 한 작전이라고 인정해 준 부분에 대해 깊이 감사드린다”며 “국가 안보를 책임져야 할 세력이 정치적 이해와 권력 유지를 위해 안보를 내팽개친 이중성에 대한 판단”이라고 말했다. 항소 여부에 대해서는 “판결문을 보고 피고인들의 항소 여부를 확인한 다음 결정하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 서울중앙지법 형사36부(재판장 이정엽)는 일반이적 및 직권남용 혐의로 기소된 윤 전 대통령 등에 대한 1심 선고 공판에서 “평양 무인기 작전은 비상계엄 선포 상황 조성을 위한 작전으로 인정된다”며 “정당한 군사 작전으로 볼 수 없다”고 판단했다. 재판부는 윤 전 대통령에게 징역 30년을 선고했다. 같은 혐의로 기소된 김 전 장관에게도 징역 30년을, 여 전 사령관에게는 징역 15년을 선고했다. 직권남용과 군용물손괴교사 등 혐의를 받는 김 전 사령관에게는 징역 3년에 집행유예 5년이 선고됐다.&lt;br&gt;&lt;br&gt;앞서 내란 특검팀은 지난 결심 공판에서 윤 전 대통령에게 징역 30년, 김 전 장관에게 징역 25년, 여 전 사령관에게 징역 20년, 김 전 사령관에게 징역 5년을 각각 구형했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 농협중앙회 압수수색... 2억원대 공금 유용 의혹</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/12/IVECNSCYYND2BMU6BNV3DZDJGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/12/IVECNSCYYND2BMU6BNV3DZDJGI/</guid>
-      <dc:creator>윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jun 2026 03:08:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTENLDGFTGEYZVMM4DMMZUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;농협중앙회 본관./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 고가의 기념품을 공금으로 구매해 회장실 등에 전달했다는 혐의로 농협중앙회에 대한 강제 수사에 착수했다. &lt;br&gt;&lt;br&gt;12일 경찰에 따르면, 서울경찰청 반부패수사대는 이날 오전부터 서울 중구 농협중앙회 사무실에 수사관을 보내 압수수색을 진행 중이다. &lt;br&gt;&lt;br&gt;이번 압수수색은 농협중앙회 일부 부서가 공금 약 2억4000만원으로 홍삼과 화장품 등 고가의 기념품을 구입해 회장실과 부회장실로 전달했다는 의혹과 관련한 수사로 알려졌다. 경찰은 압수물을 토대로 실제 지급 대상과 전달 여부 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;앞서 정부는 지난 3월 ‘농협 정부합동 특별감사 결과’를 발표하고 해당 의혹을 비롯해 농협중앙회와 계열사, 회원조합 등에 대한 공금 유용과 특혜성 대출, 분식회계 등 14건을 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;당시 정부 감사에서는 강호동 농협중앙회장이 농협재단 간부를 통해 사업비를 빼돌려 회장 선거를 도운 조합장 등에게 고가의 답례품을 돌린 것으로 드러났다. 이를 비롯해 당시 감사에서 드러난 강 회장 관련 혐의는 총 6건이었다. 경찰은 감사 결과를 토대로 관련자들의 위법 사항을 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, ‘계엄 정당화 메시지’ 조태용 前국정원장 2차 소환</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/12/FNCACGBIEZGGHEMRB4XPQJ2ERQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/12/FNCACGBIEZGGHEMRB4XPQJ2ERQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jun 2026 01:48:13 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)이 12일 ‘계엄 정당화 메시지’ 의혹과 관련해 조태용 전 국가정보원장을 피의자 신분으로 다시 소환했다. 지난 1일 첫 조사 이후 약 열흘 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJFZHMCCMJIDZCWTK2K4GDA4HI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가정보원장을 태운 호송차량이 12일 경기 과천시 2차 종합특검 사무실로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 오전 10시부터 내란 중요임무 종사 및 국가정보원법 위반 혐의를 받는 조 전 원장을 조사하고 있다. 구속 상태인 조 전 원장은 이날 호송차를 타고 특검 사무실에 출석했다.&lt;br&gt;&lt;br&gt;조 전 원장은 윤석열 전 대통령의 12·3 비상계엄 선포 직후 미국 등 우방국에 계엄을 정당화하는 내용의 메시지를 전달하는 데 관여한 혐의(내란 중요임무 종사) 등을 받는다.&lt;br&gt;&lt;br&gt;특검은 국정원이 2024년 12월 4일 국가안보실로부터 ‘우방국에 비상계엄 배경을 설명하라’는 요청과 함께 ‘대외 설명자료’를 전달받은 것으로 보고 있다. 조 전 원장이 홍장원 전 국정원 1차장 산하 해외 담당 부서에 자료를 영어로 번역하게 한 뒤, 주한 미국 중앙정보국(CIA) 책임자에게 설명하도록 지시한 것으로 특검은 의심하고 있다. &lt;br&gt;&lt;br&gt;특검은 이날 조 전 원장을 상대로 당시 국가안보실의 구체적인 요청 내용과 CIA에 전달된 메시지의 내용 및 경위 등을 집중적으로 추궁할 예정이다. 또 특검은 계엄 당일 오후 11시 30분쯤 조 전 원장 주재로 열렸던 국정원 정무직 회의에서 계엄에 동조하는 취지의 논의가 있었는지도 들여다보고 있다.&lt;br&gt;&lt;br&gt;특검은 조 전 원장과 홍 전 차장 등 국정원 정무직 6명을 내란 혐의로 입건해 수사해 왔다. 최근에는 국정원 관계자 3명을 추가 입건하면서 관련 피의자가 총 9명으로 늘어났다. &lt;br&gt;&lt;br&gt;특검은 전날 홍 전 차장을 상대로 약 9시간 동안 2차 피의자 조사를 진행했다. 특검은 오는 22일 홍 전 차장을 다시 불러 조사할 예정이다. 조 전 원장에 대해서는 이날 조사 결과를 토대로 추가 소환 여부를 결정할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>法 “계엄 위해 평양 무인기 작전”… 윤석열·김용현 모두 징역 30년 </title>
       <link>https://www.chosun.com/national/court_law/2026/06/12/ZR6H2KQFNZBKPMGBXRUQ3GMQLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/12/ZR6H2KQFNZBKPMGBXRUQ3GMQLA/</guid>
@@ -958,24 +979,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ZSSLCLMP4VC2JA62DB2SQ3HM4M.jpg?auth=34c993c4e9bac718e1900dcd78d5100d4c9f0e5a547b65ac7acac465a7407eda&amp;smart=true&amp;width=550&amp;height=309" type="image/jpeg" height="309" width="550">
         <media:description type="plain">윤석열 대통령이 건군 76주년 국군의날 시가행진이 열린 지난 2024년 10월 1일 서울 광화문 광장 관람 무대에서 시가행진을 바라보며 김용현 국방부 장관(왼쪽)과 대화를 나누고 있다. /연합뉴스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>슈퍼마켓 업주 살해 40대 송치…한 달 전 같은 가게에서 절도</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/12/GLSJSCSGZFFZNCVVXA2H5DD3QQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/12/GLSJSCSGZFFZNCVVXA2H5DD3QQ/</guid>
-      <dc:creator>인천=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jun 2026 04:15:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOBKWEFJCBP6PIGBXIXNK2BCSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;슈퍼마켓에서 70대 업주를 살해하고 현금 70만원을 빼앗은 혐의를 받는 중국 국적 동포 40대 A씨가 지난 9일 오후 구속 전 피의자 심문(영장실질심사)을 받기 위해 인천시 미추홀구 인천지법으로 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;슈퍼마켓 업주를 둔기로 살해하고 현금을 빼앗아 달아난 40대 남성이 한 달 전에도 같은 곳에서 절도를 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 강도살인 혐의로 구속된 중국 국적 40대 A씨에 대해 절도 혐의를 추가, 검찰에 송치했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오후 9시쯤 인천시 미추홀구 도화동 슈퍼마켓에서 업주인 70대 남성 B씨를 둔기로 때려 살해한 뒤 현금 70만원을 빼앗아 도주한 혐의를 받고 있다. B씨는 당시 가게를 혼자 지키고 있었다.&lt;br&gt;&lt;br&gt;또 그는 지난달 9일 오후 9시쯤 같은 슈퍼마켓에서 현금 200여 만원을 훔친 혐의도 있다. &lt;br&gt;&lt;br&gt;당시 절도 신고를 접수한 경찰은 수사에 나섰지만 용의자 신원을 특정하지 못했다. 경찰은 로또 복권을 판매하는 해당 슈퍼마켓에 당첨 번호가 있는 토요일, 현금 보유량이 많다는 점을 노리고 A씨가 범행한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 결과 A씨가 앞선 절도 사건의 범인과 동일인인 것을 확인했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선거법 위반 혐의… 유정복 시장, 재판서 혐의 부인</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/12/6DDW6J7MYZAGVJ32EFFJGL2QDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/12/6DDW6J7MYZAGVJ32EFFJGL2QDQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jun 2026 04:10:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEDD4S67KMMT3EWFH7VPG4WYTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 국민의힘 대통령선거 후보 경선에 나선 유정복 인천시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 대통령 선거 국민의힘 후보 경선 과정에서 공무원들을 동원한 혐의 등을 받는 유정복 인천시장이 12일 법정에 출석해 혐의를 부인했다. &lt;br&gt;&lt;br&gt;인천지법 형사 15부(재판장 김정헌)는 이날 오전 10시 공직선거법 위반 혐의로 기소된 유정복 시장에 대한 공판을 진행했다. &lt;br&gt;&lt;br&gt;유정복 시장에 대한 첫 공판은 애초 지난달 22일 진행됐으나 유 시장이 불출석 사유서를 내고 출석하지 않았다. 유 시장 변호인 측은 “(6·3 인천시장 선거에 출마해) 1분 1초가 아까운 상황”이라고 불출석 이유를 설명했다. 김 부장판사는 당시 “다음 기일에도 유 시장이 나오지 않으면 영장을 발부하겠다”고 경고했다.&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의 재판에 처음으로 출석한 유 시장은 생년월일과 주소 등에 대한 재판장 물음에 답하고, 직업은 “인천광역시장입니다”라고 했다. &lt;br&gt;&lt;br&gt;유 시장 측 변호인은 “공소사실에 대한 의견은 준비 절차에서 정리된 것과 달라진 게 없느냐”는 재판장 질문에 ”네“라고 했다. 유 시장 측은 앞서 지난 2월 열린 2차 공판준비기일에서 전반적인 공소 사실에 대해 유 시장이 관여하지 않았다거나 선거법 위반이 성립되지 않는다는 취지의 의견서를 제출하고, 혐의를 부인했다. &lt;br&gt;&lt;br&gt;재판부는 유 시장에 대한 인정심문 등을 마친 뒤, 증인 심문을 진행했다. &lt;br&gt;&lt;br&gt;정장 차림으로 출석한 유 시장은 함께 기소된 피고인 6명과 피고인석에 앉아 담담한 표정으로 재판에 임했다. 증인 심문 과정에서 관련 자료가 제시된 화면을 주시하기도 했다. &lt;br&gt;&lt;br&gt;유 시장에 대한 재판은 이날 오후와 오는 26일, 다음 달 3일에 계속 진행될 예정이다. 오전 재판을 마친 유 시장은 주요 혐의와 향후 재판 전망 등에 대한 입장을 묻는 취재진 질문에 “내가 이야기할 게 없다”고 했다. &lt;br&gt;&lt;br&gt;유 시장은 지난해 4월 국민의힘 대통령선거 후보 경선 과정에서 인천시 공무원들을 동원해 선거운동을 한 혐의로 불구속 기소됐다. 인천시 전·현직 공무원 6명도 공무원 신분으로 유 시장을 지원한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이들은 유 시장의 대선 관련 홍보물 116건을 SNS(사회관계망 서비스)에 올리고, 선거 슬로건이 담긴 음성 메시지 180만건을 발송한 혐의를 받고 있다. 홍보성 광고를 신문에 게재한 혐의도 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>키움 이용규 음주운전… 경찰차도 들이받아</title>
