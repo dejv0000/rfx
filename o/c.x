@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 날씨] 2026년 6월 17일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/06/16/P7N2DDNTMFAGNMS6NARR442TOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/16/P7N2DDNTMFAGNMS6NARR442TOQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 14:35:00 +0000</pubDate>
+      <content:encoded> 오후부터 전국 곳곳 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGWO7U22C5FZVF4KLVZZBPGAMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>그날 어느 잠실 투표소의 기록… “21명 대기하다 17명 돌아가”</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/16/G6E3DARM6ZBXVJ2FQL2MUSQPBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/16/G6E3DARM6ZBXVJ2FQL2MUSQPBI/</guid>
+      <dc:creator>김도균 기자, 김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 13:08:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRTQZBQG5TDOZTCGVSWKMDFGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 15일 경기도 과천시 중앙선거관리위원회 모습. photo 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 당일 서울 송파구 일부 투표소에서 투표용지 부족으로 유권자들이 투표를 하지 못하고 돌아간 정황을 수기로 기록한 문건이 16일 공개됐다.&lt;br&gt;&lt;br&gt;개혁신당 천하람 의원실이 중앙선거관리위원회에서 받은 투표록(최종기록지)을 보면, 6·3 선거 당일 서울 송파구 잠실동의 한 투표소의 투표관리관은 지난 3일 오후 투표 마감 전 투표용지 부족으로 21명이 대기했다고 투표록에 적었다.&lt;br&gt;&lt;br&gt;이 투표관리관은 “오후 7시 30분쯤 부족한 용지를 공급받아 투표 사무가 재개됐다”고 했지만, 이후 투표용지 배부를 기다리던 이들 가운데 17명이 떠나면서 실제로 투표한 인원은 4명에 그쳤다고 투표록에 썼다. 투표관리관은 중도에 떠난 유권자들에 대해 “투표 지연으로 인해 투표를 포기한 선거인”이라고 적었다.&lt;br&gt;&lt;br&gt;송파구 잠실동의 또 다른 투표소에서도 비슷한 일이 벌어진 것으로 나타났다. 또 다른 투표관리관이 작성한 투표록을 보면, 해당 투표소에서 투표 마감을 10분 앞둔 오후 5시 48분쯤 투표용지 부족으로 투표가 중단됐다. 처음엔 남아서 투표하겠다는 유권자 수가 오후 6시에는 12명이었는데, 1시간 35분 뒤 투표용지가 뒤늦게 도착했을 때 남아 있는 인원은 7명이었다.&lt;br&gt;&lt;br&gt;천하람 의원은 “투표용지 부족으로 참정권이 침해당한 국민이 어느 정도 되는지, 전수 조사를 명확하게 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이날 중앙선거관리위원회는 이번 지방선거 투표용지 부족 사태가 발생한 원인으로 꼽히는 투표지 인쇄 매수 기준 축소 조정에 대해 전면 재검토하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;중앙선관위는 더불어민주당 ‘선거제도 개혁 태스크포스(TF)’가 이날 국회에서 연 회의에 참석해 과거 선거에서 통상 선거인 수의 60∼70%의 투표지를 인쇄했지만, 이번 지선에서 ‘투표용지 최소 50% 인쇄’ 지침을 내렸다고 했다.&lt;br&gt;&lt;br&gt;선관위는 인쇄 기준을 축소한 이유에 대해 투표지 인쇄소 확보가 어렵고, 과도한 수량의 투표지가 남을 경우 부정선거 의혹이 제기될 수 있다는 점을 고려했다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;선관위는 또 투표소별 투표지 잔여 수량을 모니터링하고 즉각 보고할 수 있는 체계를 구축하겠다고 했다. 선관위는 투표지 부족 시 추가 배부하는 절차를 표준화하고, 선거 관리 비상 상황 대응 훈련을 정례화하기로 했다.&lt;br&gt;&lt;br&gt;이런 가운데 투표지 부족 사태를 수사 중인 검경 합동수사본부는 이날 서울 송파구 잠실7동 제2투표소 투표관리원이었던 지자체 공무원을 참고인 신분으로 불러 조사했다. 이 투표소는 6·3 지방선거 당일 투표지가 부족해 투표 마감 시각이 오후 10시로 미뤄진 곳 중 하나다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 구미서 200도 고온 견디는 ‘수퍼 섬유’ 생산 늘린다</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/16/VW5A6Q7BFRG3LJPQJI5YMGLHGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/16/VW5A6Q7BFRG3LJPQJI5YMGLHGY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 13:39:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTGGZBRGVTGGNDEG5SGCNRXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도레이 첨단소재가 16일 경북 구미 1공장에 연산 3000톤 규모의 메타 아라미드 섬유 2호기를 준공했다./구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미에 메타 아라미드 섬유를 생산하는 공장이 들어섰다. 메타 아라미드 섬유는 200도 이상 고온을 견디는 내열성과 절연성을 갖춰 ‘슈퍼 섬유’로 불리며, 인공지능(AI) 기술에 필요한 전력 인프라와 방산 등 다양한 산업 분야에서 쓰인다.&lt;br&gt;&lt;br&gt;경북도와 구미시는 16일 구미시 공단동 구미국가산업 1단지 내 도레이첨단소재 1공장에서 메타 아라미드 섬유 2호기 준공식을 열었다. 준공식에는 이철우 경북지사·김장호 구미시장·니시무라 도모노부 도레이 섬유사업본부장·규노 모토히사 도레이첨단소재 회장·김영섭 도레이첨단소재 대표이사 사장 등 100여명이 참석했다.&lt;br&gt;&lt;br&gt;이번 2호기 증설을 통해 구미 도레이첨단소재는 기존 생산량을 포함해 메타 아라미드 섬유를 연 5400t 규모로 뽑아낼 수 있게 됐다.&lt;br&gt;&lt;br&gt;김장호 구미시장은 “아라미드 섬유 2호기 준공은 글로벌 첨단 소재 시장을 향한 기술적 도약”이라며 “구미 지역 내 소재·부품 산업 경쟁력을 끌어올리고 신성장 동력을 확보하는 계기가 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원택 “보수·진보 시대 끝났다… 청년이 나서야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/16/GGORD7E3WJFDDFT6EBXNJV5YUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/16/GGORD7E3WJFDDFT6EBXNJV5YUA/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 08:57:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNLGF4SFX5F2JLZJMIWGOHWB5E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울대 관악캠퍼스 아시아연구소 영원홀에서 강원택 서울대 교수가 고별 강연을 열었다. 한국 정당 정치 전문가인 강 교수는 오는 8월 정년 퇴임을 앞두고 있다. /서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“보수의 시대, 그리고 386세대와 민주당의 시대도 저물어가고 있습니다. 새로운 변화에 직면해야 합니다. 여기서 젊은 세대의 움직임이 필요합니다.”&lt;br&gt;&lt;br&gt;한국 정당 정치 전문가인 강원택 서울대 정치외교학부 교수가 16일 마지막으로 교단에 올랐다. 한국 정치와 정당 체제, 선거 제도 연구에 매진해 온 강 교수는 오는 8월 정년 퇴임을 앞두고 있다.&lt;br&gt;&lt;br&gt;강 교수는 이날 오후 4시 서울대 관악캠퍼스 아시아연구소 영원홀에서 ‘한국 정치와 함께한 시간, 그리고 남겨진 질문들’이라는 주제로 고별 강연을 열었다. 강의실에는 교수, 학생 등 100여 명이 자리를 채웠다.&lt;br&gt;&lt;br&gt;강 교수는 이날 잠실 참정권 집회를 두고 “처음으로 2030 세대가 정치적으로 움직이는 것을 봤다는 점에서 이번 6·3 지방선거가 특별했다”며 “젊은 층이 공정성 상실에 분노하고 있는데, 이는 ‘젠지(Gen Z)’ 세대의 정치적 움직임으로 보고 있다”고 평가했다. 이어 “대의제가 부실한 국가(방글라데시, 케냐 등)나 서구 선진국(프랑스 국민연합, 영국의 코빈 지지층 등)에서 기성 정당의 부패와 무능에 분노한 청년들이 이동하는 현상과 매우 유사하다”고 했다.&lt;br&gt;&lt;br&gt;다만 강 교수는 “기존 두 정당은 떠오르는 젊은 세대의 정치적 욕구를 반영할 수 없고 새로운 정치 세력을 통한 정치적 의사 표출이 이뤄질 가능성이 높다”고 했다. 이어 “젊은 세대가 움직여서 깃발을 들게 되면 정치 세력들도 따라 움직일 것”이라며 “386 세대가 끌고 온 이슈는 앞으로 더 이상 수용되지 않는 이슈라고 본다”고 했다.&lt;br&gt;&lt;br&gt;강 교수는 이번 지방 선거가 낳은 정치적 변화가 향후 수년간 영향을 끼칠 것으로 봤다. 강 교수는 “2년 뒤 총선에서 젊은 세대를 공천할 가능성이 커 보인다. 젊은 세대의 고민을 담아줄 세력으로 바뀌는 정당이 2년 뒤 총선에서도 승리할 것”이라고 했다. 이어 “이미 대한민국 정치는 두 번 망가졌는데 더 망가진다면 이후에는 내각제에 가까운 형태로 변화해야 한다는 의견도 나오지 않을까 싶다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYMCCZK7I5HVXFT4BHL56SEKTQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울대 관악캠퍼스 아시아연구소 영원홀에서 강원택 서울대 교수가 고별 강연을 열었다. 한국 정당 정치 전문가인 강 교수는 오는 8월 정년 퇴임을 앞두고 있다. /서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보수 정당에 대한 지적도 이어졌다. 강 교수는 “보수는 2016년 총선 이후 대안 세력으로서의 매력을 상실했다. 특히 국가적 문제가 집약되고 지역주의에서 자유로운 수도권에서의 지속적인 패배는 보수가 현실 문제에 제대로 대응하지 못하고 있음을 보여준다”고 했다.&lt;br&gt;&lt;br&gt;“정치 양극화로 인해 건강하지 못한 정치가 이어지고 있다”는 우려도 나왔다. 강 교수는 “한국이 ‘제3의 물결’을 타고 민주화에 성공한 대표적인 모범 국가였으나 최근 양극단의 정치로 인해 급격히 퇴행하고 있다”며 “보수의 극단에서는 권위주의 속성이, 진보의 극단에서는 포퓰리즘적 속성이 나타난다”고 했다.&lt;br&gt;&lt;br&gt;강 교수는 “더 이상 정치 개혁을 하지 않으면 안 되는 상황이 왔다”고도 강조했다. 강 교수는 “헌법재판소, 선거관리위원회, 사법부 등 심판 역할을 하는 기구들에 대한 신뢰도가 정파에 따라 달라지는 현상이 이어진다”며 “이는 국가적으로, 시스템적으로 중대한 위기가 온 것”이라고 진단했다.&lt;br&gt;&lt;br&gt;이어 “개헌을 포함한 근본적인 해결책 고려가 필요하다”며 “이 모든 시스템을 바꾸려면 대통령에 집중된 구조를 깨야 하는데 쉽지 않아 보인다”고 했다. 다만 “지금처럼 다수결주의가 횡행하는 시기에 헌법 개정이 이뤄지면 오히려 부정적인 요인이 클 것”이라며 “1987년 개헌이 지금까지 긴 생명력을 가져온 것은 합의제를 통해 이뤄졌기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;마지막으로 강 교수는 “대학에서의 생활이 즐거웠고 많은 축하 속에서 마무리할 수 있어 감사하다”며 “아쉬움 속에서 떠날 수 있게 되어 행복하다. 나가서도 내가 할 수 있는 일을 찾으며 잘해 나가겠다”고 전했다.&lt;br&gt;&lt;br&gt;강 교수는 1985년 서울대 지리학과를 졸업한 뒤 1990년 서울대 정치학 석사, 1997년 영국 런던정경대(LSE) 정치학 박사 학위를 받았다. 2002년 숭실대 정치외교학과 교수로 부임했으며 2010년부터는 모교인 서울대 정치외교학부 교수로 재직해 왔다.&lt;br&gt;&lt;br&gt;2010년 한국정당학회장, 2017년 한국정치학회장을 역임했다. 국회입법조사처, 외교부, 헌법재판소, 국방부, 중앙선거관리위원회, 대법원 법원행정처 등 주요 국가기관의 자문위원을 지내며 제도 혁신과 개혁에 기여해 왔다는 평가를 받는다. 현재는 서울대 총장 직속 싱크탱크인 국가미래전략원장을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FORE7K5PV5AFBDMHRDURH7XYIM.jpg?auth=7ebfab8f96630ac4f4146f1a00147091b36f5e30e076011543bb259392394e0b&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">16일 오후 서울대 관악캠퍼스 아시아연구소 영원홀에서 강원택 서울대 교수가 고별 강연을 열었다. 한국 정당 정치 전문가인 강 교수는 오는 8월 정년 퇴임을 앞두고 있다./김도연 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법무부, 정유미 前 연구위원 ‘인사명령 취소’ 1심 판결에 항소</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/16/SW5UEZPXVRCGNLQQCZLAZPU4PQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/16/SW5UEZPXVRCGNLQQCZLAZPU4PQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 09:26:19 +0000</pubDate>
+      <content:encoded>법무부는 지난해 12월 정유미 전 법무연수원 연구위원(검사장급)을 대전고검 검사로 발령 낸 인사 명령을 취소하라고 한 서울행정법원 1심 판결에 항소했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3WMMRTHE4DKM3GMI3TKYLEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 “1심 판결문을 검토한 결과 항소를 통해 판결을 바로잡을 필요가 있다고 판단해 항소를 제기했다”고 밝혔다. 앞서 서울행정법원 행정5부(재판장 이정원)는 정 전 연구위원에 대한 인사 명령과 관련해 “사실상 불이익인 자발적 사직을 유도한 것”이라며 “법무부가 인사 전 정 검사장에게 소명의 기회를 주거나 정식 징계 절차를 밟지 않고 하위 보직으로 전보시킨 것은 인사권을 일탈·남용한 것이어서 위법하다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 법무부는 이날 “해당 인사 처분이 검찰청법 제6조에 따른 적법한 보직 변경”이라고 반박했다. 그러면서 “인사 명령 전에 인사 대상자에게 소명 기회를 줘야 한다는 1심 판단은 인사권자의 재량권을 과도하게 제약하는 결정”이라고 주장했다.&lt;br&gt;&lt;br&gt;법무부는 또 1심 재판부가 해당 인사 명령이 강등이나 징계 처분에 해당하지 않고 법령·절차 위반도 없다고 판단한 점과, 정 전 연구위원이 검찰 내부망에 올린 글에 대해서도 검찰권 행사의 공정성·중립성·신중성에 대한 국민 신뢰를 떨어뜨릴 위험이 있어 표현의 자유 범위 안에 있지 않다고 밝힌 점도 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주 시민단체, 중국 순방 마친 강기정 시장에 “정율성 기념사업 파기하라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/16/P4XD6T5TJBEIRPWSPBACUQ4VFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/16/P4XD6T5TJBEIRPWSPBACUQ4VFU/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 09:16:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWCL4EOV6FFYHNTN3V6RM5HWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정(가운데) 광주광역시장과 김병내(왼쪽 두번째) 광주 남구청장이 9일(현지시각) 베이징에서 정율성의 딸 정소제씨와 만나 기념사진을 촬영하고 있다. /공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강기정 광주광역시장이 중국 순방 중 중국 인민해방군 군가와 조선인민군 행진곡을 작곡한 정율성(鄭律成·1914~1976) 유족을 만난 것에 대해 광주 지역 보수 시민단체들이 반발했다.&lt;br&gt;&lt;br&gt;정율성 공원 조성 철폐 범시민연대 등 38개 단체는 16일 광주시청 앞에서 기자회견을 열고 “강 시장은 정율성 기념 사업 재추진을 위한 모든 시도를 즉각 중단하고 정율성 흉상 복원·역사 공원 조성 시도를 전면 파기하라”고 밝혔다.&lt;br&gt;&lt;br&gt;강 시장과 김병내 광주 남구청장은 지난 9일(현지 시각) 중국 베이징에서 정율성의 딸 정소제씨와 손자 검봉씨를 면담했다. 강 시장은 이들에게 “정율성은 중국에서는 위대한 음악가로 존경받고 한중 양국을 잇는 상징적인 존재로 기억되고 있다”며 “광주는 정율성의 고향으로서 그의 음악과 정신이 한중 우호·교류의 자산으로 계승되기를 희망한다”고 말했다.&lt;br&gt;&lt;br&gt;시민연대는 “강 시장은 임기를 한 달도 남겨놓지 않은 상황에서 지난 7일부터 5박 6일 중국 출장을 다녀왔다”며 “우리는 이번 중국 방문이 정율성 흉상 복원과 정율성 역사 공원 조성 사업을 중국 곰 판다 유치와 맞바꾸려는 시도로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;강 시장은 중국 베이징동물원도 시찰했다. 이곳은 판다를 포함해 약 300종 희귀 야생동물을 보유하고 있다. 이 때문에 광주시가 정율성 흉상을 복원하는 등 중국과 우호 관계 강화로 광주 우치동물원에 판다를 유치하려는 것 아니냐는 해석이 나온 것이다.&lt;br&gt;&lt;br&gt;광주시와 남구는 2008년 정율성 생가가 있는 양림동 거리 이름을 ‘정율성 거리’로 바꾸고 정율성 기념 사업을 벌여왔다. 중국인 관광객을 유치한다는 이유였다.&lt;br&gt;&lt;br&gt;2009년에는 정율성 거리에 흉상도 세웠다. 남광주청년회의소가 중국 해주구 인민정부에서 기증받은 것이다. 하지만 2023년 10월 한 교회 전도사가 정율성 흉상에 밧줄을 묶은 뒤 차량으로 당겨 쓰러뜨려 파손됐다.&lt;br&gt;&lt;br&gt;2023년 광주시가 동구 불로동에 정율성공원을 만들기로 하면서 불거진 이념 논란 때문이다. 다이빙(戴兵) 주한 중국 대사는 지난 2월 6일 강 시장을 만나 “중국에서 임시정부 등 항일 유적지를 잘 관리·보존하고 있는 만큼 (파손된) 정율성 흉상을 복원해 달라”고 요청했었다.&lt;br&gt;&lt;br&gt;시민연대는 강 시장을 향한 공개질의서를 통해 “강 시장은 중국 방문 과정에서 중국 정부, 정율성 유족 등과 협의한 내용을 광주 시민과 국민에게 밝혀라”라며 “광주시가 정율성 기념사업을 추진한 명분인 중국 관광객이 얼마나 늘어나고 유치됐는지 객관적인 자료도 공개하라”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YWCL4EOV6FFYHNTN3V6RM5HWMM.jpg?auth=9a21ed0892d4c64e40434dd53bc2ddd66bacc28a8ae18aab1da64e43f20d5090&amp;smart=true&amp;width=5616&amp;height=3744" type="image/jpeg" height="3744" width="5616">
+        <media:description type="plain">강기정(가운데) 광주광역시장과 김병내(왼쪽 두번째) 광주 남구청장이 9일(현지시각) 베이징에서 정율성의 딸 정소제씨와 만나 기념사진을 촬영하고 있다. /공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">KIMKISIK</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>화우-한경협, ‘전환기 대한민국, 기업의 과제와 기회’ 세미나 개최 </title>
+      <link>https://www.chosun.com/national/court_law/2026/06/16/O75YFE3TFFDE5FU6YWJDCTS3TY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/16/O75YFE3TFFDE5FU6YWJDCTS3TY/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 09:03:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LH4N7IZ2MNGJPL5YQLROOATAMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하반기 국회 원구성을 앞두고 현 정부의 경제 정책을 점검하는 세미나가 열린다. 법무법인(유한) 화우는 다음 달 2일 오후 2시 서울 강남구 아셈타워 34층 화우연수원에서 한국경제인협회와 함께 ‘전환기 대한민국, 기업의 과제와 기회’ 세미나를 연다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;이번 세미나는 지난 6·3 지방선거에서 여당이 전국 광역단체장 다수를 확보하면서 경제, 노동 분야 등 ‘개혁 입법’이 본격화될 움직임에 발맞춰 선제적으로 법률 대응을 할 수 있도록 기획됐다. &lt;br&gt;&lt;br&gt;제1세션을 맡은 김태년 민주당 국가균형성장특별위원회 위원장은 5선 의원으로 지방선거 이후 정치·경제 환경의 변화, 하반기 국회 원구성 전망, 이재명 정부의 핵심 경제 입법 방향 등을 중점적으로 다룰 예정이다. &lt;br&gt;&lt;br&gt;제2세션에서는 전직 고위 공직자 출신 화우 고문 세 명이 분야별로 하반기 입법 규제 동향과 기업 대응 방향을 발표한다. 노동 분야에서는 전 고용노동부 차관 출신 임서정 화우 고문이 노동조합법 개정 흐름과 기업의 단체 교섭, 인사·노무 대응 전략을 짚어본다. &lt;br&gt;&lt;br&gt; 산업 분야에서는 전 산업통상자원부 1차관 출신 박진규 고문이 미국 관세·통상 정책 변화와 반도체, 에너지, 조선 등 전략 산업 입법 방향을 다룬다. 공정거래 분야에서는 전 공정위 상임위원 출신 신영호 고문이 플랫폼·유통·하도급 분야의 규제 흐름과 공정거래 입법 동향에 대해 살펴본다. &lt;br&gt;&lt;br&gt;홍정석 화우 GRC그룹장은 “이번 세미나는 하반기 국회 원구성을 앞두고 기업의 법무·대외협력·전략기획 등 담당자들이 정부와 국회의 정책 방향을 선제적으로 파악하고 대응하는 데 도움을 주기 위해 마련되었다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서해 공무원 사건 위증 혐의… 제주해경청장 등 2명 대기발령</title>
+      <link>https://www.chosun.com/national/incident/2026/06/16/L2ULRD4PXBGQNBM5KYALPGVO6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/16/L2ULRD4PXBGQNBM5KYALPGVO6E/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 08:41:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YG5GJL6FIBE3VG2V52OPTQRLW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수구 해양경찰청 전경. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박상춘 제주지방해양경찰청장과 박홍식 강릉해양경찰서장이 서해 공무원 피격 사건 관련 위증 혐의로 수사를 받게 되면서 대기발령 조치됐다.&lt;br&gt;&lt;br&gt;16일 해양경찰청에 따르면 최근 고위공직자수사처와 경찰청 국가수사본부로부터 이들에 대한 수사 개시 통보가 있었고, 곧 대기발령 조치가 이뤄졌다. &lt;br&gt;&lt;br&gt;박상춘 청장과 박홍식 서장은 지난 4월 국회의 ‘윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사 특별위원회’에서 서해 공무원 피격 사건과 관련해 위증한 혐의로 고발됐다. &lt;br&gt;&lt;br&gt;해경은 2020년 9월 서해에서 북한군의 총격으로 피살된 해양수산부 공무원 이대준씨 사건과 관련해 “월북한 것으로 판단한다”고 발표했다. 그러나 윤석열 정부 출범 이후인 2022년 6월 “월북 의도를 찾지 못했다”고 번복했다. &lt;br&gt;&lt;br&gt;당시 인천해양경찰서장으로 번복 브리핑을 했던 박상춘 청장은 지난 4월 국정조사 특위에서 윤성현 전 해경청 수사정보국장이 폭로한 내용과 관련해 “기억에 없다”고 말하는 등 번복에 대한 ‘윗선 개입설’을 부인했다. &lt;br&gt;&lt;br&gt;윤성현 전 국장은 국정감사 등에서 박상춘 청장이 번복 브리핑 전날 “굳이 발표 형식으로 할 생각이 없는데 청장이 시켜서 한다. 지금까지 수사해 본 적도 없고, 수사의 ‘수’ 자도 모르는데 현재로서는 어쩔 수 없을 것 같다”고 자신에게 말했다고 주장했다. &lt;br&gt;&lt;br&gt;번복 브리핑 당시 해경청 형사계장이었던 박홍식 서장도 국정조사 특위에서 “인천해경에 전화해 서해 피격 공무원 사건을 챙겼느냐”는 질문에 “그런 적 없다”고 답한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폰꾸, 다꾸에 이어 ‘신꾸’까지… 고물가 시대 MZ들이 개성 표출하는 방법</title>
       <link>https://www.chosun.com/national/national_general/2026/06/16/HBX3SKIOB5APVBLBWHIHRUMMHQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/16/HBX3SKIOB5APVBLBWHIHRUMMHQ/</guid>
@@ -801,51 +880,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWQGRBX3M6QP3I7JWI56C7K22M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김해 서부경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 13일 오전 10시 38분쯤 경남 김해시 진례면 한 제조업체 공장 외부에서 옹벽 보수 공사 작업을 하던 50대 남성 A씨가 10ｍ 아래로 추락하는 사고가 났다.&lt;br&gt;&lt;br&gt;동료 작업자의 신고를 받고 출동한 소방 당국은 크게 다친 A씨를 병원으로 옮겼으나, A씨는 치료를 받던 중 숨졌다. A씨는 당시 옹벽 보수 공사를 위해 방수포를 옮기던 중 사고를 당한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;일용직 노동자인 A씨는 한 공사업체와 계약을 맺고 작업에 투입됐고, 이 업체는 공장 측의 의뢰로 옹벽 보수 공사를 진행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 이 업체가 중대재해 처벌 등에 관한 법률 적용 대상인지 여부 등 정확한 사고 경위와 업체 과실 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 연예기획사 대표 차가원 구속영장 신청</title>
-      <link>https://www.chosun.com/national/incident/2026/06/15/6W7VEGW7GRGQ5IFFJNY43APNTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/15/6W7VEGW7GRGQ5IFFJNY43APNTI/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jun 2026 02:56:43 +0000</pubDate>
-      <content:encoded>경찰이 300억원대 사기 혐의를 받는 연예기획사 원헌드레드레이블 차가원 대표에 대해 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTSZBSMEYGGOBXGVSTONRQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차가원 대표 /원헌드레이드레이블&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 본지 취재에 따르면 서울경찰청 금융범죄수사대는 최근 특정경제범죄 가중처벌법상 사기 등 혐의로 서울중앙지검에 차 대표에 대한 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;차 대표는 자사 소속 연예인의 지식재산권(IP)을 이용한 사업을 주식회사 노머스에 제안해 계약을 체결한 뒤 242억원의 선수금을 받았지만, 실제 사업을 이행하지 않은 혐의를 받는다. 피해 규모는 약 300억원으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 차 대표가 다른 업체와 미리 맺은 계약이 조만간 종료될 것으로 보이지 않음에도 노머스에 이 사실을 숨기고 이중계약을 맺었고, 사업을 이행할 준비도 되지 않은 상태였다고 의심하는 것으로 전해졌다. 차 대표는 이와 별개로 지인과 ‘서로 소유한 주택에 전세 계약을 맺자’고 54억원을 받은 후 자신은 계약을 이행하지 않은 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;차 대표 측은 “압수수색 과정에서 위법성이 확인돼 준항고까지 제기된 상황에서 구속영장을 신청한 것은 심히 유감”이라며 “조사 과정에서 일어난 수사팀장 및 수사관의 인권 침해에 대해 국가인권위원회에 진정을 제기할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, ‘도이치 수사 무마’ 이창수 前 중앙지검장 첫 피의자 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/15/YY6G6ZT7FBBM3MKO56RG5JJRRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/15/YY6G6ZT7FBBM3MKO56RG5JJRRE/</guid>
-      <dc:creator>정동하 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jun 2026 01:43:17 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)이 15일 김건희 여사의 ‘도이치모터스 수사 무마’ 의혹과 관련해 이창수 전 서울중앙지검장을 피의자 신분으로 소환했다. 이 전 지검장이 특검에 출석한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45EWHMN5PJJJJHRQJK5WWQH3WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 전 서울중앙지검장이 15일 오전 경기 과천시 2차 종합특검 사무실에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 9시 12분쯤 경기 과천시 특검 사무실에 도착한 이 전 지검장은 취재진 질문에 답하지 않고 곧바로 조사실로 향했다.&lt;br&gt;&lt;br&gt;이 전 지검장은 2024년 10월 서울중앙지검 반부패수사2부가 도이치모터스 주가조작 사건을 수사하던 당시 김 여사를 불기소(무혐의) 처분하는 과정에서, 내부적으로 ‘불기소 의견서’를 작성하고 수사보고서를 사후적으로 수정하는데 관여한 혐의(허위공문서 작성) 등을 받는다.&lt;br&gt;&lt;br&gt;특검은 이와 관련해 최재훈 대전지검 중요경제범죄조사단 부장검사(전 서울중앙지검 반부패2부장)도 피의자로 입건했다. 특검은 오는 16일 최 부장검사를 소환조사할 예정이다.&lt;br&gt;&lt;br&gt;특검은 검찰이 김 여사를 불기소 처분한 배경에 윤석열 정부 ‘윗선’의 압력이 작용했다는 의혹도 수사하고 있다. 이와 관련해 특검은 심우정 전 검찰총장 등을 직권남용 피의자로 입건하고, 당시 서울중앙지검 반부패수사2부 소속 검사들을 참고인으로 불러 조사한 바 있다.&lt;br&gt;&lt;br&gt;반면 당시 수사팀 관계자들은 특검이 허위 공문서로 지목한 보고서가 단순 참고 자료에 불과하다고 주장하고 있다. 해당 보고서는 기록 편철을 위해 기존 수사 내용을 정리한 것으로, 문서에 적힌 날짜와 작성자 역시 통상적인 업무 관행에 따라 기재됐다는 것이다. &lt;br&gt;&lt;br&gt;이들은 또 해당 보고서가 검사장이나 검찰총장에게 보고하거나 결재를 받는 공식 문서가 아니었으며, 실제 불기소 처분의 근거가 된 불기소 결정서와 20여 쪽 분량의 수사 결과 보고서는 처분 전에 작성된 만큼 문제가 없다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추경호 당선인, 전문가·시민과 함께 공약 실행 방안 구체화 나서</title>
-      <link>https://www.chosun.com/national/regional/2026/06/15/KF3RFOQ6B5EFDOELEV5HK6U7G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/15/KF3RFOQ6B5EFDOELEV5HK6U7G4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jun 2026 01:55:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDCZBSMEZGIN3GGA3WEMJQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추경호 대구시장 당선인./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추경호 당선인의 민선 9기 대구시장직 인수위원회는 시민·전문가 그룹과 함께 주요 공약 구체화 작업에 나선다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;실·국별 업무 보고를 통해 대구시 주요 현안에 대한 진단을 마친 인수위는 대구정책연구원을 비롯한 각 분야 전문가들과 함께 주요 공약에 대한 실질적인 실행 방안을 마련할 계획이다.&lt;br&gt;&lt;br&gt;특히 TK 신공항과 취수원 등 주요 현안 과제, 소상공인 보증 지원 확대, 대구형 교통 패스 등 대규모 재정 투입 정책, 도청 후적지, 서대구역세권 개발 등 주요 공약에 대해 정책적 완성도를 높이는 데 집중할 예정이라고 인수위는 밝혔다. &lt;br&gt;&lt;br&gt;또 시민의 목소리를 듣기 위해 지난 11일 온라인에 개설한 ‘시민 정책 제안 플랫폼’에 들어온 시민 제안 검토도 시작한다. 14일까지 160여 건의 정책 제안이 접수됐다고 한다. &lt;br&gt;&lt;br&gt;선거 과정에서 경쟁했던 김부겸·이수찬 후보의 공약도 열린 자세로 검토해 시민에게 도움이 되고 대구 발전에 필요한 정책이라면 폭넓게 검토해 시정에 반영할 예정이다. &lt;br&gt;&lt;br&gt;추경호 대구시장 당선인은 “인수위 기간 동안 현장과 시민의 목소리, 정책 분야 전문가들의 지혜를 모아 핵심 현안의 현실적인 추진 방안을 마련하겠다”며, “선거 기간 제시된 다른 후보자의 공약 역시 대구 발전을 위한 고민의 산물인 만큼 꼼꼼히 살펴 필요한 부분은 민선 9기 정책 사업에 반영할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선박 음주운항 여름철 집중 발생… 해경, 6~8월 특별 단속</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/15/ESASWQK6RBC4JMPJICZ2XPVH24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/15/ESASWQK6RBC4JMPJICZ2XPVH24/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jun 2026 01:57:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYWINJUG5SDONZTGMZTGMBUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주측정 하는 해양경찰./ 해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선박을 운항하는 선장들의 음주운항이 여름철에 집중되는 것으로 나타났다.&lt;br&gt;&lt;br&gt;15일 해양경찰청에 따르면 지난 2023년부터 2025년까지 3년간 음주 운항 적발 건수는 총 190건으로, 이 가운데 28%(54건)가 6~8월에 집중적으로 적발됐다. &lt;br&gt;&lt;br&gt;2023년 9월엔 충남 태안 신진항에서 술에 취한 상태로 선박을 운항하던 선장 A씨가 다른 선박과 충돌한 뒤 현장을 벗어나려다 해경에 적발됐다. 당시 A씨의 혈중알코올 농도는 최대 0.212%로 측정됐다. &lt;br&gt;&lt;br&gt;지난해 8월엔 경북 울진 후포항에서 어선 선장 B씨가 혈중알코올농도 0.044% 상태로 적발됐다. 그는 전날 늦은 시간까지 술을 마신 뒤 다음 날 조업하다가 입항 중 해경에 단속됐다. &lt;br&gt;&lt;br&gt;해경은 여름철 선장들의 음주운항이 집중되는 것으로 보고, 이달부터 오는 8월까지 음주운항 근절을 위한 특별 단속을 진행하기로 했다. &lt;br&gt;&lt;br&gt;어선과 낚시어선, 유선, 도선, 수상 레저기구 등 모든 선박이 단속 대상이다. 해경은 경비함정과 해상교통관제센터(VTS) 등을 활용해 음주 단속을 진행하고, 출항 전 불시 음주 측정도 강화할 계획이다.&lt;br&gt;&lt;br&gt;장인식 해양경찰청장 직무대행은 “음주운항은 본인뿐만 아니라 승객과 다른 선박의 안전까지 위협하는 중대한 위법행위”라며 “음주운항 근절에 총력을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“나한테 욕해?” 평소 무시하던 후배 찔러 살해한 40대</title>
-      <link>https://www.chosun.com/national/regional/2026/06/15/VQYYQ6KFGBE7DNMYQLXVGQVXVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/15/VQYYQ6KFGBE7DNMYQLXVGQVXVQ/</guid>
-      <dc:creator>고성=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Jun 2026 02:33:08 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYTINDDGYYDMOBUHBQTEMLGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평소 자신을 무시한다는 이유로 후배를 흉기로 살해한 피의자가 구속돼 수사를 받고 있다. 경남 고성경찰서는 살인 혐의로 40대 남성 A씨를 긴급 체포해 구속 수사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난 14일 A씨에 대한 구속영장을 발부했다. 경찰은 정확한 범행 동기와 사건 경위를 조사한 뒤 A씨를 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, A씨는 지난 12일 낮 12시 25분쯤 고성군 30대 남성 B씨의 주거지에서 B씨를 흉기로 찔러 숨지게 한 혐의를 받고 있다. 범행 직후 인근 주민의 112 신고를 받고 출동한 경찰은 20분쯤 뒤 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 평소 알고 지내던 후배 B씨가 자신을 무시한다고 생각해 불만을 품어온 것으로 나타났다. 범행 당일에도 술에 취한 상태에서 B씨에게 욕설을 듣자 격분해 흉기를 휘두른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 전쟁기념사업회 교사연수 일정에 ‘항미원조’ 포함</title>
       <link>https://www.chosun.com/national/national_general/2026/06/15/UWJ5PJULQ5FQFP3H54S3FC67DQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/15/UWJ5PJULQ5FQFP3H54S3FC67DQ/</guid>
@@ -894,16 +928,6 @@
       <content:encoded>최근 젊은이들 사이에서 ‘반려 식물 키우기’가 유행하는 것과 맞물려 온라인 중고 마켓에서 불법 식물 거래가 늘고 있다. 불법 거래된 식물은 바이러스와 병해충을 확산시킬 수 있다. 생태계 교란을 일으키는 잡종이 등장할 수 있다는 분석도 나온다.&lt;br&gt;&lt;br&gt;본지가 14일 중고 거래 사이트 ‘중고나라’에서 희귀 관엽식물 ‘몬스테라 잎’을 검색해보니 판매 중인 글이 24건 올라와 있었다. 다른 중고 거래 사이트인 ‘번개장터’에서도 판매 글이 20여 건 검색됐다. 이 식물은 한때 잎 한 장이 수십만~수백만 원에 거래되며 ‘식테크(식물+재테크)’ 대표 품목으로 꼽혔다. 현재 중고 거래 사이트에도 23~25㎝ 길이 몬스테라 잎이 30만~43만원에 판매되고 있다. 판매자들은 대부분 모주(번식을 위한 어미 식물)를 통해 몬스테라 알보를 증식해 팔고 있었다.&lt;br&gt;&lt;br&gt;개인이 식물을 증식해 판매하려면 종자산업법에 따라 지방자치단체에 종자업 등록을 해야 한다. 종자업 등록을 하지 않고 식물 씨앗이나 묘목을 파는 것은 불법이다. 중고나라에 판매 글을 올린 A씨는 “종자업 등록은 하지 않고 취미로 몬스테라 잎을 증식해 팔고 있다”고 했다. A씨처럼 종자업 등록을 하지 않은 개인이 식물을 임의로 증식해 판매하다 적발되면 2년 이하 징역 또는 2000만원 이하 벌금에 처해질 수 있다. &lt;br&gt;&lt;br&gt;그럼에도 온라인 불법 판매 적발 건수는 최근 계속 늘고 있다. 단속 당국인 국립종자원이 적발한 불법 온라인 종자 거래는 2021년 4건이었는데 2025년엔 39건으로 10배 가까이 늘었다. 국립종자원 관계자는 “불법 온라인 종자 거래가 많아져 올해 3월부터는 상시 모니터링 체제에 들어갔다”며 “3~5월 석 달간 불법 종자 판매 업체 20곳을 적발했다”고 밝혔다.&lt;br&gt;&lt;br&gt;국립종자원이 단속을 강화하고 있지만, 온라인상 불법 종자 거래 현황을 보면 적발 건수는 미미한 수준이다. 판매자가 허위 주소를 등록하는 경우가 많은 데다, 국립종자원 요청으로 중고 거래 플랫폼이 계정을 정지하더라도 다른 계정을 만들어 판매를 이어가기 때문이다. 한 중고 거래 업체 관계자는 “개인 판매자의 종자업 등록 여부 등을 일일이 확인하는 것은 현실적으로 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;식물 전문가들은 개인이 임의로 증식한 식물이 유통되면 바이러스나 병해충이 빠르게 확산될 수 있다고 지적한다. 문정훈 서울대 농경제사회학부 교수는 “검증되지 않은 식물을 심었을 때 곤충과 바람에 의한 자연 교배로 예상치 못한 잡종이 등장할 수도 있다”며 “당국은 감시를 강화하고, 온라인 중고 마켓도 선제적으로 판매 규제를 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>소나기·우박 내리더니… 오늘은 30도 무더위</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/15/5V6FLMO5UBDL3OIT2DJ4KLDDBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/15/5V6FLMO5UBDL3OIT2DJ4KLDDBY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Jun 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSLXWNENCBAYXOTAIO3WUEGD5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오후 서울, 경기 등 일부 지역에 시간당 30㎝ 안팎의 강한 소나기가 쏟아졌다. 서울엔 올 들어 처음 호우주의보가 내려졌다. 경기 수원, 파주, 포천 등에는 우박도 떨어졌다. 사진은 수원 영통구 길가에 우박이 떨어진 모습. 수원에선 프로야구 경기도 취소됐다. 기상청은 “대기가 불안정해지면서 곳곳에 소나기와 우박이 내렸다”며 “15일 이후에는 전국 대부분 지역이 대체로 맑은 가운데 낮 기온이 30도 이상으로 올라 무더울 것”이라고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[관가 인사이드] “정원오에 줄섰던 고위직 안절부절” 서울시, 인사 앞두고 뒤숭숭</title>
       <link>https://www.chosun.com/national/national_general/2026/06/15/EYFPSK4HGVD3BC6O4VSASBJAX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/15/EYFPSK4HGVD3BC6O4VSASBJAX4/</guid>
@@ -929,24 +953,6 @@
       <description/>
       <pubDate>Sun, 14 Jun 2026 15:42:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QZASYT4CFH6FAVIFVJRXB46LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신민준(오른쪽) 9단이 14일 LG배 조선일보 기왕전 결승 제1국에서 돌을 놓고 있다. /한국기원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신민준 9단이 LG배 2연패(連霸)에 성큼 다가섰다. &lt;br&gt;&lt;br&gt;신민준은 14일 전북 전주시 왕의지밀에서 열린 제31회 LG배 조선일보 기왕전 결승 3번기 제1국에서 중국의 왕싱하오 9단을 308수 만에 흑 반집승으로 꺾었다. 신민준이 15일 2국에서도 승리하면 LG배 사상 처음으로 두 대회 연속 우승하는 기록을 달성한다. LG배는 이창호(4회), 신진서(3회) 등 다승자를 여럿 배출했지만, 한 번도 연속 우승을 허용하지 않는 것으로 유명하다. &lt;br&gt;&lt;br&gt;시종일관 안갯속 승부였다. 초반엔 신민준이 좌상귀 포석에서 손해를 보며 불안하게 출발했다. 그러나 우상귀 전투에서 왕싱하오의 빈틈을 놓치지 않고 흐름을 되찾았다. 이후 두 기사는 중앙을 쉽게 건드리지 않은 채 변과 귀를 중심으로 실리를 주고받았다. &lt;br&gt;&lt;br&gt;중반 우변 전투에서 왕싱하오가 승기를 잡는 듯했지만 결정타를 날리지 못했다. 흑과 백 모두 승기를 잡았다가 놓치는 국면이 반복됐다. 결국 승부가 갈린 것은 중앙에서의 집 승부였다. 왕싱하오의 실착(206수)을 신민준이 놓치지 않았고, 차분하게 끝내기를 이어가며 반집 차 짜릿한 승리를 완성했다.&lt;br&gt;&lt;br&gt;조선일보가 주최하고 LG가 후원하는 LG배 우승 상금은 3억원, 준우승 상금은 1억원이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 6월 15일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/06/14/N4W55ABE4FCFPGP7O7LTBVGYHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/14/N4W55ABE4FCFPGP7O7LTBVGYHI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Jun 2026 14:32:00 +0000</pubDate>
-      <content:encoded> 오후 경남 지역 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YW6CRCCR3ZDK7EZ562QKXGNHFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공정한 승부 망치지 말라… 심판을 심판하다</title>
-      <link>https://www.chosun.com/national/weekend/2026/06/13/WJBTAVROIZGYFBZW32TRVBSZ6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/06/13/WJBTAVROIZGYFBZW32TRVBSZ6Q/</guid>
-      <dc:creator>정상혁 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Jun 2026 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FILULYEDHNELDKCU26VL4CQKUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;심판 판정에 항의하는 손흥민 선수. 2023년 6월 엘살바도르와의 경기 장면이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“심판, 눈 뜨자!”&lt;br&gt;&lt;br&gt;올해 K리그 심판 동계 훈련은 이 같은 자성의 다짐으로 시작됐다. 지난 시즌 잇따른 오심으로 인한 비난의 구호 “심판, 눈 떠라!”가 관중석에서 너무 자주 터져 나왔기 때문이다. 지난해 K리그 오심은 전년보다 3배 가까이 증가한 79건이었다. 오죽하면 대한축구협회 심판위원장이 국회 국정감사에 출석해 고개를 숙이기까지 했다. 유튜브에 새해 각오 영상까지 올렸지만 민심은 싸늘했다. “직장인도 일 못하면 회사에서 얼마나 깨지는데, 앓는 소리 하지 마라.” 오심은 계속되고 있다.&lt;br&gt;&lt;br&gt;지난 3월 7일 열린 인천 대 광주 경기에서는 승패를 가르는 결정적 요인이 됐다. 페널티 박스 내 경합 과정에서 인천 수비수와 광주 공격수가 충돌하자 주심은 곧장 페널티킥을 선언했다. VAR(비디오 판독)까지 거쳤지만 판정 유지. 그러나 천천히 다시 보면, 수비수가 먼저 공을 걷어낸 뒤 공격수와 맞부딪친 것이기에 반칙이 성립하지 않는 장면이었다. 오히려 항의가 거셌다며 인천 코치진에 경고가 주어졌고, 페널티킥을 성공시킨 광주가 결국 승리했다. 며칠 뒤 축구협회는 이 판정이 오심이었다고 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDGODCMU4WEOLEGNRTCZDEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 10일 열린 EPL 시합에서 맨유가 역전골을 넣고 기뻐하고 있다. 이 과정에서 핸드볼 파울이 있었으나 심판은 그대로 경기를 진행했고 결국 득점을 올린 맨유가 승리했다. 이후 프로경기심판기구는 오심을 인정하고 사과했다. /EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공정성을 위해 존재하는 심판이 되레 부실 판정으로 논란의 중심에 서자, 문화체육관광부는 올해 처음 ‘프로축구 성장위원회’를 발족해 심판 판정 신뢰 회복을 최우선 과제로 다루기로 했다. 심판 교육·평가 체계 개선, 반자동 오프사이드 판독 시범 도입과 같은 기술 고도화를 통해 ‘판정 리스크’를 줄이겠다는 것이다. 대한축구협회 역시 심판 운영 쇄신안을 발표하고, 매 라운드 종료 후 온라인 피드백 교육 정례화 및 판정 통일성 강화를 위한 교육 체계 보완 등의 대책을 내세웠다. 외부 질책이 그만큼 심각하다는 뜻이다.&lt;br&gt;&lt;br&gt;경기 결과가 뒤집히는 경우가 속출하기 때문이다. 세계 최고 축구 리그 EPL(잉글랜드 프리미어리그)에서는 오심이 우승팀까지 바꿔놨을 가능성이 제기됐다. 지난 2일 미국 스포츠 매체 디애슬레틱이 이번 시즌 판정 오류를 전수 분석한 바에 따르면, 올해 우승팀 아스널은 마땅히 페널티킥이 부여돼야 했음에도 심판이 그냥 넘어간 상황 등으로 인해 3경기에서 한 골 차 진땀승을 챙길 수 있었던 것으로 드러났다. 만약 판정이 제대로 됐다면 판도가 달라져 2위 맨체스터 시티가 우승컵을 들어 올렸을지 모른다. 맨체스터 시티는 오심으로 승점 2점을 손해 본 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZGIMJRMU3TSYTEGJRTCNTEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MLB에서 뛰는 한국인 타자 이정후가 안타를 쳐내고 있다. 지난 10일 경기에서 이정후는 ABS 챌린지를 통해 인간 심판의 스트라이크 판정(오심)을 바로잡았다. /AFP연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종목 불문, 심판은 현재 가장 뜨거운 감자다. 미국 프로야구가 올해부터 도입한 로봇 심판 ‘ABS 챌린지’ 사용 결과를 보면, 인간 심판의 존재 이유를 되묻게 되는 지경에 이른다. 지난 4월 AP통신은 올해 메이저 리그 개막 이후 첫 1주 동안 ABS 챌린지를 통한 판정 번복률이 55.2%(542회 중 299회)를 기록했다고 보도했다. 스트라이크냐 볼이냐, 인간의 판정이 로봇에 의해 절반 넘게 정정됐다는 얘기다. 12차례 이의 신청에서 11차례 판정이 달라져 번복률 91.7%를 기록한 심판도 있었다. 모든 공을 로봇이 판정하는 우리나라와 달리 미국은 재확인 신청 기회가 팀당 두 번뿐이다. 그럼에도 이 정도 수치가 나온 것이다.&lt;br&gt;&lt;br&gt;로봇은 착시에 속지 않기 때문이다. 전 분야에서 로봇 심판 도입 요구가 거세지는 이유다. 지난 4월 한국 남자 프로배구 챔피언 결정전에서도 기막힌 판정 논란이 일었다. 현대캐피탈과 대한항공이 세트 스코어 2대2로 팽팽히 맞선 마지막 세트, 매치 포인트에서 현대캐피탈의 스파이크 서브가 코트에 꽂혔다. 인(in)이라면 그대로 경기 종료. 그러나 판정은 아웃이었다. 화면상에는 분명 공이 라인에 닿아 있는 것으로 보였지만, 비디오 판독 이후에도 판정은 아웃이었다. 이날 현대캐피탈은 패배했고, 감독은 “승리를 강탈당했다”며 길길이 날뛰었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWZM4TRHZBCYVCHALPTYBC26DA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 남자 프로 배구 챔피언 결정전 2차전 논란의 순간. 위 사진은 현대캐피탈 측의 아웃 판정 장면이고, 아래 사진은 같은 경기 대한항공 측의 점수 인정 장면이다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;첨단 장비 부족으로 인한 한국만의 애매한 ‘로컬 룰’ 탓이었다. 국제 무대에서는 초고속 카메라 여러 대로 공 위치를 확인하는 ‘호크아이 시스템’을 통해 다차원 판독이 가능하기에 공의 일부라도 라인에 닿은 것으로 보이면 공격 포인트가 인정되지만, 한국에서는 TV 방송사 중계 화면으로 비디오 판독을 할 수밖에 없는 한계로 ‘접지면을 기준으로 공이 최대로 눌린 상황에서 안쪽 라인이 (육안으로) 보이면 아웃’이라는 자체 규정이 적용된다. 다툼이 반복될 수밖에 없는 것이다. 배구연맹은 3년 내 AI 판독 기술을 도입하겠다고 최근 공식 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLUOPJPADFCSTMRMTRCPOGDYOA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;올해 진행 중인 NBA 파이널 경기 모습. 이례적으로 NBA 선수 노조는 최종전이 끝나기도 전에 사상 초유의 심판 평가서를 공개했다. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기장의 주연은 선수지만, 최고 존엄은 심판이다. 불복종하면 퇴장당하고 벌금까지 부과된다. 판결하는 존재, 그러나 이제 판결의 대상이 돼가고 있다. 미국 프로 농구 NBA에서는 지난달 선수 노조가 모든 심판을 3등급으로 나눈 평가표를 사상 처음 공개했다. “NBA가 짜고 치는 WWE(프로레슬링)냐”는 분노까지 터져 나온 상황에서 노조 측이 밝힌 네 가지 심판 평가 요소는 판정의 정확성, 경험, 균형 잡힌 성격, 소통이었다. 한국인 최초의 NBA 풀타임 심판으로 2023년부터 코트에 투입된 황인태 심판은 3등급으로 분류됐다. NBA 역시 ‘호크아이’ 도입을 검토 중이다.&lt;br&gt;&lt;br&gt;여자 리그(WNBA)도 상황은 비슷하다. 오죽하면 지난해 영국 일간 가디언은 “심판을 보러 경기장에 오는 사람은 아무도 없지만 지금 WNBA에서는 그들이 이야기의 중심”이라고 썼다. “감시자는 누가 감시하는가”(고대 로마 시인 유베날리스)라는 질문이 심판을 향하게 되면서 ‘심판의 심판’이 본격 논의되고 있다. 대학에서 도입한 학생의 교수 평가 제도를 떠올리게 하는 대목. 이를테면 팬들과 언론이 앞장서서 축구 선수뿐 아니라 심판에게도 평점을 매겨 공개하는 영국이 대표적이다. 냉철한 평가와 더불어 ‘최고의 심판 순위’도 함께 발표함으로써 자발적 경쟁력 고양의 효과도 낸다는 평가가 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSSFVEGRVFCILH7YWH32OCYWXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;판정에 불만은 품은 관중이 야구장에 난입해 심판을 폭행하는 일까지 벌어졌다. 2014년 이 사건을 계기로 비디오 판독이 전격적으로 도입됐다. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오심이 경기의 일부로 용인되던 시대는 갔다. 기계를 통한 판독 기술은 갈수록 정교해지고, 팬들의 안목은 높아진 상황에서 심판의 존재 이유가 점차 희박해지고 있다는 지적도 나온다. 인간이기에 완벽할 수 없더라도, 신뢰가 뒷받침되지 않으면 권위는 지속될 수 없기 때문이다. 전북대 사회학과 설동훈 교수는 “최근 선관위에 대한 국민적 분노도 감시받지 않는 존재에 대한 강한 불신이 기저에 깔려 있지 않느냐”면서 “경기의 일부로서 심판 역시 논란 불식을 위한 적극적이고 다각적인 커뮤니케이션 노력이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;대중과의 스킨십을 늘리려는 시도가 이어지고 있다. 한국마사회는 지난달 경마 팬들을 초청해 ‘찾아가는 심판위원’ 설명회를 서울 영등포 지사에서 개최했다. 심의 전반에 대한 궁금증을 심판위원이 직접 해소하는 자리였다. “경기가 투명하고 공정하게 진행되려면 적절한 심의 및 제재 기준뿐 아니라 팬들과의 소통과 신뢰가 필수적”이라고 했다. 대한축구협회도 문제적 판정 장면을 심판이 직접 해설하는 유튜브 콘텐츠 ‘VAR ON, 그 판정 다시 보기’를 시작했고, 경기 후 잡음이 큰 판정 시비를 즉시 해명하는 ‘먼데이 브리핑’ 제도도 올해 초 신설했다. 다만 아직까지 열린 적은 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
