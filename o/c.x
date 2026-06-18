@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>세계 톱30 대학, 中 4개→5개… 한국은 또 0개</title>
+      <link>https://www.chosun.com/national/education/2026/06/18/YKIDZOTIJFHAXLFASLYCQVEIP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/18/YKIDZOTIJFHAXLFASLYCQVEIP4/</guid>
+      <dc:creator>표태준 기자, 오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jun 2026 23:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JR5QID7JHVAOTCUU3QKDT6QMNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 전경 /서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영국 글로벌 대학 평가 기관 QS(Quacquarelli Symonds)가 18일 오전 발표한 ‘2026 세계 대학 평가’에서 중국 대학 5곳이 ‘톱30’에 들어간 가운데, 한국 1위인 서울대는 작년과 같은 38위를 기록한 것으로 나타났다. 한국 상위권 대학들은 10년째 성장세가 정체된 반면, 중국 대학들은 빠르게 성장하고 있다. &lt;br&gt;&lt;br&gt;QS는 전 세계 5000여 대학을 9개 항목으로 평가해 1500위까지 순위를 매겼다. 한국 대학은 작년과 같은 43곳이 순위에 들었다. 중국(홍콩 포함)은 작년보다 18곳 많은 99곳이 이름에 올랐다. 아시아 국가 가운데 최고치다. 인도가 52곳(작년 54곳)으로 두 번째로 많았고, 일본은 작년보다 6곳 줄어든 41곳을 기록했다. 순위에 든 대학 수가 한국이 일본보다 많은 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;한국 대학들은 서울대(38위)에 이어 연세대(42위), 고려대(52위), 카이스트(65위), 포항공대(106위), 성균관대(108위), 한양대(155위) 순으로 세계 대학 순위가 높았다. 이들이 상위권에 오른 건 평가 지표 가운데 가장 비중이 큰 ‘학계 평판’(30%)에서 꾸준히 높은 점수를 받고 있기 때문이다. 서울대는 ‘학계 평판’에서 세계 18위, 연세대는 61위, 고려대는 69위, 카이스트는 46위를 기록했다.&lt;br&gt;&lt;br&gt;그러나 한국 대학들은 교육 여건을 보여주는 ‘교수당 학생 비율’ 지표에서 뒤처지고 있다. 이 지표에서 서울대는 140위, 연세대는 145위, 고려대는 183위를 기록했다. 심지어 대부분 대학들 순위가 하락 추세다. 대학들이 전임 교원 채용을 줄이고, 부족한 인력 공백은 시간 강사 등으로 메우고 있기 때문이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K27XIZF26RCDXM6E4HF2Y2URGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 대학들은 ‘국제화’ 부문에서도 초라한 성적을 이어가고 있다. 다양한 해외 국가 학자들과의 공동 연구를 측정하는 ‘국제 연구 네트워크’ 지표에서 고려대는 278위, 연세대 400위, 서울대 460위,카이스트 801위에 그쳤다. ‘외국인 교수 비율’ 지표도 연세대 617위, 고려대 640위, 카이스트 673위, 서울대 801위 등으로 낮았다. &lt;br&gt;&lt;br&gt;한국 대학들이 세계 30위권 밖에 밀려나 있는 것은 결국 고등교육에 대한 투자가 부족하기 때문이라고 교육계는 보고 있다.&lt;b&gt; &lt;/b&gt;OECD의 ‘교육지표 2025’에 따르면, 한국의 초·중·고 학생 1인당 정부 지출은 2022년 기준 2만1476달러로 OECD 평균(1만2438달러)을 크게 웃돌 뿐 아니라 38국 중 2위였다.&lt;b&gt; &lt;/b&gt;반면 고등교육 정부 지출은 6617달러로 OECD 평균(1만5102달러)의 절반에도 미치지 못했으며, 38국 중 36위였다. &lt;br&gt;&lt;br&gt;배영찬 한양대 명예교수는 “정부가 BK21(두뇌한국21) 같은 연구 지원 사업을 장기간 시행하며 대학들의 연구 역량을 끌어올렸지만, 한편으론 20년 가까이 ‘등록금 동결’을 강제하고 재정 지원 규모는 늘리지 않아 교육 여건을 후퇴시킨 면이 있다”며 “이번 기회에 초·중·고 교육에 치중된 정부 재정을 고등교육에도 투입하도록 제도를 개선해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JR5QID7JHVAOTCUU3QKDT6QMNY.jpg?auth=82370ec171050198ee378a420384dcec9fb90c8f924ecf18064131bde29d00fb&amp;smart=true&amp;width=5464&amp;height=3640" type="image/jpeg" height="3640" width="5464">
+        <media:description type="plain">서울대학교 전경/서울대</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 피의자신문조서 열람 막은 2차 특검, 소송 걸었더니 “봐도 된다” 말 바꿔</title>
       <link>https://www.chosun.com/national/court_law/2026/06/18/QYDJF3BINRHWTPVC5UXKZFE5GE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/18/QYDJF3BINRHWTPVC5UXKZFE5GE/</guid>
@@ -946,15 +958,6 @@
       <description/>
       <pubDate>Tue, 16 Jun 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUNMZUQ775B7FKLVRLE2TDFVOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 6월 17일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/06/16/P7N2DDNTMFAGNMS6NARR442TOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/16/P7N2DDNTMFAGNMS6NARR442TOQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Jun 2026 14:35:00 +0000</pubDate>
-      <content:encoded> 오후부터 전국 곳곳 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGWO7U22C5FZVF4KLVZZBPGAMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘참교육’ 위해 뭉친 교사·학부모... 교육 공동체 신뢰 회복 운동 출범 </title>
