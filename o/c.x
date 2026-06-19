@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰 “김건희 디올백, 尹 직무 관련”…청탁금지법 위반 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/19/CEHL7U56PBF7LP3JMG552RFDDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/CEHL7U56PBF7LP3JMG552RFDDA/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Jun 2026 23:52:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DSNDDG4YDSNZRG5SWGMRZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./서울중앙지방법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김건희 여사의 ‘디올백 수수 의혹’과 관련해 윤석열 전 대통령에게 청탁금지법 위반 혐의를 적용해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경찰청 3대 특검 인계 사건 특별수사본부는 지난 9일 윤 전 대통령을 청탁금지법 위반 혐의로 서울중앙지검에 불구속 송치했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 김 여사가 2022년 6월 최재영 목사로부터 받은 540만원 상당의 디올 가방이 당시 대통령이던 윤 전 대통령의 직무와 관련성이 있다고 판단한 것으로 전해졌다. 윤 전 대통령이 해당 금품 수수 사실을 알고도 감사원 등에 신고하지 않았다는 점도 청탁금지법 위반에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;다만 경찰은 윤 전 대통령에게 뇌물수수 혐의는 적용하지 않았다. 윤 전 대통령 부부가 금품 수수를 사전에 공모했다고 볼 만한 증거는 충분하지 않다고 판단한 것이다.&lt;br&gt;&lt;br&gt;김 여사는 디올백과 반클리프 아펠 목걸이, 금거북이 등을 받고 인사·이권 청탁에 관여한 혐의로 현재 1심 재판을 받고 있다. 앞서 민중기 특검은 김 여사에게 징역 7년 6개월을 구형했다. 선고는 다음 달 26일 오후 2시로 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2889] 얼굴 삼행시</title>
+      <link>https://www.chosun.com/national/nie/2026/06/18/S7TEY2GPXVD7BFIJZTMJ3SSDOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/18/S7TEY2GPXVD7BFIJZTMJ3SSDOU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jun 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWVSUK7DWVG6LNZU2UXKRLVR3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 우정 노조, 한노총 위원장 선거 때 조합비로 후보 돈 대줬다</title>
       <link>https://www.chosun.com/national/labor/2026/06/19/ISERDD67OJHKFGXZG3BECT23FE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/19/ISERDD67OJHKFGXZG3BECT23FE/</guid>
@@ -882,24 +900,6 @@
       <description/>
       <pubDate>Wed, 17 Jun 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TL4UIIUY2FEX5ONIKITMI6KLSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;캐럴라인 크리아도 페레스 지음 l 황가한 옮김 l 출판사 웅진지식하우스 l 가격 1만8500원&lt;/b&gt;&lt;br&gt;&lt;br&gt;무더위가 기승을 부리는 여름철, 실내의 차가운 에어컨 바람 때문에 담요를 챙기는 여성이 많습니다. 휴대전화를 한 손으로 만지다 자꾸 떨어뜨리거나, 안전벨트·마스크가 몸이나 얼굴에 잘 맞지 않는다고 느끼는 여성도 많죠. ‘내가 유난히 추위를 많이 타나’ ‘내 손이 작은가 보다’라고 생각하며 그냥 넘기기도 하는데요. 하지만 오늘 소개할 책 ‘보이지 않는 여자들’은 이런 ‘불편’엔 분명한 이유가 있다고 말합니다.&lt;br&gt;&lt;br&gt;저자는 인류가 오랫동안 남성을 ‘인간의 기본값’으로 여겨왔다고 설명합니다. 물건을 만들 때 남성의 몸이 기준이 됐고, 도시와 교통·의학 제도를 설계할 때 남성의 생활방식을 떠올려 왔습니다. 그 결과 여성의 몸과 경험에 관한 자료가 제대로 모이지 않았고, 사회 곳곳에 빈틈이 생겼습니다. 저자는 이를 ‘젠더 데이터 공백’이라고 부릅니다. 책은 여성의 경험이 빠진 세계가 어떤 결과로 이어지는지 차례로 보여줍니다.&lt;br&gt;&lt;br&gt;젠더 데이터 공백은 생명과 안전을 위협하기도 합니다. 1960년대 표준 사무실 온도를 정할 때 기준이 된 건 몸무게 70㎏인 40세 남성의 신체였어요. 남성은 근육량이 많아 신체를 유지하는 데 필요한 에너지가 여성보다 더 많고, 그만큼 더 많은 열을 발생시킵니다. 또 오랫동안 자동차 안전 실험에도 남성의 몸을 기준으로 한 충돌 실험 인형이 쓰였습니다. 이에 같은 사고를 당해도 여성이 중상을 입거나 사망할 위험이 더 높습니다. &lt;br&gt;&lt;br&gt;이 책은 남성을 공격하거나 성별 갈등을 부추기지 않습니다. 저자는 이런 문제가 여성을 일부러 배제하려는 악의보다 오래된 무심함에서 생겼다고 봅니다. 중요한 결정을 내리는 자리에 주로 남성들이 있었고, 그간 여성의 필요를 충분히 헤아리지 못한 거예요. 그러나 의도가 없었다고 해서 결과까지 사라지는 것은 아닙니다.&lt;br&gt;&lt;br&gt;스웨덴 도시 칼스코가의 사례에 주목할 필요가 있습니다. 이곳에서 눈이 온 뒤 발생한 사고 데이터를 분석해보니 자동차 사고보다 보행자가 다치는 일이 더 많았고, 피해자 대부분은 여성이었습니다. 여성은 남성보다 자동차 대신 걸어서 이동하는 경우가 많았으며, 특히 아이 등하교나 장보기 등으로 동선이 복잡한 경우가 많았습니다. 그래서 도시는 자동차 도로보다 보행로와 자전거도로의 눈을 먼저 치우도록 순서를 바꿨습니다. 그 결과 사고가 줄었고 의료 비용도 덩달아 감소했습니다. 여성뿐 아니라 노인과 어린이, 휠체어 이용자에게도 더 안전한 길이 만들어졌고요. &lt;br&gt;&lt;br&gt;‘빠진 데이터’를 채우는 일은 모두에게 이로운 길이 될 수 있습니다. ‘보이지 않는 여자들’은 1300개가 넘는 자료와 연구를 통해 그동안 우리가 당연하게 여겨온 ‘평균’과 ‘표준’을 다시 보게 합니다. 여성에 관한 데이터를 채우는 일은 한쪽에 특혜를 주는 게 아니라, 불완전했던 기준을 더 정확하게 만드는 일입니다. ‘모두를 위한 세상’은 말로만 이루어지지 않습니다. 서로 다른 삶을 이해하고 사회를 바꿔 나갈 때 비로소 완성될 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 인원을 조정하다, 물갈이하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/06/18/KFAGVSD5ARFQ5D2IX2R2CL4IUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/06/18/KFAGVSD5ARFQ5D2IX2R2CL4IUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4PIG45VHFFYFMIWVGNFDTP25U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 복약(服藥)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/06/18/4TMHC2XGQ5D65JQ3XSOG3HPJYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/06/18/4TMHC2XGQ5D65JQ3XSOG3HPJYM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBSJTDVZ2FFLLJMROI5UXCYX54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 6월 18일</title>
