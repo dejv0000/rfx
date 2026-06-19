@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰에 맡긴 분실 지갑 속 42만원은 어디에… 경찰 내부 조사</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/06/19/NPCDZLYWF5FV5GHSQL2IFVZLKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/06/19/NPCDZLYWF5FV5GHSQL2IFVZLKA/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jun 2026 13:10:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEE2IWMANKL2XB64RK7QUVAH2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서에 분실물로 보관 중이던 지갑에서 42만원 상당의 금품이 사라져 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;19일 대전경찰청에 따르면, 지난 3월 27일 유성경찰서 어은치안센터에 ‘지갑을 주웠다’는 한 시민의 분실물 습득 신고가 접수됐다.&lt;br&gt;&lt;br&gt;당시 지갑에는 42만원 상당의 현금과 백화점 상품권이 들어 있는 상태였다. 어은치안센터 경찰관은 해당 금액을 확인한 후 분실물 접수와 함께 지갑 주인인 A(30대)씨에게 연락했다.&lt;br&gt;&lt;br&gt;A씨는 이후 경찰서를 찾아 지갑을 돌려받았는데, 지갑 속에 있는 현금과 상품권은 사라져 있었다고 한다. 당황한 A씨는 경찰에 금품의 행방을 물었지만 명확한 대답을 듣지 못하자, 결국 담당 경찰관 등을 절도 혐의로 고소했다.&lt;br&gt;&lt;br&gt;통상 지구대나 파출소, 치안센터에서 분실물을 접수하면 소속 직원들이 관할 경찰서 분실물 담당 부서로 직접 전달하고 경찰서 담당 직원은 주인이 와서 분실물을 가져갈 때까지 그대로 보관할 의무가 있다.&lt;br&gt;&lt;br&gt;이와 관련해 대전 중부경찰서는 횡령 혐의로 대전 유성경찰서 범죄예방질서계 등을 상대로 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 경찰이 보관하는 과정에서 금품이 사라져 내부자 소행일 가능성이 높은 것으로 보고 횡령 혐의를 적용한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유성경찰서 분실물 접수 단계부터 보관 담당자 등 관계자 모두 선상에 올려놓고 조사 중”이라며 “수사 결과에 따라 범행 사실이 인정되면 별도의 감찰 및 징계 절차도 진행할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘주가조작 패가망신 1호’ 증권사 3곳 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/19/6QOIVYBJGND3TE635UWHBRENVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/6QOIVYBJGND3TE635UWHBRENVQ/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jun 2026 13:13:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYTGZDDGZRTSZJQGY4GCNTFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재력가와 금융사 전·현직 임직원 등이 연루된 1000억원대 주가 조작 사건과 관련해 검찰이 강제 수사에 나섰다. 19일 ​법조계 등에 따르면, 서울남부지검 금융·증권범죄합동수사부(부장 신동환)는 이날 자본시장법 위반 등 혐의로 KB증권·NH투자증권·교보증권 등을 압수수색했다.&lt;br&gt;&lt;br&gt;이 사건은 금융위원회 증권선물위원회가 지난 3월 종합병원과 대형 학원 등을 운영하는 재력가들과 금융회사 직원, 소액주주 운동가 등 11명과 법인 4곳을 검찰에 고발하며 알려졌다.&lt;br&gt;&lt;br&gt;이들은 2024년 초부터 자신들이 운영하는 법인 자금, 금융회사 대출금 등을 동원해 1000억원 이상을 조달하며 총 400억원대에 달하는 부당이득을 본 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 앞서 지난달 28일 DI동일 임원과 NH투자증권 직원을 상대로 한 차례 압수수색을 벌였다. 검찰은 압수수색에서 해당 증권사 일부 임직원이 주가조작 일당에게 주가 관련 정보를 유출한 정황을 포착하고 수사 범위를 확대한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이 사건은 이재명 대통령이 불공정 거래 척결을 강조한 뒤 출범한 관계 기관 합동 대응단의 이른바 ‘주가조작 패가망신’ 1호 사건으로 불리고 있다. 이날 압수수색과 관련해 교보증권 관계자는 “금융 거래 내역 확인 절차가 있었다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이화영 “檢이 이재명 손보려... 절 칼로 찔러 비틀어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/19/LYLX5Q2AEVFENIES7LKEVOQWC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/19/LYLX5Q2AEVFENIES7LKEVOQWC4/</guid>
+      <dc:creator>수원=이민준 기자, 수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jun 2026 09:23:38 +0000</pubDate>
+      <content:encoded>이화영 전 경기도 평화부지사가 19일 ‘연어 술자리 위증’ 의혹 국민참여재판 최후 진술에서 “이 사건은 윤석열 정부가 들어선 뒤 라이벌이던 이재명 후보를 손보려 해 시작된 것”이라며 “검찰이 칼로 찔러 비튼 격”이라는 소회를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XQ5XUKK7VEQRLDFQ67E552FQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 부지사는 이날 수원지법 형사11부(재판장 송병훈)에서 열린 국회증언감정법 위반(위증) 등 혐의 결심 공판에서 검찰과 변호인의 최종 의견 진술이 끝나자 직접 최후 진술에 나섰다. 이 전 부지사는 “검찰이 공세우기에 앞장서다가 무리한 수사를 했다”며 “부인할 검사들은 없다고 생각한다”고 했다. 이어 이 전 부지사는 “조작기소 특검이 출범할지 알 수 없지만, 이런 부분(위증 혐의 등), 확정 판결받은 것 다 전부 재조사가 이뤄질 것”이라고 했다. 이 전 부지사는 ‘불법 대북 송금’ 사건으로 대법원에서 징역 7년 8개월이 확정된 바 있다.&lt;br&gt;&lt;br&gt;이 전 부지사는 “어떤 검찰 간부가 ‘칼로 찌르되 비틀지는 말라’고 했는데, 전 (검사들이) 칼로 찔러 비틀었다”며 “제 사례가 앞으로 사법 시스템의 개선점을 빠짐없이 드러내는 계기가 됐으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 배심원들을 향해 “박상용 검사가 이 자리에 와서 (제가) 대한민국에서 가장 부패한 정치인처럼 말하는 것에 대해 한 가지 소명하고 싶다”며 “저는 두 딸과 아들이 있다. 오늘은 큰딸이 낳은 첫 손자의 생일이고, 둘째 딸도 딸을 낳았다”며 “아이들을 보지 못해 마음이 아프다”고 했다. 이어 이 전 부지사는 “제 친구들은 65, 66세 늙은이”라며 “3년 9개월째 징역을 살면서 많이 반성했다”고도 했다. &lt;br&gt;&lt;br&gt;재판부는 오후 6시 3분 열흘에 걸친 변론을 종결했다. 배심원들은 저녁 식사를 한 뒤 유·무죄 판단과 양형을 논의하는 평의에 들어간다. 평결이 나오면 재판부는 이를 토대로 1심 판결을 선고할 방침이다. 선고 결과는 이르면 이날 늦은 밤, 혹은 내일 새벽에 나올 전망이다. 검찰은 이 전 부지사에게 징역 2년과 벌금 500만원을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 서산 해미천서 여중생 2명 물에 빠져…1명 사망 </title>
+      <link>https://www.chosun.com/national/regional/2026/06/19/T7755XSQPNGLNGOPNRXZWU5ACY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/19/T7755XSQPNGLNGOPNRXZWU5ACY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Jun 2026 10:01:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSGMMDBHAYTGMBWMQ2WKZJVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서산 해미천&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 충남 서산시 해미면 읍내리 해미천에서 여중생 2명이 물에 빠지는 사고가 나 1명이 사망했다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 이날 오후 5시 16분쯤 ‘조산교 밑에 중학생들이 빠졌다’는 한 시민의 신고가 접수됐다. 소방 당국은 심정지 상태인 A(13)양과 B(13)양을 구조했다. &lt;br&gt;&lt;br&gt;현장에서 심폐소생술(CPR)을 진행하며 두 사람을 인근 병원으로 옮겼으나, A양은 끝내 숨졌다. &lt;br&gt;&lt;br&gt;의식이 없었던 B양은 오후 6시 26분쯤 상태가 호전된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이들은 모두 인근 중학교 1학년에 재학 중인 친구 사이로 이날 함께 하교했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;구조 당시 조산교 인근 해미천의 수심은 1.5∼2m가량인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 목격자 등을 상대로 자세한 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSGGZRZHE4DEZBWHE3WCYJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘민간인 노상원에 군기누설’ 김용현, 1심 징역 3년</title>
       <link>https://www.chosun.com/national/court_law/2026/06/19/3MVZEKIWTFGH3PO3ZSL2GMVP7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/19/3MVZEKIWTFGH3PO3ZSL2GMVP7U/</guid>
@@ -814,18 +850,6 @@
       <content:encoded>6·3 지방선거 투표 용지 부족 사태를 수사하는 검경 합동수사본부가 당시 투표소 현장에서 근무한 공무원 9명을 18일 참고인으로 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXBJRLS4QZJALL4YXNRYF5WYNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표 용지 부족 사태를 수사하는 검경 합수본 관계자들이 지난 11일 경기도 과천 중앙선거관리위원회에서 압수수색을 마친 뒤 압수품을 들고 건물을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 송파구 등 투표 용지 부족 사태가 일어났던 서울 지역 투표소에서 투표 관리원을 맡아 용지 배부 등 업무를 담당했다. 합수본은 이들을 상대로 투표 당일 상황, 용지 부족 사태가 발생한 후 선관위의 대응 등을 조사할 것으로 전해졌다. 이들에 대한 조사가 마무리되면 선관위 직원들에 대한 소환 조사도 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;합수본은 앞서 선관위 압수수색을 통해 확보한 압수물도 분석하고 있다. 압수수색에선 투표지 인쇄 계획서와 투표 당일 투표지 매수 등을 적은 투표록 등이 확보된 것으로 전해졌다. 노태악 전 선관위원장, 허철훈 전 선관위 사무총장 등에 대한 출국금지 조치도 이뤄진 상태다.&lt;br&gt;&lt;br&gt;한편 국민의힘은 17일 중앙선관위 관계자들의 외유성 출장 의혹을 제기하고, 이들을 업무상 횡령 혐의로 고발했다. 선관위 관계자들이 몰디브 대통령 선거 참관 목적으로 1470만원을 지출한 것을 포함, 총 8680만원의 예산이 방콕, 코타키나발루, 피렌체·베네치아 등 해외 출장에 쓰였다는 것이다. 합수본은 이 역시 접수해 검토 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>불면증에 병원 갔더니… 약 대신 ‘스마트폰 앱’ 처방</title>
-      <link>https://www.chosun.com/medical/2026/06/18/7SQIBKJIVFCMNCWWV6E2C5IGIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/06/18/7SQIBKJIVFCMNCWWV6E2C5IGIU/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Jun 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMUWLICTXZDPXOTGQYUABAMAEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 50대 직장인은 3년째 불면증에 시달렸다. 밤 12시에 침대에 누워도 새벽 2시가 넘어야 겨우 잠이 들었다. 수면제를 먹어도 그때뿐이었다. 그러던 중 의사는 특이한 처방을 내렸다. 약이 아니라 스마트폰 앱(App)이었다.&lt;br&gt;&lt;br&gt;앱은 매일 수면 시간을 기록하고, 기상 시간을 지정해주고, 밤늦게 스마트폰을 사용하면 경고 메시지를 보냈다. 처음에는 의아했지만 두 달이 지나자 잠드는 시간이 빨라졌고 수면의 질도 개선됐다. 스마트폰 속 소프트웨어가 치료자인 셈이다.&lt;br&gt;&lt;br&gt;환자의 행동과 생활습관을 바꾸어 질병을 개선하는 ‘디지털 치료제(Digital Therapeutics)’가 뜨고 있다. 이제는 앱이 약이다. 디지털 치료제는 질병을 예방·관리·치료하기 위해 근거 기반의 치료적 개입을 제공하는 소프트웨어 의료기기다. 일반 건강관리 앱과 달리 임상시험을 통해 치료 효과를 입증하고, 식품의약품안전처 승인을 받아야 한다. 의약품처럼 치료 효과가 검증된 ‘앱 형태의 치료제’이다. 현재 국내에서 식약처 허가를 받은 디지털 치료제는 15개에 이른다&amp;lt;그래픽 참조&amp;gt;. 분야도 불면증, 경도인지장애, 우울증, 불안증, 주의력결핍 과잉행동증후군(ADHD), 폭식증 등 다양하다.&lt;br&gt;&lt;br&gt;김수민 고려대병원 정신건강의학과 교수는 “디지털 치료제의 핵심 기능은 환자의 생각과 행동을 바꾸어 증상을 개선시키는 인지행동치료”라며 “치료 효과는 우울증, 불안장애, 불면증, 중독질환 등에서 약물치료와 동등한 것으로 알려져 있다”고 말했다. &lt;br&gt;&lt;br&gt;누군가 옆에서 웃는 상황이 생겼을 때, 우울한 사람은 “나를 비웃는구나”라고 해석한다. 반면 건강한 사람은 “그냥 자기들끼리 웃는 거겠지”라고 생각한다. 인지행동치료는 이러한 왜곡된 사고를 발견하고 교정하는 과정이다. 근거 중심으로 구조화돼 있어 앱으로 구현하기 쉽다. 디지털 치료제가 정신건강 분야에서 먼저 꽃을 피운 이유다.&lt;br&gt;&lt;br&gt;국내 최초 디지털 치료제인 ‘솜즈’와 ‘슬립큐’는 불면증을 대상으로 한다. 치료 원리는 수면 인지행동치료다. 불면증 환자는 잠을 못 자면서도 침대에 오래 누워 있는 경향이 있다. 이는 오히려 수면 효율을 떨어뜨린다. 디지털 치료제는 사용자의 수면 패턴을 분석한 뒤 기상 시간을 고정하고, 침대 사용 시간을 조절하며, 수면 위생 교육을 제공한다. 매일 밤 행동을 점검한다. 말 그대로 ‘디지털 잔소리꾼’이다.&lt;br&gt;&lt;br&gt; ADHD 치료제 ‘스타러커스’는 게임 형태다. 아이들은 게임을 한다고 생각하지만 실제로는 주의력과 작업 기억력을 훈련한다. 경도인지장애는 정상 노화와 치매의 중간 단계다. 이 시기에 개입하면 치매 발생과 진행을 늦출 가능성이 있다. 디지털 치료제 ‘수퍼브레인 DEX’와 ‘코그테라’는 기억력, 집중력, 문제 해결 능력을 반복적으로 훈련해 인지기능을 높인다.&lt;br&gt;&lt;br&gt;우울증과 불안장애도 스마트폰으로 개선한다. ‘블루케어’는 가상 강아지와 교감하며 마음챙김 훈련을 제공한다. ‘치유포레스트’는 가상현실(VR)을 이용해 정서 안정과 자기 이해를 돕는다. ‘클라리스’는 턱관절장애 환자의 자가 재활과 이완요법을 지원한다. &lt;br&gt;&lt;br&gt;김수민 교수는 “디지털 치료제는 치료 공간을 병원에서 일상생활로 확장하는 것”이라며 “치료제와 AI(인공지능)가 만나면 개인 맞춤형 행동 개입을 제공하는 방향으로 발전하게 된다”고 말했다.&lt;br&gt;&lt;br&gt;현재 대부분의 디지털 치료제는 의사 처방으로 진행되고 있다. 아직 건강보험이 적용되지 않는 비급여 치료다. 환자가 수만~수십만 원의 비용을 부담해야 한다. 건강보험 적용이 확대돼야 디지털 치료제가 본격적으로 활성화될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HMUWLICTXZDPXOTGQYUABAMAEU.png?auth=187bbfb60cb714ab7c170dddc4aa98fcacc1098ef3a85a1ffb4fb1582d28169c&amp;smart=true&amp;width=2000&amp;height=1230" type="image/png" height="1230" width="2000">
-        <media:description type="plain">그래픽=김현국</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>주식 광풍… 영유아 계좌까지 3배로 늘어</title>
       <link>https://www.chosun.com/national/national_general/2026/06/18/C4ZQB6OK3NAEFEEOY3QWFOWDJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/18/C4ZQB6OK3NAEFEEOY3QWFOWDJM/</guid>
@@ -854,33 +878,6 @@
       <description/>
       <pubDate>Wed, 17 Jun 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSDUH5UMKBCOXNXPFATW23VDP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제31회 LG배 조선일보 기왕전 우승자 왕싱하오(왼쪽)와 준우승자 신민준이 17일 열린 시상식에서 기념 촬영을 하고 있다. /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제31회 LG배 조선일보 기왕전 시상식이 17일 서울 광화문 조선일보 사옥에서 열렸다. 생애 첫 LG배 우승으로 상금 3억원을 받은 중국의 왕싱하오(22) 9단은 “이번 우승이 선수 생활에서 큰 자신감을 얻는 계기가 됐다”고 기뻐했다.&lt;br&gt;&lt;br&gt;중국 바둑계를 이끌 차세대 주자로 꼽히는 왕싱하오는 4강에서 세계 1위 신진서 9단을 물리쳤고, 결승에선 ‘디펜딩 챔피언’ 신민준 9단에게 1국을 내주고도 역전 우승을 일궈냈다. 왕싱하오는 “결승 2국이 가장 어려웠다”며 “중후반 들어 형세가 좁혀지면서 반집 승부가 됐는데 마지막까지 집중력을 잃지 않으려고 노력했다”고 돌아봤다. 그는 “바둑 팬들이 꾸준히 관심과 응원을 보내준 덕분에 좋은 결과를 얻을 수 있었다”며 “더 좋은 바둑을 보여드릴 수 있게 부단히 노력하겠다”고 말했다. 왕싱하오의 우승으로 중국은 LG배 통산 우승 횟수를 13회로 늘렸다. 한국은 15회, 일본은 2회, 대만은 1회를 기록하고 있다.&lt;br&gt;&lt;br&gt;사상 첫 2연속 우승 도전에 아쉽게 실패한 신민준은 “2년 연속 LG배 결승까지 올라 기뻤다”며 “2연패 기록을 달성하기엔 실력이 부족했던 것 같다”고 말했다. 그는 “이번 결승전을 통해 많이 배웠고, 다시 우승에 도전하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이상 기후로 인한 곰팡이의 공습… 진균성 축농증 10년 새 2배 늘어</title>
-      <link>https://www.chosun.com/medical/2026/06/18/QSYPLDRM65GDTCCBLNIERSULZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/06/18/QSYPLDRM65GDTCCBLNIERSULZY/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Jun 2026 15:42:00 +0000</pubDate>
-      <content:encoded> 최근 축농증(부비동염)으로 수술을 받은 35세 남성 A씨. 수술 자리에서 나온 염증 조직을 갖고 원인균을 찾는 검사를 해보니, 과거에 매우 드물게 나왔던 곰팡이가 원인인 것으로 드러났다. A씨의 진단명은 ‘진균성(곰팡이) 부비동염’이다.&lt;br&gt;&lt;br&gt;이비인후과전문병원 하나이비인후과병원이 2025년 한 해 동안 축농증 수술을 받은 환자 944명을 분석한 결과, 13%인 122명이 이 같은 진균성 부비동염으로 확인됐다. 수술 환자 8명 중 1명꼴이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZQOWV3QUNCD3NQRBAIFX43IFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;사진=게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상덕 원장은 “진균성 부비동염은 코 안과 부비동에 곰팡이가 자리 잡아 생기는 질환으로, 한쪽 코막힘과 누렇거나 검은 콧물, 악취, 압박감 등을 동반한다”며 “대한비과학회에 보고된 연구에 따르면, 진균성 부비동염은 최근 10년 새 2배 이상 증가했다”고 말했다.&lt;br&gt;&lt;br&gt;최근 이상 기후 현상으로 곰팡이 감염증이 공중보건 위협으로 떠오르고 있다. 폭염, 고온다습, 집중호우, 홍수, 가뭄, 산불 등이 반복되면서 곰팡이 서식지가 넓어지고, 곰팡이가 생활 공간으로 파고들고 있는 것이다. 본래 곰팡이는 섭씨 20~30도, 습한 환경에서 자라고, 사람 평균 체온 36.5~37도에서는 생존이 힘들었다. 하지만 최근 수십 년간 폭염이 증가하고, 토양 온도가 상승하고, 도시 열섬 현상이 생기면서 34~35도에서도 살아남는 곰팡이가 나오고, 사람 감염증을 늘리고 있다.&lt;br&gt;&lt;br&gt;곰팡이 아스페르길루스를 흡입하여 발생하는 호흡기질환 폐 아스페르길루스증 환자는 국내서 2010년 1773명이었으나, 2025년에는 3444명으로, 두 배가량 늘었다. 면역저하자나 만성폐쇄성폐질환 등 기존 폐 질환자는 이 곰팡이 감염으로 심각한 후유증을 겪을 수 있다. 이 밖에도 곰팡이 칸디다 혈류 감염, 칸디다 아우리스 병원 감염, 홍수 후 실내 곰팡이 노출에 따른 과민성 폐렴에 대한 우려가 높아지고 있다. 특히 여름철 고온다습 환경이 심해지면서 무좀, 완선, 칸디다 피부염 같은 표재성 진균증 환자도 증가하는 경향이 있다. 장마와 집중호우 후에는 실내 곰팡이 노출 위험이 커진다. 무분별한 항생제 사용으로 세균이 줄어든 자리에 곰팡이가 증식하기 쉬운 환경이 조성되기도 한다.&lt;br&gt;&lt;br&gt;이상덕 원장은 “진균성 부비동염은 항생제 치료에 잘 반응하지 않고 한쪽 코에만 증상이 오래 지속되는 것이 특징”이라며 “단순 축농증으로 오인해 방치하면 부비동 안에 곰팡이 덩어리(균구)가 점점 커지면서 주변으로 염증이 번질 수 있으니 곰팡이 질환에 대한 경각심을 가져야 한다”고 말했다. 특히 고령자, 당뇨병 환자, 항암 치료 등으로 면역력이 떨어진 사람은 곰팡이 감염에 취약할 수 있다. 곰팡이 질환과 감염을 예방하려면, 거주지와 생활 공간을 곰팡이가 서식하지 못 하는 환경으로 만들어야 한다&amp;lt;그래픽 참조&amp;gt;.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>두피 차갑게 만들어 항암 부작용 ‘탈모’ 막아</title>
-      <link>https://www.chosun.com/medical/2026/06/18/GJH5SJN4MJFLHPRI2T4QYS64D4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/06/18/GJH5SJN4MJFLHPRI2T4QYS64D4/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Jun 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOQFD4G7XVEAJAFYJGEXOW73JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 유방암 환자의 생존율은 최근 90~95%까지 올라 세계 최고 수준을 기록하고 있다. 이에 단순히 오래 사는 것을 넘어 ‘삶의 질’까지 챙기는 방향으로 치료 흐름이 바뀌고 있다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 가톨릭대 성빈센트병원 전예원 유방외과 교수, 박형순 종양내과 교수와 함께 유방암 치료의 최신 트렌드를 짚어봤다.&lt;br&gt;&lt;br&gt;전예원 교수는 유방 치료 순서에 변화가 생겼다고 했다. 과거에는 수술로 먼저 종양을 떼어낸 뒤 항암 치료를 했지만, 최근에는 먼저 전신 항암 치료로 종양을 줄인 다음 국소 치료(수술)로 마무리하는 방식이 늘고 있다는 것이다.&lt;br&gt;&lt;br&gt;유방암은 ‘맞춤 치료’가 가장 일찍 자리 잡은 암 중 하나다. 박형순 교수는 “호르몬 양성, HER2 양성, 삼중 음성 등 크게 세 유형으로 나눠 각 기전에 맞는 맞춤 치료를 한다”며 “최근에는 ‘항체 약물 접합체(ADC)를 이용해 항체에 항암제를 탑재하여 암세포 표면의 표적에 달라붙은 뒤 항암제를 암세포에 직접 전달하는 방식으로 암을 사멸시킨다”고 말했다. &lt;br&gt;&lt;br&gt;암치료 과정에서 환자들이 가장 힘들어하는 게 탈모다. 탈모를 예방하기 위해 최근 도입되고 있는 것이 ‘두피 냉각 치료’다. 박 교수는 “머리에 약 4도의 냉각수가 순환하는 쿨링 캡을 씌워 두피 온도를 20도 안팎으로 낮추는 방식”이라며 “온도가 낮아지면 두피로 들어가는 항암제 양이 줄고 세포 분열과 신진대사가 감소해 모낭 손상이 줄어드는 원리”라고 설명했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면 ‘유방암 치료 최신 트렌드’ 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSGCXG3VSBHILDVT2XYGLAJNWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr. 이은봉의 의학 연구 다이제스트] 근육 운동, 주당 90~120분 할 때 사망률 최저</title>
-      <link>https://www.chosun.com/medical/2026/06/18/VKDVSUVAENB67B2OQDDA4XSDOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/06/18/VKDVSUVAENB67B2OQDDA4XSDOY/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Jun 2026 15:42:00 +0000</pubDate>
-      <content:encoded>운동은 크게 두 가지로 나뉜다. 달리기, 자전거 타기처럼 산소를 지속적으로 사용하면서 심폐기능을 향상시키는 유산소 운동과 웨이트 트레이닝과 같이 근육의 수축과 이완을 통해 근력을 강화시키는 저항성 운동으로 나눌 수 있다. 유산소 운동은 중등도 이상 강도로 주당 150~300분을 할 때 생존율 및 심혈관질환 예방에 가장 효과적인 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;근육강화 운동의 경우는 구체적으로 어느 정도의 시간이 최적인지는 잘 알려져 있지 않다. 최근 미국 하버드대 연구팀은 근육강화 운동을 어느 정도 할 때 사망률이 낮은지를 조사해서 영국 스포츠의학회지에 발표했다.&lt;br&gt;&lt;br&gt;연구는 의료계에 종사하는 건강한 미국인 14만7374명을 대상으로 했다. 이들이 매주 하는 근육강화 운동과 유산소 운동 시간을 2년마다 조사하고, 평균 30년을 추적 관찰했다. 이 기간 총 3만5789명이 사망했다. &lt;br&gt;&lt;br&gt;분석 결과, 근육강화 운동을 주당 90~120분 하는 사람은 운동을 하지 않은 사람보다 사망률이 13%, 심혈관질환에 의한 사망률은 19%, 신경질환에 의한 사망률은 27% 낮았다. 하지만 주당 120분 이상 근육강화 운동을 해도 추가적으로 이로운 효과는 없었다. &lt;br&gt;&lt;br&gt;근육강화 운동으로 근육을 키우면 인슐린 감수성을 증가시켜서 당 및 지방대사를 개선시키고, 복부지방을 줄여준다. 혈압 조절에도 긍정적 역할을 하기 때문에 심혈관질환 사망률을 낮출 수 있다. 논문에 따르면, 근육강화 운동과 유산소 운동을 병행할 때 사망률이 가장 낮았다. 근육강화 운동은 아주 많이 한다고 해서 마냥 좋은 것은 아니고, 일주일에 3~4회, 한 번에 30분 정도가 최적의 운동 시간이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [한입 테크 사전] 챗GPT가 토막토막 말하는 이유는 무엇일까요?</title>
