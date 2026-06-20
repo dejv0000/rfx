@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>명문대 마약 동아리 회장, 징역 1년 6개월 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/20/AVAS4J2FRNGA5OCNSM4URUC2P4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/20/AVAS4J2FRNGA5OCNSM4URUC2P4/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jun 2026 08:11:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYWIMLBGYYTIM3CHA2GMZBTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대·연세대·고려대 등 수도권 13개 대학 학생 수백 명이 가입한 전국 2위 규모 연합 동아리에서 회장을 맡았던 30대 남성이 마약 유통 및 투약 등 혐의로 징역 1년 6개월이 확정됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 지난 5일 마약류관리법 위반 등 혐의로 기소된 염모씨에게 징역 1년 6개월을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;염씨는 지난 2021년 이른바 ‘인싸(잘나가는 대학생)’들의 친목 동아리인 ‘깐부’를 만들었다. 동아리 회원들은 이듬해 12월부터 액상대마, 케타민 등 마약에 손을 대기 시작했으며, 이후에는 사일로사이빈(환각 버섯)·필로폰 등 점차 강도를 높여 나갔다. 염씨는 마약을 투약하고 유통한 혐의(마약류관리법 위반)를 비롯해 동아리에서 만난 여자친구가 다른 남성 회원과 어울렸다는 이유로 여러 차례 폭행(특수상해)하고, 성관계 영상을 불법 촬영하고 유포하겠다며 협박한 혐의(성폭력처벌법상 촬영물 등 협박)로 기소됐다.&lt;br&gt;&lt;br&gt;1심은 염씨에게 징역 3년을 선고하고 1342만원 추징을 명령했다. 재판부는 세 가지 혐의를 모두 인정했다.&lt;br&gt;&lt;br&gt;반면 2심은 1심보다 낮은 징역 1년 6개월을 선고했다. 앞서 염씨 측은 검사가 수사를 개시할 수 없는 부분까지 기소했다며 공소를 기각해야 한다고 주장했다. 염씨와 공범의 마약 투약 사건 재판을 담당하던 공판 검사가 재판을 준비하던 중 수상한 계좌거래 내역을 직접 수사해 폭행과 협박 혐의를 밝혀냈기에 따로 수사를 개시한 건 위법하다는 취지다.&lt;br&gt;&lt;br&gt;2심 재판부는 염씨 측의 이 같은 주장을 일부 받아들였다. 재판부는 “수사 검사가 선행 사건의 공판 검사로서 기록을 검토하거나 선행 사건의 증거를 추가로 수집하는 과정에서 인지한 것으로 보이지 않는다”며 “염씨와 함께 마약류 범죄를 저지른 다른 회원에게 전화해 진술을 청취하고 관련 사진 등을 제출받는 등 과정을 거쳐 인지한 것으로 보인다”고 했다. 그러면서 “설령 참고인 진술 등을 통해 혐의를 포착했다고 하더라도, 검찰청법 개정 취지에 비춰보면 수사 검사가 경찰의 1차적 수사권을 배제하고 예외적으로 수사 개시하지 않으면 안 될 특별한 사정 있었다고 보기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;검사와 염씨는 판결에 불복해 상고했다. 하지만 대법원은 원심의 판단에 잘못이 없다고 보고 상고를 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 21일 일요일 (음력 5월 7일 丙寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/20/BZUANGEWPRALFPAA443AXWAWIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/20/BZUANGEWPRALFPAA443AXWAWIQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>이화영 “대검 거짓말 탐지기 결과 ‘진실’” 강조했지만...법원 “진술 오락가락, 신빙성 없어”</title>
       <link>https://www.chosun.com/national/court_law/2026/06/20/WE4LOXRI3ZDVDDAVJHLT5OD73Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/20/WE4LOXRI3ZDVDDAVJHLT5OD73Q/</guid>
@@ -773,15 +794,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DSNDDG4YDSNZRG5SWGMRZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./서울중앙지방법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김건희 여사의 ‘디올백 수수 의혹’과 관련해 윤석열 전 대통령에게 청탁금지법 위반 혐의를 적용해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경찰청 3대 특검 인계 사건 특별수사본부는 지난 9일 윤 전 대통령을 청탁금지법 위반 혐의로 서울중앙지검에 불구속 송치했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 김 여사가 2022년 6월 최재영 목사로부터 받은 540만원 상당의 디올 가방이 당시 대통령이던 윤 전 대통령의 직무와 관련성이 있다고 판단한 것으로 전해졌다. 윤 전 대통령이 해당 금품 수수 사실을 알고도 감사원 등에 신고하지 않았다는 점도 청탁금지법 위반에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;다만 경찰은 윤 전 대통령에게 뇌물수수 혐의는 적용하지 않았다. 윤 전 대통령 부부가 금품 수수를 사전에 공모했다고 볼 만한 증거는 충분하지 않다고 판단한 것이다.&lt;br&gt;&lt;br&gt;김 여사는 디올백과 반클리프 아펠 목걸이, 금거북이 등을 받고 인사·이권 청탁에 관여한 혐의로 현재 1심 재판을 받고 있다. 앞서 민중기 특검은 김 여사에게 징역 7년 6개월을 구형했다. 선고는 다음 달 26일 오후 2시로 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 우정 노조, 한노총 위원장 선거 때 조합비로 후보 돈 대줬다</title>
-      <link>https://www.chosun.com/national/labor/2026/06/19/ISERDD67OJHKFGXZG3BECT23FE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/19/ISERDD67OJHKFGXZG3BECT23FE/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 20:00:00 +0000</pubDate>
-      <content:encoded>현직 우정(郵政) 노조위원장이 업무상 횡령, 청탁금지법 위반 등 혐의를 받아 소관 부처인 과학기술정보통신부로부터 해임 조치된 것으로 확인됐다. 집배원, 우체국 직원 등 우정직 공무원으로 구성된 우정 노조는 2만7000명이 소속된 산별(産別) 노조다. 거대 규모의 현직 노조위원장이 해임된 것은 매우 이례적인 일이다. &lt;br&gt;&lt;br&gt;18일 본지 취재를 종합하면, 우정사업본부를 담당하는 과기정통부는 범죄 혐의 등을 고려해 지난달 이재규 우정 노조위원장에게 해임 징계를 내렸다. 현재 이 위원장은 기소돼 재판을 받고 있는 것으로 확인됐고, 최근 검찰로부터 벌금 1000만원 구형도 받은 상태다. 이 사건을 놓고 노동계에선 “개인적 일탈이라기보다 노동조합 선거의 어두운 관행이 그대로 드러난 것”이란 말이 나온다. 조합원들이 낸 노동조합 조합비를 노조 집행부가 ‘쌈짓돈’처럼 사용하는 행태가 수사로 적발됐기 때문이다. 우정직 공무원은 기본급의 1.1%, 시간제는 근무 시간에 따라 6000~1만4000원가량을 급여에서 조합비로 매월 원천징수하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI2XJENTGZAQHC7KOKT66WOW7Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건의 발단은 이재규 위원장의 전임자인 이동호 전 우정노조위원장이 2022년 11월 상급 단체인 한국노총 위원장 직에 도전하면서다. 검찰 등에 따르면, 당시 경북지방본부 노조위원장이던 이재규 위원장을 비롯한 8개 지방본부 위원장이 후원금 명목으로 1000만원씩 8000만원을 걷은 뒤, 여기에 지방본부 조합비 등을 더해 총 1억1000만원을 이동호 전 위원장에게 건넸다. &lt;br&gt;&lt;br&gt;이는 자발적인 후원금과는 거리가 멀었다. 검찰은 이를 이동호 전 위원장과 지방 본부 위원장들의 공모로 판단했다. 이번 사건으로 조사받았던 한 인사는 “중앙 본부에서 결정하면 지방 본부들은 관행적으로 따를 수밖에 없다”며 “한국노총 위원장 같은 선거를 치르려면 수억 원이 들기 때문에 중앙에서 돈을 모아주자고 주장해 결정된 것”이라고 했다. 이 중 4000만원가량을 해외여행, 골프 등에 이들이 함께 사용한 정황도 드러났다. &lt;br&gt;&lt;br&gt;검찰은 이 돈에 대가성이 있다고 판단했다. 이 전 위원장이 자신이 한국노총 위원장에 출마하는 대신 특정 인사에게 우정노조 위원장 등으로 밀어주겠다고 말하는 등 선거 후 논공행상 성격의 챙겨주기 약속이 있었다는 것이다.&lt;br&gt;&lt;br&gt;하지만 이들의 기대와 달리 이동호 전 위원장은 한국노총 위원장 선거에서 낙선했는데, 이 과정에서 또 위법을 저질렀다. 2023년 5월 이동호 전 위원장은 상납된 돈을 되갚는다는 취지로 8000만원을 지방 본부에 보전해줬는데, 개인 돈이 아닌 우정 본부 노조 조합비를 빼내 멋대로 사용했다.&lt;br&gt;&lt;br&gt;이는 업무상 횡령에 해당한다. 더욱이 이들은 모두 공무원 신분이기 때문에 청탁금지법 위반, 주고 받은 돈의 대가성이 인정돼 뇌물죄도 적용됐다. 검찰은 이동호 전 위원장에게 징역 3년을 구형했다.&lt;br&gt;&lt;br&gt;수사 과정에선 말을 맞추다가 적발되기도 했다. “이동호 전 위원장이 돈을 요구한 적이 없고, 자발적으로 걷어서 사용했다”는 취지로 사전에 진술을 맞추려 한 것이다. 그러나 이 같은 사전 공모는 경찰의 포렌식 등을 통해 거짓으로 드러났다. 이재규 위원장은 본지에 “애초 나는 이동호 전 위원장에 돈을 주는 걸 반대했다. 하지만 상사 격인 이 전 위원장 등의 말을 거스를 수 없었다”며 “조합비 횡령 등 금액은 모두 개인 돈으로 보전했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내년도 최저임금, 업종 구분 없이 똑같이 적용된다</title>
       <link>https://www.chosun.com/national/labor/2026/06/18/KPR6CXTFLRFILJUIMEBASYBTHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/18/KPR6CXTFLRFILJUIMEBASYBTHE/</guid>
@@ -789,15 +801,6 @@
       <description/>
       <pubDate>Thu, 18 Jun 2026 12:46:41 +0000</pubDate>
       <content:encoded>최저임금위원회는 18일 정부세종청사에서 회의를 열고 내년부터 적용되는 최저임금의 ‘업종별 구분 적용 여부’를 표결에 부쳤지만 부결됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UY6MUXHEFFPTXLDNKEAZQEK5IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 정부세종청사 최저임금위원회에서 열린 제7차 전원회의에서 사용자 위원들이 최저임금의 업종별 구분적용을 요구하는 피켓을 들고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 최저임금위는 “2027년 적용 최저임금은 모든 업종에 대해 동일한 금액을 적용하기로 의결했다”고 밝혔다. 반대 14표, 찬성 11표, 무효 1표로 출석위원 과반에 미치지 못했다.&lt;br&gt;&lt;br&gt;이날 노사는 업종별 구분 적용 여부를 두고 평행선을 달렸다. 경영계는 숙박·음식업종에는 다른 업종보다 낮은 최저임금을 적용해야 한다고 주장했지만, 노동계는 특정 업종에 더 낮은 최저임금을 적용하는 것은 “노동자 차별을 제도화하는 것”이라고 반대했다. 노동계는 업종별로 최저임금을 달리 적용하는 것이 여성·청년 노동자에 대한 차별을 고착화할 수 있고, 임금을 낮춘다고 해서 일자리가 늘어나는 것은 아니라고 주장했다.&lt;br&gt;&lt;br&gt;최저임금을 업종별로 구분해 적용해야 한다는 것은 매해 노사가 첨예하게 맞서는 쟁점이다. 현행 최저임금법에 따르면 업종별 구분 적용은 가능하도록 되어 있다. 실제로 차등 적용은 제도 시행 첫해인 1988년 한 차례 적용된 바 있다. 그러나 노동계 반발 등으로 1989년부터는 단일 최저임금 체제가 유지되고 있다.&lt;br&gt;&lt;br&gt;이번 표결로 업종별 구분 적용 논의는 다시 내년 최저임금위로 넘어가게 됐다.&lt;br&gt;&lt;br&gt;이날 업종별 최저임금 차등 적용 여부에 대한 논의가 마무리되면서, 최저임금위는 다음 주부터 내년도 최저임금 수준 논의를 시작할 전망이다. 노동계는 올해 최저임금보다 16.3% 오른 시급 1만2000원을 제시했다. 경영계는 아직 요구안을 내놓지 않았지만, 소상공인과 영세 사업자가 어려움을 겪고 있다는 이유로 동결 또는 낮은 수준의 인상률을 제시할 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대가 던진 난제… AI도 기억을 잃을까?</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/19/HBJY5KNALVCQFAWIPRWXCEHWGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/HBJY5KNALVCQFAWIPRWXCEHWGY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNPJKR4ADVC2RN6LOJQ3GIAFTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“인공지능(AI)도 인간처럼 망각할 수 있는가?” “생명의 시계를 제어할 수 있을까?”&lt;br&gt;&lt;br&gt;서울대가 18일 서울 관악캠퍼스에서 ‘그랜드 퀘스트(SNU Grand Quest)’ 포럼을 열고 학교 연구 역량을 투입해 규명에 나서겠다며 6가지 과제를 선정해 발표했다. SNU 그랜드 퀘스트는 실패할 가능성이 있어도 인류와 사회가 직면한 근본적인 질문을 탐구하겠다며 서울대가 추진 중인 사업이다. 연구 과제는 김빛내리 생명과학부 석좌교수 등 서울대 석학 18명이 합숙 토론을 거쳐 선정했다. 서울대는 연구팀에 연간 5억씩 최대 5년간 지원하기로 했다. &lt;br&gt;&lt;br&gt;서울대가 이날 공개한 연구 도전 과제는 인공지능(AI)·생명·지속가능 분야에 걸쳐 있다. AI는 인간처럼 망각할 수 있는가, AI는 손상을 스스로 회복할 수 있는가, 생명의 시계를 제어할 수 있는가, 삶의 의지를 분자 수준에서 설명할 수 있는가, 에너지 시스템은 자율적으로 균형을 찾을 수 있는가, AI 시대에 민주주의와 자본주의는 지속 가능한가 등이다. 한 분야 지식만으론 규명하기 어려워 여러 분야 연구자들이 힘을 합쳐 연구해야 할 난제(難題)들이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6KVEVQ4RRHPDIVO3LN6RNNXEI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘AI는 인간처럼 망각할 수 있는가’라는 질문은 인공지능과 구별되는 인간의 정체성이 무엇인가에 대한 질문에서 시작됐다. 질문 개발에 참여한 이석재 철학과 교수는 “인간에게 망각은 맥락에 따라 불필요한 데이터를 걸러내는 진화의 결과”라며 “AI가 인간처럼 스스로 맥락을 파악하고 무엇을 잊고 기억할지를 가려낼 수 있는 것인가 답을 찾아야 한다”고 했다. 이 교수는 “이 난제 해결을 위해선 컴퓨터공학뿐만 아니라 뇌과학, 철학, 심리학 등 다양한 학문의 융합이 필수적”이라고 했다.&lt;br&gt;&lt;br&gt;‘삶의 의지를 분자 수준에서 설명할 수 있는가’라는 질문을 두고는 교수들 간에 치열한 논쟁이 벌어졌다고 한다. 우울증과 자살 문제를 논의하는 과정에서 ‘무엇이 인간을 좌절하게 만드는가’가 아니라 ‘무엇이 인간을 다시 일어서게 만드는가’라는 질문이 연구 과제로 선정됐다는 것이다. 이정동(공학전문대학원 교수) 그랜드퀘스트 이니셔티브 연구단장은 “정신적인 영역인 ‘삶의 의지’와 물리적 영역인 ‘분자 수준’을 어떻게 연결할 수 있을지 교수 간에 논쟁이 치열했다”며 “그러다 인간을 다시 살아가게 만드는 정신을 과학적으로 규명하자는 데 뜻이 모였다”고 했다.&lt;br&gt;&lt;br&gt;‘AI 시대, 민주주의와 자본주의는 지속 가능한가’라는 질문은 공학·사회과학·법학·철학·교육학을 아우르는 과제다. 서울대 교수들은 AI가 인간의 경제 활동과 의사 결정까지 대신하는 시대를 대비해 질문을 만들었다고 했다. AI가 시장을 완벽히 통제하면 자본주의가 흔들리고, 사람들이 판단을 기계에 맡기면 민주주의가 사라질 수 있다는 전망을 규명해보자는 것이다. 서울대 관계자는 “AI 시대에 한국 사회를 지탱하는 두 기둥(민주주의·자본주의)이 통째로 무너질 수 있다는 우려를 담은 과제”라고 했다.&lt;br&gt;&lt;br&gt;서울대는 지난 5월 부산 기장의 한 호텔에서 김빛내리 석좌교수 등 교수 18명이 참여하는 2박 3일간의 합숙 토론을 거쳐 그랜드 퀘스트 과제를 선정했다. 토론에는 인문·사회 계열 교수도 참여했다. 토론 과정에서 ‘해답의 실현 가능성’은 배제했다고 한다. 현택환 화학생물공학부 석좌교수는 “처음부터 실현 가능성을 따지면 획기적인 성과를 낼 수 없다”며 “실패를 두려워하지 않고 대담하게 저질러 볼 수 있는 난제를 만드는 데 집중했다”고 했다.&lt;br&gt;&lt;br&gt;서울대는 오는 9월부터 6가지 과제의 가설 검증을 맡을 ‘탐색 연구팀’(과제당 5팀씩 총 30팀)을 선발할 계획이다. 탐색 연구팀에는 6개월간 5000만원씩 지원한다. 이어 내년 4월에는 본격적인 해결책 도출에 나설 ‘도전 연구팀’(과제당 2팀씩 총 12팀)을 선정해 팀당 매년 최대 5억원씩 최대 5년간 지원한다. 서울대는 이 사업에 총 1000억원을 투입할 것으로 알려졌다. 이정동 단장은 “예측 가능한 방식으로 문제를 풀겠다는 연구팀은 뽑지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울대는 그랜드 퀘스트 사업에 참여한 연구팀에 결과물 제출을 요구하지 않기로 했다. 연구에 실패하더라도 책임을 묻지 않겠다는 것이다. 서울대 관계자는 “연구팀이 연구 과정에서 얻은 경험과 데이터는 학계와 공유하게 할 것”이라고 했다. 유홍림 서울대 총장은 “서울대는 주어진 문제를 잘 푸는 모범생을 넘어 세상에 없는 질문을 던지는 개척자가 돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>패를 낼까 말까… 고스톱 대신 보드게임 한판</title>
