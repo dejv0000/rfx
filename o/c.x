@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[신문은 선생님] [산 이야기] “산 전체를 비단으로 감싸겠다”… 약속 지키려 이름에 ‘비단 금’ 넣었대요</title>
+      <link>https://www.chosun.com/national/nie/2026/06/22/GHDHTOJU55BXNK6N5RNG2ADWNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/22/GHDHTOJU55BXNK6N5RNG2ADWNA/</guid>
+      <dc:creator>신준범 월간 산 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:40:00 +0000</pubDate>
+      <content:encoded>경남 남해군의 금산은 푸른 파도 위에 신비로운 바위 성을 지어놓은 것 같은 모습으로 유명합니다. 원래는 보광산이라 불렸죠. 이 산이 지금의 이름을 갖게 된 건 조선을 세운 태조 이성계의 건국 이야기로 거슬러 올라갑니다.&lt;br&gt;&lt;br&gt;왕이 되고 싶었던 이성계는 전국의 명산을 찾아다니며 기도를 올렸습니다. 백두산과 지리산도 찾았지만 별다른 효험(어떤 일의 좋은 결과)을 보지 못하자, 마지막으로 남해의 보광산을 찾아와 100일 기도를 드리게 됩니다. 이때 그는 “내가 왕이 된다면 이 산 전체를 온통 비단으로 감싸겠다”는 약속을 산신령에게 바쳤다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCDQTUSGFZBPNHZFI3RI52CF5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 남해군 금산에서 바라본 일출 모습입니다. /남해군청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마침내 조선을 세운 이성계는 약속을 지켜야 했습니다. 하지만 나라의 비단을 모두 모아도 거대한 산 전체를 천으로 두르는 것은 불가능한 일이었습니다. 고민에 빠진 이성계에게 신하들이 한 가지 묘안을 냈습니다. 바로 ‘비단 금(錦)’ 자를 써서 산 이름을 금산(錦山)으로 바꿔주는 것이었습니다. 이성계는 만족해하며 신하들의 의견을 받아들였죠. 산에 영원히 변하지 않는 아름다운 비단옷을 글자로 입혀 은혜를 갚은 셈입니다.&lt;br&gt;&lt;br&gt;금산 정상 부근에 있는 사찰인 보리암은 강원도 양양 낙산사 홍련암, 인천 강화도 보문사와 함께 ‘한국 3대 기도처’로 손꼽힙니다. 선조들은 바다의 끝없는 넓이와 깊이가 관세음보살의 자비로움과 닮았다고 믿었는데요. 보리암은 성벽처럼 둘러친 금산의 절벽 끝에서 바다를 정면으로 내려다보고 있습니다. 바다가 시원하게 내려다보이는 보리암을 명당으로 꼽은 것이죠. 지금도 수능 시즌이 되면 100일 기도를 위해 학부모들이 몰려든답니다. &lt;br&gt;&lt;br&gt;남해 금산은 1980~1990년대 문학을 사랑하던 청년들에게도 인기가 많았습니다. 이성복 시인이 1986년에 발표한 ‘남해 금산’이라는 시 덕분입니다. 바위가 많은 금산을 빌려 가슴 아픈 사랑의 감정을 절절하게 표현한 시죠. ‘어느 여름 비 많이 오고/그 여자 울면서 돌 속에서 떠나갔네/떠나가는 그 여자 해와 달이 끌어주었네/남해 금산 푸른 하늘가에 나 혼자 있네’&lt;br&gt;&lt;br&gt;금산은 정상 부근의 보리암까지 도로가 있어 차량으로 올라갈 수 있는 관광지인데요. 최근 금산은 ‘컵라면 성지’로도 손꼽힌답니다. 보리암에서 조금 더 올라가면 금산산장이 있고 이곳에서 컵라면을 팝니다. 바다를 보면서 먹는 컵라면 사진을 소셜미디어에 올리는 유행이 생기기도 했답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [뉴스 속 신화] 황금 욕심낸 왕… 그 대가로 외동딸도 금 돼버렸죠</title>
+      <link>https://www.chosun.com/national/nie/2026/06/22/PZDJQZSC7ZAEXDOVBV32A6C5XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/22/PZDJQZSC7ZAEXDOVBV32A6C5XY/</guid>
+      <dc:creator>김원익 홍익대 문과대학 교수·사단법인 세계신화연구소장, 기획·구성=김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:40:00 +0000</pubDate>
+      <content:encoded>책이나 신문에서 ‘미다스의 손’이라는 표현을 본 적이 있나요? ‘패션계의 미다스의 손’ ‘가요계의 미다스의 손’ 같은 식이죠. 미다스의 손은 어느 한 분야에서 본인이 직접 큰 성공을 거두거나, 다른 사람이 성공하도록 돕는 사람을 뜻합니다. &lt;br&gt;&lt;br&gt;특히 미다스의 손은 부(富)의 측면에서 자주 사용된답니다. 젠슨 황 엔비디아 CEO(최고경영자)가 특정 기업을 언급하거나 주요 인사를 만난 뒤 해당 기업의 주가가 뛰는 일이 반복되자 시장에서는 그를 미다스의 손으로 부르기도 했죠. 미다스의 손은 ‘미다스(midas)’의 영어식 발음을 써서 ‘마이다스의 손’이라고도 하는데요. 전남의 ‘여수예술랜드’에는 ‘마이다스의 손’이라는 이름의 전망대가 있어요. 사람의 거대한 오른손이 바다 쪽으로 손바닥을 편 채 내밀고 있는 모습이죠. 이곳에 올라 ‘부자가 되게 해주세요’ 같은 소원을 비는 사람이 많다고 합니다. 사람들이 몰릴 때는 몇 시간을 기다려야 할 정도로 인기가 좋대요. 그렇다면 미다스의 손은 어떻게 ‘부의 상징’이란 표현이 됐을까요? 미다스는 누구일까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJ2VMM46ARDJ3GUHOWYMUL7XYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미다스가 손으로 황금을 만드는 능력을 없애려 팍톨로스강에 가서 몸을 씻는 모습이에요. 이탈리아 화가 바르톨로메오 만프레디(1582~1622)가 17세기에 그렸습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“만지는 것 모두 황금이 되게 해주세요”&lt;/b&gt;&lt;br&gt;&lt;br&gt;미다스는 그리스로마신화에 등장하는 왕국 ‘프리기아’의 왕이었습니다. 하루는 미다스의 신하들이 국경 근처 산속에서 술에 취해 자고 있던 어떤 노인을 잡아 왔습니다. 신하들은 노인을 의심했지만, 미다스는 그 노인이 ‘포도주의 신’ 디오니소스의 스승 실레노스라는 사실을 한 번에 알아챘어요. 미다스는 이 노인을 극진히 대접하면 보상을 받으리란 생각을 했습니다. 연회를 열어 노인을 정중히 모신 뒤 돌려보냈죠.&lt;br&gt;&lt;br&gt;얼마 후 디오니소스가 스승에게 사실을 전해 듣고 미다스 왕을 불렀어요. 미다스는 회심의 미소를 지으며 찾아갔습니다. 디오니소스는 스승을 잘 대해 줘서 고맙다며 소원을 하나 들어주겠다고 말했어요. 미다스는 기다렸다는 듯 자신이 손으로 만지는 건 모두 황금이 되게 해 달라고 얘기했습니다. 디오니소스는 미다스의 소원을 들어줬지만, 무척 실망스러운 표정을 지었어요. 왕이 어리석다고 여긴 겁니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6PDY4KCDZEJLLA3YG5RNGLBXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미다스가 자신의 딸을 안았다가 딸이 황금으로 변한 장면의 그림입니다. 영국 화가 월터 크레인(1845~1915)이 1893년 그렸죠.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;황금으로 변해 버린 딸&lt;/b&gt;&lt;br&gt;&lt;br&gt;손으로 황금을 만드는 능력을 얻은 미다스는 쾌재를 부르며 자신의 궁전으로 향했습니다. 자신의 행운을 한번 시험해 보고 싶어졌어요. 그가 돌멩이를 집자 돌멩이는 바로 황금 돌멩이로 변했어요. 이번에는 길가의 나뭇가지를 꺾어 보았죠. 그러자 나뭇가지도 금세 황금 나뭇가지로 변했어요. 들판의 보리 이삭, 사과 등 미다스가 만지는 건 족족 황금으로 변했습니다.&lt;br&gt;&lt;br&gt;신이 난 미다스는 자신의 엄청난 능력을 자랑하고 싶어졌습니다. 신하와 가족을 불러 화려한 잔치를 열었어요. 미다스는 의기양양하게 궁전 기둥을 손으로 만졌고, 기둥은 곧 황금 기둥으로 변했습니다. 자리에 모인 사람들이 모두 환호성을 지르며 감탄했어요.&lt;br&gt;&lt;br&gt;바로 그때 미다스는 배고픔을 느꼈습니다. 그는 잔칫상에서 사슴 넓적다리를 들어 입에 덥석 물었습니다. 그 순간 우두둑 하며 그의 이빨 몇 개가 부러져 나갔습니다. 고기가 그의 손이 닿는 순간 바로 황금으로 변해 버린 것이었습니다. 당황한 그는 목이 타서 이번에는 잔에 포도주를 따랐어요. 하지만 포도주는 미다스가 입에 대기도 전에 이미 황금 포도주로 변해 버렸어요.&lt;br&gt;&lt;br&gt;미다스는 그제야 사태의 심각성을 깨달았어요. 행운을 바라고 소원을 빌었지만 결국 불행이었던 거죠. 그는 결국 몸져누운 채 며칠을 끙끙 앓았어요. 그 소식을 듣고 미다스가 가장 사랑하는 외동딸인 공주가 문병을 왔어요. 미다스는 매우 기쁜 나머지 두 손으로 공주를 붙들고 그만 가슴에 끌어안고 말았어요. 그러자 공주는 순식간에 황금으로 변해 버렸습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMX3RMOD6BAB7DDTEXB4QWZFW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이탈리아 화가 피에트로 비안키(1694~1740)의 '미다스의 심판'이란 제목의 그림입니다. 음악의 신 아폴론은 미다스가 자신의 편을 들어주지 않았다는 이유로 그의 귀를 잡아당겨 당나귀 귀처럼 길게 만들어버렸다고 해요. /위키피디아•위키미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;임금님 귀는 당나귀 귀&lt;/b&gt;&lt;br&gt;&lt;br&gt;미다스는 이제 더 이상 자존심만을 세우고 있을 수가 없었어요. 자신에게 그런 능력을 준 디오니소스를 찾아가 용서를 빌며 자신의 손을 원래 상태로 돌려달라고 간청했어요. 디오니소스 신은 진심으로 후회하는 미다스를 보고 측은한 마음이 들었습니다. 그래서 그에게 팍톨로스강의 원류(강의 본줄기)로 가서 몸과 마음을 씻으며 탐욕의 때를 깨끗이 털어 내라고 일러주었어요. 미다스가 디오니소스 신이 시킨 대로 하자 그의 손은 원래대로 돌아왔습니다. 황금을 만드는 능력은 강으로 옮겨졌죠. 강에서 사금이 나오기 시작한 것은 바로 그때부터라고 해요. 이런 이야기에서 유래한 말이 바로 미다스의 손입니다. &lt;br&gt;&lt;br&gt;미다스는 귀가 길어진 사연으로도 유명해요. 그는 언젠가 음악의 신 아폴론과 사티로스(상반신은 인간이고 하반신은 염소 모습을 한 괴물)로 팬파이프의 달인이었던 마르시아스가 연주 시합을 할 때 심판관으로 불려갔습니다. 다른 심판관들은 모두 아폴론의 손을 들어주었지만, 미다스는 혼자 마르시아스의 승리를 선언했어요. 분노한 아폴론은 “그따위도 귀라고 달고 다니냐?”라며 양손으로 미다스의 두 귀를 잡아당겨 당나귀 귀처럼 길게 만들어버렸다고 합니다. &lt;br&gt;&lt;br&gt;귀가 너무 길어 부끄러웠던 미다스는 왕관으로 귀를 늘 가리고 다녔지만, 자신의 이발사에게만은 비밀을 숨길 수 없었습니다. 그래서 그에게 비밀을 절대 발설하지 말라고 했죠. 명령을 어기면 엄히 다스리겠다는 협박까지 했어요. 이발사는 한동안 입을 잘 닫고 살았으나 시간이 갈수록 엄청난 비밀을 말하고 싶어 안달이 났어요. &lt;br&gt;&lt;br&gt;참다못한 이발사는 어느 날 깊은 산속으로 들어가 구덩이를 파고 끓어오르는 말을 마음껏 내뱉고 흙으로 덮었어요. 이어 계절이 바뀌자 그가 흙으로 덮은 곳에서 억새가 무성하게 자라났습니다. 그리고 바람이 불어 억새밭이 흔들릴 때마다 이발사가 뱉고 간 말이 쏟아져 나왔어요. “우리 미다스 왕의 귀는 당나귀 귀다!” 이처럼 세상에 비밀은 없는 법이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책] 2000개 넘는 커리처럼 다양한 인도… 새 문화 흡수하는 ‘스펀지’ 같은 나라죠</title>
+      <link>https://www.chosun.com/national/nie/2026/06/22/B2MZL6HVWFECHALEPK55QCNRTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/22/B2MZL6HVWFECHALEPK55QCNRTY/</guid>
+      <dc:creator>표정훈 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IR4N6T6WHVGRJICEHZPE3Z64EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;이옥순 지음｜출판사 책세상｜가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;세계에서 인구가 가장 많은 나라는 인도입니다. 약 14억7700만명으로 중국(14억1300만명)보다 많습니다. 인도는 국내총생산(GDP) 세계 6위이며, 매년 7%를 넘는 경제성장률을 보입니다. 인도를 인구 대국, 경제 대국이라 일컫는 이유입니다. &lt;br&gt;&lt;br&gt;하지만 정작 우리는 이런 인도에 대해 잘 모르는 게 많습니다. 흔히 인도 음식이라고 하면 카레를 먼저 떠올리죠. 그러나 인도 현지에서 인도 역사를 연구한 저자는 ‘인도에는 카레가 없다’고 말합니다. 카레는 영어로 ‘커리(curry)’라고 하는데요. 커리는 향신료가 여럿 들어간 인도 음식을 일컫는 말로, 채소, 고기 등 다양한 재료로 만들어져 그 종류만 2000개가 넘는다고 하죠. 인도의 음식이 영국, 일본을 거쳐 우리나라로 들어온 것이기에 우리가 먹는 카레는 인도의 커리와 많이 다르답니다.&lt;br&gt;&lt;br&gt;인도의 가장 큰 특징 중 하나는 ‘다양성’인데요. 책은 커리처럼 다양한 모습을 가진 인도를 차근차근 설명합니다. 인도는 인구가 많은 만큼 힌두교, 이슬람교, 불교, 기독교, 시크교, 조로아스터교 등 수많은 종교가 있고 서로 다른 문화가 공존합니다. 인도에 새로 들어온 종교나 문화가 곧 인도의 일부가 되는 일이 역사에서 반복돼 왔습니다. 저자는 인도를 무엇이든 흡수하는 ‘스펀지’라고 묘사합니다.&lt;br&gt;&lt;br&gt;고대 그리스에서 뿌리를 내린 민주주의는 오늘날 인도를 설명하는 중요한 특징 가운데 하나입니다. 인도는 ‘세계 최대의 민주주의 국가’로 불리죠. 단 한 번도 군사 쿠데타를 겪지 않았습니다. 물론 인도에서도 정치적 잡음이 많이 발생합니다. 그러나 종교, 문화가 제각각인 수많은 사람들이 표를 행사하는 모습을 두고 세계에선 ‘경이롭다’는 반응이 많습니다. 인도인들은 스스로 민주주의에 대한 자부심도 큽니다.&lt;br&gt;&lt;br&gt;그러면서도 타고난 신분에 따라 사람을 차별하는 ‘카스트 제도’의 영향이 강합니다. 낮은 계급이어도 똑같은 한 표를 행사하는 민주주의에서 정치인들이 하층 계급에 대한 특혜를 늘려왔습니다. 이 때문에 능력이 뛰어나지만 하층 카스트 우대 정책으로 상층 카스트에선 ‘역차별’이라는 말도 많죠. 이처럼 외부의 제도를 가져오는 상황에서 내부의 제도와 엉키면서 다양한 소리가 나오는 것, 인도의 모습입니다. &lt;br&gt;&lt;br&gt;인도엔 현대적인 제철소가 있으면서 동시에 구식 대장간도 있습니다. 도시엔 최신식 고층 건물이 있지만 근처엔 낡고 오래된 토담집도 많죠. 사람이 많은 만큼 사회를 변화시키려는 움직임과 전통을 지키려는 소리가 모두 나옵니다. 저자는 이런 다양성에 주목합니다. 모든 게 느린 것 같지만 쉬지 않고 꾸준히 움직이는 인도. 문화가 뒤섞여 ‘천의 얼굴’을 가진 인도. 책은 인도를 이해하는 ‘입문서’로 꼽힙니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 구걸(求乞)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2026/06/22/5QUFXHQFHBDWDCGWU7LFZX24WY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/06/22/5QUFXHQFHBDWDCGWU7LFZX24WY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTF5L5S235FZ7GHB3FC3VMIVC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 기꺼이 하다, 내키다, 원하다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2026/06/22/JWRTFGS4IVGSVBCZM4BKZ4YAAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/06/22/JWRTFGS4IVGSVBCZM4BKZ4YAAM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7AFEYWZBFFQ7DNBN5L2IFWPBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2891] 제목 외우기</title>
+      <link>https://www.chosun.com/national/nie/2026/06/22/WX243G3SDZG6TO2T3ISD553ZDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/22/WX243G3SDZG6TO2T3ISD553ZDM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QF7HFYECF5GXHLGWO6FG26H6SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] cut ties with ~</title>
+      <link>https://www.chosun.com/national/nie/english/2026/06/22/4GWT2P6L3RHQ3CL6KUWGMMRMD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/06/22/4GWT2P6L3RHQ3CL6KUWGMMRMD4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FE6KOILU5NDI3HAIIDKK5225RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 해가 가려지다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2026/06/22/DIGUVJPIVVFJBJHAOQK5Z25XWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/06/22/DIGUVJPIVVFJBJHAOQK5Z25XWA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2KQVH3CHRC3HDUVCZXIK6FH2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 6월 22일</title>
+      <link>https://www.chosun.com/national/education/2026/06/21/XZZCM6HQRRAK5IYZXR426TK3CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/21/XZZCM6HQRRAK5IYZXR426TK3CI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 14:32:00 +0000</pubDate>
+      <content:encoded> 전국 대체로 흐림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPU7VTVVLBFUPI3LO7G3OYLOHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 6월 22일 월요일 (음력 5월 8일 丁卯)</title>
       <link>https://www.chosun.com/national/national_general/2026/06/21/6GY3NXAXJJBYFNPUNMJN6QNGTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/21/6GY3NXAXJJBYFNPUNMJN6QNGTY/</guid>
@@ -850,67 +931,6 @@
       <content:encoded>검찰이 19일 이화영 전 경기도 평화부지사의 ‘연어 술자리 위증’ 혐의 관련 국민참여재판에서 징역 2년과 벌금 500만원을 구형했다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 이날 이 전 부지사의 국회증언감정법 위반(위증) 등 사건 결심 공판을 열고 변론 마무리에 들어갔다. 먼저 최종 의견 진술에 나선 검찰은 이 전 부지사의 국회 위증 혐의 및 경기도 대북 지원 사업 부정 집행(직권남용·지방재정법 위반 등) 의혹에 대해 징역 2년을 선고해달라고 요청했다. 이어 검찰은 이 전 부지사의 ‘이재명 후보 쪼개기 후원’ 의혹(정치자금법 위반) 사건에 대해선 벌금 500만원을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSGEYTDHBQWCZJWMI4WMYZZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 측은 이날 공판에서 3시간 30분에 걸쳐 배심원단에게 이 전 부지사의 혐의를 조목조목 강조했다. 특히 검찰 측은 핵심 쟁점인 ‘연어 술자리’ 의혹에 대해선 “성공 확률이 0.4%에 불과하다”며 현실성이 없다고 주장했다. 검사는 이 의혹에 대해 “계획을 모의해야 하고, 술을 몰래 반입해야 하며, 식기를 다 치우고 김성태 전 쌍방울 회장이 술에 취한 것을 들키지 않고 구치소로 돌아가야 하는 걸 한 번에 성공했다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 검사는 “피고인은 술을 어디서, 누가 마셨는지를 비롯해 시간이 언제인지, 술자리를 제안한 게 박상용 검사인지 등에 대해 계속해서 진술이 바뀌고 있다. 신기하지 않으냐”며 “피고인의 주장에 신빙성이 결여돼 있다”고 강조했다. 검사는 또 “쌍방울 관계자가 검찰청에 출입하고, 그 전에 술을 샀다는 결제 내역만으로 술 반입을 증명할 수는 없다”고도 했다.&lt;br&gt;&lt;br&gt;검사는 이 전 부지사 측이 “사람 말이니 바뀌는 것”이라며 연어 술자리 의혹 관련 주장을 번복하고 무죄를 주장하는 데 대해선 “피고인은 술자리가 있었다는 시점으로부터 1년도 지나지 않아 의혹을 제기하기 시작했다”고 지적하기도 했다.&lt;br&gt;&lt;br&gt;이 전 부지사가 김성태 전 회장과 공모해 2018년 지방선거와 2021년 더불어민주당 대선 경선 때 이재명 후보 캠프를 쪼개기 후원했다는 혐의에 대해 검찰 측은 “피고인이 후원을 부탁했다는 증언은 변하지 않고 있다”고 했다. 김 전 회장은 지난 8일 증인으로 나와 “경기지사 선거와 2021년 더불어민주당 대선 경선 당시 이 전 부지사가 이재명 후보의 후원을 부탁했다”고 증언했다. 이튿날 증인으로 출석한 방용철 전 쌍방울 부회장도 “2018년 경기지사 선거 때 김성태 전 쌍방울 회장이 이재명 후보 측에 후원금을 보내라고 했고, 후원 방법은 이 전 부지사에게 물어보라고 했다”고 말한 바 있다. 검사는 “김 전 회장 등의 증언이 일부 바뀐 것은 5~8년 전 후원을 했기 때문이다. 세부적인 면에서 진술이 일치할 수는 없다”고도 했다.&lt;br&gt;&lt;br&gt;검찰 측은 이 전 부지사가 금송 등 조경수를 인도적 지원으로 둔갑시켜 북한에 보냈다는 의혹에 대해선 “북한의 김성혜 조선아시아태평양평화위원회 실장의 환심을 사기 위해 묘목 지원 사업을 추진한 것”이라고 규정했다. 검사는 “당시 자료상 사업 목적은 산사태 및 홍수로 인한 인명·경제 피해 예방을 위한 묘목 지원이었다”며 “경기도 관계자들은 사업 추진 도중 ‘금송은 좀 이상한 것 아닌가’ 의문을 가졌고, 부적절하다는 회신도 받았다”고 지적했다. 이어 검사는 “자연재해 예방을 위해서라면 빠르고 잘 자랄 수 있는 나무를 보냈어야 한다”며 “금송과 주목은 적절한 묘목이 아니었다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 오후 2시 10분부터 이 전 부지사 측의 최종 변론을 진행한다. 이 전 부지사의 최후 진술까지 끝나면 배심원단은 유·무죄 판단과 양형을 논의하는 평의에 들어간다. 평결이 나오면 재판부는 이를 토대로 1심 판결을 선고할 방침이다. 선고 결과는 이르면 이날 늦은 밤, 혹은 내일 새벽에 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“건국 250년, 美 진면모 볼 수 있는 순간… 한국분들도 꼭 오세요“</title>
-      <link>https://www.chosun.com/international/us/2026/06/19/MI4FRLDUFZCNRLIPCVYR6EBPGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/international/us/2026/06/19/MI4FRLDUFZCNRLIPCVYR6EBPGM/</guid>
-      <dc:creator>워싱턴=김은중 특파원</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 03:24:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPIQ7ODNJVF5RDLGFI4GC7AOY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;키스 크라흐 '프리덤 250' 최고경영자(CEO)가 17일 워싱턴 DC의 북중미 월드컵 팬 존에서 본지와 만나 인터뷰를 하고 있다. /워싱턴=김은중 특파원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“미국이란 나라의 진면모를 볼 수 있는 한 세대에 한 번 올까 말까 한 순간입니다. 국적에 상관없이 누구나 다 즐길 수 있고 모든 게 무료이니 한국분들도 꼭 오세요. (한국어로) 감사합니다.”&lt;br&gt;&lt;br&gt;도널드 트럼프 대통령이 지난해 12월 건국 250주년 기념행사를 위해 출범시킨 ‘프리덤 250’의 키스 크라크 최고경영자(CEO)는 17일 워싱턴 DC의 의회 의사당 앞에 마련된 피파(FIFA) 월드컵 팬 존에서 본지와 만나 이렇게 말했다. 지난 14일 사상 처음 백악관을 무대로 하는 이종격투기(UFC) 경기가 열리는 등 건국 250주년이 되는 다음 달 4일을 앞두고 미 전역에선 이를 기념하기 위한 각종 행사가 열리고 있다. ‘프리덤 250’은 백악관 태스크포스(TF), 의회가 10년 전 설립한 초당적 조직인 ‘아메리카 250’ 등과 협력해 기념 사업을 기획·실행하는 컨트롤 타워 역할을 하고 있다. &lt;br&gt;&lt;br&gt;크라크는 “연초부터 연말까지 ‘프리덤 250’이 전국 각지에서 4000개 이상의 행사, 1000개가 넘는 이니셔티브를 진행하고 있다”며 “미국인 뿐 아니라 전 세계가 하나로 모여 250주년을 기념하게 만드는 것이 우리 조직의 사명”이라고 했다. 그는 “미국인들은 차이점보다 공통점이 많고, 지금이야말로 국민을 하나로 통합할 수 있는 메시지가 필요하다”며 일련의 기념사업을 통해 가장 강조하고 싶은 가치는 자유라고 했다. 소프트웨어 회사 ‘도큐사인’을 창업한 기술 기업가 출신으로 트럼프 1기 때 국무부 경제 담당 차관을 지낸 크라크는 “디트로이트 제조 현장, 실리콘밸리, 공직에 있으면서 자유가 없다면 혁신, 번영, 평화도 없다는 걸 몸으로 깨달았다”며 “자유는 미국의 최대 수출품이자 전 세계 누구에게든 공감을 불러일으킬 수 있는 구호”라고 했다. ‘프리덤 트럭’이라 불리는 이동식 박물관이 전국을 횡당하며 1000여 곳을 방문할 계획이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JD2WGNYZ6JPOLKM6TGUHQ5KW44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 워싱턴 DC의 내셔널 몰 일대에 25일 시작하는 '위대한 미국 박람회' 현장에 들어설 대회전차 공사가 진행되고 있다. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;크라크는 “지금이야말로 미국이 갖고 있는 최고의 모습, 다양한 면모를 경험할 수 있는 한 세대에 한 번 올까 말까 한순간”이라며 “해외에 있는 분들도 꼭 와서 참여해줬으면 좋겠다. 자유를 고리로 세계를 하나로 묶을 훌륭한 기회이기 때문”이라고 했다. 다음 달 25일부터 워싱턴 DC에선 각 주(州)와 주요 연방 정부 부처가 참여하는 ‘위대한 미국의 주 박람회’가 열려 지역 전통과 명산물을 선보일 예정이다. 행사장에는 높이 33.5m의 대관람차가 설치되고 일론 머스크 테슬라 창업자 같은 현대의 기업인을 기리는 ‘영웅의 전당’도 들어선다고 한다. 각 주에서 선발된 남녀 고교 선수들이 장학금을 놓고 올림픽 형식으로 경쟁하는 ‘패트리엇 게임즈’, 경주용 차량이 도심 한복판을 가로지르는 ‘인디카 대회’도 예정돼 있다. 크라크는 “워싱턴 DC에선 3대 대통령인 토머스 제퍼슨 때 경마 대회가 벌어진 것 말고는 한 번도 경주가 없었기 때문에 굉장히 볼만할 것”이라고 했다. &lt;br&gt;&lt;br&gt;기념일 당일인 4일 ‘미국에 바치는 헌사’ 행사에는 트럼프가 참석한 가운데, 기네스 기록에 도전하기 위해 약 86만발의 폭죽을 터트릴 예정이다. 통상의 독립 기념일엔 약 2만발 정도의 폭죽이 사용됐다고 한다. 크라크는 “미 전역에 수백만 명에 달하는 방문객이 올 것으로 예상된다”며 “경제에도 상당한 파급 효과가 있을 것”이라고 했다. 가장 추천할 만한 행사가 무엇이냐는 질문에는 “자녀가 다섯이 있는데 마치 가장 좋아하는 자녀를 고르라는 것과 같다”며 “국적, 배경과 관계없이 누구나 참여해 무료로 즐길 수 있다. 다만 맥주는 직접 사드셔야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>누가 봉쇄 뚫었나...경찰, 잠실개표소 지하 무단침입 정황 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/19/DAHYYY4LFNCUFHLS4JBKP2YIXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/DAHYYY4LFNCUFHLS4JBKP2YIXE/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 02:15:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLNQPSVIIJIZHFCILW4KDWEX7Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표용지 부족 사태를 규탄하는 잠실 참정권 집회가 보름째 계속되고 있는 가운데, 지난 18일 서울 송파구 잠실 개표소(올림픽공원 핸드볼경기장) 앞에 모인시민들이 태극기를 흔들며 "부정선거" 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 투표용지 부족 사태를 규탄하는 잠실 참정권 집회가 보름째 계속되고 있는 가운데, 잠실 개표소인 올림픽공원 핸드볼경기장에 누군가 지하 출입문 잠금 장치를 훼손하고 침입한 정황이 파악돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 서울 송파경찰서는 경기장 관리업체로부터 “지난 7일 야간에 외부인이 핸드볼경기장 지하 출입문의 잠금장치를 훼손하고 무단출입해 내부 영상을 촬영한 것으로 보인다”는 내용의 고소장을 접수했다. 경찰은 재물손괴 및 건조물침입 등 혐의를 적용할 수 있다고 보고, 피의자 특정을 위해 수사에 착수했다.&lt;br&gt;&lt;br&gt;고소 내용이 사실로 드러날 경우, 누군가 시위대 봉쇄를 뚫고 개표소 내부로 들어갔다 나온 것으로 볼 수 있는 만큼 침입 주체와 목적 등을 놓고 적잖은 논란이 일 전망이다. 부정선거 가능성을 주장하는 시민들이 지난 5일부터 투표함과 투표지 반출을 막기 위해 경기장 출입구를 가로막고 있었기 때문이다.&lt;br&gt;&lt;br&gt;이런 상황에서 경찰 또한 경기장 내부 수색에는 한계가 있어 정확한 경위 파악에는 시간이 걸릴 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 특검, ‘김건희 수사 무마’ 이원석 前 검찰총장 23일 소환 통보</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/19/CTOLHUIGMNHFLOAIWY2NJFYW5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/19/CTOLHUIGMNHFLOAIWY2NJFYW5Y/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 02:00:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YYV3U6L7JFGSHG4QMOMYATYCV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 전 검찰총장./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 ‘김건희 여사 수사 무마 의혹’과 관련해 이원석 전 검찰총장에게 23일 출석해 조사 받으라고 통보했다. &lt;br&gt;&lt;br&gt;특검은 19일 “이 전 총장에게 참고인 조사를 위해 23일 출석할 것을 통보했다”며 “아직 출석 여부 회신을 받진 못했다”고 밝혔다.&lt;br&gt;&lt;br&gt;‘김 여사 수사 무마 의혹’은 서울중앙지검이 김 여사의 디올백 수수 의혹·도이치모터스 주가조작 사건을 수사하는 과정에서 제대로 된 수사 없이 불기소(무혐의) 처분을 내렸다는 내용을 골자로 한다.&lt;br&gt;&lt;br&gt;이 전 총장은 2024년 5월 서울중앙지검에 김 여사의 디올백 수수 의혹을 수사하는 전담수사팀을 구성하라고 지시했다. 이후 송경호 당시 중앙지검장과 김창진 1차장검사가 교체된 끝에 중앙지검은 그해 10월 김 여사의 디올백 수수 의혹·도이치모터스 주가조작 사건을 모두 혐의없음 처분했다.&lt;br&gt;&lt;br&gt;특검은 이 전 총장을 상대로 당시 사건 처분과 관련해 윤석열 정부 대통령실 등 윗선의 압력이 있었는지 조사할 방침이다.&lt;br&gt;&lt;br&gt;그러나 이 전 총장은 이에 대해 곧바로 입장문을 내고 “이번 달 2차 특검의 서면 조사 요청을 받아 이에 응했지만, 현재까지 참고인 출석 요청을 받은 바 없다”며 “언론 보도를 통해 해당 사실을 접하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이어 그는 “검찰총장의 지휘권이 배제돼 있던 도이치모터스 사건에 관해 서울중앙지검으로부터 보고받은 사실이 없다”며 “박성재 법무부 장관 지명자를 만난 사실도 없고 이를 전달한 바 없다”고 설명했다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 10시부터 이창수 전 서울중앙지검장도 피의자 신분으로 소환해 조사 중이다. 이 전 지검장은 지난 15일에 이어 두 번째로 특검에 출석했다.&lt;br&gt;&lt;br&gt;이 전 지검장은 서울중앙지검의 도이치모터스 주가조작 사건 수사 당시 김 여사를 혐의없음 처분하는 과정에서 내부적으로 ‘불기소 의견서’를 작성하고, 수사보고서를 사후적으로 수정하는 데 관여한 혐의(허위공문서 작성)를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHZ3JKUZ5ZLNHAKMG4T4SXPGJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤희근 전 경찰청장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 특검은 ‘통일교 수사 무마’ 의혹과 관련해 윤희근 전 경찰청장을 23일 피의자로 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;윤 전 청장은 한학자 총재 등 통일교 간부진이 2008∼2011년 미국 라스베이거스에서 약 600억원 규모의 도박을 했다는 첩보를 입수하고도 제대로 수사하지 않고 무마하는 데 관여한 혐의(직권남용)를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>요양병원서 잘못 버린 사람 다리… 경찰, 절단 수술.의료 폐기물 처리 위반 수사</title>
-      <link>https://www.chosun.com/national/incident/2026/06/19/3BSBKZVBCRFLBK66DSBFQOJCDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/19/3BSBKZVBCRFLBK66DSBFQOJCDM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 02:29:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIFKM4XLERNJDFANOBXSU46WL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;절단한 다리를 재활용품으로 잘못 버린 인천 중구의 모 요양병원. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 재활용품 처리 시설에서 발견된 80대 요양병원 환자의 다리는 병원 자원봉사자가 잘못 배출한 것으로 확인되면서, 경찰이 해당 병원의 법령 위반 사항 여부를 수사하고 나섰다. &lt;br&gt;&lt;br&gt;이헌 연수경찰서 형사과장은 19일 브리핑에서 “병원장 등 관계자 4명을 입건 전 조사(내사) 하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;경찰이 내사 중인 대상은 절단한 다리를 잘못 배출한 인천 중구 모 요양병원 병원장과 절단 수술을 한 의사, 간호사, 병원 청소 담당 자원봉사자 등 4명으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 전문업체에 맡겨 처리해야 할 인체 조직 등 의료폐기물의 처리와 관리가 제대로 이뤄졌는지, 절단 수술 과정엔 불법 요인이 없었는지 등을 살펴보고 있다. &lt;br&gt;&lt;br&gt;경찰에 따르면 해당 요양병원은 지난 8일 절단 수술을 한 80대 여성 환자 A씨의 다리를 붕대에 감아 의료폐기물 전용 용기에 버렸다. A씨는 심장 기능이 약해져 혈액 공급이 원활하지 않았고, 다리의 괴사 상태가 심각했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;병원 측은 경찰에 “다리 괴사가 상당히 심해 다량의 고름이 나왔고 신경 자체가 손상돼 (절단할 때) 마취가 필요 없을 정도였다”며 “다리를 들어 올렸을 때는 무릎이 분리된 상태여서 뒷부분을 절단했다”고 진술했다.&lt;br&gt;&lt;br&gt;이헌 과장은 “대형병원에서 나온 A씨의 상태가 심해 A씨 가족들이 받아줄 병원을 수소문했고, 해당 요양병원에 입원을 간절히 요청했다는 진술이 있다”며 “고령인 A씨의 심장이 약해 피가 다리까지 도달하지 못해 다리가 괴사한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;병원 청소 등을 담당하는 자원봉사자 60대 남성 B씨는 이튿날, 청소 중 의료폐기물 용기에 든 다리를 깁스(석고 붕대) 쓰레기로 잘못 알고 재활용 쓰레기 봉투에 담았고, 수거 장소로 가져갔다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “붕대로 감겨 있었고, 딱딱해 깁스로 착각한 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이 다리가 든 재활용 쓰레기 봉투는 수거 차량에 실려 인천시 연수구 송도동 인천 남부권 광역 생활자원 회수센터로 옮겨졌고, 지난 10일 오후 2시 28분쯤 선별 작업 중이던 직원이 다리를 발견해 경찰에 신고했다. &lt;br&gt;&lt;br&gt;강력 사건 가능성을 염두에 둔 경찰은 수사본부를 구성해 다리의 주인을 찾기 위해 수사를 벌였으나, 뚜렷한 성과를 얻지 못했다. &lt;br&gt;&lt;br&gt;그런 상황에서 지난 17일 오후 병원 관리소장이 수사본부가 있는 연수경찰서를 찾아 “(다리가) 우리 병원에서 버려졌을 수 있다”는 신고를 받았다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 유전자를 채취해 국립과학수사연구원에 긴급 감정을 의뢰했고, 발견된 다리와 일치한다는 구두 소견을 받으면서 수사에 속도가 붙었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QJSPYRIS3BPL5K6SP7VPLVLCYU.jpg?auth=b1d05ac5c80d676d6d6bfcbfd80f581436ddec21fd806854dc0aff895f166d2c&amp;smart=true&amp;width=5748&amp;height=3456" type="image/jpeg" height="3456" width="5748">
-        <media:description type="plain">&lt;YONHAP PHOTO-5845&gt; '다리 추정 물체 발견' 인천 남부권 생활자원회수센터
-    (인천=연합뉴스) 황정환 기자 = 11일 오후 인천시 연수구 송도동 남부권 광역 생활자원센터에 적막감이 흐르고 있다. 지난 10일 오후 생활자원센터에서는 다리로 추정되는 물체가 발견됐다. 2026.6.11 hwan@yna.co.kr/2026-06-11 20:29:32/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">황정환</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>무기 버리고 피난민 1만4500명 태운 ‘크리스마스의 기적’… 거제 ‘흥남철수기념공원’ 문 연다 </title>
-      <link>https://www.chosun.com/national/2026/06/19/X5U75VAPT5BWPFQT5R36UTAIYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/06/19/X5U75VAPT5BWPFQT5R36UTAIYY/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 02:15:04 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT2VOTY5O5F6NH6EW7UYO2K7QE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 경남 거제시 장승포 옛 장승포항 여객선터미널에 조성된 '흥남철수기념관'에서 1950년 흥남 철수 작전 당시 피란선에서 태어난 이경필씨가 영상을 보고 있다. 이씨는 1950년 당시 피란선에서 태어난 신생아 다섯 명 중 한 명으로, '김치 5호'라는 별명으로 불렸다. 기념관은 오는 26일 개관식을 갖고, 27일부터 시민에 개방된다. /거제=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 당시 1만4500명의 피란민을 태워 함경남도 흥남에서 출발해 경남 거제 장승포항에 닿은 ‘메러디스 빅토리호’의 기적을 재조명하는 특별한 공간이 문을 연다. &lt;br&gt;&lt;br&gt;거제시는 오는 26일 옛 장승포항 여객선 터미널 일원에서 흥남철수기념공원 개관식을 갖고, 27일부터 시민에게 개방한다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;국비 등 154억원이 투입된 이 공원은 세계 역사상 가장 인도적인 작전으로 꼽히는 ‘흥남철수작전’을 기념하기 위해 조성됐다. 지난 2011년부터 추진해 15년 만에 완료했다. &lt;br&gt;&lt;br&gt;흥남철수작전은 6·25 전쟁이 한창이던 1950년 12월 15일부터 12월 24일까지 함경남도 흥남시에서 미군 10군단과 대한민국 육군 1군단 10만여 명, 피란민 10만여 명이 철수한 작전이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2TOOBVMNSWKYZQMY2DAZLFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흥남철수기념공원 전경. /거제시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 7600t급 수송선인 메러디스 빅토리호는 1950년 12월 23일 흥남항에서 가장 마지막에 출항한 배였는데, 무기 등 적재물을 버리는 대신 1만4500명의 피란민을 태워 12월 25일 거제 장승포항에 도착했다. 단일 선박으로는 가장 큰 규모의 구조 작전을 수행해 2004년 기네스북에 등재됐다. ‘크리스마스의 기적’으로 불린다. &lt;br&gt;&lt;br&gt;흥남철수기념공원의 가장 핵심 시설은 옛 여객선 터미널을 리모델링해 만든 2층 규모, 연면적 2771㎡의 흥남철수기념관이다. 비용 등의 한계로 당시 메러디스 빅토리호와 같은 종류의 선박을 가져오지는 못했지만, 건물 외관에 메러디스 빅토리호 뱃머리를 본뜬 조형물을 설치해 상징성을 더했다. &lt;br&gt;&lt;br&gt;내부엔 흥남철수 작전과 거제로 피란 온 주민 모습 등을 스토리텔링 방식으로 볼 수 있는 전시 공간 11개가 마련돼 있다. 76년 전 당시의 처절함과 참혹함을 인공지능(AI)으로 제작한 영상과 홀로그램 등으로 실감 나게 표현했다. 영하 20도의 혹한 추위를 체험할 수 있는 체험형 공간도 있다. 흥남철수 작전의 영웅인 메러디스 빅토리호 선장 레너드 라루, 당시 통역으로 피란민 승선을 미군 측에 설득했던 ‘한국의 쉰들러’ 현봉학 박사 등의 인물을 소개하는 공간도 마련했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGBHPUJT6ZDQBHNWFRKTLNQ36Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'메러디스 빅토리'호는 세계 최대 규모의 구조작전을 성공시킨 배로 인정돼 2004년 기네스북에 올랐지만 1993년에 고철용으로 중국에 판매돼 역사 속으로 사라졌다. /조선일보DB
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피란길에 오른 메러디스 빅토리호에서 태어난 이경필(76)씨는 “안보에는 여야가 따로 있을 수 없다”며 “실물 자료 등을 더 보강해 이곳이 안보의 중요성과 기본을 생각하는 공간이 되길 바란다”고 했다. 당시 피란선에서는 5명의 생명이 태어났는데, 선원들은 전쟁의 비참함 속에서 태어난 희망의 상징인 아이들에게 한국인이 좋아하는 음식인 김치와 숫자를 붙였다. 이씨는 ‘김치 파이브(5)’로 불렸다. 이씨의 생일은 12월 25일이다.&lt;br&gt;&lt;br&gt;거제시는 흥남철수기념공원 개관과 함께 전 세계에 흩어져 있는 피란민과 후손들의 기억을 수집하는 ‘흥남철수 기억나눔터’도 운영한다. 당시의 기억이 세월과 함께 사라지기 전에 생존 피란민과 후손들의 목소리를 직접 기록으로 남기기 위함이다. &lt;br&gt;&lt;br&gt;참여 대상은 흥남철수작전을 직접 경험한 피란민과 그 후손, 참전 용사 후손 등이다. 시는 기억을 나눈 참여자들에게 감사의 뜻을 담아 거제 방문 기념품과 흥남철수기념관 평생 이용권, 개인 소장용 인터뷰 영상 촬영본 등을 제공할 계획이다.&lt;br&gt;&lt;br&gt;변광용 거제시장은 “흥남철수기념공원은 단순한 추모 공간을 넘어 인류애와 평화의 가치를 전하는 공간이 될 것”이라며 “전쟁의 아픔 속에서도 피어난 기적의 역사가 잊히지 않도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년도 최저임금, 업종 구분 없이 똑같이 적용된다</title>
-      <link>https://www.chosun.com/national/labor/2026/06/18/KPR6CXTFLRFILJUIMEBASYBTHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/18/KPR6CXTFLRFILJUIMEBASYBTHE/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 12:46:41 +0000</pubDate>
-      <content:encoded>최저임금위원회는 18일 정부세종청사에서 회의를 열고 내년부터 적용되는 최저임금의 ‘업종별 구분 적용 여부’를 표결에 부쳤지만 부결됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UY6MUXHEFFPTXLDNKEAZQEK5IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 정부세종청사 최저임금위원회에서 열린 제7차 전원회의에서 사용자 위원들이 최저임금의 업종별 구분적용을 요구하는 피켓을 들고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 최저임금위는 “2027년 적용 최저임금은 모든 업종에 대해 동일한 금액을 적용하기로 의결했다”고 밝혔다. 반대 14표, 찬성 11표, 무효 1표로 출석위원 과반에 미치지 못했다.&lt;br&gt;&lt;br&gt;이날 노사는 업종별 구분 적용 여부를 두고 평행선을 달렸다. 경영계는 숙박·음식업종에는 다른 업종보다 낮은 최저임금을 적용해야 한다고 주장했지만, 노동계는 특정 업종에 더 낮은 최저임금을 적용하는 것은 “노동자 차별을 제도화하는 것”이라고 반대했다. 노동계는 업종별로 최저임금을 달리 적용하는 것이 여성·청년 노동자에 대한 차별을 고착화할 수 있고, 임금을 낮춘다고 해서 일자리가 늘어나는 것은 아니라고 주장했다.&lt;br&gt;&lt;br&gt;최저임금을 업종별로 구분해 적용해야 한다는 것은 매해 노사가 첨예하게 맞서는 쟁점이다. 현행 최저임금법에 따르면 업종별 구분 적용은 가능하도록 되어 있다. 실제로 차등 적용은 제도 시행 첫해인 1988년 한 차례 적용된 바 있다. 그러나 노동계 반발 등으로 1989년부터는 단일 최저임금 체제가 유지되고 있다.&lt;br&gt;&lt;br&gt;이번 표결로 업종별 구분 적용 논의는 다시 내년 최저임금위로 넘어가게 됐다.&lt;br&gt;&lt;br&gt;이날 업종별 최저임금 차등 적용 여부에 대한 논의가 마무리되면서, 최저임금위는 다음 주부터 내년도 최저임금 수준 논의를 시작할 전망이다. 노동계는 올해 최저임금보다 16.3% 오른 시급 1만2000원을 제시했다. 경영계는 아직 요구안을 내놓지 않았지만, 소상공인과 영세 사업자가 어려움을 겪고 있다는 이유로 동결 또는 낮은 수준의 인상률을 제시할 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>일찍 찾아온 찜통더위, 온열질환자 300명 넘어</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/06/19/F7EKTCD7DZC5BLJHXYV4W3DMJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/19/F7EKTCD7DZC5BLJHXYV4W3DMJY/</guid>
@@ -936,33 +956,6 @@
       <description/>
       <pubDate>Thu, 18 Jun 2026 11:20:38 +0000</pubDate>
       <content:encoded>서울아산병원에는 모로코에서 온 아들 둘과 아버지가 입원해 있다. 아버지는 간암과 간경화로 생명이 위태로웠다. 프랑스에서 심장외과 의사를 하는 아들이 아버지를 프랑스로 데려와 치료했으나, 덩치가 큰 아버지에게 아들 두 명이 동시에 간을 절반씩 내놓는 생체 간이식만이 마지막 희망이라는 판단이 나왔다. 의사 아들이 논문과 평판을 뒤진 끝에 아산병원 장기이식팀이 2:1 간이식 원조이자, 세계 최고라는 것을 알았다. 3부자는 지체 없이 한국행 비행기에 몸을 실었고 수술대에 누웠다. 현재 이들은 대화를 나누며 건강하게 회복 중이다. ▶삼성서울병원 수술실에 가면 중동 나라 의사들이 돌아다니는 모습을 쉽게 볼 수 있다. 한국 병원에 와서 수술을 배우는 외과 전문의들이다. 사우디아라비아는 매년 자국의 전문의들을 한국 병원에 보내 각종 의료기술을 익히는 연수 프로그램을 정부 차원에서 운영하고 있다. 현재 수백 명의 중동 의사들이 국내 여러 대학병원에 흩어져 매달 수백만 원의 교육비를 쓰며 첨단 의술을 배우고 있다. ▶매년 전 세계에서 4000여 명의 심장내과 의사가 서울아산병원 심장팀이 주도하는 서울 학회에 와서 라이브 시술을 보며 최신 치료법을 접한다. 한국을 가르치던 원조 수술 강국 일본 의사들이 요즘 자존심을 접고 한국 로봇 수술을 보러 견학 온다. 서울서 현미경, 레이저 최소침습 척추수출을 배우고 간 일본 나고야 의사가 열도 최대 규모 척추병원을 세웠다. 요즘 도쿄 긴자, 신주쿠에 가면 K성형과 미용을 표방한 클리닉들이 즐비하다. ▶미국 시사주간지 뉴스위크가 18일 발표한 ’2026년 아시아·태평양 최고 병원' 평가에서 국내 대학병원들이 최상위를 휩쓸었다. 서울아산·삼성서울·서울대병원 등이 분야별 최고에 이름을 올렸다. 내분비·정형·호흡기 분야에서 1∼4위를, 심장·암 분야에서 1∼3위를 기록했다. 평가 결과에는 국가별 의료 성과 지표와 환자 건강상태가 종합 반영됐다. ▶우리나라 대학 병원이 세계 최고 수준이 된 것은 똑똑한 의사들 대부분이 대학교수가 되려 했고, 미국 연수를 가서 첨단의학을 익혔고, 대형병원 환자 집중으로 임상 경험이 풍부했고, 치열한 경쟁 탓에 첨단 장비를 앞다퉈 들여온 덕이다. 하지만 최근 의사들이 대학병원에 남기보다는 개업가로 빠져나가고, 의사 면허를 손에 쥐자마자 미용의료에 뛰어들고, 소송에 시달릴까 봐 중증 의료를 기피한다. K병원 명성이 순식간에 사라질까 걱정스럽다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73TOI2LPQBDCBJWP3RCBI4SOZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고가 ‘비급여 치료 유도’ 암요양병원 신고하면 최대 30억</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/18/PDBLXOTHCRDTLEGWNOIT5LXIZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/18/PDBLXOTHCRDTLEGWNOIT5LXIZQ/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 09:25:10 +0000</pubDate>
-      <content:encoded>정부가 일부 암 요양·한병 병원을 대상으로 고가의 비급여 치료를 입원 조건으로 내걸거나 비급여 치료비 결제액의 일부를 환자에게 돌려주는 이른바 ‘페이백’ 등의 불법 행위에 대한 단속에 나선다. 신고 포상금은 최대 30억원이다. &lt;br&gt;&lt;br&gt;보건복지부는 18일 ‘비정상·가짜진료 행정조사반’이 부당·위법 행위에 대한 단속에 착수했다고 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYTINZXGFRGENZSME2DIYLDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보건복지부 표지석&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;복지부는 “암 환자는 절박함 때문에 의학적 근거가 충분하지 않은 고가 비급여 진료에 노출될 가능성이 크다”며 “이런 점을 악용해 페이백 등 위법, 탈법을 동원한 수익 추구 의심 사례를 중점 조사할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;행정조사반은 이번 주부터 국민건강보험공단, 건강보험심사평가원, 금융감독원 등 관계 기관과 공조해 암 환자 유인·알선 위반, 사무장병원, 건강보험 부당 청구가 의심되는 병원을 조사한다. &lt;br&gt;&lt;br&gt;환자 유인·알선, 페이백 등 불법 행위 정황 등을 확보하기 위해 제보 센터도 운영한다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 법무 장관 “선거 범죄 수사, 낙선자 아닌 당선자에 집중해야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/18/NLBITBLBHVDZLOGNSH5HCFPQXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/18/NLBITBLBHVDZLOGNSH5HCFPQXI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 09:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRGKMZVGFRTIMBUMU4GKNLDGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 지난 6월 치러진 지방선거에서 발생한 선거 범죄 수사에 대해 “낙선자가 아닌 당선자에 대한 수사에 집중하라”고 했다.&lt;br&gt;&lt;br&gt;이날 법무부가 생중계로 진행한 월간 업무회의에서 정 장관은 “경험적으로 수사기관은 낙선자에 대한 수사에 집중하는 경향이 있다”며 “여야를 막론하고 당선자에 대한 수사에 집중해야 한다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 또 오는 10월 검찰청 폐지로 인해 선거 범죄 수사에 차질이 빚어질 수 있다는 점도 지적했다. 정 장관은 “공소청과 중대범죄수사청 설립이 예정돼있고, 적지 않은 검사들이 자리를 옮길 것”이라며 “선거 사범 공소시효가 12월 3일까지인데 제대로 수사가 될지 걱정된다”고 했다.&lt;br&gt;&lt;br&gt;선거 범죄의 공소시효는 6개월로 다른 혐의에 비해 그 기간이 짧다. 시효 만료를 1~2개월 앞둔 10월 경찰로부터 사건을 넘겨받을 가능성이 큰데, 계획대로 10월에 검찰청이 폐지될 경우 수사에 혼선이 빚어질 수 있다는 것이다. 정 장관은 “관련 사건이 보고되면 경찰과 적극 협조해 신속한 수사가 이뤄질 수 있도록 해달라”고 했다.&lt;br&gt;&lt;br&gt;또 정 장관은 “검찰의 존재 이유는 사회적 약자를 지키는 것”이라며 “검찰이 억울한 피해자들을 돌볼 수 있는 마지막 보루가 될 수 있도록 노력해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘300억원대 사기’ 차가원 연예기획사 대표 구속영장 두 번째 기각</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/18/Q52X5EJDZVCSLDBU3SIC6EVZ7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/18/Q52X5EJDZVCSLDBU3SIC6EVZ7U/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 09:00:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSDSMLDGA4WGMJTHFTGGZJVMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차가원 원헌드레드 대표 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 300억원대 사기 혐의로 경찰이 신청한 연예기획사 원헌드레드 레이블의 차가원 대표 구속영장을 잇따라 기각했다. &lt;br&gt;&lt;br&gt;18일 법조계에 따르면 서울중앙지검은 서울경찰청 금융범죄수사대가 지난주 신청한 차 대표의 구속영장을 이날 기각하고 경찰에 돌려보냈다. 검찰은 이달 초에도 경찰이 신청한 차 대표의 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;검찰은 차 대표가 수백억원을 빼돌렸다고 인정할 만한 증거가 부족하다며 경찰의 첫 번째 구속영장을 기각하고 보완수사를 요구했다. 이후 경찰은 다시 차 대표의 구속영장을 법원에 청구해 달라고 검찰에 요청했지만, 검찰은 경찰이 보완수사를 거의 하지 않았다며 다시 사건을 돌려보낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;차 대표는 주식회사 노머스에 자신이 운영하는 연예기획사 소속 연예인의 지식재산권(IP)을 이용한 사업을 제안해 선급금 242억원을 받았지만, 실제 사업을 하지 않은 혐의를 받는다.&lt;br&gt;&lt;br&gt;또한 차 대표는 지인에게 ‘각자의 명의로 된 주택에 서로 전세 계약을 맺자’고 하고 보증금 54억원을 받았지만, 계약 이행을 하지 않은 혐의도 있다.&lt;br&gt;&lt;br&gt;그러나 검찰은 경찰이 지금까지 한 수사만으로는 차 대표가 노머스 등 피해자를 속일 의사가 있었는지 등을 입증하기 어렵다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이와 관련해 차 대표 변호인인 현동엽 법무법인 화금 변호사는 입장문을 내고 “경찰의 수사권 독점으로 인한 폐해가 여실히 드러났다”고 주장했다. 현 변호사는 “애초에 차 대표에 대한 고소 사실 자체가 범죄로 성립되지 않는데도, 경찰이 피의자를 구속하기 위해 위법한 수사를 한 것”이라면서 “방시혁 하이브 의장에 이어 서울경찰청의 반복적인 구속영장 신청 관행에 우려를 표시한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청 금융범죄수사대는 자본시장법상 사기적 부정거래 혐의를 받는 방시혁 의장에 대해서도 두 차례에 걸쳐 구속영장을 신청했지만 검찰은 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
