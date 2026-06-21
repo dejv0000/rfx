@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 6월 22일 월요일 (음력 5월 8일 丁卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/21/6GY3NXAXJJBYFNPUNMJN6QNGTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/21/6GY3NXAXJJBYFNPUNMJN6QNGTY/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>쯔양 협박해 2300만원 뜯어낸 변호사…법원 “7300만원 배상하라”</title>
       <link>https://www.chosun.com/national/court_law/2026/06/21/DQDGNVV44ZGVXOC73BLPX6VXXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/21/DQDGNVV44ZGVXOC73BLPX6VXXE/</guid>
@@ -915,15 +927,6 @@
       <description/>
       <pubDate>Thu, 18 Jun 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZWPTFTNYNBXXE6FBVKUMMU6CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 6월 19일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/06/18/R7L5BOHBUVDCNB7OJ5PLPNOX5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/18/R7L5BOHBUVDCNB7OJ5PLPNOX5U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 14:34:00 +0000</pubDate>
-      <content:encoded>금 - 전국 대체로 흐림&lt;br&gt;&lt;br&gt;토~일 - 토요일부터 차차 맑아짐&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EBS7GOMJZETHOZEE4WHIUYIPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[만물상] 한국병원이 세계 최고라는데....</title>
