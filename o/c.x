@@ -13,6 +13,103 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>쯔양 협박해 2300만원 뜯어낸 변호사…법원 “7300만원 배상하라”</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/21/DQDGNVV44ZGVXOC73BLPX6VXXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/21/DQDGNVV44ZGVXOC73BLPX6VXXE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 07:52:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSDIZTFMI3DGMZTMY3WEOJZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;먹방 유튜버 쯔양(본명 박정원). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먹방 유튜버 쯔양(본명 박정원)을 협박해 돈을 뜯어낸 혐의로 유죄가 확정된 변호사 최모씨가 쯔양에게 7310만원을 배상해야 한다는 법원 판결이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사90단독 김유성 판사는 쯔양이 최씨를 상대로 낸 손해배상 청구 소송에서 지난달 21일 “최씨는 쯔양에게 7310만원을 지급하라”며 원고 일부 승소 판결했다. 최 변호사가 “쯔양 측이 허위 사실로 내 명예를 훼손했다”며 낸 1000만원대 맞소송은 기각했다.&lt;br&gt;&lt;br&gt;쯔양의 전 소속사 대표 측 고문변호사였던 최씨는 앞서 2023년 4월 쯔양에게 과거 유흥업소 근무 경험 등을 폭로하겠다고 협박해 언론 대응 자문료 명목으로 2310만원을 뜯어낸 혐의(공갈) 등으로 기소됐다. 최씨는 쯔양의 탈세 의혹 관련 자료 등을 유튜브 채널 ‘가로세로연구소’ 측에 넘기고(개인정보보호법 위반), 이 사실이 언론에 보도되자 쯔양의 전 남자친구가 지시해 자료를 제공한 것처럼 허위 사실을 유포한 혐의도 받았다. 대법원은 지난 3월 최씨에게 징역 1년 6개월에 집행유예 2년을 확정했다.&lt;br&gt;&lt;br&gt;쯔양은 2024년 9월 최씨를 상대로 1억5000만원대 손해배상 소송을 냈다. 재판 과정에서 최씨 측은 “탈세 의혹 제보는 공익적 목적이 있었다”고 주장했다. 또 전 남자친구의 유서 내용을 공개한 데 대해서도 “쯔양 측이 먼저 의혹을 제기해 방어 차원에서 대응한 것일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;그러나 법원은 최씨 주장을 받아들이지 않았다. 1심 법원은 “관련 형사판결에서 최씨의 공갈 범행이 유죄로 확정된 만큼 특별한 사정이 없는 한 공갈로 얻은 2310만원을 배상할 의무가 있다”고 했다. 또 “쯔양의 개인정보를 제공한 데 정당한 목적이 있었다고 보기 어렵고, 해당 정보가 탈세 의혹과 직접 관련된다고 보기도 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;법원은 최씨가 쯔양 전 남자친구의 지시로 정보를 제공한 것처럼 말한 것도 허위사실 적시에 해당한다고 봤다. 김 판사는 “최씨의 발언은 단순히 자신에게 제기된 의혹을 정정한 것에 그치지 않고, 쯔양에게 망인의 사망에 대한 책임이 있다는 취지로 사회적 평가를 떨어뜨리는 내용을 포함하고 있다”고 했다.&lt;br&gt;&lt;br&gt;법원이 인정한 배상액은 공갈 피해액 2310만원, 쯔양의 유튜브·광고 수익 감소분 3000만원, 정신적 피해에 대한 위자료 2000만원 등 모두 7310만원이다. 재판부는 최씨 범행으로 쯔양의 사회적 명성과 이미지가 훼손됐고, 이로 인해 매출도 감소했다고 봤다. 다만 유튜브 수익에는 여러 변수가 영향을 미칠 수 있다는 점을 고려해 수익 감소분 전부를 인정하지는 않았다.&lt;br&gt;&lt;br&gt;최씨가 쯔양을 상대로 낸 맞소송은 기각됐다. 최씨는 “협박하거나 위협한 적이 없는데 쯔양 측이 허위 사실을 적시해 명예를 훼손했다”고 주장했지만, 법원은 “이미 공갈죄로 유죄가 확정됐다”며 이를 받아들이지 않았다. 최씨는 이 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“해외 발신 전화를 010으로” 불법 중계소 115곳 적발</title>
+      <link>https://www.chosun.com/national/incident/2026/06/18/Y2JVDNCFU5BQRMBXBF4TRD7DOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/18/Y2JVDNCFU5BQRMBXBF4TRD7DOY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Jun 2026 03:52:36 +0000</pubDate>
+      <content:encoded>보이스피싱·노쇼 사기 등을 위해 해외 인터넷 전화를 국내 010 번호로 바꿔준 번호 변조 중계소가 대규모로 적발됐다. &lt;br&gt;&lt;br&gt;경찰청은 지난달 12일부터 한 달간 번호 변조 조직을 집중 단속했다고 18일 밝혔다. 이 결과 불법 중계소 115곳에서 중계기를 설치, 관리한 84명이 검거됐다. 이 중 54명은 구속됐다. 경찰은 중계소에서 휴대폰·유심·심박스 등 번호 변조에 사용된 장비 총 5580개를 함께 압수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZTMOBZGZTDOZJVGYYGKOJQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 지난달 단속을 통해 압수한 심박스와 아이폰 단말들. 이들 장비는 해외 전화번호를 국내 010 번호로 바꾸는 데 사용됐다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들 중계소는 070 등으로 시작하는 해외 인터넷 전화 번호를 010으로 시작하는 국내 휴대폰 번호로 바꿔주는 곳이다. 해외 번호에 대해선 경각심이 높기 때문에 범죄 조직들이 국내 번호로 수사 기관이나 공공 기관을 가장해 피해자에게 접근하는 것이다. . &lt;br&gt;&lt;br&gt;이번 단속은 경찰청 전기통신금융사기 통합대응단과 KT의 협업으로 이뤄졌다. KT는 자체 개발한 인공지능(AI) 탐지 기술을 통해 사기에 사용됐을 가능성이 있는 번호와 위치 정보를 선별해 수색 범위를 좁혔다. 이를 전달받은 경찰이 현장에 출동해 단속하는 식이다. &lt;br&gt;&lt;br&gt;불법 중계소가 운영된 곳은 시내 오피스텔부터 야산까지 각양각색이었다는 것이 경찰 설명이다. 경찰은 이번 단속을 통해 010 번호 변조 장비를 대규모로 적발한 결과, 지난달 발생한 보이스피싱·노쇼 사기 피해가 4월 대비 각각 19%, 24% 감소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검거된 이들은 상당수가 20~30대였고, 고액 아르바이트 형식으로 가담한 이들이 적지 않은 것으로 조사됐다. 이들은 집이나 원룸 등에서 장비를 관리하고 유심을 교체하는 일을 맡았다. 경찰은 이들에게 전기통신사업법 위반 혐의를 적용하고, 실제 사기 범행과의 관련성이 확인되면 사기 공범으로도 수사할 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “고수익 아르바이트 명목으로 사설 중계소를 설치·관리하는 행위는 보이스피싱 공범으로 처벌될 수 있다”며 “이런 제안을 받으면 반드시 경찰에 신고해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“과밀 수용·정신질환자 증가에 매일이 전쟁터”…청주여자교도소 가보니</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/22/X3JXXYCTMRBGFNUK7X6QRDDK4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/22/X3JXXYCTMRBGFNUK7X6QRDDK4E/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L54CREDJ3ZH4NOW4MB3FORIYQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 충북 청주시 서원구 청주여자교도소에서 수용자 소란·난동 대응 훈련이 실시되고 있다./법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“네가 뭔데, 열 받네 진짜!”&lt;br&gt;&lt;br&gt;지난 17일 오후 충북 청주시 서원구 청주여자교도소. “접견 시간이 다 됐으니 서둘러 준비하라”고 교도관이 지시하자 복도로 나온 수용자가 “조금 늦는 것도 못 기다려 주냐”며 벽을 주먹으로 내리치고 고성을 지르기 시작했다. 교도관이 “진정하라”며 제지했으나 수용자는 “왜 폭행이야, 난 인권이 중요해. 저리 꺼져”라며 빗자루를 들고 교도관을 위협했다. 이내 삼단봉, 투명 방패와 검정색 철모로 무장한 기동순찰팀(CRPT) 5명이 출동해 수용자를 벽으로 몰아 넣고 수갑을 채워 3분 여 간의 대치 상황을 끝냈다.&lt;br&gt;&lt;br&gt;유사시 대응 훈련을 위한 가상 상황이었지만, 일선 교도관들은 “매일 같이 비슷한 난동이 벌어진다”고 했다. “귀신이 방에서 나가라고 한다”며 수차례 비상벨을 누르고 방 문을 주먹으로 치거나, 벽에 머리를 박는 등 자해 행동을 반복하는 경우도 있었다고 한다. 더 심각하게는 교도관들에 폭력을 행사해 얼굴에 상처를 내는 수용자도 있었다. 이처럼 교도소 내에서 발생한 폭행·자살 시도·금지 물품 반입 등 사건 사고 건수는 2016년 894건에서 2024년 1873건, 작년 1629건으로 약 2배 증가했다.&lt;br&gt;&lt;br&gt;교도소 내 사건 사고 건수가 늘어나는 원인으로는 과밀 수용 심화와 정신질환 수용자 수 증가가 꼽힌다. 청주여자교도소 관계자는 “날이 푹푹 찌는 여름철이 되면 불쾌감이 높아진 수용자들의 난동과 민원도 함께 증가한다”고 했다. 청주여자교도소의 정원은 619명이다. 그런데 현재 총 741명의 수용자가 이곳에서 생활하고 있다. 전국적으로 봐도 지난해 교도소 수용률은 125%였다. 이런 가운데 정신질환을 가진 수용자도 늘고 있다. 2016년 3296명이었던 정신질환 수용자는 지난해 6345명으로 2배 가까이 증가했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDAQ6KP6J5GSDECME7GTJHCVUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 청주여자교도소 수용자 체험에 참석한 기자들이 점심 식사를 하고 있다./법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기자는 직접 수용복을 입고 실제 수용자들이 생활하는 방도 둘러봤다. 약 5평(16.40㎡) 크기의 방에는 좌변기 하나 들어갈 정도 크기의 화장실과 싱크대, TV 1대, 선풍기 2대가 있었다. 신문지를 접어 만든 쓰레기통이 화장실 앞에 놓였고, 관물대엔 성경, 영양제, 안경, 수건 등 개인 물품이 수납돼 있었다. 수용자 4명이 함께 쓰는 방이라고 한다. 작업·훈련에 나가는 ‘출역 수용자’가 묵는 방이라 비교적 사정이 나은 편이지만, 작업·훈련에 나가지 않는 미지정 수용자가 묵는 방은 비슷한 크기에 8~12명이 묵는 일이 흔하다고 한다.&lt;br&gt;&lt;br&gt;수용자들의 하루는 오전 6시 30분에 시작된다. 인원 점검 후 아침 식사를 하고 각자 일정에 맞춰 작업을 나가거나 검정고시 수업, 상담, 운동 등 프로그램에 참여한다. 하루 일과는 대략 오후 5시쯤 마무리가 되는데, 이때부턴 방 밖으로 나올 수 없다. 취침 시간은 오후 9시쯤이다. 밤새 불은 꺼지지 않는다. 사고 방지를 위해 취침 시간 이후에도 사람 식별을 위한 최소한의 조도로 LED 등을 켜놓는다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLSZYIN2LJB6BN2WGTALCMEK24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 정성호 법무부 장관이 청주여자교도소를 방문해 수용자 체험에 참석한 기자들과 만나고 있다./법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 이날 청주여자교도소를 방문해 “수용자를 교화시켜 출소 후 재범하지 않도록 하는 것이 교정 시설의 기능”이라며 “과밀화 해소 등 교정 환경 개선을 통해 사회 안전을 제고할 수 있도록 전력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>월요일 전국 곳곳 소나기</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 07:36:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2GIMJTG42DOYTBGRRWGMRXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;돌풍과 벼락을 동반한 소나기가 내린 지난 14일 서울 종로구 광화문광장에서 시민들이 우산을 쓰고 발걸음을 옮기고 있다. / 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 22일은 전국 곳곳에 소나기가 내리겠다. 특히 제주 지역엔 최대 60㎜의 비가 내릴 것으로 전망된다.&lt;br&gt;&lt;br&gt;기상청에 따르면 22일 오후부터 저녁 사이 대기 불안정에 따라 전국 내륙을 중심으로 곳에 따라 소나기가 내리겠다. 수도권과 강원도를 중심으로는 우박이 떨어지는 곳도 있겠다. 예상 강수량은 서울·경기 내륙, 강원 내륙·산지, 대전·세종·충남 내륙, 충북, 전남 내륙, 전북 내륙, 대구·경북 서부 내륙, 경남 서부 내륙 5∼30㎜, 제주도는 20∼60㎜로 전망된다.&lt;br&gt;&lt;br&gt;아침 최저 기온은 16~21도, 낮 최고 기온은 21~29도로 예보됐다. 서울이 21~29도, 대전 19~28도, 광주 20~26도, 대구 19~26도, 부산이 20~24도를 기록하겠다. 미세먼지 농도는 전국이 ‘좋음’∼‘보통’으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>곡성 물놀이 체험장서 어린이 2명, 물에 빠져 심정지</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/21/KMEQ6TLIBNGXNOGECCRRFDA774/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/21/KMEQ6TLIBNGXNOGECCRRFDA774/</guid>
+      <dc:creator>곡성=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 07:25:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MJDTSE576UTZKSMB2CARY4VVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 곡성경찰서.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 곡성군의 한 물놀이 체험장에서 어린이 2명이 물에 빠져 심정지 상태로 병원에 긴급 이송됐다.&lt;br&gt;&lt;br&gt;21일 전남 곡성경찰서 등에 따르면 이날 오후 2시 42분쯤 전남 곡성군의 한 물놀이 체험장에서 남자 어린이 2명이 물에 빠졌다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 사고 현장에서 심정지 상태인 9세, 10세 아이 2명을 구조해 인근 병원으로 긴급 이송했다.&lt;br&gt;&lt;br&gt;경찰은 사고 현장 방범카메라(CCTV) 영상을 확보해 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6MJDTSE576UTZKSMB2CARY4VVE.jpg?auth=cc9a4b357e26e3911acd717227cd20bdf9ae1311e649b7c4259797bba2ed7f30&amp;smart=true&amp;width=601&amp;height=301" type="image/jpeg" height="301" width="601">
+        <media:description type="plain">전남 곡성경찰서.</media:description>
+        <media:credit role="author" scheme="urn:ebu">조선DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>부산서 승용차, 인도 보행자 덮쳐… 2명 숨지고 2명 다쳐</title>
+      <link>https://www.chosun.com/national/incident/2026/06/21/LWBWWJYADRALHE5UCAXHCZUKKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/21/LWBWWJYADRALHE5UCAXHCZUKKA/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 07:20:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CQB7ICNSZHXDHC7C6FIDZL34I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 부산 남구 한 도로에서 승용차를 몰던 70대가 낸 교통사고로 2명이 숨지고 2명이 다쳤다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 70대가 몰던 승용차가 인도를 덮쳐 보행자 2명이 숨졌다.&lt;br&gt;&lt;br&gt;21일 경찰과 소방 등에 따르면, 이날 오후 1시 8분쯤 부산 남구 대연동 한 도로에서 A(78)씨가 몰던 K7 승용차가 인도를 걷던 보행자 2명을 쳤다.&lt;br&gt;&lt;br&gt;이 사고로 현장에서 40대 여성이 숨졌다. 70대 여성도 심정지 상태로 인근 병원으로 옮겨졌지만 결국 숨졌다. 또 사고 파편에 맞거나 차량을 피하던 중 넘어져 10대와 30대 여성 등 2명도 각각 경상을 입고 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;사고 직후 승용차에서 불이 났지만, 신고를 받고 출동한 소방 당국이 곧바로 진화했다.&lt;br&gt;&lt;br&gt;운전자 A씨도 발목에 찰과상 등을 입고 인근 병원으로 이송됐다. 음주 상태는 아니었다고 한다. A씨는 “브레이크가 작동하지 않았다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 교통사고처리 특례법상 치사·상 혐의로 입건해 수사 중이다. 경찰 관계자는 “A씨의 운전 미숙 등으로 사고가 난 것으로 보인다”면서 “목격자와 방범 카메라(CCTV) 등을 토대로 정확한 사고 경위를 조사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잘난 척하는 인스타에 지쳤다...‘셋로그’에 빠진 MZ들</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/21/2MRTPCLSJNESPPOPQMF4E556EA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/21/2MRTPCLSJNESPPOPQMF4E556EA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 05:40:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYDN37KMPFDKFPRBYZ37PNCJLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;직장인 이혜준씨가 친구들과 일상을 공유 중인 셋로그 화면 모습./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“헤헤 주말 사치로 디저트 뿌시러 왔다!”&lt;br&gt;&lt;br&gt;주말이던 지난 20일 오전 10시. 서울 광진구에 거주하는 직장인 이혜준(27)씨는 카페에서 갓 산 마들렌을 3초짜리 영상에 담아 앱 ‘셋로그’에 올렸다. 곧장 “아침부터 당 충전 제대로네!” “아주 맛나 보인다” 등 친구들의 댓글이 달렸다. 이어 “달리기 대기 중” “하리보 주는 미용실 옴~!” 등 친구들의 일상도 짤막한 영상으로 올라왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25ILNZPUENEXJJIWE2SUB7NPLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;직장인 이혜준씨가 친구들과 일상을 공유 중인 셋로그 화면 모습./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 이씨는 약 두 달 전부터 친한 친구 4명과 이처럼 셋로그로 일상을 공유하기 시작했다. ‘셋로그’는 2~3시간 단위로 현재 각자의 모습을 있는 그대로 찍어 공유하는 플랫폼이다. 인스타그램 등 꾸밈이나 과시에 치중된 소셜미디어와 달리, 서로의 솔직한 모습을 공유하는 방식이라 인기다. 올해 2월 ‘뉴챗’이란 스타트업이 출시한 이 앱은 출시 3개월 만에 다운로드 50만건을 돌파했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44TOOJWGMZTSNTEME4TEOJYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;셋로그 랭킹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대부분의 MZ세대 셋로그 이용자들은 셋로그에 빠지게 된 이유로 ‘소셜 미디어 피로감’을 언급했다. 모두가 멋지고 아름다운 모습을 연출하듯 찍어 올리는 인스타그램보다, ‘찐친’들에게 있는 그대로의 나를 보여줄 수 있어 매력을 느끼게 됐다는 것이다. 이씨 역시 “인스타그램은 이미 너무 공개적인 공간이 되어버려 피로감이 크다”며 “결국 앱에 접속하는 순간 그다지 궁금하지도 않은 타인들의 소식에 무방비하게 노출된다는 점이 저를 지치게 만들었다”고 했다. &lt;br&gt;&lt;br&gt;친한 친구·지인들끼리만 일상을 공유할 수 있는 ‘폐쇄형 구조’라는 점도 셋로그의 매력 중 하나다. 최근 호주에서 워킹 홀리데이를 마치고 한국에 돌아온 박모(28)씨는 “프라이빗하게 내 일상을 공유할 수 있다는 점이 흥미로웠다”며 “애매하게 친한 사이의 시선을 의식할 필요 없이 진짜 내 사람들과 부담감 없이 간편하게 소통하고 싶은 마음을 (셋로그가) 충족시켜줬다”고 했다. &lt;br&gt;&lt;br&gt;셋로그를 통해 타인과 ‘함께 있는 느낌’을 받는다는 이들도 있었다. 인간관계에 피로함을 느끼면서도 동시에 역설적으로 외로움을 호소하는 이들에게 셋로그가 부담 없는 소통 창구 역할을 해주고 있는 셈이다. 서울 성북구에 거주하는 직장인 김지혜(26)씨는 현재 대학교 과 동기, 중·고등학교 동창, 애인 등 총 5개 모임에서 셋로그를 하고 있다. 김씨는 “친구들의 생생한 표정이나 목소리를 들으면 3초짜리 짧은 영상이지만, 카카오톡이나 DM보다 더 직접적으로 감정이나 생각이 전달되는 느낌”이라며 “평소 연락을 자주 하지는 못해도 시간별로 일상을 공유하다 보니 진짜 하루를 함께 살아간다는 생각이 든다”고 했다. &lt;br&gt;&lt;br&gt;전문가들은 ‘셋로그 신드롬’을 두고 소셜 미디어 피로감 외에도 ‘소속감’에서 안정감을 느끼는 한국적 감수성과 맞아떨어진 현상일 수 있다고 설명했다. 나진경 서강대 심리학과 교수는 “한국 사람들은 특정 집단에 소속됨으로써 안정감을 느끼는 경향이 강하다”며 “과거 공유 일기 유행과 유사하게, 특정 집단에 들어갔다는 안정감이 몇 시간 단위로 일상을 공유하게 만드는 요인”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/25ILNZPUENEXJJIWE2SUB7NPLQ.jpg?auth=22439f3ef1c9e63123c16f99645440298666f7e23366b996fb1c4f1a48fcfbab&amp;smart=true&amp;width=1280&amp;height=1676" type="image/jpeg" height="1676" width="1280">
+        <media:description type="plain">직장인 이혜준씨가 친구들과 일상을 공유 중인 셋로그 화면 모습./독자 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>고성 초도해변서 파도 휩쓸려...10대 1명 실종</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2026/06/21/I6FVKDPDHZFS3KTT5JQMBDNRTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/06/21/I6FVKDPDHZFS3KTT5JQMBDNRTQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 04:59:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3DIMBRGI3TGZJWGVSWKZBSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 고성 초도해변 일대 수색 중 속초해경.(속초해경 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 강원 고성군 초도해변에서 10대 남성이 높은 파도에 휩쓸려 실종돼 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;속초해양경찰서에 따르면 이날 오전 9시 40분쯤 고성군 초도해변에서 A(18)군이 바다에 휩쓸려 떠내려갔다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;A군은 당시 해변 인근에서 물놀이를 하던 중 갑작스럽게 밀려온 파도에 휩쓸린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받은 해경은 연안구조정과 구조대, 헬기 등을 현장에 급파해 수색 작업을 벌이고 있다. 현장에는 해경을 비롯해 육군, 소방, 고성군 관계자 등이 투입돼 해상과 해안가를 중심으로 실종자 수색을 진행하고 있다. &lt;br&gt;&lt;br&gt;사고 당시 동해중부 앞바다에는 풍랑경보가 발효 중이었으며, 파도 높이는 3~3.5ｍ에 달한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이우수 속초해양경찰서장은 “풍랑경보로 인해 높은 파도가 이어지면서 수색에 어려움이 있지만 가용 인력을 총동원해 실종자를 찾는 데 최선을 다하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;속초해경은 너울성 파도와 강풍 등으로 연안 사고 위험이 커지자 지난 20일 오전 9시부터 동해안 일대에 연안사고 위험예보 ‘주의보’를 발령한 상태다. &lt;br&gt;&lt;br&gt;해경은 기상 악화 시 해안가 접근과 물놀이를 자제해 달라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘나는 몰라요’의 가수 옥희 별세… 홍수환이 마지막 지켜</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/06/21/GDX57JDCFBAIBDHX3HMN2Y6RHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/06/21/GDX57JDCFBAIBDHX3HMN2Y6RHU/</guid>
+      <dc:creator>윤수정 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 02:30:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIBJ3SW7TNHPHMBJ3M2CWL2SJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 앨범 '전설을 노래하다'에 실린 가수 옥희의 모습. /예우회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;히트곡 ‘나는 몰라요’ ‘이웃사촌’ 등으로 1970년대를 풍미한 가수 옥희(73)가 20일 오후 암 투병 끝에 별세했다. 유족과 지인 등에 따르면 옥희는 그간 신장암 투병을 해왔고, 이날 경기 수원시의 한 호스피스 병동에서 남편 홍수환과 자녀들이 지켜보는 가운데 세상을 떠났다. 고인과 절친했던 가수 장미화는 21일 본지 통화에서 “전날 옥희 딸이 ‘엄마가 위독한데, 이모를 기다린다’고 전화를 해 면회를 갔고, 집에 돌아오자마자 옥희가 세상을 떠났다는 연락을 받았다”며 “면회 당시 옥희 노래들을 함께 들으며 귓속말로 우리 추억 이야기들을 해줬더니 잠시 상태가 호전됐었다. 며칠 더 시간이 있을 줄 알았는데, 너무 허망하고 마음 아프다”고 했다.&lt;br&gt;&lt;br&gt;옥희는 1953년 한국전쟁 도중 피란지인 부산에서 태어났고, 악극단 활동을 하던 부모 밑에서 자연스레 음악을 접했다. 휴전 후 가족과 함께 서울로 상경한 옥희는 배화여중 3학년 때 미8군쇼 무대로 처음 가요계 활동을 시작했다. 명동에서 의상실을 운영하던 고모의 소개로 가수 현미를 만나면서 쇼 공급업체를 소개 받은 것이 계기였다. &lt;br&gt;&lt;br&gt;일찍부터 해외로 향해 우리 가요계를 세계에 알린 개척 세대이기도 했다. 1968년 5인조 걸그룹 서울시스터즈의 리더를 맡아 홍콩, 중동, 캐나다 등 세계 각지를 누볐다. 당대 해외 가수들 사이에서도 꿈의 무대로 불리던 미국 라스베이거스 호텔 쇼에도 입성하면서 이들의 출연 소식이 현지 매체와 미국 빌보드지에도 소개됐다. 옥희는 생전 방송에서 당시를 “원조 K팝 스타였다”라고 회상했다.&lt;br&gt;&lt;br&gt;옥희의 전성시대는 귀국 후 솔로로 전향하면서 더욱 크게 열렸다. 출중한 외모와 뛰어난 가창력을 앞세운 그의 스타성에 유명 작곡가 김희갑의 멜로디가 더해진 노래 ‘나는 몰라요’(1974)가 MBC ‘10대 가수상’을 거머쥐었다. 이후 옥희는 ‘눈으로만 말해요’(1975) ‘어디에 있을 것 같아’(1976) ‘아 그날이’(1976) ‘이웃사촌’(1977) ‘두 손을 잡아요’(1977) 등 다수의 히트곡을 내며 인기를 이어갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4TAYZTME3TQNJVMU4WKYLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍수환(왼쪽) 옥희 / 사진출처=한지일 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1970년대 후반 옥희와 복싱 세계 챔피언 출신 홍수환과의 열애설이 세간을 떠들썩하게 만든 것도 당시 누리던 큰 인기를 반증한 장면이었다. 두 사람은 1977년 딸을 낳으며 동거 생활을 시작했지만 1년 만에 결별했고, 1995년 16년 만에 재결합하면서 대중에게 놀라움을 안겼다. 이후 두 사람은 2000년 ‘옥희&amp;amp;홍수환 찬양 앨범’을 내거나 자선음악회 무대에 함께 서며 돈독한 부부 사이를 드러냈다. 홍수환씨는 최근까지도 옥희의 곁에서 간병을 맡은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;옥희는 지난해 신장암 진단을 받은 후 투병 생활 중에도 노래와 무대의 끈을 놓지 않았다. 올해 3월에도 KBS1 음악방송 가요무대에 출연, 노래 ‘정열의 꽃’(원곡 가수 이금희)을 열창하며 노래 혼을 불태웠다. 장미화는 “가요무대 연습 도중 계속 상태가 안 좋아져서 주변에서 다 말렸지만 끝까지 무대를 고집했고, 출연 직후 응급실에 실려갔다”며 “암에 걸리기 전에는 자기 노래를 홍보하겠다며 전국 방방곡곡의 노래교실을 돌아다녔다. 그만큼 몸 바쳐 노래하는 열정적인 친구였다”고 회상했다. 옥희는 재작년 미8군 무대 출신들이 다수 포함된 원로가수 음악 동인 ‘예우회’와 함께 앨범 ‘전설을 노래하다’를 발매하기도 했다. 수록곡 ‘인생 열차’가 고인의 목소리로 취입한 마지막 노래가 됐다. &lt;br&gt;&lt;br&gt;빈소는 서울아산병원, 장례는 대한가수협회장으로 치러진다. 유족으로는 남편 홍수환씨와 1남 1녀가 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중앙선 넘어 사람 쳤는데 공소 기각…대법원 “운전자 처벌해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/21/7HBE65ERIFFEHALHEI4AQZET4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/21/7HBE65ERIFFEHALHEI4AQZET4M/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Jun 2026 02:30:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3WKNRVMQ4TQZJXMI2DCMLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙선을 넘어 반대편 골목길로 좌회전하던 화물차가 보행자를 들이받은 경우 ‘중앙선 침범 사고’로 운전자를 형사처벌할 수 있다는 대법원 판단이 나왔다. 사고가 난 지점이 반대 차선이 아닌 골목길 입구였더라도, 중앙선 침범이 사고의 직접 원인이 됐다면 교통사고처리특례법상 ‘12대 중과실’ 사고로 봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 천대엽 대법관)는 교통사고처리특례법 위반(치상) 혐의로 기소된 화물차 운전사 A(56)씨 사건에서 공소기각 판결을 내린 원심을 파기하고 사건을 대전지법으로 돌려보냈다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 6월 세종시의 편도 1차로 도로를 운전하던 중 좌회전이 금지된 구간에서 중앙선을 넘어 반대편 골목길로 들어가려다 사고를 냈다. 당시 반대편 차로에서 골목길로 이어지던 구간을 건너던 70대 여성을 화물차 앞 범퍼로 들이받았고, 피해자는 늑골 다발 골절 등 전치 28주의 중상을 입었다.&lt;br&gt;&lt;br&gt;1심은 A씨의 중앙선 침범 행위가 사고의 원인이라고 보고 금고 10개월에 집행유예 2년을 선고했다. 그러나 2심은 A씨 차량이 이미 중앙선을 넘어 좌회전을 마친 뒤 골목길 입구에 진입한 상태에서 사고가 발생했다며 공소기각 판결을 내렸다. 교통사고처리특례법은 자동차가 종합보험에 가입돼 있으면 업무상 과실치상 사고에 대해 형사처벌을 면제하고, 중앙선 침범이나 신호 위반 등 ‘12대 중과실’이 원인인 경우에만 처벌한다. 2심은 중앙선 침범 자체보다는 골목길에 들어가면서 전방주시를 제대로 하지 않은 과실이 사고 원인이라고 판단한 것이다. &lt;br&gt;&lt;br&gt;대법원에서 판결은 다시 뒤집혔다. 대법원은 “교통사고처리특례법이 중앙선 침범 사고를 중과실로 규정한 취지는 차량이 중앙선을 넘지 않고 정상적으로 운행할 것이라는 교통 관계자들의 신뢰를 보호하기 위한 데 있다”고 했다. 따라서 반대 차선 차량이 갑자기 중앙선을 넘어 자신 쪽으로 들어오지 않을 것이라고 믿고 걷는 보행자 역시 보호 대상에 포함된다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 특히 이 사고가 A씨가 중앙선을 넘어 좌회전을 시도하는 일련의 과정에서 발생했다는 점을 강조했다. 중앙선 침범으로 시작된 사고 위험이 이미 종료된 뒤 별개의 사고가 난 것이 아니라는 것이다. 대법원은 “원심 판결에 중앙선 침범과 교통사고 사이 인과관계에 관한 법리를 오해함으로써 판결에 영향을 미친 위법이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>남편의 차명 재산을 찾아내다</title>
       <link>https://www.chosun.com/national/court_law/2026/06/14/7LKVWSXRZBDF7BFSOC7YX5TMFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/14/7LKVWSXRZBDF7BFSOC7YX5TMFM/</guid>
@@ -793,51 +890,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피란길에 오른 메러디스 빅토리호에서 태어난 이경필(76)씨는 “안보에는 여야가 따로 있을 수 없다”며 “실물 자료 등을 더 보강해 이곳이 안보의 중요성과 기본을 생각하는 공간이 되길 바란다”고 했다. 당시 피란선에서는 5명의 생명이 태어났는데, 선원들은 전쟁의 비참함 속에서 태어난 희망의 상징인 아이들에게 한국인이 좋아하는 음식인 김치와 숫자를 붙였다. 이씨는 ‘김치 파이브(5)’로 불렸다. 이씨의 생일은 12월 25일이다.&lt;br&gt;&lt;br&gt;거제시는 흥남철수기념공원 개관과 함께 전 세계에 흩어져 있는 피란민과 후손들의 기억을 수집하는 ‘흥남철수 기억나눔터’도 운영한다. 당시의 기억이 세월과 함께 사라지기 전에 생존 피란민과 후손들의 목소리를 직접 기록으로 남기기 위함이다. &lt;br&gt;&lt;br&gt;참여 대상은 흥남철수작전을 직접 경험한 피란민과 그 후손, 참전 용사 후손 등이다. 시는 기억을 나눈 참여자들에게 감사의 뜻을 담아 거제 방문 기념품과 흥남철수기념관 평생 이용권, 개인 소장용 인터뷰 영상 촬영본 등을 제공할 계획이다.&lt;br&gt;&lt;br&gt;변광용 거제시장은 “흥남철수기념공원은 단순한 추모 공간을 넘어 인류애와 평화의 가치를 전하는 공간이 될 것”이라며 “전쟁의 아픔 속에서도 피어난 기적의 역사가 잊히지 않도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 서초구 반포미도1차아파트, 최고 49층 1743가구 단지로 재탄생</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/19/GELD6YCULNEJ7PPJUQCZ3I4OPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/GELD6YCULNEJ7PPJUQCZ3I4OPY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 01:16:55 +0000</pubDate>
-      <content:encoded>지은 지 39년 된 서울 서초구 반포미도1차아파트가 최고 49층 1743가구 단지로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5JG5DN575CQVL6CVZ53FYOUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;재건축 예정인 서울 서초구 반포미도1차아파트의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 18일 정비사업 통합심의위원회에서 이 같은 내용의 ‘반포미도1차아파트 재건축 사업 통합 심의안’을 통과시켰다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;반포미도1차아파트는 1987년 지은 단지다. 지하철 3·7·9호선 고속터미널역과 서울고속버스터미널, 서울성모병원 등이 인근에 있다.&lt;br&gt;&lt;br&gt;위원회를 통과한 심의안에 따르면, 반포미도1차아파트는 최고 49층 1743가구 단지로 재건축한다. 단지 내 공공 보행 통로 2개를 두어 인근 주민들도 서리풀공원에 쉽게 진입할 수 있도록 할 계획이다. 도서관·경로당·어린이집 등 시설도 만들어 인근 주민들에게 개방한다.&lt;br&gt;&lt;br&gt;한편 같은 날 위원회에서는 서울 용산구 ‘정비창 전면 제1구역 도시정비형 재개발사업 통합심의안’도 통과시켰다.&lt;br&gt;&lt;br&gt;서울 용산구 용산국제업무지구 인근에 있는 용산 정비창 전면1구역은 1호선 용산역, 4호선 신용산역이 주변에 있고, 한강대로변에 접해 있다.&lt;br&gt;&lt;br&gt;지금은 노후화한 저층 건물이 밀집한 지역인데, 이곳에 최고 24층 706가구 아파트와 오피스텔 624가구가 들어설 예정이다. 아파트 중 114가구는 임대주택으로 공급한다.&lt;br&gt;&lt;br&gt;아파트 1~2층에는 상가를 배치하고, 용산역 교차로 부근에는 오피스도 배치한다. 서울시 관계자는 “주거·업무 복합 단지로 조성한다는 계획”이라고 했다.&lt;br&gt;&lt;br&gt;서울 성동구 ‘성수1 주택 재건축 정비 사업 통합심의안’ 역시 같은 날 위원회를 통과했다.&lt;br&gt;&lt;br&gt;성동구 뚝섬역 인근에 있는 성수1구역은 2008년 정비 구역으로 지정됐지만, 준공업지역이라는 이유로 사업성이 부족해 장기간 사업이 정체했다. 지난해 서울시가 준공업지역 용적률 완화 등을 적용해 용적률을 230%에서 293%까지 올려 사업성을 확보했다.&lt;br&gt;&lt;br&gt;이에 따라 성수1구역 일대에는 최고 31층 290가구 아파트 단지가 들어설 전망이다. 아파트 단지는 담장 등을 설치하지 않는 ‘열린 단지’로 조성한다. 서울시 관계자는 “인근 주민들도 자유롭게 단지를 드나들 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국립한국해양대, 총장 직속 ‘해양 SMR 추진단’ 출범</title>
-      <link>https://www.chosun.com/national/regional/2026/06/19/VA3UL5LLGRAHFHX72IKVJGHSHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/19/VA3UL5LLGRAHFHX72IKVJGHSHA/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 01:24:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BHUTLSAR5HQXF6K7EVD5SXD2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립한국해양대는 지난 18일 해사대학관 KSA라운지에서 해양 SMR 추진단의 출범식을 열었다. /국립한국해양대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립한국해양대학교가 세계 최초로 해양 SMR(소형모듈원자로) 추진단을 출범했다. &lt;br&gt;&lt;br&gt;한국해양대는 지난 18일 해사대학관 KSA라운지에서 해양 SMR 추진단의 출범식을 열었다고 19일 밝혔다. 해양 SMR 추진단은 류동근 총장 직속 조직이다. 단장은 김종도 교수가 맡았다. &lt;br&gt;&lt;br&gt;국제해사기구(IMO)의 탄소중립(Net-Zero) 정책에 대응하는 차세대 해양에너지 생태계를 조성한다. 장기적으로는 국내 유일의 해양특성화 대학으로서 해양 원자력 연구·교육 인프라의 전문 교육 프로그램을 갖춘 국립한국해양대학교 교내에 UN 산하 해양 SMR 국제인증기구 유치가 목표다. &lt;br&gt;&lt;br&gt;SMR은 국내 첫 상용 소형 원전으로, 핵심 설비를 공장에서 미리 제작해 현장에서 조립하는 방식이어서 건설 기간과 비용을 줄일 수 있는 차세대 원전으로 꼽힌다. &lt;br&gt;&lt;br&gt;발전 용량과 크기를 줄인 만큼 폭발 위험이 현저히 낮아 안전성이 뛰어나며, 탄소를 배출하지 않아 친환경 선박을 위한 차세대 꿈의 에너지원으로 불린다. &lt;br&gt;&lt;br&gt;최근 정부는 국내 첫 상용 SMR 무대로 부산 기장군을 택했다. 기장군은 국내 원전 산업의 모태인 고리 원전이 위치한 핵심 거점이다.&lt;br&gt;&lt;br&gt;해양 SMR은 장거리 운항과 대용량 전력공급이 가능한 차세대 탈탄소 동력원으로 평가받는다.원자력업계의 안전 기술, 조선업계의 설계·건조 역량, 해양업계의 운용경험을 결집한 핵심융합기술로 떠오른다.&lt;br&gt;&lt;br&gt;류동근 총장은 “해양 SMR 추진단은 대한민국의 미래를 여는 국가적 프로젝트이며 글로벌 해양원자력 허브로 도약하는 중대한 신호탄이 될 것”이라며 “앞으로 UN 산하 국제인증기구 설립을 성공적으로 이끌 수 있도록 역량을 집중하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘관저 이전 봐주기 감사’ 감사원 간부 구속영장 기각...법원 “혐의 다툼 여지”</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/19/T5HNXGHDSFG3LLCNI4RLCY6XYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/19/T5HNXGHDSFG3LLCNI4RLCY6XYU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 00:52:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QGFTNCATFJ3DN45FONYLINB4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[서울=뉴시스] 홍효식 기자 = 허위공문서작성 등 혐의를 받는 감사원 3급 공무원 손 모 씨(가운데)가 18일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.06.18. yesphoto@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 정부 ‘대통령 관저 이전 의혹’ 감사 과정에서 김건희 여사와 친분이 있는 인테리어 업체의 불법 수주 정황을 은폐한 혐의를 받는 감사원 간부에 대한 구속영장이 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 서울중앙지법 이종록 영장전담 부장판사는 전날 허위 공문서 작성 등의 혐의를 받는 현직 감사원 간부 손모씨의 구속 심사를 진행한 뒤 영장을 기각했다. 이 부장판사는 “범죄 혐의에 대한 소명 정도와 이에 대한 다툼의 여지, 수사 경과 등에 비춰 구속해야 할 사유나 상당성을 인정하기 어렵다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;2024년 9월 대통령 관저 이전 의혹 감사단장이었던 손씨는 김건희 여사와 친분이 있는 업체인 21그램이 증축을 포함한 전체 공사를 실질적으로 주도했다는 정황을 감사 결과 보고서에서 축소하거나 누락한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 보고서에는 대통령직인수위원회와 대통령 비서실이 2022년 4월 외교부 장관 공관을 관저 이전 대상지로 정하고, 인테리어 시공 업체로 21그램을 선정했다는 내용 등이 담겼다. 또 이후 증축 공사가 필요해지자 종합건설업 면허를 가진 원담종합건설이 참여해 공사가 진행됐다고 기재됐다.&lt;br&gt;&lt;br&gt;그러나 권창영 2차 종합특별검사팀은 대통령실이 종합건설업 면허를 보유한 원담종합건설을 내세워 형식상 적법한 구조를 갖춘 것처럼 보이게 했지만, 실질적으로는 21그램이 공사를 수행하고 공사 대금도 받은 것으로 의심하고 있다. 특검은 감사원 역시 이런 정황을 확인할 수 있었는데도 감사 보고서에 의도적으로 뺐다고 보고 수사를 벌여왔다. 특검은 법원이 제시한 영장 기각 사유를 검토한 뒤 손씨에 대한 구속영장 재청구 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>자전거도로서 픽시 자전거 타면 과태료…자전거법 개정안 국회 본회의 통과</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/19/UKJQY3DBVNCSJA22QFR3M3KBRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/UKJQY3DBVNCSJA22QFR3M3KBRY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 01:05:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZWIJBP5SBK2JFEZFVCQ66O3FU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 2월 서울 반포 한강공원에서 시민들이 자전거를 타고 있는 모습. 기사와는 관련 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로는 자전거 도로에서 브레이크가 없는 이른바 ‘픽시 자전거’를 타면 최고 50만원 과태료가 부과될 전망이다.&lt;br&gt;&lt;br&gt;행정안전부는 지난 18일 이 같은 내용의 ‘자전거 이용 활성화에 관한 법률(자전거법)’ 개정안이 국회 본회의를 통과했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;픽시 자전거는 페달과 뒷바퀴가 함께 회전하는 방식의 자전거다. 청소년을 비롯해 일부 이용자가 브레이크를 제거한 채 도로를 달렸는데, 브레이크가 없는 만큼 일반 자전거보다 제동 거리가 5.5~13.5배 길어져 사고 위험이 크다는 지적이 잇따랐다.&lt;br&gt;&lt;br&gt;기존 자전거법은 자전거를 ‘제동장치가 있는 것’으로 규정해, 픽시 자전거는 관리 대상에서 벗어나 있었다. 이에 법을 개정해 픽시 자전거를 관리 대상으로 포함시키고, 단속 근거를 마련한 것이다.&lt;br&gt;&lt;br&gt;자전거법 개정안은 자전거 정의에 픽시 자전거를 포함시켰고, 자전거에는 브레이크를 부착해야 한다는 의무를 명시했다. 행안부 관계자는 “경륜장 같은 일부 장소에서는 브레이크 없는 자전거도 예외적으로 운행할 수 있도록 했다”고 했다.&lt;br&gt;&lt;br&gt;이러한 안전 요건에 맞지 않게 자전거를 개조하면 6개월 이하 징역이나 500만원 이하 벌금에 처한다. 안전 요건에 맞지 않는 자전거를 타고 자전거 도로를 달리면 최고 50만원 과태료를 부과한다.&lt;br&gt;&lt;br&gt;행안부는 자전거법 주요 개정 사항을 안전 교육 내용에 추가하고, 경찰청과 함께 홍보·단속을 추진할 계획이다.&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관은 “이번 법 개정은 아이들과 시민들이 자전거 도로 위에서 생명을 위협받는 일을 방지하기 위한 것”이라며 “안전한 자전거 이용 환경 조성에 적극 협조해 주시길 당부한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “김건희 디올백, 尹 직무 관련”…청탁금지법 위반 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/19/CEHL7U56PBF7LP3JMG552RFDDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/CEHL7U56PBF7LP3JMG552RFDDA/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 23:52:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DSNDDG4YDSNZRG5SWGMRZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./서울중앙지방법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김건희 여사의 ‘디올백 수수 의혹’과 관련해 윤석열 전 대통령에게 청탁금지법 위반 혐의를 적용해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경찰청 3대 특검 인계 사건 특별수사본부는 지난 9일 윤 전 대통령을 청탁금지법 위반 혐의로 서울중앙지검에 불구속 송치했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 김 여사가 2022년 6월 최재영 목사로부터 받은 540만원 상당의 디올 가방이 당시 대통령이던 윤 전 대통령의 직무와 관련성이 있다고 판단한 것으로 전해졌다. 윤 전 대통령이 해당 금품 수수 사실을 알고도 감사원 등에 신고하지 않았다는 점도 청탁금지법 위반에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;다만 경찰은 윤 전 대통령에게 뇌물수수 혐의는 적용하지 않았다. 윤 전 대통령 부부가 금품 수수를 사전에 공모했다고 볼 만한 증거는 충분하지 않다고 판단한 것이다.&lt;br&gt;&lt;br&gt;김 여사는 디올백과 반클리프 아펠 목걸이, 금거북이 등을 받고 인사·이권 청탁에 관여한 혐의로 현재 1심 재판을 받고 있다. 앞서 민중기 특검은 김 여사에게 징역 7년 6개월을 구형했다. 선고는 다음 달 26일 오후 2시로 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내년도 최저임금, 업종 구분 없이 똑같이 적용된다</title>
       <link>https://www.chosun.com/national/labor/2026/06/18/KPR6CXTFLRFILJUIMEBASYBTHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/18/KPR6CXTFLRFILJUIMEBASYBTHE/</guid>
@@ -854,51 +906,6 @@
       <description/>
       <pubDate>Thu, 18 Jun 2026 15:46:00 +0000</pubDate>
       <content:encoded>올해 이른 무더위가 기승을 부리면서 온열 질환자가 벌써 300명을 넘어섰다. 지난해 같은 기간과 비교하면 환자가 1.5배 이상 늘어났다. 온열 질환은 열 때문에 발생하는 급성 질환이다. 통상 두통이나 어지럼, 근육 경련, 의식 저하 등의 증상이 나타나며, 방치하면 생명이 위태로울 수 있다. &lt;br&gt;&lt;br&gt;18일 질병관리청에 따르면, 바로 전날인 17일까지 응급실을 찾은 온열 질환자는 307명으로 집계됐다. 질병청은 지난달 15일부터 전국 516개 응급실 운영 의료기관과 함께 온열 질환 감시 체계를 가동하고 있는데 불과 한 달 사이 300명 넘게 온열 질환으로 응급실을 찾은 것이다. 지난해 같은 기간(201명)보다도 국내 온열 질환자가 52.7% 증가했다. 지난해 온열질환자 수가 300명을 처음 넘긴 날짜가 6월 27일인 점을 감안하면, 올해는 이보다 열흘 가량 빨라진 셈이다.&lt;br&gt;&lt;br&gt;온열 질환자가 일찍부터 많이 발생한 이유는 그만큼 더위가 빠르게 찾아왔기 때문이다. 18일 서울에는 올해 첫 폭염 주의보가 내려졌는데, 이는 지난해보다 12일 앞당겨진 것이었다. 폭염 주의보는 일 최고 체감 온도가 33도 이상인 상태가 이틀 이상 지속할 것으로 예상되면 내려진다. 올해 온열 질환자들을 살펴보면, 3명 가운데 1명꼴(30.0%)로 65세 이상 고령자였다. 성별로는 남성이 214명(69.7%)으로 여성(30.3%)의 2배가 넘었다. &lt;br&gt;&lt;br&gt;더위가 기승을 부리면서 장염 환자도 빠르게 치솟고 있다. 질병청에 따르면, 장염 표본 감시 결과 6월 둘째 주 장염 환자가 827명으로 집계됐다. 이는 지난해 같은 기간(482명)의 1.7배 수준이다. 여름철이 되면 기온·습도 상승으로 장염의 원인인 세균과 바이러스가 번식하기 쉬운 환경이 만들어지는데, 이른 무더위로 인해 올해 환자가 급증했다는 분석이 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>피란민 구한 ‘크리스마스 기적’… 거제 흥남철수 기념공원서 한눈에</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/19/65DKBEKQZREQ3HWGPNPPTFIGDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/19/65DKBEKQZREQ3HWGPNPPTFIGDY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H46NGGMZPVCEJAJZSHED6DWHQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 17일 경남 거제시 옛 장승포항 여객선 터미널에 조성된 ‘흥남철수기념관’에서 1950년 흥남 철수 작전 당시 피란선에서 태어난 이경필씨가 기념관을 소개하고 있다. 흥남 철수 작전은 6·25전쟁 당시인 1950년 12월 15일부터 12월 24일까지 흥남에서 미군 10군단과 대한민국 육군 1군단 10만여 명, 피란민 10만여 명이 철수한 작전이다. 이씨 뒤에 있는 스크린엔 흥남 철수 작전 당시를 묘사한 영상이 나오고 있다. 이씨는 1950년 당시 피란선에서 태어난 신생아 다섯 명 중 다섯 번째로, ‘김치 5호’라는 별명을 얻었다고 한다. 기념관은 오는 26일 개관식을 하고 27일부터 시민들에게 개방된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아시아기자협회 제7기 이사 위촉</title>
-      <link>https://www.chosun.com/national/people/2026/06/19/JRM3ZK6BGNBRFJBKVJZEX53T2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/19/JRM3ZK6BGNBRFJBKVJZEX53T2E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 15:43:00 +0000</pubDate>
-      <content:encoded>아시아기자협회(AJA·이사장 이기우)가 제7기 이사회를 구성했다고 18일 밝혔다. 최재천 이화여대 석좌교수, 유현준 홍익대 교수, 이상묵 서울대 교수(이상 학계), 남경필 마약예방치유단체 은구(NGU) 대표, 배기선 김대중재단 사무총장, 오지철 하트하트재단 회장, 김근상 성공회 주교(공공·시민사회)가 이사진에 참여한다. 김재철 대전일보 대표이사 발행인, 고명진 영월미디어기자박물관 관장, 손주은 메가스터디그룹 회장(언론·교육), 라정찬 네이처셀 회장, 박병호 아이호성형외과 원장, 김혜란 신안이노베이션 대표, 윤석호 넥스트에너지 대표이사, 이준우 삼우 대표이사, 이진형 HDM시스템 대표이사(산업), 한영용 큰기와집 대표(문화)도 합류했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 한미전략투자공사</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/06/19/N5M3PRJFAJCLLHPW2UOOAFMY2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/06/19/N5M3PRJFAJCLLHPW2UOOAFMY2Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;한미전략투자공사&lt;/b&gt;◇신임 이사▷경영기획본부장 강종석▷전략투자본부장 김경한&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/06/19/LSOU3GMUWBGW7MK7SHMENY4GGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/06/19/LSOU3GMUWBGW7MK7SHMENY4GGE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWA7QBQYBNHLZOT6F47YUJDI6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-6-19일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 12일 ‘우리 아기가 태어났어요’ 코너에 실린 김선우&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 홍으뜸·유병규 아들 재인 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/19/URVKFMMDXBCMNNL5NILGWHB4JQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/19/URVKFMMDXBCMNNL5NILGWHB4JQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6I6L5TPMZC3JPMPX6LD7QTJUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[매일매일 중국어 한마디] 최소 주문 수량</title>
