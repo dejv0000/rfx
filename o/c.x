@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[리빙포인트] 방충망 청소에 올 나간 스타킹</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/22/DYUIITNIAJBWPBB3QW33ZWLERM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/22/DYUIITNIAJBWPBB3QW33ZWLERM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jun 2026 14:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLTZ5UAGHZEVJFDYUL7JQERKVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방충망 청소할 때 올이 나간 스타킹을 활용해보자. 스타킹으로 쓸어주면 방충망 사이사이에 낀 먼지가 잘 들러붙어 쉽게 청소할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 6월 23일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/06/22/AMKLMEXZF5ELBK7KL7OGGS4HHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/22/AMKLMEXZF5ELBK7KL7OGGS4HHQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jun 2026 14:34:00 +0000</pubDate>
+      <content:encoded>맑고 쾌청한 중부지방&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIHID3TUTVFSZLHGPEN3RJXBHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘더글로리’ 같은 학폭이 천안에… 6명에게 맞은 학생, 긴급 수술</title>
+      <link>https://www.chosun.com/national/regional/2026/06/22/CNLMRCXDZNFARCBDQ35OHGXVPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/22/CNLMRCXDZNFARCBDQ35OHGXVPY/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jun 2026 11:27:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRV465EH4OB3DC4OO3DLDRVE5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안서북경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안시에서 고등학생 6명이 동급생을 폭행한 사건이 발생해 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;천안 서북경찰서는 22일 동급생을 폭행한 고등학교 2학년생인 A(17)군 등 6명을 폭력행위 등 처벌에 관한 법률 위반(공동상해·공동폭행) 혐의로 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 A군 등은 지난달 18일 오후 11시쯤 천안시 두정동 한 노래방 안에서 동급생 B군을 여러 차례 때린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 인근 주차장으로 자리를 옮겨 B군을 또다시 폭행한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B군은 머리 부위를 크게 다쳐 긴급 수술을 받았고, 현재는 퇴원한 상태에서 치료 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 범행을 주도하거나 적극적으로 가담한 3명에 대해서는 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>질병청, 전국에 말라리아 주의보 발령</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/06/22/LAZKDOFYKRBXLAYOTTZV67A5LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/22/LAZKDOFYKRBXLAYOTTZV67A5LQ/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jun 2026 11:27:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TDENJYMU2TAOBVMEZTENJXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;말라리아를 옮기는 아시아 얼룩날개모기(Anopheles stephensi)./미 CDC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;질병관리청이 22일 전국에 말라리아 주의보를 발령했다고 밝혔다.&lt;br&gt;&lt;br&gt;말라리아 주의보는 하루 평균 모기 지수(한 대의 채집기에 채집된 모기 수)가 0.5 이상인 시군구가 3곳 이상일 때 발령된다. 질병청은 6월 둘째 주 기준 경기 파주시(0.8), 인천 강화군(1.0), 강원 양구군(0.7), 서울 구로구(0.5)에서 모기 지수가 0.5를 넘어섰다고 밝혔다. 시기적으로 올해 주의보는 지난해와 같은 때에 내려졌다.&lt;br&gt;&lt;br&gt;올해 1월부터 지난 13일까지 국내 말라리아 환자는 총 74명이다. 지난해 같은 기간보다 45.6% 감소했다. 지역별로 보면 경기에 43명, 인천에 17명, 서울에 8명 등이 각각 발생했다.&lt;br&gt;&lt;br&gt;역학조사 결과 주요 추정 감염 지역은 경기(파주시·연천군·김포시·고양시 일산서구), 인천(강화군)으로 확인됐다고 질병청은 전했다.&lt;br&gt;&lt;br&gt;말라리아 전파를 방지하려면 모기 방제와 물림 예방, 빠른 진단·치료가 필수적이다. 지방자치단체와 소독 의무 대상 시설은 유충 서식지와 성충 휴식처에 종합 방제를 실시해 모기 밀도를 낮추고, 위험 지역 내 의료기관은 37.5도 이상 발열 환자에게 말라리아를 의심하고 적극적으로 검사해야 한다.&lt;br&gt;&lt;br&gt;말라리아를 예방하려면 모기가 활발하게 활동하는 4∼10월 야간에 야외 활동을 자제해야 한다. 야간 외출을 할 때는 밝은 긴 소매와 긴 바지를 착용하고, 모기 기피제를 얼굴 주변을 피해 3∼4시간 간격으로 뿌려야 한다.&lt;br&gt;&lt;br&gt;실내 모기 침입 예방을 위해 방충망을 정비하고 모기장을 사용하며, 실내 살충제를 적절히 사용하는 것이 좋다. 말라리아 위험 지역에 거주하거나 여행이나 군 복무 등 방문 후에 의심 증상이 나타나면 가까운 보건소나 의료기관을 방문해 진료받아야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안양 난임병원서 숨진 연구원… 국과수 “질식사 추정”</title>
+      <link>https://www.chosun.com/national/regional/2026/06/22/TGJ6C7LYCZCXXK7FK5ZDKKVZUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/22/TGJ6C7LYCZCXXK7FK5ZDKKVZUM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jun 2026 10:02:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQWCNBUGU2WGMRUMVRGGMJXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안양 동안경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 안양시의 한 난임병원에서 숨진 20대 연구원의 사인이 질식사로 추정된다는 국립과학수사연구원(국과수) 1차 부검 소견이 나왔다.&lt;br&gt;&lt;br&gt;경기 안양 동안경찰서는 사망한 20대 여성 A씨에 대한 부검 결과 국과수로부터 “질식사로 추정된다”는 내용의 1차 구두 소견을 전달받았다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;국과수는 A씨가 외부 충격보다는 산소 부족으로 질식에 이르렀을 가능성이 있다는 취지의 의견도 함께 제시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 4시쯤 안양시 동안구의 한 난임병원 내 약 6㎡ 규모 의료용 가스통 보관 창고에서 의식을 잃은 채 발견됐다. A씨는 곧바로 인근 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;사고가 발생한 창고는 별도의 화학 처리가 이뤄지는 공간은 아니었으며, 내부 온도 등에서도 특이사항은 확인되지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 가스 누출 가능성 등을 포함해 정확한 사망 경위를 조사하는 한편 병원 측의 안전수칙 준수 여부도 살펴볼 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사인은 국과수의 최종 부검 결과가 나와야 확인할 수 있을 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BTS 정국 자택 침입한 브라질 여성, 1심서 징역형 집행유예</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/22/V4DWE6BX7FFLTKC32RZDMRIQWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/22/V4DWE6BX7FFLTKC32RZDMRIQWU/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jun 2026 10:47:15 +0000</pubDate>
+      <content:encoded>방탄소년단(BTS) 멤버 정국의 집을 반복해 찾아가고 침입한 브라질 국적의 여성이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZGGZRTMM2DMZDBGQ2DIYZXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS) 정국. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 형사1단독 박지원 판사는 스토킹처벌법 위반과 주거침입 혐의로 구속기소된 브라질 국적 여성 A씨에게 지난달 8일 징역 1년에 집행유예 2년을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 7일부터 약 한 달간 서울 용산구에 있는 정국의 집에 22번 찾아가 기다리고 초인종을 누른 혐의를 받는다. 같은 달 12일에는 133회에 걸쳐 초인종을 눌렀고, 다음 날에는 배달 라이더가 나오는 틈을 타 쪽문을 통해 정국의 집에 몰래 침입했다.&lt;br&gt;&lt;br&gt;지난해 12월 13일 A씨는 현행범으로 체포됐지만, 접근 금지 경고를 받고도 범행을 이어갔다. 결국 같은 달 28일 경찰로부터 100m 이내 접근을 금지하는 ‘긴급응급조치’를 받았지만, 지난 1월 정국의 집 근처에 다시 방문해 범행을 저질렀다.&lt;br&gt;&lt;br&gt;재판부는 “피해자 주거지 근처에도 가지 말라는 경고를 받고 석방된 후에도 스토킹 범죄를 저질렀다”며 “피해자가 피고인에 대한 엄벌을 원하고 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 긴급응급조치 불이행의 정도가 가벼운 편이고, 정국에게 해를 가할 목적이 있었던 것으로 보이지는 않는다는 점을 유리한 사정으로 참작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘성추행에 스토킹까지’… 성 비위 의혹 얼룩진 경남 경찰 </title>
+      <link>https://www.chosun.com/national/2026/06/22/GAVQPVMXWVAFNG2DC4AOADDYLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/06/22/GAVQPVMXWVAFNG2DC4AOADDYLI/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Jun 2026 09:40:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2UHLFNLK5F2HL5PEECMJGOMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운·chatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 한 일선 경찰서에서 함께 근무하는 경찰들이 성 비위 의혹으로 감찰 조사를 받고 있다. 이들은 현재 피해자와 분리돼 대기발령된 상태다. &lt;br&gt;&lt;br&gt;22일 경남경찰청에 따르면, 이달 중순쯤 경남 일선 경찰서 과장급 간부인 50대 A씨가 여성 경찰관을 추행했다는 피해 신고가 경찰청 ‘성희롱·성폭력 신고센터’를 통해 접수됐다. 비슷한 시기 또 같은 경찰서 소속 40대 B씨가 관할 지구대 소속 여성 경찰관을 스토킹했다는 의혹도 제기된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰청은 신고센터를 통해 두 건의 의혹을 접수하고, 직접 감찰 조사를 벌이는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경남경찰청은 A씨 등 두 사람을 피해자 보호와 2차 피해 방지를 위해 대기발령하고, 피해자들과 분리 조치한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경남경찰청 관계자는 “조사는 본청에서 이뤄지고 있으며, 피해 내용에 대해서는 확인해 줄 수 없다”며 “조사 결과에 따라 의혹 내용이 사실일 경우 A·B씨에 대한 징계 절차를 밟을 방침”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울시, 지하철 무임승차 70세로 상향·버스도 포함 추진</title>
       <link>https://www.chosun.com/national/national_general/2026/06/22/KU6XUUCJWVCWNHLJNTDUGMXSCY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/22/KU6XUUCJWVCWNHLJNTDUGMXSCY/</guid>
@@ -456,15 +519,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFTWVRREKJK6PLO3UIERKUUZYY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 옥희(본명 김광숙)의 빈소가 21일 오후 서울 송파구 서울아산병원 장례식장 22호에 마련되있다. 옥희는 20일 오후 암 투병 끝에 별세했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘나는 몰라요’(1974) ‘이웃사촌’(1977) 등을 부른 가수 옥희(73)가 20일 오후 신장암 투병 끝에 별세했다. 21일 가수 장미화는 본지 통화에서 “옥희가 경기도 수원의 한 호스피스 병동에서 남편 홍수환(전 복싱 세계 챔피언)씨와 자녀들이 지켜보는 가운데 세상을 떠났다”고 전했다.&lt;br&gt;&lt;br&gt;부산 출신인 고인은 중 3때부터 미8군 쇼 무대에 섰다. 1968년 걸그룹 서울시스터즈 리더로 활동하며 미국·캐나다 무대에도 섰다. 귀국 후 솔로로 전향했다. 장례는 대한가수협회장으로 치러지며, 유족으로는 남편 홍수환과 1남 1녀가 있다. 빈소는 서울아산병원, 발인은 24일 오전 11시.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [산 이야기] “산 전체를 비단으로 감싸겠다”… 약속 지키려 이름에 ‘비단 금’ 넣었대요</title>
-      <link>https://www.chosun.com/national/nie/2026/06/22/GHDHTOJU55BXNK6N5RNG2ADWNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/22/GHDHTOJU55BXNK6N5RNG2ADWNA/</guid>
-      <dc:creator>신준범 월간 산 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Jun 2026 15:40:00 +0000</pubDate>
-      <content:encoded>경남 남해군의 금산은 푸른 파도 위에 신비로운 바위 성을 지어놓은 것 같은 모습으로 유명합니다. 원래는 보광산이라 불렸죠. 이 산이 지금의 이름을 갖게 된 건 조선을 세운 태조 이성계의 건국 이야기로 거슬러 올라갑니다.&lt;br&gt;&lt;br&gt;왕이 되고 싶었던 이성계는 전국의 명산을 찾아다니며 기도를 올렸습니다. 백두산과 지리산도 찾았지만 별다른 효험(어떤 일의 좋은 결과)을 보지 못하자, 마지막으로 남해의 보광산을 찾아와 100일 기도를 드리게 됩니다. 이때 그는 “내가 왕이 된다면 이 산 전체를 온통 비단으로 감싸겠다”는 약속을 산신령에게 바쳤다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCDQTUSGFZBPNHZFI3RI52CF5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 남해군 금산에서 바라본 일출 모습입니다. /남해군청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마침내 조선을 세운 이성계는 약속을 지켜야 했습니다. 하지만 나라의 비단을 모두 모아도 거대한 산 전체를 천으로 두르는 것은 불가능한 일이었습니다. 고민에 빠진 이성계에게 신하들이 한 가지 묘안을 냈습니다. 바로 ‘비단 금(錦)’ 자를 써서 산 이름을 금산(錦山)으로 바꿔주는 것이었습니다. 이성계는 만족해하며 신하들의 의견을 받아들였죠. 산에 영원히 변하지 않는 아름다운 비단옷을 글자로 입혀 은혜를 갚은 셈입니다.&lt;br&gt;&lt;br&gt;금산 정상 부근에 있는 사찰인 보리암은 강원도 양양 낙산사 홍련암, 인천 강화도 보문사와 함께 ‘한국 3대 기도처’로 손꼽힙니다. 선조들은 바다의 끝없는 넓이와 깊이가 관세음보살의 자비로움과 닮았다고 믿었는데요. 보리암은 성벽처럼 둘러친 금산의 절벽 끝에서 바다를 정면으로 내려다보고 있습니다. 바다가 시원하게 내려다보이는 보리암을 명당으로 꼽은 것이죠. 지금도 수능 시즌이 되면 100일 기도를 위해 학부모들이 몰려든답니다. &lt;br&gt;&lt;br&gt;남해 금산은 1980~1990년대 문학을 사랑하던 청년들에게도 인기가 많았습니다. 이성복 시인이 1986년에 발표한 ‘남해 금산’이라는 시 덕분입니다. 바위가 많은 금산을 빌려 가슴 아픈 사랑의 감정을 절절하게 표현한 시죠. ‘어느 여름 비 많이 오고/그 여자 울면서 돌 속에서 떠나갔네/떠나가는 그 여자 해와 달이 끌어주었네/남해 금산 푸른 하늘가에 나 혼자 있네’&lt;br&gt;&lt;br&gt;금산은 정상 부근의 보리암까지 도로가 있어 차량으로 올라갈 수 있는 관광지인데요. 최근 금산은 ‘컵라면 성지’로도 손꼽힌답니다. 보리암에서 조금 더 올라가면 금산산장이 있고 이곳에서 컵라면을 팝니다. 바다를 보면서 먹는 컵라면 사진을 소셜미디어에 올리는 유행이 생기기도 했답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재밌다, 이 책] 2000개 넘는 커리처럼 다양한 인도… 새 문화 흡수하는 ‘스펀지’ 같은 나라죠</title>
       <link>https://www.chosun.com/national/nie/2026/06/22/B2MZL6HVWFECHALEPK55QCNRTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/22/B2MZL6HVWFECHALEPK55QCNRTY/</guid>
@@ -635,67 +689,6 @@
       <description/>
       <pubDate>Sat, 20 Jun 2026 01:36:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EE43Q6N4XQJJXZWA4N4QPINN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한의 조선중앙TV 내용을 과도하게 보도했다는 등의 이유로 통일티브이(통일TV)의 방송채널사용사업자(PP) 등록을 취소한 처분은 위법하다는 법원 판단이 항소심에서 유지됐다.&lt;br&gt;&lt;br&gt;서울고법 행정6-1부(재판장 김민기)는 지난 10일 통일TV가 방송미디어통신위원회를 상대로 제기한 ‘방송채널사용 사업등록 취소 처분 취소 청구 소송’에서 원고 승소로 판결했다. &lt;br&gt;&lt;br&gt;통일TV는 2021년 8월 과학기술정보통신부(과기부)로부터 특수자료 취급을 인가받고, 2022년 7월 통일 공감대 확산 등에 필요한 프로그램 제작을 위해 북한의 조선중앙TV 방송 내용 일부를 편집, 가공하겠다는 내용의 특수자료 공개를 요청했다. 이에 과기부는 ‘반국가단체 찬양·고무·선전 내용 또는 국가변란을 선전·선동하는 내용 등은 공개 불가’라는 조건으로 통일TV의 특수자료 공개활용을 조건부 승인했다.&lt;br&gt;&lt;br&gt;그러나 과기부는 2024년 1월 통일TV가 조선중앙TV 내용을 방송 전체 프로그램의 50% 미만으로 활용해야 하는 규정을 어기고 일부 프로그램에서 50%를 초과한 사례를 다수 발견했다며 조건부 승인을 취소했다. 이후에는 통일TV가 방송법에서 정한 ‘거짓이나 그 밖의 부정한 방법으로 방송채널사용사업 등록을 한 때’에 해당한다며 통일TV의 방송채널사용사업자 등록을 취소했다. 통일TV는 해당 처분이 부당하다며 이를 취소해달라는 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심은 작년 6월 “과기부가 주장하는 사정이나 제출된 증거만으로 통일TV가 거짓이나 부정한 방법으로 방송채널 사용사업 등록을 했다고 인정하기 어렵다”며 통일TV 승소로 판단했다. 1심은 “조선중앙TV의 방송자료를 50% 이상 활용한 것으로 보이기는 하나 이런 사정은 등록 취소 처분의 사유가 된다고 보기 어렵다”고 봤다.&lt;br&gt;&lt;br&gt;2심 또한 통일TV의 손을 들어줬다. 2심은 “통일TV가 조선중앙TV 방송자료 등 북한 제작 영상물을 편집·방송할 계획을 명시적으로 밝히지는 않았다는 사정만으로 사회 통념상 부정한 방법으로 담당공무원의 등록증 발급 등에 관한 의사 결정에 영향을 미칠 수 있는 행위를 했다고 인정하기 어렵다”고 했다. 2심은 “피고는 원고가 북한제작 영상물 등의 방송 가능성을 어느 정도 염두에 두고 등록 신청에 대해 심사한 것으로 보인다”며 “등록증 발급이 거짓이나 그 밖의 부정한 방법으로 이뤄졌다고 보기 어렵다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘연어 술자리 위증’ 이화영 1심 징역 4개월...“진술 일관성 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/20/YQNZLRYCLVHMDOIAMW2SXNACRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/20/YQNZLRYCLVHMDOIAMW2SXNACRQ/</guid>
-      <dc:creator>수원=이민준 기자, 수원=김은경 기자, 수원=김수언 기자, 수원=이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 18:45:46 +0000</pubDate>
-      <content:encoded>법원이 검찰 수사 과정에서 이른바 ‘연어 술자리 회유’가 있었다는 이화영 전 경기도 부지사의 주장을 거짓이라고 결론 냈다. 국회에서 이같이 허위 증언한 이 전 부지사에게 법원은 국민참여재판을 거쳐 20일 징역 4개월을 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYTKZBQHA2WCYJWMU4DGYJWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 10월 2일 국회의 박상용 검사 탄핵소추 청문회에 출석한 이화영 전 경기도 평화부지사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이는 2024년 4월 이 전 부지사가 대북 송금 수사 과정에서 검찰청에서 외부 음식과 소주를 제공받았고 박상용 검사가 진술을 회유했다는 의혹을 제기한 지 2년 2개월 만이다. &lt;br&gt;&lt;br&gt;이 전 부지사 주장을 근거로 국회는 박상용 검사 탄핵소추 청문회와 조작기소 국정조사를 벌였고 법무부는 특별점검에 나섰다. 정치권과 국가 기관이 진위 검증을 거듭했으나 검찰의 회유 수사나 술 반입을 입증할 증거는 끝내 나오지 않았고, 오히려 술자리 날짜·장소와 음주 여부에 관한 이 전 부지사의 진술이 수차례 바뀐 사실만 드러났다는 게 법조계 평가다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 이날 이 전 부지사의 국회증언감정법 위반 혐의에 대해 징역 4개월의 실형을 선고했다. 재판부는 “수원지검 1313호 영상녹화실에 있었던 관련자들의 진술은 일관된 반면 피고인 진술은 계속 바뀌어 신빙성이 없어 보인다”며 “이 부분 공소사실을 유죄로 판단한다”고 했다.&lt;br&gt;&lt;br&gt;이 사건은 국민참여재판으로 진행됐다. 배심원 7명 가운데 4명은 “이 전 부지사가 2023년 5월 17일 수원지검에서 김성태(전 쌍방울 회장), 방용철(전 쌍방울 부회장), 박상웅(전 쌍방울 이사) 등이 있는 자리에서 술을 제공받은 사실이 없다”고 판단했고, 3명은 반대 의견을 냈다. 재판부는 배심원 평결을 존중해 위증 혐의를 유죄로 인정했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 2024년 4월 쌍방울 대북 송금 재판 과정에서 “2023년 6월 말~7월 초 수원지검 1313호 검사실 맞은편 창고에서 술자리가 있었다”며 처음 의혹을 제기했다가 이후 국회 청문회 등에서 술자리 장소를 영상녹화조사실로 바꾸고, 날짜도 ‘6월 18일 또는 30일’에 이어 ‘5월 17일’로 바꿨다. 술을 마셨는지 여부에 대해서도 “소주를 마셔 얼굴이 붉어졌다”고 했다가 “종이컵에 입만 댔을 뿐 마시지는 않았다”고 뒤집었다.&lt;br&gt;&lt;br&gt;유죄가 나온 위증 혐의에 대해 배심원 6명이 징역 4개월, 나머지 1명이 징역 6개월을 제시했다. 이 전 부지사는 앞서 ‘불법 대북 송금’ 사건으로 대법원에서 징역 7년 8개월이 확정됐다.&lt;br&gt;&lt;br&gt;다만 이재명 대통령이 출마했던 2018년 경기도지사 선거와 2021년 더불어민주당 대선 경선 과정에서 이 전 부지사가 김성태 전 쌍방울 회장 등에게 직원들 명의로 쪼개기 후원금을 내게 한 혐의(정치자금법 위반)는 무죄가 선고됐다. 배심원들은 전원 일치로 “이 전 부지사가 관여했다는 사실이 합리적 의심 없이 증명됐다고 보기 어렵다”고 했다. 재판부도 이를 받아들였다.&lt;br&gt;&lt;br&gt;경기도의 대북 지원 사업을 부정하게 집행했다는 직권남용 등 혐의에 대해서는 공소기각 결정이 내려졌다. 배심원들은 공소권 남용이 아니라고 봤으나, 재판부는 검찰이 신명섭 전 경기도 평화협력국장을 같은 혐의로 먼저 기소할 당시에 충분한 증거가 없는데도 이 전 부지사를 공범으로 적어 놓고, 신 전 국장의 유죄 판결 이후 이 전 부지사를 공범으로 기소한 것은 공소권 남용이라고 봤다. &lt;br&gt;&lt;br&gt;재판부는 “모든 피고인은 자신의 재판에서 충분히 방어권을 행사한 뒤 유·무죄 판단을 받아야 한다”며 이 같은 방식의 기소를 공소권 남용으로 인정한 첫 사례라고 밝혔다.&lt;br&gt;&lt;br&gt;이 전 부지사는 선고가 끝나자 방청석에 있는 아내 백모씨와 지지자들을 향해 미소를 지어 보이며 인사한 뒤 법정을 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MNSTCNBWMM4WMODEMRRTSZDDGA.jpg?auth=0ab98785af9434470a781a4a176b894d43e31c69263058581a0746728691cb76&amp;smart=true&amp;width=4819&amp;height=3213" type="image/jpeg" height="3213" width="4819">
-        <media:description type="plain">이화영 전 경기도 평화부지사. 2025.10.14 ⓒ 뉴스1 신웅수 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 김병기 수사 미적거리는 사이… 피의자들, 구청장 인수위 활동</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/20/GDBOGUZXBRBLNKRP5S5CCRT7ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/20/GDBOGUZXBRBLNKRP5S5CCRT7ZM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYDEZTDMZSWCMRQMI4DAN3EGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 피의자 신분으로 조사를 받기 위해 서울 마포구 서울경찰청 공공범죄수사대에 출석하는 무소속 김병기 의원. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 수사를 받는 김병기(무소속·서울 동작갑) 의원 사건 관련 피의자들이 류삼영 서울 동작구청장 당선인의 인수위원회에서 활동 중인 것으로 19일 확인됐다. 경찰은 공천 헌금 등 불법 정치자금 수수와 배우자 법인카드 유용 등 13가지 비위 혐의로 김 의원을 9개월 넘게 수사해 왔지만 이렇다 할 결과를 내놓지 못하고 있다. &lt;br&gt;&lt;br&gt;경찰 총경 출신인 류 당선인은 2022년 7월 당시 윤석열 정부의 ‘경찰국 신설’에 반대하며 전국 경찰서장 회의를 주도했다. 그는 이후 경찰을 떠나 이듬해 12월 더불어민주당에 영입돼 2024년 22대 총선에서 동작을 선거구에 출마했지만 국민의힘 나경원 의원에게 패했다. 당시 바로 옆 지역구인 동작갑에선 민주당 후보였던 김 의원이 당선됐고, 김 의원은 이후 민주당 원내대표를 지냈다. &lt;br&gt;&lt;br&gt;류 당선인은 이번 6·3 동작구청장 선거에서 민주당 후보로 당선됐고 지난 8일 구청장직 인수위원회를 출범시켰다. 인수위는 인수위원 14명과 자문위원 22명으로 구성됐다. 이 가운데 김병기 의원 공천 헌금 의혹과 관련해 정치자금법 위반 혐의로 입건된 동작구의회 전 부의장 이모씨와 동작구의원 출신 전모씨가 류 당선인 인수위 자문위원으로 이름을 올린 것으로 ​확인됐다. 동작 지역 한 인사는 “이씨와 전씨가 인수위 구성원들로부터 업무 보고를 받는 등 활발하게 활동하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;김 의원 배우자의 측근으로 알려진 이씨는 2020년 21대 총선 직전 동작구의원들에게서 공천 헌금을 받아 김 의원 측에 전달한 혐의 등으로 경찰 수사를 받고 있다. 이씨는 2022년 김 의원 차남의 숭실대 편입을 알아보기 위해 대학을 방문하고 입시 브로커를 소개했다는 의혹, 동작구의회 업무 추진용 법인카드를 사적으로 유용했다는 의혹도 제기돼 있다. &lt;br&gt;&lt;br&gt;이씨는 앞서 이번 지방선거 때 류 당선인 캠프에서 활동한 것으로 알려졌다. 그는 주로 동작갑 지역 유권자들을 상대로 사전투표와 본투표 참여를 독려하는 등 지역 표심을 관리하는 역할을 맡았다고 한다.&lt;br&gt;&lt;br&gt;전씨는 2023년 12월 “김 의원 배우자 측이 2020년 총선을 앞두고 선거 자금 명목으로 금품을 요구했다”는 내용의 탄원서를 민주당에 제출한 인물이다. 이 탄원서는 당시 이재명 민주당 당대표실 김현지(현 대통령 제1부속실장) 보좌관에게 전달됐으나 별다른 조치는 없었다. 이후 경찰은 김 의원 관련 수사 과정에서 이 탄원서를 확보해 놓고도 이렇다 할 수사를 진행하지는 않은 것으로 나타났다. 김 의원 사건과 관련된 피의자 두 명이 모두 류 당선인 인수위에 참여하고 있는 것이다.&lt;br&gt;&lt;br&gt;이 사건 수사를 맡고 있는 서울경찰청 공공범죄수사대는 지난해 9월부터 9개월 넘도록 수사를 진행 중이다. 김 의원을 7차례 불러 조사했지만 결론을 내지 못한 상태다. 경찰은 김 의원에 대한 구속영장 신청 여부를 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이화영 변호인단 “연어 술파티 유죄, 법무부가 미진하게 행동한 탓”</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/20/KLXNGZI66RHIDDQ7PMTBOEHTM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/20/KLXNGZI66RHIDDQ7PMTBOEHTM4/</guid>
-      <dc:creator>수원=이민경 기자, 수원=김은경 기자, 수원=김수언 기자, 수원=이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 19:46:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYTSYRXMJSDCZRTGA3WMMRRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난 4월 서울 여의도 국회 윤석열정권정치검찰조작기소의혹사건진상규명국정조사특별위원회에서 열린 쌍방울 대북송금 조작기소 의혹 사건 청문회에서 발언을 하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검사실에서 연어 술파티가 있었다고 국회에서 위증한 혐의 등으로 재판에 넘겨진 이화영 전 경기도 평화부지사가 징역 4개월을 선고받은 가운데 이 전 부지사의 변호인단은 “법무부가 미진하게 행동해 유죄가 선고됐다”고 했다. &lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 20일 이 전 부지사에 대한 국민참여재판 선고 공판에서 국회증언감정법(위증) 위반 혐의에 대해 징역 4개월을 선고했다. 정치자금법 위반 혐의는 무죄로 판단했고, 직권남용 권리행사방해·위계공무집행방해·지방재정법 위반 혐의에 대해서는 공소를 기각했다.&lt;br&gt;&lt;br&gt;선고 직후 변호인단은 법원 앞에서 재판부의 판결에 대해 묻는 취재진의 질문에 “법무부가 감찰 결과를 발표하고 징계를 진행해야 하는데, 재판 뒤로 모든 걸 미뤘다”며 “이 전 부지사에 대한 무죄가 선고되면 징계하려는 미진한 태도 때문에 이 사태가 났다. 법무부를 비판한다”고 말했다.&lt;br&gt;&lt;br&gt;변호인단은 위증 혐의가 유죄로 판단된 것에 대해 “애초에 기소 자체가 합리적이지 않았고 상식에 어긋났다”며 “(재판부는 이 전 부지사의 진술에 일관성이 없다고 했는데) 연어 술파티와 관련해 일관되지 않은 건 없었다. 날짜만 불분명했다”고 했다. 또 “위증죄는 증언 당시 당사자가 고의로 거짓이라 생각했는지에 따라 판단이 갈리는데, 이 전 부지사는 거짓말탐지기에서 진실이 나왔다”며 “본인 기억 속에는 술파티가 있었다고 인정한 건데 위증이라고 하는 건 의문이다”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 위증 혐의와 공소기각 판결이 내려진 직권남용 등 혐의에 대해 항소할 예정이라고 밝혔다. 변호인단은 “위증 혐의는 당연히 항소하고, 공소기각으로 판단한 부분도 항소해 다퉈볼 예정”이라며 “(직권남용 등 혐의도) 공소기각할 게 아니라 실체를 판단하고 무죄를 선고했어야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;19일 오후 시작된 배심원단 평의는 자정을 넘어서까지 이어졌다. 재판부는 오전 3시 30분 선고 재판을 열고 이같이 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘투표용지’ 검·경 합수본, 허위 공문서 작성 혐의와 외유성 출장 의혹도 수사</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/20/JS6V5Y7NVJBT7HSZBU5R46N6LQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/20/JS6V5Y7NVJBT7HSZBU5R46N6LQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X4NVZPZI5EXHP3Q5KYCARMPTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 서울 송파구 올림픽공원 핸드볼경기장에 설치된 제9회 전국동시지방선거 개표소에서 선거관리위원회 관계자들이 투표용지 부족 문제로 투표에 차질을 빚었던 잠실 7동 투표함에 대한 개표를 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 투표 용지 부족 사태를 수사 중인 검·경 합동수사본부(본부장 김태훈 서울중앙지검 3차장)는 선거 당일 투표소에서 근무했던 지방자치단체 공무원들을 상대로 당시 상황을 시간대별로 재구성하고 있다. &lt;br&gt;&lt;br&gt;합수본은 19일 서울 강남구 청담동 투표소를 관리했던 지자체 공무원 2명을 참고인 신분으로 불러 조사했다. 합수본은 지난 16일엔 서울 송파구 잠실7동 제2투표소 관리원으로 근무한 지자체 공무원 2명을, 18일엔 투표소 3곳을 관리한 공무원 9명을 조사했다. 합수본은 또 지난 11일 경기 과천 중앙선거관리위원회와 서울시선관위, 서울의 송파·서초·강남·광진·동작구선관위 등 7곳을 압수수색했다.&lt;br&gt;&lt;br&gt;합수본이 들여다보고 있는 주요 혐의는 형법상 직무유기와 공직선거법상 공무원 선거 관여 금지 위반, 선거의 자유 방해 등이다. 투표 용지 인쇄 매수 하한 기준을 종전 60%에서 50%로 축소한 배경에 선거에 영향을 미치려는 의도가 있었는지, 선거 당일 용지 부족 상황을 인지하고도 업무를 방임·포기한 정황이 있었는지 등을 확인할 계획이다. 합수본은 조만간 허철훈 전 중앙선관위 사무총장과 노태악 전 중앙선관위원장 등에 대한 조사도 진행할 계획이다.&lt;br&gt;&lt;br&gt;이런 가운데 합수본은 선관위가 허위 공문서를 작성·행사한 혐의가 있는지도 수사할 것으로 전해졌다. 중앙선관위는 최근 국회에 제출한 자료에서 “작년 12월 10일 별도 회의 없이 사무총장 전결로 투표 용지 인쇄 매수 하한 기준을 50%로 변경했다”고 했는데, 이 같은 내용에 거짓이 있는지 살펴보겠다는 것이다.&lt;br&gt;&lt;br&gt;합수본 수사는 투표 용지 부족 사태를 넘어 예산 사용 등 선관위의 업무 행태 전반으로 확대될 분위기다. 선관위 직원들은 선거 참관, 직원 역량 강화 등의 이유로 2022년부터 올해 6월까지 예산 약 24억원을 들여 100차례가 넘게 해외 출장을 다녀왔다. 그런데 출장지에 몰디브·코타키나발루 등 유명 휴양지가 대거 포함된 것으로 나타났다. 이에 국민의힘은 외유성 출장으로 의심된다며 지난 17일 선관위 직원들을 업무상 횡령 혐의로 고발했다. 이와 관련해 합수본은 검사 1~2명을 보강할 계획인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“무료 종목 추천” “앱 깔면 고수익 보장”… 이런 말 나오면 불법 리딩방 의심</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/20/ENISY34ILRHRBP72PE5OGSA64E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/20/ENISY34ILRHRBP72PE5OGSA64E/</guid>
-      <dc:creator>구아모 기자, 지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KIPEUN4ONHVXFSM2T43GPGGWI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 리딩방 사기 조직이 피해자들에게 설치하도록 한 가짜 증권사 앱 화면. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 50대 여성 A씨는 지난해 12월 주식 공부를 하려고 카카오톡 오픈 채팅방에 들어갔다가 네이버 밴드 리딩방에도 가입했다. 카카오톡 채팅방 사람들이 “무료로 종목을 추천해준다”며 리딩방 가입을 유도했다고 한다. 리딩방에는 한 자산운용사 대표를 지냈다고 소개한 인물이 사업자 등록증을 보여주며 믿고 따라오라고 했다. A씨는 이들이 시키는 대로 주식 앱을 설치하고 5000만원을 투자했다. &lt;br&gt;&lt;br&gt;리딩방 운영자들은 1~2주 뒤 “수익금”이라며 1700만원가량을 A씨에게 돌려줬다. 이들을 믿게 된 A씨는 추가 투자에 나섰고, 운영자들은 A씨의 집까지 찾아와 현금 4500만원을 받아 갔다. 하지만 자산운용사 대표라는 리딩방 운영자의 경력과 앱에 표시된 수익률과 수익금도 모두 가짜였다. 결국 총 9500만원을 투자한 A씨는 돌려받은 돈을 제외한 7800만원을 사기당했다.&lt;br&gt;&lt;br&gt;유튜브 등에서 이른바 ‘핀플루언서’를 사칭해 투자자를 불법 리딩방으로 유인하는 사기가 기승을 부리고 있다. 핀플루언서는 금융을 뜻하는 파이낸스와 인플루언서의 합성어로, 유튜브나 인스타그램 등에서 투자 정보를 제공하며 이름이 알려진 사람을 말한다. 그런데 핀플루언서의 이름과 얼굴을 도용해 가짜 채널을 만들거나 댓글 창에서 본인인 것처럼 행세하며 고수익을 미끼로 내건 유료 리딩방 가입을 유도하는 사기꾼들이 늘고 있다는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ATZLLEWYRHRFA7ES4XXEYDSUY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청이 더불어민주당 허영 의원실에 제출한 자료를 보면 2023년 9월부터 2025년 9월까지 2년간 접수된 불법 투자 리딩방 피해액은 1조2901억원, 신고 건수는 1만4629건이었다. 경찰청 국가수사본부에 따르면 올해 1~5월 투자 리딩방 관련 범죄 건수는 2774건(피해액 2710억원). 경찰 관계자는 “주식 투자 열풍이 이어지면서 사기꾼들이 유튜브·카카오톡·네이버 밴드 등을 통해 투자자를 끌어들인 뒤 가짜 투자 앱을 설치하게 해 입금을 유도하는 수법을 주로 쓰고 있다”고 했다. &lt;br&gt;&lt;br&gt;고수익 주식 투자를 미끼로 내건 사기 피해는 은퇴 자금을 굴리려는 50·60대에서 컸다. 금융감독원에 따르면 올해 1~4월 금감원에 접수된 핀플루언서 관련 사기 17건(1건당 평균 피해 금액 1억8000만원) 중 50·60대 피해는 12건(70.6%)이었다. 3억8000만원을 사기당한 사례도 있었다. 노후 자금이나 퇴직금을 투자한 경우가 많아 피해 규모가 커졌다는 분석이 나온다. &lt;br&gt;&lt;br&gt;핀플루언서를 사칭한 투자 리딩방 사기 수법은 갈수록 정교해지고 있다. 사기꾼들은 유명 주식 유튜버나 투자 전문가와 비슷한 이름을 내건 가짜 유튜브 채널을 만들고, AI로 제작한 영상을 올려 실제 전문가가 종목을 추천하는 것처럼 꾸민다. 영상 말미에는 전화번호나 카카오톡·네이버 밴드 링크를 남겨 투자자를 리딩방으로 유도한다. 금감원 관계자는 “유명 투자 채널과 비슷한 채널에 올라오는 AI 영상에 고령층이 많이 속고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DPB4QKDXBNFLBIUH6RJRADRFGQ.jpg?auth=99036a682764c65ebe7c0e6ee8875aed821484bc78b9266ee2afde20e9e726bb&amp;smart=true&amp;width=998&amp;height=562" type="image/jpeg" height="562" width="998">
-        <media:description type="plain">지난 2023년 한 유사투자자문업체가 운영하는 주식 리딩방. 수익률에 따라 회원들이 운영자에게 감사인사를 건네기도 하고(왼쪽), 도와달라며 볼멘소리를 내기도 한다(오른쪽). /조선일보DB</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘사팔사팔’ 30대 남성 수익률 꼴찌… 대형주 묵혀둔 70대가 웃었다</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/20/C5NCDSOMHJDANA65DBQOW6Z44M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/20/C5NCDSOMHJDANA65DBQOW6Z44M/</guid>
-      <dc:creator>구아모 기자, 곽창렬 기자, 지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BK6Q3BUANHDVA7RUX5KCN3NZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 영등포구의 한 증권사 고객센터에서 고객들이 상담을 받기 위해 대기하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코스피 지수가 지난 18일 사상 처음으로 9000선을 돌파하면서 국내 투자자들의 주식 투자 열풍이 더 거세질 것으로 보인다. 한국 증시 강세는 이미 1년 넘게 이어지면서 수익을 본 국민도 적잖다. 그런데 투자자의 연령대와 성별에 따라 수익률이 엇갈린 것으로 나타났다. &lt;br&gt;&lt;br&gt;미래에셋증권이 올해 1~5월 기준 잔고가 100만원 이상인 고객의 수익률을 분석한 결과, 70대 이상 남성 투자자의 누적 수익률(42.1%)이 가장 높았다. 이어 70대 여성(41.69%), 60대 여성(39.36%), 50대 여성(38.75%) 순이었다. 반면 30대 남성의 누적 수익률은 27.01%로 전 연령대 중 가장 낮았다. 70대 이상 남성 투자자가 30대 남성보다 15.09%포인트 높은 수익률을 거둔 셈이다. 투자 종목에서도 30대 남성은 성장주와 테마주에 치우친 반면, 70대 남성은 대형 우량주 중심의 안정적인 포트폴리오를 구성한 것으로 나타났다.&lt;br&gt;&lt;br&gt;주식 전문가들은 이른바 ‘매매 회전율(거래 빈도)’이 수익률을 갈랐다고 분석한다. 수익률 최하위를 기록한 30대 남성의 평균 회전율은 58.5%로 전 연령대에서 가장 높았다. 매매 회전율 58.5%는 계좌에 100만원이 있었다면 한 달 동안 총 58만5000원 상당 주식을 사고 팔았다는 뜻이다. 반면 70대 남성의 매매 회전율 평균은 27.3%로 가장 낮았다. 주식 ‘사팔사팔(사고팔고)’을 많이 한 30대 남성이 가장 덜 벌고, 한 주식을 진득하게 보유한 70대 남성이 최고 수익률을 거둔 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWC5YXCRXRC33EQIJ2DYEJM57I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇삼성전자·하이닉스 담은 70대 남성&lt;/b&gt;&lt;br&gt;&lt;br&gt;김인재(79)씨는 지난 2월 삼성전자 주식을 1000만원어치 샀다. “삼성전자로 돈을 꽤 벌었다”는 친구 말에 뒤늦게 주식 시장에 뛰어든 것이다. 김씨는 “사고팔기를 반복하면 머리만 아프니 그냥 묻어두고 있다”고 말했다. 그사이 삼성전자 주가는 18만원에서 36만원으로 올랐고, 김씨 잔고는 2000만원으로 두 배가 됐다.&lt;br&gt;&lt;br&gt;인천의 한 공공기관에서 계약직으로 일하는 임모(70)씨도 ‘장기 투자’로 수익률 1380%를 기록 중이다. 그는 10년 전 퇴직금 중 2500만원으로 삼성전자 주식을 샀다. 임씨는 “주식 창을 자주 보면 팔고 싶은 마음이 들까 봐 지난 10년 동안 거의 쳐다보지 않았다”고 전했다. 임씨의 삼성전자 주식 잔고는 지난 18일 기준 3억7000만원까지 불어났다.&lt;br&gt;&lt;br&gt;미래에셋증권 관계자는 “시장을 자주 들여다보지 않거나 매매 빈도가 낮은 투자자일수록 상승장의 흐름을 더 길게 누릴 수 있다”며 “시장을 장기적으로 바라보다 보니 주가 등락이 상대적으로 완만한 대형 우량주에 투자하는 경향이 강하다”고 분석했다.&lt;br&gt;&lt;br&gt;올해 1~5월 이 증권사 개인 투자자의 매매 상위 종목을 보면, 70대 이상 투자자는 삼성전자, SK하이닉스, 현대차 등을 주로 매수했다. 국내 증시를 이끄는 대형 우량주들이다. 이들은 한 번 주식을 사면 주가가 일시적으로 흔들려도 쉽게 처분하지 않았다.&lt;br&gt;&lt;br&gt;다만 고령층 투자자 사이에서도 최근 ‘패닉 바잉(공포 매수)’ 현상이 감지된다고 전문가들은 말한다. 서울 여의도의 한 증권사 직원 최모씨는 “작년과 비교해도 지점을 찾는 어르신들이 부쩍 많아졌다”며 “수십 년 전 만들어 둔 주식 계좌를 가져와 비밀번호를 찾아달라고 요청하는 분이 적지 않다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6JGJABVKJEKHPN2D6MERFC5LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇단타로 성장주에 베팅한 30대 남성&lt;/b&gt;&lt;br&gt;&lt;br&gt;코스피 초강세 덕분에 미래에셋증권의 30대 남성 고객 평균 투자 수익률은 27.01%를 기록했다. 평균적으로는 손해를 본 것 같지 않지만 내막을 들여다보면 손실을 입은 투자자가 적지 않았다. 30대 투자자들이 단타 매매를 즐겨 하는 것과 무관치 않다고 전문가들은 말한다.&lt;br&gt;&lt;br&gt;직장인 김모(37)씨는 올해 초 “주식으로 돈을 벌었다”는 지인이 점점 많아지자 2월 처음 주식 시장에 발을 들였다. 김씨가 투자한 곳은 삼성전자나 상장지수펀드(ETF)처럼 주식 초보자들이 주로 투자하는 종목이 아니었다. 지인이 추천한 미국 인공지능(AI) 방산 업체 팔란티어의 2배 레버리지 상품에 투자한 것이다. 이 상품은 팔란티어 주가가 1% 오르면 그 두 배인 2%가 내 몫이 되고, 1% 떨어지면 내 몫이 2% 떨어지도록 설계된 상품이다. 하지만 김씨는 한 달 만에 투자금의 절반을 잃었다. 손실을 만회하려 유튜브에서 추천하는 성장주와 테마주를 짧게 사고파는 이른바 ‘단타’ 투자에 나섰지만, 계좌는 현재 35% 손실을 기록 중이다.&lt;br&gt;&lt;br&gt;‘매매 빈도’와 ‘수익률’의 상관관계는 성별 분석에서도 확인된다. 남성보다 주식을 덜 사고판 여성 투자자들이 더 높은 수익률을 냈다. 올해 1~5월 미래에셋 고객 중 여성 투자자의 누적 수익률은 35.57%로 남성 34.29%보다 높았다. 반면 평균 회전율은 여성 32.5%, 남성 44.6%로 여성이 남성보다 12.1%포인트 가량 낮았다.&lt;br&gt;&lt;br&gt;일각에서는 30대 남성을 비롯한 2030세대 투자자가 유튜브와 소셜미디어, 온라인 커뮤니티 등 여러 채널을 통해 투자 정보를 얻게 된다는 점이 투자 수익률을 떨어뜨리는 결과로 이어진다는 시각도 있다. 과도한 정보가 오히려 ‘소음’이 돼 충동 매매를 부추길 수 있다는 것이다. 실제 지난 3월 증시 변동성이 커졌을 때 30대 남성의 매매 회전율은 70.6%까지 치솟았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>브레이크 없는 ‘픽시 자전거’ 타면 과태료 최고 50만원</title>
