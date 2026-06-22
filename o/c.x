@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아침 거르고 불규칙한 식사, 우울증 위험 높여</title>
+      <link>https://www.chosun.com/medical/2026/06/18/MMTXDH2R3VHUJO5YTMBWGEZ67U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/06/18/MMTXDH2R3VHUJO5YTMBWGEZ67U/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Jun 2026 15:42:00 +0000</pubDate>
+      <content:encoded>아침 거르고 들쭉날쭉 식사를 하면 우울증 발생 위험이 높아지는 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울성모병원 평생건강증진센터 태혜진, 정신건강의학과 채정호 교수 연구팀은 질병관리청이 운영하는 국민건강영양조사의 2014년부터 2022년까지 데이터를 활용해 한국 성인 2만1568명의 식사 패턴과 우울증 연관성을 분석해 정신의학 분야 국제학술지에 발표했다.&lt;br&gt;&lt;br&gt;분석 결과, 주요 식사가 불규칙한 성인은 규칙적인 성인에 비해 우울 증상을 경험할 위험이 약 1.55배 높은 것으로 나타났다. 이 연관성은 소득, 교육, 흡연, 음주, 운동 등 다양한 변수를 감안해도 일관되게 유지됐다. &lt;br&gt;&lt;br&gt;전체 참여자 중 5.2%가 임상적으로 유의미한 우울 증상을 보였으며, 이 집단에서 불규칙 식사 빈도와 아침 결식 비율이 모두 유의하게 높았다. 남성, 흡연자, 야식 습관이 있는 성인에서 불규칙 식사가 우울에 미치는 영향이 더 두드러지는 경향을 보였다. 하지만 다양한 식품군을 골고루 섭취할수록 불규칙 식사가 우울에 미치는 부정적 영향이 감소했다.&lt;br&gt;&lt;br&gt;특히 아침을 자주 거르는 사람에게서 불규칙 식사와 우울 증상 연관성이 더 높았다. 연구팀은 아침 식사가 하루 대사 리듬과 행복호르몬 세로토닌 및 스트레스 호르몬인 코르티솔 분비를 안정화해 정서 조절 능력을 지지하기 때문이라고 해석했다. &lt;br&gt;&lt;br&gt;연구를 주도한 태혜진 교수는 “규칙적인 식사, 아침 결식 예방, 다양한 식품군 섭취라는 세 가지 원칙은 약물 치료 없이도 일상에서 즉시 실천할 수 있는 우울증 예방 전략이 될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GY2DKMZRMUYTQNBTME4TMN3DGM.jpg?auth=99db068b0ac96230d92f200e67f819933a180cd30944ab05991a95fd30bfd70f&amp;smart=true&amp;width=720&amp;height=485" type="image/jpeg" height="485" width="720">
+        <media:description type="plain">우울증 렌즈</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>소상공인도 단체 교섭권… 與, 법안 발의 논란</title>
       <link>https://www.chosun.com/national/labor/2026/06/22/EL2ZZ6YDFZHHXB64L7SH4T46XM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/22/EL2ZZ6YDFZHHXB64L7SH4T46XM/</guid>
@@ -926,15 +938,6 @@
       <description/>
       <pubDate>Fri, 19 Jun 2026 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2V2AQBUQY5H7NFDIQVK5GZ75E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;예비 신부 김민주씨는 AI를 활용해 평소 데이트하며 찍은 사진(왼쪽)으로 웨딩 스냅사진을 만들었다. /김민주씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 27일 결혼식을 앞둔 예비 신부 김민주(32)씨는 모바일 청첩장에 넣을 웨딩 스냅사진 촬영을 생략했다. 대신 AI(인공지능) 프로그램을 활용해 평소 데이트하며 찍은 사진으로 웨딩 화보를 만들었다. 인물 구도와 얼굴은 그대로 유지하되 캐주얼한 옷을 정장과 드레스로 바꿨다. &lt;br&gt;&lt;br&gt;결과는 대만족이었다. 김씨는 “주변에서 웨딩 스튜디오 촬영 중 각종 추가금 문제로 갈등을 겪는 모습을 많이 보면서 촬영에 드는 시간과 에너지를 결혼 준비의 다른 부분에 쓰는 게 효율적이라고 생각했다”고 했다. 그가 스튜디오 촬영을 생략하면서 아낀 비용은 촬영비와 드레스 대여비, 메이크업 비용 등 수백만원에 달한다. &lt;br&gt;&lt;br&gt;결혼 준비 과정에서 AI를 활용하는 예비부부가 늘고 있다. 웨딩 스냅·스튜디오 촬영을 AI 이미지 생성으로 대체하는가 하면, 청첩장 제작과 축사 작성, 하객 좌석 배치, 신혼여행 일정 설계까지 맡기는 식이다. 결혼 준비의 필수 코스로 여겨졌던 ‘스드메(스튜디오·드레스·메이크업)’ 공식에도 변화의 조짐이 나타나고 있다.&lt;br&gt;&lt;br&gt;최근 웨딩 커뮤니티나 단체 대화방 등에서는 AI 웨딩 사진 제작법과 관련 프롬프트(명령어)가 공유되고 있다. 사진과 함께 “젊은 한국인 커플이 야외 웨딩 스냅 촬영을 하는 모습을 만들어 줘. 배경은 잔디 깔린 넓은 공원, 햇살이 들어오는 밝은 오후 감성, 신부의 베일이 바람에 날리고 머리 스타일은 ‘로우번(낮은 위치에 묶어 둥글게 말아 올린 머리)’으로 부탁해” 같은 요청을 입력하는 식이다. AI로 유럽 궁전·해변·벚꽃길 등의 배경을 합성하거나 사진의 표정과 머리 스타일을 수정하기도 한다. “웨딩 사진을 AI로 만들어 드린다”는 전문 업체까지 등장했다. 정면 증명사진과 전신 사진 1장씩만 보내면 실제 촬영한 듯한 고해상도의 웨딩 사진을 만들어 준다는 것이다. 가격은 50만원 안팎으로 수백만원대의 웨딩 촬영보다 저렴하다. &lt;br&gt;&lt;br&gt;AI 활용은 결혼 준비 과정 전반으로 확대되고 있다. 웨딩 플래너 역할을 대신하기도 한다. “서울 강남에서 200명 수용 가능한 예식장 알려줘”처럼 직관적인 문장만 입력하면 AI가 웨딩홀 후보를 제안해주는 한 웨딩 앱은 50만회 이상 다운로드됐다. 또 다른 ‘AI 웨딩 플래너 앱’은 예식 날짜와 실내·야외 등 원하는 예식 스타일, 하객 규모 등을 입력하면 AI가 준비 상황에 맞게 100가지 이상의 체크 리스트를 만들어주고, 많게는 55가지에 달하는 일정을 시기별로 자동 정렬해 준다. 축의금 금액과 하객 수, 참석률을 예측해 주기도 한다. &lt;br&gt;&lt;br&gt;사회자 진행 원고나 축사, 청첩장 디자인·문구, 축하 영상을 AI에 맡기는 모습은 더 이상 낯설지 않다. 지난달 결혼식을 마친 새신랑 황모(30)씨는 “감사 인사와 모바일 청첩장 문구 등을 대부분 AI 도움을 받아 작성했다”며 “여러 버전을 받아본 뒤 필요한 부분만 수정하는 식”이라고 했다. 내년 초 결혼을 계획하고 있는 유모(33)씨는 “원하는 결과물을 합리적인 비용으로 얻을 수 있는 대안이 생긴 만큼, 주변 눈치 때문에 비싼 웨딩 서비스를 고집할 필요가 없다고 본다”며 “AI를 이용하면 1000만원까지도 절약이 가능하더라”고 했다. &lt;br&gt;&lt;br&gt;전문가들은 “AI가 웨딩 시장의 고질적인 정보 비대칭 구조를 바꾸고 있다”고 지적한다. 그동안 예비부부는 온라인 카페와 단체 대화방 등을 전전하며 업체 정보를 수집하고 견적을 비교해야 했다. ‘정보력이 곧 비용 절감’이라는 말도 나왔다. 하지만 이제는 AI가 분석해 최적의 준비 과정을 설계해준다. 웨딩 플래너나 업체에 의존해야 했던 영역을 소비자가 직접 관리할 수 있게 된 것이다. &lt;br&gt;&lt;br&gt;일각에서는 이 같은 변화가 한국 웨딩 산업의 상징처럼 여겨졌던 ‘스드메’ 패키지 구조에도 영향을 미칠 것으로 보고 있다. 과거에는 스튜디오 촬영과 드레스·메이크업을 묶어 비용을 지불하는 것이 당연시됐지만 이제 필요한 서비스만 선택하고 나머지는 AI를 활용하는 사례가 늘고 있어서다. 구정우 성균관대 사회학과 교수는 “과거에는 결혼 준비 과정에 시간과 비용을 많이 들일수록 정성과 성의를 보여준다고 여기는 문화가 있었지만, 젊은 세대는 결혼식 자체보다 신혼여행이나 결혼 이후의 삶에 더 큰 가치를 두는 경향이 있다”며 “AI 활용도 이런 흐름의 연장선”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰에 맡긴 분실 지갑 속 42만원은 어디에… 경찰 내부 조사</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/06/19/NPCDZLYWF5FV5GHSQL2IFVZLKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/06/19/NPCDZLYWF5FV5GHSQL2IFVZLKA/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Jun 2026 13:10:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEE2IWMANKL2XB64RK7QUVAH2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서에 분실물로 보관 중이던 지갑에서 42만원 상당의 금품이 사라져 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;19일 대전경찰청에 따르면, 지난 3월 27일 유성경찰서 어은치안센터에 ‘지갑을 주웠다’는 한 시민의 분실물 습득 신고가 접수됐다.&lt;br&gt;&lt;br&gt;당시 지갑에는 42만원 상당의 현금과 백화점 상품권이 들어 있는 상태였다. 어은치안센터 경찰관은 해당 금액을 확인한 후 분실물 접수와 함께 지갑 주인인 A(30대)씨에게 연락했다.&lt;br&gt;&lt;br&gt;A씨는 이후 경찰서를 찾아 지갑을 돌려받았는데, 지갑 속에 있는 현금과 상품권은 사라져 있었다고 한다. 당황한 A씨는 경찰에 금품의 행방을 물었지만 명확한 대답을 듣지 못하자, 결국 담당 경찰관 등을 절도 혐의로 고소했다.&lt;br&gt;&lt;br&gt;통상 지구대나 파출소, 치안센터에서 분실물을 접수하면 소속 직원들이 관할 경찰서 분실물 담당 부서로 직접 전달하고 경찰서 담당 직원은 주인이 와서 분실물을 가져갈 때까지 그대로 보관할 의무가 있다.&lt;br&gt;&lt;br&gt;이와 관련해 대전 중부경찰서는 횡령 혐의로 대전 유성경찰서 범죄예방질서계 등을 상대로 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 경찰이 보관하는 과정에서 금품이 사라져 내부자 소행일 가능성이 높은 것으로 보고 횡령 혐의를 적용한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유성경찰서 분실물 접수 단계부터 보관 담당자 등 관계자 모두 선상에 올려놓고 조사 중”이라며 “수사 결과에 따라 범행 사실이 인정되면 별도의 감찰 및 징계 절차도 진행할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>野 서지영 의원 “사직야구장 재건축 그대로 진행돼야”</title>
