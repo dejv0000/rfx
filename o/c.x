@@ -13,6 +13,66 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“eSIM 판매로 10% 이상 수익” 투자금 모은 뒤 잠적</title>
+      <link>https://www.chosun.com/national/incident/2026/06/25/OJPZSFCLJBBC3LBWDCQB23INNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/25/OJPZSFCLJBBC3LBWDCQB23INNU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jun 2026 09:28:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTGCMJXME2DAZLEG43DKMTBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라를 방문하는 외국인들에게 이심(eSIM)을 판매하는 사업이라며 투자자를 모집한 업체가 투자금을 챙겨 잠적했다는 고소장이 잇따라 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 사기, 유사수신행위의 규제에 관한 법률 위반 혐의로 인천 소재 A 업체를 수사하고 있다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 최근 피해자 132명으로부터 49건의 고소장을 접수했다.&lt;br&gt;&lt;br&gt;A 업체는 외국인을 대상으로 eSIM을 판매하는 사업에 투자하면 10% 이상의 수익을 보장하겠다며 투자자를 모집했으나, 현재 연락이 두절된 상태다.&lt;br&gt;&lt;br&gt;피해자들은 인천뿐만 아니라 다른 지역에도 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “인천경찰청이 집중 수사 관서로 지정돼 다른 지역에서 접수된 사건도 처리하게 된다”며 “고소인 조사 등 혐의 내용을 수사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;eSIM은 휴대전화 통신망 연결과 가입자 정보 식별 등의 기능을 한다. 기존에 휴대전화에 꽂아 쓰던 유심(USIM)과 달리 휴대전화에 내장돼 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재 ‘유류분 위헌’ 결정 이끈 당사자, 대법원서 재심 길 열려</title>
+      <link>https://www.chosun.com/national/court_law/2026/05/31/RP35VMHXEBCURLRMVDEJBBTFQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/05/31/RP35VMHXEBCURLRMVDEJBBTFQE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 May 2026 03:29:21 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모를 오랫동안 돌본 대가로 재산을 더 물려받았더라도 다른 형제들에게 무조건 일정 몫을 나눠줘야 했던 옛 ‘유류분(遺留分)’ 관련 조항에 대해 헌법재판소의 헌법불합치 결정을 이끌어낸 당사자가 유산 소송을 다시 할 수 있게 됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 형제들과의 유산 소송에서 일부 패소했던 A씨가 낸 재심 청구를 받아들이지 않은 원심 판결을 깨고 사건을 대구고법으로 돌려보냈다. 부모를 부양하거나 재산 형성에 기여한 자녀가 받은 재산도 유류분 계산에 포함해 나눠주도록 한 옛 민법 규정에 대해 헌법재판소가 헌법불합치 결정을 내렸는데도 원심이 ‘개선 입법 전’이라며 그대로 적용한 것은 잘못이라는 취지다.&lt;br&gt;&lt;br&gt;A씨는 돌아가신 어머니의 유언에 따라 부동산과 예금 등 재산을 전부 물려받았다. 그러자 다른 형제들이 법적으로 보장된 자신들의 최소한의 상속 몫(유류분)을 돌려달라며 2020년 소송을 제기했다. 앞서 1·2심은 옛 민법에 따라 형제들의 청구를 일부 받아들였고, 이 판결은 2023년 2월 그대로 확정됐다.&lt;br&gt;&lt;br&gt;A씨는 이에 헌법재판소에 헌법소원을 냈고 헌재는 2024년 4월 “기존 법 조항에 따르면 부모를 오랜 기간 부양하거나 상속 재산 형성에 기여한 사람이 기여의 대가로 받은 재산을 다른 상속인에게 반환해야 하는 부당한 상황이 생긴다”며 헌법불합치 결정을 내렸다. 효도하고 부모를 모신 자녀의 정당한 몫을 빼앗는 것은 헌법에 어긋난다는 취지였다. 다만 헌재는 법적 공백을 막기 위해 국회가 법을 고칠 때까지는 옛 조항을 계속 적용하도록 했다.&lt;br&gt;&lt;br&gt;A씨는 헌재 결정을 근거로 재판을 다시 해달라며 재심을 청구했다. 그러나 2심을 맡은 대구고법은 2024년 9월 “새 법을 만들 때까지 옛 법을 잠정적으로 적용해야 하기 때문에 기존 판결을 뒤집을 수 없다”며 재심 청구를 받아들이지 않았다. 국회는 올해 3월이 돼서야 부모를 특별히 부양한 공로로 받은 재산은 돌려주지 않아도 되도록 민법을 개정했다.&lt;br&gt;&lt;br&gt;대법원의 판단은 달랐다. 대법원은 헌재가 옛 법을 당분간 유지하도록 한 것은 법의 공백으로 인한 혼란을 막기 위한 최소한의 조치였을 뿐, 자녀의 권리가 계속 침해당하는 상태를 방치하라는 뜻이 아니었다고 지적했다. &lt;br&gt;&lt;br&gt;대법원은 특히 A씨가 헌재의 위헌 결정을 직접 이끌어낸 당사자라는 점을 짚었다. 대법원은 “헌재가 헌법불합치 결정을 하게 된 해당 사건에 대해서는 헌재 결정의 효력이 소급해서 미친다고 봐야 한다”며 “옛 법 조항이 그대로 적용될 수 없고 새 법 조항이 적용되는 것으로 봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잠실 참정권 집회 ‘분홍열사’, 구속영장 심사 출석</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/25/OIZM7BV3UJAWJFMCORKZZNQSFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/25/OIZM7BV3UJAWJFMCORKZZNQSFY/</guid>
+      <dc:creator>양인성 기자, 김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jun 2026 06:40:33 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QT5TJU2HNAXLC5DA46WYSZER4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 잠실 참정권 집회 현장에서 경찰관에 침을 뱉고 욕설한 40대 여성이 경찰에 체포되고 있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘잠실 참정권 집회’에서 공무집행방해 등 혐의로 현행범 체포된 김모(45)씨가 25일 구속 심사를 받기 위해 법원에 출석했다. 김씨는 집회 현장에서 분홍색 치마를 입고 열정적으로 시위에 참여하는 모습이 입소문을 타 ‘분홍열사’로 불리고 있다.&lt;br&gt;&lt;br&gt;이날 오후 2시 12분 김씨는 경찰 체포 당시 입었던 흰색 원피스 차림 그대로 서울동부지법에 도착했다. 수갑을 차고 경찰관에게 양팔을 붙들린 상태였다. 그는 ‘경찰관에게 욕설하고 침 뱉은 게 맞는지’, ‘경찰관의 가족을 상대로 욕설한 게 맞는지’, ‘공무집행방해 혐의를 인정하는지’ 등 취재진 질문에는 일절 답하지 않았다. 대신 “부정선거 재선거 당일투표 수개표” 구호만 반복해 외쳤다.&lt;br&gt;&lt;br&gt;김씨는 지난 23일 오전 10시 30분쯤 서울 송파구 올림픽공원 핸드볼경기장에서 “한국 경찰인지 확인하겠다”며 경찰관들의 얼굴을 무단 촬영하고, 경찰관 가족들에 대한 욕설한 것으로 알려졌다. 이 과정에서 김씨가 경찰관들에게 침을 뱉기도 했다.&lt;br&gt;&lt;br&gt;서울동부지법은 이날 오후 2시 반 김씨의 구속영장 실질 심사를 시작했다. 김씨의 구속 여부는 이르면 늦은 밤 나올 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KZLPKTVI2NAVNI7ZHO6FOMLAB4.gif?auth=a20406a881842ce629dfe2901fd341069d3896bc4a44dbe7260d312bae16d466&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">23일 오전 잠실 참정권 집회 현장에서 경찰관에 침을 뱉고 욕설한 40대 여성 김모씨가 공무집행방해로 경찰에 체포되고 있는 모습. /스레드</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>박찬대 인천시장 당선인, “서해 5도 군인 뱃삯 지원 방안 찾겠다” </title>
+      <link>https://www.chosun.com/national/regional/2026/06/25/JPXYGWU7HVC3DESNQGEUDKOELU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/25/JPXYGWU7HVC3DESNQGEUDKOELU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jun 2026 08:10:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2WKAAAN4NDZZAORVYK3JRSL2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령의 SNS 글./ 엑스(X) 화면 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대 연평부대를 방문한 이재명 대통령이 병사들의 뱃삯 지원 방안을 마련해 달라고 요청하자 박찬대 인천시장 당선인이 해결 의지를 나타냈다. &lt;br&gt;&lt;br&gt;박찬대 당선인은 25일 자신의 엑스(X·옛 트위터)에 “연평도뿐만 아니라 백령도 등 서해 5도를 포함한 도서 지역에서 헌신하는 군인 여러분이 합당한 혜택을 누릴 수 있도록 점검해 나가겠다”는 글을 올렸다. &lt;br&gt;&lt;br&gt;박 당선인은 글에서 “인천시는 바다패스 정책을 시행하고 있으나 제도의 사각지대가 있다는 사실을 확인했다”며 “정책의 사각지대에 놓인 분들이 온전히 혜택을 받을 수 있도록 살펴보겠다”고 했다. &lt;br&gt;&lt;br&gt;인천시는 시민의 경우 1500원(편도)만 내면 연안 여객선을 이용할 수 있는 ‘인천 아이 바다패스’를 운영 중이다. 인천에 주소지를 두지 않은 직업 군인은 이 혜택을 받을 수 없다. 다만 일반 군 장병은 휴가 시 여객선 요금이 100% 지원된다. &lt;br&gt;&lt;br&gt;이재명 대통령은 지난 24일 연평부대를 방문한 뒤 엑스에 “박 당선인에게 부탁이 있다”며 “오늘 만난 연평도 주둔 병사들이 휴가로 육지로 왕래할 때 뱃삯이 무려 11만원이라 엄청나게 부담된다고 하소연했다. 실제 인천에 거주하는 병사들이고 나라 위해 희생하는 청년들이니 인천 시민에 준하는 혜택을 주면 어떨까요”라는 글을 올렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수원지법에 폭탄 설치” 경찰, 특공대 투입 수색</title>
+      <link>https://www.chosun.com/national/incident/2026/06/25/3E6CAYYKARH7DBEXLSLGNBZTUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/25/3E6CAYYKARH7DBEXLSLGNBZTUU/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jun 2026 08:16:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2SE5A4C4RCPLM4YOKMILG7KMU.png"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수원지법에 폭발물을 설치했다는 협박 글이 인터넷에 올라와 경찰이 특공대를 투입해 청사 내부를 수색했으나 실제 폭발물은 발견되지 않았다. &lt;br&gt;&lt;br&gt;25일 경찰에 따르면, 이날 오후 12시 46분쯤 인터넷 커뮤니티 디시인사이드에 “수원지방법원 고성능 폭약 설치 완료”라는 제목의 게시글이 올라왔다. 게시글에는 “폭발 시 법원 완파 및 옆 건물 검찰청도 반파 예상” “6월 26일 오후 2시 폭발 예정”이라는 내용이 담겼다.&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 즉시 수사에 착수하고 특공대원 20명을 투입해 오후 4시까지 수원지법 지하주차장과 청사 내부, 우체국, 복도 등 일반인의 출입이 가능한 구역을 중심으로 폭발물 수색을 벌였다.&lt;br&gt;&lt;br&gt;수색 결과 실제 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;수원지법은 만일의 상황에 대비해 청사 보안을 강화했으며, 경찰도 26일까지 법원과 검찰청 일대 순찰을 강화할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 인터넷 게시글 작성자를 특정하는 대로 협박 글을 올린 경위와 실제 폭발물 설치 여부 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 26일 금요일 (음력 5월 12일 辛未)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/25/VNC7HFX6C5ES5OWVIITE4ECFL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/25/VNC7HFX6C5ES5OWVIITE4ECFL4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>‘인보사 성분 조작’ 혐의 코오롱생명과학 임원 2명 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2026/06/25/HVEVLCOK4BB5RNNKIHI5OPZIQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/25/HVEVLCOK4BB5RNNKIHI5OPZIQE/</guid>
@@ -876,15 +936,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQTEZLGMU4TINRQGFQWCODBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송옥주 의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경로당 행사에서 불법 기부 행위를 한 혐의를 받은 송옥주 더불어민주당 의원에게 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 노경필 대법관)는 24일 공직선거법 위반 혐의로 기소된 송 의원에게 무죄를 선고한 2심 판결을 확정했다고 밝혔다. 송 의원은 2023년 10월부터 작년 3월까지 자신의 지역구인 경기 화성시 경로당 20곳에 TV와 식사 등 2500만원 상당의 물품을 제공하는 행사에 관여한 혐의를 받았다. &lt;br&gt;&lt;br&gt;검찰은 송 의원 측이 지지도를 높이려는 목적으로 해당 행사에 참여했다고 봤다. 반면 송 의원 측은 “행사에 참여한 것은 맞지만, 행사를 주관하는 민간 단체를 격려하기 위해 참석한 것에 불과하다”고 주장했다.&lt;br&gt;&lt;br&gt;1심은 송 의원에게 징역 1년에 집행유예 2년을 선고했으나, 2심은 송 의원에게 무죄를 선고했다. 1심 재판부는 “조직적·계획적으로 이뤄진 범행으로 송 의원의 지시 또는 승인이 있었기에 벌어졌다”고 했다. 반면 2심 재판부는 “의원실 측에서 금품 제공에 일정 부분 관여한 정황은 인정되지만 기업 측이 내부 기준에 따라 투자를 결정한 것으로 보인다”며 “현장 현수막에도 기업이 명확히 표시되는 등 기부 상대방이 기부자를 송 의원이라고 인식했다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대법원도 송 의원에 대한 검찰의 상고를 기각하고 무죄 판결을 확정했다. 대법원은 “기부 효과를 자신에게 돌리기 위해 다른 공범들과 공모했다고 볼 만한 객관적인 증거가 없다”는 원심 판단을 받아들였다. &lt;br&gt;&lt;br&gt;송 의원과 함께 재판에 넘겨졌던 보좌관 A씨 등 5명도 무죄가 확정됐다. 다만 비서관 B씨와 봉사단체 관계자 등 3명은 기부 행위 혐의 일부가 유죄로 인정돼 각 90만∼300만원의 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한양대, ‘THE 세계대학 영향력 평가’ 첫 세계 6위·국내 1위</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/24/YOOHG36FPNFFDF7G5MADYLCUA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/24/YOOHG36FPNFFDF7G5MADYLCUA4/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jun 2026 05:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4WKY3FMUZWGZLBGZRDKM3BHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'THE 세계 대학 영향력 평가'에서 세계 6위·국내 1위를 차지한 한양대. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한양대학교는 세계 대학평가 기관인 영국 타임즈 고등교육(Times Higher Education, THE)이 발표한 ‘2026 THE 세계대학 영향력 평가’에서 처음으로 세계 6위, 국내 1위를 기록했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;‘THE 세계대학 영향력 평가’는 유엔의 지속가능발전목표(SDGs)에 대한 이행 성과를 교육, 연구, 사회 기여 활동 등 17개 항목을 기준으로 평가해 순위를 정한다. 올해는 1603개 대학이 평가에 참여했다. 한양대는 9개 SDG 부문 중 SDG 8(양질의 일자리, 경제 성장) 세계 9위, SDG 9(산업, 혁신, 인프라) 세계 9위, SDG 14(해양 생태계 보전) 세계 9위를 차지했다.&lt;br&gt;&lt;br&gt;이기정 한양대 총장은 “지속 가능한 세상을 위해 대학이 가진 교육과 연구의 책임을 다하는 것이야말로 미래 고등교육의 핵심 과제”라며 “한양대는 앞으로도 일회성 성과를 넘어 진정성 있는 사회적 실천과 포용적 혁신을 통해 전 세계대학이 나아가야 할 새로운 기준을 제시하겠다”고 포부를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국토부 서기관 공소기각 확정... 대법, 특검 별건수사 제동걸었다</title>
       <link>https://www.chosun.com/national/court_law/2026/06/24/WD2OJIBC3RF3RHAY5NBA26NEWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/24/WD2OJIBC3RF3RHAY5NBA26NEWY/</guid>
@@ -901,55 +952,6 @@
       <description/>
       <pubDate>Wed, 24 Jun 2026 04:34:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 국민권익위원회 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민원인이 쏜 총에 맞아 숨진 공무원들을 국가유공자로 지정하라고 국민권익위원회가 국가보훈부에 권고했다.&lt;br&gt;&lt;br&gt;권익위는 24일 “경북 봉화군 소천면사무소에서 민원인이 쏜 총에 맞아 사망한 민원 담당 공무원 2명의 유족이 제기한 고충 민원에 대해, ‘국가유공자 요건 심의’를 다시 하도록 보훈부에 의견을 표명했다”고 밝혔다.&lt;br&gt;&lt;br&gt;손모씨와 이모씨는 2018년 8월 21일 소천면사무소에서 각각 민원계장과 민원 담당으로 근무하다가 민원인 김모씨가 쏜 엽총에 맞아 숨졌다. 정부는 이들을 보훈보상대상자(재해사망공무원)로 지정했다.&lt;br&gt;&lt;br&gt;유족들은 “공무원으로 헌신하다가 민원인이 쏜 총에 희생됐는데도 군인·경찰관처럼 제복을 입지 않았다는 이유로 국가유공자로 인정되지 않는 것은 부당하다”며 청와대에 민원을 제기했다.&lt;br&gt;&lt;br&gt;이에 청와대와 권익위가 유족들이 사는 경북 영주군을 찾아가 유족들을 만나 의견을 들었고, 관계 기관으로부터 자료를 받아 사실관계를 조사했다.&lt;br&gt;&lt;br&gt;권익위에 따르면, 김씨는 이웃과의 갈등으로 여러 차례 면사무소와 파출소에 민원을 제기했고, 민원 처리 결과가 마음에 들지 않는다며 1년 동안 범행을 계획했다. 김씨는 ‘무능한 경찰서장, 군수, 공무원 등 다수를 죽여 나의 억울함을 사회에 알리겠다’는 생각을 했고, 이 때문에 일면식도 없던 손씨와 이씨를 상대로 범행을 했다.&lt;br&gt;&lt;br&gt;권익위는 “민원 담당 공무원들은 ‘특이 민원인’의 폭행과 위협 등에 노출돼 있고, (여기에는) 구체적인 직무 수행에 수반되는 위험의 내용 및 정도에 따라 생명과 신체에 대한 위험성이 내재돼 있다”고 봤다. 또 “다수의 공무원을 범행 대상으로 하고 총기를 사용해 인명을 살상한 김씨의 행위는 테러로 볼 수 있다”고 봤다. 그러면서 “고인들은 테러에 희생됐다는 점에서 통상적인 업무 수행 중 사망한 것이라 보기 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;권익위는 또 “군인·경찰관의 경우 일상적인 업무 중에 총격 사고가 발생해도 국가유공자로 인정받는 사례가 있다”며 “제복 여부에 따라 예우 수준을 달리하는 것은 형평성에 어긋난다”고 판단했다.&lt;br&gt;&lt;br&gt;이에 따라 권익위는 보훈부에 “고인들이 사망하게 된 구체적인 사고 발생 경위 등을 감안해, 고인들의 국가유공자 등록 여부를 재심의하라”는 의견을 냈다.&lt;br&gt;&lt;br&gt;권익위는 이와 함께 보훈부에 “민원 담당 공무원이 공무 수행과 관련된 보복성 범죄나 테러 등으로 희생된 경우, 생명과 신체에 고도의 위험이 따르는 업무를 수행한 것으로 보고, 국가유공자로 인정받을 수 있도록 국가유공자법 시행령 개정을 검토하라”는 의견도 냈다.&lt;br&gt;&lt;br&gt;권익위 한삼석 부위원장 겸 사무처장은 “직무 수행 중 불의의 사고로 사망한 공무원의 명예 회복을 위한 길이 열려 다행”이라며 “반복·특이 민원에 대해 기관이 책임 있게 대응해 민원 담당 공무원을 보호하도록 관련 제도 마련에 심혈을 기울이겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘백현동 수사무마’ 곽정기 전 총경, 징역형 집유 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/24/H2AWXDYTK5CXXIDYDM6AL57WSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/24/H2AWXDYTK5CXXIDYDM6AL57WSE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jun 2026 04:26:14 +0000</pubDate>
-      <content:encoded>백현동 개발비리 사건 수사 무마를 청탁해주는 대가로 금품을 받은 혐의로 재판에 넘겨진 총경 출신 곽정기 변호사에게 징역형 집행유예가 확정됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYDSNRRGM3WEY3EHE2TOMLCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽정기 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 대법원 3부(주심 이흥구 대법관)는 변호사법 위반 혐의로 기소된 곽 전 총경에게 징역 2년 6개월에 집행유예 4년, 추징 5000만 원을 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;곽 전 총경은 2022년 5∼7월 백현동 개발사업 민간업자인 정바울 아시아디벨로퍼 회장의 경찰 수사 사건을 맡아 수임료 1억4000만 원을 받은 뒤, 정 회장에게 “경찰청 윗선에 인사를 해야 한다”며 공무원 교제·청탁 명목으로 현금 5000만 원을 추가로 받은 혐의를 받는다. 사건을 소개해 준 박모 경감에게 소개료 400만 원을 건넨 혐의도 있다. 곽 전 총경은 경찰청 특수수사과장과 서울경찰청 지능범죄수사대장을 지내다 2019년 로펌으로 자리를 옮겼으며, 경찰 재직 당시 클럽 버닝썬 사건을 수사한 바 있다.&lt;br&gt;&lt;br&gt;1심 재판부는 곽 전 총경에게 벌금 1000만 원을 선고했다. 1심은 백현동 수사 무마와 관련해 청탁 대가로 금품을 수수한 혐의에 대해서는 무죄를 선고했고 박 경감에게 사건 소개료를 건넨 혐의는 유죄로 인정했다.&lt;br&gt;&lt;br&gt;하지만 2심 재판부는 징역 2년 6개월에 집행유예 4년을 선고하며 판단을 뒤집었다. 2심은 “정 회장의 주요 진술이 일관되고 구체적이며 진술 자체에 모순되는 부분이 없다”며 “현금을 처음 요구받은 장소를 혼동했을 뿐 공소사실의 핵심인 현금의 사용 용도와 금액이 매우 구체적이고 이후 세부 표현도 일관됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원은 원심 판단을 유지하며 “필요한 심리를 다하지 않은 채 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 변호사법 위반죄, 청탁금지법 위반죄 성립에 관한 법리오해 등으로 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미세먼지가 피부 건선 발생·악화 위험 높인다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/24/JVDBUT7F6NBX5FMSGBSR63U2FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/24/JVDBUT7F6NBX5FMSGBSR63U2FI/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jun 2026 04:07:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4TGMRQGAYGIZLBMM3DCYZWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뿌연 도심, 미세먼지-초미세먼지 나쁨/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미세먼지 노출이 만성 염증 피부 질환인 건선을 일으키고 증상을 악화시킬 수 있다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;질병관리청 국립보건연구원은 건강보험공단 자료를 활용해 전국 성인 약 840만명을 대상으로 분석한 결과 이같이 확인됐다고 24일 밝혔다. 이번 연구는 아시아에서 진행한 인구 기반 연구로는 최대 규모다.&lt;br&gt;&lt;br&gt;건선은 전 세계 인구 2~3%가 앓고 있는 만성 염증성 피부 질환이다. 유전적 요인뿐만 아니라 생활환경이나 대기오염 등이 영향을 미치는 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;연구 결과에 따르면 장기간 미세먼지에 노출될수록 건선 발생 위험은 높아졌다. 연평균 초미세먼지(PM2.5) 농도가 10㎍/㎥ 증가할 때, 건선 발생 위험은 약 19% 증가했다. 미세먼지(PM10) 농도가 10㎍/㎥ 증가할 때는 건선 발생 위험이 약 27% 늘어났다.&lt;br&gt;&lt;br&gt;이미 건선을 앓고 있는 환자는 미세먼지로 인해 증상 악화 위험도가 증가했다. 일평균 초미세먼지 농도가 10㎍/㎥ 증가하면 건선 악화 위험은 약 3%, 미세먼지 농도가 10㎍/㎥ 증가할 때는 악화 위험이 약 1% 높아졌다.&lt;br&gt;&lt;br&gt;특히 60세 미만, 도시 거주자, 흡연 경험자, 의료급여 수급자, 알레르기 질환 동반자는 이런 영향을 더 많이 받는 것으로 나타났다.&lt;br&gt;&lt;br&gt;국립보건연구원은 “이번 연구는 미세먼지 노출 저감이 피부 질환 예방·관리 측면에서도 중요하다는 점을 시사한다”며, “미세먼지 농도가 높은 날 건선 환자, 알레르기 질환자 등 취약 계층은 외출 후 세안과 보습 등 피부 관리를 철저히 하고, 증상이 악화될 경우 의료기관을 방문하는 등 건강 관리에 유의할 필요가 있다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QIBRCX3MGBIANO3RSZBIFYJP4U.JPG?auth=393ead322f1a25bf6b9fbb1070e1ba1cd27844bf7ecc5f8c7c13a223ea2176f8&amp;smart=true&amp;width=5112&amp;height=3016" type="image/jpeg" height="3016" width="5112">
-        <media:description type="plain">전국 대부분 지역에 미세먼지 농도가 '나쁨' 수준을 보인 지난달 22일 오전 서울 중구 남산타워 전망대에서 바라본 서울시내가 뿌옇게 보이고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 임지훈 인턴기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“대출금 갚아야 하는데 도와달라”… 前 인천도시공사 직원, 징역형 ‘집유’</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/24/P57Y3TJLXJEXTE4BDITJK7EKWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/24/P57Y3TJLXJEXTE4BDITJK7EKWE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jun 2026 04:56:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAOQETWFCKVUWWX2UTFXN5TKYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대출금을 갚는 데 필요하다는 이유 등으로 업체 관계자에게 금품을 요구한 전 인천도시공사 직원에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 8단독 강성영 판사는 뇌물 요구와 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반 혐의로 기소된 전 인천도시공사 직원 A(59)씨에게 징역 8개월에 집행유예 2년을 선고했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2021년 7월과 지난해 7월 자신이 근무하던 인천도시공사가 발주한 남동구와 연수구 지역 아파트 설비 공사를 맡은 업체 대표 2명에게 뇌물을 요구한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 “대출금도 나가야 하는데, 요새 힘이 드니 좀 도와달라”며 “공사 계약금 2100만원의 5%(105만원)나 10%(210만원) 정도 줬으면 좋겠다”고 한 업체 대표에게 요구한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;다른 업체 대표에겐 “하도급을 줄 때 1000만원 정도 낮게 계약해서 그 돈을 나한테 신경을 좀 써 달라”고 했다. &lt;br&gt;&lt;br&gt;2007년 인천도시공사에 입사한 A씨는 기술직 3급과 4급으로 근무하면서 범행한 것으로 조사됐다. A씨는 지난해 7월 직위해제에 이어, 9월 파면됐다.&lt;br&gt;&lt;br&gt;강 판사는 “피고인은 지방공기업 직원으로, 공정성과 청렴성이 요구되는 지위에 있음에도 자신의 직무와 관련된 업체 관계자들에게 금품을 요구해 죄책이 가볍지 않다”며 “범행을 인정하는 점, 이종 범죄로 2차례 벌금형을 받은 전력 외에 다른 전과가 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>투표용지 합수본, 선관위 관계자 12명 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/24/3K3P7NX6WRCYVLWP4WW4WY2D5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/24/3K3P7NX6WRCYVLWP4WW4WY2D5I/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jun 2026 02:16:13 +0000</pubDate>
-      <content:encoded>6·3 지방선거 투표용지 부족 사태를 수사 중인 검·경 합동수사본부(본부장 김태훈 서울중앙지검 3차장)가 24일 선거관리위원회 관계자 12명을 압수수색했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYTKZTEGJTGGNLGGI3TOMTCMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시 중앙선거관리위원회 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합수본은 이날 “선거 당일 투표용지 부족 상황에 대한 면밀한 재구성을 위해 서울시 선관위 관계자 3명과 송파구 선관위 관계자 9명에 대한 압수수색을 실시했다”고 밝혔다. &lt;br&gt;&lt;br&gt;압수수색 대상자들은 모두 참고인 신분이며, 합수본은 이들의 휴대전화를 확보하기 위해 압수수색을 진행한 것으로 전해졌다. 일부 관계자의 주거지도 압수수색 대상에 포함됐다. &lt;br&gt;&lt;br&gt;이날 압수수색 대상자는 선관위 직원들로, 비상임 시·도 및 구·군 선관위원들은 포함되지 않은 것으로 알려졌다. 합수본은 확보한 휴대전화와 관련 자료를 분석해 투표용지 부족 사태 발생 경위와 당시 보고·대응 체계 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;합수본은 선관위가 투표용지 인쇄 매수 축소를 졸속으로 결정하고, 선거 당일 적절한 대응을 하지 않았다는 의혹을 수사하고 있다. 선거 이후 발생한 투표용지 보관 상자 폐기·분실 의혹도 수사 대상에 포함돼 있다.&lt;br&gt;&lt;br&gt;또한 합수본은 전날(23일) 중앙선거관리위원회에서 ‘투표용지 부족 사태 진상규명위원회’의 활동 자료와 검토 문건을 제출받아 분석 중이라고 밝혔다. 합수본은 지난 11일에는 중앙선관위와 서울시선관위 등 7곳을 압수수색해 투표록과 내부 결재 문서 등을 확보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“성공보수 떼먹으면 감방” 의뢰인 협박한 변호사, 벌금형 확정</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/24/TWDGIPBDDZHCZBKJNLODLFQ5RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/24/TWDGIPBDDZHCZBKJNLODLFQ5RQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jun 2026 02:14:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYWKODCGU2GKMBQHE2TCMBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건 의뢰인에게 “성공보수를 안 주면 고소하겠다”며 수차례 문자메시지를 보낸 변호사에게 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 공갈미수 혐의로 기소된 변호사 A씨에게 벌금 2000만원을 선고한 원심을 확정했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2016년 한 건설 업체가 공정거래위원회에 원청 회사의 하도급법 위반 문제를 제소한 사건을 맡았다. 위임계약에는 A씨가 착수보수 3000만원과 제소 결과에 따른 성공보수를 받는 내용이 포함됐다. A씨는 공정위에 사건 신고서도 제출했다.&lt;br&gt;&lt;br&gt;그런데 업체 측은 A씨의 업무에 불만을 갖고 해지 통보 없이 다른 변호사들에게 사건을 맡겼다. A씨가 사실상 손을 뗀 뒤 진행된 하도급 분쟁 조정 결과 업체는 원청으로부터 17억원을 받아냈다.&lt;br&gt;&lt;br&gt;이후 A씨는 업체 측에 여러 차례 문자메시지를 보내 성공보수 담보금 1억원과 사과 사례금 3000만원 등을 요구한 혐의(공갈미수)로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 업체 관계자에게 ‘내일 12시까지 성공보수 입금하세요. 미입금 시 곧바로 형사고소장 접수함’ ‘망신 당하고 감방가도록 해드리겠습니다. 다른 회사 회장도 재작년에 제 성공보수 떼 먹으려다가 징역 1년 살게 해줬으니’ 등 내용의 문자를 보낸 것으로 조사됐다. 국토교통부에 건설업 면허 말소를 신청하겠다는 취지의 문자도 보냈다고 한다.&lt;br&gt;&lt;br&gt;1·2심은 모두 A씨의 혐의를 유죄로 인정했다. 1심은 “A씨는 권리 행사를 빙자해 사회 통념상 허용되는 범위를 넘어 피해자를 두렵게 만들어 재산상 이익을 취득하려 한 것으로 공갈미수죄가 성립한다”며 징역 8개월에 집행유예 2년을 선고하고 사회봉사 120시간을 명령했다. &lt;br&gt;&lt;br&gt;2심도 A씨에게 공갈미수죄가 성립한다고 판단했지만, A씨에게 2695만원의 성공보수 채권이 있다는 민사 판결이 확정됐고 업체 측과 합의한 점을 고려해 벌금 2000만원으로 감경했다. &lt;br&gt;&lt;br&gt;A씨가 상고했으나 대법원은 이런 항소심 판단에 문제가 없다고 보고 판결을 확정했다. 대법원은 “원심 판단에 공갈죄의 고의, 공갈죄에서의 협박, 불법 영득 의사 등에 관한 법리를 오해한 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 정이한 부친 계열사 직원 ‘선거 운동’ 동원 의혹 수사</title>
