@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 한전 시설물 공사 현장서 매몰 사고… 50대 노동자 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/06/26/EUVHHK564ZDUNOVEUGOSWWLN34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/26/EUVHHK564ZDUNOVEUGOSWWLN34/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Jun 2026 23:32:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTIMLBGE3DEZDCGJRTOYLEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구의 한 맨홀 내 공사 현장에서 매몰 사고가 발생해 1명이 숨졌다. &lt;br&gt;&lt;br&gt;26일 인천소방본부에 따르면 이날 오전 3시 38분쯤 인천 서구 왕길동 안동포사거리의 맨홀 내 공사 현장에서 토사가 무너졌다. &lt;br&gt;&lt;br&gt;이 사고로 작업 중이던 50대 남성 A씨가 크게 다쳐 119 구급대에 의해 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 하청업체 노동자로 사고 당시 한국전력공사 시설물 설치 작업을 하고 있던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰과 노동 당국은 안전 수칙 준수 여부 등 정확한 사고 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 이화영 ‘술 파티 의혹’ 따지는 국민참여재판에 3700만원 또 써</title>
       <link>https://www.chosun.com/national/court_law/2026/06/26/IPRH5NGT2NCOLFWZ5DSNCQD4EM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/26/IPRH5NGT2NCOLFWZ5DSNCQD4EM/</guid>
@@ -768,15 +777,6 @@
       <description/>
       <pubDate>Wed, 24 Jun 2026 15:51:00 +0000</pubDate>
       <content:encoded>노란봉투법 시행 100여 일이 지나면서 재심 기관인 중앙노동위원회도 연이어 판정을 내놓고 있다. 24일 기준 24개 사건에 대한 중노위 판정이 나왔다. 중노위 판정을 받아들이기 어려운 상당수 기업들은 법원에 행정소송 제기를 검토 중이라고 한다. 중노위 결정문을 송달받은 노사는 15일 내 행정소송을 제기할 수 있다. 지난 4일 중노위의 첫 판정이 나왔고, 중노위 결정문 송달에 30일가량 걸리는 점을 감안하면 다음 달 중순부터 본격적인 행정소송 절차가 시작될 것으로 전망된다.&lt;br&gt;&lt;br&gt;그러나 기업들은 소송 전부터 고심에 빠졌다. 중노위가 하청 노조에 대한 사용자 지위를 인정해 교섭하라고 결정한 경우, 교섭을 하지 않으면 ‘부당 노동 행위’로 처벌받을 수 있어서다. 그렇다고 교섭에 응하면서 소송을 하면 법원에서 기각될 가능성이 커진다. 교섭하지 않게 해달라고 소송을 제기한 건데, 법원이 볼 땐 교섭이 이미 진행 중이기 때문이다. 결국 기업 입장에선 모순적이고 불리한 상황에 처한 셈이다.&lt;br&gt;&lt;br&gt;이 문제는 노란봉투법 통과 전부터 지적된 사안이다. 전문가들은 “대법원 판결 전 교섭에 나서도록 한 것은 ‘재판받을 권리’를 침해하는 것”이라고 지적해 왔다. 박지순 고려대 법학전문대학원 교수는 “교섭에 나서는 것은 사측이 사용자성을 인정했다는 간접 근거로 판단될 여지가 있다”고 했다. 이런 구조 때문에 중노위 판정이 사실상 확정 판결에 준하는 역할을 하게 될 것이란 비판도 있었다.&lt;br&gt;&lt;br&gt;일부 기업은 중노위 판정에 불복한 채 교섭 없이 소송을 진행할 것으로 전망된다. 이럴 경우 노조는 고용노동부에 사측을 부당 노동 행위로 고소하거나 노동위원회에 구제 신청 등을 할 수 있다. 노동부는 이에 대해 “사용자의 부당한 교섭 거부·지연 등에 대해서는 법과 원칙에 따라 처리할 계획”이라고 밝혔다. 부당 노동 행위인지 여부를 두고 또 다른 법정 다툼이 불가피해진다는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지방 노동위마다 ‘고무줄 잣대’… 현장 혼란 더 키워</title>
-      <link>https://www.chosun.com/national/labor/2026/06/25/XRXAHYIY6RF4NIOL3K3ZH4NEKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/25/XRXAHYIY6RF4NIOL3K3ZH4NEKM/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Jun 2026 15:51:00 +0000</pubDate>
-      <content:encoded>노란봉투법 시행 100여 일이 지났지만, “노동위 판단이 쌓일수록 기준이 생길 것”이라는 당초 기대와 달리 산업 현장의 혼란은 갈수록 커져가고 있다. 비슷한 사안에 대해서도 지방노동위원회(지노위)에 따라 ‘사용자성’ 인정 여부가 달라질 뿐 아니라, 교섭 단위 분리에 대해서도 엇갈린 판단이 나오고 있다. 경영계와 노동계 모두 “결국 중앙노동위원회, 법원까지 가봐야 결론을 알 수 있는 것 아니냐”는 불만이 나온다.&lt;br&gt;&lt;br&gt;24일 본지가 지노위 판정서 30건을 분석한 결과, 사용자성이 폭넓게 인정되고 있는 ‘산업안전’ 분야에서도 판단이 엇갈렸다. 포스코이앤씨, GS건설, 삼성물산 등 건설사 사건에서는 원청이 작업 전 안전 회의를 실시하고, 위험성 평가와 안전 교육 등을 했다는 점이 사용자성 인정의 주요 근거로 작용했다. 반면 한국노총 소속 한국타워크레인조종사노동조합이 중흥건설·중흥토건을 상대로 낸 사건에서는 전남지노위가 원청 건설사의 사용자성을 인정하기 어렵다고 봤다. 노조는 원청이 안전 교육 등을 실시했다는 점을 근거로 내세웠지만 받아들여지지 않았다. 결국 타워크레인노조는 재심을 신청했고, 중노위는 전남지노위 결정을 뒤집고 산업 안전 의제에 대해 사용자성을 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HSBEAOXPZFSTFNVERMOKFGFAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교섭 단위 분리 사건에서도 판단이 제각각이었다. 쿠팡CLS 사건에서 서울지노위는 민주노총 소속 노조의 교섭 단위 분리 신청을 기각했다. 택배 기사들이 소속된 노조가 다르더라도 근로 조건 등에 큰 차이가 없어 별도 교섭 필요성이 낮다고 본 것이다. 민주노총은 “분리되지 않을 경우 한국노총과 교섭권 분쟁과 현장 갈등이 반복될 것”이라고 주장했지만 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;반면 경북지노위는 포스코 사건에서 민주노총 금속노조·전국플랜트건설노조와 한국노총 금속노련 소속 하청 노조를 별도 교섭 단위로 나눠야 한다고 판단했다. 교섭 단위를 하나로 묶으면 노조 간 갈등이 커질 가능성이 크다고 본 것이다. 인천지노위 역시 노조 간 갈등을 이유로 인천국제공항공사 사건에서 교섭 단위를 한국노총, 민주노총, 그 외 노조 등 3개로 분리하라고 결정했다.&lt;br&gt;&lt;br&gt;노동계와 산업계에선 비슷한 사건이라도 어느 지노위가 판단하는지, 노조 간 갈등을 어느 정도로 평가하는지에 따라 결론이 달라진다는 지적이 나온다. 한 노동계 관계자는 “사안마다 상황이 다르다는 점은 이해하지만, 갈등 정도가 어느 수준이어야 교섭 단위를 분리하는 것인지 기준이 없다”고 말했다. 기업들의 불만도 커지고 있다. 한국산업연합포럼이 지난달 15일부터 이달 18일까지 기업·기관 71곳을 조사한 결과, 기업들은 노란봉투법 관련 가장 큰 어려움으로 ‘사용자성 판단 기준의 모호성’(39.4%)을 꼽았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[현장 르포] 학생은 스마트안경 쓰고 커닝, 교사는 AI 돌려 시험 출제</title>
