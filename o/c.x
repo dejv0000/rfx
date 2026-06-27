@@ -13,6 +13,66 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 일민미술관 흉기난동범 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/27/UDT43J7SBBH4FK32JJTWG5FCHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/27/UDT43J7SBBH4FK32JJTWG5FCHA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 09:31:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYDSZDEHEZTEYRRMM2TCN3CG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울 종로구 일민미술관 건물에서 흉기 난동을 저지른 70대 남성 A씨에 대한 구속영장을 신청했다. 검거 하루 만이다. &lt;br&gt;&lt;br&gt;27일 오후 서울 종로경찰서는 살인 미수와 방화 예비 혐의로 A씨에 대한 구속영장을 신청했다고 밝혔다. A씨는 26일 오전 일민미술관에서 직장 동료였던 40대 남성을 흉기로 다치게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;범행 직후 A씨는 서울 용산구, 동작구 일대로 달아났는데, 범행 10시간 만에 서울 관악구의 한 은신처에서 검거됐다. A씨가 범행 장소에 두고 간 가방에서는 범행에 이용된 낫과 칼 외에 휘발유가 담긴 흰색 연료통이 발견되기도 했다. &lt;br&gt;&lt;br&gt;한편 동아그룹 계열사인 건물종합관리회사 직원이었던 A씨와 피해자는 사옥 일대 청소 관련 업무를 해온 것으로 전해졌다. 피해자는 A씨보다 상급자로 최근 사직서를 낸 상태였다. 범행 당일 짐을 가지러 회사에 왔다가 변을 당했다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위와 동기를 파악 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윗옷 벗고 도로 활보한 40대… 경찰에게 주먹 휘두르다 테이저건 맞고 붙잡혀</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/06/27/QHU236252FGZJLYXZJNP7J357Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/06/27/QHU236252FGZJLYXZJNP7J357Y/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 09:11:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQ7QVEUEZFG5VAG3E726HA5QQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 1시 30분쯤 경기 수원시 팔달구 인계동 한 도로에서 윗옷을 벗은 채 경찰에게 주먹을 휘두른 40대가 테이저건을 맞고 경찰에 붙잡혔다. /온라인 커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간 경기 수원의 한 도로에서 경찰관에게 주먹을 휘두르는 등 난동을 부린 40대 남성이 테이저건을 맞고 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 수원팔달경찰서는 공무집행방해 등의 혐의로 A씨를 현행범으로 체포해 조사 중이라고 27일 밝혔다. A씨는 이날 오전 1시 30분쯤 수원시 팔달구 인계동의 한 도로에서 출동 경찰관에게 주먹을 휘두른 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 경찰은 “도로를 돌아다니며 차량의 통행을 방해하는 사람이 있다”는 신고를 받고 출동한 상태였다.&lt;br&gt;&lt;br&gt;현장에 도착한 경찰은 A씨를 제지하려 했지만, 그는 윗옷을 벗고 주먹을 휘두르며 경찰의 제지에 저항했다.&lt;br&gt;&lt;br&gt;경찰은 왕복 6차선 도로에서 A씨와 실랑이를 벌이다 테이저건을 발사해 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “조치원에서부터 여러 사람이 나를 쫓아왔다”면서 “나는 도망 다니는 중”이라고 횡설수설한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 술에 취한 상태는 아니었으며, 약물 검사는 거부했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 정신질환을 앓고 있다는 가족들의 진술을 받아 응급입원 조치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4NWJ3XSEXNEXBN4LYAST564HWE.jpg?auth=62ea2e1fe43a0e0b5a5ad6dbe7a11b18ddec7dc32eaeaaab44ce018b17b54023&amp;smart=true&amp;width=127&amp;height=96" type="image/jpeg" height="96" width="127">
+        <media:description type="plain">27일 오전 1시 30분쯤 경기 수원시 팔달구 인계동 한 도로에서 윗옷을 벗은 채 경찰에게 주먹을 휘두른 40대가 테이저건을 맞고 경찰에 붙잡혔다. /온라인 커뮤니티 캡처</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘내란 가담’ 박성재 前법무장관, 1심 징역 25년에 불복해 항소</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/27/EK7SCEYPWJAMPD22VYICU4EJJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/27/EK7SCEYPWJAMPD22VYICU4EJJU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 09:08:13 +0000</pubDate>
+      <content:encoded>12·3 비상계엄에 가담한 혐의로 1심에서 징역 25년을 선고받고 법정 구속된 박성재 전 법무부 장관이 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2GCOBWHE4TCNRXMY3TEZLEGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 22일 오후 서울 서초구 중앙지방법원에서 열린 내란중요임무종사, 청탁금지법 위반 등 혐의 1심 선고 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 박 전 장관 측은 전날 서울중앙지법 형사33부(재판장 이진관)에 항소장을 제출했다.&lt;br&gt;&lt;br&gt;박 전 장관은 2024년 12월 3일 비상계엄 선포 직후 법무부 간부 회의를 소집해 계엄사령부 합동수사본부에 검사 파견을 검토하도록 하고, 교정 시설 수용 여력을 점검, 출국 금지 담당 직원 출근을 지시하는 등 윤석열 전 대통령의 내란 범죄에 순차적으로 가담한 혐의(내란 중요 임무 종사) 등을 받는다.&lt;br&gt;&lt;br&gt;1심 재판부는 박 전 장관의 내란 관련 혐의를 모두 유죄로 인정했다. 재판부는 “박 전 장관은 내란이 성공할지도 모른다는 생각에 헌법 수호의 의무를 외면하고, 외려 가담하기로 선택했다”고 밝혔다. 또 박 전 장관이 비상계엄의 실체적·절차적 요건이 충족되지 않았다는 점과 윤 전 대통령이 계엄 이후 국회의 권능 행사를 강압으로 막으려 했다는 사실을 인식했다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 이 같은 판단에 따라 조은석 내란 특별검사가 구형한 징역 20년보다 무거운 징역 25년을 선고하고 박 전 장관을 법정 구속했다.&lt;br&gt;&lt;br&gt;다만 박 전 장관이 김건희 여사 청탁을 받고 김 여사의 ‘디올백 의혹’ 수사 상황을 파악한 혐의(청탁금지법 위반)에 대해선 “특검의 수사 범위를 벗어났다”며 공소기각 판결을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 강원에서 산악 사고로 1명 숨지고 3명 다쳐</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2026/06/27/6GWURSP5NNC6LLVPDYDQXKBAIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/06/27/6GWURSP5NNC6LLVPDYDQXKBAIE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 08:38:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTQYRYGYZTGNJZMEZGKYZTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 3시쯤 강원 설악산 권금성 케이블카 상부 정류장 인근 탐방로에서 폴란드 국적의 여성 A(66)씨가 쓰러져 국립공원공단 설악산국립공원사무소 관계자들과 119구급대원들에게 응급조치를 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6월 마지막 주말 강원도를 찾은 등산객들의 산악 사고가 잇따랐다.&lt;br&gt;&lt;br&gt;27일 본지 취재를 종합하면, 이날 오후 3시 5분쯤 설악산 권금성 케이블카 상부 정류장 인근 탐방로에서 폴란드 국적 여성 A(66)씨가 쓰러졌다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;국립공원 특수 산악 구조대와 소방 당국은 심정지 상태의 A씨를 인근 병원으로 옮겼지만, A씨는 결국 숨졌다. 경찰과 소방 당국 등은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;앞서 오전 7시 53분쯤 인제군 북면 용대리 설악산 오세암 인근에서는 30대 등산객이 발목을 다쳐 헬기를 통해 구조됐다. 오후 1시 6분쯤 삼척시 신기면 대이리 덕향산 대금굴 인근에서는 70대 등산객이 다리에 쥐가 나 구조대 도움을 받아 하산한 후 일행과 귀가했다.&lt;br&gt;&lt;br&gt;또 오후 2시 37분쯤 평창군 진부면 동산리 오대산 동대 관음암 인근에서는 70대 등산객이 넘어지면서 머리 등을 다쳤다. 이 등산객은 구조대와 함께 산을 내려온 후 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 28일 일요일 (음력 5월 14일 癸酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/27/25WVDOWFBBGKDBTTWLKEGLX654/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/27/25WVDOWFBBGKDBTTWLKEGLX654/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[부음] 박민 전 KBS 사장 부친상</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/06/27/2MGJ3QEEJNAXBFY57R2KMOTY2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/06/27/2MGJ3QEEJNAXBFY57R2KMOTY2M/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 07:58:46 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;박준근&lt;/b&gt; 별세, &lt;b&gt;박미라&lt;/b&gt;·&lt;b&gt;박미원&lt;/b&gt;·&lt;b&gt;박민&lt;/b&gt; 前 KBS 사장·&lt;b&gt;박미진&lt;/b&gt; 부친상, &lt;b&gt;김홍수&lt;/b&gt;·&lt;b&gt;김성천&lt;/b&gt; 장인상, &lt;b&gt;김홍경&lt;/b&gt; 시부상=27일9시40분 부산 시민장례식장, 발인 30일6시, (051)636-4444&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“아이가 그런 건데 괜찮아요” 엄마 울린 택시 기사의 한마디</title>
       <link>https://www.chosun.com/national/national_general/2026/06/27/2RTSNMRL7BE4RPBBU4H5QRGMHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/27/2RTSNMRL7BE4RPBBU4H5QRGMHA/</guid>
@@ -387,16 +447,6 @@
       <description/>
       <pubDate>Fri, 26 Jun 2026 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TCOBWGU4TQNRRMY4TSNTGMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 개장한 서울 광진구 뚝섬한강공원 수영장 모습. 시민 대부분 햇볕을 가리기 위한 래시가드를 입은 모습이다. 해외 휴양지에서도 한국인은 래시가드로 알아볼 수 있다고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인도네시아 발리의 리조트에 놀러 간 회사원 이모씨는 흥미로운 경험을 했다. 한국어가 들려 돌아보면 99% 래시가드 차림이더라는 것. 해변과 수영장뿐만 아니라, 조식 식당에도 쇼핑몰에도 온몸을 덮은 물놀이 옷을 입고 다니는 한국인 대열이 눈에 띄었다고 한다. 박씨는 “래시가드가 ‘21세기 한국 전통 의상’이란 말이 뭔지 실감했다”고 했다. &lt;br&gt;&lt;br&gt;한국인의 고유한 정체성을 드러내는 ‘K’가 허락된 의복이 있다면 단연 래시가드다. 한국인 말곤 이렇게 남녀노소 단체로 입는 나라가 없다. 과거 해외 여행지의 중년 등산복 열풍 저리가라다. 후드 달린 상의와 긴 하의, 아쿠아 슈즈로 중무장하면 무슬림 여성 수영복인 ‘부르키니’를 연상시켜 ‘한복키니’로도 불린다. 외국 SNS엔 “한국인은 왜 옷을 입고 수영하느냐”는 질문이 심심치 않게 올라온다. &lt;br&gt;&lt;br&gt;래시가드는 1980~1990년대 호주·하와이의 서퍼들이 입기 시작했다. 찰과상, 햇볕에 의한 화상, 해파리 등에 의한 발진(rash)을 막기(guard) 위해서였다. 이게 2010년대 중반 한국에 상륙하며 급속히 유행했다. 10년이 지난 지금 래시가드는 수영복의 대체품이 됐다. 아웃도어 의류와 일반 의류 브랜드도 매년 여름 래시가드 신상품을 선보인다.&lt;br&gt;&lt;br&gt;한국인이 래시가드를 좋아하는 첫째 이유는 ‘살 타는 것’을 끔찍이 싫어해서다. 그을린 피부를 건강과 부의 상징으로 여기는 서구인과 반대다. &lt;br&gt;&lt;br&gt;둘째, 노출을 꺼리는 문화다. “부끄러운 몸매를 가리려고 입는다”는 이들이 많은데, 래시가드는 사실상 ‘시선가드’인 셈이다. 배가 나왔건 엉덩이가 처졌건 흉터가 있건 늙었건 수영복 입고 자신만의 시간을 즐기는 외국과 달리, 한국에선 피부에 좋다는 온천 풀에서도 온몸을 꽁꽁 감싼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWM237KNRNFUPGT64ORLC4VHTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초등학생들 생존 수영 수업 모습. 한국에서 물놀이 의류인 래시가드가 수영복의 대체품으로 인식되면서 실내 수영장에도 래시가드를 입고 오는 일이 흔하다. 그러나 래시가드는 물 대한 저항이 커 수영을 제대로 할 수 없는 옷이다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;셋째, 이미 대세라서 안 입으면 튈까 봐, 손가락질 당할까 봐 입는 집단 문화가 됐다. 한 수영 강사는 “초등학교 생존수영 수업을 해보니 한 반 26명 중 24명이 래시가드를 입고 와 당황했다”며 “실내 수영복 입은 두 명이 놀림을 받기에 ‘이 친구들이 제대로 입은 것’이라고 설명해야 했다”고 전했다. &lt;br&gt;&lt;br&gt;래시가드는 실내에선 위험하다. 다이빙 슈트가 아닌 일반 래시가드는 물에 대한 저항력을 높이고 부력을 떨어뜨려 가동성이 제한돼 제대로 된 수영이 힘들다. 배수구에 빨려 들어갈 수도 있다. 젖은 옷을 입고 있으면 체온이 떨어져 아기들에게 특히 위험하다. &lt;br&gt;&lt;br&gt;래시가드는 섬유와 염료가 많아 수영장 수질에도 영향을 준다. 이 때문에 대부분 실내 수영장이 일반 의류로 분류된 래시가드 착용을 금하지만, 항의 민원이 많다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[기자의 시각] 나만 빼고 다 돈을 번다</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/GEFGLCE5GNCYJLLH2N2LGBEXCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/GEFGLCE5GNCYJLLH2N2LGBEXCI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jun 2026 14:35:00 +0000</pubDate>
-      <content:encoded>“이런 불장에 마이너스 난 사람이 있을까요?” 코스피가 9000선을 돌파한 날, 회의실에서 누군가 말했다. 다들 웃었다. ‘주식에 빠진 한국’ 기획 기사를 쓰면서 기록적 불장(상승장)에도 돈을 잃은 사람을 취재해보자는 말이 나왔다. 멀리서 찾을 필요가 없었다. 내 주식 수익률은 -43.2%다. 부끄러워서 주변에는 “-30% 정도”라고 축소해 말한다.&lt;br&gt;&lt;br&gt;인생 첫 주식 투자는 2018년. 삼성전자가 ‘50대 1’ 액면분할을 하며 ‘5만전자’가 됐을 때다. 온 세상이 ‘10만전자’를 외쳤다. 회사 선배도, 대학 친구도, 고향에 계시는 어머니도 삼성전자를 샀다. 8만원대에 전 재산에 준하는 돈을 넣었다. 그러나 그즈음 삼성전자는 10만전자 고지에 오르지 못했다. 결국 5만원대에 팔았다. 26일 기준 삼성전자는 33만9500원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LVSBH5HGBLY3DYJBPUTD6ZNVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 중구 하나은행 딜링룸 현황판에 코스피 등이 표시되고 있다. 이날 코스피는 전 거래일 대비 519.09포인트(5.81%) 내린 8,411.21에, 코스닥은 36.44포인트(4.10%) 내린 851.37에 장을 마감했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우량주 대신 테마주 투자로 갈아탔다. 2019년, 김정은과 트럼프가 악수를 나눴다. 미·북 간 평화 분위기가 조성됐다. ‘역사적 전환점에 올라탄다’는 마음으로 대북주를 샀다. 돈도 벌고 평화에 기여하는 투자라고 여겼다. 그런데 하노이에서 정상회담이 결렬됐다. 노딜에 주가는 반 토막. 평화는 오지 않았고, 돈도 돌아오지 않았다. 나는 주식 앱을 지웠다.&lt;br&gt;&lt;br&gt;작년 말부터 다시 주식을 했다. 삼성전자로 돌아갔다. 사면 떨어지고 팔면 올랐다. 11만원에 사서 10만원에 팔고, 20만원에 사서 19만원에 팔았다. 삼성전자와는 궁합이 맞지 않는다는 결론을 내렸다. 주식 고수로 불리는 지인 추천으로 수소주로 갈아탔다. 매수한 날부터 주가가 내려갔다. 수익률 -34.4%. 그 형은 요즘 연락이 잘 안 된다.&lt;br&gt;&lt;br&gt;올해 이란 전쟁이 터졌을 땐 방산주를 샀다. 이익도 손실도 두 배가 나게 설계된 레버리지 종목이었다. 그런데 미국과 이란이 협상 테이블에 앉자 주식은 곤두박질쳤다. 레버리지라 낙폭은 두 배였다. 현재 수익률은 -53%. 대북주를 샀을 때 세계 평화를 빌던 내가 이번엔 전쟁이 이어지길 바라고 있었다. 주식이 나를 이상한 사람으로 만들었다.&lt;br&gt;&lt;br&gt;미래에셋증권에 따르면 올해 주식시장에서 수익률 꼴찌는 30대 남성(27%)이었다. 1위는 70대 남성(42%)이다. 이유는 하나다. 70대는 사고 기다렸다. 30대는 ‘사팔(사고팔고)’을 자주 했다. 이유가 짐작은 간다. 나만 뒤처질 것 같은 불안은 우리 세대 기본 정서다. ‘월급만으론 살아남을 수 없다’는 불안이 사람을 조급하게 만들고, 원칙 없는 손실 투자로 이어지는 것 같다.&lt;br&gt;&lt;br&gt;요즘 나는 월급의 소중함을 역설적으로 깨닫고 있다. 직장은 매달 배당금을 꼬박꼬박 주는 주식이다. 원금 손실이 없다. 사고팔 필요도 없다. 성실하기만 하면 반은 먹고 들어간다. 이걸 ‘원화 채굴’이라 부른다고 한다. 따지고 보면 지금껏 투자한 종목 중 수익률이 가장 높은 건 이 직장이었다. 코스피 9000 시대, -43.2%. 나는 오늘도 출근한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IKCV6OCPAFAYRIRS7J3QVVVVLA.png?auth=ec3de8d560f4ecf1c7246c911ab5ca1c3ef5783069137e72199f0ce1979099aa&amp;smart=true&amp;width=500&amp;height=500" type="image/png" height="500" width="500"/>
     </item>
     <item>
       <title>서울 서대문서 승합차 중앙분리대 넘어 버스와 충돌...16명 부상</title>
@@ -816,51 +866,6 @@
       <description/>
       <pubDate>Thu, 25 Jun 2026 15:45:00 +0000</pubDate>
       <content:encoded>강원 횡성군 A중학교는 올해 전교생이 4명뿐이다. 교사가 학생보다 많은 7명이다. 지난 2000년 인근에 댐이 들어서면서 주민들이 다른 지역으로 이주한 영향이다. 학생이 워낙 적어서 학교 예산과 지역 기관들의 지원으로 온갖 체험 활동이 무료로 제공된다. 올해 방과 후 수업으로 난타·중국어 강좌가 열렸는데, 학생이 낸 수강료는 0원이었다. 오는 10월 현장 체험 학습 일환으로 가는 싱가포르 여행도 무료다. 하지만 A중 관계자는 “지원은 많이 해줄 수 있어도 정작 친구가 없다 보니 토론 수업이나 축구·피구 등 이 나이 때 해야 하는 필수 활동은 어려운 상황”이라고 했다.&lt;br&gt;&lt;br&gt;학생 수가 갈수록 줄어들면서 ‘소규모 학교’가 빠르게 늘어나고 있다. 25일 본지가 ‘2026년 초·중·고 정보공시’ 자료를 분석한 결과, 전국 초등학교 6281곳 가운데 학생 수 60명 이하인 초등학교는 1732곳으로 전체의 27.6%에 달하는 것으로 나타났다. 2년 전 1640곳보다 100곳 가까이 늘어난 것이다. 중학교도 전국 3336곳 중 소규모 학교(전교생 60명 이하)가 575곳으로 전체의 17.2%를 차지했다. A중처럼 전교생이 10명 이하인 ‘초미니 중학교’는 2년 전 63곳에서 83곳으로 증가했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOXT3P7BZBD3ROOPLXHIR7ODPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 전국 17개 시도교육청 가운데 전남(59.5%), 강원(57.5%), 전북(53.2%), 경북(51.5%)은 이미 초등학교 절반 이상이 소규모 학교였다. 중학교도 전남(48.8%), 강원(41.1%), 전북(38.6%) 등 지역에서 소규모 학교 비율이 높았다. &lt;br&gt;&lt;br&gt;이렇게 소규모 학교가 급증하는 이유는 학생 수 감소세가 심각하기 때문이다. 전국 초·중·고 학생은 올해 484만1276명으로 2년 만에 30만명 가까이 줄었다. 앞으로는 더 크게 줄어든다. 2030년까지 2025년 대비 90만명(21%) 줄고, 특히 초등학생은 같은 기간 30% 넘게 급감한다고 교육부는 25일 밝혔다. &lt;br&gt;&lt;br&gt;문제는 소규모 학교가 급증하면서 학생 한 명당 들어가는 비용이 치솟는다는 점이다. 실제 A중은 올해 예산 중 학생 복지와 교육 활동에 쓰는 돈이 1억2000만원가량으로, 학생 1명당 3000만원꼴이다. 송기창 숙명여대 교육학부 명예교수는 “학생이 많든 적든 교실과 교사가 필요하고, 인건비나 시설 운영비 등 학교 운영비가 들어가는 건 마찬가지니, 소규모 학교가 늘어날수록 결국 교육 예산의 효율성이 떨어지게 되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;실제로 소규모 학교의 증가로, 학생 수 감소에 맞춰 교사 수를 줄이는 것도 쉽지 않은 상황이다. 교육부는 이날 ‘중장기(2027~2030년) 초·중등 교과 교원 수급 방향’을 발표하면서 내년에 초등 교사 2700~2900명, 중등 교사 4700~5100명을 새로 뽑겠다고 밝혔다. 초등은 2년 전 계획(2600~2900명)과 비슷하지만, 중학교는 2년 전(3500~4000명)보다 오히려 1000명 이상 늘었다. 교육부는 인구 감소 지역 소규모 학교 학생들의 학습권 보장과 교육 과정의 원활한 운영에 적정 수의 교사가 필요한 점, 고교학점제 등 새로운 교육 수요가 있다는 점을 대표적인 이유로 들었다. &lt;br&gt;&lt;br&gt;박남기 광주교대 명예교수는 “사회성과 학습 동기는 또래 집단 안에서 길러지는데, 소규모 학교에서는 그 토대가 무너질 수 있다”며 “학생 감소 속도에 맞춰 통폐합에 속도를 내야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 북항 돔구장 추진… ‘사직의 추억’ 끝나나</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/J63TOI6M35CSDB2HQVXFTSK3EA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/J63TOI6M35CSDB2HQVXFTSK3EA/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIMNMKS7HVGSJJI6SU3IMGBISI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북항에 돔구장이 들어선다면…  24일 하늘에서 내려다본 부산 북항 재개발 부지. 가운데 큰 공터가 랜드마크 건설 부지다. 전재수 부산시장 당선인은 이곳에 3만석 규모 돔구장을 짓는다는 계획이다. 사진 왼쪽에 있는 흰색 건물은 내년 9월 개관하는 오페라하우스다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 부산시장 선거에서 더불어민주당 전재수 후보가 당선된 이후 부산 북항 부지에 돔구장을 짓는 구상이 본격화하고 있다. 미국 메이저리그(MLB) 샌프란시스코 자이언츠의 홈구장인 오라클파크처럼 바다가 보이는 야구장을 짓자는 것이다. 북항 부지는 부산역 동쪽에 있는 낡은 항만 지역이다. 항만 시설이 부산 강서구와 경남 창원 등으로 이전한 이후 재개발 사업이 진행 중인 곳이다. 내년 9월에는 부지 한쪽에 오페라하우스가 먼저 문을 연다.&lt;br&gt;&lt;br&gt;북항 돔구장 건설은 전 당선인의 지방선거 공약이다. 북항 랜드마크 건설 부지에 지붕을 열고 닫을 수 있는 3만석 규모 개폐식 돔구장을 짓는다는 계획이다. 일본 프로야구 소프트뱅크 호크스의 후쿠오카 돔(미즈호 페이페이 돔 후쿠오카)이 개폐식 돔구장이다. 3만석은 2032년 개장하는 서울 잠실 돔구장과 비슷한 규모다. SSG가 2028년 인천 청라에 짓는 돔구장(2만3000석)보다 크다.&lt;br&gt;&lt;br&gt;전 당선인은 K팝 공연장, 쇼핑몰, 호텔 등을 갖춘 복합 돔구장으로 개발한다는 구상이다.&lt;br&gt;&lt;br&gt;전 당선인이 돔구장을 지으려는 북항 랜드마크 건설 부지는 11만3286㎡(약 3만4000평) 크기로 2023년 터를 닦는 공사를 마쳤다. 박형준 부산시장은 2024년 12월 4조5000억원 규모의 외국 자본을 유치해 호텔, AI(인공지능) 헬스케어센터 등을 갖춘 88층 랜드마크 타워를 짓겠다고 발표했다. 삼성전자, 넷플릭스 등과 함께 ‘북항 랜드마크 컨소시엄’까지 꾸렸다. 이후 민간투자를 유치하려고 했으나 두 차례 공모 모두 불발됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6MCJRQUF5GEZHNZ554KGAYU3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역에선 “오랫동안 답보했던 북항 재개발 사업에 속도가 붙을 것 같다” “부산의 미래를 좌우할 금싸라기 땅에 돔구장을 짓는 게 맞느냐” 등 의견이 갈리고 있다. &lt;br&gt;&lt;br&gt;지방분권균형발전 부산시민연대가 지난 12~15일 부산시민 500명을 대상으로 실시한 여론조사에서, 응답자의 59%가 북항 돔구장 건설에 찬성했다. 야구 팬들 사이에서는 “KTX 타고 부산 가서 원정 응원할 수 있겠다”는 반응도 나왔다. 북항을 지역구로 둔 국민의힘 곽규택 의원도 호응하고 있다.&lt;br&gt;&lt;br&gt;문제는 비용이다. 전 당선인은 돔구장 사업비를 약 1조3000억원으로 예상한다. 전 당선인은 지난 15일 기자들과 만나 “1조3000억원 중 부지 대금 6300억원(44%)은 부지를 소유한 부산항만공사가 사업에 참여해 지분을 받는 방식으로 해결할 수 있고, 나머지 6700억원은 민간 투자를 유치하면 된다”고 했다. 이와 관련해 항만공사도 개발 사업에 참여할 수 있도록 하는 ‘항만공사법 개정안’이 지난 18일 국회를 통과했다.&lt;br&gt;&lt;br&gt;전 당선인은 “시민이 돔구장 건설에 참여할 수 있게 ‘시민 공모주’를 발행하는 방안도 검토하고 있다”고 했다. 시민들이 돈을 내 일부 비용을 충당할 수 있다는 것이다. 부산 지역 건설사인 협성종합건업은 최근 “북항에 야구장을 지으면 무상으로 공사를 하는 방식으로 3000억원을 기부하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 업계 관계자는 “경남 진해신항 개발에 막대한 자금이 필요한 항만공사가 개발에 참여할 수 있을지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;현재 롯데자이언츠가 홈구장으로 쓰고 있는 동래구 사직구장 주변 상인들은 반발하고 있다. 유수원 국민시장 상인회장은 “야구장 덕분에 먹고사는데 파산하란 말이냐”며 “야구장 이전 계획에 결사 반대한다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 서지영(부산 동래) 의원은 지난 19일 국회에서 기자회견을 열고 “부산 시민, 프로야구 팬과 40년 넘게 함께한 사직구장을 몇 사람 뜻에 따라 없애면 안 된다”고 했다. &lt;br&gt;&lt;br&gt;이에 대해 전 당선인은 “사직구장에선 프로야구 경기가 1년에 약 60일 열려 낙수 효과가 600억원 수준”이라며 “사직구장을 동호인들이 밤낮으로 사용할 수 있는 생활 체육 메카로 만들면 그 이상 경제 효과를 낼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;새 야구장 건설은 부산 지역의 숙원 사업이다. 사직구장은 1985년에 지어 노후화가 심각하다. 허남식 전 시장이 2010년 사직구장을 돔구장으로 짓자고 제안한 이후 시장 선거 때마다 이슈로 떠올랐다가 무산됐다. 오거돈 전 시장은 북항에 ‘개방형 야구장’을 짓겠다고 했다. 박 시장은 사직구장을 재건축하기로 방향을 잡았다. 문화체육관광부의 공공 체육 시설 개보수 지원 공모에 선정돼 국비 299억원도 확보했다. 총비용은 약 2924억원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이승우·하종현·배창호 등 7명 대한민국예술원 신입 회원 선출</title>
-      <link>https://www.chosun.com/national/people/2026/06/26/F7FWUEUEDFCCXJPFXB2ZDENOPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/26/F7FWUEUEDFCCXJPFXB2ZDENOPM/</guid>
-      <dc:creator>백수진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>대한민국예술원(회장 손진책)은 25일 소설가 이승우, 화가 하종현·원문자·송수련, 대금연주가 임재원, 연극평론가 유민영, 영화감독 배창호 등 7명을 신입 예술원 회원으로 선출했다고 밝혔다. 또 대한민국 예술원상(상금 5000만원) 수상자로 소설가 이동하(문학), 피아니스트 김대진(음악), 연출가 김도훈(연극)을 선정했다. 젊은예술가상(상금 2500만원) 수상자로는 소설가 최은영(문학), 김민애 작가(미술), 작곡가 김신(음악), 김수정 연출가(연극), 윤가은 감독(영화), 무용가 홍경화(무용)가 선정됐다. 시상식은 9월 7일.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 이상열 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/06/26/LLZ6LP4K2JA3ZBQEPXXZ5TYP2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/06/26/LLZ6LP4K2JA3ZBQEPXXZ5TYP2Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;이상열&lt;/b&gt; 별세, &lt;b&gt;이경주&lt;/b&gt;·&lt;b&gt;이동숙&lt;/b&gt;·&lt;b&gt;이명자&lt;/b&gt;·&lt;b&gt;이혜진&lt;/b&gt; 부친상, &lt;b&gt;김익&lt;/b&gt; 한국전과정평가학회 학회장·&lt;b&gt;나요한&lt;/b&gt; 장인상=24일9시22분 성남중앙병원, 발인 26일7시, (031)799-5260&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정훈&lt;/b&gt; 前 한국일보 부장 별세, &lt;b&gt;이석윤&lt;/b&gt; 前 경북 포항시의원·&lt;b&gt;이석준&lt;/b&gt; 센트럴모터스 렉서스 분당 영업이사 부친상=24일19시4분 경북 포항 국화원장례식장, 발인 26일9시30분, (054)272-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이주용&lt;/b&gt; 이주용안과의원 원장 별세, &lt;b&gt;이상규&lt;/b&gt; 남편상, &lt;b&gt;이현주&lt;/b&gt; 리치몬트코리아 마케팅 매니저·&lt;b&gt;이호진&lt;/b&gt; 다유통상 팀장 부친상, &lt;b&gt;김태현&lt;/b&gt; 한국은행 부산본부 기획금융팀장 장인상, &lt;b&gt;심효진&lt;/b&gt; 삼주유통 팀장 시부상=23일16시54분 서울아산병원, 발인 26일6시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“서초 재건축 지원단 꾸려 지지부진한 사업에 속도”</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/VU7QI4TGXBEEFNK2ZHPOCPPVSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/VU7QI4TGXBEEFNK2ZHPOCPPVSI/</guid>
-      <dc:creator>이미지 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>전성수(65) 서울 서초구청장은 이번 6·3 지방선거에서 서울 구청장 25명 중 가장 높은 득표율(66.4%)을 기록하며 재선에 성공했다. 전 구청장은 행정안전부 대변인, 인천시 행정부시장을 거쳤다. 이번 서초구청장 선거에 국민의힘 후보로 출마했다. &lt;br&gt;&lt;br&gt;전 구청장이 당선 첫날 출근하자마자 결재한 1호 사업은 ‘찾아가는 재건축 신속 지원단’ 신설안이었다. 변호사·건축사·감정평가사 등 100여 명 규모의 지원단을 꾸려 재건축 사업 속도를 끌어올리겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5HPT2XVXVEMRGXBM2VNJLKMBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-당선되자마자 지원단을 챙긴 이유는.&lt;br&gt;&lt;br&gt;“선거 때 걸어서 서초구 곳곳을 다녔다. 만나는 주민들마다 손을 잡고 ‘재건축 좀 빨리 해달라’고 하더라. 요즘 같은 고금리·고환율 상황에선 사업이 하루만 늦어져도 부담이 눈덩이처럼 불어난다. 다 돈이다. 주민들의 재산권을 지켜야겠다는 생각이 급했다.”&lt;br&gt;&lt;br&gt;-앞으로 4년간 집중할 사업은.&lt;br&gt;&lt;br&gt;“양재동·우면동 ‘양재 AI(인공지능) 특구’와 양재동·개포동 ‘양재 ICT(정보통신기술) 진흥 지구’를 묶어 ‘글로벌 AICT 벨트’로 육성하려고 한다. 2030년까지 AI·ICT 기업 1000개를 유치해 혁신 생태계를 만드는 게 목표다. 근처에 있는 현대·기아차, 삼성·LG·KT R&amp;amp;D(연구개발) 센터, 카이스트 AI 융합센터와 시너지를 낼 것으로 기대한다.”&lt;br&gt;&lt;br&gt;-스타트업을 유치할 복안이 있나.&lt;br&gt;&lt;br&gt;“실력 있는 선수(기업)가 마음껏 뛸 수 있는 환경을 만들어주는 게 내 역할이다. 작년 말 양재동에 있는 강남데이터센터 오피스동을 통째로 임대해 ‘서초 AICT(AI+ICT) 우수 기업 센터’를 열었다. 우수 스타트업에게 주변 사무실 임대료의 20%만 받고 사무실을 빌려준다. ‘서초 AICT 스타트업 펀드’를 조성해 필요한 자금도 지원한다.”&lt;br&gt;&lt;br&gt;-경부고속도로 지하화도 중요한 사업이다.&lt;br&gt;&lt;br&gt;“경부고속도로 지하화 사업은 고속도로 때문에 단절된 보행로와 녹지축을 잇는 도시 공간 대혁신 사업이다. 교통 혼잡을 줄이는 데도 도움이 될 것이다. 서울시와 긴밀히 협의해 추진하고 있다.”&lt;br&gt;&lt;br&gt;-양재역세권에 있는 구청사를 복합 개발한다는 계획도 내놨다.&lt;br&gt;&lt;br&gt;“민간 투자를 유치해 서울 남부 지역의 ‘교통 허브’로 개발할 계획이다. 청사뿐 아니라 GTX(수도권광역급행철도)-C·광역버스 환승센터, R&amp;amp;D 센터 등을 갖춘다. 이미 재정경제부 적정성 심의를 통과했고 지난주 한국개발연구원(KDI)에 민자 적격성 조사를 의뢰했다. 속도를 높여 2029년 착공, 2032년 준공하는 게 목표다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수용자·범죄 피해자 자녀 등에 ‘같이함께’ 4500만원 장학금</title>
-      <link>https://www.chosun.com/national/people/2026/06/26/RHX3TCHLYBBFHE45NECK4O75Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/26/RHX3TCHLYBBFHE45NECK4O75Y4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2SQWZGF4BDFLGPVI7ELS42WN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장학재단 같이함께(이사장 안대희 전 대법관)는 25일 서울 종로구 서원빌딩 사무실에서 2026년 상반기 장학금 수여식을 갖고 수용자 자녀 및 범죄 피해자, 교정 공무원 자녀 등 18명에게 4500만 원을 전달했다. 같이함께는 2014년 설립돼 수용자 자녀 등이 경제적 어려움으로 학업을 포기하지 않도록 지원하는 일을 해오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[우리 아기가 태어났어요] 김혜준·김태희 딸 유빈 외</title>
