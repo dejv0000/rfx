@@ -13,6 +13,117 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“아이가 그런 건데 괜찮아요” 엄마 울린 택시 기사의 한마디</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/27/2RTSNMRL7BE4RPBBU4H5QRGMHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/27/2RTSNMRL7BE4RPBBU4H5QRGMHA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 05:58:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMYMNHCMDRFWFBXDSKWFTHLTHY.png"&gt;&lt;figcaption&gt;&lt;small&gt;사연을 바탕으로 만든 생성형 인공지능(AI) 챗GPT 이미지.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6개월 아이가 택시 안에서 많은 양의 토를 했는데도 오히려 엄마와 아기를 달랜 택시 기사의 미담이 알려져 화제다. &lt;br&gt;&lt;br&gt;지난 26일 한 인터넷 카페에 “아기가 택시에서 분수토를 했어요”라는 제목의 글이 올라왔다. 6개월 된 아기의 엄마라는 A씨는 최근 아이에게 분유를 먹였다가 두드러기 반응이 일어나 병원에 다녀왔다고 한다. &lt;br&gt;&lt;br&gt;그런데 집으로 오는 길에 이용한 택시에서 아기가 많은 양의 토를 하는 상황이 벌어졌다. A씨는 아기를 안고 있는 데다가 짐까지 들고 있어 당장 토를 닦을 수 없었다. 이에 A씨는 “집에 도착하면 바로 청소해드리겠다”고 수차례 택시 기사에게 이야기했다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2CALDRB4RCCLK6U7NFXFJAYSE.png"&gt;&lt;figcaption&gt;&lt;small&gt;26일 한 인터넷 커뮤니티에 올라온 '택시기사 미담'글 캡처./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 돌아온 택시 기사의 한마디는 “아기가 그런 건데 괜찮아요”였다. 당황한 A씨가 연신 죄송하다고 하자, 택시 기사는 오히려 당황한 A씨를 안심시키고 비닐봉지와 물티슈, 휴지 등을 챙겨줬다. 도착 후 “잠시 기다려달라”는 A씨의 말에도 불구하고, 택시 기사는 곧장 자리를 떴다.&lt;br&gt;&lt;br&gt;A씨는 조금이라도 보답하고픈 마음에 택시 호출 앱을 통해 기사님 연락처를 찾아 연락했다. 하지만 “계좌번호 알려주시면 답례라도 하고 싶다”는 A씨의 말에도 택시기사는 “아기가 그런 건데 괜찮다”라며 정중히 거절했다고 한다. &lt;br&gt;&lt;br&gt;A씨는 “아기 첫 알레르기 반응이라 놀랐는데, 기사님의 따뜻한 배려 덕분에 눈물이 났다”며 “서울 OO구의 송OO 기사님, 오늘 저희 아기와 저를 배려해주셔서 진심으로 감사하다. 기사님의 따뜻한 마음을 오래도록 기억하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기장 앞바다 어선 충돌 사고 낸 LPG 운반선 선장·항해사 입건</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/06/27/WM2FUIZZFFGEPCCQVZFVPPJKAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/06/27/WM2FUIZZFFGEPCCQVZFVPPJKAE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 06:08:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZAY7JTXF4RGTRMLGNNPFU3O7W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산해양경찰서 대원들과 119구급대원들이 지난 25일 오전 부산 기장군 대변항 앞바다에서 침몰한 79t급 어선에서 구조한 승선원들을 이송하고 있다. /울산해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 기장 앞바다에서 선박 충돌 사고로 1명이 숨지고 2명이 실종된 사건과 관련해 해양경찰이 선장 등 2명을 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;울산해양경찰서는 992t급 LPG 운반선 가스브로드웨이호 선장 A(60대)씨와 3등 항해사 B(30대)씨를 업무상과실선박매몰·업무상과실치사 혐의로 입건했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 25일 오전 10시 10분쯤 부산 기장군 대변항 남동방 약 42.6㎞ 해상에서 가스브로드웨이호를 운항하던 중 79t급 어선 제3동아호(승선원 8명)와 충돌사고를 야기한 혐의를 받는다. 해경은 이들이 전방 주시 태만으로 충돌 사고를 야기한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 LPG 운반선의 총책임자이고, B씨는 사고 당시 조타실에서 운반선을 모는 역할을 한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;당시 사고로 어선이 뒤집히면서 승선원 전원이 바다에 빠졌고, 이후 6명은 구조됐지만 이 중 1명은 숨졌다. 나머지 2명(인도네시아 국적)은 아직 실종 상태다. 해경은 경비함정 등을 동원해 실종자들에 대한 수색 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;해경은 사고 당일 상선에 내린 출항 정지 조치는 지난 26일 해제했다. 이 선박에 액화가스 부타디엔이 실려 있어 장기 정박 시 사고 위험이 있다고 판단해서다. 부타디엔은 LPG와 성분이 비슷해 운반 시 LPG 운반선을 이용한다.&lt;br&gt;&lt;br&gt;이 상선은 지난 26일 밤 일본으로 출항했다.&lt;br&gt;&lt;br&gt;울산해경 관계자는 “사고로 인한 인명 피해가 중한 점 등을 고려해 조만간 A씨와 B씨에 대한 구속영장을 신청할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사랑의열매, 베네수엘라 강진 피해 지원 특별모금 실시</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/27/RLVV2GCCHVA73GX62JHITSQY6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/27/RLVV2GCCHVA73GX62JHITSQY6I/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 04:41:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCVDGENSDZP4FLEVPQAEHGXFRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사랑의열매 사회복지공동모금회./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑의열매 사회복지공동모금회가 베네수엘라 지진으로 피해를 입은 주민들을 지원하기 위해 특별 모금에 나섰다. &lt;br&gt;&lt;br&gt;27일 사랑의열매는 ‘베네수엘라 강진 피해 지원 특별 모금’을 실시한다고 밝혔다. 사랑의열매는 “4만명 이상의 실종자가 발생한 것으로 알려진 가운데, 병원과 주거 시설 등 1400여 채의 건물이 피해를 입었다”며 “국제사회의 구조 지원이 이어지고 있지만 구호 물품과 구조 인력이 부족해 피해 복구에 어려움을 겪고 있는 상황”이라며 특별 모금에 나서게 된 배경을 설명했다. &lt;br&gt;&lt;br&gt;기부는 사랑의열매 홈페이지에 안내된 특별 모금 전용 계좌(신한은행 100-013-921256) 또는 네이버 해피빈·카카오 같이가치·체리 등 온라인 모금함을 통해 참여할 수 있다. &lt;br&gt;&lt;br&gt;성금은 지진 피해자의 이재민 긴급 구호, 생필품과 의료 지원, 임시 대피 시설 운영 등에 사용된다. &lt;br&gt;&lt;br&gt;앞서 지난 24일 오후 6시쯤 베네수엘라 수도 카라카스 일대 지역에서 규모 7.2, 7.5의 연쇄 강진이 발생했다. 구조대가 잔해 속에서 생존자 수색에 박차를 가하고 있지만, 사망자가 900명을 넘는 등 피해가 커지고 있다. 로이터 등 외신에 따르면 이날 기준 사망자는 920명, 부상자는 3360명으로 집계된 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“서강대교 넘지말라” 조성현… 종합특검, 내란 혐의로 입건</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/27/RWA5SBOI3ZGSRD44FTCN7ANUJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/27/RWA5SBOI3ZGSRD44FTCN7ANUJQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 03:38:15 +0000</pubDate>
+      <content:encoded>2차 종합특검(특별검사 권창영)이 조성현 전 육군 수도방위사령부 제1경비단장(대령)을 내란 중요 임무 종사 혐의 피의자로 입건한 것으로 27일 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZGKZBWHFSGGOJSG5SWCNBZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조성현 대령과 악수하는 이재명 대통령./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 전 단장은 12·3 비상계엄 당시 이진우 전 수도방위사령관의 국회 출동 지시를 예하 제2특임대대와 제35특임대대에 하달한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;특검은 조 전 단장이 계엄 당일 이 전 사령관으로부터 “(국회에서) 의원들을 끌어내라”는 지시를 받고, 서강대교에서 대기 중이던 부대에 “총기와 공포탄은 차량에 두고 진압봉을 챙겨 투입하라. 임무는 국회 내부 인원을 끌어내는 것”이라고 지시한 정황을 확보한 것으로 전해졌다. 다만 조 전 단장은 이튿날 새벽 1시쯤 시민과 부하들의 안전을 우려해 “서강대교에서 대기하라”고 다시 지시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조 전 단장은 비상계엄 이후 윤석열 전 대통령의 탄핵심판과 수사 기관 등에서 여러 차례 증언한 인물이다. 그는 탄핵 심판 당시 헌법재판소에 출석해 이 전 사령관으로부터 국회에 진입해 의원들을 끌어내라는 취지의 지시를 받았지만 임무 목적이 분명하지 않다고 판단해 재검토를 요청했고, 후속 부대에는 서강대교를 건너지 말고 대기하라고 지시했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 국방부는 조 전 단장이 불법·부당한 명령을 따르지 않고, 국민과의 충돌을 막는 데 기여한 공을 인정해 지난해 9월 조 전 단장에게 보국훈장 삼일장을 수여했다. 이재명 대통령도 지난 3월 국방부 지휘통제실을 찾아 조 전 단장을 직접 격려한 바 있다.&lt;br&gt;&lt;br&gt;그러나 특검은 조 전 단장이 국회의원을 끌어내라는 상부의 지시를 예하 부대에 전달한 행위 자체만으로도 내란 중요 임무 종사 혐의가 성립할 수 있다고 보고 피의자로 입건한 것으로 전해졌다. 특검은 다음 달 초 조 전 단장을 불러 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘일본인 아기 사망’ 중앙선 침범 70대 택시기사 금고형 집행유예</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/27/OGN52UWA3FFK5I4KP36E3BTOAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/27/OGN52UWA3FFK5I4KP36E3BTOAU/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 02:43:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDSMDCHEYDKZDEGVRTGMTFG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법 현판&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운전 도중 중앙선을 침범해 승객인 일본인 아기를 숨지게 한 70대 택시 기사가 1심에서 금고형 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 서울서부지법 형사5단독 김형석 판사는 교통사고처리특례법상 치사상 혐의로 기소된 70대 택시 기사 강모씨에게 지난 11일 금고 2년에 집행유예 3년을 선고했다. 사회봉사 40시간과 준법 운전 강의 40시간 수강도 함께 명했다.&lt;br&gt;&lt;br&gt;김 판사는 “제한속도를 초과해 운행하다가 중앙선을 침범해 차량들을 연쇄 충돌하고, 차량 승객을 사망에 이르게 하는 등 죄질이 무겁다”며 양형 이유를 설명했다. 다만 강씨가 본인의 잘못을 인정하고 있는 점, 유족들이 처벌을 원하지 않는 점 등을 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난해 10월 21일 강씨는 서울 용산구의 한 도로에서 택시를 몰던 중 중앙선을 넘어, 반대 방향에서 오던 승용차와 충돌하는 사고를 냈다. 당시 차량 안에는 일본 국적 20대 부부와 아기가 타고 있었다. 이 사고로 부부는 각각 전치 10주와 12주의 중상을 입었고, 생후 9개월 아기는 병원에 옮겨진 후 결국 허혈성 뇌 손상으로 숨졌다. &lt;br&gt;&lt;br&gt;당시 강씨는 제한 속도가 시속 50㎞인 도로에서 시속 100㎞ 가까이 과속을 했던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LLCIUWTJ2JE2RJHIOYAMVKGZGU.jpg?auth=f3ae82892f2c6bdc8c6e58137e3a38c6a41be985b82196ab7ab81c34143431cc&amp;smart=true&amp;width=576&amp;height=432" type="image/jpeg" height="432" width="576">
+        <media:description type="plain">서울서부지법 현판</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘잠실 참정권 시위’ 23일째…합수본, 송파구 선관위 관계자 소환</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/27/27ZS4RBX4FH4ZJVEPXZEASCWNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/27/27ZS4RBX4FH4ZJVEPXZEASCWNI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 02:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVQFT45JMFIPNDGSQL23VGVKRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표용지 부족 사태를 규탄하는 개표소 봉쇄 시위가 이어진 26일 서울 올림픽공원 핸드볼경기장 앞에서 시위대가 태극기와 성조기를 흔들며 구호를 외치고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 당시 투표 용지 부족 사태를 규탄하는 잠실 참정권 집회가 23일째를 맞았다. &lt;br&gt;&lt;br&gt;주말 아침인 27일 오전부터 서울 송파구 올림픽공원 핸드볼경기장 앞에는 “재선거” 등을 요구하는 집회 참가자들이 모였다. 이들은 태극기와 성조기를 흔들며 “부정선거! 재선거!” 등의 구호를 외쳤다. &lt;br&gt;&lt;br&gt;이날 오전 11시 기준 서울시 실시간 도시 데이터에 따르면, 올림픽공원에는 약 1만~1만2000명이 모인 것으로 집계됐다. 오후로 접어들며 집회 참가 인원은 더 늘어날 것으로 보인다. &lt;br&gt;&lt;br&gt;한편 투표 용지 부족 사태를 직접 수사하는 검·경 합동수사본부(합수본)는 이날 오전부터 송파구 선관위 관계자 1명을 참고인 신분으로 소환해 조사하고 있다. 해당 관계자를 상대로 선거 당일 투표용지가 부족했던 이유와 보고가 제대로 이뤄졌는지 여부 등을 확인 중이다. &lt;br&gt;&lt;br&gt;앞서 합수본은 지난 24일 서울시와 송파구 선관위 12명을 상대로 압수수색을 실시해 휴대전화 등을 확보했다. 합수본은 또 그 전날인 23일 중앙선관위로부터 ‘투표용지 부족 사태 진상규명위원회’ 활동 자료와 검토 자료도 제출받아 분석 중이다. &lt;br&gt;&lt;br&gt;합수본은 관계자 조사와 압수물 분석을 마무리하는 대로 중앙선관위 직원들에 대한 소환 조사에도 나설 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호, 김건희 ‘매관매직’ 징역 7년에 “정치 검찰에 대한 심판” </title>
+      <link>https://www.chosun.com/national/court_law/2026/06/27/ZHMF65ORMZDGJF6326PUEVAZHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/27/ZHMF65ORMZDGJF6326PUEVAZHQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 01:32:56 +0000</pubDate>
+      <content:encoded>정성호 법무부 장관은 27일 김건희 여사가 이른바 ‘매관매직’ 혐의로 전날 1심에서 징역 7년을 선고받은 것과 관련해 “공직이 거래 대상으로 전락해서는 안 된다는 사법부의 준엄한 경고이자, 살아 있는 권력의 눈치를 보며 무혐의 처분을 내린 정치 검찰에 대한 심판”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3WEMTFME4DKNTCGYZDIY3DGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 페이스북에 “반클리프 목걸이, 금거북이부터 과거 윤석열 정부 정치 검찰이 앞장서 면죄부를 줬던 ‘디올백 수수’ 까지 예외 없이 전부 유죄가 선고됐다”며 이같이 적었다.&lt;br&gt;&lt;br&gt;이어 “권력에 영혼을 팔고 잘못에 눈을 감았던 소수의 정치 검사로 인해, 오늘날 검찰은 사실상 해체라는 상황에 직면하게 됐다”며 “이 한 줌의 정치 검사들은 검찰권을 오남용해 밤낮으로 묵묵히 일하는 대다수 동료 검사들의 명예와 자긍심을 짓밟았을 뿐 아니라, 사법 정의에 대한 국민 신뢰를 지하까지 추락시켜 형사 사법 제도 개혁을 둘러싼 사회의 정상적인 숙의마저 어렵게 만들었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “자신들이 사회에 끼친 해악을 성찰하고 뼈저리게 반성해야 한다”며 “동시에 진행 중인 특검 수사 등을 통해 그들이 자행했던 엄중한 과오에 상응하는 책임도 져야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;정 장관은 “형사 사법 제도의 큰 변화를 앞두고 있다”며 “검찰은 국민의 신뢰를 회복하기 위해 스스로 더 강한 변화와 혁신의 노력을 해야 할 것”이라고 했다. 또 “법무부도 오직 국민을 위해 일하고, 형사 사법 개혁의 최종 수혜자 또한 국민이 될 수 있도록 최선을 다하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMRRUNVPIBOBLKPC5FJXKXWHXU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 26일 서울 서초구 중앙지방법원에서 열린 특정범죄가중처벌등에관한법률위반(알선수재) 부정청탁및금품등수수의금지에관한법률위반 증거인멸 등에 대한 1심 선고 공판에서 선고를 받고 있다. 이날 재판부는 김건희 여사에게 징역 7년을 선고했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 조순표)는 전날 기업인과 공직자들로부터 고가의 금품을 받고 각종 인사와 공천 등에 영향력을 행사한 혐의(특정범죄가중처벌법상 알선수재) 등을 받는 김 여사에게 징역 7년을 선고하고 6480만원 추징을 명령한 바 있다. &lt;br&gt;&lt;br&gt;김 여사는 윤석열 전 대통령 당선 전후 이봉관 서희건설 회장에게서 5560만원짜리 반클리프앤아펠 목걸이 등 1억380만원 상당의 귀금속을 받고, 이배용 전 국가교육위원장으로부터 265만원 상당의 금거북이 및 세한도 복제품, 로봇개 사업자 서성빈씨로부터 3990만원 상당의 바쉐론 콘스탄틴 시계를 받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;또 김상민 전 부장검사에게서 국회의원 선거 공천 청탁을 대가로 1억4000만원 상당의 이우환 화백 그림을 받고, 최재영 목사에게 지인의 인사 청탁을 받고 디올백 등 530만원 상당의 금품을 수수한 혐의도 있다. 지난해 민중기 특검은 이 같은 혐의로 김 여사를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;재판부는 “대통령 배우자라는 지위에서 다수의 인사 청탁과 사업 청탁이 고가의 금품과 거래된 ‘매관매직’ 사건”이라며 “공정하게 이뤄져야 할 공적 의사결정 과정이 김 여사의 개인적 이익을 위한 거래 대상으로 전락했다”고 했다. 그러면서 “영부인이라는 지위를 사적 이익 추구의 수단으로 활용해 공직의 공정성과 국민 신뢰를 근본적으로 훼손했다”고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>방음벽 업체서 억대 뒷돈 받은 이정문 전 용인시장, 항소심도 징역 2년</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/06/27/INRO6OSYU5BOJPI7T3H3A3VS4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/06/27/INRO6OSYU5BOJPI7T3H3A3VS4U/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 01:39:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPBKGUA2JAUZDKZ5IKRILXZR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정문 전 용인시장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방음벽 공사업체 대표로부터 억대의 뒷돈을 받은 혐의로 재판을 받는 이정문 전 용인시장이 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;수원고법 형사1부(재판장 신현일)는 특정범죄 가중처벌 등에 관한 법률 위반(알선수재) 등 혐의로 구속기소 된 이 전 시장의 항소를 기각하고 원심과 같은 징역 2년을 선고했다고 27일 밝혔다. 재판부는 1억9000여 만원의 추징 명령도 원심의 판단을 유지했다.&lt;br&gt;&lt;br&gt;이 전 시장은 원심 판결 선고 이후 추징금 전액을 납부했지만 재판부는 이를 형을 변경할 만한 사정 변경으로 보지 않았다.&lt;br&gt;&lt;br&gt;재판부는 이 전 시장에게 부정 청탁 대가로 금품을 건네고 회삿돈을 횡령한 혐의(특정경제범죄 가중처벌 등에 관한 법률 위반 횡령 등)로 함께 구속기소 된 건설업체 대표 A씨에 대해서도 사실오인 주장 등을 모두 기각하고 원심과 같은 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;이 전 시장은 2022년부터 3년여간 A씨로부터 경기 용인시 보평역 지역주택조합의 주택 사업 및 방음 시설 공사 사업과 관련해 편의 제공 등 청탁 명목으로 1억9000만원을 챙긴 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인들의 범행은 공적 업무 집행의 기능과 공정성에 대한 사회적 신뢰를 훼손시킬 뿐만 아니라 종국에는 조합원들의 분담금을 가중할 수 있다는 점에서 죄질이 좋지 않다”면서 “실제 조합원들이 이 사건 범행을 공사비 증액의 원인 중 하나로 보고 있는 점 등을 종합하면 원심의 양형이 부당하다고 보이지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 전 시장은 4대(2002~2006년) 용인시장 재임 시절에는 용인 경전철 사업을 추진하면서 사업성을 부풀리고 하도급업체로부터 금품을 받은 혐의 등으로 징역 1년에 추징금 1만달러를 선고받기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제자 성과급이 교장 연봉보다 많다... 충북반도체고에 NYT도 관심</title>
+      <link>https://www.chosun.com/national/education/2026/06/27/KWTV2PFRJVH67LB2TPX5FEXFNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/27/KWTV2PFRJVH67LB2TPX5FEXFNE/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 01:24:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LQLIZCVA5BYRFT5LQYIY3R2YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북반도체고등학교 학생이 반도체 실습을 하는 모습/충북반도체고등학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 뉴욕타임스가 26일(현지 시각) 충북 음성군에 있는 충북반도체고등학교를 집중 조명했다. 인공지능(AI) 시대가 찾아오며 삼성전자·SK하이닉스를 중심으로 한국 반도체 업계가 사상 최대 호황을 누리면서, 반도체 산업 인력을 길러내는 이 학교에 관심이 쏠리고 있다는 것이다.&lt;br&gt;&lt;br&gt;충북반도체고등학교는 전교생 300명을 위한 기숙사와 반도체 설비 모의 실습 시설 6곳을 갖추고 있다. 2010년 반도체 장비 분야 마이스터고로 지정돼, 반도체에 특화한 국내 마이스터고 4곳 가운데 가장 오래됐다고 뉴욕타임스는 소개했다.&lt;br&gt;&lt;br&gt;반도체 산업 호황의 효과는 입시 현장에서 먼저 나타났다. 뉴욕타임스는 최근 1년간 입학 문의가 3배 이상으로 늘었고, 중국 국영방송사 취재진을 비롯해 학교 운영 모델을 배우려는 외부 방문 요청도 끊이지 않고 있다고 했다. 서운석 충북반도체고등학교 교장은 “지금 우리 학교가 한국에서 가장 핫한 학교가 된 것 같다”고 했다.&lt;br&gt;&lt;br&gt;뉴욕타임스는 삼성전자·SK하이닉스 직원들이 받은 대규모 성과급을 거론하며, 두 회사 취업이 흔히 ‘복권 당첨’에 비견될 만큼 어렵다고 했다. 이 학교에선 매년 1학년 성적 우수자 20명이 두 회사의 장학금을 받는 인턴십 프로그램에 발탁된다. 나머지 학생들은 전국 단위의 치열한 일반 채용 절차를 거쳐야 한다. 이 학교의 한 교사는 “시험을 앞두고 학생들이 한 달 내내 오전 9시부터 밤 9시까지 시험 대비를 한다”고 했다.&lt;br&gt;&lt;br&gt;취업한 졸업생이 학교를 찾아 수억 원대 성과급을 언급하며 후배 여러 명의 밥값을 선뜻 결제하는 모습은, 재학생들에게 ‘내 선택이 옳았다’는 확신을 심어준다고 뉴욕타임스는 전했다. 다만 서 교장은 “1년 일하고 돌아온 제자가 내 연봉 전체보다 큰 성과급 얘기를 하는 걸 듣기란 쉬운 일이 아니다”라고 털어놨다.&lt;br&gt;&lt;br&gt;뉴욕타임스는 반도체 호황 뒤에 가려진 불확실한 일자리 전망도 함께 짚었다. 정부는 용인 반도체 클러스터를 세계 최대 규모의 첨단 반도체 허브로 키우겠다고 공언했다. 삼성전자는 5년간 6만개, SK하이닉스는 매년 최대 2만개의 신규 일자리를 창출하겠다고도 했다. 하지만 일부 전문가들은 실현 가능성에 회의적이라고 뉴욕타임스는 전했다. 반도체 제조 생산 공정이 자동화될수록 오히려 전체 일자리가 줄어들 수 있다는 것이다. 삼성전자 장비 유지보수 협력업체의 한 관리자는 “사실 올해 신규 직원을 채용하는 게 더 어려워졌다”며 “첨단 자가 세정 기능을 갖춘 장비가 들어오면 앞으로 우리 일자리는 없어질지도 모른다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이번 주말 전국 30도 안팎 더위… 28일 체감 31도</title>
+      <link>https://www.chosun.com/national/education/2026/06/27/5IYDDZW4RNGWJIQZLWQE7H3QWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/27/5IYDDZW4RNGWJIQZLWQE7H3QWE/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 00:55:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHOV4DF2MJOSVLOE543KB72RUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이번 주말 전국이 한여름 더위에 휩싸일 것으로 보인다. 사진은 지난 21일 서울 광화문광장 분수대를 찾은 시민들의 모습/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국이 한여름 더위에 휩싸인다. 토요일(27일)은 내륙을 중심으로 낮 기온이 30도를 웃돌겠고, 일요일(28일)에는 더위가 한층 심해질 전망이다.&lt;br&gt;&lt;br&gt;27일 기상청에 따르면 이날 낮 최고기온은 24~32도로 예보됐다. 주요 지역의 낮 최고기온은 서울 32도, 인천 30도, 수원 31도, 강릉 27도, 청주 31도, 대전 32도, 광주 32도, 대구 32도, 부산 27도, 제주 26도가 예상된다.&lt;br&gt;&lt;br&gt;하늘은 전국이 대체로 맑겠다. 다만 중부지방은 오후부터 가끔 구름이 많겠고, 남부지방과 제주도는 구름이 많다가 늦은 오후부터 차차 맑아지겠다.&lt;br&gt;&lt;br&gt;기상청은 온열질환 발생 가능성이 높다며 충분한 수분 섭취와 한낮 격렬한 야외활동 자제를 당부했다. 특히 영유아와 노약자, 만성질환자는 야외활동 시간을 줄이고, 야외 작업장에서는 휴식공간과 시원한 물을 준비하는 것이 좋다.&lt;br&gt;&lt;br&gt;바다도 주의가 필요하다. 27일 오전까지 남해동부바깥먼바다에 바람이 매우 강하게 불고 물결이 최고 3.5m까지 높게 일겠다. 남해안과 제주도 해안에는 너울이 유입되며 높은 물결이 방파제나 갯바위를 넘는 곳이 있겠으니 안전사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;일요일인 28일은 더위가 더욱 기승을 부릴 것으로 보인다. 아침 최저기온 14~22도, 낮 최고기온 24~33도가 예상되며, 일부 내륙에서는 최고 체감 온도가 31도 안팎까지 올라 무덥겠다.&lt;br&gt;&lt;br&gt;28일 오후에는 인천과 경기 북부, 강원 북부 내륙·산지에 5~20㎜의 소나기가 내리는 곳이 있겠다. 소나기가 내리는 지역에서는 돌풍과 천둥·번개가 동반되고 지역에 따라 강수량 차이가 클 것으로 전망된다. 기상청은 가시거리 감소와 도로 미끄럼 등에 따른 교통안전에도 유의해 달라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출소 2개월 만에 또 절도 시도… 무인 사진관 절도 미수 40대 실형</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/06/27/6MQ3DZA4V5HDFJX5XKITYOZIPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/06/27/6MQ3DZA4V5HDFJX5XKITYOZIPY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 00:54:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRWCNZXG4ZDMN3BHBSWIMRVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무인 사진관에서 절도 범행을 시도하다 경보음이 울려 달아난 상습 절도범이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사12단독 김준영 판사는 특정범죄 가중처벌 등에 관한 법률 위반(절도)과 재물손괴 혐의로 기소된 A씨(40)에게 징역 1년을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 12일 새벽 경기 의정부시의 한 무인 사진관에서 사진기 안에 있던 금품을 훔치기 위해 기기를 부순 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 잠겨 있던 무인 사진기의 철문을 손으로 강하게 잡아당겨 강제로 열었지만 경보음이 울리자 그대로 달아나 돈을 훔치진 못했다.&lt;br&gt;&lt;br&gt;사진기 철문을 강제로 뜯어내면서 약 25만원 상당의 수리비가 필요하도록 기계를 파손했다.&lt;br&gt;&lt;br&gt;실제로 A씨가 돈을 훔치진 못했지만, 법원은 A씨의 반복된 절도 전력을 감안해 실형을 선고했다.&lt;br&gt;&lt;br&gt;A씨의 절도 범행은 23세 때인 2009년부터 이어졌다. 당시 야간주거침입절도죄 등으로 징역 10개월에 집행유예 2년을 선고받았다. 하지만 집행유예 기간 중 다시 절도 범행을 저질러 2010년에는 징역 1년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;A씨는 이후에도 출소와 절도 범행을 거듭하면서 2013년, 2014년, 2016년, 2018년, 2019년에 절도 관련 범죄로 잇따라 실형을 선고받았다.&lt;br&gt;&lt;br&gt;특히 이번 범행은 A씨가 2022년 특정범죄가중처벌법상 절도죄 등으로 징역 4년을 선고받고 지난해 11월 출소한 뒤 약 두 달 만에 벌어졌다.&lt;br&gt;&lt;br&gt;김 판사는 “A씨에게 동종 범죄 전력이 다수 있고 그중에는 징역형의 실형을 선고받은 전력도 많다”면서 “동종 범행으로 인한 누범 기간 중 다시 범행을 저질렀다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전동 킥보드로 6세 아이 치고 달아난 50대… 벌금 300만원 선고</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/06/27/LKNIHNWJIBD53NIVMZH7SIFTV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/06/27/LKNIHNWJIBD53NIVMZH7SIFTV4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Jun 2026 00:30:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보도에서 전동 킥보드를 몰고 가다 6세 아이를 치고 달아난 50대 운전자에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사3단독 박주영 판사는 특정범죄가중처벌등에관한법률 위반(도주치상) 혐의로 기소된 A(50대)씨에게 벌금 300만원을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 29일 오후 9시 34분쯤 부산 부산진구 한 보도에서 전동 킥보드를 타고 가다가 맞은편에서 어머니와 함께 걸어오던 B(6)군을 들이받고 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사고로 B군은 골반 등을 다쳐 약 2주간 치료가 필요한 부상을 입었다.&lt;br&gt;&lt;br&gt;박 판사는 전동 킥보드를 운전한 A씨가 차도로 통행하면서 전방과 좌우를 잘 살피고, 조향·제동장치를 정확히 조작해 사고를 방지할 주의의무가 있었지만 이를 어겼다고 판단했다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 보도에서 전동 킥보드를 탔고, B군을 충격해 넘어지게 하고도 즉시 정차해 구호하는 등 필요한 조치를 하지 않고 달아났다.&lt;br&gt;&lt;br&gt;박 판사는 “피해자와 합의한 점은 유리한 정상”이라며 “나이 어린 피해자에게 2주간의 상해를 입히고도 도주한 점, 범죄 전력이 상당히 많은 점 등을 고려했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 정부, 반도체 물 부족 대책 있나… 호남 농업용 저수지서 끌어올 판</title>
       <link>https://www.chosun.com/national/transport-environment/2026/06/27/FMYNAQXZXBCEJPTJ7ORDAFNOSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/06/27/FMYNAQXZXBCEJPTJ7ORDAFNOSI/</guid>
@@ -670,19 +781,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTIMLBGE3DEZDCGJRTOYLEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구의 한 맨홀 내 공사 현장에서 매몰 사고가 발생해 1명이 숨졌다. &lt;br&gt;&lt;br&gt;26일 인천소방본부에 따르면 이날 오전 3시 38분쯤 인천 서구 왕길동 안동포사거리의 맨홀 내 공사 현장에서 토사가 무너졌다. &lt;br&gt;&lt;br&gt;이 사고로 작업 중이던 50대 남성 A씨가 크게 다쳐 119 구급대에 의해 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 하청업체 노동자로 사고 당시 한국전력공사 시설물 설치 작업을 하고 있던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰과 노동 당국은 안전 수칙 준수 여부 등 정확한 사고 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 이화영 ‘술 파티 의혹’ 따지는 국민참여재판에 3700만원 또 써</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/26/IPRH5NGT2NCOLFWZ5DSNCQD4EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/26/IPRH5NGT2NCOLFWZ5DSNCQD4EM/</guid>
-      <dc:creator>이민경 기자, 김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 20:00:00 +0000</pubDate>
-      <content:encoded>이화영 전 경기도 평화부지사가 제기한 ‘연어 술 파티 의혹’이 위증인지 확인하기 위해 열린 국민참여재판에 4000만원 가까운 예산이 쓰인 것으로 25일 파악됐다. 주말을 제외하고 열흘 연속 열린 재판에 참여한 배심원단에게 지급된 일비와 식비 등에 들어간 비용이다. 연어 술 파티 의혹과 관련해서는 국회 국정조사와 검찰의 감찰, 법무부 진상 조사가 진행됐다. 법조계에선 “이 전 부지사 주장의 진위를 확인하기 위해 얼마나 많은 사회적 비용이 낭비됐는지 모르겠다”는 말이 나온다.&lt;br&gt;&lt;br&gt;대법원 법원행정처 등이 국민의힘 신동욱 의원실에 제출한 자료를 보면, 최근 수원지법 형사11부(재판장 송병훈) 심리로 열린 이 전 부지사의 국회 위증 등 사건 국민참여재판에 법원 예산 3748만920원이 집행됐다. 이 가운데 국민 배심원단에게 지급된 일당·여비가 2598만원으로 가장 많았다. 일당과 여비는 재판이 오후 6시에 끝나면 하루 12만원, 오후 6~9시에 끝나면 16만원, 오후 9시~오전 12시에 끝나면 20만원이 지급됐다. 지난 20일 열린 선고 공판은 자정을 넘겨 끝나 배심원들에게 1인당 24만원이 지급됐다.&lt;br&gt;&lt;br&gt;법원은 국민참여재판이 열리는 동안 자택이 아닌 외부 숙소에서 격리 생활을 한 일부 배심원들에게 총 290만원의 격리수당을 지급했다. 법원은 또 숙박료로 159만5000원, 식비 등으로 700만5920원을 썼다.&lt;br&gt;&lt;br&gt;이번 국민참여재판은 2024년 10월 국회에서 열린 박상용 인천지검 부부장검사 탄핵소추 청문회에 이 전 부지사가 출석해 “검찰이 연어 술 파티를 열어 피의자들을 회유했다”는 취지로 증언했다가 국회증언감정법 위반(위증) 혐의로 기소돼 열렸다. 재판이 열린 열흘 중 밤 10시가 넘어 끝난 적이 여러 번 있었고, 선고 공판은 자정을 넘겨 새벽 4시가 다 돼 끝났다.&lt;br&gt;&lt;br&gt;이번 재판을 두고 법조계에선 “소모적”이란 평가가 나왔다. 국회와 검찰, 법무부 등이 총동원돼 연어 술 파티 의혹을 검증했는데 법원이 국민참여재판까지 열어 다시 확인할 필요가 있었느냐는 얘기다. 1심 법원은 이 전 부지사 주장을 위증으로 판단했다.&lt;br&gt;&lt;br&gt;앞서 지난 3~5월 진행된 국회의 ‘검찰 조작 기소 진상 규명을 위한 국정조사특위’도 약 50일 동안 3700만원 정도를 썼다. 이와는 별개로 법무부는 특별점검팀을 꾸려 진상 조사를 벌였고, 서울고검도 인권침해 점검 태스크포스를 구성해 이 의혹을 조사했다. 하지만 이 전 부지사 주장을 뒷받침할 물증은 확인되지 않았다. 한 법조인은 “이재명 대통령이 연루돼 있다 보니, 정부와 민주당이 원하는 답이 나올 때까지 검증을 명분으로 내세워 조사를 반복하는 모양새”라고 했다. 신동욱 의원은 “정부·여당은 ‘위증’의 판을 깔아준 데 반성하지 않고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/J3VUX7DM35EI7AUB4ZBGNBJ4FM.JPG?auth=c0131bf52823173f8354b36604e785710cf686c4894a66a3a07b78437bbf9618&amp;smart=true&amp;width=2935&amp;height=2201" type="image/jpeg" height="2201" width="2935">
-        <media:description type="plain">이화영 전 경기도 평화부지사가 지난해 10월14일 서울 여의도 국회 법제사법위원회에서 열린 법무부 등에 대한 국정감사에서 의원 질의에 답변하고 있다. 2025.10.14 ⓒ 뉴스1 신웅수 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>QR코드 찍으면 치매 노인 연락처가… 치매 노인 며느리가 개발했다</title>
       <link>https://www.chosun.com/national/labor/2026/06/19/ELMI4E4HZNFVVDSMRWF7GY6FFI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/06/19/ELMI4E4HZNFVVDSMRWF7GY6FFI/</guid>
@@ -702,15 +800,6 @@
       <content:encoded>청와대가 삼성전자·SK하이닉스의 호남 투자 계획을 발표하자, 경북 구미시가 25일 “반도체 제조 공장을 구미에 달라”며 “평당 1000원에 땅을 내놓겠다”고 했다. 김장호 구미시장은 이날 구미시청에서 기자회견을 열고 “올 하반기 분양을 시작하는 제5국가산업단지 2단계 산업용지를 평당 1000원에 분양하겠다”며 “구미에선 다이소에서 파는 물건보다 싼 가격에 공장 부지를 확보할 수 있는 셈”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYJMQKSZNVC2DKMCFGIROBZ5YM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김장호 구미시장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구미시가 분양 가능한 산업용지는 총 82만평(약 271만㎡)이다. 구미시 관계자는 “구미 지역 산업용지의 평당 분양가는 148만원 수준으로 구미시가 총 1조2000억원을 대신 조달하겠다는 뜻”이라고 했다. 구미시는 1단계로 지방채를 발행하고 씀씀이를 줄여 6000억원을 마련한다는 계획이다. 구미시 관계자는 “부지 40만평을 확보해 반도체 제조 공장 2기를 먼저 유치할 것”이라고 했다. &lt;br&gt;&lt;br&gt;김 시장은 “반도체 산업의 미래와 국가균형 발전을 감안하면 구미 국가산업단지가 최적의 입지”라며 “SK실트론 등 반도체 소재·부품·장비 업체 309곳이 모여 있어 생산 효율이 높고 반도체 제조에 필요한 전력·산업 용수·산업 부지 등 세 가지 요건을 모두 충족한다”고 했다. 이어 “공장 입지는 시장 경쟁력과 산업 생태계를 고려해 기업이 선택하는 것이지, 정부가 특정 지역에 ‘가라마라’ 결정할 사안이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>황지수 서울대 교수, 한국인 최초 G7 성평등 자문위 위원 위촉</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/5MQXFSCZ3VAPBJ3U2NAOTCLGV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/5MQXFSCZ3VAPBJ3U2NAOTCLGV4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:46:28 +0000</pubDate>
-      <content:encoded>황지수 서울대 학부대학 교수가 G7(주요 7국) 정상회의 성평등자문위원회(GEAC) 위원으로 위촉됐다. 한국인이 GEAC 위원으로 위촉된 것은 황 교수가 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ORQKFDX6BHXVFX3OGE2QFQH3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;GEAC는 G7 정상회의에 성평등 정책을 자문하는 전문가 기구로, 2018년 출범 이후 매년 의장국 주도로 구성돼 왔다. 올해 GEAC는 저출산, 인구구조 변화, 가족 형성 등 글로벌 인구 문제를 핵심 의제로 다룰 예정이다.&lt;br&gt;&lt;br&gt;황 교수는 노동경제학·인구경제학 분야에서 저출산, 노동 시장 성별 격차, 가족 형성과 인구 구조 변화에 관한 실증 연구를 해 왔다. 황 교수는 이달부터 오는 11월까지 G7을 위한 정책 권고안 작성에 참여한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[현장 르포] “우리에게 뭘 해주나” 외면받는 총학생회</title>
       <link>https://www.chosun.com/national/national_general/2026/06/26/FSVIFSINOFGPPCBEBL3SERXTQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/FSVIFSINOFGPPCBEBL3SERXTQQ/</guid>
@@ -718,46 +807,6 @@
       <description/>
       <pubDate>Thu, 25 Jun 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUYL4EFQURFT5KCRBG7QTHPZZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오후 서울 서대문구 연세대에서 학생들이 6·3 지방선거 투표용지 부족 사태를 규탄하는 ‘시국 선언’을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 오후 6시 서울대 관악캠퍼스 아크로광장. 6·3 지방선거에서 발생한 투표용지 부족 사태를 규탄하기 위해 서울대 학생 20여 명이 모였다. 이 자리에서 이의빈씨가 마이크를 잡고 시국 선언에 나섰다. 그런데 이씨의 직함은 ‘총학생회장’이 아닌 ‘서울대 단과대 학생회장 연석회의 의장’이었다. 서울대는 지난해 10월 총학생회장 선거 입후보자가 없어 올해 2월 재선거를 추진했지만 이때도 후보자가 나오지 않았고 결국 총학생회를 구성하지 못했다. 같은 시각, 고려대 서울캠퍼스 민주광장에서 시국 선언문을 낭독한 이지민씨는 자기를 ‘비상대책위원장’이라고 소개했다. 고려대는 지난 3월 총학생회 재선거에 한 후보가 출마했지만, 교내 중앙선거관리위원회의 경고 누적으로 후보 자격을 박탈당했다. 그런데 추가 입후보자가 없어 고려대도 총학생회를 구성하지 못하고 비대위 체제로 운영 중이다.&lt;br&gt;&lt;br&gt;지난 10일 ‘투표지 부족 사태 규탄’ 시국 선언에 참여한 전국 18개 대학 가운데 5개 대학이 총학생회를 구성하지 못해 단과대 연석회의나 비대위 명의로 선언에 참여했다. 서울대, 고려대, 연세대, 한양대, 숙명여대 등이다. 지난 5일 시국 선언을 발표한 동국대, 국민대도 총학생회가 구성돼 있지 않다. 총학생회장 입후보자가 없거나 투표율 미달로 총학생회 구성에 어려움을 겪고 있는 것이다. &lt;br&gt;&lt;br&gt;이와 관련, 전문가들은 과거와 달리 대학생 사회에서 총학생회 역할이 줄어든 점이 한 요인이라고 말한다. 권위주의 정권 시절 대학 총학생회는 각종 사회 현안에 목소리를 내며 사회 변화를 이끌었다. 총학생회장 출신이 정치권으로 진출하는 경우도 적잖았다. 한국 정치권의 한 축으로 자리 잡은 586그룹이 대표적이다. 그러나 최근 총학생회의 주된 역할은 학교 축제 준비나 학생 복지 관련 사업, 등록금 인상 관련 논의 등에 그친다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QS65MKY2XVD35I537BYTENQT5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총학생회장 선거에 출마하려면 상당한 비용이 드는 점도 학생들이 출마를 꺼리는 이유로 꼽힌다. 이지민 고려대 비대위원장은 “선거본부 유니폼, 포스터, 플래카드, 유인물 등을 만드는 데만 평균 200만~300만원 정도가 든다”며 “수십 명에 이르는 선거본부 참여 학생들의 식사까지 챙기느라 1000만원 정도를 쓴 사례도 있었다”고 했다. 서울대, 연세대, 고려대, 국민대, 숙명여대가 입후보자가 없어 총학생회장을 뽑지 못한 경우다.&lt;br&gt;&lt;br&gt;“총학생회가 우리를 대표하지 못한다”는 인식이 학생들에게 퍼진 점도 원인으로 꼽힌다. 취업이나 격차, 젠더 등 청년 세대가 당면한 문제 해결에 총학생회가 이렇다 할 역할을 하지 못한다고 학생들이 받아들이는 분위기가 있다는 것이다. 코로나19를 거치며 학생 간에 유대감이 약해지고 각자도생 분위기가 확산된 것이 총학생회 쇠퇴를 불러왔다는 분석도 나온다. &lt;br&gt;&lt;br&gt;실제로 학생 투표율 저조로 총학생회장 선출이 무산되는 사례가 속출하고 있다. 동국대는 최근 몇 년간 입후보자가 없어 총학생회장 선거를 치르지 못하다가 올 들어 두 후보자가 출마해 지난 3월 총학생회 선거를 치렀다. 하지만 투표율(43.5%)이 선거 유효 기준인 50%를 넘기지 못해 개표함을 열지도 못했다. 올해 한양대 총학생회장 선거도 투표율 50%를 넘기지 못해 무산됐다. 경희대 서울캠퍼스는 지난 4월 총학생회장 선거를 치렀는데 이틀간 투표를 연장한 끝에 간신히 투표율 50%를 넘겼다. 구정우 성균관대 사회학과 교수는 “총학생회가 더 이상 사회적으로 학생들의 입장을 대변하지 못하면서 역할을 잃게 된 측면이 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>실제 상황 아닙니다… 해수욕장 개장 앞두고 구조 훈련</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/T3YFZ7RVI5EZVHDLGYZ7R6VRGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/T3YFZ7RVI5EZVHDLGYZ7R6VRGI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4XU4DYUZVB3JHNWZS6P3WH5EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 부산 해운대구 송정해수욕장에서 해경과 서프구조대가 서핑보드를 타고 물에 빠진 피서객을 구하는 훈련을 하고 있다. 서프구조대는 서핑 업체 직원 등으로 구성된 민간 구조대다. 해경 함정이 출동하기 어려운 얕은 물가나 갯바위 근처에서 사람을 구한다. 부산 해운대해수욕장과 송정해수욕장은 26일 개장한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 애물단지 된 스마트폰형 무전기</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/SBWNDQEZ4VHZFJ6YQSPU3TJHQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/SBWNDQEZ4VHZFJ6YQSPU3TJHQY/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMCL2WVFEJDITCXHP4EUROAZ3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 스마트폰형 무전기 /경찰&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 경찰 지구대에서 근무하는 경찰관 A씨는 최근 스마트폰형 무전기 때문에 여러 차례 골탕을 먹었다. 주머니에 무전기를 넣어뒀는데, 너무 오랫동안 연락이 없는 것 같아 확인해 보니 자기도 모르게 통화 무전 채널이 다른 채널로 바뀌어 있었다. 이 바람에 동료 경찰관 연락을 받지 못했다. A씨는 “스마트폰형 무전기의 화면 터치 기능 때문에 내 의도와 관계없이 채널이 바뀌어 있었다”며 “차라리 터치 기능이 없는 구형 무전기가 낫다”고 했다.&lt;br&gt;&lt;br&gt;경찰이 경찰관에게 지급하는 장비와 시스템을 디지털화하고 있다. 하지만 일선 경찰관들 사이에선 오히려 업무에 방해가 된다는 불만이 심심찮게 나온다. &lt;br&gt;&lt;br&gt;전국 지구대·파출소에 보급된 스마트폰형 무전기가 대표적이다. 스마트폰형 무전기는 경찰, 소방, 지방자치단체 등이 공동으로 사용하는 재난안전통신망 전용 무전기다. 일반 스마트폰처럼 음성뿐 아니라 데이터, 동영상 전송 등이 가능하다. 앱을 다운로드해 사용할 수도 있다. &lt;br&gt;&lt;br&gt;경찰청은 이 무전기를 2019년부터 보급해왔다. 경찰청에 따르면 23일 기준 경찰이 사용 중인 휴대용 무전기 11만4052대 중 스마트폰형은 8만35대(70.2%)다. 무전기 10대 중 7대가 스마트폰형 무전기인 셈이다. 주로 지구대·파출소에서 쓴다고 한다. 구형 무전기(3만4017대)는 기동대에서 사용하고 있다.&lt;br&gt;&lt;br&gt;하지만 일선 경찰관들은 스마트폰형 무전기를 쓰며 애를 먹고 있었다. 화면 터치 방식이라 주머니에 넣어 두면 채널이 저절로 바뀌거나 카메라가 켜지는 일이 흔하다는 것이다. 한 경찰관은 “기능이 많아졌다지만 무전 외에는 별로 쓸 일도 없다”며 “보급된 무전기도 6년 전에 나온 스마트폰을 개조한 노후 기종”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 각종 수사 서류를 전자 문서화하고 있다. 형사절차전자문서법에 따라 지난해 10월부터 수사기관의 사건 서류가 모두 전자문서(PDF)로 대체된 것이다. 이 덕분에 업무 절차가 간소화됐다고 경찰은 말한다. 하지만 기록 검토 방식이 바뀌면서 적응에 어려움을 겪는 경찰관도 있다고 한다. 한 형사과 경찰은 “종이 기록처럼 여러 자료를 펼쳐 놓고 비교하기 어려워 세부 내용을 대조하는 데 시간이 더 걸린다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RMCL2WVFEJDITCXHP4EUROAZ3Y.jpg?auth=8810e52dc79e25b2c5a7e95465695ce5551313aa9c4616bf2e58c8e2ade916c9&amp;smart=true&amp;width=4032&amp;height=2268" type="image/jpeg" height="2268" width="4032">
-        <media:description type="plain">경찰 스마트폰형 무전기/경찰</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>삼성家 사위에서 피고인으로… 임우재, 2심서 집행유예 석방</title>
-      <link>https://www.chosun.com/national/court_law/2026/06/26/D2FM2WTMTZETNEGD7YT34POXL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/26/D2FM2WTMTZETNEGD7YT34POXL4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:46:00 +0000</pubDate>
-      <content:encoded>“피고인 임우재를 징역 1년에 처한다. 다만 이 판결 확정일부터 2년간 형의 집행을 유예한다.”&lt;br&gt;&lt;br&gt;25일 오후 서울고법 312호 법정. 재판장이 집행유예를 선고하는 순간, 피고인석에 서 있던 임우재(58) 전 삼성전기 고문은 숙이고 있던 고개를 더욱 깊게 떨궜다. 턱까지 내려오는 장발에 황색 수의를 입은 그는 선고 내내 고개를 들지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVSWZDDO2FAGXLGTXY7KE7FRZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사13부(재판장 김무신)는 이날 위계공무집행방해 혐의로 기소된 임 전 고문에게 징역 1년에 집행유예 2년을 선고했다. 그는 지난해 12월 1심에서 징역 1년의 실형을 선고받고 법정 구속됐었다.&lt;br&gt;&lt;br&gt;단국대 전자계산학과를 졸업하고 1995년 삼성전자에 입사한 임 전 고문은 1999년 8월 이건희 삼성 선대회장의 장녀인 이부진 호텔신라 사장과 결혼했다. ‘평사원과 재벌 딸의 결혼’으로 화제를 모았던 그는 이후 삼성전기 부사장, 상임고문 등을 지냈다.&lt;br&gt;&lt;br&gt;그러나 결혼 15년 만인 2014년 10월 이 사장이 이혼 조정 신청을 냈고, 소송 끝에 2020년 대법원에서 이혼이 확정됐다. 이 사장은 임 전 고문에게 재산 141억1300만원을 분할해줬고, 아들에 대한 친권과 양육권은 이 사장이 가져갔다.&lt;br&gt;&lt;br&gt;한때 ‘남자 신데렐라’로 불렸던 임 전 고문이 법정에 서게 된 것은, 지난해 경기 연천군에서 벌어진 ‘80대 여성 감금·폭행’ 사건에 연루되면서다. 임 전 고문이 이혼 후 연인 관계를 맺은 무속인 박모(43)씨가 작년 4월 평소 알고 지내던 피해자(84)를 친손자와 함께 감금·폭행한 혐의로 기소됐는데, 경찰의 수사 과정에서 박씨를 도와 경찰 수사를 방해한 혐의를 받은 것이다. &lt;br&gt;&lt;br&gt;지난달 항소심 결심 공판에서 임 전 고문은 “평생 남에게 피해를 주지 않고 살려고 애썼는데 이 나이에 법정에 서게 될 줄은 꿈에도 생각 못했다”면서 “자유롭게 다니는 것이 얼마나 큰 행복인지 이제야 알았다. 다시는 이런 일에 휘말리지 않고 봉사하며 살겠다”고 했다. &lt;br&gt;&lt;br&gt;이날 항소심 재판부는 임 전 고문에 대해 “방조범이라 하더라도 가담 정도가 가볍다고 볼 수 없다”고 했다. 다만 “전모를 모두 알고 행동한 것은 아니고 범행으로 이익을 얻은 점도 없어 집행유예로 석방한다”고 했다. 구속된 지 6개월 만이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해외에 K소주 알리는 ‘LA 문화의 여왕’</title>
-      <link>https://www.chosun.com/national/people/2026/06/26/7L26OVLZ5NDP3M37F34MPPWFJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/26/7L26OVLZ5NDP3M37F34MPPWFJY/</guid>
-      <dc:creator>이영관 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:45:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZUCJ7FYNI5HSBJKDCIK6HDPUO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 서울에서 만난 에바 차우. 그는 “내 소주 브랜드가 한국에서 확실히 자리잡게 만들기 위해 5년째 서울에 집을 얻어 머무르고 있다”며 “미국에서 오래 살았지만, 한국에서 지내는 시간이 더 편안하다”고 했다. /BGF리테일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저렴했던 한국 음식이 이젠 미국에서 하이엔드(High-end·고급 요리)가 됐어요. 몇 년 전엔 상상할 수 없던 일이에요. 그에 걸맞은 소주도 필요하지 않을까요.”&lt;br&gt;&lt;br&gt;지난 11일 서울에서 만난 에바 차우(한국 이름 전희경)는 “K푸드 다음은 K소주의 차례”라며 “한국이 문화·경제적으로 커진 만큼, 보드카나 진과 경쟁할 만한, 한국의 증류식 소주가 등장해야 할 때”라고 말했다.&lt;br&gt;&lt;br&gt;에바 차우는 2011년부터 배우 레오나르도 디카프리오와 함께 ‘LACMA(로스앤젤레스 카운티 미술관) 아트+필름 갈라’ 공동 의장을 맡고 있다. 뉴욕타임스가 ‘LA 문화의 여왕’으로 칭한 인물이다. 2022년 한국과 미국에서 한국식 증류식 소주 브랜드인 ‘키(KHEE)소주’를 내놓은 그는 ‘한국 소주 전도사’를 자처한다. 그는 “폭스뉴스나 ABC 등 미국 방송사와 인터뷰할 때 한국 소주를 소개한다”고 했다.&lt;br&gt;&lt;br&gt;에바 차우는 “한국 사람들은 한식이나 한국식 바비큐에는 소주를 마시면서도 생일이나 파티 같은 특별한 날에는 와인이나 위스키 같은 외국 술을 마신다”며 “좋은 자리에서 외국 술을 먹는 게 안타깝다”고 했다. 그는 “과거에 한국 정부가 식량 부족을 이유로 쌀을 원료로 쓰는 증류식 소주 생산을 금지해 희석식 소주가 늘어났다는 걸 아는 사람이 해외엔 거의 없다”고 했다. &lt;br&gt;&lt;br&gt;키소주는 750mL(38도) 한 병에 5만9000원이란 고가였지만, 다음 달 1만원 정도인 200mL(16.5도) 소주를 내놓을 예정이다. 5000원 안팎에 캔 소맥(소주+맥주)도 출시한다. 에바 차우는 “개인적으로도 소맥을 좋아하고, 이렇게 믹스하는 게 한국의 재미있는 문화”라고 말했다. 그는 “어떤 문화든 소수의 평론가뿐 아니라 많은 분이 알아주시는 게 중요하다”며 “저렴한 제품을 만든 이유”라고 했다.&lt;br&gt;&lt;br&gt;10대 때인 1974년 한국에서 이민을 간 미 이민 1.5세인 그는 “당시엔 동양인에 대한 편견이 없지 않았다”며 “반도체, 자동차, 팝과 컬처에서 선두를 달리는 한국에 대한 자부심이 있다”고 했다. 그는 “비행기 비즈니스석을 타면 와인이나 사케, 위스키는 제공하지만 한국 소주는 아직 없다”며 “격식 있는 자리에 어울리는 좋은 증류식 소주가 있고, 이게 굉장히 전통적인 한국 소주라는 걸 (한국과 해외에) 알리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>비어가는 초등교… 4곳 중 1곳 ‘학생 60명 이하’</title>
@@ -769,34 +818,6 @@
       <content:encoded>강원 횡성군 A중학교는 올해 전교생이 4명뿐이다. 교사가 학생보다 많은 7명이다. 지난 2000년 인근에 댐이 들어서면서 주민들이 다른 지역으로 이주한 영향이다. 학생이 워낙 적어서 학교 예산과 지역 기관들의 지원으로 온갖 체험 활동이 무료로 제공된다. 올해 방과 후 수업으로 난타·중국어 강좌가 열렸는데, 학생이 낸 수강료는 0원이었다. 오는 10월 현장 체험 학습 일환으로 가는 싱가포르 여행도 무료다. 하지만 A중 관계자는 “지원은 많이 해줄 수 있어도 정작 친구가 없다 보니 토론 수업이나 축구·피구 등 이 나이 때 해야 하는 필수 활동은 어려운 상황”이라고 했다.&lt;br&gt;&lt;br&gt;학생 수가 갈수록 줄어들면서 ‘소규모 학교’가 빠르게 늘어나고 있다. 25일 본지가 ‘2026년 초·중·고 정보공시’ 자료를 분석한 결과, 전국 초등학교 6281곳 가운데 학생 수 60명 이하인 초등학교는 1732곳으로 전체의 27.6%에 달하는 것으로 나타났다. 2년 전 1640곳보다 100곳 가까이 늘어난 것이다. 중학교도 전국 3336곳 중 소규모 학교(전교생 60명 이하)가 575곳으로 전체의 17.2%를 차지했다. A중처럼 전교생이 10명 이하인 ‘초미니 중학교’는 2년 전 63곳에서 83곳으로 증가했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOXT3P7BZBD3ROOPLXHIR7ODPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 전국 17개 시도교육청 가운데 전남(59.5%), 강원(57.5%), 전북(53.2%), 경북(51.5%)은 이미 초등학교 절반 이상이 소규모 학교였다. 중학교도 전남(48.8%), 강원(41.1%), 전북(38.6%) 등 지역에서 소규모 학교 비율이 높았다. &lt;br&gt;&lt;br&gt;이렇게 소규모 학교가 급증하는 이유는 학생 수 감소세가 심각하기 때문이다. 전국 초·중·고 학생은 올해 484만1276명으로 2년 만에 30만명 가까이 줄었다. 앞으로는 더 크게 줄어든다. 2030년까지 2025년 대비 90만명(21%) 줄고, 특히 초등학생은 같은 기간 30% 넘게 급감한다고 교육부는 25일 밝혔다. &lt;br&gt;&lt;br&gt;문제는 소규모 학교가 급증하면서 학생 한 명당 들어가는 비용이 치솟는다는 점이다. 실제 A중은 올해 예산 중 학생 복지와 교육 활동에 쓰는 돈이 1억2000만원가량으로, 학생 1명당 3000만원꼴이다. 송기창 숙명여대 교육학부 명예교수는 “학생이 많든 적든 교실과 교사가 필요하고, 인건비나 시설 운영비 등 학교 운영비가 들어가는 건 마찬가지니, 소규모 학교가 늘어날수록 결국 교육 예산의 효율성이 떨어지게 되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;실제로 소규모 학교의 증가로, 학생 수 감소에 맞춰 교사 수를 줄이는 것도 쉽지 않은 상황이다. 교육부는 이날 ‘중장기(2027~2030년) 초·중등 교과 교원 수급 방향’을 발표하면서 내년에 초등 교사 2700~2900명, 중등 교사 4700~5100명을 새로 뽑겠다고 밝혔다. 초등은 2년 전 계획(2600~2900명)과 비슷하지만, 중학교는 2년 전(3500~4000명)보다 오히려 1000명 이상 늘었다. 교육부는 인구 감소 지역 소규모 학교 학생들의 학습권 보장과 교육 과정의 원활한 운영에 적정 수의 교사가 필요한 점, 고교학점제 등 새로운 교육 수요가 있다는 점을 대표적인 이유로 들었다. &lt;br&gt;&lt;br&gt;박남기 광주교대 명예교수는 “사회성과 학습 동기는 또래 집단 안에서 길러지는데, 소규모 학교에서는 그 토대가 무너질 수 있다”며 “학생 감소 속도에 맞춰 통폐합에 속도를 내야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>친구야, 지진 나면 이렇게 하는 거야</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/26/7MRNXCVONRGRNP7FLIMXRCCCUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/26/7MRNXCVONRGRNP7FLIMXRCCCUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDIJHHFML5FC5OCHBYI4EUMMNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 경기 고양시 킨텍스 제2전시장에서 열린 ‘2026 어린이안전박람회’에서 어린이들이 지진 발생 시 테이블 밑으로 대피하는 지진 안전 체험을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“3개 학과에 박사과정 만들어… 반값 학비로 학위 취득 가능”</title>
-      <link>https://www.chosun.com/national/education/2026/06/26/2ZI6VPBPMBANFE5MCXHDNJCYR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/26/2ZI6VPBPMBANFE5MCXHDNJCYR4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:45:00 +0000</pubDate>
-      <content:encoded>내년부터 직장인들이 한국방송통신대(방송대)를 다니면서 박사 학위를 딸 수 있다. 사회복지학과, 에듀테크학과, 평생교육학과에 박사 과정이 신설된다. &lt;br&gt;&lt;br&gt;지난 4월 취임한 김종오(60) 방송대 총장은 최근 본지 인터뷰에서 “우선 3개 학과에 박사 과정을 신설하고 점차 확대할 예정”이라며 “개교 55년 만에 방송대가 완전한 고등교육 기관으로 자리 잡는 것”이라고 했다. 1972년 설립된 국내 최초 원격 대학인 방송대는 지금까지 학사 약 86만명, 석사 1만명을 배출했다. 법상 원격 대학은 석사 학위까지만 가능해 박사 학위 취득을 원하는 학생은 일반 대학원에 진학해야 했다. 그런데 2022년 관련법이 개정돼 박사 과정 신설이 가능해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4ULB3MTOVHRFIJQWZYDSW57VQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김종오 신임 한국방송통신대 총장이 서울 종로구 방송대 총장실에서 본지와 인터뷰하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-박사 과정을 왜 신설하나.&lt;br&gt;&lt;br&gt;“방송대 재학생은 전국 각지의 직장인이 많은데, 시공간 제약 때문에 일반 대학원에 다니기 어렵다. 또 일반 사립대 박사 과정은 등록금이 한 학기 500만~800만원에 달해 경제적 이유로 갈 수 없는 이도 많다. 이런 분들의 요청이 많았다. 방송대 박사 과정 학비는 일반 대학의 절반 이하 수준이 될 것으로 예상한다.”&lt;br&gt;&lt;br&gt;-원격으로 질 높은 박사 과정 교육이 되겠느냐는 우려도 있다.&lt;br&gt;&lt;br&gt;“학과당 박사 과정 정원을 10명 안팎으로 두고 교수 1명이 박사 1~2명만을 전담 지도하도록 할 예정이다. 수업과 논문 지도 등은 대체로 온라인으로 진행하지만, 주말이나 야간을 이용해 오프라인 세미나 등도 자주 개최할 계획이다. 학·석사 과정보다 결코 쉬운 도전은 아닐 것이다. 박사 과정이 생기는 사회복지학과 등은 인기 학과로 재학생 수가 1만명에 달한다. 심사를 통해 학위 취득 의지가 확고한 소수에게만 기회를 줄 생각이다.”&lt;br&gt;&lt;br&gt;-로스쿨 설립도 재추진한다고 들었다. &lt;br&gt;&lt;br&gt;“2021년 관련 법안까지 발의됐지만 끝내 국회 문턱을 넘지 못했다. 방송대에는 다양한 분야 직장인과 법무사 등 법조 관련 종사자가 많다. 다양한 사회 경험을 가진 인재가 법조계에 진출하도록 하자는 로스쿨 도입 취지에 방송대 로스쿨이 가장 부합한다. 관련 법안이 다시 발의돼 통과할 수 있도록 여론을 모으고 입법을 위한 설득과 준비 작업을 곧 시작하겠다.”&lt;br&gt;&lt;br&gt;-인공지능(AI) 시대를 대비해 어떤 준비를 하고 있나.&lt;br&gt;&lt;br&gt;“학생들에게 맞춤 학습, 진로 설계, 학업 관리 서비스 등을 제공하는 ‘AI 기반 교육 플랫폼’을 개발하고 있다. AI가 학생에게 필요한 각종 논문과 뉴스 등 최신 자료를 찾아주고, 질문에 답해주고, 학생이 부족한 영역이 무엇인지 분석해주는 등 ‘AI 교육 생태계’를 구축할 것이다. 국내 최고 수준으로 만들어 다른 대학에도 공유할 계획이다.”&lt;br&gt;&lt;br&gt;-방송대 AI 플랫폼의 경쟁력은.&lt;br&gt;&lt;br&gt;“방송대는 졸업생만 86만명이 넘는다. 원격 대학이라 교육 콘텐츠와 학생들의 학업 과정, 상담 내역 등이 모두 디지털화돼 있다. 방대한 데이터를 갖고 있어 AI 플랫폼 구축에 최적이다.”&lt;br&gt;&lt;br&gt;-방송대를 찾는 젊은 학생이 늘고 있다던데.&lt;br&gt;&lt;br&gt;“컴퓨터과학과 등 첨단 산업 관련 전공에는 20대 지원자가 30~40대보다 많다. AI를 중심으로 산업 전반이 재편되며 AI와 관련 없는 전공을 한 젊은 사람들이 취업 시장에서 필요한 역량 강화를 위해 찾는 것이다. 과거 방송대는 사정상 대학을 가지 못해 학위 취득을 위해 입학하는 경우가 많았으나, 이제 재교육 기관의 역할이 강해지고 있다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성종태한국연구소 일본에 설립</title>
-      <link>https://www.chosun.com/national/people/2026/06/26/ISJATN6XK5ASRLCAKPJHYTB3V4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/06/26/ISJATN6XK5ASRLCAKPJHYTB3V4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:48 +0000</pubDate>
-      <content:encoded>재일 동포 장학 사업을 하는 한국교육재단이 일본 내에 한국학 싱크탱크인 성종태한국연구소를 설립한다고 25일 밝혔다. 초대 소장은 재일 동포 2세인 이성시 와세다대 명예교수가 맡는다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DWRDMLD2FGWJJFCZHRRUENMUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 연구소는 성종태(92) 알라딘홀딩스 회장이 지난해 2월 한국교육재단에 기부한 시가 약 50억원 상당의 신한금융지주 주식 5만주를 재원으로 해 설립됐다. 성 회장은 일본에서 태어난 재일 동포 2세다. 1958년 요시무라 관광, 1983년 알라딘을 설립하는 등 일본에서 사업을 일궜다. 그는 “이 연구소가 한국과 일본의 연구자들이 서로를 이해하고 자유롭게 연구하며 교류하는 한국학 연구의 중심이 되기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산 북항 돔구장 추진… ‘사직의 추억’ 끝나나</title>
       <link>https://www.chosun.com/national/national_general/2026/06/26/J63TOI6M35CSDB2HQVXFTSK3EA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/J63TOI6M35CSDB2HQVXFTSK3EA/</guid>
@@ -804,15 +825,6 @@
       <description/>
       <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIMNMKS7HVGSJJI6SU3IMGBISI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북항에 돔구장이 들어선다면…  24일 하늘에서 내려다본 부산 북항 재개발 부지. 가운데 큰 공터가 랜드마크 건설 부지다. 전재수 부산시장 당선인은 이곳에 3만석 규모 돔구장을 짓는다는 계획이다. 사진 왼쪽에 있는 흰색 건물은 내년 9월 개관하는 오페라하우스다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 부산시장 선거에서 더불어민주당 전재수 후보가 당선된 이후 부산 북항 부지에 돔구장을 짓는 구상이 본격화하고 있다. 미국 메이저리그(MLB) 샌프란시스코 자이언츠의 홈구장인 오라클파크처럼 바다가 보이는 야구장을 짓자는 것이다. 북항 부지는 부산역 동쪽에 있는 낡은 항만 지역이다. 항만 시설이 부산 강서구와 경남 창원 등으로 이전한 이후 재개발 사업이 진행 중인 곳이다. 내년 9월에는 부지 한쪽에 오페라하우스가 먼저 문을 연다.&lt;br&gt;&lt;br&gt;북항 돔구장 건설은 전 당선인의 지방선거 공약이다. 북항 랜드마크 건설 부지에 지붕을 열고 닫을 수 있는 3만석 규모 개폐식 돔구장을 짓는다는 계획이다. 일본 프로야구 소프트뱅크 호크스의 후쿠오카 돔(미즈호 페이페이 돔 후쿠오카)이 개폐식 돔구장이다. 3만석은 2032년 개장하는 서울 잠실 돔구장과 비슷한 규모다. SSG가 2028년 인천 청라에 짓는 돔구장(2만3000석)보다 크다.&lt;br&gt;&lt;br&gt;전 당선인은 K팝 공연장, 쇼핑몰, 호텔 등을 갖춘 복합 돔구장으로 개발한다는 구상이다.&lt;br&gt;&lt;br&gt;전 당선인이 돔구장을 지으려는 북항 랜드마크 건설 부지는 11만3286㎡(약 3만4000평) 크기로 2023년 터를 닦는 공사를 마쳤다. 박형준 부산시장은 2024년 12월 4조5000억원 규모의 외국 자본을 유치해 호텔, AI(인공지능) 헬스케어센터 등을 갖춘 88층 랜드마크 타워를 짓겠다고 발표했다. 삼성전자, 넷플릭스 등과 함께 ‘북항 랜드마크 컨소시엄’까지 꾸렸다. 이후 민간투자를 유치하려고 했으나 두 차례 공모 모두 불발됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6MCJRQUF5GEZHNZ554KGAYU3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역에선 “오랫동안 답보했던 북항 재개발 사업에 속도가 붙을 것 같다” “부산의 미래를 좌우할 금싸라기 땅에 돔구장을 짓는 게 맞느냐” 등 의견이 갈리고 있다. &lt;br&gt;&lt;br&gt;지방분권균형발전 부산시민연대가 지난 12~15일 부산시민 500명을 대상으로 실시한 여론조사에서, 응답자의 59%가 북항 돔구장 건설에 찬성했다. 야구 팬들 사이에서는 “KTX 타고 부산 가서 원정 응원할 수 있겠다”는 반응도 나왔다. 북항을 지역구로 둔 국민의힘 곽규택 의원도 호응하고 있다.&lt;br&gt;&lt;br&gt;문제는 비용이다. 전 당선인은 돔구장 사업비를 약 1조3000억원으로 예상한다. 전 당선인은 지난 15일 기자들과 만나 “1조3000억원 중 부지 대금 6300억원(44%)은 부지를 소유한 부산항만공사가 사업에 참여해 지분을 받는 방식으로 해결할 수 있고, 나머지 6700억원은 민간 투자를 유치하면 된다”고 했다. 이와 관련해 항만공사도 개발 사업에 참여할 수 있도록 하는 ‘항만공사법 개정안’이 지난 18일 국회를 통과했다.&lt;br&gt;&lt;br&gt;전 당선인은 “시민이 돔구장 건설에 참여할 수 있게 ‘시민 공모주’를 발행하는 방안도 검토하고 있다”고 했다. 시민들이 돈을 내 일부 비용을 충당할 수 있다는 것이다. 부산 지역 건설사인 협성종합건업은 최근 “북항에 야구장을 지으면 무상으로 공사를 하는 방식으로 3000억원을 기부하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 업계 관계자는 “경남 진해신항 개발에 막대한 자금이 필요한 항만공사가 개발에 참여할 수 있을지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;현재 롯데자이언츠가 홈구장으로 쓰고 있는 동래구 사직구장 주변 상인들은 반발하고 있다. 유수원 국민시장 상인회장은 “야구장 덕분에 먹고사는데 파산하란 말이냐”며 “야구장 이전 계획에 결사 반대한다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 서지영(부산 동래) 의원은 지난 19일 국회에서 기자회견을 열고 “부산 시민, 프로야구 팬과 40년 넘게 함께한 사직구장을 몇 사람 뜻에 따라 없애면 안 된다”고 했다. &lt;br&gt;&lt;br&gt;이에 대해 전 당선인은 “사직구장에선 프로야구 경기가 1년에 약 60일 열려 낙수 효과가 600억원 수준”이라며 “사직구장을 동호인들이 밤낮으로 사용할 수 있는 생활 체육 메카로 만들면 그 이상 경제 효과를 낼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;새 야구장 건설은 부산 지역의 숙원 사업이다. 사직구장은 1985년에 지어 노후화가 심각하다. 허남식 전 시장이 2010년 사직구장을 돔구장으로 짓자고 제안한 이후 시장 선거 때마다 이슈로 떠올랐다가 무산됐다. 오거돈 전 시장은 북항에 ‘개방형 야구장’을 짓겠다고 했다. 박 시장은 사직구장을 재건축하기로 방향을 잡았다. 문화체육관광부의 공공 체육 시설 개보수 지원 공모에 선정돼 국비 299억원도 확보했다. 총비용은 약 2924억원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남·광주 통합 주청사, 서로 “우리 지역이 돼야”</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/XYHNOVEFMVADJJUAWDE5J7M4KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/XYHNOVEFMVADJJUAWDE5J7M4KM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>전국 최초로 광역 지방자치단체 통합을 이뤄낸 전남·광주 통합특별시가 출범을 앞두고 ‘주청사’ 소재지 문제로 갈등을 겪고 있다. 행정안전부가 “주사무소 소재지는 한 곳만 인정할 수 있다”는 유권해석을 내놓으면서 각 지역들이 “주청사 소재지는 우리가 돼야 한다”고 주장하고 나섰기 때문이다. &lt;br&gt;&lt;br&gt;통합특별시 출범 전인 현재까지 광주광역시청과 전남 무안 전남도청이 광주광역시와 전남도의 주청사로 기능해왔다. 지난 2023년 문을 연 순천 동부청사는 여수와 순천, 광양 등 동부권 행정 수요를 처리하기 위한 전남도의 2청사 역할을 한다. 주청사는 지자체의 중심지라는 상징성뿐 아니라 청사에서 근무하는 공무원과 민원인 등 고정 유동 인구가 보장돼 인근 지역의 상권이 발달하고, 임대료가 오르는 등의 경제 효과도 기대할 수 있다.&lt;br&gt;&lt;br&gt;앞서 ‘전남광주통합특별시 설치를 위한 특별법’은 ‘통합특별시의 청사는 전남동부청사, 무안청사, 광주청사를 균형 있게 활용·운영한다’고 규정했다. 주청사를 따로 두지 않겠다는 취지다. &lt;br&gt;&lt;br&gt;하지만 지난 10일, 행정안전부가 광주시와 전남도에 “주사무소 소재지는 한 곳만 인정할 수 있다”는 유권 해석을 전달하면서 지역 간 갈등이 촉발됐다. 민형배 전남광주특별시장 당선인이 한 라디오 방송에 출연해 “균형 발전을 위해 광주·무안·순천 청사 중 규모가 작은 순천 동부청사를 주사무소 소재지로 등록하는 방안을 구상하고 있다”고 한 발언이 알려지자 지역 간 갈등은 더욱 격화됐다. 더불어민주당 김원이(전남 목포) 국회의원과 강성휘 목포시장 당선인 등 전남 서남권 정치인들은 전남도의회에서 기자회견을 열고 “주소는 순천, 정무 기능은 광주가 가져가고 무안도청은 ‘시민주권청사’라는 껍데기만 남겨뒀다”며 “허울뿐인 ‘3청사 균형 운영’을 강력히 규탄한다”고 항의했다. 민 당선인이 “특별시장이 무안청사에 상근하거나 기획·인사·예산 등 기관 유지 기능을 무안청사에 두는 방안도 가능하다”며 진화에 나섰지만 중부권인 나주시까지 “기존 청사 기능은 유지하고, 통합 특별시의 새로운 주청사를 나주에 둬야 한다”고 주장하고 나섰다. 특정 지역에 편중한다는 논란을 잠재우기 위해서라도 ‘제3지대’인 나주에 핵심 행정 기능을 수행할 ‘전략 청사’를 만드는 게 낫다는 논리다. &lt;br&gt;&lt;br&gt;당장 통합 특별시장으로 선출된 민 당선인이 취임 첫날 출근할 장소를 정하는 일부터 난항에 빠졌다. 첫 출근지가 추후 주청사로 선정될 가능성이 높다는 해석이 나올 수 있기 때문이다. 민 당선인은 취임 첫날인 다음 달 1일 무안 전남도청에 출근한 뒤 순천 동부 청사와 광주시청사를 순회 근무하는 방안을 검토 중이다. 민 당선인 인수위원회는 “민 당선인이 순천·무안·광주 청사를 순회하며 근무한 뒤 어느 곳을 주청사로 등록할지 결정할 예정”이라며 “시도민과 전문가의 의견을 폭넓게 듣겠다”고 말했다. 기우식 광주시민단체협의회 사무처장은 “통합 특별시의 발전을 위해 가장 좋은 지역을 선정하고, 이를 설득해야 할 정치인들이 오히려 논란을 확산하는 측면도 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이승우·하종현·배창호 등 7명 대한민국예술원 신입 회원 선출</title>
@@ -831,24 +843,6 @@
       <description/>
       <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;이상열&lt;/b&gt; 별세, &lt;b&gt;이경주&lt;/b&gt;·&lt;b&gt;이동숙&lt;/b&gt;·&lt;b&gt;이명자&lt;/b&gt;·&lt;b&gt;이혜진&lt;/b&gt; 부친상, &lt;b&gt;김익&lt;/b&gt; 한국전과정평가학회 학회장·&lt;b&gt;나요한&lt;/b&gt; 장인상=24일9시22분 성남중앙병원, 발인 26일7시, (031)799-5260&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정훈&lt;/b&gt; 前 한국일보 부장 별세, &lt;b&gt;이석윤&lt;/b&gt; 前 경북 포항시의원·&lt;b&gt;이석준&lt;/b&gt; 센트럴모터스 렉서스 분당 영업이사 부친상=24일19시4분 경북 포항 국화원장례식장, 발인 26일9시30분, (054)272-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이주용&lt;/b&gt; 이주용안과의원 원장 별세, &lt;b&gt;이상규&lt;/b&gt; 남편상, &lt;b&gt;이현주&lt;/b&gt; 리치몬트코리아 마케팅 매니저·&lt;b&gt;이호진&lt;/b&gt; 다유통상 팀장 부친상, &lt;b&gt;김태현&lt;/b&gt; 한국은행 부산본부 기획금융팀장 장인상, &lt;b&gt;심효진&lt;/b&gt; 삼주유통 팀장 시부상=23일16시54분 서울아산병원, 발인 26일6시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“통영 시민에 민생지원금 33만원 지급”</title>
-      <link>https://www.chosun.com/national/2026/06/26/CWUAPQE3E5HULODGKLPK7WWSZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/06/26/CWUAPQE3E5HULODGKLPK7WWSZM/</guid>
-      <dc:creator>통영=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>경남 통영시 인구는 11만6000명이다. 조선소가 잇따라 문을 닫고 청년들이 지역을 떠나면서 인구가 계속 줄고 있다. 수산업도 이상 기후와 고령화 등 여파로 위기에 놓였다. 6·3 지방선거에서 통영시장에 당선된 더불어민주당 강석주(62) 당선인은 지난 22일 본지 인터뷰에서 “침체한 지역 경제를 살리기 위해 취임하는 즉시 1인당 33만원씩 민생지원금을 지급하겠다”고 했다. 강 당선인은 6·3 통영시장 선거에서 현직인 국민의힘 천영기 시장을 ‘44표차’로 이기고 징검다리 재선에 성공했다. 경남도의원 출신인 강 당선인은 2018년 지방선거에서 통영 첫 민주당 소속 시장이 됐다. 그러나 2022년 재선에 실패했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2P7YVXF2RD5FKYBRWNU5DKGBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 강석주 당선인 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-‘민생지원금’ 지급을 서두르는 이유는.&lt;br&gt;&lt;br&gt;“지역 경제가 침체한 상황에서 고물가·고유가까지 겹쳤다. 통영시는 근처 거제시·고성군과 달리 그동안 민생 지원금을 지급하지 않았다. 상대적 박탈감이 크다는 시민이 많았다. 추석 전에 지급할 수 있도록 취임 즉시 추가경정예산을 편성하겠다.”&lt;br&gt;&lt;br&gt;-재원은 어떻게 마련하나.&lt;br&gt;&lt;br&gt;“대규모 재난과 지역 경제 악화 등 긴급한 상황에 사용하기 위해 적립한 통합재정안정화기금(748억원)을 활용할 계획이다. 급하지 않은 사업 예산도 구조조정하고 있다. 1인당 33만원을 지급하려면 총 384억원이 필요할 것으로 보고 있다. 통영사랑상품권으로 지급할 계획이다.”&lt;br&gt;&lt;br&gt;-청년이 통영을 떠나고 있다.&lt;br&gt;&lt;br&gt;“시가 나서 창업투자회사를 설립할 계획이다. 청년이 지역에 뿌리를 내릴 수 있도록 투자하고 판로 개척도 도울 생각이다. 연구 용역을 해 지원 규모와 방식을 구체화하겠다.”&lt;br&gt;&lt;br&gt;-무가선 트램을 설치하겠다고 공약했는데.&lt;br&gt;&lt;br&gt;“2031년 통영 용남면 장문리에 KTX 통영역이 생긴다. 관광객·시민이 역에서 도심까지 빠르게 이동할 수 있도록 교통 인프라 확충이 중요하다. 무가선 트램은 전차선 없이 배터리로 운행하는 친환경 교통 수단이다. 통영의 명물이 될 수도 있다. KTX역에서 항남동, 도남동, 옛 신아SB를 잇는 노선을 구상하고 있다.”&lt;br&gt;&lt;br&gt;-욕지도 해상 풍력 발전 사업에 대해 주민들 반발이 크다.&lt;br&gt;&lt;br&gt;“욕지도 주변 해상에만 4개 업체가 해상 풍력 발전 사업을 벌이고 있다. 친환경 에너지 사업이란 대의에는 공감하지만 주민의 동의와 상생이 전제돼야 한다. 시가 주도해 ‘민관 협의체’를 구성하겠다. ‘햇빛 연금’을 도입한 전남 신안군처럼 발전 수익 일부를 주민에게 나눠주는 ‘주민 참여형 이익 공유제’를 의무화하는 방안도 검토하겠다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5일간 대구는 ‘치맥 천국’</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/T4POBESVSZAFTHHUFRKNTBNEDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/T4POBESVSZAFTHHUFRKNTBNEDY/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Jun 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNL4KLT7SNEFJPRKYB2IXMVZAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대구치맥페스티벌(치맥 축제)’이 7월 1일부터 5일까지 닷새간 두류공원 일대에서 열린다. 지난 2013년 처음 시작한 이 축제는 매년 100만명가량의 인파가 몰리는 대구 지역의 대표 여름 축제다.&lt;br&gt;&lt;br&gt;행사의 메인 축제장인 2·28 자유광장에선 360도 원형 무대에서 펼쳐지는 가수들의 공연을 보면서 치킨과 맥주를 즐길 수 있다. 공원 내 코오롱 야외 음악당에는 계란프라이 모양의 개방형 에어돔인 ‘치상낙원 EGG섬’을 조성했다. 비가 오거나 날씨가 더워도 쾌적하게 축제를 즐길 수 있도록 한 것이다.&lt;br&gt;&lt;br&gt;올해부터는 치맥페스티벌의 사전 행사로 ‘제1회 대프리카 치맥런’이 함께 열린다. 축제 전날인 6월 30일 참가자들이 두류공원 러닝 코스를 두 바퀴(5.5㎞) 달린 뒤 전자 음악(EDM)을 들으며 치킨을 먹고 맥주를 마시는 프로그램이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“서초 재건축 지원단 꾸려 지지부진한 사업에 속도”</title>
