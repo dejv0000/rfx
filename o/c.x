@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[리빙포인트] 식빵이 마르는 걸 막으려면</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/28/YCE4RSOCTRGMHMFSQJVLCWCMBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/28/YCE4RSOCTRGMHMFSQJVLCWCMBQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jun 2026 14:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIH73WF5SNCO3M2NZPPBOVVMEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요리하다 남은 셀러리 줄기가 있다면 식빵 봉지 안에 넣어두자. 셀러리 줄기에서 나오는 수분이 빵이 마르는 것을 막아준다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 6월 29일</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/06/28/NRNE3CVDNNB7PEH42AHFMBEE5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/28/NRNE3CVDNNB7PEH42AHFMBEE5Y/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jun 2026 14:35:00 +0000</pubDate>
+      <content:encoded>오후 전국 곳곳 소나기… 예상 5∼10㎜&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFHONZTDUFDHLIRYPX4QY4BIDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이 대통령도 “볼만하다”…김상욱 인수위 생중계, 호평 속 논란도</title>
+      <link>https://www.chosun.com/national/regional/2026/06/28/26ZKWK5D5VC27I7S7U2JFVISBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/28/26ZKWK5D5VC27I7S7U2JFVISBY/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jun 2026 11:34:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYDMNBZGMYDINBWGZSTIODEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상욱 울산시장 당선인이 지난 16일 울산 남구 상수도사업본부에서 울산시장직 인수위원회 출범식을 열고 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘시민이 주인되는 시정’을 강조하는 김상욱 울산시장 당선인이 인수위원회 회의를 유튜브로 생중계하는 파격 행보를 이어가고 있다. 지방정부가 인수위 회의를 전면 공개해 시정 투명성을 높였다는 호평이 나오는 한편, 회의 장면이 공개되면서 공무원들이 과도한 비판에 노출되는 부작용도 나타나고 있다.&lt;br&gt;&lt;br&gt;김 당선인은 민선 9기 울산시장직 인수위원회가 출범한 지난 16일부터 모든 인수위 회의를 유튜브 ‘김상욱TV’로 실시간 중계하고 있다.&lt;br&gt;&lt;br&gt;회의 주요 내용과 발언은 숏폼 영상으로도 제작해 자신의 SNS에 별도로 게시하고 있다.&lt;br&gt;&lt;br&gt;인수위 회의 역시 시정 발전을 위한 공적 업무인 만큼 시민에게 있는 그대로 공개하겠다는 김 당선인의 의지가 반영된 것이다.&lt;br&gt;&lt;br&gt;지방정부 차원에서는 좀처럼 보기 어려웠던 이번 시도를 두고 다양한 평가가 나온다.&lt;br&gt;&lt;br&gt;시정 운영 과정을 투명하게 공개해 시민들의 이해와 관심을 높이고 자연스럽게 공론화를 이끌 수 있다는 긍정적인 반응이 적지 않다.&lt;br&gt;&lt;br&gt;김 당선인의 SNS 게시물에도 “잘한다” “응원한다”는 댓글이 달리거나 “앞으로 기대된다”는 의견이 주를 이루고 있다.&lt;br&gt;&lt;br&gt;이재명 대통령도 28일 엑스(X·옛 트위터)에 더불어민주당 김태선 의원(울산 동구)의 게시물을 공유하며 김 당선인의 회의 생중계를 언급했다.&lt;br&gt;&lt;br&gt;이 대통령은 “김태선 의원님과 김상욱 시장 당선자님이 함께 새로운 희망도시 울산을 만들어 가실 것으로 믿습니다”라는 응원과 함께 “요즘 김 당선자의 공개회의 볼만합니다”고 격려했다.&lt;br&gt;&lt;br&gt;이 대통령은 취임 이후 사상 처음으로 국무회의를 생중계하고, 엑스를 통해 국정 현안에 대한 견해를 직접 밝히는 등 국민과의 소통을 강화해 왔는데, 김 당선인의 행보도 이와 비슷하다는 평가가 나온다.&lt;br&gt;&lt;br&gt;반면 인수위 회의를 생중계로 공개하는 것이 적절하냐는 지적도 나온다.&lt;br&gt;&lt;br&gt;시장 취임 전 인수위 단계에서 업무보고를 하는 공무원들의 모습이 그대로 공개되고, 일부는 질책받는 장면까지 노출되면서 부담이 커질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;김 당선인은 최근 한 부서장의 업무보고를 들은 뒤 “협박으로 들린다”라며 강한 어조로 불쾌감을 표시했고, 해당 장면이 SNS를 통해 확산되면서 해당 공무원을 향한 비난이 이어지기도 했다.&lt;br&gt;&lt;br&gt;관련 게시물에는 “공무원들이 부당한 모멸감을 느끼지 않도록 배려해 달라”거나 “(인수위 회의는) 대통령과 장관 등이 참여하는 국무회의와는 다르다”는 등의 댓글도 달렸다.&lt;br&gt;&lt;br&gt;울산시 한 고위공무원은 “제가 하는 말이 모두 생중계된다고 생각하니 부담이 백배”라며 “새 지방정부 출범으로 바뀌는 정책도 많은데 업무보고까지 공개되니 부담이 더 크다”고 말했다.&lt;br&gt;&lt;br&gt;김 당선인도 SNS를 통해 “공개회의는 공무원 여러분의 용기가 있어야 가능하다”라면서 “일부가 과도한 비난과 인신공격에 노출돼 잠을 이루지 못했다. 용기 있게 공적 업무를 나눌 수 있도록 응원하고 격려하고 존중해주시기를 당부드린다”라고 진화를 시도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“홍명보 출입 금지” “죽일 것”... 경찰, 예의 주시</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/28/PUSCGB5BIBB3RPFKI362QR2JJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/28/PUSCGB5BIBB3RPFKI362QR2JJ4/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Jun 2026 10:52:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSGFOHCIYZBF3EFPUAHYI6E3YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 편의점 출입문에 '홍명보는 출입금지'라고 적힌 안내문이 붙어 있다./온라인 커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 축구 국가 대표팀의 2026 북중미 월드컵 32강 진출이 28일 끝내 좌절되자 홍명보 감독을 향한 비난 여론이 커지고 있다. 식당과 편의점 등에 홍 감독의 출입을 금지한다는 안내문이 붙는가 하면, 온라인에는 살해 협박성 글까지 올라왔다. &lt;br&gt;&lt;br&gt;이날 한 온라인 커뮤니티에는 ‘내가 총대 메고 홍명보 XXX 살해하겠다’는 제목의 글이 게시됐다. 본인이 41세이고 미국 국적을 가졌다고 주장한 작성자는 “홍명보 귀국하는 날에 인천공항 가서 살해하겠다”고 예고했다. 해당 게시글은 현재 삭제된 상태다.&lt;br&gt;&lt;br&gt;또 다른 커뮤니티에는 ‘홍명보, 마지막 작전 지시’라는 제목의 게시글에 홍 감독이 선수들을 상대로 ‘공항 도착하면 뒤도 돌아보지 말고 각자 다른 방향으로 흩어져서 튀어’라는 문구를 띄워놓고 전술 강의를 하는 합성 사진이 올라오기도 했다.&lt;br&gt;&lt;br&gt;홍 감독이 귀국 직후 감독직을 사퇴한다는 확인되지 않은 소식도 커뮤니티를 중심으로 확산하고 있다.&lt;br&gt;&lt;br&gt;경찰은 살인 예고 등 게시글에 대해선 협박 혐의를 적용해 작성자를 추적하고, 인천공항 등에서 돌발 상황이 발생하지 않도록 예의 주시할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFSWFRZ6FFA6BHQBC5J5CAZ6MU.png"&gt;&lt;figcaption&gt;&lt;small&gt;전북 김제의 고깃집 입구에 ‘홍명보 출입 금지’라는 안내문이 붙어 있다./인터넷 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘홍명보 출입 금지’를 붙인 식당과 카페 등의 ‘인증 사진’도 온라인상에서 확산되고 있다. 경기도 안양시 동안구 호계동에 있는 한 한식 주점 입구에는 축구공 그림과 함께 “홍명보는 출입 금지!”라고 적힌 안내문이 걸렸다. 전북 김제 한 고깃집도 ‘홍명보 국가대표 감독의 출입을 단호히 금지한다’는 게시글과 사진을 게재했다.&lt;br&gt;&lt;br&gt;앞서 대표팀이 남아프리카공화국에 패한 지난 26일에는 한 편의점 출입문에 ‘홍명보 출입 금지’ 안내문이 붙은 사진이 온라인에서 확산됐다. &lt;br&gt;&lt;br&gt;지난해 국회 국민동의청원에 게시된 홍 감독 경질 및 국가대표 감독 선임 절차 투명화 등에 대한 청원도 재차 조명됐다. 해당 청원들은 국회 소관 상임위원회 회부 조건인 5만명 이상의 동의를 받지 못해 종료됐다.&lt;br&gt;&lt;br&gt;홍 감독이 지휘해온 한국 축구 대표팀은 대회 조별 리그 마지막 날인 이날 J, K, L조 경기 결과 각 조 3위 12팀 중 10위로 밀려났다. 32강 진출의 마지노선인 8위 안에 들지 못하면서 탈락이 확정됐다.&lt;br&gt;&lt;br&gt;한국 축구가 월드컵 조별 리그를 통과하지 못한 건 2018년 러시아 대회 이후 8년 만이다. 2002년 한일 월드컵 4강 신화의 주역이었던 홍 감독은 2014년 브라질 월드컵에 이어 이번 대회에서도 조별 리그 탈락이라는 성적표를 받아 명예 회복에 실패했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서산 아파트 단지서 킥보드 탄 초등생 2명 차량과 충돌… 2명 중상</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2026/06/28/YIS434XSWJCNZHLV7JJPPEKZXA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/06/28/YIS434XSWJCNZHLV7JJPPEKZXA/</guid>
@@ -892,42 +928,6 @@
       <description/>
       <pubDate>Fri, 26 Jun 2026 05:31:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DT7JOERCRE5JHHA54DRO5SHKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대는 구용서 용현인더스트리 회장 가족이 의학발전기금 5억원을 기부했다고 26일 밝혔다. 사진은 기부금 전달식 모습./고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 구용서 용현인더스트리 회장(경영전문대학원 최고경영자과정 9기)이 가족들과 의학발전기금 5억원을 기부했다고 26일 밝혔다. 이번 기부는 고려대 의과대학의 의학 연구와 고려대의료원·구로병원의 발전을 위해 마련됐다.&lt;br&gt;&lt;br&gt;구 회장 가족은 고려대와 오랜 인연을 이어왔다. 구 회장 장남 구진회(기계공학과 78학번)씨, 차남 구승회(경영학과 82학번)씨, 손자 구자영(경영학과 07학번)씨가 고려대 출신이다. 구 회장 본인도 이 대학 경영전문대학원 최고경영자과정 9기 과정을 거쳤다. 김동원 고려대 총장은 “이번 기부가 대학과 의료원의 미래 발전을 위한 든든한 밑거름이 될 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전주 한 초교 4학년 여학생, 건물 옥상서 추락… 병원 이송 </title>
-      <link>https://www.chosun.com/national/incident/2026/06/26/IUYJA4OLZJG2RNHPFHKPFVDWGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/26/IUYJA4OLZJG2RNHPFHKPFVDWGE/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jun 2026 05:15:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오전 8시 10분쯤 전북 전주시 덕진구의 한 초등학교 건물 옥상에서 4학년 A(9)양이 화단으로 추락하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 A양은 가슴과 다리 등을 크게 다쳐 곧바로 인근 병원으로 옮겨져 치료를 받고 있으며, 생명에는 지장이 없는 상태로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 이른 시간에 등교한 A양이 홀로 옥상으로 올라갔다가 사고를 당한 것으로 파악하고 있다.&lt;br&gt;&lt;br&gt;경찰과 전북교육청 등은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정의당 “검찰 개혁, 김민석·정청래 신경전만 남아… 일국의 수사 체계를 정쟁으로 결정하나”</title>
-      <link>https://www.chosun.com/politics/assembly/2026/06/26/B33A4HAYIFAL5LRHX6WAN52CTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/06/26/B33A4HAYIFAL5LRHX6WAN52CTY/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jun 2026 05:31:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UUZKGFAUJO55FG5PPXQPAGEBM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 전 더불어민주당 대표와 김민석 국무총리가 지난 21일 서울 여의도 국회의원회관에서 열린 민주당 6·3지방선거 단체장 당선자 워크숍에 참석해 나란히 앉아 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당에서 검찰의 보완 수사권을 두고 정청래 전 대표와 김민석 국무총리 등이 폐지 경쟁을 벌이는 데 대해 정의당이 “검찰 개혁의 본질은 온데간데없고 김 총리와 정 전 대표의 신경전만 남았다”며 비판했다.&lt;br&gt;&lt;br&gt;정의당은 26일 성명을 통해 “민주당 인사들이 보완 수사권 문제에 대해 신경전을 벌이는 것은 오는 8월 전당대회를 앞두고 있기 때문”이라며 “김 총리와 정 전 대표가 당대표직 경선을 치를 것으로 예상되는 상황에서, 보완 수사권을 핵심 쟁점으로 부각시키려는 쪽과 그에 반대되는 쪽의 정치적 공방이 펼쳐지고 있는 것”이라고 평가했다.&lt;br&gt;&lt;br&gt;이어 “이는 검찰 개혁의 본말이 심각하게 전도된 꼴”이라며 “집권 여당이 시민의 형사적 권리와 직결되는 문제를 이런 식으로 다루는 것은 매우 부적절하다”고 비판했다.&lt;br&gt;&lt;br&gt;정의당은 “정치 검찰의 권력을 청산하는 검찰 개혁에 공감하지만, 여러 차례 입장을 밝혔듯 검찰 개혁의 본질은 시민과 피해자의 형사적 권리를 보호하는 데 있으며, 단지 검찰에 대한 복수에 그쳐선 안 된다”고 했다.&lt;br&gt;&lt;br&gt;이어 “보완 수사권 유지는 악이고 폐지는 선이라는 이분법적 사고방식으로 판단할 문제가 아니다”라며 “평범한 피해자에게 돌이킬 수 없는 억울함을 안기지 않기 위해 보완 수사권이 필요하다면, 보완 수사권이 악용되지 않는 방향으로 대안을 도출해 내는 것이 정치의 역할”이라고 지적했다.&lt;br&gt;&lt;br&gt;정의당은 “이러한 이유로 보완 수사권의 제한적·예외적 허용이 필요하다”며 “공소시효가 임박한 사건이나 고소·고발 후 장기간 경찰 수사가 지연되는 사건, 사건의 성격상 경찰의 초동 수사가 미진하거나 은폐 의혹이 있는 사건 등에 한해, 공소청이 직접 보완 수사를 하거나 경찰에 지시할 수 있도록 허용하자”고 했다. 그러면서 “이는 기관 간의 책임 전가를 막고, 절차적 문제로 범죄자가 처벌을 면하는 불리한 상황을 방지하기 위해 필요한 일”이라고 했다.&lt;br&gt;&lt;br&gt;정의당은 “시민들의 형사적 권리를 위해 운용될 일국의 수사 체계가 특정 정당 내부의 권력 암투, 신경전, 정쟁으로 결정된다면 참으로 부끄럽고 한심한 일일 것”이라고 비판하고, “민주당은 강성 지지층에 호소하기 위해서가 아니라, 오직 시민의 권리를 증진하기 위해 노력하라”고 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “반도체도 사법도 정권 유지 도구로 전락”</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/26/VQJWHJKHSVCA5DRN437SR3RTSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/26/VQJWHJKHSVCA5DRN437SR3RTSU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jun 2026 05:07:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2WKMRQHEYDKMRWGBRDGZTFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 정부의 반도체 호남 투자와 검찰 보완수사권 폐지와 관련해 “미래 성장 엔진인 ‘반도체’도, 국민을 지킬 ‘사법 정의’도 모두 강성 지지층의 입맛에 맞추고 정권을 유지하기 위한 도구로 전락했다”고 비판했다.&lt;br&gt;&lt;br&gt;오 시장은 26일 오후 자신의 페이스북에 ‘강성 지지층만을 위한 정략적 폭주, 그 피해는 고스란히 국민의 몫입니다’라는 제목의 글에서 “청와대가 주도하는 호남 대규모 반도체 투자는 표 계산을 위해 대기업의 팔을 비틀고 기업 활동의 자유를 침해한 국정 운영 사유화”라고 했다. 그는 “산업의 생존 조건인 전력·용수·인재 확보는 무시한 채 오로지 선거용 지지층 결집만을 노린 무책임한 개입으로 국가 경쟁력을 갉아먹고 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 정부가 추진 중인 검찰 개혁에 대해서도 “강성 지지층의 검찰 적개심에 편승해 국가의 사법 시스템마저 망가뜨리고 있다”며 “정부 자문위(원회)마저 경고한 보완수사권 무력화가 강행되면 견제 없는 부실 수사와 부패 가능성으로 인한 치명적인 피해가 발생하고, 이는 오롯이 국민 개개인이 떠안게 된다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “이재명 대통령은 지난 선거의 민심을 똑바로 읽어야 한다”며 “국민이 기다리는 것은 일부 지지층만 바라보는 오만한 권력 놀음이 아니라 국민 전체의 삶을 지키는 공정하고 유능한 정치”라고 했다. 그러면서 “국민에게 피해를 입히는 정략적 폭주를 당장 멈추지 않는다면 기다리는 것은 준엄한 심판뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 온산읍 공장서 토사 붕괴...50대 작업자 1명 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/06/26/II47MRAV6NFAPJX5IWLD7EFJEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/26/II47MRAV6NFAPJX5IWLD7EFJEA/</guid>
-      <dc:creator>울산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jun 2026 02:56:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/437IAEBS4VZVOZFMZUZODK35TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산의 한 석유화학업체 공사 현장에서 토사가 무너지는 사고가 발생해 작업자 1명이 숨지는 사고가 났다. &lt;br&gt;&lt;br&gt;26일 울산소방본부에 따르면, 이날 오전 10시 1분쯤 울산 울주군 온산읍 학남리 한 석유화학업체 공사 현장에서 토사가 무너져 “사람이 돌에 깔렸다”는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;이 사고로 종합건설업체 소속 50대 남성 작업자 A씨가 콘크리트 더미에 깔려 심정지 상태로 병원에 옮겨졌지만 끝내 숨졌다. &lt;br&gt;&lt;br&gt;사고 당시 A씨는 현장 내 임시 가설 다리 아래에서 거푸집을 해체하는 작업을 하고 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 현장에서 굴착 작업을 하던 중 사고가 난 것으로 보고 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;고용노동부 울산지청은 현장에 근로감독관을 보내, 작업중지 여부 및 중대재해처벌법 위반 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘계엄 비판 자막 삭제’ 이은우 전 KTV 원장, 1심서 집행유예</title>
