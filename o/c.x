@@ -13,6 +13,130 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>차기 서울시의회 의장에 3선 임만균 될듯... 새 의장단·원내지도부 윤곽</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/29/Y3MKMPHCFFCUXBRXGWLUJJELUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/29/Y3MKMPHCFFCUXBRXGWLUJJELUY/</guid>
+      <dc:creator>이미지 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 12:21:09 +0000</pubDate>
+      <content:encoded>내달 1일 개원하는 제12대 서울시의회 의장단과 원내 지도부의 윤곽이 나왔다. &lt;br&gt;&lt;br&gt;더불어민주당은 29일 당선인 총회를 열어 12대 서울시의회 전반기 의장 후보로 3선 임만균(48·관악3) 의원을 선출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZWIOBVGI3DKNRSGYZDGZDCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임만균 위원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관행상 의장은 다수당인 민주당에서 선출되고, 부의장 두 자리는 민주당과 국민의힘이 한 자리씩 나눠 맡게 된다.&lt;br&gt;&lt;br&gt;한남대 도시지역계획과를 졸업한 뒤 공인노무사로 활동했던 임 후보는 2018년 지방선거를 시작으로 이번 6·3 지방선거까지 세 번 연속 시의원에 당선됐다. 지난 11대 서울시의회에서는 환경수자원위원회 위원장으로 활동했다.&lt;br&gt;&lt;br&gt;민주당 몫의 부의장 후보로는 3선인 성흠제(61·은평1) 시의원이 선출됐다. 연세대 공학대학원 도시계획 석사 학위를 받았고, 대통령 직속 국가균형발전위원회 전문위원, 민주당 비상근 대변인 등으로 활동했다.&lt;br&gt;&lt;br&gt;국민의힘은 앞서 지난 25일 이성배(50·송파4) 시의원을 부의장 후보로 선출했다. 이 후보 역시 2018년부터 이번 6·3 지방선거까지 세 번 연속 당선됐다. 주택공간위·문화체육관광위·보건복지위·기획경제위 등을 거쳤다.&lt;br&gt;&lt;br&gt;양당의 원내대표(대표의원)로는 민주당 이상훈 시의원(57·강북2), 국민의힘 김길영 시의원(53·강남6)이 각각 선출됐다. 이 시의원은 3선, 김 시의원은 재선이다.&lt;br&gt;&lt;br&gt;서울시의회 의장과 부의장 후보들은 다음 달 제12대 의회 개원 후 열리는 본회의에서 전체 의원 투표를 통해 당선이 확정된다.&lt;br&gt;&lt;br&gt;국민의힘이 과반이었던 11대 서울시의회와 달리 12대 시의회는 민주당이 다수당이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘국힘 당원 강제 가입’ 신천지 이만희 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/29/YRAPA2YJG5D2BABSPTHIPKXZ3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/29/YRAPA2YJG5D2BABSPTHIPKXZ3I/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 09:32:18 +0000</pubDate>
+      <content:encoded>‘정교(政敎) 유착’ 의혹을 수사하는 검경 합동수사본부(본부장 김태훈 대전고검장)가 29일 이만희 신천지 총회장을 구속 상태로 재판에 넘겼다. 이 총회장이 지난 24일 구속된 지 닷새 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2WIZRVMM2TEM3GHFSWIYLBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20대 대선과 22대 총선 전후로 신도 5만 명 이상을 국민의힘에 집단 입당시키도록 지시한 의혹을 받는 이만희 신천지예수교증거장막성전(신천지) 총회장이 지난 24일 오후 서울 서초구 중앙지방법원에서 열린 정당법 위반·업무방해 혐의 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 합수본은 “이 총회장의 피의사실 중 공소시효가 임박한 혐의를 우선 구속 기소했다”고 밝혔다. 이 총회장이 제20대 대통령 선거를 앞둔 2021년 7월쯤 신천지 신도 수천명에게 국민의힘 입당을 강요하고 국민의힘 정당 업무를 방해한 혐의(정당법 위반, 업무방해)와 관련한 공소시효(5년)가 도래하기 전에 이 총회장을 우선 재판에 넘긴 것이다.&lt;br&gt;&lt;br&gt;합수본은 이 총회장의 지시에 따라 신천지가 2021년 국민의힘 대선 경선에 출마한 윤석열 전 대통령을 지원하기 위해 조직적으로 집단 입당을 추진한 정황을 포착했다. 또 이러한 집단 입당이 2020년 코로나 사태 당시 검찰총장이었던 윤 전 대통령이 코로나19 확산 진원지로 지목된 신천지에 대한 압수수색을 막아준 데 대한 보답이었다고 보고 있다.&lt;br&gt;&lt;br&gt;합수본은 이 총회장이 2021년 국민의힘 대선 후보 경선 외에도 2022년 제8회 지방선거, 2023년 국민의힘 당대표 선거, 2024년 총선 경선과 관련한 불법 행위에 대한 수사도 진행 중이다. 이 총회장의 조세포탈 및 횡령 혐의도 수사하고 있다. &lt;br&gt;&lt;br&gt;합수본 관계자는 “이 총회장의 나머지 피의 사실 및 구속된 공범 등에 대해서도 계속 엄정하고 신속하게 수사를 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 김진만 영장전담 부장판사는 “증거 인멸의 우려가 있다”며 지난 24일 합수본이 청구한 이 총회장 구속영장을 지난 24일 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자율주행 자동차 교통사고 나면 누가 책임지나...“제조사 책임도 고려해 양형해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/29/UWPKPFZCCJHMRDFYHLWWOOWY6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/29/UWPKPFZCCJHMRDFYHLWWOOWY6E/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 09:39:55 +0000</pubDate>
+      <content:encoded>자율주행 자동차를 운전하다가 교통사고가 났을 경우 제조사의 책임도 양형에 반영해야 한다는 제언이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7GNNN4LV5KXLGO4B3XOC7KBX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 서울 서초구 대법원 대강당에서 열린 양형연구회 제16차 심포지엄 '교통범죄와 양형'/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 서울 서초구 대법원 대강당에서 ‘교통범죄와 양형’을 주제로 열린 양형위원회 산하 양형연구회 제16차 심포지엄에서 이같은 의견이 나왔다.&lt;br&gt;&lt;br&gt;발표자로 나선 류부곤 경찰대 법학과 교수는 “종래 형법은 행위자의 주의의무 위반과 그로 인한 결과 발생을 중심으로 책임을 귀속해왔다”며 “인공지능(AI)이 매개된 자율주행 환경에서는 운전자의 통제 가능성이 현저히 축소되거나 사실상 소멸된다”고 했다. 자율주행 자동차를 만든 제조사나 시스템 운영자도 교통 사고에 책임이 있다는 취지다. &lt;br&gt;&lt;br&gt;류 교수는 “다양한 주체의 책임까지 함께 고려할 수 있는 새로운 양형정책과 형사법적 논의가 필요하다”고 강조했다.&lt;br&gt;&lt;br&gt;국제자동자기술자협회(SAE)에 따르면, 자율주행 기술은 레벨0(비자동화)~레벨5(완전 자동화)까지 6단계로 구분된다. 류 교수는 “레벨4부터는 인간 운전자의 개입을 전혀 전제하지 않는다”며 “운전자의 책임이 사라진 자리에는 필연적으로 자율주행 시스템을 설계하고 운영·관리하는 주체가 들어오게 된다”고 했다.&lt;br&gt;&lt;br&gt;류 교수는 “자율주행 자동차 교통사고에 제조사의 고의나 과실이 있었는지를 입증하기 어려운 만큼, 자율주행 관련 데이터를 기록하는 장치 탑재를 의무화하거나 수사기관에서 해당 데이터에 접근할 수 있도록 하는 제도적 보완이 필수적”이라고도 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTQNDCMFQTINJXME2TMNZUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 지난달 서울 동대문구 장평초등학교 앞에서 스쿨존 하굣길 교통법규위반 집중단속을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 스쿨존(어린이보호구역) 내 교통사고를 가중 처벌하는 ‘민식이법’의 양형기준이 과도하게 높게 책정돼 있다는 지적도 나왔다. 장지웅 수원지법 안산지원 판사는 “어린이 교통사고 범죄는 경미한 주의의무 위반인 경우도 배제할 수 없다”며 “현행 형량범위는 특히 하한이 다소 높게 설정돼 있어 합리적으로 조정할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;어린이 교통사고 치상 범죄 양형기준상 감경구간은 하한 징역 6개월 또는 벌금 300만원이며, 치사 범죄의 양형기준 하한은 징역 1년 6개월이다. 이는 일반상해(하한 징역 2개월), 중상해(하한 징역 6개월)와 비교해도 높은 수준이다.&lt;br&gt;&lt;br&gt;또 장 판사는 양형 실무상 선고형량의 평균은 형량 범위 하한에 가깝다며 “법원은 대부분 사건에서 어린이 교통사고 범죄의 현행 양형기준상 형량 범위가 지나치게 높다고 판단하는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;장 판사는 “죄질이 가벼운 행위까지 결과만으로 무겁게 처벌하는 것은 책임주의에 반한다”며 “형량범위의 하한을 낮춰야 어린이 교통범죄 사건에서 타당성이 있는 양형이 이루어질 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 이승준 연세대 법학전문대학원 교수도 “구체적 사실관계와 다양한 주의의무 위반양태를 반영할 필요가 있다”며 동의하는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 현관문에 빨간색 래커칠... ‘보복 대행’ 20대女, 징역형 집유</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/29/YHDDHNZAXFFAXLZJSUF2GIYRXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/29/YHDDHNZAXFFAXLZJSUF2GIYRXI/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 09:28:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZTJORTJGJA77HRCB7OKTBIKZQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 현관문에 빨간색 래커를 칠하는 등 이른바 ‘보복 대행’ 범죄를 벌인 20대 여성에게 법원이 징역형의 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;29일 법조계에 따르면, 수원지법 형사9단독 구나영 판사는 명예훼손, 주거침입, 재물손괴 등 혐의로 구속 기소된 A씨에게 징역 2년에 집행유예 3년을 선고했다. 또 보호관찰 및 80시간의 사회봉사, 70만원의 추징을 명령했다. 검찰은 A씨에게 징역 4년을 구형했었다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 4일 오후 8시 30분쯤 경기 화성시 동탄신도시의 한 아파트 세대 복도와 현관문, 초인종 등에 빨간색 래커 스프레이를 뿌리고, 문손잡이에 접착제를 발라 훼손한 혐의를 받는다. A씨는 또 계단에 해당 세대에 거주하는 피해자 B씨를 허위로 비방하는 내용이 담긴 전단 약 100장을 뿌린 혐의도 있다. &lt;br&gt;&lt;br&gt;그는 인터넷 대출을 알아보던 중 텔레그램을 통해 성명 불상자에게 범행 제안을 받은 것으로 조사됐다. A씨는 범행 인증 영상을 보낸 뒤 대가로 70만원을 받은 것으로 파악됐다. A씨는 범행 후 성명불상자로부터 “약하고 마음에 안 든다. 래커라도 다시 칠하면 알바비를 더 주겠다”는 제안을 받고 같은 날 저녁 B씨의 집을 다시 찾아가 복도 등에 래커를 더 뿌리기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYGCM3DG5SGMZTCMIYDGYRWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구 판사는 “피고인은 인터넷 대출 과정에서 텔레그램으로 비대면 의뢰를 받아 일면식도 없는 피해자들에 대해 대행 보복을 했다”며 “오로지 사소한 금전적 이익을 취득하기 위해 저질러진 것으로 죄질이 불량하다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “‘대행 보복’ 범죄는 점조직으로 이뤄져 적발이 매우 어렵고, 가해자는 피해자의 개인정보를 아는 반면 피해자는 가해자를 알기 어려워 지속적인 불안과 고통을 줄 수 있다”고 했다. 구 판사는 또 “피고인은 주범으로부터 받은 지시를 이행했을 뿐이지만 그 범행으로 인한 사회적 해악이 커 엄중한 처벌이 필요하다”며 “초범인 피고인이 범행을 모두 인정하고 반성하는 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰미래위 “검찰권 남용·공소 유지 여부 조사할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/29/NWSDUB7CDVCG5PVLJQTOLVMWAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/29/NWSDUB7CDVCG5PVLJQTOLVMWAM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 09:28:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TAMZWMM3WCNRWGQ3TANBWGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 발족한 검찰인권존중미래위원회./법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부 검찰인권존중미래위원회는 향후 검찰 수사 과정에서의 권한 남용에 더해 공소 유지 여부 등을 조사하겠다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;미래위는 지난 26일 3차 회의를 열고 검찰권 남용 의혹 사건에 대한 조사 범위와 방향을 의결하고 추가 사건 선정 기준을 논의했다. 미래위는 “조사의 목적이 검찰권 남용 사례 확인을 통한 재발 방지 및 제도 개선에 있음을 고려해 수사 과정에서의 구체적인 인권침해 및 권한 남용, 검사의 객관의무 위반, 공정한 기소기준의 준수와 공소유지 여부 등을 조사하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;미래위는 지난 4월 29일 정성호 법무부 장관 지시로 설치됐고, 지난 10일 활동을 시작했다. ‘윤석열 정권 정치검찰 조작 기소 국정조사 특별위원회’가 조사했던 7개 사건을 비롯해 검찰권 행사 과정에서 인권 침해 또는 검찰의 권한 남용 의혹이 제기됐거나 국민이 제안한 사건을 조사 대상으로 한다. 법무부는 검찰미래위 설치 이유와 관련해 “작년 9월부터 서울고검 인권침해점검TF가 ‘연어 술 파티’ 의혹 등을 조사했지만 의혹을 해소하기엔 미흡했고, 아직도 국민들이 의구심을 갖고 있다”고 했다.&lt;br&gt;&lt;br&gt;법조계에서는 이 대통령 관련 사건을 공소 취소하기 위한 준비 단계로 검찰미래위를 발족한 것 아니냐는 말이 나왔다. 이 대통령은 최근 열린 국무회의와 기자간담회에서 “검찰도 잘못한 게 있으면 사과하고 취소해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;미래위는 “매주 1회 회의를 열어 (대검 산하) 진상조사단의 조사 상황을 공유하고 추가적인 보완이나 조언이 필요한 사항에 대해선 적극적으로 의견을 개진할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주 100조 투자에 충북 ‘환영’…김영환 “호남 반도체는 정치 논리”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/06/29/WK436DQTPRA67HHH5V5TCZQASM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/06/29/WK436DQTPRA67HHH5V5TCZQASM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 08:24:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XOGFVXA7NMCDO7Z2VAEUAPIZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK 회장이 29일 청와대 영빈관에서 열린 ‘대한민국 대도약 3대 메가프로젝트 국민보고회’에서 투자 계획 발표를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 ‘대한민국 대도약 3대 메가 프로젝트’ 발표와 함께 SK하이닉스가 충북 청주에 100조원 규모의 투자 계획을 밝히자 충북은 이를 적극 환영했다.&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장은 29일 청와대에서 열린 ‘대한민국 대도약 3대 메가 프로젝트 국민보고회’에서 “SK하이닉스는 낸드플래시 증산을 위해 청주에 100조원 정도의 투자를 앞당겨 실시하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;SK하이닉스는 내년 초 착공을 목표로 청주에 고성능 낸드플래시 생산라인인 M17 공장 증설을 추진해 왔다. 지역에서는 이번 발표를 M17 공장 조기 착공과 추가 투자 가능성을 알린 것으로 받아들이고 있다.&lt;br&gt;&lt;br&gt;신용한 충북지사 당선인은 이날 “충북 청주에도 투자가 이뤄진다는 것은 매우 환영한다”며 “충북에 반도체 관련 투자가 더 이뤄졌다면 좋았겠지만, 국가 균형발전을 고려한 정부의 결정인 만큼 충북과 호남이 함께 성장하는 계기가 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “청주에 예정된 투자가 차질 없이 추진될 수 있도록 도 차원의 태스크포스(TF)를 구성해 청주시와 긴밀히 협의하고 행정적 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이장섭 청주시장 당선인도 “이번 투자는 청주가 대한민국 첨단산업 중심도시로 도약하는 중요한 전기가 될 것”이라며 “투자가 계획대로 이뤄질 수 있도록 기반시설 확충과 인허가 지원 등 모든 행정력을 집중하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;충북도는 경제부지사를 단장으로 하는 ‘전담 투자지원 TF’를 구성해 투자 지원에 나설 계획이다. TF는 전력·용수·폐수 처리시설 등 산업 기반시설을 적기에 공급하고, 각종 인허가를 원스톱으로 처리하는 등 기업 투자가 차질 없이 이뤄질 수 있도록 행정 지원을 집중할 방침이다.&lt;br&gt;&lt;br&gt;반면 김영환 충북지사는 정부의 호남 반도체 클러스터 추진 방침을 강하게 비판했다.&lt;br&gt;&lt;br&gt;김 지사는 이날 국민의힘 충청권 정치인들과 함께 국회 소통관에서 기자회견을 열고 “정부가 기업의 자율적인 투자 결정을 정치적으로 좌우해서는 안 된다”며 반도체 입지 선정의 근거와 추진 과정을 공개할 것을 촉구했다.&lt;br&gt;&lt;br&gt;이날 회견에는 김태흠 충남지사를 비롯해 박덕흠·이종배·성일종·엄태영·강승규·장동혁·윤용근 의원 등이 참석했다. &lt;br&gt;&lt;br&gt;이들은 “권력이 기업 경영에 관여하는 것은 자유시장경제를 훼손하는 행위”라며 “충청권은 전력과 용수, 수도권 접근성 등 반도체 산업에 필요한 여건을 모두 갖추고 있음에도 배제된 이유를 정부가 명확히 설명해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;또 “정부는 호남 반도체 클러스터 유치 결정의 근거가 된 전력·용수·인력·기업 생태계 등에 대한 검토 자료와 지방정부 협의 과정을 공개해야 한다”고 요구했다.&lt;br&gt;&lt;br&gt;김 지사는 회견을 마친 뒤 기자들과 만나 “생태계가 전혀 만들어지지 않았고 전력 수급 방안도 없는데 정부가 정치 논리로 이를 밀어붙이고 있다”며 “기업이 결정해야 할 일에 정부가 개입하는 것은 정경유착을 넘어 직권남용 논란으로 이어질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BALTROIN7VM6HIJBNLJRYSDG4U.JPG?auth=fc6af75235ee2a5262c373a9988547b6cd41d797a3cd6d3b24b9f0abd4065203&amp;smart=true&amp;width=5430&amp;height=3620" type="image/jpeg" height="3620" width="5430">
+        <media:description type="plain">(서울=뉴스1) 신웅수 기자 = 성일종 의원을 비롯한 충청지역 국민의힘 의원들과 김태흠 충남지사, 김영환 충북지사가 29일 서울 여의도 국회 소통관에서 정부의 대규모 호남 반도체 투자 계획과 관련해 기자회견을 하고 있다. 2026.6.29/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신웅수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>고용부, 벌목 노동자 사망사고 관련 의령군수 중처법 위반 송치 </title>
+      <link>https://www.chosun.com/national/2026/06/29/5CEIVFOX75DNDJNOYRMI4IXQDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/06/29/5CEIVFOX75DNDJNOYRMI4IXQDI/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 09:06:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3Z36O4IVFJ65A7OEMIQWBFVY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오태완 의령군수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 의령군이 발주한 조림 예정지 벌목 작업 중 일용직 근로자가 사망한 사고와 관련해 고용노동부가 오태완 의령군수를 중대재해처벌법 위반 혐의로 검찰에 송치한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;20일 고용노동부 부산지방고용노동청에 따르면 지난 3월 오 군수와 하도급업체 대표 등을 중대재해 처벌 등에 관한 법률 위반 혐의로 불구속 송치했다. 법인인 의령군청과 하도급업체, 의령군 담당 공무원 등도 함께 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;이 사고는 지난 2024년 3월 13일 오전 8시 30분쯤 의령군 가례면 한 조림 예정지 사업 공사 현장에서 발생했다. 의령군이 발주한 공사로, 당시 하도급업체 소속 일용직 근로자 A(70대)씨가 벌목 작업 중 쓰러지는 나무에 머리를 맞아 병원에 이송됐다. A씨는 치료를 받다 같은 해 4월 27일 숨진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;고용노동부는 공사 발주처인 의령군을 원청으로 보고, 중대재해처벌법 적용 여부를 조사해왔다. 민주노총 경남본부는 보도자료를 통해 “노동자의 생명을 보호하기 위해 지자체장에 대한 책임 있는 처벌이 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민형배 “세계 최고 반도체 강국 선도에 전남광주가 앞장”</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/29/73N4YJTGP5HXLDLRGFNXU3IGUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/29/73N4YJTGP5HXLDLRGFNXU3IGUI/</guid>
+      <dc:creator>나주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 08:54:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6EFION6CVKWFH6OUDEGJAKPKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민형배(오른쪽) 전남광주통합특별시장 당선인이 29일 오후 전남 나주시 빛가람동 복합문화체육센터 대회의실에서 정부의 '대한민국 대도약 3대 메가프로젝트 국민보고회'와 관련해 기자회견을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민형배 전남광주통합특별시장 당선인이 정부와 삼성전자·SK하이닉스의 800조원 규모 반도체 투자 발표에 대해 환영의 뜻을 밝혔다. 기업에 대한 전폭적인 지원도 약속했다.&lt;br&gt;&lt;br&gt;민형배 전남광주통합특별시장 당선인은 29일 기자회견을 열고 “이번 발표는 전남광주뿐만 아니라 영남권, 충청권까지 아우르는 국가 균형 성장 전략”이라며 “기업의 결단이 지역의 성장, 국가의 성장으로 이어지는 지역 주도 성장 모델을 전남광주통합특별시가 만들겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “대한민국이 세계 최고의 반도체 강국으로 인공지능(AI) 시대를 선도하는 길에 전남광주가 앞장서겠다”며 “아주 과감하고 충분한 투자 기업 지원 방안을 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;이재명 대통령과 삼성전자, SK하이닉스는 이날 청와대에서 열린 ‘대한민국 대도약 3대 메가 프로젝트 국민보고회’에서 광주와 서남권에 반도체 팹 4기를 짓겠다는 투자계획을 밝혔다.&lt;br&gt;&lt;br&gt;삼성전자 사장을 지낸 정은승 당선인 인수위원장이 민 당선인과 함께 기업들의 반도체 투자에 필요한 전기와 용수 문제 해결 방안에 대해 설명했다.&lt;br&gt;&lt;br&gt;정 위원장은 “전기와 용수는 반도체 팹 4기 정도는 할 수 있다고 생각한다”며 “미래에는 더 많은 전기와 용수를 확보할 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;민 당선인도 “팹 1기당 하루 6만t의 1급수가 필요한데, 물 문제는 특별히 걱정할 게 없다”며 “전기도 공급 체계만 손보면 팹 4기 정도는 전혀 문제가 없다”고 말했다.&lt;br&gt;&lt;br&gt;한편 국민의힘 전남도당은 정부의 반도체 투자 발표 이후 초당적 협력과 지원을 약속했다.&lt;br&gt;&lt;br&gt;국민의힘 전남도당은 이날 “반도체 산단 유치는 청년들에게 새로운 희망을 주는 전환점”이라며 “정부의 발표에 그치지 않고 산업용수와 전력 공급, 교통망 등 핵심 기반 시설이 차질 없이 구축될 수 있도록 초당적인 협력과 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘신라 공주’ 품은 리센느, 경주시 홍보대사 됐다</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/29/TKRAOJSVWRAJFAZPZKSOONIZEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/29/TKRAOJSVWRAJFAZPZKSOONIZEY/</guid>
+      <dc:creator>경주=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 08:29:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBNTYPGAORCABN5CM3L2CEOSHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경주시 홍보대사로 위촉된 걸그룹 '리센느'. 왼쪽부터 리브, 메이, 제나, 원이, 미나미./경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시가 걸그룹 리센느(RESCENE)를 관광 홍보대사로 위촉했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;리센느는 지난 2024년 3월 데뷔한 5인조 걸그룹으로, 향기로 다시(re) 장면(scene)을 떠올린다는 의미를 지녔다. 이 중 멤버 제나(본명 김가영·18)가 경주 출신이다. 제나는 멤버 메이(본명 이예빈·18)와 대화하다 스스로 ‘(내가 전생에) 신라(新羅) 공주였을 것’이라고 말하는 영상이 인기를 끌면서 신라 공주라는 별명이 붙었다. &lt;br&gt;&lt;br&gt;리센느는 올해 2월부터 리더 원이(본명 정원이·22)가 유튜브 채널에 올린 활동 영상들이 잇따라 조회 수 수백만 회에 달하는 인기를 끌며 주목받았다. 일본 지바현 출신 멤버인 미나미(본명 이토 미나미·20)가 과거 일본의 패션 문화인 ‘갸루(ギャル)’ 분장을 한 채 비음으로 외친 “거제 야~호” 영상은 조회 수 320만회를 기록하며 유행을 이끌었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQTKNZUMY2TENBXGI2DGOJSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;리센느의 원이와 미나미가 갸루 체험을 하던 중, 미나미가 유행어 '거제 야~호'를 외치는 장면./유튜브 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원이와 미나미가 원이의 고향인 경남 거제시를 방문한 영상들은 29일 기준 총 조회수 1312만회를 기록하며 이들이 들렀던 장소들이 거제 명소로 입소문을 탔다. 거제 탐방 뒤에 올라온 경기도 출신 멤버 리브(본명 진경은·20)와 메이의 소개 영상도 총 조회수 904만회를 기록했다.&lt;br&gt;&lt;br&gt;이런 인연으로 리센느는 올해 5~6월 경남 거제시와 경기 수원시의 홍보대사로 각각 위촉된 바 있다.&lt;br&gt;&lt;br&gt;이후 경주시가 이달 22일 공식 유튜브에서 리센느의 경주 방문을 기원하는 쇼츠 영상을 올렸다. 그전까지 경주시 유튜브 채널의 쇼츠 기준 최다 조회수는 1만여 회 정도였지만, 리센느 초청을 기원한 영상은 불과 일주일만에 70만회를 돌파했다. 경주시가 2013년 유튜브 채널을 연 이후 현재까지 올린 영상 428개 중 최고 기록이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMIYJSNHMVLCRGGJGVDSWVBLAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 28일 아시아태평양경제협력체(APEC) 정상회의 주간에 경북 경주시 대릉원 첨성대에 미디어아트가 펼쳐지고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경주시에 따르면, 리센느는 향후 경주의 축제와 주요 행사 등에 참여해 홍보 콘텐츠 제작을 도울 예정이다. 리센느를 홍보대사로 위촉한 이유에 대해 경주시 관계자는 “케이팝(K-POP) 그룹인 리센느의 팬덤과 온라인 영향력을 통해 경주의 역사문화유산과 축제, 관광 명소를 국내·외에 널리 알리기 위함”이라고 했다. &lt;br&gt;&lt;br&gt;주낙영 경주시장은 “경주 출신 멤버 제나가 속한 리센느와 함께하게 돼 매우 뜻깊다”며 “리센느가 경주의 아름다운 문화와 관광 자원을 세계에 널리 알리는 홍보대사가 되어주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘아버지에 이어 대를 이은 사기’...엘시티 회장 아들 1심 징역 12년</title>
+      <link>https://www.chosun.com/national/court_law/2026/06/29/TBEWBZHC5FESZEDY4JKJNJPQIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/29/TBEWBZHC5FESZEDY4JKJNJPQIY/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 08:08:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MLSFCOZZ5UXEKVDZCLAI7Q6HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대의 주상복합단지 엘시티(LCT) 시행사 실소유주였던 이영복 청안건설 회장의 아들이 사기 혐의로 1심에서 징역 12년을 선고받았다. 아들 이모씨는 암호화폐 서비스 업체를 운영하는 피해자에게 재판에서 이기게 해주겠다며 30억원가량을 가로챈 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 29일 특정경제범죄 가중처벌법상 사기 등 혐의로 구속기소된 이씨에게 징역 12년을 선고했다. 공범 김모씨에게는 징역 8년을 선고했다. &lt;br&gt;&lt;br&gt;이씨와 김씨는 지난 2022년 4월 암호화폐 서비스 업체를 운영하는 피해자 A씨에게 사건 청탁 대가로 30억원가량을 받았다. 당시 A씨는 코인 발행과 관련한 재판을 받고 있었는데, 이들은 A씨가 1심에서 패소하자 항소심에서 이길 수 있게 도와주겠다며 30억원가량을 받아갔다. 이 과정에서 이들은 이씨가 이영복 회장의 아들이라며 ‘대법관에게 청탁해 재판에서 이길 수 있게 하겠다’고 속인 것으로 파악됐다. 판사와 같은 고등학교 동창에게 청탁해야 한다며 2억원을 수수한 혐의도 있다.&lt;br&gt;&lt;br&gt;재판부는 이들의 혐의를 모두 유죄로 인정했다. 재판부는 “이씨 등의 기망행위에 대한 피해자의 진술이 일관되고 신빙성이 있다고 판단된다”며 “이씨 등이 보낸 메시지 등 이 사건 증거에 의하면 혐의가 모두 유죄로 인정된다”고 했다. 그러면서 “이 사건은 국민의 사법부에 대한 불신을 초래할 위험이 있어 죄질이 극히 안 좋고 엄중처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;이씨의 아버지인 이영복 회장 또한 사기 등 혐의로 징역 6년을 선고받은 바 있다. 이 회장은 엘시티 시행사와 관련해 회삿돈 705억원을 빼돌리고, 정·관계 유력 인사들을 상대로 5억3000만원대 금품로비를 한 혐의로 2016년 11월 구속기소됐다. 이 회장은 2018년 8월 대법원에서 징역 6년을 확정받고, 2022년 11월 출소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민주당 전북도당 “삼성·SK 반도체 호남 투자 환영… 호남 내 전북 소외 없어야”</title>
+      <link>https://www.chosun.com/national/regional/2026/06/29/XCTLPLBTGNBHHC3PB3WDBQA5BE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/29/XCTLPLBTGNBHHC3PB3WDBQA5BE/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 07:42:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYWIYZTG5TDQMZRGRRTCNTCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전북도당 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 전북도당은 삼성전자와 SK하이닉스의 호남권 대규모 반도체 투자 추진에 대해 환영의 뜻을 밝히며, 첨단 산업 생태계 조성 과정에서 전북이 소외되지 않도록 정부와 기업의 균형 있는 투자 배분을 촉구했다.&lt;br&gt;&lt;br&gt;민주당 전북도당은 29일 입장문을 통해 “이번 글로벌 기업의 호남권 반도체 투자는 수도권에 집중된 성장 동력을 지방으로 확산시키는 국가 균형 발전의 상징적인 변화”라고 평가했다. 하지만 “특정 지역에만 투자가 집중된다면 균형 발전의 취지가 퇴색될 수밖에 없고, 국가 첨단 산업 육성 과정에서 호남권 내부의 균형 역시 반드시 염두에 두어야 한다”고 했다.&lt;br&gt;&lt;br&gt;전북도당은 “이번 반도체 투자 구상이 KTX를 중심으로 한 교통 접근성과 산업 연계성을 중요하게 검토하고 있는 만큼, 전북이 충분한 경쟁력을 갖추고 있다”고 했다.&lt;br&gt;&lt;br&gt;전북도당은 “익산시는 호남선과 전라선이 만나는 철도 교통의 중심지로 전국 최고 수준의 접근성을 보유하고 있으며, 새만금과 군산항을 연계하는 물류 거점으로서 산단 확장성도 탁월하다”고 했다. &lt;br&gt;&lt;br&gt;이어 “정읍시 역시 한국원자력연구원, 첨단방사선연구소 등 국가 연구 시설이 집적돼 있어 반도체 공정 및 첨단 소재 산업과 연계할 수 있는 최적의 여건을 갖추고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;아울러 도당은 오는 2027년부터 시작되는 현대자동차의 새만금 AI 데이터센터 및 로봇 제조 공장 구축 사업에 대해서도 목소리를 높였다. 핵심 기반 시설 구축 속도가 중요한 만큼, 정부 차원의 물류 이송 교통 인프라 투자가 조속히 실행되어야 하며 현대차의 2단계 피지컬 AI 투자 계획도 서둘러 확정되어야 한다고 요구했다.&lt;br&gt;&lt;br&gt;전북도당은 “전북이 국가 첨단 산업 정책에서 이른바 ‘3중 소외’를 겪는 아픔이 되살아나서는 안 된다”며 “대한민국의 진정한 균형 성장은 전북의 도약 없이는 완성될 수 없는 만큼 정부와 기업 모두 실질적 배려와 책임 있는 투자를 보여주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의료 데이터 활용 장벽 낮춰...대구시, 의료 분야 인공지능 전환 돕는다</title>
+      <link>https://www.chosun.com/national/regional/2026/06/29/TJOYAAPK4ZDFZIL73X5CTYEFEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/29/TJOYAAPK4ZDFZIL73X5CTYEFEY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 07:54:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/II57QHBPCVGKDO2POWCSCAMQ34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격청사 전경./노인호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 지역 병원 간 의료 데이터 활용 장벽을 낮춰 의료 분야 AX(인공지능 전환)에 본격적으로 나선다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;대구시에 따르면, 대구에는 상급 종합병원 5개소, 국책 기관 11개소, 연구 중심 병원 2개소 등 AI 의료기기 개발에 필수적인 의료 데이터를 확보하기에 용이한 환경이 조성돼 있다. 하지만 병원마다 상이한 데이터 관리 기준과 복잡한 기관생명윤리위원회(IRB)·데이터심의위원회(DRB) 절차로 기업들이 의료 데이터 확보에 많은 시간과 비용을 들여야 하는 상황이다. &lt;br&gt;&lt;br&gt;이런 문제 해결을 위해 대구시는 다음 달 3일 지역 5개 상급 종합병원, 케이메디허브(대구경북첨단의료산업진흥재단), 대구디지털혁신진흥원 등 14개 기관·단체가 참여하는 ‘의료 데이터 활용 활성화 업무협약(MOU)’을 체결하기로 했다. 이 업무 협약을 통해 ‘공동 IRB·DRB’ 체계를 구축해 개별 병원마다 거쳐야 했던 심사 절차를 1회의 통합 심사로 일원화하고, 기존 건별 30일 이상 걸리던 심사 기간을 20일 이내로 단축해 기업이 좀 더 쉽게 의료 데이터를 활용할 수 있도록 할 방침이다. &lt;br&gt;&lt;br&gt;또 25만여 건의 의료 데이터를 조회·신청할 수 있는 ‘K-의료 데이터 중개 포털’에 참여하는 상급 종합 병원도 기존 2곳(경북대병원, 계명대 동산병원)에서 5곳으로 확대하고 종합병원(2차)급까지 참여 범위를 넓히기로 했다. 대전·광주 등 다른 권역 의료 데이터 컨소시엄과 협업해 의료 데이터 네트워크를 전국으로 확대해 나가기로 했다.&lt;br&gt;&lt;br&gt;정의관 대구시 미래혁신성장실장은 “대구는 비수도권 최고 수준의 의료 인프라를 갖추고도 시스템적 한계 때문에 의료 데이터 활용이 원활하지 못했다”며 “협의체를 중심으로 한 단계 진보한 의료 데이터 활용 생태계를 조성해 기업이 체감할 수 있는 의료 AI 성과를 선도적으로 창출하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 6월 30일 화요일 (음력 5월 16일 乙亥)</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/29/VBBQ66SFPZC45EEPOQ63Z5HSEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/29/VBBQ66SFPZC45EEPOQ63Z5HSEA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>종합특검, ‘尹 체포방해’ 혐의 김기현·권영진·윤상현도 입건</title>
       <link>https://www.chosun.com/national/court_law/2026/06/29/MSLIKH5FJFH55ODAAAFELXUKUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/06/29/MSLIKH5FJFH55ODAAAFELXUKUY/</guid>
@@ -459,123 +583,6 @@
       <description/>
       <pubDate>Sun, 28 Jun 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GDEFHOOFBJBTXBABPCVCZHN2ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;박제가 지음 l 안대회 옮김 l 출판사 돌베개 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;어떻게 하면 조선이 부강해지고 백성들이 풍요롭게 살 수 있을까? ‘북학의(北學議)’는 이 질문에 대한 조선 후기 실학자 박제가(1750~1805)의 대답입니다. 당시 백성의 삶은 날로 궁핍해지고 나라 재정은 고갈돼 가는데, 나랏일 하는 자들은 아무런 대책 없이 오랜 제도와 습속(습관이 된 풍속)을 이어갈 뿐이었습니다. 박제가는 “현재의 법과 풍속 아래에서 단 하루도 살 수 없다”고 말합니다.&lt;br&gt;&lt;br&gt;책 제목 ‘북학의’는 ‘북쪽에 있는 나라(청나라)의 선진 문물을 배우자는 논의’라는 뜻이에요. 평생 네 차례 청나라를 방문했던 박제가는 조선에 들여왔을 때 백성 생활을 편리하게 할 만한 것들을 정리해 기록했습니다. 대표적인 게 수레입니다. 그는 청나라 수레에 대해 자세히 설명하고, 조선에서도 수레의 사용을 크게 늘려야 한다고 주장하죠. 각 지역의 특산물들이 다른 지역 물건들과 활발하게 거래돼야 백성의 삶이 나아진다고 본 겁니다.&lt;br&gt;&lt;br&gt;박제가는 도덕 수양을 중시하기 전에 백성이 편리하게 생활하고 풍요를 누리는 것, 즉 ‘이용후생(利用厚生)’이 중요하다고 봤습니다. 원래 조선에서는 상인과 상업을 업신여기는 분위기가 강했습니다. 청나라에서는 장사하는 사람이 존중받는 경우가 많았는데, 조선 사람들은 그것을 보고 비웃기도 했죠. 형편이 나빠져 빌어먹을지언정 일하지 않는 조선 사대부도 많았습니다. 박제가는 조선 사람들이 체면만 중시하고 남들 눈치 보기에 바쁘다고 비판하면서, 떳떳하게 상업에 종사하고 부(富)를 늘려야 한다고 말합니다.&lt;br&gt;&lt;br&gt;물건이 있어도 함부로 쓰지 않는 검소함은 중요한 가치입니다. 하지만 물건이 있어야 검소함을 실천할 수 있는 법입니다. 박제가는 조선에는 물건 자체가 부족하거나 없다고 지적합니다. 좋은 물건을 많이 써야 물건 만드는 기술이 발전하고 백성들의 생활도 윤택해집니다. 반대로 물건을 이용하지 않으면 해당 물건은 물론, 이를 만드는 데 필요한 다른 물건에 대한 수요도 감소하죠. 그래서 박제가는 허울뿐인 검소함 탓에 조선이 쇠퇴할 것이란 위기의식도 가졌습니다.&lt;br&gt;&lt;br&gt;조선이 통상하는 나라는 가까운 청나라, 일본 정도였습니다. 그마저도 제한적이었죠. 박제가는 먼 지역과도 통상해야 나라에 쓸 만한 물건이 늘어나고 나라의 부도 커진다고 봤습니다. 이를 위해 해운의 중요성을 강조했습니다. &lt;br&gt;&lt;br&gt;박제가는 ‘북학의’를 정조 임금에게 올리면서 사대부 유생들을 비판했습니다. “저 놀고먹는 자들은 나라의 큰 좀벌레입니다.” 조선 사회를 지배하던 이들에게 박제가는 눈엣가시 같았습니다. 정조는 박제가의 개혁안을 받아들이지는 않았지만 그를 격려했는데, 정조가 1800년 세상을 떠나자 박제가에 대한 핍박도 본격적으로 커졌습니다. 결국 유배까지 당했다가 1805년 눈을 감았습니다. 그렇게 부강한 나라 조선을 향한 개혁의 꿈도 스러졌습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] thanks to ~</title>
-      <link>https://www.chosun.com/national/nie/english/2026/06/29/SK7CYMSQEFDFREHQE7QTSFIC6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/06/29/SK7CYMSQEFDFREHQE7QTSFIC6A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGOBBW6C75ABREOZFJ3DXS672Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 분쇄(粉碎)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/06/29/Q6AJRTNPEFDZXHQTHBLCWFVN4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/06/29/Q6AJRTNPEFDZXHQTHBLCWFVN4A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIAF2YE36JHNBNQNCSQD3BSMPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2896] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2026/06/29/XDN72VETBJGQNGOO6FAZKJYZ74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/06/29/XDN72VETBJGQNGOO6FAZKJYZ74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNLPA5XCQNHELL62QAVBFRUEBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 애착 이불, 안정제</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/06/29/OHREZMQCHNHKLDQGC5FFYAGT7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/06/29/OHREZMQCHNHKLDQGC5FFYAGT7U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAFP44XZUFHFRGMDHSXC7HDG3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 거래는 신용이 제일이다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/06/29/U3LZC2HHFVFERFXXE6RT65ZXXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/06/29/U3LZC2HHFVFERFXXE6RT65ZXXM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EP7CNKS22BCHPBXGPXG45EPHNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 식빵이 마르는 걸 막으려면</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/28/YCE4RSOCTRGMHMFSQJVLCWCMBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/28/YCE4RSOCTRGMHMFSQJVLCWCMBQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 14:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIH73WF5SNCO3M2NZPPBOVVMEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요리하다 남은 셀러리 줄기가 있다면 식빵 봉지 안에 넣어두자. 셀러리 줄기에서 나오는 수분이 빵이 마르는 것을 막아준다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 6월 29일</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/06/28/NRNE3CVDNNB7PEH42AHFMBEE5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/28/NRNE3CVDNNB7PEH42AHFMBEE5Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 14:35:00 +0000</pubDate>
-      <content:encoded>오후 전국 곳곳 소나기… 예상 5∼10㎜&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFHONZTDUFDHLIRYPX4QY4BIDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이 대통령도 “볼만하다”…김상욱 인수위 생중계, 호평 속 논란도</title>
-      <link>https://www.chosun.com/national/regional/2026/06/28/26ZKWK5D5VC27I7S7U2JFVISBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/28/26ZKWK5D5VC27I7S7U2JFVISBY/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 11:34:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYDMNBZGMYDINBWGZSTIODEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상욱 울산시장 당선인이 지난 16일 울산 남구 상수도사업본부에서 울산시장직 인수위원회 출범식을 열고 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘시민이 주인되는 시정’을 강조하는 김상욱 울산시장 당선인이 인수위원회 회의를 유튜브로 생중계하는 파격 행보를 이어가고 있다. 지방정부가 인수위 회의를 전면 공개해 시정 투명성을 높였다는 호평이 나오는 한편, 회의 장면이 공개되면서 공무원들이 과도한 비판에 노출되는 부작용도 나타나고 있다.&lt;br&gt;&lt;br&gt;김 당선인은 민선 9기 울산시장직 인수위원회가 출범한 지난 16일부터 모든 인수위 회의를 유튜브 ‘김상욱TV’로 실시간 중계하고 있다.&lt;br&gt;&lt;br&gt;회의 주요 내용과 발언은 숏폼 영상으로도 제작해 자신의 SNS에 별도로 게시하고 있다.&lt;br&gt;&lt;br&gt;인수위 회의 역시 시정 발전을 위한 공적 업무인 만큼 시민에게 있는 그대로 공개하겠다는 김 당선인의 의지가 반영된 것이다.&lt;br&gt;&lt;br&gt;지방정부 차원에서는 좀처럼 보기 어려웠던 이번 시도를 두고 다양한 평가가 나온다.&lt;br&gt;&lt;br&gt;시정 운영 과정을 투명하게 공개해 시민들의 이해와 관심을 높이고 자연스럽게 공론화를 이끌 수 있다는 긍정적인 반응이 적지 않다.&lt;br&gt;&lt;br&gt;김 당선인의 SNS 게시물에도 “잘한다” “응원한다”는 댓글이 달리거나 “앞으로 기대된다”는 의견이 주를 이루고 있다.&lt;br&gt;&lt;br&gt;이재명 대통령도 28일 엑스(X·옛 트위터)에 더불어민주당 김태선 의원(울산 동구)의 게시물을 공유하며 김 당선인의 회의 생중계를 언급했다.&lt;br&gt;&lt;br&gt;이 대통령은 “김태선 의원님과 김상욱 시장 당선자님이 함께 새로운 희망도시 울산을 만들어 가실 것으로 믿습니다”라는 응원과 함께 “요즘 김 당선자의 공개회의 볼만합니다”고 격려했다.&lt;br&gt;&lt;br&gt;이 대통령은 취임 이후 사상 처음으로 국무회의를 생중계하고, 엑스를 통해 국정 현안에 대한 견해를 직접 밝히는 등 국민과의 소통을 강화해 왔는데, 김 당선인의 행보도 이와 비슷하다는 평가가 나온다.&lt;br&gt;&lt;br&gt;반면 인수위 회의를 생중계로 공개하는 것이 적절하냐는 지적도 나온다.&lt;br&gt;&lt;br&gt;시장 취임 전 인수위 단계에서 업무보고를 하는 공무원들의 모습이 그대로 공개되고, 일부는 질책받는 장면까지 노출되면서 부담이 커질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;김 당선인은 최근 한 부서장의 업무보고를 들은 뒤 “협박으로 들린다”라며 강한 어조로 불쾌감을 표시했고, 해당 장면이 SNS를 통해 확산되면서 해당 공무원을 향한 비난이 이어지기도 했다.&lt;br&gt;&lt;br&gt;관련 게시물에는 “공무원들이 부당한 모멸감을 느끼지 않도록 배려해 달라”거나 “(인수위 회의는) 대통령과 장관 등이 참여하는 국무회의와는 다르다”는 등의 댓글도 달렸다.&lt;br&gt;&lt;br&gt;울산시 한 고위공무원은 “제가 하는 말이 모두 생중계된다고 생각하니 부담이 백배”라며 “새 지방정부 출범으로 바뀌는 정책도 많은데 업무보고까지 공개되니 부담이 더 크다”고 말했다.&lt;br&gt;&lt;br&gt;김 당선인도 SNS를 통해 “공개회의는 공무원 여러분의 용기가 있어야 가능하다”라면서 “일부가 과도한 비난과 인신공격에 노출돼 잠을 이루지 못했다. 용기 있게 공적 업무를 나눌 수 있도록 응원하고 격려하고 존중해주시기를 당부드린다”라고 진화를 시도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“홍명보 출입 금지” “죽일 것”... 경찰, 예의 주시</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/28/PUSCGB5BIBB3RPFKI362QR2JJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/28/PUSCGB5BIBB3RPFKI362QR2JJ4/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 10:52:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSGFOHCIYZBF3EFPUAHYI6E3YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 편의점 출입문에 '홍명보는 출입금지'라고 적힌 안내문이 붙어 있다./온라인 커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 축구 국가 대표팀의 2026 북중미 월드컵 32강 진출이 28일 끝내 좌절되자 홍명보 감독을 향한 비난 여론이 커지고 있다. 식당과 편의점 등에 홍 감독의 출입을 금지한다는 안내문이 붙는가 하면, 온라인에는 살해 협박성 글까지 올라왔다. &lt;br&gt;&lt;br&gt;이날 한 온라인 커뮤니티에는 ‘내가 총대 메고 홍명보 XXX 살해하겠다’는 제목의 글이 게시됐다. 본인이 41세이고 미국 국적을 가졌다고 주장한 작성자는 “홍명보 귀국하는 날에 인천공항 가서 살해하겠다”고 예고했다. 해당 게시글은 현재 삭제된 상태다.&lt;br&gt;&lt;br&gt;또 다른 커뮤니티에는 ‘홍명보, 마지막 작전 지시’라는 제목의 게시글에 홍 감독이 선수들을 상대로 ‘공항 도착하면 뒤도 돌아보지 말고 각자 다른 방향으로 흩어져서 튀어’라는 문구를 띄워놓고 전술 강의를 하는 합성 사진이 올라오기도 했다.&lt;br&gt;&lt;br&gt;홍 감독이 귀국 직후 감독직을 사퇴한다는 확인되지 않은 소식도 커뮤니티를 중심으로 확산하고 있다.&lt;br&gt;&lt;br&gt;경찰은 살인 예고 등 게시글에 대해선 협박 혐의를 적용해 작성자를 추적하고, 인천공항 등에서 돌발 상황이 발생하지 않도록 예의 주시할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFSWFRZ6FFA6BHQBC5J5CAZ6MU.png"&gt;&lt;figcaption&gt;&lt;small&gt;전북 김제의 고깃집 입구에 ‘홍명보 출입 금지’라는 안내문이 붙어 있다./인터넷 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘홍명보 출입 금지’를 붙인 식당과 카페 등의 ‘인증 사진’도 온라인상에서 확산되고 있다. 경기도 안양시 동안구 호계동에 있는 한 한식 주점 입구에는 축구공 그림과 함께 “홍명보는 출입 금지!”라고 적힌 안내문이 걸렸다. 전북 김제 한 고깃집도 ‘홍명보 국가대표 감독의 출입을 단호히 금지한다’는 게시글과 사진을 게재했다.&lt;br&gt;&lt;br&gt;앞서 대표팀이 남아프리카공화국에 패한 지난 26일에는 한 편의점 출입문에 ‘홍명보 출입 금지’ 안내문이 붙은 사진이 온라인에서 확산됐다. &lt;br&gt;&lt;br&gt;지난해 국회 국민동의청원에 게시된 홍 감독 경질 및 국가대표 감독 선임 절차 투명화 등에 대한 청원도 재차 조명됐다. 해당 청원들은 국회 소관 상임위원회 회부 조건인 5만명 이상의 동의를 받지 못해 종료됐다.&lt;br&gt;&lt;br&gt;홍 감독이 지휘해온 한국 축구 대표팀은 대회 조별 리그 마지막 날인 이날 J, K, L조 경기 결과 각 조 3위 12팀 중 10위로 밀려났다. 32강 진출의 마지노선인 8위 안에 들지 못하면서 탈락이 확정됐다.&lt;br&gt;&lt;br&gt;한국 축구가 월드컵 조별 리그를 통과하지 못한 건 2018년 러시아 대회 이후 8년 만이다. 2002년 한일 월드컵 4강 신화의 주역이었던 홍 감독은 2014년 브라질 월드컵에 이어 이번 대회에서도 조별 리그 탈락이라는 성적표를 받아 명예 회복에 실패했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서산 아파트 단지서 킥보드 탄 초등생 2명 차량과 충돌… 2명 중상</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/06/28/YIS434XSWJCNZHLV7JJPPEKZXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/06/28/YIS434XSWJCNZHLV7JJPPEKZXA/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 08:56:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서산의 한 아파트 단지 내 도로에서 킥보드를 타던 초등학생 2명이 차량에 치여 중상을 입었다.&lt;br&gt;&lt;br&gt;28일 오후 1시 59분쯤 서산시 지곡면 한 아파트 단지에서 초등학교 2학년 남학생 A군 등 2명이 B(50대)씨가 몰던 승용차와 충돌했다. 이 사고로 A군이 심정지 상태로 인근 병원으로 옮겨졌으나, 심장 박동이 회복돼 현재 수술을 앞두고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;차에 부딪힌 다른 한 명도 크게 다쳐 병원에서 치료를 받고 있다. 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A군 등이 킥보드를 타고 단지 내 도로를 주행하던 중 마주 오던 B씨의 차량과 충돌한 것으로 보고 있다. 경찰은 B씨 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 상주 이안천서 60대 남성 물에 빠져 숨져</title>
-      <link>https://www.chosun.com/national/regional/2026/06/28/YVGUZZJG5RFPFHDSNYV3SYWNIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/28/YVGUZZJG5RFPFHDSNYV3SYWNIQ/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 10:10:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDSNRWGEYTMOJRGMYDSYZTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 상주시의 한 하천에서 60대 남성이 물에 빠져 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;28일 경북소방본부에 따르면 이날 오후 4시9분쯤 상주시 공검면 예주리 이안천에서 물놀이 안전요원이 “하천에 구명조끼만 보이고 사람이 안 보인다”고 119에 신고했다.&lt;br&gt;&lt;br&gt;또 다른 안전요원이 수중에서 60대 남성 A씨를 발견하고 병원으로 이송했으나 A씨는 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘글로벌 톱텐 시티’ 폐기… 인천시장직 인수위, 시정 권고안 채택</title>
-      <link>https://www.chosun.com/national/regional/2026/06/28/VB3YFXG6TNFXHMELLFRIBCJF24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/28/VB3YFXG6TNFXHMELLFRIBCJF24/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 08:47:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKRDQUKJEBBJDCYKOHF2T5OZZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박찬대 인천시장 당선인이 28일 송도 G타워 회의실에서 열린 '민선 9기 인천시장직 인수위원회' 전체회의에서 발언하고 있다. /민선 9기 인천시장직 인수위&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘민선 9기 인천시장직 인수위원회(인수위)’가 28일 ‘압도적 성장, 행복한 변화’를 슬로건으로 한 시정 권고안을 채택하고 공식 활동을 사실상 마무리했다. &lt;br&gt;&lt;br&gt;인수위는 박찬대 인천시장 당선인의 정책 공약을 뒷받침할 조직 신설과 시민 의견 청취 강화 등을 주문하고, 긴급 민생 회복 100일 프로젝트는 시 재정 상황과 시의회 협의 등을 거쳐 추진할 것을 권고했다. 인천시가 추진해왔던 ‘글로벌 톱텐 시티’ 사업은 폐기, ‘F1 그랑프리 유치’ 사업은 중단을 각각 요구했다. &lt;br&gt;&lt;br&gt;인수위는 이날 송도 G타워에서 박찬대 인천시장 당선인이 참석한 가운데, 마지막 전체회의를 갖고 시정 권고안을 채택했다.&lt;br&gt;&lt;br&gt;이번 정책 권고안은 지난 10일 인수위 출범 후 진행된 인천시와 인천시 산하기관 등의 업무 보고와 시민 정책 청취 행사 등에서 검토된 내용을 토대로 마련됐다. &lt;br&gt;&lt;br&gt;인수위는 이번 권고안에 민선 9기 인천시정 운영의 원칙과 목표, 100대 과제로 체계화한 박 당선인의 공약, 새로운 시정부의 조직 개편 방향 등을 담았다고 설명했다. &lt;br&gt;&lt;br&gt;인수위는 우선 박 당선인이 선거 과정에서 강조했던 인공지능(AI)과 바이오(B), K-컬처(C), 에너지(E) 산업뿐만 아니라 뿌리산업(Fundamental Industry) 경쟁력 강화를 위한 정책도 함께 추진할 것을 권고했다. &lt;br&gt;&lt;br&gt;인수위는 또 이들 정책 추진을 위한 콘트롤타워를 비롯해 소방공무원 복지부서, 예비타당성조사 담당 전담부서 등의 신설이 필요하다고 했다. 인천시 재정 운용 상황 전반을 진단하고, 국비 확보 방안 등을 마련할 재정점검 TF 구성도 제안했다. &lt;br&gt;&lt;br&gt;인수위는 새로운 시정이 시민과 함께 인천의 변화를 만들어갈 수 있도록 시정 자문기구 확대와 시민 의견 청취 정례화 등 내용도 권고안에 포함시켰다고 강조했다. &lt;br&gt;&lt;br&gt;박 당선인이 공약한 ‘긴급 민생회복 100일 프로젝트’에 대해선 인천시 재정 상황과 시의회 협의 등을 거쳐서 추진하라고 의견을 모았다. &lt;br&gt;&lt;br&gt;긴급 민생 회복 100일 프로젝트는 인천e음카드 이용 캐시백 20%를 지급하고, 캐시백 지급 한도액을 월 50만원에서 100만원으로 높이는 걸 주요 내용으로 한다. 박 당선인은 지방채 발행 없이 2400억원을 재원을 추경에서 확보해 이 프로젝트를 추진하겠다고 했다. &lt;br&gt;&lt;br&gt;맹성규 인수위원장은 “인천시 재정상황이 어렵다”면서도 “추경 규모나 캐시백 요율, 추경 재원 방법 등은 민선 9기 인천시정부에서 정하게 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;인천시가 추진했던 ‘글로벌 톱텐 시티’ 사업은 전면적인 폐기를 권고했다. ‘제물포르네상스’ 사업은 내항 1·8부두 재개발사업, 동인천역 민자역사 개발사업을 제외한 나머지 사업을 폐기하라고 했다. F1 그랑프리 유치도 유치 가능성과 경제성이 낮고 시민사회 반발이 계속되고 있다며 역시 중단을 권고했다. &lt;br&gt;&lt;br&gt;맹성규 인수위원장은 “인수위는 민선 8기 시정 평가와 문제점을 지적하는 데 그치지 않고, 민선 9기 시정 방향과 선거 기간 약속한 비전과 공약을 어떻게 실제 시정에 녹여낼 것인지 집중했다”며 “(이번 정책 권고안은) 민선 9기 시정이 안정적으로 출범하기 위한 출발점이자, 시민과의 약속을 실천하기 위한 첫 번째 이정표가 될 수 있을 것”이라고 했다. 이어 “(민선 9기 인천시가) 시민의 목소리를 상시적으로 듣고, 시민과 함께 정책을 만들어가는 열린 시정을 운영하길 바란다”고 했다. &lt;br&gt;&lt;br&gt;박찬대 당선인은 “오늘 채택된 권고안은 300만 시민의 더 나은 삶을 위한 마중물이 될 것”이라며 “인수위 여러분의 지혜와 현장에서 길어 올린 문제의식, 인천을 향한 애정을 민선 9기 시정의 든든한 밑거름으로 삼겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “이제 곧 시민의 삶을 바꾸는 여정이 시작된다”며 “권고안을 하나하나 꼼꼼하게 읽고 살피겠다. 우리의 약속이, 시민의 내일이 될 수 있도록 충실히 논의하고 이행해 나가겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 이번 시정 권고안은 오는 30일 인수위 해단식 때 박찬대 당선인에게 공식 전달될 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 주민등록증 모바일 확인서비스 폐지 검토</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/28/U6F54YVMIJCBBG3V7Z2VW5HTAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/28/U6F54YVMIJCBBG3V7Z2VW5HTAM/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Jun 2026 05:56:05 +0000</pubDate>
-      <content:encoded>정부가 ‘주민등록증 모바일 확인 서비스’의 폐지를 검토하고 있다. 행정안전부는 “다음 달 ‘주민등록증 모바일 확인 서비스’ 제도의 실효성에 대한 용역을 맡겨 올해 안에 폐지 여부를 결정할 예정”이라고 28일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUSGMWG3GFFVZHOQ4KYUQMBGUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/통신3사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주민등록증 모바일 확인 서비스는 이름·얼굴·주민등록번호 등 실물 주민등록증에 수록된 정보를 스마트폰 QR코드에 담은 것이다. 편의점에서 담배를 구매하거나 술집 등에 출입할 때 주민등록증 발급 사실을 증명해 성인 인증을 받는 용도 등으로 사용할 수 있다. 하지만 인공지능(AI)의 발달로 QR코드를 위조할 수 있다는 우려가 제기되고, 편의점 등 사업자가 직접 QR코드를 스캔해 진위 여부를 확인해야 하는 번거로움이 있었다.&lt;br&gt;&lt;br&gt;위조 우려에다가 실물 주민등록증과 같은 효력을 내는 ‘모바일 주민등록증’ 서비스가 시작되면서 정부는 주민등록증 확인 서비스를 간소화할 필요성에 공감하고 있는 것으로 알려졌다. 작년 3월 정부가 발급을 시작한 ‘모바일 주민등록증’은 위·변조를 방지하는 블록체인 기술을 적용해 실물 주민등록증을 대체할 수 있다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “현재 약 870만명이 주민등록증 모바일 확인 서비스를 이용하고 있는 만큼 서비스 존속과 폐지의 이점을 명확히 따지기 위한 용역을 발주한 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>월요일 낮 최고 33도 무더위…내륙 곳곳 소나기</title>
