@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘상수관 파손’… 대구 수성못오거리 인근 도로 통제</title>
+      <link>https://www.chosun.com/national/regional/2026/06/30/ELGCIHR74ZAJZHWNFPF4XQUOJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/30/ELGCIHR74ZAJZHWNFPF4XQUOJY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Jun 2026 23:54:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NSGRNV5UNEJ3G44LAQNQZO3IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 수성못오거리 상수관이 파손돼 복구작업을 벌이고 있다./대구 수성구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 수성못오거리 인근 상수관이 파손돼 30일 오전 8시 30분 현재 주변 도로가 통제되고 있다. 도로 통제는 이날 오후 9시쯤 풀릴 것으로 보인다. &lt;br&gt;&lt;br&gt;30일 대구시와 수성구청 등에 따르면, 전날인 29일 오후 10시 30분쯤 수성못오거리 용두교 방면 횡단보도 앞 상수도관이 파손됐다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “하수관로 공사를 하던 도중 지름 500㎜의 상수도관을 잘못 건드려 발생한 것으로 파악됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;이 사고로 파동에서 신천동로로 향하는 도로가 통제되고 있다. 상수도관은 파손됐지만, 우회 관로를 통해 물을 계속 공급해 단수는 없는 상황이다.&lt;br&gt;&lt;br&gt;사고가 나자 대구 수성구는 이날 오전 7시 30분쯤 재난 문자를 보내 신천동로에서 파동으로 향하는 차량은 수성못오거리 주변을 피해 우회할 것을 안내했다. 경찰도 해당 현장에서 교통 통제를 진행 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“파티에 왔냐고요?”… ‘party of two’ 무슨 뜻일까</title>
       <link>https://www.chosun.com/national/education/2026/06/30/Q7IUUV5LFBAEBGUAETLEVCAPHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/06/30/Q7IUUV5LFBAEBGUAETLEVCAPHE/</guid>
@@ -641,15 +650,6 @@
       <description/>
       <pubDate>Mon, 29 Jun 2026 00:10:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MORMCANKZHSFAOSCYHPZOYJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램 마약방 이벤트로 필로폰을 무료로 받아 투약한 미성년자와 이를 제공한 20대 운영자가 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천지검 강력범죄수사부(부장 성두경)는 마약류 관리에 관한 법률 위반 혐의로 미성년자 A(17)양과 B(20)씨를 구속 기소했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;A양은 지난해 10월부터 지난 3월까지 필로폰 약 2.5g을 무상으로 받거나 직접 구입해 총 5차례에 걸쳐 투약한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 지난해 11~12월 경남 창원과 서울 지역 모텔에서 2차례에 걸쳐 A양에게 필로폰 1g을 무상으로 준 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰은 필로폰 단순 투약 혐의로 송치된 A양의 나이와 범죄 전력을 고려해 지난 3월 18일 보호관찰소 선도 위탁 조건부 기소유예 처분을 내렸으나, 일주일 뒤 이 처분을 취소해 달라는 인천보호관찰소의 건의가 있었다. 검찰의 처분 다음 날 자체적으로 실시한 A양의 소변 검사에서 필로폰 양성 반응이 나왔다는 이유였다. A양은 검찰 송치 이후에도 추가로 필로폰을 투약한 사실이 확인됐다. &lt;br&gt;&lt;br&gt;검찰은 A양의 휴대전화를 압수해 디지털 포렌식을 진행했고, 이를 토대로 B씨를 추적해 검거했다. &lt;br&gt;&lt;br&gt;B씨는 텔레그램에서 마약방을 운영하면서, 이벤트를 명목으로 불특정 다수에게 필로폰을 무상 제공한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;검찰에 따르면 지난해 대 마약류 사범은 674명으로, 10년 전인 2015년 128명에 비해 5.26배 증가했다. 검찰은 인터넷과 SNS 등을 통한 비대면 거래 증가를 요인으로 보고 있다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “청소년 마약 사범은 조건부 기소유예 제도를 적극 활용해 건강한 사회 복귀를 돕는 것을 원칙으로 하고 있으나, 상습 투약 등 사안이 중대한 경우 엄단할 것”이라며 “청소년을 상대로 한 마약 유통 세력에 대해서도 엄정히 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 지하철에 낙서... 용의자들 해외로 도주했다</title>
-      <link>https://www.chosun.com/national/regional/2026/06/26/YPVWJQA2Y5EI5LBSKNNYT5NMXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/06/26/YPVWJQA2Y5EI5LBSKNNYT5NMXM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Jun 2026 07:06:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVMUXI5DZZE6LK5VBMVRIVJRKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산도시철도 3호선 전동차에 그려진 그라피티. /부산교통공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사흘 전 부산 지하철 전동차에 ‘그라피티(스프레이 페인트로 벽 등에 그리는 그림이나 낙서)’를 그리고 달아난 용의자 2명이 경찰의 추적을 따돌리고 출국했다.&lt;br&gt;&lt;br&gt;부산 강서경찰서는 재물손괴 등 혐의로 호주 국적 20대 남성 A씨와 벨기에 국적 30대 남성 B씨에 대해 인터폴 적색 수배를 내렸다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 23일 오전 2시 51분쯤 부산 강서구 부산교통공사 대저 차량기지 내 시운전선 방향 울타리를 통해 침입한 뒤 3호선 전동차 외부에 그라피티를 남기고 10여 분 뒤인 오전 3시 9분쯤 현장을 벗어난 혐의를 받는다.&lt;br&gt;&lt;br&gt;부산교통공사로부터 신고를 접수한 경찰은 서울경찰청과 인천공항경찰대 등에 공조 요청을 하는 등 추적에 나섰으나 용의자 특정에 어려움을 겪었다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 마스크를 쓰고 범행을 저질렀고, 2~3차례에 걸쳐 옷을 갈아입었다. 또 추적에 혼선을 주기 위해 현금을 사용하면서 각각 다른 곳에서 하차했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZZNOWGLKRDCJM6LSJBQNFBR7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산도시철도 3호선 전동차에 그려진 그라피티. /부산교통공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 감시 카메라(CCTV) 추적 등을 통해 지난 25일 이들이 묵었던 서울 한 숙소를 덮쳤다. 하지만 이들은 전날 오전 11시 인천국제공항을 통해 브루나이로 출국한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “인터폴 적색 수배를 통해 피의자들을 국내로 송환시켜 우리나라에서 범죄를 저지르면 꼭 벌받는다는 것을 깨닫게 할 것”이라면서 “손해배상도 검토할 계획”이라고 했다.했다.&lt;br&gt;&lt;br&gt;앞서 2022년 9월에도 신평·호포 차량 사업소에서 외국인 2명이 유사한 수법으로 차량 기지에 무단 침입해 1·2호선 전동차 외부에 그라피티를 남겼다. 당시 인터폴 적색 수배를 통해 범인 1명이 루마니아에서 국내로 강제 송환됐다. 부산교통공사는 철조망 보수와 전동차 복구 비용 등을 포함한 760만원의 손해배상금을 회수했다.&lt;br&gt;&lt;br&gt;한편, 그라피티 문화에는 버스나 지하철, 도시의 주요 대로변 등에 낙서를 남겨 자신의 영향력을 과시하는 문화가 있다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[굿모닝 멤버십] 집세 받으러 집주인?… ‘운명교향곡’ 논란, 113년 전 해석은</title>
