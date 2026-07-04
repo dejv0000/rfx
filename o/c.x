@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>영동고속道 강릉분기점서 차량 3대 연쇄 추돌…2명 사망</title>
+      <link>https://www.chosun.com/national/regional/2026/07/04/52HQTOH77NHI5OY6XRBH6RGDQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/04/52HQTOH77NHI5OY6XRBH6RGDQQ/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jul 2026 23:50:59 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3WKM3CHFSTSZJUGMZDAZTDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉 사천면 영동고속도로 강릉JC 인근 교통사고 현장./강원도소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;4일 새벽 4시 50분쯤 강원 강릉 사천면 사기막리 영동고속도로 강릉분기점(JC) 인근 강릉 방향 232㎞(인천 기점)에서 렉스턴 승용차와 8.5t 탑차, 1t 탑차 등 차량 3대가 추돌했다.&lt;br&gt;&lt;br&gt;이 사고로 30대와 60대 남성 2명이 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 “렉스턴 승용차가 갓길에 정차한 상태에서 2차 사고로 이어진 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 목격자와 CCTV 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#흥남철수선김치베이비#주적챌린지</title>
       <link>https://www.chosun.com/national/weekend/2026/07/04/OSHTKK6DY5D5VB6XZOJAC4OYBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/07/04/OSHTKK6DY5D5VB6XZOJAC4OYBU/</guid>
@@ -968,15 +977,6 @@
       <description/>
       <pubDate>Thu, 02 Jul 2026 07:22:18 +0000</pubDate>
       <content:encoded>2차 종합특검(특별검사 권창영)이 ‘서울~양평고속도로 노선 변경’ 의혹과 관련해 원희룡 전 국토교통부 장관에게 오는 8일 출석하라고 통보했다. 앞서 1차 소환장이 전달되지 않으면서 조사가 불발되자 다시 출석을 요구한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYGCOJQGVRGCMLGGMYTMZLCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원희룡 전 국토교통부 장관. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 2일 “원 전 장관에게 오는 8일에 출석을 요구하는 2차 소환 통지서를 발송했다”고 밝혔다. &lt;br&gt;&lt;br&gt;‘서울~양평고속도로 노선 변경’ 의혹은 윤석열 정부 당시 김건희 여사에게 특혜를 주기 위해 고속도로의 종점을 변경했다는 내용이다. 국토부는 당초 양서면이었던 고속도로 종점을 2023년 5월 김 여사 일가의 부동산이 있는 강상면으로 변경하는 방안을 검토했다. 이후 특혜 논란이 불거지자 원 전 장관은 같은 해 7월 사업 백지화를 선언했다. 특검은 원 전 장관이 도로정책심의위원회를 열지 않은 채 사업 추진 방향을 변경한 경위 등을 들여다보고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 원 전 장관을 직권남용 혐의로 입건한 뒤 오는 3일 특검에 출석해 조사받으라는 소환장을 보냈다. 그러나 소환장은 폐문부재로 송달되지 않았다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 김건희 특검은 노선 변경에 영향력을 행사한 혐의로 국토교통부 서기관 김모씨 등을 기소했지만, 원 전 장관의 범죄 혐의는 밝혀내지 못해 기소하지 않았다.&lt;br&gt;&lt;br&gt;원 전 장관은 특검의 소환 통보 사실이 알려지자 전날 자신의 페이스북에 “국책사업을 마비시킨 가짜뉴스에 맞서, 장관으로서 정무적 결단을 내린 게 죄라면 구차하지 않겠다”고 적었다. 이어 사업 백지화는 도로정책심의위 심의 대상이 아니라면서 “있지도 않은 법을 위반했다는 것이냐. 억지 부리지 말고 죄가 있다면 체포해 가라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>당뇨, 혈당보다 체중·콩팥·심장을 관리하라</title>
-      <link>https://www.chosun.com/medical/2026/07/02/FMLZJS4TGFFR3JFIVGE645F7QI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/02/FMLZJS4TGFFR3JFIVGE645F7QI/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jul 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBTLGK5NXVAJBO7CCUEDM6Z2YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 당뇨 환자가 복부에 인슐린을 주사하며 당뇨병 치료를 하고 있다./게티이미지 뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026 북중미 월드컵 조별리그 3차전, 대한민국과 남아프리카공화국의 경기에서 한국은 68%의 압도적인 볼 점유율을 기록했으나, 역습 한 방에 무너지며 32강 진출에 실패했다. 공은 오래 가졌지만 결정적으로 승점 획득에 실패했다. 국내 30세 이상 당뇨병 환자가 600만명을 넘어선 가운데, 대한당뇨병학회는 국내 당뇨병 관리 전략이 월드컵 축구 실패 사례를 따라가고 있다고 지적했다.&lt;br&gt;&lt;br&gt;1일 대한당뇨병학회와 한국의학바이오기자협회가 공동 주최한 ‘당뇨병 환자 치료 기회 확대를 위한 신약 처방 지침 개정 심포지엄’에서 조영민 당뇨병학회 진료지침이사(서울대병원 내분비대사내과)는 “건강보험 당뇨병 약물 사용 기준이 일상적인 혈당 수치 관리(축구로 치면 점유율)에 치중되어 있어 당뇨병 환자 조기 사망의 핵심 요인인 심근경색, 심부전, 신부전 같은 치명적인 합병증을 예방하지 못하여 결과적으로 환자의 건강 수명을 늘리는 데(승점) 기여하지 못하고 있다”고 말했다. 이에 조영민 이사는 “월드컵 축구 승부에서 필요한 것은 높은 점유율이 아니라 승점이듯, 혈당 수치 관리 중심의 약제 사용에서 당뇨병 합병증 발생 차단을 목표로 전환돼야 한다”고 말했다. &lt;br&gt;&lt;br&gt;이 같은 주장의 배경에는 당뇨병 환자를 20~30년 추적 관찰해보니, 혈당 수치는 좋아졌는데도 심근경색, 심부전, 만성콩팥병, 심혈관질환 발생이 계속 나오는 데 있다. 혈당 관리 지표인 당화혈색소(HbA1c) 수치(정상은 6.5% 미만)가 좋아도 심근경색이나 심부전이 발생하면 당뇨병 치료에 성공했다고 보기 어렵다는 의미다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52KEPB6QQBADFPDFCD5RDGBUWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당뇨병학회는 이제 당뇨병 관리 대상이 혈당이 아니라 환자이어야 한다고 말한다. 김종화 당뇨병학회 보험이사(세종병원 내분비내과)는 “전 세계 당뇨병 치료의 글로벌 표준 지침을 제시하는 미국당뇨병학회는 당뇨병 관리 핵심 목표를 혈당 관리에서 얽히고설켜 당뇨병 후유증 발생의 근본 원인으로 지목되는 심혈관-콩팥-대사(비만) 네트워크 위험을 줄이는 것으로 전환했다”고 말했다. 비만은 인슐린 저항성을 올려 고혈당, 고지혈증을 유발하고, 고혈당은 신기능을 손상하여 투석이 필요한 만성신부전증을 유도하고, 당뇨병 환자의 고혈압, 동맥경화는 심근경색, 심부전 등 심혈관질환 사망을 높인다.&lt;br&gt;&lt;br&gt;이에 당뇨병 관리 목적을 당뇨병 환자의 건강 수명 연장(승점)에 두고 체중 감량과 비만 개선에 힘쓰며, 심장과 콩팥 등 여러 장기 기능을 보호하는 방식으로 전환해야 한다는 지적이다. 최근 체중 감량에 효과가 큰 GLP-1작용제(위고비, 마운자로의 원조 약물)와 SGLT2 억제제처럼 심장과 콩팥을 보호하는 약물이 잇따라 등장하면서 약효를 내고 있다. 심부전·만성 콩팥병 가능성이 있는 환자에게는 SGLT2억제제를, 죽상경화성 심혈관질환이 동반된 경우엔 GLP-1 작용제 또는 SGLT2 억제제를 적극적으로 사용하자는 것이 학계의 의견이다.&lt;br&gt;&lt;br&gt;조영민 교수는 “국내 건강보험 약물 사용 기준은 당뇨병 합병증 발생을 막는 최신 약물 조기 사용을 제한하고, 합병증이 발생하면 그제야 쓸 수 있게 하는 상황”이라며 “이는 마치 손홍민을 아끼고 있다가 한 골 먹고 질 것 같으면 그때서야 손홍민을 투입하는 것과 같은 상황”이라고 말했다. &lt;br&gt;&lt;br&gt;당뇨병학회는 현재 건강보험 당뇨병 약물 급여 기준은 2011년에 만들어진 혈당 관리 위주 기본 틀에서 크게 벗어나지 못했으니, 축구 경기 상황에 맞는 공격수를 선제적으로 대거 투입하는 것처럼, 최신 약물로 후유증 발생을 적극적으로 차단하는 쪽으로 전환하자는 주장을 펴고 있다. 당뇨병 관리가 환자의 건강수명을 늘리는 ‘승점 축구’로 바뀌어야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
