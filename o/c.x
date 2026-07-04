@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>9만명 찾은 강릉 경포해수욕장, 앞바다에 “상어가 나타났다” 잇단 신고</title>
+      <link>https://www.chosun.com/national/regional/2026/07/04/MGS56PE44NEVRGSDHBVUCJUAKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/04/MGS56PE44NEVRGSDHBVUCJUAKA/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 09:37:04 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFURXU37TJKW5I3ESZU3JOBFVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 개장식을 열고 본격적인 피서객 맞이에 들어간 강원 동해안 대표해수욕장인 강릉 경포해수욕장에서 피서객들이 무더위를 식히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;4일 강원 강릉 앞바다에 상어가 출몰했다는 신고가 잇따라 접수돼 주의가 요구된다.&lt;br&gt;&lt;br&gt;강릉해경 등에 따르면 이날 오후 2시 3분쯤 경포해수욕장 동쪽 앞바다에 조업 중인 어선으로부터 ‘상어가 나타났다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이어 안목해변 동쪽 4㎞ 해상에서 상어가 출몰했다는 신고도 이어졌다.&lt;br&gt;&lt;br&gt;경포해수욕장은 올해 첫 개장식을 열고 피서객 맞이에 들어갔다. 이날 9만540명이 찾았다. &lt;br&gt;&lt;br&gt;강릉시는 오후 4시 51분쯤 “해양레저 및 해수욕 활동 시 안전에 유의해 달라”는 내용의 재난 문자를 발송했다.&lt;br&gt;&lt;br&gt;강릉해경도 상어 출몰 신고에 따라 인근 레저 업체와 어선들에게 안전에 각별한 주의해 달라고 당부했다.&lt;br&gt;&lt;br&gt;강릉지역 해수욕장에도 상어 출현에 따른 ‘안전 주의 확성기 방송’을 요청했다.&lt;br&gt;&lt;br&gt;해경은 해안 파출소 연안 구조정과 경비함정에도 순찰 및 안전 활동을 강화하도록 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태안 꽃지해수욕장서 70대 男 물에 빠져 심정지</title>
+      <link>https://www.chosun.com/national/regional/2026/07/04/5YKYINQIEFFKTJQ4C7GMUDCFQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/04/5YKYINQIEFFKTJQ4C7GMUDCFQI/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 09:42:27 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2TCNDDMRSTGOJWGEYGKMBXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;꽃지 해수욕장 모습. /태안군 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;4일 오후 3시 46분쯤 충남 태안군 안면읍 꽃지해수욕장 인근에서 70대 남성 A씨가 물에 빠졌다.&lt;br&gt;&lt;br&gt;신고받고 출동한 해경은 해수욕장 인근 바위 주변에서 A씨를 구조해 병원으로 옮겼지만, 의식과 호흡이 없는 상태로 전해졌다.&lt;br&gt;&lt;br&gt;태안해경 관계자는 “정확한 사고 경위를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편, 꽃지해수욕장은 오는 11일 정식 개장할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>에어컨 설치하다 말다툼 끝에…에어컨 기사 살해한 50대</title>
+      <link>https://www.chosun.com/national/regional/2026/07/04/NKIWNGLERBG5NOEQKCFMK34XUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/04/NKIWNGLERBG5NOEQKCFMK34XUY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 09:47:45 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSGGNLGMVQTQNJSGA3TGNBVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안동남경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천안동남경찰서는 에어컨 설치 기사를 흉기로 찔러 숨지게 한 혐의(살인)로 50대 A씨에 대해 구속영장을 신청할 예정이라고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 오후 2시 40분쯤 충남 천안시 동남구 봉명동 한 다가구주택에서 에어컨 설치 기사인 60대 B씨를 흉기로 찌른 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨는 병원으로 옮겨져 치료를 받았지만, 이날 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 에어컨 설치 과정에서 나온 쓰레기 처리 문제로 B씨와 말다툼을 벌이다 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 살인미수 혐의로 긴급체포했으나, B씨가 숨져 혐의를 살인으로 변경했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새벽 강남 도로에 술 취해 누워있던 40대 남성, 택시 깔려 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/04/KW5VA6DL7VCCXB4CWLCJPUTUMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/04/KW5VA6DL7VCCXB4CWLCJPUTUMI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 09:51:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZWGNDDHBQTGZLCGI4WIYLFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 새벽 서울 강남구 논현동에서 술에 취해 도로 위에 누워 있던 40대 남성이 택시에 깔려 숨졌다. 경찰은 택시 기사를 입건해 조사 중이다. &lt;br&gt;&lt;br&gt;경찰 등에 따르면, 교통사고특례법상 치사 혐의로 60대 택시 기사 A씨를 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 4시 41분쯤 서울 강남구 논현동의 한 도로에서 택시를 몰다 길바닥에 있던 40대 남성 B씨를 치어 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사고에 앞서 술에 취한 상태였던 B씨는 우회전 중이던 다른 승용차의 사이드미러에 살짝 부딪힌 뒤 도로에 눕게 된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;그 직후 이 승용차를 뒤따르던 택시 운전자 A씨가 길바닥에 있던 B씨를 보지 못하고 우회전하다 사고를 낸 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;사고 직후 심정지 상태로 병원에 이송된 B씨는 결국 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 7월 5일 일요일 (음력 5월 21일 庚辰)</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/04/IYKYIHA3NZCALKZ4SI5HRAAWEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/04/IYKYIHA3NZCALKZ4SI5HRAAWEA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“국회의원들에게 하고픈 말 했다” 올림픽공원 국조특위 막은 60대 구속 기로</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/04/KFSXX3ZXSBFWDKVC2D2TTHNMWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/04/KFSXX3ZXSBFWDKVC2D2TTHNMWQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 07:05:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAA233AQWBPWPMRXCOKGOJJAZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표용지 부족 사태를 조사하는 국회 국정조사특별위원회(국조특위)의 현장조사를 방해한 혐의를 받는 60대 남성 A씨가 4일 오후 서울 송파구 서울동부지법에서 열린 영장실질심사에 출석하고 있다. /뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투표용지 부족 진상 규명을 위한 국회 국정조사특별위원회(국조특위)의 올림픽공원 현장 조사를 방해한 60대 남성이 4일 구속 기로에 섰다. 그는 “억울함이 분에 넘친다. 화장실 쪽으로 가려 한 것”이라며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;서울동부지법 성현창 판사는 이날 오후 3시부터 공무집행방해 혐의를 받는 60대 남성 A씨에 대한 영장실질심사를 진행한다. &lt;br&gt;&lt;br&gt;A씨는 이날 오후 2시 32분쯤 법원에 출석했다. 그는 ‘경찰 폭행 혐의를 인정하느냐’는 질문에 “현장이 아주 평화로운 시민들의 자리였고 저도 국민의 한 사람으로 참여했다”며 “경찰들한테 욕 하나 한 것 없고 상당히 억울함이 분에 넘친다”고 했다.&lt;br&gt;&lt;br&gt;‘국조특위 위원들의 진입을 왜 막았느냐’는 질문에는 “막은 게 아니다. 나는 화장실 쪽으로 가려 했다. 그리고 국회의원들한테 하고 싶은 말을 했다”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 1시 10분쯤 국조특위 위원들이 올림픽공원 핸드볼경기장 2-2문으로 진입할 때 이동 조치하는 경찰관을 밀었다가 현행범으로 체포됐다. 경찰은 3일 A씨에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>거제 미용실서 흉기 난동 80대男 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/07/04/LD3MVEH4PNBOFLDA3JCLW6QPHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/04/LD3MVEH4PNBOFLDA3JCLW6QPHQ/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 07:09:11 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSGIZJYGI2DGMJQHBRDMNRZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 흉기 난동이 발생한 경남 거제시 고현동의 한 미용실 앞에 폴리스라인이 설치돼 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;경남 거제경찰서는 미용실에서 종업원과 손님에게 흉기를 휘둘러 살해하려 한 혐의(살인미수)로 80대 남성 A씨를 구속했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;창원지법 통영지원은 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 한 뒤 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오전 11시 25분쯤 거제지역 한 미용실에 들어가 30대 여성 종업원 B씨와 40대 남성 손님 C씨에게 미리 준비한 흉기를 휘두른 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨와 C씨는 병원으로 옮겨져 치료받고 있다. 현재까지 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 A씨를 현행범으로 체포한 뒤 조사 과정에서 그가 살해할 목적으로 미리 준비한 흉기를 휘둘렀다고 보고 살인미수 혐의를 적용했다.&lt;br&gt;&lt;br&gt;A씨는 범행 이후 음독했다고 경찰에 진술했으나, 병원에서 혈액 검사를 한 결과 그의 주장은 거짓으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 고성 DMZ서 산불…헬기 1대 투입 진화 중</title>
+      <link>https://www.chosun.com/national/regional/2026/07/04/OREKP4AK6FEDJAMVHU5FHKZJ2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/04/OREKP4AK6FEDJAMVHU5FHKZJ2E/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jul 2026 06:29:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3DMZRWMFRTOYZYHEYTIYZXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 1시 9분쯤 강원 고성군 수동면 외면리 인근 비무장지대(DMZ)에서 산불이 났다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 1시 9분쯤 강원 고성군 수동면 외면리 인근 비무장지대(DMZ)에서 산불이 났다.&lt;br&gt;&lt;br&gt;산림과 소방 당국은 헬기 1대를 투입해 진화 작업을 하고 있다.&lt;br&gt;&lt;br&gt;불이 난 곳은 군사분계선(MDL)에서는 남측 1.7㎞ 지점, 남방한계선에서는 북측 8.3㎞ 지점이어서 인력을 투입한 진화가 불가능하다.&lt;br&gt;&lt;br&gt;산불 확산 상황에 대비해 인력 18명과 장비 6대가 남방한계선 인근에서 대기 중이다.&lt;br&gt;&lt;br&gt;소방당국은 불을 완전히 끄는 대로 화재 원인과 피해 규모 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“모 의원이 업소에서 마약을…” 허위사실 유포한 50대 여성 구속</title>
       <link>https://www.chosun.com/national/national_general/2026/07/04/D4XFY76X5VA3XNZUPKA52HJNGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/04/D4XFY76X5VA3XNZUPKA52HJNGI/</guid>
@@ -764,15 +840,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4DSNZSG42DSYTDGQZWKZJXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성태 전 쌍방울 회장이 지난 4월 28일 서울 여의도 국회 윤석열정권정치검찰조작기소의혹사건진상규명국정조사특별위원회에서 열린 윤석열 정권 정치검찰 조작기소 의혹 사건 종합 청문회에서 의원 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 경기도지사 선거와 더불어민주당 대선 경선 당시 이재명 대통령에게 ‘쪼개기 후원’을 한 혐의를 받는 김성태 전 쌍방울 회장에게 3일 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 이날 정치자금법 위반 혐의를 받는 김 전 회장에게 “피고인이 공소사실을 모두 인정하고 있고, 증거로 비춰봐도 유죄로 인정된다”며 벌금 500만원을 선고했다. 앞서 검찰은 벌금 500만원을 선고해 달라고 서면으로 요청했는데, 구형량과 같은 형이 선고된 것이다. &lt;br&gt;&lt;br&gt;김 전 회장은 이화영 전 경기도 평화부지사와 공모해 2021년 7월 더불어민주당 대선 경선 후보로 나섰던 이 대통령을 위해, ‘불법 쪼개기 후원’을 한 혐의로 불구속 기소됐다. &lt;br&gt;&lt;br&gt;김 전 회장은 대선 당시 자신과 쌍방울 임원 등 지인 12명의 명의로 총 9000만원을 나눠 기부한 것으로 파악됐다. 또 2018년 경기지사 선거 당시에는 800만원을 이재명 후원회에 기부한 것으로도 조사됐다. 정치자금법에 따르면, 대선(경선) 후원회엔 연간 1000만원, 이외 선거 후원회엔 연간 500만원을 초과해 기부해선 안 되는데 이를 어긴 것이다.&lt;br&gt;&lt;br&gt;김 전 회장은 재판 과정에서 모든 혐의를 인정했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인은 쌍방울 직원과 지인의 명의를 빌려서 법정한도를 초과한 정치자금을 기부해 정치자금법을 위반했고, 그 액수도 적지 않다”고 했다. 다만, 재판부는 “(김 전 회장) 자신의 개인 자금으로 정치자금을 준 것으로 보이고, 명의를 빌려준 사람들이 피고인의 강압에 의해 빌려준 것으로 보이지 않는 점 등을 참작했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7RVP335JT7IWSQVRNJ6EZ7H6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난해 10월 25일 오후 서울 여의도 국회 법제사법위원회에서 열린 법무부·법제처·감사원·고위공직자범죄수사처·헌법재판소·대법원 종합 국정감사에 출석해 김성태 전 쌍방울 회장 관련 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 이 사건과 관련해 김 전 회장에게 쪼개기 후원을 지시한 혐의로 함께 기소된 이 전 부지사에 대해선 지난달 20일 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 이 전 부지사가 혐의를 부인하자, 그의 ‘연어 술 파티 위증’(국회 증언감정법 위반) 및 ‘북한 묘목 지원’(직권남용, 위계공무집행방해, 지방재정법 위반) 혐의 등을 함께 묶어 지난 8~19일 국민참여재판을 진행했다.&lt;br&gt;&lt;br&gt;재판부는 이와 관련해 “이 전 부지사가 범행에 관여한 것이 아닌가 하는 의심이 들기는 한다”고 이 전 부지사의 판결문에 밝혔다. 실제로 김 전 회장이 정치자금법상 한도를 피하기 위해 여러 사람 명의로 후원금을 냈고, 이 전 부지사와 사전 연락이 없었다면 형사처벌 위험을 감수하면서까지 다른 사람의 명의로 후원할 특별한 이유가 없었다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTCMLFGU3TEZJRGE4GCZTBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사의 이른바 '연어 술파티' 위증 등 혐의 사건 국민참여재판이 열린 경기 수원시 영통구 수원지방법원 204호 대법정/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 재판부는 국민참여재판에서 배심원 7명이 만장일치로 이 전 부지사의 관여 사실이 합리적 의심 없이 증명되지 않았다고 평결한 점을 존중해 무죄로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 총장 후보보다 눈에 띄는 서울대 총장 추천위원</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/2RHHQDQCFNEE5KINUKLGCM3NFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/2RHHQDQCFNEE5KINUKLGCM3NFU/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 20:00:00 +0000</pubDate>
-      <content:encoded>서울대가 최근 차기 총장 선출을 위한 총장후보추천위원회 위원 30명을 선정했다. 2일 본지가 입수한 서울대 총장후보추천위 위원 명단을 보면 위원은 서울대 평의원회 추천 27명, 서울대 이사회 추천 3명 등으로 구성됐다.&lt;br&gt;&lt;br&gt;평의원회가 위촉한 총장추천위 위원에는 권영수 전 LG에너지솔루션 부회장, 송치형 두나무 회장, 손주은 메가스터디그룹 회장 등이 포함됐다. 이수정 한국IBM 대표, 류방란 전 한국교육개발원장, 박상희 비룡소 대표 등도 추천위원으로 이름을 올렸다. 박상희 대표는 민음사 창업주 고(故) 박맹호 회장의 장녀다. 또 이해정 가천대 바이오나노대학 교수, 최규팔 특허법인 한성 대표변리사도 위원으로 위촉됐다. &lt;br&gt;&lt;br&gt;이사회에선 권오곤 김앤장 법률사무소 국제법연구소장을 총장추천위원으로 위촉했다. 권 소장은 한국인 최초로 국제유고전범재판소(ICTY) 재판관을 지냈다. 우기홍 대한항공 부회장, 한성림 서울대 교수도 이사회 추천으로 총장 추천위에 참여한다. 서울대 교수들 사이에선 “추천위원 이력 등을 보면 총장 후보들보다 더 유명한 경우가 꽤 있다”는 말이 나온다.&lt;br&gt;&lt;br&gt;총장추천위는 이달 중 첫 회의를 열어 추천위원장과 부위원장을 선출한다. 이후 15일 이내에 총장 후보 모집 공고를 내고 20일간 후보자 등록을 받는다. 총장추천위는 서류 심사와 면접을 거쳐 예비 후보자 4명을 추린 뒤 교원·직원·학생으로 구성된 정책평가단 평가 결과를 토대로 최종 후보자 3명을 서울대 이사회에 추천한다. 이사회가 투표를 통해 이 중 1명을 선출하면 교육부 장관 제청을 거쳐 대통령이 총장을 임명하게 된다.&lt;br&gt;&lt;br&gt;현재 차기 총장 도전 의사를 밝힌 서울대 교수는 10명 안팎이다. 서울대 정치외교학부 교수인 유홍림 현 총장도 주변에 연임 도전 의사를 밝힌 것으로 전해졌다. 단과대학 중에서 교수 숫자가 가장 많은 공과대학과 의과대학에선 아직 총장 도전 의사를 밝힌 교수가 없는 것으로 알려졌다. 한 서울대 교수는 “공대와 의대 교수들이 어느 후보 지지로 몰릴지 관심”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[플라자] 한국 최초의 ‘사회민주주의자’ 김철 탄생 100주년 </title>
       <link>https://www.chosun.com/national/people/2026/07/03/EZIQVTJLORBAJBO6JYLP4D2WSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/03/EZIQVTJLORBAJBO6JYLP4D2WSQ/</guid>
@@ -782,19 +849,6 @@
       <content:encoded> ▲당산 김철 기념사업회는 4일 서울 종로구 노무현시민센터 다목적홀에서 당산(堂山) 김철(1926~1994) 탄생 100주년 기념 도서인 ‘내가 본 김철’ 출판 기념회를 개최한다. &lt;br&gt;&lt;br&gt;김철은 1926년 함북 경흥에서 출생, 경성 고보를 졸업한 뒤 일본 도쿄대학 역사철학과에서 유학했다. 이후 ‘요미우리신문’ 서울특파원을 지냈고, 57년부터 정치활동을 시작했다. 사회민주주의자인 김철은 1961년 통일사회당을 창당했고, 1971년 대선에 출마했다. 유신 시절 긴급조치 9호 위반 혐의로 투옥됐던 그는 차남인 김한길 전 문화관광부 장관의 재심 청구로 37년 만인 2013년 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLIF7XWUHBG5PDUVFC5ICFJCYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;당산 김철은 우리나라에서 사회민주주의 사상 체계를 정리하고, 1971년 7대 대선에 출마했다. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘내가 가 본 김철’(이만열·홍을표 외)은 사회민주주의자로서 김철의 삶이 가족과 친지, 동지에게 끼친 영향, 김철과 평소 직접 교류하던 동시대 인사들의 경험담을 통한 김철의 인간적 모습을 담았다고 해냄출판사는 밝혔다. &lt;br&gt;&lt;br&gt;이만열 전 국사편찬위원회 위원장은 “그는 어떤 고매한 정치적 목적이라도 부정한 수단을 정당화할 수 없다는 신념을 평생토록 견지한 고고한 이상주의자였다”고 평했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘10만분의 1’ 확률의 겹쌍둥이… “둘씩 짝지어 놀아 육아 쉽죠”</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/IAN42J2NRRDF7FFXUZNFTZRIDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/IAN42J2NRRDF7FFXUZNFTZRIDQ/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPZM7GASEBE5XGUPT3OOC6IUHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탁은경·김기호 부부의 네 아이가 활짝 웃으면서 군인인 아빠 김씨를 따라 경례 동작을 취하고 있는 모습. 왼쪽부터 세미·연아·연우·세리다. 부부는 “아이들이 주는 행복이 너무 커, 주변에 결혼도 꼭 하고 아이도 꼭 두 명 이상 낳으라고 말한다”고 했다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시 와동동의 한 아파트에는 ’10만분의 1의 확률’로 만들어진 가족이 산다. 바로 탁은경(37)·김기호(37) 부부와 자연 임신으로 태어난 쌍둥이 남매 연아·연우(4), 쌍둥이 딸 세미·세리(1)다. 지난달 30일 부부를 만나 “요즘 아이 한 명 키우는 것도 힘들다는데 어떻게 네 명을 키우느냐”고 묻자, 이런 답변이 돌아왔다. “힘든 것보다 아이들이 주는 행복이 너무 큽니다. 매 순간이 행복해요. 주변에 결혼은 꼭 하고, 아이도 꼭 두 명 이상은 낳으라고 말합니다.”&lt;br&gt;&lt;br&gt;부부는 처음 만나서 연애를 시작하기까지 시간이 오래 걸렸다. 2017년 지인들과 저녁 자리에서 남편 김씨는 예쁜데 성격도 털털한 아내 탁씨를 보고 호감이 생겼지만, 탁씨는 같은 마음이 아니라서 이어지지 못했다고 한다. 그런데 3년 뒤 같은 지인들과 저녁 자리에서 다시 만난 두 사람은 곧 연애를 시작했다. 남편은 여전히 예쁘고 털털한 아내의 모습에, 아내는 오랜만에 만났는데도 대화가 잘되고 성실한 남편의 모습에 끌려 드디어 마음이 통한 것이다.&lt;br&gt;&lt;br&gt;이후로는 모든 일이 일사천리로 진행됐다. 연애 도중 싸운 적도 거의 없었다. 둘 다 “이 사람과 결혼해도 좋겠다”는 생각이 자연스레 들었고, 연애 6개월이 됐을 즈음 혼인신고를 마쳤다. 코로나가 한창이던 시기라서 결혼식은 쉽지 않아 혼인신고부터 하고, 1년 뒤 결혼식을 올렸다. 그리고 떠난 신혼여행에서 ‘허니문 베이비’를 갖게 됐다.&lt;br&gt;&lt;br&gt;부부는 병원에서 쌍둥이를 임신했다는 소식을 듣고 어안이 벙벙했다고 한다. 사실인지 믿기지 않았는데, 얼마 안 돼 입덧이 심해지고 배가 나날이 불러오는 걸 보면서 쌍둥이라는 사실이 실감이 났다. 아내 탁씨는 “임신 기간 속이 너무 안 좋아서 수박과 복숭아, 라면 정도만 그나마 먹을 수 있었다”면서 “한겨울에도 수박이 너무 먹고 싶어서 남편이 구해 오느라 고생을 많이 했다”고 했다.&lt;br&gt;&lt;br&gt;입덧 탓에 쌍둥이를 임신했는데도 몸무게는 12㎏밖에 늘지 않았다. 쌍둥이 연아와 연우가 태어난 뒤엔 오히려 임신 전보다 몸무게가 2㎏이나 줄었다. 아이들이 태어난 직후 인큐베이터에서 3주간 있었는데, 그새 마음고생을 한 탓이다. 탁씨는 “산후조리원에 가면 우리 연아랑 연우는 내 옆에 없는데 다른 아기들이 우는 소리를 듣고 있는 게 힘들 것 같아 가지 않았다”면서 “집에서 매일 울고 제대로 못 먹으니 살이 임신 전보다 더 빠지더라”고 했다.&lt;br&gt;&lt;br&gt;연아와 연우가 퇴원해 집에 온 날부턴 집안은 축제 분위기였다. 남편 김씨는 “그토록 보고 싶었던 아이들과 함께할 수 있어서 정말 너무 행복했고, 그래서 한동안은 육아가 힘들다는 것도 느끼지 못했다”고 말했다. 그렇게 2년간 쌍둥이 육아에 집중하던 부부는 연아에게 여동생을 만들어주고 싶다는 생각을 하게 됐다. 아내 탁씨는 “주변에 자매인 친구들이나, 저희 엄마와 이모를 보면 정말 사이가 좋고 서로에게 힘이 돼주더라”며 “인생에서 최고의 선물은 가족인 만큼, 연아에게도 자매라는 선물을 만들어주고 싶어 셋째 출산을 준비했다”고 했다.&lt;br&gt;&lt;br&gt;그런데 가족에겐 생각보다 더 큰 선물이 찾아왔다. 일란성 쌍둥이를 임신한 것이다. 이렇게 자연 임신으로 연달아 쌍둥이를 가질 확률은 10만분의 1이라고 한다. 남편 김씨는 “아이들 성별을 알 때까지 마음을 엄청 졸였다”면서 “딸이라는 소식을 들었을 땐 정말 기뻤다”고 말했다.&lt;br&gt;&lt;br&gt;다시 쌍둥이를 품은 탁씨는 한 번 해봐서 그런지 처음보다 임신 기간이 수월했다. 특히 연아와 연우 때만큼 입덧이 심하지 않아 다행이었다. 남편 김씨는 “아내가 쌍둥이를 두 번 임신하고 출산하는 걸 옆에서 보면서 ‘엄마라는 존재가 가진 힘과 능력이 대단하다’는 걸 느꼈다”고 말했다. &lt;br&gt;&lt;br&gt;부부는 부모님이나 아이돌보미 도움 없이 아이들을 스스로 키운다. 부부는 출근길에 아이들을 어린이집에 데려다주고, 군인인 남편 김씨가 퇴근할 때 아이들을 데리고 집에 온다. 이후 네일숍을 운영하는 아내가 퇴근하는 9시까지 혼자 아이들을 돌본다. 부부는 “아이가 많아서 오히려 육아가 더 쉽다”고 했다. 아이가 한 명이면 엄마나 아빠가 내내 같이 놀아줘야 하는데, 아이가 많으면 자기들끼리 놀기 바쁘다는 것이다. 탁씨는 “연아랑 연우가 6개월부터 서로 알아보기 시작했는데, 그때부터 할 게 없어지더라”며 “지금도 둘이서 ‘이거 할까’ ‘저거 하자’ 얘기하고 장난치면서 재미나게 논다”고 했다. &lt;br&gt;&lt;br&gt;누가 시키지도 않았는데 연아와 연우가 쌍둥이 동생들을 챙긴다. 탁씨는 “둘이서 매일 한 명씩 ‘내 아기’ ‘내 동생’을 정해 데리고 논다”며 “동생들이 너무 좋으니까 자기가 읽고 있는 책도 보여주고 싶고, 안아주고 싶어 하는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;부부는 아이가 넷이면 육아의 어려움이 4배로 늘어나는 것은 아닌 반면, 육아의 기쁨과 행복은 4배 이상일 정도로 크다고 말했다. 탁씨는 “하루 종일 일하고 녹초가 돼 집에 왔을 때도 곤히 잠들어 있는 아이들 얼굴을 보면 피로가 사르르 녹는다”며 “옛날에 아버지들이 일 끝내고 집에 오면 힘이 난다고 하던 말들이 어떤 느낌인지 완전히 이해하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;부부 사이도 더욱 끈끈해졌다. 아이들이 태어나기 전엔 그저 사랑하는 부부였다면, 지금은 어떤 어려움이 와도 함께 이겨낼 수 있는 든든한 전우가 된 기분이라고 한다. 서로 말하지 않아도 마음이 통하고 있다는 걸 항상 느낀다. 부부에게 ‘아이들과 해보고 싶은 게 뭐냐’고 물었다. 탁씨는 “아이들과 함께 해외여행을 가고 싶다”고 했다. 김씨는 “아이들 키가 크려면 좀 시간이 걸리겠지만, 네 아이들과 함께 놀이공원에 가서 스릴 넘치는 놀이기구를 같이 타고 싶다”며 웃었다. 부부는 지금처럼 합심해서 아이들을 예의 바른 사람으로, 남을 도와주는 멋진 어른으로 잘 키워내고 싶다고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(betterfuture@korea.kr)로 사연을 보내주세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LDWTD4GSWBHJLLQAJX4SUTQGCM.jpg?auth=a61c988d57217b995cb1b9b1ccd7a127bafb929eb55ed117d4e2d98b207ea906&amp;smart=true&amp;width=2071&amp;height=1165" type="image/jpeg" height="1165" width="2071">
-        <media:description type="plain"> 고운호 기자
-탁은경·김기호 부부의 네 아이가 활짝 웃으면서 군인인 아빠 김씨를 따라 경례 동작을 취하고 있는 모습. 왼쪽부터 세미·연아·연우·세리다. 부부는 “아이들이 주는 행복이 너무 커, 주변에 결혼도 꼭 하고 아이도 꼭 두 명 이상 낳으라고 말한다”고 했다.</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“때린 남편이 가져갈까봐 치료비 못 드려요” 까다로운 피해자 지원금</title>
       <link>https://www.chosun.com/national/national_general/2026/07/03/KRY37UADYRBSBG4RQSC4E6J4GE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/KRY37UADYRBSBG4RQSC4E6J4GE/</guid>
@@ -802,18 +856,6 @@
       <description/>
       <pubDate>Thu, 02 Jul 2026 15:49:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQVFW3NT54ZM7ZPMDX4FCGU5I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한국여성인권진흥원 디지털성범죄피해자지원센터 앞에 딥페이크 예방 관련 포스터가 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에 사는 30대 주부 양서정(가명)씨는 지난해 7월 남편에게 폭행을 당했다. 임신 초기였던 양씨는 남편의 폭행으로 하혈까지 했지만, 치료비 부담에 병원 방문을 꺼렸다. 사건을 담당한 경찰관은 양씨 치료비를 마련해주려고 법무부 산하 범죄피해자지원센터에 도움을 요청했다.&lt;br&gt;&lt;br&gt;하지만 문제가 있었다. 범죄 피해자가 지원센터에 치료비를 신청하고, 실제 심사를 거쳐 지급받기까지는 한두 달 이상이 걸렸다. 당장 치료비가 급한 양씨에겐 너무 긴 시간이었다. 결국 경찰은 지방자치단체의 긴급복지지원제도를 통해 양씨가 치료비를 지원받을 수 있게 도왔다. 담당 경찰관은 “그나마 양씨는 운이 좋았던 편”이라며 “당장 치료비나 생계비가 막막한데도 제때 지원받지 못하는 피해자가 수두룩하다”고 했다.&lt;br&gt;&lt;br&gt;양씨처럼 폭행 등을 당해 치료비나 생계 지원이 필요한 범죄 피해자를 위해 정부는 범죄피해자보호기금을 운영하고 있다. 이 기금은 범죄 가해자가 국가에 낸 벌금의 8%를 떼어내 조성한 돈 등으로 마련된다. 올해 이 기금 1027억원 중 567억원(55%)은 법무부가, 56억원(6%)은 경찰청이 타 갔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPYC4ZKNTZAIFKVS5M45TEH3TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범죄 피해자는 이 기금에서 치료비로 연간 최대 1500만원, 생계비로 6개월간 월 최대 100만원씩 지원받을 수 있다. 이 돈은 법무부에 할당된 예산에서 나온다. 경찰 관계자는 “사건이 행정안전부 소속인 경찰 수사 단계에 있으면 지원금 심사 대상에서 제외되는 경우가 적지 않다”고 전했다. 경찰청이 2024년 1월부터 2025년 7월까지 접수된 범죄피해자보호기금 신청 현황을 분석했더니, 신청 후 실제 지급까지 치료비는 평균 80.1일, 생계비는 평균 53.2일이 걸렸다.&lt;br&gt;&lt;br&gt;지원 요건도 까다롭다. 법무부 홈페이지를 보면 치료비 지원은 ‘범죄로 인해 5주 이상 치료가 필요한 경우’, 생계비 지원은 ‘범죄로 인해 생계 지원이 필요한 경우’ 정도로만 명시돼 있다. 그런데 법무부 산하 ‘경제적 지원 심의위원회’가 지원 여부를 심사할 때는 다른 조건까지 따지는데, 이때 통과하지 못하는 피해자가 많다고 한다. 실제 지난해 4월 충북 청주에선 가정폭력 피해자가 치료비 지원을 신청했지만 거절당했다. 피해자와 함께 사는 가해자에게 지원금이 갈 수 있다는 이유에서다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[사건 인사이드] 光州 여고생 살인범의 경찰 아버지, 아들 계획 범죄 감추려 증거 인멸?</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/ZFLW7G2DRNHT7LBYTQOFBRZFOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/ZFLW7G2DRNHT7LBYTQOFBRZFOA/</guid>
-      <dc:creator>전남광주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSDKNLCMRRGMZBTG42WCY3EHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 도심에서 10대 여고생을 살해한 장윤기가 지난 5월 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길 가는 여고생을 살해한 살인범 장윤기(23)의 아버지는 아들이 검거된 지 사흘 만인 지난 5월 8일 아들의 원룸에서 리얼돌(성인용 인형) 2개를 조각 내 버렸다. 그는 또 2024년 아들이 분가하기 전 쓰던 휴대전화 여러 대도 불태워 없애버렸다. &lt;br&gt;&lt;br&gt;이 같은 사실은 경찰로부터 사건을 넘겨받은 광주지검이 보완수사를 벌이는 과정에서 드러났다. 이에 따라 장윤기의 죄목이 단순 살인에서 강간 목적 살인으로 변경됐다. ‘묻지마 살인’이 성폭행을 목적으로 한 ‘계획 살인’이 되면서, 징역 20년 이상 중형이 예상되는 양형 기준을 적용받게 됐다.&lt;br&gt;&lt;br&gt;장윤기의 아버지는 전남광주의 한 경찰서에서 근무하는 경찰 간부다. 작년 3월까지 장윤기를 수사한 경찰서 지구대에서 근무했다고 한다. 죄가 더 무거운 것을 알고 아들의 계획 범죄를 감추기 위해 증거들을 버린 것일까. 그는 검찰 조사에서 “아들이 성범죄자로 알려지는 게 싫어서 증거를 없앴다”고 진술했다.&lt;br&gt;&lt;br&gt;장윤기는 지난 5월 5일 자정쯤 전남광주시 광산구 월계동 한 대로변에서 길가던 고교생 2명에게 흉기를 마구 휘둘렀다. 여고생 이모(16)양은 숨졌고, 그를 도우러 온 고모(17)군은 중상을 입었다. 장윤기는 줄곧 “사는 게 재미없어서 자살하려다가 우연히 범행을 저지르게 됐다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰도 당초 ‘강간 목적 살인’을 염두에 두고 수사했다. 장윤기의 원룸에 있던 리얼돌의 가슴 부분이 훼손돼 있어 살인 연습을 한 게 아닐까 의심했다고 한다. 경찰은 리얼돌에서 지문과 유전자 등을 채취해 국립과학수사연구원에 보냈지만 장윤기 외 다른 사람의 DNA가 검출되지 않았다. 경찰은 또 장윤기가 범행 당시 쓰던 휴대폰에서 여중생 등의 신체를 몰래 촬영한 사진도 여럿 발견했고, 그가 범행 이틀 전(5월 3일) 함께 일하던 베트남 국적의 20대 여성을 성폭행하고 스토킹한 사실도 드러났다. 그러나 경찰은 단순 살인 혐의로 사건을 송치했다.&lt;br&gt;&lt;br&gt;광주지검은 보완수사 과정에서 지인 등에게 “장윤기가 평소 ‘인생 망하면 여학생을 납치하겠다’는 말을 자주 했다”는 진술을 확보했다. 검찰은 또 장윤기의 차량 블랙박스에서 “평소 말한 대로 살았다면 (장윤기는) 이미 성범죄자다”라는 지인의 음성 파일도 확보했다.&lt;br&gt;&lt;br&gt;검찰은 같은 달 22일 추가 압수수색에서 장윤기의 아버지가 리얼돌을 없앤 사실을 확인했다. 이에 경찰이 1차 압수수색 때 촬영한 채증 영상을 법원에 증거로 제출할 계획이다. 다만 장윤기의 아버지의 경우, 가족의 범죄를 감춰주는 행위는 처벌하지 않도록 하고 있는 형법상 ‘친족 간 특례’ 조항에 따라 입건하지는 않았다. 경찰은 자체 감찰을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MZSDKNLCMRRGMZBTG42WCY3EHA.jpg?auth=b792a9dd4c5a14ee006d5d2e7e0580a4e0cb3acf1649cf80e6d9d7222c1535e6&amp;smart=true&amp;width=2496&amp;height=1712" type="image/jpeg" height="1712" width="2496">
-        <media:description type="plain">광주 도심에서 10대 여고생을 살해한 장윤기가 지난 5월 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>둘리 신분증에 뚫린 담배 자판기</title>
@@ -842,34 +884,6 @@
       </media:content>
     </item>
     <item>
-      <title>“코딩 실습하며 옷 이미지 만들었어요” 지역 초·중등생 AI 교육하는 대학들</title>
-      <link>https://www.chosun.com/national/education/2026/07/03/EADSTMQWHBG4TIS4U6FPNZYOMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/03/EADSTMQWHBG4TIS4U6FPNZYOMY/</guid>
-      <dc:creator>최인준 기자, 대구=김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DSBYVE3NJAKNMQ2CHYLK7UDGE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구경북과학기술원(DGIST·디지스트) 김수필 선임연구원이 대구창업허브 강의실에서 대구·경북 지역 중학생들에게 인공 지능(AI) 강의를 하는 모습. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 대구 동구에 있는 대구창업허브 강의실. 대구경북과학기술원(DGIST·디지스트) ‘AX혁신본부’ 김수필 선임연구원이 대형 화면에 인공지능(AI)이 시각 이미지를 인식하는 원리를 설명하기 위해 합성곱 신경망(CNN) 구조도를 띄웠다. 김 연구원의 설명을 듣는 건 대학생이 아닌 교복 입은 대구·경북 지역 중학생 11명이었다. 디지스트가 올 1학기부터 초등학생·중학생 30명을 대상으로 1년 과정으로 개설한 AI 교육 프로그램인 ‘AI·소프트웨어(SW) 스쿨’의 수강생들이다. &lt;br&gt;&lt;br&gt;이론 수업이 끝난 뒤엔 학생들이 노트북을 열고 딥러닝(심층학습) 모델을 활용해 옷과 신발 등의 이미지를 직접 생성하는 코딩 실습을 했다. 경주에서 KTX를 타고 수업을 들으러 온 화랑중 1학년 박가영(13) 양은 “디지스트 석·박사 과정 연구원들이 1대1로 설명해 주셔서 어려운 AI 원리도 대부분 이해가 됐다”며 “학교에서 친구들이 코딩에 대해 모르는 걸 나한테 물어볼 정도”라고 했다. &lt;br&gt;&lt;br&gt;매주 수요일 방과 후에 진행하는 이 교육 과정은 전액 무료다. 원하면 4년간 수업을 들을 수 있고, 일부 학생은 방학 때 해외 AI 기업 탐방도 보내준다. 디지스트 측은 “AI 시대에 중요한 수학적 논리력과 문제 해결 능력을 키우는 것이 목표”라며 “실습 위주 수업이 많아 향후 AI 기업 취업이나 창업을 하는 데 큰 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;다른 지역 대학들도 학생 대상 무료 AI 강의 프로그램을 도입하고 있다. 춘천교대 AI융합영재교육원은 올해부터 강원 지역 초·중학생 150명을 대상으로 AI를 수학·과학·음악·미술 등과 접목한 융합 수업을 운영한다. 충남 논산의 건양대 AI·정보보호영재교육원도 올해 지역 학생 50명을 선발해 기초·심화·전문반으로 나눠 수준별 AI 수업을 진행 중이다. &lt;br&gt;&lt;br&gt;이렇게 대학이 앞장서 초·중·고 학생 대상 AI 수업을 진행하는 것은 ‘AI 교육 격차’가 심각하다고 보기 때문이다. 수도권 쏠림 현상이 갈수록 심해지고 공교육에서 AI 교육이 제대로 이뤄지지 않는 상황에서 지역 학생들이 첨단 기술 교육에서 소외되지 않도록 대학이 소매를 걷어붙인 것이다. 지역 대학에는 해당 지역 인재들이 많이 진학하게 되는데, 입학 시점에는 이미 교육 격차가 너무 벌어져 늦다는 판단에 따른 것이다. &lt;br&gt;&lt;br&gt;이재명 정부는 ‘모든 학생을 위한 AI 교육’을 하겠다며 일반 학교보다 AI 수업 시간을 1.5~2배로 확대한 ‘AI 중점 학교’를 올해 1141곳 새로 지정했다. 그런데 수업 시수를 늘렸을 뿐 AI 교육을 위한 별도 커리큘럼을 만들지는 않았다. 지방의 경우 AI를 제대로 가르칠 교사도 부족하다. 예컨대, 전남·경북의 농어촌 지역에선 정보 교사 1명이 학교 3~4곳을 돌아다니면서 수업하는 곳도 많다. &lt;br&gt;&lt;br&gt;실제 서울 등 수도권에는 코딩부터 AI 리터러시(문해력)까지 AI 관련 학원들이 성행하는 반면, 지방엔 부족한 실정이다. 교육부 통계에 따르면 전국 컴퓨터·정보 학원 589곳 가운데 41%(244곳)가 서울과 경기도에 몰려 있다. 교육 기업 드림베이스가 중고교생 1만7381명을 설문한 결과 ‘AI 유료 결제 경험률’도 서울은 16.8%인데 비수도권은 10.3%에 그쳤다.&lt;br&gt;&lt;br&gt;박형빈 서울교대 교수는 “앞으로는 AI를 얼마나 잘 다루느냐가 경쟁력을 결정하는 시대”라며 “공교육뿐 아니라 대학, 연구 기관 등 다양한 지역 인프라를 활용해 학생들에게 양질의 AI 교육을 제공해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>모든 과목으로 독서 확대… 과학시간도 글 읽고, 탐구·토론</title>
-      <link>https://www.chosun.com/national/education/2026/07/03/DFFMLD727RGYBBLJU647OBATCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/03/DFFMLD727RGYBBLJU647OBATCQ/</guid>
-      <dc:creator>황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRDOMRZHE4GKYJRG5QTMNZQMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 경북교육청은 어린이 독서 문화를 확산하기 위해 ‘2026 독서 중점 시범기관’ 10곳을 운영할 것을 예고했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘모든 학생을 주도적인 독자(讀者)로’&lt;br&gt;&lt;br&gt;2일 정부가 발표한 ‘학교 독서 교육 활성화 방안’의 최종 목표는 학교에서 체계적이고 지속적인 독서 교육을 해서 우리나라 모든 학생에게 인공지능(AI) 시대에 필요한 문해력 등 역량을 키워주겠다는 것이다. &lt;br&gt;&lt;br&gt;이를 위해 독서 교육을 전 과목으로 확대한다. 국어 시간뿐 아니라, 과학이나 사회 시간에도 자연스럽게 책을 읽도록 할 예정이다. 예컨대, 중학교 ‘환경’ 수업에서 학생들이 기후 위기에 대한 책을 읽고 토론을 한 다음 텃밭을 직접 가꿔보고 ‘교복 입은 환경운동가’로서 연설문을 써보는 식이다. 교육부는 이런 독서 연계 수업 모델을 2030년까지 매년 1000개씩 발굴해 교사들이 활용하게 할 예정이다. 독서 연계 수업을 16회 이상 운영하는 ‘선도 학교’도 매년 40곳씩 지정한다. &lt;br&gt;&lt;br&gt;초3·4, 중1, 고1은 ‘독서 집중 학년’으로 지정해 독서 지원을 대폭 확대한다. 교육부 측은 “이 학년들은 발달 단계상 독서 능력이 한 단계 도약하는 결정적 시기인데, 오히려 책과 멀어지는 경향이 있어 집중적 독서 교육이 필요하다”고 밝혔다. 중1은 진로를 탐색하는 ‘자유학기제’를 활용한다. 음악에 관심 있는 학생이라면 책을 읽고 작품의 분위기와 핵심 메시지를 노래로 만들어 불러보는 활동을 할 수 있다. 또 책만 읽고 끝나는 게 아니라 토론이나 글쓰기 같은 다양한 활동으로 확장하는 ‘독서 동아리’도 늘린다. 내년 500개를 시작으로 2030년에는 전국 모든 중학교에 동아리가 생길 수 있게 할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCPM56MX55D6TMX6PMANRHKRRE.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진로를 정해야 하는 고1은 ‘온라인 멘토링 활동’을 지원한다. 멘토 교사를 지정해줘서 학생이 관심 주제에 대한 고전을 읽고 진로를 탐색할 수 있게 하겠다는 것이다. ‘독서·인문 프로그램’도 활성화한다. 전남 한 고등학교는 목포의 대표적인 문학가 김우진, 김현, 차범석, 박화성의 발자취를 따라가는 ‘시월애 문학 여행’을 기획했는데, 앞으로는 이런 프로그램에 정부가 예산을 지원하겠다는 것이다. &lt;br&gt;&lt;br&gt;학교에 ‘책 읽기 문화’를 정착시키는 방안도 추진한다. 지금도 전교생이 매일 아침 10분씩 책을 읽고, 하루 종일 책과 놀면서 쉬는 ‘북크닉·북캉스’ 프로그램을 운영하는 학교가 있다. 이렇게 독서가 일상이 될 수 있는 프로그램을 운영하는 학교가 올해는 전국 1000곳으로, 2030년까지는 전국 모든 초·중·고교로 확대할 계획이다. 방학 때도 독서를 할 수 있게 매달 전자책 5권을 무료로 대여할 수 있게 지원하고, 학생이 독서 이력을 ‘독서로’ 사이트에 입력하면 자동으로 학교생활기록부에 입력될 수 있게 시스템도 고치기로 했다. &lt;br&gt;&lt;br&gt;학교 도서관 전담 인력도 늘린다. 도서관이 설치된 학교는 2002년 80.4%에서 2024년 98.4%로 늘었고, 학생 1인당 장서 수도 같은 기간 5.5권에서 37.8권으로 급증하는 등 인프라는 갖춰져 있다. 하지만 사서 교사 배치율은 16.5%에 그쳐 도서관이 독서 교육의 거점 역할을 못 하는 상황이다. 이에 교육부는 사서 교사 배치율을 2030년까지 30%로 끌어올릴 계획이다. &lt;br&gt;&lt;br&gt;교육부 관계자는 “AI를 주도적·창의적으로 활용하려면 비판적 읽기 역량이 필요한데, 이를 길러줄 독서 교육이 어느 때보다 중요해졌다”며 “그동안 책을 좋아하는 학생만 더 읽는 구조였다면, 이제는 모든 학생이 책과 가까워지도록 학교가 그 계기를 만들어주려는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>활짝 핀 연꽃, 사진으로 남겨요</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/07/03/5Q3MPHNV5ZFMHFDHCSXHIXRLCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/03/5Q3MPHNV5ZFMHFDHCSXHIXRLCM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QMDQGZ2LJF6NDZDHTAFE6WG4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민들이 2일 광주의 전남대 교내 호수인 용지(龍池)에 핀 연꽃을 구경하며 사진을 찍고 있는 모습. 연꽃은 7~8월에 핀다. 만개한 연꽃으로 가득한 전남대 용지는 광주를 대표하는 여름 명소로 꼽힌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한화오션 하청업체 노조, 원청 상대로 파업권 확보</title>
       <link>https://www.chosun.com/national/labor/2026/07/03/W46UTSAVF5A3JPRAGDIMXFCR6U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/07/03/W46UTSAVF5A3JPRAGDIMXFCR6U/</guid>
@@ -877,24 +891,6 @@
       <description/>
       <pubDate>Thu, 02 Jul 2026 15:46:00 +0000</pubDate>
       <content:encoded>한화오션 하청 노조가 원청인 한화오션을 상대로 합법적인 파업권을 획득했다. 지난 3월 노란봉투법 시행 뒤 하청 노조가 파업권을 얻은 첫 사례다.&lt;br&gt;&lt;br&gt;2일 노동계 등에 따르면 경남지방노동위원회는 민주노총 금속노조 거제·통영·고성 조선 하청 지회와 웰리브 지회(급식·청소업체 노조)가 한화오션을 상대로 신청한 조정 사건에 대해 이날 회의를 열고 조정 중지를 결정했다. 이날 결정으로 조선 하청 지회와 웰리브 지회는 한화오션을 상대로 합법적인 파업을 할 수 있게 됐다.&lt;br&gt;&lt;br&gt;두 노조는 노란봉투법이 시행된 당일인 지난 3월 10일 원청인 한화오션에 단체교섭을 요구했다. 중앙노동위원회는 지난달 15일 한화오션이 웰리브 지회의 실질적 사용자라는 취지의 판정을 내렸다. 두 노조는 이후 10차례 단체 교섭을 요구했지만, 한화오션은 모두 응하지 않았다. 이에 금속노조가 쟁의 조정 신청을 했고, 경남지노위가 이날 조정 중단을 선언ㄴ한 것이다. 두 노조는 우선 한화오션 측에 추가로 단체 교섭을 요구하고, 응하지 않으면 파업을 하겠다는 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김재연씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/07/03/AUT2C3DJVJA6DNLPVKQA56TAKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/07/03/AUT2C3DJVJA6DNLPVKQA56TAKM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강석열&lt;/b&gt; 별세, &lt;b&gt;강민구&lt;/b&gt; TV조선 보도본부 편집1부 차장·&lt;b&gt;강창구&lt;/b&gt; 한국보건산업진흥원 팀장 부친상=2일11시30분 이대목동병원, 발인 4일5시, (02)2650-5121&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김재연&lt;/b&gt; 별세,&lt;b&gt; 이병태&lt;/b&gt;·&lt;b&gt;이병선&lt;/b&gt;·&lt;b&gt;이미경&lt;/b&gt;·&lt;b&gt;이병철&lt;/b&gt; 모친상, &lt;b&gt;오동훈&lt;/b&gt; 경기신문 편집부장 장모상=1일21시 부산 중앙U병원, 발인 3일5시30분, (051)201-0468&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정하덕&lt;/b&gt; 별세, &lt;b&gt;정명재&lt;/b&gt; 김앤장 법률사무소 변호사·&lt;b&gt;정형석&lt;/b&gt; 더에이치에스 대표 부친상=2일6시 서울아산병원, 발인 4일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조현문&lt;/b&gt; 별세, &lt;b&gt;조재목&lt;/b&gt; 에이스리서치그룹 대표·&lt;b&gt;조재란&lt;/b&gt;·&lt;b&gt;조재민&lt;/b&gt;·&lt;b&gt;조경란&lt;/b&gt; 부친상=1일11시30분 대구가톨릭대의료원, 발인 3일8시30분, (053)650-3986&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 이한나·류희성 딸 연서 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/07/03/M63BZRC3XJANZDH4UIE2XDYBGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/03/M63BZRC3XJANZDH4UIE2XDYBGU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:41:00 +0000</pubDate>
-      <content:encoded>온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXTFDHADYRGTBGGD4TIKJZVYUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[스피킹이 강해지는 영어] rage bait</title>
