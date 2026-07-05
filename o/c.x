@@ -13,6 +13,75 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>역시 ‘월드 클래스’ 김효주, KLPGA 나왔다 하면 우승 </title>
+      <link>https://www.chosun.com/national/national_general/2026/07/05/3SXSE7FZ2ZHLVBRXS5C3NG226E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/05/3SXSE7FZ2ZHLVBRXS5C3NG226E/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 10:51:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZBOIDQ2WBEXVBI6OHLVDFJEKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김효주가 5일 KLPGA 투어 롯데 오픈 우승 후 신발에서 물을 빼내고 있다. 동료들이 그를 축하하며 생수를 뿌렸을 때 신발에 물이 들어갔다. /KLPGA &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUZVOKDCLZBRXAI73L2JBRVJWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김효주가 5일 롯데 오픈에서 우승한 뒤 롯데월드타워 모양의 트로피를 들어 보였다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;LPGA(미 여자프로골프) 투어 통산 9승을 거둔 ‘월드 클래스’ 김효주(31·세계 랭킹 3위)에게 국내 무대는 좁았다. &lt;br&gt;&lt;br&gt;김효주가 5일 인천 롯데 오픈에서 역전 우승을 차지하며 두 달 만에 또 국내 투어 우승을 신고했다. &lt;br&gt;&lt;br&gt;올 시즌 KLPGA(한국 여자프로골프) 투어에 두 번 나와 두 번 모두 정상에 올랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6TCAT634FDEXHDEF64I56Z6DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 KLPGA투어 롯데 오픈에서 우승한 김효주가 롯데월드 마스코트의 축하를 받고 시상식장에 들어서고 있다. /KLPGA
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김효주는 이날 인천 베어즈베스트 청라(파72)에서 열린 대회 최종 4라운드에서 보기 없이 버디만 5개를 잡아 최종 합계 15언더파를 기록, 박예지와 유현조, 이다연, 이세희를 1타 차로 따돌리고 우승했다. 전날까지 선두에 3타 뒤진 5위였지만 마지막 날 역전 드라마를 완성했다. &lt;br&gt;&lt;br&gt;지난 5월 NH투자증권 레이디스 챔피언십에 이어 시즌 두 번째이자 개인 통산 15번째 KLPGA 투어 우승이다. 상금은 2억1600만원. 올해 LPGA 투어에서 거둔 2승까지 더하면 시즌 4승째다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNT3KZMZTNDFBCCGEIWOBN4JNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김효주가 5일 롯데 오픈 6번홀에서 티샷을 하고 있다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김효주는 이날 티샷은 다소 흔들렸지만 날카로운 아이언샷으로 그린을 단 두 차례만 놓치며 그린 적중률 88.89%를 기록했다. 여기에 장기인 정교한 퍼트가 동반자들을 압박했다. 4번홀에서 16.6m 롱 퍼트로 버디를 잡은 장면이 백미였다. &lt;br&gt;&lt;br&gt;이 홀을 포함해 전반에만 4타를 줄이며 선두권으로 치고 올라섰고, 라운드 막판 경쟁자들이 잇따라 흔들리는 사이 깔끔하게 파를 잡아 선두를 지켜냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2WGMJQGEZDKZLFGI2DKNBYGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김효주가 5일 KLPGA투어 롯데 오픈에서 우승한 뒤 동료들의 생수 축하를 받고 있다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김효주는 올 시즌 향상된 경기력에 대해 “체력이 비결”이라고 말했다. “체력이 완벽하게 뒷받침돼야만 원하는 날카로운 스윙이 끝까지 가능하고, 위기 때 멘털 부분도 단단하게 유지할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;한 시즌 개인 최다승(2014년 5승) 기록과 관련해선 “올해 넘어설 가능성이 있다고 생각하고, 자신도 있다”고 했다. “2014년의 나보다 지금이 골프 내적으로, 멘털적으로 훨씬 성숙하다고 느끼기 때문”이라고 했다. &lt;br&gt;&lt;br&gt;그는 “골프든 체력 훈련이든 어릴 때보다 더 많은 노력을 하는 것이 기량을 유지하는 비결인 것 같다”며 “에비앙 챔피언십에 좋은 기억을 가져갈 수 있어 기분 좋다”고 말했다.&lt;br&gt;&lt;br&gt;김효주는 오는 9일 프랑스에서 개막하는 LPGA 투어 메이저 대회 에비앙 챔피언십에 출전한다. 그는 2014년 비회원 신분으로 이 대회 정상에 오른 이후 메이저 우승과는 인연을 맺지 못하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PZBOIDQ2WBEXVBI6OHLVDFJEKM.jpg?auth=f555f840b015d37f4398b5b0111e7e0fb1697e8b7f2a88fbf0b3615f2532fcbc&amp;smart=true&amp;width=3620&amp;height=2413" type="image/jpeg" height="2413" width="3620">
+        <media:description type="plain">/KLPGA 제공
+</media:description>
+        <media:credit role="author" scheme="urn:ebu">LEEKWANGHWAN 01034442438</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[리빙포인트] 수박 더 달게 먹으려면</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/05/Z2JLPPPS4RGK3JLM5QKBRKYT7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/05/Z2JLPPPS4RGK3JLM5QKBRKYT7E/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 14:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDPPKHPC55EFJCPNQUYIMJD5VE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수박에 소금을 살짝 뿌리면 더 달달하게 먹을 수 있다. 여름철 땀 흘린 뒤 먹으면 수분과 나트륨을 동시에 보충할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 7월 6일    </title>
+      <link>https://www.chosun.com/national/national_general/2026/07/05/X6PZ2OU7ARHCXDZLSWKEAQSBJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/05/X6PZ2OU7ARHCXDZLSWKEAQSBJ4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 14:35:00 +0000</pubDate>
+      <content:encoded> 전국에 비...최고 체감온도 32도&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FFSZSTWK5ELTG7TSMRMQJF2AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시청 ‘하늘전망대’ 6일 개방… 덕수궁·광화문 한눈에</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/05/BPMO5U6RCZFVXLR2GIXSBSTDGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/05/BPMO5U6RCZFVXLR2GIXSBSTDGU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 12:33:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WKZTDGFRTKOLEGZQTMNBRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;덕수궁과 정동, 광화문 일대를 한눈에 내려다볼 수 있는 서울시청 전망 공간이 시민들에게 처음 개방된다.&lt;br&gt;&lt;br&gt;5일 서울시에 따르면, 시는 오는 6일부터 시청사 서편 8·9층에 새로 조성한 ‘하늘전망대’를 개방한다.&lt;br&gt;&lt;br&gt;하늘전망대는 소파와 나무 데크 등을 갖춘 휴식 공간으로, 시민들이 잠시 쉬어가며 서울 도심 풍경을 감상할 수 있도록 꾸며졌다. 남쪽으로는 덕수궁과 정동, 북쪽으로는 광화문 광장 일대까지 한눈에 들어온다.&lt;br&gt;&lt;br&gt;전망대는 평일 오전 7시 30분부터 오후 6시까지 무료로 이용할 수 있다. 별도 예약은 필요 없다. 시청 1층에서 9층 ‘하늘광장’ 카페로 연결되는 엘리베이터를 이용하면 된다.&lt;br&gt;&lt;br&gt;이곳은 그동안 8층 다목적실과 연결된 대기 공간으로 사용돼 외부에는 개방되지 않았다. 서울시는 시민들도 이 공간을 이용할 수 있도록 지난해 9월부터 전망대 조성에 나섰다. 조망을 넓히기 위해 청사 서측 외벽 일부를 투명 유리로 교체했다.&lt;br&gt;&lt;br&gt;서울시는 앞으로 내부 시설을 추가로 정비해 이용 환경을 개선할 계획이다. 서울시 관계자는 “하늘전망대가 서소문청사 13층 ‘정동전망대’와 함께 서울 도심을 대표하는 전망 명소로 자리 잡을 것으로 기대된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 살인범 父와 수십차례 통화... 혈흔 묻은 차도 돌려줘</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/07/05/OAWWQDUHB5CARK4IELCXO6OZLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/07/05/OAWWQDUHB5CARK4IELCXO6OZLI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 12:32:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDAMRVGI2TKZLCG4YWCNZXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 도심에서 10대 여고생을 살해한 장윤기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘광주 여고생 살인’ 사건과 관련해 경찰 수사팀이 살인범 장윤기의 아버지(현직 경찰 간부)와 수십차례 통화하며 수사 내용을 공유한 것으로 확인됐다. 범행에 사용된 혈흔이 남은 차량도 장윤기 체포 다음 날 부친에게 돌려준 것으로 드러났다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면 전남광주 광산경찰서 수사팀은 장윤기를 수사하는 과정에서 현직 경찰 간부인 장윤기 부친과 수십차례 통화한 것으로 확인됐다. 통화에서는 장윤기의 구속영장 신청 방침 등 수사 진행 상황 내용이 오간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이와 함께 경찰은 장윤기가 범행에 쓴 차량을 체포 이튿날 부친에게 돌려준 것으로 확인됐다. 범행 당시 장윤기는 달아나는 과정에서 차량 뒷문을 닫다가 차체에 피해자의 혈흔을 남긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;범행 증거로 쓰일 수 있는 혈흔이 묻은 차량을 압수하지 않고 부친에게 넘겨줬다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 광산경찰서 수사 과정과 장윤기 부친의 사건 관여 여부 등을 감찰하고 있다. 법 위반 정황이 확인되면 수사로 전환하는 방안도 검토 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주일고, 배재고의 사죄 방문 앞두고 경찰에 시설보호 요청</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/07/05/5OHKXMYY3NEFRDRLMTI2JCRN3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/07/05/5OHKXMYY3NEFRDRLMTI2JCRN3M/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 11:38:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GEMZRGNSDCMRWMVRTCYRVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동구 배재고등학교 정문 앞에 5·18 민주화 운동 조롱 응원을 규탄하는 근조화환이 놓여있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 야구 대회에서 5·18 민주화 운동을 조롱하는 응원을 한 배재고등학교의 사죄 방문을 앞두고 전남광주통합특별시 광주제일고등학교가 경찰에 시설 보호 요청을 했다.&lt;br&gt;&lt;br&gt;5일 경찰에 따르면 광주일고는지난 3일 안전사고에 대비하기 위해 경찰에 시설 보호를 요청했다.&lt;br&gt;&lt;br&gt;오는 6일 배재고 야구부 학생들이 사죄 방문할 때 인파가 몰리거나 충돌이 발생할 가능성에 대비하기 위함이다.&lt;br&gt;&lt;br&gt;경찰은 광주일고의 요청에 따라 수십명의 경찰 인력을 학교 인근에 배치해 돌발·충돌 상황에 대비하기로 했다.&lt;br&gt;&lt;br&gt;다만, 경찰 인력은 학교 외부의 질서 유지에 집중하고, 학교 내부는 광주일고 측이 자체 관리하기로 했다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 지난 4일 광주일고에 폭발물을 설치했다는 내용의 협박 글이 온라인 커뮤니티에 올라오면서 수색작업을 벌이기도 했다. 수색 결과 폭발물은 없었지만, 경찰은 게시글 작성자 추적에 나섰다.&lt;br&gt;&lt;br&gt;배재고 야구부 학생들은 지난달 29일 서울 목동구장에서 열린 제81회 청룡기 전국고교야구선수권대회 겸 주말리그 왕중왕전 광주일고와의 경기에서 “스타벅스 가야지”라거나 “탱크 데이”라는 5·18 조롱성 구호를 외쳐 논란이 일었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 설악산에서 추락사고 잇따라… 등산객 2명 중상</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2026/07/05/QE7WNVQBZVAIDHNQMBHI6DUIIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/07/05/QE7WNVQBZVAIDHNQMBHI6DUIIY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 11:26:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTKOBXMU2WIMDDMYYDMZJVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 설악산 국립공원 구조대원들이 추락사고 부상자 이송하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7월 첫 주말 설악산 국립공원에서 추락사고가 잇따라 2명이 다쳤다.&lt;br&gt;&lt;br&gt;5일 오전 11시 40분쯤 강원 인제군 북면 설악산 국립공원 두문폭포 인근에서 A(여·60대)씨가 산행 중 약 15m 아래 계곡으로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 다리에 골절상을 입었다. 국립공원공단 특수구조대와 119구조대는 기상 악화로 헬기 접근이 어렵다고 판단해 A씨를 들것으로 산 아래로 옮긴 후 병원으로 이송했다.&lt;br&gt;&lt;br&gt;지난 4일 오후 2시 55분쯤에는 속초시 설악동 희야봉 암벽 구간에서 B(60대)씨가 낙석에 맞아 10여m 아래로 떨어졌다. 머리와 허리 등을 다친 B씨는 헬기를 통해 원주의 대형병원으로 이송됐다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “돌무더기가 깔린 곳이나 급경사, 안전로프가 없는 곳에서 사고가 자주 발생한다”면서 “등산객들의 발 밑을 주의하며 산행해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“80대 승객이 40대 기사 폭행”… 시내버스가 가로수 들이받아</title>
       <link>https://www.chosun.com/national/regional/2026/07/05/QWKZCT6LAZD6FGMTHNT2HAWDCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/05/QWKZCT6LAZD6FGMTHNT2HAWDCA/</guid>
@@ -882,33 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서천의 한 하천에서 60대 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;3일 소방당국에 따르면 이날 오후 6시 35분쯤 서천군 기산면의 한 하천에서 “사람이 물에 빠져있다”는 119 신고가 접수됐다. &lt;br&gt;&lt;br&gt;주민의 신고를 받고 출동한 소방당국은 물에 빠진 60대 남성 A씨를 발견했다.&lt;br&gt;&lt;br&gt;소방당국 출동 당시 A씨는 이미 숨진 뒤였다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 A씨의 부검을 의뢰해 정확한 사망 원인 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>박성재 ‘수사무마 청탁’ 공소기각에 항소했지만 법원서 기각</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/03/OT3PAUCUVRHOTLTHM7NVNNGJVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/03/OT3PAUCUVRHOTLTHM7NVNNGJVQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 10:15:13 +0000</pubDate>
-      <content:encoded>박성재 전 법무부 장관이 김건희 여사로부터 수사 무마 청탁을 받았다는 혐의에 대해 “공소기각 대신 무죄를 선고해달라”며 항소했지만 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZDSMZZMIZTIZLDME2TIMLCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 지난달 22일 오후 서울 서초구 중앙지방법원에서 열린 내란중요임무종사, 청탁금지법 위반 등 혐의 1심 선고 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 지난 2일 박 전 장관 측이 청탁금지법 혐의 사건에 낸 항소에 대해 항소기각 결정을 내렸다. 형사소송법 360조 1항은 항소 제기가 법률상 방식에 위반한 것이 명백할 경우, 원심 법원이 결정을 통해 항소를 기각하도록 규정한다. 부장판사 출신 변호사는 “피고인이 무죄에 대해 항소할 수 없듯, 공소기각에 대해서도 마찬가지”라며 “이 경우 상소의 이익이 없다는 대법원 판례도 다수 있다”라고 했다.&lt;br&gt;&lt;br&gt;다만 이번 기각 결정은 공소기각이 나온 ‘수사 무마’ 혐의에만 적용되는 것으로, 1심에서 유죄가 인정됐던 내란 관련 혐의에 대한 항소는 유효하다.&lt;br&gt;&lt;br&gt;이완규 전 법제처장도 공소기각이 나온 위증 혐의 1심 판결에 항소했지만, 마찬가지로 항소기각 결정이 나왔다. 이 전 처장은 “항소기각 결정을 예상했지만 너무 억울해서 항소를 했다”며 “(항소기각 결정에 대해) 즉시항고도 할 것”이라고 했다. 이 전 처장은 “계엄 해제 직후 ‘안가 회동’에서 계엄에 관한 논의가 없었다”고 국회에서 위증한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;박 전 장관은 2024년 12월 3일 비상계엄 선포 직후 법무부 간부 회의를 소집해 계엄사령부 합동수사본부에 검사 파견을 검토하도록 하고, 교정 시설 수용 여력을 점검, 출국 금지 담당 직원 출근을 지시하는 등 윤석열 전 대통령의 내란 범죄에 순차적으로 가담한 혐의(내란 중요 임무 종사) 등을 받는다.&lt;br&gt;&lt;br&gt;지난달 22일 1심 재판부는 내란 혐의가 유죄라고 보고 박 전 장관에게 징역 25년을 선고했다. 다만 박 전 장관이 김건희 여사 청탁을 받고 김 여사의 ‘디올백 의혹’ 수사 상황을 파악한 혐의(청탁금지법 위반)에 대해선 “특검의 수사 범위를 벗어났다”며 공소기각 판결을 내렸다.&lt;br&gt;&lt;br&gt;다만 두 사람의 공소기각 혐의에 대해 내란특검이 항소를 제기한 만큼, 항소심에선 공소기각이 적절했는지 여부를 다시 심리할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 태종대 관광 열차, 운행 재개 2달 만에 또 사고… 2명 다쳐</title>
-      <link>https://www.chosun.com/national/incident/2026/07/03/IKV26X2MF5FIRIOT2SXFYHZGH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/03/IKV26X2MF5FIRIOT2SXFYHZGH4/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 09:57:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GZ24Z3Q5FCLXD4VYGYKXOV7BM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연결부위 끊어진 다누비 열차. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 태종대 유원지에서 운행되는 관광 열차의 객차 연결 부위가 파손돼 승객 2명이 다쳤다. 지난 4월에도 비슷한 사고가 발생해 4명이 다쳤다.&lt;br&gt;&lt;br&gt;3일 부산관광공사와 영도경찰서 등에 따르면, 이날 오전 11시 13분쯤 영도구 태종대 유원지 내에서 다누비 열차의 객실이 인근 가로수와 조경석을 잇따라 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 20대 남성 승객 2명이 다쳤다. 이 중 1명은 이마가 찢어져 인근 병원으로 이송돼 치료를 받았다.&lt;br&gt;&lt;br&gt;경찰은 동력차와 1번 객차 사이의 연결 부품이 파손돼 사고가 난 것으로 보고 있다. &lt;br&gt;&lt;br&gt;다누비 열차는 지난 4월에도 비슷한 사고가 발생해 외국인 관광객을 포함해 4명이 다쳤다. 당시에도 열차 연결 부위가 고장 나 열차가 기울면서 사고가 발생했다.&lt;br&gt;&lt;br&gt;사고 이후 부산관광공사는 운행을 중단했다가 열차 제작 업체와 한국안전기술협회 점검을 거쳐 부품을 모두 교체한 후 4월 말 운행을 재개했다. &lt;br&gt;&lt;br&gt;부산관광공사 관계자는 “사고가 난 열차는 지난 4월 사고가 난 열차와 다른 차량으로 파악된다”며 “정확한 원인이 파악될 때까지 열차 운행을 중단하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;한편 다누비 열차는 태종대 유원지 4㎞ 구간을 순환 운행하는 관광열차로, 지난해 54만명이 이용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“5·18은 폭동”...허위사실 유포한 20대 女, 송치</title>
-      <link>https://www.chosun.com/national/incident/2026/07/03/FTRFLXDNRFG2VLLDMLQDSVFQG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/03/FTRFLXDNRFG2VLLDMLQDSVFQG4/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 09:32:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2OU4ICOQBGX7EBVPMKH2Z7BEE.png"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 블로그에 올린 게시글. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 블로그에 5·18 민주화운동을 폭동이라고 주장한 20대 여성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산진경찰서는 5·18 민주화운동 등에 관한 특별법 위반 혐의로 20대 여성 A씨를 불구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2025년 5월 18일 자신의 블로그에 ‘5·18 폭동 혁명 민주화 전두환, 박정희 무장 공비 사건 그날의 실체’라는 제목으로 글을 올린 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “호기심 차원에서 공개 채팅방의 글을 복사해 붙여넣기했다”면서 “이 행위가 죄가 되는지 몰랐다”고 진술했다. 해당 글은 고발장 접수 이후 A씨가 직접 삭제한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현행법상 5·18 민주화운동에 대한 허위 사실을 유포할 경우 5년 이하의 징역 또는 5000만원 이하의 벌금형에 처해진다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “앞으로도 5·18 민주화운동의 의미가 훼손되지 않도록 허위 사실 유포에 대해 지속해서 엄정하게 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘딸 교수 임용 의혹’…경찰, 유승민 전 의원 입건</title>
       <link>https://www.chosun.com/national/national_general/2026/07/03/A7SO3QNL65C7RJDURBP7H24CZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/A7SO3QNL65C7RJDURBP7H24CZA/</guid>
@@ -921,36 +963,6 @@
       </media:content>
     </item>
     <item>
-      <title>비탈길 뛰고도 ‘원샷원킬’... 월드컵만큼 뜨거운 경찰 스나이퍼 대결</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/EHGDUB34BRFQVPSJVVYW4PUA7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/EHGDUB34BRFQVPSJVVYW4PUA7I/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 08:20:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5UUMWRSUJK3XC54CWEV7ACFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서초구 서울특공대에서 열린 제20회 경찰특공대 전술평가대회에서 특공대원들이 차량내 저격을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“표적 확인. 찾았다!” 차량에 올라탄 특공대원이 동료의 도움을 받아 수십 개의 표적 중 목표물을 포착했다. 3초간의 정적 후 귀를 뚫는 총성과 함께 차창 사이로 저격총의 탄환이 발사됐고, 철제 표적이 맞는 경쾌한 소리가 났다. “임팩트!” 대회 관계자가 표적을 맞혔다는 구호를 외쳤고, 특공대원들은 다음 표적으로 넘어가 같은 과정을 반복했다. 총 10개의 표적을 모두 맞힌 대원들은 총기와 장비를 정리한 뒤 대회장을 빠져나와 진한 포옹과 함께 서로를 격려했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSHNNIKJXBFJFNN7ZKLFVGDZXM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;경찰특공대 전술평가대회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 9시 서초구 서울특공대에서 경찰청이 주관하는 제20회 경찰특공대 전술평가대회 중 마지막 종목인 저격수 능력 평가가 열렸다. 경찰청 대테러안전과는 지난달 15일부터 서울·인천·세종특공대 등 6곳에서 제20회 경찰특공대 전술평가대회를 진행했다. 종목별로 각각 다른 지역 특공대에서 평가가 열렸고, 이날 서울특공대에서 진행된 저격수 능력 평가를 끝으로 대회가 종료됐다.&lt;br&gt;&lt;br&gt;이날 저격수 능력 평가에는 전국 17개 경찰특공대에서 2명씩 팀을 꾸려 총 34명이 참가했다. 도심지 인질 테러를 가정한 평가로, 제한 시간 9분 내에 오르막을 뛰어 올라가 권총 사격과 저격 사격을 모두 마치는 임무였다. 저격용 총기와 방탄복, 전술 벨트 등을 모두 합치면 한 대원이 휴대하는 장비의 무게는 약 20kg, 운동장에서부터 저격 사격장까지 코스의 길이는 약 200m였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4CD3NM7YBOH3L4KBSW4WC3GFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서초구 서울경찰특공대에서 열린 제20회 경찰특공대 전술평가대회에서 특공대원들이 언덕을 오르고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운동장에서 출발해 비탈길을 오르니 첫 번째 사격장에서 지름 15cm짜리 노란색 표적 10개가 대원들을 기다리고 있었다. 각자에게 주어진 실탄은 7발, 9mm 권총으로 한 사람당 7발 중 5발을 맞히면 통과였다. 출발점에서부터 100m가 넘는 거리를 달려온 대원들은 숨을 헐떡일 새도 없이 권총을 꺼내 들었다. 망설임 없이 방아쇠를 다섯 번 당겼다. 표적을 모두 맞히는 데 10초도 채 걸리지 않았다.&lt;br&gt;&lt;br&gt;권총 사격을 마치고 다른 비탈길로 오르니 저격 사격장이 나왔다. 저격 사격장에는 검은색 밴이 표적들 앞에 자리해 있었다. 2명의 대원은 각자 차량 안과 바깥에서 저격총을 꺼내 들고 스코프(망원 조준경)를 통해 표적을 살폈다. 이들의 목표는 출발점에서 전달받은 10개의 문양에 맞춰 표적을 식별하고, 표적 중앙에 있는 지름 1.5㎝의 원을 명중시키는 것.&lt;br&gt;&lt;br&gt;권총과 마찬가지로 각자에게 주어진 실탄은 7발. 서로가 사수와 부사수의 역할을 번갈아 하며 저격 임무를 수행했다. 사람 상반신 모양의 종이 표적부터 철제로 된 네모난 표적까지 수십 개의 표적 사이에서 목표물을 찾아내야 했다. &lt;br&gt;&lt;br&gt;“2구역 하수구 옆에!” “거리는?” “70m!” “찾았다!” 마치 실제 상황인 것처럼 긴박한 대화가 이어졌다. 20kg의 장비를 메고 언덕을 올라 심박수가 최고로 높아진 상태였지만, 저격수들은 침착하게 호흡을 가다듬고 10개의 표적을 맞혀냈다. 두 대원이 마지막 한 발을 쏜 뒤 “완료!” 신호를 대회 관계자에게 전하면서 평가가 종료됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6URL66PGTBKBZHVHKOQFM72EOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서초구 서울특공대에서 열린 제20회 경찰특공대 전술평가대회에서 특공대원이 권총사격을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 평가를 마치고 취재진과 만난 조승범 경기북부특공대 대원은 “표적이 사람 눈알만 한 크기인데, 심박수가 높아진 상태에서 정밀 사격하기 위해 여러 방향으로 준비했다”면서 “(제한 시간 때문에) 상황이 긴박했고 여유가 없었다”고 했다.&lt;br&gt;&lt;br&gt;이어 그는 “대회장 상황에 맞게 준비했는데도 변수가 많았는데, 실전에 나가면 더 어렵고 힘든 환경이 있을 것”이라며 “항상 최악의 환경을 가정하고 준비해야 실전에서 더 잘할 수 있을 거란 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;이날 저격 능력 평가에서는 전남특공대가 1위를 차지했고, 세종특공대가 2위, 대구특공대가 3위로 뒤를 이었다. 우수한 성적을 낸 대원들은 특별승급 및 경찰청장 표장 등을 포상으로 받는다.&lt;br&gt;&lt;br&gt;경찰특공대 전술평가대회는 지난 2007년부터 매년 개최됐다. 이번 대회에는 저격 종목을 포함해 전술·폭발물 탐지 및 처리·탐지견 운용 등 6개 종목에 전국 경찰특공대원 196명이 참여했다. 경찰청 관계자는 “각 지역 경찰특공대의 교류·협력을 강화하고 실전 감각을 유지하고자 매년 평가 대회를 여는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TSHNNIKJXBFJFNN7ZKLFVGDZXM.gif?auth=1af961b22aad9ba74d63af60a77ed5c7fb49d31175791225f21ec5ba955f7644&amp;smart=true&amp;width=1000&amp;height=659" type="image/jpeg" height="659" width="1000">
-        <media:description type="plain">경찰특공대 전술평가대회 롤링</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“도로에 사람이” 신고... 출동한 순찰차가 밟아 숨지게 했다 </title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/LOR5JE524BBVPDRWWR74KYHJOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/LOR5JE524BBVPDRWWR74KYHJOA/</guid>
-      <dc:creator>인천=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 06:56:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4DEM3CGEZDOOLGHAYWINZWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로에 사람이 쓰러져 있다는 신고를 받고 출동한 경찰관이 구조 대상차를 차로 밟아 숨지게 하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 교통사고처리특례법상 치사 혐의로 모 지구대 소속 20대 여성 A순경을 조사 중이라고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A순경은 이날 오전 0시 45분쯤 미추홀구 숭의동의 한 도로에서 순찰차를 운전하던 중 도로 위에 누워 있던 60대 여성을 차량으로 밟고 지나가 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;숨진 여성은 사고 현장 인근에 거주하던 주민으로 파악됐다.&lt;br&gt;&lt;br&gt;당시 A순경은 “도로 위에 사람이 쓰러져 있다”는 신고를 받고 같은 지구대 소속 B경사와 함께 현장에 출동했다가 사고를 낸 것으로 확인됐다. &lt;br&gt;&lt;br&gt;사고 지점은 좌회전 구간과 접하는 곳으로 다소 어두웠던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A순경은 “여성이 누워있는 걸 제대로 보지 못했다”는 취지로 설명한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 CCTV를 통해 여성이 사고 전 비틀거리는 모습을 확인하고 도로에 누운 경위를 살펴보고 있다. &lt;br&gt;&lt;br&gt;이와 함께 A순경에 대해 사고 경위와 전방 주시 여부 등을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>샌드위치 가게에 차가 돌진... 서울 논현역 인근서 5명 부상</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/THUYR62UVRFBFE4CP5225OFFW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/THUYR62UVRFBFE4CP5225OFFW4/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 08:24:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWS7BHMDUVGJPO5ZZKZLJEDYAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 1시 50분쯤 논현역 인근 샌드위치 매장으로 승용차 1대가 돌진했다./스레드 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초구 논현역 인근에서 샌드위치 매장 안으로 차량이 후진해 들이닥치는 사고가 발생했다. &lt;br&gt;&lt;br&gt;경찰과 소방 등에 따르면 3일 오후 1시 50분쯤 서울 논현역 인근 한 프랜차이즈 샌드위치 가게 앞에서 후진하던 흰색 차량이 가게 통유리창을 깨고 안까지 진입했다.&lt;br&gt;&lt;br&gt;이 사고로 고객과 행인 등 5명이 다쳤다. 그중 1명은 팔과 다리 등이 부러지는 중상을 입었지만 생명에는 지장이 없는 것으로 전해졌다. 이송을 거부한 1명을 제외하고 중상자를 포함해 부상자 4명은 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면 운전자인 70대 남성은 해당 건물 주차 관리인으로, 주차돼 있던 고객 차량을 빼 주다가 사고가 난 것으로 조사됐다. 경찰은 음주나 약물 운전은 아닌 것으로 보고 구체적인 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>종합특검 또,또,또... ’30일 연장' 3차 요청</title>
       <link>https://www.chosun.com/national/court_law/2026/07/03/QSYCKUT43NALXORYLYKDRXZ5EI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/03/QSYCKUT43NALXORYLYKDRXZ5EI/</guid>
@@ -958,19 +970,6 @@
       <description/>
       <pubDate>Fri, 03 Jul 2026 07:38:11 +0000</pubDate>
       <content:encoded>2차 종합특검(특별검사 권창영)이 특검법 개정을 통해 수사 기한을 추가로 30일 연장해 달라고 국회에 요청한 것으로 전해졌다. 특검은 또 특별수사관들이 공소유지를 할 수 있도록 법을 개정해 달라고도 요청했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2DSNJYGI3TKMZZGVTGCY3EMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 특별검사ⓒ 뉴스1 황기선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 특검 측은 “지난 1일 국회 법제사법위원회 위원장에게 특검법 개정 요청안을 보냈다”고 밝혔다. 특검법을 개정해 수사 기간을 추가 연장해 달라는 취지다. 현행 특검법은 특검이 30일씩 두 차례 수사 기간을 연장할 수 있도록 규정하고 있다. 지난 2월 25일 수사를 개시한 특검은 90일간의 수사 기한을 소진한 뒤 두 차례 수사 기간 연장을 신청했고, 오는 24일 수사 종료를 앞두고 있다. 이에 특검은 한 차례(30일) 더 수사 기간을 연장할 수 있도록 특검법을 개정해 달라고 요청했다고 한다.&lt;br&gt;&lt;br&gt;요청안엔 특검법 개정을 통해 인력난을 해소해 달라는 내용도 담긴 것으로 전해졌다. 특검은 요청안에서 수사력 유지와 원활한 공소유지를 위해 ‘공소유지 변호사’ 제도를 만들어달라고 했다. 변호사 자격이 있는 특별수사관이 공소유지 업무를 맡을 수 있도록 해야 한다는 것이다. 형사소송법상 기소와 공소유지는 검사만 할 수 있는데, 재판에 투입되는 검사 인력을 줄여 수사에 집중하도록 하겠다는 취지다. 앞서 특검은 지난 3월에도 국회에 같은 요청을 했다.&lt;br&gt;&lt;br&gt;특검은 또 현재 130명인 파견 공무원 정원을 150명으로 늘려달라고도 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배재고, 광주일고 사과 방문... 5·18 민주묘지도 참배 예정</title>
-      <link>https://www.chosun.com/national/education/2026/07/03/5KWTSDCYIRBGRDGHSN6PEY6U3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/03/5KWTSDCYIRBGRDGHSN6PEY6U3A/</guid>
-      <dc:creator>황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 05:00:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QV2TUE6ZB5AURIMMJHGQHBXRE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 강동구 배재고등학교 앞에 배재고등학교 야구부를 비판하는 근조화환과 응원하는 화환이 놓여 있다./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시합 중 5·18 민주화운동을 조롱하는 구호를 외쳐 논란이 된 서울 배재고 야구부가 오는 6일 광주제일고를 찾아 사과한다.&lt;br&gt;&lt;br&gt;3일 서울시교육청에 따르면 배재고 교직원과 지도자, 야구부 선수, 학부모, 교육청 관계자 등 약 80명이 6일 오후 3시 광주제일고를 방문한다. 이들은 30분동안 강당에서 사과와 화해의 시간을 가진 뒤, 오후 4시부터 국립 5·18민주묘지를 함께 참배한다. &lt;br&gt;&lt;br&gt;앞서 지난달 29일 고교야구 대회 중 배재고 덕아웃에서 일부 학생이 ‘스타벅스 가야지’, ‘탱크데이’ 등의 구호를 외쳤다. 이 구호가 5·18을 조롱하는 표현으로 받아들여지면서 광주제일고가 항의했고, 논란이 전국으로 번졌다.&lt;br&gt;&lt;br&gt;배재고는 사건 이후 야구부 훈련을 중단하고, 야구부와 전교생을 대상으로 인권·윤리 교육을 실시했다. 학교 홈페이지에는 지난달 30일 학교 명의로, 이달 2일에는 총동창회 명의로 사과문을 올렸다. 구호를 먼저 외친 학생 2명과 이에 동조한 학생들은 생활교육위원회에 회부되며, 회의는 기말고사 이후 열릴 예정이다. 대한야구소프트볼협회(KBSA)는 지난 1일 스포츠공정위원회를 열어 배재고 야구부에 출전정지 6개월을 통보하기도 했다.&lt;br&gt;&lt;br&gt;서울시교육청은 8일부터 배재고 전교생을 대상으로 역사·인권·차별 예방 교육을 지원하고, 다음달 21일까지 서울 전체 학교운동부를 방문해 점검할 계획이다. .&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BGQYBUEBWFBJNAVILKO4R5H2UA.jpg?auth=4f2c749f0a2eeee3961f481abdcf42eda5f9f7f58cd0ed08903566323af446da&amp;smart=true&amp;width=4978&amp;height=2800" type="image/jpeg" height="2800" width="4978">
-        <media:description type="plain">2026년 7월 2일 서울 강동구 배재고등학교 앞에 배재고등학교 야구부를 비판하는 근조화환과 응원하는 화환이 놓여 있다./고운호 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>[스피킹이 강해지는 영어] rage bait</title>
