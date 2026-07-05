@@ -13,6 +13,124 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 고대병원, 의료기관 유튜브 구독자 ‘세계 1위’ 달성 </title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/07/05/7BSXQKUUMZDH5JOZ54Z4GGRAWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/05/7BSXQKUUMZDH5JOZ54Z4GGRAWM/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 05:25:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNVHS3OT4NDJNE7F2SLRAXZBA4.png"&gt;&lt;figcaption&gt;&lt;small&gt;'고대병원' 유튜브 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대학교의료원 공식 유튜브 채널 ‘고대병원’이 전 세계 의료기관 공식 유튜브 채널 가운데 구독자 수 1위에 올랐다. &lt;br&gt;&lt;br&gt;5일 고려대의료원에 따르면, ‘고대병원’ 채널은 최근 구독자 수 126만명을 달성해 미국의 메이요클리닉(125만명)을 제치고 가장 많은 구독자를 보유하게 됐다. 존스홉킨스병원(49만명), 클리블랜드 클리닉(74만명) 등 세계 유수의 의료기관들에도 한참 앞서는 수치다. &lt;br&gt;&lt;br&gt;‘고대병원’은 지난해 12월 국내 의료기관 최초로 구독자 100만명을 돌파한 이후 약 반년 만에 26만명을 더 끌어모았다. 컨텐츠 양도 방대하다. 현재 고대병원 채널에 올라온 영상은 5500여 편, 채널 누적 조회 수는 약 2억1100만회에 달한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Y54H62CKNAOBKBFLKCCUKF27Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;'고대병원'이 제작한 숏츠형 웹드라마 '바이탈사인/고대병원 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대의료원 측은 단순 질환 설명에 그치지 않고 다양한 콘텐츠를 시도한 점을 성공 비결로 꼽았다. 기존 병원 유튜브 채널이 중장년층 건강 정보 수요에 집중해 온 것과 달리, 웹드라마, 예능형 콘텐츠, 쇼츠 등 다양한 콘텐츠로 젊은 층까지 끌어들였다는 설명이다. 병원 관계자는 “2030이 전체 시청층의 절반 가까이 차지할 정도로 청년 구독자 비율이 높다”고 했다. &lt;br&gt;&lt;br&gt;유튜브 영상을 보고 병원을 찾는 환자도 적지 않다. 특정 질환 관련 콘텐츠를 본 뒤 해당 진료과나 영상에 출연한 의료진의 진료를 받고 싶다는 문의가 꾸준하다는 것이다. 신생아 중환자실(NICU)을 다룬 영상에는 미숙아들이 의료진의 치료와 보살핌을 거쳐 건강하게 자라고 있다는 보호자들의 감사 인사가 이어지기도 했다. &lt;br&gt;&lt;br&gt;유튜브 채널이 성장할수록 처음에는 출연을 부담스러워했던 의료진의 자발적 참여도 늘고 있다. 병원 관계자는 “처음에는 촬영이나 얼굴 공개 자체를 다소 부담스러워하는 경우도 있었지만, 요즘에는 의료진이 직접 콘텐츠 아이디어를 제안하거나 최신 치료법 등을 소개하고 싶다고 먼저 요청하는 경우도 많아졌다”고 했다. &lt;br&gt;&lt;br&gt;고려대의료원은 “이번 기록은 단순한 구독자 수 경쟁을 넘어 대학병원이 생산하는 정확하고 신뢰할 수 있는 의학정보가 전 세계 시청자들의 선택을 받았다는 점에서 의미가 크다”고 했다. 이어 “대한민국을 넘어 글로벌 대표 의료기관 유튜브 채널로서 정확하고 신뢰할 수 있는 의학정보를 제공하며 공익적 역할을 충실히 이어가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VNVHS3OT4NDJNE7F2SLRAXZBA4.png?auth=3b0050bd4fc4169144c81b6c99a45c1f052922c78f2978b4e8c98c13b776e3e2&amp;smart=true&amp;width=1390&amp;height=502" type="image/png" height="502" width="1390">
+        <media:description type="plain">'고대병원' 유튜브 캡쳐</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>비 와도 더위 안 꺾인다…장맛비 속 낮 최고 33도</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/07/05/OK5V4PZLLBBQ3O3RQTPHIRS2PA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/05/OK5V4PZLLBBQ3O3RQTPHIRS2PA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 04:17:45 +0000</pubDate>
+      <content:encoded>월요일인 6일엔 정체전선과 기압골의 영향으로 전국 곳곳에 장맛비가 이어질 전망이다. 7일에는 중부지방을 중심으로 강한 비가 예상되고, 8일과 9일에도 비가 이어질 것으로 보인다. 비가 내리는 동안에도 낮 최고기온이 33도까지 오르는 등 무더위는 계속될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2DGMDFGA4TMMBXGM3GKOLDGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장마가 시작된 지난 1일 부산 동래구 도시철도 동래역 앞에서 우산을 쓴 시민들이 횡단보도를 건너고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 6일 전국 곳곳에 비가 내리겠다. 예상 강수량은 서울·인천·경기, 강원 내륙·산지, 대전·세종·충남·충북, 광주·전남·전북 각각 20~60㎜다. 경남 내륙과 대구·경북은 5~50㎜, 강원 동해안은 5~20㎜로 예보됐다.&lt;br&gt;&lt;br&gt;7일에는 중부지방에 비가 내리겠다. 제주도는 새벽부터 오전 사이, 남부지방은 늦은 새벽부터 오후 사이 비가 내리는 곳이 있겠다. 중부지방의 비는 밤에 대부분 그칠 전망이다.&lt;br&gt;&lt;br&gt;7일 예상 강수량은 서울·인천·경기와 서해5도, 강원 내륙·산지, 충청권 20~60㎜다. 특히 서해5도는 많은 곳의 경우 80㎜ 이상의 비가 내릴 수 있다. 전북과 경북 북서 내륙은 10~40㎜, 광주·전남과 경남 내륙, 대구·경북은 5~20㎜ 수준으로 예상된다.&lt;br&gt;&lt;br&gt;비가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳도 있겠다. 짧은 시간 강한 비가 내리면 계곡과 하천 수위가 갑자기 높아질 수 있어 유의해야 한다. 산사태와 낙석, 도로 침수, 감전 사고 등에도 주의해야 한다.&lt;br&gt;&lt;br&gt;비가 오더라도 더위는 이어질 전망이다. 당분간 전국 내륙을 중심으로 낮 최고기온이 30도 이상 오르는 곳이 많겠다. 6일 아침 최저기온은 20~24도, 낮 최고기온은 26~31도로 예상된다. 7일 아침 최저기온은 21~24도, 낮 최고기온은 26~33도로 예보됐다. 8일과 9일에도 낮 최고기온이 33도 안팎까지 오르는 등 이번 주 내내 무더위가 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북도, 구제역 확산 차단 위해 17일까지 백신 접종 </title>
+      <link>https://www.chosun.com/national/regional/2026/07/05/J7CL53VOZNDERDMRTVIRIPIWAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/05/J7CL53VOZNDERDMRTVIRIPIWAY/</guid>
+      <dc:creator>예천=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 04:02:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSDMZDBGAYDKODDGU2GMOBWG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 예천군은 4일 감천면 구제역 발생 이틀째를 맞아 감염 가축 처리를 완료하고 이동통제초소와 거점소독시설을 가동하는 등 추가 확산 차단에 나서고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 예천에서 구제역이 발생한 것과 관련, 경북도는 예천군과 인접 5개 시군의 우제류(소, 돼지, 염소 등 발굽이 둘로 갈라진 동물) 전체에 대해 긴급 백신 접종에 나서는 등 확산 차단에 행정력을 집중하고 있다. 경북 지역에서 구제역이 발생한 것은 지난 2015년 3월 31일 이후 11년 만이다. &lt;br&gt;&lt;br&gt;5일 경북도에 따르면, 구제역이 발생한 지역 인근 우제류 전체(83만9000마리)에 대해 돼지는 10일, 소와 염소는 17일까지 긴급 백신 접종을 마치기로 했다. 앞서 경북 예천군 돼지 농장 1곳과 해당 농장 주변 500m 이내 소 농장 5곳에서 구제역이 발생하자 경북도는 지난 3일 양성이 확인된 38마리에 대해서는 긴급 가축 처분을 진행했고, 발생 농장 3㎞ 내 농장 1382곳에 대한 임상검사도 진행했다. 또 예천군과 인접 5개 시군(안동·의성·상주·문경·영주)의 가축시장 6곳의 운영을 중단하고 발생 농장과 인접한 주도로에 통제 초소 3개를 설치해 차량과 사람의 출입을 통제하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 시장 “육·해·공군 사관학교 통합, 군 전문성·정체성 흔들어" 우려</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/05/7METPPMX2ZDOTN5YP5L75CJV6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/05/7METPPMX2ZDOTN5YP5L75CJV6A/</guid>
+      <dc:creator>이미지 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 03:50:50 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 최근 정부가 추진하는 육·해·공군 사관학교 통합에 대해 “각 군의 전문성과 정체성이 흔들릴 수 있다”는 우려를 표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZWMZDCMI4TCMJZGE2WEYRRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민선 9기 서울시정을 이끌게 된 오세훈 시장이 시청에서 열린 제40대 서울특별시장 취임식에 참석해 취임사를 하고 있다. (공동취재) 2026.7.1 ⓒ 뉴스1 안은나 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 5일 페이스북에 ‘국가안보의 백년대계인 장교 양성체계를 흔들어서는 안 됩니다’라는 제목의 글을 올리고 “장교 양성체계는 국가안보의 백년대계”라며 “충분한 검토와 국민적 공감대 없이 대통령 공약 이행이라는 명분으로만 추진할 일이 아니다”라고 말했다. “합동성 강화라는 표면적 이유로 각 군이 오랜 시간 축적해온 전문성과 정체성까지 흔들려서는 안 된다”는 것이다.&lt;br&gt;&lt;br&gt;오 시장은 “미국 역시 육군사관학교, 해군사관학교, 공군사관학교를 각각 운영하면서도 합동 참모체계와 합동 교육을 통해 연합작전 능력을 키운다”며 미국의 사례를 소개했다. 이어 “합동성은 학교를 하나로 합쳐서 만들어지는 것이 아니라 각 군의 전문성을 바탕으로 협력할 때 비로소 완성될 수 있다고 생각한다. 종합예술이 중요하지만, 미대·음대·체대를 합치지 않는 이유”라고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 또 “더구나 이번 통합이 태릉CC 주택 공급을 위해 육군사관학교를 이전하는 것을 또 하나의 목적으로 한다면 더욱 신중해야 할 것”이라고 지적했다. &lt;br&gt;&lt;br&gt;그는 “주택 공급의 중요성은 여러 번 강조해도 지나치지 않는다”면서도 “80년간 축적된 장교 양성 체계와 국군의 역사적 자산은 한번 훼손하면 되돌리기 어렵다. 특히 태릉과 화랑대는 대한민국 국군의 전통이 축적된 상징적 공간이자 서울의 중요한 안보 자산”이라고 강조했다.&lt;br&gt;&lt;br&gt;오 시장은 “지금 필요한 것은 보여주기식 통합이 아니라 군의 경쟁력을 높이는 개혁”이라며 “국가 안보의 근간인 장교 양성 체계를 흔드는 것보다 우리 군의 경쟁력을 높이는 구조적 개혁이 먼저”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3EF2PWRCXFEQHG7CKLHOIKWO2I.JPG?auth=5e4570639118c86eb94220a36a2c18be46b45487f46ad30cb36d62a70a3a7910&amp;smart=true&amp;width=5825&amp;height=3277" type="image/jpeg" height="3277" width="5825">
+        <media:description type="plain">민선 9기 서울시정을 이끌게 된 오세훈 시장이 시청에서 열린 제40대 서울특별시장 취임식에 참석해 취임사를 하고 있다. (공동취재) 2026.7.1 ⓒ 뉴스1 안은나 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경쟁 학원 대표를 성추행범으로 허위 고소…입시학원 대표 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/05/A7MNGO3I6ZERRNUG3MKPFSAU6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/05/A7MNGO3I6ZERRNUG3MKPFSAU6I/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 03:47:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGNXZDAZ6JCEJEBA2QW5HUJQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 여성아동범죄조사2부(부장 박지나)는 경쟁 업체 대표를 성추행범으로 허위 고소한 입시학원 대표 A(43·남)씨를 무고 교사 혐의로 지난 3일 구속 기소했다고 5일 밝혔다. A씨 지시에 따라 성추행을 당한 것처럼 허위 고소장을 제출한 직원 3명도 무고·무고 방조 혐의로 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 작년 5월 자신의 입시학원에서 근무하던 남성 직원 B씨가 퇴사 후 동종 학원을 개업했다는 사실을 알게 된 후 B씨를 성추행범으로 몰고 가기로 결심한 것으로 조사됐다. 이에 A씨가 운영하는 학원 소속 직원인 C(41·여·불구속)씨는 A씨 지시에 따라 “과거 B씨로부터 2차례 성추행 피해를 입었다”는 내용의 허위 고소장을 경찰에 제출한 혐의(무고)를 받는다. A씨가 운영하는 학원의 공동대표인 D(36·남·구속)씨와 직원 E(43·남·불구속)씨는 “워크숍에서 B씨가 C씨를 추행해 소란이 있었다”는 취지의 허위 사실확인서를 작성해 C씨가 제출한 고소장에 증거 자료로 첨부한 혐의(무고 방조)를 받는다.&lt;br&gt;&lt;br&gt;같은해 8월 경찰은 B씨의 혐의를 입증할 증거가 부족하다고 보고 사건을 불송치했으나, 고소인 C씨의 이의신청으로 사건은 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 사건 관계인들의 1년 치 통화 내역을 전부 분석하고, 관련 사건 기록을 검토하는 과정에서 A씨 등이 직장 내 성추행 사건이 있었던 것처럼 꾸며낸 정황을 발견했다. A씨가 대포폰을 이용해 C씨 등과 소통하며 무고 범행을 계획한 사실이 드러난 것이다.&lt;br&gt;&lt;br&gt;무고 혐의에 대한 수사가 시작되자 A씨와 D씨는 통화 녹음 파일을 자신에게 유리한 방향으로 편집하는 등 증거를 인멸하려 한 정황도 발견됐다. 검찰은 두 사람을 구속하는 한편 대검찰청 과학수사부의 음성파일 감정을 통해 두 사람이 조작된 녹음 파일로 수사기관을 속여 무고 범행을 숨기려 했다는 사실도 밝혀냈다.&lt;br&gt;&lt;br&gt;검찰은 “국가의 형사사법 시스템을 사적 보복 도구로 악용하고자 시도한 사례”라며 “앞으로도 사법질서 근간을 위협하는 무고 등 범죄에 엄정하게 대응할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘신생아 모텔 사망’ 친부 송치…의사 소개 미끼 돈 뜯어</title>
+      <link>https://www.chosun.com/national/incident/2026/07/05/SRIV6YGDAJH5FL47FDA3YP6YEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/05/SRIV6YGDAJH5FL47FDA3YP6YEE/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 02:54:02 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부의 한 모텔에서 태어난 신생아를 세면대에 방치해 숨지게 한 혐의로 생모가 실형을 선고받은 사건과 관련, 친부가 산모를 속여 돈을 받아 챙긴 혐의로 검찰에 넘겨진 사실이 뒤늦게 확인됐다.&lt;br&gt;&lt;br&gt;5일 경찰 등에 따르면 친부 B씨는 지난해 임신한 A씨에게 임신 중절을 도와주겠다며 접근한 뒤, 불법 시술이 가능한 의사를 소개해주겠다고 속여 사례비 명목의 돈을 받아 챙긴 혐의(사기)를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 2025년 1월 B씨의 아이를 임신한 사실을 알게 된 뒤 B씨와 임신 중절을 하기로 했지만, 수술비 문제와 수술 당일 보호자로 오기로 한 B씨가 나타나지 않는 일이 반복되면서 합법적으로 임신 중절이 가능한 임신 24주를 넘긴 것으로 조사됐다. 이후 B씨는 불법 시술 의사를 소개해주겠다며 A씨를 텔레그램으로 연락하게 했다. A씨는 사례비 명목으로 돈을 보냈지만 실제 의사를 만나지는 못했다.&lt;br&gt;&lt;br&gt;출산이 임박한 지난해 12월 A씨가 “진통이 시작됐다”고 알리자 텔레그램 속 의사는 “서울 명동에서 병원을 운영하지만 주소는 알려줄 수 없고 데리러 가겠다”고 했지만 끝내 나타나지 않았다.&lt;br&gt;&lt;br&gt;A씨는 자신의 거주지를 B씨에게 알리고 싶지 않아 의정부의 한 모텔을 약속 장소로 정했지만, 의사와 B씨 모두 나타나지 않았다. 결국 A씨는 모텔에서 홀로 아이를 출산했고, 신생아는 객실 세면대에 약 12분간 방치됐다가 숨졌다.&lt;br&gt;&lt;br&gt;A씨 측은 B씨를 사기 혐의로 고소했다. 사건은 경기북부경찰청에서 접수된 뒤 관할 문제로 충남경찰청으로 이관됐고, 경찰은 최근 B씨를 기소 의견으로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 의사 알선 명목으로 A씨를 속여 돈을 받아 챙긴 혐의가 인정된다고 판단했다. 다만 B씨가 내세운 의사가 실제 존재하는지, B씨가 직접 의사 행세를 했는지 등은 확인되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, A씨는 아동학대살해 혐의로 구속기소돼 1심에서 징역 6년을 선고받았다. 재판부는 A씨가 출산 직후 구조를 요청하거나 의료기관에 신고하지 않은 점, 출산 이후를 대비한 준비가 거의 없었던 점 등을 근거로 살해에 대한 미필적 고의를 인정했다. 다만 주변의 도움 없이 갑작스럽게 출산한 점 등을 참작해 양형을 정했다.&lt;br&gt;&lt;br&gt;검찰과 A씨 측은 모두 1심 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>접근금지 받았는데도…전 연인 퇴근길 기다렸다 60대 여성 살해</title>
+      <link>https://www.chosun.com/national/incident/2026/07/05/RBOIPV6ILVFFTFQGACNXME7OTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/05/RBOIPV6ILVFFTFQGACNXME7OTY/</guid>
+      <dc:creator>성남=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 01:00:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXOJ6JDLRZBJ3JMT3HJAJ35O5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교제폭력 신고를 받고 경찰의 접근금지 조치를 받았던 50대 남성이 전 연인을 찾아가 흉기로 살해하는 사건이 발생했다. &lt;br&gt;&lt;br&gt;5일 경찰에 따르면, 이날 오전 3시쯤 경기 성남시 중원구 상대원동 길거리에서 50대 남성 A씨가 60대 여성 B씨를 흉기로 찔렀다. B씨는 119구급대에 의해 병원으로 옮겨졌으나 결국 숨졌다. &lt;br&gt;&lt;br&gt;범행 직후 A씨는 자해를 시도해 현재 병원에서 수술을 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨와 약 4년간 교제하다 최근 결별한 뒤, B씨의 직장 퇴근 시간을 기다렸다가 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 B씨는 지난달 8일 “전 남자친구가 괴롭힌다”며 경찰에 교제폭력 신고를 하고 분리 조치를 요청했다. 이후 지난달 10일 스토킹 고소장을 제출했다.&lt;br&gt;&lt;br&gt;경찰은 같은 날 A씨에게 긴급응급조치로 접근금지와 연락금지를 통보하고, 이를 위반하면 형사처벌 대상이 된다는 내용을 고지했다. 또 피해자에게는 스마트워치를 지급했다.&lt;br&gt;&lt;br&gt;경찰은 같은 날 법원에도 잠정조치를 신청했고, 이틀 뒤 법원은 접근금지와 연락금지 잠정조치를 결정했다. 해당 잠정조치는 오는 9월 10일까지 유효한 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;긴급응급조치는 스토킹 행위가 지속적·반복적으로 일어날 우려가 있을때 경찰이 직권으로 내리는 처분이다. 조치 내용은 피해자 주거지 등으로부터 100미터 이내 접근금지와 전기통신을 이용한 접근 금지로 제한된다. 기간은 기본 1개월이다. 법원이 결정하는 강력한 제재 잠정조치는 가해자의 재범 우려가 인정될 때 법원의 결정을 거쳐 내려지는 보다 강력한 법적 처분이다. &lt;br&gt;&lt;br&gt;접근금지와 연락금지 외에도 사안에 따라 위치추적 전자장치 부착이나 유치장·구치소 유치 등을 명할 수 있다. 가해자를 유치장이나 구치소에 최대 1개월간 가둘 수 있는 유치 처분까지 가능하다. 기본 적용 기간은 3개월이다. 연장도 가능하다.&lt;br&gt;&lt;br&gt;이후 사건은 피의자 주소지가 있는 성남수정경찰서로 이관됐으며, 스토킹 사건은 지난달 25일 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;다만, 지난달 8일 첫 신고 이후 이번 범행 전까지 A씨가 접근금지나 연락금지 조치를 위반했다는 신고는 접수되지 않았다고 한다.&lt;br&gt;&lt;br&gt;범행 당일 B씨는 스마트워치로 긴급 신고했고 경찰은 신고 접수 약 3분 만에 현장에 도착했지만 B씨는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 현재 병원에서 치료 중인 A씨가 회복하는 대로 살인 혐의로 조사할 방침이다. 또 감시카메라 분석 등을 통해 A씨가 얼마나 오랫동안 피해자를 기다렸는지, 미리 흉기를 준비했는지 등 계획범행 여부를 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰청 “광주일고 폭발물 협박, 수사 착수... 엄정 대응할 것”</title>
+      <link>https://www.chosun.com/national/incident/2026/07/05/GM4JIRUGORBWBJQYCQESZXDN6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/05/GM4JIRUGORBWBJQYCQESZXDN6I/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 01:36:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSWCY3CMIYGKODFGJSTGMTEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배재고 정문 앞에 '5·18 민주화 운동 조롱 응원'을 규탄하는 근조화환이 놓인 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 야구 대회에서 5·18 민주화 운동을 조롱하는 응원전을 펼친 배재고 사태와 관련, 광주일고에 폭발물을 설치했다는 협박 글이 온라인상에 올라온 것에 대해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경찰청은 5일 “최근 고등학교 야구 대회에서 있었던 응원 구호 관련, 고등학교에 폭발물을 설치했다는 공중 협박 사건이 발생해 수사에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;배재고 야구부는 청룡기 고교야구선수권 대회에서 상대 팀 광주일고 학생들을 향해 “스타벅스 가야지”라고 외치며 응원을 펼쳐 논란이 됐다. 5·18 민주화 운동을 조롱했다는 비판을 받은 스타벅스의 ‘탱크 데이’ 마케팅 논란을 빗댄 것이었다.&lt;br&gt;&lt;br&gt;이 일로 배재고 야구부는 대한야구소프트볼협회로부터 전국 대회 출전 정지 6개월 징계를 받았다.&lt;br&gt;&lt;br&gt;일각에서는 배재고에 대한 징계가 지나치다는 지적도 일었는데, 지난 4일 온라인 커뮤니티에 “배재고 청소년들의 미래를 짓밟았다”며 “광주일고에 폭탄을 설치했다”는 협박 글이 올라왔다. 이에 경찰과 소방 인력이 학교에 출동해 폭발물을 수색하는 등 소동이 일어났다.&lt;br&gt;&lt;br&gt;경찰청은 “학생들의 학습권을 침해하고 국민의 평온한 일상을 훼손하는 명백한 범죄”라며 “향후 관련 학교나 학생들을 상대로 음해 또는 명예훼손하는 게시글을 작성하거나 폭파 협박 등 글을 게재할 경우 정보통신망법 위반, 공중협박 등 혐의로 즉시 수사 착수하는 등 엄정 대응할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>악몽같은 ‘그놈 목소리’… 피해자에 녹취록 만들라는 경찰</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/03/U3SBKEFNRNAWXP3LOU4Z4UXHWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/U3SBKEFNRNAWXP3LOU4Z4UXHWY/</guid>
+      <dc:creator>윤성은 기자, 한영원 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jul 2026 15:56:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNDUEBJWRNFPRBIKPQSHNFE65Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;직장 상사로부터의 강제 추행을 당한 여성 이다미(가명·36)씨 /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“너를 알고 지낸 6개월 동안 숨이 막혔다. 너는 내게 눈길 한 번 안 줬지만, 난 널 특별하게 생각했어. 주말에는 내 전화도, 문자도 안 받아주니 화가 나다가도, 월요일에 출근해서 너랑 커피 한잔 마시면 ‘내 탓이구나’ 하고 자책하게 되더라.”&lt;br&gt;&lt;br&gt;2023년 12월의 어느 날 밤 11시, 회사원 이다미(가명·36)씨는 퇴근 후 책상에 앉아 휴대전화 녹음을 글로 옮겨 적으면서 눈물을 흘렸다. 녹음 속 목소리의 주인공은 1년 전 노래방에서 자신에게 강제로 입을 맞추고 신체 부위를 접촉한 직장 상사 A였다. 이씨는 추행을 당했을 때를 떠올리며 몸서리쳤지만 “가해자 발언을 푼 녹취록을 제출하라”는 경찰 요구에 어쩔 수가 없었다.&lt;br&gt;&lt;br&gt;성폭력 범죄는 늘고 있지만 이씨 경우처럼 가해자의 범행을 입증하는 일이 피해자에게 전가되고 있다고 피해자와 형사 전문 변호사들은 말한다. 피해자가 직접 증거를 찾아 동분서주하는 사이 경찰 수사가 흐지부지되는 경우도 적지 않다. 결국 성범죄자를 재판정에 세우는 일은 점점 어려워지고 있다.&lt;br&gt;&lt;br&gt;대검찰청 범죄통계에 따르면 최근 3년간(2022~2024년) 성범죄자는 11만3942명으로, 직전 3년(2019~2021년·9만5348명)보다 19.5% 늘었다. 그런데 이 중 기소된 사람은 4만3845명(2022~2024년)으로 2019~2021년 기소된 사람(4만3484명)과 큰 차이가 없었다. 정식 재판에 넘겨진 사람도 3만431명(2019~2021년)에서 2만7816명(2022~2024년)으로 줄었다. 기소되더라도 정식 재판을 거치지 않고 벌금 등 약식 기소되는 경우가 많았다는 얘기다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKJAWSNK7BHKLG4NDCU3TCUUPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇용기내 신고했지만 돌아온 말 “저항 충분히 했나”… 두 번 울었다&lt;/b&gt;&lt;br&gt;&lt;br&gt;성범죄 피해자와 형사 전문 변호사들은 피해자가 범행의 단서나 증거를 직접 찾아내 제출해야 경찰이 겨우 수사에 나서는 경우가 적지 않다고 말한다. 이다미(가명·36)씨가 성범죄를 당한 뒤 경험한 수사 과정이 꼭 그랬다고 한다.&lt;br&gt;&lt;br&gt;이씨를 성추행한 직장 상사 A는 2022년 8월 회사에 경력직으로 입사했다. A는 아내와 자녀가 있는 유부남이었다. 하지만 입사 후 얼마 안 가 이씨에게 집착하기 시작했다. 회사 동료들이 눈치 챌 정도였다고 한다. A는 이씨가 다른 남자 동료들과 업무와 관련한 이야기라도 나누면 어김없이 찾아와 “왜 그렇게 남자들한테 헤프게 구냐”며 폭언을 퍼부었다. &lt;br&gt;&lt;br&gt;A의 폭언과 스토킹에 시달리던 이씨에게 그해 11월, 문제의 사건이 터졌다. 밤 11시 회식차 찾은 노래방에서 A가 강제로 이씨에게 입을 맞추고 신체 특정 부위를 접촉한 것이다. 하지만 이씨가 임원급인 A를 상대로 할 수 있는 일은 없었다. 이씨는 회사를 그만둘 수 없어 성추행을 당한 뒤로도 1년 가까이 더 참았다. 하지만 A의 괴롭힘은 계속됐고, 그사이 A는 다른 여직원까지 강제추행했다.&lt;br&gt;&lt;br&gt;결국 회사는 2023년 10월 A를 경찰에 신고했다. 수사가 시작되면서 이씨는 안심했다. 하지만 얼마 안 가 경찰에서 어이없는 요구를 받았다고 했다. “A의 폭언이 담긴 녹음 파일을 글로 풀어서 제출해 달라”는 요구였다. A의 처벌을 원하는 이씨로선 어쩔 수가 없었다.&lt;br&gt;&lt;br&gt;최근 본지와 만난 이씨는 “가해자 목소리를 다시 들으며 당시 상황을 복기하는 게 악몽 같았다”면서도 “녹취록을 제출하지 않으면 경찰 수사가 멈출 것 같아 고통을 참을 수밖에 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULRT5BAKUBEKPLELMZFE7QFTMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 경찰이 수사에 적극적이지 않았다고 주장했다. 한번은 이씨가 성추행을 당한 노래방 건물의 층수를 확인하러 현장에 다시 가보자고 경찰에 제안했다. 경찰은 “그렇게까지 할 필요는 없을 것 같다”며 거절했다고 한다. 하지만 경찰이 사건을 검찰로 송치한 후 A는 이씨가 성추행을 당했다는 노래방 층수를 정확히 기억하지 못한다는 점 등을 들어 “이씨 주장은 허위”라고 주장하고 나왔다. 검찰은 보완수사를 요구해 사건은 다시 경찰로 돌아갔다.&lt;br&gt;&lt;br&gt;그나마 A는 이씨 등 2명을 추행한 혐의 등으로 기소돼 2025년 9월 1심에서 징역 1년 4개월을 선고받고 법정 구속됐다. 그러나 올해 2월 2심에선 징역 8개월로 대폭 감형됐다. A가 피해자와 합의하겠다며 법원에 낸 공탁금을 다른 피해자 B씨가 수령한 게 양형에 참작된 것이다. 이씨는 국선 변호인에게서 공탁금을 수령하면 A가 감형될 수 있다는 설명을 들은 적이 없다고 한다. 이씨는 “경찰과 국선 변호인에 대한 믿음이 흔들린다”고 했다.&lt;br&gt;&lt;br&gt;A는 2026년 5월 석방됐다. 그 사이 이씨는 다니던 회사를 그만뒀다. 이씨는 지금도 자기 주소를 아는 A의 보복이 두려워 정신과 치료를 받고 있다고 한다. 이씨는 “나는 아직도 고통받고 있는데 가해자는 자유의 몸이 됐다고 하니 납득이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;성범죄 피해자들은 수사기관을 찾았다가 오히려 2차 가해를 경험하는 경우도 많다. 강제추행 피해자 손송이(가명·35)씨는 2024년 11월 데이트 앱을 통해 알게 된 남성 C의 집에 갔다가 잠든 사이 성폭행을 당할 뻔했다. 다음 날 아침 잠에서 깨어보니 C가 강제로 성행위를 시도하고 있었던 것이다. 손씨는 필사적으로 저항한 끝에 그의 집에서 탈출했다.&lt;br&gt;&lt;br&gt;손씨는 한 달 뒤 경찰에 C를 강제추행 혐의로 고소했다. 그러나 담당 경찰관은 “그러게 왜 데이트 앱을 통해 C를 만났느냐”는 질문을 반복했다고 한다. 손씨는 “어떤 때는 경찰이 오히려 나를 의심하는 것 같았다”고 했다. 경찰은 C를 검찰에 기소 의견으로 송치했지만 검찰은 2026년 1월 “손씨가 충분히 저항했다고 보기 어렵고 강제추행의 증거도 부족하다”며 C를 불기소 처분했다. 손씨는 고등검찰청에 항고했지만 기각돼 C를 법정에 세우지 못했다. 현재 손씨는 PTSD(외상 후 스트레스 장애)와 우울증, 공황장애 증세로 정신과 치료를 받고 있다.&lt;br&gt;&lt;br&gt;성범죄 사건을 다루는 변호사들은 피해자에게 범죄 소명을 요구하는 경찰의 수사 관행이 완전히 사라지지 않았다고 지적한다. 채다은 변호사는 “휴대전화 불법 촬영 범죄 피해자를 대리해 가해자를 고소한 적이 있는데 영상이 담긴 피의자의 휴대전화를 확보해 넘겨줬는데도, 경찰은 6개월이 넘도록 디지털 포렌식을 진행하지 않았다”고 말했다. 고소인이 꼼꼼하게 증거를 수집해 제출하지 않으면 경찰이 수사에 소극적이라는 얘기다.&lt;br&gt;&lt;br&gt;경찰이 검찰에 불송치한 사건 피해자들이 의뢰한 사건을 주로 다룬다는 안창보 변호사는 “경찰이 수사 과정에서 당연히 파악했어야 할 사실관계는 물론이고, 향후 수사 방향과 주요 확인 사항을 피해자 측에서 일일이 정리해 제출해야 움직인다는 인상을 받는다”고 했다. 그는 “죄질이 나쁜 피의자라도 범행 입증에 손이 많이 가는 사건은 경찰이 불송치 종결하는 경우도 적잖다”고 했다. 피해자들이 성폭력 피해에 이어 이를 입증하느라 이중 고통에 시달린다는 얘기다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QNDUEBJWRNFPRBIKPQSHNFE65Q.jpg?auth=25c005ead77e0e79b7b13c5dead93a56b84e2dae100fbb0585aeda245c97c714&amp;smart=true&amp;width=5616&amp;height=3784" type="image/jpeg" height="3784" width="5616">
+        <media:description type="plain">직장 상사로부터의 강제 추행을 당한 여성 이모씨 /장경식 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“펑 소리 들려”… 창원 빌라 화재로 1명 사망·2명 부상 </title>
+      <link>https://www.chosun.com/national/2026/07/05/VDAZHRAYA5H43OQUUPGI5MSWL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/05/VDAZHRAYA5H43OQUUPGI5MSWL4/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 00:57:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MKWGIVK2JCJLMADA6U73UWSHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 경남 창원시 마산합포구의 한 빌라에서 새벽 시간 화재가 발생해 소방서 추산 7500만원 상당에 재산피해를 내고 30여분 만에 꺼졌다. 이 불로 주민 1명이 숨지고 2명이 다쳤다. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간 경남 창원의 한 빌라에서 불이 나 1명이 숨지고 2명이 다쳤다.&lt;br&gt;&lt;br&gt;5일 창원소방본부에 따르면 이날 오전 3시 2분쯤 경남 창원시 마산합포구의 5층짜리 빌라 2층에서 불이 났다. &lt;br&gt;&lt;br&gt;이 불로 2층에서 거주하던 90대 여성 1명이 숨지고 50대 여성 1명이 얼굴에 화상을 입는 등 중상을 입었다. 또 인근 주민 1명도 연기를 마셔 병원에 이송됐다. 부상자 2명은 생명에는 지장이 없는 것으로 전해졌다. 화재로 놀란 주민 18명이 대피했다. &lt;br&gt;&lt;br&gt;“펑 소리와 함께 불이 났다”는 인근 주민 신고를 접수한 소방 당국은 장비 23대와 인력 72명을 투입해 오전 3시 30분쯤 불을 완전히 껐다. 소방 당국 추정 7500만원 상당의 재산 피해가 난 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 폭발음이 들렸다는 신고 내용을 바탕으로, 합동 감식과 함께 정확한 화재 원인을 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고성 DMZ 산불, 19시간 29분 만에 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/07/05/MTPLEPFGGVDDTKHWIGSYN2AF2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/05/MTPLEPFGGVDDTKHWIGSYN2AF2Q/</guid>
+      <dc:creator>고성=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 00:55:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTGCZBZMFQTKMZUHEYDEMRVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 강원 고성군 수동면 비무장지대(DMZ)에서 산불이 발생했다. 불은 19시간 29분 만에 꺼졌다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4일 강원 고성군 수동면 비무장지대(DMZ)에서 발생한 산불이 19시간 29분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;5일 산림 당국에 따르면 이날 오전 8시 38분쯤 고성 수동면 한 야산에서 발생한 산불의 주불 진화를 완료했다. 불은 전날인 4일 오후 1시 9분쯤 발생했다.&lt;br&gt;&lt;br&gt;불이 난 지점은 군사분계선(MDL)에서 남측으로 1.7㎞ 지점, 남방한계선에서 북측으로 0.3㎞ 비무장지대로 인력 투입이 불가능해 진화에 어려움을 겪었다.&lt;br&gt;&lt;br&gt;산림 당국은 이날 일출과 함께 헬기 2대를 투입해 진화 작업을 벌였으며 잔불 정리를 마치는 대로 정확한 화재 원인을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>접근금지 명령 위반 시 경찰-보호관찰관 합동 대응</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/05/TAKYSCT4K5CLDNG6FITHI5SAO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/05/TAKYSCT4K5CLDNG6FITHI5SAO4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4TMYZTGQ3TAMBVMY3TKZJQGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남양주 가정폭력·스토킹 여성살해사건 긴급대응 기자회견&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부와 경찰청은 5일 성폭력, 스토킹, 살인 등 특정범죄로 전자발찌를 부착한 대상자가 법원에서 ‘피해자 접근금지 명령(잠정·임시조치)’을 받으면 정보를 공유하고, 피해자 보호가 필요할 때 법무부 소속 보호관찰관과 경찰이 함께 출동하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;두 기관은 2024년 1월 12일 시행된 ‘스토킹처벌법’과 ‘전자장치부착법’에 따라 위치추적 전자장치(전자발찌) 부착 잠정조치를 받은 사람에 대한 정보를 공유하고 있다. 전자장치 부착 잠정조치란 법원이 스토킹 행위가 재발할 우려가 있다고 판단할 때 스토킹처벌법 제9조 3호의2에 근거해 결정하는 조치이다. &lt;br&gt;&lt;br&gt;그러나 전자발찌 부착자가 스토킹이나 가정폭력을 다시 저질러 피해자 접근금지 조치를 받았을 때 두 기관이 관련 정보를 공유하거나 공동 대응하는 절차는 없었다.&lt;br&gt;&lt;br&gt;이에 법무부와 경찰청은 시스템을 연결해 접근금지 조치를 받은 사람에 대한 정보를 공유하고, 대상자가 이를 어기고 피해자에게 접근하면 즉시 공동 대응한다는 내용의 ‘법무부-경찰 간 고위험 대상자 협력 대응 방안’을 마련했다. 보호관찰관은 가해자에게, 경찰관은 피해자에게 동시 출동해 접근금지 명령을 위반한 가해자를 검거하는 방식을 오는 6일부터 시행하기로 했다.&lt;br&gt;&lt;br&gt;법무부는 이번 대책이 지난 3월 발생한 ‘경기 남양주 스토킹 살인 사건’의 재발 방지 차원에서 마련됐다고 설명했다. 남양주 스토킹 살인 사건은 성폭력 범죄로 실형을 복역하고 출소해 전자발찌를 차고 있던 김훈(44)이 스토킹하던 20대 여성을 흉기로 살해한 사건이다. &lt;br&gt;&lt;br&gt;김훈은 앞서 피해자에 대한 스토킹 범죄로 접근금지 명령을 받았지만, 보호관찰관은 김훈에게 접근금지 조치가 내려진 사실을 알지 못했다. 경찰은 김훈이 다른 범죄로 전자발찌를 착용하고 있다는 사실을 몰랐고, 범행 당시 김훈의 실시간 동선도 파악할 수 없었다.&lt;br&gt;&lt;br&gt;법무부와 경찰청은 전자발찌를 찬 가해자의 위치를 실시간으로 추적·공유하는 시스템도 만들고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>요리에 눈이 멀었다… 제자들에게 상처를 주었던 날들</title>
       <link>https://www.chosun.com/national/people/2026/07/05/L2IFPFLZBRDFNCSIBMXQ2HSRFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/05/L2IFPFLZBRDFNCSIBMXQ2HSRFA/</guid>
@@ -825,91 +943,6 @@
       </media:content>
     </item>
     <item>
-      <title>경북 예천 농장 6곳서 구제역 발생… 경북도 “최고 단계 경보 발령” </title>
-      <link>https://www.chosun.com/national/2026/07/03/CMD5WFKC5JADDDNFV7EYV2SL4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/03/CMD5WFKC5JADDDNFV7EYV2SL4Y/</guid>
-      <dc:creator>예천=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 05:19:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDIXRRQYDRF6HAA6ATUXW4MOYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 가축위생방역지원본부 방역팀이 축산농가 외부에 대해 소독 작업을 하고 있다. /경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 처음으로 경북도에서 구제역이 발생했다. 방역당국은 위기 경보를 최고 수준으로 격상하는 등 비상 대응에 나섰다.&lt;br&gt;&lt;br&gt;구제역 중앙사고수습본부와 경북도는 3일 경북 예천군 돼지농장 1곳과 해당 농장 주변 500m 이내 소 농장 5곳에서 구제역 발생이 확인됐다고 밝혔다. &lt;br&gt;&lt;br&gt;방역 당국에 따르면 지난달 25일 경북 영주의 한 도축장에서 구제역 항원이 검출됐고, 예천에 소재한 관련 돼지 농가와 인근 농가는 음성 판정을 받았다.&lt;br&gt;&lt;br&gt;그러나 정밀 검사 결과, 예천 돼지 농장 1곳과 소 농장 5곳에서 구제역 감염 항체(NSP)가 최종적으로 확인됐다. 항원 양성이 확인된 가축은 돼지 14마리, 소 24마리로 확인됐다.&lt;br&gt;&lt;br&gt;경북도는 즉각 가축위생방역지원본부 초동방역팀을 투입하고, 가축 살처분과 함께 긴급 이동통제 초소를 설치했다.&lt;br&gt;&lt;br&gt;구제역이 발생한 예천과 안동·영주·상주·문경·의성·충북 단양 등 인접 시군에 위기경보를 최고 수준인 ‘심각단계’으로 격상했다. 또한 관련 종사자와 축산차량에 대해 이날 오전 10시부터 48시간 동안 ‘일시 이동중지’ 조치에 돌입했다.&lt;br&gt;&lt;br&gt;경북도 관계자는 “예천 인근 축산농가를 대상으로 긴급 백신접종을 실시하고, 농장 내외부의 철저한 소독 및 통행 차단하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;경북에서 구제역이 발생한 것은 지난 2015년 3월 31일 이후 11년 만이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배재고 동문들 “학생들에 다시 기회를”… 야구부 선처 호소</title>
-      <link>https://www.chosun.com/sports/baseball/2026/07/03/LSVKW5YDSBF6JENUC4WGV4NR5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/sports/baseball/2026/07/03/LSVKW5YDSBF6JENUC4WGV4NR5M/</guid>
-      <dc:creator>양승수 기자, 원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 03:11:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZ5AVXA3TFONJMJT7U2MQY7QJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 배재학당총동창회 39대 회장이 3일 대한야구소프트볼협회가 위치한 서울 송파구 올림픽회관에서 스타벅스 응원 논란과 관련해 배재고 학생들의 선처를 바라는 탄원서를 제출하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배재학당총동창회가 배재고 야구부에 내려진 전국대회 6개월 출전 정지 징계에 대해 선처를 호소했다.&lt;br&gt;&lt;br&gt;김동연 배재학당총동창회장은 3일 오전 서울 송파구 올림픽회관을 찾아 대한야구소프트볼협회(KBSA)에 탄원서를 제출했다. 김 회장은 협회 사무실을 직접 방문해 탄원서를 전달하진 못했다. 또 당초 총동창회는 협회 앞에서 기자회견을 열 예정이었지만, 배재고 야구부 학부모 측 등과 논의 끝에 공개 회견은 취소했다.&lt;br&gt;&lt;br&gt;김 회장은 “청룡기 대회에서 발생한 일로 상처를 입은 광주제일고 학생 선수와 동문 여러분께 진심으로 사과드린다”며 “후배들은 아직 배우고 성장하는 학생들이다. 잘못을 깨닫고 반성해 더 나은 사람으로 성장할 기회를 달라”고 했다. &lt;br&gt;&lt;br&gt;또 그는 “징계가 과한지 제가 판단할 문제는 아니다”라면서도 “선배이자 총동창회장으로서 선처를 호소하는 것이 마땅하다고 생각했다”고 말했다. 이어 “학교 측에서 광주를 방문해 사과 말씀을 전하려고 의사를 표한 것으로 알고 있다”며 “무산됐다고 들었다. 하지만 사과를 위해 다시 방문하려는 뜻이 있는 것으로 안다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFL2C3K5QNPSHBQOO3ZQFPQT4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 배재학당총동창회 39대 회장이 3일 대한야구소프트볼협회가 위치한 서울 송파구 올림픽회관에서 스타벅스 응원 논란과 관련해 배재고 학생들의 선처를 바라는 탄원서를 읽고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 배재고 야구부 일부 선수들은 지난달 29일 서울 목동구장에서 열린 제81회 청룡기 전국고교야구선수권대회 겸 주말리그 왕중왕전 광주제일고전 도중 상대 더그아웃을 향해 부적절한 응원 구호를 외쳐 논란을 빚었다. 협회는 지난 1일 스포츠공정위원회를 열고 배재고 야구부에 전국대회 6개월 출전 정지 징계를 내렸다. 구호를 주도한 선수와 이를 제지하지 않은 지도자에 대한 추가 징계도 검토하기로 했다.&lt;br&gt;&lt;br&gt;배재고 야구부 후원회장을 맡고 있는 동문 김태경씨는 “선수들이 잘못한 것은 맞지만, 일을 이 지경까지 키운 건 어른들의 책임도 있다”며 “경기장 안에서 지도자와 학교가 먼저 해결하려 했어야 한다”고 말했다. 그는 “잘못한 만큼 책임을 지는 것은 당연하다”면서도 “징계가 너무 급하게 내려졌다. 학생들을 가르치는 교육자들이 앞에 서서 책임지는 모습도 필요하다”고 했다.&lt;br&gt;&lt;br&gt;배재고 80회 졸업생 황주명(82)씨도 “먼저 그런 행동을 하면 안 된다고 가르치고, 같은 일이 반복되면 징계가 따를 수 있다고 알려주는 과정이 필요했다”며 “그런 교육적 절차 없이 곧바로 중징계로만 가는 것은 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;현장을 찾은 배재고 학부모들은 “잘못은 분명하지만 징계가 학생들에게 지나치게 가혹하다”고 호소했다. 야구부 재학생 학부모 박모(54)씨는 “야구부뿐 아니라 일반 학생들도 학교 이름 때문에 조롱을 받고 있다”며 “아이들이 한 말의 의미와 파장을 제대로 몰랐다고 본다. 혼내고 가르쳐야 할 일이지만, 사회적으로 매장하듯 몰아가는 것은 걱정스럽다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍석기 신임 국가수사본부장 “국민에게 가장 신뢰 받는 수사기관 만들 것”</title>
-      <link>https://www.chosun.com/national/incident/2026/07/03/JQBTK4KFU5DK7EROAAWMCBFS7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/03/JQBTK4KFU5DK7EROAAWMCBFS7E/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 02:27:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TR6K7CNUNI2VA3C5DOYMJ5OQ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;홍석기 신임 국가수사본부장이 3일 경찰청 국가수사본부에서 전국 수사 지휘부 화상회의를 열고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 수사를 총괄하는 홍석기 신임 국가수사본부장이 3일 별도 취임식 없이 임기를 시작했다. 홍 본부장은 이날 오전 전국 수사 지휘부 화상 회의를 열고 “막중한 소임을 맡게 돼 무한한 영광과 함께 무거운 책임감을 느낀다”며 “국민이 가장 신뢰하는 수사기관을 만들자”며 취임 소감을 밝혔다.&lt;br&gt;&lt;br&gt;홍 본부장은 “오늘날 범죄의 양상과 수법은 더욱 진화하고 국경을 넘나들고 있으며, 형사 사법 체계의 개편도 앞두고 있어서 그 어느 때보다 엄중한 시기”라며 “이런 시기일수록 일상의 안전과 법질서를 지키는 수사 경찰 본연의 역할에 한 치의 소홀함이 없어야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;그러면서 “피싱 범죄, 마약 등 국민의 안전을 위협하는 각종 범죄에 대해 엄정하게 대응하는 한편, 법과 절차에 따라 공정하게 수사하면서도 피해자 보호에 만전을 기해야 한다”며 “각급 수사 부서가 차질 없이 운영될 수 있도록 현장을 살피고 관리해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;이어 “국가수사본부에서도 현장에 어려움이 없도록 아낌없이 지원하고 노력하겠다”며 “국민이 가장 신뢰하고, 정의롭고 따뜻한 수사기관을 만들기 위해 나부터 솔선수범하겠다”고 말했다.&lt;br&gt;&lt;br&gt;충북 제천 출신으로 경찰대를 8기로 졸업해 경찰청 사이버수사심의관, 청주 흥덕경찰서장, 충남경찰청 공공안전부장, 경찰청 수사국장 등을 지낸 홍 본부장은 박성주 전임 본부장이 정년 퇴임하면서 전날 치안정감 승진과 함께 제4대 국가수사본부장에 임명됐다. 임기는 2년이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘같은 국적 동료 살해’ 필리핀 근로자... 2심도 징역 20년</title>
-      <link>https://www.chosun.com/national/regional/2026/07/03/CU42DTWPW5GDDK5E7GYMOTY2H4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/03/CU42DTWPW5GDDK5E7GYMOTY2H4/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 03:08:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼을 하다 같은 국적 동료를 흉기로 살해한 40대 외국인 노동자가 항소심에서도 징역 20년을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1-1부(재판장 박진환)는 3일 살인 혐의로 기소된 필리핀 국적 A(41)씨와 검사가 각각 제기한 항소를 모두 기각하고 원심과 같은 징역 20년을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 1일 대전의 한 업체 외국인 근로자 기숙사에서 같은 국적 동료인 B씨를 흉기로 여러 차례 찔러 살해한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;B씨를 험담했다는 오해를 받아왔던 A씨는 피해자와 함께 술을 마시던 도중 이 문제로 다투다가 화가 나 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 “사람의 생명은 법이 수호하고자 하는 최고의 법익으로, 생명을 잃은 피해는 어떤 방법으로 회복되지 않아 상응하는 처벌이 필요하다”며 A씨에게 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;1심 선고 후 검사와 A씨는 양형 부당을 이유로 각각 항소했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “1심에서 피고인에게 유리하고 불리한 정상을 모두 참작해 합리적으로 형을 정한 것으로 보인다”며 A씨와 검사가 제기한 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 전국에 장맛비...폭염 수준 더위도</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/07/03/NUOBAVXSP5F7DKCKFSPGQXQPNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/03/NUOBAVXSP5F7DKCKFSPGQXQPNA/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 01:20:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD2TKZDBPRJHHFBB5UMFOOJHMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;비가 내린 3일 오전 서울 종로구 광화문광장에서 한 시민이 우산을 쓰고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국에 장맛비가 예보됐다. 낮동안 폭염에 가까운 더위도 발생할 전망이다.&lt;br&gt;&lt;br&gt;3일 기상청에 따르면, 정체전선에서 발달한 저기압의 영향으로 4일은 제주·남부와 충청권, 5일은 전국에 비가 내리겠다.&lt;br&gt;&lt;br&gt;4일 예상 강수량은 충청권 5~10㎜, 전남 5~80㎜, 광주·전북 5~40㎜, 부산·울산·경남 5~40㎜, 대구·경북 5~10㎜, 제주 30~150㎜ 등이다. &lt;br&gt;&lt;br&gt;5일은 수도권과 강원도 5~20㎜, 충청권 20~60㎜, 호남 30~80㎜, 영남 20~80㎜, 제주에 20~60㎜의 비가 예상된다.&lt;br&gt;&lt;br&gt;비로 인해 습도가 오르면서, 당분간 전국 내륙을 중심으로 최고 체감온도가 31도 안팎으로 오르며 더울 전망이다. 4~5일 아침 최저기온은 18~23도, 낮 최고기온은 25~32도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청각장애인 명의 빌려... 특별공급 아파트 불법 분양받은 일당</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/YYYGHRISJZCYHKLVQ6DHRFOKXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/YYYGHRISJZCYHKLVQ6DHRFOKXM/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 01:34:45 +0000</pubDate>
-      <content:encoded>청각장애인들의 명의를 빌려 장애인 특별공급 아파트를 불법 분양받아 관리한 일당이 무더기로 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;경기북부경찰청 반부패‧경제범죄수사2대는 주택법 위반으로 브로커 A씨를 구속 송치하고 모집책 3명과 명의를 대여한 청각장애인 36명 등 총 39명을 불구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PXIZ26RFZBI5HDBC4KYMHQPTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청각장애인 모집책 수첩 사진./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지역별 모집책을 두고 서울, 경기 등 전국 각지에서 특별공급신청을 위해 명의를 대여해 줄 청각장애인을 조직적으로 모집했다.&lt;br&gt;&lt;br&gt;그는 불법 청약 단속을 피하기 위해 명의를 대여한 청각장애인과 직접 현장에 동행해 청약을 신청했다. 이후 당첨된 분양권을 전매 제한 기간 동안 직접 관리, 이후 건당 수천만원의 돈을 받고 되팔았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRUVSKMYSRG2HNCHG5WNPBP7OI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카카오톡으로 청각 장애인에게 신분증을 요구하는 장면./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇게 전매를 통해 얻은 수익은 4억7000만원에 이르렀다. A씨 등은 장애인 특별공급의 당첨자 선정 방식을 철저히 분석 후 연령, 무주택 기간, 장애의 정도 등을 고려해 당첨 확률이 높은 청각 장애인만 선별 모집했다. &lt;br&gt;&lt;br&gt;특히 장애인은 청약신청 시 청약 통장이 필요하지 않은 요건을 이용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 2020년 6월부터 작년 10월까지 서울, 경기, 인천, 대전, 부산 등 전국에서 30채를 분양받았으며 분양가의 총 액은 약 208억원에 달한다.&lt;br&gt;&lt;br&gt;명의를 빌려준 장애인들은 500만∼2000만원을 받았고, 브로커들은 1명 모집당 300만원을 받았다.&lt;br&gt;&lt;br&gt;경찰은 불법으로 당첨된 분양권과 전매 차익에 대하여 몰수·추징 보전 신청을 하고 관련 자료를 분석, 추가 범행을 계속 수사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명 쪼개기 후원’ 혐의 김성태, 1심서 벌금 500만원</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/03/6HI2PUZ7UBF5XNVPRG63MWYZXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/03/6HI2PUZ7UBF5XNVPRG63MWYZXM/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 01:02:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4DSNZSG42DSYTDGQZWKZJXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성태 전 쌍방울 회장이 지난 4월 28일 서울 여의도 국회 윤석열정권정치검찰조작기소의혹사건진상규명국정조사특별위원회에서 열린 윤석열 정권 정치검찰 조작기소 의혹 사건 종합 청문회에서 의원 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 경기도지사 선거와 더불어민주당 대선 경선 당시 이재명 대통령에게 ‘쪼개기 후원’을 한 혐의를 받는 김성태 전 쌍방울 회장에게 3일 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 이날 정치자금법 위반 혐의를 받는 김 전 회장에게 “피고인이 공소사실을 모두 인정하고 있고, 증거로 비춰봐도 유죄로 인정된다”며 벌금 500만원을 선고했다. 앞서 검찰은 벌금 500만원을 선고해 달라고 서면으로 요청했는데, 구형량과 같은 형이 선고된 것이다. &lt;br&gt;&lt;br&gt;김 전 회장은 이화영 전 경기도 평화부지사와 공모해 2021년 7월 더불어민주당 대선 경선 후보로 나섰던 이 대통령을 위해, ‘불법 쪼개기 후원’을 한 혐의로 불구속 기소됐다. &lt;br&gt;&lt;br&gt;김 전 회장은 대선 당시 자신과 쌍방울 임원 등 지인 12명의 명의로 총 9000만원을 나눠 기부한 것으로 파악됐다. 또 2018년 경기지사 선거 당시에는 800만원을 이재명 후원회에 기부한 것으로도 조사됐다. 정치자금법에 따르면, 대선(경선) 후원회엔 연간 1000만원, 이외 선거 후원회엔 연간 500만원을 초과해 기부해선 안 되는데 이를 어긴 것이다.&lt;br&gt;&lt;br&gt;김 전 회장은 재판 과정에서 모든 혐의를 인정했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인은 쌍방울 직원과 지인의 명의를 빌려서 법정한도를 초과한 정치자금을 기부해 정치자금법을 위반했고, 그 액수도 적지 않다”고 했다. 다만, 재판부는 “(김 전 회장) 자신의 개인 자금으로 정치자금을 준 것으로 보이고, 명의를 빌려준 사람들이 피고인의 강압에 의해 빌려준 것으로 보이지 않는 점 등을 참작했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7RVP335JT7IWSQVRNJ6EZ7H6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난해 10월 25일 오후 서울 여의도 국회 법제사법위원회에서 열린 법무부·법제처·감사원·고위공직자범죄수사처·헌법재판소·대법원 종합 국정감사에 출석해 김성태 전 쌍방울 회장 관련 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 이 사건과 관련해 김 전 회장에게 쪼개기 후원을 지시한 혐의로 함께 기소된 이 전 부지사에 대해선 지난달 20일 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 이 전 부지사가 혐의를 부인하자, 그의 ‘연어 술 파티 위증’(국회 증언감정법 위반) 및 ‘북한 묘목 지원’(직권남용, 위계공무집행방해, 지방재정법 위반) 혐의 등을 함께 묶어 지난 8~19일 국민참여재판을 진행했다.&lt;br&gt;&lt;br&gt;재판부는 이와 관련해 “이 전 부지사가 범행에 관여한 것이 아닌가 하는 의심이 들기는 한다”고 이 전 부지사의 판결문에 밝혔다. 실제로 김 전 회장이 정치자금법상 한도를 피하기 위해 여러 사람 명의로 후원금을 냈고, 이 전 부지사와 사전 연락이 없었다면 형사처벌 위험을 감수하면서까지 다른 사람의 명의로 후원할 특별한 이유가 없었다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTCMLFGU3TEZJRGE4GCZTBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사의 이른바 '연어 술파티' 위증 등 혐의 사건 국민참여재판이 열린 경기 수원시 영통구 수원지방법원 204호 대법정/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 재판부는 국민참여재판에서 배심원 7명이 만장일치로 이 전 부지사의 관여 사실이 합리적 의심 없이 증명되지 않았다고 평결한 점을 존중해 무죄로 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“때린 남편이 가져갈까봐 치료비 못 드려요” 까다로운 피해자 지원금</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/KRY37UADYRBSBG4RQSC4E6J4GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/KRY37UADYRBSBG4RQSC4E6J4GE/</guid>
-      <dc:creator>이기우 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQVFW3NT54ZM7ZPMDX4FCGU5I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한국여성인권진흥원 디지털성범죄피해자지원센터 앞에 딥페이크 예방 관련 포스터가 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에 사는 30대 주부 양서정(가명)씨는 지난해 7월 남편에게 폭행을 당했다. 임신 초기였던 양씨는 남편의 폭행으로 하혈까지 했지만, 치료비 부담에 병원 방문을 꺼렸다. 사건을 담당한 경찰관은 양씨 치료비를 마련해주려고 법무부 산하 범죄피해자지원센터에 도움을 요청했다.&lt;br&gt;&lt;br&gt;하지만 문제가 있었다. 범죄 피해자가 지원센터에 치료비를 신청하고, 실제 심사를 거쳐 지급받기까지는 한두 달 이상이 걸렸다. 당장 치료비가 급한 양씨에겐 너무 긴 시간이었다. 결국 경찰은 지방자치단체의 긴급복지지원제도를 통해 양씨가 치료비를 지원받을 수 있게 도왔다. 담당 경찰관은 “그나마 양씨는 운이 좋았던 편”이라며 “당장 치료비나 생계비가 막막한데도 제때 지원받지 못하는 피해자가 수두룩하다”고 했다.&lt;br&gt;&lt;br&gt;양씨처럼 폭행 등을 당해 치료비나 생계 지원이 필요한 범죄 피해자를 위해 정부는 범죄피해자보호기금을 운영하고 있다. 이 기금은 범죄 가해자가 국가에 낸 벌금의 8%를 떼어내 조성한 돈 등으로 마련된다. 올해 이 기금 1027억원 중 567억원(55%)은 법무부가, 56억원(6%)은 경찰청이 타 갔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPYC4ZKNTZAIFKVS5M45TEH3TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범죄 피해자는 이 기금에서 치료비로 연간 최대 1500만원, 생계비로 6개월간 월 최대 100만원씩 지원받을 수 있다. 이 돈은 법무부에 할당된 예산에서 나온다. 경찰 관계자는 “사건이 행정안전부 소속인 경찰 수사 단계에 있으면 지원금 심사 대상에서 제외되는 경우가 적지 않다”고 전했다. 경찰청이 2024년 1월부터 2025년 7월까지 접수된 범죄피해자보호기금 신청 현황을 분석했더니, 신청 후 실제 지급까지 치료비는 평균 80.1일, 생계비는 평균 53.2일이 걸렸다.&lt;br&gt;&lt;br&gt;지원 요건도 까다롭다. 법무부 홈페이지를 보면 치료비 지원은 ‘범죄로 인해 5주 이상 치료가 필요한 경우’, 생계비 지원은 ‘범죄로 인해 생계 지원이 필요한 경우’ 정도로만 명시돼 있다. 그런데 법무부 산하 ‘경제적 지원 심의위원회’가 지원 여부를 심사할 때는 다른 조건까지 따지는데, 이때 통과하지 못하는 피해자가 많다고 한다. 실제 지난해 4월 충북 청주에선 가정폭력 피해자가 치료비 지원을 신청했지만 거절당했다. 피해자와 함께 사는 가해자에게 지원금이 갈 수 있다는 이유에서다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>둘리 신분증에 뚫린 담배 자판기</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/03/62VT7B6QDBCQTJEDWGK63QQGAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/03/62VT7B6QDBCQTJEDWGK63QQGAA/</guid>
-      <dc:creator>이미지 기자, 윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJD6IATYPVBC5ETV5KX2J7ZDFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 서울의 한 전자담배 자동판매기에 만화 주인공 ‘둘리’ 그림을 붙인 가짜 주민등록증을 넣고 성인 인증을 통과한 모습. 이름, 주민등록번호, 주소 모두 엉터리였지만 성인 인증을 통과했다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 서울 중구의 한 지하철역에 설치된 전자담배 자동판매기에 만화 주인공 ‘둘리’ 그림을 붙인 가짜 주민등록증을 넣고 성인 인증 버튼을 눌렀다. 그러자 곧바로 “성인 인증이 완료됐습니다”는 소리가 흘러나왔다. 결제를 마치자 자동판매기에서 액상형 전자담배가 나왔다. 자동판매기에 적힌 ‘신분증 도용은 평생 전과로 남습니다’는 문구가 무색한 상황이었다. 이 신분증은 서울시가 전자담배 자동판매기의 성인 인증 실태를 조사하기 위해 만든 것이다. 주민등록증과 크기가 같은 플라스틱 판에 둘리 그림을 붙였다. 이름은 ‘둘리’, 생년월일은 ‘1983년4월22일’, 주소는 ‘부천시 원미구 둘리의거리’로 썼다. 누가 봐도 가짜 주민등록증이지만 자동판매기의 성인 인증을 통과한 것이다. &lt;br&gt;&lt;br&gt;서울시가 지난 4~6월 ‘둘리 신분증’ 등 가짜 신분증 5종을 만들어 서울 시내에 있는 전자담배 자동판매기 415대에 읽혀보니 168대(40.5%)가 가짜 신분증을 걸러내지 못했다. 168대 중 122대는 서울시가 만든 가짜 신분증 5종을 전부 진짜로 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBGUULC36NDEJKRWAM3OTSAE2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자담배 자동판매기는 국민건강증진법에 따라 성인 인증 장치를 갖춰야 하지만 인증 수준에 대해선 규정이 없다. 최경진 개인정보보호법학회 회장은 “원칙적으로 행정안전부 전산망을 통해 신분증의 진위를 파악할 수 있는 시스템을 갖춰야 하지만 상당수 업체가 비용을 아끼기 위해 인증 수준이 낮은 시스템을 사용하고 있다”고 했다. 인증 수준이 낮은 자동판매기는 생년월일 숫자가 성인인지 정도만 걸러낼 수 있다고 한다. 신분증의 크기와 글자·숫자가 제자리에 쓰여 있는지만 확인하는 기기도 있다고 한다. 업계 관계자는 “성인 인증을 정확하게 할 수 있는 자동판매기는 200만원 정도 더 비싸다”며 “재수 없게 걸리더라도 ‘무인 점포라 미성년인지 몰랐다’고 하면 책임을 피할 수 있어 돈 들이길 꺼린다”고 했다.&lt;br&gt;&lt;br&gt;문제는 이렇게 허술한 시스템이 무인 모텔이나 무인 술집에도 설치돼 있다는 것이다. 같은 날 서울시가 만든 가짜 신분증 5종을 들고 서울 광진구의 한 무인 모텔을 찾았다. 미성년자가 출입할 수 없는 곳이다. 키오스크에 ‘둘리 신분증’을 밀어 넣자 “투숙객의 성인 인증이 성공했습니다”라는 문구가 나왔다. 가짜 신분증 5종 모두 이 모텔의 성인 인증을 통과했다. &lt;br&gt;&lt;br&gt;이런 가짜 신분증은 X(옛 트위터) 등 소셜미디어에서 쉽게 살 수 있다. 소셜미디어에서는 “10만원에 실물 신분증 제작해 드려요” “원하는 이름, 주소, 사진으로 실물 신분증 만들어 드립니다” 같은 글을 찾아볼 수 있다. 아예 ‘신분증 판매소’ ‘신분증 제작 업체’ 등 이름으로 운영 중인 업체도 있다. 이들은 주민등록증과 같은 크기의 플라스틱 판에 글씨, 숫자, 사진을 인쇄한 비닐을 입혀 가짜 신분증을 만든다고 한다. 학생들은 포인트 카드 등에 주민등록증 견본을 인쇄해 붙이는 방법도 쓴다. 주민등록증 견본은 인터넷 검색 사이트에서 쉽게 찾을 수 있다. &lt;br&gt;&lt;br&gt;고등학생 최모(17)군은 “요즘엔 담배 때문에 편의점에서 실랑이할 일이 없다”며 “가짜 주민등록증을 사서 전자담배를 즐긴다”고 했다. 청소년들은 가짜 신분증을 구별하지 못하는 자동 판매기 정보를 서로 공유하기도 한다.&lt;br&gt;&lt;br&gt;질병관리청의 ‘청소년건강행태조사’ 결과에 따르면, 지난해 청소년의 전자담배 사용률은 2.4%로 담배 흡연율(2.2%)을 처음 앞질렀다.&lt;br&gt;&lt;br&gt;조영창 서울시 시민건강국장은 “성인 인증 시스템을 제대로 갖추지 않은 업주에게 과태료를 부과할 수 있도록 보건복지부에 제도 개선을 건의했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DWXCCI4TE5GMNCUKWBOWRAMLFA.jpg?auth=59e5ebbf60f403d0d4601debf147c1e526b08d21419bc7c11888001bfd896768&amp;smart=true&amp;width=2335&amp;height=1314" type="image/jpeg" height="1314" width="2335">
-        <media:description type="plain">2일 오후 서울 용산구 숙명여대 인근에 위치한 무인 전자담배 판매소에서 본지 기자가 위조 신분증으로 담배를 구매하는 모습.  /박성원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>한동훈 챙겨줬던 ‘찰밥 할머니’ 주민들 덕에 쫓겨날 위기 넘겨</title>
       <link>https://www.chosun.com/national/regional/2026/07/03/7JSAY5WEBZH3VL3K3OKNS7OAOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/03/7JSAY5WEBZH3VL3K3OKNS7OAOE/</guid>
@@ -948,33 +981,6 @@
       <description/>
       <pubDate>Thu, 02 Jul 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXDSX5R3PZDP7OWUVNXVE74S6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신임 국가수사본부장에 홍석기 임명</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/02/57PNO5Q5GVDVRAZORBLNRNGRFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/02/57PNO5Q5GVDVRAZORBLNRNGRFM/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 13:47:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQSX5HRZYND5HEBJTY5NWGBB2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍석기 4대 국가수사본부장. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부장에 홍석기(57) 국수본 수사국장이 치안정감으로 승진해 2일 임명됐다. 홍 신임 본부장은 충북 제천 출신으로 제천고와 경찰대(8기)를 졸업했다. 총경 때 충북 충주경찰서장과 서울 서대문경찰서장을 지냈고 2021년 경무관으로 승진해 충북 청주흥덕경찰서장을 거쳤다. 이어 국수본 사이버수사심의관을 거쳐 작년 9월 치안감으로 승진해 국수본 수사국장에 임명됐었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한화오션 하청 노조 파업권 확보...노란봉투법 시행 뒤 첫 사례</title>
-      <link>https://www.chosun.com/national/labor/2026/07/02/NKEZHV7MG5HDXH5RHS3N7XXO3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/07/02/NKEZHV7MG5HDXH5RHS3N7XXO3I/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 11:01:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SDGMRZGQ2WCYJSGRSTGNBXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 거제시 한화오션 거제사업장 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한화오션(옛 대우조선해양) 하청 노조가 원청인 한화오션을 상대로 합법적인 파업권을 획득했다. 지난 3월 노란봉투법 시행 뒤 하청 노조가 파업권을 얻은 첫 사례다.&lt;br&gt;&lt;br&gt;2일 노동계 등에 따르면 경남지방노동위원회는 민주노총 금속노조 거제통영고성 조선 하청 지회와 웰리브 지회(급식·청소업체 노조)가 한화오션을 상대로 신청한 조정 사건에 대해 이날 회의를 열고 조정 중지를 결정했다. 경남지노위 결정으로 거제통영고성 하청 지회와 웰리브 지회는 한화오션을 상대로 합법적인 파업을 할 수 있게 됐다.&lt;br&gt;&lt;br&gt;두 노조는 노란봉투법이 시행된 당일인 지난 3월 10일 원청인 한화오션에 단체교섭을 요구했다. 한화오션은 관련 공고를 내면서 웰리브 지회가 교섭 요구한 사실을 포함시키지 않았다. 이에 금속노조가 경남지노위에 시정 신청을 했고, 경남지노위는 이를 받아들여 ‘웰리브 지회를 포함해 교섭 요구 노조 확정 공고를 내라’고 판정했다. 한화오션이 하청 노조인 웰리브 지회와도 교섭을 해야 한다고 판단한 것이다. 한화오션은 이에 불복해 중앙노동위원회에 재심을 신청했으나, 중노위는 지난달 15일 다시 하청 노조의 손을 들어줬다. &lt;br&gt;&lt;br&gt;하지만 이후 단체 교섭은 이뤄지지 않았다. 이에 금속노조가 쟁의 조정 신청을 했고, 경남지노위가 이날 조정 중단을 선언한 것이다. 10차례 단체 교섭을 요구했지만 한화오션이 모두 응하지 않았다는 것이 노조 측 주장이다.&lt;br&gt;&lt;br&gt;웰리브지회는 지난달 실시한 파업 찬반 투표에서 78.3%의 찬성으로 파업을 가결한 상태다. 거제통영고성 조선 하청 지회도 지난달 29일부터 오는 3일까지 파업 찬반 투표를 진행하고 있다.&lt;br&gt;&lt;br&gt;두 노조는 우선 한화오션 측에 추가로 단체 교섭을 요구하고, 응하지 않으면 파업을 하겠다는 방침인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;금속노조 거제통영고성 조선 하청 지회는 지난 2022년 대우조선해양 옥포조선소에서 선박 건조 공간인 ‘독(dock)’을 51일간 불법 점거하는 방식으로 파업을 벌이며 회사 측과 극심한 갈등을 빚었다. 이 파업은 이후 노란봉투법 제정의 직접적인 계기가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, ‘양평고속도로 특혜 의혹’ 원희룡 前국토부 장관에 8일 출석 통보</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/02/BXDU6BYB4JEUPICKMZGJKBOUWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/02/BXDU6BYB4JEUPICKMZGJKBOUWM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 07:22:18 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)이 ‘서울~양평고속도로 노선 변경’ 의혹과 관련해 원희룡 전 국토교통부 장관에게 오는 8일 출석하라고 통보했다. 앞서 1차 소환장이 전달되지 않으면서 조사가 불발되자 다시 출석을 요구한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYGCOJQGVRGCMLGGMYTMZLCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원희룡 전 국토교통부 장관. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 2일 “원 전 장관에게 오는 8일에 출석을 요구하는 2차 소환 통지서를 발송했다”고 밝혔다. &lt;br&gt;&lt;br&gt;‘서울~양평고속도로 노선 변경’ 의혹은 윤석열 정부 당시 김건희 여사에게 특혜를 주기 위해 고속도로의 종점을 변경했다는 내용이다. 국토부는 당초 양서면이었던 고속도로 종점을 2023년 5월 김 여사 일가의 부동산이 있는 강상면으로 변경하는 방안을 검토했다. 이후 특혜 논란이 불거지자 원 전 장관은 같은 해 7월 사업 백지화를 선언했다. 특검은 원 전 장관이 도로정책심의위원회를 열지 않은 채 사업 추진 방향을 변경한 경위 등을 들여다보고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 원 전 장관을 직권남용 혐의로 입건한 뒤 오는 3일 특검에 출석해 조사받으라는 소환장을 보냈다. 그러나 소환장은 폐문부재로 송달되지 않았다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 김건희 특검은 노선 변경에 영향력을 행사한 혐의로 국토교통부 서기관 김모씨 등을 기소했지만, 원 전 장관의 범죄 혐의는 밝혀내지 못해 기소하지 않았다.&lt;br&gt;&lt;br&gt;원 전 장관은 특검의 소환 통보 사실이 알려지자 전날 자신의 페이스북에 “국책사업을 마비시킨 가짜뉴스에 맞서, 장관으로서 정무적 결단을 내린 게 죄라면 구차하지 않겠다”고 적었다. 이어 사업 백지화는 도로정책심의위 심의 대상이 아니라면서 “있지도 않은 법을 위반했다는 것이냐. 억지 부리지 말고 죄가 있다면 체포해 가라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
