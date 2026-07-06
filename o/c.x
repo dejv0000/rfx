@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보]광주경찰청 수사전담팀, 장윤기 살인사건 담당 수사팀장 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/06/KEUPDKBSFVHTPPCOFD3DVNAYYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/06/KEUPDKBSFVHTPPCOFD3DVNAYYU/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 23:57:23 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 특검 마구잡이 수사 확대에 내란 특검 “증인들 입 닫아 공소유지 난항”</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/06/22PE4TTTBJGQVHQV76Y3OHNZ7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/06/22PE4TTTBJGQVHQV76Y3OHNZ7A/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOTA6WGBLBKZDOBSB52OOK5EIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'3대 특검'(내란·김건희·순직해병) 이후 남은 의혹을 수사하는 권창영 종합특별검사가 지난 2월 26일 내란·외환 의혹을 수사한 조은석 특별검사를 예방하기 위해 서울고검 청사로 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 관련 내란 혐의 등을 수사 중인 2차 종합특검(특별검사 권창영)이 앞서 진행된 내란 특검(특별검사 조은석)의 수사 결과를 속속 뒤집고 있어, 이미 진행 중인 내란 사건 재판이 흔들리고 있다. 법조계에선 “2차 특검의 무리한 수사 확대가 3대 특검의 공소 유지에 악재가 되고 있다”는 말까지 나온다.&lt;br&gt;&lt;br&gt;최근 서울중앙지법 형사37-2부(재판장 오창섭) 심리로 열린 김현태 전 특전사 707특수임무단장 등 전직 군인 6명에 대한 내란 중요 임무 종사 혐의 재판에 증인으로 출석한 현역 군인들이 “2차 특검에 입건된 혐의와 관련된 내용이라 증언이 어렵다”며 증언을 거부한 것으로 전해졌다. 이들은 앞서 내란 특검 수사 때 참고인 신분으로 조사를 받았는데, 당시는 협조적인 태도로 계엄 당시 상황을 진술했고 이들의 진술 조서를 재판에 증거로 냈다고 한다.&lt;br&gt;&lt;br&gt;그러나 이들은 최근 2차 특검에서 계엄 가담 혐의로 줄줄이 입건됐다. 이때부터 재판에 나와 “2차 특검 수사에서 불리하게 사용될 수 있어서 말할 수 없다”고 입을 닫아버린 것이다. 이와 관련해 내란 특검 관계자는 “내란 특검에서는 핵심 가담자가 아니라고 판단해 기소도 하지 않은 사람들인데, 2차 특검이 입건하는 일이 이어지고 있다”며 “이들은 내란에 가담한 정도가 심한 피고인들의 혐의 입증에 필요한 진술을 해줬던 참고인들인데, 갑자기 입을 닫아버리니 혐의를 입증하는데 난항을 겪고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U45VH3FMORLSBISJFNN6LPHSTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-3505&gt; 4차 소환되는 홍장원 전 국정원 1차장&#13;
+    (과천=연합뉴스) 김주형 기자 = 홍장원 전 국가정보원 1차장이 26일 '계엄 정당화 메시지 전달' 의혹과 관련해 피의자 신분으로 조사를 받기 위해 경기도 과천 권창영 2차 종합 특별검사팀으로 출석하고 있다. 2026.6.26&#13;
+    kjhpress@yna.co.kr/2026-06-26 09:29:56/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 특검이 내란 중요 임무 종사 혐의로 입건한 홍장원 전 국가정보원 1차장도 내란 특검 수사에 큰 도움을 준 대표적 인물이다. 홍 전 차장의 진술은 윤석열 전 대통령이나 김용현 전 국방장관 등의 내란 혐의를 입증하는 데 결정적인 역할을 했다. 홍 전 차장은 윤 전 대통령의 헌법재판소 탄핵 심판과 국회 등에서 “계엄 당일 윤 전 대통령에게 ‘싹 다 잡아들여’라는 전화를 받았고, 여인형 전 방첩사령관에게 정치인 등 체포 대상자 명단을 전달받았다”고 증언했다. 2차 특검은 그런 홍 전 차장을 내란 중요 임무 종사 혐의로 입건해, 네 차례 피의자 조사를 벌였다.&lt;br&gt;&lt;br&gt;2차 특검의 수사 확대가 내란 특검이 기소한 피고인들의 재판 결과에도 영향을 미치고 있다는 목소리도 나온다. 이은우 전 KTV 원장은 12·3 비상계엄 당시 방송에서 계엄을 비판하는 자막을 빼도록 지시한 혐의(직권남용)로 1심에서 징역 1년에 집행유예 2년을 선고받았다. 하지만 2차 특검은 내란 특검이 앞서 기소한 직권남용에 이어 내란 선전 혐의를 추가로 수사 중이다. 이와 관련해 법조계 일각에선 “이 전 원장이 내란 선전이라는 중대한 혐의로 별도로 수사를 받고 있어, 재판부가 직권남용에 대해 비교적 가벼운 형을 준 것 같다”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;이런 가운데 2차 특검은 특검법을 개정해 수사 기간을 30일 더 연장하고, 수사 인원도 늘려달라고 국회에 요청했다. 현행 특검법은 특검이 30일씩 두 차례 수사 기간을 연장할 수 있도록 규정하고 있다. 지난 2월 25일 수사를 개시한 특검은 90일간의 수사 기한을 소진한 뒤 두 차례 수사 기간 연장을 신청했고, 오는 24일 수사 종료를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤석열, 9일 첫 대법원 판단 나온다</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/06/2NAFL2HVFZARVMRKMZBW2WPQRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/06/2NAFL2HVFZARVMRKMZBW2WPQRU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDMMLDGE2TKZDBMVSTGYRYME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처) 체포영장 집행 방해 및 국무위원 심의권 침해로 재판에 넘겨진 윤석열 전 대통령이 작년 12월 26일 서울 서초구 중앙지방법원에서 열린 1심 결심 공판에서 최후 진술을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 9일 특수공무집행방해·직권남용 등 혐의로 기소된 윤석열 전 대통령에 대한 선고 기일을 연다. 12·3 비상계엄 사태 583일 만에, 윤 전 대통령에 대한 대법원의 첫 판단이 나오는 것이다. 재판 생중계 여부는 아직 결정되지 않았다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 2024년 12월 3일 비상계엄 선포 전 열린 국무회의에 일부 국무위원만 소집해 참석하지 못한 국무위원 9명의 심의권을 침해한 혐의를 받고 있다. 윤 전 대통령은 또 작년 1월 대통령 경호처 직원을 동원해 고위공직자범죄수사처(공수처)의 체포 영장 집행을 막은 혐의도 받는다.&lt;br&gt;&lt;br&gt;이 밖에 윤 전 대통령은 국무총리와 국방부장관이 서명한 문서에 의해 계엄이 이뤄진 것처럼 허위 선포문을 만들고 폐기한 혐의(허위 공문서 작성·행사 등), 계엄 선포 후 외신에 허위 공보를 지시한 혐의(직권남용), 군 사령관들의 비화폰 통화 기록을 삭제하도록 지시한 혐의(직권남용 교사)도 받고 있다.&lt;br&gt;&lt;br&gt;1심 재판부는 지난 1월 이들 혐의 가운데 외신에 허위 공보를 지시한 혐의를 제외한 나머지 혐의를 유죄로 보고 윤 전 대통령에게 징역 5년을 선고했다. 그러나 2심 재판부는 지난 4월 허위 공보 혐의까지 유죄로 인정해 1심 형량보다 무거운 징역 7년을 선고했다. 다만 1심과 2심 모두 허위 선포문이 외부로 공개되지 않은 점 등을 참작해 허위 공문서 행사 혐의는 무죄로 판단했다. 2심 판단에 대해 윤 전 대통령과 내란 특검팀이 모두 상고하면서 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSUIGKUBSVHN5LGYARAU3GCFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 1월 3일 서울 용산구 한남동 대통령 관저 입구에서 윤석열 전 대통령에 대한 체포영장 집행에 나선 고위공직자범죄수사처 수사관들이 대치하고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 재판 외에도 윤 전 대통령은 1심에서 무기징역을 선고받은 내란 우두머리 혐의 사건, 징역 30년을 선고받은 평양 무인기 사건, 무죄를 선고받은 재판 위증 사건 등으로 3개 재판을 받고 있다. 모두 항소심이 진행 중이다.&lt;br&gt;&lt;br&gt;내란특검(특별검사 조은석)은 현재 피고인 60명에 대한 22건의 재판이 진행 중이라고 밝혔다. 상고심 3건(피고인 3명), 항소심 11건(피고인 24명), 1심 8건(33명)이다. 내란특검이 기소한 사건 중 지금까지 대법원 확정 판결이 나온 건 노상원 전 정보사령관의 개인정보보호법 위반 사건 1건이다. 지난 5월 12일 대법원 2부(주심 박영재 대법관)는 이른바 ‘부정선거 수사단’을 꾸리려고 군사 정보를 빼낸 혐의로 기소된 노 전 사령관에게 징역 2년에 추징금 2490만원을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;또 내란 중요임무종사 등 혐의로 기소된 한덕수 전 국무총리와 이상민 전 행정안전부 장관도 대법원 판단을 앞두고 있다. 한 전 총리와 이 전 장관은 2심에서 각각 징역 15년과 징역 9년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTAYRZGQ4GIMZZGA2DKMTBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사에게 청탁할 목적으로 명품 가방과 목걸이를 전달한 혐의를 받는 윤영호 전 통일교 세계본부장(가운데 넥타이 착용)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 대법원은 윤 전 대통령 선고가 예정된 9일 김건희 특검(특별검사 민중기)이 기소한 윤영호 전 통일교 세계본부장과 건진법사 전성배씨의 청탁 사건도 선고한다. 앞서 윤 전 본부장은 전씨를 통해 김건희 여사에게 그라프 다이아몬드 목걸이와 샤넬 가방 등을 전달한 혐의 등으로 2심에서 징역 1년 6개월을, 전씨는 김 여사와 공모해 통일교 측 금품을 받은 혐의 등으로 2심에서 징역 5년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>병원들 “수술 받으려면 헌혈자 구해오세요”</title>
       <link>https://www.chosun.com/national/national_general/2026/07/07/LOTJZBFDHRBCHCQTOJTT7ZMQFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/07/LOTJZBFDHRBCHCQTOJTT7ZMQFA/</guid>
@@ -852,16 +882,6 @@
       <content:encoded>한국보다 고령화를 먼저 겪은 일본도 2000년대 중반부터 요양 병상 수를 줄이기 위해 구조 조정에 나선 바 있다. 일본의 요양 병상은 우리나라처럼 독립된 요양 병원이 아니라 각 병원의 요양 병동에 있다.&lt;br&gt;&lt;br&gt;일본 정부는 지난 2006년 “장기 요양 병상이 치료(의료)보다 생활·수용(돌봄) 기능에 치우쳤다”며 “약 38만 병상인 장기 요양 병상 중 ‘의료 요양 병상’이 아닌 ‘개호(돌봄) 요양 병상’을 2012년까지 15만 병상으로 줄이겠다”고 발표했다. 의료 제도 개혁의 일환으로, 요양 병상의 약 60%를 감축한다는 대규모 구조조정 방안이었다. 당시 일본에선 굳이 입원할 필요가 없는 환자들이 요양 병원에서 장기간 생활하면서 ‘사회적 입원’ 논란이 불거진 상태였다. 현지 언론들도 당시 “요양 병동이 기숙사로 변질됐다” “병원이 호텔이 돼 가고 있다”고 비판했다고 한다.&lt;br&gt;&lt;br&gt;이는 한국 정부가 요양 병원 1300곳 중 환자 치료 역량이 높지 않은 ‘생활형 요양 병원’ 800곳의 수가(건강보험공단이 병원에 주는 돈)를 삭감하려는 이유와 일맥상통한다. 보건복지부의 ‘5차 국민 보건의료 실태조사’에 따르면 우리나라는 인구 1000명당 요양 병상 수가 5.3개(2020년 기준)로 OECD 가입국 중 가장 많다. 우리나라에서도 요양 병원의 사회적 입원 문제는 오랜 기간 논란거리였다. 또 일본처럼 “요양 병원이 아니라 숙박 시설”이란 비판도 계속 이어져왔다. 이 800곳 요양 병원은 국내 전체 요양 병원의 약 60%로, 일본이 지난 2006년 목표로 내세웠던 병상 감축 비율과도 거의 비슷하다. &lt;br&gt;&lt;br&gt;하지만 일본 정부는 이를 추진하는 내내 병원들의 거센 반발에 부딪혔다고 한다. 일부 환자들까지 “입원할 병원이 없어지면 안 된다”고 반대에 나섰다. 결국 일본 정부는 장기 요양 병상 ‘60% 감축’ 시한을 당초 목표했던 2012년에서 2018년으로 늦췄고, 이후 또다시 2024년까지로 재조정했다. 일본 후생노동성에 따르면, 2024년 기준 일본의 요양 병상 수는 27만3000개로 집계됐다. 18년에 걸쳐 처음 발표했던 감축 목표치(60%)의 약 절반인 28%를 줄인 셈이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>로봇 축구, 내가 이길테야</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/04/WXO2ZSFJQZB2RJD6Y6VE6Q5UE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/04/WXO2ZSFJQZB2RJD6Y6VE6Q5UE4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSQD5LTZLJBOHC5MBO37DG6VDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 부산 남구 평화공원에서 열린 ‘2026 드림업(Dream Up)! 청소년 진로 직업 체험 박람회’에서 어린이들이 리모컨을 조작해 로봇 축구를 하고 있다. 이마에는 더위를 식히는 쿨링 패드를 붙였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>믿을 건 선풍기와 냉감이불뿐… 쪽방촌은 올여름이 특히 두렵다</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/07/04/HQX4V6REMRE4TJNZN3EXDHZDN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/04/HQX4V6REMRE4TJNZN3EXDHZDN4/</guid>
@@ -874,15 +894,6 @@
       </media:content>
     </item>
     <item>
-      <title>주말 나들이 실내로 가야겠네</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/07/04/MD6PXTF2KBABXCFIQMSMNNAV54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/04/MD6PXTF2KBABXCFIQMSMNNAV54/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 15:47:00 +0000</pubDate>
-      <content:encoded>이번 주말 남부 지방을 시작으로 전국에 장맛비가 내리겠다. 본격적인 장마철에 접어들면서 다음 주까지 곳곳에 많은 비를 뿌릴 전망이다. 또 낮 동안은 폭염(일 최고 체감온도 33도 이상)에 가까운 더위가 나타날 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 정체전선(장마전선)에서 발달한 저기압의 영향으로 토요일인 4일 제주와 남부 지방, 충청권에 비 소식이 있다. 이날 예상 강수량은 충청 5~10㎜, 호남 5~80㎜, 부산·울산·경남 5~40㎜, 대구·경북 5~10㎜, 제주 30~150㎜ 등이다. 특히 광주와 제주에선 이날 오전까지 돌풍과 함께 천둥·번개를 동반한 시간당 20~30㎜의 강한 비가 퍼부을 것으로 보인다. 시간당 30㎜는 ‘매우 많은 비’의 기준이 되는 강수량으로, 운전할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다. &lt;br&gt;&lt;br&gt;일요일인 5일에는 남쪽에 머물러 있던 정체전선이 저녁부터 수도권과 강원도까지 북상하며 비가 전국으로 확대되겠다. 5일 예상 강수량은 수도권·강원도 5~20㎜, 충청권 20~60㎜, 호남 30~80㎜, 영남 20~80㎜, 제주 20~60㎜ 등이다. 당분간 내륙을 중심으로 한낮 기온이 최고 30도 이상으로 오르고, 비로 인해 습도가 높아져 최고 체감 온도는 폭염 수준으로 더 올라갈 전망이다. 4~5일 아침 최저기온은 19~23도, 낮 최고기온은 25~32도로 예보됐다.&lt;br&gt;&lt;br&gt;월요일인 6일에도 전국에 비가 이어지겠다. 이후 정체전선이 남하하면서 7~8일은 충청권과 남부·제주에, 9일은 다시 정체전선이 북상하면서 중부지방에 비를 뿌릴 전망이다. 이 기간 최고기온도 30도 내외를 유지할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“강북 개발땐 공공기여 부담 절반 축소”</title>
       <link>https://www.chosun.com/national/national_general/2026/07/04/7D3TQ67FQZHUNO774SN3Y72DBI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/04/7D3TQ67FQZHUNO774SN3Y72DBI/</guid>
@@ -890,15 +901,6 @@
       <description/>
       <pubDate>Fri, 03 Jul 2026 15:47:00 +0000</pubDate>
       <content:encoded>서울시가 강북 지역의 민간 개발을 활성화하기 위해 공공기여(기부 채납) 부담을 절반으로 낮춰주기로 했다. 강남에 비해 사업성이 떨어지는 강북에 인센티브를 줘 사업 속도를 끌어올리고 주택 공급도 늘리겠다는 것이다. &lt;br&gt;&lt;br&gt;서울시는 3일 이러한 내용을 골자로 하는 ‘상생발전형 사전 협상+’ 제도를 도입한다고 밝혔다. 대상 지역은 서울 강북 8구와 강서·구로·금천구다. 강북 8구에는 강북·노원·도봉·동대문·서대문·성북·은평·중랑구가 포함된다. 서울 전체 25구 중 11구가 인센티브를 받게 되는 것이다. 서울시 관계자는 “인센티브를 주기로 한 11구는 평균 공시지가가 서울 평균의 60% 이하로 사업성이 낮다”며 “이 때문에 개발이 지연되고 주택 공급도 원활하지 못한 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5NFOVVEJBAKXKETN7TUH7666Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인센티브를 받을 수 있는 사업지는 부지 면적이 5000㎡(약 1515평) 이상인 곳이다. 김용학 서울시 미래공간기획관은 “사업지 총 50여 곳이 인센티브를 받을 수 있을 것으로 예상된다”며 “조만간 부지 소유주 등을 모아 새로운 인센티브 제도를 설명하고 개발을 지원할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;인센티브는 크게 두 가지다. 부지를 개발할 경우 시에 내야 하는 공공기여 부담을 절반으로 줄여준다. 현재는 용도변경 등으로 증가한 이익(토지 가치 상승분)의 60%를 도로, 공원 등으로 기부채납해야 하는데 강북 등 11구는 30%만 내면 된다.&lt;br&gt;&lt;br&gt;주거 비율은 올려준다. 건물을 지을 때 아파트·오피스텔 등 주거 시설의 비율이 높을수록 이익이 높다. 분양해 빨리 수익을 거둘 수 있기 때문이다. 서울시 관계자는 “사업지별로 협의해 주거 비율을 융통성 있게 올려줄 것”이라고 했다. 입지와 개발 여건, 공공성 등을 고려해 정한다는 계획이다.&lt;br&gt;&lt;br&gt;개발업계 관계자는 “장기간 유휴지로 남아 있는 대규모 부지들이 개발 동력을 얻을 수 있을 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;이 제도는 오세훈 시장의 6·3 지방선거 공약을 구체화한 것이다. 오 시장은 선거 때 “강북 지역의 주거 환경을 개선하기 위해 초강력 인센티브를 도입하겠다”고 했었다. 서울시 관계자는 “그동안 강북·강남 간 격차를 완화하기 위해 노력했지만 사업성 문제로 개발 속도에 차이가 컸다”며 “이번 인센티브 제도를 통해 민간 참여를 적극 유도할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성헌 ‘협성사회공헌상’</title>
-      <link>https://www.chosun.com/national/people/2026/07/04/7VWKXGXGK5HQPPDZL42NUG7C6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/04/7VWKXGXGK5HQPPDZL42NUG7C6Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Jul 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYACPVSHQNCL3B5SLBHURQYASI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 강원도 인제 DMZ 평화생명동산에서 정성헌 이사장이 포즈를 취하고 있다. 2026.3.12. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가톨릭농민회부터 새마을중앙회장까지 평생을 민주화와 공동체 운동에 헌신한 정성헌 한국DMZ평화생명동산 이사장이 3일 ‘협성사회공헌상’을 받았다. 상금은 5000만원.&lt;br&gt;&lt;br&gt;정철원 협성종합건업 회장은 시상식에서 “이념보다 이치를 중시하고 반대와 비판을 넘어 대안과 통합을 제시한 정성헌 이사장은 모두의 귀감”이라고 선정 이유를 밝혔다. 정 이사장은 “생명에 이롭고 평화에 도움이 되는 세상을 만들기 위해 더욱 정진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이호진 한국배구연맹 총재</title>
