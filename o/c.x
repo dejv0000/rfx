@@ -13,6 +13,174 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>컨테이너 운임 9주 연속 상승… “성수기 맞은 미주 지역 급등”</title>
+      <link>https://www.chosun.com/national/regional/2026/07/08/DZGL5IOKDFD2XKGNKZO4BHE2YU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/08/DZGL5IOKDFD2XKGNKZO4BHE2YU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 05:09:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFD37CBFHBCW7KCA5XV4HRVB2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남구 부산항 신선대 부두 야적장에 수출입 컨테이너가 쌓여 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국형 컨테이너 운임 지수(KCCI)가 9주 연속 올랐다. 컨테이너 성수기에 진입한 미주 지역이 지수 상승을 견인했다.&lt;br&gt;&lt;br&gt;8일 한국해양진흥공사(해진공)에 따르면, 6일 기준 KCCI는 지난주보다 410포인트(10.46%) 오른 4330포인트를 기록했다. 글로벌 운임 지표인 상하이컨테이너운임지수(SCFI)도 지난주보다 2.7%(87.23포인트) 오른 3326.87포인트였다.&lt;br&gt;&lt;br&gt;KCCI는 해진공이 자체적으로 개발해 발표하는 한국형 컨테이너 운임 지수로, 2022년 7월부터 매주 월요일마다 발표하고 있다. 이 지수는 부산항을 기점으로 미주, 유럽, 중동, 연근해(중국·일본·동남아)로 향하는 13개 주요 항로의 컨테이너선 운임 변화를 쉽게 파악할 수 있도록 설계됐다.&lt;br&gt;&lt;br&gt;이번 주 운임 상승은 본격적으로 성수기에 진입한 미주 지역의 운임 급등이 지수 상승을 견인했다고 해진공은 평가했다. 컨테이너선 시장의 성수기는 7~9월이다. 이 시기엔 미국과 유럽의 블랙프라이데이, 크리스마스, 새해 등 연말 쇼핑 시즌을 앞두고 장난감, 가전제품, 의류 등 소비재 선적이 집중된다. &lt;br&gt;&lt;br&gt;성수기에 진입한 미국 지역에선 관세 정책의 불확실성이 더해지면서 미리 화물을 실으려는 경쟁이 치열했다. 이 때문에 미국 서부와 동부 지역의 컨테이너 운임은 각각 9.3%, 12.4%씩 올랐다. 글로벌 해운 분석 기관 영국 드루리(Drewry)도 “향후 5주간 미주 주요 동서 항로의 취소 항차가 전체의 약 3%인 24항차에 그칠 것으로 집계됐다”며 “대규모 감편 없이도 조기 성수기 수요와 선복(화물 공간) 확보 경쟁이 운임 상승을 뒷받침하는 것으로 분석된다”고 했다.&lt;br&gt;&lt;br&gt;지난달 중순 큰 폭으로 상승한 유럽 지역은 이달엔 운임이 추가로 급등하기보단 높은 수준을 유지하는 단계에 들어선 것으로 분석됐다.&lt;br&gt;&lt;br&gt;중동 항로는 호르무즈 해협 재개방 기대가 반영되면서 3주 연속 하락했다. 하지만 중동 해역의 항행 안전 리스크가 여전히 해소되지 않으면서 선사들의 신중한 운항 기조가 이어지고 있다고 해진공은 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잠든 모친 살해한 30대 징역 18년...  법원 “조현병 영향에도 책임 무거워”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/07/08/4CEMV4PNEBAZPFIDKME4AJHMLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/07/08/4CEMV4PNEBAZPFIDKME4AJHMLM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 05:33:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잠든 어머니를 망치와 흉기로 살해한 30대에게 징역 18년이 선고됐다. 법원은 조현병이 범행에 영향을 미쳤다고 보면서도 책임은 무겁다고 판단했다.&lt;br&gt;&lt;br&gt;청주지법 형사11부(재판장 강성훈)는 8일 존속살해 혐의로 구속기소된 A씨에게 징역 18년을 선고하고 5년간 보호관찰을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 2일 오후 1시 30분쯤 괴산군 자택에서 잠을 자고 있던 60대 어머니에게 망치와 흉기를 수십 차례 휘둘러 숨지게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수사 과정에서 A씨는 “신이 어머니를 보호해줄 것으로 믿었고, 숨지더라도 다시 살아날 줄 알았다”는 취지로 진술했다. 그러나 재판에선 “어머니의 잔소리 때문에 범행했다”며 기존 진술을 번복했다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 법정 진술을 받아들이지 않았다. 범행 당시 조현병으로 의사 결정 능력이 미약한 상태였지만 심신상실 상태는 아니었다고 판단했다.&lt;br&gt;&lt;br&gt;강성훈 부장판사는 “피고인이 주장한 범행 동기에 특별히 참작할 사유가 있다고 보기 어렵다”며 “공판 과정에서 수감 생활의 고통을 이유로 구속 집행정지를 반복 신청한 점도 불리한 정상으로 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 A씨가 자신의 병을 인지하지 못한 상태에서 범행한 점과 아토피 등으로 사회생활에 어려움을 겪으며 장기간 은둔 생활을 해온 점, 유족들이 선처를 탄원한 점 등을 양형에 반영했다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘연 2000%대 고리’ 싱글맘 죽음 내몬 사채업자...檢, 항소심서 징역 8년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/08/AJHC6PJPJ5HNBHJIN4URSZYL4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/08/AJHC6PJPJ5HNBHJIN4URSZYL4A/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 05:06:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F55FSE4Y3Z7KPEQWRU7UN5FGA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 고금리 대출과 협박성 추심으로 30대 싱글맘을 극단적 선택에 이르게 해 1심에서 징역 4년을 선고받은 사채업자에게 항소심에서 징역 8년을 구형했다.&lt;br&gt;&lt;br&gt;서울북부지법 형사항소3부(재판장 허명산)는 8일 오전 대부업법 위반 등 혐의로 구속된 김모(33)씨의 항소심 결심 공판을 열었다. &lt;br&gt;&lt;br&gt;검찰은 이날 공판에서 김씨에게 징역 8년과 777만776원 추징, 압수물 몰수 등을 구형했다. 또 범죄수익은닉규제법 위반과 관련해 공소장 변경도 신청했다. 기존 공소장에서는 빠졌던 범죄수익 금액을 반영해 추징액을 777만776원으로 변경했고, 재판부는 이를 허가했다.&lt;br&gt;&lt;br&gt;김씨 측은 항소심 과정에서 피해자 5명과 추가로 합의해 처벌 불원서를 제출했다고 밝혔다. 김씨 측 변호인은 “검사의 항소를 기각하고 피고인에게 최대한 관대한 형을 선고해 달라”고 요청했다.&lt;br&gt;&lt;br&gt;김씨는 최후 진술에서 “사건 이후 피해자들의 상처를 조금이나마 다스리고 도의적 책임을 다하기 위해 피해자들과 합의했다”며 “2024년 10월 태어난 아들을 보며 부모의 삶이 얼마나 무거운지 알게 됐고, 피해자들도 누군가의 자식이자 부모라는 점을 깨달으면서 그들이 그동안 저로 인해 겪은 고통이 얼마나 컸을지 아버지가 되고 나서야 조금이나마 느끼게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 김씨는 지난 2024년 7~11월쯤 대부업 등록 없이 6명을 상대로 총 1760만원을 연 이자율 1233~6083% 대의 고율로 빌려준 후, 채무자들의 가족과 지인에게 협박성 메시지를 전송하는 등 불법 추심 행위를 한 혐의를 받는다. 김씨에게 돈을 빌린 뒤 지속적으로 협박을 당한 한 30대 싱글맘은 2024년 9월 결국 자살해 전북 완주군에서 시신으로 발견되기도 했다. 당시 김씨가 여성에게 요구했던 이자율은 연 4171%였다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 김씨에게 징역 4년을 선고하고 압수물 몰수와 717만1149원 추징을 명령했다. 다만 일부 초과 이자 수취와 채권추심법 위반 혐의 일부는 증거 부족 등을 이유로 무죄로 판단했다.&lt;br&gt;&lt;br&gt;김씨에 대한 항소심 선고기일은 오는 8월 14일 오전 10시 10분 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 동구 전국 최초로 ‘크루즈 관광특구’ 지정 </title>
+      <link>https://www.chosun.com/national/regional/2026/07/08/WZ4AUNJ36NF4LM3GBCJ7KNX2UA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/08/WZ4AUNJ36NF4LM3GBCJ7KNX2UA/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 04:59:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTDIYTFG44GENBXMM3WINRVMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 동구 부산역 광장에 있는 부산시 슬로건인 'Busan is good' 조형물 앞에서 외국인들이 기념촬영을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 전국 최초로 ‘부산 동구 크루즈 관광특구’를 최종 지정한다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;부산에서 1994년 해운대, 2008년 용두산·자갈치에 이은 세 번째 관광특구다.&lt;br&gt;&lt;br&gt;이번에 지정된 크루즈 관광특구는 부산항국제여객터미널, 부산역, 차이나타운, 초량전통시장, 초량 이바구길, 국가등록 문화유산인 일본식 가옥 오초량 일대 등이다. 전체 면적은 약 1.48㎢이다.&lt;br&gt;&lt;br&gt;관광특구로 지정되면 관광진흥개발기금 대여·보조, 국비 지원 사업, 옥외광고물 기준 완화, 공개공지 사용, 지구단위계획 지정, 분양가 상한제 미적용, 카지노 허가 요건 등 다양한 재정 지원과 규제 특례를 적용받는다.&lt;br&gt;&lt;br&gt;시는 관광특구 지정으로 원도심 인구 감소 지역인 동구가 관광산업을 기반으로 한 새로운 성장 동력을 확보하는 전환점이 될 것으로 기대한다.&lt;br&gt;&lt;br&gt;부산시는 “관광특구 지정을 계기로 다양한 글로벌 관광 자원을 새롭게 조성해 세계적인 관광 도시 부산을 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경실련, “李 대통령 취임 1년, 서울 아파트 전·월세 8% 올라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/08/BJZFDTOV6VHRXISH46L56DBOAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/08/BJZFDTOV6VHRXISH46L56DBOAA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 04:56:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43WKNZVMUZDCNTDMFSTSM3BGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 종로구 경제정의실천시민연합 강당에서 '이재명 정부 집값안정을 위한 공공주택 확대공급 촉구 기자회견' 참석자들이 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 부동산 가격 안정화를 위해 공공 임대주택 공급을 늘려야 한다는 시민단체의 제안이 나왔다.&lt;br&gt;&lt;br&gt;8일 오전 경제정의실천시민연합(경실련)은 ‘이재명 정부 공공주택 공급 확대 촉구 기자회견’을 열었다. 경실련은 “조사 결과 이재명 대통령 취임 1년 동안 서울 아파트 전·월세 가격이 8~9% 상승했다”며 “전체 공공주택 중 ‘진짜 공공 임대주택’ 비율은 10년 동안 오히려 줄었다”고 지적했다. &lt;br&gt;&lt;br&gt;경실련은 공공성이 높고 상대적으로 거주 기간이 긴 주택을 ‘진짜 공공 임대주택’이라 정의했다. 영구 임대, 국민 임대, 장기 전세, 통합 공공 임대 주택 등이 그 예다.&lt;br&gt;&lt;br&gt;경실련에 따르면 2024년 기준 공공 임대주택 중 ‘진짜 공공 임대주택’은 전체 197만호 중 101만6000호로 약 51%에 불과했다. 구체적으로 살펴보면 국민 임대(61만2000호), 영구 임대(22만5000호), 50년 임대(11만5000호), 장기 전세(4만1000호) 순이었다. &lt;br&gt;&lt;br&gt;이어 이들 주택을 제외한 다른 유형의 공공 임대주택은 단기간 거주만 가능하고 공공성이 부족해, 오히려 도심 집값 과열을 초래할 수 있다고 했다. &lt;br&gt;&lt;br&gt;경실련은 부동산 안정화를 위해 정부가 나서서 분양 원가를 공개하고 신축약정매입을 중단하라고 제안했다. &lt;br&gt;&lt;br&gt;신축약정매입은 개발 사업자들이 토지를 매입한 뒤 주택을 지으면 공공이 매입하는 방식이다. 정부가 토지비, 건축비를 모두 보전해주는 탓에 고가 매입·집값 과열을 불러일으킨다는 지적이 계속돼왔다. 이를 두고 경실련은 “정부가 5년간 주택매입에 쓴 금액만 21조원”이라며 “정부가 주택공급자가 아닌 주택 매입의 큰 손이 되어 부동산 과열에 기여하고 있는 형국”이라고 짚었다. &lt;br&gt;&lt;br&gt;이어 “분양원가 공개는 소비자의 알 권리를 충족시킬 뿐 아니라 소비자들이 직접 집값 거품을 검증할 수 있게 만든다”며 정부 차원의 분양 원가 공개 필요성도 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이채원양 유족 “증거인멸 혐의 ‘무능’으로 회피하지 마라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/08/TVEMS74UMRCEPMVQ2K5BG4OYZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/08/TVEMS74UMRCEPMVQ2K5BG4OYZY/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 02:04:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLMJJF523BCS3AALXLO62MHTXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 이채원 학생의 부모와 시민단체가 8일 광주경찰청에서 경찰의 부실, 은폐 수사를 규찬하는 기자회견을 열었다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여고생 살해범 장윤기(23)의 피해자 유족과 시민단체가 현직 경찰관인 장윤기 부친과 유착 의혹을 받는 경찰 수사 관련자들의 구속을 촉구했다.&lt;br&gt;&lt;br&gt;고(故) 이채원 학생(16) 추모 모임과 유족은 8일 오전 11시 광주경찰청 앞에서 기자회견을 열고 “경찰은 범죄를 엄단하는 수사관이 아니라 가해자와 한 몸이 되어 사건을 부실하게 처리하고 조직적으로 은폐한 공범이었다”며 “장윤기를 비호한 경찰 공범들에게 사법적 책임을 물어 전원을 즉각 구속할 것을 강력히 촉구한다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 특별수사팀은 지난 6일 전남광주시 광산구 월계동의 한 대로변에서 이양을 납치하려고 할 때 사용했던 SUV 차량에서 케이블 타이를 발견하고도 압수하지 않고 감춘 혐의(증거인멸)로 당시 광산경찰서 수사팀장 박모(59) 경감을 긴급 체포하고 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;박 경감은 차량을 수색할 당시 촬영한 채증 영상을 검찰에 제출하지 않은 혐의도 받는다. 장이 이양을 묶기 위해 준비한 범행 도구를 없애고 그 상황이 찍힌 채증 영상까지 숨기려 했다는 것이다.&lt;br&gt;&lt;br&gt;해당 케이블타이는 전날 광주지검이 장윤기 아버지 집을 압수수색하는 과정에서 실물이 확인됐다.&lt;br&gt;&lt;br&gt;이채원양 어머니는 기자회견에서 “채원이 사건을 계기로 가족이 증거를 인멸해도 처벌받지 않는 친족특례는 개선돼야 하고, 채원이 사건에도 적용돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “우리 딸이 왜 희생됐는지 진실을 찾는게 우선인데, 정쟁화되는 상황이 슬프다”고 말했다.&lt;br&gt;&lt;br&gt;추모모임은 “증거인멸 혐의로 긴급 체포된 경감은 ‘수사에 미흡했거나 무능했을지언정 증거를 고의로 누락 또는 인멸하지 않았다’고 변명하기에 급급하다”며 “그러나 범죄의 고의성을 부정하고 ‘무능’의 탈 속에 숨어 책임을 회피하려는 파렴치한 행태는 하루아침에 딸을 잃은 유가족의 가슴에 대못을 박는 잔인한 2차 가해”라고 했다.&lt;br&gt;&lt;br&gt;이어 “이번 사건은 일선 수사관 몇 명의 일탈이나 무능으로 치부될 수 없다”며 “‘경찰 가족의 범죄’라는 조직의 치부를 감추기 위해 윗선이 개입하고 방조한 전형적인 ‘제 식구 감싸기’식 조직적 은폐수사라는 강력한 의혹을 지울 수 없다”고 했다.&lt;br&gt;&lt;br&gt;유족과 추모모임은 이날 기자회견을 마친 뒤 김영근 광주경찰청장에게 부실수사에 항의하는 서한을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MZSDSMBTGE3DKNLCGI4TIOBVGQ.jpg?auth=c22432839420004dd0fdc0ca528dcd720f13206fd25dd48b154de5165d6c87ab&amp;smart=true&amp;width=2496&amp;height=1712" type="image/jpeg" height="1712" width="2496">
+        <media:description type="plain">도심에서 일면식도 없는 10대 여고생을 살해한 장윤기가 지난 5월 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘尹 법대 후배’ 오석준 대법관, 체포 방해 재판서 빠졌다</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/08/4LEBIFZUGNGXDCYHOLIHSBQXVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/08/4LEBIFZUGNGXDCYHOLIHSBQXVE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 02:50:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5YVYNUEJBPR5CIX4H6SZ7XZDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 11월 28일 오석준 대법관이 서울 서초구 대법원에서 열린 취임식에서 취임사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오석준(사법연수원 19기) 대법관이 윤석열 전 대통령의 ‘체포 방해’ 사건 상고심 재판을 회피한 것으로 8일 나타났다. 회피는 판사가 사건을 맡지 않겠다고 스스로 재판에서 빠지는 것이다. 윤 전 대통령과의 개인적 친분 논란이 재판의 공정성 문제로 번지는 것을 막기 위한 조치로 풀이된다. &lt;br&gt;&lt;br&gt;이날 대법원은 9일 선고를 앞둔 윤 전 대통령의 특수공무집행방해 등 사건과 관련, “오 대법관이 재판 공정성에 대한 오해 우려로 배당 이후 심리에 관여하지 않았고 선고에도 관여하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원 3부는 이흥구·오석준·노경필·이숙연 대법관으로 구성된 소부(小部)다. 윤 전 대통령 사건은 오 대법관이 빠지면서 나머지 3명의 대법관이 심리를 맡았다. 주심은 이숙연 대법관, 재판장은 이흥구 대법관이다. 9일 법정에서는 재판장인 이흥구 대법관이 재판의 결론인 ‘주문’을 선고할 것으로 보인다. &lt;br&gt;&lt;br&gt;오 대법관은 2022년 윤석열 정부에서 처음 임명된 대법관이다. 윤 전 대통령과의 친분은 오 대법관의 인사청문회 과정에서 알려졌다. 두 사람은 서울대 법대 1년 선후배로, 사법시험 준비를 함께 한 것으로 전해졌다. 윤 전 대통령이 79학번, 오 대법관이 80학번이다. &lt;br&gt;&lt;br&gt;오 대법관은 인사청문회에서 “대학 시절 함께 식사하거나 술자리를 한 적이 있다”고 인정했고 윤 전 대통령의 결혼식에도 참석했다고 밝혔다. 또 국회 서면 답변에서는 “2015년부터 2019년까지 약 4년 반 동안 개인적으로 2~3차례 만나 저녁 식사를 하며 술을 곁들였다”고 했다. 다만 “유달리 친분이 있지는 않다”며 “(대통령에게) 전화가 오더라도 끊겠다”고 했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HP4QGULDGNM3RPOYISFZFNCSIE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 대법관 임명장 수여식에서 윤석열 전 대통령과 오석준 대법관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 사건은 윤 전 대통령이 지난해 1월 대통령경호처 직원들을 동원해 고위공직자범죄수사처의 체포영장 집행을 방해한 혐의(특수공무집행방해)와, 비상계엄 선포 직전 일부 국무위원만 소집해 다른 국무위원들의 심의권 행사를 막은 혐의(직권남용 권리행사방해) 등으로 기소된 사건이다. 1심은 윤 전 대통령에게 징역 5년을 선고했고, 2심은 1심의 일부 무죄 판단을 유죄로 뒤집고 더 무거운 징역 7년을 선고했다.&lt;br&gt;&lt;br&gt;대법원은 이번 선고를 방송사에 실시간 중계하도록 허가했다. 전원합의체가 아닌 대법원 소부 선고가 생중계되는 것은 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김석준 부산교육감 “민원대응팀 신설·AI 보조교사로 맞춤형 학습” </title>
+      <link>https://www.chosun.com/national/regional/2026/07/08/KXXDVLHQJVHB3PAQJF2K5XYC74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/08/KXXDVLHQJVHB3PAQJF2K5XYC74/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 05:06:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/357QPBGWSBDO3ESE2IULCYGSWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김석준 부산교육감이 8일 취임 기자회견을 열었다. /부산시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 첫 민선 4선인 김석준 부산교육감은 8일 부산시교육청에서 열린 취임 기념 기자회견에서 “교사와 학생을 함께 지키는 안심 교육에 주력하기 위해 교육지원청별로 민원 대응팀을 신설하겠다”며 “교육 활동활동 침해를 겪는 교사에게 법률·심리·행정 지원 등 긴급 대응 체계를 가다듬겠다”고 했다. 일선 학교가 직접 대응하기 어려운 악성 민원을 교육지원청으로 이관해 처리하는 것이다. &lt;br&gt;&lt;br&gt;김 교육감은 “교직원의 심신을 돕는 교직원 힐링센터 설립을 추진하겠다”며 “인공지능(AI) 보조 교사를 전체 학년에 보급해 개인 맞춤형 학습을 지원하고 디지털 리터러시 교육 콘텐츠를 보급해 학생과 교사가 안전하고 책임 있게 AI를 활용할 수 있는 환경을 조성하겠다”고 했다.&lt;br&gt;&lt;br&gt;수업과 평가의 패러다임도 바꾼다. AI 교수학습지원센터와 AI 서·논술형 평가지원시스템 구축으로 평가의 공정성과 신뢰도를 높이고, 초6·중3 대상 학교급 전환기 학력 향상 프로그램과 고교생 수학·과학 심화 학습으로 맞춤형 학력 신장에도 나선다. &lt;br&gt;&lt;br&gt;진로·직업 교육 강화를 위해 진로교육팀, AI 기반 취업 지원 플랫폼, 미래 직업 교육 센터를 만들 예정이다. 해양 과학과 산업을 체험하며 배울 수 있도록 해양AI교육센터와 부산학생해양수련원 신설도 추진한다.&lt;br&gt;&lt;br&gt;글로벌 인재 양성을 위해 서부산권에 이중 언어 및 국제 교육을 중심으로 한 글로컬 미들스쿨을 설립하겠다는 구상도 내놨다.&lt;br&gt;&lt;br&gt;또 내년 9월 부산오페라하우스 개관을 앞두고 폐교를 활용한 전국 최초 오페라 아카데미를 설립하고 악기 공유 센터를 만들어 학교 오케스트라 확산과 예술 교육을 지원하기로 했다.&lt;br&gt;&lt;br&gt;김 교육감은 “교육에는 진보나 보수가 따로 있을 수 없다”며 “저를 지지한 분이나 지지하지 않은 분 모두를 아우르며 각계각층의 목소리에 귀를 기울이는 ‘모두의 교육감’이 되겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘용담댐 방류 피해’ 홍수관리구역 주민들, 손해배상 2심도 패소</title>
+      <link>https://www.chosun.com/national/regional/2026/07/08/AVL4IAH3C5G4VPLNMYV6LBF2UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/08/AVL4IAH3C5G4VPLNMYV6LBF2UY/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 05:02:28 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금강 수계 하천·홍수 관리 구역 경작민들이 “2020년 장마철 용담댐 방류로 피해를 봤지만 중앙환경분쟁조정위원회 조정 대상에서 제외됐다”며 국가와 수자원공사, 지방자치단체 등을 상대로 제기한 손해배상 소송에서 잇달아 패소했다.&lt;br&gt;&lt;br&gt;대전고법 민사3-1부(재판장 송석봉)는 8일 충남과 충북 옥천·영동, 전북 무주·진안 등 금강 수계 하천 유역 주민 100여 명이 한국수자원공사와 정부, 충남도·충북도·전북도 등 지방자치단체를 상대로 제기한 43억원 규모의 손해배상 소송에서 주민들의 항소를 기각했다. 지난해 7월 국가의 배상 책임을 인정하기 어렵다는 1심 판결이 나온 데 이어 2심에서도 같은 판단이 나온 것이다.&lt;br&gt;&lt;br&gt;하천·홍수 관리 구역 주민들은 2020년 8월 집중호우 때 용담댐 방류량이 과다해 농경지가 침수되는 등 피해를 봤다며 2022년 7월 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;주민들은 국가가 용담댐 수위를 예년보다 높게 유지하는 등 홍수에 제대로 대응하지 못해 피해가 발생했다고 주장해 왔다.&lt;br&gt;&lt;br&gt;당시 하천·홍수 관리 구역 밖 주민들은 중앙환경분쟁조정위원회의 화해 권고 결정으로 배상받았지만, 하천·홍수 관리 구역 내 주민들은 배상에서 제외됐었다.&lt;br&gt;&lt;br&gt;침수 피해가 예상된 데다 보상을 청구할 수 없다는 조건으로 사용 허가를 받았다는 이유를 들었다.&lt;br&gt;&lt;br&gt;이에 주민들은 “국가의 관리상 하자나 과실이 있었다”고 주장하며 법적 대응에 나섰다.&lt;br&gt;&lt;br&gt;3년에 걸친 재판 끝에 1심 재판부는 당시 댐 초기 수위가 예년보다 높았더라도 제한 수위를 넘지 않았으면 규정 위반이라고 보기는 어렵다고 봤다. 또 당시 방류량이 계획 방류량에 미치지 않았기 때문에 관리상 하자나 과실이 있다고 단정하기 어렵다고 판단했다. 원고들의 농경지가 평상시에도 침수 우려가 있는 하천·홍수 관리 구역이라는 점도 고려했다.&lt;br&gt;&lt;br&gt;“제방 정비 등 하천 관리가 소홀해 피해가 발생했다”는 원고의 주장도 구체적인 증명이 부족하다며 받아들이지 않고, 손해액도 증빙이 부족해 그대로 인정하기는 어렵다고 판시했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “1심의 판단이 정당하다”며 주민들의 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 은폐 의혹 ‘케이블 타이’... 장윤기 아버지 집에서 발견</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/08/SSNZJUWVKBDFVGUEBC5T7Q72OM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/08/SSNZJUWVKBDFVGUEBC5T7Q72OM/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 01:24:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSDSMBTGE3DKNLCGI4TIOBVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도심에서 일면식도 없는 10대 여고생을 살해한 장윤기가 지난 5월 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 감춘 의혹을 받는 전남광주 여고생 피살 사건의 핵심 증거물인 ‘케이블 타이’가 살해범 장윤기(23)의 아버지 집에서 발견됐다.&lt;br&gt;&lt;br&gt;8일 광주지검에 따르면 검찰은 전날 장윤기 아버지 집을 압수수색하는 과정에서 장윤기 차량에서 사라진 케이블 타이 실물을 확보했다. 장윤기의 아버지는 전남광주의 한 경찰서 지구대 소속 현직 경찰관(경감)이다.&lt;br&gt;&lt;br&gt;광산경찰서 여고생 피살 사건 담당 수사팀은 지난 5월 5일 전남광주시 광산구 월계동의 한 대로변에 주차된 장윤기 차량에서 해당 케이블 타이를 확인하고도 압수하지 않았다. 케이블 타이는 사람 신체 결박용으로 사용할 수 있어 범행을 입증할 중요한 단서다.&lt;br&gt;&lt;br&gt;이 케이블 타이는 포장이 뜯기지 않은 상태로 지난 5월 6일 오후 1시쯤까지 장윤기 차량 조수석 문 보관함에 남아 있던 것으로 파악됐다. 장윤기 차량은 장윤기 아버지가 가지고 갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LAIU47AEDJAFLDRZNYD2KTDWTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 6일 전남광주시 광산구 월계동의 한 천변 주차장에 주차된 여고생 살해범 장윤기(23)의 차량 조수석 문쪽 수납함에 케이블 타이가 보관된 모습. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 지난 6일 오전 7시 11분 케이블 타이를 은닉한 혐의(증거인멸)로 광산경찰서 수사팀장 박모(59) 경감을 긴급체포하고 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;박 경감은 차량을 수색할 당시 촬영한 채증 영상을 검찰에 제출하지 않은 혐의도 받는다. 장이 여고생을 묶기 위해 준비한 범행 도구를 없애고 그 상황이 찍힌 채증 영상까지 숨기려 한 혐의가 있다는 것이다.&lt;br&gt;&lt;br&gt;광주지법은 8일 오전 11시 박 경감에 대한 영장실질심사를 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MZSDSMBTGE3DKNLCGI4TIOBVGQ.jpg?auth=c22432839420004dd0fdc0ca528dcd720f13206fd25dd48b154de5165d6c87ab&amp;smart=true&amp;width=2496&amp;height=1712" type="image/jpeg" height="1712" width="2496">
+        <media:description type="plain">광주 도심에서 일면식도 없는 10대 여고생을 살해한 장윤기가 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. 2026.5.14 ⓒ 뉴스1 김태성 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>의정부 주택서 화재… 거주자 90대 여성 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/08/H4ZBZFRO5FE4TEBMWJEUW6KKZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/08/H4ZBZFRO5FE4TEBMWJEUW6KKZQ/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 04:43:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부의 한 다세대주택에서 불이 나 1명이 숨지고 1명이 다쳤다.&lt;br&gt;&lt;br&gt;8일 소방 당국에 따르면, 이날 오전 9시 37분쯤 의정부시 의정부동의 한 4층짜리 다세대주택 3층에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 화재로 3층 거주자인 90대 여성이 전신에 화상을 입어 심정지 상태로 병원으로 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;또 4층에 거주하는 60대 남성이 연기를 흡입해 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;출동한 소방 당국은 장비 22대와 인력 55명을 동원해 화재 발생 54분 만인 오전 10시 31분쯤에 불을 모두 껐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>농·수·축산 바이오 연구... KAIST-제주대 공동대학원 9월 문 연다</title>
+      <link>https://www.chosun.com/national/regional/2026/07/08/LBJOJ7W3QNDNVPUGSU5YPS5D5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/08/LBJOJ7W3QNDNVPUGSU5YPS5D5Y/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 04:41:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3YRPYHXVRF7NLIBCCA3NQIEHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도청 정문./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KAIST와 제주대 공동대학원이 이르면 오는 9월 문을 연다. 제주도는 이를 토대로 4대 과기원 제주연합캠퍼스 설립도 본격 추진한다.&lt;br&gt;&lt;br&gt;8일 제주도에 따르면 ‘KAIST(한국과학기술원)-제주대 공동대학원 운영 지원 출연 동의안’을 도의회에 제출했고, 9~16일 열리는 임시회에서 안건이 처리될 예정이다.&lt;br&gt;&lt;br&gt;제주도는 자체 재원 5억원을 투입해 오는 9월 학사일정에 맞춰 카이스트와 제주대 대학원생 간 산학 협력 공동 연구·교육을 수행하기 위한 공동대학원의 연구 장비, 공간 등을 제주첨단과학기술단지 내 카카오제주오피스에 우선 설치한다.&lt;br&gt;&lt;br&gt;주요 연구 분야는 분산 에너지와 농·수·축산 기반 바이오산업이다. 이곳에서는 제주의 천연 원물을 활용한 화장품·식품 개발 등 K뷰티·K푸드 산업의 기초·응용 연구가 진행되며 고급 과학기술 인재를 양성한다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “올해 하반기부터 KAIST와 제주대가 협업형 공동 대학원을 운영하기로 했다”며 “이를 기반으로 4대 과학기술원(KAIST, UNIST, GIST, DGIST) 연합 캠퍼스를 설립하고 우주·청정에너지·바이오·모빌리티 분야에서 대기업과 산학연력 교육·연구 시스템을 구축해 제주 신산업을 이끌어가게 된다”고 말했다.&lt;br&gt;&lt;br&gt;위성곤 지사는 1차 산업과 관광 중심의 제주 산업 구조를 지식·기술이 결합한 미래 신산업으로 재편하기 위해 4대 과기원 연합 캠퍼스 설치와 제주과학기술원(JIST) 전환을 핵심 정책으로 내놓았다. 인공지능(AI), 재생에너지 등 지식 기반의 첨단 미래 산업을 육성해 제주의 새로운 먹거리를 창출하기 위해서다.&lt;br&gt;&lt;br&gt;4대 과기원 연합 캠퍼스는 우수 인재와 연구진의 장기 체류와 정주 여건을 보장하면서 청년층을 제주로 끌어들이게 될 것으로 제주시는 기대하고 있다.&lt;br&gt;&lt;br&gt;제주도는 공동 학위 수여, 산학연 협업 연구, 개발한 상품의 판로 보장, 글로벌 인재 유치를 위해 합법적으로 체류할 수 있는 ‘디지털 노마드(워케이션) 비자’ 혜택을 제공한다.&lt;br&gt;&lt;br&gt;위성곤 지사는 “4대 과기원 연합 캠퍼스는 기존 카이스트와는 차별화된 연구 환경을 조성하고 우수 인재와 학생을 유치하기 위해 연구비·생활비·주거를 패키지로 지원하는 파격적인 인센티브를 제공하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올여름 ‘폭염 장마’ 계속...최고 35도 무더위 속 거센 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/07/08/3GTP6ETBU5BOBNQKVAOSZ33SDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/08/3GTP6ETBU5BOBNQKVAOSZ33SDA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 02:36:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7BL7QKFFNK3DKIDLVU6BIIJXI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국이 장마전선의 영향권에 든 8일 오전 서울 세종대로 사거리에서 우산을 든 출근길 시민들이 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일까지 낮 기온이 35도까지 올라가는 무더위 속에 전국에 거센 장맛비가 쏟아질 전망이다. 올여름은 이 같은 ‘폭염 장마’가 이어질 것으로 예상된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 정체전선(장마전선)의 영향으로 8일은 중부, 9일은 남부를 중심으로 비가 내리겠다. 정체전선이 우리나라를 남북으로 오르내리며 비를 뿌리는 것이다.&lt;br&gt;&lt;br&gt;이번 장마는 폭염을 동반하고 있다. 올여름은 제주가 6월 30일, 중부·남부가 7월 1일에 장마가 시작됐다. 평년 보다 일주일 이상 늦어지면서 장마 초입부터 거센 빗방울과 무더위가 동시에 나타나고 있다. 통상 장마 땐 비가 내릴 때 기온이 떨어졌다가, 그쳤을 때 다시 치솟는 경향을 보이는데, 이번 장마는 7월에 비가 집중되다 보니 폭염을 동반하게 된 것이다.&lt;br&gt;&lt;br&gt;9일 예상 강수량은 수도권·강원도 50~150㎜, 충청·전북 80~200㎜, 전남광주 30~80㎜, 경북 20~100㎜, 대구20~60㎜, 경남 5~40㎜ 등으로 예보됐다.&lt;br&gt;&lt;br&gt;9일 아침 최저기온은 21~25도, 낮 최고기온은 26~35도로 예상된다. 기상청은 당분간 무더위가 이어질 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경부고속도로서 탱크로리 전도, 휘발유 수천ℓ 유출</title>
+      <link>https://www.chosun.com/national/regional/2026/07/08/S3SO55BUAFD65EECHIHZPZEVU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/08/S3SO55BUAFD65EECHIHZPZEVU4/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 02:22:15 +0000</pubDate>
+      <content:encoded>경부고속도로에서 추돌 사고로 탱크로리가 넘어지면서 8000리터(ℓ)가량의 휘발유가 유출되고, 차량 통행이 3시간 이상 통제됐다. &lt;br&gt;&lt;br&gt;8일 경북소방본부에 따르면, 이날 오전 4시 45분쯤 경북 경주시 율동 경부고속도로 부산 기점 70㎞ 지점 3차로에서 서울 방향으로 가던 벤츠 승용차가 앞서가던 25t 탱크로리를 추돌했다. &lt;br&gt;&lt;br&gt;이 사고로 벤츠 차량이 전복되고 탱크로리도 옆으로 넘어져 탱크로리 운전자가 다쳤다. 또 탱크로리에 실려 있던 휘발유 2만8000ℓ 중 8000ℓ 가량이 유출돼 소방 당국과 관계기관 등이 흡착포 등을 이용해 방제작업을 벌였다. &lt;br&gt;&lt;br&gt;사고 여파로 서울 방향 경주IC∼서경주IC 구간 4개 차로 중 3개 차로가 통제됐다가 오전 8시 3분쯤 해제됐다. &lt;br&gt;&lt;br&gt;경찰은 운전자 등을 상대로 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양주 장흥터널 빗길 사고… 40대 운전자 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/08/7OUVO2RS65DLDNG57AQN2JM7GU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/08/7OUVO2RS65DLDNG57AQN2JM7GU/</guid>
+      <dc:creator>양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 02:13:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4DEM3CGEZDOOLGHAYWINZWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주에서 차량이 빗길에 미끄러져 운전자가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;8일 경찰 등에 따르면, 이날 오전 7시 15분쯤 양주시 장흥면 일영리 장흥터널 인근 고양 방면에서 40대 남성 A씨가 주행 중이던 차량이 가드레일을 들이받았다.&lt;br&gt;&lt;br&gt;차량은 사고 후 도로를 벗어나 수풀에 멈춰 섰다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 병원으로 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨 차량은 터널을 빠져나온 후 빗길에 미끄러지면서 사고가 난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배재고, ‘6개월 출전 정지’ 재심 청구… 탄원서도 함께 제출</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/08/3APBY3G7HZDOZGQRNFHKXGYAE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/08/3APBY3G7HZDOZGQRNFHKXGYAE4/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 00:58:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQTKNLFGZRGGZLEGM2DSZRYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지역 비하 성격을 가진 응원 구호를 외쳐 논란을 일으킨 서울 배재고등학교 야구부 대표 선수가 6일 전남광주특별시 광주제일고등학교를 찾아 광주일고 야구부 대표 선수에게 사과문을 전달하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주제일고와의 경기 도중 5·18 민주화운동을 폄훼하는 응원 구호를 외쳤다가 6개월 출전 정지 징계를 받은 배재고 야구부가 대한체육회에 재심을 청구한다.&lt;br&gt;&lt;br&gt;8일 서울시 교육청에 따르면, 배재고는 대한야구소프트볼협회(KBSA)가 내린 ‘전국대회 6개월 출전 정지 처분’에 대해 상급 기관인 대한체육회에 재심을 신청하기로 했다. 배재고 교직원이 작성한 탄원서도 함께 제출할 예정이다.&lt;br&gt;&lt;br&gt;대한체육회는 재심 신청을 접수한 날부터 60일 이내에 위원회를 열어 심의·의결을 완료해야 한다.&lt;br&gt;&lt;br&gt;배재고 일부 학생 선수들은 지난달 29일 서울 목동야구장에서 열린 제81회 청룡기 전국고교야구선수권대회 광주제일고와의 1회전에서 “스타벅스 가야지” “탱크 데이” 등의 구호를 외쳤다. 이 구호가 5·18 민주화운동을 조롱하는 것으로 해석되며 논란이 커졌다.&lt;br&gt;&lt;br&gt;KBSA는 지난 1일 긴급 스포츠공정위원회를 열고 배재고 야구부에 6개월간 전국대회 출전 정지 징계를 내렸다. 징계는 곧바로 적용돼 배재고는 청룡기 2회전을 치르지 못하고 몰수패 처리됐다.&lt;br&gt;&lt;br&gt;배재고 야구부원과 학부모, 교직원 등은 지난 6일 광주제일고를 찾아 학생들이 직접 쓴 사과문을 전달하고 고개를 숙였다. 광주제일고 선수들도 사과를 받아들였고, 두 학교 학생들은 함께 국립 5·18민주묘지를 찾아 참배했다.&lt;br&gt;&lt;br&gt;광주제일고 총동창회는 7일 “어린 학생들에 대한 단죄가 아닌 올바른 교육과 정의 회복을 지향한다”며 대한야구소프트볼협회에 배재고 학생들의 선처를 요청했다.&lt;br&gt;&lt;br&gt;이규연 광주일고 교장도 “KBSA와 야구 관계자분들은 배재고 야구부 학생들이 경기장에서 새롭게 출발할 수 있도록 행정적 역량과 지혜를 모아주시기 바란다”며 선처 의사를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한동훈, 보완수사권 폐지 비판... “민주당, 살인자 편에 설 거냐”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/07/08/RVEC6YUSRNBC3EWVF5DEX5ZA6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/07/08/RVEC6YUSRNBC3EWVF5DEX5ZA6M/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 00:06:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPF5WZYVRBN7ZHJWWYRWNT5O5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 무소속 의원이 지난 7일 서울 여의도 국회의원회관에서 국민의힘 유의동 의원실 주최로 열린 KTX 경기남부역사 신설 토론회에 참석한 뒤 취재진 질의에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 8일 국회 법제사법위원회 전체회의를 열어 검찰 보완 수사권 완전 폐지를 주 내용으로 하는 형사소송법 개정안을 상정하는 가운데, 한동훈 무소속 의원이 “이재명 정권과 더불어민주당은 살인자의 편에 설 것인가”라며 보완 수사권 폐지 추진을 비판했다.&lt;br&gt;&lt;br&gt;한 의원은 이날 아침 페이스북에 글을 올려 “여고생 살해범 장윤기 아버지가 현직 경찰 신분으로 벌인 증거 인멸에 국민들께서 공분하고 계신다”며 “경찰 수사팀장까지 ‘친구인 경찰 간부의 아들’을 위한 증거 인멸에 적극 가담했음이 드러나고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “검찰의 보완 수사가 없었다면 현직 경찰인 범인 아버지와 그 친구 경찰 간부가 벌인 증거 인멸은 영영 묻혔을 것”이라며 “장윤기 사건은 오직 경찰만이 수사를 할 수 있게 되면 억울한 피해자가 수없이 생겨날 수 있다는 점을 극명하게 보여준다”고 했다.&lt;br&gt;&lt;br&gt;한 의원은 “그런데도 전당대회에만 정신이 팔린 이재명 정권과 민주당은 보완 수사권마저 기어이 없애겠다고 한다”고 비판했다. 그는 민주당 당대표 선거 출마를 선언한 김민석 전 국무총리가 지난달 “보완 수사권 폐지를 정부의 기본 입장으로 최종 정리했다”고 발표한 것을 거론하면서 “이미 정부 입장을 보완 수사권 폐지라고 한 것도 모자라서, 어제 민주당은 또 다시 ‘보완 수사권 폐지는 확고부동’하다고 했다”고 했다.&lt;br&gt;&lt;br&gt;한 의원은 “이화영씨의 ‘연어 술 파티’ 거짓말을 빌미로 검찰의 ‘조작 기소’ 운운하며 길길이 날뛰던 민주당은, 경찰의 ‘진짜 조작’에는 침묵한다”며 “이대로라면 (검찰청과 보완 수사권이 폐지되고 공소청이 출범하는) 10월 2일 이후, 장윤기 사건들이 속출할 것”이라고 내다봤다.&lt;br&gt;&lt;br&gt;한 의원은 “보통은 소 잃고 외양간을 고치는데, 이재명 정권과 민주당은 오히려 소 잃고 외양간을 더 완전히, 철저히 없애겠다고 한다”고도 했다. 한 의원은 그러면서 “장윤기 사건을 보고도 이런 식이라면, 이재명 정권과 민주당은 앞으로 대한민국에서 수많은 장윤기 사건이 일어나고 어떻게 경찰이 사건을 뭉개거나 덮었는지 모르고 넘어가는 나라가 돼도 상관없다고 선언한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한 의원은 “대한민국이 오랫동안 쌓아 올린 사회 안전이 송두리째 무너지기 일보 직전”이라며 “전당대회만 이기면 장땡이고 그 후 평범한 국민의 삶은 어떻게 되든 안중에도 없는 이재명 정권과 민주당에 묻는다. 기어이 살인자의 편에 설 것이냐”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오산 아파트서 일가족 3명 숨진 채 발견… 경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2026/07/08/AKQNIUP7NRB6PBK3HT6NFXT3IM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/08/AKQNIUP7NRB6PBK3HT6NFXT3IM/</guid>
+      <dc:creator>오산=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jul 2026 01:02:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 오산시의 한 아파트에서 일가족 3명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;8일 경찰에 따르면, 전날 오후 8시 50분쯤 오산시의 한 아파트에서 50대 남성 A씨와 아내인 50대 여성 B씨, 20대 아들 C씨가 숨져 있는 것을 출동한 경찰이 발견했다.&lt;br&gt;&lt;br&gt;경찰은 “사망자 중 한 명에게서 신변을 비관하는 내용의 문자메시지를 받았다”는 지인의 112 신고를 받고 현장에 출동했다.&lt;br&gt;&lt;br&gt;이들이 발견된 아파트 내부에서는 유서가 발견된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 “현재까지 외부 침입 흔적이나 타살 등 범죄 혐의점은 확인되지 않은 상황”이라며 “자세한 사건 경위는 조사 중”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 인천공항 승객 수, 세계 1위로 날았다</title>
       <link>https://www.chosun.com/national/transport-environment/2026/07/08/MMDAI3L7J5B6HLYJBK5B46JF4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/08/MMDAI3L7J5B6HLYJBK5B46JF4Q/</guid>
@@ -772,51 +940,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCT7I2B2SFC2HNHLYSWMDAKFLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=유현호&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2021년 7월 교대 4학년생이던 이유빈씨는 모더나의 코로나 백신을 맞은 다음 날부터 어지러움과 호흡곤란 증상을 겪는다. 병원의 진단은 ‘혈전으로 인한 폐색전증과 뇌경색증’. 이씨는 수술까지 받았지만 접종 12일 만에 숨지고 만다. 유족은 피해보상을 신청했지만 질병관리청은 인과성을 인정할 수 없다며 거부했고, 유족 측의 이의신청도 정부가 기각한다. 하지만 유족이 제기한 행정소송의 1심 결과는 달랐다. “인과관계가 인정”되므로 정부가 피해 보상을 해야 한다는 것. 이씨의 경우처럼 법원이 코로나 백신 접종과 사망 사이의 인과성을 인정하는 사례는 여럿 나왔다. &lt;br&gt;&lt;br&gt;그렇다고 해서 코로나19 팬데믹 시기의 백신 접종이 잘못됐다는 것은 아니다. 코로나는 전파력이 워낙 높은 데다, 사스나 메르스와 달리 증상이 나타나기 전인 잠복기에 대부분의 전파가 이루어지는 게 특징이었다. 코로나가 3년이 넘는 기간 우리를 괴롭혔던 것도 이 때문인데, 사회적 거리두기를 무한정 할 수 없는 상황에서 코로나를 극복하는 방법은 백신이 유일했다. 팬데믹이 지속되면서 코로나는 여러 차례 변이를 통해 백신 장벽을 피해갔지만, 변이 과정에서 치명률은 점점 떨어져 오미크론 변이의 경우 독감보다 낮은 수준이 됐다. 치명률이 높았던 초기 단계에서 백신 접종이 반드시 필요했던 것은 이 때문. 2022년 5월 기준 코로나 확진자 대비 사망률은 대한민국이 0.13%로 미국(1.22%), 영국(0.8%), 일본(0.36%)보다 월등히 낮은 세계 최저 수준이었는데, 이는 우리 국민이 정부 지침에 따라 성실히 백신을 접종한 덕분이었다. 물론 백신에는 부작용이 있게 마련이지만, 백신이 아니었다면 사망자는 훨씬 더 많았으리라. 문재인 정부가 시행한 백신 패스 정책이 당시로선 불가피한 선택이었다는 얘기다.&lt;br&gt;&lt;br&gt;문제는 당시 정부의 백신 관리가 제대로 됐느냐는 것. 백신 자체의 부작용 때문이 아니라, 백신에 이물질 같은 게 들어가 사망하거나 고통을 겪은 이가 있다면 얘기가 달라지지 않겠는가? 지난 2월 감사원 발표는 그래서 충격적이었다. 감사원이 공개한 보고서에 따르면 질병청은 2021년 3월부터 2024년 10월까지 의료기관으로부터 1285건의 백신 이물질 신고를 접수했는데, 이 중 127건은 곰팡이·머리카락·이산화규소 등 위해 우려가 있는 이물질이 포함된 것으로 확인됐다. 그런데 질병청은 해당 제조번호의 백신에 대해 수거·검사·유통중단 등의 조치를 시행하는 대신, ‘제조사에만 알린 뒤 제조사의 조사 결과를 회신받는 방식으로 사안을 처리’했단다. 범인에게 사건 수사를 맡긴 격. 그 결과 신고 이후에도 동일 제조번호 백신 약 1420만회분이 계속 접종됐고, 이물질이 발견된 제조번호 백신의 이상 반응 보고율은 다른 제조번호 평균보다 더 높았다고 했다. 심지어 유효기간이 지난 백신을 맞은 이도 2703명이나 됐는데, 질병청은 이들에게 오접종 사실을 알리지 않았고 재접종 여부도 확인하지 않았단다.&lt;br&gt;&lt;br&gt;일본과 비교하면 질병청의 부실 대응은 더 두드러진다. 백신 접종이 한창이던 2021년 8월, 일본 후생노동성은 사용 중인 백신에 이물질이 혼입돼 있다는 신고를 받는다. 조사 결과 해당 백신은 스페인 로비사에서 제조된 모더나 제품. 당시 일본도 백신 수급이 그리 좋지 않은 상황이었지만, 후생노동성은 이물질이 나온 백신과 동일한 공정에서 제조된 백신 160만회분을 폐기한다. 2021년 8월은 우리나라가 아스트라제네카 대신 화이자와 모더나만을 접종하기 시작할 때. 이럴 때 일본에서 모더나 이물질 논란이 터졌으니 여기에 관한 우려가 나온 것은 당연한 일이었다. 하지만 우리 정부는 “8월에 국내 도입된 모더나 백신의 제조소는 스페인이 아닌 미국이다” “8월 이전에 국내 도입된 모더나 백신의 제조소는 스페인이지만, 일본 모더나 백신과 동일한 제조번호를 가진 백신은 들여오지 않았다”며 우려를 일축했다. 그로부터 며칠이 지난 9월 1일, 정부는 루마니아와 정부 간 백신 협력을 통해 화이자 백신과 모더나 백신 총 150만회분을 국내에 가져온다고 발표한다. 둘 다 유효기간이 많이 남지 않았으니 일종의 ‘재고 처리’인 셈. 동네방네 K방역을 홍보하던 우리나라의 상황은 그만큼 절박했다. 그런데 화이자 105만회분은 돈을 주고 사 왔지만, 모더나 45만회분은 ‘무상 공여’ 논란에 휩싸였다. 혹시 모더나 제품이 논란의 스페인 제품이어서 그런 건 아닐까? 정부는 다음과 같이 해명한다. “이번에 우리가 공여받게 된 모더나 백신이 스페인 로비사에서 온 것은 맞지만, 제조 단위가 다르기 때문에 (이물질 발생) 우려는 전혀 없다.” &lt;br&gt;&lt;br&gt;앞서 소개한 고(故) 이유빈씨가 모더나 백신을 접종한 것은 2021년 7월. 날짜로 보아 로비사 제품일 확률이 높다. 일본에서 이물질 논란이 불거진 마당에, 설령 특정 제조 단위가 다르다고 해도 같은 회사에서 만든 백신은 100% 안심할 수 없다는 것이 상식이다. 다른 백신 사망자들과 달리 이씨는 백신 접종 다음 날부터 이상 증상을 보였고, 2주도 안 돼 사망했기에, 그의 사망은 백신 접종과 인과관계가 있어 보인다. 물론 다른 백신으로 세상을 떠난 분들도 여럿 있지만, 이씨의 죽음이 더 문제가 되는 것은 백신 관리의 문제점 때문에 사망했을 확률도 있다는 점이다. 폐기해야 마땅할 스페인산 모더나 백신을 맞고 사망한 이는 얼마나 될까? 당시 정부가 여기에 대한 책임을 져야 하는 것은 당연한 일. 특히 이물질 신고가 들어왔음에도 접종 중단 조치는커녕 제조사에 뒤처리를 맡긴 질병청의 행위는 엄격하게 단죄해야 한다. 그런데도 정은경 당시 질병청장은 지금 보건복지부 장관직을 수행하고 있는 데다, 감사원 발표 이후에도 여전히 자리를 지키고 있다. 보수 정권에서 이런 일이 벌어졌다면 거품을 물고 탄핵을 외쳤을 더불어민주당은 오히려 국민의힘이 제의한 국정조사를 거부했다. 이런 식이면 향후 팬데믹이 또 왔을 때 정부를 믿고 백신을 접종할 이가 얼마나 될까? 한 사람의 의사로서 외쳐본다. 정은경 장관과 질병청을 특검하라!&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>파주 아파트 화재…소방관 1명 탈진·11명 연기 흡입</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/07/IBR2XLTIMBBQXBMJY6TTXH5LHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/07/IBR2XLTIMBBQXBMJY6TTXH5LHI/</guid>
-      <dc:creator>파주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 05:27:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QL76OYRFCZFRBOKZGN4D5JHYBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 파주시 와동동의 아파트에서 화재가 발생한 모습. /경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주의 한 아파트에서 불이 나 2시간여 만에 꺼졌다.&lt;br&gt;&lt;br&gt;7일 경기도북부소방재난본부에 따르면, 이날 오전 10시 46분쯤 파주시 와동동의 한 아파트 11층에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;“아파트에서 검은 연기가 보인다”는 신고를 받고 출동한 소방 당국은 지휘차 등 장비 31대와 소방대원 등 인력 76명을 동원했다. &lt;br&gt;&lt;br&gt;소방 당국은 다수 인명 피해 우려로 오전 11시 8분쯤 대응 1단계를 발령했다. &lt;br&gt;&lt;br&gt;불이 난 세대에는 거주자가 없었으며, 주민 21명이 스스로 대피했다. 주민 11명이 단순 연기 흡입 증상을 보였고, 진화 과정에서 20대 남성 소방관 1명이 탈진해 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인과 피해 규모를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘연어 술파티’ 증언 前 KH부회장, 전 여친 흉기 위협·감금 혐의 ‘징역 4년’</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/07/R2XJWYAMTBCVLMKOLOWYVOQSWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/07/R2XJWYAMTBCVLMKOLOWYVOQSWQ/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 05:09:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQWMNJYGYYWKZBZG42WENRVGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 정권 정치검찰 조작기소 의혹 사건 진상규명 국정조사특별위원회 쌍방울 대북송금 조작기소 의혹 사건 청문회에서 증인으로 출석한 조경식 전 KH강원개발 부회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘연어 술파티’ 의혹과 관련해 국회에 증인으로 나왔던 조경식 전 KH그룹 부회장이 전 여자친구를 흉기로 위협하고 폭행, 감금한 혐의 등으로 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사14부(재판장 윤성열)는 7일 특수상해, 특수주거침입, 특수공갈, 특수감금, 스토킹 범죄의 처벌 등에 관한 법률 위반 혐의를 받는 조씨에게 징역 4년을 선고했다. 또 80시간의 스토킹 치료 프로그램 이수를 명령했다. 검찰은 조씨에 대해 징역 7년을 구형했었다. 조씨는 곧바로 법정 구속됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 조씨는 작년 2월 15일 오후 9시 50분쯤 피해자 A씨가 거주하던 경기 용인시의 한 아파트 지하 주차장에서 흉기를 들고 A씨의 얼굴과 머리 부위를 여러 차례 때려 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;조씨는 또 흉기로 위협해 A씨의 집으로 간 뒤 그를 7시간 넘게 감금하면서 “신고해서 경찰 부르는 순간 너는 죽는다” “오늘 너랑 나랑 마지막 날”이라고 협박해 600만원을 갈취한 혐의도 있다.&lt;br&gt;&lt;br&gt;조씨는 A씨에게 ‘다시는 찾아오지 않겠다’는 내용의 자필 각서를 써주고도, 범행 3일 뒤 재차 A씨의 주거지를 찾아가거나, 계속해서 전화를 거는 등 13차례에 걸쳐 스토킹한 혐의도 있다.&lt;br&gt;&lt;br&gt;재판 과정에서 조씨 측은 “손바닥으로 때렸을 뿐 흉기를 이용해 상해를 입힌 사실이 없다”거나 “사귀던 사이여서 (해당 혐의가) 주거 침입이나 감금에 해당하지 않는다”며 혐의를 부인했다. 또 “A씨에게 받을 채권이 있어 돈을 받은 것이라 공갈죄가 성립하지 않고, 스토킹 역시 금전 문제를 해결하기 위해 연락한 것”이라는 취지로 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 이날 재판부는 “직접 흉기로 찌르지 않았더라도 흉기를 내보이며 폭행한 이상 특수상해가 인정되며, 채권 추심 목적이었다 해도 사회 통념상 허용되는 범위를 넘어섰다”며 유죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “과거 공동상해 등 범죄로 여러 차례 실형을 선고받는 등 다수의 형사처벌 전력이 있음에도, 사기죄로 인한 누범 기간 중 또다시 범행을 저질러 죄질이 매우 나쁘다”며 “피해자가 상당한 신체적·정신적 고통을 겪었음에도, 피고인은 자신의 행위가 정당하다며 피해자를 비난하는 등 반성하지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 조씨는 법정 구속 과정에서 재판장을 향해 “법 왜곡죄로 고발하겠습니다”라고 소리치며 난동을 부렸다.&lt;br&gt;&lt;br&gt;한편, 조씨는 이화영 전 경기도 평화부지사가 ‘쌍방울 대북 송금’ 사건과 관련해 수원지검에서 조사받는 과정에서 이른바 ‘연어 술 파티’가 있었다는 의혹과 관련, 지난해 9월 국회 청문회에 출석해 증언하기도 했다. 그는 당시 국회 법제사법위원회의 검찰 개혁 입법 청문회에 증인으로 나와 “연어 술 파티에 나도 참석했다”며 “당시 검찰이 김성태 전 쌍방울그룹 회장을 압박해 허위 진술을 강요하고 조작 기소했다”는 취지로 주장했다.&lt;br&gt;&lt;br&gt;다만 법무부 특별 점검 결과 이 같은 내용은 거짓인 것으로 확인됐다. 조씨는 쌍방울 대북 송금 조사가 있었던 2023년 5~7월 수원지검에 소환된 기록이 없었고, 이 전 부지사 또한 조씨가 참석한 사실이 없다고 밝혔다. 조씨는 이 전 부지사 측이 연어 술 파티가 벌어진 날이라고 지목한 2023년 5월 17일 당시에는 사기죄로 징역형을 선고받고 교도소에 수감 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘금품 수수 의혹’ 심덕섭 고창군수 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2026/07/07/J6VULJCS6VFATPVNVQLCZ56QSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/07/J6VULJCS6VFATPVNVQLCZ56QSE/</guid>
-      <dc:creator>고창=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 04:43:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFRWKYRUGJQTGMTFGEZTGYRQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사 수주를 대가로 건설업자에게 불법 정치자금을 받은 의혹이 제기된 심덕섭 전북 고창군수에 대해 경찰이 강제 수사에 착수했다. 심 군수는 “선거 기간 앙심을 품은 개인의 일방적 주장”이라며 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;전북경찰청 반부패경제범죄수사대는 7일 오전 정치자금법 위반 혐의로 심 군수의 집무실 등에 수사관을 보내 압수수색을 실시했다. 심 군수는 지난 2022년 지방선거를 앞두고 한 건설업체 사업가에게서 7000여 만원의 현금을 받고 해당 업체에 공사를 수주하게 해줬다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;이번 경찰 수사는 지역 시민단체의 고발로 본격화됐다. 앞서 지난 2월 ‘공직공익비리신고 전국시민운동연합 고창지부’는 전북경찰청 앞에서 기자회견을 열고 심 군수를 둘러싼 각종 비위 의혹을 철저히 조사하라며 고발장을 제출했다.&lt;br&gt;&lt;br&gt;강제 수사가 본격화되자 심 군수는 즉각 입장문을 내고 제기된 의혹을 반박했다.&lt;br&gt;&lt;br&gt;심 군수는 “군민들께 심려를 끼쳐 드린 점은 무겁게 받아들인다”면서도 “저에게 제기된 의혹은 선거 기간 중 앙심을 품은 한 개인의 일방적 주장에 불과하며 전혀 사실이 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “양심에 따라 소명하고 단 한 점의 의혹도 남지 않도록 진실에 다가가겠다”며 “이번 수사가 지긋지긋한 가짜 뉴스와의 싸움에서 승리하고 실체적 진실이 명백히 밝혀지는 계기가 될 것으로 확신한다”고 강조했다. &lt;br&gt;&lt;br&gt;심 군수는 또 “모든 주장은 사실과 균형에 기반해야 하며, 일부 언론에 등 떠밀린 듯한 단정적 비방은 바람직하지 않다”며 억울함을 호소했다. 실제로 이날 압수수색 과정에서는 심 군수의 비서실장 등이 전 과정을 참관하며 수사에 협조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이날 확보한 압수물 분석이 끝나는 대로 자금의 흐름과 공사 수주 과정에서의 특혜 여부를 면밀히 들여다볼 예정이다. 관련 자료 분석이 마무리되면 핵심 관계자들에 대한 소환 조사도 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중국 이커머스에서 판 어린이용 샌들 안전 기준 부적합</title>
-      <link>https://www.chosun.com/national/national_general/2026/06/30/IZGESE7DEJEHFAJODPCSQAGDLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/30/IZGESE7DEJEHFAJODPCSQAGDLQ/</guid>
-      <dc:creator>윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Jun 2026 02:13:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOD3DF2IWBJ5RJVJHBZTW37WXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시는 지난달 28일에도 중국 사이트에서 판매 중인 안전 기준 미달 제품 10개를 찾아냈다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 구매 사이트에서 파는 어린이용 샌들과 완구, 모자 5종이 국내 안전 기준에 부적합한 것으로 30일 나타났다. 서울시는 해당 사이트에 판매 중단을 요청했다.&lt;br&gt;&lt;br&gt;서울시는 중국 구매 사이트에서 판매하는 21개 어린이용품에 대한 안전성 검사를 했다. 이중 5개는 산업통상부의 안전 기준에 미달했다.&lt;br&gt;&lt;br&gt;특히 알리익스프레스에서 판매하는 신발 2종에서 발암가능물질(2B)이 검출됐다. 기준치 대비 최대 285배나 많았다. 검출된 프탈레이트계 가소제는 내분비계 장애와 정자 수 감소, 불임 등을 일으킬 수 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQB33526ABDN7FX6DWJOLMTE2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 신발 1종은 만 3세 미만 어린이 제품에 사용이 금지된 작은 부품이 8개 포함됐다. 작은 부품은 질식 사고를 유발할 수 있다.&lt;br&gt;&lt;br&gt;모자 1종 소재는 산도(pH) 가 8.2로 기준 범위(4.0∼7.5)를 벗어났다. 산도가 강할 경우 피부를 자극해 피부염을 유발할 수 있다.&lt;br&gt;&lt;br&gt;서울시는 다음 달엔 여름철을 맞아 해외 사이트에서 판매 중인 어린이용 물놀이 기구, 수영복 등을 검사할 예정이다. 이번 안전성 검사 결과는 서울시 누리집에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>19개월 딸 영양결핍으로 숨지게 한 친모… 檢, 징역 30년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/07/VITFBNHYNJAJTJ2DVF4VNL7NCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/07/VITFBNHYNJAJTJ2DVF4VNL7NCY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 03:46:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUWESJXKZJJKDGR5IORYSOJM4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생후 20개월 딸 영양결핍 사망…20대 친모 구속심사./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 19개월 된 딸을 제대로 돌보지 않아 숨지게 한 혐의로 구속 기소한 친모에게 중형을 구형했다. &lt;br&gt;&lt;br&gt;인천지법 형사 14부(재판장 손승범)는 7일 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대 살해 등 혐의로 구속 기소된 A(29)씨의 결심 공판을 진행했다. &lt;br&gt;&lt;br&gt;검찰은 이날 공판에서 A씨에게 징역 30년과 출소 후 5년간 보호관찰 등을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “피고는 자신의 어린아이를 2개월간 제대로 양육하지 않고 방임해 숨지게 했다”며 “아이의 상태를 충분히 인식했음에도 마치 아이가 없는 것처럼 생활을 영위하면서 즐거운 시간을 보내는 등 죄책이 무거워 엄벌이 불가피하다”고 했다. &lt;br&gt;&lt;br&gt;또 “피해 아동은 울음소리로 자기 의사를 표현했지만 결코 전달되지 않았다”며 “피고인은 양육 의무가 있는 엄마로서 자신의 행동에 대해 충분히 인식했을 것으로 보이는데도 반성의 기미가 없다”고 했다. &lt;br&gt;&lt;br&gt;검찰은 이어 “첫째 아이에 대한 양육 과정에서도 정신적, 신체적 학대를 일삼은 것으로 보인다”며 “피고는 계속적으로 책임 회피하는 태도를 보이고 있고, 비슷한 환경에서 재범 가능성이 높아 보호관찰 필요성이 있다”고 구형 이유를 설명했다. &lt;br&gt;&lt;br&gt;A씨 변호인은 “A씨의 행위는 비난받아 마땅하고, 결과를 되돌릴 수 없다”면서도 “두 아이의 친부로부터 어떠한 도움도 받지 못하는 상황에서 기댈 곳 없는 사회적 고립감과 우울증이 겹치면서 무기력의 늪에 빠져 있던 A씨에게 문제를 인식하고 해결할 수 있는 인지적 능력에 한계가 있던 상황을 감안해달라”고 했다. &lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “경솔한 제 선택이 인생에 지울 수 없는 오점을 남겼다”며 “아기에게 해서는 안 될 죄를 저질러 깊이 반성하고 있고 어떤 처벌도 달게 받겠다”고 했다. 이어 “관대한 처분을 내려주시면 이게 끝이 아님을 명심하고 행동으로 모범이 되는 사람이 되겠다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 4일 인천시 남동구의 한 빌라 자택에서 생후 19개월 된 딸 B양에게 음식을 주지 않는 등 제대로 돌보지 않아 숨지게 하고, 첫째 딸을 2차례에 걸쳐 신체적으로 학대한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;국립과학수사연구원 부검 결과 B양은 영양 결핍과 탈수 등으로 숨진 것으로 파악됐다. &lt;br&gt;&lt;br&gt;사망 당시 B양의 체중은 4.7㎏으로, 비슷한 또래의 평균 몸무게인 10.4㎏의 절반에도 미치지 못했다. 검찰이 재판에서 공개한 사진 속 B양은 뼈가 드러날 정도로 마른 모습이었고, 눈두덩이 부위도 푹 꺼져 영양 결핍이 의심됐다. &lt;br&gt;&lt;br&gt;A씨는 평소 B양을 낳은 것을 후회하며 양육을 귀찮아한 것으로 드러났다. 지난 1월부터는 B양에게 우유나 이유식을 제대로 주지 않았고, 최대 67시간 동안 음식을 주지 않는 등 방치했다. &lt;br&gt;&lt;br&gt;또 2월 28일부터 92시간 동안 B양을 혼자 집에 둔 채 놀이공원과 찜질방 등을 찾은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨 집을 촬영한 사진에는 씻지 않은 그릇이 쌓인 싱크대와 정리되지 않은 집안 모습이 담겼다. &lt;br&gt;&lt;br&gt;기초생활수급자이자 한부모 가구인 A씨는 매달 생계급여와 아동수당 등 월평균 300만원이 넘는 공적 지원을 받았고, 취약계층을 위한 ‘푸드마켓’에서도 식재료를 가져갔다. &lt;br&gt;&lt;br&gt;A씨는 자택에 개 2마리의 사체와 배설물, 담배꽁초 등을 방치하며 양육을 소홀히 하기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, ‘피습 자작극 의혹’ 정이한 구속영장 청구</title>
       <link>https://www.chosun.com/national/regional/2026/07/07/5YJC3DAOT5HXDIOIHLF2EXHHEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/07/5YJC3DAOT5HXDIOIHLF2EXHHEU/</guid>
@@ -829,45 +952,6 @@
       </media:content>
     </item>
     <item>
-      <title>후진 차량에 접근해 ‘쾅’…보험금 노린 50대 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/07/CIFX7ERW7NAT7O73HLOFWV2FLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/07/CIFX7ERW7NAT7O73HLOFWV2FLA/</guid>
-      <dc:creator>구리=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 01:17:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPF7OCPWNFHOLHLET5S3Z7DNEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 보험금을 타내기 위해 모닝 차량에 고의로 부딪히는 모습./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고의로 교통사고를 내 보험금을 타내려던 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 구리경찰서는 보험사기방지 특별법 위반 혐의로 A씨를 불구속 송치했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 26일 오전 11시쯤 구리시의 한 도로에서 후진하고 있던 모닝 차량을 보고 접근해 고의로 부딪혀 보험금을 뜯어내려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;주변 CCTV엔 그가 사고 10분 전부터 횡단보도 주변을 돌아다니며 접촉사고를 유도하는 모습이 찍혔다.&lt;br&gt;&lt;br&gt;A씨는 차량 뒷부분에 고의로 부딪혀 넘어졌고, 모닝 차량 운전자는 구급차를 부르고 A씨가 병원 치료를 받을 수 있도록 보험처리 해줬다.&lt;br&gt;&lt;br&gt;경찰은 확보한 CCTV 영상을 토대로 A씨를 피의자로 전환해 조사했다.&lt;br&gt;&lt;br&gt;이후 A씨는 경찰 조사에서 “술에 취해 기억이 안 난다”고 주장했으나 사고 영상을 본 뒤 혐의를 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] “초대형 국정농단 의심된다”더니… 특검, 박상용 출국금지 연장 안 해</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/07/4MKPTNKG6BHE5EYASV3MDMTHEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/07/4MKPTNKG6BHE5EYASV3MDMTHEM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 01:33:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOIMJZDGPBDDJMTJCUTI5MSMEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상용 검사가 지난 6월 11일 서울 서초구 대검찰청에 들어가고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)의 남은 의혹을 수사하는 2차 종합특검이 7일 쌍방울 불법 대북 송금 사건을 수사했던 박상용 검사에 대한 출국금지를 연장하지 않은 것으로 확인됐다. 본지 취재를 종합하면, 박 검사는 전날(6일)까지였던 출국금지 상태가 이날 해제됐다.&lt;br&gt;&lt;br&gt;2차 특검은 윤석열 정부 대통령실이 수원지검의 쌍방울 대북 송금 사건에 불법적으로 관여한 정황이 의심된다며 지난 4월 관련 수사에 착수했다. 그러면서 친여 성향 시민단체의 고발장을 접수하자 박 검사와 수사 당시 법무부 장관이었던 한동훈 무소속 의원, 이원석 전 검찰총장 등을 출국금지했다. 2차 특검은 더불어민주당이 대북 송금 수사 과정에서 박 검사의 피의자 회유가 있었다고 주장한 이른바 ‘연어 술 파티’ 의혹과 관련한 검찰(서울고검 인권침해점검TF) 자료도 지난 4월 초 이첩받았다. 사건을 담당했던 권영빈 특검보는 “초대형 국정농단이 의심된다”고 하기도 했다. &lt;br&gt;&lt;br&gt;그러나 특검은 지난 3개월 동안 피의자는 물론 참고인 조사도 제대로 하지 않았다. 그러면서도 박 검사, 한 의원 등에 대한 출국금지 조치만 30일 단위로 계속 연장했는데, 수사 종료일을 얼마 앞두고 더 이상 박 검사에 대한 출국금지 연장을 하지 않은 것으로 해석된다. 특검법상 2차 특검의 최대 수사 기한(150일)은 오는 24일이다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “특검이 특검법상 수사 대상인지도 불분명한 사건을 검찰 기록까지 가져가 검토하다가 슬그머니 수사를 종료한 것”이라면서 “제대로 된 수사도 하지 않으면서 박 검사 등을 계속 출국금지한 것은 직권남용이나 직무유기 소지가 있다”고 했다. &lt;br&gt;&lt;br&gt;한 차장검사 출신 변호사도 “특검은 오는 12일까지인 한동훈 의원에 대한 출국금지 조치도 추가 신청을 하지 않는 선에서 끝내려 하지 말고 즉시 해제해야 한다”고 했다. 한 의원은 이날 현재도 출국금지 상태가 유지되고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>빨간불 무시한 차량에 초등학생 사망... 60대 운전자 입건</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/07/M3YC6LGB7RERXLXNCV4BBNLV3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/07/M3YC6LGB7RERXLXNCV4BBNLV3U/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 01:51:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQWTMWJJARA7TOAI5J7F5SCQFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생이 빨간불을 무시하고 달리던 차량에 치여 사망했다.&lt;br&gt;&lt;br&gt;7일 서울 강동경찰서는 60대 직장인 남성 A씨를 교통사고처리특례법상 치사 혐의로 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오후 8시 50분쯤 서울 강동구 천호동의 한 병원 앞에서 자전거를 타고 횡단보도를 건너고 있던 초등학생 B군을 차로 들이받아 숨지게 한 혐의를 받는다. B군은 사고 직후 병원으로 이송됐지만 끝내 사망했다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 수사하고 있다. 경찰에 따르면, A씨는 음주 검사에서 음성 판정을 받았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 ‘광주 여고생 살인사건’ 수사 광산경찰서 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/07/QIFYJTNDPRBNFBBI6PW6YY5S4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/07/QIFYJTNDPRBNFBBI6PW6YY5S4Q/</guid>
-      <dc:creator>전남광주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jul 2026 00:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4TGOLDGEZGKNLBMJRTIZBRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남광주 도심에서 일면식도 없는 10대 여고생을 살해한 장윤기 씨가 지난 5월 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 광주 여고생 살인사건을 수사한 전남광주 광산경찰서를 대상으로 수사팀장의 증거인멸 등 혐의를 확인하기 위한 압수수색에 착수했다.&lt;br&gt;&lt;br&gt;광주지검은 7일 “광산경찰서 수사팀장 박모(59) 경감에 대해 증거인멸·공무상 비밀누설 등 혐의로 강제 수사에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 경감은 장윤기가 지난 5월 5일 오전 0시 11분쯤 전남광주시 광산구 월계동의 한 대로변에서 여고생(16)을 납치하려고 할 때 사용했던 SUV 차량에서 케이블타이를 발견하고도 압수하지 않고 감춘 혐의를 받고 있다. 차량을 수색할 당시 촬영한 채증 영상을 검찰에 제출하지 않은 혐의도 받는다.&lt;br&gt;&lt;br&gt;장이 여고생을 묶기 위해 준비한 범행 도구를 없애고 그 상황이 찍힌 채증 영상까지 숨기려 했다는 것이다. 검찰은 이날 오전 수사관들을 광산경찰서와 박 팀장 등 관련자들 주거지로 보내 관련 증거물들을 확보하기 위한 압수수색을 하고 있다. &lt;br&gt;&lt;br&gt;광주경찰청은 전날 박 경감을 증거인멸 혐의로 긴급 체포했다. 경찰청 국가수사본부는 경찰청 수사인권담당관(총경)을 팀장으로 하는 27명 규모의 특별수사팀을 꾸려 진상 조사에 나섰다. 광주경찰청 지휘 라인은 수사에서 배제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MQ4TGOLDGEZGKNLBMJRTIZBRGM.jpg?auth=845fe7c3d58764e443412e34233fdc6d40709c914c3deaf65b269466fd1963d4&amp;smart=true&amp;width=2704&amp;height=1728" type="image/jpeg" height="1728" width="2704">
-        <media:description type="plain">전남광주 도심에서 일면식도 없는 10대 여고생을 살해한 장윤기 씨가 지난 5월 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>팔순 맞은 부시 前대통령… 클린턴 “당신과의 우정, 내 인생에 큰 선물”</title>
       <link>https://www.chosun.com/international/us/2026/07/07/DSF7J6ZIHRFKNFN73TLEZAKEJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/us/2026/07/07/DSF7J6ZIHRFKNFN73TLEZAKEJI/</guid>
@@ -877,60 +961,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEN55ZA5F5E4JANFNVRRT522EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;빌 클린턴 전 대통령(왼쪽)과 조지 W. 부시 전 대통령. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1946년생인 조지 W. 부시 전 대통령이 6일 80번째 생일을 맞은 가운데, 빌 클린턴 전 대통령은 이날 “당신, 그리고 당신 아버지(조지 H. W. 부시 전 대통령)와의 우정이 내 인생의 가장 큰 선물 중 하나였다”며 “그 우정은 우리가 정치인이기 전에 동료 미국인이고, 같은 인간이라는 사실을 상기시켜 줬다”고 했다. 2001~2009년 재임한 부시는 공화당, 1993~2001년 재임한 클린턴은 민주당이 각각 배출한 대통령이다. 1992년 대선에선 클린턴이 ‘바보야, 문제는 경제야’란 슬로건을 내세워 아버지 부시의 재선(再選)을 저지했지만 퇴임 후엔 기회가 될 때마다 우정을 과시하며 정치 양극화 시대에 적지 않은 울림을 주고 있다. &lt;br&gt;&lt;br&gt;클린턴은 이날 X(옛 트위터)에서 부시와 함께 찍은 사진을 올리며 “미국은 우리가 우리를 갈라놓는 것보다 우리를 하나로 묶는 것이 더 크다는 점을 기억할 때 더 강해진다”며 이같이 밝혔다. 부시가 1946년 7월 6일, 클린턴이 1946년 8월 19일생으로 두 사람이 동갑이다. 클린턴은 자신보다 한 달 앞서 생일을 맞은 부시를 향해 “앞으로 한 달 동안 나보다 더 나이가 많은 사람을 마침 내 맞이한 것에 대해 특히 감사하다”며 “건강, 행복, 그리고 우정이 더 많은 해 동안 함께하기를 빈다”고 했다. 두 사람은 지난달 일리노이주(州) 시카고 교외의 ‘오바마 대통령 센터’가 개관했을 당시 배우자와 함께 나란히 모습을 드러냈다.&lt;br&gt;&lt;br&gt;이런 가운데 부시의 뒤를 이어 2009~2017년 재임한 버락 오바마 전 대통령 역시 오바마 재단을 통해 축하 메시지를 전했다. 2009년 오바마가 대통령으로 취임했을 당시 부시가 남긴 친필 편지를 공개하며 “오바마가 대통령직을 시작할 때 격려와 지지를 전하는 내용이었다” “공직이 우아함, 존중, 그리고 국가에 대한 공통의 헌신에 기반해야 한다는 강력한 알림으로 남아 있다”고 했다. 역대 미 대통령들은 백악관을 떠나며 후임자에게 당부와 격려 등이 담긴 편지를 남기는 것이 오랜 관행이었다. 재단은 “부시 대통령이 부시와 오바마 정부 간 원활하고 질서 있는 권력 이양을 보장하는 데 도움을 준 것에 감사드린다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울대·고려대 총장, 연임 도전하기로… 성공 땐 40~50년만</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/07/D4VGCYM6IREYPNBDZLRV44XNKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/07/D4VGCYM6IREYPNBDZLRV44XNKQ/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>내년 1~2월 임기가 끝나는 유홍림 서울대 총장과 김동원 고려대 총장 모두 연임에 도전하는 것으로 확인됐다. 두 총장이 연임에 성공하면 각 대학에서 40~50년 만이다. &lt;br&gt;&lt;br&gt;6일 본지 취재를 종합하면, 유홍림 서울대 총장은 주변에 차기 선거 도전 의사를 밝힌 상황이다. 최근 구성된 서울대 총장추천위원회(총추위)는 조만간 총장 후보 모집 공고를 올리고 내년 2월 임기가 시작되는 차기 총장 선출 과정을 본격적으로 시작한다. 현재 유 총장을 포함한 10명 안팎의 교수가 선거에 도전하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;서울대는 2023년 현 총장이 사퇴하지 않고 연임에 도전할 수 있도록 규정을 바꿨다. 서울대 안팎에서 “총장 임기 4년은 세계 주요 대학 총장 임기에 비해 절대적으로 짧아 혁신 비전을 소신껏 추진하기 어렵다”는 지적이 나왔기 때문이다. 서울대에서 연임한 총장은 1970년대 한심석 11~12대 총장 이후 없었다.&lt;br&gt;&lt;br&gt;김동원 고려대 총장도 오는 10월 차기 총장 후보로 등록할 것으로 알려졌다. 고려대의 연임 총장은 1980년대 이준범 10~11대 총장이 마지막이었다. &lt;br&gt;&lt;br&gt;김 총장은 업무 시간 중 절반 이상을 모금에 전념해, 취임 이후 지난 3년여간 누적 기부금 총 3300억원 이상을 달성했다. 역대 고려대 총장 재임 기간 중 최대 규모의 누적 기부금이다. 이외에 대형 국가연구개발 사업 선정 등에서도 성과를 냈다. 이에 김 총장의 연임 도전에 대한 결과를 긍정적으로 바라보는 이들이 많다. &lt;br&gt;&lt;br&gt;최근 국내 주요 대학에서 연임하는 총장이 늘어나는 추세다. 서강대 심종혁 총장은 재작년 12월 연임에 성공해 2029년까지 대학을 이끈다. 대형 국책 사업 수주, 첨단 학과 신설, 대학원 충원율 향상 등 성과를 내 연임됐다는 평가다. 아주대 최기주 총장도 올 2월부터, 성신여대 이성근 총장은 이달부터 두 번째 임기를 수행하고 있다. 부산 동아대 이해우 총장도 2024년 연임에 성공했다. 동아대에서 연임 총장은 대학 설립자의 아들 정수봉 전 총장뿐이었다. 이 총장 역시 유학생 유치, 연구비 증액 등 업적을 인정받았다는 평가를 받고 있다. &lt;br&gt;&lt;br&gt;교육계에선 “인구가 감소하고 기술이 급변하는 상황에서 대학들이 경쟁력을 갖추려면 장기적 비전을 갖고 학교를 꾸려갈 리더십이 필요하다”는 의견이 많다. 실제 글로벌 주요 대학들은 총장이 10년 이상 장기 재직하는 경우가 많다. 2024년 취임한 미국 하버드대 앨런 가버 총장은 본래 2027년 6월까지 임기가 예정돼 있었는데, 이사회가 작년 12월 가버 총장의 임기를 무기한 연장하겠다고 발표했다. ‘세계에서 가장 혁신적 대학’으로 꼽히는 애리조나주립대의 마이클 크로 총장은 2002년 취임 후 24년째 재직하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교묘해진 사기, 미제사건 6년새 11배로 급증</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/07/4BXKO5KV5VEQPAZ42QBNE5ADTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/07/4BXKO5KV5VEQPAZ42QBNE5ADTI/</guid>
-      <dc:creator>지혜진 기자, 양인성 기자, 이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 15:54:00 +0000</pubDate>
-      <content:encoded>2024년 11월, 부산 수영구에 사는 박영팔(가명·69)씨는 절박한 심정으로 부산의 한 경찰서를 찾았다. 박씨는 평생 모은 3억3000만원을 누군가의 계좌로 이체하고 난 뒤에야 보이스피싱 사기를 당했다는 것을 깨달았다. 허겁지겁 경찰서로 뛰어갔지만, 경찰은 박씨에게 빨리 은행에 가보라고 했다고 한다. &lt;br&gt;&lt;br&gt;은행에서도 뾰족한 수가 없었다. 박씨의 돈이 이체된 계좌를 동결해 범인들의 현금 인출을 막아야 했지만, 은행은 박씨 계좌만 정지했다. 결국 박씨는 돈이 이체된 사기 의심 계좌에 남아 있던 4000만원만 겨우 건졌다. 나머지 2억9000만원은 어디론가 사라진 뒤였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWNCB2HSW5HFTB6ZYS4RGMTGIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 사건이 발생한 지 3개월 만인 지난해 2월 ‘관리 미제’ 사건으로 분류했다. 피의자가 누구인지, 어디에 있는지 파악할 수 없어 수사를 중단한다는 뜻이었다. 박씨는 “평생 모은 전 재산이 날아갔는데 국가가 수사를 포기했다고 생각하니 억장이 무너진다”고 했다. &lt;br&gt;&lt;br&gt;보이스피싱, 로맨스 스캠(연애 빙자 사기) 등 서민의 삶을 뒤흔드는 사기 범죄 수법은 갈수록 교묘해지는데, 당국의 수사력은 이를 못 쫓아가고 있다. 결국 박씨 사건처럼 ‘미제’로 분류되는 사기 사건은 전국적으로 매년 수만 건씩 쌓이고 있다. 경찰청 통계를 보면 2024년 ‘관리 미제’로 분류된 사기 범죄는 9만4000건이다. 2018년(8400건)과 비교하면 11배로 늘었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇로맨스 스캠·투자 리딩방… 신종 사기 느는데 수사력은 못 쫓아가&lt;/b&gt;&lt;br&gt;&lt;br&gt;남의 재산을 가로채는 사기 범죄는 매년 늘고 있다. 경찰청에 따르면 2024년 발생한 사기 범죄는 42만1421건으로 2019년(30만4472건)과 비교해 38.4% 늘었다. 반면 검거 건수는 같은 기간 22만5121건(2019년)에서 25만3956건(2024년)으로 12.8% 증가하는 데 그쳤다. 검거율은 2019년 73.9%에서 2024년 60.3%로 하락했다.&lt;br&gt;&lt;br&gt;고령층 피해자가 속출했던 보이스피싱은 범정부 차원에서 대응에 나서 어느 정도 성과를 거뒀다. 작년 10월 경찰청과 금융위원회, 과학기술정보통신부, 방송미디어통신위원회 등 관련 부처가 통합 대응단을 꾸렸다. 보이스피싱 신고가 접수되면 관련 계좌를 즉각 차단하고, 수사도 동시에 착수할 수 있도록 했다. 그 결과 올해 1~5월 보이스피싱 피해액은 2725억원으로, 1년 전 같은 기간 피해액(5334억원)보다 51% 줄었다.&lt;br&gt;&lt;br&gt;하지만 로맨스 스캠과 투자 리딩방 등 신종 범죄가 더 늘었다. 올해 1~5월 신종 사기 피해액은 4643억원으로 1년 전 같은 기간(3491억원)보다 33% 늘었다. 신종 사기 범죄 중 로맨스 스캠 피해 증가세가 두드러졌다. 2024년 675억원 수준이던 로맨스 스캠 피해 규모는 지난해 1360억원으로 1년 만에 2배 이상으로 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KIDZTNVBUZDITHNCMNVECWWZHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이는 텔레그램이나 카카오톡 등 소셜미디어(SNS) 활용이 일반화하면서 사기범들이 가짜 프로필을 내세워 불특정 다수에게 접근할 수 있게 됐기 때문이다. 로맨스 스캠처럼 신뢰를 쌓은 뒤 피해자의 돈을 뜯어내는 ‘관계형 범죄’는 상당한 시간이 흐른 뒤에야 피해자가 사기를 당했음을 알게 되는 경우가 많다. 경찰 입장에선 초기 수사에 어려움이 있는 게 사실이다.&lt;br&gt;&lt;br&gt;로맨스 스캠 피해자 김모(68)씨는 지난해 3월 소셜미디어를 통해 40대 여성 A를 알게 됐다. “외국에 살다 귀국한 지 4개월 된 이혼녀”라고 소개한 A는 “부천에서 디자인 일을 하고 있지만 혼자 지내다 보니 외롭다”며 김씨에게 사진을 보내왔다. 온라인 친구가 된 두 사람은 연락처를 주고받고 소통했다. &lt;br&gt;&lt;br&gt;두 달 뒤인 5월, A는 본색을 드러냈다. 그는 “사설 투자 사이트로 재테크를 하고 있는데 태블릿 PC가 고장 났다”며 “아이디와 비밀번호를 줄 테니 대신 투자해달라”고 김씨에게 부탁했다. 김씨가 그렇게 접속한 투자 사이트는 ‘신세계’였다고 한다. 주식과는 비교도 안 될 정도로 높은 수익률이 찍혔고, 사이트에서 ‘출금’을 누르면 즉시 김씨의 계좌로 돈이 입금됐다. 김씨는 입금된 돈을 A에게 전달했다.&lt;br&gt;&lt;br&gt;높은 수익률을 경험한 김씨는 결국 자기 돈을 투자하기 시작했고, 순식간에 1억원이 넘는 돈을 A가 알려준 투자 사이트 계좌로 입금했다. 하지만 수익금을 찾으려 하자 갑자기 계좌가 정지됐다. 당황한 김씨에게 A는 “30만달러(약 4억5000만원)를 추가 입금해야 정지가 풀린다”며 추가 입금을 요구했다. 김씨가 이를 거부하자 투자 사이트는 폐쇄됐고, A의 번호는 결번이 됐다. 외로움을 타는 노년층을 겨냥한 전형적인 로맨스 스캠이었다. 며칠 후 사기임을 깨달은 김씨는 지난해 6월 서울 서초경찰서에 신고했지만, 1년이 지난 지금까지 수사는 진전이 없다.&lt;br&gt;&lt;br&gt;로맨스 스캠 피해가 늘자 정부는 지난달부터 보이스피싱 범죄와 연루된 계좌에 적용되던 임시 정지 조치를 로맨스 스캠과 투자 사기 등 신종 범죄에도 확대 적용하기로 했다. 그러나 여전히 경찰은 수사에 어려움을 겪고 있다. 이런 사기 범죄 조직은 대부분 중국·캄보디아·베트남 등 해외에 근거지를 두고 있다. 경찰 관계자는 “해외에서 한국 경찰이 독자적으로 수사할 수 없다”며 “현지에 경찰 협력관을 파견하고 피의자 검거를 위한 첩보를 전달하는 것 정도가 할 수 있는 작전”이라고 했다.&lt;br&gt;&lt;br&gt;사기 범죄가 늘면서 일선 경찰들이 떠맡는 사건도 매년 쌓이고 있다. 경찰청 통계를 보면 경찰서 수사관 1인당 사건 접수 건수는 2020년 108.4건에서 2025년 133.8건으로 5년 새 23% 늘었다. 이런 상황에서 오는 10월 검찰의 수사권이 완전 폐지되면 미제로 방치되는 사기 사건은 더 많아질 수 있다. &lt;br&gt;&lt;br&gt;이윤호 동국대 경찰행정학과 명예교수는 “사기 범죄 진화 속도가 빠르기 때문에 현재 경찰 수사력으로는 따라가기 버거운 상황”이라며 “그렇다고 전체 경찰관 수가 부족한 것은 아니기 때문에 일반 사무를 담당하는 내근 인력을 최소화하고 수사에 나서는 외근 인력을 늘리는 방향으로 재배치 할 필요가 있다”고 했다. 곽대경 동국대 경찰사법대학 교수는 “신종 사기 수법이 나올 때마다 발 빠르게 범정부 차원의 공동 대응을 할 수 있는 시스템을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 버섯 오래 보관하려면</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/06/4NSGTDJCONBDZFABZVUHFKYUCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/06/4NSGTDJCONBDZFABZVUHFKYUCY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 14:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMN2HLPGAFACFF63VPLOVXCE4A.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버섯은 키친타월로 싸거나 종이봉투에 담아 냉장 보관하자. 비닐봉지에 담으면 습기가 차 물러지거나 곰팡이가 생기기 쉽다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 7월 7일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/07/06/3P3SHSYERNAZ7NLOGGCHDZ55HM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/06/3P3SHSYERNAZ7NLOGGCHDZ55HM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 14:34:00 +0000</pubDate>
-      <content:encoded>전국 덥고 곳곳에 비 내려&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SO2A56WCM5BHZFD6FMNDKXRMZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, 尹 ‘반란 혐의’ 기소 안 한다…법조계 “반란 몰이 하다 후퇴”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/06/M4IKWL7XKZCGZKWBKZUMQV2MWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/06/M4IKWL7XKZCGZKWBKZUMQV2MWY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)이 윤석열 전 대통령과 김용현 전 국방 장관 등을 ‘군형법상 반란 혐의’로 기소하지 않는 쪽으로 가닥을 잡은 것으로 6일 알려졌다. 법조계에서는 “애초부터 반란죄를 적용하기는 어렵다는 지적이 많았는데도 무리하게 수사하다가 결국 막판에 수사를 포기한 것”이라는 비판이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRTGMRXGUYTINJRG5RDGNJSGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법에서 열린 재판에 출석한 윤석열 전 대통령과 김용현 전 국방부 장관./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 특검의 ‘반란 혐의’ 수사는 특검이 출범한 지난 2월 25일 시작됐다. 출범 당일 김경호 변호사는 윤 전 대통령과 김 전 장관, 노상원 전 국군정보사령관, 박안수 전 육군참모총장, 여인형 전 국군방첩사령관, 곽종근 전 육군특수전사령관, 이진우 전 수도방위사령관, 문상호 전 국군정보사령관, 김현태 전 707특수임무단장 등 9명을 군형법상 반란 혐의로 특검에 고발했다.&lt;br&gt;&lt;br&gt;김 변호사는 고발장에 “윤 전 대통령은 12·3 비상계엄이라는 명분 아래 친위 군사 쿠데타를 기획하고 무장 군인들을 동원해 국헌을 문란하게 한 ‘반란 수괴(首魁)’”라고 주장했다. 특검은 이들을 피의자로 입건한 뒤 여러 차례 조사했고, 지난 3월에는 김 변호사를 고발인 신분으로 불러 조사하기도 했다.&lt;br&gt;&lt;br&gt;2차 특검은 윤 전 대통령과 김 전 장관 등이 계엄군과 공모해 수도방위사령부와 특수전사령부 병력 등을 국회와 중앙선거관리위원회에 투입한 만큼 반란죄를 적용할 수 있다고 보고 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;그러나 2차 특검은 결국 윤 전 대통령을 비롯한 반란 혐의 피의자를 모두 재판에 넘기지 않기로 방향을 틀었다. 2차 특검 관계자는 지난 3일 브리핑에서 “반란죄는 법리가 난해해 기소까지 이어가기 어렵다”며 “방첩사 블랙리스트 사건과 해병 특검 잔여 사건 등 다른 수사도 많아 더 이상 수사 인력을 투입하기 어려웠다”고 밝혔다. 이어 “내부 논의 결과 기소 가능성 자체가 높지 않고, 기소하더라도 공소 기각될 우려가 있다고 판단했다”며 “반란죄를 수사하던 인력을 다른 사건으로 재배치했다”고 설명했다.&lt;br&gt;&lt;br&gt;2차 특검 수사팀 내부에서도 반란죄 적용 여부를 두고 의견이 엇갈렸던 것으로 전해졌다. 반란 혐의로 입건된 인물 대부분이 이미 내란 특검에서 기소돼 재판을 받고 있는 만큼, 반란 혐의를 추가 적용할 경우 기존 내란 사건과 중복 기소 논란이 생길 수 있다는 점도 고려된 것으로 알려졌다. 반란 수괴죄는 법정형이 사형뿐이어서, 내란 우두머리죄(사형·무기징역·무기금고)보다 형이 무겁다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2KLHIR5DVKZ3PLQEU544VRPHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 2차 종합특별검사팀 김정민 특검보가 3일 과천 특검사무실에서 김명수 전 합참의장 등 전직 군 지휘부 4인 기소 관련 브리핑을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 법조계 “반란죄 적용은 애초부터 터무니없었다” 비판&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에서는 반란죄 적용이 애초부터 쉽지 않았다는 분석이 나온다. 12·3 비상계엄 관련 초기 수사를 맡았던 검찰 특별수사본부도 윤 전 대통령 등에 대한 반란죄 적용 여부를 검토했지만, 군 통수권자인 대통령이 직접 주도한 비상계엄을 군사 반란으로 보기는 어렵다고 판단해 반란죄를 적용하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특수본 수사 경험이 있는 한 검사는 “반란죄는 군인이 자신의 상급 지휘권자에게 반기를 드는 경우를 전제로 한다”며 “이번 사건은 군 통수권자인 대통령이 비상계엄을 주도한 만큼 반란의 대상이 되는 상급 지휘권자가 존재한다고 보기 어려워 반란죄가 성립하기 어렵다고 판단했다”고 전했다.&lt;br&gt;&lt;br&gt;이후 수사를 이어받은 내란 특검도 반란죄는 별도로 적용할 필요가 없다고 판단한 것으로 알려졌다. 내란 특검 관계자는 “검찰 특수본 단계에서부터 반란죄는 성립이 어렵다고 충분히 검토된 사안”이라며 “범죄 성립 가능성이 없다면 2차 특검도 정식 수사를 진행하기보다는 각하하는 것이 맞았을 것”이라고 했다. &lt;br&gt;&lt;br&gt;이에 2차 특검은 “반란 혐의를 특검이 직접 인지한 것이 아니라 고발 사건을 넘겨받아 조사한 것뿐”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4GKNJTMVTGIZLCGZQTMMBTMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김남우 전 국정원 기조실장과 조태용 전 국정원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 2차 특검 “국정원, 비상계엄에 적극 동조… ‘안보 위해 세력’ 명단도”&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편 2차 특검은 이날 12·3 비상계엄 당시 계엄사령부에 국정원 직원 파견 등을 준비한 혐의(내란 부화 수행)로 김남우 전 국정원 기조실장을 입건했다고 밝혔다. 특검 관계자는 “비상계엄 당시 국정원이 적극 동조한 정황을 확인했다”며 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;특검 관계자는 “비상계엄 당시 국정원이 적극 동조한 정황을 확인했다”며 “국정원 안보조사 담당 부서가 계엄사령부 합동수사본부에 연락관과 조사관 파견을 준비했고, 기조실장 산하 인사 담당 부서의 요청에 따라 계엄사령부에 파견할 중견 간부 2명을 선발한 사실을 확인했다”고 말했다. 특검은 김 전 실장이 이 과정에 관여한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;아울러 특검은 “국정원이 대통령실 요청에 대비해 수백 명의 ‘안보 위해 세력’ 명단을 준비한 사실 등을 확인했다”고 덧붙였다. 비상계엄 직후 국정원이 2024년 국정원법 개정으로 경찰에 이관된 대공수사권을 다시 가져올 수 있는지 검토한 정황도 확인됐다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어르신, 120에서 택시 부르세요</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/06/ZEOTZC5NBVESXFVS4I5PWU2M4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/06/ZEOTZC5NBVESXFVS4I5PWU2M4E/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 11:50:23 +0000</pubDate>
-      <content:encoded>서울시가 택시 호출 애플리케이션(앱) 사용이 익숙하지 않은 고령층의 택시 이용을 돕기 위해 ‘동행 온다 콜택시’ 서비스를 확장한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 이날부터 전용 콜센터(1855-0120)에서 이용할 수 있던 동행 온다 콜택시를 다산콜센터(02-120)에서도 이용할 수 있도록 서비스를 확장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5WLPPQZLVI4PA2JAZAAZKJ5PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 6일 서대문노인종합복지관 앞에서 ‘동행 온다콜택시’를 호출해 탑승한 어르신을 배웅하고 있다. 동행 온다콜택시는 스마트폰의 택시 호출 앱 사용에 익숙하지 않은 고령자 등을 위한 사업이다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 몇 년 새 택시 앱을 통한 호출이 보편화하면서 스마트폰 앱을 쓸 줄 모르는 어르신들의 택시 이용이 제한된다는 지적이 많았다. “길에서 몇십 분째 땀을 뻘뻘 흘리며 택시를 잡고 있는 어르신의 택시를 대신 잡아드렸다”는 글이 온라인에서 화제가 되기도 했다.&lt;br&gt;&lt;br&gt;서울시는 고령자 등 스마트폰 앱 사용에 익숙지 않은 시민들이 택시 이용에 어려움을 겪고 있다는 점을 고려해 1년 전 콜센터로 택시를 호출하면 원하는 장소에 택시가 배차되는 맞춤형 서비스를 내놓았다. 20~40대는 60% 이상이 앱을 이용해 택시를 호출하는 반면 60대 이상은 80%가 거리에서 ‘배회 영업’ 택시를 주로 이용한다는 점을 배려한 것이다. 서비스 개시 1년 동안 서울시의 ‘동행 온다 콜택시’는 1년간 누적 이용 건수 4만4000건을 돌파했다. &lt;br&gt;&lt;br&gt;전용 콜센터 번호를 외우기 어렵다는 점을 고려해 이날부터는 다산콜센터(02-120)에서도 서비스를 이용할 수 있도록 서비스를 개선했다. &lt;br&gt;&lt;br&gt;120 다산콜로 이용자가 전화 신청을 하면, 온다 콜센터로 연결돼 원하는 장소(출발지 및 도착지)에 맞춰 택시를 배차해 준다. 이용 시간은 09~22시고, 요금은 무료다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>삼성전자 ‘노조 블랙리스트’ 의혹…참고인 4명 모두 피의자 전환 </title>
       <link>https://www.chosun.com/national/incident/2026/07/06/BDZS5T6IURFDLMVHS2LWXK7YSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/06/BDZS5T6IURFDLMVHS2LWXK7YSU/</guid>
@@ -938,33 +968,6 @@
       <description/>
       <pubDate>Mon, 06 Jul 2026 11:40:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZTCNBQHE3DGNRSMIYTON3EMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자 내부에서 노동조합 가입 여부가 담긴 이른바 블랙리스트 작성 의혹을 수사 중인 경찰이 이상 접속 기록이 확인된 임직원 4명을 모두 개인정보보호법 위반 혐의로 피의자 입건한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;6일 경기남부경찰청에 따르면, 경찰은 지난 1일 삼성전자 내부 시스템에 비정상적으로 접속한 기록이 확인된 IP 사용자 4명을 개인정보보호법 위반 혐의로 입건했다.&lt;br&gt;&lt;br&gt;경찰은 지난 5월 28~29일 진행한 3차 압수수색을 통해 이들 4명과 임직원 개인정보 유출에 연루된 관계자 등에 대한 컴퓨터와 저장매체 등 관련 자료를 확보해 분석을 진행해왔다. 당시 경찰은 “이상 접속 기록 IP 사용자 4명은 현재 참고인 신분이지만 수사 상황에 따라 피의자로 전환될 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;이번 사건은 삼성전자가 지난 4월 임직원 개인정보를 활용해 노조 가입 여부가 담긴 문건이 작성된 정황이 있다며 경찰에 고소장을 제출하면서 불거졌다. 이후 특정 직원이 다른 임직원들의 개인정보를 대량 수집해 제3자에게 제공했다는 의혹으로 추가 고소가 이어졌고, 경찰은 기흥사업장과 사내 메신저 관리업체 등을 잇달아 압수수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹 관저 이전’ 21그램 대표 구속영장 기각 </title>
-      <link>https://www.chosun.com/national/court_law/2026/07/06/36AP5WIQ5BFBJCO52E4JGK72DQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/06/36AP5WIQ5BFBJCO52E4JGK72DQ/</guid>
-      <dc:creator>유희곤 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 09:56:33 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2DONDGGYZGIZTEMRQTEMBTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 대통령 관저 이전 문제를 주도했던 인테리어 업체 '21그램'에 대한 압수수색을 한 2025년 8월 13일 서울 성동구 21그램 사무실로 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검이 윤석열 전 대통령 관저 이전 의혹과 관련해 21그램 대표의 구속영장을 청구했지만 법원에서 기각된 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 서울중앙지법 이지영 영장전담 부장판사는 2차 특검이 직권남용 혐의로 청구한 21그램 대표 김모씨의 구속영장을 지난달 23일 기각했다. 이 부장판사는 김씨의 구속영장을 기각하면서 “구속의 필요성 및 상당성을 인정하기 어렵다”고 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;21그램은 2022년 무자격 업체인데도 윤석열 전 대통령 관저 이전 공사를 맡았다. 21그램은 윤석열 전 대통령 배우자 김건희 여사가 운영했던 코바나컨텐츠의 전시회를 후원하기도 했다. 이 때문에 공사 업체 선정에 김 여사가 관여한 게 아니냐는 의혹이 제기됐다. 2차 특검은 당시 행정안전부 예산 28억원 불법적으로 전용됐다는 의혹과 업체 선정 과정 등을 수사 중이다. &lt;br&gt;&lt;br&gt;앞서 김씨는 작년 김건희 특검에서 관저 이전 공사와 관련해 특정경제범죄가중처벌법(특경법)상 사기 등 혐의로 작년 12월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘스벅 가야지’ 논란 배재고 야구부 수사</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/06/MT2RXKNLYFHWBCF5G6ZILZ6PAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/06/MT2RXKNLYFHWBCF5G6ZILZ6PAM/</guid>
-      <dc:creator>윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 09:35:41 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RL5A64Y6RJMSZDMRM4KRY4Q3CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 5.18 조롱 응원으로 논란이 된 배재고 학생들이 사과를 위해 광주제일고에 방문했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 고교 야구 경기 중 상대 팀에 지역 비하성 구호를 외치며 조롱한 배재고 야구부를 모욕 혐의로 수사하고 있다. &lt;br&gt;&lt;br&gt;6일 서울 양천경찰서는 배재고 야구부원들에 대한 고발장을 접수해 수사 중이라고 6일 밝혔다. 고발장에 적시된 혐의는 모욕이다. &lt;br&gt;&lt;br&gt;배재고 야구부는 지난달 29일 광주제일고와의 청룡기 1회전 도중 “스타벅스 가야지” “탱크데이”라는 구호를 외쳐 지역 비하 논란을 빚었다.&lt;br&gt;&lt;br&gt;한편 광주경찰청도 배재고 야구부 관련 수사를 진행 중이다. 광주청 사이버수사대는 광주제일고에 폭탄을 설치했다는 허위 게시글 작성자에 공중협박 혐의를 적용해 수사 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘일출봉 GO!’ 제주 관광형 자율주행 버스 유료서비스 시동</title>
-      <link>https://www.chosun.com/national/regional/2026/07/06/CA23EIUFA5CM7D5ZM7B4E7KWVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/06/CA23EIUFA5CM7D5ZM7B4E7KWVM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 02:09:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z23VUGI4CVDVVPG5224HJKVOAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도는 오는 8월 1일부터 관광형 자율주행 노선버스 ‘일출봉GO!’를 유료로 정식 운행한다./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 관광형 자율주행버스 ‘일출봉Go!’가 다음 달부터 본격적으로 운행을 시작한다.&lt;br&gt;&lt;br&gt;제주도는 성산일출봉 일대 자율주행 노선버스 ‘일출봉Go!’의 유상운송 서비스를 8월 1일부터 본격 시행한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;일출봉GO!는 운전석 없이 안전관리자 1명과 승객(좌석 8석)만 탑승하는 자율주행 차량이다. 핸들과 페달 없이 이동해 자율주행 레벨4(Lv4) 수준을 체감할 수 있다. 지난해 9월부터 무상 시범 운행을 해왔으며, 지금까지 2900여명의 승객이 이용해 기술 안정성을 검증받았다.&lt;br&gt;&lt;br&gt;유상 운송 노선은 휘닉스아일랜드와 성산항입구 회전교차로를 잇는 구간이다. 제주도는 성산마을 주민 의견을 반영해 성산일출봉 안으로 주행하지 않고 마을 중심 도로를 노선으로 조정했다. 또 해안도로 구간을 운행 경로에 포함해 관광객들의 이용 편의를 높였다.&lt;br&gt;&lt;br&gt;요금은 일반 시내버스와 같으며 교통카드와 온나라페이로 결제할 수 있지만, 현금 결제는 안 된다.&lt;br&gt;&lt;br&gt;제주도는 방문객이 집중되는 올해 성수기(8∼10월 )에는 차량 2대를 투입하고, 동절기(11∼12월)에는 1대로 줄여 배차하는 등 유동인구 데이터 분석을 통해 탄력 운영할 예정이다. 제주도는 이달 한 달간 신규 노선에 대한 사전 검증을 거친 뒤 8월부터 정식 운행에 들어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
