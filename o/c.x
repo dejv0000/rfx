@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 일선 경찰 35% “보완수사권 폐지에 반대”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/10/TSC3OQKWUBFKVKSEZANKYCOFZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/10/TSC3OQKWUBFKVKSEZANKYCOFZU/</guid>
+      <dc:creator>한영원 기자, 김진영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jul 2026 20:00:00 +0000</pubDate>
+      <content:encoded>현직 경찰 3명 중 1명은 검찰의 보완수사권 폐지에 반대하는 것으로 나타났다. 본지가 지난 8일부터 이틀간 서울 일선 경찰서 수사·형사 부서에 근무하는 경찰관 103명을 대상으로 모바일 설문조사를 한 결과다. &lt;br&gt;&lt;br&gt;조사 결과를 보면 ‘검찰의 보완수사권 폐지에 찬성하느냐’는 물음에 ‘반대한다’는 응답은 35.6%(매우 반대 17.8%, 대체로 반대 17.8%)였다. ‘찬성한다’는 응답은 57.4%(매우 찬성 39.6%, 대체로 찬성 17.8%)였다. ‘잘 모르겠다’는 응답은 7%였다.&lt;br&gt;&lt;br&gt;‘검찰의 보완수사권을 어떻게 조정하는 것이 적절하냐’는 물음에는 의견이 갈렸다. ‘보완수사권과 경찰에 대한 보완수사 요구권을 모두 폐지해야 한다’는 응답이 27%로 가장 많았다. 그러나 ‘보완수사 요구권은 남기고 보완수사권은 폐지해야 한다’(26%) ‘보완수사권은 유지하되 검찰 개입 범위를 제한해야 한다’(23%) ‘현행을 유지해야 한다’(16%) 같은 응답도 적잖았다. 응답자의 8%는 ‘잘 모르겠다’고 했다.&lt;br&gt;&lt;br&gt;조사에 응한 경찰관 중에는 검사의 보완수사를 통해 수사의 완결성이 높아졌다는 데 동의하는 사람이 더 많았다. ‘현행 제도하에서 검찰의 보완 수사 요구가 수사 완결성을 높이는 데 도움이 됐느냐’는 질문에 50.5%가 ‘도움이 됐다’고 했다. ‘도움이 되지 않았다’고 답한 비율(44.5%)보다 6%포인트 높았다.&lt;br&gt;&lt;br&gt;경찰에게 ‘경찰의 수사 역량이 검찰에 비해 미흡하다는 지적에 대해 어떻게 생각하느냐’도 물었다. 그랬더니 응답자의 64.3%가 ‘동의하지 않는다’고, 29.7%가 ‘동의한다’고 했다. ‘어떤 수사에서 역량이 부족하다고 보느냐(복수 응답 가능)’는 물음에는 67.7%가 ‘권력형 비리 등 특수 수사’를 꼽았다. 이어 ‘사기 등 각종 경제 범죄(24%)’, ‘없음(8.3%)’ ‘안보 수사(7.3%)’ 순이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰, 장윤기 첫 수사 때 휴대폰 통화내역 조회도 안 했다</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/10/OPCN3ZYWSZED7N5UCDQ2Q4OI6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/10/OPCN3ZYWSZED7N5UCDQ2Q4OI6E/</guid>
+      <dc:creator>유희곤 기자, 전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jul 2026 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFNI3D4SHRPYJCJQOSFRTBS5FE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;어린이날 광주 도심에서 일면식 없는 여고생을 살해해 살인·살인미수 등의 혐의를 받는 장윤기(23)가 지난 5월 14일 오전 광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘전남광주 여고생 피살 사건’을 처음 수사한 경찰이 살인범 장윤기(23·구속)의 1년 치 휴대전화 통신 내역조차 조회하지 않은 것으로 9일 확인됐다. 이런 사실은 사건을 넘겨받은 검찰의 보완수사로 드러났다. 한 현직 검사는 “형사 사건에서 피의자의 통신 내역을 조회하는 건 기본 중의 기본”이라며 “경찰이 처음부터 사건을 엉성하게 수사한 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰로부터 장윤기 사건을 넘겨받은 검찰은 장의 휴대전화 통신 내역은 물론, 장의 3년 치 금융 거래 내역, 범행 현장 인근 차량 블랙박스 영상 등을 확보해 분석했다. 그 결과 장을 단순 살인이 아닌 강간 등 살인 혐의로 재판에 넘겼다. 이 과정에서 현직 경찰관인 장의 아버지(55)가 아들 사건 수사팀장 등과 수십 차례 통화하고 증거를 인멸한 정황도 속속 드러나고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법무장관 “장윤기 사건, 보완수사만 11건”&lt;/b&gt;&lt;br&gt;&lt;br&gt;정성호 법무장관은 지난 8일 국회 법제사법위원회에 출석해 장윤기 사건과 관련해 “경찰 단계에서 제대로 처리되지 않아 검찰에서 보완한 사항이 11개나 된다”고 했다. 경찰 수사가 허점 투성이였다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKIZNQTL3BGVXF2SRJBBOGWTIU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 광산경찰서는 사건 발생 9일 만인 5월 14일 장에게 단순 살인 혐의를 적용해 사건을 광주지검에 송치했다. 그런데 검찰은 장을 4차례 불러 조사하고, 그의 원룸과 SUV 차량 등을 추가로 압수수색해 경찰이 확보하지 못했던 차량 블랙박스 SD카드(저장장치)를 찾아냈다. 차량 트렁크 속 공구함 안에 숨겨져 있었다고 한다. 이 SD카드에는 장의 지인이 장에게 “형이 평소 말한 대로 살았다면 (당신은) 이미 성범죄자다”라고 말하는 내용이 녹음돼 있었다. 이를 토대로 검찰은 장이 여고생을 살해하기 전 성폭행을 시도하려고 한 사실을 밝혀냈다. &lt;br&gt;&lt;br&gt;앞서 경찰은 이 차량을 압수수색 했지만, SD카드는 못 찾았고 케이블타이는 보고도 확보하지 않고 돌려줬다. 차량 핸들에서 혈흔도 발견됐지만 방치했다. 이 때문에 수사팀장 박모 경감이 증거 인멸 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇통신·계좌 내역·인근 차량 블랙박스 분석&lt;/b&gt;&lt;br&gt;&lt;br&gt;특히 검찰은 장의 휴대전화 통신내역 1년 치를 확보해 분석했다. 그의 주변 인물이 누구인지, 범행 전후 동선은 어땠고 누구와 연락했는지, 공범은 없었는지 등을 조사한 것이다. 강력 사건 전문 변호사는 “통신내역은 범행의 동기와 배경, 과정을 살펴볼 수 있는 수사의 첫 단계나 마찬가지”라면서 “아무리 범인을 검거했더라도 통신내역부터 확인했어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SW3G22IUJVMKNHYVVUPPNKXDAY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;장윤기 사건에 대한 경찰의 증거인멸 의혹 등에 대한 강제 수사에 착수한 지난 7일 검찰 수사관들이 광주 광산경찰서 형사과에 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 또 장의 3년 치 금융 계좌 거래 내역과 신용카드 사용 내역 등을 분석했다. 이를 통해 장이 리얼돌(성인용 인형) 등 평소 성인 용품을 얼마나 자주 구매했는지를 확인했다. 장의 범행에 성적(性的) 동기가 있었는지, 범행 도구 등을 구매한 기록이 있는지 등을 알아보기 위한 과정이었다. 당초 경찰은 장의 원룸에서 가슴 부위 등이 훼손된 리얼돌 2개를 발견하고도, 장 외에 다른 사람의 지문이나 DNA가 발견되지 않았다는 이유로 압수하지 않았다. 결국 장의 아버지는 이 리얼돌을 여러 조각으로 부숴 폐기했다. 검찰은 이날 장의 아버지를 불러 조사했다.&lt;br&gt;&lt;br&gt;검찰은 경찰이 압수한 다른 증거 자료도 다시 분석했다. 경찰이 확보한 범행 현장 인근 화물차량의 블랙박스와 도로 방범카메라 영상이 있었는데, 화질이 나빠 식별이 어려웠다. 이에 검찰은 대검 디지털포렌식센터 협조를 받아 블랙박스 영상을 확대하고 화질을 개선했다. 그 결과 장의 차량 조수석 뒷문이 열려 있는 모습, 장이 피해자를 강제로 차량에 태우려고 한 모습 등을 확인했다. 장이 주장하던 우발적 범행이 아니라, 성폭행을 시도하다가 피해자가 저항하자 살해한 구체적 정황을 밝혀낸 것이다.&lt;br&gt;&lt;br&gt;검찰은 장의 휴대전화 디지털포렌식도 다시 했다. 장과 자주 연락하던 고교 동창 3명을 찾아내 직접 조사했다. 검찰은 또 피해 여고생을 부검한 의사를 면담하고, 심리 분석 등을 통해 “자살을 결심했다가 피해자를 우발적으로 살해했다”는 장의 진술이 신빙성이 낮다고 결론 내렸다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇피해자 미행하며 성폭행하려다 살인&lt;/b&gt; &lt;br&gt;&lt;br&gt;검찰은 지난 6월 2일 장을 강간 등 살인 혐의로 구속 기소했다. 본지가 입수한 공소장을 보면, 장은 지난 5월 4일 오후 11시 58분쯤 SUV 차량을 몰고 전남광주 광산구 월계동의 한 사거리를 지나던 중 피해 여고생을 발견했다. 이때 성폭행을 하기로 마음먹은 것으로 검찰은 보고 있다. 이후 장은 피해자를 약 1.2㎞ 미행하면서 네 번이나 차를 멈추거나 차에서 내려 걸어가던 피해자의 동선을 확인했다. 장은 이튿날(5일) 0시 10분쯤 피해자를 제압해 자신의 차량으로 끌고 갔고, 피해자는 계속 저항하며 “살려달라”고 외쳤다. &lt;br&gt;&lt;br&gt;피해자가 비명을 지르자, 장은 들키지 않기 위해 시야가 가려진 대형 화물차 옆으로 피해자를 끌고 가 흉기로 살해했다. 장은 2024년부터 알고 지낸 베트남 여성을 스토킹하고 성폭행(강간)한 혐의 등으로도 기소됐다. &lt;br&gt;&lt;br&gt;이런 가운데 경찰청은 이날 장윤기 사건 같은 유사 사례의 재발을 막겠다며 ‘경찰 수사 신뢰제고를 위한 쇄신 TF’와 자체 ‘내부비리수사대’ 등을 신설하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰이 외치는 ‘Freeze!’와 ‘Stay put!’의 차이</title>
+      <link>https://www.chosun.com/national/education/2026/07/10/QTQQBMXPKZE4NE2D3XZF7FWUMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/10/QTQQBMXPKZE4NE2D3XZF7FWUMA/</guid>
+      <dc:creator>윤희영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jul 2026 18:00:00 +0000</pubDate>
+      <content:encoded>미국 여행 중 한 광장에서 축제를 즐기며 사진을 찍고 있는데, 갑자기 웅성거리는 소리와 함께 소란이 일어납니다. 순식간에 출동한 경찰들이 주변을 통제하며 사람들을 향해 큰 소리로 외칩니다.&lt;br&gt;&lt;br&gt;“Everyone, stay put!”&lt;br&gt;&lt;br&gt;‘stay’는 머무르다이고, ‘put’은 무언가를 ‘놓다’라는 뜻인데... “어? 무엇을 어디에 놓으라는 거지? 들고 있는 가방이나 휴대폰을 바닥에 내려놓고 손을 들라는 건가?” &lt;br&gt;&lt;br&gt;가뜩이나 공포스러운 분위기에 경찰이 외치는 말뜻도 이해 못 하니 머릿속이 하얘집니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2R3KKWMI5AO5PV2NA2LMQXGRI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘Stay put’은 무언가를 놓으라는 말이 아니라, “그 자리에 그대로 가만히 있어라(움직이지 마라)”라는 뜻입니다.&lt;br&gt;&lt;br&gt;여기서 ‘put’은 무언가를 놓는다는 ‘동사’가 아니라, 이미 어딘가에 ‘놓여 있는 상태’를 나타내는 의미 단위로 굳어진 표현입니다. 즉, ‘당신이 지금 놓여 있는(서 있는) 그 자리에 그대로 머물러라(stay)’라는 뜻이지요.&lt;br&gt;&lt;br&gt;경찰이 긴급한 범죄 현장이나 통제 구역에서 시민들의 안전을 확보하기 위해 “꼼짝 말고 제자리에 대기하라”고 할 때 가장 먼저 사용하는 표현입니다. 꼭 긴박한 상황이 아니더라도, 일상생활에서 누군가에게 “어디 가지 말고 여기 가만히 있어”라고 할 때도 매우 자주 쓰입니다.&lt;br&gt;&lt;br&gt;“Stay put! Don’t move!” (가만히 있어! 움직이지 마!)&lt;br&gt;&lt;br&gt;“How long do we need to stay put for?” (얼마나 오래 움직이지 말고 있어야 하나요?)&lt;br&gt;&lt;br&gt;“We need everyone to stay put until the area is cleared.” (구역 안전이 확보될 때까지 모두 제자리에 가만히 대기해 주시기 바랍니다.)&lt;br&gt;&lt;br&gt;“Just stay put until I come back.” (내가 올 때까지 그대로 있어.)&lt;br&gt;&lt;br&gt;“I’ll go catch a taxi, so you stay put with the bags.” (내가 택시 잡으러 갈 테니, 너는 짐 옆에서 꼼짝 말고 있어.)&lt;br&gt;&lt;br&gt;“If you get lost, it’s best to stay put and wait for help.” (길을 잃었을 때는 그 자리에 가만히 있으면서 도움을 기다리는 게 제일 좋다.)&lt;br&gt;&lt;br&gt;“Freeze!” (꼼짝 마!)&lt;br&gt;&lt;br&gt;“Don’t move!” (움직이지 마.)&lt;br&gt;&lt;br&gt;“Don’t go anywhere.” (어디 가지 마.)&lt;br&gt;&lt;br&gt;“Wait right there.” (바로 거기서 기다려.)&lt;br&gt;&lt;br&gt;“Stay where you are.”&lt;b&gt; &lt;/b&gt;(있는 곳에 그대로 있어.)&lt;br&gt;&lt;br&gt;가만히 기다려야하는 입장에서는 대체 무슨 상황인지 몰라 답답해지기 마련입니다. 어떤 상황이 어떻게 벌어지고 있는지 계속 알려달라고 말할 때는 &lt;mark class="hl_yellow"&gt;“Keep me posted”&lt;/mark&gt;라​는 문구가 자주 쓰입니다. 우편(post)을 보내듯 상황을 지속적으로 전달해 업데이트해 준다는 의미에서 유래한 표현입니다. 긴급상황이 아니더라도 일상에서 두루 쓰이는 표현입니다. 예문을 통해 익혀보세요.&lt;br&gt;&lt;br&gt;“I’ll wait here, so keep me posted on what’s happening.” (난 여기 서서 기다릴 테니까, 무슨 일 있는지 계속 상황을 알려줘.)&lt;br&gt;&lt;br&gt;“Keep me posted if there are any changes to our schedule.” (우리 일정에 변동 사항이 생기면 바로바로 계속 알려줘.)&lt;br&gt;&lt;br&gt;“Good luck with the flight! Keep me posted when you land.” (비행기 여행 잘해! 착륙하면 계속 상황 알려주고.)&lt;br&gt;&lt;br&gt;“I’m heading inside now. I’ll keep you posted.” (나 이제 안으로 들어간다. 무슨 일 있으면 계속 연락할게.)&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UYNGW6WMEZAMLKGR4VJCODHJNU.png?auth=9668733e05371d2909729e3dae68b2acbc34f8f09e0451a47eaea103c5e06aa5&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
+        <media:description type="plain">/Gemini</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[굿모닝 멤버십] 월가가 경고한 ‘채권 자경단’의 부활… 문제는 사람이 아니다</title>
+      <link>https://www.chosun.com/national/2026/07/10/WHVDWFHVZNF7VBKCV4DYHOARTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/10/WHVDWFHVZNF7VBKCV4DYHOARTA/</guid>
+      <dc:creator>조선일보 멤버십</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jul 2026 18:00:00 +0000</pubDate>
+      <content:encoded>📅 2026년 7월 10일 금요일 아침입니다. 내일인 7월 11일은 ‘세계 인구의 날’입니다. 1987년 전 세계 인구가 50억명을 돌파한 것을 기념해 시작된 이날은, 이후 인구수와 인구 분포, 고령화 등 세계 인구 변화에 대한 관심을 환기하는 날로 자리 잡았습니다. 인구의 흐름은 한 사회의 모습뿐 아니라 국가의 미래에도 영향을 미치는 중요한 변수입니다. 앞으로 우리가 마주할 인구 변화와 그에 따른 사회적 과제를 함께 살펴보는 시간이 되길 바랍니다. 오늘도 조선멤버십이 준비한 기사와 함께 금요일의 시작을 열어보시길 바랍니다. 어니스트 헤밍웨이의 중편소설 ‘노인과 바다’의 주제로 시작합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APFZ5URW7FJWXLO7WEISC4TWJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기 고양시 차의과학대학교 일산차병원 신생아실에서 간호사들이 신생아를 돌보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자하자마자 원금의 3분의 1이 날아갔다는 직장인의 한탄, 남 일이 아닐지도 모릅니다. 최근 삼성전자와 SK하이닉스 주가의 2배를 추종하는 레버리지 상품이 출시된 이후 코스피가 하루에 3% 이상 요동치는 날이 무려 두 배로 급증했는데요. 미 증시가 잠잠한 사이 유독 한국 시장만 하루아침에 폭등과 폭락을 오가며 ‘널뛰기’를 반복하는 진짜 이유는 무엇일까요? 외신마저 ‘오징어 게임’이 될 위험이 있다고 경고한 국내 증시의 기형적인 변동성과 그 뒤에 숨겨진 ‘손실의 눈덩이’ 효과를 짚었습니다.&lt;br&gt;&lt;br&gt;아직 벌어지지도 않은 미래의 범죄 가능성을 이유로 인공지능(AI) 기업에 책임을 물을 수 있을까요? 챗GPT 운영사인 오픈AI가 강력 범죄 징후를 당국에 알리지 않았다는 이유로 소송을 당하면서 영화 ‘마이너리티 리포트’ 속 상상이 현실의 논쟁으로 다가왔습니다. 이미 해외 곳곳에서 개인 데이터를 분석해 살인 가능성을 예측하거나 반정부 인사를 색출하는 시스템이 가동되는 지금, 참사 예방과 감시 사회 사이에서 우리는 어떤 선택을 해야 할까요?&lt;br&gt;&lt;br&gt;호남이 과거 이승만과 박정희를 지지했던 보수 지역이었다는 사실을 아시나요? 우리가 흔히 ‘진보의 성지’라 부르는 전라도의 이 뜻밖의 역사 뒤에는 운동권 세력이 5·18을 이념화하며 지역 권력을 사유화해 온 흐름이 있습니다. 특히 최근 이재명 대통령이 내놓은 ‘800조 광주 반도체 투자’ 카드는 왜 공정한 경쟁을 실종시키고 오히려 호남을 ‘보이지 않는 고립’으로 몰아넣는 독이 된다는 걸까요? 지역 독점을 깨고 보편적인 도시로 나아가기 위한 호남 정치 혁신의 목소리를 담았습니다.&lt;br&gt;&lt;br&gt;한때 의학계에서는 심장으로 가는 혈관이 막히면 환자는 곧바로 숨진다고 믿었습니다. 하지만 심장마비가 몇 시간에 걸쳐 진행되는 과정이라는 사실을 밝혀내며 치료의 길을 연 의사가 있었습니다. 반세기 만에 허혈성 심장 질환 사망률을 5분의 1 이하로 낮추는 데 기여한 ‘현대 심장학의 아버지’ 유진 브라운왈드 박사입니다. 그는 심장마비 치료의 토대를 마련하고, 오늘날까지 이어지는 치료 지침과 교과서를 남겼습니다. 심장병 치료에 남긴 그의 연구와 생애를 들여다봅니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/science/2026/07/10/2KBLV2WXPZAP3GZCI74UYWJQRY/" target="_self" rel="" title="https://www.chosun.com/economy/science/2026/07/10/2KBLV2WXPZAP3GZCI74UYWJQRY/"&gt;즉사한다 믿었던 심장마비… 골든타임 찾아낸 의사&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4SSOFKDE5C23BUXGI7CFZZUB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 당시 한국군의 핵심 지휘관이었던 백선엽은 대한민국 최초의 대장 계급에 올랐습니다. 이 승진에는 전쟁 과정에서 쌓은 공적뿐 아니라 미군 지휘부의 평가와 신뢰가 크게 작용했습니다. 하지만 그가 대장에 오른 직후, 자신을 신뢰했던 밴 플리트 사령관이 떠나고 한국군의 위상을 높게 평가하지 않았던 깐깐한 신임 사령관 맥스웰 테일러가 부임하면서 상황은 달라졌습니다. 백선엽 앞에 펼쳐진 또 다른 시험대는 무엇이었을까요.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/international/2026/07/10/W5TNTPSOXNDX5H3V3GUNJJDLBY/" target="_self" rel="" title="https://www.chosun.com/international/2026/07/10/W5TNTPSOXNDX5H3V3GUNJJDLBY/"&gt;4성장군 기쁨도 잠시... 밴플리트 후임자와 껄끄러웠다&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHV6MCJC7RB5XNVCN2PY567JR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;1953년 2월4일 대구 육군본부를 방문한 신임 미8군 사령관 맥스웰 테일러(왼쪽)가 영접한 한국 육군참모총장(왼쪽에서 둘째)과 함께 촬영했다. 백 총장보다 19세 연상인 맥스웰 테일러는 중장 계급장이지만 백선엽 총장은 대장 계급장을 달고 있다. /미 국립 문서기록보관청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부와 기업의 자금줄인 채권 시장에서 AI 고빈도 알고리즘의 영향력이 커지고 있습니다. 과거에는 시장이 흔들릴 때 인간의 직관과 배짱이 완충 장치 역할을 했지만, 최근 시장을 움직이는 AI 기반 거래 시스템은 대형 악재가 터지면 자산 보호를 위해 일제히 거래를 중단하고 이탈할 수 있습니다. 평소에는 초고속 거래로 유동성이 풍부해 보이지만, 정작 위기의 순간에는 시장을 얼어붙게 만들 수 있다는 점입니다. AI 금융 시대가 가져온 새로운 위험을 짚어봅니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/weeklybiz/2026/07/10/UFBGYDPJP5G6HP2WN3JX7LWGZA/" target="_self" rel="" title="https://www.chosun.com/economy/weeklybiz/2026/07/10/UFBGYDPJP5G6HP2WN3JX7LWGZA/"&gt;AI 알고리즘이 초래할 채권 시장 ‘순간적 유동성 증발’&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STY3AI4NFJELBKHARVXSBAXGYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
+    </item>
+    <item>
       <title>[인사] 보건복지부 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/07/10/CQYY5LPBZFFP3ONGQVGS2UC7AQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/07/10/CQYY5LPBZFFP3ONGQVGS2UC7AQ/</guid>
@@ -876,42 +916,6 @@
       <description/>
       <pubDate>Wed, 08 Jul 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYK4GPMRVNE2JFWYD6H3TB5MRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] brave the elements</title>
-      <link>https://www.chosun.com/national/nie/english/2026/07/09/F4XM7H2MMVHK7H3MNXQZXB2CHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/07/09/F4XM7H2MMVHK7H3MNXQZXB2CHQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNC5OUB52FD6TF7EUZXILHVGYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 육포(肉脯)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/07/09/FDZ64VW475EDRP4T6A5RROSMFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/09/FDZ64VW475EDRP4T6A5RROSMFM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QSFWIY6K5CH7ASPHZ5NDVUDZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 피해서 지나갈 수 없다, 피할 수 없다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/07/09/QEEGTSW7INEBJEBGAJVQTUUWVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/07/09/QEEGTSW7INEBJEBGAJVQTUUWVM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDGVTPQQ25GB5KDAPYO5BEEOPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 별표</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/07/09/FO475LLLQ5FJ5FYVOCK6CTKPQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/07/09/FO475LLLQ5FJ5FYVOCK6CTKPQ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBSIYGPGK5EJ7LX3AFCTCACRBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [꼭 읽어야하는 고전] 진정한 거울은 나의 잘못도 비춰줘요… 듣기 싫은 말도 들을 용기 필요하답니다</title>
