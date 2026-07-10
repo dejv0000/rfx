@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유재성 경찰청장 대행 “장윤기 사건, 국민 여러분께 송구” </title>
+      <link>https://www.chosun.com/national/national_general/2026/07/10/CI7EWRG2U5ETBCADEVH6EV2NZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/10/CI7EWRG2U5ETBCADEVH6EV2NZY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jul 2026 23:48:10 +0000</pubDate>
+      <content:encoded>전남광주에서 여고생을 살해한 장윤기 사건에 대한 경찰의 부실 수사 논란에 대해 유재성 경찰청장 직무대행이 “국민 여러분께 심려를 끼쳐드려 매우 송구스럽다”고 10일 밝혔다. &lt;br&gt;&lt;br&gt;미국 출장 중이었던 유 대행은 귀국 일정을 하루 앞당겨 이날 새벽 인천공항으로 귀국했다. 유 대행은 “출장 일정 중 조기 귀국했다”며 “사안의 엄중함을 인식하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJXGUUTS4ZI25IWNCAJFYDQJCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재성 경찰청장 직무대행이 10일 인천국제공항 제2여객터미널을 통해 귀국해 취재진 질문에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주지검은 살인범 장윤기(23·구속)에 대한 보완수사 과정에서 현직 경찰 간부였던 장의 아버지와 수사팀장 박모 경감이 지속적으로 연락을 주고받았고, 박 경감이 주요 증거물을 장의 아버지에게 넘긴 것을 밝혀냈다. &lt;br&gt;&lt;br&gt;이로 인해 검찰의 보완수사권 존치 여론이 높아진 데 대해 유 대행은 “보완수사권은 국회에서 충분한 논의를 거쳐 입법 정책적으로 결정되리라 생각한다”며 “논의 과정에서 경찰도 필요한 의견을 제시하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;유 대행은 이날 오전 9시 20분에 전국 경찰 지휘부 화상회의를 주재할 예정이다. 이 회의에서는 향후 대책과 조직 쇄신 방안 등이 논의될 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 일선 경찰 35% “보완수사권 폐지에 반대”</title>
       <link>https://www.chosun.com/national/national_general/2026/07/10/TSC3OQKWUBFKVKSEZANKYCOFZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/10/TSC3OQKWUBFKVKSEZANKYCOFZU/</guid>
@@ -907,15 +916,6 @@
       <description/>
       <pubDate>Wed, 08 Jul 2026 15:35:00 +0000</pubDate>
       <content:encoded>요로 감염은 세균에 의해서 요도, 방광 또는 신장에 염증이 발생해서, 소변을 볼 때 통증을 일으키고, 급박뇨를 유발하며, 자주 소변을 보게 한다. 여성은 요도 길이가 짧아서, 남성에 비해서 요로 감염이 더 흔하다. 여성 세 명 중 한 명이 일 년에 두세 차례 반복적인 요로 감염으로 고생한다.&lt;br&gt;&lt;br&gt;크랜베리는 주로 북미 지역에서 생산되는 산앵도나무속의 붉은 과일로 인디언들이 요로 감염 치료제로 사용해오던 식물이다. 실제 효능에 대해서는 다소 논란이 있어 왔다. 호주 시드니대 연구팀은 메타분석 논문의 표준 저널인 코크런 리뷰 저널에 크랜베리가 요로 감염을 예방해 줄 수 있는지에 대한 연구 결과를 발표했다.&lt;br&gt;&lt;br&gt;연구팀은 반복적인 요로 감염이 있는 환자에서 크랜베리 효과를 분석한 총 50편, 8857명의 자료를 종합 분석했다. 그 결과, 크랜베리를 음용한 환자들은 음용하지 않은 환자에 비해, 증상을 동반하는 요로 감염 발생이 약 30% 적었다. 성인 여성의 경우는 26%, 소아는 54%, 요로 시술을 받은 환자들에서도 요로 감염을 53% 줄여주었다. 크랜베리 섭취 시 가장 흔한 부작용은 복부 불편감이었지만 대조군과 큰 차이는 없었다.&lt;br&gt;&lt;br&gt;크랜베리 내에 다량 함유되어 있는 프로안토시아니딘이란 성분이 요로 감염균인 대장균이 방광 내 요로상피세포에 부착되는 것을 억제하기 때문에 요로 감염을 줄일 수 있는 것으로 추정된다. 반복적인 요로 감염을 예방하기 위해서는 충분한 물 섭취가 기본이고, 크랜베리 섭취가 도움이 될 수 있겠다. 프로안토시아니딘이 함유된 식품은 크랜베리 외에, 블루베리 및 베리류, 포도 껍질 및 포도씨, 코코아 및 다크 초콜릿, 사과 껍질 등이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2904] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2026/07/09/NTIL2QED4NEXHAWK4AFOPDGMBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/09/NTIL2QED4NEXHAWK4AFOPDGMBE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYK4GPMRVNE2JFWYD6H3TB5MRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [꼭 읽어야하는 고전] 진정한 거울은 나의 잘못도 비춰줘요… 듣기 싫은 말도 들을 용기 필요하답니다</title>
