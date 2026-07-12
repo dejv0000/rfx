@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title> [리빙포인트] 욕실 거울 김서림 없애려면</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/13/YDHXNFIQBJCORA5HDEBTD72C4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/13/YDHXNFIQBJCORA5HDEBTD72C4M/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 14:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLWBA4U33NCNDBRI236AHDBBKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안 쓰는 면도 크림은 욕실 거울 닦는 데 써보자. 면도 크림을 잘 펴 바른 뒤 마른 수건으로 닦아내면 된다. 김 서림이 사라진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 7월 13일</title>
+      <link>https://www.chosun.com/national/education/2026/07/12/PA5PWYSKNBCK7ALZCWKN45T2DA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/12/PA5PWYSKNBCK7ALZCWKN45T2DA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 14:32:00 +0000</pubDate>
+      <content:encoded>전국 무더위…오후 곳곳 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESXIANUH5BFD5EUS7VZDWDS7FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부부싸움 뒤 8살 딸 태우고 순찰차 들이받은 40대 女…응급입원 조치</title>
+      <link>https://www.chosun.com/national/regional/2026/07/12/L3V4COWFN5HMVKBXQYLCBF3CDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/12/L3V4COWFN5HMVKBXQYLCBF3CDY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 13:15:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMKFCKPQOJIVN6KKRJNOBXQQLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이천경찰서. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린 딸을 차에 태운 채 순찰차를 들이받는 등 경찰과 1시간가량 대치한 40대 여성이 응급입원 조치됐다.&lt;br&gt;&lt;br&gt;경기 이천경찰서는 특수공무집행방해 혐의로 40대 여성 A씨를 긴급체포해 응급입원 조치했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시 40분쯤 이천시 부발읍 도로에서 8살 딸 B양을 차에 태우고 달리던 중 경찰의 정차 지시에 불응하고 순찰차를 들이받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 A씨는 남편과 말다툼 뒤 B양을 차에 태우고 지인의 집으로 운전했다. 남편은 낮 12시 10분쯤 “아내가 아이를 데리고 나갔는데 (사고가) 걱정이 된다”고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;출동한 경찰은 A씨를 발견하고 차를 멈춰 세우라고 요구했으나 응하지 않자 순찰차로 앞뒤를 가로막았다.&lt;br&gt;&lt;br&gt;A씨는 이후 오도 가도 못하게 된 상황에서 전후진을 반복하며 순찰차를 여러 차례 들이받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 1시간가량 대치를 이어가다 A씨가 하차 요구에 응하지 않자 결국 차 유리를 깨고 A씨를 검거했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20년 싸게 임대 아파트 살았는데 “못 나간다”는 임차인들, 왜?</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/12/AO3LWV7CX5G23CYAO3DTTHLBKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/12/AO3LWV7CX5G23CYAO3DTTHLBKQ/</guid>
+      <dc:creator>이미지 기자, 윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+      <content:encoded>“우리를 개·돼지로 여기게 해서는 안 된다.” “안 나가면 된다. 버텨라.” &lt;br&gt;&lt;br&gt;지난 11일 서울 송파구 장지동 송파파인타운의 장기전세주택 거주자 200여 명이 한 곳 모였다. 서울시 공공임대주택 임차인 권익 증진 위원회 송파파인타운 지회가 연 ‘송파파인타운 주민(임차인) 설명회’였다. 서울시가 2007년 도입한 ‘장기 전세 주택’은 주변 시세의 약 20~30% 수준의 보증금으로 최장 20년까지 거주할 수 있도록 한 제도다. 2027년 장기 전세 만기를 앞둔 이들은 서울시에 ‘장기적인 계약 연장’과 ‘개별적·단계적인 분양(소유권) 전환’을 요구하겠다며 이날 설명회를 열었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7QUVBR5BVLZLHBHKDZK2NMAC4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 송파구 롯데월드타워 서울스카이에서 바라본 아파트 단지의 모습. 서울의 스카이라인이 그려진 유리창 아래로 서울 아파트의 모습이 보인다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 “해당 제도는 최장 20년의 거주를 보장하기로 한 것”이라며 “장기전세 입주민들의 계약이 끝난 물량은 신혼부부 등을 위한 ‘미리내집’으로 공급할 예정”이라는 입장이다. 계약 당시 재계약과 분양 전환이 불가한 조건으로 공급됐기 때문에 이들의 요구를 들어줄 경우 입주 대기자들과의 형평성 문제가 벌어진다는 점도 지적된다.&lt;br&gt;&lt;br&gt;이날 설명회에 참석한 입주민들은 “서울시 말을 믿고 들어왔다가 완전 속았다” “죽을 때까지 살게 해달라” 등의 요구를 이어갔다.&lt;br&gt;&lt;br&gt;입주민들은 서울시와 서울주택도시개발공사(SH)가 보장한 20년 동안 서울 아파트 가격이 크게 올라 이주가 불가능하다고 주장한다. 장기 전세 주택에 거주 중이라는 주민 문모(68)씨는 “건물 관리인으로 버는 돈이 연간 4000만원에 불과해 돈을 모을 수 없었다”며 “기존 거주민들이 적정 가격에 분양 받을 기회를 줘야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YDKNJSHFTGEZJQMUZWMYJVMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 공공임대주택 임차인 권익 증진위원회 송파파인타운 지회는 오는 11일 임차인 설명회를 개최한다는 안내문을 배포했다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억5000만원에 강동구 장기 임대주택에 입주했다는 이동춘 서울시 공공 임대주택 임차인 권익 증진 위원회(장기 전세주택 임차인 모임) 감사는 “당시 대출을 조금 보태면 3억원 정도 하는 민간 아파트를 살 수도 있었는데 이제 집값이 10억원을 넘는다”며 “정책을 믿고 장기 전세를 택한 주민이 집 살 기회를 잃었으니 부동산 값이 폭등한 현실을 책임져야 한다”고 말했다.&lt;br&gt;&lt;br&gt;퇴거 기간이 만료되더라도 조직적으로 버티기에 돌입할 가능성도 높다. 주민들에게 “SH가 통상 2~6개월의 이사 기간을 주고, 명도 소송을 제기하더라도 소송에만 1~3년이 걸린다”며 “버티면서 법적 대응을 준비하자”고 독려하는 장면이 목격되기도 한 것이다.&lt;br&gt;&lt;br&gt;정치인들도 힘을 보탰다. 이날 설명회에 참석한 정진철 서울시의원(더불어민주당)은 “이달 중 서울시와 SH 담당자를 불러 입장을 듣겠다”며 “주민들이 원하는 방향으로 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;문제는 이런 요구를 하는 곳이 송파파인타운뿐만이 아니라는 점이다. 2027년부터 2031년까지 입주 기간이 만료되는 강일리버파크와 고덕리엔파크, 마곡엠밸리 등에서도 서울시에 장기 계약 연장과 분양 전환 등을 요구하고 있다. 서울시에 따르면 내년부터 2031년까지 최장 거주 기간 20년이 만료되는 가구는 9361가구에 달한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ3EXZO64RF3NDLNBEC4DNY2FU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/챗GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 20년간 장기 전세 임대를 사는 동안 부동산 가격이 급등해 다른 아파트로 이주가 어려운 만큼 계약 기간을 연장해주거나 현재 살고 있는 아파트의 소유권을 시세보다 저렴한 가격에 넘겨달라고 주장하고 있다.&lt;br&gt;&lt;br&gt;실제로 20년 장기 전세에 거주하는 입주민들이 계약이 끝나고 돌려받을 보증금은 서울 아파트 전세 가격의 25~30% 수준에 불과하다. 서울시에 따르면 2007년 입주한 임차인들의 평균 보증금은 1억5900만원, 2008년 입주한 이들의 보증금은 평균 1억4800만원 수준이다. 장기 전세 입주민 전체의 평균 보증금도 3억4900만원에 불과하다. 서울 아파트 평균 전세가(KB부동산·6억9619만원)에 비해서도 턱없이 모자란 수준이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNNI7A55ZFDX7GQTPJQE4I4MPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/챗GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입주민들이 살고 있는 같은 단지 내 일반 매물과 비교하면 가격 차이는 더 크게 벌어진다. 송파파인타운 10단지 59㎡의 경우 임대가 아닌 일반 매물 전세가 이달 10일 7억4000만원에 계약됐고, 강일리버파크 4단지는 같은 날 5억2500만원에 전세 계약을 맺었다.&lt;br&gt;&lt;br&gt;하지만 전문가들은 “한정된 복지일수록 다양한 계층의 사람들이 누릴 수 있도록 분배하는 게 중요하다”고 말한다. 앞서 복지 혜택을 누린 사람이 다음 세대에게 복지 혜택을 돌려주는 식으로 순환을 해야 한다는 것이다.&lt;br&gt;&lt;br&gt;서울시는 올해 6월 장기 전세 임차인들이 임대 주택에 재신청할 때 적용하는 감점을 완화해주거나 특정 조건에서 면제해주는 내용으로 조례를 개선했다. 임차인들이 다른 임대 주택에 지원할 수 있도록 해준 것이다.&lt;br&gt;&lt;br&gt;서울시는 내년부터 장기 전세 계약이 끝나는 물량을 무주택 신혼부부를 위한 미리내집으로 전환해 공급한다는 계획이다. 미리내집은 시세의 80% 수준의 보증금으로 최장 20년을 거주할 수 있도록 하는 것은 똑같지만 자녀를 출산할 경우 우선 매수 청구권을 준다. 자녀가 2명이면 시세의 90%, 3명이면 시세의 80% 수준으로 집을 살 수 있도록 한 것이다. 자녀가 4~5명으로 늘어나면 보증금을 시세의 50~60% 수준으로 줄여주는 것은 물론, 시세의 50~60% 수준에 아파트 소유권을 넘겨준다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 국방장관 공관 열어줬던 박종준이 공수처 尹 체포 막아선 이유는</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/12/WHNTT3JGCRHLPDNXTUXOHKK2HU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/12/WHNTT3JGCRHLPDNXTUXOHKK2HU/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRTOYZRHEYGEZRQMYZWMMLBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특수공무집행방해 혐의 등으로 징역 4년을 선고받은 박종준 전 대통령경호처장 등 경호처 지휘부의 1심 판결문에는 경호처가 당시 고위공직자범죄수사처(공수처)의 윤석열 전 대통령 체포영장 집행을 방해하게 된 배경과 과정이 자세하게 담겼다. 서울중앙지법 형사26부(재판장 이현경)는 지난 9일 대통령경호처의 김성훈 전 차장과 이광우 전 경호본부장에게는 각각 징역 5년과 징역 2년 6개월을 선고했다. 함께 기소된 김신 전 가족경호부장만 징역 1년에 집행유예 2년이 내려졌다.&lt;br&gt;&lt;br&gt;12일 본지가 분석한 박 전 처장 등에 대한 1심 판결문에 따르면, 비상계엄 선포 닷새 만인 2024년 12월 8일 오전 경찰청 국가수사본부 비상계엄 특별수사단(특수단)은 김용현 전 국방장관에 대한 압수수색을 하기 위해 서울 용산구에 있는 국방부장관 공관을 찾았다. 공관 관리 책임자였던 박 전 처장은 오전 10시쯤 특수단 직원들이 공관촌 입구에 도착했다는 사실을 파악했다. &lt;br&gt;&lt;br&gt;박 전 처장은 곧바로 이진하 전 경비안전본부장에게 연락했다. 그는 이 전 본부장에게 공관촌 1정문으로 가라고 지시한 뒤 “이광우 전 본부장이 공관촌 입구에 있지만 네가 좀 가서 같이 봐주는 것이 좋겠다. 이광우가 무슨 짓을 할지 모르겠다”고 말했다. 이 전 경호본부장은 김 전 차장과 함께 경호처 내 강경파로 꼽힌 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEEAEIOKTA37AGPLUFNEDNTIIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. 대통령실 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특수단의 공관촌 방문 사실을 보고받은 윤 전 대통령은 김 전 차장에게 먼저 연락했다. 윤 전 대통령은 “국방장관 공관이 대통령 관저 내에 포함돼 있다”며 특수단의 공관촌 진입을 막아야 한다는 취지로 이야기했다고 한다. 그러면서 “국방장관 공관만 생각할 게 아니라 여기가 군사보호구역이고 경호구역으로 돼 있다는 점을 생각해야 한다”고 강조한 것이다. &lt;br&gt;&lt;br&gt;당시 경호처와 김 전 장관 측 변호인은 특수단에 국방부장관의 공관 압수수색은 경호구역이라 국방부 책임자의 승낙이 필요하다고 맞섰다. 이에 특수단은 “수사관 1명이 임의제출 대상 물건을 꺼내는 장면을 직접 공관에 가서 보게 해달라”고 요청했다.&lt;br&gt;&lt;br&gt;이에 박 전 처장은 “(경찰) 수사관 1명 정도는 (국방부장관) 공관으로 보내도 되니 다른 곳에 이야기하지 말고 조용히 진행하자”고 허락했다. 특수단의 공관 진입을 허용한 셈이다. 다만 경호처는 “경호 구역임 고려해 안대를 착용하고 경호처 차량으로 이동해 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRWMMJSGEZGMMBSGRSTKMJTMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김성훈(가장 오른쪽) 전 경호처차장. 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 2시 21분쯤 윤 전 대통령은 김 전 차장에게 연락해 상황을 체크했다. 윤 전 대통령은 “어떻게 됐어? 내가 아침에 이야기한 대로 잘 지켜지고 있어?”라고 물었고, 김 전 차장은 “경찰 한 명이 공관에 들어갔다”고 보고했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “야, 내가 들여보내지 말라고 했더니, 그걸 왜 들어가라고 해. 들여보내지 말라니까 말이야”라며 김 전 차장을 질책했다. 그러고는 4분 뒤 다시 김 전 차장에게 연락해 “내가 그렇게 들여보내지 말라고 했잖아. 처장에게 내 지시 전달했어, 안 했어?”라고 다그쳤다고 한다. 윤 전 대통령은 이후 박 전 처장에게 직접 연락해 크게 화를 내며 질책했다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 격노에 김 전 차장 등은 이진하 전 경비안전본부장에게 “한 명도 들여보내지 말라고 했는데 처장이 보내라고 한다고 보내주면 어떻게 하냐”고 따졌다. 반면 박 전 처장은 자신을 ‘패싱’하고 윤 전 대통령에게 직접 특수단의 압수수색 사실을 보고한 데 화가 나 다음 날(12월 9일) 김 전 차장 등을 크게 질책했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/274UPNAACVORRBLDD2IORTGHPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처장이 작년 1월 5일 서울 용산 대통령 관저 지역에서 고위공직자범죄수사처(공수처)의 윤석열 전 대통령에 대한 체포 영장 집행 당시 대통령경호처가 대통령 관저 진입을 승인하지 않은 것과 관련한 입장을 발표하고 있다. 대통령실 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“朴, 尹에 질책받자 영장 집행 거부해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;공수처는 2024년 12월 31일 법원으로부터 윤 전 대통령에 대한 체포영장을 발부받았다. 그리고 곧바로 경호처와 국방부에 대통령 관저 등에 대한 출입 허가 요청 공문을 보냈다. 이에 국방부는 “출입 허가는 경호처에 문의하라”고 회신했고, 경호처는 아무런 답을 하지 않았다. &lt;br&gt;&lt;br&gt;공수처가 체포영장 집행을 준비하던 때, 경호처 간부들은 체포영장 집행을 막을 준비를 하고 있었다. 공수처가 영장을 청구한 12월 30일, 박 전 처장은 김 전 차장 등과의 티타임을 하며 “대통령이 잡혀가게 할 수는 없다”며 “나는 관저 경호 책임자로서 관저 출입을 승낙하지 않을 생각”이라고 했다. 그러면서 “내가 대통령을 잡아가라고 ‘들어오세요’ 할 수도 없는 것이 내 입장 아니겠느냐”라고 했다. &lt;br&gt;&lt;br&gt;이처럼 박 전 처장의 생각이 변한 주된 이유를 재판부는 윤 전 대통령의 ‘격노’로 보고 있다. 재판부는 “박 전 처장은 국방장관 공관 압수수색에 협조했다가 윤 전 대통령으로부터 강한 질책을 받자, 공수처 체포영장 집행을 거부하는 태도를 취했다”고 설시했다. 그러면서 재판부는 박 전 처장이 공수처의 영장 집행을 막을 이유가 없었다고 했다. 재판부는 공수처가 영장을 집행해 실체적 진실을 밝힐 필요성이 인정된다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTASSXTZGVDSFM7AF2JNFFP42E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령에 대한 체포영장 집행에 나선 고위공직자범죄수사처 수사관들이 2025년 1월 3일 서울 한남동 대통령 관저 입구에서 경호처와 대치중이다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“영장 못 막는다” 보고 받고도 체포 방해&lt;/b&gt;&lt;br&gt;&lt;br&gt;판결문에는 경호처 간부들이 경호처 법제관과 군법무관 등으로부터 공수처의 체포를 막을 수 없다는 보고를 받고도 이를 무시했다는 내용이 포함됐다. 경호처 법제관은 “체포 자체를 제한할 수 있는 형사소송법상 규정은 없는 상황”이라는 내용이 담긴 ‘경호구역 내 체포영장 등 강제수사시 경호적 참고사항 검토’ 보고서를 올렸다.&lt;br&gt;&lt;br&gt;보고를 받은 박 전 처장은 이광우 전 경호본부장에게 “체포영장을 막을 법적인 근거는 없고, 압수수색에 대해 처장인 내가 승인을 안 해줄테니 거기에 대한 대비를 철저히 해달라”고 했다. 이에 대해 재판부는 박 전 처장 등이 경호처가 공수처의 영장 집행을 막을 수 없다는 사실을 분명히 인식하고 있었다고 판단했다.&lt;br&gt;&lt;br&gt;그런데도 경호처 지휘부가 차벽을 세우고 인간 스크럼을 짜게 하는 등 공수처의 영장 집행을 저지한 점이 위법하다고 지적했다. 재판부는 박 전 처장에 대해 “경호처에서 최종 책임자의 지위에 있는 사람이므로, 윤 전 대통령의 지시가 있었다고 하더라도 그것이 위법하다면 이를 거부해야 할 의무가 있다”며 “그럼에도 피고인은 경호처 조직을 이용해 영장 집행을 저지했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSJA6H57WZMULLVCL2NBAGPATQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)의 윤석열 전 대통령 체포영장 집행을 방해한 혐의로 기소된 김성훈 전 경호처 차장이 지난 9일 오후 서울 서초구 서울중앙지방법원에서 열린 특수공무집행방해 등 혐의 선고기일에 출석하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 차장은 경호처에 파견된 군법무관이 경호처 경호포털에 ‘체포영장 집행을 막는 것은 특수공무집행방해에 해당된다’는 취지의 글을 올리자 이를 삭제하도록 지시했다. 당시 김 전 차장은 박 전 처장이 사표를 내 경호처장 직무를 대리하고 있었다.&lt;br&gt;&lt;br&gt;재판부는 “김 전 차장이 체포영장 등 관련 범행 과정에서 가장 적극적이고 강경한 역할을 수행했다”며 박 전 처장보다 무거운 형을 선고했다. 그러면서 “하급자인 경호처 소속 공무원들에게 직권을 남용해 다른 국가공무원의 정당한 법 집행을 방해하는 등 법적 위험을 발생하게 했다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염 속 천안 비닐하우스서 80대 숨져 </title>
+      <link>https://www.chosun.com/national/regional/2026/07/12/Z4LMIMB74VCQZD7MVIE5W2ZR6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/12/Z4LMIMB74VCQZD7MVIE5W2ZR6Q/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 12:55:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2GMMDDG5SDEZBWG43GMZJRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 포항시 전역에 폭염 중대경보가 발령된 12일 포항시 남구청 앞 도로에 아지랑이가 피어오르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 충남 천안에서 80대가 비닐하우스 작업 중 숨졌다. &lt;br&gt;&lt;br&gt;충남소방본부에 따르면 이날 오후 4시 42분쯤 천안시 입장면의 한 비닐하우스 내에서 80대 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨 가족은 “비닐하우스에 일하러 가셨는데 집으로 돌아오지 않는다”고 119에 신고했다.&lt;br&gt;&lt;br&gt;소방 당국은 A씨가 온열질환에 의해 숨진 것으로 보고 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;충남에서는 A씨를 비롯해 모두 이날 모두 6명의 온열질환자가 나왔다.&lt;br&gt;&lt;br&gt;이들은 작업을 하거나 축구하면서 다리 경련 등을 일으켜 인근 병원에서 치료받았다.&lt;br&gt;&lt;br&gt;대전과 충남에서는 이날 낮 최고기온이 35도 안팎을 기록하는 등 무더위가 기승을 부리고 있다.&lt;br&gt;&lt;br&gt;대전과 세종 남부, 충남 공주·논산·금산·청양·부여·보령(도서 제외)에는 폭염경보가, 세종 북부, 충남 천안·아산·예산·태안·당진·서산·계룡·보령 도서·홍성·서천에는 폭염주의보가 각각 내려졌다.&lt;br&gt;&lt;br&gt;충남 아산·예산·공주·부여·논산 등에는 밤 최저기온이 25도 이상으로 유지되는 열대야주의보가 발효됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법, 보완수사권 폐지에 “부작용 막을 보완책 필요” 첫 의견</title>
       <link>https://www.chosun.com/national/court_law/2026/07/12/T66YBY3Q3VCJ5IZBYTSGJDARS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/12/T66YBY3Q3VCJ5IZBYTSGJDARS4/</guid>
@@ -849,71 +903,6 @@
       <description/>
       <pubDate>Fri, 10 Jul 2026 06:54:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFTGEMBSGFSDONJVME2TOY3DMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시교육청은 9일부터 배재고 전체 학생을 대상으로 역사·인권 교육과 차별·혐오 표현 방지 교육을 실시한다. 배재고 야구부는 지난달 29일 경기 중 5·18 민주화운동을 조롱하는 응원 구호를 외쳐 물의를 빚었다. 사진은 이날 서울 강동구 배재고등학교 정문의 모습. 2026.7.9 ⓒ 뉴스1 이종수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 중 지역 비하성 구호를 외쳐 6개월 출전 정지 징계를 받은 배재고 야구부에 대해 대한체육회가 14일 재심의 일정을 결정하기로 했다. &lt;br&gt;&lt;br&gt;이르면 20일 재심의를 진행하지만, 일정이 다음 달로 넘어갈 가능성도 배제할 수 없다는 게 체육회 입장이다. &lt;br&gt;&lt;br&gt;체육회에 따르면, 배재고 재심의 일정은 우선 14일 스포츠공정위원회의 ‘징계심의소위원회’ 결과에 따라 달라진다. &lt;br&gt;&lt;br&gt;소위원회가 20일로 예정된 스포츠공정위 전체 회의에 배재고 재심의 안건을 상정하기로 결정하면 이날 재심의와 의결이 이뤄진다. &lt;br&gt;&lt;br&gt;반면 소위원회가 20일 회의에서 안건을 다루지 않기로 정하면, 다음 달 차기 회의 이후로 재심의 일정이 미뤄진다. &lt;br&gt;&lt;br&gt;체육회 관계자는 “일단 배재고 측에 ‘공정위에 출석하라’고 요구서를 보냈지만, 일정 규정에 따른 것으로 이달 재심의 여부는 미정”이라고 말했다. &lt;br&gt;&lt;br&gt;재심 신청일(8일)로부터 60일 이내 결론을 내야 하기 때문에 늦어도 다음 달 회의에선 재심의가 이뤄질 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIEOFGNXBFAYJCGVYZOSOJEP7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지역 비하 성격을 가진 응원 구호를 외쳐 논란을 일으킨 서울 배재고등학교 야구부가 6일 전남광주특별시 광주제일고등학교를 찾아 사과를 하고 있다./2026.7.6. 김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배재고는 지난달 29일 광주제일고와의 청룡기 전국고교야구선수권대회 경기 도중 “스타벅스 가야지” “탱크데이”라는 구호를 외쳐 논란을 빚었다. &lt;br&gt;&lt;br&gt;이에 대한야구소프트볼협회(KBSA)는 이달 1일 배재고에 전국 대회 6개월 출전 정지 징계를 내렸다. KBSA는 “배재고가 스포츠 정신에 반하고 경기장 질서를 문란하게 했다”고 판단했다. &lt;br&gt;&lt;br&gt;배재고 측은 지난 6일 광주제일고를 찾아 사과한 뒤 8일 체육회에 재심을 신청했다. &lt;br&gt;&lt;br&gt;전날 광주제일고 이규연 교장은 “용서와 화해의 모습을 고려해 배재고 야구부 학생들이 새롭게 출발할 수 있도록 역량과 지혜를 모아달라”고 선처를 요청했다. &lt;br&gt;&lt;br&gt;20일 공정위에 재심의 안건이 상정돼 징계가 대폭 감경될 경우, 배재고는 다음 달 봉황대기 전국고교야구대회(8월 6일 개막)에 출전할 수도 있다. &lt;br&gt;&lt;br&gt;이달 공정위에 안건이 오르지 않거나, 재심의 결과 징계 수위가 크게 낮아지지 않으면 봉황대기 출전이 불발될 수도 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 7월 11일 토요일 (음력 5월 27일 丙戌)</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/10/PH3R6NWHLFBE5L3WEGRIDVFGZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/10/PH3R6NWHLFBE5L3WEGRIDVFGZA/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>국민체육진흥공단 ‘2026 환경대상’ ESG 경영 대상</title>
-      <link>https://www.chosun.com/national/people/2026/07/10/IGLUIHZPGJDEVDN5PJZRJ3PEPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/10/IGLUIHZPGJDEVDN5PJZRJ3PEPA/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jul 2026 07:07:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3TKNLCGQ4TCZRRMFSGMZRRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 대한민국 환경대상 ESG 경영 부문 대상을 수상한 국민체육진흥공단의 성욱제 경영혁신본부장(오른쪽)과 이규용 환경대상위원장. /국민체육진흥공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민체육진흥공단이 ‘2026년 대한민국 환경대상’ ESG 경영 부문 대상을 받았다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;대한민국 환경대상은 환경 보전과 지속 가능한 사회 발전에 기여한 공공기관, 기업, 단체와 개인에게 주는 환경 분야 대표 상이다. &lt;br&gt;&lt;br&gt;공단은 “친환경 경영 체계 구축, 에너지 절감, 온실가스 감축, 자원 순환 활성화, 스포츠 기반 탄소 중립 실천 등의 성과를 인정받았다”고 했다. &lt;br&gt;&lt;br&gt;구체적으로 공단은 국제 표준 환경·에너지 경영 시스템을 기반으로 친환경 경영에 힘을 쏟고 있다. &lt;br&gt;&lt;br&gt;특히 공단 특성에 맞춰 스포츠 사업과 연계한 탄소 중립 활동을 적극적으로 추진하고 있다. 올림픽공원 내 임목 부산물의 바이오 에너지를 활용하고, 친환경 전기 경정 모터보트를 개발한 게 대표 사례다. &lt;br&gt;&lt;br&gt;공단 관계자는 “임직원 모두 탄소 중립 실천을 위해 노력한 결실을 맺었다”며 “앞으로도 지속 가능한 스포츠 환경 조성에 앞장서 나가겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>물폭탄 그친뒤 ‘한증막 더위’... 주말 낮 38도에 열대야 온다</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/07/10/WNIS3KICSRBEHGA6ZBGY5CIJEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/10/WNIS3KICSRBEHGA6ZBGY5CIJEY/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jul 2026 01:34:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4EMMPLUDSNMBJFL7JJ6YPEPGFA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;비가 내린 10일 서울 종로구 광화문광장에서 시민들과 외국인 관광객들이 우산을 쓴 채로 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장맛비가 잦아든 뒤 주말부터는 전국 대부분 지역에 폭염이 찾아오겠다. 비가 그친 뒤 습도가 높은 상태에서 낮 기온이 크게 오르면서 체감 온도도 높게 나타날 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 10일 오후부터 비가 대부분 그친 뒤 11일부터 다시 무더위가 찾아오겠다. 북태평양고기압에 더해 티베트고기압까지 한반도 상공을 덮으면서 더운 공기가 갇히는 ‘온실 효과’가 나타날 것으로 보인다. 11일 아침 최저기온은 21~26도, 낮 최고기온은 29~37도로 예보됐다. 12일에는 아침 최저기온이 23~26도, 낮 최고기온이 30~38도까지 오르며 주말 동안 더위가 이어질 전망이다.&lt;br&gt;&lt;br&gt;전국 대부분 지역에서 낮 기온은 30도 이상으로 오르겠다. 현재 영남과 제주 해안을 중심으로 내려진 폭염 특보도 전국으로 확대될 가능성이 있다. 폭염 특보가 발효된 지역에서는 체감 온도가 33도 이상까지 치솟을 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6APTK73WZL6POSQJ7JGVXUBQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구에 폭염주의보가 발효 중인 10일 동대구역 광장에서 한 시민이 양산을 쓰고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;열대야도 나타나겠다. 당분간 밤사이 고온다습한 남서풍이 유입되면서 기온이 충분히 떨어지지 않아, 산지를 제외한 전국 곳곳에서 밤 최저기온이 25도 이상 유지되는 열대야가 나타날 수 있다.&lt;br&gt;&lt;br&gt;장마가 완전히 끝난 것은 아니다. 기상청에 따르면, 다음 주 중반 북태평양고기압 가장자리가 다시 남쪽으로 내려오면서 다시 전국 곳곳에 비가 내릴 가능성이 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4EMMPLUDSNMBJFL7JJ6YPEPGFA.JPG?auth=721684e9f1140972e4f37977029125f2e745d1d558c28f2fc35f58e02265760b&amp;smart=true&amp;width=4201&amp;height=2547" type="image/jpeg" height="2547" width="4201">
-        <media:description type="plain">비가 내린 10일 서울 종로구 광화문광장에서 시민들과 외국인 관광객들이 우산을 쓴 채로 발걸음을 옮기고 있다. 2026.7.10/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김성진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] ‘대북송금 제3자뇌물’ 김성태, 2심서 공소기각 취소</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/10/Y65II2IEPBHMXLI4UQ2L33VAJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/10/Y65II2IEPBHMXLI4UQ2L33VAJ4/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jul 2026 06:20:53 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대한체육회, 배재고 ‘6개월 출전 정지’ 20일 재심 </title>
-      <link>https://www.chosun.com/national/education/2026/07/10/QOYOQDLBHJCC3BTBQYEU7Z55PE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/10/QOYOQDLBHJCC3BTBQYEU7Z55PE/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jul 2026 05:38:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSDSN3GGNSDQMZSHFRDGYTEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 배재고 야구부원들이 전남광주 국립5.18묘역을 참배하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교육청에 따르면 대한체육회는 오는 20일 광주제일고와의 경기 중 “스타벅스 가야지”라고 외쳐 논란을 빚은 배재고 야구부에 대한 재심한다. &lt;br&gt;&lt;br&gt;대한체육회는 오는 20일 오후 서울 송파구 올림픽회관에서 진행되는 제19차 스포츠공정위원회에서 배재고 야구부에 대한 재심할 예정이다. 대한야구소프트볼협회는 지난 1일 배재고 야구부에 전국 대회 6개월 출전 정지와 청룡기 몰수패란 중징계를 내렸다. &lt;br&gt;&lt;br&gt;배재고는 지난 8일 대한체육회에 재심을 신청했다. 배재고는 신청서와 함께 교직원들이 작성한 탄원서도 함께 제출했다. 이날 배재고는 법원에 대한야구소프트볼협회의 출전정지 처분에 대해 효력 정지 가처분 신청서를 제출하기도 했다.&lt;br&gt;&lt;br&gt;5·18 단체들도 대한체육회에 배재고 야구부에 대한 선처를 호소했다. 5·18공법3단체(유족회·부상자회·공로자회)와 5·18기념재단은 9일 입장문을 내고 “5·18 정신의 핵심은 ‘배제’가 아닌 ‘포용’에 있다”며 “과거의 잘못을 마주하고 이를 바로잡으려는 배재고의 용기는 역사를 과거에 박제된 기록이 아니라 현재를 살아가는 우리 모두의 책임으로 받아들이고 있다는 증거”라고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 배재고 야구부원과 학부모, 교직원 등은 지난 6일 광주제일고를 찾아 사과문을 전달하고 국립5·18민주묘지를 찾아 참배했다. 광주제일고도 야구협회에 배재고 선수들에 대한 선처를 호소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조희대 대법원장, 신임 법원행정처장에 노경필 대법관 임명</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/10/TKWZWULXTZADFFPZ573CYC2UTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/10/TKWZWULXTZADFFPZ573CYC2UTQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jul 2026 05:03:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RM2ZSAEZ25D73OPFCOA3KBGHFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노경필 대법관 후보자가 2024년 7월 22일 국회에서 열린 국회 인사청문회에서 답변하고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 신임 법원행정처장에 노경필(61·사법연수원 23기) 대법관을 임명했다고 대법원이 10일 밝혔다. 임기는 14일부터다.&lt;br&gt;&lt;br&gt;대법원은 이날 “노 처장은 전문적인 법률 지식과 합리적이고 공정한 판단 능력, 도덕성과 인품을 두루 갖춰 법원 안팎의 존경과 신망을 받고 있다”며 “경청과 포용의 리더십으로 법원 구성원은 물론 사회 각계와 소통하며 국민을 위한 신속하고 공정한 사법 제도를 구현하고 사법부에 대한 국민의 신뢰를 높일 적임자”라고 밝혔다.&lt;br&gt;&lt;br&gt;전남 해남 출신인 노 처장은 광주고와 서울대 법대를 졸업하고 1991년 제33회 사법시험에 합격했다. 1997년 서울지법 판사로 임관한 뒤 대법원 재판연구관, 서울고법 고법판사, 광주고법 부장판사, 수원고법 부장판사·수석부장판사 등을 거쳐 2024년 8월 윤석열 정부에서 대법관에 임명됐다.&lt;br&gt;&lt;br&gt;노 처장은 특히 대법원 재판연구관으로 5년간 헌법·행정조에서 근무하며 헌법과 행정법 분야 사건을 담당한 대표적인 행정법 전문가로 꼽힌다. 법무부 행정소송법 개정위원회 위원과 법원실무제요 행정편 공동 집필에도 참여했다.&lt;br&gt;&lt;br&gt;노 처장은 법관 재직 당시 정규직과 같은 업무를 하는 기간제 운전 강사에게 상여금을 지급하지 않은 것은 부당한 차별이라고 판결했다. 또 법률 근거 없이 국토교통부 예규만으로 건설회사 영업을 정지한 처분은 위법하다는 판결을 내리기도 했다.&lt;br&gt;&lt;br&gt;대법관 취임 이후에는 간병 급여 지급 기준과 관련해 ‘생명 유지에 필요한 일상생활의 처리 동작’의 범위를 호흡뿐 아니라 이동·식사 등 인간다운 삶을 위한 기본적인 일상생활까지 포함된다고 처음 판시했다. 또 장외 파생 상품을 이용한 우회적 시세 조종도 자본시장법상 시세조종행위가 될 수 있다는 법리를 처음 제시하는 등 굵직한 판결을 선고했다.&lt;br&gt;&lt;br&gt;법원행정처장 자리는 박영재 전 처장(대법관)이 지난 2월 더불어민주당이 주도한 이른바 사법 3법(법왜곡죄 신설·재판소원 도입·대법관 증원) 통과에 대한 책임을 지겠다며 사의를 표한 뒤 넉 달 넘게 공석이었다. 그동안은 기우종 법원행정처 차장이 처장 직무를 대행해 왔다.&lt;br&gt;&lt;br&gt;조 대법원장이 후임 처장 임명을 미뤄온 것은 지난 3월 퇴임한 노태악 전 대법관의 후임 대법관 제청이 이뤄지지 않은 상황에서 재판 공백을 최소화하기 위한 조치였다. 대법원은 대법원장과 법원행정처장을 제외한 대법관 12명이 소부 재판을 맡는데, 법원행정처장을 공석으로 두고 대법원 재판부를 유지해온 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2UVQPWM5JBBGFD63AZTARSZUIY.JPG?auth=9b9d46a39f2f75a455ccaf66dca2aeeed4a9f025cf6880f1635097d918ff7358&amp;smart=true&amp;width=2584&amp;height=1938" type="image/jpeg" height="1938" width="2584">
-        <media:description type="plain">노경필 대법관 후보자가 22일 오전 국회에서 열린 국회 인사청문회에서 답변하고 있다. 이덕훈 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>전국 시도교육감 “병력 줄어도 국방비 안 줄이듯, 학령인구 감소로 교육재정 축소 안 돼”  </title>
