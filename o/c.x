@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법, 보완수사권 폐지에 “부작용 막을 보완책 필요” 첫 의견</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/12/T66YBY3Q3VCJ5IZBYTSGJDARS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/12/T66YBY3Q3VCJ5IZBYTSGJDARS4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jul 2026 09:47:17 +0000</pubDate>
+      <content:encoded>검찰의 보완 수사권을 전면 폐지하는 내용의 형사소송법 개정안에 대해 대법원이 “부작용을 막기 위한 보완책이 함께 마련돼야 한다”는 의견을 냈다. 대법원이 보완 수사권 폐지와 관련해 의견을 밝힌 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VBTEVW6SFBSLIVMFHEWPEIIFM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 청사./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 국민의힘 신동욱 의원실에 따르면, 대법원 법원행정처는 최근 더불어민주당 김용민·조국혁신당 박은정 의원 등이 발의한 형사소송법 개정안에 대한 검토 의견을 국회에 제출했다. &lt;br&gt;&lt;br&gt;이 개정안은 검사의 직접 수사권과 보완 수사권을 폐지하고, 보완수사 요구권만 남기는 내용을 담고 있다. 특별 사법경찰관에 대한 검사의 지휘권도 폐지하고, 검사의 직접 영장청구권도 제한하도록 했다.&lt;br&gt;&lt;br&gt;이에 법원행정처는 “수사기관 간 권한 조정에 관한 사항으로 제도 변화에 따른 장단점, 국민과 전문가들의 다양한 의견 등을 국회에서 면밀히 살펴 충분한 숙의와 검토를 거쳐 입법정책적으로 결정할 사항”이라고 했다. 그러면서 “제도적 변화로 발생할 수 있는 부작용을 방지하기 위한 충분한 보완 방안이 함께 마련될 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;법원이 구속영장을 발부하면서 피의자를 조건부로 석방할 수 있도록 하는 제도에 대해서는 찬성 의견을 냈다. 법원행정처는 “‘구속이 곧 처벌’이라는 잘못된 인식을 개선하고, 형사 사법의 중심이 영장 단계에 집중돼 정작 중요한 본안 재판은 관심을 받지 못하는 비정상적인 상황을 해소하는 데 도움이 될 것으로 보인다”고 밝혔다. 압수수색 영장을 발부하기 전 법관이 수사 기관 등을 상대로 사전 심문을 할 수 있도록 하는 제도에 대해서도 찬성 의견을 냈다. &lt;br&gt;&lt;br&gt;다만 검사의 공소 제기가 적정한지를 심의하는 공소심의회를 각 지방법원에 설치하는 방안에는 신중한 입장을 보였다. 법원행정처는 “공소 제기의 적정성은 공소 제기 이후 재판을 통해, 불기소 결정은 재정신청을 통해 통제할 수 있다”며 “법원이 공소심의회를 운영할 경우 재판부가 심의회 결정과 다른 판단을 하기 어려워지는 등 재판에 영향을 미칠 우려가 있는 만큼 면밀한 검토가 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“성폭력 피해자들 구제 못 받을 것”... 보완수사권 폐지에 여성들 화났다</title>
       <link>https://www.chosun.com/national/national_general/2026/07/12/ZADMB54IERB6RDKBQX56BKEQUE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/12/ZADMB54IERB6RDKBQX56BKEQUE/</guid>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Fri, 10 Jul 2026 05:17:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4GCMLCMNRTENTDGVQTQODGGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'전남광주 여고생 피살 사건' 부실수사와 경찰 유착 의혹을 수사하는 광주지검 수사관들이 7일 오후 전남광주 광산서에 대한 압수수색을 마치고 압수물이 담긴 상자를 들고 나오고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘전남광주 여고생 피살 사건’ 수사 과정에서 증거 인멸 의혹을 받는 전남광주 광산경찰서가 2년 전에도 ‘불법 증거 수집’으로 국가인권위원회(인권위) 권고를 받았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;10일 인권위에 따르면, 인권위는 지난 2024년 6월 광주경찰청장에게 광산서 경찰관을 대상으로 적법한 증거 수집 절차에 대한 직무교육을 실시하라고 권고한 바 있다. 해당 진정은 데이트 폭력 사건 피의자로 광산서에서 수사를 받았던 A씨 측이 제기했다. &lt;br&gt;&lt;br&gt;앞서 2018년, A씨는 여자친구를 차량 안에 약 3시간 동안 감금한 뒤 폭행했다는 혐의 등으로 구속 기소됐다. 이후 유사강간·상해·감금·재물손괴 등 혐의로 구치소에서 약 8개월간 구금됐다. &lt;br&gt;&lt;br&gt;하지만 법원은 A씨에게 감금과 재물손괴 혐의만 인정하고, 유사강간 및 상해 혐의는 무죄로 판단해 징역 6개월에 집행유예 1년을 선고했다. &lt;br&gt;&lt;br&gt;이후 A씨의 아버지는 아들이 경찰 수사를 받는 동안 발생한 인권 침해와 부실 수사 의혹 등을 담아 인권위에 진정을 제기했다. A씨는 수사 과정에서 줄곧 범행을 부인했고, 경찰에 폐쇄회로(CC)TV 확보를 요청했으나 경찰이 이를 외면했다는 것이다.&lt;br&gt;&lt;br&gt;당시 진정을 접수한 인권위는 조사 결과 진정 내용의 대다수가 인정된다고 판단했다. 경찰은 A씨 여자친구 증언에 맞게 수사 결론을 내고자 중요 장면이 담긴 컬러 CCTV 영상을 일부러 흑백으로 전환하는가 하면, A씨 여자친구가 A씨를 때린 장면이 담긴 CCTV 영상을 누락한 채 수사 보고서를 작성했다. 또 A씨의 휴대전화를 제출받고도 A씨가 제출을 거부했다는 취지의 수사 보고서를 검찰에 제출하기도 했다. 이 밖에 인권위 조사 과정에서 당시 수사 담당 경찰들이 A씨를 상대로 “싸가지 없는 XX” “염병” “더 이야기하지 말고. 답 엎어지니까” 등의 폭언을 한 사실도 확인됐다. &lt;br&gt;&lt;br&gt;이에 당시 인권위는 광산서가 관할인 광주경찰청장에게 “소속 경찰관을 대상으로 수사 과정에서의 인권 보호 및 적법한 증거 수집 절차 등에 관한 직무 교육을 실시할 것”을 권고했다. &lt;br&gt;&lt;br&gt;하지만 광산서는 이번 ‘전남광주 여고생 피살 사건’에서도 담당 수사팀장이 핵심 증거를 숨긴 혐의로 구속되는 등 부실 수사 의혹을 받고 있다. 이를 계기로 검찰의 보완 수사권 폐지에 대한 우려도 커지는 모습이다. 이와 관련해 이날 유재성 경찰청장 직무대행은 “경찰청에 ‘경찰 수사 쇄신 TF’를 구성해 외부 전문가와 함께 경찰 수사 제도 전반을 살펴보고 개선 대책을 마련하겠다”는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 ‘만덕 진출입로’ 정체 몸살… 한동훈·부산시 현장 점검</title>
-      <link>https://www.chosun.com/national/regional/2026/07/10/7SWDIX4MRRFUFCFCKA4QNEMT7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/10/7SWDIX4MRRFUFCFCKA4QNEMT7M/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jul 2026 04:57:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7G6WOVLUONC7ZO275VDJVPOBQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 부산 북구 만덕동 만덕교 부근에서 부산시 관계자들로부터 개통 이후 극심한 정체에 시달리고 있는 대심도 진출입로에 대한 설명을 듣고 있다. /한동훈 의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개통 초기부터 병목 현상으로 극심한 정체를 빚는 부산 만덕~센텀 도시고속화도로(대심도) 만덕 진출입로를 두고 부산시와 지역 정치인들이 현장 점검에 나섰다.&lt;br&gt;&lt;br&gt;10일 오전 부산 북구 만덕동 만덕교 부근에서 부산시 도시계획국 관계자들과 무소속 한동훈 의원, 김효정 시의원 등은 개통 이후 극심한 정체에 시달리고 있는 대심도 진출입로 일대를 점검했다.&lt;br&gt;&lt;br&gt;이곳은 대심도 개통 이후 진출입로에서 심각한 정체가 이어지면서 북구 주민은 물론 부산 시민들의 불만이 커지는 곳이다. 대심도에서 덕천동 방향으로 진입하려는 차량과 만덕역 방면에서 남해고속도로로 이동하려는 차량이 ‘X’ 자 형태로 엇갈리면서 병목 현상이 발생하고 있다. &lt;br&gt;&lt;br&gt;부산시 조사 결과 이 엇갈림 구간은 300m가량이다. 이 때문에 출퇴근 시간대 차량 정체가 빚어지면서 도로 서비스 수준은 개통 이전 E에서 가장 낮은 F로 떨어졌다. &lt;br&gt;&lt;br&gt;부산시 관계자는 “만덕 사거리에서 내려오면서 바로 진입할 수 있던 도로인데 대심도에서 나오는 차량과 자꾸 엇갈림이 발생하다 보니 운전자들의 불만이 있다”고 했다. &lt;br&gt;&lt;br&gt;부산시는 이날 단기 대책으로 남해고속도로 시내 구간의 일부 차로를 추가 확보하고, 도류화 시설을 설치해 차량 합류·분류 동선을 명확히 구분하는 방안을 추진하겠다고 했다. 도류화 시설은 교통섬과 노면 표시 등을 활용해 차량 이동 경로를 인위적으로 분리·유도함으로써 병목 현상을 줄이는 시설이다.&lt;br&gt;&lt;br&gt; 부산시 관계자는 “현재 설계를 진행 중이며 예산이 확보되면 10월쯤 공사에 착수할 수 있을 것으로 본다”며 “공사 기간은 4∼5개월 정도 예상되지만 최대한 신속하게 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;중장기적으로는 교통량 분산을 위한 광역 도로망 구축도 추진한다. 부산시는 2027년까지 덕천∼양산 간 도로 교통 체계 개선 사업과 초정∼화명 광역 도로 건설을 추진하고, 2030년까지 대저대교와 의성로∼남해고속도로 연결, 중앙고속도로 확장 사업 등을 완료할 계획이다.&lt;br&gt;&lt;br&gt;김 시의원은 “대책이 하루빨리 현장에 적용돼야 한다”며 “관계 기관과의 협의 과정을 하나하나 챙겨 주민분들의 불편함을 하루빨리 해소해 드릴 수 있도록 최선을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한 의원은 “민원이 심각한 상황인 만큼 결국 속도가 중요하다”며 “당초 예상됐던 한계가 있었던 만큼 우선 해결해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“일 년을 기다렸다”… 하루 100명만 허락되는 울산 ‘비밀 명소’는 어디? </title>
