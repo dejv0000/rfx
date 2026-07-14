@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수면제 커피 먹여 친부 돈 4200만원 턴 간 큰 10대 남매</title>
+      <link>https://www.chosun.com/national/2026/07/14/WMRVLNKB4ZHTTOH7KUFAFCW5UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/14/WMRVLNKB4ZHTTOH7KUFAFCW5UQ/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jul 2026 11:20:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73KQISKODWUSJYYBQUEUGPGGHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지방검찰청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친아버지에게 수면제를 섞은 커피를 마시게 해 정신을 잃게 한 뒤 휴대전화로 수천만원을 대출받아 쓴 10대 남매가 재판에 넘겨졌다. 이들은 몰래 대출받은 돈으로 금을 사서 되판 뒤 피부 관리비 등에 쓴 것으로 전해졌다. 당초 경찰은 주범인 딸과 아들은 놔둔 채 딸의 남자 친구만 검찰에 넘겼으나, 검찰의 보완 수사로 남매의 공범 사실이 드러났다. &lt;br&gt;&lt;br&gt;울산지검 형사1부(부장 이호석)는 지난달 22일 A(18)양과 남자 친구 B(18)군을 강도 및 컴퓨터등사용사기 혐의로 불구속 기소했다고 14일 밝혔다. 범행에 가담한 A양의 남동생(15)은 같은 혐의로 법원 소년부에 보냈다.&lt;br&gt;&lt;br&gt;A양 등은 지난 2024년 9월, A양의 아버지 C(47)씨에게 수면제와 수면 유도제 10~20알을 가루 내어 섞은 커피를 마시게 하고, 훔친 C씨 휴대전화로 대출을 받아 쓴 혐의를 받는다. &lt;br&gt;&lt;br&gt;이들은 C씨가 깊은 잠에 빠지자 휴대전화를 훔쳐 이를 이용해 은행에서 비대면으로 3100만원을 대출받는 등 계좌에서 총 4200만원을 빼낸 것으로 드러났다.&lt;br&gt;&lt;br&gt;이후 이들은 이 돈으로 금을 구매한 뒤 금은방에 되팔아 현금화했고, A양의 피부 관리 비용 등으로 썼다. &lt;br&gt;&lt;br&gt;이들의 범행은 잠에서 깬 아버지가 자녀들이 사라진 것을 발견하고 실종 신고를 하면서 하루 만에 덜미가 잡혔다.&lt;br&gt;&lt;br&gt;당초 이 사건을 수사한 울산남부경찰서는 같은 해 10월 대출을 실행한 B군에게만 휴대전화로 대출받은 혐의(컴퓨터 등 사용 사기)를 적용해 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;경찰 조사에서 B군이 “처음부터 수면제를 먹이려고 A양 남매와 계획했다”고 진술했지만, A양 등 남매가 범행을 완강히 부인하면서 경찰은 추가 수사 없이 사건을 종결했다. &lt;br&gt;&lt;br&gt;하지만 사건을 넘겨받은 검찰은 달랐다. 지난해 11월 보완 수사에 착수한 검찰은 A양 남매와 B군을 한자리에 불러 대질 조사를 벌였다. 이 자리에서 남매는 범행을 자백했다. 남매는 “A양이 정신과 등에서 처방받은 수면제 등을 돌로 빻아 편의점 커피에 섞어 아버지에게 줬다”고 했다. 검찰은 친아버지에게 수면제를 먹여 항거 불능 상태로 만든 행위 자체가 ‘강도죄’에 해당한다고 보고, 주동자인 A양과 B군에게 무거운 혐의를 적용해 재판에 넘겼다. A양의 남동생은 누나 등의 지시로 가담했고, 경제적 이익을 취하지 않은 점을 감안해 소년보호사건으로 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“오른다는 말 믿었는데”… 주식 유튜버 흉기로 찌르고 달아난 20대 </title>
+      <link>https://www.chosun.com/national/incident/2026/07/14/UO6ROZKUZ5EPXH4WF7KCXYIBVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/14/UO6ROZKUZ5EPXH4WF7KCXYIBVM/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jul 2026 10:00:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 20대 남성이 주식 투자 유튜버에게 흉기를 휘두른 혐의로 경찰에 붙잡혔다. 그는 유튜버 말만 믿고 주식 투자를 했다가 실패한 것에 앙심을 품고 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 살인 미수 혐의로 20대 남성 A씨를 붙잡아 조사 중이라고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오전 8시 9분쯤 부산 남구 한 상가에서 흉기로 40대 남성 B씨를 수차례 찌른 뒤 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨는 주식 투자 유튜버였다고 한다. B씨 유튜브 채널 구독자였던 A씨는 B씨의 말만 믿고 투자를 했다가 큰 손실을 보자 앙심을 품고 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨의 소재지를 파악한 뒤 흉기를 지닌 채 찾아갔다. 이어 B씨를 발견하자 흉기를 휘두른 것으로 조사됐다. B씨는 크게 다쳤지만 다행히 생명에는 지장이 없다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기 등을 조사한 뒤 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원 “김건희 여사, 명태균 직접 만나 협의하고 尹과의 연락 도와”</title>
       <link>https://www.chosun.com/national/court_law/2026/07/14/YCIS3JI77ZHO7N3QCMEIDD6KKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/14/YCIS3JI77ZHO7N3QCMEIDD6KKA/</guid>
@@ -887,24 +905,6 @@
       <description/>
       <pubDate>Mon, 13 Jul 2026 08:42:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNQTQMTEGQ3WENLFGYYDCZRTGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신용한 충북지사가 지난 9일 오송 궁평2지하차도를 찾아 배수시설과 현장 통제체계 등을 살피고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주 오송 지하차도 참사 발생 3년이 지났지만 생존자와 유가족 등 피해자 상당수가 여전히 외상 후 스트레스 장애(PTSD)와 우울 증상, 불면증에 시달리고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;한국도로교통공단 TBN충북교통방송과 충북대 심리학과는 13일 충북교통방송 청사에서 ‘7·15 오송 참사 피해자 추적조사 결과 보고회’를 열고 이 같은 내용을 발표했다.&lt;br&gt;&lt;br&gt;조사 결과 지난 5월 기준 피해자의 61%가 외상 후 스트레스 증상을 겪고 있는 것으로 나타났다. 참사 4개월 뒤 조사 당시 69%와 큰 차이가 없는 수준이다.&lt;br&gt;&lt;br&gt;우울 증상 위험군 비율은 참사 직후 56%에서 61%로 오히려 증가했다.&lt;br&gt;&lt;br&gt;수면장애도 여전했다. 응답자의 52%가 일상생활에 지장을 받을 정도의 불면 증상을 호소했다.&lt;br&gt;&lt;br&gt;유가족과 지인 등을 잃은 응답자의 88%는 여전히 사별 비애 증상을 겪고 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;피해자들은 참사 이후 복구 과정과 우리 사회의 안전 수준에 대해서도 부정적인 인식을 보였다. 사회관계망서비스(SNS) 등을 통한 2차 피해를 경험했다는 응답도 적지 않았다.&lt;br&gt;&lt;br&gt;충북대 심리학과 관계자는 “주요 심리적 후유증이 장기간 높은 수준으로 지속되고 있다”며 “피해자들에 대한 장기적이고 체계적인 심리 지원이 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 조사는 오송 참사 유가족과 생존자 등을 대상으로 2023년 7월부터 지난 5월까지 총 7차례 진행됐다. 가장 최근인 지난 5월 조사에는 23명이 참여했다.&lt;br&gt;&lt;br&gt;청주 오송 지하차도 참사는 2023년 7월 15일 오전 미호강 임시 제방이 무너지면서 발생했다. 범람한 강물이 오송 궁평2지하차도를 덮쳐 운전자 등 14명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘피습 자작극’ 정이한, 선거 보름 전 입건…경찰 관련 진술 확보</title>
-      <link>https://www.chosun.com/national/regional/2026/07/13/KGHVQIEMGZCDHEJPUMGXOLEDSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/13/KGHVQIEMGZCDHEJPUMGXOLEDSY/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jul 2026 08:32:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTR6C3S4UNCL5EP6M2WGQWOOWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;굳은 표정으로 법정 향하는 정이한. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘음료컵 피습 자작극 혐의’로 구속된 정이한(38) 전 개혁신당 부산시장 후보로부터 선거 보름 전 진행된 참고인 조사에서 “자작극 혐의를 인정한다”는 진술을 확보했지만 이를 공개하지 않았다. 정치권에선 경찰의 이 같은 행동이 보수 진영 표를 분열하기 위한 부당한 선거 개입이라는 비판이 나왔다.&lt;br&gt;&lt;br&gt;13일 부산경찰청과 금정경찰서에 따르면, 정씨에게 컵을 던진 혐의(공직선거법 위반 등)로 입건돼 수사를 받던 윤모씨는 지난 5월 18일 정씨와 만나고 싶다고 경찰에 요구했다고 한다. 경찰은 정씨에게 해당 사실을 알렸고, 정씨는 같은 날 참고인 신분으로 금정경찰서를 찾았다고 한다. 이 자리에서 정씨는 경찰에 ‘윤씨에게 도움을 요청한 게 맞다’고 진술했다. 이전까지 두 사람은 서로를 알지 못한다고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 정씨를 다음 날 피의자로 전환하고, 이틀 뒤엔 정씨와 윤씨에 대한 압수수색 영장을 신청했다. 다만 경찰은 해당 사실을 공개하지 않았다. &lt;br&gt;&lt;br&gt;정치권에선 정씨가 피의자로 입건된 사실을 유권자에게 알리지 않은 것은 경찰의 선거 개입이라는 비판이 나왔다. 국민의힘 주진우 의원은 “경찰이 부산시장 선거에 부당하게 개입한 것이고, 보수표 분열을 통해 (민주당) 전재수 후보의 당선을 도운 것”이라고 했다. 무소속 한동훈 의원은 “경찰이 자작극이라는 사실을 선거 전에 알았다면 그 사실을 알렸어야 했고, 개혁신당은 그 사실을 고백하고 후보를 사퇴시켜야 했다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 부산경찰청은 혐의가 입증되지 않은 후보자에 대한 수사 상황을 외부에 알릴 수는 없었다고 했다. 경찰 관계자는 “이번 사건 발생 때부터 압수수색 영장과 구속영장 신청 등 전 수사 과정을 검사와 긴밀하게 협의해 왔다”면서 “지난달 압수수색 영장이 수차례 기각되고, 검찰의 보완 수사 요구도 있었다. 또 윤씨가 ‘정씨를 돕기 위해 단독으로 범행을 저질렀다’고 진술을 번복하기도 했다”고 했다. &lt;br&gt;&lt;br&gt;경찰과 검찰은 지난달 1일 정씨와 윤씨에 대한 압수수색 영장 등을 다시 신청했고, 법원은 이를 발부했다. 압수수색을 통해 정씨와 윤씨가 범행 전날 헬스장에서 범행을 공모하는 장면이 찍힌 방범 카메라 영상 등 결정적인 증거를 확보했다. 법원은 지난 8일 이들에 대한 구속영장도 발부했다.&lt;br&gt;&lt;br&gt;경찰은 두 사람을 불러 추가 공범이 없는지, 범행에 대한 금전적인 대가는 없었는지 등에 대해 살펴볼 계획이다. 경찰 관계자는 “현재까지 정씨의 가족이나 개혁신당 등이 개입된 정황은 없었다”며 “이번 주 내로 정씨와 윤씨를 검찰에 송치할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한양대, 학생창업 매출 205억 돌파…전국 사립대 1위</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/13/Q6XANIW7DBFKZKTU5Y2TVSGMUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/13/Q6XANIW7DBFKZKTU5Y2TVSGMUE/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jul 2026 08:16:22 +0000</pubDate>
-      <content:encoded>한양대학교 학생창업기업 연간 매출액이 205억원을 넘어 전국 사립대 가운데 1위를 기록했다. 교육부가 선발하는 ‘학생창업유망팀 300+’에도 한양대 학생 80명이 최종 진출했다.&lt;br&gt;&lt;br&gt;13일 대학알리미에 따르면 한양대 학생창업기업 74곳의 2025학년도 매출액은 205억3623만원으로, 전년도 19억4042만원보다 10.6배 늘었다. 고려대(67억8371만원), 가천대(27억4553만원), 건국대(21억8091만원) 등을 크게 앞섰다.&lt;br&gt;&lt;br&gt;고용과 자본금도 함께 증가했다. 학생창업기업 고용 인원은 2022학년도 63명에서 2025학년도 134명으로 늘어 전국 대학 가운데 가장 많았고, 자본금은 같은 기간 5억4156만원에서 9억2700만원으로 증가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DMNBTGEZWINRVGRSDAZBVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한양대 창업지원단이 교육부 '학생창업유망팀 300＋' 최종 발표 평가를 앞두고 학생들을 지도하고 있다. /한양대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매출 급증에는 경제금융학부 재학생이 창업한 반려동물 셀프케어 기업 ‘힐미’의 성장이 큰 영향을 미쳤다. 한양대에 따르면 힐미는 2025년 개인사업자와 법인사업자 매출을 합쳐 100억원 이상을 기록했다.&lt;br&gt;&lt;br&gt;학생 창업 유망 팀 300+에서도 성과가 이어졌다. 한양대 창업 지원단은 올해 35팀, 학생 80명이 최종 진출했다고 밝혔다. 지난해 30명보다 두 배 이상 늘어난 규모다. 한양대 학생이 팀장을 맡은 팀은 24팀, 연합 팀에 참여한 경우는 11팀이었다.&lt;br&gt;&lt;br&gt;선정된 팀은 AI(인공지능)와 산업 안전, 정밀 농업 등 딥테크 분야에 집중됐다. ‘핀타 AI’는 인공지능 에이전트 실행 과정에서 발생할 수 있는 보안 위협을 차단하는 시스템을 개발해 시드 투자를 유치했고, LG 슈퍼스타트데이 스타트업 루키 피칭 콘테스트에서 1위를 차지했다.&lt;br&gt;&lt;br&gt;‘도이지’는 산업 현장 사고 위험을 사전에 관리하는 솔루션 ‘현장지기’를, ‘그린튠즈’는 식물의 생체 초음파를 인공지능으로 분석해 농작물 이상 징후를 조기에 진단하는 기술을 개발했다.&lt;br&gt;&lt;br&gt;한양대는 올해 창업 동아리 단계에서 유망 팀을 선발해 집중 지원하는 전용 과정을 신설했다. 창업 전담교수 3명이 사업계획서 작성과 발표를 지도하고, 지난해 탈락 사례를 분석해 팀별 대응 전략도 마련했다.&lt;br&gt;&lt;br&gt;창업휴학제와 창업대체학점인정제, 창업융합전공 등 학사 제도도 운영한다. 창업기숙사 ‘247 스타트업 돔’과 교내 창업공간을 제공하고, 기업 설립 이후에는 투자 유치와 정부 지원 사업, 대학 기술지주회사 및 창업 펀드 연계도 지원한다.&lt;br&gt;&lt;br&gt;전국 4년제 일반대학의 2025학년도 학생창업기업 매출액은 683억1528만원으로 전년보다 262.1% 증가했다. 이 가운데 한양대와 인천대 매출을 합치면 417억5551만원으로 전체의 61.1%에 달했다.&lt;br&gt;&lt;br&gt;류창완 한양대 창업지원단장은 “학생들의 기술 아이디어와 대학 맞춤형 지원 체계가 결합해 성과를 냈다”며 “학생 스타트업이 글로벌 시장에서 경쟁할 수 있도록 지원을 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희, ‘로저비비에 선물’ 김기현 재판 불출석에 과태료 300만원...구인장 발부</title>
