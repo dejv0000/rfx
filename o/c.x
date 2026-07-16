@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘기자 명예훼손’ 김어준...법원이 ‘의견’ 아닌 ‘사실’로 본 이유</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/17/Y353CGHEBNEC3GEJEPQK4DTKT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/Y353CGHEBNEC3GEJEPQK4DTKT4/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jul 2026 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQWCYRQG4YGEZRQG5STIY3CGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 방송인 김어준이 14일 오후 서울 도봉구 서울북부지방법원에서 이동재 전 채널A 기자 명예훼손 혐의 선고 공판에 참석한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“피해자(이동재 전 채널A 기자)의 부적절한 활동을 상기하고 그에 관하여 간략하게 ‘의견 표명’한 것 뿐이다.”&lt;br&gt;&lt;br&gt;지난 14일 정보통신망법상 명예훼손 혐의로 기소된 김어준(58)씨의 1심 판결문에 담긴 내용이다. 김씨는 재판 과정 내내 본인의 발언이 ‘사실 적시’가 아닌 ‘의견 표명’이라고 주장해왔다. 하지만 서울북부지법 형사14단독 강경묵 판사는 이 같은 김씨의 주장을 받아들이지 않았다. &lt;br&gt;&lt;br&gt;김씨는 2020년 4월부터 10월까지 유튜브와 라디오 방송 등에서 “이 전 기자가 이철 전 신라젠 대표에게 ‘유시민에게 돈을 줬다고 말하라’고 협박했다”고 수차례 발언했다. 이에 이 전 기자는 김씨를 2022년 2월 명예훼손 등 혐의로 서울 성북경찰서에 고소했고, 김씨는 2023년 검찰의 재수사 요구 끝에 결국 그해 9월 송치됐다. 이후 최근 기소 2년 만에 벌금 2000만원을 선고받았다. &lt;br&gt;&lt;br&gt;김씨가 재판 과정 내내 일관적으로 본인의 발언이 ‘의견 표명’이라고 주장한 건, ‘의견 표명’과 ‘사실 적시’ 중 어디에 해당하는지가 명예훼손 사건에서 중요한 판단 기준으로 작용하기 때문이다. 형법상 명예훼손죄가 성립되려면 특정 발언이 ‘사실 적시’에 해당해야 한다. &lt;br&gt;&lt;br&gt;재판부는 판결문을 통해 김씨의 발언을 사실 적시로 본 이유를 상세히 설명했다. 김씨가 이 전 기자의 말을 그대로 전달하는 형식으로 발언한 점, 이 전 기자가 허위 제보를 종용했다는 취지의 김씨 발언이 평가보다는 증명 가능한 구체적 사실에 관한 것이라는 점 등이었다. &lt;br&gt;&lt;br&gt;실제로 대법원 판례도 문제가 된 발언이 사실인지, 의견인지를 구별할 때는 입증 가능성, 언어의 통상적 의미와 용법, 문맥이나 상황 등을 구체적으로 고려해야 한다고 정하고 있다. 이에 따라 “이 전 기자가 허위 제보를 종용하면서 이에 응하지 않을 경우 가족들이 고통을 받을 것이라고 말했다”와 같은 김씨 발언은 평가보다는 사실에 가깝다는 재판부의 판단을 받게 된 것이다. &lt;br&gt;&lt;br&gt;비슷한 예로 대법원은 지난 2020년 부산 지역의 한 동장이 다른 주민들 앞에서 주민 A씨에 대해 발언한 것을 두고 사실 적시인지, 의견 표명인지 여부를 다룬 바 있다. 당시 동장은 A씨에 대해 “이혼한 사람이 왜 마을 제사에 왔는지 모르겠다”고 했다. 이에 A씨는 동장을 명예훼손으로 고소했지만, 재판부는 해당 발언이 명예훼손에는 해당하지 않는다고 판단했다. 동장의 발언이 A씨의 이혼 사실을 알리기 위함이 아닌, 단순히 의견 표명이라고 본 것이다. 이 판결에서도 재판부는 발언의 입증 가능성과 전체적인 맥락을 종합해 의견인지, 평가인지를 구분해야 한다고 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보험금 노려 사고사로 위장... 아내 살해한 50대도 ‘檢 보완수사’ 그물에 걸렸다</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/17/MPCFRQGE3NEA5FZIRQZZHPHAUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/17/MPCFRQGE3NEA5FZIRQZZHPHAUU/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jul 2026 22:00:00 +0000</pubDate>
+      <content:encoded>50대 남성 A씨는 2020년 6월 경기도 화성시의 한 산간 도로에서 차량을 세우고 아내 B씨의 코와 입을 막아 의식을 잃게 했다. 이후 아내를 태운 차량을 산간 도로 아래로 떨어뜨렸다. 아내 B씨는 끝내 숨졌다. 처음 수사를 맡은 경찰은 “아내가 직접 운전하다가 운전 미숙으로 추락했다”는 A씨의 진술을 그대로 받아들여 교통사고 사망 사건으로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWKZFLOSYFB6XAGHJUSYHVATMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해당 이미지는 기사 내용과 관련이 없습니다. /조선db&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 사건을 넘겨받은 수원지검 안양지청은 두 가지 지점을 의심했다. 첫째는 사고 발생 직전 B씨 명의로 거액의 여행자 보험 계약이 체결됐다는 점이다. A씨는 3억8000만원대 보험금을 받고도 추가로 3억원을 더 청구한 상태였다. 둘째는 부검 소견과 차량 손상 상태를 고려할 때 B씨의 사망이 교통사고로 인한 것으로 단정하기에는 무리가 있었다는 것이었다.&lt;br&gt;&lt;br&gt;이후 검찰 수사팀은 법의학 감정과 남편 주변인 탐문 조사, 보험 계약 정보 확인 등 보완수사를 통해 A씨가 불륜으로 가정이 파탄난 상태에서 무단으로 아내 명의로 보험에 가입한 뒤 아내를 살해했다는 사실을 밝혔다. 보험금을 타내려고 교통사고를 위장한 살인사건이었다. 검찰은 살인 및 보험사기 등 혐의를 적용해 A씨를 구속기소했고, 그는 지난달 대법원에서 징역 40년형이 확정됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJZVARRSX5RDBYP3UKPSD5MFZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 안양지청 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이응철 법무부 검찰국장은 16일 열린 제4회 법무부 월간 업무 회의에서 이 같은 보완수사 우수 사례를 소개하며 “검찰의 보완수사권이 없는 상황에서 경찰이 검사의 보완수사 요구를 거부하거나 부실하게 이행할 경우 강제력 있는 통제 수단이 없다”면서 “경찰은 이런 사건들을 증거 부족으로 불기소하게 될 가능성이 높다”고 지적했다. 현재 더불어민주당 등 여권 일부 강경파는 검찰 보완수사권 폐지를 전제로 한 형사소송법 개정을 추진하고 있지만, 보완수사권이 폐지되면 사건의 실체 규명과 피해자 보호에 상당한 문제점이 나타날 것이라는 취지다.&lt;br&gt;&lt;br&gt;이 밖에도 이날 회의에서는 범죄 피해자에 대한 실효적 보호·지원 방안 등이 논의됐다. 승재현 법무부 인권국장은 “올해부터 생계가 어려운 5주 이상의 상해 피해자들을 위한 긴급 생활 안정비 350만원을 새롭게 지원하고, 범죄 피해자 구조금도 지원 대상과 지급 수준을 확대했다”며 “범죄 피해자 심리 회복을 위한 ’365 스마일 서비스’를 운영해 평일 방문이 어려운 분들을 위해 주말·야간 상담과 직접 찾아가는 심리 상담을 운용하고 있다”고 말했다. 앞서 법무부는 지난 3월 범죄 피해 구조금 산정 기준을 개선해 피해자 유족이 받을 수 있는 최소 금액의 하한을 기존 약 1600만원에서 약 8200만원으로 대폭 상향했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NT7QTIDGDJAV3JDGIEJ2ACW6PA.png"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 제4회 법무부 월간업무회의에서 발언하고 있다. /법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승 국장은 또 앞으로 범죄 피해자가 원하는 경우 가해자의 신병 관련 정보를 제공할 수 있도록 적극 논의하겠다고 했다. 그는 “사건 배당과 처분, 공판 기일과 선고 결과 등 사건 관련 정보는 현재 별도의 신청이 없어도 피해자에게 통지되고 있지만, 구속 여부 등 신병 관련 정보는 그렇지 못하다”며 “앞으로 피해자가 원하는 경우 정보를 최대한 제공할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 이날 “갑자기 찾아온 범죄는 피해 당사자에게는 자신의 온 우주를 파괴하는 중대한 재난과도 같다”며 “그간 (법무부가) 가해자에 대해서는 많은 정책과 예산을 투입하면서, 정작 피해자에 대한 관심과 보호가 소홀했던 것 아니냐는 지적이 많았다”고 했다. 그러면서 “법무부는 피해자들의 치유와 일상 회복을 위해 전력을 다해야 한다”고 주문했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 여고생 꿈 앗아간 장윤기, 장래희망 경찰관이었다</title>
       <link>https://www.chosun.com/national/court_law/2026/07/17/FVMQYRJOLRHA7MXHW3GXRY2JMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/17/FVMQYRJOLRHA7MXHW3GXRY2JMI/</guid>
@@ -736,15 +754,6 @@
       </media:content>
     </item>
     <item>
-      <title>충주시장 선거 재검표, 당락 안 바뀌어… 與후보 강제 퇴거 소동도</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/16/BBOWWRTANFAN3LCR43ATN4UJYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/16/BBOWWRTANFAN3LCR43ATN4UJYI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/422324BUUNG4JC64XVHALEZ2Y4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 충북 충주시 한국교통대 강당에서 6·3 충주시장 선거 재검표가 진행됐다. 124표 차로 진 더불어민주당 맹정섭 충주시장 후보가 “무효표가 2277표로 지나치게 많다”며 소청을 제기했다. 6·3 지방선거 이후 첫 재검표였다. 선거관리위원회는 이날 무효표 등 투표 용지 10만8000여 장을 다시 확인했다. 재검표 결과 표차가 124표에서 122표로 2표 줄었지만 당락에는 변화가 없었다. 재검표 비용 5487만원은 소청을 제기한 맹 후보가 부담한다. 맹 후보가 재검표장에서 시위를 하자 경찰이 끌어내고 있다. 그는 재검표를 앞두고 개표장 보안카메라 영상 공개 등을 요구하며 시위를 벌였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>李대통령 ‘낙태약 허용 검토’ 지시… 의료계 “위험하고 무책임한 발상”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/07/16/DASQD252CJGJ5FJ6VKJEE53UIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/16/DASQD252CJGJ5FJ6VKJEE53UIE/</guid>
@@ -888,15 +897,6 @@
       <description/>
       <pubDate>Wed, 15 Jul 2026 15:35:00 +0000</pubDate>
       <content:encoded>규칙적으로 운동을 하면 만성 질환을 예방할 수 있고, 정신건강에도 긍정적 효과를 준다. 하지만 어떤 운동이 가장 효과적인지, 어떻게 운동을 조합해야 좋은지에 대한 연구는 많지 않았다. 최근 하버드대 연구팀은 운동의 종류와 장기 사망률의 관계를 조사해서 영국의학회지 내과 편에 발표했다.&lt;br&gt;&lt;br&gt;연구는 미국 간호사 건강 연구 및 의료종사자 건강 연구에 참여한, 40~75세 건강한 미국인 여성 7만725명과 남성 4만742명을 대상으로 했다. 매 2년마다 여가시간에 즐기는 운동 종류와 운동량을 평균 20년에 걸쳐 조사하고 사망률을 추적 조사했다. 연구기간 동안 3만8847명이 사망했다. &lt;br&gt;&lt;br&gt;분석 결과, 운동을 많이 할수록 사망률이 낮아졌지만, 어느 정도(매일 빠르게 걷기 50분 정도) 이상에서는 더 이상 사망률을 낮추는 효과는 없었다. 걷기를 많이 하는 대상자는 그렇지 않은 대상자보다 사망률을 17%, 조깅은 11%, 뛰기는 13%, 사이클은 4%, 테니스는 15%, 계단 오르기는 10%, 근력 운동은 13% 낮출 수 있었다. &lt;br&gt;&lt;br&gt;흥미롭게도 같은 양의 운동을 하더라도, 다양한 운동을 즐기는 대상자는 같은 운동만 하는 대상자보다 사망률이 19% 더 낮았다. &lt;br&gt;&lt;br&gt;운동은 혈액순환을 촉진해서 심혈관 기능을 강화시키고, 대사 활동을 활발히 하고, 근골격을 튼튼하게 만들어 사망률을 줄일 수 있다. 각 운동은 신체에 대한 작용 기전이 서로 다르므로 다양한 운동이 건강에 더 효과적일 수 있다. 운동의 건강 장수 효과를 극대화하고 싶다면 한 가지 운동만 할 것이 아니라, 몇 가지 운동을 바꾸어가면서 꾸준히 해나가는 것이 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 탐구심이 왕성하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/07/16/45TSHLFJ6NET5JNQBMJPLCEVWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/07/16/45TSHLFJ6NET5JNQBMJPLCEVWI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FP7MQDYXGNEMVPZ53GB3CICKWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘채상병 수사 정보 누설’ 이시원 전 비서관 구속영장 기각</title>
