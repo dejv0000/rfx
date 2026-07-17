@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘도로가 주차장됐다’…신도평화대교 개통 사흘 만에 ‘교통대란’</title>
+      <link>https://www.chosun.com/national/regional/2026/07/17/GZFCHU3SKJBOJAKR6ZHOZBA3SI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/17/GZFCHU3SKJBOJAKR6ZHOZBA3SI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jul 2026 12:54:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JETZHNOG7BPSNG2D55ASENOCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 영종도와 옹진군 북도면 신도를 연결하는 '신도평화대교'가 지난 14일 개통한 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영종도와 신도를 잇는 ‘신도평화대교’가 개통 사흘 만에 첫 연휴를 맞아 교통 대란을 빚었다. 기존에는 배를 타고 10분가량 걸리던 신도까지 차량으로 약 5분 만에 갈 수 있게 되면서 나들이객이 한꺼번에 몰린 탓이다. 경찰은 차량 정체가 길어지자 신도 방향 교량 진입을 4시간 40분 동안 전면 통제했다.&lt;br&gt;&lt;br&gt;17일 인천 영종경찰서에 따르면 경찰은 이날 오전 11시 10분부터 오후 3시 50분까지 신도평화대교 신도 방향 차량 진입을 전면 통제했다.&lt;br&gt;&lt;br&gt;신도평화대교는 인천국제공항이 있는 영종도와 북쪽으로 약 2㎞ 떨어진 신도를 잇는 길이 3.26㎞, 왕복 2차로 규모의 교량이다. 약 1590억원의 사업비를 들여 지난 14일 개통했다. 신도는 시도·모도와 이미 다리로 연결돼 있어, 신도평화대교를 건너면 이른바 ‘신시모도’ 세 섬을 차량으로 둘러볼 수 있다.&lt;br&gt;&lt;br&gt;하지만 첫 연휴를 맞아 관광객 차량이 한꺼번에 몰리면서 이날 오전 한때 신도평화대교 진입 지점을 기준으로 2~3㎞에 걸쳐 차량 행렬이 이어졌다. 교량으로 연결된 신도·시도·모도 일대 도로도 방문객 차량이 뒤엉키며 사실상 마비됐다.&lt;br&gt;&lt;br&gt;한 관광객은 “신도에 들어가는 데만 1시간 넘게 기다렸다”고 했다. 영종도 주민 조선길씨는 “신도 안에 들어가 보니 나오는 차량들이 섬 안쪽까지 길게 늘어서 거의 움직이지 못하고 있었다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 삼목1교차로와 신도 입구 회전교차로 등 주요 지점에 교통경찰을 배치했지만 혼잡은 좀처럼 해소되지 않았다. 결국 주민 차량만 우선 통행하도록 한 뒤에야 차량 흐름이 조금씩 정상화됐고, 오후 3시 50분쯤 진입 통제를 해제했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “차량이 한꺼번에 몰리면서 진입 구간뿐 아니라 섬 내부까지 극심한 혼잡이 발생했다”며 “차량 흐름이 다소 원활해진 뒤 통제를 해제했다”고 말했다.&lt;br&gt;&lt;br&gt;지역에서는 방문객 급증이 예상됐는데도 교통 대책과 기반 시설이 충분히 마련되지 않았다는 지적이 나온다. &lt;br&gt;&lt;br&gt;김정렬 옹진군 북도면 신도리 이장은 “수기해수욕장으로 몰려드는 차량을 관리하다 목이 다 쉴 정도였다”며 “도로가 주차장이나 다름없었다”고 말했다. 다른 주민도 “도로는 좁은데 차량이 워낙 많아 낮에는 제대로 돌아다닐 수도 없다”며 “급한 일이 생기면 배로 이동해야 하는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>李 대통령 “김용 재판만 ‘구글 타임라인’ 배척, 해괴한 결론”...정말일까</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/17/VU3VMJ7V5VEMJB73FAERMA2JFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/17/VU3VMJ7V5VEMJB73FAERMA2JFU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNINT4OB3ZN5PI7CT3GQ4TF5JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용 전 민주연구원 부원장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령은 지난 15일 김용 전 민주연구원 부원장의 불법 정치자금 수수 사건에서 구글 타임라인 기록이 알리바이 증거로 인정되지 않은 것을 두고 “해괴하다”고 비판했다. 이 대통령은 “유죄의 증거로 법정에서 사용돼 온 구글 타임라인이 특정 사건에서만 무죄의 증거는 되지 못한다는 것은 이해하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령 지적처럼 법원이 김 전 부원장 사건에서만 구글 타임라인을 예외적으로 배척한 게 사실일까. 본지가 17일 대법원 판결문 열람 서비스를 통해 올해 민사·형사·행정 사건 중 구글 타임라인이 증거로 제출된 판결 16건을 분석했다. 그 결과 법원이 김 전 부원장 사건에서만 구글 타임라인을 이례적으로 배척했다고 보기는 어려운 것으로 나타났다. &lt;br&gt;&lt;br&gt;법원은 구글 타임라인이 사람이 아닌 휴대전화 기기의 위치를 기록하며, 위치 추정 과정에 오차가 있을 수 있고 사후에 수정·삭제 가능성이 있다는 이유 등을 들어 증거 능력을 인정하는 데 신중한 경향을 보였다. 다만 통화 내역이나 카드 사용 내역, CCTV, 하이패스 기록 등 다른 객관적 증거와 맞아떨어질 때는 사실관계를 뒷받침하는 보조 증거로 활용됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUKJ4IIVKBBINKREROLKYCINRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령은 김용 전 민주연구원 부원장의 불법 정치자금 수수 혐의와 관련 김 전 부원장의 '구글 타임라인'을 증거로 인정하지 않은 법원의 결론을 비판했다. /X 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;①구글 타임라인은 ‘사람’ 아닌 ‘휴대전화’ 위치&lt;/b&gt;&lt;br&gt;&lt;br&gt;지방자치단체 보조금 사업을 총괄하던 한 공무원은 사업자들에게 편의를 봐준 대가로 3000만원을 받은 혐의(뇌물수수)로 기소되자 재판에서 “뇌물을 받았다는 시각에 다른 장소에 있었다”며 구글 타임라인을 내세웠다.&lt;br&gt;&lt;br&gt;그러나 서울고법 형사13부는 지난달 금품 공여자들의 진술과 계좌 거래 내역 등 다른 증거를 근거로 1심에 이어 유죄를 선고했다. 재판부는 “구글 타임라인은 구글 계정과 연결된 휴대전화 등의 위치를 추적하는 것일 뿐이어서 휴대전화 전원이 꺼졌거나 본인이 휴대전화 등을 소지하지 않은 경우 반영되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;법원의 이런 판단은 민사 사건에서도 확인된다. 지난달 울산지법은 한 남성이 아내의 상간남에게 손해배상을 청구한 사건에서, 아내의 구글 타임라인에 남아 있는 모텔 체류 기록만으로 부정행위를 인정할 수 없다고 판단했다. 법원은 “구글 타임라인은 사람의 실제 동선이 아닌 스마트폰 기기의 위치를 기록하는 것이고 사후에 추가·수정이 가능하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;②“위치 추정 방식에 오차”…다른 증거와 모순되면 배척&lt;/b&gt;&lt;br&gt;&lt;br&gt;구글은 위성위치확인시스템(GPS), 이동통신 기지국과 와이파이 신호 등을 조합해 휴대전화 위치를 추정한다. 법원은 이 과정에 오차가 생길 수 있고 구체적인 작동 방식이 외부에 완전히 공개돼 있지 않다는 점을 지적한다.&lt;br&gt;&lt;br&gt;서울고법 형사7부가 올 1월 선고한 이정헌 더불어민주당 의원 선거사무장 A씨의 공직선거법 위반 사건이 대표적이다. A씨는 선거사무원으로 등록되지 않은 자원봉사자에게 선거운동 대가로 3차례에 걸쳐 총 300만원을 준 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 돈 받은 사람의 구글 타임라인 기록상 돈을 건넸다는 장소가 나타나지 않았다는 점을 내세워 범행을 부인했다. 하지만 재판부는 “구글 타임라인이 위성 GPS, 주변 와이파이, 기지국 위치 등을 기반으로 위치를 추정하기 때문에 실제 방문하지 않은 지역이 저장되는 등 오차가 발생할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 오히려 사건 당일 A씨와 돈을 받은 사람의 휴대전화 발신기지국 위치 내역이 범행 장소 인근으로 확인되는 등 다른 객관적인 통신 기록과 관련자들의 진술이 부합한다며 1심과 같이 A씨에게 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;③李 대통령이 언급한 판결은 ‘보강 증거’ 있었다&lt;/b&gt;&lt;br&gt;&lt;br&gt;반면 법원이 구글 타임라인을 증거로 인정한 사건들을 보면, 구글 타임라인을 뒷받침할 만한 다른 객관적인 증거가 함께 제출됐고 법원이 이를 인정했다는 공통점이 있었다. 이 대통령이 거론한 울산지법 산업재해 판결도 마찬가지다. 이 사건은 통신 설비 근로자가 장시간 근로에 시달리다 뇌출혈로 쓰러져 숨진 뒤, 유족이 근로복지공단을 상대로 유족급여를 지급해 달라며 낸 소송이다.&lt;br&gt;&lt;br&gt;유족은 고인의 구글 타임라인 등을 근거로, 쓰러지기 전 일주일 근무시간이 67시간 51분에 이른다고 주장했다. 법원은 이 계산이 실제 근무시간에 근접한다고 판단했다. 다만 판단 근거는 구글 타임라인 하나가 아니었다. 법원은 하이패스·신용카드 결제 내역과 야간작업 기록 등을 종합적으로 판단했다.&lt;br&gt;&lt;br&gt;현직 부장판사는 “보통 재판부는 구글 타임라인 기록이 다른 객관적 증거로 뒷받침되는지를 기준으로 증명력을 판단한다”며 “김 전 부원장 사건 재판부가 다른 잣대를 적용한 것으로 보이진 않는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TDIYTDHFSTKMZQMZSTSMRYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울고법 청사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법원 “김용 구글 타임라인, 믿기 어려워”…이홍우 ‘위증’도 발목잡아&lt;/b&gt;&lt;br&gt;&lt;br&gt;김용 전 부원장은 2021년 대장동 민간업자 남욱씨에게 이재명 대통령의 대선 경선자금 명목으로 8억4700만원을, 유동규 전 성남도시개발공사 기획본부장에게 개인적 뇌물 1억9000만원을 받은 혐의로 2022년 기소됐다. 김 전 부원장은 1·2심에서 이 가운데 6억원을 받은 것이 인정돼 징역 5년과 벌금 7000만원, 추징금 6억7000만원을 선고받았다. 대법원에서 상고심이 진행 중이다.&lt;br&gt;&lt;br&gt;김 전 부원장은 항소심 재판 과정에서 구글 타임라인 기록을 증거로 내면서 “2021년 5월 3일 유 전 본부장에게 불법 정치자금 1억원을 받은 장소로 지목된 성남시 분당구 유원홀딩스 사무실에 방문한 적이 없다”고 주장했다. &lt;br&gt;&lt;br&gt;그러나 재판부는 김 전 부원장의 2021년 2~6월 구글 타임라인 기록이 하이패스 이용 내역과 통화기록, 법인카드 사용 내역 등 객관적으로 확인되는 자료와 여러 부분에서 맞지 않는다고 판단했다. 또 김 전 부원장 측이 제출한 자료에서는 기록이 변경됐는지 확인할 수 있는 핵심 파일과 기기 정보가 빠져 있어 기록이 처음 생성된 이후 수정이나 삭제 없이 유지됐는지를 확인하기 어려웠다고 봤다. &lt;br&gt;&lt;br&gt;재판부는 “구글 타임라인의 정확성과 무결성이 인정되지 않고 그 작동 원리조차 전혀 공개되지 않는다”며 “증명력이 매우 낮은 수준”이라고 지적했다. 실제 김 전 부원장의 구글 타임라인은 하나의 위치 기록에 대해 ‘확률이 높은 장소’로 서울과 경기 성남을 동시에 제시하기도 했다.&lt;br&gt;&lt;br&gt;김 전 부원장이 유 전 본부장에게 돈을 받았다고 검찰이 지목한 날에 김 전 부원장과 함께 있었다는 이홍우 전 경기도시장상권진흥원장 증언이 거짓으로 드러난 점도 발목을 잡았다. 이 전 원장은 1심 재판에 출석해 “2021년 5월 3일 오후 3시부터 4시 50분쯤까지 김 전 부원장과 수원 광교 사무실에서 업무 협의를 했다”고 증언했다가, 이후 위증이었다고 자백했다.&lt;br&gt;&lt;br&gt;김 전 부원장의 항소심 재판부는 김 전 부원장의 선거 조직 관계자들이 텔레그램 대화방을 통해 조직적으로 허위 알리바이 자료를 기획한 점을 지적하면서 “김 전 부원장이 ‘부재’ 증명을 위해 제출한 증거들이 허위이거나 수정돼 있어 믿기 어렵다”고 결론 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰직협 “장윤기 사건 키운 청장대행·광주청장 사퇴해야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/17/NXI7ZJQMTRCA5BMLMTHKE53NIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/NXI7ZJQMTRCA5BMLMTHKE53NIQ/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jul 2026 11:59:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2DKMLFMEYTGNBZGJRWKZJWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰직장협의회는 17일 오후 대전 동구 애트대회의실에서 긴급 임시대의원대회를 열고 장윤기 사건 부실 대응 책임을 물어 광주경찰청장과 유재성 경찰청장 직무대행의 즉각 사퇴를 요구했다./경찰직장협의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국경찰직장협의회(직협)가 ‘전남광주 여고생 피살 사건’에서 보여준 경찰의 부실 수사에 대해 경찰 지휘부 사퇴를 요구했다. 직협은 17일 대전 동구에서 긴급 임시대의원대회를 열고 “장윤기 사건 대응 과정에서 나타난 일부 현장 경찰관들의 안일한 업무 처리와 미흡한 대응은 어떠한 이유로도 정당화될 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;직협은 “이번 사건의 본질은 단순히 일부 현장 경찰관의 과오에만 있지 않다”며 “본질은 지휘부의 안일한 판단과 총체적인 관리 부실, 그리고 사건을 제때 바로잡지 못한 지휘 책임”이라고 했다.&lt;br&gt;&lt;br&gt;이번 사건을 수사한 광산경찰서 경찰관들은 증거를 인멸하고 사건을 축소·은폐했다는 의혹을 받고 있다. 경찰청 국가수사본부는 김모(경무관) 광산서장, 강력팀장 박모 경감 등 이 사건 지휘부가 살인범 장윤기의 혐의를 강간 살인이 아닌 일반 살인으로 축소하도록 지시한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이에 대해 직협은 “안일한 지휘와 부실한 관리로 사건을 키우고 장기간 적절한 조치를 하지 못한 광주경찰청장은 책임을 지고 즉각 사퇴해야 한다”며 “경찰 내부의 자정 기능을 제대로 작동시키지 못한 경찰청장 직무대행은 책임을 지고 즉각 사퇴하라”고 했다.&lt;br&gt;&lt;br&gt;장윤기 사건으로 더불어민주당이 추진하는 검사의 보완수사권 폐지를 반대하는 목소리가 커지고 있다. 보완수사권이 폐지될 경우 장윤기 사건 등에서 보여준 경찰의 부실 수사를 견제할 수단이 없어지기 때문이다.&lt;br&gt;&lt;br&gt;그러나 직협은 “경찰 조직의 뼈아픈 과오와 위기를 틈타 검찰이 이를 수사권 확대와 보완수사권 유지를 위한 논리로 활용하고 있다”며 “일부 사례를 전체 경찰 조직의 문제로 일반화하는 행태에도 깊은 우려를 표한다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>韓총리, ‘집중호우 대비’ 긴급 지시</title>
+      <link>https://www.chosun.com/politics/goverment/2026/07/17/RBUFUQ2LJNAIPF3ENNK65UXOSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/07/17/RBUFUQ2LJNAIPF3ENNK65UXOSU/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jul 2026 12:41:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5DM7X2SKZMYPB2MJDXZTE35E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한성숙 국무총리가 지난 11일 큰 비로 침수 피해를 본 충북 청주시 모충동을 방문해 배수 펌프 수문을 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 새벽부터 중부지방을 중심으로 올여름 들어 가장 강하고 많은 비가 내릴 것으로 전망되자, 한성숙 국무총리가 17일 밤 관계 기관에 비상 대비를 긴급 지시했다.&lt;br&gt;&lt;br&gt;한 총리는 “그동안 내린 비로 지반이 약해져 토사 유출, 산사태, 낙석, 축대 붕괴 등이 우려된다”며 “안전 조치를 강화하고 주민 대피 체계를 점검하라”고 했다. 특히 “지난 호우로 침수 피해를 본 지역이 이번 비로 다시 피해를 입지 않도록 긴급 점검하고, 안전 확보를 위한 모든 조치를 하라”고 했다.&lt;br&gt;&lt;br&gt;한 총리는 이어 “휴가철이자 연휴 기간임을 감안해, 관광객과 야영객에 대한 신속한 안내와 대피 유도 등 선제적인 안전 조치를 강구하라”고 했다.&lt;br&gt;&lt;br&gt;이와 함께 한 총리는 “반지하 주택이나 지하차도 등 저지대 침수 우려 지역에 대한 예찰(豫察) 활동을 대폭 강화하고, 위험 징후가 있을 때는 주민들을 즉시 대피시키고 출입을 통제하라”고 했다. 또 “배수 펌프가 고장 없이 작동할 수 있도록 사전에 점검을 철저히 하라”고 했다.&lt;br&gt;&lt;br&gt;재난 안내와 관련해서는 “늦은 밤부터 새벽까지 집중호우가 내릴 경우 제때 대피하기 어려운 점을 감안해, 호우·산사태 경보 등이 발령된 때에는 재난 문자나 마을 방송 등을 통한 주민 대피 안내를 즉각 실시하라”고 당부했다.&lt;br&gt;&lt;br&gt;한 총리는 “호우가 특정 지역에 단시간에 집중돼 피해가 커질 수 있다”고 우려하면서 “지방정부와 산림청, 경찰, 소방 등 관계자들의 비상 근무 태세를 유지하라”고 했다.&lt;br&gt;&lt;br&gt;17일 기상청에 따르면, 18일 새벽에서 오전 사이 수도권과 강원도, 충청권을 중심으로 돌풍과 천둥·번개를 동반한 시간당 30~50㎜의 강한 비가 내릴 것으로 전망된다. 수도권과 강원 내륙, 충남, 충북 북부는 시간당 50~80㎜까지 내릴 수 있을 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재 이어 법원도 “양심적 병역거부자 3년 대체복무 합헌”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/17/JG4GOIV2EBGRXC4JUJAWROVRFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/JG4GOIV2EBGRXC4JUJAWROVRFY/</guid>
+      <dc:creator>양인성 기자, 김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABRBJDKNKRGTJCTFLJSD2C32YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;병역거부 판결 일러스트. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소에 이어 법원에서도 양심적 병역거부자의 3년 대체복무가 정당하다는 취지의 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울동부지법 형사11단독 심동영 판사는 지난 8일 종교적 신념 등을 이유로 병역을 거부한 박모(28)씨에게 징역 1년 6개월을 선고했다. 다만 심 판사는 “박씨의 주거가 일정하고 박씨가 이 사건 수사와 재판에 임하는 태도 등을 고려할 때 구속 사유가 있다고 보기 어렵다”며 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;현역 입영 대상자인 박씨는 지난 2022년 12월 서울지방병무청으로부터 “전북 임실군 35사단 충경신병교육대에 입대하라”는 내용의 입영통지서를 받았다. 그러나 박씨는 입영일로부터 3일이 지나도록 입영하지 않아 병역법 위반 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;박씨는 재판 과정에서 종교적인 이유로 군 복무를 할 수 없으며, 대체복무 제도 역시 징벌적이라 받아들일 수 없다고 주장했다. 현행법은 지난 2020년 1월부터 종교적 신념 등을 이유로 병역을 거부한 사람들에게 36개월간 교정 시설에서 합숙하는 대체복무를 하도록 하고 있다.&lt;br&gt;&lt;br&gt;하지만 심 판사는 앞서 헌재가 이와 관련해 합헌(合憲) 결정을 내린 점을 들어 대체복무 제도를 거부하는 것이 병역법상 정당한 사유가 될 수 없다고 봤다. 헌재는 지난 2024년 5월 대체역의 편입 및 복무 등에 관한 법률 18조 1항, 병역법 5조 1항 6호 등 관련 조항에 대한 헌법소원 심판 청구를 재판관 5대4 의견으로 기각한 바 있다.&lt;br&gt;&lt;br&gt;당시 헌재는 합숙을 강제하는 것이 현역 군인들과 비교할 때 기본권을 지나치게 제한하지 않는다고 판단했다. 또 대체복무자들에게 군사 업무의 특수성이 모두 배제된 만큼 교정 시설 근무를 징벌적인 처우로 볼 수 없다고 해석했다.&lt;br&gt;&lt;br&gt;심 판사는 “동종 사건과의 형평성과 피고인이 형사처벌 전력이 없는 점을 고려했다”며 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유재석 탄 서울 동작구청 미끄럼틀, 구청장 바뀌자 “축소 운영 검토”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/17/ZO42SQ2K6FD3JDAC3MZKRQXRXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/ZO42SQ2K6FD3JDAC3MZKRQXRXU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5IB56JIS5AT3HCTGW42YN2WIE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 9월 서울 동작구 동작구청 신청사 2층에 조성된 15m 길이 대형 미끄럼틀 'D디라이드(D-Lide)’를 타려는 시민들이 줄지어 차례를 기다리고 있다. /동작구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전임 구청장 시절 설치돼 전국적인 명소로 떠오른 서울 동작구청 내 대형 미끄럼틀 ‘D라이드(D-Lide)’가 운영 축소 수순을 밟을 전망이다. 이달 민선 9기 새 구청장이 취임한 뒤 인수위원회가 담당 부서에 운영 축소를 요청하면서다.&lt;br&gt;&lt;br&gt;17일 동작구에 따르면, 구는 장승배기역 인근 신청사에 설치된 대형 미끄럼틀의 운영 시간 단축을 검토하고 있다. 현재 이 미끄럼틀은 매일 오전 11시부터 오후 8시까지 매시간 정각부터 20분씩 운영된다.&lt;br&gt;&lt;br&gt;동작구 관계자는 “평일 오전에는 아이들이 학교에 있어 이용 수요가 거의 없다”며 “평일 오전 대신 점심 시간 이후부터 오후까지, 주말 등 수요가 있는 많은 시간대 중심으로 가동하는 방향으로 담당 부서에서 효율적인 운영 방안을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;이 대형 미끄럼틀은 전임 박일하 구청장의 제안으로 지난해 9월 신청사 개청과 함께 설치됐다. 지상 2층에서 지하 1층까지 이어지는 높이 15m 규모의 놀이시설이다. 이용료는 무료다.&lt;br&gt;&lt;br&gt;딱딱한 관공서에 체험형 놀이기구를 도입하면서 구청은 민원인의 고성 대신 방문객의 활기로 가득한 공간으로 바뀌었다. 미끄럼틀을 타러 온 시민들이 자연스럽게 지하 1층에 도착해 상업 시설을 이용하면서 상권 활성화에도 도움이 됐다는 평가를 받았다.&lt;br&gt;&lt;br&gt;동작구에 따르면 지난해 9월부터 올해 2월까지 6개월간 5만명이 넘는 이용객이 미끄럼틀을 찾았다. 지난해 10월에는 MBC 예능 프로그램 ‘놀면 뭐하니?’에서 방송인 유재석씨가 직접 탑승하는 모습이 방송돼 화제를 모으기도 했다.&lt;br&gt;&lt;br&gt;하지만 일각에선 운영비 부담과 관련한 비판도 제기됐다. 노성철 동작구의원은 지난해 12월 구의회 본회의에서 “2025년 예산안에 미끄럼틀 운영 인건비만 4억4000만원이 편성됐고, 그중 6000만원을 삭감해도 3억8000만원이 매년 소요된다”며 “10년이면 38억원으로, 이는 내년도 예산이 부족해 500만원·1000만원 단위 예산조차 지키기 어려운 동작구 재정 상황에서 결코 가볍지 않은 금액”이라고 지적한 바 있다.&lt;br&gt;&lt;br&gt;결국 이달 새 구청장 취임 후 인수위원회가 비용 절감과 운영 효율화를 위해 운영 시간 축소를 요청하면서, 평일 오전 운영 중단 등 전반적인 가동 시간 조정이 이뤄질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>군포 어린이공원 물놀이장 기구 넘어져 어린이 5명 부상</title>
       <link>https://www.chosun.com/national/national_general/2026/07/17/3MIUOHP3H5B27K7N7WF3AX5KYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/3MIUOHP3H5B27K7N7WF3AX5KYA/</guid>
@@ -763,18 +817,6 @@
       </media:content>
     </item>
     <item>
-      <title>탈북 청소년 여명학교, 20년 떠돌이 생활 끝낸다</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/16/KQ5JHGA5XVCGFNTTPNCVBQDFWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/16/KQ5JHGA5XVCGFNTTPNCVBQDFWE/</guid>
-      <dc:creator>조재현 기자, 한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMVYABQULJF3RFSZPCBXNXAKW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 서울 강서구의 탈북민 대안학교 여명학교 복도 벽에 "통일이 되면 학교를 세우고 싶다" "모두가 행복한 나라를 만들고 싶다" 등 학생들의 소원이 적혀있다. /조선일보DB &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부지 문제를 해결하지 못해 20여 년간 이곳저곳 옮겨 다닌 탈북 청소년 대안학교 ‘여명학교’가 현대차그룹에서 60억원을 지원받아 자체 시설을 마련하게 됐다. 현대차그룹 지원금을 보태 폐교 부지에 새 학교 건물을 짓고 여명학교가 장기간 무상으로 사용한다는 것이다. &lt;br&gt;&lt;br&gt;현대차그룹과 통일부, 서울시교육청, 여명학교는 24일 이 같은 내용을 담은 ‘여명학교 신축 등을 위한 업무협약(MOU)’을 체결할 것으로 알려졌다. 이에 따라 여명학교는 현재 임시로 사용 중인 서울 강서구 가양동 염강초 폐교 부지에 총 160억원을 들여 새 교육 시설을 짓게 된다. 현대차그룹이 60억원을 지원하고, 여명학교가 자체 재원 100억원을 부담하는 방식이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLCELNWQIRD75L3V64Z7PXVXDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2004년 설립된 여명학교는 서울에서 유일하게 탈북 청소년에게 중·고등학교 학력을 인정하는 대안학교다. 교회 23곳이 힘을 모아 2004년 9월 서울 관악구 봉천동 대로변의 상가 건물에 문을 열었다. 학생 수가 늘어나 2008년 서울 중구 남산 건물로 이전했고, 2010년엔 서울교육청에서 정식 대안학교 인가도 받았다. 2019년에는 은평구에 학교 건물을 새로 지으려다가 주민 반발로 무산됐다. 당시 은평구에는 탈북민 혐오 문구가 적힌 현수막이 걸렸고, 이전 반대 민원이 구청에 쏟아졌다고 한다. 서울교육청 도움으로 2023년 겨우 염강초 폐교 부지 임시 사용 허가를 받​아 건물 일부를 임대해 사용해왔다.&lt;b&gt; &lt;/b&gt;하지만 사용 허가가 내년 2월 종료될 예정이어서 새로운 시설을 확보하지 못하면 또 떠돌이 신세가 될 상황이었다.&lt;br&gt;&lt;br&gt;현대차그룹은 지난해부터 관계 기관과의 협의를 거쳐 기부채납 방식을 통한 여명학교 신축 방안을 모색해온 것으로 알려졌다. 여명학교가 교육시설을 신축해 서울시교육청에 기부채납하면, 교육청이 학교 측에 장기간 무상 사용을 허가해주는 방식이다. 관련법에 따라 민간이 소유한 재산을 국가나 지방자치단체에 기부하면 최대 20년간 무상 사용 허가를 받을 수 있다. 이 부지에는 2030년 개원을 목표로 하는 서울유아교육진흥원도 함께 들어설 예정이다.&lt;br&gt;&lt;br&gt;이번 협약에 따라 여명학교 신축 공사는 내년 착공한다. 이번 공사는 기존 건물을 철거한 뒤 재건축하는 방식이 아닌, 맞은편 부지에 새 건물을 짓는 방식으로 진행된다. 덕분에 여명학교에 다니는 학생 100명은 공사 기간 중에도 현재 사용 중인 교실에서 학업을 이어갈 수 있게 됐다. &lt;br&gt;&lt;br&gt;현대차그룹은 지난 10여 년간 탈북민 지원 사업을 해왔다. 현대차그룹은 2014년부터 창업을 준비하는 탈북민에게 포터, 봉고 등의 푸드트럭을 지원해 자립을 돕는 한편, 탈북 여성을 고용하는 사회적 기업이나 탈북 대학생 후원 등도 꾸준히 이어왔다. 현대차그룹 창업주 고 정주영 회장은 실향민 출신으로 1998년 6월 소 500마리를 몰고 식량난에 시달리던 북한을 찾았다.&lt;br&gt;&lt;br&gt;부산광역시 강서구 신호동에도 탈북 청소년 대안학교 ‘장대현중고등학교’가 있다. 장대현은 평양시 만주대의 옛 지명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TLCELNWQIRD75L3V64Z7PXVXDY.jpg?auth=aa18ec3ca8d274bced81b6e9b9ad709ecaad42d2b0db10f970e08faeefdc9bd8&amp;smart=true&amp;width=640&amp;height=566" type="image/jpeg" height="566" width="640">
-        <media:description type="plain"> 한영원 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘긴급 체포 남발’ ‘사건 묻힐 가능성’ 둘 다 커졌다</title>
       <link>https://www.chosun.com/national/court_law/2026/07/16/IX5QQMAXZJC4VEHPHL2U4KUESY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/16/IX5QQMAXZJC4VEHPHL2U4KUESY/</guid>
@@ -785,33 +827,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/WAG24FFNZZC2JERDMNHKUGHZQA.png?auth=81152be2bac78384ab84439cd91050235f5798138b36e1f7ec90ad6fb2627c88&amp;smart=true&amp;width=1500&amp;height=1000" type="image/png" height="1000" width="1500">
         <media:description type="plain">더불어민주당 형사소송법 개정 태스크포스(TF) 소속 김승원·김한규·박상혁·이해식(왼쪽부터) 의원이 9일 국회 의안과에 형사소송법 일부개정법률안을 제출하고 있다. 검찰의 보완수사권 폐지를 골자로 하는 개정안에는 검찰이 경찰에 보완 수사를 요구할 수 있는 보완 수사 요구권만 남았다. /사진=남강호 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘쌍매훈련’서 플레어 발사하는 한미 공군</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/16/4VEAPSQQZRFS7IEQNIM5ILYJ2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/16/4VEAPSQQZRFS7IEQNIM5ILYJ2A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ES64EZGNWJESBIWGD6ROUDLHIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 13일부터 16일까지 진행되는 한미 공중 연합훈련인 ‘쌍매훈련’에 참가한 우리 공군 F-16 2대(앞쪽)와 미 공군 F-16 1대(맨 뒤)가 편대비행을 하며 플레어(Flare·미사일 회피용 섬광탄)를 발사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강릉 돌고래 ‘안목이’ 구조작전 성공</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/16/VATAUTYICBHWTIPO2QJNGLDOMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/16/VATAUTYICBHWTIPO2QJNGLDOMM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZXMU7VMFBH53IAWVQGLRERHBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 강원 강릉항 앞바다에서 해양수산부와 해경 등으로 구성된 구조팀이 남방큰돌고래 ‘안목이’를 구조하고 있다. 지난해 여름부터 안목항 앞바다에 나타나 이름을 얻은 안목이는 3~5세로 추정되는 수컷이다. 구조된 안목이는 울산 장생포로 이송돼 치료를 받을 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“강원도서 왔습네다” 둘러대던 왕따 소년… 이제는 “탈북민” 당당히 말하는 배우로</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/16/PV3ZAYKNWFHA3PFPRQ2Y55CLXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/16/PV3ZAYKNWFHA3PFPRQ2Y55CLXY/</guid>
-      <dc:creator>고양=최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUDX7RME45GZVKQUO4RBDYRDNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 경기 고양시 킨텍스에서 제3회 북한이탈주민의날(7월 14일) 기념 웹드라마 ‘스타트하나’에 출연한 배우 차위성(왼쪽), 신윤제(가운데), 이일천(오른쪽)씨가 본지와 인터뷰를 마친 뒤 ‘하나’를 뜻하는 포즈를 취하고 있다. 차씨는 양강도 혜산, 이씨는 함경북도 청진 출신이다. /최하연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“소년장수(북한의 인기 만화영화)? 너도 북에서 왔간?”&lt;br&gt;&lt;br&gt;제3회 북한이탈주민의 날인 지난 14일 경기 고양시 킨텍스에서 탈북 대학생의 창업 도전기를 다룬 웹드라마 ‘스타트하나’ 시사회가 열렸다. 객석에서 폭소가 터진 것은 이질적 말투를 지적받을 때마다 ‘강원도 출신’이라고 둘러대던 탈북 대학생 ‘나영광’이 같은 탈북민인 ‘오창엽’에게 정체를 들키는 장면이었다. 어려서 ‘소년장수’를 즐겨 봤다는 영광이 탈북민이라는 사실을 창엽이 단번에 알아챈 것이다. &lt;br&gt;&lt;br&gt;북한 출신임을 숨기는 영광의 모습은 창엽 역을 맡은 탈북민 배우 차위성(27)씨의 실제 경험과 닮았다. 이날 현장에서 만난 차씨는 “강원도 출신이라고 둘러대는 건 탈북민 학생들에게 가장 흔한 레퍼토리”라고 했다. 양강도 혜산 출신인 차씨는 2010년 북한을 떠나 중국과 라오스, 태국을 거쳐 이듬해 경북 포항에 정착했다. &lt;br&gt;&lt;br&gt;친구들에겐 “강원도에서 왔다”고 했지만 곧 출신이 알려졌고, 초등학교 내내 따돌림을 당했다고 한다. 경기 안성으로 이사해 탈북민 대안학교를 거쳐 동국대 연극학부에 진학했다. “탈북민에 대한 인식을 바꿀 수 있는 일이 연기라고 생각했다”는 차씨는 2019년 대학로에서 연극배우로 데뷔한 뒤 탈북민의 삶을 다룬 작품에 꾸준히 출연해 왔다.&lt;br&gt;&lt;br&gt;차씨는 “어렸을 땐 부끄러워서 숨기고만 싶었던 탈북민이라는 정체성을 지금은 누구보다 긍정하게 됐다”며 “탈북민이 그저 도움이 필요한 존재가 아니라 각자의 자리에서 자기 일을 해낼 수 있는 사람이라는 걸 보여주고 싶다”고 했다. &lt;br&gt;&lt;br&gt;‘스타트하나’는 통일부 산하 남북하나재단이 제작한 5분 분량 12부작 숏폼 드라마다. 지난해 탈북민의 직장 적응기를 다룬 웹드라마 ‘하나상사’의 후속작으로, 이날 시사회에는 탈북민과 북한 관련 학과 학생 등 약 1000명이 참석했다. 차씨와 ‘이일천’ 역을 맡은 이일천씨까지 탈북민 2명이 출연한다. 차씨는 “북한 사람이 봐도 어색하지 않은 작품을 만들고 싶어서 사투리와 표현 하나까지 제작진과 많이 상의했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>TV조선 ’2026 한국의 영향력 있는 CEO' 시상식</title>
@@ -839,24 +854,6 @@
       <description/>
       <pubDate>Wed, 15 Jul 2026 15:40:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;고선경 &lt;/b&gt;별세,&lt;b&gt; 오호수 &lt;/b&gt;前 한국증권업협회장 아내상,&lt;b&gt; 오윤영&lt;/b&gt;·&lt;b&gt;오세영&lt;/b&gt; 모친상, &lt;b&gt;이진주 &lt;/b&gt;시모상=14일23시17분 서울성모병원, 발인 17일7시40분, (02)2258-5975&lt;br&gt;&lt;br&gt;▲&lt;b&gt;구삼생 &lt;/b&gt;별세,&lt;b&gt; 박상남 &lt;/b&gt;남편상, &lt;b&gt;구미성 &lt;/b&gt;목동힘찬병원 간호부장·&lt;b&gt;구은주&lt;/b&gt;·&lt;b&gt;구태형&lt;/b&gt; 라온휴 한방병원 진료협력부장 부친상,&lt;b&gt; 손태용&lt;/b&gt;·&lt;b&gt;김규성 &lt;/b&gt;파이낸셜뉴스 정치부장 장인상=14일21시40분 경남 마산의료원, 발인 16일11시, (055)249-1700&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한점심 &lt;/b&gt;별세,&lt;b&gt; 지혜연 &lt;/b&gt;민생경제지원단 이사·&lt;b&gt;지명준&lt;/b&gt; 오토닉스 부품개발팀장 모친상,&lt;b&gt; 이강일&lt;/b&gt; 더불어민주당 국회의원 장모상, &lt;b&gt;정해숙 &lt;/b&gt;강원대병원 공공의료과장 시모상=15일1시 경남 창원파티마병원, 발인 17일7시30분, (055)270-1900&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 통일부  외</title>
-      <link>https://www.chosun.com/national/people/2026/07/16/GE3AODTR4VC3HK6O63GC4SM3JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/16/GE3AODTR4VC3HK6O63GC4SM3JU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲통일부&lt;b&gt; ◇&lt;/b&gt;고위공무원 전보▷국립평화통일민주교육원 교육운영부장 오미희▷북한인권기록센터장 정소운 &lt;br&gt;&lt;br&gt;▲소방청◇소방준감 승진 및 전보▷소방청 운영지원과장 윤강열▷소방청 119대응국 대응정책과장 조현문▷세종특별자치시 소방본부장 신희범▷대전광역시 소방본부장 전담직무대리 이중기▷전남광주통합특별시 소방본부 광주권역 부본부장 전담직무대리 구동욱◇소방준감 전보▷소방청 대변인 한선▷경기도 북부소방재난본부장 김문용&lt;br&gt;&lt;br&gt;▲개인정보보호위원회◇과장급 전보▷국제협력담당관 강민지&lt;br&gt;&lt;br&gt;▲건국대◇서울캠퍼스▷교학부총장 김민경▷대학원장 박기영▷건축대학장 심은주▷경영대학장 유재욱▷사회과학대학장 유규상▷사범대학장 오현정▷수의과대학장 김준영▷문과대학장 한정수▷공과대학장 구남서▷상허교양대학장 겸 상허기념도서관장 장덕호▷국제대학장 오제중▷교무처장 주지봉▷기획처장 겸 일우헌 관장 유상열▷입학처장 양성관▷총무처장 송인호▷관재처장 이승창▷연구처장 최미정▷상허기념도서관 부관장 양찬호▷KU미디어 행정실장 이남희&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>더운 날 늘어나면 치매 발생 위험도 높아진다</title>
-      <link>https://www.chosun.com/medical/2026/07/16/E43PCBLIQBEOTKZDFMSOBJZEIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/16/E43PCBLIQBEOTKZDFMSOBJZEIQ/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:35:00 +0000</pubDate>
-      <content:encoded>폭염, 한파, 산불, 기온 상승 등 이상 기후 변화가 갈수록 두드러지고 있다. 기후 변화는 이제 환경 문제가 아니라 질병 발생과 관리 방식까지 바꾸는 ‘의료 변화’가 되고 있다. 지금은 기후 변화에 초미세먼지, 곰팡이, 감염병 확산이 연결되면서 새로운 질병 지도가 만들어지고 있다. 이상 기후 자체가 질병을 양산하는 스트레스로 작용하고 있다는 평가다.&lt;br&gt;&lt;br&gt;폭염은 초과 사망을 높이는 재해가 되고 있다. 여름철 일상화된 폭염은 체온 상승을 일으켜 심장 박동에 과부하를 주고 있다. 여기에 탈수로 혈액은 끈적해지고, 혈전이 생기기 쉬워졌다. 이는 여름철 심근경색증, 뇌경색 발생 증가를 초래하고 있다. 탈수 증가로 급성 신기능 손상도 증가할 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O46SQQW3ONBRXEJ2X24GWPATF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지구 온난화는 치매 발생에도 영향을 준다. 일본 도쿄과학대 공중위생학 연구팀은 65세 이상으로 같은 지자체에서 30년 이상 거주한 치매가 없는 고령자 5만7178명을 3년간 추적 관찰한 결과, 거주 지역에서 5~9월에 유난히 더운 날(최근 30년 일평균 기온 중 상위 10% 이상)이 총 30일 발생하면, 다음 해에 치매 발병 위험이 40~150% 증가하는 것으로 나타났다. 여름철 기온 상승이 수년에 걸쳐 이어지는 상황이 치매 발병 위험을 높일 수 있다는 의미다. 연구진은 “고온 스트레스가 기억과 관련된 해마 신경세포 퇴행을 촉진할 가능성이 있다”며 “폭염 보호 대책이 고령자 치매 예방을 위해서도 중요하다”고 지적했다.&lt;br&gt;&lt;br&gt;무더위가 지속되면, 사람들은 외출을 줄이고, 운동을 안 하고, 사회활동이 감소하고, 수면이 나빠지고, 식사가 부실해지고, 약을 제대로 복용하지 못하는 경우가 많아진다. 이런 변화가 수개월에서 수년에 걸쳐 이뤄지면 인지기능 약화, 만성질환 관리 저하, 우울증 증가 등으로 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;최근에는 하루 기온이 15~20도 차 나는 경우도 흔해졌다. 큰 일교차는 혈관의 수축과 확장을 롤러코스터처럼 불러서 혈압 변동이 심해진다. 이는 협심증, 뇌졸중, 편두통 등으로 이어질 수 있다. &lt;br&gt;&lt;br&gt;자연재해로 산불 발생이 늘고 있다. 산불 연기에는 초미세먼지, 벤젠, 다환방향족탄화수소(PAH) 등 유해 물질이 포함되어 있다. 이들이 폐 깊숙이 들어오면 천식, 만성 폐쇄성 폐 질환(COPD) 증세 악화가 일어난다. 기온 상승과 습도 증가 등으로 곰팡이 질환이 늘어, 아스페르길루스, 칸디다, 피부진균증이 증가하는 추세다. 동남아 지역에서 유행하는 모기 매개 질환 뎅기열도 발생할 것으로 우려된다. &lt;br&gt;&lt;br&gt;기온 상승은 참진드기의 활동 기간을 늘린다. 이로써 진드기 매개 질환인 중증열성혈소판감소증후군(SFTS)이 농촌뿐 아니라 도심 공원에서도 발생할 수 있다. 봄이 빨라지고, 가을이 늦어짐에 따라 꽃가루 비산 기간도 길어져 꽃가루 알레르기 계절이 길어질 것으로 예상된다. &lt;br&gt;&lt;br&gt;감염병의 계절 개념이 무너질 것으로 보인다. 예전에는 겨울 독감, 여름 장염이었으나, 이제는 호흡기감염바이러스(RSV), 코로나19, 수족구병, 식중독 노로바이러스 등의 유행 시기가 다양해질 것으로 예상된다. 산불, 홍수, 폭우 같은 재난을 경험한 사람이 늘면서 외상후 스트레스 증후군(PTSD) 발생 위험도 높아진다.&lt;br&gt;&lt;br&gt;이에 기존의 계절 중심 건강관리와 의료에서 기후 중심 의료로 바꿔 가야 한다. 폭염·한파 경보를 활용해 고위험군을 미리 관리하는 보건 체계가 중요해졌다. 주거 환경의 단열·냉방·환기와 실내 습도 관리가 질병 예방의 핵심 요소로 자리 잡게 된다. 노인, 영유아, 임산부, 만성질환자, 야외노동자는 별도의 기후 건강관리 대책이 필요하다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>교통 관련 대기오염이 소아 백혈병 위험 높여</title>
