@@ -13,6 +13,84 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>합수본, “21대 대선 투표용지 부족 사태' 내부 공유 안 돼” 진술 확보  </title>
+      <link>https://www.chosun.com/national/court_law/2026/07/19/4MR3AYMQ3VDDRBSKJ4VL4IEEJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/19/4MR3AYMQ3VDDRBSKJ4VL4IEEJI/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 09:05:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3GIM3EGQ4GKZBTMZTDQZDEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6·3 지방선거 투표 용지 부족 사태를 수사하는 검경 합동수사본부가 작년 대통령 선거에서도 투표 용지가 부족했는데도 중앙선거관리위원회가 이를 숨긴 정황을 확인했다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 선관위 공직선거절차사무 개선TF 관계자는 최근 합수본 조사에서 자료를 제공받지 못해 제21대 대선에서 투표용지가 부족했던 사실을 전혀 알지 못했다”고 진술한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;개선TF는 21대 대선 과정에서 발생한 사고 사례를 분석해 개선점을 찾고 지방선거를 대비할 목적으로 선관위가 자체 출범한 조직이다. 개선TF는 예산 낭비를 줄이겠다며 투표용지 인쇄 매수 하한선을 지방선거는 선거인 수의 50%로 축소하자는 의견을 낸 곳이기도 하다.&lt;br&gt;&lt;br&gt;그런데 개선TF는 작년 6월 치러진 21대 대선 당시 투표용지가 부족했다는 사실을 선관위에서 전달받지 못했다는 것이다. 실제 21대 대선 때는 전국 58개 투표소에서 투표용지 부족이 우려돼 무번호 용지가 배부된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;합수본은 이 같은 진술이 선관위 부실 운영을 뒷받침하는 정황으로 보고, 선관위가 의도적으로 투표용지 부족 사태를 은폐했는지 등을 살펴보고 있다.&lt;br&gt;&lt;br&gt;또한 합수본은 다음 주부터는 서울 송파구 등 지방선거에서 투표용지 부족 사태가 발생했던 자치구 선관위 사무국장 등을 피의자로 불러 조사할 예정이다. 지난 9일 출범한 합수본은 지금까지 압수수색과 참고인 조사만 해 왔다.&lt;br&gt;&lt;br&gt;합수본은 또 대검찰청에서 회계·계좌 분석 담당 등 수사관 총 7명을 파견받아 인사·예산 전담팀에 배치했다. 이들은 선관위 직원들의 외유성 해외 출장 의혹 등 선관위의 부실 예산 운용 의혹을 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[핫코너] 시위 도구로 변질된 근조 화환...철거는 구청 몫?</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/19/5EGWBUHJRJD4HFGKAJCRJGOS5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/19/5EGWBUHJRJD4HFGKAJCRJGOS5A/</guid>
+      <dc:creator>김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 08:56:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJTDCYRWGVRGGNJYGNRWIZLDGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 강동구 배재고등학교 앞에 배재고등학교 야구부를 비판하는 근조화환과 응원하는 화환이 놓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 서울 강동구 배재고등학교 정문 앞 인도에는 ‘근조(謹弔)’라고 쓴 화환 수십 개가 늘어서 있었다. 그 이틀 전 일부 배재고 야구부 선수가 광주일고와 경기에서 5·18 민주화운동을 폄훼하는 구호를 외친 것에 항의하는 이들이 보낸 것이다. 근조 화환 배달은 이후에도 계속돼 한때 100개를 넘어섰다. 화환에는 “극우 이념으로 세뇌된 개들을 박멸하자” “쓰레기 양성 교육” “배재고 선수 지명 금지” 같은 비난과 욕설이 적혀 있었다.&lt;br&gt;&lt;br&gt;근조 화환은 원래 애도의 뜻을 전하는 용도로 쓰인다. 그런데 근래 들어 갈등을 분출하고 상대를 공격하는 ‘시위 도구’로 변질됐다. 정치적 사안을 둘러싼 갈등이 발단이 됐다. 2020년 일부 단체가 추미애 당시 법무부 장관을 규탄하며 대검찰청 앞에 근조 화환을 보냈다. 당시 추 장관이 윤석열 검찰총장을 조사하겠다며 대검찰청에 평검사를 보낸 것에 대한 항의 표시였다. 2024년에는 윤석열 당시 대통령의 탄핵을 촉구하는 근조 화환이 국민의힘 당사 앞에 쇄도했다. &lt;br&gt;&lt;br&gt;김종우 연세대 사회학과 교수는 “정치적 갈등을 대화로 풀지 못하자 ‘죽음’을 상징하는 근조 화환을 주고받기 시작한 것”이라며 “배재고 야구부 사태에서도 보듯 이제는 정치 외적 문제와 관련해서도 근조 화환이 비난의 도구로 쓰인다”고 했다. 근조 화환 보내기가 성행하자 시위용 화환을 서울 시내 어디든 3시간 이내에 배달해 준다는 전문 업체도 생겼다.&lt;br&gt;&lt;br&gt;근조 화환을 도로에 늘어놓는 것은 도로법상 불법 적치물에 해당한다. 하지만 지방자치단체는 마땅히 할 수 있는 조치가 없다고 한다. 서울의 한 자치구 관계자는 “대부분 근조 화환을 익명으로 보내다 보니 주문자를 특정하지 못한다”며 “근조 화환이 배달된 학교나 기관도 소유권을 부정해 과태료 처분 등을 강제할 이렇다 할 방법이 없다”고 했다. 결국 구청이 예산을 들여 직접 수거하고 폐기할 수밖에 없다고 한다. 배재고 정문 앞에 늘어선 근조 화환 100여 개도 강동구청이 전부 수거해 보관 중이다. 서종국 인천대 도시행정학과 교수는 “화환이 방치될 것을 알면서도 배송하는 업체들에 회수 의무를 부여하는 방안을 고려해볼 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“‘메이저 챔피언' 간절히 원했는데, 꿈 이뤄”</title>
+      <link>https://www.chosun.com/national/people/2026/07/17/6EWGT2KMVFCADGTGSQOFW6NWDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/17/6EWGT2KMVFCADGTGSQOFW6NWDQ/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jul 2026 15:43:00 +0000</pubDate>
+      <content:encoded>“정말 많은 분이 축하해 주셨는데 솔직히 아직도 안 믿기네요.”&lt;br&gt;&lt;br&gt;KPMG 여자PGA 챔피언십에 이어 아문디 에비앙 챔피언십까지, 지난달 말부터 3주에 걸쳐 LPGA(미 여자프로골프) 투어 메이저 대회 2연속 우승을 차지한 유해란(24)은 “첫 우승 축하가 끊기기도 전에 또 우승을 해서 인스타그램이 계속 축하 메시지로 도배되고 있다”며 “실감이 잘 안 난다. 그저 감사한 마음이 크다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMLB77V7EFDYLFMUDVOAXOWD6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유해란은 16일 서울 영등포구 콘래드 서울에서 기자간담회를 갖고 메이저 2연승에 대한 소회와 앞으로의 목표 등을 밝혔다. 그는 “선수 소개 때 ‘메이저 챔피언’이란 말을 듣고 싶어서 메이저 대회 우승을 간절히 원했는데 벌써 해버렸다”며 “메이저 첫 우승을 하고 부담이 확 줄었고 마음 편히 경기를 풀어나가다 60타 기록도 세울 수 있었다”고 했다. 유해란은 에비앙 챔피언십에서 남녀 메이저 대회 사상 18홀 역대 최저타 기록을 썼다. 유해란을 후원하는 장비 용품사 테일러메이드는 이날 ‘60’이 적힌 골프공을 그에게 선물하기도 했다.&lt;br&gt;&lt;br&gt;유해란이 30일 개막하는 시즌 마지막 메이저 대회 AIG 여자오픈에서도 정상에 오른다면 LPGA 투어 76년 역사상 두 명밖에 이루지 못한 ‘메이저 3연승’ 대기록을 쓸 수 있다. 앞선 선수들은 1950년 베이브 자하리아스(미국)와 2013년 박인비다. 유해란은 “박인비 선배의 뒤를 이으면 너무 영광스럽겠지만 2연승도 감사한 일”이라며 “AIG 여자오픈에서도 잘 치려고 노력할 테니 응원 부탁드린다”고 했다. 그는 “제 샷이 탄도가 많이 높은데, AIG 여자오픈 코스에는 항상 바람이 정말 많이 불어 개인적으로 힘든 대회”라며 “미니 드라이버를 사용하는 등 이전과 다른 플레이 스타일로 접근해보겠다”고 했다.&lt;br&gt;&lt;br&gt;유해란의 새 목표는 2028 LA 올림픽 출전이다. 그는 “올림픽을 TV로만 봤는데 너무 나가보고 싶어서 단기 목표로 삼기로 했다”고 말했다. 올 시즌 LPGA 투어 최저타수상인 ‘베어 트로피’에도 도전한다. 현재 그는 69.4타로 세계 랭킹 1위 넬리 코르다(미국·68.68타)에 이어 2위를 달리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의대 꿈꾸던 여고생 숨진 은마아파트 화재... “무자격자가 전기공사”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/19/SSR54BLCJFE5VAESBGGWYR7EAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/19/SSR54BLCJFE5VAESBGGWYR7EAI/</guid>
+      <dc:creator>원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 07:42:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRTMY3DGMZWIMZZMY3DQNBXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 24일 오전 서울 강남구 은마아파트에서 경찰, 소방 관계자들이 화재 원인 조사를 위해 합동 감식을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2월 서울 대치동 은마아파트에서 불이 나 여고생이 사망한 사건과 관련해, 화재가 인테리어 공사 과정에서 부적절하게 이뤄진 전기 공사에 비롯됐을 가능성이 제기됐다. 당시 의대 진학을 꿈꾸던 큰딸의 대학 입시를 위해 서울 대표 학군지인 대치동으로 온 가족이 이사했다가 새벽 시간에 화재가 발생해 큰딸이 사망하고 가족 3명이 다치는 참변이 발생했다.&lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면, 강남소방서가 화재 이후 작성한 167쪽짜리 ‘화재 현장 조사서’에는 피해자 가족이 해당 아파트에 입주하기 직전에 이뤄진 인테리어 공사에서 진행된 전기 공사가 화재에 영향을 미쳤을 정황이 상세하게 담겼다. 보고서는 “세대 내부가 전소돼 화재의 명확한 원인을 입증할 물리적 증거가 대부분 없어져 발화 원인은 미상”이라면서도 “발화 지점은 주방 천장 내부 공간으로 추정된다”고 결론 내렸다.&lt;br&gt;&lt;br&gt;보고서에 따르면, 해당 주택은 인테리어 공사 당시 주방과 인접한 작은 방 사이의 내력벽을 허물고 주방 공간을 넓히는 작업을 했다. 이때 기존 주방의 조명과 작은 방의 조명이 배선을 연결해 중간 위치에 새 조명을 설치하는 작업이 이뤄졌다. 보고서는 “주방 천장 내부 전기 배선에서 전선 간 접촉 불량이나 전선을 감싼 피복이 벗겨지는 등 이유로 불이 났을 가능성을 배제할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;당시 전기 시공 과정이 전기설비기술기준(KEC)을 준수하지 않았을 정황이 제기됐다. 조명 전선을 연장하면서 피복을 벗기고 구리 전선을 서로 꼬아 테이프로 감는 ‘꼬임 접속’ 방식을 사용했는데, 조사팀은 “접속부의 기계적 강도를 약화하고 접촉 저항을 올려 발열을 유발할 수 있다”며 “시공 결함으로 발화했을 개연성을 배제할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;해당 작업을 한 인부들도 전기 기술 자격증이나 관련 면허가 없었던 것으로 조사됐다. 화재 예방을 위해 전선에 씌우는 보호용 관도 설치되지 않은 것으로 확인됐다. 또, 인테리어 업체가 전기 배선을 공사하는 사실을 아파트 관리사무소에 신고도 하지 않았다. 전기 공사를 할 땐 아파트 관리 주체에 허가를 받아야 한다.&lt;br&gt;&lt;br&gt;경찰은 당시 공사를 진행한 인테리어 업자 2명과 전기 시공업자 1명 등 3명을 업무상과실치사상, 전기공사업법 위반, 소방시설공사업법 위반 등 혐의로 입건해 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 7월 20일 월요일 (음력 6월 7일 乙未)</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/19/66GKCWWMRFGWHAJQMI3J5X5UCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/19/66GKCWWMRFGWHAJQMI3J5X5UCQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>장윤기 수사팀장 “직속 상관이 일반 살인으로 처리하라 지시”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/19/Q4TPWRWSHJGLBKA3U5LEX2JAE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/19/Q4TPWRWSHJGLBKA3U5LEX2JAE4/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 07:48:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZDMODCGEZGIOLEMUYDIOBRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여고생 살해범 장윤기 사건 증거인멸 의혹을 받는 전남광주 광산경찰서 수사팀장 박모 경감이 지난 8일구속 전 피의자 심문(영장실질심사)를 받기 위해 광주지방법원에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여고생 살인 사건 증거인멸 등 혐의로 구속된 전남광주 광산경찰서 수사팀장이 직속 상관인 형사과장으로부터 “장윤기(24) 사건을 일반 살인으로 처리하라”는 지시를 받은 것으로 확인됐다. 국수본은 광산서 형사과장을 윗선의 부당한 사건 축소 지시를 전달한 연결고리로 보고 있다.&lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면 경찰청 국가수사본부(국수본)는 여고생 살인 사건 초동 수사를 맡은 광산서 수사팀장 박모(59) 경감에게서 “같은 경찰서 박모 형사과장이 여고생 살인 사건을 일반 살인으로 처리하라고 지시했다”는 진술을 확인했다.&lt;br&gt;&lt;br&gt;국수본은 광산서 수사팀이 현직 경찰인 장윤기의 아버지와 유착해 증거를 인멸하고 사건을 축소했다는 의혹에 대해 수사 중이다. 광산서 수사팀이 지난 5월 14일 여고생 살해범 장윤기를 검찰에 송치할 때 살인이 아닌 강간 살인 혐의를 적용했어야 한다는 것이 국수본의 시각이다.&lt;br&gt;&lt;br&gt;국수본은 지난 15일 박 경감을 증거인멸·직권남용·직무유기 등 혐의로 검찰에 구속 송치하면서 박 경감이 사건을 축소한 ‘범행 동기’도 밝혔다. “윗선에서 스토킹과 살인 사건을 연결시키지 못하도록 지시했다”는 박 경감의 진술을 확보했다는 것이다.&lt;br&gt;&lt;br&gt;박 경감이 언급한 스토킹 사건은 여고생 살인 사건 이틀 전 발생했다. 장은 5월 3일 오전 2시쯤 베트남 국적 20대 여성 A씨를 성폭행하고, 같은 날 오후 5시쯤 흉기를 구매한 뒤 A씨를 살해하려 스토킹한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;국수본은 박 경감이 언급한 ‘윗선’이 누구인지 공개하지 않았다. 하지만 박 경감이 직접적인 사건 축소 지시를 받은 인물로 직속 상관인 박 과장을 지목했다는 것이다.&lt;br&gt;&lt;br&gt;국수본은 광산서 수사팀이 5월 6일쯤 장이 베트남 여성 스토킹 사건 용의자라는 사실을 파악한 것으로 보고 있다. 박 경감은 국수본 수사에서 5월 6일 스토킹 사건 내용이 포함된 수사 보고서 결재를 요청한 팀원에게 특정 내용을 빼라고 지시한 것으로 드러났다.&lt;br&gt;&lt;br&gt;광주경찰청은 5월 7일쯤 장이 베트남 여성 스토킹 사건 용의자라는 사실을 파악했다고 한다. 박 경감은 5월 8일부터 12일 사이 수사팀원들에게 “(장윤기 사건을) 성적으로 몰아가지 말라”고 여러 번 말한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;국수본은 박 과장도 윗선에게서 스토킹 사건과 살인 사건을 연결 짓지 말라는 지시를 받고, 박 경감에게 전달했을 것으로 의심하고 있다. 국수본은 박 팀장을 조사하는 과정에서 광산서장이 “남양주 사건을 조심해야 한다”는 취지로 수사팀에 말했다는 진술을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;광주지법은 오는 21일 오전 11시 직권남용권리행사방해·직무유기 혐의를 받는 박 과장에 대한 구속 전 피의자 심문(영장실질심사)을 열 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GMZDMODCGEZGIOLEMUYDIOBRGM.jpg?auth=e399c559c2b412f14a8da44fad5b1b59b5c09c97033a2f9f620b6ff4cdaf0656&amp;smart=true&amp;width=2242&amp;height=1563" type="image/jpeg" height="1563" width="2242">
+        <media:description type="plain">여고생 살해범 장윤기 사건 증거인멸 의혹을 받는 전남광주 광산경찰서 수사팀장 박모 경감이 지난 8일구속 전 피의자 심문(영장실질심사)를 받기 위해 광주지방법원에 들어서고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰 ‘토착비리 특별단속’... 네 달간 535명 송치, 20명 구속</title>
+      <link>https://www.chosun.com/national/incident/2026/07/19/6WMQ5RW53RHV5LE436BR5SXFHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/19/6WMQ5RW53RHV5LE436BR5SXFHM/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 06:28:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYTIOJQHFSGKNRTGU4GKNLFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청/ 뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 사회 내 유착 관계를 이용한 토착비리를 집중 단속해 온 경찰이 4개월간 특별 수사를 통해 공직자 등 535명을 검찰에 넘기고 그중 20명을 구속했다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부(국수본)는 19일 “지난 3월부터 공직자 등의 부당계약, 재정비리, 권한남용, 내부정보 이용 등에 대한 수사를 진행했다”며 “토착비리 사범 554건 1450명을 수사해 535명을 송치하고 그중 혐의가 중한 20명을 구속했다”고 밝혔다.&lt;br&gt;&lt;br&gt;국수본에 따르면 경기남부경찰청 반부패수사대는 예산 편성 및 납품 업체 선정의 대가로 계약 금액 중 약 4억5000만원을 사례비로 받은 광역의원 등 15명을 검거하고 3명을 구속했다. 충북 청주상당경찰서는 25억원 상당의 물품을 허위 발주한 후 이를 판매해 16억7000만원을 취득한 공공기관 지역본부 협력 업체 직원 2명을 검거하고 구속했다. &lt;br&gt;&lt;br&gt;서울 강서경찰서는 구의회 별정직 및 임기제 공무원 채용 대가로 수천만 원 상당의 현금과 금목걸이를 수수한 기초의회의장 등을 검거했으며, 대전경찰청 반부패수사대는 학교법인의 기간제 교사, 행정 교직원 채용을 대가로 수억 원을 챙긴 학교법인 사무국장과 상임이사 등을 검거했다. 경기 하남경찰서는 법정이율을 초과해 돈을 빌려주고 국가 시스템을 이용해 채무자와 가족들이 체납 이력을 확인한 기초자치단체 공무원을 검거했고, 광주경찰청 반부패수사대는 차명으로 업체를 설립한 후 기초지자체와 26억원 상당의 수의계약 79건을 맺어 이익을 취한 전 지자체 공무원을 검거했다. &lt;br&gt;&lt;br&gt;국수본은 “이러한 단속 성과에도 지방정부와 토호세력 간의 장기간 유착에 기반한 부패 고리를 발본색원하기 위해 보다 강도 높고 체계화된 단속 추진이 필요하다”며 “이달 20일부터 ‘토착비리 특별단속’을 확대 추진할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 경찰청 국가수사본부에 수사국장을 단장으로 하는 ‘지역 유착 비리 대응 TF’를 구성하고, 각 시도 경찰청 반부패·경제범죄수사대에 더해 광역범죄수사대에 수사를 맡기기로 했다. 수사국장 주관으로 최소 월 1회 점검 회의를 열어 전국 단속 실적 등을 점검할 예정이다. &lt;br&gt;&lt;br&gt;경찰은 유착 비리를 방치·묵인하는 ‘불법 방임’ 행위 역시 중점 단속 대상에 추가하고, 지방의원·공무원 등 공직자가 연루된 수의계약 관련 불법 행위를 ‘1호 집중 수사 과제’로 지정할 방침이다.&lt;br&gt;&lt;br&gt;국수본은 “지위고하를 불문하고 성역 없는 수사를 전개해 지방 행정의 청렴 기반을 공고히 하고, 지역 밀착형 부패 비리를 근절하기 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임산부 탑승한 차량은 서울 공영주차장 반값 </title>
+      <link>https://www.chosun.com/national/national_general/2026/07/19/IGSLHTUVPJHBHCLQ4FEBMORNS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/19/IGSLHTUVPJHBHCLQ4FEBMORNS4/</guid>
+      <dc:creator>윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 05:59:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZWCNRUGE4TENRYMZSGKOBUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 공영주차장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 임산부가 탑승한 차량은 공영 주차장 요금을 50% 할인해주는 제도를 도입했다.&lt;br&gt;&lt;br&gt;서울시는 이 같은 내용을 담은 ‘서울시 주차장 설치 및 관리 조례 개정안’을 공포해 시행에 들어갔다고 19일 밝혔다. 앞서 서울시가 ‘임산부 예우 및 지원에 관한 조례’를 제정한 데 따른 후속 조치다.&lt;br&gt;&lt;br&gt;개정 조례에 따르면, 임산부가 운전 중이거나 탑승한 차량은 공영 주차장 등에서 주차 요금을 정산할 때 ‘임산부 앱카드’ 등 임신 사실을 증명할 수 있는 자료를 제시하면 요금 50%를 할인받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZDQOJQMI2WCN3FMM2DEZBWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'제20회 임산부의 날 기념행사'에서 임산부가 배를 만지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임산부 탑승 차량이면 물재생시설에 설치된 체육시설 이용료와 주차장 요금도 50% 깎아준다. 한강공원과 도시공원의 유료시설, 서울도시건축전시관에서 임산부가 입장료 등을 감면받을 수 있는 근거도 함께 마련됐다.&lt;br&gt;&lt;br&gt;다자녀 등 감면 사유가 겹치는 경우 할인율이 높은 혜택만 적용되는 시설도 있어 시설별 감면 방식은 운영기관에 확인해야 한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이번 조치로 임산부의 이동과 문화·체육 시설 이용 부담이 한층 줄어들 것으로 본다”며 “일상 속에서 임산부를 배려하는 분위기가 빠르게 안착하길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>비 잠깐 그치자 폭염특보...다음주 내내 비</title>
       <link>https://www.chosun.com/national/transport-environment/2026/07/19/ANNXRWO6BFFS5B3UWH4DDKDQ3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/19/ANNXRWO6BFFS5B3UWH4DDKDQ3Y/</guid>
@@ -891,56 +969,6 @@ JANG</media:credit>
       <media:content url="https://www.chosun.com/resizer/v2/V7BJYBRHDRGIJB6AVPE6VCCPDM.png?auth=4387efe5bb3eba26f804b3d536ce64c7bb59b157b543e31e000acd0258d1516c&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800"/>
     </item>
     <item>
-      <title>대법, 포스코에 ‘2차 하청 직고용’ 판결… 도급 체계 격랑 불가피</title>
-      <link>https://www.chosun.com/national/labor/2026/07/17/Q4NMZFCD6JALTINHBYZI5SBFCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/07/17/Q4NMZFCD6JALTINHBYZI5SBFCA/</guid>
-      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRN5URJ5PZPYPE3XOJWMK7L52M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국금속노동조합 광주전남·포항지부, 포스코사내하청 광양·포항지회가 16일 서울 서초구 대법원 앞에서 기자회견을 열고 포스코 사내하청 노동자 정규직 전환 등을 촉구하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 포스코의 2차 하청 업체 근로자도 ‘포스코 근로자’에 해당한다는 판단을 내놨다. 이는 현재 일하는 방식이 ‘불법 파견’에 해당하니 포스코가 이들을 직접 고용하라는 뜻이다. 하청 업체 근로자들은 포스코를 상대로 비슷한 성격의 소송을 10여 건 진행 중인데, 2차 하청 업체 근로자가 포스코 근로자 지위를 인정받은 건 이번이 처음이다. 노란봉투법으로 사용자 책임이 대폭 확대된 가운데, 2차 하청 업체 근로자까지 불법 파견으로 인정되면서 국내 제조업계를 지탱해 온 도급 체계 자체가 흔들리고 있다는 분석도 나온다.&lt;br&gt;&lt;br&gt;대법원 2부는 16일 포스코 하청 업체 직원 378명이 낸 2건의 근로자 지위 확인 소송에서 원고 일부 승소로 판단한 2심 판결을 모두 확정했다. 앞서 2018년과 2021년 포스코 하청 업체 소속으로 포항·광양 제철소에서 일한 김모씨 등은 포스코를 상대로 근로자로 인정해달라는 취지의 소송을 냈다. &lt;br&gt;&lt;br&gt;이날 근로자로 인정된 이들 중엔 2차 하청 업체인 시오엠테크에서 일하는 18명의 근로자가 포함됐다. 앞서 1·2심은 “포스코의 사업에 실질적으로 편입돼 포스코의 지휘·명령을 받아 업무를 수행한 것으로 볼 수 있다”고 했는데 대법원이 이를 그대로 인정한 것이다. 시오엠테크는 코크스로(코크스를 생산하는 가열로) 유지·보수 업무를 하는 업체다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WBK4X7N7VDFHO2X4H3LSTBL2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 판결의 여파는 만만찮을 것으로 보인다. 지난 4월 포스코는 노란봉투법 시행으로 인한 경영 리스크를 줄이겠다며 하청 근로자 7000여 명을 직접 고용하겠다고 발표했는데, 2차 하청 업체 직고용 판단까지 내려지면서 직고용 숫자가 더 커질 전망이다. 포스코 측은 “시오엠테크는 당초 직고용 대상에 포함되지 않았지만 순차적으로 채용할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;하지만 노조는 더 많은 직고용을 요구할 가능성이 크다. 민주노총 포스코사내하청광양지회 측은 이날 “이번 대법원 판결은 (직고용 대상자가) 포스코의 직접 지시를 받는 전체 공정으로 확대됐다는 점을 확인하는 것”이라고 했다. 2차 하청 업체 근로자도 직고용 대상이 될 수 있다는 게 확인된 만큼 ‘하청의 하청’으로 일하는 상당수 근로자가 포스코에 직고용을 요구할 가능성이 커졌다는 게 전문가 견해다. &lt;br&gt;&lt;br&gt;산업계에선 이번 판결이 원청의 사용자 책임을 대폭 확대한 노란봉투법 시행 후 나왔다는 데도 주목하고 있다. 노동위원회는 원청의 안전 관리, 작업 지시, 설비 관리 등 사용자성 인정의 근거를 점차 넓히고 있는데, 이런 상황에서 제조 현장의 실질적 작업 통제 관계를 근거로 하청 근로자의 불법 파견이 인정된 것이기 때문이다. 한 업계 관계자는 “원청의 작업 통제와 안전 관리, 생산 공정 편입 정도 등에 대한 판단이 더 엄격해지는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;제조 업계에선 도급 체계 자체의 변화가 불가피하다는 전망도 나온다. 제조업 특성상 하청의 생산 일정, 설비 운영뿐 아니라 산업 재해 예방을 위한 안전 관리까지 관여하는 게 보통이다. 그러나 노란봉투법 이후 이 같은 조치는 사용자 판단 근거로 작용할 뿐 아니라, 실질적 지휘·명령으로 해석될 경우 불법 파견 판단으로 이어지고 있기 때문이다. 업계에선 기업들이 인건비 부담을 줄이기 위해 자동화·로봇 도입 등을 가속화하고, 생산 시설을 해외로 옮길 것이라는 우려도 나온다. &lt;br&gt;&lt;br&gt;소송을 진행 중인 다른 기업도 긴장하는 분위기다. 현대제철의 경우 당진제철소 하청 업체 근로자들의 불법 파견 소송이 대법원에 계류돼 있다. 아직 확정 판결이 나오기 전이지만 고용노동부는 지난 1월 현대제철에 하청 업체 근로자 1213명을 직접 고용하라는 시정 지시를 내렸다. 노동부가 기업에 1000명 이상의 대규모 직접 고용 지시를 내린 것은 문재인 정부 때인 2020년 12월 이후 약 5년 만이다. 기업들은 이 같은 직고용 압박 분위기가 앞으로 더욱 강해질 것으로 예상했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XRN5URJ5PZPYPE3XOJWMK7L52M.jpg?auth=bee6c97c0543a8823a6716d33863c53b833d07f49c9821df956d7622f2035e4b&amp;smart=true&amp;width=5436&amp;height=2898" type="image/jpeg" height="2898" width="5436">
-        <media:description type="plain">전국금속노동조합 광주전남·포항지부, 포스코사내하청 광양·포항지회가 16일 서울 서초구 대법원 앞에서 기자회견을 열고 포스코 사내하청 노동자 정규직 전환 등을 촉구하고 있다./뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">photocdj</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>李 ‘스토킹범죄 부실 대응’ 질책 후… 경찰 지휘부, 문책 피하려 은폐했나</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/17/ANCJ25G7HBDHLJTJWP2DZNGQKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/ANCJ25G7HBDHLJTJWP2DZNGQKU/</guid>
-      <dc:creator>이기우 기자, 김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 15:48:00 +0000</pubDate>
-      <content:encoded>경찰청 국가수사본부(국수본)가 16일 ‘전남광주 여고생 피살 사건’을 초동 수사한 광산경찰서 박모(경정) 형사과장에 대해 구속영장을 신청했다. 국수본은 지난 14일 김모(경무관) 광산서장을 직권남용 혐의로 입건한 데 이어, 이 사건 수사팀장을 맡았던 광산서 박모 경감도 15일 검찰에 구속 송치했다. 광주지검도 김 서장과 박 과장, 박 팀장 등을 증거인멸 및 공무상비밀누설 혐의 등으로 입건해 수사 중이다. &lt;br&gt;&lt;br&gt;검경은 김 서장과 박 과장이 박 팀장에게 살인범 장윤기의 혐의를 강간 살인이 아닌 일반 살인으로 축소하도록 지시한 것으로 의심한다. 강간 살인은 일반 살인보다 형량이 훨씬 무겁다. 이와 관련, 박 팀장은 경찰 조사에서 “윗선에서 장의 (베트남 여성) 스토킹과 (여고생) 살인 사건을 연결 짓지 못하도록 지시했다”고 진술했다.&lt;br&gt;&lt;br&gt;이와 관련, 검경은 광산서 지휘부가 최근 잇따른 스토킹 등 관계성 범죄에 대한 부담 때문에 사건 축소·은폐를 시도한 것 아닌지 수사 중이다. 최근 스토킹이나 데이트 폭력 등 관계성 범죄가 살인 사건으로 번지는 사례가 반복되며 경찰의 부실 대응을 질타하는 여론이 커졌다. &lt;br&gt;&lt;br&gt;올해 초 경기 남양주에서 김훈(44)이 사실혼 관계의 20대 여성을 스토킹하다가 끝내 살해하는 사건이 발생했다. 그러자 이재명 대통령은 지난 3월 “피해자의 긴급 요청에도 안이하게 대응해 끔찍한 범죄를 막지 못한 것 아니냐”며 경찰을 공개적으로 질타했다. 경찰 소식통은 “이런 상황에서 장윤기가 여고생 살해 전 베트남 여성도 스토킹해 광산서에 신고된 사실이 알려지면 문책이 따를 수 있다고 광산서 지휘부가 우려했을 가능성이 있다”고 했다. 실제로 김 서장이 남양주 사건 등을 언급하며 수사팀에 “가급적 관계성 범죄 이야기는 나오지 않도록 해야 한다”고 지시했다는 수사팀원 진술을 국수본은 확보한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김 서장도 장윤기가 여고생을 살해하기 전 한 베트남 여성을 스토킹하고 성폭행한 사실을 알고 있었을 가능성이 있다. 장은 여고생 이모(16)양을 살해하기 이틀 전인 5월 3일 새벽, 고깃집에서 함께 일하던 베트남 여성 A씨의 원룸을 찾아가 성폭행했다. 당일 오후에는 A씨와 함께 출근했고, 위협을 느낀 A씨는 저녁 8시쯤 광산서에 신고했다. 하지만 광산서는 정식으로 사건을 접수하지는 않고 장에게 ‘스토킹을 중단하라’는 문자메시지만 보냈다. A씨가 “친척이 있는 경북 칠곡으로 가려 하니 그때까지만 보호해달라”고 요청했다는 이유였다. 하지만 장윤기는 경찰의 문자메시지를 무시하고 계속해서 A씨 집 인근을 배회하다가 5월 5일 자정쯤 귀가 중이었던 이양을 성폭행하려고 납치하려다 실패하자 살해했다. 이런 사정 때문에 광산서 수사팀이 장의 집에서 훼손된 리얼돌과 케이블 타이 등을 발견하고도 이를 인멸하고, 사건을 단순 살인으로 축소하려 한 것 아니냐는 의구심이 제기된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “李대통령 가덕도 흉기 피습, 배후세력 증거 없어”</title>
-      <link>https://www.chosun.com/national/incident/2026/07/17/HQ7GHVSTXJBVXPOQYFC46J2ZUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/17/HQ7GHVSTXJBVXPOQYFC46J2ZUE/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 15:48:00 +0000</pubDate>
-      <content:encoded>경찰청 국가수사본부(국수본)는 16일 ‘이재명 대통령 가덕도 피습 사건’ 수사 결과를 발표하며 “배후 세력이 있다는 증거는 확인되지 않았다”고 밝혔다. 이 사건은 이 대통령이 더불어민주당 대표 시절인 2024년 1월 부산 가덕도를 방문했다가 김모(69)씨가 휘두른 흉기에 목 부위를 다친 일이다. &lt;br&gt;&lt;br&gt;민주당은 이 사건과 관련해 “보수 유튜버가 배후에 있다”는 의혹을 제기해 왔다. 그러면서 지난 1월 이 사건을 ‘국가 공인 1호 테러’로 지정하면서 “배후 세력이 존재하고, 당시 윤석열 정권에서 의도적으로 사건을 축소·은폐하려 했다”고 주장했다. &lt;br&gt;&lt;br&gt;이에 경찰은 올해 1월 69명 규모로 수사팀을 꾸려 6개월간 국정원, 국무조정실, 국회, 경찰, 소방 등에 대해 8차례 압수수색을 하고 관련자 170명을 조사하는 등 전방위 수사를 펼쳤다. 하지만 민주당이 제기한 배후 세력이 존재함을 입증할 증거는 찾지 못했다는 것이다.&lt;br&gt;&lt;br&gt;경찰 수사를 통해 민주당이 ‘배후’로 지목했던 보수 유튜버와 김씨는 일면식도 없고 연락을 주고받은 적도 없는 것으로 확인됐다. 국수본은 “김씨는 자신의 정치 성향에 맞는 유튜브 영상 등을 시청하면서 정보를 선택적으로 수용하고 편향 해석해 극단적 사고에 이르러 범행한 것”이라고 했다.&lt;br&gt;&lt;br&gt;국수본은 또 “특정 종교 단체 개입, 배후 세력 존재, 테러범의 전문 암살 훈련 여부, 정보기관 개입 등 주요 의혹에 대해서도 빠짐없이 실체를 확인했다”며 “송치 결정한 부분 외에는 범죄 혐의점이 드러나지 않았다”고 했다.&lt;br&gt;&lt;br&gt;국수본이 범죄 혐의가 있다고 보고 검찰에 송치한 건 김씨의 범행을 도운 전 직장 동료 1명, 현장 물청소로 혈흔 등 증거를 없앤 당시 관할 경찰서장 등 경찰관 3명, 허위 공문서 작성 혐의를 받는 국정원 전·현직 관계자 3명 등 총 7명이다.&lt;br&gt;&lt;br&gt;국수본에 따르면, 사건 당일 국정원과 군·경이 합동 조사 결과를 도출하지 않았는데도 국정원 직원 2명은 ‘합동 조사 결과 보고서’를 작성해 관계 부처에 전달한 혐의를 받는다. 국정원 법률 특보를 지낸 김상민 전 검사는 이 사건이 테러에 해당하지 않는다는 검토 의견서를 작성하면서 18㎝ 길이의 흉기를 ‘커터 칼’이라고 축소해 허위 사실을 기재한 혐의다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오늘 제헌절… 손바닥으로 태극기 찍기, 누가 잘하나</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/17/QRP2CFCU3RDI7PKYK4P3V6CLMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/QRP2CFCU3RDI7PKYK4P3V6CLMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVJZYAMFXFFXPHT534FRS4MDJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제헌절을 하루 앞둔 16일 전남광주시 북구청직장어린이집에서 손도장을 찍어 태극 문양을 만드는 행사가 열렸다. 아이들이 큰 종이에 파란색과 빨간색 손도장을 찍고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2030년부터 중학교 근현대사 비중 20→30%로 확대</title>
-      <link>https://www.chosun.com/national/education/2026/07/17/MHCN2M7T5RDZBB4Z2ED5PZXIFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/17/MHCN2M7T5RDZBB4Z2ED5PZXIFY/</guid>
-      <dc:creator>황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 15:47:00 +0000</pubDate>
-      <content:encoded>국가교육위원회가 중학교 역사 과목의 근현대사 비중을 기존 20%에서 30% 이상으로 늘리기로 했다. 새 교육과정은 올해 초등학교 3학년이 중학교에 입학하는 2030년부터 적용된다. &lt;br&gt;&lt;br&gt;국교위는 16일 전체 회의를 열고 교육부가 제출한 ‘국가교육과정 개정 요청안’에 대해 심의해 의결했다. 교육부는 중학교 역사 교과서의 근현대사 내용이 적어 민주화 과정 등에 대한 학생들의 역사 인식이 부족하다는 이유로 근현대사 분량 확대를 추진해왔다. 교육과정 개정은 국교위 소관 업무이기 때문에 이날 국교위가 심의해 결정한 것이다. &lt;br&gt;&lt;br&gt;이날 근현대사 비중 확대에 대해 위원들 간 의견이 갈려 표결로 결정했다. 표결 결과 찬성 13명, 반대 4명, 기권 2명이 나와 통과됐다. 여당 측 인사들은 찬성, 야당 측 인사들은 반대했다. &lt;br&gt;&lt;br&gt;차정인 국교위원장은 표결에 앞서 “역사 왜곡과 조롱, 혐오로 인한 사회적 논란이 심각하다”며 “학생들이 정확한 역사적 사실을 배우고 제대로 된 교육을 받을 수 있도록 학교가 역할을 해야 한다”고 밝혔다. 특히 중학교 근현대사 확대에 대해 “우리의 자랑스러운 산업화와 민주화 역사는 물론, 나라를 위해 희생한 분들에 대해 학생들이 맥락적으로 이해하는 것이 매우 중요하다”고 밝혔다. &lt;br&gt;&lt;br&gt;반면 김경회 상임위원(국민의힘 추천)은 “지난 정부 역사 교육계가 합의해 (근현대사 비중을) 중학교 20%, 고등학교 65%로 정한 것”이라며 “지금 와서 바꾸면 역사 교과서가 또 정치 도구화되는 것 아니냐”고 반대했다. &lt;br&gt;&lt;br&gt;교육계에선 65%에 달하는 고등학교 한국사 교과서의 근현대사 비중은 그대로 둔 채 중학교만 확대한 것은 문제라는 의견이 많다. 5000년 한국 역사 가운데 아직 역사적 평가가 이뤄지지 않은 근현대사 150년만 많이 배우면 되겠냐는 것이다. 또한 교육과정이 너무 자주 바뀌는 것도 문제라는 지적이 나온다. 2022년에 개정된 교육과정이 내년에야 중학교 3학년에 적용되는데, 그전에 또다시 교육과정 개정에 착수하는 셈이다. 근현대사는 주로 중3 때 배운다. &lt;br&gt;&lt;br&gt;이날 근현대사 비중 확대와 함께 고등학교에 ‘역사 및 사회 현상 콘텐츠 비평·분석’이라는 선택 과목을 만드는 안도 의결됐다. 역사뿐 아니라 도덕과 사회 등 다양한 분야의 콘텐츠에 대해 토론하며 미디어 문해력을 높이는 과목이 필요하다는 취지다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 노원 철도공원은 워터파크로, 인천 전철 고가는 수영장으로</title>
       <link>https://www.chosun.com/national/national_general/2026/07/17/KQ5QC42OXNEZRLG6GDDZUIC5BA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/17/KQ5QC42OXNEZRLG6GDDZUIC5BA/</guid>
@@ -957,37 +985,6 @@ JANG</media:credit>
       <description/>
       <pubDate>Thu, 16 Jul 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7XCC7VZSBHN5BDJSNFAQBCEOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육동한 강원 춘천시장이 춘천시청 집무실에서 본지와 인터뷰하고 있다. 육 시장은 “소양강변에 AI 데이터센터를 유치해 춘천의 새로운 성장 동력으로 만들겠다”고 했다. /춘천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“AI(인공지능) 시대에는 물이 경쟁력입니다. 호반의 도시 춘천이 딱이죠.”&lt;br&gt;&lt;br&gt;육동한(67) 강원 춘천시장은 16일 본지 인터뷰에서 “소양호의 풍부한 물과 재생에너지, 수도권 접근성까지 갖춘 춘천이야말로 AI 데이터센터의 최적지”라고 했다. &lt;br&gt;&lt;br&gt;GS와 SK 등 대기업이 강원도에 AI 데이터센터 구축을 추진 중인 가운데 춘천도 유치전에 뛰어든 것이다. 육 시장은 “소양강변에 AI 데이터센터를 유치하고 AI, 첨단 영상, 바이오 산업을 키우겠다”고 했다. 강원과학기술원도 설립할 것이라고 했다. &lt;br&gt;&lt;br&gt;육 시장은 기획재정부 경제정책국장, 국무총리실 국무차장 등을 지낸 관료 출신이다. 지난 6·3 춘천시장 선거에서 재선에 성공했다.&lt;br&gt;&lt;br&gt;-왜 춘천인가.&lt;br&gt;&lt;br&gt;“AI 기업은 전력과 냉각수, 부지, 수도권 접근성 등을 종합적으로 본다. 춘천은 이 조건을 전부 갖추고 있다. 2032년 제2경춘국도가 개통하면 춘천이 사실상 수도권이 된다. 경기 남양주에서 춘천까지 소요 시간이 60분에서 25분으로 단축된다.” &lt;br&gt;&lt;br&gt;-지방자치단체마다 AI를 강조한다.&lt;br&gt;&lt;br&gt;“춘천은 AI를 구호로 내세우는 도시가 아니다. 지난 임기 동안 AI 산업을 키울 기반을 닦았다. 예를 들어 남산면 광판리에 1조1000억원을 들여 AI·바이오 기업혁신파크(기업도시)를 조성한다. 약 363만㎡ 규모로 서울 여의도의 1.25배다. 2024년 국토교통부 선도 사업 대상지로 선정됐고 올해 국토부 심의를 거쳐 내년에 착공하는 것이 목표다. AI, 정보통신기술(ICT), 정밀 의료 등 기업을 유치할 생각이다.” &lt;br&gt;&lt;br&gt;-AI 데이터센터는 어디에.&lt;br&gt;&lt;br&gt;“동면 지내리 소양강변에 수열에너지 융복합 클러스터를 조성하고 있다. 총 81만6000㎡ 규모로 2028년 완공하는 게 목표다. 여기에 데이터센터 부지를 만든다. 기업들 관심이 높다. 벌써 AI 기업 7곳이 입주 의사를 밝혔다. 행정적으로도 적극 지원하겠다.”&lt;br&gt;&lt;br&gt;-수열에너지라니.&lt;br&gt;&lt;br&gt;“소양강의 심층수를 AI 데이터센터의 냉각수로 활용한다. 데이터센터를 통과하며 따뜻해진 물은 스마트팜 난방에 쓴다. 친환경적인 에너지로 AI 데이터 산업과 스마트 농업을 동시에 굴리는 것이다. 소양강 심층수는 여름이나 겨울이나 9~10도로 일정한 수온을 유지한다. 수량도 풍부하다.”&lt;br&gt;&lt;br&gt;-과학기술원은 왜 세우나.&lt;br&gt;&lt;br&gt;“AI, 바이오, 첨단 영상 등 산업이 성장하려면 연구·개발 거점과 석·박사급 인력이 필요하다. 그래서 카이스트(한국과학기술원)와 비슷한 과학기술원을 설립하겠다는 것이다. 연구소와 대학원을 만들 생각이다.”&lt;br&gt;&lt;br&gt;-소양호에 태양광 시설을 짓는다고.&lt;br&gt;&lt;br&gt;“소양호와 춘천호에 수상 태양광 시설을 만들어 ‘에너지 연금’을 도입할 계획이다. 태양광 시설에서 나오는 수익을 시민에게 돌려주는 것이다. 소양호에는 2000억원을 투자해 국내 최대 규모의 수상 태양광 시설을 짓는다. 발전 용량은 100MW로 2029년부터 가동하는 게 목표다.”&lt;br&gt;&lt;br&gt;-‘캠프페이지’ 부지는.&lt;br&gt;&lt;br&gt;“춘천역 앞 ‘캠프페이지(옛 미군 기지)’ 부지는 지난해 국토부 도시 재생 혁신 지구로 지정됐다. 춘천의 미래를 좌지우지할 땅이다. 여기에 AI와 K-콘텐츠, 시각 특수 효과(VFX) 전문 기업 등을 유치해 첨단 영상 산업 생태계를 만들 것이다.”&lt;br&gt;&lt;br&gt;-의암호에 호텔을 짓는다고.&lt;br&gt;&lt;br&gt;“삼천동 의암호 옆에 있는 두산연수원 부지에 5성급 호텔·리조트를 지을 계획이다. 호텔신라가 운영을 맡는다. 호텔 200실, 리조트 250실 규모다. 국제 회의를 소화할 수 있는 컨벤션 시설도 들어선다. 2031년 준공이 목표다.”&lt;br&gt;&lt;br&gt;-구도심 활성화를 강조하는데.&lt;br&gt;&lt;br&gt;“‘리본 시티(re-born city)’ 프로젝트를 추진하려고 한다. 구도심에 활기를 불어넣겠다는 뜻이다. 캠프페이지 부지와 춘천역세권, 구도심을 연결해 유동 인구가 구도심으로 흐르도록 하겠다. 구도심에 있는 중앙시장, 명동 등에서 문화·예술·교육 프로그램도 운영할 계획이다.” &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여름엔 공포 영화?… 호러 축제도 있어요</title>
-      <link>https://www.chosun.com/national/2026/07/17/6FX5PLENLJGW3HTQQGMYZKR6RY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/17/6FX5PLENLJGW3HTQQGMYZKR6RY/</guid>
-      <dc:creator>합천=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>국내 최대 규모의 시대극 촬영 세트장인 경남 합천영상테마파크에서 한여름 밤 등골을 오싹하게 할 호러(공포) 축제가 펼쳐진다.&lt;br&gt;&lt;br&gt;합천군은 31일부터 다음 달 16일까지 ‘2026 합천 고스트파크 마스커레이드(Ghost Park Masquerade)’를 개최한다고 16일 밝혔다. ‘가면무도회(Masquerade)’를 주제로 한 올해는 관람객이 직접 이야기 속 인물이 되는 참여형 축제로 꾸민다. ‘가면을 쓴 유령(고스트) 사냥꾼’으로 변신한 관람객이 축제장 곳곳에 숨겨진 단서를 찾고 임무를 수행하며 봉인이 풀린 유령을 잠재운다는 콘셉트다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6PZ6ZPI2FGPXLFJPAU2YTRCSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 경남 합천군 합천영상테마파크에서 열린 ‘고스트파크’ 축제에서 피 칠갑을 한 귀신으로 분장한 연기자가 유령처럼 꾸민 참가자를 놀래키고 있다. 올해는 가면무도회를 주제로 한 공포 축제로 열린다. /합천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1920~80년대 거리와 조선총독부, 경성역, 청와대 등을 재현한 촬영 세트장인 합천영상테마파크는 드라마 ‘미스터 션샤인’ ‘폭싹 속았수다’ 영화 ‘택시운전사’ 등의 촬영지로도 유명하다. 합천군은 야간 조명을 더하고, 좀비, 드라큘라, 강시, 처녀 귀신 등 동·서양의 공포 캐릭터로 특수 분장한 연기자 42명을 투입해 영상 테마파크를 오싹한 공포 체험장으로 바꿨다.&lt;br&gt;&lt;br&gt;축제장은 공포의 강도와 관람객 동선에 따라 4구역(A~D존)으로 나뉜다. 구역마다 다른 임무가 주어지고, 심리 게임과 퀴즈 등 참여형 프로그램을 통해 실마리를 찾아야 한다. 관람객이 직접 의상·분장실에서 특수 분장 등을 통해 유령으로 변신할 수도 있다. 호러 축제는 행사 기간 매일 오후 6시부터 11시 30분까지 유료로 운영된다. 낮에는 영상 테마파크 내 세트장을 둘러보거나, 주변에 15만㎡ 규모로 조성된 분재공원과 정원 테마파크를 즐길 수 있다.&lt;br&gt;&lt;br&gt;합천군 관계자는 “작년에는 17일간 2만여 명이 찾아오는 등 고스트파크 축제가 합천을 대표하는 여름 야간 행사로 자리 잡았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국회사무처 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/07/17/OZMR2MQ5UZDTBCNVCBRJLRFRZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/07/17/OZMR2MQ5UZDTBCNVCBRJLRFRZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국회사무처&lt;/b&gt;◇수석전문위원(차관보급) 임명▷국회운영위원회 김경호▷정무위원회 곽현준▷과학기술정보방송통신위원회 이지민▷국방위원회 공춘택▷행정안전위원회 장지원▷문화체육관광위원회 정순임▷산업통상자원중소벤처기업위원회 신항진▷보건복지위원회 상지원▷기후에너지환경노동위원회 박희석▷국토교통위원회 이복우▷정보위원회 황충연▷성평등가족위원회 정대영▷예산결산특별위원회 송수환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;과학기술정보통신부&lt;/b&gt;◇ 과장급 전보 ▷핵융합에너지환경기술과장 이찬영 ▷연구인프라혁신과장 한우진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;외교부&lt;/b&gt;▷재외공관담당관 이상민 ▷ 여권과장 이동규&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연세대 의료원&lt;/b&gt;◇국장▷세브란스병원 입원간호국장 신윤정▷연세암병원 간호국장 권은정◇팀장▷연세대학교 총장실 팀장 권이혁▷감사실 감사팀장 유용재▷사무처 재무회계팀장 한성욱▷대외협력처 발전기금팀장 양재환▷인재경영실 인사기획팀장 전필선▷치과대학 행정팀장 양성오▷강남세브란스병원 재무회계팀장 백승규▷강남세브란스병원 입원간호2팀장 정은주▷치과대학병원 기획경영팀장 송준섭▷연세암병원 기획경영팀장 이해곤◇파트장▷세브란스병원 약무팀 특수조제파트장 이주미▷세브란스병원 진단검사의학팀 미생물파트장 오현주&lt;br&gt;&lt;br&gt;▲&lt;b&gt;세계일보&lt;/b&gt;▷편집인 조남규▷논설실장 김기동▷수석논설위원 주춘렬&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS&lt;/b&gt;◇부장급▷방송인프라본부 후반제작기술국 총감독 김성직&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘내란 가담’ 심우정 前 검찰총장·전무곤 前 대검 기조부장 구속영장 기각</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/16/Y4Y6ZN6DWRHNLMEODTJXI5EDNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/16/Y4Y6ZN6DWRHNLMEODTJXI5EDNA/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 14:04:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4GMY3EGM4TMNRWMMZGEZLDGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 내란 가담 및 직권남용 혐의를 받고 있는 심우정 전 검찰총장이 16일 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 법원을 나서고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 가담 혐의를 받는 심우정 전 검찰총장과 전무곤 전 대검찰청 기획조정부장(검사장)에 대한 구속영장이 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 부동식 영장전담 부장판사는 16일 내란 중요 임무 종사 혐의를 받는 심 전 총장과 전 전 검사장의 구속영장을 기각했다. 부 부장판사는 이들에 대해 “변소 취지와 수집된 증거 등에 비춰 증거인멸 염려에 대한 소명이 부족하고 도망 염려가 있다고 보기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;심 전 총장은 2024년 12월 3일 비상계엄이 선포된 직후 박성재 전 법무부 장관 지시로 계엄 합동수사본부(합수부)에 검사 파견을 검토한 혐의를 받는다. 박 전 장관은 계엄 당일 국무회의에 참석한 후 법무부로 돌아와 실·국장 회의를 소집했는데, 이 자리에서 검찰국에 합수부 검사 파견을 검토하도록 지시한 것으로 조사됐다. 2차 종합특검팀은 이날 오후 11시부터 다음 날 새벽까지 박 전 장관과 심 전 총장이 3차례 통화한 것을 두고 박 전 장관이 합수부 검사 파견을 지시했다고 의심 중이다.&lt;br&gt;&lt;br&gt;심 전 총장은 작년 3월 법원이 윤석열 전 대통령의 구속을 취소하자 검찰 비상계엄 특별수사본부(특수본)에 즉시항고를 포기하도록 한 혐의도 있다. 당시 특수본은 즉시항고를 통해 상급심 판단을 받아보자는 입장이었지만, 심 전 총장은 위헌 소지가 있다며 즉시항고를 제지했던 것으로 조사됐다. 이외에도 대검이 ‘비상계엄 하 재판 관할’ 문건을 작성하는 데 관여하는 등 심 전 총장이 내란에 가담했다는 게 특검 측 주장이다.&lt;br&gt;&lt;br&gt;이날 오전 9시 14분쯤 영장실질심사를 위해 서울중앙지법에 모습을 드러낸 심 전 총장은 “내란 가담 혐의를 인정하냐” “영장실질심사에서 어떤 부분을 소명할 예정이냐”는 취재진 질문에 “계엄 당시 상황과 그 이후 상황에 대해 소상히 설명하겠다”고 했다. 심 전 총장은 이날 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBY6BPOJQZPZ3O7FBTS7JGSBA4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;내란 중요임무 종사 혐의를 받는 전무곤 전 대검 기획조정부장(검사장)이 16일 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 법원을 나서고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 전 검사장은 심 전 총장을 보좌하며 비상계엄 하 재판 관할 문건 작성 등에 관여한 혐의로 구속영장이 청구됐다. &lt;br&gt;&lt;br&gt;이날 오후 1시 47분쯤 영장실질심사를 위해 법원을 찾은 전 전 검사장은 “내란 가담 혐의를 인정하냐”는 취재진 질문에 “재판에 성실히 임하겠다”고 답했다. “재판 관할 문건 작성에 관여한 혐의를 인정하냐” “오늘 어떤 부분 위주로 소명할 계획이냐” 등의 질문에는 말을 아꼈다.&lt;br&gt;&lt;br&gt;영장실질심사에 참석한 2차 종합특검 관계자들은 검찰 지휘부 수사가 쉽지 않았다면서도 충분한 증거를 수집했다고 설명했다. 심 전 총장 심사에 출석한 권영빈 특검보는 “피의자가 검찰 총수고 관계자들이 모두 이해를 같이하는 사람들이라 수사하는데 쉽지 않았다”면서도 “대검 압수수색 등을 통해 차분하게 증거를 수집한 결과 구속영장을 청구할 수 있다고 판단했다”고 했다. &lt;br&gt;&lt;br&gt;전 전 검사장 심사에 참여한 김정민 특검보는 “검찰총장의 핵심 참모가 기획조정부장이고, 그들의 공동작업”이라고 말했다. 김 특검보는 “박성재 전 장관이 김용현 전 국방부 장관으로부터 재판권 이양 등에 대한 총괄적인 검토 지시를 받았고, 이를 심 전 총장에게 전달했다”며 “헌법을 지키고자 하는 시민의 관점에서 보면 이들 전체는 공동 범죄자들”이라고 했다.&lt;br&gt;&lt;br&gt;그러나 특검의 주장과 달리 법원이 심 전 총장과 전 전 검사장에 대한 구속영장을 기각하며 수사 기한 종료를 앞둔 특검의 신병 확보 계획에 제동이 걸리게 됐다. 지난 2월 출범한 특검은 오는 24일 활동을 종료할 예정이다. 특검은 수사기간을 1개월 연장하는 등의 내용을 담은 특검법 개정 요청안을 지난 1일 국회에 보냈고, 국회 법제사법위원회는 지난 15일 특검법 개정안을 더불어민주당 주도로 의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NIPLTQMUNZAOTCO5UD6MDV554Y.JPG?auth=524b0a208f37260e8b26f5f34add3e5c26982401fe9bbdded2a581e1f8f7d843&amp;smart=true&amp;width=1931&amp;height=1086" type="image/jpeg" height="1086" width="1931">
-        <media:description type="plain">12·3 비상계엄 내란 가담 및 직권남용 혐의를 받고 있는 심우정 전 검찰총장이 16일 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 법원을 나서고 있다. 2026.7.16 ⓒ 뉴스1 이호윤 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>안규백 탈영 의혹의 전말 “청와대·민주당, 알고도 뭉갰나” [흑백여의도]</title>
