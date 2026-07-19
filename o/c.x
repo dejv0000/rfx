@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 尹, ‘징역 7년’ 체포방해 사건 재판소원 안 하기로</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/19/OPVBGBA42NH4RNSKETNJC4MYEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/19/OPVBGBA42NH4RNSKETNJC4MYEQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jul 2026 10:04:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJ76Z5EXMREMFHZTRPLAANHRYQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 대법원에서 유죄가 확정된 체포방해 혐의 사건에 대한 재판소원을 하지 않기로 했다. &lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면, 윤 전 대통령은 특수공무집행방해와 직권남용 혐의에 대해 지난 9일 항소심대로 징역 7년을 확정한 대법원 3부(주심 이숙연 대법관) 선고를 받아들이기로 했다. 선고 직후 윤 전 대통령 측은 “원심(항소심)에서 법리적으로 잘못된 부분을 대법원이 제대로 심리하지 않고 바로잡지 않아 굉장히 유감”이라면서 “헌법재판소에 재판소원을 제기할 지 검토하고 있다”고 했다. 윤 전 대통령 본인도 당시에는 “재판소원을 해야 한다”는 입장이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 윤 전 대통령 변호인단은 재판소원을 하지 않기로 방침을 정했다. 법조계에서는 윤 전 대통령 측이 재판소원을 하더라도 사건 성격상 헌재가 대법원 선고를 뒤집을 가능성이 크지 않다고 판단했을 것이라는 해석이 나온다. 또한 마지막까지 사법부 판단에 불복하는 것으로 비칠 수 있다는 점을 윤 전 대통령 측이 고려했을 것이라는 분석도 있다. 윤 전 대통령 본인도 재판소원을 하지 않는 게 좋겠다는 뜻을 변호인단에게 전달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 사건은 12·3 비상계엄과 관련한 윤 전 대통령 사건 첫 대법원 선고이다. 윤 전 대통령은 2024년 12월 3일 비상계엄을 선포하기 직전 일부 국무위원만 소집해 다른 국무위원들의 심의권 행사를 방해하고, 작년 1월 대통령경호처를 동원해 공위공직자범죄수사처의 체포·수색영장 집행을 조직적으로 막은 혐의 등으로 재판에 넘겨졌었다.&lt;br&gt;&lt;br&gt;이 사건 외에 윤 전 대통령이 현재 받고 있는 재판은 7개이다. ‘내란 우두머리’ 사건, 평양 무인기 침투(일반이적) 사건, 한덕수 전 국무총리 재판 위증 사건, 무상 여론조사 수수 사건(정치자금법 위반) 등 4건은 1심 결과까지 나왔다. 각각 윤 전 대통령에게 무기징역, 징역 30년, 무죄, 징역 2년이 선고됐다.&lt;br&gt;&lt;br&gt;남은 3개 사건은 1심 단계다. 27일에는 윤 전 대통령이 대통령 선거 후보 시절 언론 인터뷰 등에서 허위 사실을 공표한 혐의(공직선거법 위반)에 대한 1심 선고가 있다. 순직 해병 사건 수사 외압 의혹(직권남용), 이종섭 전 국방부 장관 해외 도피 의혹(범인도피 등)은 심리 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>합수본, “21대 대선 투표용지 부족 사태' 내부 공유 안 돼” 진술 확보  </title>
       <link>https://www.chosun.com/national/court_law/2026/07/19/4MR3AYMQ3VDDRBSKJ4VL4IEEJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/19/4MR3AYMQ3VDDRBSKJ4VL4IEEJI/</guid>
@@ -957,16 +966,6 @@ JANG</media:credit>
       <media:content url="https://www.chosun.com/resizer/v2/3UTUOXTFCBACJBKDU225CEJXUE.jpg?auth=a03ffc01b0d087d0398d758171a5a26412b54759ab64058a195b4495101ce0d8&amp;smart=true&amp;width=700&amp;height=520" type="image/jpeg" height="520" width="700">
         <media:description type="plain">남부 지방에서 극심한 가뭄이 이어지는 가운데 지난 14일 전남 화순 동복댐 주변으로 바닥이 드러나 있다. /김영근 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘미끄럽다’는 ‘slippery’와 ’slick’의 미묘한 차이</title>
-      <link>https://www.chosun.com/national/education/2026/07/17/A3Z4ICQSJNEXLGBGW7HEWOQ6KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/17/A3Z4ICQSJNEXLGBGW7HEWOQ6KQ/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jul 2026 18:00:00 +0000</pubDate>
-      <content:encoded>미국 나이아가라 폭포의 거대한 물줄기를 바로 옆에서 감상하는 터널 산책로를 걷고 있습니다. 사방으로 흩날리는 물보라와 웅장한 대자연의 소리에 감탄하고 있는데, 갑자기 형광 조끼를 입은 안전 요원이 다가와 바닥을 가리키며 큰소리를 칩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXGFDL44TRALDG7C3JZOMABYZQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“Watch out, the rocks are extremely slick.”&lt;br&gt;&lt;br&gt;바닥이 미끄럽다고 조심하라고 말해주는 것 같기는 한데, 우리가 일반적으로 아는 형용사 ‘slippery’가 아닌 ‘slick’이라는 단어를 쓰니까 잠시 헷갈립니다.&lt;br&gt;&lt;br&gt;두 단어 사이에는 약간의 차이가 있습니다. ‘slippery’는 기름이나 얼음 때문에 미끄러운 일반적인 상황에 두루 쓰이는 데 비해, 폭포의 물보라나 이끼 때문에 바닥이나 바위에 얇은 수막이 형성돼 미끈거린다는 의미로는 ‘slick’을 씁니다. ‘겉만 번드르르한’ ‘말만 번지르르한’이라고 할 때도 ‘slick’으로 표현합니다.&lt;br&gt;&lt;br&gt;“Are sneakers safe enough for this slick trail?” (운동화로 이 미끄러운 산책로를 가도 안전할까요?)&lt;br&gt;&lt;br&gt;“Do I need proper hiking boots for this path?” (이 길을 가려면 제대로 된 등산화가 필요할까요?)&lt;br&gt;&lt;br&gt;“Would you recommend different shoes for this area?” (이 구역엔 다른 신발을 추천하시나요?)&lt;br&gt;&lt;br&gt;“Hold onto the railing, the wooden deck is very slick.” (난간을 꼭 붙잡으세요, 나무 데크가 아주 미끄러워요.)&lt;br&gt;&lt;br&gt;“Watch your step, it’s pretty slick through here.” (발밑 조심해요. 이 구간이 꽤 미끄러워요.)&lt;br&gt;&lt;br&gt;“Is the area beyond this gate closed due to the conditions?” (이 게이트 너머는 상태가 안 좋아 폐쇄된 건가요?)&lt;br&gt;&lt;br&gt;“Is it safe to go past this point?” (이 지점을 지나가도 안전한가요?)&lt;br&gt;&lt;br&gt;“Please stay behind the barrier.” (차단선 뒤에 머물러 주세요.)&lt;br&gt;&lt;br&gt;“Watch your footing along here.” (이 구간에서는 발밑을 조심하세요.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;Watch out for ~&lt;/mark&gt;”은 “&lt;mark class="hl_yellow"&gt;~을 조심하세요&lt;/mark&gt;”라는 뜻으로, 상대방에게 위험 요소나 주의할 점을 짧고 명확하게 알려줄 때 흔히 쓰는 표현입니다.&lt;br&gt;&lt;br&gt;“Watch out for slippery spots ahead.” (앞쪽 미끄러운 곳 조심하세요.)&lt;br&gt;&lt;br&gt;“Watch out for low ceilings here.” (여기 낮은 천장 조심하세요.)&lt;br&gt;&lt;br&gt;“Watch out for the gap between the boards.” (판자 사이 틈 조심하세요.)&lt;br&gt;&lt;br&gt;“Watch out for loose gravel on the trail.” (산책로에 흩어진 자갈 조심하세요.)&lt;br&gt;&lt;br&gt;“Watch out for the spray from the falls.” (폭포에서 튀는 물 조심하세요.)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/V7BJYBRHDRGIJB6AVPE6VCCPDM.png?auth=4387efe5bb3eba26f804b3d536ce64c7bb59b157b543e31e000acd0258d1516c&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800"/>
     </item>
     <item>
       <title>서울 노원 철도공원은 워터파크로, 인천 전철 고가는 수영장으로</title>
