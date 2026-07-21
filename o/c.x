@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>컨테이너 운임 10주 연속 상승 이후 2주 연속 하락</title>
+      <link>https://www.chosun.com/national/regional/2026/07/22/4TPHOZQDBVDARBDE327IWXOJ6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/22/4TPHOZQDBVDARBDE327IWXOJ6M/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 22:09:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSTJD7BITNLOBCJT3PTX3JG2VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남구 신선대 부두 야적장에 수출입 컨테이너가 쌓여 있는 모습. /뉴시스  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중동 전쟁 이후 가파르게 상승했던 한국형 컨테이너 운임 지수(KCCI)가 2주 연속 하락했다. 7월 들어 선사들이 선복(선박 내 화물 적치 공간)을 늘리고, 운임 인상분을 조정했기 때문이다.&lt;br&gt;&lt;br&gt;22일 한국해양진흥공사(해진공)에 따르면, 지난 20일 기준 KCCI는 지난주보다 114포인트(2.6%) 내린 4204포인트를 기록했다. 글로벌 운임 지표인 상하이컨테이너운임지수(SCFI)도 지난주보다 104.51포인트(3.3%) 내린 3080.31포인트였다.&lt;br&gt;&lt;br&gt;KCCI는 해진공이 자체적으로 개발해 발표하는 한국형 컨테이너 운임 지수로, 2022년 7월부터 매주 월요일에 발표하고 있다. 이 지수는 부산항을 기점으로 미주, 유럽, 중동, 연근해(중국·일본·동남아)로 향하는 13개 주요 항로의 컨테이너선 운임 변화를 쉽게 파악할 수 있도록 설계됐다.&lt;br&gt;&lt;br&gt;컨테이너선 시장의 성수기는 7~9월이다. 이 시기엔 미국과 유럽의 블랙프라이데이, 크리스마스, 새해 등 쇼핑 시즌을 앞두고 장난감이나 가전제품, 의류 등 소비재 선적이 집중되기 때문이다. 또 올해엔 미국 관세 정책의 불확실성이 커지면서 미리 화물을 실으려는 경쟁이 치열해 성수기가 빨리 찾아왔다. 이 때문에 선복이 부족했고, 컨테이너 운임은 꾸준히 상승했다.&lt;br&gt;&lt;br&gt;하지만 선사들이 태평양 항로에 추가 선복을 배치하고, 7월 들어 조기 선적 물량이 감소하면서 일부 항차에선 예약 여유가 생겼다. 특히 미주 서안 운임은 한 주 만에 8% 하락했다. &lt;br&gt;&lt;br&gt;해진공 관계자는 “선복 부족 국면이 완화되고 있음을 보여준다”고 했다.&lt;br&gt;&lt;br&gt;세부적으로 미주 항로에선 태평양 항로를 중심으로 선복 공급이 확대되면서 미주 서안 운임이 큰 폭으로 조정됐다. 반면 미주 동안은 긴 항해 거리와 항만 운영 부담이 이어지며 보합세를 유지했다.&lt;br&gt;&lt;br&gt;해진공 관계자는 “유럽 항로에선 컨테이너선 운임이 항만 혼잡과 희망봉 우회가 지속되는 한 높은 수준에서의 완만한 조정과 일시적인 반등이 반복될 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;중동 항로는 미주 동안과 함께 운임이 상승한 원양 항로다. 호르무즈 해협의 안정적인 통항이 확인되기 전까지 다른 항로보다 높은 변동성을 유지할 가능성이 큰 것으로 분석됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학 연구실이 아니라, 교수 딸 ‘입시 스펙’ 만드는 공장이었다</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/22/P7AAHE3B3RCTFGVFIMPBTFDCLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/22/P7AAHE3B3RCTFGVFIMPBTFDCLI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZICP3PY4KZHPJESGGOZHHX56OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 유명 사립대 교수가 딸을 명문대 학부와 서울대 치의학전문대학원에 합격시키려고 대학원생 제자들을 동원해 딸의 논문과 수상 실적을 조작한 사건이 7년 만에 대법원에서 마침표를 찍었다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 천대엽 대법관)는 업무방해·사기 혐의로 기소된 전직 교수 이모씨에게 징역 3년 6개월을 선고한 원심을 확정했다고 22일 밝혔다. 함께 기소된 딸 A씨에게도 징역 10개월에 집행유예 2년이 확정됐다.&lt;br&gt;&lt;br&gt;이 사건은 교수의 갑질과 입시비리가 동시에 드러나 큰 충격을 줬고, 2019년 비슷한 시기에 불거진 조국 전 조국혁신당 대표의 자녀 입시비리 사건과 겹쳐 주목받았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇제자 시켜 딸 논문 대필에 봉사활동 대행까지&lt;/b&gt;&lt;br&gt;&lt;br&gt;사건은 이씨의 딸 A씨가 고등학교 2학년이던 2012년 시작됐다. 이씨는 연구실 대학원생들에게 이듬해 국제청소년학술대회에 참가할 딸을 대신해 동물실험을 하라고 지시했다. 대학원생들은 실험뿐 아니라 학술대회에 제출할 실험 최종보고서와 발표 자료를 만들었고, 딸 명의의 연구일지는 이씨가 직접 썼다. 이런 도움으로 A씨는 학술대회에서 상을 탔고, 이 실적으로 한 명문대 수시 ‘과학인재특별전형’에 합격했다. 해당 전형은 수능 점수를 보지 않고 학생부와 자기소개서, 특기 활동을 중심으로 뽑는 방식이었다.&lt;br&gt;&lt;br&gt;대학 합격으로 끝난 게 아니었다. 이씨는 2016년 딸이 지원한 학부생 연구 프로그램 과제를 위해 대학원생들에게 ‘스트레스 유도 동물실험’을 지시했다. 대학원생들은 역할을 나눠 약 3개월간 실험을 진행했지만, A씨는 이 기간 참관 목적으로 두세 차례 연구실을 방문한 게 전부였다. 심지어 A씨는 실험이 한창 진행 중이던 시기 캐나다로 교환학생을 떠나기도 했다. 실험 결과가 애초 가설과 다르게 나오자, 이씨는 대학원생들에게 결과값을 조작하도록 지시하기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이렇게 만들어진 논문은 이듬해 A씨를 단독 저자로 SCI급 학술지에 실렸다. A씨는 대학원생들이 대신 작성한 보고서로 한국과학창의재단에서 상을 받기도 했다. 대학원생 한 명은 A씨 대신 시각장애인용 도서의 점자를 입력해 54시간의 봉사활동 실적을 만들어주기도 했다.&lt;br&gt;&lt;br&gt;A씨가 대학 재학 중 얻은 논문·수상·봉사활동 실적은 2018학년도 서울대 치의학전문대학원(치전원) 입시 자기소개서에 고스란히 담겼다. A씨는 영어·국어 능력과 학부 성적 등을 따지는 정량평가만 놓고 보면 지원자 165명 중 114등이었다. 하지만 연구 실적을 반영하는 정성평가에서 높은 점수를 받으면서 1단계 합격권인 68등까지 뛰어올랐다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇법원 “교육시스템과 공정 경쟁 훼손한 중범죄”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 사건은 이씨가 딸의 입시 준비를 위해 연구실 대학원생들을 사적으로 동원했다는 제보가 교육부에 접수되면서 드러났다. 교육부는 2019년 1~2월 특별조사를 벌인 뒤 같은 해 3월 조사 결과를 발표했다. 교육부는 해당 대학에 이씨의 파면을 요구하고, 이씨 모녀를 업무방해 등의 혐의로 검찰에 수사 의뢰했다. 검찰은 그해 5월 이씨 모녀를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;이씨에게는 입시 비리 외에 사기 혐의도 함께 적용됐다. 연구에 참여하지 않은 학생을 참여 연구원으로 등록하는 등 대학원생 인건비 약 2억2900만원을 부정하게 지급받은 의혹을 받은 것이다. 이씨는 대학원생들에게 지급된 인건비 가운데 일부를 현금으로 돌려받아 공동 관리하거나 사적으로 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 2024년 이씨에게 징역 3년 6개월, 딸에게 징역 10개월에 집행유예 2년을 선고했다. 재판부는 A씨에게 “입시 공정성에 대한 신뢰를 훼손하는 행위로, 우리 사회에서 학벌이 사회적 지위에 미치는 영향이 지대하다는 점에서 가볍게 여길 수 없는 중범죄”라고 했다.&lt;br&gt;&lt;br&gt;재판부는 특히 “교수의 부당한 지시를 거절하기 어려운 대학원생들을 딸의 입시를 위해 동원했다”고 지적했다. 대학원생들은 자신의 연구와 무관한 동물실험과 보고서 작성에 매달렸고, 실험 데이터 조작까지 요구받았다는 것이다. 재판부는 “대학원생들이 본인들의 연구에 몰두할 수 없었을 것이 명백하다”고 지적했다.&lt;br&gt;&lt;br&gt;이씨는 항소심에서 산학협력단에 환수금과 제재금 약 1억2500만원을 반환하며 선처를 호소했지만 통하지 않았다. 항소심 재판부는 오히려 이씨가 범행 후 대학원생들의 진술을 회유하거나 고소하겠다고 겁박한 정황을 지적하면서 “반성에서 비롯된 자발적인 피해 회복으로 보기 어렵다”고 했다. 항소심 재판부는 그러면서 “교육체계와 공정한 경쟁 시스템을 훼손하고, 공정한 경쟁을 위해 최선을 다해 온 입시생과 학부모들에 대한 배신행위”라고 지적했다. 모녀의 형량은 항소심에서도 유지됐고 대법원에서 그대로 확정됐다.&lt;br&gt;&lt;br&gt;한편, 2019년 사건이 불거지자 서울대는 A씨의 치전원 입학을 취소했다. A씨는 입학 취소는 부당하다며 무효 소송까지 냈지만 지난해 3월 대법원에서 최종 패소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 인권위원장 “인권위 결정 폐기하고 사과하는 건 법치국가서 용납 안돼”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/22/QWF767CBDRGNRGURBKIHH6HSIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/22/QWF767CBDRGNRGURBKIHH6HSIY/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZ6MGXFFVBOHFABVUCOJRBL4GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 안창호 국가인위원회 위원장이 서울 중구 국가인권위원회에서 열린 23차 상임위원회에 참석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회는 내달 열리는 전원위원회에서 ‘윤석열 방어권 보장 권고 폐기’ 안건을 상정하는 것이 적절할지를 두고 논의한다. 이날 안창호 위원장은 “기존 결정을 폐기하고 사과한다는 건 법치 국가에서 도저히 용납될 수 없다”는 취지의 입장을 전할 것으로 알려졌다. &lt;br&gt;&lt;br&gt;인권위는 내달 24일 전원위에서 ‘윤석열 방어권 보장 권고 폐기’ 안건에 대한 논의를 이어갈 예정이다. 앞서 지난 10일 이숙진·오완호 상임위원을 비롯한 인권위원 5명은 지난 10일 ‘윤석열 대통령 방어권 보장 권고안 폐기 및 대국민 사과’ 안건을 발의했다. 지난 13일 전원위에서 해당 안건의 상정 여부를 둘러싼 합의를 보지 못해 8월 전원위에서 다시 논의를 이어가게 됐다. &lt;br&gt;&lt;br&gt;해당 안건을 발의한 진보 성향 위원들은 그동안 ‘윤석열 방어권 보장 권고’ 등을 이유로 안 위원장이 12·3 비상계엄을 옹호하고 국민의 인권 보호에는 무관심했다고 주장해왔다. 하지만 기존 인권위 결정과 행보를 살펴보면 이 같은 주장은 사실과 부합하지 않는 부분이 있다.&lt;br&gt;&lt;br&gt;우선 안 위원장은 계엄 직후인 2024년 12월 11일 위원장 명의의 성명을 낸 바 있다. 당시 안 위원장은 성명에서 “모든 국가 권력은 국민으로부터 위임받은 것이므로 헌법과 법률이 정한 절차에 따라 국민이 납득할 수 있는 방식으로 공정하고 정의롭게 행사되어야 한다”며 계엄이 결코 정당한 권력 행사가 아니었음을 지적했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKGHOQZOLVESRJQFVXV2OO3AQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 2번째 탄핵소추안 표결이 진행됐던 지난해 14일 오후 서울 여의도 국회의사당 인근에서 시민들이 피켓과 응원봉을 들고 시위를 하고 있다./박성원 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인권위는 계엄 국면에서 발생할 수 있는 국민의 인권 침해 상황도 꾸준히 모니터링해온 것으로 확인됐다. 윤 전 대통령의 대국민 담화가 진행된 2024년 12월 7일, 윤 전 대통령에 대한 탄핵소추안이 가결된 2024년 12월 14일, 윤 전 대통령에 대한 체포 영장이 집행된 2025년 1월 15일, 그리고 대통령 탄핵 심판 선고 당일인 2025년 4월 4일 등 총 4차례 집회 현장에 조사관들을 파견했다. 집회 참가자와 경찰 간 충돌 등 혹시 모를 인권 침해 상황을 살피기 위함이었다. 또 지난해 5월 7일에는 계엄에 동원됐던 군 장병들의 인권 침해 현황을 살피기 위한 방문 조사를 실시한 뒤, 국방부 장관에게 해당 장병들에 대한 보호 조치를 권고하기도 했다. &lt;br&gt;&lt;br&gt;진보 성향 인권위원들은 안 위원장이 서부지법 사태를 옹호했다는 지적도 해왔다. “공정성에 대해서 의심이 날 때는 사람들이 결론 여하를 불문하고 막 쳐들어가는 거다. 그게 서부 사태”라는 안 위원장의 녹취 등이 그 이유였다. &lt;br&gt;&lt;br&gt;하지만 윤석열 방어권 보장 권고가 통과된 지난해 2월 10일 인권위 결정문에는 ‘서부지법 사태의 재발을 막기 위해 탄핵 심판 과정에서 절차적 정당성을 확보하는 게 중요하다’는 내용이 담겼다. “국가기관의 권력 행사가 공정성과 객관성을 의심받을 때에는 의견이 다른 사람들 상호 간에 충돌 또는 그 권력 행사의 결과에 대해 불만을 가진 사람들의 자해, 국가기관 난입과 그에 따른 구속 등으로 국민의 생명과 신체·안전과 관련되는 인권 문제가 야기될 수 있다” 등의 내용이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJQTQOLGHFTGGMDFMJTDINJQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙진·오영근 상임위원과 조숙현·소라미·김민문정·오영근 비상임위원이 국가인권위원회(인권위) 접견실에 항의 방문해 안창호 인권위원장을 만나고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쉽게 말해, 재판 결과 불복으로 인한 ‘제2의 서부지법 사태’가 벌어지지 않도록 사전에 법적 절차를 잘 지키라는 권고였던 것이다. 안 위원장 역시 여러 차례 이 같은 취지의 발언을 내놓은 바 있다. 하지만 일부 위원은 안 위원장이 마치 서부지법 사태를 옹호한 것처럼 발언해왔다. &lt;br&gt;&lt;br&gt;한편 안 위원장은 내달 24일 진행되는 전원위에서 이 같은 내용을 비롯해 “기존 결정을 폐기하고 사과한다는 의견은 법치 국가에서는 도저히 용납될 수 없다”는 내용의 입장을 전할 예정이다. 윤석열 방어권 권고는 이미 해당 기관에서 ‘권고 수용’ 의사를 밝힌 데다, 기존 결정을 번복하면 법적 안정성 측면에서 적절치 않다는 이유에서다. &lt;br&gt;&lt;br&gt;다만 ‘윤석열 방어권 권고 폐지’ 안건이 전원위에 실제 상정될 경우, 현재 진보 성향 위원이 과반(11명 중 6명)을 차지하고 있어 통과 가능성이 크다는 관측이 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“배재고 학생들 인권 침해 막아달라”… 인권위 아동권리위는 ‘일단 외면’</title>
       <link>https://www.chosun.com/national/national_general/2026/07/22/BLH4MBAPUVGXFOX27ACPSRZHOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/22/BLH4MBAPUVGXFOX27ACPSRZHOA/</guid>
@@ -870,34 +898,6 @@
       <pubDate>Mon, 20 Jul 2026 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDV2P72XLNGQZEZ7Q2M6EHGCTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 대전 동구 우암사적공원 남간정사에 붉은색 배롱나무꽃이 활짝 폈다. 관광객들이 기념사진을 찍고 있다. 배롱나무꽃은 7~9월 약 100일간 펴 백일홍이라고도 불린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배재고·탱크데이… 정치 이슈도 학교서 다룬다</title>
-      <link>https://www.chosun.com/national/education/2026/07/21/MJ5N2SAOAJEF3ICSKKWPVZHLAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/21/MJ5N2SAOAJEF3ICSKKWPVZHLAQ/</guid>
-      <dc:creator>황규락 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYA6WI7MXRIKDFSHY6UY2GFLH4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 강동구 배재고등학교 앞에 배재고등학교 야구부를 비판하는 근조화환과 응원하는 화환이 놓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 직속 국가교육위원회가 학교 정치 교육의 원칙을 담은 독일의 보이텔스바흐 합의를 본떠 ‘학교시민교육 원칙’을 만든다. 사회적으로 견해가 나뉘는 사안을 적극적으로 다루도록 하는 내용 등이 담긴다. 공공의 문제에 대한 학생들의 판단력을 키워주자는 취지이지만, 교사가 균형 잡힌 시각으로 수업을 하지 않을 경우 오히려 부작용이 클 수 있다는 우려가 제기된다. &lt;br&gt;&lt;br&gt;국가교육위원회는 20일 ‘학교시민교육 국가 기본원칙(안)’을 공개하고 국민 의견 수렴에 나선다고 밝혔다. 정치 양극화, 극단적 진영 논리로 인한 사회 갈등이 학생들에게 영향을 주고 있는 만큼 학교에서 이를 제대로 교육해 시민 역량을 길러주자는 것이다. 국교위는 작년 12월부터 민주시민교육 특별위원회를 꾸려 이를 논의해왔다. 특히 최근 스타벅스의 5·18 ‘탱크데이’ 이벤트와 서울 배재고 야구부의 ‘탱크데이’ 응원이 논란이 되면서 교육 필요성이 커졌다는 것이다. &lt;br&gt;&lt;br&gt;국교위는 “교실이 사회적 갈등의 각축장이 아닌 ‘성숙한 민주주의의 배움터’가 돼야 한다”며 “독일의 보이텔스바흐 합의를 거울 삼아 우리만의 기본 원칙을 만들었다”고 했다. ‘한국판 보이텔스바흐 합의’를 표방한 것이다. 보이텔스바흐 합의는 1976년 서독에서 만들어진 학교 정치 교육의 가이드라인이다. 당시 정치적 대립으로 학교 교육이 한쪽 이념을 주입하는 도구가 될 수 있다는 우려가 커지자 진보·보수 양측 인사들이 논의해 만들었다. &lt;br&gt;&lt;br&gt;국교위는 기본 원칙(안)에서 학생들에게 헌법과 민주사회의 가치, 혐오와 차별, 극단주의를 배격하도록 가르치겠다고 밝혔다. 그러면서 교사가 사회적 견해가 나뉘는 사안을 가르칠 때는 다양한 관점을 제시해 논쟁성 자체를 학습의 기회로 삼도록 한다고 했다. &lt;br&gt;&lt;br&gt;이 안이 확정되면 학교에선 정치·사회적 현안에 대한 교육이 활발히 이뤄질 것이란 전망이 나온다. 시안에 ‘학교는 정치·경제·사회·문화 등 모든 영역에서 발생하는 시의성 있는 공적 사안들을 교육 활동 주제로 적극 수용하여 다룬다’는 조항(제13조)이 있기 때문이다. 또 교사들이 적극적으로 이 교육을 하도록 ‘면책 조항’(제5조)도 마련했다. ‘교육자가 교육적 의사를 가지고 기본 원칙에 따라 수행한 정당한 학교 시민 교육 활동은 민사·형사·행정상 책임의 대상이 되지 않도록 보호한다’는 내용이다. &lt;br&gt;&lt;br&gt;교육계에선 “‘정치 편향 수업’이 더 늘어날 것”이란 우려가 나온다. 교육부에 따르면 ‘교사의 정치적 발언’ 관련 민원은 2023년 28건에서 지난해 75건으로 증가했다. 현행법상 교사는 ‘정치적 중립 의무’가 있는데도 편향된 발언을 한 경우가 많은 것이다. 적발된 경우에도 경징계에 그치는 경우가 많다. 교육계 관계자는 “정치 현안을 다루는 수업을 적극 권장하면서도, 정작 편향된 수업을 제지하거나 처벌할 수단은 부족하다”며 “이 때문에 선거 국면처럼 민감한 시기에 학교 구성원 간 갈등이 더 커질 수 있다”고 했다. 국교위는 이달 중 온라인과 현장 토론회를 통해 시안에 대한 국민 의견을 수렴한 뒤 이르면 다음 달 전체 회의에서 논의할 예정이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞독일 보이텔스바흐 협의&lt;/b&gt;&lt;br&gt;&lt;br&gt;1976년 독일의 보수와 진보를 대표하는 지식인들이 소도시 보이텔스바흐에서 수차례 회의 끝에 합의한 정치 교육 원칙. 교사가 특정 정치 입장을 학생에게 강제로 주입하는 것을 금지하고, 논쟁적인 사안은 찬반 입장을 모두 다루며, 학생이 자율적으로 판단하는 능력을 키우도록 한다는 내용이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광화문광장에서 즐기는 엄마와 모래놀이</title>
-      <link>https://www.chosun.com/national/education/2026/07/21/QE6NUWIX3VHJDIEKC3WCR3MRAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/21/QE6NUWIX3VHJDIEKC3WCR3MRAQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X633UFVQ6VBGPPNRRF2MPNWPXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 서울 광화문 광장에서 진행된 ’2026 서울썸머비치‘ 축제를 위해 마련된 에어돔 내 ’샌드 아지트’(모래 놀이터)에서 한 아이가 엄마와 함께 모래를 갖고 놀고 있는 모습. 도심에서 물놀이 등을 즐길 수 있는 서울썸머비치는 다음달 9일까지 이어진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/07/21/ARXE4G5K5JDQDBJQOTJZORVOVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/07/21/ARXE4G5K5JDQDBJQOTJZORVOVM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;법무부&lt;/b&gt;◇고위공무원 승진▷국적·통합정책단장 한재용&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국세청&lt;/b&gt;◇국장급 승진▷서울지방국세청 성실납세지원국장 장우정▷중부지방국세청 징세송무국장 강동훈◇부이사관 전보▷서울지방국세청 감사관 전애진▷징세관 박근재▷대구지방국세청 조사1국장 김동현&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘尹 관저 이전 부실 감사’ 유병호 감사위원 구속</title>
