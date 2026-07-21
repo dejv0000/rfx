@@ -13,6 +13,124 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[입에 착착 붙는 일본어] 한여름이다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2026/07/22/XNQEJP5SVVGKHLSGHOQS46QKFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/07/22/XNQEJP5SVVGKHLSGHOQS46QKFA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6GF77JKMRF7FHOWZQO7WDT5II.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 선미(船尾)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2026/07/22/IDIZIVFCNVDWTHG2WBR2R75JBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/22/IDIZIVFCNVDWTHG2WBR2R75JBA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHTVLFER4RAQJKF4KDUYE3YUYQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2912] 초성 이어가기</title>
+      <link>https://www.chosun.com/national/nie/2026/07/22/HGWRTA7KIBFB5PW2WQKZSSXWFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/22/HGWRTA7KIBFB5PW2WQKZSSXWFE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKR7DS545VHSDE436FJWN26CXA.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] at the expense of ~</title>
+      <link>https://www.chosun.com/national/nie/english/2026/07/22/H35ZMDW54JCGPA4LRNPHCKGTFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/07/22/H35ZMDW54JCGPA4LRNPHCKGTFU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBMLRPOTBFA5PNHZ2K7LSNBLKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 단색, 무지</title>
+      <link>https://www.chosun.com/national/nie/chinese/2026/07/22/ZSJ2OI3XTNGPJLPTRN4Y5W4JUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/07/22/ZSJ2OI3XTNGPJLPTRN4Y5W4JUY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKTSFIRJRJA35D3FKLIDGRRTQI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>반도체 부지 ‘평당 1000원’ 승부수… “구미의 전성기, 다시 시작”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/22/RS7H4SOXUBC3LJ4MCDVOBYDKAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/22/RS7H4SOXUBC3LJ4MCDVOBYDKAU/</guid>
+      <dc:creator>구미=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJSAYO2MPZHUDCHHVAAHKKUKRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 4월 촬영된 경북 구미시의 구미국가산업5단지 전경. 구미시는 올해 하반기부터 반도체 기업을 대상으로 이 곳 2단계 산업용지 271만㎡(약 82만평)을 평당 1000원에 제공할 방침이다. 구미시는 반도체 입지로서 풍부한 전력과 용수, 넓고 저렴한 산업용지 등을 장점으로 내세우고 있다. 반도체를 비롯한 첨단 산업을 토대로 지역 경제를 살리기 위해서다. /구미시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미시는 국내 산업계에 돌풍을 일으키고 있는 도시다. 한때 삼성과 LG 등 대기업이 떠나가면서 ‘첨단 산업의 요람’으로 불리던 구미국가산업단지가 위기라는 말도 돌았다.&lt;br&gt;&lt;br&gt;하지만 반도체와 방위 산업을 핵심 산업으로 육성하면서 반도체 특화 단지와 방산 혁신 클러스터 지정을 이끌어냈고, 이제는 로봇과 인공지능(AI) 분야에도 손을 뻗치고 있다. 지역 곳곳에서도 ‘구미 산업의 진짜 전성기는 이제부터 시작’이라는 목소리가 나온다.&lt;br&gt;&lt;br&gt;김장호 구미시장은 21일 본지 통화에서 “구미가 대한민국 산업의 중심으로 재도약하도록 경제 전반을 면밀히 살피겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇구미가 키운 반도체, 19조 투자 끌어내&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3W3XMLURJJAF5P6I2O4HUJFZCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 구미문화예술회관에서 열린 취임식에서 김장호 구미시장과 참석자들이 ‘반도체 포기는 없다’는 문구가 적힌 팻말을 들고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구미의 잠재력은 정부가 먼저 주목했다. 정부는 지난 3일 영남권 첨단 산업 발전 비전 국민 보고회에서 구미를 로봇과 반도체 소재·부품·장비(소부장) 중심의 ‘제조 AX(AI 전환) 혁신 거점’으로 육성하기로 했다. 이에 발맞춰 삼성전자와 삼성SDS도 구미에 ‘피지컬 AI 휴머노이드 로봇’ 양산 라인을 포함한 19조원 규모의 투자 계획을 발표했다. 노태문 삼성전자 사장이 보고회에서 이재명 대통령에게 “구미를 로봇 특화단지로 지정해 달라”고 직접 요청하기도 했다.&lt;br&gt;&lt;br&gt;구미시는 반도체 산업 입지가 갖춰야 할 전력·용수·부지 및 인재 분야에서 강점을 지닌 도시다. 경북은 전력 자립도가 251%로 전국 지방자치단체 중 1위다. 근처 낙동강에서도 하루 68만t(톤)의 공업 용수가 공급되며, 271만㎡(약 82만평) 규모의 산업용지도 준비돼 있다. SK실트론, LG이노텍, KEC, 원익큐엔씨 등 309곳에 달하는 반도체 소부장 기업이 밀집해 있다. 올해부터는 반도체 제조 공장(팹·fab) 유치를 위해 구미 5산단 부지를 다이소 물건보다 싼 ‘평당 1000원’에 내놓기도 했다.&lt;br&gt;&lt;br&gt;지역 내 금오공대에선 반도체 특성화 대학 지원 사업을, 구미대에선 첨단 산업 인재 양성 부트캠프 사업을 추진 중이며, 대구경북과학기술원(DGIST) 공학전문대학원 구미캠퍼스가 육성하는 전문 공학 인재 등 반도체 산업에 필요한 인력 공급도 원활하다. 재직자 대상으로도 반도체 특화 단지 소부장 특화 인력 양성 사업을 추진해 교육과 훈련을 병행하고 있다. 특히 반도체 웨이퍼 기업인 SK실트론과 함께 지역 고등학생들을 대상으로 진행한 반도체 교육 참여 인원은 2024년 1699명에서 올해 2005명으로 늘어났다. 구미시는 향후 반도체 소부장 콤플렉스 구축, 국가첨단전략산업단지 신규 조성 등을 비롯한 대형 프로젝트를 정부에 건의할 방침이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇방위산업도 소부장 특화 단지 유치 추진&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLZ24MIB5ZAAFKCQ3STLOOKO5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 9월 구미에 있는 컨벤션센터 구미코에서 열린 항공방위물류박람회에 참가한 방산기업 한화시스템과 LIG D&amp;A.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한화시스템·LIG D&amp;amp;A 등 기업들이 이끌어가는 방위산업 역시 구미를 살려낸 미래 먹거리다. 구미시는 올해 4월 정부에 신청한 ‘방위산업 소부장 특화 단지’ 지정에 힘을 쏟고 있다. 방위산업 소부장 특화 단지에 지정되면 기술 개발 기반과, 제품을 실증할 수 있는 테스트베드가 구축되며, 산업 맞춤형 전문 기술 인력을 키울 때도 지원을 받을 수 있다.&lt;br&gt;&lt;br&gt;이와 별도로 구미시는 현재 국방 반도체 기술을 해외에 의존하는 상황에서 벗어나기 위해 기술 자립화를 추진 중이다. 구미시는 반도체 특화 단지와 방산 혁신 클러스터에 모두 지정될 만큼, 반도체·방산 융합 산업 생태계 구축에 유리한 여건을 강점으로 내세우고 있다. 올해 2월 국방 반도체 자립화를 위해 한화시스템, KEC 등 기업과 금오공대, 경운대, 구미전자정보기술원 등 12개 기관과 업무 협약을 체결했다. 2027년까지 ‘국방 상생 파운드리’ 구축과 피지컬 AI 기반 통합 실증 허브를 구축해 국방 반도체 산업 육성 생태계를 조성할 방침이다. 구미시 관계자는 “방위산업은 국가 안보에 직결된 만큼, 산업에 특화된 도시가 기술 발전과 안보의 효율성을 극대화할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇35만 방문 라면 축제 대박… 오뚜기서 2000억 투자&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVOEE4WVDFGMDOANIDOAZ3266I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 열린 구미라면축제엔 관광객 35만명이 몰렸다. 구미를 비롯해 전국의 이색 라면을 모두 맛볼 수 있는 축제였다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산업 분야 외에 관광에서도 성과를 내고 있다. 구미시는 원래 반세기 넘도록 공장의 연기만 보인다는 뜻에서 ‘회색 도시’로 불렸다. 지난 2022년 전국 최초로 라면 축제를 열면서 반전의 계기를 마련했다. 구미 1산단의 농심 공장에서 전국 신라면 75%를 생산한다는 점에 착안한 축제였다. 첫해 방문객이 1만명이었지만, 지난해 35만명이 다녀가면서 대박을 터뜨렸다. 특히 지난해엔 넷플릭스 애니메이션 ‘케이팝데몬헌터스’가 흥행하면서 작중에서 나온 컵라면 먹방이 전 세계에서 인기를 끌며 라면 축제 성공에도 영향을 미친 것으로 구미시는 분석하고 있다.&lt;br&gt;&lt;br&gt;이 성과가 알려지면서 지난 13일 대표 제품 ‘진라면’을 생산하는 오뚜기라면에서 구미시를 찾았다. 오뚜기라면은 구미2산단 일대에 2029년까지 2000억원을 투자해 해외 수출 제품 생산을 위한 공장을 신설하고 120여 명분의 새로운 일자리를 확보하기로 했다. 라면 축제 도입이 지역 경제 발전에도 기여한 셈이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OCDK2WDW5HDHBRPV4TL5LCC5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 오뚜기라면이 구미시에 2000억을 투자해 해외 수출용 생산공장을 신설하기로 협약했다. 구미시는 기존의 농심 구미공장에 이어 오뚜기라면도 품게 됐다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 라면 축제는 ‘프리미엄’을 주제로 ’2026 구미 글로벌 라면 챌린지’가 운영될 예정이다. 전 세계 관광객을 대상으로 ‘나만의 K라면 레시피 영상 공모전’을 통해 이색 라면을 선발하고, 예선 통과자는 축제에 초청해 관광객들과 함께 라면을 맛보게 한다는 방침이다. 특히 올해 축제부터는 구미라면 상설관을 조성하고 라면 축제 메뉴를 수시로 판매해 관광객들이 언제든 맛볼 수 있도록 할 계획이다.&lt;br&gt;&lt;br&gt;산업과 관광의 성공을 위해 교통 분야 사업에서도 속도를 낼 방침이다. 구미시는 1905년 경부선 개통 이후 121년간 추가적인 국가 철도 조성이 이뤄지지 않았다. 시는 올해 하반기 정부에서 발표할 제5차 국가 철도망 계획에 구미와 대구경북신공항을 잇는 연결 철도 반영을 건의하고 있다. 이와 별도로 4차 국가 철도망 계획에 반영된 서대구와 신공항을 잇는 대구경북선 내 동구미역 신설, 남부내륙철도와 연계한 KTX 구미역 정차 등도 정부에 건의할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘장윤기 사건’ 초동수사 형사과장, 구속영장 기각</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/21/6AN6BIIFURFAFIKW7SXTAQMZF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/6AN6BIIFURFAFIKW7SXTAQMZF4/</guid>
+      <dc:creator>전남광주=진창일 기자, 전남광주=강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 12:54:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7K7IABVDCJI4TGFYGD53YQ3FCA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;여고생 살해범 장윤기 사건의 초동 수사 축소·은폐 의혹을 받는 박 모 경정 21일 오전 구속 전 피의자 심문(영장실질심사)을 받기 위해 광주지방법원에 들어서기 전 취재진 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여고생 살해범 장윤기(24)에게 일반 살인 혐의를 적용한 의혹을 받는 전 전남광주 광산경찰서 형사과장에 대한 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;광주지법 최윤영 영장전담 부장판사는 21일 직권남용·직무유기 혐의를 받는 전 광산서 소속 형사과장 박모 경정에 대한 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;최 부장판사는 “지금까지 소명된 자료 만으로는 구속의 필요성을 인정하기 어렵다”고 구속영장 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;국가수사본부 장윤기 사건 진상규명 특별수사단은 박 경정에 대해 광산서 수사팀이 5월 14일 장을 검찰에 구속 송치할 당시 강간 목적 살인이 아닌 일반 살인죄를 적용한 혐의(직권남용 등)로 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;박 경정은 이날 오전 광주지법에서 열린 구속영장 실질심사에 출석하기 전 취재진 앞에서 “사건 처리 과정에 윗선의 부당한 지시는 없었다”며 “저 또한 (부당한) 지시를 내린 적 없고 나머지 부분에 대해서는 실질심사에서 성실히 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;박 경정은 또 “사건의 실체를 규명하기 위해 노력했으나 부실 수사 논란이 일게 돼 유가족과 국민들께 송구한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;박 경정의 변호인은 실질 심사가 끝난 뒤 “부당한 지시는 없었다는 취지로 심사에 임했다”면서도 “살인이 성범죄 목적으로 이뤄졌는지 확인하려면 성폭행 사건도 병합해야 한다고 판단해 사건 병합을 세 차례 국수본에 요청했지만 거부당했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7K7IABVDCJI4TGFYGD53YQ3FCA.JPG?auth=318bae28086c2d359e932e45db92b62921c81b840a4706e256ad0b0d35594f4f&amp;smart=true&amp;width=5280&amp;height=3344" type="image/jpeg" height="3344" width="5280">
+        <media:description type="plain">여고생 살해범 장윤기 사건의 초동 수사 축소·은폐 의혹을 받는 박 모 경정 21일 오전 구속 전 피의자 심문(영장실질심사)을 받기 위해 광주지방법원에 들어서기 전 취재진 질문에 답변하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(광주=뉴스1) 김태성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘한동훈 게시판 막말’ 주장 장예찬 무혐의... 경찰 “비방 목적 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/21/ZVAKCX5SBRDMXHW4LWKP6ND4BU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/ZVAKCX5SBRDMXHW4LWKP6ND4BU/</guid>
+      <dc:creator>원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 12:53:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2WIOJRGI4DSNLGMQ4TIYTCGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장예찬 전 여의도연구원 부원장./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무소속 한동훈(부산 북갑) 의원에 관한 허위 사실을 유포한 혐의로 고발된 장예찬 전 여의도연구원 부원장이 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;서울 서부경찰서가 장 전 부원장의 정보통신망법 및 공직선거법 위반 혐의 고발 사건에 대해 지난 13일 불송치 결정을 내린 것으로 21일 확인됐다. 경찰은 정보통신망법 위반 혐의는 범죄가 인정되지 않고, 공직선거법 위반 혐의는 증거가 불충분하다고 봤다.&lt;br&gt;&lt;br&gt;장 전 부원장은 지난 3월 자신의 소셜미디어에 한 의원과 동명이인이 올린 것으로 추정되는 게시글을 여러 장 캡처해 올리며 “노인 비하 막말은 당원 게시판 한동훈을 따라갈 수 없다”고 주장했다. 국민의힘 당원 게시판에 한 의원과 한 의원의 가족 명의로 윤석열 전 대통령 부부를 비방하는 글이 올라왔다는 의혹과 해당 게시글을 연관 지은 것이다.&lt;br&gt;&lt;br&gt;그러나 경찰은 정보통신망법 위반 혐의와 관련해 “피의자(장 전 부원장)의 주장이 국민의힘 당무 감사 결과 보고를 근거로 했다는 점을 고려하면 피해자(한 의원)를 비방하려는 가해의 목적이 없다”며 발언 맥락이 정치적 논평 차원에서 이뤄졌고, 장 전 부원장이 자기 발언을 진실로 믿을 만한 충분한 이유도 있었다고 해석했다.&lt;br&gt;&lt;br&gt;경찰은 또 장 전 부원장이 특정인의 낙선을 목적으로 허위 사실을 공표했다는 공직선거법 위반 혐의에 대해서도 경찰은 증거가 불충분하다고 판단했다. 선거가 임박한 시기가 아니었고, 경쟁 관계나 반복성이 없어 낙선 목적을 인정할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쿠팡물류센터 진화 왜 늦었나... “방화셔터까지 녹아내려 난항”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/21/JVHK2R46DZEENBDZF7UBJLJWRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/JVHK2R46DZEENBDZF7UBJLJWRI/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 13:04:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2WKNLFGZRTEN3EHA2DGOLGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오전 인천 서해구 석남동 쿠팡32물류센터에서 화재가 발생해 소방당국이 진압을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 쿠팡 물류센터에서 난 불을 빠르게 잡지 못한 이유는 방화셔터가 녹아내릴 정도의 강한 불길 때문이었다고 소방은 21일 밝혔다. 방화구획이 무력화됐다는 것이다.&lt;br&gt;&lt;br&gt;이번 화재는 지난 18일 오전 6시 54분쯤 인천시 서해구 석남동에 있는 지상 8층, 연면적 29만9000㎡ 규모의 쿠팡 32물류센터에서 발생했다. 소방 당국은 진화에 어려움을 겪다가 61시간 만인 지난 20일 오후 8시쯤 초진에 성공하고 남은 불을 끄고 있다. &lt;br&gt;&lt;br&gt;인천소방본부는 이날 서면 브리핑을 통해 “물류창고가 대량의 가연물을 대량으로 적재하고 있어 높은 화재하중(건물 안에 포함된 모든 가연성 물질의 전체 발열량)과 강한 복사열로 방화 셔터가 녹아내렸다”며 “방화 구획이 무력화되면서 화재 발생 구역에서 인근 구역으로 연소 확대를 저지하는 데 심각한 난항을 겪었다”고 했다.&lt;br&gt;&lt;br&gt;소방은 또 높은 층고로 인한 방수 한계, 4·5층에 리튬배터리 로봇 수백 대 보관에 따른 대형 화재 위험, 건물 붕괴 위험 및 낙하물 사고 위험 등을 소방활동 장애 요인으로 꼽았다.&lt;br&gt;&lt;br&gt;소방은 “단일 층고가 10ｍ에 달해 가연물 위쪽과 안쪽까지 소방용수가 침투하기 어려운 상황이었고, 지상 6·7층 고층부 연소로 인해 지상에서의 방수 주수력이 약해졌다”며 “고층부 집중 방수에 따라 다량의 소화용수를 공급해야 하는 문제도 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OY3KVDRAVNJMZKHGNMP2PJ2NC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 21일 오후 인천 서해구 석남동 쿠팡 물류센터에서 화재 진압하던 소방 고가 사다리차들이 방수를 멈추고 있다.  소방당국은 전날 오후 8시쯤 화재 발생 61시간 만에 큰불을 잡고 잔불 정리 중인 초진 단계에 들어갔다고 밝혔다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방은 리튬 배터리를 사용하는 물류 이송 로봇 수백 대가 보관된 5층을 ‘최우선 연소 차단 구역’으로 설정하고 화재 진압에 나섰다. 소방은 “화재 초기에 로봇 무선통신 제어망이 상실되면서 로봇 이동 조치가 불가능했다”고 밝혔다. 5층으로 연소가 확대될 경우 ‘열 폭주’로 인한 화재 확산과 함께 인근 SK인천석유화학 공장까지도 영향을 줄 수 있는 상황이 예상되면서 5층을 중심으로 저지선을 구축했다.&lt;br&gt;&lt;br&gt;인천소방본부 관계자는 “불이 난 건물 6·7층 천장 등에서 일부 붕괴와 낙하물 위험이 있어 인근 도로 통행 시 충분한 이격거리 확보가 필요하다”며 “건물 전체에 대한 구조 안전성이 최종 확인될 때까지 차량 이동도 제한된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여주서 발견된 50cm 크기 악어, 국제 멸종위기종 ‘샴악어’였다</title>
+      <link>https://www.chosun.com/national/incident/2026/07/21/EQIDS26CPNEGJPZQSFMGQUFJ4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/21/EQIDS26CPNEGJPZQSFMGQUFJ4Q/</guid>
+      <dc:creator>여주=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 13:32:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQTKYZXG4ZDEMDEHE3TANTFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 여주시에서 포획된 악어. /경기도소방재난본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 18일 경기 여주시에서 발견돼 소방당국에 포획된 악어는 국제멸종위기종으로 분류되는 ‘샴악어’인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;21일 여주시에 따르면, 국립생물자원관에 이 악어의 영상과 사진을 보내 종 분석을 의뢰한 결과, 샴악어로 판정받았다. 샴악어는 사이테스(CITES·국제적 멸종위기에 처한 야생 동·식물의 교역에 관한 국제협약)에 국제 멸종 위기종 1급으로 올라가 있다.&lt;br&gt;&lt;br&gt;샴악어는 태국에 분포하는 것으로 알려져 있는데, 야생에선 멸종 직전인 것으로 전해진다. 다 자란 성체의 크기는 3~4m에 달한다. 상대적으로 온순한 편에 속하는 종이라 사람에 대한 공격 사고가 많지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 소방당국은 지난 18일 오전 11시 27분쯤 “애완용 악어 같은 게 있다”는 행인 신고를 받고 출동해 30여분 만에 몸길이 50㎝ 크기의 악어 한 마리를 포획했다.&lt;br&gt;&lt;br&gt;여주시는 소방 당국으로부터 악어를 넘겨받아 민간 동물보호센터에 위탁해 임시 보호하고 있다. 당초 여주시는 이 악어가 애완용으로 길러진 것으로 보고 주인을 찾기 위해 유기동물 발생 공고문을 올리고 열흘 동안 주인을 찾을 예정이었다.&lt;br&gt;&lt;br&gt;다만, 이 악어가 멸종위기종인 것으로 확인되면서 주인이 나타나지 않을 경우 관리를 두고 여러 방안을 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;샴악어는 2000년 초반 인터넷 등에서 애완용으로 거래되기도 했다고 한다. 샴악어와 같은 국제멸종위기종을 거래하거나 소유한 자는 현행 법률에 따라 처벌받을 수 있다. 국제 멸종 위기종 1급은 개인이 사육할 수 없고 동물원 등 기관에서만 가능하다.&lt;br&gt;&lt;br&gt;지난 2016년에는 샴악어를 8년간 집에서 키우며 토끼 등을 먹이로 준 소셜미디어 유명인 A씨가 야생동물 보호 및 관리에 관한 법률 위반으로 징역 4개월을 선고받기도 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VIGCVMKC7FBWJLBYZQMB2AKMAQ.JPG?auth=816126d542286fdf704678ebb8bf8cb004359ec8a0b9ecb54b6260b092f0e39d&amp;smart=true&amp;width=560&amp;height=420" type="image/jpeg" height="420" width="560">
+        <media:description type="plain">경기 여주시에서 포획된 악어.(경기도소방재난본부 제공. 재판매 및 DB 금지)/뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“둘째아들, 나 아닌 첫째가 죽여”.. 자백 번복 계부, 징역 13년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/21/IQU7VCCR7BDWHODOUOIDZHGZMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/21/IQU7VCCR7BDWHODOUOIDZHGZMA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2GX2FAA3FBPPPD7JKLNJO4LJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아동학대 이미지. 조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“사실 둘째 아들을 때려 죽인 건 제가 아닌 큰아들입니다. 큰아들을 지키기 위해 허위자백 했습니다.”&lt;br&gt;&lt;br&gt;의붓아들을 때려 숨지게 한 혐의로 기소된 계부 A씨가 최근 대법원에서 징역 13년을 확정받았다. 당초 A씨는 1심에서 아동학대살해 및 아동학대 혐의 등으로 징역 22년을 선고받았다. 그러나 2심에서 피해자를 사망에 이르게 한 폭행 주범이 피해자의 형이자 A씨의 큰아들인 사실이 밝혀져 A씨의 형량이 줄었다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 천대엽 대법관)는 지난 5월 A씨에게 징역 13년을 선고한 원심 판결을 확정했다고 21일 밝혔다. 대법원은 검찰과 A씨의 상고를 모두 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGZJHVVXURG2DP6IFMPRUYFBJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭행 일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“아이에게 어른의 손과 발은 흉기”...1심서 징역 22년&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 사건의 발단은 A씨가 2018년 5월 한 여성을 만나 시작한 동거였다. 당시 여성은 두 아들을 데리고 왔는데, 피해자인 둘째 아들 B군이 일곱 살 때다. 같은 해 12월 A씨와 여성 사이에선 셋째 아들도 태어났다.&lt;br&gt;&lt;br&gt;이렇게 가정은 꾸려졌지만, 순탄하지만은 않았다. A씨와 아이들 사이가 원만하지 않았다. 특히 A씨는 학교 생활을 불성실하게 한다며 둘째 B군을 다그치기 시작했다. 훈육이라는 이유로 수시로 반성문을 쓰게 했고, 스스로 잘못한 내용을 반복적으로 말하라고 시키기도 했다.&lt;br&gt;&lt;br&gt;얼마 지나지 않아 B군에 대한 훈육은 폭력으로 변했다. 2024년 10월 A씨는 B군이 물건을 훔치고 거짓말을 했다며 마구 때렸다. 양반다리를 하게 한 후 왼쪽 허벅지 등을 여러차례 걷어차기도 하고, 눈 부위를 손바닥으로 때리기도 했다. B군은 여기저기 상처를 입었다.&lt;br&gt;&lt;br&gt;시간이 지날수록 폭력의 정도는 심해졌다. 작년 1월, A씨는 B군이 학교 친구의 돈을 훔쳤다며 폭력을 휘둘렀다. 양반다리를 하고 있는 아이를 약 1시간 30분 동안 허벅지와 가슴, 팔뚝을 발로 걷어찼다. B군은 이를 피하기 위해 몸을 웅크린 자세로 양팔로 얼굴을 감쌌다. 하지만 A씨는 쓰러져 있는 아이의 팔과 배, 허리 등을 더 힘껏 밟았다고 한다. 쓰러져 있는 아이를 일으켜 세운 뒤 뒤통수를 5~6차려 내려치기도 했다. 결국 B군은 이날 급성 복강(장기가 있는 공간) 내 출혈 등으로 목숨을 잃었다. 고작 열 네 살이었다.&lt;br&gt;&lt;br&gt;1심은 A씨의 아동학대살해 및 아동학대 혐의를 유죄로 보고 징역 22년을 선고했다. 1심은 “사망 당시 B군은 키 165㎝에 몸무게는 50㎏으로 매우 마른 체격이었다”며 “이런 성장기 아동에게 성인의 손과 발은 흉기나 다름 없다”고 했다. 그러면서 “피해자에게 가한 폭행의 정도가 아동이 아닌 보통의 성인을 기준으로도 치명적인 결과를 발생시킬 수 있을 만큼 강도 높은 것이었음이 인정된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSDOMBZGEZDMZJYHBSDGN3DGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇2심서 “진범은 큰아들” 주장...법원 “신빙성 인정”&lt;/b&gt;&lt;br&gt;&lt;br&gt;2심이 시작되자 A씨는 태도를 바꿨다. 둘째 아들 B군이 사망에 이를 정도로 폭행한 게 자신이 아닌 큰아들 C(16)군이라고 말을 바꾼 것이다. A씨는 “아들의 장래를 염려해 대신 책임지기로 하고 허위 자백했다”고 주장했다. A씨는 1심에서 C군이 폭행에 관련돼 있다고 언급하지 않았다.&lt;br&gt;&lt;br&gt;A씨가 털어놓은 이야기는 이렇다. B군이 숨지기 몇 시간 전, A씨는 C군에게 “동생과 절도 문제에 대해 이야기 좀 해라”고 시켰다. C군이 “대화하기 싫다”며 거부하자, 화가 난 A씨는 “앞으로는 (둘이) 동반 책임”이라며 C군을 압박했다고 한다.&lt;br&gt;&lt;br&gt;이에 C군은 동생을 때리기 시작했다. 수차례 발로 걷어찼고 몸을 밟기도 했다. C군의 무차별 폭력에 B군이 사망했고, 자신은 이를 지켜보면서 묵인했다는 게 A씨 주장이었다.&lt;br&gt;&lt;br&gt;2심은 A씨의 뒤바뀐 진술에 대해 신빙성이 있다고 인정했다. C군의 폭행 때문에 B군이 사망했다고 판단한 것이다. 2심 재판부는 “A씨가 1심에서 예상보다 중한 형을 선고 받자 충격을 받았다”며 “B군 사망 후 아내까지 집을 떠나자 이제는 돌아갈 가정도 없다는 생각에 자백을 결심한 게 인정된다”고 했다.&lt;br&gt;&lt;br&gt;2심 재판부가 이렇게 판단한 배경에는 C군과 큰아버지와 대화 내용도 있었다. C군은 사건 당일 큰아버지에게 전화해 “(동생을) 놓고 밟았다”고 말했다. 재판부는 C군이 구체적인 폭행 행위를 설명한 게 상당히 신빙성이 높다며 B군을 사망에 이르게 한 건 계부 A씨가 아닌 형인 C군이라고 판단했다.&lt;br&gt;&lt;br&gt;2심 재판부는 A씨의 아동학대살해 혐의는 인정하지 않았지만, 아동학대치사와 상습아동학대 혐의 등은 인정해 징역 13년을 선고했다. A씨가 직접 B군을 때리지는 않았지만, C군의 폭행을 묵인하고 방치해 B군을 사망에 이르게 했다는 것이다. 앞서 검찰은 2심 진행 과정에서 아동학대치사 혐의도 추가했다.&lt;br&gt;&lt;br&gt;2심 재판부는 B군이 사망한 데 A씨의 책임이 크다고 질책했다. 재판부는 “A씨가 C군에게 동생 훈계를 지시했고, C군이 동생을 폭행하는 동안 이를 묵인하고 방치해 사망에 이르게 했다”며 책임이 있다고 설명했다. 재판부는 “C군은 사건 당일 내내 강압적이고 폭력적인 분위기와 자신에 대한 반복적인 지시와 훈육 속에서 참지 못하고 돌발적으로 피해자를 폭행하며 정신적 압박감을 분출한 것으로 보인다”며 “C군의 폭행도 모두 A씨의 행동에서 기인한 것이라는 점에서 책임이 매우 크다”고 했다. &lt;br&gt;&lt;br&gt;대법원은 이같은 원심 판단에 잘못이 없다고 보고 검사와 A씨의 상고를 기각했다. 검찰은 항소심 판단에 따라 C군에 대한 추가 수사를 진행 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>퇴폐 막겠다더니…불법안마방은 놔두고 합법안마방만 규제</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/21/FPJVODXXGRB65FZMTFJGLEZZSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/FPJVODXXGRB65FZMTFJGLEZZSA/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UY4UP5F3CZABRBI4A24GMUOPL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주의 한 중국전통마사지 업소 에어간판. /네이버 지도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무자격 불법 마사지업소들이 우후죽순 불어나고 있는 가운데, 이러한 업소들을 막기 위한 법은 실효성이 없고 정작 정상 업소들의 영업에만 불이익을 주고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;현행법상 안마사는 사회적 약자 우대 차원에서 시각장애인만 종사할 수 있어 나머지는 모두 불법이다. 최근 인기를 끄는 ‘중국전통마사지’, ‘타이마사지’, ‘스웨디시마사지’ 등은 비장애인 대표와 외국인 직원들이 운영하기 때문에 엄밀히 말해 ‘무자격 업소’에 해당한다.&lt;br&gt;&lt;br&gt;시각장애인 안마사들은 “이러한 무자격 업소가 현재 전국 3만곳에 이를 정도로 규모가 커져 생존권을 위협받고 있는데, 당국은 손을 놓고 있다”고 불만을 토로했다. 보건복지부는 “경찰에 신고가 먼저 들어와야 한다”고 하고, 경찰은 “이제 와 무자격 업소를 전부 불법으로 규정짓자니 반발이 너무 크다”며 “성매매 현장을 잡을 경우에만 단속하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;보건복지부가 더불어민주당 서미화 의원실에 제출한 자료를 보면, 이 같은 이유 등으로 보건복지부가 최근 3년간 마사지업소를 시설기준 위반으로 처분한 사례는 0건이고 시정조치조차 1건에 불과한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;심지어는 시각장애인 안마사들이 지키고 있는 가장 기초적인 퇴폐업소 방지 기준조차 무자격 업소는 지키지 않아도 돼 시각장애인 안마사들만 영업에 피해받는 실정이라고 한다. 안마원은 매년 한두 차례 지방자치단체의 지도점검을 받는다. 이때 지방자치단체에서는 안마원 내부 각 방에 출입문을 달았는지 아닌지를 검사한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETLLOKIFQRCGBHM2GB3MFA43UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주의 한 중국전통마사지 업소가 안마방마다 출입문을 달아둔 모습. /대한안마사협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성매매에 대한 우려가 커서다. 1990년대 경찰이 대대적인 집창촌 단속에 나섰고 2000년대 들어서는 안마 간판을 단 신종 성매매 업소들이 처음 등장했다. 2004년 청량리, 2008년 장안동을 거쳐 신종 성매매 업소가 전국으로 퍼져 나가자, 정부는 성매매 근절을 위해 안마원 안마방의 출입문 설치를 법으로 금지하고 안을 상시 들여다볼 수 있게 해왔다.&lt;br&gt;&lt;br&gt;반면 무자격 업소는 지방자치단체의 허가가 필요하지 않다. 피부 관리실이나 화장품 도소매역 등으로 신고만 해두면 성매매 현장이 걸리지 않는 한 크게 문제 삼지 않는다. 그러나 오히려 그렇기에 지자체의 지도점검 대상에 들어가지 않고, 감시 사각지대에 놓여 있는 아이러니한 상황이다. 무자격 업소들은 제재 없이 안마방 출입문 설치는 물론이고 발한실, 욕실 등도 설치하는 등 손님들의 입맛을 맞춘 여러 유인책을 던지는 중이다.&lt;br&gt;&lt;br&gt;꼭 성매매 매수자가 아니더라도 요즘 세대에게 프라이버시는 중요한 문제다. 발한실이나 욕실 같은 서비스야 많으면 많을수록 손님들 입장에선 나쁠 게 없다. 결과적으로 정상 영업하는 시각장애인 안마사들이 역차별당하는 구조가 된 것이다. 10년 전 전국에 1500개가 넘었던 안마원은 이제 불법 마사지업소의 0.57% 수준인 171곳밖에 남지 않았다.&lt;br&gt;&lt;br&gt;대한안마사협회 관계자는 “퇴폐업소에 대한 정부와 여성단체의 우려를 이해는 한다”고 말했다. 다만 “시각장애인 안마사들이 역차별받는 현실은 막아야 한다”며 안마원의 규제 완화에 대한 필요성을 호소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4IGWINR7GBDGVGJS6WQAMS5JKM.png?auth=e936b7da6ee54885acfaae27a35912ed2ab4e6a74bcbf6a783141049af309390&amp;smart=true&amp;width=1079&amp;height=809" type="image/png" height="809" width="1079">
+        <media:description type="plain">충북 청주의 한 중국전통마사지 업소 간판. /네이버 지도</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>국수본 “장윤기 살인·성범죄 수사 분리 지시, 수사 완결성 위한 것" </title>
       <link>https://www.chosun.com/national/incident/2026/07/21/RJ2R76VJJRGGFLZWMFPHZMNDLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/21/RJ2R76VJJRGGFLZWMFPHZMNDLM/</guid>
@@ -764,18 +882,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSWMNRQGM3DCMJXGFSDGNJVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박홍근 기획예산처 장관과 최교진 교육부 장관이 지난 8일 서울 종로구 세종대로 정부서울청사에서 열린 미래세대를 위한 지방교육재정교부금 개편 토론회에서 대화를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기획예산처가 지방교육재정교부금(교육교부금) 산정 방식을 내국세 연동 구조에서 경상성장률과 학령인구를 반영하는 방식으로 바꾸는 개정안을 교육부에 제시한 것으로 확인됐다. 교육부는 내국세 20.79% 연동을 폐지할 수 없다고 기획예산처에 회신했다.&lt;br&gt;&lt;br&gt;20일 교육부에 따르면, 기획예산처는 지난 15일 이런 내용이 담긴 교육교부금 개정안을 교육부에 전달했다. 개정안은 직전 연도 교부금을 기준으로 최근 3개 연도 ‘평균 경상성장률’과 ‘평균 학령인구 변화율의 40%’를 곱해 교육교부금 총액을 정하도록 했다. 현재 ‘내국세의 20.79%’와 ‘교육세 일부’를 교육교부금 재원으로 삼는 규정은 삭제했다. 기획예산처가 만든 구체적인 교육교부금 개정안 산식이 공개된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;기획예산처는 이 방식으로도 교육교부금 총액이 줄어들지 않는다는 점을 강조한 것으로 전해졌다. 반면 교육부는 내국세 20.79% 연동 규정을 폐지할 수 없다는 입장을 회신했다. 지난 8일 공개토론회에서도 최교진 교육부 장관은 “20.79%는 사회가 합의한 강력한 법적 안전망”이라며 유지 입장을 밝힌 바 있다.&lt;br&gt;&lt;br&gt;교육교부금은 1972년 도입 이래 내국세의 20.79%와 교육세 일부를 재원으로 전국 시·도교육청에 배분돼 왔다. 기획예산처는 세수 연동 탓에 교부금이 급등락하고 학령인구 감소가 반영되지 않는다는 점을 들어 구조 개편을 추진하고 있다. 반면 교육부는 20.79%가 경기나 정치 상황에 흔들리지 않고 교육재정을 지켜온 안전망이라며 폐지에 반대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 쿠팡물류센터 61시간만에 불길 잡아</title>
-      <link>https://www.chosun.com/national/incident/2026/07/20/D3G2NHSHJJCWXJHDWYLCVNE2LI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/20/D3G2NHSHJJCWXJHDWYLCVNE2LI/</guid>
-      <dc:creator>김현수 기자, 인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 11:07:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JHHP3CL4BEWTNBA4GULR4OWZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 인천 서해구 석남동 쿠팡32물류센터에서 화재가 발생해 화재 진압이 계속되고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 쿠팡 물류센터 화재 진압에 나선 소방 당국이 사흘 만에 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;인천소방본부는 20일 오후 8시 인천 쿠팡 물류센터 화재를 초기 진화했다고 밝혔다. 지난 18일 오전 6시 54분 인천 서해구 석남동 쿠팡 물류센터 6층에서 불이 났다는 신고가 접수된 이후 61시간 만이다. 소방 당국은 화재 현장에서 주불을 잡고, 잔불 정리에 돌입할 때 초기 진화를 선언한다.&lt;br&gt;&lt;br&gt;불이 난 물류센터는 지상 8층, 연면적 약 29만9천㎡ 규모다. 소방 당국은 화재 발생 당일 대응 2단계와 국가소방동원령을 발령하고, 장비 230여 대와 소방 인력 800여 명을 투입해 진화에 나섰지만 물류센터 내부에 종이상자와 포장재 등 가연성 물질이 대량 적재돼 있었고, 층별 구조가 복잡해 진화에 어려움을 겪었다. &lt;br&gt;&lt;br&gt;화재 당시 근무자 121명은 모두 스스로 대피했으나, 소방관 2명이 연기 흡입과 탈진 등으로 병원 치료를 받았다.&lt;br&gt;&lt;br&gt;화재 여파로 지난 19일 오후 11시부터 현장 인근에는 반경 116m 범위에 주민 대피령이 내려졌고, 주민들이 연기를 피해 임시 대피소로 이동했다. 대피령 다음 날인 20일, 주변 어린이집 등 14곳이 휴원했고 초등학교 1곳은 휴업했다. 소방 당국은 화재 진압 상황이 안정세를 보이면서 이날 오후 11시를 기해 서구 주민 대피령을 해제할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;소방 관계자는 “초진은 됐지만, 대응 2단계와 국가소방동원령은 여전히 유지되고 있다”며 “화재 현장의 잔해물 등을 뒤집으면서 잔불 여부를 확인해야 해 완전히 진화하는 데까지는 시간이 더 걸릴 것으로 본다”고 했다. &lt;br&gt;&lt;br&gt;소방 당국은 잔불 정리 작업을 이어가는 동시에, 경찰 등 관계기관과 합동 감식을 준비하고 있다. 인천소방본부와 국립과학수사연구원, 인천경찰청 과학수사대, 한국전기안전공사 등이 참여하는 합동 감식은 건물 내부 진입이 가능해지는 대로 최초 발화 지점으로 추정되는 물류센터 B동 6층을 중심으로 진행될 예정이다. 감시카메라 영상과 화재 수신기 등 화재 원인을 규명할 증거물 확보 작업도 함께 이뤄진다.&lt;br&gt;&lt;br&gt;경찰도 인천경찰청 광역범죄수사대와 중대재해수사계 등으로 전담수사팀을 꾸려 화재 원인과 안전관리상 과실 여부를 수사하고 있다. 경찰은 2021년 경기 이천 덕평 쿠팡 물류센터 화재 수사 사례 등을 참고해 초기 대응 과정과 소방시설 작동 여부 등을 집중적으로 들여다볼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AL6X5KKRPBEVHCIOJWC6TZBXBA.jpg?auth=2f06352e646108d04af9dee476d4334e94f4dc1d26a0d8a7b531f29bcd9e45ed&amp;smart=true&amp;width=8064&amp;height=5376" type="image/jpeg" height="5376" width="8064">
-        <media:description type="plain">2026년 7월 20일 인천 서해구 석남동 쿠팡32물류센터에서 화재가 발생해 소방이 진압을 하고 있다. /장경식 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>배재고 징계, 6개월→1개월로 감경...봉황대기 출전 가능</title>
       <link>https://www.chosun.com/national/national_general/2026/07/20/QYUUUDDU4NCQ7PD2U24GAHCUM4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/20/QYUUUDDU4NCQ7PD2U24GAHCUM4/</guid>
@@ -783,15 +889,6 @@
       <description/>
       <pubDate>Mon, 20 Jul 2026 12:08:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEKIAPWFURJJ3B7X56P5KAB7TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이영진 대한체육회 스포츠공정위원장(전 헌법재판관)이 20일 서울 송파구 올림픽회관에서 배재고 야구부 징계 재심의 관련 등을 주요 안건으로 하는 제19차 스포츠공정위원회에서 모두발언을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 야구 대회에서 상대에게 지역 비하 구호를 외쳐 6개월 출전 정지 징계를 받았던 배재고 야구부의 전국 대회 출전 길이 열렸다. &lt;br&gt;&lt;br&gt;대한체육회는 20일 서울 송파구 올림픽회관에서 제19차 스포츠공정위원회를 열고 배재고의 징계 안건을 재심의한 결과, 징계 기간을 6개월에서 1개월로 감경했다고 밝혔다. &lt;br&gt;&lt;br&gt;체육회는 “덕아웃에서의 부적절한 응원 구호가 경기를 방해한 행위이므로 징계 사유에 해당한다”면서 “하지만 배재고 학생들이 상대 학교인 광주제일고를 찾아 용서를 구한 점, 피해 당사자가 용서하고 선처를 호소한 점을 고려해 이같이 결정했다”고 설명했다. &lt;br&gt;&lt;br&gt;“학생 선수들이 배움의 과정에 있다는 점 등을 고려하면 6개월 출전 정지 징계는 과중하다고 판단한 것”이라고도 밝혔다.&lt;br&gt;&lt;br&gt;재심의 결과는 공정위 의결 직후 효력이 발생한다.&lt;br&gt;&lt;br&gt;징계 기간이 1개월로 줄면서 배재고 야구부는 올해 마지막 전국 대회인 봉황대기 고교야구대회에 출전할 수 있게 됐다. 봉황대기는 올 프로야구 신인 드래프트와 대학 입시 시점 전인 다음 달 6일 개막한다. 선수들이 가까스로 마지막 활약을 펼쳐 보일 기회를 얻은 셈이다. 배재고는 다음 달 11일 인천고와 봉황대기 첫 경기를 치른다. &lt;br&gt;&lt;br&gt;배재고는 지난달 29일 광주제일고와의 청룡기 전국고교야구선수권대회 1회전 경기 도중 “스타벅스 가야지” “탱크데이”라는 구호를 외쳐 논란을 빚었다. 이에 대한야구소프트볼협회(KBSA)는 이달 1일 배재고에 전국 대회 6개월 출전 정지 중징계를 내렸다. 이날부터 올해 12월 31일까지가 징계 기간이었다.&lt;br&gt;&lt;br&gt;하지만 이후 배재고 야구부원과 학부모, 교직원이 광주제일고를 찾아 사과했고, 광주제일고 측은 이를 받아들이며 배재고 학생들에 대한 선처를 요청했다. 이어 배재고는 지난 8일 체육회에 재심을 신청했고 이날 감경 처분을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오산 공업사에서 흉기 사건... 사장 사망, 1명 중상, 피의자 음독</title>
-      <link>https://www.chosun.com/national/incident/2026/07/20/WDTK7FAC75GKHNAB3WWH5MVRAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/20/WDTK7FAC75GKHNAB3WWH5MVRAE/</guid>
-      <dc:creator>오산=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 12:17:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 오산시의 한 공업사에서 70대 사장이 흉기에 찔려 숨지고 60대 남성 1명이 크게 다치는 사건이 발생했다. &lt;br&gt;&lt;br&gt;20일 경찰에 따르면, 이날 오후 6시20분쯤 오산시 벌음동의 한 공업사에서 흉기 사건이 발생했다. 당시 공업사에는 피의자 A(60대)씨를 70대 사장과 60대 남성 2명 등 모두 3명이 있었던 것으로 파악됐다. 경찰은 이들 사이에서 다툼이 벌어졌고, 이 과정에서 흉기가 사용된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;70대 사장은 공업사 뒤편 밭에서 발견됐으나 숨졌으며, 또 다른 60대 남성은 공업사 인근 공터에서 발견돼 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 사건 직후 도주한 A씨를 약 40분 만에 공업사 뒤편 밭에서 검거했다. A씨는 음독한 것으로 추정돼 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 치료가 끝나는 대로 정확한 범행 동기와 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최고 37도 무더위 속 장맛비…밤마다 ‘야행성 폭우’도</title>
@@ -833,24 +930,6 @@
       <content:encoded>지난 6·3 지방선거 투표용지 부족 사태를 수사하는 검경 합동수사본부(합수본)가 20일 노태악 전 중앙선거관리위원장의 배우자 동반 해외 출장과 선관위 직원들의 외유성 출장 의혹과 관련해 중앙선관위원장 사무실 등을 압수수색했다. 합수본 수사가 선관위의 예산 집행과 내부 비위 전반으로 확대되는 모양새다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JUOSC5GX5IHJNB37ZBAWMVXKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노태악 전 중앙선관위원장이 지난 14일 서울 여의도 국회에서 열린 투표용지 부족사태 등 국민 참정권 침해 진상규명 및 선거관리 개혁을 위한 국정조사특별위원회 제1차 청문회에 참석해 머리를 만지고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합수본은 이날 “노 전 위원장의 배우자 동반 해외 출장 및 선관위 직원들의 외유성 해외 출장에 관한 업무상 횡령 등 고발 사건과 관련해 중앙선관위를 압수수색했다”고 밝혔다. 이날 압수수색 영장에는 노 전 위원장과 이름을 알 수 없는(성명불상) 선관위 직원들이 피의자로 적시된 것으로 전해졌다. 다만 노 전 위원장 주거지는 압수수색 대상에서 제외됐다.&lt;br&gt;&lt;br&gt;노 전 위원장은 2022년 5월부터 지난달까지 재임하면서 세 차례에 걸쳐 배우자와 호주, 독일, 스웨덴 등을 해외 출장으로 다녀왔다. 그런데 배우자와 함께 갔다는 내용이 선관위 사후 보고서에 기재되지 않아 횡령 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYWIOJQGI4WMZLBMUYWMMRZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상휘 국민의힘 미디어특별위원회 위원장(왼쪽)과 최지우 미디어법률단장이 지난달 17일 서울 서초구 서울중앙지검 민원실에서 중앙선거관리위원회 소속 공무원들의 외유성 출장 의혹에 대해 '업무상 횡령죄' 혐의로 고발하며 고발 취지를 설명하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 국민의힘 등은 몰디브 등 휴양지로 외유성 출장을 다녀온 의혹이 불거진 중앙선관위 관계자들을 지난달 업무상 횡령 혐의로 고발했다. 국회 등에 따르면 선관위 직원들은 선거 참관이나 직원 역량 강화 등의 명목으로 2022년부터 올해 6월까지 100차례가 넘는 해외 출장을 다녀온 것으로 조사됐다. 이 기간 출장 인원은 461명, 소요 예산은 24억원이 넘는 것으로 집계됐다. 합수본은 일부 일정이 사실상 관광성 출장인지와 예산 집행이 적법했는지 확인할 방침이다.&lt;br&gt;&lt;br&gt;합수본 수사의 본류는 지난 6월 치러진 지방선거 투표용지 부족 사태였다. 이와 관련해 합수본은 지난달 중앙선관위와 서울시선관위, 서울 지역 선관위 등 7곳을 압수수색해 투표용지 인쇄 계획서와 회의록, 내부 메신저·결재 자료 등을 확보했다. 당시 영장에는 공직선거법 위반과 직무유기, 업무상 횡령·배임 혐의가 적시됐다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TGYZVGZQTMNBVMZQWGYZZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표용지 부족사태로 인한 '개표소 봉쇄 시위'가 계속되고 있는 지난 5일 서울 송파구 올림픽공원 핸드볼경기장 인근에서 참가자들이 폭염 속 시위를 이어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투표용지 부족 사태의 핵심은 선관위가 투표용지 인쇄 하한선을 선거인 수의 60%에서 50%로 낮춘 경위와 선거 당일 보고·대응 과정이다. 합수본은 연구용역 관계자와 인쇄업자, 투표관리관, 지역선관위 직원 등 70여 명을 조사해 내부 의사결정과 보고 과정을 살펴보고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 합수본은 지난 13일 중앙선관위 공직선거절차사무개선 태스크포스(TF) 팀장을, 14일에는 중앙선관위 정책연구 용역 책임연구원을 차례로 불러 조사했다. 이 과정에서 합수본은 “중앙선관위로부터 21대 대선 당시 투표용지가 부족했던 사실과 관련한 자료 받지 못해 해당 사실을 알지 못했다”는 취지의 진술을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;선관위 직원 9명 안팎으로 꾸려진 이 TF는 21대 대선 절차 사무 운영 사례를 분석해 개선안을 마련하고 이를 지방선거 관리지침에 반영하는 작업을 맡은 조직이다.TF는 지난해 8월 투표용지 인쇄 비율의 하한을 60%에서 50%로 하향하는 축소안을 작성했다. TF가 이번 지방선거를 앞두고 투표용지 인쇄 비율을 낮추는 의견을 내면서도, 2025년 21대 대선 당시 일부 투표소에서 투표용지 부족 사태가 벌어진 것을 몰랐다는 것이다. 합수본은 중앙선관위 운영이 총체적으로 부실했다고 보고 수사를 이어가는 중이다.&lt;br&gt;&lt;br&gt;합수본은 또 일부 지역 선관위가 중앙선관위로부터 용지 부족 가능성을 알리는 업무 연락을 받고도 지침을 이행하지 않은 정황도 포착했다. 합수본은 일부 지역 선관위가 의도적으로 직무를 방기했을 가능성을 의심하고 있다. &lt;br&gt;&lt;br&gt;이런 가운데 합수본이 이날 선관위의 외유성 출장 의혹과 관련해 강제수사에 나서면서 당초 투표용지 부족 원인 규명에 집중됐던 수사는 선관위의 예산 집행과 조직 운영 전반으로 확대되는 분위기다. 합수본은 외유성 출장 외에도 선관위의 채용 비리와 허위 예산요구서 작성, 투표용지 보관 상자 폐기 의혹 등도 들여다보고 있다. 실무진 조사가 상당 부분 진행된 만큼 향후 지역 선관위 간부와 중앙선관위 지휘부, 노 전 위원장 등에 대한 소환 조사로 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>7급 공무원, 회계 조작해 25억 빼돌렸다</title>
-      <link>https://www.chosun.com/national/incident/2026/07/20/DHGVAOY2KFDXTJPPFBGIN3XUNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/20/DHGVAOY2KFDXTJPPFBGIN3XUNI/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 10:57:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3HEA5N6H5FPTNOZTXO5B4RODM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영천시청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 영천시 한 행정복지센터에서 회계 업무를 담당하던 7급 공무원이 지방재정관리시스템을 수백 차례 조작해 예산 25억원을 빼돌린 혐의로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;20일 영천시에 따르면, 해당 행정복지센터 회계 담당 공무원 A씨는 지난해 11월부터 지난달까지 약 230차례에 걸쳐 지방재정관리시스템(e호조)을 허위로 조작해 모두 25억원을 자신의 계좌로 이체한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 공공요금 등을 정상 집행하는 것처럼 상급자 결재를 받은 뒤 실제 송금 계좌를 자신의 계좌로 바꾸는 수법으로 범행한 것으로 파악됐다. 범행은 최근 내부 회계점검 과정에서 예산 잔액이 과다 지출로 부족한 사실이 확인되면서 드러났다.&lt;br&gt;&lt;br&gt;영천시는 지난 14일 범행을 확인한 직후 경찰에 수사를 의뢰하고 A씨를 직위해제했다. 경찰은 A씨가 빼돌린 돈을 가상화폐 등에 투자했다는 의혹을 포함해 자금 사용처와 추가 범행 여부를 수사하고 있다.&lt;br&gt;&lt;br&gt;영천시는 자체 감사를 통해 팀장과 면장 등 관리 책임자들의 감독 소홀 여부도 조사할 방침이다. 관리 부실이 확인되면 징계도 검토하기로 했다.&lt;br&gt;&lt;br&gt;김병삼 영천시장은 이날 기자회견을 열고 “중대한 비위가 발생한 데 대해 시민 여러분께 깊이 사과드린다”며 “수사 결과에 따라 관련자를 엄중 문책하고 유용된 공금은 끝까지 추적해 환수하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무죄 난 ‘청산염 살인’…검찰, DNA 재분석 등 보완수사</title>
-      <link>https://www.chosun.com/national/incident/2026/07/20/YYVKEA4DGFF67ODX6ZKKBWDR4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/20/YYVKEA4DGFF67ODX6ZKKBWDR4U/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 10:36:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BID6LJHTBK2YISOFJ2I3VBSUXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30대 여성이 예비 시어머니를 청산염으로 살해한 혐의로 1심에서 무죄를 선고받은 사건과 관련해 검찰이 경찰에 DNA 재분석 등을 포함한 보완수사를 요구했다.&lt;br&gt;&lt;br&gt;20일 부산고검 창원지부에 따르면, 검찰은 지난 7일과 이날 두 차례에 걸쳐 경남 진주경찰서에 총 7개 항목의 보완수사를 요구했다. 보완수사에는 기존 DNA 감식 과정에서 누락된 부분을 확인하고 새로운 관점에서 DNA를 다시 분석하는 내용 등이 담겼다.&lt;br&gt;&lt;br&gt;검찰은 “억울한 죽음과 살인자가 존재하는 이번 사건에서 진주경찰서와 적극 협력해 항소심에서 진실을 규명할 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2020년 3월 경기 용인의 예비 시어머니 B씨 벤츠 차량에 청산염을 희석한 물이 담긴 생수병을 놓아둬 B씨를 숨지게 한 혐의로 기소됐다. B씨는 통영대전고속도로 서진주IC 인근에서 의식을 잃은 채 사고를 냈고, 병원으로 옮겨졌지만 숨졌다. 부검 결과 사인은 청산염 중독으로 확인됐다.&lt;br&gt;&lt;br&gt;수사 과정에서는 A씨 주거지에서 청산염이 담긴 비닐봉지가 발견됐다. 봉지에서는 A씨 DNA가 검출됐다. 인터넷에서 살인과 추락사 등을 검색한 기록도 확인됐다.&lt;br&gt;&lt;br&gt;그러나 1심 재판부는 경찰이 압수수색 당시 증거를 확보하는 과정에서 오염 가능성을 배제할 수 없고, 범행 동기와 간접 증거만으로는 혐의가 합리적 의심 없이 입증됐다고 보기 어렵다며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰은 이에 불복해 항소했으며, 항소심 첫 공판은 지난 15일 열렸다. 다음 재판은 다음 달 26일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>GTX-A 삼성역 올해 개통 무산</title>
       <link>https://www.chosun.com/national/transport-environment/2026/07/20/MJJSUO23XRFPTIVM5HGVLI57EQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/20/MJJSUO23XRFPTIVM5HGVLI57EQ/</guid>
@@ -878,33 +957,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAOJNXEQDJNJLMY7D7SL5T4NEY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 28일 경기 고양시 한 병원 신생아실에서 간호사들이 아기를 돌보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임신·출산 과정에서 발생하는 국내 산모 사망 비율이 지난 30년간 거의 떨어지지 않은 것으로 20일 나타났다.&lt;br&gt;&lt;br&gt;출산 나이대가 올라가며 고위험 산모가 늘어난 반면, 지역 응급 산과 진료 인프라는 오히려 취약해졌기 때문이란 지적이 나온다.&lt;br&gt;&lt;br&gt;고려대·서울대·국립중앙의료원 공동 연구팀이 1983~2023년 15~49세 여성의 모성 사망(임신·출산 관련 산모 사망) 추세를 분석한 결과, 모성 사망비(출생아 10만명 당 사망자)는 1983년 23.3명에서 1993년 12.4명으로 내려갔다. 하지만 이후부터 2003년 11.9명, 2013년 11.7명, 2023년 11.3명 등 큰 변화를 보이지 않았다.&lt;br&gt;&lt;br&gt;사망 원인은 색전증·출혈·고혈압 등 ‘직접 산과적 원인’과 기존 질환이 임신으로 악화한 ‘간접 원인’으로 구분했는데, 직접 원인 비율이 2010~2014년 70.7%에서 2020~2023년 84.7%로 높아졌다. 35세 이상의 경우 ‘출혈’이 가장 많았고, 35세 미만은 간접 원인이 많았다.&lt;br&gt;&lt;br&gt;연구팀은 “유럽 등 다른 주요국에서 출혈 등 직접 산과적 원인이 줄고, 심혈관·정신질환 등 간접 원인 비율이 커지는 것과 달리 국내에선 직접 원인, 특히 산후 출혈로 인한 사망이 늘었다”며 “이는 국내 지역 응급 산과 진료 인프라의 취약성을 보여주는 것”이라고 했다. 저출생 등으로 소규모·지역 분만시설부터 문을 닫으면서 지역 응급 의료 역량이 약화됐다는 것이다.&lt;br&gt;&lt;br&gt;이번 연구 결과는 다음 달 대한의학회 국제학술지에 게재된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내일 출근길 거센 비... 주말까지 장맛비 계속</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/07/20/O4FZIR2LBZHCHIPSQTFEGJ5OBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/20/O4FZIR2LBZHCHIPSQTFEGJ5OBM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 08:44:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6AV2C2HIPVNC5OMQVXEEZE4BMY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;새벽부터 수도권에 집중호우가 내린 지난 18일 서울 은평구 불광천 산책로가 통제되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 수도권 등 중부지방을 중심으로 출근길 집중호우가 예보됐다. 거센 장맛비는 주말까지 이어질 전망이다. &lt;br&gt;&lt;br&gt;20일 기상청에 따르면, 정체전선(장마전선)의 영향으로 22일까지 비가 내리겠다. 정체전선은 주말까지 주로 중부지방에 머물면서 비를 뿌릴 전망이다.&lt;br&gt;&lt;br&gt;21일 인천과 경기북부는 늦은 새벽에서 아침까지 시간당 50∼80㎜의 매우 강한 비가 내릴 것으로 보인다. 오전에도 시간당 30∼50㎜의 비가 내리겠다. ‘매우 강한 비’의 기준이 되는 강수량이 ‘시간당 30㎜ 이상’이며, 운전 시 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;서울과 경기남부도 21일 아침 시간당 강수량이 30∼50㎜, 오전에서 낮까지는 시간당 20∼30㎜에 달할 것으로 보인다. 강원도도 새벽부터 오전 사이 시간당 30∼50㎜의 거센 비가 내리겠다.&lt;br&gt;&lt;br&gt;비가 중부지방을 중심으로 내리면서 남부지방과 제주엔 무더위가 이어지겠다. 당분간 전국 대부분 지역 한낮 체감온도가 31도까지 오르겠고, 충청과 남부·제주 등 폭염특보(이틀 이상 일 최고 체감온도 33도 이상)가 내려진 지역에선 최고 35도까지 상승할 전망이다. 21일 전국 아침 최저기온은 22∼26도, 낮 최고기온은 26∼37도로 예보됐다.&lt;br&gt;&lt;br&gt;비는 23일 소강 상태를 보인 후, 금요일인 24일 중부지방과 호남·경북을 중심으로 다시 내릴 전망이다. 토요일인 25일엔 중부지방을 중심으로 비가 내리겠고, 26일부터 30일까진 북태평양고기압 가장자리에 들며 비 소식 없이 전국에 구름이 많을 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국힘, ‘미성년자 성범죄 혐의’ 前 청주시의원 제명</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/07/20/CTW7P2V7MBG7XCD4ZUXGWF7U3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/07/20/CTW7P2V7MBG7XCD4ZUXGWF7U3M/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 08:26:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYDEOJSMYZWGZBZGA4TONBSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 경찰이 충북 청주시의회에서 아동 성매매 혐의로 수사를 받고 있는 최영중 시의원 집무실에 대한 압수수색을 진행하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘이 미성년자 성범죄 혐의로 경찰 수사를 받고 있는 최영중 전 청주시의원을 제명했다. &lt;br&gt;&lt;br&gt;국민의힘 충북도당은 20일 운영위원회를 열어 최 전 의원에 대한 제명안을 의결했다고 밝혔다. 앞서 도당 윤리위원회는 지난 15일 긴급회의를 열고 사안의 중대성을 고려해 제명을 결정했으며, 운영위가 이를 최종 확정했다.&lt;br&gt;&lt;br&gt;최 전 의원은 당규에 따라 10일 이내 중앙당 윤리위원회에 이의를 신청할 수 있다. 다만 지난 16일 시의원직을 자진 사퇴한 만큼 징계 결과를 그대로 수용할 가능성이 큰 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최 전 의원은 2024년 10월부터 지난해 10월까지 2~3차례에 걸쳐 중학생과 성관계를 하고 성착취물을 제작한 혐의(아동·청소년의 성보호에 관한 법률 위반 등)로 경찰 수사를 받고 있다. 경찰은 지난 15일 청주시의회 의원실과 지역구 사무실, 자택 등을 압수수색하며 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;국민의힘 충북도당은 이날 최은식 옥천군의원도 제명했다. 최 군의원은 최근 옥천군의회 의장단 선거에서 국민의힘이 내정한 후보를 제치고 부의장으로 선출된 뒤 윤리위원회에서 탈당 권고 징계를 받았다. 그러나 자진 탈당하지 않아 이날 운영위원회에서 제명이 최종 의결됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>80kg 바벨에 목 깔려 숨져... 헬스장 대표 등 무죄 논란</title>
-      <link>https://www.chosun.com/national/regional/2026/07/20/XJYJEOT72RDF5MI7L6OSCOXJQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/20/XJYJEOT72RDF5MI7L6OSCOXJQI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 08:15:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTSBHDXOED4Y7DEBGECZMO2KPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헬스장에서 혼자 벤치프레스 운동을 하던 중 바벨에 목이 눌려 회원이 숨진 사고와 관련해 재판에 넘겨진 헬스장 대표와 트레이너가 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;법원은 헬스장 층마다 직원을 상주시키고, 방범 카메라(CCTV)로 이용자들의 사고 여부를 수시로 확인할 주의의무가 없다고 판단했다. 법조계에선 “사고 당시 직원이 있었다면 질식 사고를 막을 수 있었던 인과 관계에 대해 재판부가 너무 좁게 해석했다”며 판결에 의문을 표했다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 부산지법 서부지원 형사3단독 김수홍 부장판사는 업무상 과실치사 혐의로 기소된 헬스장 대표와 트레이너에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;사고는 2024년 12월 부산 서구 한 헬스장 2층 오후 1시 27분쯤 발생했다. 당시 40대 남성 A씨는 혼자서 80㎏ 상당의 바벨로 벤치프레스 운동을 하던 중 바벨에 목이 깔렸다. 벤츠프레스는 가슴 근육을 단련하는 대표적인 운동이다. &lt;br&gt;&lt;br&gt;A씨는 약 25분간 방치되다 병원으로 이송됐고, 일주일 뒤 질식에 따른 뇌 손상으로 숨졌다.&lt;br&gt;&lt;br&gt;검찰은 헬스장 대표와 트레이너가 헬스장 층마다 직원을 상주시키지 않았고, CCTV로 피해자를 수시로 관찰하도록 직원들을 제대로 관리·감독하지 않은 과실이 있다고 봤다. 또 헬스장에 체육 지도자를 배치하지 않은 잘못도 있다고 봤다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “헬스장 층마다 직원을 상주시킬 주의의무가 있다고 볼 근거가 없다”며 “체육 지도자를 두지 않은 사실은 인정되지만, 당시 체육 지도자가 있었다고 하더라도 이 사건 사고를 방지할 수 있었다고 단정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;또 “수영장과 달리 위험성이 그다지 높다고 볼 수 없는 헬스장에서 CCTV를 통해 이용자들의 사고 여부를 수시로 확인할 주의의무가 피고인들에게 있다고 볼 아무런 근거가 없다”며 “질식 상태가 5분만 지속돼도 사망에 이를 가능성이 높은 점을 고려해 보면 헬스장 직원이 CCTV를 수시로 확인해 피해자의 상황을 확인했더라도 피해자가 사망하지 않았을 것이라고 단정할 수도 없다”고 판시하며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;법조계에선 해당 사고에 대해 재판부가 인과관계나 사고 예견 가능성을 좁게 해석했다는 지적이 나온다. 검찰 출신 한 변호사는 “헬스장은 무거운 중량을 드는 기구가 많이 설치된 만큼 오조작이나 오사용 등으로 인한 사고 발생 위험이 크다”며 “판결 내용처럼 수영장과 헬스장의 위험이 완전히 다른지도 의문이 든다”고 했다.&lt;br&gt;&lt;br&gt;이어 “상당한 중량의 기구를 사용하는 헬스장 특성상 올바른 사용 방법대로 안전하게 사용하고 있는지 관찰하고, 관리, 감독할 의무가 피고인들에게 있다고 본다”며 “CCTV를 통해 제대로 된 안전 관리가 이뤄지고 직원이 상주해 관리했다면 피해자의 질식 상태가 5분 이상 지속되지 않았을 가능성이 있다는 점에서 예견 가능성이나 상당 인과관계를 부인한 판결에 동의하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 판결에 불복해 지난 13일 법원에 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>홈플러스 “회생절차 폐지 취소해달라” 법원에 즉시항고</title>
       <link>https://www.chosun.com/national/court_law/2026/07/20/NDCCZX7MLZEUTFMN7CF2AJKI5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/20/NDCCZX7MLZEUTFMN7CF2AJKI5M/</guid>
@@ -914,45 +966,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSA7FJEHBVKMTLPU7YGMB6NNNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 임시휴업 중인 서울 강서구 홈플러스 강서점. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홈플러스가 20일 법원에 회생절차를 재개해달라고 요청했다.&lt;br&gt;&lt;br&gt;서울회생법원 회생4부(재판장 정준영 법원장)는 이날 오후 4시 4분 홈플러스 관리인이 회생절차 폐지 결정에 불복해 즉시항고장을 제출했다고 밝혔다. 즉시항고 기간은 이날까지였다. 홈플러스는 법원에 2000억원 규모의 긴급 운영자금(DIP) 조달 계획을 제출하면서, 상급 법원의 판단을 기다리지 않고 서울회생법원이 스스로 폐지 결정을 취소해 달라고 요청한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 자금 조달은 메리츠금융 계열사들이 홈플러스에 2000억원을 대출하고, 대주주인 MBK파트너스와 김병주 회장이 이를 전액 보증하는 방식이다. 앞서 메리츠와 MBK는 신규 자금의 분담 방식과 보증 범위를 놓고 입장차를 좁히지 못했지만, 회생 절차 폐지 이후 협상을 재개해 즉시항고 마감 직전에 합의에 이른 것으로 전해졌다. &lt;br&gt;&lt;br&gt;홈플러스의 즉시항고로 회생 절차 폐지 결정의 효력은 정지됐다. 다만 즉시항고만으로 회생 절차가 자동으로 재개되는 것은 아니다. &lt;br&gt;&lt;br&gt;우선 서울회생법원이 새로 제출된 자금 조달 계획 등을 토대로 폐지 결정을 취소할지 결정하게 된다. 재판부가 기존의 폐지 결정을 취소하면 홈플러스의 회생 절차는 최종 만기인 9월 4일까지 진행된다.&lt;br&gt;&lt;br&gt;반면 재판부가 2000억원 조달 계획만으로 회생 절차를 계속 이어가기 어렵다고 판단할 경우 사건은 서울고법으로 넘어간다. 서울고법은 회생 절차 폐지 결정이 적법했는지를 심리해 폐지 결정을 유지할지, 취소할지를 판단하게 된다. &lt;br&gt;&lt;br&gt;앞서 재판부는 지난 3일 홈플러스 회생 절차를 폐지하면서 “회생계획을 수행하려면 최소 2000억원의 추가 운영자금이 필요하지만 구체적이고 현실적인 자금 조달 방안이 제시되지 않았다”고 했다. 다만 법원은 즉시항고 기간 안에 자금이 확보되면 새로 제출된 자료를 토대로 폐지 결정을 다시 판단할 수 있다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>민선 9기 충북도정 ‘성장·재정’에 방점…전임 사업도 재검토</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/07/20/YZTG6EI3VBFZ3J5ZUYZGM2PNSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/07/20/YZTG6EI3VBFZ3J5ZUYZGM2PNSU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 08:17:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTQZDGG5STQZBSMI4TMZRUGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이강일 충북도지사직 인수위원장이 30일 도청 브리핑룸에서 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민선 9기 충북도정이 성장동력 확충과 재정 정상화를 양축으로 한 도정 운영 방향을 제시했다. 창업과 첨단산업 육성에는 속도를 내는 대신, 민선 8기 역점사업은 사업성과 재정 부담 등을 따져 계속 추진 여부를 다시 판단하겠다는 것이다.&lt;br&gt;&lt;br&gt;충북도지사직 인수위원회는 20일 민선 9기 15개 분야 100대 공약과 민선 8기 주요 현안사업 20건에 대한 정책 권고안을 발표했다. 40여 일간 활동한 인수위는 이날 발표를 끝으로 공식 일정을 마무리했다.&lt;br&gt;&lt;br&gt;인수위는 새 도정의 핵심 과제로 ‘성장’을 제시했다. 2000억원 규모 창업펀드 조성과 창업특별도 기반 구축을 비롯해 청주공항 투자기반 조성, K-뷰티 클러스터 조기 완성, AI 첨단바이오 산업 육성 등을 통해 충북의 미래 산업 경쟁력을 키우겠다는 구상이다.&lt;br&gt;&lt;br&gt;복지와 균형발전 분야에서는 충북형 응급의료체계 구축과 청주 북부소방서 신설, 남부권 공공산후조리원 설치, 충청권 광역급행철도(CTX) 조기 착공, 오송역 복합환승센터 조성 등을 추진한다. 청년위원회 설치와 금융복지상담센터 운영 등 청년·민생 분야 공약도 함께 담았다.&lt;br&gt;&lt;br&gt;인수위는 공약 발표와 함께 민선 8기 주요 사업에 대한 정책 권고안도 내놨다. 새 사업을 추진하는 것 못지않게 기존 사업을 원점에서 점검해 재정 건전성과 정책 효과를 높여야 한다는 입장이다. &lt;br&gt;&lt;br&gt;우선 충북도 재정과 관련해서는 공무원 인건비 미반영분과 국고보조사업 대응 예산 등 필수 재원을 우선 확보해야 한다고 밝혔다. 지방채 발행이 쉽지 않은 만큼 세출 구조조정을 통해 재정을 운용하는 것이 바람직하다고 권고했다.&lt;br&gt;&lt;br&gt;김영환 전 지사의 대표 사업인 ‘일하는 밥퍼’는 사업 취지에는 공감하면서도 운영 방식 전반은 다시 검토할 필요가 있다고 판단했다. 청풍교 업사이클링 사업 역시 보수공사와 정밀안전진단 결과를 토대로 안전성이 충분히 확보된 이후 운영 여부를 결정하도록 했다.&lt;br&gt;&lt;br&gt;충북인재평생교육진흥원 청사 매입은 이전 자체를 되돌리기보다 인재양성기금이 당초 목적에 맞게 사용됐는지를 면밀히 살펴봐야 한다고 제안했다. 충북개발공사에 대해서도 산업단지 개발 중심의 사업 구조에서 벗어나 수익사업을 확대하고 재무 건전성을 높일 필요가 있다고 했다. &lt;br&gt;&lt;br&gt;이 밖에 그림책정원1937과 당산 생각의 벙커, 옛 자치연수원 활용, 충북아트센터와 도립대표도서관 건립, 충북형 돔구장 조성, 청주의료원 경영 정상화 등 주요 현안에 대해서도 사업별 개선 방향을 제시했다.&lt;br&gt;&lt;br&gt;이강일 인수위원장은 “100대 공약은 민선 9기 도정의 정책 로드맵”이라며 “정책 권고안은 도정 전반을 객관적으로 점검하고 지속 가능한 도정 운영 방향을 제시하기 위한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“금 맡기면 배당 주겠다” 150억원대 사기 종로 금은방 업주 검찰 넘겨져</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/20/OGDJ7LSKKFGQJAWNZNLRFJTKPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/20/OGDJ7LSKKFGQJAWNZNLRFJTKPE/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 07:50:57 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3WEY3CMFTDKZJQGJRDSMBWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 금은방에 골드바가 진열돼 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금을 맡기면 배당을 주겠다고 고객들을 속여 150억원 상당의 금과 현금을 가로챈 종로 금은방 업주가 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 금융범죄수사대는 특정경제범죄가중처벌법상 사기 혐의를 받는 금은방 업주 50대 남성 A씨를 서울중앙지검에 구속 송치했다고 20일 밝혔다. 이날까지 경찰이 파악한 피해자는 146명, 피해 금액은 150억원대다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 고객들에게 “금을 맡기면 배당을 주겠다”고 말해 금을 맡은 후 배당금을 주지 않거나 곗돈을 빼돌린 혐의 등을 받는다. A씨는 15년 이상 서울 종로구에서 영업해 왔다고 한다. &lt;br&gt;&lt;br&gt;이 사건은 지난달 초 서울 혜화경찰서에 고소장이 접수되면서 수사가 시작됐다. 이후 피해 규모가 커지자 서울청이 혜화서로부터 사건을 넘겨받았다. 경찰은 지난 10일 A씨를 검거한 후 지난 12일 A씨에 대해 구속영장을 신청했다. 검찰도 같은 날 법원에 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;서울중앙지법 부동식 영장전문 부장판사는 지난 13일 A씨에 대한 구속 전 피의자 심문(영장실질심사) 결과 “도망할 염려가 있다”며 영장을 발부했다. 이날 법원에 들어선 A씨는 “사기 혐의를 인정하는지”, “피해자들에게 하실 말씀 없는지” 등을 묻는 취재진의 질문에 고개를 숙인 채 답하지 않았다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 은닉한 재산을 확인하는 등 수사를 이어갈 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 7월 21일 화요일 (음력 6월 8일 丙申)</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/20/7ZEEVQYKMFGDHIIKETX4B4UCUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/20/7ZEEVQYKMFGDHIIKETX4B4UCUE/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘1964년 올림픽 銀’ 레슬링 전설 장창선 전 태릉선수촌장 별세 </title>
-      <link>https://www.chosun.com/national/people/2026/07/20/SQSUO7HDVREANOE6MBL76EAQWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/20/SQSUO7HDVREANOE6MBL76EAQWE/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 06:50:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZGGNZZME2TCZLCGJTDEMRVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 별세한 한국 레슬링 선구자 장창선 선생. /대한체육회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1964년 도쿄 올림픽에서 레슬링 은메달을 따냈던 선구자 장창선 전 태릉선수촌장이 20일 별세했다. &lt;br&gt;&lt;br&gt;고인은 대한민국 레슬링의 살아있는 전설이다. 1962년 자카르타 아시아경기대회 은메달, 1964년 도쿄올림픽 은메달을 획득했고, 1966년 미국 톨리도(Toledo) 세계레슬링선수권대회에선 대한민국 선수 최초로 금메달을 획득했다. &lt;br&gt;&lt;br&gt;현역 은퇴 이후에도 국가대표 코치와 대한레슬링협회 전무이사 및 부회장, 태릉선수촌장 등을 역임하며 후진 양성과 대한민국 체육 발전을 위해 헌신했다. 특히 해외 전지훈련 체계와 태릉선수촌 운영 기반을 마련하는 데 혁혁한 공을 세웠고, 체육연금(경기력향상연구연금) 제도의 초석을 다지는 데 기여했다. 2014 인천아시아경기대회 유치위원과 조직위원회 집행위원으로도 활동했다.&lt;br&gt;&lt;br&gt;고인은 대통령 표창(1964, 1994), 대한민국 체육상(1965) 등을 수훈했고, 2014년엔 대한체육회가 선정한 대한민국 스포츠영웅으로 명예의 전당에 헌액됐다. 대한체육회는 고인의 장례를 대한체육회장으로 엄수할 예정이다. 유승민 대한체육회장은 “고인은 대한민국 최초의 세계선수권 금메달리스트로 대한민국 스포츠의 새로운 역사를 개척하신 분”이라며 “평생 국가와 체육 발전을 위해 헌신하신 고인의 숭고한 정신과 업적을 오래도록 기억하고 계승하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>무안 제주항공 참사 조사 처음부터 다시 한다</title>
       <link>https://www.chosun.com/national/transport-environment/2026/07/20/JHFOXZFHZJA2NGY4LQD3RUE7XM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/20/JHFOXZFHZJA2NGY4LQD3RUE7XM/</guid>
@@ -960,19 +973,6 @@
       <description/>
       <pubDate>Mon, 20 Jul 2026 01:13:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZWMZJVMI4TANDCHBQTCMZYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·29 무안공항 제주항공 여객기 참사 유가족협의회가 지난달 24일 국회 정문 앞에서 기자회견을 연 모습./유가족협의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국무총리실은 20일 무안 제주항공 참사를 조사하는 항공철도사고조사위원회 위원장에 최기영(62) 인하대 항공우주방산전문대학원장을 임명했다고 밝혔다. 지난 2월28일 조사위가 국토교통부에서 국무총리실로 이관된 후 위원회를 다시 꾸린 것으로, 관련 조사가 제로(0) 상태에서 다시 시작되는 것이란 해석이 나온다.&lt;br&gt;&lt;br&gt;최 신임 위원장은 부산 대동고 출신으로 서울대 항공우주공학과를 졸업하고 미국 스탠포드대에서 항공우주학 박사 학위를 받았다. 임기는 3년으로 2029년 7월 16일까지다. 총리실은 이날 김인규 항공대 비행교육원장과 정윤식 가톨릭관동대 명예교수를 항공분과 비상임 위원으로, 엄기영 철도기술연구원 수석연구원을 철도 분과 비상임 위원으로 임명했다고 밝혔다.&lt;br&gt;&lt;br&gt;무안 제주항공 참사는 사고가 발생한 지 1년 7개월이 흘렀지만, 아직도 제대로 된 진상 규명이 이뤄지지 않았다. 조사위가 국토부 산하 기관으로 지난해 진행한 조사의 경우 ‘콘크리트 둔덕’ 봐주기 논란 등으로 이어져 공식 발표 조차 하지 못했다. 국토부와 한국공항공사는 지난 2020년 콘크리트 둔덕에 길이 40m, 폭 4.4m, 높이 0.3m의 상판을 추가하는 개량 공사를 벌였다는데, 당시 조사위는 “콘크리트 둔덕 개량 공사는 사고 결과에 영향을 주지 않았다”고 보고서에 기재했다. 항공기 앞부분이 상판에 충돌하면서 속도가 줄어든 덕에 엔진 부분이 받은 충격이 오히려 작았다는 게 조사위의 결론이었다. 이 논란 등 탓에 조사위는 국토부에서 국무총리실로 이관됐다.&lt;br&gt;&lt;br&gt;새 조사위는 편향 조사 의혹을 피하기 위해 사고기의 기체 결함 조사 등 일부 업무를 해외 업체에 맡기는 방안도 추진 중이다. 이를 위해 다수의 해외 조사 업체와 접촉 중인 것으로 알려졌다. 이는 이재명 대통령이 지난 5월 유족들을 만나 “해외에서 전문성을 가진 사람이 있을 텐데 그런 사람을 데려다 쓸 수 있는 거 아니냐”고 말한 데 따른 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 한국남동발전 압수수색… 공직선거법상 기부 행위 의혹</title>
-      <link>https://www.chosun.com/national/2026/07/20/VUDO22DXAVFEBF6U3XTBCE2WGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/20/VUDO22DXAVFEBF6U3XTBCE2WGY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 03:51:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRTIZRZMMYGKZBQGJSDANTCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기윤 창원시장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청 반부패·경제범죄수사1계는 20일 오전 경남 진주에 있는 한국남동발전 본사와 삼천포발전본부 등을 압수수색했다. 강기윤 경남 창원시장이 한국남동발전 사장으로 있을 때 이뤄진 기부 행위 관련 의혹과 관련해 강제수사에 나선 것이다. 경찰은 행사와 기부 행위 관련 자료, 관계자 휴대전화 등을 확보했다.&lt;br&gt;&lt;br&gt;앞서 경남선거관리위원회는 지난 5월 강 시장의 한국남동발전 사장 시절 사전 선거 운동 의혹과 관련한 신고·제보를 토대로 조사를 진행해 검찰에 한국남동발전에 대한 수사를 의뢰했다. 강 시장은 선관위의 수사 의뢰 대상에서는 제외됐다.&lt;br&gt;&lt;br&gt;경남선관위는 한국남동발전이 2024년부터 올해 초까지 창원지역 주민들에게 제공한 행사 10여 건에서 공직선거법을 위반한 기부 행위 정황이 있었다고 결론 내렸다. 이 시기는 강 시장이 남동발전 사장을 하고 있던 때다. 선관위는 강 전 사장이 선거법상 ‘후보자가 되고자 하는 자’로 판단했다. &lt;br&gt;&lt;br&gt;앞으로 진행될 경찰 수사는 남동발전의 기부 행위에 강기윤 당시 사장이 개입했는지 여부가 초점이 될 전망이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSDSNDGMIYWCNJQMMYDKYLDMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 진주에 위치한 한국남동발전 본사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/43VYMWSQXBCMJJUZGD6RLAUVTQ.jpg?auth=42e9b7df61092aa9c0bd0b30fd164510c725ff2ba4e62403fcc9ecd0d25c8363&amp;smart=true&amp;width=620&amp;height=349" type="image/jpeg" height="349" width="620">
-        <media:description type="plain">강기윤 창원시장</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
