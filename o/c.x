@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 항동 쿠팡 물류센터에서 화재… 센터 측 ‘자체 진화’ 신고</title>
+      <link>https://www.chosun.com/national/incident/2026/07/23/K3KV2JFJ2JF5XI2PSJIMQDBDWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/23/K3KV2JFJ2JF5XI2PSJIMQDBDWY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 23:23:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 6시 55분쯤 인천 제물포구 항동7가 쿠팡 15물류센터 6층에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 인명 피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;소방 당국은 “냉동창고 인근에서 불이 나 소화기로 자체 진화했다”는 센터 측 신고를 받고 현장에 출동했다. &lt;br&gt;&lt;br&gt;소방 당국은 “불을 끄는 대로 구체적인 피해 규모와 화재 원인을 조사할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“시커먼 재가 비처럼…” 쿠팡 불길 잡혔지만 주민들은 고통</title>
       <link>https://www.chosun.com/national/national_general/2026/07/23/C3MEISZXY5D43MER47ANFHTDOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/23/C3MEISZXY5D43MER47ANFHTDOY/</guid>
@@ -871,19 +880,6 @@
       <description/>
       <pubDate>Tue, 21 Jul 2026 15:43:00 +0000</pubDate>
       <content:encoded>정부가 줄기세포나 면역세포를 활용한 첨단재생의료 임상연구를 직접 지원하고, 안정성이 확보된 기술에 대해선 치료 문턱을 낮추기로 했다. 줄기·면역세포 치료를 위해 해외로 갈 필요 없이 국내에서 해당 치료를 받을 수 있도록 한다는 게 목표다.&lt;br&gt;&lt;br&gt;21일 보건복지부는 이 같은 내용의 ‘첨단재생의료 및 첨단바이오의약품 기본계획(2026~2030)’을 심의·의결했다고 밝혔다. 이에 따르면 해외 원정 빈도가 많은 근골격계·만성 통증(줄기세포 기반), 혈액암·고형암(면역세포 기반) 치료 연구를 우선 지원하게 된다. 복지부 관계자는 “정부 주도로 임상 연구에 들어가는 과제의 연구 기간은 21개월로, 이달부터 시작하면 2028년 상반기쯤 연구가 마무리될 것”이라며 “이후 치료 계획 신청·심의 등 절차를 거쳐 이르면 2028년 하반기에 치료 실시 여부가 결정될 수 있을 것”이라고 했다. 치료 계획 심의에서 안전성과 유효성, 치료 비용 등을 검토해 국내 치료 실시 여부가 결정될 예정이다.&lt;br&gt;&lt;br&gt;그동안 줄기·면역세포 치료가 해외에서 대중화된 것과 달리, 국내에선 정부 승인 문제와 비용 대비 효과 등 때문에 자발적으로 연구에 뛰어든 기관이 많지 않았다. 이에 환자 동의만 있으면 새로운 시도를 할 수 있는 일본 등으로 원정 치료를 가는 경우가 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울고 넘는 대관령… 영동 뇌졸중 환자, 골든타임 놓쳤다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/07/22/UFATCSA7KJHOHNWMQTKT3B7XNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/22/UFATCSA7KJHOHNWMQTKT3B7XNE/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Q3Y4KKEV5KDBF7VY3RIODPFVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 강원 춘천시 한 대학병원 응급실 앞에서 119구급대원들이 응급환자를 이송하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 양양에 사는 70대 할머니 A씨는 지난해 10월 추석 전날 밤, 집에서 명절 음식을 하다가 쓰러졌다. 구급차를 타고 도착한 가까운 병원 응급실에선 “뇌경색이 의심된다”고 했다. 문제는 응급 수술을 할 수 있는 병원을 영동 지역에서는 찾을 수 없었다는 것이다. 결국 영동·영서 지역을 가르는 대관령(해발 약 823m)을 넘어 춘천으로 가야 했다. 하지만 이미 치료 골든타임을 넘긴 이 할머니는 수술대에 오르기도 전에 숨졌다. &lt;br&gt;&lt;br&gt;강원 영동 지역의 뇌졸중, 심근경색 환자와 가족에게 대관령은 ‘울고 넘는 대관령’ ‘통곡의 벽’으로 통한다. 가뜩이나 의료 인프라가 부족한 상황에서, 서쪽에 솟아 있는 태백산맥은 영동 지역 응급 환자들이 치료받기 위해 외부로 나가는 것도 어렵게 만들기 때문이다. 영동 지역에서 구급차로 대관령을 넘어 강원도 춘천까지 가는 데만 약 2~3시간. 이동하는 차 안에서 사실상 골든타임을 넘기는 셈이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UOLRP46FNHCFIIRMVX2CIUIZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원도 강릉시와 평창군 사이에 위치한 대관령. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국보건사회연구원이 차량으로 1시간 내 심뇌혈관 병원 도착이 어려운 ‘치료 취약’ 시·군을 조사한 결과, 전국에서 총 36곳(2023년 기준)이 여기에 해당됐다. 심뇌혈관 질환 치료의 골든타임을 통상 3시간 안팎으로 보는데, 수술 준비 시간 등을 감안해 1시간 내 병원에 도착하지 못하면 취약 지역으로 분류한 것이다. 강원 지역이 10개(27.8%) 시·군으로 가장 많았고, 이 중 6곳이 영동 지역이었다. 영동 지역 7개 시·군 중 강릉을 제외한 속초, 고성, 양양, 동해, 삼척, 태백 등 전 지역이 취약지라는 것이다. 특히 이곳은 뇌혈관 질환 치료 취약도가 모두 80%대로 파악됐는데, 이는 지역 주민 10명 중 8명 이상이 1시간 내 뇌혈관 치료 병원에 도착하지 못한다는 의미다. 영동 지역의 취약 시·군은 경남(6곳) 전체와 같았고 전북(4곳)이나 경북(2곳)보다 많았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVZSF7E7VZCI7KIKNCHJNRRK3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 고성에 사는 B(56)씨는 지난달 초 출근길에 극심한 두통으로 쓰러졌다. 가까운 응급실에서 뇌출혈 진단을 받았지만, 제대로 수술이 가능한 병원에 도착하기까지 걸린 시간은 증상이 나타난 뒤 3시간이 지나서였다. 결국 그는 우측 편마비로 혼자 걷지 못하고 긴 문장을 말하지 못하는 후유 장애를 겪고 있다. &lt;br&gt;&lt;br&gt;그럼에도 영동에는 이 일대의 심뇌혈관 치료를 총괄하는 권역심뇌혈관센터가 없다. 24시간 진료를 위한 당직 전문의와 장비를 갖춘 권역심뇌혈관센터는 정부에서 매년 11억원의 운영비를 받는다. 인구 10만명당 뇌졸중 환자 수는 영동(1598명)이 영서(1556명)보다 많지만, 현재 강원도에서는 춘천(영서 지역) 강원대병원 1곳만 권역심뇌혈관센터로 지정돼 있는 상태다. 보건복지부 관계자는 “권역심뇌혈관센터는 광역 시·도당 1곳에만 지정된다”며 “강원도에만 2곳을 두면 다른 지역과의 형평성 논란이 생길 수 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDQNBYG5TDIYJXGM3DANBYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원대학교병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 의료계에선 “영동 지역의 특성을 고려할 필요가 있다”, “지역 내 일부 의사가 병원에 살다시피 하면서 환자를 돌보지만 역부족”이란 지적이 적지 않다. 강원소방본부에 따르면, 올해 들어서만 119 구급차에 실려 서울이나 경기, 강원 영서 지역으로 이송된 영동 심뇌혈관 환자는 16명이었다. 매달 2~3명꼴인 셈이다. 박익성 가톨릭대 부천성모병원장(신경외과)은 “강원 영동에 권역 센터를 둬서 안정적으로 환자를 치료할 수 있는 시스템을 만들어 놔야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2Q3Y4KKEV5KDBF7VY3RIODPFVQ.jpg?auth=ff4c3e812c67ef7ef6dd8f9be8edf29009046add71f55cce6b5a51cbb1dbbebc&amp;smart=true&amp;width=3917&amp;height=2938" type="image/jpeg" height="2938" width="3917">
-        <media:description type="plain"> 강원 춘천시 한 대학병원 응급실 앞에서 119구급대원들이 응급환자를 이송하는 모습./연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">양지웅</media:credit>
-      </media:content>
     </item>
     <item>
       <title>김병관·이윤경 고려대 동문 부부, 후배들 위해 장학금 10억원 전달</title>
