@@ -13,6 +13,204 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘건강·변호사 핑계’ 재판 거부… 부산 돌려차기 男, 3번째 공판에 출석</title>
+      <link>https://www.chosun.com/national/regional/2026/07/22/52UY3PQJTNFSDCFMIAFXGVWT7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/22/52UY3PQJTNFSDCFMIAFXGVWT7A/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 05:55:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSLVHMAHMW6ATDBBT7FLEJSIAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 돌려차기 사건. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해자에게 보복하겠다고 협박한 혐의로 1심에서 실형을 선고받았던 ‘부산 돌려차기’ 사건 가해자 이모(33)씨가 항소심 세 번째 공판 기일이 돼서야 법정에 출석했다.&lt;br&gt;&lt;br&gt;부산고법 형사2부(부장 박운삼)는 22일 특정범죄가중처벌법상 보복 협박 등 혐의로 기소된 이씨에 대한 항소심 공판을 열었다.&lt;br&gt;&lt;br&gt;이씨는 앞서 두 차례 공판에 건강 문제와 국선 변호인에 대한 불만 등의 이유로 법정에 출석하지 않았다. 이에 항소심 재판부가 피고인이 불출석하더라도 재판을 진행하겠다고 통지하자 이씨는 이날 모습을 드러냈다.&lt;br&gt;&lt;br&gt;이씨는 국선 변호인과 신뢰 관계가 훼손됐다고 사임을 신청했으나 재판부는 이를 받아들이지 않았다. 재판부는 이씨에게 “국선 변호인은 그야말로 공익의 의무로서 하는 것이고 한 달에 처리하시는 사건 수가 상당히 많다. 전적으로 본인 사건만 다 할 수 없다”며 “항소심은 1심의 심리와 판단을 토대로 부족한 부분을 보충해 가며 결론을 내는 것이어서 이대로 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;항소심에선 A씨가 수감 중 제3자에게 한 발언이 피해자에게 전달되도록 의도했는지와 보복 목적의 협박으로 볼 수 있는지가 핵심 쟁점이다. &lt;br&gt;&lt;br&gt;이씨는 2023년 2월 구치소에서 동료 수감자이자 유튜버인 A씨에게 ‘부산 돌려차기 사건’ 피해자인 김진주(필명)씨를 폭행해 살해하겠다는 등 보복 협박 발언을 한 혐의를 받는다. 이씨의 이 같은 발언은 A씨가 출소한 뒤 개인 방송 등을 통해 해당 사실을 알리면서 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “제3자를 통한 보복 협박 사례여서 관심을 두고 있다”며 “관련 하급심 판례를 많이 찾아봤고 증거 기록을 토대로 판단하겠다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 이씨에게 징역 3년을 구형했다. 선고 공판은 다음 달 12일 오후 2시로 예정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 상주 하천서 물놀이하던 초등생 1명 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/07/22/RFQXPB5QXFBTJCXHUJHW4L3FDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/22/RFQXPB5QXFBTJCXHUJHW4L3FDY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 09:45:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44TGMZVGIYDANJZGBRTIMJTHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 3시 19분쯤 경북 상주시 계산동 북천에서 친구 6명과 물놀이를 하던 초등학생 A 양이 물에 빠져, 소방 당국이 수색에 나섰다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 상주의 한 하천에서 친구들과 물놀이를 하던 초등학생 1명이 물에 빠져 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;22일 소방 등에 따르면, 이날 오후 3시 19분쯤 경북 상주시 계산동 북천 징검다리 인근에서 친구들과 물놀이하던 A양이 물에 빠졌다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 구조대원 등 40여 명과 소방차량 15대를 투입해 수색에 나섰다. A양은 이날 오후 5시쯤 사고 지점에서 약 30m 떨어진 하천에서 발견됐다. &lt;br&gt;&lt;br&gt;A양은 심정지 상태로 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 함께 물놀이하던 친구들과 목격자 등을 상대로 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>집에 텐트·조명 갖추고 대마 재배...힙합 가수·작곡가 등 무더기 재판행</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/22/WVIEP23TLNCYTFMU7H5SSXZCTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/22/WVIEP23TLNCYTFMU7H5SSXZCTU/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:54:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4WGZBTGE4GINTFGI4GEYJWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생육 중인 대마. /마약범죄 합동수사본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주택가 등에서 전문 설비를 갖추고 대마를 재배해 온 힙합 가수와 작곡가 등이 무더기로 적발돼 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;마약범죄 정부합동수사본부(합수본)는 지난 3월부터 이달 22일까지 약 4개월간 대마 재배 사범 집중 수사를 벌여 총 12명을 마약류 관리에 관한 법률 위반 혐의로 기소했다고 22일 밝혔다. 이중 혐의가 무거운 6명은 구속됐다.&lt;br&gt;&lt;br&gt;합수본에 따르면, 적발된 이들 중 8명(3명 구속)은 주거지에서 대마를 길러온 프리랜서 음악 강사, 힙합 그룹 멤버, 작곡가, 영어 강사 등이다. 힙합 그룹 멤버 A씨는 지난해 5월부터 올해 5월까지 주거지에서 대마 3주를 재배하고 대마 약 155.9ｇ을 보관한 혐의를 받는다.&lt;br&gt;&lt;br&gt;외국인 영어강사 B씨 등 2명은 거주지에서 대마 29주를 길러 대마 젤리를 직접 제조한 뒤 800만원 상당을 판매한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 40대 작곡가 등 3명은 2019년부터 장기간 대마를 공동 재배하며 900g이 넘는 대마를 보관해 온 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 거주지에 식물 재배용 텐트와 LED 조명, 자동 급수대 등 장비를 설치해 대마를 재배한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;합수본은 이들로부터 대마 약 3㎏과 대마 젤리 545ｇ, 재배 중이던 대마 39주 등을 압수했다고 밝혔다.&lt;br&gt;&lt;br&gt;인적이 드문 공장과 창고에 대규모 설비를 차려놓고 조직적으로 대마를 재배한 40∼60대 일당 4명(3명 구속)도 적발됐다.&lt;br&gt;&lt;br&gt;합수본 관계자는 작곡가, 가수 등을 비롯해 평범한 일반인들마저 주거 밀집 지역에서 소위 “입문 마약”이라 불리는 대마를 재배하고 있었다”며 “대마가 청소년 등 국민의 평범한 일상에 침투하는 것을 막겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 1심 벌금 1000만원… 확정 땐 서울시장직 상실</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/22/4OH6YO6M5VGQBOL34ICS45HD2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/22/4OH6YO6M5VGQBOL34ICS45HD2A/</guid>
+      <dc:creator>유희곤 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 05:52:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X64VBBXTTVIQZFVBAR2IBJOXOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;22일 서울 서초구 서울중앙지방법원에서 열린 정치자금법위반 혐의 1심 선고에서 벌금 천만원을 선고받은 오세훈 서울시장이 법원을 나서고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘여론조사비 대납 의혹’을 받는 오세훈 서울시장에게 22일 1심에서 시장직 상실형인 벌금 1000만원이 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 이날 오 시장의 정치자금법 위반 사건에서 벌금 1000만원과 추징금 2100만원을 선고했다. 강철원 전 서울시 정무부시장에게는 벌금 300만원이, 오 시장의 후원회장으로 알려진 사업가 김한정씨에게는 벌금 500만원이 각각 선고됐다.&lt;br&gt;&lt;br&gt;오 시장은 2021년 4·7 서울시장 보궐선거를 앞두고 ‘정치 브로커’ 명태균씨에게서 총 10차례(비공표용 7회 포함)에 걸쳐 여론조사 결과를 받고 비용 3300만원을 김한정씨에게 대신 내게 한 혐의로 작년 12월 기소됐다. 오 시장 지시를 받고 명씨의 여론조사 진행을 도운 혐의를 받는 강 전 부시장, 5차례에 걸쳐 명씨에게 금품을 건넨 김씨도 함께 재판에 넘겨졌다. 이들을 기소한 민중기 특별검사팀은 지난달 17일 오 시장에게 징역 1년 6개월에 추징금 3300만원을, 강 전 부시장과 김씨에게는 각각 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;반면 오 시장은 2021년 2월쯤 명씨와의 관계가 이미 단절된 상태였고, 김씨가 오 시장 모르게 자발적으로 명씨에게 여론조사비 일부 또는 개인적인 목적의 비용을 지불한 것이라고 주장했다. &lt;br&gt;&lt;br&gt;그러나 재판부는 오 시장이 당시 명씨에게 여론조사를 의뢰할 만한 동기가 있었다고 봤다. 또한 김씨가 명씨나 강 전 부시장을 전혀 알지 못했던 상태로 보이는 만큼, 오 시장의 부탁이 없었다면 명씨에게 금품을 보낼 이유가 없었을 것이라고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 오 시장이 명씨에게서 받았다고 특검이 적용한 여론조사 10회 중 5회(비공표용 3회) 2100만원 상당은 오 시장이 김씨에게 비용을 대납한 게 인정된다고 했다. 그러면서 법원은 김씨가 대납한 여론조사비가 “정치자금”이라고 했다.&lt;br&gt;&lt;br&gt;정치자금법 제57조에 따라 불법 정치자금을 받은 죄로 벌금 100만원 이상이 확정되면 공직을 잃고 5년간 공직 선거에 출마할 수 없다. 집행유예 이상이 확정되면 10년간 피선거권이 박탈된다. 이날 오 시장에게 선고된 벌금 100만원 이상 형이 그대로 확정되면 오 시장은 2030년에 치러질 제22대 대통령선거에 출마할 수 없다.&lt;br&gt;&lt;br&gt;이날 재판부는 오 시장에게 벌금 1000만원을 선고하면서 “부정하게 수수한 정치자금이 2100만원에 달하고, 명씨에게 여론조사를 의뢰한 행위를 감추는 등 죄질이 좋지 않다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VN43U4L4CFL7TIFPLOMWBHZ2XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 22일 서울 서초구 서울중앙지방법원에서 열린 정치자금법위반 혐의 1심 선고를 마치고 취재진의 질문에 답하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오 시장은 오후 1시 51분쯤 서울 서초동 법원 청사에 도착해 별다른 입장 발표 없이 법정으로 들어갔다. 선고 후에는 “납득할 수 없다”며 “항소심에서 다투겠다”고 했다.&lt;br&gt;&lt;br&gt;반면 민중기 특검은 선고 후 “의미있는 판결”이라고 했다. 박노수 특검보는 “정치적 고려 없이 증거와 법리에 기초해서 유죄 판단을 해 준 재판부에 감사하다”면서 “무죄 판단 부분, (구형인) 징역형이 아닌 벌금형이 선고된 부분은 판결문을 분석해 항소 여부를 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/P5GPXLI7YNHQ3KDRCD6M7ASUBQ.jpg?auth=cc04416e79f95b48c8785d58e688af5d0a585ecd982f9f24bae77abf471ad6a8&amp;smart=true&amp;width=2082&amp;height=1171" type="image/jpeg" height="1171" width="2082">
+        <media:description type="plain">[서울=뉴시스] 김금보 기자 = 오세훈 서울시장이 22일 서울 서초구 서울중앙지방법원에서 열린 정치자금법위반 혐의 1심 선고를 마치고 법원을 나서고 있다.
+
+오 시장은 지난 2021년 서울시장 재보궐선거를 앞두고 정치 브로커 명태균 씨에게 총 10차례에 걸쳐 여론조사 결과를 제공받고 후원자 김 씨에게 3300만 원 상당의 비용을 대납하도록 한 혐의로 1심 벌금 1000만 원을 선고 받았다. (공동취재) 2026.07.22. photo@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">ryuhj</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>부산 주택가서 50대 ‘전동 못총’ 난동...경찰특공대 투입해 체포</title>
+      <link>https://www.chosun.com/national/incident/2026/07/22/UNDKBXVYRJFKJACDBSM4LYXUF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/22/UNDKBXVYRJFKJACDBSM4LYXUF4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 07:36:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPR2DYZB6VCPJBBWZ36R2AM5PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범행에 사용된 타정총. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 주택가에서 타정총(공사장에서 사용하는 전동 못총)으로 소란을 피운 50대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;22일 사상경찰서에 따르면, 이날 오전 9시 15분쯤 사상구 주례동 한 주택가에서 50대 남성 A씨가 술에 취한 상태로 타정총을 들고 주변을 위협한다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰관들은 인근 주민들을 대피시켰다. 주택 2층 베란다에 서 있던 A씨는 자신을 제지하려던 경찰관을 향해서도 타정총을 난사했다.&lt;br&gt;&lt;br&gt;특공대는 이날 오전 11시쯤 섬광 폭음탄을 터뜨린 뒤 2층과 1층에서 동시에 진입해 A씨를 제압했다. 다행히 다친 경찰관은 없었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 특수공무집행방해 혐의로 입건해 정확한 범행 동기 등을 수사할 예정이다. A씨는 주취 소란 관련 전과가 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무장관 “최영중 전 청주시의원 사건, 필요 시 검사 감찰”</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/22/QJBKECIANBB4FMHNG7GCI2WFRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/22/QJBKECIANBB4FMHNG7GCI2WFRU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:50:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMNQTNAUAJPDPHF6LVDZAS6ZYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 22일 국회 법제사법위원회 긴급현안질의에서 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 22일 최성중 전 청주시의원의 아동 성매매 사건 수사가 검찰의 경찰 신청 통신영장 기각으로 지연됐다는 더불어민주당 측 주장에 대해 “필요하면 검사 감찰도 해 보겠다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 국회 법제사법위원회 긴급현안질의에서 검찰이 경찰 신청 통신영장을 기각한 것과 관련해 “적정한 판단이었는지 상세히 살펴보겠다”며 이렇게 말했다.&lt;br&gt;&lt;br&gt;또 정 장관은 “검사가 영장 없이도 즉시 통신내역 보전조치를 통신사에 요청할 수 있다”는 민주당 김용민 의원에게 “즉시 조치하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;최 전 시의원은 2024년 10월부터 작년 5월까지 중학생과 여러 차례 성관계를 하고 성착취물을 제작한 혐의(아동·청소년의 성보호에 관한 법률 위반 등)로 경찰 수사를 받고 있다. 청주청원경찰서는 지난 2월 피해자의 고소장을 접수한 지 약 4개월 만인 지난 9일 최 전 의원에 대한 압수수색 영장과 통신영장을 검찰에 신청했다. &lt;br&gt;&lt;br&gt;그러나 청주지검은 경찰이 신청한 통신영장이 ‘본건 범죄사실과 직접 관련이 없는 별건 범죄사실에 대해 영장을 신청했고, 이에 대한 소명도 부족하다”며 기각했다. 압수수색 영장은 수색 장소를 추가하고 직장 주소와 차량을 특정할 수 있는 내용을 첨부하라고 보완수사를 요구했다. 압수수색 영장은 경찰이 지난 13일 재신청해 검찰을 거쳐 발부됐다.&lt;br&gt;&lt;br&gt;청주지검은 민주당이 검찰의 통신영장 기각을 문제 삼자 지난 19일과 21일 입장문을 내고 “경찰에서 보완수사를 통해 추가 피해자 및 범죄 혐의에 대해 소명해 통신영장을 다시 신청하면 영장을 청구해 통신자료 확보가 가능하다”면서 “앞으로도 일체의 다른 고려 없이 기록을 통해 확인된 사실관계 및 법리에 기초해 미성년 피해자의 권리 구제와 철저한 진상 규명을 위해 만전을 기할 것”이라고 했다.&lt;br&gt;&lt;br&gt;청주지검은 이날도 기자간담회를 열고 “통신영장 반려와 보완수사 요구 모두 법리와 증거에 따른 판단이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “즉시 항소... 흔들림없이 서울시정 유지할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/22/OMQGGH7IZBFSHKDCNHRIS3J4RQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/22/OMQGGH7IZBFSHKDCNHRIS3J4RQ/</guid>
+      <dc:creator>이미지 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:02:53 +0000</pubDate>
+      <content:encoded>정치 브로커 명태균씨에게 여론조사 결과를 제공받고 그 비용을 제3자에게 대납하는 방식으로 불법 정치자금을 수수한 혐의로 1심에서 벌금 1000만원을 선고받은 오세훈 서울시장이 22일 간부 회의를 열고 “각자의 자리에서 맡은 업무에 최선을 다해달라”고 당부했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QTKY3FGYZDEYZYGU4WGMDDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 22일 서울 서초구 서울중앙지방법원에서 열린 정치자금법위반 혐의 1심 선고를 마치고 법원을 나서고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 1심 선고 후 간부 회의를 열고 “개인적인 재판으로 직원 여러분께 걱정을 끼쳐드리게 된 점은 유감스럽게 생각한다”고 입을 뗐다. 하지만 “이번 1심 판결은 사실관계와 법리 판단에 있어 중대한 오류”라며 “상급심에서 바로잡힐 것”이라며 항소 의사를 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 2021년 4월 서울시장 보궐선거 당시 명씨가 실소유한 것으로 지목된 미래한국연구소의 여론조사를 10차례 받았다는 혐의로 기소됐다. 사업가 김한정씨가 당시 미래한국연구소 실무자였던 강혜경씨 계좌로 합계 3300만원 상당을 대납하는 데 관여했다는 혐의도 있다. 이날 선고받은 형이 그대로 확정되면 오 시장은 시장직을 잃게 된다. 정치자금법 위반으로 100만원 이상의 벌금형(집행유예 포함)이 선고되고 확정되면 5년간 공무담임 등의 제한 규정에 따라 취임하거나 임용될 수 없고, 이미 취임 또는 임용된 자는 직에서 퇴직해야 하기 때문이다.&lt;br&gt;&lt;br&gt;오 시장은 “서울 시정은 어떠한 경우에도 흔들림 없이 운영되어야 한다”면서 “직원 여러분도 각자의 자리에서 맡은 업무에 최선을 다해달라”고 말했다. 아직 형이 확정된 것이 아닌 만큼 재판 사실과 상관없이 업무를 이어가라는 당부다.&lt;br&gt;&lt;br&gt;오 시장의 선고 이후 서울시는 이종현 민생소통특보 명의로 “즉각 항소할 것”이라는 입장을 밝혔다. 이 특보는 “직접적인 지시나 관여를 입증할 증거가 없음에도 명태균 개인의 일방적인 진술과 주변 정황만을 근거로 유죄를 선고했다”며 “즉시 항소해 사실관계와 법리를 다시 충실히 다투겠다”고 말했다.&lt;br&gt;&lt;br&gt;서울시의회 국민의힘 최종부 대변인도 “서울시민의 선택과 수도 서울의 행정 안정에 중대한 영향을 미치는 이번 1심 판결을 도저히 납득하기 어렵다”는 논평을 내놓았다. 최 대변인은 “형이 최종 확정될 때까지 오세훈 시장의 직무와 권한은 적법하게 유지된다”며 “시민의 삶을 지키고 산적한 민생 현안을 해결하는 본연의 책무에 어떠한 공백이나 차질도 발생하지 않도록 서울특별시의회 국민의힘이 더욱 단단하고 결연하게 서울시정을 뒷받침하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5YNY7PBREZNZDEX5RKP3TTOBDY.jpg?auth=f8a3d19a7157abd166184449d9a0d6234a3d5dc16a60f1dfdbcacf5d33a1ce59&amp;smart=true&amp;width=1779&amp;height=1238" type="image/jpeg" height="1238" width="1779">
+        <media:description type="plain">&lt;YONHAP PHOTO-3518&gt; 답변하는 오세훈
+    (서울=연합뉴스) 서명곤 기자 = 정치 브로커 명태균씨로부터 여론조사 결과를 받아보고 후원자에게 비용을 대납하게 한 혐의로 기소된 오세훈 서울시장이 22일 오후 서울 서초구 서울중앙지법에서 열린 선고 공판을 마친 뒤 법정을 나서며 취재진의 질문에 답하고 있다.
+    서울중앙지법 형사합의22부(조형우 부장판사)는 이날 정치자금법 위반 혐의로 재판에 넘겨진 오 시장에게 벌금 1천만원을 선고했다. 2026.7.22
+    seephoto@yna.co.kr/2026-07-22 15:57:09/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">서명곤</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>장윤기, 피해 여고생 알았다? 경찰, 일주일 만에 “사실 아니다” </title>
+      <link>https://www.chosun.com/national/incident/2026/07/22/EE7KQK5WTNELBPNJN5XH6T23P4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/22/EE7KQK5WTNELBPNJN5XH6T23P4/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:18:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLV33WCEA5MQLPC3NVDKZW4NWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오둥욱 경찰청 국가수사본부 '장윤기 사건 진상규명' 특별수사단장이 지난 15일 중간 수사 결과를 브리핑하면서 고개를 숙이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 여고생 살인범 장윤기가 피해자를 미리 알고 있었을 정황이 있다고 발표했던 경찰청 국가수사본부 ‘장윤기 사건 진상 규명’ 특별수사단이 “해당 정황에 대해 수사한 결과, 사실이 아니었다”고 22일 밝혔다. 특수단이 확인되지 않은 정황을 섣불리 언론에 공개했다가 사망한 여고생에 대한 2차 가해 논란만 불렀다는 비판이 제기된다.&lt;br&gt;&lt;br&gt;당초 장윤기는 자신이 성폭행하고 스토킹하던 베트남 여성을 살해하려고 마음먹었다가 일면식 없는 여고생을 따라가 살해한 것으로 조사됐다. 하지만 특수단은 지난 15일 장윤기 사건 부실 수사 의혹에 대한 중간 수사 결과를 발표하면서 “장윤기가 피해 여고생을 일방적으로 미리 알고 있었을 수도 있는 정황이 있었는데, 당시 수사팀이 이를 확인하지 않았다”고 했다. 장윤기의 카카오톡 친구 목록에 피해자와 같은 이름이 있었는데, 동일인 여부가 확인되지 않은 상황에서 이 같은 발표를 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해당 발표 이후 사망한 여고생에 대한 2차 가해가 이어지자 유족은 “경찰이 확인되지 않은 사실을 발표해서 2차 가해가 이어지고 있다”며 반발했다. 실제로 경찰은 해당 피해자에 대한 2차 가해 사건을 14건 수사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;특수단은 “이런 사항을 확인한 것은 장윤기 사건 수사 과정에서 성적 목적이 있었는지를 밝힐 중요한 단서를 확인하지 않은 수사기관들의 과오를 밝히고자 했던 것”이라며 “다만 이러한 과정에서 사전에 피해자 가족 측에 설명드리고 양해를 구하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “발표 당일 가족 측을 만나 충분히 사과했고 현재까지 필요한 부분은 수시로 소통하며 상세히 공유하고 있다”며 “수사상 미흡했던 부분에 대해 피해자 가족께 재차 송구하다는 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“경남도 물류창고 화재 안전지대 아냐”…정희성 도의원, 선제적 예방 대책 촉구 </title>
+      <link>https://www.chosun.com/national/2026/07/22/XHVRD62DDRDJND4GAUOZDCXYFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/22/XHVRD62DDRDJND4GAUOZDCXYFA/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:39:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWKRZK3J55KFLA55I2D55NN6N4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 인천 서해구 석남동 쿠팡32물류센터 화재 현장에서 소방 관계자들이 진화작업을 하고 있다.
+지난 18일 발생한 화재는 61시간만에 큰 불길이 잡혔다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;61시간 만에 큰불을 잡은 인천 쿠팡 물류센터 화재로 전국 물류 시설 안전 관리 강화의 목소리가 커지는 가운데 경남에서도 전면적인 안전 점검과 예방 대책이 필요하다는 제언이 나왔다.&lt;br&gt;&lt;br&gt;정희성(국민의힘·창원12) 경남도의원은 22일 제435회 임시회 제3차 건설소방위원회 소방본부 2026년 주요 업무 보고에서 “경남 역시 물류 창고 화재의 안전지대가 아니다”라며 도내 대형 물류 창고에 대한 긴급 안전 점검과 관련 제도 개선을 강력히 촉구했다.&lt;br&gt;&lt;br&gt;앞서 지난 7월 18일 발생한 인천 쿠팡 물류센터 화재는 신고 접수 후 61시간이 지나서야 큰 불길이 잡혔다. 당시 국가 소방 동원령이 발령되며 장비 230여 대와 소방 인력 810여 명이 투입됐다. 건물 붕괴 우려로 인근 주민들에게 대피령까지 내려졌다. &lt;br&gt;&lt;br&gt;경남에도 대형 물류 창고가 존재한다. 정 의원에 따르면 경남엔 입점 대상 물류 창고 261곳, 등록 창고 301곳이 있다. 이 중 대형 물류 창고는 20곳으로 파악된다. 특히 초대형 물류창고라 불리는 10만㎡ 이상의 시설도 4곳이 운영 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HATOKIN35BGPBPDU7KEDSZR7S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정희성 경남도의원.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 의원은 “인천 화재는 고밀도 적재 구조와 복잡한 내부 동선, 다량의 가연물 등 대형 물류센터가 가진 구조적 취약성을 여실히 보여준 사례”라며 “경남 역시 300개가 넘는 물류창고가 운영 중인 만큼 철저한 화재 대비가 필수적”이라고 지적했다.&lt;br&gt;&lt;br&gt;정 의원은 신규 시설뿐만 아니라 기존 물류 창고에 대한 안전 기준 강화 방안도 제안했다. 정 의원은 일정 규모 이상 기존 창고에도 인랙(In-Rack) 스프링클러, 방화구획, 제연·배연설비, 비상 전원 등 강화된 화재안전기준을 단계적으로 적용해야 한다고 강조했다. 또 내부 구조나 적재 방식이 바뀔 경우 소방 안전성을 재심사하는 ‘변경 관리 제도’ 도입의 필요성도 역설했다.&lt;br&gt;&lt;br&gt;정 의원은 “새로 짓는 시설의 기준만 강화해서는 기존 물류 창고에 도사리고 있는 위험을 해소할 수 없다”면서 “사고 발생 후 수습 대책을 마련할 것이 아니라, 지금 즉시 현장 점검과 구조별 위험도 조사에 착수해야 한다”고 집행부의 발 빠른 대응을 촉구했다.&lt;br&gt;&lt;br&gt;이어 “물류 산업의 속도와 효율은 노동자와 소방대원, 지역 주민의 안전이 보장될 때 비로소 의미를 가진다”며 “대형 물류 창고 화재가 대규모 인명 및 재산 피해로 이어지지 않도록 입법적, 구조적 혁신을 서둘러야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘李 명예훼손' 혐의 모스 탄 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/22/WMVLXBK4LJEE3D45TZX7CLNZVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/22/WMVLXBK4LJEE3D45TZX7CLNZVY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:13:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3GCZRXMZSDGODEGIYTQOJXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;모스 탄 전 미국 리버티대 교수가 지난 6월 24일 개표소 봉쇄 시위가 열리고 있는 서울 송파구 올림픽공원 핸드볼경기장에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 명예를 훼손한 혐의를 받는 모스 탄(한국명 단현명) 전 미국 리버티대 교수가 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;22일 법조계에 따르면 서울중앙지검 형사1부(부장 직무대리 박향철)는 지난 16일 탄 전 교수를 정보통신망법상 명예훼손과 형법상 명예훼손 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;탄 전 교수는 작년 미국 워싱턴DC에서 열린 기자회견 등에서 “이 대통령이 청소년 시절 집단 성폭행과 살인 사건에 연루돼 소년원에 수감됐다”는 허위 사실을 유포한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 사건을 수사한 서울경찰청 사이버수사대는 작년 7월 고발장을 접수하고 지난 4월 외국인이 외국에서 한 범죄는 공소권이 없다며 각하했다. 그러나 검찰은 피해자(이 대통령)가 국내에 있어 범죄 혐의를 적용할 수 있다며 재수사를 요청했다. 경찰은 지난 5월 입국한 탄 전 교수가 출석 요구에 응하지 않자 출국 정지하고 비공개 조사한 뒤 지난 1일 탄 전 교수 사건을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;최근 탄 전 교수는 자신에 대한 출국정지 처분을 풀어달라고 두 차례 행정소송을 제기했지만 법원이 기각했다. &lt;br&gt;&lt;br&gt;탄 전 교수는 2019년 도널드 트럼프 1기 행정부에서 국무부 국제형사사법대사를 지냈다. 그는 대표적인 부정선거 음모론자로 꼽히며, 윤석열 전 대통령이 선포한 12·3 비상계엄을 두둔하고 작년 21대 대선에서도 부정선거가 있었다고 주장했다. 서울 송파구 올림픽공원의 ‘개표소 봉쇄 시위’ 현장도 여러 번 가서 부정선거의 배후에 중국이 있다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 1심에 與 “정치적 책임 져라” 조국당 “즉각 사퇴하라”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/07/22/XP22I3W3OVGEFGRSAGOXC5665A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/07/22/XP22I3W3OVGEFGRSAGOXC5665A/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 07:47:15 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 22일 ‘여론조사비 대납 의혹’으로 1심에서 시장직 상실형을 선고받자 더불어민주당은 “자신의 죄를 겸허히 인정하고 법적, 정치적 책임을 다하라”고 했다. 조국혁신당은 오 시장에게 항소를 포기하고 즉각 사퇴할 것을 요구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJNI65T3HZIHBBJ47GQBAR7UXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 강준현 수석대변인. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 강준현 수석대변인은 이날 서면 논평을 통해 “정치 브로커로부터 여론조사 결과를 제공받고 후원자에게 비용을 대납시킨 명백한 범죄에 대한 사필귀정의 결과”라며 이같이 말했다.&lt;br&gt;&lt;br&gt;강 수석대변인은 “재판부는 오 시장이 2021년 서울시장 보궐선거를 앞두고 정치 브로커 명태균씨로부터 여론조사 결과를 받아보고 사업가 김한정씨를 통해 비용을 대신 내게 한 혐의를 인정했다”며 “특히 오 시장이 명씨에게 여론조사를 의뢰했을 개연성을 인정했으며, 후원자 김씨가 낸 1000만원 역시 여론조사 비용이었다고 명시했다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 강 수석대변인은 “오 시장이 정치 브로커에 의뢰한 여론조사를 선거에 활용했고, 그 비용을 후원자에게 대납시켰다는 사실이 법원에서 입증된 것”이라며 “명백한 정치자금법 위반이자, 민주주의 근간인 선거 제도 자체를 훼손한 것”이라고 평가했다.&lt;br&gt;&lt;br&gt;강 수석대변인은 “오 시장은 선고 직전까지도 특검과 민주당이 억지 유죄를 강요한다고 주장하며 반성은커녕 뻔뻔한 태도를 일관해 왔다”며 “그러나 사법부의 엄중한 판결 앞에 구차한 변명은 설 자리가 없다”고 했다.&lt;br&gt;&lt;br&gt;조국혁신당 임명희 대변인은 “명태균의 사기 공갈극이 아니라 오 시장의 대국민 사기 공갈극이었다”고 했다.&lt;br&gt;&lt;br&gt;임 대변인은 “그동안 오 시장은 결백을 주장했다. 명씨와의 만남을 일방적 스토킹에 가깝다며 사기꾼 집단으로 몰았다”며 “5선 서울시장이라는 공직자 신분으로 전 국민 앞에서 시종일관 뻔뻔하게 거짓말한 것”이라고 했다.&lt;br&gt;&lt;br&gt;임 대변인은 이어 “오 시장이 개인으로서 법리적 다툼은 이어갈 수 있지만, 공직자로서 최소한 국민께 먼저 사과했어야 한다”고 했다.&lt;br&gt;&lt;br&gt;임 대변인은 국민의힘도 겨냥했다. 그는 “윤석열, 권성동 전 의원에 이어 현직 오 시장에 이르기까지 정치자금법 위반 행태가 줄줄이 입증되고 있다”며 “이 정도면 공천 관리 시스템의 심각한 결함을 인정하고, 거듭되는 재보궐선거로 인한 혈세 낭비를 진심으로 머리 숙여 사죄해야 한다”고 했다. “국민의힘이 조작된 여론조사와 금품 매수, 사이비 종교와의 결탁과 조직적 입당만으로도 대통령까지 만들어내는 정당이 돼 버렸다”고도 했다.&lt;br&gt;&lt;br&gt;임 대변인은 “오 시장은 더 이상 무의미한 시간 끌기로 시민을 기만하지 말고 즉각 시장직에서 사퇴하라”며 “하루빨리 서울시정을 정상화하는 것만이 오 시장이 국민과 서울시민에게 할 수 있는 마지막 도리”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>접종 후 고름? 비소 검출? 신생아 예방접종 총정리 [육아똑똑똑] </title>
+      <link>https://www.chosun.com/medical/2026/07/22/S4FNAGD2X5BGBMTI462GQUCHUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/22/S4FNAGD2X5BGBMTI462GQUCHUI/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:01:15 +0000</pubDate>
+      <content:encoded>산후조리원을 나서기도 전에 병원에서 부모에게 숙제를 내줍니다. “BCG는 피내용과 경피용 중에 선택해서 오세요.” 이름부터 낯선 두 단어를 검색창에 넣어 보면 상반된 이야기가 쏟아지고, 몇 해 전 ‘비소 검출’ 기사까지 딸려 나옵니다. 잠도 못 자고 몸도 성치 않은 시기에, 아기 몸에 처음 들어갈 주사를 부모가 직접 골라야 한다니…. 조선일보 유튜브 ‘육아똑똑똑’ 이번 시간에는 우리아이들병원 소아청소년과 전문의 조기혜 센터장과 박은영 아나운서가 첫 예방접종의 궁금증을 총정리해 드립니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇경피용? 피내용? BCG 예방접종 뭐가 더 좋나요&lt;/b&gt; &lt;br&gt;&lt;br&gt;BCG 예방접종은 우리 몸에 들어온 결핵균이 전신으로 퍼지는 것을 막아줍니다. BCG가 결핵에 걸리는 것 자체를 100% 막아주진 않지만, 아기에게 특히 치명적인 속립결핵, 결핵성 뇌수막염처럼 중증 결핵을 예방한다는 데 의미가 있습니다. 접종하지 않은 아기는 이런 위험이 높아지는 거죠. BCG는 보통 생후 14~35일에 받는 1차 영유아검진일에 접종하시는 것을 권장합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRWFD233BBDVJCJOZXIA3V7AFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGVVM7X2CZEN7N2KYQK3DLGCHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;BCG는 접종 방식에 따라 피내용과 경피용으로 나뉩니다. 피내용은 이른바 1개의 커다란 주사자국이 남는 방식입니다. 피부에 약 15도 각도로 바늘을 완전히 삽입한 뒤 백신을 주입하는데, 기술적 난도가 높은 편이어서 의료진 숙련도가 요구됩니다. 그래서 보건소나 지정 의료기관에서 주로 맞습니다. 대신 국가예방접종 지원 대상이라 무료입니다. 경피용은 마치 도장을 찍는 방식으로 18개의 작은 바늘자국이 남습니다. 대부분 병원에서 접종합니다. 다만 국가 지원 대상이 아니어서 비용을 부담해야 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WY62JMZBLJBWZOUUIRKWPW67A4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모가 궁금한 건 “어느 쪽이 더 안전하냐” 인데요, 걱정하실 필요 없습니다. 피내용과 경피용 모두 세계보건기구(WHO)가 인정한 백신입니다. 어느 쪽을 선택해도 아기를 지키는 데는 문제가 없다는 뜻이죠. 접종 가능한 기관과 비용 등을 고려해 고르면 됩니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDNTOOQUUVH2XB2WOEUMMXJBEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇예방접종 자국에서 고름 나와요&lt;/b&gt;&lt;br&gt;&lt;br&gt;BCG를 맞고 나면 접종 부위가 붉어지고, 곪고, 딱지가 앉았다가 다시 진물이 나기도 합니다. 처음 겪는 부모는 덜컥 겁이 나기 마련입니다. 하지만 이는 백신이 제 일을 하고 있다는 신호에 가깝습니다. 반응이 나타나는 정도와 기간은 아기마다 차이가 있고, 곪았다 아물기를 여러 차례 반복할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUZCB5NQLJHYNK7RUKJHI2D6PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반대로 걱정하는 부모도 있습니다. “우리 아기는 아무 반응이 없는데, 다시 맞아야 하나요?” 조 센터장은 그럴 필요가 없다고 말합니다. 접종 부위의 반응이나 흉터 정도가 접종 효과를 의미하는 건 아니기 때문이죠. 자국이 크게 남았다고 면역이 잘 생긴 것도, 흔적이 옅다고 실패한 것도 아닙니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇몇 해 전 ‘비소 검출’이 검출됐다는데 안전할까요&lt;/b&gt;&lt;br&gt;&lt;br&gt;2018년 경피용 BCG에서 독극물로 분류되는 비소가 검출됐다는 보도가 나왔습니다. 지금도 검색하면 그 기사가 나오니, 첫 접종을 앞둔 부모라면 마음이 쓰일 수밖에 없습니다.&lt;br&gt;&lt;br&gt;사실 비소는 우리가 일상에서 음식을 먹을 때에도 자연스럽게 섭취하고 있는 성분입니다. 당시 검출된 양 역시 건강에 미치는 영향이 미미한 것으로 평가됐습니다. 현재 국가 예방접종에 쓰이는 BCG에는 비소가 전혀 들어있지 않으니 걱정하지 않아도 됩니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇겨우 생후 2개월인데, 하루에 다 맞혀도 되나요&lt;/b&gt;&lt;br&gt;&lt;br&gt;생후 2개월이 되면 맞아야 할 접종이 갑자기 늘어납니다. 접종 안내문을 받아 들고 “이걸 한 번에 다 맞혀도 되나” 걱정하는 부모가 많습니다.&lt;br&gt;&lt;br&gt;조 센터장은 “안심해도 된다”고 합니다. 예방하는 질환의 수는 많지만, 여러 백신을 하나로 묶은 혼합 백신을 사용하기 때문에 실제 주사 횟수는 생각보다 적습니다. 그리고 동시 접종 자체는 아기 면역에 부담이 되지 않습니다. 조 센터장은 “동시 접종은 근육량의 문제일 뿐, 아기는 면역학적으로 안전하다”고 말합니다. 한 번에 여러 대를 놓을 만한 자리(근육)가 충분한가의 문제이지, 면역 체계가 감당하지 못하는 문제가 아니라는 뜻입니다. 아기는 매일 일상에서 수많은 세균과 바이러스를 만나고 이겨내고 있으니까요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7H4ZVXKXSJBXPMTEYK4HTW6VDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그래도 마음이 놓이지 않는다면 날짜를 나눠 맞아도 괜찮습니다. 다만 그때는 병원을 여러 번 오가야 하니, 부모의 체력과 일정도 함께 고려해 정하시면 됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇접종은 아기와 우리 모두를 지키는 일&lt;/b&gt;&lt;br&gt;&lt;br&gt;백신은 아무 질환에나 만들어지는 것이 아닙니다. 예방이 꼭 필요한 질환에 대해서만 개발됩니다. 바꿔 말하면 접종 목록에 올라 있는 질환은 모두 ‘아기가 걸리면 위험한 병’이라는 뜻입니다. 충분히 예방할 수 있는 질환인데 접종하지 않으면 그만큼 위험이 커집니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64GQ5XCEOVEFJLJLCYXQ2T7AK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 전 세계적으로 홍역 환자가 다시 늘고 있는 것도 같은 맥락입니다. 접종률이 떨어지면 개인의 위험만 커지는 것이 아니라 집단 전체가 위험해집니다. 아직 백신을 맞을 수 없는 더 어린 아기들, 면역이 약한 이웃들까지 함께 지키는 일인 셈이죠. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4IMCMACDJAMHCSRQBA576LG6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;첫 예방접종을 앞두고 검색창을 붙들고 밤을 새우는 부모가 많습니다. 하지만 조 센터장의 말처럼, 우리 아기가 맞는 백신은 전 세계 수많은 데이터로 안정성이 입증됐습니다. 안심하고 접종하셔도 됩니다. 오늘 하루 아기를 안고 병원까지 다녀오는 그 걸음이, 이미 충분히 잘하고 있다는 증거입니다. 더 자세한 내용은 조선일보 유튜브 ‘육아똑똑똑’에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;i&gt;※이 글은 일반적인 정보 제공을 위한 글입니다. 아기마다 상태가 다른 만큼 구체적인 판단이 필요할 때는 반드시 소아청소년과 전문의와 상담하시기 바랍니다.&lt;/i&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>미성년 성범죄 청주시의원 사건, ‘통신영장 반려’ 공방</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/07/22/PRMXHDF2BRFKNN3GRIVVBGIYVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/07/22/PRMXHDF2BRFKNN3GRIVVBGIYVA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 07:04:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2WLHNYBNBEHDMOTTWYG2POXTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서영교 법제사법위원장과 더불어민주당 국회의원들이 22일 청주지검에서 기자회견을 하고 있다. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 최영중 전 청주시의원 미성년자 성범죄 의혹 사건과 관련해 검찰의 통신영장 반려가 수사를 지연시켰다며 검찰을 비판하고 나섰다. 검찰과 경찰은 2차 피해가 우려된다며 책임론보다 수사가 우선이라는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;서영교 국회 법제사법위원장 등 더불어민주당 의원 6명은 22일 청주지검 앞에서 기자회견을 열고 “검찰은 사안의 중대성을 고려해 보다 적극적으로 수사에 협력했어야 했다”며 “다수의 피해자가 있을 가능성을 염두에 두고 접근할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 “모든 혐의를 규명해야 할 사건인데 일부 혐의 소명 여부만 따지는 것은 지나치게 소극적인 태도”라며 “경찰이 신청한 영장에 미흡한 부분이 있었다면 보완을 요구해 다시 신청할 수 있도록 협조했어야 했다”고 주장했다.&lt;br&gt;&lt;br&gt;또 “수사 초기 검찰 대응이 무사안일했다”며 “검·경이 긴밀히 협력해 사건의 실체를 규명해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 청주지검은 이날 차장검사 주재 기자간담회를 열고 통신영장 반려와 보완수사 요구는 모두 법리와 증거에 따른 판단이었다고 밝혔다.&lt;br&gt;&lt;br&gt;김지혜 차장검사는 “경찰이 지난 9일 압수수색 영장을 신청하면서 피의자의 직업을 ‘회사원’으로 기재했다”며 “증빙자료를 요구한 뒤 경찰이 청주시의회를 압수수색 대상에 포함해 다시 영장을 신청했다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “보완을 요구하지 않았다면 시의회 압수수색도 이뤄지지 못했을 것”이라며 “피의자의 의류와 가방도 압수수색 대상에서 빠져 있어 함께 보완을 요구했다”고 말했다.&lt;br&gt;&lt;br&gt;통신영장 반려와 관련해서는 “경찰은 추가 피해가 의심된다며 최근 1년간의 통신기록 조회를 신청했지만 왜 통신조회가 필요한지에 대한 소명이 영장에 담겨 있지 않았다”며 “전화 수·발신 기록만으로는 성범죄 입증이 어렵고, 추가 피해자가 있다는 객관적인 자료도 제출되지 않았다”고 설명했다.&lt;br&gt;&lt;br&gt;또 “본건 영장으로 별건 수사에 필요한 증거를 확보할 경우 위법수집증거가 돼 법정에서 증거능력이 부정될 수 있다”며 “수사 절차를 보완하도록 한 것도 이 때문”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;민주당이 제기한 김진모 전 국민의힘 청주서원 당협위원장과의 유착 의혹에 대해서도 “당시 경찰 수사보고서에는 피의자가 회사원으로 기재돼 있어 현직 시의원이라는 사실조차 알지 못했다”며 “유착 의혹이 제기될 전제 자체가 성립하지 않는다”고 일축했다. &lt;br&gt;&lt;br&gt;검찰은 영장 청구 기각과 보완수사는 향후 공소 유지를 위해 증거의 적법성을 확보하는 절차라고 설명했다. &lt;br&gt;&lt;br&gt;이어 “보완수사는 사건을 지연시키기 위한 것이 아니라 재판에서 증거능력이 인정될 수 있도록 하기 위한 절차로, 이를 통해 억울한 사건관계인이 구제된 사례도 적지 않다”며 “경찰과 책임을 따지거나 대립하려는 의도는 전혀 없다. 경찰과 협력해 사건의 실체를 밝히는 데 최선을 다하겠다”고 밝혔다&lt;br&gt;&lt;br&gt;검찰은 무엇보다 미성년 피해자 보호가 우선이라는 점을 거듭 강조했다.&lt;br&gt;&lt;br&gt;김 차장검사는 “미성년자가 피해자인 성범죄 사건은 피해자 보호와 2차 피해 방지가 무엇보다 중요하다”며 “그동안 검찰은 이보다 더 중대한 성범죄 사건에서도 피해자 보호를 위해 수사 내용을 외부에 공개하지 않는 것을 원칙으로 해왔다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “수사 과정이 실시간으로 알려지면서 피해자의 2차 피해가 우려된다”며 “미성년자가 피해자인 성범죄 사건인 만큼 지금은 책임 공방보다 철저한 수사에 집중해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;경찰 관계자도 “수사 절차를 둘러싼 논란보다 이 사건은 미성년 성범죄 사건이라는 것을 잊으면 안된다”라며 “사건이 정치권과 언론을 통해 계속 확대 재생산 될 경우 피해자가 또 다른 상처를 받을 수 있다”고 말했다. &lt;br&gt;&lt;br&gt;최 전 의원은 2024년 10월부터 지난해 5월까지 중학생과 여러 차례 성관계를 하고 성착취물을 제작한 혐의(아동·청소년의 성보호에 관한 법률 위반 등)로 경찰 수사를 받고 있다. 경찰은 지난 15일 청주시의회 의원실과 지역구 사무실, 자택 등을 압수수색했으며, 최 전 의원은 의원직을 사퇴한 데 이어 국민의힘 충북도당에서도 제명됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI 자동차 부품 제조 센터 대구에 들어선다</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/22/2XIDJWQRYBBLXDOJUZ3WWMPKAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/22/2XIDJWQRYBBLXDOJUZ3WWMPKAA/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:10:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4GGOJXGNRTANJZMNSTMODBME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능(AI) 기술을 도입해 자동차 부품을 제조하는 센터가 대구시에 들어선다.&lt;br&gt;&lt;br&gt;대구시는 ‘모빌리티 부품 제조 AI 확산 센터 구축 사업’을 추진한다고 22일 밝혔다. 지난 4월 대구시가 산업통상부 공모에 선정됐으며, 2029년까지 총 245억원을 투입해 달성군 일대에 제조 AI 생태계를 구축할 방침이다. AI와 디지털 트윈 기술을 활용해 지역 자동차 부품 기업의 생산성과 품질을 높이고 미래차 제조 기반을 만들겠다는 목표다. &lt;br&gt;&lt;br&gt;디지털 트윈 기술은 현실의 사물이나 시스템을 가상 공간에 똑같이 구현할 수 있다. 이 기술을 활용하면 기업이 공간과 비용의 제약 없이 다양한 연구·개발 작업을 할 수 있다. 대구시는 달성군 지능형자동차부품진흥원 내에 제조 AI 확산 센터를 구축할 예정이다. 센터에는 디지털 트윈에 기반한 제조 공정 설계·시험 환경과 교육 시설, 기술 교류 공간 등이 조성된다.&lt;br&gt;&lt;br&gt;이와 별도로 제조 AI 공용 장비 6종도 들여온다. 올해는 가상환경 기반 공정 검증 시뮬레이터와 제조 데이터 수집 및 분석 장비를 발주하고, 순차적으로 장비 4개를 구축할 예정이다. 기업에는 제조공정 개선 시뮬레이션과 제조AI 도입 컨설팅, 기술지도 등을 지원한다. 재직자와 예비 인력을 대상으로 한 교육 프로그램도 운영된다.&lt;br&gt;&lt;br&gt;추경호 대구시장은 “제조 AI는 향후 제조원가를 낮추고 품질은 높이면서 지역 제조업의 경쟁력을 끌어올릴 것”이라며 “첨단 제조혁신 생태계를 구축해 대구를 미래차 선도 도시로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>法 “박수영 의원 사무실 점거 농성 참여 공무원 징계는 정당”</title>
+      <link>https://www.chosun.com/national/regional/2026/07/22/ZLE3QWVHJZGYJLEBKGL35KP5WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/22/ZLE3QWVHJZGYJLEBKGL35KP5WA/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:06:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 12·3 비상계엄 이후 국민의힘 박수영 국회의원 사무실 점거 농성에 참여해 정치적 발언을 한 공무원에게 구청이 징계 처분을 내린 것은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면, 부산지법 행정1-2부(재판장 문춘언)는 퇴직 공무원 A씨가 부산 남구를 상대로 제기한 감봉 처분 취소 소송에서 원고의 청구를 기각했다.&lt;br&gt;&lt;br&gt;퇴직을 앞두고 공로 연수 중이던 A씨는 2024년 12월 28일 부산 남구 박수영 국회의원 사무실 점거 농성에 참여해 ‘국민의힘 해체 폭망’이라고 적힌 피켓을 들고 “내란 수괴 대통령 체포·구속” “국회의원 사퇴” “국민의힘 해체” 등의 발언을 했다.&lt;br&gt;&lt;br&gt;남구는 A씨가 공무원의 품위 유지 의무를 위반했다고 보고 이듬해 4월 감봉 1개월 처분을 내렸다. A씨는 자신의 행위가 헌법상 정치적 표현과 집회·시위의 자유에 해당하고, 선거와 무관해 공무원의 정치적 중립 의무를 위반하지 않았다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 “다수 앞에서 특정 정당에 반대하는 연설을 한 행위는 일반 국민에게 특정 정당이나 정치 단체를 반대하는 행위로 받아들여질 수 있어 공무원의 정치적 중립성을 훼손할 가능성이 큰 행위로 평가된다”고 했다. &lt;br&gt;&lt;br&gt;이어 “원고가 공동 퇴거 불응 혐의로 검찰에 송치된 점 등을 비추어 보면 원고의 행위는 공직 사회에 대한 국민의 신뢰를 실추시킬 우려가 있는 행위에 해당해 품위 유지 의무를 위반했다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 A씨가 신청한 지방공무원법 관련 위헌법률심판 제청도 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “명태균은 거짓말쟁이, 항소심서 다투겠다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/22/EA6AX742ANAUHNS4U3SZAP52VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/22/EA6AX742ANAUHNS4U3SZAP52VI/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 06:55:55 +0000</pubDate>
+      <content:encoded>정치브로커 명태균씨에게서 여론조사 결과를 제공받고 그 비용을 제3자에게 대납하는 방식으로 불법 정치자금을 수수한 혐의로 1심에서 벌금 1000만원을 선고받은 오세훈 서울시장이 “판결을 납득하기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIR7EUZJZFLQ5DBJPVHBUV53ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 오세훈 서울시장이 22일 서울 서초구 서울중앙지방법원에서 열린 정치자금법위반 혐의 1심 선고 공판을 마치고 취재진의 질문에 답하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 22일 서울중앙지법 형사합의22부(재판장 조형우) 심리로 진행된 자신의 정치자금법 위반 혐의 선고 공판을 마친 뒤 기자들과 만나 “납득할 수 없다”며 “항소심에서 다투겠다”고 말했다.&lt;br&gt;&lt;br&gt;그는 또 “열 개의 공표·비공표 여론조사 가운데 재판부가 다섯 개를 유죄로 인정했다”며 “전부 무죄가 나오는 것이 맞는다”고 했다. 이어 “천하의 거짓말쟁이인 명태균씨의 진술과 간접 증거만으로, 직접 증거가 없는 상태에서 추론을 통해 명씨 진술이 맞는 것 같다는 전제 아래 선고가 이뤄졌다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 오 시장은 “국민 여러분들에게 심려를 끼쳐드려 정말 죄송하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이종현 서울시 민생소통특보도 이날 입장문을 통해 “명태균씨가 여론조사 의뢰를 받았다고 주장한 시점 이전에 이미 설문지가 작성됐고, 캠프 모르게 설문지를 비밀리에 주고받았다는 물증도 있다”며 “이런 사정에도 객관적인 증거 없이 일부 진술과 정황만으로 유죄를 인정한 것은 납득하기 어렵다”고 밝혔다. 그는 또 “항소심에서는 증거와 법리에 기초한 공정한 판단이 내려질 것으로 확신한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;오 시장은 2021년 4월 서울시장 보궐선거 당시 명씨가 실소유한 것으로 지목된 미래한국연구소의 여론조사를 10차례 받았다는 혐의로 기소됐다. 사업가 김한정씨가 당시 미래한국연구소 실무자였던 강혜경씨 계좌로 합계 3300만원 상당을 대납하는 데 관여했다는 혐의도 있다.&lt;br&gt;&lt;br&gt;한편 이날 선고된 형이 그대로 확정되면 오 시장은 시장직을 잃게 된다. 정치자금법 위반으로 100만원 이상의 벌금형(집행유예 포함)이 선고되고 확정되면 5년간 공무담임 등의 제한 규정에 따라 취임하거나 임용될 수 없다. 이미 취임 또는 임용된 자는 직에서 퇴직해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 7월 23일 목요일 (음력 6월 10일 戊戌)</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/22/ROCL2V6IHZCG3LTQ6PX5F2SESE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/22/ROCL2V6IHZCG3LTQ6PX5F2SESE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, 정청래 탄 차량 습격한 50대 男 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/22/GECWPTO4NJAJ5KSVMZN2DVXZLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/22/GECWPTO4NJAJ5KSVMZN2DVXZLQ/</guid>
+      <dc:creator>윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 06:12:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2TMNDCMI3GGMRRMU4GCOBUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 전 더불어민주당 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정청래 전 더불어민주당 대표가 탄 차량을 습격한 50대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울 영등포경찰서는 22일 정 전 대표의 차량을 공격해 파손한 50대 남성 A씨를 전날 소환 조사했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 20일 오후 7시쯤 여의도 민주당 당사에서 전당대회 예비경선 합동연설회를 마치고 나온 정 전 대표가 탄 차량을 발과 도구 등으로 가격한 혐의를 받는다. 이로 인해 차량 일부가 파손됐다. &lt;br&gt;&lt;br&gt;정 전 대표 측은 이날 언론 공지를 통해 차량 습격 사실을 알리며 “후보를 향한 위협, 폭력에 깊은 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 재물손괴 혐의로 입건된 A씨가 차량을 가격한 경위 등을 수사할 예정이다. A씨의 다른 혐의점도 살펴보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, QS 선정 ‘세계 최고의 대학생 도시’...2년 연속 1위 </title>
+      <link>https://www.chosun.com/national/education/2026/07/22/EVVIIBQKHRFWXLWP53X52DGXCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/22/EVVIIBQKHRFWXLWP53X52DGXCM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 06:19:37 +0000</pubDate>
+      <content:encoded>영국 글로벌 대학 평가 기관 QS(Quacquarelli Symonds)가 21일 발표한 ’2027 세계 최고의 대학생 도시‘에서 서울시가 작년에 이어 2년 연속 총점 100점으로 세계 1위를 차지했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7I6JSZ2I25BJBGQ2CICRQ5UZGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;영국 글로벌 대학 평가 기관 QS(Quacquarelli Symonds)가 21일 발표한 '2027 세계 최고의 대학생 도시‘에서 서울시가 작년에 이어 2년 연속 총점 100점으로 세계 1위를 차지했다. /그래픽=조선디자인랩 김연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울은 지난해 6년 연속 정상을 지켰던 런던을 제치고 처음 1위를 차지한 데 이어 올해에도 선두를 유지했다. 도쿄가 98점으로 2위, 런던이 97.3점으로 3위를 기록했다. &lt;br&gt;&lt;br&gt;멜버른이 4위, 뮌헨과 시드니가 공동 5위를 차지했다. 이어 파리, 베를린, 빈, 취리히가 7~10위에 이름을 올렸다.&lt;br&gt;&lt;br&gt;‘세계 최고의 대학생 도시’는 세계 대학생들이 공부하고 생활하기 좋은 도시를 평가하는 지표다. 인구 25만명 이상이면서 세계 대학 순위에 포함된 학교를 2개 이상 보유한 150개 도시를 대상으로 ▲세계 대학 순위 ▲학생 구성 ▲도시 선호도 ▲고용주 활동 ▲경제성 ▲학생 평가 등 6개 항목을 평가한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법인카드로 상품권 사 9억 빼돌린 KAIST 직원, 징역 3년 6개월</title>
+      <link>https://www.chosun.com/national/regional/2026/07/22/HJI4SJQC3RCGLFGKG6LSSBFEAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/22/HJI4SJQC3RCGLFGKG6LSSBFEAA/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jul 2026 05:50:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법인 카드로 상품권을 사서 현금화하는 수법으로 억대 공금을 빼돌린 카이스트(KAIST) 직원에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사13부(재판장 장민경)는 특정 경제 범죄 가중 처벌 등에 관한 법률 위반(배임)·사기 혐의로 기소된 KAIST 직원 A(40)씨에게 징역 3년 6개월을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 4월부터 지난해 8월까지 3년 여 동안 인터넷사이트에서 법인카드로 총 6332회에 걸쳐 109억6000만원어치의 상품권을 구입한 뒤, 이를 상품권 매매 업체에 팔아 현금화한 뒤 개인적으로 사용하거나, 앞서 구입한 상품권 대금으로 충당하는 수법으로 법인에 총 8억9952만원의 손해를 끼친 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 29차례에 걸쳐 법인카드로 1089만원 상당의 상품권을 구입한 뒤 판매한 돈을 개인적으로 쓰고서 마치 정당한 업무 지출인 것처럼 지급 신청서 꾸며 제출한 혐의도 받는다. &lt;br&gt;&lt;br&gt;범행 당시 A씨는 카이스트 법인 행정 담당자로서 법인카드 집행 및 정산 등 예산 집행 관련 실무를 맡았다고 한다.&lt;br&gt;&lt;br&gt;재판부는 “3년 넘는 기간 동안 총 8억9952만원의 재산상 이익을 취하고, 법인에 같은 액수의 손해를 입히는 배임 행위를 했다”며 “법인카드로 상품권을 구입해 현금화한 뒤 개인적으로 사용했는데도 허위 지급신청서를 제출해 재산상 이익을 취하는 등 범행 수법과 범행 기간, 피해 규모를 볼 때 죄책이 매우 무겁다”고 판시했다. 이어 “다만 피고인이 범행을 인정하고 반성하는 모습을 보이고 있고, 형사 처벌 전력이 없는 초범인 점 등을 고려해 형량을 정했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폭우에 떠내려간 안동 임시주택 641동 모두 고정용 볼트 없었다</title>
       <link>https://www.chosun.com/national/2026/07/22/C2IFH2NDIVDJBHMRORUI4GHM6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/07/22/C2IFH2NDIVDJBHMRORUI4GHM6Q/</guid>
@@ -783,24 +981,6 @@
       <content:encoded>검찰이 피고인을 재판에 넘기면서 공소장의 필수 요건인 검사 서명을 빠뜨려 법원이 잇따라 공소기각 판결을 내리는 일이 벌어졌다. 지난해 10월 형사재판 절차가 전자화된 뒤 일선청의 검사가 새 형사사법정보시스템(KICS·킥스)의 결재 방식을 제대로 숙지하지 못해 벌어진 일이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITYSBV3GBJFEZEGZXXGHIXFV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 서울동부지법은 지난 4월부터 A검사가 기소한 사건 6건에 대해 공소기각 판결을 내렸다. 공소기각은 피고인의 유무죄를 따지기 전에 검찰의 기소 절차에 문제가 있다고 보고 재판을 끝내는 것이다.&lt;br&gt;&lt;br&gt;문제가 된 공소장에는 A검사의 전자 서명이 없었다. 검찰에 따르면, 형사소송 전자화 이후 검사가 킥스를 통해 공소장을 법원에 제출하려면 두 차례 결재해야 한다. 먼저 사건을 어떤 혐의로 처분할지 결재한 뒤 공소장을 다시 최종 결재해야 검사 서명이 공소장에 들어간다.&lt;br&gt;&lt;br&gt;그러나 A검사는 지난 2월 해당 사건들을 처리하면서 첫 번째 결재만 마쳤다. 최종 결재가 이뤄지지 않아 검사 서명이 들어가지 않은 상태였지만 검찰 직원이 공소장을 법원으로 전송했다고 한다. &lt;br&gt;&lt;br&gt;법원은 재판 과정에서 공소장에 검사 서명이 없는 사실을 발견해 검찰에 알렸다. 하지만 당시에는 A검사가 이미 퇴직한 뒤여서 서명을 보완하지 못했다.&lt;br&gt;&lt;br&gt;형사소송법 제57조는 공무원이 작성하는 서류에는 기명날인이나 서명이 있어야 한다고 규정한다. 대법원도 2012년 검사의 기명날인이나 서명이 없는 공소장은 원칙적으로 무효라고 판단했다. 서울동부지법 역시 “법률이 정한 형식을 갖추지 못한 공소장에 의한 공소제기는 특별한 사정이 없는 한 절차가 법률 규정을 위반해 무효”라고 밝혔다.&lt;br&gt;&lt;br&gt;대검 관계자는 “A검사가 새로 도입된 킥스의 사용법을 제대로 익히지 못한 데다 직원 간 의사소통 미흡이 겹쳐 발생한 일로 보인다”며 “검사가 최종 결재하지 않은 공소장을 직원이 실수로 법원에 전송했다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 검사 서명이 없는 공소장은 법원에 전송할 수 없도록 킥스 시스템을 보완했다. 공소가 기각된 6건은 모두 다시 기소할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 종용(慫慂)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/07/14/X2LGL6TIZVBLJA7ZV5X4SDJQG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/14/X2LGL6TIZVBLJA7ZV5X4SDJQG4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jul 2026 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4MXVZ7IVGXBIVCNVOLVVMJ4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 끈적끈적하다, 찐득찐득하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/07/20/LCHHSS5XCVFT5KL5724JCLELQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/07/20/LCHHSS5XCVFT5KL5724JCLELQI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 19 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NW7UXXYJJNCEJFKHQXWMFBOSWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘고문’ 이근안, ‘탁 치니 억’ 박처원...  정부 포상 198건 취소</title>
       <link>https://www.chosun.com/national/national_general/2026/07/21/P6ZXHYETI5F4ZABY2SKANSEZFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/P6ZXHYETI5F4ZABY2SKANSEZFE/</guid>
@@ -813,96 +993,6 @@
       </media:content>
     </item>
     <item>
-      <title>3살 딸 살해하고 6년간 숨긴 30대 여성, 징역 13년</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/21/GWBO5OB3QFABLBGDYY67IA54AE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/21/GWBO5OB3QFABLBGDYY67IA54AE/</guid>
-      <dc:creator>안산=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 07:43:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YDCYZSGA3WIMTEGNSDIY3GGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세 살배기 딸을 학대해 숨지게 한 30대 여성 A 씨(왼쪽)와 시신을 야산에 유기한 혐의를 받고 있는 30대 남성 B 씨(오른쪽)가 지난 3월19일 경기 안산시 단원구 수원지방법원 안산지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 전 세 살 딸을 살해한 후 시신을 유기한 혐의를 받는 30대 여성에게 징역 13년이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 형사2부(재판장 박지영)는 21일 살인 및 시신 유기 등 혐의로 구속기소 된 A씨에게 이같이 선고하고, 10년간 아동 관련 기관 취업 제한을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 또 A씨를 도와 시신을 유기하고, 범인을 은닉한 혐의 등을 받는 A씨의 전 남자친구 B씨에게는 징역 10개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2020년 3월 경기 시흥시 정왕동 자택에서 당시 세 살이던 딸의 목을 졸라 살해한 후, B씨와 공모해 시신을 안산시 한 야산에 유기한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 딸의 친부와 이혼한 후 홀로 아이를 양육해야 하는 상황에 놓이자 아이에게 원망을 품고 이 같은 범행을 저지른 것으로 조사됐다. 그는 수사기관에 “육아를 하는 데 어려움을 느끼다가 범행했다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;A씨는 딸이 숨진 사실을 숨기기 위해 2024년 초등학교 입학 연기를 신청하기도 했다. 올해 초에는 B씨의 조카를 자신의 딸인 것처럼 학교에 여러 차례 데리고 가기도 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 B씨의 조카와 함께 학교에 찾아와 현장 체험 학습을 신청하고 갔는데, 이후 등교해야 할 시점이 지났는데도 연락이 닿지 않자, 학교 측이 경찰에 신고하면서 범행이 드러났다. A씨는 딸이 숨진 이후에도 양육 수당과 아동 수당 등을 챙긴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZDCODGGRRWIZJXG5RDCMRTMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨와 B씨는 모두 재판 과정에서 혐의를 인정했다. 앞서 검찰은 A씨에게 징역 25년, B씨에게 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “피해 아동의 친모인 피고인은 아이를 보살펴줘야 할 책임을 망각하고 반인륜적 범행을 저질렀다”며 “아울러 범행을 회피하기 위해 시신을 6년이나 은폐해 중형 선고가 불가피하다”고 밝혔다. 재판부는 또 “시신 은닉으로 인해 피해 아동은 사망 이후에도 인간으로서 마지막 존엄을 보장받기 위한 최소한의 장례 절차도 거치지 못한 채 6년간 차가운 땅속에서 작은 몸도 펴지 못한 상태로 홀로 묻혀 있었다”고도 했다.&lt;br&gt;&lt;br&gt;재판부는 “다만 범행 당시 전 남편과의 결별 및 이혼으로 겪은 우울감, 공허함, 좌절감 등의 복합적인 심리가 섞여 이 사건 범행에 이른 것으로 보이고, 뒤늦게 범행을 인정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;B씨에 대해서는 “살인에는 가담하지 않았으나 시신 은닉 범행을 주도적으로 했다”며 “다만 A씨의 범행 사실이 발각되면 우울증을 앓는 A씨가 극단적 선택을 할 수 있다는 상황을 염려해 범행한 점을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] “막대한 예산 쓰면서 성과는 비공개?...교육청, 깜깜이 재정 끝내야” </title>
-      <link>https://www.chosun.com/national/education/2026/07/18/UQNS6AFTQZA27OJPDEU5XNLTXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/18/UQNS6AFTQZA27OJPDEU5XNLTXQ/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jul 2026 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCBHY76AVBCIZDSZVLYIG53PIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 충북 진천군 한국교육개발원에서 고영선 한국교육개발원장이 본지와 인터뷰하고 있다. 고 원장은 “교육청은 국민 세금으로 많은 예산을 집행하면서도 그에 상응하는 책임을 다하려는 노력이 부족해 보인다”고 말했다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“축구 국가대표팀에 지원만 많이 한다고 월드컵에서 우승하나. 경기 데이터를 분석하고 전략을 세워야 하듯, 교육도 성과를 측정하고 이를 바탕으로 정책을 설계해야 한다.” &lt;br&gt;&lt;br&gt;정부가 시도교육청들의 예산인 ‘지방교육재정교부금’ 개편 작업에 나서 시도교육감들이 거세게 반발하는 가운데 교육계에서 이례적으로 ‘쓴소리’가 나왔다. 고영선(64) 한국교육개발원(KEDI) 원장은 15일 본지 인터뷰에서 “교육계는 교부금 체제 유지만 주장할 것이 아니라, 지금까지 투입된 막대한 재정으로 어떤 교육적 성과를 냈는지 국민에게 먼저 설명해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;지난 10년간 학생 수는 20% 가까이 줄었는데 교부금은 두 배 가까이로 늘어 개편해야 한다는 여론이 높았지만, 교육계 반대에 부딪혀 번번이 실패했다. 그런 와중에 교육계 대표 국책 연구 기관의 수장이 처음으로 “성과부터 공개하고 교부금 유지를 요구하라”고 주장한 것이다. 고 원장이 교육계의 ‘금기’와도 가까운 비판을 한 건 그가 최초의 비교육학자 출신 KEDI 원장이기 때문이다. 고 원장은 서울대 경제학과를 졸업한 후 미국 스탠퍼드대에서 경제학 박사를 받은 경제학자다. 한국개발원(KDI)에서 오랫동안 국가 재정 전략에 대해 연구했고, 국무조정실 국무 2차장, 고용노동부 차관을 지낸 뒤 2024년 KEDI 원장에 취임했다. 다음은 고 원장과의 일문일답. &lt;br&gt;&lt;br&gt;-현행 교육 분야 재정의 가장 큰 문제는 뭔가. &lt;br&gt;&lt;br&gt;“교육재정 지출의 성과를 객관적으로 평가할 수 없다는 점이다. 대표 사례가 기초 학력이다. 모든 시도교육청이 기초 학력 향상 사업을 추진하고 있지만, 매년 실시하는 진단 결과는 공개하지 않는다. 다른 대부분 교육 사업도 성과 분석이 제대로 안 된다. 국민으로서는 막대한 교육재정이 어떤 성과를 냈는지 알 수 없는 것이다.” &lt;br&gt;&lt;br&gt;-교부금 개편도 ‘성과 측정’ 측면에서 논의하자고 했는데. &lt;br&gt;&lt;br&gt;“교부금을 늘려야 할지, 줄여야 할지 판단하려면 재정 투입에 따른 성과를 객관적으로 평가할 수 있어야 한다. 지금은 그런 기준이 명확하지 않아서 재정 변화 시 어떻게 될지 예측하기 어렵다. 지금은 예산을 투입하면 현장에서 성과가 날 것이라는 막연한 기대만으로 재정을 집행하는 측면이 있다.”&lt;br&gt;&lt;br&gt;-교육감들은 ‘학교 서열화’ 등을 이유로 데이터 공개를 반대한다. &lt;br&gt;&lt;br&gt;“데이터를 보지 않으면 문제를 진단할 수 없고, 정책도 막연하게 추진할 수밖에 없다. 학교별 결과를 모두 공개하자는 말은 아니다. 최소한 교육청 단위의 기초 학력 미달 학생 규모를 국민에게 공개할 필요가 있다. 교육감들도 기초 학력 향상 같은 본질적인 역할을 얼마나 충실히 수행했는지를 유권자에게 보여줄 의무가 있다. 그래야 교육 자치 시스템이 국민 신뢰를 받을 수 있다.”&lt;br&gt;&lt;br&gt;-교육감들이 선거 공약으로 현금성 복지를 늘린 점도 비판받고 있다. &lt;br&gt;&lt;br&gt;“보여주기식 공약 사업이 아닌, 실질적 교육 성과로 이어지는 분야에 재원을 집중해야 한다. 교육청 조직도 성과 중심으로 쇄신해야 한다. 교육청마다 산하 기관과 사업을 계속 늘렸는데, 한번 만든 조직과 사업은 없애기 어렵다.”&lt;br&gt;&lt;br&gt;-사업 확대가 왜 문제인가.&lt;br&gt;&lt;br&gt;“각종 정책 사업이 계속 늘어나면 교사들의 행정 업무가 늘어난다. 경제협력개발기구(OECD)에 따르면 한국 교사의 행정 업무 시간은 주당 6시간으로 OECD 평균(3시간)의 두 배이며 조사국 중 가장 많다. 교사의 행정 부담을 줄이고 재정도 효율적으로 쓰려면 사업 수를 줄여야 한다.”&lt;br&gt;&lt;br&gt;-대학은 “초중고에 대한 정부 지원은 넘치는데, 우리는 부족하다”고 아우성이다. &lt;br&gt;&lt;br&gt;“현재 대학 재정은 매우 열악하다. 초중등 교육에 집중된 교육 재정을 고등교육과 적절히 재분배하는 방안을 검토해야 한다. 미국은 국내총생산(GDP)의 2.3%를 대학에 지원한다. 한국의 두 배 수준이다. 미국은 등록금 규제가 없고 대학 기부 문화가 활성화돼 있는데도 이 정도로 공공 투자를 하고 있다. 대학 등록금 자율화가 정치적으로 부담스럽다면, 정부 지원을 확대하는 방식으로 대학 재원을 확충해야 한다.”&lt;br&gt;&lt;br&gt;-교부금 개편의 핵심 쟁점은 내국세의 20.79%를 자동 배정하는 구조다. 교육계는 유지를, 재정 당국은 폐지를 주장한다.&lt;br&gt;&lt;br&gt;“국가 재정의 큰 틀에서 보면 경직성을 완화해야 하고, 교육 분야도 예외일 순 없다. 현재 교육계는 특수 교육 등 새로운 수요가 늘어나는 상황에서 내국세 연동제가 폐지되면 필요 재원을 확보하지 못할까 우려한다. 하지만 이런 주장이 설득력이 있으려면 어떤 분야에 얼마의 재원이 필요한지 객관적 근거를 제시해야 한다. 재정 당국도 교부금 제도를 개편해도 새 수요에 대한 교육 재원을 안정적으로 확보한다는 점을 분명히 해야 한다.” &lt;br&gt;&lt;br&gt;-경제학자로서 교부금 개편 논의를 바라보니 어떤가. &lt;br&gt;&lt;br&gt;“교육계에 들어와 느낀 아쉬운 점은 교육계와 교육계 밖의 소통이 충분하지 않다는 것이다. 이번 논쟁을 교육계가 재정 투입의 필요성과 성과를 국민에게 투명하게 설명하고 신뢰를 얻는 계기로 삼았으면 한다. 그러면 교육도 발전하고, 교육 현장에서 일하는 분들도 성과를 국민에게 인정받을 수 있을 것이다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼척서 송전선로 자재 옮기던 헬기 추락… 2명 경상</title>
-      <link>https://www.chosun.com/national/regional/2026/07/21/ZIVEHF5HZ5GLZBHA3L3UR7IDFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/21/ZIVEHF5HZ5GLZBHA3L3UR7IDFQ/</guid>
-      <dc:creator>삼척=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 07:42:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHRRHACGMNBLXL6SR6HLAWPCBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 강원 삼척시 가곡면 한 야산에 추락한 헬기 모습./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오후 1시 57분쯤 강원 삼척시 가곡면 풍곡리 한 야산에 헬기 1대가 추락했다. 이 사고로 조종사 A씨와 지상에서 작업 중이던 B씨 등 2명이 다쳤다.&lt;br&gt;&lt;br&gt;조종사 A씨는 추락 과정에서 경미한 부상을 입었고, B씨는 헬기 파편에 맞아 경상을 입었다. 두 사람 모두 생명에 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;추락한 헬기는 민간업체 소속 K-MAX 기종으로, 당시 송전선로 공사 현장에 자재를 운반하던 중 나뭇가지와 충돌해 사고가 난 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 등은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 한국어능력시험 부정행위 중국인 무더기 검거</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/21/AVSHIBQBL5DHDPIPGHJITINNO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/AVSHIBQBL5DHDPIPGHJITINNO4/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 07:38:07 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2U5ROZBZEG5MG7UBME67C6NI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국 SNS에 올라온 한국어능력시험 대리시험 광고글./서울경찰청 국제범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위조 신분증으로 대리 시험을 보거나 초소형 이어폰을 통해 한국어능력시험(토픽·TOPIK)에서 고득점을 얻은 중국인 유학생과 브로커 등 113명이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 국제범죄수사대는 토픽 시험에서 부정행위를 저질러 시험 감독관의 업무를 방해한 중국 조직과 의뢰자 등 113명을 위계에 의한 공무집행방해 혐의로 입건했다. 이 중 중국인 브로커 A(28)씨는 서울중앙지검에 구속 송치했고, 지난 6월 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 중국의 토픽 부정 응시 알선 조직 소속이다. 이 조직은 중국 소셜미디어 샤홍슈(小红书)에서 대리 시험을 통한 토픽 고득점이 가능하다고 광고했다. 대리 시험을 의뢰하는 비용은 1인당 1만~3만5000위안(약 200만~800만원)이었다.&lt;br&gt;&lt;br&gt;A씨는 대학원 컴퓨터 전공 지식을 활용해 매크로 프로그램을 만들고, 응시 홈페이지 자동 로그인·시험장 선점·응시 비용 일괄 결제 등 시험 접수 전 과정을 관리했다. 또 대리 시험을 의뢰한 이들의 인적 사항을 중국 총책 B씨에게 전달했다.&lt;br&gt;&lt;br&gt;인적 사항을 넘겨받은 B씨는 대리 시험에 필요한 위조 신분증을 제작하고 실제 대리 시험에 나설 응시자 11명도 따로 섭외했다. 대리 응시자들은 주로 조선족 등 한국어 능력이 뛰어난 이들로, 시험을 한 번 치를 때마다 약 80만원의 수당을 받았다.&lt;br&gt;&lt;br&gt;B씨 등은 매 시험 부정행위 의뢰자들과 비교적 외모가 비슷한 응시자를 따로 선발해 시험을 보도록 했다. 일부 의뢰인에게는 소형 이어폰과 송수신기 등을 착용하도록 하고 문제 정답을 실시간으로 알려주기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIHVFABN5FGQ7MKV4SHAFDKLAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피의자들이 한국어능력시험 시험장에서 착용한 송수신기./서울경찰청 국제범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 현재 이렇게 부정행위로 고득점을 얻은 중국인 101명과 대리 시험을 치른 응시자 11명을 입건했고, 중국에 있는 B씨 등 조직원 3명에 대해선 국제 공조를 통해 추적을 계속하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “부정행위를 통해 얻은 성적으로 대학 입학·졸업 기준을 채우거나 장학금을 수령한 사례가 확인됐지만, 대부분은 범죄라고 생각하지 못하는 것으로 보였다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 부정 취득 성적이 대학 입학과 학위 취득, 장학금 수령, 체류 자격 취득 등에 활용된 사실을 관계 기관에 통보했다. 교육부 등 관계 기관은 후속 조치를 검토할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>체육단체 진입 막은 ‘올다르크’ 구속 심사 출석... 취재진 질문엔 묵묵부답</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/21/RGNP2O7AURAWPKLDY6SOMCZ6NA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/RGNP2O7AURAWPKLDY6SOMCZ6NA/</guid>
-      <dc:creator>김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 07:40:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQTQYJXGE4TQOBQGIZTSYRWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;체육단체의 올림픽공원 핸드볼경기장 진입을 막아선 '올다르크'가 21일 구속 심사를 위해 서울동부지법에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체육단체 관계자들의 올림픽공원 핸드볼경기장 출입을 막아 ‘올다르크’로 불리는 30대 여성 A씨가 구속 심사를 받기 위해 21일 법원에 출석했다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 2시 24분 태극기와 성조기 뱃지가 달린 검은 셔츠를 입고 회색 마스크를 쓴 채 서울동부지법에 도착했다. A씨는 지난달 16일 성조기를 허리에 두르고 핸드볼경기장 2-1 출입구를 2시간가량 막아 대한체육회 산하 체육단체 직원들의 업무를 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 ‘심사에서 어떤 점을 소명할 건지’, ‘업무방해 혐의를 인정하는지’, ‘체육 단체의 일할 권리에 대해 어떻게 생각하는지’ 등 취재진의 질문에 일절 답하지 않았다.&lt;br&gt;&lt;br&gt;같은 날 오후 2시 30분에는 황교안 자유와혁신 대표도 법원을 찾았다. A씨의 변호인을 자처한 황 대표는 출석 전 기자들 앞에 잠시 멈춰 서서 “체육단체의 일할 권리도 중요하지만 사안이 우선 해결되어야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 전날 자신의 유튜브 채널에 ‘올다르크 구속영장, 직접 말씀드립니다’라는 영상을 올렸다. A씨는 해당 영상에서 “영장 청구서를 쭉 읽어봤는데 납득하기 어려운 내용으로 채워져 있었다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 “제1야당 국회의원, 체육회장, 경찰 등의 합의를 무력화해 중대한 업무 방해 범죄를 저질렀고 그로 인해 핸드볼경기장 봉쇄가 언제 해소될지 알 수 없게 됐다. 제2, 제3의 올다르크가 나타나는 것을 방지하기 위해 엄중한 처벌이 반드시 필요하다고 적혀 있었다”며 “공문서인데도 내가 구속되어야 하는 이유가 주관적인 해석으로 적혀 있었다”고 했다. A씨는 “여러모로 의문이 많이 남는 내용들”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;A씨 외에 다른 잠실 참정권 집회 참가자 4명도 이날 구속 심사를 받는다. 지난달 8일 여성 핸드볼 유소년 대표팀 선수들의 소지품을 뒤져 특수강요 등 혐의를 받는 30대 남성과 같은 달 6일 경찰관을 가로막고 중국 경찰이라며 욕을 해 특수공무집행방해 혐의를 받는 20대 남성 3명도 법원에 출석한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 보수 유튜버를 포함한 시민 10여명은 법원을 찾아 현장을 촬영하며 피의자들을 응원하는 목소리를 높였다. 이들은 “무고한 시민을 체포하지 말고 선관위 직원과 노태악을 체포하라”며 “국민이 헌법이다. 법관들은 이를 명심하라”고 외쳤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정청래 탄 차량 습격... 경찰, 용의자 추적 중</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/21/YRJUAKQNXZEKXJZG5EQJSS7GMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/YRJUAKQNXZEKXJZG5EQJSS7GMQ/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 06:35:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCFCWODVYRMQPC67CVTITG3IWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 전 더불어민주당 대표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 정청래 전 더불어민주당 대표가 타고 있던 차량을 습격한 용의자를 쫓고 있다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 정 전 대표의 차량을 공격해 파손시킨 신원 미상의 용의자를 추적 중이라고 21일 밝혔다. 경찰은 용의자에게 재물손괴 등 혐의를 적용해 입건했다.&lt;br&gt;&lt;br&gt;해당 용의자는 지난 20일 오후 7시쯤 여의도 민주당 당사에서 전당대회 예비경선 합동연설회를 마치고 나온 정 전 대표의 차량을 발과 도구 등으로 가격했다. 이로 인해 차량 일부가 파손됐다.&lt;br&gt;&lt;br&gt;정 전 대표 측은 이날 언론 공지를 통해 차량 습격 사실을 알리며 “차량 내부에 탑승하고 있던 후보를 향한 위협, 폭력에 대해 깊은 유감을 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 정 전 대표는 이날 페이스북 게시물을 올려 “12.3 비상계엄 때는 노상원 수첩에 의해 죽을 뻔했다”며 “참담하고 서글프다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘2억원대 고가 기념품 의혹’ 농협중앙회 2차 압수수색 진행 </title>
-      <link>https://www.chosun.com/national/national_general/2026/07/21/OQVVJTPHUVB4NPGZI73PV42DYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/OQVVJTPHUVB4NPGZI73PV42DYI/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 06:17:57 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSJXYS4YD5LOFMJVG6T2A4MDXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 12일 서울 중구 농협중앙회 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 고가의 기념품을 공금으로 구매해 전달했다는 의혹을 받는 농협중앙회에 대해 2차 압수수색을 진행 중이다. &lt;br&gt;&lt;br&gt;21일 경찰에 따르면 서울경찰청 반부패수사대는 이날 오전부터 농협중앙회 비서실 등에 대한 압수수색을 진행하고 있다. 경찰은 지난달 12일에도 같은 혐의로 압수수색을 했다.&lt;br&gt;&lt;br&gt;이번 압수수색은 농협중앙회 일부 부서가 공금 약 2억4000만원으로 홍삼과 화장품 등 고가의 기념품을 구해 회장실 등에 전달했다는 의혹과 관련한 수사로 알려졌다. 경찰은 압수물을 토대로 실제 기념품 수령자와 전달 과정, 공금 유용 여부 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;앞서 정부는 지난 3월 ‘농협 정부합동 특별감사 결과’를 발표하고 해당 의혹을 비롯해 농협중앙회와 계열사, 회원조합 등에 대한 공금 유용과 특혜성 대출, 분식회계 등 14건을 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;당시 정부 감사에서는 강호동 농협중앙회장이 농협재단 간부를 통해 사업비를 빼돌려 회장 선거를 도운 조합장 등에게 고가의 답례품을 돌린 것으로 드러났다. 이를 비롯해 당시 감사에서 드러난 강 회장 관련 혐의는 총 6건이었다. 경찰은 감사 결과를 토대로 관련자들의 위법 사항을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>합수본 ‘선관위, 작년 대선도 투표용지 부족 숨겼다’ 진술 확보  </title>
-      <link>https://www.chosun.com/national/court_law/2026/07/19/4MR3AYMQ3VDDRBSKJ4VL4IEEJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/19/4MR3AYMQ3VDDRBSKJ4VL4IEEJI/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 19 Jul 2026 09:05:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3GIM3EGQ4GKZBTMZTDQZDEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6·3 지방선거 투표 용지 부족 사태를 수사하는 검경 합동수사본부가 작년 대통령 선거에서도 투표 용지가 부족했는데도 중앙선거관리위원회가 이를 숨긴 정황을 확인했다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 선관위 공직선거절차사무 개선TF 관계자는 최근 합수본 조사에서 “자료를 제공받지 못해 제21대 대선에서 투표용지가 부족했던 사실을 전혀 알지 못했다”고 진술한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;개선TF는 21대 대선 과정에서 발생한 사고 사례를 분석해 개선점을 찾고 지방선거를 대비할 목적으로 선관위가 자체 출범한 조직이다. 개선TF는 예산 낭비를 줄이겠다며 투표용지 인쇄 매수 하한선을 지방선거는 선거인 수의 50%로 축소하자는 의견을 낸 곳이기도 하다.&lt;br&gt;&lt;br&gt;그런데 개선TF는 작년 6월 치러진 21대 대선 당시 투표용지가 부족했다는 사실을 선관위에서 전달받지 못했다는 것이다. 실제 21대 대선 때는 전국 58개 투표소에서 투표용지 부족이 우려돼 무번호 용지가 배부된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;합수본은 이 같은 진술이 선관위 부실 운영을 뒷받침하는 정황으로 보고, 선관위가 의도적으로 투표용지 부족 사태를 은폐했는지 등을 살펴보고 있다.&lt;br&gt;&lt;br&gt;또한 합수본은 다음 주부터는 서울 송파구 등 지방선거에서 투표용지 부족 사태가 발생했던 자치구 선관위 사무국장 등을 피의자로 불러 조사할 예정이다. 지난 9일 출범한 합수본은 지금까지 압수수색과 참고인 조사만 해 왔다.&lt;br&gt;&lt;br&gt;합수본은 또 대검찰청에서 회계·계좌 분석 담당 등 수사관 총 7명을 파견받아 인사·예산 전담팀에 배치했다. 이들은 선관위 직원들의 외유성 해외 출장 의혹 등 선관위의 부실 예산 운용 의혹을 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘범죄도시’ 마석도 실제 모델 경찰, 음주운전으로 벌금형</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/21/5D7WUKER3BDTXO2QIDA4SK7YAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/21/5D7WUKER3BDTXO2QIDA4SK7YAE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 05:55:46 +0000</pubDate>
-      <content:encoded>영화 ‘범죄도시’에서 배우 마동석이 연기한 ‘마석도’ 캐릭터의 실제 모델로 알려진 경찰관이 음주운전 혐의로 1심에서 벌금형을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWBH6MPFXZHIHAT2JNO4ONQCNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '범죄도시'에서 주인공 마석도를 연기한 배우 마동석(오른쪽)이 주먹을 휘두르고 있다. 사진은 기사와 직접적인 관련 없음./에이비오엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25단독 이성열 판사는 21일 도로교통법상 음주운전 혐의로 불구속 기소된 윤모 경위에게 벌금 600만원을 선고했다. 재판부는 “윤 경위가 범행을 인정하고, 형사처벌을 받은 전력이 없는 점 등을 고려했다”고 설명했다. 앞서 검찰은 윤 경위에게 징역 1년 6개월을 구형했다.&lt;br&gt;&lt;br&gt;서울 수서경찰서에서 근무하던 윤 경위는 지난해 11월 24일 오후 8시 30분쯤 술을 마시고 운전을 하다가 서울 강남세브란스병원 인근에서 접촉 사고를 낸 혐의로 지난 4월 재판에 넘겨졌다. 사고 당시 윤 경위의 혈중알코올농도는 0.144%로 면허취소 수준(0.08%)을 넘긴 것으로 조사됐다. 다만 접촉사고로 인한 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;윤 경위는 경찰 조사에서 “만취해 차에서 내렸던 상황부터 기억이 난다”는 취지로 자신의 혐의를 인정한 것으로 알려졌다. 경찰은 윤 경위의 음주 운전 사고 사실이 알려진 후 그를 직위해제했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공연·조명·불꽃쇼... 제주 여름 밤이 즐겁다</title>
-      <link>https://www.chosun.com/national/regional/2026/07/21/R5ZJMZGTXZDKVB6XHFJFU2IHPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/21/R5ZJMZGTXZDKVB6XHFJFU2IHPI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 05:49:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFWJRWLUWJABVB6ULY6EL74R6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서귀포시 새연교 일대에서 펼쳐지는 '금토금토 새연쇼' 행사에서의 불꽃쇼./서귀포시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주의 여름밤 추억을 쌓아줄 공연과 조명, 불꽃 쇼 등 체류형 관광 행사가 이어진다. 이번 사업은 사계절 체류형 관광 캠페인 ‘더-제주 포시즌’(The Jeju Four Seasons)과 연계해 야간 관광 콘텐츠를 확충하는 데 초점을 맞췄다.&lt;br&gt;&lt;br&gt;이번 행사는 사계절 내내 제주를 즐기도록 추진 중인 체류형 관광 캠페인 ‘더-제주 포시즌(The Jeju Four Seasons)’과 연계했다. 야간 콘텐츠를 늘려 관광객이 밤에도 머물 거리를 넓히기 위해 마련됐다. &lt;br&gt;&lt;br&gt;대표적으로 이호테우해수욕장과 산지천, 새연교 일대에서 도심·해변을 배경으로 한 야간 콘텐츠가 이어진다. 제주시 이호테우해수욕장에선 오는 24~26일 ‘이호 필터 페스티벌’이 열린다. 라이브 공연과 친환경·웰니스 프로그램 등이 마련될 예정이다. &lt;br&gt;&lt;br&gt;제주시 산지천 일대에서는 8월 22~30일 주말마다 ‘컬러풀 산지 페스티벌’이 열린다. 아울러 10월 31일까지 서귀포시 새연교 일원에서 매주 금·토요일 저녁 펼쳐지는 ‘금토금토 새연쇼’는 라이브 공연과 불꽃쇼, 음악 분수쇼 등이 펼쳐진다. &lt;br&gt;&lt;br&gt;제주시 탑동 해변공연장의 ‘한여름밤의 예술 공연’, 별빛누리공원의 ‘제주별빛이야기’, 서귀포예술의전당의 ‘제11회 서귀포오페라페스티벌’, 제주칠머리당영등굿 전수관의 상설 공연 등도 마련된다. &lt;br&gt;&lt;br&gt;‘제주시티투어 야밤버스’도 특별 운영된다. 오는 24일부터 8월 29일까지 매주 금·토요일 오후 7시부터 9시까지 운영하는 야밤버스는 제주공항을 출발해 이호목마등대, 도두봉, 동문시장, 산지천, 목관아 등을 도는 약 2시간 순환 코스로 운영된다. 탑승객을 위한 디제잉과 현장 이벤트도 마련된다. &lt;br&gt;&lt;br&gt;올해는 ‘제주와의 약속’ 파트너스 사업으로 민간이 주도하는 이색 야간 콘텐츠도 발굴했다. 생태와 신화를 각각 테마로 한 야간 탐방 프로그램인 ‘초음파로 듣는 제주 뱃-나잇(Bat Night) 투어’와 ‘제주신화야행 살강길’ 등이다. &lt;br&gt;&lt;br&gt;김양보 제주도 관광교류국장은 “야간 콘텐츠를 늘리면 관광객이 자연스럽게 더 오래 머물고, 지역 상권도 밤낮없이 활기를 띤다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산시, 이재모피자와 협업해  ‘부산바다피자’ 출시  </title>
       <link>https://www.chosun.com/national/regional/2026/07/21/GXTK5EYVWRAYDPPQN5BNUDECGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/21/GXTK5EYVWRAYDPPQN5BNUDECGA/</guid>
@@ -910,67 +1000,6 @@
       <description/>
       <pubDate>Tue, 21 Jul 2026 05:34:05 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2TGOLBME3TIMJVGI3DINJSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재모피자 부산바다피자 홍보 이미지./부산시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;부산시가 작년 7월 세계디자인기구(WDO)에서 ‘2028 세계디자인수도(WDC)’로 선정된 지 1주년을 기념하는 피자를 출시한다. &lt;br&gt;&lt;br&gt;부산시는 21일 오후 5시 이재모피자 서면중앙점에서 2028 WDC 부산 선정 1주년을 기념해 부산 대표 미식 브랜드 이재모피자와 협업한 ‘부산바다피자(WDC PIZZA)’ 출시 행사를 연다. &lt;br&gt;&lt;br&gt;이 피자는 1992년 이재모피자 창립 이후 처음 선보이는 시그니처 메뉴다. 부산 향토기업 고래사어묵의 최고급 명태 살 100% 어묵과 부산 명란, 기장 쪽파 등 지역 해산물을 주재료로 넣었다.&lt;br&gt;&lt;br&gt;광안리 파도를 형상화한 어묵 디자인과 풍성한 해산물 토핑으로 해양 도시 부산의 역동성과 생동감을 시각적으로 표현했다. 가격은 스몰사이즈 3만1000원, 라지사이즈 3만5000원. &lt;br&gt;&lt;br&gt;또 세트 에이드 음료인 ‘WDC 미드나잇퍼플’은 부산 시민의 열정과 에너지를 상징하는 빨간색과 개방·연결의 의미를 담은 파란색을 조합해 2028 WDC 부산 공식 브랜드 색상인 보라색을 구현했다. &lt;br&gt;&lt;br&gt;부산바다피자 출시를 기념해 시민과 관광객이 함께 참여할 수 있는 다양한 이벤트도 마련했다.&lt;br&gt;&lt;br&gt;22일부터 8월 31일까지 부산바다피자를 맛보고 인증 사진을 촬영해 세계디자인수도 부산 공식 인스타그램(https://www.instagram.com/worlddesigncapitalbusan2028) 이벤트에 참여하면 추첨을 거쳐 50명에게 부산바다피자(L) 교환권을 증정한다.&lt;br&gt;&lt;br&gt;또 오프라인 매장에서 부산바다피자를 구매하는 고객을 대상으로 2028 WDC 부산과 이재모피자가 협업해 제작한 한정판 마그네틱 굿즈를 선착순으로 나눠준다.&lt;br&gt;&lt;br&gt;부산시는 이번 협업을 계기로 지역 대표 브랜드와 디자인을 융합한 모델 늘려나가기로 했다. &lt;br&gt;&lt;br&gt;전재수 부산시장은 “2028 세계디자인수도 부산은 시민의 삶 속에서 디자인의 가치를 발견하고 확산하는 과정”이라며 “지역기업들과 디자인을 매개로 다양한 협업 사업을 추진해 도시 브랜드 매력을 극대화하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>AI 넘어선 ‘신’의 한 수... 신진서, 카타고에 역전승</title>
-      <link>https://www.chosun.com/national/people/2026/07/21/CBHVHEW4WZEPTKRPNLLN7Y6XWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/07/21/CBHVHEW4WZEPTKRPNLLN7Y6XWM/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 04:39:23 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PHOVOBVQNANVP4FQ2AQSTDYFA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 구윤성 기자 = 바둑 세계랭킹 1위 신진서 9단이 17일 오전 서울 중구 한국경제TV 스튜디오에서 열린 '쎈수학·한경 기신전(棋神戰)' 인공지능(AI) 프로그램 카타고(KataGo)와의 두 점 접바둑 3번기 첫 대국을 앞두고 인터뷰하고 있다. 2026.7.17/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바둑 세계 랭킹 1위 신진서(26) 9단이 현존 최고 수준의 바둑 인공지능(AI) 카타고(KataGo)를 상대로 1패 뒤 2연승을 거두며 3번기 승리를 차지했다.&lt;br&gt;&lt;br&gt;신진서는 21일 서울 중구 한국경제TV 스튜디오에서 열린 ‘쎈수학·한경 기신전’ 최종 제3국에서 카타고를 상대로 221수 만에 흑 11집반승을 거뒀다. 지난 17일 제1국에서 245수 만에 불계패했지만, 19일 제2국을 4집반 차로 이긴 데 이어 최종국까지 잡아 최종 전적 2승1패로 승리했다.&lt;br&gt;&lt;br&gt;카타고는 앞선 두 판과 달리 첫 수로 좌상귀 소목을 택했다. 신진서는 2분여 동안 장고한 뒤 우하귀 소목에 돌을 놓았다. 카타고가 좌상귀를 두 칸으로 굳히자 신진서는 좌하귀 날일(日)자로 실리를 챙겼다. 제2국에서 대형 정석을 통해 변수를 줄였던 것과 달리 이날은 소목 포석으로 새로운 승부에 나섰다.&lt;br&gt;&lt;br&gt;두 점을 먼저 깐 신진서는 18집반 정도 앞서고 예상 승률 99%인 상태에서 대국을 시작했다. 하지만 한 차례 실수로도 우세를 모두 잃을 수 있는 AI와 겨루는 승부였다. 신진서는 앞선 대국에서 “승률이 98% 아래로 떨어지면 위험하다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;신진서는 복잡한 전투를 피하고 차분하게 집을 쌓았다. 우상귀에서는 귀의 실리를 일부 내주는 대신 상변과 우변에 두터운 세력을 구축했다. 이어 80수째 백돌을 공격하며 상변에서 중앙까지 거대한 흑진을 만들었다. 이 흑진이 실제 집으로 굳어지면서 승부의 추가 신진서 쪽으로 기울었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3PZUURLOZMGJJX2QJIISR2HHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;바둑 세계 랭킹 1위 신진서 9단이 21일 오전 서울 중구 한국경제TV 스튜디오에서 열린 ‘쎈수학·한경 기신전’ 제3국에서 인공지능(AI) ‘카타고(KataGo)’와 대국을 펼치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제1국에서는 70수 부근, 제2국에서는 160수 부근에서 예상 승률 99%가 무너졌지만 이날은 달랐다. 신진서는 끝까지 승률 99%를 지키며 카타고에 반격할 틈을 주지 않았다. 여러 차례 계가하며 우세를 확인한 신진서는 3시간 20여 분 만에 11집 반 차 완승을 확정했다.&lt;br&gt;&lt;br&gt;이번 대결은 AI의 압도적인 기력을 고려해 신진서가 흑돌 두 점을 먼저 놓는 접바둑으로 진행됐다. 동등한 조건의 승부는 아니지만, 카타고가 프로 기사들과의 2점 접바둑에서도 압도적인 성적을 거둬왔다는 점에서 신진서의 2연승은 의미가 작지 않다.&lt;br&gt;&lt;br&gt;신진서는 판당 5000만원씩 대국료 1억5000만원과 두 차례 승리 수당 1억원 등 총 2억5000만원을 받는다. 2승 이상을 거둔 부상으로 제네시스 G90도 받는다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3PHOVOBVQNANVP4FQ2AQSTDYFA.JPG?auth=4d6549e89e50d3eb961a944ef4aafb4959e902086e0da6106b33513db207ea5a&amp;smart=true&amp;width=2741&amp;height=1542" type="image/jpeg" height="1542" width="2741">
-        <media:description type="plain">(서울=뉴스1) 구윤성 기자 = 바둑 세계랭킹 1위 신진서 9단이 17일 오전 서울 중구 한국경제TV 스튜디오에서 열린 '쎈수학·한경 기신전(棋神戰)' 인공지능(AI) 프로그램 카타고(KataGo)와의 두 점 접바둑 3번기 첫 대국을 앞두고 인터뷰하고 있다. 2026.7.17/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 구윤성 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>인천 쿠팡 물류센터 화재… 국가 소방 동원령 일부 해제</title>
-      <link>https://www.chosun.com/national/incident/2026/07/21/E4V26RVOJBEFRMMLXBY6O7K4VY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/21/E4V26RVOJBEFRMMLXBY6O7K4VY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 02:38:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HRHD72ZBNOWJJGXTSLSJXUZ3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 인천 서해구 쿠팡 물류센터에서 소방관들이 잔불 정리를 하고 있다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불이 난 인천 쿠팡 물류센터 현장에 내려졌던 국가 소방 동원령이 발령 나흘째인 21일 일부 해제됐다. &lt;br&gt;&lt;br&gt;인천소방본부에 따르면 이날 오전 9시 40분 인천 서해구 석남동 쿠팡 물류센터 화재 현장 인근 8개 시도의 인력과 장비를 동원하는 국가 소방 동원령을 일부 해제했다. &lt;br&gt;&lt;br&gt;이에 따라, 세종, 강원, 충북, 충남 지역에서 동원됐던 고가 굴절 사다리차 등 장비 24대가 현장을 떠났다. &lt;br&gt;&lt;br&gt;서울과 경기남부, 경기북부, 중앙구조본부 등에서 온 장비 30대는 여전히 운용되고 있다. &lt;br&gt;&lt;br&gt;소방 당국은 21일 오후 1시 57분쯤엔 대응 2단계 경보령을 대응 1단계로 하향 조정하고, 완전 진화를 위한 화재 진압 활동을 하고 있다. &lt;br&gt;&lt;br&gt;안전이 확인된 물류센터 6층 이하 램프 구간(화물차 진출입로)에서 물류센터 쪽으로 방수 작업을 하면서 화재 시 배터리 폭발 위험이 있는 물류 로봇 등이 있는 5층으로 불이 옮겨가지 않도록 하는 데에도 집중하고 있다. 열화상 카메라로 내부 온도를 측정하면서 특이 사항이 있는지도 확인 중이다. &lt;br&gt;&lt;br&gt;이번 화재는 지난 18일 오전 6시 54분쯤 인천 서해구 석남동 쿠팡 물류센터 6층에서 발생했다. 소방 당국은 61시간 만인 20일 오후 8시 초기 진화한 상태다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 완전히 불을 끈 뒤 구체적인 화재 원인과 피해 규모 등을 조사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 압구정 한양아파트서 화재… 1명 중상·3명 부상</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/21/3M77ZNP7IJG35CUYA44FLYI5ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/3M77ZNP7IJG35CUYA44FLYI5ME/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 02:31:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V23HQRYHGRJM7JG6YV5NVWK7TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 10시 27분께 서울 강남구 압구정동 한양아파트에서 불이 났다. 주민 20여명이 경로당 등으로 스스로 대피했고, 해당 동에 머무르던 3명은 출동한 소방대원들에게 구조됐다. 사진은 이날 소방관계자들이 화재 진압 후 화재가 발생한 세대와 주변 세대를 살펴보는 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 10시 27분쯤 서울 강남구 압구정동 한양아파트 3차에서 불이 나 1시간 40여분 만에 진화됐다. 이 과정에서 주민 20여명이 근처 경로당으로 긴급 대피했다. 3명이 연기를 흡입하고, 70대 여성 1명이 어지러움을 호소하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 신고를 받고 출동한 소방 당국은 장비 36대와 인력 133명을 투입해 20분만에 불길을 잡았고, 1시간 40분 만에 완전히 진화했다. &lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인과 재산 피해 규모 등을 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWPTK2O7A5KTNDZY6U6QB4YIYI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울 강남구 압구정동 한양하파트 5층의 한 세대에서 화재가 발생, 화재 진압을 마친 소방대원들이 장비를 정리하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QUA5H6DJYNHJFPWJFPKOW6NKVI.gif?auth=810e3aa31bad43009c8c308e801cc97e9270b9d730418cee85fc4c6cb21632a3&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
-        <media:description type="plain">21일 오전 서울 강남구 압구정동 한양아파트 3차에서 불이 난 모습. /독자 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>인천 선관위 직원, 숨진 채 발견… 경찰 수사</title>
-      <link>https://www.chosun.com/national/incident/2026/07/21/XGWZBKDLP5CXFGHBBJJHMFZHKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/21/XGWZBKDLP5CXFGHBBJJHMFZHKY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 05:03:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRDEYRXMVSTINBRHAYGCZJVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 선거관리위원회 직원이 사무실에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;21일 인천 제물포경찰서 등에 따르면 전날 오전 11시 10분쯤 인천의 한 선거관리위원회 사무실에 쓰러져 있는 50대 남성 직원 A씨를 다른 직원이 발견해 119에 신고했다. &lt;br&gt;&lt;br&gt;이 직원은 “사람이 쓰러졌는데, 의식이 없다”고 신고했다. 경찰은 A씨가 이미 숨진 상태였고, 타살 혐의점은 없는 것으로 보고 있다. &lt;br&gt;&lt;br&gt;현장에선 A4용지에 손글씨로 적힌 유서가 발견된 것으로 알려졌다. 경찰은 유족과 선관위 직원 등을 상대로 정확한 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 한수원 간부의 수상한 미국 출장…“공공 예산 쌈짓돈처럼 썼다”</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/07/21/LFASQVZBZJB77HMKYLMDGMJYOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/21/LFASQVZBZJB77HMKYLMDGMJYOI/</guid>
-      <dc:creator>윤상진 기자, 전준범 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 01:39:04 +0000</pubDate>
-      <content:encoded>한국수력원자력(한수원) 고위 간부 A씨가 한수원이 매년 14억원의 연회비를 지급하는 민간 협회에 기부금 4800만원을 내려준 뒤, 이 돈으로 자신의 미국 출장비 800여 만원을 지원받은 것으로 확인됐다. 기후에너지환경부는 한수원과 유관 기관 사이 출장비 대납 방안을 협의한 정황을 포착해 감사에 나선 한편, 산하 공공기관 대상으로 유사 사례 전수조사에 착수했다.&lt;br&gt;&lt;br&gt;20일 본지 취재를 종합하면, 기후에너지환경부 감사관실은 최근 이 같은 비위 정황을 확인하고 한수원에 대한 감사를 벌이고 있다. A씨는 한수원 ‘1직급’ 처장으로 중앙부처의 국장급에 해당하는 고위 간부다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2GMZLDHA4TAMDBHAZTSNZSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경상북도 경주 한국수력원자력 본사 전경. /한수원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제의 출장은 지난 3월 10일부터 12일까지(총 4박 6일 일정) 미국 메릴랜드주 노스베데스다에서 열린 규제정보회의(RIC)였다. 50여 국의 원자력 규제 관계자가 모이는 세계 최대 규모 행사로, 미 원자력규제위원회(NRC)가 주관한다. &lt;br&gt;&lt;br&gt;한수원은 지난 2월 초 A씨를 포함해 이곳에 11명이 출장을 가는 계획을 세웠다고 한다. 문제는 예산 문제로 인원이 감축돼 A씨가 출장 명단에서 빠지면서 시작됐다. 감사 당국은 명단 제외 이후부터 유관 기관 예산으로 A씨의 미국 출장이 추진된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨의 출장비를 부담한 곳은 한국원자력산업협회(원산협회)와 원자력산업정책연구원(원산연구원)이었다. 원산협회는 한수원 사장이 협회장을 겸하고 있고, 전현직 임원 중에도 한수원 출신이 다수 포진해 있는 곳이다. 한수원에서 연회비로 14억원을 받는 등 한수원 의존도가 크다. 원산연구원은 원산협회에서 분리된 민간 연구 기관으로, 이번 미국 출장 관련 연구와 예산 집행을 실제로 맡은 곳이다.&lt;br&gt;&lt;br&gt;출장비 지원은 한수원이 원산협회 측에 예산 4800만원을 ‘기부금’ 명목으로 지급하고, 원산협회 측이 ‘원자력 전문가’로 A씨를 미국 출장에 초청하는 방식으로 이뤄졌다. 원산협회는 지난 2월 27일 A씨가 처장으로 있는 한수원 부서에 “미국 RIC에 참석해 연구·네트워킹 활동을 하려고 하니, 관련 사업비 4800만원을 지원해달라”는 내용의 공문을 보냈다. 이어 일주일 뒤인 3월 4일엔 “한수원 소속 전문가 1명을 보내달라”는 초청 공문을 보냈다.&lt;br&gt;&lt;br&gt;A씨는 초청이 온 바로 다음 날인 3월 5일 자신을 미국 출장에 초청한 원산협회 측에 기부금 4800만원을 지급하는 기안에 결재한 것으로 나타났다. 정작 한수원은 예산 부족을 이유로 출장 인원까지 줄였지만, 민간 협회에는 직원 10명분 출장비와 맞먹는 기부금을 준 것이다. A씨는 초청 공문을 받기 전부터 이미 한수원의 국외 출장 심의 절차를 밟고 있었다고 한다. &lt;br&gt;&lt;br&gt;당초 계획된 출장자는 2명이었지만, A씨가 뒤늦게 추가되면서 전체 출장비도 1500만원에서 2300만원으로 늘었다. 감사 당국은 기부금 요청 전부터 A씨의 부하 직원들이 유관 기관 측과 출장비 대납 방안을 논의한 것으로 보고, A씨의 지시 여부 등을 파악하고 있다. 한 정부 관계자는 “수천만 원 예산을 별다른 심사도 없이 일주일 만에 집행한 것은 공공기관에선 상상하기 어려운 일”이라며 “공공 예산을 쌈짓돈처럼 사용한 것”이라고 말했다. &lt;br&gt;&lt;br&gt;기부금 결재 다음 날인 3월 6일엔&lt;b&gt; &lt;/b&gt;A씨의 미국행 항공권이 발권됐다. 이어 9일 A씨는 안전기술부사장 등을 포함한 한수원 임직원 6명과 같은 항공편을 타고 미국으로 출국했다. 이후에도 A씨는 한수원 임직원과 같은 호텔에 머물며 같은 행사에 참석했다고 한다. A씨가 지원받은 출장비는 왕복 항공료 538만원, 호텔 숙박비 163만원(4박) 등 총 866만원이었다.&lt;br&gt;&lt;br&gt;출장 후 보고서는 2건으로 나눠 작성됐다. 한수원은 국외 출장 보고서를 홈페이지에 공개하고 있는데, 해당 보고서들은 귀국 후 3개월이 지나도록 공개되지 않다가 본지 취재가 시작된 뒤 게시됐다.&lt;br&gt;&lt;br&gt;일각에선 이번 사건이 단순한 개인 일탈이 아니라, 공공기관과 이해관계가 얽힌 유관 기관 사이 구조적 비위라는 지적도 나온다. A씨가 출장 관련 절차를 밟는 동안 한수원 내부에서도 이를 걸러낼 장치가 없었다는 것이다. 한 원자력 업계 관계자는 “전문성이 높고 인력 풀이 좁은 다른 분야에서도 비슷한 일이 관행처럼 벌어지고 있을 가능성이 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>차량에 일부러 손 부딪쳐 돈 뜯어낸 50대 ‘징역 1년’</title>
-      <link>https://www.chosun.com/national/regional/2026/07/21/FVTIYRVFO5B4ZHDIXDO7JXTVPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/21/FVTIYRVFO5B4ZHDIXDO7JXTVPU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 04:55:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTQOJSGZRWEYRQGJSWMZLGMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량에 고의로 손을 부딪치는 이른바 ‘손목치기’ 수법으로 운전자들을 속여 돈을 뜯어낸 50대에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 사기 등 혐의로 기소된 A(52)씨에게 징역 1년을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4~5월 춘천지역 골목길에서 운전자 4명에게 교통사고 합의금 명목으로 60여만원을 받아 챙기고, 1명에게도 같은 수법으로 돈을 뜯어내려다 미수에 그친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 좁은 골목길을 지나는 차량을 표적으로 삼아 차량 사이드미러 등에 손을 부딪친 뒤 운전자에게 “치료비를 현금으로 달라”고 요구하는 방식으로 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 한 피해자가 보험사에 사고 접수를 하려 하자 “파스와 연고를 구입해 달라”며 1만원어치의 의약품을 받아 챙기기도 했다. 그는 생활비를 마련하기 위해 이 같은 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 앞서 2024년 8월 울산지법에서 사기죄 등으로 실형을 선고받아 복역한 뒤 지난해 12월에 출소했으나 약 5개월 만에 다시 범행을 저질렀다.&lt;br&gt;&lt;br&gt;박 판사는 “피고인은 피해자들과 합의하지 못했다”면서 “사기죄로 처벌받은 전력이 있는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“장애인 가족 파국 막으려면...” 자폐 아들 둔 시한부 아빠의 호소</title>
@@ -984,25 +1013,6 @@
         <media:description type="plain">2026년 7월 16일 서울 강동구 상암로 명일골목시장 인근. 성인 중증 자폐인의 '터전' 만들고 눈감겠다는 '시한부 아빠' 전경철씨가 본지와 인터뷰를 갖고 있다. /김지호 기자</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>인천 쿠팡 물류센터, 소방시설 점검서 지적사항 25건</title>
-      <link>https://www.chosun.com/national/incident/2026/07/21/YYO45KP4EBGHRHM4EKOQERTKZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/21/YYO45KP4EBGHRHM4EKOQERTKZ4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jul 2026 03:53:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFHV6HLI5VPFVDC7UPJFFJBT6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 인천 서해구 쿠팡 물류센터에서 소방관들이 잔불 정리를 하고 있다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나흘째 화재가 이어지고 있는 인천 쿠팡 물류센터에서 진행된 소방시설 자체 점검에서 25건의 지적 사항이 나왔던 것으로 나타났다. &lt;br&gt;&lt;br&gt;21일 인천소방본부에 따르면 지난 2월 23일~3월 27일 서해구 석남동 쿠팡 물류센터의 소방시설 종합 정밀점검 결과, 4개 분야에서 총 25건의 지적 사항이 나왔다. &lt;br&gt;&lt;br&gt;분야별로는 소화 설비 3건, 경보 설비 13건, 피난 구조 설비 3건, 방화문 등 기타 6건 등이었다. &lt;br&gt;&lt;br&gt;불이 처음 난 것으로 추정되는 6층에선 화재 감지기 배관 연결부 이탈 등 3건의 지적 사항이 있었으나 ‘매우 경미한 건’으로 분류됐다. &lt;br&gt;&lt;br&gt;이 점검은 건물 관계인이 선임한 소방시설 관리업 등록 업체에서 진행됐다. 건물 관계인은 이 지적 사항들에 대한 시정 조치를 하고, 지난 5월 11일 시정 완료 보고서를 인천 서부소방서 측에 제출했다. &lt;br&gt;&lt;br&gt;소방 관계자는 “지적됐던 사항들과 이번 화재의 연관성은 정확한 화재 원인 조사를 해봐야 알 수 있을 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이번 화재는 지난 18일 오전 6시 54분쯤 인천시 서해구 석남동 쿠팡 물류센터에서 발생했다. 소방 당국은 화재 61시간 만인 지난 20일 오후 8시 초기 진화했고, 현재 대응 2단계를 유지한 채 완전 진화를 위한 진압 활동을 하고 있다. &lt;br&gt;&lt;br&gt;화재가 난 물류센터 건물은 3년 전에도 불이 났었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;물류센터 사용 승인 다음 날인 2023년 8월 15일 오전 4시 29분쯤 지하 21층 냉동 창고에서 원인을 알 수 없는 불이 났던 것이다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 당시 관할 소방서 인력 전원을 투입하는 대응 1단계를 발령하고, 소방관 등 160명과 장비 52대를 투입해 25시간여 만인 다음 날 오전 5시 51분쯤 완전히 불을 껐다. &lt;br&gt;&lt;br&gt;인명 피해는 없었으나, 냉동창고 2개 구역이 불에 타고 주차된 차량이 그을리는 등 39억 4900여 만원 상당의 재산 피해가 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>100일 간 핀다는 ‘백일홍’ 활짝</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/21/EG65MNJGXFBQTOPX6H233KGFW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/21/EG65MNJGXFBQTOPX6H233KGFW4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jul 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDV2P72XLNGQZEZ7Q2M6EHGCTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 대전 동구 우암사적공원 남간정사에 붉은색 배롱나무꽃이 활짝 폈다. 관광객들이 기념사진을 찍고 있다. 배롱나무꽃은 7~9월 약 100일간 펴 백일홍이라고도 불린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
