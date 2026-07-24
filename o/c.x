@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[기자의 시각] ‘실거주’가 독도를 지킨다</title>
+      <link>https://www.chosun.com/opinion/journalist_view/2026/07/24/57CMPPYHPJD75CRYT6CLWOMOVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/opinion/journalist_view/2026/07/24/57CMPPYHPJD75CRYT6CLWOMOVE/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jul 2026 14:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7W3LJMWIUNEP5JK4LKVA4BDDLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경상북도 울릉군 독도 서도 주민숙소에 태극기가 그려져 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 기자는 등록 기준지를 독도로 옮겼다. 옛 본적에 해당하는 서류상 주소지다. 독도를 취재하며 작게나마 ‘독도 수호’에 힘을 보태고 싶었다. 독도를 본적으로 둔 일본인이 112명이나 된다는 사실도 기자를 자극했다. 등록 기준지를 독도로 옮기는 일은 5분이 채 걸리지 않았다. 그렇게 나처럼 서류상 ‘독도 사람’이 된 한국인은 지난해 말 기준 4668명이다.&lt;br&gt;&lt;br&gt;하지만 현실의 독도는 삶을 일구기 험난한 섬이다. 현재 독도에 사는 주민은 없다. 마지막 주민 고(故) 김신열 씨가 세상을 떠나며 명맥이 끊겼다. 5분이면 끝나는 서류상 전입과 달리, 진짜로 독도에 상주하겠다는 사람을 받아들이는 길은 수년째 꽉 막혀 있다. 주민이 살 만한 공간이 부족하고, 후속 주민을 정할 행정 기준도 마련돼 있지 않은 탓이다.&lt;br&gt;&lt;br&gt;이 방치된 틈을 일본이 집요하게 파고들었다. 일본 외무상은 지난 2월 국회 연설에서 독도를 “일본 고유 영토”라 주장하며 한국의 불법 점거를 또다시 들먹였다. 시마네현의 ‘다케시마의 날’ 행사와 도쿄 ‘영토·주권 전시관’의 왜곡 영상 상영도 매년 반복되는 도발이다. 목적은 분명하다. 독도를 끊임없이 ‘분쟁 지역화’해 국제사법재판소로 끌고 갈 명분을 만들려는 것이다. 일본은 겉으로 한일 관계 개선을 말하면서도, 뒤에서는 독도를 빼앗기 위해 국가 차원의 치밀한 장기전을 이어가고 있다.&lt;br&gt;&lt;br&gt;상황이 이렇기에 독도 주민의 존재는 더욱 각별하다. 독도 마지막 주민 김신열씨는 남편 고(故) 김성도씨와 오랜 세월 독도에서 어업 활동을 하고 세금을 냈다. 선거 때면 표를 행사했다. 독도경비대와 행정 인력의 상주와는 별개로, 주민이 먹고 자며 생업을 이어가는 삶 자체가 대한민국 영토 주권을 입증하는 가장 확실한 증거였다.&lt;br&gt;&lt;br&gt;그런데 정작 우리 당국은 독도 주민이 되겠다는 사람을 돌려세우고 있다. 김신열씨의 딸 김진희(53)씨는 6년 전 고령의 어머니를 모시겠다며 독도 전입을 신청했다. 그러나 울릉군은 어머니 김신열씨가 살고 있는 숙소가 비좁다며 전입 신청을 반려했다.&lt;br&gt;&lt;br&gt;김진희씨처럼 거주 의지가 확실한 이들을 명확한 기준도 없이 계속 막을 수는 없다. 물론 독도에서의 삶은 쉬운 일이 아니다. 거센 파도와 부족한 식수, 전력난을 견뎌야 한다. 그렇기에 거주 의지와 생활 역량을 공정하게 평가할 ‘정주 기준’을 하루빨리 만들어 후속 주민 선정을 서둘러야 한다.&lt;br&gt;&lt;br&gt;독도는 외교적 타협이나 분쟁의 대상이 아니다. 우리 국민이 뿌리내리고 살아온 대한민국 땅이다. 김진희씨는 일본이 독도 영유권을 주장할 때마다 “그곳에서 살아온 사람들의 삶과 역사까지 부정당하는 것 같다”며 안타까워했다. 독도를 지키는 핵심은 그곳을 터전 삼아온 삶의 역사를 끊어뜨리지 않고 이어가는 데 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기사 써서 주가 띄우고 93억 챙긴 회계사·기자 재판行</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/24/R5A2NW2F6RHC7AM2USEOSSOGBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/24/R5A2NW2F6RHC7AM2USEOSSOGBU/</guid>
+      <dc:creator>윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jul 2026 13:23:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRDQNTFHBRDMZRSMIZWGOLBGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특정 종목을 매수한 뒤 기사를 써서 주가를 띄우는 수법으로 부당 이익을 챙긴 회계사와 기자가 재판을 받는다. &lt;br&gt;&lt;br&gt;서울남부지검은 공인회계사 A씨와 기자 B씨를 자본시장과 금융투자업에 관한 법률 위반(사기적 부정 거래) 등 혐의로 지난 6일 구속 기소했다고 24일 밝혔다. B씨에게는 범죄은닉규제법 위반 혐의도 적용됐다. &lt;br&gt;&lt;br&gt;앞서 금융감독원 자본시장특사경은 지난달 18일 A씨와 B씨를 검찰에 송치했다. &lt;br&gt;&lt;br&gt;A씨는 현직 기자들과 공모해 주가조작 세력을 조직적으로 결성한 후 특징주 기사를 이용해 선행 매매를 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;특징주란 당일 주식시장에서 주가나 거래량이 크게 오르거나 내리는 등 눈에 띄는 주식 종목을 말한다. &lt;br&gt;&lt;br&gt;A씨는 거래량이 미미하거나 주가 변동성이 높은 중·소형주 종목을 위주로 특징주 기사 초안을 작성하고 자신과 공모한 기자들에게 기사 작성을 의뢰했다. &lt;br&gt;&lt;br&gt;A씨는 본인 명의 계좌나 차명 계좌를 이용해 기사 보도 전 해당 종목을 매수하고, 보도 이후 주가가 오르면 매도해 시세 차익을 얻은 것으로 조사됐다. 이렇게 얻은 부당 이익은 85억6000만원 상당인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨와 공모한 전·현직 기자 5명은 지난달 18일 함께 송치돼 아직 조사 받고 있다. &lt;br&gt;&lt;br&gt;B씨 역시 같은 수법으로 부당이득을 얻은 혐의를 받는다. B씨는 거래량이 미미하거나 주가변동성이 높은 중·소형주 종목에 대한 특징주 기사를 직접 써 원하는 시점에 내보냈다. 보도 전 주식을 산 뒤 보도 이후 주가가 오르면 매도해 시세차익을 얻었다. B씨는 300여 건의 기사로 7억5000만원 상당의 부당이익을 챙긴 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유령 무당 ‘조말례’로 87억 뜯어낸 일당... 무고 혐의로 추가 기소</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/24/KLLNPPK2GNAHPPIIPGXNNKWB54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/24/KLLNPPK2GNAHPPIIPGXNNKWB54/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jul 2026 12:15:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7IKU2JMU5ANXHJDQK2ASNPS5I.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유령 무당 ‘조말례’ 행세를 하며 가전업체 대표 부부에게서 거액을 뜯어내 중형을 선고받은 일당이 오히려 피해자들을 허위 고소한 것으로 드러나 추가로 재판을 받는다.&lt;br&gt;&lt;br&gt;서울남부지검 여성아동범죄조사부(부장 이주현)는 24일 “장모(50)씨와 그의 전 남편 심모(48)씨를 무고 혐의로 전날 추가 기소했다”고 밝혔다. 장씨와 심씨는 가상 무속인 ‘조말례’를 내세워 피해자 부부를 가스라이팅해 약 77억원과 10억원 상당의 아파트 지분 등을 빼앗아 사기 혐의로 최근 각각 징역 20년과 17년형을 선고받았다. 그런데 장씨와 심씨가 피해자인 가전업체 대표 A씨의 아내 B씨와 A씨의 어머니 C씨를 아동 납치 미수 혐의로 허위 고소한 사실이 드러나 추가로 재판을 받게 된 것이다.&lt;br&gt;&lt;br&gt;검찰에 따르면 장씨 일당은 2019년 9월 B씨에게 “무당 조말례의 미션”이라며 “학교로 가서 우리 자녀를 데리고 나와 놀아주라”고 지시하고서, 학교 관계자들에게 “B씨가 아이를 납치하려 한다”는 헛소문을 퍼뜨렸다. 이어 2025년 4월 B씨를 아동을 납치하려 한 혐의(영리약취·유인)로, C씨는 B씨의 범행을 교사한 혐의로 고소했다.&lt;br&gt;&lt;br&gt;이 고소 건은 경찰이 B씨와 C씨에게 혐의가 없다고 보고 불송치 결정을 했는데, 검찰의 보완수사를 통해 장씨 일당이 의도적으로 허위 고소한 사실이 확인됐다. &lt;br&gt;&lt;br&gt;검찰은 “직접 보완수사 과정에서 압수수색을 통해 삭제된 카카오톡 메시지를 복원했고, 추가 참고인 조사와 사건 기록 분석 등을 거쳐 장씨 일당의 무고 혐의를 포착했다”고 설명했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 가스라이팅을 이용한 착취형 범죄와 국가 사법 질서를 훼손하는 무고 범죄에 엄정 대응하겠다”며 “피해자의 회복과 권리 보호에도 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>빨간불에 달린 차에 치인 초등생 사망… 60대 운전자 구속</title>
       <link>https://www.chosun.com/national/national_general/2026/07/24/KKHA63CNZRCSBGY6X37BANPMDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/24/KKHA63CNZRCSBGY6X37BANPMDM/</guid>
@@ -881,33 +908,6 @@
       <description/>
       <pubDate>Thu, 23 Jul 2026 07:23:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YEDWRS4O25G2PMSIVFO6BIRSTU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;라종억 통일문화연구원 이사장(오른쪽)이 강창일 민주평화통일자문회의 수석부회장으로부터 운영위원회 소위원장 임명장을 받고 있다. /통일문화연구원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;라종억 통일문화연구원 이사장이 민주평화통일자문회의 운영위원회 소위원장으로 임명됐다. &lt;br&gt;&lt;br&gt;라 이사장은 독립운동가이자 1960년대 국회부의장을 지낸 백봉 라용균 선생의 아들이다. 1998년 사재를 털어 통일문화연구원을 설립했다. 교육과 문화를 통해 통일의 기반을 조성하고 문화를 통한 통일 접근을 연구하고 실천해 왔다. 특히 탈북민을 비롯해 일제강점기 시절 중앙아시아로 강제이주된 고려인들의 한민족 정체성 유지와 문화 전파를 위해 노력을 기울여 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘박수홍 사생활’ 허위사실 유포한 형수, 항소심에서도 벌금 1200만원</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/23/TS52LMPUK5G65GCNG6BGXZ6QOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/23/TS52LMPUK5G65GCNG6BGXZ6QOY/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jul 2026 07:00:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDMNTDGIZDQZTBMUYGEYZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍이 2023년 3월 15일 오후 서울 마포구 서울서부지방법원에 증인으로 출석하면서 취재진 질문에 답하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍씨의 사생활에 대해 허위사실을 유포한 혐의로 기소된 박씨 형수 이모씨에게 항소심에서도 벌금형이 내려졌다.&lt;br&gt;&lt;br&gt;서울서부지법 제1형사부(재판장 반정우)는 23일 정보통신망법상 명예훼손 혐의로 기소된 이씨의 항소심에서 1심과 같은 벌금 1200만원을 선고했다. &lt;br&gt;&lt;br&gt;지난달 열린 항소심 결심공판에서 검찰은 1심과 같은 징역 10개월을 구형했다. 이씨 측은 무죄를 주장했다.&lt;br&gt;&lt;br&gt;재판부는 이씨가 카카오톡 단체 대화방에 올린 메시지에 허위 사실이 포함됐고, 박씨의 명예를 훼손한 혐의가 인정된다고 판단했다.&lt;br&gt;&lt;br&gt;이씨는 박씨가 방송 출연 당시 여성과 동거했다는 등의 허위 사실을 담은 메시지를 카카오톡 단체 대화방에 전송한 혐의를 받는다. 박씨가 자신의 돈을 형수와 형이 횡령했다고 거짓말했다며 비방한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘술 마시러 가느라’ 2개월 딸 방치해 숨지게 한 20대 친모, 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/23/QZEOLGLVMBHEZAHSMKMAPPHEWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/23/QZEOLGLVMBHEZAHSMKMAPPHEWU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jul 2026 07:01:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3TSMTEGNSDSNLDG44DENJTMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태어난 지 두 달밖에 되지 않은 딸을 집에 홀로 방치해 숨지게 한 혐의를 받는 20대 여성에게 23일 실형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사15부(재판장 정윤섭)는 이날 아동학대범죄의 처벌 등에 관한 특례법 위반(아동학대치사) 혐의로 기소된 A씨에게 징역 2년 6개월을 선고했다. 또 40시간의 아동학대 치료 프로그램 이수와 3년간 이동 관련 기관 취업 제한도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 29일 오후 11시쯤 경기 수원시 영통구 자택에 생후 2개월 된 딸을 홀로 방치한 채 6시간가량 외출해 숨지게 한 혐의를 받는다. A씨는 당일 지인과 술을 마시기 위해 집을 나섰던 것으로 조사됐다. A씨는 홀로 아이를 키워왔다.&lt;br&gt;&lt;br&gt;상태가 악화한 A씨의 딸은 병원으로 옮겨져 치료받았으나, 같은 달 31일 급성 폐렴으로 숨졌다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피해 아동은 미숙아로 각별한 주의가 필요했음에도 피고인은 충분한 위생 조치 등을 하지 않았고, 제대로 양육했다고 보기 어렵다”며 “자신의 유흥을 위해 생후 52일의 아동을 6시간가량 방치했다”고 했다. 그러면서 “유일한 양육자 없이 홀로 남겨진 피해 아동은 돌봄을 구하며 울부짖다 사망에 이르기까지 극심한 고통을 느꼈을 것으로 보여 죄책이 중대하다”고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 “피고인이 범행을 자백하고 반성하는 점, 전 남자 친구와 헤어진 뒤 임신 사실을 알게 돼 제대로 출산 준비를 하지 못했던 점을 참작했다”며 “사건 이전까지 주변의 도움을 받아 아동을 보살펴 왔고 이상 증상을 발견한 뒤 112에 신고해 조치를 취하려 한 점 등도 유리한 정상으로 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대선 전 ‘이재명 반대 연설’ 유동규, 2심도 벌금 200만원</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/23/DLANXYZL5FEG3CXUAFQX7T4QOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/23/DLANXYZL5FEG3CXUAFQX7T4QOU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jul 2026 06:53:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4C66THAFZJIQFE4TFI6SYFIDGU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'대장동 비리 의혹' 관련 구속기한 만료로 지난달 출소한 유동규 전 성남도시개발공사 기획본부장이 지난 7월 15일 오전 서울 서초구 고등법원에서 열린 특정범죄가중처벌등에관한법률위반(뇌물)등 2심 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대통령 선거를 앞두고 당시 더불어민주당 후보였던 이재명 대통령에 대해 부정적인 연설을 한 혐의 등을 받는 유동규씨의 항소심에서도 벌금 200만원이 선고됐다.&lt;br&gt;&lt;br&gt;수원고법 형사14부(재판장 허양윤)는 23일 공직선거법 위반 혐의로 기소된 유씨의 항소심 선고 공판에서 검찰의 항소를 기각하고 1심 판결을 그대로 유지했다. 앞서 1심 법원은 유씨에게 벌금 200만원을 선고했다. 앞서 검찰은 유씨에게 벌금 400만원을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;유씨는 지난해 6월 치러진 21대 대선을 앞둔 4월 7일과 16일 과천시 중앙선거관리위원회 앞 집회 현장에서 이 대통령에 대한 부정적인 연설을 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 공식 선거운동 기간이 아닌 같은 달 14일 서울 여의도에서 확성 장치를 이용해 홍준표 전 대구시장을 지지한 혐의도 있다. 당시 홍 전 시장은 국민의힘 대선 후보로 출마를 선언했었다. 유씨는 또 이 자리에서 이 대통령에 대한 반대 발언을 하기도 했다.&lt;br&gt;&lt;br&gt;앞서 시민단체는 “유씨가 대선에 개입하려는 시도를 노골적으로 드러냈고, 이재명 후보에 대해 사실과 다른 악의적 허위 사실을 대중 앞에 공표했다”며 경찰에 고발장을 냈다. 사건을 넘겨받은 검찰은 유씨의 혐의가 인정된다고 보고, 지난해 11월 12일 그를 불구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;유씨 측은 혐의를 전면 부인하며 무죄를 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DONBSMNQTMMDEGNRTMYZVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판부는 “원심은 피고인에게 유불리한 정상을 모두 고려해 적정하게 양형을 결정한 것으로 보인다”며 “항소심에 이르러 양형에 반영할 만한 특별한 사정 변경이 보이지 않고 원심의 양형 재량이 합리적 범위를 벗어났다고 판단되지 않는다”고 항소 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;한편, 유씨는 성남 대장동 개발 비리 의혹(특정경제범죄 가중처벌법상 배임 등 혐의)으로 지난해 10월 31일 서울중앙지법에서 징역 8년 및 벌금 4억원, 추징금 8억1000만원을 선고받고 법정 구속됐다가 보석 석방됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“비 안 오면 어쩌나” 하늘만 보던 욕지도… 바닷물 정수해 ‘물 부족’ 턴다 </title>
