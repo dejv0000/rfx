@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법, 김건희 ‘명태균 여론조사’ 선고 연기... 전원합의체 회부</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/23/4M4FACRV65EOXPLTHRUMT5WTC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/23/4M4FACRV65EOXPLTHRUMT5WTC4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jul 2026 06:23:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3TMMLEGQZTOOBSHAYWKM3BHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 ‘명태균 여론조사 무상 수수’ 등 사건이 23일 대법원 전원합의체에 회부됐다. 이에 따라 24일로 예정됐던 상고심 선고도 연기됐다.&lt;br&gt;&lt;br&gt;대법원은 이날 “피고인 김건희 상고심 사건을 전원합의체에 회부하기 위해 오는 24일 오후 2시로 예정했던 선고기일을 추후 지정하기로 했다”고 밝혔다. 추후 지정은 재판 일정을 특정하지 않고 기약 없이 미루는 것이다.&lt;br&gt;&lt;br&gt;김 여사는 윤석열 전 대통령과 공모해 ‘정치 브로커’ 명태균씨에게서 58차례 대선 여론조사를 무상으로 제공받은 혐의(정치자금법 위반)로 기소됐다. 권오수 전 도이치모터스 회장 등과 공모해 주가를 조작한 혐의(자본시장법 위반)와 통일교 측의 청탁을 받고 명품 가방과 목걸이 등을 받은 혐의(알선수재)도 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 통일교 금품 수수 혐의 일부만 유죄로 인정해 김 여사에게 징역 1년 8개월을 선고했다. 도이치모터스 주가조작과 명씨 여론조사 무상 수수 혐의는 무죄로 판단했다. 2심은 주가조작 혐의까지 유죄로 뒤집어 형량을 징역 4년에 벌금 5000만원으로 높였다. 1·2심 모두 명씨 여론조사 무상 수수 혐의는 무죄로 판단했다.&lt;br&gt;&lt;br&gt;당초 대법원 2부(주심 박영재 대법관)는 지난 16일 김 여사 사건을 선고할 예정이었다. 그러나 민중기 특별검사팀이 같은 여론조사 무상 수수 혐의로 기소된 윤 전 대통령의 1심 유죄 판결을 추가로 검토해 달라며 의견서 제출을 요청하자 선고를 한 차례 미뤘다.&lt;br&gt;&lt;br&gt;서울중앙지법은 지난 13일 윤 전 대통령이 명씨에게서 14차례 여론조사를 무상으로 제공받은 혐의를 유죄로 인정해 징역 2년을 선고했다. 재판부는 이 과정에서 김 여사도 윤 전 대통령과 공모한 공동정범이라고 판단했다. 같은 사건을 두고 김 여사 재판부와 윤 전 대통령 재판부의 결론이 정반대로 갈린 것이다.&lt;br&gt;&lt;br&gt;이어 22일에는 오세훈 서울시장이 명씨에게 서울시장 보궐선거 여론조사를 의뢰하고 후원자에게 비용을 대신 내게 한 혐의로 벌금 1000만원을 선고받았다. 김 여사 상고심 사건은 오 시장 1심 판결이 나온 바로 다음 날 전원합의체에 회부됐다.&lt;br&gt;&lt;br&gt;대법원 재판연구관을 지낸 한 법조인은 “통상 대법원 소부는 대법관 4명이 결론을 합의하고 판결문을 상당 부분 완성한 뒤 선고기일을 잡는다”며 “선고 직전 전원합의체로 넘긴 것은 오 시장 사건에서 일부 겹치는 쟁점에 대해 소부 내에서 이견이 생겼기 때문일 수 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장 사건은 후원자가 여론조사 비용을 대신 낸 ‘정치자금 대납’ 사건으로, 윤 전 대통령 부부 사건과는 다르다. 다만 명시적인 계약이나 지시 없는데 여론조사를 의뢰했다고 볼 수 있는지, 명씨의 진술과 객관적 정황을 맞춰 어디까지 신빙성을 인정할 것인지 등은 공통 쟁점이다. 오 시장 재판부는 “명씨 진술이 과장된 면은 있지만, 카카오톡 메시지와 통화내역 등 객관적 증거와 부합하는 면이 있다”며 명씨 주장을 일부 인정했다. 김 여사 1·2심이 “명씨를 믿기 어렵다”고 본 것과 대조적이다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “윤 전 대통령과 오 시장 사건이 향후 대법원에 올라오면 서로 다른 소부에 배당될 수 있다”며 “전원합의체에서 공통 쟁점을 논의해 통일된 판단 기준을 세우려는 것으로 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 7월 26일 일요일 (음력 6월 13일 辛丑)</title>
       <link>https://www.chosun.com/national/national_general/2026/07/25/6VBZEKMNRFD4FCMQAORLCSJWEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/25/6VBZEKMNRFD4FCMQAORLCSJWEU/</guid>
@@ -861,16 +870,6 @@
       <pubDate>Thu, 23 Jul 2026 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZOMAEP5QFHWVCX5RWHSLYZXU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 8시 29분쯤 경북 경산시 한 아파트 관리 사무소에서 방화로 추정되는 사건이 발생해 8명이 화상을 입었다. 그중 1명은 중태다. 경찰은 불을 낸 70대 입주민 A씨를 방화치상 혐의로 입건했다. 당시 관리 사무소에는 관리 사무소 직원과 입주민 등이 모여 있었던 것으로 조사됐다. 경찰은 A씨가 관리 사무소에 있던 인화물질 용기에 불을 지른 것으로 보고 있다. 목격자들은 “펑 하는 소리가 여러 번 들렸다” “몸에 불이 붙은 사람이 뛰어나왔다”고 전했다. A씨는 흉기를 들고 욕을 하다가 출동한 경찰에 제압됐다. A씨는 평소 관리 사무소와 갈등을 빚었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>우리 아이 입시 정보, 캐리어도 모자라</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/07/24/SABLNBGWPVAT7JZ3K54U4GODAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/24/SABLNBGWPVAT7JZ3K54U4GODAQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jul 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILU6IVKFD5GQTPAQU5HJMBVHXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 서울 강남구 코엑스에서 열린 대학 입학 정보 박람회에서 한 학부모가 상담을 받는데 필요한 서류를 바닥에 앉아 작성하고 있는 모습. 25일까지 열리는 이 박람회에는 전국 150여 4년제 대학이 참여해 상담을 진행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>다음주 장마 끝… 찜통 더위 시작</title>
