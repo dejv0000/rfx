@@ -13,6 +13,31 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 7월 26일 일요일 (음력 6월 13일 辛丑)</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/25/6VBZEKMNRFD4FCMQAORLCSJWEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/25/6VBZEKMNRFD4FCMQAORLCSJWEU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경기 고양 아파트에서 불… 소방 대응 1단계 발령</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/25/DTCSI6K4TFCWZD3DLGKTW4TZN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/25/DTCSI6K4TFCWZD3DLGKTW4TZN4/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jul 2026 06:19:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTBJJCFPMJPRXI2HLYC6HVB7XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 경기 고양시 일산동구의 한 아파트에서 불이나 소방 당국이 진화 작업을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 고양시의 한 아파트에서 불이 나 소방 당국이 진화 작업에 나섰다.&lt;br&gt;&lt;br&gt;25일 소방 당국 등에 따르면 이날 오후 2시 34분쯤 고양시 일산동구 마두동의 한 아파트에서 불이 났다. 소방 당국은 장비 15대와 인력 44명을 투입해 불을 끄고 있다.&lt;br&gt;&lt;br&gt;인명 피해 여부는 확인되지 않았다. 소방 당국은 ‘화재 당시 ‘펑’ 터지는 소리를 들었다’는 주민 신고 수십 건을 받았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TTBJJCFPMJPRXI2HLYC6HVB7XM.jpg?auth=555ba4facec87811f20e190dfe04b62405319128ccc17af7aa44216af4124b2e&amp;smart=true&amp;width=750&amp;height=1000" type="image/jpeg" height="1000" width="750">
+        <media:description type="plain">25일 오후 경기 고양시 일산동구의 한 아파트에서 불이나 소방 당국이 진화 작업을 하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">최재훈</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>정성호 법무 “사퇴 의지 오래전부터 참모 통해 전달”</title>
       <link>https://www.chosun.com/national/court_law/2026/07/25/FNS74A5P5VB7BOQBK3LWF4QUKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/25/FNS74A5P5VB7BOQBK3LWF4QUKM/</guid>
@@ -838,15 +863,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 8시 29분쯤 경북 경산시 한 아파트 관리 사무소에서 방화로 추정되는 사건이 발생해 8명이 화상을 입었다. 그중 1명은 중태다. 경찰은 불을 낸 70대 입주민 A씨를 방화치상 혐의로 입건했다. 당시 관리 사무소에는 관리 사무소 직원과 입주민 등이 모여 있었던 것으로 조사됐다. 경찰은 A씨가 관리 사무소에 있던 인화물질 용기에 불을 지른 것으로 보고 있다. 목격자들은 “펑 하는 소리가 여러 번 들렸다” “몸에 불이 붙은 사람이 뛰어나왔다”고 전했다. A씨는 흉기를 들고 욕을 하다가 출동한 경찰에 제압됐다. A씨는 평소 관리 사무소와 갈등을 빚었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>성착취 통로 된 소셜미디어 피해 연령대 계속 낮아져</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/24/NJFQKJEGTBG6RNAJDFCUU2CU64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/24/NJFQKJEGTBG6RNAJDFCUU2CU64/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jul 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3TMZJVGY2TCYRZGY3WKYRZGQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 30일 대전경찰청에서 경찰, 대전시, 대전시교육청 등 유관기관 관계자들이 딥페이크 성 착취물 관련 범죄 집중단속 회의를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동·청소년을 노린 온라인 성착취 범죄의 피해 연령대가 갈수록 낮아지는 것으로 나타났다. 엑스(X·구 트위터)를 비롯한 소셜미디어(SNS)가 ‘성매매 광고판’으로 악용된다는 조사 결과도 나왔다. &lt;br&gt;&lt;br&gt;성평등가족부는 한국형사법무정책연구원과 한세대 산학협력단에 의뢰해 진행한 ‘2025 성매매 실태 조사’ 결과를 23일 발표했다. 3년 주기로 실시되는 조사로, 이번엔 아동·청소년 성착취 피해 지원센터를 이용한 위기 청소년 201명과 일반 청소년 4203명, 성인 2000명(남성 1500명, 여성 500명)을 대상으로 했다. 성착취란 청소년의 성을 사기 위해 온라인으로 성적 대화로 유인하거나, 그루밍(길들이기)을 하고, 조건 만남을 갖는 경우 등을 모두 포함한다. &lt;br&gt;&lt;br&gt;조사 결과, 위기 청소년들이 성착취에 처음 노출된 나이는 14세가 30.5%로 가장 많았고, 15세(20.5%), 13세(18.5%)가 뒤를 이었다. 12세에 피해를 입었다는 응답도 7.3%에 달했고, 11세 피해자도 1명 있었다. 2019년과 2022년 조사에선 16세 이상이 각각 49.4%, 41.7%로 가장 높은 비율을 차지했고, 11세 피해 사례도 없었는데 이제는 피해가 어린 청소년들에게까지 확산되고 있는 것이다. 위기 청소년이 성착취를 당한 경로는 소셜미디어가 67.6%로 가장 많았다. &lt;br&gt;&lt;br&gt;일반 청소년 가운데 ‘온라인 성적 유인 피해’를 당한 경우는 4.8%였다. 온라인 성적 유인은 화상 채팅을 하면서 성적 행위를 요구하거나, 나체 사진을 찍어 전송해 달라고 하는 행위 등을 말한다. 피해자의 51.9%는 소셜미디어를 통해 성적 유인을 당했다. &lt;br&gt;&lt;br&gt;특히 이번 조사에서는 소셜미디어 엑스가 성매매 통로로 악용되고 있는 실태도 드러났다. 연구진이 엑스에서 성매매 관련 키워드 25개로 검색해 수집한 게시물 2만5000건 중 분석 가능한 게시물 1만8374건을 확인한 결과, 57.0%(1만465건)가 성매매 알선이나 성매매업소 광고 게시물이었다. &lt;br&gt;&lt;br&gt;성인 남성 가운데 평생 한 번이라도 성 구매를 한 경험이 있다고 답한 비율은 37.7%였다. 이 수치는 2016년 50.7%, 2019년 42.1%, 2022년 37.4%였다. 최근 1년 동안 성을 구매한 적이 있다고 답한 남성은 8.5%(128명)였고, 1인당 평균 11회 성을 구매한 것으로 나타났다. &lt;br&gt;&lt;br&gt;성평등부는 실태 조사를 토대로 성매매에 대응하는 동시에 성매매 집결지 폐쇄에도 나서기로 했다. 전국 성매매 집결지 40곳 가운데 25곳은 폐쇄됐지만 15곳은 여전히 운영 중이다. 성평등부는 남은 집결지를 폐쇄하기 위해 지자체별 폐쇄 추진 계획을 다시 받고, 해당 계획이 잘 실행되는지 점검할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>우리 아이 입시 정보, 캐리어도 모자라</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/07/24/SABLNBGWPVAT7JZ3K54U4GODAQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/24/SABLNBGWPVAT7JZ3K54U4GODAQ/</guid>
@@ -855,15 +871,6 @@
       <pubDate>Thu, 23 Jul 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILU6IVKFD5GQTPAQU5HJMBVHXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 서울 강남구 코엑스에서 열린 대학 입학 정보 박람회에서 한 학부모가 상담을 받는데 필요한 서류를 바닥에 앉아 작성하고 있는 모습. 25일까지 열리는 이 박람회에는 전국 150여 4년제 대학이 참여해 상담을 진행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 하청 직고용한 한전KPS에 일감 몰아준다</title>
-      <link>https://www.chosun.com/national/labor/2026/07/24/JDM7OQNSIZH55AJED7BRCBVC5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/07/24/JDM7OQNSIZH55AJED7BRCBVC5E/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jul 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QOA4AMNSBEIPLELLL5VFD73XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 11일 광화문 정부서울청사 앞에서 전력산업노조원들이 한전KPS 하청노동자 일방적 직고용을 철회하라는 구호가 적힌 종이를 들고 기자회견을 열고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발전 정비 공기업인 한전KPS가 하청업체 노동자 600여 명 직고용 추진에 나선 가운데, 정부와 노동계가 한전KPS의 일감을 늘려주기 위해 발전 정비 산업계 내 민간 업체들의 일감을 강제로 줄이는 합의를 한 것으로 확인됐다. 민간 업체들은 “한전KPS가 정부 요구대로 직고용을 떠안자, 정부에서 이들에게 ‘일감 몰아주기’라는 선물을 준 것”이라며 반발했다. 직고용 문제가 민간 업체들과 한전KPS 간 경쟁 체제로 유지돼 온 국내 발전 정비 산업의 구조까지 흔드는 것이다.&lt;br&gt;&lt;br&gt;발전 정비 업체는 발전사(한국서부발전·한국남동발전 등)가 운영하는 전력 관련 설비를 점검·수리해 전력 생산이 중단되지 않도록 하는 역할을 한다. 앞서 지난해 6월 태안화력발전소에서 일하던 하청 업체 노동자가 사망하자, 국무조정실, 재정경제부, 기후에너지환경부, 고용노동부와 한국노총 등은 ‘위험의 외주화’를 막겠다며 노정 협의체를 꾸렸다. 협의체는 논의를 통해 한전KPS의 하청 업체 노동자 직고용 방침을 결정한 데 이어, 이번에 일감을 몰아주는 방안까지 확정한 것이다.&lt;br&gt;&lt;br&gt;본지가 입수한 노정 협의체 합의문에는 ‘기술이 필요한 가스터빈 200MW(메가와트)급 이상을 포함한 고성능 신규 복합 발전 설비의 정비는 정비 공기업(한전KPS)이 수행한다’는 내용이 포함됐다. 발전 정비 시장은 한전KPS가 시장 점유율 50%가량의 1위 사업자이고, 8개 주요 민간 업체 등이 경쟁하는 구도다. 본래는 한전KPS의 독과점 시장이었는데, 파업 사태가 벌어질 경우 전력 불안 문제 등이 생길 수 있다는 우려와 함께 민간 업체도 참여할 수 있도록 2003년 산업 구조가 개편됐던 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXJ3SAOR55H3FJ6ZWDYRZUGPQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 합의문이 현실화되면 민간 업체들의 일감은 크게 감소할 것으로 보인다. 석탄 발전이 단계적으로 폐지됨에 따라 대형 LNG 복합 발전 시설이 만들어지고 있는데 이 정비를 모두 한전KPS가 맡게 되기 때문이다. 한 민간 업체 관계자는 “350MW급 가스터빈만 설치되는 현재 상황에서, 이번 결정은 민간 업체들을 사지로 내모는 것”이라며 “민간 업체들도 200MW급 이상 정비를 해낼 기술력을 갖고 있는데도 이유 없이 배척했다”고 했다. 민간 업체들은 지난달 ‘발전 정비 산업 상생 협의회’라는 단체까지 조직한 뒤 주무 부처인 기후부에 “민간 참여 기회를 보장해달라”고 항의했지만 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;이처럼 공기업의 시장 점유율을 인위적으로 늘리기로 한 데 대해선 “직고용에 따른 한전KPS 내부의 반발을 무마하기 위한 것”이란 지적이 나온다. 앞서 한전KPS 내부에선 하청 노동자 직고용 방안이 알려진 뒤 거센 반발이 나왔다. 한전KPS 노조는 지난 2월 서울 광화문 정부서울청사 앞에서 반대 시위를 열었다. 이들은 “직고용으로 정규직이 늘어나면 1인당 성과급이 줄고 신규 채용도 어려워질 수밖에 없다”고 했다. 발전 설비 분야 기술 자문 업체(이앤씨코리아) 김병한 대표는 “정부가 노조 요구를 받아들이면서, 직고용의 대가를 사실상 민간이 치르게 한 셈”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 앞으로 발전 정비 분야에서 공기업과 민간의 경쟁이 사라지면, 전기 요금 인상으로 이어질 수밖에 없다는 우려가 적지 않다. 한전KPS의 정비 단가가 민간보다 높은데, 대체재가 줄어들수록 단가는 더 올라갈 수밖에 없기 때문이다. &lt;br&gt;&lt;br&gt;이에 대해 기후부 측은 “200MW 이상을 포함한 고성능 신규 발전 설비는 공기업이 맡게 되지만, 합의문엔 ‘석탄화력발전소 또는 200MW 미만 일반 가스터빈 정비 물량은 단계적으로 민간에 이양한다’고 명시했다”며 “민간 업체도 타격을 받지 않게 하는 조치”라고 했다. 하지만 석탄화력발전소는 폐지되는 추세이고, 200MW 미만 발전 설비는 효율이 떨어지는 탓에 가동이 줄어들 가능성이 크다. 이 때문에 한전KPS와 민간 업체의 격차가 더 벌어질 것이라는 게 전문가들의 공통된 지적이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>다음주 장마 끝… 찜통 더위 시작</title>
