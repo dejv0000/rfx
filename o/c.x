@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강원 해수욕장서 잇단 수난 사고… 3명 심정지</title>
+      <link>https://www.chosun.com/national/regional/2026/07/26/4BV5TRLLENHY5M7OQ5WU6LG6MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/26/4BV5TRLLENHY5M7OQ5WU6LG6MA/</guid>
+      <dc:creator>고성=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 09:02:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AMGSDX2IFCHRG6X5GQRFEPXX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 내 해수욕장에서 수난 사고가 잇따라 발생했다.&lt;br&gt;&lt;br&gt;26일 해경 등에 따르면, 이날 오후 2시 30분쯤 강원 고성군 현내면 초도리 화진포해수욕장에서 A(17)군과 동생 B(14)군이 물에 빠졌다.&lt;br&gt;&lt;br&gt;이를 목격한 형제의 아버지(47)와 인근에 있던 50대 남성 2명이 구조에 나섰다. 형제와 아버지는 무사히 해변으로 빠져나왔지만, 구조 과정에서 50대 남성 2명은 의식을 잃은 채 심정지 상태로 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;이어 이날 오후 3시 30분쯤에는 고성군 죽왕면 가진항 인근 해상에서 C(26)씨가 물에 빠져 심정지 상태로 구조돼 병원으로 옮겨졌다. C씨는 스노클링을 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경 등은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 경찰 1만7000명이 ‘향찰’... 제2의 ‘장윤기 사건’ 우려</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/26/MRF7XE6XIJHPPONME6QXOGLFU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/26/MRF7XE6XIJHPPONME6QXOGLFU4/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 08:20:34 +0000</pubDate>
+      <content:encoded>한 경찰서에서 10년 이상 장기간 근무하는 경찰관, 이른바 향찰(鄕察)이 1만7000명인 것으로 집계됐다. 이들은 대부분 경찰 조직의 허리급인 경사부터 경위, 경감 급이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTAYZXME3WKNTCGU3TOYJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'여고생 살해범' 장윤기 사건의 증거를 인멸한 의혹을 받는 전남광주 광산경찰서 수사팀장 박모(59) 경감이 지난 8일 구속 전 피의자 심문(영장실질심사)를 받기 위해 광주지방법원에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 ‘전남광주 여고생 살인사건’을 수사한 광주광산서 강력팀장 박모 경감이 범인 장윤기(24)의 아버지인 장모 경감에게 주요 증거물을 넘겨 폐기하도록 한 것이 확인되면서 향찰의 지역 유착에 대한 부작용이 도마 위에 올랐다. 이런 상황에서 경찰 실무를 담당하는 주요 인력 상당수가 한 지역에 오래 뿌리를 둔 것으로 확인된 것이다. &lt;br&gt;&lt;br&gt;더불어민주당 이상식 의원실이 26일 경찰청에서 제출받은 자료에 따르면 이달 기준 한 경찰서에서 10년 이상 근무한 경감은 5209명, 경위는 8609명, 경사는 3211명, 경장은 13명이었다. 총 1만7130명이다. &lt;br&gt;&lt;br&gt;이 중 경감·경위로 한정하면 한 경찰서에서 10년 이상 장기 근무한 직원이 전체의 20% 내외였다. 경감은 전체 2만8914명 중 18%, 경위는 3만5959명 중 24.2%가 한 경찰서에서 장기 근무했다. &lt;br&gt;&lt;br&gt;이외 계급에선 같은 경찰서에서 계속 머무른 이는 없었다. 총경 이상은 통상 1년 주기로 전국 단위 전보를, 경정은 약 2년 주기로 경찰서 간 순환 인사를 실시하고 있다. 순경은 4년 이상 근무하면 경장으로 근속 승진한다. &lt;br&gt;&lt;br&gt;특히 장기 근무는 서울보다 지방에서 두드러졌다. 서울에서 10년 이상 한 경찰서에서 근무한 경감 이하 경찰관은 전체의 10% 미만이었다. 하지만 전북청, 충북청, 충남청, 경북청, 경남청 등은 비율이 19~24%였다. 장윤기 사태가 일어난 광주청은 2.6% 수준이었지만, 산하 경찰서가 5곳밖에 되지 않아 순환 근무의 의미가 크지 않다는 지적이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZDKMJWGA2TMNJSHAZTMNRQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남광주 광산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장윤기 사건 증거 인멸에 연관된 박 경감과 장 경감은 둘 다 10년 이상을 광산서에서 근무한 것으로 드러났다. 박 경감은 첫 근무지인 전남 장성서에서 9년 3개월 근무 후 2000~2014년 광산서에서 머물렀다. 이후 2014~2022년 광주 북부서에서 8년을 근무하며 경감으로 승진했다. 이후 광산서로 돌아와 2022년부터 지금까지 4년 5개월간 일했다. 광산서 근무 기간만 18년으로 경찰 생활의 절반을 차지한다. &lt;br&gt;&lt;br&gt;장 경감은 1999~2009년 광주 북부서에서 근무하다 2년간 기동대를 거친 뒤 북부서로 돌아와 2011~2015년 근무했다. 이후 지난해 3월까지 광산서 소속으로 10년 넘게 근무했다. &lt;br&gt;&lt;br&gt;결과적으로 두 사람은 2014년 북부서, 2022~2025년 광산서 근무 기간이 겹쳤다. 같은 부서에서 일한 적은 없다는 것이 경찰 측 설명이지만, 박 경감 밑에서 일했던 수사팀원 김모 경사는 과거 장 경감과 광산서 한 지구대에서 함께 근무했던 것으로 확인됐다. 김 경사는 사건 발생 후 장 경감과 수십 차례 통화하며 사건 정보를 전달했다. &lt;br&gt;&lt;br&gt;경찰은 장기 근무가 현실적으로 불가피한 경우가 많다고 설명한다. 가정을 꾸려 생활하려면 한 지역에 터를 잡을 수밖에 없고, 전남·경남 등 지방은 같은 도 안에서도 경찰서 간 위치가 100㎞ 이상 떨어진 곳이 많다는 이유다. 또 지역 사정에 정통해 치안 안정에 기여할 수도 있다. 그러나 장윤기 사건에서처럼 장기 근무한 경찰이 주민, 지역 유력 인사 등과 수사나 이해관계로 얽히는 순간 ‘봐주기 수사’나 정보 유출로 이어질 가능성이 크다는 지적도 나온다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청담동 의원에서 의료용 마약 불법 투약...환자 잠들면 불법 촬영까지</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/26/KHA3JYK4YBHIJEHWNU2K4GNKTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/26/KHA3JYK4YBHIJEHWNU2K4GNKTI/</guid>
+      <dc:creator>지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 08:34:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WMYZRHFSTOYJUGQZDINTEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 마약범죄수사대가 병원에 대해 압수수색 영장을 집행하는 모습/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환자들에게 의료용 수면마취제를 불법 투약하고 마취 상태의 환자를 불법 촬영한 의사와 투약자 등 14명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 마약범죄수사대는 26일 마약류관리법 위반과 준강제추행, 불법촬영 등 혐의로 의사 2명과 병원 행정실장 1명, 투약자 11명 등 총 14명을 입건했다고 밝혔다. 이 가운데 의사 A씨와 투약자 C씨 등 2명은 구속됐다. 경찰은 의사 2명이 범행으로 얻은 수익을 환수하기 위해 재산 4억5700만원에 대한 기소 전 추징보전도 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4TKY3EGEYWINJVGFTGEOJZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선봉 서울경찰청 광역수사단 마약범죄수사 1계장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 2021년 11월부터 2023년 11월까지 서울 강남구 청담동의 한 의원에서 내원자 7명에게 프로포폴 등 의료용 마약류를 71차례 투약하고 4000만원을 받은 혐의를 받고 있다. 행정실장은 A씨의 범행을 방조한 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;A씨는 2021년 7월부터 2022년 2월까지 수면 마취된 환자의 신체를 27차례 불법 촬영한 혐의도 받는다. 경찰은 A씨에게 준강제추행과 성폭력처벌법상 카메라 이용 촬영 혐의를 적용했다. A씨는 성범죄 혐의를 부인했지만 경찰은 압수수색을 통해 확보한 증거를 토대로 구속영장을 발부받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYTEN3FHBSTAZBYGU3GCNZWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로포폴 등 의료용 마약류 불법 투약 장소로 쓰인 서울 강남구 청담동 의원의 침대 공간/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동업자인 의사 B씨는 2022년 7월부터 2023년 6월까지 내원자 8명에게 프로포폴과 미다졸람, 레미마졸람, 케타민 등을 111차례 불법 투약하고 4억1700만원을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;C씨를 포함한 투약자 11명은 해당 의원에서 수면 목적으로 적게는 1차례, 많게는 64차례 의료용 마약류를 투약받은 혐의로 입건됐다. 투약자 중 9명은 30대였다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 의사들은 정상적인 의료 목적 없이 결제 금액에 따라 수면마취제를 투약한 것으로 파악됐다. 미용 시술은 아예 하지 않거나 형식적으로만 진행했고, 투약자가 요구하면 심야와 휴일에도 마약류를 투약했다.&lt;br&gt;&lt;br&gt;1회 투약 비용은 35만원으로 약물 원가의 31.7배에 달했다. 투약자 가운데는 하루에 최대 1350만원을 결제하거나 13시간 동안 의원에 머문 사례도 있었다. 한 투약자는 11개월 동안 64차례 의원을 찾아 2억5300만원을 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4TIMRRGUYDSZJXMJRDQMZRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범행에 사용된 수면마취제 '덱스메데토미딘'과 사실상 동일한 성분인 동물용 마취제 '메데토미딘'/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사들은 마약류 감시망을 피하고 투약자의 수면 상태를 장시간 유지하기 위해 덱스메데토미딘과 에토미데이트 등 일반 마취제를 의료용 마약류와 함께 투약한 것으로 나타났다. 불법 투약 사실을 숨기기 위해 진료기록부를 작성하지 않고 마약류 취급 보고 의무도 이행하지 않았다.&lt;br&gt;&lt;br&gt;덱스메데토미딘이 의료용 마약류의 대체 약물로 오남용된 사례가 적발된 것은 이번이 처음이다. 이 약물은 동물용 마취제로 오남용 사례가 잇따른 메데토미딘과 사실상 같은 성분이라고 경찰은 설명했다.&lt;br&gt;&lt;br&gt;경찰은 덱스메데토미딘이 새로운 대체 마약류로 확산할 가능성이 있다고 보고 식약처에 마약류 지정 등 규제 방안을 신속하게 검토해 달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTAODEGVTDEY3EGM2TKMLCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범행이 발생한 병원의 수면마취 공간/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 수면 마취 상태에서는 환자가 범죄 사실을 인지하거나 저항하기 어렵고, 외부 감시가 닿지 않는 1인실 중심의 병원 구조가 성범죄에 악용될 수 있다고 봤다. 이에 따라 수면 마취 과정에서 간호사 등 제3자의 동석을 의무화하는 ‘샤페론(보호자) 제도’ 도입을 관계 부처에 요청했다. 현재 자율 권고에 그치는 보호자 동석 제도를 의무화해 의료기관 내 성범죄를 막아야 한다는 취지다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “마약류로 지정되지 않은 일반 마취제까지 단속을 피하기 위한 수단으로 오남용되고 있다”며 “의료계에서 은밀하게 이뤄지는 마약류 불법 취급과 이를 이용한 강력범죄를 엄정하게 수사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가마솥더위에 해수욕장 북적... 포항 피서객 70% 늘었다</title>
+      <link>https://www.chosun.com/national/2026/07/26/APOLAHFMZVCSJH6GDLTRY7OGFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/26/APOLAHFMZVCSJH6GDLTRY7OGFI/</guid>
+      <dc:creator>포항=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 08:05:23 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VMUDZYNKRPMDBP4ASYP4GX53Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 경북 포항시 영일대해수욕장에서 피서객들이 샌드페스티벌 모래조각 작품을 둘러보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 폭염이 계속되면서 경북 포항 지역 해수욕장 8곳을 찾은 피서객 수가 지난해 같은 기간보다 70% 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;26일 포항시에 따르면 지난 11일 개장한 구룡포·송도·영일대·칠포·월포·화진 등 8곳 누적 피서객은 6만명을 넘어섰다. 포항시 관계자는 “해수욕장 개장 이후 폭염 경보 발령 등 불볕더위가 이어져 피서객이 지난해 같은 기간보다 70% 증가했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRTCZDEMUYGKOLDME3WKZDBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 경북 포항시 북구 영일대해수욕장에서 피서객들이 해송 그늘 아래에서 쉬고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해수욕장별로는 화진해수욕장이 2만3550명으로 가장 많았고 영일대해수욕장과 구룡포해수욕장이 뒤를 이었다.&lt;br&gt;&lt;br&gt;포항에서 가장 북쪽에 있는 화진해수욕장은 바닷물이 유난히 맑고 넓은 솔밭으로 가족과 연인들이 많이 찾는 곳이다. 또 조개가 많아 피서객들이 줍는 재미도 쏠쏠하다. &lt;br&gt;&lt;br&gt;영일대해수욕장에서는 백사장을 무대로 ‘영일대 샌드 페스티벌’이 열려 피서객에게 볼거리를 선사하고 있다. ‘바다를 품은 거대한 마법’을 주제로 동화 속 캐릭터를 모래 조각으로 구현했다. &lt;br&gt;&lt;br&gt;국내외 정상 모래 조각 작가가 참여한 샌드 페스티벌은 다음 달 31일까지 운영된다. 전시 작품은 모두 6점. 메인 작품은 ‘이상한 나라의 앨리스 성’으로 대형 성을 모티브로 한 작품이다. &lt;br&gt;&lt;br&gt;구룡포해수욕장은 1일 평균 1000여 명의 피서객이 방문해 무더위를 식히고 있다. 인근에는 ‘일본인 가옥 거리’, ‘호미곶광장’ 등이 있어 관광과 해수욕을 동시에 즐길 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10년치 분석해보니... 올해 검정고시 합격자, 서울대 등 주요 대학서 최다</title>
+      <link>https://www.chosun.com/national/education/2026/07/26/TSBJ5YZLPFHX7NNQ2NGPRNA76A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/26/TSBJ5YZLPFHX7NNQ2NGPRNA76A/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 07:49:42 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYGIM3FGVRTIYRVGRRWKODFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국내 주요 10개 대학의 2026학년도 신입생 중 검정고시 출신이 지난 10년 사이 가장 많은 것으로 나타났다. 사진은 2026학년도 대학수학능력시험이 치러진 지난해 11월 서울 광진구 광남고 시험장에서 수험생들이 막바지 점검을 하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 국내 주요 10개 대학 신입생 중 검정고시 출신이 지난 10년 사이 가장 많은 것으로 나타났다. 내신보다 수능에 집중하기 위해 학교를 그만두고 검정고시를 택하는 상위권 학생이 늘고 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;26일 종로학원이 대학알리미에 공시된 10년치(2017~2026학년도) 대입 자료를 분석한 결과, 주요 10개 대학의 올해 검정고시 출신 신입생은 824명으로, 지난해(785명)보다 39명 증가한 것으로 집계됐다. 2017학년도(328명)와 비교하면 2.5배 늘었다. &lt;br&gt;&lt;br&gt;대학별로는 경희대가 142명으로 검정고시 출신 신입생이 가장 많았다. 이어 연세대(113명), 한국외대(93명), 한양대(78명), 고려대·중앙대(각 77명) 등 순이었다. 서울대의 경우 비교적 적은 55명이지만, 19명이던 2017학년도와 비교하면 세 배 가까이 늘었다. &lt;br&gt;&lt;br&gt;검정고시를 통해 대입에 나서는 전체 수험생 수도 늘어나는 것으로 나타났다. 검정고시 출신의 2017학년도 수능 접수자는 1만1525명으로 전체의 1.9%에 그쳤지만 2025학년도에는 3.8%로 두 배가 됐고, 2026학년도는 4%까지 올랐다.&lt;br&gt;&lt;br&gt;종로학원은 이러한 현상이 검정고시로 대입을 준비하는 상위권 학생이 늘어난 영향으로 보고 있다. 학생부로 경쟁이 불리하다고 판단하는 학생들이 검정고시를 통해 수능 정시를 준비하는 경향이 뚜렷해지고 있다는 것이다. &lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “학교 내신 1등급을 놓치는 순간 수시로는 주요 10개 대학에 갈 방법이 사실상 없어진다”며 “중간·기말고사와 수행평가를 챙기면서 수능 정시까지 준비하기는 어렵기 때문에, 아예 수시를 포기하고 수능에 전념하는 쪽이 낫다고 판단하는 경우가 늘고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국이 펄펄, 최고 39도 폭염에 곳곳 ‘중대경보’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/07/26/NJ4VPGQ77BH2FB3WCUFTE4XMKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/26/NJ4VPGQ77BH2FB3WCUFTE4XMKE/</guid>
+      <dc:creator>김아사 기자, 조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 06:13:47 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYHU7KUJOBIP7OE2Y5NNX5JOFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연일 폭염이 이어지는 26일 대구 동구 율하체육공원 바닥분수에서 학생들과 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말 동안 낮 기온이 최고 39도까지 치솟으며 전남광주와 경북, 경남 등 전국 곳곳에 폭염 중대 경보가 발효됐다. 지난 25일 전남 광주 해남에선 폭염 속에 밭일을 하던 30대 태국인 노동자가 숨지기도 했다. 이날 하루에만 온열 질환자가 64명 발생했다. 폭염 중대 경보는 폭염 경보(이틀 이상 일 최고 체감온도 35도 이상)가 내려진 지역에서 기온이 더 올라 ‘일 최고 체감온도가 38도 이상’ 또는 ‘일 최고 기온 39도 이상’인 상황이 하루 이상 이어질 것으로 예상될 때 발령되는 조치다. 전문가들은 한반도가 두 개의 거대한 고기압에 갇힌 이른바 ‘열돔(Heat Dome)’ 현상이 이어지면서 당분간 폭염이 계속될 것으로 전망한다.&lt;br&gt;&lt;br&gt;26일 기상청에 따르면, 주말 동안 전국엔 40도에 육박하는 무더운 날씨가 계속됐다. 26일 양산이 39.3도까지 오른 것을 비롯해 밀양 39.1도, 의령 38.3도, 합천 38.2도, 광양이 37.3도를 기록했다. 기상청은 전남광주 광양과 경북 고령·포항·경주, 대구, 경남 양산·의령·김해·밀양·함안·창녕·합천 등에 폭염 중대 경보를 발효했다. 이와 함께 기상청은 “생명을 위협하는 수준의 극단적인 더위가 예상된다”고 경고했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R3FFMCZD4BNHHIZNFCAOV7NHPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 폭염주의보가 발효된 26일 서울 명동 거리의 한 전광판에 폭염 주의 안내문이 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보통 장마가 끝나면 북태평양고기압이 우리나라 상공을 완전히 장악하면서 습식 사우나에 들어간 듯 숨이 턱턱 막히는 무더위가 발생한다. 특히 올해는 대기 상층을 고온 건조한 티베트고기압이 장악하면서 두 겹의 고기압이 겹쳤다. 열기가 한반도를 빠져나가지 못하고 계속 쌓이는 열돔 효과가 발생하는 것이다.&lt;br&gt;&lt;br&gt;날씨가 더워지면서 온열 질환자도 급증하고 있다. 25일 64명이 온열 질환으로 응급실을 찾은 것을 포함해 올여름 누적 온열 질환자는 1301명에 달한다. 지난 5월 15일 보건 당국이 관련 모니터링을 시작한 뒤 온열 질환으로 사망한 사람도 모두 6명이다. &lt;br&gt;&lt;br&gt;한편, 월요일인 27일은 오전부터 수도권과 강원도에 소나기가 내리겠다. 예상 강수량은 서울·인천·경기 5∼40㎜, 서해5도 5∼20㎜, 강원 내륙·산지 5∼40㎜, 강원 북부 동해안 5∼20㎜다. 아침 최저기온은 22~26도, 낮 최고기온은 28~36도로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘살인 폭염’ 덮친 경남… 온열질환 사망자 또 나왔다 </title>
+      <link>https://www.chosun.com/national/2026/07/26/WI2JNVZ7SRDANCRGIW7F3ECG7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/26/WI2JNVZ7SRDANCRGIW7F3ECG7Q/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 08:18:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHSV3HWDKJHZVFI34ECND27PWY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 이어지는 가마솥 더위에 경남 지역에서 온열 질환 추정 사망자가 추가로 발생했다. 낮 최고 기온이 39도까지 치솟는 등 폭염이 ‘생명을 위협하는 재난’ 수준에 이르자 경남도는 비상 체계를 가동하며 총력 대응에 나섰다.&lt;br&gt;&lt;br&gt;26일 경남도 등에 따르면, 지난 23일 오후 5시쯤 사천시 송포동에서 집을 나선 김모(93)씨가 연락이 끊겨 가족들이 찾아 나선 끝에 인근 논에서 쓰러진 채 발견됐다. 신고를 받고 오후 9시 16분쯤 119구급대가 현장에 도착했을 당시 김씨는 이미 의식을 잃은 상태였다. 당시 사천엔 폭염 주의보가 내려진 상태로, 낮 최고 기온은 34도에 달했다.&lt;br&gt;&lt;br&gt;김씨는 진주경상대병원 응급실로 긴급 이송돼 치료를 받았지만, 이틀 뒤인 25일 오후 11시 21분쯤 끝내 숨을 거뒀다. 경남에서는 지난 22일 고성 한 비닐하우스에서 97세 여성이 쓰러져 병원으로 이송됐지만, 숨진 바 있다. 경남에서는 25일 기준 누적 온열 질환자는 112명이고, 사망자는 2명이다. &lt;br&gt;&lt;br&gt;전국적으로는 1300명의 온열 질환자가 발생해 이 중 6명이 목숨을 잃었다.&lt;br&gt;&lt;br&gt;폭염의 기세는 갈수록 맹렬해지고 있다. 경남도는 지난 25일 양산시와 의령군에 이어 26일 김해시, 밀양시, 함안군, 창녕군, 합천군 등 7개 시군으로 ‘폭염 중대 경보’를 확대 발효했다. 폭염 중대 경보는 일 최고 체감 온도가 38도 이상으로 예상돼 인명 피해가 우려될 때 내려진다. 현재 경남 전역은 최고 체감 온도 35도를 웃도는 살인적인 무더위가 덮친 상태다.&lt;br&gt;&lt;br&gt;26일 오후 3시 기준 양산 낮 최고기온이 39.3도를 기록해 전날 기록한 39.1도를 넘어섰다. 밀양은 39.1도를 기록했다. 이 밖에 의령 38.3도, 합천 38.2도, 창녕 38.1도, 김해 37.8도, 함안 37.5도 등을 기록 중이다.&lt;br&gt;&lt;br&gt;사태가 심각해지자 경남도는 폭염 위기 경보를 ‘심각’ 단계로 격상하고, 20개 관계 부서가 참여하는 재난안전대책본부(비상 1단계)를 가동했다. &lt;br&gt;&lt;br&gt;고령자와 독거노인, 농업인, 야외 근로자 등 취약 계층의 예찰 활동을 강화하고, 낮 12시부터 오후 5시 사이에는 농작업과 야외 활동을 전면 자제할 것을 강력히 권고하고 있다.&lt;br&gt;&lt;br&gt;경남도 관계자는 “폭염 중대 경보가 도내 전역으로 확대되는 등 폭염은 이제 단순한 무더위가 아닌 생명을 직접적으로 위협하는 재난”이라며 “도민들께서는 폭염 행동 요령을 반드시 숙지해 주시고, 이상 증상이 나타나면 지체 없이 119에 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 7월 27일 월요일 (음력 6월 14일 壬寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/26/XXK27FB5BBHOPGJBHGO4EDUGR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/26/XXK27FB5BBHOPGJBHGO4EDUGR4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>음성서 말레이시아인 집단 난투극... 20대 사망</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/07/26/6OIGEI5KBVA53FWWR4V3J2ZDMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/07/26/6OIGEI5KBVA53FWWR4V3J2ZDMI/</guid>
+      <dc:creator>음성=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 06:36:45 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRWGYJZME2DQMBZGQ4DMZTDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 음성경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 음성의 한 길거리에서 외국인들끼리 집단 싸움을 벌이다 1명이 숨지는 사건이 발생했다.&lt;br&gt;&lt;br&gt;충북 음성경찰서는 26일 살인 등의 혐의로 말레이시아 국적 40대 남성 A씨를 붙잡아 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 3시쯤 음성군 대소읍 한 길거리에서 같은 국적의 외국인 B(20대)씨 일행과 다툼을 벌이다 B씨를 흉기로 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 난투극 현장에는 10여 명이 모여 있었으며, 이 중 일부가 서로 몸싸움을 벌인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;난투극이 벌어진 이유는 파악되지 않았지만, 평소 사이가 좋지 않았던 이들이 만나는 과정에서 몸싸움으로 확대된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이날 흉기에 찔린 B씨는 병원으로 옮겨졌지만 숨졌고, 또 다른 1명도 몸싸움 과정에서 중상을 입고 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 인근 주거지로 달아났다가 약 1시간 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 구체적인 사건 경위를 조사한 뒤 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘경산 아파트 방화’ 피의자 휴대전화 복원… 보복 범죄 가능성 수사 </title>
       <link>https://www.chosun.com/national/2026/07/26/WBQ57RTMLJGUNISVAWF2BJ6IPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/07/26/WBQ57RTMLJGUNISVAWF2BJ6IPE/</guid>
@@ -803,18 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4WGZTCGM2WMNTCGQZDEZBZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 2개월 된 아들을 학대해 중상을 입힌 30대 남성에게 항소심에서도 실형이 선고됐다. &lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사2부(재판장 이정민)는 24일 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대 중상해 혐의로 기소된 A(36)씨에 대한 항소심 재판에서 원심과 같은 징역 4년을 선고했다. &lt;br&gt;&lt;br&gt;또 40시간의 아동학대 치료 프로그램 이수와 7년간 아동 관련 기관 취업 제한 등을 명령했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “원심 판결 이후 양형을 변경할 만한 사정이 없고, 원심 형량이 너무 무거워서 부당하다고 볼 수 없다”며 A씨의 항소를 기각했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 7월 17일 오전 4시 23분쯤 인천 연수구 자택에서 생후 2개월 된 아들을 양손으로 강하게 흔들고 머리에 여러 차례 외력을 가해 중상을 입힌 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;B군은 머리뼈와 갈비뼈가 부러지는 등 크게 다쳐 다른 사람의 도움 없이 살기 힘든 상태가 된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 아이를 실수로 바닥에 떨어뜨렸을 뿐 흔들거나 외력을 가하지 않았다고 주장했으나, &lt;br&gt;&lt;br&gt;의사들은 B군의 부러진 뼈가 여러 차례에 걸쳐 각기 다른 시점에 생긴 것으로 보인다는 의견을 나타냈다.&lt;br&gt;&lt;br&gt;A씨는 “아이가 울 때마다 정신병에 걸릴 것 같다” “집에 있으면 미칠 것 같다”는 등의 육아 스트레스를 친구와의 메신저 대화를 통해 호소한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 7월 25일 토요일 (음력 6월 12일 庚子)</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/24/P6DLXM3KCVGA5PSLDVTAJK7OLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/24/P6DLXM3KCVGA5PSLDVTAJK7OLE/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>경기 이어 충청 선관위 직원들도... 실시간 투표자 수 조작 정황</title>
       <link>https://www.chosun.com/national/court_law/2026/07/24/RNQFYRWK3ZHELHXZFRWJ7D5M7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/24/RNQFYRWK3ZHELHXZFRWJ7D5M7E/</guid>
@@ -833,24 +905,6 @@
       <content:encoded>학교 교사들에게 거액을 주고 수학능력시험 모의고사 문항 등을 부정하게 거래한 혐의를 받는 ‘일타 강사’ 현우진씨에게 징역 1년이 구형됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE5DVJU2YNABROSHWSXSVAAHKQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;수능 모의고사 문항 거래 혐의를 받는 강사 현우진이 지난 4월 서울 서초구 서울중앙지방법원에서 열린 첫 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 서울중앙지법 형사10단독 이재욱 부장판사는 현씨 등의 청탁금지법 위반 혐의 결심 재판을 열었다. 검찰은 이날 재판에서 현씨와 현씨에게 문항을 제공한 현직 교사 2명, 사교육 업체 관계자 1명에게 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;검찰 측은 “수년간 문항을 매매하고 억대 돈을 받는 행위는 공교육에 대한 신뢰를 근본적으로 훼손해 도저히 그 정당성을 인정할 수 없다”며 “내신 시험 문제를 출제하는 현직 교사가 학원에 문항을 판매하면 수강생들은 이를 사전에 접할 수 있어 교육 불평등도 심화한다”고 했다. 그러면서 “피고인들은 현재까지도 범행을 부인하며 반성하지 않고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;현씨는 최후 진술에서 “3년 전 사교육 카르텔 1인자로 지목돼 여기까지 오게 됐다”며 “학교 선생님들께서 고생하시면서 일하신 게 다 부정당한 것 같아 굉장히 마음이 아프다”고 했다. 그러면서 “검찰의 말에 단 하나도 동의할 수 없다. 명확한 판결을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;현씨는 사교육 업체 관계자와 공모해 수학 시험 문항을 받는 대가로 현직 교사 2명에게 2020~2023년 총 3억4600만원을 건넨 혐의로 작년 12월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대통령 지적한 ‘보복 대행 범죄’… 20대 男, 징역 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/24/BFC73DVGBVAPVD6I7GWUKAMVUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/24/BFC73DVGBVAPVD6I7GWUKAMVUU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 05:49:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3WEOLGMQZTMMLDMI3TONJQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 인천 청라에서 보복 대행 범죄를 저지른 20대 A씨. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보복 대행 범죄를 저지른 20대 남성에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 10단독 황윤철 판사는 24일 재물 손괴 등 혐의로 구속 기소된 A(28)씨에게 징역 6개월을 선고했다. &lt;br&gt;&lt;br&gt;황 판사는 “피고인이 공소사실을 인정해 유죄가 인정되고 피해자에게 용서받지 못했다”며 “벌금형을 초과하는 범죄 전력이 없는 점, 반성하는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;A씨는 지난 5월 13일 오전 5시 30분쯤 인천 서해구 청라동의 한 아파트 세대 앞 현관문에 페인트를 칠하고 날계란을 던진 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 보복 대행을 알선하는 조직의 지시를 받고 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 부산과 경북 문경 등 지역에서도 비슷한 범행을 3건 더 벌인 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이재명 대통령은 지난 5월 SNS(사회관계망서비스)에 A씨의 범행 내용이 담긴 보고서 내용을 공개하면서 “사적 보복 대행은 중대 범죄”라고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 경찰서 여자화장실에 몰래 들어간 남성 경찰관 적발</title>
-      <link>https://www.chosun.com/national/regional/2026/07/24/7NWVAJQDSZHYNF22RLHA76P3UQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/24/7NWVAJQDSZHYNF22RLHA76P3UQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 05:45:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAQE34F545BQ3LIORFV4NGY3AA.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주의 한 경찰서 여자 화장실에 남성 경찰관이 들어왔다는 신고가 접수돼 조사 중이다. &lt;br&gt;&lt;br&gt;제주경찰청은 산하 경찰서 소속 경장 A씨를 성폭력범죄의 처벌 등에 관한 특례법 위반(성적 목적 다중이용 장소 침입) 혐의로 입건 전 조사를 하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 22일 제주도 내 모 경찰서 여자 화장실에 들어갔다가 이를 목격한 같은 경찰서 여성 경찰관에 의해 적발된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “신고가 접수된 여자 화장실에 몰래 카메라는 설치되지 않은 것으로 조사됐다”며 “자세한 경위를 파악 중이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 법원 “최태원, 노소영에 9440억원 재산 분할”</title>
       <link>https://www.chosun.com/national/court_law/2026/07/24/UNMBCB7DOZB4BEGG55AZRMMFTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/24/UNMBCB7DOZB4BEGG55AZRMMFTQ/</guid>
@@ -858,30 +912,6 @@
       <description/>
       <pubDate>Fri, 24 Jul 2026 05:09:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2DKYZQGJQTCY3BGQ3GGMZSMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장이 노소영 아트센터 나비 관장에게 지급해야 할 이혼 재산분할액이 파기환송심에서 9440억원으로 정해졌다. 대법원의 파기환송 전 항소심이 인정한 1조3808억원보다 4300억여 원 줄어든 것이다.&lt;br&gt;&lt;br&gt;두 사람은 이번 판결에 불복해 다시 대법원에 상고할 수 있다. 다만 파기환송심을 끝으로 사실관계를 따지는 재판은 마무리된 만큼, 법리적 잘못이 없다면 이번 판결이 그대로 확정될 가능성이 크다.&lt;br&gt;&lt;br&gt;서울고법 가사1부(재판장 이상주)는 24일 최 회장과 노 관장의 이혼 재산분할 소송 파기환송심에서 최 회장이 노 관장에게 9440억원을 지급하라고 판결했다. 판결이 확정된 다음 날부터 돈을 모두 갚는 날까지 연 5%의 지연이자도 지급하도록 했다. &lt;br&gt;&lt;br&gt;재판부는 노 관장의 몫을 전체 부부 공동재산의 3분의 1(33.3%)로 인정하고, 최근 들어 급등한 SK㈜ 주식은 파기환송심 현재 가격이 아닌 2024년 4월 16일 대법원의 종전 항소심 변론종결 당시 가격으로 계산했다.&lt;br&gt;&lt;br&gt;앞서 항소심은 지난 2024년 두 사람의 공동 재산을 약 4조원으로 산정하고, 최 회장과 노 관장의 몫을 각각 65%와 35%로 정해 최 회장이 노 관장에게 1조3808억원을 지급하라고 판결했다. 그러나 대법원은 노 관장의 부친인 노태우 전 대통령이 최종현 선대회장에게 지원했다는 300억원을 노 관장 측 기여로 인정한 항소심 판단은 잘못됐다며 재산분할 부분을 파기환송했다.&lt;br&gt;&lt;br&gt;이날 파기환송심 재판부는 대법원 판결 취지에 따라 노 관장의 부친인 노태우 전 대통령이 최 회장 측에 지원했다는 300억원의 영향을 노 관장의 기여에서 제외했다. 재판부는 다만 “부부 공동 재산의 상당 부분은 혼인 기간 중 형성하거나 취득한 자산”이라며 두 사람의 혼인 당시 보유 자산과 공동 재산의 취득 경위, 혼인 기간 등을 종합해 분할 비율을 정했다고 밝혔다.&lt;br&gt;&lt;br&gt;재산 분할액을 좌우할 최대 쟁점이었던 SK 주식 가격은 종전 항소심 변론 종결일인 2024년 4월 16일이 기준이 됐다. 재판부는 “재판상 이혼이 확정된 이후 재산분할을 청구하는 경우에도 분할 대상이 되는 재산과 그 액수는 ‘이혼소송’의 사실심 변론종결일을 기준으로 정해야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 지난해 10월 이혼 확정 뒤 오른 SK 주가를 분할할 재산의 ‘액수’에는 반영하지 않았다. 주가 상승에 최 회장의 경영 기여가 영향을 미쳤다고 봤기 때문이다. 다만 주가가 크게 올랐다는 사실 자체는 재산 분할 ‘비율’을 정할 때 고려했다. 주식 가격은 2024년 4월 기준으로 계산하되, 이후 상승분은 노 관장의 몫을 33.3%로 정하는 요소 중 하나로 반영한 것이다.&lt;br&gt;&lt;br&gt;최 회장 측은 SK 주식이 나눠 주지 않아도 되는 ‘특유재산’이라고 주장했으나 받아들여지지 않았다. 재판부는 “최 회장 보유 주식은 혼인 기간 중 취득한 재산으로 두 사람 모두 그 형성이나 가치의 유지·증가에 기여했다”고 판단했다. 특히 “혼인 기간 중 최 회장의 경영 활동으로 주식 가치가 크게 증대됐고, 여기에는 노 관장의 가사·양육, SK그룹에 관한 대외적 활동이 기여했다”고 했다.&lt;br&gt;&lt;br&gt;분할 방식은 주식을 직접 나누지 않고 최 회장이 계속 보유하되 노 관장의 몫을 현금으로 지급하도록 했다. 재판부는 SK 주식이 “최 회장이 경영하는 회사에 대한 경영권의 근거가 되는 측면을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 최태원 측 “많은 분들께 심려 끼쳐 송구…판결문 검토 후 상고 여부 결정”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/24/REDMMFOUPNBLDD2YOEYD4U7IHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/24/REDMMFOUPNBLDD2YOEYD4U7IHY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 05:16:29 +0000</pubDate>
-      <content:encoded>24일 법원에서 최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 재산분할 파기환송 선고가 나오자, 최 회장 측은 “심려를 끼쳐 송구하다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVQTKYJTHE2DENRWHE4DANRRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장이 지난달 15일 서울 서초구 서울고등법원에서 열린 노소영 아트센터 나비 관장과의 재산 분할 파기환송심 2차 조정 기일에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 가사1부(재판장 이상주)는 이날 최 회장과 노 관장의 이혼 재산분할 소송 파기환송심에서 최 회장이 노 관장에게 9440억원을 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;선고가 나오자 최 회장 측 변호인은 “무엇보다 최 회장은 지금까지 과정에서 많은 분들께 심려를 끼쳐드린 것에 대해서 송구하게 생각하고 있다”고 했다. 그러면서도 “오늘 판결에 대해서는 판결문을 검토한 후 상고 여부 등 입장을 결정하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;노 관장 측 변호인은 ‘선고 결과를 어떻게 보셨느냐’ ‘관장님 입장이 있느냐’ 등 취재진의 질문에 답변하지 않고 즉각 법원을 떠났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSOZR3ULDRFRTLVNBBIL2WQ4IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노소영 아트센터 나비 관장이 지난달 26일 서울 서초구 서울고등법원에서 열린 재산분할 파기환송심에 2차 변론기일에 출석하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 사람의 이혼 절차는 최 회장이 2018년 2월 소송을 내면서 시작됐다. 앞서 2022년 12월 1심은 최 회장 재산의 절반이 넘는 SK(주) 주식을 ‘특유재산(결혼 전부터 갖고 있는 재산)’으로 인정해, 최 회장이 노 관장에게 재산분할로 665억원을 지급하라고 판단했다. 그러나 2024년 5월 항소심은 노 관장의 아버지인 노태우 전 대통령의 비자금 300억원이 SK그룹이 성장하는 데 밑거름이 됐다며, 노 관장 몫을 1조3808억원으로 높였다. 재판부는 전체 공동재산을 약 4조원으로 보고, 노 관장 몫을 35%로 정했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 판단을 뒤집었다. 대법원은 “노 전 대통령의 비자금은 불법 자금으로, 설령 SK 측에 유입됐더라도 재산 형성에 적법하게 기여했다고 인정할 수 없다”며 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>실시간 투표자 수 잘못 입력한 선관위 “최종 투표율만 맞추면 되는 거 아니냐”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/24/EAKKL7TUAZBGLAJXIF3CQMFCVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/24/EAKKL7TUAZBGLAJXIF3CQMFCVM/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 01:50:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TSNTBMQ2DKN3CGZSGIMJRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 중앙선거관리위원회./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방선거 당일 실시간 투표자 수를 마음대로 수정했다는 의혹에 대해 중앙선관위 직원들이 “최종 투표율만 맞추면 되는 것 아니냐”고 진술한 것으로 24일 알려졌다.&lt;br&gt;&lt;br&gt;6·3 지방선거 투표용지 부족 사태를 수사 중인 검경 합동수사본부(본부장 서울중앙지검 김태훈 3차장검사)는 지난 23일 중앙선관위와 경기도선관위 실무자 2명을 공전자기록(공무원 또는 공무소 전자기록) 위작(僞作) 및 공무집행방해 혐의로 입건하고 지방선거에서 이들이 실시간 투표자 수를 허위로 입력한 혐의를 확인하려는 목적이었다.&lt;br&gt;&lt;br&gt;선관위는 사전투표일과 본투표일에 1시간 단위로 투표자 수를 집계해 실시간 투표율을 수가 잘못 입력됐을 경우 단계별로 보고와 상부 승인을 거쳐 수정해야 한다. 하지만 중앙선관위와 경기선관위 직원들이 투표자 수를 집계하는 과정에서 잘못 입력된 사실을 발견하자, 해당 시간대의 투표자 수를 바로 수정하지 않고 다음 입력 시간의 투표자 수를 실제와 달리 입력함으로써 최종 투표자 숫자를 맞췄다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MV2SDDG5IZPS7G42UV4AO7OZRM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 6·3 지방선거 투표용지 부족 사태를 수사 중인 검·경 합동수사본부 관계자들이 23일 오후 경기 과천시 중앙선거관리위원회에 대한 압수수색을 마친뒤 압수물이 든 박스를 들고 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의혹에 대해 중앙선관위와 경기도선관위 관계자들은 혐의를 인정하면서도 “최종 투표율이 중요한 것 아니냐”는 취지로 주장했다고 한다. 합수본은 이번 투표자 수 집계 과정에서 불거진 임의 수정 입력을 ‘윗선’이 알고 있었는지, 다른 선거에서도 비슷한 일이 발생했는지 등으로 수사를 확대할 것으로 보인다.&lt;br&gt;&lt;br&gt;이날 합수본은 이틀째 중앙선관위에 대한 압수수색을 이어가는 한편 동작구선관위 사무국장도 피의자 신분으로 불러 조사한다. 노태악 전 중앙선관위원장의 외유성 출장 의혹과 관련해 중앙선관위 관계자 3명에 대한 참고인 조사도 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MV2SDDG5IZPS7G42UV4AO7OZRM.JPG?auth=605308320ddafce17f4b60defb66a408b7b89953f814fa70d6be1f3d5321a6e9&amp;smart=true&amp;width=4791&amp;height=2686" type="image/jpeg" height="2686" width="4791">
-        <media:description type="plain">(과천=뉴스1) 이광호 기자 = 6·3 지방선거 투표용지 부족 사태를 수사 중인 검·경 합동수사본부 관계자들이 23일 오후 경기 과천시 중앙선거관리위원회에 대한 압수수색을 마친뒤 압수상자를 들고 나서고 있다.  
-
-이날 검·경 합동수사본부는 선거관리위원회 관계자들의 투표율 통계 조작 정황을 포착해 중앙선관위와 경기도선관위 등에 대한 압수수색에 나섰다.(공동취재) 2026.7.23/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(과천=뉴스1) 이광호 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>“신천지 신도, 민주당 집단 가입... 관련자 수사”</title>
@@ -895,15 +925,6 @@
         <media:description type="plain">이만희 신천지예수교증거장막성전(신천지) 총회장.2026.6.24 ⓒ 뉴스1 안은나 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">NEWS1 AHN EUN NA</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>캄보디아서 100억원 뜯어낸 ‘로맨스 스캠’ 부부… 징역 15년·9년</title>
-      <link>https://www.chosun.com/national/regional/2026/07/24/AX2ZYQCNG5FI3I3IKSZLVN4ALU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/24/AX2ZYQCNG5FI3I3IKSZLVN4ALU/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 04:59:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTGZLCMIYGIMBVGZSGKMRYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 연애를 빙자한 사기인 '로맨스스캠'으로 100억여원을 가로챈 한국인 총책 부부. 사진은 지난 1월 23일 국내로 강제 송환돼 울산경찰청 반부패수사대로 연행되는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 현지에서 로맨스 스캠(연애 빙자 사기)으로 100억원을 뜯어낸 30대 부부가 1심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;울산지법 형사12부(재판장 박강민)는 24일 범죄단체 조직 등 혐의로 재판에 넘겨진 남편 30대 A씨에게 징역 15년과 추징금 1억4000여 만원, 아내 B씨에게는 징역 9년과 추징금 6800만원을 선고했다.&lt;br&gt;&lt;br&gt;이들 부부는 2024년 1월부터 지난해 1월까지 캄보디아 보레이 지역 등에서 전화금융사기(보이스피싱) 범죄 단체를 조직하고 ‘딥페이크’를 활용해 한국인을 대상으로 로맨스 스캠 방식으로 투자를 유도한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;이들 범행의 피해자는 100여 명, 피해 금액은 약 101억원에 달했다.&lt;br&gt;&lt;br&gt;두 사람 모두 지난 4월 열린 첫 재판에서 혐의를 인정했으나, 아내인 B씨 측은 일부 범행이 남편 A씨의 지시로 이뤄진 것이라고 주장하기도 했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “B씨는 자발적으로 각 범죄단체에 가입하고 조직해 활동하면서 각 범죄단체에서 중추적이고 핵심적인 역할을 담당했다”고 판단했다.&lt;br&gt;&lt;br&gt;양형 이유에 대해서는 “죄질이 매우 좋지 않고 비난 가능성이 높으며 피해자들이 극심한 피해를 호소하고 있고 엄벌을 탄원하고 있는 반면, 피고인들은 피해 회복을 위해 아무런 노력을 하지 않고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 두 사람이 범행을 모두 인정하는 점, 국내 송환 전까지 캄보디아 현지에서 이미 상당 기간 구금돼 있었던 점 등을 양형에 참작했다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 방학 추천도서에 李 자서전... 중학교, 학부모 항의에 재선정키로</title>
@@ -924,15 +945,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Z423S4VHFDBZOFOI3TFI7OF3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 2024년 3월 인천 수로 및 팔미도 근해 노적봉함에서 열린 제73주년 인천상륙작전 전승기념식에 참석해 이종섭 전 국방부 장관과 대화하고 있다. 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직해병 특별검사팀이 이종섭 전 국방부 장관을 호주대사로 임명해 해외로 도피시킨 혐의를 받는 윤석열 전 대통령에게 징역 5년을 구형했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우) 심리로 24일 열린 윤 전 대통령의 범인도피 및 직권남용 혐의 결심 공판에서 특검은 이같이 밝혔다. 함께 재판에 넘겨진 조태용 당시 국가안보실장과 박성재 전 법무부 장관에게는 징역 3년을, 심우정 당시 법무부 차관·장호진 전 외교부 1차관·이시원 전 대통령실 비서관에게는 징역 2년을 구형해달라고 재판부에 요청했다. &lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 ‘고(故) 채수근 상병 사망 사건 수사 외압 의혹’으로 고위공직자범죄수사처(공수처)에 입건된 이 전 장관을 호주 대사로 임명하며 도피를 도왔다고 보고 기소했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 2023년 7월 국가안보실 회의에서 경북 예천군 수해 현장 수색 도중 순직한 채상병에 대한 사고 조사 결과를 보고받았다. 당시 해병대 조사단은 임성근 전 해병대1사단장에게 과실치사 혐의를 적용했는데, 윤 전 대통령은 이를 두고 “이런 일로 사단장을 처벌하면 누가 사단장을 할 수 있겠느냐”며 격노한 것으로 조사됐다. 이후 윤 전 대통령의 연락을 받은 이 전 장관은 해병대 수사단의 수사 기록을 경찰에 이첩하는 것을 보류하라고 지시했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 ‘순직해병 수사 외압 의혹’이 확산하자 2024년 3월 4일 이 전 장관을 호주대사로 공식임명했다. 이 전 장관은 같은 달 10일 호주로 출국했다. 특검은 윤 전 대통령이 이른바 ‘VIP 격노’ 당시 통화한 이 전 장관에 대한 공수처 수사가 시작되자 자신에게 수사가 확대되는 것을 막기 위해 공범인 이 전 장관을 해외로 도피시켰다고 보고 있다.&lt;br&gt;&lt;br&gt;조태용 전 실장 등은 이 전 장관이 호주대사로 임명돼 출국하는 과정에 개입하거나 부당한 영향력을 행사한 혐의를 받는다. 조 전 실장과 장호진 전 차관은 호주대사의 임기가 남아있고 교체 사유가 없는데도 2023년 11월 외교부에 호주대사 교체 절차를 부당하게 지시·독촉한 혐의(범인도피 등)로 재판에 넘겨졌다. 박성재 전 장관과 심우정 전 차관은 이 전 장관의 출국금지를 해제해 출국을 도운 혐의(직권남용 등)를 받으며, 이시원 전 비서관은 인사검증 과정에서 이 전 장관에 대해 ‘문제없음’으로 결론 낸 혐의(직권남용 등)로 기소됐다.&lt;br&gt;&lt;br&gt;특검은 최종의견에서 “공수처 수사 대상자인 이종섭 전 국방부 장관을 호주대사로 임명해 도피시키면 공수처가 적시 수사를 못해 차질이 생긴다”며 “자신의 범행을 은폐하려는 사적 목적으로 국가 권력을 총동원해 이 전 장관을 도피시켰다”고 밝혔다. 그러면서 “이는 국가의 형사사법 작용을 방해하는 데 그치지 않고, 그 작용을 전면 무력화시킨 것”이라고 지적했다. 다른 피고인들에에 대해선 “진실에 눈감고 침묵했다”며 “이종섭 전 장관을 대사로 보내기 위해 형식적인 심사를 하고 출국금지 해제 절차를 기계적으로 거쳤다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “일종의 소설”이라고 반박했다. 윤 전 대통령 측은 “특검은 대통령의 정당한 인사권 행사라는 원인과 결과 사이에 처음부터 불법적 목적이 있던 것처럼 끼워 맞췄다”며 “범인도피죄가 성립하려면 행위 당시 방해목적 등이 있어야 하는데, 윤 전 대통령은 공수처의 수사를 전혀 예상할 수 없던 2023년 9월부터 호주 방산수출 기여를 높이 평가했고 특사 파견을 검토하고 있었다”고 했다. 이 전 장관을 도피시킬 목적으로 호주대사로 임명한 게 아니라 방산수출 등을 위해 정당하게 임명한 것이라는 취지다. 그러면서 “특검이 인사 시점과 수사 시점의 근접성만으로 고의성을 무리하게 추단했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘이언주 의원 합성 음란물 제작’ 60대 기업인 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/24/IPV5RXG57FER3J2VRYS5DMXSHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/24/IPV5RXG57FER3J2VRYS5DMXSHU/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 03:56:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTSMBWGBSTCMDFGRSTAMZSGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이언주 더불어민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 더불어민주당 이언주 의원에 대한 합성 음란물을 제작해 소셜 미디어(SNS) 등에 올린 60대 기업인을 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 60대 남성 A씨를 성폭력처벌법 위반과 모욕 혐의로 불구속 송치했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이 의원에 대한 허위 영상물 1개와 모욕 이미지 3개 등을 제작해 SNS 등에 게시한 혐의를 받는다. 경찰은 지난 8일 A씨의 사무실을 압수 수색하는 등 관련 자료를 확보해 수사를 이어왔다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 제작한 허위 영상물을 온라인 커뮤니티와 SNS 등에 다시 게시한 계정들에 대해서도 수사를 진행 중이다. &lt;br&gt;&lt;br&gt;서울청은 “최근 온라인 커뮤니티와 SNS 등을 중심으로 성적 수치심과 인간의 존엄성 등을 파괴하는 범죄 행위에 대해 엄중히 수사하고, 유관기관과 긴밀히 협력하여 2차 피해 방지를 위해 적극 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>특검, 여인형·이진우에 징역 30년 구형...“내란의 열매 나누려 계엄 가담”</title>
       <link>https://www.chosun.com/national/court_law/2026/07/24/GYX5OTZ265CJBMTZRDF77RHUBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/24/GYX5OTZ265CJBMTZRDF77RHUBA/</guid>
@@ -945,15 +957,6 @@
       </media:content>
     </item>
     <item>
-      <title>아파트 복도에서 층간소음 다툼하며 “XX놈아”…대법 “단순 욕설은 모욕죄로 처벌 못해”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/25/2BXHUDDO4JCCLK3RIAGLCVZCNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/25/2BXHUDDO4JCCLK3RIAGLCVZCNU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 03:00:00 +0000</pubDate>
-      <content:encoded>말다툼을 벌이는 중 상대방에게 내뱉은 단순 욕설은 형법상 모욕으로 볼 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JIV54PPBVFLBIEINHF46BG2IA.png"&gt;&lt;figcaption&gt;&lt;small&gt;층간소음 일러스트./조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 최근 모욕 혐의로 기소된 A(53)씨에게 유죄를 인정한 원심을 깨고 사건을 대구지법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;2022년 10월 밤, 대구 중구의 한 아파트에 거주하는 A씨는 층간소음을 이유로 경찰에 신고를 했다. 현장을 둘러본 경찰은 ‘특이사항이 없다’며 아파트 관리사무소가 이웃 간 갈등을 중재하라며 철수했다. 이후 A씨는 관리사무소 직원과 함께 층간소음을 유발하는 것으로 의심하는 집으로 찾아갔다. 오후 11시 30분쯤, A씨는 복도에서 해당 집에 사는 주민 B씨와 말다툼을 벌였다. 그 과정에서 “야이 XX놈아 X도 못 하는 게”라고 욕설을 했다. 검찰은 A씨가 B씨를 공연히 모욕했다고 보고 기소했다.&lt;br&gt;&lt;br&gt;이에 대해 1·2심은 A씨의 발언이 모욕죄에 해당한다고 보고 벌금 100만원을 선고했다. 재판부는 “피고인이 욕설을 한 장소가 여러 사람이 거주하는 아파트 복도이고, 시각 또한 대다수 아파트 주민이 집에 머무는 심야시간대였다”며 “A씨가 욕설을 할 때 불특정 또는 다수인이 이를 인식할 수 있는 상태에 있었다고 보인다”고 판단했다. 또 당시 관리사무소 직원이 옆에 있었던 만큼, 해당 욕설이 관리사무소 직원들 사이에 전파될 가능성도 있다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WCOJTGUYWMYJYGM3GKZJXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 대법원은 A씨가 무죄라며 판단을 뒤집었다. 대법원은 “모욕에 해당하는지 여부는 객관적인 제반 상황에 비춰 상대방의 외부적 명예를 침해할 만한 표현인지를 기준으로 엄격하게 판단해야 한다”며 “해당 발언은 단순한 욕설로 피해자의 주관적 감정을 상하게 할 만한 표현에 불과하다”고 했다. 모욕은 피해자의 인격에 대한 사회적 평가를 저하시킬 정도여야 하는데, 그런 수준은 아니라는 취지다.&lt;br&gt;&lt;br&gt;대법원은 해당 발언이 모욕의 정의에 맞지 않다고 본 만큼, 모욕죄 성립 요건인 공연성 여부에 대해선 별도로 판단하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경산 아파트 폭발 피해 50대 여성 숨져… 방범카메라 확인하러 갔다 참변</title>
       <link>https://www.chosun.com/national/regional/2026/07/24/TZDX2DKSCJG5PHARZQQDMT42EE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/24/TZDX2DKSCJG5PHARZQQDMT42EE/</guid>
@@ -961,15 +964,6 @@
       <description/>
       <pubDate>Fri, 24 Jul 2026 03:11:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4TSMJWGU4GMNZUMVSTSZTCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 오전 경북 경산시 사동 한 아파트 관리사무소에서 일어난 폭발 화재로 치료 받던 50대 여성이 24일 숨졌다./뉴스 1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산시 아파트 관리사무소 폭발 화재 사건으로 중상을 입고 치료를 받던 50대 여성 화상 피해자 1명이 숨졌다.&lt;br&gt;&lt;br&gt;24일 경북경찰청에 따르면, 이 사건 피해자로 서울 지역 병원으로 이송돼 치료받던 A씨가 이날 오전 11시 10분쯤 병원에서 사망 판정을 받았다. A씨는 사고 직후 대구의 한 화상 전문 병원에서 치료를 받던 중 상태가 악화해 헬기를 타고 서울로 이송돼 치료를 받았다. A씨는 사고 당일 방범 카메라가 꺼진 문제를 확인하기 위해 관리사무소를 찾았다가 변을 당한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 검시와 부검을 통해 정확한 사망 원인을 규명할 예정이다.&lt;br&gt;&lt;br&gt;A씨가 사망함에 따라 경찰은 피의자 유모(71)씨에 대한 혐의를 기존 현주건조물방화치상에서 현주건조물방화치사상으로 변경했다. 경찰은 유씨가 전신 화상으로 치료를 받고 있어 아직 대면 조사를 하지 못한 가운데 치료 경과를 지켜본 뒤 체포영장을 집행해 범행 동기와 계획범행 여부 등을 조사할 계획이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대, 엔비디아와 국내 최초로 AI 공동 연구랩 설립</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/24/MW3LJ7YHQNAYHDXGKUY4BI2P5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/24/MW3LJ7YHQNAYHDXGKUY4BI2P5U/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jul 2026 01:56:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HK6JAQMJIZOXPJIVZTTWASPBIE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;젠슨 황 엔비디아 최고경영자(CEO)가 지난 8일 서울대학교 해동첨단공학관에서 유홍림 서울대 총장과 학생들 앞에서 기념 사진을 촬영하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대와 엔비디아가 국내 최초로 인공지능(AI) 공동 연구랩(Joint Lab)을 설립한다. 양측은 이달 중 업무협약(MOU)을 체결하고 공동 연구부터 인적 교류, 산학 협력 등을 본격 추진할 방침이다.&lt;br&gt;&lt;br&gt;서울대가 엔비디아와 AI 공동 연구랩 설립을 논의 중인 것으로 24일 알려졌다. 양측은 피지컬 AI, AI 반도체 등 첨단 분야에서 10~20개 연구팀을 선발해 공동 연구를 진행할 예정이다. 스타트업 창업과 표준 기술 확립 등 산학 협력도 병행하며, 협약 기간은 3년 내외다. 양측은 MOU 체결 이후 공동 운영위원회를 구성하고 오는 9월 심포지엄을 개최하며 본격적인 운영에 나선다.&lt;br&gt;&lt;br&gt;인적 교류도 확대될 전망이다. 서울대 우수 인재를 엔비디아 인턴십에 참여시키고 연구 교류를 진행하는 방식이다. 엔비디아 연구진이 서울대를 방문해 공동 연구와 네트워킹을 진행할 수 있도록 캠퍼스 내 전용 협력 공간도 마련하기로 했다. &lt;br&gt;&lt;br&gt;커리큘럼 공동 개발도 이어진다. 서울대는 엔비디아의 교육 커리큘럼을 공유받는 동시에, 자체 개발한 커리큘럼을 엔비디아의 글로벌 교육 플랫폼인 ‘DLI(Deep Learning Institute)’에 올려 전 세계 대학 및 연구진과 공유할 예정이다.&lt;br&gt;&lt;br&gt;협력 범위는 이공계 교수진에 국한되지 않고 인문·사회 분야 교수들과의 공동 연구로도 확장된다. 특히 오는 9월 개원하는 서울대 AI대학원과 소수 정예로 운영되는 ‘김재철 AI 클래스’ 등과의 연계도 적극 추진될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSXZ4BYHE5NFJNRLT2QKGL7YPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;젠슨 황 엔비디아 최고경영자(CEO)와 유홍림 서울대 총장이 8일 서울대학교 해동첨단공학관에서 열린 행사에서 학생들과 기념 촬영하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그동안 우수한 인재를 보유하고도 GPU(그래픽 처리 장치) 부족으로 연구에 속도를 내지 못했던 서울대는 이번 협력을 통해 엔비디아의 풍부한 인프라를 공급받을 수 있을 것으로 기대하고 있다. 서울대 관계자는 “서울대 시흥캠퍼스에서 추진 중인 AI 허브 사업 및 데이터센터 건립 등에서도 적극적인 협력이 이뤄질 전망”이라고 했다.&lt;br&gt;&lt;br&gt;서울대는 올해 초부터 엔비디아 경영진과 접촉하며 협력 방안을 논의해 왔다. 지난 2월 서울대 관계자들이 미국 실리콘밸리를 방문해 젠슨 황 엔비디아 최고경영자(CEO)의 아들인 스펜서 황을 만나 협력 모델을 논의했고, 4월에는 젠슨 황 CEO의 딸인 매디슨 황 엔비디아 수석이사가 서울대를 찾아 공동 연구랩 설립에 합의한 것으로 전해졌다. 이어 지난 6월 젠슨 황 CEO가 직접 서울대를 방문해 조인트랩 설립을 최종 확정했다.&lt;br&gt;&lt;br&gt;엔비디아가 국내 대학에 공동 연구랩을 설립하는 것은 이번이 처음이다. 엔비디아는 그동안 싱가포르, 홍콩 등의 주요 대학과 공동 연구랩을 운영해 왔다. 업계에서는 AI 생태계 구축이 절실한 엔비디아가 서울대를 아시아 핵심 연구 거점으로 삼아 중국 산업을 견제하는 한편, 우수한 AI 인재 확보에 나선 것으로 보고 있다.&lt;br&gt;&lt;br&gt;서울대 관계자는 “이번 조인트랩 설립은 서울대의 국제적 위상을 높이는 계기가 될 것”이라며 “연구 성과와 교육 활동을 엔비디아의 글로벌 네트워크를 통해 세계 무대에 적극 알리겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>늙어가는 산부인과, 70대 의사가 아기 받는다</title>
