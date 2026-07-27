@@ -13,6 +13,132 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>사상 첫 ‘대통령 당선무효형’… 尹 2년간 한 일 모두 취소?</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/27/GNHRIKDHGZGZPM6QOYJPT3YNWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/27/GNHRIKDHGZGZPM6QOYJPT3YNWQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 07:47:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSTQMZTMM2DQOBSHA2DKNLCGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 용산구 서울역 대합실에서 시민들이 윤석열 전 대통령의 공직선거법 위반 혐의 1심 선고 생중계를 바라보고 있다. 이날 법원은 윤 전 대통령에게 징역 1년 6개월에 집행유예 3년을 선고했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부는 27일 제20대 대통령 선거 때 공직선거법상 허위 사실을 공표한 혐의로 기소된 윤석열 전 대통령에게 징역 1년 6개월에 집행유예 3년을 선고했다. 전직 대통령이 선거법 위반 혐의로 1심에서 당선 무효형(벌금 100만원 이상)을 선고받은 것은 윤 전 대통령이 처음이다.&lt;br&gt;&lt;br&gt;그런데 이 판결이 확정된다고 하더라도 윤 전 대통령이 대한민국 대통령이었다는 사실이 사라지지는 않는다. 통상 ‘당선 무효’의 효력은 관련 판결이 확정된 시점 이후부터 발생하는 것으로 해석한다. 만약 당선 무효의 효력을 당선 시점으로 소급해 적용한다면 재임 기간 전체가 무효가 된다. 그럴 경우 대통령 재임 중 공포한 법령과 각종 공직 임명 등의 효력이 문제될 수 있기 때문이다. 한 법조계 인사는 “잇따른 행정소송으로 인한 혼란을 방지하기 위해 선거 종류에 관계 없이 당선무효형을 확정받기 전에 행한 권한 행사의 효력은 그대로 인정된다”고 했다.&lt;br&gt;&lt;br&gt;다만 당선 무효형을 선고받으면 전직 대통령으로서의 예우는 받지 못하게 될 수 있다. 전직 대통령 예우에 관한 법률 제7조를 보면, 전직 대통령이 재직 중 탄핵 결정을 받아 퇴임한 경우, 금고 이상의 형이 확정된 경우, 형사 처분을 회피할 목적으로 외국 정부에 도피 또는 보호를 요청한 경우, 대한민국 국적을 상실한 경우엔 전직 대통령으로서 예우를 하지 않는다고 규정한다. 당선 무효형이더라도 금고 이상의 형이 확정되면 전직 대통령으로서의 예우를 받지 못하고, 100만원 이상의 벌금만이 선고되면 예우는 받을 수 있다. 다만 윤 전 대통령은 이미 작년 4월 헌법재판소에서 탄핵(파면)돼 전직 대통령 예우 대상에서 제외된 상태다. 이번 선거법 사건 당선 무효형과는 상관 없다는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/W3TBDJJV4BFZBC4VD77ATNVN6A.gif?auth=c1d5b495859e97e4825eb989d3ccb507921eee9052c261794db217ea6cd5e5d6&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">윤석열 전 대통령이 27일 서울 서초구 서울중앙지방법원에서 열린 공직선거법 위반 혐의 1심 선고에서 판결을 듣기 위해 자리에서 일어나고 있는 모습. /서울중앙지법</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“親경찰 인사” 비판에도... 그대로 출범한 ‘경찰 수사 개혁위’</title>
+      <link>https://www.chosun.com/national/incident/2026/07/27/UWRIY7PTGFDOHLUM2AFL33ID4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/27/UWRIY7PTGFDOHLUM2AFL33ID4A/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 09:41:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSH33OK2QNKQFAYYSILYP5XADM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재성(가운데 오른쪽) 경찰청장 직무대행과 김남준(왼쪽) 경찰 수사 개혁위원회 위원장이 27일 서울 서대문구 경찰청 국가수사본부 회의실에서 첫 회의를 진행하고 있다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘전남광주 여고생 살해범’ 장윤기 사건을 계기로 신설한 ‘경찰 수사 신뢰 제고를 위한 쇄신 TF’가 27일 첫 회의를 열고 공식 출범했다고 경찰청이 밝혔다. 경찰청은 이날 TF 공식 명칭을 ‘국민 신뢰 제고를 위한 경찰 수사 개혁위원회’로 정하고 김남준 위원장 등 외부 위원에게 위촉장을 수여했다. &lt;br&gt;&lt;br&gt;수사 개혁위는 법조계·학계 외부 전문가와 경찰 내부 위원으로 구성됐으며, 매주 1회 정기 회의를 통해 경찰 수사 신뢰 제고를 위한 개선 방안을 검토하고, 세부 추진 방안을 논의할 계획이다. &lt;br&gt;&lt;br&gt;개혁위 출범을 앞두고 외부 위원 대부분이 검경 수사권 조정과 관련해 경찰 우호적인 입장을 보냈던 인사들이라는 지적이 있었다. 위원장을 맡은 김남준 변호사는 민변(민주사회를위한변호사모임) 출신으로 문재인 정부 때 법무부 법무검찰개혁위원장을 지냈다. 최근에도 검찰의 보완수사권 폐지를 주장하고 있다. 윤동호 국민대 법학과 교수와 정영훈 변호사, 조순열 서울지방변호사회 회장도 검찰 권한 축소와 수사권 박탈을 주장해 왔다. 정 변호사는 최근 더불어민주당이 주최한 토론회에서 “장윤기 사건이 검사의 직접 보완수사권 존치를 주장하는 근거가 될 수 없다”고 주장하기도 했다. 이 때문에 법조계에선 “경찰이 쇄신을 명분으로 내걸고 조직 이익을 사수하려는 것 아니냐”는 말이 나온다. 남준 위원장은 “과거에 검찰 개혁과 관련된 이야기를 많이 했지만 경찰이 무조건 옳다는 식으로 발언한 적이 없다”고 말했다. &lt;br&gt;&lt;br&gt;이런 가운데 경찰이 애초 개혁위 참여를 고사했던 인물을 개혁위 외부 위원으로 공지했다가 정정하는 일도 있었다. 경찰은 지난 24일 개혁위 발족 소식을 알리며 장윤정 변호사를 외부 위원 5명 중 하나로 공지했으나, 장 변호사는 이날 첫 회의에 참여하지 않았다. 경찰청은 이날 오후 장 변호사 대신 박미랑 한남대 경찰학과 교수를 포함한 새 외부 위원 명단을 공지했다. 내부 위원으로는 유승렬 수사기획조정관, 이미경 과학수사심의관, 조주은 여성안전학교폭력대책관이 참여한다.&lt;br&gt;&lt;br&gt;개혁위는 향후 피해자 보호 분야에 전문성을 갖춘 위원을 추가로 위촉하기로 했으며, 다음 회의 때 장윤기 사건에 대한 보고를 가장 먼저 받기로 했다. 다음 달 6일엔 전국 성폭력 상담소 협의회 대표진 간담회를 개최해 관계성 범죄 피해자 보호 등에 관한 의견을 수렴할 예정이다. 위원회는 향후 현장 경찰관 및 관계 분야 전문가 등 각계각층의 목소리를 들을 방침이라고 했다.&lt;br&gt;&lt;br&gt;김 위원장은 “형사사법체계 개편 과정에서 국민께서 가지고 계신 우려를 불식시키기 위해 이러한 위원회를 운영하는 것은 시의적절하다”며 “국민의 시각에서 경찰 수사 발전을 위한 다양한 의견을 경찰청에 잘 전달하겠다”고 했다.&lt;br&gt;&lt;br&gt;유재성 경찰청장 직무대행은 “경찰 수사의 체질을 개선하고 국민의 신뢰를 높이기 위한 위원회의 다양한 제언과 권고를 겸허히 수용하고, 수사 현장에 안정적으로 정착될 수 있도록 행정·제도적 지원을 아끼지 않겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마약 사고 판 태국인 불법 체류자 2명, 해경에 검거</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/07/27/FVPISPWR4VBIXDUSQLWHFMIDYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/07/27/FVPISPWR4VBIXDUSQLWHFMIDYE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 10:34:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3TENRZGUZTGOBZMEZTGMRZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산해양경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약을 거래한 태국 국적의 불법 체류자들이 해양경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전북 군산해양경찰서는 마약류관리법 위반 등 혐의로 태국 국적 불법 체류자 A(30대)씨와 B(30대)씨를 붙잡아 조사하고 있다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 합성 마약 야바(YABA·필로폰과 카페인 혼합 제품)를 소지하고 판매한 혐의를, B씨는 이를 구매해 투약한 혐의를 각각 받고 있다.&lt;br&gt;&lt;br&gt;마약 판매책 관련 첩보를 입수한 해경은 지난 26일 충남 논산에서 A씨를 긴급 체포했다. 이 과정에서 자동차 짐칸에 실려 있던 야바 1정을 압수했다. A씨를 상대로 수사를 진행한 해경은 익산에 거주하는 B씨가 마약을 구매해 투약했다는 사실을 확인하고 B씨도 긴급 체포했다.&lt;br&gt;&lt;br&gt;이들은 해경 조사에서 혐의를 모두 인정한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 압수한 마약류와 증거물에 대해 국립과학수사연구원에 감정을 의뢰하고, 이들에 대한 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;해경 관계자는 “해양 종사 외국인의 마약 범죄에 대해 엄정하게 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10대 아들 ‘여교사 불법촬영’ 걸리자… 휴대전화 박살 낸 경찰 간부</title>
+      <link>https://www.chosun.com/national/incident/2026/07/27/2MAWCR24IVF3ZN7EUPDZH7MPNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/27/2MAWCR24IVF3ZN7EUPDZH7MPNI/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 09:39:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MTPZ6NZTCRKYKCC4KRXLQSGU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 전경./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 아들이 불법 촬영에 사용한 휴대전화를 폐기한 혐의로 현직 경찰 간부가 수사를 받고 있는 사실이 확인됐다. 27일 전북경찰청 등에 따르면, 경찰은 최근 전주 덕진경찰서 소속 A 경감을 증거 인멸 등 혐의로 입건하고 정식 수사에 착수했다.&lt;br&gt;&lt;br&gt;사건의 발단은 지난 5월로 거슬러 올라간다. 고등학생인 A 경감의 아들이 자신의 담임인 여교사를 상대로 불법 촬영을 시도한 사건이 발생했다. 범행 당일 피해 교사는 이 사실을 학교 측에 알렸고, 학교는 즉각 A 경감 등 부모에게 범행 사실을 통보했다. A 경감은 아들의 범행 사실을 인지한 직후, 아들을 질책하는 과정에서 범행에 사용된 휴대전화를 파손하고 폐기한 의혹을 받고 있다. 피해 교사는 사건 발생 며칠 뒤 정식으로 경찰에 고소장을 제출했다. &lt;br&gt;&lt;br&gt;경찰 조사 당시 A 경감의 아들은 “불법 촬영을 위해 촬영 버튼을 눌렀다”며 범행 일체를 자백했다. 그러나 핵심 증거인 휴대전화의 행방에 대해서는 “휴대전화가 없다”고 진술했다. 경찰은 피의자가 범행을 인정했다는 이유로 휴대전화 확보를 위한 압수수색 등은 하지 않고 지난 6월 말 검찰에 송치했다.&lt;br&gt;&lt;br&gt;자칫 수면 아래로 가라앉을 뻔했던 A 경감의 증거 인멸 의혹은 경찰청 본청이 움직이면서 다시 수면 위로 드러났다. 최근 광주경찰청에서 불거진 ‘장윤기 수사 비위 의혹’ 이후, 경찰청은 사건 관계인 중 경찰 가족이 연루된 사건에 대한 전수 조사를 지시했다.&lt;br&gt;&lt;br&gt;이 과정에서 일선 서에 해당 사건이 있었다는 사실이 드러나 A 경감에 대한 수사가 시작됐다. 전북경찰청은 지난주 A 경감 자택 등에 대한 압수수색을 진행했다. 경찰은 A 경감 부부의 휴대전화 등을 확보해 분석하고 있으며, 폐기된 아들의 범행 당시 휴대전화를 찾기 위한 수사도 진행 중이다. 현재 A 경감의 아들은 사건 이후 새 휴대전화를 개통하지 않은 상태인 것으로 전해졌다. 경찰 관계자는 “형법상 친족 특례 규정에 따라 직계혈족을 처벌할 수는 없지만, 혐의에 대한 입건은 가능하며 현재 의혹을 확인하는 수사 단계”라고 밝혔다. 이어 “초기 수사를 맡았던 완산서 수사팀과 A 경감 간의 유착 여부에 대해서도 혐의점이 있는지 들여다볼 예정이나, 현재까지 뚜렷하게 확인된 바는 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편, A 경감은 지난주 압수수색을 받은 직후 경찰 내부망에 자신에 대한 수사가 부당하다는 취지의 항변 글을 올린 것으로 확인됐다. 이를 두고 다수의 동료 경찰관들 사이에서도 부적절한 처사라는 비판이 쏟아지고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대선 허위 발언’ 尹 1심 집유에 항소...“사실오인·법리오해"</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/27/5E3FOOZNAJANXFQVW4BCK6ROPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/27/5E3FOOZNAJANXFQVW4BCK6ROPU/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 08:58:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2DSZDGGM3TINBSMEZGIYRSGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 서초구 서울중앙지방법원에서 윤석열 전 대통령의 공직선거법 위반 혐의 1심 선고가 진행되고 있다. 이날 법원은 윤석열에게 징역 1년 6개월에 집행유예 3년을 선고했다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제20대 대통령 선거에서 허위사실을 공표한 혐의(공직선거법 위반)로 1심에서 징역 1년 6개월에 집행유예 3년을 선고받은 윤석열 전 대통령이 항소했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 27일 “공직선거법 위반 사건과 관련해 사실오인, 법리오해 및 양형부당 이유로 항소장을 제출했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 조순표)는 이날 윤 전 대통령의 혐의를 모두 유죄로 보고 징역 1년 6개월에 집행유예 3년을 선고했다. 재판부는 “(토론회 등) 파급력이 큰 공개적인 자리에서 허위사실을 공표한 것은 죄질이 매우 무겁다”고 판단했다.&lt;br&gt;&lt;br&gt;민중기 특별검사팀은 윤 전 대통령을 제20대 대통령선거 기간 동안 두 차례 허위발언을 한 혐의로 작년 12월 기소했다. 윤 전 대통령은 2021년 12월 관훈클럽 초청 토론회에서 “2012년 검찰 재직 당시 윤대진 전 검사장의 형인 윤우진 전 용산세무서장에게 이남석 변호사를 소개한 사실이 없다”고 말했으며, 2022년 1월 한 행사장에서 진행한 기자들과의 질의응답에서 “‘건진법사’ 전성배씨를 아내와 만난 적 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이같은 발언을 모두 허위로 판단했다. 재판부는 “대통령이라는 최고 공직자 선출 과정에서 유력한 후보였던 피고인이 자신에게 유리하도록 허위 사실을 공표한 것“이라며 ”후보자 본인이 직접 토론회나 인터뷰 등 파급력이 큰 공개된 자리에서 허위사실을 공표하는 경우 선거인의 의사결정에 미치는 영향이 매우 크다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 선고 직후 “재판부에 오류가 많다”고 반박했다. 윤 전 대통령 측은 “재판부의 판단을 받아들인다”면서도 “공소시효가 만료된 사건을 특검법에 의해 수사하고, 죄까지 묻는 것은 제도의 취지에 맞지 않는다“고 말했다.&lt;br&gt;&lt;br&gt;1심에서 선고된 징역형 집행유예가 확정될 경우 국민의힘은 대선 선거 비용으로 보전받은 397억원을 중앙선거관리위원회에 전액 반환해야 한다. 공직선거법상 선거범죄로 후보자에게 벌금 100만원 이상의 당선무효형이 확정되면 정당은 보전받은 금액을 돌려줘야 한다. 윤 전 대통령 측은 이에 대해 “양당 모두 공직선거법 위반 혐의로 기소돼 있는데 반대편 정당에서는 재판이 중단돼 있다는 이유만으로 특별한 혜택을 받는 건 형평에 안 맞는다고 본다“고 말했다. &lt;br&gt;&lt;br&gt;이재명 대통령은 작년 5월 대법원에서 공직선거법 위반 혐의가 일부 유죄 취지로 파기환송됐다. 그러나 대통령에 취임하며 재판은 중단된 상태다. 이 대통령이 퇴임 후 이 혐의로 벌금 100만원 이상을 확정받으면, 더불어민주당도 선거 비용 약 434억원을 반환해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여주 하천서 발견된 ‘샴악어’… 30대 주인 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/27/2QJR3PC6CJE67DMDARZTXEV57I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/27/2QJR3PC6CJE67DMDARZTXEV57I/</guid>
+      <dc:creator>여주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 09:17:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2DGZBTGRQWIZRZGI2TCZTCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 여주시 소양천에서 발견된 샴악어. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 여주시 하천에서 발견돼 포획된 국제멸종위기종 1급 샴악어의 주인이 사건 발생 8일 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;여주경찰서는 야생생물 보호 및 관리에 관한 법률 위반 혐의로 30대 A씨를 형사 입건했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 인터넷 파충류 거래 카페에서 샴악어를 120만원에 사들여 택배로 받은 뒤 사육한 혐의를 받는다. 샴악어는 국제멸종위기종 1급으로 허가 없이 거래하거나 소유할 수 없다.&lt;br&gt;&lt;br&gt;해당 악어는 지난 18일 여주시 창동 소양천 변에서 주민 신고를 받고 출동한 소방 당국에 의해 포획돼 국립생태원으로 이송됐다.&lt;br&gt;&lt;br&gt;경찰은 탐문 수사 끝에 A씨를 특정했다. A씨는 “2주 전 마당에서 일광욕을 시키던 중 사라졌다”며 유기 의혹은 부인했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨 주거지에서 국제멸종위기종 2급인 악어거북도 발견했으며, 판매자를 추적하는 등 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢 진상조사단 “김용 사건기록 달라”... 대법원 다시 거부</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/27/YHTK6EEEGZAMHEMPWQ5R36GKGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/27/YHTK6EEEGZAMHEMPWQ5R36GKGE/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 08:31:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3TQMTEHBRDQOLBGRRDAZDGGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호(가운데) 법무부 장관이 지난 6월 10일 ‘검찰인권존중미래위원회’ 발족식에서 위원들과 기념 촬영을 하고 있다. 왼쪽부터 이동연 법무법인 이작 대표 변호사, 황선기 대한변호사협회 인권위원, 위원장을 맡은 장주영 전 민주사회를위한변호사모임(민변) 회장, 정 장관, 김혜경 계명대 경찰행정학과 교수, 김진수 법무법인 예강 변호사, 오창익 인권연대 사무국장. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰의 과거 수사권 남용 의혹을 조사하겠다며 출범한 법무부 검찰인권존중미래위원회(검찰미래위) 산하 진상조사단(조사단)이 대법원에 김용 전 민주연구원 부원장 사건 기록을 열람·복사하게 해 달라고 재요청했지만, 대법원이 다시 거부한 것으로 27일 확인됐다.&lt;br&gt;&lt;br&gt;법조계에 따르면 김 전 부원장 금품 수수 사건 상고심을 심리 중인 대법원 1부(주심 서경환 대법관)는 사건 기록을 열람하게 해 달라는 조사단의 요청을 지난주 불허했다. 불허 통지서는 이날 조사단에 전달됐다고 한다.&lt;br&gt;&lt;br&gt;조사단은 지난 2일에도 대법원에 김 전 부원장 사건 기록 열람을 요청했지만 대법원은 불허했다. &lt;br&gt;&lt;br&gt;법조계에서는 조사단이 확정 판결이 나오지 않은 김 전 부원장 사건 기록을 법원에 요구하는 것은 “노골적인 재판 개입”이라는 비판이 나온다. 형사소송법은 재판이 진행 중인 사건의 기록은 피고인과 변호인만이 열람·등사를 신청할 수 있도록 제한돼 있다. 조사단은 대검 지침을 근거로 수사 및 공판 기록을 수집하고, 증거 자료도 압수할 수 있다고 주장하고 있다.&lt;br&gt;&lt;br&gt;김용 전 부원장은 2021년 유동규 전 성남도시개발공사 기획본부장, 정민용 변호사 등과 공모해 대장동 민간업자 남욱씨에게 이재명 대통령의 민주당 대선 경선 자금 명목으로 8억4700만원을, 유 전 본부장에게 개인적 뇌물 1억9000만원을 각각 받은 혐의로 2022년 11월 재판에 넘겨졌다. 1·2심 모두 징역 5년, 벌금 7000만원, 추징금 6억7000만원을 선고받고 법정구속됐으나, 작년 8월 상고심 중 보석이 인용돼 현재 불구속 상태로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장윤기, 휴대폰에 ‘여성과 대화 녹음 블랙박스 파일’ 보관… “왜곡된 性 인식 증거”</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/27/BL7MWBXUFJEUXNXGVCB4ABTMCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/27/BL7MWBXUFJEUXNXGVCB4ABTMCA/</guid>
+      <dc:creator>전남광주=진창일 기자, 전남광주=원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 08:52:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRDQOBTGVTDGZRZGNSTSMDEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도심에서 일면식도 없는 10대 여고생을 살해한 장윤기(24)가 지난 5월 14일 전남광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 여고생 살인사건 세 번째 재판에서 살해범 장윤기(24)가 여성 지인들과 나눈 대화가 녹음된 차량 블랙박스 파일이 법정 증거로 제출됐다. 장이 주기적으로 블랙박스에서 휴대전화로 옮겨 보관해 온 것으로 드러났다. 피해자 유족 변호인은 “왜곡된 성(性) 인식을 보여주는 증거”라고 지적했다.&lt;br&gt;&lt;br&gt;광주지법 형사13부(재판장 이정호)는 27일 성폭력범죄의 처벌 등에 관한 특례법상 ‘강간 등 살인’ 등 혐의로 구속 기소된 장윤기의 3차 공판을 열었다.&lt;br&gt;&lt;br&gt;재판부는 이날 검찰이 장의 휴대전화 포렌식을 통해 확보한 음성 파일과 소셜미디어(SNS) 대화 등 185개 증거에 대한 조사를 했다. 장의 왜곡된 성적 인식을 입증하기 위해 검찰이 법원에 제출한 증거들이다.&lt;br&gt;&lt;br&gt;피해 여고생 이모(16)양 유족 변호인은 재판이 끝난 뒤 “오늘 재판에 장이 여성 지인들과 나눈 대화가 녹음된 블랙박스 음성 파일이 새로운 증거로 제출됐다”며 “대화 내용은 평이했지만, 장이 여성과 대화 녹음 파일을 주기적으로 휴대전화로 옮겨놨다는 점에서 왜곡된 성인식을 볼 수 있는 증거”라고 말했다.&lt;br&gt;&lt;br&gt;검찰은 장이 고교 1학년이던 2019년 겨울방학쯤부터 동창과 나눈 SNS 대화도 증거로 냈다. 검찰은 장이 ‘인생 망하면 봉고차로 여고생을 납치하겠다’고 말한 것을 휴대전화 포렌식을 통해 확인했다.&lt;br&gt;&lt;br&gt;장 측은 검찰이 제출한 SNS 대화의 증거 능력에는 동의했지만, 범행과 관련성 및 검찰의 입증 취지는 부인했다. “강간 등 살인이라는 검찰 공소 사실을 부인하는 것은 아니지만, 연관성은 떨어진다”는 것이다.&lt;br&gt;&lt;br&gt;장의 국선 변호인은 이날 재판 도중 “제출된 대화록은 증거로 동의하지만, 피고인은 고교 시절 소극적이었다”며 “제출된 동창들의 SNS 대화를 살펴보면 피고가 먼저 나서서 음담패설하기보다는 상대방이 먼저 한 말에 호응하는 모양새였다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서도 “양형에 불리할 수 있는 대화를 했다는 것에 대한 부인은 아니다”라고 말했다. 변호인은 SNS 대화의 사실관계는 맞으나 일부 발언의 발신자와 수신자가 뒤바뀌어 있어 이를 구분해 달라는 요청도 했다.&lt;br&gt;&lt;br&gt;장의 다음 재판은 오는 8월 31일 오후 2시에 열린다. 법원은 이어지는 재판에서 장에 대한 피고인 심문을 할 예정이다. 검찰은 장의 강간 목적 살인 혐의를 입증할 증거로 경찰이 압수하지 않은 ‘케이블 타이’를 추가 증거로 제출할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GVRDQOBTGVTDGZRZGNSTSMDEMQ.jpg?auth=bee7ff360682703457dfb76117cf60590af36bf3ac84f2ee09ae47010a3727e2&amp;smart=true&amp;width=2496&amp;height=1712" type="image/jpeg" height="1712" width="2496">
+        <media:description type="plain">도심에서 일면식도 없는 10대 여고생을 살해한 장윤기(24)가 지난 5월 14일 전남광주 서부경찰서에서 검찰로 송치되고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>특검 ‘계엄 직무 유기’ 조태용 항소심서 징역 7년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/27/D7HEBZS76FHRHCBEJQWG2MJVPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/27/D7HEBZS76FHRHCBEJQWG2MJVPE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 08:45:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TSZTBMRRDOYZWGVSTIMDFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가정보원장. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특별검사팀이 12·3 비상계엄 당시 ‘정치인 체포 지시’를 보고받고도 이를 묵살하는 등 국가정보원장의 직무를 유기한 혐의 등을 받는 조태용 전 국정원장에게 1심과 같이 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 27일 직무유기, 국정원법 위반 등 혐의로 기소된 조 전 원장의 항소심 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;조 전 원장은 2024년 12월 3일 홍장원 전 국정원 1차장으로부터 이재명 당시 더불어민주당 당대표, 한동훈 당시 국민의힘 당대표 등 ‘주요 정치인 체포 지시’ 보고를 받고도 이를 국회에 알리지 않은 혐의(직무유기)로 기소됐다. 홍 전 차장의 동선이 담긴 국정원 내부 CCTV 영상을 국민의힘에 제공한 혐의(국정원법 위반)를 비롯해 작년 2월 윤석열 전 대통령의 탄핵심판 변론기일에서 “대통령으로부터 계엄 관련 문건을 전달받은 바 없다”며 허위 증언한 혐의(위증), 이 같은 내용을 국정원 명의 공문서에 담아 국회에 제출한 혐의(허위공문서 작성·행사) 등도 있다.&lt;br&gt;&lt;br&gt;1심은 지난 5월 이중 위증과 허위공문서 작성 및 행사 혐의 일부만 유죄로 보고 징역 1년 6개월을 선고했다. 재판부는 다른 혐의에 대해선 “증거가 충분하지 않다”며 무죄로 판단했다.&lt;br&gt;&lt;br&gt;특검은 이날 “피고인은 비상계엄을 정당화하고 (윤석열 전 대통령의) 정치인 체포 지시 사실을 정당화하려 했다”며 1심과 같이 징역 7년을 선고해 달라고 재판부에 요청했다. 특검은 핵심 혐의인 직무유기 혐의에 대해 “피고인은 국회가 무력화되는 등 중대한 영향을 미칠 수 있는 사실을 보고받았고, 누구에게든 연락해 구체적 의무를 할 수 있었다”며 “홍장원 전 차장의 요청마저 외면하며 국회에 보고 의무를 포기했다”고 했다. 국정원법 위반 혐의에 대해서도 “자신의 지위를 이용해 정치 관여 행위를 한 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;조 전 원장 측은 혐의를 부인했다. 조 전 원장 측은 “국정원이 출처가 확인 안 된 단편적인 말을 들을 때마다 보고의무를 부담하면 정상 업무가 불가능하다”며 “해당 혐의를 유죄로 보기 위해선 검사가 증명해야 할 중요한 단계들이 남아 있다”고 했다. 다른 혐의들에 대해서도 “특검 측이 구체적으로 밝히지 못했다”며 특검 측 주장을 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘살인 폭염’에 경남서 세번째 사망자 발생… 가축 피해도 눈덩이</title>
+      <link>https://www.chosun.com/national/2026/07/27/ZPMDE5HNNNHH3N3SL5ZHOYJJWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/27/ZPMDE5HNNNHH3N3SL5ZHOYJJWE/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 08:41:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5T42PP74VLLPPLDKPF5OQQZWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 경남 밀양시 상동면 한 딸기 농가에서 한 농민이 물을 마시고 있다. 이날 오후 1시 20분 기준 밀양시 내이동 기온은 38도까지 치솟았다. 밀양에는 폭염중대경보가 발효됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역에 극한 폭염이 덮치면서 온열 질환 사망자가 늘고 있다. 2008년 폭염 특보 도입 이후 18년 만에 신설된 최상위 경고 단계인 ‘폭염 중대 경보’가 도내 9개 시군에 발효된 가운데 가축 1만여 마리가 폐사하는 등 피해도 눈덩이처럼 불어나고 있다.&lt;br&gt;&lt;br&gt;27일 경남도와 경남소방본부에 따르면, 전날 오전 7시쯤 하동군 청암면의 한 주택에서 의식을 잃고 쓰러진 80대 여성 A씨가 병원으로 이송돼 치료를 받던 중 이날 새벽 2시쯤 끝내 숨졌다. 경남도는 A씨가 온열 질환으로 숨진 것으로 추정하고 있다. 이로써 경남에서는 올여름 들어 온열 질환으로 세 명이나 목숨을 잃었다. &lt;br&gt;&lt;br&gt;앞서 지난 22일에는 고성군의 한 비닐하우스에서 90대 여성이, 25일에는 사천시 한 논에 나갔던 90대 남성이 각각 온열 질환으로 숨졌다. &lt;br&gt;&lt;br&gt;27일 기준 전국 온열 질환 사망자 8명 중 3명이 경남에서 나왔다. 이날 밀양의 최고기온이 38.5도까지 치솟았고, 양산과 의령도 38.0도를 기록했다. 현재 김해·밀양·양산·의령·진주·창녕·창원·함안·합천 등 9개 시군에 폭염 중대 경보가 발효 중이다. 폭염 중대 경보는 일 최고 체감 온도가 이틀 연속 35도 이상인 지역에서, 체감 온도가 38도 또는 최고기온이 39도 이상으로 올라 극단적 더위가 예상될 때 내려지는 최상위 조치다.&lt;br&gt;&lt;br&gt;지난 27일까지 경남 내 누적 온열 질환자 수는 122명이다. 실내(27명)보다 실외(95명)에서 많이 발생했다. 연령대별로는 30대와 60대가 각각 24명으로 가장 많았다. 뒤이어 50대와 80대가 19명씩이었다. &lt;br&gt;&lt;br&gt;기록적인 ‘가마솥더위’에 농가의 시름도 깊어지고 있다. 폭염을 견디지 못한 돼지 3291마리와 닭 8830마리 등 총 1만 2121마리의 가축이 폐사한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;폭염 피해가 속출하자 지자체들은 피해 예방을 위해 사투를 벌이고 있다. 27일 오후 경남 함안군 백암마을에서는 면사무소 직원이 1t 트럭을 몰고 다니며 “어르신들께서는 낮 시간대 가급적 외출을 자제해달라”며 가두방송(街頭放送)을 진행했다. 함안군 관계자는 “하루 두 차례 재난 안내 방송을 하고 있고, 마을별로 이장들이 마을 방송도 하고 있다”며 “여기에 폭염 취약 시간대에 읍면에서 수시로 방송 장비가 달린 차량으로 어르신들이 논밭 등 야외에 나오셨는지 살피고 있다”고 말했다. &lt;br&gt;&lt;br&gt;창원시는 체감 온도가 30도 이상으로 예상될 때 농촌 지역 야외 작업장을 중심으로 드론을 띄우고 있다. 주로 폭염 취약 시간대인 오전 11시부터 오후 5시까지 운용한다. 드론에 탑재된 스피커로 논·밭, 비닐하우스 등 야외 작업 현장에 주민을 발견하면 “무더위 시간대 작업을 자제하고, 충분한 수분 섭취와 휴식을 취해달라”는 안내 방송을 하는 식이다. &lt;br&gt;&lt;br&gt;기업체들도 폭염 나기에 안간힘이다. 한화오션은 무더위가 심한 7월 말부터 용접·도장 등 폭염에 취약한 현장 작업자 2300명에게 에어 재킷을 지급했다. 에어 재킷은 작업자의 체온 상승을 억제하기 위한 일종의 개인 냉각 장비다. 재킷 자체에 연결된 호스에 공기압축기(에어컴프레서)를 연결, 공기를 옷 안으로 지속적으로 공급해 공기를 순환시키는 방식으로 작동한다. &lt;br&gt;&lt;br&gt;이 과정에서 땀의 증발을 촉진해 체온을 낮추고, 작업 중 발생하는 열과 습기를 외부로 배출해 작업복 내부 체온을 쾌적하게 유지하는 효과가 있다고 한다. 작업 인원이 급증하거나, 폭염에 취약한 사업장에는 냉방 버스를 사업장 주변에 배치해 휴식을 취할 수 있도록 돕는다. 한화오션 관계자는 “직영·협력사 생산직 모든 근로자에게 식염포도당을 1인당 10~30정 지급하고 있으며, 주 1회 닭백숙과 돈갈비찜 등 보양식을 제공해 체력이 떨어지지 않도록 돕고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴가철 인천공항 가장 붐비는 날은 8월 2일 ‘23만명’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/07/27/BTBWW63YRJGPRH66W674TQWHAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/27/BTBWW63YRJGPRH66W674TQWHAE/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 07:39:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3DGYRRMQ2WCNZTMRRWMZRRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이용객 많은 인천공항 출국장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름 휴가철(25일~8월 10일) 인천공항이 가장 붐비는 날은 다음달 2일이 될 전망이다. 27일 인천공항공사는 8월 2일 23만4273명 이용객이 공항을 이용할 것이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;인천공항공사에 따르면 휴가철 동안 하루 평균 22만2000명, 총 377만명이 인천공항을 이용할 것으로 전망된다. 이는 지난해 같은 기간(370만명)보다 1.9%가량 늘어난 수치다. 공사 관계자는 “내국인 해외 여행 수요는 설·추석 연휴에 몰리는 경향을 보이고 있지만, 7~8월은 외국인 방한 수요가 늘면서 공항 혼잡이 발생할 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;공사는 출국장 혼잡을 줄이기 위해 주요 출국장을 평시 대비 30분 일찍 개장하고, 보안 검색 장비를 최대 44대(1터미널 19대, 2터미널 25대)가동하기로 했다. 미리 등록한 생체 정보로 체크인 등이 가능한 스마트 패스 전용 출국장은 기존 4곳에서 5곳으로 확대하며, 안내 인력도 120여명을 투입할 예정이다.&lt;br&gt;&lt;br&gt;외국인 관광객 입국 혼잡을 줄이기 위해 제1여객터미널 3층에서는 음성 4개 국어, 문자 12개 국어를 지원하는 안내 키오스크, 다국어 안내가 가능한 자율주행 안내 로봇을 운영한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 7월 28일 화요일 (음력 6월 15일 癸卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/27/JPWMMG5UFFH5BFQUBUB5HM6LS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/27/JPWMMG5UFFH5BFQUBUB5HM6LS4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>尹측 “재판부 판단에 오류 많아, 항소할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/27/V6ZIGC3G4FFKHNP7DGWBP2OUKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/27/V6ZIGC3G4FFKHNP7DGWBP2OUKQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 06:51:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YN6ATIUCBJOZXMIJEYMZT7FCAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대선후보 시절 건진법사 전성배씨에 관한 허위사실을 공표한 혐의로 기소된 윤석열 전 대통령 1심 선고 공판이 열린 27일 서울역에서 시민들이 관련 방송을 지켜보고 있다. 이날 재판부는 윤 전 대통령에게 징역 1년 6개월에 집행유예 3년을 선고했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 제20대 대선 후보 시절 “건진법사 전성배씨를 김건희 여사와 만난 적이 없다”는 등의 허위 사실을 공표한 혐의로 27일 징역 1년 6개월에 집행유예 3년을 선고받자, 윤 전 대통령 측은 “재판부 판단에 오류가 많다”며 “항소할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 윤 전 대통령 측은 “재판부의 판단을 받아들인다”면서도 “법리적인 부분과 사실관계 판단 등에 오류가 많다고 생각한다”고 항소의 뜻을 밝혔다. 윤 전 대통령 측은 “공소시효가 만료된 사건을 특검법에 의해 수사하고, 죄까지 묻는 것은 제도의 취지에 맞지 않는다”고도 했다. 형이 확정되면 국민의힘은 대선 선거 비용으로 보전받은 397억원을 중앙선거관리위원회에 전액 반환해야 하는데, 이 점에 대해서는 “양당 모두 공직선거법 위반 혐의로 기소돼 있는데 반대편 정당에서는 재판이 중단돼 있다는 이유만으로 특별한 혜택을 받는 건 형평에 안 맞는다고 본다”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 조순표)는 공직선거법 위반 등 혐의로 기소된 윤 전 대통령에게 징역 1년 6개월에 집행유예 3년을 선고했다. 윤 전 대통령은 대선 후보 시절인 2021년 12월~2022년 1월 허위 사실을 두 번 공표한 혐의를 받는다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 관훈클럽 초청 토론회에서 “윤우진 전 세무서장에게 이모 변호사를 소개한 사실이 없다”고 발언했다. 윤대진 당시 대검 첨단범죄수사과장의 친형이던 윤 전 서장은 2012년 뇌물 수수 혐의로 경찰 수사를 받았으나 검찰에서 압수수색 영장을 6번 반려하는 등 수사가 제대로 이뤄지지 않았는데, 당시 대검 중앙수사부 중수1과장이었던 윤 전 대통령이 윤 전 서장에게 변호사를 소개해줬다는 의혹이 불거졌었다. 윤 전 대통령 측은 “실질적인 소개 주체는 윤대진 전 검사장이고 윤 전 대통령은 이미 결정된 사실을 사후적으로 전달받은 것”이라고 주장했다. 그러나 이날 재판부는 윤 전 대통령이 변호사 소개 행위를 했다고 판단했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 불교리더스포럼 출범식 인터뷰에서 “건진법사 전성배씨를 김건희 여사가 만난 적 없다”는 취지로 발언하기도 했다. 윤 전 대통령 측은 “선거 캠프에서 당 관계자에게 전씨를 소개받았을 당시 김 여사가 동석하지 않았다는 의미였다”고 주장했지만, 재판부는 “당시 윤 전 대통령에게 무속 논란이 있던 상황에서, 이러한 발언은 윤 전 대통령 부부와 전씨가 전혀 만난 사실이 없다는 인상을 주기 충분하다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“안 사도 되니 쉬었다 가세요”... 무더위에 ‘피서 도우미’ 자처하는 시민들</title>
       <link>https://www.chosun.com/national/national_general/2026/07/27/ZTOGWEA7UNGTPFPDTKKDQK3ZEQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/27/ZTOGWEA7UNGTPFPDTKKDQK3ZEQ/</guid>
@@ -455,15 +581,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3USPWLN77JDDBPOW3HZYUAD6UA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통마늘 뿌리 부분을 칼로 잘라낸 뒤 전자레인지에 넣고 약 20초간 돌려보자. 알맹이가 잘 빠져나와 껍질을 손쉽게 깔 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2026년 7월 27일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/07/27/SS5DKTPZXVD3FG436BOSUG6CUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/27/SS5DKTPZXVD3FG436BOSUG6CUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 15:40:00 +0000</pubDate>
-      <content:encoded>오전부터 수도권·강원에 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TMGYMYSPNEYXEANRDYA3NCT2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [꼭 읽어야하는 고전] 쾌락은 무엇을 즐길 때 생기지 않아… 고통·두려움 벗어난 ‘평정’ 의미해요</title>
       <link>https://www.chosun.com/national/nie/2026/07/27/5LXXHQJPKFFZ7HUWPWETBIA6SY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/27/5LXXHQJPKFFZ7HUWPWETBIA6SY/</guid>
@@ -494,51 +611,6 @@
       </media:content>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2915] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2026/07/27/QPJN2W4N6RCKLJ3TABEFEFBW44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/27/QPJN2W4N6RCKLJ3TABEFEFBW44/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCMUGOC3QFCGLCFUBZRGUWDCD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 손실 상태에서 벗어나다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/07/27/WJGUK6QAAJDJ3AWB4ZQCOKU4PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/07/27/WJGUK6QAAJDJ3AWB4ZQCOKU4PQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFDJMNU525EBNCTMOPV2FEATVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 증거인멸(證據湮滅)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/07/27/5DS3R7A4RBBEBE3VDTDOGJ7WJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/27/5DS3R7A4RBBEBE3VDTDOGJ7WJA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NCQ5GES6JER7IQHDNHQGJ35YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] start with a clean slate</title>
-      <link>https://www.chosun.com/national/nie/english/2026/07/27/VYE75S455VEKJA3HH4ZY4LRELY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/07/27/VYE75S455VEKJA3HH4ZY4LRELY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HSJHNCRKJDPTADTEQS3RP57ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] (생각이) 머릿속을 떠나지 않다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/07/27/H5OASOKZDRDMTHV4E6LKCNBRSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/07/27/H5OASOKZDRDMTHV4E6LKCNBRSA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2CKD2U6QJFAHIERO7R6SRAKZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정성호 이어 구자현도 사퇴설... 대검은 “거취 고민 단계 아니다”</title>
       <link>https://www.chosun.com/national/court_law/2026/07/26/W6IBPSCNSNEO7E2XIPQLYVD6DI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/26/W6IBPSCNSNEO7E2XIPQLYVD6DI/</guid>
@@ -546,18 +618,6 @@
       <description/>
       <pubDate>Sun, 26 Jul 2026 12:42:51 +0000</pubDate>
       <content:encoded>정성호 법무부 장관이 사의를 밝힌 데 이어 구자현 검찰총장 직무대행도 사퇴할 수 있다는 관측이 법조계와 정치권에서 나오고 있다. 더불어민주당이 검사의 보완수사권을 전면 폐지하는 형사소송법 개정안을 당론으로 확정하고 이달 안 처리를 추진하면서 법무부와 검찰 수뇌부의 동반 공백 가능성이 거론되는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3GKYRZHBTDQMJQGMYTIOLCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부장관(오른쪽)과 구자현 검찰총장 직무대행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법조계에서는 구 직무대행이 법안의 국회 본회의 통과 여부와 최종 내용을 지켜본 뒤 거취를 정할 수 있다는 말이 나왔다. 지난해 7월 심우정 전 검찰총장이 사퇴한 뒤 검찰이 1년 넘게 직무대행 체제로 운영된 상황에서 구 직무대행마저 물러날 경우 조직 안정과 법 개정 후속 대응에 차질이 불가피하다는 우려도 제기됐다.&lt;br&gt;&lt;br&gt;정 장관은 그동안 경찰이 불송치한 사건을 검찰이 다시 살필 수 있도록 보완수사권과 전건송치 제도를 유지해야 한다는 입장을 밝혀 왔다. 그러나 민주당이 보완수사권 폐지와 함께 사회적 약자 대상 7대 범죄에 한해서만 전건송치를 허용하기로 하자, 장관직을 내려놓고 당으로 돌아가 의견을 내기로 한 것 아니냐는 해석이 나온다. 정 장관도 최근 “더 이상 장관으로서 할 일도, 의지도 없다”며 당에서 역할을 하겠다는 뜻을 내비쳤다고 한다.&lt;br&gt;&lt;br&gt;검찰 내부에서는 법무부 장관과 검찰총장 직무대행이 동시에 자리를 비울 경우 법안 처리 과정에서 검찰의 입장을 전달할 공식 창구가 사라질 수 있다는 우려가 나온다. 일선에서는 7대 범죄에 포함되지 않는 권력형·뇌물 사건을 경찰이 불송치할 경우 검찰이 이를 파악할 방법이 없어질 수 있다는 비판도 제기되고 있다. 수뇌부가 법안의 문제점을 보다 분명하게 밝히고 책임 있는 대응에 나서야 한다는 요구도 있다.&lt;br&gt;&lt;br&gt;다만 대검 관계자는 “현재는 거취를 전혀 고민하고 있는 단계가 아니다”라고 밝혔다. 현재까지 구 직무대행이 내부적으로 사퇴 의사를 밝히거나 구체적인 퇴진 시점을 검토한 사실은 없다는 취지다.&lt;br&gt;&lt;br&gt;민주당은 개정안을 27~28일 국회 법제사법위원회 법안소위에서 심사한 뒤 이르면 30일 본회의에서 처리할 방침이다. 정 장관의 사표 수리 여부와 구 직무대행의 거취 문제도 법안의 최종 내용과 처리 과정에 따라 다시 불거질 가능성이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경남 양산 39.3도... 밭일 여성 또 사망, 25만 가축 폐사</title>
-      <link>https://www.chosun.com/national/2026/07/26/CZENQXBYXJE25DUC263VLK7XP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/26/CZENQXBYXJE25DUC263VLK7XP4/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 12:17:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2K4OTSOVNM3PHB56ZHPMQMAAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연일 폭염이 이어지는 26일 대구 중구 달구벌대로에 지열로 인한 아지랑이가 피어오르고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 40도에 육박하는 ‘가마솥더위’가 전국을 덮치면서 주말 사이 온열질환 추정 사망자가 속출했다. 체온이 42도를 넘나드는 극한의 폭염 속에 밭일을 하던 100세 노인이 숨지고, 야외 작업자와 외국인 근로자 등이 잇따라 쓰러지는 등 폭염이 ‘재난’ 수준으로 치닫고 있다.&lt;br&gt;&lt;br&gt;26일 기상청과 각 지자체 소방 당국에 따르면, 7월의 마지막 주말과 휴일 폭염의 기세가 거세지며 인명 피해가 잇따랐다. 경남 양산은 낮 최고기온이 39.3도까지 올랐다. 양산에서 기상 관측이 시작한 2008년 이후 가장 더웠다. 양산뿐만 아니라 강원 산간을 빼고 전국이 펄펄 끓었다. &lt;br&gt;&lt;br&gt;특히 전남·경북·경남·대구 등 남부지방을 중심으로 폭염 중대 경보가 발령됐다. 폭염 중대 경보는 체감온도가 38도를 넘거나, 최고기온이 39도를 넘을 것으로 예상될 때 발령한다.&lt;br&gt;&lt;br&gt;이날 오전 4시 4분쯤 전북 완주군 봉동읍의 한 밭에서는 100세 여성이 숨진 채 발견됐다. 소방 당국에 따르면 발견 당시 이 여성의 체온은 42.2도에 달했다고 한다. 폭염주의보가 내려진 완주군의 이날 낮 최고기온은 34.7도였다. &lt;br&gt;&lt;br&gt;앞서 25일에는 전남 해남군 황산면 밭길에서 태국 국적의 30대 외국인 근로자가 어지럼증을 호소하며 쓰러진 뒤 구조됐으나 끝내 숨졌다. 땡볕 아래서 밭일을 하던 중 어지럼증을 호소한 뒤 휴식을 위해 집으로 가는 중에 쓰러진 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경남 사천에서는 지난 23일 93세 남성이 논에서 쓰러진 것을 가족들이 발견했다. 이 남성은 인근 병원으로 옮겨져 치료를 받았지만, 25일 끝내 숨졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCKKKF2E5BH2PCMY3KZAUZ5JCA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 기승을 부린 26일 오후 부산 해운대해수욕장에서 피서객들이 물놀이를 하며 더위를 식히고 있다. 이날 부산 지역 낮 최고 기온 36도를 기록했다./20260726 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오후 1시쯤 전남 화순군 한 고추밭에서 80대 남성이 쓰러져 구조되기도 했다. 이 남성을 발견할 당시 체온은 40.4도에 달했다고 한다. 보건 당국은 이 남성이 온열질환으로 쓰러진 것으로 보고 경위를 확인하고 있다. &lt;br&gt;&lt;br&gt;질병관리청에 따르면 지난 25일까지 전국적으로 1301명의 온열질환자가 발생했다. 이 중 6명이 사망한 것으로 집계됐다. 26일 추가된 사망자와 사상자를 포함하면 피해 규모는 더욱 커질 전망이다. &lt;br&gt;&lt;br&gt;온열 질환자 발생 장소를 보면 논·밭이나 실외 작업장 등 야외가 압도적으로 많았으며, 해상 선박 작업이나 건설 현장 등에서도 쓰러지는 사례가 잇따랐다.&lt;br&gt;&lt;br&gt;가축 폐사 등 재산 피해도 눈덩이처럼 불어나고 있다. 행정안전부 국민안전 관리 일일 상황에 따르면, 25일까지 폭염으로 가축 25만5876마리가 폐사했다. 대부분 닭 등 가금류였다. 축산 농가들은 축사에 환풍기와 쿨링패드를 가동하고 수시로 얼음을 공급하는 등 피해 최소화에 나섰지만, 극한 폭염에 피해가 커지는 상황이다.&lt;br&gt;&lt;br&gt;사태가 심각해지자 각 지자체는 비상 체계를 가동하며, 총력 대응에 나섰다. 폭염 중대 경보가 도내 전역으로 확대되고 있는 경남도는 폭염 위기 경보를 ‘심각’ 단계로 격상하고 20개 관계 부서가 참여하는 재난안전대책본부(비상 1단계)를 가동했다. 충북도 역시 공무원 180여 명이 비상근무에 돌입하고 1만 2900여 명의 재난 도우미를 투입해 독거노인 등 취약 계층 수시 관리에 나섰다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “당분간 전국 대부분 지역에서 한낮 기온이 35도를 넘는 폭염이 예상된다”며 “가장 더운 한낮에는 필수 업무 외 야외 활동을 자제하고, 충분한 수분 섭취 등 건강 관리에 유의해달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GIYWKOBUMJQTGZBSMQ2TMZDBGM.jpg?auth=2462165ecce44d8efe6d1238feb15d535cfe8f3ebc176397a951949a22cd91df&amp;smart=true&amp;width=4565&amp;height=3157" type="image/jpeg" height="3157" width="4565">
-        <media:description type="plain">'염소뿔도 녹인다'는 절기 대서(大暑)를 하루 앞둔 22일 오전부터 대구 전역에 폭염경보가 발효된 가운데 달구벌대로에서 자전거를 타던 시민이 물을 마시고 있다. 대구시는 안전안내문자를 통해 기상상황에 유의해 낮 야외활동을 자제하고, 충분한 수분 섭취와 휴식 등 건강관리에 유의할 것을 당부했다. 2026.7.22 ⓒ 뉴스1 공정식 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>경찰의 ‘올다르크’ 구속영장 사유 “건강, 해외여행 경험... 도주 우려”</title>
@@ -569,15 +629,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT5UGQWM7VKP7JH7WN5Y67DOAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 올림픽공원 핸드볼경기장 개표소 현장에서 체육단체 관계자들의 출입을 막아 업무방해 혐의를 받는 '올다르크' 여성이 서울동부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체육단체 관계자들의 서울 송파구 잠실 개표소 출입을 막아 소셜미디어(SNS)에서 ‘올다르크(올림픽공원 잔다르크)’로 불리는 30대 여성 A씨에 대한 구속영장이 법원에서 기각됐다. 경찰은 검찰에 낸 영장 신청서에 A씨의 ‘해외여행 경험’ 등을 이유로 들어 구속이 필요하다고 주장했다. 법조계에선 구속 사유가 억지스럽다는 지적이 나온다.&lt;br&gt;&lt;br&gt;26일 본지가 입수한 경찰의 A씨 구속영장 신청서를 보면 서울 송파경찰서는 “A씨는 현재 30세에 불과해 도주의 지장이 있는 질병이 없고, 해외여행 경험이 있어 언제든 해외 등 무연고지로 도피가 가능하다”고 했다. 건강하고 해외 여행 경험이 있어 도피 우려가 있다는 주장이다.&lt;br&gt;&lt;br&gt;하지만 A씨 측에 따르면, A씨의 해외여행 경험은 9년 전인 2017년 7월 가족 여행으로 동남아시아를 다녀온 게 전부였다. 경찰이 A씨의 한 차례의 여행 경험과 건강하다는 점을 이유로 ‘해외 도피 우려’를 주장한 것이다.&lt;br&gt;&lt;br&gt;이 같은 사정 등을 종합해 서울동부지법 서범준 영장전담 부장판사는 “증거 인멸 및 도주의 우려가 인정되지 않는다”며 지난 21일 A씨에 대한 구속 영장을 기각했다.&lt;br&gt;&lt;br&gt;법조계에선 “젊음, 건강, 해외여행 경험 등 가치 중립적인 사정을 도주 여건으로 평가해서는 곤란하다”는 지적이 나왔다. 한 판사 출신 변호사는 “구속영장에 그럴듯한 문장을 가져다 붙이는 잘못된 관행을 깰 때가 됐다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난달 16일 서울 올림픽공원 핸드볼경기장 2-1 출입구 통행을 2시간쯤 혼자 막아 대한체육회 산하 체육단체 직원들의 업무를 방해한 혐의를 받는다. 당시 현장을 찾은 국회의원과 체육단체 직원들은 함께 경기장에 들어가 업무에 필요한 최소한의 장비를 챙겨 나오기로 합의했지만, A씨가 출입문에서 비켜서지 않으면서 끝내 무산됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘여중생 성매매 혐의’ 최영중 전 청주시의원 경찰 2차 조사 </title>
-      <link>https://www.chosun.com/national/2026/07/26/EJ62MZGDTJBI7DBBV3ZCTOIZ5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/26/EJ62MZGDTJBI7DBBV3ZCTOIZ5Q/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 10:50:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSGCZBVGY3WEM3FGJTGENTEGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최영중 청주시의원. /청주시의회 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 미성년자 성매매 혐의를 받는 최영중 전 청주시의원을 소환해 조사했다.&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면 최 전 의원은 이날 오후 2시쯤 청주청원경찰서에 피의자 신분으로 출석해 4시간가량 조사를 받은 것으로 전해졌다. 최 전 의원은 아동·청소년의 성보호에 관한 법률상 미성년자 의제강간, 성착취물 제작, 성매매 권유 등 혐의를 받는다.&lt;br&gt;&lt;br&gt;최 전 의원이 경찰에 소환돼 조사받는 것은 지난 5월에 이어 두 번째다. 지난 15일 시의회와 주거지 등에 대한 압수수색이 이뤄진 이후로는 처음이다.&lt;br&gt;&lt;br&gt;경찰은 최 전 의원을 상대로 피해 여중생에게 나체 사진을 요구한 사실이 있는지 등을 추궁한 것으로 전해졌다. 또 추가 가해 여부를 비롯해 관련 범행 전반에 대해 조사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;최 전 의원은 지난 5월 첫 조사에서는 “미성년자인 줄 몰랐다”며 혐의를 부인한 바 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 사안이라 구체적인 내용은 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;최 전 의원은 2024년 10월부터 지난해 10월까지 채팅 앱으로 알게 된 여중생을 꾀어 차량과 모텔 등에서 2~3차례 성관계를 하고, 성 착취물을 제작한 혐의 등으로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 청주시의회 의원실과 지역구 사무실, 자택 등을 압수·수색하며 강제 수사에 나섰다. &lt;br&gt;&lt;br&gt;최 전 의원은 지난 1일 취임했지만 경찰 수사 사실이 알려지면서 지난 16일 의원직에서 물러났다. 국민의힘 충북도당은 20일 최 전 의원을 제명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강원 해수욕장서 잇단 수난 사고… 3명 심정지</title>
       <link>https://www.chosun.com/national/regional/2026/07/26/4BV5TRLLENHY5M7OQ5WU6LG6MA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/26/4BV5TRLLENHY5M7OQ5WU6LG6MA/</guid>
@@ -587,15 +638,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AMGSDX2IFCHRG6X5GQRFEPXX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 내 해수욕장에서 수난 사고가 잇따라 발생했다.&lt;br&gt;&lt;br&gt;26일 해경 등에 따르면, 이날 오후 2시 30분쯤 강원 고성군 현내면 초도리 화진포해수욕장에서 A(17)군과 동생 B(14)군이 물에 빠졌다.&lt;br&gt;&lt;br&gt;이를 목격한 형제의 아버지(47)와 인근에 있던 50대 남성 2명이 구조에 나섰다. 형제와 아버지는 무사히 해변으로 빠져나왔지만, 구조 과정에서 50대 남성 2명은 의식을 잃은 채 심정지 상태로 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;이어 이날 오후 3시 30분쯤에는 고성군 죽왕면 가진항 인근 해상에서 C(26)씨가 물에 빠져 심정지 상태로 구조돼 병원으로 옮겨졌다. C씨는 스노클링을 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경 등은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전국 경찰 1만7000명이 ‘향찰’... 제2의 ‘장윤기 사건’ 우려</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/26/MRF7XE6XIJHPPONME6QXOGLFU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/26/MRF7XE6XIJHPPONME6QXOGLFU4/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 08:20:34 +0000</pubDate>
-      <content:encoded>한 경찰서에서 10년 이상 장기간 근무하는 경찰관, 이른바 향찰(鄕察)이 1만7000명인 것으로 집계됐다. 이들은 대부분 경찰 조직의 허리급인 경사부터 경위, 경감 급이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTAYZXME3WKNTCGU3TOYJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'여고생 살해범' 장윤기 사건의 증거를 인멸한 의혹을 받는 전남광주 광산경찰서 수사팀장 박모(59) 경감이 지난 8일 구속 전 피의자 심문(영장실질심사)를 받기 위해 광주지방법원에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 ‘전남광주 여고생 살인사건’을 수사한 광주광산서 강력팀장 박모 경감이 범인 장윤기(24)의 아버지인 장모 경감에게 주요 증거물을 넘겨 폐기하도록 한 것이 확인되면서 향찰의 지역 유착에 대한 부작용이 도마 위에 올랐다. 이런 상황에서 경찰 실무를 담당하는 주요 인력 상당수가 한 지역에 오래 뿌리를 둔 것으로 확인된 것이다. &lt;br&gt;&lt;br&gt;더불어민주당 이상식 의원실이 26일 경찰청에서 제출받은 자료에 따르면 이달 기준 한 경찰서에서 10년 이상 근무한 경감은 5209명, 경위는 8609명, 경사는 3211명, 경장은 13명이었다. 총 1만7130명이다. &lt;br&gt;&lt;br&gt;이 중 경감·경위로 한정하면 한 경찰서에서 10년 이상 장기 근무한 직원이 전체의 20% 내외였다. 경감은 전체 2만8914명 중 18%, 경위는 3만5959명 중 24.2%가 한 경찰서에서 장기 근무했다. &lt;br&gt;&lt;br&gt;이외 계급에선 같은 경찰서에서 계속 머무른 이는 없었다. 총경 이상은 통상 1년 주기로 전국 단위 전보를, 경정은 약 2년 주기로 경찰서 간 순환 인사를 실시하고 있다. 순경은 4년 이상 근무하면 경장으로 근속 승진한다. &lt;br&gt;&lt;br&gt;특히 장기 근무는 서울보다 지방에서 두드러졌다. 서울에서 10년 이상 한 경찰서에서 근무한 경감 이하 경찰관은 전체의 10% 미만이었다. 하지만 전북청, 충북청, 충남청, 경북청, 경남청 등은 비율이 19~24%였다. 장윤기 사태가 일어난 광주청은 2.6% 수준이었지만, 산하 경찰서가 5곳밖에 되지 않아 순환 근무의 의미가 크지 않다는 지적이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZDKMJWGA2TMNJSHAZTMNRQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남광주 광산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장윤기 사건 증거 인멸에 연관된 박 경감과 장 경감은 둘 다 10년 이상을 광산서에서 근무한 것으로 드러났다. 박 경감은 첫 근무지인 전남 장성서에서 9년 3개월 근무 후 2000~2014년 광산서에서 머물렀다. 이후 2014~2022년 광주 북부서에서 8년을 근무하며 경감으로 승진했다. 이후 광산서로 돌아와 2022년부터 지금까지 4년 5개월간 일했다. 광산서 근무 기간만 18년으로 경찰 생활의 절반을 차지한다. &lt;br&gt;&lt;br&gt;장 경감은 1999~2009년 광주 북부서에서 근무하다 2년간 기동대를 거친 뒤 북부서로 돌아와 2011~2015년 근무했다. 이후 지난해 3월까지 광산서 소속으로 10년 넘게 근무했다. &lt;br&gt;&lt;br&gt;결과적으로 두 사람은 2014년 북부서, 2022~2025년 광산서 근무 기간이 겹쳤다. 같은 부서에서 일한 적은 없다는 것이 경찰 측 설명이지만, 박 경감 밑에서 일했던 수사팀원 김모 경사는 과거 장 경감과 광산서 한 지구대에서 함께 근무했던 것으로 확인됐다. 김 경사는 사건 발생 후 장 경감과 수십 차례 통화하며 사건 정보를 전달했다. &lt;br&gt;&lt;br&gt;경찰은 장기 근무가 현실적으로 불가피한 경우가 많다고 설명한다. 가정을 꾸려 생활하려면 한 지역에 터를 잡을 수밖에 없고, 전남·경남 등 지방은 같은 도 안에서도 경찰서 간 위치가 100㎞ 이상 떨어진 곳이 많다는 이유다. 또 지역 사정에 정통해 치안 안정에 기여할 수도 있다. 그러나 장윤기 사건에서처럼 장기 근무한 경찰이 주민, 지역 유력 인사 등과 수사나 이해관계로 얽히는 순간 ‘봐주기 수사’나 정보 유출로 이어질 가능성이 크다는 지적도 나온다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>청담동 의원에서 의료용 마약 불법 투약...환자 잠들면 불법 촬영까지</title>
       <link>https://www.chosun.com/national/national_general/2026/07/26/KHA3JYK4YBHIJEHWNU2K4GNKTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/26/KHA3JYK4YBHIJEHWNU2K4GNKTI/</guid>
@@ -603,15 +645,6 @@
       <description/>
       <pubDate>Sun, 26 Jul 2026 08:34:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WMYZRHFSTOYJUGQZDINTEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 마약범죄수사대가 병원에 대해 압수수색 영장을 집행하는 모습/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환자들에게 의료용 수면마취제를 불법 투약하고 마취 상태의 환자를 불법 촬영한 의사와 투약자 등 14명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 마약범죄수사대는 26일 마약류관리법 위반과 준강제추행, 불법촬영 등 혐의로 의사 2명과 병원 행정실장 1명, 투약자 11명 등 총 14명을 입건했다고 밝혔다. 이 가운데 의사 A씨와 투약자 C씨 등 2명은 구속됐다. 경찰은 의사 2명이 범행으로 얻은 수익을 환수하기 위해 재산 4억5700만원에 대한 기소 전 추징보전도 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4TKY3EGEYWINJVGFTGEOJZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선봉 서울경찰청 광역수사단 마약범죄수사 1계장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 2021년 11월부터 2023년 11월까지 서울 강남구 청담동의 한 의원에서 내원자 7명에게 프로포폴 등 의료용 마약류를 71차례 투약하고 4000만원을 받은 혐의를 받고 있다. 행정실장은 A씨의 범행을 방조한 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;A씨는 2021년 7월부터 2022년 2월까지 수면 마취된 환자의 신체를 27차례 불법 촬영한 혐의도 받는다. 경찰은 A씨에게 준강제추행과 성폭력처벌법상 카메라 이용 촬영 혐의를 적용했다. A씨는 성범죄 혐의를 부인했지만 경찰은 압수수색을 통해 확보한 증거를 토대로 구속영장을 발부받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYTEN3FHBSTAZBYGU3GCNZWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로포폴 등 의료용 마약류 불법 투약 장소로 쓰인 서울 강남구 청담동 의원의 침대 공간/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동업자인 의사 B씨는 2022년 7월부터 2023년 6월까지 내원자 8명에게 프로포폴과 미다졸람, 레미마졸람, 케타민 등을 111차례 불법 투약하고 4억1700만원을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;C씨를 포함한 투약자 11명은 해당 의원에서 수면 목적으로 적게는 1차례, 많게는 64차례 의료용 마약류를 투약받은 혐의로 입건됐다. 투약자 중 9명은 30대였다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 의사들은 정상적인 의료 목적 없이 결제 금액에 따라 수면마취제를 투약한 것으로 파악됐다. 미용 시술은 아예 하지 않거나 형식적으로만 진행했고, 투약자가 요구하면 심야와 휴일에도 마약류를 투약했다.&lt;br&gt;&lt;br&gt;1회 투약 비용은 35만원으로 약물 원가의 31.7배에 달했다. 투약자 가운데는 하루에 최대 1350만원을 결제하거나 13시간 동안 의원에 머문 사례도 있었다. 한 투약자는 11개월 동안 64차례 의원을 찾아 2억5300만원을 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4TIMRRGUYDSZJXMJRDQMZRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범행에 사용된 수면마취제 '덱스메데토미딘'과 사실상 동일한 성분인 동물용 마취제 '메데토미딘'/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사들은 마약류 감시망을 피하고 투약자의 수면 상태를 장시간 유지하기 위해 덱스메데토미딘과 에토미데이트 등 일반 마취제를 의료용 마약류와 함께 투약한 것으로 나타났다. 불법 투약 사실을 숨기기 위해 진료기록부를 작성하지 않고 마약류 취급 보고 의무도 이행하지 않았다.&lt;br&gt;&lt;br&gt;덱스메데토미딘이 의료용 마약류의 대체 약물로 오남용된 사례가 적발된 것은 이번이 처음이다. 이 약물은 동물용 마취제로 오남용 사례가 잇따른 메데토미딘과 사실상 같은 성분이라고 경찰은 설명했다.&lt;br&gt;&lt;br&gt;경찰은 덱스메데토미딘이 새로운 대체 마약류로 확산할 가능성이 있다고 보고 식약처에 마약류 지정 등 규제 방안을 신속하게 검토해 달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTAODEGVTDEY3EGM2TKMLCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범행이 발생한 병원의 수면마취 공간/서울경찰청 마약범죄수사대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 수면 마취 상태에서는 환자가 범죄 사실을 인지하거나 저항하기 어렵고, 외부 감시가 닿지 않는 1인실 중심의 병원 구조가 성범죄에 악용될 수 있다고 봤다. 이에 따라 수면 마취 과정에서 간호사 등 제3자의 동석을 의무화하는 ‘샤페론(보호자) 제도’ 도입을 관계 부처에 요청했다. 현재 자율 권고에 그치는 보호자 동석 제도를 의무화해 의료기관 내 성범죄를 막아야 한다는 취지다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “마약류로 지정되지 않은 일반 마취제까지 단속을 피하기 위한 수단으로 오남용되고 있다”며 “의료계에서 은밀하게 이뤄지는 마약류 불법 취급과 이를 이용한 강력범죄를 엄정하게 수사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가마솥더위에 해수욕장 북적... 포항 피서객 70% 늘었다</title>
-      <link>https://www.chosun.com/national/2026/07/26/APOLAHFMZVCSJH6GDLTRY7OGFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/26/APOLAHFMZVCSJH6GDLTRY7OGFI/</guid>
-      <dc:creator>포항=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 08:05:23 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VMUDZYNKRPMDBP4ASYP4GX53Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 경북 포항시 영일대해수욕장에서 피서객들이 샌드페스티벌 모래조각 작품을 둘러보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 폭염이 계속되면서 경북 포항 지역 해수욕장 8곳을 찾은 피서객 수가 지난해 같은 기간보다 70% 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;26일 포항시에 따르면 지난 11일 개장한 구룡포·송도·영일대·칠포·월포·화진 등 8곳 누적 피서객은 6만명을 넘어섰다. 포항시 관계자는 “해수욕장 개장 이후 폭염 경보 발령 등 불볕더위가 이어져 피서객이 지난해 같은 기간보다 70% 증가했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRTCZDEMUYGKOLDME3WKZDBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 경북 포항시 북구 영일대해수욕장에서 피서객들이 해송 그늘 아래에서 쉬고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해수욕장별로는 화진해수욕장이 2만3550명으로 가장 많았고 영일대해수욕장과 구룡포해수욕장이 뒤를 이었다.&lt;br&gt;&lt;br&gt;포항에서 가장 북쪽에 있는 화진해수욕장은 바닷물이 유난히 맑고 넓은 솔밭으로 가족과 연인들이 많이 찾는 곳이다. 또 조개가 많아 피서객들이 줍는 재미도 쏠쏠하다. &lt;br&gt;&lt;br&gt;영일대해수욕장에서는 백사장을 무대로 ‘영일대 샌드 페스티벌’이 열려 피서객에게 볼거리를 선사하고 있다. ‘바다를 품은 거대한 마법’을 주제로 동화 속 캐릭터를 모래 조각으로 구현했다. &lt;br&gt;&lt;br&gt;국내외 정상 모래 조각 작가가 참여한 샌드 페스티벌은 다음 달 31일까지 운영된다. 전시 작품은 모두 6점. 메인 작품은 ‘이상한 나라의 앨리스 성’으로 대형 성을 모티브로 한 작품이다. &lt;br&gt;&lt;br&gt;구룡포해수욕장은 1일 평균 1000여 명의 피서객이 방문해 무더위를 식히고 있다. 인근에는 ‘일본인 가옥 거리’, ‘호미곶광장’ 등이 있어 관광과 해수욕을 동시에 즐길 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>10년치 분석해보니... 올해 검정고시 합격자, 서울대 등 주요 대학서 최다</title>
@@ -632,27 +665,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYHU7KUJOBIP7OE2Y5NNX5JOFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연일 폭염이 이어지는 26일 대구 동구 율하체육공원 바닥분수에서 학생들과 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말 동안 낮 기온이 최고 39도까지 치솟으며 전남광주와 경북, 경남 등 전국 곳곳에 폭염 중대 경보가 발효됐다. 지난 25일 전남 광주 해남에선 폭염 속에 밭일을 하던 30대 태국인 노동자가 숨지기도 했다. 이날 하루에만 온열 질환자가 64명 발생했다. 폭염 중대 경보는 폭염 경보(이틀 이상 일 최고 체감온도 35도 이상)가 내려진 지역에서 기온이 더 올라 ‘일 최고 체감온도가 38도 이상’ 또는 ‘일 최고 기온 39도 이상’인 상황이 하루 이상 이어질 것으로 예상될 때 발령되는 조치다. 전문가들은 한반도가 두 개의 거대한 고기압에 갇힌 이른바 ‘열돔(Heat Dome)’ 현상이 이어지면서 당분간 폭염이 계속될 것으로 전망한다.&lt;br&gt;&lt;br&gt;26일 기상청에 따르면, 주말 동안 전국엔 40도에 육박하는 무더운 날씨가 계속됐다. 26일 양산이 39.3도까지 오른 것을 비롯해 밀양 39.1도, 의령 38.3도, 합천 38.2도, 광양이 37.3도를 기록했다. 기상청은 전남광주 광양과 경북 고령·포항·경주, 대구, 경남 양산·의령·김해·밀양·함안·창녕·합천 등에 폭염 중대 경보를 발효했다. 이와 함께 기상청은 “생명을 위협하는 수준의 극단적인 더위가 예상된다”고 경고했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R3FFMCZD4BNHHIZNFCAOV7NHPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 폭염주의보가 발효된 26일 서울 명동 거리의 한 전광판에 폭염 주의 안내문이 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보통 장마가 끝나면 북태평양고기압이 우리나라 상공을 완전히 장악하면서 습식 사우나에 들어간 듯 숨이 턱턱 막히는 무더위가 발생한다. 특히 올해는 대기 상층을 고온 건조한 티베트고기압이 장악하면서 두 겹의 고기압이 겹쳤다. 열기가 한반도를 빠져나가지 못하고 계속 쌓이는 열돔 효과가 발생하는 것이다.&lt;br&gt;&lt;br&gt;날씨가 더워지면서 온열 질환자도 급증하고 있다. 25일 64명이 온열 질환으로 응급실을 찾은 것을 포함해 올여름 누적 온열 질환자는 1301명에 달한다. 지난 5월 15일 보건 당국이 관련 모니터링을 시작한 뒤 온열 질환으로 사망한 사람도 모두 6명이다. &lt;br&gt;&lt;br&gt;한편, 월요일인 27일은 오전부터 수도권과 강원도에 소나기가 내리겠다. 예상 강수량은 서울·인천·경기 5∼40㎜, 서해5도 5∼20㎜, 강원 내륙·산지 5∼40㎜, 강원 북부 동해안 5∼20㎜다. 아침 최저기온은 22~26도, 낮 최고기온은 28~36도로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘살인 폭염’ 덮친 경남… 온열질환 사망자 또 나왔다 </title>
-      <link>https://www.chosun.com/national/2026/07/26/WI2JNVZ7SRDANCRGIW7F3ECG7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/26/WI2JNVZ7SRDANCRGIW7F3ECG7Q/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 08:18:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHSV3HWDKJHZVFI34ECND27PWY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 이어지는 가마솥 더위에 경남 지역에서 온열 질환 추정 사망자가 추가로 발생했다. 낮 최고 기온이 39도까지 치솟는 등 폭염이 ‘생명을 위협하는 재난’ 수준에 이르자 경남도는 비상 체계를 가동하며 총력 대응에 나섰다.&lt;br&gt;&lt;br&gt;26일 경남도 등에 따르면, 지난 23일 오후 5시쯤 사천시 송포동에서 집을 나선 김모(93)씨가 연락이 끊겨 가족들이 찾아 나선 끝에 인근 논에서 쓰러진 채 발견됐다. 신고를 받고 오후 9시 16분쯤 119구급대가 현장에 도착했을 당시 김씨는 이미 의식을 잃은 상태였다. 당시 사천엔 폭염 주의보가 내려진 상태로, 낮 최고 기온은 34도에 달했다.&lt;br&gt;&lt;br&gt;김씨는 진주경상대병원 응급실로 긴급 이송돼 치료를 받았지만, 이틀 뒤인 25일 오후 11시 21분쯤 끝내 숨을 거뒀다. 경남에서는 지난 22일 고성 한 비닐하우스에서 97세 여성이 쓰러져 병원으로 이송됐지만, 숨진 바 있다. 경남에서는 25일 기준 누적 온열 질환자는 112명이고, 사망자는 2명이다. &lt;br&gt;&lt;br&gt;전국적으로는 1300명의 온열 질환자가 발생해 이 중 6명이 목숨을 잃었다.&lt;br&gt;&lt;br&gt;폭염의 기세는 갈수록 맹렬해지고 있다. 경남도는 지난 25일 양산시와 의령군에 이어 26일 김해시, 밀양시, 함안군, 창녕군, 합천군 등 7개 시군으로 ‘폭염 중대 경보’를 확대 발효했다. 폭염 중대 경보는 일 최고 체감 온도가 38도 이상으로 예상돼 인명 피해가 우려될 때 내려진다. 현재 경남 전역은 최고 체감 온도 35도를 웃도는 살인적인 무더위가 덮친 상태다.&lt;br&gt;&lt;br&gt;26일 오후 3시 기준 양산 낮 최고기온이 39.3도를 기록해 전날 기록한 39.1도를 넘어섰다. 밀양은 39.1도를 기록했다. 이 밖에 의령 38.3도, 합천 38.2도, 창녕 38.1도, 김해 37.8도, 함안 37.5도 등을 기록 중이다.&lt;br&gt;&lt;br&gt;사태가 심각해지자 경남도는 폭염 위기 경보를 ‘심각’ 단계로 격상하고, 20개 관계 부서가 참여하는 재난안전대책본부(비상 1단계)를 가동했다. &lt;br&gt;&lt;br&gt;고령자와 독거노인, 농업인, 야외 근로자 등 취약 계층의 예찰 활동을 강화하고, 낮 12시부터 오후 5시 사이에는 농작업과 야외 활동을 전면 자제할 것을 강력히 권고하고 있다.&lt;br&gt;&lt;br&gt;경남도 관계자는 “폭염 중대 경보가 도내 전역으로 확대되는 등 폭염은 이제 단순한 무더위가 아닌 생명을 직접적으로 위협하는 재난”이라며 “도민들께서는 폭염 행동 요령을 반드시 숙지해 주시고, 이상 증상이 나타나면 지체 없이 119에 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 7월 27일 월요일 (음력 6월 14일 壬寅)</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/26/XXK27FB5BBHOPGJBHGO4EDUGR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/26/XXK27FB5BBHOPGJBHGO4EDUGR4/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>[단독] ‘학폭 재판 노쇼’ 권경애 변호사, 법원의 화해권고에 불복</title>
       <link>https://www.chosun.com/national/court_law/2026/07/26/YYM4D6SQHFAHVOWUALUE4XXNXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/26/YYM4D6SQHFAHVOWUALUE4XXNXU/</guid>
@@ -669,18 +681,6 @@
       <description/>
       <pubDate>Sun, 26 Jul 2026 03:56:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRGKYTCMVQTSOBRMJRDOZDCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소 깃발이 바람에 날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군인이 다른 군인이나 군무원을 강제로 추행해 다치게 한 경우 무기징역 또는 징역 7년 이상에 처하도록 한 군형법 조항은 헌법에 어긋나지 않는다는 헌법재판소 판단이 나왔다.&lt;br&gt;&lt;br&gt;헌재는 군형법상 군인 등 강제추행치상죄의 법정형이 지나치게 무겁다며 제기된 헌법소원 사건에서 최근 재판관 7대2 의견으로 합헌 결정했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;이번 헌법소원은 부하 여군을 강제추행해 정신적 상해를 입힌 혐의로 각각 징역 3년 6개월이 확정된 해군 중령과 육군 준장이 낸 것이다. 해군 중령은 출장 중 같은 부대 하사의 손을 잡고 입을 맞추는 등 추행해 적응 장애 등을 입힌 혐의, 육군 준장은 노래방에서 군무원을 끌어안고 입을 맞춰 약 3개월간 치료가 필요한 급성 스트레스 반응 등을 입힌 혐의를 받았다.&lt;br&gt;&lt;br&gt;두 사람은 대법원 상고심 재판 과정에서 “강제추행과 상해의 정도가 다양한데도 법정형 하한을 징역 7년으로 정해 정상 참작이 되더라도 집행유예를 선고받을 수 없다”며 위헌법률심판 제청을 신청했다. 대법원이 이를 기각하자 헌법소원을 냈다. &lt;br&gt;&lt;br&gt;법정형 하한이 징역 7년이면, 판사가 정상 참작 감경을 한 차례 하더라도 최저형이 징역 3년 6개월이다. 집행유예는 징역 3년 이하를 선고할 때만 가능하기 때문에 별도의 법률상 감경 사유가 없는 한 집행유예를 선고할 수 없다.&lt;br&gt;&lt;br&gt;헌재 다수 의견은 “군은 유사시 자신의 생명을 동료에게 맡길 정도의 전우애와 신뢰관계 형성이 요구되는 조직”이라며 “이 같은 범죄는 피해자의 성적 자기결정권과 신체 안전을 침해할 뿐 아니라 군 기강과 전투력을 약화시키고 군에 대한 국민적 신뢰를 훼손할 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;헌재는 범행이 군부대 밖에서 이뤄졌거나 가해자와 피해자 사이에 직접적인 지휘·감독 관계가 없더라도 마찬가지라고 봤다. 군 조직 구성원을 상대로 한 강제추행으로 상해까지 발생했다면 이미 군 기강과 전투력 유지에 중대한 위험을 초래한다는 것이다.&lt;br&gt;&lt;br&gt;헌재는 “법정형 하한을 징역 7년으로 정한 것은 법률상 감경 사유가 없는 한 집행유예는 선고하지 못하도록 한 입법적 결단”이라며 “군 조직의 특수성과 범죄의 불법성에 비춰 수긍할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;반면 정계선·마은혁 재판관은 위헌 의견을 냈다. 두 재판관은 “강제추행과 상해에는 비교적 경미한 행위부터 중대한 행위까지 매우 다양한 유형이 있다”며 “현재 조항은 각 범행에 책임에 알맞은 형을 선고할 수 없을 정도로 지나치게 과중하다”고 했다. 범행 당사자들이 업무상 지휘·감독 관계에 있지 않아 군 지휘 체계나 기강에 실질적인 영향이 거의 없는 경우도 있을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;헌재가 군인 등 강제추행치상죄에 무기 또는 징역 7년 이상을 선고하도록 한 군형법 조항의 위헌 여부를 판단한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘2026 부산국제사진제’ 주제는 ‘사람 人(인)’ </title>
-      <link>https://www.chosun.com/national/regional/2026/07/26/6SKVLXQGHBE4BCKNSEM4TITG6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/26/6SKVLXQGHBE4BCKNSEM4TITG6I/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jul 2026 01:05:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACSUHODBR5AMLF4RQTAJ6IGHTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026 부산국제사진제 포스터./ 부산국제사진제 조직위&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산국제사진제 조직위원회는 오는 29일부터 다음 달 18일까지 부산항국제전시컨벤션센터와 사상인디스테이션 일대에서 ’2026 부산국제사진제’를 연다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;올해 주제는 ‘사람 人(인)’이다. 2026 부산국제사진제 주제전 ‘Being Human(다시, 사람)’은 “오늘날 우리는 얼마나 존중받으며 살고 있는가?”라는 근본적인 질문을 던진다. 우리 주변에 존재하는 타자의 삶을 깊숙이 들여다보고, 공감하는 과정을 주제화하여 ‘인간의 존엄’이라는 우리가 회복해야 할 공동체적 가치를 소개한다. 서로 다른 문화적·사회적 배경을 가진 작가들은 개인의 내면과 공동체의 기억, 우리 사회의 갈등과 경계를 가로지르며 오늘을 살아가는 인간의 다층적인 모습을 입체적으로 보여준다. 고성, 남준, 안옥현, 양승우, 이지영, 정예진, 세사르 데즈풀리, 시오마라 벤더 작가 등이 참여했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VK7OSNJUFNH7VHOMPMCKIYM3LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남준 작가의 Insight Meditation. /부산국제사진제 조직위&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 함께 국제청년작가전, 국내외 사진가들을 대상으로 공모한 International Open Call Exhibition 등 다양한 전시를 선보인다. ‘제48차 유네스코 세계유산위원회’의 부산 개최를 기념한 특별전도 진행 중이다. 이번 전시는 국가등록문화재 제645호인 부산 동구 옛 백제병원에서 열린다. 후지필름 코리아의 한국 유네스코 유산 기록 프로젝트인 ‘천 개의 카메라’를 통해, 동시대 사진가들의 시선으로 담아낸 한국의 유네스코 세계유산, 인류무형문화유산, 세계기록유산을 선보인다. 궁궐과 왕실 문화부터 산사와 불교 유산, 자연유산, 무형유산, 피란수도 부산에 이르기까지 자연과 인간, 역사와 공동체가 함께 이어온 유산을 하나의 흐름으로 담아냈다. &lt;br&gt;&lt;br&gt;이일우 예술감독은 “단순히 인간의 삶과 모습을 소개하는 사진 축제가 아니라, 우리 주변에 존재하는 소외된 인간의 실존과 인류가 회복해야 할 정신적 가치에 주목한다”며 “우리 사회가 잃어버린 상호 이해와 공감의 장을 복원하고, 시대를 넘어 ‘인간 존중’의 본질에 대해 이야기한다”고 했다.&lt;br&gt;&lt;br&gt;개막식은 다음 달 1일 오후 4시 열리며, 당일에는 무료 관람이 가능하다. 폐막식은 다음 달 18일 오후 2시에 열린다. 관람시간은 월~목요일과 일요일은 오전 10시부터 오후 6시까지, 금·토요일은 오전 10시부터 오후 7시까지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VK7OSNJUFNH7VHOMPMCKIYM3LU.jpg?auth=acd2948a00609b73d8fcbfdde0069a3aef0b6d6255bd3053bd062ec2c36709dd&amp;smart=true&amp;width=709&amp;height=1064" type="image/jpeg" height="1064" width="709">
-        <media:description type="plain">남준 작가의 Insight Meditation. /부산국제사진제 조직위</media:description>
-      </media:content>
     </item>
     <item>
       <title>성형이 이혼 사유가 될까… 법원의 답은 달랐다</title>
