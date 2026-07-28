@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[스피킹이 강해지는 영어] all the while</title>
+      <link>https://www.chosun.com/national/nie/english/2026/07/28/PS3RWTHPXVGWBJI7J4L7WKUFB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/07/28/PS3RWTHPXVGWBJI7J4L7WKUFB4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jul 2026 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJO3F62ZMJBIDBP5TNW4CBZXFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유전자, AI 검사로 질병 예측? 건강검진 최신 트렌드 [이러면 낫는다]</title>
       <link>https://www.chosun.com/medical/2026/07/29/DCSY3G6RIFGI7D7TLYK7I4A274/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/29/DCSY3G6RIFGI7D7TLYK7I4A274/</guid>
@@ -900,15 +909,6 @@
       <description/>
       <pubDate>Mon, 27 Jul 2026 15:40:00 +0000</pubDate>
       <content:encoded>요즘 중국 상하이를 찾는 사람이 많습니다. 지난해 상하이를 방문한 한국인 관광객은 약 91만명으로, 전년 대비 2배 넘게 늘었다고 해요. 상하이 여행 후기를 보면 ‘스쿠먼을 보고 왔다’는 내용도 있는데요. 스쿠먼(石庫門)은 동서양을 결합한 독특한 건축 양식을 말합니다. 오늘은 스쿠먼의 역사와 특징을 알아보겠습니다.&lt;br&gt;&lt;br&gt;제1차 아편전쟁에서 영국에 패한 청나라는 1842년 난징 조약을 체결합니다. 홍콩을 영국에 할양(땅이나 물건 등을 떼어 넘겨줌)하고 여러 항구 도시를 열었는데요. 그중 한 곳이 상하이였어요. 그리고 상하이에는 외국인 거주 지역인 ‘조계지’가 형성됩니다. 원래 이곳은 중국인의 거주가 제한됐어요. 그러다 1860년대 태평천국의 난을 피해 부유한 지주와 상인들이 상하이로 대거 피난 오면서 주택난이 발생했습니다. 이들을 대상으로 한 고급 임대 주택이 이 지역에 빠르게 지어졌는데, 이게 바로 스쿠먼의 시작입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHGRCOPPFNCJNG2QTXGH3HWGOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상하이의 독특한 건축 양식 ‘스쿠먼’입니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대문을 돌로 테를 두른 모습에 ‘돌 석’ ‘테 고’ 한자를 써서 ‘石箍門(중국 발음으론 ‘스구먼’이라고 해요)’이라고 했는데요. 당시 상하이로 이주한 다른 지역 사람들이 ‘스쿠먼’이라 발음하면서 현재 이름으로 굳어졌다는 설이 있습니다. 또 다른 설도 있는데요. 화강암 석판 문틀이 두꺼운 검은색 문을 단단히 감싼 광경이 마치 관청 창고 같다 하여 ‘돌 석’ ‘창고 고’ 한자를 써 ‘石庫門’이라 하게 됐다는 얘기도 있어요. 안으로 들어가면 여러 세대에 걸친 대가족이 거주할 수 있는 공간이 나옵니다. 주로 2층이었어요.&lt;br&gt;&lt;br&gt;그러다 1910년대 후반부터 스쿠먼은 3층으로 지어집니다. 당시 상하이 인구가 크게 늘어나며 더 많은 사람을 수용하기 위해서였죠. 문틀 위쪽엔 서구식 장식이 나타나기 시작했는데요. 17·18세기 유럽 예술 양식인 ‘바로크’, 1900년대 들어 인기를 끈 스타일인 ‘아르데코’ 등 다양한 서구식 디자인이 스쿠먼에 적용됩니다.&lt;br&gt;&lt;br&gt;스쿠먼의 독특한 골목인 ‘룽탕’을 중심으로 한 문화도 생겨났습니다. 골목에 의자와 화분을 놓고, 빨래를 길게 널어 말리고, 아이들이 뛰노는 광경이 일상이었습니다. 자리를 찾아 상하이로 이사 오는 사람은 잇따랐고, 수십 가구가 스쿠먼 한 채에서 생활하기도 했습니다. 그러나 1990년대 들어서는 재개발 붐 속에서 낙후의 상징이 되며 대규모로 철거되는 위기를 겪기도 했답니다. &lt;br&gt;&lt;br&gt;스쿠먼은 우리나라와도 인연이 깊어요. 대한민국 임시정부가 상하이에 마지막으로 머물렀던 청사가 바로 1925년 지어진 3층짜리 12호 연립 스쿠먼 중 4호였거든요. 복원 과정을 거쳐 지금은 상하이를 찾는 한국인의 필수 코스가 되었습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 발효(發效)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/07/28/5HQFND6RIFDPHLV53L45JE6NZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/28/5HQFND6RIFDPHLV53L45JE6NZE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWLIIHGZCVCIRH7KAQXA72KIWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국가기술자격 시험 문제 유출로 재시험</title>
