@@ -13,6 +13,210 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김성권 교수의 ‘건강편지’ 500회… “환자 스스로 올바른 건강정보 알고 실천해야”</title>
+      <link>https://www.chosun.com/medical/2026/07/30/TD7I43ZI65FJHDBZHXTKTLN3YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/30/TD7I43ZI65FJHDBZHXTKTLN3YI/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:43:00 +0000</pubDate>
+      <content:encoded>“인류가 개발한 4만여 가지 약 중에서 이뇨제 성분 약이 가장 많습니다. 왜 소변을 잘 만들고 배출하게 도와주는 약이 가장 많이 쓰일까요. 몸에 생긴 부종을 빼주면 건강도 좋아지고, 혈압도 떨어지기 때문이죠.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56WH4B6P6RHVLESKERMLQJFOSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이메일로 보내주는 건강편지를 500회 보낸 김성권 서울의대 신장내과 명예교수가 건강편지를 묶어 출간한 책 여섯 권을 보여주며 이야기를 하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의대 신장내과 김성권 명예교수가 매주 이메일로 보내는 ‘건강편지’가 올해 7월 말로 500회를 맞았다. 일주일에 한 번씩 보냈으니, 거의 10년에 해당하는 기록이다. 그는 40여 년간 신장내과 교수를 하며 겪은 환자 진료 경험과 최신 의료정보를 건강편지에 담았다. 편지가 쌓일 때마다 시리즈로 묶어 출간한 책이 6권째다.&lt;br&gt;&lt;br&gt;“80대 고령의 신장병 환자는 건강편지를 끼고 살아서 건강하게 살 수 있었다며 진료실에서 나보고 오래 살아 달라고 합디다(웃음)”&lt;br&gt;&lt;br&gt;김 교수에게 건강편지는 단순한 뉴스레터가 아니다. 오랫동안 환자를 만나며 깨달은 의학과 진료실의 한계를 보완하는 또 하나의 ‘진료’다. 의사는 환자가 집에서 무엇을 먹고 얼마나 움직이며 어떤 생각으로 살아가는지까지 관리할 수 없기에 건강편지는 환자의 생활 속으로 찾아가는 ‘두 번째 처방전’인 셈이다.&lt;br&gt;&lt;br&gt;김 교수는 국내 신장내과학을 개척한 의사다. 1982년 서울대 의대 신장내과 교수로 부임한 뒤 대한신장학회 이사장을 지내고, 2014년 정년퇴임 했다. 현재는 서울K내과 원장을 맡고 있다.&lt;br&gt;&lt;br&gt;그는 만성 콩팥병 환자를 보며 ‘소금과의 전쟁’도 했다. 사비를 들여 사단법인 ‘싱겁게먹기 실천연구회’를 만들어 나트륨 적게 먹기 국민 운동을 이끌었다. &lt;br&gt;&lt;br&gt;“소금을 지나치게 섭취하면 몸에 수분이 쌓이고 혈압이 오르고, 콩팥에 부담이 커집니다. 한국인에게 짠 음식은 각종 질병을 일으키는 최대 요인이에요. 음식점에서 ‘맛있게 해달라’는 말 대신 ‘짜지 않게 해달라’고 말해보세요.” &lt;br&gt;&lt;br&gt;건강편지는 신장병과 고혈압뿐 아니라 암, 치매, 감염병, 예방접종, 운동, 수면, 식사, 노화와 의료제도까지 주제가 폭넓다. 잘못 알려진 건강 상식이 유행하면 근거를 따져 바로잡는다.&lt;br&gt;&lt;br&gt; “요즘 환자들이 인공지능(AI)에 자기 질병 데이터를 넣고 상담하는 경우가 많은데, 병세를 정확히 보려면 전체적인 땟깔, 얼굴색, 말하는 속도나 행태, 진료실로 걸어 들어오는 자세 등을 보고도 판단해야 하는데, 인공지능은 그런 것을 못 봅니다. 만성질환 관리는 정기적으로 의사를 만나서 해야 안전합니다.”&lt;br&gt;&lt;br&gt;김 교수는 “고혈압과 당뇨병, 만성콩팥병처럼 생활습관과 밀접한 질환은 좋은 약만으로 충분히 관리되지 않는다”며 “환자가 올바른 의료정보를 적극적으로 접하고, 그것을 스스로 실천하여 자기 병 치료의 주인이 되어야 한다”고 말했다.&lt;br&gt;&lt;br&gt; ‘김성권 박사의 건강편지’를 받아 보고 싶은 사람은 싱겁기먹기 실천연구회 이메일(eatlowsalt@naver.com)로 신청하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘교내 AI 무제한’ 제공한 서울대… 1년치 사용량, 한달 만에 동났다</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/30/MI253G7TKVCMVO3DCB2JGFIIQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/MI253G7TKVCMVO3DCB2JGFIIQM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 20:00:00 +0000</pubDate>
+      <content:encoded>서울대가 지난달 모든 교직원과 학생들을 대상으로 제공한 생성형 인공지능(AI) 챗GPT의 무제한 이용량이 한 달 만에 소진된 것으로 29일 확인됐다. 서울대는 이달부터 1인당 이용량을 제한하기 시작했다. 다만 서울대 관계자는 “학생들이 고품질 AI 서비스를 절실히 필요로 한다는 것을 확인했다”며 “관련 설비와 투자를 늘릴 계획”이라고 했다. &lt;br&gt;&lt;br&gt;서울대는 지난달 4일부터 챗GPT의 대학용 서비스 ‘챗GPT 에듀’를 무료로 제공하기 시작했다. 서울대는 이를 위해 지난 5월 챗GPT 운영사 오픈AI에 31억원을 주고 1년 사용 계약을 맺었다. 그러나 계약에 명시된 1년 치 사용량이 한 달 만에 동났다. 학생들의 AI 서비스 사용량이 예상을 훨씬 웃돌았던 것이다.&lt;br&gt;&lt;br&gt;이에 서울대는 지난 1일부터 개인별 월간 사용 한도를 2만 크레딧으로 제한했다. 크레딧은 AI 기능을 사용할 때 차감되는 가상의 포인트다. 오픈AI나 구글 등은 AI 사용 크레딧을 설정하고 고객이 AI를 이용할 때마다 이를 차감한다. 통상 검색이나 고품질 대화 1회에 10크레딧, 간단한 코딩 작업에 25크레딧, 심층 조사 1번에 50크레딧 정도가 든다. 서울대는 다음 달부터는 1인당 월간 사용 한도를 7000크레딧으로 더 줄일 방침이다. &lt;br&gt;&lt;br&gt;서울대 사람들이 지난달 4일부터 지난 27일까지 한 달간 교육·연구용으로 사용한 챗GPT의 사용량은 6190만9395크레딧이다. 단순 검색보다는 주로 논문 분석과 코딩 보조 기능 등에 쓰인 것으로 알려졌다. 학내 이용 대상자 4만3000명 가운데 3만1000명(72%)이 챗GPT를 활용한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;서울대 공대 대학원생 A(31)씨는 “챗GPT 이용량이 제한된 지 2주 만에 할당된 사용량을 모두 써버렸다”며 “대용량 데이터 프로그래밍 작업을 계속해야 해서 사비를 들여 다른 유료 계정을 구독했다”고 말했다. &lt;br&gt;&lt;br&gt;서울대 관계자는 “AI가 교육·연구의 필수 인프라로 자리 잡으면서 교육 분야의 AI 수요가 예상치를 크게 웃돌았다”며 “교수와 학생들이 AI를 자유롭게 사용하는 걸 복지로 여긴다는 점이 확인된 셈”이라고 했다. 이 관계자는 “그간의 사용 양상을 분석해 이용량을 효율적으로 할당하고 투자와 설비를 확대해 나갈 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;다른 대학들도 무료 생성형 AI 서비스를 하고 있다. 지난달 교육용 제미나이를 무료 배포한 부산대는 한 달 만에 이용자 수가 2만명에 육박했다. 챗GPT, 제미나이 등 생성형 AI 8종을 무료로 제공하는 전남대도 학기 중 월 최대 이용자 수가 1만명을 넘어서자 1인당 월 10만 크레딧으로 사용량을 제한했다.&lt;br&gt;&lt;br&gt;이처럼 AI 서비스에 대한 학생들의 수요가 폭발적인데 반해 국내 대학의 AI 인프라는 부족하다는 지적이 나온다. 한국교육정보화재단 조사에 따르면, 전국 대학의 63%가 생성형 AI를 도입했거나 도입할 계획이지만, 90.3%는 자체 GPU 서버조차 갖추지 못했다. 총예산 대비 정보화 예산 비율은 평균 1% 수준에 머물러 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[굿모닝 멤버십] 런던의 빗속에서 시작된 사랑</title>
+      <link>https://www.chosun.com/national/2026/07/30/IFIADGBJNJAKBP5DCRKIKGZOWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/30/IFIADGBJNJAKBP5DCRKIKGZOWM/</guid>
+      <dc:creator>조선일보 멤버십</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
+      <content:encoded>📅 7월 30일 목요일 아침입니다. 1818년 오늘, 단 한 권의 소설만으로 영문학사에 불멸의 흔적을 남긴 작가 에밀리 브론테(Emily Brontë)가 태어난 날입니다. 그녀의 첫 작품이자 유작인 ’폭풍의 언덕’은, 몰락해 가는 지주 가문의 딸 캐서린과 고아 히스클리프가 신분을 뛰어넘어 서로에게 강렬하게 이끌리는 이야기를 담아냈죠. 훗날 수많은 멜로드라마의 원형이자 영문학 최고의 비극으로 남게 되었습니다. 가난을 벗어나고 싶었던 캐서린은 히스클리프와 부유한 자산가 에드거 사이에서 갈등하고, 에드거를 선택하는 현실적인 선택을 내리게 됩니다. 그럼에도 불구하고 그녀의 진정한 마음은 히스클리프에게 가있었고, 이것이 3대에 걸친 사랑과 복수의 대서사시를 그려내게 됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKPG5PL36NBYPAEFK56QXDEJU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/위키피디아
+에밀리 브론테의 초상화&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10년 전 건물 붕괴로 수백 명의 희생자를 냈던 일본 구마모토현이 이번 강진을 무사히 견뎌냈습니다. 10년 전 못지않은 흔들림 속에서도 피해를 최소화한 일본의 방재 시스템은 어떻게 작동했을까요? ‘기억 자체를 방재 인프라’로 삼아 지난 10년간 내진성을 높이고 피난 체계를 다져온 구마모토현의 대책과 분 단위로 촘촘하게 움직인 일본 정부의 초기 대응을 짚었습니다.&lt;br&gt;&lt;br&gt;장발장처럼 먹고살기 위해 훔치는 ‘생계형 절도’는 이제 옛말이 된 걸까요? 전체 절도범 3명 중 1명이 60대 이상일 만큼 고령층 범죄가 급증하는 가운데 최근엔 갖고 싶은 물건을 훔치는 ‘탐욕형 절도’가 노년층의 새로운 범죄 트렌드로 떠올랐습니다. 초고령화와 소셜미디어의 발달로 노년층의 소비 욕구는 대폭 늘었지만 OECD 1위 수준인 노인 소득 빈곤율 속에서 구매력이 따라가지 못해 벌어지는 씁쓸한 단면이라는데요. 욕구를 통제하지 못해 범죄로 이어지는 초고령사회의 그늘을 전합니다.&lt;br&gt;&lt;br&gt;투석 치료를 받던 수용자에게 수갑과 족쇄를 채운 것조차 “과도한 조치”라던 국가인권위원회가, 윤석열 전 대통령에게 전자발찌와 수갑을 채운 조치에는 “문제없다”며 진정을 기각했습니다. 인권은 정치적 셈법에 따라 고무줄처럼 늘어나는 가치일까요? 위원장 사퇴를 둘러싼 내부 소란과 특정 언론을 패싱하는 이중적인 행태 속에서 보편적 인권의 최후 보루여야 할 인권위가 제 기능을 잃어가는 현주소를 다뤘습니다.&lt;br&gt;&lt;br&gt;“당신, 연애도 통계로 해요?” &lt;br&gt;&lt;br&gt;이리나가 앞장서 걷자 에반이 뒤따르며 한마디를 던졌다. &lt;br&gt;&lt;br&gt;“그때 인상이 너무 강렬해서, 변수를 무시하고서라도 한 번 더 보고 싶었어.” &lt;br&gt;&lt;br&gt;이리나는 걸음을 멈추지 않았다. &lt;br&gt;&lt;br&gt;“나 같은 사람이 드물긴 하지. 근데 당신이 내 취향일지는 아직 잘 모르겠어.” &lt;br&gt;&lt;br&gt;“오늘 밤, 그 확률이 맞는지 안 맞는지 같이 확인해 보는 건 어때요?” &lt;br&gt;&lt;br&gt;이리나가 뒤를 돌아보며 호기심 어린 표정을 지었다. &lt;br&gt;&lt;br&gt;“오…… 연애 경험이 아예 없지는 않나 보네?"&lt;br&gt;&lt;br&gt;에스프레소 바를 나와 런던의 밤거리를 걸었다. 대화는 뚝뚝 끊겼지만 묘하게 불편하지 않았다. 자정이 가까워진 시간, 지름길이라며 들어선 쇼디치 인근의 좁은 골목에서 그림자 세 개가 길을 막아섰다. &lt;br&gt;&lt;br&gt;후드티를 뒤집어쓰고 싸구려 대마초 냄새를 풍기는 양아치들이었다. 가운데 선 녀석이 낄낄거리며 에반을 위아래로 훑었다. 에반이 아무 말 없이 지나치려 하자 녀석이 과장된 몸짓으로 길을 막았다. “Are you deaf, bruv?” &lt;i&gt;&lt;b&gt;귀먹었냐? &lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;🎧 이어지는 이야기를 생생한 AI 성우들의 음성으로 들어보세요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAS7BODW5FBFDIPOEERIXKOUL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🍺 배달 치킨의 편리함 뒤로, 골목길을 감돌던 고소한 기름 냄새와 갓 튀겨낸 통닭 한 마리가 주던 정겨운 위로는 점차 희미해지고 있습니다. 시장의 신선한 재료를 한 솥에 튀겨낸 청량리의 남원통닭부터, 고즈넉한 한옥 골목의 밤 운치를 품은 북촌의 파닭, 그리고 반세기 넘게 전기구이의 담백함으로 명동을 지켜온 명동영양센터까지. 찌는 듯한 삼복더위 속에서 시원한 생맥주와 함께 오래된 추억의 맛을 선사하는 서울 전설의 통닭집 기행을 만나보세요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6TA6SJDANC57MZQY2RDTUINEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🏛️ 최근 정치권과 금융 당국을 중심으로 채무자의 부채를 전향적으로 탕감해주어야 한다는 목소리가 커지고 있습니다. 그러나, 미국 보수주의의 거두 헤리티지재단은 이러한 온정주의적 대책이 시장경제의 근간을 흔든다고 정면으로 비판합니다. ‘자유에는 책임이 따른다’는 원칙을 무너뜨리는 순간, 성실하게 빚을 갚아온 국민에게 역차별을 안기고 금융 신용 생태계를 파멸로 몰아넣을 수 있다는 경고죠. 빚을 지워주는 온정주의가 어떻게 서민의 대출 문턱을 올리고 국가 신인도까지 위협할 수 있는 걸까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XU4ZY6B4QVDYVPTXV44HZ3UPHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
+    </item>
+    <item>
+      <title>명단을 뜻하는 ‘list’와 ‘manifest’의 차이</title>
+      <link>https://www.chosun.com/premium/2026/07/30/FXYIVIMQSJEMZOLTT25KDA33FA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/premium/2026/07/30/FXYIVIMQSJEMZOLTT25KDA33FA/</guid>
+      <dc:creator>윤희영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 18:00:00 +0000</pubDate>
+      <content:encoded>해외여행 중 휴양지로 이동하기 위해 전세기 전용 라운지로 갔는데, 지배인이 여권과 모니터의 승객 명부를 유심히 대조하더니 이렇게 말합니다.&lt;br&gt;&lt;br&gt;“Let me check if your name is on the flight manifest.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OK3SG4ZXBHK7EWJIULECZWN2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘manifest’? 발음이 어딘가 ‘돈(money)’ ‘현금 우선(money-first?)’처럼 들려 당황한 나머지 엉겁결에 대답합니다.&lt;br&gt;&lt;br&gt;“Money first? I have money! I will pay cash! (돈부터 내라고요? 돈 있어요! 현금으로 낼게요!)”&lt;br&gt;&lt;br&gt;아니지요. 지배인이 말한 단어는 돈(money)과 아무 상관 없는 ‘manifest’입니다.&lt;br&gt;&lt;br&gt;일반적으로 사람이나 물건의 명단이나 목록을 일컬을 때는 ‘list’를 쓰지만, 항공기나 선박, 크루즈 등에서 이민국이나 항공 당국에 정식 제출되는 “법적·공식적 승객 및 화물 탑승 명부”를 언급할 때는 전문 용어로 ‘manifest’라고 합니다.&lt;br&gt;&lt;br&gt;지배인은 “고객님의 성함이 오늘 출항하는 전세기의 공식 탑승자 명단에 올랐는지 확인해 드리겠습니다”라고 정중하게 안내했던 겁니다.&lt;br&gt;&lt;br&gt;“Does the passport info match the manifest?” (여권 정보가 탑승 명단과 일치하나요?)&lt;br&gt;&lt;br&gt;“Could you double-check if my name was updated on the manifest?” (제 이름이 탑승 명단에 업데이트되었는지 다시 한번 확인해 주실 수 있나요?)&lt;br&gt;&lt;br&gt;“Is my luggage also cleared on the manifest?” (제 수하물도 탑승 명단과 함께 통과됐나요?)&lt;br&gt;&lt;br&gt;‘manifest’는 항공 탑승 명단뿐 아니라 물류·통관에서도 자주 쓰입니다. 여행 중 배송이나 화물 관련 안내를 받을 때 “cargo manifest(화물 명세서)”라는 표현을 들을 수도 있으니 같이 알아두시면 좋습니다.&lt;br&gt;&lt;br&gt;“You are all cleared for boarding.” (탑승 수속·승인이 모두 완료되었습니다.)&lt;br&gt;&lt;br&gt;“We are cleared to enter the private lounge.” (우리는 프라이빗 라운지 입장 승인을 받았습니다.)&lt;br&gt;&lt;br&gt;“Has the flight been cleared for takeoff?” (비행기가 이륙 허가를 받았나요?)&lt;br&gt;&lt;br&gt;“You’re all cleared to go.” (모든 확인이 끝났으니 가셔도 좋습니다.)&lt;br&gt;&lt;br&gt;“Will someone escort us to the gate after the manifest check?” (명단 확인 후 탑승구까지 안내해 주시는 분이 있나요?)&lt;br&gt;&lt;br&gt;“Is there a private area we can wait in?” (우리가 대기할 수 있는 별도 공간이 있나요?)&lt;br&gt;&lt;br&gt;“Could you let us know when it’s time to board?” (탑승 시간이 되면 알려주시겠습니까?)&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WPN2C72NNRD3RGNY6EJ2ZSTZV4.png?auth=02bb3997f74ef96c6ff8e048ed5b51345c3027e5cb8bd832899c2c11559ceeb5&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
+        <media:description type="plain">/Gemini</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법조계 “수사·기소 막는데만 초점 맞춘 기형적 조항”</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/30/C4774TUR65HOJHMFAHPETANV3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/30/C4774TUR65HOJHMFAHPETANV3Q/</guid>
+      <dc:creator>김나영 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R33TSNQJMRP6FKAIJ4OFZOAN6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 소속 법사위원들이 29일 국회에서 열린 법제사법위원회 전체회의에서 서영교 위원장의 의사 진행에 항의하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 더불어민주당이 주도해 국회 법제사법위원회를 통과시킨 형사소송법 개정안에 법원의 공소(公訴)기각 사유를 추가한 데 대해, 법조계 일각에서는 “이재명 대통령 관련 사건을 없애기 위해 검찰의 공소취소에 이어 법원의 공소기각까지 시도하고 있다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;현행 형사소송법은 기소 절차에 명백한 하자가 있으면 법원이 공소기각 판결을 내려야 한다고 규정하고 있다. 중복 기소나 친고죄 사건에서 고소가 취하된 경우 등이 대표적이다. 그런데 이날 통과된 형소법 개정안에는 ‘중대한 위법 수사로 공소가 제기된 경우’ ‘소추 재량권을 현저히 일탈한 경우’ 등 두 가지 공소기각 사유가 추가됐다. 사실상 공소기각 판결을 내릴 수 있는 범위를 넓혀 놓은 것이다.&lt;br&gt;&lt;br&gt;이에 대해 부장판사 출신 한 변호사는 “새로 추가된 조항을 보면, 어떤 위법이 ‘중대’하고 어느 정도의 일탈이 ‘현저’한지 구체적인 기준이 없다”며 “이는 법률의 명확성 원칙에 위배된다”고 말했다. 한 현직 판사는 “이번 개정안은 수사 절차에서 일부 위법이 있었더라도 다른 적법한 증거가 있어 범죄 사실을 입증할 수 있는 사건까지 처벌하지 못하게 만들 수 있다”면서 “수사권·공소권 남용을 막는 데에만 초점을 맞춰놓은 기형적인 조항”이라고 했다. &lt;br&gt;&lt;br&gt;지금까지는 재판 과정에서 수사기관의 위법 수집 증거가 있을 경우 이를 배제하고 나머지 적법한 증거로 유·무죄를 판단할 수 있었지만, 개정안이 시행되면 실체적 판단없이 재판 자체가 취소될 가능성이 높아진 것이다. 판사 출신 변호사는 “공소기각은 실체 판단 없이 재판을 끝내는 만큼, 요건이 훨씬 명확하고 엄격해야 한다”며 “같은 사건을 두고 어떤 재판부는 공소를 기각하고, 다른 재판부는 위법 증거만 배제한 뒤 유·무죄를 판단하는 등 엇갈릴 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;재판 지연이 심화할 것이라는 우려도 나왔다. 한 현직 검사는 “내가 피고인이라면 일단 본안 재판에 앞서 위법 수사 주장부터 하게 될 것”이라며 “수사 적법성을 둘러싼 절차적 공방이 길어지면 재판은 늘어질 수밖에 없고, 결국 그 피해는 국민에게 돌아갈 것”이라고 했다. 또 다른 법조인은 “위법 수사를 걸러낼 장치는 지금도 많다”면서 “굳이 공소기각 사유를 추가한 것은 결국 대북 송금 사건 등 이재명 대통령 사건에 대한 공소취소가 생각대로 이뤄지지 않자, 법원을 통해 공소기각 쪽으로 몰고 가려는 정치적 의도가 있어 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/R33TSNQJMRP6FKAIJ4OFZOAN6I.jpg?auth=a6c7135fca85a9eadd2a6e47593e5105553e968de6c68d92bb9b575637861f79&amp;smart=true&amp;width=5318&amp;height=3660" type="image/jpeg" height="3660" width="5318">
+        <media:description type="plain">국민의힘 소속 법사위원들이 29일 국회에서 열린 법제사법위원회 전체회의에서 서영교 위원장의 의사 진행에 항의하고 있다./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">이동해</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 7월 30일</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/30/NV4S5KZIBFBNNDVENI3O62LGRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/NV4S5KZIBFBNNDVENI3O62LGRY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGWY2J3LLJE7ZKKPLE2OHIR3CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>절도범 셋 중 한명은 노인… 생계형 넘어 탐욕형으로</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/30/RBETZ2NBOBHEXEH5FBVUG356WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/RBETZ2NBOBHEXEH5FBVUG356WA/</guid>
+      <dc:creator>김민혁 기자, 이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RHXPLJYJVCRTAKCA4TVWFQILE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김현국·ChatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 25일 서울 강남구 코엑스에선 한 60대 여성이 의류 매장에서 7만원짜리 청바지를 준비해 온 에코백에 넣어 훔치려다가 직원에게 적발됐다. 이 여성은 “계산하려고 했는데, 잠깐 매장 밖에 있는 남편을 보고 온 것”이라며 절도 혐의를 부인하고 있다. 하지만 범행 당시 이 여성은 모자와 선글라스, 마스크로 얼굴을 철저히 가리고 있었던 것으로 조사됐다. 또 에코백에 청바지를 집어넣고, 그 위에 작은 가방을 넣어 청바지를 숨겼다고 한다. 경찰은 절도 고의가 있는 것으로 보고 있다. 경찰 관계자는 “생계형 절도가 아닌, 갖고 싶은 것을 못 참고 저지른 범행으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;29일 서울 강동구의 한 백화점 식품코너에서 15년째 매니저로 일하는 A씨는 “1주일에 한두 번은 고객이 물건을 훔치는 일을 목격한다”며 “주로 어르신들이 화장품이나 고급 식재료를 훔치는 경우가 많다”고 했다. A씨는 “혹시 목격하더라도 적극적으로 신고하진 않는다. 모른 체 하는 경우가 많다”며 “노인들은 주로 범행을 부인하고, 고성을 지르며 잡아떼는 경우가 많아 오히려 영업에 지장을 주기 때문”이라고 했다. 그러면서 그는 “본사에서도 매장 이미지가 나빠지는 것을 더 우려해 소란을 피하려고 한다”고 했다. &lt;br&gt;&lt;br&gt;60대 이상 노년층의 절도 범죄가 꾸준히 늘고 있다. 그런데 쌀이나 생필품을 훔치는 ‘장발장형 절도’가 아닌, 기호품이나 사치품 등을 훔치는 ‘탐욕형 절도’가 늘고 있다는 게 최근 경향이다. 전문가들은 “한국이 초고령사회에 접어들면서 노인들의 범죄 행태도 다변화하고 있다”고 분석했다.&lt;br&gt;&lt;br&gt;경찰청 범죄통계에 따르면 60대 이상 절도 피의자는 2020년 2만3141명에서 2024년 3만4185명으로 4년 만에 47.7%가 증가했다. 2024년 기준으로 60대 이상 고령층 절도범은 전체 절도범 10만884명의 33.9%나 됐다. 절도범 3명 중 1명이 고령층인 셈이다. 특히 71세 이상 절도범은 2020년 9624명에서 2024년 1만6223명으로 68.5%나 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YF4IPLBI3JFGJBE2GTFI5PMU3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4월 경기 고양시의 한 빵집에선 80대 여성이 단팥빵 5개를 계산하지 않고 들고 나갔다가 경찰에 체포됐다. 기초생활수급자인 이 여성은 치매 등으로 거동이 불편한 남편이 있었다. 이 여성은 “남편에게 좋아하는 단팥빵을 먹이고 싶었다”고 진술했다. 이처럼 고령층 절도의 상당수는 ‘생계형 절도’다. &lt;br&gt;&lt;br&gt;하지만 최근에는 갖고 싶은 물건을 훔치는 이른바 ‘탐욕형 절도’가 늘고 있다는 게 경찰의 설명이다. 서울의 한 경찰서 범죄예방과장은 “쌀이나 값싼 옷처럼 당장 필요한 생필품 절도도 있지만, 요즘은 평소 먹고 싶었던 비싼 과일이나 고급 신발 같은 갖고 싶은 물건을 훔치는 경우가 많아지고 있다”며 “손자에게 주고 싶다는 이유로 게임기를 훔치는 사건도 있었다”고 했다.&lt;br&gt;&lt;br&gt;이런 고령층 절도 유형의 변화는 통계로도 나타난다. 2024년 한 해 동안 경찰에 붙잡힌 65세 이상 절도범 2만6279명의 범행 동기를 조사한 결과, ‘생활이 곤궁해서’ 범행한 저지른 사람은 3474명, 13.2%밖에 안 됐다. 1년 전(2023년)에도 전체 고령층 절도범 2만3348명의 순수한 생계형 절도는 14.6%뿐이었다.&lt;br&gt;&lt;br&gt;전문가들은 “초고령화와 소셜미디어의 발달 등의 영향으로 노인들의 소비 욕구는 커졌는데, 구매력은 그에 못 미치다보니 ‘탐욕형 절도’가 늘고 있는 것”이라고 진단했다. 경찰 프로파일러 출신 배상훈 우석대 경찰행정학과 교수는 “수명이 길어지고 영양 상태가 좋아지면서 노인도 먹고 싶은 것, 갖고 싶은 것이 분명한 소비 주체가 됐다”고 했다. &lt;br&gt;&lt;br&gt;그런데 정작 노인 빈곤은 나아지지 않고 있어, 욕구를 풀기 위한 범죄로 이어지고 있다는 게 전문가들 분석이다. 경제개발협력기구(OECD)에 따르면 한국의 노인 소득 빈곤율은 39.7%였다. 이는 OECD 평균(14.8%)의 2.7배로 주요 회원국 중 1위다. 75세 이상 초고령층의 빈곤율은 54%나 됐다. 소득 빈곤율이란 소득이 중위소득(우리나라 가구 소득의 중간값)의 절반 이하인 사람의 비율을 뜻한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 암 치료제로 인한 심독성 예방법 알려드려요</title>
+      <link>https://www.chosun.com/special/announcement/2026/07/30/HPAFB2SISFEV5NYFT3WJY3WGMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/07/30/HPAFB2SISFEV5NYFT3WJY3WGMU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4MZNBFI75GQFN4AGDD3BC6SLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;랜선교실_2026년_7월_QR코드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원과 조선일보사가 마련하는 ‘랜선 건강교실’ 7월 영상이 업로드됐습니다. 이번 건강 교실 주제는 ‘암 치료와 심독성’입니다. 암 치료를 받는 과정에서 치료제로 인해 심독성이 발병할 수 있습니다. 삼성서울병원 순환기내과 김은경 교수가 심독성의 위험 요인부터 예방법까지 다양한 궁금증을 풀어드립니다. &lt;br&gt;&lt;br&gt;랜선 건강 교실은 매월 삼성서울병원과 조선일보 공식 유튜브 채널에 소개됩니다. QR코드를 스캔하면 해당 영상으로 연결됩니다.&lt;br&gt;&lt;br&gt;▲링크: &lt;a href="https://youtu.be/qdvzFVfTA6Y" rel=""&gt;https://youtu.be/qdvzFVfTA6Y&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염에 쩍쩍 갈라진 옥정호</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/30/23P2D3DR7RFNBH6DUJ33MIADXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/23P2D3DR7RFNBH6DUJ33MIADXE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCUFKQMZINEIPLQW76KSQ7Q364.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 전북 임실군 옥정호 바닥이 드러나 있다. 비가 적게 오는 ‘마른장마’에 폭염이 겹쳐 바닥이 갈라져 있다. 이날 옥정호의 저수율은 25.6%로 1년 전의 3분의 1 수준이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중수청 가는 검사들, 4·5급 대우 받을 듯</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/30/FKVJK7PSKVBKHNVRKEJZ4CBD7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/30/FKVJK7PSKVBKHNVRKEJZ4CBD7U/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:46:00 +0000</pubDate>
+      <content:encoded>오는 10월 출범을 앞둔 중대범죄수사청(중수청) 개청준비단이 다음 주부터 전국 검찰청을 돌며 검사와 검찰 수사관을 대상으로 ‘채용 설명회’를 연다. 다만 검사들 사이에선 개청 초기 중수청으로 옮겨가는 검사는 많지 않을 것이란 전망이 나온다. 중수청으로 옮기면 ‘검사’라는 직함을 쓸 수 없고 현행 검사 직급(3급 대우)보다 낮은 직급에 해당하는 처우를 받게 될 가능성이 있기 때문이다. 개청준비단 안팎에선 평검사가 중수청으로 전직(轉職)할 경우 4·5급 처우를 하는 방안이 거론된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCVBYCTYNZHXFFVAB7WD6FMPC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중수청 준비단이 있는 서울 종로구 정부서울청사 창성동 별관에 한 직원이 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 법조계에 따르면, 개청준비단은 전날(28일) 검찰 내부망에 “법무부·검찰청 소속 검사와 직원을 대상으로 중수청의 직무와 임용 절차 등에 대한 정보를 제공하는 설명회를 개최하고자 한다”고 알렸다. 설명회는 다음 달 5일 부산·제주지검 등에서 시작해 11일 서울중앙·서부지검, 서울고검을 끝으로 마무리할 예정이다. &lt;br&gt;&lt;br&gt;중수청은 검찰청이 폐지되고 공소청으로 전환하는 10월 2일부터 부패·경제·방위사업 등 6대 주요 범죄를 수사한다. 이에 대응해 6국 체제로 조직을 구성하고, 직원은 수사관 등 2000~3000명 규모로 꾸릴 예정이라고 한다. 검사들의 전직 기회를 열어 뒀지만 직제는 경찰관, 검찰 수사관 등과 똑같이 ‘수사관’으로 일원화한다.&lt;br&gt;&lt;br&gt;이 때문에 검사들은 중수청 전직을 주저하는 분위기다. 개청준비단은 최근 검찰 부장급(사법연수원 36~39기) 검사들에게 개별적으로 연락해 중수청 국장직을 제안한 것으로 알려졌다. 한 현직 검사는 “중수청 수사관이 각종 영장을 법원에서 발부받으려면 영장청구권이 있는 공소청 검사의 허락을 받아야 한다”며 “독립적으로 법률 판단을 할 수 있는 검사에 비해 자율성이 없어 전직이 꺼려진다”고 했다. &lt;br&gt;&lt;br&gt;특히 검찰청 시절 검사 직급보다 낮은 직급의 처우를 받을 수 있다는 점도 검사들이 전직을 꺼리는 이유다. 현행법상 검사는 일반직 공무원과 구분되는 특정직 공무원으로, 중앙부처 3급(과장급)에 준하는 대우를 받는다. 그러나 정부는 경력에 따라 검사 출신을 4·5급으로 임용하는 방안을 검토 중이라고 한다. 개청준비단 관계자는 “전직하는 검사의 처우 문제는 아직 정해진 바 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“AI에 생각하는 힘 넘겨줄수록 인간 초라해져”</title>
+      <link>https://www.chosun.com/national/education/2026/07/30/2N2L7JWMSVCJXI7HWER27XRO54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/30/2N2L7JWMSVCJXI7HWER27XRO54/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:45:00 +0000</pubDate>
+      <content:encoded>“생각하는 힘을 AI에 넘겨줄수록, 인간은 초라해지고 말 겁니다.”&lt;br&gt;&lt;br&gt;27일 강원도 춘천 한림대에서 만난 미국 세인트존스 대학 월터 스털링(55) 총장은 “AI가 몇 초 만에 답을 주는 시대가 시작되면서 매 순간 무엇이 옳고 그른지, 내 생각은 무엇인지를 판단하고 평가하는 능력이 더욱 중요해지고 있다”며 이렇게 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUMZAALGSZCEXETD3AECZXQ47I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 강원도 춘천 한림대에서 미국 세인트존스 대학 월터 스털링 총장이 AI 시대에 고전을 읽고 토론하는 교육이 왜 더 중요해지고 있는지 설명하고 있다. 그는 “AI가 몇 초 만에 답을 주는 시대일수록 스스로 생각하고 판단하는 힘이 필요하다”고 했다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세인트존스대학 학생들은 별도의 전공 없이 대학 4년 동안 200여 권의 고전을 읽고 함께 토론한다. 예컨대 언어·수학·과학·음악도 배우지만 일반 교과서 대신, 기하학을 체계화한 고대 그리스 수학자 유클리드나 만유인력 법칙을 발견한 아이작 뉴턴의 원서를 읽으며 공부하는 식이다. 가르치는 사람도 이 학교에선 ‘교수(professor)’가 아니라, 학생을 지켜보면서 방향을 잡아준다는 뜻을 가진 ‘튜터(tutor)’로 부른다.&lt;b&gt; &lt;/b&gt;AI 시대에 스스로 읽고 판단하는 힘을 기르는 문해력이 점점 더 중요해짐에 따라 이 대학 커리큘럼도 중국 명문 중산대와 런던 리치먼드대는 물론, 국내 인천대와 한림대 등에서 적용하는 등 인기를 끌고 있다. 국내 대학·교육청 등과의 협업 논의를 위해 최근 방한한 스털링 총장은 “AI에 책 요약을 맡기면 내용은 얻지만, 읽고 해석하고 따지는 과정에서 빚어지는 능력은 얻지 못한다”고 강조했다. 다음은 일문일답.&lt;br&gt;&lt;br&gt;-지금 왜 문해력이 중요한가. &lt;br&gt;&lt;br&gt;“우리는 지금 온갖 주장에 폭격당하고 있다. 무엇이 진짜이고, 무엇이 우리를 조종하려고 만들어진 것인지 가려내는 능력이 정말로 중요해졌다. AI로 인해 그 중요성이 훨씬 더 커질 것이다. 이제는 예전 수준을 유지하는 것으로 부족하다. 더 강하고 더 독립적으로 생각하는 사람이 돼야 이 같은 상황을 다룰 수 있다.”&lt;br&gt;&lt;br&gt;-고전을 읽는 것이 문해력과 무슨 상관인가. &lt;br&gt;&lt;br&gt;“아리스토텔레스는 그의 저서 동물부분론(Parts of Animals)에서 ‘교육받은 사람이란, 전문가가 아니더라도 그 설명이 타당한지 아닌지는 가려낼 수 있는 사람’이라고 했다. 과학이든 정치든, 무엇이 근거이고 그 근거가 어떻게 뒷받침되는지를 따져볼 수 있어야 한다는 뜻이다. 가짜 뉴스뿐 아니라 과학자가 뭔가를 새로 발견했다는 주장, 경제학자가 무슨 새로운 예측을 했다는 주장 등까지 말이다. 우리는 이런 주장들을 판단해야 하는 시험을 매일 치르고 있다.”&lt;br&gt;&lt;br&gt;-교육에 AI가 필요한가. &lt;br&gt;&lt;br&gt;“학생들이 살아갈 세상은 삶과 일터에서 AI를 쓰는 세상이다. 그러나 AI를 잘 활용하는 사람이 되려면 스스로 생각하고 판단하는 능력을 기르는 것이 먼저다. 이를 위해선 탈기술화된 환경이 필요하다. 세인트존스 교실에는 종이책과 칠판과 손으로 쓰는 필기만 있을 뿐이다. 지름길처럼 보이는 도구를 쓰면 결과를 쉽게 얻을 순 있겠지만, 스스로 생각하고 판단하는 일차적 능력을 기를 기회를 빼앗기게 된다.”&lt;br&gt;&lt;br&gt;-학생들의 문해력이 예전과 달라졌나. &lt;br&gt;&lt;br&gt;“달라졌다. 우리 대학에 들어온 학생조차도 이전보다 읽고 오는 책이 줄어들었다. 스마트폰 같은 기기들이 일반 성인이나 학생 구분 없이 무언가에 집중할 수 있는 능력을 산산조각 냈기 때문이다. 독서가가 되려면 이제 많은 사람이 스스로를 재훈련해야 하는 상황이 됐다.”&lt;br&gt;&lt;br&gt;-한국 학부모들은 ‘고전 읽기 교육으로 아이가 취직할 수 있겠느냐’고 걱정한다. &lt;br&gt;&lt;br&gt;“AI가 세상을 흔들면서 직업과 산업을 옮겨 다니는 일이 그 어느 때보다 많아졌다. 이제 경영자들이 원하는 인재는 좁은 전공과 칸막이 쳐진 교육만 받은 대학 졸업자가 아니다. 이들로는 원하는 일을 시킬 수 없다는 걸 알기 때문이다. 경영자들이 원하는 건 코딩보다 소통하는 능력, 다른 관점을 이해하는 능력, 함께 일하는 능력이다.”&lt;br&gt;&lt;br&gt;-고전 한 권을 권한다면. &lt;br&gt;&lt;br&gt;“오디세이아다. 크리스토퍼 놀런 감독의 영화 덕에 지금 이 작품에 대한 관심이 폭발하고 있다. 오디세우스는 단순히 모험을 하는 게 아니라, 여행하면서 배우는 사람이다. 낯선 곳에 던져져 매번 새로 판단하고 헤쳐 나가는 인간, AI 시대의 이상적 인간상이다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;☞미국 세인트존스 대학&lt;/b&gt;&lt;br&gt;&lt;br&gt;1696년 전신인 킹윌리엄학교에서 출발해 하버드(1636년), 윌리엄앤드메리(1693년) 등과 함께 미국에서 역사가 오래된 대학으로 꼽힌다. 4년간 200여 권의 고전을 읽고 토론하는 교육으로 유명하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>엄마와 함께 지진 체험</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/30/SRG5RNJZURHMNLEISAAV4GDRQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/SRG5RNJZURHMNLEISAAV4GDRQU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/434P44H5TBAIRE7Y4BFXGHTXWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 규슈 구마모토현 강진으로 지진 안전에 대한 관심이 커진 가운데, 29일 서울 광진구 광나루안전체험관에서 아이와 보호자가 지진 체험을 하고 있다. 진동이 느껴지자 책상 밑으로 머리를 숙이고 대피한 모습.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고전소설 읽고 정답 없는 토론… 고교생들 “스스로 생각하는 것이 뭔지 깨달아”</title>
+      <link>https://www.chosun.com/national/education/2026/07/30/KL5XMVR2Y5HYBENQPE6HXOSLAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/30/KL5XMVR2Y5HYBENQPE6HXOSLAE/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:45:00 +0000</pubDate>
+      <content:encoded>“이 책에서 주인공은 고양이를 사랑한다고 말하면서 눈을 도려냈죠. 왜 그랬던 걸까요?”&lt;br&gt;&lt;br&gt;이 질문에 조용해졌다. 15초쯤 침묵이 이어지다가 한 학생이 입을 열었다. “동물을 사랑한 게 아니라, 동물을 사랑하는 자신의 모습을 좋아했던 것 같아요.” 그러자 다른 학생은 “그동안 자기가 했던 말과 달리, 정작 자신은 고양이를 그만큼 사랑하지 않는다는 사실을 깨닫고 선을 넘어버린 거 아닐까요?”라는 의견을 제시했다. &lt;br&gt;&lt;br&gt;지난 27일 강원 춘천시 한림대 강의실에는 춘천시 고등학생 6명과 튜터 3명이 둥그렇게 둘러앉아 에드거 앨런 포의 단편소설 ‘검은 고양이’에 대해 의견을 나누고 있었다. 춘천시 지원으로 열린 이날 수업은 미국 세인트존스 대학 방식으로 진행됐는데, 토론 주제는 ‘문학에서 나타난 도플갱어’였다. 도플갱어는 자기와 똑같이 생긴 분신을 뜻하는 독일어로, 문학 등에선 ‘내면의 또 다른 자아’를 상징하는 의미로도 쓰인다. &lt;br&gt;&lt;br&gt;토론 내내 아무도 답변을 강요하지 않았다. 침묵이 이어지자 방향을 잡아주는 ‘튜터’를 맡은 한경민 한림대 교수가 “이 소설엔 왜 고양이가 두 마리인가”라고 질문을 던졌다. 그러자 “죽은 고양이와 똑같은 모습의 고양이가 보이기 시작한 건 주인공의 양심 때문인 것 같아요” 등과 같은 의견이 나오면서 대화가 재개됐다. 한 학생은 “어릴 때 동물을 사랑했다는 말 자체가 믿기지 않는다”며 원문의 문장을 근거로 반박하기도 했다.&lt;br&gt;&lt;br&gt;학생들은 수업을 통해 생각하는 방법을 배울 수 있었다고 했다. 전재희(17)양은 “처음에는 말하는 것 자체가 부끄러웠다”면서 “내가 말한 것을 다른 사람이 보충해 주니 토론을 통해 내 생각이 완성되는 느낌을 받았다”고 했다. 안지원(17)군도 “평소에는 궁금한 걸 AI에 물어보면 됐는데, 여기서는 그 답까지 고민해 보니 스스로 생각한다는 게 뭔지 알 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“GMO 완전표시제, 연내 전면 실시” 대통령 한마디에 난감해진 식약처</title>
+      <link>https://www.chosun.com/national/national_general/2026/07/30/Y4AUUZHPBJEPRNADBBM6XCY6LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/Y4AUUZHPBJEPRNADBBM6XCY6LU/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YMH7DNFK5J65PKEUZWTUAEFY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 대형마트 매대에 간장 제품이 진열돼있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 식품의약품안전처(식약처)가 ‘유전자변형식품(GMO) 완전 표시제’ 도입 때문에 비상이 걸렸습니다. 이 제도가 시행되면 제품을 만들 때 원료로 유전자변형 농축수산물을 한 번이라도 썼다면 ‘GMO’ 표시를 해야 합니다. 설사 최종 제품에서 유전자변형 성분(DNA·단백질 등)이 검출되지 않더라도 말이죠. &lt;br&gt;&lt;br&gt;당초 식약처는 전문가 및 식품업계와 오랜 기간 논의 끝에 올해 12월 31일부터 간장류, 내년 12월 31일부터 당류(물엿·올리고당 등)와 식용유지류(대두유·마가린 등)에 이 제도를 적용하기로 하고, 지난 8일엔 이를 고시했습니다. 그런데 이재명 대통령이 최근 열린 국무회의에서 “(이 제도는) 소비자 선택권 보장이 핵심인데 왜 품목별로 적용 시기를 나누느냐”고 지적한 겁니다. 나눠서 시행하지 말고 올해 말부터 일괄적으로 도입하는 방안 검토를 주문했죠. &lt;br&gt;&lt;br&gt;정부가 품목별로 시기를 다르게 잡은 건 식품업체들의 준비 기간을 고려한 조치였습니다. 그런데 갑자기 새로운 지시가 떨어지자, 식약처는 발칵 뒤집어졌습니다. 식약처 관계자는 “국무회의에서 나온 주문이 현실적으로 가능한지, 예상되는 문제는 무엇인지 전반적으로 다시 들여다보고 있다”고 했습니다. 문제는 고시를 바꾸는 것이 쉽지 않다는 겁니다. 식품업계와 소비자단체 등의 의견을 다시 수렴하고, 규제 강화에 해당할 경우 규제심사도 거쳐야 합니다. &lt;br&gt;&lt;br&gt;식품업계도 비상입니다. 당초 내년 말로 예고했던 당류와 식용유지류까지 올해 말 적용 대상으로 바뀐다면 준비할 기간이 정말 얼마 남지 않았기 때문이죠. GMO 표시 적용 대상이 되지 않기 위해 기존 원료를 바꿀 계획까지 세웠던 업체들 사이에선 “새 원료 확보와 관리 체계 정비에 시간이 너무 부족하다”고 호소합니다. 설사 제품에 그냥 GMO 표시를 하는 쪽으로 회사 입장을 정하더라도, 이를 위해선 제품 포장재도 새로 제작해야 합니다. 이 과정에서 늘어난 비용이 제품 가격에 반영돼 결국 소비자 부담으로 돌아갈 수 있다는 지적도 나옵니다. &lt;br&gt;&lt;br&gt;소비자가 일상적으로 섭취하는 식품에 대해 알 권리를 보장해야 한다는 대통령의 지적도 일리는 있습니다. 하지만 여러 이해관계자들의 의견 조율을 거쳐 이미 고시까지 마친 제도가 대통령의 한마디로 원점에서 다시 검토되는 현 상황이 과연 정책상 바람직한 건지 의문이 듭니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2YMH7DNFK5J65PKEUZWTUAEFY4.JPG?auth=69b001f6652f45a7f4ff5c4c6fdf34b7ff56b20de1dc27fae810119f58158190&amp;smart=true&amp;width=5175&amp;height=3450" type="image/jpeg" height="3450" width="5175">
+        <media:description type="plain">서울 시내의 한 대형마트 매대에 간장 제품이 진열돼있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박정호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>비만 새로운 기준 ‘체중 아닌 합병증 여부’… 뚱뚱해도 당뇨병 없이 건강한 사람 있어</title>
+      <link>https://www.chosun.com/medical/2026/07/30/36M7AHBM5BAQVHH5LIPEMBUXGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/30/36M7AHBM5BAQVHH5LIPEMBUXGU/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:43:00 +0000</pubDate>
+      <content:encoded>뚱뚱해도 건강한 사람이 있다. 현재의 비만 기준인 체질량지수(BMI)는 비만에 따른 질병 상황을 반영하지 못한다. 특히 한국인이 그렇다. 이에 분당서울대병원 내분비내과 임수 교수팀은 아시아인에게 맞는 새로운 비만 진단 기준을 국제학술지 ‘네이처 리뷰 내분비학’ 논문 발표를 통해 제시했다. &lt;br&gt;&lt;br&gt;새 기준은 비만을 단순한 체중 문제가 아니라 실제로 비만 합병증이 나타나는지에 따라 진단한다. 체지방은 많지만 별다른 합병증 없이 일상생활에 지장이 없는 상태를 ‘비만 전 단계’로 한다. 반면 체지방 과다로 중요 장기의 기능 이상 등 합병증이 실제로 발생한 상태를 ‘임상적 비만병’이라는 새로운 분류로 나눈다. &lt;br&gt;&lt;br&gt; 임상적 비만병의 진단은 먼저 체지방이 과다한지 확인한 뒤, 장기 기능의 이상 여부를 평가한다. 구체적으로 ▲허리둘레 ▲체지방률 ▲혈당 ▲혈압 ▲콜레스테롤 ▲신장 기능 ▲뼈-지방-근육 비율 등을 측정한다.&lt;br&gt;&lt;br&gt;연구팀은 비만 전단계에서는 식습관과 운동 등 생활습관 개선으로 합병증 발생을 예방하고, 임상적 비만병 단계에서는 이미 합병증이 진행된 상태이기 때문에 위고비나 마운자로 같은 GLP-1 계열 비만 치료제나 비만대사수술 같은 적극적인 치료가 필요하다고 했다. &lt;br&gt;&lt;br&gt;임수 교수는 “한국 등 아시아인은 체중이 많이 나가지 않아도 내장지방과 간·췌장 지방이 축적돼 당뇨병과 지방간 위험이 높아질 수 있다”며 “비만 치료 기준을 체중계 숫자에 집착하지 않고 환자의 실제 건강 문제로 옮겨서 조기 치료 기회를 넓혀야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>줄줄 흐르면 ‘나쁜 땀’… 천천히 고르게 나야 ‘좋은 땀’</title>
+      <link>https://www.chosun.com/medical/2026/07/30/GO6PCVPVLNE4XIW7DBNIJF2HPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/30/GO6PCVPVLNE4XIW7DBNIJF2HPA/</guid>
+      <dc:creator>김철중 의학전문기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBJHON2AF5DUJBHBV747QOKWDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어떤 이는 여름철 10분만 걸어도 셔츠가 흠뻑 젖고, 목과 등에 땀이 줄줄 흐른다. 옷이 마르면 가슴과 등 부위에 하얀 소금 자국이 남는다. 반면 어떤 이는 같은 활동을 해도 땀이 천천히 나고, 비교적 묽고, 땀이 몸 전체에 고르게 맺힌다. 하얀 소금 자국도 적다.&lt;br&gt;&lt;br&gt;일본 건강장수과학진흥재단이 운영하는 건강장수넷 분석에 따르면, 이 차이를 ‘좋은 땀’과 ‘나쁜 땀’으로 표현한다. 의학적인 분류는 아니지만, 일반적으로 좋은 땀은 묽고, 잘 증발하며 염분 손실이 적은 땀을 말한다. 짜고 끈적이며 대량으로 흘러내리는 땀은 ‘나쁜 땀’으로 설명된다.&lt;br&gt;&lt;br&gt;땀은 대부분 피부에 있는 에크린 땀샘에서 만들어진다. 에크린 땀샘은 온몸에 분포하며 특히 손바닥과 발바닥, 이마 등에 많다. 운동이나 더위로 중심 체온이 오르면 뇌의 시상하부가 이를 감지하고 교감신경을 통해 땀샘에 땀을 내라고 신호를 보낸다. 비정상적인 체온 상승을 막기 위함이다.&lt;br&gt;&lt;br&gt;땀 자체가 몸을 식히는 것은 아니다. 땀이 피부 표면에서 수증기로 변해 공기 중으로 날아가면서 피부 열을 빼앗아 체온이 내려간다. 땀이 많이 흐른다고 반드시 몸이 잘 식고 있다는 뜻은 아니다. 땀이 피부에서 증발하지 않고 바닥으로 줄줄 떨어질 정도면 땀으로 인한 냉각 효과를 충분히 내지 못하는 셈이다.&lt;br&gt;&lt;br&gt;요즘처럼 덥고 습도가 높으면 땀이 잘 증발하지 않는다. 땀이 줄줄 흘러도 몸 안의 열은 빠져나가지 못하게 되어 체내 온열 스트레스를 키운다. “땀을 많이 흘렸으니 몸이 식었겠지”라는 생각은 위험하다. 오히려 옷이 흠뻑 젖고 땀이 줄줄 흐르는데도 얼굴이 뜨겁고 맥박이 빠르다면, 온열 스트레스로 인한 탈수 현상으로 봐야 한다.&lt;br&gt;&lt;br&gt;땀샘 깊은 곳에서 만들어지는 ‘일차 땀’은 혈액 성분과 비슷한 농도의 나트륨을 포함한다. 이 땀이 피부 표면으로 올라오는 동안 땀샘의 관에서는 나트륨을 다시 체내로 흡수하여 ‘최종 땀’은 묽어진다. 그러나 땀이 너무 빠른 속도로 대량 생산되면, 나트륨을 충분히 재흡수할 시간이 줄어든다. 그러면 피부로 나오는 땀의 나트륨 농도가 높아져 소금기가 많고 끈적이는 땀이 된다. 반대로 천천히 넓게 분비되는 땀은 나트륨이 더 많이 재흡수돼 상대적으로 묽고 산뜻해진다. 그러면 체온 저하 효과가 큰 ‘좋은 땀’이 된다. 땀을 천천히 흘려야 같은 양의 땀을 흘려도 염분 손실을 줄일 수 있다.&lt;br&gt;&lt;br&gt;땀의 양과 배출은 유전적 차이와 성별, 나이, 땀샘의 민감도, 복용 약물 등에 영향을 받는다. 하지만 정기적인 운동을 하면 땀샘도 훈련되고, 천천히 고르게 나는 좋은 땀을 흘릴 수 있다. 특히 운동 순서를 저강도-고강도-저강도 순으로 하면, 체온이 크게 오르기 전에 땀이 나기 시작하는 체내 열반응이 좋아진다. 이런 사람은 무더위에도 잘 적응한다. &lt;br&gt;&lt;br&gt;사우나나 과격한 운동으로 땀을 억지로 많이 낸다고 열반응이 좋아지는 것은 아니다. 오히려 수분과 전해질을 과도하게 잃을 수 있다. 기온이 비교적 낮은 시간대나 냉방이 가능한 환경에서 운동 시간과 강도를 서서히 올렸다가 낮추는 방식으로 운동하는 것이 좋다.&lt;br&gt;&lt;br&gt;무더위 환경에 지속적으로 노출되어 땀이 난다면, 물은 목마르기 전에 마셔야 한다&amp;lt;그래픽 폭염 속 행동 요령 참조&amp;gt;. 운동 전 물을 마시고 운동 중에도 조금씩 자주 보충하는 것이 좋다. 땀을 장시간 많이 흘리는 경우에는 물과 함께 전해질 보충을 고려하되, 당분이 많은 스포츠음료 과다 섭취는 피해야 한다.&lt;br&gt;&lt;br&gt;땀은 특히 여름 건강의 성적표다. 좋은 땀은 많이 쏟아지는 땀이 아니라, 체온이 크게 오르기 전에 배출이 시작되고, 몸의 넓은 부위에 고르게 퍼지며, 소금 손실을 줄이고, 피부에서 잘 증발해 체열을 효과적으로 떨어뜨리는 땀이라는 것을 알아두자.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[Dr.이은봉의 의학 연구 다이제스트] 빈혈 방치한 고령자, 치매 위험 66% 높아</title>
+      <link>https://www.chosun.com/medical/2026/07/30/DXCHC65SBRBGRHBWXKO4SYUNTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/30/DXCHC65SBRBGRHBWXKO4SYUNTM/</guid>
+      <dc:creator>이은봉</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:43:00 +0000</pubDate>
+      <content:encoded>치매는 인지기능이 저하되는 퇴행성 질환으로, 뇌실질 내에 치매를 유발하는 베타-아밀로이드 단백질 침착이 온다. 그러면 혈액 내에도 인산화 타우 207 단백, 신경교 섬유질 산성 단백 등 치매 관련 단백 물질 농도도 올라가서, 혈액검사로 치매를 진단할 수도 있다.&lt;br&gt;&lt;br&gt;고령자의 약 10%에서 빈혈이 있는데, 빈혈이 지속되면 뇌위축이 발생하고 뇌백질 변화가 일어나 치매를 유발할 것이라는 가설이 제기되어 왔다. 노벨의학상을 시상하는 스웨덴 카롤린스카 대학 연구팀은 최근 빈혈의 유무가 치매 발생에 미치는 영향을 조사해서 그 결과를 미국의사협회지 네트워크 편에 발표했다.&lt;br&gt;&lt;br&gt;연구는 60세 이상 스웨덴인 2282명을 대상으로 했다. 연구 대상자들로부터 빈혈의 지표인 헤모글로빈과 치매 때 올라가는 혈액 지표인 여러 단백 물질을 측정한 후, 최대 16년간 추적 관찰하면서 치매 발생 여부를 파악했다.&lt;br&gt;&lt;br&gt;연구 결과 총 199명에게 빈혈이 있었고, 총 362명에서 치매가 발생했다. 빈혈이 있는 사람은 빈혈이 없는 사람보다 치매 발생률이 66% 높았다. 이들은 혈액 내 치매 관련 지표 단백 물질 농도가 더 높았다. 빈혈이 있으면서 혈액 내 치매 관련 물질 농도가 높은 사람은 추적 관찰 시 치매 발생률이 최대 364%나 더 높았다.&lt;br&gt;&lt;br&gt;장기간의 빈혈은 뇌에서 저산소증을 지속시키고, 산화 스트레스를 축적시키며, 뇌신경을 소실시키고, 뇌혈관 기능 이상도 유발하여 치매 발생을 높인다. 치매 위험을 줄이고 싶다면, 정기적인 검진을 통해서 빈혈이 있는지 미리 확인하고 적절히 관리해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>60대부터는 ‘관상동맥 석회화’ 검사 추천 </title>
+      <link>https://www.chosun.com/medical/2026/07/30/O4ECPNOUKNG7HG3YAC7VNSGC7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/30/O4ECPNOUKNG7HG3YAC7VNSGC7A/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:43:00 +0000</pubDate>
+      <content:encoded>건강검진. 남들 하는 대로 기본 항목만 받고 나오자니 불안하고, 값비싼 특수 검사를 다 얹자니 부담스럽다. 나이와 성별, 가족력에 따라 꼭 챙겨야 할 검사는 무엇일까. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 강북삼성병원 서울건진센터장 정현숙 가정의학과 교수와 함께 연령대별 건강검진 제대로 받는 법을 알아봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKAOJOUEBRCCVEL23Z7T7ZBY7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 교수는 “60대가 되면 암 말고도 심혈관 질환 위험이 높아진다”며 해당 연령대에 관상동맥 석회화 검사를 추천했다. 60대 중반부터는 인지 기능, 근감소증, 골다공증 검사가 중요해진다. ‘독립 생활’을 위해서다. &lt;br&gt;&lt;br&gt;정 교수는 “전립선암 검진은 주로 혈액검사로 하는데, 암이나 염증으로 전립선 세포가 망가지면 혈액 속 PSA(전립선특이항원) 수치가 올라가기 때문”이라고 했다. 20·30대 여성은 자궁경부암 검진을 받는 게 좋다. 또 자궁 내부와 난소 상태를 확인하는 초음파 검사도 중요하다고 한다. 초음파로 자궁내막암과 난소암 진단이 가능하기 때문이다.&lt;br&gt;&lt;br&gt;최근에는 유전자 검사를 제공하는 건강검진센터가 늘었다. 유전자 변이가 대대로 내려오는 가계가 있는데, 이 경우 특정 질환에 걸릴 확률이 높아지기 때문에 미리 검사를 통해 확인하는 것이다. 심전도 검사 등 일부 영역에선 인공지능(AI)을 검진에 활용하기도 한다. 비만 치료제 마운자로나 위고비를 투여받는 사람은 위장 내 음식물 체류 시간이 길어질 수 있기 때문에 검진 전 금식 시간을 더 늘려야 한다. &lt;br&gt;&lt;br&gt;지면에 표기된 QR코드를 스마트폰으로 찍으면, ‘이러면 낫는다’ 건강검진 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFMSXZOLONBP7HGVDWD2OQUTZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책] “이제 한국인 다 됐네!” 순수한 칭찬에 상대는 상처받고 고민 빠질 수 있어요</title>
+      <link>https://www.chosun.com/national/nie/2026/07/30/VFUPMRDAINBKPNBAONOB4VZJIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/30/VFUPMRDAINBKPNBAONOB4VZJIY/</guid>
+      <dc:creator>이진혁 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4GS75VOSNF2LJ6GMA6NAEBT6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김지혜 지음｜출판사 창비｜가격 1만 7000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;“이제는 한국인이 다 됐네요.” 칭찬하려고 외국인에게 이런 말을 건넸다고 생각해 봅시다. 의도는 순수했습니다. 하지만 상대는 생각에 잠길 수 있습니다. ‘그전에는 혹시 나를 어떻게 생각했을까?’ ‘나는 아직 한국의 구성원이 아니라고 선을 긋는 걸까?’&lt;br&gt;&lt;br&gt;좋은 뜻으로 건넨 말이 때로는 누군가에겐 상처가 될 수 있습니다. 우리는 흔히 ‘차별’을 나쁜 마음을 먹은 사람이 저지르는 횡포라고 생각합니다. 누군가를 대놓고 미워하거나 괴롭히지 않는 한 자신은 차별과 무관하다고 믿죠. 하지만 선한 의도를 가진 평범한 사람도 자신이 모르는 사이 선입견을 드러내고 사람을 차별할 수 있습니다. 책 제목인 ‘선량한 차별주의자’는 무서운 괴물이 아니라, 어쩌면 우리 자신의 모습입니다.&lt;br&gt;&lt;br&gt;차별이 잘 보이지 않는 까닭은 자신이 누리는 ‘특권’을 알아채지 못하기 때문입니다. 여기서 특권은 막대한 부나 권력만을 뜻하지 않습니다. 계단을 오를 때 아무 불편을 느끼지 않는 사람의 눈엔 무엇이 장벽인지 잘 보이지 않습니다. 하지만 계단을 성큼성큼 오르는 게 모두에게 당연한 일은 아닙니다. 누군가는 높은 곳으로 올라가려 다른 길에서 헤매고 있습니다.&lt;br&gt;&lt;br&gt;저자가 비정규직으로 일하던 직장에서는 정규직 사무실 문엔 나무판으로 된 명패가, 비정규직인 저자의 문에는 보라색 종이를 코팅한 명패가 붙어 있었다고 해요. 그런데 정규직 동료는 2년 반 동안 명패가 서로 다르다는 사실조차 알아차리지 못했답니다. 이와 달리 저자는 아침에 출근해 사무실 문을 열 때마다 자신이 다른 신분으로 구분돼 있음을 확인해야 했지요. 누군가에게는 눈에 띄지도 않는 차이가 다른 누군가에게는 날마다 되풀이되는 낙인이 됩니다.&lt;br&gt;&lt;br&gt;눈에 보이지 않는 것을 파악하려면, 우리는 계속 생각하고 질문을 던져야 합니다. 아이들의 출입을 막는 ‘노키즈존’ 앞에서 부모는 어떤 마음으로 발걸음을 돌리고, 글을 막 배우기 시작한 아이들은 무슨 생각을 할까요? 또 ‘약자를 위한 제도는 역차별’이라는 말 앞에서 약자는 어떤 마음일까요? 일상에서 흔히 주고받는 농담에 대해서도 다시 생각해봐야 합니다. 누군가를 비하하는 농담에 불편함을 드러낼 때 “웃자고 한 말에 왜 죽자고 덤비느냐”고 핀잔을 주는 일은 흔합니다. 하지만 약자를 깎아내리는 식의 농담이라면, 그 웃음의 뒤에 누군가를 자신보다 못한 존재로 여기는 마음이 숨어 있기 마련입니다. 농담의 가벼움을 타고 이런 편견은 더 쉽게 퍼지기도 합니다.&lt;br&gt;&lt;br&gt;책은 완벽한 사람이 되라고 요구하지 않습니다. 누구나 실수할 수 있음을 인정하고, 지적을 받았을 때 변명을 하기보다 자신의 생각을 돌아보라고 권합니다. 중요한 건 ‘나는 좋은 사람이니 차별하지 않는다’고 안심해선 안 된다는 거예요. 내가 보지 못한 게 있을 수 있다고 인정하고, 다른 자리에 선 사람의 말을 들으며 생각과 행동을 고쳐나가야 합니다. 주변을 좀 더 둘러보고 소리에 귀 기울이는 노력이 곳곳에서 쌓이면 사회는 한층 더 살기 좋은 곳이 될 겁니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [한입 테크 사전] 한글 의미없이 토막내 읽던 챗GPT, 이젠 단어까지 외워 더 똑똑해졌대요</title>
+      <link>https://www.chosun.com/national/nie/2026/07/30/OPCDIBIAWFGK3JCKYQ4FW6ZZ6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/30/OPCDIBIAWFGK3JCKYQ4FW6ZZ6I/</guid>
+      <dc:creator>박상길 디노티시아 LLM 팀장·'비전공자도 이해할 수 있는 챗GPT' 저자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:40:00 +0000</pubDate>
+      <content:encoded>챗GPT가 처음 세상에 나온 게 2022년 말이니, 아직 4년도 채 지나지 않았어요. 그사이 챗GPT는 놀랍도록 똑똑해졌죠. 경쟁 상대인 클로드와 제미나이도 마찬가지예요. 마치 우리나라에서 만든 서비스인 것처럼 한국어도 술술 잘하죠. 하지만 처음 나왔을 때만 해도 챗GPT는 우리말이 무척 서툴렀답니다. “영어로 물어보면 더 좋은 답을 준다”는 말이 나올 정도였죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNMKV4I4N5FFBNJDZIU6GRMTBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그 이유는 지난번 바로 여기서 다뤘던 ‘토큰’(6월 18일자)과 관련이 있답니다. 챗GPT는 토큰이라는 조각 단위로 글을 읽고 써요. 문제는 초기 챗GPT가 이 토큰을 한글에 맞게 잘 나누지 못했다는 거예요. 한글을 잘 모르고 글자를 아주 잘게 부숴 버린 겁니다. 예를 들어 ‘신문은 선생님’은 띄어쓰기 포함 7글자인데, 챗GPT는 이를 무려 16개 토큰으로 쪼갰어요. 심지어 한글의 자음, 모음도 아닌 아무 뜻도 없는 부스러기였어요&lt;b&gt;. &lt;/b&gt;음절마다 소리와 뜻이 살아 있는 과학적인 한글이 이렇게 흩어져 버렸으니 정말 안타까운 일이었어요.&lt;br&gt;&lt;br&gt;신기한 건 그렇게 잘게 쪼개고도 챗GPT가 한국어를 제법 이해했다는 점이에요. 뜻없는 조각이라도 엄청나게 많이 학습해 스스로 규칙을 찾아낸 것입니다. 하지만 비효율적이었죠. 7글자가 16개 토큰이 되었으니 두 배 이상 느려지고, 비용도 두 배 더 들어갔거든요. 그래서 네이버 같은 국내 기업은 “한국어만큼은 우리가 가장 잘 다룬다”라며 하이퍼클로바 같은 자체 모델을 홍보하기도 했지요.&lt;br&gt;&lt;br&gt;하지만 시간이 갈수록 챗GPT는 한글을 점점 잘 다루게 됐어요. 이듬해 나온 GPT-4부터는 ‘신문은 선생님’을 16개의 절반인 8개 토큰으로 처리했죠. ‘신’ ‘문’ ‘은’ ‘생’처럼 자주 쓰이는 흔한 글자는 통째로 한 덩어리로 알아봤고, ‘선’이나 ‘님’ 두 글자만 두 조각으로 나눴어요. 자주 만나는 글자부터 하나의 토큰으로 기억하기 시작한 거예요.&lt;br&gt;&lt;br&gt;GPT-5에 이르러서는 ‘신문은 선생님’을 단 5개 토큰으로 처리해요. ‘신문’ ‘은’ ‘선’ ‘생’ ‘님’ 이렇게요. ‘신문’은 아예 두 글자를 한 덩어리로 묶었어요. 자주 쓰는 말을 통째로 기억하다 보니 처음의 16개가 3분의 1 아래로 줄어든 거예요.&lt;br&gt;&lt;br&gt;이런 변화의 뒤에는 오픈AI에 근무하는 한국계 연구원들의 노력도 있었답니다. 그중 한 명인 정형원 박사는 o1(오원)이라는 새 챗GPT 모델을 선보이며 재미있는 영상을 소개하기도 했죠. “직우상 얻떤 변역깃돋 일끌 슈 없쥐많 한국인듦은 쉽게 앗랍볼 숫 잊댜”처럼 글자를 일부러 망가뜨려 한국인도 헷갈릴 만한 문장을 내밀었는데 새 챗GPT는 “지구상 어떤 번역기도 읽을 수 없지만 한국인은 쉽게 알아본다”며 뜻을 정확히 알아냈어요. 어느덧 챗GPT가 망가진 한글까지 알아볼 만큼 우리말을 깊이 이해하게 된 거예요.&lt;br&gt;&lt;br&gt;하지만 여전히 한국어는 영어보다 토큰을 더 많이 써요. 같은 말을 해도 우리말이 조금 더 비쌉니다. 우리말을 더 잘 알아듣는 AI를 만드는 일은 아직 끝나지 않았답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [뉴스 속의 한국사] 2000년 전부터 얼음 창고 지어… 한강 안 얼면 걱정했죠</title>
+      <link>https://www.chosun.com/national/nie/2026/07/30/MU5ZTZCHPFBPNKBDTVR45VIST4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/30/MU5ZTZCHPFBPNKBDTVR45VIST4/</guid>
+      <dc:creator>이한 작가·'한잔 술에 담긴 조선' 저자, 기획·구성=김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jul 2026 15:40:00 +0000</pubDate>
+      <content:encoded>더운 여름철, 얼음에 자꾸 손이 갑니다. 사람들은 너도나도 얼음이 가득 담긴 음료를 들고 다닙니다. 지금이야 손쉽게 얼음을 만들 수 있지만, 냉장고 같은 가전제품이 없었던 옛날엔 어떻게 했을까요? 한여름 얼음은 꿈도 못 꿨을까요? 우리가 여름철 얼음을 찾듯, 선조들도 얼음을 즐기기 위해 무척 애썼답니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;삼국 시대부터 등장한 얼음 창고&lt;/b&gt;&lt;br&gt;&lt;br&gt;선조들은 ‘빙고(氷庫)’라는 독특한 구조물을 만들었습니다. 한자를 풀어보면 ‘얼음 창고’인데요. 땅을 깊숙이 파낸 뒤 돌이나 나무로 옆을 둘러 공기와 열이 통하지 않도록 한 특수 창고랍니다. 당시엔 얼음을 만드는 제빙(製氷) 기술이 없었기에, 겨울철 강에서 만들어진 얼음에 의존할 수밖에 없었습니다. 한겨울 강의 얼음을 빙고로 가져온 뒤 가마니나 짚 등으로 감싸 열이 최대한 얼음에 가지 않도록 했습니다. 이렇게 하면 여름을 지나 가을까지도 얼음을 꺼내 쓸 수 있었대요.&lt;br&gt;&lt;br&gt;빙고는 언제 처음 만들어졌을까요? 기록에 따르면 신라 3대 왕인 유리 이사금(재위 24~57년) 때 얼음 창고를 만들었다고 해요. 먼 옛날 삼국 시대부터 선조들은 얼음을 손에 넣으려고 애쓴 거죠. 고려 시대로 접어들면 얼음에 관한 기록이 많이 등장합니다. 여름이 다가오며 왕에게 얼음을 올렸다거나, 반대로 왕이 신하에게 얼음을 나눠줬다는 내용 등입니다.&lt;br&gt;&lt;br&gt;조선 시대에도 한양에 빙고를 만들었어요. 지금 지명으로도 남아 있는 동빙고·서빙고(서울 용산구)입니다. 동빙고는 왕실의 제사를 위한 얼음을, 서빙고는 궁궐에서 쓰거나 관리와 백성에게 나눠주는 얼음을 보관했습니다. 특히 서빙고는 한때 9개의 빙고가 만들어질 만큼 큰 규모를 자랑했지요.&lt;br&gt;&lt;br&gt;매년 12월이 되면 한밤중에 얼음을 톱으로 잘라 길이 45㎝, 너비 30㎝, 두께 20㎝의 덩어리로 나누었는데, 이걸 정(丁)이라고 했습니다. 무게가 대략 20㎏ 정도였어요. 매년 20만 정 정도가 빙고에 보관되었습니다. 그리고 더운 여름이 되면 왕의 친척이나 나이 든 관리들은 빙고에서 얼음을 받았습니다. 사람들은 얼음을 칼로 쳐 잘게 부순 뒤 그대로 먹거나, 물에 넣어 먹는 식으로 얼음을 즐겼다고 해요. 백성, 심지어 감옥의 죄수가 얼음을 받기도 했습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H47B5FHNSVGYXND7GF5INT4J54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1950년쯤 한강에서 얼음을 잘라내는 모습입니다. 선조들은 오래전부터 겨울 얼음을 채취해 여름까지 사용했습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGH67CSR3RHF3FANI6GIVOAYRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·25전쟁이 끝난 뒤, 천연빙을 쓰지 말자는 목소리가 점점 커집니다. 사진은 ‘전염병의 온상인 천연빙’이라는 제목의 기사가 담긴 1961년 1월 27일자 조선일보입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMFTI7Q6LVD3JHWMKUAGA6RZXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창녕군에 있는 조선시대 석빙고입니다. /한국민족문화대백과사전·조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;개인이 만든 ‘사빙고’의 등장&lt;/b&gt;&lt;br&gt;&lt;br&gt;사람들은 더 많은 얼음을 가지고 싶어 했습니다. 어떤 사람은 직접 빙고를 만들었어요. 이를 민간이 만든 빙고, ‘사빙고(私氷庫)’라고 했습니다. 조선시대 성종의 형인 월산대군이 처음으로 사빙고를 만든 뒤, 노량진·흑석·마포·양화진 등 한강 주변 곳곳에 민간 빙고가 생겨납니다.&lt;br&gt;&lt;br&gt;조선 후기로 가면 얼음의 수요가 폭발적으로 늘어나요. 생선을 싱싱하게 나르는 일종의 냉장선인 ‘빙어선(氷魚船)’이 등장했기 때문이지요. 그 전에는 물가에서 잡은 물고기를 다른 지역으로 보낼 때 물고기를 말려서 만든 건어물 형태로만 가능했지만, 빙어선의 등장으로 서해에서 잡은 조기·준치·민어 등을 한양 사람들도 신선하게 즐길 수 있게 됐지요. 생선이 썩지 않게 하려면 많은 양의 얼음이 필요했고요. 고기를 공급하던 가게를 뜻하는 ‘현방’에서도 얼음이 필요했습니다. 수요가 늘어나니 자연스럽게 사빙고 주인은 큰돈을 만지게 됐습니다. 업자들의 욕심으로 사람들이 불편을 겪는 일도 있었어요. 겨울철 얼음을 떠서 곳간에 저장하는 걸 장빙(藏氷)이라고 하는데, 장빙을 전문으로 하는 업자들은 자기들끼리 약속을 하고 얼음값을 비싸게 매겼어요. 결국 얼음 유통에 차질이 생겨 생선과 고기가 썩기도 했답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘빙수광’ 방정환&lt;/b&gt;&lt;br&gt;&lt;br&gt;일제강점기에도 얼음의 인기는 계속 됩니다. 식재료 신선도 유지용 뿐만 아니라 먹는 빙수가 보편화됐기 때문이었죠. 조선 시대 때도 빙수가 있긴 했지만, 그 당시만 해도 물에 얼음을 넣어먹는 수준이었다고 해요. 하지만 일제강점기 때부터 간 얼음에다 딸기·바나나 시럽 등을 뿌려먹는 빙수가 본격적으로 퍼지기 시작했답니다. 오늘날의 팥빙수에 비하면 조촐했지만, 그래도 많은 사람이 즐겼습니다. 빙수집도 이곳저곳에 들어섰지요.&lt;br&gt;&lt;br&gt;어린이를 사랑해 어린이날을 만든 것으로 유명한 소파 방정환(1899~1931)도 소문난 빙수광이었습니다. 빙수를 예찬하는 글도 썼어요. 간 얼음이 사르르 녹아버리면서 기분이 좋아진다는 내용이에요. 자신이 좋아하는 어린이처럼 천진난만한 모습을 빙수 앞에서 보인 거였죠. 조금 놀랍게도, 방정환은 날달걀을 깨서 빙수에 넣어 먹기도 했대요. 무슨 맛일지 잘 상상은 안 가지만, 방정환의 말에 따르면 빙수에서 가장 중요한 건 혀에 올리는 순간 녹아 없어지는 부드러운 얼음이라고 하니 무엇이 들어가도 시원했을 겁니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;쉽게 식지 않은 ‘한강 얼음’ 인기&lt;/b&gt;&lt;br&gt;&lt;br&gt;당시 얼음 시장은 천연빙과 인공 얼음으로 나뉘게 됩니다. 과거의 방식대로 한강에서 떠온 천연빙과, 제빙 기술 발전으로 사람이 만들어낸 인공 얼음이 함께 유통됐지요. 얼핏 천연빙이 급속도로 인기를 잃었을 것이란 생각이 들지만, 실제로는 그렇게 되지 않았답니다. 우선 제빙 회사가 만들어내는 얼음이 그 당시 많지 않았고, 사람들은 강에서 얼음을 잘라 쓰는 게 더 익숙했기 때문이에요. 그래서 6·25 전쟁 직전까지도 따뜻한 날씨에 강이 얼지 않아 그 다음해까지 얼음이 부족할까봐 걱정하는 내용의 신문 기사가 나올 정도였습니다. &lt;br&gt;&lt;br&gt;하지만 사람들은 차츰 인공 얼음의 장점을 알게 됐죠. 흙과 먼지는 물론 해로운 균이 섞여 있을지 모르는 천연빙에 비해 인공 얼음이 더 깨끗하다는 사실을요. 정부는 1950년대 후반 천연빙에서 대장균이 검출된 뒤 천연빙 채취를 금지합니다. 그 이후 제빙기로 얼린 인공 얼음은 더 널리 공급됐습니다. &lt;br&gt;&lt;br&gt;이젠 한강에서 얼음을 뜨거나 빙고에서 얼음을 받아와야 하는 시대가 끝났지만, 그때나 지금이나 얼음 한 조각에 더위를 잊는 마음은 그대로일 겁니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[인사] 재정경제부 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/07/30/XSGE25PUVFE7BNVF3BFUYKXJKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/07/30/XSGE25PUVFE7BNVF3BFUYKXJKM/</guid>
@@ -658,33 +862,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;핸드볼 대표팀은 진천선수촌에서 훈련 중인데, 협회의 지원 업무는 정상적으로 이뤄지지 않고 있다. 사무실에 둔 스피드건을 쓰지 못해 대체 장비를 따로 마련했고, 업무용 차량 열쇠도 사무실에 있어 렌터카 비용을 계속 내고 있다. 세팍타크로 대표팀은 아시안게임에 대비해 태국에서 전지훈련 중인데, 사무실에서 유니폼을 꺼내지 못해 각각 6벌씩 새로 제작했다. 아시안게임에서 맞닥뜨릴 경쟁 팀들의 과거 경기 영상과 분석 자료가 사무실에 있어 전력 분석에 차질을 빚고 있다. 대한산악연맹도 국가대표 유니폼과 장비를 꺼내지 못해 다시 제작할 방침이다. &lt;br&gt;&lt;br&gt;한 체육 단체 관계자는 “자기 사무실에 들어가지 못해 창문도 없는 임시 공간에 간이 책상을 놓고 빌린 컴퓨터로 일한다”며 “사무실 봉쇄 사태를 겪으면서 일부 직원은 퇴사를 고민하거나 심리 치료를 받기도 한다”고 말했다. 대한체육회는 봉쇄 사태가 마무리되면 종목 단체별 피해를 정확히 집계해 관련 기관·단체에 보상을 청구할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [455] ‘익숙지 않다’와 ‘익숙치 않다’ </title>
-      <link>https://www.chosun.com/national/nie/2026/07/29/HYTF7OTKZFANPHCYQ2UHHIQWEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/29/HYTF7OTKZFANPHCYQ2UHHIQWEY/</guid>
-      <dc:creator>김수은 토월초 교사</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4AAFVRWSBDCBNCUN3DSIC6EC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘익숙지 않다’는 ‘익숙하지 않다’가 줄어든 말입니다. ‘흔치 않다’는 ‘흔하지 않다’가 줄어든 말이지요. 그런데 왜 ‘익숙지 않다’는 ‘지’를 쓰고, ‘흔치 않다’는 ‘치’를 쓸까요? 그 비밀은 바로 ‘하’ 앞에 있는 받침의 소리에 있습니다.&lt;br&gt;&lt;br&gt;먼저 ‘하’ 앞의 받침의 소리가 ‘ㄱ, ㄷ, ㅂ’일 때는 ‘하’가 통째로 사라집니다. ‘생각하다’의 경우 ‘하’ 앞의 받침의 소리가 ‘ㄱ’이므로 ‘생각하지 않다’는 ‘생각지 않다’로 줄여 쓸 수 있습니다. ‘익숙하다’도 마찬가지입니다. ‘하’ 앞의 받침의 소리가 ‘ㄱ’이므로 ‘익숙하지 않다’는 ‘익숙지 않다’로 줄여 씁니다. &lt;br&gt;&lt;br&gt;반면 ‘하’ 앞의 받침의 소리가 ‘ㄱ, ㄷ, ㅂ’이 아닌 경우 ‘하지 않다’는 ‘-치 않다’로 줄어듭니다. ‘하’에서 ‘ㅏ’ 모음이 탈락해 ‘ㅎ’만 남는데, 그 뒤에 오는 ‘지’와 결합해 거센소리인 ‘치’로 바뀌는 거예요. 그래서 ‘만만하지 않다’ ‘흔하지 않다’는 각각 ‘만만치 않다’ ‘흔치 않다’로 줄여 쓰는 것입니다.&lt;br&gt;&lt;br&gt;이 규칙은 ‘-하다’가 쓰이는 다른 경우에도 같이 적용됩니다. ‘하’ 앞의 받침의 소리가 ‘ㄱ, ㄷ, ㅂ’이 아닌 ‘감탄하게’는 ‘감탄케’로, ‘추진하도록’은 ‘추진토록’으로 줄여 쓸 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;이건 꿈에도 생각지 못한 일이야.&lt;br&gt;&lt;br&gt;이렇게 예쁜 조개껍데기는 흔치 않아.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 여주 하천서 발견된 동남아 서식 멸종 위기종… 평생 이빨 8000개 난대요</title>
-      <link>https://www.chosun.com/national/nie/2026/07/29/LNG4HXVJV5CLTF3TGH56I3E3GU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/29/LNG4HXVJV5CLTF3TGH56I3E3GU/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:41:00 +0000</pubDate>
-      <content:encoded>최근 경기 여주시 하천에서 ‘샴악어’가 발견돼 사람들을 깜짝 놀라게 했어요. 동남아시아가 원산인 샴악어는 지금은 세계적으로 멸종 직전입니다. 허가 없이 거래하거나 소유해선 안 돼요. 어떻게 이 악어가 국내 하천에 있었는지 의문이 커지던 와중, 경찰은 한 남성을 붙잡았습니다. 그는 돈을 주고 샴악어를 구매한 것으로 보여요. 샴악어는 충남 서천군 국립생태원으로 옮겨져 파충류 전문가들의 보호를 받고 있대요.&lt;br&gt;&lt;br&gt;‘샴(Siam)’은 태국의 옛 이름이에요. 샴악어는 이름처럼 태국을 비롯해 인도네시아·베트남·캄보디아·라오스 등에 널리 분포했지만 대부분 자취를 감췄고 캄보디아의 메콩강 습지와 산악 지대 등 극히 일부 지역에만 400여 마리만 남아 있대요. 전 세계 악어 중 멸종에 가장 근접한 종류로 꼽혀요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON3NOMYBLJEBROZXTTKFQQ4OOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;샴악어입니다. 과거엔 흔했지만 지금은 멸종 위기에 놓여 있습니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;샴악어는 다 자란 몸길이가 2~3m쯤으로 악어치고는 크지 않고, 공격성도 강한 편은 아닙니다. 유속이 느린 강과 늪지대에 살며 주로 개구리·물고기·뱀 등 작은 동물들을 사냥해요. 삐쭉삐쭉 나온 이빨은 태어나서부터 죽을 때까지 빠지고 나기를 반복합니다. 한 마리가 보통 64~66개의 이빨을 갖고 있는데, 평생 갈아치우는 이빨은 많게는 무려 8000개에 달한대요. &lt;br&gt;&lt;br&gt;해가 지면 활동하는 야행성이에요. 낮 시간에는 입을 쩍 벌린 채 가만히 있곤 합니다. 땀을 내보낼 수 있는 땀샘이 없기 때문에, 입을 벌려 수분을 증발시켜 체온을 낮추는 거랍니다.&lt;br&gt;&lt;br&gt;암컷은 최대 50개의 알을 낳는데 새끼가 나올 때까지 정성껏 돌본답니다. 여느 악어들과 마찬가지로 부화할 때 온도에 따라 모두 암컷, 혹은 수컷이 돼요. 보통 32~33도 사이면 수컷이 태어나고 그보다 높거나 낮은 온도가 되면 암컷이 태어난대요.&lt;br&gt;&lt;br&gt;예로부터 동남아시아 사람들은 샴악어를 무섭거나 신비로운 존재로 여겼대요. 태국의 전래 동화 ‘끄라이텅 이야기’에는 사람을 공포에 떨게 하고 아가씨를 납치하는 악랄한 샴악어 대마왕 ‘찰라완’이 등장해요. 캄보디아의 유명 관광지인 앙코르와트 유적에 가면 악어가 물고기를 잡는 모습이 외벽에 새겨져 있고요. 캄보디아의 열대 우림 지역인 카르다몸 산맥 일대에 거주하는 원주민들은 대대로 악어를 신성한 존재로 여겨 보호해 왔대요. &lt;br&gt;&lt;br&gt;이렇게 사람들과 다양한 형태로 공존해 온 샴악어가 멸종 위기를 겪게 된 건 최근 들어서랍니다. 인구가 늘어나고 벼농사를 짓기 위해 논을 확대하면서 샴악어 서식지가 줄어들었어요. 핸드백 등을 만들기 위해 악어 가죽 수요가 늘고 악어 고기도 인기를 얻게 되면서 1950년대 무렵부터 야생의 샴악어가 마구잡이로 포획돼 씨가 말랐어요. &lt;br&gt;&lt;br&gt;샴악어 개체 수를 늘리기 위해 곳곳에 악어 농장을 만들고 잡은 샴악어들을 가두기도 했어요. 다른 종류의 악어와 인위적으로 교배도 시켰어요. 농장의 악어 숫자는 크게 늘어났지만 순수한 샴악어 유전자를 가진 개체는 크게 줄어들었습니다. 그러자 세계의 자연 보호 단체들과 각국 정부가 힘을 합쳐 야생에서 간신히 명맥을 잇고 있는 샴악어를 찾아내 안전하게 보호하면서 개체 수를 늘리는 프로젝트를 진행하고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 내달 에듀조선 NIE 논술학원 학부모 설명회</title>
-      <link>https://www.chosun.com/national/nie/2026/07/29/CTGSTJMVRJECNCHWJFKJH5BDSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/29/CTGSTJMVRJECNCHWJFKJH5BDSY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:41:00 +0000</pubDate>
-      <content:encoded>에듀조선 NIE(신문 활용 교육) 논술학원에서 NIE 학부모 설명회를 개최합니다. NIE 교육의 개념과 효과, 실제 수업 방식과 사례를 소개할 예정입니다. 경력 10년 이상의 담당 강사가 온라인, 오프라인으로 진행합니다. QR코드를 스마트폰으로 찍어 신청해 주세요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONIM4PFISFCLPH4PZ6NW3CRHEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;▲대상&lt;/b&gt;: 유치원, 초·중등 학부모 누구나&lt;br&gt;&lt;br&gt;&lt;b&gt;▲장소 및 일정&lt;/b&gt;&lt;br&gt;&lt;br&gt;[오프라인] &lt;br&gt;&lt;br&gt;-8월 19일(수) 오전 10시(기본), 오전 11시(심화)&lt;br&gt;&lt;br&gt;-서울 강남구 에듀조선 NIE 논술학원&lt;br&gt;&lt;br&gt;[온라인] &lt;br&gt;&lt;br&gt;8월 20일(목) 오전 10시, 오전 11시 / 21일(금) 오전 10시&lt;br&gt;&lt;br&gt;▲접수비: 무료&lt;br&gt;&lt;br&gt;▲문의: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [숨어있는 세계사] 女 천황 8명 있었는데… 공주 두고 38촌 男 찾는 이유는?</title>
       <link>https://www.chosun.com/national/nie/2026/07/29/34IQQABYSRH6PLOLKLBAP2SYUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/29/34IQQABYSRH6PLOLKLBAP2SYUA/</guid>
@@ -710,51 +887,6 @@
       <description/>
       <pubDate>Tue, 28 Jul 2026 15:40:00 +0000</pubDate>
       <content:encoded>▲방송미디어통신위원회◇과장급 전보▷국제협력담당관 우혜진&lt;br&gt;&lt;br&gt;▲KBS◇보도시사본부▷보도국 주간(취재1) 조성원▷보도국 주간(취재2) 김나미&lt;br&gt;&lt;br&gt;▲EBS▷유아어린이애니부장 박유림▷교육뉴스부장 이혜정&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 만약의 일을 생각하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/07/29/OPQQHZH6XNESRJH2MJWEO55X5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/07/29/OPQQHZH6XNESRJH2MJWEO55X5A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADM347J7KRCI7AHK24UZOSS3H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 조업(操業)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/07/29/7EYOL62AIZHX5O4KZOHQSQ4YSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/29/7EYOL62AIZHX5O4KZOHQSQ4YSU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWBWTUMKSNBSVJTA3MVGDV3LNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2917] 칼럼 풀어 읽기</title>
-      <link>https://www.chosun.com/national/nie/2026/07/29/3X7MJA55ENEOVIIWOEVGPFXNFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/29/3X7MJA55ENEOVIIWOEVGPFXNFY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25J3UPOBUND7TMTQEA4XOTY5EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 들러리를 서다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/07/29/GNPE3FROZFBHXBA3Q6LAELYQZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/07/29/GNPE3FROZFBHXBA3Q6LAELYQZE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JXIMFMSWZEPXDM2CA6ZOT3M7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] so-called</title>
-      <link>https://www.chosun.com/national/nie/english/2026/07/29/M3ZDLCZ5IRHO5JUVTB5ZSIBIJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/07/29/M3ZDLCZ5IRHO5JUVTB5ZSIBIJU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQTQGLNG3RDNVOOW7SSP5VRZKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>건진법사, 김건희에 “윤석열, 대통령 될 것”</title>
@@ -784,15 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWEYZRMYZWENBVHFSDCZBTMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신준호 마약범죄 정부합동수사본부 1부본부장이 지난 2월 경기 수원시 영통구 수원지방검찰청 브리핑룸에서 마약범죄 정부합동수사본부의 대마 재배시설 적발 관련 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 마약류 사범이 2만3403명으로 집계돼 3년 연속 2만명대를 넘어섰다. 밀수·제조 사범은 역대 최고치를 기록했다.&lt;br&gt;&lt;br&gt;대검찰청 마약·조직범죄부(부장 홍완희 검사장)가 28일 발간한 ‘2025년 마약류 범죄백서’에 따르면, 지난해 적발된 마약류 사범은 전년(2만3022명)보다 1.7% 늘었다. 2023년 2만7611명으로 처음 2만명을 넘어선 뒤 3년째 2만명 선을 웃돌고 있다. 2021년 1만6153명과 비교하면 4년 만에 44.9% 증가했다.&lt;br&gt;&lt;br&gt;공급 단계에서는 밀수와 제조가 동시에 역대 최고치를 기록했다. 밀수 사범은 1772명으로 전년(1126명)보다 57.4% 급증했고, 제조 사범도 19명에서 25명으로 31.6% 늘었다. 전체 공급 사범은 6777명으로 12.4% 줄었지만 국외 반입과 국내 제조는 오히려 증가한 것이다. &lt;br&gt;&lt;br&gt;발송 경로가 확인된 국내 밀반입 마약류는 755.7㎏으로 전체 압수량의 65.4%를 차지했다. 태국·미국·캐나다·독일·베트남 등에서 대량의 마약류가 유입됐다. 대검은 온라인을 이용한 밀수의 용이성과 마약류를 접한 외국인의 국내 체류 증가 등을 원인으로 꼽았다.&lt;br&gt;&lt;br&gt;마약사범의 저연령화도 이어졌다. 30대 이하 사범은 1만4573명으로 전체의 62.3%였다. 10대 사범은 674명으로 전년보다 3.9% 늘었다. 2021년부터 2024년까지는 20대 비중이 가장 높았지만 지난해에는 30대가 29.9%로 20대(29.5%)를 처음 앞질렀다. 검찰은 다크웹과 텔레그램 등 비대면 거래가 확산되면서 인터넷과 스마트폰에 익숙한 젊은 층의 마약 접근이 쉬워졌다고 분석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCSQLQZIXZDBJJPCENYJSSEBSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화군의 한 비닐하우스 단지에 지하벙커를 만들고 대마 재배시설을 만든 모습. /마약범죄 정부합동수사본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 종류별로는 필로폰·MDMA·케타민 등 향정신성의약품 사범이 1만9212명으로 전체의 82.1%를 차지했다. 대마 사범은 2459명으로 전체의 10.5%였다. 외국인 마약사범은 3298명으로 전년보다 2.0% 늘어 역대 최다를 기록했다. &lt;br&gt;&lt;br&gt;전체 마약류 압수량은 1156.4㎏으로 전년보다 1.4% 줄었지만 주요 마약 압수량은 증가했다. 전체 압수량 가운데 향정신성의약품이 80.9%를 차지했다. 필로폰은 376.6㎏으로 25.2%, MDMA는 44㎏으로 30.6% 늘었다. 케타민 압수량도 2023년 42.6㎏에서 2024년 88.9㎏, 지난해 140.6㎏으로 증가했다. 검찰은 해외 발송 조직을 현지에서 추적하는 국제공조와 온라인 유통 감시를 강화하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>무주 전통시장서 상인 흉기 찌른 40대 구속</title>
-      <link>https://www.chosun.com/national/regional/2026/07/28/JWQ5TJ2OY5GQTGP2NSRJEULDRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/28/JWQ5TJ2OY5GQTGP2NSRJEULDRM/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 10:58:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4TSMRQMEYDGMBZMFQTKYRQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무주경찰서 전경. /전북경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 무주경찰서는 전통시장에서 상인을 흉기로 찌르고 달아난 혐의(살인미수)로 40대 A 씨를 구속했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 26일 낮 12시 50분쯤 무주군 무주읍의 한 전통시장에서 60대 상인 B 씨를 흉기로 찌르고 도주한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 범행 2시간여만에 무주의 한 버스터미널에서 A씨를 체포했다.&lt;br&gt;&lt;br&gt;당시 A씨는 식사한 뒤 식당에 있던 흉기를 가지고 나와 옆 가게에 있던 B씨를 찌른 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 동종 전과로 지난 4월 출소한 뒤 생활고를 겪다가 다시 수감되기 위해 범행을 저질렀다.&lt;br&gt;&lt;br&gt;B씨는 현재 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 도주 등이 우려돼 전주지법이 이날 구속영장을 발부했다”며 “조만간 사건을 마무리하고 송치할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>특검 ‘계엄 가담’ 김현태 전 707단장 징역 18년 구형</title>
       <link>https://www.chosun.com/national/court_law/2026/07/28/FPHNRPPVBVHD7FT5L3B5IDM3XY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/28/FPHNRPPVBVHD7FT5L3B5IDM3XY/</guid>
@@ -820,63 +943,6 @@
       <content:encoded>검찰이 300억원대 사기 혐의를 받는 연예기획사 원헌드레드 레이블의 차가원 대표에 대해 28일 구속영장을 청구했다. 경찰이 세 차례 구속영장을 신청한 끝에 검찰이 영장을 청구한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZGIMJVGRRTAZDFGJSTEZRXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차가원 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 특정경제범죄 가중처벌법상 사기 등 혐의를 받는 차 대표에 대해 구속영장을 청구했다. 차 대표는 주식회사 노머스에 자신이 운영하는 연예기획사 소속 연예인의 지식재산권(IP)을 이용한 사업을 제안해 선급금 242억원을 받은 뒤 실제 사업은 하지 않은 혐의를 받는다. 또 지인에게 ‘각자의 명의로 된 주택에 전세 계약을 맺자’며 보증금 54억원을 받아놓고 계약을 이행하지 않은 혐의도 있다. &lt;br&gt;&lt;br&gt;앞서 서울경찰청 광역수사단 금융범죄수사대는 지난달 차 대표에 대해 두 차례 구속영장을 신청했지만, 검찰에서 보완 수사를 요구하며 모두 반려했다. 이후 세 번째 영장 신청 과정에서는 검찰과 경찰이 협의해 차 대표의 계좌를 추적하고 계약 관계를 추가로 분석하는 등 추가 수사를 진행한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 인권보호부는 전날 차 대표를 불러 구속영장 청구 전 피의자 면담을 진행했다. 차 대표 측은 면담에서 “사업을 실제로 진행했다면 선금금 등을 모두 변제할 수 있었다”는 취지로 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 구속영장이 청구되자 차 대표 측 현동엽 변호사는 “사실관계나 법리적으로 사기가 성립되지 않고 다툼의 여지가 많은 사안”이라며 “법원에서 충실히 구속할 사유가 없음을 소명할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>日 규슈서 규모 7.1 지진… 부·울·경서 진동 신고 잇따라</title>
-      <link>https://www.chosun.com/national/regional/2026/07/28/K4RXE7ZGY5EHJMQ7DFPUWZDRAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/28/K4RXE7ZGY5EHJMQ7DFPUWZDRAI/</guid>
-      <dc:creator>부산=권태완 기자, 창원=김준호 기자, 울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 07:58:33 +0000</pubDate>
-      <content:encoded>28일 오후 일본 규슈에서 발생한 지진과 관련, 부산·울산·경남 지역에서 지진 유감 신고가 잇따랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSC4T53GJRMRNFRPLX5TOQI42E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 일본 남부 구마모토현에서 발생한 규모 7.1(잠정)의 지진 소식이 일본 서부 오사카의 텔레비전 화면에 나오고 있다./교도 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 부산소방재난본부에 따르면, 일본 규슈 서부 구마모토현에서 지진이 발생한 이후 부산에서 “(부산)교대역 근처인데 건물이 흔들린다” “해운대 달맞이에도 진동이 느껴졌다” “집 전체가 너무 흔들린다” 등 지진 관련 신고가 291건 접수됐다. 한때 부산에선 119 신고가 폭주하면서 ARS(자동응답시스템)로 전환되기도 했다. &lt;br&gt;&lt;br&gt;울산소방본부에도 진동을 느꼈다는 신고가 100건 접수됐다. 울산소방 관계자는 “울산 남구와 북구 지역에서 진동을 느꼈다는 신고가 많이 접수됐다”고 했다.&lt;br&gt;&lt;br&gt;경남소방본부와 창원소방본부에도 진동을 느꼈다는 신고가 각각 120건, 95건 접수됐다. 인천에서도 연수구 송도동을 중심으로 진동을 느꼈다는 신고가 119에 17건 접수됐다.&lt;br&gt;&lt;br&gt;현재까지 부·울·경 지역에서 확인된 인명 피해나 재산 피해는 없다. 소방에선 지진 관련 신고가 접수되면 지진 행동 요령 등을 안내하고 있다.&lt;br&gt;&lt;br&gt;부산 고리원전과 울산 세울원전 발전에도 이상이 없다고 소방은 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2C5FLLFRPVAW3B7A4CLCC42WBY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구 센텀시티 일대에선 건물에 있던 시민들이 대피하는 소동이 벌어졌다고 한다. 부산 남구에 사는 박모(26)씨는 “건물이 좌우로 흔들리는 게 느껴져 급히 집을 빠져나왔다”고 했다. 울산 북구 양정동 한 아파트에 사는 이모(38)씨도 “14층 집에서 아이에게 책을 읽어주고 있었는데 지진으로 갑자기 집이 흔들렸다”며 “벽면에 붙은 액자와 아이 침대에 붙은 모빌이 흔들리는 걸 봤다”고 했다.&lt;br&gt;&lt;br&gt;창원시청에서는 진동을 느낀 일부 직원들이 놀라 바깥으로 대피한 것으로 전해졌다. SNS(소셜미디어)에서도 “23층인데 한참 흔들렸다”는 등 진동을 느꼈다는 경험담이 올라오고 있다.&lt;br&gt;&lt;br&gt;일본 기상청에 따르면 이날 오후 4시 27분쯤 구마모토현에서 규모 7.1의 지진이 발생했다. 진원지는 구마모토현 구마모토 지방으로 진원의 깊이는 10㎞다. 이 지진으로 구마모토시 등에서 진도 7의 흔들림이 관측됐다.&lt;br&gt;&lt;br&gt;일본 기상청은 쓰나미 주의보도 발령했다. 발령 지역은 아리아케해·야쓰시로해로 예상 쓰나미 높이는 1m다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TSC4T53GJRMRNFRPLX5TOQI42E.jpg?auth=2631f1386adf129c31d3d72788aa76ed70f476f300a5b1d574645da408bdeff6&amp;smart=true&amp;width=3968&amp;height=2242" type="image/jpeg" height="2242" width="3968">
-        <media:description type="plain">28일 일본 남부 구마모토현에서 발생한 규모 7.1(잠정)의 지진 소식이 일본 서부 오사카의 텔레비전 화면에 나오고 있다./교도 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">KYODO</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>세종 현직 경찰관, 성폭행·불법 촬영 혐의로 수사 받아</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/07/28/PE5JBDV23FD7LBFUL3U5BMQSNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/07/28/PE5JBDV23FD7LBFUL3U5BMQSNM/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 09:28:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UNT2UVFZBRSQMFAVTAC5L2HKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 중부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰관이 술에 취한 여성을 성폭행한 혐의로 입건돼 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;대전 중부경찰서는 세종의 한 경찰서 소속 경찰관 A씨에 대한 준강간·불법 촬영 피해를 입었다는 진정이 접수돼 수사하고 있다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;여성 B씨는 대전의 한 주점에서 만난 A씨에게 항거 불능 상태에서 성폭행과 불법 촬영 등의 피해를 입었다는 취지의 진정서를 지난 4월 경찰에 제출했다.&lt;br&gt;&lt;br&gt;A씨는 현재 병가를 내고 출근하지 않는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨와 B씨의 주장이 엇갈리고 있다”면서 “휴대전화 포렌식 등 수사를 통해 사실관계를 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘기자 폭행’ 잠실 집회 참가자 2명 구속영장 기각</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/28/B5FYREADNJGJLLPO4ADB3RGHQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/28/B5FYREADNJGJLLPO4ADB3RGHQA/</guid>
-      <dc:creator>김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 08:45:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JU4QDMGSUZFPRGPTBPF7FNXYKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 개표 상황을 취재하던 기자를 폭행한 잠실 참정권 집회 참가자 2명이 구속을 면했다.&lt;br&gt;&lt;br&gt;서울동부지법 양환승 영장전담 부장판사는 28일 폭행치상·특수감금 혐의를 받는 30대 여성 A씨와 20대 남성 B씨에 대한 구속영장을 기각했다. 양 부장판사는 “증거인멸 및 도주의 우려가 인정되지 않는다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 지난달 5일 서울 올림픽공원 핸드볼경기장 앞에서 개표 상황을 취재하던 JTBC 기자를 폭행한 혐의를 받는다. 한국기자협회 JTBC 지회는 성명을 내고 “부정 선거를 주장하는 시위대가 JTBC 취재진을 감금하고 폭행하는 초유의 사태가 벌어졌다”며 이들을 고소했다. 취재진이 확보한 영상에는 A씨와 B씨가 태극기 봉으로 기자의 손을 때리고 안경과 휴대전화를 빼앗아 던지는 장면이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 실질 심사가 끝난 뒤 “피해자가 기자인 것을 알고 폭행했는지” “심사에서 어떤 점을 소명했는지” 등을 묻는 기자들의 질문에 답하지 않았다. 뒤이어 법원에서 나온 B씨는 “죄송하다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JU4QDMGSUZFPRGPTBPF7FNXYKY.jpg?auth=58f18206efafb8e60528745e32ec27d6614a691d089773dcf52fcdc6c9586130&amp;smart=true&amp;width=1200&amp;height=900" type="image/jpeg" height="900" width="1200"/>
-    </item>
-    <item>
-      <title>검찰 “장윤기 수사 경찰이 송치한 ‘사건보고서’에 강간 살인 보완수사 요구 없어”</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/28/OUM2AP7CCFGXZEIUSRSGXYFMQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/28/OUM2AP7CCFGXZEIUSRSGXYFMQE/</guid>
-      <dc:creator>전남광주=진창일 기자, 전남광주=원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 09:06:53 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDCOJYGNTGGZBTMRSWKNDGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도심에서 일면식 없는 여고생을 살해한 혐의를 받는 장윤기(24)가 지난 5월 14일 전남광주 서부경찰서에서 검찰에 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여고생 살해범 장윤기(24)를 둘러싼 증거 인멸·부실 수사 의혹을 수사 중인 검찰이 “강간 등 살인 혐의를 적용해야 한다는 경찰의 보완 수사 요구는 없었다”는 입장을 내놨다.&lt;br&gt;&lt;br&gt;광주지검은 28일 “경찰이 5월 14일 송치한 수사 기록에 편철된 A4 2페이지 분량의 수사 보고서에는 검찰에 강간 등 살인 혐의를 검토하라거나, 검찰 보완 수사가 필요하다는 내용은 담겨 있지 않았다”고 밝혔다. 해당 보고서는 경찰이 장을 검찰에 구속 송치하기 하루 전인 지난 5월 13일 오후 5시쯤 작성됐다.&lt;br&gt;&lt;br&gt;장을 수사했던 전 전남광주 광산경찰서 형사과장 박모 경정의 변호인은 지난 21일 “훼손된 리얼돌, 장의 휴대전화 속 여학생 불법 촬영물, 베트남 여성 성폭행 등을 보아 성적 목적 범행으로 추정되지만, 경찰 수사 기간 제한으로 형법상 살인죄를 적용해 송치했다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;박 경정은 장에게 강간 등 살인 혐의 대신 형량이 낮은 일반 살인 혐의를 적용해 부실 수사를 지시했다는 의혹을 받고 있다. 박 경정 변호인은 박 경정이 장에게 강간 등 살인 혐의를 적용하려 했지만, 10일로 제한된 구속 수사 기간 때문에 불가능했다는 취지의 주장을 한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCVAGDBLRVIPTJAQL3GJ62DPG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 오전 광주 동구 지산동 광주지방검찰청 앞에서 전국경찰직장협의회 관계자가 '장윤기 사건' 검찰 보완수사 과정의 공개를 촉구하는 기자회견 및 1인 시위를 열고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국경찰직장협의회(경찰직협)는 지난 27일 광주지검 앞에서 기자회견을 열고 “광산서 수사팀은 성적 목적 범죄가 강하게 추정되나, 장의 자백이나 직접 증거 확보가 어려워 단순 살인죄로 송치하되 강간 살인 혐의에 대해서는 검찰 추가 수사가 필요하다는 내용을 적시해 송치했다”며 검찰에 해당 수사 보고서 공개를 요구했다.&lt;br&gt;&lt;br&gt;광산서 수사팀이 강간 목적 살인을 입증하려 한 근거를 수사 보고서에 남겼기 때문에 부실 수사가 아니라는 것이 박 경정 변호인과 경찰직협의 주장이다. 경찰직협은 여기에 더해 광산서 수사팀이 검찰에 추가 수사를 요청했을 가능성을 언급한 것이다.&lt;br&gt;&lt;br&gt;검찰은 박 경정 변호인과 경찰직협 주장에 선을 그었다. &lt;br&gt;&lt;br&gt;광주지검 관계자는 “광산경찰서 수사 보고서의 주된 내용은 강간살인죄 입증이 어려우니 단순 살인죄로 송치한다는 내용이었다”며 “(경찰이 압수하지 않은) 케이블 타이에 대한 언급도 없었다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 지난 7일 현직 경찰인 장의 아버지 집을 압수 수색하는 과정에서 50㎝ 길이 케이블 타이를 발견했다. 검찰은 장이 피해 여고생을 납치할 때 결박하려고 이 케이블 타이를 준비한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;검찰은 “장이 케이블 타이를 구매한 시점은 2025년 12월쯤으로 확인했다”고 밝혔다. 검찰은 시동 꺼짐, 앞·뒷문 열림 등이 기록된 차량 데이터를 분석해 장이 피해 여고생을 납치하려고 약 3분 동안 차량 뒷좌석 문이 열어둔 사실도 확인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GYZDCOJYGNTGGZBTMRSWKNDGGM.jpg?auth=50c9224667ea76a0f128a3a26cdc3a1796a1e9260c5af1182723c8e7f0d03b69&amp;smart=true&amp;width=4320&amp;height=2976" type="image/jpeg" height="2976" width="4320">
-        <media:description type="plain">도심에서 일면식 없는 여고생을 살해한 혐의를 받는 장윤기(24)가 지난 5월 14일 전남광주 서부경찰서에서 검찰에 송치되고 있다. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>내년 기준 중위소득 6.7% 역대 최고 인상... 4인 가구 692만9885원 </title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/07/28/OV7XTJ2NN5AKLOMJHA6SNE43QI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/28/OV7XTJ2NN5AKLOMJHA6SNE43QI/</guid>
-      <dc:creator>조성호 기자, 김지원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 08:19:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2O56H2T2RCJZMCOIIRYCJAX54.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 내년도 기준 중위소득을 역대 최대 폭인 6.7% 인상하면서, 기초생활수급자가 받는 생계급여도 크게 오를 전망이다. 4인 가구의 생계급여(최저생계비)는 올해 월 207만8316원에서 내년 221만7563원으로 약 14만원 오른다.&lt;br&gt;&lt;br&gt;기준 중위소득은 정부가 산정한 우리나라 가구소득의 중간값으로, 기준 중위소득이 오르면 복지 수급액들이 늘어나고 복지 정책 수혜자도 증가한다. 생계급여의 경우 기준 중위소득의 32%로 결정되는데, 이날 기준 중위소득이 인상되면서 따라 올라갔다. &lt;br&gt;&lt;br&gt;보건복지부는 28일 정부서울청사에서 제80차 중앙생활보장위원회(중생보위)를 열고 기준 중위소득을 4인 가구 기준 올해 649만4738원에서 내년 692만9885원으로 6.7%&lt;b&gt; &lt;/b&gt;올리기로 했다. 이날 결정으로 4인 가구 기준 중위소득 증가율은 2015년 제도 도입 이후 역대 최고치가 됐다. 종전 최고치는 올해 적용된 6.51%였다. &lt;br&gt;&lt;br&gt;이날 결정으로 각종 복지제도의 문턱이 낮아지고 지원 폭이 늘어난다. 저소득층에게 생계비를 지원하는 생계급여뿐 아니라 전월세나 주택 개보수 비용을 지원하는 주거급여, 입학금과 수업료·교과서비 등을 주는 교육급여, 국민건강보험과 별개로 의료비를 지원하는 의료급여 등이 영향을 받는다. 취업 취약계층을 지원하는 국민취업지원제도와 대학생 국가장학금 역시 대상자가 늘어날 전망이다. 특히 정부는 현재 추진 중인 기초연금 개편안에서 수급 대상을 기준 중위소득에 연동하는 방식을 검토하고 있어, 이번 인상이 향후 기초연금 수급자 규모에도 영향을 미칠 전망이다.&lt;br&gt;&lt;br&gt;기준 중위소득 인상과 함께 정부는 2021년부터 6년간 적용해온 산정방식도 손질했다. 기존에는 기준 중위소득을 결정하는 시점보다 3~5년 전의 소득 통계를 기반으로 산정하다 보니 최신 물가상승률이나 국가 전체의 경제성장률을 제대로 반영하지 못한다는 지적이 나왔다. 이에 앞으로는 가계금융복지조사상 중위소득의 최근 3년 평균 증가율을 기본으로 하되, 소비자물가와 실질 국내총생산(GDP) 증가율 등을 참조해 인상률을 보정하도록 했다. &lt;br&gt;&lt;br&gt;다만 정부가 물가와 성장률을 각각 얼마나 반영할지에 대한 구체적인 산식과 가중치는 정해지지 않은 것으로 알려졌다. 최저생활 보장 필요성이나 국가 재정 여건 등에 따라 인상률을 추가로 조정할 수도 있다. 이 때문에 매년 되풀이되는 “국가 재정을 고려하지 않은 인상”이라거나 “복지 사각지대를 고려하지 않은 결정”이라는 양측의 주장은 계속 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CN7FZYKZPJB7BDMQXTNDKMNOR4.jpg?auth=22478aa893555e8d8d265b6d0d9308c49691c620632ddd06697be44fb0d47a42&amp;smart=true&amp;width=720&amp;height=540" type="image/jpeg" height="540" width="720">
-        <media:description type="plain">정은경 보건복지부 장관, 제80차 중앙생활보장위원회 주재</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>의대 꿈꾸던 여고생 숨진 은마아파트 화재... “무자격자가 전기공사”</title>
       <link>https://www.chosun.com/national/national_general/2026/07/19/SSR54BLCJFE5VAESBGGWYR7EAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/19/SSR54BLCJFE5VAESBGGWYR7EAI/</guid>
@@ -884,72 +950,6 @@
       <description/>
       <pubDate>Sun, 19 Jul 2026 07:42:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRTMY3DGMZWIMZZMY3DQNBXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 24일 오전 서울 강남구 은마아파트에서 경찰, 소방 관계자들이 화재 원인 조사를 위해 합동 감식을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2월 서울 대치동 은마아파트에서 불이 나 여고생이 사망한 사건과 관련해, 화재가 인테리어 공사 과정에서 부적절하게 이뤄진 전기 공사에 비롯됐을 가능성이 제기됐다. 당시 의대 진학을 꿈꾸던 큰딸의 대학 입시를 위해 서울 대표 학군지인 대치동으로 온 가족이 이사했다가 새벽 시간에 화재가 발생해 큰딸이 사망하고 가족 3명이 다치는 참변이 발생했다.&lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면, 강남소방서가 화재 이후 작성한 167쪽짜리 ‘화재 현장 조사서’에는 피해자 가족이 해당 아파트에 입주하기 직전에 이뤄진 인테리어 공사에서 진행된 전기 공사가 화재에 영향을 미쳤을 정황이 상세하게 담겼다. 보고서는 “세대 내부가 전소돼 화재의 명확한 원인을 입증할 물리적 증거가 대부분 없어져 발화 원인은 미상”이라면서도 “발화 지점은 주방 천장 내부 공간으로 추정된다”고 결론 내렸다.&lt;br&gt;&lt;br&gt;보고서에 따르면, 해당 주택은 인테리어 공사 당시 주방과 인접한 작은 방 사이의 내력벽을 허물고 주방 공간을 넓히는 작업을 했다. 이때 기존 주방의 조명과 작은 방의 조명이 배선을 연결해 중간 위치에 새 조명을 설치하는 작업이 이뤄졌다. 보고서는 “주방 천장 내부 전기 배선에서 전선 간 접촉 불량이나 전선을 감싼 피복이 벗겨지는 등 이유로 불이 났을 가능성을 배제할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;당시 전기 시공 과정이 전기설비기술기준(KEC)을 준수하지 않았을 정황이 제기됐다. 조명 전선을 연장하면서 피복을 벗기고 구리 전선을 서로 꼬아 테이프로 감는 ‘꼬임 접속’ 방식을 사용했는데, 조사팀은 “접속부의 기계적 강도를 약화하고 접촉 저항을 올려 발열을 유발할 수 있다”며 “시공 결함으로 발화했을 개연성을 배제할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;해당 작업을 한 인부들도 전기 기술 자격증이나 관련 면허가 없었던 것으로 조사됐다. 화재 예방을 위해 전선에 씌우는 보호용 관도 설치되지 않은 것으로 확인됐다. 또, 인테리어 업체가 전기 배선을 공사하는 사실을 아파트 관리사무소에 신고도 하지 않았다. 전기 공사를 할 땐 아파트 관리 주체에 허가를 받아야 한다.&lt;br&gt;&lt;br&gt;경찰은 당시 공사를 진행한 인테리어 업자 2명과 전기 시공업자 1명 등 3명을 업무상과실치사상, 전기공사업법 위반, 소방시설공사업법 위반 등 혐의로 입건해 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>평택 K-55미군기지 내 백린 누출…대피 명령</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/28/V2TRJW3L2NCFPBODAICACXGQME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/28/V2TRJW3L2NCFPBODAICACXGQME/</guid>
-      <dc:creator>평택=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 08:46:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택 미군부대 오산공군기지(K-55)에서 백린 누출사고가 발생했다.&lt;br&gt;&lt;br&gt;28일 소방과 경찰 등에 따르면 이날 오후 4시 54분쯤 평택시 서탄면 미군부대 오산공군기지(K-55)에서 백린이 누출됐다.&lt;br&gt;&lt;br&gt;백린은 공산소와 만나 하얀 연기를 생성하기 때문에 군에서 이동시 연막으로 사용된다. &lt;br&gt;&lt;br&gt;공기 중에서 자연발화할 정도로 반응성이 크다. 피부에 닿으면 심한 화상을 입을 수 있고 연기를 많이 흡입할 경우에는 사망까지 이를 수 있다.&lt;br&gt;&lt;br&gt;“탄두에서 화학물질 누출이 의심된다”는 신고를 받고 출동한 소방당국은 장비 9대와 인력 31명을 동원해 현장을 통제하고 안전조치를 하고 있다.&lt;br&gt;&lt;br&gt;현재까지 인명 피해는 발생하지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;평택시는 이날 사고 발생 직후 “인근 주민은 피부에 노출되지 않도록 안전한 곳으로 대피하라”는 긴급 재난문자를 발송했다.&lt;br&gt;&lt;br&gt;소방과 경찰, 군 당국은 안전 조치를 하는 대로 정확한 사고 원인 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤 중 조개 잡다가 밀물에 고립된 4명, 드론 활용해 구조</title>
-      <link>https://www.chosun.com/national/incident/2026/06/17/N2M7UAR665CFRO3TNRFW5VUCDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/06/17/N2M7UAR665CFRO3TNRFW5VUCDE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Jun 2026 00:06:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3OGNESXZJAZVILGIBV23ZAREY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밀물 고립자 구조 장면./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 인천의 한 갯벌에서 맨손으로 어패류를 잡는 이른바 ‘해루질’을 하다가 밀물에 고립된 4명이 구조됐다. &lt;br&gt;&lt;br&gt;17일 인천시에 따르면 지난 13일 오후 9시 42분쯤 인천 옹진군 하나개해수욕장 인근 갯벌에서 해루질을 하던 2명이 고립됐다는 신고가 해경에 접수됐다. &lt;br&gt;&lt;br&gt;인천시는 신고 접수 직후 열화상 카메라와 서치라이트가 있는 드론을 현장에 투입해 수색에 나섰고 5분만에 구조를 요청한 2명과 고립 우려가 있는 또다른 2명을 찾았다. &lt;br&gt;&lt;br&gt;인천시와 함께 구조에 나선 해양경찰은 오후 9시 52분쯤 이들 4명을 모두 구조했다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “드론을 활용해 갯벌 안전을 관리하는 ‘스마트 해양빌리지’ 사업을 추진 중인데, 성과가 확인됐다”며 “전국 연안 지자체로 확산 가능한 선도 사례를 만들겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 도심 주택가 패싸움 벌인 조폭 10명 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2026/07/28/RLUCCX5K4JH43FQFLTFQUKHENE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/28/RLUCCX5K4JH43FQFLTFQUKHENE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 05:49:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHMUAU7SZFD6RFS2UVPUA2DU6Q.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 3일 오후 10시쯤 인천 서해구 청라동에서 폭력 조직 간 집단 패싸움이 벌어졌다./인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 도심에서 집단으로 패싸움을 벌이고 도망친 폭력 조직원 10명이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천경찰청 광역범죄수사대는 폭력행위 등 처벌에 관한 법률상 범죄 단체 구성·활동과 특수상해 혐의 등으로 20대 A씨 등 폭력 조직원 10명을 구속해 검찰에 송치했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난달 3일 오후 10시쯤 인천시 서해구 청라동 주택가에서 집단 패싸움을 하고, 도망친 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;구속 송치된 10명 중 6명은 인천 지역 폭력 조직원이고, 나머지 4명은 서울 지역 폭력 조직원인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이들 중 일부는 앞서 구치소 수감 당시 상대 조직을 비방했다는 이유로 다퉜다. 출소 후 재차 시비가 붙어 이들은 이른바 ‘비상 소집’으로 집결해 야구 방망이 등을 들고 싸움을 벌인 것으로 조사됐다. &lt;br&gt;&lt;br&gt;112 신고를 받고 출동한 경찰은 주변 방범 카메라 영상 등을 확보해 수사를 벌여 전국으로 흩어진 이들을 차례로 붙잡았다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “시민 불안감을 높이는 조직폭력 범죄에 엄정 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LCASN2J6BJHSTBAAO4FJKMAJL4.gif?auth=b4d6308956c80453155b11489f7e2de0b18419ab13c9623fddcfe1081fdd0c84&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
-        <media:description type="plain">지난달 3일 오후 10시쯤 인천 서해구 청라동에서 폭력 조직 간 집단 패싸움이 벌어졌다./인천경찰청</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>소방청, 화재경보 발령하고 ‘폭염119본부’ 가동</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/28/PUU7MYVIXFGJXCLN5WG2L6NMDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/28/PUU7MYVIXFGJXCLN5WG2L6NMDY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 08:38:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW4C2VSHJ5LZBEGDAHU5HVCHAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염특보가 발효중인 28일 오전 경기 화성시의 한 냉방기 설치·수리업체에서 직원이 고장 난 에어컨과 실외기 상품화 작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 곳곳에서 체감 온도 35도를 웃도는 폭염이 이어지면서 소방청이 28일 오후 2시를 기해 전국에 화재 위험 경보 ‘경계’ 단계를 발령했다. 냉방 기기 사용이 늘면서 화재 위험도 커질 수 있다는 판단에서다.&lt;br&gt;&lt;br&gt;소방청에 따르면 폭염특보 발효 전인 지난 1~9일 하루 평균 84건이던 화재는 특보 발효 이후인 10~27일 96.1건으로 14.4% 늘었다. 최근 5년간 여름철인 6~8월 발생한 화재도 연평균 8828건으로 전체 화재의 23.1%를 차지했다. 이 가운데 전기적 요인으로 발생한 화재는 35% 안팎이었다. 소방청은 냉방 기기 사용 증가와 노후 전기 설비의 과부하 등을 주요 원인으로 보고 있다.&lt;br&gt;&lt;br&gt;이와 함께 소방청은 폭염 위기 경보가 지난 27일 오후 3시 ‘심각’ 단계로 격상됨에 따라 27일부터 9월 30일까지 ‘폭염119안전대책본부’를 운영한다. 대책 본부는 상황총괄반과 구조구급반, 생활지원반, 현장안전관리반 등 4개 반으로 꾸려져 폭염 대응을 총괄한다.&lt;br&gt;&lt;br&gt;전국에서는 얼음 조끼 등 폭염 대응 장비를 갖춘 1600여 대의 폭염 구급대가 운영된다. 소방청은 최근 5년간 온열 질환자 발생 추이와 폭염 현황을 인공지능(AI)으로 분석해 환자 발생을 예측하고 구급 인력을 배치할 계획이다.&lt;br&gt;&lt;br&gt;해수욕장과 계곡 등 전국 275곳에는 소방대원과 의용소방대, 자원봉사자 등 6245명으로 구성된 ‘119시민수상구조대’를 배치해 피서철 물놀이 사고에도 대비한다.&lt;br&gt;&lt;br&gt;쪽방촌과 독거노인 등에 대한 안전 관리도 강화한다. 의용소방대가 기온이 가장 높은 낮 12시부터 오후 5시까지 순찰하고, 도심 도로변과 축산 농가에는 살수·급수를 지원한다. 이상 기온으로 벌 개체 수가 급증하는 데 대비해 벌집 제거 활동도 강화한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>벨포레·증평군, 문화예술로 지역 상생 함께 나서 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/07/28/D6V22V5OFREARB2RFCJEDELHSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/07/28/D6V22V5OFREARB2RFCJEDELHSU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 06:52:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CO7YNI7355C4FARS6Q6H5RG5T4.png"&gt;&lt;figcaption&gt;&lt;small&gt;28일 충북 증평군 지역활성화센터와 벨포레리조트, '2026 예술로 사업' 참여 예술인단은 벨포레리조트에서 증평군 문화예술·관광 활성화 및 지역 거버넌스 구축을 위한 업무협약을 맺었다. 협약식 후 관계자들이 모여 기념촬영을 하고 있다./벨포레리조트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충청권 대표 종합휴양시설인 벨포레리조트가 증평 지역 문화예술과 관광 활성화를 위한 지역 상생 사업에 나섰다.&lt;br&gt;&lt;br&gt;벨포레리조트는 28일 증평군지역활성화지원센터, ’2026 예술로 사업' 참여 예술인단과 문화예술·관광 활성화를 위한 3자 업무협약(MOU)을 체결했다고 밝혔다.&lt;br&gt;&lt;br&gt;협약은 리조트 중심으로 운영되던 문화 프로그램을 지역으로 확대하고 주민 참여를 늘리기 위해 마련됐다. 세 기관은 주민 참여형 문화예술 콘텐츠를 공동 기획·운영하고 문화예술과 관광을 연계한 지역 상생 사업을 추진하기로 했다.&lt;br&gt;&lt;br&gt;첫 사업은 다음 달 7일 증평 34플러스센터 광장에서 열리는 ’34 서머 브레이크(가칭)‘다. 군민 누구나 참여할 수 있는 행사로 ’2026 예술로 사업' 참여 예술인단이 사회와 공연을 맡는다. 벨포레리조트는 생수와 숙박권, 할인권 등을 지원하고, 증평군지역활성화지원센터는 행사 기획과 주민 참여를 위한 지역 네트워크를 담당한다.&lt;br&gt;&lt;br&gt;세 기관은 이번 행사를 시작으로 문화예술과 관광을 접목한 주민 참여형 프로그램을 지속적으로 발굴·운영하고, 지역 기업과 기관, 단체가 참여하는 문화예술 협력 체계도 확대해 나갈 계획이다.&lt;br&gt;&lt;br&gt;벨포레리조트 관계자는 “이번 협약과 첫 행사가 지역 문화예술 협력의 출발점이 되길 기대한다”며 “문화예술을 기반으로 민관이 함께하는 지역 상생 모델을 만들어 가겠다”고 말했다.&lt;br&gt;&lt;br&gt;증평군 관계자는 “이번 사업을 계기로 주민과 관광객이 함께 즐길 수 있는 문화 콘텐츠를 확대하고 지역 문화예술과 관광 활성화에도 도움이 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹 관저 공사 업체 선정 관여’ 윤한홍 국민의힘 의원 내달 1일 피의자 조사</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/28/F54IIQNE2ND5DF777PRNOQJHKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/28/F54IIQNE2ND5DF777PRNOQJHKM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 08:02:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73T2DTTAGBOJ3O54JHRPLBWX24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤한홍 국민의힘 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검은 윤석열 전 대통령 관저 공사 업체로 무자격 업체인 21그램이 선정되는 데 관여한 혐의(직권남용)를 받는 윤한홍 국민의힘 의원을 다음 달 1일 오전 10시에 피의자 신분으로 불러 조사한다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 의원은 윤 전 대통령 당선 직후 만들어진 청와대 이전 태스크포스(TF) 팀장을 맡았다. 특검은 윤 의원이 2022년 4월 김건희 여사와 21그램 대표 김모씨 등과 3차례에 걸쳐 사전 답사를 한 후 당초 육군 참모총장 공관이었던 관저 위치가 외교부 장관 공관으로 바뀌었다고 보고 있다.&lt;br&gt;&lt;br&gt;또한 특검은 윤 의원이 TF 1분과장이었던 김오진 전 대통령비서실 관리비서관(전 국토교통부 1차관)에게 관저 공사 업체를 21그램으로 선정하라고 지시한 것으로 의심하고 있다. 21그램은 종합건설업 면허가 없는데도 김 여사와의 친분 덕분에 관저 이전 공사를 수주한 게 아니냐는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;2차 특검에 앞서 관저 이전 의혹을 수사한 민중기 특별검사팀은 작년 12월 “윤석열 대통령직인수위가 관저를 서울 용산구 한남동으로 옮기는 과정에 윤 의원이 관여했다”고 밝혔다. 그러면서 윤 의원 수사 기록을 경찰청 국가수사본부에 넘겼고, 2차 특검이 다시 기록을 가져와 수사에 착수했다. 2차 특검은 지난 3월 윤 의원 자택과 사무실 등을 압수수색했다. 윤 의원은 “시공업체 선정에 관여하지 않았다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘장윤기 사건’ 계기로 경찰관 가족 사건 전수조사했더니... 전국 117건 확인</title>
-      <link>https://www.chosun.com/national/incident/2026/07/28/JVECPVNMRJCWTHK4VKMZXKJ76M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/28/JVECPVNMRJCWTHK4VKMZXKJ76M/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 28 Jul 2026 06:53:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZTSNZWG5RWMMRUMM4WKYTBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 수사 관련 내부 비리를 근절하기 위해 경찰관의 가족이 연관된 사건을 전수조사한 결과, 전국에서 경찰 가족 사건 117건의 수사가 진행되고 있는 것으로 나타났다. 이 중 44건은 공정성 제고를 위해 시·도 경찰청이나 다른 경찰서가 수사하도록 이관됐다.&lt;br&gt;&lt;br&gt;경찰청은 28일 “지난 10~22일 경찰관 가족 사건을 전수조사했다”며 이 같은 결과를 발표했다. 전수조사 대상은 사건 관계인이 해당 수사(입건 전 조사 포함)를 진행하는 경찰관서에 근무하고 있거나 최근 3년 이내에 근무한 이력이 있는 경찰관의 배우자나 직계 존·비속으로 확인된 사건이다.&lt;br&gt;&lt;br&gt;이번 전수조사는 ‘전남광주 여고생 살해범’ 장윤기 사건을 계기로 진행됐다. 사건 당시 수사팀이 장의 경찰관 부친에게 수사 정보를 유출했고, 부친 장모 경감은 아들의 사건 관련 증거를 훼손했다는 의혹이 제기됐다. 장 경감은 전남광주 지역에서 10년 넘게 경찰관으로 근무했으며, 장의 큰아버지 역시 전남 지역 현직 경찰관으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 117건 중 다른 경찰관서로 이관하지 않은 73건에 대해서도 매달 수사 적절성을 재점검할 예정이다. 또 최근 불거진 전북경찰청 사례처럼 수사나 감찰이 필요한 사안은 원칙적으로 시·도 경찰청이 담당하도록 했다. 전북경찰청은 최근 전주 지역 한 파출소 소속 경감을 증거인멸 혐의로 입건했다. 해당 경찰관은 아들이 교사를 불법 촬영한 사실을 알고 아들의 휴대전화를 폐기한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰청 관계자는 “전수조사 결과를 토대로 경찰관 가족 사건에 대해 상시 관리할 수 있는 운영 방안을 마련해 경찰 내부의 이해충돌 방지 체계를 정비할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>복싱 경기중 쓰러진 중학생 10개월째 의식불명... 코치·복싱대회 관계자 처벌받나</title>
