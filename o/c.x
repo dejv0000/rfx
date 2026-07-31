@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 교육감 선거인단에 학생 동원한 교사… 교육당국, 해임 요구하고 경찰에 고발</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/01/J43APSKUHBBQ7JJ3SIWKEGV6XI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/J43APSKUHBBQ7JJ3SIWKEGV6XI/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 Jul 2026 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQA45IGIQG7ZEERYWBGCMGJRDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도교육청 남부청사/ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도평택교육지원청이 6·3 경기도교육감 선거를 앞두고 진보 진영 단일화 선거인단 모집에 학생을 동원했다는 의혹을 받는 고교 교사 A씨에 대해 해임을 요구하기로 했다. 교육지원청은 A씨를 국가공무원법 등 위반 혐의로 경찰에 고발했다. 당시 진보 진영 단일 후보는 선거인단 투표 55%, 여론조사 45%를 합산해 결정됐다. 안민석 전 국회의원이 유은혜 전 교육부 장관 등을 누르고 진보 단일 후보가 됐고 이후 경기도교육감에 최종 당선됐다. &lt;br&gt;&lt;br&gt;31일 교육지원청이 경기도의회 김현석(국민의힘) 도의원에게 제출한 복무 감사 결과를 보면, A씨는 지난 4월 수업 중 한 학생에게 선거인단에 가입할 수 있는 링크가 첨부된 문자메시지를 보냈다. 이 링크는 학생들의 단체 대화방에도 게시됐다. A씨는 학생들에게 선거인단에 가입한 뒤 그 화면을 캡처해 자신의 휴대전화로 보내라고도 한 것으로 파악됐다. 또 A씨가 안민석 예비후보에게 전화를 걸어 학생들과 직접 통화하게 한 사실도 확인했다. 교육지원청은 “당시 수업을 들은 학생과 A씨를 조사해 이러한 사실을 확인했다”며 “A씨가 교육의 정치적 중립성을 훼손하고 국가공무원법 등을 위반한 것으로 판단했다”고 밝혔다. 그러나 A씨는 불복해 재심의를 청구했고 교육지원청은 지난 30일 감사처분심의회를 열어 A씨의 신청을 기각했다. A씨의 해임은 A씨가 근무하는 학교 교원징계위원회를 거쳐 최종 확정된다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 본지에 “인터뷰는 하지 않겠다”고 했다. 안민석 교육감은 “입장이 없다”고 말했다. &lt;br&gt;&lt;br&gt;김현석 의원은 “이 사건은 교사 개인의 일탈로만 볼 게 아니다”라며 “당시 선거인단 모집 과정에 대한 진상 규명이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>41.4 ℃</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/01/NPTCB4PVAVHPPPI7NFTAGNWGBE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/01/NPTCB4PVAVHPPPI7NFTAGNWGBE/</guid>
@@ -940,18 +949,6 @@
       <description/>
       <pubDate>Thu, 30 Jul 2026 07:02:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCI5Z3AZFLDKOBL6UNY7IR6HLI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방검찰청./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘시판 후 임상시험’의 연구비 명목으로 리베이트를 제공한 의료기기 제조업체와 리베이트를 제공받은 대학병원 교수를 기소했다. &lt;br&gt;&lt;br&gt;서울서부지검 식품의약범죄조사부(부장 이정훈)는 심혈관용 스텐트(혈관 부위에 삽입하는 의료기기) 등을 판매하는 의료기기 제조업체와 대표 A씨, 전직 이사 B씨를 의료기기법위반죄 등으로 30일 불구속 기소했다. 업체에게 리베이트를 제공받은 대학병원 교수 6명도 의료법위반죄 등으로 함께 불구속 기소했다.&lt;br&gt;&lt;br&gt;이 업체는 2016년부터 2025년까지 전국 53개 대학 병원에 ‘시판 후 임상시험’을 제안하며 연구비 명목으로 약 42억원을 지급하는 등 리베이트를 제공한 혐의를 받는다. 병원이 업체의 스텐트 제품을 환자에게 시술하면 업체는 환자 수에 연동해 한 건당 20만~115만원의 연구비를 지급한 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;시판 후 임상시험은 시판된 의료기기의 안전성·유효성을 검증하기 위한 공익적 목적의 제도다. 하지만 연구비는 교수가 임상시험결과 보고서 혹은 논문을 작성했는지, 관찰 내용을 기입했는지 등 여부와 무관하게 제공됐다.&lt;br&gt;&lt;br&gt;이날 기소된 한 대학병원 순환기내과 교수는 아내 명의의 법인을 설립한 뒤 업체의 판매 대리점인 것처럼 가장해 판매 수수료 명목으로 돈을 받은 혐의도 받는다. 의료기기 업체와 판매 대리점 계약을 체결한 뒤 판매 업무는 하지 않고, 판매 수수료 명목으로 7년간 약 7억7800만원을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;사건은 2024년 9월 보건복지부가 수사를 의뢰하며 시작됐다. 검찰은 지난 4월 업체와 대학 병원 등을 압수수색했고 지난달에는 A씨와 교수 한 명을 상대로 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;이번 사건은 시판 후 임상시험이라는 공적 제도를 이용해 리베이트를 준 신종 수법이라는 게 검찰 설명이다. 판매 대리점 거래를 가장해 의료기기 유통 과정에서 이득을 챙긴 사례 역시 전례가 없었다고 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 7월 31일 금요일 (음력 6월 18일 丙午)</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/30/GJAMN2I7VVGVPA7KLM5W2DNZXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/GJAMN2I7VVGVPA7KLM5W2DNZXQ/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title> 경실련 “증시 변동 심화…단일종목 레버리지 등 관련자 책임 물어야”    </title>
