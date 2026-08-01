@@ -13,6 +13,121 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 관저 이전 의혹’ 윤한홍 의원 종합특검 첫 조사...“나와 관련 없는 일”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/01/ITQILWU2XRC6ZDG6B6YXGHCDXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/01/ITQILWU2XRC6ZDG6B6YXGHCDXQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 01:06:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NICAI72KBNSJNY72YXUNSUIXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 윤한홍 의원이 대통령실 관저 이전 공사를 둘러싼 비위 의혹과 관련해 직권남용권리행사방해 혐의 피의자 신분으로 조사를 받기 위해 1일 과천 종합특검 사무실로 출석하며 취재진의 질문을 받고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 관저 공사를 무자격 업체인 21그램이 맡게 된 것에 관여한 혐의를 받는 윤한홍 국민의힘 의원이 1일 2차 종합특검 조사에 출석했다.&lt;br&gt;&lt;br&gt;윤 의원은 이날 오전 9시 37분쯤 경기 과천시 2차 특검팀 사무실에 직권남용 혐의 피의자 신분으로 나왔다. 그는 기자들과 만나 “관저 공사는 (윤 전 대통령) 취임 이후 이뤄진 일로 저와 관련이 없다”며 “내가 한 게 없어서 잘 모른다”고 말했다.&lt;br&gt;&lt;br&gt;윤 의원은 윤 전 대통령 당선 직후 만들어진 청와대 이전 태스크포스(TF) 팀장을 맡아 관저 위치를 바꾸거나 공사 업체를 선정하는 과정에 부당하게 관여한 혐의로 수사를 받고 있다. 윤 의원은 그동안 “업체 선정에 관여하지 않았다”는 입장을 밝혀왔다.&lt;br&gt;&lt;br&gt;2차 특검은 윤 의원이 2022년 4월 김건희 여사와 21그램 대표 김모씨 등과 세 차례 관저 후보지를 사전 답사한 뒤 당초 육군참모총장 공관이었던 관저 위치가 외교부 장관 공관으로 바뀐 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;윤 의원이 당시 청와대 이전 TF 1분과장이었던 김오진 전 대통령비서실 관리비서관에게 관저 공사 업체를 21그램으로 선정하라고 지시했다는 의혹도 수사 대상이다. 김 전 비서관은 이후 국토교통부 1차관을 지냈다.&lt;br&gt;&lt;br&gt;21그램은 김 여사가 운영한 코바나컨텐츠의 전시회를 후원하고 사무실 설계와 시공을 맡았던 업체다. 종합건설업 면허가 없는데도 김 여사와의 친분 덕분에 관저 이전·증축 공사를 수주한 것 아니냐는 의혹을 받아왔다.&lt;br&gt;&lt;br&gt;2차 특검에 앞서 관저 이전 의혹을 수사한 민중기 특검팀은 작년 12월 “윤석열 대통령직인수위원회가 관저를 서울 용산구 한남동으로 옮기는 과정에 윤 의원이 관여했다”며 관련 수사 기록을 경찰청 국가수사본부에 넘겼다. 2차 특검은 이 기록을 다시 가져와 수사에 착수했고, 지난 3월 윤 의원의 자택과 사무실 등을 압수수색했다. 윤 의원의 피의자 조사는 이날이 처음이다.&lt;br&gt;&lt;br&gt;2차 특검은 관저 이전 예산을 전용한 혐의로 이상민 전 행정안전부 장관과 김대기 전 대통령비서실장 등을 기소했다. 감사원이 관저 이전 감사를 부실하게 했다는 이른바 ‘봐주기 감사’ 의혹과 관련해서는 유병호 감사위원을 구속해 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>반성문·공탁금 제때 안 낸 변호사...法 “의뢰인에게 위자료 줘야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/01/G2F2YTEREFCJRNAVUC53XHFPPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/01/G2F2YTEREFCJRNAVUC53XHFPPU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 00:23:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7H2UU3LERVEFRBRMDR5FOM5HCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울법원종합청사. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사재판을 맡은 변호인이 반성문과 탄원서를 법원에 내지 않고 공탁도 뒤늦게 처리하는 등 업무를 소홀히 했다면 피고인에게 위자료를 물어야 한다는 법원 판결이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사항소11-2부(재판장 곽형섭)는 A씨가 자신의 형사재판을 맡았던 변호사 B씨와 법무법인 대표를 상대로 낸 손해배상 청구 소송 항소심에서 “피고들은 공동으로 300만원을 지급하라”고 판결했다&lt;br&gt;&lt;br&gt;A씨는 성착취물을 제작·유포한 혐의(청소년성보호법 위반)로 2023년 7월 제주지법에 기소됐다. 1심에서 징역 2년 6개월이 선고돼 법정구속되자, 항소한 뒤 변호사 B씨에게 착수금 150만원을 주고 사건을 맡겼다.&lt;br&gt;&lt;br&gt;B씨는 피해자와 합의를 시도했으나 무산되자 형사공탁으로 방향을 틀었다. 형사공탁은 합의가 어려울 때 피고인이 법원에 피해 보상금을 맡기는 것인데 양형에 유리한 점으로 작용할 수 있다.&lt;br&gt;&lt;br&gt;문제는 시점이었다. B씨는 선고기일(2024년 10월 2일)을 불과 이틀 앞둔 9월 30일에야 A씨의 아버지에게 “오늘 중 공탁을 해야 한다”고 알렸다. 공탁금 1000만원은 그날 오후 4시 31분에야 전자공탁으로 납부됐는데, 다음 날인 10월 1일은 국군의 날 임시 공휴일이었다.&lt;br&gt;&lt;br&gt;결국 공탁 사실을 알리는 통지서는 항소심 선고가 이뤄진 뒤에 접수됐다. A씨의 형사 재판부는 공탁 사실을 모른 채 항소를 기각했다. 판결문에는 ‘피해 회복이 이뤄지지 않았다’는 점이 A씨에게 불리한 양형 사유로 적혔다. B씨는 또 A씨 본인이 쓴 반성문과 아버지가 쓴 탄원서를 재판부에 제출하겠다고 가족에게 말했으나 실제로는 제출하지 않은 것으로 나타났다. &lt;br&gt;&lt;br&gt;법원은 이를 B씨의 업무상 과실로 판단했다. 서울중앙지법 손해배상 항소심 재판부는 변호사의 소송대리 의무에 대해 “전문적인 법률지식과 경험에 기초해 성실하게 의뢰인의 권리를 옹호할 의무가 있다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 “A씨가 공탁이나 반성문 등으로 실제 감형을 받을 수 있었는지와 별개로 양형에 관한 실질적 판단을 받을 기회 자체를 상실했다”며 정신적 손해배상 책임을 인정했다.&lt;br&gt;&lt;br&gt;다만 위자료 액수는 A씨가 청구한 5000만원에 못 미치는 300만원에 그쳤다. 재판부는 B씨의 고의·중과실까지는 인정되지 않고, 의무 위반 부분을 제외하면 전반적으로 성실히 변론한 점 등을 들었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최태원이 노소영 줘야 할 9440억… 지연 이자만 하루에 1억2930만원</title>
+      <link>https://www.chosun.com/national/court_law/2026/07/27/JTPVZGE3BJEDFCVM3VGLW2YNRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/27/JTPVZGE3BJEDFCVM3VGLW2YNRA/</guid>
+      <dc:creator>박혜연 기자, 김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jul 2026 15:47:00 +0000</pubDate>
+      <content:encoded>서울고법 가사1부는 지난 24일 최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 재산 분할 소송 파기환송심에서 최 회장은 노 관장에게 9440억원을 전액 현금으로 지급하라고 판결했다. 재판부는 그러면서 “판결 확정 다음 날부터 모두 갚는 날까지 연 5%의 지연이자를 지급하라”고 했다. &lt;br&gt;&lt;br&gt;이번 파기환송심 판결이 확정되면 최 회장은 곧바로 현금 9440억원을 노 관장에게 지급해야 하고 그렇지 않으면 지연 이자까지 물어야 한다. 최 회장이 판결 확정 이후 재산 분할금 지급을 미룰 경우 최대 하루 약 1억2930만원, 1년이면 약 472억원의 지연 이자를 부담해야 한다. &lt;br&gt;&lt;br&gt;이 때문에 최 회장이 파기환송심 판결에 대해 대법원에 다시 상고할 것이란 관측이 나온다. 대법원 판결 선고 전까지 재산 분할금 지급을 미룰 수 있기 때문이다. 이번 파기환송심 판결은 양측이 상고하지 않으면 확정된다. 어느 한쪽이라도 상고하면 대법원의 최종 판단이 나올 때까지 판결 확정이 미뤄진다. 한 부장판사 출신 변호사는 “판결이 뒤집힐 가능성이 거의 없다고 해도 최 회장 측이 주식 담보 대출이나 자산 매각 등 재산 분할금을 마련하는 데 필요한 시간을 벌기 위해 재상고할 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;최·노 두 사람이 부담할 변호사 비용도 상당할 것이란 분석이 나온다. 양측 모두 소송 과정에서 국내 대형 로펌과 전관(前官) 출신 거물급 변호사를 대거 선임했다. 노 관장은 대법원 선임·수석재판연구관과 법원행정처 사법정책실장을 지낸 한승 전 전주지법원장, 서울가정법원장을 지낸 최재형 전 감사원장 등을 선임했었다. 최 회장은 김앤장·율촌 변호사, 선임·수석재판연구관과 법원행정처 사법지원실장을 지낸 홍승면 전 서울고법 부장판사 등을 선임해 대응했다. &lt;br&gt;&lt;br&gt;통상 가사 사건을 포함한 민사 소송 변호사 보수는 착수금과 성공 보수로 나뉜다. 성공 보수는 의뢰인이 원하는 결과를 얻었을 때 지급하는 보수로, 일반적으로 승소 금액의 3~7% 수준에서 정해진다. 다만 이번 사건처럼 재산 분할 규모가 수천억 원에 이르는 사건은 성공 보수를 1~2% 수준으로 낮춰서 약정하는 경우가 많다고 한다. 노 관장이 받는 재산 분할금의 1%만 해도 94억4000만원이다. 노 관장이 성공 보수로 재산 분할금의 5%를 지급할 경우 472억원이 변호인들에게 지급될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GEYDENJRG44WKMBVGUYTMZBSGA.jpg?auth=8cde7afae6e937cfeedafb0e583f8b9c14f4b83d3195989d304b490f5157de29&amp;smart=true&amp;width=2358&amp;height=1676" type="image/jpeg" height="1676" width="2358">
+        <media:description type="plain">최태원 SK그룹 회장이 24일(현지시각) 미국 샌프란시스코에서 열린 샌프란시스코 AI서밋에서 발언하고 있다. 2026.7.25 ⓒ 뉴스1 허경 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법원 “임신중절약 판매 사이트 국내 접속차단은 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/01/CMNRTECQPZBHRGLYOYUJA7UOFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/01/CMNRTECQPZBHRGLYOYUJA7UOFI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 00:45:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZGIZBRMIYGCMJWHE3TKNJWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임신중절약을 우편으로 판매하는 해외 웹사이트 ‘위민 온 웹’을 국내에서 접속하지 못하도록 차단 조치한 것은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정4부(재판장 김영민)는 캐나다 비영리법인 위민 온 웹 인터내셔널 파운데이션이 방송미디어통신심의위원회를 상대로 낸 시정요구 처분 취소 소송을 최근 각하했다고 1일 밝혔다. 각하는 소송이 법적 요건을 갖추지 못했을 때 심리하지 않고 끝내는 절차다. 법원은 부적법한 소송이라고 보면서도 “허가받지 않은 임신중단 의약품을 제공하는 것은 약사법 위반”이라고 했다.&lt;br&gt;&lt;br&gt;방심위는 위민 온 웹이 운영하는 웹사이트에서 국내 허가를 받지 않은 임신중단 의약품을 제공하고 있다며 2024년 10월 국내 인터넷망 사업자들에게 사이트 전체 접속을 차단하도록 요구했다. 지난해 2월에는 도메인 관리업체에도 해당 도메인의 이용을 해지하라고 요구했다.&lt;br&gt;&lt;br&gt;위민 온 웹은 임신중절이 법적으로 제한되거나 관련 의료 서비스에 접근하기 어려운 국가의 여성들을 상대로 임신중지 상담과 의약품 배송 서비스를 제공하는 단체다. 위민 온 웹 측은 “헌법재판소의 낙태죄 헌법불합치 결정 이후 대체 입법이 이뤄지지 않은 상황에서 여성의 안전한 임신중단을 돕기 위한 활동은 형법상 정당행위이거나 어쩔 수 없는 긴급피난”이라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “소송대리권 없는 사람이 제기한 부적법한 소송”이라며 각하했다. 위민 온 웹 측 법률대리인이 낸 소송위임장은 공증을 받지 않았고, 위임장에 서명한 사람이 단체를 대표해 소송을 맡길 권한을 가졌다고 인정할 자료도 부족하다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 소송이 적법하게 제기됐다고 가정하더라도 접속 차단 조치를 취소할 수는 없다고 판단했다. 위민 온 웹이 약국 개설자가 아닌데도 국내에서 제조·수입·품목 허가를 받지 않은 임신중단 의약품을 신청받아 우편으로 제공한 것은 약사법상 형사처벌 대상이라는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “현재 임신중단 자체를 처벌하는 법률 규정은 없다”며 “임신중단을 원하는 여성이 당장 위험에 놓여 있다고 볼 수 없다”고 했다. 임신중단이 더 이상 불법이 아니기 때문에 약사법을 어기고 허가받지 않은 약을 제공해야만 하는 급박한 위험이 없다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 사이트 전체의 접속을 막은 조치도 과도하지 않다고 봤다. 사이트에 임신중단 방법 등 일반적인 정보도 올라와 있지만, 별도 상담 페이지를 통해 이용자가 의약품을 신청하도록 하고 있었기 때문이다. 재판부는 “단순히 임신중단 정보를 제공하는 데 그치지 않고 의약품 제공을 주된 목적으로 운영된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 양산 ‘41.6도’ 찍었다... 사상 최고기온 기록, 하루 만에 재차 경신</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/01/UTOQOTSJ2VFLNEUYYEPB24Y4QI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/01/UTOQOTSJ2VFLNEUYYEPB24Y4QI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 05:16:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4WENZQMQ2TENZYGMZDKYLCGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 양산에 폭염중대경보가 발효된 지난달 29일 양산 원동면 배내골 계곡을 찾은 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 경남 양산의 최고기온이 41.6도를 기록하며 관측 사상 최고기온 기록을 하루 만에 재차 경신했다.&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 이날 오후 2시 9분 양산의 최고기온이 41.6도를 기록했다. 전국에 기상 관측망이 설치돼 각종 기상 기록의 기준으로 삼는 1973년 이후 가장 기온이 높았던 것이다. 전날 세운 최고기온 기록(41.4도)을 하루 만에 갈아치우게 됐다.&lt;br&gt;&lt;br&gt;이 같은 ‘극한 폭염’은 현재 우리나라 상공을 덮고 있는 ‘이중 고기압’과 고온다습한 남서풍이 만든 결과다. 한반도 주변 해수면 온도는 평년(1991~2020년 평균) 보다 1도가량 높은 상태다. 내륙으로 들어오는 바람이 예년보다 더 뜨겁고 축축한 것이다. 또 티베트고기압과 북태평양고기압이 대기 상·하층을 덮고 있어 ‘열돔 효과’를 만들며 열기가 빠져나가지 못하고 있다.&lt;br&gt;&lt;br&gt;이날 양산을 비롯해 부산(40.5도)과 경남 창원(40.4도)에서도 40도 넘는 더위가 발생했다. 남부지방 중에서도 특히 이들 지역에 기온이 더 높은 것은 뜨거운 남서풍이 소백산맥을 넘으며 ‘푄 현상’에 의해 더 뜨거워지기 때문이다.&lt;br&gt;&lt;br&gt;열기가 계속 쌓이면서 양산에서 기온이 40도 이상으로 오르는 시간은 점차 일러지고 있다. 지난달 29일에는 오후 3시 26분, 같은 달 30일에는 오후 1시 10분께, 31일에는 낮 12시 36분에 40도를 돌파했다. 이날은 12시 14분에 40도를 넘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양산 나흘째 40도 넘겨...사상 최고기온 또 경신할 듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/01/XOR2DHB7FNCF7AV5QOB5SZ62UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/01/XOR2DHB7FNCF7AV5QOB5SZ62UM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 04:05:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZWEMRZG4YWCNBXGNSTCZLCGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 양산지역 기온이 41.4도까지 오른 31일 오후 양산시 물금읍 양산워터파크 분수대에서 시민이 물놀이하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산에서 나흘째 최고 40도가 넘는 폭염이 이어졌다. 전날 세운 기상 관측 사상 최고기록(41.4도)을 재차 경신할 가능성이 제기된다.&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 이날 낮 12시 14분 경남 양산 기온이 40.0도를 기록했다. 지난달 29일 이후 나흘 연속으로 수은주가 40도 넘게 오른 것이다.&lt;br&gt;&lt;br&gt;기상청이 공식 기록으로 삼는 전국 97개 기후 통계 관측 지점을 기준으로 40도대 기온이 연일 기록된 것은 이번 양산의 사례가 최초다. 자동기상관측장비(AWS) 기록까지 합치면 2018년 8월 1~4일 경북 영천(신녕)에서 4일 간 40도를 넘긴 것이 유일한 사례다. &lt;br&gt;&lt;br&gt;앞서 기상청은 이날 양산의 최고기온이 41도까지 오를 것으로 예상했다.&lt;br&gt;&lt;br&gt;열이 계속 쌓이면서 양산에서 기온이 40도 이상으로 오르는 시간은 점차 일러지고 있다. 지난달 29일에는 오후 3시 26분, 같은 달 30일에는 오후 1시 10분, 31일에는 낮 12시 36분에 40도를 돌파했다. 이날은 12시 14분에 40도를 넘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金 “명청대전 지옥문 닫아야” 鄭 “강력한 개혁” 宋 “유시민에 침묵 당대표 필요없어”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/08/01/GXBFRXXPF5GEXPJR7WU6PHIWWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/01/GXBFRXXPF5GEXPJR7WU6PHIWWE/</guid>
+      <dc:creator>공주=김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 03:39:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3GKNJVG4YGKOLDGNTDMMTCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김민석, 정청래, 송영길 당대표 후보가 지난달 29일 오후 서울 마포구 MBC에서 열린 TV 토론회에서 기념사진을 찍고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 차기 지도부를 뽑기 위한 8·17 전당대회 순회 경선 첫날인 1일 첫 합동 연설회에서 김민석·정청래·송영길 후보가 서로에 대한 비판을 이어갔다.&lt;br&gt;&lt;br&gt;김 후보는 이날 오전 충남 공주시 충남교통연수원에서 열린 충남 지역 합동 연설회에서 당대표 후보 가운데 첫 번째로 연단에 올라 “사상 최초로 대한민국이 선도 국가로 향하고 있는데, 그런 역사적 분기점 앞에서 우리가 흔들리고 있다”며 “당정이 삐걱대니까 선거가 흔들리고 증시도 흔들린다”고 했다.&lt;br&gt;&lt;br&gt;김 후보는 정 후보의 당대표 시절이 “명청(이재명·정청래) 대전”이었다며 “명청 대전의 연장전은 민주당의 지옥이고, 그 지옥문을 닫아야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 후보는 “당을 대혁신하겠다”며 “국무회의가 끝나면 정부보다 먼저 입법 과제, 정책 메시지를 착착착 정리해 내는 속도감 있는 당으로 변신시켜 내겠다”고 했다. 이재명 정부의 국무회의 생중계를 거론하면서 “당도 모든 것을 공개하고 업무 보고를 생중계하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 후보는 이어 “꼰대 문화를 척결하고, 당대표든 최고위원이든 (곧바로 공천을 주지 않고) 예외 없이 경선을 시키겠다”고 했다. 조국혁신당과의 통합 문제에 대해서는 “할 건 하고 안 할 건 안 하고 교통정리를 빨리빨리, 쌈박하게 해서 통합과 연대를 깔끔하게 마무리하고 대대적인 확장으로 중원을 선점하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 후보는 “대통령과 정부와 함께 일할 수 있는, 대통령과 손발이 맞는 ‘진짜 친명 지도부’를 만들어 달라”고 강조했다.&lt;br&gt;&lt;br&gt;이어서 연단에 오른 정 후보는 “1인 1표제를 사수하겠다”고 했다. 그는 “1인 1표제를 누가 지지했고, 누가 반대했고, 지금도 누가 1인 1표를 흔들고 있느냐”며 그가 당대표 시절 밀어붙인 대의원·권리당원 1인 1표제에 대해 신중론을 폈던 비당권파를 겨냥했다. 그러면서 “당원 여러분과 함께 1인 1표 당원 주권 정당을 사수하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 후보와 송 후보의 비판에 대해서는 “저는 깨끗한 선거운동을 하겠다. ‘네거티브’(비방) 하지 않겠다. 남 탓하지 않겠다. 상대방을 헐뜯지 않겠다. TV 토론에서도 상대방의 약점을 공격하지 않겠다”고 맞받았다.&lt;br&gt;&lt;br&gt;정 후보는 전날 민주당이 검찰의 직접 수사권을 완전 폐지하는 형사소송법 개정안을 국회 본회의에서 통과시킨 것과 관련해서는 “온갖 어려움 속에서 드디어 보완수사권 전면 폐지로 검찰 개혁을 완성시킨 정청래”라고 스스로를 소개했다. 그러면서 “민주당을 민주당답게 (만들) 더 강력한 개혁 당대표 정청래의 손을 잡아 달라”고 했다.&lt;br&gt;&lt;br&gt;정 후보는 또 “뿌리를 자르고 꽃을 피울 수는 없다”며 “김대중·노무현·문재인 정신을 계승하겠다”고 했다. 그러면서 조국혁신당 등과의 통합과 관련해 “범민주 진보 통합과 연대를 실현하겠다”며 “통합해서 총선 승리하고 연대해서 대선 승리하겠다”고 했다.&lt;br&gt;&lt;br&gt;마지막으로 연단에 오른 송 후보는 “우리 민주당의 전통에는 대표가 역임하는 경우가 없다”며 당대표직 연임에 도전하는 정 대표를 직격했다. 그는 “이재명 대통령이 유일하게 (당대표직을) 연임했는데, 그것은 정치 검찰의 탄압에 우리의 강력한 대선 후보를 지키기 위한 불가피한 선택이었다”며 “지금은 이재명 정부 시대인데 굳이 연임할 필요가 뭐 있느냐”고 했다.&lt;br&gt;&lt;br&gt;송 후보는 정 후보가 ‘검찰 개혁’을 자신의 공으로 돌린 데 대해서도 “한병도 당대표 직무대행 체제에서 (한 것이고,) 저도 일관되게 한 대행을 만나서 신속하게 보완수사권 폐지를 주장했고, 김 후보도 주장해 왔던 것”이라며 “이게 누구의 독점물이냐”고 따졌다.&lt;br&gt;&lt;br&gt;송 후보는 “(정 후보가 내세운) 선당후사가 완전히 실종됐다고 많은 당원이 평가한다”며 “자기 정치 때문에 이재명 정부가 흔들리고 있다”고도 했다.&lt;br&gt;&lt;br&gt;또 “정 후보가 네거티브 하지 않는다고 하는데, 저는 이 대통령을 네거티브하는 자를 용서하지 않겠다”며 “이재명 정부에 저주를 퍼붓는 유시민에게 침묵하는 당대표가 필요하냐”고 했다. 정 후보가 “정권은 짧고 국민은 영원하다”고 말한 데 대해서도 “하루하루가 소중한 이재명 정부인데, (본인이) 정권을 잡고 (이재명 정부는) 빨리 끝나기를 바라느냐”고 했다.&lt;br&gt;&lt;br&gt;송 후보는 한편 “당대표는 이재명 정부를 뒷받침할 뿐 아니라 부족한 점을 보완하고 대안을 제시해야 한다”고 했다. 그는 “부동산 정책이 위험하다. 세금으로 안 된다. 공급을 확대해야 한다. 실수요자를 지원해야 한다”고 했다. 또 “레버리지 ETF 때문에 얼마나 걱정했느냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>치료받던 입주민 대표 숨져…‘경산 아파트 방화’ 희생자 3명으로</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/01/USVZZNVBB5GIPJDMRYUTABVDAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/USVZZNVBB5GIPJDMRYUTABVDAU/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 01:57:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3GINJVGA3TINDFHBQTOZDGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 경북 경산시 사동 한 아파트 관리사무소에서 70대 입주민의 방화로 불이 나 관리인 등 8명이 화상을 입고 병원으로 이송됐다. 경찰과 소방 당국이 현장을 통제하고 정확한 사고 원인과 경위를 조사하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘경북 경산 아파트 관리사무소 방화’ 피해자 중 전신 화상을 입고 병원 치료를 받아왔던 입주민 대표가 숨졌다.&lt;br&gt;&lt;br&gt;1일 경찰 등에 따르면 전날 오후 11시 45분쯤 대구의 한 화상 전문병원에서 치료받던 아파트 입주민 대표 50대 여성 A씨가 숨졌다. &lt;br&gt;&lt;br&gt;이에 따라 이번 사건 사망 피해자는 모두 3명으로 늘었다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 정확한 사망 원인을 확인하기 위해 조만간 부검을 실시할 계획이다.&lt;br&gt;&lt;br&gt;지난 23일 오전 8시 29분쯤 경산의 한 아파트 관리실에서 피의자 류모(71)씨의 방화에 따른 폭발 및 화재가 발생했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 당시 류씨는 관리실에서 입주민 대표 등과 언쟁을 벌이던 중 격분해 건물 지하창고로 내려가 4L짜리 통에 담겨있던 인화물질 일부를 깡통에 옮겨 담아 가져 온 뒤 관리실 바닥에 마구 뿌리고 라이터로 불을 붙인 것으로 드러났다.&lt;br&gt;&lt;br&gt;이 사고로 류씨를 포함해 관리실 안에 있던 입주민 대표 A씨와 경비원, 주민 등 8명이 전신화상 등 피해를 봤다.&lt;br&gt;&lt;br&gt;피해자 7명 중 A씨와 50대 주민, 50대 관리실 직원 등 3명은 병원 치료를 받다 숨졌으며 입원 치료 중인 4명 중 1명도 상태가 위독한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현재 경찰은 이번 방화 사건의 피의자인 류씨를 현주건조물방화치사상 혐의로 입건한 상태다. 다만 류씨 또한 전신에 화상을 입어 병원 치료를 받고 있으며 대화가 어려운 상태로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 류씨의 상태가 호전되는 대로 대면 조사에 나설 방침이다. 이와 함께 범행 경위 등을 파악하기 위해 주변인 탐문과 함께 압수수색으로 확보한 류씨의 휴대전화와 아파트 CCTV 등을 분석 중이다.&lt;br&gt;&lt;br&gt;경찰은 아파트 운영 문제를 두고 오랫동안 관리실 측과 갈등을 빚어온 류씨가 사망한 A씨 등 특정인을 겨냥한 보복 목적으로 방화를 저지른 사실이 수사를 통해 입증될 경우 기존 혐의보다 형량이 무거운 특정범죄 가중처벌 등에 관한 법률을 적용하는 방안도 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>야생 까마귀 일주일 키운 40대 여성, 벌금형 선고유예</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/01/OAMUCJ3J7VAO3KSINJOYPRYELE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/OAMUCJ3J7VAO3KSINJOYPRYELE/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 02:04:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE4U4BDY3FHQXMXIFED44MA2YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지방법원 전경./김은진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야생 까마귀를 포획해 집에서 키운 40대 여성이 선고유예를 받았다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 의정부지법 형사6단독(재판장 이용희)은 야생생물 보호 및 관리에 관한 법률 위반 혐의로 기소된 40대 여성 A씨에게 벌금 70만원의 선고를 유예했다.&lt;br&gt;&lt;br&gt;선고유예는 유죄가 인정되지만, 정상을 참작해 형을 선고하지 않는 제도로 2년간 다른 범죄를 저지르지 않으면 처벌을 면제받을 수 있다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 초 의저부시 녹양동의 가금철교 아래 공원에서 야생 까마귀를 포획한 뒤 자신의 주거지에 보관한 혐의를 받았다.&lt;br&gt;&lt;br&gt;A씨가 까마귀를 기르고 있다는 내용의 민원이 국민신문고를 통해 의정부시에 접수되면서 사건이 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 철교 인근에 앉아 있던 새끼 까마귀를 발견하고 집에 데려가 상자와 우리 등에 넣어 기른 것으로 봤다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “등산을 하고 오는 길에 새끼 까마귀를 발견했고 불쌍해서 집으로 데려갔다”며 “일주일 정도 키운 뒤 까마귀를 다시 박스에 넣고 처음 발견한 곳에 다시 갖다 놓았다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 범행을 반성하고 초범인 점, 관련 법률을 알지 못한 채 범행해 그 경위에 참작할 만한 사정이 있는 점 등을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아침인데 34도...8월 첫날도 전국 매서운 폭염</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/01/MO4FDVM4TBAZBFZ7ZRJL5V7QVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/01/MO4FDVM4TBAZBFZ7ZRJL5V7QVE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 Jul 2026 23:54:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSWINTCGI4TMZJTHEYDIOBQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염특보가 내려진 지난 31일 서울 광화문광장 분수대에서 아이들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 아침 강원 삼척의 기온이 34.6도를 기록하는 등 8월 첫날에도 전국에서 매서운 폭염이 이어질 전망이다. 특히 폭염중대경보(일 최고 체감온도 38도 이상)가 내려진 남부지방을 중심으로 최고 40도에 가까운 더위가 나타날 것으로 보인다.&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 이날 오전 9시 기준 삼척을 비롯해 울산(34.2도), 경남 양산(34.1도) 등에서 아침 기온이 34도를 넘어섰다. 한낮 수준의 더위가 아침부터 발생한 것이다.&lt;br&gt;&lt;br&gt;지난 31일 밤부터 1일 오전까지 밤 최저기온이 25도를 넘어서며 열대야가 발생한 지역이 많았다. 밤사이 서울의 최저기온은 27.4도, 인천은 26.8도를 기록했고, 강원 강릉은 30.4도를 기록하며 ‘초열대야’(밤 최저기온 30도 이상)가 발생했다. 포항(29도), 울진(29도), 양산(28.7) 등도 초열대야에 가까운 밤 더위가 발생했다.&lt;br&gt;&lt;br&gt;현재 우리나라는 고온다습한 남서풍이 불어오는 가운데, 대기 상·하층을 티베트고기압과 북태평양고기압이 각각 장악하면서 열기가 빠져나가지 못하고 있다. 열기가 해소되려면 태풍이 북상해 기압계를 흔드는 등 ‘변수’가 발생해야 하지만, 현재로선 ‘이중 고기압’이 안정적으로 자리해 폭염이 한동안 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;1일 낮 최고기온은 32~39도로 예보됐다. 자외선지수는 정오부터 전국 대부분 지역에서 ‘매우 높음’ 수준을 보일 것으로 예상된다. 일요일인 2일에도 최고기온이 32~39도로 매우 높을 전망이다.&lt;br&gt;&lt;br&gt;다음 주부터는 바람의 방향이 남서풍에서 동풍으로 바뀌며, 서울을 비롯한 수도권을 중심으로 폭염이 심해질 것으로 예상된다. 동풍이 태백산맥을 넘으며 ‘푄 현상’에 의해 고온건조해지고, 이 열풍이 그대로 한반도 서쪽에 불어오기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MNRTQNBVMFQWKYTFHAZWKYJVMY.jpg?auth=c330a894abf41b77ae78a3cee8c1d264e99165beaa91a7469eee8a8d7bdfd985&amp;smart=true&amp;width=600&amp;height=344" type="image/jpeg" height="344" width="600">
+        <media:description type="plain">전국적으로 폭염이 지속되고 있는 31일 경기 안성시 농협안성팜랜드에서 무더위에 지친 해바라기가 고개를 숙이고 있다. photo 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">Kim Young Un</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>與 이언주 “‘보완수사권 폐지’ 형소법 개정 유감… 신중했어야”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/08/01/CG6CIZTS3BANPEX4OBGJHHU3NM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/01/CG6CIZTS3BANPEX4OBGJHHU3NM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 01:48:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4DINLGGYZTKY3DGE3TCNRXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이언주 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 검찰의 직접 수사권을 완전히 폐지하는 형사소송법 개정안을 국회에서 강행 처리한 가운데, 표결에 불참한 민주당 이언주 의원이 “도대체 무엇 때문에 국민 대다수의 반대를 무릅쓰고 그렇게까지 무리했어야 하는지 이해가 안 된다”고 비판했다.&lt;br&gt;&lt;br&gt;이 의원은 1일 오전 페이스북에 글을 올려 “저는 딥페이크 정치 테러 이후 요양 중이라 논의가 어떻게 진행됐는지 상세히 알지 못한다”고 했다. 그러면서도 “이번 형소법 개정에 반대하는 다수의 국민 여론을 감안해 더 신중했어야 하는데 이리 급히 처리한 점에 대해 참으로 유감스럽다”고 했다.&lt;br&gt;&lt;br&gt;이 의원은 “검찰 개혁이 시대적 과제라는 것엔 저도 100% 동의한다”며 “하지만 보완수사권을 완전히 폐지하냐 마냐의 문제는 검찰 개혁이나 정치 검찰하고는 다른, 국민의, 특히 피해자의 기본권 보장 차원의 문제”라고 했다.&lt;br&gt;&lt;br&gt;이 의원은 “최근 김창민 감독 사건이나 장윤기 사건 등에서 드러난 바와 같이, 경찰 수사의 부실이나 내부 부패 가능성을 견제할 수 있도록 검찰의 보완수사권을 남겨둬야 한다는 국민 여론이 압도적”이라며 “적어도 정치 검찰 이슈와 무관하고 국민의 민생, 기본권과 직결된 강력 범죄 등에 한해, 최소한 한시적으로라도 견제 권력의 공백으로 국민의 기본권이 침해되는 일이 없도록 해야 했다”고 했다.&lt;br&gt;&lt;br&gt;이 의원은 “더욱이 형사법은 사회적 약자들의 생명과 안전을 범죄로부터 더 강력하게 보호하고 가해자를 엄벌에 처해 다시는 유사한 범죄가 재발되지 않게 철저히 수사해야 하는 영역이기도 하다”며 “이미 ‘광주 여고생 피살 사건’ ‘부산 돌려차기 사건’ 등은 경찰의 부실 수사 우려를 떠올리게 한다”고 지적했다.&lt;br&gt;&lt;br&gt;이 의원은 “어떻든 법 시행이 어떻게 진행될지 앞으로 예의주시하겠다. 필요하다면 언제든 보완, 수정을 제안하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국힘 “보완수사권 폐지, 형사사법 체계 난도질 폭거… 李대통령 거부권 행사해야”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/08/01/HAJUZL7YFFA7LCJIVE4A23BNIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/01/HAJUZL7YFFA7LCJIVE4A23BNIU/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 00:30:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44Z4WCJT4FJ65FILHE2DGRGUPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 국회 본회의에서 검찰의 직접 수사권을 전면 폐지하는 형사소송법 개정안이 국민의힘 의원 등이 불참한 가운데 통과되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘은 1일 전날 더불어민주당이 검찰 보완수사권을 완전히 폐지하는 형사소송법 개정안을 강행 처리한 데 대해 “국가의 형사 사법 체계를 난도질하는 폭거”라며 이재명 대통령에게 거부권(재의 요구권)을 행사할 것을 요구했다.&lt;br&gt;&lt;br&gt;국민의힘 박성훈 수석대변인은 이날 오전 논평에서 “민주당이 검찰 보완수사권을 완전히 폐지하는 형소법 개정안을 기어이 강행 처리하고야 말았다”며 “범죄의 진실을 밝히고 억울한 피해자의 눈물을 닦아주어야 할 국가의 형사 사법 체계를 오직 이 대통령과 정권의 안위를 위해 난도질하는 폭거가 아닐 수 없다”고 했다.&lt;br&gt;&lt;br&gt;박 수석대변인은 “이번 개정안은 단순히 검찰의 권한을 축소하는 것을 넘어, 범죄 대응 역량을 무력화해 국민을 범죄로부터 무방비하게 방치하는 ‘국민 포기’ 법안”이라고 규정했다. 그러면서 “대한민국 사법 시스템에 대한 사망 선고이자 범죄자 천국 시대의 개막 선언”이라고 했다.&lt;br&gt;&lt;br&gt;특히 “중대한 위법 수사 등에 대해 법원이 공소를 기각할 수 있도록 한 독소 조항까지 기습적으로 얹은 것은, 이 대통령 무죄 만들기용 방탄용 입법의 진면목을 고스란히 보여 주고 있다”고 했다.&lt;br&gt;&lt;br&gt;민주당이 형소법 개정안 처리를 자축하며 오는 3일 ‘대국민 보고회’를 열겠다고 한 데 대해서는 “쏟아지는 범국민적 우려와 법조계의 경고는 들은 체 않고 입법 독재를 밀어붙이더니, 무슨 낯으로 대국민 보고회를 열겠다는 것이냐”고 했다. 그러면서 “야밤에 금고를 털어간 범죄자가 ‘이 물건이 없어도 되는 이유’를 설명하겠다는 것과 다를 바 없는 후안무치한 행태”라고 비판했다.&lt;br&gt;&lt;br&gt;박 수석대변인은 이 대통령을 향해 “헌법이 부여한 거부권을 즉각 행사해, 무너진 형사 사법 질서를 바로잡고 국민의 안전을 지켜내겠다는 마지막 의지를 보여야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “국민의 안전과 대한민국 법치주의를 파괴하면서까지 정권의 사익을 챙기는 일방통행식 국정 운영은 반드시 국민적 심판을 맞이하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>與 당대표 경선 나섰던 김보미 “보완수사권 폐지, 2030 민주당서 더 멀어질 것”</title>
       <link>https://www.chosun.com/politics/assembly/2026/08/01/E3ULXKL2XRAANBV54SNR7SK7OI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/01/E3ULXKL2XRAANBV54SNR7SK7OI/</guid>
@@ -745,33 +860,6 @@
       </media:content>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2919] 문장 꽈배기</title>
-      <link>https://www.chosun.com/national/nie/2026/07/31/OD3OR26XBFCZBPULQERMNRROPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/07/31/OD3OR26XBFCZBPULQERMNRROPI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XPSV62RAFDO3CVTKSUQ3THWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 차단기가 내려가다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/07/31/PWJOVN3H5JEIRI3LXHVFUKJIFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/07/31/PWJOVN3H5JEIRI3LXHVFUKJIFE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X53OYODMZ5BPNLWCFARWR7CMHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] Just bring yourself.</title>
-      <link>https://www.chosun.com/national/nie/english/2026/07/31/SADXRMLFHZCLVESJ5DQLJUGWMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/07/31/SADXRMLFHZCLVESJ5DQLJUGWMY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYS6JXAHZFGUVMA6US7GJOAI4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 염원(念願)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2026/07/31/S7EKQX6EYFF2TCHCRAFJNNP74I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/31/S7EKQX6EYFF2TCHCRAFJNNP74I/</guid>
@@ -800,31 +888,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/PGEUWZXBKFA77G55DBYTAJSBBU.png?auth=51d400c8c92639fdc9af8b295d09dc3e3c204a3dec4fe4a5561448b0b5187b70&amp;smart=true&amp;width=500&amp;height=500" type="image/png" height="500" width="500"/>
     </item>
     <item>
-      <title>109시간 불 탄 인천 쿠팡물류센터 화재… 경찰 압수수색 밤까지 이어져</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/30/6FOSGJSGTNB4JGAODXOWVPRJUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/6FOSGJSGTNB4JGAODXOWVPRJUA/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 13:06:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IISSDM5JI5LA3LB37HH4GBDPLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;109시간 만에 진화된 인천 쿠팡 물류센터 화재 원인 규명을 위해  인천경찰청'석남동 쿠팡 물류센터 화재 수사 전담팀'이 30일 오후 인천 서해구 석남동 쿠팡32물류센터 인근 사무실을 압수수색해 압수품을 들고 차량으로 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;109시간 불 탄 인천 쿠팡 물류센터 화재와 관련해 강제수사에 착수한 경찰이 밤까지 압수수색을 이어가고 있다.&lt;br&gt;&lt;br&gt;30일 경찰 등에 따르면 인천경찰청 석남동 쿠팡 물류센터 화재 수사전담팀은 이날 오전 10시부터 화재 발생 물류센터 인근 쿠팡 사무실과 방재실 등 3곳을 대상으로 압수수색을 진행 중이다. 경찰은 수사관 30명을 투입해 오후 8시 넘겨 압수수색을 진행 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 화재 당시 감시카메라 영상 원본과 관련 자료 등을 확보하고 있다. 현재까지 입건된 피의자는 없다. 압수수색 영장에는 방화와 실화 등 혐의 적용 가능성이 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 화재는 지난 18일 오전 6시 54분 인천 서구 석남동 쿠팡 제32물류센터에서 발생했다. 불은 대량의 적재 물품을 태우며 번졌고, 소방당국은 국가소방동원령을 발령하는 등 대응에 나섰다. 화재는 발생 109시간 40여 분 만인 지난 22일 오후 완전히 진화됐다.&lt;br&gt;&lt;br&gt;인명 피해는 소방관 2명이 연기 흡입과 탈진으로 치료를 받은 것 외에는 발생하지 않았다.&lt;br&gt;&lt;br&gt;인천소방본부는 화재 당시 6층 3단 선반(랙)에 보관 중이던 상자에서 최초 발화한 것으로 추정하고 있다. 다만 정확한 화재 원인은 경찰 수사와 국립과학수사연구원 등의 감식을 통해 최종 확인될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IISSDM5JI5LA3LB37HH4GBDPLY.jpg?auth=3c4c981190d2bb83e1811ad07946b7a4f94c86944cb78e35bba21fb74bd62610&amp;smart=true&amp;width=4362&amp;height=2694" type="image/jpeg" height="2694" width="4362">
-        <media:description type="plain">109시간 만에 진화된 인천 쿠팡 물류센터 화재 원인 규명을 위해  인천경찰청'석남동 쿠팡 물류센터 화재 수사 전담팀'이 30일 오후 인천 서해구 석남동 쿠팡32물류센터 인근 사무실을 압수수색해 압수품을 들고 차량으로 이동하고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">전진환</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>부산 반도체 기업 ‘리노공업’ 총파업 이후 첫 교섭서 ‘빈손’</title>
-      <link>https://www.chosun.com/national/regional/2026/07/30/KG2L4P4BFVGHPFHPWXTK47CRJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/30/KG2L4P4BFVGHPFHPWXTK47CRJY/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 13:29:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4GMYLEHBSWKMZUMNRGMMZVGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;리노공업 본사 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 지역 대표 반도체 부품 기업인 ‘리노공업’ 노사가 총파업 이후 첫 교섭에 나섰지만 합의점을 찾지 못했다. 노조는 파업을 계속 이어간다는 방침이다.&lt;br&gt;&lt;br&gt;30일 리노공업 노사에 따르면, 이날 오후 2시부터 9시까지 진행된 교섭에서 노사는 입장차를 좁히지 못했다.&lt;br&gt;&lt;br&gt;리노공업 노사 갈등의 핵심은 성과급 지급 문제다. 노조는 당초 연 800% 고정 상여금 지급과 영업이익의 15%를 추가 성과급으로 요구했다. 노조 관계자는 “11월 말에 몰아서 지급하는 성과급이 전체 연봉의 절반을 훌쩍 넘는다”며 “상여금을 고정적으로 받아 임금 체계를 좀 더 안정적으로 바꾸자는 것”이라고 했다. &lt;br&gt;&lt;br&gt;사측은 난색을 표했다. 국내 제조업 매출액 대비 인건비 비율은 10% 안팎 수준인데 리노공업은 이미 25%까지 지급하고 있다는 것이다. 노조의 요구안을 그대로 받아들일 경우 총매출액 대비 인건비가 차지하는 비율이 30%를 넘어 정상적인 경영이 어렵다는 입장이다.&lt;br&gt;&lt;br&gt;이날 교섭에서 노조는 연 400%의 상여금과 상·하반기마다 성과급 300% 지급을 요구한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;사측은 두 가지 대안을 제시했다. 첫 번째 안은 연 700%의 성과급 지급이다. 또 다른 안은 연 300% 성과급 지급과 기본급 5만원 인상, 설·추석 상여금 각 100만원 지급, 출산·입학 축하금 도입 등이다. 사측은 “노조가 지속적으로 제기해 온 직급 간 임금 격차를 완화하기 위해 노력했다”고 했다.&lt;br&gt;&lt;br&gt;노사는 결국 이날 교섭에서 합의점을 찾지 못했다. 다만 31일 오후에도 만나 교섭을 이어갈 예정이다. 노조는 교섭 중에도 파업을 하겠다는 입장이다.&lt;br&gt;&lt;br&gt;리노공업은 부산을 대표하는 반도체 소재·부품·장비(소부장) 생산 기업이다. 반도체 출하 전 불량품을 걸러낼 때 사용하는 가느다란 핀과 이 핀을 장착한 소켓을 만드는 회사다. 삼성전자와 SK하이닉스, 퀄컴, TSMC, 엔비디아 등 글로벌 반도체 기업들이 대표적인 고객사다.&lt;br&gt;&lt;br&gt;리노공업 노조는 지난 20일 부분 파업에 돌입한 데 이어 사흘 뒤엔 무기한 총파업에 돌입했다. 1974년 회사 창사 이후 첫 파업이다. 직원 730명 중 절반인 353명이 파업에 참여했다. 리노공업은 이번 파업으로 하루에 20억원 상당의 손실이 발생하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GE4GMYLEHBSWKMZUMNRGMMZVGY.jpg?auth=389601cc94cb3eb3c65b81117fc30ab34e00442690dd58545427af87c1f17e07&amp;smart=true&amp;width=720&amp;height=395" type="image/jpeg" height="395" width="720">
-        <media:description type="plain">리노공업 본사 전경. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>정청래, 옛 경쟁자 박찬대 만나 “우리는 동지”</title>
       <link>https://www.chosun.com/politics/assembly/2026/07/30/2HO6KZYGDRBSVOL3OHWQQJJ4IM/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/07/30/2HO6KZYGDRBSVOL3OHWQQJJ4IM/</guid>
@@ -847,23 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFGRCKZPYNE5TD6YEGU3CF6S4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 정보 조직의 지시를 받아 현역 군인에게 접근하고 사드(THAAD·고고도 미사일 방어체계)와 한미연합훈련 등 우리 군사기밀을 빼돌리려 한 중국인에게 실형이 확정됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 군사기밀보호법 위반 혐의로 기소된 칭모씨에게 징역 5년을 선고하고 457만7230원을 추징한 원심을 지난 16일 확정했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇“미군이나 사드 자료 가장 좋다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;칭씨가 가담한 조직은 중국 인민해방군 연합참모부 정보국 소속 첩보 조직인 이른바 ‘켄 제이크(Ken Jake)’였다. 중국 연합참모부는 한국의 합동참모본부 격이다.&lt;br&gt;&lt;br&gt;중국 산둥성 출신인 칭씨는 국내 대학에서 어학연수를 하고 영상학 석사학위를 받은 뒤 중국의 한 대학 교수로 일하고 있었다. 그가 첩보 활동에 발을 들인 것은 2022년. 대만 유학 중 알게 된 켄 제이크 조직원 A의 지시로 반중·대만 독립 단체의 동향을 보고하고, 정치인을 포섭하기 위해 해당 정치인이 활동하는 동호회에 가입하는 등의 활동을 했다.&lt;br&gt;&lt;br&gt;켄 제이크 조직이 한국군을 상대로 움직이기 시작한 것은 그해 말이었다. A는 카카오톡 군 관련 오픈채팅방에서 자신을 ‘군사연구원’ ‘싱가포르 국제연구소 연구원’ 등으로 소개하며 현역 군인으로 보이는 사람들에게 접근했다.&lt;br&gt;&lt;br&gt;2023년 7월, 현역 군인으로 위장한 방첩사 수사관에게 A는 “중국 방어 연구 프로젝트에 참여하고 있다”며 “내부 자료라면 3급은 200만원 이상, 2급은 400만원 이상 현금으로 주겠다”고 했다. 먼저 350만원을 입금해 신뢰를 샀다.&lt;br&gt;&lt;br&gt;이후 요구는 노골적으로 변했다. A는 “공개 자료는 필요 없다”며 한미 연합작전과 훈련 평가, 미군과 일본 자위대 관련 자료를 요구했다. 특히 “미군 관련된 거 가장 좋다” “작계 등 민감한 거 있나” “사드 자료가 좋다”라며 2·3급 자료를 달라고 했다. 위장 수사관은 현금 500만원을 받고 가짜 군사기밀 4건을 건넸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇제주서 접선…아내에겐 “우리 애국하는 거예요”&lt;/b&gt;&lt;br&gt;&lt;br&gt;켄 제이크는 장기간 거래가 가능한지 확인하기 위해 조직원을 한국에 직접 보내기로 했다. 한국어와 한국 사정에 밝은 칭씨가 낙점됐다.&lt;br&gt;&lt;br&gt;칭씨는 2024년 5월 “상대 군인과 신뢰를 쌓으라”는 지시를 받고 제주도로 입국했다. 당시 아내가 한국에서 유학 중이었지만 만나러 가지 않았다. 아내가 걱정하자 칭씨는 “임무하러 가는 거지 뭐” “안심해요, 우리 애국하는 거예요”라고 말했다.&lt;br&gt;&lt;br&gt;칭씨는 제주시의 한 펜션에서 위장 수사관을 만나 “A와 같은 연구소에서 일하고 있다”며 “놀거나 가고 싶은 곳이 있으면 비용을 계산해줄 수 있다”고 했다. 위장 수사관은 원하는 자료의 목록과 가격표를 요구했고 중국 정부 차원의 신분 보호 등도 요구했다. 칭씨는 이를 A에게 보고하겠다고 약속했다.&lt;br&gt;&lt;br&gt;며칠 뒤 조직의 다른 전달책은 펜션에 숨겨진 USB를 회수했다. 안에는 북한 전략무기 개발 수준 분석 등 가짜 군사기밀 5건이 들어 있었다. 전달책은 같은 자리에 미화 5000달러와 다음 거래에 사용할 USB를 남겼다.&lt;br&gt;&lt;br&gt;조직은 거래 규모를 키웠다. 칭씨는 2024년 7월 다시 제주도로 입국해 공작금 5000달러와 전용 연락 수단으로 쓸 보안 휴대전화를 철제 금고에 넣었다. 그러나 위장 수사관이 거래 방식이 마음에 안 든다며 자료를 보내지 않자, 조직은 매달 고정급을 지급할 방법을 찾았다. 칭씨는 중국에서 돈을 충전할 수 있는 카드를 한국에 보내 비밀번호를 알려주고, 국내 현금자동입출금기(ATM)에서 인출하게 하는 방안을 제안하기도 했다.&lt;br&gt;&lt;br&gt;칭씨의 세 번째 한국 입국은 2025년 3월이었다. 그는 제주도 내 시설의 화장실을 돌아다니며 넓이와 변기 칸 수를 확인해 A에게 보고했다. 자료를 전달할 은밀한 장소를 찾기 위해서였다. 며칠 뒤 제주시의 한 건물에서 위장 수사관을 만나 ‘북한의 신형 유도미사일 개발 수준 및 위협 분석’ 등 가짜 군사기밀 2건이 든 USB를 받고, 갤럭시 태블릿PC 등이 든 선물 가방을 건넸다. 칭씨는 현장에서 체포됐다. 방첩사에서 사건을 넘겨받은 서울중앙지검은 그해 4월 칭씨를 구속기소했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“보이스피싱 수사인 줄 알았다” 주장&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판 과정에서 칭씨는 방첩사가 처음부터 위장 수사를 했기 때문에 실제 기밀이 유출될 가능성이 없었다고 주장했다. 그러나 법원은 중국 조직이 상대를 실제 현역 군인으로 믿고 2·3급 기밀을 구체적으로 요구하면서 돈과 장비까지 제공한 만큼, 객관적으로 기밀 유출 위험이 있었다고 판단했다.&lt;br&gt;&lt;br&gt;1심은 “대한민국의 국가 안전에 중대한 위협을 가져오는 범행”이라며 칭씨에게 징역 5년을 선고했다. 실제 기밀이 넘어가지는 않았고 칭씨가 조직 내에서 주도적 역할을 하지도 않은 점을 형량에 반영했다. &lt;br&gt;&lt;br&gt;칭씨는 2심에서 중국인 보이스피싱 조직을 수사하는 일인 줄 알았다고도 주장했다. 이를 입증한다며 중국인민무장경찰부대 명의의 협조 공문과 중국 대학의 출장 확인서도 제출했다.&lt;br&gt;&lt;br&gt;하지만 2심 재판부는 “민간인이 보이스피싱 사건을 수사하기 위해 한국에 입국해 현역 군인을 비밀리에 만난다는 것은 납득하기 어렵다”고 했다. 재판부는 또 켄 제이크가 중국 정부 산하 첩보조직인 만큼 관련 기관 명의의 공문을 쉽게 만들어낼 수 있다고 봤다. 2심은 칭씨와 검찰의 항소를 모두 기각했고, 대법원도 이를 확정했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경기 양평 음식점 천장 무너져 14명 부상, 대피 소동</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/30/FE4RRS2GWRBP5KLHBPIYQII3GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/FE4RRS2GWRBP5KLHBPIYQII3GI/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 11:54:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQ6TCC4ECRNITK4ORGPZAB3LVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 6시 36분께 경기도 양평군 양평읍 양근리 소재 음식점에서 천장이 무너지는 사고가 나 14명이 다쳤다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양평군의 한 음식점 천장이 무너져 14명이 다쳤다.&lt;br&gt;&lt;br&gt;30일 소방당국에 따르면 이날 오후 6시 36분쯤 경기 양평군 양평읍 양근리의 한 음식점에서 천장 철제 구조물과 상판이 무너지는 사고가 발생했다. 해당 식당은 경량 철골조 지상 1층, 연면적 약 2300㎡ 규모로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 식당에는 손님 약 60명이 있었던 것으로 전해졌다. 소방 당국은 현장에 출동해 부상자를 이송하고 응급 의료소를 설치했다. 경찰은 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UQ6TCC4ECRNITK4ORGPZAB3LVQ.jpg?auth=3315cc4222e6fb562b4dfdb4226b42aa515246240cba2c278cf3c9964efcbce4&amp;smart=true&amp;width=4320&amp;height=2904" type="image/jpeg" height="2904" width="4320">
-        <media:description type="plain">&lt;YONHAP PHOTO-6548&gt; 양평 음식점서 천장 무너져 내려 14명 부상
-    (양평=연합뉴스) 30일 오후 6시 36분께 경기도 양평군 양평읍 양근리 소재 음식점에서 천장이 무너지는 사고가 나 14명이 다쳤다.
-    이날 사고는 경량철골조로 된 지상 1층의 연면적 2천300여㎡ 규모 식당의 천장이 갑자기 무너져 내려 발생했다. 2026.7.30 [경기소방 제공. 재판매 및 DB 금지]
-    photo@yna.co.kr/2026-07-30 20:22:21/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">강영훈</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘강북구 오피스텔 살인’ 50대 남성 구속…과거 성범죄 전력도</title>
       <link>https://www.chosun.com/national/national_general/2026/07/30/ILGGXX4PD5GENHUIN42ZXCTINY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/ILGGXX4PD5GENHUIN42ZXCTINY/</guid>
@@ -882,33 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSDANTBGFSWGNRXMM3DQMLBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원·서울가정법원 전경. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 상사였던 총경의 아들이 피의자로 입건되자 담당 수사관에게 연락해 상사의 부탁 등을 전달한 경찰관에 대한 견책 처분은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 경정 A씨가 경찰청장을 상대로 제기한 견책 및 징계부가금 취소 소송에서 지난 5월 원고 패소로 판결했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 3월 전 상사의 아들이 과거 자신이 함께 근무했던 동료 B씨에게 수사를 받는다는 사실을 알게 되자 B씨에게 전화를 걸어 사건 관련 얘기를 했다. A씨는 B씨에게 “(B씨가) 담당하고 있던 공동주거침입 혐의 피의자가 내 상사였던 총경의 아들”이라며 사건을 언급했다. 이에 B씨가 이 사건을 어떻게 알고 있냐고 묻자 “내가 그 분을 안다. 내가 모시던 계장이고, 내가 B씨한테 전화를 안 해야 하는데 일단은 미안하다”고 말했다. 그러면서 “전 상사가 아들 조사에 동석하기 싫어한다. 변호사 참여 하에 조사를 해도 되냐” 등 부탁을 전달하기도 했다.&lt;br&gt;&lt;br&gt;이외에도 2022년 3월 관용차를 운전하던 경찰관에게 술에 취한 지인을 집까지 태워주라고 한 행동과 2021년 12월 관내 사업자로부터 14만9000원 상당의 머플러 등을 선물로 받은 것이 A씨의 징계 사유에 포함됐다.&lt;br&gt;&lt;br&gt;A씨는 자신의 행동이 징계사유가 되지 않는다고 반박했다. A씨는 전 상사 아들의 사건을 동료에게 말한 것에 대해 “사건의 처리 방향에 개입하거나 압력을 가하는 등 청탁을 한 게 아니기에 징계할 수 없다”고 주장했다. 다른 징계 사유들 역시 경찰 동료에게 사적 이익을 요구하거나, 공무원으로서의 품위를 손상하는 등 청렴성을 의심받는 행위가 아니라며 징계가 취소돼야 한다고 했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 A씨에 대한 징계는 타당하다고 판단했다. 재판부는 “A씨는 당시 맡고 있던 직책상 사건 문의 등이 금지됨을 누구보다 잘 알고 있어야 했다”며 “사건 문의가 실제 사건 수사 등에 영향을 미치지 않더라도 외견상 일반 국민의 관점에서 수사 절차의 공정성 등에 부정적 영향을 미친다는 것을 인식할 지위에 있었다”고 지적했다. &lt;br&gt;&lt;br&gt;이어 “A씨는 소속 경찰관들을 지휘·감독하는 지위에 있었고, 유관기관이나 관련자들로부터 철저히 독립해 성실의무, 청렴의무 등에 위반되지 않도록 행동할 의무가 있다”며 “그럼에도 A씨는 종전에 자신의 지휘·감독하에 있던 경찰관에게 사건 문의를 했고, 사적 목적으로 부당지시를 했다”고 질책했다. 관내 사업자로부터 머플러 등을 받은 점 역시 위법성이 가볍지 않다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘미성년자 성범죄 혐의’ 최영중 전 청주시의원 구속</title>
-      <link>https://www.chosun.com/national/incident/2026/07/30/3EYCRA5WWNBJZAFE2EWC3J22PY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/07/30/3EYCRA5WWNBJZAFE2EWC3J22PY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 08:56:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJRGCMBQGU2GIMZRMJQWMYZTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미성년자 성매매 혐의 등을 받는 최영중 전 청주시의원이 30일 충북 청주시 서원구 청주지방법원에서 구속 전 피의자 심문(영장실질심사)을 받은 뒤 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자를 상대로 성범죄를 저지른 혐의를 받는 최영중 전 청주시의원이 구속됐다.&lt;br&gt;&lt;br&gt;청주지법 태지영 영장전담 부장판사는 30일 아동·청소년의 성보호에 관한 법률 위반 등 혐의를 받는 최 전 의원에 대한 구속 전 피의자 심문(영장실질심사)을 한 뒤 “증거인멸과 도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;최 전 의원은 2024년 10월부터 지난해 10월까지 약 1년간 3차례에 걸쳐 채팅 애플리케이션을 통해 알게 된 중학생과 차량과 모텔 등에서 성관계를 하고, 나체 사진을 촬영해 보내도록 요구한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;적용 혐의는 미성년자 의제강간, 성착취물 제작, 성매매 권유, 성착취 목적 대화 등이다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 최 전 의원의 자택과 차량, 청주시의회 의원실 등을 압수수색해 휴대전화와 전자기기 등을 확보한 뒤 디지털포렌식을 진행했다. 이어 지난 27일 약 15시간 동안 피의자 조사를 벌였고, 지난 28일 사전구속영장을 신청했다.&lt;br&gt;&lt;br&gt;수사 과정에서는 최 전 의원이 휴대전화를 교체하고, 압수수색 이후 자진 제출한 사설 포렌식 자료에서 일부 데이터를 삭제한 정황도 확인된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;최 전 의원은 이날 오후 1시쯤 정장 차림에 마스크를 착용한 채 법원에 출석했다. 그는 ‘혐의를 인정하느냐’, ‘미성년자인 줄 알고 만났느냐’, ‘피해자에게 할 말이 없느냐’는 취재진 질문에 아무런 답을 하지 않았다. 영장실질심사를 마친 뒤에도 침묵한 채 호송차에 올랐다.&lt;br&gt;&lt;br&gt;최 전 의원은 경찰 조사에서 성관계 사실은 인정하면서도 “상대가 미성년자인 줄은 몰랐다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 확보한 디지털 증거와 포렌식 결과를 토대로 여죄와 추가 피해 여부 등을 계속 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭염에 밭일 나간 90대 또 숨졌다...전북서만 두 번째</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/30/C77W23Q5YJAJZKKWQRW23TAQO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/C77W23Q5YJAJZKKWQRW23TAQO4/</guid>
-      <dc:creator>김제=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 08:53:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGQCJ3UFJBMKNIA4FY7ZTIR46A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 질병관리청에 따르면 지난 29일 하루 동안 발생한 온열질환자는 76명으로 집계됐다. 같은 날 온열질환으로 추정되는 사망자도 2명 늘었다. 이에 올해 누적 온열질환자는 1638명, 사망자는 12명으로 늘었다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 체감온도 35도를 오르내리는 ‘가마솥더위’가 맹위를 떨치는 가운데, 전북 김제에서 밭일을 하던 90대 노인이 온열 질환으로 사망하는 사고가 발생했다. 올여름 전북 지역에서 발생한 두 번째 온열 질환 사망자다. &lt;br&gt;&lt;br&gt;30일 전북도 등에 따르면 전날 오후 4시 14분쯤 김제시 하동의 한 밭에서 A(92)씨가 쓰러져 숨진 채 발견됐다. A씨를 만나러 온 지인이 밭에 쓰러져 있는 것을 발견해 신고한 것으로 알려졌다. 조사 결과 A씨는 당일 오전 7시쯤 집을 나섰으며 뙤약볕 아래서 야외 활동을 하다 심장에 무리가 가 숨진 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;앞서 지난 26일에도 김제시 청하면의 한 밭에서 B(96)씨가 숨진 채 발견되는 등 전북 지역 온열 질환 사망자는 2명으로 늘었다. &lt;br&gt;&lt;br&gt;살인적인 더위는 당분간 꺾이지 않을 전망이다. 이날 군산의 낮 최고기온이 35도까지 치솟은 것을 비롯해, 고창 34.6도, 남원 34도, 전주 33.8도, 완주 33.4도 등 도내 전역이 찜통으로 변했다.&lt;br&gt;&lt;br&gt;전북도 관계자는 “최근 며칠 새 도내 온열 질환자가 늘고 있다”며 “한낮 기온이 35도까지 오르는 찜통더위가 당분간 이어질 것으로 예상되는 만큼, 가장 더운 시간대에는 외출을 자제하고 그늘에서 충분한 휴식을 취하며 물을 자주 마셔야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>포천 가구 공장서 목재 맞은 근로자, 나흘 만에 사망</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/30/BICAMFKAGFEFJCLPHVQYIW7TFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/BICAMFKAGFEFJCLPHVQYIW7TFQ/</guid>
-      <dc:creator>포천=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 09:02:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTIMJVGIYGGNBWHFRTMMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 포천의 한 가구 공장에서 작업 중 목재에 맞은 근로자가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;30일 경찰 등에 따르면 지난 24일 오전 11시 40분쯤 포천시 가산면의 한 목재 가구 공장에서 60대 근로자 A씨가 목재에 복부를 맞았다.&lt;br&gt;&lt;br&gt;복통을 호소한 A씨는 인근 병원으로 이송됐지만 당시 외관상 큰 이상은 확인되지 않아 퇴원한 뒤 공장으로 복귀했다.&lt;br&gt;&lt;br&gt;그러나 당일 다시 복통을 호소해 병원에 입원했으며 치료를 받던 중 지난 28일 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 해당 공장 소속 근로자로 목재 가공 작업을 하던 중 톱날에 접촉해 튕겨 나온 목재에 복부를 맞은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰과 노동당국은 중대재해처벌법 적용 대상 여부를 검토하고 안전 수칙 준수 여부 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>만취男, 여성 태우려다 저항하자 장난감 총 들고 광란의 질주</title>
       <link>https://www.chosun.com/national/2026/07/30/WZG65ZJN7FDJVLDOACIB77DCQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/07/30/WZG65ZJN7FDJVLDOACIB77DCQ4/</guid>
@@ -921,24 +940,6 @@
       </media:content>
     </item>
     <item>
-      <title>검찰, ‘급식실 손가락 절단’ 사고 영양교사 기소유예</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/30/IUQ2WAUV4NE6HFHLRPPKRLGJKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/30/IUQ2WAUV4NE6HFHLRPPKRLGJKI/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 08:48:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSI5GOPHWOI4QG5KRCNPAGITCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 지난해 경기 화성시의 한 중학교 급식실에서 발생한 손가락 절단 사고와 관련해 안전관리를 소홀히 한 혐의를 받던 영양교사에게 기소유예 처분을 했다. 기소유예는 혐의는 인정되지만, 여러 정황 등을 참작해 재판에 넘기지 않는 처분이다.&lt;br&gt;&lt;br&gt;30일 검찰에 따르면, 수원지검 형사3부(부장 임연진)는 업무상 과실치상 혐의를 받는 영양 교사 A씨에 대한 기소를 유예했다.&lt;br&gt;&lt;br&gt;이 사건은 지난해 7월 화성 동탄신도시의 한 중학교에서 발생했다. 당시 조리실무사가 핸드믹서기를 사용하던 중 오른쪽 네 번째 손가락이 2㎝가량 절단되는 사고가 났다.&lt;br&gt;&lt;br&gt;사건을 수사한 경찰은 급식실 안전 관리 책임자인 A씨가 사고를 예방할 주의 의무를 다하지 않은 과실이 일부 있다고 보고 같은 해 12월 그를 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;B씨는 봉합 수술을 받아 현재 완치가 된 것으로 알려졌다. B씨는 “A씨에 대한 처벌을 원치 않는다”며 탄원서를 내기도 했다.&lt;br&gt;&lt;br&gt;검찰은 이같은 점을 고려해 기소유예 결정을 내린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;교육계에서도 잇따라 A씨의 선처를 요청하는 탄원서를 냈다.&lt;br&gt;&lt;br&gt;안민석 경기도교육감도 탄원서를 내면서 “시설 노후화 등 열악한 급식 여건 속에서 교육활동을 하던 중 발생한 사고의 책임을 영양교사 개인에게 묻는 것은 부당하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사기 조직 사무실 급습해 코인 뺏은 ‘MZ조폭’ 일당, 항소심도 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/30/JU5EM7SHANAITN6YZMT44NDCYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/30/JU5EM7SHANAITN6YZMT44NDCYA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 08:30:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 투자 리딩방 사기 조직의 사무실을 급습해 수천만원의 가상 화폐를 뺏은 ‘MZ 조폭’ 일당에게 1심에 이어 2심에서도 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 수원고법 형사14부(재판장 허양윤)는 강도상해, 특수건조물침입 등 혐의로 기소된 폭력 조직원 A씨 등 6명에 대한 항소심에서 징역 4년∼7년 6개월을 선고했다. 앞서 1심 재판부는 이들에게 징역 5~8년을 선고했는데 일부 감형된 것이다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 3월 20일 오전 9시 30분쯤 경기 시흥시에 위치한 주식 투자 사기 조직 콜센터 사무실에 흉기를 들고 침입해 직원들을 위협하고 폭행한 뒤 6900여 만원 상당의 가상 화폐(테더코인) 등을 빼앗은 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 20~30대 성남 지역 폭력 범죄 단체 소속으로, 불법 사기 조직의 경우 범죄 수익을 뺏겨도 경찰에 신고하지 못할 것이라는 점을 노린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 사기 조직 내부 조력자를 통해 사무실 위치와 출근 시간 등의 정보를 미리 파악하고, 범행 전날 모여 흉기와 장갑을 단체로 구매한 뒤 사장실 진입조와 직원 감시조로 역할을 나누는 등 치밀하게 범행을 계획한 것으로 파악됐다. 이들의 폭행으로 사기 조직원 1명은 치아가 3개 부러지는 등 전치 3주의 상해를 입었다.&lt;br&gt;&lt;br&gt;공범 중 한 명은 구속 수감 중 교도소에서 피해자를 마주치자 “(검찰에) 진술 똑바로 해라”라며 보복 협박을 하기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;항소심에서 일부 피고인은 “범행을 주도하지 않았다”거나 “가담 정도가 낮다”고 주장했으나, 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인들은 주식 투자 사기 조직을 상대로 특수 강도 범행을 공모하고 미리 준비한 흉기를 소지한 채 피해자를 폭행, 협박해 재산상 이익을 강취했다”며 “내부 조력자에게서 얻은 정보를 바탕으로 계획적으로 이 사건 범행에 나아간 점 등을 보면 범행 대상이 범죄 단체인 주식 투자 사기 조직이라는 점을 감안해도 비난 가능성이 크다”고 판시했다. 다만 “당심에 이르러 일부 피해자와 합의해 피해자들이 처벌을 원하지 않는 점 등은 유리한 정상”이라고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨 일당에게 금품을 빼앗긴 피해자들 역시 사기 행각을 벌인 범죄 단체로 밝혀져 함께 검거됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“손흥민·이재성 왜 뺐어요?” 참패 따지다가 산으로 갔다</title>
       <link>https://www.chosun.com/politics/politics_general/2026/07/30/RCBSNWF6HFED3ODX4GI6GTWZ3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2026/07/30/RCBSNWF6HFED3ODX4GI6GTWZ3Q/</guid>
@@ -949,15 +950,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/HMJDVSYZRVBPPHL7DCOLJSWGNI.jpg?auth=2e76c924942a928106e3f0bc8cd330a53d477170941f41f2217707e618eefd0b&amp;smart=true&amp;width=6856&amp;height=4352" type="image/jpeg" height="4352" width="6856">
         <media:description type="plain">30일 오전 서울 여의도 국회에서 열린 문화체육관광위원회. 이날 정몽규 전 대한축구협회장과 홍명보 전 축구대표팀 감독 등이 출석했다. 2026.7.30 /국회사진기자단</media:description>
       </media:content>
-    </item>
-    <item>
-      <title> 경실련 “증시 변동 심화…단일종목 레버리지 등 관련자 책임 물어야”    </title>
-      <link>https://www.chosun.com/national/national_general/2026/07/30/F5HZQ32MSVFAPJBDAHFU463FJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/30/F5HZQ32MSVFAPJBDAHFU463FJ4/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 06:48:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZTIODBGIZWMZDDGM2TGMZRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경제정의실천시민연합 로고./경실련&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제정의실천시민연합(경실련)이 ‘단일종목 레버리지’ 등으로 주식시장 변동성을 키운 정부의 금융 정책에 대한 비판을 내놨다. &lt;br&gt;&lt;br&gt;30일 경실련은 논평을 통해 변동성 위험을 간과한 정부의 경쟁적인 주가 부양책이 한계를 보이고 있다고 지적했다. 지난 29일 기준 국내 주식시장은 반도체 대표 종목을 중심으로 코스피와 코스닥이 모두 큰 폭으로 하락했다. 경실련은 “올해만도 코스피 서킷브레이커 10회, 코스닥 서킷브레이커 4회 등 변동이 매우 심했다”며 “단순한 업황 조정이나 해외 변수만으로 설명하기 어려운 수준의 변동성이 나타나 우리 자본시장의 구조적 취약성과 정책 대응의 적절성에 대한 근본적인 점검이 필요한 상황”이라고 했다. &lt;br&gt;&lt;br&gt;경실련은 정부가 기업 지배 구조 개선 등 근본적인 체질 개선보다는, 경쟁적 주가 상승이라는 단기적 정책을 추진하다가 ‘소탐대실’했다고 짚었다. 정부가 상법 개정, 소액 주주 권리 강화 등을 통해 기업 가치와 투자자 신뢰를 확보했어야 하지만, 단기간 주가지수 상승에만 몰두했다는 것이다. &lt;br&gt;&lt;br&gt;특히 단일종목 레버리지 ETF·ETN 도입이 국내 주식시장 변동성을 키운 핵심 요인으로 지목했다. 단일종목 레버리지 상품은 한 기업의 주가 상승률의 2배 수익률을 누릴 수 있게 설계된 상품이다. 수익이 2배인 만큼 손실도 2배가 될 수 있어 손실 가능성이 큰 상품이지만, 불장 속에서 출시 하루 만에 개인 투자자들이 4500억원 넘게 매수했다. &lt;br&gt;&lt;br&gt;관련해 경실련은 “일반 ETF와는 비교할 수 없는 변동성, 시장 충격 가능성, 그리고 위험 관리 등에 대해서는 지나치게 안일하게 접근했다”며 보다 정교한 상품 설계와 위험 관리 체계를 마련할 필요가 있다고 강조했다. 시장 변동성이 해소되지 않자 ‘소 잃고 외양간 고치는 식’으로 기본 예탁금을 올리는 등 뒤늦은 조치를 취한 것에 대한 책임 소재를 명확히 할 것도 요구했다. &lt;br&gt;&lt;br&gt;이어 정부가 단기적인 주가지수 상승책보다는 기업 가치와 시장의 신뢰를 회복할 수 있는 제도 개혁에 집중해야 한다고 강조했다. 관련해 논평 말미에서 “주식시장 급락이 단순한 일시적 조정이 아니라 자본시장 정책 전반을 되돌아보게 하는 중요한 경고”라며 “앞으로도 투기보다 투자, 단기 부양보다 시장의 공정성과 신뢰를 우선하는 자본시장 개혁이 지속돼야 한다”고 했다. &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김학의 허위 면담보고서’ 유죄 이규원, 재판소원 냈지만 각하</title>
