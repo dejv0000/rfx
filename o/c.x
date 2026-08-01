@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 김민석, 충청 경선서 승리… 金 45.06%·정청래 44.61%·송영길 10.34%</title>
+      <link>https://www.chosun.com/politics/assembly/2026/08/01/676KGCBVYVH65ASCOVCDCN7UZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/01/676KGCBVYVH65ASCOVCDCN7UZQ/</guid>
+      <dc:creator>대전=김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 10:52:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQLGVPMADVKY3AIDZXOZ7TCZII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김민석(왼쪽부터), 정청래, 송영길 당 대표 후보가 1일 오후 대전컨벤션센터에서 열린 8·17 전당대회 순회 경선 당대표·최고위원 합동 연설회에서 기념사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 차기 지도부 선출을 위한 8·17 전당대회 첫 순회 경선에서 김민석 후보가 권리당원 투표 득표율 45.06%로 정청래 후보 44.61%, 송영길 후보 10.34%에 앞섰다.&lt;br&gt;&lt;br&gt;민주당 중앙당선거관리위원회는 이날 대전 유성구 대전컨벤션센터에서 열린 당대표·최고위원 후보 대전·세종 지역 합동 연설회 직후 이 같은 결과를 발표했다. 충청 지역 권리당원을 대상으로 지난달 28~29일 온라인 투표, 30~31일 자동 응답(ARS) 전화 투표를 받은 결과다.&lt;br&gt;&lt;br&gt;대전과 세종에서는 정 후보가 우세했다. 대전에서는 1만6974표 가운데 정 후보가 8187표(48.23%)를 얻었고, 김 후보는 7249표(42.71%)를 얻었다. 송 후보는 1538표(9.06%)였다. 세종에서는 4749표 가운데 정 후보가 2388표(50.28%), 김 후보가 1932표(40.68%), 송 후보가 429표(9.03%)표를 얻었다.&lt;br&gt;&lt;br&gt;그러나 투표자 수가 더 많은 충남과 충북에서는 김 후보가 앞섰다. 충남에서는 2만7345표 가운데 김 후보가 2만7345표(45.65%)를 얻었고, 정 후보가 1만1835표(43.28%)를 얻었다. 송 후보는 3026표(11.07%)였다. 충북에서는 1만8920표 가운데 김 후보가 8967표(47.39%), 정 후보가 7919표(41.86%), 송 후보가 2034표(10.75%)를 얻었다.&lt;br&gt;&lt;br&gt;그 결과, 충청권 전체 6만7988표 가운데 김 후보가 3만632표(45.06%)를 얻어, 3만329표(44.61%)를 얻은 정 후보를 303표, 0.45%포인트 차로 앞섰다. 송 후보는 7027표(10.34%)였다.&lt;br&gt;&lt;br&gt;민주당 당대표 선거는 대의원·권리당원 투표 70%, 일반 국민 여론조사 30%를 합산해 순위를 정한다. 대의원 표와 권리당원 표의 가치는 올 초 도입된 ‘대의원·권리당원 1인 1표제’에 따라 동등하다.&lt;br&gt;&lt;br&gt;이번 당대표 선거는 당원들이 송영길·정청래·김민석 등 후보 3인에 대해 선호 순위를 매기는 선호투표제로 치러지고 있다. 다만 이날 결과 발표에서는 당원들의 1순위 선택만 공개됐다. 2순위 선택은 전국 순회 경선을 마치고 집계한 1순위 선택과 대의원 투표, 일반 국민 여론조사를 합산한 결과에서 과반 득표자가 없을 때만 반영된다. 3위 후보를 1순위로 투표한 당원들의 2순위 선택을 1·2위 후보에게 배분해 최종 승자를 가린다.&lt;br&gt;&lt;br&gt;투표는 지역별로 진행되고, 이날 충청 지역 결과가 처음 나온 것이다. 2일 부산·울산·경남, 8일 제주·인천, 9일 강원·대구·경북, 15일 전남광주·전북, 16일 경기·서울 결과가 공개된다. 최종 결과는 17일 이날 치러지는 대의원 투표를 합산해 발표된다.&lt;br&gt;&lt;br&gt;김 후보는 애초 이날 충청 경선에서 충남이 고향인 정 후보에게 밀릴 것으로 전망됐으나, 오히려 정 후보에 근소하게 앞서면서 초반 판세를 유리하게 가져가게 됐다.&lt;br&gt;&lt;br&gt;송 후보는 이날 연설에서 6·3 지방선거 승리를 주장하는 친청계를 겨냥해 “이재명 대통령께서 이겨야 할 선거에 졌다고 국민께 공식 사과까지 했다”며 “대통령도 잘못했다고 반성하는데, (정청래) 지도부가 반성은 않고 잘했다 그러면서 당대표를 하겠다고 하니, 이 지도부가 이재명 정부랑 같이 갈 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;송 후보는 이어 “이제 검찰 개혁은 끝났다”며 “이제부터는 민생이 문제”라고 했다. 그는 “부동산 공급 문제, 지방 건설업체 활성화를 위한 PF 완화, 수도권 5만호 주택 건설과 실수요자를 위한 금융 대책을 만들고, 주식시장을 안정화할 수 있는 대책을 만들겠다”고 했다. 이 대통령을 GPU(그래픽 처리 장치), 자신을 HBM(고대역폭 저장 장치)에 비유하면서 “합해서 대체 불가 AI(인공지능) 강국 대한민국을 만들어가겠다”고도 했다.&lt;br&gt;&lt;br&gt;김 후보는 6·3 지방선거 때 정청래 대표가 “부산에는 못 갔고, 경기 평택에는 (조국혁신당 조국 후보에 대한) 입장을 못 정해서 안 갔고, 서울은 놓쳤다”며 “이 정도 역량을 보인 리더십으로 총선을 치르라고 (당을) 다시 맡길 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;김 후보는 또 “민주노총과 전교조 출신 장관을 쓰는 이재명 정부보다 더 개혁적인 인사를 하는 정부가 있었느냐. 국무회의에서 매번 노동자의 산재를 하나하나 챙기면서 고용노동부 장관에게 직을 걸라고 하는 개혁적인 정부가 얼마나 있었느냐”며 “그런 대통령과 정부의 개혁성을 왜 의심하느냐”고 했다.&lt;br&gt;&lt;br&gt;김 후보는 그러면서 “선거에 이길 수 있는 지도부가 필요하다”며 “저는 민주당 내에서 가장 확고하게, 선거를 준비하고 전략을 짜고 지휘하고 이겨낼 경험과 자신이 있다”고 했다.&lt;br&gt;&lt;br&gt;정 후보는 김 후보가 2022년 지방선거 패배 후 ‘패배의 책임은 이재명에게 있다. 이 의원의 사적 판단 때문이었다’라고 말했다며, “4년 전에는 이재명 탓을 하고 4년 후에는 정청래 탓만 하는 정치는 하지 않겠다”고 맞받았다. 이어 “최악의 ‘자기 정치’는 2002년 노무현을 배신하고 정몽준에게 날아간 것”이라며 “저는 그렇게 하지 않겠다. 사람이 염치가 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;정 후보는 “김대중·노무현·문재인·이재명을 지지했던 우리는 한 뿌리”라며 “‘너는 안 돼’ ‘너는 빠져’ ‘너는 반명이야’ 하고 낙인 찍고 분열해서 어떻게 총선·대선을 승리할 수 있겠느냐”고 했다. “문재인 대통령 때 열린민주당과도 합당했다”며 “조국혁신당과도 합당해야 한다”고 했다.&lt;br&gt;&lt;br&gt;정 후보는 그러면서 “민주당을 민주당답게 (만들) 강력한 개혁 당대표 정청래의 손을 잡아 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VCHLFCY4LFGVFI3ETS4YLQO7BU.JPG?auth=fd319d8f7dc049b88e99950411317e948017209125cc1caf5afab3834728bd74&amp;smart=true&amp;width=3341&amp;height=1879" type="image/jpeg" height="1879" width="3341">
+        <media:description type="plain">(대전=뉴스1) 신웅수 기자 = 더불어민주당 당권 주자인 김민석 의원이 1일 대전 유성구 대전컨벤션센터에서 열린 당대표·최고위원 합동연설회에서 당원들에게 인사하고 있다. 2026.8.1/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(대전=뉴스1) 신웅수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>전남광주 요양병원서 흉기난동…70대 환자, 심정지</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/01/M6QRT6FS7ZEO3GCL5RV2GS55AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/M6QRT6FS7ZEO3GCL5RV2GS55AA/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 11:01:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTIMJVGIYGGNBWHFRTMMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주의 한 요양병원에서 입원환자가 흉기를 휘두르는 사건이 발생했다.&lt;br&gt;&lt;br&gt;1일 경찰 등에 따르면 이날 오후 6시 43분쯤 전남광주 북구 신안동 한 요양병원에서 입원환자 A씨가 같은 병실을 사용하는 다른 환자 B(70대)씨에게 흉기를 휘둘렀다.&lt;br&gt;&lt;br&gt;B씨는 심정지 상태로 소방당국에 의해 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 긴급체포하는 한편, 구체적인 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>동해 삼화사 화재…2시간여 만에 초진</title>
       <link>https://www.chosun.com/national/national_general/2026/08/01/J2XDETT2FRCPFNCGMTQDACR6HI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/J2XDETT2FRCPFNCGMTQDACR6HI/</guid>
@@ -628,15 +650,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5HY67VILNGZ3NZHIKJ6L26CHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무소속 조병길 부산 사상구청장 후보가 길거리에서 선거 유세 활동을 펼치고 있다. /조병길 후보 캠프&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6·3 지방선거 운동 기간 관내 단체에 돈 봉투를 건네며 지지를 호소한 혐의를 받는 조병길(67) 부산 전 사상구청장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산경찰청 반부패수사대는 공직선거법 위반 혐의로 조 전 청장을 불구속 송치했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;조 전 청장은 선거운동 기간인 지난 5월 관내 단체 행사장을 찾아 지지를 요구하며 단체 간부에게 100만원이 든 봉투를 건넨 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 간부는 돈 봉투를 받았다가 되돌려준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 수사 당시 조 전 청장에 대해 구속영장을 신청했지만, 법원이 이를 기각했다.&lt;br&gt;&lt;br&gt;경찰은 선거관리위원회로부터 해당 사건을 넘겨받아 수사에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전직 변호사회장들 “검사 보완수사권은 국민 위한 안전벨트”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/29/PSY2MBYNFND45APBXIF7RSOR3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/29/PSY2MBYNFND45APBXIF7RSOR3Q/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 Jul 2026 02:13:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOEFILPQRRGQ7ORWEXBKXZQCS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전직 대한변호사협회장과 지방변호사회장들이 “검사의 직접·인지 수사를 제한하더라도, 경찰이 송치한 사건을 검사가 다시 살펴보는 보완수사권까지 폐지해서는 안 된다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;대한변협 자문 기구인 전임지방변호사회장협의회는 29일 ‘검사 보완수사권은 안전벨트입니다’라는 제목의 성명을 내고 “형사사법제도 개편은 국민의 권익 보호와 사법적 진실 발견이라는 원칙에 초점을 맞춰야 한다”고 했다.&lt;br&gt;&lt;br&gt;협의회는 “검사의 보완수사는 경찰의 초동 수사를 보충하고 법리적 오류를 바로잡아 공소 제기의 적정성을 확보하는 절차”라고 했다. 경찰이 사건을 검찰에 넘긴 뒤에도 공범 관계와 증거, 피해 규모 등이 충분히 확인되지 않거나 죄명이나 적용 법조를 바로잡아야 하는 사건이 적지 않다는 것이다. &lt;br&gt;&lt;br&gt;이어 “보완수사는 경찰의 권한이나 능력을 부정하는 제도가 아니다”라며 “보완수사는 기록을 원점에서 점검해 부실 수사나 과잉 수사로 인한 피의자와 피해자의 피해를 줄이고, 공소 제기의 완결성을 높이는 검증 장치”라고 했다.&lt;br&gt;&lt;br&gt;협의회는 ‘장윤기 강도살인 사건’을 들어 “보완수사 기능이 봉쇄됐다면 사건의 진실은 묻힌 채 피해자와 유족의 눈물만 남았을 것”이라며 “보완수사는 사법 정의를 실현하는 세심한 그물망”이라고 했다. 그러면서 “검사의 보완수사권은 수사 단계에서 국민이 겪을 수 있는 억울한 피해와 오판을 막는 강력한 안전벨트”라고 했다.&lt;br&gt;&lt;br&gt;전임지방변호사회장협의회는 대한변협 회장 직선제가 실시된 2013년 이후 전국 지방변호사회 회장을 지낸 변호사들을 중심으로 구성된 협의체다. 대한변협의 주요 현안에 대해 자문하고 대안을 제시하는 역할을 하고 있다.&lt;br&gt;&lt;br&gt;이번 성명에는 하창우·김현·이종엽 전 대한변협 회장과 김한규 전 서울지방변호사회장, 석왕기 전 대구지방변호사회장, 노강규·진용태 전 광주지방변호사회장 등 전직 지방변호사회장 30명을 포함해 총 33명이 이름을 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 검찰 보완 수사로 ‘무면허 교통사고’ 중증 발달장애인 처벌 피했다 </title>
       <link>https://www.chosun.com/national/court_law/2026/07/31/B66OSQSGY5AF5IDCBDRXOZIPFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/31/B66OSQSGY5AF5IDCBDRXOZIPFE/</guid>
@@ -731,18 +744,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/RPTRCV6BPJAWDEMSYYE4T7D3X4.jpg?auth=8bc6f4a8ea088c1eb4a1a779c9bcdfd7ca34016309a0060a669c26e1d9c91111&amp;smart=true&amp;width=336&amp;height=252" type="image/jpeg" height="252" width="336">
         <media:description type="plain">노벨문학길 명예도로명판. /서울 강북구</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘charter flight’는 ‘전세기’, 오페라 극장에서 ‘charter’는?</title>
-      <link>https://www.chosun.com/national/education/2026/07/31/WG7BKQAIPZA6PICKRLQ44L7HDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/31/WG7BKQAIPZA6PICKRLQ44L7HDE/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 18:00:00 +0000</pubDate>
-      <content:encoded>해외여행 중 오페라 극장 공연을 보러 갔는데, 길을 통 몰라 자리까지 가는 도중에 2층 입구로 발길이 닿았습니다. 마침 2층에 무대가 가장 잘 보이는 곳이 있길래, 자연스레 그쪽으로 걸음을 옮겼습니다. 2층 프라이빗 박스 입구로 들어가려는데, 정장을 입은 극장 지배인이 다가와 정중하게 말합니다.&lt;br&gt;&lt;br&gt;“I am sorry, but this balcony area is under a private charter tonight.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTYXADNOBZFMPEFY2VTISE6A34.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘charter’? 발음이 어딘가 ‘차트(chart)’나 ‘수다(chatter)’처럼 들려 손사래를 치며 대답합니다.&lt;br&gt;&lt;br&gt;“No chart! No music chart! I am not chatting! (차트 아니에요! 음악 순위 차트 안 봐요! 수다도 안 떨어요!)”&lt;br&gt;&lt;br&gt;단어 뜻을 제대로 몰라 오해를 한 거지요. 지배인이 말한 단어는 차트나 수다가 아니라 ‘charter’입니다.&lt;br&gt;&lt;br&gt;일반적으로 테이블이나 좌석을 예약하는 데는 ‘reserve’ 동사를 쓰지만, 오페라 극장의 전용 박스석, 프라이빗 갤러리, 또는 전세기나 요트처럼 “특정 그룹이나 VIP를 위해 공간이나 수송 수단 전체를 통째로 독점 대여(통계약)하다”라고 할 때는 ‘charter’를 사용합니다.&lt;br&gt;&lt;br&gt;그러니까 지배인의 말인즉, “죄송하지만, 오늘 밤 이 발코니 구역 전체는 특정 단체의 전용 대여 구역으로 운영되고 있습니다”라는 안내였던 겁니다. &lt;br&gt;&lt;br&gt;charter는 여행 중 자주 접하게 되는 단어입니다. 전세기는 charter flight라고 하고, ‘요트나 보트를 전세 내다’는 ‘charter a yacht/boat’, ‘버스를 대절하다’는 ‘charter a bus’라고 합니다. 말하자면 “통째로 빌린다”는 개념이라고 이해하면 되겠습니다.&lt;br&gt;&lt;br&gt;“Is the lounge access restricted to charter guests only?” (이 라운지 입장은 독점 대여 공간 고객들에게만 허용되나요?)&lt;br&gt;&lt;br&gt;“What time does the performance begin?” (공연은 몇 시에 시작하나요?)&lt;br&gt;&lt;br&gt;“Is there an intermission?” (중간 휴식 시간이 있나요?)&lt;br&gt;&lt;br&gt;“Where is the bar for general ticket holders during intermission?” (휴식 시간 동안 일반 티켓 소지자가 이용할 수 있는 바는 어디에 있나요?)&lt;br&gt;&lt;br&gt;“Could you guide me to the main orchestra seating area?” (일반 관람객용 오케스트라(1층) 석으로 안내해 주실 수 있나요?)&lt;br&gt;&lt;br&gt;“My ticket says Box 3, which staircase should I take?” (제 티켓에 박스 3구역이라고 되어 있는데, 어느 계단으로 올라가야 하나요?)&lt;br&gt;&lt;br&gt;“Is there an usher inside to help me find my seat?” (안쪽에 좌석을 찾아주는 안내원이 있나요?)&lt;br&gt;&lt;br&gt;“This area is exclusive to ticket holders.” (이 구역은 티켓 소지자 전용 공간입니다.)&lt;br&gt;&lt;br&gt;“The lounge is exclusive to suite guests.” (이 라운지는 스위트룸 투숙객 전용입니다.)&lt;br&gt;&lt;br&gt;“Is this service exclusive to club members?” (이 서비스는 클럽 회원 전용인가요?)&lt;br&gt;&lt;br&gt;“We offer exclusive tours for small groups.” (저희는 소규모 단체를 위한 전용 투어를 제공합니다.)&lt;br&gt;&lt;br&gt;“Access to the rooftop is exclusive to VIPs.” (루프탑 입장은 VIP 고객들만 가능합니다.)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7LRK5F2YKFB2JFAGJJLV4Z46XY.png?auth=1581edddae980694265530901d529c100bdd78b22f4d4235dbfee5a87e1ac338&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
       </media:content>
     </item>
     <item>
