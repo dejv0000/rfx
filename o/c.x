@@ -13,6 +13,61 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>동해 삼화사 화재…2시간여 만에 초진</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/01/J2XDETT2FRCPFNCGMTQDACR6HI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/J2XDETT2FRCPFNCGMTQDACR6HI/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 08:22:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FEWQGYQIJI7HL53D6SZB4S36A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 3시 41분쯤 강원 동해시 삼화동 삼화사에서 불이나 소방 당국이 진화 중이다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 동해 삼화사에서 불이 나 소방당국이 진화 중이다.&lt;br&gt;&lt;br&gt;1일 소방당국에 따르면 이날 오후 3시 41분쯤 강원 동해시 삼화사에서 불이 났다.&lt;br&gt;&lt;br&gt; ‘지붕에서 불이 났다’는 신고를 받고 출동한 소방당국은 인력 57명과 장비 19대를 투입해 불이 난지 2시간여 만인 오후 5시 46분쯤 초기 진화했다.&lt;br&gt;&lt;br&gt;불은 템플스테이를 진행하는 무설전 건물에서 발생했다.&lt;br&gt;&lt;br&gt;화재 당시 템플스테이 참가자 등 6명은 대피했으며 현재까지 인명피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;삼화사는 대한불교조계종 제4교구 본사 월정사의 말사다.&lt;br&gt;&lt;br&gt;소방당국은 불을 끄는대로 정확한 화재 원인과 피해 규모 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 최고위원 후보들도 갈라졌다... “李 신뢰 받아야” “鄭 개혁 성과” </title>
+      <link>https://www.chosun.com/politics/assembly/2026/08/01/2QCW5D76FNB77AQHSGDVMAFXPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/01/2QCW5D76FNB77AQHSGDVMAFXPY/</guid>
+      <dc:creator>청주=김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 08:13:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF6XY4WUF5P25I2PH4NH77ZC5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 충북 청주시 CJB미디어센터에서 열린 더불어민주당 당대표·최고위원 후보 합동 연설회에서 한병도 당대표 직무대행 겸 원내대표와 후보들이 기념사진을 찍고 있다. 왼쪽부터 최민희·김용·김영호·서미화 최고위원 후보, 김민석  당대표 후보, 한 대행, 정청래·송영길 당대표 후보, 한민수·이성윤·박선원·임미애 최고위원 후보. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 차기 지도부를 뽑기 위한 8·17 전당대회 순회 경선 첫날인 1일 합동 연설회에서 대다수 최고위원 후보도 친명·친청으로 나뉘어 상대편을 비난했다.&lt;br&gt;&lt;br&gt;친명계 김영호 후보는 이날 오후 충북 청주시 CJB미디어센터에서 열린 충북 지역 합동 연설회에서 “당정청이 일원화돼 책임지는 여당의 자세를 다시 한번 만들어야 한다”며 “그러기 위해서는 이재명 대통령에게 신뢰받는 당대표가 나와야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;그는 “자신의 지역구(인천 계양을)를 대통령에게 양보해 대통령이 고마워하는 송영길 후보, 이재명 정부에서 초대 행정 수반(국무총리)을 담당했던 김민석 후보 어떠냐”며 “김민석, 송영길 지도부를 만들기 위해 연대하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령 대선 불법 자금 혐의로 1·2심에서 유죄를 선고받고 상고심 재판을 받고 있는 김용 후보는 “세 번 구속됐고 세 번 걸어 나왔다. 죄가 있어서가 아니라, 이재명의 동지였기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;김 후보는 이어 과거 정청래 지도부를 겨냥해 “이재명 정부 출범 1년 동안 정부는 뛰었는데 당은 걸었다. 정부는 전진했는데 당은 머뭇거렸다”며 “2년 후 총선 이기고 4년 후 정권 재창출할 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;그는 “승리하는 민주당을 만들겠다”며 “대통령의 말을 옮기는 확성기가 되지 않고, 당원의 절박한 목소리를 대통령께 전하는 메신저가 되겠다”고 했다. 그러면서도 “대통령에게 비바람이 불면 가장 앞장서서 맞겠다”고 했다.&lt;br&gt;&lt;br&gt;반면 친청계 최민희 후보는 “정청래 대표 시절 민주당이 많은 성과를 이뤘다”며 “인정할 건 인정하고 나서 잘못했다고 비판해야지, 몽땅 부정하면 이것은 (당원) 여러분 모두를 부정하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;그는 친명을 겨냥해 “외신도 이겼다는 선거를 졌다고 한다”며 “패배주의를 조장한다”고 했다. 이어 “‘일베’의 조롱·혐오 문화가 민주당 안까지 침투했다”며 “문재인·노무현 대통령을 조롱하는데 (당이) 왜 방치하느냐”고 했다.&lt;br&gt;&lt;br&gt;최 후보는 또 “유시민 작가를 비판하면 친명, 하지 않으면 반명이라는 이분법이 있다”며 “지도부 후보면 그에 걸맞게 당의 비전을 제시하라”고 했다. 유씨가 이 대통령에게 “이렇게 간다면 필연적으로 실패할 것”이라고 말한 것을 정청래 후보가 비판하지 않자 김민석·송영길 후보가 “당대표 자격이 없다”고 공격한 것을 맞받은 것이다.&lt;br&gt;&lt;br&gt;최 후보는 이 대통령 지지자들을 향해 “‘뉴이재명’ 동지 여러분께 드릴 말씀이 있다”고도 했다. 그는 “여러분이 이재명 대통령을 사랑하는 만큼, ‘우리’에게도 가슴 저리게 사랑한 김대중·노무현·문재인 대통령이 있었다”며 “우리의 사랑도 인정해 주면 안 되겠느냐”고 했다.&lt;br&gt;&lt;br&gt;친명 박선원 후보는 “민주당이 과연 대통령 뜻을 제대로 받들고 있느냐. 국민의 뜻을 제대로 섬겼다고 자신하느냐”며 “민주당이 왜 1년 만에 이렇게 됐느냐. 완전히 흐트러지지 않았느냐”고 했다.&lt;br&gt;&lt;br&gt;박 후보는 “앞으로 1년 반 성과 내고 총선 승리하고 또 다시 2년 제대로 성과 내서 재집권해야 한다”며 “우리도 30년 집권해서 제대로 한번 해보자”고 했다. 그는 “내란 세력이 이재명 정부를 훼방 놓지 못하게 해야 한다”며 “내란 세력을 척결을 책임지겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 경북 출신의 임미애 후보는 친명·친청을 거론하지 않고, 민주당이 영남 유권자들을 설득해야 한다고 강조했다. 임 후보는 “지방선거에서 김부겸 (민주당 대구시장) 후보가 얻은 표가 58만6000표”라며 “자신이 찍은 표가 사표가 될지도 모른다는 것을 알면서도 매번 투표장에 나가 지지를 보내준 사람들에게 민주당이 답해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그는 또 “우리가 구조적 다수에 이르는 길은 인위적인 정계 개편이나 중도 보수 정치 세력과의 이합집산으로 가능한 것이 아니라, 우리에게 마음을 열지 못한 영남을 설득하고 합리적인 중도층을 우리 편으로 돌려세울 때 가능하다”고 했다.&lt;br&gt;&lt;br&gt;친명 서미화 후보는 “이재명 대통령께선 잠도 줄여가며 국민만 바라보며 일하는데, 대통령과 함께 뛰어야 할 여당 지도부는 지난 1년 어떻게 했느냐”고 했다. 그는 “(정청래 지도부가) 필요할 때는 엇박자 내고, 앞뒤 가리지 않고 자기 정치하고, 불리하면 책임지기보다 변명했다”고 주장했다. 이어 “지방선거에서 우리가 진짜 이겼다고 생각하느냐”며 “내란 정당 ‘국힘당’은 팔팔 살아나고 민주당 지지율은 빠지고 있는데 진짜 이겼다는 게 맞느냐”고 따졌다.&lt;br&gt;&lt;br&gt;서 후보는 “차기 지도부는 반드시 바뀌어야 한다”며 “이 대통령과 시간과 속도를 맞출 수 있는 지도부로 바꿔야 한다”고 했다. 또 유씨를 비판하지 않는 정 후보를 겨냥해 “여당 대표는 대통령을 흔드는 자들을 향해 침묵해서는 안 된다”며 “그 책임을 방기한 전 대표에게 다시 민주당을 맡기면 민주당이 어떻게 되겠느냐”고 했다.&lt;br&gt;&lt;br&gt;그러자 친청 이성윤 후보는 “어제 (검찰) 보완수사권을 폐지하는 형사소송법 개정안이 국회를 통과했는데, 정청래 대표가 계셨기에 가능했던 일”이라고 했다. 또 김민석·송영길 후보가 신천지의 전당대회 개입 의혹을 주장한 데 대해 “축제가 돼야 할 전당대회에 느닷없이 신천지 의혹이라는 오물을 던졌다”고 공격했다. 그는 “아직까지 (김·송 후보가) 그 근거를 대지 못하고 있다”며 당원들에게 “이 중대한 해당 행위를 투표로 심판해 달라”고 했다.&lt;br&gt;&lt;br&gt;이 후보는 6·3 지방선거에 대해서도 “외신조차 민주당 승리라고 하는 이 선거를 왜 졌다고 자꾸 말하느냐”고 했다. 그는 이날 오전 충남 합동 연설회에서 김민석 후보가 정청래 후보의 당대표 시절 대의원·권리당원 1인 1표제 도입에 대해 ‘치하한다’고 말한 것도 문제삼았다. 이 후보는 “치하한다는 표현은 군사 독재 정권에서 쓰는 독재와 분열의 언어”라고 했다.&lt;br&gt;&lt;br&gt;친청 한민수 후보는 “이재명 정부를 만든 다음 민주당에 반명(反明·반이재명)이 있을 수 있느냐”며 “그런데 왜 (친청을) 반명이라 외치고 있느냐”고 했다. 그는 “(친청이) ‘자기 정치’를 했다는 용어를 쓰려면 그 근거를 대보라”며 “근거를 대지 않고 공격적인, 분열의 언어를 써서 왜 당을 해체하느냐”고 했다.&lt;br&gt;&lt;br&gt;이날 현장에서 합동 연설회를 지켜본 당원들도 친명과 친청으로 갈렸다. 후보들이 연설을 할 때는 환호와 야유가 뒤섞였다. 최고위원 재선에 도전하는 한 후보가 “저는 최고위원을 한 번 해봐서 무엇을 해야 하는지 잘 알 수 있다”고 말하자 “그러면 그만 해라”라는 외침이 나오기도 했다. 한 후보가 연설을 시작하려 하자 당원석에서 “닥쳐라”라는 욕설이 나오기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/E5R63IIE3JDUXKQNJI7TNS7BWI.jpg?auth=75d3116301cb919c97e220c20b681620a1f563bac186d6a399ad267846bb873a&amp;smart=true&amp;width=5420&amp;height=3049" type="image/jpeg" height="3049" width="5420">
+        <media:description type="plain">&lt;YONHAP PHOTO-3300&gt; 손 맞잡아 올리는 민주당 최고위원 후보들
+    (청주=연합뉴스) 이동해 기자 = 1일 충북 청주시 CJB미디어센터에서 열린 더불어민주당 당대표·최고위원 순회경선 합동연설회에서 최고위원 후보들이 기념 촬영을 하고 있다. 왼쪽부터 최민희·김용·김영호·서미화·한민수·이성윤·박선원·임미애 최고위원 후보. 2026.8.1
+    eastsea@yna.co.kr/2026-08-01 15:12:14/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이동해</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>온열질환자 72명 추가 응급실행…‘폭염중대경보’ 경남이 서울 환자수 앞질러</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/01/2TGYTUTSIJFBJPR53A3NE5L2IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/01/2TGYTUTSIJFBJPR53A3NE5L2IU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 08:49:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3WEYZTMQYGGZBTGRRTINTBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경산과 포항에 사상 첫 '폭염중대경보'가 발령된 지난달 12일 오후 영남대 경산캠퍼스에서 뙤약볕을 피해 양산을 쓴 학생들이 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘폭염중대경보’(일 최고 체감온도 38도 이상)가 발령된 남부지방을 중심으로 기록적 폭염이 이어지면서, 경남의 온열질환자 수가 서울의 환자 수를 넘어선 것으로 집계됐다.&lt;br&gt;&lt;br&gt;1일 질병관리청에 따르면, 전날인 지난 31일 하루 전국 500여곳의 응급실을 찾은 온열질환자는 모두 72명으로 나타났다. 추가 사망자는 나오지 않았다. 이로써 올해 응급실 온열질환감시체계에 잡힌 환자는 5월 15일부터 전날까지 모두 1781명(사망자 13명 포함)으로 집계됐다.&lt;br&gt;&lt;br&gt;지난달 30일까지만 해도 서울의 환자 수가 소폭 많았으나, 하루 사이 경남이 161명(사망자 3명) 늘면서 같은 날 158명이 늘어난 서울을 역전했다. 올해 6월 기준 경남의 인구(319만5351명)는 서울(928만9813명)의 3분의 1 수준인데, 온열질환자 수는 오히려 더 많은 것이다. &lt;br&gt;&lt;br&gt;1일 경남 양산이 관측 사상 최고인 41.6도까지 낮 기온이 올라가는 등 특히 영남을 중심으로 기록적 폭염이 이어지고 있다. 양산의 경우 나흘 연속으로 최고기온이 40도를 넘었다.&lt;br&gt;&lt;br&gt;전날 현재 시도별 환자 수는 경기도(372명), 경북(182명), 전남광주(163명), 경남, 서울 순으로 많다. 전체 환자의 77.7%는 남자였고, 31.9%가 65세 이상이다.&lt;br&gt;&lt;br&gt;질환별로는 열탈진(61.0%), 열사병(16.5%), 열경련(12.1%), 열실신(9.2%) 순으로 비중이 컸다.&lt;br&gt;&lt;br&gt;질병청의 온열질환자 발생 예측 정보에 따르면, 환자 발생 위험은 이달 4일까지 최고 단계인 ‘4단계’를 유지한다. 4단계는 ‘대부분 지역에서 온열질환이 발생해 현저한 피해가 예상되는 수준’일 때를 뜻한다.&lt;br&gt;&lt;br&gt;온열질환을 피하려면 외출 시 양산이나 모자로 햇볕을 막아주는 게 좋다. 갈증을 느끼지 않아도 규칙적으로 물을 자주 마시고, 탈수를 유발하는 술이나 카페인 음료는 피해야 한다. 환자가 발생하면 즉시 시원한 곳으로 옮겨 체온을 낮춰야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 8월 2일 일요일 (음력 6월 20일 戊申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/01/MPCQ2JEZLJCLBN7WXEBQVJ77JE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/MPCQ2JEZLJCLBN7WXEBQVJ77JE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경남 김해 야산서 화재…헬기 2대 투입, 진화 중</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/01/WT3JCXRLSFBW3E22BO6JSMPTBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/WT3JCXRLSFBW3E22BO6JSMPTBI/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Aug 2026 06:38:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQV6X6ODIBFSFC6XLCREZ5WK5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 김해 야산 화재./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해의 한 야산에서 불이 나 산림당국이 진화 작업에 나섰다.&lt;br&gt;&lt;br&gt;1일 산림당국에 따르면 이날 오후 1시 36분쯤 경남 김해시 진례면 고모리의 한 야산에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;산림 당국은 헬기 2대, 차량 15대, 인력 60명을 투입해 1시간 40분 넘게 진화를 벌이고 있다.&lt;br&gt;&lt;br&gt;현재까지 이 불로 인한 인명피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;당국은 인근 주택 창고에서 시작된 화재가 야산으로 번진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;산림당국은 불을 끄는대로 정확한 화재 원인과 피해 규모 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘尹 관저 이전 의혹’ 윤한홍 의원 종합특검 첫 조사...“나와 관련 없는 일”</title>
       <link>https://www.chosun.com/national/court_law/2026/08/01/ITQILWU2XRC6ZDG6B6YXGHCDXQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/01/ITQILWU2XRC6ZDG6B6YXGHCDXQ/</guid>
@@ -582,15 +637,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOEFILPQRRGQ7ORWEXBKXZQCS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전직 대한변호사협회장과 지방변호사회장들이 “검사의 직접·인지 수사를 제한하더라도, 경찰이 송치한 사건을 검사가 다시 살펴보는 보완수사권까지 폐지해서는 안 된다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;대한변협 자문 기구인 전임지방변호사회장협의회는 29일 ‘검사 보완수사권은 안전벨트입니다’라는 제목의 성명을 내고 “형사사법제도 개편은 국민의 권익 보호와 사법적 진실 발견이라는 원칙에 초점을 맞춰야 한다”고 했다.&lt;br&gt;&lt;br&gt;협의회는 “검사의 보완수사는 경찰의 초동 수사를 보충하고 법리적 오류를 바로잡아 공소 제기의 적정성을 확보하는 절차”라고 했다. 경찰이 사건을 검찰에 넘긴 뒤에도 공범 관계와 증거, 피해 규모 등이 충분히 확인되지 않거나 죄명이나 적용 법조를 바로잡아야 하는 사건이 적지 않다는 것이다. &lt;br&gt;&lt;br&gt;이어 “보완수사는 경찰의 권한이나 능력을 부정하는 제도가 아니다”라며 “보완수사는 기록을 원점에서 점검해 부실 수사나 과잉 수사로 인한 피의자와 피해자의 피해를 줄이고, 공소 제기의 완결성을 높이는 검증 장치”라고 했다.&lt;br&gt;&lt;br&gt;협의회는 ‘장윤기 강도살인 사건’을 들어 “보완수사 기능이 봉쇄됐다면 사건의 진실은 묻힌 채 피해자와 유족의 눈물만 남았을 것”이라며 “보완수사는 사법 정의를 실현하는 세심한 그물망”이라고 했다. 그러면서 “검사의 보완수사권은 수사 단계에서 국민이 겪을 수 있는 억울한 피해와 오판을 막는 강력한 안전벨트”라고 했다.&lt;br&gt;&lt;br&gt;전임지방변호사회장협의회는 대한변협 회장 직선제가 실시된 2013년 이후 전국 지방변호사회 회장을 지낸 변호사들을 중심으로 구성된 협의체다. 대한변협의 주요 현안에 대해 자문하고 대안을 제시하는 역할을 하고 있다.&lt;br&gt;&lt;br&gt;이번 성명에는 하창우·김현·이종엽 전 대한변협 회장과 김한규 전 서울지방변호사회장, 석왕기 전 대구지방변호사회장, 노강규·진용태 전 광주지방변호사회장 등 전직 지방변호사회장 30명을 포함해 총 33명이 이름을 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 해운대구, 전국 최초 ‘글로벌 관광특구’ 선정 </title>
-      <link>https://www.chosun.com/national/regional/2026/07/31/BFX3PN3V4JE55DBTUMXEQIDNWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/31/BFX3PN3V4JE55DBTUMXEQIDNWE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 23:55:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RP66VNENM5MZ7LOT2UVWIH5T2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 본격적인 여름 피서철이 시작된 26일 부산 해운대구 해운대해수욕장에서 피서객들이 물놀이를 즐기고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구가 전국 최초로 ‘글로벌 관광특구’로 선정됐다. &lt;br&gt;&lt;br&gt;부산시는 문화체육관광부의 글로벌 관광특구 공모에서 해운대구가 최종 선정됐다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;해운대구는 이번에 첫 글로벌 관광특구로 선정되면서 2년간 콘텐츠 확충과 서비스 개선에 국비 등 총 60억원을 투입한다. 해운대구는 1994년 전국 최초로 지정된 관광특구이기도 하다. &lt;br&gt;&lt;br&gt;글로벌 관광특구는 해운대·송정해수욕장∼구남로∼영화의전당∼누리마루 APEC 하우스∼벡스코∼해운대 달맞이고개 등을 아우르는 6.2㎢ 규모다.&lt;br&gt;&lt;br&gt;‘낮과 밤, 일과 휴양이 공존하는 글로벌 관광특구’를 주제로 달맞이길 월간 특화 프로그램, 나이트 페스타, 당일 관광 프로그램 등을 운영한다.&lt;br&gt;&lt;br&gt;인공지능(AI) 기반 24시간 무인 관광 안내소와 외국인 스마트 결제 시스템을 도입한다. 지능형 CCTV를 활용한 관광객 밀집도 분석으로 안전한 관광 환경도 조성한다.&lt;br&gt;&lt;br&gt;시는 최근 BTS 부산 공연 때 문제가 된 숙박 요금 급등을 해소하려고 관광특구 내 호텔협의회와 상생 협약을 맺을 예정이다. 투숙객 맞춤형 체크아웃 시스템도 도입해 체류 시간도 늘린다.&lt;br&gt;&lt;br&gt;한편, 올해 1~6월 부산을 방문한 외국인은 242만629명으로 집계됐다. &lt;br&gt;&lt;br&gt;전재수 시장은 “이번 선정은 부산이 대한민국을 대표하는 관광도시로 인정받은 성과”라며 “외국인 관광객 600만명 시대를 앞당기겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 검찰 보완 수사로 ‘무면허 교통사고’ 중증 발달장애인 처벌 피했다 </title>
       <link>https://www.chosun.com/national/court_law/2026/07/31/B66OSQSGY5AF5IDCBDRXOZIPFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/31/B66OSQSGY5AF5IDCBDRXOZIPFE/</guid>
@@ -652,16 +698,6 @@
       <description/>
       <pubDate>Thu, 30 Jul 2026 20:00:00 +0000</pubDate>
       <content:encoded>올해 헌법재판소의 헌법연구관 합격자 13명 가운데 3명이 현직 검사인 것으로 30일 확인됐다. 헌법연구관 채용에서 검사 출신이 한꺼번에 여러 명 합격한 것은 이례적이다. 재판소원이 도입되면서 헌재가 채용 규모를 늘린 데다, 10월 검찰청 폐지를 앞두고 검사들의 이탈이 이어지면서 검사들의 ‘헌재행’이 나타났다는 분석이 나온다.&lt;br&gt;&lt;br&gt;헌법연구관은 재판관을 보좌해 사건 검토와 법리 연구 등을 지원한다. 지원 자격은 판·검사를 비롯해 변호사 자격이 있는 사람, 법학 박사 학위 소지자 등이다. 보통 헌재는 1년에 한 번 헌법연구관을 선발해 왔고, 선발 인원도 10명이 안 됐다. 판·검사보다는 군 법무관, 법원 재판연구원, 변호사 등이 주로 채용됐다. &lt;br&gt;&lt;br&gt;올해는 재판소원 제도가 시행되면서 헌재가 연구관 정원을 73명에서 93명으로 늘렸고 추가 채용에 나섰다. 이번 채용에는 257명이 지원해 최근 10년간 처음으로 지원자가 200명을 넘었다. 애초 합격자 14명 중 4명이 현직 검사였다. 이 중 1명이 임용을 포기했다. 합격한 검사 3명은 대부분 지청에서 근무하는 3~5년 차 평검사로, 다음 달부터 헌재로 출근한다.&lt;br&gt;&lt;br&gt;현직 검사들이 헌법연구관으로 이동하는 것이 이례적이라는 말이 나온다. 헌재 관계자는 “재직 중인 연구관 63명 중 검사 출신은 10명도 안 된다”며 “검사 여러 명이 동시 합격한 일은 사실상 처음 있는 일 같다”고 했다. 이 관계자는 또 “이번 채용에서는 검사 지원자가 예년보다 많았다”고 전했다.&lt;br&gt;&lt;br&gt;이는 검찰청 폐지를 앞두고 검사들의 이탈 현상 중 하나로 풀이된다. 검사들은 수사·기소 분리로 공소청 검사로 업무가 바뀌는 데 대한 불확실성 때문에 ‘탈검찰’이 이어지는 분위기다. 서울중앙지검 형사1부장 직무대리를 맡아 온 박향철 형사6부장도 최근 사의를 밝힌 것으로 전해졌다. 형사1부는 신도욱 부장검사가 검찰인권존중미래위원회 진상조사단으로 파견된 뒤 박 부장검사가 부장 직무대리를 맡아왔다. 박 부장검사가 떠나면 형사1부장은 당분간 ‘대리의 대리’ 체제가 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[굿모닝 멤버십] 오픈AI와 앤스로픽은 무엇을 노리나</title>
-      <link>https://www.chosun.com/national/2026/07/31/T6HRLH7H45FO3HOGYNMRDAJTVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/31/T6HRLH7H45FO3HOGYNMRDAJTVE/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 21:00:01 +0000</pubDate>
-      <content:encoded>📅 7월 31일 금요일 아침입니다. 1886년 오늘, 19세기 유럽 음악계를 열광시켰던 ‘슈퍼스타 피아니스트’ 프란츠 리스트(Franz Liszt)가 세상을 떠난 날입니다. 그는 귀족적인 살롱 문화를 주름잡으며 화려한 기교와 남성적인 매력으로 당대 대중의 마음을 완벽하게 사로잡았습니다. 수많은 연애와 사색을 거쳐 인간의 가장 뜨거운 감정인 ‘사랑’을 피아노 선율로 승화시킨 음악가로도 악명 높지요. 독일 시인 프라일리그라트의 시 ‘사랑할 수 있는 한 사랑하라’에 곡을 붙였던 그의 대표작 ‘사랑의 꿈’은 후회 없이 현재의 사랑에 최선을 다하라는 메세지를 전합니다. 곡은 처음에는 조용히 감미롭게 흐르는 듯하지만 시간이 지나고 다시 같은 멜로디가 반복될수록 점차 격해집니다. 연주를 감상하며 한 주의 피로를 녹이고 마음을 온기로 가득 채워보시는 건 어떨지요. &lt;br&gt;&lt;br&gt;최전방에 ‘미확인 비행체’가 나타나 군에 대공 경계 태세가 발령되고 헬기까지 출동했습니다. 알고 보니 한미 연합훈련 중이던 미군 정찰기였는데요. 미군이 미리 전달한 훈련 공문이 우리 군 실무선에서 누락되며 벌어진 소동이었습니다. 동맹국 무인기를 요격하는 초대형 사고를 피할 수 있었던 진짜 이유가 ‘추적 실패’ 때문이었다는 기막힌 전말과 거듭되는 안보 보고 누락 실태를 짚었습니다.&lt;br&gt;&lt;br&gt;‘코스피 5000’ 공약을 내걸고 부동산 대출은 죄는 대신 증시 띄우기에 사활을 걸었던 이재명 정부의 경제 성적표가 크게 휘청이고 있습니다. 단일 종목 레버리지 ETF 등 졸속 부양책이 부메랑이 되어 돌아오며 증시는 대폭락을 맞았고 서울 아파트값과 전월셋값은 동시에 폭등하는 ‘트리플 상승’을 초래했는데요. 포퓰리즘과 정치 논리에 밀려 실용주의 노선이 표류하게 된 배경과 시장의 거센 역습 실태를 다뤘습니다.&lt;br&gt;&lt;br&gt;지난 20년간 ‘환경’이라는 깃발 아래 추진되던 에너지 전환이 거대한 물음표를 만났습니다. AI 시대의 등장으로 1년 365일 단 한 순간도 끊기지 않는 최고 품질의 전기가 대규모로 필요해졌기 때문인데요. 해가 지면 멈추는 태양광만으로 멈추지 않는 AI 데이터센터와 반도체 공장을 돌릴 수 있을까요? 불안정한 태양광의 한계와 LNG 수입 의존의 위험성을 짚으며 탄소 감축을 넘어 AI 시대 국가 생존 전략으로서 ‘원자력의 귀환’이 필요한 이유를 들여다봅니다.&lt;br&gt;&lt;br&gt;🏛️ 생성형 AI 시장의 주도권을 쥔 오픈AI와 앤스로픽이 올해 2분기 미국 워싱턴 정가에 지출한 로비 자금이 역대 최대치인 345만 달러를 돌파했습니다. 빅테크 거함들을 바짝 추격하며 천문학적인 자금을 의회에 쏟아붓는 배후에는 선거와 기업공개라는 거대한 분기점이 자리 잡고 있죠. 규제의 칼날을 피하고 주도권을 쥐려는 이들이, 과연 글로벌 AI 산업의 판도를 어떻게 뒤바꿔 놓게 될까요?&lt;br&gt;&lt;br&gt;🧬 사람의 유전자는 2만 개 남짓에 불과하지만, 우리 몸은 무려 1억 종이 넘는 침입자에 대응하는 항체를 만들어냅니다. 일본 최초의 노벨 생리의학상 수상자인 도네가와 스스무 교수는 적은 부품 유전자를 유연하게 재조합하여 무한한 다양성을 창조하는 면역의 신비를 세계 최초로 밝혀냈죠. 훗날 정상의 자리에서 안주하지 않고 뇌과학으로 영역을 넓혀 상상 속 ‘기억의 흔적(엔그램)’을 직접 증명했을 뿐만 아니라, 가짜 기억을 심는 연구까지 성공시키며 의학사에 큰 궤적을 남겼습니다. 분자생물학과 면역학, 그리고 뇌과학을 연결하며 인류의 지평을 넓힌 그의 이야기를 만나보세요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGQEFN6TQRAGDA3OB3OV3C2UZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🏝️ 자국에서는 부통령의 탄핵 재판이 열리고 있습니다. 그러나 정작 탄핵 당사자는 네덜란드에 수감된 부친을 찾아갔죠. 한편 바다 위에서는 남중국해의 물대포 충돌이 이어지고 있는 가운데, 얼핏 달라 보이는 이 일련의 사건들은 사실 하나의 ‘정치 스릴러’로 연결되어 있습니다. 마르코스 대통령과 두테르테 부통령 가문의 피 튀기는 정권 다툼 뒤에는 미·중의 안보 패권 경쟁이 깊게 얽혀 있습니다. 외교 노선이 권력 투쟁의 도구가 된 필리핀의 정면충돌이, 한국의 해상 물류와 안보에 던지는 파장은 무엇일까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLTUXDQJINHWPJVMNBWTEJTQDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
     </item>
     <item>
       <title>‘행복 10계명’ 뿌린 기후부서 사무관은 왜 스스로 숨졌나</title>
@@ -746,15 +782,6 @@
       <description/>
       <pubDate>Thu, 30 Jul 2026 15:46:00 +0000</pubDate>
       <content:encoded>개인정보보호위원회는 불법 소형 기지국(펨토셀)을 활용해 1만6647명 개인 정보를 유출하고, 무단 소액 결제 피해를 입힌 KT에 과장금으로 539억7900만원을 부과했다고 30일 밝혔다. 개인정보위는 KT가 조사 과정에서 악성 코드에 서버가 감염된 사실을 알고도 정부에 신고하지 않고, 로그(사용자 접속 기록) 삭제 등 증거 인멸과 거짓 진술을 한 의혹이 있다며 수사기관에 고발하기로 했다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBCXO3NPSJGIDPDX6SMWWL7DHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 서울 종로구 정부서울청사에서 양청삼 개인정보보호위원회 사무처장이 KT에 대한 제재 내용을 발표하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당국 조사에 따르면 2025년 팸토셀을 통해 KT 이동통신망에 접속한 해커가 1만6647명의 휴대전화번호와 가입자식별번호(IMSI), 단말기식별번호(IMEI) 등 개인 정보를 탈취했다. 해커는 탈취한 이름과 성별, 생년월일 등 개인 정보를 결합해 소액 결제를 요청했다. 이로 인해 368명이 2억4000만원 상당의 피해를 입었다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 KT의 팸토셀 관리 체계에서 전반적인 부실이 드러났다. KT는 팸토셀 인증서 유효 기간을 10년으로 설정하고, 타사나 해외 IP(인터넷 주소)를 통해 내부망에 접속할 수 있도록 한 사실도 발견됐다. 이상 접속 행위에 대한 탐지·대응 체계도 없었다. &lt;br&gt;&lt;br&gt;개인정보위는 조사 과정에서 2024년 KT의 또 다른 서버 38대가 해킹으로 악성코드에 감염된 사실도 확인했다. KT 임직원과 일부 협력사 직원 개인정보가 유출됐는데, KT는 정부에 이를 신고하지 않았고 서버 로그 기록도 일부 삭제했다. KT 측은 개인정보위 조사 과정에서 악성 코드에 감염된 서버 보존 자료가 없다고 거짓 진술하고, 자료를 뒤늦게 제출해 조사를 지연시켰다는 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;개인정보위는 KT와는 별도로 2025년 8월 일어난 LGU+의 개인정보 유출 사건 조사와 관련해 서버 운영 체제를 재설치하거나 폐기해 사실 확인을 어렵게 했다며 LGU+를 수사기관에 고발하겠다고 밝혔다. 개인정보위는 증거 은닉·폐기 등 조사 방해 행위를 막겠다며 ‘조사 착수 전’ 은닉·폐기 행위에 대해 형사처벌 규정을 마련하고, 증거 은닉·폐기 시 과징금(전체 매출액의 3%)을 부과하는 규정을 신설하는 방안을 추진하겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아파트·공원 물놀이장, 수족구병·장염 주의보</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/KNPG74X7OZCBBGZVC7ZHALASQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/KNPG74X7OZCBBGZVC7ZHALASQ4/</guid>
-      <dc:creator>강혜진 기자, 지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>30일 오후 서울 마포구에 있는 한 아파트 야외 족욕탕. 아이 10여 명이 물총을 쏘며 물놀이에 한창이었다. 인근 다른 아파트 놀이터에서도 방수 기저귀를 찬 어린이가 뿜어져 나오는 바닥 분수를 신나게 헤집고 다녔다. &lt;br&gt;&lt;br&gt;본격적인 여름 무더위가 시작되면서 아파트나 놀이터에 물놀이 시설이 속속 들어서고 있다. 하지만 주민들 사이에선 수족구병이나 장염 등 감염병 불안이 커지고 있다. 마포구의 한 아파트에서 만난 주부 김모(42)씨는 “9세, 4세 아이 둘을 키우고 있는데, 한강수영장 같은 공용 물놀이장은 물론 아파트 바닥 분수도 수질이 걱정돼 안 들여보내고 있다”고 했다. 맘카페에서도 “아이가 물놀이장에서 1시간 놀고 와 곧바로 장염에 걸렸다”는 글이 올라오고 있다.&lt;br&gt;&lt;br&gt;수족구병은 주로 5세 이하 어린이에게 발생하는 급성 바이러스성 질환이다. 감염자의 분비물과 직접 접촉하거나 오염된 물건을 만지면 감염될 수 있다. &lt;br&gt;&lt;br&gt;날씨가 따뜻해진 지난 5월쯤부터 수족구병에 걸리는 영유아가 계속해서 늘고 있다. 질병관리청에 따르면 지난 19일부터 25일까지 영유아(만 0~6세) 수족구병 진료 비율은 외래 환자 1000명당 48.3명으로, 전주(43.8명)보다 10.27% 늘었다. 지난 4월 말 외래 환자 1000명당 1.1명이었던 영유아 수족구병 진료 비율은 12주 연속 증가세다.&lt;br&gt;&lt;br&gt;현행 물환경보전법 시행 규칙에 따르면 아파트 물놀이장 같은 물놀이형 수경 시설의 법정 검사 항목은 수소이온농도, 탁도, 대장균, 유리잔류염소 등 네 가지다. 운영 기간 중 15일에 한 번 이상 수질 검사를 하고, 저류조 청소와 물 교체·여과·소독도 의무적으로 해야 한다. 하지만 정기 검사 항목에 수족구병의 원인인 엔테로바이러스는 들어 있지 않다. &lt;br&gt;&lt;br&gt;아파트 물놀이터와 달리 장비를 대여해 한시적으로 운영하는 간이 풀장은 관광진흥법상 ‘기타 유원 시설’로 분류된다. 기타 유원 시설은 세척 약품을 투약하는 식으로 관리하는 경우가 대부분이다. 주말에 한시적으로 운영하고 철거하는 경우가 많고 당국 신고 대상에서 제외되는 경우도 많아 사실상 수질 검사 사각지대에 놓여 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>86년된 무학여고, 내년부터 남녀공학 전환</title>
@@ -858,24 +885,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ZMZFMBQ2URAYBBIRFNXROU7MC4.jpg?auth=f7b3dea581fd41c8c0857e13053dbe3f96f92a6c97817fb13d9e161061e25beb&amp;smart=true&amp;width=3000&amp;height=2000" type="image/jpeg" height="2000" width="3000">
         <media:description type="plain">'2대1 생체 간이식' 수술을 받은 모하메드 엘 케타니(64·가운데)씨와 가족들이 서울아산병원 간이식·간담도외과 의료진과 기념촬영을 하고 있다./서울아산병원</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 염원(念願)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/07/31/S7EKQX6EYFF2TCHCRAFJNNP74I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/07/31/S7EKQX6EYFF2TCHCRAFJNNP74I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLLGMZ7FPJESJBC3UTBYAW2CDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 사업에 재능이 있다, 사업 수완이 있다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/07/31/TJWX3LSH4BECZJRHKEZMRP2ZTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/07/31/TJWX3LSH4BECZJRHKEZMRP2ZTM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHR3TCVOY5CMJND3JJUJC4YGNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[기자의 시각] 오락가락 검찰의 진심은 뭔가</title>
