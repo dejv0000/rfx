@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전남광주 담양에서 온열질환 추정 70대 사망</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/02/YF5H3ONXGBHVFOPS54I6E4KHUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/02/YF5H3ONXGBHVFOPS54I6E4KHUE/</guid>
+      <dc:creator>담양=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 12:56:36 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염 경보가 내려진 전남광주 담양에서 사인이 온열 질환으로 추정되는 70대 사망자가 발생했다. 신안에서도 70대 남성이 숨져 경찰이 사인을 조사 중이다.&lt;br&gt;&lt;br&gt;2일 전남광주소방본부와 경찰 등에 따르면 이날 오후 6시 3분쯤 담양군 고서면의 한 주택 마당에서 70대 여성 A씨가 쓰러져 있다는 신고가 접수됐다. A씨는 구급대원들이 현장에 도착했을 당시 숨진 상태였다고 한다.&lt;br&gt;&lt;br&gt;A씨는 인근 병원으로 옮겨진 뒤 사인이 온열 질환으로 추정된다는 의료진 사망 판정을 받은 것으로 전해졌다. 담양 지역은 폭염 경보가 발효 중이다.&lt;br&gt;&lt;br&gt;같은 날 오전 5시 42분쯤 전남광주 신안군 자은면의 한 밭에서 70대 남성 B씨가 쓰러져 있다는 신고가 접수됐다. B씨는 구조대원 등이 현장에 도착할 당시 숨진 상태였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 지병을 앓고 있었다는 B씨 자녀의 진술 등을 토대로 사망 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 윤한홍 “金여사 소개로 21그램 연락처 전달했지만…김오진이 확대 해석한 듯”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/02/HCKVHHBQ2ZFIPM6KLNO4AM2PNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/02/HCKVHHBQ2ZFIPM6KLNO4AM2PNU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+      <content:encoded>2차 종합특검(특별검사 권창영)이 지난 1일 윤석열 정부의 ‘대통령 관저 공사 특혜’ 의혹과 관련해 윤한홍 국민의힘 의원을 처음 피의자로 불러 조사했다. &lt;br&gt;&lt;br&gt;윤 의원은 종합건설업 면허가 없는 업체인 ‘21그램’이 관저 공사를 맡게 되는 과정에 관여한 혐의(직권남용) 등을 받는다. 21그램은 김건희 여사와의 친분을 바탕으로 관저 이전·증축 공사를 수주했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;윤 의원은 특검 조사에서 혐의를 대부분 부인하면서도 “김 여사로부터 소개받은 21그램 대표의 연락처를 윤석열 정부 대통령실 관리비서관을 지냈던 김오진 전 국토교통부 1차관에게 전달했다”​고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTDIMBYHE3TSYRTMM2DSMBUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;직권남용권리행사방해 혐의를 받는 윤한홍 국민의힘 의원이 1일 경기 과천시 2차 종합특검 사무실에 피의자 신분으로 출석하며 취채진 질문에 답변하고 있다. 윤석열 정부 청와대 이전 태스크포스(TF) 팀장을 맡았던 윤 의원은 관저 이전 과정에서 종합건설업 면허가 없었던 21그램이 관저 공사 수의계약을 따내는 데 관여한 혐의를 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇윤한홍 “김오진에게 ‘21그램’ 소개했지만…꼭 선정하란 뜻 아녔다"&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤 의원은 윤 전 대통령 당선 직후 꾸려진 청와대 이전 태스크포스(TF)의 팀장을 맡았다. 특검은 윤 의원이 당시 TF 1분과장이었던 김 전 차관에게 21그램을 관저 공사 업체로 선정하도록 지시했는지 수사하고 있다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 2022년 4월 김 여사와 윤 의원, 21그램 대표 김모씨는 대통령 관저 후보지를 세 차례 사전 답사했다. 후보지는 육군참모총장 공관과 한남동 외교부 장관 공관 등이었다. 답사 당시만 해도 관저는 육군참모총장 공관으로 사실상 결정된 상태였지만, 답사 이후 외교부 장관 공관으로 변경됐고 대통령직인수위원회는 같은 달 24일 이를 새 관저로 공식 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDKWFSL2ERLI3ICVGAMQ4RW62A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 4월 4일 서울 용산구 한남동 대통령 관저의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련해 윤 의원은 특검 조사에서 “관저 이전 후보지를 처음 답사한 때쯤 김 여사로부터 21그램 대표의 연락처를 받았다”고 진술한 것으로 알려졌다. 이후 김 대표의 연락처를 김 전 차관에게 전달했다고 한다.&lt;br&gt;&lt;br&gt;윤 의원은 김 전 차관에게 연락처를 전달한 이유에 대해 “21그램을 관저 공사에 꼭 참여시키라는 취지가 아니라 김 여사가 소개한 업체라는 사실을 전달한 것뿐”이라며 “김 전 차관이 오버한 것 같다”는 취지로 진술한 것으로 전해졌다. 윤 의원 자신은 업체 정보를 전달했을 뿐인데, 김 전 차관이 이를 ‘21그램을 공사 업체로 선정하라’는 의미로 받아들인 것 같다는 주장이다.&lt;br&gt;&lt;br&gt;특검은 윤 의원이 단순히 연락처만 전달한 게 아니라, “김 여사가 찍은 업체”라는 취지로 21그램을 소개하며 업체 선정 과정에 관여했을 가능성을 의심하고 있다. 앞서 특검은 이 의혹과 관련해 김 전 차관을 직권남용 혐의로 기소했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSNA3SLW7ZO4XMBVDG7PLNHSLY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 정부의 대통령 관저 이전 과정에서 예산을 불법 전용한 의혹과 관련해 직권남용 혐의를 받는 김오진 전 대통령실 관리비서관이 22일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 취임 후에도 공사 관여?… 윤한홍 “기억 안 난다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤 의원은 특검 조사에서 “기억이 나지 않는다” “관여하지 않았다”며 대부분의 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 지난 3월 윤 의원 자택과 사무실을 압수 수색해 확보한 자료를 토대로 윤 의원을 추궁했다고 한다. 특검은 윤 의원 수행원이 관저 공사 현장을 한 차례 방문한 내비게이션 기록을 확보했고, 수행원으로부터 “나 혼자 개인적으로 그곳에 갈 이유는 없다”는 내용의 진술도 확보했다. 특검 측이 이에 대해 묻자 윤 의원은 “기억나지 않는다”고 답한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 또 21그램 김 대표 조사 과정에서 윤 의원이 윤 전 대통령 취임 이후에도 공사에 관여했다는 취지의 진술을 확보한 것으로 알려졌다. 김 대표는 “2022년 6월 윤 의원이 공사 현장을 방문해 증축 공사 진행 상황 등을 안내받았고, ‘공사 기간이 부족하지 않으냐’ ‘기간을 맞추면 좋겠다’는 식으로 말했다”고 진술했다고 한다. 윤 의원은 이에 대해서도 “취임 이후 공사에 관여한 사실이 없고 세부 내용이 기억나지 않는다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;특검은 지난 1일 오전 10시부터 오후 7시 5분까지 약 9시간 동안 윤 의원을 피의자 신분으로 조사했다. 조사에 앞서 기자들과 만난 윤 의원은 “관저 공사는 (윤 전 대통령) 취임 이후 이뤄진 일로 저와 관련이 없다”며 “내가 한 게 없어서 잘 모른다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사했던 민중기 특검은 김 전 차관을 21그램에 특혜를 제공한 혐의로 기소했다. 다만 윤 의원은 “공모 관계는 확인되지 않았다”며 기소하지 않았다. 다만 민 특검은 “대통령 인수위가 관저를 한남동 외교부 장관 공관으로 이전하는 과정에 윤 의원이 관여한 정황이 있다”며 지난해 12월 관련 기록을 경찰청에 넘겼다. 2차 특검은 이를 넘겨받아 다시 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 신림동 4층 상가에서 불...130여 명 대피</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/02/7S6NOGHYUBGTRAXXPU4C7LM5DM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/02/7S6NOGHYUBGTRAXXPU4C7LM5DM/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 11:56:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5MNCNF4OBKJNIK2VKQOHDEDIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 3시 23분쯤 서울 관악구 신림동의 한 4층짜리 상가 건물에서 불이 났다. 시민 130여 명이 스스로 대피했다. /관악소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 3시 23분쯤 서울 관악구 신림동의 한 4층짜리 상가 건물에서 불이 나 130여 명이 대피했다. &lt;br&gt;&lt;br&gt;소방 당국에 따르면 이날 발생한 화재로 건물 이용객과 주변 시민들이 스스로 대피했고, 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;소방은 인력 90명과 장비 25대를 투입해 화재 발생 약 40분 뒤인 오후 4시 6분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 발화 지점과 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염에 생활용수 사용량 급증… 청도군 일부 지역 계획 단수</title>
+      <link>https://www.chosun.com/national/regional/2026/08/02/5P7B6U3T5JD5JLIIVATJC7J6P4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/02/5P7B6U3T5JD5JLIIVATJC7J6P4/</guid>
+      <dc:creator>청도=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 11:11:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXY6BK2M6JJUBEJKLNDUNW5JBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 경북 청도군 칠곡2리경로당에서 주민들이 생수를 배부받고 있다. 이날 청도 일부 지역에는 물 사용량이 급증하면서 단수가 이뤄졌다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염으로 생활용수 사용량이 급증하면서 경북 청도군이 일부 지역을 대상으로 계획 단수에 들어갔다. &lt;br&gt;&lt;br&gt;2일 청도군 등에 따르면, 이번 계획 단수는 이날 오후 4시부터 자정까지 풍각면(안산·금곡·화산·월봉·덕양·차산), 각북면 전체, 이서면(대곡·팔조·칠곡·신촌) 등 3개 면에서 동시에 이뤄지고 있다. 계획 단수는 전날 청도군 내 일일 물 사용량이 2만4000t으로, 운문정수장 일일 최대 생산량(2만1000t)을 넘어서면서 이뤄진 조치다. 청도군은 단수 조치가 이뤄진 지역 내 가구에 더위 피해가 발생하지 않도록 3개 면에 2L짜리 생수병 3만9000여 병을 차례로 공급하고 있다.&lt;br&gt;&lt;br&gt;청도군 관계자는 “배수지 수위가 더 낮아져 장시간 단수로 이어지는 것을 막기 위해 선제적으로 계획 단수를 결정했다”며 “단수에 따른 주민 피해를 최소화할 수 있도록 온 힘을 다하고 있다”고 말했다. 이날 오후 4시 기준 운문댐 저수율은 26.7％이며, 가뭄 단계는 전국 12개 용수댐 가운데 유일하게 ‘심각’ 단계가 내려진 상태다. &lt;br&gt;&lt;br&gt;청도에서는 2024년 8월에도 무더위에 펜션, 축사, 과수원 등의 물 사용량이 크게 늘어나면서 정수장 일일 최대 생산량을 초과해 풍각면과 각남면 고지대 1700여 가구에 수돗물 공급이 중단되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TXY6BK2M6JJUBEJKLNDUNW5JBQ.jpg?auth=2603c22aa4de2d9841c1a66b1aaa2bb198672ccb5b421fd86258214b13420c0f&amp;smart=true&amp;width=3481&amp;height=2276" type="image/jpeg" height="2276" width="3481">
+        <media:description type="plain">2일 경북 청도군 칠곡2리경로당에서 주민들이 생수를 배부받고 있다. 이날 청도 일부 지역에는 물 사용량이 급증하면서 단수가 이뤄졌다./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">대구경북취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>역대급 폭염에 노동장관 “작업중지·질식예방" 긴급 지시</title>
       <link>https://www.chosun.com/national/labor/2026/08/02/YMHPL6UUUBFIBGYRIHISEIT6ZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/08/02/YMHPL6UUUBFIBGYRIHISEIT6ZU/</guid>
@@ -764,15 +804,6 @@
       <content:encoded>이혼·별거하거나 동거 관계를 끝낸 여성 10명 중 6명(59.6%)은 상대방과 헤어지는 과정에서 남편 또는 동거인에게 폭행을 당한 경험이 있는 것으로 조사됐다. 또 여성 10명 중 3명은 이별 전후로 스토킹을 당하기도 했다.&lt;br&gt;&lt;br&gt;30일 성평등가족부는 만 19세 이상 남녀 9077명을 대상으로 실시한 ‘2025년 가정폭력 실태조사’ 결과를 발표했다. 이에 따르면, 폭력은 이별 과정에서 더 빈번하게 나타났다. 현재의 배우자나 파트너에게 폭력을 당한 비율은 14.4%였지만, 이혼이나 별거를 경험한 사람이 헤어진 상대에게 이별 전후 폭력을 당한 피해율은 50%로 3배 이상 높았다. 특히 여성의 피해율은 59.6%로 2022년(54.5%) 대비 5.1%포인트 올랐다. &lt;br&gt;&lt;br&gt;지속적으로 따라다니거나 메신저·소셜 미디어(SNS) 등으로 연락을 시도하는 스토킹의 경우 이별 전후 피해율이 여성 29.1%, 남성 18.9%로 나타났다. &lt;br&gt;&lt;br&gt;피해자 대응은 소극적이었다. “별다른 대응을 한 적이 한 번도 없다”는 응답이 68.5%로 2022년(53.3%)보다 15.2%포인트 늘었다. 이유로는 “그 순간만 넘기면 될 것이라고 생각해서”(36.3%), “폭력이 심각하지 않다고 생각해서”(34%)가 가장 많이 꼽혔다. 폭력을 경험한 10명 중 8명(80.9%)은 외부에 도움을 요청한 적이 없는 것으로 나타났다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“버스비 무료 이후 시내 북적” 상가·공원 ‘출근도장’ 찍는 어르신들</title>
-      <link>https://www.chosun.com/national/regional/2026/07/31/SM23AK7MC5DTPF5H7DXKV6IADM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/31/SM23AK7MC5DTPF5H7DXKV6IADM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>지난 29일 오후 대구시 중구 반월당 지하상가. 평일 오후인데도 주말처럼 북적였다. 오가는 사람 10명 중 9명이 고령층이었다. 지하상가 커피숍은 테이블 20개가 모두 노인들로 꽉 찼다. 약봉지를 든 최양석(73)씨는 “시내버스가 공짜라 일주일에 3~4번은 온다”며 “약도 사고 친구도 만난다”고 했다. 그는 “원래 하루 종일 집 안에만 있었는데 운동도 하고 친구도 사귀니 건강도 더 좋아졌다”고 했다. 이곳 상가에서 약국을 운영하는 약사 김모씨는 “버스 요금이 무료가 된 이후 노인 손님이 30% 정도 증가한 것 같다”며 “약국이 더 생겨 경쟁도 치열해졌다”고 했다. 보험 설계사 김모씨는 “원래는 노인 손님을 찾아다녔는데 올 2월부터 여기서 치매·간병 보험을 팔고 있다”며 “이런 게 ‘노인 경제’ 활성화 아니겠느냐”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3EAKNFC4ZBDHEBSG7L3HT2MZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 오후 대구시 중구 반월당 지하상가가 북적이고 있다. 오가는 사람 10명 중 9명은 고령층이었다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 2023년 7월 전국 최초로 노인 버스 무료 승차 제도를 시행한 지 3년이 됐다. 대구 곳곳에서 노인이 늘어난 모습을 볼 수 있었다.&lt;br&gt;&lt;br&gt;대구시는 당시 75세 이상 버스 무료 승차 제도를 도입하면서 지하철 무료 승차 연령을 65세 이상에서 66세 이상으로 상향 조정했다. 이후 기준 연령을 매년 버스는 1세씩 낮추고, 지하철은 1세씩 올렸다. 현재 버스는 72세 이상, 지하철은 68세 이상이 무료다. &lt;br&gt;&lt;br&gt;지하철이 닿지 않아 버스로만 가야 하는 팔공산에도 고령층이 몰린다. 박영민(74)씨는 “노인들은 버스비 1500원도 아까워 손을 떤다”며 “버스를 무료로 탈 수 있게 된 뒤엔 거의 매일 팔공산과 봉무공원을 찾아 운동한다”고 했다.&lt;br&gt;&lt;br&gt;대구 중구 경상감영공원 근처 ‘콜라텍’도 70대 손님이 늘어 호황이다. 이날 콜라텍에서 만난 김장호(75)씨는 “왕복 3000원 버스비 부담이 없으니 매일 ‘출근 도장’을 찍다시피 한다”며 “입장료 1000원 내고 하루 종일 새로운 친구도 만나고 춤도 춘다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARPQI7CXYRCYXOOQK3AZFTYYFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시에 따르면, 무료로 버스를 타는 노인은 2024년 19만7324명에서 지난해 20만9141명으로 5.6% 증가했다. 같은 기간 이들이 버스를 탄 횟수는 2766만6747회에서 3673만9948회로 32.7% 증가했다. 월평균 이용 횟수는 12회에서 14회로 늘었다.&lt;br&gt;&lt;br&gt;노인들이 쓰는 돈도 늘어났다. 대구시가 지난 4월 무료로 버스를 타는 노인 200명을 대상으로 설문 조사한 결과, 60.5%가 한 번 외출하는 데 쓰는 돈이 예전보다 10% 이상 증가했다고 답했다. 월평균 병원 방문 횟수는 1.26회에서 2.14회로 69.8% 증가했다. 이상호 대구시의사회 수석 부회장은 “버스비 부담이 줄어드니 노인 스스로 건강 관리에 더 신경을 쓰게 되는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;대구시가 노인 버스 무료 승차 제도를 운영하기 위해 작년까지 2년 6개월간 들인 돈은 무료 승차로 인한 요금 손실액, 시스템 구축비 등 총 977억원이다. &lt;br&gt;&lt;br&gt;지난해 버스 요금 손실액은 482억원으로 집계됐다. 반면 지하철 무료 승차 연령을 1세 올려서 아낀 비용은 지난해 7억원이었다. 버스 요금 손실액을 메우기에는 부족한 수준이다. &lt;br&gt;&lt;br&gt;일각에선 불만도 나온다. 시내버스 기사 이모씨는 “노인 손님이 늘면서 정류장에서 승객을 태우고 내리는 데 시간이 많이 걸린다”며 “불평하는 젊은 손님도 적지 않다”고 했다. 또 다른 버스 기사는 “배차 시간 맞추기가 힘들다”고 했다. 일부 버스 회사는 노인 승객 사고가 증가해 보험료 부담이 커졌다고 했다. 지하철 무료 승차 혜택을 받지 못하게 된 65~67세 시민들은 “다른 도시에선 무료로 탈 수 있는데 형평성에 문제가 있다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 “눈에 보이지 않는 효과를 무시해선 안 된다”고 했다. 김정엽 대구한의대 노인의료복지학과 교수는 “버스 무료 승차 덕분에 혼자 사는 노인들이 ‘사회적 고립’에서 벗어나고 있다”며 “우울감 감소, 자살 예방 등 효과도 클 것”이라고 했다. 이와 관련해 대구정책연구원은 “지난 2년 6개월간 얻은 의료비 절감, 도로 혼잡 감소 등 편익은 총 1531억원으로 분석된다”고 했다.&lt;br&gt;&lt;br&gt;최근 서울, 인천도 노인 버스 무료 승차 제도 도입을 검토하고 있다. 이에 대해 김수성 대구정책연구원 연구위원은 “지방자치단체마다 지하철·버스 수송 분담률이나 노인 인구 수 등이 다르다”며 “재정 부담이 크고 찬반 논란도 있기 때문에 효과를 신중하게 검토해야 한다”고 했다. 대구의 경우 지하철·버스의 수송 분담률이 29%인 반면 서울은 56%로 2배 수준이다. 서울이 대구보다 지하철·버스 노선이 더 촘촘하고 이용객도 많다는 의미다. 70세 이상 인구 수는 대구가 34만8000명, 서울이 128만2000명이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘행복 10계명’ 뿌린 기후부서 사무관은 왜 스스로 숨졌나</title>
       <link>https://www.chosun.com/national/transport-environment/2026/07/31/W64GWXXQJFHZFBM623H5G6CAUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/07/31/W64GWXXQJFHZFBM623H5G6CAUA/</guid>
@@ -783,15 +814,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/G4ZTKN3DGQYGINDGGVRDCZTEMU.jpg?auth=84db3065aa1922dc8c483be9e307360dd83294ffd170fd4bb894a9303ae8abf7&amp;smart=true&amp;width=4717&amp;height=3101" type="image/jpeg" height="3101" width="4717">
         <media:description type="plain">세종시 정부세종청사에서 기존 ‘환경부’ 현판이 철거되고 '기후에너지환경부' 현판 설치 작업이 진행되고 있다. 2025.9.30 ⓒ 뉴스1 김기남 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>검찰 스스로 영장 청구도 못해… 보완수사권 폐지법 곳곳 위헌 요소</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/31/GDGIFV3OZFG6HBZMTFDSOE3PSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/31/GDGIFV3OZFG6HBZMTFDSOE3PSM/</guid>
-      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:50:00 +0000</pubDate>
-      <content:encoded>검사의 보완수사권을 전면 폐지하고 직접 영장청구권도 없애는 내용의 형사소송법 개정안이 31일 국회 본회의에서 통과될 것으로 보인다. 더불어민주당이 밀어붙이고 있는 이 개정안에 대해 법조계에선 “헌법에 위배되는 부분이 법 조항 곳곳에 포함돼 있어 향후 큰 논란이 예상된다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWQ37ZXMNBEHPBPFIUZGU7AT24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국힘 주호영 필리버스터 지켜보는 정성호  검사의 보완수사권을 폐지하고 직접 영장청구권도 없애는 내용의 형사소송법 개정안이 31일 국회 본회의에 상정돼 국민의힘이 필리버스터에 나선 가운데, 정성호 법무부 장관이 국무위원석에서 국민의힘 주호영 의원의 반대 토론을 지켜보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇검사 영장청구권 제한 “위헌 소지”&lt;/b&gt;&lt;br&gt;&lt;br&gt;30일 국회 본회의에 상정된 형사소송법 개정안에는 검사가 사법경찰관 등이 신청한 영장만 법원에 청구할 수 있도록 하는 조항이 포함됐다. 검사가 직접 체포·구속·압수수색 영장을 청구할 수 있다는 기존 법 조항을 삭제한 것이다. 앞서 민주당은 공소청 설치법을 만들 때도 검사의 직무 1호였던 ‘범죄 수사’와 ‘수사 개시’ 부분을 78년 만에 삭제했는데, 이번엔 아예 검사의 수사권 자체를 없애려고 하고 있다.&lt;br&gt;&lt;br&gt;법조계에선 위헌 소지를 우려하고 있다. 헌법 제12조 3항은 ‘체포·구속·압수 또는 수색을 할 때에는 적법한 절차에 따라 검사의 신청에 의해 법관이 발부한 영장을 제시해야 한다’고 정하고 있다. 헌법상 영장 청구 주체는 1948년 ‘수사기관’에서 1972년 ‘검사’로 바뀌어 지금까지 유지되고 있다. 고검장 출신 변호사는 “헌법이 사실상 검사를 수사의 주체로 인정하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇7대 범죄만 전건 송치 “평등권 침해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;민주당은 장윤기 사건 등이 논란이 되자, 뒤늦게 보완수사 장치를 마련하겠다고 했다. 사회적 약자를 대상으로 한 이른바 7대 범죄(아동학대·가정폭력·성범죄·아동성범죄·스토킹·장애인학대·노인학대)는 경찰이 무혐의 처분 사건까지 모두 공소청에 보내는 전건(全件) 송치를 도입하고, 보완수사는 중수청에 맡기겠다고 한다.&lt;br&gt;&lt;br&gt;이에 대해 한 법조계 인사는 “범죄 피해자는 모두 사회적 약자”라며 “범죄 종류에 따라 보완수사를 받고 안 받고가 정해지면 이는 평등권을 침해할 소지가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3X5UEJBJFBTFDCZHZHKSBI3II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당은 검사의 보완수사권을 없애는 대신, 보완수사 및 재수사 요구권을 강화했다는 입장이다. 경찰 등이 요구를 이행하지 않으면 검사가 징계나 직무배제를 요구할 수 있다는 점도 강조한다.&lt;br&gt;&lt;br&gt;하지만 보완수사 등에 대한 요구권만 있을 경우, 검사와 경찰간 ‘사건 핑퐁’만 계속돼 사건처리는 늦어지고, 실체 규명은 어려울 것이라는 지적이 많다. 또 검사의 경찰 징계요구 제도는 이미 있지만, 지난 5년간 직무배제 요구가 단 1건에 그칠 정도로 활용되지 않고 있다. 안미현 천안지청 검사는 민주당의 보완수사 요구권 강조는 “보완수사권 폐지로 발생할 문제를 해결할 방안을 못 찾았다는 얘기”라고 했다.&lt;br&gt;&lt;br&gt;◇&lt;b&gt;공소 기각 사유 추가 “李 죄 지우기"&lt;/b&gt;&lt;br&gt;&lt;br&gt;민주당은 이번 형사소송법에 법원의 ‘공소&lt;b&gt; &lt;/b&gt;기각' 사유도 추가했다. 현행법에 6가지 공소 기각 사유가 있는데도, ‘중대한 위법 수사’ ‘소추(訴追) 재량권 일탈’ 등을 추가했다. 한 검찰 관계자는 “모호하게 형사소송법을 만들자는 건 결국 범죄자에게 유리한 형사 재판을 만들겠다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이와 관련해 법조계에서는 “여당이 불법 대북 송금 사건 등 이재명 대통령 관련 사건에 대한 검찰의 공소 취소가 뜻대로 이뤄지지 않자, 법원이 공소 기각할 수 있는 이중 장치를 마련한 것”이라는 해석도 나온다.&lt;br&gt;&lt;br&gt;이밖에 특별사법경찰관(특사경)에 대한 검사의 수사지휘권도 폐지돼 위법 수사와 사건 암장 등이 폭증할 것이라는 우려도 나온다. 부장검사 출신 변호사는 “특사경이 연간 송치하는 사건이 7만~8만건에 달하는데, 이에 대한 통제가 사라지면 결국 피해는 국민에게 돌아갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한강 작가 살았던 서울 우이동 골목 ‘노벨문학길’로 지정</title>
@@ -807,16 +829,6 @@
       </media:content>
     </item>
     <item>
-      <title>더위야 씻겨라!</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/WH6SLZOXAFARZJQ4FQ7OBPFHNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/WH6SLZOXAFARZJQ4FQ7OBPFHNY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQGP7XUV4NFMLIJPHUJCAA6I3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 충남 논산시 연산면 양지서당에서 아이들이 바가지로 찬물을 끼얹고 있다. 이날 경남 양산의 낮 최고 기온이 40.3도를 기록하는 등 전국적으로 극심한 폭염이 이어지고 있다. 양산의 낮 기온은 이틀 연속 40도를 넘었다. 기상청은 “당분간 극심한 폭염이 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해킹 당해 2억 무단결제 피해 KT에 과징금 540억원 부과</title>
       <link>https://www.chosun.com/national/national_general/2026/07/31/RV2QQUG6DVA65CDDUT4QAU2LKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/RV2QQUG6DVA65CDDUT4QAU2LKA/</guid>
@@ -824,15 +836,6 @@
       <description/>
       <pubDate>Thu, 30 Jul 2026 15:46:00 +0000</pubDate>
       <content:encoded>개인정보보호위원회는 불법 소형 기지국(펨토셀)을 활용해 1만6647명 개인 정보를 유출하고, 무단 소액 결제 피해를 입힌 KT에 과장금으로 539억7900만원을 부과했다고 30일 밝혔다. 개인정보위는 KT가 조사 과정에서 악성 코드에 서버가 감염된 사실을 알고도 정부에 신고하지 않고, 로그(사용자 접속 기록) 삭제 등 증거 인멸과 거짓 진술을 한 의혹이 있다며 수사기관에 고발하기로 했다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBCXO3NPSJGIDPDX6SMWWL7DHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 서울 종로구 정부서울청사에서 양청삼 개인정보보호위원회 사무처장이 KT에 대한 제재 내용을 발표하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당국 조사에 따르면 2025년 팸토셀을 통해 KT 이동통신망에 접속한 해커가 1만6647명의 휴대전화번호와 가입자식별번호(IMSI), 단말기식별번호(IMEI) 등 개인 정보를 탈취했다. 해커는 탈취한 이름과 성별, 생년월일 등 개인 정보를 결합해 소액 결제를 요청했다. 이로 인해 368명이 2억4000만원 상당의 피해를 입었다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 KT의 팸토셀 관리 체계에서 전반적인 부실이 드러났다. KT는 팸토셀 인증서 유효 기간을 10년으로 설정하고, 타사나 해외 IP(인터넷 주소)를 통해 내부망에 접속할 수 있도록 한 사실도 발견됐다. 이상 접속 행위에 대한 탐지·대응 체계도 없었다. &lt;br&gt;&lt;br&gt;개인정보위는 조사 과정에서 2024년 KT의 또 다른 서버 38대가 해킹으로 악성코드에 감염된 사실도 확인했다. KT 임직원과 일부 협력사 직원 개인정보가 유출됐는데, KT는 정부에 이를 신고하지 않았고 서버 로그 기록도 일부 삭제했다. KT 측은 개인정보위 조사 과정에서 악성 코드에 감염된 서버 보존 자료가 없다고 거짓 진술하고, 자료를 뒤늦게 제출해 조사를 지연시켰다는 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;개인정보위는 KT와는 별도로 2025년 8월 일어난 LGU+의 개인정보 유출 사건 조사와 관련해 서버 운영 체제를 재설치하거나 폐기해 사실 확인을 어렵게 했다며 LGU+를 수사기관에 고발하겠다고 밝혔다. 개인정보위는 증거 은닉·폐기 등 조사 방해 행위를 막겠다며 ‘조사 착수 전’ 은닉·폐기 행위에 대해 형사처벌 규정을 마련하고, 증거 은닉·폐기 시 과징금(전체 매출액의 3%)을 부과하는 규정을 신설하는 방안을 추진하겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>86년된 무학여고, 내년부터 남녀공학 전환</title>
-      <link>https://www.chosun.com/national/education/2026/07/31/EREVWM7MCVG4HFTTGTUKG7TVNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/31/EREVWM7MCVG4HFTTGTUKG7TVNA/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:45:00 +0000</pubDate>
-      <content:encoded>86년간 여학생만 다닌 서울 성동구 무학여고에 내년부터 남학생도 입학한다. 학령인구 감소로 학생 확보가 어려워지자 남녀 공학으로 전환한 것이다. 내년이나 내후년부터 남녀 공학이 되는 서울 지역 학교는 무학여고를 포함해 총 8곳이다. &lt;br&gt;&lt;br&gt;30일 서울시교육청은 이 같은 내용의 ‘2027~2028학년도 남녀 공학 전환 대상 학교’를 발표했다. 서울 지역 11개 학교가 신청했는데, 이 중 중학교 4곳(성심여중·신정여중·정원여중·한양중)과 고등학교 4곳(무학여고·서울신정고·성심여고·한양과기고)의 남녀 공학 전환을 승인했다. &lt;br&gt;&lt;br&gt;박근혜 전 대통령의 모교인 성심여고는 내후년부터, 나머지 7곳은 모두 내년부터 남녀 공학으로 바뀐다. 이에 1940년 문을 연 무학여고는 개교 이래 처음으로 내년부터 남학생이 입학하게 됐다. 남녀 공학 전환에 반대하는 동문들이 비상대책위원회를 꾸려 집회를 여는 등 갈등이 있었지만, 교육청은 절차상 문제가 없다고 밝혔다. 한양과학기술고는 1945년 개교 이래 81년간 남학생만 다녔는데, 내년부터는 여학생도 입학한다. &lt;br&gt;&lt;br&gt;이들 학교가 남녀공학으로 전환하는 것은 학령인구 감소 때문이다. 올해 서울 중·고교생은 39만1784명으로 10년 전보다 14만7684명(27.4%) 줄었다. 학생 수가 급감해 한쪽 성으로만 학생을 채우기는 더 힘들어졌다. 무학여고는 2016년 1학년 입학생이 401명이었는데, 올해는 128명으로 68% 감소했다. 성심여고도 276명에서 105명으로 60% 이상 줄었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>여름방학… ‘국중박’으로 피서왔어요</title>
