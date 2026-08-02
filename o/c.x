@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>역대급 폭염에 노동장관 “작업중지·질식예방" 긴급 지시</title>
+      <link>https://www.chosun.com/national/labor/2026/08/02/YMHPL6UUUBFIBGYRIHISEIT6ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/08/02/YMHPL6UUUBFIBGYRIHISEIT6ZU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 08:12:33 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7XEW352AJFS7G4LCFRWXEF4XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 계속되는 2일 오후 서울 영등포구 여의도 일대 도로에서 배달 라이더들이 오토바이를 운전하고 있다. 아스팔트가 뜨겁게 달궈져 아지랑이가 피어오르고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관이 2일 기록적인 폭염으로 중앙재난안전대책본부(중대본) 2단계가 발령됨에 따라 각종 작업장에서 폭염·질식 위험 대응을 강화하라고 긴급 지시했다.&lt;br&gt;&lt;br&gt;김 장관은 우선 노동부 본부와 지방 관서, 산하 공단과 민간 기관 등이 참여하는 ‘폭염 안전 특별대책반’의 운영을 강화하라고 지시했다. 이와 함께 중대재해 사이렌을 통해 폭염 상황을 신속히 전파하라고 당부했다. 중대재해 사이렌이란 노동부가 전국 산업 현장의 사망 사고 발생 동향 등을 전파하기 위해 운영하는 온라인 플랫폼이다.&lt;br&gt;&lt;br&gt;김 장관은 특히 각 기관장이 지역별 폭염 취약 사업장들이 ‘폭염 안전 5대 기본 수칙’과 ‘폭염 단계별 작업 중지’ 조치 사항을 철저히 지키도록 지도하라고 주문했다. &lt;br&gt;&lt;br&gt;폭염 안전 5대 기본 수칙은 시원한 물 마시기, 냉방 장치 가동, 2시간마다 20분 이상 휴식, 보냉 장비 지급, 위급 시 119 신고 등이다. 폭염 단계별 작업 중지 조치사항에 따르면 체감온도 38도 이상 또는 폭염중대경보 발령 시에는 긴급조치 작업이 아닌 경우 모든 옥외 작업을 중지해야 한다. &lt;br&gt;&lt;br&gt;김 장관은 전국 지방자치단체에 긴급조치 외에는 질식 위험이 있는 밀폐공간 작업을 중단하라고 권고하고, 지방 노동관서는 관련 지도·점검을 강화하라고 지시했다. 기온이 올라가면 오·폐수 처리시설, 하수관로, 정화조, 저장 용기 내부에서는 이산화탄소와 황화수소 등 유해가스 농도가 급격히 올라가 질식사고 위험이 있기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 8월 3일 월요일 (음력 6월 21일 己酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/02/MOOA5D6YGZALVPQOUDLVYEULR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/02/MOOA5D6YGZALVPQOUDLVYEULR4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>송아지에 먹이 주던 70대 농장주, 어미소에 들이받혀 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/02/DCK2ZBJEMRCRVILL5454LS525Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/02/DCK2ZBJEMRCRVILL5454LS525Q/</guid>
+      <dc:creator>임실=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 07:29:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송아지에게 먹이를 주던 70대 농장주가 어미 소에 들이받혀 숨졌다.&lt;br&gt;&lt;br&gt;2일 전북소방본부 등에 따르면 이날 오전 10시 47분쯤 전북 임실군 오수면의 한 축사에서 70대 농장주 A씨가 쓰러진 채 발견됐다. A씨는 현장에 도착한 119 대원에 의해 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 송아지에게 우유를 주던 중 어미 소에게 들이받혀 숨진 것으로 파악됐다. 경찰은 축사 내에 설치된 방범 카메라(CCTV) 영상에서 A씨가 수차례 어미 소에게 들이받히는 모습을 확인했다. 경찰은 이를 토대로정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
+        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>경남 양산 ’42.5도‘ 찍었다...국내 최고기온 재차 경신</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/02/LAXPICP4PVCV7MZ5ZXCCAAJ6B4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/02/LAXPICP4PVCV7MZ5ZXCCAAJ6B4/</guid>
@@ -721,15 +755,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZMYF6WUQ5M5XISG6H63AG3M2A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경남 밀양시 무안면 백안저수지가 바닥을 드러냈다. 거북 등처럼 쩍쩍 갈라진 모습이다. 저수지에 남은 물은 깊이가 50㎝도 되지 않았다. 원래 수심은 약 9m였다. 이 저수지 물로 농사를 짓는 농민들의 속이 타들어 가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 오전 경남 밀양시 단장면 밀양호를 찾았다. 밀양호는 밀양시와 양산시, 창녕군에 사는 주민 41만명의 식수원이다. 최근 ‘마른 장마’에 ‘극한 폭염’까지 겹쳐 호수 가장자리는 바닥을 드러냈다. 이날 오전 10시 기준 저수율은 34%. 1년 전(75%)의 절반도 안 됐다. 주민 주창식(73)씨는 “밀양호 물이 이렇게 줄어든 건 평생 처음 본다”고 했다. &lt;br&gt;&lt;br&gt;한국수자원공사는 밀양댐의 가뭄 위기 경보를 1일 ‘주의’에서 ‘경계’로 상향 조정하기로 했다. 경계는 가뭄 위기 경보 5단계 중 둘째로 높은 단계다. 올여름 들어 경계 경보가 발령되는 다목적댐은 밀양댐이 처음이다. &lt;br&gt;&lt;br&gt;밀양 시민들은 불안해했다. 경계 경보가 내려지면 댐은 물을 아끼기 위해 농업용수 방류량을 20~30% 줄일 수 있다. 당장 농민들 피해가 예상된다. &lt;br&gt;&lt;br&gt;전문가들은 “현재 추세면 8월 말쯤 생활용수 공급도 차질을 빚을 가능성이 있다”고 했다. 밀양시 관계자는 “아직 생활용수 공급은 지장이 없지만 가뭄이 워낙 심각해 예의 주시하고 있다”며 “선제적으로 물 절약 캠페인을 벌일 계획”이라고 했다.&lt;br&gt;&lt;br&gt;경남, 경북, 전남광주 등 남부 지방이 폭염과 가뭄 ‘이중고’를 겪고 있다. 논밭에 물을 대는 것은 물론 시민들이 마실 식수까지 위협받고 있다. 수자원공사가 관리하는 전국 댐 37곳 중 가뭄 경보가 발령된 8곳 모두 남부 지방에 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YP7MB6BJ3NAMDMF4TS5IEHN3LI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무엇보다 올여름 강수량이 지나치게 적다. 부산지방기상청에 따르면, 올 7월 밀양 지역의 누적 강수량은 29.4㎜로 7월 역대 최저치다. 이전 기록은 47.4㎜(1977년)였다. 울산도 7월 누적 강수량이 28㎜에 그쳐 역대 최저치 기록을 썼다. 8월 초까지 큰 비 소식도 없다.&lt;br&gt;&lt;br&gt;여기에 강한 햇볕이 내리쬐는 폭염으로 수분이 빠르게 증발하고 있다. 남부 지방의 낮 기온은 연일 40도 안팎까지 치솟고 있다.&lt;br&gt;&lt;br&gt;김백민 국립부경대 환경대기과학전공 교수는 “예년 같으면 6월 중순부터 남부 지방에 장맛비가 내려야 하는데, 올해는 장마전선이 곧바로 중부 지방으로 북상해 남부 지방에 비다운 비가 내리지 않았다”며 “가뭄이 장기화할 가능성이 있다”고 했다. &lt;br&gt;&lt;br&gt;그나마 댐은 사정이 나은 편이다. 농업용으로 쓰는 저수지는 대부분 바닥을 드러냈다. 이날 찾은 밀양시 무안면 백안저수지는 거북 등처럼 쩍쩍 갈라져 있었다. 저수지에 남은 물이 50㎝도 채 되지 않았다. 근처에서 벼농사를 하는 김모(73)씨는 “물이 가장 많이 필요한 시기인데 논에 물을 대지 못하고 있다”며 “벼를 만지면 나락이 그대로 떨어진다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGELE25STNE4XHH54KAQEZO73Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 경남 밀양시 무안면 백안저수지 바닥이 가뭄으로 갈라져 있다. 기상청에 따르면 최근 전국적인 장마 및 폭우(6월 30일~7월 21일) 기간 경남지역 평균 강수량은 72㎜에 불과하다. 이 기간 전국 강수량 206.3㎜의 절반도 안 되는 수준이다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창녕군은 농업용 저수지의 평균 저수율이 30~40% 수준이다. 예년의 절반에도 못 미친다. 창녕 주민들은 지난 28일 기우제까지 지냈다.&lt;br&gt;&lt;br&gt;울산시는 식수 공급에 비상이 걸렸다. 식수의 절반을 공급하는 회야댐 저수율이 20%대로 떨어졌기 때문이다. 울산시는 지난 24일부터 낙동강 물을 사 쓰고 있다. 매일 2193만원을 들여 9만3000t을 끌어오고 있다.&lt;br&gt;&lt;br&gt;울산시 상수도사업본부 관계자는 “여름철에 낙동강 물을 끌어오는 건 매우 드문 일”이라며 “8월에는 식수 구입량을 하루 15만t으로 늘릴 계획”이라고 했다.&lt;br&gt;&lt;br&gt;포항에선 최근 “수돗물에서 짠맛이 난다”는 민원이 빗발쳤다. 7월 한 달간 누적 강수량이 41㎜에 그쳐 취수원인 형산강의 수위가 낮아진 탓이다. 형산강의 수위가 낮아지자 바닷물이 취수장 부근까지 밀려들었다. 포항시는 지난 27일부터 형산강 대신 약 30㎞ 떨어진 영천댐 물을 끌어다 쓰고 있다. 포항시 관계자는 “영천댐도 물이 마르고 있어 걱정이 많다”고 했다. 포항시는 31일부터 ‘물을 아껴 씁시다’라고 쓴 현수막을 내걸고 캠페인을 벌이기로 했다.&lt;br&gt;&lt;br&gt;남부 지방의 앞바다도 예년보다 빨리 뜨거워지고 있다. 지난 27일 ‘고수온 경보’가 발령됐다. 작년보다 이틀 빠른 것이다. 지난 27일부터 이날까지 전남광주 완도에선 광어 9만8300마리가 떼죽음을 당했다. 앞서 24일 제주도 서귀포시 양식장 2곳에서도 광어 2만1000여 마리가 폐사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>형사처벌보다 경제 제재로… 1만1165개 규정 전면 재검토</title>
-      <link>https://www.chosun.com/politics/goverment/2026/07/31/6NRPTUL2OBC6HDPMKLHYRKPYMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/07/31/6NRPTUL2OBC6HDPMKLHYRKPYMA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:49:00 +0000</pubDate>
-      <content:encoded>정부가 국민이 형법상 범죄가 아니라 건축법 위반, 식품위생법 위반 등 행정법 위반으로도 형사처벌을 받는 것은 지나치다고 보고, 이런 ‘행정형벌’ 규정 1만1165개 전체를 재검토하기로 했다.&lt;br&gt;&lt;br&gt;정부는 30일 법제처·재정경제부·법무부·국토교통부·해양수산부 등이 참여하는 ‘범정부 형벌 합리화 추진단’을 출범했다고 밝혔다. 추진단은 행정형벌 규정을 전수 조사하고, 이를 바탕으로 ‘형벌 합리화 종합 기준’을 만들 예정이다. 추진단은 새로운 기준에 따라 기존의 행정형벌 가운데 지나친 것은 완화하고, 과태료·과징금 등 금전적인 제재로 대체할 수 있는 것은 대체하는 방안을 만들게 된다. 대다수가 법률에 있는 벌칙 조항을 고쳐야 하는 것인 만큼, 정부는 최종적으로는 추진단이 만든 방안을 바탕으로 수백 개 법률의 개정안을 작성할 계획이다.&lt;br&gt;&lt;br&gt;경제계는 국내 경제 법률이 형사처벌 위주로 돼 있어 기업인들의 활동 범위를 과도하게 제약한다고 주장해 왔다. 지난해 한국경제인협회의 조사에 따르면, 기업 활동과 관련이 높은 법률 346개가 8403가지 위반 행위를 형사처벌 대상으로 규정하고 있다. 이에 이재명 정부도 “형벌 중심 제재에서 민사적 책임 중심으로의 전환 등 경제 형벌 합리화를 추진하겠다”며 ‘경제 형벌 합리화’를 국정 과제로 삼았다.&lt;br&gt;&lt;br&gt;다만 형벌 합리화가 반드시 제재 수위를 지금보다 낮춘다는 의미는 아니라고 법제처는 설명했다. 정부는 지난해 경제 부처를 중심으로 ‘경제 형벌 합리화 TF(태스크포스)’를 만들어 경제 분야 행정형벌의 수위를 대폭 낮추는 방안을 마련했으나, 지난 4월 이 방안을 보고받은 이재명 대통령은 “(형사처벌인) 벌금 500만원을 (형벌이 아닌) 과태료로 바꿔준다면 그 액수는 5000만원, 1억원 등으로 해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 따라 정부는 추진단에서 행정형벌 재검토 작업을 원점에서 다시 시작하기로 했다. 법제처는 “국민과 기업에 부담이 되는 과도한 행정형벌은 완화하되, 사회적으로 지탄받아야 할 범죄에는 엄정히 대응할 수 있도록 형벌 규정을 정비할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이혼·별거 여성 60% “헤어질 때 폭력 당해”</title>
       <link>https://www.chosun.com/national/education/2026/07/31/HSWWP65SSNBQPIXQDMVHBISMFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/07/31/HSWWP65SSNBQPIXQDMVHBISMFM/</guid>
@@ -780,25 +805,6 @@
         <media:description type="plain">노벨문학길 명예도로명판. /서울 강북구</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 7월 31일</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/NNJN3FXPUZDCZP4N723TPYJ264/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/NNJN3FXPUZDCZP4N723TPYJ264/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN42JO5XQRBKDLXXZ3PEYD3S2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정몽규·홍명보 청문회, 의원들 헛발질로 끝났다</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/677IVYBHINFTNEA4FECZWVHYSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/677IVYBHINFTNEA4FECZWVHYSU/</guid>
-      <dc:creator>이태동 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Jul 2026 15:49:00 +0000</pubDate>
-      <content:encoded>홍명보 전 축구대표팀 감독과 정몽규 전 대한축구협회장이 30일 국회 문화체육관광위원회가 연 청문회에 나와 북중미 월드컵 조기 탈락에 대해 사과했다. 이날 청문회는 축구 국가대표팀 감독 선임 논란과 축구협회 운영 실태를 점검하는 자리였다. 하지만 문체위 의원들이 제기한 문제점 대부분이 2024년 국회 현안 질의와 국정감사 등에서 이미 다뤄진 내용 그대로여서 ‘재탕’ ‘삼탕’ 청문회란 비판이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYSF5SD5GVDZ7I3PB2CKNCD6DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍명보 전 축구 국가대표팀 감독이 30일 국회 문화체육관광위원회가 연 청문회에 증인으로 출석해 눈가를 매만지고 있다. 홍 전 감독은 북중미 월드컵 조기 탈락으로 국민 기대에 부응하지 못한 것에 사과했지만, ‘특혜 선임’ ‘고액 연봉’ 등의 논란은 모두 부인했다. 정몽규 전 축구협회장도 “감독 선임 때 규정 위반은 없었다”고 했다. /국회사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 전 회장은 “한국 축구 발전을 위해 노력했지만 일련의 논란, 월드컵 결과가 미흡한 것에 대해 죄송하다. 책임을 통감한다”고 말했다. 홍 전 감독도 “국민 기대에 부응하지 못해 죄송하고, 책임을 무겁게 받아들인다”며 “청문회에서 사안을 있는 그대로 말하겠다”고 했다. &lt;br&gt;&lt;br&gt;홍 전 감독은 2024년 7월 대표팀 취임 이후 여전히 계속되고 있는 ‘특혜 선임’ 논란에 대해 “내가 전력강화위원이 아니기 때문에 특혜라는 걸 몰랐다”는 기존 입장을 되풀이했다. 당시 감독 추천 권한이 없는 이임생 축구협회 기술총괄이사가 밤 11시에 홍 전 감독을 만나고, 사흘 뒤 협회는 감독 선임을 발표했다. 이를 두고 배현진 국민의힘 의원이 “절차 무시와 행정 누락에 대해 실토하고 사과하라”고 요구하자 홍 전 감독은 “축구협회가 정상적인 절차를 거쳐 감독직을 제안하러 왔다고 생각했다”며 “국민께서 불투명하다고 볼 수 있다고 생각하지만, 특혜나 이익을 요구한 적은 없다”고 말했다. 정 전 회장도 홍 전 감독이나 2023년 위르겐 클린스만(독일) 감독 선임 과정에 규정 위반이 없었다고 강조했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJ7GSNOEKNBNLEZJM6AA3UQTJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;野의원이 정몽규에 “회장님 송구합니다”
-30일 국회 문화체육관광위원회의 대한축구협회 청문회에서 윤용근 국민의힘 의원이 정몽규 전 대한축구협회장과 문자 메시지를 주고받는 모습이 포착됐다. 윤 의원은 “더 잘 배려해 드려야 하는데 송구하다”고 했다. /서울신문&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 감독은 해외 사이트 자료를 근거로 제기된 ‘고액 연봉’ 논란에 대해선 “계약상 정확히 밝힐 순 없지만, 38억원보다 한참 낮다”고 했다. 수행 기사를 협회에 취업시키려 청탁했다는 의혹도 전면 부인했다. &lt;br&gt;&lt;br&gt;이날 일부 의원은 축구협회 운영 등과 무관한 발언으로 빈축을 사기도 했다. 최민희 더불어민주당 의원은 김진규 북중미 월드컵 대표팀 코치에게 “홍 감독이 갈등을 빚어 손흥민·이재성을 출전시키지 않은 것이냐” “남아공전에서 왜 졌느냐”고 반복해 물어 비판을 받았다. 최 의원은 이미 축구협회장에서 물러난 정 전 회장에게 ‘5선’ 도전 여부를 묻기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>더위야 씻겨라!</title>
