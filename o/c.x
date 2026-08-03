@@ -13,6 +13,186 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한병도, ‘檢 수사권 폐지법 거부권 행사하라’ 靑 찾아간 국힘에 “수고하셨단 인사는 못할 망정”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/08/03/OZDWPCPPFRAAHJSLVJVVO5QJMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/03/OZDWPCPPFRAAHJSLVJVVO5QJMU/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 01:28:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWOKYUSXDFOU7GWGBBYOLGDUIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한병도 더불어민주당 당대표 직무대행 겸 원내대표가 3일 오전 국회에서 열린 당 최고위원회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한병도 더불어민주당 당대표 직무대행 겸 원내대표가 검찰의 직접 수사권을 완전히 폐지하는 형사소송법 개정안이 위헌이라는 지적에 대해 3일 “사실이 아니다”라고 반박했다. 국민의힘이 이재명 대통령에게 형소법 개정안 거부권 행사를 요구하기 위해 청와대 앞으로 간 데 대해서는 “대통령께 수고하셨다는 인사는 못할 망정, 어처구니가 없다”고 했다.&lt;br&gt;&lt;br&gt;한 대행은 이날 오전 국회에서 열린 당 최고위원회의에서 지난달 31일 형소법 개정안을 강행 처리한 데 대해 “검사가 수사권과 기소권을 한 손에 틀어쥔 채 무소불위의 권력을 휘두르던 시대가 드디어 막을 내렸다”며 “검찰 중심의 형사 사법 체계가 국민 중심으로 전환되는, 새 시대가 열린 것”이라고 자평했다.&lt;br&gt;&lt;br&gt;한 대행은 “그러나 국민의힘은 검찰이 아무런 보완 조치도 할 수 없는 것처럼 국민 불안을 부추기는 것도 모자라, 이제는 공소 기각 조항을 두고 이 대통령까지 끌어들이며 악의적인 유언비어를 퍼뜨리고 있다”며 “국민의힘의 거짓 선동을 강력히 규탄한다”고 했다.&lt;br&gt;&lt;br&gt;민주당은 형소법 개정안 심사 과정에서 법안에 재판부가 검사의 공소(기소)에 ‘중대한 위법’이나 ‘현저한 일탈’이 있었으면 공소를 기각할 수 있다는 조항을 추가했다. 법안 처리를 주도한 민주당 김용민 의원은 이 대통령 사건에도 이 조항이 적용될 수 있느냐는 물음에 “적용될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘은 이 조항이 이 대통령 사건 공소 취소에 쓰일 수 있다고 주장했다. 또 “헌법 12조와 16조는 체포·구속·압수·수색 영장 신청의 주체로 검사를 명시하고 있다”며 “헌법이 검사에게 사건의 실체적 진실을 파악하는 수사권을 부여하고 있는데, 형소법 개정안은 이를 박탈해 위헌 소지가 매우 크다”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 한 대행은 “헌법상 검사의 영장 청구권이 곧 검사의 직접 수사권을 의미한다는 주장은 사실이 아니다”라며 “헌법재판소는 이미 2023년 헌법 12조와 16조가 규정한 검사의 영장 청구권은 검사의 수사권을 전제로 한 것이 아니며, 수사권의 조정과 배분은 국회의 입법 사항이라고 판단했다”고 주장했다. “헌법이 보장하지 않은 검사의 직접 수사권을 마치 헌법상 권한인 것처럼 호도해서는 안 된다”고도 했다.&lt;br&gt;&lt;br&gt;한 대행은 “공소 기각을 둘러싼 주장도 명백한 사실 왜곡”이라고 했다. 그는 공소 기각 사유 확대는 “부당한 공권력 행사로부터 국민을 보호하기 위한 장치”라며 “이를 대통령 재판과 연결하는 것은 아무 근거 없는 정치 공세에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZSAHTR3IJOCBLHRJWLVW3EQDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 정점식 원내대표가 3일 오전 청와대 앞에서 열린 당 최고위원회의에서 형사소송법 개정안에 대한 이재명 대통령의 재의 요구권 행사를 촉구하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 대행은 국민의힘이 이 대통령에게 형소법 개정안에 대한 재의 요구권(거부권) 행사를 요구하기 위해 이날 청와대 앞에서 당 최고위원회의를 연 것에 대해서는 “7박 11일 순방을 마치고 이제 막 귀국하시는 대통령께 수고하셨다는 인사는 못할 망정, 청와대 앞으로 가 항의성 최고위를 열고 (헌재에) 헌법소원심판을 청구하겠다고 나서니 참으로 어처구니가 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 “민주당은 정치적 선동에 진실로 대응하고, 근거 없는 위헌 공세에는 헌법과 판례로 단호히 맞서겠다”고 했다. “새로운 형사 사법 체계가 국민의 신뢰 속에 안정적으로 출범할 수 있도록 후속 입법과 제도 정비에 만전을 기하겠다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 특검 “박성재 청탁금지법 사건 국수본이 수사해야...내란 특검과 갈등 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/03/GFJRZPEJTNAGFBSAKWKFXNKU7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/03/GFJRZPEJTNAGFBSAKWKFXNKU7M/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 05:57:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSDONZXGNSGKMBTG4ZTGNZWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 2차 종합특검 사무실./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)은 3일 “박성재 전 법무부 장관의 청탁금지법 위반 사건을 (2차 특검이 아닌) 경찰청 국가수사본부에서 수사해야 한다고 본다”고 밝혔다. 내란 특검은 이 사건이 법원에서 “내란 특검 수사 범위를 벗어난다”며 공소 기각되자 지난달 30일 2차 특검에 사건을 이첩하려 했다. 반면 2차 특검은 해당 사건은 이첩의 대상이 아니라며 사건을 넘겨받길 재차 거부하고 있다.&lt;br&gt;&lt;br&gt;2차 특검은 이날 정례 브리핑에서 “박 전 장관의 청탁금지법 위반 사건은 판결이 확정돼 이첩의 대상이 아니다”라며 “수사를 개시함으로써 다시 수사를 진행해야 할 사안”이라고 했다. 그러면서 “수사 기간이 3주도 남지 않은 시점에서 (2차 특검이) 수사를 개시해 종결하긴 사실상 불가능하다”며 “결국 국수본에 수사를 의뢰해야 한다고 본다”고 했다. 또 “2차 특검과 내란 특검 간 갈등이 있는 것처럼 이해되는 것 같은데 그런 것은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;박 전 장관은 12·3 비상계엄 관련 내란 중요 임무 종사 혐의와 함께 김건희 여사의 청탁을 받고 검찰의 ‘디올 백 수수’ 의혹을 알아본 혐의(청탁금지법 위반)로 재판에 넘겨졌었다. 1심 재판부인 서울중앙지법 형사33부(재판장 이진관)는 지난 6월 22일 박 전 장관에게 징역 25년을 선고하고 박 전 장관을 법정 구속했지만, 그의 청탁금지법 위반 혐의에 대해서는 “특검 수사 범위를 벗어났다”며 공소 기각했다.&lt;br&gt;&lt;br&gt;이에 지난달 30일 내란 특검은 “이 사건은 종합특검법 제2조 제1항 제13호에 따라 종합특검의 수사대상에 해당한다”며 “이송 관련 규정인 형사소송법 제256조(타관송치)에 따라 종합특검에 이첩했다”고 했다. 그런데 2차 특검은 “내란특검법 제18조에 따라 공소제기 후 판결이 확정된 사건은 10일 이내에 검찰총장에게 인계해야 한다”며 “이첩의 대상이 될 수 없다”고 내란 특검 측 요청을 거부했다. 이후 내란 특검은 한 차례 더 “특검 수사 대상이 아니라는 사유로 공소 기각이 된 것이지 혐의 자체에 대해 확정된 것이 아니기 때문에 공소 제기가 가능하다”며 2차 특검 측 주장에 반박하는 내용의 공문을 보냈다. 내란 특검 측 이첩 요청에 대해 2차 특검이 이날 최종적으로 거부 의사를 표명한 것이다.&lt;br&gt;&lt;br&gt;한편, 2차 특검은 ‘경찰의 통일교 간부 수사 무마 의혹’과 관련해 권성동 전 국민의힘 의원에게 재차 출석을 요구했으나 권 전 의원이 불출석 의사를 밝혔다고 한다. 2차 특검은 경찰청 수뇌부가 “한학자 총재 등 통일교 간부들이 미국 라스베이거스에서 수백억원대 원정 도박을 했다”는 첩보를 2022년 입수하고도 수사에 착수하지 않고, 오히려 이 정보를 권 전 의원 등에게 유출했다고 보고 있다. 권 전 의원은 지난달에도 “참고인 조사를 위해 출석하라”는 2차 특검 측 요청을 거절했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 페인트 보관 창고서 화재… 1명 사망, 4명 부상</title>
+      <link>https://www.chosun.com/national/regional/2026/08/03/CJDUAQBBMRHH7AB3SAMXYXLAL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/03/CJDUAQBBMRHH7AB3SAMXYXLAL4/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 01:06:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJZYUK32NNLNBCMK4SAXXDIY6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;울산소방본부가 3일 오전 8시 20분쯤 울산 남구 한 페인트 자재 창고에서 난 불을 끄고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 8시 20분쯤 울산 남구 삼산동 한 페인트 공장에서 불이 나 60대 여성 1명이 숨지고, 60대 남성 1명이 중상을 입는 등 4명이 다쳤다.&lt;br&gt;&lt;br&gt;울산소방본부에 따르면 60대 여성은 병원으로 이송됐으나 숨졌으며, 60대 남성은 치료를 받고 있다. 경상을 입은 3명은 귀가 조치됐다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 대응 1단계를 발령하고 진화에 나서 화재 발생 약 40분 만에 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;이날 불은 페인트 자재 보관 창고에서 작업을 하던 지게차에서 발생했다. 불은 인근 4개 건물로 번졌으나 소방 당국이 이날 낮 12시 26분 완전히 껐다.&lt;br&gt;&lt;br&gt;울산 남구는 유독가스 등 2차 피해를 우려해 인근 주민들에게 안전 안내 문자를 보내 긴급 대피를 당부했다.&lt;br&gt;&lt;br&gt;소방 당국은 잔불을 모두 정리하는 대로 정확한 화재 원인과 피해 규모를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천서 상의 탈의 배회 남성 숨져… “체온 40.8도, 사인 열사병”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/03/A2X63GAPMJCIRPKSFJHNQJRGN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/03/A2X63GAPMJCIRPKSFJHNQJRGN4/</guid>
+      <dc:creator>인천=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 05:56:15 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HKRUUMXZHZJT3FNCWJ4HZPVQ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 9일 인천 부평구 부평소방서에서 119구급대원들이 온열질환자 발생에 대비해 아이스팩, 생리식염수 등 폭염 대비 물품을 점검하고 있다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국적으로 폭염이 이어지는 가운데 인천에서 첫 온열질환 사망자가 발생했다. &lt;br&gt;&lt;br&gt;3일 인천소방본부와 계양경찰서 등에 따르면 지난 2일 오전 6시 20분쯤 인천시 계양구 길거리에서 “상의를 입지 않고 배회하는 40대 남성 A씨가 돌아다닌다”는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 당시 체온 38도가 넘는 상태로 119구급대에 의해 병원으로 옮겨졌다. 신고 당시 환자 상태는 정신이 명료하지 않은 상태였으며 전신에 가벼운 찰과상이 있었다. &lt;br&gt;&lt;br&gt;A씨는 당시 음주를 했다고 했지만 음주측정기에 측정되지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;2일 오전 7시 32분쯤 병원으로 옮겨진 A씨의 체온은 40.8도였다. 이후 상태가 점점 악화되며 A씨는 이송된 지 하루 만인 3일 오전 4시 7분쯤 숨졌다. &lt;br&gt;&lt;br&gt;사망 원인은 열사병이며 직접적인 사인은 급성신손상으로 확인됐다. A씨를 포함해 지난 5월 15일부터 이날 오전 10시까지 인천에서 모두 92명의 온열 질환자가 발생한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 첫 AI책임관에 정상훈 행정1부시장 직무대리</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/03/CURF5CLLXRAJ5HEYKOAW6YNU74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/03/CURF5CLLXRAJ5HEYKOAW6YNU74/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 00:40:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4DSOLCGA2GEZJUHE4DMNRQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정상훈 서울시복지실장이 2024년 9월 9일 서울시청에서 서울시 돌봄서비스 공공성 강화계획을 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의 인공지능(AI) 정책을 총괄할 첫 인공지능책임관(CAIO)에 정상훈 행정1부시장 직무대리가 지정됐다.&lt;br&gt;&lt;br&gt;3일 서울시에 따르면 오세훈 서울시장은 최근 정 직무대리를 서울시 인공지능책임관으로 지정하고 대통령 직속 국가인공지능전략위원회에 이를 통보했다.&lt;br&gt;&lt;br&gt;정 직무대리는 앞으로 서울시 AI 정책 수립과 시정 전반의 AI 도입·활용을 총괄한다. 국가인공지능전략위원회 산하 인공지능책임관협의회에도 서울시 대표로 참여해 중앙정부와 AI 정책을 협의하게 된다.&lt;br&gt;&lt;br&gt;인공지능책임관협의회는 중앙부처 차관급 공무원과 광역자치단체 부시장·부지사 등으로 구성된 협의체다. 부처별 AI 전략 추진 상황을 점검하고 데이터 개방과 활용, 규제 개선, 범정부 AI 사업 등을 논의한다. 협의회에서 논의된 내용은 국가인공지능전략위원회에 보고된다.&lt;br&gt;&lt;br&gt;서울시는 민선 9기 들어 AI를 핵심 과제로 내세우고 있다. 오세훈 시장은 취임 첫 정책으로 ‘청년 AI 사다리 지원 계획’을 발표해 서울 청년에게 생성형 AI 이용권을 지원하고, 대학가를 중심으로 고성능 AI를 활용할 수 있는 ‘서울 AI 라운지’를 조성하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 이와 함께 ‘서울 AI 디지털 배움터’를 통해 시민 대상 AI 활용 교육을 운영하고, AI·데이터 분야 공인 자격시험에 응시하는 청년에게 응시료와 축하금을 지원하는 사업도 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“전 재산 바쳐 독립운동”… ‘초대 국무령’ 이상룡 선생 공적 재조명 </title>
+      <link>https://www.chosun.com/national/2026/08/03/DBI5K22JDRH73PA5UKI7QBU3FE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/03/DBI5K22JDRH73PA5UKI7QBU3FE/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 06:06:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UP4LZABVKNWAXGVAR4CU273N7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석주 이상룡 선생 생전 모습./ 공훈전자사료관 홈페이지 화면 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국 임시정부 초대 국무령을 지낸 석주 이상룡 선생의 독립운동 공적을 재평가해 건국훈장 최고 등급인 대한민국장을 추서해 달라는 청원이 국가보훈부에 접수됐다.&lt;br&gt;&lt;br&gt;청원에는 전 재산을 처분해 만주 독립운동 기지를 건설하는 등 이상룡 선생의 공적을 기존 훈격보다 높게 평가해야 한다는 내용이 담겼다.&lt;br&gt;&lt;br&gt;경북호국보훈재단은 2678명의 서명부와 함께 이런 내용의 청원을 국가보훈부에 냈다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;재단 측은 기존 1962년에 추서된 건국훈장 독립장은 당시 제한된 연구 자료를 바탕으로 이뤄진 것이라서 이상룡 선생의 생애 전반을 고려한 자료를 토대로 재심사를 요청했다. 건국훈장은 최고 등급인 대한민국장부터 차례로 5등급으로 나뉜다.&lt;br&gt;&lt;br&gt;이상룡 선생은 1858년 안동에서 태어나 의병운동과 애국계몽운동에 참여했다. 1911년에는 전 재산을 처분하고 압록강 넘어 서간도(西間島)로 망명해 독립운동 기지 건설에 앞장섰다. &lt;br&gt;&lt;br&gt;앞서 지난 6월 정부는 1970년대 이전 훈격 부여 독립 유공자를 대상으로 공적을 재평가해 추가 확인된 사실에 대해 새롭게 포상하는 방식을 검토한다고 밝힌 바 있다. 재평가 추진 이유는 국회나 지방자치단체, 기념사업회 등으로부터 관련 요청이 이어져 왔기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCODFH3LH5EIXIHDPKLAJTB5S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 안동시 법흥동에 위치한 석주 이상룡 선생 본가 임청각. /안동시 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 초 ‘영남만인소 집행위’도 이상룡 선생을 비롯해 이육사 선생 등 독립 유공자 20인에 대한 재평가를 요구하며 서울 광화문 광장에서 집회를 가졌다. 이어 1만명의 시민 이름을 올린 만인소(萬人疏) 형식의 상소문을 청와대에 전달했다.&lt;br&gt;&lt;br&gt;만인소는 다수의 선비가 이름을 올려 나라에 뜻을 전하던 집단 청원 방식이다. 영남만인소는 1792년 사도세자 명예 회복을 요구하는 조선 유생 1만명이 상소를 올린 데서 시작됐다. 조선 후기 7차례 상소를 끝으로 사라졌던 영남만인소는 140여 년 만에 독립운동가 서훈 문제로 다시 부활한 것이다. &lt;br&gt;&lt;br&gt;경북호국보훈재단은 4일 오후 국립경상대학교 별관에서 독립 유공자 후손, 전문가 등이 모여 이상룡 선생의 공적 재심사 공론화 포럼을 연다. 이날 강연 주제는 황선익 교수의 ‘독립 유공자 재조명과 상훈 제도의 발전 방향’, 강윤정 교수의 ‘석주 이상룡 선생의 독립운동과 역사적 위상’ 등이다. &lt;br&gt;&lt;br&gt;재단 관계자는 “이번 공론화 포럼은 이상룡 선생의 공적을 다시 살피고 독립 유공자 공적 평가와 상훈 제도의 발전을 모색하는 계기가 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정청래 “역전승… 끝내 승리할 것” 김민석 “-7%p면 안전 승리인데 -1%p”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/08/03/SVXOS7JEXBGTDHCLFM2HPU3HXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/03/SVXOS7JEXBGTDHCLFM2HPU3HXM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 23:59:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPOOD6CNN5NXVMJMIZE75GHSLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정청래, 김민석 더불어민주당 당대표 후보가 지난 2일 부산 벡스코에서 열린 당대표·최고위원 합동 연설회에서 각기 다른 곳을 보며 웃고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충청과 부산·울산·경남(PK) 지역 경선에서 승패를 주고받은 더불어민주당 정청래·김민석 당대표 후보가 경선 결과에 대해서도 상반된 해석을 내놨다. 정 후보는 역전승을 했다며 이를 이어나가 최종 승리하겠다고 했고, 김 후보는 큰 표 차 패배를 예상했던 지역에서 정 후보와 비슷한 득표율을 얻었다며 이기고 있다고 주장했다.&lt;br&gt;&lt;br&gt;민주당 차기 지도부 선출을 위한 지역별 경선이 시작된 가운데, 김 후보는 지난 1일 충청 경선에서, 정 후보는 지난 2일 PK 경선에서 승리했다. 충청에서는 김 후보가 45.06%를 얻어, 44.61%를 얻은 정 후보를 0.45%포인트(p) 차로 앞섰고, 경남 표에 5%가 가산되는 PK에서는 정 후보가 46.64%를 얻어, 43.84%를 얻은 김 후보를 2.8%p 차로 앞섰다. 이틀 치를 종합한 결과는 정 후보 45.52%, 김 후보 44.51%로 1.01%p 차였다.&lt;br&gt;&lt;br&gt;이에 대해 정 후보는 지난 2일 저녁 페이스북에 글을 올려 “부울경에서 역전승했다”며 “더 겸손하게 최선을 다해 끝내 승리하겠다”고 했다. 기자들을 만나서는 “(2002년 대선 후보 경선에서) 조직도 없고 국회의원도 없었던 노무현 대통령이 조직을 갖고 국회의원 줄 세우기를 했던 이인제(전 의원)를 이겼듯 정청래가 김민석을 이긴 것”이라고 했다. 그러면서 “노무현 정신으로 반드시 김민석 후보를 이길 것”이라고 했다.&lt;br&gt;&lt;br&gt;정 후보는 3일 오전에는 페이스북에 글을 올려 “부울경, 충청 노사모들에게 부탁한다”며 “호남 지인들에게 전화해 달라”고 했다.&lt;br&gt;&lt;br&gt;반면 김 후보는 같은 날 밤 X(옛 트위터)에 올린 글에서 “7%p 마이너스면 최종 안정 승리라 본 충청과 부울경에서 1% 마이너스”라고 했다. 김 후보는 충청·PK 경선을 앞두고 이 지역들이 자기에게 불리한 지역이라며 “7%p(이내)까지 밀리는 정도면 2주 차에 비기고, 3주 차에 대승하면서 안정적으로 이길 것”이라고 했었다. 초반 열세를 강원·제주와 대구·경북 경선에서 만회하고 막판에 당원이 가장 많은 호남과 수도권에서 크게 이겨 최종 승리한다는 것이다.&lt;br&gt;&lt;br&gt;김 후보는 “국민 여론조사까지 감안하면 첫 주 결과는 약간 우세로 마감된 듯하다”며 “끝까지 절실, 성실, 진실하게 뛰겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환자 만족도 빅5 굴욕… 1위 동산병원</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/03/M5Q3TA7MMVCVDMVRHANRZRSCZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/03/M5Q3TA7MMVCVDMVRHANRZRSCZ4/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 06:03:28 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDGSK267N5F6FBUXIAULPI7F4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건강보험심사평가원이 발표한 '2025년(5차) 환자경험평가'에서 전국 376개 요양기관 가운데 종합점수 96.55점을 받아 전체 1위를 차지한 계명대 동산병원 전경./계명대 동산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험심사평가원이 최근 공개한 환자 경험 평가에서 이른바 빅5라 불리는 대형 병원들이 환자 만족도에서는 좋지 못한 점수를 받았다. 의료의 질과 별개로 환자가 느낀 서비스의 질을 평가하는 이 지표에서 수도권 주요 병원들은 이름값과는 거리가 있는 서비스 만족도를 보였다.&lt;br&gt;&lt;br&gt;3일 본지가 심평원의 환자 경험 평가 결과를 분석한 결과, 이번 평가에서 1위는 계명대 동산병원이 차지했다. 동산병원이 1위를 차지한 것은 2024년 발표에 이어 두 번 연속이다.&lt;br&gt;&lt;br&gt;심평원은 2018년부터 종합병원 이상 의료기관에 입원한 경험이 있는 환자들을 대상으로 2년에 한 번씩 만족도를 조사해 발표하고 있다. 이번 조사는 지난해 8~12월 종합병원 이상 의료기관 476곳의 성인 퇴원 환자 13만306명을 대상으로 진행해 지난달 31일 결과를 발표했다.&lt;br&gt;&lt;br&gt;환자 만족도 조사인 만큼 의료의 질보다는 ‘간호사가 환자를 얼마나 존중하는가’, ‘의사가 환자의 말을 얼마나 경청하는가’, ‘투약·검사·처치의 이유를 잘 설명하는가’ 등이 조사의 대상이다. 구체적으로 간호사 영역, 의사 영역, 투약 및 치료 과정, 정서적 지지, 환자 안전과 병원 환경, 환자 권리 보장, 전반적 평가까지 7가지 항목을 대상으로 점수를 매긴다. 올해는 특히 정서적 지지 영역이 추가됐다. 올해부터는 90점 이상에 1등급, 85점 이상 90점 미만에 2등급 등 등급 평가도 매기기로 했다.&lt;br&gt;&lt;br&gt;1등을 차지한 동산병원은 평점 96.55점을 받았다. 동산병원은 전 직원 맞춤형 소통 매뉴얼 83종을 자체 개발해 운영하는 병원이다. 회진 일정을 미리 알리고 질문을 준비할 수 있게 한다든가, 실시간 수술 상황 안내 문자 발송 등이 좋은 평가를 받았다.&lt;br&gt;&lt;br&gt;이번 평가에서 눈에 띄는 점은 빅5 병원의 부진이다. 서울 주요 병원에서는 서울아산병원이 95.31점을 받으며 전체 상급종합병원에서 5위를 차지해 겨우 체면치레를 했다. 반면 서울성모병원은 12위(93.64점), 삼성서울병원은 21위(91.75점), 세브란스병원은 37위(88.19점), 서울대병원은 45위(85.96점)에 위치하며 순위권 밖으로 밀렸다. 특히 세브란스병원과 서울대병원은 등급에서도 2등급을 받으면서 체면을 구겼다. 서울대병원은 세부 영역에서도 정서적 지지 영역에서 80점도 채 안 되는 79.39점을 받았다.&lt;br&gt;&lt;br&gt;부산대병원이 전체 상급 종합 병원 47곳 중 마지막 순위를 차지하고, 점수도 83.44점을 받으며 유일한 3등급을 받아들였지만 이외 지방 상급종합병원은 이번 평가에서 좋은 평가를 받았다. 전체 1~4위가 모두 지방 병원들이었다. 인제대 부산백병원(96점), 단국대병원(95.95점), 영남대병원(95.49점)이 순서대로 2~4위를 거머쥐었다.&lt;br&gt;&lt;br&gt;이번 평가 결과를 두고 대형 병원들이 우수한 의료진과 시설을 갖추고 있음에도 환자가 직접 체감하는 서비스와 정서적 교감 측면에서는 부족하다는 것이 드러났다는 지적이 나온다. 다만 일각에선 중증 환자를 많이 받는 병원일수록 환자들의 병세 설명 등에 들이는 시간은 부족할 수 있다는 의견도 있다. 대한병원협회 관계자는 “환자 경험 평가가 병원의 서열화나 제재 수단이 아니라, 병원이 스스로 의료 서비스를 개선할 수 있는 피드백 도구가 되어야 한다고 생각한다”며 “단순히 줄 세우기보다는 결과에 대한 충분한 분석과 컨설팅 지원이 함께 이뤄져야 할 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부천 식당서 일산화탄소 중독 추정 사고… 3명, 호흡곤란 등 증세</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/03/YIWC3TWDTVC5BIZTMKNRCO73VY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/03/YIWC3TWDTVC5BIZTMKNRCO73VY/</guid>
+      <dc:creator>부천=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 05:20:29 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3NFPS5LM5CEJCBKLG6BJCICIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천의 한 식당에서 일산화탄소 중독으로 추정되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;3일 부천소방서에 따르면 이날 오전 8시 58분쯤 부천시 원미구 중동의 한 식당에서 50대 여성 A씨 등 3명이 일을 하다가 쓰러졌다는 신고가 접수됐다. 신고를 받고 출동한 소방 당국은 A씨 등을 병원으로 이송했다.&lt;br&gt;&lt;br&gt;이들은 호흡곤란, 어지럼증, 구토 등 증상을 보였으며 생명에는 지장이 없는 상태로 알려졌다. 경찰과 소방 당국은 일산화탄소 중독에 의해 A씨 등이 이상 증세를 보인 것으로 보고 구체적인 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;소방 당국이 현장에 출동해 가스 탐지를 실시한 결과 일산화탄소 110ppm이 측정됐다. &lt;br&gt;&lt;br&gt;일산화탄소 110ppm은 ‘초기 중독’ 증상이 나타나기 시작하는 중간 정도의 농도다. 100ppm을 넘어가면 호흡곤란, 두통, 어지럼증, 메스꺼움, 구토 등의 초기 중독 증상이 시작된다. 가령 800 ppm 농도에 45분쯤 노출되면 두통과 메스꺼움이 발생하고, 2시간 내 실신과 혼수상태에 빠진다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 텃밭서 일하던 70대 숨져... 체온 39.9도, 온열 질환 추정</title>
+      <link>https://www.chosun.com/national/regional/2026/08/03/L5XFGDCPL5CZPLPXQG6UCNDYOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/03/L5XFGDCPL5CZPLPXQG6UCNDYOU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 01:50:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COGRBTTUXRCSTJXJGF36W4M7IU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기록적인 무더위가 이어지는 부산에서 온열 질환으로 추정되는 70대 사망자가 발생했다.&lt;br&gt;&lt;br&gt;3일 부산소방재난본부에 따르면, 전날 오후 6시 24분쯤 부산 강서구 대저동 한 텃밭에서 아버지가 쓰러져 숨을 쉬지 않는다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 70대 남성 A씨에게 심폐소생술을 하며 인근 병원으로 이송했지만 숨졌다. 당시 A씨의 체온은 39.9도였다. 해당 지역엔 폭염중대경보가 발효 중이었다. 경찰 관계자는 “기저 질환과 폭염으로 인한 탈수 등이 복합적으로 작용해 숨진 것으로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;부산에선 지난달 18일부터 이날까지 총 17일간 폭염 특보가 유지되고 있다. 지난달 29일엔 부산 지역 낮 최고기온이 38.8도까지 올라 1904년 근대 기상 관측 이래 122년 만에 가장 높은 기온을 기록했다.&lt;br&gt;&lt;br&gt;무더위가 이어지면서 119에 온열 질환 의심 신고도 늘었다. 지난 5월 15일부터 이달 2일까지 부산 소방에 접수된 온열 질환 신고 건수는 총 78건(병원 이송 55명)이다. 전년 같은 기간(70건·병원 이송 40명) 대비 12.9% 증가했다.&lt;br&gt;&lt;br&gt;질병관리청 온열 질환 응급실 감시 체계 통계에 따르면, 지난 5월 15일부터 이달 1일까지 부산 지역 누적 온열 질환자는 56명이다. 이 중 사망자는 1명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영남 이어 수도권도...오늘부터 폭염 ‘절정 구간’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/03/V4OUPDZAU5BYPFSQAW2OUAWNCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/03/V4OUPDZAU5BYPFSQAW2OUAWNCM/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 02:30:11 +0000</pubDate>
+      <content:encoded>월요일인 3일과 화요일인 4일에도 전국 대부분 지역에 폭염 특보가 발효된 가운데 낮 최고기온이 40도에 육박하는 무더위가 계속되겠다. 밤에도 전국 곳곳에서 열대야가 나타날 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZDIYZZGU4DINBYGZRGMOBSMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 올해 첫 폭염주의보가 발표된 29일 오후 서울 종로구 광화문 네거리에서 시민들이 횡단보도 그늘막 아래에 모여 햇볕을 피하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 3일엔 전국 대부분 지역의 최고 체감 온도가 35도 안팎까지 오르고, 폭염 경보가 내려진 일부 지역에서는 생명을 위협할 정도의 ‘극단적인 더위’가 나타날 수 있다. 늦은 오후부터 저녁 사이 강원 남부 내륙과 충북 북부에는 5~10㎜의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;화요일인 4일에도 아침 최저기온은 23~27도, 낮 최고기온은 31~37도로 무더위가 이어지겠다. 오후부터 저녁 사이 충청권과 전라권, 경상 서부 내륙, 제주도 산지·중산간에는 소나기가 내리는 곳이 있겠다. 예상 강수량은 대전·세종·충남과 충북, 경북·경남 서부 내륙이 5~40㎜, 광주·전남과 전북이 5~60㎜, 제주도 산지·중산간이 5㎜ 안팎이다. 소나기가 내리는 동안에는 기온이 일시적으로 낮아지겠지만, 비가 그친 뒤 다시 기온이 오르고 습도까지 높아져 체감 더위는 높게 나타날 전망이다.&lt;br&gt;&lt;br&gt;이번 폭염은 대기 상층의 티베트고기압과 중·하층의 북태평양고기압이 한반도를 겹겹이 덮은 가운데 맑은 날씨와 강한 햇볕이 이어지면서 발생한 것으로 분석된다. 영남 지역에서는 서풍 계열의 바람이 산맥을 넘으며 뜨겁고 건조해지는 현상과 분지 지형까지 더해져 기온이 유독 높게 올랐다. 이 때문에 지난 2일 경남 양산의 낮 최고기온은 42.5도까지 치솟아 국내 기상관측 사상 최고기온 기록을 새로 썼다. 양산에서는 지난달 29일부터 닷새 연속 40도 이상 최고 기온이 나타났고, 부산과 창원 등에서도 40도 안팎의 극한 폭염이 이어졌다. &lt;br&gt;&lt;br&gt;폭염은 이번 주부터 수도권을 비롯한 한반도 서쪽에서도 한층 강해질 전망이다. 동풍 계열의 바람이 태백산맥을 넘으며 뜨겁고 건조해져 서울 등 산맥 서쪽 지역의 기온을 끌어올리기 때문이다. 기상청은 다음 주까지 전국 곳곳에 ‘극한 폭염’이 이어질 것으로 보고 있다. 뚜렷한 비 소식도 없어 당분간 폭염과 열대야가 단기간에 해소되기는 어려울 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>당진서 폭염 속 논에 나간 60대 숨져… “온열질환 사망 추정”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/08/03/BJEPJVOXYREOTG234RWOTDCSVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/08/03/BJEPJVOXYREOTG234RWOTDCSVA/</guid>
+      <dc:creator>당진=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 04:18:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염 경보가 내려진 충남 당진에서는 논에 나갔던 60대 남성이 숨졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 2일 오후 3시 40분쯤 충남 당진시 합덕읍의 한 도랑에서 A(60대)씨가 숨진 채 발견됐다. 이날 오전 논일을 하러 나간 A씨가 귀가하지 않자 가족들이 찾아나서 도랑에 쓰러져 있는 A씨를 발견한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 보건 당국은 A씨가 폭염 속에서 농작업을 하던 중 온열 질환으로 쓰러져 숨진 것으로 보고 있다. 검안서에는 ‘온열 질환에 의한 병사’로 기록됐다.&lt;br&gt;&lt;br&gt;충남도가 A씨를 최종적으로 온열 질환에 따른 사망으로 결론지을 경우 올해 온열 질환에 의한 충남 지역 사망자는 2명으로 늘게 된다. 앞서 지난달 12일에는 천안시 입장면의 한 비닐하우스에서 80대 노인이 온열 질환으로 숨졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국수본 특별수사단, 장윤기 성범죄 수사 광산서 여청과 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/03/GDMCATMIEJH3HBPWUKLOTIZGFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/03/GDMCATMIEJH3HBPWUKLOTIZGFA/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 04:13:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDCOJYGNTGGZBTMRSWKNDGGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도심에서 일면식 없는 여고생을 살해한 혐의를 받는 장윤기(24)가 지난 5월 14일 오전 광주 서부경찰서에서 검찰에 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여고생 살해범 장윤기(24)를 둘러싼 증거인멸·수사 외압·부실 수사 의혹을 수사 중인 국가수사본부(국수본)가 장의 성범죄 사건을 수사한 전남광주 광산경찰서 여성청소년과를 대상으로 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;국수본 장윤기 사건 진상규명 특별수사단은 3일 광산서 여청과에 수사관을 보내 압수수색 영장을 집행 중이다. 국수본은 장을 초동 수사한 광산서 수사팀이 현직 경찰인 장의 아버지와 유착해 증거를 인멸하고 수사를 축소했다는 의혹에 대해 수사 중이다.&lt;br&gt;&lt;br&gt;국수본은 당시 수사팀장인 박모(59) 경감이 윗선의 지시를 받아 장이 베트남 여성을 상대로 저지른 성범죄 사건과 여고생 살인사건을 분리 수사해 강간 등 살인 혐의를 적용하지 않은 것으로 의심한다.&lt;br&gt;&lt;br&gt;국수본은 박 경감의 상사인 전 광산서장 김모 경무관과 전 광산서 형사과장 박모 경정을 직권남용 등 혐의로 입건해 수사 중이다. 박 경정에 대해서는 두 차례나 구속영장을 신청했지만, 모두 기각됐다.&lt;br&gt;&lt;br&gt;국수본은 박 경정에 대해 두 차례나 구속영장을 신청했지만, 모두 기각됐다. 광주지법 정교형 영장전담 부장판사는 지난달 31일 “종전 구속영장 청구 기각 결정 이후에 추가로 확보된 증거 자료까지 종합해도 피의자의 범죄 혐의에 관하여 다툼의 여지가 있다”며 “현 단계에서 피의자를 구속하여야 할 필요성 등을 인정하기 어렵다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;국수본은 박 경정의 혐의를 보강하기 위해 이번 압수수색에 착수한 것으로 파악됐다. 광산서 여청과가 박 경정 등의 부당한 외압으로 인해 장의 성범죄 사건을 분리 수사했는지 따져보겠다는 취지로 풀이된다.&lt;br&gt;&lt;br&gt;하지만 박 경정 측은 “사건 처리 과정에 윗선의 부당한 지시는 없었다”며 “저 또한 (부당한) 지시를 내린 적 없다”는 입장이다.&lt;br&gt;&lt;br&gt;장의 살인과 성범죄 사건 분리 수사는 국수본 지시를 따른 것이라는 주장도 하고 있다. 박 경정의 변호인 측은 “살인이 성범죄 목적으로 이뤄졌는지 확인하려면 성폭행 사건도 병합해야 한다고 판단해 사건 병합을 세 차례 국가수사본부에 요청했지만 거부당했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민형배 전남광주특별시장 “내달 중 정책·복지 통합 단일안 내놓겠다”</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/08/03/XI7DJPYKYZDAXAR3VSWIOKQ4TE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/08/03/XI7DJPYKYZDAXAR3VSWIOKQ4TE/</guid>
+      <dc:creator>무안=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 03:49:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOW2MJATNRCY7N2CPBLUG33I2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민형배 전남광주통합특별시장이 3일 전남광주 무안군 무안청사에서 출범 한 달 기자간담회를 열고 있다./전남광주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민형배 전남광주통합특별시장이 3일 전남광주 무안군 무안청사에서 출범 한 달 기자간담회를 열고 “현상 유지에 급급한 관리형 시장이 아니라 창조력과 추진력을 갖춘 ‘문제 해결형 시장’으로서 지역 비전을 실현하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;민 시장은 이날 간담회에서 “7월 1일 출범이 ‘통합특별시’라는 큰 그릇을 만드는 일이었다면, 이제부터는 전남광주의 역량을 한데 모아 진정한 통합을 이뤄내야 할 때”라고 말했다. &lt;br&gt;&lt;br&gt;그는 “불과 6개월 만에 유례없는 광역 행정 통합을 시민 불편 없이 출범시킨 것은 성공적이지만, 관료 권력이 아닌 시민의 힘이 이끄는 자치 패러다임의 대전환이 절실하다”며 “복지 제도 등 1986년 시·도 분리 이후 40여 년간 다르게 운영된 각종 시책을 원점에서 검토해 9월 초까지 정책 통합 단일안을 내놓겠다”고 말했다.&lt;br&gt;&lt;br&gt;최대 지역 현안인 광주 군공항 무안 이전과 국립의과대학 신설에 대해서도 강력한 돌파 의지를 피력했다. 민 시장은 “시민 삶과 직결된 갈등 사안일수록 책임을 피하지 않겠다”며 “무안군이 내건 공항 이전 선결 조건 수용을 위해 시 자체 조달 7900억원을 포함해 1조원대 지원 방안을 정부와 협의해 속도감 있게 추진하겠다”고 말했다. &lt;br&gt;&lt;br&gt;국립의대 신설과 관련해서도 “시민 생명권과 직결된 사안인 만큼 대학에만 맡겨두지 않겠다”면서 “양 대학 총장과 직접 만나 10일까지 원점에서 최적의 타협안을 도출하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TP3ROESP3ZFP5EHTXQAMTIX3AE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민형배 전남광주통합특별시장이 3일 전남광주 무안군 무안청사에서 출범 한 달 기자간담회를 열고 있다./전남광주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주 군공항 종전 부지 등에 들어설 800조원 규모 ‘호남권 반도체 클러스터’를 두고는 “전남광주 천년 역사에 남을 대도약의 기회”라고 말했다. &lt;br&gt;&lt;br&gt;민 시장은 “매주 국무회의에서 원거리 참석자 발언 기회를 적극적으로 활용해 전남광주의 목소리를 국정에 직접 반영하고 있다”며 “2027년 착공을 목표로 전력·용수 공급망 등 인프라를 차질 없이 닦겠다”고 말했다.&lt;br&gt;&lt;br&gt;제2차 수도권 공공기관 이전 배정에 대해서는 정부를 향해 뚜렷한 요구 조건을 제시했다. 민 시장은 “대통령이 행정 통합 지역에 공공기관 집중 배치를 약속한 바 있다”며 “통합 특별법상 ‘불이익 배제’ 조항을 근거로 옛 전남과 광주 2개 시도 몫에 상응하는 농협·수협중앙회 등 핵심 기관 45곳을 반드시 유치하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;명칭과 기능이 겹치는 산하 공공기관 25곳의 통폐합 추진에 대해서도 “단순 통합을 넘어 대 시민 서비스 효율을 높이는 기능 특화에 초점을 맞춰 연내 인선 및 정관 정비를 마치겠다”고 말했다. &lt;br&gt;&lt;br&gt;민 시장은 “권력은 나눌수록 건강해지고 균형을 이룰 때 민주주의는 단단해진다”며 “신뢰와 참여를 기반으로 통합의 성과가 시민 삶터에 스며드는 진정한 자치 정부를 구현하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 “형소법 빛의 속도로 개정, 부작용 땐 신속 보완”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/03/WJZWD2LXMVBOBIO3SXQST44N6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/03/WJZWD2LXMVBOBIO3SXQST44N6M/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 02:13:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2QFVMP57VPTJN5ROBADQCXMRY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 3일 경기 과천시 정부과천청사 법무부에서 열린 신임검사 임관식에서 임명장을 수여하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검사의 보완수사권 폐지를 골자로 한 형사소송법 개정안이 국회 본회의를 통과한 가운데, 정성호 법무부 장관은 3일 “이렇게 빛의 속도로 형사소송법에 개정된 것은 처음”이라며 “예측하지 못했던 부작용이나 문제점이 나온다면 신속하게 보완해야 한다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 정부과천청사에서 열린 신임검사 임관식에 참여한 뒤 기자들과 만나 “새로운 제도가 선의로 설계됐지만 어떤 부작용이 나올지, 현장에서 어떻게 작동할지 아무도 예측하지 못한다”며 “형사사법제도는 국민의 생명과 재산, 안전을 지키는 데 있어 중요하기 때문에 피해가 악화되는 등 부작용이 생기면 빨리 고쳐야 한다”고 했다.&lt;br&gt;&lt;br&gt;검사의 직접 수사를 없애고, 검사의 보완수사권과 직접 영장 청구권도 폐지하는 내용의 형사소송법 개정안은 지난달 31일 여권 주도로 국회 본회의를 통과했다. 정 장관은 표결에 참여하지 않았다. 같은 날 구자현 검찰총장 직무대행은 “법 개정에 책임을 통감한다”며 사직서를 제출했다.&lt;br&gt;&lt;br&gt;이재명 대통령에게 거부권 행사를 촉구해야 한다는 정치권 일각의 주장에 대해 정 장관은 “거부권 제도가 도입된 이래 장관이 거부권 행사를 권요한 적이 있냐”며 “법무부 장관으로서 거부권 행사를 권유하는 건 적절치 않은 일”이라고 했다. 또 법무부 차원에서 헌법재판소에 권한쟁의 심판을 청구하는 것 역시 적절치 않다고 했다.&lt;br&gt;&lt;br&gt;최근 정 장관은 사의를 표명했다고 알려졌는데, 이에 대해서는 “이 문제(형소법 개정) 때문이 아니라 건강 상태가 좋지 않아 장관직을 수행하는 데 부담이 있기에 사의를 표명한 것”이라며 “형사소송법 개정이 끝났고, 검찰 뿐만 아니라 교정 상황, 범죄 예방과 출입국 관리에 있어서도 상당한 변화를 (장관 취임 이후) 만들어 냈기 때문에 이제 추가적으로 제가 할 일이 별로 남아 있는 것 같지 않다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 연일 폭염... 재해구호기금 1억원 긴급 투입 </title>
+      <link>https://www.chosun.com/national/regional/2026/08/03/THQBQVJCX5FWTDGLR4RQDRI4V4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/03/THQBQVJCX5FWTDGLR4RQDRI4V4/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 01:10:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAQU6YSKLNIWFA6SZS7AXK7Y6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여름 피서 절정기이자 전국적으로 기록적인 폭염이 덮친 2일 부산 해운대구 해운대해수욕장에 피서객이 몰려 북적이고 있다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;부산시는 최근 기록적인 폭염에 취약계층의 건강과 안전을 위해 재해구호기금 1억원을 긴급 투입한다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;이번 재해구호기금은 부산사회복지공동모금회를 통해 집행한다.&lt;br&gt;&lt;br&gt;지원금은 경로당 225곳의 운영 시간 연장에 필요한 냉방비를 비롯해 종합사회복지관, 노숙인종합지원터, 장애인복지관 등에 각각 냉방비와 폭염 예방 물품 등을 지원하는 데 쓰인다.&lt;br&gt;&lt;br&gt;지원 물품은 선풍기, 냉감 용품, 생수 등이다. 시는 취약계층이 무더위 속에 안전하게 여름을 보내도록 신속히 지원할 예정이다.&lt;br&gt;&lt;br&gt;또 폭염 특보가 지속되는 동안 취약계층 보호 상황을 계속 점검하고, 현장의 지원 수요를 면밀히 파악해 필요한 경우 추가적인 보호 조치도 검토한다.&lt;br&gt;&lt;br&gt;구군, 사회복지시설 등 관계 기관과 협력 체계를 유지해 지원이 필요한 시설과 대상자에게 제때 지원이 이뤄지도록 할 방침이다.&lt;br&gt;&lt;br&gt;올여름 부산에서는 온열 질환으로 추정되는 사망자가 1명 발생했다. &lt;br&gt;&lt;br&gt;전재수 부산시장은 “지금의 폭염은 시민의 생명과 안전을 위협하는 재난”이라며 “노인·장애인·노숙인 등 취약계층은 폭염에 더욱 취약해 예산과 지원을 아끼지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 이문정 에어프랑스-KLM 한국지사장 부친상</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/08/03/TOKEIZJG4FFXHHYBU4YMNT425Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/03/TOKEIZJG4FFXHHYBU4YMNT425Y/</guid>
+      <dc:creator>조선일보, 송혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 03:53:57 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;이종곤&lt;/b&gt; 별세, &lt;b&gt;신동연&lt;/b&gt; 남편상, &lt;b&gt;이문정&lt;/b&gt; 에어프랑스-KLM 한국지사장·&lt;b&gt;이문선&lt;/b&gt;·&lt;b&gt;이제열 &lt;/b&gt;LG전자 책임연구원&lt;b&gt; &lt;/b&gt;부친상, &lt;b&gt;송미연&lt;/b&gt; 시부상=3일10시 여의도성모장례식장, 발인 5일7시, (02)3779-1526 &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천서 수리 대기 포르셰 전기차 화재... 차량 9대 불타</title>
+      <link>https://www.chosun.com/national/incident/2026/08/03/7HHHXSTMSZF37HGQD2KKH7SF6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/03/7HHHXSTMSZF37HGQD2KKH7SF6A/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 01:15:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43DQMJWMU4TIZBZHEZTKYLBGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 7시 58분쯤 인천광역시 검단구 왕길동 공터에 세워진 전기차에서 발생한 화재 현장재현장 모습. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 공터에 있던 포르셰 전기차량에서 불이 나 인근 차량까지 모두 9대가 피해를 봤다.&lt;br&gt;&lt;br&gt;3일 인천소방본부에 따르면, 지난 2일 오후 7시 58분쯤 검단구 왕길동 공터에 세워진 차에서 불이 났다는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;인명 피해는 없었지만 불길이 번지면서 화재가 발생한 포르셰 전기차량과 옆에 있던 볼보 차량까지 총 2대가 전부 탔다. 또 가까이 있던 외제차 7대가 일부 타는 등 모두 9대가 불에 탔다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 인력 44명과 장비 16대를 동원해 18분 만인 오후 8시 16분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방은 수리 대기 중이었던 포르셰 전기차 배터리에서 알 수 없는 이유로 불이 난 것으로 보고 있다.&lt;br&gt;&lt;br&gt;소방 당국 관계자는 “사고로 보관 중인 정비 차량에서 화재가 발생한 것으로 추정된다”며 “정확한 원인은 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최영중 전 청주시의원, 추가 범죄 정황 확인... 경찰 수사 확대</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/08/03/J2PH4YVGRBA2PLXPZQXPWLMQOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/08/03/J2PH4YVGRBA2PLXPZQXPWLMQOQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 01:35:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYDAZDFG5SDMMTEMM4DSNBQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미성년자 성매매 혐의 등을 받는 최영중 전 청주시의원이 지난달 30일 구속 전 피의자 심문(영장실질심사)을 받기 위해 충북 청주시 서원구 청주지방법원에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자 성매수 혐의로 구속된 최영중(35) 전 청주시의원의 추가 범행 정황이 포착됐다. 경찰은 여죄 가능성을 염두에 두고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;3일 경찰 등에 따르면 청주청원경찰서는 최 전 의원이 제출한 휴대전화를 디지털 포렌식하는 과정에서 기존 피해 여중생과 관련 없는 또 다른 범죄 정황을 확인해 수사를 확대하고 있다. &lt;br&gt;&lt;br&gt;경찰은 최 전 의원의 휴대전화를 디지털 포렌식하는 과정에서 피해자가 아닌 다른 여성과 나눈 메신저 대화 내용과 사진 등을 확보했다. 경찰은 이를 토대로 최근 1년간 통신 기록과 금융 거래 내역도 확보해 추가 피해자와 여죄 여부를 확인하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 사안이라 구체적인 내용은 확인해 줄 수 없다”며 “여죄를 포함한 범행 전반을 살펴보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;최 전 의원은 2024년 10월부터 약 1년간 채팅 애플리케이션으로 알게 된 여중생을 세 차례 성 매수한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;최 전 의원은 두 차례 피의자 조사에서 성 매수 사실은 인정하면서도 피해자가 미성년자인 줄은 몰랐다는 취지로 진술했다. 성매매 권유와 성 착취물 제작 등 나머지 혐의는 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;청주지법은 지난달 30일 증거인멸과 도주 우려를 이유로 최 전 의원에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;최 전 의원은 피의자 신분으로 수사를 받던 중 이를 공개하지 않은 채 6·3 지방선거에서 국민의힘 소속으로 청주시의원에 출마해 당선됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염특보 내려진 김포 비닐하우스서 80대 사망… 온열 질환 추정 </title>
+      <link>https://www.chosun.com/national/national_general/2026/08/03/26TI4CFHGFBEBAVPREZCCNNRNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/03/26TI4CFHGFBEBAVPREZCCNNRNM/</guid>
+      <dc:creator>김포=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 02:13:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염특보가 내려진 가운데 경기 김포에서 온열 질환으로 추정되는 사망자가 발생했다.&lt;br&gt;&lt;br&gt;3일 소방당국에 따르면 전날 오후 5시쯤 김포시 고촌읍 비닐하우스에서 80대 남성 A씨가 쓰러졌다는 이웃의 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국이 신고를 받고 출동했을 당시 A씨는 이미 숨진 상태였으며 사후 강직까지 나타났던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 A씨가 밭일을 나갔다가 온열 질환으로 사망한 것으로 보고 구체적인 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;한편 김포에는 지난달 23일 폭염주의보가 내려진 뒤 지난 1일 폭염경보로 격상됐다. 폭염 경보는 일 최고 체감온도 35도를 넘는 상태가 이틀 이상 지속되거나 더위로 피해가 클 것으로 예상될 때 발령된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“왜 돈 없는 우리만 못 사게 하냐”… 레버리지 막힌 2030의 분노</title>
       <link>https://www.chosun.com/national/national_general/2026/08/03/3UEDF4DZKRFTLIIXJTCKNCUS7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/03/3UEDF4DZKRFTLIIXJTCKNCUS7A/</guid>
@@ -789,33 +969,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3SQCDPZMJKS7A5OTBQHR2IDRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 지난 22일 서울 서초구 대법원에서 열린 대법원 전원합의체 선고에 참석해 앉아 있다. 대법원은 이날 훈련 중 부대원 3명 앞에서 대위를 모욕한 해군 상사의 상관모욕 혐의 사건 등을 선고한다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3월 노태악 전 대법관이 퇴임한 뒤 다섯 달 가까이 흐르도록 조희대 대법원장은 후임 대법관 제청을 하지 않고 있다. 그러자 조 대법원장을 향한 여권의 압박이 표면화하고 있다. 더불어민주당 당대표 선거에 출마한 김민석 전 국무총리는 지난 30일 “대법관 제청을 마냥 미루는 조 대법원장의 직무 유기가 도를 넘었다”며 탄핵을 거론했다. 조 대법원장은 노 전 대법관 후임 제청을 안 하는 것일까, 못 하는 것일까.&lt;br&gt;&lt;br&gt;이와 관련해 오는 9월 퇴임하는 이흥구 대법관 후임 후보를 추리기 위한 대법관후보추천위원회가 4일 열린다. 대법원 주변에선 이 대법관 후임자 추천과 제청을 계기로 노 전 대법관 후임자 제청 문제가 풀릴지 주목한다.&lt;br&gt;&lt;br&gt;노 전 대법관 후임 제청은 지난 1월 21일 추천위가 윤성식 서울고법 부장판사, 김민기·박순영 서울고법 판사, 손봉기 대구지법 부장판사 등 4명을 추천한 이후 멈춰 있다. 대법원장은 통상 추천위가 후보군을 추천하면 2주 정도 기간을 두고 1명을 골라 대통령에게 임명을 제청해 왔다. 하지만 이번에는 6개월 넘도록 제청이 이뤄지지 않았다. 조 대법원장과 청와대가 최종 후보를 누구로 할지 이견을 해소하지 못한 탓이다. 청와대는 김민기 고법판사를 적임자로 꼽고 있지만 조 대법원장은 다른 후보자를 염두에 둔 것으로 알려졌다.&lt;br&gt;&lt;br&gt;헌법에 따라 대법관은 대법원장의 제청으로 국회 동의를 얻어 대통령이 임명한다. 이에 앞서 대법관후보추천위원회는 법원조직법에 따라 대법원장에게 후보로 3명 이상을 추천한다. 고위 법관 출신 법조인은 “제청권과 임명권을 나눠 가진 두 헌법기관이 협의해 적임자를 찾되 대통령과 대법원장의 의견이 다를 경우 제3의 대안을 고려해보라는 취지에서 추천위가 3명 이상을 추천하는 것”이라고 했다. &lt;br&gt;&lt;br&gt;대법원은 노 전 대법관 후임자 제청을 두고 청와대와 간헐적으로 협의를 시도해 왔다고 한다. 하지만 반년째 제청 문제를 매듭짓지 못하면서 진퇴양난에 처한 모습이다. 조 대법원장으로선 청와대가 원하는 후보를 제청하면 제청권을 독립적으로 행사하지 못했다는 비판을 받을 수 있다. 그렇다고 청와대의 뜻과 다른 후보를 제청하면 여당이 과반 의석을 차지한 국회에서 임명 동의안이 부결되거나 대통령이 임명을 거부하는 초유의 사태가 벌어질 수 있다.&lt;br&gt;&lt;br&gt;이런 상황에서 조 대법원장은 지난 2월 이후 공석이던 법원행정처장에 노경필 대법관을 지난달 임명했다. 노 처장은 전남 해남 출신이다. 현 여권 지지 기반인 호남 출신으로는 10년 만에 행정처장을 맡았다. 조 대법원장은 재판 업무를 하지 않는 행정처장 자리를 넉 달 넘게 비워둔 채 나머지 대법관 12명을 모두 재판에 투입해왔다. 그런 조 대법원장이 재판부 공백을 감수하면서 노 대법관을 행정처장에 임명한 것은 꼬여 있는 대법관 제청 문제의 물꼬를 트려는 인사란 해석이 나온다. &lt;br&gt;&lt;br&gt;이흥구 대법관이 9월 7일 퇴임할 때까지 후임이 임명되지 않으면, 대법원 전원합의체는 대법관 2명이 공석인 상태로 운영된다. 연간 4만건 넘게 접수되는 상고심 사건 처리도 늦어질 수밖에 없다. 법관들 사이에선 신속·공정한 재판을 강조해 온 조 대법원장이 재판부 공백을 장기간 방치하지는 않을 것이라는 관측이 많다. &lt;br&gt;&lt;br&gt;이 때문에 오는 4일 이 대법관 후임 후보가 추려지면 조 대법원장이 노 전 대법관 후임까지 동시에 제청할 가능성이 거론된다. 청와대와 대법원장이 각자 선호하는 후보를 1명씩 반영할 수 있다는 것이다. 법조계 관계자는 “조 대법원장이 대법관 제청과 관련해 청와대와 협의를 진행해왔다면 직무 유기라고 하기는 어렵다”며 “대법원장과 청와대가 한 발씩 물러서 갈등을 풀어야 하지 않겠느냐”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>작년 기초생활 수급자 284만명… 16만명 늘어</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/01/ZACQEPL6E5AU7G63MTKTBD747E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/01/ZACQEPL6E5AU7G63MTKTBD747E/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4GCMLGMRRDENRRMZRDIYZVMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 경기 성남시의 기초생활수급자 A 씨가 전한 봉투.  봉투에는 '참전유공자 중 어려운 분들에게 써 달라'고 적혀 있다./ 성남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 기초생활보장 수급자가 전년 대비 16만명 이상 늘어난 284만명에 달하는 것으로 집계됐다. 수급자 중 44%는 노인(65세 이상)으로, 노인 인구 10명 중 1명 이상이 수급자인 것으로 나타났다.&lt;br&gt;&lt;br&gt;31일 보건복지부의 ‘2025년 국민기초생활보장 수급자 현황’ 통계에 따르면, 지난해 말 기준 수급자는 283만6706명으로 전년의 267만3485명보다 6.1% 늘었다.&lt;br&gt;&lt;br&gt;수급자 수가 늘어난 것은 최근 급증한 기준 중위소득의 영향으로 보인다. 기준 중위소득은 정부가 산정한 우리나라 가구 소득의 중간값인데, 기초생활보장 수급자는 이 기준 중위소득의 32%에 해당하는 경우에 들어간다. 이에 기준 중위소득이 오를수록 수급자는 늘어난다. 지난해의 경우 기준 중위소득이 6.42% 인상되면서 당시 기준 역대 최고 폭의 인상률을 보였다.&lt;br&gt;&lt;br&gt;수급자를 연령별로 보면 65세 이상 노인이 121만2262명으로, 44.4%를 차지했다. 이어 중년기(40∼64세) 31.7%, 청년기(20∼39세) 9.9%, 청소년기(12∼19세) 8.8%, 학령기(6∼11세) 4.0%, 영유아기(0∼5세) 1.2% 순으로 수급자 비율이 높았다. 수급자 중 노인이 차지하는 비율은 전년 42.8%에서 1.6%포인트 올랐는데, 이는 고령화의 영향으로 보인다.&lt;br&gt;&lt;br&gt;우리나라 전체 인구수 대비 수급자 비율은 5.3%였다. 65세 이상의 경우 수급자 비율이 11.2%였다. 노인 10명 중 1명 이상이 기초생활보장 수급자인 셈이다. 성별로는 여성 수급자가 151만 7149명으로 남성(121만 5086명)보다 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 노복여 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/01/J3B7RQTRAFABFCRNA2KTXPBS2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/01/J3B7RQTRAFABFCRNA2KTXPBS2Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;노복여&lt;/b&gt; 별세, &lt;b&gt;김찬식&lt;/b&gt;·&lt;b&gt;김영식 &lt;/b&gt;前 한국공인회계사회 회장 모친상=31일2시18분 서울성모병원, 발인 2일8시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이상운&lt;/b&gt; 별세, &lt;b&gt;김연복 &lt;/b&gt;남편상, &lt;b&gt;이경자&lt;/b&gt;·&lt;b&gt;이태희&lt;/b&gt;·&lt;b&gt;이선자&lt;/b&gt;·&lt;b&gt;이병희&lt;/b&gt;·&lt;b&gt;이연우&lt;/b&gt; 부친상, &lt;b&gt;김훈종&lt;/b&gt;·&lt;b&gt;류관형&lt;/b&gt; 연합뉴스TV 부국장 장인상=31일9시 충북 청주시장례식장, 발인 2일9시30분, (043)291-4444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 8월 1일</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/01/6TUO24SMHJAYRJHI4UAW4X5JIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/01/6TUO24SMHJAYRJHI4UAW4X5JIY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GE4ARJBYNHDLES7HUD4PEHS54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이상현 아시안게임 선수단장, 선수단에 격려금 2억원 전달</title>
       <link>https://www.chosun.com/national/people/2026/08/01/UCUXIZ7XTZBGVG4OV3BQS7CIJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/01/UCUXIZ7XTZBGVG4OV3BQS7CIJY/</guid>
@@ -823,45 +976,6 @@
       <description/>
       <pubDate>Fri, 31 Jul 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JWRQH7JJNGFDN7W3G2FOXSMHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상현 아이치 나고야 아시안게임 대한민국 선수단장(대한사이클연맹 회장)이 지난 30일 충북 진천선수촌을 방문해 격려금 2억원을 전달했다. 격려금은 선수단 훈련비 지원에 사용될 예정이다. 이 단장은 “아시안게임에서 최고의 기량을 발휘하는 데 밑거름이 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 외교부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/01/ATV7EOQ2Q5HVNBE556ODE7QCEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/01/ATV7EOQ2Q5HVNBE556ODE7QCEE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲외교부◇공관장▷주베트남대사 이미연▷주스리랑카대사 김윤정▷주필리핀대사 이동기▷주호주대사 박일▷주르완다대사 허정애▷주이스탄불총영사 박태영▷주두바이총영사 박종경▷주젯다총영사 김대환◇실장급▷대변인 박두순◇국장급▷의전기획관 조수진▷아세안국장 권재환◇심의관급▷아프리카중동국 심의관 윤영기&lt;br&gt;&lt;br&gt;▲법무부◇고위공무원 승진▷의정부지검 사무국장 윤성훈▷청주지검 사무국장 박춘광▷부산지검 사무국장 최성규◇고위공무원 전보▷서울동부지검 사무국장 한생일▷서울서부 지검 사무국장 설우용▷인천지검 사무국장 박영범▷수원지검 사무국장 조경익▷대전지검 사무국장 이은승▷울산지검 사무국장 김 영헌◇검찰부이사관 승진▷대검찰청 집행과 장 박종섭▷서울고검 총무과장 유정호▷대전 고검 총무과장 여문숙▷광주고검 총무과장 양기용▷수원고검 총무과장 강윤정▷부천지청 사무국장 이철희▷천안지청 사무국장 주 영수◇검찰부이사관 전보▷부산고검 총무과 장 박종길▷고양지청 사무국장 이동영▷안양 지청 사무국장 이창균◇검찰수사서기관 승진▷법무부 검찰과 김성원▷대검찰청 감찰1 과 김경준▷서울고검 관리과장 김충범▷대전 고검 사건과장 박득천▷서울중앙지검 공공수 사지원과장 정근용▷〃 수사제1과장 김도형 ▷〃 조사과장 박미선▷서울동부지검 집행과장 홍용주▷〃 수사과장 조상신▷서울남부지검 검사직무대리 안종현▷서울서부지검 조사 과장 이인용▷고양지청 총무과장 조성진▷인천지검 총무과장 심주용▷〃 사건과장 정병채▷평택지청 사무과장 이강배▷안양지청 총무과장 김항수▷대전지검 사건과장 정광화▷ 부산지검 검사직무대리 김종웅▷울산지검 사건과장 김대한▷창원지검 집행과장 김일수▷광주지검 검사직무대리실 김도연◇검찰수사 서기관 전보▷서울동부지검 총무과장 구영회◇과학기술서기관 승진▷대검찰청 정보통신과 강정관▷〃 오은정◇서기관 승진▷감사 담당관실 김동진▷보호정책과 서용승▷치료 처우과 곽지영▷소년보호과 김창수▷전자감 독과 정현주▷서울소년원 교무과장 박대호▷ 부산소년원 분류보호과장 도상원▷대구소년원 교무과장 이상기▷〃분류보호과장 유한철 ▷광주소년원 분류보호과장 이춘희▷대전소년원 의료재활과장 강성림▷〃분류보호과장 전광수▷서울소년분류심사원 교무과장 배성준▷서울보호관찰소 관찰과장 반기리▷대구 보호관찰소 관찰과장 최상현▷부산보호관찰 소 관찰과장 황윤식◇서기관 전보▷보호정책 과장 조연호▷치료처우과장 임합격▷소년보호과장 성봉호▷전자감독과장 강신원▷범죄 예방디지털정책팀장 이동준▷부산소년원장 김지수▷광주소년원장 안규용▷전주소년원장 이승원▷대전소년원장 김형식▷안양소년 원장 김용운▷춘천소년원장 정윤▷서울소년 분류심사원 분류심사과장 김인수▷부산소년원 부산청소년비행예방센터장 황철주▷대구 보호관찰심사위원회 상임위원 김동민▷광주 보호관찰심사위원회 상임위원 김영배▷서울 보호관찰소 행정지원과장 홍정원▷서울북부 보호관찰소장 배성희▷서울서부보호관찰소 장 김충섭▷의정부보호관찰소장 김근한▷인 천보호관찰소장 박종국▷인천보호관찰소 서 부지소장 권태호▷수원보호관찰소장 임재홍 ▷춘천보호관찰소장 정주호▷대전보호관찰 소 행정지원과장 김정렬▷〃관찰과장 홍성학 ▷〃천안지소장 김구회▷청주보호관찰소장 황남례▷대구보호관찰소 행정지원과장 김양곤▷부산보호관찰소 행정지원과장 홍재성▷ 〃동부지소장 배영준▷창원보호관찰소장 최 종철▷광주보호관찰소 행정지원과장 배종상▷〃관찰과장 문덕오▷〃순천지소장 정경진▷위치추적중앙관제센터장 윤현봉▷위치추적 대전관제센터장 이경주&lt;br&gt;&lt;br&gt;▲행정안전부◇국장급 승진▷지방자치인재 개발원 기획부장 박대민◇과장급 전보▷공공서비스혁신과장 손성주▷민생경제지원과장 조진상▷지방자치인재개발원 행정지원과장 김영길▷지방자치인재개발원 전문역량교 육과장 권오정▷이북5도 평안북도 사무국장 이혜란▷이북5도 함경북도 사무국장 강병철&lt;br&gt;&lt;br&gt;▲서울경제신문◇승진▷논설위원실 논설실장 최형욱&lt;br&gt;&lt;br&gt;▲조선일보 ▷국제부 주뉴욕특파원 김성모&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘5명 사망’ 한화에어로 폭발 사고, 안전관리 지휘라인 3명 추가 입건 </title>
-      <link>https://www.chosun.com/national/2026/07/31/5R7Z7MGRF5FLHHBQTX4LWIHX3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/31/5R7Z7MGRF5FLHHBQTX4LWIHX3A/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 13:28:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QFS5RU3E5LJRG72F6SYCTSDF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 1일 오전 발생한 대전 유성구 한화에어로스페이스 대전사업장 56동 세척실 폭발 순간을 담은 외부 감시카메라(CCTV) 영상 캡처 사진. /더불어민주당 박정현 의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 7명의 사상자를 낸 한화에어로스페이스 대전 공장 폭발 사고와 관련해 경찰이 안전 관리 지휘 체계에 있는 임직원을 추가로 입건해 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;대전경찰청 광역범죄수사대는 한화에어로스페이스 임직원 A씨 등 3명을 업무상 과실치사상 혐의로 입건했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난달 1일 대전 유성구 외삼동 한화에어로스페이스 대전 공장 56동 세척 공실에서 발생한 폭발 사고 당시 안전 주의 의무를 소홀히 한 혐의를 받는다. 당시 사고로 현장에서 작업 중이던 직원 5명이 숨지고 2명이 다쳤다.&lt;br&gt;&lt;br&gt;추가 입건된 3명은 폭발이 일어난 세척 작업의 안전 관리를 담당하는 지휘 라인에 속해 있던 인물들로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 경찰은 “폭발 당시 세척 기계의 탱크를 청소하고 있었다”는 세척 공정 책임자 진술을 확보한 바 있다. 세척 기계 내부에는 화약이 묻은 공구를 세척하는 과정에서 슬러지(찌꺼기)가 쌓이는 탱크가 있는데, 당시 근무자들이 탱크를 청소하는 작업 중이었다는 것이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “세척 기계에서 처음 폭발이 일어난 것으로 보인다”며 “사망 사고와 관련해 사전 안전 조치 및 주의 의무가 부족했다고 판단해 지휘 체계에 있는 관계자들을 우선 입건한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THBTR6H74NMZREHS4MJEV7J43I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7명의 사상자를 낸 대전 유성구 한화에어로스페이스 대전사업장에서 지난달 2일 오전 국립과학수사연구원과 대전경찰청 과학수사계, 소방 당국 소속으로 구성된 합동감식팀 감식을 하기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭발이 일어난 56동은 배관·밸브, 장비 등을 분리·세척하는 곳이다.&lt;br&gt;&lt;br&gt;A씨 등 3명을 추가로 입건하면서 경찰 수사 선상에 오른 임직원은 총 4명으로 늘어났다. 앞서 경찰은 업무상 과실치사상 혐의로 가재웅 대전사업장장을 입건했다. 또 대전지방노동청은 산업안전보건법 위반 혐의로 가 사업장장을, 중대재해처벌법 위반 혐의로 손재웅 대표이사를 각각 입건했다. &lt;br&gt;&lt;br&gt;현재 정확한 사고 원인 규명을 위한 감식도 병행되고 있다. 폭발 충격으로 현장이 심하게 훼손되고 사고 당시 상황을 담은 내부 감시 카메라(CCTV)도 없어 수사에 어려움이 따르는 상황이다. 경찰은 압수수색을 통해 확보한 자료와 관계자 진술을 토대로 사고 전후 정황을 재구성하고 있다.&lt;br&gt;&lt;br&gt;특히 정전기나 마찰 등 폭발을 촉발한 정확한 요인을 찾기 위해 세척기와 청소도구 등을 국립과학수사연구원에 정밀 감식 의뢰했다. 국과수의 감식 결과는 이르면 10월쯤 나올 전망이다.&lt;br&gt;&lt;br&gt;이와 함께 경찰은 세척 작업 절차와 안전 수칙이 규정대로 이행됐는지, 사업장 내 위험물 보관량이 허가 기준을 초과하지는 않았는지 등 사업장 전반의 안전관리 실태도 들여다보고 있다. 수사 당국은 향후 국과수 감식 결과와 노동당국의 중대재해처벌법 위반 관련 추가 분석 내용을 종합해 이번 참사의 원인과 책임 소재를 최종 판단할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 “이제 검사 수사 못한다… 명분만 앞세우다 국민 외면받아”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/31/Y47G56NGTVBNXISJU3PPDHETWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/31/Y47G56NGTVBNXISJU3PPDHETWI/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 12:08:22 +0000</pubDate>
-      <content:encoded>정성호 법무부 장관은 31일 검사의 보완수사권을 폐지하는 형사소송법 개정안이 국회 본회의를 통과한 데 대해 “이제 검사는 수사할 수 없다. 근본적인 변화가 시작 된다”며 “처음 가는 길에서 선의나 기대와는 달리 부작용이 나온다면 신속히 보완, 수정하는데도 주저하지 않기를 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SILU4KYJPJOSNE6Q7PQEJJG2YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 지난 30일 국회에서 여당 주도 형사소송법 법률 일부개정안에 대한 무제한 토론이 시작되자 허공을 응시하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 페이스북을 통해 “개혁의 성패는 기존 질서를 바꾸는 것 자체에 있는 것이 아니라, 국민의 삶을 얼마나 더 풍요롭고 윤택하게 만드는가에 달려 있다”며 “하늘 같이 높은 이상, 태산 같은 명분, 거창한 구호는 모두 부차적일 뿐이다. 가장 중요한 것은 국민 그리고 민생에 실질적 도움이 되는지 여부”라고 했다.&lt;br&gt;&lt;br&gt;그는 이어 “이상과 명분만 앞세우고 성과가 없는 개혁은 백성과 시민, 국민으로부터 외면을 받게 된다는 사실은 동서고금의 역사가 증명한다”며 “앞으로 새로운 형사사법제도가 정의 실현과 피해자 보호로 진정 국민에게 힘이 되고 성공적인 개혁으로 평가받을 수 있도록, 법무부도 적극 노력하고 끊임없이 점검하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;국회는 이날 본회의에서 형사소송법 개정안을 재석 178명 중 찬성 175명, 반대 2명, 기권 1명으로 가결했다. 개정안은 검사의 직접수사 개시와 보완수사권을 폐지하고 사법경찰관에 대한 보완수사 요구만 가능하도록 하는 내용을 담고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XQEBHXD5ZFBZFMPA2XZBMJ7SME.jpg?auth=8db99a01b2f0ecdf66c799198bb134e04f1bd7e8e2d78bbc1a6de16f003130f8&amp;smart=true&amp;width=3171&amp;height=1783" type="image/jpeg" height="1783" width="3171">
-        <media:description type="plain">[서울=뉴시스] 김근수 기자 = 정성호 법무부 장관이 30일 서울 여의도 국회에서 열린 제437회국회(임시회) 3차 본회의에서 여당 주도 형사소송법 법률 일부개정안에 대한 무제한 토론이 시작되자 허공을 응시하고 있다. 2026.07.30. ks@newsis.com</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘장윤기 사건’ 전 광산서 형사과장, 두 번째 구속영장도 기각 </title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/5U3QDSLPFNAXZA3RIDYJSGMTZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/5U3QDSLPFNAXZA3RIDYJSGMTZA/</guid>
-      <dc:creator>전남광주=원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 12:48:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PCMFONB7JIUFGR7OCKKP3N53A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'장윤기 사건'에 대해 살인과 성범죄 사건을 분리 수사하도록 지시한 협의를 받는 전 광산경찰서 형사과장 박 경정이 31일 전남광주통합특별시 동구 광주지방법원에서 구속 전 피의자 심문(영장 실질 심사)을 마치고 호송차에 탑승하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘전남광주 여고생 살인 사건’ 피의자 장윤기(24)에게 일반 살인 혐의를 적용한 의혹을 받는 박모 전 광산경찰서 형사과장(경정)에 대한 두 번째 구속영장이 기각됐다. &lt;br&gt;&lt;br&gt;광주지법 정교형 영장전담 부장판사는 31일 직권남용과 직무유기 혐의를 받는 박 경정에 대한 구속영장을 기각했다. 박 경정은 장의 여고생 살인 사건과 베트남 국적 20대 여성 성범죄 사건을 분리 수사하도록 지시하고, 강간 등 살인 혐의 대신 일반 살인 혐의를 적용하는 등 수사를 축소한 의혹을 받는다.&lt;br&gt;&lt;br&gt;정 부장판사는 “종전 구속영장 기각 결정 이후에 추가로 확보된 증거자료까지 종합해 살펴봐도 범죄 혐의에 대해 다툼의 여지가 있다”며 “현 단계에서 구속해야 할 필요성과 상당성을 인정하기 어렵다”고 구속영장 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;박 경정에 대한 구속영장 기각은 지난 21일에 이어 두 번째다. 앞서 국가수사본부(국수본) 장윤기 진상규명 특별수사단은 박 경정을 상대로 직권남용과 직무유기 혐의로 사전구속영장을 신청했지만 기각됐다.&lt;br&gt;&lt;br&gt;국수본 특별수사단은 참고인 조사와 압수 증거물 분석 등을 통해 증거관계를 보강한 후 지난 28일 동일한 혐의로 박 경정에 대해 사전구속영장을 재신청했다. &lt;br&gt;&lt;br&gt;박 경정은 이날 오후 광주지법에서 열린 구속영장 실질심사가 끝난 후 취재진 앞에서 “이번 사건으로 희생되신 고인과 유가족분들에게 대단히 송구하다는 말씀을 드린다”며 “영장실질심사에서 성실히 소명했다”고 말했다.&lt;br&gt;&lt;br&gt;박 경정의 변호인도 실질 심사가 끝난 뒤 “(스토킹 사건을) 숨기기 위해서 일반 살인을 의도적으로 적용했다는 것은 하나의 시나리오에 불과하다”며 “수사팀 내부의 팀원들이 케이블 타이의 존재 등을 숨기고 보고하지 않다가 문제가 되니까 형사과장에게 책임을 미루는 취지로 진술했다고 판단한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘가성비 워터밤’ 한강 수영장... 음주·흡연·성추행에 몸살</title>
@@ -874,136 +988,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/FUHGTUFVQFHZNF3TWW6MHPWBFI.jpg?auth=816029680775827c4f50864de6ce1eb6eb33d1b35a970c2c5a98354c87179f6e&amp;smart=true&amp;width=4032&amp;height=3024" type="image/jpeg" height="3024" width="4032">
         <media:description type="plain">28일 오후 서울 영등포구 여의도 한강공원 수영장. 수영장에서의 불법법 촬영과 신체 접촉을 단속하는 입간판이 세워져있다./윤성은 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>여성단체 “피해자 외면한 형소법 통과 유감”</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/W6CIVWRR7JHRBNFOXGHJ2OUEXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/W6CIVWRR7JHRBNFOXGHJ2OUEXQ/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 10:32:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O62JTF27YJFJNEMTYZPTEGBXQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 한국성폭력상담소 등 여성단체 5곳이 형사소송법 개정안 통과에 대한 유감을 표하는 성명을 발표했다./한국성폭력상담소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국성폭력상담소 등 여성 단체 5곳이 검찰의 보완 수사권 폐지 등을 골자로 한 형사소송법 통과에 유감을 표하는 성명을 발표했다. &lt;br&gt;&lt;br&gt;여권 주도로 형사소송법 개정안이 통과된 이날(31일), 여성 단체들이 형소법 통과에 유감을 표하는 성명을 발표했다. 성명에는 한국성폭력상담소, 민주사회를위한변호사모임 여성인권위원회, 장애여성공감, 한국여성민우회, 한국여성의전화 등 5곳이 참여했다. &lt;br&gt;&lt;br&gt;이들은 성명문에서 “수사와 기소의 단절이 아니라, 피해에 대한 증거를 바탕으로 한 사실관계 확인과 이를 바탕으로 한 공소제기가 이뤄질 수 있는 제도 설계로 이어지기를 요구해왔다”며 “사법 개혁의 주요 의제인 피해자 권리 보장이 담기기를 기대했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “그러나 형사소송법 일부 개정 법률안은 검사가 직접 수사할 수 없는 상황에서 수사기관에 대한 실질적인 견제가 가능한 제도와 단계를 형사소송법이 아니라 범죄별 개별 법령에 명시하여 누락되는 피해가 발생할 가능성을 노정했다”고 지적했다. &lt;br&gt;&lt;br&gt;또 “형사 사법 절차상 피해자 권리 보장을 위한 수사진행상황 통지, 불기소 전 의견 청취, 구속 사유 추가나 공판 단계 피해자 참가 제도 등을 반영하지 않았다”고도 지적했다. &lt;br&gt;&lt;br&gt;특히 이들은 “2021년 검경 수사권 조정 이후, 불송치 사건 수가 늘어나는 반면, 이의신청 건수는 전체 불송치 사건 대비 9%에 지나지 않아 이의 신청을 포기하는 피해자가 다수”라고 짚었다. &lt;br&gt;&lt;br&gt;이들은 성명 말미에서 검찰 개혁이 결국 피해자 구제와 실체적 진실 발견이라는 본질보다는, 정치적 승패를 겨루는 정쟁으로 전락했다고 일갈했다. 이와 관련해 “여성 폭력 피해자와 피해자 지원 단체의 요구를 반영하지 않고 밀어붙인 여당 주도의 형사소송법 일부 개정 법률안 본회의 통과에 깊은 유감을 표한다”고 했다. &lt;br&gt;&lt;br&gt;한편 이날 국회는 검사의 보완수사권을 전면 폐지하는 형사소송법 개정안을 본회의에서 의결했다. 이로 78년만에 검찰의 수사권이 사라지게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘공직선거법 위반 혐의’ 안병윤 예천군수 구속영장 신청 </title>
-      <link>https://www.chosun.com/national/2026/07/31/HC6AMJ5C5FAVHMOQR4MKB2Y5VA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/31/HC6AMJ5C5FAVHMOQR4MKB2Y5VA/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 11:32:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2WNDMLWT5CURIRHD2FSI33OIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 전경. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지방선거를 앞두고 기자에게 금품을 전달한 혐의를 받는 안병윤 예천군수에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경북경찰청 반부패수사2대는 31일 공직선거법 위반 혐의를 받는 안병윤 예천군수에 대해 구속영장을 신청했다고 밝혔다. &lt;br&gt;&lt;br&gt;안 군수는 제9회 전국동시지방선거를 앞두고 선거구 내 언론인들에게 금품을 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난달 25일부터 이틀간 안 당선인의 자택과 사무실 등에서 압수수색을 벌이며 관련 증거를 확보했다. &lt;br&gt;&lt;br&gt;앞서 경찰은 금품을 받았다고 주장하는 지역 인터넷 매체 기자를 불러 조사하기도 했다. 해당 기자는 안 군수로부터 3차례에 걸쳐 총 1000만원을 받았다고 주장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;안 군수에 대한 구속 전 피의자 심문(영장실질심사)은 오는 3일 오전 11시 대구지법 상주지원에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범죄 혐의가 중하다고 판단돼 구속영장을 신청하게 됐다”며 “구체적인 수사 내용은 밝힐 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 안 군수는 관련 혐의와 의혹에 대해 “전부 사실과 다르다”고 부인한 바 있다. &lt;br&gt;&lt;br&gt;공무원 출신 초선 군수인 안 군수는 지난 6·3 지방선거 국민의힘 예천군수 후보로 출마해 65.28% 득표율로 당선됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경산 아파트 방화로 화상 입은 50대女 숨져… 희생자 2명으로 늘어</title>
-      <link>https://www.chosun.com/national/2026/07/31/5CEVW6UX6ZG4PKGNZXVXYGHJTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/31/5CEVW6UX6ZG4PKGNZXVXYGHJTM/</guid>
-      <dc:creator>김준호 기자, 경산=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 10:18:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYDOMBUGRRGGMJXGM2DOMDFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 오전 경북 경산시 한 아파트 관리사무소 안에서 발생한 사고 현장을 경찰과 소방당국이 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산 한 아파트 관리사무소에서 발생한 방화 사건으로 화상을 입고 치료 중이던 여성이 끝내 숨졌다. 이 사건으로 숨진 피해자는 2명으로 늘었다. &lt;br&gt;&lt;br&gt;31일 경찰 등에 따르면 이날 오후 5시 35분쯤 대구 한 화상 전문 병원에서 치료 중이던 50대 여성 A씨가 사망했다. A씨는 아파트 관리사무소 경리였다고 한다. 경찰은 A씨의 구체적인 사망 원인을 확인하기 위해 부검을 실시할 예정이다. &lt;br&gt;&lt;br&gt;앞서 지난 23일 오전 8시 29분쯤 경산시 한 아파트 관리사무소에서 주민 류모(71)씨가 인화성 물질을 뿌리고 불을 지른 사건으로 류씨 등 8명이 화상을 입었다. 그중 50대 여성 B씨는 중상을 입고 병원으로 이송됐지만, 다음 날 결국 숨졌다. B씨는 사건 당일 “아파트 방범 카메라가 작동하지 않는다”고 관리사무소를 찾았다가 변을 당했다. &lt;br&gt;&lt;br&gt;이날 A씨가 사망함에 따라 이 사건 사망자는 2명으로 늘었다. 나머지 피해자 5명 중 2명도 상태가 위독한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3GINJVGA3TINDFHBQTOZDGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 오전 경북 경산시 한 아파트 관리사무소에서 70대 입주민의 방화로 31일 현재까지 2명이 숨졌다. 사진은 사건 당일 경찰과 소방 당국이 현장을 통제하고 사고 현장을 조사하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피의자 류씨도 범행 직후 전신에 화상을 입고 병원으로 옮겨져 치료를 받고 있다. 의식은 있지만, 대화는 어려운 상태라고 한다. 경찰은 류씨 상태가 호전되면 대면 조사에 나설 방침이다. &lt;br&gt;&lt;br&gt;류씨는 현주건조물방화치사상 혐의로 입건된 상태다. 경찰은 범행 동기와 경위 등을 파악하기 위해 주변인 탐문과 함께 압수수색으로 확보한 류씨 휴대전화와 아파트 감시카메라(CCTV) 등을 분석하고 있다. &lt;br&gt;&lt;br&gt;류씨는 사건 당일 관리소장(관리인) 등과 관리 규약을 놓고 말다툼을 벌인 것으로 알려졌다. 그러던 중 류씨가 관리사무소 지하 창고에 보관 중이던 시너를 갖고 와 관리사무소 바닥에 뿌린 뒤 불을 질렀다. 사건 전날에도 류씨는 관리소장 등과 말다툼을 벌여 경찰이 출동했다고 한다. &lt;br&gt;&lt;br&gt;경찰은 단순 우발성 범죄가 아닌 보복 범죄 가능성을 수사 중이다. 사건 전날 오후 관리사무소 직원들이 민원 현장 확인을 위해 자리를 비운 사이 관리사무소 내 1대를 제외한 아파트 CCTV 13대 화면이 꺼졌다는 진술을 확보한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 당시 CCTV가 꺼진 경위와 이번 사건과의 관련성을 확인하고 있다. 경찰은 보복성 범행이 입증될 경우, 현주건조물방화치사상 혐의보다 형량이 무거운 특정범죄가중처벌법을 적용한다는 방침이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구자현 검찰총장 대행 “형소법 개정에 책임 통감...사직서 제출”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/31/DDYLLL7UVJHSFI3WING2VR4P3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/31/DDYLLL7UVJHSFI3WING2VR4P3E/</guid>
-      <dc:creator>김희래 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 09:05:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3CA4GNRDBJ5FPQDD3J4AZH2RY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 검찰총장 직무대행이 31일 서울 서초구 대검찰청을 나서며 검찰 보완수사권 전면 폐지를 골자로 한 형사소송법 개정안의 국회 본회의 통과에 대해 입장을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검사 보완수사권 폐지를 골자로 한 형사소송법 개정안이 국회 본회의를 통과한 31일 구자현 검찰총장 직무대행이 사의를 표명했다.&lt;br&gt;&lt;br&gt;구 대행은 이날 오후 6시쯤 퇴근길에 기자들을 만나 “형소법 개정에 책임을 통감하고 방금 전 사직서를 제출했다”며 “모든 국민이 법 앞에 공정하게 보호받을 수 있는 방향으로 형사사법 제도가 발전해 나가길 진심으로 바란다”고 했다. 구 대행은 “먼저 검찰이 국민의 신뢰를 얻지 못한 점에 대해 검찰 구성원 모두의 깊은 성찰이 필요하다고 생각한다”면서도 “다만 그러한 이유로 제도 개편이 이뤄지더라도 실체적 진실을 발견하고 피해자를 비롯한 사건 관계인을 보호하는 검찰의 본질이 훼손되면 안 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “이번 형소법 개정안은 검사가 수사기록에만 의존해 기소 여부를 결정할 수밖에 없어 피해자 보호에 충실하기 어렵고 시간과 비용도 많이 드는 비효율적 구조를 가지고 있다는 우려를 지속적으로 전달해 왔다”며 “그러나 이러한 부분들이 받아들여지지 않은 채 개정안이 통과돼 안타깝고 막막한 심정을 감추기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;형소법 개정안은 수사와 기소를 완전히 분리해 검사의 직접 수사를 없애고, 검사의 보완수사권과 직접 영장 청구권도 폐지했다. 이에 더해 민주당은 이번 형사소송법에 법원의 ‘공소기각’ 사유도 추가했다. 현행법에 6가지 공소 기각 사유가 있는데도, ‘중대한 위법 수사’ ‘소추(訴追) 재량권 일탈’ 등을 추가한 것이다. 이와 관련해 법조계에서는 “여당이 불법 대북 송금 사건 등 이재명 대통령 관련 사건에 대한 검찰의 공소 취소가 뜻대로 이뤄지지 않자, 법원이 공소 기각할 수 있는 이중 장치를 마련한 것”이라는 해석도 나왔다.&lt;br&gt;&lt;br&gt;국회는 이날 형사소송법 개정안을 재석 178명 중 찬성 175명으로 가결했다. 이 법안 처리에 반대하며 전날 오후부터 필리버스터(무제한 토론)에 돌입했던 국민의힘은 표결에 불참했다. 전면적인 형사사법체계 개편은 1954년 형소법 제정 이후 72년 만이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K4JUURBXL5FZZG7NQSZRYY6224.jpg?auth=ec42c86f402fc51d673da1a6b435a1290ceb51282c6d2dc0ada2fbc71cd6f642&amp;smart=true&amp;width=2527&amp;height=1422" type="image/jpeg" height="1422" width="2527">
-        <media:description type="plain">[서울=뉴시스] 조성우 기자 = 구자현 검찰총장 직무대행이 31일 서울 서초구 대검찰청 청사를 나서며 발언하고 있다. 검찰 보완수사권 폐지를 골자로 한 형사소송법 개정안은 이날 열린 국회 본회의에서 더불어민주당 주도로 처리됐다. 2026.07.31. xconfind@newsis.com
-</media:description>
-        <media:credit role="author" scheme="urn:ebu">xconfind</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“에고 더버 죽겠다”…역대 최고 기온 ‘41.4도’ 찍은 양산은 가마솥</title>
-      <link>https://www.chosun.com/national/2026/07/31/D7LQPJBQ7JGW5FNGVLQ42U565Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/07/31/D7LQPJBQ7JGW5FNGVLQ42U565Y/</guid>
-      <dc:creator>양산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 08:42:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYBOUSUCGBD3VPMUPPQMUKLK3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 2시쯤 경남 양산시 중부동 남부시장 앞 아스팔트 도로 위 온도가 40.4도를 기록하고 있다. 이날 오후 1시40분 양산 낮 최고 기온이 41.4도를 기록하면서 역대 최고기온을 경신했다. 기존 최고기온은 2018년 8월 1일 강원 홍천에서 기록된 41.0도였다. /양산=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오후 2시 경남 양산시 중부동 남부시장 앞 버스정류장. 버스를 기다리던 한 60대 할머니 입에서 연신 “에고 더버 죽겠다”라는 말이 나왔다. 한 손으로는 부채질, 다른 한 손으로는 양산을 들어 햇볕을 막아보지만 아스팔트 도로에서 뿜어져 나오는 뜨거운 열기 탓에 이마에 땀방울이 송골송골 맺혔다. &lt;br&gt;&lt;br&gt;이날 취재진이 온도계를 도로 위에 올리자 숫자 ‘40.4도’가 찍혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4QVWVC5NNHWXDQBM3E2W7NMS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 경남 양산시 중부동 남부시장 앞 버스정류장에서 시민들이 더위를 피해 그늘 아래 서 있다. /양산=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 경남 양산이 기상 기록을 연신 갈아치우고 있다. 지난 29일부터 이날까지 사흘 연속 낮 최고 기온 40도를 찍더니, 31일 낮 1시40분쯤 41.4도를 기록하며, 국내 기상 관측 사상 최고 기온을 새롭게 썼다. 종전 기록은 2018년 8월 1일 강원 홍천의 41.0도였다.&lt;br&gt;&lt;br&gt;살인적인 폭염에 낮에는 시민들도 바깥 활동을 자제하고 있다. 거리는 사람을 찾기 힘들 정도로 텅 비었다. 도심 공원엔 텅 빈 벤치만 보였다. 방학인데도 어린이 놀이터는 휑했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYARXSR2BJC53GNWSFOZ3LP7MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 낮 최고기온 41.4도를 찍은 경남 양산시 중부동 남부시장에 손님이 없이 썰렁하다. /양산=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염으로 타격이 큰 곳은 전통시장이다. 양산에서 가장 큰 남부시장도 폭염에 손님들의 발길이 뚝 끊겼다. 이날 찾은 남부시장은 아케이드가 설치돼 있어 햇볕은 가리고 있었지만, 그 안은 찜질방 사우나처럼 열기로 가득 차 있었다. 이곳 상인회장 오중석(62)씨는 “쿨링포그(물 분사 장치)가 있어도 아케이드 특성상 공기가 순환하지 못해 바깥과 다를 바 없이 덥다”며 “폭염이 온 뒤로는 손님이 절반 가까이 줄었다”고 했다. &lt;br&gt;&lt;br&gt;상인도, 손님도 파김치가 된 탓에 시장은 생기가 없었다. 오씨는 상인회 소속은 아니지만, 찌는 듯한 더위 속에 행여 고령의 노점 상인들이 쓰러질까 하루에도 몇 차례씩 시장 안팎을 순찰하고 있다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJV3PUGEL5GP3G7F442QLRNAGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 경남 양산시 중부동 남부시장의 상인이 부채질을 하고 있다. /양산=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지자체도 비상이 걸렸다. 양산시는 도심 열기를 조금이라도 낮추기 위해 살수차를 기존 8대에서 11대로 늘렸다. 살수차 운전원인 최석우(70)씨는 13t 탱크에 물을 꽉 채워 도심 도로에 물을 뿌리고 있다. 30분이면 가득 채운 탱크가 비어버린다고 한다. 차량 통행이 적은 소화전에서 다시 물을 채우고 또 도로에 뿌리기를 6차례 반복한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXYXYGX3YZNCJOQO4DB7VRQEQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 경남 양산시 남부동 한 도로에서 살수차가 물을 뿌리며 지나가고 있다. 이날 양산지역 최고 기온은 오후 1시 기준 41.4도로 역대 가장 높은 기온을 기록했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 최씨가 도로에 뿌린 물 양만 70~80t에 달한다. 뜨겁게 달궈진 아스팔트 위에서 물기는 5~6분이면 흔적도 없이 말라버리지만, 시민들은 살수차만 보면 반가움에 손을 흔든다. 조금이라도 도심 열기를 낮출 수 있을 것이란 기대감 때문이다. 최씨는 “2018년부터 살수차를 운행했지만 요즘처럼 바쁜 적은 처음”이라며 “요즘 ‘우리 동네도 뿌려달라’는 요청도 많다. 시민들에게 작게나마 도움이 될 수 있음에 뿌듯함을 느낀다”고 했다. &lt;br&gt;&lt;br&gt;양산은 요즘 폭염과 함께 가뭄도 심각하다. 양산 지역에 최근 두 달간 내린 비는 114㎜에 불과하다. 작년 같은 기간 대비 20% 수준이다. 지난 30일 나동연 양산시장과 지역 주민들은 원동면에 모여 단비를 기원하는 기우제(祈雨祭)를 올리기도 했다. &lt;br&gt;&lt;br&gt;기상청은 “당분간 경남권을 비롯한 전국 대부분 지역에서 극심한 폭염이 이어질 것”이라며 “야외 활동과 실외 작업을 최대한 자제해달라”고 거듭 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GLVO2GTEPFDBNHOGF4H645VLHM.jpg?auth=4eb2e46393c852057e83047d07780e88fe1550993f7a9ac09408c16d7531b32f&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
-    </item>
-    <item>
-      <title>대프리카 더위, “대구 제2빙상장에서 쫓아내세요” </title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/7LJUCSTTHRGRJJYLD23CGTWBRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/7LJUCSTTHRGRJJYLD23CGTWBRA/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 09:37:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBPVN4YGDRLEBBDLXO3X4LACYE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;올해 첫 폭염특보가 발효된 18일 오전 대구 동구 각산동 대구제2빙상장을 찾은 인근 유치원 어린이들이 단체로 스케이트 체험을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 동구에 시민들이 스케이트를 탈 수 있는 빙상장이 정식으로 문을 열었다.&lt;br&gt;&lt;br&gt;대구시는 31일 오후 2시 동구 각산동의 ‘대구 제2빙상장’에서 개장식을 개최했다. 개장식엔 추경호 대구시장과 강은희 대구시교육감, 우성진 동구청장 등 200여 명이 참석했다.&lt;br&gt;&lt;br&gt;원래 대구 북구에는 1995년에 건립된 대구실내빙상장이 있었다. 김소희·진선유·안상미 등 선수들이 이곳에서 훈련하며 올림픽에서 메달을 따냈다. 하지만 시설이 노후되고 훈련 공간이 부족한 점 등이 지적되면서, 새로운 빙상장이 필요하다는 지역 내 여론이 모아졌다.&lt;br&gt;&lt;br&gt;대구 제2빙상장은 연면적 4998㎡에 지하 1층·지상 2층 규모로 조성됐다. 총 사업비 약 200억원이 투입됐으며, 지난 2024년 착공해 올해 3월 준공됐고 시범 운영 기간을 거쳤다. 빙상장은 길이 61m에 너비 30m로 국제 규격에 맞는 아이스링크 1면과 200여 석의 관람석, 스케이트 대여실, 용품점 등을 갖췄다.&lt;br&gt;&lt;br&gt;운영 시간은 오전 6시부터 자정까지지만, 일반 시민들은 오전 10시부터 오후 5시까지 이용할 수 있다. 선수 훈련 시간과 겹치지 않게 하려는 조치다. 이용 요금은 성인 기준 5000원으로, 스케이트 대여료 3000원은 별도다. 안전헬멧은 무료로 제공한다. &lt;br&gt;&lt;br&gt;한편 보수 공사 중인 기존 대구실내빙상장은 내년 상반기 재개장을 앞두고 있다. &lt;br&gt;&lt;br&gt;추경호 대구시장은 “대구제2빙상장이 부족했던 지역 동계스포츠 환경을 보완하고 대구 빙상이 다시 도약하는 출발점이 될 것”이라며 “시민들이 빙상 스포츠를 즐기며 더운 여름을 시원하게 보내길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘잠실 시위’ 첫 구속 40대 女, 다른 시위 참가자 폭행·욕설도</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/CQP56HP6GFCFJH7OPMWCKURRRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/CQP56HP6GFCFJH7OPMWCKURRRE/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 07:45:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UETCHGOBVJBKVKSV5Z6WOTMTKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 ‘잠실 참정권 집회’에서 공무집행방해 등 혐의로 체포된 ‘분홍열사’ 김모(45)씨가 25일 영장실질심사를 마치고 법원에서 나오는 모습. /김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잠실 참정권 집회 현장에서 경찰의 공무집행을 방해한 혐의로 구속 기소된 40대 여성이 다른 집회 참가자들에게도 폭행과 욕설을 한 것으로 확인됐다. 이 여성은 잠실 참정권 집회 참가자 중 처음으로 재판에 넘겨진 인물이다. &lt;br&gt;&lt;br&gt;서울동부지검 공소장에 따르면, 김모(45)씨는 지난달 22일 서울 송파구 올림픽공원 핸드볼경기장 2-2 게이트 앞에서 79세 여성 A씨에게 욕설을 했다. A씨가 반발하자 김씨는 주먹으로 A씨의 머리를 3차례 가격하기도 했다. &lt;br&gt;&lt;br&gt;김씨는 같은 날 오후 핸드볼 경기장 1-3 게이트로 이동해 다른 시위 참가자 B씨에게도 시비를 걸었다. 이를 지켜보던 다른 시민 C(50)씨가 제지하자, C씨에게도 2차례 침을 뱉고 욕설을 내뱉었다.&lt;br&gt;&lt;br&gt;김씨의 폭행과 폭언은 경찰에게도 향했다. 지난달 22일 김씨가 집회 현장에서 다른 시민들을 향해 물병을 던지는 등 소란을 피우자, 경찰 2명이 그를 막아섰다. 그러자 김씨는 본인을 제지하는 경찰을 향해 “XX 새끼야, 죽여버리겠다” “경찰들 죽이러 왔다. 교육 똑바로 해라. 윗대가리 XX들아” 등의 욕설을 했다. &lt;br&gt;&lt;br&gt;그다음 날인 지난달 23일에는 순찰 중이던 경찰에게 다가가 “중국 경찰 아니냐, 한국 경찰이 맞는지 확인하겠다”며 얼굴 강제 촬영도 시도했다. 이를 제지하는 경찰을 향해선 또 욕설을 하면서 두 차례 침을 뱉었다. &lt;br&gt;&lt;br&gt;경찰은 지난달 23일 김씨를 현행범으로 체포한 뒤 구속영장을 신청했고, 법원은 이틀 뒤 영장을 발부했다. 지난 13일 영장실질심사에 참석한 김씨는 “욕을 한 것도, 침을 뱉은 것도 다 이유가 있다”며 억울함을 토로했다. &lt;br&gt;&lt;br&gt;한편 김씨에 대한 공판은 오는 9월 8일에 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘보완수사권 완전 폐지’ 형소법 개정안에 대법원 “재판 길어질 수 있어 현행 구속제도 손봐야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/31/HZGHPBRY45DXHITHDLFNSBUQYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/31/HZGHPBRY45DXHITHDLFNSBUQYM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 08:52:30 +0000</pubDate>
-      <content:encoded>검사의 직접 수사권을 전면 폐지하는 내용의 형사소송법 개정안에 대해 대법원이 “재판 기간이 길어질 수 있다”며 구속제도 개선이 뒤따라야 한다는 의견을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4DAMTBGY2GEMRUGBRWEN3CMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 법원행정처는 31일 국민의힘 주진우 의원실에 이같은 내용이 담긴 의견서를 제출했다. 법원행정처는&amp;nbsp;“이번 형사소송법 개정으로 법정에서의 증거조사와 심리가 한층 충실하게 이뤄질 경우 심리에 소요되는 기간이 늘어날 수 있다”고 우려했다. 검찰의 보완수사가 없어지면 수사 단계에서 부실 조사가 이뤄질 가능성이 커, 재판에서 시시비비를 가리는 데 더 많은 시간이 걸린다는 취지다.&lt;br&gt;&lt;br&gt;그러면서&amp;nbsp;“현행 구속기간 제도하에선 충실한 심리와 피고인의 방어권 보장을 조화시키는 데 한계가 있다는 지적이 있었다”며&amp;nbsp;“구속기간의 합리적 조정이나 조건부 구속·석방제도의 도입 등 인신구속 제도의 개선은 이러한 관점에서 입법적으로 함께 논의될 필요가 있다”고 했다. 현행 제도상 1·2심 구속 기간은 최대 6개월, 3심은 최대 8개월까지 가능하다. 구속된 피고인의 형사 재판이 해당 기간 안에 끝나지 않으면 피고인은 재판 도중 풀려난다. &lt;br&gt;&lt;br&gt;국회는 이날 형사소송법 개정안을 재석 178명 중 찬성 175명으로 가결했다. 형소법 개정안 처리에 반대한 국민의힘 의원들은 표결에 불참했다. 개정안에 따라 검사의 보완수사권과 직접 영장 청구권은 폐지됐다.&lt;br&gt;&lt;br&gt;대법원은 “어떤 제도하에서든 법정에 현출된 증거를 바탕으로 공정하고 충실하게 심리한다는 원칙에 변함이 없다”며 “피고인의 절차적 권리를 보장하고 실체적 진실을 발견하는 데 소홀함이 없도록 최선을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 1일 토요일 (음력 6월 19일 丁未)</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/31/ZPB5HGO6SRHIRLGLGBAAVKOYAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/31/ZPB5HGO6SRHIRLGLGBAAVKOYAM/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘음주운전’ 적발된 부산 해운대서 교통 경찰관, 직위해제 </title>
-      <link>https://www.chosun.com/national/regional/2026/07/31/AW6MYUS3XRHN5LVSPH6YMEXURI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/31/AW6MYUS3XRHN5LVSPH6YMEXURI/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 07:52:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTMMRWMM2WMZBUGI2GGZDBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 전경./ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 현직 교통 경찰관이 음주 운전을 하다 적발됐다.&lt;br&gt;&lt;br&gt;부산경찰청은 도로교통법 위반(음주 운전) 등의 혐의로 입건된 해운대경찰서 교통과 소속 30대 A 경사를 직위해제 처분할 예정이라고 31일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 지난 30일 밤 11시쯤 기장군 일광읍의 한 도로에 멈춰 있던 해운대경찰서 교통과 A 경사의 차량이 신고를 받고 출동한 경찰에 발견됐다. &lt;br&gt;&lt;br&gt;당시 A 경사의 차량이 도로 위에서 신호가 바뀐 뒤에도 움직이지 않자 지나가던 차량 운전자가 112에 이를 신고했다.&lt;br&gt;&lt;br&gt;경찰이 현장에 도착했을 때 A 경사는 차 안에서 잠이 든 상태였다. &lt;br&gt;&lt;br&gt;당시 A 경사의 혈중알코올농도는 면허 취소 수준인 0.08% 이상이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;부산경찰청은 A 경사를 상대로 감찰에 착수하고, 정확한 사고 경위와 음주 운전 동기 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘피습 자작극’ 정이한 전 부산시장 후보 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/2026/07/31/6HZIPTFPKRFJPIMR3Y7PF2FWTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/07/31/6HZIPTFPKRFJPIMR3Y7PF2FWTE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 07:26:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3DCOLEGRSGIZTDGA2TSNTBMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'피습 자작극' 혐의로 구속된 정이한 전 개혁신당 부산시장 후보가 16일 오전 부산 동래구 동래경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6·3 지방선거 과정에서 음료컵 피습 자작극을 벌인 혐의를 받는 정이한(38) 전 개혁신당 부산시장 후보가 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 공공국제범죄수사부(오상연 부장검사)는 정 전 후보를 공직선거법 위반과 위계에 의한 공무집행방해 혐의로 구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;범행에 가담한 헬스 트레이너 A씨도 공직선거법 위반과 상해, 위계에 의한 공무집행 방해 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;정 전 후보와 A씨는 지난 4월 27일 오전 8시쯤 부산 금정구 구서 나들목 인근에서 선거운동을 하던 정 전 후보에게 A씨가 음료를 던지는 방식으로 피습 사건을 꾸민 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 정 전 후보 캠프는 차량 운전자가 던진 음료를 피하려던 정 전 후보가 넘어져 의식을 잃었으며, 병원에서 뇌진탕과 근좌상 진단을 받았다고 발표했다.&lt;br&gt;&lt;br&gt;그러나 경찰 수사 과정에서 서로 모르는 사이라고 주장한 두 사람이 범행 전 통화한 내역과 A씨가 근무한 헬스장에서 범행을 공모하는 모습이 담긴 CCTV 영상이 확인되면서 자작극 정황이 드러났다.&lt;br&gt;&lt;br&gt;두 사람은 10년가량 알고 지낸 사이로, 정 전 후보의 인지도를 높여 선거에 도움을 주려는 목적으로 범행을 꾸민 것으로 조사됐다.&lt;br&gt;&lt;br&gt;선거 보름 전인 지난 5월 18일 자작극 관련 진술을 확보한 경찰은 지난 7월 8일 두 사람을 구속한 뒤 금전 거래 등 대가성 여부와 배후 세력 등에 대해 수사하고 같은 달 16일 사건을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;경찰은 정 전 후보에게 공직선거법상 허위사실 공표와 위계에 의한 공무집행방해 혐의를, A씨에게는 공직선거법상 선거자유방해와 위계에 의한 공무집행방해, 상해 혐의 등을 적용했다.&lt;br&gt;&lt;br&gt;검찰은 보완수사를 통해 이번 자작극이 정 전 후보의 계획과 구체적인 지시에 따라 실행된 사실을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 정 전 후보가 피습 사건과 관련해 허위 사실을 공표한 데 그치지 않고 선거운동 과정에서 자작극을 계획하고 실행하도록 지시한 행위도 처벌할 필요가 있다고 판단했다.&lt;br&gt;&lt;br&gt;이에 경찰 수사 단계에서는 적용되지 않았던 공직선거법상 선거자유 방해 교사 혐의를 정 전 후보에게 추가로 적용해 기소했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “선거에 출마한 후보자가 인지도 상승 등을 위해 자작극을 계획하고 연출해 선거의 공정성을 훼손한 중대한 범죄”라며 “죄에 상응하는 처벌이 이뤄질 수 있도록 공소 유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>병원 옮길 때마다 찍던 CT·MRI, 내년부턴 QR로 영상 전송한다 </title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/07/31/MZ6VUMHEKZAGFPAJGD2CXZWXZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/07/31/MZ6VUMHEKZAGFPAJGD2CXZWXZA/</guid>
-      <dc:creator>김지원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 05:15:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FED4L23JZBXIOWRRKAFSPXR3UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;컴퓨터단층촬영(CT) 장비/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로는 병원을 옮길 때마다 컴퓨터단층촬영(CT)이나 자기공명영상(MRI)을 새로 찍어야 하는 불편이 줄어들 전망이다. 환자가 스마트폰 QR코드를 이용해 기존 의료 영상을 다른 병원에 직접 전송할 수 있는 시스템이 도입된다.QR코드는 스마트폰 카메라로 인식하면 관련 정보나 인증 화면으로 바로 연결되는 사각형 모양의 바코드다. &lt;br&gt;&lt;br&gt;31일 보건복지부의 ‘2026년 하반기 업무계획’에 따르면, 복지부는 개인의료데이터 조회가 가능한 ‘나의건강기록’ 앱에 CT·MRI 영상정보를 연동하는 ‘영상정보공유시스템’을 내년 상반기까지 마련할 계획이다. &lt;br&gt;&lt;br&gt;지금까지는 환자가 기존 CT·MRI 촬영 영상을 CD나 USB에 담아 직접 옮기는 경우가 많았다. 이 과정에서 자료가 누락되거나 새로 옮긴 병원이 영상 품질 등을 이유로 재촬영을 요구하면서 환자가 돈과 시간을 낭비하는 일이 반복돼왔다. &lt;br&gt;&lt;br&gt;영상정보공유시스템이 도입되면 환자는 QR 코드 인증을 거쳐 의료영상과 진료정보를 다른 의료기관에 보낼 수 있다. ‘나의건강기록’ 앱에 접속해 본인 인증을 거치면, 전송할 의료영상과 진료받을 병원을 선택해 QR코드 인증을 통해 해당 병원에 보내는 방식이 될 것으로 보인다. &lt;br&gt;&lt;br&gt;정부는 시스템이 정착되면 불필요한 중복 검사를 줄여 환자의 비용 부담은 물론 건강보험 재정 지출도 낮출 수 있을 것으로 보고 있다. 건강보험심사평가원에 따르면, 지난해 처음 CT를 촬영한 뒤 같은 질병으로 30일 이내 다른 병원을 방문한 환자 94만4172명 가운데 25만3438명(26.8%)이 CT를 재촬영한 것으로 나타났다. 4명 중 1명 이상이 한 달 안에 같은 부위를 또 촬영한 셈이다. 지난해 재촬영으로 건강보험공단에 청구된 급여비는 CT 491억5200만원, MRI 159억원 등 총 650억5200만원에 달했다.&lt;br&gt;&lt;br&gt;정부는 앞서 CT와 MRI 등 검사 가격을 낮춰 건강보험 재정을 절감하는 수가 구조 개편안을 발표했다. 그러나 검사 단가를 낮추는 것만으로는 병원을 옮긴 환자에게 같은 검사를 다시 요구하는 관행을 막기 어렵다는 지적이 있었다. 이에 검사 가격 인하와 별도로 병원 간 영상정보 공유체계를 마련해 중복 촬영 자체를 줄이기로 한 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FED4L23JZBXIOWRRKAFSPXR3UU.jpg?auth=e55770bc2d9cd6d66e20a74ee14fe74aca43e9209afe32aacb3bed32617d554c&amp;smart=true&amp;width=1500&amp;height=843" type="image/jpeg" height="843" width="1500">
-        <media:description type="plain">컴퓨터단층촬영(CT) 장비/조선DB</media:description>
-        <media:credit role="author" scheme="urn:ebu">H+양지병원</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>내란 특검, ‘1심 공소기각’ 박성재 청탁금지법 위반 2차 특검에 이첩</title>
-      <link>https://www.chosun.com/national/court_law/2026/07/31/4I6UDRVRH5D2RFPBUHQLE3XTBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/07/31/4I6UDRVRH5D2RFPBUHQLE3XTBI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jul 2026 04:29:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SWGZTEMNTDKMDDGUZTAZDFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 지난달 22일 오후 서울 서초구 중앙지방법원에서 열린 내란중요임무종사, 청탁금지법 위반 등 혐의 1심 선고 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 지난 30일 박성재 전 법무부 장관의 청탁금지법 위반 혐의 사건을 2차 종합특검에 이첩했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;박 전 장관은 12·3 비상계엄 관련 내란 중요 임무 종사 혐의와 함께 김건희 여사의 청탁을 받고 검찰의 ‘디올 백 수수’ 의혹을 알아본 혐의(청탁금지법 위반)로 재판에 넘겨졌었다. 1심 재판부인 서울중앙지법 형사33부(재판장 이진관)는 지난달 22일 박 전 장관에게 징역 25년을 선고하고 박 전 장관을 법정 구속했지만, 그의 청탁금지법 위반 혐의에 대해서는 “특검 수사 범위를 벗어났다”며 공소기각했다. 내란 특검은 1심 선고 직후 판결 전반에 걸쳐 항소했는데, 이 중 청탁금지법 위반 혐의에 대해서는 항소를 취하했었다.&lt;br&gt;&lt;br&gt;이날 내란 특검은 “이 사건은 종합특검법 제2조 제1항 제13호에 따라 종합특검의 수사대상에 해당한다”며 “이송 관련 규정인 형사소송법 제256조(타관송치)에 따라 종합특검에 이첩했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해킹 당해 2억 무단결제 피해 KT에 과징금 540억원 부과</title>
