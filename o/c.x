@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>동해 묵호항 인근 상가 화재… 대응 1단계 발령</title>
+      <link>https://www.chosun.com/national/regional/2026/08/04/2AY7NJK5FVDYFBLWTBPQFA2PKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/04/2AY7NJK5FVDYFBLWTBPQFA2PKI/</guid>
+      <dc:creator>동해=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Aug 2026 23:48:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAREWEAQLVBXJCI5KDQZLS2OW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 강원 동해시 묵호진동 한 상가에서 불이 나 소방 당국이 진화 작업을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 6시 11분쯤 강원 동해시 묵호진동 묵호항 인근의 한 상가에서 불이 났다.&lt;br&gt;&lt;br&gt;불이 나자 소방 당국은 장비 27대와 인력 65명을 투입해 진화 작업을 벌이고 있다. 또 신속한 진압과 안전 확보를 위해 오전 6시 25분쯤 대응 1단계를 발령했다.&lt;br&gt;&lt;br&gt;불이 난 상가에 있던 주민 2명은 사전에 대피해 현재까지 인명 피해는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 불을 끄는 대로 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] 싸구려 수트와 수억 달러의 무기</title>
       <link>https://www.chosun.com/national/2026/08/04/MMPVYWZPD5AZ7IB6IK7GHDVKS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/08/04/MMPVYWZPD5AZ7IB6IK7GHDVKS4/</guid>
@@ -732,22 +741,6 @@
       <content:encoded>경찰청이 성 비위 의혹이 제기된 경남 김해서부경찰서 소속 A 경정에 대해 수사에 나선 것으로 2일 알려졌다. 경찰청은 A 경정이 회식 자리에서 부하 여경들을 추행하고, 승진을 대가로 부하 직원이 술값을 대신 내게 했다는 의혹 등을 감찰해 왔는데 정식 수사로 전환한 것이다. 경찰은 A 경정과 가까운 것으로 알려진 전 경남 거제경찰서 소속 경정 1명과 경감 1명도 성비위에 연루됐다는 의혹이 제기돼 대기 발령 조치했다. &lt;br&gt;&lt;br&gt;A 경정은 1991년 경남 지역에서 순경으로 시작해 경찰 생활 35년 대부분을 거제경찰서에서 근무했다. 한 경찰서에서 장기간 근무한 이른바 향찰(鄕察)이다. 경찰을 하며 쌓은 인맥 등이 상당해 지역 경찰들 사이에선 ‘거제왕’이라 불렸다고 한다.&lt;br&gt;&lt;br&gt;거제 인구는 올해 6월 기준 22만9000명 정도다. A 경정은 고향인 거제경찰서에서 지역 정보와 동향 등을 수집하는 정보과에서 주로 근무했다고 한다. A 경정은 거제 지역에 거점을 둔 산업계·노동계 인사들과 친분이 두터웠다고 지역 경찰들은 전했다. 한 지역 경찰 관계자는 “A 경정은 마당발로 통했다”며 “순환 근무로 거제경찰서에 부임한 경찰 간부 후보생이나 경찰대 출신 상관들과도 호형호제하며 관계를 맺은 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;A 경정은 이렇게 쌓은 인맥을 통해 경찰 인사에 관여했다는 의혹도 받고 있다. A 경정은 2023년 경남경찰청 광역정보팀장에 지원했다가 심사위원회에서 부적격 판정을 받았다. 그런데도 그는 이 보직에 임명됐다. 이와 관련, 경찰은 당시 경남경찰청장을 지낸 B 치안감을 불러 인사 경위를 조사했다. B 치안감은 “당시 지원자가 A 경정밖에 없었고 다른 적격자도 없었다”고 진술한 것으로 알려졌다. 경찰청은 거제경찰서에서 이뤄진 승진 대상자 선정 과정도 들여다보고 있다. 경찰은 A 경정이 지역 기업인이나 시민 단체 대표 등이 위원으로 위촉되는 민관 ‘경찰발전협의회’ 등을 통해 총경급 인사에도 영향력을 행사했다는 의혹도 살펴보는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A 경정을 둘러싸고 최근 하극상 논란도 불거졌다. 경남경찰청에서 근무하던 A 경정은 지난 5월 고향 거제가 아닌 김해서부경찰서로 발령되자 청장을 찾아가 고함을 지르며 항의했고 이후 병가와 휴가를 번갈아 쓰면서 출근하지 않고 있다고 한다. 한 경찰 관계자는 “순환 근무로 통상 3~7년마다 다른 지역으로 옮겨 다니는 경찰서장(총경급)보다 지역에서 장기간 근무한 A 경정이 영향력이 더 세다는 소리가 있었다”고 했다. A 경정은 최근 아내를 통해 사표를 제출했지만, 경찰청은 진상 규명이 마무리될 때까지 사표를 수리하지 않겠다는 입장이다. A 경정은 “사실 관계가 확인되지 않은 의혹도 있다”며 “앞으로 진행될 조사에서 충실히 소명하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/PLJXLCT3OWDLOH5PNKJGF2IXL4.jpg?auth=e86d2c73eb47a21922a5ac8f34e0396dac8fd0ae6c6b021d16034f7e356a86d4&amp;smart=true&amp;width=1938&amp;height=1228" type="image/jpeg" height="1228" width="1938">
         <media:description type="plain">거제경찰서 전경.(거제경찰서 제공)</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>42.5도 찍은 남부 폭염, 이번주 수도권 덮쳐</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/08/03/E4EK56MSKFF6BPMDLZJN7PIJ4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/03/E4EK56MSKFF6BPMDLZJN7PIJ4M/</guid>
-      <dc:creator>박상현 기자, 안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Aug 2026 15:56:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERZMEOY3A5KJPB22RL74SOJY44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경남 양산지역 낮 최고기온이 42.5도를 기록한 2일 오후 양산시 양산남부시장에서 한 상인이 얼음물을 마시고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염이 폭주하고 있다. 2일 경남 양산의 낮 최고기온이 42.5도까지 오르며 관측 사상 최고치를 경신했다. 국내 기온이 42도를 돌파한 것은 이번이 처음이다. 3일부터는 동풍이 불어오며 폭염의 기세가 남부에서 중부 지방으로 옮겨갈 전망이다.&lt;br&gt;&lt;br&gt;2일 기상청에 따르면, 이날 오후 1시 26분 양산의 수은주가 42.5도를 찍었다. 전날 세운 역대 최고 기온 기록(41.6도)을 하루 만에 경신한 것이다. 양산에서는 지난달 29일부터 닷새째 40도 넘는 폭염이 이어졌다. 열기가 계속 쌓이면서 40도를 넘긴 시간은 지난달 29일 오후 3시 26분에서 1일 오후 12시 14분으로 빨라졌고, 2일엔 오전 11시 56분까지 당겨졌다.&lt;br&gt;&lt;br&gt;3일부터는 내륙으로 불어오는 바람이 남서풍에서 동풍으로 바뀌며 우리나라 서쪽 일대가 극심한 폭염에 신음할 것으로 예상된다. 동풍이 태백산맥과 소백산맥을 넘는 과정에서 ‘푄 현상’으로 열풍(熱風)이 돼 서쪽 지역을 달굴 전망이다. 3일 서울이 최고 37도에 이르는 등 전국 최고기온은 32~39도로 예상된다.&lt;br&gt;&lt;br&gt;극한 폭염이 이어지면서 온열 질환자 수도 급증했다. 올해 온열 질환자는 지난 1일 기준 총 1889명(사망자 14명 포함)을 기록했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇&lt;/b&gt;&lt;b&gt;전국 13개 지역이 40도 넘어… 기상청 “최소 열흘간 폭염 지속”&lt;/b&gt;&lt;br&gt;&lt;br&gt;국내 기온이 ‘42도’를 돌파한 것은 1904년 근대적 기상 관측이 시작된 이후 122년 만에 일어난 초유의 사태다. 양산은 2일 오후 1시 16분 42.0도를 기록했고, 10분 후에는 42.5도를 찍었다.&lt;br&gt;&lt;br&gt;‘42.5도’는 기상청이 공식 기상 기록을 관리하는 ‘기후 통계 관측 지점’(종관기상관측지점)에서 관측됐다는 점에서 의미가 크다. 이와 별개로 전국 550여 곳에 설치된 자동기상관측장비(AWS)는 설치 위치나 주변 환경 등 변수에 따라 관측값이 다소 과장되거나 축소될 수 있다. 전국 97곳에 있는 종관기상관측지점에서 관측된 수치는 이런 변수가 제거된 가장 정확한 실측값이다. &lt;br&gt;&lt;br&gt;2일 양산뿐 아니라, 경남 창원·밀양, 전남광주 광양도 최고기온이 41도를 기록했다. 경남 김해(40.7도), 의령(40.6도), 부산 북구(40.6도) 등 전국 13개 시·군·구의 총 15곳 관측지점에서 40도가 넘는 폭염이 나타났다. &lt;br&gt;&lt;br&gt;살인적 폭염의 원인으로는 높은 해수면 온도와 ‘이중 고기압’의 영향이 꼽힌다. 대기 상·하층을 덮고 있는 티베트고기압과 북태평양고기압이 ‘열돔 효과’를 내는 것이다. 특히 양산과 부산·창원 등은 남서풍이 소백산맥을 넘으며 더 고온 건조해져서 바람의 온도가 다른 지역보다 더 뜨거웠다. 또 낮은 고도에서 형성되는 ‘하층운’이 소백산맥을 넘지 못하면서 이들 지역은 낮 동안 내리쬐는 강한 햇볕을 막아줄 가림막이 없었다. 여기에 도시화에 따른 ‘열섬 현상’ 등이 복합적으로 작용했다는 분석이다.&lt;br&gt;&lt;br&gt;남부 지방이 펄펄 끓으면서 경남의 온열 질환자 수가 서울의 환자 수를 넘어선 것으로 나타났다. 질병관리청은 지난 1일 기준 경남의 온열 질환자가 총 175명으로, 서울(162명)보다 많다고 밝혔다. 경남의 인구(약 320만명·6월 기준)는 서울(929만명)의 3분의 1 수준인데, 온열 질환자는 오히려 많은 것이다.&lt;br&gt;&lt;br&gt;극한 폭염은 3일을 기점으로 중부지방에서 나타날 전망이다. 남서풍 대신 동풍이 불면서, 이번에는 뜨거운 바람이 태백산맥과 소백산맥을 동에서 서로 넘으며 서쪽 지역을 달구는 것이다. 기상청은 최소 오는 12일까지 폭염이 이어질 것으로 내다봤다. 기상청 이원길 통보관은 “생명을 위협하는 수준의 극단적 더위가 계속되고 있기 때문에 실외뿐만 아니라 실내에서도 폭염으로 인한 온열질환에 대비해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6FU23QLSJVKE7ANPIQZLFNDAYM.jpg?auth=e2277dfa8f2f77951311fa86d0cd1af086439f7c7c8a9eaf75e90f2c38d570ce&amp;smart=true&amp;width=3243&amp;height=2076" type="image/jpeg" height="2076" width="3243">
-        <media:description type="plain">&lt;YONHAP PHOTO-1688&gt; 열대야 잊고 해변에서 꿀잠
-    (강릉=연합뉴스) 유형재 기자 = 연일 폭염과 열대야가 이어진 2일 새벽 강원 강릉시 경포해수욕장 백사장에서 피서객들이 돗자리를 깔고 바닷바람을 맞으며 잠을 자고 있다. 2026.8.2 
-    yoo21@yna.co.kr/2026-08-02 09:44:10/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">유형재</media:credit>
       </media:content>
     </item>
     <item>
