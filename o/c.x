@@ -13,6 +13,102 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>특검 “용산에 ‘김건희 집무실’ 있었다”…金측 “초기 아냐, 뒤늦게 소규모 설치”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/05/3P3QUP3V7NEETIWMW4CF2O4WKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/05/3P3QUP3V7NEETIWMW4CF2O4WKI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Aug 2026 05:20:28 +0000</pubDate>
+      <content:encoded>2차 종합특검(특별검사 권창영)이 윤석열 정부 출범 초기부터 용산 대통령실에 김건희 여사를 위한 집무 공간이 마련돼 있었다는 진술을 확보한 것으로 5일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7OL3SY4TY5VUZ4WA7C7WBBOFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 최근 ‘대통령실 관저 이전 의혹’을 수사하는 과정에서 대통령 경호처 관계자로부터 “대통령실에 영부인을 위한 집무실을 설치했다”는 취지의 진술을 확보한 것으로 전해졌다. 이 관계자는 김 여사의 집무실이 대통령실 한 층의 절반에 해당하는 규모였다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 김 여사 집무실에 유리창 등 방탄 시설을 설치하는 데 약 10억원의 예산이 투입된 것으로 파악하고 있다. 이는 윤 전 대통령 집무실의 방탄 설비에 들어간 비용과 비슷한 수준이라고 한다. 특검은 김 여사를 위한 집무실이 윤석열 정부 초기에 설치된 정황도 확인한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이에 대해 김 여사 변호인단은 이날 입장문을 내고 “윤석열 정부 초기에는 영부인을 위한 집무 공간이 존재하지 않았다”며 전면 부인했다. 김 여사 측은 “2024년 하반기 제2부속실 설치를 발표하면서 대통령실의 빈 공간에 제2부속실과 영부인 집무실을 소규모로 설치한 사실만 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 “이 같은 사실관계는 특검도 이미 파악하고 있을 것으로 보인다”며 “특검의 허위보도 양산과 사실 왜곡에 유감을 표하며 이러한 행태를 중단할 것을 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;다만 오는 23일 수사기간 만료를 앞두고 특검이 관련 수사에 착수할지는 아직 결정되지 않았다. 특검은 해당 사안이 특검법상 수사 대상에 포함되는지 여부 등을 계속 검토하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추미애 “경기도 재정 비상 상황” 선언, 왜?</title>
+      <link>https://www.chosun.com/national/regional/2026/08/05/TO2EOKZOQBDPVJJPCVN7TF4DNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/05/TO2EOKZOQBDPVJJPCVN7TF4DNE/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Aug 2026 01:35:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXLOOJLV7REWPHLKOZALM2HFLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추미애 경기도지사가 5일 경기도 수원시 경기도청에서 '경기도 재정 비상 상황' 선언 기자회견을 하고 있다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기도지사는 5일 “경기도 재정이 사실상 비상 상황에 놓였다”며 “‘경기도 재정 비상’을 공식 선언한다”고 밝혔다.&lt;br&gt;&lt;br&gt;추 지사는 이날 오전 경기도청 브리핑룸에서 기자회견을 열고 “도민께 반드시 알려야 할 경기도의 현실이 있다”며 “지금 경기도는 이미 진행 중인 사업조차 온전히 유지하기 어려운 지경에 이르렀다”고 말했다.&lt;br&gt;&lt;br&gt;추 지사는 지난 김동연 경기도지사 재임 당시 민선 8기 도정을 두고, “예산이 부족하다는 이유로 상당수 민생 사업과 필수 사업의 올해 예산을 12개월이 아닌 9개월분만 편성했다”며 “취임 직후에야 이 중대한 사실과 구체적인 재정 실상을 보고받았다”고 했다.&lt;br&gt;&lt;br&gt;경기도에 따르면 도는 약 7700억원 규모의 감액 추경을 해야 하는 상황이다. 세입이 줄고 의무 지출이 늘어나면서 재정 여건이 더욱 악화할 가능성도 나온다.&lt;br&gt;&lt;br&gt;지난해 경기도는 3차례에 걸쳐 9430억원의 지방채를 발행했는데, 이는 지방채 발행 한도(9460억원)의 99.6%에 달하는 수치다. 지방채 발행은 경기도에서 20년 만에 처음 있는 일이다.&lt;br&gt;&lt;br&gt;또 3차에 걸친 추가경정예산을 통해 각종 기금에 있는 5588억원을 끌어다 쓰기도 했다. 추 지사는 “미래 위기에 대비해야 할 기용 재원까지 사실상 소진한 것”이라며 “눈속임으로 당장의 위기를 넘겼지만 올해 예산조차 온전히 편성하지 못해 미완의, 미생(未生) 예산인 것”이라고도 했다.&lt;br&gt;&lt;br&gt;추 지사는 노인 장기 요양 예산 1234억, 소아 응급 책임 의료 기관 육성 약 10억, 친환경 우수 농축산물 학교 급식 지원 약 34억, 경기도 산후조리비 지원 약 80억 등 민생 사업의 올해 10~12월 3개월 치 예산이 편성되지 못했다고 했다.&lt;br&gt;&lt;br&gt;추 지사는 “임시방편으로 위기를 가리는 동안 경기도 재정을 바로잡을 골든타임마저 놓쳐버리고 말았다”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 “경기도 전체 예산은 약 41조7000억원이지만, 도가 자체적으로 활용할 수 있는 재원은 약 3조5000억원에 불과하다”며 “나머지 대부분은 복지 사업, 국비 매칭 사업, 시·군 조정 교부금처럼 사용처와 부담 규모가 이미 정해져 있다”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 서울과 경기도를 비교하면서 “재정 여력이 충분한 지자체라고 생각하지만, 서울과 경기도는 세입 구조부터 근본적인 차이가 있다”고 했다.&lt;br&gt;&lt;br&gt;경기도 세원에는 지방소득세가 없고, 보통교부세를 받지 못하는 불교부 단체라는 것이다. 도 전체 도세 절반 이상을 부동산 거래에 따라 크게 변동하는 취득세에 의존하고 있는 점도 문제라고 지적했다.&lt;br&gt;&lt;br&gt;실제로 부동산 거래가 줄면 경기도 재정 여력도 위축된다. 2022년 약 11조원 수준이던 경기도 취득세 수입은 올해 약 8조원 수준으로 약 30% 줄었다.&lt;br&gt;&lt;br&gt;추 지사는 “세입은 줄어드는데, 경기도가 부담해야 할 재정 수요는 빠르게 증가하고 있다”며 “복지 예산이 전체의 약 49%에 달하는데, 지금 같은 증가세가 이어지면 머지않아 전체 예산의 60%에 이를 수 있다”고도 했다. 경기도에 대규모 인구 유입과 고령화로 인한 복지 수요가 앞으로 더 크게 늘어날 수밖에 없는 구조라는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQWCYJUGQ2WMNRTGAZWEYRRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청사. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추 지사는 “도지사와 고위 공직자의 각종 업무 경비를 감액하는 등 불필요한 지출을 줄이고, 강도 높은 세출 구조 조정을 즉각 시행하겠다”고 했다. 추 지사는 또 “낭비성 예산의 편성, 집행을 전면 중단하고, 일회성 행사와 불요불급한 사업은 즉시 중단하겠다”고도 했다.&lt;br&gt;&lt;br&gt;추 지사는 또 “공직 조직의 체질을 근본적으로 바꿔 사업 필요성과 성과, 중복 여부를 원점에서 점검하고, 세입 구조를 정상화하기 위한 제도 개혁에 나서겠다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “지방소비세 확충과 기업 유치에 따른 세수의 합리적 배분, 국고 보조 사업의 과도한 지방비 부담 개선을 국회와 정부에 강력히 요구하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QXLOOJLV7REWPHLKOZALM2HFLI.jpg?auth=8eff3ae40806bb25aedac0bacf776dd27f2dfa7218d459b62cd92447c038a056&amp;smart=true&amp;width=2736&amp;height=1539" type="image/jpeg" height="1539" width="2736">
+        <media:description type="plain"> 경기도 재정 비상 선언 기자회견 하는 추미애 경기지사
+    (수원=연합뉴스) 홍기원 기자 = 추미애 경기도지사가 5일 경기도 수원시 경기도청에서 '경기도 재정 비상 상황' 선언 기자회견을 하고 있다. 2026.8.5
+    xanadu@yna.co.kr/2026-08-05 11:02:49/
+&amp;lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">홍기원</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“뇌물수수 전력 임용 철회하라” 충북도, 박병국 특보 인사 논란</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/08/05/4EYWHSSC3JC55DO3TZHIM2W7DY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/08/05/4EYWHSSC3JC55DO3TZHIM2W7DY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Aug 2026 04:30:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYDMY3EHBSTIZTEGY4DEMJVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동원 국민의힘 충북도당위원장이 5일 충북도청 브리핑룸에서 기자회견을 열어 "충북도는 뇌물 수수 혐의로 실형을 선고받은 박병국 전 경무관의 대외협력특별보좌관 내정을 즉각 철회하라"고 요구하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물수수 전력이 있는 박병국 전 경무관의 충북도 대외협력특별보좌관(2급 상당) 임용을 둘러싼 논란이 확산하고 있다. 시민단체에 이어 국민의힘 충북도당도 “도민 상식에 맞지 않는 인사”라며 임용 철회를 촉구했다.&lt;br&gt;&lt;br&gt;김동원 국민의힘 충북도당위원장은 5일 충북도청에서 기자회견을 열고 “대외협력특보는 중앙정부와 국회, 주요 기관을 상대로 충북도를 대표하는 핵심 보직”이라며 “누구보다 높은 도덕성과 공적 신뢰가 요구되는 자리인데도 뇌물죄로 실형이 확정된 인사를 임명하려는 것은 도민의 상식과 눈높이에 맞지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “이번 인사를 강행하면 부패 전력이 있어도 정치적 배경만 있으면 고위직에 임명될 수 있다는 잘못된 선례를 남길 수 있다”며 “공직사회가 지켜야 할 청렴과 책임의 원칙도 흔들릴 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;이어 “정치적 보은 인사라는 의혹까지 제기되는 만큼 충북도는 어떤 기준과 검증 절차를 거쳐 임용을 추진했는지 도민에게 분명히 설명해야 한다”며 “끝내 인사를 강행한다면 그에 따른 정치적·행정적 책임은 인사권자가 져야 한다”고 했다.&lt;br&gt;&lt;br&gt;지역 시민 단체도 잇따라 반대 입장을 내고 있다. 충북참여자치시민연대는 전날 성명을 통해 “중앙정부와의 인적 네트워크가 필요하다는 이유만으로 공직 부패 전력이 있는 인사를 고위 공직에 임명하는 것은 정당화될 수 없다”고 밝혔다. 시민단체 공정한세상도 “공직자의 도덕성은 개인의 문제가 아니라 행정 신뢰의 문제”라며 임용 재검토를 요구했다.&lt;br&gt;&lt;br&gt;충북시민사회단체연대회의도 6일 기자회견을 열고 박 전 경무관 임용에 반대하는 입장을 밝힐 예정이다.&lt;br&gt;&lt;br&gt;경찰대 1기 출신인 박 전 경무관은 2012년 특정 업체로부터 금품을 받은 혐의로 기소돼 이듬해 대법원에서 특정범죄가중처벌법상 뇌물죄로 징역 2년 6개월을 확정받았다. 이후 이재명 대통령의 경기도지사 재임 당시 경기도시장상권진흥원 상임이사를 지냈다.&lt;br&gt;&lt;br&gt;충북도는 “어려운 재정 여건 속에서 중앙정부와의 협력 강화와 국비 확보를 위해 필요한 인사”라며 임용을 추진하는 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캄보디아 범죄 조직, 베트남 거쳐 카자흐스탄까지 갔다... 조직원 19명 검거</title>
+      <link>https://www.chosun.com/national/incident/2026/08/05/GJQ2IOFDQZGK7GEHFCIYWXJZ5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/05/GJQ2IOFDQZGK7GEHFCIYWXJZ5U/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Aug 2026 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRJFO4C6YNG4XEYB3SVDOWUNVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국 경찰청, 국가정보원 등으로 구성된 '초국가범죄 특별 대응 TF'와 카자흐스탄 당국이 지난달 카자흐스탄 수도 알마티에서 활동하던 한국인 범죄 조직원들을 검거하는 모습. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에 거점을 두고 활동하던 스캠(온라인 사기) 범죄 조직들이 인근 동남아 국가에 이어 중앙아시아로까지 근거지를 옮기고 있는 것으로 확인됐다. 캄보디아 당국의 단속이 강화되자 베트남·태국 등으로 옮겨가는 ‘1차 풍선 효과’가 나타난 데 이어, 또다시 단속을 피해 이주한 ‘2차 풍선 효과’까지 일어나고 있는 것이다.&lt;br&gt;&lt;br&gt;범정부 합동 ‘초국가범죄 특별 대응 TF’(경찰청·외교부·법무부·국가정보원)는 “카자흐스탄 당국과 합동 작전을 벌여 수도 알마티에 위치한 스캠 범죄 사무실과 조직원 은신처를 지난달 23일 급습해 한국인 조직원 14명을 검거했다”며 “조직에서 활동하다가 한국에 귀국해 있던 5명도 국내에서 검거했다”고 5일 밝혔다. 경찰은 현지에서 검거된 이들을 이날까지 순차적으로 국내 송환했으며, 부산경찰청에서 수사하고 있다. 검거된 19명 중 14명이 구속됐으며, 나머지 5명도 구속영장을 신청할 예정이거나 영장실질심사가 예정돼 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이번에 검거된 조직은 캄보디아에 거점을 두고 활동하던 한국인 범죄 조직이 동남아를 벗어나 제3국으로 이동한 사실이 확인된 첫 사례다. 경찰에 따르면 이들 조직은 지난해 캄보디아에서 베트남 호찌민으로 거처를 옮겼고, 베트남 당국의 단속이 강화되자 지난 3월부터 순차적으로 카자흐스탄으로 이동해 5월부터 본격적으로 활동했다. 일종의 ‘풍선 효과’인 셈이다. 한국과 카자흐스탄 당국이 이들을 검거하기 위해 벌인 합동 작전의 이름도 풍선을 떠뜨리는 바늘이란 뜻의 카자흐스탄어 ‘이네(INE)’였다. &lt;br&gt;&lt;br&gt;이들이 카자흐스탄을 새 거점으로 택한 이유로는 컴퓨터 시설 등 인프라가 비교적 잘 갖춰져 있고, 중국·키르기스스탄과 붙어 있어 육로 도주가 용이하며, 카자흐스탄인의 외양이 한국인과 비슷해 크게 눈에 띄지 않는 점 등이라고 경찰은 파악하고 있다. 실제로 이 조직의 관리자와 총책이던 중국 국적 2명은 현재 중국으로 도주한 상태다. 경찰은 “엄밀한 수사를 통해 이들을 포함해 이번에 검거되지 않은 조직원들이 법의 심판을 받을 수 있게 하겠다”고 했다.&lt;br&gt;&lt;br&gt;이들은 카자흐스탄 수도 알마티 지역에 콜센터를 차린 후 금융감독원과 검찰 등 정부 기관을 사칭해 피해자를 고립시킨 채 돈을 뜯어내는 ‘셀프 감금’ 수법으로 범행을 했다. 우리 국민 16명을 대상으로 약 6억원 상당의 피해를 입힌 것으로 조사됐다. 경찰은 이들 조직이 캄보디아에 있을 때부터 범행한 것까지 포함하면 피해 규모가 수십억원에 이를 것으로 보고 있다. 경찰 관계자는 “이들의 움직임을 추적하다가 피해가 커지기 전에 선제적으로 단속을 한 것”이라며 “제3국으로 이동을 준비하는 다른 조직들의 활동이 위축되는 효과를 기대한다”고 했다.&lt;br&gt;&lt;br&gt;초국가범죄 특별 대응 TF는 “범죄조직이 아무리 멀고 생소한 지역으로 숨더라도 끝까지 추적해 반드시 법의 심판대에 세워 국민의 안전을 지키겠다”며 “이번 공동 작전이 성사될 수 있도록 아낌없이 협조해 준 카자흐스탄 정부에 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢 ‘석유화학제품 가격 담합 의혹’ 석화업체 7곳 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/05/4EP7I7BBIVCFXGCWLAZYZ7K54A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/05/4EP7I7BBIVCFXGCWLAZYZ7K54A/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Aug 2026 02:27:22 +0000</pubDate>
+      <content:encoded>검찰이 폴리염화비닐(PVC)과 가소제 등 석유화학제품 가격을 수 년간 담합한 혐의를 받는 국내 업체들을 상대로 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTMY3FMVQTSN3DMM2GENBZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 서울중앙지검 공정거래조사부(부장 나희석)는 “금일 오전부터 PVC, 가소제, 가성소다, 염산 등 총 8개 석유화학제품 품목에 대해 수 년간 가격을 담합했다는 공정거래법 위반 혐의와 관련해 7개 회사의 사무실과 관련자에 대한 압수수색을 진행 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;압수수색 대상은 LG화학과 한화솔루션, 애경케미칼, OCI, 롯데정밀화학, PKC, 유니드 등 7곳인 것으로 전해졌다. 검찰은 이번 압수수색을 통해 가격 결정 과정과 업체 간 연락 내역 등이 담긴 자료를 확보하고 있다고 한다.&lt;br&gt;&lt;br&gt;PVC는 나프타를 주원료로 만드는 합성 플라스틱으로 건축자재와 배관, 전선 피복 등에 널리 쓰인다. 가소제는 PVC를 부드럽고 유연하게 만드는 화학 첨가제다. 앞서 공정거래위원회도 지난 5월 석유화학업체들의 가격 담합 정황을 포착해 현장 조사에 나선 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성·SK하이닉스 대표 ‘성과급 배임’ 고발 사건…경기남부청 배당</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/05/HBPAQZOALVDEDMN7QGU5NZ247E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/05/HBPAQZOALVDEDMN7QGU5NZ247E/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Aug 2026 01:23:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3DMNDCMQ3DKOBVMI3WCNTCME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주주단체가 성과급 지급과 관련해 삼성전자와 SK하이닉스 대표이사들을 배임 혐의로 고발한 사건을 경기남부경찰청이 수사한다.&lt;br&gt;&lt;br&gt;5일 대한민국주주운동본부에 따르면, 경기남부경찰청은 삼성전자 대표이사 전영현·노태문 부회장에 대한 특정경제범죄가중처벌법상 배임 혐의 고발 사건과 SK하이닉스 곽노정 대표이사에 대한 사건을 수사1·2계에 각각 배당했다.&lt;br&gt;&lt;br&gt;앞서 이 단체는 지난달 22일 경찰청 국가수사본부에 고발장을 제출했다. 이들은 양사 경영진이 노조와의 성과급 협상 과정에서 회사 재산을 부당하게 유출하는 구조를 만들었다며 배임 혐의가 성립한다고 주장했다.&lt;br&gt;&lt;br&gt;주주운동본부는 성과급은 노사 단체교섭 대상이 아니라 주주총회 의결을 거쳐야 할 사안이며 영업이익의 일정 비율을 성과급으로 연동해 지급하는 방식은 위법 소지가 있다는 입장이다.&lt;br&gt;&lt;br&gt;단체는 이와 별도로 김영훈 고용노동부 장관도 직권남용권리행사방해와 강요 혐의로 고위공직자범죄수사처에 고발했다. 지난 5월 삼성전자 노사의 성과급 관련 잠정 합의 과정에서 정부가 부당하게 개입했다는 것이 이들의 주장이다.&lt;br&gt;&lt;br&gt;경찰은 고발 내용을 검토해 사실관계와 법리 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[수퍼 스트롱] 매일 16㎞ 자전거… 주말엔 테니스 코트로</title>
+      <link>https://www.chosun.com/national/people/2025/10/17/KMASP472DBD6ZEYR26SEBTNTEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/17/KMASP472DBD6ZEYR26SEBTNTEI/</guid>
+      <dc:creator>김포=이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 15:51:00 +0000</pubDate>
+      <content:encoded>홍기훈(92) 춘당장학회 이사장은 매주 토·일요일엔 2시간씩 테니스 시합을 한다. 경기 김포에 있는 실내 테니스장에 나가 동호회원들과 2대2 복식경기를 즐긴다. 테니스장에서 만난 그는 90대라고 생각할 수 없을 정도로 발놀림이 가벼웠고, 포핸드와 백핸드 스트로크를 자유자재로 구사했다. 결코 날쌔다고 할 순 없지만, 상대의 샷 방향을 미리 읽어내는 ‘고수’의 움직임이었다. 동호회 후배들은 “체력과 집중력이 정말 놀라운 분”이라고 혀를 내둘렀다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6G2D2P2SRCHFFBLXG2HBAJSGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 조인원 기자
+홍기훈(92) 춘당장학회 이사장이 경기 김포의 한 실내 테니스장에서 힘찬 포핸드 스트로크로 공을 넘기고 있다. 40년 넘는 구력에 매주 주말 2시간씩 테니스를 친다는 그는 “테니스 덕분에 90세 이후에도 순발력과 집중력을 유지하는 것 같다”고 했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 이사장은 졸수(卒壽·90세)를 넘기도록 팔다리 튼튼하게 살아온 ‘수퍼 스트롱’의 전형이다. 군 생활 뒤 지방 행정 공무원으로 정년을 맞았고, 은퇴 이후에도 특별한 병을 겪어본 적이 없다고 했다.&lt;br&gt;&lt;br&gt;김포군청 과장이던 1981년 당시 군수의 권유로 처음 테니스를 접했다. 그는 “운동을 좋아하던 군수님이 과장들에게 테니스 라켓을 사주며 같이 치자고 했는데, 다 떨어져 나가고 나는 재미를 붙였다”며 “이후 40년 넘게 주말마다 테니스를 친 덕분에 체력은 물론 순발력과 집중력도 향상됐다”고 했다. 테니스에 푹 빠진 그는 1990년대 김포테니스연합회 1·2대 회장을 지내기도 했다. &lt;br&gt;&lt;br&gt;테니스를 치지 않는 평일엔 자전거를 탄다. 홍 이사장은 매일 새벽 로드 자전거로 자택에서 김포 용화사까지 왕복 약 16㎞를 달린다. 그는 “다른 자전거 동호인들을 만나 차나 미숫가루 등을 마시면서 세상 돌아가는 이야기를 하는 게 즐겁다”고 했다. 2011년 발목 골절 이후 재활 운동 차원에서 자전거를 본격적으로 타기 시작했고, 자전거를 좋아하는 또래들과 ‘새달모(새벽을 달리는 모임)’를 만들기도 했다.&lt;br&gt;&lt;br&gt;90대라고 믿기지 않는 건강을 유지하는 비결을 물었더니 그는 “거창한 목표를 세워 이루려고 노력한 적은 없고, 규칙적인 생활과 가만히 앉아 있지 못하는 성격 덕분에 자연스럽게 건강을 유지한 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;홍 이사장은 저녁 8시에 잠자리에 들어 새벽 3시에 일어난다. 독서로 잠을 쫓고, 계란 1개를 프라이로 해 먹은 뒤 자전거를 타러 나간다. 자전거를 타고 와서 아침을 먹고 하루를 시작한다. 초저녁에 자고 꼭두새벽에 일어나는 습관은 10대 때부터 80년째 지키고 있다. “국민학생 때 어린 동생들 돌보느라 낮에는 공부할 짬이 없었고, 새벽에 호롱불 켜서 책을 보거나 숙제를 하면서 익숙해진 습관”이라고 했다. &lt;br&gt;&lt;br&gt;종일 부지런히 움직이는 것에 비해 식사량은 많지 않다. 콩을 수북이 넣은 밥을 성인 밥공기의 반 정도만 먹는다. 반찬은 세 가지를 넘는 경우가 거의 없다. 찬물 대신 두충나무 껍질을 감초, 계피, 대추와 함께 약탕기에 달여낸 물을 미지근하게 마신다.&lt;br&gt;&lt;br&gt;짠 음식을 꺼리지 않고, 매일 소주 반 병 정도를 마신다. 그래도 당뇨나 성인병 등이 전혀 없다고 한다. 홍 이사장은 “음식은 내 입에 맛있는 게 보약”이라며 “몸에서 뭔가 부족하면 그걸 공급해 달라는 신호가 오고, 즐겁게 먹으면 된다”고 껄껄 웃었다. 일상에서 스트레스를 받지 않는 방법을 잘 아는 것 같았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KR5D4OX3OJAQFNTRRSHOJ6OKPQ.png?auth=9cfedeb8baf836d7c9f2c02e6824170f8e6d0e77a85430497a008a830ddf4ca3&amp;smart=true&amp;width=3008&amp;height=1692" type="image/png" height="1692" width="3008">
+        <media:description type="plain">그래픽=조선디자인랩 김영재</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>100세 라이더 ‘쌩쌩’… 왕복 50㎞도 거뜬</title>
+      <link>https://www.chosun.com/national/people/2025/12/12/2NPQZTYDEJFD3AAHPGLHXXQG2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/12/2NPQZTYDEJFD3AAHPGLHXXQG2M/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 18:00:00 +0000</pubDate>
+      <content:encoded>지난 9일 경기 성남시 창곡천 수변 공원. 1925년생 이성우씨가 빨간색 사이클복 상의에 헬멧과 선글라스, 클릿 슈즈(바닥의 돌출부를 자전거 페달에 끼워 고정하는 자전거 전용 신발) 차림으로 바퀴 폭이 좁은 로드 바이크를 타고 도로를 내달렸다. 얼마 후 자전거에서 내린 그는 160㎝쯤 되는 키에 군살 없이 다부진 체격이었고 허리가 꼿꼿했다. 그가 현재 100세, 한 달 후면 101세라는 사실이 좀처럼 믿어지지 않았다.&lt;br&gt;&lt;br&gt;이씨도 “사람들이 내 나이를 많아 봤자 80세로 본다”며 “병원이나 은행, 관공서 같은 곳에 가면 항상 ‘이성우씨 본인 맞으세요?’라고 물어본다”고 했다. 경찰 공무원 출신인 그는 요즘 경기도 안산과 성남에서 ‘두 집 살림’을 한다. 평일엔 가족들과 가까운 안산에서 오이도 바닷가 산책길을 걸으며 지내다가, 금요일 오후가 되면 수인분당선을 타고 성남 위례동 ‘자취방’으로 향한다. 그가 경찰에서 은퇴한 뒤 2021년까지 행정사로 일했던 동네다. ‘100세 라이더’ 이씨는 주말마다 이곳에서 지내면서 사이클이라 불리는 로드 자전거를 타고 한강길을 따라 팔당댐과 경기 남양주까지, 때로는 탄천을 따라 아래로 경기 용인까지 하루에 왕복 40~50㎞를 내달린다.&lt;br&gt;&lt;br&gt;설렁설렁 자전거 타고 동네 마실 나가는 모습을 상상했다면, 그렇지 않다. 오전에 출발해 목적지에서 점심을 먹고 돌아오는 것이 이씨의 ‘루틴’이다. 천천히 달리는 것도 아니다. 때때로 최고 시속 30㎞ 가까이 내고, 중간에 쉬지 않으면 40~50㎞를 2시간 안팎으로 달리는 페이스다. 자전거에 부착한 속도계를 보면서 너무 빠르거나 느리지 않게 달린다고 한다.&lt;br&gt;&lt;br&gt;이씨는 “정신이 멍하고 몸이 찌뿌둥할 때 자전거를 타고 나가 달리면서 바람을 맞으면 머리가 아주 상쾌해진다”며 “이 세상이 다 내 것이 된 것 같은 기분이고, 무엇과도 바꿀 수 없는 기쁨”이라고 말했다.&lt;br&gt;&lt;br&gt;지금으로부터 100년 전 강원도 횡성에서 태어난 이씨는 24세 때 경찰관이 됐다. 강력반 형사로서 흉악범을 체포하고 강원 산간에 숨어드는 공비를 잡아내는 일을 했다. 6·25 전쟁 때는 군에 편입돼 참전했다.&lt;br&gt;&lt;br&gt;“우리는 총칼 들고 산에 올라가서 싸워야 했기 때문에 훈련이 아주 힘들었어. 그때 신체가 완전히 단련된 거지. 경찰 생활하면서 육상과 유도도 했어. 내가 유도 2단이야.” 그는 “달리기가 빨라서 다른 경찰관들이 놓치는 소매치기들을 내가 다 잡아들였다”며 “개처럼 뛰어가서 범인 잡아온다고 그때 내 별명이 ‘독구’였다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 “젊은 시절 다져 놓은 체력을 늙어서 조금씩 빼먹으면서 사는 것”이라며 “나는 다른 사람보다 그 (체력을 빼먹는) 속도가 좀 느린 것 같다”고 했다. 그가 활동하는 ‘한강 시니어 자전거 동호회’에선 이씨가 최고령 회원이고, 그다음이 90세라고 한다. 이씨는 “70세, 80세 동생들도 힘에 부치니까 MTB(산악자전거)에 전기 모터를 달아서 탄다”며 “나는 그러고 싶지 않아서 로드 바이크를 고집하는데, 아들뻘 동생들을 다 따라잡는다”고 했다.&lt;br&gt;&lt;br&gt;이씨가 자전거를 본격적으로 타기 시작한 건 80대 초반이었다. 그전까지 생활 체육으로 축구를 즐겼던 그는 격렬하게 뛰어다니는 게 더 이상은 힘들다고 생각하던 참에 한강 공원에서 자전거를 타는 시니어 동호회를 우연히 보게 됐다. “눈이 확 트인 기분이었다. 이거다 싶었다.” 곧장 자전거 가게에 가서 36만원짜리 산악자전거를 사 타기 시작했는데, 얼마 되지 않아 ‘장비 욕심’이 생겼다고 한다.&lt;br&gt;&lt;br&gt;“조금 타보니까, 어떤 사람은 1000만원짜리 자전거를 타더라고. 당장 너무 비싼 걸 살 순 없어서 대만제(制)를 105만원 주고 샀어. 그런데 또 시원치 않아. 다른 사람이 타던 이탈리아제 자전거를 중고로 사서 타다가, 3년 전에 지금 타는 자전거를 샀지. 정가는 900만원 넘는데 꽤 할인을 받았지. 지금까지 사이클에 얼마를 썼느냐고? 1000만원도 우습지 않을까.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;이씨는 65세에 경찰에서 퇴직하고 행정사로 제2의 인생을 시작했다. 4년 전까지도 현역이었다. 96세까지 일하고 100세에 사이클 자전거를 타는 것도 놀라운데, 특별한 지병 없이 건강하다. 청력이 떨어져 대화할 때 보청기 도움을 받는 정도다. 그는 “젊어서부터 매일 수만 자(字)를 읽고 썼다”며 “경찰관으로 일할 땐 사건 조사 기록을 매일 썼고, 행정사로 매일 온갖 서류를 작성했다. 지금은 매일 아침 조간신문을 정독한다”고 했다.&lt;br&gt;&lt;br&gt;아내와 사별한 지 10년. 혼자 밥 해 먹는 것도 척척이다. “어렵긴 뭐가 어려워. 쌀 씻어서 밥솥에 넣으면 되는 거고, 반찬은 반찬 가게에서 1만원어치 사 오면 며칠은 먹어. 고기도 한 근(600g) 사 오면 두세 번 구워 먹지.” 매일 아침 집으로 요구르트 배달을 받아 챙겨 먹고, 단백질 보충을 위해 삶은 달걀을 한두 개씩 먹는다고 한다.&lt;br&gt;&lt;br&gt;자전거를 타지 않을 때도 이씨는 몸을 가만히 놔두질 않는다. 1~2시간씩 산책을 나가고, 집에서는 아령을 들거나 스트레칭을 한다. 100세 노인이 팔굽혀펴기도 10개씩 해낸다. 술과 담배는 전혀 하지 않는다. 담배는 입에 댄 적도 없고, 술은 젊은 시절엔 사회생활하느라 마시긴 했지만 취하도록 마셔본 적은 없다고 한다. 세수할 때마다 로션을 늘 챙겨 바르면서 피부 관리도 한다.&lt;br&gt;&lt;br&gt;이씨는 “늙었다고 늙은이 행세하면 진짜 늙는 것”이라며 “늘 내가 아직 젊다는 생각으로 산다”고 했다. 걸을 때도 의식적으로 허리를 꼿꼿이 펴고, 사이클복을 살 때도 화려한 색깔을 찾는다. 건강을 유지하기 위해 몸 상태가 조금만 안 좋아도 망설이지 않고 병원에 가서 치료를 받는다. “이 나이에는 당장 크게 아프지 않다고 해서 방심하면 안 돼. 원인을 찾아내야지. 나는 가만히 안 두고 바로 병원에 가.”&lt;br&gt;&lt;br&gt;‘젊게’ 살려고 스포츠 경기도 즐겨 본다고 한다. 종종 서울 잠실야구장에 가서 프로야구 경기를 관람하고, 성남 탄천종합운동장에서 프로축구 K리그 경기도 본다. “딱히 응원하는 팀은 없어도 시간 날 때 가서 봤는데, 요즘 성남FC 성적이 시원찮아서 안 간 지 꽤 됐다”고 했다. 박지성이 뛰던 시절엔 서울월드컵경기장까지 국가대표 축구 경기를 보러 다녔고, 지금도 축구 A매치는 늦은 밤에도 TV로 꼬박꼬박 챙겨본다. 이씨는 지난 6일 진행된 2026 FIFA(국제축구연맹) 북중미 월드컵 조 추첨 결과도 꿰고 있었다. “(한국이) 멕시코, 남아프리카공화국이랑 하는 거 맞지? 그 정도면 우리는 충분해. 그런데 유럽(플레이오프 D조) 네 팀 중에선 어디가 올라오려나?”&lt;br&gt;&lt;br&gt;그의 ‘버킷 리스트’는 자전거로 전국 일주를 하는 것이다. 2년 전 전남 여수·순천, 경북 포항·울진 등을 여행하면서 ‘이런 길을 자전거로 달리면 너무 좋겠다’고 생각했으나, 엄두를 내진 못했다고 한다. 이씨는 “아마 제대로 전국 일주를 하기는 이제 쉽지 않을 것”이라며 “차에 자전거를 싣고 목적지로 가서 자전거로 그 지역을 달리는 것만이라도 하고 싶은데 기회가 있을지 모르겠다”고 했다. 4남매를 둔 그에게 자식들 도움을 받으면 되지 않겠느냐고 묻자 그는 “혼자 가는 게 훨씬 자유롭고 좋다”며 “내가 스스로 몸 관리를 못 할 때가 되면 모르겠지만, 지금은 혼자 다닐 능력이 되는데 뭣 하러 자식들이랑 다니겠느냐”고 했다.&lt;br&gt;&lt;br&gt;이씨는 살아온 ‘100세 인생’에서 지금이 가장 즐거운 시절이라고 했다. “언제 죽을지 모르지만, 욕심 같아선 20년만 더 살고 싶다”며 “지금처럼 웃고 즐기고, 하고 싶은 것 하면서 사는 걸 조금만 더 하고 싶다”고 했다. “80, 90세 된 사람들한테 다들 ‘100세까지 오래오래 사세요’라고 덕담하는데, 그 말에 숫자를 더 올려야 한다”며 “난 이제 100세인데 아직 죽기 아깝다. 아직 재미있는 게 많다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 70~80대 ‘인생 후배’들을 위한 건강 조언으로 “실천”을 꼽았다. “건강과 운동의 중요성은 모두가 다 알아. 그런데 다들 말만 한다고. 실천할 의지가 중요한 거야. 몸은 정신이 시키는 대로 움직이게 돼 있어. 일단 집 밖으로 나가서 무엇을 하든 몸을 움직여야 해. 그것부터 시작이야. 나는 말이야, 살살 달리더라도 죽는 날까지 이 사이클을 탈 거야.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ORYVIAPWJZDKDJNEVV4Z3VGEVI.png?auth=6b6e4b849fbac798065b137e606fb789a011c081f2cc9aeb4a8bbf2fd4eefcd7&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560">
+        <media:description type="plain">그래픽=조선디자인랩 권혜인</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, ‘탱크데이’ 논란 스타벅스코리아 첫 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/05/IPWJWNW73BARXG2MLKTMPPBT3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/05/IPWJWNW73BARXG2MLKTMPPBT3I/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Aug 2026 00:27:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTAYRRMYZGGMRTMQ2DKNZUMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 스타벅스 매장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타벅스의 ‘탱크데이’ 프로모션 논란을 수사 중인 경찰이 5일 스타벅스 본사에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;경찰에 따르면 서울경찰청 광역수사단 공공범죄수사대는 이날 오전부터 서울 강남구 스타벅스코리아 본사 압수수색을 진행하고 있다. 해당 의혹과 관련해 첫 압수수색이다.&lt;br&gt;&lt;br&gt;압수수색 영장에는 모욕 등 혐의가 적시된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;지난 5월 18일 스타벅스코리아는 자사의 텀블러 프로모션 이벤트를 진행하며 ‘탱크 데이’, ‘책상에 탁’ 등의 문구를 사용해 5·18 민주화운동 유공자·유족을 모욕했다는 비판을 받았다. &lt;br&gt;&lt;br&gt;이에 5·18 민주화운동 유공자와 시민단체 서민민생대책위원회는 정용진 회장 등을 5·18 민주화운동 등에 관한 특별법 위반과 모욕, 명예훼손 혐의 등으로 고소·고발했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 서양사학자 주경철 교수, 모교 서울대 졸업식 축사 맡는다</title>
       <link>https://www.chosun.com/national/national_general/2026/08/05/2UUAKEFZ4NGR7BEPJ43KMXQI3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/05/2UUAKEFZ4NGR7BEPJ43KMXQI3E/</guid>
@@ -809,15 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POFRQPJTGJCE5LRPJXWMLBUX54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 서울 은평구 진관사를 방문한 교황청 종교간대화부 장관 조지 제이콥 쿠바카드(앞줄 오른쪽) 추기경이 주지 법해(앞줄 왼쪽) 스님과 합장 인사를 하고 있다. 4~5일 서강대에서 열리는 ‘제1회 유교-그리스도교 국제 콜로키움’ 참석을 위해 방한한 교황청 대표단 35명은 불교와 종교적 대화를 위해 이날 진관사를 찾았다. 쿠바카드 추기경은 “서로 다른 종교의 길을 걷고는 있지만 사회 평화는 인간 마음의 평화에서 시작된다는 믿음은 동일한 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2920] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2026/08/04/D3E6NOUKQZDADNNBHPHF7J5YMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/04/D3E6NOUKQZDADNNBHPHF7J5YMY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHUMSFJZERHGPOURPRON647LYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[부음] 김충홍 별세 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/08/04/ILTALQ37MBCPNI5FC7AADAR4GM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/04/ILTALQ37MBCPNI5FC7AADAR4GM/</guid>
@@ -825,24 +912,6 @@
       <description/>
       <pubDate>Mon, 03 Aug 2026 15:37:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;김충홍&lt;/b&gt; 별세, &lt;b&gt;이경심&lt;/b&gt; 남편상, &lt;b&gt;김혜경&lt;/b&gt;·&lt;b&gt;김혜량&lt;/b&gt;·&lt;b&gt;김미라 &lt;/b&gt;부친상, &lt;b&gt;양대수&lt;/b&gt;·&lt;b&gt;김재선&lt;/b&gt;·&lt;b&gt;이상원 &lt;/b&gt;장인상, &lt;b&gt;강희정 &lt;/b&gt;티아이지푸드 대표 시부상=2일21시52분 전남광주 동광양장례식장, 발인 4일8시, (061)795-7700&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박종호&lt;/b&gt; 별세, &lt;b&gt;이영연&lt;/b&gt; 남편상, &lt;b&gt;박한성&lt;/b&gt;·&lt;b&gt;박한빈&lt;/b&gt;·&lt;b&gt;박지혜 &lt;/b&gt;부친상, &lt;b&gt;정성진 &lt;/b&gt;시사저널 광고부장 장인상=3일1시1분 충북대병원, 발인 5일6시30분, (043)269-6969&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종곤&lt;/b&gt; 별세, &lt;b&gt;신동연&lt;/b&gt; 남편상, &lt;b&gt;이문정&lt;/b&gt; 에어프랑스-KLM 한국지사장·&lt;b&gt;이문선&lt;/b&gt;·&lt;b&gt;이제열 &lt;/b&gt;LG전자 책임연구원&lt;b&gt; &lt;/b&gt;부친상, &lt;b&gt;송미연&lt;/b&gt; 시부상=3일10시 여의도성모장례식장, 발인 5일7시, (02)3779-1526 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;최효성&lt;/b&gt; 별세, &lt;b&gt;​하혁준 &lt;/b&gt;前&lt;b&gt; &lt;/b&gt;라오스 축구대표팀 감독 모친상=3일2시37분 대구상례원, 발인 5일13시, (053)952-4000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] call ~ out</title>
-      <link>https://www.chosun.com/national/nie/english/2026/08/04/AMXH4LRAOZBE7FIX5Q4HCIFHRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/08/04/AMXH4LRAOZBE7FIX5Q4HCIFHRI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPPZIPP43JCHHC4NH2BHCR4UT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 환희작약(歡喜雀躍)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/08/04/HQGGPFUX7NCJ7I77HADFE5JLXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/08/04/HQGGPFUX7NCJ7I77HADFE5JLXE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECA5QZAJXBAUTF2QFFSRZ5Z7CM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[인사] 행정안전부 외</title>
@@ -881,15 +950,6 @@
       <content:encoded>한 소년이 누나들을 따라 수영장에 갔어요. 하지만 물속에 얼굴을 담그는 것조차 무서워했어요. 코로 물이 들어올까 봐 겁부터 났지요. 그래서 소년은 얼굴을 물에 넣지 않아도 되는 배영부터 배웠습니다. 처음에는 온몸에 잔뜩 힘이 들어갔지만 힘을 빼자 몸이 물 위로 떠올랐고, 서서히 앞으로 나아갔죠. 뜻밖에 재미를 느낄 수 있었어요.&lt;br&gt;&lt;br&gt;미국 전 수영 선수 마이클 펠프스(41)의 어린 시절 이야기입니다. 그는 모든 종목을 통틀어 올림픽에서 가장 많은 메달을 딴 선수예요. 다섯 번 올림픽에서 메달 총 28개(금 23, 은 3, 동 2)를 땄어요. 엄청난 집중력 없이는 이룰 수 없는 어마어마한 기록이죠. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJJW4GLIPVCBLA3N5PP33WYSA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마이클 펠프스가 2016년 리우 올림픽에서 물살을 가르고 있어요. /위키미디어 커먼스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 어린 시절 펠프스는 잠시도 가만히 있기 어려워했어요. 수업 시간에 연필을 만지작거리거나 의자를 흔들었고, 선생님 말을 듣다가도 어느새 다른 생각에 빠지곤 했지요. 사람들은 펠프스에게 자주 말했습니다. “조금만 더 집중해 봐.” 펠프스도 그러고 싶었지만 좀처럼 마음을 한곳에 두지 못했습니다. 그는 주의력 결핍 과잉 행동 장애(ADHD) 진단을 받았어요. 아동기에 많이 나타나는 장애로, ADHD가 있는 아이는 무언가에 집중하거나 행동을 참는 것을 어려워할 수 있어요. 그렇다고 집중할 능력이 없는 것은 아니에요. 자신이 좋아하고 목표가 있는 일에는 깊이 빠져들기도 합니다.&lt;br&gt;&lt;br&gt;펠프스에게는 수영이 그런 일이었어요. 출발 신호음이 울리면 물속으로 뛰어들어서 호흡과 팔과 다리 동작에 집중해야 했지요. 교실에서는 산만하게 흩어지던 에너지가 수영장에서는 한곳으로 모였어요. 펠프스가 수영에 흥미를 붙인 건 어머니 데비 덕분입니다. 데비는 평소 아들의 넘치는 에너지를 문제라 여기지 않았고, 펠프스가 에너지를 잘 쓸 수 있는 길을 찾으려고 했어요. 수영도 그중 하나였습니다. 어머니는 펠프스가 수영장에서 규칙적인 생활을 하도록 도왔습니다. &lt;br&gt;&lt;br&gt;하지만 ADHD의 어려움이 사라진 건 아니었어요. 정해진 시간에 훈련하고, 같은 동작을 반복하는 일은 펠프스에게 쉽지 않았어요. 그래서 그는 먼 목표보다 눈앞의 동작에 집중했지요. 하루는 출발 자세를 고치고, 다른 날에는 회전 동작을 연습했어요. 손끝이 물에 들어가는 각도와 숨을 쉬는 방법도 조금씩 다듬었습니다.&lt;br&gt;&lt;br&gt;열 살 무렵 또래를 앞지르더니, 2000년엔 15세 나이로 시드니 올림픽에 나서게 됩니다. 당시 메달은 따지 못했지만, 세계 최고의 선수들과 같은 출발대에 섰어요. 물론 이후에도 힘든 날은 많았습니다. 뜻대로 되지 않고, 집중하기 어려운 날도 있었어요. 그럴 때마다 다시 작은 목표로 돌아갔습니다. &lt;br&gt;&lt;br&gt;결국 2004 아테네 대회(금 6, 동 2)를 시작으로 2016 리우 대회까지 출전해 연거푸 메달을 수집합니다. 얼굴을 물에 담그는 것조차 무서워하고 산만했던 아이는 훗날 수영을 넘어 스포츠 전체의 최고 선수로 꼽히게 됩니다. 이는 펠프스가 자신의 에너지를 억지로 없애려 하지 않고, 여러 작은 목표를 연이어 성취하는 방법으로 훈련했기에 가능했습니다. 펠프스는 이런 말을 남겼습니다. “더 많이 꿈꿀수록 더 멀리 갈 수 있답니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 중남미 휩쓰는 ‘푸른 물결’… 민심은 왜 우파를 택했을까</title>
-      <link>https://www.chosun.com/national/nie/2026/08/04/3R4JOORPNRDYVJS6BCIX23F7KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/04/3R4JOORPNRDYVJS6BCIX23F7KQ/</guid>
-      <dc:creator>서민영 경기 군서고 역사 교사, 기획·구성=김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 15:33:00 +0000</pubDate>
-      <content:encoded>지난 6월 남미 페루 대선에서 우파 성향의 게이코 후지모리(51)가 승리했어요. 최근 취임식을 가졌는데, 하비에르 밀레이 아르헨티나 대통령, 호세 안토니오 카스트 칠레 대통령 등 중남미 우파 정상들이 대거 참석해 후지모리 대통령을 축하했습니다. &lt;br&gt;&lt;br&gt;최근 중남미 정치를 보면 우파의 강세가 두드러져요. 앞서 대선이 치러진 볼리비아, 코스타리카 등에서도 우파 후보가 승리했어요. 이처럼 중남미에서 우파가 연쇄 집권하는 현상을 ‘블루 타이드’(우파 물결)라고 합니다. 블루 타이드 이전에는 ‘핑크 타이드’(좌파 물결)가 있었어요. 1990년대 후반부터 2000년대 중남미에서는 좌파 연쇄 집권 현상이 나타났는데, 공산주의를 뜻하는 레드(빨간색)보다 온건한 좌파 정권이라는 의미에서 핑크(분홍색) 타이드라는 명칭이 붙었습니다. 반면 영국 보수당의 대표색이기도 한 블루(파란색)는 국제 정치 지형에서 보수주의, 자유시장경제 등을 상징합니다. 그렇다면 최근 중남미 국가 국민은 왜 우파 후보에게 표를 던지게 된 걸까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKNXF3GGKFESBLR4FDDUQILNUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중남미 주요 국가들의 집권 현황을 표시한 지도예요. 최근 페루와 콜롬비아 등에서 우파로 정권 교체가 이뤄졌습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;미국의 중남미 개입 역사&lt;/b&gt;&lt;br&gt;&lt;br&gt;중남미 정치를 알려면 미국의 영향력과 대외 전략 역사를 살펴야 해요. 1823년 당시 제임스 먼로 미국 대통령은 ‘먼로주의(먼로 독트린)’를 선언했어요. 미국은 유럽 열강들의 국내 문제에 간섭하지 않고, 유럽 국가 역시 아메리카 대륙을 식민지로 삼으면 안 된다는 내용이었어요. ‘아메리카 대륙의 독립과 자주성’을 내걸었지만, 실상은 아메리카 대륙 전체에서 미국의 영향력을 키우겠다는 선언이었어요. 20세기 초 시어도어 루스벨트 미국 대통령은 먼로주의에서 한 걸음 더 나아가 ‘중남미에서 혼란이 발생하면 미국이 국제 경찰로서 직접 개입할 수 있다’고 말했어요. 당시 유럽 국가들이 중남미에 무력 간섭을 시도하려던 움직임에 대응해 나온 선언이었지만, 결과적으로 미국이 중남미 여러 나라에 대한 군사 개입을 정당화하는 논리로 작용했어요.&lt;br&gt;&lt;br&gt;이러한 미국의 개입주의는 제2차 세계대전이 끝난 후 자본주의와 공산주의 두 진영으로 갈라진 냉전 체제에 돌입하면서 더욱 노골적으로 변합니다. 특히 미국에게 중남미는 단순히 인접한 이웃이 아니라 자본주의 체제의 안정을 뒷받침할 원자재 공급처이자 미국 기업들의 핵심 투자 시장이었습니다. 미국은 중남미에 좌익 성향의 정권이 들어서는 걸 경계했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOUBMQ6RE5DOJFRHSPLYHVYG3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 페루 수도 리마에서 열린 게이코 후지모리(오른쪽에서 둘째) 페루 대통령 취임식에 중남미 주요 우파 정상들이 참석해 함께 사진을 찍었어요. 휴대전화를 들고 있는 호세 안토니오 카스트 칠레 대통령을 비롯해, 아르헨티나·파라과이·온두라스 대통령 등이 모였습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;분배·복지에 힘쓴 좌파 정권&lt;/b&gt;&lt;br&gt;&lt;br&gt;얼마 지나지 않아 미국의 우려는 현실이 됐습니다. 1959년 피델 카스트로와 체 게바라가 이끈 쿠바 혁명이 성공한 거예요. 미국 바로 턱밑에 공산주의 국가가 탄생했죠. 미국은 중남미 전체가 연쇄적으로 공산화되는 현상을 막기 위해 모든 수단을 동원하기 시작했어요. 미국은 쿠바의 공산 정권을 고립시켰고, 1973년 칠레 사회주의 성향 정권을 무너뜨리는 등 우익 세력을 적극적으로 도왔습니다.&lt;br&gt;&lt;br&gt;하지만 미국이 주입한 신자유주의 체제는 1980~1990년대를 거치며 극심한 빈부 격차와 양극화라는 부작용을 낳았어요. 대다수 서민과 원주민의 삶은 처참해졌죠. 민중의 분노는 커졌고, 1990년대 후반부터 2000년대 초반에 걸쳐 핑크 타이드, 즉 좌파 연쇄 집권 현상이 나타납니다. 좌파 정부들은 나라마다 급진·온건 성향의 차이는 있었지만, 막대한 오일머니와 구리, 철광석 등 원자재 수출 대금을 바탕으로 대대적인 서민 복지 정책을 펼쳤어요. 예컨대 베네수엘라를 보면, 1999년 집권한 우고 차베스 대통령은 가난한 농민과 극빈층을 위해 부유층의 토지 일부를 몰수해 무상으로 나눠주었어요. 빈민 계층에게 무상 교육, 무상 의료 정책을 시행하기도 했고요. 브라질 대통령 루이스 이나시우 룰라 다 시우바 역시 차베스처럼 사회주의 개혁 정책에 열중하였어요. 빈민에게 생활비를 지원하고, 가난한 어린이가 노동 착취를 당하지 않도록 노력했습니다. 아르헨티나는 주요 산업을 국유화하고 서민층에게 보조금을 지급하는 등 파격적인 분배 정책을 시행했어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAMON5ANZZE4RHOIX564ZH6JVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 콜롬비아 수도 보고타에서 베네수엘라 난민이 자국 지폐로 만든 수공예품을 팔고 있습니다. 베네수엘라 화폐가 휴지보다 가치가 낮아지면서 이런 일까지 벌어졌어요. /AFP 연합뉴스·위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;휴지보다 가치가 떨어진 돈&lt;/b&gt;&lt;br&gt;&lt;br&gt;초기에는 대체로 많은 국가에서 빈곤율이 감소했고, 서민들의 삶이 나아지는 듯 보였습니다. 하지만 이들 정권은 천연자원에 의존하는 전통적 산업을 대체할 생산성 높은 산업 개발에 힘 쏟지 않았고, 국가의 성장 동력은 갈수록 약해졌습니다. 산업 구조를 다변화하지 않고 오직 ‘원자재 수출 대금’이라는 단기적 수입에만 의존했죠. 2010년대 중반에 이르러 원자재 가격이 급락하자 핑크 타이드 국가들은 큰 타격을 입게 됩니다. 막대한 돈이 필요한 복지 정책을 이어가긴 힘들게 됐지요. 서민을 위한 유토피아를 약속했던 좌파 정권들이 경제를 살리지 못하자 민심은 차갑게 식어버렸어요. &lt;br&gt;&lt;br&gt;가장 크게 드러난 경제 문제는 초인플레이션이었어요. 베네수엘라는 유가가 폭락하자 국가 재정이 완전히 파탄 났어요. 정부는 멈추지 않는 복지 지출을 메우기 위해 돈을 계속 찍어냈고, 화폐 가치는 폭락했습니다. 빵 한 봉지나 식용유 한 병을 사려면 지폐를 셀 수 없어 탑처럼 쌓아 올려야 했습니다. 지폐가 화장실 휴지보다 가치가 떨어지자, 사람들이 지폐를 엮어 지갑이나 가방을 만들어 관광객에게 파는 풍경도 펼쳐졌습니다. 국민의 90% 이상이 빈곤층으로 추락했고, 인구의 20%가 넘는 600만명 이상이 살기 위해 고국을 떠났어요. 아르헨티나에서도 화폐는 휴지 조각처럼 여겨졌어요. 점심에 먹은 스테이크 가격이 저녁에는 올라 있는 일이 일상이었습니다.&lt;br&gt;&lt;br&gt;이러한 경제적 피폐와 더불어 치안마저 나빠졌어요. 여기에 더해 정치인들의 부패까지 속속 드러났죠. 정권에 크게 실망한 국민은 마음을 바꿨고, 블루 타이드가 등장합니다. 2023년 아르헨티나에선 무상 복지 전면 폐지, 규제 완화, 공공 부문 축소 등 개혁을 외친 하비에르 밀레이가 대통령에 당선됐어요. 칠레와 에콰도르에서도 보수 정치인들이 연이어 집권했습니다. 이전 정권 실책 속에서 등장한 우파 정권들이 국민의 삶을 개선하고 빈곤·치안 문제를 해결할 수 있을지 지켜봐야겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [사소한 역사] 1980년 5%만 다닌 유치원… 산업화로 크게 늘어났대요</title>
       <link>https://www.chosun.com/national/nie/2026/08/04/NFKRRVCIUJGTJH4YWPPLD2RNRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/04/NFKRRVCIUJGTJH4YWPPLD2RNRA/</guid>
@@ -908,24 +968,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4FOC2MVERHXPF4SSO4WQDB3LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주 폐기물 업체서 50대 남성 압축기 끼임 사고로 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/08/03/YSFQMDQ7XJAMHDLZOTMLPSIHRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/03/YSFQMDQ7XJAMHDLZOTMLPSIHRI/</guid>
-      <dc:creator>김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 13:34:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3TQNLBGMYTMMJRGAYWKMZRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주소방안전본부/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 제주의 한 폐기물 업체에서 작업 중이던 50대 남성이 고철 압축기에 끼어 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;제주도소방안전본부에 따르면 이날 오후 4시 32분쯤 제주시 회천동의 한 폐기물 처리업체의 고철 압축기에 작업자의 상반신이 끼었다는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 구급대가 오후 4시 45분쯤 사고 현장에 도착했지만, 작업자는 이미 숨진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전북 정읍서 열사병 진단 받았던 70대, 보름 만에 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/08/03/RM2T2THGV5FQLD7XOABJ6TOT2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/03/RM2T2THGV5FQLD7XOABJ6TOT2E/</guid>
-      <dc:creator>김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 13:48:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZDSMZQGRRDQN3BGRQTIMRTGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염경보가 내려진 전북 전주시 기지제 수변공원에서 양산을 쓴 시민이 걸어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염이 한창이던 지난달 중순 텃밭에 나갔다가 열사병 진단을 받고 치료 중이던 70대가 보름 만에 숨진 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;3일 전북특별자치도에 따르면, 지난달 15일 정읍의 한 텃밭에 쓰러져 있다가 요양보호사의 신고로 병원으로 이송돼 치료를 받아오던 A(77)씨가 같은 달 31일 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 기저 질환을 앓고 있었던 것으로 알려졌다. 그의 사망 원인은 열사병으로 인한 다발성 장기 부전으로 추정된다.&lt;br&gt;&lt;br&gt;A씨가 병원으로 옮겨졌던 당시 정읍의 낮 최고기온은 31도로, 폭염 주의보가 발효된 상태였다.&lt;br&gt;&lt;br&gt;앞서 전북에서는 지난달 26일 김제시 하동의 한 밭에서, 같은 달 29일에는 김제시 청하면의 한 밭에서 90대 노인이 각각 쓰러져 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘300억대 사기 혐의’ 차가원 구속...법원 “증거인멸 염려”</title>
       <link>https://www.chosun.com/national/court_law/2026/08/03/6CE4G7ADT5EJVNAMIMZNIP2IR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/03/6CE4G7ADT5EJVNAMIMZNIP2IR4/</guid>
@@ -935,15 +977,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDS6WPS5Y5KRHKLTGFAOT3QT4I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;300억원대 사기 혐의를 받는연예기획사  원헌드레드 레이블 차가원 대표가 3일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;300억원대 사기 혐의를 받는 차가원 피아크그룹 회장 겸 원헌드레드 대표가 구속됐다. &lt;br&gt;&lt;br&gt;서울중앙지법 부동식 영장전담 부장판사는 3일 특정경제범죄 가중처벌법상 사기 등 혐의를 받는 차 대표에 대해 “증거인멸의 염려가 있다”며 구속영장을 발부했다. 차 대표는 서울마포경찰서에 수감된다.&lt;br&gt;&lt;br&gt;차 대표는 자사 소속 연예인의 지식재산권(IP)을 이용한 사업을 주식회사 노머스에 제안해 계약을 체결하고 242억원 상당의 선수금을 받았으나 실제 사업은 이행하지 않은 혐의를 받는다. 피해 규모는 약 300억원에 달하는 것으로 조사됐다. 지인에게 ‘각자의 명의로 된 주택에 전세 계약을 맺자’며 보증금 54억원을 받아놓고 계약을 이행하지 않은 혐의도 있다.&lt;br&gt;&lt;br&gt;이날 오전 9시 27분쯤 서울중앙지법에 모습을 드러낸 차 대표는 “영장실질심사에서 어떤 점을 소명할 계획이냐”라고 묻는 취재진의 질문에 “성실히 답하고 오겠다”고 말했다. “선수금을 받고 사업을 진행하지 않은 이유가 무엇이냐” “사기 혐의가 성립한다고 보냐” 등을 묻는 질문에는 답하지 않고 법원 안으로 들어갔다.&lt;br&gt;&lt;br&gt;이 사건을 수사한 서울경찰청 광역수사단 금융범죄수사대는 지난 6월 차 대표에 대한 구속영장을 서울중앙지검에 두 차례 신청했다. 그러나 검찰은 보완수사를 요구하며 모두 반려했다. 이에 경찰은 지난달 차 대표에 대해 세 번째 구속영장을 신청했다. 세 번째 영장 신청 과정에서는 검찰과 경찰이 협의해 차 대표의 계좌를 추적하고 계약 관계를 추가로 분석하는 등 추가 수사를 진행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난달 27일 서울중앙지검 인권보호부는 차 대표를 불러 구속영장 청구 전 피의자 면담을 진행하고, 다음 날(28일) 차 대표에 대한 구속영장을 청구했다. 차 대표 측은 면담에서 “사업을 실제로 진행했다면 선수금 등을 모두 변제할 수 있었다”는 취지로 주장한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>해발 900m 태백도 폭염 특보… 강원도 전역 ‘찜통더위’</title>
-      <link>https://www.chosun.com/national/regional/2026/08/03/TFWR7UUYGFBXLECMB7IVV3YQFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/03/TFWR7UUYGFBXLECMB7IVV3YQFI/</guid>
-      <dc:creator>태백=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 09:28:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5KA73IF4ZLRTHBIJRWCRJJPHM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 광화문네거리에서 양산을 쓴 시민들이 횡단보도를 걷고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국에 가마솥더위가 기승을 부리는 가운데 해발 900m의 고원 도시인 강원도 태백에도 3일 오전 11시를 기해 올해 첫 폭염 특보가 내려졌다.&lt;br&gt;&lt;br&gt;기상청은 이날 태백과 평창 산지에 폭염 주의보를 발령했다. 폭염 주의보는 일 최고 체감 온도가 33도 이상인 상황이 이틀 이상 지속될 것으로 예상될 때 발령된다.&lt;br&gt;&lt;br&gt;평균 해발 902m의 고원 도시인 태백은 고도가 높아 기온 자체가 평지보다 낮다. 전체 면적의 88%를 차지하는 산림에서 형성된 서늘한 공기와 산바람이 더운 공기의 유입을 줄이고, 도심 면적이 크지 않아 열섬 현상도 거의 나타나지 않는다. 이 때문에 지난 2008년 폭염 특보제가 도입된 이후 태백에 내려진 폭염 특보는 이번을 포함해 모두 83일에 그쳤다.&lt;br&gt;&lt;br&gt;태백과 평창 산지에까지 폭염 주의보가 내려지면서 강원도는 재난안전대책본부 비상근무를 2단계로 격상하고 폭염 대응에 나섰다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “태백과 평창 산지까지 올해 첫 폭염특보가 발효되는 등 무더위 기세가 매섭다”면서 “온열질환 발생 위험이 높은 만큼 야외 활동을 자제하고 수분을 충분히 섭취해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 김병기 수사 11개월째 표류... 前 보좌관도 수사심의 신청</title>
       <link>https://www.chosun.com/national/national_general/2026/08/03/YJHTVXTPSREUPEKOH436JPGPJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/03/YJHTVXTPSREUPEKOH436JPGPJM/</guid>
@@ -951,24 +984,6 @@
       <description/>
       <pubDate>Mon, 03 Aug 2026 09:39:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTIZRTGJRGKNBZMFSWCZTDGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;각종 비위 의혹으로 수사를 받고 있는 김병기 무소속 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 원내대표를 지낸 김병기(무소속·서울 동작갑) 의원을 둘러싼 각종 의혹에 대한 경찰 수사가 11개월째 결론을 내지 못하고 표류하고 있다. 김 의원을 경찰에 고발했던 시민단체에 이어 김 의원으로부터 갑질을 당했다며 고소를 했던 전직 보좌관이 잇따라 수사심의를 신청했다.&lt;br&gt;&lt;br&gt;3일 본지 취재에 따르면, 김 의원의 전직 보좌진 A씨는 이날 서울경찰청에 김 의원 관련 사건 전반에 대한 수사심의를 신청했다. 수사심의는 고소인·고발인 등 사건 관계인이 수사 절차 및 결과가 불공정하거나 부적법하다고 생각할 경우 이의를 제기하는 제도다. 외부 전문가로 구성된 수사심의위원회는 수사 절차나 결과에서 적정성·적법성이 현저히 침해됐다고 판단하면 경찰에 재수사나 보완수사, 신속 처리 등을 권고할 수 있다.&lt;br&gt;&lt;br&gt;A씨는 수사심의 신청서에서 “이 사건에서 문제 삼는 본질은 ‘수사의 지연’이 아니라 ‘처분의 지연’”이라며 “사실관계 조사와 법리 검토는 사실상 끝났는데도 결론을 내리지 않고 있다”고 주장했다. 이어 “구속영장 미신청이 지휘부의 권력 눈치 보기 등 다른 사정에 의한 것이 아닌지 심의가 필요하다”며 “현직 국회의원이라는 신분 때문에 신병 확보 절차가 지연되는 것은 아닌지 심의가 필요하다”고 했다. A씨는 수사심의위원회가 열리면 직접 출석해 의견을 진술하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 시민단체 서민민생대책위원회도 지난달 31일 서울경찰청에 수사심의를 신청했다. 지난해 9월 김 의원 차남의 숭실대 편입 특혜 의혹 등을 고발한 서민위는 “결론을 내지 못한 원인이 수사 능력 부족보다 다른 사정으로 지연되는 것이 아닌가 하는 합리적 의심을 낳는다”고 주장했다.&lt;br&gt;&lt;br&gt;김 의원은 불법 정치자금 수수와 차남의 숭실대 편입 특혜·빗썸 채용 청탁 등 모두 13개의 혐의로 서울경찰청 공공범죄수사대에서 수사를 받고 있다. 홍석기 경찰청 국가수사본부장은 이날 정례 기자 간담회에서 “중요 사건일수록 검찰의 보완 수사 요구가 나오지 않도록 작은 부분까지 들여다보고 있다”며 “수사가 자꾸 늘어진다는 지적이 있는 만큼 속도를 내도록 노력하겠다”고 설명했다.&lt;br&gt;&lt;br&gt;김 의원의 신병 확보 여부에 대해서는 “13개 사건의 송치 여부를 먼저 정리한 뒤 신병 처리 필요성을 판단하게 된다”며 “현재 그 전 단계가 거의 마무리된 상태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화성 동탄서 오토바이와 택시 충돌 후 화재...1명 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/08/03/SO5RPMXUABCURLBUP25UFH2NKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/03/SO5RPMXUABCURLBUP25UFH2NKY/</guid>
-      <dc:creator>화성=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 09:41:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRTCMJTMNSWMZBWHBTDAM3EMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 3시 58분쯤 경기 화성시 동탄구 영천동 영천사거리에서 30대 A씨가 몰던 오토바이와 70대 B씨가 운전하던 택시가 충돌한 사고 현장. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성시 동탄에서 오토바이와 택시가 충돌해 1명이 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;3일 경기도소방재난본부에 따르면 이날 오후 3시 58분쯤 동탄구 영천동 영천사거리에서 30대 A씨가 몰던 오토바이와 70대 B씨가 운전하던 그랜저 택시가 부딪혔다.&lt;br&gt;&lt;br&gt;당시 A씨의 오토바이는 사거리에서 직진하던 중 좌회전하던 택시와 충돌한 것으로 파악됐다. 이어 오토바이에 불이 붙었다.&lt;br&gt;&lt;br&gt;현장에 출동한 소방은 약 7분 만인 오후 4시 5분쯤 불길을 잡고, 2분 후 완전히 껐다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 인근 병원으로 옮겨졌으나 끝내 숨진 것으로 전해졌다. B씨와 택시에 타고 있던 승객 2명은 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울에 첫 ‘폭염중대경보’...‘극한 폭염’ 전국으로 확대</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/08/03/RIKY2YVFHNEDXOSKUSW3UPL37E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/03/RIKY2YVFHNEDXOSKUSW3UPL37E/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Aug 2026 07:53:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKDZAVKS5FPCLHRYC6RQE3ZOSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무더위가 이어지고 있는 3일 서울 종로구 광화문광장에서 아이들이 물놀이를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 서울에 첫 폭염중대경보(일 최고 체감온도 38도 이상)가 발령됐다. 경남 양산에 관측 사상 가장 높은 42.5도가 기록되는 등 영남을 중심으로 이어지던 ‘극한 폭염’이 전국으로 확대되고 있다.&lt;br&gt;&lt;br&gt;기상청은 이날 오후 4시 서울 동남·서남권과 경기 오산·하남·여주서부, 전남 장성과 곡성북부에 ‘폭염중대경보’를 추가로 발령한다고 밝혔다. 이번에 발령된 폭염중대경보는 4일 오전 11시 발효된다.&lt;br&gt;&lt;br&gt;현재 동풍이 불면서 백두대간 서쪽을 중심으로 더위가 심해지고 있다. 바람이 태백산맥과 소백산맥을 동에서 서로 넘으며 ‘푄 현상’에 의해 열풍화 되고, 뜨거운 바람이 지표와 대기를 달구며 기온 상승을 견인하는 것이다. 현재 전남 보성·여수·광양·순천·곡성과 광주동부 등에 폭염중대경보가 발효돼 있다.&lt;br&gt;&lt;br&gt;수도권에 폭염중대경보가 발령되는 것은 지난 6월 1일 시행 후 이번이 처음이다. 폭염중대경보는 폭염경보(이틀 이상 최고 체감온도 35도 이상)가 발령된 지역에서 하루 체감온도가 38도 이상, 또는 최고기온이 39도 이상일 것으로 예상될 때 내려진다.&lt;br&gt;&lt;br&gt;현재 수도권 전역에 폭염특보가 내려져 있다. 전국적으로는 235개 육상 기상특보 구역 중 217곳(92%)에 폭염특보가 내려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>환자 만족도 빅5 굴욕… 1위 동산병원</title>
