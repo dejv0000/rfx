@@ -13,6 +13,151 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>추미애 “세수 합리적 배분해야”… ‘반도체 벨트’ 기초단체 반발 조짐</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/08/UBVJMTS2CVDFZLYDDGTAFEE7KA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/UBVJMTS2CVDFZLYDDGTAFEE7KA/</guid>
+      <dc:creator>용인=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXLOOJLV7REWPHLKOZALM2HFLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추미애 경기도지사가 5일 경기도 수원시 경기도청에서 '경기도 재정 비상 상황' 선언 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기도지사가 최근 경기도 재정이 비상 상황이라고 선언하면서 “기업 유치에 따른 세수의 합리적 배분을 국회와 정부에 강력히 요구하겠다”고 했다. “산업을 위해 막대한 비용을 지불하는 경기도가 산업에서 발생하는 세수를 확보하지 못하고 있다”는 것이다. 추 지사의 이런 언급을 두고 시·군 등 기초자치단체 수입인 법인지방소득세를 경기도가 사용할 수 있도록 세제를 개편해야 한다는 취지란 해석이 나온다. 이에 삼성전자·SK하이닉스 등이 역대 최대 실적을 거둬 법인지방소득세가 늘어날 것으로 예상되는 용인·화성·평택·이천시는 반발하는 분위기다. &lt;br&gt;&lt;br&gt;추 지사는 지난 5일 기자회견을 열어 ‘재정 비상 상황’을 선언하면서 “경기도가 반도체를 비롯한 첨단 산업을 유치하기 위해 전력과 용수, 교통망 확충에 막대한 지원과 투자를 해도 인프라 투자를 주도한 경기도는 단 1원도 받을 수 없다”고 말했다. 그는 이와 관련해 6일에는 소셜미디어에 “낡은 지방 세제 때문”이라고 주장했다. &lt;br&gt;&lt;br&gt;현재 도 단위 지역의 기업이 내는 법인지방소득세는 사업장이 있는 시·군에 귀속된다. 최근 역대급 실적을 기록한 삼성전자와 SK하이닉스 생산 법인에서 내는 지방소득세는 경기도가 아닌 생산 시설이 있는 용인·화성·평택·이천 등 기초단체가 갖는다. 추 지사가 말한 ‘낡은 지방 세제’는 이런 상황을 언급한 것으로 보인다.&lt;br&gt;&lt;br&gt;경기도는 부동산 등 취득세 수입에 의존하고 있다. 그런데 경기도의 취득세 수입은 2022년 약 11조원에서 올해 약 8조1000억원으로 약 26%가량 감소했다. 정부의 부동산 정책 등으로 부동산 거래 건수가 줄면서 세입도 감소한 것이다. 반면 복지 예산은 같은 기간 14조원에서 19조6000억원으로 약 40% 증가해 전체 예산의 약 49%를 차지한다. 인구 증가와 고령화, 국고 보조 사업 확대 등으로 재정 지출이 점차 늘어날 것으로 예상되는데 경기도의 세수는 줄어든 상황이다. 반면, 역대 최대 실적을 기록한 반도체 기업이 있는 시의 법인지방소득세 수입은 크게 늘어날 전망이다. 작년 기준 법인지방소득세는 화성 4000억원, 용인 2000억원, 평택 1700억원 수준이었다고 한다.&lt;br&gt;&lt;br&gt;이런 상황에서 추 지사는 지난달 24일 박홍근 기획예산처 장관을 만나 지방 재정 제도 개선을 건의했다. 추 지사가 취임 후 꾸린 ‘경기도 재정혁신 TF’는 지난 6일 “도의 재정 위기를 해결하려면 안정적 세원 확충, 국고 보조율 조정, 도·시·군 부담 관계 개선, 재정 조정 제도 개편을 동시에 추진해야 한다”고 했다. 법인지방소득세를 도세로 전환하려면 관련 법률 개정이 필요하다. &lt;br&gt;&lt;br&gt;반도체 벨트 기초단체들은 반발하고 있다. 산업단지 조성과 도로·상하수도 등 기반 시설 확충에 시 예산과 행정력이 투입됐고, 공장 건설에 따른 교통·환경 문제도 해당 시와 주민들이 부담해 왔다는 것이다. 그런 만큼 기업 실적 개선으로 늘어난 세수도 지역 발전에 사용돼야 한다는 입장이다. 이상일 용인시장은 “경기도가 곳간이 비었다고 해서 도내 31개 시·군의 법인지방소득세 절반을 가져가겠다는 계획은 말도 안 된다”고 했다. 용인시 공무원노동조합도 추 지사 주장에 반대하는 입장이다. 지역 정가에선 추 지사가 전임 지사 시절 심화한 재정 악화 문제를 산하 시·군이 가져가는 법인지방소득세를 나눠 갖는 식으로 해결하려는 것이냐는 말이 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부동산 치솟으니 커지는 ‘집’안싸움</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/08/XI23UDFUAJFGXPTBN34WKROJEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/08/XI23UDFUAJFGXPTBN34WKROJEI/</guid>
+      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7YMETPK3RELNHC7CIXV36Q2QE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 7일 서울 서초동 서울중앙지법 452호 법정. 원고석에는 구순이 넘은 A씨와 네 딸이, 맞은편 피고석에는 A씨의 막내 아들(55)이 앉았다. A씨의 남편이 2019년 5월 아들 부부에게 증여한 서울 강남의 27억원 짜리 아파트를 놓고 유류분(遺留分) 반환 청구 소송이 벌어진 것이다. 유류분이란 법적으로 보장되는 최소한의 상속 지분을 말한다.&lt;br&gt;&lt;br&gt;한 달 뒤 재판부는 막내 아들이 어머니에게 1억2000만원, 누나 4명에게 8000만원씩을 지급해야 한다고 판결했다. 재판부는 “해당 아파트는 망인의 사실상 유일한 재산이고, 생전에 아들에게 미리 나눠준 상속재산으로 볼 수 있어 공동상속인들에게 나눠줘야 한다”고 했다. 하지만 원고들이 판결에 불복하면서 가족이 다시 항소심에서 다툼을 이어가게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZOWAK4NR5BETD5C3U3Y4F6HXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부동산 등 재산을 둘러싼 집안 싸움을 법정으로 가져가는 가족이 늘고 있다. 과거 부부간, 형제간에 벌어지던 재산 갈등이 부모 자식 간 소송으로 번지는 사례도 적지 않다. 법조계에선 “가족 간 유산 싸움은 부유한 상류층의 일만이 아니라, 갈수록 중산층에서도 흔해지고 있다”고 말한다. 수도권 중심으로 부동산 가치가 치솟으면서 가족 간 다툼이 더 치열해지고 있다는 얘기다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇상속 다툼, 부동산 가격처럼 상승세&lt;/b&gt;&lt;br&gt;&lt;br&gt;상속과 관련한 가사비송 사건(非訟·소송이 아닌 사건)도 최근 5년 연속 오름세다. 법원에 따르면, 상속재산 분할 청구는 2021년 2379건에서 2022년 2776건, 2023년 2945건, 2024년 3075건 등으로 매년 늘어 지난해엔 3612건을 기록했다. 가족끼리 상속재산을 나누는 협의가 이뤄지지 않아 법원에 상속 비율을 정해달라고 맡기는 이들이 많아진 것이다. 상속분할 청구와 함께 자식의 부모 부양 등 자신의 기여분을 정해달라는 청구도 같은 기간 314건에서 441건으로 늘었다.&lt;br&gt;&lt;br&gt;법조계에서는 “상속을 둘러싼 법적 분쟁이 늘어난 배경에는 부동산 가치 상승이 영향을 미친다”고 분석한다. 국토교통부 실거래가 자료를 분석한 한국도시연구소 보고서를 보면, 서울의 아파트 평균 매매가격은 2021년 약 10억3000만원에서 이듬해 9억4000만원으로 떨어졌다가, 2023년부터 매년 올라 지난해 12억7000만원까지 상승했다. 전국의 주택 평균 매매가격도 2021년 3억3000만원에서 지난해 4억9000만원으로 상승했다. 가사 사건을 담당했던 한 부장판사는 “부동산 가격 상승으로, 갈수록 혼자 힘으로 서울에 자가를 마련하기가 어려워지다보니 부모의 재산이나 유산을 다른 가족들에게 양보하기가 쉽지 않다”면서 “경제 수준을 높일 수 있는 절호의 기회이다보니 소송까지 불사하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇부양·양육도 이젠 “계산하자” 분위기&lt;/b&gt;&lt;br&gt;&lt;br&gt;부모를 부양하는 일, 자녀를 양육하는 일을 두고도 정당한 대가를 달라며 법정으로 향하는 일이 늘고 있다. 2024년 충북 충주시에 사는 B(89)씨는 장남을 상대로 소유권이전등기말소 소송을 제기했다. “7년 전 아들에게 소유권이전등기를 해준 약 1400평 토지가 증여가 아닌 명의신탁이었다”고 주장하고 나선 것이다. 노모가 땅을 돌려받겠다고 소송까지 낸 까닭은 아들이 증여할 때 자신을 모시겠다고 했던 약속을 지키지 않았기 때문이었다. B씨는 재판에서 “장남이 아닌 다른 자식들이 오히려 병원비와 집안일을 부담하고 있다”고 주장했다. 하지만 재판부는 “증여세와 취득세를 장남이 납부했고, 부양을 약속한 계약서 등 객관적 증거가 없어 명의신탁이라고 보기 어렵다”고 판결했다. B씨는 본전도 못 찾고 패소했다.&lt;br&gt;&lt;br&gt;2021년 스무살이 된 C씨는 친부(親父)를 상대로 부양료 청구 소송을 냈다. 2001년 혼외자로 태어나 어머니와 함께 살았던 그가 성인이 되자마자 “친아버지가 미성년 자녀였던 나에 대한 부양 의무를 다하지 않았다”며 2억원을 청구한 것이다. 법원은 “혼인 외 자녀가 아버지를 상대로 부양료를 청구하는 경우, 부양 의무의 성질이나 형평의 관념상 이를 허용해야 한다”면서 “아버지는 아들에게 7000만원을 지급하라”고 판결했다. 이 판결은 5년 만인 작년 9월에서야 대법원에서 확정됐다. &lt;br&gt;&lt;br&gt;한 가사 전문 변호사는 “가족 사이에도 법적인 권리를 따지고, 역할에 대한 비용을 계산하는 문화가 만연해지고 있다”며 “고령화 현상과 맞물려 누가 부모를 얼마나 부양하는지, 그 기여분을 어떻게 정할지 등을 놓고 가족 간 법적 분쟁은 더 치열해 질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/H7YMETPK3RELNHC7CIXV36Q2QE.png?auth=e0f4f3ed71982100e606e606d30f692fb6e912faa82a0b2faf8dede237e2d023&amp;smart=true&amp;width=1920&amp;height=1080" type="image/png" height="1080" width="1920">
+        <media:description type="plain">일러스트=양진경</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>교육부가 대안이라던 AI챗봇 컨설팅… 물리학과 물었는데 한문교육과 추천</title>
+      <link>https://www.chosun.com/national/education/2026/08/08/ZPUZ3VIB65FWVKJ5GTVGCSYCUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/08/ZPUZ3VIB65FWVKJ5GTVGCSYCUM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4KATREA2BGT7NGDH2UPJSJE4M.png"&gt;&lt;figcaption&gt;&lt;small&gt;AI챗봇 /챗GPT 생성 이미지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“학생부종합전형 합격에 미치는 구체적 영향을 안내하기 어렵습니다.”&lt;br&gt;&lt;br&gt;지난 5일 기자가 ‘어디가’ AI(인공지능) 챗봇에 “학생부종합전형으로 서강대 물리학과 진학을 희망하는데, 탐구 영역(4과목)을 모두 과학탐구로 선택하는 게 유리할까? 아니면 여기에 사회탐구 과목도 일부 넣는 게 유리할까?”라고 묻자, 돌아온 답변이었다. 추가 질문에도 대학 입학처 홈페이지 수준의 정보만 제시했다.&lt;br&gt;&lt;br&gt;‘어디가’ AI 챗봇은 전국 대학의 입시 정보와 합격자 학생부 교과 성적 데이터 약 130만건을 보유한 기존 포털(어디가)에다 AI를 연동해 이용자의 질문에 답해주도록 만든 서비스다. 지난 6월부터 교육부와 한국대학교육협의회가 ‘어디가’ AI 챗봇을 시범 운영하고 있다. 특히 교육부는 지난달 29일부터 학생부의 상업적 이용을 금지한 초·중등교육법 시행으로 주요 입시 업체들의 온라인 컨설팅이 중단된 뒤, 그 대안으로 ‘어디가’ AI 챗봇을 내세우고 있다. 하지만 ‘어디가’ AI챗봇은 실질적인 입시 상담보다 대학이 공개한 기초 정보를 찾아주는 수준에 머물러 내달 초 수시 원서 접수를 앞둔 수험생과 학부모들에게 혼란을 주고 있다는 지적이 적지 않다.&lt;br&gt;&lt;br&gt;실제로 ‘어디가’ AI 챗봇은 대학별 전형 일정이나 모집 인원, 학생부 교과 전형 등급 컷 등 기본 정보 제공에만 그치고 있다. 특히 특기 사항·동아리·진로 활동 등 학생부 기록을 종합적으로 평가하는 학생부 종합 전형 상담은 제공하지 못한다. 서울 송파구에 사는 고3 류모(18)군은 “나는 수시에서 학생부종합전형으로 대학에 도전할 생각인데, 정작 내가 준비하는 전형에 대해선 제대로 관련 정보를 얻을 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;이뿐만이 아니다. 이용자가 개인화 설정에서 희망 대학·학과를 입력하더라도, 이 정보가 AI 챗봇과 연동되지 않는다. 기자는 서울 지역 대학에 있는 물리학과를 희망 학과로 지정해 놨지만, AI 챗봇은 기자가 입력한 내신 평균 2.17등급만 반영해 경쟁률이 낮은 순서대로 지방 대학에 있는 반려동물산업학부와 한문교육과를 추천했다. &lt;br&gt;&lt;br&gt;그럼에도 교육부는 “8월까지 시범 운영 후 개선할 계획”이라며 “챗봇을 지속적으로 고도화하고 있다. 2028학년도 입시부터는 학생부 종합 전형 상담도 가능하도록 하는 것이 목표”라고 했다. 현재는 AI 챗봇을 통해서가 아니라 기존 포털(어디가)에서 제공하는 대입상담교사단의 온라인 서비스에 따로 접속해야 학생부 종합 전형 상담을 받을 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>분단 상징 찰리 검문소서 “오늘의 평화는 통일이 준 선물”</title>
+      <link>https://www.chosun.com/national/people/2026/08/08/YCXMMMUSXFFPVD6Q63S42CTJY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/08/YCXMMMUSXFFPVD6Q63S42CTJY4/</guid>
+      <dc:creator>베를린=김태훈 논설위원</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OALB2TBJQ5GYFEHFS3PVCVWY3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;’2026 독일, 통일은 온다' 교사 연수단이 지난 3일 2차대전 때 연합군 공습으로 파괴됐다가 통일 후 재건된 드레스덴 프라우엔 교회 앞에서 기념촬영을 하고 있다. 오른쪽 끝은 연수단장인 윤영관 전 외교부 장관. 윤 단장 옆은 이은정 베를린 자유대 교수./ 통일과나눔&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보가 주도한 전국민 모금 운동으로 2015년 출범한 재단법인 통일과나눔은 이후 다양한 통일 관련 사업을 펼쳐왔다. 그중에서도 2024년 시작해 올해로 3년째인 ‘교사 독일 통일 현장 연수’는 매번 선발 경쟁률이 10대 1을 넘길 정도로 중등 교사들 사이에 인기가 높다. 올해는 전국에서 윤리·사회·역사·지리 교사 25명으로 연수단(단장 윤영관 아산정책연구원 이사장·전 외교통상부 장관)을 꾸려 7월 27일부터 열흘 일정으로 동·서독 분단과 극복 과정, 통일 이후의 변화상을 둘러봤다.&lt;br&gt;&lt;br&gt;통일과나눔 연수의 가장 큰 장점은 독일에서 수십 년 관련 분야를 연구한 현지 학자들과 국내 석학들로 꾸려진 강사진이다. 주(主) 강사로 첫해부터 참여해온 이은정 베를린자유대 교수는 독일 유학 시절 베를린장벽 붕괴를 직접 목격했던 경험담을 들려줬다. “먼저 통일된 나라를 보면서 우리는 어떤 통일을 꿈꿔야 하는가 고민했다”는 이 교수의 말에 교사들은 고개를 끄덕이며 공감했다. 조성민 경북 사곡고 교사는 “특강을 들으며 통일의 필요성에 대해 더 깊이 생각하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;윤영관 단장은 ‘독일을 분할하려는 유럽 강대국들의 원심력과 통일 국가를 이루려 하는 독일 민족의 구심력’이란 키워드로 특강을 했다. 윤 단장은 “소련에 고르바초프가 등장하며 그때까지 통일에 반대하던 주변국 태도가 허용하는 쪽으로 급변했다”며 “한반도를 둘러싼 상황도 언제 독일처럼 바뀔지 모르니 우리도 통일을 대비해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQOCAUSZCVFDNKC53XKWYHTI4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이은정 베를린자유대 교수(왼쪽)가 지난달 30일 동서독 분단의 상징인 체크포인트 찰리 검문소에서 연수단 교사들에게 통일 이전과 이후 달라진 거리 모습에 대해 설명하고 있다. /베를린=김태훈 논설위원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베를린 시내에 산재한 분단과 통일 현장도 답사했다. 1989년 동독 정부의 여행 자유화 발표 직후 거리로 쏟아져나온 동베를린 주민 수천 명이 장벽을 일시에 무너뜨린 곳으로 유명한 보른홀머 슈트라세, 분단을 상징하던 장벽에서 세계 최대 야외 갤러리로 탈바꿈한 이스트사이드 갤러리, 아름다운 풍광을 지녔지만 장벽이 설치된 이후 동베를린 주민은 접근이 불허됐던 반제 호수 등을 찾았다. 분단 시기, 미·소의 탱크가 지척에서 극단적으로 대치했던 체크포인트 찰리 검문소도 방문했다. 당시를 재현한 모형 검문소가 서 있을 뿐 여타 거리들처럼 번화하고 활기찼다. 이은정 교수가 “이 평화로운 거리 풍경은 통일이 준 선물”이라고 하자 신기환 천안 불당중 교사는 “분단을 반드시 극복해야 하는 이유를 이 거리가 알려주는 듯하다”고 화답했다. 신 교사는 “학교에 돌아가면 오늘 경험하고 느낀 것들을 학생들과 나누겠다”고 했다.&lt;br&gt;&lt;br&gt;3일에 걸쳐 독일연방의회와 브란덴부르크문 등을 답사한 연수단은 나흘째부터 베를린을 떠나 장벽을 원형 그대로 보존한 옛 동·서독 국경 도시 회텐스레벤, 동독과 소련의 감청 시설이 들어섰던 군사기지였다가 생태 관광지로 바뀐 브로켄산, 동독 체제를 선전하는 국영방송국으로 쓰였지만 통일 후 폐허로 방치됐다가 지금은 통일 교육장으로 활용되는 젠데할레 바이마르, 1989년 동독 전체로 확산한 통일 요구 시위가 처음 벌어졌던 라이프치히 니콜라이교회 등을 차례로 방문했다.&lt;br&gt;&lt;br&gt;조정재 대전 대덕고 교사는 “군사 시설로 일반인 출입이 금지됐던 브로켄산이 지금은 국민적 사랑을 받는 명소가 된 게 인상적”이라며 “통일 후 휴전선과 금강산에도 변화가 올 텐데 어떤 모습으로 바뀌어야 할지 제자들과 토론해보겠다”고 했다. 연수단은 동독 영토에 섬처럼 둘러싸여 고립됐던 베를린과 서독을 연결하는 A2 고속도로에 설치된 마리엔보른 국경 검문소도 찾았다. 동독인이 서독과 동독을 오가는 자동차에 몸을 숨겨 탈출하다가 적발돼 끌려가던 곳으로 악명 높았던 시설이다. 한 교사는 “휴전선으로 단절된 우리 현실이 떠올랐다”고 했다.&lt;br&gt;&lt;br&gt;연수단이 마지막으로 찾은 곳은 2차 대전 당시 연합군 폭격으로 도시 전체가 파괴됐던 드레스덴이다. 이 도시의 자랑이었던 프라우엔 교회도 그때 폐허가 됐다. 전후 동독 정부는 전쟁의 상흔을 교훈으로 남겨야 한다며 폭격당한 잔해를 그대로 방치했다. 이 정책이 통일 후 뒤집혔다. 교회를 되살리기 위한 전국적인 모금 운동이 펼쳐졌다. 교회 복원에는 밝은 색의 새 돌을 주로 썼지만 전쟁의 아픔을 잊어서는 안 된다는 일부 의견도 반영해 폭격 때 검게 그을렸던 돌들을 재활용했다. 지예은 서울 전동중 교사가 “동·서독 주민이 통일 이후 뜻을 모아 교회를 함께 복원한 역사에 감동했다”고 하자 안혜수 울산 화암고 교사는 “우리도 통일되면 북한 주민과 함께할 수 있는 공동 목표를 세웠으면 좋겠다”고 했다. 정찬양 광주 동명고 교사는 “깊이 있는 강의와 생생한 현장 답사가 조화된 최고 수준의 연수였다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CW4HRLRGLBCZNI43O7VVAFBFPM.jpg?auth=d4c895aa086647fed6db996ceca8f6ae92918a040f29d4393ea259350bc94b2f&amp;smart=true&amp;width=4032&amp;height=2268" type="image/jpeg" height="2268" width="4032">
+        <media:description type="plain">’2026 독일, 통일은 온다' 교사 연수단이 지난 3일 2차대전 때 연합군 공습으로 파괴됐다가 통일 후 재건된 드레스덴 프라우엔 교회 앞에서 기념촬영을 하고 있다. 오른쪽 끝은 연수단장인 윤영관 전 외교부 장관. 윤 단장 옆은 이은정 베를린 자유대 교수./ 통일과나눔</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] “환자당 지원금 7980원, 욕창 치료도 버겁다”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/08/KBGFAZVMGBBWJABX6YBFA4VNMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/08/KBGFAZVMGBBWJABX6YBFA4VNMQ/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUUA7BNHCBCG7PAVVLH6WWR4QI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 경북의 한 요양 병원에서 복도를 걷는 노인 환자를 간병인이 부축해 주고 있다. 최근 대한요양병원협회는 보건복지부에 ‘낮은 수가로 욕창·골다공증 등을 적극적으로 치료하기 어렵다’는 취지의 의견서를 전달했다고 한다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에 사는 이모(53)씨는 작년 10월 요양 병원에 있던 치매 환자 아버지를 다시 집으로 모셨다. 욕창 때문이었다. 이씨는 “작년 8월에 아버지 엉덩이에 빨간 자국이 보였는데 누워 계셔서 생긴 일시적인 멍인 줄 알았다”고 했다. 하지만 멍이 아니라 욕창이었다. 빨간 부위에 물집이 잡혀 터지고 진물이 났다. 두 달간 욕창이 낫지 않자 이씨는 결국 아버지를 퇴원시켰다. &lt;br&gt;&lt;br&gt;요양 병원의 욕창 발생률은 일반 병원보다 3~4배 높다. 이 같은 상황에서 대한요양병원협회가 최근 “요양 병원이 욕창·골다공증 환자 등을 적극적으로 치료하고 싶어도 못 한다”는 내용의 의견서를 보건복지부에 전달한 것으로 7일 확인됐다. 협회는 의견서를 통해 정부의 도움을 요청하면서 그동안 요양 병원들이 쉬쉬해왔던 스스로의 한계와 부족함까지 적나라하게 담았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4W5LGUIGSREIPOEYGNZY2WJRJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;협회는 일반 병원처럼 처치나 검사를 할 때마다 수가(행위별 수가)가 지급돼야 적극적인 치료가 가능하다면서 욕창을 가장 먼저 언급했다. 일반 병원과 달리 요양 병원은 중증도별로 환자 1명당 받는 수가(건보공단이 병원에 주는 돈)가 하루 4만~8만원으로 정해져 있다. 병세가 심각한 ‘의료고도’ 환자의 경우에도 한 달 약제·치료재 수가는 23만9400원이다. 그런데 욕창 환자는 치료재(습윤 밴드 등) 비용만 최소 월 6만8880원(주 2회)에서 최대 18만8000원(주 4회)이 든다. 한 요양 병원장은 “욕창 밴드 비용만 전체 약제 수가의 최대 79%에 달해 가장 기본적인 욕창 치료도 맘껏 못 한다”고 했다. &lt;br&gt;&lt;br&gt;요양 병원 정액 수가제는 2008년 도입됐다. 만성 질환자와 장기 입원 환자가 많은 요양 병원 특성상 행위별 수가제를 적용하면 과잉 검사·처치가 발생할 가능성이 크기 때문이다. 전문가들은 “요양 병원의 정액 수가는 애당초 낮게 설정됐고, 인상률도 매년 1~2%로 물가 상승률에 못 미쳤다”고 했다. 석재은 한림대 사회복지학과 교수는 “정액 수가제가 과잉 진료는 억제했지만, 중증 환자에게 꼭 필요한 처치·투약까지 위축되게 한 면도 있다”고 했다. &lt;br&gt;&lt;br&gt;협회는 욕창에 이어 고령환자에게 많이 나타나는 요로감염에 대한 ‘정액 수가 규제’도 풀어달라고 요청했다. 고령의 요로감염 환자의 일주일 간 항생제 치료비 등은 9만~40만원 정도다. 정부 약제·치료재 수가보다 최고 7배 많아 입원 환자 중 요로감염자가 생기면 치료를 시도하지 않고 일반 병원으로 보내는 일이 비일비재하다는 것이다. &lt;br&gt;&lt;br&gt;아예 약 처방 자체를 기피하는 경우도 있다. 고령환자는 골다공증으로 인한 골절이 많이 생긴다. 그런데 의료고도 환자여도 하루 7980원인 현 약제 수가로는 1회 10만~16만원인 골다공증 주사비를 감당할 수 없어 처방을 아예 못 할 때가 많다고 했다. 영남의 한 요양 병원장은 “골다공증 환자가 골절되는 걸 지켜볼 수밖에 없는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;치매·파킨슨병도 비슷했다. 협회는 “충분한 용량의 치매 약을 투여하지 못하거나 처방 자체를 하지 않는 경우가 많다”며 “파킨슨병 약도 마찬가지”라고 했다. 치매 약 가격은 한 알에 최고 4000원에 달하고, 파킨슨병 약은 한 알에 1000원 안팎이라고 한다. &lt;br&gt;&lt;br&gt;전문가들 사이에서도 중증 환자를 많이 보는 의료 중심 요양 병원의 수가는 현실화할 필요가 있다는 의견이 많다. 하지만 요양 병원의 일부 처치·검사·투약을 행위별 수가제로 전환하는 것에 대해선 의견이 갈린다. 남상요 인하대 정책대학원 교수(노인학과)는 “욕창 관리나 골다공증 치료는 행위별 수가를 적용해야 한다”며 “중증 환자에게 꼭 필요한 것임에도 치료를 하면 할수록 손해가 나면 누가 하려 하겠느냐”고 했다. 반면 석재은 교수는 “일부 요양 병원의 정액 수가를 올려주는 건 몰라도 행위별 수가를 늘리는 건 신중해야 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가뭄에 성주 참외, 청송 사과 시들… 순창선 고추 농사 직격탄</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/08/DDYMBJAD2ZAQDBC3TAP2WJVDC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/08/DDYMBJAD2ZAQDBC3TAP2WJVDC4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:48:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCECMH2SR5ITDPTCNKZYBXU42I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 폭염 속 강한 햇볕에 데여 검은색과 갈색으로 변환 사과의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 ‘마른장마’와 ‘극한 폭염’의 여파로 남부 주요 농경지에 농작물 피해가 잇따르고 있다. 사과·배·포도 등 과수의 햇볕 데임과 열과(裂果·과일이 터지는 현상) 피해가 심해지고, 밭작물은 생육 부진을 겪고 있다. 특히 가을 수확 시기를 앞두고 폭염 장기화와 강수량 감소, 농업용수 부족 등의 영향으로 농작물 품질 저하와 수확량 감소를 우려하는 목소리도 커지고 있다.&lt;br&gt;&lt;br&gt;7일 기상청에 따르면 8월 현재 전국 ‘기상 가뭄’ 발생 지역은 가뭄 평가 구역 167곳 중 50곳(29.9%)으로 조사됐다. 기상 가뭄이란 각 구역의 최근 6개월 누적 강수량을 평년과 비교해 강수 부족 정도를 나타낸 지표다. &lt;b&gt;기상청은 관측 장비 등을 기준으로 전국을 167곳으로 나눠 가뭄 수준을 조사한다. &lt;/b&gt; 강수량이 적을수록 기상 가뭄 위험이 커진다. 여기에 폭염으로 강한 일사가 더해지며 가뭄이 가속화되고 있다.&lt;br&gt;&lt;br&gt;지역별로는 영남권이 가장 심각했다. 총 47구역 중 33곳이 가뭄에 시달렸다. 호남(37구역 중 16곳)과 수도권(35구역 중 1곳)에도 기상 가뭄이 발생했다. &lt;br&gt;&lt;br&gt;문제는 이들 지역이 주요 농산물 산지라는 점이다. 제철인 참외·포도·복숭아·사과 등의 주산지인 경북 성주·경산·영천·청송, 경남 밀양·양산, 전남광주 광양, 전북 장수 지역이 대표적이다. 이 지역에선 토양이 마르면서 과일도 수분이 부족해져 껍질이 딱딱해지고 과육의 탄력이 떨어지는 피해가 발생하고 있다. 양파·고추·파프리카 같은 채소가 나는 경남 창녕, 경북 영양, 전북 순창·남원 등도 상황은 비슷하다. &lt;br&gt;&lt;br&gt;다음 달부터 시작되는 벼 수확을 앞두고 주산지인 전북 김제·부안, 전남광주 순천·구례, 경북 구미도 가뭄에 시달리고 있다. 8~9월은 이삭이 여무는 시기로, 이때 물이 부족하면 쭉정이(알맹이가 제대로 차지 않은 빈 벼알)가 늘고, 수확량이 줄어들 수 있다.&lt;br&gt;&lt;br&gt;남부 지역이 이런 가뭄에 시달리는 건 ‘마른 장마’의 영향이 크다. 올해 장마는 전국적으로 강수량이 평년보다 적었는데, 특히 장마전선이 남부를 피해 갔다. 남부는 평균 141.8㎜의 비가 내려 평년(341.1㎜)의 41.6% 수준에 그쳤다. 특히 폭염 피해가 컸던 부산·울산·경남은 약 한 달의 장마 기간 동안 내린 비가 평균 67.6㎜ 수준으로 평년(382.4㎜)의 17.7%에 불과했다.&lt;br&gt;&lt;br&gt;9월이 되면 기상 가뭄 구역은 늘어날 것으로 예상된다. 기상청은 9월 기상 가뭄 구역이 수도권은 8월 대비 3곳 늘어난 4곳, 호남은 5곳 늘어난 21곳, 영남은 1곳 늘어난 34곳으로 총 59곳에 이르겠다고 전망했다. 9월까지 폭염이 길어지고, 강수량도 평년 대비 적을 것으로 예상돼 가물어가는 면적이 더 넓어질 거란 관측이다. &lt;br&gt;&lt;br&gt;댐도 말라가고 있다. 7일 기준 가뭄에 들어간 댐은 전국에 총 8곳으로 모두 남부에 몰려 있다. ‘심각’ 단계인 운문댐을 비롯해, ‘경계’ 단계인 밀양댐·섬진강댐 등 2곳, ‘주의’ 단계가 안동댐·임하댐·성덕댐·영천댐·평림댐 등 5곳이다.&lt;br&gt;&lt;br&gt;이들 지역은 노후 관로로 인한 ‘누수’ 문제도 안고 있다. 현재 댐 가뭄 지역들의 누수율을 보면, 운문댐이 있는 경북 청도는 38%로 나타났다. 이는 광역 상수도에서 보낸 물 10L 가운데 3.8L가 지방 상수도 관로에서 새어 실제 공급되는 물은 6.2L에 그친다는 뜻이다. 섬진강댐이 있는 전북 임실은 누수율이 27.3%, 평림댐이 있는 장성은 29.3%로 집계됐다. 적은 강수량도 가뭄을 키우고 있지만, 물이 수도꼭지까지 가는 과정에서 이미 3분의 1 정도가 새고 있어 가을이 되면 농업용수와 생활용수 부족 사태가 더 심각해질 수 있는 셈이다.&lt;br&gt;&lt;br&gt;이중열 물복지연구소장은 “비가 내리더라도 최근엔 국지적으로 쏟아지는 경향이 있어 어느 지역이든 상시 가뭄에 대비해야 한다”며 “수원(水源) 관리와 함께 노후 관로 개선에도 투자가 이뤄져야 물 부족에 대비할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RYBANPGYHFEYRLCXNH3HRM5GWY.png?auth=4b1feb68236a969619f5ea29391fd320483f49cef79cbd0c80b0ae695f4d9041&amp;smart=true&amp;width=1920&amp;height=1080" type="image/png" height="1080" width="1920">
+        <media:description type="plain">그래픽=김현국</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>학생부 분석한 책 절판에, 중고 장터서 웃돈 거래</title>
+      <link>https://www.chosun.com/national/education/2026/08/08/DSHHS7R4JZCS3IQ4IJ3BRXUBSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/08/DSHHS7R4JZCS3IQ4IJ3BRXUBSA/</guid>
+      <dc:creator>장윤 기자, 박민하 인턴기자(서울대 영어영문학·언론정보학 졸업 예정)</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:43:00 +0000</pubDate>
+      <content:encoded>“‘재고가 있다’는 소식에 50분간 풀악셀을 밟고 달려가 겨우 구했습니다.” “온라인으로 결제를 진행하는 그 짧은 사이 다른 사람이 먼저 사 버렸네요.”&lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티 등에는 학생부가 수록된 ‘명문대 합격기’ 책을 구하려는 학부모들의 글이 잇따르고 있다. 지난달 29일 학생부의 상업적 이용을 금지한 초·중등교육법 시행 이후 출판사들이 ‘학생부 수록’ 책을 더 이상 찍어낼 수 없게 되자, 학부모들이 시중에 남은 재고를 구하기 위해 백방으로 뛰고 있는 것이다. &lt;br&gt;&lt;br&gt;중고 시장에서도 정가의 3~4배 가격에 거래되고 있다. 7일 당근마켓 등 중고 거래 플랫폼에는 정가 4만5000원인 학생부 수록 ‘대학 합격기’가 15만원에 판매됐다. 정가 3만8000원인 다른 학생부 수록 도서 역시 12만원에 구매하겠다는 게시글이 올라왔다. 여기에다 더해 출판사들은 ‘절판 마케팅’까지 하고 있다. A 출판사는 소셜미디어에 “법 개정에 따라 ‘마지막 생기부 책’이 절판됐다. 서점에 남은 재고를 모두 보내느라 직원들도 갖지 못한 책”이라는 글을 올렸다. B 출판사는 “남은 재고는 500부… 실제 합격생의 학생부를 볼 수 있는 마지막 기회”라고 홍보했다. &lt;br&gt;&lt;br&gt;이에 교육부는 “일반적인 중고 거래는 처벌 대상이 아니다”라면서도 “학생부 관련 도서를 다량으로 확보해 반복적으로 판매하는 경우 법 위반 소지가 있을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>더위 피해 풍덩!</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/08/DK4IUQPP5ZC5RMM4SRRDJ6NZVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/DK4IUQPP5ZC5RMM4SRRDJ6NZVI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBET2ZSQX5G7LKSBW3Z5AFCGLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 부산 서구 송도해수욕장 다이빙대에서 피서객이 바다로 뛰어들고 있다. 이 다이빙대는 백사장에서 70m 떨어진 해상에 있다. 해수욕장 인근에 있는 거북섬에서 착안해 높이 5m 어미 거북 모양 플랫폼과 높이 3m 아기 거북 모양 플랫폼으로 구성됐다. 튜브, 오리발, 스노클 같은 보조 장비 없이 다이빙대까지 헤엄쳐 가야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>합수본 ‘투표수 조작’ 강남·서초로 수사 확대</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/08/FJ4IVVIXSBALFOYVJ4LYE5Q7OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/08/FJ4IVVIXSBALFOYVJ4LYE5Q7OY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3DEM3DGAYDIMZYGZRWEMBXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표용지 부족 사태를 수사 중인 검·경 합동수사본부 관계자들이 지난달 23일 오후 경기 과천시 중앙선거관리위원회에 대한 압수수색을 마친뒤 압수상자를 들고 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 투표 용지 부족 사태 등을 수사하는 검경 합동수사본부가 7일 본투표 당일 경기와 충북에 이어 서울 강남구와 서초구에서도 투표자 수가 실제와 다르게 입력된 정황을 포착하고 강제수사에 나섰다. 합수본은 이날 중앙선관위와 서울·경기·충북 선관위, 김포·의왕·진천·강남·서초 선관위 등 9곳을 공전자기록위작 및 공무집행방해 등의 혐의로 압수수색했다. &lt;br&gt;&lt;br&gt;합수본은 서울 강남구와 서초구 일부 투표소에서 실시간 투표자 수가 비정상적으로 입력된 정황을 포착했다. 강남구 역삼2동 제5투표소의 누적 투표자 수는 오전 10시 968명에서 오전 11시 1580명으로 증가한 뒤, 약 6시간 동안 달라지지 않았다. 서초구 서초3동 제1~6투표소는 오전 10시 투표자 수가 한 시간 전보다 400~500명 늘었지만, 이후 2~3시간 동안에는 변동이 없었다.&lt;br&gt;&lt;br&gt;합수본은 이같은 비정상적인 투표자 수 증가가 “투표자 수 오류가 발생해도 수정하지 않는 것을 원칙으로 하고, 큰 오류가 아니면 추후 가감할 수 있다”는 중앙선관위 지침에 따른 것으로 보고 있다. 중앙선관위 관계자는 이런 내용을 담은 지침을 본투표 당일 오전과 오후 두 차례에 걸쳐 시·도 선관위에 이메일로 전달한 것으로 조사됐다. 이에 일부 투표소에서는 1시간 단위로 집계하는 실시간 투표자 수가 잘못 입력됐는데도 바로 고쳐지지 않고, 다음 시간대에 비정상적으로 투표자 수가 바뀐 것이다.&lt;br&gt;&lt;br&gt;앞서 합수본은 중앙선관위와 경기선관위 직원간 메신저 기록에서 투표자 수 오입력을 은폐하려고 한 정황을 확인하고, 지난달 23일 경기선관위 등을 압수수색했다. 합수본은 그동안 경기 김포·의왕과 충북 진천을 위주로 투표자 수 조작 의혹을 수사했는데, 이날 수사 범위를 서울까지 확대한 것이다. &lt;br&gt;&lt;br&gt;앞서 김포의 한 투표소에서는 지방선거 당일 실시간 투표자 수가 실제보다 많이 입력되자, 실무진이 상부에 보고하지 않고 초과분을 인근 다른 투표소 여러 곳으로 나눠 입력해 오류를 감춘 정황이 드러났다. 의왕과 진천 투표소에서도 투표자 수가 잘못 입력되자 실제 투표자 수가 기존에 입력된 수치를 넘어설 때까지 같은 숫자를 유지한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남영준 국립중앙도서관장</title>
+      <link>https://www.chosun.com/national/people/2026/08/08/JU2HZSYNLJCVPFD7KUUTFXGSRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/08/JU2HZSYNLJCVPFD7KUUTFXGSRE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5EC4EFJCRFILERXRAA2VXHTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남영준 중앙대 문헌정보학과 명예교수가 국립중앙도서관 관장에 임명됐다. 한국도서관협회장, 대통령 소속 도서관정보정책위원회 위원, 국가정보공개위원회 위원장 등을 지냈다. 임기는 2년.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고상백 한국보건산업진흥원장</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/08/ENQAOOH5BFER3IXE5Z6LLUZOGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/08/ENQAOOH5BFER3IXE5Z6LLUZOGE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4GGMRVGE3WCMBYMVRTMZDBGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고상백 신임 한국보건산업진흥원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부는 제11대 한국보건산업진흥원 원장에 고상백(59) 연세대학교 원주의과대학 교수를 임명한다고 7일 밝혔다. 임기는 이달 10일부터 2029년 8월 9일까지 3년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“6·25 폐허 속 포항 살려줘 고맙다” 美해병대에 감사 전한 애린복지재단</title>
+      <link>https://www.chosun.com/national/regional/2026/08/08/RAYGDKXOXFGRHBUDZCWZCCM6JA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/08/RAYGDKXOXFGRHBUDZCWZCCM6JA/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUABNXIDCNEWHGTXEUNHB2TR2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 이대공(오른쪽) 애린복지재단 이사장이 발레리 잭슨(왼쪽) 주한 미 해병대 사령관에게 포항의 역사를 설명하고 있다. /애린복지재단 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 발레리 잭슨 주한 미 해병대 사령관(소장)과 앤서니 헨더슨 소장 등 주한 미(美) 해병대 10여 명이 경북 포항을 찾았다. 이들을 초청한 이대공 애린복지재단 이사장은 “전쟁 때 포항을 살려준 미 해병대가 잊지 않고 포항을 찾아줘서 고맙다”고 인사했다. 이날 만남은 6·25전쟁 이후 70년이 넘도록 포항 선린애육원을 후원하고 있는 주한 미 해병대에 감사의 마음을 전하기 위해 마련된 자리다. &lt;br&gt;&lt;br&gt;선린애육원은 1952년 3월 미 해병대와 선교사 2명, 포항 지역 교회 5곳이 갈 곳 없는 전쟁 고아들을 품기 위해 세운 시설이다. 처음엔 천막으로 지었지만, 미 해병대가 모금 운동을 벌여 부지를 마련해 줬다. 이때부터 미 해병대원들은 매년 선린애육원을 찾아 봉사 활동을 하며 인연을 이어오고 있다.&lt;br&gt;&lt;br&gt;선린애육원 원장을 지낸 고(故) 이명석 선생의 아들인 이 이사장은 “북한군에 점령당했던 포항을 미 해병대의 도움으로 되찾았고, 그들의 도움으로 전쟁고아들을 위한 선린애육원이 시작됐다”며 “포항 시민들은 미 해병대에 대한 고마움을 잊지 않을 것”이라고 했다. 발레리 잭슨 주한 미 해병대 사령관은 “전쟁의 폐허 속에서 눈부신 성장을 이룩한 대한민국의 발전에 자랑스러움을 느낀다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김정수 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/08/08/ECOUNHZGZZHEHBRYIMLZRWROOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/08/ECOUNHZGZZHEHBRYIMLZRWROOE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:38:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김정수&lt;/b&gt; 별세, &lt;b&gt;박순영&lt;/b&gt;·&lt;b&gt;박재덕&lt;/b&gt;·&lt;b&gt;박재광&lt;/b&gt;·&lt;b&gt;박재문&lt;/b&gt; 조선일보 CS서평택센터 대표 모친상=7일14시11분 교원예움 평택장례식장, 발인 9일8시, (031)652-0404&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박재복&lt;/b&gt; 前 MBC 국장 별세, &lt;b&gt;이영숙&lt;/b&gt; 남편상, &lt;b&gt;박준성&lt;/b&gt;·&lt;b&gt;박규리&lt;/b&gt; 부친상=7일2시37분 신촌세브란스병원, 발인 9일4시40분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유재창&lt;/b&gt; 별세, &lt;b&gt;박한삼&lt;/b&gt; 남편상, &lt;b&gt;유현경&lt;/b&gt;·&lt;b&gt;유현진&lt;/b&gt; 문화일보 기자 부친상, &lt;b&gt;이기동&lt;/b&gt; 세명엔지니어링 과장·&lt;b&gt;박정호&lt;/b&gt; 한국언론진흥재단 차장 장인상=6일15시40분 고대안산병원, 발인 8일5시30분, (031)411-4441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이규남&lt;/b&gt; 별세, &lt;b&gt;정정애&lt;/b&gt; 남편상, &lt;b&gt;이승훈&lt;/b&gt;·&lt;b&gt;이승욱&lt;/b&gt;·&lt;b&gt;이훈철&lt;/b&gt; 뉴스1 워싱턴 특파원 부친상, &lt;b&gt;전희선&lt;/b&gt;·&lt;b&gt;백현애&lt;/b&gt;·&lt;b&gt;박민경&lt;/b&gt; 시부상=6일15시25분 전남광주 강진영락장례식장, 발인 9일6시, (061)433-3950&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 외교부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/08/08/TMAGXK2ZOFGA7EKSISMFAE4ZMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/08/TMAGXK2ZOFGA7EKSISMFAE4ZMM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:38:00 +0000</pubDate>
+      <content:encoded>▲외교부◇공관장▷주독일대사 고경석▷주슬로바키아대사 권기환▷주아일랜드대사 강주연◇실·국장급▷국제사이버협력대사 박영효◇과·팀장▷감사담당관 최윤선▷의전총괄담당관 최보선▷의전협력담당관 강유민▷아태2과장 박민서▷동북아1과장 이영신▷동남아1과장 유민아▷남미과장 임재금▷서유럽과장 김현경▷중동2과장 정선미▷아프리카1과장 이지희▷해외위난대응과장 전현▷인권사회과장 채연주▷국제개발의제과장 박성인▷문화교류협력과장 이민진▷디지털공공외교과장 박선영▷경제협정규범과장 주은혜▷동아시아경제외교과장 박은성▷국제과학기술규범과장 이수진▷외교전략정보본부 한반도미래정책과장 김의성▷군축비확산과장 이호준▷수출통제·제재과장 공수연▷국립외교원 운영지원과장 최성은▷감사담당관실 재외공관감사팀장 임성균▷인사제도평가담당관실 인사성과평가팀장 이규원▷영사안전정책과 재외동포총괄팀장 김상욱▷해외안전상황실 팀장 백진희·김선하·김지만▷여권과 기획총괄팀장 신민철▷공공외교총괄과 공고외교총괄팀장 김나원▷다자경제기구과 다자경제기구팀장 박인정▷기후변화외교과 기후변화외교팀장 송다희&lt;br&gt;&lt;br&gt;▲국가유산청◇고위공무원 임용▷궁능유적본부장 조규형◇국장급 전보▷문화유산국 역사유적정책관 김동대▷자연유산국장 황권순▷무형유산국장 이종훈◇과장급 전보▷대변인 안호▷문화유산국 건축유산팀장 김재길▷국립고궁박물관 기획운영과장 반지연&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 8월 8일</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/08/XFBWMRBLAZCLRAAZBQL7DHVDVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/XFBWMRBLAZCLRAAZBQL7DHVDVA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVLLQS6GZRGA5DCKVRFPCVKUYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>미 해병대 사령관이 경북 포항을 찾은 이유는</title>
       <link>https://www.chosun.com/national/regional/2026/08/07/GSAQ3PDI5VFC5EZTBRQDPWGH7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/07/GSAQ3PDI5VFC5EZTBRQDPWGH7A/</guid>
@@ -756,19 +901,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYGKMJUMQYWCMTEGE3TENRYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신용한 충북지사가 6일 창업특별도 종합계획 발표 기자회견에서 박병국 대외협력보좌관(2급 상당) 내정자에 대한 논란을 해명했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물수수로 실형을 선고받아 공직 적격성 논란을 빚었던 박병국 충청북도 대외협력보좌관(2급 상당) 내정자가 과거 공공기관 임원 재직 중 업무방해 사건으로 직위해제됐던 사실이 새롭게 확인됐다. 출소 후 공직 복귀 과정에서도 또다시 형사사건에 휘말려 물의를 빚은 이력이 드러나며 임용을 둘러싼 논란은 더욱 거세질 전망이다.&lt;br&gt;&lt;br&gt;김꽃임 충북도의원은 6일 보도자료를 내고 “박 내정자가 2021년 경기도시장상권진흥원 상임이사 재직 당시 업무방해 혐의로 경찰에 입건돼 직위해제됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;감사 자료와 당시 보도 등에 따르면, 박 내정자는 경기도 용인시의 한 카페에서 업주에게 음료 배달을 요구했다가 거절당하자 욕설을 하는 등 행패를 부린 혐의를 받았다. 경찰 수사 끝에 최종 기소유예 처분을 받은 박 내정자는 사건 직후 사직 의사를 밝혔으나, 수사 중인 상근 임원의 의원면직을 제한하는 정관에 따라 사표 대신 직위해제 처분을 받았다.&lt;br&gt;&lt;br&gt;이후 2023년 경기도 종합감사에서는 직위해제 기간 지급된 성과급이 ‘부적정 지급’으로 지적돼 회수 조치가 내려지기도 했다.&lt;br&gt;&lt;br&gt;경찰 경무관 출신인 박 내정자는 2012년 기업인으로부터 수천만 원 상당의 금품과 향응을 받은 혐의로 구속 기소돼, 2013년 징역 2년 6개월의 실형을 확정받았다. 2015년 만기 출소 후 2021년 경기도시장상권진흥원 상임이사로 임명될 당시에도 뇌물죄 전력으로 적격성 논란을 겪은 바 있다.&lt;br&gt;&lt;br&gt;김 의원은 “15년간 반성해 왔다는 주장의 진정성을 의심할 수밖에 없다”며 “뇌물수수 전력에 더해 공공기관 재직 중 직위해제된 인사까지 충북도를 대표하는 대외협력특보로 발탁한 이유를 납득하기 어렵다”고 꼬집었다.&lt;br&gt;&lt;br&gt;이어 “충북도는 국비 확보와 대외 협력을 발탁 명분으로 내세우지만, 박 내정자가 중앙정부를 상대로 어떤 성과를 냈는지 구체적인 근거를 제시하지 못하고 있다”며 “오히려 반대하는 이들에게 책임을 돌리고 도민을 겁박하는 방식으로 비쳐질 수 있다”고 비판했다.&lt;br&gt;&lt;br&gt;시민사회단체의 반발도 거세다. 충북참여자치시민연대는 같은 날 성명을 내고 “도민이 묻는 것은 임용 이후의 관리가 아니라 임용 자체의 적절성”이라며 “재정난과 국비 확보를 이유로 인사 원칙을 허물면 ‘공직 부패 전력이 있어도 인맥만 있으면 고위직에 오를 수 있다’는 위험한 선례를 남기게 될 것”이라고 임용 중단을 촉구했다.&lt;br&gt;&lt;br&gt;이 같은 논란에 대해 신용한 충북지사는 “업무방해 사건은 오늘 처음 알았다. 사실관계를 확인한 뒤 판단하겠다”면서도 기존의 임용 강행 의사를 고수했다.&lt;br&gt;&lt;br&gt;신 지사는 “충북은 정부 예산 확보와 공모 사업에서 절대적인 열세에 있어 중앙 인맥을 통한 자문이 절실하다”며 “여러 루트를 통해 충북에 기여할 수 있는 인사임을 확인해 직접 요청했다. 1년의 계약 기간 동안 성과를 낼 기회를 주고 부응하지 못하면 단호히 결정하겠다”고 해명했다.&lt;br&gt;&lt;br&gt;그러나 박 내정자의 구체적인 성과나 발탁 이유에 대해 묻는 질문에는 “개인적인 부분이라 말씀드리기 어렵다”며 명확한 답변을 피했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>호미반도, 문무대왕릉, 독도… 경북문화관광公, ‘수중 비경 11곳’ 선정</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/LROIG3LARZGGRIC4MQ2ELUEELM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/LROIG3LARZGGRIC4MQ2ELUEELM/</guid>
-      <dc:creator>경주=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 07:34:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAPWL4GPSVFEPDAS2SCZW7NEIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 동해안 수중 비경으로 꼽힌 영덕 죽도산 모습./경북문화관광공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북문화관광공사가 경북 동해안 지역의 수중 명소 11곳을 공개했다.&lt;br&gt;&lt;br&gt;6일 경북문화관광공사에 따르면 전날 울릉군 죽도에서 ‘경북 동해안 수중 비경 10+1선’ 공개 행사가 열렸다. 수중 비경 11선에는 경주와 포항, 영덕, 울진, 울릉의 수중 명소가 골고루 선정됐다. &lt;br&gt;&lt;br&gt;포항시의 경우 기암괴석과 해안 단구가 발달한 호미반도와 함께 ‘서핑의 성지’로 불리며 수상 레저 명소로 이름난 월포해수욕장이 선정됐다. 경주시에선 유네스코 세계지질공원에 등재된 문무대왕릉이, 울진군에선 수중 암초 지대이자 보호 대상 해양 생물인 나팔고둥 등이 서식하는 왕돌초 지역 등이 뽑혔다. 울릉군에선 동해안 최초 해양보호구역의 핵심 지역인 죽도와 국내 최대 유착나무돌산호 군락지인 독도 등이 포함됐고, 영덕의 스킨스쿠버 다이빙 명소이자 산호 군락지인 죽도산도 명단에 들었다.&lt;br&gt;&lt;br&gt;5일 열린 수중 비경 공개 행사에선 가수 이은미씨가 ‘경북도 동해바다 명예 홍보대사’로 위촉됐다. 스쿠버 다이빙이 취미인 이씨는 이날 전문 다이버들과 함께 죽도 인근 수심 40m 부근으로 직접 입수해 해송 군락지를 탐방했다. 이와 별도로 죽도 주민 김유곤씨에게도 울릉도 해양 보존에 평생을 바친 공로를 기념하는 감사패가 전달됐다. &lt;br&gt;&lt;br&gt;김남일 경북문화관광공사 사장은 “향후 울릉공항 개항에 발맞춰 수중 비경과 지역의 특성을 활용한 관광 콘텐츠를 개발해 동해안을 해양 레저 및 관광의 대표 명소로 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EFTTGWKZSNCRJNIKBPNFOMWBMQ.jpg?auth=9c32aba1c784582c7eec586347ea254de508b88f51df318b3089f47d478a820f&amp;smart=true&amp;width=576&amp;height=324" type="image/jpeg" height="324" width="576">
-        <media:description type="plain">경북 동해안 수중 비경으로 꼽힌 영덕 죽도산 모습./경북문화관광공사</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>달콤한 ‘스테비아 토마토’... 농산물 아닌 가공식품이었다</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/08/06/4B4LNHNFEBERNESHJKA2YIEA7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/06/4B4LNHNFEBERNESHJKA2YIEA7I/</guid>
@@ -794,42 +926,6 @@
       </media:content>
     </item>
     <item>
-      <title>수천억대 허위 보증보험서 내주고 수수료 챙긴 일당 재판행</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/06/FHRXOPC6TVHDNCZ6VK3CVNYA3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/FHRXOPC6TVHDNCZ6VK3CVNYA3Y/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 05:56:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTMY3FMVQTSN3DMM2GENBZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사9부(부장 고은별)는 2000억원대 허위 보험증서를 발급해 수수료 약 30억원을 챙긴 혐의(보험업법 위반, 사기, 횡령)를 받는 무허가 보증보험사 대표 등 임직원 6명과 회사 법인을 지난 5일 기소했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2019년 2월부터 지난 6월까지 금융위원회의 허가 없이 공사업체 등으로부터 수수료를 받고 87회에 걸쳐 2002억원 상당의 보험증서를 발행한 것으로 조사됐다. 이 회사는 지난 10여 년 간 이미 7차례 보험업법 위반죄로 처벌받았다. 그럼에도 자본금을 갖춘 것처럼 허위로 등기하고 대표를 바꿔가며 범행을 지속했다고 한다. &lt;br&gt;&lt;br&gt;이렇게 발급된 보증서의 지급 능력을 믿었던 공공기관 등은 해당 보증서를 발급받은 공사업체와 계약을 체결하고 1427억원 상당의 토지 소유권을 잔금을 받지도 않은 채 공사업체에 넘겼다. 검찰은 보험회사의 이 같은 행위는 해당 공공기관을 속인 사기 범행에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;경찰은 이들 일당의 범행을 별개의 ‘무허가 보증보험사 운영 사건’으로 보고 쪼개 송치했으나, 검찰은 이 사건이 하나의 조직적·반복적 금융사기 범행이라고 봤다. 검찰은 보완수사를 통해 약 1986억원의 무허가 보험증서가 발행된 사실을 물론, 이들 일당의 30억 원대 수수료 횡령 혐의도 밝혀냈다. 검찰은 또 추가 피해를 막기 위해 법인 홈페이지를 폐쇄 조치하고 법원에 법인 해산명령을 청구했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이화여대 경영전문대학원, ‘여성 독립이사 전문과정’ 모집</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/2WUQERNYB5E6DBNAMG2ESIIFCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/2WUQERNYB5E6DBNAMG2ESIIFCU/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 06:21:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4TCMRWMU4TMNRZGVTDEYZZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화여대 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대 경영전문대학원이 ‘여성 독립이사 전문과정’ 수강생을 모집한다.&lt;br&gt;&lt;br&gt;6일 이화여대에 따르면, 이화여대 경영전문대학원은 오는 17일까지 여성 독립이사 전문과정 12기 수강생을 모집하고 있다. &lt;br&gt;&lt;br&gt;지원 자격은 여성 독립이사 후보자나 여성 이사제에 관심이 있는 산업·금융·공공·의료·학계 전현직 종사자, 전문직 여성단체 회원 등이다. 해당 전문과정을 이미 수료한 사람의 추천이 있을 경우 장학금(수강료의 20% 감면)도 지급된다. &lt;br&gt;&lt;br&gt;해당 전문과정 교육 시간은 매주 토요일 오후 2시부터 4시 50분까지며, 교육 장소는 경영학과 60주년 기념홀(신세계관 1층)이다. 교육비는 600만원이며, 입학식은 오는 29일 오후 2시에 진행된다. &lt;br&gt;&lt;br&gt;이화여대 경영전문대학원 관계자는 “본 전문과정에선 독립이사 제도와 법률 규정, 기업 지배구조 및 전략적 의사결정 등과 관련된 지식을 습득할 수 있고, 다양한 형태의 국내외 사례를 통해 독립이사 후보자의 전문 역량을 강화할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기 파주 아파트 화재… 주민 6명, 연기 흡입</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/23B54IFYHBAJFJN72IQ5OTPNZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/23B54IFYHBAJFJN72IQ5OTPNZE/</guid>
-      <dc:creator>파주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 06:23:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXE4EAO4FJESBORNQLMZKUQU3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파주시 다율동의 한 아파트에서 불이 난 모습./경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주의 한 아파트에서 불이 나 6명이 다쳤다.&lt;br&gt;&lt;br&gt;6일 경기도북부소방재난본부에 따르면 이날 낮 12시 31분쯤 파주시 다율동의 15층짜리 아파트 11층에서 불이 났다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 장비 27대, 인력 72명 등을 동원해 오후 1시 5분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;이 불로 주민 6명이 연기를 마셔 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;또 주민 12명은 스스로 대피했으며 4명은 소방 당국에 의해 구조됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 에어컨 콘센트 부근에서 불이 시작됐다는 주민 진술 등을 토대로 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭염 속 야구보다 쓰러진 관중 퇴원… ‘뇌혈류 감소’로 실신</title>
-      <link>https://www.chosun.com/national/incident/2026/08/06/O6TQWLBY2BHJ5KDQYIHU2POEQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/06/O6TQWLBY2BHJ5KDQYIHU2POEQQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 06:19:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBN4MW7VUFCY3POJ3TJH24PCKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 인천 문학구장에서 열린 프로야구 SSG와 LG 경기 중 1루 관중석에서 20대 남성 팬이 더위를 견디다 못해 실신했다. 이 남성이 응급실로 이송되는 동안 경기가 중단됐다. / 박재만 스포츠조선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염 속 프로야구 경기 관람 중 쓰러져 병원으로 이송됐던 관중이 회복해 퇴원했다. &lt;br&gt;&lt;br&gt;6일 가천대 길병원에 따르면 지난 4일 인천 미추홀구 SSG랜더스 필드에서 프로야구 경기를 관람하다 쓰러진 이모(23)씨가 이날 퇴원했다. &lt;br&gt;&lt;br&gt;이씨는 당시 의식을 잃고 쓰러져 심정지가 의심됐으나, 의료진은 무더위와 탈수, 서 있던 자세 등이 복합적으로 작용해 일시적으로 뇌 혈류가 감소하면서 이씨가 실신한 것으로 판단했다. 심장질환 등 기저 질환은 발견되지 않았다. &lt;br&gt;&lt;br&gt;위진 길병원 심장내과 교수는 “기온이 높아 혈관이 확장된 상태에서 땀을 많이 흘리게 되면, 혈압이 급격히 낮아져 실신 위험성이 높아진다”며 “물을 충분히 마시고, 더위에 장시간 노출되는 것을 줄여야 실신을 예방할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;한국야구위원회(KBO)는 폭염으로 인한 관중과 선수단의 안전을 위해 지난 5일과 6일 프로야구 1, 2군의 모든 경기 일정을 취소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 서울 영등포구 40도 찍었다...금요일 폭염 ‘절정’</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/06/L2XGKW3NOJF3BLSMYXN4JDD2PU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/06/L2XGKW3NOJF3BLSMYXN4JDD2PU/</guid>
@@ -846,57 +942,6 @@
       </media:content>
     </item>
     <item>
-      <title>국내 아파트에 블랙킹스네이크?… 검찰, ‘멸종위기종 밀수 조직’ 기소</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/H5KTP2E5ARBSXN4VU6MKL4IZXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/H5KTP2E5ARBSXN4VU6MKL4IZXU/</guid>
-      <dc:creator>원종빈 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 05:34:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2ZLFERAVRFNXFGT4JCVUSHIPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야생동물 밀수 조직이 밀수한 악어의 모습. /서울동부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에서 암장된 멸종위기종 밀수 조직의 실체가 검찰의 보완수사로 드러났다.&lt;br&gt;&lt;br&gt;서울동부지검 형사2부(부장 이승학)는 멸종위기종 밀수 조직 총책 A씨 등 4명을 관세법 위반 및 야생생물법 위반 혐의로 기소하고, 압수한 야생생물 95마리를 국립생태원으로 보냈다고 6일 밝혔다. 이 가운데에는 코브라, 양쯔강악어, 검정늪거북 등 ‘멸종위기에 처한 야생 동·식물종의 국제 거래에 관한 협약’(CITES)에 따라 거래가 제한되거나 금지된 멸종위기종도 40마리가량 포함됐다.&lt;br&gt;&lt;br&gt;한강유역환경청은 당초 이 사건이 인천국제공항에서 현행범 체포된 B씨의 단독 범행이라고 봤지만, 검찰은 여권 기록상 현지를 처음 다녀온 B씨가 혼자 밀수를 기획했을 리 없다고 보고 보완 수사 끝에 A씨의 조직을 찾아냈다. A씨는 과거 다른 밀수 사건으로도 수사받았으나 경찰 단계에서 암장된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨 등 4명은 지난 2023년 11월부터 2024년 8월까지 총 14차례에 걸쳐 인도네시아, 베트남, 태국 등을 방문해 야생생물 약 200마리를 밀수하고, 54마리를 유통한 혐의를 받는다. 일당은 숨겨 들여오기 쉬운 어린 개체들을 철제 과자 통이나 플라스틱 상자에 넣어 수하물로 보낸 것으로 확인됐다. 일부 예민한 개체는 속옷에 넣어 기내에 반입하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCLYIBTLS5DDPDENEEFYCH3C5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야생동물 밀수 조직이 밀수하는 과정에서 폐사한 뱀의 모습. /서울동부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇게 국내로 넘어온 야생생물들은 인터넷 파충류 전문 카페 등에서 비싼 가격에 팔려 고속버스를 타고 전국 각지의 주택가로 이동했다. 최근 여주 소양천 샴악어, 양주 아파트 외래종 뱀, 대구 시외버스 화물칸 대형 뱀 등 야생생물들이 느닷없이 도심에 출몰한 배경에도 이들과 같은 밀수 조직이 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 수사 결과 A씨는 조직원들에게 자신을 ‘스승’, ‘보스’로 부르게 하며 철저한 상하관계를 유지해 왔던 것으로 파악됐다. 그는 또 조직원들에게 혹여 경찰과 세관에 적발되더라도 단독 범행이라고 주장하라고 강요했다고 한다. 이 때문에 환경청이나 경찰이 조직범죄 가능성을 쉽게 의심하지 못했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 “야생생물의 밀수, 불법 유통 및 사육 행위에 대해 환경청 및 국립생태원 등 관계기관과 긴밀히 협력해 엄정 대응할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고려대, 유승민 딸 연구부정 의혹에 “문제없다” 결론</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/7FRHH3F3TVEC7NQP5P724NKRBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/7FRHH3F3TVEC7NQP5P724NKRBQ/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 04:54:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WDBCQJXCRGW5BYFOLNJXVETWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2017년 7월 유승민 바른정당 대선후보가 후보 운동을 할 당시 딸 유담 씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대학교가 유승민 전 의원의 딸 유담 인천대 교수에게 제기된 자기표절과 논문 쪼개기 등 연구부정 의혹에 대해 연구부정 행위에 해당하지 않는다고 결론냈다. 국민신문고에 관련 신고가 접수되고 고려대 연구진실성위원회가 본조사에 착수한 지 약 7개월 만이다.&lt;br&gt;&lt;br&gt;6일 고려대 측은 “조사 결과 유씨의 논문은 연구부정 행위에 해당하지 않는 것으로 결론이 내려졌다”며 “현재로서는 그 외 추가 절차나 조치가 정해진 바는 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;유씨는 고려대에서 경영학 박사 학위를 받았는데, 학위 취득 두 달 만에 인천대 교수로 임용됐다. 이후 인천대 무역학부 교수로 임용되는 과정에서 제출한 학술지 논문과 석·박사 학위 논문 일부가 연구 자료와 분석 방식, 이론적 틀 등을 중복 사용했다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;유씨 논문을 둘러싼 의혹은 ‘분절 게재’와 ‘자기표절’이다. 유씨는 지난해 8월부터 올해 12월까지 5개월 동안 7편의 논문을 발표했는데, 연구 주제와 자료, 분석 틀이 유사해 하나의 연구를 쪼갠 것 아니냐는 지적이 일각에서 제기됐다. 유씨의 2019년 석사 논문과 2020년 KCI 학술지 논문 간 유사도가 29%로 나타났는데, 출처 표기가 없었다는 의혹도 논란이 됐다. &lt;br&gt;&lt;br&gt;고려대 연구진실성위원회는 유씨의 학술지 논문 7편과 석·박사 학위 논문 등을 검토한 결과, 여러 논문에서 동일하거나 유사한 이론과 연구 자료를 활용한 것만으로는 연구부정으로 보기 어렵다고 판단한 것으로 알려졌다. 연구 분야에서 통상적으로 이뤄지는 일반적인 연구 관행이라는 것이다. &lt;br&gt;&lt;br&gt;논문들이 유사한 내용을 별개의 연구 성과처럼 제시했다는 의혹에 대해서도 “연구 질문이 포괄적이고 독립적이어서 하나의 통합 논문으로 발표하기보다 개별 논문으로 출간하는 것이 학술적으로 바람직하다”고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;위원회는 “이론적으로 공통되는 부분은 있지만 각 논문의 핵심 연구 질문은 서로 다르고, 교수직 임용을 위해 전략적으로 짧은 시기 논문을 집중 출판했다”는 유씨 측 소명도 받아들인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>N번방 가해자도 받은 ‘성범죄자 VR 치료’…“피해자 시선 가르친다”</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/06/72CAUAMEQFCE5FBX7R37U63GFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/72CAUAMEQFCE5FBX7R37U63GFE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 05:09:15 +0000</pubDate>
-      <content:encoded>“넌 특별하니까 간직하고 싶어서 그래.”&lt;br&gt;&lt;br&gt;30대 직장인 A씨는 데이팅 앱에서 한 여성을 알게 됐다. 며칠간 연락을 주고받으며 얼굴 사진도 교환했다. 상대가 더욱 궁금해진 A씨는 “당신처럼 매력적인 사람은 처음이다. 지금 당장 만날 수 없으니 몸 사진을 하나 찍어 보내달라”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHTLX652VZEHNFLAMJ22LCBXQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부구치소에서 지난 4일 본지 기자가 '수형자 대상 가상현실(VR) 심리치료 프로그램'을 체험하는 모습./박혜연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성은 거듭된 설득과 압박 끝에 나체 사진 한 장을 보냈다. 하지만 A씨의 요구는 거기서 끝나지 않았다. 그는 “지난번 사진 정말 예쁘더라. 이번에는 영상으로 찍어 보내줘”라고 요구했다. 여성이 거절하자 A씨는 태도를 바꿨다. “회사에 소문을 낼 거야. 싫으면 영상을 보내.”&lt;br&gt;&lt;br&gt;지난 4일 서울남부구치소에서 본지 기자가 직접 체험한 ‘수형자 대상 가상현실(VR) 심리치료 프로그램’의 한 장면이다. 성폭력·스토킹·디지털 성범죄 등 고위험 수형자가 실제 범행으로 이어질 수 있는 상황을 가상현실에서 체험하며 왜곡된 성 인식 등을 교정하도록 만든 프로그램이다.&lt;br&gt;&lt;br&gt;기자가 VR 기기를 착용하자 남성 A씨의 시점에서 바라본 실제와 비슷한 공간이 눈앞에 펼쳐졌다. 여성의 표정 변화와 불쾌감도 생생하게 전달됐다. 프로그램 중간중간, 가해자의 심리를 되짚어보는 질문이 화면에 나타났다.&lt;br&gt;&lt;br&gt;‘왜 여성을 협박했는가?’라고 묻는 질문에, 본지 기자는 “내가 원하는 것을 얻었다고 생각했다”는 항목을 선택했다. 그러자 피해 여성이 화면에 등장해 말했다.&lt;br&gt;&lt;br&gt;피해자가 겪은 고통뿐 아니라 범죄가 결국 자신의 삶까지 무너뜨린다는 점을 스스로 돌아보게 하는 방식이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T76OS5JLTFHY7HKZOWENHABUTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부구치소./법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“딥페이크 ‘N번방’ 가해자도 VR 치료받았다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법무부 교정본부는 지난 2월부터 재범 위험성이 높은 수형자를 대상으로 VR 심리치료 프로그램을 시범 운영하고 있다. 성폭력·스토킹·아동학대·가정폭력·마약 범죄 등과 관련해 재범 위험이 높거나 가학·변태적 성향이 있다고 분류된 수형자 등이 대상이다. 치료 대상자로 선정된 이들은 약 6개월간 특별 심리 치료와 교육 등을 받는다. 올 상반기에만 전국 9개 심리 치료 센터에서 총 392명이 VR 치료를 받았다. 범죄 유형별로 5회 과정으로 구성돼 있으며, 1회당 교육 시간은 약 15분이다.&lt;br&gt;&lt;br&gt;기자가 찾은 서울남부구치소 내 서울남부심리치료센터는 수도권에서 형이 확정된 성폭력·스토킹·디지털 성범죄 고위험 수형자를 대상으로 프로그램을 운영하고 있다. 올해 상반기에만 성폭력·스토킹 사범 133명이 이 프로그램을 이수했다. 성폭력 사범에게는 왜곡된 성 인식과 여성에 대한 적대감을, 스토킹 사범에게는 관계를 독점하려는 욕구와 강제적인 유대감 형성 심리를 교정하는 데 초점을 맞췄다.&lt;br&gt;&lt;br&gt;실제로 ‘N번방’ 사건으로 실형을 선고받고 복역 중인 가해자도 최근 디지털 성범죄 관련 VR 심리 치료를 받은 것으로 알려졌다. 당시 교육에 참여한 한 교위는 “사실상 ‘N번방’ 사건을 계기로 만들어진 프로그램이라고 해도 과언이 아니었다”며 “교육 내내 거의 말을 하지 않았고 착잡한 표정으로 프로그램을 마쳤다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQXKKPNL5BE7HDHHV4XVWZRGHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부구치소에서 지난 4일 본지 기자가 '수형자 대상 가상현실(VR) 심리치료 프로그램'을 체험하는 모습./박혜연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ “VR 치료, 몰입도 높여 피해자에 대한 공감 능력 키운다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;VR 기술이 도입된 가장 큰 이유는 현실감을 높여 몰입도를 극대화하기 위해서다. 기존에는 3차원(3D) 영상이나 애니메이션을 활용했지만, VR을 통해 수형자가 피해자의 입장을 더욱 생생하게 체험하도록 했다.&lt;br&gt;&lt;br&gt;센터 관계자는 “말로 설명하기 어려운 내용도 화면을 통해 직접 경험하게 하면 수용자들이 훨씬 쉽게 받아들인다”며 “피해자의 감정을 체감하면서 공감 능력을 높이는 효과가 있다”고 말했다.&lt;br&gt;&lt;br&gt;법무부가 올해 상반기 수형자 392명을 대상으로 성폭력 6종, 스토킹 6종, 아동학대 4종, 가정폭력 4종의 VR 치료를 시범 운영한 결과, 기존 심리치료만 받은 수형자보다 인지 왜곡 개선, 공격성 감소, 공감 능력 향상 등 주요 지표에서 더 큰 개선 효과가 나타났다. 특히 성폭력 사범의 경우 기존 심리 치료만 받은 수형자는 세 지표에서 2.4~9.0% 향상된 반면, VR 치료를 함께 받은 수형자는 13.9~18.1% 향상된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;VR 치료에 참여한 한 수형자는 “장면이 너무 생생해 그날로 돌아간 것 같았다. 예전의 나를 마주하는 것이 부끄럽고 힘들었다”고 전했다. 아동 학대 관련 혐의로 복역 중인 또 다른 수형자는 “학대를 당한 나의 아들이 느꼈을 무서움과 두려움을 생각하니 미안했다”고 말했다고 한다. &lt;br&gt;&lt;br&gt;프로그램 운영과 상담을 맡고 있는 임상묵 교위는 “젊은 수형자들은 VR에 익숙해 새롭지 않다고 느끼는 경우도 있지만, 고령 수형자들은 실제와 가상을 구분하기 어려울 정도로 몰입하는 경우가 많았다”며 “외국인 수형자도 조작법만 익히면 언어 장벽과 관계없이 일정 수준의 치료 효과를 보였다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 유진·장나라·장영란·서정희... 뷰티제품 뻥튀기 광고 걸렸다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/06/PTCR4QMRNFCJ7JRAR44KXVFAG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/06/PTCR4QMRNFCJ7JRAR44KXVFAG4/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 03:50:00 +0000</pubDate>
-      <content:encoded>유명 연예인을 앞세워 거짓 광고를 한 건강·미용 업체가 무더기로 적발됐다. &lt;br&gt;&lt;br&gt;식품의약품안전처(이하 식약처)는 최근 가수 출신 배우 장나라(45)·유진(45)씨와 방송인 장영란(47)·서정희(66)씨가 제조하거나 광고한 유명 건강·미용 제품에 대해 ‘허위·과장 광고 제품’ 판정을 내린 것으로 6일 확인됐다. &lt;br&gt;&lt;br&gt;식약처는 방송통신심의위원회에 네 제품 판매 사이트의 접속 차단을 요청하고, 관할 지자체에도 통보할 방침이다. 지자체는 내용을 검토해 영업 정지, 과징금 부과 등의 행정 처분을 내리게 된다. 앞서 식약처는 가수 소유(34)씨와 개그맨 홍현희(44)씨가 전속 모델인 다이어트제와 종아리 마사지기도 ‘거짓 광고 제품’으로 분류해 제재한 바 있다. &lt;br&gt;&lt;br&gt;이번 단속은 30조원이 넘는 건강·미용 제품 시장에서 유명 연예인을 내건 허위 광고가 갈수록 심해진다는 업계 안팎의 지적을 감안한 것이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OC6GMI22CNCHZA5C7P6V3MQBHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;듀얼소닉 광고페이지 캡쳐
-배우 유진씨가 듀얼소닉 마사지기를 광고하고 있는 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 식약처는 최근 얼굴 마사지기 브랜드인 듀얼소닉의 최고가(229만원) 제품인 ‘옵티멈’에 대해 허위 광고 제품 판정을 내렸다. 듀얼소닉은 국내 1·2위를 다투는 얼굴 마사지기 업체로 배우 유진씨가 전속 모델로 활동 중이다. 이 업체는 온라인 광고 화면에 유진씨 사진과 함께 ‘은은하게 리프팅’이란 말 등을 넣었다. 리프팅은 얼굴 형태를 교정하는 의료 시술이기 때문에 의료 기기가 아닌 일반 공산품인 이 제품은 사용할 수 없는 표현이다. 또 이 제품은 광고 화면에 정부 의료 기기 인증 마크(GMP 마크)를 무단으로 사용한 것으로 확인됐다. 듀얼소닉 측은 “문제 되는 부분을 즉각 삭제하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3SQ7IQIMFGPVEPZ6RRBPKWXBY.png"&gt;&lt;figcaption&gt;&lt;small&gt;풀셰라PRO 광고페이지 캡쳐
-배우 장나라씨의 풀쎄라PRO 광고 화면. 장씨 사진 밑에 '안면 피부 리프팅'이란 위법 문구가 적혀 있다. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;장나라씨가 모델인 ‘풀쎄라 PRO’도 유명한 얼굴 마사지기다. 개당 40만~100만원 선인 이 제품 역시 일반 공산품이면서 ‘안면 피부 리프팅 효과가 입증됐다’고 허위 광고를 해오다 적발됐다. 정부 심사가 까다로운 의료 기기 인증을 받은 것처럼 소비자를 현혹했다는 뜻이다. 업체 측은 “광고를 계속 점검하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3D6KF3IWRAHLHNXZXTAR5WRME.png"&gt;&lt;figcaption&gt;&lt;small&gt;다이어트제 '영라뉴' 광고페이지 캡쳐
-방송인 장영란씨가 제조, 광고까지 한 다이어트제 '영라뉴' 광고 화면. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;장영란씨가 대표로 있는 업체가 만든 다이어트제 ‘영라뉴’의 경우, 이 제품을 먹으면 ‘위가 작아져 폭식이 불가능하다’고 광고하다가 걸렸다. 위가 작아지는 건 고도의 의료 행위인 수술의 영역인데 단순 건강기능식품인 이 제품이 그런 효능이 있는 것처럼 거짓 광고를 했다는 얘기다. 이 제품은 쿠팡 구매 리뷰 수만 2600개에 달한다. 업체 측은 기자의 해명 요청에 답하지 않았다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2FEMXKQ45HW7HABOYS2BPGAPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;'올리브 올라이브 올리브오일' 광고페이지 캡쳐
-방송인 서정희씨의 사진 바로 밑에 위법 광고 문구인 '저속 노화'라는 말이 보인다.  
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서정희씨가 모델인 ‘올리브 올라이브 올리브오일’은 ‘저속 노화를 돕는다’고 광고한 것이 문제가 됐다. 일반 식용유인 이 제품을 노화 속도를 늦추는 의약품으로 혼동하게 만들었다는 얘기다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K4426YVY3ZBV3A5YF7QS7TJZ5A.jpg?auth=575ffdfa0abbf57762094aa3f54c8e9d24f32c7e15615fb7cf6c9a184c6dfbb8&amp;smart=true&amp;width=4800&amp;height=2700" type="image/jpeg" height="2700" width="4800"/>
-    </item>
-    <item>
-      <title>[단독] 중앙선관위, 선거 당일 재차 “투표자 수 오류 수정 불가” 지침</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/06/V3XGG7GNV5CPDJB2MS6XZH35F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/V3XGG7GNV5CPDJB2MS6XZH35F4/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 02:16:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MV2SDDG5IZPS7G42UV4AO7OZRM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6·3 지방선거 투표용지 부족 사태를 수사 중인 검·경 합동수사본부 관계자들이 지난달 23일 오후 경기 과천시 중앙선거관리위원회에 대한 압수수색을 마친뒤 압수상자를 들고 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 지방선거 당일 오후 투표자 수 오입력 정황을 인지한 중앙선거관리위원회가 “이전 시간대 투표자 수는 수정할 수 없다”는 지침을 재차 하달한 것으로 드러났다.&lt;br&gt;&lt;br&gt;6일 김은혜 국민의힘 의원이 중앙선관위로부터 제출받은 자료를 보면, 중앙선관위 실무자는 지난 6월 3일 오후 2시 30분쯤 시·도 선관위 실무자들에게 투표자 수 보고 관련 추가 안내 사항을 메일로 보냈다. 이 메일엔 “현재 계속 잘못된 방식으로 (투표자 수를) 입력해 수정하는 사례가 발생하고 있다”며 “혹시라도 현재까지 잘못 입력한 곳이 있으면 지금이라도 보고하길 바란다”고 했다. 그러면서 “이전 시간대 투표자 수는 수정할 수 없어 오입력한 것이 나중에 발견되면 그 차이가 커서 수정조차 할 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 같은 날 오전 8시 30분쯤 중앙선관위는 “7시 보고 이후 해당 자료를 수정함에 따라 공개 자료와 달리 투표자 수가 줄어드는 상황이 발생했다”며 “시·도 선관위의 수정 허가 권한이 있으나 이 시각 이후로 수정하지 않는 것을 원칙으로 한다”는 메일을 보냈었다. “부득이 수정이 필요한 경우 반드시 중앙선관위 담당자 승인 후 수정을 허가하라” “기존 투표자 수 보고 자료에 큰 오류가 없는 한 다음 시각 투표자 수 보고 시 가감해 보고할 수 있다”는 안내도 했다.&lt;br&gt;&lt;br&gt;중앙선관위는 사전투표일과 본투표일에 1시간 단위로 투표자 수를 집계해 실시간 투표율을 공개한다. 읍·면·동 선관위가 전국 투표소 투표관리관에게서 시간대별 투표자 수를 보고받아 1시간에 한 번씩 선거관리시스템에 입력하면, 이 숫자를 구·시·군 선관위가 취합해 투개표보고시스템에 보고한 뒤 중앙선관위 홈페이지를 통해 국민에 공개되는 방식이다.&lt;br&gt;&lt;br&gt;중앙선관위 업무 처리 절차상 읍·면·동 선관위가 선거관리시스템에 입력한 각 투표소 별 투표자 수 현황은 외부 공개되지 않는 내부 자료이므로 별도 승인이 없이 수정할 수 있다. 대외적으로 공개되는 구·시·군 단위의 투표자 수 수정은 시·도 선관위의 허가를 받은 뒤 수정이 가능하다.&lt;br&gt;&lt;br&gt;이처럼 잘못 보고된 투표자 수의 수정이 가능한 것이 원칙임에도 중앙선관위는 선거 당일 오전과 오후 두 차례에 걸쳐 “수정하지 않는 것이 원칙”이라는 별도 내부 지침을 내렸던 것이다. 실제로 경기 김포시 구래동에서는 특정 투표소의 투표자 수가 잘못 입력됐음에도 구래동 전체 투표자 수는 수정되지 않았다. 내부 자료인 선거관리시스템에서 초과 입력된 투표자 수를 구래동 전체 투표소에 분산해 입력하는 방식으로 ‘숫자 맞추기’를 해 오입력 정황을 숨겼다.&lt;br&gt;&lt;br&gt;법조계 안팎에서는 “대외 공개된 투표자 수를 수정하면 ‘부정 선거’ 논란이 생길 수 있어 이를 피하기 위해 정식 수정 절차를 거치지 않고 내부 자료를 임의로 조정한 것 아니냐”는 지적이 나온다. 중앙선관위 관계자는 최근 합수본 조사에서 “투표자 수가 잘못 입력됐을 때마다 수정하면 숫자가 바뀌는 과정에서 ‘부정 선거’라는 오해를 살 수 있어서 추후 숫자를 맞추라고 한 것”이라는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김은혜 의원은 “오류 수정 절차가 분명하게 존재함에도 수정 불가 지침을 반복적으로 하달한 것은 선거 관리의 치부를 숨기려는 조작의 의도가 있던 것으로 보인다”며 “이러한 조작에 위철환 선관위원장 대행 등 선관위 지도부의 승인 또는 묵인이 있었는지 수사가 이뤄져야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>송영길 前 보좌관 징역 1년 2개월 확정..‘돈봉투 살포’는 무죄</title>
       <link>https://www.chosun.com/national/court_law/2026/08/06/TZDDOCIBNVB6VMAC5ICTZZPCJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/TZDDOCIBNVB6VMAC5ICTZZPCJM/</guid>
@@ -904,32 +949,6 @@
       <description/>
       <pubDate>Thu, 06 Aug 2026 04:56:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRWGMDFHBRDSZLDGAZTAYJRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전당대회 '돈봉투' 의혹의 핵심으로 지목된 송영길 전 대표의 전직 보좌관 박용수씨.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘더불어민주당 전당대회 돈봉투 살포 의혹’ 등으로 기소된 송영길 민주당 의원의 전 보좌관 박용수씨에 대한 실형이 대법원에서 확정됐다. &lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 지난 6월 정당법·정치자금법 위반 등 혐의로 징역 1년 2개월에 추징 9240만원을 선고받은 박씨 측의 상고를 기각했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 2021년 5월 민주당 전당대회에서 송 의원을 당대표로 당선시키기 위해 같은 해 4월 이정근 전 민주당 사무부총장 등과 함께 민주당 의원 등에게 6750만원을 돈봉투에 나눠 살포한 혐의(정당법 위반)로 2023년 7월 기소됐다. 2020년 5~10월에는 컨설팅업체 ‘얌전한 고양이’에 송 의원 관련 여론조사를 의뢰하면서 비용 9420만원을 외곽 조직인 ‘평화와 먹고사는 문제연구소(먹사연)’가 대신 내도록 한 혐의(정치자금법 위반)도 있다. 대납 사실을 은폐하기 위해 허위 견적서를 작성한 혐의(범죄수익은닉규제법 위반)와 먹사연 관계자에게 컴퓨터 하드디스크 교체를 지시해 증거를 인멸하도록 교사한 혐의(증거인멸교사) 등도 포함됐다.&lt;br&gt;&lt;br&gt;1·2심은 여론조사 비용 대납 혐의에 대해선 징역 8개월에 추징금 9240만원을, 허위 견적서 작성 및 증거인멸교사 혐의에는 징역 6개월을 선고했다. 재판부는 “박씨가 정치자금법을 위반해 먹사연으로부터 정치자금을 수수했고, 이를 은폐하려고 허위 견적서 등을 작성했다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 1·2심 모두 돈봉투 살포 관련 혐의는 무죄로 판단했다. 재판부가 핵심 증거인 이른바 ‘이정근 휴대전화 녹음파일’이 위법수집증거라며 증거능력을 인정하지 않았기 때문이다. 재판부는 “이정근씨가 휴대전화 3대를 임의로 검사에게 제출한 사실은 인정된다”면서도 “검사가 전자 정보 제출 범위를 명확히 확인하지 않고 전체를 압수한 것은 위법하다”고 했다.&lt;br&gt;&lt;br&gt;검찰과 박씨 측은 각각 무죄와 유죄 부분에 불복해 상고했다. 그러나 검찰은 지난 2월 무죄가 나온 돈봉투 살포 혐의에 대해 상고를 취하했고, 대법원이 박씨 측 상고를 기각하며 실형이 확정됐다.&lt;br&gt;&lt;br&gt;돈봉투 살포 의혹 등으로 재판에 넘겨졌던 송영길 의원도 지난 2월 검찰의 상고 포기로 무죄를 확정받았다. 재판부는 박씨와 마찬가지로 이 전 사무부총장 녹음파일의 증거능력을 인정하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, 한동훈 12일 출석 통보... 韓 “받은적 없어, 언론플레이”</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/06/4LKKNJ5MRVFTDP5POIJU76P2XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/4LKKNJ5MRVFTDP5POIJU76P2XU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 02:13:09 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)은 한동훈 무소속 의원에게 12일 오전 10시 참고인으로 출석해 조사받으라고 통보했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXTDI6OKAFITTEOX5AQOJEIURE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무소속 한동훈 의원이 지난달 30일 국회 본회의장 앞에서 검사의 직접 수사 권한을 전면 폐지하는 형사소송법 개정안이 더불어민주당 주도로 본회의에 상정된 것과 관련 입장을 밝히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 비상계엄이 해제된 2024년 12월 4일 오후 열린 ‘당정대(당·정부·대통령실) 회의’에 한 의원이 참석하게 된 경위와 당시 논의 내용 등을 확인할 계획이다. 당시 한 의원은 국민의힘 대표 자격으로 회의에 참석했다. 특검은 이 회의와 같은 날 저녁 열린 이른바 ‘삼청동 안가 회동’과의 연관성을 집중적으로 들여다볼 방침이다.&lt;br&gt;&lt;br&gt;특검은 당정대 회의와 안가 회동에서 비상계엄을 정당화하는 논리가 마련됐을 가능성을 의심하고 있다. 당시 안가 회동에는 박성재 전 법무부 장관, 이상민 전 행정안전부 장관, 김주현 전 대통령실 민정수석, 이완규 전 법제처장이 참석한 것으로 알려졌다. 이들은 안가 회동이 ‘친목 성격의 사적 만남’이었다고 주장해 왔다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사33부(재판장 이진관)는 박성재 전 법무부 장관에게 징역 25년을 선고하면서, 당시 당정대 회의에서 윤 전 대통령의 탄핵 소추와 수사 대응 계획 등이 논의됐다고 판단한 바 있다.&lt;br&gt;&lt;br&gt;특검의 소환 통보 소식이 알려지자, 한 의원은 자신의 페이스북에 “참고인 소환 통보를 받은 사실이 없다”며 “계엄 당일 여당 대표임에도 누구보다 앞장서서 계엄을 저지했다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 한 의원은 “선거 기간에 아무 이유 없이 출국 금지를 시켜놓고 몇 달씩 멋대로 연장해 가면서도 한 번도 부르지 않더니, 이제 와서 (특검이) 보여주기식 언론 플레이를 한다”며 “정치 특검이 하려는 정치 수사를 도와줄 생각은 없다”고 했다.&lt;br&gt;&lt;br&gt;특검 관계자는 “한 의원의 의원실과 개인 휴대전화로 여러 차례 연락했지만 응답이 없어 지난 4일 오후 서면 소환 통지서를 발송했다”며 “통지서는 오늘(6일) 도착할 예정으로, 아직 송달되지 않았을 수는 있지만 소환 통보를 하지 않았다는 것은 사실이 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/62QCFQJDQBERBK6LGD4LL366JA.jpg?auth=01de6e2a6acf387497b916b26aa4b23cf5ea61fd40e7130b36deadad31cb582f&amp;smart=true&amp;width=2110&amp;height=1689" type="image/jpeg" height="1689" width="2110">
-        <media:description type="plain"> 김지호 기자
-국민의힘 한동훈 전 대표가 14일 국회 기자회견장으로 들어오고 있다. 한 전 대표는 국민의힘 윤리위원회가 이날 새벽 ‘당원 게시판 사건’과 관련해 자신에게 제명 결정을 내린 것에 대해 “허위 조작으로 제명한 것은 또 다른 계엄”이라며 “국민·당원과 함께 막겠다”고 말했다.</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰, ‘홍명보 감독 선임 의혹’ 대한축구협회 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/NMD5M6ZDLRGVZKTPONH72RNC3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/NMD5M6ZDLRGVZKTPONH72RNC3A/</guid>
-      <dc:creator>지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 01:45:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSTSN3GGVRGGZLFGQZTQY3FGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한축구협회 청문회에서 질의에 답하는 홍명보 전 감독/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍명보 전 축구 대표팀 감독 선임 과정을 수사 중인 경찰이 대한축구협회에 대한 압수수색에 나섰다. &lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 금융범죄수사대는 6일 “이날 오전부터 충남 천안시에 위치한 대한축구협회와 서울 종로구에 위치한 축구회관 등을 대상으로 압수수색을 벌이고 있다”고 밝혔다. 종로구 축구회관은 축구협회가 천안으로 이전하기 전 사무실로 쓰건 건물이다.&lt;br&gt;&lt;br&gt;경찰이 축구협회의 대표팀 감독 선임 과정에 대해 강제수사에 나선 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;압수수색 영장엔 업무방해 등 혐의가 적시된 것으로 확인됐다. 경찰은 압수수색을 통해 축구협회 내부 자료를 확보하는 등 국가대표팀 감독 선임 과정에 부당한 개입이 있었는지를 살펴볼 방침이다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난 5일 홍명보 전 감독을 피고발인 신분으로 불러 선임 과정 의혹 전반을 조사했다. 경찰은 홍 전 감독에게 2024년 대표팀 감독 후보로 선정된 과정과 최종 선임 절차 전반을 물은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DYEQUVRFVFA5BFHBHHAKRQP6HM.JPG?auth=b2821bbae2de40ca7642df082d8b69db75dd3e6aefb0a4771aa8cc0d22f31577&amp;smart=true&amp;width=3744&amp;height=2106" type="image/jpeg" height="2106" width="3744">
-        <media:description type="plain">홍명보 전 축구 국가대표팀 감독이 30일 서울 여의도 국회에서 열린 문화체육관광위원회의 대한축구협회 현안 관련 청문회에 출석해 질의를 경청하고 있다. 2026.7.30 ⓒ 뉴스1 국회사진기자단</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>‘미성년 피해자 2명’… 경찰, 최영중 전 시의원 구속 송치</title>
@@ -941,27 +960,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYTSMZTGQ2DINDDGJQWCZBVMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미성년자 성매매 혐의 등을 받는 최영중 전 청주시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동 성매매 등 혐의를 받는 최영중 전 청주시의원이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;청주청원경찰서는 6일 최 전 의원을 미성년자의제강간, 성착취물 제작, 성매매 권유, 성착취 목적 대화, 아동복지법상 아동에 대한 음행강요·매개·성희롱 등 혐의로 검찰에 송치했다. &lt;br&gt;&lt;br&gt;최 전 의원은 2024년 10월부터 약 1년간 세 차례에 걸쳐 중학생 피해자와 차량과 모텔 등에서 성관계를 하고, 나체 사진을 촬영해 보내도록 요구한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 피해자에게 친구나 지인을 데려오면 돈을 더 주겠다고 제안하는 등 성매매를 권유하고, 부적절한 성적 대화를 이어간 혐의도 받는다.&lt;br&gt;&lt;br&gt;경찰은 비슷한 시기 최 전 의원이 또 다른 미성년자 1명을 상대로 성범죄를 저지른 정황도 확인해 관련 혐의를 추가 적용했다.&lt;br&gt;&lt;br&gt;아울러 수사 과정에서 확보한 휴대전화에서 추가 피해자로 보이는 여성의 신체를 촬영한 사진을 확인하고, 여죄 가능성을 염두에 두고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;최 전 의원은 경찰 조사에서 “성관계를 한 사실은 있지만 상대방이 미성년자인 줄은 몰랐다”는 취지로 진술하며 혐의를 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 구속 기한 만료에 따라 최 전 의원을 우선 검찰에 넘겼지만, 추가 피해자 여부와 여죄에 대한 수사는 계속 이어갈 방침이다. 수사 과정에서 새로운 범죄 사실이 확인될 경우 관련 기록을 검찰에 추가 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>스타벅스 ‘탱크데이’ 마케팅 논란… 경찰, 수사 두달 만에 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/Q4H4QEHNDJG37LZ7CYIYWDXGOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/Q4H4QEHNDJG37LZ7CYIYWDXGOU/</guid>
-      <dc:creator>강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPMBNTHORJNYPKJKXSMRKOTMEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 5일 서울 강남구 스타벅스 본사 등에 대한 압수수색을 나선 것으로 알려졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대가 스타벅스의 ‘5/18 탱크데이’ 행사가 5·18 민주화운동 유공자를 모욕했다는 고소·고발 사건과 관련해 5일 서울 강남구 스타벅스코리아 본사를 압수수색했다. 경찰이 수사에 착수한 지 76일 만이다. &lt;br&gt;&lt;br&gt;경찰은 법원에서 모욕 혐의로 압수수색 영장을 발부받은 것으로 알려졌다. 경찰은 지난 6월 모욕과 명예훼손, 5·18 민주화운동 특별법 위반 등 혐의로 압수수색 영장을 신청했으나 검찰이 “모욕 외 혐의는 인정하기 어렵다”며 반려했었다. 경찰은 스타벅스코리아의 모기업인 신세계그룹에 대한 압수수색 영장도 함께 신청했지만 법원은 발부하지 않았다.&lt;br&gt;&lt;br&gt;이 사건은 지난 5월 18일 스타벅스가 프로모션 이벤트를 진행하면서 ‘탱크데이’ ‘책상에 탁’ 같은 문구를 사용하면서 불거졌다. 이 이벤트를 두고 5·18 민주화운동을 폄훼하는 등 역사를 왜곡했다는 논란이 인 것이다. 해당 문구가 5·18 당시 계엄군의 탱크 투입과 고(故) 박종철 열사 고문 치사 사건을 연상시킨다는 비판도 제기됐다. 이재명 대통령이 “저질 장사치의 비인간적 막장 행태에 분노한다”고 하면서 파문이 커졌고, 6·3 지방선거를 앞두고 정치 쟁점화했다. 정치권 일각에선 서울시장 선거 등에서 여당에 악재로 작용했다는 분석도 나왔다.&lt;br&gt;&lt;br&gt;이 과정에서 신세계그룹은 자체 감사를 진행했다. 그런데 스타벅스코리아의 프로모션 담당 직원 중 3명이 휴대전화 제출을 거부한 것으로 알려졌다. 신세계 감사팀은 이들의 사내 메신저 기록도 저장 기간이 지나 이벤트 기획 단계에서 오고 간 대화 내용을 확인하지 못한 것으로 알려졌다. 경찰 관계자는 “과거 사내 메신저 기록과 신세계그룹이 확인하지 못한 임직원의 휴대전화를 확보하려 한 것”이라고 전했다. &lt;br&gt;&lt;br&gt;경찰의 이날 압수수색 대상에는 손정현 전 스타벅스 코리아 대표의 휴대전화도 포함된 것으로 전해졌다. 이 때문에 경찰이 스타벅스 최고 임원진, 나아가 신세계그룹 수뇌부가 이벤트를 사전에 보고받거나 관련 지시를 했는지 수사하려는 것 같다는 관측이 나온다. 경찰은 이미 양종환 신세계그룹 감사팀장을 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;이와 관련해 장동혁 국민의힘 대표는 페이스북에서 “이재명 정권이 절대 권력을 쥐어주자마자, 경찰이 알아서 ‘보은 수사’에 나선 것”이라며 “이재명 정권, ‘커피 한 잔의 자유’까지 기어이 박탈하려 한다”고 했다. 야권과 법조계 일각에선 “경찰이 수사 착수 두 달이 지나 압수수색을 하며 수사를 확대하고 나서면서 논란을 키운다”는 말도 나온다. 한 법조인은 “‘탱크데이’ 행사가 비판받을 만한 부적절한 이벤트였지만 스타벅스 측이 ‘의도성이 없었다’고 해명하는 상황”이라며 “이런 가운데 경찰이 뒤늦게 강제 수사를 확대하니 그 배경을 두고 이런저런 말이 나오는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>낮엔 노인, 밤엔 노숙인… 피서지 돼버린 인천공항</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/08/06/AFBZLRPNARAIFKA7OTCSMYDFDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/06/AFBZLRPNARAIFKA7OTCSMYDFDM/</guid>
-      <dc:creator>윤상진 기자, 박인표 인턴기자(고려대 지리교육과 4학년), 오지예 인턴기자(서울대 간호학과 졸업), 최인규 인턴기자(연세대 언론홍보영상학부 4학년)</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Aug 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBTSBTIFXVGKBEJ5S4XSBVLS2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;찌는 듯한 폭염이 계속되는 가운데 5일 오후 인천국제공항 제2여객터미널에서 어르신들이 더위를 피해 쉬고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 1시, 인천국제공항 제1터미널 4층의 휴식 공간 ‘비선루’. 폭염을 피해 공항을 찾은 6080 피서객 30여 명으로 꽉 차 있었다. 이들은 삼삼오오 모여 가져온 간식을 함께 먹으며 비행기가 이착륙하는 모습을 구경했다. 이곳에서 만난 김모(73)씨는 “요즘 폭염 때문에 갈 수 있는 곳이 거의 없다”며 “다행히 (경로우대 덕분에) 지하철을 타면 공짜로 시원하고 볼거리가 많은 공항까지 올 수 있어서 요즘 매일 오고 있다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 제2터미널도 상황이 비슷했다. 오전부터 터미널 안에 있는 교통센터(실내 버스대기 공간)에 하나둘씩 피서객이 도착하더니, 점심쯤엔 50여 명으로 불어났다. 이들은 자리를 잡은 뒤 가방에서 각자 챙겨온 베개와 돗자리, 부채, 도시락을 꺼냈다. 먼저 와 있던 사람들과 인사를 하고, 삼삼오오 모여 이야기를 나누기도 했다. &lt;br&gt;&lt;br&gt;올여름 기록적인 폭염과 열대야가 이어지면서 인천국제공항이 취약 계층의 ‘무더위 쉼터’처럼 되고 있다. 낮에는 고령층 피서객들이 이곳에서 시간을 보내고, 밤에는 노숙인과 에어컨을 켤 형편이 안 되는 취약 계층이 찾아와 잠을 청하고 있다. 냉방 시설이 24시간 운영될 뿐 아니라, 특히 65세 이상은 지하철과 공항철도를 무료로 이용할 수 있어 교통비 부담이 없기 때문이다. 이에 매일 출퇴근하듯 공항을 방문하는 경우도 적지 않다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQTVPCEVXNEUHNYU64F532CZCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;찌는 듯한 폭염이 계속되는 가운데 5일 오후 인천국제공항 제1여객터미널에서 어르신들이 더위를 피해 쉬고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 영등포구에서 왔다는 금모(84)씨는 “전기 요금이 걱정돼 요즘 같은 날씨에도 집에선 에어컨을 켜지 못한다”며 “은행은 오래 머물면 눈치가 보이고, 집 근처에는 무더위 쉼터도 없어 이곳까지 오게 됐다”고 했다. 서울·인천 등 인근 지역은 물론, 경기 의정부 등 대중교통으로 1시간 이상 걸리는 지역에서 찾아오는 사람도 많았다. 또 바둑판이나 장기판을 가져와 친목 활동을 하는 사람들도 어렵지 않게 볼 수 있었다. 강모(80)씨는 “날씨가 덥더라도 집 안에만 있으면 답답한데, 공항은 탁 트여 있는 데다 다른 사람들과 교류도 할 수 있어 좋다”고 했다. &lt;br&gt;&lt;br&gt;밤이 되자 공항의 풍경에 변화가 생겼다. 밤 8시쯤 다시 찾은 제1터미널 비선루에는 낮 동안 자리를 채웠던 피서객 대신 노숙인 4명이 자리를 잡고 있었다. 주인을 알 수 없는 짐들도 무더기로 놓여 있었다. 비슷한 시간 제1터미널 교통센터에서도 노숙인 7명이 누워 자고 있었다. 6개월 전부터 이곳을 찾고 있는 한 노숙인은 “공항은 24시간 열려 있고 별다른 소란만 일으키지 않으면 쫓아내지도 않는다”며 “서울역과 달리 노숙인끼리 싸우는 일도 거의 없고, 더 시원하고 쾌적해 이곳에 머물고 있다”고 했다. 공항에서 생활하는 노숙인들은 오전 9시쯤 일어나 공항 곳곳을 돌아다니다 다시 오후 6시쯤 각자의 자리로 돌아온다고 한다.&lt;br&gt;&lt;br&gt;열대야 때문에 공항을 밤에 찾는 사람들도 있었다. 인천에 사는 이모(70)씨는 복지관 동료들에게 “공항에 가면 시원하다”는 이야기를 듣고 이날 처음 공항을 찾았다고 한다. 이씨는 “요즘엔 에어컨이 없으면 제대로 잠을 잘 수 없는데, 복지관도 저녁이면 문을 닫는다”며 “오늘은 공항에서 자고 아침 첫차를 타고 돌아갈 생각”이라고 했다. &lt;br&gt;&lt;br&gt;인천공항공사는 늘어난 피서객과 노숙인 때문에 난감해하고 있다. 휴게 공간 부족 등으로 공항 이용객들의 불편이 발생하고 있지만, 공공 시설인 만큼 단지 오래 머문다는 이유로 공항 피서객과 노숙인을 내보낼 수도 없기 때문이다. 실제로 제2터미널 교통센터는 피서객들로 꽉 차 공항 이용객들과 상주 직원들이 서서 버스를 기다리는 일이 빈번해졌다고 한다. 인천공항 관계자는 “현재로선 퇴거를 요청할 수도 없고, 실제 공항 이용객들이 불편을 겪지 않도록 시설 관리에 더 신경 쓰는 것 말고는 별로 할 수 있는 게 없는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MVRWGYRZMFRDEYZUGY4DEM3FGQ.jpg?auth=3e43b88876ad381255f6b163f3854d2ccd1f334314ec82b504cee2bd36dafdb2&amp;smart=true&amp;width=4229&amp;height=2684" type="image/jpeg" height="2684" width="4229">
-        <media:description type="plain">5일 인천국제공항 제2여객터미널에서 어르신들이 더위를 피해 쉬고 있다. 연일 이어지는 폭염에 마땅한 피서지를 찾지 못한 어르신들이 최근 쾌적한 실내환경과 편의시설을 갖춘 공항으로 발걸음을 옮기고 있다. 2026.8.5 ⓒ 뉴스1 구윤성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>[리빙포인트] 뜨거워진 피부엔</title>
       <link>https://www.chosun.com/national/national_general/2026/08/06/JWWTJBSZEVE4LLWUHDCZKFKRH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/JWWTJBSZEVE4LLWUHDCZKFKRH4/</guid>
@@ -969,15 +967,6 @@
       <description/>
       <pubDate>Wed, 05 Aug 2026 15:35:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NRHJ54QSFGSBABECMFBXBCYAM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차갑게 우려낸 녹차 물에 적신 수건을 피부에 올려보자. 녹차의 폴리페놀과 타닌 성분이 피부를 진정시켜준다. 차갑게 적신 녹차 티백을 올려도 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국 거주 日 인플루언서, 자택서 라이브 방송 중 사망</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/05/IELUELGHPZBNXAC7TSJUKC5FFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/05/IELUELGHPZBNXAC7TSJUKC5FFA/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Aug 2026 11:47:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3S3T4HQY5BQBRYELTMITXUV3PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에 거주하던 20대 일본인 여성 인플루언서가 소셜미디어(SNS) 라이브 방송 도중 숨졌다. &lt;br&gt;&lt;br&gt;5일 경찰과 소방당국에 따르면 이날 오전 5시 33분쯤 서울 용산구 한강로동 오피스텔에서 20대 일본인 여성 A씨가 자살을 시도했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;약 8만명의 팔로어를 보유한 일본인 인플루언서 A씨는 자신이 거주하던 오피스텔에서 틱톡 라이브 방송을 진행하던 중 스스로 목숨을 끊은 것으로 파악됐다. 이 과정은 방송을 시청하던 이용자들에게 실시간으로 노출됐다.&lt;br&gt;&lt;br&gt;방송을 본 이용자가 A씨의 지인에게 상황을 알렸고, 지인이 경찰에 신고한 것으로 전해졌다. X(옛 트위터) 등 다른 SNS에도 경찰의 도움을 요청하는 이용자들의 글이 잇따라 올라왔다.&lt;br&gt;&lt;br&gt;신고를 받고 경찰과 소방당국이 오피스텔로 출동했지만, A씨는 이미 숨진 상태였던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;서울 용산경찰서는 A씨의 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
