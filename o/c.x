@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가스라이팅으로 150억 뜯어내⋯ ‘유령 무당’이 파멸시킨 재벌2세 부부</title>
+      <link>https://www.chosun.com/national/national_general/2026/06/17/IAZ3YJMD5ZB63KHMPYIOCZKR6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/06/17/IAZ3YJMD5ZB63KHMPYIOCZKR6A/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Jun 2026 18:00:00 +0000</pubDate>
+      <content:encoded>유명 생활가전 업체 창업주의 아들 A씨. 서울대를 졸업하고 2019년 아버지 뒤를 이어 회사 대표직에 오르며 탄탄대로를 걷는 듯했다. 그런데 지난 4월, 그는 돌연 회삿돈 66억원을 횡령한 혐의로 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;판결문에 따르면, A씨는 부사장을 맡고 있던 2019년 “급하게 쓸 돈이 필요하다”며 이사회 승인 없이 회사 자금 2억원을 자신의 계좌로 송금한 것을 시작으로 1년 3개월간 총 65억8700만원을 빼돌렸다. 재판부는 “회사 자금을 관리하는 등 부사장으로서 역할과 책임을 다했어야 하는 A씨가 거액을 횡령해 죄질이 매우 나쁘다”고 했다.&lt;br&gt;&lt;br&gt;평범한 횡령으로 보이는 이 사건의 이면에는 석연치 않은 점이 있다. 횡령금 66억원 중 A씨가 자신을 위해 쓴 돈은 한 푼도 없었다.&lt;br&gt;&lt;br&gt;보통 횡령범들은 빼돌린 돈으로 밀린 빚을 갚거나 주식, 도박 등을 한다. 그러나 A씨가 횡령한 돈은 모두 의문의 여성인 장모(50)씨와 그의 남편 심모(48)씨에게 흘러 들어갔다.&lt;br&gt;&lt;br&gt;서울 강서구의 작은 빌라에 살던 장씨 부부는 A씨에게 받은 돈으로 2020년 33억원 상당의 서울 서초구 아파트를 사들였다. 온몸에는 명품을 두르고 고급 외제차를 몰며 호화로운 생활을 주변에 과시했다. A씨는 거액을 건넨 것으로도 모자라 2024년 회사 주식 약 4만주를 장씨 가족에게 증여했다. A씨가 피 한 방울 섞이지 않은 장씨 부부에게 회삿돈과 주식을 넘긴 이유는 무엇일까.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD3XRRTSHNACBMHXX5ZJHVGM4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무속인(사진은 기사 내용과 무관) /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건은 2017년, 서울의 한 유명 사립초등학교에서 시작된다. A씨 부부는 자녀가 다니던 초등학교 학부모 모임에서 장씨 부부를 처음 만나 친분을 쌓았다.&lt;br&gt;&lt;br&gt;이듬해 A씨의 아내 B씨가 아들 건강 문제를 털어놓자, 장씨는 “고위층 사주를 봐주는 유명한 무속인이 있다”며 ‘조말례’라는 인물을 소개했다. B씨가 조말례에게 문자로 상담을 요청하자, 조말례는 B씨 아들의 열경련 증상 등을 정확히 짚어냈다. A씨 부부는 조말례를 전적으로 신뢰하게 된다. 조말례는 이렇게 조언했다. “장씨 부부를 곁에 두고 계속 친하게 지내라.” 두 가족은 더욱 가까워졌다.&lt;br&gt;&lt;br&gt;무속인 조말례는 누구인가. 아무도 알 수 없었다. 실존 인물이 아니었으니까. &lt;br&gt;&lt;br&gt;조말례는 가상의 인물이었다. 장씨 부부는 A씨 부부로부터 사전에 들은 정보를 바탕으로 조말례인 척 하면서 그 집 사정을 척척 알아맞힌 것이었다. A씨 부부는 조말례와 문자로만 소통했을 뿐, 직접 통화하거나 만난 적은 없었다. &lt;br&gt;&lt;br&gt;A씨 부부가 조말례를 맹신하게 만든 후, 장씨 부부는 본격적으로 이들을 가스라이팅(심리적 지배)해 돈을 뜯어내기 시작했다.&lt;br&gt;&lt;br&gt;장씨는 B씨에게 “이대로 두면 아들의 건강이 위험해진다니 제단을 쌓을 비용을 내라”며 3억1000만원을, “1000억원을 투자하기 위한 담보가 필요하다. 잠시 빌린 후 돌려주겠다”며 서울 양천구 소재 아파트 지분 6억9000만원 상당을 빼앗았다. 2018년부터 2020년까지 B씨가 빼앗긴 금액은 87억원에 달한다. 남편 A씨가 건넨 횡령금 등을 더하면 장씨 부부가 A씨 부부로부터 가로챈 금액은 150억원을 훌쩍 넘는다.&lt;br&gt;&lt;br&gt;장씨 부부는 A씨 부부를 이간질해 가정을 파탄 내기도 했다. ‘조말례’에게 조종당한 남편 A씨는 2019년 아내와 아들을 떠나 약 6년 동안 장씨 부부와 함께 생활했다. 장씨 부부의 생활비를 조달하며 노예처럼 지냈다. &lt;br&gt;&lt;br&gt;장씨 부부는 부인 B씨에게는 “더러운 피를 없애야 한다”며 음란 영상을 찍어 보내라고 강요했다. “돈을 가져오지 않으면 영상을 학교와 가족에게 유포하겠다”는 협박까지 했다. 가정 불화를 겪던 A씨 부부는 결국 2020년 이혼했다.&lt;br&gt;&lt;br&gt;A씨 부부는 어떻게 됐을까. 이혼 후 빚까지 지게 된 B씨는 지인에게 1억원을 빌리고 갚지 않은 혐의로 2024년 징역 10개월을 선고받았다. B씨는 수감된 다음 장씨 부부와 분리된 후에야 교도소 안에서 가스라이팅에 관한 책을 읽으며 비로소 자신이 속았다는 사실을 깨달았다고 한다. 이후 B씨는 “가스라이팅을 당해 가정이 파탄 났다”면서 경찰과 검찰에 수사를 촉구하는 편지를 보냈다.&lt;br&gt;&lt;br&gt;A씨가 경찰 수사를 받게 된 계기도 이례적이었다. A씨 주변인들은 그가 철저히 가스라이팅당했다고 판단, 그를 구하기 위해 경찰에 횡령혐의로 A씨를 고소했다. A씨는 2025년 회삿돈 66억원을 횡령한 혐의로 구속 기소돼 징역 3년을 선고받았다. A씨는 6년을 장씨 부부와 함께 생활하며 철저히 가스라이팅당한 탓에 수사 초기까지만 해도 조말례가 가공 인물이란 사실을 믿지 않았다고 한다. &lt;br&gt;&lt;br&gt;경찰로부터 횡령 사건을 넘겨받은 검찰이 보완수사를 통해 횡령 배후에 장씨 부부가 있었음을 밝혀냈다. 서울남부지검은 지난 2월 장씨 부부를 특정경제범죄가중처벌법상 사기·공갈 등 혐의로 구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLDFSUKUCRCF5B54YVYEWT5TOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3월, 서울남부지법에서 장씨 부부 첫 재판이 열렸다. 진녹색 수의를 입고 법정에 들어선 이들은 내내 무표정이었다. 이들은 A씨 부부로부터 수년간 빼돌린 돈으로 국내 최대 로펌 변호사를 선임한 것으로 알려졌다. 장씨 부부 측은 첫 재판에서 “돈을 받은 것은 맞지만, A씨 부부를 협박하거나 가스라이팅하지 않았다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;지난 12일 열린 결심 공판에서 검찰은 장씨에게 징역 25년을, 남편 심씨에게 징역 22년을 구형했다. 각각 벌금 약 83억원과 추징금 약 36억원도 함께 구형했다. 이들에 대한 선고는 오는 7월 14일 내려진다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “장씨 부부는 리플리 증후군(자신의 거짓말을 진짜라고 믿는 심리)과 ‘위대한 개츠비’ 같은 환상을 동시에 가진 것으로 보인다”며 “20여년간 검찰에서 근무하며 이처럼 충격적인 사건은 처음”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZEOVK3JO6ZBIZDHP4EKVF5BASM.png?auth=5088e9461087f025ae9efee822866556c74ee73492f15d794beee3dfbc06da85&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560"/>
+    </item>
+    <item>
+      <title>서울시 “주택 부족은 박원순 공급 억제 때문...  재개발·재건축이 답"</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/07/NXEB53TA7NB7XMOZLFEDLOQU74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/NXEB53TA7NB7XMOZLFEDLOQU74/</guid>
+      <dc:creator>이미지 기자, 윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 05:23:39 +0000</pubDate>
+      <content:encoded>서울시가 민간 정비 사업 속도를 높이고, 물량을 확대하기 위한 법령 개정을 정부에 건의한다고 7일 밝혔다. 지난 5일 오세훈 시장이 김용범 대통령 정책실장에게 전달한 ‘정비 사업 2차 보고서’의 내용도 공개했다. 이번 보고서는 지난달 14일 국무회의에서 이재명 대통령이 “공급 물량이 많이 부족하다고 하는데 왜 그렇게 되는지 현황 보고를 해달라”고 지시한 데 따른 것이다. 서울시는 2031년까지 정비 사업 31만 가구를 착공하겠다는 계획이다.&lt;br&gt;&lt;br&gt;서울시는 보고서에서 “서울의 주택 공급 부족은 과거 정비 구역 대량 해제와 신규 지정 억제, 잇따른 정비 사업 규제가 누적되면서 발생한 구조적인 공급 공백”이라고 진단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDINBWMFRDEMLCMVSDGNTFME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 6일 서울 중구 서울시청에서 열린 '부동산 정상화를 위한 시민 대토론회'에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 때문에 시민들이 원하는 지역에서 전세를 구하지 못해 월세를 선택하거나 높아진 주거비 부담으로 청년과 무주택 시민이 내 집 마련을 미루는 현상이 벌어지고 있다는 것이다.&lt;br&gt;&lt;br&gt;보고서는 쓸 수 있는 부지가 절대적으로 부족한 서울에서 대규모 주택 공급을 할 수단은 ‘재개발·재건축’이 유일하다고 분석했다. 최근 2년간 서울 주택 공급의 90% 이상을 민간 사업이 담당하고 있는 만큼, 정비 사업의 원활한 추진 없이는 충분한 공급 물량을 확보하기 어렵다는 것이다. 서울시가 최근 3년간 준공된 정비 사업 59곳을 분석한 결과, 사업 전보다 주택 수가 36.4% 증가했다. 실질적인 공급 확대 효과가 증명되는 것이다. 서울시는 “2031년까지 31만호 착공을 목표로 관리하고 있는 정비 사업 구역 253곳에서도 기존 주택 수보다 39.2%의 공급 순증 효과가 예상된다”고 분석했다.&lt;br&gt;&lt;br&gt;서울 공급 부족의 주요 원인으로는 박원순 전 시장 시절, 공급 억제 중심의 정책 기조를 꼽았다. 당시 주택 정책이 도시재생 중심으로 전환되면서 기존 정비 구역 389곳이 대규모로 해제되면서 중장기적으로 주택이 공급될 기반이 줄어들었다는 것이다. 서울시는 “특히 2016년부터 2020년까지는 주택 재개발 신규 지정이 전무했다”고 말했다.&lt;br&gt;&lt;br&gt;중앙정부 차원의 규제 강화도 정비 사업을 위축시킨 요인으로 지적했다. 투기과열지구 지정과 재건축 안전 진단 기준 강화, 재건축초과이익환수제 부활 등이 연이어 시행되면서 사업성이 떨어지고 추진 기간이 늘어났다는 것이다. 서울시는 “최근 LTV 강화 등 대출 규제와 공사비 상승에 따른 갈등까지 더해지면서 민간 정비 사업의 추진 동력이 약화되고 있다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 신속 통합 기획을 통해 2031년까지 정비 사업을 통해 31만호 착공 목표를 달성하겠다고 말했다. &lt;br&gt;&lt;br&gt;서울시는 “정부에 재개발·재건축 활성화를 위한 법령 개정도 건의했다”고 말했다. ▲재개발 지역의 임대주택 비율 완화 및 민간 정비 사업 용적률 1.2배 상향 ▲조합원 지위 양도 제한 3년 유예 ▲이주비 대출 규제를 LTV 40%에서 70%로 완화 ▲재개발 조합 설립 동의율 75%에서 70%로 완화 등이다.&lt;br&gt;&lt;br&gt;서울시는 “과거의 공급 억제 기조로 회귀한다면 서울의 주택 부족과 시민의 주거 불안은 반복될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남광주 도심서 중앙선 침범 차량, 4중 충돌… 1명 사망·5명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/07/DIE76LABPNCPTBQNMR6IMYRJGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/DIE76LABPNCPTBQNMR6IMYRJGE/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 05:55:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TCZJRMRQWMODFHE4TANZSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 9시 20분쯤 전남광주 서구 화정동 화정역 인근 도로에서 4중 추돌 사고가 발생해 소방당국이 구조작업을 하고 있다. /전남광주소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 도심에서 중앙선을 침범한 차량이 맞은편 차량 4대와 연쇄 충돌 사고를 내 1명이 숨지고 5명이 다쳤다.&lt;br&gt;&lt;br&gt;7일 전남광주 서부경찰서와 광주소방본부 등에 따르면 이날 오전 9시 20분쯤 전남광주 서구 화정역 인근 편도 4차선 도로에서 40대 운전자 A씨가 몰던 승합차가 4차로를 달리던 중 연석을 들이받은 뒤 중앙선을 침범했다.&lt;br&gt;&lt;br&gt;이후 A씨 차량은 마주 오던 승합차와 승용차, 택시 2대와 잇따라 부딪혔다. 이 사고로 A씨가 심정지 상태로 병원에 옮겨졌지만 숨졌다. 맞은편 승합차 운전자 B씨는 골절 등 중상을 입었고, 이 차량 동승자 2명과 택시 운전자 2명은 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰은 운전자와 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HA4TCZJRMRQWMODFHE4TANZSMY.jpg?auth=658fc9433579104c057750204d3ba266db4032fd0c448d4c370fe77ff1b87726&amp;smart=true&amp;width=3114&amp;height=2273" type="image/jpeg" height="2273" width="3114">
+        <media:description type="plain">7일 오전 9시 20분쯤 전남광주 서구 화정동 화정역 인근 도로에서 4중 추돌 사고가 발생해 소방당국이 구조작업을 하고 있다. /전남광주소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>열대야 속 정전... 관악구 아파트 정전에 주민 90여 명 대피</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/07/VG33HGIX2FAWLJ5HG5ZMEZWEMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/VG33HGIX2FAWLJ5HG5ZMEZWEMY/</guid>
+      <dc:creator>윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 05:14:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYTAMBTHFSDCOJVGUZDMY3EGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 정전 그래픽./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;열대야가 이어진 지난 6일 밤 서울 관악구 한 아파트에서 정전이 발생했다. &lt;br&gt;&lt;br&gt;7일 서울 관악소방서는 지난 6일 밤 8시 13분쯤 서울 관악구 은천동의 한 아파트에서 정전 신고가 접수됐다고 밝혔다. &lt;br&gt;&lt;br&gt;소방당국은 아파트 저수조에서 물이 새 지하 전기실이 침수되면서 정전이 일어난 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이 정전으로 560세대가 불편을 겪었다. &lt;br&gt;&lt;br&gt;관악구는 6일 밤 10시 20분쯤 통합지원본부를 가동하고 단지 내 경로당과 인근 은천초등학교, 은천동 주민센터 세 곳에 쉼터를 마련했다. 주민 90여 명이 쉼터에 머물고 있다. &lt;br&gt;&lt;br&gt;전력 공급 복구 작업은 7일 오전부터 이어지고 있다. 소방과 구청 관계자는 7일 중에는 복구 작업이 완료될 것으로 보인다고 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오세훈 “부동산 공급 막아놓고 책임 전가… 민주당 적반하장”</title>
       <link>https://www.chosun.com/national/national_general/2026/08/07/5CZRCEGTENAJVLWUNTOSSJHUK4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/5CZRCEGTENAJVLWUNTOSSJHUK4/</guid>
@@ -913,24 +953,6 @@
       </media:content>
     </item>
     <item>
-      <title>[신문은 선생님] [꼭 읽어야하는 고전] 완벽해 보이는 영웅, 이면엔 나약함도… 입체적 서술에 훌륭한 고전으로 꼽히죠</title>
-      <link>https://www.chosun.com/national/nie/2026/08/06/DVPZQK5F5VBXPIAI3XADR37DEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/06/DVPZQK5F5VBXPIAI3XADR37DEU/</guid>
-      <dc:creator>이진혁 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Aug 2026 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATWQIDST4BCYFPOGPLIK5XWHFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;플루타르코스 지음｜천병희 옮김｜출판사 숲｜가격 3만6000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;기원전 대제국을 건설한 마케도니아의 왕 알렉산드로스에 관한 일화입니다. 그가 소년이었을 때, 누구도 제대로 다루지 못하는 말이 있었습니다. 하지만 알렉산드로스는 말이 난폭한 것이 아니라, 땅에 비친 자기 그림자를 무서워한다는 사실을 알아챘습니다. 말의 머리를 돌려 그림자가 보이지 않게 한 뒤 천천히 달래며 등에 올라탔지요. 이 말의 이름이 바로 부케팔로스입니다. 알렉산드로스는 훗날 이 명마와 함께 수많은 전장을 누빕니다.&lt;br&gt;&lt;br&gt;세월이 흘러 로마의 정치가 카이사르는 한 신전에서 알렉산드로스의 동상을 보고 눈물을 흘렸습니다. 알렉산드로스는 수많은 민족을 다스렸는데, 자기는 아직 기억될 일을 이루지 못했다는 한탄이었습니다. 한 사람은 말의 두려움을 간파했고, 다른 한 사람은 앞선 영웅과 자신을 견주었습니다. 이 두 사람의 생애를 하나로 묶은 이가 로마 제국에서 활동한 철학자 플루타르코스입니다. 그는 비슷한 업적이나 처지를 지닌 그리스인과 로마인을 짝 지은 ‘영웅전’을 썼습니다. 흔히 ‘비교 열전’이라고도 부릅니다.&lt;br&gt;&lt;br&gt;플루타르코스는 누가 더 많은 땅을 차지했고 전쟁에서 몇 번 이겼는지를 따지는 데에는 큰 관심이 없었습니다. 전쟁의 승패보다 무심코 던진 말 한마디나 짧은 농담이 한 사람의 성품을 훨씬 더 분명하게 보여준다고 생각했기 때문입니다. 영웅이 화가 났을 때 어떻게 행동하는지, 권력을 얻은 뒤 어떻게 달라지는지, 위기의 순간에 무엇을 선택하는지를 파고들었습니다.&lt;br&gt;&lt;br&gt;책 속 인물들은 흠 없는 완벽한 위인으로 그려지지 않습니다. 알렉산드로스는 대담하고 너그러웠지만, 술자리에서 격분해 자신을 구해준 오랜 동료를 죽이고 뒤늦게 통곡했습니다. 카이사르는 뛰어난 장군이자 정치가였지만 권력을 한 몸에 모으려다 결국 암살당했습니다. 플루타르코스는 영웅의 빛나는 업적뿐 아니라, 절제를 잃었을 때 빚어지는 뼈아픈 비극도 숨기지 않았습니다.&lt;br&gt;&lt;br&gt;이처럼 영웅들의 화려한 성취와 그 이면의 나약함을 아주 입체적으로 담아냈기에 ‘영웅전’은 유럽에서 오랜 기간 널리 읽히며 정치와 도덕을 가르치는 훌륭한 고전이 됐습니다. 잉글랜드 극작가 셰익스피어는 영어로 번역된 ‘영웅전’에서 인물과 일화를 가져와 여러 편의 로마사 희곡을 썼습니다.&lt;br&gt;&lt;br&gt;물론 고대의 도덕관을 오늘날 그대로 받아들일 수는 없습니다. 전쟁과 정복, 노예제가 당연했던 과거의 한계도 뚜렷이 남아 있습니다. 그래서 이 고전은 영웅을 무작정 숭배하기보다 저자의 판단까지 함께 따져 가며 비판적으로 읽어야 합니다. &lt;br&gt;&lt;br&gt;우리는 알렉산드로스처럼 거대한 제국을 세우거나 카이사르처럼 역사의 물줄기를 바꾸지는 못할 수 있습니다. 하지만 화가 났을 때, 경쟁자를 만났을 때, 작은 힘이라도 손에 쥐었을 때 무엇을 선택할지 기로에 서는 순간은 우리에게도 매일 찾아옵니다. 책은 우리가 스스로 잘 다스릴 능력을 갖추고 있는지 묻습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 8월 6일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/08/06/O5WDWAKJQNCAHAVPOG2H7IF5AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/06/O5WDWAKJQNCAHAVPOG2H7IF5AQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Aug 2026 15:35:00 +0000</pubDate>
-      <content:encoded>수도권·전라권 최고 39도.. 전국 무더위·열대야 계속 &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FR3R6APOVAVLBVJPK3RENXQ6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[리빙포인트] 뜨거워진 피부엔</title>
       <link>https://www.chosun.com/national/national_general/2026/08/06/JWWTJBSZEVE4LLWUHDCZKFKRH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/JWWTJBSZEVE4LLWUHDCZKFKRH4/</guid>
@@ -940,18 +962,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NRHJ54QSFGSBABECMFBXBCYAM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차갑게 우려낸 녹차 물에 적신 수건을 피부에 올려보자. 녹차의 폴리페놀과 타닌 성분이 피부를 진정시켜준다. 차갑게 적신 녹차 티백을 올려도 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지방국립대, 이르면 내년부터 ‘등록금 0원’... 사립대 “역차별” 반발</title>
-      <link>https://www.chosun.com/national/education/2026/08/05/SDJ3VRGH4FGG7P5TBBKHZHE2WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/05/SDJ3VRGH4FGG7P5TBBKHZHE2WY/</guid>
-      <dc:creator>황규락 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Aug 2026 11:21:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3TQODDMVQTIYLGGJQTMYJYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관이 5일 청와대 영빈관에서 열린 교육부, 국가교육위원회, 문화체육관광부, 국가유산청 2차 업무보고에서 업무보고를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이르면 내년부터 지방 국립대 30곳에 입학하는 신입생은 등록금을 내지 않고 학교를 다닐 수 있을 것으로 보인다. 정부가 지역 인재 유치를 위해 지방 국립대 학생에게 전액 장학금을 지원하는 방안을 검토하고 있기 때문이다.&lt;br&gt;&lt;br&gt;교육부는 5일 대통령 업무보고에서 ‘지역 균형 장학금’ 도입 계획을 밝혔다. 소득 수준과 관계없이 성적 등 일정 기준을 갖춘 지방 국립대 학생 모두에게 국가 장학금을 전액 지원하는 방안이다. &lt;br&gt;&lt;br&gt;정부는 우선 내년에 지방 국립대에 입학하는 신입생 6만4000여 명부터 지원하는 방안을 검토하고 있다. 이후 대상을 전체 학년으로 단계적으로 확대할 계획이다. 지금도 지방 국립대 학생의 60%가 국가 장학금을 받고 있다. 앞으로 전체 학생에게 전액 장학금을 주려면 추가로 4000억원 정도가 더 필요할 전망이다. 교육부 측은 “재정 당국 등과 협의해 이달 안에 구체적인 방안을 확정해 발표하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;사립대에서는 ‘역차별’이라는 불만이 나온다. 지방 사립대는 국립대와 똑같이 학생 모집에 어려움을 겪는데 지원 대상에서 빠졌고, 서울 사립대로 진학한 지방 학생들은 생활비까지 부담하면서도 혜택을 받지 못하기 때문이다. 이에 대해 교육부는 지방 사립대 학생은 기존 지역인재장학금을 확대·개편해 지원하겠다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇李 “객관식 수능, 아이들 망쳐”… 서·논술형 도입 힘 실어&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 이재명 대통령은 국가교육위원회(국교위)의 업무 보고를 받으면서 “오지선다형 객관식 수능은 어른들이 편하게 채점하고 평가하려고 아이들을 희생시키는 것”이라며 “규격화된 사람을 키워내는 교육을 계속하는 건 교육을 하는 게 아니라 망치는 것”이라고 했다. 차정인 국교위원장이 인공지능(AI) 시대에 필요한 사고력을 키우려면 대학수학능력시험(수능)에 서·논술형 문제를 도입해야 한다고 밝혔는데, 이 방안에 힘을 실어준 것이다. &lt;br&gt;&lt;br&gt;이 대통령은 “앞으로는 질문을 얼마나 잘할 것이냐가 중요해질 텐데, 객관식에 답하는 능력을 테스트하는 건 초보 컴퓨터도 하는 방식”이라며 이같이 말했다. &lt;br&gt;&lt;br&gt;국교위는 업무 보고에서 수능에 서·논술형 문항을 도입하고, 수능 전 과목과 고교 내신을 절대평가로 전환하는 안을 추진하겠다고 밝혔다. 오는 10월 말 시안을 공개하고 대국민 숙의·공론화를 거쳐 내년 3월 대입 개편안을 확정한다는 계획이다.&lt;br&gt;&lt;br&gt;차 위원장은 “수능이 32년간 시행되면서 기출문제를 피해 정상적인 문제를 출제하는 데 한계에 봉착했다”고 했다. 그러면서 “아이들이 의미 있는 고생을 해야 하는데 지금 최상위권 학생들은 문제 풀이 패턴을 익혀 빨리 푸는 데 집중하고 있다”며 “서·논술형 문제를 적극 도입해 아이들이 자기 손으로 정답을 쓰게 만들어야 한다”고 말했다. &lt;br&gt;&lt;br&gt;이 대통령은 서·논술형 문항은 채점 시 공정성 논란이 생길 수 있다는 지적에 대해서도 “이미 수시와 면접에서 주관적 평가를 하고 있는데, 주관식 문제 평가의 주관성을 의심받을까 봐 아예 안 하는 건 좀 이상하다”고 했다. 차 위원장은 “서·논술형 평가는 제시문이 주어지고 아주 명확한 채점 기준이 마련될 것이라서 면접보다 (공정할 것)”이라고 했다.&lt;br&gt;&lt;br&gt;차 위원장은 서·논술형 도입에 따른 사교육 증가 우려에 대해선 “그것이 첫 번째 걱정”이라면서도 “중학교 내신부터 6년간 시험을 치고, 국가 교육 특화 AI가 전국 학교의 서·논술형 평가의 문제와 답변 데이터를 압도적으로 축적하면 사교육 시장에서는 따라오지 못해 이전보다 사교육이 줄어들 것”이라고 답했다. 또 그는 “수능에서부터 서·논술형을 도입하면 공교육도 적극적으로 바뀔 것”이라며 “대입 제도를 바꿈으로써 학교 수업과 학생의 학습 방향을 바꿀 수 있기 때문에 큰 전환이 이뤄져야 한다”고도 밝혔다. &lt;br&gt;&lt;br&gt;이 대통령이 “입시 제도에 손을 대서 칭찬받은 예가 없다”고 지적하자 차 위원장이 “잘하면 칭찬받을 수 있다고 생각한다”고 답하기도 했다. &lt;br&gt;&lt;br&gt;최교진 장관도 수능 서논술형 도입에 대해 “매우 어렵지만 AI 시대로 전환하는 이때 반드시 해야 될 과제”라고 말했다. 교육부는 이날 학교 내신 시험의 서·논술형 문제에 대한 채점을 돕는 ‘AI 평가 지원 시스템’을 2029년까지 도입하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNULHI5ULBNGDK3SYVZ6HFXCJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 강남구 대치동 학원가 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GE3TQODDMVQTIYLGGJQTMYJYGM.jpg?auth=f5301810936eb72d225ebfdc28e7aa53c1e6e14237459e73aabe7ee3a0c13971&amp;smart=true&amp;width=4883&amp;height=3390" type="image/jpeg" height="3390" width="4883">
-        <media:description type="plain">최교진 교육부 장관이 5일 청와대 영빈관에서 열린 교육부, 국가교육위원회, 문화체육관광부, 국가유산청 2차 업무보고에서 업무보고를 하고 있다./청와대통신사진기자단</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>한국 거주 日 인플루언서, 자택서 라이브 방송 중 사망</title>
       <link>https://www.chosun.com/national/national_general/2026/08/05/IELUELGHPZBNXAC7TSJUKC5FFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/05/IELUELGHPZBNXAC7TSJUKC5FFA/</guid>
@@ -959,15 +969,6 @@
       <description/>
       <pubDate>Wed, 05 Aug 2026 11:47:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3S3T4HQY5BQBRYELTMITXUV3PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에 거주하던 20대 일본인 여성 인플루언서가 소셜미디어(SNS) 라이브 방송 도중 숨졌다. &lt;br&gt;&lt;br&gt;5일 경찰과 소방당국에 따르면 이날 오전 5시 33분쯤 서울 용산구 한강로동 오피스텔에서 20대 일본인 여성 A씨가 자살을 시도했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;약 8만명의 팔로어를 보유한 일본인 인플루언서 A씨는 자신이 거주하던 오피스텔에서 틱톡 라이브 방송을 진행하던 중 스스로 목숨을 끊은 것으로 파악됐다. 이 과정은 방송을 시청하던 이용자들에게 실시간으로 노출됐다.&lt;br&gt;&lt;br&gt;방송을 본 이용자가 A씨의 지인에게 상황을 알렸고, 지인이 경찰에 신고한 것으로 전해졌다. X(옛 트위터) 등 다른 SNS에도 경찰의 도움을 요청하는 이용자들의 글이 잇따라 올라왔다.&lt;br&gt;&lt;br&gt;신고를 받고 경찰과 소방당국이 오피스텔로 출동했지만, A씨는 이미 숨진 상태였던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;서울 용산경찰서는 A씨의 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민노총 조합원, 집행부와 갈등 뒤 옥상 농성</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/05/XSK4735NQBCKPMBN44AXJW3A2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/05/XSK4735NQBCKPMBN44AXJW3A2M/</guid>
-      <dc:creator>윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Aug 2026 12:10:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CJ5DQW366MYW3PYPKUGULVIHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강서경찰서. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구 등촌동 건물 옥상에서 민노총 공공운수노조 소속 노조원이 농성을 벌이고 있다. &lt;br&gt;&lt;br&gt;5일 경찰에 따르면 A씨는 이날 오후 2시쯤부터 건물 옥상에 올라 경찰과 대치 중이다. 민노총 공공운수노조 간부로 알려진 A씨는 갈등을 빚어온 노조 집행부에 항의하는 차원에서 옥상에 올라간 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 이날 오후 건물 주변에 에어매트를 설치하고 A씨가 내려올 수 있도록 설득 중이다. A씨 아내도 현장에 와서 A씨를 설득하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 과거 3년전에도 같은 건물 옥상에서 농성을 벌였던 인물로 파악됐다. 당시 A씨는 46일간 농성을 했다. 경찰과 소방당국은 이번에도 농성이 장기로 이어질 가능성을 고려해 차량 2대와 인력 9명 등 최소 인력을 배치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘술타기 의혹’ 배우 이재룡 기소…檢, 음주 운전은 혐의 없음 판단, 왜?</title>
