@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>미 해병대 사령관이 경북 포항을 찾은 이유는</title>
+      <link>https://www.chosun.com/national/regional/2026/08/07/GSAQ3PDI5VFC5EZTBRQDPWGH7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/07/GSAQ3PDI5VFC5EZTBRQDPWGH7A/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 12:55:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYOAYYWAGVDGNNRKCT7IKLOIYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포항제일교회는 1950년 8월 한국전쟁의 참화 속에서 온 시내가 폐허로 변했음에도 유일하게 종탑과 건물이 살아남아 '기적의 교회'로 불린다고 한다. /애린복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; “살아 있는 동안 전쟁 폐허 속 포항을 살려준 미 해병대에 고마움을 전해야지요.”&lt;br&gt;&lt;br&gt;지난 6일 발레리 잭슨 주한 미 해병대 사령관(소장)과 앤서니 헨더슨 소장 등 10여 명을 경북 포항을 찾았다. 이들을 초대한 이대공 애린복지재단 이사장은 7일 “포항 시민들도 미 해병대의 고마움을 잊지 않고 있다”고 말했다. 이 이사장은 선린애육원 원장을 지낸 고(故) 이명석 선생의 아들이다. &lt;br&gt;&lt;br&gt;이 이사장은 6·25 전쟁 이후 70년이 넘는 세월 동안 포항 선린애육원에 따뜻한 후원의 손길을 이어온 주한 미 해병대에 감사의 마음을 전하기 위해 이들을 초대했다고 한다. &lt;br&gt;&lt;br&gt;이 이사장에 따르면, 미 해병대와 포항의 인연은 한국 전쟁 때부터 시작됐다고 한다. 한국전쟁 당시 포항은 북한군에 점령당했다. 이런 탓에 포항에 살던 시민들은 부산 등으로 피난을 가지도 못했다. 피난민 사이에 북한군이 몰래 숨어 들어 부산까지 내려갈 수도 있다는 우려에 차단됐다고 한다. 고립된 포항 지역 고등학생들이 북한군에 맞서 싸웠지만, 역부족이었다. &lt;br&gt;&lt;br&gt;이런 상황에서 포항을 되찾기 위한 미 해병을 포함한 미군의 반격이 시작됐다. 북한군을 몰아내는 과정에서 포항 시내도 폐허가 됐다. 하지만 당시 미군은 포항제일교회 좌표를 찍어 이곳은 피하도록 했다. 그렇게 미군 덕에 지켜낸 포항제일교회에서 희망의 싹이 피어났다. &lt;br&gt;&lt;br&gt;6·25 전쟁 직후 이 이사장의 선친인 고(故) 재생(再生) 이명석 선생이 제안하고, 포항 주둔 미 해병대 부대의 도움을 받아 전쟁고아 수용 시설인 ‘선린애육원’이 문을 연 것이다. 처음엔 천막으로 지었지만, 미 해병대가 모금 운동을 벌여 부지를 마련해 줬다. 이때부터 미 해병대원들은 매년 선린애육원을 찾아 봉사 활동을 하며 포항과의 인연을 이어오고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVO53DAGWFGNLFKGBJ3KL5IYDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이대공 애린복지재단 이사장과 발레리 잭슨 주한 미 해병대 사령관 일행이 6일 경북 포항에서 만찬을 가진 뒤 기념촬영을 하고 있다. /애린복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 이사장은 “어린 시절 겪은 한국전쟁 당시 포항제일교회만 남기고 모든 것이 파괴됐다. 북한군의 무자비한 침략 속에서 미군을 중심으로 한 연합군의 숭고한 희생이 있었기에 오늘날의 자유 대한민국이 존재할 수 있었다”며 깊은 감사를 전했다. &lt;br&gt;&lt;br&gt;그는 “포항이 북한군에 점령 당한 이후 고등학생들이 총을 들고 나서 북한군과 맞섰지만, 힘없이 쓰러졌다. 그러던 상황에서 해병을 포함한 미군의 도움으로 포항을 되찾을 수 있었다”며 “이후 포항 주둔 미 해병대 부대의 도움으로 전쟁고아 수용 시설인 선린애육원이 시작됐고, 그때 이후 미 해병대와 포항의 오랜 인연이 시작됐으며 이후 지속된 포항 주둔 미 해병대의 헌신적인 지원에 사의를 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;발레리 잭슨 주한 미 해병대 사령관은 “우방국으로서 부강하고 번영한 대한민국에 대해 미국인으로서 깊은 자랑스러움을 느낀다”며 한국전쟁의 폐허 속에서 눈부신 성장을 이룩한 대한민국의 발전상에 놀라움을 표했다. &lt;br&gt;&lt;br&gt;선친의 뜻을 이어받은 이 이사장과 유족들은 1998년 사비를 출연해 ‘애린복지재단’을 설립해 지금까지 이어오고 있다. 포스코 부사장, 포스코교육재단 이사장, 경북사회복지공동모금회장을 지낸 이 이사장은 재단을 통해 사회복지, 장학, 복지 선교, 문화예술 활동 지원 등을 이어오고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVXK2S254BAW7D3VT3BCQ6YIWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이대공 애린복지재단 이사장(오른쪽)이 지난 6일 경북 포항 영일대호텔에서 만찬을 함께 한 발레리 잭슨 주한 미 해병대 사령관(왼쪽)에게 포항의 역사 등에 대해 설명하고 있다. /애린복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 이사장은 “지금의 포항이 있게 도와준 미 해병대를 포함한 미군에 대한 고마움을 잊지 않는 것은 물론 앞으로도 소외된 이웃을 사랑하고 돕는 ‘애린(愛隣)·선린(善隣)’ 정신을 바탕으로 지역사회 복지 증진의 든든한 버팀목 역할을 다하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘음주강요 호소’ 女소방관 죽음에... “회식 몇 번 한 걸로” 비하 공무원 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/07/GZIRD6TAIJAANG2E2EKEQ5GKGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/GZIRD6TAIJAANG2E2EKEQ5GKGQ/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 12:44:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LFQWT63QRF76QSZAD7W65KDCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주경찰청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;음주 강요 갑질 피해를 호소했던 20대 여성 소방관의 죽음을 비하한 글을 인터넷 게시판에 올린 공무원이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;광주경찰청 사이버범죄수사대는 7일 사자명예훼손 혐의로 전남광주광역시 소속 공무원 A씨를 불구속 입건해 조사 중이라고 밝혔다. A씨는 공무원 익명 게시판에 작성된 20대 여성 소방관 B씨 관련 글에 ‘회식 몇 번 한 것 가지고’라는 취지의 댓글을 작성한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 소방관이 아닌 일반 공무원으로 확인됐다. 소방공무원노조 등에 따르면 B씨는 전남광주소방본부 광산소방서 소속으로 작년 10월 3일 극단적 선택을 했다.&lt;br&gt;&lt;br&gt;노조 등은 “B씨가 장기간 반복된 음주 강요와 회식 중심 조직 문화, 사적 심부름 등 직장 내 괴롭힘으로 극심한 정신적 고통을 겪어오다 극단적 선택을 했다”고 주장했다.&lt;br&gt;&lt;br&gt;전남광주소방본부는 징계위원회를 열고 갑질 의혹과 관련된 소방 공무원 15명에 대해 파면 2명을 포함한 중징계 12명, 경징계 3명을 의결했다. 광주경찰청은 B씨의 죽음과 관련해 직장 내 괴롭힘 의혹 사실관계를 확인하기 위한 조사도 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3LFQWT63QRF76QSZAD7W65KDCU.jpg?auth=6e2d3936192cf73dd9ba09229343cb0ee44171c03d5c2d649cdad18241fd3a84&amp;smart=true&amp;width=719&amp;height=516" type="image/jpeg" height="516" width="719">
+        <media:description type="plain">광주경찰청 전경. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘장윤기 사건’ 피해 여고생 구하려던 고교생, 의상자 지정</title>
+      <link>https://www.chosun.com/national/people/2026/08/07/QOB5YYXB3NHMDATAVHZF33L5SA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/07/QOB5YYXB3NHMDATAVHZF33L5SA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Aug 2026 12:38:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAH6IBGPOI3HJDZXE6YIPBDH2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남광주 광산구청 전경/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;전남 광주에서 장윤기로부터 피해 여고생을 구하려다 중상을 입은 고교생이 정부로부터 의상자(義傷者)로 지정됐다.&lt;br&gt;&lt;br&gt;7일 더불어민주당 권칠승 의원실이 보건복지부로부터 제출받은 자료에 따르면 고교생 A(17)군은 지난달 24일 열린 의사상자심의위원회에서 9급 의상자로 인정됐다. &lt;br&gt;&lt;br&gt;의사상자는 자신의 직무와 관계없이 위험에 처한 타인의 생명이나 신체, 재산을 구하기 위해 구조 행위를 하다 죽거나 다친 사람을 뜻하며, 보건복지부 심의를 거쳐 지정된다. 의사상자로 지정되면 등급에 따른 보상금과 국가 예우를 받게 된다.&lt;br&gt;&lt;br&gt;A군은 올해 5월 5일 전남 광주 광산구 월계동의 한 대학교 인근에서 피해 여고생 이모(16)양을 구하기 위해 달려갔다가 장이 휘두른 흉기에 찔려 중상을 입었다. &lt;br&gt;&lt;br&gt;지난 6월 광산구는 광주경찰청과 협의해 A군의 구조 행위를 입증할 수 있는 수사 자료와 의료진 소견서 등을 확보해 보건복지부 의사상자 심사위원회에 심의를 요청한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>아들 ‘여교사 몰카폰’ 부쉈다... 경찰 아빠 피의자 소환 조사</title>
       <link>https://www.chosun.com/national/national_general/2026/08/07/NMDITGD5YVGI5EF3SJ3E76PDRQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/NMDITGD5YVGI5EF3SJ3E76PDRQ/</guid>
@@ -900,40 +930,6 @@
         <media:description type="plain">홍명보 전 축구 국가대표팀 감독이 30일 서울 여의도 국회에서 열린 문화체육관광위원회의 대한축구협회 현안 관련 청문회에 출석해 질의를 경청하고 있다. 2026.7.30 ⓒ 뉴스1 국회사진기자단</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>“쉬는 것도 예술”… ACC 하늘마당에서 첫 ‘멍때리기 대회’</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/SXHGHTT7ZNGVXGPKP5K4X6AFGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/SXHGHTT7ZNGVXGPKP5K4X6AFGA/</guid>
-      <dc:creator>전남광주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 04:44:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAFCVC3UPJH6HKXI63UDEVDYOA.png"&gt;&lt;figcaption&gt;&lt;small&gt;국립아시아문화전당이 다음달 5일 전남광주시 동구 금남로 하늘마당에서 개최하는 '멍때리기 대회' 포스터. /국립아시아문화전당&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문화체육관광부 국립아시아문화전당(ACC)이 ‘쉬는 것도 예술이다’를 주제로 ‘멍 때리기 대회’를 연다.&lt;br&gt;&lt;br&gt;ACC는 “다음 달 5일 전남광주시 동구 금남로 ACC 하늘마당에서 ‘2026 ACC 하늘마당 멍 때리기 대회’를 개최한다”고 6일 밝혔다.&lt;br&gt;&lt;br&gt;ACC는 한 해 평균 200여 건씩 공연, 전시 등 예술 콘텐츠를 선보이는 국제 예술 기관이다. 2015년 11월 전남광주 동구 금남로 옛 전남도청 9만6958㎡ 부지에 문을 열었다. 지난 11년 동안 2300만 관람객이 찾았다.&lt;br&gt;&lt;br&gt;ACC 하늘마당은 6986㎡ 크기 천연 잔디밭으로, 전남광주 시민들이 찾는 도심 속 휴식 공간이다. ACC는 올해 첫 시민 참여형 문화예술 교육 프로그램으로 멍 때리기 대회를 열기로 했다.&lt;br&gt;&lt;br&gt;참가자들은 90분 동안 몸과 호흡에 집중하면서 예술 작품을 완성하는 참여형 퍼포먼스를 한다. 참가자들은 대회 중 말을 할 수 없다. 다른 참가자들을 방해하면 퇴장된다. 졸릴 때는 마사지 서비스, 목이 마르거나 더우면 물과 부채질 서비스 등을 신청할 수 있다.&lt;br&gt;&lt;br&gt;대회 동안 관객이 투표하는 예술 점수와 심장 박동수 등 점수를 합산해 우승자도 선정한다. 직업이나 개성을 나타내는 의상을 착용하면 더 높은 평가를 받을 수 있다. 참여자 전원에게는 인증서가 주어진다.&lt;br&gt;&lt;br&gt;ACC에서 열리는 멍 때리기 대회는 이번이 처음이다. 2014년부터 대회를 열어온 시각예술가 ‘웁쓰양(Woopsyang)’이 함께한다. 그는 2023년 도쿄, 2024년 홍콩, 2025년에는 멜버른과 한강에서 멍 때리기 대회를 열었다.&lt;br&gt;&lt;br&gt;ACC는 이번 대회에 시민 150~200명이 참가할 것으로 예상한다. ACC는 오는 20일까지 누리집을 통해 팀당 최대 3명까지 100팀을 사전 모집할 계획이다. 참가비는 무료다.&lt;br&gt;&lt;br&gt;김상욱 국립아시아문화전당장은 “예술가와 시민이 함께 배우고 만들어 가는 다양한 문화예술 교육 프로그램을 계속 선보이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ELHWN6AFIBAKDNTYDD7DGBPV2Y.png?auth=e75ce630af368a6c520a3eeb8413999becf1a074c7de4b5babe6583a607880c4&amp;smart=true&amp;width=2543&amp;height=1907" type="image/png" height="1907" width="2543">
-        <media:description type="plain">국립아시아문화전당이 다음달 5일 전남광주시 동구 금남로 하늘마당에서 개최하는 '멍때리기 대회' 포스터. /국립아시아문화전당</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘시민 추천’ 전남광주특별시 정무부시장 후보 2인에 백승주·윤난실 내정</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/THMXUD2B2JF5VDTGQOFZ2RBT7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/THMXUD2B2JF5VDTGQOFZ2RBT7M/</guid>
-      <dc:creator>전남광주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 04:28:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQWMZJTGEZDCYZVGVSGCYTCGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백승주(왼쪽) 국립순천대학교 석좌교수와 윤난실 전 대통령비서실 제도개혁 비서관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초대 전남광주특별시 정무부시장 후보로 민형배 시장 인수위원회 출신 백승주 국립순천대학교 석좌교수와 윤난실 전 대통령비서실 제도개혁 비서관이 내정됐다.&lt;br&gt;&lt;br&gt;전남광주시는 6일 “시민 추천제를 통해 시민의 선택을 받은 후보자 중 산업 등 분야 정무부시장 후보에 백 교수, 시민주권 등 분야 정무부시장 후보에 윤 전 비서관을 내정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;전남광주시는 전남도와 광주광역시 통합 이후 특별시로 위상이 격상되면서 차관급 지방직 정무부시장 2명과 국가직 정무부시장 2명을 임명할 수 있다.&lt;br&gt;&lt;br&gt;시는 이 중 정무부시장 후보를 전국에서 처음으로 시민 추천제를 통해 선정했다. 정무부시장은 산업·일자리·경제·노동·첨단 주력 산업 분야와 시민주권·청년 인구 정책·보건복지·양성평등 분야 등 두 분야로 나눠 임명된다.&lt;br&gt;&lt;br&gt;지난달 10일부터 15일까지 이어진 정무부시장 공모에는 본인 지원이나 타인 추천을 통해 415명이 접수한 것으로 알려졌다. 하지만 지난달 21일 마감된 자기소개서·직무수행계획서 등 서류 제출을 마친 40명만 후보자로 등록됐다.&lt;br&gt;&lt;br&gt;전남광주시는 지난 1~2일 치러진 배심원단 심사와 온라인 투표를 거쳐 선정된 1~3순위의 각 분야 정무부시장 후보자를 민 시장에게 제출했다. 전남광주시는 민 시장이 지명한 2명 후보자에 대한 인사청문을 특별시의회에 요청한다.&lt;br&gt;&lt;br&gt;백 교수는 전남광주 장성군 출신으로 기획재정부 기획조정실장, 재정혁신국장 등을 역임했다. 윤 전 비서관은 전남광주 강진군 출신으로 제4대 광주시의원, 대통령직속 지방시대위원회 혁신자치전문위원장 등을 지냈다.&lt;br&gt;&lt;br&gt;민형배 전남광주시장은 “시민이 시정의 중심이 되고 시민의 목소리가 정책이 되는 ‘시민주권특별시’를 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MVQWMZJTGEZDCYZVGVSGCYTCGM.jpg?auth=36ebdee4579e6191fb0b3d4bf70505439526817cf121c71bd2aa12dffbacea9b&amp;smart=true&amp;width=720&amp;height=431" type="image/jpeg" height="431" width="720">
-        <media:description type="plain">백승주(왼쪽) 국립순천대학교 석좌교수와 윤난실 전 대통령비서실 제도개혁 비서관. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>선조들은 무더위 어떻게 이겨냈나… 냇가 모여 춤추고 음식 잔치</title>
-      <link>https://www.chosun.com/national/2026/08/06/DDZWTZF33ZGOFJIZSC6SRAKIDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/06/DDZWTZF33ZGOFJIZSC6SRAKIDY/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 04:19:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZBOCSAYWFCVVHZLHGCKJFCCZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쇄미록. 함안조씨 해창 조병국家 기탁자료. /한국국학진흥원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극한 폭염이 지속되는 가운데 옛 선조들의 여름 나기 방식이 기록을 통해 공개됐다. &lt;br&gt;&lt;br&gt;한국국학진흥원은 조선시대 일기 ‘쇄미록(瑣尾錄)’과 근대 기록인 ‘해주일록(海洲日錄)’을 토대로 선조들의 여름철 휴가 문화를 소개했다. &lt;br&gt;&lt;br&gt;6일 진흥원에 따르면 일기에는 관료들에게는 여름철 지친 몸과 마음을 쉴 수 있는 제도화된 휴가가 있었고, 선비들은 책을 읽거나 사람들과 어울렸다. 농민들은 무더운 8월에 호미를 씻어 걸어 두고 마을 사람들과 음식을 나누며 노래와 춤을 즐긴 것으로 묘사돼 있다. &lt;br&gt;&lt;br&gt;조선시대에는 혼례·상례·제사·질병·부모 봉양 등을 위한 특별 휴가인 ‘급가(給暇)’가 운영됐다고 한다. 세종은 젊고 재능 있는 문관들이 공무에서 벗어나 독서에 전념하도록 사가독서제(賜暇讀書制)를 시행했다. 일정 기간 공무를 면제하고 학문과 저술에 전념하도록 한 인재 양성 제도였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRBYGQOWJFHO3LTR44PVXVA6LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해주일록. 영양남씨 영해 광계정 기탁자료. /한국국학진흥원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남붕(南鵬·1870~1933)의 ‘해주일록’에는 무더운 여름을 보내는 선비의 모습이 담겨 있다. 1932년 음력 6월 25일 중복. 극심한 더위 속에서도 남붕은 새벽부터 ‘주자서절요’를 외우고 명나라 사람의 시를 읽으며 더위를 쫓았다. 남붕에게 독서는 몸과 마음을 다잡는 여름나기의 한 방법이었다.&lt;br&gt;&lt;br&gt;그렇다고 그가 책상 앞에만 머문 것은 아니었다. 1922년 음력 6월 23일 마을 어른들이 모인 자리에 참석해 호미씻이 잔치를 마련한 이들로부터 술과 안주를 대접받았다. 공부로 더위를 견디던 선비도 농사 고비를 넘긴 사람들이 함께 쉬고 즐기는 공동체 자리에 참여한 것이다.&lt;br&gt;&lt;br&gt;호미씻이는 마지막 김매기를 마친 뒤 호미를 씻어 걸어 두고 하루 또는 며칠간 음식을 나눠 먹고 즐기는 공동체의 축제였다. 안동 등 경북 북부에선 이 잔치를 ‘풋굿’이라고도 불렀다. &lt;br&gt;&lt;br&gt;오희문(吳希文·1539~1613)의 ‘쇄미록’에는 1600년 음력 8월 6일 마을 사람들이 냇가에 모여 북을 치고 노래와 춤을 즐긴 모습이 기록돼 있다. &lt;br&gt;&lt;br&gt;‘쇄미록’에서 근대의 ‘해주일록’에 이르기까지 고된 노동 뒤에 함께 쉬는 풍습은 오랫동안 이어졌다. &lt;br&gt;&lt;br&gt;한국국학진흥원 관계자는 “전통사회에서 더위 극복 방식이 관료, 선비, 농민 등 신분이나 계층별로 다양하게 나타났다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘미성년 피해자 2명’… 경찰, 최영중 전 시의원 구속 송치</title>
