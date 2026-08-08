@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 양돈장서 정화조 빠진 외국인 근로자 2명 심정지</title>
+      <link>https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 07:14:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3WKOBSMY2DCOBXMRSWGNTFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 양돈장 추락 사고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한 양돈장에서 외국인 근로자 2명이 정화조에 빠져 심정지 상태로 구조됐다.&lt;br&gt;&lt;br&gt;8일 제주소방안전본부에 따르면, 이날 오전 7시 56분쯤 제주시 한경면 한 양돈장에서 베트남 국적 30대 A씨와 네팔 국적 30대 B씨 등 2명이 정화조에 빠졌다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방은 A씨와 B씨를 구조해 인근 병원으로 이송했다. 구조 당시 이들은 심정지 상태였다.&lt;br&gt;&lt;br&gt;정화조는 가로와 세로, 높이가 각각 5m였다. 이들은 사고가 난 양돈장에서 일했던 것으로 알려졌다. 경찰은 양돈장 관계자 등을 상대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 8월 9일 일요일 (음력 6월 27일 乙卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/08/N6N3NN2JYFGVFAHNPBH5TBBL2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/N6N3NN2JYFGVFAHNPBH5TBBL2U/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>마른장마·폭염에 남부지방 말라간다</title>
+      <link>https://www.chosun.com/national/regional/2026/08/08/4RBB7YGCDFDCDFSJOSQNWK6WSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/08/4RBB7YGCDFDCDFSJOSQNWK6WSQ/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 05:42:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGELE25STNE4XHH54KAQEZO73Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지나날 23일  경남 밀양시 무안면 백안저수지 바닥이 가뭄으로 갈라져 있다./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 마른장마와 극한 폭염의 여파로 남부 지방 가뭄 위기가 고조되고 있다. 경남 밀양에선 농업용수 가뭄 비상 대응 단계 중 가장 높은 ‘심각’으로 상향됐다. 전남광주 지역 최대 수원인 동복댐도 ‘주의’ 단계로 격상됐다.&lt;br&gt;&lt;br&gt;경남도는 8일 밀양시 농업용수 가뭄 비상 대응 단계가 ‘경계’에서 가장 높은 ‘심각’으로 상향됐다고 밝혔다. 농업용수 가뭄 단계는 ‘관심’(30년 평년 대비 저수율 70% 이하·약한 가뭄), ‘주의’(60% 이하·보통 가뭄), ‘경계’(50% 이하·심한 가뭄), ‘심각’(40% 이하·극심한 가뭄) 등 4단계로 분류된다.&lt;br&gt;&lt;br&gt;이날 밀양시 농업용수 저수율은 26.3%로 평년 대비 35.4% 수준까지 떨어졌다. 농촌용수정보종합시스템에 따르면 경남 18개 시·군 농업용수 저수율은 35.2%로 평년 대비 절반(49.9%) 수준에 그쳤다.&lt;br&gt;&lt;br&gt;양산시·의령군·산청군·창원시·거제시·창녕군·하동군·진주시·김해시·함안군 10개 시군은 ‘경계’ 단계다. 특히 창원시는 농업용수 저수율이 28.4%(평년 대비 41.5%)에 그쳐 밀양시에 이어 곧 ‘심각’ 단계로 올라설 가능성이 있다. 통영시·사천시·고성군·합천군은 ‘주의’, 남해군·거창군은 ‘관심’ 단계다. 함양군만 농업용수 가뭄 비상 대응 단계에 진입하지 않았다. 경남도와 한국농어촌공사는 낙동강 물을 끌어와 저수지를 채우거나 하천물과 지하수를 논밭에 직접 공급하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIAMSYVWRFIJ7PEOQI6SF2VBOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남광주지역에 폭염중대경보가 이어지고 있는 7일 오전 전남광주 화순군 동복호가 녹색빛을 띄는 가운데 곳곳에 가뭄으로 인한 모래톱이 드러나있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주에서도 생활·농업 용수 저수율이 점차 낮아지면서 가뭄 위기가 고조되고 있다. 전남광주통합특별시에 따르면 지난 7일 광주 지역 최대 상수원인 동복댐의 가뭄 대응 단계가 ‘관심’에서 ‘주의’로 상향됐다. 식수 전용 댐인 동복댐은 광주 지역 식수 60%를 책임지는 곳이다. 동복댐 저수율은 50.34％로 평년 대비 60％에 미치지 못해 대응 단계가 격상됐다. 전남광주특별시는 동복댐 취수량을 하루 4만t을 줄이고, 주암댐에서 그만큼 늘릴 계획이다.&lt;br&gt;&lt;br&gt;평림댐도 저수율이 54.6％에 그쳐 ‘주의’ 단계다. 주암댐, 장흥댐, 수어댐은 평시 수준이지만, 저수율이 계속 떨어져 당국은 상황을 예의 주시하고 있다. 전남광주특별시는 비가 오지 않아도 9월 말까진 평소 수준의 용수 공급이 가능할 것으로 예상했다. 이후엔 시간·격일제 제한 급수 등 비상 대책이 불가피할 것으로 전망했다.&lt;br&gt;&lt;br&gt;농업용수 저수율도 ‘관심’ 단계에 진입했다. 전남 3206개 농업용 저수지의 평균 저수율은 46.1％로 지난해(70.9％)보다 24.8％ 포인트 줄었다. 전남광주특별시는 추가 관정 개발과 양수장 준설, 용배수로 개발 등 급수 대책을 추진할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SGELE25STNE4XHH54KAQEZO73Y.jpg?auth=17db80f04b102dd627d2be126ac153c6521d045736ccc22db7c39738ed0c5901&amp;smart=true&amp;width=3887&amp;height=2733" type="image/jpeg" height="2733" width="3887">
+        <media:description type="plain">지나날 23일  경남 밀양시 무안면 백안저수지 바닥이 가뭄으로 갈라져 있다./ 김동환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>남자들뿐인 골프 사진… 아내가 놓친 것</title>
       <link>https://www.chosun.com/national/court_law/2026/08/08/GZRRKVSM3VBMLIICFV37AURZY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/08/GZRRKVSM3VBMLIICFV37AURZY4/</guid>
@@ -812,15 +846,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRO4UV5S4ZEOJPZKM2OTMFQMV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] have zero tolerance for ~</title>
-      <link>https://www.chosun.com/national/nie/english/2026/08/07/REH54ZBISVDELPF3HIPAMG27ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/08/07/REH54ZBISVDELPF3HIPAMG27ZA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DK7BMMVBGBDNPLAZJQCKM5D5RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 체벌(體罰)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2026/08/07/TBXEUYKS3ZCK5EJLXZ4OQ2XWPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/08/07/TBXEUYKS3ZCK5EJLXZ4OQ2XWPE/</guid>
@@ -884,15 +909,6 @@
       <content:encoded>금 - 전국 무더위·열대야 지속&lt;br&gt;&lt;br&gt;토~일 - 일부 지역 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ETURCVJBZCLNHULGWYZNJB5CQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한국전자기술연구원서 하이드라진 유출 사고…직원 등 300여명 대피</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/AUBXWKAY2ZENRK42KTLMVBUJ6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/AUBXWKAY2ZENRK42KTLMVBUJ6Y/</guid>
-      <dc:creator>성남=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 13:11:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KRNSABGFVE47J7VGZ2I5N4EDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하이드라진 유출 현장에 출동한 소방대원이 화학 보호복을 입고 작업 중인 모습./경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남의 한국전자기술연구원에서 유독성 물질인 하이드라진이 유출되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;6일 경기도소방재난본부에 따르면 이날 오후 4시 26분쯤 성남시 분당구 야탑동의 한국전자기술연구원에서 하이드라진이 유출됐다.&lt;br&gt;&lt;br&gt;하이드라진은 강한 독성을 가진 화학물질로 로켓 및 우주선 추진체 연료로 쓰인다.&lt;br&gt;&lt;br&gt;“유해 물질이 유출됐다”는 관계자 신고로 현장에 출동한 소방대원은 화학 보호복을 착용하고 사고 실험실로 진입해 창문을 열어 환기했다.&lt;br&gt;&lt;br&gt;또한 흡착포를 사용해 유출된 하이드라진을 제거하는 작업을 했다.&lt;br&gt;&lt;br&gt;유출 사고 당시 연구실 건물에 있던 직원 등 300여명이 대피했으며 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;유출된 하이드라진의 양은 약 200ml인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 하이드라진 용액이 든 유리병을 보관한 상자를 옮기는 과정에서 사고가 발생한 것으로 보고 정확한 사고 경위를 파악 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>공소청 검사 수사 전면 금지되는데… 특검 파견 검사 수사권은 인정</title>
       <link>https://www.chosun.com/national/court_law/2026/08/06/72QOPY44SBEZ5LZOWON4ZCDO5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/72QOPY44SBEZ5LZOWON4ZCDO5Q/</guid>
@@ -921,19 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKGYF7YQN5CPZJXVZRJGWGSINE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스테비아 토마토/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일반 토마토보다 달콤한 맛으로 인기를 끌고 있는 ‘스테비아 토마토’를 농산물로 허위 광고·판매한 업체들이 무더기로 적발됐다. 스테비아 토마토는 새로운 품종이나 특수 농법으로 재배한 농산물이 아닌 감미료를 주입해 만든 가공식품이다. &lt;br&gt;&lt;br&gt;식품의약품안전처(식약처)는 온라인상에서 스테비아 토마토를 일반 농산물처럼 부당 광고한 업체 15곳과 위생 관리 기준 등을 위반한 제조업체 3곳을 적발했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;스테비아 토마토는 세척한 방울토마토에 설탕 대신 단맛을 내는 식품첨가물인 효소처리스테비아와 수크랄로스 등이 들어간 액체를 주입한 후, 다시 세척·건조해 포장한 제품이다. 따라서 농산물이 아닌 ‘과·채가공품’으로 분류된다.&lt;br&gt;&lt;br&gt;그러나 적발된 업체들은 ‘스테비아 농법’이란 표현을 사용해 마치 스테비아 토마토가 새로운 농법으로 재배된 신품종 농산물인 것처럼 광고했다. ‘천연 당분’, ‘천연 감미료’ 등의 표현도 사용했다. 이 업체들이 판매한 제품은 약 6만2000개로, 판매액은 약 8억6000만원에 달했다.&lt;br&gt;&lt;br&gt;스테비아 토마토는 일반 농산물이 아니라 제조업체가 생산하는 가공식품인 만큼, 소비 기한을 신고하고 정기적으로 품질 검사를 해야 한다. 식약처가 제조업체 9곳의 위생 관리 실태를 점검한 결과, 3곳에서 신고한 기간보다 소비 기한을 길게 표시하거나 의무적으로 실시해야 하는 자가 품질 검사를 누락한 것으로 나타났다. 시중에 유통 중인 스테비아 토마토 18개 제품을 수거해 검사한 결과, 2개 제품에서 대장균이 기준치를 초과해 검출되기도 했다. &lt;br&gt;&lt;br&gt;식약처는 “스테비아 토마토를 구매할 때는 농산물이 아닌 식품 첨가물이 포함된 가공식품이라는 표시 사항을 확인해야 한다”며 “식품 첨가물 주입 과정에서 토마토 표면이 약해져 보관 중 쉽게 물러질 수 있고, 감미료의 맛이 변해 쓴맛이 나타날 수 있다”고 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/GKGYF7YQN5CPZJXVZRJGWGSINE.jpg?auth=a90abb33d8bc2e4bd1b4d4859c315d0dd92ca4d1660a962073759089b3bf8e30&amp;smart=true&amp;width=700&amp;height=686" type="image/jpeg" height="686" width="700">
         <media:description type="plain">스테비아 토마토/조선DB</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“국가 폭력” “돈키호테 정책”... 서울시 부동산 토론회, 정부 난타</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/ARDQVEK3ZJFFXMDWQJ2ZENKGR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/ARDQVEK3ZJFFXMDWQJ2ZENKGR4/</guid>
-      <dc:creator>이미지 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 06:00:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPB2EKRB6ZPAFOLKX5ODHTHVK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 6일 서울 중구 서울시청에서 열린 부동산 정상화를 위한 서울시민 대토론회에 참석해 패널의 질문을 듣고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 6일 ‘부동산 정상화를 위한 시민 대토론회’를 열었다. 토론에 참석한 시민과 공인중개사, 부동산 유튜버, 교수 등 50여 명은 정부의 부동산 정책을 신랄하게 비판했다. “정부 부동산 정책의 목표가 뭔지 알기 어렵다” “돈키호테가 풍차와 싸우는 상황”이라는 등 현실성이 떨어지고 모호하다는 지적도 제기됐다. 이날 토론회는 7일 이재명 대통령이 주재하는 부동산 정책 점검 회의를 하루 앞두고 열렸다. 오세훈 서울시장이 정부의 부동산 정책 전환을 촉구하기 위해 마련했다는 해석이 정가에서 나왔다.&lt;br&gt;&lt;br&gt;토론에서 이창무(서울시 총괄건축가) 한양대 도시공학과 교수는 “서울은 물론, 뉴욕 같은 도시는 고용이 몰려 있기 때문에 젊은 층이 방은 좀 좁더라도 일하는 곳 가까이 전월세 주택에 살 수밖에 없다”며 “이재명 정부의 정책은 청년 전월세 가구를 내쫓고, 노인들도 내쫓고, 결국 자산 여력이 있는 자산 계층만 들어올 수 있도록 만들고 있다”고 말했다. 정부가 비거주 1주택자에 대한 세제 혜택을 줄이고, 실거주를 의무화하면서 임대 주택이 줄어들 수밖에 없다는 것이다. 김제경 투미컨설팅 소장은 “임대 주택을 제공하는 사람이 사라지면 내 집을 살 수 없는 무주택자는 거리에 나앉게 된다”며 “은퇴하고 소득이 없는 고령자에게 세금이 부담되면 ‘집 팔고 지방으로 떠나라’는 정책을 내놓으니 ‘21세기 고려장’이라는 말까지 나오는 것”이라고 했다. 김준용 서울시정비사업연합회장은 “(임대하거나 실거주를 하지 않는다고) 보유세·양도세를 중과하는 것은 정책이라기보다 폭력에 가까운 것”이라고 말했다.&lt;br&gt;&lt;br&gt;김지엽 성균관대 건축학과 교수는 정부를 가상의 적을 향해 돌격하는 돈키호테에 비유하며 “적은 다른 곳에 있는데 풍차와 싸운다”고 말했다. “배고픈 사람들과 서민들을 위한 정책이 필요한데 배 아픈 사람들을 위한 정책을 한다”는 것이다. 정부가 최근 발표한 부동산 등 세제 개편안은 초고가·비거주 주택에 대한 세 부담을 높였는데 오히려 세입자를 어렵게 만든다는 주장이다. 올해 6월 서울에 직장을 구해 지방에서 올라왔다는 청년은 “대출 요건이 까다로워지고 전세 매물도 없어 월세에 살 수밖에 없었다”고 했다. 25년 차 공인 중개사는 “이번 세제 개편안에는 전월세 대책이 전무하다”고 했다.&lt;br&gt;&lt;br&gt;오세훈 시장도 “정부의 부동산 정책이 집값은 잡지도 못하면서 전월세만 올려놓는 것 아니냐”고 했다. 오 시장은 “정부가 전월세 문제를 해결하려는 의지가 있다면 민간 임대 공급자에게 혜택을 줘서 공급을 늘려야 하는데 금융·세제는 억제하고 (이들에게) 적대적인 정책을 펴고 있다”며 “주택 공급을 하라는 것인지 굉장히 헷갈리는 상황이 될 수밖에 없다”고 했다. 오 시장은 정부의 공급 대책과 관련해 “(정부가) 용산어린이정원에 아파트 공급을 검토하고 있다는 내용이 자꾸 보도되고 있다”며 “(해당 부지에 주택을 공급하는 것은) 절대 있을 수 없는 일”이라고 말했다. “기후 변화로 (지금처럼) 폭염이 닥치는 상황에서, 녹지를 최대한 유지·관리하는 것은 서울시장으로서 반드시 책임지고 지킬 의무”라는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HPB2EKRB6ZPAFOLKX5ODHTHVK4.jpg?auth=b8798e80db9b01a4ba40e49fc5d0d650d273cf9aa1e8f461beedf606a16058b6&amp;smart=true&amp;width=3984&amp;height=2656" type="image/jpeg" height="2656" width="3984">
-        <media:description type="plain">오세훈 서울시장이 6일 서울 중구 서울시청에서 열린 부동산 정상화를 위한 서울시민 대토론회에 참석해 패널의 질문을 듣고 있다./뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">박영태</media:credit>
       </media:content>
     </item>
     <item>
