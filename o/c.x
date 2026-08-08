@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“침대에 묶여 있었다” 천안 교회서 지내던 11살 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/08/08/JYOEJTW36VDINOGUUCRF22JS7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/JYOEJTW36VDINOGUUCRF22JS7U/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 08:56:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBKHO6U2WVBXJM7R6OUO4A63IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안의 한 교회에서 의식 저하 증세를 보이다 숨진 초등학생 사건과 관련, 경찰이 학생과 함께 지낸 성인들을 상대로 수사에 나섰다.&lt;br&gt;&lt;br&gt;8일 경찰과 소방 등에 따르면, 지난 5일 오후 8시 49분쯤 충남 천안시 한 교회에서 A(11)군이 고열과 의식 저하 증세를 보여 119구급대에 의해 병원으로 옮겨졌으나 3시간여 만에 숨졌다.&lt;br&gt;&lt;br&gt;병원 측은 A군 몸에서 학대를 의심할 만한 정황을 발견하고 경찰에 아동학대 의심 신고를 했다.&lt;br&gt;&lt;br&gt;수사에 나선 경찰은 119가 교회에 도착했을 때 A군은 성인 3명과 함께 있었던 것으로 파악했다. 이들은 A군과 함께 교회에서 지낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;사건을 넘겨받은 충남경찰청은 당시 교회에 있었던 성인 3명을 상대로 아동 학대치사 혐의 적용 여부를 두고 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;특히 경찰은 ‘A군이 침대에 묶여 있었다’는 목격자 진술을 토대로 이들이 A군을 학대한 것이 아닌지를 집중적으로 살펴보고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰이 국립과학수사연구원(국과수)에 A군 시신 부검을 의뢰한 결과, 국과수는 골절 등 특이 소견은 발견되지 않았다는 1차 구두 소견을 전달했다. 다만 정밀 감정 결과는 3~4주 뒤에 나올 전망이다.&lt;br&gt;&lt;br&gt;A군은 태어난 뒤 줄곧 이 교회에서 지냈으며, 학교에 다니지 않고 홈스쿨링을 했다고 한다. 외할머니 등이 종종 교회를 오간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제주 양돈장서 정화조 빠진 외국인 근로자 2명 심정지</title>
       <link>https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/EQUONXBG5FCN7FEWVVYNNIVKAE/</guid>
@@ -826,15 +835,6 @@
       <description/>
       <pubDate>Thu, 06 Aug 2026 15:42:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5AOFJE6RJH6ZFMB5YH7HUS7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 동대문구 120다산콜센터에서 한 상담원이 시민의 민원 전화를 받고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 10월 이란에서 ‘Foad128’이라는 콜센터 서비스가 시작됐다. 이란 정부가 운영하는 대국민 상담 전화다. 이란 128콜센터는 서울시의 ‘120다산콜센터(이하 120콜센터)’를 벤치마킹했다. 당시 주한 이란 대사관과 이란 정부가 서울시에 “상담 노하우 등을 전수해 달라”고 먼저 요청했다고 한다. 서울시는 주한 이란 대사관 직원들에게 120콜센터 상담 현장을 공개했고, 이란 스마트정부개발국장 등 이란 정부 관계자들에게 상담 노하우를 전수했다.&lt;br&gt;&lt;br&gt;2007년 문을 연 서울시의 120콜센터는 주민 종합 서비스 플랫폼으로는 국내 최초다. 올해로 20년째 운영 중이다. 청소년에서부터 여성, 노인, 외국인까지 하루 이용객만 1만7000여 명에 이른다. 120콜센터 모델은 전국 지방자치단체, 공기업 등을 넘어 해외에까지 수출되고 있다. 경기 파주시는 ‘민원 콜센터’란 이름으로 120콜센터 시스템을 벤치마킹했고, 울산시는 ‘120 민원센터’ 설립 계획을 세웠다. 일본과 두바이, 싱가포르, 몽골, 태국, 베트남 등 여러 국가에서 120콜센터를 배우러 서울을 찾고 있다.&lt;br&gt;&lt;br&gt;120콜센터는 서울시와 산하기관, 25개 구청 민원을 하나로 통합해 처리해주는 종합 상담 시스템이다. 120콜센터 이전에는 서울 각 기관의 민원 처리 전화번호가 52개나 됐다. 시민들은 민원 제기나 문의를 하려면 ‘어느 번호’로 전화해야 하는지부터 찾는 게 일이었다. 눈앞에 보이는 위험 시설물을 신고하려고 전화를 걸면 “담당이 아니다”라며 전화를 돌리는 이른바 ‘전화 뺑뺑이’가 일상이었다. 이에 서울시는 2007년 “천만 도시 서울의 문제를 해결하기 위해 통합 시스템이 필요하다”며 52개 상담 번호를 ’120′ 하나로 통합한 서비스를 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYEGDLNTBNDHXGT6E26XQKPUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초기엔 전화 상담이 대부분이었지만, 지금은 문자·채팅·챗봇 등 접수 채널도 다양화했다. 복잡한 상담 접수는 전화로, 민원 처리 결과는 문자나 카카오톡으로 전달한다. 지난 6월 서울 종로구 창신동에 사는 김모(38)씨가 120에 전화를 걸어 “집 앞에 쓰레기가 쌓여 있다”고 신고하자, 상담원이 정확한 주소와 현장 상황을 체크했다. 몇 분 뒤 김씨 휴대전화로 ‘시민님의 쓰레기 무단 투기 민원을 상담사가 종로구로 접수했습니다’라는 문자메시지가 왔다. 120콜센터 상담원이 담당 부서와 담당자를 찾아 대신 민원을 접수한 뒤, 처리 과정을 문자로 통보해 준 것이다. 다음 날 김씨 집 앞에 쌓여 있던 쓰레기는 말끔히 치워졌다.&lt;br&gt;&lt;br&gt;120콜센터 서비스는 갈수록 진화하고 있다. 최근엔 수화(手話), 외국어(영어·일어·중국어·베트남어·몽골어) 상담도 운영 중이다. 젊은 층이 많이 쓰는 인스타그램·카카오톡·X(옛 트위터) 등 소셜미디어로도 상담을 받는다.&lt;br&gt;&lt;br&gt;상담 영역도 넓히고 있다. 작년 4월부터는 ‘외로움 안녕 120’ 서비스를 시작했다. 서울 시민의 외로움·고립·은둔 문제를 전화로 상담해주는 서비스다. 서울의 1인 가구 비율은 39.3%. 이 중 60% 이상이 “외로움을 느낀다”고 답할 정도로 고립 문제가 심각해지자, 120콜센터가 직접 나선 것이다. “뇌출혈로 쓰러진 뒤 사람들과 어울리기 어렵다”고 시민이 고민을 털어놓으면, 120콜센터는 정신건강복지센터 상담과 주민센터 담당자를 연결해 준다. “백수인 내가 무가치한 사람 같다”는 청년에게는 서울시의 자존감 코칭 프로그램과 취업 센터를 소개한다. 이 청년은 여덟 차례에 걸친 상담 끝에 직장을 구하는 데 성공했다. 외로움 상담은 올해 상반기에만 5만3403건 진행됐다. &lt;br&gt;&lt;br&gt;최근에는 호출 앱 사용이 서툴러 택시 잡는 데 애를 먹는 어르신들을 위해 ‘택시 호출 서비스’도 시작했다. 고령층에게 콜택시를 불러주는 ‘동행 온다 콜택시’ 서비스를 120콜센터에 통합한 것이다. &lt;br&gt;&lt;br&gt;120콜센터 상담 건수는 지난 한 해 총 476만4000여 건이었다. 올 상반기에만 벌써 231만건이 넘어섰다. 120으로 번호를 통합하기 전에는 보통 67분 정도 대기했었는데, 지난해 기준으로 통화 대기 시간이 23초로 줄었다. 민원 처리 기간도 3.8일에서 2.7일로 단축됐다. 서울시 관계자는 “필요한 서비스 영역을 계속 발굴하는 한편, 민원 처리 만족도도 높여 120콜센터가 시민들의 만능 해결사가 될 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 눌려서 망가지다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/08/07/KD3QIZLQNJAXROA65Y3WUYI4BE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/08/07/KD3QIZLQNJAXROA65Y3WUYI4BE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQVWLVTQFVBNRCD7B5IDDWE54Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[두근두근 뇌 운동] [2923] 사다리를 타자</title>
