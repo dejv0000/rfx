@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>立秋 지나도 폭염…온열질환자 10년 새 3배로 늘었다 </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/08/SUHARZNRAFCSRKVUTW4VHI2U6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/08/SUHARZNRAFCSRKVUTW4VHI2U6U/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 03:27:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMKW4PK2CZIQFD4XBZZU3GZKDY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 기록적인 폭염으로 인해 온열질환환자가 증가하고 있는 지난 5일 경기 수원시의 한 대형병원 응급실로 환자들이 들어가고 있다./뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후변화로 늦더위가 길어지면서 입추(立秋) 이후에도 온열질환에 시달리는 사람이 과거보다 크게 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;8일 행정안전부 국립재난안전연구원이 2011~2025년 질병관리청 응급실 감시체계 자료를 분석한 결과, 2021~2025년 입추 이후 8월 말까지 발생한 온열질환자는 연평균 638명이었다. 2011~2015년에는 연평균 215명으로 3배 이상 늘어난 것이다.&lt;br&gt;&lt;br&gt;온열질환으로 인한 사망자도 증가세를 보였다. 입추 이후 8월 말까지 사망자는 2012~2015년 연평균 3.3명에서 2016~2025년에는 연평균 4명 이상으로 늘었다.&lt;br&gt;&lt;br&gt;특히 늦더위가 심했던 2024년에는 입추 이후 8월 말까지 온열질환자 1299명과 사망자 12명이 발생했다. 이는 해당 연도 전체 온열질환자의 35%에 해당한다. 발생 장소별로는 실내·외 작업장에서 발생한 환자가 586명으로 전체의 45.1%를 차지했다.&lt;br&gt;&lt;br&gt;올해도 입추 이후 폭염이 이어질 전망이다. 기상청 중기예보에 따르면 8월 중순까지 전국 대부분 지역의 낮 기온은 31~35도로 평년보다 높을 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여수 오동도 해상서 모터보트 전복… 1명 사망·1명 실종</title>
+      <link>https://www.chosun.com/national/incident/2026/08/08/VEYSYE7DQJGQXHSKF7GSCITQ54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/VEYSYE7DQJGQXHSKF7GSCITQ54/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 03:42:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQWKODEMY2DQMLGMFSGIZBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 전남광주 여수시 오동도 인근 해상에서 5명이 탑승한 1톤급 모터보트가 전복됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 여수 앞바다에서 모터보트가 뒤집히는 사고가 발생해 1명이 숨지고 1명이 실종됐다.&lt;br&gt;&lt;br&gt;8일 여수해양경찰서에 따르면, 이날 오전 9시 54분쯤 전남광주 여수시 오동도 인근 해상에서 5명이 승선한 1t급 모터보트가 뒤집혔다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;해경은 경비함정과 구조대를 현장에 급파해 4명을 구조했다. 1명은 심정지 상태로 병원으로 이송됐으나 숨졌다. 나머지 3명은 경상을 입고 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;해경은 실종된 1명을 찾기 위해 사고 해역을 중심으로 수색 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “국가·경기도, 선감학원 피해자에 정신적 피해 공동배상”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/08/QAGVXEOYKVH2NKDCBEMF2WZUTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/08/QAGVXEOYKVH2NKDCBEMF2WZUTY/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 02:14:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MLSFCOZZ5UXEKVDZCLAI7Q6HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제강점기 부랑아 교화라는 명목으로 아동·청소년에게 강제노역과 고문을 가한 ‘선감학원 사건’의 피해자들이 국가와 경기도를 상대로 낸 손해배상 소송에서 일부 승소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사30부(재판장 김석범)는 지난달 9일 선감학원 수용 피해자와 유족 등 3명이 국가와 경기도를 상대로 낸 손해배상 소송에서 피고들이 공동해 원고들에게 총 2억2888만원을 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;원고들은 1960~1970년대에 선감학원에 수용된 피해자들과 피해자의 유족이다. 이들은 “국가와 경기도가 위헌·위법한 방법으로 피해자들을 강제로 선감학원에 수용해 강제노역과 가혹행위 등에 처하게 했다”며 “피해자들의 인권을 유린했다”고 주장했다.&lt;br&gt;&lt;br&gt;국가와 경기도 측은 원고들이 주장하는 위자료가 과도하다며 책임을 회피했다. 국가 측은 “선감학원의 운영 주체는 경기도이며, 선감학원과 관련해 원고들이 입은 피해는 국가의 위헌·위법한 부랑아 정책으로 인한 것이라고 볼 수 없다”고 했다. 경기도 측은 “국가의 책임과 주도 아래 선감학원 설립 및 운영이 이뤄졌고, 경기도는 하위 행정기관으로서 기관위임을 받아 사무를 처리한 것에 불과하다”며 국가 측에 책임이 있다고 반박했다.&lt;br&gt;&lt;br&gt;재판부는 이러한 주장에 대해 “국가와 경기도의 행위는 공동불법행위를 구성한다”며 공동해 배상책임을 부담하라고 판단했다. &lt;br&gt;&lt;br&gt;재판부는 “선감학원 운영 주체가 어느 한곳에 국한된다고 평가할 수 없다”며 “경기도는 위헌·무효인 조례에 근거해 필요한 비용을 지출하는 등 선감학원을 실질적으로 운영·관리하면서 아동들의 신체의 자유를 침해하고 노동력을 착취했으며, 국가는 이러한 경기도의 행위를 관리·감독하지 않은 사실이 인정된다”고 판단했다. 그러면서 “피고들의 위법행위로 이 사건 피해자들은 선감학원에 수용돼 신체의 자유와 인간으로서의 존엄성을 침해당했기에, 피고들은 공동해 직접 피해자와 가족들에게 그로 인한 정신적 손해를 배상할 책임이 있다”고 했다.&lt;br&gt;&lt;br&gt;선감학원은 일제강점기인 1942년부터 경기 안산 선감도에 설립·운영된 시설이다. 부랑아 교화라는 명분으로 8~18세 아동·청소년을 강제 입소시켜 노역·폭행·학대 등 고문을 일삼았다. 광복 후에도 경기도가 이를 인수해 1982년 9월까지 존속했다. 2기 진실·화해를위한과거사정리위원회는 지난 2022년 선감학원 수용자 전원이 아동 인권침해 사건의 피해자라고 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>면목동 주택가서 60대 지인간 흉기 난동… 둘 다 사망</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/3UWOHFLA4BF3XNO7JK6L47LB3A/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 02:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYDKM3CMI3TQMDEMY2GCMZYGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중랑경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중랑구 면목동에서 60대 남성 2명이 서로에게 흉기를 휘두르는 사건이 발생해 둘 다 숨졌다.&lt;br&gt;&lt;br&gt;서울 중랑경찰서는 8일 새벽 4시쯤 중랑구 면목동의 한 주택가 집 안에서 흉기 난동 사건이 발생해 60대 남성 2명이 사망했다고 밝혔다. 한 명은 복부에, 다른 한 명은 오른팔에 자상을 입고 병원으로 옮겨졌지만, 끝내 숨졌다.&lt;br&gt;&lt;br&gt;이번 사건으로 숨진 남성 2명은 지인 사이인 것으로 파악됐다. 경찰은 금전 문제 등 다양한 가능성을 열어두고 구체적인 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>요양시설 임종 늘었지만…“법·수가 미비에 노인 절반은 여전히 병원서 마지막” </title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/08/D3LLI4MHSVBQ5B5VXEDZCDEKZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/08/D3LLI4MHSVBQ5B5VXEDZCDEKZ4/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 01:44:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWUCRDOKARB2PFVWU2PAQHVZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 경북의 한 요양 병원에서 복도를 걷는 노인 환자를 간병인이 부축하고 있다./신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령화가 가속화하면서 노인이 생활하던 요양 시설에서 편안하게 임종을 맞을 수 있도록 제도적 기반을 마련해야 한다는 분석이 나왔다. 요양 시설에서 임종할 경우 병원보다 의료비 부담이 크게 낮지만, 관련 법과 수가 체계가 미비해 상당수 노인이 마지막 순간 병원으로 이송되고 있다는 것이다.&lt;br&gt;&lt;br&gt;8일 건강보험연구원의 ‘노인 요양 시설 임종기 돌봄 체계 마련을 위한 연구’ 보고서에 따르면 2023년 65세 이상 사망자 28만6149명 중 양로원 등 사회복지 시설에서 사망한 비율은 7.1%(2만337명)로 2013년 5.1%(9771명)보다 약 2.1배 증가했다. 그러나 전체 노인 사망자의 77.4%(22만1462명)는 여전히 의료 기관에서 사망했다.&lt;br&gt;&lt;br&gt;사망 3개월 전 노인 요양 시설을 이용한 수급자 2만7760명을 추적한 결과, 사망 당일까지 요양 시설에 머물며 임종을 맞은 비율은 40.5%(1만1250명)에 그쳤다. 반면 57.0%(1만5810명)는 임종을 앞두고 병원으로 옮겨져 병원에서 사망한 것으로 나타났다.&lt;br&gt;&lt;br&gt;임종 한 달 전 1인당 월평균 총의료비는 요양시설 사망자가 142만5000원인 반면 병원 사망자는 614만5000원으로 약 4.3배 차이가 났다. 병원에서 임종한 경우 사망 시점이 가까워질수록 입원과 응급실 방문이 급증하면서 의료비 지출도 크게 늘었다.&lt;br&gt;&lt;br&gt;요양 시설에서의 임종 돌봄에 대한 수요도 높았다. 입소자 가족 보호자 530명을 대상으로 한 조사에서 80.6%가 시설 내 임종기 돌봄이 필요하다고 답했고, 88.3%는 연명치료 미시행·중단에 동의했다. 시설 임종을 원하는 가장 큰 이유로는 ‘익숙한 직원의 돌봄을 받으며 편안하게 임종할 수 있어서’(45.3%)가 꼽혔다. 시설장과 간호책임자의 68.1%, 계약 의사의 63.0%도 시설 내 임종기 돌봄이 필요하다고 답했다.&lt;br&gt;&lt;br&gt;하지만 의료서비스의 한계에 따른 임종 증상 관리, 돌봄 인력 부족, 사망진단서 발급 문제, 법적 분쟁 우려 등이 걸림돌로 지적됐다. 시설장(58.5%)과 계약 의사(58.9%)는 가장 필요한 제도적 지원으로 ‘임종기 돌봄 서비스 지침 개발 및 수가 신설’을 꼽았다.&lt;br&gt;&lt;br&gt;보고서는 연명의료결정법 적용 장소를 의료기관에서 요양 시설 등 지역사회로 확대하고, 사전돌봄계획 작성을 활성화하는 한편 계약 의사·가정 간호 등 의료인력과의 연계를 강화하는 법·제도 개선이 필요하다고 제안했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MJWWH6YUZFHO5GSSML73GXRVQQ.jpg?auth=146c7e860e1a006972e5cb59cd8575b233439c019696efa407c21819a3a6a9cd&amp;smart=true&amp;width=6582&amp;height=4388" type="image/jpeg" height="4388" width="6582">
+        <media:description type="plain">게티이미지뱅크 요양원</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>도로교통공단, 폭염에 운전면허 기능시험 축소·중단 </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/08/HQRDN5MYAVBJBDQWI7O2B42NZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/08/HQRDN5MYAVBJBDQWI7O2B42NZI/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 01:52:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2AIZUXDVFAHHGEA7C5Q3XVRKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 한국도로교통공단은 연일 폭염경보와 폭염중대경보가 이어짐에 따라 자동차 운전면허 기능시험을 한시적으로 축소하거나 중단한다고 8일 밝혔다./한국도로교통공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 폭염이 이어지면서 자동차 운전면허 기능시험이 한시적으로 축소·중단된다.&lt;br&gt;&lt;br&gt;한국도로교통공단은 폭염경보와 폭염중대경보가 이어짐에 따라 응시자와 현장 근무자의 온열질환 예방을 위해 기능시험을 한시적으로 축소하거나 중단한다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;공단은 상대적으로 기온이 낮은 오전 시간대에 시험을 집중 편성하고, 오후에는 체감온도가 35도 이상으로 오르면 시험 횟수를 조정할 방침이다. 체감온도가 38도에 이르면 기능시험을 중단한다.&lt;br&gt;&lt;br&gt;시험 축소·중단으로 일정 조정이 필요한 예약 고객에게는 변경 내용을 개별 안내할 예정이다. 각 운전면허시험장에는 이동식 야외 에어컨과 그늘막을 설치하고 양산을 비치하는 등 온열질환 예방 조치도 시행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>낮 최고 37도 무더위 계속...전국 곳곳 비 </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/08/F2CHIXBYNRBE5K4KXCCTEX4WSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/08/F2CHIXBYNRBE5K4KXCCTEX4WSY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 00:45:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IN5EQLSYIVATDDQGLBSUY74XDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연일 폭염 특보가 내려진 가운데 6일 오후 전남광주지역에 소나기가 내리고 있다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 8일 전국 대부분 지역에 폭염특보가 발효된 가운데 곳곳에 비가 내리겠다. 특히 동해안을 중심으로 매우 강하고 많은 비가 내리는 곳이 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 아침 최저기온은 22~27도, 낮 최고기온은 26~37도로 예보됐다. 전국 대부분 지역에서 최고체감온도가 35도 안팎까지 오르겠으며, 밤사이 기온이 25도 아래로 떨어지지 않는 열대야가 나타나는 곳도 많겠다.&lt;br&gt;&lt;br&gt;비는 이날 새벽 강원 동해안과 산지에서 시작해 아침에는 경북 동해안과 북동 산지, 오전에는 제주도 산지와 중산간으로 확대되겠다. 오후부터 밤사이에는 수도권과 강원 내륙, 충청권, 전라권, 경상권 내륙 곳곳에 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;일요일인 9일에도 전국에 무더위가 이어지고 강원 동해안과 경남권 등 일부 지역에 비가 내리겠다.&lt;br&gt;&lt;br&gt;비나 소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다. 특히 강원 동해안·산지와 경북 북부 동해안·북동 산지에는 매우 강하고 많은 비가 내릴 수 있어 피해가 없도록 유의해야 한다. 비가 내리는 동안에는 기온이 일시적으로 내려가겠지만, 비가 그친 뒤에는 습도가 높은 상태에서 기온이 다시 올라 무더위가 이어지겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“딥페이크 유포 안 했어도 위자료”… 법원서 잇따라 같은 판결</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/08/G7ZJK3W76ZHN7N4KTH5CLIL33I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/G7ZJK3W76ZHN7N4KTH5CLIL33I/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 01:42:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3TMZJVGY2TCYRZGY3WKYRZGQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 30일 대전경찰청에서 경찰, 대전시, 대전시교육청 등 유관기관 관계자들이 딥페이크 성 착취물 관련 범죄 집중단속 회의를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딥페이크(Deepfake) 허위 영상물을 만들고 실제로 이를 퍼뜨리지 않았더라도 위자료를 줘야 한다는 판결이 최근 연달아 나왔다.&lt;br&gt;&lt;br&gt;서울동부지법 민사6단독 이하림 판사는 딥페이크 피해자 A씨가 가해자 B씨를 상대로 낸 손해배상 청구 소송에서 “위자료 1200만원을 지급하라”고 지난달 8일 판결했다.&lt;br&gt;&lt;br&gt;B씨는 지난 2024년 6월부터 7월까지 합성 사진 기능이 있는 텔레그램 AI 봇으로 대학교 홍보대사를 맡고 있던 A씨의 얼굴 사진을 음란물에 합성한 딥페이크를 8차례 제작했다. B씨는 이와 관련해 앞선 형사 재판에서 A씨를 비롯한 피해자 23명에 대한 성폭력범죄의 처벌 등에 관한 특례법상 허위 영상물 편집 등 혐의가 유죄로 드러나 징역 5년이 확정됐다.&lt;br&gt;&lt;br&gt;재판부는 “B씨는 반포 등을 할 목적으로 딥페이크를 만들고 자신의 외장하드에 저장해 A씨가 입은 정신적 충격이 상당했을 것”이라며 “실제 허위 영상물을 전시 또는 반포한 사실을 인정할 증거는 없다고 해도 A씨는 허위 영상물이 언제라도 전시 또는 반포될 수 있다는 불안감에 정신적 고통을 호소하고 있다”고 밝혔다. 그러면서 “딥페이크 영상 제작 경위와 횟수, 정신적 충격의 정도, 불법행위의 중대성 등을 종합해 위자료를 1200만원으로 정한다”고 판단했다.&lt;br&gt;&lt;br&gt;서울중앙지법도 지난 5월 28일 같은 피고인 B씨를 상대로 피해자 C씨가 제기한 손해배상 청구 소송에서 위자료 800만원을 명했다. 당시 법원은 같은 취지로 정신적 고통을 고려해 위자료를 산정했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>말다툼 중 어머니 살해한 10대 아들 체포</title>
+      <link>https://www.chosun.com/national/incident/2026/08/08/AS5UQHBY4ZDEJFAPSDYP2NIJXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/AS5UQHBY4ZDEJFAPSDYP2NIJXY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 00:34:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XKCUM5SFREPZESXBBIPYJ2NA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 삼산경찰서./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 삼산경찰서는 존속살인 혐의로 A(18)군을 체포했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;A군은 지난 7일 오후 8시 30분쯤 인천 부평구 삼산동의 한 아파트에서 어머니인 40대 B씨를 흉기로 여러 차례 찔러 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A군은 범행 후 112에 자진 신고했으며, B씨는 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;A군은 B씨와 말다툼하던 중 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A군은 고등학교를 자퇴한 상태였고, A군의 아버지와 동생은 당시 집에 없었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A군의 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A군을 상대로 정확한 범행 동기 등을 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새벽 수원 권선구 아파트서 불… 90대·60대 모녀 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/08/08/AIZ6XM4KZRFLBE6VIAXICW3PLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/AIZ6XM4KZRFLBE6VIAXICW3PLY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 00:23:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KG4CE4PSPZBXXJ7TIRXQA45SHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·chatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원 한 아파트에서 불이 나 모녀가 숨졌다.&lt;br&gt;&lt;br&gt;8일 경기도소방재난본부에 따르면, 이날 오전 4시 35분쯤 경기도 수원 권선구 권선동 한 13층짜리 아파트 2층에서 불이 나 집 안에 있던 90대 여성 A씨와 60대 여성 B씨가 숨졌다. 이들은 모녀 관계인 것으로 확인됐다. 또 이 불로 아파트 주민 43명이 급히 대피했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방은 장비 18대와 인력 54명을 투입해 20여 분 만에 진화 작업을 마치고, 인명 수색 과정에서 심정지 상태인 모녀를 발견했다고 한다. 당시 불이 난 집에선 모녀만 거주하고 있었다. A씨는 고령으로, B씨는 질병으로 거동이 불편했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 안방에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>추미애 “세수 합리적 배분해야”… ‘반도체 벨트’ 기초단체 반발 조짐</title>
       <link>https://www.chosun.com/national/national_general/2026/08/08/UBVJMTS2CVDFZLYDDGTAFEE7KA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/UBVJMTS2CVDFZLYDDGTAFEE7KA/</guid>
@@ -817,90 +911,6 @@
 5일 서울 강남구 스타벅스 코리아 본사 매장. 경찰은 이날 ‘탱크데이’ 마케팅 논란과 관련해 스타벅스 코리아 본사 등을 압수수색했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5일에는 스타벅스 ‘탱크데이 논란’과 관련해 서울 강남구 소재 스타벅스코리아 본사에 대한 압수수색도 이뤄졌다. 경찰은 앞선 신세계그룹의 자체 감사 과정에서 프로모션 담당 직원 3명의 휴대전화가 제출되지 않은 점, 사내 메신저 기록의 저장 기간이 지난 점 등을 문제 삼아 압수수색을 펼쳤다. &lt;br&gt;&lt;br&gt;경찰이 연달아 속도를 내고 있는 두 사건은 모두 이재명 대통령이 자신의 소셜 미디어에 직접 언급한 사건이다. 이 대통령은 지난 6월 북중미 월드컵 조별리그 탈락과 관련해 “능력보다 내 편, 네 편을 더 중시해 무능한 사람을 지휘관으로 선발하면 결과는 불 보듯 뻔하다”며 대한축구협회의 인사 시스템을 비판하는 글을 올렸다. 지난 5월 18일에는 스타벅스 탱크데이 프로모션에 관해 “저질 장사치의 비인간적 막장 행태에 분노한다”며 “그에 상응하는 도덕적, 행정적, 법적, 정치적 책임이 주어져야 한다”고 했다. &lt;br&gt;&lt;br&gt;법조계에선 “그동안 유력 인사 사건은 결론을 내지 않고 오래 끌었던 경찰이 대통령이 직접 목소리를 낸 사건에는 열을 올리고 있다”는 지적이 나온다. 경찰은 최근 강선우 의원의 ‘쪼개기 후원금’ 의혹에 대해 수사 착수 26개월 만에 불송치 결정을 내렸다. 강 의원에게 후원금을 준 혐의를 받는 김성태 전 쌍방울 회장과 방용철 전 부회장은 검찰에 송치해 논란이 됐다. 경찰은 지난 4월에도 강 의원의 보좌진 갑질 의혹 관련 고발 사건을 모두 불송치 결정했다.&lt;br&gt;&lt;br&gt;김병기 의원의 보좌진 갑질, 차남 취업 청탁, 불법 정치자금 수수 등 의혹에 대한 수사도 지난해 9월 고발 이후 1년 가까이 늘어지고 있다. 김 의원을 경찰에 고발했던 시민단체와 김 의원에게 갑질을 당했다며 고소를 했던 전직 보좌관까지 “권력 눈치 보기 등 다른 사정으로 지연되는 것이 아니냐”며 잇따라 경찰에 수사심의를 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경기 양주 섬유공장서 화재… 4명 부상, 대응 1단계 발령</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/EG5I64MA6NAJBIAQZMKPN4LJSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/EG5I64MA6NAJBIAQZMKPN4LJSY/</guid>
-      <dc:creator>양주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 10:46:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPSSTZNDXFC6JCQWK3KLV3X32A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양주시 봉양동의 한 섬유 공장에서 화재가 발생한 모습./경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주의 한 섬유 공장에서 불이 나 4명이 다쳤다.&lt;br&gt;&lt;br&gt;6일 경기도북부소방재난본부에 따르면 이날 오후 6시 11분쯤 양주시 봉양동의 한 섬유공장에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방당국은 장비 26대와 인력 65명을 동원해 불을 끄고 있다.&lt;br&gt;&lt;br&gt;소방당국은 연소 확대 우려로 오후 7시 33분쯤 대응 1단계를 발령했다.&lt;br&gt;&lt;br&gt;이 불로 60대 여성이 연기를 흡입해 중상을 입고 병원으로 이송됐으며 3명이 발목 통증, 찰과상 등 경상을 입었다.&lt;br&gt;&lt;br&gt;화재 당시 공장에 있던 6명은 스스로 대피한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;불은 공장 건물 1개 동을 태우고 인근 건물로 번지고 있는 상황이다.&lt;br&gt;&lt;br&gt;화재로 검은 연기가 치솟으면서 관련 신고 122건이 접수됐다.&lt;br&gt;&lt;br&gt;소방당국과 경찰은 불을 끄는대로 정확한 화재 원인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대리운전 부업하다 성범죄’ 농식품부 산하기관 직원 구속</title>
-      <link>https://www.chosun.com/national/regional/2026/08/06/TPIY72RISVH6HCZLGQ43HCV7NY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/06/TPIY72RISVH6HCZLGQ43HCV7NY/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 09:30:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농림축산식품부 산하 공공기관인 가축위생방역지원본부 소속 직원이 성범죄를 저질러 경찰 수사를 받는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;대전대덕경찰서는 준강간 등 혐의로 가축위생방역지원본부 소속 계장급 직원 A씨를 구속 송치하고, 추가 범죄 혐의점에 대해 조사하고 있다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;피해 신고를 받고 수사에 착수한 경찰은 가축위생방역지원본부 사무실 등을 압수수색하고, 지난달 22일 A씨를 구속한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고 내용에 따르면 A씨는 대리운전 부업을 하다 피해자를 상대로 성폭행·불법 촬영하고 협박했다는 의혹을 받고 있다. 그는 소속 기관에서 겸직 허가를 받지 않은 채 무단으로 부업을 했고, 기관 소유 관용차를 사적인 용도로 사용했다는 의혹도 받았다.&lt;br&gt;&lt;br&gt;이에 대해 가축위생방역지원본부 측은 “내부 조사 결과 A씨가 관용차를 사적으로 쓴 적은 없는 것으로 확인돼 수사기관에 통보했다”며 “다른 의혹은 수사가 진행 중이라 조사에 성실히 협조하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;가축위생방역지원본부는 A씨가 구속된 직후 직위해제했고, 수사 결과가 나오는 대로 인사위원회를 열어 징계한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“창녕 중부내륙고속道에 포탄” 신고에 경찰 출동... 모의탄 확인</title>
-      <link>https://www.chosun.com/national/regional/2026/08/06/4ADAAKMDVJFOVPNMME3U676X2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/06/4ADAAKMDVJFOVPNMME3U676X2E/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 07:19:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EREQMQADBVAD3CGBOH5WA2ZOU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포탄 사진./고속도로순찰대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창녕군 중부내륙고속도로 창녕나들목(IC) 부근에서 포탄 추정 물체가 발견됐으나, 당국 조사 결과 모의탄으로 확인됐다. &lt;br&gt;&lt;br&gt;6일 오후 1시 28분쯤 창녕군 대합면 중부내륙고속도로 창녕나들목(IC) 인근에 “철제류 낙하물이 떨어져 있다”는 내용의 신고가 한국도로공사에 접수됐다.&lt;br&gt;&lt;br&gt;한국도로공사는 이 낙하물이 포탄인 것으로 확인했다.&lt;br&gt;&lt;br&gt;경찰 등이 폭발물 처리반(EOD)을 불러 이 물건을 확인한 결과 살상력이 없는 모의탄으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 현장을 통제하면서 정확한 사건 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;조사를 위해 도로를 일부 통제했던 한국도로공사는 이날 오후 3시 26분쯤 도로 일부를 다시 개통한 상태다.&lt;br&gt;&lt;br&gt;현재 일대에는 약 7㎞ 정체가 빚어지는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>본회의서 유튜브 댓글 단 김상욱 시장… 시의회 “민주주의 훼손”</title>
-      <link>https://www.chosun.com/national/regional/2026/08/06/ZRQDADUXNNHHFETKSJWSFJCD2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/06/ZRQDADUXNNHHFETKSJWSFJCD2A/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 09:10:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2DQMZXGE2WKYTFMU3TGMJXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공진혁 울산시의원을 비롯한 국민의힘 소속 울산시의원들이 6일 울산시의회 프레스센터에서 김상욱 울산시장이 본회의에서 유튜브 댓글을 단 것을 비판하는 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘시민과의 소통’을 앞세운 김상욱 울산시장의 유튜브 행보가 이번에는 시의회 본회의장에서 논란을 빚으면서 시의회와 갈등 양상을 보이고 있다.&lt;br&gt;&lt;br&gt;국민의힘 소속 울산시의회 의원들은 6일 기자회견을 열고 “김 시장이 지난 4일 열린 본회의에서 안건 심의와 5분 자유발언이 진행되는 동안 태블릿PC로 의회 유튜브 생중계를 시청하며 실시간 댓글을 작성했다”며 “본회의 심의에 충실해야 할 시장의 책무를 소홀히 한 것으로 비칠 수밖에 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이는 의회를 향한 예의의 문제를 넘어 시민 앞에서 이뤄지는 공적 절차와 민주주의의 기본 질서를 스스로 훼손한 매우 부적절한 행위”라며 재발 방지를 촉구했다.&lt;br&gt;&lt;br&gt;김 시장은 당시 본회의장에 참석한 가운데 시의회 유튜브 생중계 댓글 창에 “반갑습니다. 김상욱입니다” “시민들의 의견을 댓글로 많이 부탁드립니다” “오늘 행정기구 설치 조례가 반드시 통과돼야 하기에 의장님께 각별히 부탁드렸습니다” 등의 글을 남겼다.&lt;br&gt;&lt;br&gt;이를 본 일부 시민은 “시의회보다 댓글 소통이 더 중요한가” “소통도 좋지만 때와 장소를 가려야 한다”는 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이에 김 시장은 댓글을 통해 “시의원님들 말씀을 들으면서 시민과 소통하는 것”이라며 “의원님들 말씀을 메모하면서 댓글도 짬짬이 올리고 있다”고 답했다.&lt;br&gt;&lt;br&gt;논란이 불거지자 김 시장은 5일 자신의 SNS에 올린 숏폼 영상을 통해 “의회 본회의장에 시민들이 참관할 수 있어야 하고, 의견도 제시할 수 있어야 한다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “대부분의 시민은 시의회에 오는 것이 쉽지 않아 라이브 방송으로 함께하시는데, 그분들 의견이 참 소중하다”며 “제가 시장으로 출석은 하지만 말할 기회가 있지는 않아서, 시민 의견을 보고 함께 소통하고 싶었다”고 댓글을 쓴 이유를 설명했다.&lt;br&gt;&lt;br&gt;유튜브를 둘러싼 김 시장과 시의회의 갈등은 이번이 처음은 아니다.&lt;br&gt;&lt;br&gt;지난달 열린 확대의장단 간담회에서는 권태호 시의원이 김 시장에게 “시장님께 관종병이 있다는 말씀을 하는 시민들이 있다”고 말했고, 김 시장은 이후 개인 유튜브 방송에서 “시장 면전에서 그런 표현을 쓰는 것은 받아들이기 어렵다”고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 특검, ‘내란 가담’ 의혹 대검찰청 다시 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/06/EKU6ULW5TVHP3N2STJYWUD2A6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/EKU6ULW5TVHP3N2STJYWUD2A6Q/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 08:38:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DIMDGHA2WMN3BG5RTCNBSHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 내란 가담 및 즉시항고 포기 관련 직권남용 의혹을 받는 심우정 전 검찰총장이 지난 7월 16일 구속 전 피의자 심문(영장실질심사)을 받고 서울 서초구 서울중앙지법을 나서고 있다. 이날 법원은 2차 종합특검이 청구한 심 전 총장의 구속영장을 기각했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검은 6일 심우정 전 검찰총장과 전무곤 전 검사장(전 대검찰청 기획조정부장)의 내란 중요 임무 종사 등 혐의와 관련해 대검찰청 비상안전담당관실 관계자와 정보통신과를 압수수색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;대검 비상안전담당관은 임기제 서기관으로, 국가비상사태에 대처하기 위한 계획을 만들고, 정부비상훈련이나 직장예비군 관리 등을 맡는다.&lt;br&gt;&lt;br&gt;심 전 총장은 2024년 12월 3일 비상계엄이 선포된 직후 박성재 전 법무부 장관 지시로 계엄 합동수사본부(합수부)에 검사 파견을 검토한 혐의를 받고 있다. 특검은 비상계엄 직후 대검 간부회의에서 관련 논의가 있었을 것으로 의심하고 있다. 심 전 총장은 작년 3월 법원의 윤 전 대통령 구속 취소 결정에 즉시항고를 하지 않은 혐의도 있다.&lt;br&gt;&lt;br&gt;그러나 2차 특검이 내란 중요 임무 종사와 직권남용 혐의로 심 전 총장과 전 전 검사장에 대해 청구한 구속영장은 지난달 16일 기각됐다. 당시 서울중앙지법 부동식 영장전담 부장판사는 “(심 전 총장 등의) 변소 취지와 수집된 증거 등에 비춰 증거 인멸 염려에 대한 소명이 부족하고 도망 염려가 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;심 전 총장과 전 전 검사장은 비상계엄이 선포될지를 사전에 알지 몰랐고, 선포 직후에는 관련법에 따라 검찰이 해야 할 업무가 있는지 확인했을 뿐이라는 입장이다. 즉시항고를 하지 않는 결정도 대검 참모들과 논의 후 결정했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>18~21일 전국서 을지연습… 핵심 인프라 피해 대응 훈련</title>
-      <link>https://www.chosun.com/politics/diplomacy-defense/2026/08/06/Q572T35F6RHXHPKOV6HX3SQEMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2026/08/06/Q572T35F6RHXHPKOV6HX3SQEMA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 08:21:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMDMLDCARFIQ3ESMARBAR22GOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 서울 종로구 정부서울청사에서 한성숙 국무총리 주재로 2026년도 을지연습 준비 보고 회의가 열리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 6일 국가 총력전 상황에 대비하는 훈련인 을지연습의 준비 상황을 점검하는 회의를 열고, 올해 을지연습에서는 국가 핵심 기반 시설이 피해를 본 상황을 가정한 대응 훈련과 사이버 공격이 들어오는 상황을 가정한 실시간 방어 훈련을 중점적으로 하기로 했다.&lt;br&gt;&lt;br&gt;국무총리실은 이날 오후 정부서울청사에서 한성숙 국무총리가 주재하는 2026년도 을지연습 준비 보고 회의를 열어 이같이 결정했다고 밝혔다. 회의에는 모든 중앙행정기관장과 시·도지사, 헌법재판소·중앙선거관리위원회 고위 관계자와 군 최고위 간부들이 참석했다.&lt;br&gt;&lt;br&gt;을지연습은 전시·사변 또는 이에 준하는 국가 비상사태가 일어났을 때 국민의 생명과 재산을 보호하는 것을 목표로 정부 차원에서 전국 단위로 실시하는 비상 대비 훈련이다. 한미 연합 연습과 연계해 매년 1회 실시되고, 올해는 오는 18일부터 21일까지 3박 4일간 진행된다. 읍·면·동 이상의 행정기관과 공공기관·단체, 중점 관리 대상 업체 등 4000여 곳에서 58만여 명이 참여할 예정이다.&lt;br&gt;&lt;br&gt;한 총리는 “최근 안보 환경이 빠르게 변화하고 있다”며 “러시아·우크라이나 전쟁과 중동 지역의 무력 충돌은 현대전이 군사적 충돌을 넘어 국가 핵심 기반 시설과 국민의 일상까지 직접 위협할 수 있음을 보여 주고 있다”고 했다. “인공지능(AI), 드론, 사이버 공격 등 새로운 형태의 위협도 현실화하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한 총리는 “이런 안보 환경에서 정부의 대응 역량은 군사 작전 지원뿐 아니라 국민의 일상 유지와 국가 기능 지속까지 포괄해야 한다”며 “AI와 드론, 사이버 공격, 복합 재난 등 위협 요인을 연습 시나리오에 적극 반영해 보다 현실적이고 실효성 있는 훈련이 이뤄질 수 있도록 준비해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;또 “각 기관은 주민 참여형 실제 훈련을 실시하고 홍보를 다각도로 추진해, 국민이 비상시 행동 요령을 익힐 수 있도록 적극 노력해 달라”고 했다.&lt;br&gt;&lt;br&gt; “올해 을지연습은 정부 조직 개편과 지방 행정 체계 개편 이후 처음 실시되는 것인 만큼, 각 기관은 새로운 업무 체계에 맞춰 비상 대응 체계를 정비하고, 실제 상황에서도 차질 없이 작동할 수 있도록 해 달라”고도 했다.&lt;br&gt;&lt;br&gt;정부는 이번 을지연습에서 전력·에너지 시설과 공항·항만·도로 등 국가 핵심 기반 시설이 피해를 본 상황을 가정해 기관당 1훈련을 실시하도록 하고, 이와 별도로 국가정보원 주관으로 정부와 군, 관계 기관이 합동해 실시간 사이버 방어 훈련을 실시하기로 했다.&lt;br&gt;&lt;br&gt;또 기관장의 책임과 역할을 확대하기 위해, 각 기관장이 훈련을 직접 주관하도록 하고, 전시 과제 토의와 상황 조치 훈련에도 직접 참여하도록 했다. 경제·과학기술부총리가 주재하는 ‘을지 관계 장관 회의’도 신설된다.&lt;br&gt;&lt;br&gt;전 공무원 비상 소집 훈련, 전시 창설 기구 편성, 정부·군 통합 상황 대응 연습, 전시 전환 절차 숙달을 위한 을지 국무회의도 예년처럼 실시된다. 오는 20일에는 전 국민이 참여할 수 있는 전국 단위 공습 대비 민방위 훈련이 실시된다. 주민 대피, 긴급 차량 길 터주기, 차량 통제 등을 실제로 연습한다.&lt;br&gt;&lt;br&gt;한 총리는 “국민 여러분께서도 훈련 기간 관계 기관의 안내에 적극 협조해 주시고, 공습 단위 민방위 훈련에도 함께 참여해 국민 행동 요령을 직접 실천해 주시기를 부탁드린다”고 했다. 기관장들에게도 “여러분이 솔선수범해 연습을 이끌어 주신다면, 이번 을지연습은 국가 비상 대비 태세를 강화하고 국민께 더욱 큰 신뢰를 드릴 수 있는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“정청래 암살단 모집” 테러 모의 일당 檢 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/35DOKIVQZNE3NAKAKP2KBMPWQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/35DOKIVQZNE3NAKAKP2KBMPWQU/</guid>
-      <dc:creator>윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 07:45:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2DKYZYMI2WKOLCGFRDSNRTHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 전 더불어민주당 대표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 소셜미디어에서 정청래 전 더불어민주당 대표를 겨냥한 테러를 모의한 일당을 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;서울 영등포경찰서는 6일 정 전 대표를 겨냥한 테러를 모의한 피의자 2명을 협박 혐의로 지난달 10일 불구속 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;이들은 6·3 지방선거를 앞둔 지난 5월 소셜미디어에서 ‘정청래를 죽이자’ ‘정청래 암살단 모집’ 등의 내용이 포함된 게시글을 올려 테러를 모의한 혐의를 받는다. &lt;br&gt;&lt;br&gt;더불어민주당은 지난 5월 16일 경찰에 수사를 의뢰하고 정 전 대표에 대한 신변 보호를 요청했다. &lt;br&gt;&lt;br&gt;한편 경찰은 지난달 20일 정 전 대표가 탄 차량을 습격한 50대 남성 A씨도 재물손괴 혐의로 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 7일 금요일 (음력 6월 25일 癸丑)</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/7YT2AYZJHJFOJP4SQIM4MTUZNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/7YT2AYZJHJFOJP4SQIM4MTUZNU/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘뇌물수수’ 이어 ‘업무방해’도… 충북도 대외협력 보좌관 내정자 논란 확산</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/08/06/R2DSRCWBRNAITJMUBS2Q57HAZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/08/06/R2DSRCWBRNAITJMUBS2Q57HAZQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 07:26:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYGKMJUMQYWCMTEGE3TENRYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신용한 충북지사가 6일 창업특별도 종합계획 발표 기자회견에서 박병국 대외협력보좌관(2급 상당) 내정자에 대한 논란을 해명했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물수수로 실형을 선고받아 공직 적격성 논란을 빚었던 박병국 충청북도 대외협력보좌관(2급 상당) 내정자가 과거 공공기관 임원 재직 중 업무방해 사건으로 직위해제됐던 사실이 새롭게 확인됐다. 출소 후 공직 복귀 과정에서도 또다시 형사사건에 휘말려 물의를 빚은 이력이 드러나며 임용을 둘러싼 논란은 더욱 거세질 전망이다.&lt;br&gt;&lt;br&gt;김꽃임 충북도의원은 6일 보도자료를 내고 “박 내정자가 2021년 경기도시장상권진흥원 상임이사 재직 당시 업무방해 혐의로 경찰에 입건돼 직위해제됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;감사 자료와 당시 보도 등에 따르면, 박 내정자는 경기도 용인시의 한 카페에서 업주에게 음료 배달을 요구했다가 거절당하자 욕설을 하는 등 행패를 부린 혐의를 받았다. 경찰 수사 끝에 최종 기소유예 처분을 받은 박 내정자는 사건 직후 사직 의사를 밝혔으나, 수사 중인 상근 임원의 의원면직을 제한하는 정관에 따라 사표 대신 직위해제 처분을 받았다.&lt;br&gt;&lt;br&gt;이후 2023년 경기도 종합감사에서는 직위해제 기간 지급된 성과급이 ‘부적정 지급’으로 지적돼 회수 조치가 내려지기도 했다.&lt;br&gt;&lt;br&gt;경찰 경무관 출신인 박 내정자는 2012년 기업인으로부터 수천만 원 상당의 금품과 향응을 받은 혐의로 구속 기소돼, 2013년 징역 2년 6개월의 실형을 확정받았다. 2015년 만기 출소 후 2021년 경기도시장상권진흥원 상임이사로 임명될 당시에도 뇌물죄 전력으로 적격성 논란을 겪은 바 있다.&lt;br&gt;&lt;br&gt;김 의원은 “15년간 반성해 왔다는 주장의 진정성을 의심할 수밖에 없다”며 “뇌물수수 전력에 더해 공공기관 재직 중 직위해제된 인사까지 충북도를 대표하는 대외협력특보로 발탁한 이유를 납득하기 어렵다”고 꼬집었다.&lt;br&gt;&lt;br&gt;이어 “충북도는 국비 확보와 대외 협력을 발탁 명분으로 내세우지만, 박 내정자가 중앙정부를 상대로 어떤 성과를 냈는지 구체적인 근거를 제시하지 못하고 있다”며 “오히려 반대하는 이들에게 책임을 돌리고 도민을 겁박하는 방식으로 비쳐질 수 있다”고 비판했다.&lt;br&gt;&lt;br&gt;시민사회단체의 반발도 거세다. 충북참여자치시민연대는 같은 날 성명을 내고 “도민이 묻는 것은 임용 이후의 관리가 아니라 임용 자체의 적절성”이라며 “재정난과 국비 확보를 이유로 인사 원칙을 허물면 ‘공직 부패 전력이 있어도 인맥만 있으면 고위직에 오를 수 있다’는 위험한 선례를 남기게 될 것”이라고 임용 중단을 촉구했다.&lt;br&gt;&lt;br&gt;이 같은 논란에 대해 신용한 충북지사는 “업무방해 사건은 오늘 처음 알았다. 사실관계를 확인한 뒤 판단하겠다”면서도 기존의 임용 강행 의사를 고수했다.&lt;br&gt;&lt;br&gt;신 지사는 “충북은 정부 예산 확보와 공모 사업에서 절대적인 열세에 있어 중앙 인맥을 통한 자문이 절실하다”며 “여러 루트를 통해 충북에 기여할 수 있는 인사임을 확인해 직접 요청했다. 1년의 계약 기간 동안 성과를 낼 기회를 주고 부응하지 못하면 단호히 결정하겠다”고 해명했다.&lt;br&gt;&lt;br&gt;그러나 박 내정자의 구체적인 성과나 발탁 이유에 대해 묻는 질문에는 “개인적인 부분이라 말씀드리기 어렵다”며 명확한 답변을 피했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>달콤한 ‘스테비아 토마토’... 농산물 아닌 가공식품이었다</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/08/06/4B4LNHNFEBERNESHJKA2YIEA7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/06/4B4LNHNFEBERNESHJKA2YIEA7I/</guid>
@@ -940,15 +950,6 @@
 &lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">김주형</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>송영길 前 보좌관 징역 1년 2개월 확정..‘돈봉투 살포’는 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/06/TZDDOCIBNVB6VMAC5ICTZZPCJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/TZDDOCIBNVB6VMAC5ICTZZPCJM/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 04:56:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRWGMDFHBRDSZLDGAZTAYJRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전당대회 '돈봉투' 의혹의 핵심으로 지목된 송영길 전 대표의 전직 보좌관 박용수씨.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘더불어민주당 전당대회 돈봉투 살포 의혹’ 등으로 기소된 송영길 민주당 의원의 전 보좌관 박용수씨에 대한 실형이 대법원에서 확정됐다. &lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 지난 6월 정당법·정치자금법 위반 등 혐의로 징역 1년 2개월에 추징 9240만원을 선고받은 박씨 측의 상고를 기각했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 2021년 5월 민주당 전당대회에서 송 의원을 당대표로 당선시키기 위해 같은 해 4월 이정근 전 민주당 사무부총장 등과 함께 민주당 의원 등에게 6750만원을 돈봉투에 나눠 살포한 혐의(정당법 위반)로 2023년 7월 기소됐다. 2020년 5~10월에는 컨설팅업체 ‘얌전한 고양이’에 송 의원 관련 여론조사를 의뢰하면서 비용 9420만원을 외곽 조직인 ‘평화와 먹고사는 문제연구소(먹사연)’가 대신 내도록 한 혐의(정치자금법 위반)도 있다. 대납 사실을 은폐하기 위해 허위 견적서를 작성한 혐의(범죄수익은닉규제법 위반)와 먹사연 관계자에게 컴퓨터 하드디스크 교체를 지시해 증거를 인멸하도록 교사한 혐의(증거인멸교사) 등도 포함됐다.&lt;br&gt;&lt;br&gt;1·2심은 여론조사 비용 대납 혐의에 대해선 징역 8개월에 추징금 9240만원을, 허위 견적서 작성 및 증거인멸교사 혐의에는 징역 6개월을 선고했다. 재판부는 “박씨가 정치자금법을 위반해 먹사연으로부터 정치자금을 수수했고, 이를 은폐하려고 허위 견적서 등을 작성했다”고 판단했다.&lt;br&gt;&lt;br&gt;그러나 1·2심 모두 돈봉투 살포 관련 혐의는 무죄로 판단했다. 재판부가 핵심 증거인 이른바 ‘이정근 휴대전화 녹음파일’이 위법수집증거라며 증거능력을 인정하지 않았기 때문이다. 재판부는 “이정근씨가 휴대전화 3대를 임의로 검사에게 제출한 사실은 인정된다”면서도 “검사가 전자 정보 제출 범위를 명확히 확인하지 않고 전체를 압수한 것은 위법하다”고 했다.&lt;br&gt;&lt;br&gt;검찰과 박씨 측은 각각 무죄와 유죄 부분에 불복해 상고했다. 그러나 검찰은 지난 2월 무죄가 나온 돈봉투 살포 혐의에 대해 상고를 취하했고, 대법원이 박씨 측 상고를 기각하며 실형이 확정됐다.&lt;br&gt;&lt;br&gt;돈봉투 살포 의혹 등으로 재판에 넘겨졌던 송영길 의원도 지난 2월 검찰의 상고 포기로 무죄를 확정받았다. 재판부는 박씨와 마찬가지로 이 전 사무부총장 녹음파일의 증거능력을 인정하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘미성년 피해자 2명’… 경찰, 최영중 전 시의원 구속 송치</title>
