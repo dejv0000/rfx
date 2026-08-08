@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 사하구 철강 공장서 불...대응1단계 발령</title>
+      <link>https://www.chosun.com/national/incident/2026/08/08/STPK2APOKJHHBNZSOL2JHXYLJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/STPK2APOKJHHBNZSOL2JHXYLJ4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Aug 2026 11:41:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7C6IY7JKMBGTRPTLPASV543L5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 부산 사하구 한 철강 제조 공장에서 불이 나 소방 대원들이 진화 작업을 벌이고 있다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 사하구 한 철강 제조 공장에서 불이 났다. 소방 당국은 대응 1단계를 발령하고 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;8일 부산소방재난본부에 따르면, 이날 오후 6시 49분쯤 부산 사하구 구평동 한 철강 제조 공장에서 불이 났다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방은 이날 오후 7시 30분쯤 대응 1단계를 발령해 진화 작업을 벌이고 있다. 대응 1단계는 관할 소방서 인력과 장비를 모두 동원하는 조치다. 장비 37대와 소방대원 등 88명이 투입됐다. &lt;br&gt;&lt;br&gt;현재까지 인명 피해는 없다고 소방은 전했다. 소방 관계자는 “공장 내에 있는 철강 보관 창고에서 불이 난 것으로 추정된다”며 “창고에는 고철이 2000t 정도 쌓여 있다. 철을 외부로 옮기면서 불을 끄고 있어 완진까지는 시간이 상당히 소요될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;사하구청은 인근 주민들에게 “위험물(유해 화학 물질) 누출 사고 발생. 인근 주민은 외출을 자제해 달라”는 내용의 재난안전 문자를 보냈다. 하지만 소방 당국은 다량의 연기가 발생하고 있지만 현재까지 창고 내부엔 유해 화학물 등은 없는 것으로 파악된다고 전했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 화재를 진압하는 대로 정확한 화재 원인과 피해 규모 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“침대에 묶여 있었다” 천안 교회서 지내던 11살 숨져</title>
       <link>https://www.chosun.com/national/incident/2026/08/08/JYOEJTW36VDINOGUUCRF22JS7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/08/JYOEJTW36VDINOGUUCRF22JS7U/</guid>
@@ -835,15 +844,6 @@
       <description/>
       <pubDate>Thu, 06 Aug 2026 15:42:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5AOFJE6RJH6ZFMB5YH7HUS7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 동대문구 120다산콜센터에서 한 상담원이 시민의 민원 전화를 받고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 10월 이란에서 ‘Foad128’이라는 콜센터 서비스가 시작됐다. 이란 정부가 운영하는 대국민 상담 전화다. 이란 128콜센터는 서울시의 ‘120다산콜센터(이하 120콜센터)’를 벤치마킹했다. 당시 주한 이란 대사관과 이란 정부가 서울시에 “상담 노하우 등을 전수해 달라”고 먼저 요청했다고 한다. 서울시는 주한 이란 대사관 직원들에게 120콜센터 상담 현장을 공개했고, 이란 스마트정부개발국장 등 이란 정부 관계자들에게 상담 노하우를 전수했다.&lt;br&gt;&lt;br&gt;2007년 문을 연 서울시의 120콜센터는 주민 종합 서비스 플랫폼으로는 국내 최초다. 올해로 20년째 운영 중이다. 청소년에서부터 여성, 노인, 외국인까지 하루 이용객만 1만7000여 명에 이른다. 120콜센터 모델은 전국 지방자치단체, 공기업 등을 넘어 해외에까지 수출되고 있다. 경기 파주시는 ‘민원 콜센터’란 이름으로 120콜센터 시스템을 벤치마킹했고, 울산시는 ‘120 민원센터’ 설립 계획을 세웠다. 일본과 두바이, 싱가포르, 몽골, 태국, 베트남 등 여러 국가에서 120콜센터를 배우러 서울을 찾고 있다.&lt;br&gt;&lt;br&gt;120콜센터는 서울시와 산하기관, 25개 구청 민원을 하나로 통합해 처리해주는 종합 상담 시스템이다. 120콜센터 이전에는 서울 각 기관의 민원 처리 전화번호가 52개나 됐다. 시민들은 민원 제기나 문의를 하려면 ‘어느 번호’로 전화해야 하는지부터 찾는 게 일이었다. 눈앞에 보이는 위험 시설물을 신고하려고 전화를 걸면 “담당이 아니다”라며 전화를 돌리는 이른바 ‘전화 뺑뺑이’가 일상이었다. 이에 서울시는 2007년 “천만 도시 서울의 문제를 해결하기 위해 통합 시스템이 필요하다”며 52개 상담 번호를 ’120′ 하나로 통합한 서비스를 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYEGDLNTBNDHXGT6E26XQKPUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초기엔 전화 상담이 대부분이었지만, 지금은 문자·채팅·챗봇 등 접수 채널도 다양화했다. 복잡한 상담 접수는 전화로, 민원 처리 결과는 문자나 카카오톡으로 전달한다. 지난 6월 서울 종로구 창신동에 사는 김모(38)씨가 120에 전화를 걸어 “집 앞에 쓰레기가 쌓여 있다”고 신고하자, 상담원이 정확한 주소와 현장 상황을 체크했다. 몇 분 뒤 김씨 휴대전화로 ‘시민님의 쓰레기 무단 투기 민원을 상담사가 종로구로 접수했습니다’라는 문자메시지가 왔다. 120콜센터 상담원이 담당 부서와 담당자를 찾아 대신 민원을 접수한 뒤, 처리 과정을 문자로 통보해 준 것이다. 다음 날 김씨 집 앞에 쌓여 있던 쓰레기는 말끔히 치워졌다.&lt;br&gt;&lt;br&gt;120콜센터 서비스는 갈수록 진화하고 있다. 최근엔 수화(手話), 외국어(영어·일어·중국어·베트남어·몽골어) 상담도 운영 중이다. 젊은 층이 많이 쓰는 인스타그램·카카오톡·X(옛 트위터) 등 소셜미디어로도 상담을 받는다.&lt;br&gt;&lt;br&gt;상담 영역도 넓히고 있다. 작년 4월부터는 ‘외로움 안녕 120’ 서비스를 시작했다. 서울 시민의 외로움·고립·은둔 문제를 전화로 상담해주는 서비스다. 서울의 1인 가구 비율은 39.3%. 이 중 60% 이상이 “외로움을 느낀다”고 답할 정도로 고립 문제가 심각해지자, 120콜센터가 직접 나선 것이다. “뇌출혈로 쓰러진 뒤 사람들과 어울리기 어렵다”고 시민이 고민을 털어놓으면, 120콜센터는 정신건강복지센터 상담과 주민센터 담당자를 연결해 준다. “백수인 내가 무가치한 사람 같다”는 청년에게는 서울시의 자존감 코칭 프로그램과 취업 센터를 소개한다. 이 청년은 여덟 차례에 걸친 상담 끝에 직장을 구하는 데 성공했다. 외로움 상담은 올해 상반기에만 5만3403건 진행됐다. &lt;br&gt;&lt;br&gt;최근에는 호출 앱 사용이 서툴러 택시 잡는 데 애를 먹는 어르신들을 위해 ‘택시 호출 서비스’도 시작했다. 고령층에게 콜택시를 불러주는 ‘동행 온다 콜택시’ 서비스를 120콜센터에 통합한 것이다. &lt;br&gt;&lt;br&gt;120콜센터 상담 건수는 지난 한 해 총 476만4000여 건이었다. 올 상반기에만 벌써 231만건이 넘어섰다. 120으로 번호를 통합하기 전에는 보통 67분 정도 대기했었는데, 지난해 기준으로 통화 대기 시간이 23초로 줄었다. 민원 처리 기간도 3.8일에서 2.7일로 단축됐다. 서울시 관계자는 “필요한 서비스 영역을 계속 발굴하는 한편, 민원 처리 만족도도 높여 120콜센터가 시민들의 만능 해결사가 될 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2923] 사다리를 타자</title>
-      <link>https://www.chosun.com/national/nie/2026/08/07/DOBCY6GWSBEBHII7HMTHXCTXNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/07/DOBCY6GWSBEBHII7HMTHXCTXNA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRO4UV5S4ZEOJPZKM2OTMFQMV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문으로 배우는 실용한자] 체벌(體罰)</title>
