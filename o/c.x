@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>고령화에 커지는 건보 적자…올해 1분기에만 4조원 육박 </title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/09/CVU2GLTSNZCWPPS3SN6PN5X7NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/09/CVU2GLTSNZCWPPS3SN6PN5X7NI/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 13:17:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXHLBUMS3VLVFNCVBG6POXSODY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 국민건강보험공단 지사/연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 1분기 국민건강보험 재정이 4조원에 육박하는 적자를 기록했다. 지난해까지 5년 연속 이어진 연간 흑자 규모가 빠르게 줄어든 가운데, 올해는 6년 만에 연간 적자로 돌아설 가능성이 커졌다.&lt;br&gt;&lt;br&gt;9일 국회 보건복지위원회 소속 전진숙 더불어민주당 의원이 국민건강보험공단에서 받은 자료에 따르면, 올해 1분기 건강보험 수입은 22조4416억원, 지출은 26조3405억원으로 총 3조8989억원 적자를 기록했다.&lt;br&gt;&lt;br&gt;건보 재정은 2018~2020년 3년 연속 적자를 낸 뒤 2021년 2조8229억원 흑자로 돌아섰다. 이후 2022년 3조6291억원, 2023년 4조1276억원으로 흑자 규모가 커졌지만, 2024년 1조7244억원, 지난해 4996억원으로 2년 연속 급감하더니 올해 1분기 결국 적자로 돌아섰다. &lt;br&gt;&lt;br&gt;건보 재정 악화의 요인으로는 저출생·고령화에 따른 인구 구조 변화가 꼽힌다. 건강보험료를 내는 생산연령 인구는 줄어드는 반면, 의료 이용량이 많은 고령층은 빠르게 늘어나면서 지출 증가 속도가 수입을 앞지르는 구조가 굳어지고 있다는 것이다. 실제로 전체 건강보험 가입자 중 65세 이상 노인이 차지하는 진료비 비중은 2023년 44.1%에서 2030년 53.1%, 2050년에는 70.2%로 급증할 것으로 전망됐다. &lt;br&gt;&lt;br&gt;앞서 정부도 올해 건보 재정이 적자로 돌아설 것으로 예측했다. 보건복지부는 2024년 ‘제2차 국민건강보험 종합계획’ 수립 당시 올해 건보 재정의 당기 수지가 적자로 전환될 것으로 봤다. 지난해 9월 국민건강보험공단 재정운영위원회 검토 과정에서도 올해 당기 수지가 적자로 바뀌고 이후 적자 상황이 지속될 것이란 전망이 나온 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>월20만원에 검사가 움직일까... 중수청이 신설한 ‘수당’</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/09/TVVEHK7ZYZCBBOOXZ2YTB5CKWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/09/TVVEHK7ZYZCBBOOXZ2YTB5CKWM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLL6JOR6PJOLXE5EG6GRPWMEP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오전 강원 춘천시 춘천지검에서 중대범죄수사청 개청준비단 관계자들이 임용 설명회에 참석하기 위해 청사 안으로 들어가고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 출범하는 중대범죄수사청(중수청)이 수사관에게 매달 최대 20만원의 수당을 지급하는 방안을 검토 중인 것으로 9일 알려졌다. 개청 초기 중수청으로 옮겨가는 검사가 많지 않을 것이란 전망이 나오자, 인력 확보를 위해 이같은 대안을 내놓은 것으로 풀이된다.&lt;br&gt;&lt;br&gt;중수청은 ‘중대범죄수당’을 신설하고 경력과 직무에 따라 소속 수사관들에게 월 10만~20만원을 지급하는 방식을 추진 중이다. 현재 검사는 일반 공무원과 같이 봉급조정수당, 관리업무수당, 정근수당을 받을 뿐 아니라 월 10만~40만원의 ‘수사지도수당’도 따로 받고 있다. 중수청 개청준비단 측은 검찰청에서 중수청으로 옮기는 과정에서 기존에 지급받던 수당이 줄어드는 경우 감소분을 보전하고, 수사활동비·출장비·당직비 등도 기존 검찰 수준으로 지급할 수 있도록 유관 부처와 협의 중이라고 한다. 관사와 숙소, 거주 이전비를 지원하고 맞춤형 복지와 건강검진, 생일 경비, 단신 부임자 교통비 등도 검찰 수준으로 마련할 계획이다.&lt;br&gt;&lt;br&gt;중수청의 수당 신설 배경엔 “처우 악화 등을 이유로 중수청 전직을 꺼리는 검사들이 많다”는 지적이 있었던 것으로 보인다. 검찰에서 중수청으로 옮기는 검사는 법조 경력에 따라 수사관 계급을 받는다. 지검장급은 1급, 차장·부장검사급은 2급이다. 경력 10년 이상 검사는 3급, 10년 미만 검사는 4급으로 임용된다. 검찰의 평검사가 통상 3급 상당 대우를 받아온 것과 비교하면, 저연차 검사 출신의 직급은 한 단계 낮아졌다. &lt;br&gt;&lt;br&gt;그러나 검찰 내부에선 수당의 소폭 상승만으로는 중수청으로의 검사 유입 효과가 미미할 것이란 목소리가 나온다. 한 평검사는 “구체적인 업무 방식과 직제, 처우 대부분이 확정된 것은 없고 협의 중이거나 계획 중이라 섣불리 전직을 생각하긴 어렵다”며 “돈 조금 더 받는다고 해서 출범 초기 조직으로 옮겼을 때 따라오는 위험 부담이나 불확실성이 해소되지는 않는다”고 했다.&lt;br&gt;&lt;br&gt;한편, 중수청은 부산지방중수청에 마약수사과 1개를 추가로 편성할 계획이다. 부산 지역 공항·항만 마약 수사를 전담하는 분실을 별도로 두겠다는 것이다. &lt;br&gt;&lt;br&gt;다만 수원지방중수청에 설치될 예정인 ‘마약 합동수사과’와는 다르다. 합동수사과는 경찰, 관세청 등 유관 기관에서 파견되는 일반직 공무원들이 함께 근무하는 ‘합동수사기구’의 성격이 강하다. 현재 가동 중인 검경 합동수사기구를 승계하겠다는 취지로 설계됐다. 검경 합동수사기구가 하던 수사를 중수청 합동수사과가 넘겨받을지, 별도의 합동수사기구가 운영될지는 아직 정해지지 않았다. 이재명 대통령은 지난 5일 청와대에서 열린 법무부 업무보고에서 “개정된 법(형사소송법)에 의하면 검사는 (합수본에서) 수사하면 안 된다고 돼 있느냐”며 “합수본을 어떻게 처리할지 미리 점검해 보고해달라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>결국 거리로 나온 여성들 “피해자 보호 없는 수사개편 반대”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/09/PRMKA53LKVASPBOV5AXD3YFZ2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/PRMKA53LKVASPBOV5AXD3YFZ2M/</guid>
+      <dc:creator>한영원 기자, 이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 11:30:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6WJUSLYU7BB7LABH323FHQLOGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 9일 오후 서울 종로구 보신각 앞에서 여성의당을 비롯한 참가자들이 검찰의 보완수사권 폐지를 담은 형사소송법 개정안 반대 집회를 열고 관련 손피켓을 들고 구호를 외치고 있다. 이날 집회엔 약 200여 명이 참가했다. /임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰의 보완 수사권 폐지에 반대하는 여성들이 거리로 나섰다. &lt;br&gt;&lt;br&gt;9일 오후 7시 서울 종로구 보신각에서 여성의당이 ‘보완 수사권 폐지 규탄 시위’를 열었다. 이날 집회에는 오후 8시 기준 약 200여 명이 모였다. 이들은 검찰의 직접 수사권을 전면 폐지하는 형사소송법 개정안이 지난 4일 국무회의를 통과한 것을 두고 “피해자를 두 번 죽이는 조치”라고 규탄했다. &lt;br&gt;&lt;br&gt;이날 집회에 참석한 여성들은 ‘여성 폭력 피해자 절규 외면한 보완 수사권 폐지 규탄한다’ ‘이재명 대통령은 거부권 행사하라’ 등의 문구가 든 팻말을 들었다. 대부분이 모자와 마스크를 쓴 차림이었다. &lt;br&gt;&lt;br&gt;연단에 선 유지혜 여성의당 대변인은 형소법 개정안에 대한 이재명 대통령의 거부권 행사를 촉구했다. 유 대변인은 “대통령이 제대로 읽어보지도 않고 (형소법 개정안이) 국무회의를 통과했다”며 “대체 누구의 목소리를 듣고 만든 법이냐”고 물었다. 이어 “여성 폭력 사건에서 수사가 부실하게 이뤄졌다면 진실을 밝혀낼 수 있는 장치가 필요하다”며 “오늘 이 자리에서 피해자의 권리를 지켜야 한다는 우리의 절박함을 분명하게 전달하고자 한다”고 했다. &lt;br&gt;&lt;br&gt;이어 마이크를 잡은 박진숙 여성의당 비대위원장은 “정부는 검찰 개혁을 마쳤으니 경찰 개혁을 시작해야 한다고 한다”며 “이는 집안 기둥을 다 부숴놓고 리모델링하면 된다는 소리로 들린다”고 지적했다. 정부가 수사 역량 약화에 대한 대책 없이 무턱대고 검찰의 직접 수사권을 없앴다는 점을 비판한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FEHN3UKTVADZO7PP2OSZ4LGKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 9일 오후 서울 종로구 보신각 앞에서 여성의당을 비롯한 참가자들이 검찰의 보완수사권 폐지를 담은 형사소송법 개정안 반대 집회를 열고 이재명 대통령의 보완수사권 폐지 거부권을 촉구하고 있다. 이날 집회엔 약 200여 명이 참가했다. /임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집회 참가자들은 다함께 여권의 형소법 개정안 추진을 비판하는 구호도 외쳤다. ‘반복되는 부실 수사 죽어가는 피해자들’ ‘수사 권한 타령 말고 수사 역량 보완하라’ ‘수사 공백 키워놓고 민생 입법 포장마라’ 등의 내용이었다. &lt;br&gt;&lt;br&gt;이날 집회에서는 일반 여성 시민들의 발언도 이어졌다. 본인을 일반 회사원이라고 밝힌 한 참가자는 “정치 검찰의 출현이 무섭다는 이유만으로 (피해자 보호를 위한) 최후의 국가 시스템을 없애는 것이 과연 행정부가 해야 할 일이 맞느냐”며 “여성의 폭력, 살해 사건이 많은 한국에서 2차 가해를 서슴없이 하는 경찰 조직이 유일한 수사 권한을 갖게 되는 건 여성 국민으로서 공포스럽다”고 했다. &lt;br&gt;&lt;br&gt;또 다른 여성 참가자는 “경찰이 수사를 안 하면 피해자가 직접 증거를 모으고 언론에 제보하며 여론을 만들어가야 하는 상황”임을 지적했다. 이어 “검찰이 잘못한 게 있다면 고치고 통제하면 된다”며 “대통령과 민주당에 묻고 싶다. 검찰이 밉다는 이유만으로 (경찰의 부실 수사를 막을) 통제 장치를 없애야 하느냐”고 규탄했다. &lt;br&gt;&lt;br&gt;집회 후반부쯤 연단에 선 이경하 변호사도 여권의 형소법 개정안을 ‘전무후무 유례없는 악법’이라고 비판했다. 이 변호사는 “(형소법 개정안은) 피해자 스스로 수사기관이 되지 않으면 어떠한 권리도 보호받지 못하는 법”이라며 “여성 피해자들을 벼랑 끝으로 내몰 것”이라고 했다. 이어 “이재명 대통령이 아직 형소법 개정안 내용을 제대로 살펴보지도 않았다고 하는데, 보완 수사권 폐지 막아달라는 여성들의 절규가 우습냐”며 “(형소법 개정안 통과를) 방관한 국회의원과 대통령을 여성들이 잊지 않고 대가를 치르도록 할 것”이라고 덧붙였다. &lt;br&gt;&lt;br&gt;한편 검찰의 보완 수사권 폐지를 골자로 하는 형소법 개정안은 지난 4일 국무회의를 통과했다. 이로써 1954년 형소법 제정 이후 72년 만에 검찰의 직접 수사 권한이 사라지게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6WJUSLYU7BB7LABH323FHQLOGQ.jpg?auth=11ccaa8066ca55c3bee0f4a19c24713a48c304c9d7ea57d89bf83fe18e46e6a3&amp;smart=true&amp;width=5924&amp;height=3818" type="image/jpeg" height="3818" width="5924">
+        <media:description type="plain">2026년 8월 9일 오후 서울 종로구 보신각 앞에서 여성의당을 비롯한 참가자들이 검찰의 보완수사권 폐지를 담은 형사소송법 개정안 반대 집회를 열고 관련 손피켓을 들고 구호를 외치고 있다. 이날 집회엔 약 200여 명이 참가했다. /임지훈 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">LIM</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>천안 교회서 생활하던 11살 남아, 왜 숨졌나…경찰 학대 여부 수사</title>
+      <link>https://www.chosun.com/national/regional/2026/08/09/Z5LUFOK5NZEBZLOKVMMHRUPPXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/09/Z5LUFOK5NZEBZLOKVMMHRUPPXM/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 12:01:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2GMMBTGE4WKNDBGRSTIOJTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5일 충남 천안의 한 교회 생활시설에서 지내던 11살 A군이 의식 저하 증세를 보여 119 구급대에 의해 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 9일 “A군 몸에선 학대가 의심되는 멍 자국이 발견돼 함께 교회에서 지내던 교회 관계자들을 상대로 아동학대 여부를 조사 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;충남경찰청과 충남소방본부에 따르면, 지난 5일 오후 8시 48분쯤 충남 천안시 서북구 한 교회 관계자가 “교회에서 생활하던 A군이 고열과 의식 저하 증세를 보인다”며 119에 신고했다. A군은 출동한 119구급대에 의해 입원할 병원을 찾다가 세종시 한 종합병원으로 옮겨졌으나 3시간여 만에 숨졌다.&lt;br&gt;&lt;br&gt;병원 측은 A군의 손목 등에 난 멍 자국을 보고 학대를 의심해 경찰에 신고했다. 119 구급대가 교회에 도착했을 당시 A군은 교회 관계자 등 성인 3명과 함께 있었던 것으로 파악됐다. 이들은 A군과 함께 교회에서 지내온 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰이 국립과학수사연구원에 A군 시신 부검을 의뢰한 결과, 국과수로부터 “골절 등 특이한 소견은 발견되지 않았다”는 1차 구두 소견을 전달받았다. 경찰은 “추가로 진행 중인 국과수 정밀 감정 결과가 빠르면 3주 뒤쯤 나올 것 같다”고 했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A군은 태어난 지 얼마 안 된 뒤부터 줄곧 이 교회에서 지냈고, 정규 학교에 다니지 않고 홈스쿨링을 받은것으로 조사됐다. A군은 지적장애가 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;교회 근처에 사는 외할머니가 가끔 A군이 지내는 교회를 오갔던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “A군이 무단으로 학교에 가지 않은 것은 아니고 정식 절차를 거쳐 유예 승인을 받고 홈스쿨링을 진행한 것으로 파악됐다”며 “A군이 어릴 때부터 교회에서 지내게 된 경위나 홈스쿨링을 하게 된 이유 등은 민감한 가족사여서 공개하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;신고를 받고 현장에 출동한 소방 당국 소방활동 보고에 따르면, A군을 발견했을 당시 열이 많이 나고 의식이 희미한 상태였고, 통증을 가했을 때 별다른 반응을 보이지 않았다고 한다. 손목 등에선 멍자국이 발견됐다는 내용도 있다. 경찰은 이를 A군이 학대를 당한 정황으로 추정하고 있다. ‘침대에 결박돼 있었다’는 목격자 증언도 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “교회에서 함께 생활하던 관계자들을 상대로 A군을 학대했는지 집중 조사 중”이라고 했다. 그러면서 A군 외에 이 교회 안에 거주하던 다른 미성년자는 없다고 했다. &lt;br&gt;&lt;br&gt;충남경찰청 관계자는 “국과수 정밀 부검 결과가 나오면 사망 원인과 학대를 당했는지 파악할 수 있을 것”이라며 “교회 관계자들을 조사한 뒤 수사 내용을 밝힐 예정”이라고 했다. 경찰은 학대 혐의가 드러나면 아동학대치사 혐의를 적용할 방침이다.&lt;br&gt;&lt;br&gt;경찰 수사가 끝나지 않아 A군 사망 원인은 구체적으로 드러나지 않은 상태다. 일각에선 A군이 폭행 등 신체적 학대를 당했거나, 결박을 당한 채 무더위 속에 방치돼다 숨졌을 가능성 등이 제기되고 있다.&lt;br&gt;&lt;br&gt;과거에 교회 안에서 폭행 등 학대로 10대들이 숨지는 사건이 있었다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 올해 1월 29일 인천의 한 교회 합창단 숙소에서 생활하던 여고생 B양을 장기간 학대해 숨지게 한 혐의(아동학대살해 등)로 교회 합창단장인 50대 여성에 대해 징역 25년을 확정했다. 함께 재판에 넘겨진 교회 신도 2명은 각각 징역 25년과 징역 22년이 확정됐다. 아동복지법상 아동유기·방임 혐의로 기소된 피해자 어머니는 징역 4년형이 확정됐다.&lt;br&gt;&lt;br&gt;합창단장 등 교회 관계자 3명은 2024년 2월부터 5월까지 인천의 한 교회 합창단 숙소에서 지내던 여고생 B양을 반복적으로 폭행·학대해 숨지게 한 혐의로 구속 기소됐다. B양 어머니는 딸이 ‘양극성 정동장애’ 진단을 받고 입원 권유를 받자, “정신병원보다는 교회가 낫지 않겠느냐”는 합창단장의 제안을 받아들여 딸을 교회 합창단 숙소로 보냈다. 합창단장 등은 B양에게 수일간 잠을 재우지 않은 채 성경 필사를 강요하고, 지하 1층부터 지상 7층까지 계단을 1시간가량 오르내리게 하는 등 가혹행위를 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;중학생 딸을 폭행해 숨지게 하고, 시신을 11개월간 방에 방치한 목사부부도 있었다.&lt;br&gt;&lt;br&gt;2016년 11월 24일 대법원 2부(주심 조희대 대법관)는 아동학대치사, 사체유기 등 혐의로 기소된 경기 부천의 한 교회 목사 이모(48)씨와 부인 백모(41)씨에게 각각 징역 20년, 징역 15년을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;이들은 2015년 3월 17일 당시 12살이던 딸이 도망가지 못하도록 출입문을 잠근 뒤 이날 오전 5시30분부터 7시간 동안 폭행하고 난방을 하지 않던 작은 방에 재웠다. 이전부터 수일간 매질과 학대를 당했던 이양은 같은 날 오후 6시45분쯤 피하 및 근육 내 출혈상 등으로 인한 저혈량성 쇼크로 숨졌다.&lt;br&gt;&lt;br&gt;이씨 부부는 부패한 시신 냄새를 없애려고 양초를 계속 피우고 11개월 동안 딸 시신을 방치하기도 했다. 이들은 “딸이 가출해 돌아오지 않는다”며 실종신고를 하고, 학교에는 취학유예 신청을 한 뒤 일상생활을 했다. 이들은 “다시 깨어날 수도 있다는 믿음 때문에 계속 기도하기로 했다”고 주장했다. 이들은 백씨 동생에게서 ‘이양이 교회 헌금을 훔쳐 쓰고 나머지 돈을 숨겼다’는 이야기를 듣자 “돈을 숨긴 곳을 말하라”며 딸을 폭행했다. &lt;br&gt;&lt;br&gt;하지만 돈을 훔쳤다는 근거는 발견되지 않았다. 이양은 집에서 쫓겨나왔을 때 식사도 못하는 등 돈을 훔쳐 숨긴 것으로 보기 힘든 상태였던 것으로 조사됐다. 재판부는 “이양이 집에서 쫓겨난 뒤 선생님을 찾아가거나 경비원에게 재워달라고 도움을 요청하기도 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WMNRAUIKX4XJGNATABGQ5RX2DI.jpg?auth=7fb0936e350b0c4dc392686e7f7e5fddf5cd76d68c0167ba1f2ce5468367bd7f&amp;smart=true&amp;width=720&amp;height=418" type="image/jpeg" height="418" width="720">
+        <media:description type="plain">충남경찰청</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>매일유업 평택공장서 저장 탱크 청소하던 근로자 2명 사상</title>
+      <link>https://www.chosun.com/national/incident/2026/08/09/EMOIQMXQ4ZH2BNCQ3E2KCRP72U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/09/EMOIQMXQ4ZH2BNCQ3E2KCRP72U/</guid>
+      <dc:creator>평택=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 11:44:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2GEZLEGNRWIYJXGE4DEYZTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 경기 평택시의 매일유업 공장에서 저장 탱크를 청소하던 근로자 1명이 숨지고 1명이 다치는 사고가 났다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오후 2시 58분쯤 평택시 진위면에 있는 매일유업 평택공장에서 50대 근로자 A씨 등 2명이 쓰러져 있는 것을 공장 직원이 발견했다.&lt;br&gt;&lt;br&gt;A씨는 병원으로 옮겨졌으나 결국 숨졌다. 함께 발견된 50대 B씨는 생명에 지장이 없는 것으로 알려졌다. 두 사람 모두 특별한 외상이 발견되지는 않았다.&lt;br&gt;&lt;br&gt;A씨 등이 발견된 곳은 높이 3.4m, 지름 1.9m 규모의 연유 저장 탱크 내부로, 경찰은 이들이 탱크 안에서 청소 작업을 하던 중 사고를 당한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 공장 관계자 등을 상대로 당시 작업 내용과 안전 수칙 준수 여부 등을 조사할 예정이다. A씨에 대해선 부검을 통해 정확한 사망 원인을 파악할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>강원·TK서도 김민석 승리... 누적 1.45%p차로 벌어져 </title>
       <link>https://www.chosun.com/politics/assembly/2026/08/09/K7UHV3LDGBHIXDV335Y4Q5TUOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/09/K7UHV3LDGBHIXDV335Y4Q5TUOI/</guid>
@@ -912,52 +964,6 @@
       <description/>
       <pubDate>Thu, 06 Aug 2026 15:36:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VITK33SF2FGX3NPTHZFR6B7VMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-8-7일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 31일 ‘우리 아기가 태어났어요’ 코너에 실린 이예봄&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 민재윤·윤상훈 딸 설아 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/07/MKEXHRG6CBCTDK6U6ICMEIL2TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/07/MKEXHRG6CBCTDK6U6ICMEIL2TA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVHC3IOHKJG5TL627RUZHGPRKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] ‘아이가 행복 AWARDS’ 올해 주인공을 찾습니다</title>
-      <link>https://www.chosun.com/special/announcement/2026/08/07/TAFGWP4P5RF2RECG3IOKDV65O4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/08/07/TAFGWP4P5RF2RECG3IOKDV65O4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAKL2IOLKRFODA4OG62RD7GONE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 9월 19일 서울 롯데월드타워 월드파크 잔디광장에서 열린 ‘아이가 행복입니다’ 행사에 참여한 가족들이 기념 촬영을 하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZKKPIJRIRAX7FRCNNLRDG4Z2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 ‘아이가 행복입니다 AWARDS(어워즈)’의 주인공을 찾습니다.&lt;br&gt;&lt;br&gt;본지와 대한상공회의소는 사회 각 분야에서 저출생 극복에 기여한 기업·기관·단체를 선정해 시상하는 ‘아이가 행복입니다 AWARDS’를 진행합니다. 우수 사례를 발굴해 널리 알리고 ‘아이를 낳고 키우기 좋은 사회’로 나아가는 범사회적 분위기를 만들어 가고자 합니다. 또 이를 통해 대한민국의 출산·양육 제도와 문화 혁신에도 기여하고자 합니다. 저출생 극복을 위해 노력한 기업·기관·단체 등은 누구나 신청할 수 있습니다. 공모 분야는 출산 장려, 돌봄 지원, 환경 조성 부문입니다.&lt;br&gt;&lt;br&gt;이와 함께 본지는 독자들을 대상으로 ‘31초 우리 가족 행복 담기 공모전’도 진행하고 있습니다. 아이와 보낸 행복한 순간을 31초짜리 동영상이나 사진에 담아 홈페이지에 올려 주세요. 많은 참여를 바랍니다.&lt;br&gt;&lt;br&gt;‘아이가 행복입니다’ 행사는 국내 합계출산율이 1명 밑으로 떨어졌던 지난 2018년, 이대로는 안 된다는 절박한 심정으로 본지가 시작한 저출생 극복 캠페인의 일환입니다. 올해로 시즌9을 맞았습니다. 그동안 본지 지면을 통해 수천 명의 새 생명 탄생을 축하하고, 우리 주변에 있는 행복한 다자녀 가족과 출산·육아 지원에 열심인 기업과 기관을 소개해 왔습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲접수 마감&lt;/b&gt;: 9월 4일(금)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲시상식&lt;/b&gt;: 10월 8일(목)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲신청 방법&lt;/b&gt;: 홈페이지(behappykorea.com) 및 이메일(behappykorea@chosun.com)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲제출 서류&lt;/b&gt;: 참가 신청서, 성과 소개서(홈페이지에서 양식 다운로드) 및 증빙 서류&lt;br&gt;&lt;br&gt;&lt;b&gt;▲문의&lt;/b&gt;: 아이가 행복입니다 사무국(02-724-6383)&lt;br&gt;&lt;br&gt;&lt;b&gt;▲주최&lt;/b&gt;: 조선일보사·대한상공회의소&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 8월 7일</title>
-      <link>https://www.chosun.com/national/education/2026/08/07/LA5V3LXTVRF5FCMY5L7YGKDRWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/07/LA5V3LXTVRF5FCMY5L7YGKDRWU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:35:00 +0000</pubDate>
-      <content:encoded>금 - 전국 무더위·열대야 지속&lt;br&gt;&lt;br&gt;토~일 - 일부 지역 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ETURCVJBZCLNHULGWYZNJB5CQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공소청 검사 수사 전면 금지되는데… 특검 파견 검사 수사권은 인정</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/06/72QOPY44SBEZ5LZOWON4ZCDO5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/06/72QOPY44SBEZ5LZOWON4ZCDO5Q/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYLKTQXRIVP6JIVBOIW2KB3S4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 중앙선관위./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 2일 개정 형사소송법이 시행되면 검사의 수사권은 전면 폐지된다. 검사가 범죄 사실을 인지해 수사를 개시하는 것은 물론, 경찰로부터 넘겨받은 사건에 대한 보완수사도 할 수 없다. 그런데 지난달 30일 국회 본회의를 통과한 ‘6·3 지방선거 투표용지 부족 사태 수사를 위한 특별검사 법안’은 20명의 검사가 특검에 파견되도록 하고, 이들의 수사권도 인정했다. 같은 검사라도 공소청 소속일 땐 수사할 수 없지만, 특검에 파견되면 수사할 수 있다는 의미다.&lt;br&gt;&lt;br&gt;선관위 특검법은 부칙에서 파견 검사가 개정 이전 형사소송법과 검찰청법에 의해 수사할 수 있다고 규정하고, 파견 검사가 작성한 조서의 증거 능력도 인정했다. 또 오는 10월 검찰청이 폐지되더라도 특검에 파견된 검사는 계속 특검팀 소속으로 근무할 수 있도록 했다. 일견 개정 형사소송법과 충돌하는 것처럼 보이지만, 일반법과 특별법의 내용이 서로 다를 땐 특별법을 따른다는 ‘특별법 우선의 원칙’에 의해 선관위 특검법이 우선 적용된다. &lt;br&gt;&lt;br&gt;특검에 파견된 검사에 한해서만 수사권을 허용하는 것은 앞뒤가 맞지 않는다는 지적도 나온다. 한 현직 검사는 “검찰 수사권 남용을 방지해야 한다고 하면서 각종 수사기구가 꾸려지면 검사들이 파견을 간다”며 “정권이 원하는 사건에 한해서만 검사 수사권을 허용하겠다는 말 아니냐”고 했다.&lt;br&gt;&lt;br&gt;이밖에도 현재 검찰과 경찰이 함께 수사하는 9개의 합동수사기구 운영 방식에 대한 논의도 진행되고 있다. 이재명 대통령은 지난 5일 법무부 업무 보고에서 “개정된 법(형사소송법)에 의하면 검사는 (합수본에서) 수사하면 안 된다고 돼 있느냐”며 “합수본을 어떻게 처리할지 미리 점검해 보고하라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유력인 수사 하세월이더니... 홍명보·스타벅스 수사 속도내는 경찰</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/06/JOF7U7TP75BNZF5FWEPNST6LXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/06/JOF7U7TP75BNZF5FWEPNST6LXQ/</guid>
-      <dc:creator>지혜진 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VWX7JEFZRLLNORJP6FV42TXPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 경찰의 압수수색이 진행된 충남 천안시 서북구 입장면 대한축구협회 사무실 내부 조명이 켜져 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 최근 스타벅스코리아의 ‘탱크데이’ 논란과 대한축구협회의 감독 선임 절차에 대한 수사에 속도를 내고 있다. 두 사건 모두 이재명 대통령이 공개적으로 비판했던 사안이다. 정치인 등 유력인 수사에는 지지부진했던 경찰이 검찰 수사권을 폐지한 형사소송법 개정안 통과 후, 대통령 ‘하명 수사’에 앞장서고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 금융범죄수사대는 6일 충남 천안시에 위치한 대한축구협회와 서울 종로구 소재 축구회관을 압수수색했다. 종로구 축구회관은 축구협회가 천안으로 이전하기 전에 사무실로 쓰던 건물이다. 경찰은 시민단체 등으로부터 고발을 접수해 홍명보 전 감독이 국가대표 감독으로 선임되는 과정에 임원 등의 부당한 개입이 있었는지 수사 중이다. 지난 4일에는 홍 전 감독을 피의자 신분으로 불러 감독 선임 과정 전반에 대해 조사하기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBWW6RLTCJBYJMXRPU2UTIJGLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴시스 
-5일 서울 강남구 스타벅스 코리아 본사 매장. 경찰은 이날 ‘탱크데이’ 마케팅 논란과 관련해 스타벅스 코리아 본사 등을 압수수색했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5일에는 스타벅스 ‘탱크데이 논란’과 관련해 서울 강남구 소재 스타벅스코리아 본사에 대한 압수수색도 이뤄졌다. 경찰은 앞선 신세계그룹의 자체 감사 과정에서 프로모션 담당 직원 3명의 휴대전화가 제출되지 않은 점, 사내 메신저 기록의 저장 기간이 지난 점 등을 문제 삼아 압수수색을 펼쳤다. &lt;br&gt;&lt;br&gt;경찰이 연달아 속도를 내고 있는 두 사건은 모두 이재명 대통령이 자신의 소셜 미디어에 직접 언급한 사건이다. 이 대통령은 지난 6월 북중미 월드컵 조별리그 탈락과 관련해 “능력보다 내 편, 네 편을 더 중시해 무능한 사람을 지휘관으로 선발하면 결과는 불 보듯 뻔하다”며 대한축구협회의 인사 시스템을 비판하는 글을 올렸다. 지난 5월 18일에는 스타벅스 탱크데이 프로모션에 관해 “저질 장사치의 비인간적 막장 행태에 분노한다”며 “그에 상응하는 도덕적, 행정적, 법적, 정치적 책임이 주어져야 한다”고 했다. &lt;br&gt;&lt;br&gt;법조계에선 “그동안 유력 인사 사건은 결론을 내지 않고 오래 끌었던 경찰이 대통령이 직접 목소리를 낸 사건에는 열을 올리고 있다”는 지적이 나온다. 경찰은 최근 강선우 의원의 ‘쪼개기 후원금’ 의혹에 대해 수사 착수 26개월 만에 불송치 결정을 내렸다. 강 의원에게 후원금을 준 혐의를 받는 김성태 전 쌍방울 회장과 방용철 전 부회장은 검찰에 송치해 논란이 됐다. 경찰은 지난 4월에도 강 의원의 보좌진 갑질 의혹 관련 고발 사건을 모두 불송치 결정했다.&lt;br&gt;&lt;br&gt;김병기 의원의 보좌진 갑질, 차남 취업 청탁, 불법 정치자금 수수 등 의혹에 대한 수사도 지난해 9월 고발 이후 1년 가까이 늘어지고 있다. 김 의원을 경찰에 고발했던 시민단체와 김 의원에게 갑질을 당했다며 고소를 했던 전직 보좌관까지 “권력 눈치 보기 등 다른 사정으로 지연되는 것이 아니냐”며 잇따라 경찰에 수사심의를 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>달콤한 ‘스테비아 토마토’... 농산물 아닌 가공식품이었다</title>
