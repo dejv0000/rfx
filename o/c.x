@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“의원님이나 ‘무빙캐슬’에 사세요” 버스하우스 제안에 분노한 2030</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/10/XX7TYEHF5BDB7LZ5ZPFKSRCB7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/XX7TYEHF5BDB7LZ5ZPFKSRCB7Q/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 08:15:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24VPWCSE2ZEIZKF2BN3NMSBS6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 더불어민주당 황희 의원의 '폐버스 청년주택' 제안이 나온 뒤, 소셜 미디어(SNS)상에는 황 의원의 제안을 풍자하는 이미지들이 잇따라 올라왔다./SNS 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“폐기되는 버스를 주거 공간으로 리모델링하고, 대학가 청년들의 단기성 주거 공간으로 제공하는 프로그램을 제안해본다.”&lt;br&gt;&lt;br&gt;지난 7일 황희 더불어민주당 의원이 본인 페이스북을 통해 ‘버스 하우스’를 제안했다. 버려지는 버스를 개조해 청년 주택난을 해결하자는 취지의 내용이다. 황 의원은 네덜란드가 주택 문제 해결을 위해 운하 주변에 활용 중인 ‘보트 하우스’에서 아이디어를 얻었다고 했다. “리모델링 비용을 5000만원 정도만 잡아도 1만 세대는 5000억 수준에 불과하다”며 실현 가능성도 내비쳤다.&lt;br&gt;&lt;br&gt;하지만 이를 접한 20·30대 청년들 사이에서는 “대출 막아놓고 버스에서 살라는 거냐” 등의 분노가 쏟아졌다. 서울 은평구에 거주하는 직장인 박혜수(27)씨는 “청년들이 집이 없지 자존심이 없느냐”며 “주택난이라고 버스에서 살게 할 게 아니라 멀쩡한 집에 살 수 있는 환경을 조성해줘야 하는 것 아니냐”고 했다. 경기 하남시에 거주하는 직장인 김민석(36)씨 역시 “당장 살 집을 구해야 하는 청년들 입장에서 폐버스에 살라는 말이 믿기지 않는다”며 “입법이 이 정도 수준의 고민 과정만 거쳐 나오는 건가 하는 생각도 들어 씁쓸하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGUAVKTZKVEKFADTBC2NCINSVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 더불어민주당 황희 의원의 '폐버스 청년주택' 제안이 나온 뒤, 소셜 미디어(SNS)상에는 황 의원의 제안을 풍자하는 이미지들이 잇따라 올라왔다./SNS 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엑스(X), 스레드 등 소셜미디어에는 황 의원의 제안을 풍자하는 밈들도 잇따라 등장했다. 낡은 버스를 아파트처럼 층층이 쌓아 올리거나, 서울 강남구·용산구 일대 고층 한강 뷰 아파트 앞으로 ‘청년 주택’이라 적힌 버스들을 줄지어 세워놓는 식이다. 해당 이미지들에는 고급 아파트 단지 이름을 본뜬 ‘더퍼스트무빙캐슬’ 같은 단지명과 ‘버스를 새로운 집으로, 청년의 내일로’ 등의 풍자성 문구가 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVNBJ2ZCLRC2LPHRBLBD4BDO2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 인스타그램에 올라온 '폐버스 청년주택 가상 브이로그' 영상./SNS 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일에는 인스타그램에 ‘폐버스 청년주택 가상 브이로그’ 영상도 올라왔다. 생성형 인공지능을 활용해 가상으로 만든 폐버스 청년주택을 둘러보는 풍자성 영상이다. 영상에 등장하는 폐버스 청년주택 6개월차 주민은 “살아보니 어떠냐” 는 질문에 “여름에는 찜질방 되고 겨울에는 냉동고 된다”고 답한다. 곰팡이가 피어있고 철제식 2층 침대가 들어가있는 주택 내부를 두고는 “세대당 딱 5000만원 쓴 느낌 맞다”는 멘트도 나온다. &lt;br&gt;&lt;br&gt;한편 황 의원의 제안이 논란이 되자, 민주당은 선을 그었다. 지난 7일 강준현 민주당 수석대변인은 “당 입장과는 전혀 관련이 없는 의원의 개인적인 의견임을 밝힌다”고 공지했다. 하지만 이 같은 ‘나몰라’ 식 대처에 대해서도 청년들은 불만의 목소리를 냈다. 경기 수원시에 거주하는 직장인 이단비(26)씨는 “정치인들이 SNS를 통해 충분히 검토되지 않은 의견을 내놓은 뒤, 논란이 커지면 해명하거나 당에서 ‘개인 의견’이라며 선을 긋는 일이 반복되는 것 같다”며 “즉흥적으로 의견을 내놓기보다는 실질적인 주거 대책을 마련하는 등 본연의 업무에 충실하면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;청년들의 이 같은 분노의 배경에는 갈수록 멀어지는 내 집 마련의 현실이 있다는 분석이 나온다. 실제로 국가통계포털(KOSIS)에 따르면, 지난해 39세 이하 청년층 중에서 거주 주택을 보유한 비율은 27.7%에 불과했다. ‘내 집’을 가진 청년이 10명 중 2~3명뿐이라는 의미다. 이는 관련 통계가 재편된 2017년 이후 가장 낮은 수치다. &lt;br&gt;&lt;br&gt;전문가들은 취업·결혼·주택 마련 등 복합적 어려움을 겪고 있는 청년 세대의 현실이 분노를 촉발했다고 분석했다. 허창덕 영남대 사회학과 교수는 “(황희 의원의 제안은) 정치인이 청년들의 문제에 대해 너무 안일하게 접근하고 있음을 보여주고 있다는 반증”이라며 “힘든 현실을 살아가고 있는 청년들에게는 ‘불난 집에 부채질’한 격으로 다가왔을 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;이동수 세대정치연구소 대표 역시 “청년층의 요구는 수도권에 공급을 늘려 안정적으로 거주할 수 있는 환경을 마련해달라는 것”이라며 “‘당신이 살아보라’는 청년들의 반발에서 볼 수 있듯, 청년 정책을 외쳐온 정당의 내로남불식 태도에 청년들이 분노한 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“여의도 한강공원에 폭탄 설치” 테러 예고...경찰, 작성자 추적</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/09/YXQZ3O3XEZE6BIG4O44SKCJV7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/YXQZ3O3XEZE6BIG4O44SKCJV7A/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 08:23:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLK47SI7NCQ66R2ODDXATDIDR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성북경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도 한강공원에 폭탄을 설치했다며 돈을 요구하는 협박 글이 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;9일 경찰에 따르면 서울 성북경찰서는 이날 오전 2시 25분쯤 한 방송국 제보 플랫폼에 여의도 한강공원 폭탄 테러를 예고하는 글이 올라왔다는 신고를 접수했다.&lt;br&gt;&lt;br&gt;해당 글에는 “여의도 한강공원 인근에 폭탄을 설치했으니 1000만원을 입금하지 않으면 사람들이 많이 다치거나 죽을 것”이라는 내용이 담긴 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 공중협박 혐의로 게시글 작성자를 추적하고 있다. 또 경찰 특공대를 한강공원 일대에 투입해 폭탄 설치 여부 등을 확인하고 있다. &lt;br&gt;&lt;br&gt;현재 여의도를 포함한 서울 9개 한강공원에서는 영화 상영과 음악 공연, 수상 레저 체험 등을 진행하는 ‘2026 한강페스티벌’이 열리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 8월 10일 월요일 (음력 6월 28일 丙辰)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/09/TCESEQL2S5AA7DKIMSCQJV2QVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/TCESEQL2S5AA7DKIMSCQJV2QVI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>2027학년도 의대 선발 인원의 50%는 지방 학생 자리</title>
+      <link>https://www.chosun.com/national/education/2026/08/09/367AAQ3H55GOXDQZEWXG7QK2XE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/09/367AAQ3H55GOXDQZEWXG7QK2XE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 06:48:50 +0000</pubDate>
+      <content:encoded>2027학년도 전국 의대들이 선발 인원 중 절반가량을 지방 학생으로 뽑는 것으로 나타났다. 비수도권 출신 학생을 선발하는 전형의 비율이 늘어났기 때문이다. &lt;br&gt;&lt;br&gt;9일 종로학원이 분석한 자료에 따르면, 전국 39개 의대는 2027학년도 선발 인원 총 3508명 중 1734명(49.4%)을 지방 학생으로 뽑는다. 의대 선발 인원 가운데 지방 학생 비율은 2022학년도 25.4%(766명)에서 2025학년도 42.7%(1913명)로 꾸준히 늘었는데, 내년엔 50% 가까이 되는 것이다.&lt;br&gt;&lt;br&gt;지방에 사는 학생들에게 의대 입학 기회가 늘어난 것은 2023학년도부터 시행된 ‘지역 인재 전형’과 2027학년도에 도입되는 ‘지역의사제 전형’ 때문으로 분석된다. 지역 인재 전형은 비수도권 대학이 의대 신입생의 40%(강원·제주 20%)를 대학이 있는 권역의 고등학교 졸업자를 의무 선발하도록 한 제도다. 지난해 지방 의대들은 법적 의무 선발 비율보다 높은 59.4%를 지역 인재로 선발했다. 지역 한 의대 관계자는 “의대 졸업 후 수도권으로 다 떠나버려서 지역 의료가 붕괴됐는데, 그나마 어릴 때 지방에서 자란 학생들이 지역에 남는 경우가 많아서 지역 인재 비율을 늘리는 추세”라고 말했다. &lt;br&gt;&lt;br&gt;게다가 이재명 정부는 의대 정원을 490명 늘리면서 해당 정원은 모두 ‘지역의사제 전형’으로 뽑도록 했다. 이 전형은 의대 소재지나 인접 지역 고등학교 졸업자만 지원할 수 있되 졸업 후 해당 지역에서 10년간 의무적으로 근무하도록 한 제도다. &lt;br&gt;&lt;br&gt;비수도권 의대 27곳 가운데 지방 학생 선발 비율이 가장 높은 대학은 부산 동아대다. 동아대는 전체 신입생 66명 중 56명(84.8%)을 지방 학생으로 뽑는다. 그다음은 전남대(84%), 경상국립대(83.7%), 원광대(83.6%), 동국대(경주·83.3%), 부산대(80.8%)였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EOYUWFLG35D4TCZ6BNIURJ6WFU.jpg?auth=973ec9dea7b25ccaccc85bfcb4fc4242e930ffe614c0f5aa36947dcb6fea9b48&amp;smart=true&amp;width=5332&amp;height=2408" type="image/jpeg" height="2408" width="5332">
+        <media:description type="plain">교육부가 2027~3031년 대학별 의대 정원을 발표했다. 사진은 13일 오후 서울 시내 의과대학 전경. 2026.3.13 /박성원 기자
+</media:description>
+        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>치매 노인 예금 2000만원 가로챈 70대 간병인, 집유 4년</title>
+      <link>https://www.chosun.com/national/regional/2026/08/09/IH36SI6LUNHTPDTTNGMPT6ZJGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/09/IH36SI6LUNHTPDTTNGMPT6ZJGM/</guid>
+      <dc:creator>청주=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 06:52:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKVLLYO2MACAHQI2M6O6T5DPKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 돌보던 치매 환자의 예금을 가로챈 70대 간병인이 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사1단독 박광민 부장판사는 여신전문금융업법 위반 등 혐의로 기소된 70대 A씨에게 징역 2년 6개월에 집행유예 4년을 선고했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2024년 3월부터 4월까지 자신이 돌보던 치매 노인 B씨의 체크카드로 85차례에 걸쳐 2000여 만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 요양원에 입소할 예정이라는 사실을 알게 되자 B씨를 데리고 은행을 찾아가 정기예금을 해지하게 했다. 이후 B씨 명의의 체크카드를 발급받아 돈을 빼돌린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박 판사는 “피고인은 피해자가 치매가 심해 요양원에 입소한다는 사실을 알고 재산상 이익을 취했다”면서 “실질적 손해 규모가 상당히 작고, 피고인에게 금고형의 집행유예 이상의 전과가 없다는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“같은 서울인데 더 덥다”… 폭염 취약지역, 강북·도봉·중랑에 몰렸다</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/09/XVFO4BGZ6JCHRNCWXORMH25H5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/XVFO4BGZ6JCHRNCWXORMH25H5M/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 06:20:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RDKZBTME4TQZRYGJSDCYTCGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기록적인 폭염이 이어지는 지난 7일 서울 종로구 광화문광장에서 지열의 영향을 받은 온도계가 40도에 가까운 수치를 가리키고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 안에서도 폭염을 견디는 여건이 지역마다 크게 다른 것으로 나타났다. 고령층과 저소득층이 많고 녹지나 무더위쉼터 접근성이 떨어지는 강북·도봉·중랑구 등은 폭염에 가장 취약한 지역으로 꼽혔다.&lt;br&gt;&lt;br&gt;9일 서울시의회 의원연구단체인 민생의정연구회가 공개한 ‘서울특별시 기후격차 해소를 위한 취약계층 맞춤형 기후 적응 정책 개발 및 조례 성안 연구’ 연구용역 보고서에 따르면, 서울형 기후취약성지수(SCVI)를 분석한 결과 강북구(0.858)를 비롯해 도봉(0.793)·중랑(0.761)·금천(0.738)·은평(0.72)·동대문구(0.715)가 폭염 취약도가 가장 높은 A등급으로 분류됐다.&lt;br&gt;&lt;br&gt;서울형 기후 취약성 지수는 폭염 노출 정도와 고령인구 비율, 녹지 면적, 무더위 쉼터 접근성, 사회·경제적 대응 능력 등을 종합해 기후 취약성을 평가한 지표다. 수치가 높을수록 취약성도 높다.&lt;br&gt;&lt;br&gt;강북구는 고령화율(26.4%)과 기초연금 수급률(73%)이 서울에서 가장 높은 반면, 인구 대비 무더위 쉼터는 99곳으로 평균(164곳)보다 적었다. 도봉구는 고령층 비율이 높고 1인당 공원 면적이 3.67㎡로 서울 평균보다 작았다. 중랑구와 금천구도 고령층이 많거나 녹지가 부족해 폭염에 취약한 것으로 분석됐다.&lt;br&gt;&lt;br&gt;반면 종로·성동·용산·영등포·강남·서초구는 지수가 0.235~0.474로 기후 취약성이 가장 낮은 D등급으로 분류됐다.&lt;br&gt;&lt;br&gt;보고서는 서울의 폭염이 갈수록 심해지고 있다고도 분석했다. 연간 폭염 일수는 2005년 6일에서 2018년 35일로 늘었고, 열대야도 같은 기간 11일에서 29일로 길어졌다. 지난 100년간 서울 연평균 기온 상승 폭은 2.3도로 전국 평균(1.9도)을 웃돌았다.&lt;br&gt;&lt;br&gt;취약 계층을 대상으로 한 심층 면접에서는 응답자의 절반 가까이(47.8%)가 “폭염 때 선풍기나 서큘레이테만 사용한다”고 답했다. 에어컨 사용은 39.1%에 그쳤다. 에어컨을 사용하지 못하는 가장 큰 이유는 ‘전기 요금 부담’(56.5%)이었다. 무더위 쉼터를 이용하지 않는 이유로는 “거리가 멀거나 접근이 어렵다”는 응답이 56.5%로 가장 많았다.&lt;br&gt;&lt;br&gt;연구진은 폭염 대책도 단순히 쉼터를 늘리는 데 그칠 것이 아니라 냉방비 지원과 취약 주거지 냉방 설비 확충, 생활권 안에서 쉽게 이용할 수 있는 쉼터 조성 등 ‘냉방권’을 보장하는 방향으로 바뀌어야 한다고 제안했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z4BM7X7P5VK7DHBZHBJOEOXKFQ.JPG?auth=2c529a66bb2620dc7143d3ed60531a4789414ac6a0e3f472133514a0c3a91c4f&amp;smart=true&amp;width=600&amp;height=356" type="image/jpeg" height="356" width="600">
+        <media:description type="plain">(서울=뉴스1) 최지환 기자 = 서울 낮 최고기온이 40도에 육박하는 7일 서울 도심을 열화상카메라로 촬영한 모습.
+
+열화상 카메라는 높은 온도는 붉은색으로, 낮은 온도는 파란색으로 표시한다. 2026.8.7/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 최지환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>서울서 하루 새 온열질환 추정 사망자 2명... 올여름 최다</title>
       <link>https://www.chosun.com/national/national_general/2026/08/09/6CRRWJ573JBHJPDR5PGNEB5PQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/6CRRWJ573JBHJPDR5PGNEB5PQ4/</guid>
@@ -767,15 +835,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRLSCERQBRFJVP46556ROVAAKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잠실 전시컨벤션센터 조감도. /킨텍스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;킨텍스가 서울 잠실에 들어서는 대규모 전시컨벤션센터를 향후 40년간 운영한다.&lt;br&gt;&lt;br&gt;킨텍스는 서울시와 ㈜서울스마트마이스파크가 ‘잠실 스포츠·MICE 복합공간 조성 민간투자사업’ 실시협약을 체결하면서 잠실 전시컨벤션센터 운영 사업이 본격화됐다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;이번 사업은 2021년 12월 한화그룹이 주간사로 참여한 컨소시엄이 우선협상대상자로 선정된 이후 160여 차례 협상을 거쳐 확정됐다. 2026년 착공해 2032년 준공하는 것이 목표다.&lt;br&gt;&lt;br&gt;킨텍스는 컨소시엄의 전시컨벤션 전문 운영사로 참여해 개관 준비부터 국내외 전시회와 국제회의 유치, 마케팅, 시설 운영 등을 맡는다. 운영 기간은 40년이다.&lt;br&gt;&lt;br&gt;약 35만㎡ 규모로 조성되는 잠실 MICE 복합단지에는 전시시설 8만9000㎡와 컨벤션시설 1만9000㎡ 규모의 전시컨벤션센터가 들어선다. 전시·컨벤션 시설을 합치면 코엑스의 약 2.5배 규모다. 지하철 2·9호선과도 직접 연결될 예정이다.&lt;br&gt;&lt;br&gt;전시시설에는 대형 행사를 열 수 있도록 1㎡당 5t의 하중을 견딜 수 있는 5개 가변형 전시홀이 들어선다. 상층부에는 한강을 조망할 수 있는 4개 전시홀과 야외 연회공간이 마련된다. 대형 전시회 때 화물차가 대기할 수 있는 ‘마샬링 존(Marshalling Zone)’도 국내 전시장 가운데 처음 도입할 계획이다.&lt;br&gt;&lt;br&gt;컨벤션시설은 1만명 이상을 수용할 수 있는 규모로 조성된다. 5성급 호텔과 연계해 그랜드볼룸과 콩그레스홀, 오디토리움 등을 갖출 예정이다.&lt;br&gt;&lt;br&gt;킨텍스는 잠실 센터를 기존 고양 킨텍스와 함께 수도권의 주요 MICE 거점으로 운영한다는 계획이다. 킨텍스는 현재 인도 뉴델리 ‘야쇼부미’와 말레이시아 페낭 ‘PWCC’ 등 해외 전시장 운영에도 참여하고 있다. 잠실 MICE 복합단지에는 전시컨벤션센터 외에도 3만석 규모 돔야구장과 스포츠콤플렉스, 841실 규모 숙박시설, 상업·업무시설 등이 들어설 예정이다.&lt;br&gt;&lt;br&gt;이민우 킨텍스 대표이사는 “그동안 축적한 전시컨벤션 운영 경험과 해외 네트워크를 바탕으로 잠실 전시컨벤션센터를 MICE 랜드마크로 성장시키겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>아들은 이미 결혼했는데… ‘가짜 청첩장’ 돌려 수백만원 챙긴 교장</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/08/07/TZ7TFM5FH5GU7MAMIM56OD24KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/08/07/TZ7TFM5FH5GU7MAMIM56OD24KQ/</guid>
-      <dc:creator>광양=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYDSNJTHA4TSZJTGBTDAMJVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청첩장 자료사진. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정년퇴직을 4개월 앞둔 초등학교 교장이 이미 결혼한 아들이 결혼한다며 ‘가짜 모바일 청첩장’을 돌려 축의금 수백만원을 챙겼다가 들통이 났다.&lt;br&gt;&lt;br&gt;전남광주 광양경찰서는 광양시의 한 초등학교 교장 A(62)씨를 최근 사기 혐의로 검찰에 불구속 송치했다고 6일 밝혔다. 8월 말 정년퇴직을 앞두고 있는 A씨는 지난 4월 관내 교직원 단체 대화방에 아들의 결혼 소식을 알리며 신랑·신부 측 계좌번호가 적힌 가짜 모바일 청첩장을 올렸다. 청첩장에는 “양가 가족만 모시고 작은 혼례로 진행하게 돼 직접 모시지 못한다. 참석을 정중히 사양한다”는 메시지도 담았다.&lt;br&gt;&lt;br&gt;그런데 A씨 아들은 이미 지난해 결혼한 유부남이었다. 정식 결혼식을 올리지는 않았지만, 피로연 등만 열고 가정을 꾸린 것으로 알려졌다. 이같은 사실은 모바일 청첩장의 만듦새가 조잡하고 아무도 참석하지 못하게 안내한 것을 수상히 여긴 몇몇 교직원들이 확인에 나서면서 드러났다. 청첩장에 기재된 예식장에 직접 확인해 보니 신랑 이름으로 예약된 결혼식이 없었고, 청첩장에 적힌 신부 측 계좌번호도 존재하지 않는 가짜였다고 한다. &lt;br&gt;&lt;br&gt;이런 사실이 알려지자 한 시민 고발로 경찰 수사가 시작됐고, A씨는 뒤늦게 결혼식이 취소됐다고 알리면서 무마에 나섰다. 하지만 이미 A씨 통장에는 축의금 수백만원이 입금된 뒤였다. 경찰은 A씨에게 사기 혐의를 적용해 검찰에 불구속 기소 의견으로 송치했다. &lt;br&gt;&lt;br&gt;A씨는 2024년 3월 교장으로 부임한 이 학교가 마지막 근무지였다. 8월 정년 퇴임이 다가오자 주변에 “그동안 뿌린 돈이 아깝다”는 말을 가끔 했었던 것으로 전해졌다. 그는 교장 재임 기간 학교에 나무를 심으면서 학교 예산으로 자기 이름을 새긴 비석도 세우고, 교장실 안에 러닝머신도 설치한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;교육 당국은 지난 6월 감사를 거쳐 A씨에게 1개월 정직 처분을 내렸다. 이번 징계로 A씨는 30년 이상 재직한 교직원에게 수여하는 ‘옥조근정훈장’도 못 받게 됐다. 가짜 청첩장 사기로 법원에서 금고 이상의 형을 선고받을 경우, 공무원연금법에 따라 퇴직 연금의 절반도 받을 수 없게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>투표용지 합수본, ‘통계 조작’ 서울·경기·충북 선관위 등 추가 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/08/07/CYNAB2XIA5HO7MUZVCT2AO2LF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/07/CYNAB2XIA5HO7MUZVCT2AO2LF4/</guid>
@@ -792,25 +851,6 @@
       <description/>
       <pubDate>Thu, 06 Aug 2026 15:38:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2L3ONWAXNE33GKYUGOLJWG2I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김은하 국악방송 방송본부장이 국악방송 사장에 임명됐다. 이화여대 국악과를 졸업하고 2000년 국악방송에 입사해 라디오제작부장, 광주국악방송 국장 등을 지냈다. 임기는 3년.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>야외 클럽으로 변질된 한강 물놀이장</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/07/MAK3FNVI5FBE7O4PJUIBDKZLD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/MAK3FNVI5FBE7O4PJUIBDKZLD4/</guid>
-      <dc:creator>윤성우 기자, 울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SFEBWFWIZENBPIZIFC2GZ5EKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국적인 무더위와 열대야가 이어지는 가운데 서울 여의도 한강공원 수영장에서 시민들이 더위를 식히기 위해 물놀이를 즐기고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염이 이어지면서 서울 한강공원 수영장과 물놀이장을 찾는 사람이 늘고 있다. 한강 물놀이장에선 야간에 DJ 파티까지 열린다. 하지만 문신을 한 젊은이들이 음주·흡연을 하면서 물놀이장이 야외 클럽처럼 변질됐다는 민원이 늘고 있다. &lt;br&gt;&lt;br&gt;6일 서울시에 따르면 지난 6월 19일부터 지난달 30일까지 뚝섬·여의도 수영장과 잠실·광나루·난지·양화 물놀이장 등 6곳을 찾은 이용객은 30만6958명이었다. 지난해 같은 기간보다 2만3064명(8%) 늘었다. 이용료는 물놀이장 1000~3000원, 수영장 3000~5000원 정도라 가족 단위 이용객이 많이 찾는다.&lt;br&gt;&lt;br&gt;올해는 여의도 수영장과 난지 물놀이장에서 처음으로 DJ 공연도 선보였다. 이 공연이 소셜미디어를 통해 입소문을 타면서 젊은 층도 많이 찾고 있다. 그러나 어린이들이 이용하는 시간에 마약이나 성적 행위를 묘사한 노래가 크게 재생돼 가족 이용객과 인근 주민들의 민원이 이어지고 있다. “문신 노출을 제한해달라”는 민원도 제기됐다. 공연 때 인파가 몰리며 신체 접촉과 불법 촬영 피해 신고도 잇따르고 있다. 영등포경찰서는 지난달 11일 여의도 수영장에서 여성의 신체를 몰래 촬영한 혐의를 받는 남성을 입건했다.&lt;br&gt;&lt;br&gt;실제로 본지가 최근 찾은 여의도 수영장은 평일인데도 선베드 150여 개가 가득 차 있었다. 상의를 벗은 남성 무리가 여성들에게 “함께 놀자”며 말을 걸었고, 바닥에는 음식물 용기와 담배꽁초가 널려 있었다. 가방에 숨겨온 맥주를 마시는 사람도 있었다. 초등학생 자녀와 온 A씨는 “아이들이 보고 배울까 걱정된다”고 했다. 서울시는 “안전요원을 늘리고 DJ 공연 음량과 선곡, 공연 시간을 보완하겠다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 경남 밀양에서는 가뭄으로 농업 용수가 부족한 상황에서 물 축제를 열기로 하면서 논란이 일고 있다. 밀양시는 7~9일 사흘간 삼문동 밀양강변에서 ’2026 밀양 수(水)퍼 페스티벌’을 열 계획이다. 현재 밀양에는 농업가뭄 ‘경계’ 단계가 발령됐다. 밀양 저수지 40곳의 평균 저수율은 30.0%로, 평년(74.4%)의 절반에 한참 못 미친다. 저수지 40곳 중 39곳에선 농업용수 제한 급수가 시행됐다. 생활 용수도 부족해 농촌 마을 상수도 128곳 중 6곳에서 제한 급수가 시행 중이다. 밀양 시민의 주 식수원인 밀양댐은 지난 5일부터 가뭄 단계가 ‘경계’로 격상됐다.&lt;br&gt;&lt;br&gt;밀양시 무안면에서 벼농사를 짓는 60대 A씨는 “물이 없어 논에는 벼가 말라가고 있는데 물 축제를 연다고 하니, 속이 탄다”고 말했다. 이와 관련, 안병구 밀양시장은 대시민 입장문을 내고 “물 축제는 지난해 7만명이 다녀갔을 정도로 지역 경제에 보탬이 된다”며 “올해도 관광객과 시민 1000여 명이 참가를 예약해 소상공인들의 기대가 크다”고 했다. 안 시장은 “농업용수와 상관없는 밀양강 물을 쓰고, 사용한 물은 도로 살수용으로 재활용해 물을 아끼겠다”고 했다.&lt;br&gt;&lt;br&gt;가뭄이 이어지는 경북 안동시 정하동 낙동강변에서도 지난달 25일부터 지난 2일까지 ‘안동 수(水) 페스타’가 열렸다. 안동은 밀양보다는 물 사정이 낫지만, 안동댐과 임하댐 역시 지난달 31일 가뭄 단계가 ‘주의’로 상향됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DP5GI5WDEBHZ5KTJR65RDFAVNY.jpg?auth=2c02cac760d9da77784b43f63ae33957a994c2ccf779b2051d2da8e1abdbdac9&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
-    </item>
-    <item>
-      <title>‘호남 반도체 주52시간’ 두고, 노동장관·산업장관 충돌</title>
-      <link>https://www.chosun.com/national/labor/2026/08/07/4MU7M2MPUJDTNPSW5QFLIKQPFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/08/07/4MU7M2MPUJDTNPSW5QFLIKQPFM/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRTMOJUGIZTENRYGE2DQNRZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현 정부의 전남광주 반도체 공장 추진 등과 관련한 ‘메가 특구’에 ‘주 52시간제’ 예외를 인정해 주느냐를 놓고 산업통상부와 고용노동부 장관이 계속 다른 의견을 내놓고 있습니다. 초대형 국가 프로젝트를 둘러싸고 장관들 사이에서 엇박자가 나오는 것이 말이 되느냐는 비판이 제기되고 있습니다. &lt;br&gt;&lt;br&gt;논란은 정부가 메가 특구 특별법을 추진하며 주 52시간제 예외와 화이트 이그젬션(고소득 특정 직군에 주 52시간제를 적용하지 않고 추가 수당을 주지 않는 것) 적용을 검토하고 있다는 사실이 지난달 30일 국회를 통해 알려지면서 시작됐습니다. 민주노총과 한국노총 등 양대 노총을 비롯해 여당인 더불어민주당 의원 일부까지 나서 ‘노동권 후퇴’라고 강하게 반발했습니다. 이재명 대통령이 앞장서서 독려하고 있는 초대형 투자 프로젝트에 노동계 반발이라는 변수가 생긴 것이지요. &lt;br&gt;&lt;br&gt;그런데 김영훈 노동부 장관은 지난 5일 기자 간담회에서 메가 특구에 주 52시간제 예외와 화이트칼라 이그젬션을 적용하는 것에 부정적인 입장을 내비쳤습니다. 이 발언이 논란이 되자 노동부는 이튿날 곧바로 설명 자료를 내고 “구체적인 내용은 확정된 바 없다”고 해명했습니다. 하지만 김 장관은 같은 날 유튜브에서 “주 52시간제 예외와 화이트칼라 이그젬션이 들어가야 산업 발전이 되는 것처럼 과잉 대표되는 경우가 있다. (두 방안이) 어떤 노동 생산성을 가져오는지 면밀히 봐야 한다”며 같은 주장을 반복했습니다. &lt;br&gt;&lt;br&gt;반면 김정관 산업부 장관은 전혀 다른 입장을 내놓았습니다. 그는 6일 서울 프레스센터에서 열린 관훈토론회에 참석해 “일하겠다는 젊은 사람들의 의지를 제도가 강제로 막아서는 안 된다”며 “연구·개발 분야는 물론 스타트업을 비롯한 첨단 산업 전반에서 52시간 근로 제도를 손볼 필요가 있다”고 강조했습니다. ‘996(오전 9시 출근·오후 9시 퇴근·주 6일 근무)' 제도를 도입하려 하자 직원들이 오히려 밤 12시까지 근무해야 한다고 한 중국 기업 사례를 소개하기도 했습니다.&lt;br&gt;&lt;br&gt;두 사람의 입장 차이는 이번이 처음이 아닙니다. 김영훈 노동부 장관은 반도체의 대규모 이익과 관련해 “천문학적인 성과는 우리 사회가 함께 만들어낸 이익의 총량”이라며 “공정한 분배가 더 확실한 재투자”라고 했습니다. 반면 김정관 산업부 장관은 “제발 우리 국민들이나 어느 당국자든지 반도체로 버는 돈을 나눠 먹을 생각은 안 했으면 좋겠다”고 했지요. 두 부처는 애초 함께 진행하려 했던 ‘초과 이윤 토론회’를 결국 나눠서 진행하기도 했습니다.&lt;br&gt;&lt;br&gt;김정관 산업부 장관은 관료 출신으로 기업 최고경영자를 지냈고, 김영훈 노동장관은 민주노총 위원장을 지낸 노동계 출신입니다. 두 사람의 배경을 감안하면 입장 차이가 극명하게 갈리는 것은 어느 정도 이해되는 측면도 있습니다. &lt;br&gt;&lt;br&gt;문제는 각 부처 장관은 특정 집단을 대변하는 사람이 아니라 정부를 대표하는 최고 공직자라는 점입니다. 정부 안팎에선 김영훈 장관에 대해 “아직도 자신을 민주노총 위원장으로 생각하는 것 아니냐”는 비판 목소리가 계속 나오고 있습니다. 이 대통령이 기업인들을 ‘국민영웅’ 띄우며 성공시키겠다는 국가 대형 프로젝트에 장관이 딴소리를 하는 것처럼 비춰지고, 장관들 사이에서 불협화음이 나오는 것을 국민들은 어떻게 바라볼까요. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“길 건너야 덜 더워요” 그늘앱 쓰고, 100m 초단거리 배달 시키고</title>
@@ -831,25 +871,6 @@
       <content:encoded>2차 종합특검(특별검사 권창영)이 한동훈 무소속 의원에게 오는 12일 오전 10시 참고인으로 출석해 조사받으라고 통보했다고 6일 밝혔다. 특검은 한 의원이 12·3 비상계엄이 해제된 2024년 12월 4일 국무총리 공관에서 열린 ‘당정대(당·정부·대통령실) 회의’에 참석한 경위와 당시 회의 내용 등을 확인할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7R2KN5QIJBOZKHTLXBUXMQABU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 무소속 의원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 의원은 당시 국민의힘 대표로서 추경호 국민의힘 원내대표와 함께 당정대 회의에 참석했다. 정부에서는 한덕수 전 국무총리과 박성재 전 법무장관, 방기선 전 국무조정실장 등이 참석했고, 대통령실에선 정진석 전 비서실장과 김주현 전 민정수석, 홍철호 전 정무수석 등이 참석한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 이날 회의에서 비상계엄을 정당화하기 위한 논의가 이뤄졌을 가능성이 있다고 의심하고 있다. 특검은 같은 날 저녁 열린 ‘삼청동 안가 회동’과 당정대 회의의 연관성에 대해서도 조사한다는 방침이다. 안가 회동에는 당정대 회의에 참석했던 박성재 전 장관과 김주현 전 수석, 이상민 전 행정안전부 장관 등이 모인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 오전 특검의 소환 소식이 알려지자, 한 의원은 페이스북에 “참고인 소환 통보를 받은 사실이 없다”며 “계엄 당일 여당 대표임에도 누구보다 앞장서서 계엄을 저지했다”고 썼다. 이어 한 의원은 “선거 기간에 아무 이유 없이 출국 금지를 시켜놓고 몇 달씩 멋대로 연장해 가면서도 한 번도 부르지 않더니, 이제 와서 (특검이) 보여주기식 언론 플레이를 한다”며 “정치 특검이 하려는 정치 수사를 도와줄 생각은 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 특검 관계자는 “한 의원의 개인 휴대전화와 의원실로 여러 차례 연락했지만 응답이 없어, 지난 4일 오후 서면으로 소환 통지서를 발송했고 오늘(6일) 도착했다”고 했다. 이 관계자는 “한 의원이 ‘특검이 출국금지만 걸어놓고 부르지 않는다’고 하길래 이번에 정식으로 소환했다”며 “참고인이니 와도 안 와도 그만이지만 출석해 당정대 회의에 대해 진술해주길 바란다”고 했다. 앞서 특검은 윤석열 정부가 검찰의 ‘쌍방울 대북 송금’ 수사에 개입한 의혹을 발견했다며, 당시 법무장관을 지냈던 한 의원을 약 3개월 가량 출국금지했다가 지난달 해제했다. &lt;br&gt;&lt;br&gt;한편 특검은 이날 오후 한 의원과 함께 당정대 회의에 참석했던 방기선 전 국무조정실장을 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“인기 없는 학과 없애고 반도체과 만드니, 학생들 늘더라”</title>
-      <link>https://www.chosun.com/national/education/2026/08/07/E6NGYDOPXFBB5NHZNFZRNXLXYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/07/E6NGYDOPXFBB5NHZNFZRNXLXYA/</guid>
-      <dc:creator>부산=김연주 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KIAUIPMNR5AZNBXWM4OXAY23XA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 부산 사하구 동아대 승학캠퍼스에서 이해우 총장이 본지와 개교 80주년 기념 인터뷰를 하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복 직후 설립된 부산 최초 사립대 동아대가 올해 개교 80주년을 맞았다. 최근 인구 감소로 지방대들이 위기를 겪고 있는데, 동아대는 각종 지표가 오히려 수직 상승했다. 외국인 유학생이 2020년 800명에서 2026년 2800명으로 늘었고, 입학 경쟁률도 올해 역대 최고(정시 6.78대1)를 기록했다. 5년간 1000억원을 받는 글로컬 대학, 900억원을 받는 라이즈 등 정부 사업에도 잇따라 선정됐다. 모두 2020년 이해우(63) 총장이 취임한 이후 이룬 성과다. 이 총장은 “지금 개혁에 나서지 않으면 지금의 나를 있게 한 모교의 100주년은 없다는 생각으로 밀어붙였다”고 말했다. 이 총장은 가난한 형편 때문에 일과 병행할 수 있는 동아대 야간 대학을 졸업했고 삼성중공업 거제조선소 연구원으로 일하며 박사 학위를 딴 뒤 모교 교수로 재직해 왔다. &lt;br&gt;&lt;br&gt;-역대 최고 입학 경쟁률의 비결은.&lt;br&gt;&lt;br&gt;“선제적인 학과 구조 조정을 한 덕분이다. 인기 없는 학과는 통폐합하거나 정원을 과감하게 줄였고, 수요가 많은 AI(인공지능), 반도체 관련 학과는 신설하거나 대폭 정원을 늘렸다.” &lt;br&gt;&lt;br&gt;-유학생도 3배 이상으로 늘었는데. &lt;br&gt;&lt;br&gt;“10국 이상 돌아다니면서 발품을 팔았다. 실무자에게 맡기는 것과 총장이 직접 나서는 건 결과가 완전히 다르다. 내년엔 4000명까지 확대하는 게 목표다.” &lt;br&gt;&lt;br&gt;-교직원 평가 시스템을 ‘성과 위주’로 뜯어고치는 내부 개혁에 성공해 대학가에서 화제였다. 어떻게 바꿨나. &lt;br&gt;&lt;br&gt;“동아대의 교수 임금 체계는 개교 이래 ‘단일 호봉제’였다. 근속 연수에 따라 매년 호봉이 오르고 연봉도 200만원 정도 늘어난다. 승진을 안 해도 호봉이 자동으로 오르니 연구를 할 동기가 적다. 유학생 유치에 중요한 글로벌 랭킹을 올리려면 연구 경쟁력을 높여야 한다. 이대론 안 되겠다는 생각으로 논문을 안 쓰면 호봉이 오르지 않게 제도를 바꿨다. 연구 성과가 좋은 교수가 빨리 승진할 수 있게 승진에 필요한 최저 연수도 폐지했다.”&lt;br&gt;&lt;br&gt;-취업 규칙을 근로자에게 불리하게 바꾸려면 과반수 이상 동의를 얻어야 한다. 어떻게 동의를 얻어냈나.&lt;br&gt;&lt;br&gt;“교수들에게 위기 상황을 설명했다. ‘학령인구 감소로 2034년이면 부산 지역 대학 중 3분의 2가 문을 닫아야 한다. 나는 이제 정년 2년 남았고 연금 받으면 되니 아무 문제가 없지만, 젊은 교수들에겐 직장이 사라지는 문제 아닌가. 우리가 경쟁력을 높여야 애들이 온다.’고 설득했다. 당장이 아니라 2028년에 도입하기로 한 것도 도움이 됐다. 60세 이상 교수 대부분이 동의해줬고, 결국 70% 이상 동의했다.” &lt;br&gt;&lt;br&gt;-직원 승진 제도는 왜 바꿨나.&lt;br&gt;&lt;br&gt;“직원들은 승진을 해야 월급이 오른다. 성과와 상관없이 근속 연수에 따라 대부분 4급까지 승진하는 구조였다. 4급이면 연봉이 1억원 정도인데, 이건 아니라고 생각했다. 그래서 경력 가산점은 줄이고, 팀장 평가를 신설하는 등 성과 위주로 승진 제도를 바꿨다.”&lt;br&gt;&lt;br&gt;-직원들은 어떻게 설득했나.&lt;br&gt;&lt;br&gt;“일 잘하고 능력 있는 사람한테는 절대 불리한 제도가 아니라고 설득했다. 워라밸을 챙기고 싶은 사람과 열심히 하는 사람이 구분돼야 조직이 살지 않겠느냐고 설득했고, 직원들도 이를 받아줬다.”&lt;br&gt;&lt;br&gt;-취임 초엔 단체협약을 고치는 과정에서 직원 노조와 큰 갈등을 겪었다.&lt;br&gt;&lt;br&gt;“직원 전출·전입 시 노조와 사전 합의를 하게 돼 있는 단체협약 조항이 있었다. 인사권을 노조가 갖는 건데, 말이 안 되는 것 아닌가. 이걸 고치자고 하니 파업을 하더라. 총장실 입구에 천막 치고 농성을 했다. 지부장은 삭발하고, 민주노총 전국대학노동조합에서도 학교를 찾아와 압박했다. 쟁의와 파업이 7개월간 이어졌다.”&lt;br&gt;&lt;br&gt;-결국 합의를 이끌어냈는데.&lt;br&gt;&lt;br&gt;“끝까지 버티면서 ‘무노동 무임금’ 등 원칙을 고수한 결과, 전출입 조항 등을 개정했다. 수면제를 안 먹으면 잠을 못 잘 만큼 힘들었지만, 잘못된 걸 바로잡으려면 어쩔 수 없다고 생각했다.”&lt;br&gt;&lt;br&gt;-2023년 전국 주요 사립대 최초로 등록금을 인상해 화제였다. 정부가 반대했는데, 왜 올렸나. &lt;br&gt;&lt;br&gt;“취임해서 학교 살림살이를 들여다보니 적자로 돌아설 정도로 심각했다. 아이들 화장실도 못 고쳐줄 정도였다. 학생들한테는 ‘등록금 올린 거 다 너희에게 투자하겠다’고 설득했다. 등록금 인상으로 매년 수십억 원이 더 들어오는데, 모두 교육 환경 개선에 재투자하고 있다.”&lt;br&gt;&lt;br&gt;-향후 100주년 목표는.&lt;br&gt;&lt;br&gt;“사회에 꼭 필요한 인재를 양성해 ‘동아대 브랜드’를 구축하겠다. 승학·부민·구덕 등 3개 캠퍼스를 특화해 경쟁력을 높이겠다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>땡볕에 나가느니 책을 읽겠어… 도서관 피서</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/07/54FVGCRYTBCMNHNTGNQXGM7HFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/54FVGCRYTBCMNHNTGNQXGM7HFM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5JQ3DJJV5A73IKRVWNIX3DFQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 전북 고창군 ‘고창황윤석도서관’을 찾은 시민들이 독서에 몰두하고 있다. 이날 전국 대부분 지역에 폭염 특보가 발효되면서 방학과 휴가철을 맞은 시민들이 더위를 피해 시원한 도서관을 찾았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“징벌적 세금 타깃된 구민들… 재산세 감면 등 부담 덜어줄 것”</title>
       <link>https://www.chosun.com/national/national_general/2026/08/07/OLHXWRE3WVGPJJ73LVTEMC4HWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/OLHXWRE3WVGPJJ73LVTEMC4HWA/</guid>
@@ -857,18 +878,6 @@
       <description/>
       <pubDate>Thu, 06 Aug 2026 15:42:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGCCZJUEYJGT5GV3GKRAQP2XOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 서울 강남구청 구청장실. 김현기 강남구청장이 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김현기(70) 서울 강남구청장은 6일 본지 인터뷰에서 “‘징벌적 세금’의 타깃이 된 강남 주민들의 세금 부담을 덜어줄 것”이라고 말했다. 그는 임기 첫날, 전국 최초로 공시가 12억원 이하 다자녀 가구의 재산세 감면과 재산세 분할 납부 제도 강화 등을 발표했다. 그는 “서울 25구(區) 중 세금 기여도가 가장 높은 강남구가 정부의 지원 사업 우선순위에서는 후순위로 밀린다”며 “강남이 ‘역차별’을 받고 있다”고도 했다. 김 구청장은 국민의힘 소속 4선 서울시의원 출신으로 서울시의회 의장을 지냈다. 서울시의회 의장 출신 첫 구청장이다. &lt;br&gt;&lt;br&gt;-임기 첫날 재산세 감면 정책을 내놓았는데.&lt;br&gt;&lt;br&gt;“올 1월 강남구 아파트의 공시 가격은 전년보다 25.83% 뛰었다. 서울시 평균 상승률(18.6%)을 크게 웃돈다. 정부 정책 때문에 부동산 가격이 비정상적으로 올라 강남구민 재산세 부담이 크게 늘었다. 수입 없이 집 한 채뿐인 노인 세대 부담이 크다. 재산세 분할 납부·납부 유예 제도를 강화하고, 공시 가격 12억원 이하 다자녀 가구의 재산세를 감면해 1500가구가 혜택을 봤다.”&lt;br&gt;&lt;br&gt;김 구청장 사무실에는 강남구 정비 사업 현황도가 비치돼 있었다. 강남구에만 재건축·재개발 등 정비 사업 현장이 103곳이다.&lt;br&gt;&lt;br&gt;-‘신화 프로젝트’를 추진하는데.&lt;br&gt;&lt;br&gt;“‘강남 재건축 신속화합 프로젝트’의 줄임말이다. 주민 간 갈등 조정부터 인허가 절차까지 빠르게 처리하겠다는 뜻이다. 관련 담당자들이 일괄적으로 재건축 사업을 검토해 처리한다. 대치동 은마아파트는 약 40일 만에 사업시행계획을 인가했다.”&lt;br&gt;&lt;br&gt;-‘K테크밸리’ 공약 구상은.&lt;br&gt;&lt;br&gt;“벤처·창업 중심이었던 강남구를 첨단 산업 중심으로 바꾸겠다는 것이다. K는 코리아가 아니라 강남이다. 수서역세권에는 로봇 산업 클러스터를 조성 중이다. 삼성동에 들어서는 현대차 글로벌 비즈니스 콤플렉스(GBC)에는 도심 항공 교통(UAM) 포트를 만든다. 대치동에는 구글 AI(인공지능) 캠퍼스가 문을 열 예정이다.”&lt;br&gt;&lt;br&gt;-K콘텐츠 산업은 어떻게 육성하나.&lt;br&gt;&lt;br&gt;“K컬처의 본산인 강남에 전용 공연장 하나 없다. GBC에 2000석 규모 K콘텐츠 복합 공연장을 만들 예정이다. K팝 콘서트뿐 아니라 오페라, 뮤지컬 등 공연도 할 수 있게 만들 것이다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“기업 유치만으론 한계… 목표·비전 가진 창업 생태계로”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/07/UTTXDXDYTZH3XD6COQU2IFE5K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/07/UTTXDXDYTZH3XD6COQU2IFE5K4/</guid>
-      <dc:creator>충북=신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:42:00 +0000</pubDate>
-      <content:encoded>신용한(57) 충북지사는 6일 본지 인터뷰에서 “지역 경제를 살리려면 기업 유치만으로는 부족하다”며 “‘매출 목표와 당기순이익’처럼 명확한 목표와 비전을 가지고 창업 생태계를 만들겠다”고 했다. 신 지사는 창업 투자 회사를 설립한 경험이 있는 기업인 출신이다. 박근혜 정부 대통령 직속 청년위원장(장관급)을 지냈고, 현 정부 출범 후엔 대통령 직속 지방시대위원회 부위원장을 지냈다. 지난 6·3 지방선거 때 더불어민주당 후보로 출마해 충북지사에 당선됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6S7S2AEINDZLHN2SXYQCH5WEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신용한 충북도지사가 15일 충북 도청 집무실에서 가진 본지와 인터뷰에서 포즈를 취하고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-‘창업 특별도’를 공약으로 내세웠다.&lt;br&gt;&lt;br&gt;“외부 기업 유치만으로는 지역 경제를 성장시키는 데 한계가 있다. 새로운 산업과 일자리는 결국 창업에서 나온다. 단순히 창업 기업 숫자를 늘리는 정책이 아니라 아이디어가 사업으로 이어지고, 성장한 기업의 경험과 자본이 다시 새로운 창업으로 연결되는 생태계를 만들 계획이다. 충북형 창업 펀드를 확대하고 창업 기업에 투자하는 민간 투자사와 창업 지원 기관도 적극 유치하겠다.”&lt;br&gt;&lt;br&gt;-기존의 성장 방식을 바꾸자고 했는데.&lt;br&gt;&lt;br&gt;“기업을 경영하면서 ‘속도’와 ‘신뢰’의 가치를 배웠다. 수도권을 뒤따르는 전략만으로는 더 이상 지속 가능한 발전을 기대하기 어려운 상황이다. 충북이 가진 첨단 산업 경쟁력을 높이고, AI 같은 미래 기술을 접목해 수도권보다 먼저 새로운 성장 동력을 만들어야 한다. 기업에도 충북이 확실하게 지원하겠다는 신뢰를 얻어 기업의 투자가 지역 창업, 인재 양성으로 선순환하는 산업 생태계를 구축하겠다.”&lt;br&gt;&lt;br&gt;-구체적 방안이 있나.&lt;br&gt;&lt;br&gt;“충북은 반도체와 바이오, 이차전지 등 대한민국 최고 수준의 첨단 산업 기반을 갖추고 있다. 오송을 세계적인 바이오 허브로 육성하고, 신약 개발과 첨단 연구도 적극 지원하겠다. AI와 첨단 제조 기술을 기존 산업과 융합해 새로운 성장 동력을 만들 계획이다. SK하이닉스와 셀트리온의 대규모 투자가 생산과 연구·개발, 협력 기업 육성으로 이어질 수 있도록 하겠다. 충북이 대한민국 첨단 산업 중심이 될 것이다.”&lt;br&gt;&lt;br&gt;-충북의 재정 정상화도 시급하다.&lt;br&gt;&lt;br&gt;“도 재정 현황을 보고받고 숨이 막혔다. 미래에 투자할 재원을 확보하기 위한 긴축이 필요하다. 한정된 재원을 충북의 미래 경쟁력을 높일 분야에 집중하겠다. 확보한 재원으로 첨단 산업과 창업, 청년, 공공 의료와 안전 등에 우선 투자하겠다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CS2HBPO6LRHSTFCRREHJZZLKNA.jpg?auth=3294e5a96098b38bd7fac02103024f2a8079f150b62ebfc3297674cf71bb70cf&amp;smart=true&amp;width=3545&amp;height=2425" type="image/jpeg" height="2425" width="3545">
-        <media:description type="plain">신용한 충북도지사가 15일 오전 충북 도청 집무실에서 본지와 인터뷰를 갖고 있다. /신현종 기자 (동영상 있음)</media:description>
-      </media:content>
     </item>
     <item>
       <title>어르신 택시 불러주고, 고민 상담까지… 해외서 벤치마킹 하러 온다</title>
