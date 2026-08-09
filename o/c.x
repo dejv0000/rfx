@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울서 하루 새 온열질환 추정 사망자 2명... 올여름 최다</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/09/6CRRWJ573JBHJPDR5PGNEB5PQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/6CRRWJ573JBHJPDR5PGNEB5PQ4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 05:21:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7EBH4SPFFPTHEEUSSVTRPJDLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 서울역 광장에서 노숙인들이 더위를 피하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에서 하루 사이 온열 질환 추정 사망자가 2명 발생했다. 올여름 서울에서 하루 기준 가장 많은 온열 질환 사망자가 나온 것이다.&lt;br&gt;&lt;br&gt;9일 서울시에 따르면, 지난 7일 서울에서는 온열 질환자 35명이 발생했고 이 가운데 2명이 숨졌다. 중랑구에서는 58세 남성이 길가에서 구토와 의식 저하 증세를 보여 병원으로 옮겨졌으나 치료 중 사망했다. 강남구에서는 81세 여성이 자택에서 의식을 잃은 채 앉아 있는 것을 보호자가 발견해 신고했지만 숨졌다.&lt;br&gt;&lt;br&gt;질병관리청 온열질환 응급실감시체계에 따르면, 5월 15일부터 지난 7일까지 서울의 온열 질환자는 386명으로 집계됐다. 전국 누적 환자는 3089명으로 지난해 같은 기간(3360명)보다 8% 적었지만, 사망자는 지난해 21명에서 올해 29명으로 늘었다.&lt;br&gt;&lt;br&gt;서울 전역에는 지난 7일 오후 6시부터 폭염 경보가 발효 중이다. 앞서 4일에는 폭염 특보 최고 단계인 폭염 중대 경보까지 내려졌다가 이후 폭염 경보로 조정됐다.&lt;br&gt;&lt;br&gt;서울시는 시·자치구 합동으로 103개 반 484명 규모의 폭염 상황실을 운영하고 있다. 지난 6월 18일 첫 폭염주의보 발효 이후 독거노인과 야외 근로자, 장애인·만성질환자, 노숙인, 쪽방 주민 등 취약계층 3만1308명을 지원했다. 무더위쉼터와 기후동행쉼터, 응급대피소, 이동노동자쉼터 등 9849곳도 운영 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최태원·노소영 ‘9440억 재산분할’ 또 대법원 갈까...재상고 기한 D-5</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/09/J6BN423DYRBGJLO34NZW3N4K24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/09/J6BN423DYRBGJLO34NZW3N4K24/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 05:01:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRWINRTG43DGZJZGJSTOMZTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 26일 최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장이 서울 서초구 서울고등법원에서 열린 파기환송심 2차 변론에 출석하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 9440억원대 이혼 재산분할 소송의 재상고 기한이 닷새 앞으로 다가왔다. 양측이 파기환송심 판결에 불복해 다시 대법원 판단을 받으려면 오는 14일 자정까지 서울고법에 상고장을 제출해야 한다. &lt;br&gt;&lt;br&gt;서울고법 가사1부(재판장 이상주)는 지난달 24일 최 회장과 노 관장의 이혼 재산분할 소송 파기환송심에서 최 회장이 노 관장에게 재산분할금 9440억원을 전액 현금으로 지급하라고 판결했다. 또 판결이 확정된 다음 날부터 모두 갚는 날까지 연 5%의 지연 이자를 지급하도록 했다.&lt;br&gt;&lt;br&gt;양측이 14일까지 재상고하지 않으면 파기환송심 판결은 그대로 확정된다. 2015년 최 회장이 혼외자의 존재를 공개하며 시작된 두 사람의 이혼과 재산분할을 둘러싼 법적 다툼이 마무리되는 것이다. 다만 이 경우 최 회장은 곧바로 9440억원을 지급해야 하고, 지급을 미루면 하루 약 1억2930만원, 1년이면 약 472억원의 지연 이자까지 줘야 한다.&lt;br&gt;&lt;br&gt;이 때문에 법조계에선 최 회장 측이 다시 상고할 가능성이 높다는 관측이 나온다. 재상고하면 대법원의 최종 판결이 나올 때까지 파기환송심 판결의 확정이 미뤄져 9440억원을 당장 지급할 필요가 없다. 재산분할금을 마련하기 위해 주식담보대출이나 자산 매각 등이 필요할 경우 그만큼 시간을 확보하는 효과도 있다.&lt;br&gt;&lt;br&gt;한 부장판사 출신 변호사는 “파기환송심이 앞선 대법원의 파기환송 취지에 따라 다시 판단한 만큼 재상고심에서 결론이 크게 달라질 가능성은 높지 않다”면서도 “1조원에 가까운 현금을 마련해야 하는 최 회장 입장에서는 판결 확정을 늦출 필요가 있어 재상고할 유인이 충분하다”고 했다.&lt;br&gt;&lt;br&gt;두 사람의 이혼 소송 과정에서 재산분할 규모는 널뛰기를 했다. 2022년 12월 1심은 최 회장의 SK㈜ 주식을 재산분할 대상에서 제외하고 노 관장에게 665억원을 지급하라고 했다. 하지만 2024년 5월 항소심은 노태우 전 대통령이 최종현 SK 선대회장에게 건넸다는 비자금 300억원이 SK그룹 성장에 기여했다고 보고 SK㈜ 주식까지 분할 대상에 포함해 재산분할액을 1조3808억원으로 크게 늘렸다. &lt;br&gt;&lt;br&gt;대법원은 지난해 10월, 설령 300억원이 SK그룹에 전달됐더라도 이는 노 전 대통령의 재임 중 뇌물로 만든 자금인 만큼 노 관장의 기여로 인정할 수 없다고 판단해 사건을 서울고법으로 돌려보냈다. 파기환송심은 지난달 24일 300억원의 기여는 제외하면서도 SK㈜ 주식은 여전히 분할 대상이라고 보고, 노 관장의 기여도를 3분의 1로 정해 최 회장이 현금 9440억원을 지급하도록 했다. 최 회장 측은 선고 직후 재상고 여부를 검토하겠다고 밝혔고 노 관장 측은 별다른 입장을 내지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>40도 ‘극한 폭염’ 한풀 꺾였지만…전국 체감 35도·열대야 계속</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/09/3OOKUKRWIRGXXN5O346BNDNBQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/09/3OOKUKRWIRGXXN5O346BNDNBQ4/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Aug 2026 04:28:38 +0000</pubDate>
+      <content:encoded>40도 안팎의 ‘극한 폭염’은 한풀 꺾였지만, 당분간 전국 대부분 지역에서 최고 체감 온도가 35도 안팎까지 오르는 무더위가 이어질 전망이다. 비나 소나기가 내리는 곳은 일시적으로 기온이 내려가겠지만, 비가 그친 뒤에는 높은 습도 때문에 체감 더위가 다시 심해질 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRGEYZWGVSWMMLGMU4WGNDCG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 광화문 네거리에서 한 시민이 양산과 휴대용 선풍기로 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 기상청에 따르면, 전국 대부분 지역에 폭염 특보가 발효된 가운데 당분간 기온은 평년보다 높은 수준으로 나타날 전망이다. 이날 낮 최고기온은 26~35도로 전날(27.6~38.1도)보다 다소 낮겠다. 10일 아침 최저기온은 21~26도, 낮 최고기온은 27~34도, 11일은 아침 최저기온 19~25도, 낮 최고기온은 27~35도로 예보됐다. &lt;br&gt;&lt;br&gt;최근 전국 곳곳에서 낮 기온이 40도를 넘었던 것과 비교하면 폭염의 기세는 다소 누그러졌지만, 평년 최고기온(28~32도)을 웃도는 더위는 계속될 것으로 보인다.&lt;br&gt;&lt;br&gt;특히 비나 소나기가 내린 지역은 비가 그친 뒤 습도가 높은 상태에서 기온이 다시 오르면서 후텁지근한 날씨가 이어질 전망이다. 습도가 높아지며 전국 대부분 지역의 최고 체감 온도는 35도 안팎까지 치솟을 것으로 예상된다. 9일부터 10일 오전까지 강원 중·남부 동해안과 산지, 경북 동해안과 북동 산지에는 20~60㎜, 많은 곳은 80㎜ 이상의 비가 내리겠다. 부산·울산에도 20~60㎜, 제주 산지와 중산간에는 10~50㎜의 비가 예상된다.&lt;br&gt;&lt;br&gt;전국 대부분 지역에서 밤에도 기온이 크게 떨어지지 않아 열대야가 나타나는 곳이 많겠다. 실내외 작업장과 논·밭, 도로 등에서는 기상관측 지점보다 체감 온도가 더 높을 수 있어 온열 질환 예방 등 건강 관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“너도 얼마나 더웠으면…” 물놀이장서 수영 즐긴 구렁이</title>
       <link>https://www.chosun.com/national/2026/08/09/LITQPFH2ZVBGBJC66NJZQVQLLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/08/09/LITQPFH2ZVBGBJC66NJZQVQLLE/</guid>
@@ -749,24 +776,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYYDSNJTHA4TSZJTGBTDAMJVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청첩장 자료사진. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정년퇴직을 4개월 앞둔 초등학교 교장이 이미 결혼한 아들이 결혼한다며 ‘가짜 모바일 청첩장’을 돌려 축의금 수백만원을 챙겼다가 들통이 났다.&lt;br&gt;&lt;br&gt;전남광주 광양경찰서는 광양시의 한 초등학교 교장 A(62)씨를 최근 사기 혐의로 검찰에 불구속 송치했다고 6일 밝혔다. 8월 말 정년퇴직을 앞두고 있는 A씨는 지난 4월 관내 교직원 단체 대화방에 아들의 결혼 소식을 알리며 신랑·신부 측 계좌번호가 적힌 가짜 모바일 청첩장을 올렸다. 청첩장에는 “양가 가족만 모시고 작은 혼례로 진행하게 돼 직접 모시지 못한다. 참석을 정중히 사양한다”는 메시지도 담았다.&lt;br&gt;&lt;br&gt;그런데 A씨 아들은 이미 지난해 결혼한 유부남이었다. 정식 결혼식을 올리지는 않았지만, 피로연 등만 열고 가정을 꾸린 것으로 알려졌다. 이같은 사실은 모바일 청첩장의 만듦새가 조잡하고 아무도 참석하지 못하게 안내한 것을 수상히 여긴 몇몇 교직원들이 확인에 나서면서 드러났다. 청첩장에 기재된 예식장에 직접 확인해 보니 신랑 이름으로 예약된 결혼식이 없었고, 청첩장에 적힌 신부 측 계좌번호도 존재하지 않는 가짜였다고 한다. &lt;br&gt;&lt;br&gt;이런 사실이 알려지자 한 시민 고발로 경찰 수사가 시작됐고, A씨는 뒤늦게 결혼식이 취소됐다고 알리면서 무마에 나섰다. 하지만 이미 A씨 통장에는 축의금 수백만원이 입금된 뒤였다. 경찰은 A씨에게 사기 혐의를 적용해 검찰에 불구속 기소 의견으로 송치했다. &lt;br&gt;&lt;br&gt;A씨는 2024년 3월 교장으로 부임한 이 학교가 마지막 근무지였다. 8월 정년 퇴임이 다가오자 주변에 “그동안 뿌린 돈이 아깝다”는 말을 가끔 했었던 것으로 전해졌다. 그는 교장 재임 기간 학교에 나무를 심으면서 학교 예산으로 자기 이름을 새긴 비석도 세우고, 교장실 안에 러닝머신도 설치한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;교육 당국은 지난 6월 감사를 거쳐 A씨에게 1개월 정직 처분을 내렸다. 이번 징계로 A씨는 30년 이상 재직한 교직원에게 수여하는 ‘옥조근정훈장’도 못 받게 됐다. 가짜 청첩장 사기로 법원에서 금고 이상의 형을 선고받을 경우, 공무원연금법에 따라 퇴직 연금의 절반도 받을 수 없게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지방 중수청 전국에 6곳뿐… 속초 피해자, 서울까지 가야</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/07/HPOGKIQODVHBZL4WGOT6OFRUIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/07/HPOGKIQODVHBZL4WGOT6OFRUIU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 15:45:00 +0000</pubDate>
-      <content:encoded>개정 형사소송법은 검사의 직접 보완 수사권을 폐지하고, 중대범죄수사청(중수청)이 이를 대신할 수 있도록 했다. 이에 발맞춰 중수청 개청준비단은 최근 서울 본청과 전국 6곳에 지방청을 설치하는 내용의 조직안 등을 발표했다. 하지만 지방 중수청이 6곳에 불과해 범죄 피해자가 조사받는 과정에서 이동 부담이 커지고 사건 처리가 지연될 수 있다는 지적이 법조계에서 나온다. &lt;br&gt;&lt;br&gt;개정 형사소송법 등에 따르면, 10월 2일부터 공소청 검사가 경찰에 보완 수사를 요구했는데도 경찰이 이를 제대로 이행하지 않으면 공소청은 상급 경찰관서나 다른 수사기관을 보완 수사 기관으로 지정할 수 있다. 정부는 이에 맞춰 중수청 본청과 서울청 제외 5개 지방청에 보완 수사를 전담하는 사회약자범죄특별수사팀을 두고, 서울청에는 과 단위 조직을 설치하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT2HQPCKCRE5HB2Z4WGEQ5W7P4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 지방 중수청이 서울·수원·대전·대구·부산·광주 등 6곳에만 설치돼 관할 지역이 여러 시·도에 걸쳐 있다는 점이다. 서울청은 서울·인천·강원·경기 북부를, 수원청은 경기 남부를 맡는다. 대전청은 대전·세종·충남·충북, 대구청은 대구·경북, 부산청은 부산·울산·경남, 광주청은 전남광주·전북·제주를 각각 관할한다.&lt;br&gt;&lt;br&gt;이에 따라 강원도 속초경찰서에서 조사를 받던 피해자는 중수청이 보완 수사 기관으로 지정되면 서울청으로 가서 다시 조사를 받아야 한다. 제주에서 경찰 조사를 받던 피해자는 보완 수사가 이뤄질 경우 광주청까지 가야 한다. 검사장 출신 변호사는 “피해자 보호를 강화한다면서 오히려 피해자의 이동 거리와 비용을 늘리는 구조가 됐다”며 “지방 검찰청과 경찰서 단위에서 이뤄지던 보완 수사를 광역 단위 중수청이 맡게 되면 고령자와 장애인, 성폭력 피해자 등 사회적 약자의 부담은 더 커지고 대면 조사 일정도 늦어져 사건 처리가 지연될 것”이라고 했다.&lt;br&gt;&lt;br&gt;보완 수사를 전담하는 중수청 사회약자범죄특별수사팀의 인력 확보도 관건이다. 중수청에는 반부패·경제범죄수사국 등 인지 수사가 가능한 부서가 많기 때문에 수사관들이 보완 수사만 전담하는 부서를 희망할 유인이 크지 않다는 것이다. 한 현직 검찰 간부는 “보완 수사 전담팀이 기피 부서가 되면 사회적 약자 사건 수사가 오히려 미진해질 수 있다”며 “정부가 피해자 접근성과 인력 배치 등 실제 운영에 대한 충분한 검토 없이 보완 수사를 대체할 조직의 형식만 갖춰 놓은 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;중수청은 출범 후 부패·경제·방위사업·마약·국가보호·사이버범죄와 법왜곡죄 등 7대 중대범죄를 수사하며, 전체 정원은 2874명이다. 이 가운데 수사관은 2567명이고 일반직 공무원 등은 307명이다. 본청에 396명, 서울청에 1089명이 배치된다. 이외 5개 지방청 정원은 수원 343명, 부산 322명, 대전 261명, 광주 240명, 대구 223명으로 총 1389명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 경찰 특수본, 이종호 ‘임성근 구명 로비 의혹’ 불송치</title>
-      <link>https://www.chosun.com/national/incident/2026/08/07/PF4IWKSX6NGCVGXVPYDACVTMBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/07/PF4IWKSX6NGCVGXVPYDACVTMBM/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 22:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSTMOJZMVSTGNJXGNSWCMJXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장 '구명 로비'를 벌였다는 의혹을 받은 이종호 전 블랙펄인베스트먼트 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대원 순직 사건 관련 처벌 대상에서 임성근 전 해병대 1사단장을 제외하려 한 ‘구명 로비’ 의혹을 받은 이종호 전 블랙펄인베스트먼트 대표에 대해 경찰이 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;7일 본지 취재를 종합하면, 경찰청 3대 특검 인계 사건 특별수사본부(특수본)는 지난달 23일 이종호 전 대표의 직권남용, 청탁금지법 위반 혐의에 대해 불송치 결정을 내렸다. 윤석열 전 대통령 부인 김건희 여사의 측근으로 알려진 이 전 대표는 임성근 사단장이 해병대원 사망 사건 관련 처벌 대상에서 제외될 수 있도록 김 여사를 통해 윤 전 대통령에게 부정 청탁을 했다는 혐의(청탁금지법 위반)를 받았다. 또 윤 전 대통령과 공모해 해병대 수사관들의 언론 브리핑을 막고, 국방부 검찰단이 사건 기록을 경찰로부터 회수하게 해 임 사단장을 피의자에게 제외하도록 한 혐의(직권남용)도 받았다.&lt;br&gt;&lt;br&gt;이 전 대표의 ‘구명 로비 의혹’은 고위공직자범죄수사처(공수처)에 처음 고발됐고, 지난해 6월 순직해병 특검팀이 이첩받아 수사해 왔다. 하지만 순직해병 특검은 해당 의혹을 규명하지 못했고, 수사 외압 의혹과 이종섭 전 호주 대사 임명 관련 의혹 등에 대해서만 윤 전 대통령 등을 기소했다. &lt;br&gt;&lt;br&gt;특검의 잔여 사건을 인계받아 수사해 온 경찰 특수본은 이 전 대표의 ‘구명 로비’ 의혹 사건을 각하했다. 특수본은 불송치 이유에 “순직해병 특검이 혐의 사실과 동일한 내용에 대해 수사를 진행해 윤 전 대통령 등 관련자들을 공소 제기했기 때문”이라고 적시했다. 경찰 관계자는 “특검이 이 전 대표를 기소하지 않은 것이 해당 혐의에 대한 사법적 판단이 이뤄진 것이라는 취지”라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>투표용지 합수본, ‘통계 조작’ 서울·경기·충북 선관위 등 추가 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2026/08/07/CYNAB2XIA5HO7MUZVCT2AO2LF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/07/CYNAB2XIA5HO7MUZVCT2AO2LF4/</guid>
@@ -945,15 +954,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GKGYF7YQN5CPZJXVZRJGWGSINE.jpg?auth=a90abb33d8bc2e4bd1b4d4859c315d0dd92ca4d1660a962073759089b3bf8e30&amp;smart=true&amp;width=700&amp;height=686" type="image/jpeg" height="686" width="700">
         <media:description type="plain">스테비아 토마토/조선DB</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘미성년 피해자 2명’… 경찰, 최영중 전 시의원 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/08/06/EVCEDYZARZFUVK4UDSADKUODNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/08/06/EVCEDYZARZFUVK4UDSADKUODNQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 02:10:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYTSMZTGQ2DINDDGJQWCZBVMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미성년자 성매매 혐의 등을 받는 최영중 전 청주시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동 성매매 등 혐의를 받는 최영중 전 청주시의원이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;청주청원경찰서는 6일 최 전 의원을 미성년자의제강간, 성착취물 제작, 성매매 권유, 성착취 목적 대화, 아동복지법상 아동에 대한 음행강요·매개·성희롱 등 혐의로 검찰에 송치했다. &lt;br&gt;&lt;br&gt;최 전 의원은 2024년 10월부터 약 1년간 세 차례에 걸쳐 중학생 피해자와 차량과 모텔 등에서 성관계를 하고, 나체 사진을 촬영해 보내도록 요구한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 피해자에게 친구나 지인을 데려오면 돈을 더 주겠다고 제안하는 등 성매매를 권유하고, 부적절한 성적 대화를 이어간 혐의도 받는다.&lt;br&gt;&lt;br&gt;경찰은 비슷한 시기 최 전 의원이 또 다른 미성년자 1명을 상대로 성범죄를 저지른 정황도 확인해 관련 혐의를 추가 적용했다.&lt;br&gt;&lt;br&gt;아울러 수사 과정에서 확보한 휴대전화에서 추가 피해자로 보이는 여성의 신체를 촬영한 사진을 확인하고, 여죄 가능성을 염두에 두고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;최 전 의원은 경찰 조사에서 “성관계를 한 사실은 있지만 상대방이 미성년자인 줄은 몰랐다”는 취지로 진술하며 혐의를 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 구속 기한 만료에 따라 최 전 의원을 우선 검찰에 넘겼지만, 추가 피해자 여부와 여죄에 대한 수사는 계속 이어갈 방침이다. 수사 과정에서 새로운 범죄 사실이 확인될 경우 관련 기록을 검찰에 추가 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 뜨거워진 피부엔</title>
