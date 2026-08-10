@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 엘시티 상가서 사무장병원 운영한 일당 4명 재판행</title>
+      <link>https://www.chosun.com/national/regional/2026/08/10/VYLWKMU6WJG3TB7QPQJ4TBCIZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/10/VYLWKMU6WJG3TB7QPQJ4TBCIZI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Aug 2026 05:38:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOA7XACD5BFTDIAIK2BYPANTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지검 동부지청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구 엘시티(LCT) 상가에서 사무장 병원을 운영한 혐의를 받는 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 동부지청은 의료법 위반과 특정경제범죄가중처벌법상 사기 등 혐의로 해운대구 한 병원 행정원장 A씨와 의사 B씨 등 2명을 구속 기소했다고 10일 밝혔다. 검찰은 또 다른 의사 1명과 직원 1명도 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨 등은 2024년 9월부터 올 6월까지 해운대구 엘시티 상가동에서 사무장 병원을 차려 운영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 병원은 의사인 B씨 명의로 개설됐으나 실질적 대표는 A씨였던 것으로 조사됐다. 사무장 병원은 일반인이 의료인 명의만 빌려 운영하는 불법 의료기관이다. 수익을 내기 위해 불법·과잉 진료를 일삼아 건강보험 재정 누수 요인으로 지목돼왔다.&lt;br&gt;&lt;br&gt;이들은 병원을 운영하며 12억9000만원에 달하는 요양 급여를 부정하게 타낸 혐의를 받는다. 또 A씨와 B씨는 직원 38명의 임금 3억4000만원가량을 체불한 혐의(근로기준법 위반)도 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>돈 받고 수사 정보 빼돌린 경찰관, 징역 2년</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/10/DKO73TF2IRC3XNKHK2PHRD2ZVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/DKO73TF2IRC3XNKHK2PHRD2ZVM/</guid>
+      <dc:creator>윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Aug 2026 05:31:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2WEMZRGBRDKZRRHA2DMOBWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금품을 받고 수사 정보를 빼돌린 혐의로 구속된 전직 경찰관이 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사9단독 고소영 판사는 10일 뇌물수수·공여, 개인정보보호법 위반 등 혐의를 받는 전직 경찰 이모(55)씨에게 징역 2년과 벌금 3000만원, 추징금 2555만원을 선고했다. &lt;br&gt;&lt;br&gt;이씨는 2022년 2월부터 2024년 12월까지 브로커 조모(63)씨로부터 총 2400만원의 금품과 155만원 상당의 향응을 받고, 사업가 A씨 관련 사건의 수사 진행 상황과 사건 관계인의 개인 정보를 조씨에게 전달한 혐의를 받는다. &lt;br&gt;&lt;br&gt;조씨는 ‘수사 담당자에게 영향력을 행사해 주겠다’는 명목으로 A씨로부터 약 4억5700만원 상당의 금품을 받아 일부를 이씨에게 건넸다. A씨는 자금을 마련하기 위해 자신이 운영하던 법인의 자금 약 3억6900만원을 횡령하기도 한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이씨는 10년 이상 서울 지역 형사·수사 부서에서 근무하던 인물로 범행 당시에도 서울 한 경찰서 형사과에 근무 중이었던 것으로 알려졌다. 이씨는 수사가 시작되자 파면됐다. &lt;br&gt;&lt;br&gt;재판부는 “공정성과 청렴성이 요구되는 위치의 경찰 공무원이 금품을 수수하고 향응을 제공받은 사건으로 죄질이 좋지 않다”며 이씨에 대해 “뇌물을 수수한 기간과 금액 등을 고려했을 때 비난 가능성이 매우 크다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 이씨가 범행을 자백한 점, 형사처벌 전력이 없는 초범인 점, 부양 가족이 있는 점을 양형에 고려했다고 밝혔다. &lt;br&gt;&lt;br&gt;공범인 조씨와 A씨에 대한 다음 재판은 8월 26일 진행된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>까마귀 때문에 부산 북구서 또 정전… 1000가구 불편</title>
       <link>https://www.chosun.com/national/regional/2026/08/10/XDTOYD33LJFNPPEHCNZ5YILYXQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/10/XDTOYD33LJFNPPEHCNZ5YILYXQ/</guid>
@@ -742,31 +760,6 @@
       <description/>
       <pubDate>Sat, 08 Aug 2026 07:14:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3WKOBSMY2DCOBXMRSWGNTFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 양돈장 추락 사고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한 양돈장에서 외국인 근로자 2명이 정화조에 빠져 심정지 상태로 구조됐다.&lt;br&gt;&lt;br&gt;8일 제주소방안전본부에 따르면, 이날 오전 7시 56분쯤 제주시 한경면 한 양돈장에서 베트남 국적 30대 A씨와 네팔 국적 30대 B씨 등 2명이 정화조에 빠졌다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방은 A씨와 B씨를 구조해 인근 병원으로 이송했다. 구조 당시 이들은 심정지 상태였다.&lt;br&gt;&lt;br&gt;정화조는 가로와 세로, 높이가 각각 5m였다. 이들은 사고가 난 양돈장에서 일했던 것으로 알려졌다. 경찰은 양돈장 관계자 등을 상대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 9일 일요일 (음력 6월 27일 乙卯)</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/08/N6N3NN2JYFGVFAHNPBH5TBBL2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/N6N3NN2JYFGVFAHNPBH5TBBL2U/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>마른장마·폭염에 남부지방 말라간다</title>
-      <link>https://www.chosun.com/national/regional/2026/08/08/4RBB7YGCDFDCDFSJOSQNWK6WSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/08/4RBB7YGCDFDCDFSJOSQNWK6WSQ/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Aug 2026 05:42:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGELE25STNE4XHH54KAQEZO73Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지나날 23일  경남 밀양시 무안면 백안저수지 바닥이 가뭄으로 갈라져 있다./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 마른장마와 극한 폭염의 여파로 남부 지방 가뭄 위기가 고조되고 있다. 경남 밀양에선 농업용수 가뭄 비상 대응 단계 중 가장 높은 ‘심각’으로 상향됐다. 전남광주 지역 최대 수원인 동복댐도 ‘주의’ 단계로 격상됐다.&lt;br&gt;&lt;br&gt;경남도는 8일 밀양시 농업용수 가뭄 비상 대응 단계가 ‘경계’에서 가장 높은 ‘심각’으로 상향됐다고 밝혔다. 농업용수 가뭄 단계는 ‘관심’(30년 평년 대비 저수율 70% 이하·약한 가뭄), ‘주의’(60% 이하·보통 가뭄), ‘경계’(50% 이하·심한 가뭄), ‘심각’(40% 이하·극심한 가뭄) 등 4단계로 분류된다.&lt;br&gt;&lt;br&gt;이날 밀양시 농업용수 저수율은 26.3%로 평년 대비 35.4% 수준까지 떨어졌다. 농촌용수정보종합시스템에 따르면 경남 18개 시·군 농업용수 저수율은 35.2%로 평년 대비 절반(49.9%) 수준에 그쳤다.&lt;br&gt;&lt;br&gt;양산시·의령군·산청군·창원시·거제시·창녕군·하동군·진주시·김해시·함안군 10개 시군은 ‘경계’ 단계다. 특히 창원시는 농업용수 저수율이 28.4%(평년 대비 41.5%)에 그쳐 밀양시에 이어 곧 ‘심각’ 단계로 올라설 가능성이 있다. 통영시·사천시·고성군·합천군은 ‘주의’, 남해군·거창군은 ‘관심’ 단계다. 함양군만 농업용수 가뭄 비상 대응 단계에 진입하지 않았다. 경남도와 한국농어촌공사는 낙동강 물을 끌어와 저수지를 채우거나 하천물과 지하수를 논밭에 직접 공급하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIAMSYVWRFIJ7PEOQI6SF2VBOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남광주지역에 폭염중대경보가 이어지고 있는 7일 오전 전남광주 화순군 동복호가 녹색빛을 띄는 가운데 곳곳에 가뭄으로 인한 모래톱이 드러나있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주에서도 생활·농업 용수 저수율이 점차 낮아지면서 가뭄 위기가 고조되고 있다. 전남광주통합특별시에 따르면 지난 7일 광주 지역 최대 상수원인 동복댐의 가뭄 대응 단계가 ‘관심’에서 ‘주의’로 상향됐다. 식수 전용 댐인 동복댐은 광주 지역 식수 60%를 책임지는 곳이다. 동복댐 저수율은 50.34％로 평년 대비 60％에 미치지 못해 대응 단계가 격상됐다. 전남광주특별시는 동복댐 취수량을 하루 4만t을 줄이고, 주암댐에서 그만큼 늘릴 계획이다.&lt;br&gt;&lt;br&gt;평림댐도 저수율이 54.6％에 그쳐 ‘주의’ 단계다. 주암댐, 장흥댐, 수어댐은 평시 수준이지만, 저수율이 계속 떨어져 당국은 상황을 예의 주시하고 있다. 전남광주특별시는 비가 오지 않아도 9월 말까진 평소 수준의 용수 공급이 가능할 것으로 예상했다. 이후엔 시간·격일제 제한 급수 등 비상 대책이 불가피할 것으로 전망했다.&lt;br&gt;&lt;br&gt;농업용수 저수율도 ‘관심’ 단계에 진입했다. 전남 3206개 농업용 저수지의 평균 저수율은 46.1％로 지난해(70.9％)보다 24.8％ 포인트 줄었다. 전남광주특별시는 추가 관정 개발과 양수장 준설, 용배수로 개발 등 급수 대책을 추진할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/SGELE25STNE4XHH54KAQEZO73Y.jpg?auth=17db80f04b102dd627d2be126ac153c6521d045736ccc22db7c39738ed0c5901&amp;smart=true&amp;width=3887&amp;height=2733" type="image/jpeg" height="2733" width="3887">
-        <media:description type="plain">지나날 23일  경남 밀양시 무안면 백안저수지 바닥이 가뭄으로 갈라져 있다./ 김동환 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>立秋 지나도 폭염…온열질환자 10년 새 3배로 늘었다 </title>
