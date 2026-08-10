@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>스님에 합의금 뜯으려다 실패하자 ‘강제추행’ 허위 고소한 일당 구속기소</title>
+      <link>https://www.chosun.com/national/regional/2026/08/10/VDUHGUZSDNCZ7GUCDBNARIBIYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/10/VDUHGUZSDNCZ7GUCDBNARIBIYA/</guid>
+      <dc:creator>통영=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Aug 2026 10:00:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2GMNJYGQYTOMRQMQZDIMZRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지검 통영지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스님과의 성적 접촉 장면을 몰래 촬영한 뒤 이를 빌미로 합의금을 받아내려다 계획이 틀어지자, 오히려 스님에게 강제추행을 당했다며 허위로 고소한 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;창원지검 통영지청 형사1부(부장 한강일)는 무고 혐의로 50대 여성 A씨와 무고 교사 혐의로 60대 남성 B씨를 구속 기소했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 지난해 7월 평소 알고 지내던 경남 고성군의 한 사찰 스님인 60대 C씨로부터 두 차례 강제추행을 당했다는 내용으로 허위 고소한 혐의를 받는다. B씨는 A씨에게 이 같은 허위 고소를 하도록 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰 조사 결과 과거 연인 사이였던 A씨와 B씨는 당초 A씨가 C씨와 성적 접촉을 하면 B씨가 숨어서 이를 촬영한 뒤, 해당 영상을 빌미로 C씨를 협박해 수천만원의 합의금을 요구하기로 공모한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그러나 이들의 계획은 뜻대로 되지 않았다. 이후 A씨와 B씨는 C씨가 A씨를 강제추행한 것처럼 꾸며 형사 고소한 것으로 검찰은 파악했다.&lt;br&gt;&lt;br&gt;당초 이 사건은 경찰에서 불송치 결정됐다. 그러나 사건 기록을 검토하던 검찰은 무고 혐의를 의심해 A씨의 휴대전화를 압수하고 통화 내역과 녹음 파일 등을 분석하는 등 보완수사를 벌였다.&lt;br&gt;&lt;br&gt;검찰은 수사를 통해 A씨와 B씨의 범행 공모 정황 등을 확인한 뒤 구속영장을 발부받아 지난 7일 두 사람을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “보완수사로 종교인의 억울함을 해소했다”며 “앞으로도 사법 질서를 저해하는 범죄에 엄정 대응해 억울한 피해자가 없도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 ‘광복절 특사’ 없다…모범수 등 가석방만 진행</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/10/36Q7ZCAPQRCVHEKNB5FQKZEQFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/10/36Q7ZCAPQRCVHEKNB5FQKZEQFY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Aug 2026 10:29:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3WMMRTHE4DKM3GMI3TKYLEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 올해 광복절에는 특별사면 없이 통상적인 가석방만 단행할 예정인 것으로 10일 알려졌다.&lt;br&gt;&lt;br&gt;법무부는 최근 광복절을 앞두고 가석방심사위원회를 열어 가석방 대상자를 심사했다. 전국 교정 시설의 과밀 수용 문제가 심각한 데다 폭염 등 수용 환경까지 고려해 재범 위험성이 낮은 수형자나 모범 수형자에 대해서는 가석방을 적극 확대한다는 방침이다.&lt;br&gt;&lt;br&gt;반면 특별사면을 위한 사전 준비 작업은 진행되지 않은 것으로 파악됐다. 사면 대상자를 심사하는 사면심사위원회도 열리지 않았다. 통상 특별사면을 위해서는 대상자 분류와 검토 등을 위한 사전 작업에 한 달 남짓 걸리는 점을 고려하면 올해 광복절 특별사면은 이뤄지지 않을 가능성이 크다.&lt;br&gt;&lt;br&gt;이재명 대통령은 취임 첫해인 지난해 광복절을 앞두고 83만6687명을 대규모 특별사면했다. 당시 조국 전 조국혁신당 대표 등 정치인과 최지성 전 삼성그룹 미래전략실장 등 경제인이 다수 사면·복권됐다. 이후 지난해 성탄절과 올해 신년, 3·1절에는 특별사면이 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>악력 저하 노인 85% ‘근감소증’... 악력이 노쇠 가늠 척도</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/10/TW7OCX7CKVB6BKKSWCVUHV4KZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/10/TW7OCX7CKVB6BKKSWCVUHV4KZA/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Aug 2026 09:20:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF6LHZU5ZVG7FGWE37GO2CIKXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 서울 중구 을지누리센터에 마련된 서울체력장에서 한 노인이 악력을 측정하고 있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;악력(손아귀 힘)이 떨어진 65세 이상 어르신의 85%는 ‘근(筋) 감소증’을 함께 겪는 것으로 나타났다.&lt;br&gt;&lt;br&gt;악력이 떨어지는 65~74세가 우울 장애를 앓는 비율도 같은 연령대에서 악력이 정상인 이들의 약 7배에 달해, 악력이 노쇠 정도를 가늠하는 핵심 척도 중 하나라는 분석이 나왔다.&lt;br&gt;&lt;br&gt;근 감소증은 단순히 근육량이 줄어드는 증상이 아니라 노화 등으로 근력이 떨어지고 보행 등 신체 기능까지 저하되는 질환이다. 악력 등으로 근력을 평가하고, 골밀도 검사 장비나 체성분 분석기 등으로 근육량을 측정해 진단한다.&lt;br&gt;&lt;br&gt;10일 질병관리청은 2022~2024년 ‘국민건강영양조사’ 결과를 토대로 65세 이상 노인의 근 감소증 현황과 악력 저하가 건강에 미치는 영향을 분석해 이 같은 결과를 발표했다.&lt;br&gt;&lt;br&gt;분석 결과, 80세 이상 4명 중 1명(26.9%)은 근 감소증을 앓고 있었다. 65~69세에선 여성(5.8%)이 남성(2.6%)보다 높았지만, 70대 이후부터는 남성이 더 높게 나타났다.&lt;br&gt;&lt;br&gt;특히 악력계로 측정했을 때 일정 기준(남성 28㎏·여성 18㎏)에 미달해 ‘악력 저하군’으로 분류되는 어르신의 85.0%는 근 감소증을 함께 겪고 있었다.&lt;br&gt;&lt;br&gt;악력이 떨어진 이들은 정신건강도 취약했다. 65~74세 어르신 중 악력이 떨어지는 이들이 우울 장애를 앓는 비율은 14.3%로, 악력이 정상인 이들(2%)보다 훨씬 높았다.&lt;br&gt;&lt;br&gt;또 75세 이상 악력 저하군 가운데선 걷기 운동을 하지 않는 비율이 64.4%로 정상군(54.1%)보다 10%포인트 이상 높은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박기수 경상국립대 의대 교수(예방의학)는 “악력 저하는 근 감소증을 비롯한 다양한 노쇠 위험 요인이 함께 나타나고 있음을 보여주는 중요 신호”라고 했다. 이번 조사에서 80세 이상 10명 중 4명(39.7%)은 악력 저하군이었고, 악력이 정상인 어르신에게서는 근 감소증이 나타나지 않았다.&lt;br&gt;&lt;br&gt;악력 저하 여부는 악력계로 측정할 수 있지만, 두 사람이 손을 맞잡고 힘을 주거나 페트병 열기, 물수건 짜기 등으로도 간단히 확인할 수 있다. 임승관 질병관리청장은 “부모님을 뵐 때마다 손을 맞잡으며 악력 변화를 살펴보는 것도 추천하는 방법”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WNOPTCYBYRBMDMLW7S5HD7PKPY.jpg?auth=7bef9b3f72378390cb390723118356cf5e7d35edd5d58466ce768c7791a9e682&amp;smart=true&amp;width=3485&amp;height=2614" type="image/jpeg" height="2614" width="3485">
+        <media:description type="plain">2026년 4월 22일 오후 서울 중구 을지누리센터에 마련된 서울체력장에서 한 노인이 악력기를 사용하고 있다. /장련성 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>김건희, 명품 선물 추궁받자... “다른 영부인들 수사는 다 해봤냐”</title>
       <link>https://www.chosun.com/national/court_law/2026/08/10/KOAN2K7H3JFABF6R4TDTTMXRWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/10/KOAN2K7H3JFABF6R4TDTTMXRWA/</guid>
@@ -620,24 +651,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PMMOXDGKRPWHF7XIBXCBRLG7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오전 경남 통영시 산양읍 중화항 주변 조피볼락(우럭)·참돔 가두리 양식장에서 어민이 뜨거운 햇빛을 가리기 위해 차광막을 설치하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역 농어촌이 변덕스러운 날씨 탓에 타들어가고 있다. 바다는 수온이 급상승하며 양식 물고기들이 죽어가고 있고, 육지에서는 가뭄과 폭염에 농업용수가 말라붙어 농작물 피해도 속출하고 있다. &lt;br&gt;&lt;br&gt;9일 행정안전부에 따르면, 이날 오전 6시 기준 전국에서 고수온으로 폐사한 양식 어류는 117만 4822마리에 달한다. 전날 대비 죽은 물고기가 31만마리 넘게 늘었다. 현재 서해와 남해 연안에는 수온 28도 이상이 3일 이상 지속될 것으로 예상될 때 내려지는 ‘고수온 경보’가 발효 중이다.&lt;br&gt;&lt;br&gt;특히 전국 해상 가두리 양식 면적(85만㎡)의 42%가 집중된 경남의 상황은 심각하다. 그동안 연안에 형성돼 수온 상승을 억제하던 ‘냉수대(주변 해역보다 수온이 5도 이상 낮은 찬물 덩어리)’가 소멸하기 시작하면서 피해 확산이 우려되는 상황이다. 지난 4일 하동군 금남면의 한 양식장에서는 가숭어 800여 마리가 집단 폐사하는 등 올여름 고수온 피해로 3만3000여 마리가 폐사한 것으로 추정된다. 9일 오후 6시 남해안 표층 수온은 27~29도 정도다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P46IRKTQUNDPNPRUZJWCSHKCSQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 고수온으로  폐사한 물고기들을 육지로 올리기 위해 대기하고 있는 어민의 모습. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역 양식 어가들은 고수온에 대한 공포감이 크다. 고수온 특보 발령 기간은 2021년 43일에서 2022년 64일, 2023년 57일, 2024년 71일, 2025년 85일로 증가했다. 지난 2024년엔 664억원이라는 역대 최대 피해를 겪었다. &lt;br&gt;&lt;br&gt;지난해에도 고수온과 적조가 겹쳐 양식 물고기 약 700만마리가 떼죽음을 당했다. 광어, 우럭 등 출하까지 1년 이상 걸리는 주요 양식 물고기의 대규모 폐사가 이어질 경우 하반기 수산물 공급 감소와 가격 폭등도 우려된다. &lt;br&gt;&lt;br&gt;경남도 수산안전기술원은 도내 양식 어장의 고수온 피해를 줄이고자 현장 대응을 강화하고 나섰다. &lt;br&gt;&lt;br&gt;양식장 현장에 산소 공급기 등 대응 장비의 작동 상태를 점검하고, 사육 밀도를 줄이게 하거나, 먹이 줄이기 등 실태를 확인하고 있다. &lt;br&gt;&lt;br&gt;또 출하가 가능한 양식 생물은 조기 출하하도록 안내하고 있다. 박정희 경남도 수산안전기술원장은 “고수온은 짧은 기간에도 양식 생물에 큰 피해를 줄 수 있어 현장에서 이상 징후를 조기에 발견하고 신속하게 대응하는 것이 무엇보다 중요하다”며 “양식 현장을 지속적으로 살피고 어업인들에게 필요한 관리 요령을 안내하는 등 고수온 피해 최소화에 힘쓰겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRWGMZSMM4GCMZZGA4GKMBRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 경남 밀양시 무안면에서 산림청 산불진화대원이 산불진화차량을 이용해 가뭄으로 농작물 피해가 우려되는 논에 농업용수를 공급하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육지의 사정도 다르지 않다. 짧은 장마에 더해 장기화한 폭염으로 자연 증발량까지 급증하면서 경남 지역 저수지는 빠르게 바닥을 드러내고 있다. 9일 기준 경남 18개 시군의 농업용수 평균 저수율은 35%로, 평년(70.8%) 대비 49.4% 수준에 불과하다. 특히 밀양시는 지난 7~8일 사이 전국에서 유일하게 농업용수 가뭄 ‘심각(저수율 40% 이하)’ 단계에 진입했다. 밀양의 저수율은 25.9%로 평년의 3분의 1 토막이 났다. 밀양시는 저수율 5% 미만인 상남면 무량원 저수지 등에 살수차 25대와 양수펌프 10대 등을 긴급투입해 논에 용수를 공급하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WEZBXGUZTMNJQHE2DCMJVHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 밀양시 무안면 가례저수지 바닥이 메마른 채 갈라져 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원시 역시 저수율 28.3%로 ‘심각’ 단계 진입을 목전에 두고 있다. 창원 지역 최대 농업용수 공급 시설인 주남저수지의 경우 저수율이 30%대로 떨어지면서 수심이 얕은 일부 구간에서는 바닥을 드러냈다. 선착장의 어선들은 바닥에 얹힌 상태다. &lt;br&gt;&lt;br&gt;양산·김해·진주·거제 등 10개 시군에도 ‘경계’ 경보가 켜졌다. 경남 18개 시군 중 비상대응 단계에 들어가지 않은 곳은 함양군 단 한 곳뿐이다.&lt;br&gt;&lt;br&gt;전날 내륙 일부에 소나기가 내렸으나 강우량이 0.2㎜ 수준에 그쳐 달궈진 대지를 식히기엔 턱없이 부족했다. &lt;br&gt;&lt;br&gt;연일 이어진 폭염에 농가에서는 햇볕 데임(일소) 피해도 발생하고 있다. 경남도와 한국농어촌공사는 급한 대로 낙동강 물을 끌어오고 하천물과 지하수를 퍼 올려 논밭에 공급하고 있지만 갈증을 달래기엔 역부족이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>넷플릭스 설치법에 숨은 진심, 그리고 진짜 포용</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/08/09/JSQCLSKYPNHXXJV3ZT5O5JQWKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/08/09/JSQCLSKYPNHXXJV3ZT5O5JQWKM/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 09:30:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBOX5KGGOND4BCMRIBQSW76IH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트./제미나이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저기, 넷플릭스 설치 방법 좀 알려줄래?”&lt;br&gt;&lt;br&gt;최근 지인에게 전화를 걸어 불쑥 넷플릭스 설치 방법을 물었다. 요령을 정말 몰라서 물었던 건 아니었다. 팍팍한 일상 속에서 그저 대화를 나누고 싶었고, 마침 상대가 가장 신나게 설명할 수 있는 주제를 미끼로 던졌다. 만약 상대가 내 질문을 곧이곧대로 기술적인 무지로만 받아들였다면, 우리의 관계는 여전히 얕은 수면만 맴돌았을 것이다. 표면적 요구 이면에 숨겨진 진짜 마음, 보이지 않는 이면을 읽어내는 것. 어쩌면 그것이 진정한 ‘포용(包容)’의 시작일지도 모른다.&lt;br&gt;&lt;br&gt;사람의 마음과 태도는 이토록 제각각이다. 불볕더위에 기력도 의지도 꺾이는 나날, 굳이 에어컨 냉기가 닿지 않는 방에 앉아 이 글을 쓴다. 더위를 탓하며 펜을 꺾고 싶은 마음 한편에, 이 악조건 속에서도 해낼 수 있지 않을까 하는 오기가 발동했다. 분명히 회피할 핑계가 있는데도 도리어 그 이유 때문에 정면 돌파를 선택하는 것이 묘한 인간의 본성이다. 이처럼 에어컨이 나오는 곳과 나오지 않는 곳에서 개개인의 판단이 다르듯, 타인을 온전히 받아들이고 포용하는 일은 참으로 어렵다.&lt;br&gt;&lt;br&gt;바야흐로 포용이 대세다. 포용 국가, 포용 사회를 넘어 디지털과 금융, 심지어 비즈니스까지 포용이 수식어로 붙는다. 이유가 있다. 10대는 10대라서, 청년은 청년이라서, 중장년은 중장년의 무게로 아우성이다. 부자와 빈자, 정규직과 비정규직, 기혼과 미혼을 가리지 않고 저마다 위치에서 “그저 너무 힘들다”고 외친다. 이 거대한 아우성 앞에서 국가와 사회가 내놓을 수 있는 여러 답안 중 하나가 ‘포용’이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJT4PLCC44FAVYOMORW6U4ADKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남대 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제도로서 포용을 외치는 것과, 실제 관계에서 타인을 끌어안는 것은 완전히 다른 문제다. 우리는 종종 시혜적인 ‘관용’이나 ‘배려’를 포용으로 착각한다. 1990년대 중반 어느 중학교 교실을 떠올려 보자. 국어 시간, 말을 심하게 더듬는 한 학생의 낭독 차례가 돌아오자 교사는 지시봉으로 교탁을 치며 말했다. “넌 그냥 앉아 있어. 진도 늦어지니까 다음 번호가 읽어.” 교사는 아이가 망신당하지 않도록 아량을 베풀었다고 여겼을 것이다. 그러나 이는 포용으로 위장된 폭력이자 배제다. 진정한 포용이라면 아이를 궤도 밖으로 밀어낼 것이 아니라, 다 같이 합독하는 식으로 수업의 규정 자체를 바꿨어야 했다.&lt;br&gt;&lt;br&gt;철학자 사르트르는 “타인은 지옥이다”라고 했다. 나와 완전히 다른 존재를 끌어안아야 하는 자아의 무게감이 그만큼 지옥처럼 무겁다는 뜻일 테다. 무관심이 일상이 된 시대, 우리는 다시 돌고 돌아 포용을 부르짖고 있다. 제아무리 훌륭한 포용 정책을 쏟아내도, 사람 한 명 한 명이 살아온 궤적에 대한 긴 호흡의 이해가 없다면 그것은 공허한 구호에 불과하다. 숨 막히는 폭염 속, 우리에게 진정 필요한 것은 제도적 혜택뿐만 아니라 서툰 질문 속에 숨은 상대의 진심을 알아채는 깊고 다정한 시선이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2DQDNOT5ZBA5KHGGXSR5EPYDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박주희 박사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;전남대 인문융합연구원 HK연구교수(교육학박사)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>춘천 돈사에 불… 돼지 395마리 폐사</title>
-      <link>https://www.chosun.com/national/regional/2026/08/09/N6BCSPFTYRC2RDGD2IHZNLBTYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/09/N6BCSPFTYRC2RDGD2IHZNLBTYU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 09:00:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JF256HSXMFEIBBOLDFY2C7L2F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 강원 춘천시 신동면 팔미리 한 돈사에서 불이 나 돼지 395마리가 폐사했다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오후 1시 48분쯤 강원 춘천시 신동면 팔미리 한 돈사에서 불이 났다. 불은 돈사 1동을 태우고 52분 만에 꺼졌다. 인명 피해는 없었으나 어미 돼지 85마리와 새끼 돼지 310마리가 폐사됐다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인과 피해 규모를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“의원님이나 ‘무빙캐슬’에 사세요” 버스하우스 제안에 분노한 2030</title>
       <link>https://www.chosun.com/national/national_general/2026/08/10/XX7TYEHF5BDB7LZ5ZPFKSRCB7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/XX7TYEHF5BDB7LZ5ZPFKSRCB7Q/</guid>
@@ -654,18 +667,6 @@
       <description/>
       <pubDate>Sun, 09 Aug 2026 08:23:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLK47SI7NCQ66R2ODDXATDIDR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성북경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도 한강공원에 폭탄을 설치했다며 돈을 요구하는 협박 글이 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;9일 경찰에 따르면 서울 성북경찰서는 이날 오전 2시 25분쯤 한 방송국 제보 플랫폼에 여의도 한강공원 폭탄 테러를 예고하는 글이 올라왔다는 신고를 접수했다.&lt;br&gt;&lt;br&gt;해당 글에는 “여의도 한강공원 인근에 폭탄을 설치했으니 1000만원을 입금하지 않으면 사람들이 많이 다치거나 죽을 것”이라는 내용이 담긴 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 공중협박 혐의로 게시글 작성자를 추적하고 있다. 또 경찰 특공대를 한강공원 일대에 투입해 폭탄 설치 여부 등을 확인하고 있다. &lt;br&gt;&lt;br&gt;현재 여의도를 포함한 서울 9개 한강공원에서는 영화 상영과 음악 공연, 수상 레저 체험 등을 진행하는 ‘2026 한강페스티벌’이 열리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 10일 월요일 (음력 6월 28일 丙辰)</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/09/TCESEQL2S5AA7DKIMSCQJV2QVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/TCESEQL2S5AA7DKIMSCQJV2QVI/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>2027학년도 의대 선발 인원의 50%는 지방 학생 자리</title>
