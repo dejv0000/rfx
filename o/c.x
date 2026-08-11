@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>살수차로 물 쏟아부어도 ‘역부족’… 가뭄에 갇힌 경남, 단감·벼 말라 죽는다 </title>
+      <link>https://www.chosun.com/national/2026/08/11/FEW3XAE62VH5HI22V6BJYJY6LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/11/FEW3XAE62VH5HI22V6BJYJY6LA/</guid>
+      <dc:creator>함안=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 10:06:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFJJEHPHBJCTRIHQCMJAG2MGYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 경남 함안군 칠북면 가연리 한 논에서 이도자(82)씨가 바싹 마른 논바닥을 가리키고 있다. 함안의 농업용수 저수율은 26.2%로 평년(67.1%)의 39% 수준이다. 농업용수 가뭄 '심각' 단계로 진입했다. /함안=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이 시기면 논에 물이 찰방찰방 있어야 하는데, 이렇게 바짝 말라버렸어. 벼에 알이 배기지도 못하고, 말라 가는데 올해 농사 망쳤지.”&lt;br&gt;&lt;br&gt;11일 오후 경남 함안군 칠북면 가연리 한 논에서 만난 이도자(82)씨가 한숨을 내쉬며 마른 땅을 가리켰다. 보통 이 시기 물이 차 있던 논은 지진이 난 듯 쩍쩍 갈라져 틈이 벌어져 있었다. 한눈에 봐도 수분이 메말라 손을 대면 흙먼지가 날렸다. 이씨를 비롯해 주변 15개 농가는 십수 년 전 만든 마을 공동 웅덩이에서 농업용수를 끌어다 전체 2.3ha에 달하는 논에 물을 댔다고 한다. 하지만 이 마을 농사를 책임지던 수원이 말라버리면서 제때 논에 물을 못 대는 상황이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUSCB2YZNZCIZG2NC6VKWVN77A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 경남 함안군 칠북면 가연리 한 마을의 주민들이 가뭄으로 낮아진 마을 공동 웅덩이를 지켜보고 있다. 함안의 농업용수 저수율은 26.2%로 평년(67.1%)의 39% 수준이다. 농업용수 가뭄 '심각' 단계로 진입했다. /함안=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨 논 앞에 있는 커다란 마을 공동 웅덩이는 한눈에도 수위가 낮아져 바닥을 보이기 직전인 상황이었다. 웅덩이에서 살았던 물고기는 배를 드러낸 채 죽어 물 위로 떠올라 있었다. 5t·16t 살수차 2대가 인근 하천에서 물을 담아와 이곳 마을 공동 웅덩이에 물을 쏟아부었지만, 수위는 크게 변화가 없었다. 16t 살수차를 몬 운전 기사는 “10분 떨어진 하천에서 30분가량 물을 채워 오는데, 15분이면 물을 다 쓴다”며 “오늘 하루에만 이렇게 4차례 정도 다녀왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKTMC55XMVFIXOT4ZS5C7HJP7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 경남 함안군 칠북면 가연리에 있는 마을 공동 웅덩이에 16t 살수차가 긴급 농업용수를 지원하고 있다. /함안=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이곳 주민 공기노(78)씨는 “이곳에서 나고 자라며 농사를 지어왔는데, 올해처럼 가뭄이 심한 적은 없었다”며 “물이 워낙 귀해지다보니 논마다 순번을 정해 물을 대고 있다. 이것도 충분한 양이 못된다”고 혀를 찼다. &lt;br&gt;&lt;br&gt;이날 오후 박완수 경남도지사도 이곳을 찾아 급수 상황을 점검했다. 박 지사는 현장에서 “가뭄이 장기화될수록 제때 물을 대는 것이 중요하다”며 “가용 장비를 최대한 활용해 용수 공급에 차질이 없도록 해달라”고 현장 직원들을 독려했다. &lt;br&gt;&lt;br&gt;이날 기준 경남에서는 함양을 비롯한 17개 시군이 가뭄 단계에 진입했다. 농업용수 가뭄 단계는 관심·주의·경계·심각 4단계로 나뉜다. 이 중 밀양시와 함안군, 거제시는 가장 높은 ‘심각’ 단계다. 전국에서 농업용수 가뭄이 심각 단계로 진입한 곳은 이 3개 시군뿐이다. &lt;br&gt;&lt;br&gt;함안의 농업용수 저수율은 26.2%로 평년(67.1%)의 39% 수준이다. 거제시는 29.8%로 평년(79.8%) 대비 37.3%, 밀양시는 25.9%로 평년(74.8%) 대비 34.6%에 그치고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQWIODDMQYTOMRYMIYTQNJYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 밀양에 폭염·가뭄이 장기화되고 있는 11일 밀양시 초동면 봉황리 와지저수지 바닥이 메마른 채 갈라져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 전체 18개 시군 농업용 저수지 평균 저수율도 30%대로, 평년(71.3%)의 절반에도 못 미친다. 6월에 이어 장마 시기가 겹쳤던 지난달 평년의 23% 수준인 73.4㎜의 찔끔비만 내린 것이 컸다. 1973년 전국 통합 기상 관측을 시작한 이후 최저 강수량이다. &lt;br&gt;&lt;br&gt;폭염과 함께 겹친 이 같은 극심한 가뭄에 피해도 날로 커지고 있다. 경남도에 따르면 이날 현재까지 도내 농경지 1955.6㏊에서 폭염·가뭄 피해가 발생했다. 특히 창원·진주·김해·밀양 등 단감 주산지의 피해가 1121㏊로 가장 컸다. 벼(540.4㏊), 배(33㏊), 콩(28㏊) 등이 뒤를 이었다. 단감은 강한 햇볕에 과실이 데이는 일소 피해를 본 데다 수분 부족으로 열매가 쪼그라들면서 피해가 컸다. 콩과 고추 등 밭작물도 수분 부족으로 잎마름 증상을 보이고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2DSNBZHE3GGYZUMU2WIMBSMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박완수 경남지사(오른쪽에서 세번째)가 11일 가뭄 대응 상황을 점검하기 위해 찾은 함안 칠원읍 운곡천 간이양수장 설치 현장에서 현장관계자로부터 추가 수원 확보 상황을 보고 받고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도와 한국농어촌공사는 피해 최소화를 위해 총력전을 펼치고 있다. 하천 수위가 낮아 취수가 어려운 곳은 하천 바닥을 굴착해 집수 공간을 확보한 뒤 양수기를 돌리고 있다. 산불 진화 차량 등을 비롯해 급수 차량 435대가 현장에 투입돼 비상 급수에 나섰다. &lt;br&gt;&lt;br&gt;도는 생활 용수 방어에도 안간힘을 쓰고 있다. 밀양댐 저수율이 31.8%까지 떨어졌지만, 농업·하천 유지 용수를 평시 11만 2000t에서 7000t까지 대폭 줄이는 대신 11만 7000t의 생활 용수 공급량을 유지하고 있다. 상수도 미보급 도서 지역 등 26개 마을에는 새벽 시간대 등 일정 시간 제한 급수를 시작했다.&lt;br&gt;&lt;br&gt;도는 무강우 상황이 이어지면 병물과 급수차·급수선을 활용해 운반 급수를 확대할 계획이다. 수원 고갈이 우려되는 지역엔 추가 관정을 개발하는 등 대체 수원 확보에도 나선다. &lt;br&gt;&lt;br&gt;도는 지금까지 63억5000만원의 긴급 가뭄 대책비를 지원했는데, 추가로 농업용수 확보를 위한 재난관리기금 30억원을 투입한다. 또 농림축산식품부에 국비 98억원 지원을 긴급 요청했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 가양동 아파트 15층서 화재...母子 사망</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/11/GREVNJTDDFBWJHDTXXJKGI3CCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/GREVNJTDDFBWJHDTXXJKGI3CCE/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 09:23:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQDURAHCHFG53FO4YVPYUN4XSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 서울 강서구 가양동 아파트 15층에서 화재가 발생했다. 이 불로 모자 지간인 30대 남성 1명과 60대 여성 1명이 심정지 상태로 발견됐다./소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구 가양동 아파트 15층에서 화재가 발생했다. 이 불로 모자지간인 30대 남성 1명과 60대 여성 1명이 사망했다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 11일 오후 4시 55분쯤 서울 강서구 가양동 아파트 15층의 한 세대에서 화재가 발생했다. 화재가 발생한 세대는 전소된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;화재 이후 30대 남성 1명과 60대 여성 1명이 심정지 상태로 아파트 화단에서 발견됐다. 이들은 모자지간이었으며 어머니인 60대 여성은 뇌병변 장애를 앓았던 것으로 확인됐다.이들은 병원으로 이송됐으나 결국 숨졌다. &lt;br&gt;&lt;br&gt;그 외에 또 다른 60대 여성도 연기 흡입으로 병원으로 이송됐으나 생명에 지장은 없는 것으로 파악됐다. 아파트 주민 40명이 자력 대피했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “고층에서 추락한 것으로 추정된다”며 “불이 난 세대의 입주민인지 확인 중”이라고 했다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 25대와 인력 87명을 투입해 불이 난 지 약 24분 만인 5시 19분쯤 큰 불길을 잡았다. 이후 약 1시간 20분 만인 오후 6시 8분 완진했다.&lt;br&gt;&lt;br&gt;소방 당국은 발화 원인과 구체적인 피해 상황 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/A4ICRH4CMVCHRBIUXYJ4NYPUA4.jpg?auth=1fb8d236c1ae7754272206c26c5cc346315e1f0389449704b90d1e267c6f14ed&amp;smart=true&amp;width=1080&amp;height=608" type="image/jpeg" height="608" width="1080">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, 황정민 스토킹범에 벌금 1000만원 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/11/AAG6AAA4PJHYROX6QF42OWHBOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/11/AAG6AAA4PJHYROX6QF42OWHBOQ/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 09:54:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4WMOBYGQ2WKNRUMVSTONLFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황정민./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 황정민씨를 스토킹한 혐의로 재판에 넘겨진 40대 여성에게 검찰이 벌금 1000만원을 구형했다.&lt;br&gt;&lt;br&gt;11일 의정부지법 고양지원 형사4단독 김영아 부장판사 심리로 열린 결심 공판에서 검찰은 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 기소된 A(40대)씨에게 벌금 1000만원과 이수 명령을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “범행 기간이 장기간이고 피고인이 일방적으로 연락한 횟수가 과도하게 많다”며 “재판 과정에서도 피해자와 가족들에 대한 협박성 글을 소셜미디어(SNS)에 게시했고, 피해자가 엄벌을 탄원한 점 등을 고려했다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 특정 기간 황씨와 가족에게 518회에 걸쳐 카카오톡과 문자 메시지를 보냈다. 2025년에는 이틀에 걸쳐 ‘스스로 목숨을 끊겠다’는 내용의 문자를 275회나 전송한 것으로 조사됐다. 또한 유언장 파일, 고양이 사체 사진과 혈흔이 묻은 휴지 사진 등을 전송하고 황씨의 미성년 아들에게까지 연락을 시도한 사실도 드러났다.&lt;br&gt;&lt;br&gt;앞서 황씨 측은 지난해 8월 A씨를 고소했고, 법원은 지난 2월 A씨에게 벌금 300만원의 약식명령을 내렸다. 그러나 A씨가 이에 불복해 정식재판을 청구하면서 재판이 이어졌다. A씨에 대한 선고공판은 다음 달 8일 오전 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연평도 인근 해상 불법 정박… 해경, 중국 어선 8척 나포</title>
+      <link>https://www.chosun.com/national/incident/2026/08/11/5MUIR553IJEATAPC3K667ZSRYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/5MUIR553IJEATAPC3K667ZSRYM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 09:50:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DPJNLYBN5HGNJ4XB5Z7SHUUUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 11일 인천 옹진군 인근 해상에서 나포해 압송 중인 중국어선. /중부지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 연평도 인근 해상에서 불법 정박한 중국 어선들이 해경에 나포됐다. &lt;br&gt;&lt;br&gt;중부지방해양경찰청은 선박법과 공유수면관리법 위반 등 혐의로 중국 어선 8척을 나포했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;8척은 목선이 1척이고 철선이 7척이었다. 이 중 유인선은 5척이었다. 유인선에는 총 10명이 승선한 것으로 파악됐다. 무인선은 3척이었다. 무인선은 정박해 놓은 뒤, 선원들이 다른 배를 오가며 조업에 활용하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이들 중국 어선은 인천 옹진군 연평도 인근 해상에서 장기간 불법 정박한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;중부해경청은 이날 두 차례 작전을 진행해 오후 2시와 3시쯤 이들 불법 어선과 승선원들을 나포했다. &lt;br&gt;&lt;br&gt;해경 관계자는 “나포한 어선들을 압송해 구체적인 불법 정박 경위와 목적 등을 조사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘항공사 기장 살해’ 김동환… 검찰, 무기징역 구형</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/11/JBIPXHWACJEDRLR2JGGOFAUGMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/11/JBIPXHWACJEDRLR2JGGOFAUGMQ/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 09:37:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6QZZN4XZ5BEFDRFLXUDCJS5CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항공사 동료 기장을 흉기로 살해한 혐의를 받는 50대 전직 부기장 김동환(50)이 20일 오후 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 항공사 기장을 흉기로 찔러 살해한 혐의로 재판에 넘겨진 김동환(50)에게 검찰이 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;11일 부산지법 형사7부(재판장 임주혁) 심리로 열린 결심 공판에서 검찰은 살인 등 혐의로 기소된 김에게 무기징역을 구형했다. 또 30년간 위치추적 전자장치 부착 명령도 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 사안이 중대하고 죄질이 불량한 점, 범행이 계획적이고 그 수법이 잔혹한 점, 진지한 반성이 없는 점, 피해 유족과 피해자들이 고통을 호소하며 엄벌을 탄원하고 있는 점을 강조했다. &lt;br&gt;&lt;br&gt;검찰은 “피고인의 주장처럼 공군사관학교 카르텔이 실제로 조직적으로 음해하거나 불이익을 줬는지 전혀 확인되지 않는다”며 “피고인이 독단에 빠져 사적 보복으로 정의를 실현한다고 왜곡했지만, 살인 행위는 범죄일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;김은 최후 진술에서도 반성은 없었다. 김은 “이 사건으로 항공 조종사 문제가 심각하다는 걸 알리려 더더욱 이 짓을 했지만, 재판에서 아무것도 밝히지 못해 씁쓸할 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;재판부는 김에 대한 선고 기일을 이달 21일로 지정했다.&lt;br&gt;&lt;br&gt;김은 지난 3월 16일 오전 4시 50분쯤 부산 부산진구 한 아파트에서 택배 기사로 위장해 침입한 뒤 항공사 기장 B씨를 흉기로 살해한 혐의를 받는다. 또 전날 오전 4시쯤 경기 고양시 한 아파트에서도 택배 기사로 위장해 침입한 뒤 항공사 기장 C씨를 살해하려다 미수에 그친 혐의도 받는다.&lt;br&gt;&lt;br&gt;김은 또 작년 8월부터 올 3월까지 범행 도구를 구입하고, 피해자 미행 및 주거지 답사 등을 통해 또 다른 항공사 기장 4명을 살해할 계획을 세운 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ROTC중앙회 압수수색… 문서 위조 수사</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/11/J476PBQYA5DNVDOS6MVRWGQ4IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/J476PBQYA5DNVDOS6MVRWGQ4IU/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 08:57:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMZHJORMHJEQ5GOLLNZ64MSC6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 괴산군 육군학생군사학교에서 '2023 학군장교 통합임관식'이 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 11일 학군장교 단체 대한민국ROTC중앙회에 대한 강제 수사에 착수했다. ROTC중앙회가 회장 직무대행을 선임하는 과정에서 법원에 제출한 문서를 위조했다는 의혹과 관련해서다.&lt;br&gt;&lt;br&gt;서울 방배경찰서는 이날 오후 사문서위조 및 위조사문서 행사 혐의로 ROTC중앙회 사무실 등을 압수수색했다. ROTC중앙회 전·현직 간부들은 회원들의 개인정보를 도용해 ‘회장 직무대행 선임에 찬성했다’는 사실 확인서를 거짓으로 작성한 혐의를 받는다.&lt;br&gt;&lt;br&gt;ROTC중앙회는 지난해 회장 선거에 단독 출마한 후보자의 자격 문제를 두고 법적 분쟁을 겪은 뒤, 같은 해 12월 정기총회에 긴급 안건을 올려 A씨를 회장 직무대행으로 선임했다. &lt;br&gt;&lt;br&gt;하지만 선임 과정에서 찬성 인원이 제대로 집계되지 않았다는 의견이 나오자, 법원은 의결 정족수를 충족했다는 근거를 제출하라고 했다. ROTC중앙회는 회원 234명의 사실 확인서를 냈고, 이후 법원은 A씨 선임의 정당성을 인정했다.&lt;br&gt;&lt;br&gt;하지만 몇몇 회원이 “확인서를 작성하거나 내용에 동의한 적이 없다”고 주장해 논란이 일었다. 고발인은 “ROTC중앙회 측이 정기총회 참석 여부를 확인한다며 회원들에게 받은 신분증 사진 등을 이용해 허위 사실 확인서를 작성했다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;앞서 ROTC중앙회 간부 B씨는 “명예를 생명처럼 중요시하는 장교 출신으로서 양심의 가책을 느낀다”며 경찰에 자수서를 제출했다. 경찰 조사에서는 “집행부에서 확인서 230장을 넘겨야 한다고 독촉해 사무국 직원들이 회원들 명의로 대신 서명하게 됐다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;ROTC비상대책위원회 측은 “ROTC의 정통성이 훼손됐고 치욕스러운 파문으로 이어졌다”며 현 ROTC중앙회 집행부의 사퇴를 요구하고 있다.&lt;br&gt;&lt;br&gt;경찰은 이날 압수수색을 통해 ROTC중앙회가 법원에 제출한 사실 확인서를 확보한 것으로 전해졌다. 경찰은 압수물을 분석하며 사실 확인서가 위조됐는지, 집행부의 지시·관여가 있었는지 여부 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>천안 ‘교회’서 11세 남아 사망… 외할머니, 학대치사 혐의로 구속</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/08/11/JORY4XERGFBVHN34UYI7477VJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/08/11/JORY4XERGFBVHN34UYI7477VJY/</guid>
+      <dc:creator>천안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 09:12:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/522BNPSQFRJJXJYMOYSYROLAAY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;11일 자신의 외손자를 학대해 숨지게 한 혐의를 받고 있는 외할머니 A씨가 구속영장 실질심사를 받기 위해 대전지법 천안지원으로 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안의 한 교회에서 생활하던 11세 남자아이를 학대해 숨지게 한 외할머니가 구속됐다.&lt;br&gt;&lt;br&gt;대전지법 천안지원 박헌행 영장전담부장판사는 11일 아동학대치사 등의 혐의를 받는 A(여·50대)씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “사안이 중대하고 도망할 염려가 있다”면서 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 0시쯤 병원에서 숨진 B(11)군의 외할머니다. B군은 지난 5일 오후 8시 58분쯤 천안시 한 교회에서 고열·의식 저하 등의 증상을 보여 119구급대에 의해 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;의료진은 B군의 몸에서 멍 자국 등을 발견하고 학대를 의심해 경찰에 신고했다. 경찰은 “B군이 (교회) 침대에 결박돼 있었다”는 목격자 진술을 토대로 당시 교회에 함께 있던 성인 3명을 대상으로 아동학대치사 혐의 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;당시 현장에 있었던 해당 교회의 목사 C(여·60대)씨는 지난 10일 구속됐고, 이어 B군의 외할머니 A씨도 같은 혐의로 구속된 것이다.&lt;br&gt;&lt;br&gt;앞서 B군은 지난 2~3일 “외할머니에게 맞았다”고 인근 상인들에게 도움을 청하기도 했다.&lt;br&gt;&lt;br&gt;B군은 교회에서 출생 직후부터 자랐고, A씨는 교회 인근에서 거주하며 B군을 수시로 만나 학대한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 2~3일 B군의 아동 학대 피해 신고가 연달아 접수되자 A씨에 대한 접근 금지 임시조치를 신청했지만, 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;영장실질심사를 받기 위해 법원에 나온 A씨는 “아동 학대 혐의를 인정하느냐” “사죄의 말씀 없느냐” 등 취재진의 질문에 대답하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교통 위반 과태료 체납하면 이제 국세청서 전화 온다</title>
+      <link>https://www.chosun.com/politics/goverment/2026/08/11/BYKPCAOGUZEWDMKOJRB5JVF474/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/08/11/BYKPCAOGUZEWDMKOJRB5JVF474/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 09:00:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YECS7CSWS5MG5JIJDAAH5XSHJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 9일 경기 구리남양주요금소에서 자동차세 및 과태료 등 체납 차량 합동 단속에 나선 서울시 교통지도단속 관계자가 한 차량의 과태료 납부 확인서를 살펴보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통법규를 어겨 과태료를 물게 된 사람이 과태료를 내지 않고 있으면, 앞으로는 국세청 체납관리단이 전화해 과태료 납부를 요구하게 된다.&lt;br&gt;&lt;br&gt;11일 감사원에 따르면, 교통 위반 과태료 체납액은 지난해 말 기준 1611만건, 1조1447억원에 달한다. 255만명이 과태료를 제때 내지 않고 있었다.&lt;br&gt;&lt;br&gt;그러나 경찰청은 전담 인력 부족 등의 문제로 체납 과태료를 다 걷지 못하고 있다. 이에 따라 경찰청은 지난달 출범한 국세청 체납관리단에 교통 위반 과태료 체납액 징수 관련 업무를 맡겼다.&lt;br&gt;&lt;br&gt;하지만 교통 위반 과태료는 그동안 차량 등록 정보를 바탕으로 부과돼 왔고, 차량 등록 정보에는 소유자의 주민등록번호와 주소지 정보만 있어, 주소지로 과태료 부과 통지서를 보내거나 ‘과태료·범칙금 알림 서비스’에 가입한 국민에 한해 전자 문서로 통지해야 했다. 그래서 과태료 통지서 자체가 전달되지 못해 체납으로 이어지는 경우가 많았다.&lt;br&gt;&lt;br&gt;경찰청과 국세청은 감사원에 경찰청이 운전면허 관리 등을 위해 별도로 갖고 있는 운전자 전화번호 정보를 과태료 징수에 활용해도 되는지 문의했다. 감사원은 개인정보보호위원회 등 관계 기관과 협의하고 관계 법령을 검토한 끝에, 경찰청과 국세청에 ‘전화번호 정보를 교통 위반 과태료 징수 목적으로 이용할 수 있다’고 답변했다.&lt;br&gt;&lt;br&gt;이는 감사원이 경찰청·국세청에 ‘사전 컨설팅’을 해준 것이다. 사전 컨설팅 제도는 공공기관이 행정 행위를 하기 전에 법령상 애매한 부분이 있을 때, 감사원에 문의해 미리 답변을 받는 제도다. 해당 공공기관은 감사원에게서 나중에 법령 위반 행위를 했다는 추궁을 당할 부담을 덜 수 있다.&lt;br&gt;&lt;br&gt;이에 따라 체납관리단은 앞으로 과태료 체납자 전원에게 전화를 걸어 체납 사실을 알리고 납부를 요구하게 된다.&lt;br&gt;&lt;br&gt;감사원은 “이번 컨설팅으로 체납액 징수의 실효성을 높이고, 성실 납세자와의 형평성을 확보하는 한편, 국세청의 (과태료 등) 국세 외 수입 통합 징수 사업이 원활하게 추진되는 데에도 기여할 것으로 기대된다”며 “앞으로도 법령과 행정 규제의 불확실성 등으로 국가 주요 사업이 지체되거나 국민이 피해를 보는 일이 없도록 선제적으로 문제를 해소하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>바르는 ‘뇌 보호제’? 치매까지 막는 피부 관리법 [이러면 낫는다]</title>
+      <link>https://www.chosun.com/medical/2026/08/11/YBOVAOPFCBBPFNAW6DOT77CGNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2026/08/11/YBOVAOPFCBBPFNAW6DOT77CGNU/</guid>
+      <dc:creator>전현석 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 08:51:58 +0000</pubDate>
+      <content:encoded>피부는 겉모습만 좌우하지 않는다. 피부가 망가지면 인지 기능까지 영향을 준다는 최근 연구 결과도 있다. 조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 피부 항노화 분야 세계적 권위자인 정진호 서울대병원 피부과 명예교수와 함께 여름철 피부 관리법과 피부·뇌 건강의 관계를 짚어봤다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“피부 온도 1도 오르면 피지 분비 10% 증가”&lt;/b&gt;&lt;br&gt;&lt;br&gt;여름철 피부 트러블의 출발점은 ‘온도’다. 정 교수는 “우리 피부의 온도는 보통 31도 정도인데, 피부 온도가 1도 올라가면 얼굴 피지샘의 피지 분비가 10%가량 더 많아진다”고 말했다. 여기에 땀으로 몸 곳곳이 습해지면 세균과 곰팡이가 살기 좋은 환경이 만들어져 각종 피부병이 생기기 쉽다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAQAZA2C7JBFNL2WM4B2I62YEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피부 온도가 반복적으로 올라가면 열 자극이 활성산소와 염증을 유발하고, 결국 ‘열노화(熱老化)’로 이어진다. 자외선에 의한 광노화와 적외선에 의한 열노화가 동시에 진행되는 셈이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VNAZ76U3NA2XEIARDURYZFJHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“샤워 거품은 10초면 충분”&lt;/b&gt;&lt;br&gt;&lt;br&gt;피부 가장 바깥의 각질층은 외부 유해물질로부터 몸을 보호하는데, 이 각질층이 곧 ‘피부장벽’이다. 피부 장벽이 무너지면 외부 자극 물질과 알레르기 유발 물질이 쉽게 침투해 염증이 생기고, 수분이 빠져나가 피부가 건조해진다. 정 교수는 “설거지할 때 기름기 많은 접시를 세제 거품으로 닦으면 뽀득뽀득해지는 것은 거품이 기름기를 다 빼앗아서 그런 것인데, 피부도 마찬가지”라고 비유했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAEDQ3MUBBADFGDAZYOV4OOLIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 교수는 “비누 거품이 피부의 기름때를 감싸는 데 걸리는 시간은 10초면 충분하다”며 “비누칠을 20초 넘게 하면 각질세포 사이를 채우고 있는 지질 성분까지 빠져나가기 시작한다”고 했다. 그는 아침에는 흐르는 물로만 씻고, 피지 분비가 많은 머리만 샴푸로 10초간 감는다고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇피부 염증이 뇌 해마까지… “인지기능 지키려면 보습제 발라야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;피부는 내분비 기능을 하는 ‘장기’이기도 하다. 건조해진 피부는 ‘염증성 사이토카인’을 만들어내는데, 이 물질이 피부에만 머물지 않고 혈액을 타고 뇌로 이동해 기억을 담당하는 ‘해마’에 작용한다고 한다. 자외선 역시 피부에 염증을 유발하고, 여기서 나온 염증성 사이토카인이 뇌 해마에 작용해 신경 형성을 저해하고 인지 기능을 떨어뜨린다는 연구 결과도 있다. 이 때문에 정 교수는 자외선 차단제를 ‘뇌 보호제’라고 생각한다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3XNWXPH2VB2HDGS2IECXJPXEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇좋은 보습제 고르는 법 3가지&lt;/b&gt;&lt;br&gt;&lt;br&gt;정 교수는 보습제를 고를 때 반드시 따져야 할 세 가지 조건을 제시했다. &lt;br&gt;&lt;br&gt;첫째, 약산성(pH 5~5.5) 제품이어야 한다. 피부가 약산성일 때 각질세포의 성장과 분화가 원활해 각질층이 잘 형성되기 때문이다. 알칼리성 보습제를 바르거나 피부가 알칼리화되면 각질세포를 제대로 만들지 못한다. 둘째, 세라마이드·콜레스테롤·지방산의 비율이 1:1:1인 제품이어야 한다. 셋째, 피부장벽의 ‘ABH 당’ 성분을 증가시키는 특허 성분이 들어 있어야 한다. 정 교수는 “세 조건을 모두 만족하는 것이 가장 좋지만, 어렵다면 최소 두 가지는 충족하는 제품을 고르라”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NDBOVDJ7RHCNHYGLADTPN2ZOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바르는 양도 중요하다. 정 교수는 “0.5g으로 손바닥 두 개 넓이를 바르는 게 좋다”며 “내가 너무 많이 발랐나? 싶을 정도로 충분히 발라야 한다”고 말했다. 젊은 사람도 하루 두 번은 필수이며, 피부가 건조하고 가렵다면 하루 네 번까지 발라줄 것을 권했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISF6QTRZ3FEXVMMNSYNXYS2PCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇40년 피부과 교수의 피부 관리법&lt;/b&gt;&lt;br&gt;&lt;br&gt;정 교수의 관리법은 단순하다. 아침에는 흐르는 물로만 씻고 보습크림과 자외선 차단제를 바른 뒤 양산을 쓰고 출근한다. 자외선 차단제는 2~3시간마다 덧발라야 하므로 점심 먹으러 나갈 때 한 번 더 바른다. 저녁에는 거품을 내 10초간 샤워한 뒤 전신에 보습제를 바른다. &lt;br&gt;&lt;br&gt;정 교수는 “인지 기능과 기억력이 나빠지지 않게, 건강하게 오래 살기 위해서는 피부가 젊고 건강해야 한다”며 “피부에 도움이 되는 생활 습관을 유지하도록 노력해야 한다”고 했다. 더 자세한 내용은 조선일보 의학·건강 유튜브 ‘이러면 낫는다’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>난민 신청 후 인천공항 체류… 10살 아이는 1년째 학교 못 갔다</title>
       <link>https://www.chosun.com/national/national_general/2026/08/11/GOGRCAJGEZEGLI5Y7K7WZEFX3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/GOGRCAJGEZEGLI5Y7K7WZEFX3U/</guid>
@@ -808,36 +892,6 @@
       </media:content>
     </item>
     <item>
-      <title>모터보트 타고 낚시 갔다가 연락 두절… 20~30대 3명 구조</title>
-      <link>https://www.chosun.com/national/incident/2026/08/10/YM4T7JXOOFDLZI4PKKKXEB7DHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/10/YM4T7JXOOFDLZI4PKKKXEB7DHI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Aug 2026 00:05:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBF77IH3M5GJXKASL2PIGQRVOU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 6시 12분쯤 인천시 옹진군 자월면 초지도 인근 해상에서 20~30대 남성 3명이 해경에 의해 구조되고 있는 모습. /인천 해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모터보트를 타고 낚시를 하러 갔다가 연락이 끊긴 낚시객 3명이 11시간여 만에 무사히 구조됐다. &lt;br&gt;&lt;br&gt;10일 인천 해양경찰서에 따르면, 이날 오전 6시 12분쯤 인천시 옹진군 자월면 초지도 인근 해상에서 전날 연락이 끊긴 A씨 등 20~30대 남성 3명이 구조됐다. &lt;br&gt;&lt;br&gt;구명조끼를 입은 이들은 구조 당시 뒤집어진 0.28t 모터보트에 매달려 있었던 것으로 파악됐다. 생명에는 지장이 없는 상태다. &lt;br&gt;&lt;br&gt;A씨 등은 전날 낮 12시 30분쯤 낚시를 하기 위해 인천시 영종구 왕산해수욕장에서 모터보트를 타고 출발한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVPOQFWZCREFJPA3OQGKANDONQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전복된 모터포트. / 인천 해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 아내는 전날 오후 7시 10분쯤 마지막 통화 이후 남편과 연락이 끊기자, 오후 10시 30분쯤 112에 신고했다. &lt;br&gt;&lt;br&gt;신고를 받은 해경은 A씨 아내가 위치 추적 애플리케이션을 통해 제공한 남편의 마지막 위치와 해수유동예측 시스템 등을 바탕으로 초지도와 자월도 인근 해상을 집중 수색했다. 수색엔 항공기 3대와 경비함정 19척, 관계 기관 선박 3척 등이 동원됐다. &lt;br&gt;&lt;br&gt;당시 A씨 일행의 휴대전화는 꺼져 있었고, 이들이 타고 나간 모터보트엔 선박자동식별장치(AIS)가 없어 위치 확인이 어려웠던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;구조된 A씨 등은 해경에 “가족과 마지막으로 통화하고 얼마 지나지 않아, 강한 파도를 맞고 선내로 물이 들어오면서 보트가 전복됐다”는 취지로 진술했다. &lt;br&gt;&lt;br&gt;해경은 이들이 구명조끼를 착용하고 있었고, 당시 수온이 25.8도로 비교적 높아 장시간 바다에서 버틸 수 있던 것으로 보고 있다.&lt;br&gt;&lt;br&gt;해경은 전복된 모터보트를 인천해경 전용부두로 이송했다. 해경은 A씨 일행을 상대로 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;양종타 인천해경서장은 “승선원들이 장시간 바다에서 버틸 수 있었던 것은 구명조끼 착용이 컸다”며 “가까운 거리에서 수상레저활동을 하더라도 반드시 구명조끼를 착용해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RBF77IH3M5GJXKASL2PIGQRVOU.gif?auth=2db2f0f9f2d32bdc4c76f323f5143a0b8cb535b932e6d2a91ab60bce7839268e&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
-        <media:description type="plain">10일 오전 6시 12분쯤 인천시 옹진군 자월면 초지도 인근 해상에서 20~30대 남성 3명이 해경에 의해 구조되고 있는 모습. /인천 해양경찰서</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>추미애, 삼성·SK 공개 압박... “용수 줬는데도 폐수 안 줄여”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/10/OQ4CWK2XDJH2JLEDM7RESKXXSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/OQ4CWK2XDJH2JLEDM7RESKXXSA/</guid>
-      <dc:creator>수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Aug 2026 01:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWACTZJEHFAKJB7H4SEEPCPSRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;업무보고 받는 추미애 지사./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기도지사가 삼성전자와 SK하이닉스를 향해 반도체 공정수 재이용을 늘리고 폐수 방류량을 최소화하라고 재차 압박하고 나섰다.&lt;br&gt;&lt;br&gt;경기도는 “추 지사가 지난 7일 열린 제4차 반도체 초격차 전략 회의에서 두 기업을 거론하며 이같이 요구했다”고 10일 밝혔다.&lt;br&gt;&lt;br&gt;추 지사는 이날 회의에서 “인텔과 TSMC 미국 공장은 반도체 용수를 재활용하고 무방류 또는 최소 방류 방향으로 기술 투자를 하고 있다”며 “심지어 인가가 없는 사막에 반도체 공장을 지으면서도 환경 피해를 줄이는 투자를 확대하는데 글로벌 최대 반도체 기업인 삼성과 하이닉스는 정반대”라고 했다.&lt;br&gt;&lt;br&gt;이어 “반도체 용수 점검 결과 하루 110만톤의 풍부한 용수를 공급하고 발전용 화천댐 물 공급도 가능하도록 법제화하는 등 용수를 값싸고 풍족하게 이용할 수 있는 공급 대책을 공공의 힘으로 세워주니 이를 역이용하며 폐수 방류량을 줄이는 노력은 하지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 기존 행정 지도 이행도 강조했다. 앞서 경기도는 삼성전자와 SK하이닉스에 공정수 재이용률 확대를 위한 기술 개발과 투자를 촉구하도록 행정 지도를 지시했다.&lt;br&gt;&lt;br&gt;더불어 환경영향평가 기준도 더 엄격하게 적용해야 한다고 했다. 추 지사는 기후환경에너지부 차원의 엄격한 배출 기준이 없는 것을 지적하며 “경기도가 안성 고삼저수지 방류 기준 등 환경영향평가를 엄격하게 적용해달라고 요구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 “이러한 조치들이 완료되기 전까지는 폐수를 방류하지 않을 것임을 주민들에게 알리고 직접 눈으로 현장을 확인할 수 있도록 해야 한다”며 “이 과정이 선행되어야 비로소 주민 설득이 가능해진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘전신에 타박상’… 5살 딸 학대한 20대 친부 긴급체포</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/10/XXC7UE6MIRFXTIN3P7XQQKZEB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/XXC7UE6MIRFXTIN3P7XQQKZEB4/</guid>
-      <dc:creator>동두천=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Aug 2026 03:42:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTIMJVGIYGGNBWHFRTMMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다섯 살 딸을 학대한 혐의로 20대 친부가 경찰에 긴급 체포됐다.&lt;br&gt;&lt;br&gt;동두천경찰서는 아동복지법상 아동 학대 혐의로 A씨를 긴급 체포해 조사하고 있다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 동두천시 자신의 주거지에서 딸인 다섯 살 B양을 학대한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이날 오전 2시쯤 한 주택에서 “아이가 가정 폭력을 당한 것 같다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;B양은 전신의 다발성 타박상을 입은 상태로 발견됐으며, 응급치료를 받은 뒤 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;B양은 친부인 A씨, 계모와 함께 생활해 온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 학대 경위와 범행 동기 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울시, 2조8061억원 2차 추경…청년 50만명 AI 지원</title>
       <link>https://www.chosun.com/national/national_general/2026/08/10/YNWYESXUAVBT7DSO3N2QBHDZ6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/YNWYESXUAVBT7DSO3N2QBHDZ6I/</guid>
@@ -922,34 +976,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독] ‘업무시간 페북’까지 사유로… 법무부, 13일 ‘박상용 징계’ 감찰위</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/10/GUWOZTQLS5HE7BLBOZZK3DLK6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/10/GUWOZTQLS5HE7BLBOZZK3DLK6A/</guid>
-      <dc:creator>김희래 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 20:00:00 +0000</pubDate>
-      <content:encoded>박상용 인천지검 부부장검사의 징계를 심의할 법무부 감찰위원회(감찰위)가 13일 열린다. 지난 4월 법무부의 추가 감찰 지시와 5월 대검찰청의 정직 2개월 청구로 이어진 박 검사 징계 심의 절차가 막바지 단계에 들어가는 것이다. 한 법조계 인사는 “박 검사 징계 과정은 정부와 여당이 이재명 대통령 관련 사건 수사를 트집 잡기 위해 검사 한 명을 몰아세운 과정”이라며 “상식적이지 않은 징계 심의 결과가 나올 경우 논란만 부르게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;13일 열리는 법무부 감찰위에서는 박 검사가 쌍방울 불법 대북 송금 사건 수사 과정에서 부적절한 처신을 했는지와 함께 상부에 서면 보고를 하지 않고 국민의힘이 마련한 청문회에 참석한 일 등을 징계 사유로 심의할 것으로 보인다. 감찰위는 검사 등에 대한 중요 감찰 사건을 자문하는 기구로, 위원장 1명과 부위원장 1명을 포함해 13명 이내 위원으로 구성된다. 법무부는 감찰위 권고를 받아 검사징계위원회(징계위)를 열어 최종 징계 수위를 결정한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4SQJ62CNCVLNM4U65D42Y4ZY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘연어 술파티’ 의혹 빠진 징계&lt;/b&gt;&lt;br&gt;&lt;br&gt;대검찰청은 지난 5월 12일 박 검사에 대해 정직 2개월 징계를 법무부에 청구했다. 쌍방울 대북 송금 사건 주임검사였던 박 검사가 수사 당시 이화영 전 경기도 평화부지사 측 변호인에게 다른 사건 수사를 언급하며 부당하게 자백을 요구한 점, 김성태 전 쌍방울 회장과 안부수 아태평화교류협회장 등 피의자들에게 외부 음식과 접견 편의를 제공한 점 등을 징계 사유로 봤다. &lt;br&gt;&lt;br&gt;하지만 대검은 더불어민주당이 제기해 온 이른바 ‘연어 술파티’ 의혹은 징계 사유에서 제외했다. 이 전 부지사는 2023년 5월 수원지검 조사실에서 박 검사가 김성태 전 회장 등을 불러 조사할 때 연어와 술을 제공하며 “이재명 대통령이 이 사건에 관여했다”는 진술을 하도록 회유했다고 주장했다. 이 전 부지사 주장을 근거로 민주당은 박 검사를 징계하라고 요구해 왔다. &lt;br&gt;&lt;br&gt;이에 법무부는 작년 9월 자체 점검에서 “술과 음식이 검사실로 반입된 정황을 확인했다”며 대검에 감찰을 지시했고, 대검은 서울고검에 인권침해점검TF를 꾸려 8개월 동안 조사했다. TF는 지난 5월 술 반입이 있었다고 결론 냈지만, 외부 전문가들이 참여한 대검 감찰위와 대검은 연어 술파티 의혹 관련 내용은 징계 대상에 포함하지 않았다. 대검은 당시 “관리 소홀로 술이 반입·제공된 것을 막지 못한 점, 불필요한 참고인을 반복 소환한 점에 대해선 (대검) 감찰위 의결 결과를 존중해 징계 청구를 하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇페북 글, 국회 참석도 문제 삼아&lt;/b&gt;&lt;br&gt;&lt;br&gt;이와 별개로 법무부는 지난 4월 박 검사가 국민의힘이 자체적으로 개최한 청문회에 참석한 것을 문제 삼아 박 검사가 소속돼 있는 인천지검에 추가 감찰을 지시했다. 인천지검은 박 검사를 지난달 13일 불러 조사했고, 지난달 말 감찰을 마무리했다. 대검은 이 결과를 토대로 최근 법무부에 박 검사에 대한 추가 징계를 청구한 것으로 알려졌다. 추가 징계 청구 사유는 박 검사가 업무시간 중 페이스북에 글을 올린 점, 상부에 서면 보고 없이 구두 보고만 하고 국민의힘 청문회에 참석한 점 등이라고 한다. &lt;br&gt;&lt;br&gt;박 검사는 지난 4월 7일 국민의힘 국정조사특위 위원들이 개최한 ‘민주당의 공소취소·재판조작 진상규명 청문회’에 참석했다. 민주당이 ‘윤석열 정권 정치검찰 조작 기소 의혹 사건’ 국회 국정조사를 밀어붙이자 국민의힘이 마련한 자리였다. 박 검사는 앞선 4월 3일 국정조사 기관 보고에서 증인 선서를 거부해 퇴장당했는데, 4월 7일 국민의힘 청문회에 출석해 민주당이 제기한 조작 기소 의혹을 반박했다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰 내부에서는 “박 검사의 추가 징계 사유를 보면 견책 정도의 경징계일 가능성이 크다”는 전망이 나온다. 검사 징계는 해임·면직·정직·감봉·견책 등 5단계로 구분된다. 한 검찰 중간 간부는 “대검이 기존에 청구한 정직 2개월에 더해 추가 징계를 요구한 것은 ‘박상용 죽이기’란 의심을 살 수밖에 없다”며 “페이스북 활동이든 서면 보고 누락이든 실제 징계로 이어질 경우, 검찰 내부에서 형평성 논란이 불거질 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KAYYQN6GXZKODPZO2PPDIYK27Y.jpg?auth=a68c745bdcdd874bc8d23b9a6371c5f64d1519e048539471de57bd303bcdfba8&amp;smart=true&amp;width=4998&amp;height=3258" type="image/jpeg" height="3258" width="4998">
-        <media:description type="plain">&lt;YONHAP PHOTO-3311&gt; 취재진 질문에 답하는 박상용 검사
-    (인천=연합뉴스) 임순석 기자 = 쌍방울 대북송금 사건 수사 과정에서의 규정 위반을 이유로 정직 2개월 징계가 청구된 박상용 인천지검 부부장검사가 13일 감찰 조사를 받기 위해 인천지검에 출석하며 취재진 질문에 답하고 있다. 2026.7.13
-    soonseok02@yna.co.kr/2026-07-13 14:27:34/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">임순석</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>위치 정확도 개선, 더 정교해진 실거주 조사… 일각 “부동산 세금 징수 위해 엄격히 따지나”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/10/A4H7PZ2Z4RG4ZHR2T7UVBCGHXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/A4H7PZ2Z4RG4ZHR2T7UVBCGHXE/</guid>
-      <dc:creator>오유진 기자, 윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 15:46:00 +0000</pubDate>
-      <content:encoded>행정안전부는 지난달 20일부터 ‘2026년 주민등록 사실 조사’를 진행 중이다. 주민등록지에 실제로 살고 있는지 여부를 확인하는 조사다. &lt;br&gt;&lt;br&gt;다음 달 7일까지 조사 대상자가 ‘정부24’ 앱으로 자진 신고하는 비대면 조사가 진행된다. 다음 달 8일부터는 비대면 조사에 참여하지 않은 가구 등을 대상으로 통장 등이 직접 방문한다. 지난해 조사 대상자 4명 중 1명꼴인 1275만명이 비대면 조사 방식을 이용했다. &lt;br&gt;&lt;br&gt;비대면 조사는 2022년 맞벌이·1인 가구가 증가해 방문 조사가 어려워지자 도입했다. 휴대전화 위치 정보(GPS)를 활용한다. 주민이 집에서 위치 정보 수집·이용에 동의하고 가구 정보를 입력하면 휴대전화 GPS로 주민등록지와 현재 위치가 일치하는지 확인하는 방식이다.&lt;br&gt;&lt;br&gt;올해는 그 기능이 더 정교해졌다고 한다. 행안부는 “내비게이션 업체인 티맵모빌리티와 협력해 GPS의 정확도를 더 높였다”고 했다. 주민등록지와 실제 거주지가 일치하는지를 더 정확하게 가려낼 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;이 사실이 알려지자 일각에선 “부동산 세금을 더 물리기 위해 위치 확인 기능을 강화한 것 아니냐”는 말이 나왔다. 국세청이 세금을 부과할 때 주민등록 사실조사 결과를 활용하는 만큼 과세에도 영향을 미칠 수 있다는 얘기다. 최근 정부가 발표한 ‘2026년 세제 개편안’과 맞물려 이런 반응이 나온 측면도 있다. 정부는 내년부터 시세 20억원이 넘는 주택을 보유하고 실제 살지는 않는 비(非)거주 1주택자의 종합부동산세 부담을 크게 늘리기로 했다. 1주택자 장기보유특별공제도 바뀐다. 현재는 집을 10년 보유·거주하면 양도소득세를 최대 80%까지 공제받을 수 있지만 2029년부터는 10년 실거주해야 80% 공제 혜택을 받을 수 있게 된다. 둘 다 거주 여부가 세 부담을 가른다. 서울 성북구에 사는 박모(40)씨는 “주민등록 사실 조사를 강화해 세수를 늘리려는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련, 행안부 관계자는 “그동안 GPS가 아파트 정문을 현재 위치로 인식하는 등 오류가 잦아 시스템을 개선한 것”이라며 “위치 확인 기능을 개선한 뒤 이러한 오류가 작년보다 32% 줄었다”고 했다. 행안부는 GPS 오류가 발생하면 비대면 조사를 마치지 못하고 방문 조사를 받아야 해 관련 민원도 많았다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GVRDQNZVMJTGIMDBGY3WIYTCGU.jpg?auth=e3e95cd5bfc7bec7825c78120cb33ceb56ee91a91aae2f95543391795224c054&amp;smart=true&amp;width=2864&amp;height=1347" type="image/jpeg" height="1347" width="2864">
-        <media:description type="plain">서울 강남구의 한 부동산에 게시된 매물정보. 2026.8.4 ⓒ 뉴스1 김도우 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“보완수사권 폐지 규탄” 집회 나선 여성들</title>
       <link>https://www.chosun.com/national/national_general/2026/08/10/B7PZBNLK4FED5H7JA7LS3Z4SFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/B7PZBNLK4FED5H7JA7LS3Z4SFQ/</guid>
@@ -958,51 +984,6 @@
       <pubDate>Sun, 09 Aug 2026 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3FIV7FPLFAHBI3NBYC7AMKSXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김지호 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 밤 여성의당 등 여성 단체들이 서울 종로구 보신각 앞에서 ‘보완수사권 폐지 규탄 긴급 시위’를 열었다. 지난 4일 국무회의를 통과한 형사소송법 개정안에 반대하는 집회다. 참가자 200여 명이 ‘여성 폭력 피해자들의 절규 외면 말라’고 쓴 플래카드를 들고 “보완수사권 폐지를 규탄한다”고 외쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>18일 만에… 잠 잘 만했던 서울</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/08/10/GSYKPRJ7XNE5ZJG2LLT4BAVBRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/10/GSYKPRJ7XNE5ZJG2LLT4BAVBRI/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SXYRBDJSROE3BEH6UT3YC6ANM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 최고기온이 33도를 보이며 30도 후반까지 오르던 극한폭염이 주춤한 9일 오후 서울 남산에서 바라본 하늘에 구름이 끼어 흐린 모습을 보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말 사이 40도 안팎의 ‘극한 폭염’이 한풀 꺾이며 일부 지역에서는 장기간 이어졌던 열대야도 잠시 멈췄다. 9일 서울의 아침 최저기온은 24.5도까지 내려가 전날까지 17일 연속 이어졌던 열대야(밤 최저기온 25도 이상)가 끝났다. 전국을 달구던 더위가 누그러지며 일부 지역엔 ‘잠은 잘 수 있는 날씨’가 찾아온 것이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 8일 기준 서울 뿐 아니라 원주, 청주에서도 8일간 이어진 열대야 기록이 끊어졌다. 반면 제주에선 33일째, 여수에서는 29일째, 부산에서는 21일째 열대야가 이어지고 있다.&lt;br&gt;&lt;br&gt;주말 사이 폭염의 기세가 다소 꺾인 것은 지난주 우리나라를 이중으로 덮었던 북태평양고기압과 티베트고기압의 세력이 약해졌기 때문이다. 두 고기압이 상·하층에서 열기를 가두던 구조에 균열이 생겼다. 여기에 북동풍을 타고 상대적으로 선선한 공기가 유입되고, 동해안을 중심으로 비구름이 발달해 햇볕을 가리면서 일사량이 줄어든 점도 영향을 준 것으로 분석된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZYUJQ4SSRD5NKASVAGPANZOKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“40도 더위는 지나갔다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;기상청은 지난주처럼 40도를 넘나드는 ‘극한 더위’는 올해 더 이상 나타나지 않을 것으로 전망하고 있다. 하지만 이번 주에도 전국 대부분 지역에서 최고체감온도가 35도 안팎까지 오르는 무더위가 이어질 것으로 보인다. 비나 소나기가 내리는 곳은 일시적으로 기온이 내려가겠지만, 비가 그친 뒤에는 습도가 높은 상태에서 다시 기온이 오르면서 체감 더위가 심해지겠다. 전국 곳곳에 내려진 폭염특보도 당분간 유지될 전망이다.&lt;br&gt;&lt;br&gt;기상청은 10일 아침 최저기온이 21~26도, 낮 최고기온은 27~34도가 될 것으로 예보했다. 11일은 아침 최저기온이 19~25도, 낮 최고기온은 27~35도로 예상된다. 이후 주말까지 낮 최고기온은 29~35도로 평년(28~32도)을 웃돌겠다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “40도 안팎의 폭염은 지나갔지만, 당분간 고온다습한 북태평양 고기압의 영향이 이어져 폭염과 열대야가 계속되겠다”며 “제13호 태풍 ‘돌핀’과 제15호 태풍 ‘찬홈’은 한반도에 상륙하지 않을 것으로 보여 폭염 해소에는 큰 영향을 주지 못할 것”이라고 말했다. 14호 태풍 ‘구지라’는 필리핀 북부 해상에서 발생했다가 이미 세력이 약해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3X7X43EX5DZDN5K4KL7D6FPB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;계곡으로 더위 탈출  9일 충남 공주시 계룡산 계곡을 찾은 피서객들이 시원한 계곡물에 발을 담그며 더위를 식히고 있다. 연일 40도 안팎까지 치솟았던 폭염이 한풀 꺾이면서 서울 지역은 17일 연속 이어졌던 열대야(밤 최저기온 25도 이상)가 이날 멈췄다. /신현종 기자 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전까지 강원 중·남부 동해안과 산지, 경북 동해안과 북동 산지에는 20~60㎜, 많은 곳은 80㎜ 이상의 비가 내리겠다. 부산·울산에도 20~60㎜, 제주 산지와 중산간에는 10~50㎜의 비가 예상된다. 주말까지는 강원 영동과 경상권 동해안, 제주를 중심으로 비가 예보됐다.&lt;br&gt;&lt;br&gt;올해 6월부터 지난 8일까지 전국 평균 열대야 일수는 14.2일로 역대 가장 많았다. 종전 1위였던 2024년 같은 기간(13.2일)보다 1일, 역대 3위인 1994년(11.9일)보다 2.3일 많다. 전국 평균 폭염 일수는 16.5일로 역대 네 번째로 많았고, 같은 기간 전국 평균기온은 25.1도로 역대 두 번째로 높았다.&lt;br&gt;&lt;br&gt;8일 온열 질환으로 인한 사망자가 2명 발생해 올해 누적 사망자는 총 28명으로 늘었다. 이는 작년 같은 시기(22명)보다 6명이나 많은 수치다. 사망자를 포함한 전체 온열 질환 환자는 8일까지 총 3237명이다. 최근 하루 평균 약 200명의 환자가 발생하면서 엿새(8월 3~8일) 동안 발생한 온열 질환 환자(1184명)가 전체의 37%에 달한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7SXYRBDJSROE3BEH6UT3YC6ANM.JPG?auth=9cf6179589360d37a25d7b8e842acaf2b67e73e8bb46eeef13bc004960ccbb31&amp;smart=true&amp;width=5761&amp;height=3414" type="image/jpeg" height="3414" width="5761">
-        <media:description type="plain">서울 최고기온이 33도를 보이며 30도 후반까지 오르던 극한폭염이 주춤한 9일 오후 서울 남산에서 바라본 하늘에 구름이 끼어 흐린 모습을 보이고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박세연 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>어르신·장애인 건강 지키러… 달리는 ‘병원 버스’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/10/NZ3FKU553NGAHG6NT4BVUMOPXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/10/NZ3FKU553NGAHG6NT4BVUMOPXY/</guid>
-      <dc:creator>부산=조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU5BCPVKA5A7XE4YW73PAQ7FDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 부산 서구장애인복지관에서 시민들이 안과 진료를 받기 위해 의료버스로 올라가고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6일 오후 1시쯤 부산 서구 동대신동의 서구장애인복지관 주차장. 꼬불꼬불 경사진 산복 도로를 달려 하늘색 버스 한 대가 도착하자 장애인과 노인들이 순서대로 한 명씩 탑승하기 시작했다. 이들은 검사 장비 등이 갖춰진 버스 안에서 안과 검진을 받았다. 최고령인 A(86)씨의 눈을 현미경으로 들여다보던 안과 전문의 임성은씨가 말했다. “어무이, 백내장이 지금 심하시거등요? 이 정도면 점점 더 안 보이실 거기 때문에 수술을 권해드려요.” 올해 초부터 버스를 타기 시작한 임씨는 “어쩔 땐 그날 진료한 어르신 대부분이 백내장인데도 모르고 계셨던 적도 있다”고 말했다. &lt;br&gt;&lt;br&gt;이 버스는 2021년부터 부산시가 운영하고 있는 의료 버스다. 평소 병원을 다니기 힘든 노인과 장애인 등을 진료하기 위해 매일 이비인후과, 신경과, 내과, 가정의학과, 안과 전문의를 태우고 복지관을 찾는다. 도서 산간 지역에도 ‘왕진 버스’가 종종 다니지만, 총 5대의 부산시 의료 버스는 시내 206개 읍면동 중 125곳을 주기적으로 돌아다니며 진료하는 점이 차별점이다. 이를 위해 부산대병원, 해운대부민병원, 메리놀병원, 부산성모병원 등 지역 병원에서 의사를 파견한다. 지금까지 5만명 가까운 환자를 진료했다. 부산시 관계자는 “부산은 대도시라서 의료 서비스를 못 받는 지역이 없다고 생각할 수 있지만, 고령화가 워낙 급속하게 진행되고 있어서 노인들이 치료 시기를 놓치는 경우가 많아 의료 버스를 운영하고 있다”고 말했다. 부산은 시민 4명 중 1명(24.8%)이 65세 이상 노인으로, 광역자치단체 중 고령화가 가장 빠르게 진행되고 있다. &lt;br&gt;&lt;br&gt;기존 시골 ‘왕진 버스’는 환자를 검사해도 결과는 병원에 가서 확인해야 하는 경우가 대부분이지만, 부산시 의료 버스에는 초음파나 혈액 검사 결과까지 볼 수 있는 시스템이 구축돼 있다. 앞으론 인공지능(AI) 판독 시스템도 버스에 도입될 예정이다. AI 판독이 가능하면 특정 분야 전문의가 아니더라도 여러 질병을 진단할 수 있다. 의료 버스의 기술 시스템을 구축한 헬스케어 스타트업 온택트헬스의 장혁재 대표(세브란스병원 심장내과 교수)는 “안과 현미경 사진만으로 AI가 혈관 이상을 포착해 동맥경화 환자를 발견한 사례도 있다”면서 “앞으론 노인들이 많이 모여 있는 복지 시설에 의료 버스가 찾아가서 다양한 질병을 발견하고 예방하는 것도 가능할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/SU5BCPVKA5A7XE4YW73PAQ7FDQ.JPG?auth=18b2f3afba667f2cd1adc621f2793a6254c27072d2bd73d64b376a491b678145&amp;smart=true&amp;width=4912&amp;height=3252" type="image/jpeg" height="3252" width="4912">
-        <media:description type="plain">6일 오후 부산 서구장애인복지관에서 시민들이 안과 진료를 받기 위해 의료버스로 올라가고 있다./김동환 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>고향사랑기부, 지방에 내면 더 많이 돌려준다</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/10/7V7G66ZDTRDKNNJSMU2UDPQCLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/7V7G66ZDTRDKNNJSMU2UDPQCLU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 15:46:00 +0000</pubDate>
-      <content:encoded>내년부터 인구가 감소하거나 재정 형편이 어려운 지역에 고향사랑기부금을 내면 더 많은 세액공제 혜택을 받을 수 있게 된다. 행정안전부는 9일 이 같은 내용의 고향사랑기부제 개편안을 발표했다. &lt;br&gt;&lt;br&gt;고향사랑기부제는 자기 고향 등 지방자치단체에 기부하면 지역 특산품 등을 선물로 받을 수 있는 제도다. 연말엔 세액공제 혜택도 준다. 열악한 지방 재정을 확충하고 지역 경제를 살리기 위해 2023년 도입했다. 지난해 총 모금액이 1500억원을 돌파할 정도로 인기를 끌고 있다. &lt;br&gt;&lt;br&gt;현재는 기부 지역과 상관없이 동일한 공제율을 적용한다. 연간 최대 2000만원까지 기부할 수 있는데, 공제율이 10만원 이하는 100%, 10만~20만원은 44%, 20만~2000만원은 16.5%다.&lt;br&gt;&lt;br&gt;내년부터는 전국을 수도권, 비수도권 광역시, 기타 비수도권, 기타 비수도권 우대 지역 등 4개 지역으로 나눈다. 우대 지역은 비수도권 시·군 중에서 인구 감소, 재정난이 심각한 곳이다. &lt;br&gt;&lt;br&gt;10만원 이하 공제율은 100%로 현재와 같다. 10만~20만원 구간은 기타 비수도권, 기타 비수도권 우대 지역의 공제율을 44%에서 55%로 높인다. 20만~2000만원 구간은 기타 비수도권 우대 지역에 한해 27.5%로 상향 조정한다. &lt;br&gt;&lt;br&gt;예를 들어 서울에 사는 사람이 기타 비수도권 우대 지역에 50만원을 기부하면 현재는 19만3500원을 세액공제받는데, 내년부터는 23만7500원을 돌려받을 수 있다. 행안부 관계자는 “어려운 지역에 더 많은 기부금이 갈 것으로 예상한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>산사의 모기장 속으로… 영화 음악이 쏟아지는 밤</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/10/FYAIQUYEOVFGJHZDD7ZHZ7PLQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/FYAIQUYEOVFGJHZDD7ZHZ7PLQ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z77IYNDRG5HZFH4G6HXXWBNQCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 밤 전남광주 구례군 화엄사에서 ‘제6회 모기장 영화음악회’가 열렸다. 한여름 밤 지리산 자락에 있는 화엄사 경내에서 모기장을 펴 놓고 영화 음악을 감상하는 행사다. 참가자 700여 명이 열대야와 모기를 피해 영화 음악을 즐기고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
