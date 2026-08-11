@@ -13,6 +13,108 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수원서 1m 대형 도마뱀 발견… 멸종위기종 ‘물왕도마뱀’ 추정</title>
+      <link>https://www.chosun.com/national/incident/2026/08/11/GKH6RKYODNDOTPBQUIJUBIUEZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/GKH6RKYODNDOTPBQUIJUBIUEZY/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 00:41:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHMWG7PMUFCDHIGL224R5YFLAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광교에 나타난 대형도마뱀. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYWENRWGZTDOYLGMRSWGYRXGE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;광교에 나타난 대형도마뱀. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 경기 수원시 광교신도시의 한 아파트 단지에서 대형 도마뱀이 나타난 것으로 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;11일 지역 커뮤니티 등에 따르면, 이달 초 수원시 이의동 웰빙타운(광교신도시)의 한 아파트 산책로에서 몸길이가 약 1m에 달하는 것으로 추정되는 도마뱀을 발견했다는 목격담이 잇따랐다.&lt;br&gt;&lt;br&gt;이 도마뱀의 사진과 동영상 등을 보면, 국제 멸종 위기종 2급인 물왕도마뱀으로 추정되는 것으로 알려졌다. 이 도마뱀은 혀를 내밀고 두리번거리다가 수풀 속으로 사라진다.&lt;br&gt;&lt;br&gt;도마뱀을 촬영한 영상이 인근 주민들 사이에서 공유된 것으로 알려졌다. 이 도마뱀이 발견된 장소 인근에는 주민들이 자주 드나드는 도서관과 어린 학생들이 오가는 초등학교 등이 있다.&lt;br&gt;&lt;br&gt;주민 커뮤니티 등에서는 안전에 대한 우려 목소리도 나오는 것으로 전해졌다. 다만 경찰과 소방 등에 도마뱀이 나타났다는 신고가 접수되지는 않았다고 한다.&lt;br&gt;&lt;br&gt;한편, 지난달 18일 여주 소양천변에서는 국제 멸종위기종 1급인 샴악어가 발견되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“평화적 두 국가론은 한반도 영구 분단론”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/11/7TQLPSIOMZFIPHWRVZW2EQG2ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/7TQLPSIOMZFIPHWRVZW2EQG2ZI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 03:46:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5N42CHI36BOZZGZKTJLGL532XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 11일 여의도 국회 의원회관에서 열린 원코리아범국민연대, 광복81 원코리아 통일전진대회에 참석한 시민들이 기념촬영을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부의 ‘평화적 두 국가론’에 반대하는 시민들이 국회에 모였다. 이들은 “평화적 두 국가론은 한반도 영구 분단론”이라고 주장했다. &lt;br&gt;&lt;br&gt;11일 오전 서울 영등포구 국회의원회관 대회의실에서 국민의힘 송석준 의원·원코리아범국민연대 공동 주최로 ‘광복 81 원코리아 통일전진대회’가 열렸다. 이날 행사는 남북 관계를 ‘평화적 두 국가 관계’로 정의한 현 정부의 통일 정책에 반대하고, 헌법에 기초한 평화 통일의 비전을 제시하기 위해 마련됐다. &lt;br&gt;&lt;br&gt;행사에는 국회 외교통일위원장을 맡고 있는 국민의힘 송석준 의원, 장만순 일천만이산가족위원회 위원장, 태영호 전 국회의원 등이 참석했다. &lt;br&gt;&lt;br&gt;송 의원은 축사에서 “대한민국 헌법은 분명하게 통일을 지향하고 있지만, 현실은 헌법이 정하고 있는 통일에 반하는 움직임을 보이고 있어 기가 막힐 지경”이라고 지적했다. 이어 “북한의 핵 무력과 투발 수단 등이 완성되고 있는 상황에서 심각한 위기로 다가오는 남북 분단 현실을 우리가 외면하거나 착각해서는 안 된다”고 했다. &lt;br&gt;&lt;br&gt;앞서 지난 5월 이재명 정부의 첫 통일 백서에는 남북 관계를 ‘통일을 지향하는 평화적 두 국가 관계’로 전환할 필요가 있다는 통일부의 입장이 담겼다. 당시 북한이 이미 남북을 ‘적대적 두 국가’ 관계로 규정한 상황에서 정부가 이에 동의한다는 취지로 읽혀 논란이 됐다. 두 국가론은 ‘대한민국의 영토는 한반도와 그 부속 도서로 한다’는 헌법 3조와 배치된다는 지적도 나왔다. &lt;br&gt;&lt;br&gt;이날 행사에서도 북한을 하나의 독립 국가로 인정하게 되면 헌법을 부인하는 꼴이 된다는 목소리가 나왔다. 원코리아범국민연대 공동대표를 맡고 있는 장만순 일천만이산가족위원회 위원장은 “북한은 전쟁 발발 시 대한민국을 완전히 점령해 공화국 영토로 편입시키는 방안을 수정 헌법에 반영하라고 명령한 상태”라며 “이런 상황에서 북한을 국가로 인정하게 된다면 우리의 기본 헌법을 부인하는 자기 모순에 빠지는 것”이라고 했다. 장 위원장은 “북을 조선이라고 불러준다고 해서 도발이 멈추는 것이 아니다”라며 “보수와 진보, 여당과 야당이 하나의 통일된 비전을 만들어가야 한다”고도 했다. &lt;br&gt;&lt;br&gt;기조연설을 맡은 태영호 전 의원은 현 정부의 통일 정책이 북한의 ‘두 국가론’에 맞장구 치는 격이라고 짚었다. 그는 “원래 북한에서 기차를 타면 기차가 움직이는 순간에 ‘통일 열차 달린다’는 노래가 나오곤 했다”며 “그런데 갑자기 김정은이 통일을 다 지우자고 하니, 대한민국에서 거기에 맞장구치는 세력이 나타났다”고 했다. 태 전 의원은 “지금 정부가 추진하는 헌법 개정은 2500만 북한 주민을 방치하고, 3400명 탈북민은 고향에 갈 꿈도 꾸지 말라는 행위와 같다”며 “정부가 외치는 평화적 두 국가론은 한반도 영구 분단론일 뿐”이라고 비판했다. &lt;br&gt;&lt;br&gt;이후 탈북 청년들, 종교계 인사들의 발언과 축하 공연 등이 이어졌다. 이날 행사에는 탈북민, 이산가족 등 시민 약 500명이 참석했다. ‘두 국가 No, 원 코리아 Yes!’라고 적힌 손팻말을 든 이들은 정부가 추진하는 두 국가론에 반대 목소리를 냈다. &lt;br&gt;&lt;br&gt;한편 원코리아범국민연대는 오는 10월 3일 개천절에 뚝섬한강공원에서 통일을 주제로 한 ‘2026 코리아드림 한강 대축제’를 개최할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20대 지적장애인 성폭행 혐의… 전 중기 임원 60대 男 구속영장</title>
+      <link>https://www.chosun.com/national/incident/2026/08/11/CPRBVXJZMBBNHP6333TSLMV3QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/CPRBVXJZMBBNHP6333TSLMV3QM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 02:45:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4TGMBZHA3DINBRMEZGMZRTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 남동구 구월동 인천경찰청./ 인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지적장애인을 성폭행한 혐의를 받는 전 중소기업 임원에 대해 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 성폭력범죄의 처벌 등에 관한 특례법상 장애인 준강간 혐의로 60대 남성 A씨에 대해 사전 구속영장을 신청했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해부터 지난 6월까지 1년 가까이 여러 차례에 걸쳐 지적장애가 있는 20대 여성 B씨를 성폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;B씨 부모는 딸의 임신과 성폭행 피해 상황을 전해 듣고 지난 3월 경찰에 신고했다.&lt;br&gt;&lt;br&gt;B씨는 임신한 아이를 출산해 양육 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 B씨가 과거 근무했던 중소기업의 임원 A씨에게 성폭행당한 정황이 있는 것으로 보고 수사해 왔다. A씨는 현재 퇴사한 상태다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자에 대한 구속 필요성이 있다고 판단돼 영장을 신청하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;A씨의 구속 전 피의자 심문은 오는 12일 오후 2시 30분 인천지법에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>응급의료방해시 최대 징역 5년...딥페이크 성범죄도 양형기준 세워</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/11/AVNX6EI2YNEFXLD6QV5MGVH7CY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/11/AVNX6EI2YNEFXLD6QV5MGVH7CY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 02:38:20 +0000</pubDate>
+      <content:encoded>응급 환자가 발생한 상황에서 의료진의 응급의료나 구조·구급 행위를 방해할 경우 최대 징역 5년까지 선고하도록 양형기준이 마련됐다. 딥페이크 영상 등 디지털 성범죄에 대한 양형기준도 세분화해 만들기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOHCB5CDYVPRXPGSYQSNFWE6T4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이동원 양형위원회 위원장이 10일 서울 서초구 대법원에서 열린 양형위원회 전체회의에서 자료를 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 양형위원회(위원장 이동원)는 지난 10일 147차 전체회의를 열고 디지털 성범죄, 응급의료·구조·구급방해범죄와 관련한 양형기준을 심의했다고 11일 밝혔다. 양형위는 특정 범죄에 대한 양형기준을 세우는 기구로, 판사가 형량을 정할 때 참고하는 일종의 가이드라인이다. 반드시 따라야 하는 것은 아니지만 양형 기준을 벗어난 형량을 선고하려면 그 이유를 판결문에 적어야 한다.&lt;br&gt;&lt;br&gt;이번 회의에서 양형위는 응급의료방해 범죄에 관련한 양형기준을 신설했다. 이에 따르면 응급의료 종사자와 구급차 등 구조·이송 진료 등을 방해한 범죄는 징역 6개월∼징역 1년 6개월을 기본으로 권고한다. 감경 사유가 있을 경우 징역 8개월 이하, 가중 사유가 있을 경우 징역 1년∼4년이 권고된다. 가중 사유가 여러 개일 경우 특별조정을 통해 법정 최고형인 징역 5년까지 선고할 수 있다.&lt;br&gt;&lt;br&gt;소방대 화재진압이나 인명구조·구급 활동을 방해하는 범죄에 대해서도 응급의료방해 범죄와 동일한 양형기준을 세웠다. 양형위는 “범죄의 성격이 유사한 폭력·공무집행방해·업무방해 범죄군의 형량 범위, 양형인자 등을 참조했다”고 설명했다.&lt;br&gt;&lt;br&gt;응급의료 종사자에 대항 폭행 범죄는 결과에 따라 ‘폭행’, ‘상해’, ‘중상해’, ‘사망’으로 나눠 기준을 마련했다. 가장 가벼운 폭행의 기본 양형은 징역 4개월~징역 1년 6개월이다. 폭행으로 인해 응급의료 종사자가 사망할 경우, 징역 3년~징역 6년을 기본으로 권고한다. 여기에 가중 사유가 있을 시 징역 5년~징역 10년까지 선고할 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTBBXTE3RBFCZN2SYG2KHE47LE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;디지털 성범죄 양형기준 범위도 넓혔다. 양형위는 아동·청소년에 대한 성착취물이용협박·강요, 성착취 목적 대화, 허위영상물(딥페이크 영상) 시청·소지 등 청소년성보호법과 성폭력처벌법 조항 일부를 기존에 마련한 양형 기준에 새로 포함했다. 디지털 성범죄를 크게 청소년성보호법상 범죄와 성폭력처벌법상 범죄로 크게 분류한 뒤, 각 범죄별로 세분화해 유형을 분류하기로 했다. 이날 회의에서는 디지털 성범죄에 대한 구체적인 권고 형량까진 논의하지 않았다.&lt;br&gt;&lt;br&gt;양형위는 내달 21일 148차 회의를 열고 과실치사상·산업안전보건범죄와 교통범죄 양형기준 수정안을 심의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부산 돌려차기·장윤기 CCTV’ 찾아낸 대검찰청 ‘과학수사부’ 쪼개진다</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/11/SYEVTGI3LVHP5JNTQ4EIR3NBQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/11/SYEVTGI3LVHP5JNTQ4EIR3NBQA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 01:37:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQLMPWQ5JJHS3ATQX3Y6SIKZAU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서초동 대검찰청 과학수사대 연구관이 범죄현장 증거물에 빛을 비춰 DNA흔적을 찾아내고 있다/이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청 과학수사부 조직이 오는 10월 검찰청 폐지에 맞춰 공소청과 중대범죄수사청(중수청)으로 나뉜다. 디지털·사이버 수사 기능은 중수청으로 넘어가고, DNA 분석 등 감정 기능은 공소청에 남는 방식이다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면 중수청 개청준비단은 최근 대검 과학수사부 산하 4개 과 가운데 사이버기술수사과와 디지털수사과를 중수청 본청으로 이관하는 내용의 직제를 확정했다. 법과학분석과와 DNA·화학분석과 등 감정 기능을 담당하는 조직은 공소청에 남게 된다.&lt;br&gt;&lt;br&gt;대검 과학수사부는 각종 형사 사건에서 디지털 포렌식과 DNA 감정 등을 통해 수사와 공소유지를 지원해 온 조직이다. 2022년 ‘부산 돌려차기 사건’에서도 결정적인 증거를 찾아냈다. 당시 경찰 의뢰를 받은 국립과학수사연구원은 DNA 증거를 발견하지 못했지만, 2심 재판 과정에서 대검 과학수사부가 피해자 의류 안쪽에서 가해자의 DNA를 검출했다. 검찰은 이를 토대로 가해자의 혐의를 살인 미수에서 강간살인 미수로 변경했고, 가해자는 대법원에서 징역 20년을 확정받았다.&lt;br&gt;&lt;br&gt;광주 여고생 살해범 ‘장윤기 사건’에서도 과학수사부가 폐쇄회로(CC)TV 영상의 화질을 개선해 장윤기가 차량 뒷문을 열어둔 채 피해자에게 접근하는 장면을 확인했다. 검찰은 이를 근거로 장윤기의 납치 목적을 구체적으로 규명할 수 있었다.&lt;br&gt;&lt;br&gt;과학수사부 조직을 나누는 것은 10월 검찰청 폐지와 함께 수사와 기소 기능이 분리되는 데 따른 것이다. 행정안전부는 수사 권한이 없는 공소청에 수사 관련 조직을 둘 수 없다는 이유로 디지털·사이버 수사 기능을 중수청으로 넘길 것을 요구한 것으로 전해졌다. 중수청이 아동 학대와 성범죄 등 사회적 약자 대상 범죄의 보완 수사도 맡는 만큼 DNA 분석 등 감정 기능도 중수청으로 이관해야 한다는 의견도 냈다고 한다.&lt;br&gt;&lt;br&gt;대검은 그러나 재판 과정에서도 DNA 재감정이나 증거 분석 등이 필요한 경우가 적지 않다며 감정 기능까지 중수청으로 넘기는 데 반대한 것으로 알려졌다. 이에 따라 법과학분석과와 DNA·화학분석과 등은 공소청에 남기는 방향으로 정리됐다.&lt;br&gt;&lt;br&gt;검찰은 조직 분리에 따른 공백을 최소화하기 위한 조직 개편도 검토하고 있다. 공소청에 남는 과학수사부의 명칭에서 ‘수사’를 빼고 ‘법과학부’로 바꿔 공소청 직제에 반영하는 방안 등이 거론된다. 대검 과학수사부가 운영하는 국가디지털포렌식서비스(NDFaaS·엔디파스) 운영 권한도 중수청으로 넘기지 않기로 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환자 7명 숨진 반구대병원 다음달 폐원…공대위 “남은 환자들 일괄 이송 막아달라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/11/WH4I6P5WZ5DMTONCLOQVEEJZHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/WH4I6P5WZ5DMTONCLOQVEEJZHM/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 01:25:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3TQMLDMNSTAZRUGAZGEMBXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 반구대정신병원 공동대책위원회는 지난 1월 30일 울산시청 앞에서 기자회견을 열고 잇단 환자 사망 사건이 발생한 반구대정신병원에 대한 고발장 접수를 예고했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입원환자 7명이 잇따라 숨진 반구대정신병원이 다음 달 폐원을 앞둔 가운데, 시민단체가 현재 병원에 남아 있는 환자 202명을 다른 정신병원으로 한꺼번에 옮기는 절차를 중단해 달라며 국가인권위원회에 긴급구제를 신청했다.&lt;br&gt;&lt;br&gt;반구대정신병원 공동대책위원회와 부산동료지원센터는 11일 국가인권위원회에 긴급구제를 신청하고 “병원 폐원 일정에 맞춰 입원환자들을 다른 정신병원으로 일괄 이송해서는 안 된다”고 밝혔다.&lt;br&gt;&lt;br&gt;공대위 측은 환자들을 다른 병원으로 한꺼번에 옮길 경우 환자 본인의 의사와 실제 입원 필요성이 제대로 반영되지 않은 채 장기 입원이 이어질 수 있다고 주장했다. 이에 환자별로 입원 필요성과 지역사회 자립 가능성을 다시 살펴본 뒤, 퇴원과 자립 지원을 우선 검토해야 한다고 했다.&lt;br&gt;&lt;br&gt;공대위 측은 병원 내 연쇄 사망 사고와 관련한 자료 보존과 인권위의 현장 조사도 요구했다. 병원 내 CCTV 영상 보관 기간이 3일에 불과해 관련 영상이 삭제될 수 있다며 CCTV 영상과 간호·진료 기록 등을 보존해야 한다는 것이다.&lt;br&gt;&lt;br&gt;또 병원이 문을 닫기 전에 민관 합동 태스크포스(TF)를 구성해 환자들이 어디로 옮겨지는지와 이후 처우를 점검하고, 최근 5년간 사망 사고가 반복된 원인과 병원 및 감독기관의 관리·감독 책임도 규명해 달라고 요구했다. 아울러 정신의료기관 폐업 시 입원환자의 권리를 보호하고 관련 기록을 보존할 수 있도록 제도 개선 방안도 마련해 달라고 했다.&lt;br&gt;&lt;br&gt;울산 울주군 두동면 소재 정신의료기관 반구대병원에서는 2022년부터 지난 2일까지 중증 장애인을 포함한 입원환자 7명이 잇따라 숨졌다. 병원 측은 지난 5일 울산 울주군 보건소에 다음달 3일 자로 폐원하겠다는 뜻을 밝힌 상태다.&lt;br&gt;&lt;br&gt;현재 병원에 남아 있는 입원환자는 202명으로, 이 가운데 129명(약 64%)이 발달장애인이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 여객기 참사 특수단, 한국공항공사·국토부·부산지방항공청 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2026/08/11/5XYZ2GTTVBGB3JRVYFN6LF2FQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/5XYZ2GTTVBGB3JRVYFN6LF2FQA/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 00:43:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2WIZTDMYZWEOLCMUYTMOBXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 4월 13일 무안공항 제주항공 여객기 참사에 대해 전면적인 재수색이 시작된 가운데 민관군경 합동으로 사고 현장에서 유해수색을 하고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안공항 제주항공 여객기 참사를 수사하는 경찰이 11일 한국공항공사, 국토교통부, 부산지방항공청에 대해 압수수색을 실시했다.&lt;br&gt;&lt;br&gt;경찰청 ‘12·29 여객기 참사 특별수사단’은 “이날 오전 9시부터 한국공항공사 등에 수사관들을 보내 압수수색을 진행하고 있다”고 밝혔다. 이 수사는 2024년 12월 29일 태국 방콕에서 출발한 제주항공 여객기가 무안국제공항에 비상 착륙을 시도하다가 로컬라이저와 충돌해 탑승자 181명 중 179명이 숨지고 2명이 다친 참사와 관련된 것이다. 경찰은 참사 원인과 책임 소재를 규명하는 한편, 참사 이후 사고 원인을 당국이 축소 발표하려 했다는 의혹도 수사 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 압수수색은 업무상 과실치사상 혐의와 관련해 추가로 필요한 자료를 확보하기 위한 차원”이라고 밝혔다. 이날 압수수색을 진행하는 세 기관 모두 이미 경찰이 압수수색을 한 바 있다. 경찰은 기존에 확보한 자료를 토대로 수사하는 과정에서 의심되는 부분을 확인하기 위해 추가 압수수색에 나선 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 여객기 참사와 관련해 업무상 과실치사상 등 혐의로 74명을 입건해 수사 중이며, 중대재해처벌법상 중대시민재해 혐의 적용도 가능한지 들여다보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“돈 안 주면 내부 자료 공개”... 경찰·美 FBI, ‘건라’ 랜섬웨어 주의보</title>
+      <link>https://www.chosun.com/national/incident/2026/08/11/VCCERIUMDRB75DWT25A7EJOGKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/VCCERIUMDRB75DWT25A7EJOGKA/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 00:04:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTDSMZSGA2TEMZTGUYTMMJUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 미국 연방수사국(FBI), 사이버보안·인프라보안국(CISA), 국가안보국(NSA), 국방부 사이버범죄센터(DC3), 비밀경호국(USSS)과 함께 11일 ‘건라(GUNRA)’ 랜섬웨어에 대한 한·미 합동 사이버 보안 권고문을 배포했다. &lt;br&gt;&lt;br&gt;랜섬웨어는 기업·기관의 서버나 자료를 암호화한 뒤 이를 인질(ransom) 삼아 금전을 탈취하는 사이버 범죄 수법이다. ‘건라’는 2025년부터 활동이 확인된 국제 랜섬웨어 조직으로, 최근엔 ‘서비스형 랜섬웨어’ 형태로도 운영되며 국내외 다양한 분야로 공격을 확대하고 있는 것으로 드러났다고 경찰은 설명했다. 서비스형 랜섬웨어는 공격 도구를 다른 범죄자에게 제공하고 공격 성공 시 몸값을 나누는 방식의 범죄 서비스 모델이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 ‘건라’는 단순히 파일을 암호화하는 데 그치지 않고, 내부 데이터를 사전에 탈취해 금전을 요구하는 ‘이중 탈취형’ 공격을 활용하는 것으로 나타났다. 다크웹 사이트를 운영하면서 피해 기업의 명단과 탈취 자료 일부를 게시하고 몸값을 지급하지 않을 경우, 탈취한 자료를 판매하거나 공개하겠다고 협박하는 것이다.&lt;br&gt;&lt;br&gt;한미 당국은 “랜섬웨어는 초기 침투를 차단하는 것이 가장 효과적인 대응 방법”이라며 ▲가상 사설망(VPN)·원격 접속 등 외부 접근 통제 및 최신 보안 수정(보안 패치) 적용 ▲다중인증 적용을 통한 계정 관리 강화 ▲안전한 백업 체계 활성화 등 기업들의 기본적인 보안 수칙 준수가 중요하다고 강조했다.&lt;br&gt;&lt;br&gt;경찰은 “현재 ‘건라’ 랜섬웨어와 관련된 공격을 수사하고 있으며 추가 위협 정보를 관계 기관 및 기업에 신속하게 공유할 계획”이라며 “이번 보안 권고문에 포함된 침해 지표를 바탕으로 시스템 기록 정보와 이상 행위를 면밀히 점검하고, 랜섬웨어 감염 또는 침해 정황이 의심될 경우 공격자와 직접 접촉하지 말고 경찰에 신속하게 신고해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2028년 유엔해양총회 부산서 열린다 </title>
+      <link>https://www.chosun.com/national/regional/2026/08/11/OGS5EWLLSFBOLKEOGENI7SDQMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/11/OGS5EWLLSFBOLKEOGENI7SDQMY/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 01:38:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XL7QLR6XJHD7IBBG3ZSOLZU5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 부산시장./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 2028년 6월 국내에서 열리는 ‘제4차 유엔해양총회’ 개최도시로 부산이 최종 선정됐다. &lt;br&gt;&lt;br&gt;부산시는 지난 10일 열린 개최도시 선정 공모에서 제주와의 경쟁 끝에 선정됐다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;유엔해양총회는 유엔 지속가능발전목표 14번인 ‘해양생태계의 보전과 지속가능한 이용’의 이행을 촉진하기 위한 유엔 차원의 최고위급 국제회의로 3년마다 열린다. 제4차 총회는 우리나라와 칠레가 공동 개최한다. 본회의는 2028년 6월 부산에서 열린다. 기후변화와 해양오염, 해양생태계 보전 등 주요 해양 현안에 대한 국제사회의 성과를 점검하고 2030년 이후 지속가능한 해양의 미래를 위한 협력 방향을 논의하는 자리가 될 전망이다. &lt;br&gt;&lt;br&gt;193개 유엔 회원국을 비롯해, 세계 각국 정부, 국제기구, 시민사회 등 2만명이 참석할 예정이다. &lt;br&gt;&lt;br&gt;특히 2028년에는 유엔해양총회와 세계디자인수도(WDC) 등 대규모 국제행사가 부산에서 열린다. 부산시 관계자는 “해양환경 보호와 지속가능한 발전을 디자인과 연계해 부산의 도시 경쟁력과 매력을 전 세계에 알리겠다”고 했다. &lt;br&gt;&lt;br&gt;전재수 부산시장은 “제4차 유엔해양총회 개최도시로 부산이 선정된 것은 대표 해양도시로서 부산의 역량을 국제적으로 인정받은 결과”라며 “국제사회의 연대와 실천을 한 단계 더 발전시키는 성공적인 총회가 될 수 있도록 중앙정부와 긴밀히 협력해 철저히 준비하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천에서 열사병으로 3명 잇따라 숨져…온열질환 사망 4명으로 늘어</title>
+      <link>https://www.chosun.com/national/incident/2026/08/11/2KKKPH3PRBCJLGCF3SBUAMUZGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/2KKKPH3PRBCJLGCF3SBUAMUZGA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Aug 2026 00:50:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELY3CMRBPZFJLA7776XCGYDCTY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 온열질환 사망자가 잇따라 발생했다. &lt;br&gt;&lt;br&gt;11일 인천시에 따르면 지난 8일 오후 10시 5분쯤 인천 연수구의 한 주택에서 60대 여성 A씨가 쓰러졌다는 가족의 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;A씨는 119 구급대에 의해 옮겨졌으나 숨졌다. 발견 당시 A씨의 체온은 41도였고, 의식과 호흡, 맥박이 없는 상태였던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 낮 12시쯤 외출했다 귀가한 것으로 알려졌는데, 발견 당시 냉방장치가 작동되지 않고 있었다. &lt;br&gt;&lt;br&gt;이에 앞서 같은 날 오후 1시 52분쯤 계양구 장미원 데크에서 등산을 마치고 내려온 30대 남성 B씨가 갑자기 걷지 못하고 기운이 없어한다는 119 신고가 접수됐다. &lt;br&gt;&lt;br&gt;B씨는 심폐소생술을 받으며 병원으로 옮겨졌으나, 결국 숨졌다. &lt;br&gt;&lt;br&gt;같은 날 낮 12시 35분쯤엔 계양구의 한 건물 계단에서 의식을 잃은 50대 남성 C씨가 행인의 신고로 병원으로 이송됐으나 9일 오후 9시 34분쯤 사망했다.&lt;br&gt;&lt;br&gt;A씨 등이 병원으로 옮겨진 지난 8일 인천 지역엔 폭염경보가 발효 중이었으며, 연수구의 경우 최고 체감온도가 37도, 계양구는 35.5도의 최고 체감온도를 기록했다.&lt;br&gt;&lt;br&gt;인천에서 지난 5월 15일부터 이날까지 집계된 온열질환 사망자는 지난 3일 숨진 40대 남성을 포함해 총 4명이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ELY3CMRBPZFJLA7776XCGYDCTY.png?auth=e968ff1b6726887680825a3ce99f756c671765b5a126cb2ed060d2f95c924686&amp;smart=true&amp;width=2752&amp;height=1536" type="image/png" height="1536" width="2752">
+        <media:description type="plain">일러스트=조선디자인랩·Gemini</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>인화성 물질 191만ℓ 보관 시설 화재… 자칫 대형 참사 날 뻔</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/11/DTDI256QOVDN7AF6KDO6KHMFOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/DTDI256QOVDN7AF6KDO6KHMFOQ/</guid>
+      <dc:creator>평택=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Aug 2026 23:45:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7CZHN3PINH2FIVFSJ6MU3AZ3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;평택 화재 현장./경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택의 한 위험물 보관 창고에서 화재가 발생해 국가 소방 동원령이 발령됐다. &lt;br&gt;&lt;br&gt;11일 경기도소방재난본부에 따르면 이날 오전 0시 3분쯤 경기 평택시 청북읍 토진리 소재 위험물 보관 창고에서 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 창고에 설치된 자동 화재 속보 설비를 통해 화재 신고를 접수했다.&lt;br&gt;&lt;br&gt;연소 확대 우려가 있다고 본 소방 당국은 화재 발생 1시간 20분 만인 오전 1시 32분쯤 대응 1단계를 발령했으며 오전 2시 40분쯤 대응 2단계로 상향했다.&lt;br&gt;&lt;br&gt;이후 불길이 거세지자 오전 3시 39분쯤 국가 소방 동원령을 발령했다. 국가 소방 동원령은 해당 지역 소방력만으로 재난에 대응하기 어렵다고 판단할 때 소방청장이 발령한다. &lt;br&gt;&lt;br&gt;국가 소방 동원령이 발령됨에 따라 충남, 세종, 충북, 대전 등 인근 4개 시도에서 소방 물탱크차와 화학차 등 장비 26대가 동원됐다.&lt;br&gt;&lt;br&gt;불이 난 창고 내부에 다량의 위험물 및 유해 화학 물질이 보관돼 있어 대형 재난으로 이어질 수 있다고 판단한 것이다.&lt;br&gt;&lt;br&gt;현재까지 화재로 인한 인명 피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;불이 난 창고는 특수 물류 분야에서 국내 단일 사업장 기준 최대 규모를 갖춘 위험물 및 유해 화학 물질 전용 보관 시설로 알려져 있다.&lt;br&gt;&lt;br&gt;총 95대의 장비와 238명의 인력이 투입된 끝에 불길이 잡히면서 소방 당국은 화재 발생 5시간여 만인 이날 오전 5시 16분쯤 대응 2단계를 1단계로 하향 조정했다. &lt;br&gt;&lt;br&gt;다만 불길이 다시 확산하는 상황에 대비해 국가 소방 동원령은 유지 중이다.&lt;br&gt;&lt;br&gt;화재가 난 연면적 937㎡의 1층짜리 건물로, 100여 종의 제4류 위험물과 일반 화학물 등 약 191만ℓ가 보관된 특수 물류 센터다. 제4류 위험물은 인화성 액체로, 특수 인화물, 제1~4 석유류, 알코올류 등이다.&lt;br&gt;&lt;br&gt;불이 나자 평택시는 재난 문자를 보내 “인근 주민은 창문을 닫고 외출을 자제해 달라”며 “차량은 우회하시기 바란다”고 안내했다. 소방 당국은 불길을 잡는 대로 자세한 화재 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“바둑으로 AI랑 친해져요” ‘AI 바둑’ 덕에 다시 북적이는 바둑 학원</title>
       <link>https://www.chosun.com/national/national_general/2026/08/11/RAL7GVXCSJBTZCBHDXQ3RIVX4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/RAL7GVXCSJBTZCBHDXQ3RIVX4I/</guid>
@@ -568,15 +670,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4DMMRUGRRTCYJYMY2DCNRYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무자료 유류 현장 확인. / 해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해양경찰청은 불법 석유 유통 행위 특별 단속을 통해 석유사업법 위반 등 혐의로 67명을 붙잡아, 이 중 1명을 구속하고 18명을 구속 송치했다고 10일 밝혔다. 나머지 피의자 48명은 수사 중이다. &lt;br&gt;&lt;br&gt;해양경찰청은 지난 3월 11일부터 7월 31일까지 전국 지방해양경찰청 광역수사대와 일선 해양경찰서 수사 인력 등으로 전담반을 구성해 이번 집중 단속을 진행했다. &lt;br&gt;&lt;br&gt;유형별로는 유류 공급 과정에서 빼돌린 무자료 유류(일명 ‘뒷기름’)를 구매한 뒤 외항선 등에 공급하는 무자료 유류 불법 유통 행위가 55명으로 가장 많았다. 올해 적발된 뒷기름 불법 유통 사범은 지난 2023년 32명 이후 가장 많은 숫자다. &lt;br&gt;&lt;br&gt;이 외에 입출항 실적을 허위로 제출하는 등의 방법으로 면세유를 부정 수급한 8명이 덜미를 잡혔고, 어업용 면세유를 차량과 중장비 등에 사용한 4명도 함께 적발됐다. &lt;br&gt;&lt;br&gt;해양경찰청은 해상 석유 불법 유통을 차단하기 위해 해양수산부와 국세청, 관세청 등 관계 기관과 협조 체제를 구축하고 단속을 강화할 방침이다. &lt;br&gt;&lt;br&gt;장인식 해경청장 직무대행은 “유가 불안을 악용하는 범죄는 민생 경제를 심각하게 위협하는 행위인 만큼, 주요 해역을 중심으로 상시 단속 체제를 유지할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>본회의서 유튜브 댓글 단 김상욱 시장… 시의회 “민주주의 훼손”</title>
-      <link>https://www.chosun.com/national/regional/2026/08/06/ZRQDADUXNNHHFETKSJWSFJCD2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/06/ZRQDADUXNNHHFETKSJWSFJCD2A/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Aug 2026 09:10:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2DQMZXGE2WKYTFMU3TGMJXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공진혁 울산시의원을 비롯한 국민의힘 소속 울산시의원들이 6일 울산시의회 프레스센터에서 김상욱 울산시장이 본회의에서 유튜브 댓글을 단 것을 비판하는 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘시민과의 소통’을 앞세운 김상욱 울산시장의 유튜브 행보가 이번에는 시의회 본회의장에서 논란을 빚으면서 시의회와 갈등 양상을 보이고 있다.&lt;br&gt;&lt;br&gt;국민의힘 소속 울산시의원들은 6일 기자회견을 열고 “김 시장이 지난 4일 열린 본회의에서 안건 심의와 5분 자유발언이 진행되는 동안 태블릿PC로 의회 유튜브 생중계를 시청하며 실시간 댓글을 작성했다”며 “본회의 심의에 충실해야 할 시장의 책무를 소홀히 한 것으로 비칠 수밖에 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이는 의회를 향한 예의의 문제를 넘어 시민 앞에서 이뤄지는 공적 절차와 민주주의의 기본 질서를 스스로 훼손한 매우 부적절한 행위”라며 재발 방지를 촉구했다.&lt;br&gt;&lt;br&gt;김 시장은 당시 본회의장에 참석한 가운데 시의회 유튜브 생중계 댓글 창에 “반갑습니다. 김상욱입니다” “시민들의 의견을 댓글로 많이 부탁드립니다” “오늘 행정기구 설치 조례가 반드시 통과돼야 하기에 의장님께 각별히 부탁드렸습니다” 등의 글을 남겼다.&lt;br&gt;&lt;br&gt;이를 본 일부 시민은 “시의회보다 댓글 소통이 더 중요한가” “소통도 좋지만 때와 장소를 가려야 한다”는 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이에 김 시장은 댓글을 통해 “시의원님들 말씀을 들으면서 시민과 소통하는 것”이라며 “의원님들 말씀을 메모하면서 댓글도 짬짬이 올리고 있다”고 답했다.&lt;br&gt;&lt;br&gt;논란이 불거지자 김 시장은 5일 자신의 SNS에 올린 숏폼 영상을 통해 “의회 본회의장에 시민들이 참관할 수 있어야 하고, 의견도 제시할 수 있어야 한다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “대부분의 시민은 시의회에 오는 것이 쉽지 않아 라이브 방송으로 함께하시는데, 그분들 의견이 참 소중하다”며 “제가 시장으로 출석은 하지만 말할 기회가 있지는 않아서, 시민 의견을 보고 함께 소통하고 싶었다”고 댓글을 쓴 이유를 설명했다.&lt;br&gt;&lt;br&gt;유튜브를 둘러싼 김 시장과 시의회의 갈등은 이번이 처음은 아니다.&lt;br&gt;&lt;br&gt;지난달 열린 확대의장단 간담회에서는 권태호 시의원이 김 시장에게 “시장님께 관종병이 있다는 말씀을 하는 시민들이 있다”고 말했고, 김 시장은 이후 개인 유튜브 방송에서 “시장 면전에서 그런 표현을 쓰는 것은 받아들이기 어렵다”고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>병원 내 괴롭힘 ‘태움’에 칼 빼든 정부… 집중 신고 받는다</title>
       <link>https://www.chosun.com/politics/goverment/2026/08/10/7R2PED3NKVDSPDS374U6FEF5CM/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/08/10/7R2PED3NKVDSPDS374U6FEF5CM/</guid>
@@ -721,87 +814,6 @@
       </media:content>
     </item>
     <item>
-      <title>강원·TK서도 김민석 승리... 누적 1.45%p차로 벌어져 </title>
-      <link>https://www.chosun.com/politics/assembly/2026/08/09/K7UHV3LDGBHIXDV335Y4Q5TUOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/09/K7UHV3LDGBHIXDV335Y4Q5TUOI/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 09:35:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLDTBEBMY5N7RNSDHK6AYLSMWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김민석, 정청래 당대표 후보가 9일 오전 강원 횡성국민체육센터에서 열린 당대표·최고위원 후보 합동 연설회에 참석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 차기 지도부 선출을 위한 8·17 전당대회 강원과 대구·경북(TK) 지역 순회 경선에서 김민석 후보가 권리당원 투표 득표율 48.50%로 정청래 후보(44.45%)와 송영길 후보(7.04%)에 앞서며 격차를 벌렸다. 민주당이 전략 지역인 대구·경북 득표수에 5%를 가산하기로 한 것을 반영한 결과다.&lt;br&gt;&lt;br&gt;민주당 중앙당선거관리위원회는 이날 오후 대구 북구 인터불고 엑스코 호텔에서 열린 당대표·최고위원 후보 합동 연설회 후 이 같은 결과를 발표했다. 강원과 TK 지역 권리당원을 대상으로 지난 5일부터 이날까지 투표를 받은 결과다.&lt;br&gt;&lt;br&gt;김 후보는 강원·경북에서 1위, 정 후보는 대구에서 1위를 차지했다. 강원에서는 1만9022표 가운데 김 후보가 9568표(50.30%)를 얻었고, 정 후보는 7978표(41.94%), 송 후보는 1476표(7.76%)를 얻었다. 경북에서는 1만445표 가운데 김 후보가 4948표(47.37%), 정 후보가 4774표(45.71%), 송 후보가 723표(6.92%)를 얻었다. 대구에서는 9625표 가운데 정 후보가 4603표(47.82%), 김 후보가 4461표(46.35%), 송 후보가 561표(5.83%)를 얻었다. &lt;br&gt;&lt;br&gt;민주당은 당세가 약한 경남·대구·경북의 경우 득표수에 5%를 가산하기로 했다. 이를 반영하면 김 후보는 이날까지 9만6799.25표(46.00%), 정 후보는 9만3743.35표(44.55%)를 얻은 셈이다. 3055.9표, 1.45%포인트 차다. 송 후보는 1만9902.6표(9.46%)를 얻었다.&lt;br&gt;&lt;br&gt;앞서 충청과 부산·울산·경남(PK), 제주, 인천 경선에서는 지역별로 승자가 갈렸다. 충남·충북·울산·제주·인천에서는 김 후보가, 대전·세종·부산·경남에서는 정 후보가 앞섰다. 전날까지 누적 합산은 김 후보가 45.41%, 정 후보가 44.57%로 0.84%포인트 차였으나 이날 경선으로 표차가 더 벌어졌다.&lt;br&gt;&lt;br&gt;정청래 후보는 경선 결과 발표 직후 기자들과 만나 “상당히 고무적인 투표 결과”라고 했다. 정 후보는 “강원, 대구·경북은 제가 가장 약했던 곳으로, 조직 하나 없이 오직 당원만 믿고 왔다”며 “크게 질 것으로 생각했는데 대구에서 승리했다고 하니 정말 기쁘다”고 했다. 이어 다음 주 호남·경기·서울 경선과 관련해 “저는 강한 개혁 당대표를 주장하고 있는 만큼, 호남에서 저를 품어주시리라 생각한다”고 했다.&lt;br&gt;&lt;br&gt;8명 가운데 5명을 뽑는 최고위원 경선에서는 최민희 후보가 17.03%로 1위를 차지했고, 박선원 후보가 16.44%로 2위였다. 서미화, 한민수, 김용 후보가 각각 14.78%, 14.16%, 12.69%로 5위 안에 들었다. 이성윤 후보는 12.75%, 임미애 후보는 9.70%, 김영호 후보는 2.46%였다.&lt;br&gt;&lt;br&gt;누적 합산에서 순위 변동은 없었다. 최민희 후보 20.27%, 박선원 후보 16.73%, 한민수 후보 14.40%, 서미화 후보 14.24%, 김용 후보 12.65%였고 이성윤 후보 11.89%, 임미애 후보 6.69%, 김영호 후보 3.13%였다.&lt;br&gt;&lt;br&gt;민주당 경선의 실질적인 승자는 15일 호남, 16일 경기·서울 경선을 통해 정해질 전망이다. 호남·경기·서울의 권리당원이 전체의 60% 이상을 차지한다. 최종 결과는 전국대의원 투표 등을 합산해 17일 발표된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6W4OJM2FHBEYPF6ISUXA62BCR4.jpg?auth=c32122ca88b6fe2ff37dc8fb62cc2bc3b13e4d0bfca8a4350a19ca36c6d9b3bc&amp;smart=true&amp;width=4632&amp;height=2606" type="image/jpeg" height="2606" width="4632">
-        <media:description type="plain"> 민주당 강원 합동연설회 참석한 김민석·정청래 당대표 후보
-    (횡성=연합뉴스) 신현우 기자 = 더불어민주당 김민석· 정청래 당 대표 후보가 9일 강원도 횡성국민체육센터에서 열린 민주당 대표·최고위원 후보자 강원 합동연설회에 참석해 있다. 2026.8.9
-    nowwego@yna.co.kr/2026-08-09 10:40:21/
-&amp;lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">신현우</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“의원님이나 ‘무빙캐슬’에 사세요” 버스하우스 제안에 분노한 2030</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/10/XX7TYEHF5BDB7LZ5ZPFKSRCB7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/XX7TYEHF5BDB7LZ5ZPFKSRCB7Q/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 08:15:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24VPWCSE2ZEIZKF2BN3NMSBS6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 더불어민주당 황희 의원의 '폐버스 청년주택' 제안이 나온 뒤, 소셜 미디어(SNS)상에는 황 의원의 제안을 풍자하는 이미지들이 잇따라 올라왔다./SNS 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“폐기되는 버스를 주거 공간으로 리모델링하고, 대학가 청년들의 단기성 주거 공간으로 제공하는 프로그램을 제안해본다.”&lt;br&gt;&lt;br&gt;지난 7일 황희 더불어민주당 의원이 본인 페이스북을 통해 ‘버스 하우스’를 제안했다. 버려지는 버스를 개조해 청년 주택난을 해결하자는 취지의 내용이다. 황 의원은 네덜란드가 주택 문제 해결을 위해 운하 주변에 활용 중인 ‘보트 하우스’에서 아이디어를 얻었다고 했다. “리모델링 비용을 5000만원 정도만 잡아도 1만 세대는 5000억 수준에 불과하다”며 실현 가능성도 내비쳤다.&lt;br&gt;&lt;br&gt;하지만 이를 접한 20·30대 청년들 사이에서는 “대출 막아놓고 버스에서 살라는 거냐” 등의 분노가 쏟아졌다. 서울 은평구에 거주하는 직장인 박혜수(27)씨는 “청년들이 집이 없지 자존심이 없느냐”며 “주택난이라고 버스에서 살게 할 게 아니라 멀쩡한 집에 살 수 있는 환경을 조성해줘야 하는 것 아니냐”고 했다. 경기 하남시에 거주하는 직장인 김민석(36)씨 역시 “당장 살 집을 구해야 하는 청년들 입장에서 폐버스에 살라는 말이 믿기지 않는다”며 “입법이 이 정도 수준의 고민 과정만 거쳐 나오는 건가 하는 생각도 들어 씁쓸하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGUAVKTZKVEKFADTBC2NCINSVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 더불어민주당 황희 의원의 '폐버스 청년주택' 제안이 나온 뒤, 소셜 미디어(SNS)상에는 황 의원의 제안을 풍자하는 이미지들이 잇따라 올라왔다./SNS 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엑스(X), 스레드 등 소셜미디어에는 황 의원의 제안을 풍자하는 밈들도 잇따라 등장했다. 낡은 버스를 아파트처럼 층층이 쌓아 올리거나, 서울 강남구·용산구 일대 고층 한강 뷰 아파트 앞으로 ‘청년 주택’이라 적힌 버스들을 줄지어 세워놓는 식이다. 해당 이미지들에는 고급 아파트 단지 이름을 본뜬 ‘더퍼스트무빙캐슬’ 같은 단지명과 ‘버스를 새로운 집으로, 청년의 내일로’ 등의 풍자성 문구가 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVNBJ2ZCLRC2LPHRBLBD4BDO2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 인스타그램에 올라온 '폐버스 청년주택 가상 브이로그' 영상./SNS 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일에는 인스타그램에 ‘폐버스 청년주택 가상 브이로그’ 영상도 올라왔다. 생성형 인공지능을 활용해 가상으로 만든 폐버스 청년주택을 둘러보는 풍자성 영상이다. 영상에 등장하는 폐버스 청년주택 6개월차 주민은 “살아보니 어떠냐” 는 질문에 “여름에는 찜질방 되고 겨울에는 냉동고 된다”고 답한다. 곰팡이가 피어있고 철제식 2층 침대가 들어가있는 주택 내부를 두고는 “세대당 딱 5000만원 쓴 느낌 맞다”는 멘트도 나온다. &lt;br&gt;&lt;br&gt;한편 황 의원의 제안이 논란이 되자, 민주당은 선을 그었다. 지난 7일 강준현 민주당 수석대변인은 “당 입장과는 전혀 관련이 없는 의원의 개인적인 의견임을 밝힌다”고 공지했다. 하지만 이 같은 ‘나몰라’ 식 대처에 대해서도 청년들은 불만의 목소리를 냈다. 경기 수원시에 거주하는 직장인 이단비(26)씨는 “정치인들이 SNS를 통해 충분히 검토되지 않은 의견을 내놓은 뒤, 논란이 커지면 해명하거나 당에서 ‘개인 의견’이라며 선을 긋는 일이 반복되는 것 같다”며 “즉흥적으로 의견을 내놓기보다는 실질적인 주거 대책을 마련하는 등 본연의 업무에 충실하면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;청년들의 이 같은 분노의 배경에는 갈수록 멀어지는 내 집 마련의 현실이 있다는 분석이 나온다. 실제로 국가통계포털(KOSIS)에 따르면, 지난해 39세 이하 청년층 중에서 거주 주택을 보유한 비율은 27.7%에 불과했다. ‘내 집’을 가진 청년이 10명 중 2~3명뿐이라는 의미다. 이는 관련 통계가 재편된 2017년 이후 가장 낮은 수치다. &lt;br&gt;&lt;br&gt;전문가들은 취업·결혼·주택 마련 등 복합적 어려움을 겪고 있는 청년 세대의 현실이 분노를 촉발했다고 분석했다. 허창덕 영남대 사회학과 교수는 “(황희 의원의 제안은) 정치인이 청년들의 문제에 대해 너무 안일하게 접근하고 있음을 보여주고 있다는 반증”이라며 “힘든 현실을 살아가고 있는 청년들에게는 ‘불난 집에 부채질’한 격으로 다가왔을 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;이동수 세대정치연구소 대표 역시 “청년층의 요구는 수도권에 공급을 늘려 안정적으로 거주할 수 있는 환경을 마련해달라는 것”이라며 “‘당신이 살아보라’는 청년들의 반발에서 볼 수 있듯, 청년 정책을 외쳐온 정당의 내로남불식 태도에 청년들이 분노한 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여의도 한강공원에 폭탄 설치” 테러 예고...경찰, 작성자 추적</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/09/YXQZ3O3XEZE6BIG4O44SKCJV7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/YXQZ3O3XEZE6BIG4O44SKCJV7A/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 08:23:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLK47SI7NCQ66R2ODDXATDIDR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성북경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도 한강공원에 폭탄을 설치했다며 돈을 요구하는 협박 글이 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;9일 경찰에 따르면 서울 성북경찰서는 이날 오전 2시 25분쯤 한 방송국 제보 플랫폼에 여의도 한강공원 폭탄 테러를 예고하는 글이 올라왔다는 신고를 접수했다.&lt;br&gt;&lt;br&gt;해당 글에는 “여의도 한강공원 인근에 폭탄을 설치했으니 1000만원을 입금하지 않으면 사람들이 많이 다치거나 죽을 것”이라는 내용이 담긴 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 공중협박 혐의로 게시글 작성자를 추적하고 있다. 또 경찰 특공대를 한강공원 일대에 투입해 폭탄 설치 여부 등을 확인하고 있다. &lt;br&gt;&lt;br&gt;현재 여의도를 포함한 서울 9개 한강공원에서는 영화 상영과 음악 공연, 수상 레저 체험 등을 진행하는 ‘2026 한강페스티벌’이 열리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2027학년도 의대 선발 인원의 50%는 지방 학생 자리</title>
-      <link>https://www.chosun.com/national/education/2026/08/09/367AAQ3H55GOXDQZEWXG7QK2XE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/09/367AAQ3H55GOXDQZEWXG7QK2XE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 06:48:50 +0000</pubDate>
-      <content:encoded>2027학년도 전국 의대들이 선발 인원 중 절반가량을 지방 학생으로 뽑는 것으로 나타났다. 비수도권 출신 학생을 선발하는 전형의 비율이 늘어났기 때문이다. &lt;br&gt;&lt;br&gt;9일 종로학원이 분석한 자료에 따르면, 전국 39개 의대는 2027학년도 선발 인원 총 3508명 중 1734명(49.4%)을 지방 학생으로 뽑는다. 의대 선발 인원 가운데 지방 학생 비율은 2022학년도 25.4%(766명)에서 2025학년도 42.7%(1913명)로 꾸준히 늘었는데, 내년엔 50% 가까이 되는 것이다.&lt;br&gt;&lt;br&gt;지방에 사는 학생들에게 의대 입학 기회가 늘어난 것은 2023학년도부터 시행된 ‘지역 인재 전형’과 2027학년도에 도입되는 ‘지역의사제 전형’ 때문으로 분석된다. 지역 인재 전형은 비수도권 대학이 의대 신입생의 40%(강원·제주 20%)를 대학이 있는 권역의 고등학교 졸업자를 의무 선발하도록 한 제도다. 지난해 지방 의대들은 법적 의무 선발 비율보다 높은 59.4%를 지역 인재로 선발했다. 지역 한 의대 관계자는 “의대 졸업 후 수도권으로 다 떠나버려서 지역 의료가 붕괴됐는데, 그나마 어릴 때 지방에서 자란 학생들이 지역에 남는 경우가 많아서 지역 인재 비율을 늘리는 추세”라고 말했다. &lt;br&gt;&lt;br&gt;게다가 이재명 정부는 의대 정원을 490명 늘리면서 해당 정원은 모두 ‘지역의사제 전형’으로 뽑도록 했다. 이 전형은 의대 소재지나 인접 지역 고등학교 졸업자만 지원할 수 있되 졸업 후 해당 지역에서 10년간 의무적으로 근무하도록 한 제도다. &lt;br&gt;&lt;br&gt;비수도권 의대 27곳 가운데 지방 학생 선발 비율이 가장 높은 대학은 부산 동아대다. 동아대는 전체 신입생 66명 중 56명(84.8%)을 지방 학생으로 뽑는다. 그다음은 전남대(84%), 경상국립대(83.7%), 원광대(83.6%), 동국대(경주·83.3%), 부산대(80.8%)였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EOYUWFLG35D4TCZ6BNIURJ6WFU.jpg?auth=973ec9dea7b25ccaccc85bfcb4fc4242e930ffe614c0f5aa36947dcb6fea9b48&amp;smart=true&amp;width=5332&amp;height=2408" type="image/jpeg" height="2408" width="5332">
-        <media:description type="plain">교육부가 2027~3031년 대학별 의대 정원을 발표했다. 사진은 13일 오후 서울 시내 의과대학 전경. 2026.3.13 /박성원 기자
-</media:description>
-        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“같은 서울인데 더 덥다”… 폭염 취약지역, 강북·도봉·중랑에 몰렸다</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/09/XVFO4BGZ6JCHRNCWXORMH25H5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/XVFO4BGZ6JCHRNCWXORMH25H5M/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 06:20:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RDKZBTME4TQZRYGJSDCYTCGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기록적인 폭염이 이어지는 지난 7일 서울 종로구 광화문광장에서 지열의 영향을 받은 온도계가 40도에 가까운 수치를 가리키고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 안에서도 폭염을 견디는 여건이 지역마다 크게 다른 것으로 나타났다. 고령층과 저소득층이 많고 녹지나 무더위쉼터 접근성이 떨어지는 강북·도봉·중랑구 등은 폭염에 가장 취약한 지역으로 꼽혔다.&lt;br&gt;&lt;br&gt;9일 서울시의회 의원연구단체인 민생의정연구회가 공개한 ‘서울특별시 기후격차 해소를 위한 취약계층 맞춤형 기후 적응 정책 개발 및 조례 성안 연구’ 연구용역 보고서에 따르면, 서울형 기후취약성지수(SCVI)를 분석한 결과 강북구(0.858)를 비롯해 도봉(0.793)·중랑(0.761)·금천(0.738)·은평(0.72)·동대문구(0.715)가 폭염 취약도가 가장 높은 A등급으로 분류됐다.&lt;br&gt;&lt;br&gt;서울형 기후 취약성 지수는 폭염 노출 정도와 고령인구 비율, 녹지 면적, 무더위 쉼터 접근성, 사회·경제적 대응 능력 등을 종합해 기후 취약성을 평가한 지표다. 수치가 높을수록 취약성도 높다.&lt;br&gt;&lt;br&gt;강북구는 고령화율(26.4%)과 기초연금 수급률(73%)이 서울에서 가장 높은 반면, 인구 대비 무더위 쉼터는 99곳으로 평균(164곳)보다 적었다. 도봉구는 고령층 비율이 높고 1인당 공원 면적이 3.67㎡로 서울 평균보다 작았다. 중랑구와 금천구도 고령층이 많거나 녹지가 부족해 폭염에 취약한 것으로 분석됐다.&lt;br&gt;&lt;br&gt;반면 종로·성동·용산·영등포·강남·서초구는 지수가 0.235~0.474로 기후 취약성이 가장 낮은 D등급으로 분류됐다.&lt;br&gt;&lt;br&gt;보고서는 서울의 폭염이 갈수록 심해지고 있다고도 분석했다. 연간 폭염 일수는 2005년 6일에서 2018년 35일로 늘었고, 열대야도 같은 기간 11일에서 29일로 길어졌다. 지난 100년간 서울 연평균 기온 상승 폭은 2.3도로 전국 평균(1.9도)을 웃돌았다.&lt;br&gt;&lt;br&gt;취약 계층을 대상으로 한 심층 면접에서는 응답자의 절반 가까이(47.8%)가 “폭염 때 선풍기나 서큘레이테만 사용한다”고 답했다. 에어컨 사용은 39.1%에 그쳤다. 에어컨을 사용하지 못하는 가장 큰 이유는 ‘전기 요금 부담’(56.5%)이었다. 무더위 쉼터를 이용하지 않는 이유로는 “거리가 멀거나 접근이 어렵다”는 응답이 56.5%로 가장 많았다.&lt;br&gt;&lt;br&gt;연구진은 폭염 대책도 단순히 쉼터를 늘리는 데 그칠 것이 아니라 냉방비 지원과 취약 주거지 냉방 설비 확충, 생활권 안에서 쉽게 이용할 수 있는 쉼터 조성 등 ‘냉방권’을 보장하는 방향으로 바뀌어야 한다고 제안했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/Z4BM7X7P5VK7DHBZHBJOEOXKFQ.JPG?auth=2c529a66bb2620dc7143d3ed60531a4789414ac6a0e3f472133514a0c3a91c4f&amp;smart=true&amp;width=600&amp;height=356" type="image/jpeg" height="356" width="600">
-        <media:description type="plain">(서울=뉴스1) 최지환 기자 = 서울 낮 최고기온이 40도에 육박하는 7일 서울 도심을 열화상카메라로 촬영한 모습.
-
-열화상 카메라는 높은 온도는 붉은색으로, 낮은 온도는 파란색으로 표시한다. 2026.8.7/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 최지환 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>서울서 하루 새 온열질환 추정 사망자 2명... 올여름 최다</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/09/6CRRWJ573JBHJPDR5PGNEB5PQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/09/6CRRWJ573JBHJPDR5PGNEB5PQ4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 05:21:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7EBH4SPFFPTHEEUSSVTRPJDLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 서울역 광장에서 노숙인들이 더위를 피하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에서 하루 사이 온열 질환 추정 사망자가 2명 발생했다. 올여름 서울에서 하루 기준 가장 많은 온열 질환 사망자가 나온 것이다.&lt;br&gt;&lt;br&gt;9일 서울시에 따르면, 지난 7일 서울에서는 온열 질환자 35명이 발생했고 이 가운데 2명이 숨졌다. 중랑구에서는 58세 남성이 길가에서 구토와 의식 저하 증세를 보여 병원으로 옮겨졌으나 치료 중 사망했다. 강남구에서는 81세 여성이 자택에서 의식을 잃은 채 앉아 있는 것을 보호자가 발견해 신고했지만 숨졌다.&lt;br&gt;&lt;br&gt;질병관리청 온열질환 응급실감시체계에 따르면, 5월 15일부터 지난 7일까지 서울의 온열 질환자는 386명으로 집계됐다. 전국 누적 환자는 3089명으로 지난해 같은 기간(3360명)보다 8% 적었지만, 사망자는 지난해 21명에서 올해 29명으로 늘었다.&lt;br&gt;&lt;br&gt;서울 전역에는 지난 7일 오후 6시부터 폭염 경보가 발효 중이다. 앞서 4일에는 폭염 특보 최고 단계인 폭염 중대 경보까지 내려졌다가 이후 폭염 경보로 조정됐다.&lt;br&gt;&lt;br&gt;서울시는 시·자치구 합동으로 103개 반 484명 규모의 폭염 상황실을 운영하고 있다. 지난 6월 18일 첫 폭염주의보 발효 이후 독거노인과 야외 근로자, 장애인·만성질환자, 노숙인, 쪽방 주민 등 취약계층 3만1308명을 지원했다. 무더위쉼터와 기후동행쉼터, 응급대피소, 이동노동자쉼터 등 9849곳도 운영 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최태원·노소영 ‘9440억 재산분할’ 또 대법원 갈까...재상고 기한 D-5</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/09/J6BN423DYRBGJLO34NZW3N4K24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/09/J6BN423DYRBGJLO34NZW3N4K24/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Aug 2026 05:01:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRWINRTG43DGZJZGJSTOMZTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 26일 최태원 SK그룹 회장(왼쪽)과 노소영 아트센터 나비 관장이 서울 서초구 서울고등법원에서 열린 파기환송심 2차 변론에 출석하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 9440억원대 이혼 재산분할 소송의 재상고 기한이 닷새 앞으로 다가왔다. 양측이 파기환송심 판결에 불복해 다시 대법원 판단을 받으려면 오는 14일 자정까지 서울고법에 상고장을 제출해야 한다. &lt;br&gt;&lt;br&gt;서울고법 가사1부(재판장 이상주)는 지난달 24일 최 회장과 노 관장의 이혼 재산분할 소송 파기환송심에서 최 회장이 노 관장에게 재산분할금 9440억원을 전액 현금으로 지급하라고 판결했다. 또 판결이 확정된 다음 날부터 모두 갚는 날까지 연 5%의 지연 이자를 지급하도록 했다.&lt;br&gt;&lt;br&gt;양측이 14일까지 재상고하지 않으면 파기환송심 판결은 그대로 확정된다. 2015년 최 회장이 혼외자의 존재를 공개하며 시작된 두 사람의 이혼과 재산분할을 둘러싼 법적 다툼이 마무리되는 것이다. 다만 이 경우 최 회장은 곧바로 9440억원을 지급해야 하고, 지급을 미루면 하루 약 1억2930만원, 1년이면 약 472억원의 지연 이자까지 줘야 한다.&lt;br&gt;&lt;br&gt;이 때문에 법조계에선 최 회장 측이 다시 상고할 가능성이 높다는 관측이 나온다. 재상고하면 대법원의 최종 판결이 나올 때까지 파기환송심 판결의 확정이 미뤄져 9440억원을 당장 지급할 필요가 없다. 재산분할금을 마련하기 위해 주식담보대출이나 자산 매각 등이 필요할 경우 그만큼 시간을 확보하는 효과도 있다.&lt;br&gt;&lt;br&gt;한 부장판사 출신 변호사는 “파기환송심이 앞선 대법원의 파기환송 취지에 따라 다시 판단한 만큼 재상고심에서 결론이 크게 달라질 가능성은 높지 않다”면서도 “1조원에 가까운 현금을 마련해야 하는 최 회장 입장에서는 판결 확정을 늦출 필요가 있어 재상고할 유인이 충분하다”고 했다.&lt;br&gt;&lt;br&gt;두 사람의 이혼 소송 과정에서 재산분할 규모는 널뛰기를 했다. 2022년 12월 1심은 최 회장의 SK㈜ 주식을 재산분할 대상에서 제외하고 노 관장에게 665억원을 지급하라고 했다. 하지만 2024년 5월 항소심은 노태우 전 대통령이 최종현 SK 선대회장에게 건넸다는 비자금 300억원이 SK그룹 성장에 기여했다고 보고 SK㈜ 주식까지 분할 대상에 포함해 재산분할액을 1조3808억원으로 크게 늘렸다. &lt;br&gt;&lt;br&gt;대법원은 지난해 10월, 설령 300억원이 SK그룹에 전달됐더라도 이는 노 전 대통령의 재임 중 뇌물로 만든 자금인 만큼 노 관장의 기여로 인정할 수 없다고 판단해 사건을 서울고법으로 돌려보냈다. 파기환송심은 지난달 24일 300억원의 기여는 제외하면서도 SK㈜ 주식은 여전히 분할 대상이라고 보고, 노 관장의 기여도를 3분의 1로 정해 최 회장이 현금 9440억원을 지급하도록 했다. 최 회장 측은 선고 직후 재상고 여부를 검토하겠다고 밝혔고 노 관장 측은 별다른 입장을 내지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원 “국가·경기도, 선감학원 피해자에 정신적 피해 공동배상”</title>
       <link>https://www.chosun.com/national/court_law/2026/08/08/QAGVXEOYKVH2NKDCBEMF2WZUTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/08/QAGVXEOYKVH2NKDCBEMF2WZUTY/</guid>
@@ -830,24 +842,6 @@
       <description/>
       <pubDate>Sat, 08 Aug 2026 01:52:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2AIZUXDVFAHHGEA7C5Q3XVRKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 한국도로교통공단은 연일 폭염경보와 폭염중대경보가 이어짐에 따라 자동차 운전면허 기능시험을 한시적으로 축소하거나 중단한다고 8일 밝혔다./한국도로교통공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 폭염이 이어지면서 자동차 운전면허 기능시험이 한시적으로 축소·중단된다.&lt;br&gt;&lt;br&gt;한국도로교통공단은 폭염경보와 폭염중대경보가 이어짐에 따라 응시자와 현장 근무자의 온열질환 예방을 위해 기능시험을 한시적으로 축소하거나 중단한다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;공단은 상대적으로 기온이 낮은 오전 시간대에 시험을 집중 편성하고, 오후에는 체감온도가 35도 이상으로 오르면 시험 횟수를 조정할 방침이다. 체감온도가 38도에 이르면 기능시험을 중단한다.&lt;br&gt;&lt;br&gt;시험 축소·중단으로 일정 조정이 필요한 예약 고객에게는 변경 내용을 개별 안내할 예정이다. 각 운전면허시험장에는 이동식 야외 에어컨과 그늘막을 설치하고 양산을 비치하는 등 온열질환 예방 조치도 시행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>낮 최고 37도 무더위 계속...전국 곳곳 비 </title>
-      <link>https://www.chosun.com/national/transport-environment/2026/08/08/F2CHIXBYNRBE5K4KXCCTEX4WSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/08/F2CHIXBYNRBE5K4KXCCTEX4WSY/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Aug 2026 00:45:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IN5EQLSYIVATDDQGLBSUY74XDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연일 폭염 특보가 내려진 가운데 6일 오후 전남광주지역에 소나기가 내리고 있다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 8일 전국 대부분 지역에 폭염특보가 발효된 가운데 곳곳에 비가 내리겠다. 특히 동해안을 중심으로 매우 강하고 많은 비가 내리는 곳이 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 아침 최저기온은 22~27도, 낮 최고기온은 26~37도로 예보됐다. 전국 대부분 지역에서 최고체감온도가 35도 안팎까지 오르겠으며, 밤사이 기온이 25도 아래로 떨어지지 않는 열대야가 나타나는 곳도 많겠다.&lt;br&gt;&lt;br&gt;비는 이날 새벽 강원 동해안과 산지에서 시작해 아침에는 경북 동해안과 북동 산지, 오전에는 제주도 산지와 중산간으로 확대되겠다. 오후부터 밤사이에는 수도권과 강원 내륙, 충청권, 전라권, 경상권 내륙 곳곳에 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;일요일인 9일에도 전국에 무더위가 이어지고 강원 동해안과 경남권 등 일부 지역에 비가 내리겠다.&lt;br&gt;&lt;br&gt;비나 소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다. 특히 강원 동해안·산지와 경북 북부 동해안·북동 산지에는 매우 강하고 많은 비가 내릴 수 있어 피해가 없도록 유의해야 한다. 비가 내리는 동안에는 기온이 일시적으로 내려가겠지만, 비가 그친 뒤에는 습도가 높은 상태에서 기온이 다시 올라 무더위가 이어지겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“딥페이크 유포 안 했어도 위자료”… 법원서 잇따라 같은 판결</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/08/G7ZJK3W76ZHN7N4KTH5CLIL33I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/08/G7ZJK3W76ZHN7N4KTH5CLIL33I/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Aug 2026 01:42:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3TMZJVGY2TCYRZGY3WKYRZGQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 30일 대전경찰청에서 경찰, 대전시, 대전시교육청 등 유관기관 관계자들이 딥페이크 성 착취물 관련 범죄 집중단속 회의를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딥페이크(Deepfake) 허위 영상물을 만들고 실제로 이를 퍼뜨리지 않았더라도 위자료를 줘야 한다는 판결이 최근 연달아 나왔다.&lt;br&gt;&lt;br&gt;서울동부지법 민사6단독 이하림 판사는 딥페이크 피해자 A씨가 가해자 B씨를 상대로 낸 손해배상 청구 소송에서 “위자료 1200만원을 지급하라”고 지난달 8일 판결했다.&lt;br&gt;&lt;br&gt;B씨는 지난 2024년 6월부터 7월까지 합성 사진 기능이 있는 텔레그램 AI 봇으로 대학교 홍보대사를 맡고 있던 A씨의 얼굴 사진을 음란물에 합성한 딥페이크를 8차례 제작했다. B씨는 이와 관련해 앞선 형사 재판에서 A씨를 비롯한 피해자 23명에 대한 성폭력범죄의 처벌 등에 관한 특례법상 허위 영상물 편집 등 혐의가 유죄로 드러나 징역 5년이 확정됐다.&lt;br&gt;&lt;br&gt;재판부는 “B씨는 반포 등을 할 목적으로 딥페이크를 만들고 자신의 외장하드에 저장해 A씨가 입은 정신적 충격이 상당했을 것”이라며 “실제 허위 영상물을 전시 또는 반포한 사실을 인정할 증거는 없다고 해도 A씨는 허위 영상물이 언제라도 전시 또는 반포될 수 있다는 불안감에 정신적 고통을 호소하고 있다”고 밝혔다. 그러면서 “딥페이크 영상 제작 경위와 횟수, 정신적 충격의 정도, 불법행위의 중대성 등을 종합해 위자료를 1200만원으로 정한다”고 판단했다.&lt;br&gt;&lt;br&gt;서울중앙지법도 지난 5월 28일 같은 피고인 B씨를 상대로 피해자 C씨가 제기한 손해배상 청구 소송에서 위자료 800만원을 명했다. 당시 법원은 같은 취지로 정신적 고통을 고려해 위자료를 산정했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>추미애 “세수 합리적 배분해야”… ‘반도체 벨트’ 기초단체 반발 조짐</title>
@@ -891,15 +885,6 @@
         <media:description type="plain">’2026 독일, 통일은 온다' 교사 연수단이 지난 3일 2차대전 때 연합군 공습으로 파괴됐다가 통일 후 재건된 드레스덴 프라우엔 교회 앞에서 기념촬영을 하고 있다. 오른쪽 끝은 연수단장인 윤영관 전 외교부 장관. 윤 단장 옆은 이은정 베를린 자유대 교수./ 통일과나눔</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] “환자당 지원금 7980원, 욕창 치료도 버겁다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/08/KBGFAZVMGBBWJABX6YBFA4VNMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/08/KBGFAZVMGBBWJABX6YBFA4VNMQ/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Aug 2026 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUUA7BNHCBCG7PAVVLH6WWR4QI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 경북의 한 요양 병원에서 복도를 걷는 노인 환자를 간병인이 부축해 주고 있다. 최근 대한요양병원협회는 보건복지부에 ‘낮은 수가로 욕창·골다공증 등을 적극적으로 치료하기 어렵다’는 취지의 의견서를 전달했다고 한다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에 사는 이모(53)씨는 작년 10월 요양 병원에 있던 치매 환자 아버지를 다시 집으로 모셨다. 욕창 때문이었다. 이씨는 “작년 8월에 아버지 엉덩이에 빨간 자국이 보였는데 누워 계셔서 생긴 일시적인 멍인 줄 알았다”고 했다. 하지만 멍이 아니라 욕창이었다. 빨간 부위에 물집이 잡혀 터지고 진물이 났다. 두 달간 욕창이 낫지 않자 이씨는 결국 아버지를 퇴원시켰다. &lt;br&gt;&lt;br&gt;요양 병원의 욕창 발생률은 일반 병원보다 3~4배 높다. 이 같은 상황에서 대한요양병원협회가 최근 “요양 병원이 욕창·골다공증 환자 등을 적극적으로 치료하고 싶어도 못 한다”는 내용의 의견서를 보건복지부에 전달한 것으로 7일 확인됐다. 협회는 의견서를 통해 정부의 도움을 요청하면서 그동안 요양 병원들이 쉬쉬해왔던 스스로의 한계와 부족함까지 적나라하게 담았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4W5LGUIGSREIPOEYGNZY2WJRJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;협회는 일반 병원처럼 처치나 검사를 할 때마다 수가(행위별 수가)가 지급돼야 적극적인 치료가 가능하다면서 욕창을 가장 먼저 언급했다. 일반 병원과 달리 요양 병원은 중증도별로 환자 1명당 받는 수가(건보공단이 병원에 주는 돈)가 하루 4만~8만원으로 정해져 있다. 병세가 심각한 ‘의료고도’ 환자의 경우에도 한 달 약제·치료재 수가는 23만9400원이다. 그런데 욕창 환자는 치료재(습윤 밴드 등) 비용만 최소 월 6만8880원(주 2회)에서 최대 18만8000원(주 4회)이 든다. 한 요양 병원장은 “욕창 밴드 비용만 전체 약제 수가의 최대 79%에 달해 가장 기본적인 욕창 치료도 맘껏 못 한다”고 했다. &lt;br&gt;&lt;br&gt;요양 병원 정액 수가제는 2008년 도입됐다. 만성 질환자와 장기 입원 환자가 많은 요양 병원 특성상 행위별 수가제를 적용하면 과잉 검사·처치가 발생할 가능성이 크기 때문이다. 전문가들은 “요양 병원의 정액 수가는 애당초 낮게 설정됐고, 인상률도 매년 1~2%로 물가 상승률에 못 미쳤다”고 했다. 석재은 한림대 사회복지학과 교수는 “정액 수가제가 과잉 진료는 억제했지만, 중증 환자에게 꼭 필요한 처치·투약까지 위축되게 한 면도 있다”고 했다. &lt;br&gt;&lt;br&gt;협회는 욕창에 이어 고령환자에게 많이 나타나는 요로감염에 대한 ‘정액 수가 규제’도 풀어달라고 요청했다. 고령의 요로감염 환자의 일주일 간 항생제 치료비 등은 9만~40만원 정도다. 정부 약제·치료재 수가보다 최고 7배 많아 입원 환자 중 요로감염자가 생기면 치료를 시도하지 않고 일반 병원으로 보내는 일이 비일비재하다는 것이다. &lt;br&gt;&lt;br&gt;아예 약 처방 자체를 기피하는 경우도 있다. 고령환자는 골다공증으로 인한 골절이 많이 생긴다. 그런데 의료고도 환자여도 하루 7980원인 현 약제 수가로는 1회 10만~16만원인 골다공증 주사비를 감당할 수 없어 처방을 아예 못 할 때가 많다고 했다. 영남의 한 요양 병원장은 “골다공증 환자가 골절되는 걸 지켜볼 수밖에 없는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;치매·파킨슨병도 비슷했다. 협회는 “충분한 용량의 치매 약을 투여하지 못하거나 처방 자체를 하지 않는 경우가 많다”며 “파킨슨병 약도 마찬가지”라고 했다. 치매 약 가격은 한 알에 최고 4000원에 달하고, 파킨슨병 약은 한 알에 1000원 안팎이라고 한다. &lt;br&gt;&lt;br&gt;전문가들 사이에서도 중증 환자를 많이 보는 의료 중심 요양 병원의 수가는 현실화할 필요가 있다는 의견이 많다. 하지만 요양 병원의 일부 처치·검사·투약을 행위별 수가제로 전환하는 것에 대해선 의견이 갈린다. 남상요 인하대 정책대학원 교수(노인학과)는 “욕창 관리나 골다공증 치료는 행위별 수가를 적용해야 한다”며 “중증 환자에게 꼭 필요한 것임에도 치료를 하면 할수록 손해가 나면 누가 하려 하겠느냐”고 했다. 반면 석재은 교수는 “일부 요양 병원의 정액 수가를 올려주는 건 몰라도 행위별 수가를 늘리는 건 신중해야 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가뭄에 성주 참외, 청송 사과 시들… 순창선 고추 농사 직격탄</title>
