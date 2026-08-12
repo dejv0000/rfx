@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>친인척 ‘관사 위장전입’에 ‘수사 편의’도… 양산署 경감, 뇌물 혐의 입건</title>
+      <link>https://www.chosun.com/national/regional/2026/08/12/GVTPWKCUCVHF5E4CHLCT6B7B2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/12/GVTPWKCUCVHF5E4CHLCT6B7B2A/</guid>
+      <dc:creator>양산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Aug 2026 06:08:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3GMZJSMM4TAMJSGIZWIN3EG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산에서 현직 경찰관이 친인척을 경찰 관사에 위장 전입시키고, 수사 편의를 제공한 대가로 금품을 받은 의혹으로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경남경찰청 반부패경제범죄수사대는 양산경찰서 소속 50대 A 경감을 뇌물수수 등의 혐의로 불구속 입건해 수사하고 있다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A 경감은 친인척 관계로 알려진 40대 남성 B씨가 양산시 물금읍에 있는 경찰 관사에 위장 전입하도록 도운 혐의를 받는다. 또 B씨와 관련된 사건 수사 과정에서 편의를 제공하고 금품을 받은 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;이 관사는 다른 지역에 거주하면서 양산경찰서로 출퇴근하는 경찰관 등을 위한 거주 시설이다. 경찰관이 아닌 B씨는 2016년 11월 이 관사로 주소지를 옮긴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 관사로 전입한 이후 A 경감 계좌에 약 5400만원이 입금됐다가 다시 해외로 빠져나간 정황도 확인하고 자금의 성격과 흐름을 들여다보고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 지난 4월 관련 고발장이 경찰에 접수되면서 수사가 시작됐다. 경찰은 이 과정에서 B씨가 10년 가까이 경찰 관사에 주소지를 두고 있었던 사실을 확인했다. 이후 B씨에게는 주소지 전출 명령이 내려졌다.&lt;br&gt;&lt;br&gt;A 경감은 관련 의혹을 부인하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 사실관계를 확인하고 있다”며 “수사 중인 사안이라 구체적인 내용은 밝히기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지적 장애 여성 성폭행 혐의… 60대 男, “죄송합니다”</title>
+      <link>https://www.chosun.com/national/incident/2026/08/12/4G4ZQJN2ABG2NMWAJN2OYXX6EU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/12/4G4ZQJN2ABG2NMWAJN2OYXX6EU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Aug 2026 05:59:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRGCZLEGBRGCMTCGVQTIZLCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지적 장애가 있는 20대 여성을 여러 차례 성폭행한 혐의를 받는 60대 남성 A씨가 구속 전 피의자심문을 위해 12일 인천지법에 들어서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지적 장애인을 성폭행한 혐의로 구속영장이 청구된 전 중소기업 임원 60대 남성이 12일 구속 전 피의자 심문(영장실질심사)을 받기 위해 인천지법에 출석했다.&lt;br&gt;&lt;br&gt;성폭력범죄의 처벌 등에 관한 특례법상 장애인 준강간 혐의를 받는 A씨는 “성폭행 혐의를 인정하느냐”는 취재진 질문에 “할 말이 없다”고 답했다. “피해자 가족들에게 할 말이 없느냐” “합의에 의한 관계를 주장하느냐”는 질문엔 “죄송하다”고 했다. &lt;br&gt;&lt;br&gt;전경호 인천지법 영장 전담 부장판사는 이날 오후 2시 30분부터 A씨의 영장실질심사를 진행한다. 영장 발부 여부는 오후 늦게 결정될 예정이다. &lt;br&gt;&lt;br&gt;A씨는 지난해 여름부터 올해 6월까지 지적 장애가 있는 20대 여성 B씨를 여러 차례 성폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨 부모는 딸의 임신과 성폭행 피해 상황을 전해 듣고 지난 3월 경찰에 신고했다. B씨는 임신한 아이를 출산해 양육 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인천지적발달장애인복지협회 장애인성폭력상담소는 이날 오후 인천지법 앞에서 기자회견을 열고 “피해자는 자신이 근무하던 사업장 전직 간부로부터 성폭력을 당해 임신과 출산 등으로 심각한 고통을 겪고 있다”며 “사건의 중대성과 피해자 보호 필요성을 고려해 피의자를 구속해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍대 클럽서 한국인 폭행한 주한미군 2명 징역형 구형</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/12/5FZXBSCYURB2DFJGC4F5XYVB5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/12/5FZXBSCYURB2DFJGC4F5XYVB5Y/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Aug 2026 05:31:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TGKNDBHE2TKYRRG5RTQMLBME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍대 클럽에서 한국인 남성을 폭행한 20대 주한미군 2명에게 검찰이 각각 징역 6개월을 구형했다.&lt;br&gt;&lt;br&gt;12일 서울서부지법 형사1단독 박지원 판사는 공동상해 혐의로 기소된 주한미군 두 명에 대한 첫 공판기일을 열고 변론을 종결했다.&lt;br&gt;&lt;br&gt;이들은 지난 3월 21일 새벽 3시쯤 서울 마포구 홍대의 한 클럽에서 한국인 남성 한 명을 폭행한 혐의를 받는다. 두 명 중 한 명은 현장에서, 나머지 한 명은 지난 4월 검거됐다.&lt;br&gt;&lt;br&gt;사건 당시 피해자와 다툼을 벌이던 주한미군들은 그의 목을 졸라 약 1분간 기절시키고, 얼굴을 주먹으로 수차례 때린 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 “피고인들이 피해자와 합의하지 못한 점과 피해자의 상해 정도가 중한 점을 고려해 피고인들에게 각각 징역 6개월을 선고해달라”고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;피고인들은 이날 재판에서 공소사실을 모두 인정했다. 이들은 “외국에 있는 동안 그 나라의 법과 시민을 존중해야 할 책임을 다하지 못했다”며 선처를 요청했다.&lt;br&gt;&lt;br&gt;선고는 9월 9일 오후 2시에 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 특검, 한동훈 참고인 조사 불발…“재소환 계획 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/12/S776PPMINBANBLWXEC2BGNBIRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/12/S776PPMINBANBLWXEC2BGNBIRQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Aug 2026 05:09:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDSOJWGM2GCMBYGA2GMOBXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 무소속 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)은 12일 한동훈 의원에 대한 참고인 조사가 불발됐다고 밝혔다. 특검은 12·3 비상계엄이 해제된 후 열린 ‘당정대(당·정부·대통령실) 회의’와 관련해 한 의원에게 이날 오전 10시 참고인 조사를 받을 것을 통보했는데, 한 의원이 소환에 응하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;이날 특검은 “출석 통지서를 의원실을 통해 전달했으나 한 의원은 출석 여부에 대한 답변 없이, 불출석 사유서도 제출하지 않은 채 조사에 응하지 않았다”며 “수사 기간이 얼마 남지 않은 상황을 고려해 재소환은 검토하지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;한 의원은 2024년 12월 4일 국민의힘 대표로서 추경호 국민의힘 원내대표와 함께 당정대 회의에 참석했다. 정부에서는 한덕수 전 국무총리와 박성재 전 법무장관, 방기선 전 국무조정실장 등이 참석했고, 대통령실에선 정진석 전 비서실장과 김주현 전 민정수석, 홍철호 전 정무수석 등이 참석한 것으로 전해졌다. 특검은 이날 회의에서 비상계엄을 정당화하기 위한 논의가 이뤄졌을 가능성이 있다고 의심하고 있다. 특검은 같은 날 저녁 열린 ‘삼청동 안가 회동’과 당정대 회의의 연관성에 대해서도 조사한다는 방침이다.&lt;br&gt;&lt;br&gt;지난 6일 특검의 소환 통보 사실이 알려지자 한 의원은 페이스북에 “참고인 소환 통보를 받은 사실이 없다”며 “계엄 당일 여당 대표임에도 누구보다 앞장서서 계엄을 저지했다”고 썼다. “선거 기간에 아무 이유 없이 출국 금지를 시켜놓고 몇 달씩 멋대로 연장해 가면서도 한 번도 부르지 않더니, 이제 와서 (특검이) 보여주기식 언론 플레이를 한다”며 “정치 특검이 하려는 정치 수사를 도와줄 생각은 없다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 윤석열 정부가 검찰의 ‘쌍방울 대북 송금’ 수사에 개입한 의혹을 발견했다며, 당시 법무장관을 지냈던 한 의원을 약 3개월 가량 출국금지했다가 지난달 해제했다. 지난 2월 출범한 2차 특검 수사는 오는 23일로 마무리된다. 남은 기간 동안 40명 안팎을 기소할 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘6억대 신혼가전 사기’ 前 LG전자 대리점장, 1심 징역 3년 6개월</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/12/PWRJHKWXWBAQFLYRLRVYQJWUNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/12/PWRJHKWXWBAQFLYRLRVYQJWUNY/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Aug 2026 04:45:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMBXX7DIEBFO7C2LSI53XACG5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예비 신혼부부 등 고객 37명에게 가전제품 구매 대금 명목으로 6억여 원을 가로챈 뒤 잠적한 전 LG전자 대리점 지점장이 두 차례 재판에서 모두 실형을 선고받았다. &lt;br&gt;&lt;br&gt;12일 법조계에 따르면 서울북부지법 형사5단독 권소영 판사는 사기 혐의로 기소된 전 LG전자 베스트샵 동대문구 A 지점 판매 매니저 양모(42)씨에게 지난 3월과 7월 각각 징역 2년 6개월과 징역 1년을 선고했다. 두 사건의 형량을 합하면 징역 3년 6개월이다.&lt;br&gt;&lt;br&gt;양씨는 지난해 7월부터 10월까지 예비 신혼부부 등을 상대로 가전제품을 판매하면서 고객 37명에게서 총 6억3921만원을 받아 가로챈 혐의를 받는다. 피해자들의 고소가 잇따르면서 범행은 두 사건으로 나뉘어 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;양씨는 주로 결혼을 앞두고 여러 가전을 한꺼번에 구매하려는 고객들에게 제휴 카드 할인이나 혼수가전 구매 혜택 등을 내세워 결제를 유도한 것으로 조사됐다. 제휴 카드를 새로 만들면 기존 결제 금액을 취소해 주겠다고 하거나, 혼수가전을 묶어 구매하면 현금 135만원과 포인트 50만원, 80만원 상당의 상품권을 제공하겠다는 식이었다.&lt;br&gt;&lt;br&gt;그러나 양씨에게는 고객들이 주문한 가전제품을 정상적으로 공급하거나 약속한 돈을 돌려줄 능력이 없었던 것으로 조사됐다. 고객들에게 받은 돈 일부는 기존 채무를 갚는 이른바 ‘돌려막기’와 도박 자금 등에 사용한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;또 양씨는 경찰의 추적을 받던 지난해 10월 31일에도 지인에게 “고객 클레임 때문에 돈을 메워야 한다. 송금해 주면 저녁에 갚겠다”고 속여 30만원을 가로챈 혐의도 받는다.&lt;br&gt;&lt;br&gt;재판부는 “범행의 경위와 내용에 비춰 죄질이 불량하다”며 “수차례에 걸쳐 여러 피해자를 기망했고 가로챈 금액도 다액”이라고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 양씨가 범행을 인정하고 반성하는 점과 실제 취득한 이익이 범행 액수보다 적은 점, LG전자 측이 피해자들에 대한 보상을 실시한 점 등이 함께 고려됐다. &lt;br&gt;&lt;br&gt;경찰은 지난해 양씨가 가전제품 대금을 받은 뒤 잠적했다는 내용의 고소장을 잇따라 접수해 출국 금지 조치를 하고 행방을 추적했다. 양씨는 열흘 넘게 잠적하다 지난해 11월 10일 강원도 속초에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;양씨는 두 판결에 모두 불복해 항소했다. 먼저 선고된 사건의 항소심 두 번째 공판은 오는 28일 열릴 예정이다. 법원은 두 사건의 병합 여부를 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 특검 ‘해경 계엄가담 의혹’ 김종욱·안성식 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/12/Z7JMJZSSGBDRLGDBGVTLUAINGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/12/Z7JMJZSSGBDRLGDBGVTLUAINGM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Aug 2026 04:56:21 +0000</pubDate>
+      <content:encoded>2차 종합특검(특별검사 권창영)이 해양경찰이 12·3 비상계엄에 가담했다는 의혹과 관련해 김종욱 전 해양경찰청장과 안성식 전 해양경찰청 기획조정관을 불구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYTEMZWGE4GIZLCMJRDEMLBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권창영 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 특검은 이날 “김 전 청장과 안 전 조정관을 내란부화수행 및 직권남용권리행사방해 혐의로 불구속 기소했다”고 밝혔다. 이들은 위헌·위법한 비상계엄에도 직권을 남용해 합동수사본부 해경 인원을 증원 편성하거나 해경 구금시설이 제공될 수 있게 한 혐의를 받는다. 2차 특검은 이들이 해경 직원 1명을 합동참모본부에 정부 연락관으로 파견한 행위도 내란에 부화수행한 것이라고 판단했다.&lt;br&gt;&lt;br&gt;앞서 특검 측은 지난달 1일 두 사람에 대한 구속영장을 청구했지만, 법원은 심리 끝에 이를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주 도서관 붕괴 4명 사망… ‘관리부실’ 공무원에 책임 물었다</title>
       <link>https://www.chosun.com/national/regional/honam/2026/08/12/EQQYV6XVPZBY7P7KVD23MZUY5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/08/12/EQQYV6XVPZBY7P7KVD23MZUY5M/</guid>
@@ -877,33 +931,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3TQMLDMNSTAZRUGAZGEMBXGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 반구대정신병원 공동대책위원회는 지난 1월 30일 울산시청 앞에서 기자회견을 열고 잇단 환자 사망 사건이 발생한 반구대정신병원에 대한 고발장 접수를 예고했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입원환자 7명이 잇따라 숨진 반구대정신병원이 다음 달 폐원을 앞둔 가운데, 시민단체가 현재 병원에 남아 있는 환자 202명을 다른 정신병원으로 한꺼번에 옮기는 절차를 중단해 달라며 국가인권위원회에 긴급구제를 신청했다.&lt;br&gt;&lt;br&gt;반구대정신병원 공동대책위원회와 부산동료지원센터는 11일 국가인권위원회에 긴급구제를 신청하고 “병원 폐원 일정에 맞춰 입원환자들을 다른 정신병원으로 일괄 이송해서는 안 된다”고 밝혔다.&lt;br&gt;&lt;br&gt;공대위 측은 환자들을 다른 병원으로 한꺼번에 옮길 경우 환자 본인의 의사와 실제 입원 필요성이 제대로 반영되지 않은 채 장기 입원이 이어질 수 있다고 주장했다. 이에 환자별로 입원 필요성과 지역사회 자립 가능성을 다시 살펴본 뒤, 퇴원과 자립 지원을 우선 검토해야 한다고 했다.&lt;br&gt;&lt;br&gt;공대위 측은 병원 내 연쇄 사망 사고와 관련한 자료 보존과 인권위의 현장 조사도 요구했다. 병원 내 CCTV 영상 보관 기간이 3일에 불과해 관련 영상이 삭제될 수 있다며 CCTV 영상과 간호·진료 기록 등을 보존해야 한다는 것이다.&lt;br&gt;&lt;br&gt;또 병원이 문을 닫기 전에 민관 합동 태스크포스(TF)를 구성해 환자들이 어디로 옮겨지는지와 이후 처우를 점검하고, 최근 5년간 사망 사고가 반복된 원인과 병원 및 감독기관의 관리·감독 책임도 규명해 달라고 요구했다. 아울러 정신의료기관 폐업 시 입원환자의 권리를 보호하고 관련 기록을 보존할 수 있도록 제도 개선 방안도 마련해 달라고 했다.&lt;br&gt;&lt;br&gt;울산 울주군 두동면 소재 정신의료기관 반구대병원에서는 2022년부터 지난 2일까지 중증 장애인을 포함한 입원환자 7명이 잇따라 숨졌다. 병원 측은 지난 5일 울산 울주군 보건소에 다음달 3일 자로 폐원하겠다는 뜻을 밝힌 상태다.&lt;br&gt;&lt;br&gt;현재 병원에 남아 있는 입원환자는 202명으로, 이 가운데 129명(약 64%)이 발달장애인이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰 여객기 참사 특수단, 한국공항공사·국토부·부산지방항공청 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2026/08/11/5XYZ2GTTVBGB3JRVYFN6LF2FQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/5XYZ2GTTVBGB3JRVYFN6LF2FQA/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Aug 2026 00:43:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2WIZTDMYZWEOLCMUYTMOBXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 4월 13일 무안공항 제주항공 여객기 참사에 대해 전면적인 재수색이 시작된 가운데 민관군경 합동으로 사고 현장에서 유해수색을 하고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안공항 제주항공 여객기 참사를 수사하는 경찰이 11일 한국공항공사, 국토교통부, 부산지방항공청에 대해 압수수색을 실시했다.&lt;br&gt;&lt;br&gt;경찰청 ‘12·29 여객기 참사 특별수사단’은 “이날 오전 9시부터 한국공항공사 등에 수사관들을 보내 압수수색을 진행하고 있다”고 밝혔다. 이 수사는 2024년 12월 29일 태국 방콕에서 출발한 제주항공 여객기가 무안국제공항에 비상 착륙을 시도하다가 로컬라이저와 충돌해 탑승자 181명 중 179명이 숨지고 2명이 다친 참사와 관련된 것이다. 경찰은 참사 원인과 책임 소재를 규명하는 한편, 참사 이후 사고 원인을 당국이 축소 발표하려 했다는 의혹도 수사 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 압수수색은 업무상 과실치사상 혐의와 관련해 추가로 필요한 자료를 확보하기 위한 차원”이라고 밝혔다. 이날 압수수색을 진행하는 세 기관 모두 이미 경찰이 압수수색을 한 바 있다. 경찰은 기존에 확보한 자료를 토대로 수사하는 과정에서 의심되는 부분을 확인하기 위해 추가 압수수색에 나선 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 여객기 참사와 관련해 업무상 과실치사상 등 혐의로 74명을 입건해 수사 중이며, 중대재해처벌법상 중대시민재해 혐의 적용도 가능한지 들여다보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“돈 안 주면 내부 자료 공개”... 경찰·美 FBI, ‘건라’ 랜섬웨어 주의보</title>
-      <link>https://www.chosun.com/national/incident/2026/08/11/VCCERIUMDRB75DWT25A7EJOGKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/VCCERIUMDRB75DWT25A7EJOGKA/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Aug 2026 00:04:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTDSMZSGA2TEMZTGUYTMMJUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 미국 연방수사국(FBI), 사이버보안·인프라보안국(CISA), 국가안보국(NSA), 국방부 사이버범죄센터(DC3), 비밀경호국(USSS)과 함께 11일 ‘건라(GUNRA)’ 랜섬웨어에 대한 한·미 합동 사이버 보안 권고문을 배포했다. &lt;br&gt;&lt;br&gt;랜섬웨어는 기업·기관의 서버나 자료를 암호화한 뒤 이를 인질(ransom) 삼아 금전을 탈취하는 사이버 범죄 수법이다. ‘건라’는 2025년부터 활동이 확인된 국제 랜섬웨어 조직으로, 최근엔 ‘서비스형 랜섬웨어’ 형태로도 운영되며 국내외 다양한 분야로 공격을 확대하고 있는 것으로 드러났다고 경찰은 설명했다. 서비스형 랜섬웨어는 공격 도구를 다른 범죄자에게 제공하고 공격 성공 시 몸값을 나누는 방식의 범죄 서비스 모델이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 ‘건라’는 단순히 파일을 암호화하는 데 그치지 않고, 내부 데이터를 사전에 탈취해 금전을 요구하는 ‘이중 탈취형’ 공격을 활용하는 것으로 나타났다. 다크웹 사이트를 운영하면서 피해 기업의 명단과 탈취 자료 일부를 게시하고 몸값을 지급하지 않을 경우, 탈취한 자료를 판매하거나 공개하겠다고 협박하는 것이다.&lt;br&gt;&lt;br&gt;한미 당국은 “랜섬웨어는 초기 침투를 차단하는 것이 가장 효과적인 대응 방법”이라며 ▲가상 사설망(VPN)·원격 접속 등 외부 접근 통제 및 최신 보안 수정(보안 패치) 적용 ▲다중인증 적용을 통한 계정 관리 강화 ▲안전한 백업 체계 활성화 등 기업들의 기본적인 보안 수칙 준수가 중요하다고 강조했다.&lt;br&gt;&lt;br&gt;경찰은 “현재 ‘건라’ 랜섬웨어와 관련된 공격을 수사하고 있으며 추가 위협 정보를 관계 기관 및 기업에 신속하게 공유할 계획”이라며 “이번 보안 권고문에 포함된 침해 지표를 바탕으로 시스템 기록 정보와 이상 행위를 면밀히 점검하고, 랜섬웨어 감염 또는 침해 정황이 의심될 경우 공격자와 직접 접촉하지 말고 경찰에 신속하게 신고해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2028년 유엔해양총회 부산서 열린다 </title>
-      <link>https://www.chosun.com/national/regional/2026/08/11/OGS5EWLLSFBOLKEOGENI7SDQMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/11/OGS5EWLLSFBOLKEOGENI7SDQMY/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Aug 2026 01:38:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XL7QLR6XJHD7IBBG3ZSOLZU5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 부산시장./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 2028년 6월 국내에서 열리는 ‘제4차 유엔해양총회’ 개최도시로 부산이 최종 선정됐다. &lt;br&gt;&lt;br&gt;부산시는 지난 10일 열린 개최도시 선정 공모에서 제주와의 경쟁 끝에 선정됐다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;유엔해양총회는 유엔 지속가능발전목표 14번인 ‘해양생태계의 보전과 지속가능한 이용’의 이행을 촉진하기 위한 유엔 차원의 최고위급 국제회의로 3년마다 열린다. 제4차 총회는 우리나라와 칠레가 공동 개최한다. 본회의는 2028년 6월 부산에서 열린다. 기후변화와 해양오염, 해양생태계 보전 등 주요 해양 현안에 대한 국제사회의 성과를 점검하고 2030년 이후 지속가능한 해양의 미래를 위한 협력 방향을 논의하는 자리가 될 전망이다. &lt;br&gt;&lt;br&gt;193개 유엔 회원국을 비롯해, 세계 각국 정부, 국제기구, 시민사회 등 2만명이 참석할 예정이다. &lt;br&gt;&lt;br&gt;특히 2028년에는 유엔해양총회와 세계디자인수도(WDC) 등 대규모 국제행사가 부산에서 열린다. 부산시 관계자는 “해양환경 보호와 지속가능한 발전을 디자인과 연계해 부산의 도시 경쟁력과 매력을 전 세계에 알리겠다”고 했다. &lt;br&gt;&lt;br&gt;전재수 부산시장은 “제4차 유엔해양총회 개최도시로 부산이 선정된 것은 대표 해양도시로서 부산의 역량을 국제적으로 인정받은 결과”라며 “국제사회의 연대와 실천을 한 단계 더 발전시키는 성공적인 총회가 될 수 있도록 중앙정부와 긴밀히 협력해 철저히 준비하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천에서 열사병으로 3명 잇따라 숨져…온열질환 사망 4명으로 늘어</title>
       <link>https://www.chosun.com/national/incident/2026/08/11/2KKKPH3PRBCJLGCF3SBUAMUZGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/11/2KKKPH3PRBCJLGCF3SBUAMUZGA/</guid>
@@ -940,15 +967,6 @@
       </media:content>
     </item>
     <item>
-      <title>[인사] 행정안전부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/11/PZVQAXHY4NHFLHD2VXJLHEQHWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/11/PZVQAXHY4NHFLHD2VXJLHEQHWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>▲행정안전부◇국장급 신규 임용▷비상안전기획관 김재환◇과장급 전보▷행정제도과장 박희건▷주소정보혁신과장 고종신&lt;br&gt;&lt;br&gt;▲문화체육관광부▷기획조정실 양성평등정책담당관 배양희▷문화미디어산업실 저작권 보호과장 이재순&lt;br&gt;&lt;br&gt;▲방위사업청◇고위공무원 신규임용▷화력 사업부장 이승호&lt;br&gt;&lt;br&gt;▲한국원자력의학원▷원자력병원장 송강현&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>자연·문화·휴식을 한곳서… ‘을지재단 70년 정신’ 담아낸 리조트&amp;풀빌라</title>
       <link>https://www.chosun.com/national/national_general/2026/08/11/2DMGCYDEHBCBDKAOP3RUYU5H4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/11/2DMGCYDEHBCBDKAOP3RUYU5H4U/</guid>
@@ -958,15 +976,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PKWV743MJCFFBAIN5X5EV24LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;클리프비치 리조트&amp;풀빌라 썬타워 객실. /을지재단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1956년 고(故) 범석 박영하 설립자가 서울 을지로에서 병원을 연 이후 을지재단은 ‘인간사랑·생명존중’ 정신을 바탕으로 의료와 교육, 연구, 사회공헌을 이어왔다. 올해 을지대학교의료원 창립 70주년을 맞은 재단은 ‘덕분에 70년, 함께 100년’을 새로운 슬로건으로 내걸었다. 지난 70년 동안 국민과 지역사회가 보내준 신뢰를 바탕으로 앞으로의 100년 역시 사람 중심의 가치를 이어가겠다는 의미다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKJC4SO2RZENDC6F36LP57AM64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 양양 동호해변에 문을 연 클리프비치 리조트&amp;amp;풀빌라는 이러한 철학을 새로운 방식으로 풀어낸 공간이다. 단순히 숙박시설을 만드는 데 그치지 않고 자연과 문화, 휴식이 조화를 이루는 공간을 통해 재단이 오랫동안 지켜온 가치를 일상 속에서 경험할 수 있도록 기획했다.&lt;br&gt;&lt;br&gt;클리프비치가 자리한 동호해변은 동해와 설악산 능선이 함께 어우러지는 자연환경을 갖춘 곳이다. 리조트는 이러한 입지를 최대한 살려 건축과 조경, 동선을 구성했다. 리조트는 동해와 설악산을 함께 조망할 수 있는 입지를 살려 건축과 조경, 동선을 설계했다. 공간 곳곳에서 자연 풍경이 이어지도록 한 것이 특징이다.&lt;br&gt;&lt;br&gt;브랜드를 상징하는 CI에도 같은 철학이 담겼다. 동해를 향해 밀려오는 파도와 해안선을 형상화한 로고는 자연과 공간의 연결성을 상징한다. 화려한 장식보다 단순한 선과 균형을 통해 안정감과 지속성을 표현했고 자연 속에서 편안한 휴식을 제공하겠다는 브랜드 방향을 담아냈다.&lt;br&gt;&lt;br&gt;클리프비치는 오션타워와 썬타워, 스테이 풀빌라 등 3개 공간, 총 57개 객실로 구성됐다. 전 객실에서 동해를 조망할 수 있도록 배치했으며 객실 위치와 구조에 따라 서로 다른 바다 풍경을 즐길 수 있도록 했다. 오션타워는 해변과 가장 가까운 입지를 살린 공간이다. 썬타워는 보다 여유로운 공간 구성과 넓은 조망을 갖췄다. 독립형 스테이 풀빌라는 프라이버시를 고려한 공간으로 다양한 여행 목적과 이용 형태에 맞춰 선택할 수 있도록 구성했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHYU6ASNIBHM7FVSOLAV5Y5YAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘클리프 비치 리조트&amp;풀빌라’에서 바라본 동해 일출 광경. /을지재단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숙박 공간 외에도 다양한 편의시설을 마련했다. 키즈룸과 북라운지, 카페, 한식당, 비즈니스센터, 공용 취사시설과 코인세탁실 등을 운영하며 장기 체류객과 가족 단위 이용객의 편의를 고려했다. 야외에는 가든스퀘어와 산책로, 조각공원, 전망대&amp;amp;아트스페이스 등을 조성해 자연 속에서 여유를 즐길 수 있도록 했다.&lt;br&gt;&lt;br&gt;을지재단은 클리프비치를 통해 의료와 교육 분야에서 이어온 신뢰를 새로운 공간 경험으로 확장한다는 계획이다. 재단이 70년 동안 쌓아온 ‘인간사랑·생명존중’의 가치를 공간에 담아 머무름 자체가 하나의 쉼이 될 수 있도록 했다는 설명이다.&lt;br&gt;&lt;br&gt;대나무숲과 해송 산책로, 풀빌라 앞 조각공원은 바다와 숲, 예술을 하나의 공간으로 연결한다. 자연 속에서 걷고 머무르며 여유를 즐길 수 있도록 구성한 것이 클리프비치의 특징이다.&lt;br&gt;&lt;br&gt;을지재단은 의료기관으로서의 역할도 계속 확대하고 있다. 경기북부 의료 접근성 개선을 위한 투자와 암병원 추진, 연구 역량 강화 등을 통해 지역 의료 수준을 높이는 한편, 범석학술장학재단을 통해 지난 29년간 학생과 연구자들에게 약 80억원의 장학금과 연구비를 지원하며 사회공헌도 이어오고 있다. 의료와 교육, 연구를 중심으로 쌓아온 경험을 사회 전반으로 확장하겠다는 것이 재단의 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>뉴진스·어도어 싸움 한창 때, 하니 비자정보 누가 넘겼나</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/10/EN76AFOH75BTXLGBK3T4UJQCXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/EN76AFOH75BTXLGBK3T4UJQCXM/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Aug 2026 12:08:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUXFXHL4MVBSXOQSAG5CDXLP3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴진스 하니가 2024년 10월 15일 서울 여의도 국회에서 열린 환경노동위원회 국정감사에 참고인으로 출석해 의원 질의를 듣고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 뉴진스 멤버 하니의 비자 정보가 언론에 유출됐다는 의혹과 관련해 경찰이 고발인 조사를 진행하며 본격적인 수사에 착수했다.&lt;br&gt;&lt;br&gt;10일 경찰에 따르면 서울 용산경찰서는 이날 뉴진스 소속사 ‘어도어’와 소속 임직원을 개인정보보호법 위반 혐의로 고발한 문화평론가 김성수씨 측을 불러 조사했다. 김씨의 고발 대리인인 법률사무소 강성의 박강훈 변호사가 출석했다.&lt;br&gt;&lt;br&gt;김씨는 지난달 28일 어도어와 소속 임직원을 개인정보보호법 위반 혐의로 고발했다. 김씨는 어도어가 하니와 전속 계약 분쟁을 벌이는 과정에서 하니의 예술흥행(E-6) 비자 종류와 만료 시점, 비자 연장 신청 서류 및 절차 진행 상황 등을 언론에 제공했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;이날 고발인 조사에서는 비자의 종류와 만료 시점 등이 개인정보보호법상 보호 대상에 해당하는지를 두고 관련 질문이 이어진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;박 변호사는 조사에서 “개인정보보호법은 어떠한 경로로도 확인할 수 없는 정보만 보호하는 것이 아니다”라며 “개인의 내밀한 영역에 속하는 정보가 정당한 경로를 벗어나 공개됐다면 법 위반의 구성 요건을 충족한다”는 취지로 주장했다고 밝혔다.&lt;br&gt;&lt;br&gt;비자 연장 신청 서류 진행 상황 등 내부 정보가 복수의 연예 매체를 통해 보도된 것과 관련해 극소수의 어도어 임직원이 해당 정보를 일부 기자들에게 제공했다는 취지의 주장도 덧붙였다.&lt;br&gt;&lt;br&gt;박 변호사는 “소속사는 외국인에게 생명줄과도 같은 체류 자격을 대신 관리해야 했는데 이를 무기로 사용했다”며 “해당 정보가 누구의 손을 거쳐 언론에 전달됐는지 밝혀져야 한다”고 했다.&lt;br&gt;&lt;br&gt;박 변호사는 경찰 조사 과정에서 시민과 팬들이 어도어에 대한 엄벌을 촉구하며 제출한 탄원서 1000여 장도 확인했다고 덧붙였다.&lt;br&gt;&lt;br&gt;베트남계 호주인인 하니는 어도어의 의무 불이행 등을 이유로 전속계약 해지를 선언해 분쟁을 벌이는 과정에서 기존 비자가 만료됐다. 지난해 2월 일부 연예 매체는 하니가 어도어를 떠날 경우 소속사가 없어져 비자 발급 요건을 충족하지 못해 불법 체류 상태가 될 수 있다는 취지로 보도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“요양보호사가 석션까지”…노인 90명당 방문간호사 1명뿐</title>
       <link>https://www.chosun.com/national/national_general/2026/08/10/FOVJ2DIAOVBKXMGCRBDWRPVNDE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/10/FOVJ2DIAOVBKXMGCRBDWRPVNDE/</guid>
@@ -974,15 +983,6 @@
       <description/>
       <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ROVTPYO6FCM7NNR6TANFHCV2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 14일 방문간호 환자 집에서 최 간호사가 환자 목에 달린 기관절개관을 소독하고 있다./원종빈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“여기 욕창 보이시죠? 뼈가 드러날 정도로 상태가 안 좋아요.”&lt;br&gt;&lt;br&gt;지난달 14일 오전 10시 서울 영등포구의 한 아파트. 방문 간호사 최모(29)씨가 침대에 누워 있는 강민수(가명·85)씨의 꼬리뼈 부분에 생긴 욕창을 소독하면서 말했다.&lt;br&gt;&lt;br&gt;2년 전 뇌출혈을 겪은 강씨는 지난해부터 폐렴까지 앓고 있다. 강씨는 지난해 10월 요양 병원에서 퇴원한 후 이틀에 한 번 방문 간호를 받고 있다.&lt;br&gt;&lt;br&gt;강씨를 간호하는 최씨는 이날 강씨의 가래 제거, 기관절개관 및 욕창 드레싱, 도뇨관 교체, 팔다리 근육 재활 훈련 등을 혼자서 도맡았다. 이를 다 마치는 데 걸린 시간은 73분. 그 사이 최씨의 옷은 땀으로 흠뻑 젖었다.&lt;br&gt;&lt;br&gt;고령화가 가속화하며 강씨처럼 자택에서 방문간호를 받고자 하는 노령 인구는 늘고 있지만, 최씨와 같은 방문간호 인력은 여전히 부족하다. 이 때문에 현장에서는 의료 행위 권한이 없는 요양보호사나 사회복지사가 간호사 역할까지 하고 있다.&lt;br&gt;&lt;br&gt;국민건강보험공단 자료에 따르면, 노인장기요양보험 인정자 수는 2021년 95만3511명에서 2025년 123만5045명으로 4년 사이 약 30% 증가했다. &lt;br&gt;&lt;br&gt;노인장기요양보험 인정자 중 요양 병원 등 시설이 아닌 집에서 돌봄이 필요한 3~4등급 노인 환자의 숫자도 2021년 42만3595명에서 2025년 57만7572명으로 늘었다. &lt;br&gt;&lt;br&gt;지난해 우리나라 65세 이상 고령 인구가 차지하는 비율이 20.7%를 기록하며 고령 인구가 급증하자 노인 돌봄 및 방문간호 수요도 증가한 것이다. &lt;br&gt;&lt;br&gt;이에 정부는 지난 3월 ‘돌봄 통합 지원법’을 시행하며 지역 사회 통합 돌봄 체계 본사업을 확대했다. 장기요양 중증 재가 서비스 월 이용한도액 증가와 재택 간호 센터 도입 등이 주 골자였다. 노인 환자들이 집에서 방문간호 등을 더 쉽게 받을 수 있도록 제도적 장치를 마련한 것이다.&lt;br&gt;&lt;br&gt;하지만 현장 인력과 기관은 여전히 부족하다. 국민건강보험공단에 따르면, 올해 6월 기준 전국 방문간호 담당 간호사는 6451명뿐이다. 간호사 1명이 3~4 등급 노인 환자 약 90명을 맡는 꼴이다. 방문간호 기관도 932개로, 기관 한 곳이 노인 환자 620여 명을 관리해야 하는 실정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJIQTL7IZVGPTB3STMAHSUFT6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;요양보호사 구인 사이트에 올라온 구인 공고 내용./'케어파트너' 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 방문 간호사가 부족한 탓에 환자나 보호자들은 의료 행위가 가능한 사회복지사나 요양보호사를 찾고 있다. 간호사보다 숫자가 많다 보니 구인도 쉽기 때문이다. 올해 6월 기준 사회복지사는 4만6517명, 요양보호사는 73만8610명으로 방문 간호사 숫자보다 각각 7배, 114배 가까이 많다. &lt;br&gt;&lt;br&gt;실제로 지난달 한 요양 보호사 구인 사이트에 게재된 모집 공고는 “석션(가래 흡입), 피딩(콧줄을 통한 영양공급) 가능한 분”이라는 요건을 기재해뒀다. “석션 능숙하게 하셔야 합니다”라고 적어둔 공고도 있었다. &lt;br&gt;&lt;br&gt;하지만 비의료인인 사회복지사나 요양보호사의 의료 행위는 모두 불법이다. 의료법 제27조는 “의료인이 아니면 누구든지 의료행위를 할 수 없다”고 규정하고 있다. 대법원 판례에 따르면, 석션과 피딩은 의료인만 할 수 있는 의료행위에 해당한다. &lt;br&gt;&lt;br&gt;의료 행위 권한이 없는 요양보호사나 사회복지사가 의료 행위를 하는 일이 빈번해지자, 방문간호 현장에서는 의료 사고로 이어질 위험도 늘고 있다.&lt;br&gt;&lt;br&gt;방문 간호사 정모(30)씨는 “최근 한 요양보호사와 방문 간호를 다녀왔는데, 요양보호사가 환자 요도에 도뇨관을 잘못 삽입한 나머지 요도에서 피가 쏟아졌다”고 했다.&lt;br&gt;&lt;br&gt;한 방문 간호 센터의 대표를 맡고 있는 강명성(30)씨는 “한번은 혈당 수치가 정상치를 훨씬 넘어선 환자를 두고 즉시 당뇨 검사를 받아야 한다고 요양보호사에게 말하니 극구 반대했다”며 “결국 필요한 검사를 받지 못했다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 보건복지부와 국민건강보험공단 측은 “장기요양기관에 대한 관리·감독 권한이 관할 지자체장에게 있다”며 “불법 의료 행위를 따로 단속하고 있지는 않다”고 밝혔다. &lt;br&gt;&lt;br&gt;보건복지부 관계자는 “현장에서는 방문 간호, 방문 요양, 간병의 경계가 모호한 측면이 있다 보니 적발해서 처벌하기 어렵다”며 “요양보호사 교육 과정에서 의료 행위를 하면 안 된다는 내용은 의무적으로 듣게 하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 ‘광복절 특사’ 없다…모범수 등 가석방만 진행</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/10/36Q7ZCAPQRCVHEKNB5FQKZEQFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/10/36Q7ZCAPQRCVHEKNB5FQKZEQFY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Aug 2026 10:29:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3WMMRTHE4DKM3GMI3TKYLEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 올해 광복절에는 특별사면 없이 통상적인 가석방만 단행할 예정인 것으로 10일 알려졌다.&lt;br&gt;&lt;br&gt;법무부는 최근 광복절을 앞두고 가석방심사위원회를 열어 가석방 대상자를 심사했다. 전국 교정 시설의 과밀 수용 문제가 심각한 데다 폭염 등 수용 환경까지 고려해 재범 위험성이 낮은 수형자나 모범 수형자에 대해서는 가석방을 적극 확대한다는 방침이다.&lt;br&gt;&lt;br&gt;반면 특별사면을 위한 사전 준비 작업은 진행되지 않은 것으로 파악됐다. 사면 대상자를 심사하는 사면심사위원회도 열리지 않았다. 통상 특별사면을 위해서는 대상자 분류와 검토 등을 위한 사전 작업에 한 달 남짓 걸리는 점을 고려하면 올해 광복절 특별사면은 이뤄지지 않을 가능성이 크다.&lt;br&gt;&lt;br&gt;이재명 대통령은 취임 첫해인 지난해 광복절을 앞두고 83만6687명을 대규모 특별사면했다. 당시 조국 전 조국혁신당 대표 등 정치인과 최지성 전 삼성그룹 미래전략실장 등 경제인이 다수 사면·복권됐다. 이후 지난해 성탄절과 올해 신년, 3·1절에는 특별사면이 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
