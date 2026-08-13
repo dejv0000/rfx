@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>빌라 관리비 때문에...이웃 살해한 60대 징역 18년</title>
+      <link>https://www.chosun.com/national/regional/2026/08/13/2THJH5E3AVDU7NDZRUHWRFDAXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/13/2THJH5E3AVDU7NDZRUHWRFDAXQ/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 09:47:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43GCZJQGAYGEMJSMUZWIMDDMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지방법원 서부지원 전경./ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빌라 관리비 징수 문제로 앙심을 품고 이웃을 흉기로 살해한 혐의로 재판에 넘겨진 60대 남성이 중형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 나원식)는 13일 살인 혐의로 기소된 60대 남성 A씨에게 징역 18년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 부산 북구 한 빌라에서 이웃인 60대 B씨에게 흉기를 휘둘러 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;두 사람은 이전부터 빌라 관리비 징수 문제로 사이가 좋지 않았다.&lt;br&gt;&lt;br&gt;A씨는 관리비 징수를 담당한 B씨가 자신의 관리비를 차감해 주지 않은 채 납부 명세를 게시해 망신을 줬다고 생각해 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 계획적으로 범행을 저질러 비난 가능성이 높고, 범행 수법도 매우 잔인하고 무자비해 죄질이 불량하다”고 판결했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>행안부, 수의계약 한도 기준 만들고 감시체계 구축</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/13/ZWNQTGGIPFDKNANJXFVEMV4UJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/13/ZWNQTGGIPFDKNANJXFVEMV4UJM/</guid>
+      <dc:creator>이미지 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 10:41:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2WIYZUMIYDCMRYMNQTEMRZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민재 행정안전부 차관이 13일 오후 서울 종로구 세종대로 정부서울청사에서 지방의원 수의계약 제도 개선 방안과 공금 횡령 재발 방지 대책 발표를 하고 있다. 2026.8.13 ⓒ 뉴스1 김명섭 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 13일 지방 자치단체가 동일 업체와 수의 계약을 맺을 수 있는 한도를 설정하고, 전국 지방 정부의 공금 관리 현황 전수 점검, 지출 시스템 통제 강화하는 내용을 담은 지방 계약·공금 관리 제도 개선 대책을 발표했다. 지방의회 의원들이 영향력을 행사해 가족·친인척이 운영하는 업체 등과 수의 계약을 맺어 일감을 몰아주는 편법을 막겠다는 것이다.&lt;br&gt;&lt;br&gt;행안부에 따르면 전남 보성군에서는 한 군의원 배우자가 지분 40%를 보유한 업체와 보성군이 133건, 총 22억800만원 규모의 수의계약을 체결했다. 경남 의령군에서는 군의원 배우자가 지분 49%를 가진 업체와 40건, 10억2500만원 규모의 수의 계약이 체결됐다.&lt;br&gt;&lt;br&gt;행안부는 앞으로 기초 지자체(세종·제주 포함)는 동일 업체와 연 5회, 연 2억원을 초과해 수의 계약을 체결할 수 없게 하겠다고 했다. 광역 지자체는 연 7회 또는 연 3억원까지로 제한된다. 일반 기업의 경우 추정 가격 2000만원 이하 1인 견적 수의 계약이 대상이며 청년 창업·여성·장애인 기업 등은 5000만원 이하 계약까지 포함된다. 다만 불가피한 사유가 있는 경우 지자체 내 계약심의위원회를 거쳐 예외적으로 수의계약을 체결할 수 있게 했다. 지역 내 업체 수가 부족해 적절한 업체를 선정하지 못하는 등의 부작용을 막기 위한 것이다.&lt;br&gt;&lt;br&gt;행안부는 연내 제정을 추진하는 ‘지방의회법’에 지방 의원의 사적 이해관계자 등록·공개를 의무화하고, 지자체가 수의 계약을 맺을 경우 윤리심사자문위원회에 사전 신고하도록 한다는 계획이다. 윤리심사자문위원회가 수의 계약 내용을 정밀 심사해 지방의원의 사적 이익과 연관된다고 판단하면 지자체에 재검토를 요청할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문경 계곡서 물놀이하던 20대 사망 </title>
+      <link>https://www.chosun.com/national/regional/2026/08/13/TTMOTPLVSZEO5HNP3MLBNR2QUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/13/TTMOTPLVSZEO5HNP3MLBNR2QUA/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 10:30:38 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZWKMJTMM2WIZBRG4YDAZBUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 문경의 한 계곡에서 물놀이를 하던 20대가 물에 빠져 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;13일 문경소방서 등에 따르면 이날 오후 4시 2분쯤 경북 문경시 동로면 생달리 이기소 계곡에서 20대 A씨가 물에 빠졌다.&lt;br&gt;&lt;br&gt;소방서는 대원 16명과 장비 8대를 투입해 20분 만인 오후 4시 22분쯤 A씨를 발견해 병원에 옮겼다. &lt;br&gt;&lt;br&gt;발견 당시 A씨는 심정지 상태였고, 이후 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국교위, ‘수능 서·논술형 도입’ 1박 2일 토론회 연다</title>
+      <link>https://www.chosun.com/national/education/2026/08/13/OARCZ7M43JAMVDBB65UAJIHVSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/13/OARCZ7M43JAMVDBB65UAJIHVSE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 10:27:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTENZXMRTDQM3DMUZDSZJTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차정인 국가교육위원회 위원장이 13일 서울 종로구 세종대로 정부서울청사에서 열린 2026년 제8차 회의에서 모두 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 직속 국가교육위원회(국교위)가 대학입시 제도 개편 방안에 관해 대국민 공론화 절차를 진행한다. 국교위는 이르면 올해 초등학교 6학년이 치르는 2033학년도 대입부터 수능 전 과목을 절대평가로 전환하고, 서·논술형 문항을 도입하는 내용의 대입 개편안을 논의 중이다.&lt;br&gt;&lt;br&gt;국교위는 13일 정부서울청사에서 2026년 제8차 회의를 열고 ‘대입 제도 관련 의견 수렴 계획(안)’을 논의했다. 계획안에 따르면, 국교위 대학입학제도 특별위원회(대입 특위)는 3가지 과정으로 국민 의견을 수렴한다. &lt;br&gt;&lt;br&gt;먼저 지난 11일 인천을 시작으로 오는 20일 전남광주, 26일 대구까지 총 3번에 걸쳐 현장 토론회를 진행한다. 국교위는 현장 토론회에 참석한 각 지역 학생, 학부모, 교사 등 100명에게 ‘미래 사회를 대비한 대입 개편 방향’에 대해 묻고 의견을 수렴한다.&lt;br&gt;&lt;br&gt;다음으로는 오는 29~30일 1박 2일 일정으로 국민참여위원회 숙의가 진행된다. 여기에는 국민참여위원 중 선정된 200명 등이 참여하며, ‘내신 서·논술형 평가 확대 및 수능 서·논술형 평가 도입’에 대해 토론이 이뤄진다. &lt;br&gt;&lt;br&gt;국교위는 숙의 토론인 만큼 참가자들에게 토론 일주일 전쯤 사전 학습 자료집을 제공할 계획이다. 또 숙의 전후로 ‘내신 및 수능 서·논술형 평가 전환에 대한 입장’ ‘추진 시 고려할 사항 등 제언’ 등에 대한 의견 조사도 진행될 예정이다. &lt;br&gt;&lt;br&gt;이외에도 국교위는 대국민 온라인 의견 수렴도 진행한다. 국교위 국민의견플랫폼에서 이달 14일부터 오는 28일까지 ‘미래 사회를 대비한 대입 제도 개편 방향성’ ‘내신 서·논술형 평가 확대, 수능 서·논술형 평가 도입’ 등에 대한 의견을 남길 수 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해경, 수상 오토바이 타고 금지구역 부산항 진입한 男 3명 적발</title>
+      <link>https://www.chosun.com/national/regional/2026/08/13/WFJWXW4QPRHMBKSRRQ33UL6ZAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/13/WFJWXW4QPRHMBKSRRQ33UL6ZAE/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 09:21:07 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYWKNJTG43TQNLGGJTGKYRSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 부산항 북항 일원을 불법 운항한 수상오토바이 모습. /부산해경 제공. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 앞바다에서 수상 오토바이를 타다가 해양레저 활동 금지 구역인 부산항 안쪽으로 들어간 50대 남성 3명이 해경에 적발됐다.&lt;br&gt;&lt;br&gt;13일 부산해양경찰서에 따르면 이날 오후 1시 40분쯤 부산항대교 안쪽 해상에서 수상 오토바이 3대가 고속 운항 중이라는 해군 제3함대 부산항만방어전대의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;해경은 연안 구조정 4대를 출동시켜 이들을 추적하며 정선 명령을 보냈다. 이들은 약 40분 뒤 해운대 앞바다까지 가서야 정선 명령에 따라 청사포에 입항했다.&lt;br&gt;&lt;br&gt;해경은 이들에게 해상교통안전법 위반 혐의를 적용해 과태료를 부과할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>질병청, 전국 ‘말라리아 경보’ 발령</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/13/CVVYEZFX2ZA4VC7IFNGKZPF624/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/13/CVVYEZFX2ZA4VC7IFNGKZPF624/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 09:11:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRXD5OI4UMSR2GHALVYRSUMTZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;말라리아를 옮기는 얼룩날개모기./미국 CDC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;질병관리청이 13일 전국에 말라리아 경보를 발령했다. 말라리아는 얼룩날개모기가 사람 피를 빠는 과정에서 원충(原蟲)을 옮겨 감염되는 질병으로, 오한과 고열이 나타나다 심한 경우 사망에 이를 수 있다. &lt;br&gt;&lt;br&gt;이날 질병청은 최근 경기 파주시와 연천군 등 말라리아 위험 지역에서 채집한 얼룩날개모기에서 말라리아 원충의 유전자가 검출돼 전국에 말라리아 경보를 발령한다고 밝혔다. 얼룩날개모기에서 원충이 검출되었다는 것은 물렸을 때 말라리아에 감염될 확률이 높아짐을 의미한다. &lt;br&gt;&lt;br&gt;말라리아 경보는 주의보 발령 후 첫 군집 사례가 발생하거나 얼룩날개모기의 하루 평균 개체 수(TI)가 시·군·구에서 2주 연속 ‘5.0 이상’인 경우 발령된다. 채집된 모기에서 말라리아 원충이 검출되면 전국에 경보가 내려진다. 앞서 질병청은 지난 6월 22일 얼룩날개모기 개체 수가 증가하자 전국에 말라리아 주의보를 발령했고, 이후 경기 파주·김포, 인천 강화·계양, 강원 양구 등 5개 지역에 경보를 내렸다. 국내 말라리아는 주로 북한에서 모기가 내려와 휴전선 접경 지역을 중심으로 발생해 경기 북부와 인천, 강원 일부 지역 등이 위험 지역으로 관리된다. &lt;br&gt;&lt;br&gt;올해는 기록적 폭염의 영향으로 말라리아를 옮기는 얼룩날개모기의 밀도가 평년보다 낮은 수준에 머무르던 상황이었다. 모기는 기온이 33도 이상으로 더워지면 활동성이 떨어지고, 35도 이상에서는 생존과 번식이 어려워진다. 이에 국내 말라리아 환자도 이달 1일 기준 201명으로, 전년 동기 대비 43.4% 줄었다. &lt;br&gt;&lt;br&gt;다만 최근 더위가 누그러지면서 모기 활동이 다시 늘어날 수 있는 만큼 방역 당국은 촉각을 곤두세우고 있다. 질병청은 최근 폭염 이후 다시 모기 밀도가 증가할 수 있다는 점을 고려해 위험 지역 지자체에 집중 방제를 강화할 것을 주문했다. &lt;br&gt;&lt;br&gt;방역 당국은 위험 지역 주민과 방문자에게 모기가 활발히 활동하는 야간에는 야외 활동을 가급적 자제하고, 외출할 때는 밝은색 긴 소매와 긴 바지를 착용할 것을 당부했다. 발열이나 오한 등 의심 증상이 나타나면 가까운 보건소나 의료기관을 찾아 신속히 검사를 받아야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CRXD5OI4UMSR2GHALVYRSUMTZQ.jpg?auth=37e623c0931ce28c802e759086cb217c4f42485b0c054921ed49e180952cef78&amp;smart=true&amp;width=2560&amp;height=1695" type="image/jpeg" height="1695" width="2560">
+        <media:description type="plain">말라리아를 옮기는 얼룩날개모기./미국 CDC</media:description>
+        <media:credit role="author" scheme="urn:ebu">미 CDC</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>檢, 다음주부터 ‘공소청 체제’ 시범 운영</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/13/UR5BVQELLFGWJEMBPQ3DMS5PGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/13/UR5BVQELLFGWJEMBPQ3DMS5PGI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 09:15:33 +0000</pubDate>
+      <content:encoded>검찰이 다음 주부터 오는 10월 출범하는 공소청 체제를 시범 실시한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI6AFAWEMJLEJMH3NT7DNAFRCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 서울 서초구 대검찰청의 깃발이 펄럭이고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 대검찰청은 “이번 달 18일부터 4주간 일부 검찰청에서 공소청 운영모델을 시범 실시할 예정”이라고 밝혔다. 시범청은 서울북부지검, 대구서부지청, 마산지청, 논산지청 총 4곳이다. 지검과 차치지청(차장검사를 두는 지청), 부치지청(부장검사를 두는 지청), 비부치지청(부장검사도 없는 지청)이 한 곳씩 선정됐다.&lt;br&gt;&lt;br&gt;대검은 “규모와 업무량 등 요소를 다양하게 고려해 이같이 선정했다”며 “현행 법과 제도에 반하지 않는 한도 내에서 개정 형사소송법 취지에 따라 업무를 수행할 예정”이라고 했다. 시범청 소속 검사들은 구속영장청구 전 면담제도, 사실관계 확인제도 등 형소법 개정안에 새로 들어간 제도를 따르게 된다. 형소법 취지에 맞게 직접 수사는 가급적 지양하고, 경찰에 대한 보완수사 요구를 주로 활용할 것으로 보인다.&lt;br&gt;&lt;br&gt;대검은 “추후 시범청 운영 결과를 분석 후 개선 사항을 확인해 공소청 출범 과정에서 국민의 권리보호에 공백이 발생하지 않도록 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>종합특검, ‘채해병 수사 방해’ 이시원 前 비서관·최주원 前 경북경찰청장 등 기소</title>
       <link>https://www.chosun.com/national/court_law/2026/08/13/WN2G4CYCWFE63O7S6XQSRQPYJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/13/WN2G4CYCWFE63O7S6XQSRQPYJQ/</guid>
@@ -807,15 +874,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TIMJSGNQTSODFGM4DIODCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주진우 국민의힘 의원이 12일 서울 서초구 서울중앙지방법원에서 열린 추경호 대구시장의 12·3 비상계엄 당시 국회의 계엄 해제 표결을 방해한 혐의 9차 공판에 증인으로 출석하며 취재진 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회의 12·3 비상계엄 해제 표결에 참여한 국민의힘 주진우 의원이 우원식 당시 국회의장이 의결 정족수가 찼는데도 이재명 대통령(당시 더불어민주당 대표) 입장을 기다렸다가 표결을 진행했다는 취지로 법정에서 주장했다.&lt;br&gt;&lt;br&gt;주 의원은 12일 서울중앙지법 형사34부(재판장 한성진) 심리로 열린 추경호 대구시장의 내란 중요 임무 종사 혐의 재판에 증인으로 나와 “이재명 당시 민주당 대표가 국회에 들어오기를 기다렸다가 표결한 것으로 생각했다”고 진술했다. 주 의원은 당시 여러 국민의힘 의원이 계엄 해제 표결에 참여하지 못한 것은 당시 국민의힘 원내대표였던 추 시장이 의원총회 장소를 바꿔서가 아니라 국회 출입 봉쇄와 갑작스럽게 당겨진 본회의 시간 때문이라는 취지로 증언했다. 추 시장은 계엄 당시 국민의힘 의원총회 장소를 여러 차례 바꾸는 등 의원들의 국회 진입과 계엄 해제 요구안 표결 참여를 방해한 혐의로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;주 의원은 “(2025년 12월 4일 새벽) 이미 계엄 해제 요구안을 단독 처리할 수 있는 정족수인 150명을 넘은 지 한참 됐는데도 표결을 진행하지 않았다”며 “민주당 의원들조차 우 의장에게 왜 표결을 빨리 하지 않느냐고 항의했다”고 했다. 그러면서 “정말 긴급했다면 이 대표 출석과 상관없이 신속히 의결했어야 한다”며 “(이 대통령 출석에 맞춰) 갑자기 본회의 시간을 당기다 보니 국민의힘 의원들이 들어오기에 현실적으로 어려웠다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;그는 증인 신문이 끝날 무렵에도 발언 기회를 얻어 “민주당 의원들이 빨리 해달라고 하는데 의장이 기다리라고 했다”며 “표결 직전에 이재명 대통령이 들어오고 표결했다. 그래서 이재명 대통령을 기다렸다고 생각한다”고 강조했다. 이어 “이미 150석을 넘은 상황에서 190석, 200석이 되더라도 법적 효력에는 차이가 없다”고 했다. &lt;br&gt;&lt;br&gt;주 의원은 국민의힘 의원들이 표결에 참여하지 못한 주된 원인은 당시 국회 출입 통제였다고도 했다. 그는 “국회가 다시 열렸다고 했다가 또 봉쇄되는 등 출입 통제 시간과 강도가 시시각각 변했다”며 “의원들이 국회가 막혀 당사로 갔고, 이후에는 물리적으로 시간이 부족했다”고 했다. 그는 ‘추 시장이 의총 장소를 바꿔 표결권이 침해된 것 아니냐’는 취지의 질문에도 “표결권 침해의 주된 원인은 국회 봉쇄였다”고 했다. 주 의원은 그러면서 “추 시장이 국회에 들어가는 것을 반대한다는 생각 자체를 해본 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45DSKYTBKZMO3GD4VTQEFEYIUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박수민 국민의힘 의원이 4일 서울 여의도 국회에서 열린 의원총회에 참석하며 의원들과 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 증인으로 나온 국민의힘 박수민 의원도 추 시장이 의총 장소를 바꾼 것 때문에 여당 의원들이 표결에 참여하지 못한 것은 아니라고 증언했다. 당시 국회 출입이 막히자 직접 담을 넘어 본회의장에 들어갔던 박 의원은 “담을 타서 내가 아는데, 진입이 정말로 어려웠다”며 “당사에 있던 의원들이 원내대표의 당사 집결 공지 때문에 못 들어왔다는 것은 전혀 그렇지 않다”고 했다. 조경태·김상욱 의원 등이 추 전 원내대표의 잇단 의총 장소 변경 때문에 표결하지 못했다는 취지로 주장한 데 대해서도 “왜 그렇게 해석하는지 이해하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지적장애 여성 성폭행 혐의, 인천 한 중소기업 전 임원 구속</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/08/12/F6IUDHDV5READNCOPB7XQV3I5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/08/12/F6IUDHDV5READNCOPB7XQV3I5I/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 11:23:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RN3DYTBLBCNJKOGVHWCXVVZXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 로고./인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 지적장애 여성을 여러 차례 성폭행한 혐의를 받는 중소기업 전 임원이 구속됐다.&lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 성폭력범죄의 처벌 등에 관한 특례법상 장애인 준강간 혐의로 60대 A씨를 구속했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;전경호 인천지법 영장전담 부장판사는 이날 구속 전 피의자 심문(영장실질심사)을 한 뒤 “증거를 인멸하고 도주할 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 여름부터 올해 6월까지 장애인 표준사업장으로 등록된 한 세탁업체에서 함께 근무한 20대 지적장애 여성 B씨를 여러 차례 성폭행한 혐의를 받고 있다. 현재 A씨와 B씨는 모두 퇴직한 상태다.&lt;br&gt;&lt;br&gt;경찰은 지난 3월 관련 신고를 접수해 수사를 벌여왔다. B씨는 신고 이후 아이를 출산해 양육 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B씨의 아버지는 이날 장애인 단체와 함께 기자회견을 열고 “가해자는 범행 이후 사과 한마디 없었고 양육 책임도 언급하지 않았다”며 “또 다른 피해자가 발생하지 않도록 엄벌해 달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, ‘주사 이모’ 의혹 샤이니 온유·전현무 소환 조사</title>
       <link>https://www.chosun.com/national/national_general/2026/08/12/WIXOR7OABNBNHFZMB3PBDTZO7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/12/WIXOR7OABNBNHFZMB3PBDTZO7Q/</guid>
@@ -823,15 +881,6 @@
       <description/>
       <pubDate>Wed, 12 Aug 2026 09:58:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQSRL5NRWJHRZMESMP2BENXOUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;샤이니 온유(왼쪽), 방송인 전현무. /네이버 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박나래 등 유명인들에게 불법 의료 시술을 했다는 이른바 ‘주사 이모’ 의혹과 관련해 샤이니 멤버 온유와 방송인 전현무가 경찰 조사를 받은 것으로 12일 확인됐다.&lt;br&gt;&lt;br&gt;이날 서울 강남경찰서는 의료법 위반 혐의를 받는 온유와 전현무를 지난 6월 불러 조사했다고 밝혔다.&lt;br&gt;&lt;br&gt;‘주사 이모’로 불리는 이모씨는 국내 의사 면허 없이 오피스텔과 차량에서 수액 주사를 놓거나 처방전을 수집해 의약품을 사재기하는 등 불법 의료 행위를 한 혐의로 수사받고 있다.&lt;br&gt;&lt;br&gt;경찰은 박나래, 온유, 전현무에 이어 지난달 초에는 다른 샤이니 멤버 키와 유튜버 입짧은햇님(본명 김미경)도 소환해 조사한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;온유의 소속사는 지난해 논란이 터지자 “당시 병원의 규모 등을 고려할 때 현재 온라인상에 불거진 의료 면허 논란에 대해서는 인지하기 어려웠다”고 해명했다. 전현무의 소속사 SM C&amp;amp;C는 진료 기록부를 공개하며 “병원에서 이루어진 합법적 진료 행위의 연장선이었다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>과거 장벽 넘어…진실규명 유족 81명 승소</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2026/08/12/XH6AVCKOPFDIXES3DTCX7VJOS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/08/12/XH6AVCKOPFDIXES3DTCX7VJOS4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 10:20:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Q6ELNGU7NHV5GVEB467PYHUV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소멸시효로 국가배상을 받지 못했던 한국전쟁기 희생자 유족들이 배상받게 됐다.&lt;br&gt;&lt;br&gt;창원지법 마산지원 민사5부(부장판사 손태원)는 12일 국민보도연맹 사건과 마산형무소 재소자 희생 사건 등으로 숨진 희생자 유족 81명이 국가를 상대로 낸 손해배상 청구소송에서 원고 승소 판결을 했다.&lt;br&gt;&lt;br&gt;재판부는 원고들이 청구한 위자료 약 20억원을 모두 인정했다.&lt;br&gt;&lt;br&gt;원고 가운데 일부는 2009년 진실·화해를 위한 과거사정리위원회(진실화해위)로부터 진실규명 결정을 받았다. 하지만 국가배상청구권의 소멸시효가 지나 배상을 받지 못했다.&lt;br&gt;&lt;br&gt;지난 2월 개정된 ‘진실·화해를 위한 과거사정리 기본법’이 시행되면서 배상 청구 길이 다시 열렸다. 진실규명 결정을 받은 피해자와 유족은 소멸시효가 완성됐더라도 법 시행일부터 3년 안에 손해배상을 청구할 수 있다.&lt;br&gt;&lt;br&gt;이번 소송에는 창원·진주·경북 군위·경주·대구 지역 국민보도연맹 희생자와 경남·부산지역 형무소 재소자 희생 사건 유족 등이 참여했다.&lt;br&gt;&lt;br&gt;소송을 맡은 박미혜 변호사는 “경남지역에서 소멸시효가 지난 희생자 유가족이 승소한 첫 사례로 알고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>종합특검, ‘계엄 정당화 메시지’ 윤석열·신원식 기소</title>
@@ -877,51 +926,6 @@
       <description/>
       <pubDate>Wed, 12 Aug 2026 08:13:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHLQJ7JVF5D3DDF4T2HJ6J7F7M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최근 부산 남구 신선대 부두와 감만 부두 야적장에 수출입 컨테이너가 쌓여 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3주 연속 하락했던 한국형 컨테이너 운임 지수(KCCI)가 2주 연속 상승으로 돌아섰다. 선사들의 선복(화물 내 공간) 관리와 파나마 운하 등의 병목 부담으로 미주·남미·중동 지역 컨테이너 운임이 동시에 반등했기 때문이다.&lt;br&gt;&lt;br&gt;12일 한국해양진흥공사(해진공)에 따르면, 10일 기준 KCCI는 지난주보다 150포인트(3.6%) 오른 4288포인트를 기록했다. 글로벌 운임 지표인 상하이컨테이너운임지수(SCFI)도 지난주보다 70.17포인트(2.2%) 오른 3276.14포인트였다.&lt;br&gt;&lt;br&gt;KCCI는 해진공이 자체적으로 개발해 발표하는 한국형 컨테이너 운임 지수로, 2022년 7월부터 매주 월요일에 발표하고 있다. 이 지수는 부산항을 기점으로 미주, 유럽, 중동, 연근해(중국·일본·동남아)로 향하는 13개 주요 항로의 컨테이너선 운임 변화를 쉽게 파악할 수 있도록 설계됐다.&lt;br&gt;&lt;br&gt;이번 주엔 일반운임인상(GRI) 이후 선사들의 감편과 항차 조정, 성수기 할증료 적용 등이 복합적으로 영향을 미치며 미주·남미·중동이 동시에 반등했다. 특히 파나마 운하와 중동의 공급 제약이 겹치면서 지난주 대비 상승했다. 다만 유럽·지중해는 성수기 수요 둔화와 공급 여유로 약세가 이어졌다.&lt;br&gt;&lt;br&gt;세부적으로 미주 항로는 선사들의 공급 조절이 컨테이너 운임 가격 형성에 영향을 주고 있다. 또 파나마 운하의 운영 횟수 제한이 더해지면서 미주 동안과 서안이 모두 반등했다.&lt;br&gt;&lt;br&gt;현재 파나마 운하는 이란 전쟁 발발 이후 통행량이 급증한 데다 가뭄 때문에 수위가 낮아지면서 통항 가능 횟수가 덩달아 줄어들었다. 11일(현지 시각) 영국 파이낸셜타임스에 따르면, 이달 파나마 운하 통행권 경매 가격이 평균 110만달러(약 15억5000만원)에 달했다. 이는 지난해 같은 기간 대비 16배를 웃도는 수준이다.&lt;br&gt;&lt;br&gt;유럽 항로는 상반기부터 앞당겨 진행됐던 성수기 수요의 둔화와 공급 측 부담이 동시에 나타나고 있다. 특히 아시아~유럽 항로에선 상대적으로 선복이 타이트한 상황에서도 현물 운임이 계속 하락하고 있다.&lt;br&gt;&lt;br&gt;중동 항로는 항행 위험뿐만 아니라 사우디아라비아 제다항 등 대체 허브항에 화물이 집중되면서 항만 체선과 육상 연결망 과부하가 선복 회전율을 낮추고 있다. 제다항의 물리적 병목이 해소되기 전까진 컨테이너 운임의 변동성이 높은 수준을 유지할 것으로 해진공은 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘갈비 사자’ 바람이, 끝내 떠났다… 청주동물원서 22년 삶 마감</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/12/4IDCRKCYTVD2FMHF5TEDYAG4LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/12/4IDCRKCYTVD2FMHF5TEDYAG4LY/</guid>
-      <dc:creator>청주=신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 07:12:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHXH3G6KHZEYFJBKIXEG4YXGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일명 '갈비 사자'로 불리던 수사자 바람이가 청주동물원에서 평화롭게 지내고 있는 모습/청주시 유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비좁은 우리에 방치돼 ‘갈비 사자’로 불렸던 수사자 바람이가 끝내 숨을 거뒀다. 열악한 사육 환경을 벗어나 청주동물원에서 새 삶을 시작한 지 3년여 만이다.&lt;br&gt;&lt;br&gt;청주시는 12일 오전 8시쯤 청주동물원에서 바람이가 폐사한 것을 확인했다고 밝혔다. 정확한 폐사 원인은 부검 등을 통해 확인할 예정이다. 다만 22살의 고령인 점을 고려하면, 노환에 따른 자연사 가능성이 큰 것으로 보고 있다.&lt;br&gt;&lt;br&gt;2004년 서울어린이대공원에서 태어난 바람이는 2016년 경남 김해의 한 민간 동물원으로 옮겨졌다. 이후 좁은 실내 우리에서 홀로 생활하며 제대로 된 관리를 받지 못했다. 늑골이 드러날 정도로 마른 모습이 알려지면서 ‘갈비 사자’라는 이름으로 불렸다.&lt;br&gt;&lt;br&gt;앙상하게 마른 모습이 언론과 사회관계망서비스(SNS)를 통해 확산되자 구조를 요구하는 목소리가 이어졌다. 바람이는 국내 민간 동물원의 열악한 사육 환경을 보여주는 사례로 주목받았다.&lt;br&gt;&lt;br&gt;청주동물원은 소유주와 협의를 거쳐 2023년 7월 5일 바람이를 구조했고, 이튿날 청주동물원으로 옮겼다. ‘더 좋은 삶을 살기를 바란다’는 뜻을 담아 ‘바람이’라는 이름을 붙였다.&lt;br&gt;&lt;br&gt;◇청주동물원에서 보낸 3년&lt;br&gt;&lt;br&gt;청주에 온 바람이는 처음에는 낯선 환경에 적응하지 못해 실내 공간에서 머무는 시간이 길었다. 이후 사육사들의 관리와 재활 치료를 받으며 건강을 회복했고, 방사장에서 보내는 시간이 점차 늘었다. 두 달여 만에 정상 체형을 되찾으면서 구조 당시의 앙상한 모습도 사라졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBEBRBY2CRDCPPRQCN3GUA7KHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주동물원으로 이송 중인 '갈비 사자' 바람이. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바람이는 자연형 야생동물보호시설에서 생활하며 암사자 ‘도도’와 적응 과정을 거쳐 함께 지냈다. 지난해에는 김해에서 태어난 딸 ‘구름이’도 청주동물원으로 옮겨오면서 부녀가 다시 만나기도 했다.&lt;br&gt;&lt;br&gt;청주동물원을 찾는 관람객에게 바람이는 대표적인 동물이었다. 방사장에서 쉬거나 먹이를 먹는 모습을 보기 위해 발걸음을 멈추는 관람객이 많았고, 청주동물원 유튜브에는 바람이의 근황을 묻는 댓글도 꾸준히 이어졌다.&lt;br&gt;&lt;br&gt;◇마지막까지 버틴 22살 수사자&lt;br&gt;&lt;br&gt;고령인 바람이의 건강은 최근 들어 급격히 나빠졌다. 지난 6월 17일에는 기력이 떨어지고 먹이 반응이 없어 CT 촬영과 내시경 검사 등을 받았다. 당시 검사에서는 식도 부종과 위염, 복수가 확인됐다. 치료를 받은 뒤엔 다시 먹이를 먹고 활동하는 모습을 보이기도 했다.&lt;br&gt;&lt;br&gt;하지만 바람이는 또다시 며칠 동안 먹이 활동을 하지 못했고, 전날인 11일 작은 움직임을 보이다 이날 숨을 거뒀다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3FAKD7PYJBYHCQBFJFQP2Y4QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 5일 청주동물원에서 바람이의 팬들이 청주동물원으로 옮겨온 지 3년째를 맞아 이날을 '다시 태어난 날'로 여기고 생일 축하 행사를 열고 있다./청주시 유튜브 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불과 보름여 전인 지난달 24일에는 청주동물원 유튜브 콘텐츠 ‘주멘터리’를 통해 바람이의 22번째 생일을 기념하는 영상이 공개됐다. 영상에는 청주동물원으로 옮겨온 과정과 최근 생활 모습이 담겼다. 한동안 떨어졌던 식욕을 회복해 먹이를 먹는 모습도 영상에 담겼다. 그것이 시민들에게 공개된 마지막 바람이의 모습이 됐다.&lt;br&gt;&lt;br&gt;사자의 평균 수명은 10~15년으로, 22살인 바람이는 평균 수명을 크게 넘긴 초고령 사자였다.&lt;br&gt;&lt;br&gt;청주동물원은 정확한 폐사 원인을 확인하기 위한 부검과 정밀 분석을 진행하고 있다. &lt;br&gt;&lt;br&gt;또 관람객들이 찾아와 바람이를 추모할 수 있도록 동물원 가장 높은 곳에 있는 추모 공간에 바람이 명패를 걸어놓을 예정이다.&lt;br&gt;&lt;br&gt;청주시 관계자는 “바람이는 열악한 환경에서 구조돼 건강을 회복한 대표적인 사례였다”며 “그동안 바람이를 아끼고 응원해 주신 시민들께 감사드리고, 앞으로도 구조 동물들이 더 나은 환경에서 살아갈 수 있도록 동물복지 향상에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘법왜곡죄’ 고발된 판사 529명…법원, 변호인단 꾸려 지원</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/12/BLM32X2J5VCANLZKWYXMQ3GKMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/12/BLM32X2J5VCANLZKWYXMQ3GKMA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 07:23:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZKPIJRJTBGSBJ5T22HBMQA45I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 법원행정처는 12일 대법원 본관 직무소송 지원변호사 위촉식을 가졌다고 밝혔다. /법원행정처 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판과 관련해 고소·고발이나 민사소송을 당한 법관을 지원하는 변호사단이 구성됐다. ‘법왜곡죄’ 시행 등 법관을 상대로 한 고소·고발이 잇따르면서 재판 업무가 위축될 수 있다는 우려에 따른 조치다.&lt;br&gt;&lt;br&gt;대법원 법원행정처는 이날 형사사건 경험과 전문성을 갖춘 변호사 10명을 직무소송 지원변호사로 위촉했다고 밝혔다. 주요 법원의 전·현직 국선변호인 가운데 각급 법원의 추천을 받아 구성됐다.&lt;br&gt;&lt;br&gt;앞으로 법관이나 법원공무원이 직무와 관련해 형사 사건이나 민사소송에 휘말릴 경우 본인이 희망하면 법원행정처가 지원 변호사단 소속 변호인을 선임할 수 있도록 지원한다.&lt;br&gt;&lt;br&gt;기존에도 법관과 법원공무원이 직무 수행 과정에서 소송을 당했을 때 지원하는 제도가 있었지만, 형사 사건이나 정부법무공단이 지원할 수 없는 민사소송의 경우에는 변호인이나 소송대리인 선임을 지원할 근거가 없었다. 이에 따라 피소된 법관이 직접 변호사를 알아보고 선임해야 했다. 법원행정처는 지난 5월 관련 내규를 전면 개정해 변호인 선임을 지원할 근거를 새로 마련했다.&lt;br&gt;&lt;br&gt;지원 한도는 고소·고발을 당해 수사를 받는 단계에서는 1000만원, 기소된 이후에는 2000만원이다. 사건의 성격이나 법적 쟁점이 복잡해 지원액이 부족하다고 판단되면 심의위원회 의결을 거쳐 지원액을 늘릴 수도 있다. 법원행정처는 지난달에는 내규를 다시 고쳐 변호사 선임비뿐 아니라 인지대·송달료·우편비 등 실제 소송에 들어간 비용도 지원할 수 있도록 했다. 이런 실비는 영수증을 제출하면 심의위원회를 열지 않고 지원할 수 있다.&lt;br&gt;&lt;br&gt;법원행정처는 “최근 법관과 법원공무원을 상대로 한 고소·고발이나 인신공격 등이 늘면서 사법부 구성원들의 부담이 커지고 있다”며 “형사재판부 기피 현상과 형사재판 담당 법관들의 육체적·정신적 피로도도 심화하고 있다”고 했다. 경찰청에 따르면 지난달 24일 기준 법왜곡죄 혐의로 고발된 법관은 529명이다. &lt;br&gt;&lt;br&gt;법원행정처는 “법원 구성원들이 외부적 부담 증가에도 위축되지 않고 본연의 임무에 전념할 수 있는 근무 환경을 조성하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘불법 선거운동’ 혐의, 정근 회장… 항소심서 벌금 200만원 </title>
-      <link>https://www.chosun.com/national/regional/2026/08/12/74J5ULI7SZEJJKSKDGNY6OATZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/12/74J5ULI7SZEJJKSKDGNY6OATZQ/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 07:25:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIZXCPTZBYPHPGVKR3MDTDHZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정근 온병원그룹 회장. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 4·2 부산교육감 재선거를 앞두고 병원 직원들을 상대로 특정 후보의 선거운동을 한 혐의로 기소된 정근 온병원그룹 회장이 항소심에서 벌금 200만원으로 감형됐다.&lt;br&gt;&lt;br&gt;부산고법 형사2부(재판장 박운삼)는 12일 지방교육자치에 관한 법률 위반 혐의로 기소된 정 회장에 대한 항소심 선고공판에서 벌금 400만원을 선고한 원심을 파기하고 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;정 회장은 작년 3월 부산교육감 재선거를 앞두고 최윤홍 당시 후보를 홍보하는 글을 온종합병원 직원 업무용 단체 채팅방에 올리는 등 34차례에 걸쳐 직무상 지위를 이용해 선거운동을 한 혐의로 재판에 넘겨졌다. 그가 글을 올린 단체 채팅방에는 1147명이 참여하고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인의 죄책이 가볍지는 않지만, 당심에 이르러 뒤늦게나마 범행을 인정하고 잘못을 반성하는 태도를 보이고 있다”며 “최윤홍 후보가 낙선해 선거 결과에 큰 영향을 미쳤다고 보기 어려운 점과 의료인으로서 지역사회에 기여한 점 등을 고려하면 원심의 형은 무겁다고 판단된다”고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “벌금 400만원에서 벌금액을 줄이는 것이 피고인에게 큰 의미가 없다는 점은 알고 있다”면서 “피고인이 간부들에게 여론조사 연락을 받은 직원 명단을 취합하도록 하거나 최윤홍 후보와 관련된 기사에 댓글을 게시하도록 지시하기도 해 피선거권이 제한되지 않는 수준의 형을 선고하기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;지방자치법 위반으로 100만 이상 선고를 받아 형이 확정되면 피선거권이 5년간 제한된다.&lt;br&gt;&lt;br&gt;한편, 정 회장은 ‘음료 컵 피습 자작극’ 혐의로 구속된 정이한 전 개혁신당 부산시장 후보의 아버지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영훈 “노란봉투법 시행령 보완 검토”, 월권 논란 일 듯</title>
-      <link>https://www.chosun.com/national/labor/2026/08/12/6UIGPXBVHFHRFITPU7K3XHSXEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/08/12/6UIGPXBVHFHRFITPU7K3XHSXEI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 06:21:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6BNNRSV6RAKRJ3V6WTWGZGHPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관이 12일 오전 서울 여의도 국회에서 열린 기후에너지환경노동위원회 전체회의에서 의원 질의에 답하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관은 노란봉투법이 규정한 노동 쟁의 범위를 구체화하는 방법으로 “시행령이나 시행규칙 등 어떤 방법이 있을지 다각도로 검토하고 있다”고 12일 밝혔다. 당초 고용노동부는 국무회의를 통해 지난 2월 내놓은 해석 지침을 보완하는 방안을 이재명 대통령에게 보고했는데, 이 대통령이 법령으로 보완하라고 지시하자 방향을 바꾼 것이다.&lt;br&gt;&lt;br&gt;김 장관은 이날 국회 기후에너지환경노동위원회 전체회의에서 국민의힘 나경원 의원에게 “노란봉투법 하위 법령을 바꾸겠느냐”는 질문을 듣고 이렇게 답했다. 김 장관은 “업무 지침(해석 지침)으로 충분히 모호성을 해소할 수 있을 것으로 생각했는데 대통령께서 지침보다는 구체적인 제도화 검토를 지시하셨다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러나 전문가들은 노란봉투법 자체에 대한 개정 없이 노동부가 시행령 등을 개정할 경우, ‘위법·무효(법에 어긋나고 행위·처분의 법적 효력이 인정되지 않음)‘와 월권 논란 등이 이어질 것으로 전망한다. 시행령은 법률이 위임한 범위 안에서 집행 기준 등을 구체화하는 것인데, 노동부가 이를 넘어 핵심 기준을 새롭게 설정하는 셈이기 때문이다. 더욱이 노란봉투법엔 구체적 사항을 시행령 등에 위임하게 하는 ‘수권조항(授權條項)’도 없다. 김희성 강원대 법학전문대학원 교수는 “새 기준에 경영계와 노동계 모두 불리하다고 반발하며 결국 또 다른 소송전이 불가피할 것”이라며 “지금이라도 노란봉투법의 태생적 오류를 인정하고 법 자체를 재개정해야 한다”고 했다. 나경원 의원도 이날 “하위법령이 아니라 노란봉투법 개정이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;노동부는 지난 2월 노란봉투법 시행령을 마련할 때도 절차적 사항만 구체화 하고, 논란이 되는 사용자 지위 여부, 쟁의 범위 등 구체적 판단 기준은 모두 해석 지침에 담았다. 한 노동계 관계자는 “노동부가 시행령에 손대게 되면 앞으로 노란봉투법으로 일어나는 모든 혼란은 노동부가 짊어져야 할 가능성이 크다”며 “노동부 역시 그런 상황을 원치 않아 해석 지침만 보완하려 했던 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 호남 반도체 메가 특구 내 주 52시간 근로제 완화 추진과 관련해 김 장관은 이날 “정해진 바는 없다”고 답했다. 앞서 당정이 호남 반도체 클러스터 등 ‘메가 특구’에 주 최대 52시간 근무제와 기간제·파견 근로자 고용 제한 등 노동 규제를 대폭 완화해 주는 방안을 추진한다는 게 알려지자, 노동계는 “규제 완화는 개악”이라며 반발하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지적 장애 여성 성폭행 혐의… 60대 男, “죄송합니다”</title>
-      <link>https://www.chosun.com/national/incident/2026/08/12/4G4ZQJN2ABG2NMWAJN2OYXX6EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/12/4G4ZQJN2ABG2NMWAJN2OYXX6EU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 05:59:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRGCZLEGBRGCMTCGVQTIZLCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지적 장애가 있는 20대 여성을 여러 차례 성폭행한 혐의를 받는 60대 남성 A씨가 구속 전 피의자심문을 위해 12일 인천지법에 들어서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지적 장애인을 성폭행한 혐의로 구속영장이 청구된 전 중소기업 임원 60대 남성이 12일 구속 전 피의자 심문(영장실질심사)을 받기 위해 인천지법에 출석했다.&lt;br&gt;&lt;br&gt;성폭력범죄의 처벌 등에 관한 특례법상 장애인 준강간 혐의를 받는 A씨는 “성폭행 혐의를 인정하느냐”는 취재진 질문에 “할 말이 없다”고 답했다. “피해자 가족들에게 할 말이 없느냐” “합의에 의한 관계를 주장하느냐”는 질문엔 “죄송하다”고 했다. &lt;br&gt;&lt;br&gt;전경호 인천지법 영장 전담 부장판사는 이날 오후 2시 30분부터 A씨의 영장실질심사를 진행한다. 영장 발부 여부는 오후 늦게 결정될 예정이다. &lt;br&gt;&lt;br&gt;A씨는 지난해 여름부터 올해 6월까지 지적 장애가 있는 20대 여성 B씨를 여러 차례 성폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨 부모는 딸의 임신과 성폭행 피해 상황을 전해 듣고 지난 3월 경찰에 신고했다. B씨는 임신한 아이를 출산해 양육 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인천지적발달장애인복지협회 장애인성폭력상담소는 이날 오후 인천지법 앞에서 기자회견을 열고 “피해자는 자신이 근무하던 사업장 전직 간부로부터 성폭력을 당해 임신과 출산 등으로 심각한 고통을 겪고 있다”며 “사건의 중대성과 피해자 보호 필요성을 고려해 피의자를 구속해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울시 노인 버스비 지원 아직인데... 서초구, 65세 버스비 지원책 내놓아</title>
