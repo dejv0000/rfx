@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>현직 경찰 연루 교통 사망사고…난폭·보복 운전 여부 조사중</title>
+      <link>https://www.chosun.com/national/regional/2026/08/13/QTSMV5LY3BGJPKRJBDYQWJOLSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/13/QTSMV5LY3BGJPKRJBDYQWJOLSA/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 14:02:40 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3TEYZRGAZGEMRTMU4DSMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰관이 연루된 교통사고를 수사 중인 경찰이 운전자들 사이에 난폭·보복 운전이 있었는지 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;13일 광주 서부경찰서와 광산경찰서에 따르면 경찰은 최근 사고 차량의 블랙박스 영상을 국립과학수사연구원에 보내 사고 당시 각 차량의 주행 속도·사고 회피 가능성 등에 대한 감정을 의뢰했다.&lt;br&gt;&lt;br&gt;사고는 지난 9일 오후 5시 58분쯤 전남광주 광산구 하남산단 인근 도로를 주행 중이던 광산경찰서 소속 A 경장의 승용차와 스포츠유틸리티차(SUV)가 부딪치면서 시작됐다.&lt;br&gt;&lt;br&gt;3차로를 주행 중이던 SUV가 1차로로 차로 변경을 하는 과정에서 2차로를 주행 중이던 A 경장의 승용차와 충돌했고, 그 여파로 SUV가 중앙선을 넘어가면서 마주 오던 다른 승용차와 2차 사고가 났다.&lt;br&gt;&lt;br&gt;2차 사고로 승용차에 타고 있던 운전자·동승자 60대 부부, SUV 탑승자 2명 등 5명이 중경상을 입고 병원으로 옮겨져 치료받고 있다.&lt;br&gt;&lt;br&gt;이 중 승용차에 타고 있던 60대 여성은 크게 다쳐 의식을 회복하지 못했는데, 이날 오후 숨진 것으로 확인됐다.&lt;br&gt;&lt;br&gt;당시 운전자 3명 모두 무면허 운전이거나 음주 상태는 아니었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 블랙박스 영상뿐만 아니라 각 차량의 주행 동선에 설치된 CCTV 영상도 확보해 사고 발생 전 운전자들 간 주행 경합, 난폭·보복 운전이 있었는지도 살펴보고 있다.&lt;br&gt;&lt;br&gt;또 사고 전후로 차량들의 주행 상태를 규명하기 위해 차량 감식도 의뢰했다.&lt;br&gt;&lt;br&gt;현재까지 사고 직전 뚜렷한 주행 경합은 없었다고 경찰은 설명했다.&lt;br&gt;&lt;br&gt;광산경찰서는 같은 경찰서 소속 경찰관이 연관된 사고인 만큼 수사 공정성을 위해 인접 경찰서인 서부경찰서로 사건을 넘겼다.&lt;br&gt;&lt;br&gt;경찰은 국과수 감정 결과와 운전자 진술 등을 토대로 정확한 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 달서구 ‘재정 비상 체제’ 선언...594억 신규 사업 중단</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/13/7W3DXKCS5ZFPDBAAKFDYDUQSK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/13/7W3DXKCS5ZFPDBAAKFDYDUQSK4/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 11:59:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M46V3YEJLFGERKQGLVDPIGLRVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 대구 달서구청에서 김용판 달서구청장이 재정 비상체제 전환을 선언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 달서구가 ‘재정 비상 체제’로 전환한다. 수백억 원 규모의 소모성 사업과 축제 등을 중단해 예산을 아끼는 반면, 취약 계층을 위한 복지 및 주민 안전 예산을 유지하자는 취지다. 2023년부터 3년간 재정 자립도가 감소하고 가용 예산이 줄어들자 내린 조치다.&lt;br&gt;&lt;br&gt;김용판 달서구청장은 13일 기자회견을 열고 “달서구의 재정 상황을 근본부터 바꾸기 위해 ‘재정 비상 체제 전환 및 예산 운용 대혁신’을 선언한다”고 밝혔다.&lt;br&gt;&lt;br&gt;달서구 재정 자립도는 2023년 21.9%에서 올해 17.28%로 해마다 감소했다. 총 예산은 1조원인 반면, 달서구에서 실질적으로 사용할 수 있는 재원인 순세계잉여금(세입에서 세출을 뺀 나머지 금액)은 2021년 525억원에서 지난해 147억원으로 줄었다. 재난과 경제 악화 등 긴급한 상황에 쓰이는 통합재정안정화기금은 3억원 정도가 남았다. 김 청장은 “지난해 송현2동 행정복지센터와 달서구 보훈회관 건립을 위해 지방채만 60억원을 발행해야 했다”며 “주민을 위해 필요한 시설조차 빚을 내야만 지을 수 있는 재정 상황 자체가 문제”라고 했다.&lt;br&gt;&lt;br&gt;김 청장은 재정 위기의 원인 중 하나로 경제성을 따지지 않고 우후죽순 건립한 공공시설을 꼽았다. 달서구에서 지난해 준공된 공공시설 6곳의 건립비는 총 559억원에 달했다. 올해 조성 중인 달성습지 에코전망대, 달서별빛천체과학관, 달서생태관 등 3곳에 투입될 총 사업비도 594억원에 달한다.&lt;br&gt;&lt;br&gt;정부나 대구시 공모 사업과 사회복지 정책에 따라 구에서 의무적으로 부담해야 하는 재원 역시 재정 자립도를 해치는 요인으로 꼽혔다. 달서구가 공모로 따낸 상인2동·두류3동·신당동 도시재생사업의 총사업비 450억 중 129억원을 구에서 부담한다. 노령 인구 증가에 따른 달서구의 올해 사회복지 예산은 총예산의 73.29%인 8678억원으로, 전국 기초지자체 중 셋째로 높다.&lt;br&gt;&lt;br&gt;달서구는 예산을 효율적으로 활용해 재정 건전성을 확보하겠다는 목표다. 먼저 달성습지 에코전망대를 비롯해 594억원이 투입되는 공공시설 3곳에 대한 사업이 전면 중단된다. 상인 2동 등 도시재생사업 역시 사업 시기를 조정해 재정 효율성을 높이고 예산 낭비 요소를 점검한다는 방침이다.&lt;br&gt;&lt;br&gt;단순 소모성 축제와 행사도 정비한다. 김 청장은 “그간 관행적으로 이어진 노래자랑식 축제나 저효율 행사는 통·폐합하겠다”며 “현재 56개 사업에 대해 검토 중이며, 지역 상권 활성화에 기여하는 사업만 남겨서 발전시킬 것”이라고 했다. 다만 어르신·장애인·취약계층 등을 위한 필수 복지 예산과 주민 안전 관련 예산은 유지할 계획이다.&lt;br&gt;&lt;br&gt;재정자립도 향상을 위한 정부 차원의 협조도 요청했다. 김 청장은 “2006년 이후 19.24%로 고정된 지방교부세 법정 교부율을 현실에 맞게 인상하고, 자치구도 시·군처럼 보통교부세를 직접 받을 수 있도록 지방교부세법을 개정해야 한다”며 “기초지자체가 지역의 미래에 투자할 최소한의 재정 여력을 보장해 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국교위, ‘학교시민교육 기본원칙안’ 수정 조건 의결  </title>
+      <link>https://www.chosun.com/national/education/2026/08/13/353GQEAWORGBLFCS4IFTUKT6PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/13/353GQEAWORGBLFCS4IFTUKT6PI/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 11:27:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTENZXMRTDQM3DMUZDSZJTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차정인 국가교육위원회 위원장이 13일 서울 종로구 세종대로 정부서울청사에서 열린 2026년 제8차 회의에서 모두 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가교육위원회가 ‘학교시민교육 국가 기본원칙안’을 일부 수정하는 조건으로 의결했다. ‘사회적으로 견해가 나뉘는 사안을 교육할 때 일방적·편향적 주입을 막고 정치적 중립성을 유지한다’는 수정 문구를 두고는 일부 위원들이 문제를 제기했다.&lt;br&gt;&lt;br&gt;국가교육위원회(국교위)는 13일 서울 종로구 정부서울청사에서 제8차 회의를 열고 학교시민교육 국가 기본원칙안을 수정 의결했다. 원칙안은 학교시민교육을 헌법의 가치와 질서에 기반해 학생들이 공공의 문제를 사실과 근거에 따라 판단하고, 다원성과 민주적 절차를 존중하며 공동체의 공적 삶에 책임 있게 참여하는 시민적 역량을 기르는 교육으로 정의했다.&lt;br&gt;&lt;br&gt;오늘 국교위에서 논의된 원칙안은 온라인으로 수렴한 국민 의견과 교원단체의 의견을 반영한 수정본이었다. ‘모든 영역에서 발생하는 시의성 있는 사안들을 다룬다’는 문구는 학교를 ‘뉴스센터화’ 하는 것을 막겠다는 취지로 ‘다룰 수 있다’로 고쳤다. ‘반시민적 행위’라는 다소 강한 표현은 ‘민주 시민의 자세에 어긋나는 행위’로 수정됐다.&lt;br&gt;&lt;br&gt;교육 활동상의 원칙 부분에서는 ‘사회적으로 견해가 나뉘는 사안을 다룰 때 정치적 중립성을 유지한다’는 내용 앞에 ‘일방적·편향적 주입이 되지 않도록’이라는 표현이 추가됐는데, 이에 대해서는 일부 위원들이 문제를 제기했다. &lt;br&gt;&lt;br&gt;이보미 위원(대구교사노조 위원장)은 “한국 교사들은 OECD 국가 중 유일하게 정치적 기본권이 없다”며 “전직 대통령 비하 발언이나 사투리 등 혐오 표현도 지도를 못하는 현실에서 ‘정치적 중립성’을 강조하는 건 부적절하다”고 했다. 그러면서 “오히려 교사들을 과하다 싶을 정도로 보호해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;박영환 위원(전교조 위원장)도 “‘정치적 중립성’을 명시해 교사의 손발을 묶고, ‘일방적·편향적 주입’이라는 표현을 더해 입까지 막는 것”이라고 했다. 이어 “‘헌법상으로 보장된 가치들을 교사들이 명확하게 교육한다’고 하는 것만으로 충분하다”고 말했다.&lt;br&gt;&lt;br&gt;차정인 국교위 위원장은 해당 조항에 대해 “사회적으로 견해가 나뉘는 사안인지, 명확하게 가르칠 사항인지 시비가 될 수 있다”면서도 “운영하다 보면 갈래가 잡히고 분류가 될 것”이라고 했다. 이어 “교사가 자율적으로 (정치적 중립성을) 잘 지킬 수 있도록 조문을 적는 것이 위원들의 합의 사항”이라고 마무리했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성매매하는 줄 알면서 모텔 빌려주고 3년간 월세 2억원 받은 건물주…대법 “전액 추징”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/13/SH6RMANGLJCKHLZBGTN2ZF2S7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/13/SH6RMANGLJCKHLZBGTN2ZF2S7A/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+      <content:encoded>건물주가 성매매 영업에 쓰인다는 걸 알면서도 모텔을 계속 빌려줬다면 건물 월세도 범죄 수익에 해당한다는 대법원 판단이 나왔다. 대법원은 모텔 이용객 중 일반 숙박객이 섞여 있더라도, 건물주가 받은 임대료를 전액 추징해야 한다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BA23FW7ZIJCMFFSM4VVY7ZZQRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 지난 6월 성매매처벌법 위반 혐의로 기소된 건설업체 대표 A씨의 상고심에서 추징을 명령하지 않은 원심을 깨고 사건을 서울중앙지법으로 돌려보냈다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2017년 서울 관악구의 한 모텔을 사들였다. 당시 모텔 임차인 B씨는 과거 성매매 알선 영업으로 영업정지 처분을 받았고, 재차 적발돼 2018년 영업소 폐쇄 처분까지 받은 상태였다. A씨는 2019년 B씨로부터 “내 명의로는 임대차계약을 할 수 없다”는 말을 듣고 B씨의 배우자 명의로 B씨와 새 계약서를 썼다.&lt;br&gt;&lt;br&gt;두 사람은 보증금 3억원에 월세 800만원으로 계약을 맺었고, 이를 한 차례 연장되면서 보증금 2억5000만원에 월세 550만원으로 조정했다. A씨가 B씨로부터 챙긴 월세는 2019년~2022년 약 3년간 총 2억3270만원에 달한다. B씨는 모텔을 운영하면서 이른바 ‘여관바리(여관 성매매)’ 방식의 성매매 알선 영업을 이어나갔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇1심 “전액 추징”→2심 “성매매 고객은 일부, 추징액 특정 못 해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;1심은 A씨가 자신의 모텔에서 불법 성매매 알선이 이뤄지는 사실을 알고 있었다면서 징역 1년에 집행유예 2년을 선고하고, 월세 전액을 추징했다.&lt;br&gt;&lt;br&gt;그러나 항소심은 형은 유지하면서 월세에 대한 추징은 취소했다. B씨가 운영한 모텔엔 일반 손님과 성매매 손님이 섞여 있어, 월세 전액을 범죄 수익이라고 보기 어렵다는 이유였다. 실제로 B씨는 법정에서 ‘모텔은 일반 숙박객이 대부분이었고, 성매매 고객은 10%도 채 되지 않았다’고 진술했는데, 항소심 재판부는 이를 근거로 “월세 중 범죄수익을 특정할 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;또 항소심은 B씨의 형사사건에서 범죄수익으로 인정돼 추징된 금액이 약 6000만원인 점을 언급하며 “성매매 알선에 직접 관여하지 않은 A씨에게 2억원이 넘는 금액을 추징하는 건 부당하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4TQNTDMYZWIYRWMY4WKMDBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대법 “추징 대상은 건물 월세, 모텔 매출액 아냐”&lt;/b&gt;&lt;br&gt;&lt;br&gt;그러나 대법원은 항소심 판단을 뒤집었다. 대법원은 “성매매에 제공되는 사실을 알면서 토지와 건물을 제공하고 그 대가로 받은 차임은 성매매 알선 행위로 실제 취득한 이익으로, 추징 대상”이라고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 이때 추징 대상은 ‘모텔 매출액’이 아닌 ‘건물 월세’이기 때문에, 일반 손님으로부터 받은 숙박비가 구체적으로 특정되지 않았다는 사정만으로 추징을 안 할 순 없다고 봤다. B씨가 벌어들인 매출에 일반 숙박객이 지불한 금액이 포함돼 있는 것과 관계없이, 장소를 제공하는 방식으로 성매매 알선에 가담했다면 이를 대가로 받은 금액을 전부 범죄수익으로 봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 “원심에서 추징을 선고하지 않아 추징 부분만 따로 떼어내 파기할 수 없으므로, 원심 판결을 전부 파기한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>빌라 관리비 때문에...이웃 살해한 60대 징역 18년</title>
       <link>https://www.chosun.com/national/regional/2026/08/13/2THJH5E3AVDU7NDZRUHWRFDAXQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/13/2THJH5E3AVDU7NDZRUHWRFDAXQ/</guid>
@@ -802,24 +838,6 @@
       <content:encoded>&lt;b&gt;▲김치관 &lt;/b&gt;별세, &lt;b&gt;김윤호 &lt;/b&gt;前 서울문화사 부국장·&lt;b&gt;김미경&lt;/b&gt; 국제로타리클럽 한국지국 부지국장·&lt;b&gt;김미선&lt;/b&gt;·&lt;b&gt;김경희 &lt;/b&gt;부친상, &lt;b&gt;박영서 &lt;/b&gt;디지털타임스 논설위원·&lt;b&gt;이택우&lt;/b&gt; 장인상=11일12시 서울성모병원, 발인 14일9시, (02)2258-5975&lt;br&gt;&lt;br&gt;&lt;b&gt;▲이정순 &lt;/b&gt;별세, &lt;b&gt;김복수 &lt;/b&gt;모친상=11일11시59분 정읍장례문화원, 발인 13일9시30분, (063)535-7777&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 주화파(主和派)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/08/13/FRUEA4UXINDLRCCWIIHV42KJ54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/08/13/FRUEA4UXINDLRCCWIIHV42KJ54/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EB4LXTDFRF6LMJ7TUDPRSNSEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 진땀이 나다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/08/13/P6ZJB4TZ5RGYDGY2WVCXO76PXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/08/13/P6ZJB4TZ5RGYDGY2WVCXO76PXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDM2SL6M5BFOJEUOMNNOR67W6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 말끔히 사라지다</title>
       <link>https://www.chosun.com/national/nie/chinese/2026/08/13/W3ZSXJUNRRGABGVEDTGA6GMSFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/08/13/W3ZSXJUNRRGABGVEDTGA6GMSFE/</guid>
@@ -827,24 +845,6 @@
       <description/>
       <pubDate>Wed, 12 Aug 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTN6G4U4HRGD3LHV4OBPX6BU2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] talk the talk and walk the walk</title>
-      <link>https://www.chosun.com/national/nie/english/2026/08/13/67QJ2SPX2VGZDITVTSD6GVN7NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/08/13/67QJ2SPX2VGZDITVTSD6GVN7NU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCOYDPHCNNAQRGSFFV4UEUSRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2927] 날씨 따라 삼천리</title>
-      <link>https://www.chosun.com/national/nie/2026/08/13/QT2JMDGK2FDL3F7LNVDGSQBG74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/13/QT2JMDGK2FDL3F7LNVDGSQBG74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BLQRIVVIBFIRFOBAYNXZZIUTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘VIP 격노 은폐 의혹’ 황유성·문연철 구속영장 기각...“범죄 혐의 다툼 여지”</title>
