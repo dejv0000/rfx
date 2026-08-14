@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전 여친 모텔서 둔기로 수차례 폭행…도주하다 추락한 30대</title>
+      <link>https://www.chosun.com/national/incident/2026/08/14/6JHCFZLGMFELVE66WMSQJGL7BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/14/6JHCFZLGMFELVE66WMSQJGL7BM/</guid>
+      <dc:creator>성남=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Aug 2026 13:46:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 여자친구를 둔기로 수차례 폭행해 살해하려 한 30대 남성이 경찰에 붙잡혔다. 남성은 범행 직후 달아나다 건물 아래로 추락해 중상을 입었다.&lt;br&gt;&lt;br&gt;경기 분당경찰서는 살인미수 혐의로 30대 남성 A씨를 입건해 조사하고 있다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 12일 오후 1시 40분쯤 경기 성남시 분당구의 한 모텔에서 전 여자친구 B씨의 머리 등을 둔기로 여러 차례 때려 살해하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 B씨의 비명을 들은 목격자가 경찰에 신고했다. 신고를 받고 출동한 경찰은 주변 감시카메라를 분석해 범행 직후 달아난 A씨의 동선을 추적했다.&lt;br&gt;&lt;br&gt;경찰은 추적 과정에서 인근 다른 건물 앞에 중상을 입은 채 쓰러져 있는 A씨를 발견해 병원으로 옮겼다. A씨는 대퇴부 골절 등을 입어 현재 중환자실에서 치료받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 도주하면서 건물 사이를 뛰어넘으려다 아래로 떨어진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 범행에 사용한 둔기를 미리 준비한 점 등을 토대로 살인의 고의가 있었다고 판단해 살인 미수 혐의를 적용했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 치료를 마치는 대로 신병을 확보해 정확한 범행 동기와 사건 경위 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종합특검, ‘내란 가담’ 강호필 前 지작사령관·박재열 前 7군단장 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/14/NI4FLLDO7ZGALOL7FQV44FH7PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/14/NI4FLLDO7ZGALOL7FQV44FH7PI/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Aug 2026 12:35:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZTGZDDGE4GCN3DG5STSNRWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12.3 비상계엄에 가담한 의혹을 받는 강호필 전 육군 지상작전사령관이 지난달 13일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 법원을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 14일 강호필 전 지상작전사령관과 박재열 전 제7군단장을 내란 중요 임무 종사 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;강 전 사령관은 12·3 비상계엄 선포 당시 지상작전사령부를 계엄 대응 체제로 전환하는 데 관여한 혐의를 받는다. 특검은 강 전 사령관이 계엄 선포 이후 지작사 내부 상황실 구성에 관여하고 위기조치반과 사령부 전 간부 소집을 지시했다고 보고 있다. 박 전 단장(현 전략사령관)은 계엄 임무를 수행할 예하 부대를 소집하고, 강 전 사령관의 지시에 따르는 등 계엄에 가담한 혐의를 받는다. &lt;br&gt;&lt;br&gt;강 전 사령관은 또 비상계엄 시행 전부터 관련 논의에 참여했다는 의혹도 받고 있다. 여인형 전 국군방첩사령관은 비상계엄 선포 한 달 전쯤 “ㅈㅌㅅㅂ 4인은 각오하고 있음”이라는 내용의 휴대전화 메모를 작성했는데, 특검은 해당 초성이 각각 지상작전사령관, 특수전사령관, 수도방위사령관, 방첩사령관을 의미한다고 보고 있다.&lt;br&gt;&lt;br&gt;강 전 사령관은 계엄에 반대하며 전역 의사까지 밝혔던 인물이다. 2024년 7월 윤석열 전 대통령이 미국 하와이를 방문했을 때 합참 차장이었던 강 전 사령관은 수행했다. 강 전 사령관은 당시 윤 전 대통령이 김용현 당시 대통령경호처장 등에게 “군이 나서야 하는 것 아니냐”고 하는 걸 듣고, 귀국 후 신원식 당시 국방장관에게 “대통령이 군을 정치에 끌어들이려 한다. 김용현이 위험한 발언을 하며 동조를 강요하니 나는 전역하고 싶다”고 보고한 것으로 조사됐다. 이에 신 전 장관은 김 전 처장에게 전화로 항의했다. 얼마 후 윤 전 대통령은 국방장관을 신원식에서 김용현으로 교체했다.&lt;br&gt;&lt;br&gt;특검은 강 전 사령관에 대한 구속영장을 청구했으나 서울중앙지법은 지난달 13일 “범죄혐의에 다툼의 여지가 있고, 증거인멸 및 도망할 염려가 있다고 보기 어렵다”며 영장을 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴욕 타임스퀘어에 뜬 ‘봉화사과’… 공무원이 사비 털어 광고했다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/08/14/BTQ7EOCDBFDITFEW7AGB5ACQZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/08/14/BTQ7EOCDBFDITFEW7AGB5ACQZ4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Aug 2026 13:19:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDSOBUGZTGKNDCHA3WIY3GME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴욕 타임스퀘어 광고판에 뜬 봉화사과 광고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 뉴욕 타임스스퀘어 한복판에 ‘봉화 사과’ 광고가 등장했다. 경북 봉화군의 한 공무원이 사비 32만9000원을 들여 낸 광고다. 한글로 쓰인 광고가 타임스스퀘어 전광판에 내걸린 사진이 인터넷을 통해 확산하면서 홍보 효과가 극대화 되고 있다.&lt;br&gt;&lt;br&gt;봉화 사과 광고는 지난 13일 오후 1시 36분(한국시각)부터 14일 오후 12시 36분까지 매시간 36분에 15초씩 내걸렸다. 광고에는 사과 사진과 함께 ‘봉화사과 맛있지만 광고 안 합니다’라는 문구가 한글로 쓰였다. &lt;br&gt;&lt;br&gt;봉화군에 따르면, 해당 광고는 농산물 홍보를 담당하는 주무관이 사비 32만9000원을 지불했다.&lt;br&gt;&lt;br&gt;담당자는 ‘봉숭이 주무관’으로 봉화군 공식 소셜미디어(SNS) 계정에서 활동하는 가상 캐릭터다. 봉숭이 주무관은 SNS를 통해 “이렇게까지 하지 않으면 봉화사과를 알아주지 않는다”면서 “해외 노출 자체보다 이를 활용한 이슈화로 국내 홍보 효과를 극대화하려 했다”고 말했다.&lt;br&gt;&lt;br&gt;미국에서 한글로 광고를 내보내 현지에서 이해하지 못할 수 있지만, 온라인을 통한 국내 홍보 효과를 기대했다는 것이다.&lt;br&gt;&lt;br&gt;타임스퀘어에 봉화사과 광고 소식이 SNS를 통해 알려지자 하루 만에 ‘좋아요’ 7000개를 넘겼다. 댓글에는 ‘진짜인가 싶어서 라이브로 확인했는데 진짜였다’ ‘봉화 사과 처음 알았는데 주문 넣겠다’ ‘궁금해서 봉화 사과를 바로 주문했다’ 등의 반응이 이어졌다.&lt;br&gt;&lt;br&gt;봉화군은 지난 4월부터 ‘봉숭이 주무관’을 앞세워 이색적인 농산물 홍보를 진행하고 있다. 지난 6월에는 서울 잠실야구장에 봉숭이 주무관이 시타자로 나서 눈길을 끌었다.&lt;br&gt;&lt;br&gt;봉화군 관계자는 “봉화는 해발 400~500m에 위치해 일교차가 커 사과가 자라기 좋다”면서 “타임스스퀘어 광고 등을 통해 봉화 사과를 널리 알리겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AL7NS3D2ERAMRNWVRG22ERPKK4.jpg?auth=215da138e9d272e70ac44dc08bc2a067f87b7858e47aa59ea46cc4869f2ca561&amp;smart=true&amp;width=378&amp;height=284" type="image/jpeg" height="284" width="378">
+        <media:description type="plain">뉴욕 타임스퀘어 광고판에 뜬 봉화사과 광고</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[현장르포] 울면 안아주고 다시 요가…‘아기동반운동’에 몰린 엄마들</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/14/OKZ2BXBD5FGZVNTM4XJ64DIGAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/OKZ2BXBD5FGZVNTM4XJ64DIGAA/</guid>
+      <dc:creator>한영원 기자, 이성현 인턴기자(고려대 미디어학부 졸업)</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTECLM76BECFO6UXMCPL22QUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 '유아 동반 프로그램'을 운영하는 서울 송파구의 한 요가원. 운동을 하는 엄마 옆에한 아기가 엎드려 놀고 있다./이성현 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 오후 2시 서울 송파구의 한 요가원. 교실 문을 열고 들어가자 요가 매트 8개 사이사이로 요가볼 등 운동 기구와 함께 딸랑이, 젖병 같은 아기 용품들이 놓여 있었다. 이날 수업이 시작되자 엄마들은 두 팔을 머리 위로 쭉 뻗고 허리를 비틀었다. 엄마가 운동하는 사이 아기들은 장난감을 쥐고 팔을 흔들거나, 요가 매트 사이를 엉금엉금 기어다니는 등 제각각의 방식으로 놀았다. &lt;br&gt;&lt;br&gt;이곳은 아기를 키우는 엄마들이 아기를 데리고 와 운동할 수 있는 요가원이다. 지난해 아기 동반 수업을 한 차례 시범으로 열었다가 예상보다 수요가 몰려 아예 정규 수업으로 전환했다. 이날 생후 6개월짜리 아기와 함께 요가 수업에 참석한 이지영(35)씨는 “운동하려면 아이를 누구에게 맡길지가 가장 큰 고민이었다”며 “이제는 ‘나도 이제 운동할 수 있겠다’는 생각이 들었다”고 했다. &lt;br&gt;&lt;br&gt;이처럼 운동은 엄두조차 못 냈던 아기 엄마들을 위한 ‘아기 동반 운동’ 프로그램이 늘고 있다. 부모가 운동하는 동안 아기가 바로 옆에서 놀 수 있도록 하거나, 직원이 아기를 잠시 돌봐주는 형태다. 육아 부담으로 ‘내 시간’ 갖기 힘든 부모들을 위해 마련됐다.&lt;br&gt;&lt;br&gt;이날 8명의 아이 엄마들과 함께 요가 수업을 진행한 정구선 원장은 “출산 후에는 대부분의 시간을 아기를 위해 보내게 된다”며 “이 수업만큼은 엄마 자신을 위한 시간이 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWHBTIFI55AYFPU2AJWS7BSHJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 '유아 동반 프로그램'을 운영하는 서울 송파구의 한 요가원. 운동을 하는 엄마 옆에서 한 아이가 젖병을 물고 있다./이성현 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제로 영유아를 키우는 부모들의 여가 시간 부족은 통계로도 나타난다. 국가데이터처의 ‘2024 생활시간조사’에 따르면 미취학 가구원이 있는 가구의 하루 가사 노동 시간은 그렇지 않은 가구보다 2시간 8분이 길었다. 그 결과 여가·문화 생활에 쓰는 비용도 적었다. 지난해 육아정책연구소 분석에 따르면, 영유아를 키우는 가구의 월평균 여가·문화 생활비는 15만4000원으로 무자녀 가구(49만9000원)의 3분의 1에 못 미쳤다. 아이를 둔 가구의 부모일수록 나를 위해 쓰는 각종 비용이 적었다는 뜻이다. &lt;br&gt;&lt;br&gt;상황이 이렇다 보니 지자체에서도 돌봄을 결합한 운동 프로그램을 내놓고 있다. 서울 서초보건지소는 지난 2023년부터 보육 교사를 별도로 채용해 부모가 산후 필라테스를 받는 동안 아이를 돌봐준다. 서울 중구도 올해 3월 ‘엄마랑 아기랑 모자 건강 필라테스’ 수업을 시작했다. 최근 생후 5개월 아기와 함께 지자체 아기 동반 운동 수업에 참여했다는 노아림(33)씨는 “아이를 맡겨놓고 산후 회복 운동을 할 수 있는 유일한 시간이었다”고 했다. &lt;br&gt;&lt;br&gt;전문가들은 이를 육아로 여가 생활에서 소외됐던 부모들에게 다시 ‘자기 시간’을 돌려주려는 시도라고 평가했다. 정재훈 서울여대 사회복지학과 교수는 “이른바 ‘독박 육아’로 상징되는 여성들의 돌봄 부담을 덜어주는 사회적 지원의 한 형태라는 점에서 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>32개월 아이 떠나보낸 엄마 “소아 응급 의료시설 확충 필요” 청원</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/08/14/C62HGY62HNEBRI4ZPH2W2LIVTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/08/14/C62HGY62HNEBRI4ZPH2W2LIVTA/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Aug 2026 11:43:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BA46IJQQ6NJFNIUS4H5Q7J2P6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 속 119구급차. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 32개월 된 아들을 잃은 어머니가 소아 응급 의료시설 확충을 호소하는 청원을 올려 2만명이 넘는 동의를 얻고 있다.&lt;br&gt;&lt;br&gt;14일 본지 취재를 종합하면 지난달 11일 오후 4시 9분쯤 경기 평택시에서 A(3)군이 이상 증세를 보인다는 119 신고가 접수됐다. 당일 오전 어지럼증과 소화 장애 증세를 보여 병원 진료를 받은 A군이 재차 열 발작을 일으키자 어머니 B씨가 신고한 것이다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119 구급대는 평택에 중증 소아 응급환자를 수용할 시설이 없어 24㎞ 떨어진 충남 천안시 단국대병원으로 A군을 이송했다.&lt;br&gt;&lt;br&gt;당시 천안 순천향대병원과 수원 아주대병원 등 소아 전문 응급의료센터를 갖춘 다른 병원으로의 이송도 검토됐으나 이들 병원 또한 각각 24㎞, 42㎞씩 떨어져 있다.&lt;br&gt;&lt;br&gt;이송 중 구토 증세를 보인 A군은 약 30분 만인 오후 4시 39분 병원에 도착해 패혈성 쇼크 진단과 함께 치료를 받았다.&lt;br&gt;&lt;br&gt;하지만 다음 날 A군의 상태가 악화하자 병원과 어머니는 A군을 서울 소재 병원으로 옮기기로 결정했다. A군은 서울의 한 병원 소아 중환자실에서 치료를 받았지만, 이튿날인 지난달 12일 결국 숨을 거뒀다.&lt;br&gt;&lt;br&gt;B씨는 청원글을 통해 “아이들은 면역력이 약해 작은 상처나 장염에도 갑작스럽게 급성 패혈증이 올 수 있고, 한 시간이 긴급한 질병이라고 한다”면서 “평택에 소아 응급실이 있었다면 아이가 죽지 않고 치료를 받거나 웃으며 소중한 시간을 보낼 수 있었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “우리의 미래 어린이들이 치료받을 수 있는 환경을 조속히 만들어 더 이상 아이를 떠나보내고 부모들이 단장지애의 고통을 겪지 않을 수 있도록 도와달라”고 했다.&lt;br&gt;&lt;br&gt;국회전자청원에 게시된 B씨의 청원글은 이날 오후 8시 기준 2만900여 명의 동의를 얻었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘돌려차기’ 피해자, “범죄 피해 안 당하려면 부적 붙여야” [판읽기]</title>
       <link>https://www.chosun.com/national/court_law/2026/08/14/XPTAYWCZ7ZGMVECRLWPGRP5EAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/14/XPTAYWCZ7ZGMVECRLWPGRP5EAE/</guid>
@@ -875,55 +923,6 @@
       <description/>
       <pubDate>Thu, 13 Aug 2026 08:10:51 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S35JF25I4RDF3HRCOIY4L7UASY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이강영 세브란스병원장 /세브란스병원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이강영(59) 세브란스병원장이 13일 한독과 대한병원협회가 공동 제정한 ‘한독학술경영대상’ 수상자로 선정됐다.&lt;br&gt;&lt;br&gt;이 상은 2004년부터 매년 국민 보건 의료 향상과 병원 경영 발전에 기여한 의료계 인사에게 수여돼 왔다.&lt;br&gt;&lt;br&gt;이강영 병원장은 연세대 의대 출신으로, 대장직장암 최소침습수술 분야에서 권위를 인정받는 대장항문외과 전문의다. 세브란스병원 로봇내시경수술센터 소장, 세브란스병원 적정진료관리실장, 연세의료원 기획조정실장 등을 거쳐 2024년 4월부터 세브란스병원장을 맡고 있다.&lt;br&gt;&lt;br&gt;이 병원장은 AI 기반 스마트병원 구축과 첨단 의료기술 도입을 통해 미래형 상급종합병원 모델을 제시한 공로 등을 인정받았다.&lt;br&gt;&lt;br&gt;국내 의료기관 최초로 생성형 인공지능(AI) 기반 진료지원 플랫폼 ‘Y-KNOT(Yonsei-Knowledge Network of Transformer)’을 개발·도입했다. 또 해외 의료취약계층 지원, 선한 사마리아인 SOS 프로젝트, 1% 나눔운동 등을 통해 사회공헌 활동을 펼쳤다. 국제개발협력사업과 글로벌 의료 네트워크 구축 등 국제 의료협력, K-의료의 세계화에도 앞장섰다. &lt;br&gt;&lt;br&gt;시상식은 오는 19일 서울 강남구 삼성동 코엑스에서 열린다. 이 병원장에게는 상금 1000만원과 약연탑이 수여된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 14일 금요일 (음력 7월 2일 庚申)</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/13/6NCW3EJ3RZBGFFULURMK575RYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/13/6NCW3EJ3RZBGFFULURMK575RYU/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>혼자 있던 슈퍼마켓 주인 살해하고 금품 빼앗아… 40대 男 “혐의 인정”</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/13/ZZC5KX4SOFANHIQ7O5A46RMQWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/13/ZZC5KX4SOFANHIQ7O5A46RMQWY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 07:39:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUDMYWSUKJJGJL4AVIVDA3CTJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;슈퍼마켓에서 70대 업주를 살해하고 현금 등을 훔쳐 달아난 혐의를 받는 40대 A씨. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;슈퍼마켓 주인을 살해하고 현금 등을 훔쳐 달아난 혐의로 구속 기소된 중국 국적의 40대 남성이 13일 첫 재판에서 자신의 혐의를 인정했다. &lt;br&gt;&lt;br&gt;인천지법 형사 15부(재판장 김정헌)는 이날 강도살인 혐의로 구속 기소된 A씨에 대한 첫 재판을 진행했다. &lt;br&gt;&lt;br&gt;A씨 변호인 측은 “공소사실에 대해 모두 인정한다. 다만, 피고인이 한국어 의미를 잘 모르는 부분에 대해 진술한 내용이 있어 일부 증거 내용에 대해 부인하는 취지”라고 했다. &lt;br&gt;&lt;br&gt;연갈색 수의를 입고 법정에 들어온 A씨는 재판장의 인정 심문에 답하고, 국민참여재판은 원하지 않는다고 했다. “둔기는 왜 갖고 있었느냐”는 재판장 질문에 A씨는 “전에 일할 때 가방에 있었던 것”이라고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 6일 오후 9시쯤 인천 미추홀구 도화동의 한 수퍼마켓 업주인 70대 남성 B씨를 둔기로 살해한 뒤, B씨 손가락에 끼워져 있던 200만원 상당의 금반지와 현금 70만원, 담배, 라이터 등을 빼앗아 달아난 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;그는 당시 혼자 가게를 지키고 있던 B씨 슈퍼마켓 주변에 머물면서 범행 기회를 엿본 것으로 파악됐다. &lt;br&gt;&lt;br&gt;범행 다음 날 붙잡힌 A씨는 경찰 조사에서 “돈을 노리고 범행했다”는 취지로 진술했고, 빼앗은 현금은 모두 사용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 앞서 5월 9일 오후 9시쯤 같은 슈퍼마켓에서 주인이 자리를 비운 사이 현금 270만원을 훔친 혐의도 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>환경미화원에 ‘계엄령 놀이’ 前 양양군 공무원 실형</title>
-      <link>https://www.chosun.com/national/regional/2026/08/13/Q5OU6MEAVVFM3NIKZRZFQE2JDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/13/Q5OU6MEAVVFM3NIKZRZFQE2JDM/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>환경미화원들에게 이른바 ‘계엄령 놀이’를 하며 상습적으로 폭행·협박한 전 강원 양양군청 공무원이 항소심에서도 실형을 선고받았다.
-춘천지법 강릉지원 형사1부(재판장 이배근)는 강요 등 혐의로 기소된 전 양양군 소속 7급 운전직 공무원 A(40대)씨에게 원심과 같은 징역 1년 8개월을 선고했다고 13일 밝혔다.</description>
-      <pubDate>Thu, 13 Aug 2026 07:35:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WULJDAEZCBK4FCPEO4KIVBC6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 양양군 소속 7급 운전직 공무원 A씨가 작년 12월 5일 춘천지법 속초지원에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경미화원들에게 이른바 ‘계엄령 놀이’를 하며 상습적으로 폭행·협박한 전 강원 양양군청 공무원이 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 강릉지원 형사1부(재판장 이배근)는 강요 등 혐의로 기소된 전 양양군 소속 7급 운전직 공무원 A(40대)씨에게 원심과 같은 징역 1년 8개월을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;청소차를 몰던 A씨는 작년 7월부터 11월까지 함께 근무하던 20대 환경미화원 3명에게 137차례에 걸쳐 폭행과 협박 등을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 자신이 투자한 주식의 주가가 떨어지면 “주가가 원하는 가격이 될 때까지 비상 계엄을 선포한다, 말을 듣지 않으면 제물로 삼아 밟겠다”며 환경미화원들을 이불로 뒤집어씌운 뒤 발로 밟아 폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 “주가가 올라야 한다”며 상한가를 상징하는 빨간색 속옷을 입게 하고, 자신이 투자한 주식을 사도록 강요하기도 했다. 환경미화원들을 향해 담배꽁초를 던지거나 비비탄 총을 쏘기도 했다.&lt;br&gt;&lt;br&gt;A씨는 항소심 결심 공판에서 “피해자분들께 저로 인해 심각한 상처와 고통을 겪고 계신 점 진심으로 머리 숙여 사죄드린다”며 선처를 호소했다. 반면 피해자들은 재판부에 엄벌 탄원서를 제출하며 A씨의 처벌을 원했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “범행 경위와 방법 등에 비춰 범행 내용이 무겁다”면서 “반성문을 제출했으나, 피해자들이 외상 후 스트레스 장애 등 이 사건으로 정신적·심리적 고통을 호소하고 있는 점을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;강원도는 지난 4월 징계위원회를 열고 A씨에 대한 파면 처분을 의결했다. A씨는 이에 불복해 소청을 제기했으나, 강원도는 이를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산구치소 동료 수감자 폭행 사망… 20대 3명 징역 9년</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/13/56XWQHMRNJAOHI6YILCV5LTRVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/13/56XWQHMRNJAOHI6YILCV5LTRVE/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 07:33:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQWKY3CGJSWIZRVMU4DANZRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산구치소에서 20대 재소자를 상습적으로 폭행해 숨지게 한 혐의로 재판에 넘겨진 20대 남성 3명이 중형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 나원식)는 13일 살인 등 혐의로 기소된 부산구치소 수감자 A(22)씨와 B(21)씨, C(28)씨에게 각각 징역 9년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 작년 8~9월 동료 재소자였던 D(24)씨를 상습적으로 폭행해 숨지게 한 혐의를 받는다. 이들은 위생 문제와 잦은 실수 등을 이유로 D씨를 폭행했다.&lt;br&gt;&lt;br&gt;특히 B씨와 C씨는 왜소한 체격을 가진 D씨를 지속적으로 괴롭혔다. 폭행 흔적이 남지 않도록 목 부위를 때리거나 목을 팔로 감아 기절시켰다고 한다. 폭력 조직 칠성파 소속인 A씨는 작년 8월 하순쯤 입소해 B, C씨와 함께 부채나 밥상 모서리로 D씨의 발톱을 찍어 빠지게 하는 등 가혹 행위를 저질렀다.&lt;br&gt;&lt;br&gt;이들은 작년 9월 7일 오후 바지와 수건 등으로 눈을 가린 뒤 D씨의 복부를 수차례 폭행했다. 결국 D씨는 의식을 잃고 쓰러졌다. 이들은 곧바로 교도관에게 알리지 않았고 심폐 소생술과 인공호흡을 번갈아 가며 했다. 이후 교도관이 순찰하자 뒤늦게 피해자가 화장실에서 갑자기 쓰러졌다고 알렸다.&lt;br&gt;&lt;br&gt;검찰은 지난달 6일 열린 결심 공판에서 피고인들에게 각각 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 피고인들이 살인의 고의를 갖고 범행을 저질렀다고 단정하기 어렵다며 살인이 아닌 상해치사죄를 적용해야 한다고 판단했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인들은 피해자의 생활 태도에 대한 불만으로 폭행해 온 것으로 보이는데 이 같은 고의가 폭행이나 상해를 넘어 살해로 전환될 만한 특별한 정황은 찾기 어렵다”며 “범행 중 피해자 사망이라는 발생 가능성을 구체적으로 인식하고 감수하며 폭행했다고 보기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;이어 “다른 범행으로 수감 중에도 자숙하지 않고 구치소에서 폭행과 상해를 입혀 죄질이 좋지 않은 점, 범죄 전력 등을 양형에 참작한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>잠든 가야 문명 깨어난다… 7개 고분군 잇는 ‘세계유산축전’ 28일 개막</title>
-      <link>https://www.chosun.com/national/2026/08/13/7JJB6PY5JZGH7OSSQWWSK232FU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/13/7JJB6PY5JZGH7OSSQWWSK232FU/</guid>
-      <dc:creator>김해=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 07:27:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRAENJ2VLBOKBDNPQTBGUJDPL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 김해 대성동 고분군. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유네스코 세계유산으로 등재된 가야고분군 7곳이 하나의 거대한 축제의 장(場)으로 변신한다.&lt;br&gt;&lt;br&gt;재단법인 가야고분군 세계유산관리재단은 28일부터 9월 10일까지 영·호남에 걸친 7개 가야고분군 일대에서 ‘2026 세계유산축전-가야고분군’을 개최한다고 13일 밝혔다. 국가유산청을 비롯해 경남·경북·전북 등 3개 도(道)와 경남 김해시·함안군·고성군·합천군·창녕군, 경북 고령군, 전북 남원시 등 7개 시·군이 공동으로 참여한다. 2023년 가야고분군이 세계유산에 등재된 이후 처음으로 함께 여는 대규모 축전이다.&lt;br&gt;&lt;br&gt;행사를 주관하는 가야고분군 세계유산관리재단은 28일 오후 7시 함안박물관에서 ‘7개의 이야기, 하나의 문명’을 주제로 개막식을 연다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYWGZLEMM2GMZJVGA4TSYRSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7개 가야고분군에서 동시 개최하는 '2026 세계유산축전'의 포스터. /재단법인 가야고분군 세계유산관리재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행사장마다 각 고분군이 지닌 역사·문화적 가치를 다양한 공연과 전시, 체험 콘텐츠로 구현할 예정이다.&lt;br&gt;&lt;br&gt;대표 프로그램은 ‘별 보러 가야로!’다. 가야인들이 바라본 밤하늘을 별자리 해설과 천체 관측으로 살펴보는 야간 프로그램이다. ‘나는 가야의 장인’ ‘나는 대한민국의 고고학자’ 프로그램을 통해 고분 축조부터 유물 발굴·실측·기록까지 실제 발굴 조사 전 과정을 체험할 수 있다. 플로깅으로 세계유산을 직접 가꾸고 퀴즈를 풀며 가야 역사를 배우는 프로그램도 마련한다. 지역 먹거리와 공연도 함께 즐길 수 있다. &lt;br&gt;&lt;br&gt;7개 고분군을 하나의 여정으로 연결하는 스탬프 투어도 운영한다. 행사 기간 4곳 이상의 고분군을 방문하면 출토 유물을 활용한 기념품 7종 세트를 받을 수 있다. &lt;br&gt;&lt;br&gt;밤의 고분군을 배경으로 예술을 즐기는 ‘야금야금 프로그램’도 마련했다. 무대와 객석의 경계를 허물고 참가자와 출연자가 함께 명상과 요가를 체험하며 발레·첼로·가야금 공연을 감상하는 방식이다. 이 밖에도 어린이가 직접 해설사로 나서 관람객에게 소개하는 ‘가야고분군 어린이 해설사’와 온라인 사진 공모전도 진행한다. 모든 체험 프로그램은 공식 홈페이지를 통한 사전 예약제로 운영한다. 국가유산청은 우리나라에 있는 유네스코 세계유산 가치를 소개하는 세계유산 축전을 매년 개최한다.&lt;br&gt;&lt;br&gt;관리재단 관계자는 “이번 축전은 누구나 세계유산의 가치를 배우고 즐기며 함께 만들어가는 뜻깊은 자리가 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJI2S7H2Y5FE5MKUKE56A6BTAQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한반도 남부에 남아 있는 가야 유적 7곳을 묶은 가야고분군은 지난 2023년 유네스코 세계문화유산이 됐다. 당시 유네스코 세계유산위원회는 “분군의 지리적 분포, 입지, 고분의 구조와 규모, 부장품 등을 통해 주변국과 공존하면서 자율적이고 수평적인 독특한 체계를 유지해 온 가야를 잘 보여준다”며 “동아시아 고대 문명의 다양성을 보여주는 중요한 증거가 된다는 점에서 ‘탁월한 보편적 가치(OUV)’가 인정된다”고 평가했다. &lt;br&gt;&lt;br&gt;가야는 기원 전후부터 562년까지 주로 낙동강 유역을 중심으로 번성한 작은 나라들의 총칭으로, 대가야·금관가야·아라가야 등이 알려져 있다. 세계유산에 등재된 가야 고분군은 경북 고령 지산동 고분군, 경남 김해 대성동 고분군, 경남 함안 말이산 고분군, 경남 창녕 교동과 송현동 고분군, 경남 고성 송학동 고분군, 경남 합천 옥전 고분군, 전북 남원 유곡리와 두락리 고분군이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3GGZDFGEZWCYZQGQ2GKZBTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 고성 송학동고분군. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 김해시에 따르면 올해 대성동 고분 박물관 누적 관람객 수는 7월 말 기준 7만 3622명을 기록했다. 지난해 연간 총 관람객(7만 1233명)을 반년 만에 훌쩍 넘어선 수치다. 이는 가야 고분군 세계유산 등재 후 강화된 홍보 활동과 최근 부산에서 열린 제48차 유네스코 세계유산위원회의 효과로 분석된다. &lt;br&gt;&lt;br&gt;현재 무료로 진행 중인 세계유산 한일 교류 특별전 ‘신의 섬 가야를 만나다’ 역시 관람객 유치에 크게 기여하고 있다. 문화체육관광부의 ‘공립박물관 평가 인증제’를 3회 연속 통과한 전문성을 바탕으로, 하반기 예정된 세계유산 축전과 연계해 상승세를 이어간다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의사 구인난에... 신안군 ‘연봉 4억’ 내걸었다</title>
