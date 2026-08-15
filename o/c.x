@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광복절 연휴 남해안·지리산 ‘극한호우’…최대 250㎜ 이상</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/15/AN4HJ6QCEJHFJHQFSBQTKH5XDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/15/AN4HJ6QCEJHFJHQFSBQTKH5XDY/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 03:05:08 +0000</pubDate>
+      <content:encoded>광복절 연휴 남해안과 지리산 부근에 최대 250㎜가 넘는 많은 비가 내릴 전망이다. 일부 지역에는 시간당 70㎜ 이상의 매우 강한 비가 쏟아질 수 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;15일 기상청에 따르면 제13호 태풍 ‘돌핀’이 약화한 저기압이 우리나라 남서쪽에서 다가오면서 제주와 서해안을 시작으로 비가 내리고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPYQXKFJIJNGNPR4A5T6Y7XACA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 집중 호우가 내린 강원 강릉시 왕산면 도마리 일대 도로에서 차량이 물보라를 튀기며 서행하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비는 15일 낮 남해안, 저녁에는 남부지방으로 확대되고 16일 새벽부터는 전국 대부분 지역에 내리겠다. 중부지방은 17일 새벽부터 차차 비가 잦아들고, 제주를 제외한 대부분 지역은 17일 낮이면 비가 그칠 전망이다.&lt;br&gt;&lt;br&gt;15~17일 예상 강수량은 경남서부남해안과 지리산 부근 100~200㎜로, 많은 곳은 250㎜ 이상이다. 전남과 부산·울산·경남에는 50~150㎜, 대구·경북과 제주에는 50~100㎜가 예상된다. 제주 산지에도 200㎜ 넘는 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;특히 16일 새벽부터 오전 사이 전남동부남해안과 경남서부남해안, 지리산 부근에는 시간당 30~50㎜, 강한 곳은 시간당 70㎜ 이상의 ‘극한호우’가 쏟아질 가능성이 있다.&lt;br&gt;&lt;br&gt;짧은 시간에 많은 비가 집중되면서 계곡과 하천물이 갑자기 불어나거나 저지대 침수, 산사태, 농경지 피해가 발생할 수 있다. 특히 새벽과 아침 등 대응이 어려운 시간대에 강한 비가 예상돼 사전 대비가 필요하다.&lt;br&gt;&lt;br&gt;남부지방에는 강한 바람도 불겠다. 16일 오후부터 남해안에는 순간풍속이 시속 70㎞를 넘는 곳이 있겠고, 남해와 동해 먼바다에는 최대 4ｍ의 높은 물결이 일겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“한강뷰 지켜” 한남동 재벌가 ‘한강 조망권’ 분쟁</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/YABIFHNL75HTTAWLYYKEMMQIME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/YABIFHNL75HTTAWLYYKEMMQIME/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 02:22:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVZTLWI6C5AQRCUYC3QSGHC4NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한강 조망권 침해 논란이 발생한 서울 용산구 한남동 고급 주택가./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한남동 재벌가에서 ‘한강 조망권’을 둘러싼 분쟁이 발생했다. &lt;br&gt;&lt;br&gt;15일 법조계 등에 따르면, 모 건설사 A 회장이 자택 인근에서 진행 중인 B 회장의 단독주택 공사가 한강 조망권을 침해한다며 지난 5월 14일 서울서부지법에 공사 중지 가처분 신청을 냈다. &lt;br&gt;&lt;br&gt;현재 B 회장은 A 회장 집과 맞닿아 있는 나대지 인근 부지에 연면적 2141.19㎡, 지하 2층~지상 2층 규모의 단독 주택을 짓고 있다. 공사는 지난해 4월 시작해 오는 12월 1일 마무리될 예정이다. &lt;br&gt;&lt;br&gt;가처분 신청을 심리한 재판부는 해당 공사로 인해 A 회장 주택의 한강 조망권이 일부 침해됐다는 점은 인정했다. &lt;br&gt;&lt;br&gt;다만 공사가 진행 중인 곳이 A 회장 주택의 정면이 아닌, 대각선에 있어 조망이 완전 차단되지는 않는다고 봤다. 또 이미 골조 공사가 완료된 상태라 공사 중지의 실익이 없다고 보고 지난달 27일 가처분 신청을 기각했다. &lt;br&gt;&lt;br&gt;하지만 이에 불복한 A 회장이 항고해 사건은 서울고등법원의 판단을 받아보게 됐다. &lt;br&gt;&lt;br&gt;또 A 회장은 B 회장의 단독주택 건축 허가 과정에 하자가 있다는 점도 지적하고 있다. 이와 관련해 지난 6월 A 회장은 서울행정법원에 용산구청장을 상대로 B 회장 집에 대한 건축 허가 무효 확인 소송을 제기한 상태다. &lt;br&gt;&lt;br&gt;현재 공사가 진행 중인 B 회장 주택은 경사지에 있고, 집의 앞뒤로 도로가 있다. 현행 건축법에 따르면, 대지에 접한 도로가 둘 이상일 경우 가장 넓은 도로를 기준으로 건축물 높이를 산정해야 하지만, B 회장 측이 높은 지대에 있는 좁은 도로를 기준으로 건축 허가를 받아 건물 높이를 위법하게 올렸다는 게 A 회장 측 주장이다.&lt;br&gt;&lt;br&gt;한편 A 회장은 지난 2009년에도 한강 조망권 침해를 이유로 C 회장의 주택 공사 중지 가처분 신청을 내고 법적 분쟁을 벌인 바 있다. 당시 재판부는 C 회장의 주택으로 A 회장의 한강 방향 조망권이 차단된다고 보고 가처분 신청을 인용했다. 이후 C 회장 측이 신축 주택의 높이를 낮추기로 하면서 갈등은 종결됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강제노역 피해자 유족에 “배상하라”…미쓰비시, 대법원 상고</title>
+      <link>https://www.chosun.com/national/incident/2026/08/15/CEEZRDL7DRDVPIWKHOE4O6NLDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/15/CEEZRDL7DRDVPIWKHOE4O6NLDQ/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 01:14:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGQNTFRBXVOKXFLY5K4UDFYCQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 23일 일제강제노역 피해자 고(故) 이상업씨의 유족인 이선희씨가 미쓰비시마테리아루 주식회사(옛 미쓰비시 광업)를 상대로 한 손해배상 청구 소송 2심 선고 이후 열린 기자회견에서 이상업씨의 저서인 '사지를 넘어 귀향까지' 책에 사인하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제강점기 탄광 강제노역 피해자 유족에게 손해배상을 하라는 법원 판결을 받은 일본 기업 미쓰비시가 이에 불복해 대법원에 상고했다.&lt;br&gt;&lt;br&gt;15일 일제강제동원시민모임에 따르면, 미쓰비시 마테리아루 주식회사(옛 미쓰비시광업) 측은 지난 12일 광주고법 민사2부(재판장 박정훈)에 상고장을 제출했다.&lt;br&gt;&lt;br&gt;광주고법은 지난달 23일 강제동원 피해자 유족 6명이 미쓰비시를 상대로 낸 손해배상 소송에서 1심과 마찬가지로 원고 일부 승소 판결했다.&lt;br&gt;&lt;br&gt;재판부는 미쓰비시가 원고 3명에게 각각 1억원을 지급하고, 나머지 원고 3명에게는 상속 지분에 따라 각각 1176만~1666만원을 배상하라고 했다.&lt;br&gt;&lt;br&gt;이번 소송의 피해자들은 일제강점기 미쓰비시광업이 운영하던 일본 탄광 등에 끌려가 강제노역을 했다.&lt;br&gt;&lt;br&gt;피해자 이상업씨는 만 15세 때 일본 후쿠오카현 가미야마다 탄광에 동원됐다. 그는 탄광에서 중노동을 한 후유증으로 평생 심폐증을 앓았다고 한다.&lt;br&gt;&lt;br&gt;또 다른 피해자인 고(故) 윤재찬씨는 광복 이후인 1945년 12월까지 미쓰비시광업 탄광에서 노역했다. 당시 일본에 있던 윤씨는 조국이 해방됐다는 사실조차 알지 못한 채 일을 계속했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;피해자 유족들은 2020년 1월 미쓰비시를 상대로 소송을 냈다. 그러나 일본 현지에서 소장 송달이 제대로 이뤄지지 않는 등 재판 절차가 지연되면서 항소심 판결까지 약 6년 6개월이 걸렸다.&lt;br&gt;&lt;br&gt;일제강제동원시민모임에 따르면, 미쓰비시는 일제강점기 조선인 약 10만명을 강제 동원한 것으로 추산된다.&lt;br&gt;&lt;br&gt;시민모임은 2019년 피해자와 유족 등 원고 54명이 미쓰비시중공업 등 일본 기업 9곳을 상대로 손해배상을 청구한 것을 시작으로 현재까지 총 16건의 집단소송을 지원해 왔다. 이 가운데 3건은 판결이 확정됐고, 이번 사건을 포함한 13건은 아직 법원에서 재판이 진행 중이다. 상고심이 1건, 항소심이 8건, 1심이 4건이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>식약처장 “AI 가짜 의사의 허위 건강 정보 조심”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/15/SZIPMGUKMNDZJKC4QUNDPN4JEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/15/SZIPMGUKMNDZJKC4QUNDPN4JEI/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 02:12:43 +0000</pubDate>
+      <content:encoded>오유경 식품의약품안전처장이 인공지능(AI)을 통해 가짜 의사를 만들어낸 뒤 잘못된 의학 정보를 제공하거나 건강기능식품의 효능을 부풀려 판매하는 이른바 ‘공장형 건강 동영상’의 위험성을 지적했다. &lt;br&gt;&lt;br&gt;오 처장은 14일 충남 청양군 노인종합복지관에서 65세 이상 노인을 대상으로 ‘찾아가는 식의약 안전 교실’을 열고 직접 강사로 나섰다. 오 처장은 “최근 AI 기술을 활용한 허위 건강 정보와 전문가 사칭 광고가 빠르게 확산되고 있어 어르신들의 각별한 주의가 필요하다”며 “건강기능식품이나 의료 기기를 구매할 때는 홍보성 광고만 믿지 말고 제품 표시 사항을 반드시 확인하고 식약처가 제공하는 안전 정보를 활용해 올바른 소비 습관을 실천해달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHAYPRPMD5A2ZC46BJYI73BH3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;오유경 식약처장이 14일 충북 청양군 노인종합복지관에서 AI 가짜 의사가 등장하는 허위 건강 정보 등의 위험성을 알리는 강의를 하고 있다. /식약처 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공장형 건강 동영상은 AI가 동영상 대본 작성은 물론 이것을 읽을 의사의 모습과 목소리까지 만들어 하루 수십 개씩 대량 생산되는 건강 동영상을 말한다. 조회수를 높여 광고 수익을 얻는 것이 목표여서 자극적인 콘텐츠를 주로 생산하는데, 문제는 여기에 환자에게 피해를 줄 수 있는 허위 정보가 포함돼 있는 경우가 다수라는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7R4BUJLWNGZRGQXLBYQGHXIQA.png"&gt;&lt;figcaption&gt;&lt;small&gt;공장형 건강 동영상 제작 학원의 강사가 AI로 만든 의사 이미지들. 이들은 가짜 의사를 내세워 유튜브 동영상에서 잘못된 의료 정보를 퍼트리는 방법을 가르쳐 주고 한 달에 200만~500만원의 수강료를 받는다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 처장은 이날 교육에서 의사·전문가 사칭 허위·과대 광고 영상의 피해 예방법을 교육했다. 실제 피해 사례를 중심으로 AI 가짜 광고와 허위 건강 정보를 구별하는 방법, 떴다방·체험방의 판매 수법, 허위·과대광고 확인 방법 등을 설명했다. 떴다방은 무료 공연이나 생활용품 제공 등을 내세워 소비자를 유인한 뒤 건강기능식품이나 의료기기 등을 고가에 판매하는 영업 방식이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내일이 더 빛나길” 제81주년 광복절 경축식 개최</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/OZR3JYHSLFGNRJLFMEOSUDB6SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/OZR3JYHSLFGNRJLFMEOSUDB6SU/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 01:30:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOQJ4D5CDJJWRLOF67WGFIDB74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 15일 서울 종로구 세종문화회관에서 열린 제81주년 광복절 경축식에서 국민의례를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독립 유공자 후손 등 3000여 명이 모여 81번째 광복절을 기념하는 자리가 마련됐다.&lt;br&gt;&lt;br&gt;15일 서울 종로구 세종문화회관에서 ‘내일이 더 빛나는 대체불가 대한민국’을 주제로 제81주년 광복절 경축식이 열렸다. 선열들이 이룩한 광복의 정신을 기리는 데에서 한발 나아가, 미래 세대가 열어갈 대한민국의 비전을 제시하는 데 중점을 뒀다. &lt;br&gt;&lt;br&gt;경축식에는 애국지사와 독립 유공자 유족, 국가 주요 인사, 정당·종단 대표를 비롯해 시민, 학생 등 3000여 명이 참석했다. &lt;br&gt;&lt;br&gt;이날 행사는 개식 선언을 시작으로 국민의례, 기념사, 독립 유공자 포상, 경축사, 경축 공연, 광복절 노래 제창, 만세 삼창 순으로 진행된다. &lt;br&gt;&lt;br&gt;올해는 광복절을 맞아 283명이 독립 유공 포상 대상자로 선정됐다. 이날 행사에서 황해도 안신여학교 교사로서 여성 계몽 활동과 임시 정부 활동 지원에 적극 나섰던 고(故) 최준례 여사의 후손을 포함한 독립 유공자 후손 5명이 정부 포상을 받을 예정이다. &lt;br&gt;&lt;br&gt;한편 행정안전부는 올해 광복절을 맞아 ‘나라사랑 태극기 달기’ 운동을 벌인다. &lt;br&gt;&lt;br&gt;행안부는 실물 태극기 사용이 어려운 국민을 위해 휴대전화나 소셜 미디어(SNS)에서 사용 가능한 ‘내 손안의 태극기’ 배경 화면을 배포할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“광복, 그날의 소리” 제81주년 광복절 기념 보신각 타종 행사</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/4KUSQCB545HAJPBEZ4YVPVZUX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/4KUSQCB545HAJPBEZ4YVPVZUX4/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 01:02:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4U7H42MK3JE4LKRKYHQKFJE4N4.png"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 서울시가 81번째 광복절을 기념회 보신각 타종행사를 진행한다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제81회 광복절을 맞아 보신각에서 타종 행사가 진행된다.&lt;br&gt;&lt;br&gt;서울시가 15일 오전 11시 30분 서울 종로구 보신각 일대에서 타종 행사를 개최한다. ‘광복의 소리, 미래를 깨우다’를 주제로, 광복의 기쁨과 의미를 되새기고 그 정신을 미래 세대로 이어가자는 취지다. &lt;br&gt;&lt;br&gt;행사에는 광복회 추천을 받은 독립유공자 후손 9명과 오세훈 서울특별시장, 임만균 서울특별시의회 의장 등 11명이 참석한다. &lt;br&gt;&lt;br&gt;이날 참석하는 독립유공자 후손은 항일 투쟁을 펼치다 체포돼 옥고를 견딘 애국지사 김상권 선생의 자녀 김순희씨, 일본 유학 기간 항일 비밀결사 ‘비밀 동지회’를 조직한 애국지사 서달수 선생의 자녀 서동흡 씨 등이다. &lt;br&gt;&lt;br&gt;행사에선 33번의 기념 타종 외에도 참석자 모두가 참여하는 만세 삼창과 시민 대합창 등 식순이 진행될 예정이다.&lt;br&gt;&lt;br&gt;민수홍 서울시 문화본부장은 “이번 행사가 광복의 기쁨을 되새기는 데 그치지 않고 우리의 역사가 미래 세대를 깨우는 희망의 울림으로 이어지는 자리가 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘영원한 4할 타자’ 백인천 전 LG 감독 별세…마지막까지 투혼</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/08/15/KLUXFLRXHZHUXMF2VRAIUF6A4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/15/KLUXFLRXHZHUXMF2VRAIUF6A4I/</guid>
@@ -913,33 +967,6 @@
       <content:encoded>노인층에서 주로 나타났던 안과 질환인 ‘황반변성’이 최근 2030 젊은 층에서 급증하는 것으로 나타났다. 실내 활동과 스마트폰 이용 시간이 늘면서 젊은 층의 고도 근시가 늘었고, 이것이 ‘근시성 황반변성’으로 이어지고 있다는 분석이다.&lt;br&gt;&lt;br&gt;황반은 망막의 중심부로 시력의 대부분을 담당한다. 황반변성이 생기면 황반 내 시세포가 손상돼 시력 장애로 이어진다. 심하면 실명할 수도 있다. &lt;br&gt;&lt;br&gt;13일 건강보험심사평가원에 따르면, 황반변성으로 진료를 받은 환자는 2021년 36만7463명에서 2025년 62만2961명으로 4년간 69.5% 증가했다.&lt;br&gt;&lt;br&gt;지난해 기준 전체 환자의 85.4%가 60세 이상이고, 환자 3명 중 1명(33.5%)이 70대일 정도로 고령 환자 비중이 크다. 하지만 최근엔 20·30대 환자도 가파르게 증가하는 추세다. 20·30대 환자는 2021년 4179명에서 2025년 6898명으로 65.1% 늘었다. 특히 30대는 같은 기간 2986명에서 5284명으로 77% 급증했다. &lt;br&gt;&lt;br&gt;젊은 세대의 황반변성은 고령층의 노화로 인한 황반변성과는 원인과 진행 양상이 다르다. 젊은 층에서는 고도 근시가 대표적인 원인으로 꼽힌다. 스마트폰 등 디지털 기기 사용 시간이 늘고, 실내 중심 생활로 자연광을 접하는 시간이 줄어 최근 젊은 세대의 고도 근시가 빠르게 늘고 있는 추세다. 2013∼2022년 군 신체검사를 받은 서울 지역 19세 남성 10명 중 2명(20.3%)은 고도 근시였다.&lt;br&gt;&lt;br&gt;김민 강남세브란스병원 안과 교수는 “고도 근시로 안구의 앞뒤 길이(안축장)가 길어지면서 망막 등이 얇아지고 황반부에 비정상적인 새 혈관이 자라날 수 있다”며 “처음엔 별 증상이 없다가 추후 시력 저하, 물체가 휘어 보이는 증상 등으로 이어지는데, 고도 근시가 있으면 1년에 한 번은 안과 검진을 받는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 김두원 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/14/CCHNICMRAZH7PKJV6LDE6TDMMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/14/CCHNICMRAZH7PKJV6LDE6TDMMI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 15:38:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김두원&lt;/b&gt; 별세, &lt;b&gt;김성연&lt;/b&gt; 울산중구문화원 사무국장 장인상=12일23시3분 울산영락원, 발인 14일6시, (052)272-1111&lt;br&gt;&lt;br&gt;▲&lt;b&gt;배재휴&lt;/b&gt; 별세, &lt;b&gt;김정희&lt;/b&gt; 남편상, &lt;b&gt;배태호&lt;/b&gt; TV조선 보도국 사회정책부장·&lt;b&gt;배영호&lt;/b&gt; 서울시교육청 근무 부친상, &lt;b&gt;박동숙&lt;/b&gt;·&lt;b&gt;박지영&lt;/b&gt; 시부상=13일7시13분 서울대병원, 발인 15일6시10분, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;주임순&lt;/b&gt; 별세, &lt;b&gt;이정환&lt;/b&gt; 前 한국거래소 이사장 모친상=12일12시33분 삼성서울병원, 발인 15일5시45분, (02)3410-3151&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한국은 AI 분야 최전선… 韓연구자 논문 상당수 실을 것”</title>
-      <link>https://www.chosun.com/national/people/2026/08/14/MML2BOYP6RDORN5A2UCAOKRPX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/14/MML2BOYP6RDORN5A2UCAOKRPX4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGXZ7RKWJJBJBDW4YBU6PPZREQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울 마포구 스프링거 네이처 한국 지사에서 로라 슈미드 수석 에디터가 본지와 인터뷰하고 있다. 한국에 상주하는 첫 네이처 수석 에디터인 슈미드 박사는 내년 1월 창간하는 ‘네이처 리뷰즈 컴퓨팅’의 출범을 이끌고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국은 인공지능(AI) 등 컴퓨팅 분야 연구가 활발해 새로운 저널을 출범하기에 아주 좋은 지역입니다. 연구실과 학회를 돌아다니며 한국 연구자들을 계속 만나 논문을 의뢰하고 있습니다.”&lt;br&gt;&lt;br&gt;세계 최고 권위 학술지 네이처(Nature)가 내년 1월 새로 창간하는 컴퓨팅 분야 전문 리뷰 저널 ‘네이처 리뷰즈 컴퓨팅’ 준비가 서울 마포구 스프링거 네이처 한국 지사에서 한창이다. 저널의 수석 에디터 로라 슈미드(31) 박사가 작년 1월부터 직접 창간 작업을 이끌고 있다. 네이처 포트폴리오가 발간하는 173개 저널의 수석 에디터 가운데 한국에 상주하는 이는 슈미드 박사가 처음이다. 오스트리아 출신 슈미드 박사는 오스트리아 과학기술연구소(ISTA)에서 2021년 컴퓨터공학 박사 학위를 받은 후 2022년부터 2년간 카이스트에서 박사후 연구원으로 AI를 연구했다. 네이처는 내년 열릴 저널 런칭 포럼 개최지로 한국을 유력 후보로 검토하고 있다. &lt;br&gt;&lt;br&gt;본지는 6일 스프링거 네이처 한국 지사에서 슈미드 박사를 만났다. 그는 “한국어 듣기는 자신 있으니 여차하면 한국어로 질문하라”며 웃었다. 다음은 슈미드 박사와의 일문일답.&lt;br&gt;&lt;br&gt;-네이처 수석 에디터 최초로 한국에 상주하게 된 이유는. &lt;br&gt;&lt;br&gt;“신생 저널의 수석 에디터는 전통적으로 영국이나 미국 등 규모가 큰 사무소에 배치되지만, 내가 한국 근무를 희망해 네이처 측에서도 서울 지사에서 일하도록 해줬다. 이는 내게도 매우 특별한 의미다. 한국에서 연구하며 훌륭한 연구자를 많이 만났기 때문에 한국 연구를 늘 더 알리고 싶었다. 내년 1월에 발간될 첫 호에는 한국 연구진의 논문이 상당수 포함될 전망이다.”&lt;br&gt;&lt;br&gt;-수석 에디터가 한국에 상주하는 것은 어떤 의미인가.&lt;br&gt;&lt;br&gt;“네이처 리뷰즈 시리즈는 에디터가 해당 분야 최고 전문가를 직접 만나 주요 주제에 대해 리뷰 논문을 의뢰하는 방식으로 만들어진다. 한국에 수석 에디터가 상주한다는 것은 한국을 비롯해 아시아 우수 연구자들과 가까이에서 교류할 수 있다는 의미가 있다.”&lt;br&gt;&lt;br&gt;-‘네이처 리뷰즈 컴퓨팅’은 어떤 주제를 다루게 되나.&lt;br&gt;&lt;br&gt;“빠르게 성장하는 컴퓨터과학 분야 지식을 연결하는 것을 목표로 하는 리뷰 저널이다. 기초 컴퓨터과학부터 AI·의학 등 응용 분야, AI 윤리 문제까지 폭넓게 다룰 예정이다. 새로운 연구 결과를 발표하는 일반 연구 저널과 달리, 컴퓨팅 분야에서 중요한 주제를 선별해 종합적으로 조망하는 리뷰 논문을 싣는다. 연간 약 50편만 게재해 높은 선별 기준을 유지할 계획이다.”&lt;br&gt;&lt;br&gt;-미국에서도 박사후 과정 제안을 받았는데, 한국을 택한 이유는. &lt;br&gt;&lt;br&gt;“카이스트에서 발표하는 AI 최적화 연구 분야 논문들이 매력적이었고, 마침 박사후 과정 자리도 있어 지원했다. 한국은 처음이라 모든 게 낯설었고 한국어도 전혀 못했다. 오직 카이스트에서 연구하고 싶었을 뿐이다. 내가 소속됐던 확률 해석 및 응용 연구센터(SAARC)는 수리과학과를 중심으로 여러 학과가 함께 대규모 언어 모델, 의사 결정, 분산 학습 등을 연구하는 센터로, 기존에 연구했던 수학적 모델링 연구를 이어가면서도 AI 연구도 할 수 있었다. 다른 곳에서는 불가능한 방식이라고 생각한다. 카이스트에서 연구하며 이 분야 최전선에 설 수 있었다.” &lt;br&gt;&lt;br&gt;-한국은 AI 연구자에게 어떤 강점이 있나.&lt;br&gt;&lt;br&gt;“학계와 산업계가 긴밀히 협력한다는 점이다. 산업계가 학계 연구 결과를 활용해 AI 제품을 바로 개발하는데, 피지컬 AI 분야가 대표적이다. 나도 카이스트에서 연구하며 삼성, LG 등 한국 기업들과 공동 연구를 많이 수행했다. 정부가 AI 연구에 적극적으로 투자하고 있기 때문에 기초 연구도 잘 이뤄지고 있다. AI 연구에 대한 사회적 수요도 굉장히 높다. 출판자이자 연구자 입장에서 매우 좋은 기회다.” &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한독학술경영대상 이강영 병원장</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/14/4LJZDHIL2ZAYDCHJGBEJSMA7OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/14/4LJZDHIL2ZAYDCHJGBEJSMA7OI/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT7HRZEVYBHCPFNGBQMXSA4I7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이강영(59) 세브란스병원장이 13일 제약회사 한독과 대한병원협회가 공동 제정한 ‘한독학술경영대상’ 수상자로 선정됐다. 이 상은 2004년부터 매년 국민 보건 의료 향상과 병원 경영 발전에 기여한 의료계 인사에게 수여돼 왔다.&lt;br&gt;&lt;br&gt;이 병원장은 국내 의료기관 최초 생성형 인공지능(AI) 기반 진료 지원 플랫폼 도입을 비롯한 첨단 의료 혁신, 의료 취약계층 지원 등 사회 공헌, 국제 보건의료 협력 확대를 통해 보건 의료 발전에 기여한 공로를 인정받았다.&lt;br&gt;&lt;br&gt;시상식은 오는 19일 서울 강남구 코엑스에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국교위, ‘학교시민교육 기본원칙안’ 수정 조건 의결  </title>
       <link>https://www.chosun.com/national/education/2026/08/13/353GQEAWORGBLFCS4IFTUKT6PI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/13/353GQEAWORGBLFCS4IFTUKT6PI/</guid>
@@ -956,33 +983,6 @@
       <description/>
       <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
       <content:encoded>건물주가 성매매 영업에 쓰인다는 걸 알면서도 모텔을 계속 빌려줬다면 건물 월세도 범죄 수익에 해당한다는 대법원 판단이 나왔다. 대법원은 모텔 이용객 중 일반 숙박객이 섞여 있더라도, 건물주가 받은 임대료를 전액 추징해야 한다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BA23FW7ZIJCMFFSM4VVY7ZZQRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 지난 6월 성매매처벌법 위반 혐의로 기소된 건설업체 대표 A씨의 상고심에서 추징을 명령하지 않은 원심을 깨고 사건을 서울중앙지법으로 돌려보냈다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2017년 서울 관악구의 한 모텔을 사들였다. 당시 모텔 임차인 B씨는 과거 성매매 알선 영업으로 영업정지 처분을 받았고, 재차 적발돼 2018년 영업소 폐쇄 처분까지 받은 상태였다. A씨는 2019년 B씨로부터 “내 명의로는 임대차계약을 할 수 없다”는 말을 듣고 B씨의 배우자 명의로 B씨와 새 계약서를 썼다.&lt;br&gt;&lt;br&gt;두 사람은 보증금 3억원에 월세 800만원으로 계약을 맺었고, 이를 한 차례 연장되면서 보증금 2억5000만원에 월세 550만원으로 조정했다. A씨가 B씨로부터 챙긴 월세는 2019년~2022년 약 3년간 총 2억3270만원에 달한다. B씨는 모텔을 운영하면서 이른바 ‘여관바리(여관 성매매)’ 방식의 성매매 알선 영업을 이어나갔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇1심 “전액 추징”→2심 “성매매 고객은 일부, 추징액 특정 못 해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;1심은 A씨가 자신의 모텔에서 불법 성매매 알선이 이뤄지는 사실을 알고 있었다면서 징역 1년에 집행유예 2년을 선고하고, 월세 전액을 추징했다.&lt;br&gt;&lt;br&gt;그러나 항소심은 형은 유지하면서 월세에 대한 추징은 취소했다. B씨가 운영한 모텔엔 일반 손님과 성매매 손님이 섞여 있어, 월세 전액을 범죄 수익이라고 보기 어렵다는 이유였다. 실제로 B씨는 법정에서 ‘모텔은 일반 숙박객이 대부분이었고, 성매매 고객은 10%도 채 되지 않았다’고 진술했는데, 항소심 재판부는 이를 근거로 “월세 중 범죄수익을 특정할 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;또 항소심은 B씨의 형사사건에서 범죄수익으로 인정돼 추징된 금액이 약 6000만원인 점을 언급하며 “성매매 알선에 직접 관여하지 않은 A씨에게 2억원이 넘는 금액을 추징하는 건 부당하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4TQNTDMYZWIYRWMY4WKMDBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대법 “추징 대상은 건물 월세, 모텔 매출액 아냐”&lt;/b&gt;&lt;br&gt;&lt;br&gt;그러나 대법원은 항소심 판단을 뒤집었다. 대법원은 “성매매에 제공되는 사실을 알면서 토지와 건물을 제공하고 그 대가로 받은 차임은 성매매 알선 행위로 실제 취득한 이익으로, 추징 대상”이라고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 이때 추징 대상은 ‘모텔 매출액’이 아닌 ‘건물 월세’이기 때문에, 일반 손님으로부터 받은 숙박비가 구체적으로 특정되지 않았다는 사정만으로 추징을 안 할 순 없다고 봤다. B씨가 벌어들인 매출에 일반 숙박객이 지불한 금액이 포함돼 있는 것과 관계없이, 장소를 제공하는 방식으로 성매매 알선에 가담했다면 이를 대가로 받은 금액을 전부 범죄수익으로 봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 “원심에서 추징을 선고하지 않아 추징 부분만 따로 떼어내 파기할 수 없으므로, 원심 판결을 전부 파기한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>행안부, 수의계약 한도 기준 만들고 감시체계 구축</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/13/ZWNQTGGIPFDKNANJXFVEMV4UJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/13/ZWNQTGGIPFDKNANJXFVEMV4UJM/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 10:41:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2WIYZUMIYDCMRYMNQTEMRZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민재 행정안전부 차관이 13일 오후 서울 종로구 세종대로 정부서울청사에서 지방의원 수의계약 제도 개선 방안과 공금 횡령 재발 방지 대책 발표를 하고 있다. 2026.8.13 ⓒ 뉴스1 김명섭 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 13일 지방 자치단체가 동일 업체와 수의 계약을 맺을 수 있는 한도를 설정하고, 전국 지방 정부의 공금 관리 현황 전수 점검, 지출 시스템 통제 강화하는 내용을 담은 지방 계약·공금 관리 제도 개선 대책을 발표했다. 지방의회 의원들이 영향력을 행사해 가족·친인척이 운영하는 업체 등과 수의 계약을 맺어 일감을 몰아주는 편법을 막겠다는 것이다.&lt;br&gt;&lt;br&gt;행안부에 따르면 전남 보성군에서는 한 군의원 배우자가 지분 40%를 보유한 업체와 보성군이 133건, 총 22억800만원 규모의 수의계약을 체결했다. 경남 의령군에서는 군의원 배우자가 지분 49%를 가진 업체와 40건, 10억2500만원 규모의 수의 계약이 체결됐다.&lt;br&gt;&lt;br&gt;행안부는 앞으로 기초 지자체(세종·제주 포함)는 동일 업체와 연 5회, 연 2억원을 초과해 수의 계약을 체결할 수 없게 하겠다고 했다. 광역 지자체는 연 7회 또는 연 3억원까지로 제한된다. 일반 기업의 경우 추정 가격 2000만원 이하 1인 견적 수의 계약이 대상이며 청년 창업·여성·장애인 기업 등은 5000만원 이하 계약까지 포함된다. 다만 불가피한 사유가 있는 경우 지자체 내 계약심의위원회를 거쳐 예외적으로 수의계약을 체결할 수 있게 했다. 지역 내 업체 수가 부족해 적절한 업체를 선정하지 못하는 등의 부작용을 막기 위한 것이다.&lt;br&gt;&lt;br&gt;행안부는 연내 제정을 추진하는 ‘지방의회법’에 지방 의원의 사적 이해관계자 등록·공개를 의무화하고, 지자체가 수의 계약을 맺을 경우 윤리심사자문위원회에 사전 신고하도록 한다는 계획이다. 윤리심사자문위원회가 수의 계약 내용을 정밀 심사해 지방의원의 사적 이익과 연관된다고 판단하면 지자체에 재검토를 요청할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국교위, ‘수능 서·논술형 도입’ 1박 2일 토론회 연다</title>
-      <link>https://www.chosun.com/national/education/2026/08/13/OARCZ7M43JAMVDBB65UAJIHVSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/13/OARCZ7M43JAMVDBB65UAJIHVSE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 10:27:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTENZXMRTDQM3DMUZDSZJTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차정인 국가교육위원회 위원장이 13일 서울 종로구 세종대로 정부서울청사에서 열린 2026년 제8차 회의에서 모두 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 직속 국가교육위원회(국교위)가 대학입시 제도 개편 방안에 관해 대국민 공론화 절차를 진행한다. 국교위는 이르면 올해 초등학교 6학년이 치르는 2033학년도 대입부터 수능 전 과목을 절대평가로 전환하고, 서·논술형 문항을 도입하는 내용의 대입 개편안을 논의 중이다.&lt;br&gt;&lt;br&gt;국교위는 13일 정부서울청사에서 2026년 제8차 회의를 열고 ‘대입 제도 관련 의견 수렴 계획(안)’을 논의했다. 계획안에 따르면, 국교위 대학입학제도 특별위원회(대입 특위)는 3가지 과정으로 국민 의견을 수렴한다. &lt;br&gt;&lt;br&gt;먼저 지난 11일 인천을 시작으로 오는 20일 전남광주, 26일 대구까지 총 3번에 걸쳐 현장 토론회를 진행한다. 국교위는 현장 토론회에 참석한 각 지역 학생, 학부모, 교사 등 100명에게 ‘미래 사회를 대비한 대입 개편 방향’에 대해 묻고 의견을 수렴한다.&lt;br&gt;&lt;br&gt;다음으로는 오는 29~30일 1박 2일 일정으로 국민참여위원회 숙의가 진행된다. 여기에는 국민참여위원 중 선정된 200명 등이 참여하며, ‘내신 서·논술형 평가 확대 및 수능 서·논술형 평가 도입’에 대해 토론이 이뤄진다. &lt;br&gt;&lt;br&gt;국교위는 숙의 토론인 만큼 참가자들에게 토론 일주일 전쯤 사전 학습 자료집을 제공할 계획이다. 또 숙의 전후로 ‘내신 및 수능 서·논술형 평가 전환에 대한 입장’ ‘추진 시 고려할 사항 등 제언’ 등에 대한 의견 조사도 진행될 예정이다. &lt;br&gt;&lt;br&gt;이외에도 국교위는 대국민 온라인 의견 수렴도 진행한다. 국교위 국민의견플랫폼에서 이달 14일부터 오는 28일까지 ‘미래 사회를 대비한 대입 제도 개편 방향성’ ‘내신 서·논술형 평가 확대, 수능 서·논술형 평가 도입’ 등에 대한 의견을 남길 수 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 다음주부터 ‘공소청 체제’ 시범 운영</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/13/UR5BVQELLFGWJEMBPQ3DMS5PGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/13/UR5BVQELLFGWJEMBPQ3DMS5PGI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 09:15:33 +0000</pubDate>
-      <content:encoded>검찰이 다음 주부터 오는 10월 출범하는 공소청 체제를 시범 실시한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI6AFAWEMJLEJMH3NT7DNAFRCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 서울 서초구 대검찰청의 깃발이 펄럭이고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 대검찰청은 “이번 달 18일부터 4주간 일부 검찰청에서 공소청 운영모델을 시범 실시할 예정”이라고 밝혔다. 시범청은 서울북부지검, 대구서부지청, 마산지청, 논산지청 총 4곳이다. 지검과 차치지청(차장검사를 두는 지청), 부치지청(부장검사를 두는 지청), 비부치지청(부장검사도 없는 지청)이 한 곳씩 선정됐다.&lt;br&gt;&lt;br&gt;대검은 “규모와 업무량 등 요소를 다양하게 고려해 이같이 선정했다”며 “현행 법과 제도에 반하지 않는 한도 내에서 개정 형사소송법 취지에 따라 업무를 수행할 예정”이라고 했다. 시범청 소속 검사들은 구속영장청구 전 면담제도, 사실관계 확인제도 등 형소법 개정안에 새로 들어간 제도를 따르게 된다. 형소법 취지에 맞게 직접 수사는 가급적 지양하고, 경찰에 대한 보완수사 요구를 주로 활용할 것으로 보인다.&lt;br&gt;&lt;br&gt;대검은 “추후 시범청 운영 결과를 분석 후 개선 사항을 확인해 공소청 출범 과정에서 국민의 권리보호에 공백이 발생하지 않도록 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
