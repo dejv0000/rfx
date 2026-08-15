@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>당진 도비도항서 해루질하던 남·녀 2명, 물에 빠져 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/08/16/ZRM2TIZHSJAN7PHUFZCMGJXIRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/ZRM2TIZHSJAN7PHUFZCMGJXIRU/</guid>
+      <dc:creator>당진=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 22:40:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UAVWECJ55CJCVCZKVU6ONB2VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 당진시 도비도항에서 바라본 난지도. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 당진 도비도항 인근에서 해루질을 하다 바다에 빠진 남녀 2명이 심정지 상태로 구조됐지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;16일 평택해양경찰서는 바다에 빠졌던 이들이 병원으로 이송돼 치료를 받다 의료진으로부터 사망 판정을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;해경에 따르면, 15일 오후 9시 47분쯤 “남녀 2명이 바다에 빠졌다”는 목격자의 신고가 접수됐다. 60대 여자, 50대 남자로 추정되는 이들은 도비도항 근처에서 맨손으로 어패류 등을 잡는 해루질을 하다 바다에 빠진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;출동한 해경은 신고 접수 31~34분 만에 이들을 구조했다. 구조 당시 심정지 상태였던 이들은 구급대의 심폐소생술을 받으며 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;해경 관계자는 “목격자가 ‘물에 빠진 여성을 구하려고 남성이 들어간 뒤 빠져나오지 못했다’고 진술했다”며 “숨진 이들의 정확한 신원과 사고 경위를 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;한편 지난 11일부터 17일까지 서해에는 조수 간만의 차가 큰 대조기로 현재 연안 사고 위험 예보제 ‘주의보’가 발효된 상태다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘복붙’ 왜 이리 많나요... 비극이 된 학생부 </title>
       <link>https://www.chosun.com/national/2026/08/16/ZBM2LUICPFHBPLNSYQM37QXXTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/08/16/ZBM2LUICPFHBPLNSYQM37QXXTI/</guid>
@@ -905,19 +914,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YWHX643T4VOC5FU2PJ7ZXCK3T4.JPG?auth=23bb28146916e2c8636e7a7e8b7e805d66893f59056e99e5582917bfb201c8e9&amp;smart=true&amp;width=5641&amp;height=3837" type="image/jpeg" height="3837" width="5641">
         <media:description type="plain">FC안양의 구단주인 최대호 안양시장. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(안양=뉴스1) 김영운 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>목 푸는 우병우, 활짝 웃는 변호사, 두손 모으고 기립한 검사</title>
-      <link>https://www.chosun.com/site/data/html_dir/2016/11/08/2016110800248.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2016/11/08/2016110800248.html</guid>
-      <dc:creator>고운호 기자</dc:creator>
-      <description>6일 오후 8시 50분. 서울 서초동 서울중앙지검 1118호 창문으로 한 남성의 모습이 보였다. 우병우 전 청와대 민정수석이라고 직감했다. 그는 이날 오전부터 그 사무실에서 검찰 조사를 받고 있었다.</description>
-      <pubDate>Mon, 07 Nov 2016 18:00:06 +0000</pubDate>
-      <content:encoded>6일 오후 8시 50분. 서울 서초동 서울중앙지검 1118호 창문으로 한 남성의 모습이 보였다. 우병우 전 청와대 민정수석이라고 직감했다. 그는 이날 오전부터 그 사무실에서 검찰 조사를 받고 있었다. 우 전 수석이 검찰 조사를 받는 장면을 취재하라는 지시를 받고 서울중앙지검이 보이는 서초동의 한 빌딩 옥상으로 올라간 지 30여분 만에 그가 나타난 것이다. 우 전 수석이 모습을 드러낸 특수2부장실 옆 부속실은 창문에 블라인드가 없어서 내부가 훤히 들여다보였다.&lt;br&gt;&lt;br&gt;600㎜ 망원렌즈에 컨버터를 끼운 카메라 셔터를 정신없이 눌렀다. 우 전 수석은 목을 뒤로 젖혀 돌리며 스트레칭을 했다. 곧이어 그는 검찰 직원들에게 다가갔다. 그러자 검찰 직원들이 벌떡 일어났다. 조직의 상사를 대하듯 깍듯한 모습이었다. 우 전 수석은 자기 사무실인 듯 여유 있게 왔다갔다했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5474D3L43KGLFVFQQPBGHPKHXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 밤 검찰의 조사를 받다 나온 우병우 전 민정수석이 목을 왼쪽으로 젖히며 스트레칭을 하고 있다(왼쪽). 우 전 수석을 발견하고 일어선 검사와 직원 쪽을 바라보며 우 전 수석의 변호인인 곽병훈 변호사가 웃고 있고(가운데), 팔짱을 낀 우 수석이 뭔가 말을 건네자 검사와 직원이 공손한 자세로 응대하고 있다(오른쪽). /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤 9시 19분 육안으로 보기에 흐릿한 형상의 누군가가 모습을 드러냈다. 그는 바지 주머니에 손을 넣은 자세로 서 있다가 무슨 이유인지 검찰 관계자들 앞에서 크게 웃었다. 나중에 알게 됐지만 그는 우 전 수석의 변호인인 곽병훈 변호사였다.&lt;br&gt;&lt;br&gt;밤 9시 25분 우 전 수석이 다시 나타났다. 그는 지퍼를 반쯤 내린 점퍼 차림에 팔짱을 끼고 웃음을 띤 채 여유로운 표정으로 두 명의 검찰 관계자들에게 말을 걸었다. 두 검찰 관계자는 손을 앞으로 모으고 우 전 수석의 말을 경청했다. 우 전 수석 말에 간간이 웃기도 했다. 연신 셔터를 눌렀다. 팔짱을 낀 우 전 수석의 모습과 다소곳이 고개를 숙인 검찰 직원의 모습을 촬영하는 데 성공했다. 7일자 조선일보 1면에 실린 사진이다.&lt;br&gt;&lt;br&gt;사진을 전송하기 위해 잠시 자리를 떠났다가 9시 40분쯤 다시 올라왔다. 10시 55분쯤 우 전 수석이 다시 모습을 드러냈다. 그는 여전히 팔짱을 낀 채 사무실을 이리저리 왔다갔다했고 2분가량 검찰 직원들과 이야기를 나누다 카메라에서 사라졌다. 이날 저녁에 찍은 사진은 900여장. 그 속에 우 전 수석이 검찰에서 어떻게 조사를 받았는지를 짐작하게 하는 장면들이 그대로 담겨 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5474D3L43KGLFVFQQPBGHPKHXA.jpg?auth=df62a91d5a221eb5e82b6977b90a0a573443953e7ba4144005301786dd0a2dba&amp;smart=true&amp;width=1280&amp;height=303" type="image/jpeg" height="303" width="1280">
-        <media:description type="plain">6일 밤 검찰의 조사를 받다 나온 우병우 전 민정수석이 목을 왼쪽으로 젖히며 스트레칭을 하고 있다(왼쪽). 우 전 수석을 발견하고 일어선 검사와 직원 쪽을 바라보며 우 전 수석의 변호인인 곽병훈 변호사가 웃고 있고(가운데), 팔짱을 낀 우 수석이 뭔가 말을 건네자 검사와 직원이 공손한 자세로 응대하고 있다(오른쪽).</media:description>
-        <media:credit role="author" scheme="urn:ebu">고운호 객원기자</media:credit>
       </media:content>
     </item>
     <item>
