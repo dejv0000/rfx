@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 8월 16일 일요일 (음력 7월 4일 壬戌)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/OP6YQ5LLNFD4RL6R7OQTO4I62Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/OP6YQ5LLNFD4RL6R7OQTO4I62Q/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“부정선거” vs “전작권 환수”... 광복절 도심서 두 목소리</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/6JOHAGO3SVCNRESLQJELKITJZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/6JOHAGO3SVCNRESLQJELKITJZE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 06:58:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZO5YPVRHBAGJJCHFAZCYIK7RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 서울 종로구 동화면세점 인근에서 보수단체인 자유통일단 주최로 '8·15 광화문 국민대회'가 열렸다./한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제81회 광복절을 맞은 15일 서울 도심 곳곳에서 집회가 열렸다. &lt;br&gt;&lt;br&gt;이날 오전 서울 종로구 동화면세점 인근에서는 자유통일당 주최로 ‘8·15 광화문 국민대회’가 열렸다. 행사 참가자들은 ‘당일 투표 수개표’ ‘부정선거 조작선거’라고 적힌 손 피켓과 태극기를 들고 “개헌 반대 연임 반대!” “부정선거 재선거!” 등의 구호를 함께 외쳤다. &lt;br&gt;&lt;br&gt;이른 오전부터 동화면세점으로 모여든 참가자들은 달걀, 김밥, 떡 등을 함께 나눠 먹는 모습도 보였다. 집회 장소 한쪽에는 ‘광화문 키즈 모임’ 공간도 마련됐다. 이 부스에는 부모 등과 함께 집회에 참석한 아이들이 직접 태극기를 그리거나 만들 수 있는 테이블 등이 마련됐다. 자유통일당 집회에는 오후 3시 기준 약 2만8000명(경찰 비공식 추산)이 모였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHNMRNTEJJH2ZNMUWPH3NYVEWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 종로구 송현공현 인근에서 민노총 주최로 '8·15 전국 노동자대회'가 열렸다./한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 2시쯤부터는 서울 종로구 송현공원 부근에서 민노총 주최로 ‘8·15 전국 노동자대회’가 열렸다. 집회 현장에는 민노총 소속 노조들의 깃발 수십 개가 걸렸다. 참가자들도 각자 속한 노조 이름이 적힌 조끼 차림이었다.&lt;br&gt;&lt;br&gt;참가자들은 “미국은 경제 수탈 내정 간섭 중단하라!” “침략 전쟁 경제 수탈 미국은 나가라!” “전작권을 환수하라!” 등의 구호를 다 함께 외쳤다. 현장에서 배포된 손팻말에는 ‘트럼프 경제 수탈 저지’ ‘전시작전권 즉시 환수’ 등의 문구가 적혔다. 이날 민노총 집회에는 오후 3시 기준 약 3500명(경찰 비공식 추산)이 모인 것으로 집계됐다.&lt;br&gt;&lt;br&gt;민노총 집회 참가자들은 집회를 마친 뒤 8·15 범시민대회추진위원회와 함께 안국동, 종각, 을지로 입구를 거쳐 서울광장으로 행진했다. 행진이 진행되는 동안 을지로입구~시청 교차로 방향 차량 운행이 통제됐다. &lt;br&gt;&lt;br&gt;경찰은 이날 수도권 광역 버스 등 차량 통행을 원활하게 유지하기 위해 교통 경찰 218명을 배치했다. 전날인 14일 경찰은 “세종대로와 안국역, 종각역 일대에 특히 교통 혼잡이 예상된다”며 “시민들은 가급적 지하철을 이용하고, 차량을 이용할 경우엔 교통 정보를 미리 확인해 달라”고 공지했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독]요양병원 “우리도 추나·첩약 건보 적용” 요구… 500개 한방병원 긴장</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/15/XS3JMHYXQBHCTLZEACBRCGY76A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/15/XS3JMHYXQBHCTLZEACBRCGY76A/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 06:51:10 +0000</pubDate>
+      <content:encoded>요양병원들이 입원 환자에 대한 추나요법과 첩약 처방에도 한방병원·한의원과 마찬가지로 건강 보험을 적용해 달라고 정부에 요구한 것으로 알려졌다. 요구가 받아들여질 경우 요양병원의 한방 진료가 확대되면서 한방 병원과 환자 유치를 둘러싼 경쟁도 거세질 전망이다.&lt;br&gt;&lt;br&gt;대한요양병원협회는 최근 보건복지부에 “수술이나 상해 후 회복기에 있는 환자에게 요양병원에서도 추나요법과 첩약을 건강보험으로 제공할 수 있게 해달라”고 요청했다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P272NPHSJBF3BFBJOE4AH5HIVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;척추전방전위증 환자에게 이완 추나 치료를 하고 있는 모습&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 요양 병원에서도 추나나 첩약을 시행할 수 있지만 건강보험 급여 적용이 되지 않는다. 여기에 들어가는 비용을 요양병원이 온전히 부담해야 한다는 뜻이다. 한 요양 병원장은 “요양병원은 환자당 정부에서 받는 일일 수가가 4만~8만원으로 딱 정해져 있기 때문에, 건강보험이 적용되지 않으면 추나요법이나 첩약 비용을 감당할 여력이 전혀 없다”고 했다. &lt;br&gt;&lt;br&gt;반면 한방병원·한의원에서 시행하는 추나요법과 일부 첩약 처방은 건강보험 적용을 받는다. 요양병원은 이 ‘차별’을 없애달라고 한 것이다. &lt;br&gt;&lt;br&gt;특히 정부가 요양병원을 중증·의료 필요도가 높은 환자 중심으로 재편하면서 경증 환자를 줄이는 방향으로 정책을 추진하고 있다는 점도 이번 요구의 배경으로 꼽힌다. 요양병원 입장에선 기존 환자 감소에 따른 수익 하락을 메울 새로운 진료 영역이 필요한 상황이다.&lt;br&gt;&lt;br&gt;또 요양병원들이 이미 상당수 고용하고 있는 한의사 활용도도 높아질 수 있다. 요양병원은 의사 정원 일부를 현재 한의사로 채워 인건비를 낮추고 있다. 한의사의 인건비가 의사 인건비의 50~60% 수준이기 때문이다. &lt;br&gt;&lt;br&gt;다만 한의사는 일반 의약품 처방이나 응급 상황 대응 등에 한계가 있어 병원 수익에 기여할 수 있는 진료 영역이 상대적으로 제한돼 있었다. 그런데 추나요법과 첩약까지 건강보험 적용이 확대되면 한의사를 활용한 별도 수익 창출이 가능해지는 셈이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;반면 한방병원들은 직접적인 타격을 받을 수 있다. 현재 전국에는 약 500개의 한방병원이 운영 중이다. 한방병원은 침·추나·첩약 등 한방 치료를 중심으로 입원 환자를 유치하고 있는데, 요양병원에서도 같은 치료를 건강보험으로 받을 수 있게 되면 고령 환자와 회복기 환자 상당수가 요양병원으로 이동할 가능성이 있다는 얘기다.&lt;br&gt;&lt;br&gt;특히 한방병원은 비급여 치료 비율이 높아 입원비 부담이 일반 요양병원보다 큰 경우가 많다. 상대적으로 비용이 낮은 요양병원에서 추나와 첩약까지 받을 수 있게 되면 환자 선택에도 적지 않은 영향을 줄 수 있다는 관측이 나온다. 복지부는 현재 요양병원계의 이 요구를 검토 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 ‘용산공원에 집 짓자’에…서울시 이어 용산구도 “강력 반대”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/YZPQOWWNKFHHFFSYYDHXG4CNNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/YZPQOWWNKFHHFFSYYDHXG4CNNI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 06:11:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DL3XL52JTRLVXLMZMFPMG2PMXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 서울 용산구 용산어린이정원 일대 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시에 이어 용산구도 정부가 용산공원을 주택 공급 후보지로 검토하는 데 반대 입장을 냈다. &lt;br&gt;&lt;br&gt;15일 용산구는 입장문을 통해 “국토부 장관이 용산공원 내 어린이정원을 넘어 용산공원 전체를 주택 공급 후보지로 검토하겠다고 밝힌 데 깊은 유감을 표하며 이런 추진 방향에 강력히 반대한다”고 했다. &lt;br&gt;&lt;br&gt;용산구는 특히 “용산공원은 120년 만에 국민의 품으로 돌아오는 서울 도심의 마지막 대규모 국가 정원”이라며 “대한민국의 역사와 미래를 담아낼 국가의 상징 공간이 될 용산공원을 ‘주택 공급에 활용할 수 있는 땅이 있는가’라는 관점으로 바라봐서는 안 된다”고 꼬집었다. &lt;br&gt;&lt;br&gt;이어 “주택 공급이 필요하다면 기존 도심의 재건축·재개발을 활성화하고 정비 사업을 통한 신규 주택 공급을 확대하는 등 도시의 기능과 공공성을 함께 살릴 수 있는 방안을 먼저 찾아야 한다”고 강조했다. &lt;br&gt;&lt;br&gt;앞서 전날인 14일 김윤덕 국토부 장관은 취임 1주년 기자 간담회에서 주택 공급 방안과 관련해 “용산공원 전체를 고민하고 있다”고 했다. &lt;br&gt;&lt;br&gt;이에 서울시는 김 장관 기자회견 직후 “용산공원은 단순한 유휴 부지가 아니라 기후 위기 시대에 시민의 삶을 지키고 미래 세대에게 온전히 물려줘야 할 소중한 국가 자산”이라며 반대 입장을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법무부 ‘수원지검 집단 퇴정’ 검사 징계 청구에…현직 검사 “근거 밝혀라”</title>
       <link>https://www.chosun.com/national/court_law/2026/08/15/H4NM4IXXHFC37MIQUORURMMAOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/15/H4NM4IXXHFC37MIQUORURMMAOM/</guid>
@@ -882,52 +921,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/55ODRGCMCROYVFU57CYTGNAJ24.JPG?auth=f21f31c077430c94a1cdc11125d9bec47acadae42d5fe2ac5d3fc42d062b012c&amp;smart=true&amp;width=1760&amp;height=2419" type="image/jpeg" height="2419" width="1760">
         <media:description type="plain">개그맨 이진호가 14일 수원지법 여주지원에서 열린 음주운전 및 불법도박 혐의 사건 첫 공판에 출석하고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(여주=뉴스1) 양희문 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>광복절 서울 도심 곳곳서 대규모 집회·행진... 교통 혼잡 예상</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/14/XMRKQIBJN5HFLI47LUCXRF5RQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/XMRKQIBJN5HFLI47LUCXRF5RQ4/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 01:57:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2WVDNHA6ZHAZMBQGSV72I4Z7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 세종대로 일대가 집회로 인해 교통 혼잡을 겪는 모습. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절인 15일 서울 도심 곳곳에서 열리는 집회와 행진으로 교통 혼잡이 예상된다고 14일 서울경찰청이 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 보수단체 자유통일당은 15일 오후 1시부터 서울 중구 세종대로(동화면세점~대한문) 일대에서 대규모 집회 후 오후 4시부터 종로구 새문안로와 자하문로를 이용해 청와대 인근 신교교차로까지 행진할 계획이다. 경찰은 행진 시 서울경찰청교차로에서 구세군교차로까지 양방향 차량을 통제할 계획이다.&lt;br&gt;&lt;br&gt;진보단체 8·15 범시민대회추진위원회는 오후 1시부터 종로구 율곡로와 사직로 일대에서 집회 후 오후 2시 30분부터 안국교차로를 이용해 종각교차로와 을지로입구교차로를 거쳐 서울광장까지 행진할 계획이다. 경찰은 을지로입구교차로에서 시청교차로 방향으로 차량을 통제할 예정이라 일대 교통 혼잡이 예상된다.&lt;br&gt;&lt;br&gt;송파구 올림픽공원 주변에서도 자유대한호국단 등 여러 보수단체의 집회와 행진이 예정돼 있다. &lt;br&gt;&lt;br&gt;경찰은 교통 혼잡으로 인한 시민 불편을 최소화하기 위해 집회·행진 구간 주변에 가변차로 등 교통 관리를 위한 교통 경찰 218명을 배치해 차량 우회 등 교통 흐름을 관리할 계획이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “세종대로와 우정국로 등 일대에서 교통 혼잡이 예상된다”며 “가급적 지하철을 이용하고, 부득이 차량을 이용할 경우 교통 정보 등을 미리 확인할 것을 당부한다”고 했다.&lt;br&gt;&lt;br&gt;집회 시간과 장소 등 자세한 교통 상황은 서울경찰청 교통정보 안내 전화(02-700-5000), 교통정보센터 홈페이지(www.spatic.go.kr), 카카오톡(서울경찰교통정보)을 통해 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 경찰, ‘선거 기간 중 호별 방문’ 김동욱 도봉구청장 송치 </title>
-      <link>https://www.chosun.com/national/national_general/2026/08/14/HLZPKDHYQRB4NEE32WBLCZHNL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/HLZPKDHYQRB4NEE32WBLCZHNL4/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 02:15:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYWGNRZGYYWCNJYGAZDCZLEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동욱 도봉구청장이 지난 8일 도봉구 민선 9기 출범식에서 도봉 대전환 비전을 발표하고 있다./도봉구청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도봉경찰서는 선거 기간 구청을 직접 찾아 ‘호별 방문’을 한 혐의를 받는 김동욱 현직 도봉구청장을 지난 13일 서울북부지검에 송치했다. 검찰 등에 따르면 김 구청장은 6·3 지방선거 운동 첫날이던 지난 5월 21일 후보자 신분으로 도봉구청 2층에서 15층 사이 사무실을 순차적으로 방문한 혐의를 받는다. &lt;br&gt;&lt;br&gt;선거가 끝난 지난 6월 16일 오언석 전 도봉구청장이 김 구청장을 공직선거법상 호별 방문 위반 혐의로 서울 도봉경찰서에 고발했다. 현행 공직선거법은 선거운동을 위해 호별로 방문하는 행위를 금지하고 있다. 이를 위반하면 3년 이하의 징역이나 600만원 이하의 벌금형으로 처벌된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKLNAIUE75GI7JCBSYUULMA45A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 24일 고발인 조사를 받기 위해 서울 도봉경찰서를 찾은 당시 오언석 도봉구청장(왼쪽)./한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 전 구청장은 당시 고발장에서 “(김 구청장이) 당시 도봉구청장 후보자 신분으로 공식 선거운동 개시일 당일 도봉구청 청사 내부 업무부서 사무실에 직접 진입해 다수 부서를 순회했다”라며 고발 취지를 밝혔다. &lt;br&gt;&lt;br&gt;또 김 구청장이 “선거 5회 및 당내 경선 2회를 포함해 총 7차례 선거에 직접 참여한 정치·선거 실무 경험자”인 만큼 호별 방문이 위법이라는 사실을 인지하고 있었을 가능성도 강조했다. &lt;br&gt;&lt;br&gt;지난 지선에서 김 구청장은 8만9126표(52.14%)를 받아, 8만1809표(47.85%)를 받은 오 전 구청장을 이기고 당선됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MI2TQMJQME3DOMJZHE4WGYRRMQ.jpg?auth=d729730dc4cb2bc5163f6db56bb2b16b01f9b8190fc77fc9c3f90a72bb691636&amp;smart=true&amp;width=5381&amp;height=3359" type="image/jpeg" height="3359" width="5381">
-        <media:description type="plain">김동욱 도봉구청장이 7일 서울 도봉구 도봉구청 집무실에서 뉴스1과 인터뷰를 하고 있다. ⓒ 뉴스1 권현진 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>팔짱낀채 웃으며 조사받는 우병우</title>
-      <link>https://www.chosun.com/site/data/html_dir/2016/11/07/2016110700194.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2016/11/07/2016110700194.html</guid>
-      <dc:creator>김아사 기자, 고운호 기자</dc:creator>
-      <description>우병우(49) 전 청와대 민정수석이 6일 피고발인 신분으로 검찰에 소환돼 조사를 받았다. 지난 8월 말 검찰이 특별수사팀(팀장 윤갑근 고검장)을 구성해 우 전 수석의 횡령·직권 남용 혐의, 처가(妻家)의…</description>
-      <pubDate>Sun, 06 Nov 2016 23:12:02 +0000</pubDate>
-      <content:encoded>우병우(49) 전 청와대 민정수석이 6일 피고발인 신분으로 검찰에 소환돼 조사를 받았다. 지난 8월 말 검찰이 특별수사팀(팀장 윤갑근 고검장)을 구성해 우 전 수석의 횡령·직권 남용 혐의, 처가(妻家)의 강남역 부동산 거래를 둘러싼 의혹 등에 대한 수사에 착수한 지 75일 만이다. 우 전 수석은 일주일 전인 지난달 30일 경질됐다.&lt;br&gt;&lt;br&gt;이날 오전 9시 55분쯤 서울 서초동 서울중앙지검 청사에 나타난 우 전 수석은 쏟아지는 취재진의 질문에 “검찰 조사에 성실히 답변하겠다”고만 했다. 앞서 구속된 최순실(60)씨나 안종범 전 정책조정수석은 검찰청 포토라인에 섰을 때 “죽을죄를 지었다”거나 “잘못에 책임을 지겠다”고 했다. 박근혜 대통령도 두 차례 대국민 사과를 하며 국민 앞에 고개를 숙였다.&lt;br&gt;&lt;br&gt;그러나 우 전 수석은 이날 사과나 유감 같은 말은 입에 올리지 않았다. 그는 대신 ‘가족 회사 자금을 유용했느냐’는 질문을 한 기자를 한동안 쏘아보기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEEPMUCYOECGV2DQLTQYRDLAH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우병우를 대하는 검찰의 자세 - 6일 밤 9시 25분쯤 서울 서초동 서울중앙지검 11층에서 검찰 조사를 받는 우병우 전 청와대 민정수석의 모습을 본지 카메라가 포착했다. 우 전 수석은 자신을 조사한 김석우 특수2부장실(1108호) 옆에 딸린 부속실에서 점퍼의 지퍼를 반쯤 내린 채 팔짱을 끼고 여유 있는 표정을 짓고 있다. 옆쪽 창문으로는 검찰 직원으로 추정되는 두 사람이 일어서서 앞으로 손을 모은 채 우 전 수석의 얘기를 듣고 있는 모습이 보인다. 검찰을 쥐락펴락했던 우 전 수석의 ‘위세’를 그대로 보여주는 장면이다. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우 전 수석은 이날 서울중앙지검 김석우 특수2부장에게 밤늦게까지 조사를 받았다. 그는 조사 도중 간간이 휴식을 취하면서 검찰 직원들과 담소(談笑)를 나누는 모습이 목격됐다. 그는 본격적으로 조사를 받기 전 수사팀장인 윤갑근 고검장실에 들러 차 대접을 받았다. 야당에선 “황제 소환”이라는 비판이 나왔다.&lt;br&gt;&lt;br&gt;검찰은 이날 우 전 수석이 가족 회사인 ‘정강’의 회삿돈 2억원을 생활비 등으로 유용(횡령)하고 의경으로 복무 중인 아들이 간부 운전병으로 특혜 선발되는 데 영향력을 행사했다는 혐의(직권 남용)를 조사했다. 이 두 사안은 이석수 전 특별감찰관이 검찰에 수사 의뢰한 것이다. 우 전 수석은 또 대검 중수부 수사기획관으로 근무하던 2011년 서울 강남역 인근에 있는 처가 소유의 부동산을 넥슨이 1326억원에 사줄 때 개입했다는 의혹에 대해서도 수사받았다. 검찰은 이 같은 혐의·의혹 상당 부분에 대해 무혐의 결론을 내릴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;우 전 수석은 ‘최순실 게이트’와 직간접적으로 연관돼 있다는 의혹도 받고 있지만, 검찰은 “이번 조사는 최순실씨 사건과는 상관이 없다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NEEPMUCYOECGV2DQLTQYRDLAH4.jpg?auth=03ae39069fa47833ba0d6ed345e294c9aa694f17a1fdcdbe97be219e53db74bb&amp;smart=true&amp;width=700&amp;height=313" type="image/jpeg" height="313" width="700">
-        <media:description type="plain">우병우를 대하는 검찰의 자세 - 6일 밤 9시 25분쯤 서울 서초동 서울중앙지검 11층에서 검찰 조사를 받는 우병우 전 청와대 민정수석의 모습을 본지 카메라가 포착했다. 우 전 수석은 자신을 조사한 김석우 특수2부장실(1108호) 옆에 딸린 부속실에서 점퍼의 지퍼를 반쯤 내린 채 팔짱을 끼고 여유 있는 표정을 짓고 있다. 옆쪽 창문으로는 검찰 직원으로 추정되는 두 사람이 일어서서 앞으로 손을 모은 채 우 전 수석의 얘기를 듣고 있는 모습이 보인다. 검찰을 쥐락펴락했던 우 전 수석의 ‘위세’를 그대로 보여주는 장면이다.</media:description>
-        <media:credit role="author" scheme="urn:ebu">고운호 객원기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[특종취재기]우병우가 다가가자 수사관이 벌떡 일어났다</title>
-      <link>https://www.chosun.com/site/data/html_dir/2016/11/07/2016110701728.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2016/11/07/2016110701728.html</guid>
-      <dc:creator>고운호 기자</dc:creator>
-      <description>11월6일 오후.오후 편집회의가 끝난 뒤 부장으로부터 취재지시가 떨어졌다.“검찰 밖에서 보이는 전 청와대 민정수석이 아니라 조사실의 우병우를 찍어보라”는 지시였다.앞서 검찰에 피의자 신분으로 출두한 우병우 전 수석은 질문을 하는 여기자를 날카로운 눈으로 쳐다봐 언론의 지탄을 받은 터였다. 사진 부장의 판단은 이런 것이었다. “소환과정에서 보여준 우 전 수석</description>
-      <pubDate>Mon, 07 Nov 2016 12:24:59 +0000</pubDate>
-      <content:encoded>11월6일 오후.오후 편집회의가 끝난 뒤 부장으로부터 취재지시가 떨어졌다.“검찰 밖에서 보이는 전 청와대 민정수석이 아니라 조사실의 우병우를 찍어보라”는 지시였다.앞서 검찰에 피의자 신분으로 출두한 우병우 전 수석은 질문을 하는 여기자를 날카로운 눈으로 쳐다봐 언론의 지탄을 받은 터였다. 사진 부장의 판단은 이런 것이었다. “소환과정에서 보여준 우 전 수석의 고압적인 자세, 그리고 검찰의 저자세. 조사실에서는 과연 어떤 모습이 연출될지 우리가 확인해 보자” 사진부 야간 데스크가 곧바로 검찰출입 기자에게 연락, 우병우 전 수석이 조사를 받을 것으로 예상되는 조사실 층수와 호수 정보를 파악해줬다. 다음 숙제는 조사실이 잘 보이는 촬영지점을 물색하는 것. 데스크는 조사실이 가장 잘 보이는 맞은편 건물의 ‘지점’을 낙점해줬다.&lt;br&gt;&lt;br&gt;&lt;b&gt;밤&lt;/b&gt; &lt;b&gt;8시30분.&lt;/b&gt;서울 서초동 서울중앙지검 맞은편 건물에 도착했다. 운좋게 옥상까지 별다른 어려움 없이 올라갔다. 기자의 무기는 캐논 1DX 카메라, 렌즈는 600mm 망원 렌즈. 여기에 2배율 텔레컨버터(화질은 떨어지지만 2배로 확대한 사진을 찍을 수 있다)를 끼우고 모노포드를 사용했다. 옥상 울타리에 렌즈를 거치한 후, 나무에 등을 기대고 ‘안정적’ 포즈를 잡았다. 이렇게 해야 셔터를 누를 때 흔들림이 없다. 데스크가 직접 건네줬던 고배율 망원경도 틈틈히 사용해 가면서 조사실의 분위기를 살폈다. 이제 남은 것은 조사실만 하염없이 바라보는 것이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4STLP2KCQMR73A3TSNECV6PVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;밤 8시 50분.&lt;/b&gt;건물 오른쪽부터 1호가 시작된다는 정보를 바탕으로 카메라 렌즈를 오른쪽에서 왼쪽으로 옮기며 겨눴다. 건물 중간에서 약간 왼쪽. 1118호만 뚫어지게 쳐다봤다. 우 전 수석 조사를 담당한 김석우 특수2부장실이었다. 그 순간 특수2부장실 바로 옆에 딸린 부속실 창에 누군가 모습을 드러냈다. &lt;br&gt;&lt;br&gt;아무 생각 없이 첫 셔터를 눌렀다. 앞이 보이지 않을 만큼 깜깜했고 눈으로 식별이 불가했지만, 느낌이 왔다. 누군가 목을 뒤로 젖혀 돌리는 식으로 스트레칭을 하면서 검찰 관계자들에게 다가갔다. 그가 조금 더 가까이 다가가자 앉아 있던 두 사람이 벌떡 일어났다. 수사를 하는 사람과, 받는 사람이 바뀐 듯한 느낌이었다. 촬영된 사진을 살펴보니 역시나 우병우 전 수석의 모습이 선명하게 담겨있었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLZIKNURFZE7TBH6RAQXY6UOT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;밤&lt;/b&gt; &lt;b&gt;9시&lt;/b&gt; &lt;b&gt;19분.&lt;/b&gt;육안으로 보기에 흐릿한 형상의 누군가 나타나 다시 셔터를 눌렀다.그는 우병우의 변호인 곽병훈 변호사였다. 곽 변호사는 바지 주머니에 손을 넣고 검찰 관계자들 앞에서 크게 웃는 모습이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVM2P2AXJRS46E5NXSUS7ZJWFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;밤&lt;/b&gt; &lt;b&gt;9시&lt;/b&gt; &lt;b&gt;25분. &lt;/b&gt;다시 무언가 움직임이 느껴졌다. 우병우였다. 점퍼 차림의 그는 팔짱을 끼고 웃음을 띤 채 정면을 바라보고 서 있었고, 그의 옆에 있는 두 사람의 검찰 관계자는 정자세로 서서 우 전 수석의 말을 듣고 있었다. 뒤이은 컷에는 우 전 수석이 계속 팔짱을 끼고 두 사람을 향해 서 있었고, 검찰의 두 사람은 자세를 풀지 않고 그대로 앞으로 손을 모은 채, 우 전 수석의 얘기를 듣고 있었다. 3초. 셔터를 누른 시간이었다. &lt;br&gt;&lt;br&gt;노트북을 열고 사진을 송고했다. 이 사진들 중 마지막에서 두번째 사진이 조선일보 1면에 실린 우병우 전 수석의 모습이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQRX5VHM6PWUXSSIF4IA75URPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후로도 7일 새벽 1시까지 조사실과 부속실을 향해 카메라를 맞추고 있었으나 나타나지 않았다. 그 동안 잠깐 빛만 스쳐도 찍은 사진만 900장. 우병우의 ‘위세’는 검찰에 출두할 때는 물론, 조사를 받을 때도 ‘한결 같은 것처럼’ 보였다. 조사실 안이 다른 점이 있다면, ‘지켜보는 눈’이 없었다는 점이다. 적어도 그들은 그렇게 판단하는 것 같았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/N4STLP2KCQMR73A3TSNECV6PVA.jpg?auth=57a04a36fd26a93cf1eda3e2d06ad6d47d258badcdb1a1eefcda5b26071809d3&amp;smart=true&amp;width=600&amp;height=422" type="image/jpeg" height="422" width="600">
-        <media:credit role="author" scheme="urn:ebu">고운호 기자</media:credit>
       </media:content>
     </item>
     <item>
