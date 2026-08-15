@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경남에 나흘간 3만5000t 물 공급... 비 예보에 국가소방동원령 해제</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/PRLTFSRSQBBQZHIJNQCJICLRFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/PRLTFSRSQBBQZHIJNQCJICLRFQ/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 12:09:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSDQZBUGVSTENZSHEYGMYZYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;극심한 가뭄을 겪고 있는 경남 밀양지역의 한 논에 뭉탱크차를 이용해 물을 대고 있는 강원도소방본부 소속 소방관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 가뭄이 이어진 경남에 전국 소방 물탱크차가 투입돼 나흘간 3만5000t에 가까운 물을 공급했다. 15일 밤부터 많은 비가 예보되면서 국가소방동원령은 이날 해제됐다.&lt;br&gt;&lt;br&gt;15일 경남소방본부 등에 따르면, 지난 11일 내려진 국가소방동원령은 이날 오후 6시 해제됐다. 나흘간 전국 지원 차량과 경남·창원소방본부 차량은 4603차례에 걸쳐 3만4839t의 물을 공급했다. 이 중 전국에서 지원된 물탱크차의 급수량은 1만8494t이었다.&lt;br&gt;&lt;br&gt;이날에는 농업용수 가뭄 단계가 가장 높은 ‘심각’ 단계인 밀양·거제·의령·함안·창녕 등 5개 시·군에 전국 소방 물탱크차 100대가 투입돼 3466.5t을 공급했다. 경남·창원소방본부 차량 59대도 나흘간 1만6345t을 지원했다.&lt;br&gt;&lt;br&gt;군도 가뭄 대응에 나섰다. 육·해·공군과 해병대 차량 102대가 통영·진주·하동·창원·김해 등 9개 시·군에 배치돼 이날 농업용수 1655.5t을 공급했다.&lt;br&gt;&lt;br&gt;경남 18개 시·군 전역에는 농업용수 가뭄 단계가 내려진 상태다. 이날 도내 평균 농업용수 저수율은 31.6%로 평년(70.4%)의 44.8% 수준이다. 다만 17일까지 50~150㎜, 남해안과 지리산 부근에는 200㎜ 이상의 비가 예보돼 가뭄이 다소 완화될 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 8월 16일 일요일 (음력 7월 4일 壬戌)</title>
       <link>https://www.chosun.com/national/national_general/2026/08/15/OP6YQ5LLNFD4RL6R7OQTO4I62Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/OP6YQ5LLNFD4RL6R7OQTO4I62Q/</guid>
@@ -909,19 +918,6 @@
       <description/>
       <pubDate>Fri, 14 Aug 2026 02:35:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RSG3Y6OLJE4DGTBPSVG6GKTA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 소방대원들이 경남 함안에서 가뭄 대응 급수 지원 활동을 이어가고 있다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역의 극심한 가뭄으로 국가소방동원령이 기약 없이 연장된 가운데, 광복절 연휴 기간 최대 150㎜ 이상의 많은 비가 예보돼 ‘가뭄 해갈’에 대한 기대감이 커지고 있다. 바닥을 드러낸 저수지와 타들어 가는 농심(農心)을 달래기 위해 전국 소방 당국이 연일 급수 총력전을 펼치고 있는 상황에서 이번 비가 구원투수가 될지 주목된다.&lt;br&gt;&lt;br&gt;14일 경남도에 따르면, 도내 18개 시군 평균 농업용수 저수율은 평년(70.6%)의 절반에도 못 미치는 32.2%까지 떨어졌다. 극심한 물 부족에 시달리며 도내 모든 시군이 농업용수 가뭄 단계에 진입했다. 밀양·거제·함안·의령·창녕 등 5곳은 최고 수준인 ‘심각’ 단계이며, 창원·김해 등 9곳은 ‘경계’ 단계에 머물러 있다. 사천시·남해군·거창군 등 3곳은 주의, 함양군은 관심 단계로 경남 전 시군이 가뭄 단계다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXXENY7EXFO2HGOZRTKZVS6GHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 경남 밀양시 무안면 웅동저수지가 가뭄 영향 등으로 말라 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가뭄 피해 면적도 눈덩이처럼 불어나고 있다. 벼와 과수, 밭작물 등 2762㏊에 달하는 농경지에서 고사와 잎마름 피해가 발생했다. 이는 하루 전 집계치(2400㏊)보다 362㏊ 급증한 수치다. 여의도 면적(290㏊)의 9배가 넘는 논밭에서 농작물이 타들어가고 있는 셈이다.&lt;br&gt;&lt;br&gt;가뭄 사태가 악화할 기미가 보이지 않으면서, 소방 당국의 급수 지원에 기대는 상황이다. 지난 11일 오후 8시 발령된 국가 소방 동원령은 당초 13일 오후 6시를 기해 해제될 예정이었지만 해제 기한을 정하지 않은 채 연장됐다. &lt;br&gt;&lt;br&gt;현재 농업용수 가뭄 심각 단계인 밀양·거제·함안·의령·창녕 등 5개 시·군에 12개 시도 소방서에서 온 물탱크차 100대가 물을 뿌리고 있다. 경남·창원소방본부 소속 차량 59대도 급수 지원에 나섰다. &lt;br&gt;&lt;br&gt;앞서 12~13일 이틀간 전국에서 집결한 소방 물탱크차들은 총 1744회에 걸쳐 1만 2445t의 물을 논밭 등에 뿌렸다. 경남 관내 차량도 6569t을 지원했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRBALMV3VFP6TCJWLTCKGXQH2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 오후 경남 의령소방서 앞에서 소방대원들이 급수 지원 임무를 마치고 인천으로 복귀하는 인천소방본부 소방대원들에게 감사의 인사를 건네고 있다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 가운데 15일부터 시작되는 광복절 연휴에 쏟아질 비 소식은 가뭄 현장에 한 줄기 희망이다. 기상청은 15일 오후부터 17일까지 부·울·경 지역에 50~100㎜의 비가 내릴 것으로 예보했다. 특히 16일에는 경남 남해안과 지리산 부근에 150㎜ 이상의 폭우가 집중될 것으로 전망했다. &lt;br&gt;&lt;br&gt;경남도는 가뭄 해소를 위해선 200㎜ 안팎의 비가 필요할 것으로 봤다. 현재 가뭄재난안전대책본부를 가동하면서 저수율이 낮은 저수지 170개에 비상급수 대책을 마련하고, 84곳엔 양수저류·직접급수 등에 돌입했다. 또 정부가 내려보낸 재난관리기금 등을 활용해 농업용수 확보, 농작물 피해 예방을 추진 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘상습도박·음주운전’ 이진호, 검찰 징역 2년 구형</title>
-      <link>https://www.chosun.com/national/incident/2026/08/14/KDLSRG4ZQRCPBAM5N4FQ7XGTQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/14/KDLSRG4ZQRCPBAM5N4FQ7XGTQQ/</guid>
-      <dc:creator>여주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 02:38:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55ODRGCMCROYVFU57CYTGNAJ24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 이진호가 14일 수원지법 여주지원에서 열린 음주운전 및 불법도박 혐의 사건 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상습 도박과 음주운전 혐의로 재판에 넘겨진 개그맨 이진호(40)씨에게 검찰이 징역 2년을 구형했다.&lt;br&gt;&lt;br&gt;14일 수원지법 여주지원 형사1단독 안태윤 부장판사 심리로 열린 이씨의 결심공판에서 검찰은 이씨에게 징역 2년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 이씨는 2023년 5월부터 2024년 10월까지 664차례에 걸쳐 총 8억7000여만원을 불법 도박사이트에 송금해 사이버머니로 바꾼 뒤 도박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이씨는 음주운전 혐의도 받고 있다. 지난해 9월 24일 혈중알코올농도 0.12% 상태에서 약 70㎞를 운전한 것으로 조사됐다. 혈중알코올농도 0.12%는 면허 취소 기준(0.08% 이상)을 웃도는 수치다.&lt;br&gt;&lt;br&gt;이씨는 지난 5월 상습도박과 도로교통법상 음주운전 혐의 등으로 불구속 기소됐다. 경찰은 앞서 국민신문고를 통해 이씨의 도박·사기 혐의를 조사해 달라는 민원을 접수한 뒤 수사에 착수해 사건을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;이씨에 대한 선고 공판은 다음 달 1일 오전 9시 40분 열린다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/55ODRGCMCROYVFU57CYTGNAJ24.JPG?auth=f21f31c077430c94a1cdc11125d9bec47acadae42d5fe2ac5d3fc42d062b012c&amp;smart=true&amp;width=1760&amp;height=2419" type="image/jpeg" height="2419" width="1760">
-        <media:description type="plain">개그맨 이진호가 14일 수원지법 여주지원에서 열린 음주운전 및 불법도박 혐의 사건 첫 공판에 출석하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(여주=뉴스1) 양희문 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>부산시, 6374억원 3차 추경…민생경제 회복에 2747억원 </title>
