@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 8월 17일 월요일 (음력 7월 5일 癸亥)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/16/5KQRZXKEBNDGTL5SHPLZJW3UPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/16/5KQRZXKEBNDGTL5SHPLZJW3UPQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>치매 부모 진료기록, 이젠 등본 안 떼도 열람·다른 병원 전송</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/16/EMXAZLW2EVB4LJMJV72O6SBOAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/16/EMXAZLW2EVB4LJMJV72O6SBOAA/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 07:00:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5IZHXZOQRQJSLPKU7HFYSYD2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=챗GPT 달리3&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 중증 치매를 앓는 부모나 발달장애 자녀의 진료 기록을 보호자가 대신 찾아보기가 수월해질 것으로 보인다.&lt;br&gt;&lt;br&gt;16일 보건복지부에 따르면, 정부는 최근 이 같은 내용의 ‘본인 진료 기록 열람 지원 시스템 구축·운영 등에 관한 고시’ 일부 개정안을 행정 예고했다.&lt;br&gt;&lt;br&gt;본인 진료 기록 열람 지원 시스템은 여러 의료기관에 흩어져 있는 자신의 진료·약물 처방·수술 이력 등 의료 기록을 환자가 한꺼번에 확인할 수 있는 시스템이다. 필요하면 다른 병·의원으로 전송할 수도 있다.&lt;br&gt;&lt;br&gt;통상 스마트폰 앱으로도 이런 정보를 확인할 수 있지만, 가족이나 법정 대리인이 정보에 접근하려면 친족 관계 확인 등을 위한 서류를 준비해 병원을 방문해야만 했다. 개인 정보 보호를 위한 절차였지만, 중증 치매나 발달장애 환자는 보호자의 번거로움이 지나치게 크다는 지적이 있었다.&lt;br&gt;&lt;br&gt;개정 고시가 시행되면 건강보험공단의 중증 치매 환자 정보와 사회보장정보시스템의 발달장애인 등록 정보가 시스템과 연계돼 대리 열람 대상자 확인이 가능해진다. 주민등록등본이나 가족관계증명서 등 서류도 연계돼 별도의 서류 제출이 필요 없어진다.&lt;br&gt;&lt;br&gt;복지부 관계자는 “앞으로는 가족의 주민등록번호와 이름을 입력하면 연계 시스템을 통해 가족관계 확인이 가능해져 진료 기록을 보는 절차가 간소화될 것”이라며 “환자 안전성과 돌봄 효율성을 높이기 위한 조치”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김필식 동신대 이사장 별세…향년 83세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/08/16/AFKGN5XFMRC6PMW6E26PMOBP4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/16/AFKGN5XFMRC6PMW6E26PMOBP4U/</guid>
+      <dc:creator>조선일보, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 06:00:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSTEOLDMM3DMZJUHBTDEMRRMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김필식 동강·해인학원 이사장./동신대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동신대 총장을 역임한 김필식 동강학원·해인학원 이사장이 향년 83세로 14일 별세했다.&lt;br&gt;&lt;br&gt;김 이사장은 광주여고와 서울대 농가정학과를 졸업한 후, 고려대 교육대학원에서 석사학위와 신라대학교에서 명예박사학위를 받았다. 1988년부터 2008년까지 동강대 교수를 지내고 2010년부터 2018년까지 제6대·7대 동신대 총장을 역임했다.&lt;br&gt;&lt;br&gt;2011년부터 동강학원(동신중·동신고·동신여중·동신여고 학교법인) 이사장을, 2002~2008년에 이어 2018년부터 동신대 학교법인 해인학원 이사장을 역임했다. &lt;br&gt;&lt;br&gt;고인은 대한적십자사 최초의 여성 지회장으로서 광주와 전남 지역 기부문화 확산에 기여했다. 또 대통령 직속 지방이양추진위원회 위원, 광주시여성단체협의회장, 2007광주세계여성평화포럼 추진위원장, 통일부 통일교육위원 광주협의회장 등을 맡기도 했다.&lt;br&gt;&lt;br&gt;김 이사장은 공로를 인정받아 청조근정훈장과 국민훈장 동백장, 무등여성대상, 대한적십자사 광무장 금장, 대한민국을 빛낸 호남인상을 수상했다. &lt;br&gt;&lt;br&gt;장례는 동신대학교장으로 치러지며 빈소는 동신대 대정도서관 1층 동강홀에 마련됐다. 영결식은 18일 오전 10시 동강홀에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제약사 리베이트 ‘현금 1억’ 받은 혐의 60대 의사 ‘무죄’...법원 “증거 부족”</title>
       <link>https://www.chosun.com/national/regional/2026/08/16/UWRHLHQF2RBQHNQRABMVSIC2J4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/UWRHLHQF2RBQHNQRABMVSIC2J4/</guid>
@@ -898,24 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6PYOQT5K5FL7G2EHPO34URLV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구 등에서 보증금 돌려막기로 전세 사기를 벌여 약 190억원을 챙긴 ‘가족 전세 사기단’이 검찰에 넘겨졌다. 피해자 대부분은 사회초년생이었다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 2024년부터 최근까지 중국 국적의 전세 사기 총책 홍모씨와 그의 친인척에 대해 수사를 벌였다. 경찰은 지난 2월부터 지난달 중순까지 총책 홍모씨의 아내 이모씨와 홍씨 부부의 친인척 등 16명을 사기 등 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;총책인 홍씨는 해외 체류 중이라 홍씨에 대한 수사는 중지된 것으로 전해졌다. 홍씨의 아내 이씨는 이미 검찰에 송치돼 1심에서 징역 10년을 선고받았다. 홍씨의 내연녀도 범행을 도운 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;이들은 2018년부터 2023년까지 서울 관악구 등에서 임차인들의 보증금과 대출금으로 다가구주택 11채를 지은 뒤 임대업을 벌인 뒤 피해자 128명으로부터 보증금 약 190억원을 가로챈 혐의를 받는다. 피해자 대부분은 사회초년생들이었다.&lt;br&gt;&lt;br&gt;이들은 먼저 받은 보증금을 건물 토지 매입과 건축, 다른 임차인들의 보증금 반환에도 사용하는 등 ‘보증금 돌려 막기’ 수법을 동원한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;홍씨는 건물 부지를 매입하고 명의를 빌려 건축주를 앞세우는 등 범행 전반을 총괄했다. 홍씨의 아내는 홍씨를 도와 건축주 명의 계좌를 관리하고 임대차 계약, 보증금 관리 등을 맡아온 것으로 알려졌다. 또 다른 공범인 홍씨의 내연녀도 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;홍씨 부부의 친인척들도 명의를 빌려주며 범행을 도운 혐의를 받는다. 홍씨의 아내 이씨는 자신의 자매, 자매의 시누이와 조카 명의까지 끌어다 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>백해룡, ‘세관 마약 의혹 합동 수사’ 임은정 동부지검장 고소</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/14/ZZLJSLJX35HVBGN5FCNLBZYKKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/ZZLJSLJX35HVBGN5FCNLBZYKKQ/</guid>
-      <dc:creator>김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 04:33:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CAV556CH5CLLLFEQTI5WM6PJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백해룡 경정(왼쪽)과 임은정 서울동부지검장./뉴스1·뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백해룡 경정이 ‘세관 마약 수사 외압 의혹’ 관련 합동수사단에서 함께 활동했던 임은정 서울동부지검장을 고소했다.&lt;br&gt;&lt;br&gt;백 경정 측은 14일 오전 경찰청 국가수사본부에 직권남용 및 허위 사실 적시 명예훼손 혐의로 임 지검장에 대한 고소장을 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;백 경정 측은 이날 입장문을 내고 “대통령 지시로 동부지검 합수단에 파견되었지만, 임 지검장이 백 경정 수사팀을 직제에 두지 않고 수사 범위를 제한하는 등 지휘권을 남용했다”고 주장했다. 백 경정은 지난해 10월 동부지검에 꾸려진 세관 마약 합수단에 합류했으나, 윗선이 실효적 권한을 내주지 않았다고 반발하며 석 달 만에 합수단을 떠났다.&lt;br&gt;&lt;br&gt;또 동부지검이 ‘백 경정이 마약 밀수범의 허위 진술에 속았고 수사에 불리한 자료를 누락했다’는 취지로 수사 결과를 발표해 명예를 훼손했다고 주장했다.&lt;br&gt;&lt;br&gt;아울러 백 경정은 유튜버 이동형씨에 대해서도 허위 사실 적시 명예훼손 혐의로 고소장을 제출했다. 백 경정은 이씨가 방송에서 ‘대통령실 관계자가 백 경정을 만나 마약게이트 관련 증거를 확인했으나 증거를 제시하지 못했다’고 말한 것을 두고 “정부 관계자를 만나 수사 내용이나 증거 관계를 설명한 적이 없다”고 반박했다. 이와 함께 백 경정에 대한 서울청 감찰에 대해서도 이의신청했다고 전했다.&lt;br&gt;&lt;br&gt;백 경정은 지난 12일엔 자신을 “망상에 빠진 경찰”이라고 표현한 한동훈 무소속 의원에 대해서도 명예를 훼손했다며 경찰에 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>싱글맘 죽음 내몬 사채업자...항소심서 징역 3년 6개월</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/14/UPMKV7OT5NAZVMWN5WAMOFAQTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/UPMKV7OT5NAZVMWN5WAMOFAQTY/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 04:25:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2DAZBWME3DQOJRGU2GGN3EHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홀로 유치원생 딸을 키우던 30대 싱글맘에게 돈을 빌려준 뒤 지속적으로 협박해 죽음에 이르게 한 사채업자가 2심에서 3년 6개월을 선고받았다. 1심에선 징역 4년이 선고됐었다. &lt;br&gt;&lt;br&gt;14일 서울북부지법 형사항소3부(부장 허명산)가 대부업법·채권추심업 위반 등 혐의를 받는 김모(34)씨에 대한 원심을 파기하고, 징역 3년 6개월을 선고했다. 범죄 수익금 770만776원 추징도 함께 명했다.&lt;br&gt;&lt;br&gt;김씨는 지난 2024년 7~11월 대부업 등록을 하지 않은 채 6명에게 총 1760만원을 고리로 빌려준 뒤, 이들의 가족·지인에게 협박성 메시지를 보내는 등 불법 추심 행위를 한 혐의를 받는다. 김씨가 피해자들에게 요구한 연 이자율은 법정이자율을 훌쩍 넘는 1233~6083%였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그런 김씨에게 지난 4월 1심 재판부는 김씨에게 징역 4년을 선고한 바 있다. 하지만 검찰과 김씨 측 모두 양형 부당 등을 이유로 항소했다. &lt;br&gt;&lt;br&gt;이날 2심 재판부는 “피고인은 무등록 대부업을 운영하며 제한 이자율을 초과한 연 1233％∼6083％ 상당의 고율 이자를 창출해 급전이 필요한 서민들로부터 과도한 이자를 받아 채무자들에게 재산적·정신적으로 상당한 고통을 가했다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “채무자들과 채무자들의 가족과 지인 등을 상대로 차마 입에 담기조차 힘든 인신공격성 표현이나 욕설하며 공포심과 수치심을 유발하는 불법적인 채권추심을 해 죄질이 무겁다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;다만 김씨가 항소심 재판 과정에서 피해자 일부와 추가로 합의한 점은 유리한 정상으로 참작됐다. &lt;br&gt;&lt;br&gt;한편 김씨에게 돈을 빌린 뒤 지속적으로 협박을 당한 30대 싱글맘은 2024년 9월 결국 자살해 전북 완주군에서 시신으로 발견됐다. 당시 김씨가 여성에게 요구했던 이자율은 연 4171%였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘광복절 연휴’ 전국에 많은 비... 가뭄 겪는 경남 최대 100㎜ 예보</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/14/VQD5CJPTLVGFFKLGWPP5CEKWHQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/14/VQD5CJPTLVGFFKLGWPP5CEKWHQ/</guid>
@@ -923,19 +935,6 @@
       <description/>
       <pubDate>Fri, 14 Aug 2026 01:29:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GIYTBGNRTIYJSMI3TEMBWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 전남광주 서구에 소나기가 내리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15호 태풍 ‘찬홈’이 소멸하며 남긴 뜨거운 수증기 덩어리가 저기압으로 변하며 광복절 연휴인 15~17일 전국에 많은 비가 예보됐다. 특히 가뭄에 시달리고 있는 남부와 제주를 중심으로 단비가 될 전망이다.&lt;br&gt;&lt;br&gt;14일 기상청에 따르면, 저기압의 영향으로 남부·제주는 15~17일, 중부는 16~17일 비가 예고됐다.&lt;br&gt;&lt;br&gt;15~16일 예상 강수량은 호남 30~80㎜, 부산·울산·경남 50~100㎜, 대구·경북·제주 30~80㎜로 예보됐다. 중부지방은 16일 비가 내리면서 수도권·강원 5~30㎜, 충청 20~60㎜로 예상된다.&lt;br&gt;&lt;br&gt;비는 16일 새벽부터 오전 사이 가장 강하게 내릴 것으로 보인다. 이 시간대에 전국에서 시간당 30~50㎜의 집중호우가 예상된다. ‘매우 강한 비’의 기준이 ‘시간당 30㎜ 이상’으로, 운전 시 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;15일 중부지방엔 소나기도 예고됐다. 수도권과 강원도, 충청에 5~50㎜의 소나기가 내리겠다. 소나기는 저기압과 달리 낮동안 기온이 오르면서 국지적으로 비를 쏟아낸다. 같은 지역이라도 소나기 구름대가 산발적으로 형성되면서 강수량 편차가 클 수 있다.&lt;br&gt;&lt;br&gt;이번 비는 17일까지 전국에 이어지면서 이날 밤부터 차차 그칠 전망이다. 아직 17일 예상 강수량은 발표되지 않았다.&lt;br&gt;&lt;br&gt;비의 영향으로 광복절 연휴에 기온은 내려갈 것으로 보인다. 15일은 최저 20~25도, 최고 27~32도의 기온 분포를 보이겠다. 16일은 기온이 더 내려가면서 최고기온이 24~30도의 분포를 보이겠다. 전국이 폭염(최고 체감온도 33도 이상)에서 벗어나는 것이다.&lt;br&gt;&lt;br&gt;광복절 연휴가 끝난 후엔 주말까지 비 소식 없이 전국이 다시 더워질 것으로 예상된다. 기상청은 다음 주 화요일인 18일부터 주말(22~23일)까지 최고기온이 33~34도까지 오를 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산시, 6374억원 3차 추경…민생경제 회복에 2747억원 </title>
-      <link>https://www.chosun.com/national/regional/2026/08/14/3MAGUA7A6JEXJNWOWL2SEWFZ74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/14/3MAGUA7A6JEXJNWOWL2SEWFZ74/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 01:03:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3FGY3CZ5RFM5JKYIMRKX4CID4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전재수 부산시장이 14일 부산시 브리핑룸에서 추경예산안을 설명하고 있다. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시가 ‘2026년 제3회 추가경정예산안’을 6374억원 규모로 편성해 부산시의회에 제출했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;민생경제 회복 부문에 가장 많은 2747억원을 배정했다.&lt;br&gt;&lt;br&gt;연 매출 10억원 이하 소상공인 28만명에게 1인당 20만원의 에너지 바우처를 지원한다.&lt;br&gt;&lt;br&gt;소상공인 4만명에게 1% 저리 특별자금 지원, 연 매출 10억원 이하 가맹점 14만곳에 동백전 카드수수료 0.15% 지원, 영업용 화물자동차 보험료 20만원 지원 등에도 나선다.&lt;br&gt;&lt;br&gt;침체한 지역 경제에 활력을 불어넣기 위해 동백전 캐시백을 기존 10%에서 15%로 100일간 한시적으로 확대한다.&lt;br&gt;&lt;br&gt;북항 부산오페라하우스의 내년 개관을 위해 사업비 437억원을 추가 편성하고 지역특화 AI 공간 컴퓨팅 육성사업과 AI 첨단산업 인재 양성 부트캠프 사업도 추진한다.&lt;br&gt;&lt;br&gt;외국인 관광객 400만명 시대를 맞아 숙박 할인권을 확대 지원하고, 부산역 유라시아 플랫폼 내 체험형 웰컴센터에도 추가 예산을 지원한다.&lt;br&gt;&lt;br&gt;전재수 시장은 “이번 추경이 민생은 즉시 챙기고, 부산을 다시 힘차게 뛰게 하는 출발점이 되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/B4H445N7BBDOZL7QEA5RCG7I3U.jpg?auth=1940801a021cce6ea313fbaa6d4b7d0c6e4d59ccda44a04a9e6e96c024e21c96&amp;smart=true&amp;width=582&amp;height=437" type="image/jpeg" height="437" width="582">
-        <media:description type="plain">전재수 부산시장</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>‘한국 프로야구 유일의 4할 타자’ 백인천 전 감독 별세</title>
