@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전남광주에 밤 사이 최대 201㎜ 폭우… 목포·진도는 8월 최고 시간당 강수량 기록</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/16/63EGDWVKKZFCXKOZXUCX7TG22M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/16/63EGDWVKKZFCXKOZXUCX7TG22M/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 01:43:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MXEVCVKWREBLCPC4T2JBPI5Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 7시 48분쯤 전남광주 해남군 황산면의 한 가게가 침수돼 소방당국이 배수작업을 하고 있다. /전남광주통합소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주지역에 하룻밤 사이 최대 강수량 201㎜ 폭우가 내려 곳곳에서 125건의 비 피해 신고가 잇따랐다. 기상청은 이튿날까지 최대 100㎜의 비가 더 내릴 것으로 전망했다.&lt;br&gt;&lt;br&gt;16일 광주지방기상청 등에 따르면 이날 오전 11시 기준 전남광주지역 누적 강수량은 해남 201.3㎜, 영암 185.9㎜, 목포 165㎜, 진도 133㎜, 무안 110㎜, 장흥 87.5㎜, 여수 74㎜, 광주 45.8㎜ 등으로 나타났다. 시간당 강수량은 목포 66.4㎜, 해남 64㎜, 진도 60.8㎜, 무안 44㎜, 영광 33.5㎜ 등이다.&lt;br&gt;&lt;br&gt;목포와 진도는 8월 중 시간당 강수량 역대 최고치를 기록했다. 목포에서 종전 8월 중 시간당 강수량 최고치는 2023년 8월 23일 기록된 55.7㎜였다. 진도는 2025년 8월 9일 기록된 48.6㎜였다. 전남광주 전역에서 역대 8월 중 시간당 강수량 최고치 기록은 2011년 8월 7일 광양에서 나타난 106.5㎜다.&lt;br&gt;&lt;br&gt;많은 비가 내리면서 전남광주 전역에서 125건의 호우 피해 신고가 이어졌다. 침수 118건과 하수구 역류·나무 쓰러짐 등 7건이다. 이날 오전 5시 47분쯤 전남광주 목포시 호남동의 한 주택은 물이 차올라 주민 2명이 고립됐다가 소방 당국에 구조됐다. 소방 당국은 이날 오전 7시 48분쯤 해남군 황산면의 한 상점에서 긴급 배수 작업을 벌였다. 전남 나주시 삼영동에서는 나무가 쓰러져 안전 조치가 이뤄졌다.&lt;br&gt;&lt;br&gt;전남권역 51개 항로를 오가는 여객선 88척 중 5개 항로 5척은 운항을 중단했다. 지리산과 월출산, 무등산, 다도해 등 국립공원 탐방로도 전면 또는 일부 통제됐다.&lt;br&gt;&lt;br&gt;인명 피해는 발생하지 않았다. 호우경보는 모두 해제됐다. 현재 전남 보성, 여수, 광양, 순천, 장흥, 강진, 거문도·초도, 고흥 북부, 고흥 남부, 완도 등 지역에 호우주의보가 내려졌다.&lt;br&gt;&lt;br&gt;전남광주지역은 이튿날 오전까지 50~100㎜의 비가 더 내릴 것으로 예보됐다. 기상청은 전남 서부 남해안과 지리산 부근에는 최대 150㎜, 전남 동부 남해안에는 200㎜가 넘는 비가 올 것으로 전망했다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “서해상에서 동진하는 저기압의 영향을 받아 따뜻하고 습한 남서기류가 유입돼 전남지역을 중심으로 강한 비가 내렸다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MXEVCVKWREBLCPC4T2JBPI5Q4.jpg?auth=83538c137ecc2bb200453b3617909c60387b944d62494c2a320aba82d9d2f6af&amp;smart=true&amp;width=4032&amp;height=3024" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">16일 오전 7시 48분쯤 전남광주 해남군 황산면의 한 가게가 침수돼 소방당국이 배수작업을 하고 있다. /전남광주통합소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>당진 도비도항서 해루질하던 남·녀 2명, 물에 빠져 숨져</title>
       <link>https://www.chosun.com/national/regional/2026/08/16/ZRM2TIZHSJAN7PHUFZCMGJXIRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/ZRM2TIZHSJAN7PHUFZCMGJXIRU/</guid>
@@ -902,19 +914,6 @@
       <description/>
       <pubDate>Fri, 14 Aug 2026 03:50:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3TENLDGY3DANRUGBSWMMJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시 동인청사/대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 남구에서 소나무 재선충병에 감염된 나무 한 그루가 발견돼 당국이 방제에 나섰다. 남구에서 소나무 재선충병이 발생한 사례는 지난 2020년 이후 약 6년 만이다.&lt;br&gt;&lt;br&gt;대구시는 지난 12일 남구 대명동에 있는 남덕초의 잣나무가 소나무 재선충병 감염목으로 확인됐다고 14일 밝혔다. 대구 남구에선 2020년 11월 소나무 재선충병이 처음 발생했다. 이후 2년간 재선충병이 발생하지 않아 2023년 12월 청정 지역으로 전환됐으나, 올해 다시 재선충병에 감염된 나무가 발견된 것이다.&lt;br&gt;&lt;br&gt;전날 대구시는 산림청, 국립산림과학원, 한국산림재난안전기술공단 등과 소나무 재선충병 긴급 중앙 방제 대책 회의를 열고, 재선충병 발생 현황과 경로 파악, 방제 및 확산 차단 대책 등을 논의했다.&lt;br&gt;&lt;br&gt;대구시는 감염된 잣나무를 즉시 제거하고 주변 소나무에 예방 나무 주사를 놓는 등 현장 방제를 실시했다. 이와 별도로 감염목 발생지 반경 5㎞ 이내를 정밀 예찰해 또 다른 소나무재선충병 감염 사례가 있는지 확인하고, 감염목 반경 2㎞ 이내를 소나무류 반출 금지구역으로 지정했다. 소나무 재선충병이 퍼지는 것을 막기 위한 조치다.&lt;br&gt;&lt;br&gt;추경호 대구시장은 “시민들의 휴식처인 앞산공원 등을 비롯한 산림자원 보호를 위해서도 소나무 재선충병 확산 차단에 총력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘FC안양 제재금 1000만원 사비 대납’ 최대호 안양시장 검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2026/08/14/XFBYJJAGVNHN3ADUKRAI5BKMLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/14/XFBYJJAGVNHN3ADUKRAI5BKMLA/</guid>
-      <dc:creator>안양=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 02:57:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWHX643T4VOC5FU2PJ7ZXCK3T4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;FC안양의 구단주인 최대호 안양시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로축구 K리그1 FC안양에 부과된 제재금 1000만원을 사비로 대신 낸 최대호 안양시장이 공직선거법 위반 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 안양동안경찰서는 공직선거법상 기부행위 제한 위반 혐의로 최 시장을 최근 수원지검 안양지청에 송치했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;FC안양 구단주인 최 시장은 지난해 5월 20일 기자회견을 열고 프로축구 심판 판정의 공정성에 문제를 제기했다. 그는 당시 “FC안양의 여러 경기에서 반복적으로 발생한 공정하지 못한 심판 판정에 대해 더는 침묵할 수 없다”며 “심각한 판정 오류들이 누적됐다”고 했다.&lt;br&gt;&lt;br&gt;한국프로축구연맹은 최 시장의 발언이 기업구단과 시민구단을 갈라치고 승부 조작에 대한 오해를 불러일으킬 수 있다고 보고 FC안양을 상벌위원회에 회부해 제재금 1000만원을 부과했다.&lt;br&gt;&lt;br&gt;최 시장은 이후 제재금 1000만원을 자신의 돈으로 납부했다. 안양시 동안구선거관리위원회가 이에 대해 조사해 행정 조치를 했고, 이후 한 시민이 최 시장을 공직선거법 위반 혐의로 고발하면서 경찰 수사가 시작됐다.&lt;br&gt;&lt;br&gt;최 시장은 “구단주로서 책임을 다하기 위해 개인적으로 납부한 것”이라는 입장을 밝혀왔다.&lt;br&gt;&lt;br&gt;그러나 경찰은 법리 검토와 검찰 협의를 거쳐 최 시장의 제재금 대납이 공직선거법상 기부행위에 해당한다고 판단했다. 시장이 당연직 구단주를 맡는 시민구단이라 하더라도 정치인인 시장이 구단에 부과된 제재금을 사비로 대신 낸 것은 선거구 내 기관·단체에 금전적 이익을 제공한 것으로 볼 수 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YWHX643T4VOC5FU2PJ7ZXCK3T4.JPG?auth=23bb28146916e2c8636e7a7e8b7e805d66893f59056e99e5582917bfb201c8e9&amp;smart=true&amp;width=5641&amp;height=3837" type="image/jpeg" height="3837" width="5641">
-        <media:description type="plain">FC안양의 구단주인 최대호 안양시장. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(안양=뉴스1) 김영운 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>‘광복절 연휴’ 전국에 많은 비... 가뭄 겪는 경남 최대 100㎜ 예보</title>
