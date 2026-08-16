@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>남부지방에 호우...광주·전남, 경남에 비 피해 신고 잇따라</title>
+      <link>https://www.chosun.com/national/regional/2026/08/16/JWKBG3372RACVFQJEYKGSUE2NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/JWKBG3372RACVFQJEYKGSUE2NU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 09:31:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MXEVCVKWREBLCPC4T2JBPI5Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 7시 48분쯤 전남광주 해남군 황산면의 한 가게가 침수돼 소방당국이 배수작업을 하고 있다. /전남광주통합소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 남부 지방을 중심으로 폭우가 내리면서 비 피해 신고가 잇따랐다. 기상청은 이튿날까지 최대 100㎜의 비가 더 내릴 것으로 전망했다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 상하이 부근에서 발달한 저기압이 서해상을 통과한 뒤 우리나라 전역을 훑고 지나가며 17일까지 많은 비가 내리겠다. &lt;br&gt;&lt;br&gt;16~17일 예상 강수량은 중부지방 20~60㎜, 전남광주 50~100㎜, 전북 30~80㎜, 경남남해안·지리산 부근 100~200㎜, 부산·울산·경남 50~150㎜, 대구·경북 50~100㎜, 제주도 30~80㎜ 등이다. 비구름대는 18일 영남에 5~30㎜, 제주에 5~20㎜의 마지막 비를 뿌린 후 우리나라를 빠져나갈 전망이다.&lt;br&gt;&lt;br&gt;많은 비가 내리면서 전남광주 전역에서 125건의 호우 피해 신고가 이어졌다. 침수 118건과 하수구 역류·나무 쓰러짐 등 7건이다. 이날 오전 5시 47분쯤 전남광주 목포시 호남동의 한 주택은 물이 차올라 주민 2명이 고립됐다가 소방 당국에 구조됐다. 소방 당국은 이날 오전 7시 48분쯤 해남군 황산면의 한 상점에서 긴급 배수 작업을 벌였다. 전남 나주시 삼영동에서는 나무가 쓰러져 안전 조치가 이뤄졌다.&lt;br&gt;&lt;br&gt;전남권역 51개 항로를 오가는 여객선 88척 중 5개 항로 5척은 운항을 중단했다. 지리산과 월출산, 무등산, 다도해 등 국립공원 탐방로도 전면 또는 일부 통제됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35KR4AFFQVAGHEVULWZ5CJHDC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 경남 산청군 한 도로에서 폭우에 쓰러진 소나무가 길을 막고 있다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에도 비 피해가 속출했다. 이날 오후 5시 기준 비 피해 신고 43건이 119에 접수됐다. 폭우로 쓰러진 나무가 도로를 가로막는 등 ‘도로 장애’가 25건으로 가장 많았다. 이 외에도 낙석이나 침수 피해가 발생해 소방이 지원에 나섰다.&lt;br&gt;&lt;br&gt;부산에서도 많은 비가 내리면서 지하차도와 강변 산책로, 해수욕장 등 42곳의 출입이 통제됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가습기살균제 피해자연대, 광화문 빈소 설치 두고 서울시와 대치</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/16/RTRV26KMZ5HNBG5YD27LACN4IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/16/RTRV26KMZ5HNBG5YD27LACN4IU/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 09:21:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3TMNTCMI4GMOLCMI3DCMRUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국가습기살균제참사피해자연대가 16일 오전 11시부터 서울 종로구 광화문 광장에서 고(故) 서영철 대표의 빈소 마련을 위한 천막과 테이블 설치 등을 두고 서울시와 대치를 이어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국가습기살균제참사피해자연대가 고(故) 서영철 전국가습기살균제참사피해자연대 대표 빈소를 광화문 광장에 마련하기 위한 천막 설치를 두고 서울시와 대치 중이다. &lt;br&gt;&lt;br&gt;16일 본지 취재에 따르면 피해자연대는 이날 오전 11시쯤부터 서울 종로구 광화문 광장에서 천막과 테이블 설치 등을 두고 서울시와 대치하고 있다. 이날 오후 6시가 넘어서까지 천막은 설치하지 못한 상태다.&lt;br&gt;&lt;br&gt;피해자연대는 비를 막기 위해 고인의 영정사진 위에 천막을 설치해야 한다는 입장이다. 김현수 피해자연대 사무처장은 “고인의 영정사진과 관이 비를 맞고 있으니 천막을 치려는 것뿐”이라며 “서울시는 허가를 받지 않은 설치라며 제지하고 있다”고 했다. &lt;br&gt;&lt;br&gt;당초 피해자연대는 광화문 광장에 서 대표의 빈소를 마련하고 조문객은 서울시청 앞 광장에서 받을 예정이었다. 김 사무처장은 “서울시 측이 천막 설치를 막으면서 빈소 마련에도 차질을 빚고 있다”고 했다. &lt;br&gt;&lt;br&gt;서 대표는 지난 11일 기흉이 발생해 서울대병원 응급센터를 찾았으나 69세 나이로 숨졌다. 가습기 살균제 피해자인 그는 생전 산소발생기에 의존해 휠체어 생활을 해왔으며 생전 “내가 죽으면 장례를 치르지 말고 광화문 광장에서 투쟁해 달라”는 유언을 남긴 것으로 전해졌다. &lt;br&gt;&lt;br&gt;피해자연대는 지난 14일 광화문 광장에서 기자회견을 열고 국가의 책임 인정과 공식 사과, 중단된 진상규명 재개 등을 촉구했다. &lt;br&gt;&lt;br&gt;가습기 살균제 사건은 1994년부터 판매된 가습기 살균제 제품으로 인해 사용자들이 폐 손상 등을 입은 사건이다. 어린이와 임산부를 중심으로 원인을 알 수 없는 폐 질환이 잇따르자 정부가 역학조사에 나섰고, 2011년 질병관리본부 조사에서 가습기 살균제와 폐 손상 간 인과관계가 확인됐다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 2018년 1월 옥시 전 대표에게 업무상 과실치사 등의 혐의로 징역 6년이 확정됐다. 2024년 2월에는 서울고법이 처음으로 가습기 살균제 피해에 대한 국가의 배상 책임을 인정했다. 다만 당시 법원은 특별법에 따라 국가로부터 구제급여를 받은 경우에는 추가 배상을 받을 수 없다고 판단했고, 이 판결은 그해 6월 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 8월 17일 월요일 (음력 7월 5일 癸亥)</title>
       <link>https://www.chosun.com/national/national_general/2026/08/16/5KQRZXKEBNDGTL5SHPLZJW3UPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/16/5KQRZXKEBNDGTL5SHPLZJW3UPQ/</guid>
@@ -926,28 +944,6 @@
       <description/>
       <pubDate>Fri, 14 Aug 2026 06:30:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6PYOQT5K5FL7G2EHPO34URLV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구 등에서 보증금 돌려막기로 전세 사기를 벌여 약 190억원을 챙긴 ‘가족 전세 사기단’이 검찰에 넘겨졌다. 피해자 대부분은 사회초년생이었다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 2024년부터 최근까지 중국 국적의 전세 사기 총책 홍모씨와 그의 친인척에 대해 수사를 벌였다. 경찰은 지난 2월부터 지난달 중순까지 총책 홍모씨의 아내 이모씨와 홍씨 부부의 친인척 등 16명을 사기 등 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;총책인 홍씨는 해외 체류 중이라 홍씨에 대한 수사는 중지된 것으로 전해졌다. 홍씨의 아내 이씨는 이미 검찰에 송치돼 1심에서 징역 10년을 선고받았다. 홍씨의 내연녀도 범행을 도운 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;이들은 2018년부터 2023년까지 서울 관악구 등에서 임차인들의 보증금과 대출금으로 다가구주택 11채를 지은 뒤 임대업을 벌인 뒤 피해자 128명으로부터 보증금 약 190억원을 가로챈 혐의를 받는다. 피해자 대부분은 사회초년생들이었다.&lt;br&gt;&lt;br&gt;이들은 먼저 받은 보증금을 건물 토지 매입과 건축, 다른 임차인들의 보증금 반환에도 사용하는 등 ‘보증금 돌려 막기’ 수법을 동원한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;홍씨는 건물 부지를 매입하고 명의를 빌려 건축주를 앞세우는 등 범행 전반을 총괄했다. 홍씨의 아내는 홍씨를 도와 건축주 명의 계좌를 관리하고 임대차 계약, 보증금 관리 등을 맡아온 것으로 알려졌다. 또 다른 공범인 홍씨의 내연녀도 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;홍씨 부부의 친인척들도 명의를 빌려주며 범행을 도운 혐의를 받는다. 홍씨의 아내 이씨는 자신의 자매, 자매의 시누이와 조카 명의까지 끌어다 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘광복절 연휴’ 전국에 많은 비... 가뭄 겪는 경남 최대 100㎜ 예보</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/08/14/VQD5CJPTLVGFFKLGWPP5CEKWHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/14/VQD5CJPTLVGFFKLGWPP5CEKWHQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 01:29:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GIYTBGNRTIYJSMI3TEMBWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 전남광주 서구에 소나기가 내리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15호 태풍 ‘찬홈’이 소멸하며 남긴 뜨거운 수증기 덩어리가 저기압으로 변하며 광복절 연휴인 15~17일 전국에 많은 비가 예보됐다. 특히 가뭄에 시달리고 있는 남부와 제주를 중심으로 단비가 될 전망이다.&lt;br&gt;&lt;br&gt;14일 기상청에 따르면, 저기압의 영향으로 남부·제주는 15~17일, 중부는 16~17일 비가 예고됐다.&lt;br&gt;&lt;br&gt;15~16일 예상 강수량은 호남 30~80㎜, 부산·울산·경남 50~100㎜, 대구·경북·제주 30~80㎜로 예보됐다. 중부지방은 16일 비가 내리면서 수도권·강원 5~30㎜, 충청 20~60㎜로 예상된다.&lt;br&gt;&lt;br&gt;비는 16일 새벽부터 오전 사이 가장 강하게 내릴 것으로 보인다. 이 시간대에 전국에서 시간당 30~50㎜의 집중호우가 예상된다. ‘매우 강한 비’의 기준이 ‘시간당 30㎜ 이상’으로, 운전 시 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;15일 중부지방엔 소나기도 예고됐다. 수도권과 강원도, 충청에 5~50㎜의 소나기가 내리겠다. 소나기는 저기압과 달리 낮동안 기온이 오르면서 국지적으로 비를 쏟아낸다. 같은 지역이라도 소나기 구름대가 산발적으로 형성되면서 강수량 편차가 클 수 있다.&lt;br&gt;&lt;br&gt;이번 비는 17일까지 전국에 이어지면서 이날 밤부터 차차 그칠 전망이다. 아직 17일 예상 강수량은 발표되지 않았다.&lt;br&gt;&lt;br&gt;비의 영향으로 광복절 연휴에 기온은 내려갈 것으로 보인다. 15일은 최저 20~25도, 최고 27~32도의 기온 분포를 보이겠다. 16일은 기온이 더 내려가면서 최고기온이 24~30도의 분포를 보이겠다. 전국이 폭염(최고 체감온도 33도 이상)에서 벗어나는 것이다.&lt;br&gt;&lt;br&gt;광복절 연휴가 끝난 후엔 주말까지 비 소식 없이 전국이 다시 더워질 것으로 예상된다. 기상청은 다음 주 화요일인 18일부터 주말(22~23일)까지 최고기온이 33~34도까지 오를 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘한국 프로야구 유일의 4할 타자’ 백인천 전 감독 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/14/TCWDXXJA7JEOZKT6MAGJYURUBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/14/TCWDXXJA7JEOZKT6MAGJYURUBQ/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 23:36:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5J6YF5OBBNNYFFN5SNZ2ZX254U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로야구 LG 사령탑 시절 백인천 감독. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 프로야구 사상 유일한 ‘4할 타자’ 백인천 전 감독이 14일 오전 충남 천안에서 별세했다. 향년 83세.&lt;br&gt;&lt;br&gt;KBO(한국야구위원회)에 따르면 충남 천안에 거주하던 고인은 이날 오전 심정지 상태로 인근 병원에 옮겨졌으나 숨졌다고 한다. 네 차례 뇌경색을 겪으며 투병해 온 그는 전날에도 정기 검진을 받을 정도로 비교적 안정적인 상태였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;1942년 중국 장쑤성 우시에서 태어난 고인은 1962년 일본 프로야구에 진출해 19년간 활약했다. 1975년에는 퍼시픽리그 타격왕에 올랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIY3FQLTTBCJPN2CD4FZ2SHAIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국내 프로야구 사상 유일하게 4할대 타율을 기록한 백인천의 MBC시절 모습./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1982년 한국 프로야구 출범과 함께 귀국해 MBC 청룡 초대 감독 겸 선수로 뛰며 타율 0.412를 기록했다. 지금까지도 깨지지 않은 한국 프로야구 유일의 4할대 타율이다.&lt;br&gt;&lt;br&gt;1990년에는 LG 초대 감독으로 한국시리즈 우승을 이끌었고, 이후 삼성과 롯데 감독을 지냈다. 현역과 지도자 시절 ‘투혼의 야구’를 강조하며 강한 승부사로 이름을 남겼다.&lt;br&gt;&lt;br&gt;KBO는 고인의 장례를 KBO장으로 치르기로 했다. 빈소는 천안 단국대병원에 마련됐다. 발인 등 장례 일정은 미국에 거주 중인 동생이 귀국하는 대로 정해질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CDUASB2VLVCPBOGD6LPEPYQPJY.jpg?auth=4f5572f11d3abaea48505dfe97156795ce4b781a896c5aad0c311f3c9e328b1d&amp;smart=true&amp;width=1508&amp;height=848" type="image/jpeg" height="848" width="1508">
-        <media:description type="plain">국내 프로야구 사상 유일하게 4할대 타율을 기록한 백인천의 MBC시절 모습./조선일보DB</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>홍명보, 경찰 조사서 “감독 선임 과정에서 정몽규와 소통한 적 없다”</title>
