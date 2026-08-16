@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제약사 리베이트 ‘현금 1억’ 받은 혐의 60대 의사 ‘무죄’...법원 “증거 부족”</title>
+      <link>https://www.chosun.com/national/regional/2026/08/16/UWRHLHQF2RBQHNQRABMVSIC2J4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/UWRHLHQF2RBQHNQRABMVSIC2J4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 05:17:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제약사 영업사원들로부터 1억원 상당의 리베이트를 받은 혐의로 재판에 넘겨진 의사가 1심에서 무죄를 선고받았다. 다만 골프 연습기를 받은 혐의는 유죄로 인정돼 벌금형을 받았다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 부산지법 형사17단독 목명균 판사는 의료법 위반 혐의로 기소된 A씨에게 벌금 50만원을 선고했다. 다만 1억원 상당의 리베이트를 받은 혐의에 대해선 증거 부족을 이유로 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;부산에서 의원을 운영하는 A씨는 2022년 7월부터 2023년 11월까지 의약품 채택이나 처방 유도, 거래 유지 등을 대가로 B 제약회사 영업사원들로부터 18차례에 걸쳐 현금 1억126만원을 받은 혐의로 기소됐다. 또 B사로부터 골프 연습기를 받은 혐의도 받는다.&lt;br&gt;&lt;br&gt;재판 과정에서 A씨는 자신의 혐의를 모두 부인했다. 재판부도 리베이트로 건넨 현금이 실제로 A씨에게 전달됐다고 인정하기엔 증거가 부족하다고 판단했다.&lt;br&gt;&lt;br&gt;제약사 영업사원들은 법정에서 A씨가 처방한 B사 의약품 처방액 가운데 20%에 해당하는 돈을 리베이트로 전달했다고 진술했다. 하지만 재판부가 실제 처방액을 토대로 계산한 금액은 이들의 진술과 상당한 차이가 났다. &lt;br&gt;&lt;br&gt;제약회사에선 영업사원이 리베이트 명목으로 돈을 받아간 뒤 실제 A씨에게 전달했는지 별도로 확인하지 않았다. 영업사원들도 돈을 건넨 내용을 장부에 기록하지 않았다. 또 영업사원 중 한 명은 회사로부터 받은 리베이트 자금 일부를 개인적으로 사용한 사실도 확인됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인에게 돈을 건넨 내용을 정리한 장부나 출금 내용 등 객관적인 자료가 남아 있지 않다”면서 “영업사원들의 공소사실 관련 진술도 그대로 믿기 어렵다”고 했다. 하지만 A씨가 B사로부터 받은 골프 연습기에 대해선 유죄로 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “영업사원 입장에서는 골프 연습기가 필요하다는 피고인의 요구를 무시하기 어려웠을 것으로 보인다”며 “의약품 채택·처방 유도·거래 유지 등 판매촉진을 목적으로 받은 것으로 볼 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘4세 원아’ 헛구역질 하는데 음식 먹이고, 과자 흘렸다고 고성...보육교사 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2026/08/16/FEEPVG7ISBFM7KS7TOXYHZG2DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/FEEPVG7ISBFM7KS7TOXYHZG2DQ/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 03:48:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DO2PNAXEGANSXXZVDEDDP2JWFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헛구역질하는 어린이집 원생에게 음식을 먹이고, 과자 부스러기를 흘렸다는 이유로 10분 넘게 야단친 보육교사에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사2단독 신혜원 부장판사는 아동학대 혐의로 기소된 40대 보육교사 A씨에게 벌금 300만원을 선고했다고 16일 밝혔다. 40시간의 아동학대 치료프로그램 이수도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 5~6월 울산 중구의 한 어린이집에서 자신이 돌보던 4세 원생 등을 상대로 4차례에 걸쳐 정서적으로 학대한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;어린이집 방범 카메라(CCTV) 영상에는 A씨가 한 원생이 헛구역질을 하는데도 국물을 떠먹이거나, 식사를 빨리 끝내려는 듯 짧은 시간에 음식을 급하게 먹이는 모습이 담겼다.&lt;br&gt;&lt;br&gt;원생들이 간식 부스러기를 책상에 흘렸다는 이유로 격앙된 채 목소리를 높여 10분 넘게 야단치기도 했다. 당시 아이들은 자리를 옮기지 못하고 A씨의 눈치를 본 것으로 나타났다.&lt;br&gt;&lt;br&gt;또 원생의 양어깨를 들어 자리를 옮기거나 몸을 거칠게 잡아끌어 테이블 가까이 앉히는 등의 행동도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 이 같은 행동이 사회통념상 허용되는 보육행위를 넘어선 정서적 학대에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;다만 강제로 많은 양의 밥을 먹여 원생이 헛구역질하게 했다는 공소사실 한 건은 무죄로 판단했다. CCTV 영상을 보면 A씨가 아이가 음식을 씹을 때까지 기다리거나 대화를 나누며 식사하도록 한 모습도 있어 공소사실이 충분히 입증되지 않았다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 아직 의사 표현이 서툰 아동들을 정서적으로 학대했고, 피해 아동과 부모들로부터 용서받지 못했다”며 “다만 초범인 점을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영월 국도서 관광버스 전도…1명 중상·17명 경상 </title>
+      <link>https://www.chosun.com/national/regional/2026/08/16/EJO7YBVG7JAS3CVKZXSYBUH454/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/EJO7YBVG7JAS3CVKZXSYBUH454/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 04:24:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5ZSNP6ESNGHPN52FIIMDBAUNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 8시 57분쯤 강원 영월군의 한 국도에서 한반도면 쌍용리 느릅재터널을 지나 영월 방향으로 주행하던 관광버스가 옹벽을  들이받고 전도되는 사고가 났다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오전 8시 57분쯤 강원 영월군 한반도면 쌍용리 38번 국도 느릅재터널 인근에서 영월 방향으로 주행하던 관광버스가 옹벽을 들이받고 전도됐다. &lt;br&gt;&lt;br&gt;이 사고로 승객 1명이 크게 다쳐 병원으로 옮겨졌다. 버스 기사와 승객 등 17명도 가벼운 부상을 입었다. 경상자 중 일부는 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;신고를 접수한 소방 당국은 경찰과 장비 14대, 인력 32명을 현장에 투입해 신고 접수 34분 만인 오전 9시 31분쯤 탑승자 전원을 구조했다.&lt;br&gt;&lt;br&gt;이날 사고는 다른 차량의 끼어들기를 피하려다 발생한 것으로 경찰은 추정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 버스 기사와 목격자 등을 상대로 구체적인 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일까지 경남에 200㎜ 더...두 태풍이 남긴 수증기에 남부 집중호우</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/16/DJ2OPZPTHFFGHKYE673WAZ7RNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/16/DJ2OPZPTHFFGHKYE673WAZ7RNE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 04:31:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHGLUP2RXJIPBJQGWP5P2QIYSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 5시 47분쯤 해남군 황산면 한 식당이 집중호우에 침수돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일까지 남부를 중심으로 많은 비가 예상된다. 중국과 일본에 상륙한 태풍이 소멸하며 남긴 수증기 덩어리가 우리나라에 많은 비를 뿌리고 있다.&lt;br&gt;&lt;br&gt;16일 기상청에 따르면, 중국 상하이 부근에서 발달한 저기압이 서해상을 통과한 뒤 우리나라 전역을 훑고 지나가며 17일까지 많은 비가 내리겠다.&lt;br&gt;&lt;br&gt;16~17일 예상 강수량은 중부지방 20~60㎜, 전남광주 50~100㎜, 전북 30~80㎜, 경남남해안·지리산 부근 100~200㎜, 부산·울산·경남 50~150㎜, 대구·경북 50~100㎜, 제주도 30~80㎜ 등이다. 비구름대는 18일 영남에 5~30㎜, 제주에 5~20㎜의 마지막 비를 뿌린 후 우리나라를 빠져나갈 전망이다.&lt;br&gt;&lt;br&gt;16일 남부 곳곳엔 이미 많은 비가 내렸다. 이날 정오 기준 전남광주 해남에 178.5㎜, 목포 160㎜, 영암 149㎜, 무안 143㎜ 등 100㎜ 넘는 비가 쏟아졌다. 경남 사천과 하동은 90㎜, 남해와 산청은 73.5㎜를 기록했다. 제주는 한라산 중심으로 180㎜ 넘게 비가 내렸다.&lt;br&gt;&lt;br&gt;이처럼 많은 비가 내리는 것은 두 개의 태풍이 소멸한 영향이다. 중국 상하이로 향했던 13호 ‘돌핀’이 소멸하며 저기압으로 바뀌고, 일본 내륙을 통과한 16호 ‘찬홈’이 소멸하며 동해상에 수증기를 더해주면서 예상보다 더 많은 비가 내리고 있다. &lt;br&gt;&lt;br&gt;광복절 연휴에 쏟아진 비를 통해 남부 가뭄이 크게 개선될 것으로 예상되지만, 하루에 100㎜ 넘는 집중호우가 쏟아지면서 비 피해가 발생하는 지역도 늘어날 전망이다.&lt;br&gt;&lt;br&gt;한편 18일부터는 우리나라가 북태평양고기압 가장자리에 들면서 다시 기온이 점차 올라갈 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전남광주에 밤 사이 최대 201㎜ 폭우… 목포·진도는 8월 최고 시간당 강수량 기록</title>
       <link>https://www.chosun.com/national/national_general/2026/08/16/63EGDWVKKZFCXKOZXUCX7TG22M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/16/63EGDWVKKZFCXKOZXUCX7TG22M/</guid>
@@ -878,42 +914,6 @@
       <description/>
       <pubDate>Fri, 14 Aug 2026 04:25:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2DAZBWME3DQOJRGU2GGN3EHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홀로 유치원생 딸을 키우던 30대 싱글맘에게 돈을 빌려준 뒤 지속적으로 협박해 죽음에 이르게 한 사채업자가 2심에서 3년 6개월을 선고받았다. 1심에선 징역 4년이 선고됐었다. &lt;br&gt;&lt;br&gt;14일 서울북부지법 형사항소3부(부장 허명산)가 대부업법·채권추심업 위반 등 혐의를 받는 김모(34)씨에 대한 원심을 파기하고, 징역 3년 6개월을 선고했다. 범죄 수익금 770만776원 추징도 함께 명했다.&lt;br&gt;&lt;br&gt;김씨는 지난 2024년 7~11월 대부업 등록을 하지 않은 채 6명에게 총 1760만원을 고리로 빌려준 뒤, 이들의 가족·지인에게 협박성 메시지를 보내는 등 불법 추심 행위를 한 혐의를 받는다. 김씨가 피해자들에게 요구한 연 이자율은 법정이자율을 훌쩍 넘는 1233~6083%였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그런 김씨에게 지난 4월 1심 재판부는 김씨에게 징역 4년을 선고한 바 있다. 하지만 검찰과 김씨 측 모두 양형 부당 등을 이유로 항소했다. &lt;br&gt;&lt;br&gt;이날 2심 재판부는 “피고인은 무등록 대부업을 운영하며 제한 이자율을 초과한 연 1233％∼6083％ 상당의 고율 이자를 창출해 급전이 필요한 서민들로부터 과도한 이자를 받아 채무자들에게 재산적·정신적으로 상당한 고통을 가했다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “채무자들과 채무자들의 가족과 지인 등을 상대로 차마 입에 담기조차 힘든 인신공격성 표현이나 욕설하며 공포심과 수치심을 유발하는 불법적인 채권추심을 해 죄질이 무겁다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;다만 김씨가 항소심 재판 과정에서 피해자 일부와 추가로 합의한 점은 유리한 정상으로 참작됐다. &lt;br&gt;&lt;br&gt;한편 김씨에게 돈을 빌린 뒤 지속적으로 협박을 당한 30대 싱글맘은 2024년 9월 결국 자살해 전북 완주군에서 시신으로 발견됐다. 당시 김씨가 여성에게 요구했던 이자율은 연 4171%였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2차 특검 ‘尹 체포 방해’ 나경원·김기현·윤상현·권영진 의원 불구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/14/X42RXH7PMJBYVNSACS735DWTPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/14/X42RXH7PMJBYVNSACS735DWTPA/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 03:53:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRDKMTFMY2TOZLBG42TAYTGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2차 종합특검의 김지미 특검보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 지난해 1월 윤석열 전 대통령 체포영장 집행을 방해한 혐의로 국민의힘 나경원·김기현·윤상현·권영진 의원을 14일 불구속 기소했다.&lt;br&gt;&lt;br&gt;특검은 이날 “나 의원 등 4명을 특수공무집행방해 혐의로 불구속 기소했다”고 밝혔다. 특검에 따르면, 이들은 지난해 1월 15일 서울 한남동 대통령 관저 앞에서 윤 전 대통령 지지자들과 함께 ‘인간벽’을 형성하는 등 다중의 위력을 행사해 고위공직자범죄수사처 검사와 수사관들의 체포영장 집행을 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;특검은 영장 집행에 참여한 공무원들의 진술과 당시 채증영상, 영상 속 폭언 녹취록, 유사 사건 판결 등 동종 사안에 관한 법리 및 유죄 판결문 분석 등 기타 객관적인 증거를 종합해 나 의원 등이 단순히 체포에 반대하는 의사를 표시하는데 그치지 않고, 현장에 있던 다수의 사람들과 함께 인간벽을 형성하는 등 영장 집행을 현실적으로 방해했다고 판단했다.&lt;br&gt;&lt;br&gt;당시 공수처와 경찰은 윤 전 대통령에 대한 두 번째 체포영장 집행에 나선 상태였다. 공수처는 앞서 세 차례 출석 요구에 불응한 윤 전 대통령에 대해 체포영장을 청구했고 법원은 2024년 12월 31일 영장을 발부했다. 공수처는 지난해 1월 3일 첫 집행을 시도했지만 대통령경호처와 군 경비 인력 등의 저지에 막혀 5시간여 만에 철수했다. &lt;br&gt;&lt;br&gt;이후 1월 15일 2차 집행에 나섰고 윤 전 대통령을 체포했다. 2차 집행 당시 나 의원 등 4명을 포함한 국민의힘 의원 30여 명은 새벽부터 대통령 관저 앞에 모여 영장 집행에 항의했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2028년부터 카자흐스탄 근로자 들어온다… 고용 허가제 송출국 18국으로 확대</title>
-      <link>https://www.chosun.com/politics/goverment/2026/08/14/ZZTMPEIIX5CHXPFFECAFBTGIDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/08/14/ZZTMPEIIX5CHXPFFECAFBTGIDA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 03:25:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2WMNJZGBRWCYRQMI2DSMDEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 9일 인천국제공항 제1여객터미널 입국장을 통해 외국인 근로자들이 입국하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 한국에 저숙련 근로자를 보낼 수 있는 국가로 14일 카자흐스탄을 추가 지정했다. &lt;br&gt;&lt;br&gt;국무총리실은 이날 오전 정부서울청사와 세종청사에서 임기근 국무조정실장 주재로 49차 외국인력정책위원회를 열어, 카자흐스탄을 고용 허가제 송출국으로 지정하는 안건을 확정했다고 밝혔다.&lt;br&gt;&lt;br&gt;정부는 고용 허가제를 통해, 인력 송출국으로 지정한 국가에서만 제한적으로 저숙련 근로자를 받아들이고 있다. 이를 통해 들어오는 외국인에게는 ‘비전문 취업’(E-9) 비자가 부여되고, 이들은 제조업, 건설업, 농축산업, 어업, 건설 폐기물 처리업 등 지정된 업종에만 취업할 수 있다. 국내 체류 기간은 4년 10개월로 제한된다.&lt;br&gt;&lt;br&gt;송출국은 중국, 우즈베키스탄, 타지키스탄, 키르기스스탄, 몽골, 인도네시아, 필리핀, 베트남, 태국, 미얀마, 캄보디아, 라오스, 동티모르, 파키스탄, 방글라데시, 네팔, 스리랑카 등 17국이었으나, 카자흐스탄 추가 지정으로 18국으로 늘었다. 기존 17국의 인구는 약 26억명, 카자흐스탄은 약 2100만명이다.&lt;br&gt;&lt;br&gt;정부는 송출국 추가 지정에 대해 “송출국을 다변화하고 현장의 인력 도입 수요에 보다 효과적으로 대응하며, 양국 간 협력 관계를 더욱 공고히 하기 위한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;카자흐스탄을 지정한 것에 대해서는 “송출 업무를 전담할 수 있는 정부·공공기관을 두고 있어 송출 과정의 공공성과 투명성 확보가 가능하며, 인력 선발을 위한 사전 취업 교육 시설, 고용 허가제 센터, 건강 검진 시설 등 주요 인프라 확보에도 특별한 문제점이 없는 것으로 평가됐다”고 했다. “불법 체류 방지를 위한 제도 개선 등 카자흐스탄의 협력 의지도 확인했다”고 했다.&lt;br&gt;&lt;br&gt;카자흐스탄 근로자들은 2028년부터 본격적으로 들어올 예정이다. 정부는 “인력 도입에 차질이 없도록, 정부 간 고용 허가제 MOU(양해 각서) 체결, 현지 고용 허가제 센터 설치 등을 위해 카자흐스탄과 협력을 지속해 나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;정부는 건설업 분야의 외국인 근로자 고용 허가제 운영 방식도 일부 변경했다고 밝혔다.&lt;br&gt;&lt;br&gt;기존에는 건설 현장 단위로 고용 허가와 고용 제한 조치가 이뤄져, 외국인 근로자를 다른 건설 현장에 재배치하는 것은 기존 현장 공사가 종료됐거나 중단된 경우 등 제한적인 경우에만 가능했다. 또 고용자가 노동법을 위반한 경우 부과되는 고용 제한 조치는 법 위반이 발생한 현장에만 국한되고 동일 고용자의 다른 현장에는 효력이 미치지 않아, 큰 효과가 없다는 지적이 많았다.&lt;br&gt;&lt;br&gt;이에 따라 정부는 고용자가 외국인 근로자를 다른 현장으로 재배치할 수 있게 하고, 고용 제한 조치도 동일 고용자의 모든 공사 현장에 대해 확대 적용하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부 ‘박상용·집단 퇴정 징계' 시도에…檢 내부 “제 식구 죽이는 먼지털이식 감찰”</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/14/LAC6YN7L7VCHBL7ISZWCAPT33E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/14/LAC6YN7L7VCHBL7ISZWCAPT33E/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 02:56:11 +0000</pubDate>
-      <content:encoded>법무부가 ‘쌍방울 불법 대북 송금 사건’을 수사했던 박상용 인천지검 부부장검사에 대한 감찰위원회를 진행하고, 지난해 11월 이화영 전 경기도 평화부지사의 위증 재판에서 공판 검사들이 법관 기피 신청 후 집단 퇴정한 데 대해 수원지검 지휘부를 징계 의결했다는 사실이 알려지자 검찰 내부에선 “결론을 정해둔 감찰”이라며 “징계 의결의 근거를 정확하고 구체적으로 밝히라”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTIMJSMZRDMYTBGE4DGNZQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공봉숙 서울고검 검사는 지난 13일 검찰 내부망 ‘이프로스’에 “수원지검 지휘부를 징계해야 한다고 의결한 근거를 알려달라”며 “대검에서 무혐의 처분을 했음에도 법무부가 직접 감찰위를 다시 열어 징계 의결을 했는데, 판단이 번복된 이유에 대해 설명해달라”고 했다. 공 검사는 “(이 전 부지사의 위증) 사건이 최고 권력자인 대통령과 직접 관련됐다는 것 자체로 징계 의결의 공정성과 중립성에 의문이 제기될 수 있다”고도 했다.&lt;br&gt;&lt;br&gt;그는 또 “기피 신청이 있으면 특별한 경우를 제외하고는 소송 진행이 정지되도록 돼 있으므로 ‘검사 퇴정’은 자연스러운 후속 조치”라며 “구체적 사건에 대해서는 원칙적으로 일선 검찰청에서 법무부에 사전 보고를 할 수 없도록 돼 있다”고 말했다. 당시 수원지검 지휘부가 기피 신청권을 남용하거나, 매뉴얼상 수원지검 지휘부가 대검이 아닌 법무부에 직접 기피 신청 사실을 보고해야 할 의무가 없다는 것이다. &lt;br&gt;&lt;br&gt;그러면서 공 검사는 “검사들은 어떤 것이 적극적인 업무 처리, 제대로 된 공소 유지이고, 어떤 것이 검찰권 남용인지 기준을 알 수 없게 된다”며 “결국 검사들은 극단적인 복지부동, 패배주의와 타협, 눈치 보기를 할 수밖에 없지 않겠냐”고 덧붙였다.&lt;br&gt;&lt;br&gt;박상용 검사의 징계 청구 사유에 업무시간 중 페이스북 글 게시와 국민의힘 청문회 참석 서면 보고 누락이 추가된 것에 대해서도 비판의 목소리가 나왔다. 안미현 천안지청 검사는 지난 12일 자신의 페이스북에서 “검찰이 망하게 된 이유 중 하나는 먼지 털이식 수사”라며 “10월 2일에는 가루도 없어질 조직인데 정신 못 차리고 먼지 털이식 감찰을 한다”고 말했다. &lt;br&gt;&lt;br&gt;안 검사는 특히 “(인터뷰 등 검사의 외부 활동 규정은) 사전 승인도 아니고 사전 신고이고, 반드시 서면으로 사전 신고해야 한다고 규정된 것이라고 보이지 않으므로, 구두로 사전 신고했다면 징계 사유로 삼을 수 없다고 보인다”며 “과거엔 제 식구 감싸기가 문제였는데, 이제는 제 식구 죽이고 무엇을 얻으려는 건지 감도 안 온다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 남구서 6년만에 소나무 재선충병 발생... 긴급 방제 조치</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/14/A5RSA5QS2RBLRFIUMZL3LGICAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/A5RSA5QS2RBLRFIUMZL3LGICAI/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 03:50:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3TENLDGY3DANRUGBSWMMJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시 동인청사/대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 남구에서 소나무 재선충병에 감염된 나무 한 그루가 발견돼 당국이 방제에 나섰다. 남구에서 소나무 재선충병이 발생한 사례는 지난 2020년 이후 약 6년 만이다.&lt;br&gt;&lt;br&gt;대구시는 지난 12일 남구 대명동에 있는 남덕초의 잣나무가 소나무 재선충병 감염목으로 확인됐다고 14일 밝혔다. 대구 남구에선 2020년 11월 소나무 재선충병이 처음 발생했다. 이후 2년간 재선충병이 발생하지 않아 2023년 12월 청정 지역으로 전환됐으나, 올해 다시 재선충병에 감염된 나무가 발견된 것이다.&lt;br&gt;&lt;br&gt;전날 대구시는 산림청, 국립산림과학원, 한국산림재난안전기술공단 등과 소나무 재선충병 긴급 중앙 방제 대책 회의를 열고, 재선충병 발생 현황과 경로 파악, 방제 및 확산 차단 대책 등을 논의했다.&lt;br&gt;&lt;br&gt;대구시는 감염된 잣나무를 즉시 제거하고 주변 소나무에 예방 나무 주사를 놓는 등 현장 방제를 실시했다. 이와 별도로 감염목 발생지 반경 5㎞ 이내를 정밀 예찰해 또 다른 소나무재선충병 감염 사례가 있는지 확인하고, 감염목 반경 2㎞ 이내를 소나무류 반출 금지구역으로 지정했다. 소나무 재선충병이 퍼지는 것을 막기 위한 조치다.&lt;br&gt;&lt;br&gt;추경호 대구시장은 “시민들의 휴식처인 앞산공원 등을 비롯한 산림자원 보호를 위해서도 소나무 재선충병 확산 차단에 총력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘광복절 연휴’ 전국에 많은 비... 가뭄 겪는 경남 최대 100㎜ 예보</title>
