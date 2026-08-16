@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘70학번 박근혜’도 털렸다…경찰, ‘서강대 해킹 사고’ 내사 착수 </title>
+      <link>https://www.chosun.com/national/national_general/2026/08/16/CMMJEFJJ5FAEJCTCONTRP5AFEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/16/CMMJEFJJ5FAEJCTCONTRP5AFEU/</guid>
+      <dc:creator>지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 13:09:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7OWW66X5NF6JF7VRG5WWRD5U4.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;서강대가 지난 14일 공식 홈페이지에 개인정보 유출 사고 발생에 대한 사과문을 올렸다./서강대 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서강대학교에서 재학생·졸업생·교직원 개인정보 약 18만 건이 유출된 사고와 관련해 입건 전 조사(내사)에 착수했다. 유출 대상에는 서강대 전자공학과 70학번인 박근혜 전 대통령의 개인정보도 포함된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;16일 경찰에 따르면 서울경찰청 사이버수사과는 서강대 개인정보 유출 사고를 인지한 뒤 지난 15일 내사를 시작했다. 경찰은 이번 조사를 통해 외부 공격 경위와 개인정보 유출 규모 등을 확인할 예정이다.&lt;br&gt;&lt;br&gt;앞서 서강대 디지털정보처는 지난 14일 홈페이지에 ‘개인정보 유출 사고 발생에 따른 통지 및 사과문’을 올리고 “통합 로그인 계정 정보에 대해 신원 미상의 외부 공격으로 일부 개인정보가 유출된 것으로 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;유출된 개인정보 항목은 학번, 성명, 소속, 이메일 주소, 휴대전화 번호, 암호화된 통합 비밀번호 등이다. &lt;br&gt;&lt;br&gt;서강대에 따르면 외부 공격은 지난 11일 해외의 비인가IP접근으로 발생했다. 학교 측은 사흘 뒤인 14일 사고를 인지하고, 공격IP와 서버 네트워크를 차단하면서 접속 제한을 설정하는 등 긴급 방어 조치에 나섰다. 교육부와 개인정보보호위원회에도 유출 사실을 신고했다.&lt;br&gt;&lt;br&gt;한편 이 사고로 1970년 서강대 전자공학과에 입학한 박근혜 전 대통령의 개인정보도 유출된 것으로 확인됐다. 학교 측은 홈페이지에 개인정보 유출 여부를 확인할 수 있는 링크를 걸었는데, 박 전 대통령의 정보를 입력하면 ‘개인정보 항목이 유출된 것으로 확인됐다’는 안내가 뜬다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종합특검, 김건희 특검서 ‘양평 고속도로’ 수사 정보 유출한 경찰관 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/16/BTIJ7PUOX5D5RFJ4A5TK5SBQTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/16/BTIJ7PUOX5D5RFJ4A5TK5SBQTA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 12:55:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRWGZJQMM3TCOJUMVTDMOLDMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2차 종합특검팀 현판./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 ‘서울~양평 고속도로 노선 변경 특혜 의혹’으로 김건희 특검의 수사를 받던 국토교통부 공무원에게 수사 정보를 유출한 혐의를 받는 현직 경찰관을 재판에 넘긴 것으로 16일 확인됐다.&lt;br&gt;&lt;br&gt;2차 특검은 지난 7일 경찰청 소속 경정 A씨를 공무상 비밀누설·수사방해(김건희 특검법) 혐의로 불구속 기소했다고 &lt;br&gt;&lt;br&gt;A씨는 지난해 김건희 특검의 수사를 받던 국토교통부 김모 과장에게 수사 진행 상황과 압수수색 관련 정보 등을 전달한 혐의를 받는다. A씨와 김 과장은 고교·대학 동문 사이인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 과장은 대통령직인수위원회에 파견된 2022년 3월쯤 서울~양평 고속도로 종점을 김건희 여사 일가의 땅이 있는 경기 양평군 강상면 일대로 변경하는 과정에 관여했다는 의혹으로 지난해 김건희 특검의 수사를 받았다. A씨는 당시 경찰청 범죄정보과에 근무 중이었다.&lt;br&gt;&lt;br&gt;2차 특검은 A씨가 김 과장으로부터 ‘수사 내용을 알아봐 달라’는 취지의 부탁을 받고, 당시 김건희 특검에 파견된 경찰관 등을 통해 수사 정보를 파악한 뒤 이를 김 과장에게 전달한 것으로 보고 있다. A씨는 단순 정보 수집 목적인 것처럼 김건희 특검 파견 경찰관에게 접근해, 압수수색 시점 등 수사 내용을 일부 알아낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;2차 특검은 김 과장이 A씨에게서 전달받은 정보를 토대로 압수수색 여부와 시점을 예상하고 국토부 사무실로 이동해 이메일을 삭제하는 등 일부 자료를 없앤 것으로 보고 있다. A씨는 현재 경찰청 마약조직범죄수사과에서 근무 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 태안 모항항 갯바위서 50대 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/08/16/PDB7FOGKGRA55MXLPM5UW55XEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/16/PDB7FOGKGRA55MXLPM5UW55XEY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Aug 2026 10:47:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM6H6PXGPZBV5KBPF3JPMBXTCI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 오어진·chat GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안군의 한 항구 인근 갯바위에서 50대 남성이 추락해 숨졌다.&lt;br&gt;&lt;br&gt;16일 해경 등에 따르면, 이날 낮 12시 54분쯤 50대 남성 A씨가 약 6m 높이의 갯바위에서 떨어졌다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 사고 발생 20여 분 만에 심정지 상태로 구조돼 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 일행과 함께 모항항을 찾았다가 사고를 당한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경은 목격자와 일행 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>남부지방에 호우...광주·전남, 경남에 비 피해 신고 잇따라</title>
       <link>https://www.chosun.com/national/regional/2026/08/16/JWKBG3372RACVFQJEYKGSUE2NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/16/JWKBG3372RACVFQJEYKGSUE2NU/</guid>
@@ -935,37 +962,6 @@
       <description/>
       <pubDate>Fri, 14 Aug 2026 06:37:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSGKYTGMNRWMNJVGY3WGNDEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제 지역에서 오랜 기간 근무하면서 ‘거제왕’으로 불리며 각종 비위를 저지른 경찰 간부가 14일 경찰청 조사를 받았다.&lt;br&gt;&lt;br&gt;경찰청은 이날 오후 경남 김해서부경찰서 소속 A 경정을 불러 조사하고 있는 것으로 확인됐다. 지난 6월 말 경찰청이 A 경정에 대해 고강도 감찰에 착수한 지 40여 일 만에 이뤄진 첫 대면 조사다.&lt;br&gt;&lt;br&gt;A경정은 1991년 순경으로 시작해 경찰 생활 35년 중 대부분을 거제에서 근무한 이른바 ‘향찰(鄕察)’이다. 지역에서 쌓은 인맥과 영향력 등을 동원해 경찰 인사에 부당하게 관여해왔다는 의혹을 받는다. 회식 자리에서 후배 여경을 성추행하고, 부하 직원에게 승진을 대가로 술값을 내게 하는 등 갑질을 했다는 의혹도 있다. 그는 올해 상반기 인사 때 경남 내 다른 지역으로 발령받자 경남경찰청장을 찾아가 폭언을 했다는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;경찰은 A경정 관련 의혹을 감찰하면서, 정식 수사에도 착수한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사회초년생 보증금 190억원 가로챈 ‘가족 전세 사기단’ 檢 송치</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/14/EM2SBLEBRVFM5D7K56OTH6GOXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/EM2SBLEBRVFM5D7K56OTH6GOXY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 06:30:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6PYOQT5K5FL7G2EHPO34URLV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구 등에서 보증금 돌려막기로 전세 사기를 벌여 약 190억원을 챙긴 ‘가족 전세 사기단’이 검찰에 넘겨졌다. 피해자 대부분은 사회초년생이었다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 2024년부터 최근까지 중국 국적의 전세 사기 총책 홍모씨와 그의 친인척에 대해 수사를 벌였다. 경찰은 지난 2월부터 지난달 중순까지 총책 홍모씨의 아내 이모씨와 홍씨 부부의 친인척 등 16명을 사기 등 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;총책인 홍씨는 해외 체류 중이라 홍씨에 대한 수사는 중지된 것으로 전해졌다. 홍씨의 아내 이씨는 이미 검찰에 송치돼 1심에서 징역 10년을 선고받았다. 홍씨의 내연녀도 범행을 도운 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;이들은 2018년부터 2023년까지 서울 관악구 등에서 임차인들의 보증금과 대출금으로 다가구주택 11채를 지은 뒤 임대업을 벌인 뒤 피해자 128명으로부터 보증금 약 190억원을 가로챈 혐의를 받는다. 피해자 대부분은 사회초년생들이었다.&lt;br&gt;&lt;br&gt;이들은 먼저 받은 보증금을 건물 토지 매입과 건축, 다른 임차인들의 보증금 반환에도 사용하는 등 ‘보증금 돌려 막기’ 수법을 동원한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;홍씨는 건물 부지를 매입하고 명의를 빌려 건축주를 앞세우는 등 범행 전반을 총괄했다. 홍씨의 아내는 홍씨를 도와 건축주 명의 계좌를 관리하고 임대차 계약, 보증금 관리 등을 맡아온 것으로 알려졌다. 또 다른 공범인 홍씨의 내연녀도 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;홍씨 부부의 친인척들도 명의를 빌려주며 범행을 도운 혐의를 받는다. 홍씨의 아내 이씨는 자신의 자매, 자매의 시누이와 조카 명의까지 끌어다 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍명보, 경찰 조사서 “감독 선임 과정에서 정몽규와 소통한 적 없다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/14/XFLWO3C5B5ETPDLONWHSNVMALQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/14/XFLWO3C5B5ETPDLONWHSNVMALQ/</guid>
-      <dc:creator>강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Aug 2026 00:16:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4GIM3CMJSDOYZSGE2TMYJWGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 홍명보 전 축구 국가대표팀 감독이 서울 여의도 국회에서 열린 문화체육관광위원회의 대한축구협회 현안 관련 청문회에 출석했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍명보 전 축구 국가대표팀 감독이 자신의 선임 과정에서 정몽규 당시 대한축구협회장과 소통한 적이 없다고 수사기관에 진술했다.&lt;br&gt;&lt;br&gt;14일 본지 취재에 따르면 서울경찰청 광역수사단 금융범죄수사대는 지난 4일 홍 전 감독을 피의자로 조사하면서 “감독 선임 과정에서 정몽규 회장과 연락한 적 없다”는 취지의 진술을 확보했다.&lt;br&gt;&lt;br&gt;경찰은 2024년 대표팀 감독 선임 당시 정 전 회장과 이임생 당시 대한축구협회 기술총괄이사 등 윗선의 부당한 개입이 있었는지 수사 중이다. 그런데 홍 전 감독이 이에 대해 아는 바가 없다는 취지로 진술한 것이다.&lt;br&gt;&lt;br&gt;앞서 이 전 이사도 서울고등법원에 제출한 소송 참가 신청서를 통해 ‘정몽규 전 회장의 지시로 홍명보 등 3인의 감독 후보자와 만나 면담했다’는 취지로 주장했다.&lt;br&gt;&lt;br&gt;홍 전 감독은 ‘축구협회 전력강화위원회의 당시 논의에 대해 아는 바가 있느냐’는 취지의 질문에도 “아는 바가 없다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지난 6일 경찰은 충남 천안에 있는 대한축구협회 사무실과 서울 종로구 축구회관을 압수수색해 감독 선임 과정과 관련된 자료를 확보했다. 경찰은 압수물 분석을 마치는 대로 정 전 회장을 불러 조사할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GM4GIM3CMJSDOYZSGE2TMYJWGU.jpg?auth=3f91905132f84659af4957269eb1454e660cd9d2bb6f5ba51c31f375d207c571&amp;smart=true&amp;width=3864&amp;height=2544" type="image/jpeg" height="2544" width="3864">
-        <media:description type="plain">지난달 30일 홍명보 전 축구 국가대표팀 감독이 서울 여의도 국회에서 열린 문화체육관광위원회의 대한축구협회 현안 관련 청문회에 출석했다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>젊은층 ‘황반변성’ 4년새 65% 증가</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/14/S2Z5ARXOBBDQBBZVZ34SWKZMS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/14/S2Z5ARXOBBDQBBZVZ34SWKZMS4/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Aug 2026 15:44:00 +0000</pubDate>
-      <content:encoded>노인층에서 주로 나타났던 안과 질환인 ‘황반변성’이 최근 2030 젊은 층에서 급증하는 것으로 나타났다. 실내 활동과 스마트폰 이용 시간이 늘면서 젊은 층의 고도 근시가 늘었고, 이것이 ‘근시성 황반변성’으로 이어지고 있다는 분석이다.&lt;br&gt;&lt;br&gt;황반은 망막의 중심부로 시력의 대부분을 담당한다. 황반변성이 생기면 황반 내 시세포가 손상돼 시력 장애로 이어진다. 심하면 실명할 수도 있다. &lt;br&gt;&lt;br&gt;13일 건강보험심사평가원에 따르면, 황반변성으로 진료를 받은 환자는 2021년 36만7463명에서 2025년 62만2961명으로 4년간 69.5% 증가했다.&lt;br&gt;&lt;br&gt;지난해 기준 전체 환자의 85.4%가 60세 이상이고, 환자 3명 중 1명(33.5%)이 70대일 정도로 고령 환자 비중이 크다. 하지만 최근엔 20·30대 환자도 가파르게 증가하는 추세다. 20·30대 환자는 2021년 4179명에서 2025년 6898명으로 65.1% 늘었다. 특히 30대는 같은 기간 2986명에서 5284명으로 77% 급증했다. &lt;br&gt;&lt;br&gt;젊은 세대의 황반변성은 고령층의 노화로 인한 황반변성과는 원인과 진행 양상이 다르다. 젊은 층에서는 고도 근시가 대표적인 원인으로 꼽힌다. 스마트폰 등 디지털 기기 사용 시간이 늘고, 실내 중심 생활로 자연광을 접하는 시간이 줄어 최근 젊은 세대의 고도 근시가 빠르게 늘고 있는 추세다. 2013∼2022년 군 신체검사를 받은 서울 지역 19세 남성 10명 중 2명(20.3%)은 고도 근시였다.&lt;br&gt;&lt;br&gt;김민 강남세브란스병원 안과 교수는 “고도 근시로 안구의 앞뒤 길이(안축장)가 길어지면서 망막 등이 얇아지고 황반부에 비정상적인 새 혈관이 자라날 수 있다”며 “처음엔 별 증상이 없다가 추후 시력 저하, 물체가 휘어 보이는 증상 등으로 이어지는데, 고도 근시가 있으면 1년에 한 번은 안과 검진을 받는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
