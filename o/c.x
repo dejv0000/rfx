@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 “답안지 있는데 엉뚱한 곳에서 땅 찾아선 안 돼”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/18/77FSKEM6SRG3PCJCFTPRKJLXVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/77FSKEM6SRG3PCJCFTPRKJLXVY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Aug 2026 05:13:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43GKMZZMM4GKYRTMM2WCMTFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 18일 국무회의에서 용산공원 부지에 주택을 공급하겠다는 정부 방침에 공개적으로 반대 입장을 밝혔다. 오는 20일 예정된 김윤덕 국토교통부 장관과의 회동과 용산공원 조성 특별법 개정안의 국회 본회의 처리를 이틀 앞두고 문제를 제기한 것이다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 “국무회의에 참석해 대통령과 국무위원들께 서울시의 입장을 분명하게 말씀드렸다”며 “대통령께 용산공원에 아파트를 짓는 문제에 대해서도 분명히 반대의 뜻을 말씀드렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 “용산공원은 서울 한복판에 마지막으로 남은 대규모 녹지”라며 “뉴욕의 센트럴파크, 런던의 하이드파크, 파리의 뤽상부르공원처럼 세계 주요 도시들이 도심 한복판의 녹지를 도시의 상징이자 미래 세대를 위한 자산으로 지켜왔듯 용산공원 역시 서울의 미래를 위해 반드시 지켜야 할 소중한 공간”이라고 했다. 그는 “역대 민주당 출신 대통령들 역시 용산공원을 함부로 훼손해서는 안 된다는 원칙을 견지해 왔다”고도 했다.&lt;br&gt;&lt;br&gt;오 시장은 서울의 녹지가 통계상 착시를 일으킨다고도 주장했다. 그는 “서울은 산지가 많아 전체 공원 면적만 보면 녹지가 충분해 보일 수 있으나, 시민들이 일상에서 누릴 수 있는 도보 생활권 공원 면적은 1인당 5.7㎡에 불과하다”고 했다. 이어 “주택 숫자만큼 중요한 것이 시민의 삶의 질”이라며 “당장 주택 추가 공급이 필요하다고 해서 미래 세대가 누려야 할 몫까지 소진하는 것은 미래 세대의 삶을 희생시키는 일”이라고 했다. 그러면서 “‘닥공’에도 원칙이 있다”며 “주택은 다른 곳에도 지을 수 있지만, 한번 사라진 도심 녹지는 다시 만들기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대안으로는 재개발·재건축 규제 완화를 제시했다. 오 시장은 “조합원 지위 양도 제한과 용적률, 임대주택 비율 등 반드시 풀어야 할 규제가 여전히 남아 있다”며 “재개발·재건축의 속도를 더욱 높일 수 있도록 막혀 있는 규제부터 풀어달라고 요청했다”고 했다. 그러면서 “재개발·재건축이라는 분명한 답안지가 있는데도 엉뚱한 곳에서 땅을 찾아 공급 숫자를 발표하는 데 급급해서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;부동산 정책 전반에 대한 재검토도 요구했다. 오 시장은 “부동산 세제와 실거주 규제 등 정부의 부동산 정책 기조 전반에 대한 재검토도 요청했다”고 했다. 이어 “정책은 국민의 삶을 있는 그대로 존중하는 데서 출발해야 한다”며 “국민의 삶을 정책에 억지로 맞추려는 오만부터 내려놓는 것이 순서”라고 했다.&lt;br&gt;&lt;br&gt;정부는 8·13 부동산 대책에 용산공원 개발 계획을 명시적으로 담지는 않았지만, 서울 주택난 해소를 위해서는 개발이 필요하다는 입장이다. 김윤덕 국토교통부 장관은 대책 발표 다음 날 “어린이정원이라고 하면 좁은 개념이고 용산공원 전체를 고민하고 있다”는 취지로 밝혔다. 용산공원은 약 300만㎡ 규모로, 이 가운데 어린이정원은 약 30만㎡다. 주택업계에서는 어린이정원만 개발해도 5000~1만 가구, 고밀 개발 시 최대 2만 가구까지 공급이 가능할 것으로 보고 있다.&lt;br&gt;&lt;br&gt;반면 서울시는 공급 효과 자체에 의문을 제기한다. 미군기지 반환이 완료되지 않은 데다 반환 이후에도 토양오염 조사와 정화에만 7~10년이 걸릴 것으로 예상돼 당장의 주택난 해법이 되기 어렵다는 것이다. 20일 본회의에 오르는 용산공원 조성 특별법 개정안은 반환 부지에 대한 조성계획 수립을 허용하는 내용을 담고 있어, 통과될 경우 공원 부지의 주택 개발 논의가 본격화할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잠실 5성급 호텔 쓰레기장에 탄창과 탄피... 총은 어디에?</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/17/I4WMNIJ5FJHVLFIC4KHGIM62LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/17/I4WMNIJ5FJHVLFIC4KHGIM62LA/</guid>
+      <dc:creator>김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Aug 2026 12:23:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTNUWVI53VAP5D72PXR26WGQNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파경찰서 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 서울 잠실의 5성급 호텔에서 탄창과 탄피가 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 송파경찰서는 이날 오후 3시 30분쯤 송파구 잠실역 인근의 한 5성급 호텔 쓰레기장에서 탄창과 탄피가 발견됐다는 신고를 접수했다고 밝혔다.&lt;br&gt;&lt;br&gt;현장에는 폭 3cm 가량의 탄창과 9mm 가량의 탄피 3개가 발견된 것으로 전해졌다. 총기는 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “대공 혐의점은 발견되지 않았다”며 “정확한 경위를 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”</title>
+      <link>https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Aug 2026 06:54:08 +0000</pubDate>
+      <content:encoded>광복절 연휴 둘째날인 16일 서울 경복궁 수문장교대식. 세살배기 백인 꼬마가 처음 만난 또래 한국 아이들과 까르르 웃으며 뛰놀았다. 꼬마의 이름은 에버렛 보니파스. 1976년 발생한 판문점 도끼만행 사건 희생자 아서 보니파스(1943~1976) 미 육군 소령의 딸 베스(58)의 손자다. 귀국을 일주일 앞두고 북한군 난동에 목숨을 잃은 보니파스가 성조기로 덮인 관에 실려 한국 땅을 떠난 지 50년. 그의 성(姓)을 물려받은 증손이 한국을 찾아온 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NWC3CS23ZBQTNUQCFBEXPTX3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 17일 서울 용산구의 한 호텔에서 아서 보니파스 소령 및 마크 배럿 대위의 유가족과 김문환 예비역 소령, 보니파스의 육사 동기생 조지 콕스씨 등이 함께 모여 포즈를 취하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 아이를 포함한 보니파스 소령 유족 6명과 또 다른 희생자 마크 배럿(1951~1976) 대위 유족 2명은 18일 판문점에서 열리는 도끼만행 50주기 추모식 참석차 지난 13일 방한, 고인의 옛 한국 전우들의 안내를 받으며 서울과 부산 등을 여행하고 있다. 17일 서울의 한 호텔에서 만난 이들은 “우리 집안 어른들이 목숨 바쳐 지켜낸 한국이 이렇게 멋진 나라라는 걸 확인할 수 있었다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPPQIJXUKBCKBMGMMAWHMWWRFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 17일 서울 용산구의 한 호텔에서 보니파스 소령의 딸 메건(왼쪽)과 베스가 조선일보와 인터뷰를 하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보니파스가 떠난 뒤 가족들도 군과 인연을 맺었다. 학군사관후보생(ROTC) 출신인 맏딸 베스는 간호 장교로 임관해 군 병원 소아과병동에서 어린이들을 돌봤고, 대위 예편 뒤에도 소아과 간호사로 일했다. 베스의 아들 앤드루(31)는 외할아버지를 롤모델로 입대해 육군 중사로서 신병들을 훈육하고 있다. 베스는 금빛 골드 스타 패밀리(군 전사자 유가족) 배지를 보여주면서 “엄마께 전화로 우리가 얼마나 멋진 여행을 했는지 알려드리고 있다”고 말했다. 보니파스와 사별 후 홀로 자녀들을 키워낸 배우자 마샤(83)는 건강 때문에 동행하지 못했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IG67SKHDKBFP7G3LGUACBKMBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 17일 서울 용산구의 한 호텔에서 보니파스 소령 유가족들이 조선일보와 인터뷰를 하고 있다. 맨 왼쪽은 보니파스의 외손자 브래디 디코어, 그 옆은 외손녀 딜런 디코어다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“가족들이 뛰노는 한강 풍경을 잊지 못할 것”이라는 보니파스 둘째 딸 메건 디코어(53)는 두 자녀와 동행했다. 메건의 아들 브래디(17)는 “외할아버지가 희생한 아시아 정세에 관심이 생기면서 대학에서 국제관계학 쪽으로 진로를 잡았다”며 “한국을 더 친근하게 느끼게 됐다”고 말했다. 딸 딜런(15)도 “서울과 부산을 오가는 차창 밖 다양하고 역동적인 풍경이 강렬했다”며 “이번 한국 여행이 장래 희망인 언론인의 꿈을 키우는 데 큰 도움이 될 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYGV4VQC6JDCXMT3UM5O3STQBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 17일 서울 용산구의 한 호텔에서 김문환 예비역 소령이 보니파스 소령의 맏딸 베스 보니파스 예비역 대위와 나란히 섰다. 두 사람의 손에 들려있는 것은 유가족들이 김 소령에게 준 감사편지와 다이어리다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1976년 당시 마크 배럿 대위는 아이가 없는 신혼에 목숨을 잃었다. 그의 생전 모습을 알지 못하는 조카 스테이시 애덤스(50)에게 이번 여행은 전설처럼 들었던 삼촌의 자취와 가까이할 수 있는 기회였다. 스테이시는 “낯선 나라를 지키다 목숨을 바친 삼촌이 얼마나 멋진 분이었는지 두고 두고 잊지 않을 것”이라고 했다. 섬유 디자이너인 스테이시의 딸 카리나(23)는 “한국 여행 중에 봤던 모든 풍경과 여정이 앞으로 작품 활동에 큰 보탬이 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5I27GJF2ZG3BIMYKZT5SNF7CU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 17일 서울 용산구의 한 호텔에서 마크 배럿 대위의 조카(누나의 딸)인 스테이시 애덤스가 조선일보와 인터뷰를 하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 여정에는 숨진 두 미군 장교의 옛 전우들이 함께하는 일정이 적지 않았다. 보니파스의 웨스트포인트(미 육군사관학교) 동기 조지 콕스씨는 16일 환영 만찬에서 “보니파스 소령과 버랫 대위의 희생은 헛되지 않았고, 우리가 서 있는 이 활기차고 자유롭고 아름다운 나라는 그들의 살아있는 기념비”라고 했다. 보니파스가 속한 웨스트포인트 1966년 졸업 동기회는 이번 일정을 직접 준비한 김문환 한국군 예비역 소령에게 감사장과 동기 배지를 전달했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>8년째 세계 톱 클라이머… “노력할 줄 아는 게 재능”</title>
+      <link>https://www.chosun.com/sports/sports_general/2026/08/03/TS2XQXLGVFBEPG3WXJEO5WU7TE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/sports/sports_general/2026/08/03/TS2XQXLGVFBEPG3WXJEO5WU7TE/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Aug 2026 22:39:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXL2SYSCUJAWBBOYPFZXH7DIKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스포츠클라이밍 국가대표 서채현이 지난달 29일 서울 영등포구의 훈련장에서 인공 암벽에 올라 밝게 웃고 있다. 9월 일본 아이치 나고야 아시안게임에 출전하는 그는 “지금 금메달을 따는 상상은 하지 않겠다. 머릿속을 비우고 최선을 다하겠다”고 했다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스포츠클라이밍 국가대표 서채현(23)은 3년 전 중국 항저우 아시안게임에서 은메달을 땄다. 금메달을 노리던 그의 도전을 주저앉힌 건 라이벌 선수가 아닌 폭우였다. 거센 비 때문에 결승전이 갑자기 취소됐고, 예선 성적에서 뒤진 서채현은 은메달을 받아들여야 했다. 지난달 말 서울 영등포구의 실내 연습장에서 만난 서채현은 “우산도 없이 비를 쫄딱 맞고서 저녁까지 먹고 나니 ‘에이, 뭐 어쩔 수 없지’ 하고 멀쩡해졌다”고 당시를 돌아봤다. 웃으며 말했지만, 아쉬움은 숨길 수 없었다. &lt;br&gt;&lt;br&gt;그럴 만도 했다. 고1이던 2019년 성인 무대에 데뷔해 한국 스포츠클라이밍의 ‘간판’으로 활약한 서채현은 유독 올림픽과 아시안게임 같은 종합 대회에선 만족할 만한 성적을 내지 못했다. 2021년 도쿄 올림픽에선 예선 2위를 하고도 결선에서 8위에 그쳤고, 2024년 파리 올림픽 때도 6위로 메달을 놓쳤다. 리드 부문 세계 랭킹 1위인 서채현은 “우승할 수 있겠다 싶은 대회에서 힘을 다 쓰지 못하고 내려오거나, 루트 파인딩(등반 경로 설계) 실수가 나온다”며 “오랫동안 꾸준히 상위권에 있어 만족스럽지만, 솔직히 ‘왜 이렇게 금메달이 안 나오지’라는 마음도 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSGI4VTKJZE3TG4QPT3URBFLBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스포츠클라이밍 국가대표 서채현이 지난달 29일 서울 영등포구의 훈련장에서 초크를 손에 바르고 포즈를 취했다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달 일본에서 열리는 아이치 나고야 아시안게임은 이런 아쉬움을 떨칠 절호의 기회다. 서채현은 주종목인 ‘리드’에선 금메달, 또 다른 종목 ‘볼더링’도 메달을 노린다. 리드는 15m 높이 암벽을 누가 가장 높이 올라가는지 겨루는 종목이고, 볼더링은 4.5m 높이에서 과제를 얼마나 많이 해결하는지로 승부를 가리는 경기다. 항저우 대회 때 두 종목 점수를 합산했던 것과 달리 이번엔 리드와 볼더링에 각각 금메달이 걸려 있다. 서채현은 “개별 종목에 특화된 선수들이 더 많이 출전할 테니 방심할 순 없다. 메달을 따는 건 결국 세 명뿐”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GPAIDYQ2NE7PJ3OB3RYFYM5BA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그가 어린 시절부터 탄탄한 기본기를 뽐낼 수 있었던 데에는 성장 배경 얘기를 빼놓을 수 없다. 아이스클라이밍 국가대표 출신으로 스포츠클라이밍 대표팀 감독을 지낸 아버지 서종국씨, 역시 국가대표 경력이 있는 어머니 전소영씨를 따라 아기 때부터 암장(巖場)에 다녔다. 암벽 등반용 로프로 그네를 타며 놀다가 부모님을 따라 바위를 오르기 시작했고, 고1 때 처음 국가대표가 돼 세계 1위까지 올랐다. 서채현은 “실제로 부모님을 바라보며 기초를 다져왔다”고 했다. “홀드(인공 암벽에 붙어 있는 손잡이)를 차고 올라가는 발 기술 등 등반 스타일이 비슷해요. 지구력이 강한 것도 그렇고요.” &lt;br&gt;&lt;br&gt;서채현은 부모에게 물려받은 재능 중 가장 소중한 것은 “노력할 줄 아는 것”이라고 강조했다. “아버지가 어릴 때부터 ‘그냥 얻어지는 결과는 없다’고 수없이 강조하셨어요. 저도 후배들에게 조언해 주는 나이가 되다 보니, ‘노력할 수 있는 것도 큰 재능’이란 말에 공감해요.” 그는 학창 시절 공부 시간이 부족하면 그 자리에 앉아 4~5시간 책을 붙잡을 정도로 노력하는 게 자신의 특별한 장점이라고 했다. 올해 초 후두부 골절상을 입고도 예정된 해외 훈련을 감행할 정도로 ‘악바리’ 같은 근성이 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5T5MO6CHREMVPDQM5TLG3POAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 서울 영등포구의 훈련장에서 인공 암벽에 올라 밝게 웃고 있는 서채현. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시안게임을 앞두고 하루 8~9시간씩 암벽에 매달려 땀을 쏟고 있다. 아시안게임 최대 라이벌은 항저우 대회 금메달리스트 모리 아이(일본)다. 둘은 중학생 시절부터 10년째 친하게 지내는 친구 사이다. ‘홈 팬들의 응원을 받는 모리가 유리한 것 아니냐’고 묻자 서채현은 “스포츠클라이밍 팬들은 국적 관계 없이 모두의 도전을 비슷하게 응원하는 문화가 있어 크게 걱정하지 않는다”고 했다. &lt;br&gt;&lt;br&gt;그는 “어린 시절엔 아무 생각 없이 즐기면 성적이 따라왔는데, 지금은 예전보다 성장한 나 자신에 대한 기대와 욕심 때문에 경기가 잘 안 풀릴 때가 있다”고 했다. “아시안게임에서 우승하는 상상은 하지 않으려고 해요. 머릿속을 비울래요. 목표를 이루고 나서 나에게 ‘수고했다’고 말해줄 거예요.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>메시 이어 호날두도 은퇴 시사 “다음 시즌, 어쩌면 마지막일 수도”</title>
+      <link>https://www.chosun.com/national/people/2026/08/17/AEGYEI2ZEVB2FGB4XRXO4OXTCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/17/AEGYEI2ZEVB2FGB4XRXO4OXTCA/</guid>
+      <dc:creator>배준용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Aug 2026 05:58:26 +0000</pubDate>
+      <content:encoded>지난 20년 간 전 세계 축구 팬들을 열광케 했던 리오넬 메시(마이애미)와 크리스티아누 호날두(알 나스르)의 세기의 라이벌리가 마침내 종지부를 찍게 되는 걸까. 최근 부친상을 당한 후 은퇴를 시사한 메시에 이어 호날두도 다가오는 시즌 종료 후 은퇴 가능성을 내비쳤다. 이른바 ‘메호대전’으로 불린 두 전설의 끝이 임박하는 분위기다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INPQZFF7D5MVTEOZ6N7SLXS6VQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;호날두와 메시./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호날두는 17일 공개된 매거진 ‘보그’ 인터뷰에서 “올해가 어쩌면 내 축구 인생의 마지막 시즌이 될 수도 있다”며 “그라운드를 떠날 때 멋진 유산을 남기고 싶다”고 밝혔다. 갖가지 구설수에도 철저한 자기 관리로 엄청난 득점 기록을 생산한 호날두가 마침내 자신의 현역 생활을 끝을 언급한 것이다. &lt;br&gt;&lt;br&gt;호날두는 은퇴 이후의 계획도 구체적으로 밝혔다. 호날두는 “축구가 떠난 빈자리가 아주 크게 남을 수 있기 때문에 다양한 방식으로 시간을 채워야 한다”며 “은퇴 후에도 나를 바쁘게 할 일들은 무척 많을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W73WVAS6DFLMNCWIITEVQ3R7JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호날두와 아내 헤오르히나 로드리게스./AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호날두는 여가 생활과 가족과의 시간을 언급했다. 그는 “더 많이 즐기고, 여행도 자주 다니며 내가 정말 좋아하는 파델(라켓 스포츠)을 치고 관전할 것”이라며 “지난 25년 동안 많은 희생이 뒤따랐던 만큼 그동안 나와 우리 가족이 이뤄낸 것들을 마음껏 누리고 싶다”고 말했다. &lt;br&gt;&lt;br&gt;호날두는 지난 11일 10년간 교제한 연인 헤오르히나 로드리게스와 정식 결혼식을 올렸다. 이에 “호날두가 축구 생활을 마무리하고 온전한 가정생활을 준비하는 게 아니냐”는 관측이 나왔다. 두 부부는 장남 호날두 주니어를 비롯해 자녀 5명과 함께 살고 있다. &lt;br&gt;&lt;br&gt;다만 호날두의 은퇴 여부는 올 시즌 득점 기록에 따라 달라질 수 있다. 디애슬래틱 등은 “호날두는 개인 통산 1000골까지 24골을 남겨두고 있다”며 호날두의 은퇴는 통산 1000골을 달성한 이후가 될 가능성이 높다고 전망했다. 호날두는 2002년 프로 무대에 데뷔한 이후 클럽팀과 국가대표팀에서 총 976골을 넣고 있다. 득점 기록에 집착하는 호날두의 성격상 1000골 달성을 은퇴 목표로 삼고 있을 가능성이 높다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH4EGJ36KZK7JCAYFTCB3EDV5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 내슈빌SC와의 MLS 경기에서 페널티킥을 실축한 뒤 괴로워하는 메시./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호날두의 라이벌로 여겨졌던 메시도 최근 정신적 지주였던 아버지 호르헤 메시가 별세한 후 큰 슬픔을 표하며 은퇴 가능성을 내비쳤다. 그는 소셜미디어를 통해 별세한 아버지를 향한 장문의 편지에서 “아버지 없이 내가 무엇을 해야 할지, 어떻게 삶을 계속해 나가야 할지 모르겠다”며 “나는 그저 축구를 해왔을 뿐인데, 이제 앞으로 이 일을 더 오래 계속할 수 있을지 확신이 서지 않는다”며 현역 연장에 대한 자신감이 크게 꺾였음을 시사했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신고 출동한 경찰관 앞세워 흉기 들고 여자친구 집 들어가려다 체포된 10대</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/18/PIDTP3CVFZB4JO44Y7JXK2FZGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/PIDTP3CVFZB4JO44Y7JXK2FZGY/</guid>
+      <dc:creator>김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Aug 2026 04:56:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRDAM3CGQ4WMNRYMZRTONRVGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신고로 출동한 경찰관을 앞세워 여자친구 집에 들어가려 한 10대 남성이 경찰에 붙잡혔다. 남성의 주머니에는 흉기가 숨겨져 있었다.&lt;br&gt;&lt;br&gt;18일 서울 강동경찰서는 지난 14일 오후 11시쯤 강동구의 한 아파트에서 A(16)군을 주거 침입 등 혐의로 현행범 체포했다고 밝혔다. A군은 자신과 딸이 교제하지 못하게 위협했다는 이유로 여자친구의 아버지를 노렸던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A군은 “여자친구 아버지가 나한테 한 번 더 찾아오면 죽여버리겠다고 했는데, 여자친구가 아버지에게 맞고 있는 것 같다”며 경찰에 신고한 뒤, 현장에 출동한 경찰관들과 함께 여자친구의 집에 들어가려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A군은 처음에 “복도식 아파트라 세대 호수를 함께 알려주겠다”며 경찰관들을 인도하는 척 속여 주거 침입을 시도했으나 이내 경찰관들로부터 저지당한 것으로 전해졌다. 이후 경찰관들과 승강기에 탄 ​A군은 바지 주머니에서 흉기를 꺼내 경찰관들을 위협하다가 팔과 몸통을 붙잡혀 제압됐다고 한다.&lt;br&gt;&lt;br&gt;A군은 경찰 신고 직전 무인점포에서 흉기를 훔친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2929] 퍼즐 맞추기</title>
+      <link>https://www.chosun.com/national/nie/2026/08/18/CESGLGU7X5GY5G7NA7YPVG532A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/18/CESGLGU7X5GY5G7NA7YPVG532A/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Aug 2026 04:45:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6BNRCDJIVH3VIVIPIENRQB6RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>종합특검, ‘내란 가담’ 강호필 前 지작사령관·박재열 前 7군단장 기소</title>
       <link>https://www.chosun.com/national/court_law/2026/08/14/NI4FLLDO7ZGALOL7FQV44FH7PI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/14/NI4FLLDO7ZGALOL7FQV44FH7PI/</guid>
@@ -462,34 +525,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NORZPULGYFG3ZHDDRV7JKR6VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 경남 거제시 옥포동의 한 아파트 인근에서 산사태가 발생해 토사가 쏟아져 차량들이 매몰돼 있다./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일부터 경남 남해안에 내린 비는 강도와 양 모두 기록적이었다. 경남 거제에는 17일 오후까지 900㎜를 넘는 비가 쏟아졌고, 시간당 강수량은 통계상 200년에 한 번 발생할 수준인 것으로 나타났다.&lt;br&gt;&lt;br&gt;17일 기상청에 따르면, 거제에서는 이날 새벽 1시 32분부터 한 시간 동안 124.5㎜의 비가 쏟아졌다. 1972년 거제에서 기상관측을 시작한 이래 가장 많은 ‘시간당 강수량’이다. 통영에도 오전 5시 11분부터 한 시간 동안 97.4㎜가 내려 이 지역 시간당 강수량 최고 기록을 다시 썼다. 기상청은 “이 같은 강도의 비는 거제에선 200년에 한 번, 통영에선 100년에 한 번 발생할 수준”이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 15일 오전만 해도 기상청은 “부산·울산·경남 지방에 17일까지 200㎜ 이상의 비가 내릴 것”이라고 예보했다. 하지만 이날 밤 10시까지 사흘간 실제 누적 강수량은 거제 927.7㎜, 통영 751.3㎜, 부산 가덕도 481㎜로 집계됐다. 기상청의 당초 예보를 훨씬 웃돈 것이다. 기상청 관계자는 “우리나라 동쪽 고기압의 영향으로 비구름대가 경남 남해안 지역에 묶였고, 이 때문에 최초 예상보다 강수량이 늘게 됐다”고 했다. &lt;br&gt;&lt;br&gt;올해 기상청은 예상 강수량 수치가 실제 강수량보다 큰 경우가 빈번하게 발생해 ‘과잉예보’라는 질타를 받아왔다. 그런데 정작 이번엔 강수량을 훨씬 적게 전망하는 ‘과소 예보’로 대응하면서 재난 대비에 혼선을 불렀다는 비판이 나오고 있다. 누적 강수량이 200㎜ 수준인 경우와 900㎜를 넘는 경우는 재난 대응 수준도 달라질 수밖에 없기 때문이다.&lt;br&gt;&lt;br&gt;경남에 내린 폭우는 18일 오전 대부분 그치겠지만, 남부 지방과 충청권 곳곳에는 소나기가 이어질 전망이다. 비가 약해진 뒤엔 다시 더위가 찾아오겠다. 18일 낮 최고기온은 30~33도, 19일 낮 최고기온은 30~34도로 각각 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[리빙포인트] 프라이팬 정리에 책꽂이</title>
-      <link>https://www.chosun.com/culture-life/living/2026/08/18/HA253WDVTVGTPJXLVR4ZNESR6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2026/08/18/HA253WDVTVGTPJXLVR4ZNESR6U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Aug 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSWNGKWKZBHNNKYF72XCQRS5GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생활용품점에서 파는 플라스틱 책꽂이를 활용해 주방을 정리해보자. 칸마다 프라이팬이나 접시 등을 세워두면 꺼내 쓰기 쉽고 깔끔하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“새벽에 쾅 대포 소리 나더니, 거실로 흙더미가 밀려왔다”</title>
-      <link>https://www.chosun.com/national/regional/2026/08/18/WGO4POCOTBEV5N4G77XCPM6NYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/18/WGO4POCOTBEV5N4G77XCPM6NYM/</guid>
-      <dc:creator>거제=김준호 기자, 울산=김주영 기자, 부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Aug 2026 15:50:00 +0000</pubDate>
-      <content:encoded>“새벽에 갑자기 ‘쾅’ 하고 대포 터지는 소리가 나더니... 흙더미가 거실로 확 밀려 들어왔어요.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWQSBK6YKJA6LNFAW7RBAQLE5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흙더미에 뚫리고… - 17일 오전 경남 거제시 옥포동에서 일어난 산사태로 밀려 들어온 토사가 집 안을 넘어 엘리베이터가 설치된 복도까지 흘러내려와 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 새벽 4시 30분쯤 경남 거제시 옥포동에서 산사태가 발생해 한 아파트를 덮쳤다. 토사가 유리창을 깨고 밀려들어 1·2층 총 8가구가 피해를 입었다. 1층의 한 가구에서는 20대 남성이 흙더미에 매몰돼 병원으로 옮겨졌으나 숨졌다. 또 다른 주민 2명도 골절 등 부상을 입었다. 이날 거제에는 시간당 최대 124.5㎜ 호우가 쏟아졌다. 이 아파트 2층에 살고 있는 박종기(78)씨는 “우르르 하는 굉음과 함께 땅이 흔들려 놀라서 몸만 빠져나왔다”며 “안방 문을 닫아두지 않았다면 나도 죽었을 것”이라고 했다. 아파트 곳곳에서 “살려달라”는 비명이 터져 나왔고, 상당수 주민들은 짐도 챙기지 못한 채 대피했다.&lt;br&gt;&lt;br&gt;광복절 연휴 기간 경남 거제·통영과 부산 등지에 폭우가 쏟아져 산사태와 침수 등 사고가 잇따랐다. 짧은 시간 폭우가 집중되면서 도로는 유실되고, 불어난 물에 차는 둥둥 떠다녔다. 지역 전체가 물바다로 변해 버린 것이다. 기상청에 따르면 광복절 연휴인 15일부터 이날 오후 10시까지 거제 927.7㎜, 통영 751.3㎜, 부산 가덕도 481㎜ 등의 비가 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4XSJWCKCFFHDG7UPC2NSQ7F7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;물바다에 떠내려가고… - 17일 오전 경남 거제시 장평동 일대에 쏟아진 집중호우로 떠내려온 차량이 물바다가 된 도로에 뒤엉켜 있다. 이날 거제에는 시간당 124mm의 비가 쏟아졌다. 기상청은 “200년에 한번 내릴 만한 비”라고 말했다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇밤사이 폭우에 주민들 속수무책&lt;/b&gt;&lt;br&gt;&lt;br&gt;중앙재난안전대책본부(중대본)는 15일부터 이날 오후까지 내린 폭우로 1명이 사망하고, 4명이 부상을 입었다고 밝혔다. 부산·경남의 8개 시·군·구에서 240가구 389명이 마을회관 등으로 대피했다. 여객선 4개 항로와 부산 금정산, 한려해상 등 국립공원 3곳의 288개 구간이 통제됐다. 이 지역 하천변 산책로와 지하차도 등도 610곳이나 통제됐다.&lt;br&gt;&lt;br&gt;이번 폭우는 거제와 통영 지역에 집중됐다. 통영시 산양읍 곤리도에서는 이날 새벽 5시 3분쯤 산사태가 발생해 주택을 덮쳤다. 집 안에 있던 60대 여성 1명이 매몰됐다가 1시간 30분 만에 구조돼 병원으로 옮겨졌다. 거제시 오비리에선 오전 9시 23분쯤 토사에 고립됐던 남성이 구조됐고, 거제 회진마을 등에서도 불어난 물에 주민 20여 명이 고립돼 있다가 구조됐다. 거제 수월천과 서정천 등 인근 도로는 하천 범람 우려로 통행이 금지됐다.&lt;br&gt;&lt;br&gt;이날 오전 7시 24분 울산 남구 신정동에서는 강풍과 폭우에 가로수가 쓰러지면서 지나던 택시를 덮쳐 60대 남성 승객이 허리를 다쳤다. 중구 교동 재개발 구역에선 주택 담벼락이 무너지고, 울주군 두서면에서는 도로에 돌이 굴러 떨어졌다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇폭우에 도로, 상수도관도 파손&lt;/b&gt;&lt;br&gt;&lt;br&gt;짧은 시간에 집중적으로 내린 비로 도로와 상수도관 등 기반 시설도 버티지 못하고 파손됐다. 거제 옥포로와 옥포성안로 등 도로는 불어난 물에 아스팔트가 갈라지면서 흙길로 변해버렸고, 경사진 비탈에선 빗물이 폭포처럼 흘러내렸다. 거제시는 한때 시내버스와 마을버스 63개 노선, 125대 운행을 전면 중지시켰다. 또 상수관로 파손으로 18일 오후까지 일부 지역에 단수 조치를 내렸다. 옥포동에서 식당을 운영 중인 김모(64)씨는 “빗물에 토사가 가게로 밀려들어와 음식도, 가재도구도 엉망이 됐다”면서 “얼마 전까지만 해도 가뭄이 심각해 비가 오길 빌었는데, 갑자기 하늘이 뚫린 것처럼 비가 쏟아지니 참 원망스럽다”고 했다.&lt;br&gt;&lt;br&gt;이날 거제 지역에서는 2100여 가구에서 정전이 발생해 복구 작업이 진행 중이다. 한화오션과 삼성중공업 등 거제의 조선업체들은 이날 오전 직원들에게 ‘출근하지 말고 대기하라’는 긴급 문자를 보냈다. 경남 지역에서는 이날 하루 유치원·초·중·고등학교 41곳이 침수와 누수, 파손 등의 피해를 입었다.&lt;br&gt;&lt;br&gt;부산 해운대구에서는 아파트 지하 주차장이 침수됐고, 사하구 두송대선터널도 출입이 통제됐다. 전남광주에서는 목포를 중심으로 주택과 도로, 상가가 일부 침수됐고, 제주 서귀포에서도 주택 2채가 물에 잠겼고, 나무가 쓰러지고 도로 배수구가 역류했다.&lt;br&gt;&lt;br&gt;정부는 이날 중대본 회의에서 전남광주·부산·경남에 재난안전관리 특별교부세 30억원과 재난구호사업비 4000만원을 긴급 지원하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EWK34TZ7C5COBCT5TZZJAFL63E.gif?auth=8e497f1bee5455a4ae205df446f1bc6cb4fcf2675a6740f5ef3d5d08732d1bca&amp;smart=true&amp;width=1890&amp;height=1063" type="image/jpeg" height="1063" width="1890"/>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 8월 18일</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/18/YPNUGMFJFFDQLNFC6AW7YBXASU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/YPNUGMFJFFDQLNFC6AW7YBXASU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Aug 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2PDHE6PSNHUZA2KQT37KJLT7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>특검 ‘서울~양평 고속道 수사’ 기밀… 경찰이 국토부 동창에 유출한 정황</title>
       <link>https://www.chosun.com/national/national_general/2026/08/18/2L6DT337NJEKDEU3AL5VZOQNNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/2L6DT337NJEKDEU3AL5VZOQNNE/</guid>
@@ -512,24 +547,6 @@
       </media:content>
     </item>
     <item>
-      <title>“누나, 셋하면 찍을게요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/18/WANYC26FZRAH5DLBX5PFL7MDU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/WANYC26FZRAH5DLBX5PFL7MDU4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Aug 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMYBD3LYQBAPRPMK6G5DTWFDCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절 연휴 마지막 날인 17일 서울 경복궁 흥례문 앞에서 갓을 쓰고 붉은 한복을 입은 어린이가 전통 한복 차림의 외국인 관광객들을 휴대전화 카메라로 촬영하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연휴 마지막 날, 한산한 도심</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/18/KEKGZKHOSBGM3ADGGKVB7OQB4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/KEKGZKHOSBGM3ADGGKVB7OQB4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Aug 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/266WLKDXEFH3LIN6UU7MSGKEQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절(8월 15일)부터 이어진 사흘 연휴의 마지막 날인 17일, 서울역 앞 도로는 평소보다 차가 적어 한산한 모습이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2차특검 ‘내란 혐의’ 조성현 기소할 듯</title>
       <link>https://www.chosun.com/national/court_law/2026/08/18/7GSAL3FSTBC35CLQRVG22OT2MI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/18/7GSAL3FSTBC35CLQRVG22OT2MI/</guid>
@@ -550,24 +567,6 @@
         <media:description type="plain">상어/ 게티이미지코리아</media:description>
         <media:credit role="author" scheme="urn:ebu">sakchai vongsasiripat</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[인사] 국무조정실·국무총리비서실 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/18/W3HIBOWMBJCDHK5D2VHWNJOYCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/18/W3HIBOWMBJCDHK5D2VHWNJOYCU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Aug 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲국무조정실·국무총리비서실◇국장급▷항공·철도사고조사위원회 상임위원 한영동▷통합특별시지원단 부단장 이승규◇과·팀장급▷초광역협력과장 김광제▷국회협력행정관 김인아▷뉴미디어운영행정관 구자필▷특별자치시도지원단 총괄기획과장 이가형▷4·16세월호참사피해자지원 및 희생자추모사업지원단 피해지원팀장 이경진&lt;br&gt;&lt;br&gt;▲기상청◇고위공무원단 승진▷부산지방기상청장 홍기만◇4급 전보▷운영지원과장 김지현▷기후과학국 기후위기협력팀장 이한아&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김석배 前 서울 성산초 교장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/18/6AYR6A4JI5ESHA5USHSFXPJILY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/18/6AYR6A4JI5ESHA5USHSFXPJILY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Aug 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲김석배 &lt;/b&gt;前 서울 성산초 교장 별세, &lt;b&gt;김종혁&lt;/b&gt; 서울아산병원 산부인과 교수 부친상, &lt;b&gt;홍미혜&lt;/b&gt; 시부상=16일3시 서울아산병원, 발인 19일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;&lt;b&gt;▲박재훈 &lt;/b&gt;前 국가정보대학원장 별세, &lt;b&gt;박선우&lt;/b&gt; 모브앱스 지사장 부친상, &lt;b&gt;장근준 &lt;/b&gt;SK리츠운용 대표이사 장인상=17일4시30분 삼성서울병원, 발인 19일7시30분, (02)3410-6914&lt;br&gt;&lt;br&gt;&lt;b&gt;▲임용치&lt;/b&gt; 별세, &lt;b&gt;임성철&lt;/b&gt;·&lt;b&gt;임성옥&lt;/b&gt; 부친상, &lt;b&gt;김종민&lt;/b&gt; 메리츠증권 사장 장인상, &lt;b&gt;오혜선&lt;/b&gt; 시부상=16일11시 강남세브란스병원, 발인 19일6시, (02)2019-4003&lt;br&gt;&lt;br&gt;&lt;b&gt;▲홍성도&lt;/b&gt; 별세, &lt;b&gt;홍종기 &lt;/b&gt;前 국무총리비서실 민정실장·&lt;b&gt;홍지혜&lt;/b&gt; 부친상, &lt;b&gt;강주현&lt;/b&gt; 시부상=16일13시48분 삼성서울병원, 발인 19일8시, (02)3410-6902&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [사소한 역사] 왕 식탁에만 올렸던 귀한 간식… 제조 비밀은 ‘소금’에 있었대요</title>
