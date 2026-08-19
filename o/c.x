@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>82년 세계야구 韓 첫 우승 이끈 어우홍 전 감독 별세</title>
+      <link>https://www.chosun.com/national/people/2026/08/19/A3LLLJ332ZHGFLQJ6FLLPOBI2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/19/A3LLLJ332ZHGFLQJ6FLLPOBI2I/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Aug 2026 12:01:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4RPCFXMD5BKTJ6QAATVNU6FEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울 송파구 잠실야구장에서 열린 2018 프로야구 신한은행 마이카 KBO 한국시리즈 1차전 두산 베어스와 SK 와이번스의 경기에 앞서 야구원로 어우홍 감독이 시구하고 있다. 어우홍 감독은 1982년 국가대표 감독 시절 아시아 국가로는 최초로 세계야구선수권 대회에서 우승을 거머쥐었다. 2018.11.4 ⓒ 뉴스1 구윤성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1982년 세계야구선수권대회에서 한국을 우승으로 이끈 어우홍(95) 전 야구대표팀 감독이 19일 별세했다. &lt;br&gt;&lt;br&gt;어 전 감독은 선수 시절 동래중(현 동래고)-성균관대를 거쳐 조선전업 등 실업팀에서 뛰다 은퇴 후 본격적인 지도자 경력을 시작했다. 1981년엔 국가대표팀 감독을 역임하며 이듬해 서울에서 열린 제27회 세계야구선수권대회에서 김재박, 최동원, 선동열 등 스타 군단을 이끌고 아시아 최초로 정상에 올랐다. 특히 결승에서 숙적 일본을 누르는 통쾌한 승리를 거두며 국민적인 인기를 누렸다. 어 전 감독은 그해 체육훈장 기린장과 세계야구연맹 올해의 감독상을 수상했다. &lt;br&gt;&lt;br&gt;이후 어 전 감독은 프로야구 MBC(1984~1985년)와 롯데(1988~1989) 감독을 역임하며 KBO(한국야구위원회) 리그 통산 177승을 기록했다. 지도자 은퇴 후엔 초대 일구회장, KBO 총재 특별보좌역·규칙위원장 등을 역임하며 한국 야구 발전에 이바지했다. &lt;br&gt;&lt;br&gt;KBO는 어 전 감독의 공로를 기려 KBO장으로 장례를 치른다. 이는 지난해 9월 이용일 전 KBO 총재 직무 대행, 지난 15일 백인천 전 감독에 이어 이번이 세번째다. 빈소는 분당제생병원, 발인은 21일 오전 5시30분이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WDYNSFQQ3NAALNXLRW5ARX5QM4.JPG?auth=50c5569eefa852f6b01efc31ee56cc767f5625d4dbded55afb37b0757199b4a4&amp;smart=true&amp;width=1238&amp;height=928" type="image/jpeg" height="928" width="1238">
+        <media:description type="plain">4일 오후 서울 송파구 잠실야구장에서 열린 2018 프로야구 신한은행 마이카 KBO 한국시리즈 1차전 두산 베어스와 SK 와이번스의 경기에 앞서 야구원로 어우홍 감독이 시구하고 있다. 어우홍 감독은 1982년 국가대표 감독 시절 아시아 국가로는 최초로 세계야구선수권 대회에서 우승을 거머쥐었다. 2018.11.4 ⓒ 뉴스1 구윤성 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>쿠팡 입주 인천 물류센터 화재... 직원 등 3000여명이 대피</title>
+      <link>https://www.chosun.com/national/incident/2026/08/19/22VFH653SRELBMSVVVA5CHBURQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/19/22VFH653SRELBMSVVVA5CHBURQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Aug 2026 10:40:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KG4CE4PSPZBXXJ7TIRXQA45SHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·chatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서해구 원창동의 한 물류센터에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;19일 인천소방본부에 따르면 이날 오후 5시 28분쯤 인천시 서해구 원창동의 한 10층 규모 물류센터 건물에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 인명 피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;소방 당국은 “지하 1층에 불이 났다”는 신고를 받고 출동했으나, 도착했을 땐 불이 자체 진화된 상태였다. &lt;br&gt;&lt;br&gt;소방 당국은 직원 등 950여 명의 대피를 유도했다. 자력 대피한 사람은 약 2050명이라고 덧붙였다. &lt;br&gt;&lt;br&gt;소방 당국은 지하 1층 기계실 배전반에서 불이 났다는 신고 내용을 토대로 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;해당 물류센터엔 쿠팡을 비롯한 6~7개 업체가 임차해 있는 입주해 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생 줄어도 느는 교육교부금... ‘내국세 20% 자동 배분’ 폐지</title>
+      <link>https://www.chosun.com/national/education/2026/08/19/NHWB56KKTVDF7KHLXQA7CVBP4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/19/NHWB56KKTVDF7KHLXQA7CVBP4E/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Aug 2026 10:24:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZTIYRRGI2DOMZRMQZGMZJUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박홍근 기획예산처 장관과 최교진 교육부 장관이 13일 청와대 영빈관에서 열린 2026년 국가재정전략회의에서 대화를 나누고 있다. 2026.7.13 ⓒ 뉴스1 허경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내국세의 20.79%를 떼어 초·중·고 교육에 자동으로 배분해 온 지방교육재정교부금(교육교부금) 구조가 54년 만에 폐지된다. 학생 수는 갈수록 줄어들지만 세수 증가와 함께 교육교부금이 따라 증가하는 구조를 바꾸겠다는 것으로, 1972년부터 이어져 온 교육 재정의 큰 틀이 바뀌는 일이다.&lt;br&gt;&lt;br&gt;19일 관계 부처에 따르면 기획예산처와 교육부는 이번 주 발표를 목표로 교육교부금 개편안을 조율하고 있다. 두 부처는 내국세 자동 연동 방식을 더 이상 유지하지 않는다는 데 뜻을 모으고 세부 사항을 논의하고 있다. &lt;br&gt;&lt;br&gt;그동안 교육 예산은 내국세 연동제로 예산 편성 과정에서 따로 떼어져 있었다. 내국세의 일정 비율을 교육 예산으로 미리 정해 두면, 매년 부처 간 예산 다툼 과정에서 교육 예산이 줄어들 일이 없다. 재정 당국이 교육 예산을 흔들지 못하도록 하는 안전판인 셈이다.&lt;br&gt;&lt;br&gt;하지만 학생 수가 빠르게 줄면서 이 구조를 손봐야 한다는 지적이 이어졌다. 최근 10년간 학생 수는 175만명 줄었지만 교육교부금은 같은 기간 오히려 77% 늘었다. 일단 세수가 늘면 학생 수와 무관하게 교육교부금도 따라 불어나는 구조 탓이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3TQNZUMM2TQYZZMY3TKMRQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정근식 대한민국교육감협의회장이 19일 오전 서울 용산구 서울시교육청에서 열린 지방교육재정교부금 관련 긴급 간담회에서 모두발언하고 있다./서울시교육청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 기존 내국세 연동제 대신 직전 연도 교부금에 최근 3개년 평균 경상성장률과 학령인구 변화율 등을 반영하는 새로운 산식을 검토하고 있다. 이 경우 내년 교육교부금은 80조원 안팎으로, 현행 내국세 연동 방식을 유지했을 때보다 20조원가량 줄어들 것으로 추산된다. 이렇게 확보한 재원은 정부가 새로 만드는 ‘미래대응기금’에 매년 더해질 것으로 보인다. 기존 20.79% 방식으로 계산한 금액과 새로운 산식으로 산정한 교부금의 차액만큼을 기금에 넣는 구조가 거론된다. 정부는 세수가 줄어들거나 학령인구가 급감해도 교육교부금이 전년 대비 감소하지 않도록 안전장치를 두는 방안도 마련한다.&lt;br&gt;&lt;br&gt;교육계는 연동제를 건드리는 것에 반발하고 있다. 전국시도교육감협의회는 이날 긴급 화상 간담회를 열고 대응 방향을 논의했다. 대한민국교육감협의회장인 정근식 서울시교육감은 이 자리에서 “최근 지방교육재정교부금 개편 논의가 우리 교육의 재정 기반과 직결되는 중요한 국면으로 접어들고 있다”며 “제도의 기본 틀을 변경하는 논의가 본격화되고 있음에도 지방교육재정을 직접 책임지고 있는 시도 교육청의 의견을 충분히 수렴하고 논의에 반영하는 과정은 대단히 미흡하다”고 했다. 20일에는 교원 단체 대표 10명이 청와대를 찾아 국민경청비서관을 만난다. 연동제 폐지는 지방교육재정교부금법을 고쳐야 하는 만큼 정부안이 확정되더라도 국회 논의를 통과해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MUZTIYRRGI2DOMZRMQZGMZJUG4.jpg?auth=f9a614ca306578ec30d47eb66bd2eeb358e05493ca0a329f1b11f8299f9106fb&amp;smart=true&amp;width=2298&amp;height=1511" type="image/jpeg" height="1511" width="2298">
+        <media:description type="plain">박홍근 기획예산처 장관과 최교진 교육부 장관이 13일 청와대 영빈관에서 열린 2026년 국가재정전략회의에서 대화를 나누고 있다. 2026.7.13 ⓒ 뉴스1 허경 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=연합뉴스) 한상균 기자 =</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>[속보] 종합특검, 홍장원 1차장 등 前 국정원 수뇌부 4명 기소…내란 가담 혐의</title>
       <link>https://www.chosun.com/national/court_law/2026/08/19/M7DYY3ORMZCZTJPZRY3ATAQQOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/19/M7DYY3ORMZCZTJPZRY3ATAQQOQ/</guid>
@@ -915,15 +949,6 @@
       <content:encoded>&lt;b&gt;▲김석배 &lt;/b&gt;前 서울 성산초 교장 별세, &lt;b&gt;김종혁&lt;/b&gt; 서울아산병원 산부인과 교수 부친상, &lt;b&gt;홍미혜&lt;/b&gt; 시부상=16일3시 서울아산병원, 발인 19일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;&lt;b&gt;▲박재훈 &lt;/b&gt;前 국가정보대학원장 별세, &lt;b&gt;박선우&lt;/b&gt; 모브앱스 지사장 부친상, &lt;b&gt;장근준 &lt;/b&gt;SK리츠운용 대표이사 장인상=17일4시30분 삼성서울병원, 발인 19일7시30분, (02)3410-6914&lt;br&gt;&lt;br&gt;&lt;b&gt;▲임용치&lt;/b&gt; 별세, &lt;b&gt;임성철&lt;/b&gt;·&lt;b&gt;임성옥&lt;/b&gt; 부친상, &lt;b&gt;김종민&lt;/b&gt; 메리츠증권 사장 장인상, &lt;b&gt;오혜선&lt;/b&gt; 시부상=16일11시 강남세브란스병원, 발인 19일6시, (02)2019-4003&lt;br&gt;&lt;br&gt;&lt;b&gt;▲홍성도&lt;/b&gt; 별세, &lt;b&gt;홍종기 &lt;/b&gt;前 국무총리비서실 민정실장·&lt;b&gt;홍지혜&lt;/b&gt; 부친상, &lt;b&gt;강주현&lt;/b&gt; 시부상=16일13시48분 삼성서울병원, 발인 19일8시, (02)3410-6902&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 청라하늘대교 전망대 승강기 고장… 점검 후 19일 재가동</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/18/NLCKWL62P5H7VHQPWVUQOBVXS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/NLCKWL62P5H7VHQPWVUQOBVXS4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Aug 2026 06:53:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYGKMBWGRSDKZRUGRQTKOBVGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 청라하늘대교 전망대 운영 중단 안내문./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해발 184m의 세계 최고 높이 해상 교량 전망대로 기네스북에 오른 인천 청라하늘대교 주탑 전망대 엘리베이터가 고장을 일으켰다가 19일 운행을 재개한다. &lt;br&gt;&lt;br&gt;18일 인천경제자유구역청에 따르면 청라하늘대교 주탑 전망대 엘리베이터는 지난 11일 오후 3시 51분쯤 고장으로 해발 100m 높이에 멈췄다. &lt;br&gt;&lt;br&gt;이 사고로 엘리베이터에 타고 있던 시민 12명과 운영 요원 2명 등 14명이 갇혔다. 인천경제청 관계자는 “대교 시설물 유지 관리 업체 측이 현장에서 제어판을 조작해 엘리베이터 위치를 다시 탑승구 쪽으로 이동시켰고, 승객들을 나오게 했다”고 했다. &lt;br&gt;&lt;br&gt;인천경제청은 교량 주탑 상부에 있는 엘리베이터 제어실이 폭염으로 뜨거워지면서 제어판이 오작동을 일으킨 것으로 보고 있다. &lt;br&gt;&lt;br&gt;인천경제청은 사고 이후 일주일간 엘리베이터 운영을 멈추고 승강기 제작사, 유지 관리 업체, 한국승강기안전공단 등과 엘리베이터를 점검했다. 또 제어실 내에 에어컨을 추가로 설치했다. &lt;br&gt;&lt;br&gt;인천경제청 관계자는 “19일 오전 10시부터 엘리베이터 운행을 재개할 예정”이라며 “엘리베이터에 갇혔던 탑승객들을 대상으로는 보험 처리를 진행하고 있다”고 했다. &lt;br&gt;&lt;br&gt;지난 5월 개장한 청라하늘대교 전망대는, 2개 층 연면적 339㎡ 규모로, 실내외 전망대를 비롯해 안전 장비를 착용하고 전망대 밖을 한 바퀴 둘러보는 ‘엣지 워크’ 등을 갖추고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오세훈 “답안지 있는데 엉뚱한 곳에서 땅 찾아선 안 돼”</title>
       <link>https://www.chosun.com/national/national_general/2026/08/18/77FSKEM6SRG3PCJCFTPRKJLXVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/18/77FSKEM6SRG3PCJCFTPRKJLXVY/</guid>
@@ -940,24 +965,6 @@
       <description/>
       <pubDate>Tue, 18 Aug 2026 04:56:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRDAM3CGQ4WMNRYMZRTONRVGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신고로 출동한 경찰관을 앞세워 여자친구 집에 들어가려 한 10대 남성이 경찰에 붙잡혔다. 남성의 주머니에는 흉기가 숨겨져 있었다.&lt;br&gt;&lt;br&gt;18일 서울 강동경찰서는 지난 14일 오후 11시쯤 강동구의 한 아파트에서 A(16)군을 주거 침입 등 혐의로 현행범 체포했다고 밝혔다. A군은 자신과 딸이 교제하지 못하게 위협했다는 이유로 여자친구의 아버지를 노렸던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A군은 “여자친구 아버지가 나한테 한 번 더 찾아오면 죽여버리겠다고 했는데, 여자친구가 아버지에게 맞고 있는 것 같다”며 경찰에 신고한 뒤, 현장에 출동한 경찰관들과 함께 여자친구의 집에 들어가려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A군은 처음에 “복도식 아파트라 세대 호수를 함께 알려주겠다”며 경찰관들을 인도하는 척 속여 주거 침입을 시도했으나 이내 경찰관들로부터 저지당한 것으로 전해졌다. 이후 경찰관들과 승강기에 탄 ​A군은 바지 주머니에서 흉기를 꺼내 경찰관들을 위협하다가 팔과 몸통을 붙잡혀 제압됐다고 한다.&lt;br&gt;&lt;br&gt;A군은 경찰 신고 직전 무인점포에서 흉기를 훔친 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>中 수입품 공세에 줄어든 국내 제조업 일자리... 결혼·출산도 줄었다</title>
-      <link>https://www.chosun.com/national/labor/2026/08/18/JBX3AETQXNFM7KU2K5NSV6QXTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/08/18/JBX3AETQXNFM7KU2K5NSV6QXTM/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Aug 2026 02:22:23 +0000</pubDate>
-      <content:encoded>중국산 저가 공산품과 경쟁하는 제조업 종사자가 많은 지역에서 안정적인 일자리가 줄고, 젊은 층의 혼인과 출산까지 감소했다는 연구 결과가 나왔다. 안정적인 제조업 일자리가 서비스업 등 비제조업의 임시·일용직으로 대체되면서 전체 고용에는 큰 변화가 없었지만, 일자리의 질이 떨어져 혼인과 출산에도 영향을 미쳤다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WKOLGGFSGEMZRMI3TGYTCGQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;제조업 몰락으로 불황이 계속되는 여수 국가산업단지. photo 강은이 영상미디어 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 한국노동연구원의 ‘월간 노동리뷰’ 최근호에 실린 ‘중국산 수입 증가와 지역 노동시장의 변화’에 따르면, 연구진은 전국을 50개 도시권으로 나눠 2000년부터 2015년까지 중국산 수입 증가가 지역의 제조업 고용과 혼인·출산에 미친 영향을 분석했다. ‘사드 갈등’으로 한국의 대중국 교역이 정치적 영향을 받기 시작한 2016년 이후는 분석에서 제외했다.&lt;br&gt;&lt;br&gt;예컨대 중국산 섬유·의류 수입이 크게 늘었다면 섬유·의류업 종사자가 많은 지역의 고용과 혼인·출산이 어떻게 달라졌는지를 보는 방식이다. 한국의 대중국 수입액은 2000년 128억달러에서 2015년 약 902억달러로 약 7배로 늘었는데, 중국산 수입 증가와 지역의 혼인·출산을 연결해 분석한 국내 연구는 처음이다.&lt;br&gt;&lt;br&gt;연구진은 중국산 수입이 늘어난 정도와 각 지역의 해당 업종 종사자 비율을 결합해 지역별 ‘수입 충격’을 계산했다. 그 결과 충격이 큰 지역에서는 그렇지 않은 지역에 비해 25~44세 남성의 제조업 고용률 감소 폭이 3.00%p 더 컸다. 같은 연령대 여성의 제조업 고용률 감소 폭도 0.89%p 더 컸다.&lt;br&gt;&lt;br&gt;안정적인 제조업 일자리를 잃은 남성들은 비제조업 임시·일용직으로 이동하는 경향을 보였다. 제조업에서 줄어든 일자리를 비제조업이 일부 흡수해 전체 고용에는 큰 차이가 없는 것처럼 보였지만, 실제로는 안정적인 일자리가 불안정한 일자리로 대체되고 있었던 것이다.&lt;br&gt;&lt;br&gt;같은 기준으로 중국산 수입 충격이 큰 지역에서는 25~44세 맞벌이 가구 비율의 증가 폭도 1.44%p 더 컸다. 연구진은 제조업에서 밀려난 남성들이 상대적으로 임금이 낮은 비제조업 일자리로 이동하면서 줄어든 가구 소득을 보전하기 위해 여성이 취업했거나, 비제조업을 중심으로 일자리가 늘면서 여성의 고용 기회가 확대된 영향으로 해석했다.&lt;br&gt;&lt;br&gt;이 같은 지역에서는 혼인과 출산도 더 많이 감소했다. 연구진은 혼인은 25~34세, 출산은 25~44세 여성을 기준으로 분석했는데, 수입 충격이 큰 지역은 혼인율 감소 폭이 1.46%p, 출산율 감소 폭은 2.81%p 더 컸다. 연구를 진행한 구자현 한국노동연구원 부연구위원은 “안정적인 제조업 상용직 일자리가 줄어들면서 ‘결혼할 만한 남성’의 수가 감소하며 여성 혼인율도 줄어든 것”이라며 “출산 감소는 경제적 불안정으로 인해 ‘추가 출산’이 억제된 것”이라고 분석했다.&lt;br&gt;&lt;br&gt;대중국 수입은 분석 기간이 끝난 뒤에도 계속 늘었다. 2025년 대중국 수입액은 1419억달러로 2015년보다 57% 증가했다. 한국개발연구원(KDI)은 지난해 보고서에서 중국산 수입품과 경쟁하는 업종을 중심으로 고용이 감소하고, 임시직이나 저임금 서비스업으로 이동하는 현상이 나타났다고 분석했다. 중국산 수입 증가에 따른 고용 충격과 혼인·출산 감소가 계속 이어졌을 가능성이 있다는 해석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공공부문도 퇴직금 안 주려고 ‘364일 계약’...노동부, 의심 기관 200곳 감독</title>
-      <link>https://www.chosun.com/national/labor/2026/08/18/YPBGBFS4UJFEDJLYTOPSYUMRAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/08/18/YPBGBFS4UJFEDJLYTOPSYUMRAQ/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Aug 2026 01:30:45 +0000</pubDate>
-      <content:encoded>공공 부문에서 퇴직금을 주지 않으려고 한 것으로 의심되는 ‘364일 계약’과 1년 미만 반복 계약이 잇따르자, 정부가 공공기관과 지방 공기업 등 200곳을 대상으로 집중 감독에 나선다. 지난 3~4월 지방자치단체 30곳을 감독한 데 이어 이번엔 공공 부문 전체로 감독을 확대하는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2WMNTEHFRGIMBXMYZDIMZTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 정부세종청사 고용노동부 내부 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부는 18일부터 두 달간 공공기관 47곳, 지방 공기업 37곳, 지방자치단체 출연·출자 기관 40곳, 지방정부 20곳, 공공 부문 위탁·용역 기관 50곳 등 총 200곳을 감독한다고 밝혔다. 자회사 3곳과 중앙 부처 2곳, 교육 기관 1곳도 포함됐다. 온라인 제보와 언론 보도 등을 통해 불합리한 계약이 의심되는 기관을 집중적으로 들여다볼 계획이다.&lt;br&gt;&lt;br&gt;현행법상 근로자가 한 사업장에서 1년 이상 계속 일하면 퇴직금을 지급해야 한다. 노동부는 일부 공공기관이 퇴직금을 주지 않으려고 계약 기간을 ’364일’ 등 1년 미만으로 정하거나, 단기 계약을 반복했는지 점검할 계획이라고 밝혔다. &lt;br&gt;&lt;br&gt;지난 5월 정부가 발표한 ‘공공부문 비정규직 처우 개선 가이드라인’과 ‘공공부문 비정규직 채용 사전 심사제 운영 방안’이 현장에서 제대로 운영되고 있는지도 살펴본다. 기간제 근로자에 대한 수당 차별과 임금 체불, 근로시간 및 근로계약 관련 법 위반 여부도 함께 들여다볼 방침이다.&lt;br&gt;&lt;br&gt;앞서 노동부는 지난 3~4월 지방자치단체 30곳을 감독해 퇴직금 미지급과 기간제 근로자 수당 미지급 등 노동관계법 위반 113건을 적발했다. 노동부는 이번 감독에서도 법 위반이 확인되면 관련 규정에 따라 조치하고, 문제점이 다수 나타난 기관에는 별도 맞춤형 교육도 실시할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>특검 ‘서울~양평 고속道 수사’ 기밀… 경찰이 국토부 동창에 유출한 정황</title>
