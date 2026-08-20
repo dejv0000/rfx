@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘연락 닿았다고 하더니…‘ 제주 실종 여성, 경찰관 통화 기록 없다</title>
+      <link>https://www.chosun.com/national/regional/2026/08/20/KRF2NKCPFZG4PLYZRHOBHPTZOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/20/KRF2NKCPFZG4PLYZRHOBHPTZOI/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Aug 2026 05:06:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43GMN3DGNTDMNBSGQ2GEY3DMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 12일 제주시 한림읍에서 실종된 장미란 씨./장미란씨 가족&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 발생한 30대 여성 장기 실종 사건과 관련, 사건 접수 경찰관이 애초부터 실종 여성의 안전 확인 없이 허위로 자체 종결했을 가능성이 커졌다.&lt;br&gt;&lt;br&gt;20일 제주경찰청에 따르면 실종된 장미란(37)씨의 통신 기록 조회 결과, 지난 5월 최초 실종 신고를 받은 A 경장과 장씨가 통화했던 기록이 없는 것으로 확인됐다. 또 해당 경찰관이 근무한 경찰서의 자체 조사에서도 A 경장과 장씨의 통화 기록은 발견되지 않았다.&lt;br&gt;&lt;br&gt;장씨의 휴대전화는 지난 5월 12일 밤 장씨가 집을 나선 후 이틀 뒤 실종 신고가 이뤄진 5월 15일까지 켜져 있었지만, 5월 16일 오전 시간대부터는 꺼졌다.&lt;br&gt;&lt;br&gt;그런데도 A 경장은 경찰에 “신고 대상자와 연락이 닿아 사건을 종결 처리했다”고 주장하고 있다. A 경장은 또 “장씨가 자신의 위치를 남자친구에게 알려주지 말라고 했다”고 경찰에 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A 경장을 직무유기 혐의로 입건해 통화 여부 등의 진위를 밝히고 있다. 경찰은 또 A 경장이 지난 5월 진행한 이 사건의 종결 처리 절차도 들여다보고 있다.&lt;br&gt;&lt;br&gt;현행 실종 사건 처리 시스템에는 상부의 이중 확인 절차가 없어서 A 경장이 혼자 판단하고 종결 처리할 수 있기 때문이다.&lt;br&gt;&lt;br&gt;범죄 피해 위험도가 높은 성인 여성의 경우, 대면을 통한 안전 확인이나 위험도를 체크하는 실종자 프로파일링 시스템에도 관련 사항을 입력해야 하지만 A 경장은 이를 하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;장씨 가족 측은 A 경장 등 경찰의 이 같은 무성의한 조치로 인해 장씨 실종 사건이 장기화됐다고 주장했다.&lt;br&gt;&lt;br&gt;장씨 가족 측은 “지난 5월 경찰의 설명을 듣고 장씨가 무사하고 개인적인 일로 혼자 생각을 정리할 시간이 필요한 것이라고 여겨 안심하고 있었는데 3개월이 지난 현재까지 실종 상태”라고 했다.&lt;br&gt;&lt;br&gt;두 달 넘게 장씨와 연락이 닿지 않자 친척 동생이 지난달 19일 장씨의 실종 신고를 다시 해서 뒤늦게 재수사에 돌입하게 됐다. 하지만 시간이 2개월 이상 지나 장씨의 이동 동선을 확인할 수 있는 주변 방범카메라(CCTV) 영상 기록 등이 모두 삭제된 후였다.&lt;br&gt;&lt;br&gt;현재까지 장씨가 신용카드를 사용했거나 휴대전화 기록, 병원 이력 등 확인된 생활반응은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 뒤늦게 해경 등과 함께 이날부터 헬기와 드론, 체취 증거견, 잠수부, 경비정, 연안 구조정 등을 동원해 장씨의 휴대전화 위치가 최종적으로 잡힌 제주 한림항 주변에서 집중 수색을 전개할 예정이다.&lt;br&gt;&lt;br&gt;실종 당시 장씨는 긴 생머리에 키가 158㎝(추정)로, 실종 당시 운동복 차림에 슬리퍼를 신고 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GAUQFLG4UZDI5JHSC26SPJGDVI.jpg?auth=3a6383141fcdd4f84b9e8166ec581b9a4f127c919cd50944431d86741b7cddf1&amp;smart=true&amp;width=764&amp;height=430" type="image/jpeg" height="430" width="764">
+        <media:description type="plain">제주에서 지난 5월 실종된 장미란씨 인상착의 전단지./장미란씨 가족</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘외벽 테라스’ 떨어진 송도 아파트… 인천시·국토부, ‘사고조사위’ 구성</title>
+      <link>https://www.chosun.com/national/incident/2026/08/20/BYQA543HPFF4NO7NEARUHS7SXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/20/BYQA543HPFF4NO7NEARUHS7SXM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Aug 2026 05:04:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FV6KIPCAWVPETB72KKXNDILN3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 외벽 테라스(돌출형 발코니)가 떨어져 나간 송도 아파트. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시는 국토교통부와 함께 ‘시설물 사고조사위원회’를 구성하고 21일부터 조사에 착수한다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;위원회는 지난 7일 오전 6시 2분쯤 인천 송도국제도시의 한 아파트에서 외벽 테라스(돌출형 발코니)가 바닥으로 떨어져 나간 사고의 원인을 분석하고, 설계·시공·감리·인허가 등 건설 과정의 적정성을 살피게 된다. &lt;br&gt;&lt;br&gt;사고 당시 공실이었던 2층 가구의 외벽 테라스와 하단 외장재가 지상으로 떨어졌으나 인명 피해는 없었다. &lt;br&gt;&lt;br&gt;위원회는 건축구조 분야 전문가인 홍건호 호서대 교수(한국콘크리트학회 회장)를 위원장으로, 건축구조·건축시공·법률 등 분야 전문가 10명으로 구성됐다. 활동 기간은 11월 20일까지 3개월이다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “객관적이고 철저한 조사로 정확한 사고 원인을 규명할 것”이라며 “유사한 돌출형 구조물에 대한 안전 대책을 마련하겠다”고 했다. &lt;br&gt;&lt;br&gt;더불어민주당 정일영 국회의원실에 따르면 1114가구 규모의 이 아파트는 준공된 지 1년 6개월 됐으며, 지난해 3월 입주 시작 이후 약 5만7296건의 하자 민원이 시공사에 접수된 것으로 집계됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2차 특검, ‘김건희 수사 무마’ 의혹 이창수 전 검사장 등 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/20/AXHQULQZ3REYTE7AQX6TOTRAEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/20/AXHQULQZ3REYTE7AQX6TOTRAEQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Aug 2026 04:57:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YTQNZYMZQWCYTEGFSWGMZYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 전 서울중앙지검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합 특검은 20일 윤석열 전 대통령 배우자 김건희 여사의 도이치모터스 주가 조작 수사 무마 의혹과 관련해 이창수 전 서울중앙지검장, 최재훈 전 중앙지검 반부패수사2부장(현 대전지검 중요경제범죄조사단 부장검사) 등 전·현직 검사 5명을 허위 공문서 작성 및 행사 등의 혐의로 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;특검에 따르면, 이 전 지검장, 최 부장검사, 도이치모터스 수사팀이었던 서민석 법무연수원 용인분원 교수, 최모 부산지검 검사 등 4명은 김 여사를 2024년 10월 불기소 처분한 후 종합 수사 결과 보고서 작성 일자를 허위로 기재한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 이 전 지검장, 최 부장검사, 김민구 서울남부지검 금융조사1부장은 김 여사 측 변호인에게서 김 여사의 서면 문답서 답변 내용을 검토해 달라는 부정한 청탁을 받고 이를 수행한 혐의(청탁금지법 위반)도 적용됐다.&lt;br&gt;&lt;br&gt;여기에 특검은 최 부장검사와 최 검사에게 김 여사를 불기소 처분한 이후 수사 보고서를 형사사법정보시스템(KICS)에 등재하지 않은 혐의(직무유기)도 적용했다.&lt;br&gt;&lt;br&gt;2차 특검은 “중앙지검 반부패수사2부 수사팀에서 김 여사를 불기소 처분하기 위해 부정한 방법으로 수사의 결론을 만들어간 사실이 확인됐다”면서 “수사 과정에서 확인된 문제점에 대해 (법무부·검찰에) 징계를 요구할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;그러나 법조계 일각에서는 “2차 특검이 김 여사 범죄 혐의에 대한 수사 무마 의혹은 밝히지 못한 채 지엽적인 부분을 문제 삼아 ‘망신 주기 수사’를 한 것”이라는 비판이 나온다. 서울 서초동의 한 변호사는 “특검 수사대로면, 당시 검찰 수사팀이 김 여사를 봐주기 수사했다는 의혹은 없었다는 것”이라며 “작성 날짜가 틀린 보고서가 허위 공문서이니 평검사까지 처벌해야 한다는 논리도 납득하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;한편 2차 특검은 이 사건과 관련해 심우정 전 검찰총장도 입건했지만 심 전 총장은 기소하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소액대출 미끼로 대포유심 4185개 개통…불법사금융 조직 검거</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/20/3JUEKLEUZJCYTELJMFMDCTGGXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/20/3JUEKLEUZJCYTELJMFMDCTGGXE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Aug 2026 03:43:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2GENJRGM2GKNJZHFRTINDCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;급전이 필요한 이들을 대상으로 선불 유심을 개통하도록 한 뒤, 이를 보이스피싱 조직에 판매한 일당이 붙잡혔다. 사진은 경찰이 압수수색 과정에서 발견한 휴대폰들./서울 강북경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급전이 필요한 사람들에게 고금리 소액 대출을 해주는 조건으로 선불 유심을 개통하게 한 뒤, 이를 보이스피싱 조직 등에 판매한 일당이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;20일 서울 강북경찰서는 전기통신사업법·대부업법 위반 혐의로 불법 사금융 조직원 9명을 입건하고, 그중 6명을 구속했다고 밝혔다. 현재 해외로 도피한 총책 A(32)씨와 조직원 B(32)씨에 대해선 인터폴 적색 수배 조치 후 추적 중이다. &lt;br&gt;&lt;br&gt;이들은 2024년 10월부터 올해 4월까지 스팸 문자로 급전이 필요한 사람들을 모아 1인당 하루 최대 3개의 유심을 개통하도록 한 뒤, 유심 1개당 10만원을 대출해줬다. 이를 한 달 뒤 15만원에 상환받아 연 이율은 608%에 달했다. 개통한 유심은 보이스피싱 조직 등에 개당 약 40만원에 판매한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이들은 총책 A씨를 중심으로 대출 상담·유심 개통·판매·자금 관리 등 역할을 분담해 조직적으로 범행했다. 추적이 어려운 대포폰과 텔레그램, 원격 PC 등을 이용했고, 판매 대금은 테더(USDT)로 받은 뒤 환전 업자를 통해 현금화했다. &lt;br&gt;&lt;br&gt;경찰은 지난 4월 이들의 사무실을 압수 수색해 PC와 휴대전화 등을 확보한 뒤, 디지털 분석·통신 수사로 조직원들을 순차적으로 검거했다. 범죄 수익금 8억원에 대해선 기소 전 추징보전 조치를 취한 상태다. &lt;br&gt;&lt;br&gt;강북서 관계자는 “대포 유심이 보이스피싱, 투자 사기 등 각종 범죄에서 수사 기관의 추적을 피하기 위한 핵심 수단으로 사용되고 있다”며 “급전이 필요하다는 이유로 대출업자에게 휴대전화나 유심을 개통해 주는 경우 범죄에 연루될 수 있으므로 각별한 주의가 필요하다”고 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>금품수수 관여한 건진법사 前 변호사, 1심 실형→2심 징역형 집행유예 감형</title>
       <link>https://www.chosun.com/national/court_law/2026/08/20/L2LREA573ZFRNB4NSKU2TUWWLQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/20/L2LREA573ZFRNB4NSKU2TUWWLQ/</guid>
@@ -829,15 +868,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFF3Y2W27RELBIRAV5GDDCOU4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 9일 오후 3시 58분쯤 남양주시 진접읍 장현리에서 A씨의 차량이 전방에서 차선을 변경하는 차량을 고의로 충격하는 모습./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주와 구리 일대에서 교통사고 피해를 과장하는 수법으로 2억원대의 보험금을 타낸 일당이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기북부경찰청 교통범죄수사팀은 보험사기특별법 위반으로 주범인 40대 남성 A씨 등 3명을 송치했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 3월부터 작년 8월까지 남양주와 구리시 일대에서 진로를 변경하는 차량에 의도적으로 접근해 고의로 사고를 유발하고 경미한 접촉 사고에도 장기간 병원에 입원하는 수법으로 보험 사기를 친 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;그는 자신의 모친인 60대 여성 B씨와 연인인 40대 여성 C씨와 보험 사기를 공모한 것으로 드러났다. 이 같은 수법으로 A씨 등은 총 29회에 걸쳐 보험금 2억4000만원을 챙긴 것으로 조사됐다. 경찰은 짧은 기간에 반복된 사고 이력과 장기간 치료 과정을 수상하게 여긴 금융감독원의 제보로 수사에 나섰다. &lt;br&gt;&lt;br&gt;당초 A씨 일당은 경찰 조사 과정에서 혐의를 일체 부인했지만 경찰은 사고 상대방 운전자 29명을 전수조사하는 한편, 피의자들의 계좌 내역 등을 확보해 범행을 입증해 냈다. 경찰은 주범인 A씨를 구속하고 B씨와 C씨에게 가중처벌 조항을 적용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘마약 택배’… 시외버스 타고 전국으로 퍼졌다</title>
-      <link>https://www.chosun.com/national/2026/08/19/O7ZLZ4UOSVGGPJDLOM2LTBG7JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/19/O7ZLZ4UOSVGGPJDLOM2LTBG7JE/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 01:09:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7RELDUUFRCWFLGMOJKVZ3GYJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 필로폰과 투약 주사기. /경남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 각지의 시외버스터미널 탁송 수하물을 이용해 필로폰 등 마약을 유통하고 투약한 이들이 무더기로 경찰에 붙잡혔다. 이들은 과거 교도소에서 함께 복역하며 알게 된 사이로 드러났다.&lt;br&gt;&lt;br&gt;경남 마산동부경찰서는 마약류 관리에 관한 법률 위반 혐의로 판매책 A(60대)씨와 공급책, 투약자 등 10명을 검거하고 이 중 7명을 구속 송치했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 판매책 A씨는 지난해 8월부터 12월까지 45차례에 걸쳐 필로폰 38.3g을 전국으로 유통한 혐의를 받는다. A씨는 경남 지역 시외버스터미널에서 마약을 수하물로 포장해 탁송하면, 매수자들이 각자 거주하는 지역의 터미널에서 화물을 찾아가는 방식을 썼다. 경찰 관계자는 “시외버스를 활용한 탁송 수하물은 부피가 크지 않을 경우 안에 무엇이 들었는지 꼼꼼히 확인하지 않는 점을 노렸다”고 했다. &lt;br&gt;&lt;br&gt;A씨에게 마약을 건넨 공급책들도 덜미를 잡혔다. 공급책 B(60대)씨는 지난 1월 A씨에게 필로폰 39.09g과 대마 8.41g을 건네려다 경찰에 현행범으로 체포됐다. 또 다른 공급책 C(60대)씨 역시 지난해 11월 A씨에게 필로폰 10g을 넘긴 혐의로 붙잡혔다. D(50대)씨를 비롯한 투약자 7명은 A씨에게 마약을 구매해 투약하거나 흡입한 혐의를 받고 있다. A씨와 투약자들은 과거 교도소에서 함께 복역하며 알게 된 사이인 것으로 조사됐다. 투약자 중 구속된 4명은 동종 전력이 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 지난해 9월 관련 제보를 입수해 시외버스 터미널 감시카메라(CCTV) 분석과 통화·금융 내역 추적을 통해 지난 10일까지 이들 일당을 순차적으로 검거했다.&lt;br&gt;&lt;br&gt;이번 수사 과정에서 압수된 마약은 필로폰 39.09g과 대마 268.42g이다. 경찰 관계자는 “이는 약 1820명이 동시에 투약할 수 있는 분량”이라고 설명했다. 경찰은 A씨가 마약 판매로 거둬들인 범죄 수익 2100만원 상당에 대해 기소 전 추징보전 조치했다.&lt;br&gt;&lt;br&gt;경찰은 초범인 투약자 3명은 불구속 입건하고, 한국마약퇴치운동본부와 연계해 치료 및 재활을 지원하기로 했다. 또 이번 일당 검거에 결정적 단서를 제공한 제보자에게는 관련 규정에 따라 신고보상금 1000만원을 지급했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “마약류 범죄 신고자의 신원과 개인정보는 철저히 보호되며, 보상금도 적극적으로 지급할 예정”이라며 “마약 범죄 근절을 위해 시민들의 적극적인 제보를 당부한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>홍명보를 처벌할 수 있을까… ‘월드컵 실패’가 ‘형사 범죄’가 되려면</title>
       <link>https://www.chosun.com/national/regional/2026/08/19/2V7XYHQK3ZGS5LPE2JVOKSCES4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/19/2V7XYHQK3ZGS5LPE2JVOKSCES4/</guid>
@@ -872,33 +902,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/2BQ3ZSU7JRGKHGY3C4JEGTGZJQ.jpg?auth=b901ac7fb35470878cd4cfd2e033c8dac14437edd04e2dc09e3038141062c86a&amp;smart=true&amp;width=4000&amp;height=2250" type="image/jpeg" height="2250" width="4000">
         <media:description type="plain">지난 14일 경남 밀양시 밀양제일병원 앞. 밀양에서 유일하게 분만이 가능한 병원이지만, 저출생의 영향과 경영난에 따른 적자로 다음 달 초 문을 닫는다./김주영 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[부음] 이상돈 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/19/OPWJORPQFJFSHFH5JZP4CCHS4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/19/OPWJORPQFJFSHFH5JZP4CCHS4Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Aug 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲이상돈&lt;/b&gt; 별세, &lt;b&gt;김금순 &lt;/b&gt;남편상, &lt;b&gt;이영섭&lt;/b&gt;·&lt;b&gt;이시형&lt;/b&gt;·&lt;b&gt;이정섭 &lt;/b&gt;대전고검 검사 부친상, &lt;b&gt;황흥수&lt;/b&gt; 장인상, &lt;b&gt;윤성은&lt;/b&gt;·&lt;b&gt;조혜진&lt;/b&gt; 시부상=17일17시20분 서울성모병원, 발인 20일6시50분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최규일&lt;/b&gt; 별세, &lt;b&gt;정순기&lt;/b&gt; 前 국토교통부 공무원·&lt;b&gt;정위용&lt;/b&gt; 동아일보 기획위원·&lt;b&gt;정선숙&lt;/b&gt;·&lt;b&gt;정기숙&lt;/b&gt; 모친상, &lt;b&gt;최창헌&lt;/b&gt;·&lt;b&gt;황규상&lt;/b&gt; 장모상, &lt;b&gt;김금녀&lt;/b&gt;·&lt;b&gt;강정숙&lt;/b&gt; 시모상=18일7시30분 강원 강릉 동인병원, 발인 20일8시30분, (033)650-6165&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성기학 회장, 동국대에 3억2500만원… 뒤엔 산악인들의 ’30년 우정' 있었다</title>
-      <link>https://www.chosun.com/national/people/2026/08/19/RJAQ5SR6BVBBHD75REEULNYKNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/19/RJAQ5SR6BVBBHD75REEULNYKNY/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Aug 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHYERXKBQNG4DPTTF7EYGHIV5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 동국대 발전기금 전달식에 참석한 성기학(왼쪽) 영원무역 회장과 이인정 아시아산악연맹 회장. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성기학(79) 영원무역 회장이 동국대학교에 발전기금 3억2500만원을 기부했다고 18일 학교 측이 밝혔다. 지난 2월 1억2500만원을 기탁했고, 이날 2억원을 추가했다. 서울대 무역학과(66학번)를 졸업하고 영원무역을 창업해 글로벌 OEM(주문자상표부착생산) 기업으로 발전시킨 성 회장의 이력은 동국대와 큰 인연이 없어 보인다. &lt;br&gt;&lt;br&gt;“성 회장이 산악인을 많이 아껴요. 대학 교육에도 관심이 많고, 한없이 칭찬할 만한 사람이지요.”&lt;br&gt;&lt;br&gt;성 회장이 거액을 동국대에 기부한 이유에 대해 이인정(81) 아시아산악연맹 회장(태인 회장)은 ‘악우(岳友)’라는 산악인의 의리로 설명했다. 동국대 산악부 출신으로 ‘한국 산악계 대부’로 통하는 이 회장과의 30여 년 우정, 히말라야 안나푸르나에서 실종된 동국대 출신 고(故) 박영석 대장에 대한 애정이다. 성 회장은 “제 기부금이 이인정 회장 등 좋은 선배들을 배출한 학교 발전에 보탬이 되고, 산악인 박영석 대장의 도전 정신을 이어가는 계기가 됐으면 한다”고 말했다. &lt;br&gt;&lt;br&gt;성 회장과 이 회장은 둘 다 대학에서 산악부 활동을 한 뒤 기업인으로 성장한 공통점이 있다. 이를 계기로 1990년대 초반부터 인연을 이어오다가 1997년 박영석 대장을 통해 본격적으로 돈독한 우정을 맺게 됐다. &lt;br&gt;&lt;br&gt;당시 대학산악연맹 회장이던 이 회장은 열악한 지원 속에서 히말라야 8000m급 14좌 완등에 도전하는 박 대장을 성 회장에게 소개했다. 성 회장은 노스페이스 등반 장비 일체를 지원했고, 박 대장은 2001년 세계 최단 기간(8년 2개월) 완등이란 대기록으로 화답했다. 박 대장은 2005년엔 최초로 산악 그랜드 슬램(히말라야 14좌, 7대륙 최고봉, 남극·북극점 정복)에 성공했다.&lt;br&gt;&lt;br&gt;박 대장이 2011년 10월 히말라야 안나푸르나에서 실종됐을 때에도 두 사람은 구조와 수습 작업을 함께 진두지휘했다. 이 회장은 “박 대장 사고 때 장례도 치러주고, 다음 달 동국대 학생들이 박 대장 수색하러 원정 가는 것도 성 회장 지원 덕분”이라며 “그 고마움은 내가 대신 (성 회장에게) 갚아야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국무조정실·국무총리비서실 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/19/4UH7AD3XAFCLZKCSMTFMGKFSIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/19/4UH7AD3XAFCLZKCSMTFMGKFSIU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Aug 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲국무조정실·국무총리비서실◇과·팀장급▷초광역협력과장 김광제▷국회협력행정관 김인아▷뉴미디어운영행정관 구자필▷특별자치시도지원단 총괄기획과장 이가형▷4·16 세월호참사피해자지원 및 희생자추모사업지원단 피해지원팀장 이경진&lt;br&gt;&lt;br&gt;▲재정경제부◇국장급▷공공정책국장 이상윤◇과장급▷다자금융과장 이운호&lt;br&gt;&lt;br&gt;▲문화체육관광부◇과장급 전보▷체육국 스포츠산업과장 이동준&lt;br&gt;&lt;br&gt;▲보건복지부◇과장급 전보▷아동보호자립과장 구미정&lt;br&gt;&lt;br&gt;▲고용노동부◇국장급 전보▷통합고용정책국장 김형광▷노동시장정책관 최태호▷전북 지방노동위원장 권진호◇과장급 전보▷개정노조법현장지원단 과장 오수학&lt;br&gt;&lt;br&gt;▲기상청◇4급 전보▷운영지원과장 김지현▷기후과학국 기후위기협력팀장 이한아&lt;br&gt;&lt;br&gt;▲국민건강보험공단▷징수상임이사 서경숙&lt;br&gt;&lt;br&gt;▲한국전자통신연구원▷인공지능연구소장 김강호&lt;br&gt;&lt;br&gt;▲한국원자력의학원▷기획조정실장 장원일&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>조희대, 李와 면담 없이 대법관 2명 ‘서면 제청’</title>
