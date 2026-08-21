@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] “윗선 개입 규명이 사명”이라던 2차 특검, 윤희근·원희룡·박성재 경찰에 줄이첩</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/21/Z7MAECK6HRB3DEGYBNYWVZJFZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/Z7MAECK6HRB3DEGYBNYWVZJFZ4/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 05:08:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43GGMZUMFRDOZRXMI4TGNJQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 2차 종합특검 사무실./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 디올백 수사 무마 의혹, 경찰청 수뇌부의 통일교 원정도박 수사 무마 의혹 사건 등을 마무리하지 못하고 경찰에 이첩할 것으로 21일 알려졌다. 앞서 특검은 서울~양평 고속도로 노선 변경 의혹과 노상원 전 정보사령관의 내란목적 살인예비음모 사건도 경찰에 넘기기로 결정했었다. 법조계에선 “무엇이든 ‘나올 때까지’ 수사하겠다며 경찰에 책임을 미루는 격”이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;오는 23일 수사 종료를 앞둔 2차 특검은 통일교 원정 도박 수사 무마 의혹에 대한 결론을 내리지 못하고 사건을 경찰에 넘기기로 결정했다. 이 사건은 춘천경찰서가 2022년 6월 한학자 총재 등이 2008~2011년 미국 라스베이거스에서 약 600억원 규모의 도박을 했다는 첩보를 입수하고도 정식 수사에 착수하지 않았다는 내용이다. 특검은 2022년 당시 경찰청 차장이던 윤희근 전 경찰청장 등 경찰 수뇌부가 윤석열 전 대통령의 지시를 받고 통일교에 대한 수사를 막은 것 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;이에 특검은 지난 4월 윤 전 청장이 과거 사용하던 업무용 PC를, 5월에는 윤 전 청장의 자택을 압수수색해 휴대전화를 확보했다. 이후 윤 전 청장과 경찰청·강원경찰청·춘천경찰서 관계자들을 조사했지만, 윤 전 청장을 기소할 만한 증거는 찾지 못한 것으로 전해졌다. 윤희근 전 경찰청장과 김도형 전 강원경찰청장 등 피의자로 입건했던 경찰 관계자들을 특검이 처분하지 않고, 경찰이 사건을 넘겨받아 수사를 계속해달라는 것이다.&lt;br&gt;&lt;br&gt;특검은 또 서울~양평 고속도로 사업 백지화 의혹의 윗선인 원희룡 전 국토교통부 장관, 백원국 전 국토부 2차관에 대해서도 기소하지 않고 사건을 경찰에 넘기기로 결정했다. 2차 특검은 지난 3월 원 전 장관을 출국금지하고, 4월 백 전 차관 등을 압수수색 하며 수사를 이어왔으나 이들의 혐의를 입증하지 못했다. 이 의혹과 관련해 기소한 피의자는 국토부 실무자에게 수사 정보를 유출한 혐의를 받는 현직 경찰 뿐이다.&lt;br&gt;&lt;br&gt;한편 디올백 수사 무마 의혹으로 입건됐던 박성재 전 법무 장관, 윤석열 전 대통령, 김건희 여사에 대해서도 이렇다 할 수사 결과를 내지 못한 채 경찰로 사건을 이첩하기로 했다. 노상원 전 정보사령관의 내란목적 살인예비·음모 혐의 사건도 “추가 수사가 필요하다”며 사건을 경찰에 넘기기로 했다. 노 전 사령관은 12·3 비상계엄 당시 야권 정치인과 주요 인사들을 ‘수거’해 살해하는 계획을 세우고 이를 실행하려 한 혐의를 받는다. 이 사건은 지난해 6월 대검에 고발된 뒤 내란 특검으로 넘어갔고, 내란 특검은 같은 해 10월 노 전 사령관을 입건했다. 이후 다시 사건을 넘겨받은 2차 특검은 지난 5월 노 전 사령관의 수첩에 ‘수거소’로 적힌 해병대 연평부대와 수도방위사령부 등을 현장 검증하기도 했지만, 1년 가까운 수사에도 혐의를 입증하지 못했다.&lt;br&gt;&lt;br&gt;지난 4월 김지미 특검보는 김어준씨가 운영하는 유튜브 채널 방송에서 “김건희 특검에서는 기간 등 여러 가지 한계상 그 위까지는 못 밝혔다. 각 사건마다 권력의 개입이 어디까지 이뤄졌는지에 대한 의혹이 남아있다. 2차 특검은 그 부분(각종 의혹의 윗선)을 파헤치는 게 사명이라고 생각한다”며 “성과로 말할 수 있길 바라고 있다”고 했었다.&lt;br&gt;&lt;br&gt;2차 특검 수사 기한은 지난달 법 개정을 통해 한 달 추가로 연장되기도 했었다. 국회 법사위가 수사 기간 연장을 논의하는 과정에서 “특검은 형사사법 체계의 예외적 제도로, 단기간에 수사·기소를 마쳐 국민적 의혹을 조기에 해소해야 한다”는 의견이 나오기도 했다. 한 검찰 관계자는 “추가 수사를 하면 무언가 나올 수 있다는 가정적 가능성만으로 사건을 다시 넘기는 것은 사회적 비용만 키우는 일”이라며 “수사력이 부족했거나 무혐의 처분을 내릴 용기가 없는 것 아니냐”고 했다.&lt;br&gt;&lt;br&gt;앞서 ‘관봉권 띠지 분실’ 의혹을 수사한 상설특검도 90일간 수사한 끝에 범죄 혐의점을 찾지 못하고 사건을 종결하는 대신 검찰에 이첩한 바 있다. 당시 안권섭 특검은 “특검은 한시적 조직이고 시간적 제약 등이 있어 미처 밝혀내지 못한 부분이 있을 수 있다”며 “특검법에는 범죄 혐의가 있을 때 기소해야 한다는 내용은 있지만 무혐의 처분을 해야 한다는 규정은 없다”고 설명했다. 그러나 특검법에는 특검이 공소 제기 ‘여부’를 결정하도록 명시돼 있어 비판이 나왔었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘조종사 구한 영웅’ 스리랑카 근로자, 韓 장기 체류 자격 받아</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/21/RT6O5XWJF5HOVOZS7EYKTRGKSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/RT6O5XWJF5HOVOZS7EYKTRGKSQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 04:43:41 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLR5NE3FEJAODNACTTI3ZUGGSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 8월 12일 루완씨를 비롯해 스리랑카 국적 노동자들이 비상탈출한 조종사를 배로 구조한 모습./안산시 외국인주민상담지원센터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 21일 서해 해상에 추락한 공군 전투기 조종사를 구조한 스리랑카 국적 근로자 2명에게 장기 정주 비자인 숙련기능인력(E-7-4) 체류 자격을 부여했다고 밝혔다.&lt;br&gt;&lt;br&gt;스리랑카에서 온 자뚜랑그(34)씨, 루완(35)씨와 딜립(38)씨 등은 고용허가제(E-9)를 통해 한국에 왔었다. 세 사람은 2022년 8월 12일 경기 화성시 제부도 인근 바닷가 김 양식장에서 일하던 중, 엔진 화재로 비상 탈출한 조종사 2명을 선장과 함께 구조했다.&lt;br&gt;&lt;br&gt;세 사람 중 1명은 앞서 장기 체류 자격을 받았고, 이날 나머지 2명도 장기 거주할 수 있는 자격이 주어졌다.&lt;br&gt;&lt;br&gt;이들은 지난 5월 20일 세계인의 날에 공군 참모총장 명의의 감사장을 받기도 했다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “국민의 생명을 구한 외국인의 헌신에 합당한 예우를 하는 것은 우리 사회의 신뢰를 높이는 것”이라며 “앞으로도 우리 사회에 특별한 기여를 한 외국인들이 국내에서 안정적으로 살아갈 수 있도록 뒷받침하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의정부서 같은 아파트에 살던 남성 2명, 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/21/4INWEB6WZREKFK5EJT45PLSCHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/4INWEB6WZREKFK5EJT45PLSCHI/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 03:50:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTIMJVGIYGGNBWHFRTMMRXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부에서 남성 2명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;21일 경찰과 소방당국에 따르면 이날 오전 10시쯤 의정부시에 있는 한 아파트에서 “사람이 떨어졌다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방당국은 추락한 A씨를 발견해 병원으로 옮겼지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨의 집을 확인한 경찰은 집 안에서 피를 흘린 채 숨져있는 남성 B씨를 발견했다.&lt;br&gt;&lt;br&gt;이들의 나이대는 40~50대로, 같은 집에 살고 있어 가족으로 추정되고 있지만 정확한 관계는 아직 확인되지 않았다. &lt;br&gt;&lt;br&gt;경찰은 이들의 정확한 사망 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>올해도 ‘처서 마법’ 없다…전국 곳곳 소나기 뒤 다시 무더위</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/21/U4JNTAIP3RA43HL7CHLYVNZVF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/21/U4JNTAIP3RA43HL7CHLYVNZVF4/</guid>
@@ -785,27 +812,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/OW7UMRY2BJHPFF6LKO5KH6NSAY.jpg?auth=ce3d2e33480a5d6d51785ea827c1fed71930e241c4cfd13d164eccc4c8ae307b&amp;smart=true&amp;width=1200&amp;height=675" type="image/jpeg" height="675" width="1200"/>
     </item>
     <item>
-      <title>“대법원장, 李면담 요청했지만 불발… 靑민정실과 협의해 서면 제청”</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/20/HNJPCYMH4BAWPNPZGMBTCJ3T7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/20/HNJPCYMH4BAWPNPZGMBTCJ3T7M/</guid>
-      <dc:creator>김은경 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLUH5DF5JBKQZMN4RVHEFOOIM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노경필 법원행정처장이 19일 오후 국회 법제사법위원회 전체 회의에 출석해 의원 질의에 답하고 있다. 이 자리에서 노 처장은 “조희대 대법원장이 대법관 서면 제청에 앞서 이재명 대통령과의 면담을 요청했지만 성사되지 않았다”며 “두 분이 합의할 기회가 주어지지 않아 청와대 민정수석실과 협의해 서면 제청을 택했다”고 말했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 이재명 대통령과 최종 합의 없이 노태악 전 대법관 후임으로 손봉기 대구지법 부장판사를 서면 제청하자, 여권에서는 19일 “대통령 임명권에 대한 도전”이라고 비판했다. 그러나 법조계와 학계에선 조 대법원장의 제청 절차에 실질적·절차적 하자가 있다고 보기는 어렵다는 의견이 많다.&lt;br&gt;&lt;br&gt;헌법 104조는 대법관을 ‘대법원장의 제청으로 국회의 동의를 얻어 대통령이 임명한다’고 규정한다. 대법원장에게 제청권, 국회에 동의권, 대통령에게 최종 임명권을 나눠 준 것이다. 대법원 구성을 어느 한 기관이 독점하지 못하도록 설계됐다는 것이 학계의 해석이다. 사법부는 법치주의 가치를 지켜야 하는 만큼, 정치권의 과도한 개입을 막기 위해 대법원장에게 대법관 제청권을 줬다는 취지다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇靑의 면담 거부? 대법원 일방 통보?&lt;/b&gt;&lt;br&gt;&lt;br&gt;그동안 대법관 제청은 대법원장과 대통령 측이 사전에 조율한 뒤, 어느 정도 합의에 이르면 대법원장이 대통령을 만나 제청하는 방식이 관행이었다. 이와 관련해 노경필(대법관) 법원행정처장은 이날 국회에 출석해 “조 대법원장이 서면 제청에 앞서 이 대통령과의 면담을 요청했지만 성사되지 않았다”고 밝혔다. 노 처장은 “두 분이 합의할 기회가 주어지지 않아 청와대 민정수석실과 협의해 서면 제청을 택했다”고 했다. &lt;br&gt;&lt;br&gt;이와 관련, 청와대는 이번 대법관 제청이 협의를 거친 게 아닌 일방적인 통보였다는 입장인 것으로 전해졌다. 한 청와대 관계자는 “대법원이 전날(18일) 전화로 사전에 의견이 일치된 (이흥구 대법관 후임 후보인) 김성수 서울고법 부장판사 외에 합의가 안 된 손봉기 부장판사를 함께 서면 제청하겠다며 ‘대법원장의 뜻’이라고 통보했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“제청권은 대법원장 독립 권한”&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌법과 법률에 대법관을 제청할 때 대통령과 사전 합의를 거쳐야 한다거나 직접 만나 제청해야 한다는 규정은 없다. 김대환 서울시립대 법학전문대학원 교수는 “대법관 제청권은 대법원장이 독립적으로 행사하는 권한”이라며 “대통령과 미리 합의한 사람만 제청해야 한다면 오히려 헌법이 정한 삼권분립 취지에 맞지 않는다”고 했다. 법원 내부에서는 “대통령과 의견이 완전히 일치할 때까지 기다려야 한다면 대법관 자리를 언제까지 비워둬야 하느냐”는 얘기가 나왔다.&lt;br&gt;&lt;br&gt;반대로 대법원장이 제청한 사람을 대통령이 반드시 임명해야 하는 것도 아니다. 그런 만큼 이 대통령이 손 부장판사 임명을 거부할 수도 있다는 관측이 나온다. 대통령의 임명 거부와 관련한 규정은 법에 정해져 있지 않다. 김선택 고려대 법학전문대학원 교수는 “현실적으로는 대통령이 제청안을 돌려보내 대법원장에게 다시 후보를 검토하도록 요구할 가능성이 크다”고 말했다. 지금까지 대통령이 대법원장의 제청을 거부한 전례는 없다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법조계 “曺, 직무유기 성립 안 돼”&lt;/b&gt;&lt;br&gt;&lt;br&gt;대법원과 청와대는 올 1월 대법관후보추천위원회가 노태악 전 대법관 후임 후보 4명을 추린 뒤부터 여러 차례 협의를 진행했다. 하지만 청와대가 제청을 원한 것으로 알려진 김민기 서울고법 판사에 대해 조 대법원장은 반대한 것으로 전해졌다. 법원 내부에선 김 고법판사의 남편이 오영준 헌법재판관인 점을 조 대법원장이 감안했을 것이란 말도 나온다. 김 고법판사가 대법관이 될 경우 헌재가 대법원 판결을 심사하는 재판소원 사건마다 제척·회피·기피 문제가 반복될 수 있다고 조 대법원장이 우려했을 수 있다는 얘기다.&lt;br&gt;&lt;br&gt;노 처장은 교착 상태를 풀기 위해 후보 추천 절차부터 다시 진행하는 방안도 검토했다고 밝혔다. 노 처장은 “후보자들에게 직접 의견을 물었지만 상당수가 반대해 곧바로 폐기했고, 반발한 후보들에게는 사과했다”고 했다. &lt;br&gt;&lt;br&gt;한편, 여권 일각에선 조 대법원장이 노태악 전 대법관 후임 제청을 200일 넘게 미뤄 직무유기에 해당한다는 주장도 나온다. 하지만 법조계에선 형법상 직무유기죄가 성립할 가능성은 낮다고 본다. 고위 법관 출신 법조인은 “직무유기는 공무원이 해야 할 직무를 고의로 방치해야 성립하는데, 조 대법원장은 그동안 청와대와 계속 협의해 오다가 더 이상 미룰 수 없어 제청권을 행사한 것으로 봐야 한다”고 했다. 차진아 고려대 법학전문대학원 교수는 “제청권자와 임명권자가 조율하지 못한 책임은 어느 한쪽에만 돌릴 수 없다”며 “이견을 좁혀야 할 상황에서 제청 지연을 이유로 탄핵까지 거론하며 갈등을 키운 여당의 책임도 크다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란 맞선 공직자’로 불렸던 2人… 2차 특검, 내란 가담 혐의 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/20/VA3RC5FYGBCFFNTCYZ4TRUPPHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/20/VA3RC5FYGBCFFNTCYZ4TRUPPHU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN6XSDIKBZAF7MASQKJFJSJZOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원 전 국가정보원 1차장, 조성현 전 수도방위사령부 제1경비단장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 19일 홍장원 전 국가정보원 1차장과 조성현(대령) 전 수도방위사령부 제1경비단장을 내란 중요 임무 종사 혐의로 불구속 기소했다. 두 사람은 12·3 비상계엄과 관련해 헌법재판소의 윤석열 전 대통령 탄핵 심판과 검찰·특검 수사에서 계엄이 위헌·위법했다는 취지의 증언과 폭로를 한 인물이다. 정치권에서 “계엄에 맞선 공직자”란 말도 들었다. 앞서 내란 특검(특별검사 조은석)도 이런 이유 등을 들어 두 사람을 기소하지 않았다. 그러나 2차 특검은 오히려 두 사람이 비상계엄 사태 때 주요한 역할을 했다고 판단한 것이다. 조은석 특검은 더불어민주당이, 권창영 특검은 조국혁신당이 추천했다.&lt;br&gt;&lt;br&gt;2차 특검은 이날 홍장원 전 1차장과 조태용 전 원장, 황원진 전 2차장, 김남우 전 기획조정실장 등 비상계엄 당시 국정원 정무직 간부들을 내란 중요 임무 종사, 국정원법상 직권남용 혐의로 기소했다. 특검은 이들이 계엄 선포 직후 국가안보실에서 계엄을 정당화하는 메시지를 받아 미국 중앙정보국(CIA) 등에 전달하는 데 관여했다고 보고 있다.&lt;br&gt;&lt;br&gt;홍 전 차장은 계엄 해제 얼마 후 “윤 전 대통령에게 ‘싹 다 잡아들이라’는 전화를 받았다”고 폭로했다. 내란 특검 수사에선 윤 전 대통령의 내란 혐의를 입증하는 핵심 참고인이었다. 그런 그는 2차 특검의 기소를 앞두고 방송과 더불어민주당 정치인 유튜브 채널 등에 출연해 억울하다고 주장했지만 특검은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;2차 특검은 내란 특검이 불기소한 조성현 대령도 내란에 가담했다고 판단했다. 조 대령은 애초 계엄 당시 병력을 국회에 투입하라는 상부 지시를 거부한 것으로 알려졌었다. 이런 공로로 현 정부 출범 후인 지난해 9월 훈장도 받았다. &lt;br&gt;&lt;br&gt;하지만 2차 특검은 이날 “조 대령은 불법 계엄임을 알면서도 국회로 병력을 출동시켰다”고 밝혔다. 2차 특검은 조 대령이 계엄 당시 부하들에게 “서강대교를 넘지 말라”고 지시한 사실이 확인되지 않는다고 판단했다. 오히려 조 대령이 계엄 이튿날인 2024년 12월 4일 오전 1시 2분 김창학(수방사 군사경찰단장) 대령이 전화로 부대원들의 국회 진입 방법을 묻자 “(부대원들이) 한적한 곳으로 해서 들어갔다”고 말한 녹음이 나왔다. 2차 특검은 조 대령이 처음엔 계엄에 가담했다가, 국회의 계엄 해제 요구 결의안이 가결됐다는 소식을 들은 뒤 태도를 바꾼 것으로 의심한다. 조 대령은 12월 4일 오전 1시쯤 서강대교 북단 근처에서 대기하던 윤모 소령에게 “국회 안 인원을 다 끌어내야 한다”고 했다가, 약 20분 뒤 “국회로 들어가면 안 될 것 같다”며 지시를 바꾼 것으로 조사됐다.&lt;br&gt;&lt;br&gt;2차 특검은 이날 계엄 사태와 관련해 홍창식 전 국방부 법무관리관을 직무 유기 혐의로, 김상환 전 육군본부 법무실장을 내란 부화 수행(남의 뜻을 따라 임무를 수행) 혐의로 불구속 기소했다. 이런 가운데 비상계엄 이후 허위 사실을 유포해 정치에 관여한 혐의 등으로 기소된 조태용 전 국정원장은 이날 항소심에서 징역 2년 6개월을 선고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AN6XSDIKBZAF7MASQKJFJSJZOM.jpg?auth=e045f7dab063005cb6c71de38be73054b306045b914e50b40769ab870af45af8&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600">
-        <media:description type="plain">홍장원 전 국가정보원 1차장, 조성현 전 수도방위사령부 제1경비단장</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>[인사] 기획예산처 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/08/20/SQFBAKAVOFBBLATLMTHFLNJZ7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/20/SQFBAKAVOFBBLATLMTHFLNJZ7Q/</guid>
@@ -876,15 +882,6 @@
       <description/>
       <pubDate>Wed, 19 Aug 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2RIGGDVSVGTTGUTTOJI7A2PIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 척추전문병원 우리들병원 이상호 박사, 김신재 원장과 함께 노년의 삶의 질을 떨어뜨리는 ‘척추관 협착증’에 대해 알아봤다.&lt;br&gt;&lt;br&gt;척추에는 신경이 지나가는 ‘척추관(신경관)’이라는 터널이 있다. 김신재 원장은 “허리를 계속 쓰다 보면 척추 관절이 약해지고 흔들리는데, 뼈가 어긋나거나 인대가 두꺼워지고 뒤쪽 후관절이 두껍게 자란다”며 “그 결과 신경관이 좁아지는 협착증이 생긴다”고 말했다.&lt;br&gt;&lt;br&gt;증상의 핵심은 엉덩이와 다리가 저리는 것. 척추관이 좁아지면 지나가는 신경 주변의 혈관들도 눌려서 혈액 순환이 잘 되지 않는다. 이 때문에 걸으면 저림이 심해지고 앉아서 쉬면 괜찮아지는 게 협착증 증세의 특징이다.&lt;br&gt;&lt;br&gt;이상호 박사는 “서서 앞으로 허리 숙이면, 허리 디스크는 허리가 아프거나 다리·엉덩이가 당기는데, 척추관 협착증은 오히려 허리 숙이면 신경이 지나가는 공간이 넓어져 더 편해진다”고 말했다.&lt;br&gt;&lt;br&gt;척추관 협착증을 방치할 경우 활동 부족으로 수명이 10년가량 짧아진다. 이상호 박사는 뼈를 자르지 않고 두꺼워진 인대만 제거한 뒤, 그 자리에 인공 인대를 걸어서 위아래 척추를 잡아주는 ‘척추 인대 재건술’을 세계 최초로 개발했다.&lt;br&gt;&lt;br&gt;김 원장은 “협착증은 고령 환자에게 많이 생기는데, 뼈를 자르면 출혈이 많고 수술 시간도 많이 걸리지만, 인대 재건술은 협착증 근본 원인만 제거하는 수술이어서 수술 시간이 짧고 출혈도 적다”고 말했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면, 척추관 협착증 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XF3IW7RZP5HMFNVAAKH5OSWSJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 근력운동 꾸준히 하면 당뇨병 발생 27% 낮아</title>
-      <link>https://www.chosun.com/medical/2026/08/20/GWEIUUOR5FDCXIKTSSPHQ6SZTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/08/20/GWEIUUOR5FDCXIKTSSPHQ6SZTU/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:40:00 +0000</pubDate>
-      <content:encoded>성인에서 발생하는 2형 당뇨병은 혈당을 조절하는 인슐린은 충분히 있어도 인슐린이 효율적으로 작동하지 못하여 발생한다. 인슐린 효율성을 올려서 당뇨병을 예방하는 방법은 무엇일까.&lt;br&gt;&lt;br&gt;최근 미국 하버드대 연구팀은 저항 운동(근력 운동)이 당뇨병 예방에 미치는 영향을 심층 조사해서 미국의사협회지 네트워크판에 발표했다. 저항 운동은 스쿼트, 데드리프트(바벨을 바닥에서 허리 높이로 들어 올리는 운동), 벤치프레스 등처럼 중력에 저항하며 근육을 쓰는 운동을 말한다.&lt;br&gt;&lt;br&gt;연구는 평균 56세인 미국인 간호사 및 건강 관련 종사자 14만3715명을 대상으로 했다. 2년마다 대상자들의 생활습관, 저항 운동 및 유산소 운동량을 조사하면서, 2형 당뇨병 발생 여부를 약 20년에 걸쳐서 추적 관찰했다.&lt;br&gt;&lt;br&gt;연구 결과, 1만 38명에서 2형 당뇨병이 발생했다. 저항 운동을 매주 2시간 이상 한 대상자들은 운동을 하지 않은 대상자에 비해서 당뇨병 발생이 27% 낮았다. 특히 꾸준한 실천이 중요해서, 일주일에 30분 이상 지속적으로 저항 운동을 한 사람들은 당뇨병 발생률을 낮출 수 있었지만, 운동을 불규칙하게 한 경우는 예방 효과가 뚜렷하지 않았다. 앉아 있는 시간을 줄이고, 걷기·뛰기와 같은 유산소 운동을 병행했을 때, 당뇨병 예방 효과가 극대화됐다.&lt;br&gt;&lt;br&gt;꾸준한 저항 운동은 근육량을 증가시키며, 근육 내 대사 기능을 개선시키고, 인슐린 감수성을 증가시킨다. 지방량과 염증도 줄임으로써 2형 당뇨병 발생을 줄일 수 있다. 현대인의 건강 장수를 가로막는 최대 주범 당뇨병을 막으려면, 빨리 걷기와 같은 유산소 운동과 최소 일주일에 30분 이상은 저항 운동을 꾸준히 하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>잠 잘 자면 직장서 더 오래 버텨 은퇴 늦춰</title>
