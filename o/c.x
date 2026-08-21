@@ -13,6 +13,135 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 여성 실종 거짓말로 종결... 그 경찰이 다룬 사건 전수 조사한다</title>
+      <link>https://www.chosun.com/national/regional/2026/08/21/VUFZWIAU25ENPCMMRDHA2ZXV3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/21/VUFZWIAU25ENPCMMRDHA2ZXV3A/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 07:42:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBTRFBSGHREPFC3IWB4FYLBYUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주에서 지난 5월 실종된 장미란씨 인상착의 전단지./장미란씨 가족&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제주 30대 여성 실종 사건 허위 종결’한 경찰관이 처리한 실종 사건 전체에 대해 재조사가 진행되고 있는 것으로 알려졌다. 이번 사건처럼 허위로 종결시킨 실종 사건이 더 있는지 확인하기 위해서다. &lt;br&gt;&lt;br&gt;하지만 실종 사건 특성상 여전히 연락이 닿지 않는 경우가 많은 데다 보존 기간인 1년이 지나 통신 기록 자체가 지워진 사건도 있어 확인 작업엔 상당 시간이 소요될 것으로 보인다.&lt;br&gt;&lt;br&gt;21일 제주경찰청에 따르면 직무 유기로 입건된 제주서부경찰서 소속 30대 A 경찰관이 작년부터 다룬 실종 사건을 전수조사하고 있다. 경찰이 전수조사에 나선 건 5월 12일 밤 실종된 장미란(37)씨 사건처럼 허위 보고로 사건을 종결시킨 사례가 더 있을 수 있다는 우려가 나오고 있기 때문이다. 제주경찰청 관계자는 “지난해부터 실종수사팀에 근무한 경장이 실종자 프로파일링 시스템에 입력한 사건 전체를 조사하고 있다”며 “통상 실종 사건은 하루에 많게는 4, 5건 정도”라고 했다. 이어 “실종 사건 특성상 아직도 연락이 닿지 않는 실종자가 있다”며 “보존 기한 1년이 지나 통신 기록이 지워진 사건도 있어 확인 작업엔 상당한 시간이 소요될 것 같다”고 덧붙였다.&lt;br&gt;&lt;br&gt;A경찰관은 야간 당직 근무 중이던 5월 15일 오후 6시 43분쯤 장씨에 대한 최초 실종 신고를 접수한 뒤 2시간 30분을 조금 넘긴 오후 9시 16분쯤 “장씨와 연락이 닿았다”는 내용을 112 처리 시스템에 입력해 사건을 종결시켰다. 그러나 장씨의 휴대전화 통신 기록 분석 결과, 집을 나온 이후 휴대전화 전원이 꺼질 때까지 A경찰관을 비롯해 경찰과 통화한 기록은 없었다.&lt;br&gt;&lt;br&gt;장씨 남자 친구가 경찰에 실종 신고한 5월 15일에는 장씨의 휴대전화가 켜져 있었던 것이다. 장씨가 실종된 후 지금까지 장씨가 휴대전화나 신용카드를 사용한 기록 등은 없는 것으로 알려졌다. 장씨 가족 측은 A 경장의 허위 종결로 장씨 실종 사건이 장기화됐다고 주장했다. 장씨 가족 측은 “지난 5월 경찰의 설명을 듣고 장씨가 아무 탈 없이 개인적인 일로 혼자 생각을 정리할 시간이 필요한 것이라고 여겨 안심하고 있었는데 3개월이 지난 현재까지 실종 상태”라고 했다.&lt;br&gt;&lt;br&gt;경찰은 뒤늦게 해경과 함께 헬기와 드론, 잠수부 등을 동원해 한림항 주변을 집중 수색 중이다. 다만 실종 사건이 발생한 지 2개월 이상 지나 장씨의 동선을 확인할 수 있는 주변 방범 카메라(CCTV) 영상 등도 모두 삭제됐다. 실종 당시 장씨는 긴 생머리에 키 158㎝(추정) 정도의 마른 체형이었다고 한다. 운동복에 슬리퍼를 신고 금 팔찌를 하고 집을 나섰다고 경찰은 전했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신건호 전 KBC 보도국장, ‘사람을 그리며 세상을 묻다’ 출간</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/08/21/S3SDOIQOMRDA3BSXZ26ILK5YIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/08/21/S3SDOIQOMRDA3BSXZ26ILK5YIM/</guid>
+      <dc:creator>전남광주=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 08:03:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYEN2XXYBVESTIKTIYU5ZGBIZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;책 표지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신건호 전 광주방송(KBC) 보도국장이 칼럼 에세이집 ‘사람을 그리며 세상을 묻다(아이허브)’를 최근 출간했다. 40여 년 언론 현장에서 경험한 내용을 토대로 120여 편의 글을 담았다. 남도일보 칼럼 코너 ‘신건호의 서치라이트-응답하라’에 실은 글과 치매 어머니를 돌본 내용 등이 포함됐다.&lt;br&gt;&lt;br&gt;저자는 21일 본지 인터뷰에서 “오랜 취재 현장에서 마주친 사람은 물론 시대적 사건을 주제 삼아 기자의 시각과 대중의 시선으로 썼다”며 “사건보다는 사람에 집중했다”고 말했다.&lt;br&gt;&lt;br&gt;전남 고흥 출신 저자는 KBC 보도국장, 광주 영어방송 본부장, 광주·전남기자협회장, 전남광주 지역 일간지 ‘남도일보’ 전무 등을 지냈다. 현재 인터넷 매체 ‘시민의 소리’ 공동대표로 있다. &lt;br&gt;&lt;br&gt;영어방송 본부장 시절 국내 첫 베트남어 프로그램을 개설하기도 했다. 또 5·18 민주화운동을 다룬 다큐멘터리 ‘아! 광주여’와 ‘하의도 350년의 투쟁’ 등을 보도해 언론인 상을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 8월 22일 토요일 (음력 7월 10일 戊辰)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/21/257SXKR2G5DGHLFQNBDOA6EBV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/257SXKR2G5DGHLFQNBDOA6EBV4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>尹 구속에 ‘헌재 방화’ 글 올린 30대, 2심도 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/21/5XBHSOOBMVGPVD6DBVQNXWHS3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/5XBHSOOBMVGPVD6DBVQNXWHS3Y/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 07:41:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TIMZSMQZDCMZQGJRTMMDDGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지방법원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 내란죄 등 혐의로 윤석열 전 대통령에 대한 구속영장이 발부되자, 인터넷에 “헌재에 불 지르자”는 취지의 글을 쓴 혐의로 재판에 넘겨진 30대가 1심에 이어 2심에서도 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 수원지법 형사항소4부(재판장 김희석)는 협박 및 협박 미수 혐의로 기소된 A씨의 항소심 선고 공판에서 1심 판단과 같이 무죄를 선고했다.&lt;br&gt;&lt;br&gt;A씨는 한 인터넷 커뮤니티 사이트에서 활동하는 윤 전 대통령 지지자로 조사됐다. 그는 지난해 1월 18일 서울서부지법 앞에서 열린 윤 전 대통령에 대한 체포영장 발부 및 구속영장 청구 등의 부당성을 주장하는 집회에 참석하기도 했다.&lt;br&gt;&lt;br&gt;이후 법원이 윤 전 대통령에 대한 구속영장을 발부하자, 그는 이튿날인 1월 19일 위 사이트 게시판에 “헌제(헌재의 오기) 가능하면 들어가지 말고 불 지르면 좋은데”라는 제목으로 “불 지르는 게 가장 안정할 듯”이라는 내용의 게시글을 작성하는 등 7차례에 걸쳐 헌재를 방화하겠다는 취지의 게시글을 작성한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 또 “방어 수단 챙겨가라 경찰이 폭력 쓰면 망치로 때려죽여”라는 제목의 글에서 “정당방위다 락커로 눈 공격해도 경찰 무력화 가능”이라는 내용의 게시글을 작성하는 등 10회에 걸쳐 집회·시위 관리 담당 경찰공무원을 살해하거나 폭행할 것을 종용하는 내용의 게시글을 작성한 혐의도 받았다. 수사 당국은 A씨의 이런 행위에 대해 협박 및 협박 미수 혐의를 적용했다.&lt;br&gt;&lt;br&gt;법원은 협박 대상자가 명확하지 않아 혐의가 인정되기 어렵다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 “게시글 내용에 피해자들에게 직접적으로 위해를 가하겠다는 대상이 명확히 기재돼 있지 않다”며 “불특정 다수를 향한 해악 고지가 피해자 개인에게 공포심을 일으킬 만큼 밀접한 관계에 있다고 보기 어렵다”고 했다. 재판부는 또 “지난해 3월 18일 자로 형법에 공중 협박죄가 신설된 사실 자체가 기존 협박죄로는 이와 같은 사건을 처벌할 수 없음을 방증한다”며 “이를 협박죄로 처벌하면 개인의 의사결정 자유를 보호하는 협박죄가 공공질서 유지용으로 변질된다”고 판시했다.&lt;br&gt;&lt;br&gt;앞서 1심 법원도 “적대감, 분노감을 표출하거나 조롱하는 행위에 해당할 뿐, 특정 피해자들을 상대로 해악을 고지한다는 고의를 갖고 있었다고 단정하기 어렵다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>19개월 딸 굶겨 숨지게 한 친모, 1심서 징역 12년</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/21/HSL5ZXOULZCHBJ2MJ6B4XLZICI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/HSL5ZXOULZCHBJ2MJ6B4XLZICI/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 07:40:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNJPE2G4V5O7NNYHNI5WWJSR5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생후 19개월 된 딸을 방임해 숨지게 한 혐의를 받는 20대 친모가 지난 3월 7일 오후 구속 전 피의자 심문(영장실질심사)이 열리는 인천지법에 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19개월 된 딸을 제대로 돌보지 않아 숨지게 한 혐의를 받는 20대 친모에게 징역 12년형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사 14부(재판장 손승범)는 21일 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대 살해 등 혐의로 구속 기소된 A(29)씨에게 이같이 선고하고, 200시간의 아동학대 치료 프로그램 이수, 10년간 아동 관련 기관 취업 제한 등을 함께 명령했다. 다만, 재판부는 증거 등에 비춰 볼 때 A씨가 딸 B양을 살해할 고의가 있었다고 보기는 어렵다고 보고, 아동학대살해 혐의가 아닌 아동학대치사 혐의를 적용했다. 앞서 검찰은 징역 30년과 출소 후 5년간 보호관찰 등을 구형했었다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 4일 인천시 남동구의 한 빌라 자택에서 생후 19개월 된 딸 B양에게 음식을 주지 않는 등 제대로 돌보지 않아 숨지게 하고, 첫째 딸을 2차례에 걸쳐 신체적으로 학대한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;국립과학수사연구원 부검 결과 B양은 영양 결핍과 탈수 등으로 숨진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사망 당시 B양의 체중은 4.7㎏으로, 비슷한 또래의 평균 몸무게인 10.4㎏의 절반에도 미치지 못했다. 검찰이 재판에서 공개한 사진 속 B양은 뼈가 드러날 정도로 마른 모습이었고, 눈두덩이 부위도 푹 꺼져 있었다.&lt;br&gt;&lt;br&gt;A씨는 평소 B양을 낳은 것을 후회하며 양육에 소극적이었던 것으로 드러났다. 지난 1월부터는 B양에게 우유나 이유식을 제대로 주지 않는 등, 최대 67시간 동안 음식을 주지 않는 방식으로 방치한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 2월 28일부터 92시간 동안 B양을 혼자 집에 둔 채 놀이공원과 찜질방 등을 찾은 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;A씨 집을 촬영한 사진에는 씻지 않은 그릇이 쌓인 싱크대와 정리되지 않은 집안 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNQWKNRXMNSGGZBUMM3TQYRSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기초생활수급자이자 한부모 가구인 A씨는 매달 생계급여와 아동수당 등 월평균 300만원이 넘는 공적 지원을 받았고, 취약 계층을 위한 ‘푸드마켓’에서도 식재료를 가져갔다.&lt;br&gt;&lt;br&gt;A씨는 자택에 개 2마리의 사체와 배설물, 담배꽁초 등을 방치하며 양육을 소홀히 하기도 했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인에 대한 임상 심리 평가 결과를 보면, 경계선 지능 수준인 A씨에게 양육에 대한 책임 인식이 부족하고 그에 필요한 지식과 관심도 제한적”이라며 “평균 수준의 지적 능력을 지닌 일반인과 피고인을 같은 기준으로 평가하기 어렵다”고 했다. 이어 “A씨는 B양이 너무 말랐다는 주변 조언을 듣고 추천받은 고가의 분유를 사서 준 것으로 보인다”며 “홈캠에서도 B양에게 이유식을 먹이려 하나 거부하자 분유를 주는 모습이 확인된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “분유도 일정량을 급여하면 생명 유지가 가능하다는 의사 의견이 있고, A씨의 지적 능력을 고려하면 이유식을 거부하는 B양의 체중을 늘리고자 분유만 주는 잘못된 선택을 했을 가능성이 있다”고 설명했다.&lt;br&gt;&lt;br&gt;부검 당시 B양에게 별다른 학대 정황이 발견되지 않은 점, 예방접종을 꾸준히 하고 어린이집에 보내려고 한 점 등도 고려했다고 재판부는 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “숨진 피해자는 생후 19개월에 불과했고 비교적 성장이 더뎌 보호자의 보호가 필요했다”며 “피고인은 B양의 건강 악화를 알면서 음식물을 충분히 주지 않고 장시간 방치해 숨지게 해 죄책이 매우 무겁다”고 했다. 재판부는 “다만, 살해의 고의를 제외한 사실관계에 대해 대체로 인정하고 있고, 미혼모로 육아의 어려움을 겪는 가운데 어느 정도 정상적인 양육을 위해 노력하는 과정에서 사망이 발생한 것으로 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한달 일하고 평생 연금 받는다... 외국인 ‘추납 꼼수’ 논란</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/08/21/SWLINSGMGND4VMGCDYO6HGZTCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/21/SWLINSGMGND4VMGCDYO6HGZTCY/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 07:20:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4GIMRWGUZTIMZZMMZWMN3GGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 국민연금공단 서울북부지역본부에 시민들이 오가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라에서 단 한 달만 일하고 추후 납부(추납) 제도를 활용해 평생 매달 노령연금을 받아가는 외국인 사례가 잇따르고 있어 대책 마련이 필요하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;21일 보건복지부에 따르면 실제 일한 기간은 짧으나 향후 추납 제도를 활용해 노령연금을 수령하는 사례가 최근 확인되고 있다.&lt;br&gt;&lt;br&gt;추납 제도는 실직이나 사업 중단 등 납부 예외 기간이 생기거나 결혼·출산으로 가입 이력이 끊긴 사람에 대해 사후에 보험료를 낼 수 있게 한 제도다. 납부 이력이 한 달이라도 있으면 노령연금을 받을 수 있는 최소 기간인 10년 치를 추납을 통해 채울 수 있게 해주고 있다.&lt;br&gt;&lt;br&gt;문제는 외국인이라도 한국에서 한 차례라도 국민연금 보험료를 냈다면 이런 추납 제도를 활용할 수 있다는 것이다. 특히 한국에서 직장을 얻는 경우가 많은 중국 동포의 경우 이런 제도 활용 사례가 많다는 게 국민연금공단 관계자 설명이다.&lt;br&gt;&lt;br&gt;실제 일선 현장에서는 단기 가입 후 일시적인 추납으로 10년을 채우는 사례가 빈번하게 확인되고 있는 것으로 알려졌다. 방문 취업(H-2) 비자로 입국해 사업장에서 1개월만 국민연금에 가입하고는, 향후 60세가 된 후 119개월 치를 한꺼번에 내고 노령연금을 받아 가는 경우도 있다고 한다.&lt;br&gt;&lt;br&gt;공단 안팎에선 이런 무분별한 추납 허용이 당초 제도의 취지에 어긋난다는 지적이 나온다. 추납 제도는 경력 단절 전업주부나 영세 근로자의 수급권 보호를 위해 만들어졌는데, 한국에서 일한 경력은 짧은 외국인이 이를 이용하는 것이 적절하냐는 것이다. 특히 외국인은 혼인 여부 등을 공적 자료로 면밀하게 파악하기가 어려워 노령연금이나 유족연금 지급 관리에 구멍이 생길 우려도 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;복지부는 이 같은 지적에 “외국인의 추납 제도 활용 현황, 해외 사례 등을 참고하여 개선 방안을 검토하고 있으며, 필요시 관련 법령 정비 등 제도 개선을 추진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5만 3000명분 필로폰 밀수한 해외 도피범, 18년만에 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2026/08/21/MAJYOSXKSBA6ZH7SEKTQFPRF2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/21/MAJYOSXKSBA6ZH7SEKTQFPRF2Q/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 06:33:38 +0000</pubDate>
+      <content:encoded>2015~2016년 필리핀에서 대량의 필로폰을 국내로 밀수한 혐의를 받는 마약 범죄자가 해외 도피 18년 만에 국내로 송환돼 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 마약범죄수사대는 필리핀에서 포섭한 운반책을 통해 국내에 대량의 필로폰을 밀수한 혐의를 받는 한국인 A씨를 21일 서울중앙지검에 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 필리핀에 체류 중이던 2015년 10월부터 2016년 1월까지 3차례에 걸쳐 현지에서 포섭한 한국인 운반책 B씨에게 배낭에 필로폰 총 1.6㎏을 숨겨 인천공항으로 밀수한 혐의를 받는다. 필로폰 1.6㎏은 약 5만3000명이 동시에 투약할 수 있는 규모로, 시가 53억원에 달한다. 필로폰 운반책 B씨는 2016년 1월 검거돼 국내에서 실형을 선고받았다. &lt;br&gt;&lt;br&gt;A씨는 2008년 10월부터 이미 다른 마약 범죄에 연루돼 중국으로 도피한 상태였다. 이후 필리핀과 중국을 오가며 생활하다가 필리핀에서 국내로 마약 밀수를 시도한 것이다. &lt;br&gt;&lt;br&gt;A씨는 2016년 1월 운반책 B씨가 경찰에 체포된 후에는 타인의 분실 여권을 구해 중국으로 밀입국하는 등 도피 생활을 계속한 것으로 조사됐다. 하지만 지난 7월 도피 생활 18년 만에 중국 단둥에서 공안에 적발됐고, 지난 13일 국내로 강제 추방됐다. &lt;br&gt;&lt;br&gt;이를 전달받은 서울경찰청은 지난 14일 인천항으로 입국하는 A씨를 체포해 구속영장을 신청했다. 서울중앙지법은 16일 도주 우려가 있다는 등의 이유로 A씨에 대한 구속영장을 발부했다. 경찰은 “국경을 초월한 마약 범죄에 대해 국내외 관계 기관과 긴밀한 공조를 이어갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>吳, 항소심 첫 재판 “무죄 밝히겠다”...10월 말 선고할 듯</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/21/3M6YHA7WJJDTNBTZ2RHNUEZZYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/3M6YHA7WJJDTNBTZ2RHNUEZZYM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 06:33:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTSVE4Y4BBJGZEOYITX7IMEZOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 21일 서울 서초구 서울고등법원에서 열린 여론조사비 대납 의혹 관련 항소심 1차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘여론조사 비용 대납’ 의혹으로 1심에서 당선무효형을 선고받은 오세훈 서울시장 측이 항소심 첫 공판에서 “여론조사를 의뢰하거나 대납을 요청한 사실이 없다”며 혐의를 부인했다. 오 시장은 법정에 들어서기 전 취재진에 “실체적 진실을 밝혀 무죄를 입증하겠다”고 말했다. &lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 구회근)는 21일 오 시장과 강철원 전 서울시 정무부시장, 사업가 김한정씨의 정치자금법 위반 사건 항소심 첫 공판을 열었다. 오 시장 측은 “오 시장은 명씨에게 여론조사를 의뢰한 적이 없고, 김씨에게 비용을 대신 지급해 달라고 요청한 사실도 없다”고 했다. 이어 “명씨가 오 시장에게 먼저 접근해 선거를 돕겠다고 했지만, 오 시장과 강 전 부시장은 명씨를 신뢰하지 않아 자연스럽게 관계가 멀어지고 다투기도 했다”고 했다.&lt;br&gt;&lt;br&gt;오 시장 측은 “김씨가 명씨를 달래고 관리하면 오 시장 선거에 조금이라도 도움이 될 것으로 생각해 독자적으로 돈을 지급한 것으로 보인다”고 했다. 그러면서 “오 시장은 김씨의 행동을 사건이 불거지기 전까지 전혀 알지 못했다”며 “1심은 오 시장과 명씨가 만났고, 명씨가 오 시장 관련 여론조사를 했으며, 김씨가 명씨에게 돈을 줬다는 몇 가지 사실에 막연한 추측을 더해 유죄를 인정했다”고 주장했다.&lt;br&gt;&lt;br&gt;김씨 측도 “김씨가 자기 명의로 돈을 보내고 명씨와 의견을 교환했으며 여론조사 결과도 직접 받았다”며 독자적으로 여론조사를 의뢰하고 비용을 지급한 것이라고 했다. 김씨 측은 “오 시장이 조사를 의뢰하고 김씨에게 대납을 요청했다는 공소사실과 객관적으로 확인된 사실 사이에는 큰 간격이 있지만, 이를 이어주는 직접 증거가 없다”고 했다. 강 전 부시장 측은 명씨 진술을 전체적으로 믿기 어렵다고 본 1심이 10차례의 여론조사를 쪼개 일부만 유죄로 인정한 것은 모순이라고 주장했다. 세 피고인 측은 특검의 수사와 기소가 특검법이 정한 대상 범위를 벗어났다는 주장도 폈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2TIY3FGI4DQNBXGUZDEMLDMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난달 22일 서울 서초구 서울중앙지방법원에서 열린 정치자금법위반 혐의 1심 선고를 마치고 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 2021년 서울시장 보궐선거 국민의힘 경선을 앞두고 명씨에게 여론조사 10회(공표 3회·비공표 7회)를 의뢰하고, 김씨에게 조사 비용 3300만원을 대신 내도록 요청한 혐의로 작년 12월 기소됐다. 김씨는 부정한 방법으로 정치자금을 기부하고, 오 시장과 강 전 부시장은 함께 이를 기부받았다는 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 그 가운데 여론조사 5회는 오 시장이 명씨에게 의뢰하고 김씨에게 그 비용 2100만원을 대신 내게 한 것이 인정된다며 벌금 1000만원과 추징금 2100만원을 선고했다. 강 전 부시장에게는 벌금 300만원, 김씨에게는 벌금 500만원을 선고했다. 다만 나머지 여론조사 5회와 비용 1200만원에 대해선 무죄로 판단했다.&lt;br&gt;&lt;br&gt;특검팀은 이날 “휴대전화에서 확인된 여론조사 자료와 김씨의 비용 지급 내역, 메시지와 녹음 자료 등을 종합하면 오 시장이 강 전 부시장과 공모해 명씨에게 여론조사 10회를 의뢰하고 김씨에게 비용 3300만원을 대신 지급하게 한 사실이 인정된다”고 했다. 그러면서 “(1심이 무죄로 판단한) 여론조사 4건과 비용 1500만원도 유죄로 인정해 형을 높여야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 쟁점을 오 시장이 2021년 1월쯤 명씨에게 여론조사를 의뢰했는지, 강 전 부시장에게 명씨와 상의해 조사를 진행하라고 지시했는지, 김씨에게 비용 지급을 요청했는지 등 세 가지로 정리했다. 재판부는 이 같은 쟁점을 심리하기 위해 명씨와 김씨, 김종인 전 국민의힘 비상대책위원장 등 6명을 증인으로 채택했다.&lt;br&gt;&lt;br&gt;재판부는 오는 28일을 시작으로 다음 달까지 네 차례 공판을 열어 증인 신문을 진행할 예정이다. 재판부는 오는 10월 23일을 전후해 선고하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 총장 선거 12명 입후보...오는 9월 4명 컷오프</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/21/ATWXGC265RFZZDWWO7QK6647M4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/ATWXGC265RFZZDWWO7QK6647M4/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 06:17:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSGGOLEMU2DMNTDMVQTMOBYME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 제29대 총장 선거에 교수 12명이 입후보했다. 오는 9월 서울대 총장추천위원회(총추위)는 이 중 예비 후보 4명을 추려낼 방침이다.&lt;br&gt;&lt;br&gt;서울대는 지난 20일 오후 6시까지 총장후보대상자 지원서를 접수한 결과 총 12명이 지원했다고 교내 포털을 통해 공지했다. &lt;br&gt;&lt;br&gt;지원자는 강준호 체육교육과 교수, 김현철 국제대학원 교수, 유재준 물리천문학부 교수, 유홍림 현 총장(정치외교학부 교수), 이석재 철학과 교수, 이원우 법학전문대학원 교수, 이재영 영어영문학과 교수, 이준호 생명과학부 교수, 장판식 농생명공학부 교수, 차상균 데이터사이언스대학원 명예교수, 최만수 기계공학부 명예교수, 최해천 기계공학부 교수로 총 12명이다. &lt;br&gt;&lt;br&gt;총추위는 지원자들의 결격 사유 등을 검토한 후 오는 31일 총장후보대상자를 확정한다. 이후 9월 9일 각 후보자는 총추위에 발전 계획서 등 서류를 제출하고 소견 발표회에서 발표 20분, 질의응답 20분을 거쳐야 한다.&lt;br&gt;&lt;br&gt;이번 선거부터 총추위는 ‘총장 예비 후보자’ 4인을 추리는 데 차등 점수제를 도입한다. 총추위원들은 선호하는 후보 4명을 고르고, 이들에게 각각 1~4점을 차등 부여한다. 총추위는 이 점수를 합산해 최고 득점자 4인을 예비 후보자로 선정한다. &lt;br&gt;&lt;br&gt;선발된 예비 후보자들은 9월 17일과 22일 각각 연건캠퍼스와 관악캠퍼스에서 공개 소견 발표회를 연다. 이후 교원·직원·학생으로 구성된 정책 평가단이 10월 7일 정책 평가를 실시해 최종 후보 3인을 선발한다. &lt;br&gt;&lt;br&gt;총추위가 후보 3명을 서울대 이사회에 추천하면, 이사회는 이 중 1명을 투표로 선출한다. 선출된 최종 후보는 교육부 장관의 제청을 거쳐 대통령이 총장으로 임명한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노영민·김현미까지… 검찰, 여권 인사 사건 잇따라 상소 포기</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/21/766ZR6UPEVHDDBBA7MYGFHMWV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/766ZR6UPEVHDDBBA7MYGFHMWV4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 05:39:11 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44WGZBRGRRDIYJRG4YDQMTEGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노영민 전 대통령비서실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 특혜 취업 의혹과 관련해 1심에서 무죄가 선고된 노영민 전 대통령 비서실장과 김현미 전 국토교통부 장관에 대해 항소를 포기하면서 두 사람의 무죄가 확정됐다. 법조계에서는 검찰이 1심 무죄 사건에 대해 항소하는 게 통상적인데도, 이재명 정부 출범 후에는 유독 현 여권 인사들에 대해서만 상소를 하지 않는 게 아니냐는 비판이 나온다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울중앙지검은 노 전 실장과 김 전 장관에 대해 항소 기한(1주일)인 전날(20일)까지 항소장을 제출하지 않았다. 두 사람은 국토부가 관리·감독 권한을 가진 CJ대한통운 자회사 한국복합물류에 압력을 행사해 2020년 8월 이정근 전 더불어민주당 사무부총장을 상근고문으로 취업시킨 혐의(업무방해)로 작년 1월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;1년 7개월 만인 지난 13일 서울중앙지법 형사19단독 임혜원 부장판사는 노 전 실장과 김 전 장관은 물론, 함께 기소된 권모 전 청와대 인사비서관과 전모 전 국토부 운영지원과장 등 4명에게 모두 무죄를 선고했다. 임 부장판사는 한국복합물류가 과거부터 국토부에서 상근고문을 추천받아 채용했고, 사측이 추천에 정식으로 반대하지 않은 만큼 노 전 실장 등을 형사처벌하기 어렵다고 판단했다. &lt;br&gt;&lt;br&gt;서울중앙지검 측도 항소하지 않은 이유에 대해 “관행적으로 국토부에서 상근고문직을 추천받았고, 피고인들이 위법성을 인식했다고 볼 만한 증거가 부족하다는 법원 판결을 존중했다”고 설명했다.&lt;br&gt;&lt;br&gt;그러나 한 검찰 관계자는 “채용 비리 사건은 ‘갑’(국토부)이 자신의 지위를 이용해 ‘을’(한국복합물류)에게 압력을 행사했다면 일반적으로 업무방해 혐의가 인정되는데도, 1심 재판부는 겉으로 드러난 부문만으로 판단했다”고 했다. 한 부장검사 출신 변호사도 “이번 사건 1심은 판사 한 명이 맡는 단독 재판부였다”면서 “항소해 합의부(2심) 판단을 받을 필요가 있었다”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 작년 11월에도 ‘대장동 개발 비리’ 사건과 관련해 항소를 포기했다. 이 때문에 검찰이 추징을 요구한 범죄 수익 7886억원 가운데 상급심에서 다툴 수 있는 상한이 473억원으로 대폭 축소됐다.&lt;br&gt;&lt;br&gt;또 중앙지검은 서해 공무원 피살 사건에서도 작년 12월 1심에서 서훈 전 청와대 국가안보실장, 박지원 전 국가정보원장 등 5명에게 전부 무죄가 선고되자 올 초 일부 혐의에 대해서만 항소했다. 항소심에서도 다시 무죄가 선고되자 상고하지 않았다. 법조계 관계자는 “전부 항소했다면 증거물 전체에 대한 판단도 다시 받아볼 수 있었는데 그런 기회를 검찰 스스로 없앤 것”이라고 했다.&lt;br&gt;&lt;br&gt;수원지검도 지난 6월 이화영 전 경기도 부지사의 일부 혐의에 대해 항소하지 않았다. 이 전 부지사가 이른바 ‘연어 술 파티 의혹’과 관련해 국회에서 허위 증언을 한 혐의(국회증언감정법 위반)는 1심에서 유죄가 인정됐는데 검찰은 항소하지 않고 이 전 부지사만 항소했다. 이 전 부지사가 이재명 대통령 대선 경선 과정에서 쌍방울 측에 ‘쪼개기 후원금’을 내게 한 혐의(정치자금법 위반)는 1심에서 무죄가 선고됐는데도 검찰은 항소하지 않았다. &lt;br&gt;&lt;br&gt;이에 ‘연어 술 파티 의혹’의 당사자이자 이 전 부지사를 수사했던 박상용 검사는 “위증 혐의는 양형 부당으로 항소했어야 마땅하고, ‘쪼개기 후원’ 정치자금법 위반 혐의를 항소 포기하는 것은 지극히 부당한 결정”이라고 말했다.&lt;br&gt;&lt;br&gt;한 부장검사 출신 변호사는 “친여권 인사에 대해서만 선택적으로 상소하지 않는 게 현 여권이 비판하는 진짜 ‘정치 검찰’일 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>은행 본점 없는 울산… 기업은행·에너지기관 유치 나선다</title>
+      <link>https://www.chosun.com/national/regional/2026/08/21/EHIWFM7C7RFVLAYC6GO5UBIHUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/21/EHIWFM7C7RFVLAYC6GO5UBIHUI/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 05:57:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTDSNDGMQZDMNTEMY3WEN3EGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산시는 지난 19일 시청 상황실에서 김상욱 시장 주재로 공공기관 2차 이전 대응 긴급회의를 열었다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 공공기관 2차 이전 발표를 앞두고 울산시가 에너지 기관, IBK기업은행, 발전 공기업 통합 본사 등을 중점 유치 대상으로 정하고 유치전에 나섰다.&lt;br&gt;&lt;br&gt;울산시는 지난 19일 김상욱 시장 주재로 공공기관 2차 이전 대응 긴급 회의를 열고 실무 위주로 진행해온 유치 활동을 본격화하기로 했다고 21일 밝혔다. 신민식 경제부시장도 20일 국회를 찾아 울산 지역 국회의원들에게 공공기관 유치를 위한 지원을 요청했다.&lt;br&gt;&lt;br&gt;시는 우선 한국에너지기술평가원과 한국석유관리원 등 에너지 관련 기관 유치를 추진한다. 1차 공공기관 이전 때 한국동서발전과 한국석유공사, 한국에너지공단, 에너지경제연구원 등이 울산으로 옮겨온 만큼 관련 기관을 추가로 유치해 에너지 산업 집적 효과를 높이겠다는 것이다.&lt;br&gt;&lt;br&gt;산업 인공지능 전환(AX) 분야에서는 한국데이터산업진흥원과 한국산업기술진흥원(KIAT), 소프트웨어정책연구소(SPRI) 등을 유치 후보로 꼽고 있다. 울산의 자동차·조선·석유화학 공장과 AI 데이터센터를 연계해 제조 현장에서 인공지능 기술을 실증할 수 있다는 점을 내세우고 있다.&lt;br&gt;&lt;br&gt;IBK기업은행 본점 유치에도 나선다. 울산시는 자동차·조선 등 대기업과 중소 협력 업체가 밀집해 있고 최근 조선업 호황과 산업 전환으로 기업들의 설비 투자와 자금 수요가 늘고 있다는 점을 유치 논리로 삼고 있다.&lt;br&gt;&lt;br&gt;울산에는 국책은행은 물론 시중은행 본점도 없다. 시는 기업은행 본점이 울산으로 이전하면 중소·중견 제조 기업에 대한 정책 금융 지원을 산업 현장과 직접 연결할 수 있을 것으로 보고 있다.&lt;br&gt;&lt;br&gt;정부가 발전 공기업 재편을 추진할 경우 통합 본사 유치에도 뛰어들 계획이다. &lt;br&gt;&lt;br&gt;울산 중구 우정동 혁신도시에는 이미 한국동서발전 본사가 있다. 또 원전과 액화천연가스(LNG), 부유식 해상 풍력, 수소·암모니아 등 다양한 에너지 생산·유통 기반도 갖춰져 있다. 시는 기존 에너지 공공기관과 발전 공기업이 한곳에 모이면 기관 간 연계 효과를 높일 수 있다는 점을 강조할 방침이다.&lt;br&gt;&lt;br&gt;울산시는 다음 달 초 지역 정치권과 시의회, 경제계 등이 참여하는 공공기관 유치위원회를 출범시키고 기관별 유치 활동에 나설 예정이다. 공공기관 유치·지원 조례 제정도 추진한다.&lt;br&gt;&lt;br&gt;김상욱 울산시장은 “공공기관 2차 이전은 단순한 기관 배분을 넘어 국가 산업 현장의 경쟁력을 높이는 기회가 돼야 한다”며 “울산의 산업 기반과 강점을 활용해 선택과 집중으로 성과를 내겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘경찰 사칭’ 사행성 업자 폭행에 돈까지 뺏은 일당 6명 구속</title>
+      <link>https://www.chosun.com/national/regional/2026/08/21/M5RVP6QN3FELRBX3K5FH2U42SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/21/M5RVP6QN3FELRBX3K5FH2U42SU/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 05:49:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 수사관을 사칭해 대전의 한 오피스텔에 침입해 온라인 사행성 사이트 업자를 집단 폭행하고 금품을 빼앗은 일당이 검찰로 구속 송치됐다.&lt;br&gt;&lt;br&gt;대전서부경찰서는 강도상해 혐의로 30대 A씨 등 6명을 21일 구속 송치했다고 밝혔다. A씨 등은 지난달 10일 오전 2시쯤 대전 서구 만년동 한 오피스텔에 침입해 온라인 사행성 사이트 업자인 B(20대)씨를 집단 폭행하고, 현금 3100만원과 130만원 상당의 컴퓨터 본체 2대 등 모두 3230만원 상당의 금품을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 20∼30대인 이들은 평소 A씨를 중심으로 자금이 모이는 온라인 사행성 사이트 업체가 있다는 정보를 입수하고 범행을 계획했다. 이들은 경찰 수사관을 사칭해 오피스텔 사무실 안으로 들어가 B씨를 폭행하고, 다른 직원 2명은 벽을 보고 서 있게 하는 등 겁을 준 뒤 금품을 훔쳐 달아났다. 이 과정에서 삼단봉과 너클(손가락에 반지처럼 끼우는 금속 재질의 둔기)을 착용한 뒤 B씨를 폭행해 안와 골절 등 전치 5주의 상해를 입혔다.&lt;br&gt;&lt;br&gt;이들은 피해자들을 미행해 사무실 위치를 파악했다. 이어 1명은 차 안에서 망을 보고, 5명은 사무실에 침입해 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 이들의 동선을 추적해 4명을 붙잡았고, 나머지 2명을 2주 동안 추적해 대전과 충북 옥천에서 각각 검거했다.&lt;br&gt;&lt;br&gt;조사 결과, A씨는 과거 운영했던 노래방이 경찰 단속 등으로 문을 닫아 경제적인 어려움을 겪자 동네 선후배들을 모아 범행을 모의한 것으로 확인됐다. 경찰은 이들로부터 범행 도구와 빼앗은 현금 중 2010만원을 압수했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등이 이 업체로 들어오는 돈을 빼앗기로 사전에 모의해 범행을 저지른 것으로 보고 모두 구속 상태로 검찰로 넘겼다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>PC 고치다 여교사 사진 빼돌려 딥페이크 만든 30대, 징역 3년</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/21/Z5LBW2ZAGVHZNMJFOGVZXP6ZYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/Z5LBW2ZAGVHZNMJFOGVZXP6ZYY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 05:47:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZHDIRVBCVA3LJYWFMIPFGSAGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨 개인 PC에 저장된 사진과 영상 등 자료. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 컴퓨터를 고치다 교직원의 개인 클라우드 계정에 접속해 사진과 영상을 빼돌리고, 이를 합성해 음란물을 만든 30대 컴퓨터 수리 기사가 징역형을 받았다.&lt;br&gt;&lt;br&gt;부산지법 형사7부(재판장 임주혁)는 21일 성폭력처벌법과 정보통신망법 위반 등 혐의로 30대 남성 A씨에게 징역 3년을 선고했다. 또 40시간의 성폭력 치료 프로그램 이수 및 각 10년간 아동·청소년·장애인 관련 기관의 취업 제한 명령을 내렸다.&lt;br&gt;&lt;br&gt;전산 장비 유지·보수 위탁업체 직원인 A씨는 2021년 7월부터 작년 9월까지 부산 지역 19개 학교 교직원 194명의 컴퓨터에서 개인 사진과 영상 등 22만개를 빼돌린 혐의를 받는다. A씨는 빼돌린 사진을 이용해 교직원의 얼굴을 음란물에 합성한 불법 영상물 20개를 제작한 혐의도 받는다.&lt;br&gt;&lt;br&gt;A씨는 학교의 의뢰를 받아 교직원 컴퓨터를 점검하는 과정에서 로그인이 되어 있는 구글 포토, 네이버 마이박스 등 클라우드 서비스에 접속해 교직원의 사진과 영상을 자신의 자료 저장 장치(USB)로 옮겼다.&lt;br&gt;&lt;br&gt;A씨는 또 학교에서 45차례에 걸쳐 교직원의 치마 속을 몰래 촬영하고, 성관계 영상을 불법 촬영한 혐의도 받는다. 음란물 사이트에서 아동·청소년 성 착취물, 불법 촬영물, 딥페이크 영상 등 553개를 내려받아 소지한 혐의도 있다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 죄질이 좋지 않고 불특정 다수의 여성을 대상으로 범행하며 피해자 수가 많고, 소지하고 있는 영상도 많다. 피해자들은 이로 인해 극심한 정신적 스트레스를 받았을 것으로 보이며, 일부 피해자들로부터 용서받지도 못했다”며 “다만 피고인이 범행을 인정하고 수사에 협조한 점, 범죄 전력이 없는 점, 일부 피해자와 합의한 점 등을 참작했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문재인 전 대통령, 폭우 피해 고향 거제에 1000만원 기부</title>
+      <link>https://www.chosun.com/national/regional/2026/08/21/COMCCSEJUFH77LYGL2QZ33EHBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/21/COMCCSEJUFH77LYGL2QZ33EHBE/</guid>
+      <dc:creator>거제=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Aug 2026 05:46:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTOSYQL4R5KVTJVRPEY457LWV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령이 지난 19일 경남 양산시 평산마을 사저에서 김민석 더불어민주당 대표와 만나 면담을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령이 기록적인 폭우로 큰 피해를 본 고향 경남 거제의 수해 복구를 위해 1000만원을 기부했다.&lt;br&gt;&lt;br&gt;거제시는 문 전 대통령이 고향사랑기부제를 통해 1000만원을 기부했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;거제에는 광복절 연휴 900㎜가 넘는 기록적인 폭우가 쏟아졌다. 이로 인해 주택과 상가, 도로, 농지 등이 곳곳에서 침수됐고, 산사태로 인명 피해까지 발생했다.&lt;br&gt;&lt;br&gt;문 전 대통령은 1953년 1월 거제면 명진리 남정마을에서 태어났다. 함경남도 함흥 출신인 부모가 한국전쟁 당시 흥남 철수 때 피란선을 타고 거제로 내려와 정착하면서 이곳에서 태어났다. 문 전 대통령은 여섯 살 때까지 거제에서 지내다 초등학교 입학을 앞두고 부산 영도로 이주했다.&lt;br&gt;&lt;br&gt;거제시는 현재 집중호우 피해 지역의 신속한 복구와 피해 주민 지원을 위해 고향사랑기부제를 통한 수해 복구 지원 모금을 진행하고 있다.&lt;br&gt;&lt;br&gt;문 전 대통령의 거제 기부는 이번이 처음이 아니다. 고향사랑기부제가 시행된 첫해인 2023년부터 지난해까지 매년 500만원씩 거제시에 기부해왔다. 올해는 집중호우로 고향이 큰 피해를 보자 1000만원을 기부했다.&lt;br&gt;&lt;br&gt;거제시 관계자는 “고향 거제를 위해 따뜻한 마음을 전해 깊이 감사드린다”며 “소중한 기부금이 피해 복구와 주민들의 일상 회복에 도움이 될 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “윗선 개입 규명이 사명”이라던 2차 특검, 윤희근·원희룡·박성재 경찰에 줄이첩</title>
       <link>https://www.chosun.com/national/court_law/2026/08/21/Z7MAECK6HRB3DEGYBNYWVZJFZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/Z7MAECK6HRB3DEGYBNYWVZJFZ4/</guid>
@@ -750,31 +879,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCFBQIZT7BGNDOHFR2L3SINEJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 동인청사./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 AI·패턴 인식 분야 국제 학술 행사인 ‘2030 세계 패턴 인식 컨퍼런스(Conference of the International Association for Pattern Recognition, ICPR 2030)’ 유치에 성공했다고 20일 밝혔다. 세계 패턴 인식 컨퍼런스가 국내에서 열리는 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;대구시에 따르면, 이 컨퍼런스는 2030년 8월쯤 대구 엑스코에서 6일간 열릴 예정이다. 해외 참가자 600명을 포함해 전 세계 50개국에서 총 1200여 명의 연구자와 산업 관계자가 참가할 예정이다. 이번 컨퍼런스 개최로 생산 유발 효과 57억원, 부가가치 유발 효과 25억원 등 총 82억원 규모의 경제적 파급 효과가 발생할 것으로 대구시는 기대하고 있다. &lt;br&gt;&lt;br&gt;세계패턴인식컨퍼런스(ICPR)는 1978년 공식 출범한 세계패턴인식협회(IAPR)의 대표 국제 학술 행사로, 세계 각국의 연구자와 산업계 전문가가 참여해 AI와 패턴 인식 분야의 최신 연구 성과와 기술을 공유하는 자리다. 패턴 인식은 컴퓨터가 이미지·음성·문자 등 다양한 데이터에서 특징을 추출해 특정 패턴을 찾아내고 이를 분류·인식하는 AI의 핵심 기반 기술로, 로봇·자율 주행·스마트 제조·의료 등 다양한 산업 분야에서 폭넓게 활용되고 있다고 한다. &lt;br&gt;&lt;br&gt;추경호 대구시장은 “이번 세계패턴인식컨퍼런스 유치는 대구의 미래 산업 역량을 세계에 알리고 글로벌 연구 네트워크를 확대할 수 있는 의미 있는 성과”라며 “성공적인 개최를 통해 지역의 연구 기관과 기업이 실질적인 공동 연구와 산업 협력의 기회를 창출할 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 요로감염 막는 인디언들의 특효약 ‘크랜베리’</title>
-      <link>https://www.chosun.com/medical/2026/07/09/736SJLFTRZBU3IB3WW265CBPXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/09/736SJLFTRZBU3IB3WW265CBPXI/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jul 2026 15:35:00 +0000</pubDate>
-      <content:encoded>요로 감염은 세균에 의해서 요도, 방광 또는 신장에 염증이 발생해서, 소변을 볼 때 통증을 일으키고, 급박뇨를 유발하며, 자주 소변을 보게 한다. 여성은 요도 길이가 짧아서, 남성에 비해서 요로 감염이 더 흔하다. 여성 세 명 중 한 명이 일 년에 두세 차례 반복적인 요로 감염으로 고생한다.&lt;br&gt;&lt;br&gt;크랜베리는 주로 북미 지역에서 생산되는 산앵도나무속의 붉은 과일로 인디언들이 요로 감염 치료제로 사용해오던 식물이다. 실제 효능에 대해서는 다소 논란이 있어 왔다. 호주 시드니대 연구팀은 메타분석 논문의 표준 저널인 코크런 리뷰 저널에 크랜베리가 요로 감염을 예방해 줄 수 있는지에 대한 연구 결과를 발표했다.&lt;br&gt;&lt;br&gt;연구팀은 반복적인 요로 감염이 있는 환자에서 크랜베리 효과를 분석한 총 50편, 8857명의 자료를 종합 분석했다. 그 결과, 크랜베리를 음용한 환자들은 음용하지 않은 환자에 비해, 증상을 동반하는 요로 감염 발생이 약 30% 적었다. 성인 여성의 경우는 26%, 소아는 54%, 요로 시술을 받은 환자들에서도 요로 감염을 53% 줄여주었다. 크랜베리 섭취 시 가장 흔한 부작용은 복부 불편감이었지만 대조군과 큰 차이는 없었다.&lt;br&gt;&lt;br&gt;크랜베리 내에 다량 함유되어 있는 프로안토시아니딘이란 성분이 요로 감염균인 대장균이 방광 내 요로상피세포에 부착되는 것을 억제하기 때문에 요로 감염을 줄일 수 있는 것으로 추정된다. 반복적인 요로 감염을 예방하기 위해서는 충분한 물 섭취가 기본이고, 크랜베리 섭취가 도움이 될 수 있겠다. 프로안토시아니딘이 함유된 식품은 크랜베리 외에, 블루베리 및 베리류, 포도 껍질 및 포도씨, 코코아 및 다크 초콜릿, 사과 껍질 등이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WD56HF4QEJHPBCXSIGOOCUYYW4.png?auth=0e10bc93488d4786afb2815cd2ef563b1d6585f858aa8ef186480391e068088a&amp;smart=true&amp;width=720&amp;height=475" type="image/png" height="475" width="720">
-        <media:description type="plain">4D BODY 바디 콜라겐에는 크랜베리 성분이 들어가서 상큼한 맛이 난다. /위바이오텍</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[Dr.이은봉의 의학 연구 다이제스트] 같은 양의 운동해도 한 가지만 하는 사람보다 다양한 운동 즐기는 사람이 사망률 더 낮아</title>
-      <link>https://www.chosun.com/medical/2026/07/16/JH7JYXNPTZC5BGL2QOT5ZGB6KI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/07/16/JH7JYXNPTZC5BGL2QOT5ZGB6KI/</guid>
-      <dc:creator>이은봉</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jul 2026 15:35:00 +0000</pubDate>
-      <content:encoded>규칙적으로 운동을 하면 만성 질환을 예방할 수 있고, 정신건강에도 긍정적 효과를 준다. 하지만 어떤 운동이 가장 효과적인지, 어떻게 운동을 조합해야 좋은지에 대한 연구는 많지 않았다. 최근 하버드대 연구팀은 운동의 종류와 장기 사망률의 관계를 조사해서 영국의학회지 내과 편에 발표했다.&lt;br&gt;&lt;br&gt;연구는 미국 간호사 건강 연구 및 의료종사자 건강 연구에 참여한, 40~75세 건강한 미국인 여성 7만725명과 남성 4만742명을 대상으로 했다. 매 2년마다 여가시간에 즐기는 운동 종류와 운동량을 평균 20년에 걸쳐 조사하고 사망률을 추적 조사했다. 연구기간 동안 3만8847명이 사망했다. &lt;br&gt;&lt;br&gt;분석 결과, 운동을 많이 할수록 사망률이 낮아졌지만, 어느 정도(매일 빠르게 걷기 50분 정도) 이상에서는 더 이상 사망률을 낮추는 효과는 없었다. 걷기를 많이 하는 대상자는 그렇지 않은 대상자보다 사망률을 17%, 조깅은 11%, 뛰기는 13%, 사이클은 4%, 테니스는 15%, 계단 오르기는 10%, 근력 운동은 13% 낮출 수 있었다. &lt;br&gt;&lt;br&gt;흥미롭게도 같은 양의 운동을 하더라도, 다양한 운동을 즐기는 대상자는 같은 운동만 하는 대상자보다 사망률이 19% 더 낮았다. &lt;br&gt;&lt;br&gt;운동은 혈액순환을 촉진해서 심혈관 기능을 강화시키고, 대사 활동을 활발히 하고, 근골격을 튼튼하게 만들어 사망률을 줄일 수 있다. 각 운동은 신체에 대한 작용 기전이 서로 다르므로 다양한 운동이 건강에 더 효과적일 수 있다. 운동의 건강 장수 효과를 극대화하고 싶다면 한 가지 운동만 할 것이 아니라, 몇 가지 운동을 바꾸어가면서 꾸준히 해나가는 것이 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/J5NX2FDM4NHONMLLZUWIWWXZTQ.jpg?auth=ec4ee2614f335b18d1cb32111aa64b2a3535251ebee7215851ef9c7337042c00&amp;smart=true&amp;width=1416&amp;height=928" type="image/jpeg" height="928" width="1416">
-        <media:description type="plain">불안에 끌려다니기 시작하면 엄청난 에너지를 소모하게 된다. 그러나 불안에 대처하는 방법을 알게 되면 그 에너지를 일, 운동 등 훨씬 생산적으로 활용할 수 있다. /envato</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“폐업 지원금 적다”… 대전 보신탕 업주 14명, ‘행정소송’ </title>
       <link>https://www.chosun.com/national/regional/2026/08/20/VQOIPZF3IBDFRGLHRKOJOXV45I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/20/VQOIPZF3IBDFRGLHRKOJOXV45I/</guid>
@@ -782,15 +886,6 @@
       <description/>
       <pubDate>Wed, 19 Aug 2026 23:20:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EH5TG27FBNL2VG6Z7GEYF2Y5PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내년 2월 7일부터 식용 목적의 개 사육과 도살, 유통, 판매가 전면 금지된다. 사진은 지난 14일 서울 종로구 신진시장 부근 보신탕집 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 2월 ‘개의 식용 목적의 사육·도살 및 유통 등 종식에 관한 특별법’(개 식용 종식법) 시행을 앞두고 소위 ‘보신탕’ 업계 종사자들이 지방자치단체를 상대로 영업 손실을 보상해 달라는 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;20일 대전 지방자치단체와 법조계에 따르면, 대전 대덕구 지역에서 ‘개고기’를 취급하는 업주 6명은 대덕구청장을 상대로 영업 손실 보상금 지급 거부 처분 취소를 청구하는 소장을 지난달 24일 대전지법에 냈다.&lt;br&gt;&lt;br&gt;이들은 개 식용 종식법으로 수년∼수십 년간 이어온 영업권을 박탈당하는 만큼, 당국이 제시한 폐업 또는 전업 지원금 외에 별도의 정당한 손실액을 산정해 지급해야 한다고 주장하고 있다.&lt;br&gt;&lt;br&gt;이런 움직임은 대덕구뿐 아니라 유성구(4명), 동구(3명), 중구(1명·이상 원고 숫자) 등 대전 자치구 5곳 중 4곳에서도 나타났다. 법원 사건 기록 검색 사이트를 통해 확인한 원고는 최소 14명이다. &lt;br&gt;&lt;br&gt;개 식용 종식법은 식용을 목적으로 개를 사육·증식하거나 도살하는 행위, 개나 개를 원료로 조리·가공한 식품을 유통·판매하는 행위 등을 금지하고 있다. 식용을 목적으로 개를 도살하면 3년 이하 징역 또는 3000만원 이하 벌금, 사육·증식·유통하면 2년 이하 징역 또는 2000만원 이하 벌금에 처하도록 했다. 또 개 사육 농장주, 개 식용 도축·유통 상인, 식당 주인 등은 시설과 영업 내용을 지방자치단체장에게 신고해야 하며, 국가나 지자체는 신고한 업자의 폐업·전업을 지원하도록 하는 내용도 담겨 있다.&lt;br&gt;&lt;br&gt;2024년 국회를 통과한 이 법의 시행은 2027년 2월까지 3년의 유예 기간을 뒀다. 업계가 폐업이나 업종 전환을 준비할 충분한 시간을 부여하기 위해서다.&lt;br&gt;&lt;br&gt;지자체 역시 무분별한 산업 유지가 아닌 연착륙을 통한 업종 전환에 초점을 맞춰 식당 업주 등의 충격을 최소화하겠다는 방침을 밝혀 왔다.&lt;br&gt;&lt;br&gt;농림수산식품부에서 2024년 10월에 발표한 ‘개 식용 종식 기본 계획’을 보면 법에 따라 2027년 2월부터 식용 목적의 개 사육·도살·유통·판매 행위를 금지하기 때문에 현재 운영 중인 업계에는 전업이나 폐업 의무가 발생한다.&lt;br&gt;&lt;br&gt;규정에 따르면 폐업하는 업주에게는 점포 철거와 원상 복구 등 비용으로 최대 400만원, 메뉴나 취급 고기 종류를 변경하는 업주에게는 최대 250만원을 각각 지원하고 있다.&lt;br&gt;&lt;br&gt;하지만 일부 식당 업주는 현재의 지원책만으로는 부족하다며 별도 영업 손실 보상금을 요구하고 있다는 게 대전 자치구의 설명이다.&lt;br&gt;&lt;br&gt;이에 담당 부서에서는 특별법에 영업 손실을 별도로 보상하라는 명문 규정이 없기 때문에 관련 지급을 거부했는데, 이에 반발한 이들이 행정소송으로 맞선 것이다.&lt;br&gt;&lt;br&gt;대전 지역 한 자치 단체 관계자는 “그간 지원 기준 내에서 최대한 행정적 보조를 제공했다”며 “공공 목적과 사회적 합의에 따라 제정된 법 이행 과정에서 혈세를 투입해야 하는 규정 외의 요구는 수용하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대전 각 자치구는 변호인을 선임해 소송 수행에 적극적으로 나서겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“홀로 버티는 이 믿어주는 것… 무죄 판결보다 의미있는 실천”</title>
-      <link>https://www.chosun.com/national/people/2026/08/20/DOL4I5DNCZFCVKIMGN247LVTSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/20/DOL4I5DNCZFCVKIMGN247LVTSM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYDTSURQI5BGDPFM7LHRUSYFHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;재심 서류가 쌓여 있는 경기 용인시 ‘등대장학회’ 사무실에서 만난 ‘2026 만해실천대상’ 수상자 박준영 변호사. 지난 18년간 재심 사건을 무료 변론해 온 그는 “저 역시 많은 도움을 받으며 여기까지 왔다”며 “받은 도움을 또 다른 누군가에게 건네는 것도 실천이라고 생각한다”고 말했다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재심(再審)은 단 한 번의 진검승부다. 청구가 기각되면 같은 이유로는 두 번 다시 청구할 수 없다. 확정된 유죄 판결을 뒤집어야 하니 사건을 고르는 것부터 신중할 수밖에 없다. 지난 18년간 재심 사건만 맡아 무료 변론해 온 박준영(52) 변호사는 그래서 오랫동안 ‘되는 사건’에 매달려왔다.&lt;br&gt;&lt;br&gt;‘2026 만해실천대상’ 수상자로 선정된 박 변호사를 지난 11일 경기 용인 등대장학회 사무실에서 만났다. 2008년 국선 변호사로 ‘수원역 노숙 소녀 상해치사 사건’ 재심을 맡은 이래 익산 약촌오거리 살인 사건, 낙동강변 살인 사건, 이춘재 연쇄 살인 8차 사건 등 굵직한 사건을 맡아 누명을 쓰고 옥살이한 이들의 억울함을 하나씩 풀어왔다. 박 변호사의 재심 승률은 100%다.&lt;br&gt;&lt;br&gt;그런데도 그는 수상 소식을 듣고 “실천한 일보다 외면한 일이 많아 부끄럽다”고 했다. 지금까지 구해낸 사람보다 손 내밀지 못한 사람들이 더 마음에 남는다는 것이다. 그는 “예전에는 무죄를 받아내 억울함을 풀어주는 것만 의미 있다고 생각했지만, 이제는 결과보다도 긴 시간 질곡을 홀로 버텨 온 사람을 믿고 끝까지 손 잡아주는 과정이 진정한 실천인 것 같다”고 했다. &lt;br&gt;&lt;br&gt;그 생각을 하게 된 건 무기수 김신혜씨 재심이었다. 아버지를 살해한 혐의로 2001년 무기징역이 확정된 김씨는 지난해 재심 1심에서 무죄를 선고받았다. 수감된 지 24년 10개월 만이었고, 2015년 재심 개시로부터도 10년 만이었다. 박 변호사는 트라우마와 오랜 수감 생활로 망상 등 정신 장애를 겪던 김씨에게 11차례 해임됐다. 외부에서 여러 오해도 받았지만 김씨의 상태를 자세히 밝힐 수는 없었다. 그래도 사건에서 손을 뗄 수 없었다. 박 변호사는 “사람의 손을 끝까지 놓지 않는 일이 더 어렵고 때로는 회복의 시작이 된다는 걸 알게 됐다”고 했다.&lt;br&gt;&lt;br&gt;박 변호사는 “지금껏 남에게 준 도움보다 받은 도움이 훨씬 많다”고 여러 차례 말했다. 어린 시절 어머니를 여의고 방황할 때는 주변 어른들의 손길이 있었고, 변호사가 된 뒤 재심 사건을 계속할 수 있었던 것도 시민들 후원 덕분이었다. 2016년 재심 여러 건을 동시에 진행하다 파산 위기에 몰렸을 때 도와달라며 시작한 펀딩에 90일 만에 5억원 넘는 돈이 모였다.&lt;br&gt;&lt;br&gt;그가 받은 도움은 다시 다른 사람에게 흘러갔다. 낙동강변 살인사건의 장동익·최인철씨와 이춘재 연쇄살인 8차 사건의 윤성여씨 등 재심으로 누명을 벗은 피해자들은 국가에서 받은 배상금으로 2023년 등대장학회를 만들었다. 장학회는 위기 청소년 30여 명에게 매달 30만~40만원씩 생활비 등을 지원하고 있다.&lt;br&gt;&lt;br&gt;도움의 흐름은 지금 맡고 있는 우즈베키스탄 국적 아크말의 재심 청구 사건에서도 이어지고 있다. 아크말은 2009년 경남 창원에서 택시 기사를 살해한 혐의로 무기징역이 확정됐는데 최근 법의학 재감정에서 당시 자백과 실제 사인(死因)이 맞지 않는다는 소견이 나왔다. 이 사건은 살인 피해자 유가족이 힘을 보태고 있다. 방송을 통해 경찰의 강압 수사 정황 등 문제점을 알게 된 유가족은 박 변호사를 직접 만나 설명을 들은 뒤 재심을 돕기로 했다. 박 변호사는 “아버지를 죽인 범인으로 확정된 사람의 재심을 유가족이 돕는다는 건 쉬운 일이 아니다”며 “법적인 설명만 듣고 가능한 일이 아니라 사람에 대한 믿음이 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;박 변호사는 이번 수상의 의미에 대해서도 “지금까지 성과에 대한 평가를 넘어 믿음을 더해주신 것”이라고 했다. 사건 진행이 더디다며 편지로 서운함을 털어놓았던 한 재소자는 수상 소식을 접한 뒤 다시 ‘앞으로 판단과 선택을 더 믿고 의지하겠다’는 편지를 보내왔다고 한다. 박 변호사는 상금 일부는 등대장학회에 기부하고, 일부는 재심 사건의 법의학 감정 등 전문가 자문 비용에 쓸 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 일자리 빼앗는 AI, 어느 지역·직종서 충격 클까</title>
@@ -812,51 +907,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/OW7UMRY2BJHPFF6LKO5KH6NSAY.jpg?auth=ce3d2e33480a5d6d51785ea827c1fed71930e241c4cfd13d164eccc4c8ae307b&amp;smart=true&amp;width=1200&amp;height=675" type="image/jpeg" height="675" width="1200"/>
     </item>
     <item>
-      <title>[인사] 기획예산처 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/20/SQFBAKAVOFBBLATLMTHFLNJZ7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/20/SQFBAKAVOFBBLATLMTHFLNJZ7Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲기획예산처&lt;/b&gt;▷장관정책보좌관 김병조&lt;br&gt;&lt;br&gt;&lt;b&gt;▲영화진흥위원회&lt;/b&gt;▷경영본부장 유재천▷사업본부 영화산업지원팀장 직무대리 유지원▷사업본부 국제사업팀장 권태은▷공정성장센터 공정성장팀장 한인철▷한국영화아카데미 영화인교육팀장 박여주&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신세훈 前한국문인협회 이사장 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/20/JPVBLLXZPNGZZIMQ55YGT4WWIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/20/JPVBLLXZPNGZZIMQ55YGT4WWIY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DLZYULXAVE37K45PABSDQXSTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국문인협회 제22~23대 이사장을 지낸 신세훈(85) 시인이 19일 별세했다. 고인은 경북 의성에서 태어나 중앙대 연극영화과를 졸업했다. 1962년 조선일보 신춘문예 시 부문으로 등단했고, 한국PEN공로상·청마문학상 등을 받았다. 제20대 한국현대시인협회 이사장을 지냈다. 유족은 부인 김향자씨, 아들 신하늘·신새해씨, 딸 신새별씨 등이 있다. 장례식은 20일 오후 4시 대한민국문인장으로 열린다. 빈소는 서울대병원, 발인 21일 오전 7시 30분. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어우홍 前 국가대표 야구 감독 별세</title>
-      <link>https://www.chosun.com/national/people/2026/08/20/3ZDQ5RIY2NCTTK4KWJVSPLAI4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/20/3ZDQ5RIY2NCTTK4KWJVSPLAI4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXBSU3DELJB2VIEB2N33KBINGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1982년 세계야구선수권대회에서 한국을 우승으로 이끈 어우홍(95) 전 야구대표팀 감독이 19일 별세했다. 부산상고, 경남고, 동아대 감독을 거치며 ‘부산 야구의 대부’로 불렸고, 프로야구 MBC와 롯데 감독도 지냈다. 빈소는 분당제생병원, 발인 21일 오전 5시 30분. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김용권 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/20/SSMB342BARHTZMDJK3EECFMCJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/20/SSMB342BARHTZMDJK3EECFMCJY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김용권 &lt;/b&gt;별세, &lt;b&gt;사재옥 &lt;/b&gt;남편상, &lt;b&gt;김수곤&lt;/b&gt;·&lt;b&gt;김숙자&lt;/b&gt;·&lt;b&gt;김윤미&lt;/b&gt;·&lt;b&gt;김은수 &lt;/b&gt;부친상, &lt;b&gt;박종규 &lt;/b&gt;가톨릭대 인천성모병원 파트장·&lt;b&gt;박해일 &lt;/b&gt;장인상=19일10시46분 경남 창원 큰사랑요양병원, 발인 21일9시, (055)231-5444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김윤영 &lt;/b&gt;별세, &lt;b&gt;김동진 &lt;/b&gt;충청투데이 선임기자 장인상=18일19시31분 충북 청주참사랑병원, 발인 21일8시, (043)298-9200&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박종숙 &lt;/b&gt;별세, &lt;b&gt;강순명&lt;/b&gt;·&lt;b&gt;강은명&lt;/b&gt;·&lt;b&gt;강진명&lt;/b&gt;·&lt;b&gt;강병수 &lt;/b&gt;PSBX동산 대표&lt;b&gt; &lt;/b&gt;모친상, &lt;b&gt;표현명&lt;/b&gt;·&lt;b&gt;김현겸 &lt;/b&gt;팬스타그룹 회장 장모상, &lt;b&gt;서지연 &lt;/b&gt;시모상=19일10시15분 삼성서울병원, 발인 21일9시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍영자 &lt;/b&gt;별세, &lt;b&gt;김창수 &lt;/b&gt;아내상, &lt;b&gt;김갑호 &lt;/b&gt;케이앤티인베스트먼트 대표·&lt;b&gt;김선화&lt;/b&gt;·&lt;b&gt;김국화 &lt;/b&gt;모친상, &lt;b&gt;강명철 &lt;/b&gt;장모상, &lt;b&gt;김선희 &lt;/b&gt;시모상=19일10시3분 서울아산병원, 발인 21일9시, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김경문 성공회대 총장 재선임</title>
-      <link>https://www.chosun.com/national/people/2026/08/20/LUHFXGC7SZEGVBUWI4XPGZAG3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/20/LUHFXGC7SZEGVBUWI4XPGZAG3U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPP5HAY72JCGBAHPLCPCOG6YYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성공회대가 김경문 현 총장이 제10대 총장으로 재선임됐다고 19일 밝혔다. 새 임기는 2030년 7월까지 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>암 환자들의 ‘항암 탈모’ 고민 덜어준… 두피 냉각기가 뜬다</title>
       <link>https://www.chosun.com/medical/2026/08/20/N4IQG2CU5ZERTIUEJBHOP7HL4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/medical/2026/08/20/N4IQG2CU5ZERTIUEJBHOP7HL4U/</guid>
@@ -875,24 +925,6 @@
       <content:encoded>45세 회사원 김모씨는 최근 건강검진에서 받은 대장내시경 결과를 듣고 깜짝 놀랐다. 대장에 발견된 용종을 떼어 조직검사를 했는데 암이 나왔다. 다행히 아주 초기여서 내시경 치료로 제거할 수 있었다. 김씨 집안에는 대장암 환자도 없었고, 담배도 피우지 않았다. 김 씨는 아직 40대 중반인데 벌써 암환자라는 사실이 믿기지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MZBXOJF7ZENDAEK4VKBONVJUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;젊다는 이유만으로 암에서 자유로운 시대가 지나가고 있다. 서울대 예방의학교실 연구팀이 한국의 2003~2022년 암 발생을 분석해 2026년 국제암연구소(IARC) 학술행사에서 발표한 연구에 따르면, 20~49세 조기발병암 발생이 연평균 3.1% 증가한 것으로 나타났다. 대장암과 폐암은 고령층에서는 감소하거나 정체된 것과 달리 젊은 층에서는 증가하는 양상을 보였다. &lt;br&gt;&lt;br&gt;나이가 들수록 세포가 분열하면서 DNA 손상이 쌓인다. 고령에서는 손상된 DNA를 복구하는 능력은 떨어지고, 면역체계가 암세포 등 비정상 세포를 찾아 제거하는 능력도 감소한다. 이 때문에 암은 나이 들어 생기는 노화 관련 질환으로 꼽힌다.&lt;br&gt;&lt;br&gt;하지만 요즘 추세는 달라졌다. 2010년 대장암 진단을 받고 치료 중인 30대 환자는 1617명으로 전체의 2.5%에 불과했다. 그러다 2025년에는 30대 환자가 5218명으로 늘었다. 30대 비율도 5.7%로 높아졌다(건강보험심사평가원 보건의료 빅데이터). 15년 사이 환자 수는 3.2배, 비율은 2.2배 증가한 것이다.&lt;br&gt;&lt;br&gt;40대도 마찬가지다. 2010년 40대 대장암 환자는 6285명(9.7%)이었으나, 2025년에는 1만1640명(12.8%)으로 늘었다. 전체 대장암 환자 중에서 40대가 차지하는 비율은 15년 새 82% 증가했다.&lt;br&gt;&lt;br&gt;우리나라는 서구에 비해 젊은 유방암 환자가 유난히 많다. 40대가 신규 암 발생 최다 나이다. 40대 이하 환자가 전체 유방암 환자 열 명 중 넷(38%)을 차지한다. 60대 후반과 70대에 유방암 환자가 많은 서구와 대조된다. ‘젊은 유방암 클리닉’ 를 운영하는 서울아산병원 김희정 유방외과 교수는 “서구식 식습관이 급속히 진행됐고, 초경 나이가 빨라지고, 임신·출산 경험이 적은 이유 등으로 젊은 암 환자가 늘고 있다”며 “유방암 발생 중간 나이가 10여 년 전 40대 중반에서 지금은 50대 초반으로 올라갔어도 폐경 전 가임기 유방암 발생이 여전히 많다”고 말했다.&lt;br&gt;&lt;br&gt;서구 선진국에서도 젊은 암 환자가 늘면서 새로운 보건의료 이슈로 떠오르고 있다. 젊은 암 증가 배경에는 암이 젊어진 것이 아니라, 젊은 사람 몸이 늙어진 탓이라는 분석이다. 미국 워싱턴대의대 연구팀이 올해 6월 국제학술지 ‘네이처 메디신’에 발표한 ‘조기 발병암 위험의 세대별 변화’ 연구에 따르면, 1950년대생과 1960~1970년대생을 비교했을 때, 최근에 태어난 세대일수록 실제 나이에 비해 생물학적 노화가 더 진행된 경향을 보였다. 연구팀은 몸이 빨리 늙을수록, 암 발생도 조기에 이뤄져, 55세 이전에 발생하는 고형암 위험이 더 높았다고 분석했다.&lt;br&gt;&lt;br&gt;왜 젊은 사람 몸이 빨리 늙어가고, 암 발생에 취약해지는가. 최근 세대에서는 비만이 더 어린 나이에 시작된다. 앉아 있는 시간은 늘고 신체활동은 줄었다. 초가공식품과 당분이 많은 음료를 쉽게 접한다. 수면시간은 짧아지고 밤에도 스마트폰과 인공조명에 노출된다. 대기오염과 각종 환경물질에 노출되고 만성 스트레스도 적지 않다. 여기에 당뇨병, 고혈압, 지방간, 이상지질혈증 같은 대사질환이 과거보다 젊은 나이에 시작된다. 이런 위험 요인이 젊어서부터 10년, 20년 쌓이면 신체 노화 속도가 빨라지고 암 발생 위험이 높아진다는 것이다.&lt;br&gt;&lt;br&gt;암 전문의들은 “젊다고 안심하지 말고, 젊어서부터 암 발생 위험을 낮추는 생활 습관을 취하고, 암이 생기더라도 일찍 찾아내자는 생각을 가져야 한다”고 입을 모은다. 암 예방 실천 출발선이 중장년에서 3040으로 내려와야 한다는 의미다&amp;lt;그래픽 참조&amp;gt;.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>걸으면 다리 저리고 허리 숙이면 괜찮아져</title>
-      <link>https://www.chosun.com/medical/2026/08/20/ZO5OHO7QGFFDXBPC2DSKNNB74I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/08/20/ZO5OHO7QGFFDXBPC2DSKNNB74I/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2RIGGDVSVGTTGUTTOJI7A2PIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보 의학·건강 유튜브 ‘김철중의 이러면 낫는다’는 척추전문병원 우리들병원 이상호 박사, 김신재 원장과 함께 노년의 삶의 질을 떨어뜨리는 ‘척추관 협착증’에 대해 알아봤다.&lt;br&gt;&lt;br&gt;척추에는 신경이 지나가는 ‘척추관(신경관)’이라는 터널이 있다. 김신재 원장은 “허리를 계속 쓰다 보면 척추 관절이 약해지고 흔들리는데, 뼈가 어긋나거나 인대가 두꺼워지고 뒤쪽 후관절이 두껍게 자란다”며 “그 결과 신경관이 좁아지는 협착증이 생긴다”고 말했다.&lt;br&gt;&lt;br&gt;증상의 핵심은 엉덩이와 다리가 저리는 것. 척추관이 좁아지면 지나가는 신경 주변의 혈관들도 눌려서 혈액 순환이 잘 되지 않는다. 이 때문에 걸으면 저림이 심해지고 앉아서 쉬면 괜찮아지는 게 협착증 증세의 특징이다.&lt;br&gt;&lt;br&gt;이상호 박사는 “서서 앞으로 허리 숙이면, 허리 디스크는 허리가 아프거나 다리·엉덩이가 당기는데, 척추관 협착증은 오히려 허리 숙이면 신경이 지나가는 공간이 넓어져 더 편해진다”고 말했다.&lt;br&gt;&lt;br&gt;척추관 협착증을 방치할 경우 활동 부족으로 수명이 10년가량 짧아진다. 이상호 박사는 뼈를 자르지 않고 두꺼워진 인대만 제거한 뒤, 그 자리에 인공 인대를 걸어서 위아래 척추를 잡아주는 ‘척추 인대 재건술’을 세계 최초로 개발했다.&lt;br&gt;&lt;br&gt;김 원장은 “협착증은 고령 환자에게 많이 생기는데, 뼈를 자르면 출혈이 많고 수술 시간도 많이 걸리지만, 인대 재건술은 협착증 근본 원인만 제거하는 수술이어서 수술 시간이 짧고 출혈도 적다”고 말했다. 지면에 표기된 QR코드를 스마트폰으로 찍으면, 척추관 협착증 편을 볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XF3IW7RZP5HMFNVAAKH5OSWSJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>잠 잘 자면 직장서 더 오래 버텨 은퇴 늦춰</title>
-      <link>https://www.chosun.com/medical/2026/08/20/HCLYBSHU4FCU5C3SMANRBOWMN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2026/08/20/HCLYBSHU4FCU5C3SMANRBOWMN4/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 15:40:00 +0000</pubDate>
-      <content:encoded>잠을 잘 자는 사람이 직장에서도 더 오래 버틸 수 있다는 연구 결과가 나왔다. 초고령사회에서 잠이 ‘건강 수명’뿐 아니라 ‘직장 수명’도 좌우할 수 있다​는 얘기다.&lt;br&gt;&lt;br&gt;핀란드 투르쿠대 연구진은 최근 국제학술지 ‘직업 환경과 의학’에 50세 이상 성인에서 수면장애와 수면시간이 직장생활 기대 수명에 미치는 영향​이라는 연구를 발표했다.&lt;br&gt;&lt;br&gt;연구진은 핀란드 공공부문 근로자 7만339명과 일반 성인 6071명 등을 대상으로 수면 상태를 조사하고 연금소득 등록 자료와 연결해 50세부터 68세까지 실제로 얼마나 오랫동안 근로 시장에 남아 있었는지를 분석했다. 잠들기 어렵거나, 자다가 자주 깨거나, 너무 일찍 깨거나, 자고 일어나도 개운하지 않은 증상 등이 있으면 수면장애로 분류됐다.&lt;br&gt;&lt;br&gt;분석 결과, 수면장애가 없는 50세 근로자의 남은 직장 기대 수명은 평균 13년 5개월이었다. 중등도 수면장애가 있으면, 약 13년으로 줄었고, 심한 수면장애는 약 12년 10개월이었다. 잠으로 약 8개월의 ‘직장 수명’ 차이​가 났다. &lt;br&gt;&lt;br&gt;하루 9시간 이상 자는 사람의 직장 기대수명은 12년 5개월로, 7~8시간 30분 수면군보다 약 9개월 짧았다. 수면 시간이 너무 길면 직장 수명이 짧아지는 경향을 보였다. &lt;br&gt;&lt;br&gt;연구팀은 “전 세계적으로 정년을 늦추고 은퇴 연령을 높이는 추세인 상황에서 잠을 제대로 자지 못하면 낮 동안 졸리고 집중력과 판단력, 업무 능력이 떨어지게 되어 결국 근로시장에서 더 일찍 이탈하는 요인이 될 가능성이 있다”며 “수면장애는 개인 건강뿐만 아니라 직업 건강 문제이기도 하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“나눔은 일방적인 희생 아냐… 의사·환자 서로 보듬는 동행”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/08/20/MNLC46ZE7JDD5PTCYT5QLQ4WXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/20/MNLC46ZE7JDD5PTCYT5QLQ4WXM/</guid>
@@ -900,49 +932,6 @@
       <description/>
       <pubDate>Wed, 19 Aug 2026 15:39:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LSWOJOJWFF5TOHH2IGIYJPZ5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안규리 재단법인 라파엘나눔 이사장이 지난 14일 서울 성북구 라파엘센터 5층 경당 입구에 있는 고(故) 김수환 추기경 흉상 옆에서 환하게 웃고 있다. 생전 라파엘클리닉을 누구보다 아끼고 응원했던 김 추기경은 2009년 선종하면서 자신의 통장에 든 340만원을 전액 라파엘클리닉에 남겼다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“흔히 의사는 도움을 주는 사람, 환자는 받는 사람이라고 생각합니다. 하지만 실제로는 환자가 의사를 성장시키고, 봉사자는 환자에게서 삶의 의미를 얻지요. 그러니 나눔은 주고받는 이의 경계가 따로 없는, 서로를 보듬으며 가는 ‘동행’입니다.”&lt;br&gt;&lt;br&gt;‘2026 만해실천대상’을 수상하는 안규리(71) 재단법인 라파엘나눔 이사장은 14일 본지 인터뷰에서 이주노동자 무료 진료소 ‘라파엘 클리닉’이 지난 29년간 걸어온 길을 ‘베풂’이나 ‘희생’ 같은 단어가 아닌 ‘환자와의 동행’이라고 표현했다. 안 이사장은 “처음엔 환자를 돕는다고 생각했지만, 시간이 지나고 보니 환자와 봉사자에게서 우리가 치유받고 성장하고 있었다”며 “그간 함께 환자들을 만난 수많은 동료 의사와 자원봉사자들도 같은 마음일 것”이라고 했다. 그는 “이렇게 주고받는 이의 경계가 사라지는 순간이 바로 만해 선생께서 말씀하신 ‘타인의 고통을 내 아픔으로 받아들이는 마음’, 동체대비(同體大悲)의 모습인 것 같다”고 했다.&lt;br&gt;&lt;br&gt;시작은 1996년 말이었다. 광주교도소에 복역 중이던 파키스탄 이주노동자 2명의 사연을 당시 김수환 추기경이 전해 듣고 도움을 주려 나섰다. 서울대병원 내과 3년차 교수로 서울의대 가톨릭 교수회 소속이던 안 이사장은 직접 카레를 만들어 교도소까지 찾아갔다. 하지만 면회는 허락되지 않았다. 속상한 마음으로 올라오는 길에 ‘그래, 저 사람들을 위해 내가 잘할 수 있는 일을 하자’며 이주 노동자들을 위한 의료 봉사를 결심했다.&lt;br&gt;&lt;br&gt;1997년 김전 서울의대 교수, 학생들과 혜화동성당 한쪽에 무료진료소의 문을 열었다. 그 진료소가 현재 국내 최대 규모의 이주민 의료 지원 기관 ‘라파엘 클리닉’이 됐다. 지금까지 100여국 출신 약 34만명을 치료했고, 요즘도 매주 일요일이면 전국 각지의 이주노동자 200여 명이 몰려든다. 2021년부터는 명동성당 뒤편 옛 계성여고 운동장에 천막 진료소를 열어 노숙인·도시빈민도 진료하고 있다.&lt;br&gt;&lt;br&gt;난관도 많았다. 안 이사장은 “처음엔 진료 공간이 없어 가톨릭 신학대학 내 성신관, 동성고 강당 복도로 계속 옮겨다녔는데, 환자들의 줄은 갈수록 길어졌다”면서 “여름엔 부채질로, 겨울엔 난로에 손을 녹이며 환자들을 봤다”고 했다. 버틸 수 있었던 힘은 동료 의사, 봉사자, 후원자들이었다. 지금까지 라파엘의 의료 활동에 참여한 의사는 약 600명에 달한다. 안 이사장은 “교수님들은 ‘의자 하나만 더 놔주면 환자를 보겠다’고 했고, 학생 봉사자들은 몇 년 뒤 전문의가 돼 옆에서 진료를 시작했다”고 했다. 환자였던 이주노동자들이 “한국에 와 처음 사람대접을 받고 살아갈 용기를 얻었다”며 봉사자가 되기도 했다. 안 이사장은 “마치 수많은 개미가 흰개미집 하나를 끊임없이 만들어가는 과정 같았다”고 했다.&lt;br&gt;&lt;br&gt;안 이사장은 2007년부터 해외로도 눈을 돌려 몽골, 캄보디아, 방글라데시 등의 현지 의료진도 양성하고 있다. 그는 “200여 명에게 현지 교육, 한국 초청 연수 등을 진행했고, 몽골의 경우 신장이식도 못 하던 나라가 이제 심장이식도 할 수 있는 수준까지 올라왔다”고 했다.&lt;br&gt;&lt;br&gt;안 이사장은 “나는 스스로 늘 조금씩 물이 새는 ‘깨진 항아리’라고 생각했는데, 돌이켜보니 깨진 항아리가 지나온 길처럼 우리가 걸어온 길에도 꽃과 풀이 무성하게 자라 있더라”고 했다. 바로 29년간 함께한 환자와 의료진, 자원봉사자, 그리고 후원자들이다. 안 이사장은 “이들과 함께라면 언제든 환자를 맞을 수 있는 상설 진료체계를 갖추겠다는 꿈도 꼭 이룰 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>82년 세계야구 韓 첫 우승 이끈 어우홍 전 감독 별세</title>
-      <link>https://www.chosun.com/national/people/2026/08/19/A3LLLJ332ZHGFLQJ6FLLPOBI2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/19/A3LLLJ332ZHGFLQJ6FLLPOBI2I/</guid>
-      <dc:creator>강우석 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 12:01:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4RPCFXMD5BKTJ6QAATVNU6FEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울 송파구 잠실야구장에서 열린 2018 프로야구 신한은행 마이카 KBO 한국시리즈 1차전 두산 베어스와 SK 와이번스의 경기에 앞서 야구원로 어우홍 감독이 시구하고 있다. 어우홍 감독은 1982년 국가대표 감독 시절 아시아 국가로는 최초로 세계야구선수권 대회에서 우승을 거머쥐었다. 2018.11.4 ⓒ 뉴스1 구윤성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1982년 세계야구선수권대회에서 한국을 우승으로 이끈 어우홍(95) 전 야구대표팀 감독이 19일 별세했다. &lt;br&gt;&lt;br&gt;어 전 감독은 선수 시절 동래중(현 동래고)-성균관대를 거쳐 조선전업 등 실업팀에서 뛰다 은퇴 후 본격적인 지도자 경력을 시작했다. 1981년엔 국가대표팀 감독을 역임하며 이듬해 서울에서 열린 제27회 세계야구선수권대회에서 김재박, 최동원, 선동열 등 스타 군단을 이끌고 아시아 최초로 정상에 올랐다. 특히 결승에서 숙적 일본을 누르는 통쾌한 승리를 거두며 국민적인 인기를 누렸다. 어 전 감독은 그해 체육훈장 기린장과 세계야구연맹 올해의 감독상을 수상했다. &lt;br&gt;&lt;br&gt;이후 어 전 감독은 프로야구 MBC(1984~1985년)와 롯데(1988~1989) 감독을 역임하며 KBO(한국야구위원회) 리그 통산 177승을 기록했다. 지도자 은퇴 후엔 초대 일구회장, KBO 총재 특별보좌역·규칙위원장 등을 역임하며 한국 야구 발전에 이바지했다. &lt;br&gt;&lt;br&gt;KBO는 어 전 감독의 공로를 기려 KBO장으로 장례를 치른다. 이는 지난해 9월 이용일 전 KBO 총재 직무 대행, 지난 15일 백인천 전 감독에 이어 이번이 세번째다. 빈소는 분당제생병원, 발인은 21일 오전 5시30분이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WDYNSFQQ3NAALNXLRW5ARX5QM4.JPG?auth=50c5569eefa852f6b01efc31ee56cc767f5625d4dbded55afb37b0757199b4a4&amp;smart=true&amp;width=1238&amp;height=928" type="image/jpeg" height="928" width="1238">
-        <media:description type="plain">4일 오후 서울 송파구 잠실야구장에서 열린 2018 프로야구 신한은행 마이카 KBO 한국시리즈 1차전 두산 베어스와 SK 와이번스의 경기에 앞서 야구원로 어우홍 감독이 시구하고 있다. 어우홍 감독은 1982년 국가대표 감독 시절 아시아 국가로는 최초로 세계야구선수권 대회에서 우승을 거머쥐었다. 2018.11.4 ⓒ 뉴스1 구윤성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>학생 줄어도 느는 교육교부금... ‘내국세 20% 자동 배분’ 폐지</title>
-      <link>https://www.chosun.com/national/education/2026/08/19/NHWB56KKTVDF7KHLXQA7CVBP4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/19/NHWB56KKTVDF7KHLXQA7CVBP4E/</guid>
-      <dc:creator>황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 10:24:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZTIYRRGI2DOMZRMQZGMZJUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박홍근 기획예산처 장관과 최교진 교육부 장관이 13일 청와대 영빈관에서 열린 2026년 국가재정전략회의에서 대화를 나누고 있다. 2026.7.13 ⓒ 뉴스1 허경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내국세의 20.79%를 떼어 초·중·고 교육에 자동으로 배분해 온 지방교육재정교부금(교육교부금) 구조가 54년 만에 폐지된다. 학생 수는 갈수록 줄어들지만 세수 증가와 함께 교육교부금이 따라 증가하는 구조를 바꾸겠다는 것으로, 1972년부터 이어져 온 교육 재정의 큰 틀이 바뀌는 일이다.&lt;br&gt;&lt;br&gt;19일 관계 부처에 따르면 기획예산처와 교육부는 이번 주 발표를 목표로 교육교부금 개편안을 조율하고 있다. 두 부처는 내국세 자동 연동 방식을 더 이상 유지하지 않는다는 데 뜻을 모으고 세부 사항을 논의하고 있다. &lt;br&gt;&lt;br&gt;그동안 교육 예산은 내국세 연동제로 예산 편성 과정에서 따로 떼어져 있었다. 내국세의 일정 비율을 교육 예산으로 미리 정해 두면, 매년 부처 간 예산 다툼 과정에서 교육 예산이 줄어들 일이 없다. 재정 당국이 교육 예산을 흔들지 못하도록 하는 안전판인 셈이다.&lt;br&gt;&lt;br&gt;하지만 학생 수가 빠르게 줄면서 이 구조를 손봐야 한다는 지적이 이어졌다. 최근 10년간 학생 수는 175만명 줄었지만 교육교부금은 같은 기간 오히려 77% 늘었다. 일단 세수가 늘면 학생 수와 무관하게 교육교부금도 따라 불어나는 구조 탓이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3TQNZUMM2TQYZZMY3TKMRQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정근식 대한민국교육감협의회장이 19일 오전 서울 용산구 서울시교육청에서 열린 지방교육재정교부금 관련 긴급 간담회에서 모두발언하고 있다./서울시교육청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 기존 내국세 연동제 대신 직전 연도 교부금에 최근 3개년 평균 경상성장률과 학령인구 변화율 등을 반영하는 새로운 산식을 검토하고 있다. 이 경우 내년 교육교부금은 80조원 안팎으로, 현행 내국세 연동 방식을 유지했을 때보다 20조원가량 줄어들 것으로 추산된다. 이렇게 확보한 재원은 정부가 새로 만드는 ‘미래대응기금’에 매년 더해질 것으로 보인다. 기존 20.79% 방식으로 계산한 금액과 새로운 산식으로 산정한 교부금의 차액만큼을 기금에 넣는 구조가 거론된다. 정부는 세수가 줄어들거나 학령인구가 급감해도 교육교부금이 전년 대비 감소하지 않도록 안전장치를 두는 방안도 마련한다.&lt;br&gt;&lt;br&gt;교육계는 연동제를 건드리는 것에 반발하고 있다. 전국시도교육감협의회는 이날 긴급 화상 간담회를 열고 대응 방향을 논의했다. 대한민국교육감협의회장인 정근식 서울시교육감은 이 자리에서 “최근 지방교육재정교부금 개편 논의가 우리 교육의 재정 기반과 직결되는 중요한 국면으로 접어들고 있다”며 “제도의 기본 틀을 변경하는 논의가 본격화되고 있음에도 지방교육재정을 직접 책임지고 있는 시도 교육청의 의견을 충분히 수렴하고 논의에 반영하는 과정은 대단히 미흡하다”고 했다. 20일에는 교원 단체 대표 10명이 청와대를 찾아 국민경청비서관을 만난다. 연동제 폐지는 지방교육재정교부금법을 고쳐야 하는 만큼 정부안이 확정되더라도 국회 논의를 통과해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MUZTIYRRGI2DOMZRMQZGMZJUG4.jpg?auth=f9a614ca306578ec30d47eb66bd2eeb358e05493ca0a329f1b11f8299f9106fb&amp;smart=true&amp;width=2298&amp;height=1511" type="image/jpeg" height="1511" width="2298">
-        <media:description type="plain">박홍근 기획예산처 장관과 최교진 교육부 장관이 13일 청와대 영빈관에서 열린 2026년 국가재정전략회의에서 대화를 나누고 있다. 2026.7.13 ⓒ 뉴스1 허경 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=연합뉴스) 한상균 기자 =</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] 종합특검, 홍장원 1차장 등 前 국정원 수뇌부 4명 기소…내란 가담 혐의</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/19/M7DYY3ORMZCZTJPZRY3ATAQQOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/19/M7DYY3ORMZCZTJPZRY3ATAQQOQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 09:44:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JYQOHHRGJMB5AQFB6JRVTYYII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원 전 국가정보원 제1차장이 11일 오전 경기 과천시 2차 종합특별검사팀(특별검사 권창영) 사무실에 피의자 신분으로 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)은 19일 조태용 국가정보원장, 홍장원 전 1차장, 황원진 전 2차장, 김남우 전 기획조정실장 등 국정원 간부 4명을 내란 중요 임무 종사·국정원법상 직권남용 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;조 전 원장 등은 국가안보실에서 계엄을 정당화하는 내용의 메시지를 받아 미국 중앙정보국(CIA) 관계자들에게 전달하고, 계엄 선포에 대한 해외 반응을 수집한 혐의를 받는다. 이외에도 홍 전 차장에게는 계엄 당시 국군방첩사령부, 경찰청 등과 연락망 구축을 시도하고 경찰청 상황실에 인원 파견 등을 지시한 혐의도 적용됐다. 특검은 황 전 차장이 계엄사 합동수사본부에 인원 파견 방안을 검토하도록 지시하고, 김 전 실장이 합동참모본부 요청에 따라 계엄상황실 파견 인원을 선발하도록 지시한 것도 내란 가담 행위라고 판단했다.&lt;br&gt;&lt;br&gt;앞선 내란 특검 수사 때 홍 전 차장은 윤석열 전 대통령 등의 내란 혐의 수사에 도움을 준 핵심 참고인이었다. 홍 전 차장은 윤 전 대통령의 탄핵 심판 등에서 “윤 전 대통령에게 ‘싹 다 잡아들이라’는 전화를 받았고, 여인형으로부터 정치인 등 체포 대상자 명단을 전달받았다”고 폭로했다. 이전 수사에서 ‘내부 고발자’였던 홍 전 차장이 2차 특검에선 피의자로 입건돼 기소까지 된 것이다.&lt;br&gt;&lt;br&gt;한편, 2차 특검은 입건된 전·현직 국정원 직원 11명 중 7명에 대해서는 불기소 처분을 내렸다고 밝혔다. 윤오준 전 3차장에게는 혐의가 없다고 봤고, 이외 피의자들에 대해선 수사에 적극 협조한 점 등을 고려해 기소유예 처분했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ’700억원대 사기' 코인 업체 델리오 대표 1심에 항소  </title>
-      <link>https://www.chosun.com/national/national_general/2026/08/19/3M55C56JDBGVVMJTZ2TPLAH2TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/19/3M55C56JDBGVVMJTZ2TPLAH2TA/</guid>
-      <dc:creator>윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Aug 2026 10:11:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZWCYZWMY2TENJRMMZGEMLFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2500억 원 규모의 가상자산 출금 중단 사건을 일으켜 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 등의 혐의를 받는 코인 예치업체 델리오 대표 정모(54)씨가 2024년 서울남부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 법원은 정씨에 대한 구속 영장을 기각했다. /뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상 자산 출금을 예고 없이 중단해 2500억원대 사기 혐의를 받던 코인 예치 서비스 운용사 델리오 대표 정모(54)씨에게 내려진 1심 판결에 대해 검찰이 항소했다. &lt;br&gt;&lt;br&gt;서울남부지검은 19일 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 재판을 받은 정씨의 1심 판결에 대한 항소장을 제출했다. &lt;br&gt;&lt;br&gt;정씨가 운영하던 업체 델리오는 가상 자산을 예치받아 이자를 제공하는 업체로, 가상 자산을 예치하면 연 10% 안팎의 수익을 보장해 준다고 광고해 자산을 끌어모았다. 하지만 2023년 6월 돌연 가상 자산 입출금을 중단해 ‘먹튀’ 논란이 불거졌다. &lt;br&gt;&lt;br&gt;정씨는 사업 초기부터 적자, 해킹 피해 등으로 고객의 코인이 소실되고 있다는 사실을 숨기고 수익이 나고 있다고 거짓 홍보해 피해자들의 가상 자산을 가로챈 것으로 조사됐다. &lt;br&gt;&lt;br&gt;서울남부지법 형사11부(재판장 장찬)는 지난 13일 정씨에게 징역 15년을 선고했다. 또 재판부는 “도주할 우려가 있다”며 정씨를 법정 구속했다. &lt;br&gt;&lt;br&gt;당시 재판부는 “정씨가 델리오를 운영하면서 감당할 수 없는 고율의 이자를 제시하고, 안정성을 강조해 과대 광고했다”며 “피해자들로부터 거액을 가로채 죄질이 무겁다”고 했다. “이 사건으로 수많은 피해자가 심각한 경제적 피해를 입었고, 피고인에 대한 엄벌을 탄원하고 있다”고도 했다. &lt;br&gt;&lt;br&gt;다만 재판부는 정씨에 대한 예비적 공소사실 중 피해자 1078명에게서 약 700억원 상당의 가상 재산을 가로챈 혐의만 유죄로 인정했다. 정씨는 피해자 2800여 명에게서 2500억원대 상당의 가상 자산을 가로챈 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;또 재판부는 “검찰의 압수수색이 위법했다”는 정씨의 문제 제기도 받아들였다. 재판부는 압수수색 당시 압수 목록 고지 등이 없었기 때문에 압수수색 절차가 위법하다고 보고, 검찰이 확보해 제출한 데이터베이스 전자 정보 및 2차 증거의 증거 능력이 없다고 판단했다. &lt;br&gt;&lt;br&gt;앞서 검찰은 지난 4월 열린 결심 공판에서 정씨에게 징역 20년을 구형했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인권위, ‘이장 선출시 성별 무관 보장’ 권고</title>
