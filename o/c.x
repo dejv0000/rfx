@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“텔레그램 탈퇴, 시그널 깔아라“… 특검 정보 털어 후배 도운 경찰</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/22/BLOQFCMLFBD4REVFBZ7YCSVNZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/22/BLOQFCMLFBD4REVFBZ7YCSVNZY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 02:44:59 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTDENLFGU2TCNRWGY2GGZDFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검의 서울~양평 고속도로 수사 정보를 유출한 혐의를 받는 현직 경찰관이 자신이 맡았던 정보경찰 업무를 하는 것처럼 속여 수사 상황을 파악한 것으로 22일 나타났다. 해당 경찰관을 통해 수사 정보를 들은 국토교통부 공무원은 김건희 특검이 압수수색을 나오기 5일 전에 관련 자료를 없앤 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이에 대해 국토부 공무원은 “경찰관에게 사건을 알아봐 달라고 한 적도, 관련 자료를 삭제하지도 않았다”고 반박했다.&lt;br&gt;&lt;br&gt;본지가 입수한 2차 종합특검 공소장에 따르면, 경찰청 국가수사본부 범죄정보과 소속이었던 이모 경정은 2025년 10월 9일 고교 및 대학교 후배인 김모 국토부 과장 연락을 받았다. 당일은 2022년 3~5월 당시 윤석열 대통령직인수위원회에 파견 근무하던 김 과장이 국토부 김모 서기관에게 “양평 고속도로 종점을 변경하라”고 지시했다는 언론 보도가 나온 날이었다. 양평 고속도로 종점이 양평군 양서면에서 윤석열 정부 출범 후 김건희 여사 일가 부동산이 많은 강상면으로 변경한 의혹의 배후로 김 과장이 지목된 것이다.&lt;br&gt;&lt;br&gt;다음 날인 2025년 10월 10일 저녁, 이 경정은 서울 서초동의 한 고깃집에서 김 과장을 만나 “김건희 특검에 아는 분 있으면 상황을 알아봐줄 수 있냐”는 부탁을 받았다. 이 경정은 그 자리에서 김건희 특검에 파견 중이던 후배 경찰관 A씨에게 전화했다. 그는 양평 고속도로 사건을 담당했던 A씨를 통해 “김 서기관이 특검 조사에서 ‘김 과장이 종점 변경을 지시했다’고 진술한 게 맞다”는 사실을 확인했다.&lt;br&gt;&lt;br&gt;이 경정은 10월 11일 다시 A씨에게 전화해 김 과장에 대한 김건희 특검의 압수수색이 임박했다는 사실을 파악했다. 특검은 공소장에 “이 경정이 경찰청 범죄정보과 계장으로서 김건희 특검의 주요 사건 동향을 파악하는 것처럼 행세하면서 수사 진행 상황을 물었다”고 적시했다. &lt;br&gt;&lt;br&gt;이 경정은 그날 오후 10시 23분 김 과장에게 전화해 “산후조리원에 있는 국토부 공무원까지 압수수색한 김건희 특검이 너도 당연히 압수수색할 것이다. 10일 이내에 이루어질 것”이라고 했다. 또 이 경정은 김 과장에게 “일단 준비(대비)하라”면서 “텔레그램은 통화 내역이 남게 되니 시그널을 깔아라(설치하라). 텔레그램은 탈퇴하는 게 제일 깔끔하다”고도 했다. 김 과장도 “조언을 받고 압수수색을 염두에 두어 집에 있는 현금을 치웠다. 휴대폰도 다 지웠다”고 했고, 이 경정은 “잘했어”라고 답했다.&lt;br&gt;&lt;br&gt;김 과장은 이 경정과 통화한 지 13분 만인 10시 36분, 자신의 정부세종청사 국토부 사무실로 가 컴퓨터에 저장됐던 이메일을 삭제했다. 또 김 과장은 사무실에서 문서를 갖고 나와 가방과 함께 배우자 사무실에 숨기고, 텔레그램도 탈퇴했다고 한다. 김건희 특검은 닷새 후인 2025년 10월 16일 김 과장 사무실과 주거지를 압수수색했다.&lt;br&gt;&lt;br&gt;2차 특검은 이 경정을 공무상 비밀 누설, 김건희특검법상 수사 방해 혐의로 지난 6일 불구속 기소했다. 이 경정은 김건희 특검 수사를 받던 김 과장과 통화한 사실이 처음 알려진 작년 12월 정보 업무에서 배제됐지만, 올 상반기에 마약범죄수사과 계장으로 발령받아 다시 수사 업무를 하고 있다. 경찰청 관계자는 “재판을 통해 드러나는 사실관계에 따라 이 경정에 대한 감찰 조사를 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;반면 특검의 이 경정 공소사실에 대해 김모 과장은 “이 경정에게 수사 상황을 알아봐 달라고 하지 않았고, 오히려 김건희 특검에서 확보하지 못했던 대통령직인수위 파견 당시 사용했던 컴퓨터를 직접 보내줬다”고 반박했다. &lt;br&gt;&lt;br&gt;김 과장은 본지 통화에서 “이 경정이 ‘특검이 뭐라도 만들어낼 것’이라는 말에 오히려 ‘양평 고속도로 종점 변경을 지시받지도, 지시하지도 않았는데 어떻게 거짓 진술을 하냐’고 답했을 뿐”이라고 했다. 이어 “김건희 특검이 (인수위 파견 근무를 했던 나를) 압수수색할 것이라는 예상은 앞서 만난 변호사를 통해서도 들었던 내용이고, 누구나 알 수 있었던 내용”이라고도 했다. &lt;br&gt;&lt;br&gt;김 과장은 배우자 사무실에 서류를 숨겼다는 특검 주장에 대해서도 “고속도로 종점 변경과 무관하다는 것을 입증하는 반박자료였고, 범죄와 관련돼 있었다면 파쇄하지 굳이 왜 옮겨놓겠냐”고 했다.&lt;br&gt;&lt;br&gt;이어 김 과장은 “김 서기관이나 용역업체도 지난 4월 22일 재판에서 제가 종점 변경을 지시하지 않았다고 진술한 바 있다”고 했다.&lt;br&gt;&lt;br&gt;김 과장은 김건희 특검과 2차 종합특검에서 모두 기소 대상에서 제외됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김부돌 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/08/22/NSAXTDT7FVAKTH25OHQAW2OEBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/22/NSAXTDT7FVAKTH25OHQAW2OEBU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 03:27:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김부돌&lt;/b&gt; 별세, &lt;b&gt;유진선&lt;/b&gt; 학교법인 중암학원 이사장·&lt;b&gt;유윤선&lt;/b&gt; 대경대 지역사회대학장 모친상, &lt;b&gt;이채영&lt;/b&gt; 대경대 총장 시모상=22일 대구 수성구 모레아장례식장, 발인 25일 8시, (053)801-9999&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대통령 한마디에 해산하는 재외동포센터…직원들은 실직 불안</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/22/GGY6C3THW5F3PP36SJ3ISUFJ5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/22/GGY6C3THW5F3PP36SJ3ISUFJ5Q/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 03:20:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPHU5Q2KWRGK3EC7TY7HBNR354.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 9월 30일 재외동포협력센터가 문을 닫는다. 이 센터는 재외동포청 출범에 따라 2023년 설치된 공공기관이다. 재외 동포의 한인 정체성과 모국과의 유대감을 높이기 위한 연수·장학·문화·교류 사업 등을 맡아왔다. 그런데 정부가 3년 만에 센터를 해산하면서 고용 승계를 보장하지 않아 직원들이 난감해하고 있다.&lt;br&gt;&lt;br&gt;센터 해산 논의는 지난해 12월 이재명 대통령이 외교부 업무 보고에서 이 센터 운영의 효율성을 문제 삼으면서 본격화했다. 당시 이 대통령은 “센터를 별도 운영하는 것과 센터 직원들을 공무원으로 전환해 재외동포청 조직원으로 만드는 것을 비교했을 때 어느 쪽 비용이 더 드느냐”면서 “(센터를) 독립 기관으로 유지하는 게 비용이 더 들 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이후 더불어민주당은 센터 기능을 재외동포청이 흡수하는 내용을 담은 재외동포기본법 개정안을 발의해 지난 4월 국회에서 처리했다. 개정법은 10월 1일 시행된다.&lt;br&gt;&lt;br&gt;직장이 졸지에 문을 닫게 된 센터 직원들은 난감해하고 있다. 센터의 업무와 재산은 재외동포청이 승계한다. 하지만 센터 직원 36명이 동포청으로 자리를 옮기려면 이달 진행되는 국가공무원 경력 경쟁 채용 시험을 통과해야 한다. &lt;br&gt;&lt;br&gt;하지만 센터 직원이 아닌 사람도 응시할 수 있어 센터 직원이 전부 합격한다는 보장이 없다. 일부 직원은 경력 등 응시 요건을 충족하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정부는 공공기관 직원을 별도 경쟁 없이 공무원으로 전환하면 다른 지원자와의 형평성 문제가 생길 수 있어 무조건 고용 승계는 어렵다는 입장이다. &lt;br&gt;&lt;br&gt;센터의 전신인 재외동포재단이 2023년 해산할 때는 관련법 부칙에 직원 고용 승계 조항을 규정했다. 그런데 이번 센터 해산 때는 고용 승계와 관련한 조항이 마련되지 않았다. &lt;br&gt;&lt;br&gt;재외동포청은 경력 채용 시험에 탈락하는 센터 직원에게는 민간 취업을 알선하는 방안 등을 제시했다고 한다. 하지만 센터 직원들 사이에선 “민간 단체로 이직할 경우 공무직처럼 정년이 보장될지 불확실하다”는 불만이 나온다. &lt;br&gt;&lt;br&gt;센터 직원들은 고용 불안에 떨고 있다. 협력센터가 안철수 국민의힘 의원실에 제출한 직원 현황을 보면, 센터 해산이 확정된 지난 5월 이후 3급·5급 직원 2명이 센터에서 자진 퇴사했다. 육아휴직 중이던 직원 4명은 조기 복귀했고, 한 직원은 신청했던 육아휴직을 철회했다.&lt;br&gt;&lt;br&gt;안 의원은 “업무와 재산은 국가가 그대로 승계하면서 정작 그 일을 해온 직원들에게는 다시 시험을 보고, 떨어지면 취업을 알선해주겠다는 것은 무책임한 조직 개편”이라며 “국가가 필요해 기관을 없애는 것이라면 그 과정에서 발생하는 고용 불안까지 책임지는 것이 마땅하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘강도 잡은 한양대 훈남’ 배우 장동윤, 15년 만에 졸업</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/20/I2JZQ5SQVJGSPEAZQHKNWVUCH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/20/I2JZQ5SQVJGSPEAZQHKNWVUCH4/</guid>
+      <dc:creator>양인성 기자, 원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Aug 2026 03:15:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5ISL7H63RHXLEP32JGNN72YZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2015년 뉴스 출연 당시 배우 장동윤의 모습. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 장동윤(34)이 학사모를 쓴다. 20일 한양대학교 서울캠퍼스 올림픽체육관에서 2025학년도 후기 학위 수여식이 열릴 예정이다.&lt;br&gt;&lt;br&gt;이날 오후 2시 학위 수여식을 앞두고 장동윤이 나온 경제금융대학 앞에는 학생회 후배들이 준비한 플래카드가 붙었다. 플래카드에는 “한양대 경금 빛나는 미모 장동윤 축 졸업, 또 다른 시작을 응원합니다”라는 문구가 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHNCWOHJR5ALBBI4X4I3RMUSPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 12시 한양대 경제금융대학 학생회 학생들이 만든 배우 장동윤 축하 플래카드. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한양대 경제금융학부 11학번인 장동윤은 3학년에 재학 중이던 지난 2015년 서울 관악구의 한 편의점에서 강도를 잡아 뉴스에 나온 것을 계기로 이듬해 데뷔했다.&lt;br&gt;&lt;br&gt;사건 당시 장동윤은 강도가 흉기를 들고 점원을 위협하자 친구와 통화하는 척하며 112에 신고했다. 또 편의점을 떠나는 강도를 끝까지 뒤쫓아 경찰의 검거를 도왔다. 이후 SBS 8시 뉴스에 출연한 장동윤은 ‘강도 잡은 한양대 훈남’으로 화제를 모았다. 장동윤은 이 사건으로 서울 관악경찰서장으로부터 감사 표창을, 한양대에서도 한양 에토스 상을 받았다.&lt;br&gt;&lt;br&gt;장동윤은 2018년 tvN ‘미스터 션샤인’ 학도병 이준영 역으로 이름을 알렸고, 2019년에는 KBS ‘조선로코 녹두전’ 전녹두 역으로 주연으로 올라섰다. 지난해에는 SBS ‘사마귀: 살인자의 외출’에서 형사 차수열 역을 맡아 열연을 펼친 끝에 그해 SBS 연기대상에서 장르·액션 부문 우수연기상을 탔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GUYLTC5ATZBQZGAEFH4IBFA7RM.jpg?auth=e0186fcd678b2254a087ca9f90126867c4e2c071ee039fb875eb0711d2a388e2&amp;smart=true&amp;width=600&amp;height=405" type="image/jpeg" height="405" width="600">
+        <media:description type="plain">2015년 뉴스 출연 당시 배우 장동윤의 모습. /SBS</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>처서 마법은 없다, 주말 무더위 계속</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/22/6QAO2H3IWJE4PP4UGSJQ3OW67E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/22/6QAO2H3IWJE4PP4UGSJQ3OW67E/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 00:37:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTAMDBMM2TGZDEGQ3DKYZQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더위에 한 아이가 분수대에서 물을 맞고 있는 모습/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 22일, 절기상 처서(處暑)인 23일에도 꿉꿉하고 무더운 날씨가 이어지겠다. 북태평양고기압의 영향으로 덥고 습한 공기가 한반도로 유입된 데 따른 것이다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 22일 낮 최고 기온은 28~34도를 기록하겠다. 서울이 낮 최고 30도, 대전이 32도, 광주 34도, 대구 32도, 부산이 34도로 예보됐다. &lt;br&gt;&lt;br&gt;중부 지방은 오전부터 대체로 흐리고 곳곳에 비가 오는 곳이 있겠다. 오후와 저녁엔 전남권과 경남권, 제주도, 경기북동부내륙과 강원내륙 산지에 비가 내릴 것으로 전망된다. 예상 강수량은 5~60mm다.&lt;br&gt;&lt;br&gt;처서인 23일의 아침 최저기온은 22~26도, 낮 최고기온은 30~35도로 예보됐다. 충청권과 남부지방, 제주도를 중심으로 폭염특보가 내려진 가운데 전국 대부분 지역에서 최고 체감온도가 33도 안팎으로 오르고, 남부지방은 35도 안팎을 기록하는 곳도 있겠다. 기상청은 밤사이 기온이 25도 밑으로 떨어지지 않아 열대야가 나타나는 지역이 있겠으니 건강관리에 유의해달라고 당부했다.&lt;br&gt;&lt;br&gt;제18호 태풍 ‘사우델’(SAUDEL)은 22일 오전 3시 현재 괌 북동쪽 약 500㎞ 부근 해상에서 북북서 방향으로 이동하고 있다. 27일에는 일본 오키나와에서 약 130㎞ 부근 해상에 위치할 것으로 예상된다. 현재 대로라면 한반도를 향하진 않지만, 오키나와에 접근한 뒤 진로가 바뀔 가능성도 있어 예단은 어렵다는 분석이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#오딧세이고전의힘#파묘에빠진사회</title>
       <link>https://www.chosun.com/national/weekend/2026/08/22/QCR6Q6AUBVEBJCMKRKTRDW745A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/08/22/QCR6Q6AUBVEBJCMKRKTRDW745A/</guid>
@@ -838,15 +886,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQP5SRYK2JDXLMXIKWOXWMKMUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 덜 마르다, 완전히 마르지 않다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/08/21/7V5CDXIOUBHAVJLXBK6TADHYQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/08/21/7V5CDXIOUBHAVJLXBK6TADHYQM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSPRHPJXO5HH7CHZQHWIVR3WZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[스피킹이 강해지는 영어] pay lip service to ~</title>
       <link>https://www.chosun.com/national/nie/english/2026/08/21/S46XZWOB2FCAXMUVEAPE6QSKRQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/08/21/S46XZWOB2FCAXMUVEAPE6QSKRQ/</guid>
@@ -856,15 +895,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKUD6TITMZAGVJV5WLE55L23TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 속을 비우다, 음식을 먹지 않다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/08/21/4RVUORVZEZGWTGLBO7BA36L3ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/08/21/4RVUORVZEZGWTGLBO7BA36L3ZM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YANBEH336NEQDI4S7AWZQTJMJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2932] 쿵작쿵작 장단치기</title>
       <link>https://www.chosun.com/national/nie/2026/08/21/6DNVXZAWSNEVFKCF5LCW4ESBR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/08/21/6DNVXZAWSNEVFKCF5LCW4ESBR4/</guid>
@@ -872,15 +902,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOSUAAKVTNBH3AUIIBBY4T4VEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 영남루(嶺南樓)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/08/21/5QYL6VLRTRHY7BVP6TAUPIIQDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/08/21/5QYL6VLRTRHY7BVP6TAUPIIQDQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQTDKBW3GRG6NP7FFCG4V55GJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>중수청에 임은정 지검장 지원... 수사관 정원 82.6% 채워</title>
@@ -914,16 +935,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFOBZVCMLFFZLNRSYEUVL2QI7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주에서 지난 5월 실종된 장미란씨 인상착의 전단지. /장미란씨 가족&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한성숙 국무총리가 제주에서 일어난 30대 여성 장기 실종 사건과 관련해 20일 경찰에 “실종자 수색에 최선을 다하고, 실종자 가족에 대한 2차 가해 행위에 엄정 대응하라”고 지시했다. 총리가 성인 실종 사건에 대해 관계 기관에 구체적으로 지시를 내리는 것은 이례적이다.&lt;br&gt;&lt;br&gt;국무총리실에 따르면, 한 총리는 이날 오전 장미란(37)씨 실종 사건과 관련해 실종자 가족에게 장난 전화가 걸려오고 있다는 보도를 접하고 이같이 지시했다. 한 총리는 “애타는 마음으로 (실종된) 가족을 찾고 있는 피해 가족에게 장난 전화를 걸거나 가짜 뉴스를 유포하는 등의 행위는 결코 용납될 수 없다”며 “이러한 2차 가해 행위에 대해 법과 원칙에 따라 엄정히 대응하라”고 했다.&lt;br&gt;&lt;br&gt;제주 한림읍에 사는 장씨는 지난 5월 12일 늦은 오후에서 13일 새벽 사이에 집을 나선 뒤 실종됐다. 가족은 지난 5월 15일 장씨가 귀가하지 않는다며 경찰에 신고했지만, 당시 근무자였던 A 경장은 “신고 대상자와 연락이 닿았다”는 취지로 상관에게 보고하고, 신고 접수 당일에 사건을 종결 처리했다. 그러나 장씨는 돌아오지 않았고, 장씨 휴대전화는 5월 16일 꺼졌다.&lt;br&gt;&lt;br&gt;장씨 가족은 지난 7월 19일 경찰에 다시 신고했고, 경찰이 뒤늦게 재수사에 돌입했으나 시간이 2개월 이상 지나 방범 카메라(CCTV) 영상 등이 모두 삭제된 뒤였다. 경찰이 장씨 휴대전화의 통화 기록을 조회해 보니 A 경장이나 그가 근무했던 경찰서와 통화한 기록은 나오지 않았고, 경찰은 A 경장을 직무 유기 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>의족에 의지한 채 90만6969보… ‘왼발박사’ DMZ 510㎞ 도보횡단</title>
-      <link>https://www.chosun.com/national/2026/08/20/UCCECHBUKFAJRF5QSCY4XVW4MA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/20/UCCECHBUKFAJRF5QSCY4XVW4MA/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 10:38:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMV5PSKIRZHFBCYGPOHXNO2TUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 중증장애인이 DMZ 510km를 걸어서 완주했다. 강원도 고성에서 인천 강화까지 이어지는 DMZ 도보횡단한 주인공은 양팔이 없고 오른쪽 다리마저 의족을 착용한 ‘왼발박사’ 이범식(61) 한국장애인IT복지협회장이다.&lt;br&gt;&lt;br&gt;강원도 고성에서 인천 강화까지 그가 한발 한발 내디딘 걸음은 모두 90만6969보였다.&lt;br&gt;&lt;br&gt;이씨와 DMZ 희망길 도보단은 지난달 15일 강원도 고성을 출발해 DMZ 접경지역을 따라 걷고 또 걸었다. 폭염과 장대비가 번갈아 이어졌고, 의족을 착용한 부위에는 통증과 상처가 반복됐다. 그런 길을 매일 한걸음씩 계속 이어가 결국 한 달 만인 지난 15일 인천 강화에 도착한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZKVJORC5ZCBZIEISULSFJDUXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 이범식씨가 DMZ 평화기원 도보횡단 차 경기도 김포 문수산성 인근에서 잠시 쉬고 있다. /DMZ평화기원 도보단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 고성에서 출발 전 동해 바닷물을 생수병에 담아 배낭에 넣었다. 강화에 도착하면 서해 바닷물과 합치기 위해서다. 그가 이번에 DMZ 접경지역을 택한 것도 분단과 갈등의 현장을 직접 걸으며 끊어진 길을 다시 잇고, 평화에 대한 염원 때문이다. &lt;br&gt;&lt;br&gt;이씨는 “고성의 동해와 강화의 서해는 멀리 떨어져 있지만 결국 하나로 연결된 바다”라며 “그런 의미에서 분단의 길도 언젠가는 평화의 길로 이어졌으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;DMZ 희망길을 직접 걸은 것은 이씨였지만 이씨의 아내 김봉덕(60)씨도 함께 걸으며 힘을 보탰다. 최성덕 DMZ 희망길 도보단장을 비롯해 회원들도 차량 운행과 현장 지원을 맡았다.&lt;br&gt;&lt;br&gt;강화평화전망대에서 진행된 완주식에는 황명석 경북도 행정부지사와 김건우 경북도 장애인복지과장, 이성섭 강화군 문화복지국장, 김광식 한국관광공사 지역개발기획팀장 등이 참석해 이씨를 격려했다. 동해 바닷물과 서해 바닷물을 합치는 행사도 열렸다. &lt;br&gt;&lt;br&gt;이씨는 지난해 7월 APEC 정상회의 성공 개최를 기원하며 광주광역시에서 경북 경주까지 약 400km를 걸었다. 당시 동서 화합 ‘연결’ 의미였다면, 이번에는 DMZ 평화의 길에서 평화와 희망의 메시지를 이어간 것이다. &lt;br&gt;&lt;br&gt;이씨는 22세 때 전기공으로 일하다 고압 전기에 감전돼 양팔과 오른쪽 다리를 잃었다. 오른쪽 다리는 의족을 착용해야만 걸을 수 있다. 그가 47세 되던 해인 2011년, 경북 경산에 있는 대구대학교에 입학한 뒤 이학 박사학위를 땄다. 전공은 ‘장애인 직업재활’이다. 사지 중에 온전한 건 왼쪽 다리뿐이라서 많은 이들이 그를 ‘왼발박사’로 부른다. &lt;br&gt;&lt;br&gt;이범식씨는 “중증 장애를 앓더라도 끝없는 도전 시도는 누군가에게 다시 살아갈 이유와 큰 용기가 되는 계기가 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GGQNC7PHLFBOZIZC2BEDHIVXXA.jpg?auth=32a2c7aeb0e23a910fb9c4e6be4ebc8294a0df98ccc99b3eec74eeb4eea78e90&amp;smart=true&amp;width=4781&amp;height=2690" type="image/jpeg" height="2690" width="4781"/>
-    </item>
-    <item>
       <title>‘닥터나우 방지법’ 국회 통과... 정부는 “약배송 전면 확대”</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/08/20/X35JLK5U6BDY5FKWSKRWFU2LPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/20/X35JLK5U6BDY5FKWSKRWFU2LPU/</guid>
@@ -949,18 +960,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 09:05:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YHADNXO6RBP3CK2NE7V622GU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장이 지난달 16일 서울중앙지법에서 구속 전 피의자심문(영장실질심사)을 마치고 법원을 나서고 있다.  /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 20일 심우정 전 검찰총장과 전무곤 전 대검찰청 기획조정부장을 내란 중요 임무 종사·직권남용 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;심 전 총장 등은 2024년 12월 3일 윤석열 전 대통령이 비상계엄을 선포한 후 박성재 당시 법무장관의 지시에 따라 계엄사령부 합동수사본부에 검사 파견을 검토한 혐의를 받는다. 특검은 또 심 전 총장 등이 비상계엄 체제에서의 수사·재판 관할에 대한 문건을 작성하도록 지시한 것도 내란 가담 행위라고 봤다. 심 전 총장은 작년 3월 법원이 윤 전 대통령의 구속을 취소하자 검찰 비상계엄 특별수사본부(특수본)에 즉시항고를 포기하도록 한 혐의도 받는다.&lt;br&gt;&lt;br&gt;앞서 내란 특검(특별검사 조은석)도 지난해 심 전 총장의 비상계엄 관여 혐의를 수사했지만, 그를 기소하지 않았다. 그런데 내란 특검에서 사건을 넘겨받은 2차 특검은 약 3개월간 수사한 뒤 지난달 13일 심 전 총장과 전 전 부장의 구속영장을 청구했다. 그러나 법원은 “증거 인멸 우려에 대한 소명이 부족하다”며 기각했다. 그러자 특검은 지난 6일 추가 증거를 확보하겠다며 대검을 다시 압수수색하기도 했다.&lt;br&gt;&lt;br&gt;2차 특검은 이와 별도로 심 전 총장이 2024년 10월 서울중앙지검이 김 여사의 도이치모터스 주가조작 의혹을 무혐의 처분하는 과정에서 외압을 행사하고 수사 무마를 지시했다는 혐의(직권남용)도 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘연락 닿았다고 하더니…‘ 제주 실종 여성, 경찰관 통화 기록 없다</title>
-      <link>https://www.chosun.com/national/regional/2026/08/20/KRF2NKCPFZG4PLYZRHOBHPTZOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/20/KRF2NKCPFZG4PLYZRHOBHPTZOI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 05:06:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43GMN3DGNTDMNBSGQ2GEY3DMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 12일 제주시 한림읍에서 실종된 장미란 씨./장미란씨 가족&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 발생한 30대 여성 장기 실종 사건과 관련, 사건 접수 경찰관이 애초부터 실종 여성의 안전 확인 없이 허위로 자체 종결했을 가능성이 커졌다.&lt;br&gt;&lt;br&gt;20일 제주경찰청에 따르면 실종된 장미란(37)씨의 통신 기록 조회 결과, 지난 5월 최초 실종 신고를 받은 A 경장과 장씨가 통화했던 기록이 없는 것으로 확인됐다. 또 해당 경찰관이 근무한 경찰서의 자체 조사에서도 A 경장과 장씨의 통화 기록은 발견되지 않았다.&lt;br&gt;&lt;br&gt;장씨의 휴대전화는 지난 5월 12일 밤 장씨가 집을 나선 후 이틀 뒤 실종 신고가 이뤄진 5월 15일까지 켜져 있었지만, 5월 16일 오전 시간대부터는 꺼졌다.&lt;br&gt;&lt;br&gt;그런데도 A 경장은 경찰에 “신고 대상자와 연락이 닿아 사건을 종결 처리했다”고 주장하고 있다. A 경장은 또 “장씨가 자신의 위치를 남자친구에게 알려주지 말라고 했다”고 경찰에 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A 경장을 직무유기 혐의로 입건해 통화 여부 등의 진위를 밝히고 있다. 경찰은 또 A 경장이 지난 5월 진행한 이 사건의 종결 처리 절차도 들여다보고 있다.&lt;br&gt;&lt;br&gt;현행 실종 사건 처리 시스템에는 상부의 이중 확인 절차가 없어서 A 경장이 혼자 판단하고 종결 처리할 수 있기 때문이다.&lt;br&gt;&lt;br&gt;범죄 피해 위험도가 높은 성인 여성의 경우, 대면을 통한 안전 확인이나 위험도를 체크하는 실종자 프로파일링 시스템에도 관련 사항을 입력해야 하지만 A 경장은 이를 하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;장씨 가족 측은 A 경장 등 경찰의 이 같은 무성의한 조치로 인해 장씨 실종 사건이 장기화됐다고 주장했다.&lt;br&gt;&lt;br&gt;장씨 가족 측은 “지난 5월 경찰의 설명을 듣고 장씨가 무사하고 개인적인 일로 혼자 생각을 정리할 시간이 필요한 것이라고 여겨 안심하고 있었는데 3개월이 지난 현재까지 실종 상태”라고 했다.&lt;br&gt;&lt;br&gt;두 달 넘게 장씨와 연락이 닿지 않자 친척 동생이 지난달 19일 장씨의 실종 신고를 다시 해서 뒤늦게 재수사에 돌입하게 됐다. 하지만 시간이 2개월 이상 지나 장씨의 이동 동선을 확인할 수 있는 주변 방범카메라(CCTV) 영상 기록 등이 모두 삭제된 후였다.&lt;br&gt;&lt;br&gt;현재까지 장씨가 신용카드를 사용했거나 휴대전화 기록, 병원 이력 등 확인된 생활반응은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 뒤늦게 해경 등과 함께 이날부터 헬기와 드론, 체취 증거견, 잠수부, 경비정, 연안 구조정 등을 동원해 장씨의 휴대전화 위치가 최종적으로 잡힌 제주 한림항 주변에서 집중 수색을 전개할 예정이다.&lt;br&gt;&lt;br&gt;실종 당시 장씨는 긴 생머리에 키가 158㎝(추정)로, 실종 당시 운동복 차림에 슬리퍼를 신고 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GAUQFLG4UZDI5JHSC26SPJGDVI.jpg?auth=3a6383141fcdd4f84b9e8166ec581b9a4f127c919cd50944431d86741b7cddf1&amp;smart=true&amp;width=764&amp;height=430" type="image/jpeg" height="430" width="764">
-        <media:description type="plain">제주에서 지난 5월 실종된 장미란씨 인상착의 전단지./장미란씨 가족</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
