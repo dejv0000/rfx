@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 실종 담당 경찰관 긴급 체포... 또다른 ‘허위 종결’ 사건 있었다</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/22/NFCVL7PHOFFTTNZNIEQC7LDASA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/22/NFCVL7PHOFFTTNZNIEQC7LDASA/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 10:38:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2DKYTDGBSWGMLDMZQTOMZZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월12일 제주시 한림읍에서 실종된 장미란씨./인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 발생한 장미란(37)씨 실종 사건 등에 대한 ‘허위 종결’ 의혹을 받는 경찰관이 22일 경찰에 긴급 체포됐다.&lt;br&gt;&lt;br&gt;제주경찰청은 이날 오후 3시 29분쯤 제주시 모처에서 제주서부경찰서 소속인 A경장을 직무유기, 공전자기록 위작 및 동 행사, 위계공무집행방해 혐의로 긴급 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 A경장이 지난 7월 2일 해제 처리했던 다른 실종 사건 역시 허위로 종결된 사실을 확인한 것으로 전해진다. 장씨의 사례와 마찬가지다.&lt;br&gt;&lt;br&gt;앞서 경찰은 A경장이 그간 처리해 온 실종 사건 전체에 대해 재조사를 진행해왔다. 경찰이 전수조사에 나선 건 장씨 사건처럼 A경장이 허위 보고로 사건을 종결시킨 사례가 더 있을 수 있다는 우려가 나와서다.&lt;br&gt;&lt;br&gt;제주에서 실종된 장씨는 지난 5월 12일 한림읍에 있는 집을 나선 뒤 3개월 넘게 행방이 확인되지 않고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GCN3FMY2DINRTGBQWEZDGGY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;제주 장기 실종 여성 장미란씨 마지막 모습 CCTV. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A경장은 야간 당직 근무 중이던 지난 5월 15일 오후 6시 43분쯤 장씨에 대한 최초 실종 신고를 접수한 뒤 2시간 30분을 조금 넘긴 오후 9시 16분쯤 “장씨와 연락이 닿았다”는 내용을 112 처리 시스템에 입력해 사건을 종결시켰다. 그러나 장씨의 휴대전화 통신 기록 분석 결과, 집을 나온 이후 휴대전화 전원이 꺼질 때까지 A 경장을 비롯해 경찰과 통화한 기록은 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTIMTEMVRWGNTBMQ2TOOJYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실종신고 허위 종결 등 부실 대응 속에 3개월째 행방이 묘연한 장미란씨를 찾기 위해 지난 20일 제주시 한림읍 한림항에서 경찰이 집중 수색을 준비하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장씨 가족 측은 A 경장의 허위 종결로 장씨 실종 사건이 장기화됐다고 주장했다. 장씨 가족 측은 “지난 5월 경찰의 설명을 듣고 장씨가 아무 탈 없이 개인적인 일로 혼자 생각을 정리할 시간이 필요한 것이라고 여겨 안심하고 있었는데 3개월이 지난 현재까지 실종 상태”라고 했다.&lt;br&gt;&lt;br&gt;A경장은 112 신고 종결 처리를 하면서 장씨에 대한 경찰 내부 실종 프로파일링 시스템 자료도 삭제한 것으로 조사됐다. 실종 프로파일링 시스템은 실종 아동과 성인 가출인 등의 신고 및 발견 정보 등을 관리하고 수색을 지원하는 경찰 내부 정보 시스템이다. 실종자의 과거 신고, 발견 이력과 해제 사유, 조치 내용 등을 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7CPNM2L2OVHR3KE4HYUMQA5DWY.jpg?auth=5b4088fb0db3397122dca015ea52a80ff22120bd55e448e06205814a848009fa&amp;smart=true&amp;width=855&amp;height=481" type="image/jpeg" height="481" width="855">
+        <media:description type="plain">지난 5월12일 제주시 한림읍에서 실종된 장미란씨./인스타그램 캡처</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>워터파크 女탈의실에 가발 쓰고 들어가 몰카 찍은 20대</title>
+      <link>https://www.chosun.com/national/incident/2026/08/22/7CS5L264GZFNVBAESIGUAWBDYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/22/7CS5L264GZFNVBAESIGUAWBDYA/</guid>
+      <dc:creator>용인=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 10:53:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORRLLZ4T5JMYDIEM6WMWYTAK5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에버랜드의 워터파크 캐리비안 베이. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;워터파크 ‘캐리비안 베이’의 여자 탈의실에 가발을 쓰고 들어가 몰래 촬영한 혐의를 받는 20대 남성에 대해 경찰이 22일 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 경기 용인동부경찰서는 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영 및 성적 목적 다중 이용장소 침입) 혐의로 20대 남성 A씨를 전날(21일) 긴급체포해 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난달 두 차례에 걸쳐 경기 용인 캐리비안 베이 여자 탈의실에 들어가 휴대전화와 소형 촬영 장비 등으로 이용객들을 몰래 촬영한 혐의를 받는다. 당시 A씨는 가발을 착용하는 등 성별을 알아보기 어렵게 위장한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4TOZJXGE3WCM3CGUYWMYTGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인동부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 지난달 30일 오후 4시 40분쯤 모자와 마스크, 선글라스로 얼굴을 가리고 가발을 쓴 채 여자 탈의실을 배회하다가 수상함을 느낀 이용객과 직원의 제지를 받은 것으로 파악됐다. A씨는 당시 선글라스를 벗으면서 남성인 것이 밝혀졌는데, 그대로 달아났다. &lt;br&gt;&lt;br&gt;A씨의 동선을 추적해 온 경찰은 지난 21일 서울 소재 자택에서 그를 붙잡았다. A씨는 경찰 조사에서 “호기심에 혼자 보려고 그랬다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 범행 경위와 불법 촬영 규모, 유포 가능성 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충청 휩쓴 비바람…벼락 맞은 70대 중상</title>
+      <link>https://www.chosun.com/national/incident/2026/08/22/LA7KWDINMRDOVK7DKJBBMAKSCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/22/LA7KWDINMRDOVK7DKJBBMAKSCE/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 11:10:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYC6JSFJQRJFRN7U7UDSN32N6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 대전 서구 일대에 소나기가 내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 충청 지역에 천둥과 번개를 동반한 비바람이 이어지면서 곳곳에서 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;소방 등에 따르면 이날 오후 2시 48분쯤 충남 아산시 영인면 아산호 인근 도로에서 길을 걷던 70대 남성 A씨가 벼락을 맞으면서 쓰러졌다. 당시 주변에 있던 일행이 “낙뢰에 사람이 맞았다”고 119에 신고한 것으로 알려졌다. 현장에 출동한 소방은 A씨를 인근 병원으로 옮겼다. 당시 심정지 상태였던 A씨는 이송 중 맥박이 돌아온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 아산 일대에는 천둥과 번개가 치는 가운데 강한 소나기가 내리고 있었다.&lt;br&gt;&lt;br&gt;이날 오후 3시 36분쯤에는 충남 보령에서 신호등이 강풍에 넘어지는 사고가 났다. 또 공주, 당진, 아산 등에서는 ‘나무가 쓰러졌다’는 119 신고가 접수돼 소방 당국이 긴급 출동했다.&lt;br&gt;&lt;br&gt;충북 옥천군 옥천읍 옥천 요금소에서는 캐노피에 쌓여 있던 패널이 요금소 앞 도로 위로 떨어지는 사고가 났다. 당시 출구를 지나는 차량이 없어 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;당시 하이패스 확장 공사를 위해 쌓아둔 패널이 비바람에 휩쓸려 떨어진 것으로 알려졌다. 한국도로공사 등 당국은 출구를 통제한 뒤 패널을 모두 수거했다. 사고 당시 옥천 지역의 순간 최대 풍속은 초속 11.2m를 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제주 실종 가족 애타는데… 장난 문자 17차례 보낸 10대 검거</title>
       <link>https://www.chosun.com/national/national_general/2026/08/22/VWFVSIYEUJBJHNYRDWGFJFIWLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/22/VWFVSIYEUJBJHNYRDWGFJFIWLU/</guid>
@@ -774,33 +805,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FF2STYV4TRDKHL5OFGDSJ3QDCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박병규 전남광주시 광산구청장./전남광주시 광산구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주시 광산구는 최근 정부가 반도체 클러스터 조성 계획을 발표해 주목받는 곳이다. 인구는 38만명이다. KTX 광주송정역과 광주공항이 있어 전남광주의 관문 역할도 한다. 지난 6·3 광산구청장 선거에서 더불어민주당 후보로 출마해 재선에 성공한 박병규(60) 광산구청장은 20일 본지 인터뷰에서 “반도체 클러스터가 들어서면 전국의 청년들이 광산구로 몰려들 것”이라고 말했다.&lt;br&gt;&lt;br&gt;-반도체 지원단을 만들었다.&lt;br&gt;&lt;br&gt;“지난달 6일 정부가 광주공항 부지에 클러스터를 조성한다고 발표한 직후 ‘반도체 클러스터 조성 지원단’을 출범했다. 복잡한 인허가 절차가 사업의 발목을 잡아선 안 된다. 인허가를 전담할 패스트트랙 창구를 운영할 예정이다. 기업이 겪는 애로 사항을 정부나 전남광주시에 전달하고 해결책을 조율하는 가교 역할을 할 것이다.”&lt;br&gt;&lt;br&gt;-광산구는 어떻게 바뀌나.&lt;br&gt;&lt;br&gt;“반도체 클러스터가 조성되면 38만명인 광산구 인구가 15만명가량 늘어날 것으로 예상한다. 재산세, 주민세 등 지방세 수입도 연간 300억원 이상 늘어난다. 교육, 문화, 교통 등 여건을 개선해 전국에서 가장 젊고 살기 좋은 기초자치단체로 거듭날 것이다. 젊은 인구가 정착할 수 있도록 친환경 주거 단지를 짓고 반도체 마이스터고도 설립하려고 한다.”&lt;br&gt;&lt;br&gt;-반도체 입지로 적합한가.&lt;br&gt;&lt;br&gt;“광주공항 부지는 클러스터를 조성하기에 충분히 넓고 평평한 땅이다. 대부분 국공유지라 토지 보상에 수년씩 허비할 필요가 없다. KTX광주송정역이 바로 옆에 있고 고속도로 접근성도 좋아 물류와 인재 유치에 최적의 조건을 갖췄다고 생각한다.”&lt;br&gt;&lt;br&gt;-용수와 군부대 이전 문제도 있다.&lt;br&gt;&lt;br&gt;“지난달 전남광주가 통합해 용수 문제를 광역 차원에서 해결할 수 있는 길이 열렸다. 군부대 이전 문제 역시 국가적 차원의 지원을 받고 있어 문제가 없다고 생각한다.”&lt;br&gt;&lt;br&gt;-광산시 승격을 주장하는데.&lt;br&gt;&lt;br&gt;“전남광주시가 출범했기 때문에 광산구를 광산시로 승격할 때가 됐다고 생각한다. 광산구엔 38만명이 살지만 1년 예산은 1조161억원이다. 광산구보다 인구가 적은 순천시와 여수시는 1년 예산이 2조원에 육박한다. 시가 되면 도시계획을 수립하거나 조직을 운영할 권한도 커진다. 구 단위에서는 굵직한 도시 개발의 밑그림을 그리거나, 첨단 산업 전담 부서를 신설하는 데 한계가 있다.”&lt;br&gt;&lt;br&gt;-세수 문제가 핵심인가.&lt;br&gt;&lt;br&gt;“시로 승격하지 않으면 반도체 클러스터에서 나오는 막대한 법인지방소득세가 전남광주시로 들어가게 된다. 우리가 그 재원을 확보해야 교육, 문화, 교통 등 인프라에 재투자할 수 있다.”&lt;br&gt;&lt;br&gt;-어떻게 추진하나.&lt;br&gt;&lt;br&gt;“양부남(전남광주 서구을) 민주당 의원이 지난 10일 전남광주 통합 특별법 개정안을 대표 발의했다. 나를 포함해 옛 광주광역시의 다섯 구청장도 만나 뜻을 모았다. 구민들도 시 전환을 지지한다. ‘이제 광산의 몸집에 맞는 옷을 입어야 할 때’라는 목소리가 많다. 반도체 클러스터 사업이 성공하기 위해서도 필요하다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민방위 훈련은 이렇게…</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/21/Q237FCZYHVFZFD374AAOEBQ36Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/Q237FCZYHVFZFD374AAOEBQ36Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSX5X24UF5H5DN7JJLKCWOWRUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 부산 부산진구 롯데마트 부산점에서 ‘2026년 을지연습 연계 공습 대비 시범 대피 민방위 훈련’이 열렸다. 공습 경보가 울리자 마트 직원과 손님, 부산진구 직원 등 100여 명이 손으로 입과 코를 막고 대피하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불법 촬영물 사이트 개설만 해도 처벌</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/21/I4LICRNZ6JCSZL2WFD62I4XKJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/I4LICRNZ6JCSZL2WFD62I4XKJ4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRTQOBRHEZWCZTBG42DQMBXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 촬영 카메라. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 불법 촬영물을 직접 제작하지 않았더라도, 해당 촬영물이 유통된 사이트 운영자는 처벌받게 된다. 또 수사기관이 불법 촬영물 삭제를 위해 해당 사이트를 ‘해킹’하는 것도 가능해질 전망이다.&lt;br&gt;&lt;br&gt;성평등가족부와 경찰청, 방송미디어통신위원회는 20일 이 같은 내용의 ‘불법 사이트 통합 대응 방안’을 발표했다. 우선 정부는 성폭력처벌법을 개정해 불법 사이트를 개설하고 운영하는 행위를 별도 범죄로 규정한다는 방침이다. 도박을 한 사람뿐 아니라 도박장을 연 사람도 처벌받는 것처럼, 불법 촬영물 유통 사이트 운영자도 처벌하겠다는 취지다. 그간 직접 처벌 규정이 없어 방조범으로만 처벌할 수 있었고, 이 역시 사이트 운영자가 불법 촬영물 유통을 도왔다는 점을 입증해야 하는 등 처벌이 어려웠다. &lt;br&gt;&lt;br&gt;정부가 처벌을 강화하는 이유는 해당 범죄가 좀처럼 줄지 않고 있기 때문이다. 오히려 피해자 신고로 경찰 수사가 이뤄진 디지털 성범죄(불법 촬영물 제작·유포 등)는 2023년 2314건에서 2025년 4273건으로 늘었다. 정부의 ‘불법 촬영물 삭제’ 요청에도 이를 받아들이지 않은 비율 역시 2022년 24.4%에서 지난해 28.5%로 올라갔다고 한다.&lt;br&gt;&lt;br&gt;이에 정부는 수사 기관이 국내 불법 사이트에 대해선 직접 ‘해킹’해 단서를 수집하고 불법 촬영물 원본 데이터를 삭제할 수 있는 방안도 추진하기로 했다. 현재는 수사 목적이라도 해킹이 불법인데, 앞으로는 수사기관이 법원 영장을 발부받아 합법적으로 해킹을 할 수 있게 한다는 것이다. 또 불법 촬영물 삭제 요청을 반복적으로 불응하는 해외 사이트에 대해선 미국 연방거래위원회(FTC) 등 현지 규제 기관과 공조해 제재하는 방안을 검토하기로 했다. 불법 사이트의 99% 이상이 해외 서버를 이용해 국내 제재에 한계가 있었던 만큼, 현지 법령에 따른 민·형사상 책임을 묻겠다는 취지다. &lt;br&gt;&lt;br&gt;이와 함께 성평등가족부 장관이 기간통신사업자에게 직접 접속 차단을 요청할 수 있는 긴급 차단 제도를 마련하고, 차단 후 1~2시간 만에 인터넷 주소만 바꿔 해당 사이트를 다시 개설하는 행태를 막기 위해 이를 자동 탐지하는 시스템 등도 구축한다는 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“제주 실종여성과 연락”… 경찰 거짓말에 날아간 골든타임</title>
-      <link>https://www.chosun.com/national/regional/2026/08/21/SGF7MCDXT5C3XJ5XNCCOLPG3ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/21/SGF7MCDXT5C3XJ5XNCCOLPG3ZA/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4DMZBWMUZTENTFMUYDINLGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 제주도에서 실종된 장미란시를 찾는 전단. /장미란씨 가족.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 30대 여성이 3개월 넘게 가족과 연락이 끊겨 경찰이 수사에 나섰다. 실종 신고를 처음 접수한 경찰관은 이 여성과 연락이 닿는 것처럼 꾸며 사건을 종결했다는 혐의로 수사를 받고 있다.&lt;br&gt;&lt;br&gt;20일 제주경찰청에 따르면, 지난 5월 15일 오후 6시 30분쯤 장미란(37)씨와 연락이 닿지 않는다며 장씨와 동거하는 남자 친구가 경찰 112에 신고했다. 경찰은 곧바로 통신 조회를 해 장씨의 마지막 위치가 제주시 한림항 인근인 것을 확인했다. 이에 한림파출소 경찰관들이 출동해 현장 확인에 나섰다. &lt;br&gt;&lt;br&gt;하지만 112 실종 신고를 처음 접수한 제주서부서 실종수사팀 A 경장은 신고 2시간여 뒤인 오후 9시쯤 “실종자(장씨)와 연락이 됐다”는 취지로 112 처리 시스템에 입력하고 사건을 종결했다. 이에 따라 한림항을 중심으로 장씨를 찾던 한림파출소 경찰관들도 철수했다. &lt;br&gt;&lt;br&gt;그런데 장씨의 행방은 지금까지도 묘연하다. 이를 이상하게 여긴 장씨 친척이 지난달 19일 경찰에 다시 실종 신고를 했다. 이에 제주경찰청이 장씨 통신 기록을 조회한 결과 장씨와 연락이 됐다던 A 경장의 휴대전화나 경찰서 사무실 전화로 통화한 기록이 없는 것으로 확인됐다. A 경장이 사건을 종결하면서 이를 ‘실종아동 등 프로파일링시스템’에 입력하지 않은 사실도 드러났다.&lt;br&gt;&lt;br&gt;제주경찰청은 A 경장을 직무유기 혐의로 입건하고 장씨와 통화하지 않고도 왜 ‘연락이 닿았다’고 허위로 사건을 종결했는지 수사 중이다. &lt;br&gt;&lt;br&gt;A 경장은 “(5월 15일) 연락이 닿은 장씨가 자기 행방을 남자 친구에게 알려주지 말라고 했다”고 주장하는 것으로 알려졌다. 경찰은 A 경장의 이 주장도 거짓일 가능성을 의심한다. A 경장은 사건을 종결하기 전 상사에게 보고했다고 주장하고 있는데 경찰은 A 경장이 상사에 보고하지 않고 사건을 종결했을 가능성도 들여다보고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 장씨는 지난 5월 12일 오후 10시쯤 집을 나섰고 그의 휴대전화는 사흘 후인 5월 16일쯤 꺼졌다. 남자 친구가 경찰에 실종 신고한 5월 15일에는 장씨의 휴대전화가 켜져 있었던 것이다. 장씨가 실종된 후 지금까지 장씨가 휴대전화나 신용카드를 사용한 기록 등은 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 뒤늦게 해경과 함께 헬기와 드론, 잠수부 등을 동원해 한림항 주변을 집중 수색 중이다. 다만 실종 사건이 발생한 지 2개월 이상 지나 장씨의 동선을 확인할 수 있는 주변 방범 카메라(CCTV) 영상 등도 모두 삭제됐다. 실종 당시 장씨는 긴 생머리에 키 158㎝(추정) 정도의 마른 체형이었다고 한다. 운동복에 슬리퍼를 신고 금 팔찌를 하고 집을 나섰다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;장씨는 10년 전 제주도로 이사한 뒤 남자 친구와 함께 제주시 한림읍에 살았다고 한다.&lt;br&gt;&lt;br&gt;장씨 가족들은 “경찰이 사건을 자체 종결하는 바람에 3개월이 지난 지금까지 찾지 못하고 있다”며 분통을 터뜨렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 수사 정보 문의 엄격히 제한한다</title>
