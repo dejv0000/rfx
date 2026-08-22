@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>주차 차량서 기름 훔치고 번호판 조작한 70대, 징역 1년 실형</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/22/2INAFYPQYZERBPTB7USHY2LRTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/22/2INAFYPQYZERBPTB7USHY2LRTU/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 04:20:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TMMJVGU3WINBUMNQWGOBUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주차된 차량에서 몰래 기름을 빼내 달아나고, 경찰 추적을 피하기 위해 차량 번호판을 조작한 혐의를 받는 70대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면, 춘천지법 형사2단독 고범진 부장판사는 자동차 관리법 위반, 절도, 공기호부정사용, 부정사용공기호행사 혐의로 구속기소 된 A(76)씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 3∼10일 경북 문경, 강원 홍천 등에서 세 차례에 걸쳐 주차된 차량에 석유 주입기를 꽂아 경유 총 160L를 빼낸 뒤 훔친 혐의를 받는다. 당시는 미국-이란 전쟁의 여파로 유가가 치솟은 때였다.&lt;br&gt;&lt;br&gt;그는 이 같은 범행으로 지난 4월 초 경찰 출석 요구를 받았는데, 추적을 피하려고 자신의 차량 번호판에 적힌 숫자 ‘1’을 페인트로 ‘7’로 칠해 조작한 혐의도 받는다. 또 같은 달 중순 경남 거창에서 남의 차량에 붙어 있던 번호판을 공구로 떼어낸 뒤 훔쳐 달아난 혐의도 있다.&lt;br&gt;&lt;br&gt;고 부장판사는 “피고인은 여러 차례 형사처벌 받은 전력이 있음에도 또다시 이 사건 각 범행을 저질러 죄질이 나쁘다”며 “피해자들에 대한 피해 회복이 전혀 이뤄지지 않았고 피해자들로부터 용서받지도 못했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수원 광교서 출몰한 ‘대형 도마뱀’, 수색 11일 만에 포획</title>
+      <link>https://www.chosun.com/national/incident/2026/08/22/IBP5YVVD6VGSFKCIMYT3I2BN5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/22/IBP5YVVD6VGSFKCIMYT3I2BN5U/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 04:09:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTOYZSGU4WGYJXGVRTONJSHA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;광교에 나타난 대형도마뱀. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 경기 수원시 광교신도시의 한 아파트 단지에서 출몰했던 대형 도마뱀이 22일 당국에 포획됐다. 수색을 시작한지 11일 만이다.&lt;br&gt;&lt;br&gt;이날 수원시와 경기도소방재난본부 등에 따르면 이날 오전 10시 34분쯤 수원시 영통구 이의동 웰빙타운(광교신도시) 홍재도서관 인근 규장교 하천변에서 “도마뱀이 나타났다”는 신고가 접수됐다. 이후 “도마뱀이 사라졌다”는 신고가 곧이어 들어왔고, 11시 5분쯤 재출동 요청이 들어오자 소방이 다시 현장에 나갔다.&lt;br&gt;&lt;br&gt;이날 하천 제초 작업을 하던 인부가 수풀 속에 있는 도마뱀을 최초로 발견해 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 2대와 인력 7명을 투입해 도마뱀 포획 작전을 벌였다. 대원들은 뜰채를 들고 주변에서 대기하던 중, 도마뱀이 수풀 밖으로 나오자 포획한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3V4IWLE5JJ7TIL7NEAXG75UL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원 광교신도시 산책로 일대에 출몰해 주민들을 불안에 떨게 했던 도마뱀이 수색 11일 만인 22일 포획됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 관계자는 “오전 11시 37분쯤 도마뱀 포획을 완료한 후, 곧바로 수원시 관계자에게 도마뱀을 인계했다”고 밝혔다.&lt;br&gt;&lt;br&gt;포획 과정에서 다친 사람은 없었으며, 도마뱀 역시 외관상 특이 사항은 없었다고 한다.&lt;br&gt;&lt;br&gt;수원시는 포획한 도마뱀을 국립생물자원관에 보내 당초 실종된 것으로 알려진 ‘나일왕도마뱀’ 종이 맞는지 확인할 예정이다.&lt;br&gt;&lt;br&gt;지역 커뮤니티 등에 따르면, 이달 초 광교 웰빙타운 산책로에서 몸길이가 약 1m에 달하는 것으로 추정되는 도마뱀을 발견했다는 목격담이 잇따랐다. 촬영된 영상을 보면 이 도마뱀은 혀를 내밀고 두리번거리다가 수풀 속으로 사라진다.&lt;br&gt;&lt;br&gt;이후 수원시와 소방 당국 등이 지난 11일부터 도마뱀을 수색하기 시작하자, ‘도마뱀 주인’이라고 주장하는 남성 A씨가 나타나 “반려동물인 나일왕도마뱀을 한 달 전쯤 잃어버렸고, 이후 계속 동네를 찾아다녔다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPFF4IBPVFMTREP3OVUTWXFX6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방 당국에 붙잡힌 왕도마뱀. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나일왕도마뱀 성체는 1.5~2ｍ 길이로, 주로 낮에 활동하고 미약한 독성을 갖고 있다.&lt;br&gt;&lt;br&gt;나일왕도마뱀은 국제 멸종위기종 2급으로 등재돼 있어 입양 시 관할 지방환경청에 신고해야 한다. 이를 어기면 100만원 이하의 과태료에 처해질 수 있다. 다만 사육 시설에 대한 규제는 없어 애완용으로 인기가 많은 종인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편, 경찰은 A씨를 야생생물법 위반 혐의로 입건 전 조사(내사)해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘노상 방뇨 범칙금’ 불만 50대, 투신 소동 끝 구속영장</title>
+      <link>https://www.chosun.com/national/incident/2026/08/22/5GBD66PBPBCTFEO2ENW2EBYWDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/22/5GBD66PBPBCTFEO2ENW2EBYWDE/</guid>
+      <dc:creator>의정부=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Aug 2026 03:40:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKW6WRW3QJCS5GQ2SKZF2PNNKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 5시쯤 경기 의정부시의 한 오피스텔 옥상에서 투신 소동을 벌이던 남성./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 경기 의정부시의 한 아파트 옥상에서 투신 소동을 벌인 50대 남성에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;22일 경찰과 소방 당국 등에 따르면, 전날(21일) 오후 5시 8분쯤 의정부시 의정부동의 한 오피스텔 옥상에서 A씨가 투신하려 한다는 신고가 접수됐다. 당국은 현장에 인력 29명과 장비 11대를 투입하고, 건물 아래에 에어매트를 설치한 후 A씨의 투신을 말렸다.&lt;br&gt;&lt;br&gt;A씨는 상의를 벗은 상태로 옥상에서 경찰 등과 대치하는 등 소동을 벌이다가, 경찰의 설득 끝에 5시간 만인 오후 10시쯤 스스로 옥상 난간에서 내려왔다.&lt;br&gt;&lt;br&gt;이로 인해 주변 도로가 통제되는 등 퇴근길 차량 통행에 차질이 빚어졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 노상 방뇨로 범칙금을 부과받았는데, 이에 불만을 품고 소동을 벌인 것으로 파악됐다. 그는 112에 전화해 욕설을 하기도 했다. 당시 만취 상태였던 것으로 조사됐다. A씨는 과거에도 비슷한 투신 소동을 벌인 전력이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 위계에 의한 공무집행 방해 혐의를 적용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“텔레그램 탈퇴, 시그널 깔아라“… 특검 정보 털어 후배 도운 경찰</title>
       <link>https://www.chosun.com/national/court_law/2026/08/22/BLOQFCMLFBD4REVFBZ7YCSVNZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/22/BLOQFCMLFBD4REVFBZ7YCSVNZY/</guid>
@@ -714,16 +741,6 @@ Bayreuther Festspiele/Enrico Nawrath
       </media:content>
     </item>
     <item>
-      <title>[굿모닝 멤버십] 구글보다 25년 먼저… ‘괴물’로 불린 검색 엔진</title>
-      <link>https://www.chosun.com/national/2026/08/21/L5THKX4YUBFQFFXZIMXUQOYMTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/21/L5THKX4YUBFQFFXZIMXUQOYMTM/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
-      <content:encoded>📅1911년 8월 21일 월요일 아침, 프랑스 루브르 박물관 벽에 걸려 있던 ‘모나리자’가 감쪽같이 사라졌습니다. 2년 동안 전 세계 언론이 호들갑을 떨며 국제 범죄 조직의 거대한 음모를 의심했지만, 범인은 박물관 유리창을 갈아 끼우던 이탈리아인 기술공 빈센초 페루자였습니다. 나폴레옹이 빼앗아 간 조국의 명작을 되찾아오겠다는 비뚤어진 애국심 하나로, 작업 가운 품속에 그림을 훔쳐 나와 자신의 낡은 하숙집 옷장 바닥에 숨겨두었던 것이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONAZ7VPDRNPSRBD22K72XBA42A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;세르지오 마타렐라 이탈리아 대통령(왼쪽)과 에마뉘엘 마크롱 프랑스 대통령이 2023년 6월 7일 프랑스 파리 루브르 박물관에서 열린 '파리의 나폴리' 전시회를 방문해 레오나르도 다빈치의 '모나리자' 앞에서 그림들을 관람하고 있다. /로이터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;움베르토 에코는 소설 ‘푸코의 진자’에서 이렇게 말했습니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;📃 오늘 이 기사&lt;/b&gt;&lt;br&gt;&lt;br&gt;앞으로 15년 안에 지금보다 60% 이상 많은 전기를 써야 하는 대한민국, 과연 이 전력을 감당할 수 있을까요? 대형 원전 17기를 1년 내내 돌려야 하는 전력량이 불과 넉 달 새 국가 수요 전망에 추가됐습니다. 정부가 2040년 전력 소비량 전망치를 28%나 올려 잡았지만 정작 해법으로 내세운 재생에너지는 일조량과 바람에 따라 요동치며 초대형 송전망 건설마저 곳곳에서 차질을 빚고 있습니다.&lt;br&gt;&lt;br&gt;천년고찰 불국사를 둘러싼 소나무 숲이 붉게 말라 죽어가고 있습니다. 한 번 걸리면 100% 고사하는 ‘소나무 에이즈’ 재선충병이 수도권과 문화재 보존 지역까지 급격히 침투했기 때문입니다. 올 들어 소나무 재선충 감염목은 177만 그루로 2배 가까이 폭증했습니다. 정부가 38년간 1조 9000억 원을 쏟아붓고도 방제에 실패한 원인은 무엇일까요. 뒤늦게 활엽수로 수종을 교체하겠다고 나선 산림청의 방제 체질 개선안과 숲을 지키기 위한 ‘선택과 집중’ 전략을 들여다봤습니다.&lt;br&gt;&lt;br&gt;수도권 일극 체제 극복을 내걸고 출범한 광주·전남 행정통합이 불과 두 달 만에 ‘근조화환’ 도열로 얼룩졌습니다. 3조 5000억 원에 달하는 지하철 빚을 메우려 ‘정부 지원금 20조 원’을 바라고 속전속결 통합을 추진했지만, 조직 비대화와 공무원 노조의 대립, 지지율 폭락 속에서 주민들 분통만 터지고 있는 겁니다. 준비 없는 통합의 혹독한 대가일까요. 지방소멸 위기 속에서 길을 잃은 광주·전남 행정통합의 현주소를 보여줍니다.&lt;br&gt;&lt;br&gt;💻 방대한 지식 속에서 원하는 정보를 단숨에 찾아내는 검색의 역사는 록히드의 한 천재 과학자로부터 시작되었습니다. 로저 서밋은 컴퓨터가 단순한 계산기이던 시절, 기계와 인간이 묻고 답하며 생각을 좁혀가는 세계 최초의 온라인 검색 시스템 ‘다이얼로그’를 완성했습니다. NASA에서 14시간 걸리던 작업을 단 몇 분 만에 끝내며 세상을 경악시켰던 이 혁신. 과연 어떻게 오늘날 생성형 AI의 모태가 되었을까요. 일상을 완전히 바꿔놓은 검색 혁명의 출발점을 본문에서 직접 만나보세요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEZA6Z5CKNDMTLJBMYBXLP4OY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;📻 1953년 6월, 휴전 협정이 막바지에 이르자 이승만 대통령은 미국과 유엔군의 뜻을 거스르고 판세를 뒤흔들 거대한 결단을 내립니다. 육군참모총장 백선엽조차 눈치채지 못하게 별도의 ‘헌병 총사령부’를 극비리에 창설하고, 원용덕 장군에게 전격적인 명령을 하달한 것이죠. 칠흑 같은 어둠 속에서 수용소 철조망과 전기를 끊으며 감행된 이 역사적 결단은 과연 어떤 치밀한 계산과 막후 수 싸움 끝에 실행되었을까요. 백선엽 장군의 생전 회고를 통해 대한민국 운명을 바꾼 세기의 승부수를 확인해보세요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZULMNS32P5HGJKU4BTNCITNMHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;휴전협상을 통해 1954년 1월 파주 판문점 인근에서 풀려나 자유의 품으로 안기는 반공 포로 환영 모습. /미 국립 문서기록보관청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;🌸 한 폭의 수묵화처럼 펼쳐진 연못과 단정한 잔디마당 덕분에 전국적인 ‘사진 성지’로 떠오른 경남 산청의 수선사는 방문객마다 비구니 사찰로 오해하곤 합니다. 하지만 이곳은 주지 여경 스님이 30여 년 전 버려진 다랑이논을 홀로 일구며 ‘삽을 들기 전 1만 번을 고뇌한 끝에’ 완성해낸 기적 같은 공간이죠. 돌 하나와 나무 한 그루마다 깊은 사연을 품게 된 이 특별한 도량에는 과연 어떤 땀방울과 철학이 숨어 있을까요. 지친 마음에 맑은 쉼표를 찍어줄 수선사의 정갈한 풍경 속으로 지금 떠나보세요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NK5EX3M2BVBH5D6MHBZC4ZNAN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
-    </item>
-    <item>
       <title>日, 보전할 소나무림 골라 방제 집중… 유럽은 매개충 움직임부터 감시</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/21/SMM6GMNAMZBX7IIGYH47ISS2U4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/21/SMM6GMNAMZBX7IIGYH47ISS2U4/</guid>
@@ -740,15 +757,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 15:45:00 +0000</pubDate>
       <content:encoded>소나무 재선충병에 걸린 나무를 베어내지 않고 살리는 이른바 ‘재선충 치료용 백신’도 연구되고 있다.&lt;b&gt; &lt;/b&gt;재선충을 죽이는 천적 곰팡이를 나무에 주입하는 생물학적 방제 방식이다. &lt;br&gt;&lt;br&gt;20일 국립공원공단 산하 국립공원연구원 보고서에 따르면, 2020년부터 2023년까지 경남 거제 화도의 재선충 피해 소나무림에서 진행한 천적 곰팡이 ‘에스테야 베르미콜라’를 이용한 백신 실험에서 감염목 일부가 생존에 성공한 것으로 나타났다. 연구원 측은 “이 곰팡이는 소나무 내부에서 재선충에 달라붙어 몸속으로 침투한 뒤 재선충을 죽이는 천적 역할을 한다”며 “감염목의 생존율을 높일 수 있도록 백신을 고도화하는 단계”라고 했다. 연구진은 재선충이 집단 발생한 지역에서 천적 곰팡이를 주사로 투입한 소나무와 그렇지 않은 소나무를 비교했다. 해당 실험에선 백신 주사를 맞은 소나무 가운데 약 78%에서 회복 효과가 나타난 것으로 보고됐다. 비슷한 효과는 다른 연구에서도 확인됐다. 2018년 충남대 성창근 교수 연구팀이 경남 진주 월아산 소나무에 천적 곰팡이를 주입한 뒤 재선충을 감염시키고 이후 6년간 추적 관찰한 결과, 아무런 처리를 하지 않은 소나무는 첫해 모두 고사한 반면, 천적 곰팡이를 주입한 소나무는 접종 시기에 따라 최대 50%가 6년 뒤까지 살아남았다.&lt;br&gt;&lt;br&gt;지금까지 소나무 재선충병을 막는 방법으론 재선충을 죽이거나 증식을 억제하는 약제를 나무줄기(수간)에 주입하는 ‘예방주사’가 유일했다. 한 번 접종하면 3년 정도 예방이 되지만, 반복 시술하면 나무가 손상되고 약효가 떨어지는 문제가 있었다. 반면 ‘치료용 백신’은 한 번 천적 곰팡이를 주입하면 나무 안에서 계속 생존하면서 재선충을 막고, 감염된 나무를 베어낼 필요 없이 다시 살릴 수 있다는 장점이 있다.&lt;br&gt;&lt;br&gt;거제 백신 실험에 참여했던 윤상갑 부산산림기술사무소 산림기술사는 “재선충을 완전히 없애는 데만 집중하기보다 감염된 나무를 살리고 전체적인 병해충의 밀도와 피해 강도를 낮추는 방향으로 방제 방식을 바꿔야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천항 내항, K팝 공연장 품은 ‘오션 파크’ 변신</title>
-      <link>https://www.chosun.com/national/regional/2026/08/21/BMGREUUTSBHGFKKEYR5FLZPA2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/21/BMGREUUTSBHGFKKEYR5FLZPA2A/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VK773EYR3NBUFKZPTBJHWUJ6YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천항 내항 재개발 사업 조감도./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권의 수출입 전진기지였던 인천항 내항이 K팝 공연장과 러닝 코스 등을 갖춘 해양 문화 도시로 바뀐다. 해양수산부는 20일 ‘인천항 내항 1·8부두 재개발 사업’ 실시계획을 승인했다고 밝혔다. 인천시는 “올 연말 기반시설 공사를 시작한다”고 했다. &lt;br&gt;&lt;br&gt;인천항 내항은 인천 제물포구에 있는 항만이다. 일제강점기 때 갑문을 설치해 조성됐다. 1974년 국내 첫 컨테이너부두로 재개장했다. 198만㎡ 규모로 총 8개 부두가 있다. 이 중 1·8부두를 우선 재개발하는 것이다.&lt;br&gt;&lt;br&gt;인천에 신항, 북항 등이 새로 조성되면서 역할이 줄어든 데다 소음·분진 등 민원도 많이 제기됐다. 보안 구역이라 구도심 활성화에 걸림돌이 된다는 지적도 받았다. 2012년 정부가 1·8부두를 항만 재개발 대상에 포함했고 이번에 실시계획이 심의를 통과했다.&lt;br&gt;&lt;br&gt;인천시는 1·8부두 부지(43만6690㎡) 3분의 1에 수변 공원을 조성할 계획이다. 공원 면적은 16만㎡로 축구장 22개 크기다. 나머지 부지에는 2만석 규모의 K팝 공연장과 쇼핑몰, 주상복합 등이 들어설 예정이다.&lt;br&gt;&lt;br&gt;바다를 보며 달릴 수 있는 2㎞짜리 ‘오션뷰 러닝 코스’도 조성한다. &lt;br&gt;&lt;br&gt;인천시는 맥아더 장군 동상이 있는 자유공원 정상에서 인천 앞바다를 볼 수 있도록 K팝 공연장의 최대 높이를 당초 120m에서 60m로 낮췄다.&lt;br&gt;&lt;br&gt;인천시는 오는 12월 기반시설 조성 공사를 시작한다. 2029년까지 6300억원을 들여 마무리할 계획이다. 공연장과 쇼핑몰, 주상복합 등이 들어설 부지는 민간에 분양해 개발한다. 2033년까지 모든 시설을 개장하는 게 목표다.&lt;br&gt;&lt;br&gt;인천시는 내항의 다른 부두도 단계적으로 재개발할 계획이다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “이번 내항 재개발 사업은 닫혀 있던 바다를 시민들이 언제든 찾을 수 있는 열린 공간으로 만든다는 의미가 있다”며 “근처 구도심 재개발도 탄력을 받을 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;다만 공연장과 쇼핑몰 등 개발을 맡을 민간 사업자를 얼마나 끌어들이느냐가 관건이다. 전찬기 인천대 도시공학과 명예교수는 “차이나타운, 월미도, 신포국제시장 등 주변 관광지와 연계해 사업성을 높일 방안을 고민해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“호남 반도체 인허가 속도전 지원할 것”</title>
@@ -884,15 +892,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQP5SRYK2JDXLMXIKWOXWMKMUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] pay lip service to ~</title>
-      <link>https://www.chosun.com/national/nie/english/2026/08/21/S46XZWOB2FCAXMUVEAPE6QSKRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/08/21/S46XZWOB2FCAXMUVEAPE6QSKRQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKUD6TITMZAGVJV5WLE55L23TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[두근두근 뇌 운동] [2932] 쿵작쿵작 장단치기</title>
