@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>처서에도 무더위 계속... 서울 전역 폭염주의보</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/23/AEMF6BKIEBA5LDNYNOTHPQC7B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/23/AEMF6BKIEBA5LDNYNOTHPQC7B4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 04:06:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBDUDOMJQJJFHPAU5V5SIOGZ4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;절기 처서에 폭염경보가 내려진 23일 오후 제주시 한림읍 협재해수욕장에 막바지 물놀이를 즐기려는 피서객들의 발걸음이 이어지고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더위가 한풀 꺾인다는 절기상 처서(處暑)인 23일 서울 전역에 폭염주의보(이틀 이상 최고 체감온도 33도 이상)가 내려졌다. 무더위는 다음 주까지 전국에서 이어질 전망이다.&lt;br&gt;&lt;br&gt;기상청은 23일 오전 11시를 기해 서울 전역과 경기 곳곳에 폭염주의보를 발표했다고 밝혔다.&lt;br&gt;&lt;br&gt;폭염의 원인은 우리나라 대기 하층을 덮고 있는 북태평양고기압이다. 고기압이 우리나라 상공을 덮으면 날이 맑게 개면서 낮 동안 지표로 내리쬐는 햇볕의 양이 많아지고, 기온 상승을 견인하게 된다.&lt;br&gt;&lt;br&gt;이런 기압계가 다음 주까지 이어지면서 전국 대부분 지역에서 폭염이 발생할 전망이다. 현재 경기북부와 강원, 경북 곳곳을 제외한 전국 대부분 지역에 폭염특보가 발효돼 있다. 기상청은 “온열질환 예방을 위해 충분한 수분과 염분 섭취, 야외활동 시간 조정 등이 필요하다”고 당부했다.&lt;br&gt;&lt;br&gt;곳곳에서 열대야(밤 최저기온 25도 이상)도 발생할 것으로 예보됐다. 현재 남부지방을 중심으로 열대야주의보가 발효돼 있다.&lt;br&gt;&lt;br&gt;24일 아침 최저기온은 22~26도, 낮 최고기온은 31~35도로 예보됐다. 주말까지 최고 34~35도에 이르는 더위가 이어질 것으로 기상청은 내다봤다.&lt;br&gt;&lt;br&gt;소나기 소식도 있다. 24일 오후부터 저녁까지 호남과 영남 곳곳에 소나기가 내리겠다. 소나기와 함께 돌풍과 천둥·번개가 치는 곳이 있겠다. 예상 강수량은 5∼50㎜다. 소나기는 비구름대가 국지적으로 발달하기 때문에, 같은 지역이라도 강수량 편차가 클 수 있다. &lt;br&gt;&lt;br&gt;한편 오키나와 남쪽 해상을 지나고 있는 18호 태풍 ‘사우델’은 타이완 쪽으로 향할 것으로 예상된다. 이에 우리나라에 직접적인 영향을 주진 않겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SBUDEW5EYJOMHBUL67RT4RZWZA.jpg?auth=3f912b965b831084d189d5677cd172c2cd07e8c2d8efe9fa7374d3154353d64d&amp;smart=true&amp;width=2481&amp;height=1653" type="image/jpeg" height="1653" width="2481">
+        <media:description type="plain">[서울=뉴시스] 권창회 기자 = 절기상 처서인 23일 서울 종로구 흥인지문공원에서 관광객들이 부채질을 하며 수크령 사이 산책로를 걷고 있다. 2026.08.23. kch0523@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">kch0523</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>극한호우 7일째, 거제·통영 이재민 691명 여전히 귀가 ‘막막’</title>
+      <link>https://www.chosun.com/national/2026/08/23/FINAWFVV35G57DCZIYWZJYATMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/23/FINAWFVV35G57DCZIYWZJYATMA/</guid>
+      <dc:creator>거제=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 05:04:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2J4EJLQYLNOR5B2F62LTBKSOH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경남 거제시 옥포동의 침수 피해 상가 일대에서 자원봉사자들이 물에 젖은 물품과 폐기물을 옮기며 복구작업을 돕고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 남부 지역을 휩쓴 ‘극한 호우’ 7일째 응급 복구율이 67.5%까지 올라왔지만, 주민 691명은 여전히 기약조차 없는 대피소 생활을 이어가고 있다. &lt;br&gt;&lt;br&gt;23일 경남도에 따르면, 전날 오후 기준 거제·통영의 응급 복구율은 67.5%다. 1965건 중 1326건의 응급 복구가 마무리됐다. &lt;br&gt;&lt;br&gt;상·하수도의 경우 통영 상수도 복구율은 83%, 거제 하수도는 97%다. 통영 한산도에서는 98세대가 단수로 불편을 겪고 있다. &lt;br&gt;&lt;br&gt;산사태 피해 복구가 더딘 상태다. 거제는 31%, 통영 12% 수준이다. 피해를 본 국가유산 5곳 중 4곳은 응급 복구가 완료됐다. &lt;br&gt;&lt;br&gt;피해를 본 이재민 368가구 691명은 아직 집으로 돌아가지 못했다. 거제 지역 596명은 옥포종합복지관 등에서, 통영 지역 95명은 봉평동 행정복지센터 등에서 지내고 있다.&lt;br&gt;&lt;br&gt;인명 피해까지 발생한 거제시 옥포동의 아파트 주민 53가구 119명의 경우 복귀가 더욱 장기화될 전망이다. 산에서 쏟아져 내린 토사로 건물에 균열이 간 104동에 대한 정밀 안전 진단에 최소 2개월이 걸릴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정부는 앞서 지난 21일 거제시 전역과 통영시 산양읍·봉평동을 특별재난 지역으로 우선 선포했다. 하지만 통영 지역 사회에서는 ‘반쪽짜리 지정’이라는 지적이 쏟아지고 있다.&lt;br&gt;&lt;br&gt;박완수 경남지사는 지난 22일 통영 지역 피해 현장을 점검하며 “우선 선포 지역 외에도 피해가 큰 곳이 많아 아쉬워하는 주민들이 있다”며 “통영시 전체가 추가 지정될 수 있도록 도 차원에서 최선을 다하겠다”고 했다. 강석주 통영시장도 “이번 재난은 시 전역의 기반 시설 전반에 걸쳐 발생한 광범위한 재난”이라며 특별재난 지역을 통영시 전역으로 확대해 줄 것을 건의했다. &lt;br&gt;&lt;br&gt;경남도는 오는 27일부터 시작되는 중앙합동 피해 조사를 거쳐 피해 현황을 상세히 산정해 정부에 추가 지원을 강력히 요구할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, ‘모아타운’ 착공 1년6개월 당긴다... 2031년까지 4만호 착공</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/23/YLFGMF5GPFFDDLBBRYYZYOAFVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/23/YLFGMF5GPFFDDLBBRYYZYOAFVM/</guid>
+      <dc:creator>윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 05:03:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3TOMRUMQ3DIZBSHBTDGZBWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 11일 서울 용산구 서계·청파동 일대 정비사업 현장을 둘러보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 모아타운 정비계획과 조합 설립을 동시에 추진하는 ‘모아통합기획’을 도입해 착공까지 걸리는 기간을 1년6개월 줄인다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;모아타운·모아주택은 개발하기 어려운 노후 저층주거지를 생활권 단위로 묶어 정비하는 서울형 소규모 정비사업이다. 2022년 도입 이후 현재 모아타운 137곳에서 사업이 진행 중이며, 약 13만가구를 지을 수 있는 정비계획이 마련됐다. 모아주택은 156곳, 약 4만3000가구가 사업을 진행하고 있다. 시는 모아주택 1만4000가구를 2028년까지, 4만가구를 2031년까지 착공하는 것을 목표로 한다.&lt;br&gt;&lt;br&gt;앞으로 새로 추진하는 모아타운 사업에는 ‘모아통합기획’을 도입한다. 정비계획 수립과 조합 설립 등 여러 절차를 동시에 진행해 속도를 높이는 방식이다. 주민과 서울시, 모아통합계획가, 서울주택도시공사(SH) 등이 ‘모아한팀’을 꾸려 사업 초기부터 함께 계획을 짠다.&lt;br&gt;&lt;br&gt;모아통합기획에서는 정비 밑그림인 관리계획을 후보지 선정 뒤 1년 안에 세우는 것이 목표다. 주민은 조합 설립과 사업 추진을 맡고, 시와 자치구는 계획 수립을 지원한다. 모아통합계획가는 전체 계획을 조정하고 자문하며, SH는 사업성을 분석하고 필요하면 공동으로 사업을 시행한다. 서울시는 이를 통해 착공까지 걸리는 기간을 기존 약 6년에서 4년6개월로 줄일 계획이다.&lt;br&gt;&lt;br&gt;시는 다음 달 초 모아통합기획 신규 후보지 공모를 시작해 2030년까지 100곳을 선정한다. 이를 통해 추가로 12만가구를 지을 수 있는 정비계획을 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;기존 사업 속도도 높인다. 서울시는 ‘신속착공 공정회의’를 매달 열어 지역별 지연 원인을 점검하고 지원책을 마련한다. 건축·정비·법률 등 7개 분야 전문가로 구성된 ‘찾아가는 신속해결지원단’도 현장을 찾아 해결 방안을 제시한다. 서울시 모아주택과장과 각 자치구 관련 부서 국장은 ‘공정촉진책임관’을 맡아 사업별 진행 상황을 관리한다.&lt;br&gt;&lt;br&gt;사업 과정에서 생기는 갈등을 줄이기 위한 지원책도 마련한다. 모아타운에 맞는 조합 운영규칙 표준안과 공사계약서 표준안을 만들어 분쟁을 예방한다. 공사비 갈등을 줄이기 위해 전국 최초로 조례에 공사비 검증 근거를 마련하고, SH가 공사비가 적정한지 검증할 계획이다.&lt;br&gt;&lt;br&gt;사업 기간을 줄이거나 서울시 정책을 적극 반영한 사업지는 ‘모범 모아타운’으로 뽑는다. 첫 모범 모아타운에는 광진구 건국대, 금천구 석수역세권, 관악구 난곡동 모아타운이 선정됐다.&lt;br&gt;&lt;br&gt;명노준 서울시 주택실장은 “계획 수립에 그치지 않고 실제 착공까지 빠르게 이어질 수 있도록 공정관리부터 갈등 해결까지 서울시가 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>韓총리 “경찰 실종 수사 부실에 강한 유감… 재발 방지 대책 마련하라”</title>
+      <link>https://www.chosun.com/politics/goverment/2026/08/23/FRX4K6FSHVFERJJ3O6CRPBDS4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/08/23/FRX4K6FSHVFERJJ3O6CRPBDS4Q/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 04:46:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBXMWXXBDNNH7IWISCORJNOZFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 경찰관들이 지난 5월 실종 신고가 접수된 장미란(37)씨를 찾기 위해 제주 한림항 인근 방파제를 수색하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한성숙 국무총리는 23일 경찰이 장미란(37)씨 실종을 허위로 종결 처리한 사건과 관련해 경찰에 “강한 유감”을 표하고 재발 방지 대책 마련을 지시했다.&lt;br&gt;&lt;br&gt;총리실은 이날 오전 보도 자료를 배포해 “한 총리가 제주에서 잇따라 발생한 경찰의 실종 수사 부실 논란에 대해 강한 유감을 표명했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한 총리는 그러면서 경찰청에 “이번 실종 사건의 수사 과정 전반에 대해 철저히 진상을 조사하고, 경찰이 실종 신고 접수와 처리 과정에서 허위로 사건을 종결하는 등의 행위가 없는지 면밀히 확인해, 근본적인 재발 방지 대책을 조속히 마련해 보고하라”고 했다. “가용한 경찰력을 최대한 동원해 실종자 수색에 최선을 다하라”고도 강조했다.&lt;br&gt;&lt;br&gt;장씨는 지난 5월 12일 밤 제주 한림읍의 집을 나선 뒤 실종됐다. 가족은 5월 15일 장씨가 귀가하지 않는다며 경찰에 신고했지만, 당시 근무자였던 A경장은 “장씨와 연락이 닿았다”는 내용을 112 신고 처리 시스템에 입력해 사건을 종결시켰다. 그러나 장씨는 돌아오지 않았고, 이튿날 장씨 휴대전화가 꺼졌다. 장씨 가족은 지난 7월 19일 경찰에 다시 신고했고, 경찰이 뒤늦게 재수사에 돌입했으나 실종 2개월 이상 지나 방범 카메라(CCTV) 영상 등이 모두 삭제된 뒤였다.&lt;br&gt;&lt;br&gt;경찰이 장씨 휴대전화 기록을 분석한 결과, 장씨 휴대전화가 꺼질 때까지 A 경장을 비롯해 경찰과 통화한 기록은 없었다. 경찰은 A경장이 지난달 2일 접수한 다른 실종 사건도 허위로 종결한 사실을 확인하고 지난 22일 A경장을 직무 유기와 공전자기록 위작, 위계에 의한 공무 집행 방해 혐의로 긴급 체포했다. A경장이 당시 종결한 사건 실종자 시신도 발견됐다.&lt;br&gt;&lt;br&gt;한 총리는 한편 “실종자 가족들을 더욱 힘들게 하는 장난전화나 가짜 뉴스에 대해서도 무관용의 원칙으로 엄중히 대응하라”고 강조했다. 경찰은 지난 22일 장씨 가족이 공개한 연락처로 가족을 희롱하는 문자 메시지를 보내고 전화를 건 혐의로 10대 B씨를 검거했다. B씨는 ‘신음 소리를 들려주면 실종자를 찾게 해주겠다’는 내용 등을 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“무사하다”던 남성이 시신으로... 제주 실종여성 그 경찰이 담당</title>
       <link>https://www.chosun.com/national/incident/2026/08/23/7FCK6XVIMNAO3BPVQXO42HWG4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/23/7FCK6XVIMNAO3BPVQXO42HWG4E/</guid>
@@ -865,42 +905,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FF2STYV4TRDKHL5OFGDSJ3QDCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박병규 전남광주시 광산구청장./전남광주시 광산구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주시 광산구는 최근 정부가 반도체 클러스터 조성 계획을 발표해 주목받는 곳이다. 인구는 38만명이다. KTX 광주송정역과 광주공항이 있어 전남광주의 관문 역할도 한다. 지난 6·3 광산구청장 선거에서 더불어민주당 후보로 출마해 재선에 성공한 박병규(60) 광산구청장은 20일 본지 인터뷰에서 “반도체 클러스터가 들어서면 전국의 청년들이 광산구로 몰려들 것”이라고 말했다.&lt;br&gt;&lt;br&gt;-반도체 지원단을 만들었다.&lt;br&gt;&lt;br&gt;“지난달 6일 정부가 광주공항 부지에 클러스터를 조성한다고 발표한 직후 ‘반도체 클러스터 조성 지원단’을 출범했다. 복잡한 인허가 절차가 사업의 발목을 잡아선 안 된다. 인허가를 전담할 패스트트랙 창구를 운영할 예정이다. 기업이 겪는 애로 사항을 정부나 전남광주시에 전달하고 해결책을 조율하는 가교 역할을 할 것이다.”&lt;br&gt;&lt;br&gt;-광산구는 어떻게 바뀌나.&lt;br&gt;&lt;br&gt;“반도체 클러스터가 조성되면 38만명인 광산구 인구가 15만명가량 늘어날 것으로 예상한다. 재산세, 주민세 등 지방세 수입도 연간 300억원 이상 늘어난다. 교육, 문화, 교통 등 여건을 개선해 전국에서 가장 젊고 살기 좋은 기초자치단체로 거듭날 것이다. 젊은 인구가 정착할 수 있도록 친환경 주거 단지를 짓고 반도체 마이스터고도 설립하려고 한다.”&lt;br&gt;&lt;br&gt;-반도체 입지로 적합한가.&lt;br&gt;&lt;br&gt;“광주공항 부지는 클러스터를 조성하기에 충분히 넓고 평평한 땅이다. 대부분 국공유지라 토지 보상에 수년씩 허비할 필요가 없다. KTX광주송정역이 바로 옆에 있고 고속도로 접근성도 좋아 물류와 인재 유치에 최적의 조건을 갖췄다고 생각한다.”&lt;br&gt;&lt;br&gt;-용수와 군부대 이전 문제도 있다.&lt;br&gt;&lt;br&gt;“지난달 전남광주가 통합해 용수 문제를 광역 차원에서 해결할 수 있는 길이 열렸다. 군부대 이전 문제 역시 국가적 차원의 지원을 받고 있어 문제가 없다고 생각한다.”&lt;br&gt;&lt;br&gt;-광산시 승격을 주장하는데.&lt;br&gt;&lt;br&gt;“전남광주시가 출범했기 때문에 광산구를 광산시로 승격할 때가 됐다고 생각한다. 광산구엔 38만명이 살지만 1년 예산은 1조161억원이다. 광산구보다 인구가 적은 순천시와 여수시는 1년 예산이 2조원에 육박한다. 시가 되면 도시계획을 수립하거나 조직을 운영할 권한도 커진다. 구 단위에서는 굵직한 도시 개발의 밑그림을 그리거나, 첨단 산업 전담 부서를 신설하는 데 한계가 있다.”&lt;br&gt;&lt;br&gt;-세수 문제가 핵심인가.&lt;br&gt;&lt;br&gt;“시로 승격하지 않으면 반도체 클러스터에서 나오는 막대한 법인지방소득세가 전남광주시로 들어가게 된다. 우리가 그 재원을 확보해야 교육, 문화, 교통 등 인프라에 재투자할 수 있다.”&lt;br&gt;&lt;br&gt;-어떻게 추진하나.&lt;br&gt;&lt;br&gt;“양부남(전남광주 서구을) 민주당 의원이 지난 10일 전남광주 통합 특별법 개정안을 대표 발의했다. 나를 포함해 옛 광주광역시의 다섯 구청장도 만나 뜻을 모았다. 구민들도 시 전환을 지지한다. ‘이제 광산의 몸집에 맞는 옷을 입어야 할 때’라는 목소리가 많다. 반도체 클러스터 사업이 성공하기 위해서도 필요하다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 이지연·유명석 아들 찬서 외</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2026/08/21/S4GDAQMQUZEEDEVUIHHR2PLSDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2026/08/21/S4GDAQMQUZEEDEVUIHHR2PLSDU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBWFAS67S5AADBIXU3PHP4EORA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/08/21/SVSJ2XDYIJDBDOBHARPCC6VB74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/08/21/SVSJ2XDYIJDBDOBHARPCC6VB74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKLJIXW2TFGPZF7KXSUN6NIACQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-8-21일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 14일 ‘우리 아기가 태어났어요’ 코너에 실린 주하늘·하린&amp;lt;사진&amp;gt;자매가 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“5남매 엄마 겁났지만… 힘든 건 곱하기 2, 행복은 곱하기 10”</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2026/08/21/Q4Z43EGPFRFWFF2VV4VURVLVYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2026/08/21/Q4Z43EGPFRFWFF2VV4VURVLVYU/</guid>
-      <dc:creator>대구=안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6GJLCOMZJFZXJLW35XY434WNA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 대구 동구 봉무동 채희진·최건호씨 부부의 집 거실에 온 가족이 다 함께 모여 환하게 웃고 있다. 왼쪽 위쪽부터 시계 방향으로 아빠 최씨, 첫째 담희, 둘째 도하, 엄마 채씨, 삼둥이 중 첫째 이도와 둘째 이현, 삼둥이 중 막내 이준. /대구=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아이 하나일 때보다 다섯인 지금이 마음도 더 편안하고 육아도 할 만한 것 같아요.”&lt;br&gt;&lt;br&gt;지난 6일 대구 동구 봉무동의 한 아파트에서 만난 채희진(34)씨는 “2022년 첫째 딸 담희(4)를 낳은 직후엔 육아가 지금보다 더 힘들고 외로웠다”며 이렇게 말했다. 이제는 육아 노하우도 쌓였고, 마음을 의지할 가족이 늘어나 심리적 안정감도 커졌다는 것이다.&lt;br&gt;&lt;br&gt;본인도 세 자매 중 둘째인 채씨는 아이들을 좋아해 최소 둘은 키우겠다는 생각으로 2년 뒤인 2024년 아들 도하(2)를 낳았다. 이어 작년 6월 계획에 없던 세 쌍둥이까지 임신했다. 남편 최건호(36)씨는 “처음 임신 소식을 듣고는 너무 놀라 ‘멘붕(멘털 붕괴)’이 왔고, 쌍둥이 같다는 얘기엔 ‘어떻게 키우나’ 겁이 났다”면서 “그런데 또 얼마 뒤 세 쌍둥이란 소식을 들을 땐 수화기 너머 아내도, 나도 다 내려놨는지 서로 막 웃었다”고 했다. 엄마 아빠에 1녀 4남, ‘무지개 가족’의 탄생이었다.&lt;br&gt;&lt;br&gt;채씨는 “주변에서 많이 걱정했는데, 우리는 어떻게든 키워내겠지 하며 긍정적으로 생각했다”면서 “아이가 다섯이라 ‘곱하기 5’만큼 힘들 거라고 많이들 생각하시는데, 힘든 건 ‘곱하기 2’ 정도 같고, 다섯 아이에게서 얻는 행복감과 든든함은 ‘곱하기 10’ 이상”이라고 했다. 그는 “남편과도 함께 육아하며 ‘전우애’가 생겨 더 돈독해졌고, 가족·친지·이웃들의 응원까지 한껏 받고 있다”고 했다. &lt;br&gt;&lt;br&gt;자연 임신으로 세 쌍둥이를 낳을 확률은 8000~1만분의 1 수준이다. 채씨도 임신 기간 배가 하루가 다르게 불러왔고, 엉덩이·골반·등 통증도 심했다. 자궁 수축 때문에 조산 방지 주사도 맞아야 했다. 그래도 다행히 계명대 동산병원 배진곤 교수 등 의료진의 보살핌 덕에 세 아이는 잘 자라줬고, 지난 1월 13일 평균 체중 2.3㎏에 자가 호흡이 가능한 상태로 태어났다.&lt;br&gt;&lt;br&gt;이날 거실에는 다섯 아이가 뒤엉켜 함께 놀고 있었다. 세쌍둥이 형제 이도(이란성)와 이현·이준(일란성)이 엉금엉금 기어가자 누나 담희가 “까꿍, 이리 와”하며 끌어안았다. 세쌍둥이는 아직 서로의 존재가 신기한지 한참 쳐다보며 ‘탐색’을 한다고 한다. 냉장고에 붙은 화이트보드엔 오늘 하루 수유량과 배변 횟수, 몸무게(7.93kg·9.65kg·9.39kg)가 쓰여 있었다.&lt;br&gt;&lt;br&gt;가족의 하루는 세쌍둥이가 잠에서 깨는 아침 7시부터 잠드는 저녁 8시까지 눈코 뜰 새 없이 바쁘다. 채씨는 “그래도 이렇게 북적이니 사람 사는 집 같고 하루가 금방 간다”며 웃어 보였다. 배터리 진단 IT업체인 배터와이에 재직 중인 남편 최씨는 올 1월부터 육아휴직을 냈다. 근처에 사는 채씨의 어머니와 돌봄 선생님까지 총출동해 육아를 돕는다. 남편 최씨는 “회사의 배려 덕에 재택근무도 했는데 감당이 안 돼 결국 육아휴직을 했다”며 “주변 배려와 도움이 없었다면 5남매 육아는 불가능했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;세쌍둥이는 엄마 뱃속에서부터 동네 유명 인사였다. 지난해 만삭으로 첫째 담희의 어린이집 운동회에 나간 채씨는 ‘네 개의 심장상’이라는 특별상도 받았다. 아이들을 다 데리고 동네 산책을 나가거나, 일요일마다 교회에 가면 이웃들이 ‘다 한집이냐’ ‘귀엽다’ ‘애국자다’ 하며 먼저 인사를 건넨다. &lt;br&gt;&lt;br&gt;가장 힘든 점은 역시 “경제적 부담”이라고 했다. 채씨는 “기저귀는 하루에 20장 넘게 쓰고, 먹거리도 금방 떨어진다”며 “아이들이 태어나고 7인승 차량으로 바꿨는데, 집도 신생아 특별공급 주택은 84㎡형이 최대라 아이들이 크면 이사도 가야 한다”고 했다.&lt;br&gt;&lt;br&gt;남편 최씨가 내년에 복직하는 것도 이 때문이다. 현재 만 0세 아동은 월 100만원, 만 1세는 월 50만원의 부모급여가 지급된다. 세쌍둥이가 만 1세가 되는 내년부터는 월 150만원이 줄어드는 셈이다. 채씨는 “정부나 지자체에서 조금만 더 지원해주면 용기 내 아이 하나 더 낳을 집이 많은데, 이런 상황을 좀 알아주면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;채씨 가족은 매일 잠들기 전 특별한 시간을 갖는다. 침대에 최씨가 엎드리면 그 위에 채씨, 첫째 담희, 둘째 도하까지 차례로 엎드려 ‘햄버거’를 만들며 노는 ‘햄버거 시간’이다. 지금은 4층 햄버거지만, 이제 곧 7층까지 높아진다.&lt;br&gt;&lt;br&gt;채씨는 “육아가 안 힘들다면 거짓말인데, 누군가 ‘아이들 낳기 전으로 돌아갈래’ 물어보면 바로 ‘아니요’라고 답하겠다”며 “아이가 하나인데 둘째를 고민하는 분들에겐 ‘두 배로 힘들지도 않고, 아이도 부모도 외로움 대신 행복이 배가 된다’는 말씀을 꼭 드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(betterfuture@korea.kr)로 사연을 보내주세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 8월 21일</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/21/UMELYTKKOVABJDZIT6H7Z7B6WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/UMELYTKKOVABJDZIT6H7Z7B6WY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQP5SRYK2JDXLMXIKWOXWMKMUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[두근두근 뇌 운동] [2932] 쿵작쿵작 장단치기</title>
