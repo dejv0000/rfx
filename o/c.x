@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“무사하다”던 남성이 시신으로... 제주 실종여성 그 경찰이 담당</title>
+      <link>https://www.chosun.com/national/incident/2026/08/23/7FCK6XVIMNAO3BPVQXO42HWG4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/23/7FCK6XVIMNAO3BPVQXO42HWG4E/</guid>
+      <dc:creator>제주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 01:40:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTIMTEMVRWGNTBMQ2TOOJYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실종신고 허위 종결 등 부실 대응 속에 3개월째 행방이 묘연한 장미란씨를 찾기 위해 지난 20일 제주시 한림읍 한림항에서 경찰이 집중 수색을 준비하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 실종 신고가 접수된 남성이 51일 만에 숨진 채 발견됐다. 이 사건 역시 장미란(37)씨 실종 사건을 허위로 종결해 파문을 일으킨 담당 경찰관이 유족을 속이고 자체 종결 처리한 것으로 드러났다.&lt;br&gt;&lt;br&gt;23일 제주경찰청에 따르면 경찰은 전날 제주 모처에서 실종자 B씨의 시신을 발견했다. 지난달 2일 가족이 최초 실종 신고를 접수한 지 51일 만이다. 유족의 뜻에 따라 구체적인 사망 경위와 시점 등은 공개되지 않았다.&lt;br&gt;&lt;br&gt;조사 결과 B씨 실종 사건의 최초 담당자는 장씨 사건을 허위 종결했던 A 경장으로 확인됐다. A 경장은 지난달 2일 실종 신고 접수 당시 가족들에게 “B씨가 무사하지만, 본인이 원하지 않아 소재를 알려주기 어렵다”고 거짓말을 한 뒤 사건을 종결한 것으로 알려졌다. 실종 프로파일링 시스템에서도 B씨에 대한 내용을 해제한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A 경장의 이 같은 비위 행위는 최근 언론을 통해 ‘장미란 씨 장기 실종 보도’를 접한 B씨 가족이 경찰에 재신고하면서 꼬리가 밟혔다.&lt;br&gt;&lt;br&gt;가족들로부터 “B씨가 여전히 실종 상태”라는 재신고를 접수한 경찰은 당시 담당자가 A 경장이었다는 사실을 파악하고, 지난 21일 허위 종결 정황을 확인했다. 이후 경찰이 즉각 B씨에 대한 수색을 재개했으나, B씨는 결국 주검으로 발견됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CPNM2L2OVHR3KE4HYUMQA5DWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월12일 제주시 한림읍에서 실종된 장미란씨./인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 전날 A 경장을 긴급 체포해 허위 종결 경위 등을 집중적으로 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 A 경장이 B씨 사건 외에도 지난 5월 실종된 장씨 사건을 허위 종결하는 과정에서, 실종 프로파일링 시스템에 장씨가 숨졌다는 의미의 ‘변사’ 등으로 입력해 관련 자료를 삭제한 것으로 보고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;한편, 경찰은 최초 실종 신고 이후 3개월 이상 행방이 묘연한 장미란 씨를 찾기 위해 제주시 한림항 일대에서 대대적인 수색 작업을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MMYWEZJRHAZDGYZXHBTGCNZQGI.jpg?auth=b5fa27beb97c5c7caf1752db2ba06bfe40ffef99bf6eba4c4e0743d24bf382e9&amp;smart=true&amp;width=5000&amp;height=3673" type="image/jpeg" height="3673" width="5000">
+        <media:description type="plain">실종신고 허위 종결 등 부실 대응 속에 3개월째 행방이 묘연한 장미란씨를 찾기 위해 지난 20일 제주시 한림읍 한림항에서 경찰이 집중 수색을 준비하고 있다./연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>홍석기 국가수사본부장 “제주 실종자 허위 종결 사태, 국민께 송구”</title>
+      <link>https://www.chosun.com/national/regional/2026/08/23/UY3IZPHFXVBN7MEJTHE6RNV2LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/23/UY3IZPHFXVBN7MEJTHE6RNV2LQ/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 03:18:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2UFR2O24RM6FGKQ4YTGF2D6KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍석기 경찰청 국가수사본부장(왼쪽)이 23일 오전 제주시 한림읍 한림항 인근 에서 실종자 수색 상황을 점검하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 ‘장미란(37)씨 장기 실종 사건’ 허위 종결과 관련, 홍석기 경찰청 국가수사본부장은 “국민께 송구스럽다”며 “다시는 이런 일이 일어나지 않도록 제도적으로 보완하겠다”고 23일 밝혔다. 홍 본부장은 이날 제주경찰청 방문 후 청사를 나가면서 기자의 질문에 이같이 말했다. 이어 “국민의 생명과 직결된 사건”이라며 “미비점이 없는지 현장을 확인하고, 현장 근무 기강을 바로잡겠다”고 말했다.&lt;br&gt;&lt;br&gt;홍 본부장은 이날 제주경찰청을 방문해 장씨 실종 사건에 대한 보고를 받았다. 허위 종결한 A 경장에 대한 수사는 물론 수색 상황도 청취하고 나서 관련 업무 지시를 했다.&lt;br&gt;&lt;br&gt;지난 5월 장씨의 실종 신고가 접수됐다. 당시 담당자는 A 경장이었다. A 경장은 어떤 이유에서인지 ‘장씨가 무사하다’며 신고자에게 거짓말을 한 것으로 조사됐다. A 경장은 이후 허위로 사건을 종결하고, 실종 프로파일링 시스템상의 관리 목록 자료도 삭제한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;또 지난달 2일 B씨의 실종 사건도 같은 수법으로 허위 종결한 것으로 드러났다. B씨 가족은 3개월여간 계속 연락이 닿지 않자 지난달 재신고했다. 재신고 이후 경찰 수색이 시작됐고, 전날 B씨는 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불법 명함 배부현장 연출… 상대 후보 낙선 유도한 선거운동원 ‘집유’</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/23/72KVF37XHNCPHL7HZBXCK2JFZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/23/72KVF37XHNCPHL7HZBXCK2JFZE/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 02:21:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQWKY3CGJSWIZRVMU4DANZRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제9회 전국동시지방선거에서 특정 후보의 당선을 막고자 ‘불법 명함 배부’ 현장을 연출하려 한 혐의로 재판에 넘겨진 선거 운동원이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 나원식)는 공직선거법 위반 혐의로 기소된 40대 남성 A씨에게 징역 8개월에 집행유예 1년을 선고했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;판결문에 따르면, A씨는 지난 6·3 지방선거에서 부산 사하구 구의원에 출마한 B 후보의 선거 유세 차량 운전원이었다. A씨는 B 후보를 지지하며 그의 선거운동을 도왔지만, 같은 선거구에 출마한 다른 정당 C 후보가 자신의 후보를 공격한다는 생각에 역공하기로 마음먹었다.&lt;br&gt;&lt;br&gt;A씨가 궁리한 방법은 ‘거짓 연출극’이었다. 그는 C 후보의 선거 운동용 명함을 모은 뒤 이를 직접 줄 수 없는 사람임에도 불특정 다수에게 배부하는 모습을 연출·촬영해 C 후보에게 불리한 자료로 활용하겠다는 계획을 세웠다. 후보자나 선거사무원 등 법적으로 지정된 사람 외에 일반인이 선거 명함을 돌리면 공직선거법에 위배된다는 것을 노린 것이다.&lt;br&gt;&lt;br&gt;실제로 A씨는 커뮤니티 앱에서 아르바이트 구인 글을 올려 ‘명함을 40~60장 모은 뒤 이를 불특정 다수에게 나눠주는 장면을 촬영할 수 있게 해주면 20만~30만원을 주겠다’고 범행에 동원할 구민을 모집했다. 이후 실제 C 후보 측에서 명함을 받게 했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 범행은 민주주의 근간이 되는 선거의 공정성을 해치고 선거인의 자유로운 의사 결정에 부당한 영향을 미치려는 것으로 죄책이 가볍지 않다”고 했다. 이어 “다만 피고인이 범행을 인정하고 있고 제공을 약속한 금액이 소액”이라며 “이 범행이 실제 투표 결과에 영향을 미치지는 않은 것으로 보이는 점을 참작한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“훈육 선 넘었다”… 플라스틱 의자 던지며 조카 폭행</title>
+      <link>https://www.chosun.com/national/regional/2026/08/23/5MHDC5OYBVH4XH7N3IO2SXKQWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/23/5MHDC5OYBVH4XH7N3IO2SXKQWY/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 01:34:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTAYZZMJRGEMLDGZSTQOJRGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모를 대신해 키우던 10대 조카를 폭행한 작은아버지가 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2단독 고범진 부장판사는 아동복지법상 아동 학대 혐의로 기소된 A(50)씨에게 징역 6개월에 집행유예 2년을 선고했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 5월 자신의 집에서 아내와 조카 B양이 말다툼하는 모습을 보고 화가 나 B양의 어깨를 밀치고, 마당에 있던 플라스틱 벤치를 들어 B양을 향해 던진 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 B양이 울면서도 자리를 피하지 않자 손으로 약 20회가량 때리고 머리채를 잡아당기는 등 학대한 혐의도 있다.&lt;br&gt;&lt;br&gt;고 부장판사는 “양육자로서 훈육 수준을 넘어선 것으로 피해자가 정신적 충격과 고통을 받았을 것으로 보인다”며 “범행을 시인한 점, 피해자가 피고인의 처벌보다는 재발 방지를 위한 교육을 받기 원하는 점 등을 양형에 참작했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“정치 얘기 그만” 요청에… 대리기사 뺨 때린 60대 벌금형 </title>
+      <link>https://www.chosun.com/national/2026/08/23/7BB425QZORD27C2S3VV7RMBECI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/23/7BB425QZORD27C2S3VV7RMBECI/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 01:29:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYDSYZRHBSTIY3EGA2GMZBXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 정치 이야기를 늘어놓다 제지당하자, 홧김에 운전 중인 대리기사를 때린 60대 남성에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;울산지법 형사8단독 김정진 부장판사는 특정범죄가중처벌등에관한법률 위반(운전자 폭행 등) 혐의로 기소된 A(60대)씨에게 벌금 100만원을 선고했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 6월 밤 경남 양산시의 한 아파트 단지 인근에서 자신의 화물차를 운전하던 대리기사 B(50대)를 때린 혐의를 받는다. &lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 자신의 차량 조수석에 탑승해 귀가하던 중 욕설을 섞어가며 특정 정당을 향해 지속적인 비난을 쏟아냈다. &lt;br&gt;&lt;br&gt;B씨가 “정치 이야기는 그만해 달라”고 요청했고, 이에 격분한 A씨는 B씨의 뺨을 한 차례 때렸다.&lt;br&gt;&lt;br&gt;B씨가 차를 세우자, A씨는 차에서 내려 운전석 쪽으로 다가가 B씨를 억지로 끌어내리려 하는 등 난동을 이어갔다. A씨의 행패는 B씨 신고를 받고 경찰이 출동하고 나서야 끝났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 과거 동종 범행을 포함해 여러 차례 형사처벌을 받은 전력이 있음에도 또다시 범행을 저질렀다”며 “피해자와 합의에 이르지도 못했다”고 양형 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남에 나흘간 3만5000t 물 공급... 비 예보에 국가소방동원령 해제</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/15/PRLTFSRSQBBQZHIJNQCJICLRFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/15/PRLTFSRSQBBQZHIJNQCJICLRFQ/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Aug 2026 12:09:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSDQZBUGVSTENZSHEYGMYZYGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;극심한 가뭄을 겪고 있는 경남 밀양지역의 한 논에 뭉탱크차를 이용해 물을 대고 있는 강원도소방본부 소속 소방관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 가뭄이 이어진 경남에 전국 소방 물탱크차가 투입돼 나흘간 3만5000t에 가까운 물을 공급했다. 15일 밤부터 많은 비가 예보되면서 국가소방동원령은 이날 해제됐다.&lt;br&gt;&lt;br&gt;15일 경남소방본부 등에 따르면, 지난 11일 내려진 국가소방동원령은 이날 오후 6시 해제됐다. 나흘간 전국 지원 차량과 경남·창원소방본부 차량은 4603차례에 걸쳐 3만4839t의 물을 공급했다. 이 중 전국에서 지원된 물탱크차의 급수량은 1만8494t이었다.&lt;br&gt;&lt;br&gt;이날에는 농업용수 가뭄 단계가 가장 높은 ‘심각’ 단계인 밀양·거제·의령·함안·창녕 등 5개 시·군에 전국 소방 물탱크차 100대가 투입돼 3466.5t을 공급했다. 경남·창원소방본부 차량 59대도 나흘간 1만6345t을 지원했다.&lt;br&gt;&lt;br&gt;군도 가뭄 대응에 나섰다. 육·해·공군과 해병대 차량 102대가 통영·진주·하동·창원·김해 등 9개 시·군에 배치돼 이날 농업용수 1655.5t을 공급했다.&lt;br&gt;&lt;br&gt;경남 18개 시·군 전역에는 농업용수 가뭄 단계가 내려진 상태다. 이날 도내 평균 농업용수 저수율은 31.6%로 평년(70.4%)의 44.8% 수준이다. 다만 17일까지 50~150㎜, 남해안과 지리산 부근에는 200㎜ 이상의 비가 예보돼 가뭄이 다소 완화될 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“부사관도 못 구하는데”…‘선택적 모병제’의 딜레마 </title>
       <link>https://www.chosun.com/national/2026/08/23/C3F52632TRDCDDOFQH3UM3IMAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/08/23/C3F52632TRDCDDOFQH3UM3IMAA/</guid>
@@ -788,21 +845,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMBDLEY4EBJHFHGM5AZP3KLQFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'취업 청탁 의혹'으로 기소된 노영민 전 대통령 비서실장(왼쪽)과 김현미 전 국토교통부 장관(오른쪽)이 지난 13일 서울 서초구 서울중앙지법에서 열린 1심 선고 공판에서 무죄를 선고받은 뒤 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이정근 전 더불어민주당 사무부총장 등을 민간 기업에 특혜 취업시킨 혐의를 받은 노영민 전 대통령 비서실장과 김현미 전 국토교통부 장관이 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울중앙지검은 1심에서 무죄가 선고된 노 전 실장과 김 전 장관에 대해 항소 기한(1주일)인 전날(20일)까지 항소장을 제출하지 않았다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “관행적으로 국토부에서 상근고문직을 추천받았고, 피고인들이 위법성을 인식했다고 볼 만한 증거가 부족하다는 법원 판결을 존중했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 노 전 실장과 김 전 장관, 권모 전 청와대 인사비서관은 국토부가 관리·감독 권한을 가진 CJ대한통운 자회사 한국복합물류에 압력을 행사해 2020년 8월 이정근 전 부총장을 상근고문으로 취업시킨 혐의로 작년 1월 불구속 기소됐다. 김 전 장관과 전모 전 국토부 운영지원과장은 또 다른 정치권 인사 김모씨를 한국복합물류 상근고문으로 취업시킨 혐의도 받았다.&lt;br&gt;&lt;br&gt;그러나 서울중앙지법 형사19단독 임혜원 부장판사는 지난 13일 노 전 실장과 김 전 장관, 권모 전 청와대 인사비서관, 전모 전 국토부 운영지원과장 등 4명에게 모두 무죄를 선고했다. 임 부장판사는 한국복합물류가 과거부터 국토부에서 상근고문을 추천받아 채용했고, 사측이 추천에 정식으로 반대하지 않았다는 점을 무죄 판단의 근거로 들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“재활 치료 6개월 기다리래요” 어린이 24만명, 하염없이 대기</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/21/E3HF7DXUF5CK5OW3F3QCFXFFQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/E3HF7DXUF5CK5OW3F3QCFXFFQ4/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AREWAVUL4FCZLOFI53RUGLFWSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 오후 서울 마포구 푸르메재단 넥슨어린이재활병원에서 한채연(왼쪽)양이 웨어러블 로봇을 착용하고 재활 치료를 받고 있다. /임지훈 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 13일 서울 마포구 푸르메재단 넥슨어린이재활병원(푸르메 재활병원) 로봇 재활실. 한채연(13)양이 웨어러블 로봇을 착용하고 물리치료사의 도움을 받아 20m가량을 걸었다. 한양은 뇌병변 장애로 4년 전만 해도 스스로 목조차 가누기 어려웠다. 하지만 병원에서 재활 치료를 받은 뒤로 이제는 로봇 도움을 받으면 한 번에 1000걸음 정도를 걸을 수 있게 됐다.&lt;br&gt;&lt;br&gt;하지만 한양은 이번 달 치료가 끝나면 병원을 떠나야 한다. 이 병원에서 재활 치료를 받으려는 아이들이 줄줄이 대기하고 있기 때문이다. 한양 어머니 이영실(54)씨는 “지금 받는 치료가 곧 끝나 다시 대기를 걸어놓은 상태”라며 “다시 치료받으려면 6개월은 기다려야 한다”고 했다. &lt;br&gt;&lt;br&gt;한양과 같은 처지에 놓인 아이는 매년 늘고 있다. 국민건강보험 일산병원 연구소에 따르면 재활 치료가 필요한 소아·청소년은 2019년 18만8663명에서 2023년 24만6699명으로 4년 새 31% 증가했다. 같은 기간 18세 미만 인구가 792만명(2019년)에서 707만명(2023년)으로 11% 감소했다. 아이들은 줄고 있는데 재활치료가 필요한 아이는 오히려 늘어난 것이다. 전문가들은 고령 임신에 따른 고위험 신생아가 늘고, 의료기술 발달로 미숙아·고위험 신생아의 생존율이 높아진 점 등이 영향을 미친 것으로 보고 있다.&lt;br&gt;&lt;br&gt;그러나 어린이 전문 재활병원은 턱없이 부족하다. 치료를 받으려면 6개월에서 길게는 1년 기다려야 하는 경우가 적잖다. 한 병원에서 정해진 기간 동안 치료를 받은 뒤 다른 병원을 찾아다니다가 다시 처음 치료받은 병원 대기 명단에 이름을 올리는 일이 반복된다고 한다. 장애 아동과 부모들 사이에서 ‘재활 난민’이라는 말이 나오는 이유다.&lt;br&gt;&lt;br&gt;정부는 어린이 재활치료 병원을 늘려오긴 했다. 2018년부터 공공어린이재활병원·센터를 지정해 현재 전국에서 10곳이 운영 중이다. 하지만 본지가 10곳을 모두 조사해본 결과 어린이 재활 치료를 할 수 있는 의사는 기관당 1~2명 수준이었다. 정부는 2020년부터 민간 의료 기관으로 대상을 넓혀 39곳을 ‘어린이 재활 의료 기관’으로 지정했다. &lt;br&gt;&lt;br&gt;병원 숫자는 늘었지만 치료받을 기회는 여전히 부족하다고 전문가들은 말한다. 재활 치료가 필요한 소아·청소년 24만6699명 가운데 6개월 이내 20회 이상 집중적인 재활 치료를 받은 아이는 6.5%에 그쳤다. 홍지원 푸르메 재활병원 부원장은 “성장기 어린이는 재활 치료를 지속적으로 받는 것이 중요해 대책이 시급하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AREWAVUL4FCZLOFI53RUGLFWSA.jpg?auth=dd4f1bfbceb3b52001ff9112056d79c3ca5aa7b721cd03528cf48a1d2269e9e5&amp;smart=true&amp;width=5248&amp;height=3291" type="image/jpeg" height="3291" width="5248">
-        <media:description type="plain">지난 13일 오후 서울 마포구 푸르메재단 넥슨어린이재활병원에서 한채연(왼쪽)양이 웨어러블 로봇을 착용하고 재활 치료를 받고 있다. /임지훈 기자
-</media:description>
-        <media:credit role="author" scheme="urn:ebu">LIM</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>재선충병, 뒤쫓기식 방제 반복… 38년간 2조 뿌려도 뿌리 못 뽑아</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/21/DSX7K3VILFCWBJN646GFYKDBZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/21/DSX7K3VILFCWBJN646GFYKDBZA/</guid>
@@ -823,51 +865,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 15:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FF2STYV4TRDKHL5OFGDSJ3QDCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박병규 전남광주시 광산구청장./전남광주시 광산구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주시 광산구는 최근 정부가 반도체 클러스터 조성 계획을 발표해 주목받는 곳이다. 인구는 38만명이다. KTX 광주송정역과 광주공항이 있어 전남광주의 관문 역할도 한다. 지난 6·3 광산구청장 선거에서 더불어민주당 후보로 출마해 재선에 성공한 박병규(60) 광산구청장은 20일 본지 인터뷰에서 “반도체 클러스터가 들어서면 전국의 청년들이 광산구로 몰려들 것”이라고 말했다.&lt;br&gt;&lt;br&gt;-반도체 지원단을 만들었다.&lt;br&gt;&lt;br&gt;“지난달 6일 정부가 광주공항 부지에 클러스터를 조성한다고 발표한 직후 ‘반도체 클러스터 조성 지원단’을 출범했다. 복잡한 인허가 절차가 사업의 발목을 잡아선 안 된다. 인허가를 전담할 패스트트랙 창구를 운영할 예정이다. 기업이 겪는 애로 사항을 정부나 전남광주시에 전달하고 해결책을 조율하는 가교 역할을 할 것이다.”&lt;br&gt;&lt;br&gt;-광산구는 어떻게 바뀌나.&lt;br&gt;&lt;br&gt;“반도체 클러스터가 조성되면 38만명인 광산구 인구가 15만명가량 늘어날 것으로 예상한다. 재산세, 주민세 등 지방세 수입도 연간 300억원 이상 늘어난다. 교육, 문화, 교통 등 여건을 개선해 전국에서 가장 젊고 살기 좋은 기초자치단체로 거듭날 것이다. 젊은 인구가 정착할 수 있도록 친환경 주거 단지를 짓고 반도체 마이스터고도 설립하려고 한다.”&lt;br&gt;&lt;br&gt;-반도체 입지로 적합한가.&lt;br&gt;&lt;br&gt;“광주공항 부지는 클러스터를 조성하기에 충분히 넓고 평평한 땅이다. 대부분 국공유지라 토지 보상에 수년씩 허비할 필요가 없다. KTX광주송정역이 바로 옆에 있고 고속도로 접근성도 좋아 물류와 인재 유치에 최적의 조건을 갖췄다고 생각한다.”&lt;br&gt;&lt;br&gt;-용수와 군부대 이전 문제도 있다.&lt;br&gt;&lt;br&gt;“지난달 전남광주가 통합해 용수 문제를 광역 차원에서 해결할 수 있는 길이 열렸다. 군부대 이전 문제 역시 국가적 차원의 지원을 받고 있어 문제가 없다고 생각한다.”&lt;br&gt;&lt;br&gt;-광산시 승격을 주장하는데.&lt;br&gt;&lt;br&gt;“전남광주시가 출범했기 때문에 광산구를 광산시로 승격할 때가 됐다고 생각한다. 광산구엔 38만명이 살지만 1년 예산은 1조161억원이다. 광산구보다 인구가 적은 순천시와 여수시는 1년 예산이 2조원에 육박한다. 시가 되면 도시계획을 수립하거나 조직을 운영할 권한도 커진다. 구 단위에서는 굵직한 도시 개발의 밑그림을 그리거나, 첨단 산업 전담 부서를 신설하는 데 한계가 있다.”&lt;br&gt;&lt;br&gt;-세수 문제가 핵심인가.&lt;br&gt;&lt;br&gt;“시로 승격하지 않으면 반도체 클러스터에서 나오는 막대한 법인지방소득세가 전남광주시로 들어가게 된다. 우리가 그 재원을 확보해야 교육, 문화, 교통 등 인프라에 재투자할 수 있다.”&lt;br&gt;&lt;br&gt;-어떻게 추진하나.&lt;br&gt;&lt;br&gt;“양부남(전남광주 서구을) 민주당 의원이 지난 10일 전남광주 통합 특별법 개정안을 대표 발의했다. 나를 포함해 옛 광주광역시의 다섯 구청장도 만나 뜻을 모았다. 구민들도 시 전환을 지지한다. ‘이제 광산의 몸집에 맞는 옷을 입어야 할 때’라는 목소리가 많다. 반도체 클러스터 사업이 성공하기 위해서도 필요하다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국국제통상학회 창립 30주년 기념 하계학술대회 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/21/7MARPKHT4ZEHFJQVAPMYWNPBD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/21/7MARPKHT4ZEHFJQVAPMYWNPBD4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:39:00 +0000</pubDate>
-      <content:encoded>한국국제통상학회는 다음 달 1일 서울 여의도 FKI타워에서 ‘무역전쟁을 넘어: AI·통상·안보와 세계통상질서의 미래’라는 주제로 창립 30주년 기념 하계학술대회를 개최한다. 미 국무부 수석이코노미스트를 지낸 채드 바운 피터슨국제경제연구소(PIIE) 선임연구위원이 30주년 기조 발표를 맡는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 행정안전부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/21/XX6OHZOV6NGZBKYOFPP4V4EQLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/21/XX6OHZOV6NGZBKYOFPP4V4EQLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲행정안전부&lt;/b&gt;◇과장급 전보▷중앙민방위경보통제센터장 임문혁▷대통령기록관 행정기획과장 이영수&lt;br&gt;&lt;br&gt;&lt;b&gt;▲조달청&lt;/b&gt;◇과장급 전보▷공정평가관리팀장 문호림▷인공지능조달혁신과장 김항수▷전북지방조달청장 김종화▷조달가격조사과장 길양순&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 권오인 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/21/4AIQ4SNXKRCGDBUCRFOMLE7YWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/21/4AIQ4SNXKRCGDBUCRFOMLE7YWA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:39:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;권오인&lt;/b&gt; 별세, &lt;b&gt;박길자&lt;/b&gt; 남편상, &lt;b&gt;권윤경·권윤영·권기홍&lt;/b&gt; 사업 부친상, &lt;b&gt;이희성&lt;/b&gt; 가천대 교수&lt;b&gt;·오윤관&lt;/b&gt; 前 메리츠증권 부장 장인상=20일18시11분 청담동성당, 발인 22일10시, (02)3447-0750&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김옥심&lt;/b&gt; 별세, &lt;b&gt;강용균·강정운·강경운·강기운·강석운&lt;/b&gt; 모친상, &lt;b&gt;송연기·송흥석·장재주&lt;/b&gt; 장모상, &lt;b&gt;이유실·김경해·정해경·김정옥·금수정&lt;/b&gt; 시모상=20일5시40분 전남광주 고흥 우주장례식장, 발인 22일9시, (061)832-4000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김용권&lt;/b&gt; 별세, &lt;b&gt;사재옥&lt;/b&gt; 남편상, &lt;b&gt;김수곤·김숙자·김윤미·김은수&lt;/b&gt; 부친상, &lt;b&gt;박종규&lt;/b&gt; 가톨릭대 인천성모병원 파트장·&lt;b&gt;박해일&lt;/b&gt; 장인상=19일10시46분 경남 창원 큰사랑요양병원, 발인 21일9시, (055)231-5444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김향이 &lt;/b&gt;별세, &lt;b&gt;박형미&lt;/b&gt; 前 한국아이디지 대표 모친상=19일15시20분 고려대 안암병원, 발인 22일7시, (070)7816-0245&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최단옥&lt;/b&gt; 인천대 경제학과 명예교수 별세, &lt;b&gt;김미연&lt;/b&gt; 前 진주교대 교수 남편상, &lt;b&gt;최병일&lt;/b&gt; LG이노텍 팀장·&lt;b&gt;최병화&lt;/b&gt; 코리안리 부장 부친상, &lt;b&gt;강상요·김수현&lt;/b&gt; 시부상=19일19시37분 서울아산병원, 발인 22일6시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조호연 EBS 이사장</title>
-      <link>https://www.chosun.com/national/people/2026/08/21/B7MNNB2TFRDC3N7IHVOG2QGCCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/21/B7MNNB2TFRDC3N7IHVOG2QGCCE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CONTH5T5X5HOFEWQ7XDMFFJ7R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조호연 EBS 신임 이사장. /EBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국교육방송공사(EBS) 신임 이사장으로 조호연 이사가 선임됐다.&lt;br&gt;&lt;br&gt;EBS 이사회는 조 이사를 제9기 이사장으로 선출했다고 20일 밝혔다. 조 이사장은 경향신문 편집국장 출신으로 2021년부터 EBS 이사직을 맡았으며 지난달 재선임된 바 있다. 이날 EBS 이사회는 개정 방송법에 따라 늘어난 정원 13명 중 학회·교육계 등과 국회 여당 추천 이사 11명이 참여해 이같이 결정했다. 국민의힘 추천 몫인 이사 2명은 아직 선임되지 않았다. 임기는 2029년까지. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>편집기자협회·공공도서관협의회 ‘순회 편집 전시회’ 양해각서 체결</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/21/2NU6QPXMGNB7FHJG4COPM3A4WI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/21/2NU6QPXMGNB7FHJG4COPM3A4WI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 15:39:00 +0000</pubDate>
-      <content:encoded>한국편집기자협회는 20일 공공도서관협의회와 도서관 문화 프로그램 개발 및 미디어 리터러시 교육 활성화를 위한 업무협약 양해각서(MOU)를 체결했다. 그 일환으로 양 기관은 서울도서관을 시작으로 전국 공공도서관에서 편집기자들의 작품을 선보이는 순회 편집전시회를 연다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[우리 아기가 태어났어요] 이지연·유명석 아들 찬서 외</title>
