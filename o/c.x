@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>40만원 훔친 집 또 찾아가 흉기 위협…50대 특수강도 체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/23/UDMCOQI7LFC35J3BZA36ODQP3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/23/UDMCOQI7LFC35J3BZA36ODQP3U/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 14:14:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;절도를 하다 여성 혼자 사는 집이라는 사실을 알게 된 뒤 이튿날 다시 찾아가 흉기로 위협하며 돈을 요구한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전남광주 목포경찰서는 특수강도 혐의로 50대 남성 A씨를 붙잡아 조사하고 있다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 전남 목포시 죽동의 한 주택에 침입해 집주인인 여성을 흉기로 위협하고 현금을 요구한 혐의를 받는다. 피해 여성이 가진 돈이 없다고 하자 A씨는 돈을 빼앗지 못한 채 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 범행 전날인 18일에도 같은 집에 몰래 들어가 현금 40만원을 훔친 것으로 파악됐다. 당시 집 안을 살피는 과정에서 여성이 혼자 사는 집이라는 사실을 알게 됐고, 다음 날 다시 찾아가 강도 범행을 저지른 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;신고를 받고 수사에 나선 경찰은 주변 감시카메라 영상을 분석해 A씨의 동선을 추적했다. 경찰은 체포영장을 발부받아 23일 오후 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 경위와 추가 범죄 여부 등을 조사할 예정이다. 또 도주 우려와 사안의 중대성 등을 고려해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, 전국 특사경 의견 수렴… ‘수사 지휘→지도·조언’ 새 준칙</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/23/RU256CREFREHZNBHOYY2XHWDNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/23/RU256CREFREHZNBHOYY2XHWDNI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 11:19:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRGEODEMU3WIOBZGRSDIYLFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청의 모습./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 검사의 특별사법경찰(특사경) 수사 지휘권이 폐지되는 가운데, 대검찰청은 기존 ‘수사 지휘’를 ‘지도·조언’으로 대체하는 내용의 새 수사 준칙 초안을 마련해 의견 수렴에 나섰다.&lt;br&gt;&lt;br&gt;대검찰청은 지난 21일 전국 주요 특사경 기관에 검사와 특사경의 관계를 규정한 수사 준칙 초안을 보내고, 오는 24일까지 의견을 제출해 달라고 요청했다. &lt;br&gt;&lt;br&gt;특사경은 세무·환경·노동 등 전문성이 필요한 분야를 담당하는 당국에 소속돼 제한적으로 수사를 담당하는 공무원이다. 지난해 기준 전국 특사경은 2만1263명이다. 그동안 특사경은 검찰청법에 따라 검사의 수사 지휘·감독을 받아왔다. &lt;br&gt;&lt;br&gt;그러나 오는 10월 검찰청 폐지에 맞춰 개정된 형사소송법은 검사의 수사 지휘권을 없애고, 검사와 특사경이 ‘상호 협력’하도록 규정하고, 구체적인 협력 사항은 대통령령으로 정하도록 했다. 특사경이 수사를 개시하거나 진행할 때 검사가 지도·조언할 수 있다는 내용도 신설됐다.&lt;br&gt;&lt;br&gt;이에 따라 대검이 마련한 특사경 수사 준칙 초안에는, 기존 특사경 수사 지휘 관련 규정이 ‘지도·조언’으로 대체됐다. 특사경이 검사에게 지도·조언을 받은 사건은 송치하기 전에 검사의 의견을 듣도록 하는 내용도 담긴 것으로 알려졌다. 기존 수사 지휘와 같은 강제력은 없지만, 사건 처리 과정에서 검사와 특사경 간 협력을 강화한다는 취지다.&lt;br&gt;&lt;br&gt;검찰이 특사경 운영 실태를 분석·평가할 수 있도록 하는 조항도 포함됐다. 수사 지휘권 폐지로 특사경 수사에 대한 사법적 통제가 약화할 수 있다는 우려를 고려해 최소한의 관리 장치를 마련한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;개정 형사소송법에 따라 특사경은 경찰과 마찬가지로 검사의 보완 수사 요구와 시정 조치 요구도 받게 된다. 이에 따라 특사경 수사 준칙 초안에는 “검사와 경찰의 수사 관계를 규정한 준칙을 준용한다”는 조항이 다수 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>다승 공동 1위 ‘림솔大戰’... 서교림, 연장서 김민솔 꺾어</title>
       <link>https://www.chosun.com/national/national_general/2026/08/23/E4EVW7RIJJGD5CVJLWPOAJEBTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/23/E4EVW7RIJJGD5CVJLWPOAJEBTQ/</guid>
@@ -912,24 +930,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Fri, 21 Aug 2026 02:10:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3GCMJSG5RDAYRZGFTGINLEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박홍근 기획예산처 장관과 최교진 교육부 장관이 지난 8일 서울 종로구 정부서울청사에서 열린 '미래세대를 위한 지방교육재정교부금 개편 토론회'에서 대화를 나누고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 지방교육재정교부금(교육교부금) 산정 방식을 기존 내국세 연동에서 학령인구 변화율과 경상성장률을 반영하도록 바꾼다. 새로 만드는 미래대응기금 안에는 교육 재정으로 쓰이는 계정도 따로 둔다.&lt;br&gt;&lt;br&gt;정부는 21일 제1차 재정운용전략협의회에서 이러한 내용의 ‘미래대응기금 추진 방안’을 확정했다. 지금까지 교육교부금은 내국세의 20.79%를 자동 배분하는 방식으로 정해졌다. 세금이 많이 걷히면 교육교부금도 늘고, 세수가 꺾이면 함께 줄어드는 식이다. &lt;br&gt;&lt;br&gt;내년부터는 교육교부금 산정 기준이 전년도 교부금이 된다. 여기에 경제가 성장한 만큼을 얹은 뒤 학생이 줄어든 만큼 덜어낸다. 경제 성장분은 최근 3년 평균 경상성장률로 계산한다. 경상성장률은 경제 성장률에 물가 상승률을 더한 값이어서 물가가 오르면 교육교부금도 따라 오른다. 학령인구 감소분은 전부 반영하지 않고 35%만 반영한다. &lt;br&gt;&lt;br&gt;교육부 관계자는 “교육청 지출의 60%가 교직원 인건비여서 학생 수가 준다고 그만큼 줄일 수 없기 때문”이라고 했다. 교육교부금이 전년보다 줄어들 경우 차액을 보전하는 조항도 교부금법에 넣기로 했다.&lt;br&gt;&lt;br&gt;20.79%라는 숫자가 사라지는 것은 아니다. 추가 세수를 뺀 내국세에 20.79%를 곱한 금액과 새로운 산식으로 산정한 교육교부금의 차액은 미래대응기금 안에 신설되는 교육·인재 계정으로 넘어간다. 이 계정은 영유아와 고등·평생교육, 우수 인재 유치 등에 사용되며 기금 안에 만들어지는 청년, 성장 동력, 지방 등 다른 계정으로 전출할 수 없도록 한다.&lt;br&gt;&lt;br&gt;정부는 새로운 산식을 적용해도 교육교부금이 기존 계획보다 늘어난다고 밝혔다. 지난해 세운 2025~2029년 중기계획대로면 2027년 77조1000억원에서 2029년 85조9000억원으로 늘어나지만, 개편안을 적용하면 내년 78조9000억원, 2028년 84조3000억원, 2029년 90조1000억원이 된다. 올해 교부금 규모(75조7000억원)에서 매년 늘어나는 것이다. 다만 정부는 현행 내국세 연동제를 유지했을 경우의 전망치는 공개하지 않았다.&lt;br&gt;&lt;br&gt;정부는 24일 입법 예고한 뒤 다음 달 3일 2027년도 예산안과 함께 관련 법안을 국회에 제출할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘항공사 기장 살해’ 김동환, 무기징역 선고</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/21/HA6ABYMIYNEZVPPVZYR4TXIE54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/HA6ABYMIYNEZVPPVZYR4TXIE54/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Aug 2026 02:00:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JENCL7JOZNAM3ARZI4UEG2DUQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;항공사 동료 기장을 흉기로 살해한 혐의를 받는 50대 전직 부기장 김동환(50)이 20일 오후 부산 연제구 부산지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옛 동료인 항공사 기장 6명을 살해할 계획을 세워 1명을 살해한 혐의로 재판에 넘겨진 김동환(50)이 무기징역을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사7부(재판장 임주혁)는 21일 오전 살인 등 혐의로 기소된 김에게 무기징역을 선고했다. 지난 11일 열린 결심 공판에서 검찰이 구형했던 형이 그대로 선고된 것이다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 공군 사관학교 파일럿 출신인 피해자들이 피고인을 조직적으로 음해하고 불이익을 줬고, 결국 피해자들이 피고인의 인생을 파멸시켰다고 주장한다”며 “그러나 관련자들의 진술과 여러 증거를 종합하면 피고인의 일방적인 환상에 불과하다. 오히려 피해자들은 자신에게 원한을 품은 이유를 이해하지 못하고, 피고인의 존재 자체에 대해서도 기억이 미비한 경우도 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 자신의 잘못을 반성한다거나 피해자들과 유가족에게 용서를 구하기는커녕 자신의 행동을 후회하지 않는다고 말하고 있다”며 “결과적으로 피고인은 사람들과 유대 관계를 형성하면서 어울려 살아갈 것이라는 기대를 하기 어렵다. 또 재범 위험성마저 높아 우리 사회에서 살아가는 일반인들의 생명이 침해당하는 피해가 또다시 발생하지 않도록 사회에서 영구적으로 격리할 필요가 있다”고 판시했다. 선고 직후 김은 별다른 반응 없이 퇴정했다. &lt;br&gt;&lt;br&gt;김은 지난 3월 16일 오전 4시 50분쯤 부산 부산진구 한 아파트에 택배 기사로 위장해 침입한 뒤 항공사 기장 B씨를 흉기로 살해한 혐의를 받는다. &lt;br&gt;&lt;br&gt;또 전날 오전 4시쯤 경기 고양시 한 아파트에서 택배 기사로 위장해 침입한 뒤 항공사 기장 C씨를 덮친 뒤 도구를 이용해 목을 졸라 살해하려다 범행에 실패해 도주하기도 했다. 작년 3월부터 올 3월까지 범행 도구를 구입하고, 피해자 미행과 주거지 답사 등을 통해 또 다른 항공사 기장 4명을 살해할 계획을 세운 혐의도 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종합특검, 구자현 檢 총장대행 징계요청 취소</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/21/5GQ765A5AFFTXFG5BTUEIB7G3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/21/5GQ765A5AFFTXFG5BTUEIB7G3I/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Aug 2026 01:44:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRTAYTDGQZWCZBZGVRGINTEGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 2차 종합특검 사무실./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차 종합특검(특별검사 권창영)이 “검찰이 특검 수사를 방해한다”며 구자현 검찰총장 대행과 김성동 대검찰청 감찰부장에 대해 요청했던 징계를 취소하겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;2차 특검은 지난 20일 법무부에 구 대행과 김 부장에 대한 징계 요청 취소장을 제출했다. 특검은 지난 4월 “대검찰청이 비상계엄 관련 자료 제공에 협조하지 않는다”며 두 사람에 대한 징계를 법무부에 요청했다. 특검은 심우정 전 검찰총장의 계엄 가담 여부를 수사하는 과정에서 대검에 ‘검찰청 헌법존중 정부혁신 TF 조사 자료’를 보내달라고 했는데, 대검이 이에 응하지 않았다는 것이다. &lt;br&gt;&lt;br&gt;당시 대검은 “관련 규정상 임의제출 형식으로는 감찰 자료를 제출하기 어려우니 압수수색 영장에 의한다면 협조하겠다는 의사를 전달했다”고 했다. 그러나 특검은 또 한 차례 “통상 대검 측에서 ‘자료 제공이 어렵다’고 공문을 보낼 때는 ‘압수영장 집행 시 협조하겠다’는 말을 덧붙이는데 이번 공문엔 적시되지 않았다”며 “따라서 대검에서 영장 청구 시 협조하겠다는 의사를 표현한 사실이 없다”고 반박했다.&lt;br&gt;&lt;br&gt;특검은 수사 기한은 오는 23일까지다. 수사 종료를 이틀 앞둔 만큼, 수사 방해를 이유로 한 구 대행과 김 부장에 대한 징계 요청의 실익이 없다고 판단해 징계 요청을 취소한 것으로 전해졌다. 지난 20일 특검은 심 전 총장과 전무곤 전 대검 기획조정부장을 내란 중요 임무 종사 혐의 등으로 불구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울시 “성수대교 단차, 안전 문제 없어”</title>
