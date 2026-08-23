@@ -13,6 +13,49 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“살아있단 경찰 말 믿었는데... 돌아온 건 백골 시신이었다”</title>
+      <link>https://www.chosun.com/national/regional/2026/08/23/R7SN6M4MN5HQZD6RLDINGJQIOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/23/R7SN6M4MN5HQZD6RLDINGJQIOY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 07:12:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IDO33S74JPIVDUICFDZ4VULJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 제주시 한림항 인근 방파제에서 경찰 인력이 지난 5월 실종신고가 최초 접수된 장미란(37)씨를 찾기 위해 테트라포드를 집중 수색하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7월 2일 실종 신고 이후 50여 일 만에 숨진 채 발견된 60대 실종자의 유족이 최초 신고 이후 수차례 경찰서를 방문해 도움을 요청했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;지난 22일 시신으로 발견된 60대 남성의 유족들은 23일 오후 2시 30분 제주서부경찰서를 항의 방문해 기자회견을 열고 “경찰을 믿고 기다렸지만 충분한 도움을 받지 못했다”며 경찰의 실종자 수색과 사건 처리 과정에 대한 철저한 조사를 요구했다.&lt;br&gt;&lt;br&gt;경찰서로 들어선 한 유족은 “죽은 다음에 찾으면 뭐 할 거냐”고 소리치며 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;유족 측에 따르면, 이들은 B씨를 실종 신고한 지난 7월 2일 이후에도 행방을 찾기 위해 두 차례 경찰서를 방문해 도움을 요청했다. 당시 A 경찰관은 경찰서를 찾은 B씨의 배우자에게 ‘B씨가 무사하며 가족에게 자신의 소재를 알리고 싶어 하지 않는다’는 취지로 설명했다고 한다. 하지만 경찰의 설명을 믿고 기다린 결과는 B씨의 사망 소식이었다.&lt;br&gt;&lt;br&gt;유족 측은 “아버지를 조금이라도 더 빨리 찾을 수 있었던 시간은 없었느냐”며 “최초 신고 이후 경찰이 어떤 조치를 했는지, 당시 판단과 대응이 적절했는지, 왜 적극적인 수색이 이뤄지지 않았는지 철저히 밝혀 달라”고 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HP2PA3A7IZPKJIUO7YX6FVGXJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 제주서부경찰서 앞에서 지난달 2일 실종신고를 했으나 허위 종결된 후 51일 만에 숨진 채 발견된 실종자 B씨 유족들이 기자회견을 하며 경찰에 항의하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6IDO33S74JPIVDUICFDZ4VULJA.jpg?auth=b7bb41dfbc8c4a2519e5295946679a8ce7a70dbc92a57c18a7e6a35251b0c3e2&amp;smart=true&amp;width=4206&amp;height=2578" type="image/jpeg" height="2578" width="4206">
+        <media:description type="plain">[제주=뉴시스] 우장호 기자 = 23일 오전 제주시 한림항 인근 방파제에서 경찰 인력이 지난 5월 실종신고가 최초 접수된 장미란(37)씨를 찾기 위해 테트라포드를 집중 수색하고 있다. 2026.08.23. woo1223@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">우장호</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘장애인 성폭행 의혹’ 색동원 측, 법인 취소 처분 불복… 인천시 상대 소송</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/23/2YCVKVQFNFAGXKDIJDUWYTLILQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/23/2YCVKVQFNFAGXKDIJDUWYTLILQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 05:37:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q47EBLPZQ5PBZDC4XD2NKZPVYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중증장애인 거주시설인 인천 강화군 색동원./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성폭행 의혹이 불거진 장애인 거주시설 색동원의 운영 법인이 지자체의 취소 처분에 불복하는 행정소송을 제기한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;23일 인천시에 따르면 시설장의 성폭행 의혹이 불거진 색동원의 운영 법인인 ‘사회복지법인 색동원’이 최근 인천시를 상대로 ‘법인 설립허가 취소 처분 취소 소송’을 인천지법에 제기했다. &lt;br&gt;&lt;br&gt;법인 측은 “문제가 불거진 장애인 거주 시설 색동원과 운영 법인 색동원은 별개”라며 “다른 방법으로 관리·감독을 받으며 독자적으로 정상 운영할 수 있다”고 주장하는 것으로 알려졌다. 사회복지사업법상 법인 운영 시설에서 성폭력 학대 등 범죄가 일어날 경우 설립 허가 취소 요건에 해당하지만, 법인을 감독할 수 있는 다른 방법이 없거나, 6개월 안에 시정명령을 이행하지 않을 경우 설립 허가를 취소할 수 있다는 내용의 제한 규정을 두고 있다.&lt;br&gt;&lt;br&gt;인천시는 지속적인 학대가 있었던 정황이 있고 성폭행 혐의로 재판을 받는 당사자가 당시 법인 대표이사였던 점 등을 고려하면, 법인 설립 허가 취소 처분은 정당하다는 입장이다. &lt;br&gt;&lt;br&gt;인천시는 앞서 성폭행 의혹이 불거져 시설 폐쇄 처분이 내려진 색동원의 운영 법인에 대해 지난 5월 설립 허가도 취소했다. &lt;br&gt;&lt;br&gt;의혹의 당사자인 A씨는 재판에서 성폭행 혐의를 부인하고 있다. A씨에 대한 선고 공판은 9월 2일 서울중앙지법에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 ‘사적접촉 자진신고’ 유명무실... 7년간 149건, 후속 조치 전무</title>
+      <link>https://www.chosun.com/national/incident/2026/08/23/ZZK67MDGIRGONKPZN4ZXMRDPPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/23/ZZK67MDGIRGONKPZN4ZXMRDPPI/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 05:34:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3WCN3FG4ZWEZBZMIZTGMZUGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘전경예우’ 논란을 방지하기 위해 도입한 ‘사적접촉 금지제도’가 사실상 유명무실하게 운영돼 왔다는 지적이 나왔다. 경찰관이 법조계에 재취업한 지 3년 내의 퇴직 경찰관과 사적 접촉을 할 경우 ‘사적접촉 신고센터’에 자진 신고하도록 한 제도인데, 경찰은 그동안 신고된 건에 대해 아무런 조치도 취하지 않아 온 것으로 나타났다.&lt;br&gt;&lt;br&gt;23일 국민의힘 박상웅 의원실이 경찰청에서 제출받은 자료에 따르면, ‘사적접촉 신고센터’가 도입된 2019년 이후 올해 7월까지 149건의 자진 신고가 접수됐다. 2019년 2건, 2020년 3건, 2021년 42건, 2022년 21건, 2023년 12건, 2024년 27건, 2025년 29건이다. 올해는 7월까지 13건이 접수됐다.&lt;br&gt;&lt;br&gt;하지만 경찰은 “신고된 건에 대해 별도 조치를 하지 않고 있다”고 밝혔다. 변호사 등으로 재취업한 퇴직 경찰관이 선후배 동료 경찰관에게 사건 문의를 하는 등 부적절한 사적 접촉을 하지 못하도록 만든 제도인데, 정작 사적 접촉이 있었다고 경찰관 스스로 신고한 일에 대해서 아무런 사후 조치를 하지 않았다는 것이다. 일각에선 실제 퇴직 경찰관과 현직 경찰관이 사적 접촉을 하는 경우는 신고 건수보다 훨씬 많을 것이라는 지적이 나온다.&lt;br&gt;&lt;br&gt;10월 형사소송법 개정안 시행으로 경찰의 수사 권한이 커지면서 ‘전경예우’ 현상은 더욱 심화할 전망이다. 이미 로펌들은 경찰 출신 변호사들 영입전에 나선 상황이다. 경찰은 ‘전경예우’로 인한 공정성 저하를 막기 위해 ‘사건문의 금지제도’를 확대·강화할 계획이다. 내부 지침으로 시행하던 제도를 경찰청 공무원 행동강령에 명문화할 예정이다. 직원들의 사건 문의를 금지하고 문의를 받은 수사관에게 신고 의무를 부여하며, 사건 문의만으로 경찰 공무원 징계가 가능하도록 할 방침이다. 또 사건 문의 금지 및 신고 대상을 기존 ‘직원 간’에서 ‘선임서 미제출 변호사’ ‘사무장’ 등 외부인으로 확대할 계획이다.&lt;br&gt;&lt;br&gt;박상웅 의원은 “사적접촉 신고제도를 만들어 놓고 7년간 단 한 건의 후속 조치도 하지 않은 것은 사실상 제도를 방치한 것”이라며 “경찰은 퇴직 경찰관의 부당한 사건 개입과 유착 가능성을 사전에 차단할 수 있는 실효성 있는 제도적 장치를 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 8월 24일 월요일 (음력 7월 12일 庚午)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/23/M7657NR6QBGTDFJ3N7HDAHTXF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/23/M7657NR6QBGTDFJ3N7HDAHTXF4/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>처서에도 무더위 계속... 서울 전역 폭염주의보</title>
       <link>https://www.chosun.com/national/transport-environment/2026/08/23/AEMF6BKIEBA5LDNYNOTHPQC7B4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/23/AEMF6BKIEBA5LDNYNOTHPQC7B4/</guid>
@@ -914,46 +957,6 @@ Bayreuther Festspiele/Enrico Nawrath
       <description/>
       <pubDate>Thu, 20 Aug 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOSUAAKVTNBH3AUIIBBY4T4VEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중수청에 임은정 지검장 지원... 수사관 정원 82.6% 채워</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/20/J2VUC4QQFZB5NIPXGDS6ENE5KI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/20/J2VUC4QQFZB5NIPXGDS6ENE5KI/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 13:10:14 +0000</pubDate>
-      <content:encoded>새로 출범하는 중대범죄수사청(이하 중수청)에 2375명이 지원했다. 행안부는 “세부 지원 내역은 비공개”라고 밝혔다. 일선 검사들의 지원율이 낮을 것이라는 비판을 의식한 것으로 보인다. 중수청 출범 전부터 수사관으로 자리를 옮기겠다는 뜻을 밝혔던 임은정 서울동부지검장은 중수청에 지원한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;행정안전부 중대범죄수사청 개청준비단은 지난 8월 7일부터 20일 18시까지 검찰청 소속 검사 및 수사관 등을 대상으로 중대범죄수사청(이하 중수청) 특례 임용 희망 신청 접수를 받은 결과 특례 임용 희망 신청서를 접수한 인원은 총 2375명이라고 20일 밝혔다. 중수청 직제상 정원(2874명)의 82.6%에 해당하는 인원이다.&lt;br&gt;&lt;br&gt;준비단은 제출된 신청 서류 등을 바탕으로 9월 중에 근무 희망지, 경력, 전문성 등을 고려하여 중수청 특례 임용 대상자를 선정하고, 중수청 출범일(10월 2일)에 맞춰 임용할 예정이다.&lt;br&gt;&lt;br&gt;이번 특례 임용에서 충원하지 못한 인력은 향후 공소청 직제에 따라 정해질 검찰청 정원 감축 규모 등을 고려해 추가로 충원할 예정이다. 행안부 중수청 개청 준비단은 “중대 범죄 수사청 조직 및 운영에 관한 법률 부칙 제4조 제2항에 따라 공소청 소속 검사 및 직원을 대상으로 추가 특례 임용을 추진하겠다”며 “경찰, 변호사, 회계사, 사이버 기술 및 금융 분석 전문가 등을 대상으로 하는 경력 경쟁 채용 절차를 통해 충원하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GAYDKNRYMNQTCZBQMUYTIOBYMI.jpg?auth=553627c6e2f22ca6866f4d9ceebc1cf99b3c5279d2829818806d9d424b6c4f57&amp;smart=true&amp;width=4756&amp;height=2742" type="image/jpeg" height="2742" width="4756">
-        <media:description type="plain">11일 오전 서울시 서초구 서초동 서울고등검찰청에서 중대범죄수사청 임용설명회가 진행, 한 참석자가 안내 입간판 앞을 지나고 있다. 중수청 개청준비단은 이날 오전 10시 서울중앙지검과 서울고검에서 각각 수사관 등 일반직 공무원, 검사를 대상으로 임용설명회를 개최한다. 또한 대검찰청에서도 오후 2시에 수사관 등 일반직 공무원 대상 임용설명회가 별도로 진행된다. (공동취재) 2026.8.11 ⓒ 뉴스1 박정호 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">한종찬 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>국비유학생 출신 진대제 “애국심 얽매이지 마라… 성공하는 게 애국”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/20/WBC3P6KWENB55GBPDTUMSD4L6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/20/WBC3P6KWENB55GBPDTUMSD4L6M/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 11:57:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CJAW3V3WRG7BHUNQ6U74LHBFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진대제(맨 왼쪽) 스카이레이크 회장이 삼성전자 사장을 맡고 있던 2002년 7월 이건희(왼쪽에서 둘째) 당시 회장에게 디지털 신제품을 설명하고 있다. /삼성전자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“요즘 젊은이들에게 애국심을 강요할 수는 없습니다. 각자 원하는 꿈을 좇아 성공하는 것이 곧 국가에 기여하는 시대입니다.”&lt;br&gt;&lt;br&gt;진대제 국비유학한림원 이사장은 지난 10일 서울 서초구 스카이레이크 사무실에서 본지와 만나 이같이 말했다. 스카이레이크는 진 이사장이 회장을 맡고 있는 투자 회사다. 삼성전자 디지털미디어총괄 사장과 정보통신부 장관을 지낸 진 이사장은 1977년 시작된 ‘국비유학’ 제도 1기 유학생이다. &lt;br&gt;&lt;br&gt;교육부는 올해로 50번째 국비 유학생을 선발했다. 국비 유학 제도는 1977년 박정희 정부가 외국의 선진 학문을 배워 국가 발전에 이바지할 인재를 키우자는 취지로 교육법에 관련 조항을 신설하면서 자리잡았다. 이승만 정부 시절에도 국비 유학생을 선발했지만 제도가 지속되진 못했다. &lt;br&gt;&lt;br&gt;진 이사장은 1977년 8월 미국 매사추세츠 주립대로 국비 유학을 떠났다. 그는 “반도체 공부를 하고 싶었지만 당시 내가 다니던 서울대 전자공학과에는 반도체를 가르쳐 줄 교수가 없었다”며 “선배들이 양자역학이나 물리를 시켰는데 2학년이 되니 ‘이걸 어디에 쓰나’ 싶었다”고 했다. 이어 “결국 반도체를 제대로 공부하기 위해 유학길에 올랐다”고 했다.&lt;br&gt;&lt;br&gt;그는 매사추세츠 주립대에서 석사 학위를 받았다. 1979년에는 스탠퍼드대로 옮겨 반도체 공부를 이어갔다. 실리콘밸리 한복판에 있는 스탠퍼드대는 현대 반도체 산업의 기틀을 닦은 대학이기 때문이다. 진 이사장은 “당시 매사추세츠 주립대 지도교수가 ‘6개월만 더 있으면 박사 학위를 받을 수 있는데 어디를 가느냐’며 말렸다”며 “하지만 ‘더 큰물에서 반도체를 제대로 배우겠다’고 고집을 부렸다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPJC6RHF2RFKPKWNTKEMVUNM7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 서초구의 한 사무실에서 진대제(오른쪽) 국비유학한림원 이사장과 우건조 백서발간위원장이 본지와 인터뷰를 하고 있다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진 이사장은 1985년 삼성전자에 합류해 미국 현지법인 수석연구원으로 일했다. 당시 스탠퍼드대 은사와 IBM 동료들은 그의 선택에 고개를 갸우뚱했다고 한다. 1980년대 세계 반도체 시장은 일본 기업들이 주름잡고 있었고, 한국의 삼성전자는 반도체 업계에서 존재감이 미미했기 때문이다. 진 이사장은 “주위에서 다들 말렸지만 일본을 넘어설 수 있다는 자신감이 있었다”고 했다.&lt;br&gt;&lt;br&gt;진 이사장이 합류한 후 삼성전자는 반도체 산업에서 존재감을 키우기 시작한다.&lt;b&gt; &lt;/b&gt;진 이사장은 1980년대 후반부터 D램 개발을 이끌며 삼성전자의 메모리 반도체 기술력을 끌어올렸다. 삼성전자는 1992년 세계 최초로 64메가 D램 개발에 성공하며 일본 업체들을 기술력에서 앞서기 시작했고, 이듬해인 1993년에는 D램 시장에서 세계 1위에 올랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A36XDEM3ABBUXIXSKHLRS6THBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 서초구의 한 사무실에서 진대제 국비유학한림원 이사장이 본지와 인터뷰를 하고 있다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 진 이사장은 “지금은 청년들에게 무작정 애국심을 강요하면 안 되는 시대”라고 강조했다. 진 이사장은 “연구나 산업은 정부가 시킨다고 성과가 나오는 게 아니다”라며 “청년들이 각자 하고 싶은 공부를 하면서 실력을 키울 수 있는 환경을 만들어주는 게 중요하다”고 했다. &lt;br&gt;&lt;br&gt;진 이사장은 “엔비디아 최고경영자(CEO) 젠슨 황도 30년 전에는 조그만 회사로 시작했다”며 “중요한 건 청년 본인의 꿈이 무엇이고 뭘 하고 싶어 하느냐”라고 했다. 그는 “보편적인 인재 육성은 민간에 맡기고, 정부는 손길이 안 가는 소외된 부분만 정책적으로 보완해 주면 된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 국비유학한림원은 올해 50기 국비 유학생 선발을 계기로 50주년 백서 ‘국비 유학, 어제, 오늘 그리고 내일’을 발간했다. 백서에는 지난 50년 동안 국비유학의 역사와 선발 현황, 성과가 담겼다. 우건조 백서발간위원장(고려대 식품공학과 명예교수)은 “국비 유학생이라는 자긍심이 국가 발전에 실질적으로 기여하는 인재 네트워크가 되도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>韓총리 “제주 실종 여성 수색에 최선… 2차 가해 엄정 대응하라” 지시</title>
-      <link>https://www.chosun.com/politics/goverment/2026/08/20/S2I7SXNB5BBRJOPZSOEXEGOOGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/08/20/S2I7SXNB5BBRJOPZSOEXEGOOGA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 12:33:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFOBZVCMLFFZLNRSYEUVL2QI7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주에서 지난 5월 실종된 장미란씨 인상착의 전단지. /장미란씨 가족&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한성숙 국무총리가 제주에서 일어난 30대 여성 장기 실종 사건과 관련해 20일 경찰에 “실종자 수색에 최선을 다하고, 실종자 가족에 대한 2차 가해 행위에 엄정 대응하라”고 지시했다. 총리가 성인 실종 사건에 대해 관계 기관에 구체적으로 지시를 내리는 것은 이례적이다.&lt;br&gt;&lt;br&gt;국무총리실에 따르면, 한 총리는 이날 오전 장미란(37)씨 실종 사건과 관련해 실종자 가족에게 장난 전화가 걸려오고 있다는 보도를 접하고 이같이 지시했다. 한 총리는 “애타는 마음으로 (실종된) 가족을 찾고 있는 피해 가족에게 장난 전화를 걸거나 가짜 뉴스를 유포하는 등의 행위는 결코 용납될 수 없다”며 “이러한 2차 가해 행위에 대해 법과 원칙에 따라 엄정히 대응하라”고 했다.&lt;br&gt;&lt;br&gt;제주 한림읍에 사는 장씨는 지난 5월 12일 늦은 오후에서 13일 새벽 사이에 집을 나선 뒤 실종됐다. 가족은 지난 5월 15일 장씨가 귀가하지 않는다며 경찰에 신고했지만, 당시 근무자였던 A 경장은 “신고 대상자와 연락이 닿았다”는 취지로 상관에게 보고하고, 신고 접수 당일에 사건을 종결 처리했다. 그러나 장씨는 돌아오지 않았고, 장씨 휴대전화는 5월 16일 꺼졌다.&lt;br&gt;&lt;br&gt;장씨 가족은 지난 7월 19일 경찰에 다시 신고했고, 경찰이 뒤늦게 재수사에 돌입했으나 시간이 2개월 이상 지나 방범 카메라(CCTV) 영상 등이 모두 삭제된 뒤였다. 경찰이 장씨 휴대전화의 통화 기록을 조회해 보니 A 경장이나 그가 근무했던 경찰서와 통화한 기록은 나오지 않았고, 경찰은 A 경장을 직무 유기 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘닥터나우 방지법’ 국회 통과... 정부는 “약배송 전면 확대”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/20/X35JLK5U6BDY5FKWSKRWFU2LPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/20/X35JLK5U6BDY5FKWSKRWFU2LPU/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Aug 2026 10:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42DOM3DGIZDSNZQGE2DIMBUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 남원에서 '비대면 진료 시범운영'이 시작된 가운데 관내 한 의료진이 화상으로 연결된 어르신을 대상으로 비대면 진료를 하고 있다. /남원시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비대면 진료 플랫폼의 의약품 도매업 진출을 막는 이른바 ‘닥터나우 방지법’이 국회 본회의를 통과했다. 정부는 비대면 진료 활성화를 위해 의약품 배송을 전면 확대하겠다는 계획을 밝혔다.&lt;br&gt;&lt;br&gt;보건복지부는 20일 열린 국회 본회의에서 약사법 개정안을 비롯해 간호법·국민연금법 개정안 등 소관 법률안 10건이 의결됐다고 밝혔다.&lt;br&gt;&lt;br&gt;약사법 개정안은 의약품 도매상 허가 결격 사유에 비대면 진료 중개 업자를 추가했다. 비대면 진료 플랫폼을 운영하면 의약품 도매상으로 활동할 수 없게 막은 것이다.&lt;br&gt;&lt;br&gt;이 개정안은 비대면 진료 플랫폼 닥터나우가 의약품 도매업을 함께 하는 행태에 대한 규제 성격의 내용을 담고 있어 ‘닥터나우 방지법’으로도 불렸다. 닥터나우는 스스로 도매업을 하면서 자사 유통망을 이용하는 약국에 특혜를 줬다는 의혹을 받아왔다.&lt;br&gt;&lt;br&gt;개정안은 의약품 도매상과 비대면 진료 플랫폼이 특수 관계에 있는 경우의 거래도 제한한다. 의약품 도매상이 2촌 이내 친족 등 특수관계에 있는 비대면 진료 플랫폼과 이용 계약을 맺은 약국에 의약품을 판매하지 못하도록 했다. 비대면 진료 플랫폼이 직접 또는 특수관계에 있는 도매상을 통해 계약 약국에 의약품을 공급하면서 의약품 유통에 영향력을 행사하는 것을 차단하려는 취지다.&lt;br&gt;&lt;br&gt;이 개정안이 국회 문턱을 넘으면서 정부도 비대면 진료 활성화를 위해 약 배송 전면 확대를 추진하기로 했다. 기존 비대면 진료 제도 하에서는 섬·벽지 거주자나 장기 요양 수급자, 장애인, 감염병·희귀질환자 등 일부에만 약 배송이 허용돼 있는데, 이를 모든 비대면 진료 환자에게 확대하겠다는 것이다.&lt;br&gt;&lt;br&gt;한편, 이날 국회를 통과한 약사법 개정안에는 마약류 오남용을 막기 위한 약사의 의무도 담겼다. 개정안은 약사가 마약이나 향정신성의약품을 조제할 때 의약품안전사용정보시스템(DUR)을 통해 의약품 정보를 확인하도록 의무화했다. DUR은 의약품을 처방하거나 조제할 때 병용금기와 연령금기 중복 처방 등 의약품 안전정보를를 확인하는 시스템이다.&lt;br&gt;&lt;br&gt;간호법 개정안은 복지부 장관이 병원급 의료기관의 간호사 1명당 적정 환자 수 기준을 정하도록 했다. 의료기관의 간호사 배치 현황 공개도 의무화한다.&lt;br&gt;&lt;br&gt;이밖에도 국민연금이 대체투자를 할 때 투자 대상과 관련된 환경·사회·지배구조(ESG) 요소를 고려할 수 있게 한 국민연금법 개정안도 이날 국회 문턱을 넘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>BTS 정국·대기업 회장 노려 380억 탈취…해킹조직 총책 징역 20년</title>
