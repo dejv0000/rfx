@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘다리 찢기’로 전치 8주... 태권도장 관장 아동학대 피소</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/24/4CV44VS76NDR5BLGSE76UJUE4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/24/4CV44VS76NDR5BLGSE76UJUE4Q/</guid>
+      <dc:creator>수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Aug 2026 13:10:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2DKNBWGZTGENDCMQYWMZDGGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태권도장에서 아동 관원에게 다리 찢기 동작으로 학대한 30대 관장이 피소돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경기남부경찰청 용인의 태권도장 관장 A씨의 아동복지법 위반 사건 고소장을 접수해 수사 중이라고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 18일 자신이 운영하는 용인의 태권도장에서 만 10세 미만 남자 관원 B군의 양 다리를 두 손으로 붙잡아 좌우로 벌리는 등 다리 찢기 동작으로 학대한 혐의를 받는다.&lt;br&gt;&lt;br&gt;B군은 이후 다리 부위 등에 전치 8주의 부상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B군의 부모는 태권도장 CCTV를 확인하고 지난달 24일 A씨를 경찰에 고소했다.&lt;br&gt;&lt;br&gt;경찰은 고소인 조사를 마치고 태권도장 CCTV 등을 확보해 분석 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주서 사흘새 실종자 4명째 시신 발견</title>
+      <link>https://www.chosun.com/national/regional/2026/08/24/PPQI23BZJ5CERDNIJFLA56RHDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/24/PPQI23BZJ5CERDNIJFLA56RHDA/</guid>
+      <dc:creator>재주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Aug 2026 12:19:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQYGMYJWMM4TIZTCGFTDCMBQGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 24일 제주시 한림읍 수원리의 한 야자수농장에서 수개월 전 실종됐던 장미란씨 시신을 발견해 현장 감식을 진행하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주에서 실종자로 추정되는 시신이 연달아 발견되고 있다. 지난 22일부터 사흘 동안 4명째다. 24일 제주경찰과 제주해경 등에 따르면 지난 23일 오전 3시 4분쯤 제주시 조천읍 신흥리 인근 해상에서 70대로 추정되는 남성 A씨가 숨져 있는 것을 낚시객이 발견해 119 소방당국에 신고했다.&lt;br&gt;&lt;br&gt;신고를 전달받은 제주해경은 이 남성이 지난 22일 제주동부경찰서에 실종 신고된 것을 파악하고 정확한 사망 원인과 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;이날 오전 10시 46분쯤에는 지난 5월 실종된 장미란(37) 씨로 추정되는 시신이 장씨 숙소 인근에서 발견됐다. 장씨는 담당 경찰관이 최초 실종 신고 당시 허위 종결했다가 지난달 재신고돼 경찰이 수색을 해왔다. 같은 날 오전 9시 35분쯤에는 제주시 애월읍 한 계곡 인근에서 경찰에 실종 신고됐던 또 다른 실종자도 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;앞서 지난 22일에는 60대 남성이 제주시 구좌읍 송당리에서 숨진 채 발견됐다. 이 60대 남성도 지난달 2일 실종 신고됐다가 장씨 사건의 같은 경찰 담당자가 비슷한 수법으로 허위로 종결 처리했던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 주택서 50대 여성 흉기 찔려 숨져... 용의자는 전직 경찰</title>
+      <link>https://www.chosun.com/national/regional/2026/08/24/UVZBYN4LYNAGPC6EIIS5VPQM5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/24/UVZBYN4LYNAGPC6EIIS5VPQM5Y/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Aug 2026 12:03:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5BCK3DHCZFRJKUE65YPNGLVC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주 서귀포시에서 50대 여성이 흉기에 찔려 숨진 채 발견돼 경찰이 용의자를 쫓고 있다.&lt;br&gt;&lt;br&gt;24일 경찰에 따르면, 이날 오후 7시쯤 서귀포시 남원읍의 한 주택에 50대 여성이 흉기에 찔려 숨진 채 발견됐다는 신고가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 타살 혐의점이 있는 것으로 보고, 60대 전직 경찰관을 유력한 용의자로 보고 추적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한동훈, 제주 사건으로 檢 수사권 폐지 비판 “검경 균형 시스템 없애버려”</title>
       <link>https://www.chosun.com/politics/assembly/2026/08/24/G56VEH5ZPVHD5LK7II2DKCR6EU/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/08/24/G56VEH5ZPVHD5LK7II2DKCR6EU/</guid>
@@ -587,24 +614,6 @@
       </media:content>
     </item>
     <item>
-      <title>경찰 ‘사적접촉 자진신고’ 유명무실... 7년간 149건, 후속 조치 전무</title>
-      <link>https://www.chosun.com/national/incident/2026/08/23/ZZK67MDGIRGONKPZN4ZXMRDPPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/23/ZZK67MDGIRGONKPZN4ZXMRDPPI/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Aug 2026 05:34:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3WCN3FG4ZWEZBZMIZTGMZUGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘전경예우’ 논란을 방지하기 위해 도입한 ‘사적접촉 금지제도’가 사실상 유명무실하게 운영돼 왔다는 지적이 나왔다. 경찰관이 법조계에 재취업한 지 3년 내의 퇴직 경찰관과 사적 접촉을 할 경우 ‘사적접촉 신고센터’에 자진 신고하도록 한 제도인데, 경찰은 그동안 신고된 건에 대해 아무런 조치도 취하지 않아 온 것으로 나타났다.&lt;br&gt;&lt;br&gt;23일 국민의힘 박상웅 의원실이 경찰청에서 제출받은 자료에 따르면, ‘사적접촉 신고센터’가 도입된 2019년 이후 올해 7월까지 149건의 자진 신고가 접수됐다. 2019년 2건, 2020년 3건, 2021년 42건, 2022년 21건, 2023년 12건, 2024년 27건, 2025년 29건이다. 올해는 7월까지 13건이 접수됐다.&lt;br&gt;&lt;br&gt;하지만 경찰은 “신고된 건에 대해 별도 조치를 하지 않고 있다”고 밝혔다. 변호사 등으로 재취업한 퇴직 경찰관이 선후배 동료 경찰관에게 사건 문의를 하는 등 부적절한 사적 접촉을 하지 못하도록 만든 제도인데, 정작 사적 접촉이 있었다고 경찰관 스스로 신고한 일에 대해서 아무런 사후 조치를 하지 않았다는 것이다. 일각에선 실제 퇴직 경찰관과 현직 경찰관이 사적 접촉을 하는 경우는 신고 건수보다 훨씬 많을 것이라는 지적이 나온다.&lt;br&gt;&lt;br&gt;10월 형사소송법 개정안 시행으로 경찰의 수사 권한이 커지면서 ‘전경예우’ 현상은 더욱 심화할 전망이다. 이미 로펌들은 경찰 출신 변호사들 영입전에 나선 상황이다. 경찰은 ‘전경예우’로 인한 공정성 저하를 막기 위해 ‘사건문의 금지제도’를 확대·강화할 계획이다. 내부 지침으로 시행하던 제도를 경찰청 공무원 행동강령에 명문화할 예정이다. 직원들의 사건 문의를 금지하고 문의를 받은 수사관에게 신고 의무를 부여하며, 사건 문의만으로 경찰 공무원 징계가 가능하도록 할 방침이다. 또 사건 문의 금지 및 신고 대상을 기존 ‘직원 간’에서 ‘선임서 미제출 변호사’ ‘사무장’ 등 외부인으로 확대할 계획이다.&lt;br&gt;&lt;br&gt;박상웅 의원은 “사적접촉 신고제도를 만들어 놓고 7년간 단 한 건의 후속 조치도 하지 않은 것은 사실상 제도를 방치한 것”이라며 “경찰은 퇴직 경찰관의 부당한 사건 개입과 유착 가능성을 사전에 차단할 수 있는 실효성 있는 제도적 장치를 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, ‘모아타운’ 착공 1년6개월 당긴다... 2031년까지 4만호 착공</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/23/YLFGMF5GPFFDDLBBRYYZYOAFVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/23/YLFGMF5GPFFDDLBBRYYZYOAFVM/</guid>
-      <dc:creator>윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Aug 2026 05:03:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3TOMRUMQ3DIZBSHBTDGZBWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 11일 서울 용산구 서계·청파동 일대 정비사업 현장을 둘러보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 모아타운 정비계획과 조합 설립을 동시에 추진하는 ‘모아통합기획’을 도입해 착공까지 걸리는 기간을 1년6개월 줄인다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;모아타운·모아주택은 개발하기 어려운 노후 저층주거지를 생활권 단위로 묶어 정비하는 서울형 소규모 정비사업이다. 2022년 도입 이후 현재 모아타운 137곳에서 사업이 진행 중이며, 약 13만가구를 지을 수 있는 정비계획이 마련됐다. 모아주택은 156곳, 약 4만3000가구가 사업을 진행하고 있다. 시는 모아주택 1만4000가구를 2028년까지, 4만가구를 2031년까지 착공하는 것을 목표로 한다.&lt;br&gt;&lt;br&gt;앞으로 새로 추진하는 모아타운 사업에는 ‘모아통합기획’을 도입한다. 정비계획 수립과 조합 설립 등 여러 절차를 동시에 진행해 속도를 높이는 방식이다. 주민과 서울시, 모아통합계획가, 서울주택도시공사(SH) 등이 ‘모아한팀’을 꾸려 사업 초기부터 함께 계획을 짠다.&lt;br&gt;&lt;br&gt;모아통합기획에서는 정비 밑그림인 관리계획을 후보지 선정 뒤 1년 안에 세우는 것이 목표다. 주민은 조합 설립과 사업 추진을 맡고, 시와 자치구는 계획 수립을 지원한다. 모아통합계획가는 전체 계획을 조정하고 자문하며, SH는 사업성을 분석하고 필요하면 공동으로 사업을 시행한다. 서울시는 이를 통해 착공까지 걸리는 기간을 기존 약 6년에서 4년6개월로 줄일 계획이다.&lt;br&gt;&lt;br&gt;시는 다음 달 초 모아통합기획 신규 후보지 공모를 시작해 2030년까지 100곳을 선정한다. 이를 통해 추가로 12만가구를 지을 수 있는 정비계획을 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;기존 사업 속도도 높인다. 서울시는 ‘신속착공 공정회의’를 매달 열어 지역별 지연 원인을 점검하고 지원책을 마련한다. 건축·정비·법률 등 7개 분야 전문가로 구성된 ‘찾아가는 신속해결지원단’도 현장을 찾아 해결 방안을 제시한다. 서울시 모아주택과장과 각 자치구 관련 부서 국장은 ‘공정촉진책임관’을 맡아 사업별 진행 상황을 관리한다.&lt;br&gt;&lt;br&gt;사업 과정에서 생기는 갈등을 줄이기 위한 지원책도 마련한다. 모아타운에 맞는 조합 운영규칙 표준안과 공사계약서 표준안을 만들어 분쟁을 예방한다. 공사비 갈등을 줄이기 위해 전국 최초로 조례에 공사비 검증 근거를 마련하고, SH가 공사비가 적정한지 검증할 계획이다.&lt;br&gt;&lt;br&gt;사업 기간을 줄이거나 서울시 정책을 적극 반영한 사업지는 ‘모범 모아타운’으로 뽑는다. 첫 모범 모아타운에는 광진구 건국대, 금천구 석수역세권, 관악구 난곡동 모아타운이 선정됐다.&lt;br&gt;&lt;br&gt;명노준 서울시 주택실장은 “계획 수립에 그치지 않고 실제 착공까지 빠르게 이어질 수 있도록 공정관리부터 갈등 해결까지 서울시가 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여치 집·얼음 냉차·우물가 등목… 사진으로 보는 여름의 추억</title>
       <link>https://www.chosun.com/national/national_general/2026/08/23/MG3VBV66FRG4PLPL2IEKSYE6QY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/23/MG3VBV66FRG4PLPL2IEKSYE6QY/</guid>
@@ -615,15 +624,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XLNDT2XAFNE2DNMMW6U73M2WRY.jpeg?auth=b538caf172e2e61403c22ec6a9befb45d4ad658e59f02c8520e23e6594b4ace9&amp;smart=true&amp;width=1800&amp;height=1200" type="image/jpeg" height="1200" width="1800">
         <media:description type="plain">1973년 8월 10일 주택가의 공동 우물 앞에서 어린이들이 등목을 하고 있다.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“텔레그램 탈퇴, 시그널 깔아라“… 특검 정보 털어 후배 도운 경찰</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/22/BLOQFCMLFBD4REVFBZ7YCSVNZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/22/BLOQFCMLFBD4REVFBZ7YCSVNZY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 22 Aug 2026 02:44:59 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTDENLFGU2TCNRWGY2GGZDFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검의 서울~양평 고속도로 수사 정보를 유출한 혐의를 받는 현직 경찰관이 자신이 맡았던 정보경찰 업무를 하는 것처럼 속여 수사 상황을 파악한 것으로 22일 나타났다. 해당 경찰관을 통해 수사 정보를 들은 국토교통부 공무원은 김건희 특검이 압수수색을 나오기 5일 전에 관련 자료를 없앤 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이에 대해 국토부 공무원은 “경찰관에게 사건을 알아봐 달라고 한 적도, 관련 자료를 삭제하지도 않았다”고 반박했다.&lt;br&gt;&lt;br&gt;본지가 입수한 2차 종합특검 공소장에 따르면, 경찰청 국가수사본부 범죄정보과 소속이었던 이모 경정은 2025년 10월 9일 고교 및 대학교 후배인 김모 국토부 과장 연락을 받았다. 당일은 2022년 3~5월 당시 윤석열 대통령직인수위원회에 파견 근무하던 김 과장이 국토부 김모 서기관에게 “양평 고속도로 종점을 변경하라”고 지시했다는 언론 보도가 나온 날이었다. 양평 고속도로 종점이 양평군 양서면에서 윤석열 정부 출범 후 김건희 여사 일가 부동산이 많은 강상면으로 변경한 의혹의 배후로 김 과장이 지목된 것이다.&lt;br&gt;&lt;br&gt;다음 날인 2025년 10월 10일 저녁, 이 경정은 서울 서초동의 한 고깃집에서 김 과장을 만나 “김건희 특검에 아는 분 있으면 상황을 알아봐줄 수 있냐”는 부탁을 받았다. 이 경정은 그 자리에서 김건희 특검에 파견 중이던 후배 경찰관 A씨에게 전화했다. 그는 양평 고속도로 사건을 담당했던 A씨를 통해 “김 서기관이 특검 조사에서 ‘김 과장이 종점 변경을 지시했다’고 진술한 게 맞다”는 사실을 확인했다.&lt;br&gt;&lt;br&gt;이 경정은 10월 11일 다시 A씨에게 전화해 김 과장에 대한 김건희 특검의 압수수색이 임박했다는 사실을 파악했다. 특검은 공소장에 “이 경정이 경찰청 범죄정보과 계장으로서 김건희 특검의 주요 사건 동향을 파악하는 것처럼 행세하면서 수사 진행 상황을 물었다”고 적시했다. &lt;br&gt;&lt;br&gt;이 경정은 그날 오후 10시 23분 김 과장에게 전화해 “산후조리원에 있는 국토부 공무원까지 압수수색한 김건희 특검이 너도 당연히 압수수색할 것이다. 10일 이내에 이루어질 것”이라고 했다. 또 이 경정은 김 과장에게 “일단 준비(대비)하라”면서 “텔레그램은 통화 내역이 남게 되니 시그널을 깔아라(설치하라). 텔레그램은 탈퇴하는 게 제일 깔끔하다”고도 했다. 김 과장도 “조언을 받고 압수수색을 염두에 두어 집에 있는 현금을 치웠다. 휴대폰도 다 지웠다”고 했고, 이 경정은 “잘했어”라고 답했다.&lt;br&gt;&lt;br&gt;김 과장은 이 경정과 통화한 지 13분 만인 10시 36분, 자신의 정부세종청사 국토부 사무실로 가 컴퓨터에 저장됐던 이메일을 삭제했다. 또 김 과장은 사무실에서 문서를 갖고 나와 가방과 함께 배우자 사무실에 숨기고, 텔레그램도 탈퇴했다고 한다. 김건희 특검은 닷새 후인 2025년 10월 16일 김 과장 사무실과 주거지를 압수수색했다.&lt;br&gt;&lt;br&gt;2차 특검은 이 경정을 공무상 비밀 누설, 김건희특검법상 수사 방해 혐의로 지난 6일 불구속 기소했다. 이 경정은 김건희 특검 수사를 받던 김 과장과 통화한 사실이 처음 알려진 작년 12월 정보 업무에서 배제됐지만, 올 상반기에 마약범죄수사과 계장으로 발령받아 다시 수사 업무를 하고 있다. 경찰청 관계자는 “재판을 통해 드러나는 사실관계에 따라 이 경정에 대한 감찰 조사를 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;반면 특검의 이 경정 공소사실에 대해 김모 과장은 “이 경정에게 수사 상황을 알아봐 달라고 하지 않았고, 오히려 김건희 특검에서 확보하지 못했던 대통령직인수위 파견 당시 사용했던 컴퓨터를 직접 보내줬다”고 반박했다. &lt;br&gt;&lt;br&gt;김 과장은 본지 통화에서 “이 경정이 ‘특검이 뭐라도 만들어낼 것’이라는 말에 오히려 ‘양평 고속도로 종점 변경을 지시받지도, 지시하지도 않았는데 어떻게 거짓 진술을 하냐’고 답했을 뿐”이라고 했다. 이어 “김건희 특검이 (인수위 파견 근무를 했던 나를) 압수수색할 것이라는 예상은 앞서 만난 변호사를 통해서도 들었던 내용이고, 누구나 알 수 있었던 내용”이라고도 했다. &lt;br&gt;&lt;br&gt;김 과장은 배우자 사무실에 서류를 숨겼다는 특검 주장에 대해서도 “고속도로 종점 변경과 무관하다는 것을 입증하는 반박자료였고, 범죄와 관련돼 있었다면 파쇄하지 굳이 왜 옮겨놓겠냐”고 했다.&lt;br&gt;&lt;br&gt;이어 김 과장은 “김 서기관이나 용역업체도 지난 4월 22일 재판에서 제가 종점 변경을 지시하지 않았다고 진술한 바 있다”고 했다.&lt;br&gt;&lt;br&gt;김 과장은 김건희 특검과 2차 종합특검에서 모두 기소 대상에서 제외됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>처서 마법은 없다, 주말 무더위 계속</title>
