@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 경찰 “장미란씨 5월 13일 새벽 사망 추정, 타살 가능성 낮아”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/26/PQPIN6ZW3NDE7IUM6QQBW4BHJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/26/PQPIN6ZW3NDE7IUM6QQBW4BHJQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 05:13:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QTMN3DMZRTQNDEMJQWCNZUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 “장미란씨 5월 13일 새벽 사망 추정, 타살 가능성 낮아”&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WGYNLB22IRFSJG3IVRIOIYCPKY.jpg?auth=080a5e908908166b2f445fb0fbd2486b80ac9e186455fa1880595cd26b265d37&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
+        <media:description type="plain">장미란씨</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>아이돌 콘서트 티켓 1분에 80장 싹쓸이… 13배 튀겨 4억 챙겼다</title>
+      <link>https://www.chosun.com/national/regional/2026/08/26/TUGVNXOOHJGFPAFUOWGJZ4UKRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/26/TUGVNXOOHJGFPAFUOWGJZ4UKRU/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 05:14:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDMZTCGY4DGYTEGQZGGZLBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 거래한 암표 거래 내역. /울산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인기 아이돌 콘서트 티켓을 매크로(자동·반복 입력) 프로그램으로 대량 구매한 뒤 최대 13배 비싼 가격에 되팔아 4억원이 넘는 수익을 챙긴 30대 암표상이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산경찰청 사이버범죄수사대는 업무방해와 공연법·정보통신망법 위반 등 혐의로 A(35)씨를 구속해 검찰에 송치했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 2024년 11월부터 지난해 10월까지 국내 대형 티켓 예매 사이트 3곳에서 외국인 명의 계정 1198개를 이용해 인기 아이돌 콘서트 티켓을 대량으로 사들인 뒤 중고 거래 사이트 등을 통해 되판 혐의를 받는다.&lt;br&gt;&lt;br&gt;전자상거래업에 종사하던 A씨는 컴퓨터 관련 지식을 이용해 직접 매크로 프로그램을 개발해 범행에 활용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨가 만든 매크로는 예매처의 부정 구매 방지 장치인 ‘캡차(CAPTCHA)’를 우회하거나 방해하고, 중고 거래 사이트에 판매 게시글을 초 단위로 연속해서 올릴 수 있도록 설계됐다. 카드 결제 단계까지 자동화돼 A씨는 불과 1분 만에 티켓 70~80장을 구매·판매할 수 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 이런 수법으로 약 1년간 암표 1700여 장을 유통해 4억2000여만원의 순수익을 챙겼다.&lt;br&gt;&lt;br&gt;티켓은 정상 가격의 3배에서 최대 13배까지 값을 올려 되팔았다. 일부 티켓은 한 장에 273만원에 판매되기도 했다.&lt;br&gt;&lt;br&gt;한국콘텐츠진흥원으로부터 수사 의뢰를 받은 경찰은 A씨를 추적해 서울에 있는 자택에서 체포했다.&lt;br&gt;&lt;br&gt;A씨 집에서는 명품 시계와 귀금속, 고가의 신발 등이 발견됐고, A씨가 수입 스포츠카를 몰고 다닌 사실도 확인됐다. 경찰은 집 안 금고에 보관돼 있던 현금 약 2억원을 압수하고, 범죄 수익 4억2000여 만원에 대해서는 기소 전 추징보전을 신청했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 텔레그램을 통해 외국인 명의 계정을 개당 3만원에 구입한 것으로 파악됐다. 경찰은 A씨가 특정인에게 돈을 반복적으로 송금한 정황도 확인해 관련 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 텔레그램을 통해 외국인 명의를 1개당 3만원에 구입한 사실과 특정인에게 반복적으로 송금한 정황이 확인돼 수사를 확대하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 A씨가 사용한 매크로 프로그램이 카드 결제 단계까지 자동으로 진행하도록 설계된 사실을 확인하고, 관련 카드사에도 자동 결제 승인 절차를 보완해 달라고 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, BTS 광화문 공연 부정 예매 30대 女 불구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/26/5RU66TDXJZDOXBZZCG5DDZXXME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/26/5RU66TDXJZDOXBZZCG5DDZXXME/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 04:55:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSDAMDFGY4TCZJZHFTDEYLGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;BTS가 21일 서울 광화문광장에서 'BTS 컴백 라이브: 아리랑' 발매 기념 컴백 공연을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3월 서울 광화문 광장에서 열린 BTS 공연 표를 부정 예매한 30대 여성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;26일 서울경찰청 사이버수사대는 정보통신망법 위반·업무방해·공연법 위반 혐의로 30대 여성 A씨를 불구속 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난 3월 경찰은 BTS 광화문광장 컴백 공연 티켓 구매와 관련해 매크로 프로그램 악용이 의심된다는 신고를 접수해 수사에 착수했다. &lt;br&gt;&lt;br&gt;경찰 조사에 따르면, A씨는 지난 2월 23일 매크로 프로그램을 이용해 BTS 티켓을 가족과 지인 명의 계정으로 총 9장 예매했다.&lt;br&gt;&lt;br&gt;A씨는 이 외에도 2023년 4월부터 지난 3월까지 약 2600장의 공연 티켓을 부정 구매한 뒤 판매한 혐의도 받는다. &lt;br&gt;&lt;br&gt;현재 서울청은 범죄 수익금 4억4200만원에 대해 기소 전 몰수·추징 보전을 신청한 상태다. &lt;br&gt;&lt;br&gt;서울청 관계자는 “앞으로도 티켓 부정 구매·유통 행위에 대해 엄정히 수사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“인천지법 폭파하겠다” 협박 메일 신고… 경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2026/08/26/WJKYMLWCQBBMBNU2LPCJHPNBN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/26/WJKYMLWCQBBMBNU2LPCJHPNBN4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 05:06:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRWEMRZMQ2TCYZQGFTDOOJYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지법과 법원 주변을 폭파하겠다는 협박 메일이 신고돼 경찰이 수색에 나섰다.&lt;br&gt;&lt;br&gt;26일 인천경찰청에 따르면 이날 오전 9시 17분쯤 “인천지법과 인근을 폭파하겠다”는 내용의 메일이 인천지법 종합민원실 공용 메일에 전송됐다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;메일은 이날 0시쯤 발신된 것으로 파악됐다. 신고를 받은 경찰은 인천 미추홀구 인천지법에 특공대원 11명 등 경찰관 37명과 탐지견 3마리를 투입해 수색을 진행했으나, 현재까지 확인된 특이사항은 없는 것으로 파악됐다. 재판은 정상적으로 진행되고 있다. &lt;br&gt;&lt;br&gt;충북 청주 등 다른 지역에서도 이와 비슷한 내용의 메일이 전송된 것으로 알려졌다. 경찰 관계자는 “이번 건에 대한 수사는 서울경찰청에서 통합해 진행하는 것으로 알고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“광주고법에 폭발물 설치했다” 테러 의심 신고… 경찰·소방 수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/26/L7B4PDYXERCKNCKPRH6CUBY52Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/26/L7B4PDYXERCKNCKPRH6CUBY52Y/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 05:07:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/456P7ID6GBBETKWU7DT4RWEJXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 전남광주소방본부 소속 소방관들이 전남광주시 동구 광주고법 건물에서 폭발물 수색을 하고 있다. /전남광주소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“광주고등법원에 폭발물을 설치했다”는 테러 위협 이메일이 발송돼 경찰과 소방 당국이 수색 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;26일 전남광주소방본부에 따르면 이날 낮 12시 22분쯤 “사제 폭탄을 고등법원 및 주변에 설치했다”는 내용의 이메일이 광주고법에 발송됐다는 테러 의심 신고가 접수됐다.&lt;br&gt;&lt;br&gt;법원 직원이 신원이 확인되지 않은 인물로부터 테러 위협 메일을 받고 경찰에 신고한 것으로 파악됐다. 테러 위협 메일에는 “오후 1시 34분부터 오후 8시 30분 사이 폭파하겠다”는 내용이 담겨 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에 초동 대응팀과 특공대를 투입해 법원 내부와 주변을 대상으로 수색 중이다. 소방당국도 인력을 투입해 법원 등을 수색 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/456P7ID6GBBETKWU7DT4RWEJXM.jpg?auth=01507847c3622af8e1c433237addb519f883b928e1ce01b1cedc7042261feb3f&amp;smart=true&amp;width=1393&amp;height=1026" type="image/jpeg" height="1026" width="1393">
+        <media:description type="plain">26일 전남광주소방본부 소속 소방관들이 전남광주시 동구 광주고법 건물에서 폭발물 수색을 하고 있다. /전남광주소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘日 아이돌’의 폭파 협박?… 청주지법 300여명 긴급 대피</title>
+      <link>https://www.chosun.com/national/incident/2026/08/26/OVTDXHGMI5DFBEU2NU2NMKJHUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/26/OVTDXHGMI5DFBEU2NU2NMKJHUA/</guid>
+      <dc:creator>신정훈 기자, 김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 04:35:33 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JR2TBUAMC5I7BD5XTODBKC42BI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 청주시 서원구 청주지방법원에 사제 폭탄이 설치됐다는 신고가 접수돼 경찰 특공대가 법원 청사 수색 작업을 하고있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 주요 법원에 폭발물 설치·폭파를 예고하는 협박 이메일이 잇따라 접수돼 경찰이 긴급 수색에 나섰다. 현재까지 폭발물 등 위험물은 발견되지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;청주지방법원에 폭발물을 설치했다는 협박 메일이 접수돼 법관과 직원 300여 명이 긴급 대피하고 경찰 특공대와 군 폭발물처리반(EOD)이 출동했다. 1시간 30분가량 청사를 수색했지만 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면 이날 오전 10시 26분쯤 청주지법 직원으로부터 “법원에 폭발물을 설치했다는 내용의 메일을 받았다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;법원 공용 메일로 발송된 글에는 “청주지방법원과 주변에 사제 폭탄을 설치했다. 오후 1시 34분부터 오후 7시 30분 사이 폭발한다”는 내용이 담긴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;신원을 알 수 없는 메일 발송자는 자신을 일본 아이돌 그룹 멤버라고 소개했다. 그는 “전속 계약 해지 처분을 받은 뒤 악성 댓글과 비난에 시달려 변호사에게 사건을 의뢰했는데 아무것도 변하지 않는 현실에 참담했다”는 취지의 내용도 적었다.&lt;br&gt;&lt;br&gt;신고가 접수되자 청주지법은 안내 방송을 통해 청사 내 인원에게 대피를 지시했다. 법관과 직원 등 300여 명은 모두 건물 밖으로 빠져나왔다.&lt;br&gt;&lt;br&gt;경찰 특공대와 군 폭발물처리반, 소방당국 등 70여 명은 청사 내부와 주변을 약 1시간 30분 동안 수색했다. 수색 결과 폭발물이나 의심 물체는 발견되지 않았다.&lt;br&gt;&lt;br&gt;비슷한 내용의 협박 메일은 전주지법과 대전지법, 인천지법, 광주지법 등 다른 지역 법원에도 잇따라 발송된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이날 낮 12시쯤 “전주지법에 폭발물을 설치했다는 이메일이 왔다”는 신고가 경찰에 접수됐다. 해당 협박 문서는 전주지법 공용 이메일 계정으로 수신된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;비슷한 시각 전남광주 동구 지산동 광주고법에도 폭발물 설치가 의심된다는 신고가 접수됐다. 법원 관계자가 신원 미상의 인물로부터 “사제 폭탄을 설치했고 오후 1시 34분부터 오후 8시 30분 사이 폭파하겠다”는 내용의 이메일을 받은 뒤 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 초동 대응팀과 경찰특공대 등을 현장에 투입해 법원 내부와 주변에 실제 폭발물이 설치됐는지 수색하고 청사 보안을 강화했다. 경찰은 이처럼 각 법원에 실제 폭발물이 설치됐는지 확인하는 한편, 이메일 발신자를 추적하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무안공항 로컬라이저 규정 위반 알고도 “문제 없다”... 국토부 공무원 7명 송치</title>
+      <link>https://www.chosun.com/national/incident/2026/08/26/XJWYNDUPXBEX5FX2ZHRD677W6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/26/XJWYNDUPXBEX5FX2ZHRD677W6A/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMBKR5OQXZLQRED4Q4EB4QQNV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·29 제주항공 여객기 참사 장소인 전남광주 무안국제공항의 콘크리트 둔덕. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 12월 무안공항에서 발생한 제주항공 여객기 참사 때 여객기와 충돌한 ‘로컬라이저’가 관련 규정에 맞게 설치됐다는 내용의 허위 보도자료를 작성한 국토교통부 공무원 7명이 검찰에 송치됐다. &lt;br&gt;&lt;br&gt;경찰청 국가수사본부 ‘12·29 여객기 참사 특별수사단’은 26일 “허위공문서작성 등 혐의로 입건된 국토교통부 소속 공무원 7명을 전날 송치했다”고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 지난 1월 국수본 산하에 특별수사단을 만들고 참사 원인 규명과 책임자 처벌을 위해 관련자 74명을 입건해 수사하고 있다. 이 중 7명을 우선 송치하고, 참사 원인 및 책임과 관련된 업무상 과실치사상 혐의의 수사는 아직 결론이 나지 않았다.&lt;br&gt;&lt;br&gt;이번에 입건된 국토부 공무원 7명은 참사 다음 날과 이틀 후인 2024년 12월 30일과 31일, 두 차례에 걸쳐 허위 보도자료를 작성·배포한 혐의를 받는다. 보도자료를 작성하고 검토한 4명과 총괄 책임자 3명 등이다. 당시 국토부 장·차관은 보도자료 작성·배포에 관여하지 않아 포함되지 않았다.&lt;br&gt;&lt;br&gt;참사 당시 여객기는 조류 충돌 후 비상 착륙을 하다가 활주로를 벗어나 ‘로컬라이저’가 설치된 콘크리트 둔덕과 충돌했다. 로컬라이저는 항공기의 착륙을 돕는 기계 장치다. 사고 직후부터 해당 둔덕이 ‘활주로 종단 안전 구역 내의 장애물은 부서지기 쉬운 재질이어야 한다’는 항공 규정에 맞지 않아 참사를 키웠다는 비판이 이어졌다.&lt;br&gt;&lt;br&gt;이에 국토부는 ‘무안공항의 로컬라이저는 관련 규정에 맞게 설치되었습니다’라는 제목의 보도자료를 두 차례 배포했다. 경찰은 국토부 공무원들이 규정에 어긋난다는 것을 알면서도 국토부의 책임을 회피하려고 의도적으로 허위 자료를 만들었다고 판단했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “관련 규정 중 유리한 내용만 보도자료에 포함하고 불리한 내용은 고의로 누락한 정황을 확인했다”며 “국토부 내부 회의에서 로컬라이저가 규정에 맞지 않는다는 의견이 나왔으나 배제됐다는 진술을 확보했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 국토부가 무안공항 로컬라이저의 규정 위반을 알고 있었을 정황을 뒷받침하는 자료도 확보했다. 2025년 1월 6일 국토부가 작성해 한국공항공사로 보낸 문서에는 “부러지기 쉽게 설계 및 제작돼야 하며, 부러지기 쉬운 받침에 장착해야 한다”는 규정이 명시돼 있으며, “적절한 시기에 위법성을 인정한다”는 문구도 있었다. &lt;br&gt;&lt;br&gt;콘크리트 둔덕 설치 책임자 등 참사의 원인과 책임에 대한 수사는 최소 연말까지 이어질 전망이다. 경찰 관계자는 “사고 원인에 대한 항공철도사고조사위원회의 조사 결과가 나와야 수사를 마무리할 수 있다”며 “관련자를 한 번에 송치해야 재판에 유리하다는 검찰의 의견도 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 고려대 김동원 총장, 연세대 명예 철학박사 학위 수여</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/26/UDX6TLPMHBAHFM54N6B3LPXWM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/26/UDX6TLPMHBAHFM54N6B3LPXWM4/</guid>
+      <dc:creator>한영원 기자, 김진영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Aug 2026 04:42:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7B4Z5OCIFGR5OAYUVHAR46F5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 취임 3주년을 맞아 본지와 인터뷰를 하고 있는 김동원 고려대 총장./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 김동원 총장이 연세대 명예 철학박사 학위를 수여받는다.&lt;br&gt;&lt;br&gt;26일 고려대에 따르면, 김 총장이 다음 달 8일 연세대에서 명예 철학박사 학위를 받을 예정이다. 총장의 임기 말쯤 서로 명예박사 학위를 수여해 온 연세대·고려대 사이 관행에 따른 결정이라고 한다. &lt;br&gt;&lt;br&gt;김 총장은 1978년 고려대 경영학과에 입학한 뒤, 미국 위스콘신대 매디슨캠퍼스에서 노사관계학 석·박사 학위를 받았다. 이후 1997년 고려대 경영대 교수로 부임한 뒤, 지난 2023년 3월 제21대 고려대 총장으로 선출됐다. 내년 2월까지 임기 만료를 약 6개월 남겨둔 상태다. &lt;br&gt;&lt;br&gt;김 총장은 총무처장, 기획예산처장, 노동대학원장 등 내부 행정 경험이 상당히 많은 총장이라는 평가를 받는다. &lt;br&gt;&lt;br&gt;한편 지난 2024년에는 연세대 제19대 서승환 총장이 임기 말에 고려대로부터 명예 교육학 박사 학위를 받은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘女 화장실 침입’ 부 경장...천장 등서 의문의 지문 발견</title>
       <link>https://www.chosun.com/national/national_general/2026/08/26/M7BWEBVXZ5FMJGCSJVL4D6ODAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/26/M7BWEBVXZ5FMJGCSJVL4D6ODAE/</guid>
@@ -816,64 +895,6 @@
       </media:content>
     </item>
     <item>
-      <title>조성현 기소한 2차 특검 “서강대교 넘지 말라 지시? 과장된 것”</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/25/GPICEPNJWRHNVK5UVQC7H2SJRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/25/GPICEPNJWRHNVK5UVQC7H2SJRY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:49:00 +0000</pubDate>
-      <content:encoded>2차 종합특검(특별검사 권창영)은 24일 최종 수사 결과를 발표하면서, 그동안 논란이 됐던 홍장원 전 국가정보원 1차장과 조성현 전 수도방위사령부 1경비단장을 기소한 이유를 밝혔다. 홍 전 차장은 12·3 비상계엄이 해제된 후 윤석열 전 대통령이 정치인 체포를 지시했다고 폭로했다. 조 전 단장은 이진우 전 수방사령관의 지시에도 국회 병력 투입에 제동을 건 것으로 알려졌었다. 조 전 단장은 현 정부 출범 후 보국훈장까지 받았다. 이런 이유로 앞서 내란특검은 두 사람을 기소하지 않았는데 2차 특검은 내란 중요 임무 종사 혐의로 기소했다.&lt;br&gt;&lt;br&gt;권창영 특검은 이날 수사 결과 발표에서 “일부 피고인 중에 수사와 탄핵 심판에 기여한 사람들이 있어 언론이 시끄럽다”면서 “범행을 저지른 자가 나중에 반성하고 수사에 협조하면 양형 참작 사유일 뿐”이라고 했다. 권 특검은 “어느 정도 형을 정할 건지는 법원이 판단할 문제이지, 수사기관이 판단할 문제는 아니다”라며 “(국정원의) 최상급 정무직 임원이 범행을 부인하고 수사 협조를 전혀 하지 않았기 때문에 물적 증거에 따라 이 범죄에 대해서는 기소하지 않을 수가 없었다”고 밝혔다. 최근 방송과 유튜브 등에 출연해 특검의 기소 방침에 반발한 홍장원 전 차장을 거론한 것으로 보인다. &lt;br&gt;&lt;br&gt;홍 전 차장은 계엄 직후 “윤 전 대통령이 정치인 체포를 지시했다”고 폭로했다. 이후 내란 수사와 탄핵 심판의 핵심 참고인 역할을 했다. 내란특검은 그런 그를 참고인으로 조사했고 기소하지 않았다. 하지만 2차 특검은 홍 전 차장이 계엄이 정당하다는 취지의 메시지를 우방국 정보기관에 전달하는 데 관여하고, 방첩사령부·경찰청 등과 접촉 포인트 구축을 지시한 혐의가 있다고 결론냈다. &lt;br&gt;&lt;br&gt;김정민 특검보는 이날 조성현 전 단장과 관련해 “그가 ‘서강대교를 넘지 말라’고 했다는 것은 과장됐다”며 “오히려 국회에 들어가서 인원을 끌어내야 한다는 명확한 명령을 하달했다”고 했다. 김 특검보는 “이진우 수방사령관 지시를 조 전 단장은 희석시켰다고 하지만, 본질적으로는 비슷한 행동”이라며 “윤 전 대통령 탄핵 심판 당시 불법 명령 부분을 정확히 진술해준 부분이 있으나, 기소를 유예할 사유는 안 된다고 판단했다”고 했다. 김 특검보는 내란특검과 판단이 달라진 것과 관련해 “2차 특검은 3대 특검 수사의 미비점을 보완한다는 취지로 출범한 만큼, 완전히 같은 결정만 내린다면 출범의 의미가 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검→경찰→특검→경찰… 무한루프식 前정권 수사</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/25/CSMV6H6ZL5CZTL32BYJYTNFPJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/25/CSMV6H6ZL5CZTL32BYJYTNFPJY/</guid>
-      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VVHP2BLPBGFTMN3XKFI7JP3IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열·김건희에 의한 내란·외환 및 국정농단 행위의 진상규명을 위한 권창영 특별검사가 24일 오전 경기 과천시 특검사무실에서 2차 종합특검 180일간의 수사 결과에 대해 브리핑을 하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·순직 해병)이 마무리하지 못한 의혹을 넘겨받아 수사해온 권창영 2차 종합특검이 24일 최종 수사 결과를 발표했다. 180일간 이어진 수사를 전날 종료한 권 특검은 이날 12·3 비상계엄과 관련한 피의자들을 전범(戰犯)에 비유하며 “내란 세력의 역량과 의지가 그대로 남아 있는 한 전쟁은 이제 시작”이라고 했다. 권 특검은 그러면서 “각종 수사기관이 합동으로 참여하는 특별수사본부를 설치해 상설 조직 형태로 체계적이고 장기적인 수사를 이어가야 한다”고 했다. &lt;br&gt;&lt;br&gt;2차 특검은 수사 결과 발표에서 지난 2월 25일부터 수사 기한인 지난 23일까지 구속 7명을 포함해 총 58명을 기소했다고 밝혔다. 하지만 서울~양평 고속도로 노선 변경 특혜 의혹, 윤석열 정부 대통령실의 대북 송금 수사 개입 의혹 등 46개 사건, 피의자 150명에 대해선 수사를 마무리하지 못한 채 경찰에 넘긴다고 했다. 양평 고속도로 의혹의 경우, 2023년 10월부터 경찰→김건희특검→경찰→2차 특검→경찰로 3년 가까이 수사가 이어지게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WDSAZITYRDEXNQ2N4CDSCX3RE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권 특검은 이날 “저희 수사로 국민의 헌정 질서 회복에 대한 국민의 타는 목마름과 정의에 대한 갈증을 조금이라도 해소할 수 있었다면 매우 영광으로 생각한다”고 했다. 그러면서 권 특검은 “종전에 수사 대상이 아니었거나 기소되지 않았던 다양한 기관에 대한 수사가 필요하다는 것을 첫 번째 과제로 인식하게 됐고, 수사 결과 여러 기관에서 피의자가 나왔다”면서 “(이번 결과는) 내란 세력의 주요 거점이 나온 것이고, 여전히 암약하고 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;권 특검은 “내란 세력은 ‘언제든 다시 내란을 일으킬 수 있고 성공할 수 있다’고 생각한다”면서 “수사와 재판을 통해 내란 세력을 단죄하기 위해 노력하고 있지만, 내란 세력에 패배하고 있는 건 아닌지 의구심이 든다”고도 했다. 그는 “수많은 기관이 개입돼 있기 때문에 이(내란) 수사는 경찰청 국가수사본부만으로는 한계가 있을 것 같다”며 “각종 수사기관이 종합된 특별수사본부를 상설 기구로 설치해 남은 의혹을 계속 수사하는 게 타당하지 않을까 싶다. 특수본 설치를 제안드린다”고 했다.&lt;br&gt;&lt;br&gt;이를 두고 법조계에서는 “기한이 정해진 특검이 기소를 하든 불기소 처분을 하든 수사를 끝내지 않고 다른 수사기관에 다시 이첩하는 것은 뭐라도 나올 때까지 파겠다는 ‘무한 루프식’ 수사”라는 지적이 나왔다. 한 법조계 관계자는 “3대 특검에 이어 2차 특검까지 360일 동안 수사해 놓고도 계속 수사해야 한다는 것은 전 정부 인사들을 겨냥해 뭐든 나올 때까지 수사하겠다는 정치적 보복 선언으로 비칠 수 있다”고 말했다. 한 부장판사 출신 변호사는 “권 특검이 말한 ‘내란 세력에 의한 패배’가 법원의 영장 기각이나 무죄 선고를 말하는 것이라면, 법치주의를 정면으로 부정하는 것”이라며 “본인만 정의롭다고 생각하는 것은 아닌지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;이재명 정부가 출범한 뒤로 1년 2개월여 동안 특검만 5개가 운용됐다. 3대 특검, 2차 종합특검, 안권섭 상설특검 등이다. 대부분 전 정권 인사를 겨냥한 수사를 목표로 한 특검이었다. ‘관봉권 띠지 분실’ 의혹을 수사한 안권섭 상설 특검도 90일 동안 의혹을 규명하지 못한 채 남은 사건을 검찰에 넘겼다. 결국 관봉권 의혹은 지난 6월 서울남부지검이 무혐의 처분했다.&lt;br&gt;&lt;br&gt;이와는 별도로 민주당은 지난 5월 윤석열 정부 검찰의 표적·조작 수사 의혹을 규명하겠다며 ‘조작기소특검법안’을 발의해 놓았다. 이와 관련, 박성준 민주당 수석대변인은 이날 “내달 정기국회에서 (조작기소특검법을) 처리해야 한다”고 했다. 이에 대해 국민의힘은 “불법 대북 송금 사건 등 이재명 대통령이 기소된 사건을 지우기 위한, ‘공소 취소’를 위한 특검”이라고 반발한다.&lt;br&gt;&lt;br&gt;차장검사 출신 변호사는 “수사권 남용 등 폐단을 없애야 한다며 검찰청을 폐지하는 여권이 자기 입맛에 맞는 사건은 특검을 이용해 계속 수사하겠다는 것 아니냐”며 “이 정도면 국민들도 특검이라는 말만 들어도 피로감이 느껴질 것”이라고 말했다. 한 법조인은 “수사 주체만 검찰에서 특검으로 바꿨을 뿐, 문재인 정부 때 박근혜 정부의 각종 의혹을 파헤친 ‘적폐 청산’과 뭐가 다른가”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2VVHP2BLPBGFTMN3XKFI7JP3IM.jpg?auth=244f6d282d00191eccf4f7c653b499180ea0e16a30c4c4701803f9e3052d4d28&amp;smart=true&amp;width=4136&amp;height=2112" type="image/jpeg" height="2112" width="4136">
-        <media:description type="plain">윤석열·김건희에 의한 내란·외환 및 국정농단 행위의 진상규명을 위한 권창영 특별검사가 24일 오전 경기 과천시 특검사무실에서 2차 종합특검 180일간의 수사 결과에 대해 브리핑을 하고 있다. /박성원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/25/6NAHPPZTOZG7PIQB3BFI7K7FLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/25/6NAHPPZTOZG7PIQB3BFI7K7FLU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲법무부&lt;/b&gt;◇법무부▷형사기획과 검사 김진규▷공공형사과 검사 양효승◇대검찰청▷검찰연구관 김소정 김연재 류수헌◇서울중앙지검▷검사 차대영 이윤석◇서울동부지검▷검사 유한실◇서울남부지검▷검사 김대근◇서울서부지검▷검사 연제혁◇의정부지검▷검사 이동욱◇대전지검▷검사 이은우◇천안지청▷검사 민애리◇대구지검▷검사 이승우◇부산지검▷검사 장성훈◇제주지검▷검사 이수영&lt;br&gt;&lt;br&gt;&lt;b&gt;▲행정안전부&lt;/b&gt;◇과장급 전보▷지방세특례제도과장 한송희&lt;br&gt;&lt;br&gt;&lt;b&gt;▲인사혁신처&lt;/b&gt;◇수석전문관 승진▷인재채용국 시험출제과 최영문◇서기관(4급) 승진▷기획조정관실 기획재정담당관실 김두환▷기획조정관실 법무감사혁신담당관실 손서영▷공무원노사협력관실 노사협력담당관실 전용배▷인사조직과 김창희▷인재채용국 시험출제과 이선태▷인사혁신국 심사임용과 남상민▷인사혁신국 개방교류과 이현영▷인사관리국 급여정책과 서유진▷인사혁신처 김광진&lt;br&gt;&lt;br&gt;&lt;b&gt;▲한국연구재단&lt;/b&gt;▷뇌·첨단의공학단장 한백수&lt;br&gt;&lt;br&gt;&lt;b&gt;▲국민대&lt;/b&gt;▷AI·SW대학원장 이상환▷건축전문대학원장 장윤규&lt;br&gt;&lt;br&gt;&lt;b&gt;▲조선뉴스프레스&lt;/b&gt;▷월간조선 편집장 김태완&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박상례 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/25/O3LZKKTAPNBL7FFF2XWJ4LRWSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/25/O3LZKKTAPNBL7FFF2XWJ4LRWSI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박상례&lt;/b&gt; 별세, &lt;b&gt;고연화&lt;/b&gt;·&lt;b&gt;고일수&lt;/b&gt;·&lt;b&gt;고수정&lt;/b&gt;·&lt;b&gt;고영집&lt;/b&gt; 한양증권 감사본부 전무 모친상=23일9시 함열백제장례식장, 발인 25일9시, (063)861-5300&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박춘규 &lt;/b&gt;별세, &lt;b&gt;이옥호&lt;/b&gt; 남편상, &lt;b&gt;박종훈&lt;/b&gt; KG스틸 GM·&lt;b&gt;박종미&lt;/b&gt;·&lt;b&gt;박종혁 &lt;/b&gt;기업은행 대리 부친상, &lt;b&gt;이현택&lt;/b&gt; 前 조선일보 기자 장인상=24일7시 고려대 안암병원, 발인 26일6시, (070)7816-0239&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장영순&lt;/b&gt; 별세, &lt;b&gt;변노수&lt;/b&gt; 순복음수정교회 목사·&lt;b&gt;변연숙&lt;/b&gt;·&lt;b&gt;변찬수 &lt;/b&gt;사또농장 대표·&lt;b&gt;변명숙&lt;/b&gt;·&lt;b&gt;변태수 &lt;/b&gt;前&lt;b&gt; &lt;/b&gt;연합뉴스 경영지원국장·&lt;b&gt;변동수 &lt;/b&gt;모친상, &lt;b&gt;김기태&lt;/b&gt; 세강 전무·&lt;b&gt;황성하 &lt;/b&gt;장모상=23일21시 충북 영동장례식장, 발인 25일11시30분, (043)744-0454&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 가수 임영웅, 집중호우 피해 주민 돕기 위해 2억원 기탁</title>
-      <link>https://www.chosun.com/national/people/2026/08/25/EEJ57VIAVBGQDKQ3YP4ZLMVHYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/25/EEJ57VIAVBGQDKQ3YP4ZLMVHYU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>▲사랑의열매 사회복지공동모금회는 가수 임영웅이 경남 거제·통영 등 남부 지역 집중호우 피해 주민을 돕기 위해 소속사 물고기뮤직과 함께 팬클럽 ‘영웅시대’ 이름으로 2억원을 기탁했다고 24일 밝혔다. 이번 기부를 포함해 임영웅이 2021년부터 사랑의열매를 통해 전달한 누적 성금은 25억원에 이른다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마라도나 ‘신의 손’ 축구공, 경매서 45억원 낙찰</title>
-      <link>https://www.chosun.com/national/people/2026/08/25/JYBRGGA6XFB53B6OSVKIT6IXGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/25/JYBRGGA6XFB53B6OSVKIT6IXGY/</guid>
-      <dc:creator>배준용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>아르헨티나 축구 전설 디에고 마라도나(1960~2020)가 1986년 멕시코 월드컵 8강 잉글랜드전에서 ‘신의 손’ 득점을 한 축구공이 경매에서 약 45억원에 낙찰됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYVVQC5EWJBERM5A5TV25DQDM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 스포츠 매체 디 애슬레틱은 “이른바 ‘신의 손’ 득점에 마라도나가 사용했던 아디다스 ‘아즈테카’ 축구공이 미국 헤리티지 옥션에서 지난 22일 335만달러에 낙찰됐다”며 “당초 예상했던 낙찰가 1000만달러(약 138억원)에는 크게 미치지 못하는 수준”이라고 보도했다. 이 공은 당시 경기 주심이었던 튀니지 출신 알리 빈 나세르 심판이 오랜 기간 소장하다 2022년 경매에 나와 237만달러(약 33억원)에 낙찰됐다. 이듬해 다시 경매에 출품됐지만 유찰되기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXFPPIDTRZA2DB74SHEEM37HSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 공 소유주와 헤리티지 재단은 최근 북중미 월드컵 흥행을 타고 이번 경매에서 고가 판매를 기대했으나 “2024년 야구 스타 오타니 쇼헤이의 50번째 홈런볼 낙찰가인 439만2000달러에도 미치지 못하는 수준”이라고 디 애슬레틱은 전했다. 역대 스포츠 기념품 최고가 판매 기록은 1932년 베이브 루스가 착용했던 뉴욕 양키스 유니폼으로, 2024년 2412만달러(약 332억원)에 팔렸다.&lt;br&gt;&lt;br&gt;디 애슬레틱은 “북중미 월드컵 특수 효과를 노렸지만 대회가 끝난 지 한 달이 훌쩍 넘은 탓에 관심이 식었다“며 ”북중미 월드컵 결승에서 아르헨티나 선수들이 난투극으로 중징계를 받으며 부정적 인식이 확산된 영향도 있다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>손등 멍·발목 부종·꾸벅꾸벅 조는 모습… 대선 전보다 10㎏ 찐 트럼프, 건강 괜찮나</title>
       <link>https://www.chosun.com/national/people/2026/08/25/BAKB33DACZAVREKSBBXJVYSDAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/25/BAKB33DACZAVREKSBBXJVYSDAM/</guid>
@@ -881,24 +902,6 @@
       <description/>
       <pubDate>Mon, 24 Aug 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CB7N63TE3JPERLH33YQKGCMVRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프 미국 대통령과 부인 멜라니아 여사가 23일(현지 시각) 워싱턴DC에서 열린 ‘프리덤 250 그랑프리’ 인디카 시리즈 경기를 관람하고 있다. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도널드 트럼프 미국 대통령의 체중이 대선 출마 당시보다 10㎏가량 늘어난 것으로 나타나면서 미국 내에서 건강 우려가 다시 제기되고 있다. 올해 80세인 트럼프는 최근 손등의 멍과 발목 부종, 공식 행사 도중 조는 모습 등으로 건강 상태에 대한 관심을 받아왔다.&lt;br&gt;&lt;br&gt;워싱턴포스트(WP)는 23일 백악관이 지난 5월 공개한 건강검진 결과를 토대로 트럼프의 몸무게가 약 108㎏이라고 보도했다. 이는 2023년 8월 조지아주 대선 개입 사건으로 기소돼 구치소에 출석했을 당시 기록된 약 98㎏보다 10㎏ 늘어난 수치다. 키가 약 190.5㎝인 트럼프는 현재 비만 판정 기준에 약 0.7㎏ 모자란 수준이다.&lt;br&gt;&lt;br&gt;백악관 주치의들도 트럼프에게 체중 감량과 식단 개선, 꾸준한 운동을 권고한 것으로 전해졌다. 스콧 카한 국립체중·웰니스센터장은 WP에 “비만은 수많은 건강 문제뿐 아니라 조기 장애와 사망의 강력한 위험 요인”이라며 “대통령의 건강을 보호하기 위해 비만 문제를 해결하는 것도 경호만큼 우선순위가 돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;트럼프는 패스트푸드를 즐기고 강도 높은 운동은 꺼리는 것으로 유명하다. 주말마다 골프를 치지만 과거에도 주치의들에게 “운동과 체중 감량이 필요하다”는 권고를 받아왔다. 2019년에는 몸무게가 약 110㎏을 기록해 체질량지수(BMI)상 비만 판정을 받았다.&lt;br&gt;&lt;br&gt;트럼프의 체중 문제는 첫 임기 때도 반복적으로 제기됐다. 2018년 백악관 주치의는 당시 약 108㎏이던 트럼프에게 1년 동안 4.5~7㎏가량 감량하는 것을 목표로 제시했다. 그러나 2020년 체중은 약 111㎏까지 증가했다. 이후 2023년 대선 재도전에 나설 무렵에는 식단 개선과 꾸준한 신체 활동으로 체중을 줄였다는 주치의 소견이 공개됐지만, 최근 다시 몸무게가 늘어났다.&lt;br&gt;&lt;br&gt;다만 백악관은 트럼프의 체중에 대한 우려에 “대통령은 탁월한 에너지와 체력, 업무 수행 능력을 보여주고 있다”고 반박했다. 트럼프 역시 지난 5월 “정크푸드가 오히려 좋은 것일 수도 있다”며 “나는 아주 건강하다고 느낀다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대한변호사협회 우수언론인상 本紙 김은경 기자 수상</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/25/7FYQRZIEZRFKFM62O4LJDPKS3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/25/7FYQRZIEZRFKFM62O4LJDPKS3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42DGK5FDZZATXJ26MZQQU7VOZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 사회부 김은경 기자(사진)는 24일 대한변호사협회가 수여하는 우수언론인상을 수상했다. 변협은 이날 서울 중구 롯데호텔에서 열린 2026년도 ‘법의 지배를 위한 변호사대회’에서 시상식을 열고 “정론직필이라는 언론인의 사명에 충실하고 국민의 목소리를 균형 있고 공정하게 대변하는 보도로 법치주의 발전에 기여했다”며 김 기자 등 5명에게 이 상을 수여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 사과·당근 주스에 레몬즙</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/25/UANGQGSJWJCCZFUWCVUHPH5IYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/25/UANGQGSJWJCCZFUWCVUHPH5IYQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Aug 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PFRPYH4KYBDQTGZIQGB6KSRGF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사과와 당근을 갈아 주스를 만들 때 레몬즙을 조금 넣어보자. 레몬즙이 상큼한 식감은 더해주고 영양 손실은 줄여준다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 8월 25일</title>
