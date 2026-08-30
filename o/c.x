@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>충주 공장서 액화질소 1500ℓ 누출… 인명피해 없어</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/D5DS7LNM7NBKBEABO3B4VXLF4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/D5DS7LNM7NBKBEABO3B4VXLF4M/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 13:36:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주의 한 전기장비 제조 업체 공장에서 액화 질소가 누출되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;30일 소방당국에 따르면 이날 오후 6시 53분쯤 충북 충주시 산척면의 한 승강기 부품 생산공장에서 액화질소 약 1500ℓ가 누출되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;액화 질소는 기체 상태의 질소를 액화한 것으로 사람 몸에 닿으면 화상 등의 피해를 입을 수 있다.&lt;br&gt;&lt;br&gt;흰 연기가 난다는 인근 공장 직원의 신고를 받고 출동한 소방당국은 장비 15대와 인력 40여명을 투입해 안전 조치를 했다.&lt;br&gt;&lt;br&gt;사고 당시 공장은 가동되지 않아 인명피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수도권·충청·전라, 새벽부터 많은 비</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/RL6EHNWO3BDJRC5GTRP4HXTZ24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/RL6EHNWO3BDJRC5GTRP4HXTZ24/</guid>
+      <dc:creator>오유진 기자, 김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 09:45:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUDCQYTKFFP7XOJIEJOXLDXVQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 울산시 동구 월봉사 입구 주변에 내린 비로 도로가 침수돼 있다. 이날 울산 동구와 서구에는 호우주의보가 발효됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전라권과 경상권을 중심으로 시간당 30㎜ 안팎의 강한 비가 내리면서 정부가 30일 오후 5시를 기해 중앙재난안전대책본부(중대본) 1단계를 가동했다. 호우 위기 경보도 ‘관심’에서 ‘주의’로 한 단계 높였다. 위기 경보는 관심·주의·경계·심각 4단계로 운영된다.&lt;br&gt;&lt;br&gt;행정안전부에 따르면 이날 오후 5시 기준 전남광주통합특별시와 울산, 경북, 경남 등 4개 시·도 4개 시·군에 호우경보가 발효됐다. 전남광주 8곳을 비롯해 울산·전북·경북·경남 등 5개 시·도 15개 시·군에는 호우주의보가 내려졌다. 전남광주 나주와 경북 김천, 전북 장수·임실에는 산사태주의보가 발령됐다.&lt;br&gt;&lt;br&gt;이날 0시부터 오후 9시까지 주요 지점 강수량은 낙월도(영광) 206.0㎜, 보성군 164.0㎜, 이양(화순) 135.0㎜, 다도(나주) 127.5㎜ 임실 122.3㎜, 울기(울산) 121.5㎜, 북상(거창) 111.0㎜ 등을 기록했다. &lt;br&gt;&lt;br&gt;특히 보성군에는 오후 6시 20분부터 1시간 동안 124.6㎜가 내리기도 했다. 시간당 강수량은 광복절 연휴 동안 900㎜ 이상 비가 내린 거제에서 지난 17일 오전 1시 32분부터 1시간 동안 기록한 124.5㎜를 넘어섰다.&lt;br&gt;&lt;br&gt;많은 비로 인해 인명 피해도 속출했다. 이날 오후 4시 43분쯤 전남광주 영암군 영암읍 월출산에서 계곡물이 불어나 등산객 5명이 하산하지 못하고 있다는 신고가 접수돼 소방당국에 의해 구조됐다.&lt;br&gt;&lt;br&gt;비슷한 시각 화순군 한천면에서도 계곡 범람으로 도로가 침수되면서 고립된 11명이 구조됐다.&lt;br&gt;&lt;br&gt;오후 5시 29분쯤 강진군 성전면 월남리 풀치터널 인근 야산에서는 토사와 바위가 도로로 흘러내려 편도 2차로 중 1개 차로가 가로막혔다.&lt;br&gt;&lt;br&gt;도로와 주택 침수, 수목 전도 등으로 소방당국이 출동했다. 전남광주통합소방본부에는 이날 오후 9시 기준 총 92건의 신고가 접수됐다. 경남에서도 이날 오후 7시 기준 배수 불량, 나무 전도, 토사 유출 등 총 22건의 소방 안전 조치가 잇따랐다. &lt;br&gt;&lt;br&gt;시설 통제도 이어졌다. 국립공원은 내장산·덕유산·무등산 3곳의 탐방로 69개 구간이 통제됐다. 하천변과 둔치 주차장, 지하차도, 세월교 등 위험 지역 148개 구간도 출입이 제한됐다. 항공과 철도, 여객선은 정상 운행 중이다.&lt;br&gt;&lt;br&gt;행안부는 지난 29일 오후 11시 초기 대응반을 가동한 데 이어 이날 오후 5시 중대본 1단계로 격상했다. 기상청은 31일 이른 새벽부터 수도권과 충청권, 전라권을 중심으로 다시 많은 비가 내리겠다고 예보했다. 행안부는 이에 대비해 빗물받이와 산사태 우려 지역, 야영장 등 1만3344곳을 사전 점검했고, 전국 8개 시·도에서 5258명이 비상 근무 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “최근 호우와 산불 피해가 난 지역은 적은 비에도 추가 피해가 있을 수 있다”며 급경사지와 축대, 옹벽 등을 집중 점검하도록 관계 기관과 지자체에 지시했다. 또 “야간에 강수가 집중될 것으로 예보된 만큼 재난 문자와 마을 방송 등을 총동원해 행동 요청을 적극 안내하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“씻으라고 만든 곳인데”… 남산 러너 샤워장에 또 ‘대변 테러’</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/O2NQZYQWLFGNNFZMCPWS4PVLFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/O2NQZYQWLFGNNFZMCPWS4PVLFI/</guid>
+      <dc:creator>윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 09:54:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3WCOLEGM2GMMZUGA2WKMDEGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중부공원여가센터 러너 샤워장에 부착한 안내문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 러너들을 위해 무료로 운영하는 남산 공용 샤워장에서 이용객이 대변을 남기고 가는 일이 또 발생했다. 올해 1월에 이어 두 번째다.&lt;br&gt;&lt;br&gt;30일 서울 중부공원여가센터에 따르면, 지난달 남산 샤워장 남성 샤워 부스에서 이용객이 대변을 남기고 간 사실이 확인됐다.&lt;br&gt;&lt;br&gt;남산 샤워장은 오세훈 서울시장이 추진하는 ‘생활 밀착형 운동 시설’ 확대 사업의 하나로 지난해 10월 문을 열었다. 최근 남산이 내외국인 러너들의 명소로 자리 잡으면서 시민들이 무료로 씻고 옷을 갈아입을 수 있도록 조성한 시설이다.&lt;br&gt;&lt;br&gt;문제가 처음 발생한 것은 개장 석 달여 만인 지난 1월이었다. 당시 센터는 남성 샤워 부스 안에서 대변이 발견되자 남녀 샤워실에 “최근 부스 안에 대변을 보는 심각한 사례가 발생했다”는 안내문을 붙이고 “다른 이용자에게 큰 충격과 불편을 주고, 반복될 경우 운영 제한으로 이어질 수 있다”고 경고했다. 또 “러닝할 때 매너를 지키듯, 샤워실에서 기본 질서와 상식을 지켜달라”고 당부했다.&lt;br&gt;&lt;br&gt;하지만 반년이 지난 지난달 같은 일이 다시 발생했다. 두 번 모두 남성 샤워실에서 벌어졌다. 같은 이용자의 행동인지는 확인되지 않았다. 남겨진 오물은 현장 관리 직원들이 직접 치운 것으로 전해졌다.&lt;br&gt;&lt;br&gt;여러 사람이 다니는 길이나 공원 등에서 대소변을 보고 치우지 않을 경우 경범죄처벌법상 ‘노상방뇨 등’에 해당해 범칙금 5만원이 부과될 수 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “지난해 10월 문을 연 뒤 이달 27일까지 남산 러너 샤워장을 이용한 사람은 1만2862명으로, 대변을 남기고 간 사례는 두 차례에 불과해 극소수 이용객의 일탈로 보고 있다”며 “같은 일이 반복되지 않도록 안내와 계도를 강화하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQWKMJTGRSDEMTCGQ2TEYJVGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도 한강공원 샤워장의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GU3WCOLEGM2GMMZUGA2WKMDEGA.jpg?auth=bd417ab802bdf6b785c73c1ead11809f22e5b40c47c9784eb9c79c6165fcbdc3&amp;smart=true&amp;width=1766&amp;height=2355" type="image/jpeg" height="2355" width="1766">
+        <media:description type="plain">중부공원여가센터 러너 샤워장에 부착한 안내문. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>강진 풀치터널 야산서 산사태…도로 덮쳐, 인명피해 없어</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/CI6OMMGFDRFXXC43VGFHYMQTCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/CI6OMMGFDRFXXC43VGFHYMQTCQ/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 10:17:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6EXIMBIFVJCRJ6NNXROGJMYQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 전남광주 강진군 성전면 월남리 풀치터널 인근 도로에 산사태로 토사와 바위가 쏟아져 1개 차로가 통제되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 강진군의 한 야산에서 산사태가 발생했다.&lt;br&gt;&lt;br&gt;30일 소방당국 등에 따르면 이날 오후 5시 29분쯤 전남광주 강진군 성전면 월남리 풀치터널 인근 야산에서 산사태가 발생해 토사와 바위가 도로로 흘러내렸다.&lt;br&gt;&lt;br&gt;이 산사태로 인명 피해는 발생하지 않았지만 편도 2차로 중 1개 차로가 토사와 바위에 막혔다.&lt;br&gt;&lt;br&gt;소방 당국은 나흘간 이어진 많은 비로 지반이 약해지면서 산사태가 난 것으로 보고 관계 당국과 함께 중장비를 동원해 안전 조치를 하고 있다.&lt;br&gt;&lt;br&gt;한편 강진에는 이날 오후 6시 기준 지난 27일부터 85.1㎜의 비가 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“AI가 매긴 점수 다 믿을 수 있나”…토론회서 우려 쏟아져</title>
+      <link>https://www.chosun.com/national/education/2026/08/30/HG57RCAXTJEUDD6CUT4IFLRPHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/30/HG57RCAXTJEUDD6CUT4IFLRPHE/</guid>
+      <dc:creator>경기 화성=장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 09:10:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3DONRZHFQTAYZZMVQWCYTEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가교육위원회가 29일 화성 YBM연수원에서 연 1박 2일 숙의토론회에서 국민참여위원들이 대입 제도 방향에 대해 토론하고 있다./국가교육위원회 제공
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 직속 국가교육위원회(국교위)가 수능과 내신 시험에 서·논술형 평가를 도입하고 채점은 인공지능(AI)에 맡기는 방안을 검토하는 가운데 국민 토론에선 여러 우려가 쏟아졌다. &lt;br&gt;&lt;br&gt;국교위는 29~30일 경기도 한 연수원에서 1박 2일 숙의 토론회를 열고 서·논술형 평가 도입 방안에 대해 논의했다. 학생, 학부모, 시민 단체 관계자 등 180명이 참석해 8명씩 24개 조로 나뉘어 토론했다. 10월 대입 개편안 최종 시안을 발표하기에 앞서 시민 의견을 수렴하기 위한 자리다. &lt;br&gt;&lt;br&gt;가장 큰 쟁점은 ‘서·논술형 답안을 어떻게 채점할 것이냐’였다. 이날 24개 조 중 19개 조가 ‘서·논술형 평가의 필수 조건’으로 ‘공정하고 명확한 채점 시스템’을 꼽았다. 국교위 측 설명자로 나선 이민석 전문위원은 “AI가 1차로 채점한 뒤 교사가 재채점을 하며, 최종 책임은 교사가 지는 방식이 될 것”이라고 했다.&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;br&gt;토론 참석자들은 서·논술형 도입이라는 방향에는 대체로 동의하면서도 ‘AI 채점’에 대해선 회의적인 반응을 보였다. 한 현직 교사는 “지금도 교사들이 민원 소지를 줄이려 서술형 답안의 논리보다 특정 단어나 문장이 들어갔는지를 채점 기준으로 삼는 상황에서 수능에 AI 채점까지 도입하는 것을 긍정적으로 보기 어렵다”고 말했다. 30대 직장인 민모씨는 “채점 결과를 문제 삼아 행정소송을 제기하는 경우가 지금보다 훨씬 많아질 것”이라고 했다. &lt;br&gt;&lt;br&gt;서·논술형이 부모 경제력에 따른 격차를 키울 것이란 지적도 제기됐다. 홍수연 전국학부모단체연합 공동대표는 “발 빠른 학부모들은 서·논술 전형이 확대되면 채점 기준과 출제자의 의도를 분석하기 위해 사교육 업체를 찾아갈 것”이라며 “경제력에 따른 교육 격차는 더 커지게 된다”고 말했다. 이 밖에도 “AI가 매긴 점수를 다 믿을 수는 없다” “객관성과 공정성을 확보할 수 있는 채점 시스템을 먼저 마련한 뒤 점진적으로 서·논술형 평가를 도입해야 한다”는 의견도 나왔다. &lt;br&gt;&lt;br&gt;한국교육과정평가원도 최근 발간한 보고서에서 AI 채점의 문제점들을 지적했다. 우선 AI가 어떤 근거로 점수를 매겼는지 알 수 없는 ‘블랙박스’ 문제가 근본적 한계라고 밝혔다. 1차 채점을 AI가 하고 교사가 이를 검토하는 방식에 대해서도 AI 점수가 기준점으로 작용해 교사가 AI 점수를 형식적으로 승인할 수 있다고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 실종 10건 중 3건, ‘허위 종결’ 경찰관 혼자 처리했다</title>
+      <link>https://www.chosun.com/national/regional/2026/08/30/G3YPK5KB65CBXFP545P4IEJROA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/30/G3YPK5KB65CBXFP545P4IEJROA/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 09:40:11 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVQWEZJUHAYDAZRVME3DKNBQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실종 사건 2건을 허위종결한 혐의를 받는 제주서부경찰서 소속 부 모 경장이 25일 제주지방법원에서 구속 전 피의자 심문(영장실질심사)을 마친 뒤 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주 실종신고 허위종결 사건 피의자 부모(34) 경장이 자체 ‘셀프 종결’한 실종 사건이 제주지역 총 성인 실종 접수 건의 약 30%에 이르는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;30일 경찰청이 국민의힘 김재섭 의원에게 제출한 ‘실종신고 및 실종자 현황’ 자료에 따르면 부 경장이 제주서부경찰서 실종팀에 근무한 지난해 3월부터 약 1년 4개월간 제주지역 3개 경찰서에서 총 1047건의 성인 실종 사건이 해제(종결)됐다.&lt;br&gt;&lt;br&gt;이는 3개 경찰서 실종팀 근무자 총 12명이 단순히 산술적으로 1인당 평균 87∼88건을 종결했다고 가정한다면 부 경장 1명이 종결한 298(28.46%)건은 1인당 평균의 3배를 넘는다.&lt;br&gt;&lt;br&gt;부 경장이 실종 해제한 건수는 약 제주지역 1개 경찰서가 접수 및 해제한 실종 건에 해당하는 셈이다.&lt;br&gt;&lt;br&gt;특히 가출 등 다양한 유형이 발생하는 성인 실종 사건에서 이 같은 종결 비율은 일반적으로 어려운 것으로, 부실·허위 사건 종결 의혹이 더욱 짙어질 수밖에 없다.&lt;br&gt;&lt;br&gt;실제로 부 경장은 지난 5월 30대 여성 장모 씨와 지난달 60대 남성 박모 씨의 실종 신고를 허위로 종결한 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;경찰은 실종신고를 허위로 종결한 추가 사례가 있는지에 대해 “전수조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>시신 훼손 얼마나 심했길래… 경산 중국 유학생 유해 또 수습 </title>
       <link>https://www.chosun.com/national/2026/08/30/6GJNQXE6V5DQRAPNK72LU6HQQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/08/30/6GJNQXE6V5DQRAPNK72LU6HQQ4/</guid>
@@ -916,64 +974,6 @@
       <description/>
       <pubDate>Fri, 28 Aug 2026 06:43:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQTOZRUMRQTSMLDGQ2GMZJQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;각종 비위 의혹으로 수사를 받고 있는 김병기 무소속 의원이 지난 4월 피의자 신분으로 조사를 받기 위해 서울 마포구 서울경찰청 공공범죄수사대에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기 무소속 의원 비위 의혹 사건 수사가 지연되는 것에 대해 관련 의혹을 제기했던 김 의원의 전 보좌관이 전·현직 경찰청 국가수사본부장을 감찰하라는 청원을 국가경찰위원회에 제기했다.&lt;br&gt;&lt;br&gt;김 의원의 전직 보좌관 A씨는 28일 오전 국가경찰위원회에 ‘김병기 사건 관련, 국가경찰위원회에 대한 청원’이라는 제목의 청원서를 제출했다. A씨는 청원서에서 “김 의원 사건에서 반복적으로 확인되는 처리 지연에 대해 지휘 감독 체계상 문제가 있는지 감찰 검토가 필요하다”며 박성주 전 국가수사본부장과 홍석기 현 본부장의 사건 처리 과정 전반에 대한 점검을 요구했다.&lt;br&gt;&lt;br&gt;A씨는 “서울경찰청은 실무 수사를 담당하는 기관으로서 지난 4월 이래 조속한 처리 의지를 밝혀왔지만, 국가수사본부가 이를 뒤집는 역할을 수행해온 것으로 보인다”며 “국가수사본부 차원의 구조적 방침이거나 개인적 판단이더라도 직무유기에 해당하는 수준인지 감찰을 통해 규명할 필요가 있다”고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 앞서 서울경찰청 수사심의원회에 수사심의도 요청한 바 있다. 수사심의위는 “김 의원 사건 수사를 1개월 이내에 신속 처리”하라고 권고했다. 그러나 A씨는 “수사심의위 지시에는 강제력이 없다”며 “지금까지 경찰 지휘부가 밝힌 ‘조만간’ ‘마무리 단계’ 등 표현조차 4개월 넘게 지켜지지 않은 전례를 비춰보면 이번에도 지켜지지 않을 가능성을 배제할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “수사심의위 지시가 실효성을 가지려면 이행 여부를 감시하고 담보할 상위 감독 장치가 필요하다”며 “국가경찰위원회가 그 역할을 할 수 있는 기관”이라고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “부동산 정책 목적이 오세훈 힘 빼기입니까”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/28/YA62GLNTU5BHXAPACRY4PEYNZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/28/YA62GLNTU5BHXAPACRY4PEYNZE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 04:31:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSDIYTDGI3TENTFMYYWCMTDHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 6일 서울시청에서 열린 '부동산 정상화를 위한 서울시민 대토론회'에서 부동산 관련 영상을 시청하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 28일 “정부의 부동산 정책 목적이 정말 ‘오세훈 힘 빼기’는 아닐 것이라고 믿고 싶다”고 밝혔다. 용산공원 주택 공급과 관련해 정부와 서울시의 협상이 이틀째 공전하는 가운데, 정부와 여당이 잇따라 오 시장의 주택 공급 대안을 비판하자 반박에 나선 것이다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 페이스북에 ‘부동산 정책의 목적이 오세훈 힘 빼기입니까’라는 제목의 글을 올리고 “적극적으로 검토하겠다던 정부가 돌연 미온적인 태도를 보이고 있다”며 “민주당은 기다렸다는 듯 ‘실효성이 없다’며 공격에 나섰다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 지난 26일 김윤덕 국토교통부 장관과의 두 번째 회동에서 강남구 일원동 탄천물재생센터 부지를 활용한 ‘동남권 청년 특화 산업단지’ 조성 방안을 대안으로 제안했다. 탄천물재생센터를 이전한 뒤 인근 동부도로사업소와 세텍(SETEC) 부지를 연계해 청년 주택과 산업 단지를 함께 조성하자는 구상이다.&lt;br&gt;&lt;br&gt;그러나 김 장관은 회동 다음 날인 27일 CBS라디오 ‘박성태의 뉴스쇼’에 출연해 과거 전주교도소 이전 사례를 들며 “탄천물재생센터도 마찬가지로 이전 부지와 장소 선정이 더 어렵다고 오 시장께 말씀드렸다”고 했다. 용산공원에 대해서는 어린이 정원이 아닌 방위사업청과 장교 숙소, 병원, 학교 부지 등을 대상으로 청년 주택 공급을 검토하되 공론화 과정을 거치겠다는 입장도 밝혔다.&lt;br&gt;&lt;br&gt;김영배 더불어민주당 서울시당 위원장은 당정 정책 간담회에서 “오 시장이 반대를 위한 반대를 하고 있다”며, 탄천물재생센터를 주택 공급 대체 부지로 제안한 것을 두고 “10년 후에나 시행 가능할까 말까 한 허황된 정치적 주장”이라고 했다. 한병도 민주당 원내대표도 국회 정책조정회의에서 “필요한 주택을 마련할 수 있는 곳이라면 어디든 가능성을 열어놓고 살펴야 한다”면서 “탄천은 탄천대로, 용산은 용산대로 청년과 서민의 주거에 활용할 방안을 찾아야 한다”고 했다.&lt;br&gt;&lt;br&gt;이에 오 시장은 “반환과 토양 오염 정화, 교통 대책 등으로 언제 사업에 착수할 수 있을지조차 기약하기 어려운 용산공원은 가능하고, 이미 이전 검토가 진행 중인 탄천물재생센터는 실효성이 없어 안 된다는 논리가 앞뒤가 맞느냐”며 “차라리 ‘오세훈이 내놓은 대안이라 안 된다’고 하는 편이 더 납득이 가겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 주택 공급 대안으로 재개발·재건축을 거듭 제시했다. 그는 정부가 서울시의 정비 사업을 뒷받침하면 2031년까지 31만호 착공이 가능하고, 현재 8만7000호로 예상되는 순증 물량도 정부가 재개발 용적률을 법정 상한의 1.2배까지 완화하면 약 13만호로 늘어난다고 주장했다.&lt;br&gt;&lt;br&gt;정부·여당이 추진하는 500세대 이하 재개발·재건축 사업의 인허가권을 자치구에 이양하는 방안에 대해서도 “정비 사업의 주요 인허가 권한은 이미 상당 부분 자치구가 맡고 있다”며 “공급 지연의 원인도 아닌 권한을 억지로 떼어내고 이를 ‘신속한 공급’이라고 포장하는 것은 난개발을 부추기고 서울의 도시 계획 체계를 흔드는 무책임한 발상”이라고 했다. 이어 “서울시를 패싱하고 서울시장의 권한을 약화시키겠다는 정치적 목적 외에는 달리 설명하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “이제라도 꼬일 대로 꼬여 누더기가 된 부동산 정책을 원점에서 재검토하라”며 “정치가 아니라 공급을 보라. 오세훈이 아니라 시민을 보라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EV67IZTQKBLUDCWBFNXN5KNKZY.JPG?auth=54d406d00b3dc03e702445850901d01da49abc738f0e3c1d37635cf0af1d90b9&amp;smart=true&amp;width=4060&amp;height=2820" type="image/jpeg" height="2820" width="4060">
-        <media:description type="plain">(서울=뉴스1) 구윤성 기자 = 오세훈 서울시장이 6일 오전 서울시청에서 열린 '부동산 정상화를 위한 서울시민 대토론회'에서 부동산 관련 영상을 시청하고 있다. 2026.8.6/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 구윤성 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘실종 허위 종결’ 등 비위 잇따르자... 경찰 ‘회식 금지·음주 자제’ 특별 경보</title>
-      <link>https://www.chosun.com/national/incident/2026/08/28/Y3PBTJXIMJCT3CWXVHSBDADZJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/28/Y3PBTJXIMJCT3CWXVHSBDADZJI/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 05:06:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDVR2ZXFWVERTCEW4VD7FCKBOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청. / 최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 실종 허위 종결 사건과 전남광주 여고생 살해범 장윤기 사건 등 최근 경찰관의 비위 위반 행위가 잇따르면서 경찰청이 ‘공직 기강 특별 경보’를 발령했다.&lt;br&gt;&lt;br&gt;28일 경찰 등에 따르면, 경찰청은 이날부터 다음 달 6일까지 열흘 간 전국 경찰관서를 대상으로 특별 경보를 발령하고 공직 기강 확립과 비위 예방에 나섰다. 경찰청도 시·도 경찰청은 한 차례 이상, 일선 경찰서와 기동단은 매일 관서장 주재 대책 회의를 열어야 한다. &lt;br&gt;&lt;br&gt;각 관서는 매일 소속 직원들에게 비위 예방 알림 메시지를 발송하고 비상 연락 체계도 점검한다. 발령 기간 중 비상동보 훈련을 한 차례 실시하고 관서별 집중 감찰 활동도 벌인다.&lt;br&gt;&lt;br&gt;특히 특별 경보 기간 음주를 자제하고 일체의 회식을 금지하며 불필요한 행사도 지양하거나 연기하도록 했다. 부득이하게 행사를 열 경우 관서장의 사전 승인을 받아야 한다. &lt;br&gt;&lt;br&gt;경찰은 특별 경보 기간 중 의무 위반 행위자와 관리자의 책임을 엄중하게 물을 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주 마세라티, 강남서 6중 추돌…오토바이 운전자 사망</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/28/M2DDL3TXDBGH3IKVXGW6ZWS6W4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/28/M2DDL3TXDBGH3IKVXGW6ZWS6W4/</guid>
-      <dc:creator>김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 00:49:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXGSHF73ZJGBFKNKZSUUCGCECU.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남 일대에서 음주 상태로 고급 외제차를 끌던 운전자가 오토바이와 차량 여러 대를 들이받는 사고를 내 오토바이 운전자 1명이 숨졌다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 28일 특정범죄가중처벌법상 위험운전치사 혐의로 중년 남성 A씨를 현행범 체포해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 27일 오후 11시 46분쯤 서울 서초구 뱅뱅사거리 남부터미널역 방면 도로에서 마세라티 승용차를 몰던 중 오토바이 1대와 차량 5대를 들이받는 6중 추돌 사고를 낸 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사고로 오토바이 운전자인 40대 남성이 심정지 상태로 병원에 옮겨졌지만 끝내 숨졌다. 다른 차량 운전자 등 3명도 경상을 입었다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰의 음주 측정 결과, A씨는 음주 상태였던 것으로 확인됐다. A씨는 유명인은 아닌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 마약 여부를 포함해 구체적인 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>자월도 인근 석유제품 운반선 화재… 승선원 2명 숨져</title>
-      <link>https://www.chosun.com/national/incident/2026/08/28/PLKF4PHAYJBTLBEDKOIXBRVUM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/28/PLKF4PHAYJBTLBEDKOIXBRVUM4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 23:19:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYWIZRYGY2GIMRWGZTDSMBUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자월도 해상 화재 선박. /중부지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 자월도 부근 해상을 지나던 선박에 불이 나 승선원 2명이 숨졌다. &lt;br&gt;&lt;br&gt;28일 중부지방해양경찰청에 따르면, 전날 오후 10시 38분쯤 인천 옹진군 자월도 북쪽 약 7.4㎞ 해상에서 7000t급 석유 제품 운반선에 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 기관실에 있던 60대 남성 A씨와 20대 남성 B씨가 심정지 상태로 발견돼 영흥도 진두항으로 옮겨졌으나 끝내 숨졌다. 다른 승선원 16명은 해경에 구조됐다.&lt;br&gt;&lt;br&gt;선박 기관실에서 처음 발생한 것으로 추정되는 불은 선박 내 석유 저장 공간까지는 옮겨붙지 않은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;화재 선박은 한국 국적으로, 전체 승선원 18명 중 숨진 2명을 비롯한 11명은 한국인이고, 나머지 7명은 외국인으로 확인됐다. &lt;br&gt;&lt;br&gt;해경은 경비함정 24척, 항공기 1대, 관계 기관 선박 3척을 투입해 화재 발생 5시간 22분 만인 이날 오전 4시쯤 모든 불을 껐다. &lt;br&gt;&lt;br&gt;해경은 정확한 화재 원인과 피해 규모를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘제주 실종’ 부실 수사가 키운 불신… “경찰이 말한 사망원인 못 믿어”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/28/VF5VNPYMQZD2DNLWJVB3QLNWGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/28/VF5VNPYMQZD2DNLWJVB3QLNWGM/</guid>
-      <dc:creator>제주=양인성 기자, 제주=정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 15:47:00 +0000</pubDate>
-      <content:encoded>지난 24일 제주 한림읍의 한 야자수 농장에서 실종자 장모(37)씨가 숨진 채 발견됐다. 경찰은 “장씨가 야자수 가지에 끈을 묶어 목을 맨 상태로 발견됐다”며 “범죄 피해 가능성은 낮게 보고 있다”고 밝혔다. 그러나 장씨의 사망 경위를 둘러싼 의문은 가라앉지 않고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCALLRFJ5BCZ5A3JN5WWS3LM4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 제주도 한림읍의 한 야자수 농장. 실종자 장모씨가 지난 24일 숨진 채 발견된 곳이다. 야자수가 빽빽하게 자라고 있다. 드론으로 찍은 사진이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;①잘 휘는 야자수 가지에?&lt;/b&gt;&lt;br&gt;&lt;br&gt;잘 휘는 야자수 가지에 목을 매는 것이 현실적으로 가능하냐는 의문이 나온다. 장씨의 키는 158㎝, 몸무게는 44㎏이다. 경찰이 장씨의 시신을 발견할 당시 장씨는 바닥에 앉은 듯한 모습이었는데 이를 두고 온라인 등에선 “앉아서 목 매달아 죽는 사람이 어디 있느냐”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;이에 대해 경찰은 “시신이 발견된 야자수 농장에서 야자수 가지에 끈을 묶어 당겨보니 가지가 부러지지 않았다”며 “체구가 작은 장씨를 지탱할 정도는 되는 것으로 보인다”고 했다. 또 “변사 현장에 가보면 앉거나 신체 일부가 땅에 닿은 상태로 숨진 사례도 자주 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;②장씨가 무서워하던 곳&lt;/b&gt;&lt;br&gt;&lt;br&gt;장씨 유족은 27일 “야자수 농장은 평소 장씨가 무서워하던 곳이었다”며 “그런 곳에서 스스로 목숨을 끊었다는 게 이해가 안 된다”고 했다. 이 농장엔 뾰족한 야자수가 빼곡하게 자라 밖에선 내부가 보이지 않을 정도다. 농장 주변엔 가로등이나 방범카메라도 없다. 현장에서 유서는 발견되지 않았다. 경찰은 “장씨가 평소 강아지를 데리고 이 주변 길을 자주 산책했다는 남자친구 진술이 있다”고 했다. 다만 “장씨 휴대전화에 대한 포렌식(디지털 분석) 결과가 나와야 정확한 상황을 파악할 수 있을 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;③‘목맴사’ 판단 성급했나?&lt;/b&gt;&lt;br&gt;&lt;br&gt;유재성 경찰청장 직무대행은 장씨 시신이 발견된 당일 오후 국회 행정안전위원회에 출석해 “장씨는 목을 매 숨진 것으로 추정한다”고 했다. 이를 두고 “시신이 심하게 훼손돼 백골이 드러난 상태였는데 경찰 수뇌부가 성급하게 ‘목맴사’ 가능성을 언급한 것 아니냐”는 지적이 나왔다. 당시 장씨의 실종 사건을 담당한 제주서부경찰서 부모(34) 경장이 사건을 ‘허위 종결’한 사실까지 드러난 상태였다.&lt;br&gt;&lt;br&gt;경찰은 당시 발언에 대해 “시신의 자세와 위치, 부검의 구두 소견 등을 종합한 판단이었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZQF56ADEJFZFLCCT5CKNTNR3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;④타살 가능성 정말 낮나?&lt;/b&gt;&lt;br&gt;&lt;br&gt;일각에선 “시신이 심하게 부패하고 방범카메라 영상도 사라진 상황에서 타살 가능성을 배제할 수 있느냐”는 의문도 제기된다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “변사 사건을 처리할 때 타살 가능성을 하나씩 배제하는 방식으로 사망 경위를 추정한다”며 “그 결과 범죄 혐의점은 발견되지 않았다”고 했다. 장씨는 숙소를 나설 때 옷차림 그대로였고 휴대전화, 금팔찌, 반지도 남아 있었다. 경찰은 “시신이 발견된 야자수 사이에 낙엽이 흐트러지거나 바스러진 흔적이 없었다”며 “시신에서 외부 충격에 따른 특이 골절도 발견되지 않았다”고 했다. &lt;br&gt;&lt;br&gt;경찰이 주목하는 것은 야자수에서 발견된 등산화 끈이다. 경찰은 “장씨는 야자수 상단부 가지에 등산화 끈을 묶어 목을 맨 상태로 발견됐다”며 “그 끈은 장씨가 숙소에서 가지고 나간 것으로 추정된다”고 했다. 경찰 관계자는 “장씨가 머물던 숙소에서 한쪽 끈이 없는 등산화가 발견됐다”며 “장씨가 숙소에서 나가기 전 이 끈을 챙겨간 것으로 보인다”고 했다. 다만 극단적 선택을 뒷받침할 정황을 찾은 것은 아니라고 경찰은 밝혔다. 장씨가 우울증 등으로 진료를 받은 내역도 없다고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;⑤목뿔뼈 골절은 타살 정황?&lt;/b&gt;&lt;br&gt;&lt;br&gt;국립과학수사연구원은 27일 “시신에서 외부 충격에 따른 특이 골절은 발견되지 않았지만 목뿔뼈 부분에서 골절이 발견됐다”고 했다. 목뿔뼈는 목 부분에 있는 얇은 뼈로 설골(舌骨)이라고도 한다. 한 법의학 전문가는 “목뿔뼈 골절은 타인에 의해서도 생길 수 있다”고 지적했다. 국과수는 “시신이 부패하는 과정에서 골절됐을 가능성을 배제할 수 없다”며 “시신이 심하게 부패해 외상·질식 등을 판단하기 어렵지만 목맴사 가능성을 고려할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;이처럼 의문이 끊이지 않는 배경에는 장씨 실종 사건을 부실하게 처리한 경찰에 대한 불신도 있다는 분석이 나온다. 구정우 성균관대 사회학과 교수는 “경찰과 국가에 대한 불신이 타살 의혹을 불러온 측면이 크다”며 “경찰이 수사 과정을 투명하게 공개해야 한다”고 했다.&lt;br&gt;&lt;br&gt;부 경장은 지난 5월 15일 장씨의 남자친구가 실종 신고를 했지만 약 2시간 30분 만에 “장씨와 연락이 닿았다”고 거짓말을 하고 사건을 종결했다. 경찰 조사 결과 부 경장과 장씨가 통화한 기록은 확인되지 않았다. 부 경장이 경찰 내부 시스템에 장씨가 교통사고로 사망했다고 입력하고 장씨 기록을 삭제한 사실도 드러났다.&lt;br&gt;&lt;br&gt;경찰은 “모든 가능성을 열어 두고 정확한 사망 경위를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인 관광객 1000만 시대, 성분 표시 사각지대 놓인 K푸드</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/27/F2PNIVBHVFBMBDD2BV4NVKLEYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/27/F2PNIVBHVFBMBDD2BV4NVKLEYQ/</guid>
-      <dc:creator>강혜진 기자, 오지예 인턴기자(서울대 간호학과 졸업)</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLZFR3WNQJDVRHAGCCCVDC2XOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 마포구에 위치한 한 패스트푸드점에 원산지 및 알레르기 유발물질 안내문이 붙어있다./강혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;K-컬처 열풍에 힘입어 우리나라를 찾는 외국인 관광객이 늘고 있지만, 국내 외식업계의 식재료 및 성분 표시는 제한적이다. 채식, 종교, 알레르기 등 다양한 식성을 가진 외국인들이 현지 식당 앞에서 발길을 돌리는 일이 반복되고 있다.&lt;br&gt;&lt;br&gt;지난 23일 오후 서울 마포구 홍대입구역 인근의 한식당에서 만난 미국인 퍼트리샤(34)씨는 가게 앞 메뉴판을 들여다보다 발길을 돌렸다. 그는 “현지 느낌이 나는 작은 한식당을 경험하고 싶어 찾아왔지만, 음식 성분이 적혀 있지 않아 포기했다”고 말했다. 퍼트리샤씨는 고기·달걀·유제품 등 동물성 식품을 먹지 않는 채식주의자다.&lt;br&gt;&lt;br&gt;같은 날 스페인에서 온 아리아드나(19)씨는 “글루텐 알레르기가 있는데 한국 식당은 성분 표시가 명확하지 않거나 ‘밀’이라고만 적혀 있어 위험을 감수하고 먹는다”고 말했다. 스페인에서는 음식에 글루텐이 없으면 메뉴판에 동그란 모양의 ‘글루텐 프리 표식’이 붙어 있어 식별하기 쉽다고 한다.&lt;br&gt;&lt;br&gt;외국인 관광객이 우리나라 식당에서 발길을 돌리는 이유는 현행법상 성분 표시 의무가 제한적이기 때문이라는 지적이 나온다. 현행 ‘어린이 식생활안전관리 특별법’에 따르면, 알레르기 유발 원료 및 영양 성분 표시 의무는 햄버거·피자·제과제빵 등 어린이 기호식품을 판매하며 점포 50곳 이상을 보유한 프랜차이즈에만 적용된다. 치킨이나 국밥 등을 파는 일반 한식당은 매장 규모와 상관없이 규제 대상에서 제외된다.&lt;br&gt;&lt;br&gt;우리나라를 찾는 외국인은 꾸준히 늘어나고 있다. 서울관광재단에 따르면 2026년 상반기(1~6월) 우리나라를 찾은 외국인 관광객은 1070만 9919명으로 지난해 같은 기간보다 21.3% 늘었다. 이 중 76.8%인 822만 5218명이 서울을 찾았다. &lt;br&gt;&lt;br&gt;본지가 서울시 데이터를 분석한 결과, 홍대 주요 관광 거리(어울마당로·홍익로 등) 음식점 3239곳 중 알레르기 유발 원료 및 영양 성분 표시 의무 대상은 대형 프랜차이즈 18곳(0.6%)뿐이었다. 지난 24일 마포구의 한 샐러드 전문점도 탄수화물·단백질 등 영양성분은 안내하고 있었지만, 알레르기 성분 표시는 없었다. 직원에게 따로 묻자 “알레르기 성분 표시는 따로 없다”는 답이 돌아왔다.&lt;br&gt;&lt;br&gt;하지만 소상공인들이 모든 재료를 일일이 표기하기도 쉽지만은 않다. 식품의약품안전처 관계자는 “조리 음식의 다양성, 업체의 영세성 등으로 인한 현실적 어려움이 있다”며 “자율 표시를 지도하고 한국프랜차이즈산업협회 등을 통해 안내문을 배포 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;전문가들은 일률적인 규제보다는 현실적인 지원책을 고민해야 한다고 말한다. 윤지현 서울대 식품영양학과 교수는 “지자체가 희망 업체를 대상으로 성분 표기 컨설팅을 제공하고, 이를 이행한 업소에 인증 마크를 부여하는 등 인센티브 중심의 정책이 필요하다”고 제언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>청와대와 대법원장… 누가 헌법을 위반하고 있나</title>
