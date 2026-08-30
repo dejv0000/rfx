@@ -13,6 +13,141 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>시신 훼손 얼마나 심했길래… 경산 중국 유학생 유해 또 수습 </title>
+      <link>https://www.chosun.com/national/2026/08/30/6GJNQXE6V5DQRAPNK72LU6HQQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/08/30/6GJNQXE6V5DQRAPNK72LU6HQQ4/</guid>
+      <dc:creator>경산=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 07:14:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WGNZRMMYDGMRSGAZTQOBVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20대 중국인 유학생을 살해한 혐의를 받는 피의자 정모씨가 지난 25일 오후 경찰에 체포돼 압송되고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산에서 중국인 대학 강사에 살해된 20대 중국인 유학생의 시신이 경북 지역 한 야산에서 또 수습됐다. 훼손된 시신은 경산 주거지를 비롯해 경주 안강과 보문단지 주변, 경기 군포에 이르기까지 지역을 가리지 않고 발견되고 있다. &lt;br&gt;&lt;br&gt;경산경찰서는 중국인 강사 정모(31)씨가 진술한 시신 유기 장소에 대한 수색을 진행하는 과정에서 피해자 시신 일부를 경북 지역 한 야산에서 확인했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 시신 유기 과정에서 정씨가 이동한 위성위치확인시스템(GPS) 자료도 확보하고 범행 전후 이동 경로를 분석 중이다. 또 지난 28일부터 피의자 정씨를 직접 차량에 태워 전국으로 이동하며 시신 유기 장소를 추적하고 있다. 수습된 시신에선 피해자의 DNA가 검출돼 신원도 확인된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECY3FA3H7NOW3K5BEBMVVIF4YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 오후 10시 30분쯤 폐쇄회로(CC)TV에 포착된 여장한 채 주거지를 빠져나오는 경산 중국인 유학생 살해 피의자 모습. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지금까지 경주·군포 등 잇따라 수습한 시신 일부는 5건이 넘는 것으로 알려졌다. 유기 장소는 주로 야산이라고 한다. &lt;br&gt;&lt;br&gt;경찰은 다음 주 검찰 송치 전까지 남은 시신을 최대한 수습한다는 방침이다. 경찰 관계자는 “훼손된 시신이 여러 개로 전국으로 분산돼 송치할 때까지 유기된 시신을 다 발견하기는 힘들 것 같다”고 했다. 훼손된 시신 일부가 훨씬 더 많을 것이라는 의미로 풀이된다. &lt;br&gt;&lt;br&gt;경찰은 발견된 피해자의 시신 일부가 정교하게 훼손된 점을 의심하고 있다. 대학에서 인체해부학까지 강의한 정씨가 시신을 훼손·유기하는 과정에서 자신의 지식을 활용 여부도 살펴보고 있다. &lt;br&gt;&lt;br&gt;현재 금전 문제나 원한·갈등, 이성 관계 등 정확한 범행 동기는 아직 확인되지 않고 있다. 경찰은 정씨와 피해자의 평소 관계와 휴대전화·메신저 기록 등을 토대로 정확한 살해 동기를 규명하는 데 수사력을 모으고 있다. &lt;br&gt;&lt;br&gt;경산 지역 한 대학 시간 강사인 정씨는 지난 20일 주거지에서 한때 자신의 수업을 들었던 중국인 여성 유학생을 살해하고 시신을 여러 부분으로 훼손·유기한 혐의로 지난 27일 구속됐다. 범행 이후 피해자의 행적을 위장하고 직접 실종 신고를 한 정황도 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“토요일 전국 비 온다” 빗나간 예보... “나들이 취소” 뿔난 시민들</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/30/ONQXFRYFXFHEPJPX5H2UIFBC4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/30/ONQXFRYFXFHEPJPX5H2UIFBC4M/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 07:23:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBUOPYHENFDPHEQVC733IZNZ7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청이 토요일인 29일 전국 대부분 지역에 비가 내린다고 예보했지만, 상당수 지역에서 비가 아예 오지 않거나 예보보다 훨씬 적은 양의 비가 내렸다. 기상청은 수도권부터 영남까지 적게는 5㎜, 많게는 80㎜의 비를 예보했지만, 대부분 지역에서 실제 강수량은 예상 강수량의 하한선에 크게 못 미쳤다.&lt;br&gt;&lt;br&gt;기상청은 지난 28일 오후 4시 30분 “29일 전국 대부분 지역에 비가 내리는 곳이 있겠다”고 예보했다. 서울·인천·경기북부 5~40㎜, 경기남부 10~60㎜, 강원도 5~60㎜, 충청권·전라권 20~80㎜, 경상권 20~60㎜ 등이었다. 제주에도 5~40㎜를 예상했다. 시민 입장에서는 토요일 전국적으로 비가 오는 것으로 받아들일 만한 예보였다.&lt;br&gt;&lt;br&gt;하지만 하루 뒤 실제 날씨는 예보와 딴판인 지역이 많았다. 특히 수도권에서는 예보가 사실상 빗나갔다. 서울과 수원, 성남 등은 강수량 수치가 아예 기록되지 않았다. 경기도 성남에 사는 박모(43)씨는 “비가 온다는 예보를 듣고 가족 나들이 계획을 취소했는데, 정작 비는 내리지 않고 오후가 되니 날씨가 쨍했다”며 “주말 일정이 엉망이 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQ4LLLBKXRDOLFI4AJIJMUSOZ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 역시 예보와 실제와의 차이가 컸다. 기상청은 강원 남부 20~60㎜, 강원 중·북부 5~40㎜의 비를 예상했다. 하지만 29일 실제 강수량은 춘천 0㎜, 원주 1㎜, 강릉 1.1㎜에 그쳤다. &lt;br&gt;&lt;br&gt;충청권도 기상청이 대전·세종·충남에 30~80㎜, 충북에는 20~60㎜를 예상했지만 실제 대표 지점 강수량은 대전 12.1㎜, 홍성 12㎜, 청주 18.1㎜에 그쳤다. 당초 예상한 비의 절반에도 미치지 못한 곳이 적지 않았다.&lt;br&gt;&lt;br&gt;영남도 사정은 비슷했다. 기상청은 대구·경북과 부산·울산·경남 등에 20~60㎜를 예상했다. 실제로는 부산 0.9㎜, 포항 2.0㎜, 대구 3.0㎜, 창원 3.3㎜였다. 안동(16.2㎜)과 울산(15.5㎜)도 예상 하한인 20㎜를 밑돌았다. 울릉도·독도만 59.6㎜가 내려 예상 범위에 들어갔다. &lt;br&gt;&lt;br&gt;호남에서는 지역별 편차가 컸다. 전주에는 48.3㎜, 광주에는 23.8㎜가 내려 예보 범위(20~80㎜)에 들어갔다. 당초 비 예보가 실제 강수로 이어진 지역도 분명히 있었다. 그러나 여수에서는 강수량이 0㎜였고 목포는 3㎜에 그쳤다. 제주 역시 5~40㎜의 비가 예상됐지만 제주 대표 관측소의 강수량은 2.3㎜ 수준이었다.&lt;br&gt;&lt;br&gt;전국 대표 관측지점 22곳 가운데 13곳의 강수량이 5㎜ 미만이었고, 20㎜ 이상 비가 내린 곳은 전주(48.3㎜), 광주(23.8㎜), 울릉도·독도(59.6㎜) 등 3곳뿐이었다. 권역별 예상 강수량의 하한과 단순 비교할 경우 22곳 가운데 19곳에서 실제 강수량이 이를 밑돌았다.&lt;br&gt;&lt;br&gt;기상청은 29일 오전 4시40분 다시 “오늘은 전국 대부분 지역에 비가 내리는 곳이 있겠다”고 했다. 이때는 경기남부 10~40㎜, 서울·인천·경기북부 5~10㎜, 충청권 20~80㎜, 전북 20~80㎜, 광주·전남과 영남 20~60㎜ 등의 전망을 내놨다. 수도권 등에서 예상 강수량을 일부 줄이긴 했지만, 전국적으로 상당한 비가 오겠다는 예측은 유지한 것이다. 결과적으로는 실제 강수량과는 엇나간 예보가 됐다.&lt;br&gt;&lt;br&gt;기상청은 30일도 전국 대부분 지역에 비가 내릴 것으로 예보한 상태다. 30~31일 누적 강수량으로 경기남부 30~80㎜, 서울·인천·경기북부 20~60㎜, 대전·세종·충남 80~150㎜ 등을 예상하고 있다. 하지만 30일 오후 4시 현재까지 서울과 수원의 강수량은 0㎜다. 다만 기상청은 이날 낮 동안 수도권에 비 소강상태가 많을 것으로 예보했고, 아직 30~31일 누적으로 예보한만큼 아직 예보 실패로 보기는 이르다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “한반도 대기 상층에 위치한 차고 건조한 공기가 예상보다 남쪽으로 더 내려와 비구름 발달이 억제됐다”며 “대기 현상 변화가 불규칙하다 보니 특정 지점의 강수량을 정확히 예측하는 데 어려움이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김승원 신임 법무장관 후보자 “새로운 형사사법체계 정착에 최선”</title>
+      <link>https://www.chosun.com/national/court_law/2026/08/30/ZZSNNYPSGZEEHL4LIB6XMEV2DY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/30/ZZSNNYPSGZEEHL4LIB6XMEV2DY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 08:07:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRDENBQGY3WGOJSHEYWKZDGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 장관 후보자로 지명된 김승원 더불어민주당 의원이 30일 서울 여의도 국회 소통관에서 조희대 대법원장의 법사위 불출석 사유서 제출 관련 기자간담회에서 지명 소감을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부 두 번째 법무부 장관 후보자로 지명된 김승원(57·사법연수원 28기) 더불어민주당 의원이 30일 “새로운 형사사법체계가 국민에게 신뢰받는 제도로 안정적으로 정착할 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 후보자는 이날 법무부를 통해 밝힌 장관 후보자 지명 소감에서 “대한민국은 70년간 이어진 형사사법체계의 대전환을 앞두고 있다”며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;김 후보자는 검찰청 폐지와 중대범죄수사청 출범을 언급한 것이다. 1948년 만들어진 검찰청은 더불어민주당 주도로 형사소송법이 개정되고 검찰청법이 폐지되면서 78년 만인 오는 10월 폐지된다. 이와 함께 검찰의 기소 및 공소유지 기능은 공소청이, 주요 범죄에 대한 직접 수사는 중수청이 맡게 된다.&lt;br&gt;&lt;br&gt;김 후보자는 “판사와 변호사로서 국민의 권리와 인권을 지키기 위해 노력했고, 국회 법제사법위원회에서는 국민과 정의만을 바라보며 달려왔다”면서 “실체적 진실은 더욱 신속히 밝히고, 국민의 안전을 지키며 범죄 피해자의 권리는 더욱 두텁게 보호하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 김 후보자는 “국민을 위한 법무 행정을 구현하고, 이재명 정부의 성공을 위해 맡은 바 책임을 다하겠다”며 “앞으로 있을 인사청문 과정에도 겸손하고 성실한 자세로 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 이날 정성호 전 장관 후임으로 김 후보자를 지명했다. 강훈식 대통령 비서실장은 김 후보자에 대해 “판사 출신이자 국회 법사위 간사를 맡은 재선 의원으로, 형사·사법 체계 개편의 취지를 누구보다 깊이 이해하고 있다”고 했다. &lt;br&gt;&lt;br&gt;김 후보자는 민주당 형사소송법 태스크포스(TF) 위원과 법사위 법안심사제1소위원장으로 활동하면서 검사의 직접수사와 보완수사권을 폐지하는 형사소송법 개정을 주도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세종문화회관 공연, 광화문 전광판으로 본다</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/VFRPZIVITNE4TI6QLHCODLOB24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/VFRPZIVITNE4TI6QLHCODLOB24/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 04:10:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSWMOLEGQZTEOLEGAZWCMRTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월서울 종로구 광화문광장 놀이마당 특설무대에서 오페라 '마술피리' 공연이 펼쳐지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 7시 24분 서울 중구 청계광장. 커다란 전광판에 기타를 멘 가수 김창완이 나타났다. 광화문광장에 있는 세종문화회관에서 열린 ‘김창완밴드 콘서트’가 청계광장 전광판을 통해 실시간으로 중계된 것이다. 청계천 근처를 산책하던 시민들이 하나둘 걸음을 멈추고 콘서트를 지켜봤다.&lt;br&gt;&lt;br&gt;내년부터 세종문화회관 등에서 열리는 뮤지컬과 오페라, 콘서트를 광화문광장과 청계광장 등 서울 도심에 설치된 대형 전광판에서 볼 수 있게 될 것으로 보인다. 서울시가 공연장을 찾지 않아도 시민과 관광객이 거리에서 공연을 즐길 수 있게 전광판 실황 중계 추진에 나섰다.&lt;br&gt;&lt;br&gt;서울시는 KT스퀘어와 코리아나호텔 등 광화문 일대 대형 전광판 7곳을 공연 송출 후보로 검토하고 있다. 지난 5월에는 세종문화회관 앞에서 열린 ‘2026 누구나 세종페스티벌’ 야외 클래식 공연을 KT스퀘어 전광판으로 실시간 송출했다. 서울시 관계자는 “공연 전체를 트는 것보다 핵심 장면 위주로 보여주는 방안을 논의하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;2023년 말 광화문 일대가 ‘옥외광고물 자유표시구역’으로 지정된 뒤 KT스퀘어와 코리아나호텔 등에 초대형 전광판이 잇따라 들어섰다. 자유표시구역 안에서 전광판이 상업 광고를 송출려면 국가나 지자체가 요청하는 공익 광고를 일정 비율 이상 편성해야 한다. 종로구는 광화문 일대 전광판의 공익 콘텐츠 비율을 30%로 정해 놨다. 세종문화회관 공연 송출도 공익 콘텐츠 송출 성격을 갖는다.&lt;br&gt;&lt;br&gt;서울시는 앞으로 뮤지컬과 오페라 등 시민 선호도가 높은 공연도 송출할 계획이다. 송파구 문정컬처밸리 선큰광장 등 공공문화시설 전광판으로 송출 장소를 넓히는 방안도 서울시는 검토 중이다. 내년 서울아레나가 문을 열면 공연 기획 단계부터 외부 송출을 고려한 콘텐츠를 제작하겠다는 계획이다.&lt;br&gt;&lt;br&gt;미국 뉴욕 메트로폴리탄 오페라는 2006년부터 매년 개막 공연을 타임스스퀘어 대형 전광판으로 무료 생중계하고 있다. 첫해 ‘나비부인’ 공연 때는 브로드웨이 차로를 막고 객석 650개를 깔았다. 영국 런던 로열오페라하우스도 트라팔가광장 등 20여 곳 야외 스크린에 오페라와 발레 공연을 중계하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 8월 31일 월요일 (음력 7월 19일 丁丑)</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/HAABHH467RCNVF2STOBQHDRGGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/HAABHH467RCNVF2STOBQHDRGGA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>네팔 대홍수 실종자 가족들 “댐 상류에도 헬기 보내달라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/YFJYQ2VP35GJXCUAFZFV44TWAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/YFJYQ2VP35GJXCUAFZFV44TWAY/</guid>
+      <dc:creator>김도연 기자, 정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 05:07:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J72JLYKAY5IEHOVZXEH7T6UHOE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전(현지시각) 네팔 카트만두 트리부반 국제공항에서 네팔 홍수 실종자 수색 구조에 나서는 민간 산악구조 헬기들이 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“댐 상류에 우리 매제 혼자 근무하고 있었습니다. 제발 상류에도 헬기를 보내주세요.”&lt;br&gt;&lt;br&gt;30일 낮 12시쯤 경기 성남시 분당두산타워에서 만난 네팔 대홍수 실종자 가족은 취재진에게 이같이 말했다. 이들이 찾고 있는 실종자는 네팔 어퍼트리슐리(UT)-1 수력발전소 사고로 연락이 두절된 두산에너빌리티 40대 직원 김모씨다. &lt;br&gt;&lt;br&gt;김씨 가족은 “강 상류에 있는 위어댐(물막이 댐)에서 김씨 혼자 상주하며 현장 관리를 총괄했다”며 “네팔 홍수 피해 지역 중 가장 위쪽에 있던 근무자”라고 설명했다. 김씨가 일하던 곳은 다른 직원들이 있던 강 하류의 사무동, 발전 설비동에서 직선거리로 10㎞ 떨어진 지역으로 차량으로 40분 이상 걸리는 오지다. &lt;br&gt;&lt;br&gt;김씨는 외국인 근로자들과 이곳에 상주하며 며칠에 한 번씩 사무동로 내려갔다고 한다. 현장에선 불과 넉 달 뒤인 올해 12월 준공을 목표로 막바지 공사가 한창이었다. &lt;br&gt;&lt;br&gt;가족들은 “김씨의 정확한 위치를 대응팀에 전달했지만 사고 후 100시간 가까이 지난 지금까지도 위어댐 상부에는 헬기가 한 번도 가지 않았다”며 “지난 28일 김씨가 있던 댐 상류에서 식당 종업원, 엔지니어 등 현지 직원 6명이 구조됐다는 소식을 들었다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “29일에도 헬기가 두 차례 이륙했다는데 한국인 직원이 있는 위어댐 상부는 한 번도 살펴보지 않았다는 게 이해되지 않는다”며 “김씨가 생존해 있다면 구조 요청이라도 할 수 있도록 상부 지역을 수색해 달라”고 했다. 이어 “신속 대응팀이 수색 계획을 공유해 주고는 있지만 네팔 당국이 요구를 수용할지 미지수라 답답한 심정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;김씨는 홍수가 발생한 26일 오전 8시 35분(현지 시각)쯤 가족들에게 아침 일과를 알리는 연락을 보냈다. 가족들은 “평소 그 시간이면 사무실에서 나와 현장을 둘러보고 있었을 때”라고 했다. 1년 전에도 인근 부지에서 홍수가 발생해 김씨가 가족들에게 “무섭다”는 연락을 보냈다고 한다.&lt;br&gt;&lt;br&gt;한편 26일 네팔 대홍수로 김씨를 포함한 두산에너빌리티 직원 6명과 남동발전 직원 3명 등 한국인 9명이 실종된 상태다. 정부는 연락 두절된 한국인 9명을 찾기 위해 이날 헬기를 띄울 예정이다. &lt;br&gt;&lt;br&gt;정부합동 신속 대응팀 임차 헬기 1대, 두산에너빌리티 임차 헬기 1대 등 2대가 이날 운항을 계획 중이다. 네팔군 당국의 운항 허가를 기다리는 상황인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;28일 저녁쯤 남동발전 헬기 1대가 처음으로 현장 수색에 나섰지만 성과를 내지 못했다. 29일에는 정부 임차 헬기 1대가 2회 이륙해 수색을 진행했지만 현장에 착륙하지는 못했다. 상공을 비행하면서 육안으로 살펴보고, 동영상을 촬영해 재차 분석하는 식으로 수색을 진행했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>과천 빙상장서 일산화탄소 추정 가스 누출… 140여 명 대피 소동</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/TC7RGF4F4ZFYTFYBBXK6WHRYKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/TC7RGF4F4ZFYTFYBBXK6WHRYKU/</guid>
+      <dc:creator>과천=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 07:01:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 과천의 빙상장에서 일산화탄소로 추정되는 가스가 누출되는 사고가 발생해 100여명이 대피하는 소동이 빚어졌다.&lt;br&gt;&lt;br&gt;30일 소방당국에 따르면 이날 오후 1시 33분쯤 과천시 과천시민회관 지하 2층 빙상장에서 “한 학생이 가스 냄새가 난다며 누워 있다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장으로 출동한 소방당국은 두통 증세를 보이는 10대 여학생 1명을 병원으로 이송했다.&lt;br&gt;&lt;br&gt;또 빙상장의 이용객 100여 명 등 건물 내에 있던 140여 명을 대피시키고 건물 출입을 통제하는 등 안전 조치를 했다.&lt;br&gt;&lt;br&gt;소방당국은 빙상장에서 빙판을 고르는 정빙기에서 일산화탄소로 추정되는 가스가 누출된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;소방당국은 건물 전체에 대한 배연 작업을 하고 누출된 가스의 종류와 농도 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“앉아달라” 요구한 버스기사 10분간 폭행... 60대 취객, 2심도 실형</title>
+      <link>https://www.chosun.com/national/regional/2026/08/30/37IDI3IUDFC4DLS55PHLRHFJBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/30/37IDI3IUDFC4DLS55PHLRHFJBQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 06:57:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안전상 착석해 달라는 버스 운전기사의 말에 화가 나 기사를 주먹으로 때린 60대에게 항소심에서도 실형이 선고됐다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 특정범죄가중처벌법상 운전자 폭행, 업무방해, 공무집행방해 혐의로 기소된 A(65)씨에게 원심과 같은 징역 2년 6개월을 유지했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 1일 오전 9시 5분쯤 홍천군 영귀미면 한 시내버스 안에서 운전기사 B씨에게 발길질하고 목덜미를 가격하는 등 약 10분 동안 폭행해 전치 2주의 상처를 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;술에 취한 채 버스에 오른 A씨는 B씨에게 “위험하니 앉아주세요”라는 말을 들은 뒤 격분해 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 식당에서 혼자 술을 마시던 중 식당 주인에게 욕설하며 상을 뒤엎는 등 소란을 피우고, 신고를 받고 출동한 경찰관을 폭행하기도 했다.&lt;br&gt;&lt;br&gt;1심을 맡은 춘천지법은 “폭력 관련 범행 등으로 여러 차례 처벌받은 전력이 있고, 운전자 폭행과 공무집행방해죄 등으로 인한 누범 기간이었음에도 범행을 저질렀다”며 실형을 선고했다.&lt;br&gt;&lt;br&gt;1심 선고 후 “형이 무거워 부당하다”는 A씨 측 주장을 다시 살핀 항소심 재판부는 “원심이 피고인에게 선고한 형은 재량의 합리적인 범위 내에 있다고 인정된다”며 원심의 형을 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남광주시, 국립의대 신설 후보로 순천대 선정</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/XMREEYYAOFB65KKPONMTEX7Q6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/XMREEYYAOFB65KKPONMTEX7Q6I/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 06:21:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRDKYRRHBSGMNRRGNQTQYJQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민형배 전남광주시장이 지난 28일 무안청사에서 기자간담회를 열고 국립의대 갈등을 해소하기 위한 '공동 정치협상 회의'를 제안하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주시가 국립 의과대학 신설 후보 대학으로 순천대학교를 선정했다.&lt;br&gt;&lt;br&gt;민형배 전남광주시장은 30일 기자회견을 열고 “전남광주시는 국립 의과대학 신설 후보 대학으로 국립 순천대를 정부에 추천한다”고 밝혔다.&lt;br&gt;&lt;br&gt;정부는 2030년 신입생 입학을 목표로 의대가 없는 지역에 정원 100명 규모의 국립 의대 신설을 추진하고 있다. 이에 따라 순천대는 경북 경국대와 최종 경합을 벌이게 된다. 앞서 경국대는 정원 50명 규모 의대 신설을 신청했다.&lt;br&gt;&lt;br&gt;전남광주시는 전남 동부권 국립 순천대와 전남 서부권 국립 목포대의 통합을 전제로 국립 의대 신설 후보 대학을 선정해 정부에 제출할 계획이었다. 하지만, 양 대학이 의대 소재지를 놓고 대립하면서 공동 의대 신설 계획서를 내지 못했다.&lt;br&gt;&lt;br&gt;전남광주시는 지난 26일 교육부로부터 국립 의대 신설 후보 대학 1곳을 추천해달라는 안내를 전달받아 관련 절차에 착수해 순천대를 선정했다.&lt;br&gt;&lt;br&gt;국립 의대 신설 후보 대학 선정 심사 전담 기관은 전남연구원이 맡았다. 심사위원회는 서울, 경기, 대전, 충남 등 전국 단위 의료 전문가 8명으로 구성됐다.&lt;br&gt;&lt;br&gt;이들이 의대 신설 추진 체계, 의대 교육 시설 확보 계획, 교육 병원 확보 계획, 의대 교원 확보 계획, 의대 및 교육 병원의 역할과 책임 등 5개 분야를 심사한 결과 순천대가 89.15점을 받아 목포대(87.85점)를 앞섰다.&lt;br&gt;&lt;br&gt;전남광주시는 이날 교육부에 정원 100명 규모 국립 의대 신설 신청서를 낼 계획이다. 교육부는 신청서를 검토해 국립 의대 신설 여부를 확정한다.&lt;br&gt;&lt;br&gt;시는 국립 의대 후보지로 신설되지 않은 목포 등 전남 서부권 지역에는 대학 병원급 의료 기반 시설 확충을 비롯한 혜택을 준다는 방침이다.&lt;br&gt;&lt;br&gt;민형배 시장은 “선정된 대학과 함께 국립 의대 설립 추진 계획서를 정부에 제출하고 최종 결정까지 남은 절차를 잘 넘어설 수 있도록 양 대학과 지역 정치권, 시민 여러분이 공동의 목표를 향해 힘을 모아달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GFRDKYRRHBSGMNRRGNQTQYJQME.jpg?auth=c7c234bfc457cf021d530993b04adab8a767b187bb28d1b0603a7020a3677ccc&amp;smart=true&amp;width=2278&amp;height=1927" type="image/jpeg" height="1927" width="2278">
+        <media:description type="plain">민형배 전남광주시장이 지난 28일 무안청사에서 기자간담회를 열고 국립의대 갈등을 해소하기 위한 '공동 정치협상 회의'를 제안하고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>의왕역 코레일 직원 사망사고에…국토부 “원인 규명 후 엄중 조치”</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/08/30/X3KR4LCTWVFLLLVVIIGNBLAYXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/08/30/X3KR4LCTWVFLLLVVIIGNBLAYXY/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 05:12:25 +0000</pubDate>
+      <content:encoded>29일 오전 경기 의왕시 경부선 의왕역에서 화물열차 차량을 연결·분리하는 작업을 하던 코레일 직원이 열차에 깔려 숨지는 사고가 발생했다. 국토교통부와 고용노동부 등 관계 당국은 안전 수칙이 제대로 지켜졌는지 조사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2JH225KKAB2I44WIUZMCOGNEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의왕역 주변 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 서울철도특별사법경찰대와 소방 당국에 따르면 이날 오전 7시20분쯤 의왕역 구내에서 작업하던 코레일 소속 50대 직원 A씨가 화물 차량에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 선로 주변에서 기관사와 무전으로 소통하며 화물 차량의 이동을 유도하는 ‘입환’ 작업을 하다가 사고를 당한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;서울철도특사경과 노동부는 사고 당시 투입된 작업자 수를 확인하고 입환 작업 과정에서 안전 수칙이 지켜졌는지 조사에 나섰다. 작업 인원이 적어 기관사가 A씨의 위치를 제대로 파악하지 못했을 가능성도 살필 예정이다.&lt;br&gt;&lt;br&gt;코레일 노사는 2015년 6량 이상 화물 차량의 입환 작업에는 입환원 2명 이상을 투입하기로 합의했다. 이후 2022년 11월 경기 의왕시 오봉역에서 입환 작업 중 코레일 직원 1명이 숨지고 1명이 다치자 노조는 입환 인력을 3명으로 늘릴 것을 요구했고, 사측도 이를 받아들였다.&lt;br&gt;&lt;br&gt;그러나 ‘3인 1조’ 작업은 물동량이 많은 일부 현장에만 도입되고, 상대적으로 열차가 적은 의왕역에는 2명만 배치되는 경우가 많은 것으로 알려졌다. 코레일 노조는 사고 당시에도 A씨를 포함해 입환원 2명이 근무한 것으로 파악하고 있다.&lt;br&gt;&lt;br&gt;코레일 작업 현장에서는 노동자가 작업 중 다치거나 사망하는 사고가 반복되고 있다. 2024년 8월 서울 구로역에서는 점검용 차량이 코레일 직원들을 덮쳐 2명이 숨지고 1명이 다쳤다. 지난해 2월 강원 근덕역에서는 정비 작업을 하던 협력업체 노동자가 열차에 치여 숨졌고, 같은 해 8월 경북 경부선에서도 무궁화호가 선로 작업자 7명을 덮쳐 협력업체 노동자 2명이 숨지고 5명이 다쳤다.&lt;br&gt;&lt;br&gt;코레일은 “관계 기관 조사에 협조하고 긴급 안전 조치와 재발 방지 대책을 마련하겠다”고 밝혔다. 국토부는 사고 원인을 규명한 뒤 안전 강화 대책을 마련하겠다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허가 면적보다 3배 넘는 옹벽 설치… 골프장 건설업체 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2026/08/30/5XCYLPSSD5DZROEWQKIQQKWULY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/30/5XCYLPSSD5DZROEWQKIQQKWULY/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 05:08:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3F2ZWACSUVDQGUP6YCSHD7TD2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개발제한구역에 골프장을 조성하면서 허가받은 면적의 3배가 넘는 옹벽을 설치하는 등 허가 내용을 어긴 건설업체 관계자들에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사2단독 신혜원 부장판사는 건축법과 개발제한구역법 위반 혐의로 기소된 건설업체 대표이사 A씨와 경영자 B씨에게 각각 벌금 300만원, 사장 C씨에게 벌금 200만원을 선고했다고 30일 밝혔다. 업체 법인에도 벌금 700만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 2022년 9월 울산 울주군 온산읍 개발제한구역에 골프장을 조성하면서 허가받은 3520㎡보다 3배 이상 넓은 1만1370㎡ 규모의 옹벽을 설치한 혐의를 받는다.&lt;br&gt;&lt;br&gt;카트 도로 1만6881㎡와 저류지 4510㎡, 우수관로 702㎡ 등도 허가 내용과 다르게 시공했다.&lt;br&gt;&lt;br&gt;이들은 2024년 4월 울주군에서 원상 복구 시정 명령을 받고도 따르지 않아 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “처벌받을 수 있음을 알면서도 공사를 강행해 죄책이 가볍지 않다”며 “다만 사후 관할 관청에서 변경 허가를 받아 위법 상태가 해소됐고, 시정 명령 불응으로 부과된 이행 강제금을 납부한 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 유조선 몰다 해경 음주측정 거부… 60대 집행유예 </title>
+      <link>https://www.chosun.com/national/regional/2026/08/30/FIQLGKAO3ZDGFGQ2PN2HFYCSHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/30/FIQLGKAO3ZDGFGQ2PN2HFYCSHY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 05:02:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채로 선박을 몰다 해경의 음주 측정 요구를 거부한 혐의로 재판에 넘겨진 60대가 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 부산지법 형사12단독 박병주 판사는 해상교통안전법 위반 혐의로 기소된 60대 남성 A씨에게 징역 1년에 집행유예 2년을 선고하고, 40시간 사회봉사 및 준법운전 강의 수강을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 9일 오후 부산 동구에 정박 중인 149t급 유조선을 약 1㎞를 운항했다. 당시 A씨는 술 냄새가 나는 동시에 혼자 몸을 가눌 수 없을 정도로 비틀거렸다고 한다. &lt;br&gt;&lt;br&gt;이를 발견한 해경은 A씨에게 음주 측정을 요구했다. A씨는 화를 내며 욕설하는 등 음주 측정 요구를 거부한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 이미 음주 운항으로 한 차례 처벌받은 전력이 있었고, 2023년에는 일반 음주 운전으로 집행유예를 선고받은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;박 판사는 “술에 취한 상태로 선박을 운항하는 행위는 타인의 생명과 신체, 재산에 심각한 피해를 가져올 수 있는 범죄로 엄히 처벌할 필요가 있다”면서 “추가 피해가 발생하지 않은 점, 피고인이 퇴근한 후 다시 운항 지시를 받고 운항한 점 등을 참작했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지역사랑상품권 사용처 넓힌다... 정부, 2030년까지 31조2000억 발행</title>
+      <link>https://www.chosun.com/national/national_general/2026/08/30/7PFDGNFZTNAO3ENS3Z2TI5EIEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/30/7PFDGNFZTNAO3ENS3Z2TI5EIEM/</guid>
+      <dc:creator>윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 04:54:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZDEZBQMZRGMNRYGIYDMOBSMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 월드컵시장의 한 상점에 지역사랑상품권 결제 안내문이 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 지역사랑상품권 발행 규모를 2030년까지 31조2000억원으로 늘린다. 상품권을 쓸 수 있는 지역과 가맹점을 늘려 지역 소비를 활성화하겠다는 구상이다.&lt;br&gt;&lt;br&gt;행정안전부는 30일 이런 내용을 담은 ‘지역사랑상품권 활성화 기본 계획(2026~2030)’을 발표했다. 지역사랑상품권은 지방자치단체가 발행해 해당 지역 내 등록된 가게(가맹점)에서만 사용할 수 있는 지역 화폐다. 정부는 현재 24조원 수준인 지역사랑상품권 발행 규모를 2030년까지 31조2000억원으로 늘리기로 했다. 지역별 소비가 적은 업종을 중심으로 가맹점을 늘리고, 상품권 사용 지역도 확대할 방침이다. 각종 카드 포인트를 지역사랑상품권으로 전환하는 방안도 추진한다.&lt;br&gt;&lt;br&gt;지역사랑상품권은 발행 규모와 사용처가 꾸준히 늘고 있다. 상품권을 발행하는 지자체는 2018년 66곳에서 지난해 196곳으로 약 3배 증가했다. 발행 규모도 2020년 13조3000억원에서 지난해 22조4000억원으로 확대됐다. 가맹점은 같은 기간 139만6000곳에서 237만4000곳으로 늘었고, 인구 감소 지역에서는 7만9000여 곳에서 17만6000여 곳으로 두 배 이상으로 증가했다.&lt;br&gt;&lt;br&gt;지역사랑상품권을 부정하게 받거나 불법으로 현금화하려다 적발된 사례는 2021년 102건에서 지난해 68건으로 줄었다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “지역사랑상품권이 민생 경제를 살리고 지역 공동체 가치를 확산하는 핵심 정책 수단으로 체질을 바꾸는 전환점이 될 수 있도록 기획 계획을 차질 없이 이행해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘푸른거탑’ 배우 이용주 심장마비로 사망</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/08/30/BX76QPWWMBEZTLWEZFRZD6DZTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/30/BX76QPWWMBEZTLWEZFRZD6DZTI/</guid>
+      <dc:creator>이경은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Aug 2026 01:20:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQTIOJWGUYTSYZUGVQWKMZQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 故 이용주씨./tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;tvN ‘푸른거탑’, ‘막돼먹은 영애씨’ 등에 출연한 배우 이용주가 향년 44세로 별세했다.&lt;br&gt;&lt;br&gt;30일 방송계에 따르면, 이용주는 지난 29일 심장마비로 세상을 떠났다. 고인의 지인은 사회관계망서비스(SNS)를 통해 부고를 전하며 “갑작스러운 소식에 아직 믿기지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;모델 출신인 고인은 2004년 영화 ‘도마 안중근’의 단역으로 연기를 시작했다. 이후 MBC ‘안녕, 프란체스카’, tvN ‘막돼먹은 영애씨’, SBS ‘두 여자의 방’ 등으로 이름을 알렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPZELQMYGBA4NDZQMBDY7QBMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이용주(왼쪽)와 배우 정시연. 정씨는 30일 자신의 SNS에 “오랜 동료였던 용주오빠가 갑자기 세상과 작별했다는 게 아직도 믿기지 않는다”는 글과 함께 여러 장의 사진을 게재했다. /정시연 SNS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시트콤 ‘푸른거탑’에서 어리숙한 신병을 연기하며 시청자들의 사랑을 받았다.&lt;br&gt;&lt;br&gt;고인의 빈소는 경기 성남 분당제생병원장례식장 5호실에 마련됐다. 발인은 31일 오전 6시 30분, 장지는 성남시장례문화사업소다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HFQTIOJWGUYTSYZUGVQWKMZQG4.jpg?auth=cabf21e242f98e6cf491ca39049cd51dcc1103c9e4a41bec6e2d85b8788a2df0&amp;smart=true&amp;width=540&amp;height=810" type="image/jpeg" height="810" width="540">
+        <media:description type="plain">배우 故 이용주. photo tvN</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 이태원 특조위, 非운동권 조사국장 ‘찍어내기’ 해임 의혹 </title>
       <link>https://www.chosun.com/national/2026/08/30/ZNEPXXC4NZG5BFID5LVLOGHF5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/08/30/ZNEPXXC4NZG5BFID5LVLOGHF5Y/</guid>
@@ -814,63 +949,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXGSHF73ZJGBFKNKZSUUCGCECU.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남 일대에서 음주 상태로 고급 외제차를 끌던 운전자가 오토바이와 차량 여러 대를 들이받는 사고를 내 오토바이 운전자 1명이 숨졌다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 28일 특정범죄가중처벌법상 위험운전치사 혐의로 중년 남성 A씨를 현행범 체포해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 27일 오후 11시 46분쯤 서울 서초구 뱅뱅사거리 남부터미널역 방면 도로에서 마세라티 승용차를 몰던 중 오토바이 1대와 차량 5대를 들이받는 6중 추돌 사고를 낸 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사고로 오토바이 운전자인 40대 남성이 심정지 상태로 병원에 옮겨졌지만 끝내 숨졌다. 다른 차량 운전자 등 3명도 경상을 입었다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰의 음주 측정 결과, A씨는 음주 상태였던 것으로 확인됐다. A씨는 유명인은 아닌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 마약 여부를 포함해 구체적인 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘태권도 선수로 위장’… 외국인 불법 입국 알선 일당</title>
-      <link>https://www.chosun.com/national/incident/2026/08/28/F4HZZZ27CZGURE5H7FRCOTDLUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/28/F4HZZZ27CZGURE5H7FRCOTDLUI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 04:17:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWY6C7QKLOZDDD42DFR62SPUKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항 출입국·외국인청./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인들에게 돈을 받고 불법 입국을 알선한 브로커들이 출입국 당국에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천공항출입국·외국인청은 출입국관리법 위반 혐의로 키르기스스탄 국적 여성 A(57)씨를 검찰에 구속 송치했다고 28일 밝혔다. 또 같은 혐의로 A씨 남편 한국인 B(57)씨 등 공범 3명을 불구속 송치했다. &lt;br&gt;&lt;br&gt;A씨 등은 2023년 4월부터 지난해 5월까지 한국에 취업하고자 하는 키르기스스탄인 46명에게 돈을 받고 허위 사증(비자) 신청을 알선한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 1명당 4500달러(약 620만원)를 받고 태권도 선수 등으로 위장해 입국할 수 있게 도운 것으로 파악됐다. 허위 사증을 발급받아 입국한 13명 중 8명은 강제 퇴거 조처됐다. &lt;br&gt;&lt;br&gt;나머지 5명은 출입국 당국이 소재를 추적하고 있고, 아직 입국하지 않은 33명은 사증이 취소됐다.&lt;br&gt;&lt;br&gt;한편 출입국 당국은 지난달 12일 단체 관광객 무비자 제도를 이용해 인천국제공항으로 입국한 뒤 사라진 C(31)씨 등 중국인 4명도 붙잡아 퇴거 조처했다. &lt;br&gt;&lt;br&gt;이들은 국내 취업을 위해 중국 브로커에게 1명당 2만~5만위안(약 400만~1000만원)을 주고 국내로 입국했으며, 경북 경산, 경기 여주, 울산 울주 등지에서 붙잡혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XC5DRKRAOVARBXDKRWGNGOLMBE.jpg?auth=d6198451671c016493ba7457cb3f4867284a0ebe81db32d1e9c5a128443c329e&amp;smart=true&amp;width=720&amp;height=534" type="image/jpeg" height="534" width="720">
-        <media:description type="plain">[첨부용]인천공항출입국외국인청</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>60대 만취범, 술자리 시비 끝 지인에 흉기 휘둘러 체포</title>
-      <link>https://www.chosun.com/national/regional/2026/08/28/AT4GSAVIGVFLHJMXZHJIPPARYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/28/AT4GSAVIGVFLHJMXZHJIPPARYA/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 02:35:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 지인에게 흉기를 휘둘러 살해하려 한 60대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 살인 미수 혐의로 60대 A씨를 붙잡아 조사 중이라고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 27일 오후 7시 16분쯤 춘천시 효자동 한 아파트 단지 안에서 50대 B씨에게 흉기를 휘두른 혐의를 받고 있다. B씨는 중상을 입고 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 범행 현장 인근에서 A씨를 현행범으로 체포했다. 당시 A씨는 만취 상태였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 평소 알고 지내던 사이로, 다른 지인들과 함께 술을 마시던 중 시비가 붙은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사한 뒤 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 경찰, 탐정 요청받고 개인정보 유출… 구속</title>
-      <link>https://www.chosun.com/national/incident/2026/08/28/GEODEYQBZFHK5EGARQCQJE2MIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/28/GEODEYQBZFHK5EGARQCQJE2MIQ/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 02:07:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사설탐정의 의뢰를 받고 경찰 내부 전산망에서 특정인의 개인 정보를 조회해 넘긴 혐의를 받는 현직 경찰관이 구속됐다. 경찰은 개인 정보를 요구한 사설탐정 업자도 이달 초 구속한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경기북부경찰청은 개인 정보 보호법 위반 등의 혐의로 경남 창원 마산동부경찰서 소속 경찰관 A씨를 구속해 조사하고 있다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 경기 지역에서 활동하는 사설탐정 업자에게서 특정인의 개인 정보를 확인해 달라는 요청을 받고 경찰 내부 전산망을 조회한 뒤 확인한 정보를 탐정 측에 넘긴 혐의를 받는다. 경찰 관계자는 “탐정 업자가 조회 대상자를 지정해 A씨에게 의뢰하고, A씨가 이를 조회해 정보를 넘긴 방식”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 개인 정보를 요청한 사설탐정 업자도 이달 초에 구속했다. A씨가 넘긴 개인 정보의 구체적인 종류와 유출 대상자의 수, 범행 기간 등은 수사 중이다.&lt;br&gt;&lt;br&gt;경찰 내부망을 통해 개인 정보를 빼내 사설 탐정에게 넘긴 사건은 최근 경기 북부에서도 적발됐다. 고양경찰서는 지난 6월 경기북부경찰청 관내 경찰서 소속 경찰관 B씨를 개인정보보호법 위반 등의 혐의로 구속 송치했다. B씨는 지난해 말부터 올해 5월까지 사설 탐정 업체의 의뢰를 받아 경찰 전산망에서 특정인의 개인 정보를 8차례 조회하고 이 가운데 일부를 외부로 넘긴 혐의를 받았다. 정보 제공 대가로 금품을 받은 사실도 수사 과정에서 확인됐다. &lt;br&gt;&lt;br&gt;다만 경찰은 이번 A씨 사건과 B씨 사건은 서로 관련이 없는 별개의 사건이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>회생법원, JTBC 회생절차 개시 결정</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/28/NUIB6SVGU5FW5JSWKLUHRNA6FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/28/NUIB6SVGU5FW5JSWKLUHRNA6FI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 01:31:11 +0000</pubDate>
-      <content:encoded>법원이 JTBC의 회생절차를 개시하기로 28일 결정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQYTIZLBGQYGGZBUGY2TAZTEMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구에 있는 JTBC 사옥./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원 2부(재판장 정준영 법원장)는 이날 JTBC의 자율구조조정(ARS) 절차를 끝내고 회생절차를 개시한다고 밝혔다. 회생법원은 “코로나 이후 국내외 OTT 등 플랫폼의 급격한 성장 등으로 방송광고시장이 축소된 상황에서, 올림픽 중계권료를 지급하느라 단기간 집중적인 지출이 발생했다”며 결정 이유를 설명했다. 중앙그룹 전체의 유동성 위기도 재정적 파탄 요소로 고려됐다.&lt;br&gt;&lt;br&gt;이 같은 결정은 JTBC와 채권자들이 채무 구조조정을 자율적으로 협의하는 데 실패하면서 이뤄졌다. JTBC는 지난 6월 206억원 규모 유동화 차입금을 만기 상환하지 못해 채무불이행(디폴트)을 선언하면서 ARS 절차를 신청했다. ARS는 법원이 강제 회생절차 개시를 일정 기간 보류하고 기업과 채권자들이 자율적으로 채무 구조조정을 협의하도록 지원하는 제도다. ARS가 원만히 진행되면 법원이 개입하는 회생절차를 밟지 않아도 된다.&lt;br&gt;&lt;br&gt;ARS가 종료됨에 따라 JTBC는 오는 10월까지 채권자목록을 제출하고, 채권조사를 마친 뒤 내년 1월까지 회생계획안을 제출해야 한다. 회생법원은 JTBC에 회사의 부채 등 자산 현황을 공개하는 관계인설명회도 올해 중으로 열도록 했다.&lt;br&gt;&lt;br&gt;지난 6월부터 중앙홀딩스, 중앙피앤아이, 메가박스중앙, 콘텐트리중앙 등 중앙그룹 계열사 4곳도 회생절차를 밟고 있다. 이들 기업은 ARS 절차 없이 곧바로 회생절차에 돌입했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전과 14건 시의원 후보, “내 현수막 가려” 남의 현수막 싹둑</title>
-      <link>https://www.chosun.com/national/regional/2026/08/28/AXVK7EFXXZHMZOIIOHWATXM3QM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/08/28/AXVK7EFXXZHMZOIIOHWATXM3QM/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 01:50:44 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3DMOBTGFSTAMTDMVSTCYJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산고등·지방법원 전경./ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6·3 지방선거에 출마한 무소속 부산시의원 후보가 경쟁 후보의 선거 현수막을 훼손한 혐의로 벌금형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 임성철)는 28일 공직선거법 위반 혐의로 기소된 강모(62)씨에게 벌금 100만원에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;강씨는 지난 5월 22일 오전 4시 30분쯤 부산시 부산진구 한 도로에서 부산시장 후보의 선거 현수막 고정 끈을 가위로 잘라 철거한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 선거에 무소속으로 부산시의원 후보로 출마한 강씨는 자신의 선거 운동용 현수막이 해당 후보 현수막에 가려진다는 이유로 범행했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 인정하고 있고 범행이 선거에 미친 영향은 경미하다”면서 “피고인이 양극성 장애 진단을 받고 기초생활 수급자로 노모를 부양하고 있는 점을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;강씨는 6·3 지방선거에서 부산 부산진구 제2선거구에 무소속으로 출마하면서 전과 14건을 신고했다. 당시 부산 지역 출마자 중 가장 많은 건수였고, 전국에선 두번째로 많았다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>AI로 과제 썼다면 밝혀야…대학가 ‘AI 사용 가이드라인’ 나왔다</title>
-      <link>https://www.chosun.com/national/education/2026/08/28/67ECOO6TGFD2TEKYSPYENVEKAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/08/28/67ECOO6TGFD2TEKYSPYENVEKAQ/</guid>
-      <dc:creator>황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Aug 2026 01:45:00 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2WGMRWME2TEZBRGIYWGYJVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대학에서 대학생들이 강의를 듣는 모습(기사 내용과 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 대학생이 AI를 활용해 과제나 발표를 준비했다면 그 출처를 밝혀야 하고, 교수는 AI를 어디까지 쓸 수 있는지 강의계획서에 명시해야 한다. 과제를 AI로 썼는지 가려내는 탐지 프로그램이 대학가에 퍼졌지만, 그 결과만으로 학생을 징계해서는 안 된다. &lt;br&gt;&lt;br&gt;28일 교육부에 따르면 교육부와 한국대학교육협의회는 지난 24일 이러한 내용이 담긴 ‘대학 AI 활용 윤리 가이드라인’을 각 대학에 공문을 통해 배포했다. 지난 2월 대학과 전문가 의견을 듣기 위해 공개했던 시안을 보완한 것이다.&lt;br&gt;&lt;br&gt;가이드라인은 학문적 진실성, 인간 중심성과 책임성, 투명성과 신뢰성, 공정성, 정보 보호 및 보안 등 5대 핵심 원칙과 12개 세부 원칙으로 짜였다. 교수는 수업 목적에 따라 AI를 ‘사용 금지’, ‘제한적 사용’, ‘사용 허용’ 등으로 구분해 운영할 수 있다. 활용 범위와 과제·시험 평가 기준, 표절 및 부정행위 기준 등은 강의계획서에 명시하도록 했다. 학생은 AI를 사용한 경우 활용 사실과 사용 범위를 공개해야 한다. &lt;br&gt;&lt;br&gt;시험은 오프라인 방식이 권장됐다. 온라인으로 치를 경우 개인적 성찰이나 경험에 기반한 분석 등 AI가 모방하기 어려운 문항을 중심으로 구성하고, 필요하면 구술 인터뷰를 병행하도록 했다. 온라인 시험의 반영 비율 자체를 낮추고 수시 퀴즈·과제로 배점을 분산하라는 권고도 담겼다.&lt;br&gt;&lt;br&gt;AI 탐지 프로그램만으로 학생을 징계해서는 안 된다는 원칙도 담겼다. 탐지 도구의 정확도와 신뢰도에 한계가 있기 때문에 판정 결과는 참고자료로만 활용하라는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>자월도 인근 석유제품 운반선 화재… 승선원 2명 숨져</title>
       <link>https://www.chosun.com/national/incident/2026/08/28/PLKF4PHAYJBTLBEDKOIXBRVUM4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/28/PLKF4PHAYJBTLBEDKOIXBRVUM4/</guid>
@@ -878,24 +956,6 @@
       <description/>
       <pubDate>Thu, 27 Aug 2026 23:19:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYWIZRYGY2GIMRWGZTDSMBUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자월도 해상 화재 선박. /중부지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 자월도 부근 해상을 지나던 선박에 불이 나 승선원 2명이 숨졌다. &lt;br&gt;&lt;br&gt;28일 중부지방해양경찰청에 따르면, 전날 오후 10시 38분쯤 인천 옹진군 자월도 북쪽 약 7.4㎞ 해상에서 7000t급 석유 제품 운반선에 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 기관실에 있던 60대 남성 A씨와 20대 남성 B씨가 심정지 상태로 발견돼 영흥도 진두항으로 옮겨졌으나 끝내 숨졌다. 다른 승선원 16명은 해경에 구조됐다.&lt;br&gt;&lt;br&gt;선박 기관실에서 처음 발생한 것으로 추정되는 불은 선박 내 석유 저장 공간까지는 옮겨붙지 않은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;화재 선박은 한국 국적으로, 전체 승선원 18명 중 숨진 2명을 비롯한 11명은 한국인이고, 나머지 7명은 외국인으로 확인됐다. &lt;br&gt;&lt;br&gt;해경은 경비함정 24척, 항공기 1대, 관계 기관 선박 3척을 투입해 화재 발생 5시간 22분 만인 이날 오전 4시쯤 모든 불을 껐다. &lt;br&gt;&lt;br&gt;해경은 정확한 화재 원인과 피해 규모를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사건 정보 빼주고 뇌물… 수사권 움켜쥔 경찰, 직무범죄 입건 3.5배 늘었다</title>
-      <link>https://www.chosun.com/national/incident/2026/08/28/WZ5P5PQW3RDADLG2YWBETZWL2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/08/28/WZ5P5PQW3RDADLG2YWBETZWL2A/</guid>
-      <dc:creator>김영준 기자, 지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBIIUDCXVZEM5DEVL3QN7Y2BRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실종 사망 여성 빈소 찾은 제주경찰청장  27일 고평기 제주경찰청장이 제주시 이호동 중앙병원 장례식장에 마련된 제주 실종 허위 종결 사건의 피해자 장모씨 빈소를 찾았다. 고 청장은 이날 열린 제주청 지휘부 회의에서 실종 사건 전면 재조사 및 철저한 수사를 약속했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 숨진 채 발견된 30대 여성 장모씨와 60대 남성 실종 사건을 담당했던 제주서부경찰서 부모(34) 경장은 지난 25일 직무 유기 등 혐의로 구속됐다. 부 경장은 두 실종자와 통화를 하지 않고도 연락이 닿았다고 실종자 가족에게 거짓말을 하고 사건을 마음대로 종결 처리했다. 최근 전남광주에서 여고생을 살해한 장윤기의 아버지는 담당 경찰관에게 수사 정보를 빼내 증거를 없앴다는 의혹이 불거졌다. 장의 아버지는 전남광주 지역 현직 경찰관이었다. &lt;br&gt;&lt;br&gt;경찰은 2021년 검경 수사권 조정으로 1차 수사 종결권을 갖게 되는 등 권한이 막강해졌다. 그런데 그 뒤로 오히려 경찰관의 직무 관련 범죄는 해마다 늘고 있다. 대검찰청 범죄 분석 통계를 보면 직무 유기·직권 남용·뇌물 등 직무 관련 범죄로 입건된 경찰관은 2024년 1141명이다. 2021년(337명)과 비교하면 3년간 3.5배로 늘었다. 오는 10월 개정 형사소송법 시행으로 검사의 수사권이 완전 폐지되는 상황에서 국민은 더 강력한 권한을 갖게 될 경찰의 부패 가능성에 우려를 제기하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇권한 커지자 비위 늘었다&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근 경찰이 직무상 권한과 내부 정보를 돈벌이 등에 이용한 사건이 잇따르고 있다. 최근 경기 파주경찰서 산하 지구대 소속 경찰관 A씨는 일반인의 수배 여부 등 경찰 내부 정보를 돈을 받고 넘긴 혐의로 지난 6월 구속됐다. A씨는 사설 탐정의 의뢰를 받고 범행을 했다. 서울에서도 경찰관 B씨가 돈을 받고 이른바 ‘보복 대행’ 업자에게 피해자 집 주소를 유출한 사건이 있었다. 보복 대행 업자는 B씨가 알려준 주소로 찾아가 현관문에 인분을 뿌리는 등 의뢰인의 보복을 대행했다. &lt;br&gt;&lt;br&gt;자기가 수사하는 사건 관계인과 거래하는 경찰관도 적발됐다. 서울 강남경찰서 수사팀장이었던 송모 경감은 방송인 C씨의 남편에게서 명품 스카프 등 금품과 수백만원 상당 유흥업소 접대를 받았다. 송 경감은 C씨가 고소된 사기 사건을 수사하며, 전산에 피의자였던 C씨를 참고인으로 변경해 사건을 무혐의 종결 처리한 것으로 조사됐다. 이같은 혐의로 송 경감은 구속돼 재판을 받고 있다. 이와 관련해 검찰 관계자는 “매우 이례적인 일이다. 재판으로 표현하자면 피고인이 갑자기 증인이 된 것”이라고 말했다.&lt;br&gt;&lt;br&gt;경기 하남에서도 한 경찰관이 지역 사업가들에게서 3년간 총 9000만원 상당 뇌물을 받고 고소·고발 접수 여부를 알려주거나 담당 경찰관을 통해 출석 일정을 조율해 준 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5NSZGXEYBDHVNFGUJJONKJZW4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇범죄자 26% 줄 때 경찰관 범죄는 81% 늘어&lt;/b&gt;&lt;br&gt;&lt;br&gt;대검찰청 통계에 따르면 국내 전체 범죄 피의자는 2014년 185만1150명에서 2024년 136만4407명으로 10년 새 26.3% 줄었다. 반면 같은 기간 범죄 피의자로 입건된 경찰관 등 경찰청 소속 공무원은 1436명에서 2596명으로 80.8% 증가했다.&lt;br&gt;&lt;br&gt;특히 직무유기 혐의로 입건된 경찰관 숫자가 크게 늘었다. 직무유기 혐의를 받은 경찰청 소속 공무원은 2014년 113명에서 2024년 411명으로 3.6배로 늘어난 것이다. 직권남용 혐의로 입건된 경찰관도 같은 기간 263명에서 691명으로 증가했다. 살인·강간·방화 등 흉악 강력 범죄로 입건된 경찰관은 29명에서 91명으로 3배 넘게 늘었다. 지난해 7월에도 충북 충주경찰서 소속 경장 D씨가 미성년자의제강간 혐의로 구속되기도 했다. D씨는 충북 충주의 한 모텔에서 소셜미디어(SNS)로 만난 10대와 성관계를 한 혐의를 받고 있다. D 경장은 2개월 뒤 파면됐다.&lt;br&gt;&lt;br&gt;2024년 국가 기관 중 소속 공무원이 범죄 피의자로 입건된 경우는 경찰청이 2596명으로 가장 많았다. 경찰청 소속 공무원은 약 13만명으로, 국가 기관 중 둘째로 많다. 범죄 피의자 수도 많을 수밖에 없다. 하지만 경찰보다 소속 공무원이 많은 교육부(약 37만명)는 범죄 피의자 수가 2125명으로 경찰청보다 적었다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “경찰관의 사건 관계인으로부터 고소·고발을 당하는 경우가 많아 피의자 수가 많다”며 “직무관련 범죄의 경우 지난해 입건된 1141명 중 실제 기소된 경찰관은 26명 뿐”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“비위 경찰 걸러낼 시스템 필요”&lt;/b&gt;&lt;br&gt;&lt;br&gt;경찰청은 경찰관의 수사 청탁이나 정보 유출 등 수사 관련 비위를 막겠다며 2020년 ‘직원 간 사건 문의 금지 제도’를 도입했다. 하지만 2024년 마약 투약 혐의로 수사를 받던 배우 이선균씨 관련 수사 정보를 경찰관이 유출한 일이 발생했다. 이씨는 수사가 진행되던 중 스스로 목숨을 끊었다. 그러자 경찰은 수사 정보 유출자를 파면·해임하는 등 중징계하고 수사 부서에서 배제한다는 내용을 담은 ‘수사 정보 유출 방지 종합 대책’을 마련했다.&lt;br&gt;&lt;br&gt;하지만 그 뒤로도 경찰 수사 정보가 외부로 새어나가는 일은 반복됐다. 지난 5월 살인범 장윤기를 수사한 경찰관이 현직 경찰관인 장의 부친에게 아들의 집 주소와 비밀번호 등 수사 정보를 알려줘 사건 관련 증거를 인멸한 일이 벌어진 것이다. 그러자 경찰은 내부 지침으로 시행 중이던 ‘사건 문의 금지 제도’를 경찰청 공무원 행동 강령에 명문화했다.&lt;br&gt;&lt;br&gt;이처럼 경찰관 직무 관련 범죄가 반복되자 경찰이 내놓는 대책의 실효성에 의문이 제기된다. 애초 경찰관 채용 과정에서 도덕성과 범죄 기질을 평가할 수 있는 시스템이 필요하다는 의견도 있다. 현재 경찰은 채용 과정에서 인적성 검사를 하지만 일회성 시험이라 실질적으로 인성을 평가하는 데 한계가 있다는 것이다. 이윤호 고려사이버대 경찰학과 석좌교수는 “성적으로 경찰을 뽑아놓고 나중에 인성 교육을 하려니 범죄 기질과 일탈 가능성이 있는 경찰관을 걸러내기 쉽지 않다”며 “경찰 채용 단계부터 부적격자를 걸러낼 수 있는 시스템이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>580시간 봉사한 공학도, 서울대 졸업 연사로</title>
-      <link>https://www.chosun.com/national/people/2026/08/28/5AP3TTIH2BF47GOZQROJMIWVHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/28/5AP3TTIH2BF47GOZQROJMIWVHY/</guid>
-      <dc:creator>윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KT3YWL5OTJGAFMIADTN6YOHYJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 8월 25일 서울 관악구 서울대학교 정문에서 제80회 서울대 후기 학위수여식 졸업생 대표로 연설하는 화학생물공학과 강건우 학생이 포즈를 취하고 있다. /임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대는 28일 열리는 제80회 후기 학위수여식에서 연단 위에 올라갈 졸업생 대표로 화학생물공학부 강건우(26)씨를 선정했다. &lt;br&gt;&lt;br&gt;강씨는 2020년 대학에 입학한 뒤 현재까지 580시간 봉사 활동을 했다. 방학마다 전북 군산과 경북 울진 등 교육 소외 지역을 찾아 아이들에게 공부를 가르쳤다. 군산에서는 다문화 가정 청소년들을 대상으로 진로 멘토링을 진행하고, 태풍이 잦은 울진에서는 아이들과 직접 화재 경보기를 만들어보는 등 재난 대응 교육을 했다.&lt;br&gt;&lt;br&gt;강씨는 우간다와 페루에서도 교육 봉사 활동을 했다. 우간다 굴루 지역의 초등학교에서는 벽화 그리기 등 미술 수업을 하고, 페루에서는 중학생을 대상으로 보건 교육을 진행했다. 서울대는 “전공 지식과 기술을 바탕으로 사회에 기여한 점을 높이 평가했다”고 밝혔다.&lt;br&gt;&lt;br&gt;강씨는 25일 본지와 만나 “학교에 다니면서 배운 것들을 아이들에게도 나누고 싶었다”며 “봉사 현장에서 다양한 사람을 만나면서 인류의 삶을 더 낫게 만드는 기술을 연구하고 싶어졌다”고 했다. &lt;br&gt;&lt;br&gt;강씨는 봉사 활동 뿐만 아니라 대학에서 배운 지식을 사회 문제를 해결하는 데 활용하기도 했다. 시각장애인이 상점에서 제품 정보를 쉽게 확인할 수 있도록 돕는 기기를 개발한 것이 대표적이다. 그는 이때의 경험을 바탕으로 서울 관악구 실로암시각장애인복지관의 시각장애인들의 미술 전시 관람을 돕는 기기도 개발했다. &lt;br&gt;&lt;br&gt;졸업 후에는 대학원에 진학해 유전자 연구를 이어갈 예정이다. 강씨는 “기초과학을 연구하며 희귀 질환 진단과 맞춤형 치료제 개발 토대를 닦는 연구자가 될 것”이라며 “봉사 활동이 진로 선택에 영향을 줬다”라고 했다. &lt;br&gt;&lt;br&gt;졸업식에서 연단에 오르는 강씨는 “학우들에게 마음에 걸리는 문제가 있다면 외면하지 말고 행동하자는 메시지를 전할 것”이라며 “학우들이 각자의 삶에서 사회적 기여와 배움의 책임을 다하기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘제주 실종’ 부실 수사가 키운 불신… “경찰이 말한 사망원인 못 믿어”</title>
@@ -907,42 +967,6 @@
       <content:encoded>지난 24일 제주 한림읍의 한 야자수 농장에서 실종자 장모(37)씨가 숨진 채 발견됐다. 경찰은 “장씨가 야자수 가지에 끈을 묶어 목을 맨 상태로 발견됐다”며 “범죄 피해 가능성은 낮게 보고 있다”고 밝혔다. 그러나 장씨의 사망 경위를 둘러싼 의문은 가라앉지 않고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCALLRFJ5BCZ5A3JN5WWS3LM4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 제주도 한림읍의 한 야자수 농장. 실종자 장모씨가 지난 24일 숨진 채 발견된 곳이다. 야자수가 빽빽하게 자라고 있다. 드론으로 찍은 사진이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;①잘 휘는 야자수 가지에?&lt;/b&gt;&lt;br&gt;&lt;br&gt;잘 휘는 야자수 가지에 목을 매는 것이 현실적으로 가능하냐는 의문이 나온다. 장씨의 키는 158㎝, 몸무게는 44㎏이다. 경찰이 장씨의 시신을 발견할 당시 장씨는 바닥에 앉은 듯한 모습이었는데 이를 두고 온라인 등에선 “앉아서 목 매달아 죽는 사람이 어디 있느냐”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;이에 대해 경찰은 “시신이 발견된 야자수 농장에서 야자수 가지에 끈을 묶어 당겨보니 가지가 부러지지 않았다”며 “체구가 작은 장씨를 지탱할 정도는 되는 것으로 보인다”고 했다. 또 “변사 현장에 가보면 앉거나 신체 일부가 땅에 닿은 상태로 숨진 사례도 자주 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;②장씨가 무서워하던 곳&lt;/b&gt;&lt;br&gt;&lt;br&gt;장씨 유족은 27일 “야자수 농장은 평소 장씨가 무서워하던 곳이었다”며 “그런 곳에서 스스로 목숨을 끊었다는 게 이해가 안 된다”고 했다. 이 농장엔 뾰족한 야자수가 빼곡하게 자라 밖에선 내부가 보이지 않을 정도다. 농장 주변엔 가로등이나 방범카메라도 없다. 현장에서 유서는 발견되지 않았다. 경찰은 “장씨가 평소 강아지를 데리고 이 주변 길을 자주 산책했다는 남자친구 진술이 있다”고 했다. 다만 “장씨 휴대전화에 대한 포렌식(디지털 분석) 결과가 나와야 정확한 상황을 파악할 수 있을 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;③‘목맴사’ 판단 성급했나?&lt;/b&gt;&lt;br&gt;&lt;br&gt;유재성 경찰청장 직무대행은 장씨 시신이 발견된 당일 오후 국회 행정안전위원회에 출석해 “장씨는 목을 매 숨진 것으로 추정한다”고 했다. 이를 두고 “시신이 심하게 훼손돼 백골이 드러난 상태였는데 경찰 수뇌부가 성급하게 ‘목맴사’ 가능성을 언급한 것 아니냐”는 지적이 나왔다. 당시 장씨의 실종 사건을 담당한 제주서부경찰서 부모(34) 경장이 사건을 ‘허위 종결’한 사실까지 드러난 상태였다.&lt;br&gt;&lt;br&gt;경찰은 당시 발언에 대해 “시신의 자세와 위치, 부검의 구두 소견 등을 종합한 판단이었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZQF56ADEJFZFLCCT5CKNTNR3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;④타살 가능성 정말 낮나?&lt;/b&gt;&lt;br&gt;&lt;br&gt;일각에선 “시신이 심하게 부패하고 방범카메라 영상도 사라진 상황에서 타살 가능성을 배제할 수 있느냐”는 의문도 제기된다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “변사 사건을 처리할 때 타살 가능성을 하나씩 배제하는 방식으로 사망 경위를 추정한다”며 “그 결과 범죄 혐의점은 발견되지 않았다”고 했다. 장씨는 숙소를 나설 때 옷차림 그대로였고 휴대전화, 금팔찌, 반지도 남아 있었다. 경찰은 “시신이 발견된 야자수 사이에 낙엽이 흐트러지거나 바스러진 흔적이 없었다”며 “시신에서 외부 충격에 따른 특이 골절도 발견되지 않았다”고 했다. &lt;br&gt;&lt;br&gt;경찰이 주목하는 것은 야자수에서 발견된 등산화 끈이다. 경찰은 “장씨는 야자수 상단부 가지에 등산화 끈을 묶어 목을 맨 상태로 발견됐다”며 “그 끈은 장씨가 숙소에서 가지고 나간 것으로 추정된다”고 했다. 경찰 관계자는 “장씨가 머물던 숙소에서 한쪽 끈이 없는 등산화가 발견됐다”며 “장씨가 숙소에서 나가기 전 이 끈을 챙겨간 것으로 보인다”고 했다. 다만 극단적 선택을 뒷받침할 정황을 찾은 것은 아니라고 경찰은 밝혔다. 장씨가 우울증 등으로 진료를 받은 내역도 없다고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;⑤목뿔뼈 골절은 타살 정황?&lt;/b&gt;&lt;br&gt;&lt;br&gt;국립과학수사연구원은 27일 “시신에서 외부 충격에 따른 특이 골절은 발견되지 않았지만 목뿔뼈 부분에서 골절이 발견됐다”고 했다. 목뿔뼈는 목 부분에 있는 얇은 뼈로 설골(舌骨)이라고도 한다. 한 법의학 전문가는 “목뿔뼈 골절은 타인에 의해서도 생길 수 있다”고 지적했다. 국과수는 “시신이 부패하는 과정에서 골절됐을 가능성을 배제할 수 없다”며 “시신이 심하게 부패해 외상·질식 등을 판단하기 어렵지만 목맴사 가능성을 고려할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;이처럼 의문이 끊이지 않는 배경에는 장씨 실종 사건을 부실하게 처리한 경찰에 대한 불신도 있다는 분석이 나온다. 구정우 성균관대 사회학과 교수는 “경찰과 국가에 대한 불신이 타살 의혹을 불러온 측면이 크다”며 “경찰이 수사 과정을 투명하게 공개해야 한다”고 했다.&lt;br&gt;&lt;br&gt;부 경장은 지난 5월 15일 장씨의 남자친구가 실종 신고를 했지만 약 2시간 30분 만에 “장씨와 연락이 닿았다”고 거짓말을 하고 사건을 종결했다. 경찰 조사 결과 부 경장과 장씨가 통화한 기록은 확인되지 않았다. 부 경장이 경찰 내부 시스템에 장씨가 교통사고로 사망했다고 입력하고 장씨 기록을 삭제한 사실도 드러났다.&lt;br&gt;&lt;br&gt;경찰은 “모든 가능성을 열어 두고 정확한 사망 경위를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[우리 아기가 태어났어요] 이지은·조성주 딸 은채 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/08/28/7RWVLIJUIRD75MF2ROX3X3ES3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/08/28/7RWVLIJUIRD75MF2ROX3X3ES3Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOPZZFD7BJHURDVTOE3Q4UXKB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정세균 안중근의사숭모회 이사장</title>
-      <link>https://www.chosun.com/national/people/2026/08/28/R6R34M7IINH2DPUFBY7L65AUC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/28/R6R34M7IINH2DPUFBY7L65AUC4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O56JICEL5JBJHHETYIVMSBVA5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안중근의사숭모회는 제11대 이사장에 정세균 전 국회의장을 선임한다고 27일 밝혔다. 취임식은 다음 달 2일 서울 중구 안중근의사기념관에서 열리며, 같은 날 안중근 의사 탄신 147주년 기념 행사도 진행된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 흥사단 민족통일운동본부 2026 동북아 평화통일 탐방대 행사 진행</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/08/28/KR2HHBI73ZF4ZJKLS23TR3DJAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/08/28/KR2HHBI73ZF4ZJKLS23TR3DJAE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded> 흥사단 민족통일운동본부(상임대표 양영두)는 광복 81주년을 기념해 28일부터 5박 6일간 중국 현지를 방문하는 2026 동북아 평화통일 탐방대 행사를 진행한다. 안중근 의사가 수감됐던 뤼순 감옥, 룽징 윤동주 시인 생가 등을 방문하는 이 행사에는 DMZ평화네트워크 류종열 이사장 등 64명이 참여한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>자유칼럼그룹 창립 20주년 기념식</title>
-      <link>https://www.chosun.com/national/people/2026/08/28/TBDVZINHHJDMNENLPWQNR4V5BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/08/28/TBDVZINHHJDMNENLPWQNR4V5BA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU6XTX5P55GWJMGDIFTDJEPAZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자유칼럼그룹(공동대표 김영환·김홍묵·방석순·임철순)은 9월 4일 오후 6시 서울 프레스센터에서 창립 20주년 기념식 및 ‘자유칼럼, 세상을 말한다’ 출판 기념회를 개최한다.&lt;br&gt;&lt;br&gt;‘시대를 이끄는 공정한 발언’을 지향해 온 자유칼럼그룹은 지난 20년 동안 정치·경제·사회·문화 등 다양한 분야에서 칼럼 6000여 편을 발표해 왔다. 송호근 한림대 석좌교수가 창립 20주년을 기념하는 특별 강연을 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>외국인 관광객 1000만 시대, 성분 표시 사각지대 놓인 K푸드</title>
       <link>https://www.chosun.com/national/national_general/2026/08/27/F2PNIVBHVFBMBDD2BV4NVKLEYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/27/F2PNIVBHVFBMBDD2BV4NVKLEYQ/</guid>
@@ -950,28 +974,6 @@
       <description/>
       <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLZFR3WNQJDVRHAGCCCVDC2XOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 마포구에 위치한 한 패스트푸드점에 원산지 및 알레르기 유발물질 안내문이 붙어있다./강혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;K-컬처 열풍에 힘입어 우리나라를 찾는 외국인 관광객이 늘고 있지만, 국내 외식업계의 식재료 및 성분 표시는 제한적이다. 채식, 종교, 알레르기 등 다양한 식성을 가진 외국인들이 현지 식당 앞에서 발길을 돌리는 일이 반복되고 있다.&lt;br&gt;&lt;br&gt;지난 23일 오후 서울 마포구 홍대입구역 인근의 한식당에서 만난 미국인 퍼트리샤(34)씨는 가게 앞 메뉴판을 들여다보다 발길을 돌렸다. 그는 “현지 느낌이 나는 작은 한식당을 경험하고 싶어 찾아왔지만, 음식 성분이 적혀 있지 않아 포기했다”고 말했다. 퍼트리샤씨는 고기·달걀·유제품 등 동물성 식품을 먹지 않는 채식주의자다.&lt;br&gt;&lt;br&gt;같은 날 스페인에서 온 아리아드나(19)씨는 “글루텐 알레르기가 있는데 한국 식당은 성분 표시가 명확하지 않거나 ‘밀’이라고만 적혀 있어 위험을 감수하고 먹는다”고 말했다. 스페인에서는 음식에 글루텐이 없으면 메뉴판에 동그란 모양의 ‘글루텐 프리 표식’이 붙어 있어 식별하기 쉽다고 한다.&lt;br&gt;&lt;br&gt;외국인 관광객이 우리나라 식당에서 발길을 돌리는 이유는 현행법상 성분 표시 의무가 제한적이기 때문이라는 지적이 나온다. 현행 ‘어린이 식생활안전관리 특별법’에 따르면, 알레르기 유발 원료 및 영양 성분 표시 의무는 햄버거·피자·제과제빵 등 어린이 기호식품을 판매하며 점포 50곳 이상을 보유한 프랜차이즈에만 적용된다. 치킨이나 국밥 등을 파는 일반 한식당은 매장 규모와 상관없이 규제 대상에서 제외된다.&lt;br&gt;&lt;br&gt;우리나라를 찾는 외국인은 꾸준히 늘어나고 있다. 서울관광재단에 따르면 2026년 상반기(1~6월) 우리나라를 찾은 외국인 관광객은 1070만 9919명으로 지난해 같은 기간보다 21.3% 늘었다. 이 중 76.8%인 822만 5218명이 서울을 찾았다. &lt;br&gt;&lt;br&gt;본지가 서울시 데이터를 분석한 결과, 홍대 주요 관광 거리(어울마당로·홍익로 등) 음식점 3239곳 중 알레르기 유발 원료 및 영양 성분 표시 의무 대상은 대형 프랜차이즈 18곳(0.6%)뿐이었다. 지난 24일 마포구의 한 샐러드 전문점도 탄수화물·단백질 등 영양성분은 안내하고 있었지만, 알레르기 성분 표시는 없었다. 직원에게 따로 묻자 “알레르기 성분 표시는 따로 없다”는 답이 돌아왔다.&lt;br&gt;&lt;br&gt;하지만 소상공인들이 모든 재료를 일일이 표기하기도 쉽지만은 않다. 식품의약품안전처 관계자는 “조리 음식의 다양성, 업체의 영세성 등으로 인한 현실적 어려움이 있다”며 “자율 표시를 지도하고 한국프랜차이즈산업협회 등을 통해 안내문을 배포 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;전문가들은 일률적인 규제보다는 현실적인 지원책을 고민해야 한다고 말한다. 윤지현 서울대 식품영양학과 교수는 “지자체가 희망 업체를 대상으로 성분 표기 컨설팅을 제공하고, 이를 이행한 업소에 인증 마크를 부여하는 등 인센티브 중심의 정책이 필요하다”고 제언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “공원을 주거용으로? 세계 어느 시장도 동의 안 할 것”</title>
-      <link>https://www.chosun.com/national/national_general/2026/08/27/V7GSAZQ6LZH3XIJTQZ2WYMQTOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/27/V7GSAZQ6LZH3XIJTQZ2WYMQTOI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 11:20:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2GEYZVGYZTQYZSGM3WCNZVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 21일 오후 서울 중구 서울시의회에서 열린 제338회 서울시의회 임시회 본회의에서 서울시 신임 간부 소개를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 27일 용산공원 주택 공급에 대해 “전 세계 어느 대도시 시장이라도, 공원 용지로 예정돼 있던 곳을 주거용 가격 급등 국면에서 탈출하기 위해 주거용 부지로 전환한다고 하면 동의할 수 없을 것”이라며 기존 반대 입장을 거듭 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 이날 서울시의회 제339회 임시회에서 국민의힘 차인영 시의원 질문에 이렇게 답했다. 오 시장은 “용산공원 특별법을 제정하고 용산공원 본체는 어떤 경우에도 손대지 않는다는 걸 보장해주지 않으면 서울시장은 그 마스터플랜에 동의할 수 없다는 것을 분명히 했다”고 말했다. 그는 “이것을 마치 ‘정치적인 이해관계 때문에 대립각을 세운다’는 식으로 깎아내리는 것은 참으로 졸렬한 견해”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 또 용산공원에 주택을 짓더라도 미군 반환과 토양 정화, 인허가 절차 등을 감안하면 현 정부 임기 내 착공도 어렵다고 주장했다. 그러면서 “그렇기 때문에 10년 뒤 주거지 공급에 대한 것을 전제로 탄천물재생센터 대안을 제시할 수 있었던 것”이라고 했다.&lt;br&gt;&lt;br&gt;용산국제업무지구 주택 공급 규모와 관련해 오 시장은 “일찌감치 6000호로 합의했던 것을 양보해서 8000호까지 가능한 것”이라고 했다. 이어 “단 학교 부지가 마련된다는 게 전제가 돼야 한다”며 “그런데 불행하게도 학교 용지가 확보되지 않고 있다”고 했다. 오 시장은 “1만호를 주장하는 것도 중요하지만 빨리 하는 것도 중요하다는 걸 국토교통부도 알고 있다”며 “합의안이 도출될 가능성을 지금 보고 있고, 지켜봐 달라”고 했다. &lt;br&gt;&lt;br&gt;오 시장은 정부·여당이 추진 중인 500세대 이하 재개발·재건축 사업의 인허가권을 자치구에 넘기는 방안에 대해서도 “극히 현실을 도외시한 주장”이라고 지적했다. 국민의힘 최종부 시의원이 “서울시가 담당하는 심의에 어느 정도 시간이 드느냐”고 묻자, 오 시장은 “지난 4~5년간 심의 절차를 통합해 단축했고, 한 달 내지 석 달이면 도시계획심의나 통합심의가 다 끝난다”며 “병목이 있다는 주장은 현실과 괴리된 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 그러면서 “민주당 소속 구청장님들이 많이 당선되셨는데, 권한을 가져가면 효율적으로 진행된다고 착각하고 계신 것 같다”며 “구청에 전담 인력이 별로 없고 자치구별 통일된 기준이 없는데 거기서 생기는 혼선과 갈등은 미처 생각도 못한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 밖에 오 시장은 TBS의 출연기관 재지정을 촉구하는 더불어민주당 박유진 시의원에게 “동의한다”면서도 “구성원들의 공정한 방송에 대한 의지 표명이 선행돼야 하고, 공정성에 대한 의구심을 시민들께서 갖고 계시는데 어떻게 생각하는지 공론화가 필요할 것”이라고 했다. GTX-A 삼성역 구간 철근 누락과 관련한 공세에는 “정치 쟁점화해 선거에 활용한 것도 문제지만 공사를 6개월을 멈춰 세워 경기 북부부터 남부까지, 또 서울시민들까지 이용을 못 하게 늦춘 것은 불필요한 일”이라고 반박했다.&lt;br&gt;&lt;br&gt;오 시장은 한강버스가 대중교통인지, 관광용 유람선인지를 묻는 민주당 목소영 시의원에게는 “두 가지가 섞여 있다”며 “주중에는 대중교통 요소가 강하다면 주말에는 관광용 (성격)이 더 강할 것”이라고 답했다. “대중교통으로서 중요한 것이 출퇴근 아니겠나. 출근 시간에 한강버스를 운영하느냐”는 지적에 오 시장은 “왜 대중교통이라고 해서 출퇴근용이라고 정의하느냐”고 맞받아쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6YH7WLDE3ZD7NFZB7RRXQLZ3RY.JPG?auth=fc6c1209e71957271a3b01df0e55103a985831875836ef22a9dc8989a763bac8&amp;smart=true&amp;width=856&amp;height=482" type="image/jpeg" height="482" width="856">
-        <media:description type="plain">오세훈 서울시장이 21일 오후 서울 중구 서울시의회에서 열린 제338회 서울시의회 임시회 본회의에서 서울시 신임 간부 소개를 하고 있다. 2026.7.21 ⓒ 뉴스1 오대일 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">OHDAEIL</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘임직원 개인정보 유출’ CJ그룹 前 직원 송치 </title>
-      <link>https://www.chosun.com/national/national_general/2026/08/27/L5TNX6Q325DWBP557VAY6PWUD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/08/27/L5TNX6Q325DWBP557VAY6PWUD4/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Aug 2026 09:41:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TEZJQMU3TGMDCGVSGMZLBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;CJ그룹 본사. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;CJ그룹 전·현직 임직원의 개인 정보를 유출한 혐의를 받는 전 직원이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;27일 서울경찰청 사이버수사대는 개인정보보호법 위반 혐의로 남성 A씨를 25일 서울동부지검에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 재직 당시인 2023년 5월부터 본인이 직접 개설한 텔레그램 채널에 CJ그룹 전·현직 여성 임직원의 이름과 직급, 부서, 휴대전화 번호, 사진 등을 유출한 혐의를 받는다. &lt;br&gt;&lt;br&gt;개인 정보가 유출된 피해자는 330명으로, 대부분 20·30대 여성인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;CJ그룹은 지난 5월 19일 로그 기록 등을 토대로 전직 직원인 A씨를 피의자로 특정해 경찰에 고발했다. &lt;br&gt;&lt;br&gt;경찰은 국제 공조를 통해 해당 텔레그램 채널을 폐쇄 조치한 뒤, A씨의 주거지를 압수 수색하는 등 3개월 수사 끝에 사건을 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;현재까지 해당 텔레그램 채널에 올라왔던 사진을 악용한 추가 유출 등 2차 피해는 없는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>청와대와 대법원장… 누가 헌법을 위반하고 있나</title>
