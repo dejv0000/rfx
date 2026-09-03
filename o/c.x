@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조희대 대법원장 업무복귀...“대법관 재제청 보고받고 말씀 드릴 것”</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/03/O2XZNW7REJBN7LCBWP3UCCMXD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/03/O2XZNW7REJBN7LCBWP3UCCMXD4/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Sep 2026 00:52:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXGW47BPOVIATIB5IKJWUIWZC4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 3일 서울 서초구 대법원 청사로 출근하며 취재진 질문에 답하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부친상을 치른 뒤 업무에 복귀한 조희대 대법원장이 3일 대법관 후보 재(再)제청 요구와 관련해 “(논의) 경과를 들어보고 공식적으로 이야기하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 오전 9시 10분쯤 서울 서초구 대법원 청사로 출근하면서 취재진과 만나 이같이 말했다. 조 대법원장은 지난달 30일 부친상을 당해 전날(2일)까지 출근하지 않았다.&lt;br&gt;&lt;br&gt;조 대법원장은 “부친상에 위로를 보내주신 모든 분들께 깊이 감사드린다”며 “가족들이 조촐하게 (장례를) 치르려고 했는데, 갑자기 요란스럽게 돼서 국민들께 송구하다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그동안 업무 논의를 한 게 없어서 이야기한 후 말씀드리겠다”고 했다. “후보추천위원회를 다시 꾸릴 계획이냐”는 질문에는 “경과를 들어보고 공식적으로 이야기하겠다”고 답했다.&lt;br&gt;&lt;br&gt;조 대법원장은 지난달 18일 노태악 전 대법관(64·16기) 후임과 이흥구 대법관(63·22기) 후임으로 각각 손봉기 대구지법 부장판사(61·22기)와 김성수 서울고법 부장판사(58·24기)를 임명해 달라고 제청했다. 그러나 청와대는 지난달 28일 손봉기 후보자에 대해 국회에 임명동의안을 제출하지 않겠다며, 조 대법원장에게 대법관 후보자를 재제청할 것을 요청했다.&lt;br&gt;&lt;br&gt;청와대의 대법관 후보 재제청 요구에 대해 조 대법원장은 “국민 여러분께 심려를 끼쳐 송구하다”며 이번 주 중으로 공식적인 입장을 밝히겠다고 예고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 김승원 “공소 취소, 법무장관에 권한 없고 지휘 생각도 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/03/BSWH3SZJRVCDDPQD6OUTIHDVMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/03/BSWH3SZJRVCDDPQD6OUTIHDVMU/</guid>
+      <dc:creator>박혜연 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Sep 2026 00:34:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 베란다 난간 교체하다... 18m 아래 추락해 2명 숨졌다</title>
+      <link>https://www.chosun.com/national/incident/2026/09/03/VA5SPRGTABAKDL4W244WWNIO7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/03/VA5SPRGTABAKDL4W244WWNIO7Q/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Sep 2026 23:33:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJASUCOZTJBYPBBF5NHQ7QD2FY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 오어진·chat GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 아파트에서 베란다 난간 교체 공사를 하던 작업자 2명이 떨어져 숨졌다.&lt;br&gt;&lt;br&gt;3일 인천소방본부에 따르면 전날 오전 11시 25분쯤 인천시 계양구의 한 아파트 6층에서 60대 남성 A씨와 70대 남성 B씨 등 2명이 18m 아래 지상으로 떨어졌다. &lt;br&gt;&lt;br&gt;이들은 심정지 상태로 소방 당국에 의해 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;A씨 등은 사고 당일 기존에 있던 철제 베란다 난간을 철거한 뒤, 새로 설치할 가로 315㎝, 세로 90㎝ 크기의 난간을 밧줄로 끌어 올리던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이들이 비용 절감을 위해 고소 작업차를 사용하지 않은 것으로 추정하고 있다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사고 원인과 안전 수칙 준수 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘5년 면허정지’ 타이거 우즈, 골프 카트는 몰 수 있나… 주지사까지 참전</title>
       <link>https://www.chosun.com/international/us/2026/09/03/ALIDUFMIYJCPHGBAQIOAUSGJPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/us/2026/09/03/ALIDUFMIYJCPHGBAQIOAUSGJPY/</guid>
@@ -759,15 +786,6 @@
       </media:content>
     </item>
     <item>
-      <title>운동하는 서울광장… 퇴근길 피로 날려보세요</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/02/Z462OPN6BZCTLBNRVYAKEK43WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/02/Z462OPN6BZCTLBNRVYAKEK43WY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Sep 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLF6QGKZOFFQDOHTW6Q53HBXYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오후 서울광장에서 열린 ‘운동하는 서울광장’ 프로그램에 참가한 시민들이 발레와 필라테스를 결합한 운동인 ‘바레’를 하고 있다. 운동하는 서울광장 프로그램은 10월 29일까지 매주 목요일 오후 7시 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>일할 분 찾아요… 서울대서 기업 100여 곳 채용 박람회</title>
       <link>https://www.chosun.com/national/national_general/2026/09/02/KNXM7QOEPRCNVGJRNL2HREENIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/02/KNXM7QOEPRCNVGJRNL2HREENIM/</guid>
@@ -775,24 +793,6 @@
       <description/>
       <pubDate>Tue, 01 Sep 2026 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHIQYRBW5RDAZGW3MVXSA7VWUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 서울대 종합체육관에서 열린 하반기 채용 박람회 행사장을 찾은 학생들이 기업 인사 담당자들과 상담을 하고 있다. 이날 채용 박람회에는 대기업, 외국계 기업, 중견기업, 공공기관 등 100여 기업이 참여했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인 몰리자 관광통역사 문턱 낮춘다는데…</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/02/PVUFMEZW2ZDPFPAXDLEW42YGNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/02/PVUFMEZW2ZDPFPAXDLEW42YGNA/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Sep 2026 15:41:00 +0000</pubDate>
-      <content:encoded>“500년 역사를 200시간 만에 익힐 수 있을까요?”&lt;br&gt;&lt;br&gt;문화체육관광부가 내년 4월 1일부터 2년간 관광통역안내사(관광통역사) 자격시험을 한시적으로 면제하기로 했다. 외국인 관광객은 급증하는데 이들을 안내할 관광통역사가 부족하다는 이유다. 이들은 외국인 관광객에게 한국의 역사·문화 등을 외국어로 설명하는 사람이다. 그런데 자격시험을 면제할 경우 전문성을 제대로 검증받지 않은 관광통역사가 늘어나 외국인 관광객에게 잘못된 역사·문화 정보를 전달할 수 있다는 우려가 나오고 있다.&lt;br&gt;&lt;br&gt;문체부 통계를 보면 지난해 한국을 찾은 외국인 관광객은 1894만명이다. 코로나 팬데믹이 해제된 2023년(1103만명)보다 791만명(71.7%) 늘었다. 같은 기간 관광통역사 자격 보유자는 4만명에서 4만2000명으로 2000여 명 늘어나는 데 그쳤다. 외국인 관광객 증가세를 관광통역사가 따라가지 못하고 있는 것이다.&lt;br&gt;&lt;br&gt;관광통역사가 되려면 국사와 관광 법규 등과 관련한 필기시험과 외국어 시험, 면접 등을 거쳐 국가전문자격증을 따야 했다. 이들은 주로 여행사 등에 취업해 외국인 관광객을 안내한다. 하지만 관광통역사들은 “일부 여행사가 인건비를 아끼려고 자격증이 없는 가이드를 싼값에 쓰면서 일자리를 구하기 쉽지 않다”고 말한다. 실제 관광통역사 자격 보유자 가운데 현장에서 활동하는 사람은 5명 중 1명꼴밖에 안 된다고 한다. &lt;br&gt;&lt;br&gt;그러자 정부는 내년 4월부터 2년간 자격시험을 면제하기로 했다. 프랑스어·독일어·스페인어·러시아어·이탈리아어·아랍어 등 6개 언어에 대해서는 200시간의 의무 교육만 이수하면, 한시적으로 관광통역사 자격을 주겠다는 것이다.&lt;br&gt;&lt;br&gt;현직 관광통역사들은 자격 요건을 완화할 경우 외국인 관광객에게 왜곡된 정보를 전달하는 관광통역사가 늘어날 수 있다고 우려한다. 6년째 관광통역사로 활동 중인 A(52)씨는 “이미 자격증이 없는 일부 가이드들이 ‘경복궁은 자금성의 복제품’이라는 식으로 잘못된 역사 정보를 외국인 관광객에게 전달하는 경우가 적잖다”며 “전문성을 충분히 검증하지 않으면 이런 일이 더 빈번해질 것”이라고 했다.&lt;br&gt;&lt;br&gt;자격증을 갖고도 활동하지 않는 기존 관광통역사들을 현장으로 끌어내는 게 우선이라는 지적도 나온다. 심창섭 가천대 관광경영학과 교수는 “관광통역사는 한국 역사와 문화를 외국인에게 전달하는 만큼 일정 수준의 전문성이 필요하다”며 “자격증을 가진 관광통역사들이 현장에서 활동할 수 있는 유인책을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“중수청 가겠다”던 검사·수사관 중 615명 지원 철회</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/02/KGDIZ7V3KJCHJAAARBRM4PLWPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/02/KGDIZ7V3KJCHJAAARBRM4PLWPE/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Sep 2026 15:41:00 +0000</pubDate>
-      <content:encoded>행정안전부는 1일 중대범죄수사청(중수청) 수사관직에 지원했던 검찰청 검사와 수사관 2376명 중 615명이 지원을 철회했다고 밝혔다. 이에 따라 검찰에서 중수청을 지원한 사람은 1761명으로, 전체 정원(2874명)의 61.3% 규모이다. 아직까지 정원의 약 40%, 1100여 명을 더 모집해야 하는 상황이다.&lt;br&gt;&lt;br&gt;행안부 중수청 개청준비단은 지난달 7일부터 20일까지 검사와 검찰 수사관을 대상으로 특례 임용 접수를 받아 2375명이 지원했다고 밝혔다. 이후 1명이 추가돼 정원의 82.7%를 채웠다. 그러나 지난달 31일까지 지원 철회 기간을 줬더니 4명 중 1명(25.9%)이 “검찰청(공소청)에 남겠다”고 한 것이다. 이들 대부분은 수사관인 것으로 알려졌다. 검사의 경우, 지원자 100여 명 중 10명 정도가 철회한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 안팎에선 10월부터 검찰청의 기소 및 공소유지 기능을 대신할 공소청 정원이 현재보다 크게 줄지 않을 것이라는 전망이 나오면서 중수청 지원을 철회한 사람이 많았을 것이라는 해석이 나온다. 또 당초 중수청 지원자가 정원의 80%를 넘자 “중수청에 갔다가 원하는 자리를 가지 못하면 안 옮기느니만 못하다”는 생각에 이직을 접은 지원자도 늘었다고 한다. 서울 지역 한 수사관은 “중수청 개청이 한 달도 안 남았는데, 아직까지 제대로 준비되지 않은 것을 보고 지원을 철회한 직원들도 많았다”고 했다.&lt;br&gt;&lt;br&gt;일각에서는 장윤기 사건, 제주 실종 허위 종결 사건 등 최근 불거진 경찰의 부실 수사 사건이 영향을 미쳤다는 분석도 있다. 중수청 지원을 포기한 한 검찰 수사관은 “검사가 법리 적용이나 수사 내용을 한 번 검토하던 것과 달리, 중수청에선 수사관들이 직접 결과에 책임져야 하니까 부담이 확 커졌다”고 했다. &lt;br&gt;&lt;br&gt;중수청 개청준비단은 지원자의 경력과 전문성 등을 고려해 이달 중으로 임용대상자를 확정한다. 이어 경찰과 변호사·회계사·변리사 등을 대상으로 한 경력 채용도 실시할 예정이다. 검찰청(공소청) 공무원을 대상으로 한 추가 특례 임용 절차도 내년 4월 30일까지 진행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 강순덕 별세 외</title>
