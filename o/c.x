@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김승원 법무장관 후보자, 음주운전 전과 “깊이 사과”</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/04/IEE7AYYVWVF2DD5IVIJ4OZ2HFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/04/IEE7AYYVWVF2DD5IVIJ4OZ2HFY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Sep 2026 23:45:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DEY3CGRTDIMBXMVTDOZBWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자가 지난 3일 서울 종로구 적선현대빌딩에 마련된 인사청문회 준비사무실로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 법무부 장관 후보자가 과거 음주운전으로 벌금형을 선고받은 것으로 4일 확인됐다. 김 후보자는 음주운전 전력이 알려지자 “국민 여러분께 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 김 후보자는 변호사였던 2008년 7월 도로교통법 위반(음주운전) 혐의로 수원지법에서 벌금 70만원 처분을 받았다. 김 후보자는 2002년 전주지법에서 판사 생활을 시작해 2006년 2월부터 2008년 2월까지 수원지법 판사로 근무한 후 변호사로 개업했다. &lt;br&gt;&lt;br&gt;김 후보자는 음주운전 전과 사실이 알려지자 이날 인사청문 준비단을 통해 입장문을 내고 “음주운전은 어떠한 이유로도 용납될 수 없는 잘못”이라며 “당시 변호사로서 더욱 엄격하게 처신했어야 했다. 깊이 반성하며 국민 여러분께 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 이용, 정치판서 다시 얼음판으로</title>
       <link>https://www.chosun.com/national/people/2026/09/04/A6OTJCCHXRBHBAX6ODRP3IZ5SI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/04/A6OTJCCHXRBHBAX6ODRP3IZ5SI/</guid>
@@ -808,15 +817,6 @@
       <description/>
       <pubDate>Wed, 02 Sep 2026 15:46:00 +0000</pubDate>
       <content:encoded>서울경찰청이 2일 ‘세관 마약 수사 외압 의혹’을 제기해 온 백해룡(경정) 서울 강서경찰서 화곡지구대장을 대기 발령 조치했다. 검경 합동수사단이 백 경정이 제기한 의혹을 ‘사실무근’으로 결론 내렸지만, 백 경정은 그 뒤로도 계속 의혹을 제기해 왔다. 수사 기록을 무단 반출·공개한 혐의도 받는다. 경찰 관계자는 “백 경정에 대한 감찰 조사가 마무리돼 경찰청 징계위원회에 회부하면서 대기 발령이 함께 이뤄진 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PL7TOADJ4FDXDGZJKGJNBBZELE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백해룡 경정&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백 경정은 서울 영등포경찰서 근무 시절 자기가 지휘한 마약 밀수 수사가 윤석열 정부 차원의 외압으로 중단됐다고 주장해 왔다. 현 정부 출범 후 이 의혹을 규명하겠다며 서울동부지검에 검경 합수단이 꾸려졌다. 백 경정도 이재명 대통령 지시로 지난해 10월 합수단에 합류했다. 그러나 합수단은 지난 2월 백 경정이 제기한 의혹이 ‘사실무근’이라고 결론 내리고 수사를 종결했다. 합수단은 수사 과정에서 백 경정의 비위 정황도 확인됐다며 경찰청에 징계를 의뢰했다.&lt;br&gt;&lt;br&gt;백 경정은 지난 1월 합수단 파견이 끝난 뒤 사건 기록 원본 5000쪽가량을 무단 반출한 것으로 조사됐다. 지난 7월에는 블로그에 수사 기록 5400쪽가량을 공개했다. &lt;br&gt;&lt;br&gt;백 경정은 이날 소셜미디어에서 “국민 천거를 받아 지난 28일부터 행정안전부 중대범죄수사청 후보자 검증에 응했고, 현재 대통령 비서실의 인사 검증을 받고 있는 상황에서 왜 지금 징계 절차에 착수한 것이냐”고 반발했다. 행정안전부는 지난달 19일부터 26일까지 초대 중수청장 후보자 국민 추천을 받았다. 자기도 추천돼 인사 검증을 받고 있는데 서울청이 대기 발령한 의도가 의심스럽다는 주장이다. 백 경정은 통화에서 “자리에 욕심은 없지만 스스로 역량은 있다고 생각해 인사 검증 절차에 응한 것”이라며 “(중수청장이 아닌) 수사관으로 지원할 의향은 없다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 검경 합수단을 이끌며 백 경정과 여러 번 충돌했던 임은정 서울동부지검장은 최근 중수청 수사관으로 지원했다. 임 지검장은 백 경정이 주도했던 수사를 두고 “경찰의 ‘답정너’ 수사와 여론전 등 개인적 일탈이 있었던 사안”이라고 비판했었다. 이에 백 경정은 “임 검사장은 스스로 수사 능력이 있는지 돌아보라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“보이스피싱 현금 전달책, 수사기관이 너무 쉽게 기소·처벌”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/03/X63SQXTGWFF6DPIONU3VXLE4HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/03/X63SQXTGWFF6DPIONU3VXLE4HY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Sep 2026 15:46:00 +0000</pubDate>
-      <content:encoded>“피고인은 기껏해야 보이스피싱 조직의 주변부를 떠돌다 검거된 끄나풀일 뿐이다. 조직에 속아 노동력을 편취당한, 또 다른 의미에서의 ‘피해자’가 아니라고 단정할 수 없다.”&lt;br&gt;&lt;br&gt;지난 7월 선고된 한 보이스피싱 현금 전달책 A(20대)씨의 항소심 무죄 판결문에 나오는 대목이다. 돈을 전달했다는 증거가 명백해 1심은 A씨에게 징역 3년을 선고했다. 그러나 항소심을 맡은 대전지법 형사4부(재판장 구창모)는 이를 무죄로 뒤집었다. &lt;br&gt;&lt;br&gt;재판부는 보이스피싱 전달책 사건으로는 이례적으로 90여 쪽에 이르는 긴 판결문에서 “보이스피싱 범죄에 엄벌을 요구하는 사회적 분위기 속에서 수사기관과 법원이 말단 전달책을 너무 쉽게 기소·처벌하는 것 아니냐”고 지적했다.&lt;br&gt;&lt;br&gt;대전에 사는 A씨는 2023년 5월 구인 앱을 통해 만난 보이스피싱 일당에게 “대출 고객의 거래 실적을 만들어주는 중개업을 하는데, 현금을 전달만 해주면 30만원을 주겠다”는 아르바이트 제안을 받았다. 이에 A씨는 전남 나주에 있는 한 카페 등에서 보이스피싱 피해자 2명을 만나 현금 총 2600만원을 받은 뒤 일당이 알려준 계좌로 입금하다가 현장에서 붙잡혔다. &lt;br&gt;&lt;br&gt;A씨는 피해자를 만난 카페에서 자신의 신용카드로 커피를 사 마셨고 CCTV에 얼굴도 버젓이 찍혀 있었다. 특히 검거된 뒤 경찰도 모르고 있던 현금 수거 사실을 먼저 털어놨다고 한다. 이를 근거로 그는 재판에서 줄곧 “보이스피싱 범죄인 줄 몰랐다”고 주장했다. 항소심은 A씨의 주장을 받아들였다. 빚을 갚기 위해 일자리를 찾던 중 그 역시도 보이스피싱 일당에 속았다고 판단한 것이다. 재판부는 “범죄를 알고 가담하는 사람의 모습과는 거리가 있다”며 “A씨 역시 일당에 속은 또 다른 피해자일 수 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 판결문에서 무죄 판단에 그치지 않고, 수사기관과 법원이 ‘왜 의심하지 못했느냐’는 이유로 너무 쉽게 책임을 묻고 있다고 지적했다. 보이스피싱 사건이라는 것을 이미 알고 기록을 보는 판사와 달리, A씨 같은 단순 가담자는 피해자들과 마찬가지로 일당이 꾸며낸 설명을 믿고 행동했을 수 있다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 또 “주범이 잡히지 않으니 잡힌 전달책이라도 엄벌하라는 여론이 형성되면서, 무죄추정의 원칙이 후퇴할 위험에 놓인다”면서 “수사기관과 법원은 이들(단순 가담자)을 희생양으로 삼아 보이스피싱 범죄에 제대로 대응하지 못했다는 책임에서 벗어나려 해서는 안 된다”고 지적했다.&lt;br&gt;&lt;br&gt;이 재판부는 앞서 두 차례 또 다른 전달책에게도 무죄를 선고했다. 하지만, 대법원은 유죄 취지로 해당 판결을 파기했다. 이번 사건 역시 검사의 상고로 대법원에 올라가 있는 상태다. &lt;br&gt;&lt;br&gt;판결문을 쓴 구창모 재판장은 본지 통화에서 “거대한 국가 권력 앞에서 피고인이 기댈 수 있는 마지막 보루가 재판”이라며 “법원이 사정을 세밀히 살펴봤다는 점을 판결문으로라도 확인시켜주고 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>절벽 위 아슬아슬… 다시 열린 ‘순창 하늘길’</title>
