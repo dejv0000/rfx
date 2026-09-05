@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>자전거 탄 80대 치어 숨지게 한 외국인 유학생 체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/05/3VBLUEWT4ZFPXGXD274A45CLRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/05/3VBLUEWT4ZFPXGXD274A45CLRA/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Sep 2026 00:18:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GULJAWTDHBDLDCRBN4FWF3GHHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;새벽에 자전거를 몰던 80대 노인을 차로 치어 숨지게 한 뒤 달아난 20대 외국인 유학생이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;5일 전북 익산경찰서에 따르면, 특정범죄 가중처벌 등에 관한 법률 위반(도주치사) 혐의로 우즈베키스탄 국적의 대학생 A(21)씨를 긴급체포해 조사 중이다. A씨는 이날 오전 1시 42분쯤 전북 익산시 왕궁면의 한 도로에서 경차를 운전하던 중 1차로를 앞서가던 자전거 운전자 B(80대)씨를 뒤에서 충돌한 후 그대로 달아난 혐의를 받고 있다. 이 사고로 큰 상처를 입은 B씨는 현장에서 숨진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;신고를 받고 추적에 나선 경찰에 체포될 당시 A씨는 음주나 약물 투약 상태는 아니었다. 또 전북의 한 대학에 합법적 비자로 재학 중인 체류 신분도 확인됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “당시 사고가 발생한 사실 자체를 인지하지 못했다”면서 도주 혐의를 부인한 것으로 알려졌다. 경찰은 정확한 사고 경위와 사고 후 정황을 종합적으로 분석해 혐의를 규명할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성범죄 재판 받으며 또 범행… 처음 본 10대 집요하게 쫓았다</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/05/KIDJTMD7UZBRPHDSHY5VFCLMWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/05/KIDJTMD7UZBRPHDSHY5VFCLMWE/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Sep 2026 00:04:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZTK5A4FAJAVVBK5W72GDXDWSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;처음 본 10대를 버스와 정류장 등에서 수개월간 집요하게 스토킹한 30대가 처벌받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 정종건 부장판사는 스토킹 처벌법 위반 혐의로 기소된 A(31)씨에게 징역 10개월에 집행유예 2년을 선고했다고 5일 밝혔다. 또 보호관찰과 사회봉사 80시간, 스토킹 재범 예방 강의 40시간 수강을 명령했다.&lt;br&gt;&lt;br&gt;공소장에 따르면 A씨는 지난해 6∼8월 6차례에 걸쳐 서로 모르는 사이인 B(15)양을 춘천 지역 버스 정류장, 시내버스 등에서 지켜보고 따라다니며 스토킹한 혐의로 재판에 넘겨졌다. 조사 결과 A씨는 B양 주변에서 그의 모습을 몰래 지켜보고, B양에게 가까이 다가가거나 건물 등에 뒤따라가는 방식으로 범행했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 같은 법원에서 성폭력처벌법상 카메라 등 이용 촬영죄로 징역형 집행유예를 선고받아 항소심 재판을 받는 것으로 알려졌다. 또 통신비밀보호법 위반죄 등으로 징역형 집행유예를 선고받아 항소심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;정 부장판사는 “피고인이 장기간에 걸쳐 피해자를 따라다니거나 지켜보는 방법으로 스토킹 범죄를 저지른 것으로 죄책이 가볍지 않다”고 지적했다. 이어 “스토킹으로 처벌받은 전력이 없는 점, 범행을 인정하는 점 등을 종합해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] ‘고위험 성인 실종’ 117번 경고한 보고서, 경찰은 5년간 묵혔다</title>
       <link>https://www.chosun.com/national/national_general/2026/09/05/2MMBKTBSIBF6TOABHOQ57KXKP4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/05/2MMBKTBSIBF6TOABHOQ57KXKP4/</guid>
@@ -879,15 +897,6 @@
       <content:encoded>전국 대체로 맑고 강원·제주에 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKM36W5IT5ERDINFIOAWMHOKGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 민통선(民統線)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/09/04/RMZKY3W5ZVHIHJW6HA4JMMDKVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/09/04/RMZKY3W5ZVHIHJW6HA4JMMDKVY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLKZUPDFENGYRAIOQAENYYH2JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 자꾸 이야기하다</title>
       <link>https://www.chosun.com/national/nie/chinese/2026/09/04/BIWUIV4VG5FNJPPBUZ2TTGNOKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/09/04/BIWUIV4VG5FNJPPBUZ2TTGNOKY/</guid>
@@ -958,19 +967,6 @@
       <description/>
       <pubDate>Thu, 03 Sep 2026 10:20:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSDIN3BHA2GCNRZGBSWCYLFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지소연은 WK리그 경기 도중 심판진으로부터 논란의 발언을 들었다. /WK리그 유튜브 중계 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한축구협회(KFA)가 여자축구 WK리그 경기 도중 지소연(35·수원FC 위민)을 향해 성희롱성 발언을 한 심판 문제를 공정위원회에서 다루기로 했다.&lt;br&gt;&lt;br&gt;KFA 아마심판평가협의체는 3일 천안 코리아풋볼파크에서 당시 상황과 심판 판정에 대해 논의하고 “사안의 중대성을 감안해 공정위원회로의 이첩을 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;해당 논란은 지난달 28일 수원종합운동장에서 열린 2026 WK리그 22라운드 수원FC 위민과 서울시청의 경기 도중 불거졌다. 전반 30분 지소연은 배선영 주심으로부터 “초반부터 예민하다. 생리하나 봐”라는 취지의 발언을 들었다고 주장했다. 당시 배 주심은 항의하는 지소연에게 되레 경고를 줬다. 이 과정에서 경기는 약 4분간 중단됐다.&lt;br&gt;&lt;br&gt;당초 해당 발언을 부인하던 배 주심은 논란이 일자 입장을 번복하고 “우리끼리 한 말이었다”라는 취지로 해명했다. KFA 심판운영팀은 “교신에서 ‘생리’라는 단어를 쓰지 않았고 지소연을 특정한 것도 아니다”라고 했다. 다만 배 주심은 ‘생리’ 대신 이를 뜻하는 은어인 ‘걸스 데이’(girl‘s day)라는 표현을 쓴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사안을 넘겨받은 공정위는 당시 상황과 관련자들의 소명을 청취하고 규정에 따라 다각도로 검토한 뒤, 배 주심에 대한 징계 여부 및 수위를 판단할 예정이다.&lt;br&gt;&lt;br&gt;KFA는 “이번 사안을 계기로 유사한 사례의 재발 방지를 위한 대책을 마련하고, WK리그에서 선수와 심판 등 모든 구성원이 서로를 존중하는 문화가 정착될 수 있도록 교육을 강화하고 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘5년 면허정지’ 타이거 우즈, 골프 카트는 몰 수 있나… 주지사까지 참전</title>
-      <link>https://www.chosun.com/international/us/2026/09/03/ALIDUFMIYJCPHGBAQIOAUSGJPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/international/us/2026/09/03/ALIDUFMIYJCPHGBAQIOAUSGJPY/</guid>
-      <dc:creator>워싱턴=김은중 특파원</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Sep 2026 22:24:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R54GNK73HRL4VFUBVSS2ZMLN4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;타이거 우즈(오른쪽)가 연인 버네사 트럼프와 함께 2일 플로리다주 법원에 출석하고 있다. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량 전복 사고를 내 기소된 ‘골프 황제’ 타이거 우즈가 2일 검찰과 더 낮은 형량의 혐의를 적용받는 ‘플리바겐(Plea Bargain·사법 거래)’에 합의했다. 지난 3월 플로리다주(州) 자택 인근에서 음주가 의심되는 전복 사고를 내 기소된 우즈는 ‘음주 또는 약물 운전(DUI)’ 혐의로 기소됐지만 이보다 혐의가 낮은 ‘난폭 운전(reckless driving)’ 혐의를 적용받는 데 동의했다. 마틴카운티 주 법원 재판부는 이날 우즈의 운전면허를 5년 정지하고, 1500달러(약 200만원)의 벌금을 명령했다. &lt;br&gt;&lt;br&gt;우즈는 지난 3월 왕복 2차선 도로를 주행하던 중 소형 트레일러를 연결한 픽업트럭을 추월하려다 충돌하면서 자신의 차량이 전복되는 사고를 냈다. 현장에서 음주 측정기 검사에 응해 음성 반응이 나왔지만, 소변 검사를 거부해 체포된 뒤 구금됐다가 보석금을 내고 풀려났다. 당시 보안관실 보고서를 보면 당국은 사고 현장에 있던 우즈의 주머니에서 마약성 진통제의 일종인 오피오이드 계열 흰색 알약 2개를 발견했다. 이에 따라 우즈는 DUI 및 합법적 검사 거부 혐의로 기소됐지만, DUI 혐의에 대해서는 무죄를 주장해 왔다.&lt;br&gt;&lt;br&gt;이날 플로리다 주 당국의 기자회견에서는 15회 메이저 챔피언에 빛나는 우즈가 골프장에서 골프 카트를 운전할 수 있냐는 질문이 나왔다. 브리핑을 하던 토머스 바케달 주 검사는 웃으면서 “정말 훌륭한 질문이고 아마 할 수 있을 것 같다”면서도 구체적인 사실을 확인해 답변하겠다고 밝혔다. 공화당 소속인 론 드샌티스 주지사는 X(옛 트위터)에서 “타이거는 골프 코스에서 카트를 운전할 수 있어야 한다”고 했다. AP는 플로리다 주법의 경우 만 18세 이상이면 면허 없이도 골프 카트를 몰 수 있다고 보도했고, 바케달도 “이 규정은 누구에게나 적용되는 것”이라고 확인했다.&lt;br&gt;&lt;br&gt;우즈는 이날 연인 버네사 트럼프와 함께 법원에 출석했다. 도널드 트럼프 대통령의 전 며느리이자 장남 트럼프 주니어의 전 부인으로 2005년 결혼해 2018년 이혼했다. 트럼프는 이날 오후 기자들과 만나 “우즈는 훌륭하고 특별한 사람으로 허리 수술을 받았지만 경과가 좋지 않아 통증을 겪었다”며 사건이 해결된 것이 기쁘다고 했다. 그러면서 “나는 우즈를 운동선수로서만이 아니라 개인적으로도 잘 아는데, 오래전부터 운전은 다른 사람에게 맡기라고 말해왔다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/R54GNK73HRL4VFUBVSS2ZMLN4I.jpg?auth=5111897fac66ed9cc656ba65fb94c415839a201f86e1daaa246d25bbad5b2eaa&amp;smart=true&amp;width=3786&amp;height=2524" type="image/jpeg" height="2524" width="3786">
-        <media:description type="plain">타이거 우즈(오른쪽)가 연인 버네사 트럼프와 함께 2일 플로리다주 법원에 출석하고 있다. /로이터 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">Marco Bello</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
