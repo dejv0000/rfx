@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“김관정 후보 코인 사기 변호”… 피해단체, 중수청장 임명 반대</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/05/TPQ3ODX3ZVGIHJS3HKN5LYRAB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/05/TPQ3ODX3ZVGIHJS3HKN5LYRAB4/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Sep 2026 07:46:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNHGUQ2VURC33FZZ26EDYLJPAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초대 중수청장 후보로 추천된 김관정 김관정법률사무소 대표변호사 /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융 사기 피해자들이 모인 시민단체가 초대 중대범죄수사청장 후보로 추천된 김관정 변호사의 가상화폐 사기 사건 변호 이력을 문제 삼으며 그의 임명을 반대하고 나섰다.&lt;br&gt;&lt;br&gt;약탈경제반대행동과 금융피해자연대는 5일 성명서를 내고 “김관정 변호사는 다단계 코인 사기 ‘KOK 사건’의 피고인들을 변호하고 있다”며 “금융 사기 피해자들은 김 변호사의 초대 중수청장 임명을 결사반대할 것”이라고 했다. &lt;br&gt;&lt;br&gt;금융사기 피해자들의 연대체인 금융피해자연대가 초대 중대범죄수사청장 후보로 추천된 김관정 변호사의 가상화폐 사기사건 변호 이력을 문제 삼으며 중수청장 임명을 반대하는 성명을 5일 발표했다.&lt;br&gt;&lt;br&gt;이 단체들은 KOK 재단이 영화·게임·웹툰 등 각종 콘텐츠를 ‘KOK 코인’을 통해 소비하는 디지털 플랫폼 사업을 통해 사기 피해자 수십만 명을 양산했다고 주장한다. 재단 경영진은 수익을 창출할 수단을 갖추지 않은 채 사업을 꾸민 뒤 투자자 수십만 명으로부터 수조 원을 가로챈 혐의로 2024년 기소됐다. 관련 재판은 울산지방법원에서 진행 중이다.&lt;br&gt;&lt;br&gt;단체들은 “법원 전산 시스템상 김 변호사가 여전히 주요 피고인의 변호인으로 확인된다”며 “그가 받는 변호사 수임료가 범죄 수익으로 충당됐을 가능성을 따져봐야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;사법연수원 26기인 김 변호사는 검사 출신으로 대검찰청 범죄정보담당관, 울산지검 특수부장, 서울동부지검장, 수원고검장 등을 지냈다. 중대범죄수사청장 후보 추천위원회는 10월 출범할 중수청 초대 청장으로 김 변호사와 김지용 변호사, 문홍주 변호사, 이윤제 명지대 법학과 교수 등 4명을 전날 선정해 행정안전부 장관에게 추천하기로 했다.&lt;br&gt;&lt;br&gt;금융 사기 피해자 단체들은 “범죄 수익을 받아먹는 변호사가 중수청장이 되면 누가 신뢰할 수 있겠는가”라며 “현 정권이 그토록 자랑하는 검찰개혁의 결과물이 중수청인데, 김 변호사가 초대 청장이 된다면 야당 비판대로 ‘진짜 지옥문’이 열릴 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 9월 6일 일요일 (음력 7월 25일 癸未)</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/05/6ARX56KNQBDA5KOAEKZTJ2THQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/05/6ARX56KNQBDA5KOAEKZTJ2THQM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“아침부터 서둘렀어요”… 불꽃축제 명당 선점 경쟁 ‘후끈’</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/05/WFKQWFPMGNDRDMGYPZUZ4Y5SBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/05/WFKQWFPMGNDRDMGYPZUZ4Y5SBU/</guid>
+      <dc:creator>윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Sep 2026 07:24:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YM2XZEUHRFJ4RN4LRTI3C2ZCYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 영등포구 여의도 한강공원. 오후 8시에 시작되는 서울불꽃축제를 기다리는 시민들로 가득 차 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 서울 여의도 한강공원 일대는 한낮부터 시민들로 가득 찼다. 이날 열리는 ‘서울세계불꽃축제’를 관람하려는 이들이었다. 불꽃축제는 오후 8시에 시작하지만, 오후 12시쯤부터 한강공원 잔디밭은 발 디딜 틈 없이 돗자리가 깔려 있었다. 가족, 친구, 연인과 이곳을 찾은 시민들은 행사 시작을 기다리며 낮잠을 자거나 간식을 먹으며 시간을 보내고 있었다. &lt;br&gt;&lt;br&gt;시민들은 명당 자리를 차지하기 위해 아침부터 바쁘게 움직였다. 인천에서 친구들과 함께 한강공원을 찾은 김병준(15)군은 “그동안 너무 와보고 싶었는데 불꽃 축제는 처음 와본다”며 “좋은 자리에서 보고 싶어 이른 아침부터 서둘렀다”고 했다. &lt;br&gt;&lt;br&gt;아침 7시부터 여의도 한강공원을 찾았다는 진두희(41)씨는 아버지 진산석(80)씨와 남편 에드워드(50)씨와 함께 축제를 기다리고 있었다. 진씨는 “어린 시절부터 매해 부모님과 불꽃축제를 보러 오곤 했다”며 “그래서 고령인 아버지도 거뜬하게 이른 아침부터 축제를 기다리고 있다”고 했다. 진씨는 “서울세계불꽃축제는 우리 가족의 너무나 소중한 추억”이라며 기대감을 드러냈다. 호주에 거주하고 있다는 진씨는 “멜버른이나 시드니에서 열리는 다른 불꽃 축제도 수없이 가봤지만 한국의 불꽃 축제는 독보적으로 크고 아름답다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76O5X33HWVCEDFRBB3BWOOX7KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 영등포구 여의도 한강공원 일대. 오후 8시에 시작되는 서울세계불꽃축제를 기다리는 시민들로 북적인다. /윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김수현(50)씨 가족은 아내 방영미(44)씨와 아들 김지원(12)군과 낮 12시에 한강공원에 도착했다. 동탄에 사는 이들 가족은 아침부터 부지런히 집을 나섰다고 한다. 김씨는 “아들이 서너 살이었을 때 왔었는데, 거의 10년 만에 오게 돼 추억이 새록새록 떠오른다”며 “아이가 다시 와보고 싶어 해 흔쾌히 함께 왔다”고 했다. 아들 김군은 “불꽃이 빵! 터지는 순간이 너무 기다려진다”고 했다. 김씨 가족은 한강 구경하며 맛있는 것도 먹으면서 8시까지 즐겁게 시간을 보낼 예정이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WDJ6O5GUJCVNBP3YL52PD7UUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 영등포구 여의도 한강공원 일대. 오후 8시에 시작되는 서울세계불꽃축제를 기다리는 시민들로 북적인다. /윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사진 촬영이 취미인 고등학생들도 화려한 불꽃을 찍으려 전문 카메라를 대동해 한강공원을 찾았다. 연천에 사는 고등학생 임학률(17)군은 함께 사진을 찍는 또래 친구들과 아침 6시부터 한강공원을 찾았다. 연천에 사는 임군은 새벽부터 일어나 아침 6시에 한강공원을 찾았다. 사진을 잘 찍을 수 있는 탁 트인 명당 자리를 차지하기 위해서다. 임군은 친구들과 함께 전문 카메라 DSLR과 삼각대를 연신 매만지며 촬영을 준비했다. &lt;br&gt;&lt;br&gt;임군은 “아무래도 불꽃을 찍을 땐 타이밍이 제일 중요한 것 같다”며 “불꽃을 찍어보는 건 처음인데 제대로 찍어보고 싶다”고 했다. 임군은 “영국 팀이 ‘케이팝 데몬 헌터스’ 음악에 맞춰 불꽃 쇼를 준비했다고 들었다”며 “케이팝 데몬 헌터스 노래를 좋아해 기대가 크다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLIEE5PCPNGETCE55DYN6IN2DU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 영등포구 여의도 한강공원 일대. 오후 8시에 시작되는 서울세계불꽃축제를 기다리는 시민들로 북적인다. /윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몰려드는 인파에 주최 측과 경찰은 안전 관리에 만전을 기하고 있다. 주최 측 안전 요원들은 통행길에 멈춰 서 있거나 앉아 있는 시민에게는 즉각 이동하도록 제지했다. 1분에 한 번씩 “서 계시면 안 됩니다” “우측 통행하세요”라고 외치며 인파를 관리했다. 여의도 한강공원 인근 아파트와 오피스텔은 이날 몰려드는 인파에 외부 차량 무단 주차를 단속하고 나섰다. 여의도 한강공원 입구와 가까운 한 오피스텔은 “불꽃축제 당일 오피스텔 방문 차량 입차 금지”라고 쓴 현수막을 써붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWKCXD4OXJEY5EKLTC4FUBOBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 영등포구 여의도 한강공원 앞 오피스텔에 불꽃축제 당일 외부 차량의 주차를 금지하는 내용의 현수막이 붙어있다./윤성은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주최 측과 경찰은 이날 축제에 53만명이 몰릴 것으로 예상했다. 경찰은 작년보다 인력을 26% 늘려 인파 관리에 나섰다. 경찰 관계자는 “시민 여러분들이 여유로운 마음으로 경찰 통제에 협조를 잘해주길 부탁드린다”며 “행사가 끝난 뒤 안전하게 귀가할 때까지 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>충남서 주꾸미 낚싯배 침몰...승선원 6명 전원 구조</title>
       <link>https://www.chosun.com/national/national_general/2026/09/05/IX42PU6R7FGFTONWRTCAF3Z7AI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/05/IX42PU6R7FGFTONWRTCAF3Z7AI/</guid>
@@ -765,16 +795,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
     </item>
     <item>
-      <title>빛으로 물든 DDP… 13일까지 서울라이트 축제</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/04/7MV3IEQZPJCDVGX36T7XJUT3FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/04/7MV3IEQZPJCDVGX36T7XJUT3FI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOEKFALKE5AL3NFNCW4WIC664E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임지훈 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 밤 서울 중구 동대문디자인플라자(DDP)에서 ‘서울라이트 DDP 2026 가을’ 행사가 열리고 있다. 우주선처럼 생긴 DDP 외벽에 빛을 쏴 다양한 미디어아트 작품을 선보인다. ‘K-오리지널 라이트’를 주제로 오는 13일까지 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대검 “맡은 사건 한달 내 마무리하라”</title>
       <link>https://www.chosun.com/national/court_law/2026/09/04/IF2VICO76JB63E5VASLSWBO24I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/04/IF2VICO76JB63E5VASLSWBO24I/</guid>
@@ -791,28 +811,6 @@
       <description/>
       <pubDate>Thu, 03 Sep 2026 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3WMZJUMM3TGNRZGVRTEYTGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2025년 9월 15일, 방시혁 하이브 의장이 자본시장법 위반 혐의(사기적 부정거래) 관련 조사를 받기 위해 마포구 서울경찰청 금융범죄수사대에 출석하며 취재진 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 3일 하이브 상장 과정에서 1500억원대 부당 이익을 거둔 혐의를 받는 방시혁 하이브 의장을 검찰에 기소 의견으로 넘겼다. 2024년 12월 입건 전 조사(내사)에 착수한 지 1년 9개월 만이다. &lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 방 의장 등 하이브 경영진 5명을 이날 서울남부지검에 불구속 송치했다. 방 의장은 하이브 상장 과정에서 주주들을 속여 지분을 팔게 하고 차익을 챙긴 혐의(자본시장법상 사기적 부정 거래)를 받는다. 방 의장 등은 이를 통해 2631억원 정도의 이익을 거둔 것으로 경찰은 판단했다. 이 가운데 방 의장이 챙긴 이익은 1568억원으로 전해졌다. 경찰은 2631억원 전액에 대해 법원에서 기소 전 추징 보전 결정을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 방 의장은 2019년 11월부터 하이브(당시 빅히트엔터테인먼트) 주주들에게 “당장 상장할 계획이 없다”며 측근들이 설립한 사모펀드에 주식을 팔도록 설득했다. 하지만 약 1년 후인 2020년 10월 하이브는 상장했고, 이 사모펀드는 2020년 10월과 2021년 5~6월 두 차례에 걸쳐 하이브 주식을 모두 매도했다. 경찰은 방 의장 등이 이렇게 벌어들인 돈 중 기존 주식 매입 비용 등을 제외한 금액을 나눠 가진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;하이브의 이런 계획을 주도한 것으로 알려진 김모 전 하이브 최고투자책임자(CIO)는 지난해 6월 경찰의 압수수색 직전에 미국으로 출국해 돌아오지 않고 있다. 경찰은 김씨에 대해 법원에서 체포영장을 발부받아 인터폴에 적색 수배를 요청했다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 2024년 11월 언론 보도로 이 사건이 알려지자 2024년 12월 내사에 들어갔고 지난해 5월 정식 수사로 전환했다. 이후 지난해 7월 서울 용산구 하이브 본사를 압수수색했고 9~11월에는 방 의장을 다섯 차례 소환 조사했다. &lt;br&gt;&lt;br&gt;경찰은 지난 4월 방 의장에 대한 구속영장을 두 차례 신청했지만 검찰은 이를 모두 반려했다. 경찰 관계자는 “당시 피의자들의 범죄 행위에 대해선 이견이 없었다”면서 “구속영장이 두 차례 반려된 상황에서 다시 신청해도 받아들여질 가능성이 낮다고 보고 불구속 송치했다”고 했다. 방 의장 측 변호인단은 이날 “제기된 내용에 대해 객관적인 자료와 근거를 바탕으로 일관되게 소명해 왔다”며 “향후 절차를 통해 의혹이 투명하게 해소될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“경찰이 부족했습니다” 취임 첫날부터 사과한 지휘부 </title>
-      <link>https://www.chosun.com/national/national_general/2026/09/04/4L4WYSZEAZCMFB32ZNB37R5IHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/04/4L4WYSZEAZCMFB32ZNB37R5IHI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5VMO4XIMVA57FH7VMDHZIWFME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 서울 서대문구 경찰청에서 ‘전국 경찰 지휘부 회의’가 열렸다. 이날 취임한 김종철(가운데) 신임 경찰청장 직무대행 등 경찰 지휘부가 ‘경찰 헌장’을 낭독하고 있다. 뒤에는 ‘경찰이 부족했습니다. 뼈저린 반성과 철저한 쇄신으로 경찰을 기본부터 다시 세우겠습니다’라는 문구가 보인다. 전남광주 장윤기 여고생 살인 사건 부실 수사, 제주 실종 사건 허위 종결 등으로 경찰에 대한 국민 신뢰가 추락하자 마련한 자리다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>팍팍한 청춘, ’7000원의 행복' 뽑으러 간다</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/04/VJOLHA2GANGNPET4ECDW7KN3NQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/04/VJOLHA2GANGNPET4ECDW7KN3NQ/</guid>
-      <dc:creator>이기우 기자, 정동하 기자, 지혜진 기자, 신정엽 인턴기자(연세대 언더우드학부 4년), 최인규 인턴기자(연세대 언론홍보영상학부 4년), 오지예 인턴기자(서울대 간호학과 졸업)</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPBYG7A5QJFKTEQOOODW7LDTKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 서울 용산아이파크몰의 한 가차숍. 젊은 층 손님들이 뽑기 기계에 붙어 있는 캐릭터 모형을 보고 있다. 가격은 한 번 뽑는 데 통상 7000원이다. /임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오후 서울 용산구 용산아이파크몰 6층. 일명 ‘가차(뽑기)’ 기계 350여 대를 모아놓은 상점은 손님 30~40명이 몰려 북적였다. 대부분 20·30대였다. 남자 친구와 함께 이곳을 찾은 김지희(22)씨는 “용산아이파크몰에 올 때마다 이곳에 들른다”며 “뽑은 피규어는 꼭 인스타그램에 올린다”고 했다.&lt;br&gt;&lt;br&gt;이곳 가차 기계에선 ‘포켓몬스터’나 ‘귀멸의 칼날’ 등 인기 애니메이션 피규어(캐릭터 모형), 강아지·고양이 같은 동물 모형을 뽑을 수 있다. 가격은 한 번 뽑는 데 7000원짜리가 가장 많았고, 1만2000원짜리도 있었다.&lt;br&gt;&lt;br&gt;최근 서울 곳곳에 ‘가차숍(뽑기 가게)’이 들어서고 있다. 가차숍은 ‘덕질의 성지’로 유명했던 서초구 국제전자센터나 마포구 홍대거리에서 시작됐다. 그런데 최근 들어 관악구 지하철 2호선 서울대입구역이나 성북구 성신여대 등 대학가 상권에도 가차숍이 우후죽순 들어서고 있다. 2030세대가 장난감 뽑기에 열광하면서 자고 나면 한두 곳씩 생길 정도다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUNXSCJGNNBMNB2A3LDKNNW7EU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가차는 동전을 넣고 손잡이를 돌릴 때 나는 금속 마찰음을 표현하는 일본 의성어 ‘가차(がちゃ)’에서 따온 말이다. 돈을 넣고 플라스틱 캡슐 속에 들어 있는 캐릭터 상품을 무작위로 뽑는 기계다. 과거에는 한 번 뽑는 데 2000~3000원이었지만 최근에는 7000~1만2000원까지 올랐다. 내용물도 과거엔 어린이 장난감이 많았지만 애니메이션·게임 캐릭터가 인기를 끌면서 성인 수집품으로 확장됐다.&lt;br&gt;&lt;br&gt;20·30대 사이에서 가차 열풍이 부는 것은 짧은 시간에 확실한 만족을 원하는 소비 성향이 강해졌기 때문이란 분석이 나온다. 청년들에게 취업이나 결혼, 내 집 마련 같은 목표는 갈수록 멀게 느껴진다. 그와 달리 가차는 소액으로도 즉각 결과물이 생긴다는 것이다. 팍팍한 청춘들이 7000원짜리 행복에 열광한다는 얘기다. 청년들은 가차 기계에서 원하는 캐릭터를 뽑아 소셜미디어에 인증하거나 다른 사람과 교환도 한다. 일종의 취향 공유다. &lt;br&gt;&lt;br&gt;직장인 이모(29)씨는 “인터넷에서 원하는 제품을 사는 게 더 싸다는 걸 알면서도 가차 기계에서 원하는 물건을 뽑았을 때 희열에 빠져든다”며 “친구들과 만나면 카페에 가듯 가차숍에 들른다”고 했다. 청년 사이에 ‘키덜트(아이 같은 취미를 즐기는 어른)’ 문화가 확산한 것도 가차숍 흥행을 불렀다. 어른이 돼 어느 정도 구매력을 갖춘 청년들이 어린 시절 좋아했던 만화 캐릭터 피규어를 수집하며 행복감을 느낀다는 얘기다.&lt;br&gt;&lt;br&gt;국세청 통계를 보면 지난 7월 말 기준 전국 장난감 가게는 4035곳으로 1년 전보다 660곳(19.6%) 늘었다. 두 달 전(3929곳)과 비교하면 106곳이 늘었다. 하루나 이틀에 한 개꼴로 새로운 가게가 들어선 것이다. 국세청은 “최근 늘고 있는 가차숍과 피규어 매장 등 장난감 가게가 증가한 원인”이라고 설명했다. &lt;br&gt;&lt;br&gt;반면 20·30대가 주로 찾던 술집, PC방 등은 감소 추세다. 7월 말 기준 전국 호프주점은 1만9598곳으로 1년 전보다 1905곳(8.9%) 줄었다. 선술집 등 간이주점은 8559곳에서 7803곳으로 8.8%, PC방은 6990곳에서 6615곳으로 5.4% 줄었다. 서울 지하철 2호선 홍대입구역 부근 한 부동산 중개인은 “음식점·주점은 인건비와 권리금, 임대료가 크게 올라 자리를 잡기 어려워졌다”며 “무인 가차숍은 인건비와 권리금이 상대적으로 적게 들어 창업 문의가 늘었다”고 했다. 작년 홍대 근처에 가차숍을 연 한 업주는 “홍대 일대에만 가차숍이 100곳이 넘는다”며 “최근에는 매장이 늘면서 수익성이 예전만 못하다”고 했다.&lt;br&gt;&lt;br&gt;가차숍이 과소비를 부추긴다는 지적도 나온다. 과거에는 동전을 넣어 뽑던 방식이었는데 지금은 카드 결제가 가능해졌기 때문이다. 여기에 뽑기 가격까지 높아져, 최근에는 한 번에 1만원이 넘는 가차 기계도 쉽게 찾아볼 수 있다. 홍대 근처 가차숍에서 만난 직장인 최한주(31)씨는 “일본에서는 300엔(약 2500원)이면 뽑을 수 있는데, 한국에서는 7000원이 넘는 경우가 흔하다”며 “가차숍에서 어린이가 부모에게 계속 뽑아달라고 조르는 모습도 자주 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YPBYG7A5QJFKTEQOOODW7LDTKA.jpg?auth=30722edfe8974d3d2d0d3fcc5a177d027862b38a5b298f61f3d5951bb26ef1cf&amp;smart=true&amp;width=4012&amp;height=2587" type="image/jpeg" height="2587" width="4012">
-        <media:description type="plain">3일 오후 서울 용산아이파크몰의 한 가차숍. 젊은 층 손님들이 뽑기 기계에 붙어 있는 캐릭터 모형을 보고 있다. 가격은 한 번 뽑는 데 통상 7000원이다. /임지훈 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>“외로움돌봄과 신설… 1인 가구 고립되지 않게 도울 것”</title>
