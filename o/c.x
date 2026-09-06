@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“얼른 가족 품으로 오길” 주한 네팔인들, 희생자 추모 기도회 열어</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/06/7A654EVQ6BH75AGDNS7YDJSPXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/06/7A654EVQ6BH75AGDNS7YDJSPXY/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 06:17:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YR4F5IEQMJCO7G35EZJMBIUNXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 저녁 서울 중구 동대문 디자인 플라자(DDP) 인근에서 네팔 대홍수 피해를 추모하는 주한 네팔인들의 기도회가 진행됐다./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“네팔을 위해 기도해주세요. 고인들을 추모하며, 실종자와 부상자들에게 애도를 표합니다.”&lt;br&gt;&lt;br&gt;지난 5일 오후 8시 서울 중구 동대문 디자인 플라자(DDP) 인근에서 주한 네팔인들이 ‘네팔 대홍수’ 피해를 추모하는 기도회를 열었다. 이날 기도회에는 주한 네팔인과 주한 네팔 대사관 관계자 등 150여 명이 참석했다. &lt;br&gt;&lt;br&gt;네팔 대홍수로 최소 1375명이 사망하고 5500명 이상이 실종 상태인 가운데, 이날 주한 주한 네팔인들은 다 함께 모여 사망자를 애도하고, 실종자들의 무사 귀환을 기도하는 시간을 가졌다. &lt;br&gt;&lt;br&gt;주한 네팔인들은 기도회 장소 한가운데에 네팔 국기 모양에 맞춰 촛불을 설치하고, 각자 직접 촛불을 들었다. 한쪽에는 ‘네팔을 위해 기도해주세요’라고 적힌 현수막도 설치됐다. 이날 기도회는 다종교 국가인 네팔 특성에 맞게 각각 불교·힌두교식으로 약 1시간 반가량 진행됐다. &lt;br&gt;&lt;br&gt;경기 양주시에서 25년째 금속 가공 일을 하고 있는 다와 칼상(53)씨는 이날 기도회 참석을 위해 서울을 찾았다. 그는 고향인 라수와 지역에서 대홍수가 발생해 가족과 지인 다수가 피해를 봤다고 했다. 칼상씨는 “희생자 명단을 봤는데 제가 아는 사람만 200명이 넘었다”며 “인터넷과 전화 모두 터지질 않으니 라수와에 살고 있는 큰형네 가족들이 연락이 되어 걱정된다”고 했다. &lt;br&gt;&lt;br&gt;라수와 지역 다리와 도로가 복구되는 대로 네팔에 갈 생각이라는 칼상씨는 “가족들과 지인들이 최대한 살아 돌아오길 바라는 간절한 마음을 담아 기도했다”고 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CZ6VW465NHYTD3S2VTJQJQJHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 저녁 8시 서울 중구 동대문 디자인 플라자(DDP)에서 주한 네팔인들이 네팔 대홍수 피해를 추모하는 기도회를 열었다./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기도회를 진행한 라마 쿤상 도르제(63) 서울네팔법당 스님도 “네팔은 다민족 다종교 국가라 불자도 있고 힌두교도 있지만 기도회에는 그런 구분 없이 모두가 모여 실종자들의 무사 복귀를 기원했다”며 “희생자들의 극락왕생(極樂往生), 부상자들의 빠른 건강 회복을 바란다”고 했다. &lt;br&gt;&lt;br&gt;한국에 온 지 17년 차로 주한 네팔인협회장을 맡고 있는 파르바티 타망(47)씨는 다행히 네팔에 있는 가족과 지인들은 카투만두 지역에 살고 있어 큰 피해는 없다고 했다. 하지만 타망씨는 “주한 네팔인들 중에도 가족이 피해를 입은 경우가 많아 남 일 같지 않다”며 “실종된 분들이 얼른 가족 품으로 돌아갔으면 하는 마음으로 기도에 임했다”고 했다. &lt;br&gt;&lt;br&gt;기도회 다음 날인 6일 오전에는 서울 종로구 창신동에 있는 서울네팔법당에서 ‘추모 기도회’도 진행됐다. 주한 네팔인 약 40여 명이 모여 실종자들의 무사 귀환을 기원했다. &lt;br&gt;&lt;br&gt;한편 주한 네팔인협회 관계자는 추후 추가적으로 계획된 기도회는 아직 없으며, 개인 차원에서 조용히 기원과 애도를 이어갈 계획이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>귓가에 ‘윙~’ 폭염 가고 찾아온 가을 모기, 한 주 만에 2배 늘어 </title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/09/06/RI5LNIXACVBE3BZ4L6V2CYAOVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/09/06/RI5LNIXACVBE3BZ4L6V2CYAOVI/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 06:07:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26QWX7YUKRF6PBCRPK4P6FU75A.png"&gt;&lt;figcaption&gt;&lt;small&gt;/AI 생성 이미지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염에 한동안 자취를 감췄던 모기가 선선한 가을바람이 불면서 다시 기승을 부리고 있다.&lt;br&gt;&lt;br&gt;6일 질병관리청이 발표한 ’2026년 35주 차 모기 감시 현황’에 따르면, 지난달 24~29일 전국 7개 권역에 설치된 인공지능(AI) 기반 실시간 모기 감시장비에서 집계된 모기 지수는 평균 100.9개체였다. 지난주(53개체) 대비 90% 이상 늘어난 수치다. &lt;br&gt;&lt;br&gt;모기 지수는 감시장비 한 대에서 하루 동안 잡힌 모기의 평균 수를 뜻한다. 질병청이 올해 AI 기반 실시간 모기 감시장비를 도입한 이후 모기 지수가 100마리를 넘어선 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;모기는 보통 기온이 25~30도 안팎일 때 활동과 번식이 가장 활발하다. 한여름 기온이 지나치게 높아지면 활동이 줄어들지만, 폭염이 누그러지고 비가 내려 습도가 높아지면 다시 늘어나는 경향이 있다. 올여름 실시간 모기 지수는 7월 중순부터 낮 최고기온이 40도에 육박했던 8월 초까지만 해도 40~50개체 수준이었다. 그러나 광복절 연휴 무렵 내린 비로 습도가 높아진 데다 최근 아침 최저기온이 25도 안팎으로 떨어지는 등 날씨가 선선해지면서 개체 수가 다시 늘어난 것으로 보인다. &lt;br&gt;&lt;br&gt;모기는 일본뇌염·말라리아 등 감염병을 옮길 수 있어 주의해야 한다. 실제로 올해 35주차 일본뇌염을 옮기는 작은빨간집모기 지수는 102개체로, 전주(68개체) 대비 50% 늘었다. 다만 전년(228개체)보다는 낮은 수준이었다. 말라리아를 옮기는 얼룩날개모기류 지수는 34주차 기준 평균 3.5개체로, 전주(3.6개체)와 비슷했다. &lt;br&gt;&lt;br&gt;보건 당국은 모기가 활발히 활동하는 10월까지는 일몰 이후 야외 활동을 자제할 것을 당부했다. 또한 모기는 어두운색 물체에 더 잘 이끌리는 습성이 있어 야간 외출 때는 밝은색 긴소매 옷을 입고, 노출된 피부에는 모기 기피제를 뿌리는 것이 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/26QWX7YUKRF6PBCRPK4P6FU75A.png?auth=09f8b05513a7e9a78220ddfbe62387aa1510c4c19d5883b08df3717538b21dbd&amp;smart=true&amp;width=1672&amp;height=941" type="image/png" height="941" width="1672">
+        <media:description type="plain">/AI 생성 이미지</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>대구서 뭉티기·막창 먹어볼까… 11월까지 ‘대구 10미(味) 데이’</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/06/R6WXHDEWUBALLJXAYSET4TICNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/06/R6WXHDEWUBALLJXAYSET4TICNM/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 05:37:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OADSI5XTAJFWVGVH6ZO5GQD7JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구의 10가지 대표음식인 대구 10미(味) 중 하나인 동인동찜갈비. 다진 마늘을 익힌 소갈비와 함께 조리한다./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 ‘대구 10미(味) 데이’를 지정해 지역 고유 음식을 알린다.&lt;br&gt;&lt;br&gt;대구시는 9월 10일부터 11월 30일까지 매달 10일·20일·30일을 ‘대구 10미 데이’로 지정한다고 6일 밝혔다. 대구 10미는 대구시를 대표하는 10가지 음식으로, 뭉티기(생고기)·동인동찜갈비·막창구이·복어불고기·논메기매운탕·누른국수·따로국밥·야끼우동·납작만두·무침회로 구성돼 있다.&lt;br&gt;&lt;br&gt;이번 대구 10미 데이에는 대구시 9개 구·군에서 10미를 판매하는 음식점 86곳이 참가한다. 11월까지 매달 10일·20일·30일에 해당 음식점에서 10미 메뉴를 주문할 경우 음식값의 5% 할인 혹은 테이블당 음료 제공 등 혜택을 받을 수 있다.&lt;br&gt;&lt;br&gt;이와 별도로 해당 음식점을 방문한 고객이 매장 내 비치된 QR코드를 통해 식사 후 이벤트 응모를 할 경우 360명을 추첨해 카페·아이스크림 가게·편의점 등에서 쓸 수 있는 1만원 상당의 상품권을 지급한다. 참여 음식점 목록은 대구시에서 운영하는 ‘대구 푸드’ 홈페이지를 통해 확인할 수 있다.&lt;br&gt;&lt;br&gt;노권율 대구시 위생정책과장은 “대구를 대표하는 향토 음식을 보다 친숙하게 접할 수 있도록 마련한 행사”라며 “대구 10미의 매력을 직접 즐기며 대구의 맛과 정취를 느껴보시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 벌 쏘임 환자, 전년 대비 47% 증가</title>
+      <link>https://www.chosun.com/national/regional/2026/09/06/MSVAA65ECZBS3MVC5BZ33OSEU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/06/MSVAA65ECZBS3MVC5BZ33OSEU4/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 04:12:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4DINJTGAYTONZVMNRDCNRRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;벌 쏘임 그래픽 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 1~7월 대구 지역에서 발생한 벌 쏘임 환자가 지난해 같은 기간보다 47.5% 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;6일 대구소방안전본부에 따르면, 지난 1~7월 벌 쏘임으로 119구급대가 이송한 환자는 87명으로, 지난해 같은 기간 59명보다 28명(47.5%) 증가했다. &lt;br&gt;&lt;br&gt;2023년부터 지난해까지 최근 3년간 통계를 보면, 벌 쏘임 이송 환자는 총 588명으로 집계됐으며, 이 중 7월부터 9월 사이에 발생한 환자 수는 전체의 69.9%인 411명을 차지했다. &lt;br&gt;&lt;br&gt;특히 월별로 보면 9월이 평균 53명으로 가장 많았다. 이는 이 시기에 벌초와 성묘 등 야외 활동이 늘어났기 때문으로 소방안전본부 측은 분석했다.&lt;br&gt;&lt;br&gt;벌집 제거 출동 건수도 7~9월에 집중됐다. 최근 3년간 대구 지역 벌집 제거 출동 2만 3996건 가운데 74.2%인 1만 7813건이 이 기간에 발생했다.&lt;br&gt;&lt;br&gt;최근 대구에서는 산책 중 땅벌에 얼굴과 다리 등을 여러 차례 쏘인 시민이 호흡곤란과 전신 두드러기, 심한 저혈압 증상을 보여 구급대의 응급처치를 받고 병원으로 이송되기도 했다고 소방안전본부 측은 밝혔다. &lt;br&gt;&lt;br&gt;대구소방안전본부 관계자는 “벌초 등을 하기 전 주변의 벌집 유무를 충분히 확인하고, 벌집이 보이면 직접 제거하지 말고 119에 신고해 달라”고 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HKCEBCDQNBEFDBQCXQ4N7TCCMA.jpg?auth=353ee6bcdf45e342904394e760321f92d7cea349fe1bcc5dd594900fa85e55b1&amp;smart=true&amp;width=2148&amp;height=1553" type="image/jpeg" height="1553" width="2148">
+        <media:description type="plain">2026년 8월 18일 경기도 남양주시 한공공원삼패지구에서 꿀벌이 활짝 핀 황화코스모스 위에 앉아 있다. /임지훈 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">LIM</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“신축 상가 병원 개원하겠다”… 약속 후 돈 받아 가로챈 병원 관계자들 ‘실형’</title>
+      <link>https://www.chosun.com/national/regional/2026/09/06/YVT62YTJLRGYRDAPCDWY6OF2MU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/06/YVT62YTJLRGYRDAPCDWY6OF2MU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 01:26:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDGOJVGIYTSMZXGNSDQOBSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법 천안지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신축 건물 시행사에 병원 개원을 약속하고 인테리어 비용 명목으로 돈을 받아 가로챈 병원 관계자들에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 천안지원 형사1부(재판장 조영진)는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 기소된 전 병원 행정원장 A씨에게 징역 3년 6개월, 의사 B씨에게 징역 1년을 각각 선고했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2021년 경기 평택시의 한 신축 상가에 병원을 개원할 것을 약속하며 시행사와 임대차 계약을 맺고, 인테리어 공사 지원비 등으로 A씨가 16억여 원, B씨는 2억여 원을 각각 받아 가로챈 혐의로 재판에 넘겨졌다. 평택에서 병원을 운영하던 이들은 건물 신축 때 시행사가 건물 분양가를 높이기 위해 지원금을 주고라도 병원 유치에 노력한다는 점을 악용해 범행을 저질렀다.&lt;br&gt;&lt;br&gt;A씨 등은 상가 시행사 대표에게 “인테리어 비용 등 22억5000만원을 지원해 주면, 건물 3개 층에 다수의 병의원을 개원해 5년 동안 중도 해지 없이 운영하겠다”고 약속했다.&lt;br&gt;&lt;br&gt;하지만 이들은 당시 각각 수십억 원의 빚을 지고 있어 병원을 정상적으로 운영할 능력이 없었다고 한다. 이들은 시행사에서 받은 18억여 원을 대부분 각자의 개인 채무 변제에 사용한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;재판부는 “피해자를 속여 거액을 편취하고 납득할 수 없는 변명으로 책임을 회피해 죄질이 불량하다”며 “피해 회복이 이뤄지지 않은 점과 피해자가 엄벌을 탄원하고 있는 점을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>군 후임 때리고 개인 카톡 훔쳐본 20대… 벌금 500만원 </title>
+      <link>https://www.chosun.com/national/2026/09/06/LRTG3SQ3TJDXFL4LTKLAF537F4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/06/LRTG3SQ3TJDXFL4LTKLAF537F4/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 02:06:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XE2QJZ5IU5CPJGHJKEKGAN6KOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군(軍) 복무 중 아무런 이유 없이 후임병을 상습 폭행하고, 사적인 메신저 대화까지 무단으로 열람해 유포한 20대 남성에게 법원이 벌금형을 내렸다.&lt;br&gt;&lt;br&gt;창원지법 형사7단독 이병호 판사는 폭행과 모욕 등의 혐의로 재판에 넘겨진 A(20대)씨에게 벌금 500만원을 선고했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 경기 양주시에 위치한 한 육군 부대 생활관에서 후임병 B(20대)씨의 손가락 사이에 볼펜을 끼워 돌리거나 주먹으로 손가락 부위를 때리는 등 수차례 폭행한 혐의를 받는다. A씨는 부대원들이 있는 상황에서 B씨에게 “딸○○ 언제 마지막으로 했냐” “앞으로 화장실 갈 때는 보고하고 가라”며 성적인 모욕을 한 혐의도 받는다. &lt;br&gt;&lt;br&gt;A씨는 B씨 동의 없이 그의 휴대전화 속 카카오톡 메신저를 무단 열람하기도 했다. A씨는 대화방에서 선임병들의 이름이나 ‘선임’이라는 단어를 검색해 사적인 대화 내용을 확인한 뒤 이를 다른 동료들에게 발설했다. &lt;br&gt;&lt;br&gt;A씨의 괴롭힘으로 B씨는 극심한 정신적 고통을 겪는 것으로 드러났다.&lt;br&gt;&lt;br&gt;이병호 판사는 “정당한 권한 없이 피해자의 메신저를 무단으로 확인하고 폭행을 일삼은 죄질이 매우 좋지 않다”며 “피해자는 현재도 불면, 불안, 우울증 등으로 틱 증상이 나타나고 있고, 향후에도 지속적인 정신과 상담과 약물 치료가 필요한 상태로 피고인을 용서하지 않고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “다만 피고인이 잘못을 인정하고 반성하는 태도를 보이며 초범인 점 등을 종합적으로 고려했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해경청, 잇따른 해양 사고에 한 달간 ‘해양안전 특별관리’</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/06/SL2IQF5JUBH6NDMDMMO4WHDCUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/06/SL2IQF5JUBH6NDMDMMO4WHDCUA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 01:43:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VFFREHS55KPBNMAIRC2D54SVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장인식 해양경찰청장 직무대행이 지난 5일 인천 연수구 해경청 본청에서 상황회의를 열고 해양사고 예방을 위한 안전관리 강화와 구조 즉응태세 확립을 지시하고 있다. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해양 인명사고가 잇따르자 해양경찰청이 오는 30일까지 ‘해양안전 특별관리 기간’을 운영하기로 했다. &lt;br&gt;&lt;br&gt;해경청은 특별관리 기간 동안 지휘관 중심으로 현장 점검에 나서고, 해경 함정과 구조 장비를 사고 위험 해역에 전진 배치해 운용한다. 또 다중 이용·레저 선박, 어선 밀집 해역을 중심으로 24시간 비상 출동 태세를 유지한다. &lt;br&gt;&lt;br&gt;해경은 이 기간 구명조끼 미착용, 과적·과승, 승선원 미신고 등에 대한 계도와 단속 활동도 벌일 방침이다. &lt;br&gt;&lt;br&gt;앞서 지난 2일 부산 앞바다에선 예인선이 전복돼 6명이 실종되고 1명이 숨졌다. 지난 5일엔 인천 영종도 인근 해상에서 모터보트가 전복돼 승선원 9명 중 2명이 사망하고, 같은 날 경북 울진군 기성면 망양리의 한 해안에서도 수영하던 2명이 사고로 목숨을 잃는 등 인명사고가 잇따르고 있다. &lt;br&gt;&lt;br&gt;장인식 해양경찰청장 직무대행은 “선박에 탑승하거나 연안 활동 시 반드시 구명조끼를 착용해야 한다”며 “바다에서 비상 상황이 발생할 경우 구조 기관에 신속히 구조 요청을 해달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 전복 예인선 닷새째 수색… 실종자 6명 못 찾아</title>
+      <link>https://www.chosun.com/national/regional/2026/09/06/DDPVU5P6JBFK5DN7VMDUB4FPP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/06/DDPVU5P6JBFK5DN7VMDUB4FPP4/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 01:19:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCZBYMQYWIOJRHA3GGZLFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰이 지난 5일 부산 해운대구 송정해수욕장 부근 죽도공원 일원에서 부산 예인선 실종자 6명(내국인 5명, 인도네시아인 1명)을 찾기 위한 육상 및 해안가 수색을 벌이는 모습. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 오륙도 앞바다에서 전복된 예인선 티엔에스캐처호의 실종자 6명을 찾기 위한 수색이 닷새째 이어지고 있으나, 현재까지 실종자를 발견하지 못하고 있다.&lt;br&gt;&lt;br&gt;6일 부산해양경찰서에 따르면, 이날 오전 사고 해역에 함선 6척과 항공기 8대를 투입해 수색 작업을 진행한다. 1000t급 이상 대형 함선이 동원됐다.&lt;br&gt;&lt;br&gt;해경은 가로 65㎞, 세로 31㎞ 구역을 설정하고 집중적으로 해상 수색을 벌일 예정이다. 부산 앞바다에 풍랑주의보가 발효돼 수중 수색이 여전히 어려운 상황이다. &lt;br&gt;&lt;br&gt;현재 사고 해역에는 북동풍이 초속 20~22m, 파도는 3~4m 높이로 일었다. 풍랑주의보는 8일 해제될 것으로 예고됐다. &lt;br&gt;&lt;br&gt;한편 티엔에스캐처호는 지난 2일 오후 1시 29분쯤 오륙도 동쪽 약 9㎞ 해상에서 전복됐다. 선원 8명 가운데 인도네시아인 1명은 구조됐으나 한국인 1명은 의식을 잃은 채 발견돼 숨졌다. 나머지 6명(한국인 5명, 인도네시아인 1명)은 실종됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘영원한 오빠’ 남진과 남극 심해 랍스터를 먹다</title>
       <link>https://www.chosun.com/national/people/2026/09/06/3ZESJTSFARA2RNCCP7IZQ5F4BY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/06/3ZESJTSFARA2RNCCP7IZQ5F4BY/</guid>
@@ -841,30 +920,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3WMZJUMM3TGNRZGVRTEYTGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2025년 9월 15일, 방시혁 하이브 의장이 자본시장법 위반 혐의(사기적 부정거래) 관련 조사를 받기 위해 마포구 서울경찰청 금융범죄수사대에 출석하며 취재진 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 3일 하이브 상장 과정에서 1500억원대 부당 이익을 거둔 혐의를 받는 방시혁 하이브 의장을 검찰에 기소 의견으로 넘겼다. 2024년 12월 입건 전 조사(내사)에 착수한 지 1년 9개월 만이다. &lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 방 의장 등 하이브 경영진 5명을 이날 서울남부지검에 불구속 송치했다. 방 의장은 하이브 상장 과정에서 주주들을 속여 지분을 팔게 하고 차익을 챙긴 혐의(자본시장법상 사기적 부정 거래)를 받는다. 방 의장 등은 이를 통해 2631억원 정도의 이익을 거둔 것으로 경찰은 판단했다. 이 가운데 방 의장이 챙긴 이익은 1568억원으로 전해졌다. 경찰은 2631억원 전액에 대해 법원에서 기소 전 추징 보전 결정을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 방 의장은 2019년 11월부터 하이브(당시 빅히트엔터테인먼트) 주주들에게 “당장 상장할 계획이 없다”며 측근들이 설립한 사모펀드에 주식을 팔도록 설득했다. 하지만 약 1년 후인 2020년 10월 하이브는 상장했고, 이 사모펀드는 2020년 10월과 2021년 5~6월 두 차례에 걸쳐 하이브 주식을 모두 매도했다. 경찰은 방 의장 등이 이렇게 벌어들인 돈 중 기존 주식 매입 비용 등을 제외한 금액을 나눠 가진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;하이브의 이런 계획을 주도한 것으로 알려진 김모 전 하이브 최고투자책임자(CIO)는 지난해 6월 경찰의 압수수색 직전에 미국으로 출국해 돌아오지 않고 있다. 경찰은 김씨에 대해 법원에서 체포영장을 발부받아 인터폴에 적색 수배를 요청했다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 2024년 11월 언론 보도로 이 사건이 알려지자 2024년 12월 내사에 들어갔고 지난해 5월 정식 수사로 전환했다. 이후 지난해 7월 서울 용산구 하이브 본사를 압수수색했고 9~11월에는 방 의장을 다섯 차례 소환 조사했다. &lt;br&gt;&lt;br&gt;경찰은 지난 4월 방 의장에 대한 구속영장을 두 차례 신청했지만 검찰은 이를 모두 반려했다. 경찰 관계자는 “당시 피의자들의 범죄 행위에 대해선 이견이 없었다”면서 “구속영장이 두 차례 반려된 상황에서 다시 신청해도 받아들여질 가능성이 낮다고 보고 불구속 송치했다”고 했다. 방 의장 측 변호인단은 이날 “제기된 내용에 대해 객관적인 자료와 근거를 바탕으로 일관되게 소명해 왔다”며 “향후 절차를 통해 의혹이 투명하게 해소될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“산단에 태양광 구축… 1인당 연 100만원 에너지 연금”</title>
-      <link>https://www.chosun.com/national/2026/09/04/DGZQSD2VKVDBZORBTBT47QUCVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/04/DGZQSD2VKVDBZORBTBT47QUCVY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXYCEPLPO5FYHCLB54IBHKSYDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기윤 창원시장. /창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강기윤(66) 경남 창원시장은 3일 본지와 인터뷰에서 “산업단지 공장 지붕에 태양광 설비를 짓고 해상 풍력 단지를 조성해 제조업 도시 창원을 ‘청정에너지 수도’로 바꾸겠다”고 했다. 강 시장은 장기적으로 재생에너지 수익을 근로자와 나누는 ‘에너지 복지 연금’도 도입하겠다고 했다. 강 시장은 기업인 출신으로 재선 국회의원과 한국남동발전 사장을 지냈다. 지난 6·3 지방선거에서 국민의힘 후보로 출마해 당선했다.&lt;br&gt;&lt;br&gt;-청정에너지 수도란 개념이 뭔가. &lt;br&gt;&lt;br&gt;“창원에는 기계·방산·원전 등 제조업체가 많다. 대부분 수출 기업이다. 앞으로 선진국에 수출하려면 국제적인 탄소 규제를 뚫어야 한다. 창원 기업이 수출 경쟁력을 유지하려면 재생에너지 전환은 필수다.”&lt;br&gt;&lt;br&gt;-어떻게 추진하나.&lt;br&gt;&lt;br&gt;“태양광부터 늘리겠다. 우선 마산자유무역지역과 봉암공단의 공장 지붕을 활용해 2029년까지 12.3MW 규모의 태양광 설비를 구축할 계획이다. 총 320억원을 투자한다. 정부와 창원시, 기업이 분담한다. 최근 설명회를 했는데 업체들 반응이 좋았다. 전기료 부담도 덜 수 있을 것으로 기대한다.”&lt;br&gt;&lt;br&gt;-에너지 연금은 무엇인가.&lt;br&gt;&lt;br&gt;“발전 수익을 근로자에게 돌려주자는 것이다. 앞으로 재생에너지 사업을 해상풍력, 수소에너지 등으로 확대할 계획이다. 장기적으로 경제활동인구(50만명) 1인당 연 100만원을 연금으로 지급하는 것을 목표로 한다.” &lt;br&gt;&lt;br&gt;-‘기업 하기 좋은 도시’를 선언했다.&lt;br&gt;&lt;br&gt;“이달부터 ‘1직원 1사 전담제’를 시행한다. 7급 이상 공무원 2200명이 지역 기업 4200곳을 맡는다. 일부 직원은 2~3곳을 전담한다. 월 1회 이상 전화하거나 현장을 찾아 기업의 애로 사항을 챙긴다. 접수한 민원은 관련 부서에 연결해 바로 처리한다.” &lt;br&gt;&lt;br&gt;-정부가 해군사관학교 이전을 추진한다.&lt;br&gt;&lt;br&gt;“해군사관학교를 대전으로 옮겨 육사·공사와 통합한다고 한다. 정부의 일방적인 이전에 반대한다. 아무리 국가 정책이라도 지역 사회와 충분한 소통도 없이 추진하는 건 받아들일 수 없다. 진해에 있는 해군사관학교는 진해의 역사와 정체성이 담긴 곳이다. 지역 경제에 미치는 영향도 크다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2040까지 번진 ‘파크골프 열풍’… 지자체장 절반이 “구장 짓겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/04/MQ3Z46D7FVE2FPOK4K5ZFWTFVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/04/MQ3Z46D7FVE2FPOK4K5ZFWTFVA/</guid>
-      <dc:creator>오유진 기자, 인천=이현준 기자, 화천=정성원 기자, 청양=김석모 기자, 전남광주=진창일 기자, 용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSNVB6RUJRHDFEPJBXZLL3I3VA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 서울 마포구 월드컵공원 파크골프장을 찾은 동호인들이 파크골프를 치기 위해 이동하고 있다. 파크골프 인기가 치솟자 서울시는 지난 1일 월드컵공원에 제2파크골프장을 추가로 열었다. /임지훈 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2일 오전 8시 인천 연수구 송도파크골프장. 온라인 예약에 실패한 40여 명이 현장 표를 구하려고 줄을 섰다. 손경래(75)씨는 “온라인 예약이 열리자마자 클릭했는데도 대기자가 7000명이나 돼 실패했다”며 “로또도 아니고 직접 나왔다”고 했다. 인천시는 월요일마다 일주일 치 이용권의 60%를 온라인으로 판매하는데 예약이 시작되면 2~3분 만에 모두 매진된다고 한다. 지난 1일 문을 연 서울 마포구 월드컵공원 제2파크골프장도 온라인 예약에 3650명이 몰려 2분 21초 만에 표가 매진됐다. &lt;br&gt;&lt;br&gt;파크골프 인기가 치솟으면서 전국 곳곳에서 ‘신풍속도’가 생겨나고 있다. 전국 유명 파크골프장과 주변 관광지를 묶은 ‘원정 투어’ 상품도 등장했다. 지난달 26일 한 온라인 커뮤니티엔 원정 투어 참가자를 모집하는 글이 올라왔다. 참가비는 1만9000원으로 세 끼 식사와 관광버스 요금이 포함됐다. 이 커뮤니티엔 이런 모집 글이 일주일에 20여 개씩 올라온다.&lt;br&gt;&lt;br&gt;충남 청양군은 다음 달부터 ‘파크골프 in 청양’ 관광 열차를 운영한다. 서울역에서 열차를 타고 조치원역에 내린 뒤 관광버스로 칠갑타워 등을 둘러보고 파크골프를 즐기는 일정이다. 전남광주시는 지난 7월 여행사 4곳을 뽑아 ‘파크골프 패키지 상품’을 출시했다. 수도권 파크골프 관광객을 데려오면 여행사에 관광객 1인당 2만원씩 인센티브를 준다.&lt;br&gt;&lt;br&gt;지방자치단체들이 잇따라 파크골프 상품을 개발하는 건 지역 경제에 도움이 된다고 보기 때문이다. 강원 화천군은 매년 5번 전국 대회를 열어 파크골프 동호인을 끌어모으고 있다. 2021년 이후 5년간 200만명이 파크골프를 치기 위해 화천을 찾았다. 화천 인구(2만3000명)의 87배다. 화천군 관계자는 “군 부대가 빠져나간 자리를 파크골프 동호인들이 메워주고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4SSHA4DFFD5BL6QD7PUO4SXJI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇요즘엔 2040도 파크골프&lt;/b&gt;&lt;br&gt;&lt;br&gt;파크골프 동호인의 연령대도 낮아지고 있다. 대한파크골프협회가 ‘2025 프로파크골프 대회’에 출전한 동호인 718명을 분석해보니 20~40대가 22%였다. 협회 관계자는 “골프에 관심을 보였던 20~40대가 비용 부담이 적고 손쉽게 칠 수 있는 파크골프로 옮겨오는 것 같다”고 했다. 파크골프는 골프와 달리 골프채 1개만 있으면 된다. 이용료도 5000원 안팎이다. 서울 영등포구에 사는 이모(27)씨는 “부모님 온라인 예약을 대신 잡아드리다가 요즘은 온 가족이 함께 파크골프를 치러 간다”고 했다.&lt;br&gt;&lt;br&gt;전국 대학에 개설된 파크골프 관련 학과는 46개다. 조진석 대구 영진전문대 파크골프경영학과장은 “파크골프가 하나의 레저스포츠 산업으로 자리를 잡으면서 스크린 파크골프장 창업 등에 관심을 갖는 학생이 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇매립장·고가 밑·폐역까지 찾아간다&lt;/b&gt;&lt;br&gt;&lt;br&gt;지자체들은 앞다퉈 파크골프장을 짓고 있다. 지난 6·3 지방선거에서 당선된 지자체장 243명 중 130명(53%)이 파크골프장을 조성하겠다는 공약을 내걸었다. 지자체장들은 “실내 체육관 하나 지으면 150억~300억원이 들지만 파크골프장은 9홀 기준 3억~10억원에 조성할 수 있어 가성비가 좋다”고 했다.&lt;br&gt;&lt;br&gt;문제는 땅이다. 파크골프장을 짓는 데 적어도 1만㎡의 터가 필요하기 때문이다. &lt;br&gt;&lt;br&gt;경기 용인시는 올 7월 기흥구 하갈2교 고가 아래에 파크골프장을 열었다. 처인구 원삼 폐수처리장에는 덮개를 씌우고 그 위에 9홀 규모의 파크골프장을 만들 계획이다. 용인시 관계자는 “동호인은 빠르게 늘고 있는데 수도권에는 파크골프장을 지을 땅이 마땅치 않다”며 “주민 민원이 빗발쳐 자투리 땅을 계속 찾고 있다”고 했다. &lt;br&gt;&lt;br&gt;울산시는 남구 옛 쓰레기 매립장 부지에 97억원을 들여 파크골프장을 짓고 있다. 울산시 관계자는 “파크골프장을 지어달라는 민원이 많아 고민하다 옛 쓰레기 매립장까지 찾게 됐다”고 했다.&lt;br&gt;&lt;br&gt;경남 사천시는 지난달 27일 경전선 옛 다솔사역 일대에 37억원을 들여 파크골프장을 조성했다. 2016년 역이 문을 닫은 뒤 방치됐던 땅이다.&lt;br&gt;&lt;br&gt;파크골프장을 둘러싸고 주민 갈등도 생기고 있다. 충북 제천시 신월동의 파크골프장은 올 12월 개장 4년 만에 문을 닫는다. 인근 아파트 주민들이 “공 치는 소리가 너무 시끄럽다”고 항의해서다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KSNVB6RUJRHDFEPJBXZLL3I3VA.jpg?auth=d7e1c533189128539353230b6a798401bfcf6af9cfed7e16700fd0002d4c3a5b&amp;smart=true&amp;width=4000&amp;height=2666" type="image/jpeg" height="2666" width="4000">
-        <media:description type="plain">3일 오후 서울 마포구 월드컵공원 파크골프장을 찾은 동호인들이 파크골프를 치기 위해 이동하고 있다. 파크골프 인기가 치솟자 서울시는 지난 1일 월드컵공원에 제2파크골프장을 추가로 열었다. /임지훈 기자
-</media:description>
-        <media:credit role="author" scheme="urn:ebu">LIM</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>亞게임 단장 이상현 “선수단 1052명 모두 주인공으로 빛나길”</title>
       <link>https://www.chosun.com/national/people/2026/09/04/LEJNOBCLXRHGPLBQMRCN6BFYIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/04/LEJNOBCLXRHGPLBQMRCN6BFYIA/</guid>
@@ -872,64 +927,6 @@
       <description/>
       <pubDate>Thu, 03 Sep 2026 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GV3HWBP6ZNHINMOPC7QD7H3DLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상현 아이치 나고야 아시안게임 선수단장이 밝게 웃으며 포즈를 취했다. /대한체육회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아시안게임에서 선전을 펼쳐 1052명 선수단 모두가 주인공으로 빛나길 바랍니다.”&lt;br&gt;&lt;br&gt;이상현(49) 아이치 나고야 아시안게임 선수단장은 요즘 ‘홍보맨’을 자처하며 충북 진천 국가대표 선수촌과 서울 각지를 바쁘게 뛰어다닌다. 41개 출전 종목 대표팀을 찾아다니며 애로 사항을 듣고, 체육계 관계자는 물론 정관계 인사와 타국 외교관까지 만나 관심과 지원을 호소하는 일로 쉴 틈이 없다고 한다. 대한사이클연맹 회장인 그는 2023년 항저우 아시안게임과 2024년 파리 올림픽에선 부단장으로 선수들을 지원했다. &lt;br&gt;&lt;br&gt;선수단을 아우르는 ‘선장’이 된 만큼 이번 대회에 임하는 각오가 남다르다. 단장직을 맡은 순간부터 선수단 전체는 물론 국민들까지 한뜻으로 대회를 치르자는 의미로 ‘팀 코리아’ 마인드를 강조하고 있다. 그는 “나부터 선수단 안팎에 대해 빠삭하게 꿰고 있어야 하기 때문에 종목별 특성과 규칙을 공부하는 데 시간을 쏟고 있다”며 “출국 전까지 소외되는 종목이 없도록 가능한 한 많은 선수를 만나는 게 목표”라고 말했다. 지난 7월에는 자신이 대표로 있는 태인을 통해 선수단에 격려금 2억원을 전달한 뒤, “가급적 균등하게 선수단 모두가 혜택을 받을 수 있으면 좋겠다”는 바람도 전했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU7MI3PI4BAMLPGXBBVPE6FHPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 올림픽회관에서 인터뷰를 하고 있는 이상현 아이치 나고야 아시안게임 선수단장. /대한체육회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 단장은 “아시안게임은 올림픽보다 선수단 규모가 더 큰 국제 스포츠 행사인데, 상대적으로 관심도가 덜해 선수단 사기가 떨어질까 걱정스럽다”며 “메달을 따는 선수 외에도 코칭 스태프와 지원 인력들까지 함께 빛날 수 있는 아이디어를 짜내고 있다”고 했다. 실제 그는 이번 대회를 앞두고 처음으로 ‘지도자 출정식’도 개최했다. 선수뿐 아니라 이들을 지원하는 이들도 조명받길 바라는 마음이었다고 한다. 대회를 앞두고 ‘1052’란 숫자를 강조하는 것도 그런 이유다. 파견 선수 전체 인원 792명에 지도자와 지원 스태프까지 모두 더한 인원 1052명이다. &lt;br&gt;&lt;br&gt;이 단장은 “아시안게임이 국민들이 미처 몰랐던 재미를 알아가는 계기가 되길 바란다”고 말했다. 자신이 가라테 선수단을 만나러 갔을 때 일을 언급하며 “현장에서 처음 봤는데 굉장히 박진감이 넘치는 종목이더라. 같은 재미를 느껴서 여러 생활 체육에 대한 관심도 함께 커지는 대회가 됐으면 좋겠다”고도 했다. 이렇게 접한 종목을 직접 해보는 사람이 늘어, 궁극적으로 다양한 스포츠 전반의 활력이 살아나는 게 이 단장의 바람이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AENAP636MVBJXOUS4MZJ5MCB3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상현 아이치 나고야 아시안게임 선수단장이 남자 하키 대표팀 선수단과 기념 촬영을 했다. /대한체육회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단체 구기 종목은 최근 국제 대회 부진에도 불구하고 여전히 국민 관심도가 높다. 이 단장은 “농구, 축구, 배구 등 전통적인 인기 종목도 침체된 분위기를 반전시킬 기회”라며 “이번 대회를 통해 선전해서 다시 국민에게 기쁨을 줬으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;이번 아시안게임엔 북한도 남녀 축구와 역도, 레슬링 등 14종목에 100여 명을 파견한다. 그는 “남북 관계에도 신경을 많이 쓴다”며 “스포츠 분야에선 냉랭한 관계가 조금은 부드러워질 수 있지 않을까 생각한다”고 말했다. 그는 “어떤 종목에서 만나든 각자 경기 자체에 집중해 치열하게 대결하다 보면 자연스레 멋진 장면이 연출될 것”이라며 “그렇게 스포츠에서만 볼 수 있는 아름다운 모습을 발견할 수 있을 것이라 생각한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/09/04/O2WOEC2LSZAMNHOSLCR7VPTAOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/09/04/O2WOEC2LSZAMNHOSLCR7VPTAOE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:42:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXRR3XNF4FB35JTTJ2OWLW2E3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-9-4일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 28일 ‘우리 아기가 태어났어요’ 코너에 실린 석수호&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 이정순 前 월간 디플로머시 발행인 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/04/EWL4TLE6CNCGLIKJYH7UG52YZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/04/EWL4TLE6CNCGLIKJYH7UG52YZE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;이정순&lt;/b&gt; 前 월간 디플로머시 발행인 별세, &lt;b&gt;임종국&lt;/b&gt;·&lt;b&gt;임진경&lt;/b&gt;·&lt;b&gt;임종덕&lt;/b&gt;·&lt;b&gt;임종명&lt;/b&gt; 모친상, &lt;b&gt;이내성&lt;/b&gt; 장모상=2일16시59분 신촌세브란스병원, 발인 4일10시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정복자&lt;/b&gt; 별세, &lt;b&gt;이경철&lt;/b&gt; 대도금속 회장 아내상, &lt;b&gt;고혜성&lt;/b&gt; 대도금속 전무·&lt;b&gt;서정훈&lt;/b&gt; 코어랩 대표 장모상=2일5시48분 서울아산병원, 발인 4일6시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황호직&lt;/b&gt; 前 한국정기간행물협동조합 이사장 별세, &lt;b&gt;황은실&lt;/b&gt; 前 한국열린사이버대 상담학과 특임교수·&lt;b&gt;황은숙&lt;/b&gt; 한국한부모가정사랑회 회장 부친상=1일22시44분 서울아산병원, 발인 4일7시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울에 뿌린 동전 1만6000개, 줍는 순간 작품이 된다</title>
-      <link>https://www.chosun.com/national/people/2026/09/04/LHLNYON5BREURGMBZJ2SGGD4GY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/04/LHLNYON5BREURGMBZJ2SGGD4GY/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUKA4CYZ2FHNLI7HZKUS256NSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 코엑스에서 열린 프리즈 서울에서 만난 라이언 갠더는 “미술은 접근 가능하지 않으면 무의미하고, 시적이지 않고 철학이 없어도 무의미하다”며 “사람의 관심을 끄는 것과 인간이란 무엇인지 깊게 질문하게 하는 것 사이에서 균형을 잡는 게 작가에게 가장 어려운 일”이라고 했다. /임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영국 작가 라이언 갠더(50)가 2일 글로벌 아트페어 ‘프리즈 서울’에서 자신의 작품이 전시된 서울 삼성동 코엑스의 갤러리 부스에 들어서자 사람들이 몰려들었다. 휴대전화를 내밀어 자신이 찾아낸 동전 사진을 보여주고, 함께 사진을 찍자는 요청도 이어졌다. 수억, 수십억 원짜리 작품이 거래되는 미술 장터에서 관객들은 돈처럼 생겼지만 돈으로는 쓸 수 없는 ‘동전 찾기’에 열광했다.&lt;br&gt;&lt;br&gt;이 동전은 갠더의 공공미술 프로젝트 ‘더 파인드 서울’에 쓰인다. 프리즈 라이브의 일환으로 지난달 31일부터 10일까지 을지로와 한남동, 청담동, 삼청동, 코엑스 일대에 특별 제작한 동전 1만6000개를 숨겨 놓았다. 발견한 사람이 ‘임자’다. 2023년 영국 맨체스터에서 시작해 스페인 카세레스, 일본 오카야마를 거쳐 서울이 네 번째 도시다.&lt;br&gt;&lt;br&gt;최근 파이낸셜타임스(FT)는 갠더를 “관습적인 작품 형식을 거부하고 관객에게 놀라움과 호기심을 불러일으키는 작가”로 소개했다. 갠더에게 왜 하필 동전이냐고 묻자 인간의 ‘까치 본능’을 꺼냈다. “까치가 반짝이는 물건에 끌리듯 사람도 반짝이는 것을 보면 가치가 있다고 생각해 집어 듭니다. 돈이라는 기호에 얼마나 민감하게 반응하는지를 이용한 거죠.”&lt;br&gt;&lt;br&gt;세 종류의 동전 양면에는 ‘멈춤·행동(Pause·Action)’, ‘말하기·듣기(Speak·Listen)’, ‘혼자·함께(Solo·Together)’처럼 반대되는 단어가 새겨져 있다. 각각 시간과 관심, 함께하는 삶을 뜻한다. 그는 “이 세 가지가 돈보다 더 큰 가치”라고 했다. 돈에 대한 생각이 달라진 것은 큰아이가 열 살쯤 됐을 때다. “가족이 생기면서 돈을 버는 데 관심이 많아졌어요. 그런데 아이가 너무 빨리 자라는 것을 보면서 시간이 돈보다 더 값지다는 걸 깨달았습니다.”&lt;br&gt;&lt;br&gt;도시마다 반응도 천차만별이다. 맨체스터에서는 동전을 여러 개 모아 이베이에 파는 사람이 등장했다. 반대로 일본 오카야마에서는 동전을 가져가는 것을 도둑질처럼 여겨 경찰서에 갖다 주는 사람이 있었다. 서울에서는 동전 다섯 개를 발견한 사람이 세 종류만 갖고 나머지 두 개를 다시 내려놓는 모습을 봤다고 했다. “다른 사람이 발견하라고 돌려놓는 거죠. 그런 배려가 한국적으로 느껴졌습니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSVYC7RQWRGAFDUDXYXOL7DLEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'더 파인드 서울'에 스인 동전의 모습. /라이언 갠더&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갠더는 동전 자체를 작품이라고 여기지 않는다. “사람들이 동전을 발견하는 것, 바로 그것이 작품”이라고 했다. 중요한 관람객도 미술 애호가가 아니라 오히려 미술을 모르거나 좋아하지 않는 사람이다. “미술을 엘리트적이고 어렵다고 생각하던 사람도 이 동전을 주우면 우연히 미술 수집가가 됩니다. 미술이 모두를 위한 것은 아닐 수 있지만 누구에게나 열려 있을 수는 있습니다.”&lt;br&gt;&lt;br&gt;수억 원을 훌쩍 넘는 작품들이 수시로 거래되는 프리즈 기간, 갠더는 거꾸로 가격 없는 동전을 서울에 뿌렸다. 동전의 금전적 가치를 지운 자리에 경험과 기억이라는 다른 가치를 집어넣었다. 그는 “프리즈에 걸린 작품들은 중요하지 않다”며 “미술의 목적은 현상 유지에 도전하고 변화와 차이를 만드는 것”이라고 했다. 그는 현대미술을 오마카세와 맥도날드에 빗댔다. 무엇이 나올지 모르지만 셰프를 믿고 새로운 경험을 하는 ‘오마카세 같은 미술’과 가격과 맛, 결과를 예상할 수 있는 ‘맥도날드 같은 미술’이 있다는 것이다. “사람은 도전받고 배우면서 성장합니다. 물론 편안함을 원하는 것도 이해해요. 하지만 저는 사람을 변화시키는 쪽의 예술에 관심이 있습니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박진 前 장관·本紙 이하원 기자 등 7명 ‘통일문화대상’</title>
-      <link>https://www.chosun.com/national/people/2026/09/04/46ZC2DZW2JFADGDBTNRA2TLBMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/04/46ZC2DZW2JFADGDBTNRA2TLBMU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BODR462TBFFPLOY4QSIC5MN6J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일문화연구원
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박진 전 외교부 장관이 3일 통일문화연구원(이사장 라종억)과 매일경제(회장 장대환)가 수여하는 ‘제19회 통일문화대상’을 받았다. 박 전 장관은 한국의 위상을 높이고 통일 외교의 기반을 마련하는 데 이바지한 공로를 인정받았다. 앞줄 왼쪽부터 문화 부문 수상자 조남규 대한무용협회 이사장·유정숙 용인시립예술단장·김완호 대한정형외과의사회장, 박 전 장관, 언론 부문 수상자 박종현 한국기자협회장·이하원 조선일보 외교안보 에디터·신형철 한겨레 기자.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 권희진·시민수 딸 유현 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/09/04/NS5UE4J45BG55MSIXMN3JOLQAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/09/04/NS5UE4J45BG55MSIXMN3JOLQAU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QLDULEDZRAZHFSGYIGSSFP6LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세 아들 뛰어노는 제주도… ‘제2의 고향’ 삼았죠</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/09/04/ME7BNUUTSFHLXKJOTEVCZGCNHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/09/04/ME7BNUUTSFHLXKJOTEVCZGCNHA/</guid>
-      <dc:creator>제주=박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Sep 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BH52W3SCB5GIVDKZTQVIGFLZLU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 오후 제주 서귀포시 국립기상과학원 내 ‘멘도롱 일터’에서 조정훈 기상과학원 연구관 가족이 활짝 웃고 있다. 멘도롱 일터는 직원들이 업무를 보면서 아이도 돌볼 수 있도록 놀이방처럼 꾸민 공간이다. 왼쪽부터 아내 김희진씨, 하민·이솔, 조 연구관, 유준. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“꼭 태어난 곳만 고향이란 법 있나요? 제주에서 아들 셋 낳고, 집도 지었으니 이제 우리 식구에겐 이곳이 ‘제 2의 고향’입니다.”&lt;br&gt;&lt;br&gt;2014년 서울 동작구 기상청사에 있던 국립기상과학원이 제주 서귀포로 터를 옮겼다. 도심 한가운데서 태풍을 가장 먼저 맞이하는 남쪽 끝으로 직장 주소가 바뀌었다. 과학원 소속 연구원들의 직장도 서울에서 제주로 옮겨갔다. 연구직 공무원 조정훈(48)씨도 그중 한 명이었다. 문제는 사귄 지 얼마 안 된 10살 연하 여자친구를 두고 가야 하는 것. 1년 반 정도 서울과 제주를 오가며 장거리 연애를 이어 오던 이들은 2017년 결단을 내렸다. 결혼하고 제주에서 살기로 한 것이다. 조씨는 “처음 제주행을 결정했을 때만 해도 이렇게 뿌리를 내릴 줄은 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;조정훈·김화진(38) 부부는 제주에서 세 아들을 낳아 키우고 있다. 서울에서 일하던 아내 김씨가 결혼 후 제주의 한 민간 연구소에 취업하면서 9년째 맞벌이 중이다.&lt;br&gt;&lt;br&gt;맞벌이에 아무 연고도 없다 보니 부모·형제보다 제주에 살면서 알게 된 사람들의 도움을 받을 때가 더 많다. 부부는 제주에 살면서 가장 힘들었던 순간으로 2022년 셋째 이솔(4)이 태어났을 때를 꼽았다. 둘째 유준(7)이 태어났던 2019년, 장모님이 출산 예정일에 맞춰 제주에 내려와 첫째 하민(8)을 봐줬다고 한다. 셋째가 태어날 때도 둘째 때처럼 준비하면 되겠다고 생각했지만 오산이었다. 출산 예정일을 열흘 앞두고 새벽 3시에 진통이 온 것이다. 아내 김씨는 “진통보다도 당장 아이 맡길 곳이 없어 눈앞이 캄캄해졌다”고 했다. “둘째 출산 때 알게 된 지인이 ‘혹시라도 새벽에 진통이 시작되면 연락하라’는 말을 한 적이 있어 실례를 무릅쓰고 전화를 걸었어요. 흔쾌히 집까지 오셔서 아이들을 봐주셨고, 그 사이에 병원에 가 출산할 수 있었어요.”&lt;br&gt;&lt;br&gt;부부가 처음부터 세 아이를 계획했던 것은 아니었다. 그런데 ‘제주’라는 환경이 생각을 바꾸게 만들었다. 아이들은 집 가까이 있는 오름에 올라 뛰어놀고, 바닷가에서는 모래놀이를 하거나 소라게와 조개를 주우며 자랐다. 서귀포는 일 년 내내 날씨가 따뜻해 야외에서 뛰어놀 수 있는 시간도 많다. 남편 조씨는 “우리 부부 모두 형제가 있고 성인이 된 지금도 힘들 때 서로 의지하고 있어 적어도 두 명은 낳고 싶다고 생각했었다”며 “첫째, 둘째를 키우면서 제주의 자연이 아이들을 키우기 좋은 환경이라는 생각이 들어 셋째까지 결심하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;가족·친척의 빈자리를 채워준 건 직장 동료와 주변 사람들이었다. 기상과학원에는 조씨처럼 제주에 연고가 아예 없는 직원이 많다. 육아 시간을 쓰는 데 관대한 분위기가 형성돼 있고, 과학원 차원에서도 젊은 연구원들의 이탈을 막기 위해 육아휴직이나 휴가를 장려하고 있다. 작년 초엔 방학 때 아이 맡길 곳이 없는 직원들이 자녀와 함께 출근할 수 있도록 청사 안에 ‘맨도롱 일터’라는 돌봄방도 만들었다. 남편 조씨는 “제주에 내려와 결혼 생활을 하면서도 ‘아이를 낳아 키울 수 있을까’ 하는 불안감이 있었는데, 이런 배려와 이해 덕분에 큰 어려움 없이 육아를 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;제주에 완전히 정착한 것은 집을 짓게 되면서다. 공무원 임대주택 거주 기간이 3년 정도 남았을 때 이사할 집을 찾던 부부는 아파트와 단독주택을 보러 다녔지만 마음에 드는 곳을 찾지 못했다. 그러다 남편 조씨가 아내에게 농담처럼 “뛰어놀기 좋아하는 아이들을 위해 그냥 땅을 사서 집을 지어보는 건 어떨까?”라고 제안했다. &lt;br&gt;&lt;br&gt;땅을 사면 제주에 뿌리를 내리는 것이기에 부부의 고민은 깊어졌다. 하지만 뛰어노는 걸 좋아하는 첫째, 둘째를 보며 결심을 굳혔다. 마음에 드는 땅을 샀고, 셋째를 임신한 상태에서 본격적인 집 설계에 들어갔다. 자재비가 급증하면서 집 짓기를 포기할 뻔한 순간도 있었지만 결국 원하던 모습으로 집을 완성했다. “우리 집 얼마나 지어졌나 볼까?” 공사 기간 동안 부부는 퇴근 후 아이들과 함께 매일 공사 현장을 찾았다고 한다.&lt;br&gt;&lt;br&gt;“지금은 봄이면 마당에 아이들이 고른 꽃을 심고, 여름에는 간이 수영장과 에어바운스를 펼치고, 가을에는 텐트를 쳐 캠핑하고, 겨울에는 눈사람을 만들며 지내요. 우연히 내려오게 된 제주가 이제는 세 아이가 자라고 우리 부부가 직접 지은 집이 있는 ‘고향’이 된 거죠.” 부부는 “적어도 아이들이 다 커서 대학에 가기 전까진 제주가 우리 가족의 터전”이라고 했다.&lt;br&gt;&lt;br&gt;물론 제주살이의 단점도 있다. 첫째와 둘째는 요즘 큐브를 빨리 맞추는 ‘스피드 큐빙’에 빠져 있다. 아이들이 관련 자격증을 따고 싶어 하는데 제주엔 이를 발급해주는 곳이 없다고 한다. 서울과 달리 영화나 연극, 뮤지컬 같은 문화생활 접근성이 떨어지는 것도 아이를 키우면서 아쉬운 부분이라고 한다.&lt;br&gt;&lt;br&gt;하지만 부부는 “제주라는 지리적 한계 때문에 제주살이를 걱정할 필요는 없는 것 같다. 그 이상의 만족감과 행복감이 있다”고 했다. 남편 조씨는 “특히 국립기상과학원이 제주에 있다 보니 젊은 연구원들이 지원을 망설이는 경우가 많다고 들었다”며 “낯선 곳에서 아이까지 키울 수 있을까 하는 부담 때문에 주저한다면 그런 걱정을 조금 내려놔도 될 것 같다”고 했다. 그는 “연고지 아닌 곳에서 아이를 키우는 게 분명 쉽지 않은 일이지만, 같은 고민을 하는 동료와 이웃이 있다. 그런 사람들과 함께 제주라는 좋은 환경에서 자녀를 키우는 것은 그 이상의 가치가 있다”고 덧붙였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BH52W3SCB5GIVDKZTQVIGFLZLU.png?auth=b064031a0e3208fe026e7c062c5395b5633c9c4fd92b84840d5497fe74e79a59&amp;smart=true&amp;width=675&amp;height=713" type="image/png" height="713" width="675">
-        <media:description type="plain">지난달 31일 오후 제주 서귀포시 국립기상과학원 내 ‘멘도롱 일터’에서 조정훈 기상과학원 연구관 가족이 활짝 웃고 있다. 멘도롱 일터는 직원들이 업무를 보면서 아이도 돌볼 수 있도록 놀이방처럼 꾸민 공간이다. 왼쪽부터 아내 김희진씨, 하민·이솔, 조 연구관, 유준. /박상현 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 9월 4일</title>
