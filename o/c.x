@@ -13,6 +13,106 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내일 아침 최저 12도까지 뚝... “출근길 쌀쌀, 겉옷 챙기세요” </title>
+      <link>https://www.chosun.com/national/transport-environment/2026/09/07/Q4YWFMCLFVGEDBGATUG26ZTJ54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/09/07/Q4YWFMCLFVGEDBGATUG26ZTJ54/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 12:44:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5BWR4BZA5JNHL3MHCXPHJNJH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 용산구 국립중앙박물관에서 바라본 가을 하늘. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화요일인 8일 아침 기온이 일부 지역에서 12도까지 떨어지는 등 선선한 가을 날씨가 이어지겠다. 동해안과 경북권에는 늦은 오후부터 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;7일 기상청에 따르면 8일 아침 최저기온은 12~21도, 낮 최고기온은 24~31도로 예상된다. 아침 기온은 평년보다 다소 낮고, 낮 기온은 평년과 비슷한 수준을 보이겠다.&lt;br&gt;&lt;br&gt;한반도 북쪽에 고기압, 남쪽에 저기압이 자리하는 ‘북고남저’ 형태의 기압계가 이어지면서 내륙을 비롯한 대부분 지역은 대체로 맑겠다. 다만 고기압 가장자리를 따라 동풍이 유입되는 동해안은 구름이 많고 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;비는 8일 늦은 오후 강원 북부 동해안과 산지에서 시작해 밤에는 강원 동해안·산지와 경북 북부 동해안·북동 산지로 확대되겠다. 8~9일 예상 강수량은 강원 산지 5~40㎜, 강원 동해안 5~20㎜, 경북 북부 동해안·북동 산지 5~10㎜다. 울릉도·독도에는 5㎜ 미만의 비가 내리겠다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PPVB3STJWBEJZI736ETZ3ESC6M.JPG?auth=2f547b21f91113b91df69fec35ac0a8af77db9bf5ba691541c17d21b126c0372&amp;smart=true&amp;width=3353&amp;height=1886" type="image/jpeg" height="1886" width="3353">
+        <media:description type="plain">화창한 초가을 날씨를 보인 4일 서울 용산구 국립중앙박물관 위로 파란 하늘이 펼쳐져 있다. 2026.9.4 ⓒ 뉴스1 이종수 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>퇴근길 날벼락… 전력 문제로 멈춰선 대구 3호선에 시민들 ‘발 동동’ </title>
+      <link>https://www.chosun.com/national/2026/09/07/7SHT6ADTPVFGTCPF36DOCBR4NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/07/7SHT6ADTPVFGTCPF36DOCBR4NA/</guid>
+      <dc:creator>김준호 기자, 대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 12:13:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THQSLI54P5XD7XQ63X2CCPE3AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구도시철도 3호선. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후 퇴근 시간대 대구 도시철도 3호선에서 전력 공급이 끊겨 열차 운행이 중단되는 사태가 발생했다. 귀가하던 시민들은 열차에서 내려, 대체 교통수단을 찾는 등 불편을 겪었다. &lt;br&gt;&lt;br&gt;대구시와 대구교통공사에 따르면, 이날 오후 7시 38분쯤 도시철도 3호선 전 구간에 전력 공급이 돌연 중단됐다. 수성시장역 일대 구간에서 단전이 시작돼 다른 역에도 영향을 준 것으로 추정된다.&lt;br&gt;&lt;br&gt;당시 3호선을 달리던 열차는 9편으로, 해당 열차들은 남은 동력으로 모두 인근 역사에 도착했다. &lt;br&gt;&lt;br&gt;일부 구간에 전기가 다시 들어오면서, 오후 8시 10분부터 칠곡경대병원역에서 달성공원역 구간 양방향만 정상 운행되고 있다. 달성공원역부터 용지역에 이르는 나머지 구간은 현재도 운행이 중단된 상태다.&lt;br&gt;&lt;br&gt;퇴근 시간대 열차가 멈추면서 시민들은 큰 불편을 겪었다. 운행이 멈춘 구간에서는 승객들이 역사에서 급히 하차하는 소동이 벌어졌다. 대구소방안전본부 측은 “열차 운행 중단과 관련한 구조 요청이나 소방 출동은 없었다”고 했다. 다만 온라인 커뮤니티 등에는 “용지역 인근에서 열차가 멈춰 급히 버스로 갈아탔다”는 등 시민 목격담과 불만이 잇따랐다.&lt;br&gt;&lt;br&gt;대구시는 사태 발생 약 50분 뒤인 오후 8시 29분쯤 “3호선 전력 공급 장애로 칠곡경대병원역~달성공원역까지만 운행 중이니 다른 교통수단을 이용해 달라”는 안전 안내 문자를 발송했다.&lt;br&gt;&lt;br&gt;대구교통공사 관계자는 “3호선 전체에 전기가 들어오지 않으면서 운행 중이던 열차가 정차한 것으로 보인다”며 “정확한 장애 원인과 복구 상황 등을 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;대구교통공사는 3호선 운행을 종료한 뒤 이날 자정쯤부터 정확한 단전 원인 파악에 나설 예정이다. 첫차 시간이 오전 5시 30분인 점을 감안하면 상황에 따라 8일 오전에도 정상 운행이 어려울 가능성이 제기된다. &lt;br&gt;&lt;br&gt;대구 3호선의 운행 차질은 이번이 처음이 아니다. 지난 2024년 6월에도 외부 물질 유입으로 전력 공급에 차질이 생겨 주말 동안 열차 운행이 중단되는 사고가 발생한 바 있다.&lt;br&gt;&lt;br&gt;대구 도시철도 3호선은 대구시 북구 동호동(칠곡경대병원역)에서 수성구 범물동(용지역)까지 연결되는 23.95㎞ 길이 모노레일 경전철 노선이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/N2EZJ7YAHRJN5IDIQNEQ7GZRAQ.JPG?auth=7da1dc282d15f7198fad175610dc84ee67764192bd029dd80eb965db119afc81&amp;smart=true&amp;width=3318&amp;height=2067" type="image/jpeg" height="2067" width="3318">
+        <media:description type="plain">(대구=뉴스1) 공정식 기자 = 7일 오후 7시 40분쯤 대구도시철도 3호선 전력 공급이 중단돼 수성구 용지역 출입이 통제되고 있다. 2026.9.7/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(대구=뉴스1) 공정식 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 경기교육청, 김승원 아내측에 “학교 명칭 사용말라”</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/07/Y6ILEPLOVNET7FXCKUB2FEGFR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/07/Y6ILEPLOVNET7FXCKUB2FEGFR4/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 10:49:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRWCNRRGM2TINZXGQ4TINBQMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자가 7일 오전 서울 종로구 적선현대빌딩에 마련된 인사청문회 준비 사무실로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육청이 김승원 법무부 장관 후보자의 아내 박모씨가 운영하는 ‘A학교’에 방문해 ‘학교’ 명칭 사용을 중단하라고 통보했다.&lt;br&gt;&lt;br&gt;7일 경기도교육청 수원교육지원청에 따르면, 수원교육지원청은 이날 수원시 장안구에 있는 ‘A학교’에 방문해 “교육 당국이 정식으로 인가한 학교가 아닌데 학교라고 하면 초중등교육법 위반이니 학교 명칭 사용을 중단하라”고 안내했다. A학교 홈페이지 등에 ‘학교’라고 표기한 것들도 모두 지우도록 하는 등 시정을 요구했다.&lt;br&gt;&lt;br&gt;김민전 국민의힘 의원실에 따르면, ‘A학교’는 한국아동발달 사회적 협동조합이 만든 발달 장애 학생 대상 교육 시설로, 김 후보자 아내 박씨가 원장으로 있다. 김 후보자의 아들도 이곳에서 근무하고 있다. A학교는 2019년 경기 용인시에서 문을 열었고, 2022년 1월 김 후보자 지역구인 경기 수원시 장안구로 옮겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTAPRMI7XFGKVNIW4T5IVV5MXY.png"&gt;&lt;figcaption&gt;&lt;small&gt;A학교가 경기 용인에 있던 시절, 김 후보자가 A학교를 방문한 모습. /김승원 후보자 인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A학교는 ‘학교’라는 명칭을 사용하고 있지만, 실제로 교육 당국에 학교로 인가받지 않았다. 현행 초·중등교육법은 교육 당국의 인가를 받지 않고 ‘학교’ 명칭을 사용하는 것을 금지하고 있다.&lt;br&gt;&lt;br&gt;A학교는 학교로 인가받지 않았을 뿐 아니라 경기도교육청에 대안 교육 기관이나 대안 교육 위탁 교육 기관으로도 등록·지정되지 않았다. &lt;br&gt;&lt;br&gt;이날 김 후보자 인사청문 준비단은 “금번 인사청문회를 준비하는 과정에서 경기도교육청에 별도로 대안 교육 기관을 등록해야 한다는 사실을 인지했다”며 “김 후보자가 직접 이곳의 운영 등에 관여하지 않고 있지만, 신속하게 적정한 등록 절차가 이뤄질 수 있도록 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김승원 신약 청탁 의혹’ 제약사 대표 영장 기각 판사 “밝힐 입장 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/07/DP3XTPFTQBHOHJKXYHGDGLPSZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/07/DP3XTPFTQBHOHJKXYHGDGLPSZ4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 10:54:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH6EXXDBVFHUFC5B5QZFY652PM.png"&gt;&lt;figcaption&gt;&lt;small&gt;‘오빠’와 셀카 김승원(가운데) 법무부 장관 후보자가 2022년 2월 서울의 한 한식당에서 코로나19 치료제 관련 브로커 양모(왼쪽)씨와 서부지법에서 일하던 영장전담판사와 함께 찍은 사진. /독자 제공(인스타그램 캡쳐)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 법무부 장관 후보자와 브로커 양모씨의 친분 논란에 연루된 정모 서울중앙지법 부장판사가 7일 “해당 사안과 관련해 현재 별도로 밝힐 입장이 없다”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법은 이날 “법무부 장관 후보자 이슈와 관련, 우리 법원 소속 법관에 대해 문의가 많은 상황”이라며 이같이 정 부장판사의 입장을 대신 전했다. 서울중앙지법에서 민사 재판을 맡고 있는 정 부장판사는 지난주 사법연수원 교육을 마치고 이날 법원에 복귀했다.&lt;br&gt;&lt;br&gt;정 부장판사는 김 후보자와 서울대 법대 선후배로, 2002년 전주지법에서 함께 근무했다. 그는 서울서부지법 영장전담 판사로 근무하던 2023년 제약사 ‘제넨셀’ 설립자 강모씨에 대해 검찰이 배임·업무방해 등 혐의로 청구한 구속영장을 기각했는데, 이에 앞서 2022년 2월 김 후보자와 ‘브로커’ 양모씨와 함께 술자리를 가진 사실이 알려져 논란이 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYTIYZTGU3DAZRXMVRTGZBZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자가 7일 오전 서울 종로구 적선현대빌딩에 마련된 인사청문회 준비사무실로 출근하며 신약 승인 청탁 의혹 등과 관련한 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양씨는 2021년 10월 제넨셀 설립자 강모씨로부터 코로나 치료제 임상시험 계획이 빨리 승인되도록 도와달라는 부탁을 받고 이를 당시 국회의원이던 김 후보자에게 전달했다. 김 후보자는 김강립 당시 식품의약품안전처장에게 전화와 문자메시지로 신속한 처리를 요청했고, 식약처는 약 2주 뒤 제넨셀의 임상 2·3상 시험 계획을 승인했다. &lt;br&gt;&lt;br&gt;이후 제넨셀이 누락·조작된 자료를 토대로 임상시험 승인을 받은 사실이 드러나면서 강씨는 수사를 받았다. 김 후보자와 정 부장판사, 양씨가 함께 술자리를 가진 지 약 1년 10개월 만이었다. 강씨는 이듬해 1월 검찰이 영장을 다시 청구하면서 다른 판사의 심사를 거쳐 구속됐다. 무소속 한동훈 의원은 당시 대검찰청이 법원행정처에 정 부장판사를 강씨 사건의 영장 심사에서 배제해 달라고 요구했지만 받아들여지지 않았다는 의혹도 제기했다. &lt;br&gt;&lt;br&gt;김 후보자는 정 부장판사에게 강씨의 선처를 요청했다는 의혹을 부인했다. 김 후보자는 “공개된 사적 모임에서 정 부장판사와 양씨를 우연히 마주쳤을 뿐 이후 이들과 만나거나 연락하지 않았다”며 “당시 강씨 등에 대한 수사를 예상할 수도 없었다”고 했다. 2023년 12월 강씨의 구속영장이 청구됐다가 기각된 사실도 알지 못했다고 했다&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한겨울 쓰러진 손님 12시간 방치해 사망케 한 업주 징역 2년 </title>
+      <link>https://www.chosun.com/national/2026/09/07/SMWX57K33RGCRFWYULTVTGR724/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/07/SMWX57K33RGCRFWYULTVTGR724/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 09:35:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTONRTMRRTCZJVMY2TCNTEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방법원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영하에 가까운 한겨울 밤 만취해 노래방 출입문 밖 계단에서 굴러떨어진 60대 손님을 12시간 넘게 방치해 숨지게 한 노래방 업주에게 법원이 실형을 선고했다. &lt;br&gt;&lt;br&gt;창원지법 형사4부(재판장 오대석)는 유기치사 혐의로 기소된 60대 노래연습장 업주 A씨에게 징역 2년을 선고했다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;창원시 의창구에서 노래연습장을 운영하는 A씨는 2024년 12월 30일 밤 자신의 가게에 온 손님 B(60대)씨가 가게 앞에 쓰러져 있는 것을 보고도 조치하지 않고 방치해 숨지게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;판결문에 따르면 이날 오후 8시 18분쯤 B씨는 지인들과 술을 마신 뒤 취한 상태로 혼자 이 노래연습장을 찾았다. 당시 A씨는 몸을 가누지 못할 정도의 만취 상태였다. B씨는 노래연습장을 들락날락하면서 소주 1병을 시켰다. 목격자 진술 등을 종합하면 B씨는 이날 오후 10시 24분에서 10시 51분 사이 노래방 출입문 밖 계단에서 굴러떨어져 바닥에 쓰러진 것으로 추정된다. &lt;br&gt;&lt;br&gt;A씨는 쓰러져 있는 B씨를 보고도 경찰 또는 119에 신고하는 등 아무런 구호 조치를 하지 않았다.&lt;br&gt;&lt;br&gt;당시 창원의 최저기온은 0.8도(30일)에서 0.4도(31일)로 영하권에 가까웠다. 당시 B씨는 겉옷 없이 얇은 긴팔 티셔츠와 청바지만 입고 있었다. &lt;br&gt;&lt;br&gt;그런데도 A씨는 노래연습장을 찾은 다른 손님들이 B씨를 보고 나가려고 하자 “그냥 오세요” “괜찮습니다” “자주 이렇게 취해서 앉아 있는 사람이다”라고 말하며 영업을 이어 나간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 쓰러진 것을 인지한 지 12시간가량이 지난 이튿날 오전 10시 32분쯤 경찰에 신고했다. 병원에 이송된 B씨는 한 병원 응급실에서 머리 부위 손상 등으로 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;재판 과정에서 A씨는 “B씨를 유기한 사실이 없고, 유기 행위가 인정된다고 하더라도 사망과 인과관계를 인정할 수 없다”고 범행을 부인했다. 하지만 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 소비자기본법상 사업자이자 피해자에게 주류를 공급한 자로서, 소비자의 생명 또는 신체에 위해가 발생하지 않도록 필요한 조치를 강구할 법률상·계약상 의무가 있다”고 지적했다. &lt;br&gt;&lt;br&gt;그러면서 A씨에게 유기의 고의도 있다고 봤다. &lt;br&gt;&lt;br&gt;재판부는 “경찰이나 구급대에 신고하는 것만으로도 손쉽게 피해자를 구호할 수 있었음에도, 다른 손님들에게 대수롭지 않게 말하며 호객 행위를 했을 뿐 피해자의 상태조차 제대로 확인하지 않았다”며 “추운 날씨에 쓰러진 피해자를 방치해 사망에 이르게 한 죄책이 매우 무겁고 유족들은 엄벌을 탄원하고 있다”고 했다. 이어 “다만 피고인이 확정적인 고의로 범행에 이른 것으로 보이지는 않는다”며 “뒤늦게라도 경찰에 신고한 점, 형사처벌을 받은 전력이 없는 초범인 점을 고려했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이동하·김대진·김도훈, 대한민국예술원상</title>
+      <link>https://www.chosun.com/national/people/2026/09/07/PYR2WYYTVFHVXP6L37ITW4RDUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/07/PYR2WYYTVFHVXP6L37ITW4RDUE/</guid>
+      <dc:creator>백수진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 09:31:15 +0000</pubDate>
+      <content:encoded>대한민국예술원(회장 손진책)은 7일 예술원에서 ‘제71회 대한민국예술원상 및 제5회 대한민국예술원 젊은예술가상’ 시상식을 개최했다. 문학 부문에 소설가 이동하, 음악 부문에 피아니스트 김대진, 연극 부문에 연출가 김도훈씨가 대한민국예술원상을 수상했다. 젊은예술가상 수상자로는 소설가 최은영·조각가 김민애·작곡가 김신·대금연주가 유경은·연극연출가 김수정·영화감독 윤가은·무용가 홍경화씨가 선정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6RZN4FRKA5E3DDVC7XLKWE2PVY.jpg?auth=b228a4dfd85e956db56ad59a507fc700074c8dff177169670eacfa433377fa33&amp;smart=true&amp;width=255&amp;height=143" type="image/jpeg" height="143" width="255">
+        <media:description type="plain">대한민국예술원 전경</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“극장 신작, 5개월 뒤에 OTT서 보라고?”</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/07/E3HUAD4RXFCMDAJ2F5RPBRIONQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/07/E3HUAD4RXFCMDAJ2F5RPBRIONQ/</guid>
+      <dc:creator>원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 08:37:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2WEMZZGFRGGY3EGJSWMNBXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 정부세종청사 공정거래위원회 전경 ./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민단체 소비자주권시민회의(이하 소비자주권)가 공정거래위원회(이하 공정위)에 “홀드백이 소비자 권리를 침해한다”며 7일 공개질의서를 제출했다. 홀드백은 영화가 극장에서 개봉한 뒤 넷플릭스 같은 OTT나 IPTV 등 후속 유통망으로 넘어가기까지 두는 유예 기간이다. &lt;br&gt;&lt;br&gt;현재 홀드백 기간을 일률적으로 규정하는 국내 법적 기준은 없다. 지난해 9월 더불어민주당 임오경 의원은 극장 상영 종료 후 6개월이 지나야 OTT 등 다른 플랫폼에서 영화를 공급할 수 있도록 하는 내용의 영화 및 비디오물의 진흥에 관한 법률 개정안을 대표 발의한 바 있다. &lt;br&gt;&lt;br&gt;이에 문화체육관광부는 지난 5월 극장과 제작·배급사, OTT, IPTV 관계자 등 22명이 참여하는 ‘한국영화 유통 구조 개선을 위한 민관협의체’를 출범시켰다. 법으로 홀드백을 의무화하기에 앞서 업계가 자율적으로 기준을 마련하자는 취지였다. 8월 중 ‘한국영화 상생을 위한 홀드백 자율협약’을 체결하는 게 목표였다. 현재 논의되는 방안에는 극장 개봉 후 OTT에 공개되기까지 150일 유예 기간을 두는 내용 등이 포함된 것으로 알려졌다. 그러나 영화별 특성을 고려한 예외 범위를 두고 의견이 엇갈리면서 시한 내에 합의가 이뤄지지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPBHX2EKROSVP6U6FM33PJU3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울의 한 영화관에서 영화를 예매하는 시민들의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소비자주권은 “정부가 협약 과정에서 일정한 홀드백 기간을 중재안으로 제시하고 사업자들이 이를 공동 기준으로 채택할 경우, 자율협약이 사실상의 획일적 홀드백 의무로 작동할 가능성에 대해서도 분명한 입장을 밝혀야 한다”고 했다. 법적 강제력이 없는 ‘자율협약’이라 하더라도 사실상의 업계 표준이 만들어지면 영화의 유통 시기와 플랫폼 간 경쟁을 제한할 수 있다는 것이다. &lt;br&gt;&lt;br&gt;또 “공정위 역시 홀드백 의무화가 OTT 사업자의 경쟁을 제한하고 소비자 선택권과 후생을 저해할 가능성을 지적한 바 있다”며 “공정위는 홀드백 자율협약이 사업자 간 경쟁을 제한하고 소비자 후생을 저해할 가능성이 없는지 면밀히 검토해야 한다”고 촉구했다. &lt;br&gt;&lt;br&gt;이에 소비자주권은 ▲‘자율협약’이 시장에서 사실상 표준으로 작동한다면, 실질적인 경쟁제한 효과를 기준으로 자율협약을 판단할 계획이 있는지 ▲영화의 OTT·IPTV 공개 시점을 사업자들이 공동으로 제한하는 것이 플랫폼 간 경쟁 및 소비자의 선택 가능한 유통 경로를 제한하는 효과를 가져올 가능성에 대해 어떻게 판단하는지 ▲현재 논의되고 있는 영화산업 홀드백 자율협약에 대해 경쟁제한성 및 소비자 후생에 대한 사전 검토를 실시하고 있는지 등 13가지 문항을 담은 공개질의서를 공정위에 제출했다.&lt;br&gt;&lt;br&gt;앞서 소비자주권은 지난달 18일에도 “영화산업의 지속 가능한 발전을 위해 일률적인 6개월 홀드백보다 소비자의 선택권과 편익을 우선하는 정책이 필요하다”며 공식 성명을 발표한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OIPBHX2EKROSVP6U6FM33PJU3I.jpg?auth=efa07e95453272d4daa2d39cfa3965c6e5881cea87120b35a19f3642cfdfe1b0&amp;smart=true&amp;width=5053&amp;height=3623" type="image/jpeg" height="3623" width="5053">
+        <media:description type="plain">지난 6일 서울의 한 영화관에서 영화를 예매하는 시민들의 모습./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">이재희</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>가덕도 신공항 기본 설계 완료, 11월 착공...변수는 공사비</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/09/07/X22NPYDFSBECHLXDCVTQGF5UUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/09/07/X22NPYDFSBECHLXDCVTQGF5UUU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 07:54:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRDKZJVGUZDGNTGGNSTGZTDHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가덕도 신공항 조감도. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 가덕도 신공항 부지 조성 공사의 기본 설계가 마무리됐다며 11월 우선 시공분에 대한 착공에 나설 예정이라고 7일 밝혔다. 다만, 수의계약 예비 대상자인 대우건설 컨소시엄과 정부 간 공사비 증액 관련 잡음이 이어지고 있어 공사 일정이 지연될 가능성도 제기된다.&lt;br&gt;&lt;br&gt;국토부와 가덕도신공항건설공단은 이날 대우건설 컨소시엄으로부터 기본 설계 도서를 제출받았다. 대우건설 컨소시엄은 지난 3월부터 6개월간 기본 설계를 수행했다. &lt;br&gt;&lt;br&gt;대우건설 컨소시엄이 작성한 설계는 중앙건설기술심의위원회 심의를 통해 규정 준수 여부, 공정 계획 적정성 등을 검증받을 예정이다. 이 심의를 통과하면 실시설계가 이뤄지고 11월엔 우선 시공분 착공을 거쳐 내년 상반기엔 본공사에 들어갈 예정이다.&lt;br&gt;&lt;br&gt;정부가 내년 본격 착공 전, 11월 우선 시공분 착공에 나서겠다고 한 건 확고한 사업 의지를 강조한 것으로 해석된다. 가덕도 신공항 사업은 60m 바닷속 연약 지반 개량, 최대 12m에 이르는 고파랑(高波浪) 등 난도가 높은 공사 탓에 사업 자체에 반대 목소리가 크고 수의계약 대상자도 교체되는 등 진통을 겪었지만 어떤 식으로든 개항 목표 시점을 맞추겠다는 취지다.&lt;br&gt;&lt;br&gt;당초 정부는 부지 조성 공사 기간을 84개월로 잡고, 2029년 우선 개항(2032년 완공)을 추진했지만, 공사 기간이 지나치게 짧다는 업계의 지적을 받아들여 부지 조성 공사 기간을 106개월로 늘리고 개항 시기도 2035년으로 수정했다.&lt;br&gt;&lt;br&gt;변수는 남아있다. 대우건설 컨소시엄 측이 중동 전쟁 등 여파로 유류비, 자재 값 등이 급증했다며 국토부에 총사업비 6200억원을 증액해 달라고 요구하고 있기 때문이다. 컨소시엄에 참여한 부산·경남 지역 건설사 13곳은 사업비 증액이 이뤄지지 않으면 컨소시엄 탈퇴를 검토하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;정부는 난감한 입장이다. 국가계약법은 천재지변, 전쟁 등 불가항력 사유가 있으면 계약 금액을 조정할 수 있다고 규정하지만, 이는 ‘계약을 체결한 다음’이라는 전제를 달고 있다. 가덕도 신공항 사업은 아직 본계약을 체결하지 않았다. 공사비를 올려주기 위해선 예외를 만들어야 하는 셈이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 9월 8일 화요일 (음력 7월 27일 乙酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/07/UDQPQSYP4ZF3BGIMCWZ4RJB3AI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/07/UDQPQSYP4ZF3BGIMCWZ4RJB3AI/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>이흥구 “사법 3법 입법 과정 충격적…법원, 정치적 사건 몰릴수록 일관성 지켜야”</title>
       <link>https://www.chosun.com/national/court_law/2026/09/07/XXM3EHDAZRGUBBA5U3WOQHF5SI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/07/XXM3EHDAZRGUBBA5U3WOQHF5SI/</guid>
@@ -340,16 +440,6 @@
       </media:content>
     </item>
     <item>
-      <title>[굿모닝 멤버십] “한국 반도체의 황금기는 최소 10년 갑니다”</title>
-      <link>https://www.chosun.com/national/2026/09/07/BTP32PIZHJEUNCKH2YX2IOHHZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/07/BTP32PIZHJEUNCKH2YX2IOHHZE/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 18:00:00 +0000</pubDate>
-      <content:encoded>📅 9월 7일 월요일 아침입니다. 오늘은 가을의 세 번째 절기, ‘백로(白露)’입니다. ‘흰 이슬’이라는 이름처럼 밤사이 기온이 내려가 풀잎에 이슬이 맺히기 시작하는 때로, 여름 기운이 물러가고 가을이 깊어지는 시기를 알립니다. 옛 선조들은 백로 무렵 벼 이삭이 제대로 패야 풍성한 수확을 거둘 수 있다고 여겼습니다. 고된 여름 농사를 지나 수확을 앞둔 이때, 우리도 잠시 걸음을 늦추고 지난 시간을 돌아보면 어떨까요. 오늘 조선멤버십은 한 주 시작에 함께 읽어볼 의미 있는 기사들을 엄선해 전해드립니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSISOAFDXRDULLDTH3ORSJNGK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;절기상 백로를 나흘 앞둔 3일 부산 강서구 죽동동 농민 김경양 씨가 트랙터를 이용해 논에서 벼 수확 작업을 하고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘가을’ 하면 생각나는 노래는 뭐가 있을까요. 10여 년 전 조사에서는 ‘코스모스 피어 있는 길(김상희)’, ‘잊혀진 계절(이용)’, ‘가을이 오면(이문세)’, ‘가을(백남석 작사·현제명 작곡 동요)’, ‘가을을 남기고 간 사랑(패티 김)’ 등이 꼽혔는데요, 고은 시인이 작사하고 김민기가 선율을 붙인 ‘가을 편지’도 빼놓을 수 없죠.&lt;br&gt;&lt;br&gt;가을을 주제로 한 노래들은 가사가 다 근사합니다. 어느 곡이든 찾아서 하나 들으시면서 하루를 시작하시죠. 🎵&lt;br&gt;&lt;br&gt;&lt;b&gt;📃 오늘 이 기사&lt;/b&gt;&lt;br&gt;&lt;br&gt;“돈 모아서 집값 떨어지면 그때 사라.” 지난해 10·15 부동산 대책을 총괄했던 국토부 차관(이상경 가천대 교수)은 유튜브에서 이렇게 말해 놓고 정작 본인은 배우자 명의로 33억원대 아파트를 갭투자한 사실이 드러나 사퇴한 바 있습니다. 지난 7월 서울 아파트 평균 월세는 162만원으로 통계 작성 이래 처음 160만원을 돌파했습니다. 정부가 대출을 조였다 공급을 약속하고 규제 지역을 지정했다 세제를 강화하는 사이 벌어진 일입니다. 한 교수는 이런 흐름을 두고 “진보 정부 부동산 정책 실패 과정의 ‘시즌 3’를 빨리 돌려보는 듯하다”고 했습니다.&lt;br&gt;&lt;br&gt;대홍수 참사를 맞은 네팔에서 정부의 재난 경보 사이렌은 울리지 않았고, 국민을 구한 건 지난해 정부가 차단하려 했던 다른 나라의 소셜미디어였습니다. 네팔 청년들은 이번 참사를 “우리가 배출하지 않은 위기”라고 부르는데, 실제로 1750년 이후 전 세계 누적 탄소 배출량에서 네팔이 차지하는 비율은 0.01%에 불과합니다. 지난해 정권 교체를 끌어냈던 네팔 청년들이 이번엔 대홍수 현장에서 국가 시스템의 부재와 선진국 중심의 기후 불평등을 직격하고 나섰습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;📃 오늘 이 칼럼&lt;/b&gt;&lt;br&gt;&lt;br&gt;“작가님, 그래서 연봉이 얼마입니까?” 남자 고등학교 강연장에 서면 빠짐없이 들어오는 질문에 이 작가는 정색하는 대신 공들여 자기 통장 내역을 밝힙니다. 여러분이라면 어떻게 답하시겠습니까? 그는 10년 전 초라했던 수입부터 대기업 강연료, 대리운전(탁송) 일감까지 솔직하게 털어놓는데요. “나에게 온 좋은 일 중 내가 잘나서 찾아온 건 하나도 없다”며 학생들 질문에 늘 감사와 겸손으로 답하려 합니다.&lt;br&gt;&lt;br&gt;올여름 유럽은 40도를 넘나드는 폭염에 시달렸습니다. 영국도 무더위가 이어지면서 런던의 공원 잔디까지 누렇게 말라버렸죠. 그런데 막상 런던에서 마주한 여름은 한국에서 뉴스로 접했던 유럽의 모습과는 조금 달랐습니다. 마른 잔디밭에 누워 햇볕을 즐기고, 호텔 방에 놓인 작은 선풍기 하나로 더위를 견디는 사람들이었습니다. ​며칠간의 더위와 불편을 대수롭지 않게 넘기는 영국인들의 모습에서 발견한 것은 무엇이었을까요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOIRNHFZHNHUTOYTFNXNUAS6PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월스트리트에서 20년 넘게 투자 시장을 누빈 조니 우 xETFs 대표는 글로벌 AI 투자 확대가 한국 반도체에 새로운 기회가 될 것으로 봅니다. 거대 빅테크들이 앞다퉈 데이터센터를 짓는 가운데 그가 주목한 것은 삼성전자와 SK하이닉스뿐만이 아닙니다. 한국이 오랫동안 쌓아온 반도체 경쟁력이 AI 시대에도 이어질 것으로 본 겁니다. 중국의 추격과 AI 투자 거품 우려 속에서도 월가의 베테랑 투자가가 한국 반도체의 ‘10년 황금기’를 내다보는 근거는 무엇일까요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQUDGEKOHZHULA22SNSJGRBWZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;조니 우 xETFs 최고경영자(CEO)는 “중국이 (한국 수준의 반도체 기술을) 따라잡았을 때는 한국의 기술이 또 앞으로 나가 있을 것”이라고 말했다. /사진=김성모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 55~79세 고령층 절반 이상이 일하는 가장 큰 이유는 생활비였습니다. 우리보다 앞서 초고령 사회에 접어든 일본에서도 폭염에 전기세가 부담돼 ​냉방 시설이 있는 대피시설을 찾고, 70세에 가까운 나이에 뙤약볕 아래 도로에서 교통 정리를 하며 버티는 이들이 있습니다.​ 노후에도 일을 이어가는 한·일 고령층의 현실은 어떤 모습일까요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXCI5P7UC5GOXIJAPD6ZXAJYMU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
-    </item>
-    <item>
       <title>아내는 미인가 발달장애인 학교 운영… 불법이었다</title>
       <link>https://www.chosun.com/national/education/2026/09/07/DUTYZU2X4FGF3PREQ5QTZJDWEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/07/DUTYZU2X4FGF3PREQ5QTZJDWEM/</guid>
@@ -433,24 +523,6 @@
       <content:encoded>부산에는 해운대 해변 못지않게 시민들에게 사랑받는 곳이 있습니다. 지난 3월 전국 24번째 국립공원으로 지정된 금정산(801m)입니다. 한자로 쇠 금(金), 우물 정(井) 자를 쓰는데요. 정상 인근에는 ‘금샘’이라는 이름의 바위샘이 있어요. 이곳의 물은 잘 마르지 않는 것으로 유명하대요. 빗물이 고이기도 하지만, 밤이 되면 차가워진 바위에 안개나 공기 중 수증기가 물방울로 맺히는 결로 작용으로 바위에 물이 계속 차는 것이죠. 옛 전설에 따르면 오색구름을 탄 금빛 물고기가 하늘에서 내려와 이 샘에서 헤엄쳤다고 해요. 산에 있는 사찰 범어사(梵魚寺) 이름에는 물고기 어(魚) 자가 들어가 있는데, 역시 하늘에서 내려온 금빛 물고기 전설이 깃든 이름입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JG4E27RZNRFILKB5YQNWK52QOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 금정산 정상 부근에 있는 금샘. 물이 잘 마르지 않는대요. /주민욱 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금정산 능선을 따라 꿈틀거리듯 이어진 금정산성은 전체 길이가 약 18㎞입니다. 임진왜란과 병자호란을 겪은 조선은 1703년(숙종 29년) 성을 쌓았고, 약 100년이 지나 성을 크게 보수했습니다. 흥미로운 점은 이 거대한 군사 요새에서 큰 전투가 한 번도 벌어지지 않았다는 사실입니다. 전쟁을 비켜간 덕에 성벽과 성문이 비교적 잘 남아 있습니다. 지금은 성벽을 따라 걸으며 동해와 낙동강을 동시에 내려다보는 빼어난 등산로가 됐습니다. &lt;br&gt;&lt;br&gt;성벽 안쪽 해발 400m 분지에는 비밀 기지 같은 ‘산성 마을’이 숨어 있습니다. 성을 쌓던 인부들과 군인들이 모여 살기 시작한 마을에서 전국적인 명물이 탄생했습니다. 바로 ‘금정산성 막걸리’입니다. 고된 노역을 달래기 위해 즐겨 마셨다고 전해지는 이 막걸리는 지금도 누룩을 발로 꾹꾹 밟아 띄우는 전통 방식을 고수합니다. 특유의 새콤하고 알싸한 맛이 소문나 박정희 전 대통령이 ‘대한민국 민속주 1호’로 지정한 일화도 유명합니다.&lt;br&gt;&lt;br&gt;금정산은 억겁의 세월 동안 비바람이 화강암을 조각해 놓은 야외 전시장입니다. 펼쳐진 부채를 닮은 거대한 부채바위, 나비 날개를 닮은 나비암 등 곳곳에 기기묘묘한 바위들이 솟아 있습니다. &lt;br&gt;&lt;br&gt;가장 인기 있는 산길은 범어사에서 출발해 북문을 거쳐 정상인 고당봉에 오르는 코스입니다. 부산 최고봉인 고당봉 꼭대기에 서면 발밑으로 부산 도심과 낙동강이 펼쳐집니다.&lt;br&gt;&lt;br&gt;정상에서 탁 트인 사방을 눈에 담았다면, 다시 북문으로 내려와 동문으로 이어지는 능선길을 걸어 보시길 권합니다. 완만하게 이어지는 옛 성곽 돌길을 따라 걷다 보면 원효봉에 닿아 고당봉과는 또 다른 부산의 경치를 마주하게 됩니다. 멀리 부산 앞바다와 회동수원지가 한눈에 들어옵니다. 원효봉을 지나 제4망루와 의상봉으로 이어지는 성곽길은 바위 능선들이 야외 조각 미술관처럼 펼쳐져 걷는 내내 지루할 틈을 주지 않습니다. 향이 짙고 우아한 소나무 숲도 만납니다. 동문에 도착해 조금만 더 아래로 내려오면 버스를 탈 수 있습니다. 거대한 바위 능선과 역사 깊은 산성을 종주하고도 대중교통으로 편리하게 도심으로 돌아올 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [명화 돋보기] 산이 품은 사계절의 얼굴… ‘원색 추상화’로 빚어냈어요</title>
-      <link>https://www.chosun.com/national/nie/2026/09/07/7AN6ZT72LVF47OWERYSRARFNHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/09/07/7AN6ZT72LVF47OWERYSRARFNHM/</guid>
-      <dc:creator>이주은 건국대 문화콘텐츠학과 교수, 기획·구성=김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 15:40:00 +0000</pubDate>
-      <content:encoded>화가 유영국(1916~2002)은 김환기, 한묵 등과 더불어 ‘한국 추상화의 제1세대’로 불립니다. 그가 태어난 지 110주년이 되는 올해, 그의 작품을 총망라하는 ‘유영국: 산은 내 안에 있다’ 전시가 서울 중구 서울시립미술관에서 10월 25일까지 진행됩니다. 무료로 진행되는 이 전시에는 이미 많은 사람이 다녀갔습니다. 유영국 그림 속에는 사람이 등장하는 일은 없습니다. 화가가 1960년대부터 줄곧 예술의 주제로 삼은 것은 한국의 산이었어요. 그림 제목도 구체적이지 않고, ‘작품’이라든지 ‘산’으로 붙인 것이 많지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;늘 꿋꿋이 서 있는 산&lt;/b&gt;&lt;br&gt;&lt;br&gt;한국에서는 어디서든 산을 볼 수 있습니다. 전 국토가 산줄기를 끼고 있어 병풍처럼 둘러싼 산이 아늑하게 우리를 지켜주고 있지요. 역사적으로 어려운 시절을 겪을 때마다 우리 민족은 저기 잘 버티고 있는 산을 보면서 마음을 굳건히 세우곤 했을 겁니다. 유영국에게도 산은 항상 거기 서 있고, 늘 마음속에 있는 고향과도 같은 존재였어요.&lt;br&gt;&lt;br&gt;유영국의 고향 경북 울진에서는 동쪽으로 바다가 보이고 서쪽으로는 산이 보였어요. 성장하는 동안 그가 줄곧 바라봤던 산은, 그가 세상을 떠난 지금도 그 자리를 지키고 있습니다. 유영국은 산처럼 변함없이 절대적인 것을 기준으로 삼아 살고 싶었고, 또 그것을 화면에 담고 싶었어요. 한 번만 봐서는 전부를 알 수 없고 매번 다른 느낌을 자아내는 산의 다채로움이 유영국의 붓을 부지런히 움직이게 했고, 그 흔적은 캔버스마다 남아 있습니다. 작품을 몇 점 예로 들면서 그가 산에서 어떤 영감을 얻었는지 알아보기로 해요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVXU3SDI4JHQNJV2PDAJD7AL2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유영국이 1964년 발표한 ‘작품’입니다. 그는 많은 그림에 ‘작품’ ‘산’이라는 제목을 붙였어요. 1964년 작품은 흰색, 초록색, 푸른색이 서로 조화를 이루고 있습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYK5HQW4V5EGXPXBJ2SAHDZ6WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;붉은색을 활용한 1968년 ‘작품’입니다. 강렬한 산의 모습을 떠올리게 해요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4KDCXCRLBG5ZJOLKJVYDQM3WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1977년 ‘작품’은 봉우리 두 개가 울긋불긋 도드라지게 빛나는 게 인상적이에요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GUDPXERORBKRLB6ICSSER4XTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘산-블루’(1994년)입니다. 점, 선, 면, 색이라는 회화의 기본 요소로 산을 추상화했어요. /유영국미술문화재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;찬란한 색채의 에너지 &lt;/b&gt;&lt;br&gt;&lt;br&gt;유영국의 작품과 마주하면 산의 형상을 찾기에 앞서, 화면 가득 채워진 선명한 색채에 몸도 마음도 전부 흡수되는 것 같은 기분이 듭니다. 화가는 자연을 보는 것에서 출발하되 그 모습을 일일이 옮겨 그리는 대신, 전체적인 느낌을 끌어모아 색채의 에너지로 바꾸었어요. 그림 1 ‘작품’(1964)을 보세요. 눈처럼 새하얀색이 양쪽에서 눈부시게 빛나고 초록색과 어두운 푸른색이 그 뒤로 물러나는 듯해요. 세 가지 색채가 대비되면서 조화를 이루고 있습니다. 가운데에서 노란색 한 가닥이 어둠이 내리기 전 마지막 남은 빛처럼 순간적으로 반짝이네요.&lt;br&gt;&lt;br&gt;산은 한결같이 자리를 지키지만, 그렇다고 늘 똑같은 것은 아니지요. 아침 햇살과 저녁 노을, 그리고 봄에서 겨울에 이르기까지 빛과 날씨에 따라 색을 바꾸니까요. 아마도 산은 백 가지 다른 얼굴을 가지고 있나 봅니다. 그림 2 ‘작품’(1968)은 화면 전체를 붉은 색조로 산뜻하고 뚜렷하게 칠한, 불꽃 같은 강렬한 산의 모습입니다. 이와는 대조적으로 그림 3 ‘작품’(1977)은 아른거리며 불어오는 나무숲의 바람결처럼 보드랍게 윤곽선을 처리한 산이에요. 봉우리 두 개가 울긋불긋 도드라지게 빛나고, 그 주위에 보랏빛 그림자가 드리워져 있죠.&lt;br&gt;&lt;br&gt;유영국에게 산은 실제 풍경이면서 동시에 마음에 담긴 기억들이기도 해요. 산을 여러 차례 그리는 동안 화가는 산이라는 거대한 존재가 마음 안에 자리 잡고 있다는 것을 깨닫습니다. “산은 내 앞에 있는 것이 아니라, 내 안에 있다”고 유영국은 말한 적 있어요. 화가의 예술관이 이 한마디에 압축돼 있습니다. 마음속 꿈틀거리는 산의 생명력이 캔버스 위에서 원색들로 울렁이며 에너지를 뿜어대고 있지요. &lt;br&gt;&lt;br&gt;&lt;b&gt;산을 닮은 화가의 우직함&lt;/b&gt;&lt;br&gt;&lt;br&gt;그림 4 ‘산-블루’(1994)를 보세요. 네모의 선들이 줄을 맞춰 배치돼 있고, 그 안팎으로 선을 맞춰 깔끔하게 칠한 푸른색 계열의 면들, 그리고 노랑과 빨강 점으로 산을 구성했어요. 점, 선, 면, 색이라는 회화의 기본 요소로 산을 추상화한 것이죠. 이 작품을 그린 해는 1994년으로, 화가가 노년기를 맞았을 무렵이었어요. 세상을 한결 넓고 멀리, 더 여유롭게 바라보기 시작했어도 그는 그림 앞에서만큼은 조금도 긴장을 늦추지 않고 우직하게 작품을 완성했습니다.&lt;br&gt;&lt;br&gt;평소 유영국은 시간에 엄격했습니다. 작업하는 방이 집에 있었지만, 결코 느슨하게 생활하지 않았습니다. 아침에 어김없이 작업실에 들어갔고, 12시가 되면 점심을 들었어요. 이후 저녁 6시까지 휴식 없이 그림을 그렸어요. 작업에만 몰두하기 위해 교수직도 그만두었는가 하면, 병원에서 큰 수술을 몇 차례 받고 수십 번 입원했지만 퇴원 후에는 바로 자신의 작업 규칙으로 돌아가곤 했어요.&lt;b&gt; &lt;/b&gt;그는 대부분의 작업을 조수 도움 없이 직접 했습니다.&lt;br&gt;&lt;br&gt;“요즈음 내가 그림 앞에서 느끼는 팽팽한 긴장감, 그 속에서 나는 다시 태어나고 새로운 각오와 열의를 배운다. 나는 죽을 때까지 이 긴장의 끈을 바싹 나의 내면에 동여매고 작업에 임할 것이다.” 그는 이렇게 다짐했습니다. 당장 작품이 팔리지 않아도 동요하지 않고, 오직 그림 그리기에만 집중했어요. 결국 약 800점에 이르는 대작들을 남겼습니다. 관람자들은 유영국의 그림을 보고 먼저 그 세련된 색채와 에너지에 놀라고, 다음으로 산을 닮은 화가의 우직한 꾸준함에 감동을 받고 돌아간답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [꼭 읽어야 하는 고전] 플라톤이 말한 ‘정의로운 국가’ 만들려면 어두운 동굴 벗어나 진리 따라가야 해요</title>
-      <link>https://www.chosun.com/national/nie/2026/09/07/V3RRQYJ64BFNDFXJ5I4MPERAAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/09/07/V3RRQYJ64BFNDFXJ5I4MPERAAA/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/337NWU7CZVFV5N532ZGYPOU76A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;장영란 지음｜출판사 사계절｜가격 1만4500원&lt;/b&gt;&lt;br&gt;&lt;br&gt;고대 그리스 철학자 플라톤은 스승 소크라테스가 억울하게 사형 판결을 받고 독배를 마신 사건에 큰 충격을 받았습니다. 그래서 아테네를 10년간 떠나 있었어요. 그리고 귀국 후 제자들을 가르치고 글을 썼는데, 그의 대표 저작 가운데 하나가 ‘국가’입니다. 소크라테스가 대화를 이끄는 형식의 글입니다.&lt;br&gt;&lt;br&gt;‘국가’의 핵심 질문은 “정의란 무엇인가?”입니다. 대화 상대로 등장하는 트라시마코스라는 사람이 먼저 이렇게 주장합니다. “정의는 강자의 이익이다.” 권력자는 자신에게 이익이 되는 법률을 제정한 뒤 약자들에게 법을 지키는 게 정의라고 공표한다는 겁니다. 이에 대해 소크라테스는 어떤 기술에서든 기술자가 아니라 그 기술을 제공받는 이의 이익이 먼저라고 말합니다. 의술에서는 의사가 아니라 환자의 건강이 먼저입니다. 통치 기술에서도 강자의 이익이 아니라, 통치를 받는 약자의 이익이 먼저입니다.&lt;br&gt;&lt;br&gt;트라시마코스가 반박합니다. 양치기가 양을 돌보는 것은 양의 이익을 위해서가 아니라 양을 팔거나 고기, 젖 등을 얻기 위해서라는 것이죠. 이에 대해 소크라테스는 양 치는 기술로 양치기가 이익을 얻을 수 있지만, 양 치는 기술 자체는 양에게 이익이 된다고 응수합니다. 양치기가 양에게 좋은 것을 줘서 양의 상태가 나아지기 때문이죠. 의사가 의술로 이익을 얻더라도 의술 자체는 환자에게 이익이 되는 것과 비슷합니다. 소크라테스는 국가의 목적이 “소수 사람이 아니라 온 국민을 행복하게 하는 것”이라고 강조합니다. 지금도 수많은 학자가 둘의 대화를 다시 읽고, 그 의미를 곱씹어 보곤 합니다.&lt;br&gt;&lt;br&gt;오늘날 흔히 ‘국가는 정의로워야 한다’고 말합니다. 정의로운 국가는 어떻게 건설할 수 있을까요? 우선 정의가 무엇인지 알아야 정의를 실현할 수 있습니다. 진리를 깨우쳐야 진리를 실천할 수 있죠. 하지만 사람들은 동굴에 갇혀 앞만 보도록 묶여 있는 죄수와 같습니다. 죄수들 뒤에선 불이 타오릅니다. 죄수들 앞에 있는 동굴 벽에는 그 불빛으로 생긴 사물들의 그림자가 비칩니다. 뒤를 돌아볼 수 없는 죄수들은 불이나 사물은 못 보고, 그림자만 보면서 그것을 진리로 여깁니다.&lt;br&gt;&lt;br&gt;어느 날 결박에서 풀려난 죄수 한 사람이 머리를 돌려 그림자가 아닌 사물을 보고, 이어 동굴 밖으로 나가 세상의 빛을 보았습니다. 진리를 깨우친 그는 동굴로 돌아가 사람들을 바깥으로 이끌려 합니다. 하지만 사람들은 그를 비웃습니다. 심지어 죽이려 합니다. 무지의 어둠에서 벗어나 진리의 빛을 찾기가 얼마나 어려운지 말해주는 ‘동굴의 비유’입니다. 플라톤은 스승 소크라테스의 죽음을 떠올렸을 것입니다.&lt;br&gt;&lt;br&gt;플라톤이 꿈꾼 정의로운 국가는 진리를 깨우치는 것만큼이나 실현하기 어렵습니다. 그럼에도 정의로운 국가의 이상(理想)을 포기할 수 없었습니다. 플라톤은 ‘국가’를 통해 이렇게 말합니다. “현실이 아무리 어두워도 마음속 이상의 빛을 따라가라.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[리빙포인트] 우산 손잡이가 끈적이면 손 소독제</title>
       <link>https://www.chosun.com/national/national_general/2026/09/07/TXAD3GZESRCTJERQG5D4UHVRIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/07/TXAD3GZESRCTJERQG5D4UHVRIA/</guid>
@@ -467,51 +539,6 @@
       <description/>
       <pubDate>Sun, 06 Sep 2026 15:39:00 +0000</pubDate>
       <content:encoded>전국 대체로 맑은 가운데 강원·제주는 오전까지 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ5YXLCYMVEDBPFCBIISGSTHCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 추계(推計)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/09/07/YTRI5EIBPVCDVIG5KBAUVSIFWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/09/07/YTRI5EIBPVCDVIG5KBAUVSIFWU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJY5463BORBOTCOX34FVX7H2RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2943] 문장 꽈배기</title>
-      <link>https://www.chosun.com/national/nie/2026/09/07/EENINPDRPJECHFVSZJYM4JNJ4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/09/07/EENINPDRPJECHFVSZJYM4JNJ4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INZ2SM6VERB2XD47B7ZAUHNP5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 비용을 충당하고도 돈이 남다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/09/07/EHZE5XEHUFBMVEGNJNOCOL2ZSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/09/07/EHZE5XEHUFBMVEGNJNOCOL2ZSU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XSJTOALCBELRF5ECGQGIXFJLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 주의하여 살피다, 눈여겨보다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/09/07/Y5SRJPHYKBBKNM546YGBNQBIKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/09/07/Y5SRJPHYKBBKNM546YGBNQBIKY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKT76645OZGD3CGLV2VEFDVFSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] a blast from the past</title>
-      <link>https://www.chosun.com/national/nie/english/2026/09/07/IDDZOZICVVC3TNHQFABHP5HUPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/09/07/IDDZOZICVVC3TNHQFABHP5HUPA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLAOR3WXQVAVBJYFL72SBP4JVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>민주노총 간부, 10층 건물 외벽 매달려 “부당징계” 주장</title>
@@ -542,15 +569,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/26QWX7YUKRF6PBCRPK4P6FU75A.png?auth=09f8b05513a7e9a78220ddfbe62387aa1510c4c19d5883b08df3717538b21dbd&amp;smart=true&amp;width=1672&amp;height=941" type="image/png" height="941" width="1672">
         <media:description type="plain">/AI 생성 이미지</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>부산 전복 예인선 닷새째 수색… 실종자 6명 못 찾아</title>
-      <link>https://www.chosun.com/national/regional/2026/09/06/DDPVU5P6JBFK5DN7VMDUB4FPP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/06/DDPVU5P6JBFK5DN7VMDUB4FPP4/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Sep 2026 01:19:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCZBYMQYWIOJRHA3GGZLFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰이 지난 5일 부산 해운대구 송정해수욕장 부근 죽도공원 일원에서 부산 예인선 실종자 6명(내국인 5명, 인도네시아인 1명)을 찾기 위한 육상 및 해안가 수색을 벌이는 모습. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 오륙도 앞바다에서 전복된 예인선 티엔에스캐처호의 실종자 6명을 찾기 위한 수색이 닷새째 이어지고 있으나, 현재까지 실종자를 발견하지 못하고 있다.&lt;br&gt;&lt;br&gt;6일 부산해양경찰서에 따르면, 이날 오전 사고 해역에 함선 6척과 항공기 8대를 투입해 수색 작업을 진행한다. 1000t급 이상 대형 함선이 동원됐다.&lt;br&gt;&lt;br&gt;해경은 가로 65㎞, 세로 31㎞ 구역을 설정하고 집중적으로 해상 수색을 벌일 예정이다. 부산 앞바다에 풍랑주의보가 발효돼 수중 수색이 여전히 어려운 상황이다. &lt;br&gt;&lt;br&gt;현재 사고 해역에는 북동풍이 초속 20~22m, 파도는 3~4m 높이로 일었다. 풍랑주의보는 8일 해제될 것으로 예고됐다. &lt;br&gt;&lt;br&gt;한편 티엔에스캐처호는 지난 2일 오후 1시 29분쯤 오륙도 동쪽 약 9㎞ 해상에서 전복됐다. 선원 8명 가운데 인도네시아인 1명은 구조됐으나 한국인 1명은 의식을 잃은 채 발견돼 숨졌다. 나머지 6명(한국인 5명, 인도네시아인 1명)은 실종됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가을 밤하늘 수놓은 ‘불꽃’… 53만 인파가 탄성 질렀다</title>
