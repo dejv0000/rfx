@@ -13,6 +13,103 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울경찰청 “방산·R&amp;D·투자 안보 관련 적극 수사할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/10/QSFT22IAF5B6ROPEDNVWXKBMDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/10/QSFT22IAF5B6ROPEDNVWXKBMDU/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 11:34:46 +0000</pubDate>
+      <content:encoded>서울경찰청이 산업기술 유출 수사 역량을 강화하기 위한 정책 포럼을 10일 개최했다. 최근 기술 유출 범죄가 증가하고, 간첩죄의 범위를 ‘적국’에서 중국 등 외국까지 확대하는 개정안 시행을 앞둔 상황에서, 경찰 기술 수사의 향후 방향을 논의하겠다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4ISB4BKWVHK5LQXPR2TL2N47M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 서울경찰청에서 열린 산업기술보호 정책포럼 참가자들의 모습. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울경찰청 산업기술안보수사대가 개최한 포럼에선 산업기술 수사 역량 강화 방안, 기술 유출 2차 피해 방지를 위한 제도 개선, 대학·기관 간 연구 보안 강화 등 세 가지 주제에 대한 발표와 토론이 진행됐다.&lt;br&gt;&lt;br&gt;앞서 경찰청 국가수사본부는 서울경찰청과 경기남부경찰청에 설치된 산업기술 유출 전담 수사대 1곳을 각 2곳으로 확대하고, 기술 분야별 전담팀을 지정하겠다고 밝혔다. 이날 포럼에선 이에 대한 세부적인 방안이 발표됐다.&lt;br&gt;&lt;br&gt;서울경찰청 관계자는 “방산·무역 안보, R&amp;amp;D 안보, 투자 안보 등 세 분야에 초점을 맞출 것”이라며 “일례로 최근에는 외국계 사모펀드 등이 합법적인 인수·합병을 가장해 국내 기업의 기술만 빼내는 사례가 보고되고 있는데, 이런 사례에 대해서도 수사 역량을 강화할 것”이라고 했다.&lt;br&gt;&lt;br&gt;학계 등 외부와의 협력도 강화하기로 했다. 서울청은 산업기술안보수사대에 대외협력팀을 따로 배치해 운영 중이다. 대학·기업 등과 적극적으로 교류해 피해 상담, 중소기업 보호·지원, 기술 유출 범죄 예방·홍보 등을 전담하는 역할이다. &lt;br&gt;&lt;br&gt;서울경찰청 관계자는 “산업기술 유출은 개별 기업의 손실을 넘어 국가 경쟁력과 안보에 직결되는 중대 범죄”라며 “현장의 목소리를 수사와 정책에 반영해 사전예방 중심의 대응체계를 갖춰 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파주 아파트서 탈북 여성 숨진 채 발견…용의자 해외 출국</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/10/7YYCXEVWRVH3ZGHGA6HXYTTL5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/10/7YYCXEVWRVH3ZGHGA6HXYTTL5Y/</guid>
+      <dc:creator>파주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 11:15:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4TOMTFMIZWIZTGMU4TCY3FME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고 ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주의 한 아파트에서 30대 북한이탈주민 여성의 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;10일 파주경찰서에 따르면 지난 9일 오전 10시 35분쯤 파주시 와동동의 한 아파트에서 30대 여성 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 북한이탈주민으로 경찰은 연락이 닿지 않자 상태를 확인하기 위해 소방당국과 공동 대응에 나섰다. 출입문이 열리지 않자 문을 개방했고, 집 안에 들어간 뒤 숨진 A씨를 발견했다.&lt;br&gt;&lt;br&gt;발견 당시 A씨의 시신은 부패가 상당히 진행된 상태인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 현장 확인 과정에서 범죄 혐의점을 포착해 수사에 착수했다. 부검 소견에서도 타살 정황이 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 범행이 지난달 초쯤 이뤄진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 연인이었던 B씨를 유력한 용의자로 보고 추적하고 있다. B씨는 범행 후 해외로 출국한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 인터폴에 공조 수사를 요청하는 등 B씨의 행방을 쫓고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남대·공주대 통합 무산… 충남대 구성원 반대 우세</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/09/10/54FJIPT6F5BJFFVRM7ZILOZJQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/09/10/54FJIPT6F5BJFFVRM7ZILOZJQE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 10:56:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWNDYXP4RZPHJKZYJMMMD3HOMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남대와 공주대의 통합 찬반투표 마지막 날인 10일 대전 충남대 교내에 통합에 반대하는 내용을 담은 근조화환이 줄지어 세워져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남대학교와 국립공주대학교의 통합이 무산됐다. 대학 구성원이 참여한 양 대학의 통합안 찬반 투표 결과 충남대 구성원들의 찬성 의견이 과반을 넘지 못하면서 부결됐다.&lt;br&gt;&lt;br&gt;충남대와 공주대는 지난 8일부터 10일까지 사흘 동안 교원과 직원, 학생 등 대학 구성원을 대상으로 통합안 찬반 온라인 투표를 진행했다.&lt;br&gt;&lt;br&gt;투표 결과 충남대에서는 찬성 46.58%, 반대 53.42%로 집계됐다. 교원 50%, 직원·조교 30%, 학부생 15%, 대학원생 5%의 직군별 반영 비율을 적용한 수치다. &lt;br&gt;&lt;br&gt;반면, 공주대는 60.56%가 찬성, 39.44%가 반대해 통합 찬성 의견이 높았다. &lt;br&gt;&lt;br&gt;하지만 양 대학 모두 찬성 의견이 우세해야 한다는 조건을 충족하지 못하면서 통합이 사실상 무산된 것이다.&lt;br&gt;&lt;br&gt;앞서 충남대·공주대는 통합 대학 운영 방안을 담은 ‘대학 통합 이행 합의서’를 최종 의결했다. 이행 합의서에는 통합 대학 교명을 ‘충남대학교’로 하고, 통합 대학의 법적 대표 주소는 대전으로, 본부는 대전과 충남 공주에 각각 두는 내용이 담겼다. 대전·공주 캠퍼스에는 각각 캠퍼스총장(부총장)을 두고 그 산하에 교무·학생 관련 필수 실무 부서를 유지해 독립성을 보장하기로 했다.&lt;br&gt;&lt;br&gt;또 통합 대학 재학생은 통합 전 입학한 대학의 학칙을 적용해 졸업하되, 통합 대학 졸업 요건을 충족하면 통합 대학 명의의 졸업장을 받을 수 있도록 했다.&lt;br&gt;&lt;br&gt;통합 학과가 모집 단위를 분리해 선발한 통합 대학 신입생의 경우 졸업장에 입학 캠퍼스를 명기하기로 했다.&lt;br&gt;&lt;br&gt;이번 구성원 투표에서 찬성이 우세했다면 양 대학은 교무회의와 대학평의회 심의를 거쳐 이르면 이달 중 교육부에 최종 통합 신청서를 제출하고 최종 승인을 받아 2028년 통합 대학을 출범시킬 계획이었다.&lt;br&gt;&lt;br&gt;한편, 충남대와 공주대는 지난해 9월부터 통합을 전제로 교육부가 주관하는 ‘글로컬 30 프로젝트’에 참여하고 있다. 이 프로젝트에 선정된 대학은 최대 5년간 1000억원, 통합 대학은 최대 1500억원의 사업비를 지원받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>빅뱅 출신 승리, 특수폭행 혐의로 고소 당해</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/10/NRKVAK7RXBAUXJMQK23WQKBTWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/10/NRKVAK7RXBAUXJMQK23WQKBTWQ/</guid>
+      <dc:creator>원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 10:25:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RO2VLUQI2HSZEVFHMQCZLYOJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 빅뱅 전 멤버 승리./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 아이돌 그룹 ‘빅뱅’ 출신 가수 승리(본명 이승현·36)가 30대 남성을 폭행한 혐의로 고소당했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난달 26일 이씨를 특수폭행 혐의로 처벌해달라는 고소장을 접수했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;이씨는 서울 강남구의 한 식당에서 함께 식사하던 30대 남성을 폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “고소인 조사도 아직 이루어지지 않은 상태”라고 전했다. 경찰은 자세한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;2006년 빅뱅 멤버로 데뷔한 이씨는 2019년 클럽 버닝썬에서 불거진 이른바 ‘버닝썬 게이트’의 핵심 인물로 지목됐다. 이후 상습도박, 성매매 알선, 횡령 등 총 9개 혐의로 재판에 넘겨졌으며, 대법원은 이씨에게 징역 1년 6개월 실형을 선고했다. &lt;br&gt;&lt;br&gt;해당 사건 이후 이씨는 빅뱅에서 탈퇴했으며, 2023년 2월 9일 경기 여주교도소에서 출소했다. 출소 후에는 캄보디아 등 해외 클럽에서 종종 모습을 드러내며 근황이 알려지기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [산 이야기] 가장 최근 지정된 국립공원… 잘 마르지 않는 ‘금샘’에서 산 이름 땄대요</title>
+      <link>https://www.chosun.com/national/nie/2026/09/07/BOV4MARV7RCCXCKMEPKD2W4TWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/09/07/BOV4MARV7RCCXCKMEPKD2W4TWU/</guid>
+      <dc:creator>신준범 월간 산 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Sep 2026 15:40:00 +0000</pubDate>
+      <content:encoded>부산에는 해운대 해변 못지않게 시민들에게 사랑받는 곳이 있습니다. 지난 3월 전국 24번째 국립공원으로 지정된 금정산(801m)입니다. 한자로 쇠 금(金), 우물 정(井) 자를 쓰는데요. 정상 인근에는 ‘금샘’이라는 이름의 바위샘이 있어요. 이곳의 물은 잘 마르지 않는 것으로 유명하대요. 빗물이 고이고, 밤이 되면 차가워진 바위에 안개나 공기 중 수증기가 물방울로 맺히는 결로 작용으로 물을 머금게 되는 것이죠. 옛 전설에 따르면 오색구름을 탄 금빛 물고기가 하늘에서 내려와 이 샘에서 헤엄쳤다고 해요. 산에 있는 사찰 범어사(梵魚寺) 이름에는 물고기 어(魚) 자가 들어가 있는데, 역시 하늘에서 내려온 금빛 물고기 전설이 깃든 이름입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OIHHR3PBRGSVC55K6JK2OLCQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 금정산 정상 부근에 있는 금샘. 물이 잘 마르지 않는대요. /주민욱 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금정산 능선을 따라 꿈틀거리듯 이어진 금정산성은 전체 길이가 약 18㎞입니다. 임진왜란과 병자호란을 겪은 조선은 1703년(숙종 29년) 성을 쌓았고, 약 100년이 지나 성을 크게 보수했습니다. 흥미로운 점은 이 거대한 군사 요새에서 큰 전투가 한 번도 벌어지지 않았다는 사실입니다. 전쟁을 비켜간 덕에 성벽과 성문이 비교적 잘 남아 있습니다. 지금은 성벽을 따라 걸으며 동해와 낙동강을 동시에 내려다보는 빼어난 등산로가 됐습니다. &lt;br&gt;&lt;br&gt;성벽 안쪽 해발 400m 분지에는 비밀 기지 같은 ‘산성 마을’이 숨어 있습니다. 성을 쌓던 인부들과 군인들이 모여 살기 시작한 마을에서 전국적인 명물이 탄생했습니다. 바로 ‘금정산성 막걸리’입니다. 고된 노역을 달래기 위해 즐겨 마셨다고 전해지는 이 막걸리는 지금도 누룩을 발로 꾹꾹 밟아 띄우는 전통 방식을 고수합니다. 특유의 새콤하고 알싸한 맛이 소문나 박정희 전 대통령이 ‘대한민국 민속주 1호’로 지정한 일화도 유명합니다.&lt;br&gt;&lt;br&gt;금정산은 억겁의 세월 동안 비바람이 화강암을 조각해 놓은 야외 전시장입니다. 펼쳐진 부채를 닮은 거대한 부채바위, 나비 날개를 닮은 나비암 등 곳곳에 기기묘묘한 바위들이 솟아 있습니다. &lt;br&gt;&lt;br&gt;가장 인기 있는 산길은 범어사에서 출발해 북문을 거쳐 정상인 고당봉에 오르는 코스입니다. 부산 최고봉인 고당봉 꼭대기에 서면 발밑으로 부산 도심과 낙동강이 펼쳐집니다.&lt;br&gt;&lt;br&gt;정상에서 탁 트인 사방을 눈에 담았다면, 다시 북문으로 내려와 동문으로 이어지는 능선길을 걸어 보시길 권합니다. 완만하게 이어지는 옛 성곽 돌길을 따라 걷다 보면 원효봉에 닿아 고당봉과는 또 다른 부산의 경치를 마주하게 됩니다. 멀리 부산 앞바다와 회동수원지가 한눈에 들어옵니다. 원효봉을 지나 제4망루와 의상봉으로 이어지는 성곽길은 바위 능선들이 야외 조각 미술관처럼 펼쳐져 걷는 내내 지루할 틈을 주지 않습니다. 향이 짙고 우아한 소나무 숲도 만납니다. 동문에 도착해 조금만 더 아래로 내려오면 버스를 탈 수 있습니다. 거대한 바위 능선과 역사 깊은 산성을 종주하고도 대중교통으로 편리하게 도심으로 돌아올 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 최승호 삼전 노조위원장, ‘장인회사 계약’으로 경찰 고발돼</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/10/JX3OKLUEI5HGPOWFNBDPME2T4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/10/JX3OKLUEI5HGPOWFNBDPME2T4A/</guid>
+      <dc:creator>지혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 08:40:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YTGNZYGQZGMN3EG5QTQNLFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최승호 삼성그룹 초기업노동조합 삼성전자 지부 위원장이 집회용 조끼 등 물품을 장인이 운영하는 업체에서 구매했다는 ‘가족 특혜’ 논란과 관련해 경찰에 고발당했다.&lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 최 위원장을 배임, 업무방해 등 혐의로 10일 서울경찰청에 고발했다고 밝혔다. &lt;br&gt;&lt;br&gt;서민위는 고발장을 통해 “최 위원장은 가족 업체를 배제하고 공정하고 합리적으로 업체를 선정할 필요성이 있었음에도 이를 무시하고 장인의 업체에 일감을 몰아줬다”고 지적했다. 이어 “기업에서 일어나면 범죄이고, 삼성그룹 초기업노조 삼성전자 지부에서 발생하면 문제 없다는 사고는 노조원의 명예를 짓밟는 행위”라고 주장했다. &lt;br&gt;&lt;br&gt;9일 업계에 따르면 최 위원장은 지난 3월 공동투쟁본부가 구성된 이후 홍보 활동과 집회에 사용할 3억7000만 원 대 물품 발주 계약을 자신의 장인이 운영하는 업체와 체결했다. 초기업노조는 해당 업체로부터 우의, 신호봉, 앰프 등 집회·행사용 물품 등을 구매한 것으로 전해진다. &lt;br&gt;&lt;br&gt;이를 두고 삼성전자 안팎에서는 가족 특혜 의혹과 이해충돌 논란이 확산되고 있다. 최 위원장이 부당 이익을 취한 것이 아니냐는 의혹도 제기됐다. &lt;br&gt;&lt;br&gt;논란이 확산되자 최 위원장은 이날 기업노조 조합원 익명 채팅방에 글을 올리고 “장인 업체와의 계약은 위원장 개인이나 친족에게 부당한 이익을 제공하기 위한 계약이 아니라 당시의 가격과 납품 일정 등 실제 계약 조건을 비교해 이뤄진 것”이라고 해명했다. 장인 업체가 상대적으로 낮은 단가를 제시했고, 공동투쟁본부가 요구한 일정에 맞춰 납품할 수 있다는 점을 고려했다는 설명이다.&lt;br&gt;&lt;br&gt;그러나 초기업노조 일부 전·현직 조합원들은 최 위원장을 비롯한 노조 집행부를 상대로 소송을 제기하기 위해 소송단을 꾸리고 있는 것으로 알려졌다. 이들은 최 위원장의 계약이 업무상 배임·횡령 혐의에 해당하는지 사안을 검토하고 있다.&lt;br&gt;&lt;br&gt;한편 최 위원장에게 제기된 논란은 이번이 처음이 아니다. 지난 5월 최 위원장이 약 500만 원의 직책수당을 수령한 사실이 알려지자 노조 운영의 투명성에 대한 지적이 나왔다. 이 때문에 초기업노조는 직책수당 금액 한도 정비를 약속했다. 그는 또 지난 4일 삼성전자 임직원 개인정보를 무단으로 확보해 노조 블랙리스트를 만든 혐의로 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6VFH7LZBE5GCXDIOGYBRMBDKPI.jpg?auth=65f90bbf6813a038aeb93b14eef4f6484f88707bde7352df64750c23354d8ec5&amp;smart=true&amp;width=2925&amp;height=1645" type="image/jpeg" height="1645" width="2925">
+        <media:description type="plain">최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘홈플러스 사태’ 김병주 MBK 회장 피의자 소환 조사 </title>
+      <link>https://www.chosun.com/national/court_law/2026/09/10/ZJ6SK5XVWJBSXMJSBX3EAABJDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/10/ZJ6SK5XVWJBSXMJSBX3EAABJDU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 08:21:17 +0000</pubDate>
+      <content:encoded>‘홈플러스 사태’를 수사 중인 검찰이 10일 김병주 MBK파트너스 회장을 피의자 신분으로 불러 조사했다. 지난 1월 김 회장에 대한 구속영장이 기각된 이후 첫 조사다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTMN3DMQZDCM3FGNSWGZJZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'홈플러스 사태' 관련 자본시장법 위반 등의 혐의를 받는 김병주 MBK파트너스 회장이 지난 1월 13일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사2부(부장 이상혁)는 이날 오전부터 특정경제범죄가중처벌법상 사기·자본시장법 위반(사기적 부정 거래) 등 혐의를 받는 김 회장을 피의자로 불러 조사했다.&lt;br&gt;&lt;br&gt;홈플러스 사태는 홈플러스와 대주주인 사모펀드(PEF) 운용사 MBK파트너스가 신용 등급 하락 가능성을 알고도 820억원 규모의 단기 채권을 발행·판매해 납품업체와 투자자 등에게 손실을 끼쳤다는 내용이다.&lt;br&gt;&lt;br&gt;검찰은 김 회장 등 MBK 임원진이 2023년 말부터 홈플러스의 적자 상황을 직접 보고받은 점 등에 비춰, 이들이 적어도 지난해 2월쯤에는 홈플러스의 신용 등급이 내려갈 가능성이 크다는 사실을 알고 있었을 것으로 보고 있다.&lt;br&gt;&lt;br&gt;한국기업평가는 지난해 2월 홈플러스의 신용 등급을 ‘A3’에서 ‘A3-’로 한 단계 내렸다. 홈플러스는 나흘 뒤인 3월 4일 서울회생법원에 기업 회생 절차를 신청했다. 검찰은 MBK 임원진 등이 신용 등급 하락의 위험성을 알고도 무더기 채권을 판매한 뒤 기업 회생 신청을 한 것이 고의적인 부정 거래라고 의심하고 있다.&lt;br&gt;&lt;br&gt;당초 이 사건을 수사한 서울중앙지검 반부패수사3부는 지난 1월 김 회장과 김광일 MBK 부회장(홈플러스 대표) 등 경영진 4명에 대해 구속영장을 청구했다. 그러나 법원은 “사건의 피해 결과가 매우 중한 것은 분명하지만 현재까지 제출된 자료만으로는 구속할 정도의 혐의 소명이 부족하다”며 구속영장을 모두 기각했다.&lt;br&gt;&lt;br&gt;이후 검찰은 이 사건을 반부패수사3부에서 2부로 다시 배당한 뒤, 법리를 재검토하는 등 보강 수사를 이어왔다. 검찰은 사건을 재배당한 이유에 대해 “수사를 개시·진행한 부서가 아닌 새로운 부서에서 객관적인 시각으로 판단하기 위한 조치”라고 설명한 바 있다. 검찰은 조만간 김 회장 등에 대한 기소 여부를 결정할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>法, 부산 북항 환승센터 갈등에 “양측 자율 협의” 권고</title>
+      <link>https://www.chosun.com/national/regional/2026/09/10/QPMYFF3JEBDZXNOD4QRUGUJ6LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/10/QPMYFF3JEBDZXNOD4QRUGUJ6LQ/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 08:08:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SHM4D2QPNAGFHJHH5A7AFFMRA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;부산 북항환승센터 전경. /부산항만공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산항 북항 복합 환승센터의 설계 오류를 놓고 부산항만공사(BPA)와 사업자가 법적 다툼을 벌이는 가운데 법원은 양측에 자율 협의를 권고했다.&lt;br&gt;&lt;br&gt;부산지법 민사14부(재판장 신헌기)는 10일 부산항만공사가 북항 복합 환승센터 사업자인 피큐건설을 상대로 제기한 공사 중지 가처분 신청 소송의 심리를 진행했다.&lt;br&gt;&lt;br&gt;재판부는 북항 재개발 사업의 공공성과 신속성을 강조하며 법원의 판단에 앞서 양측이 자율적으로 협의하는 과정이 필요하다고 했다.&lt;br&gt;&lt;br&gt;재판부는 “북항이 부산에서 가진 입지와 공공성에 대해선 시민들이 잘 알고 있다”면서 “공공성이 가장 우선돼야 하고, 신속하게 개발돼 북항이 시민 품으로 하루빨리 돌아가야 한다”고 했다. 이어 “피큐건설은 부산항만공사가 원하는 것이 무엇인지 확인해 제안하고, 부산항만공사도 이를 검토하는 절차를 거쳐야 한다고 본다”며 “부산항만공사가 제안을 받아들이지 못하겠다고 하면 어쩔 수 없는 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “일주일간 시간을 주겠다. 쌍방이 만나 원하는 것이 무엇인지 허심탄회하게 이야기해라. 원한다면 법원에서 만나는 자리를 마련해 줄 수 있다”면서 “그래도 협의되지 않으면 추석 전에 결정을 내리겠다”고 했다.&lt;br&gt;&lt;br&gt;피큐건설은 2016년 항만공사에서 북항 부지 2만5715㎡(약 7800평)를 974억원에 사들였다. 피큐건설은 부산 지역 건설사인 협성종합건업 계열사다. 여기에 지상 24층 건물 2동을 짓고 부산역과 부산국제여객터미널 등을 잇는 길이 250m 공중 보행로를 놓기로 했다. 건물에는 오피스텔, 영화관, 환승 시설 등이 들어선다. 총 공사비는 약 4000억원으로 2029년 완공이 목표다.&lt;br&gt;&lt;br&gt;그런데 2024년 11월 부산시 건축위원회 협의 과정에서 설계안에 문제가 발견됐다. 사업자 측이 설계한 공중 보행로의 높이가 부산역 연결 통로보다 3.3m 높은 것이다. 이를 두고 “이렇게 단차가 크면 부산역의 바다 조망을 해치게 된다”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;이후 항만공사와 사업자 간 갈등이 이어졌다. 항만공사 측은 “사업자 측에 단차 문제를 시정하라고 요구했지만 계속 공사를 진행해 계약 해제가 불가피했다”고 했다. 사업자 측은 “적법한 인허가 절차를 거쳐 공사를 시작했다”며 “설계가 잘못된 사실을 파악한 뒤 손해를 감수하고 시정 계획을 만들었는데 항만공사가 지연 배상금, 이행 보증보험 등을 요구하며 일방적으로 매매 계약을 해제했다”고 했다.&lt;br&gt;&lt;br&gt;북항 관할 지자체인 부산 동구는 사업자가 제출한 설계 변경안과 공사 감리자 의견 등을 검토한 결과, 건축위원회 심의 내용과 다르게 기초 지정 공사와 일부 골조 공사가 진행된 사실을 확인하고 공사 중지 명령을 내린 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIZO5SEHHVCUVOGLSONC3FBWN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 부산 연제구 부산검찰청 앞에서 부산항 북항복합환승센터 공사에 참여하는 하청업체 관계자들이 공사 재개를 촉구하고 있다. /권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이날 오후 사업자 측 협력업체들은 부산 연제구 부산지검 앞에서 기자회견을 열고 공사 재개와 생존권 보장을 요구하는 집회를 열었다. 이들은 “200명이 넘는 직원과 그 가족들의 생계가 달린 문제”라면서 “잘못된 부분은 원칙대로 바로잡아 달라. 하지만 단차와 관련 없는 지하 공사만이라도 재개하게 해달라”고 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법률 자문 명목 ‘불법 정치자금 수수’ 김영선 전 의원, 1심서 징역형 집유 </title>
+      <link>https://www.chosun.com/national/2026/09/10/62EYWXCV4BEPZNC2OJFOLLGMYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/10/62EYWXCV4BEPZNC2OJFOLLGMYU/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 08:01:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZWGODCG4YDIOLBGM4DMOBVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 김영선 전 국회의원이 경남 창원시 성산구 창원지방법원에서 열린 정치자금법 위반 등 혐의 선고 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법률 자문을 가장해 정치자금을 수수한 혐의 등으로 재판에 넘겨진 김영선 전 국회의원에게 1심 재판부가 징역형의 집행유예를 선고했다. 검찰 기소 1년 만이다. &lt;br&gt;&lt;br&gt;창원지법 형사2부(부장 김성환)는 10일 정치자금법 위반 등 혐의로 기소된 김 전 의원에게 징역 1년에 집행유예 2년, 벌금 100만원을 선고했다. 또 4050만원의 추징도 명령했다.&lt;br&gt;&lt;br&gt;김 전 의원은 2021년 9월부터 2022년 10월까지 경북 안동 재력가 A씨에게 법률 자문비를 가장한 정치자금 4050만원을 기부받은 혐의(정치자금법 위반)를 받는다.&lt;br&gt;&lt;br&gt;재판부는 “김 전 의원이 21대 국회의원 보궐선거 출마 비용을 마련하고자 아들의 정계 진출을 희망하던 A씨와 접촉해 법률 자문 계약을 맺고 정치자금을 받았다”며 “2021년 윤석열 대통령 선거 예비후보 조직본부에 합류하면서 변호사 사무실을 폐업해 다른 변호사 명의를 빌려 법률 자문비 명목으로 정치자금을 받은 사실이 인정된다”는 취지로 판단했다. 이어 “다선 국회의원이자 변호사로서 정치자금법의 취지를 누구보다 잘 알면서도, 법으로 정하지 않은 방식으로 정치자금을 수수했다”고 지적했다. &lt;br&gt;&lt;br&gt;A씨에게는 “아들의 정치 입문과 활동을 도움받으려고 김 전 의원에게 정치자금을 기부하려는 명백한 의사가 있었다”면서 징역 8개월에 집행유예 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 또 김 전 의원이 2023년 회계 보고 당시 회계 책임자였던 강혜경씨에 대한 관리·감독을 소홀히 한 혐의에 대해서도 일부 유죄(벌금 100만원)로 인정했다. &lt;br&gt;&lt;br&gt;다만, 국회의원 직무상 알게 된 창원제2국가산단 후보지 정보를 공인중개사에게 누설해 친동생 2명이 인근 부동산을 3억4000만원에 취득하게 한 혐의(공무상 비밀 누설 및 이해충돌방지법 위반)에 대해서는 무죄를 선고했다. 재판부는 “김 전 의원이 취득한 정보는 실제 최신 후보지 정보와 달랐고, 구체성도 떨어져 비밀로서의 가치가 부족하다”고 판시했다. 이에 따라 동생 2명에게도 모두 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;국회 정책 개발비 2000만원을 허위 보고서로 편취한 혐의(사기) 역시 무죄로 결론 났다. 수사기관이 강혜경씨에게서 압수한 통화 녹음 파일이 별도의 영장 없이 수집된 ‘위법 수집 증거’에 해당해 증거 능력을 상실했기 때문이다.&lt;br&gt;&lt;br&gt;재판부는 김 전 의원에게 자금을 건넨 사업가 A씨에게 징역 8개월에 집행유예 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;이날 정치자금법 위반 혐의로 별도 기소된 전 회계책임자 강혜경씨에게는 총 900만원의 벌금형이 내려졌다. 강씨는 회계장부 허위 기재 및 사적 유용(벌금 100만원) 외에도, 공천 대가성으로 김 전 의원과 정치브로커 명태균씨 사이에 8070만원을 전달하는 데 관여한 혐의(벌금 800만원)가 유죄로 인정됐다. 해당 8070만원 수수 건과 관련해 명씨와 김 전 의원은 앞서 1심에서 무죄를 선고받은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 9월 11일 금요일 (음력 8월 1일 戊子)</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/10/DNTNCKOMQVCZLG6GMSVH2EMAPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/10/DNTNCKOMQVCZLG6GMSVH2EMAPY/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>인천시 직원 700명 주민등록번호 무단 보관한 민간업체 적발</title>
       <link>https://www.chosun.com/national/incident/2026/09/10/7E6SWR6TDRD7HJJ3SCOFIT2HNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/10/7E6SWR6TDRD7HJJ3SCOFIT2HNM/</guid>
@@ -839,33 +936,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2VXZH5P5FCJ7JXCJRC63PXUL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;특정범죄 가중처벌 등에 관한 법률 위반(보복 살인) 등 혐의를 받는 A씨가 이동하는 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 소송 중인 아내를 찾아가 자녀 앞에서 살해한 30대 현직 공무원이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 광주경찰서는 특정범죄 가중처벌 등에 관한 법률 위반(보복살인), 아동복지법 위반(아동학대), 가정폭력처벌법 위반, 특수주거침입 등 혐의로 A씨를 구속 송치했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오전 7시 17분쯤 경기 광주시의 한 다세대주택 건물 계단에서 가정폭력을 피해 집을 떠나 피신해 있던 아내를 흉기로 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 나이가 어린 자녀가 지켜보는 가운데 범행을 저질러 정서적으로 학대한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 아내와의 이혼 소송에서 불리한 결과를 받을 것으로 생각해 이혼 소장에 적힌 아내의 임시 거처 주소로 찾아가 범행을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이날 검은색 모자와 마스크로 얼굴을 가린 A씨는 유치장이 있는 분당경찰서에서 나와 수원지검 성남지청으로 향하는 호송차에 오르면서 “이혼 소장을 받고 화가 나 아내를 찾아간 게 맞느냐” “애초에 살해 목적이 있었나” “범행을 목격한 아이에게 미안하지 않으냐”는 등 취재진 질문에 아무런 답변을 하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김포 차량서 50대 여성 시신 발견…피의자 60대 男, 파주서 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2026/07/14/GFNNLRO3PFFPZGEYWRPO5YJFUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/07/14/GFNNLRO3PFFPZGEYWRPO5YJFUI/</guid>
-      <dc:creator>파주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jul 2026 00:33:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YTIYTFG5RTAODDGQ4DCNLBGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포의 주차된 차량에서 여성의 시신이 발견됐다. 유력한 살인 피의자인 남성은 파주에서 추락해 숨졌다.&lt;br&gt;&lt;br&gt;14일 경찰에 따르면 이날 오전 6시 30분쯤 살인 의심 신고를 받고 출동한 경찰이 김포시 도로에 주차된 차량에서 50대 여성의 시신을 발견했다.&lt;br&gt;&lt;br&gt;경찰은 신고 내용 등을 토대로 60대 남성 A씨를 피의자로 특정하고 그의 주거지인 파주시의 한 아파트로 출동했다.&lt;br&gt;&lt;br&gt;하지만 경찰이 도착했을 때 A씨는 이미 추락해 숨진 상태였다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 피해 여성의 관계 등 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해녀굿서 물질 체험까지… 유네스코 인류무형유산 10년 제주 해녀축제 </title>
-      <link>https://www.chosun.com/national/regional/2026/09/09/GRTE7Z2ZYFDATJJVLR3XIW4ANQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/09/GRTE7Z2ZYFDATJJVLR3XIW4ANQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 01:40:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSTIMLBGE2TEOBZME3GEMJZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주해녀축제/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;유네스코 인류무형문화유산 등재 10주년을 기념하는 제주해녀축제가 열린다.&lt;br&gt;&lt;br&gt;제주도는 오는 19~20일 제주시 구좌읍 해녀박물관 일대에서 ‘인류무형문화유산 등재 10년의 발자취, 숨비소리에 실어 보낸 고백’을 주제로 제19회 제주해녀축제를 연다고 9일 밝혔다. 제주해녀문화는 2016년 11월 30일 유네스코 인류무형문화유산에 등재돼 올해 10년을 맞았다.&lt;br&gt;&lt;br&gt;축제는 해녀의 무사안녕과 풍요로운 바다를 기원하는 해녀굿과 거리 행진으로 시작한다. 이어 제9회 해녀의 날 기념식과 공연, 경연, 체험, 전시 등 5개 부문 33개 프로그램이 펼쳐진다.&lt;br&gt;&lt;br&gt;개막식과 기념식에서는 어린이 창작 뮤지컬을 시작으로 제주해녀 헌장 낭독, 해녀와 어린이 합창 공연, 유네스코 등재 10주년 기념 특별 공연이 이어진다.&lt;br&gt;&lt;br&gt;해녀들이 직접 참여하는 ‘숨비가요제’와 현직 해녀에게 삶의 이야기를 듣는 ‘불턱토크쇼’, 해녀 물질 체험 등도 열린다. 어린이와 가족 관람객은 전통 해녀복을 입고 해녀와 함께 사진을 찍는 ‘숨비스냅’ 등을 체험할 수 있다.&lt;br&gt;&lt;br&gt;올해는 야간에도 축제를 즐길 수 있는 프로그램이 마련됐다. 노을을 보며 해안길을 걷고 쓰레기를 줍는 ‘쓰담 달리기’와 음악과 조명이 어우러진 ‘디제이 공연’ 등도 새롭게 선보인다.&lt;br&gt;&lt;br&gt;축제에 앞서 18일 오후 2시 제주시 메종글래드 제주에서는 ‘살아있는 문화유산, 지속가능한 미래를 그리다’를 주제로 유네스코 등재 10주년 기념 포럼이 열린다. 국내외 전문가와 유관기관 관계자, 제주해녀와 전국해녀협회 소속 해녀 등 150여 명이 참여해 제주해녀문화의 국제적 가치를 돌아보고 지속 가능한 보존·전승 방안을 논의한다. 박상미 한국외국어대학교 교수와 가네코 타다시 세계관광기구 아시아태평양 지역소장이 각각 기조연설한다. 이어 ‘세계는 제주 해녀에게 무엇을 기대하는가’와 ‘다음 10년, 제주 해녀의 미래를 묻다’를 주제로 두 차례 토론을 열어 제주해녀문화의 국제적 의미와 다음 세대로의 전승 과제를 살펴본다.&lt;br&gt;&lt;br&gt;제주도는 10∼11월에도 해녀의 밥상과 해녀 스테이, 물질 체험, 전시 등 해녀의 삶과 문화를 경험할 수 있는 ‘해녀 주간’ 프로그램을 총 16회 운영할 계획이다.&lt;br&gt;&lt;br&gt;김종수 제주도 해양수산국장은 “주민과 관광객이 함께 제주해녀문화를 즐기고 체험할 수 있도록 다양한 행사를 준비했다”며 “제주해녀문화의 가치와 매력을 직접 느껴보기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이혁재, 음주운전 사고로 입건… 신호대기 오토바이 ‘쾅’</title>
-      <link>https://www.chosun.com/national/incident/2026/09/09/YUYEZSHIQRFG5E5QOVLBXSN7T4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/09/YUYEZSHIQRFG5E5QOVLBXSN7T4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 01:12:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYGIZBSGM4TCZBTGJRDSNJZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 이혁재./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 이혁재씨가 음주운전 사고를 내 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 도로교통법상 음주운전 혐의로 이씨를 불구속 입건했다고 9일 밝혔다. &lt;br&gt;&lt;br&gt;이씨는 전날 오후 10시쯤 인천시 연수구 송도동의 한 도로에서 술을 마시고 운전하다 신호 대기 중이던 오토바이를 들이받은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;오토바이 운전자인 20대 남성의 신고를 받고 출동한 경찰은 이씨를 상대로 음주측정을 진행했다. 이씨의 음주측정 결과는 면허 정지 수치(0.03~0.08%)로 나타났다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “조만간 이씨를 불러 구체적인 사고 경위를 조사할 예정”이라며 “사고에 따른 인적 피해는 아직 확인되지 않았으나, 피해가 확인되면 교통사고처리특례법상 치상 혐의도 적용될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[굿모닝 멤버십] 불경기에 셔츠와 로퍼가 불티나게 팔리는 이유</title>
       <link>https://www.chosun.com/national/2026/09/09/IT4PLDFO4RC25ORNZMJDTB753U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/09/09/IT4PLDFO4RC25ORNZMJDTB753U/</guid>
@@ -893,72 +963,6 @@
       <description/>
       <pubDate>Tue, 08 Sep 2026 15:49:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G244JDQVFRMWPJLFSNNOZ62RYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자가 8일 오전 서울 종로구에 마련된 인사청문회 준비사무실로 출근하며 승강기에 올라 손을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 법무부 장관 후보자가 식품의약품안전처장에게 임상 계획 승인을 청탁했다는 의혹이 불거진 바이오기업 제넨셀은 2020~2023년 코스닥 시장에서 이목이 집중됐던 회사다. 코로나19 치료제를 개발한다는 소식에 이른바 ‘주가조작 작전세력’이 불나방처럼 달려들었다. &lt;br&gt;&lt;br&gt;한때 ‘제넨셀 테마주’라고 불리며 주가조작 의혹에 연루된 회사만 8개다. 이 중에는 유명한 기업사냥꾼과 주가조작 선수 등이 포함돼 있었다. 한 업계 관계자는 본지에 “서로가 몰랐다고 잡아떼지만, 주가 조작 전문꾼들이 붙어 큰 그림을 그리고 몇 년에 걸쳐 작업했다는 의심을 지우기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇1차 인도 임상: 골드퍼시픽·KH필룩스&lt;/b&gt;&lt;br&gt;&lt;br&gt;2020년 8월 경희대에서는 코로나19 치료제 신약 개발을 위한 컨소시엄 협약식이 열렸다. 강 교수가 설립한 제넨셀과 골드퍼시픽의 자회사인 에이피알지, 한국파마 등이 함께 임상에 도전한다는 발대식이었다. 강 교수가 식물 추출물을 활용한 치료제 후보 물질(APRG64)을 개발해 경구용 약을 만들겠다는 계획이었다.&lt;br&gt;&lt;br&gt;두 달 뒤 에이피알지는 제넨셀이 인도에서 임상 1상 계획 승인을 받았다는 소식을 전했다. 3개월 여 만에 골드퍼시픽 주가는 약 130%, 한국파마는 약 150% 올랐다. 이후 제넨셀은 유럽 등 5개국에서 임상을 진행 중이라고 했다. 하지만 APRG64에 대한 인도 임상은 치료 효과를 가늠하기 어렵다는 지적이 나오면서 무산됐다. 이에 골드퍼시픽은 APRG64 약효 등을 과장·허위 홍보한 혐의로 검찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;그해 11월 KH그룹 계열사인 KH필룩스도 제넨셀에 15억원을 투자했다. 제넨셀의 임상 소식이 나올 때마다 KH필룩스 주가는 요동쳤다. KH그룹 배상윤 회장은 조직폭력배 출신으로 무자본 인수·합병(M&amp;amp;A) 전문가로 알려진 인물이다. 2014년 쌍방울 인수 때 김성태 전 회장과 함께 주가조작 혐의로 기소돼 징역 2년 6개월에 집행유예 4년을 선고받은 바 있다. 배 회장은 또다른 사건으로 수사받던 중 2022년 6월 해외로 도주해 인터폴 적색수배 돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLBJLGK2HBAOHLUWNXZTGOKUM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇2차 국내 임상: 세종메디칼·타임인베스트&lt;/b&gt;&lt;br&gt;&lt;br&gt;APRG64와 별도로, 강 교수는 대상포진 치료제로 개발하던 ES16001을 코로나 치료제로 추진하며 국내외 임상을 시도했다. 주가조작 선수들이 볼 때 새 재료가 나온 것이다. &lt;br&gt;&lt;br&gt;ES16001 개발에 달려든 회사는 세종메디칼. 이 회사는 2021년 10월 19일 113억원을 투자해 제넨셀을 인수했다. 이 투자 시점을 전후해 석연찮은 일들이 벌어졌다. 석 달 전인 7월 3개의 투자조합이 세종메디칼 창업자 지분을 인수했고, 8월엔 투자전문회사인 ‘타임인베스트먼트’가 대주주로 진입한 뒤 제넨셀 투자를 결정했다. 투자금이 들어가기 일주일 전(12일) 강 교수와 브로커 양모씨의 부탁으로 김 후보자가 식약처장에게 승인을 서둘러 달라고 청탁한 정황이 나왔다. 김 후보자는 “공익적인 민원이었다”는 입장이다. 검찰은 2024년 12월 강 교수와 양씨를 뇌물공여약속 혐의로 기소했다.&lt;br&gt;&lt;br&gt;제넨셀 인수 일주일 뒤, 식약처에서 임상 계획 승인이 떨어졌다. 타임인베스트먼트 인수부터 임상 승인까지 세종메디칼 주가는 2000원 초반대에서 8000원 후반대까지 출렁댔다. 임상 승인 다음 날 최고 8760원까지 올랐다가 투자조합 3곳이 지분을 대거 팔면서 주가는 하락세로 돌아섰다. 이들은 이틀 만에 주식을 다 팔고 나갔다. 전형적인 주가조작 수법인 ‘펌프 앤드 덤프(Pump and Dump·허위 정보로 주가를 띄워 고점에서 팔아치워 이익을 챙기는 것)‘ 흐름이었다. 검찰 수사에서 강 교수가 허위 서류로 식약처 승인을 받아낸 정황이 드러나자, 2023년 5월 임상은 중단됐다. 결국 세종메디칼은 이듬해 3월 주식 거래가 정지됐고, 올 6월 상장폐지가 결정됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇3차 헐값 인수: 카나리아바이오&lt;/b&gt;&lt;br&gt;&lt;br&gt;제넨셀 관련 이슈가 끝나자 제넨셀의 모기업 세종메디칼을 싼값에 먹으려는 회사들이 등장했다. 카나리아바이오의 지주사 격인 카나리아바이오엠은 2022년 7월 세종메디칼을 사실상 인수했다. 이후 세종메디칼 자금으로 거꾸로 카나리아바이오 지분 500억원어치를 사들이게 했다. 기업사냥꾼들의 흔한 수법으로 세종메디칼을 빈껍데기 회사로 만들었다.&lt;br&gt;&lt;br&gt;카나리아바이오의 고문이자 실소유주로 알려진 회계사 출신 이모씨는 ‘주가조작 1인자’로 불리는 인물이다. 그는 지난 2월 난소암 치료제 사업과 관련해 두올물산 등 자신이 운영하던 회사 주가를 조작한 혐의로 1심에서 징역 4년에 벌금 5억원을 선고받았다. 업계에선 “의약품 회사인 세종메디칼을 인수해 신약 사업에 대한 외관상 정당성을 만들려고 했을 것”이라는 말이 나온다. 이씨는 ‘쌍용차 인수’ 경쟁으로 에디슨EV 주가조작 의혹도 받은 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 9월 9일</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/09/ZYVZN57BUBDRTAMAXOVJLWK4OQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/09/ZYVZN57BUBDRTAMAXOVJLWK4OQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Sep 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MHD6N2CUZHZ5BYZPOESVNNEUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국사회학회와 경제·인문사회연구회 국제학술회의 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/09/L7LMCABYZ5HBTFKVMQNYVQ4NP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/09/L7LMCABYZ5HBTFKVMQNYVQ4NP4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Sep 2026 15:39:00 +0000</pubDate>
-      <content:encoded>▲한국사회학회와 경제·인문사회연구회는 11일 서울 여의도 FKI타워 컨퍼런스룸 에메랄드홀에서 ‘루킹 어헤드 코리아 인 2045’를 주제로 국제학술회의를 연다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 구충회 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/09/RZT7YC356VB2ZP5JYQUPMO55GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/09/RZT7YC356VB2ZP5JYQUPMO55GM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Sep 2026 15:39:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;구충회&lt;/b&gt; 前 주멕시코 대사 별세, &lt;b&gt;구자웅&lt;/b&gt; 캐임브리지캐피탈파트너스 대표·&lt;b&gt;구자용&lt;/b&gt; 현대자동차 부사장·&lt;b&gt;구자순&lt;/b&gt; 부친상, &lt;b&gt;권태인&lt;/b&gt; 장인상, &lt;b&gt;이선주&lt;/b&gt;·&lt;b&gt;서연정&lt;/b&gt; 시부상=8일13시 서울아산병원, 발인 10일10시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성상현&lt;/b&gt; 별세, &lt;b&gt;강경애&lt;/b&gt; 남편상, &lt;b&gt;성연진&lt;/b&gt; 헤럴드경제 건설부동산부장·&lt;b&gt;성연주&lt;/b&gt; 엔씨소프트 그래픽디자이너 부친상, &lt;b&gt;동정민&lt;/b&gt; 채널A 정치부장 장인상, &lt;b&gt;김나래&lt;/b&gt; 시부상=7일21시7분 서울성모병원, 발인 10일7시40분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤경자&lt;/b&gt; 별세, &lt;b&gt;신남숙&lt;/b&gt;·&lt;b&gt;신권식&lt;/b&gt; 前 삼성물산 부사장·&lt;b&gt;신현숙&lt;/b&gt;·&lt;b&gt;신민숙&lt;/b&gt; 강남서초교육지원청 행정지원과장·&lt;b&gt;신희숙&lt;/b&gt; 화가 모친상, &lt;b&gt;박상만&lt;/b&gt;·&lt;b&gt;윤종순&lt;/b&gt;·&lt;b&gt;조한서&lt;/b&gt; 장모상, &lt;b&gt;이미영&lt;/b&gt; 시모상=8일6시30분 삼성서울병원, 발인 10일5시45분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이선오&lt;/b&gt; 별세, &lt;b&gt;안승범&lt;/b&gt; 인천대 교수·&lt;b&gt;안승욱&lt;/b&gt; 前 대통령경호처 이사관 모친상=8일8시 서울아산병원, 발인 10일6시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이창순&lt;/b&gt; 별세, &lt;b&gt;유상모&lt;/b&gt; 한국 델테크놀로지스 사장 모친상=8일20시42분 서울성모병원, 발인 10일6시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 대한불교조계종</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/09/LEINGBNKONCUHGCB2OLGUYSA4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/09/LEINGBNKONCUHGCB2OLGUYSA4A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Sep 2026 15:39:00 +0000</pubDate>
-      <content:encoded>▲대한불교조계종 ▷총무원 미래본부 사무총장 일감스님 ▷총무원 미디어홍보실장 일규스님 ▷민족공동체추진본부장 성행스님 ▷민족공동체추진본부 사무총장 덕유스님 ▷불교신문사 사장 효명스님 ▷한국불교문화사업단 사무국장 상원스님 ▷사회복지재단 사무처장 덕운스님&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5000원권 율곡·5만원권 신사임당 그린 한국화 거장 일랑 이종상 화백 별세 </title>
-      <link>https://www.chosun.com/national/people/2026/09/08/QL476UNP25CIDK24BALCV5WBHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/08/QL476UNP25CIDK24BALCV5WBHA/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Sep 2026 13:28:09 +0000</pubDate>
-      <content:encoded>“작품을 수장하고 있는 사람이 이렇게 많은 작가는 나밖에 없다. 누구의 주머니를 뒤져도 내 작품을 갖고 있다. 전 국민이 갖고 있지 않나. 내 작품이 없으면 가난하다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRTGZRZMM4WCNBZGVQTMMRQGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 하나은행 위변조대응센터에서 관계자가 원화 5만원권 지폐를 정리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일랑(一浪) 이종상(88) 화백은 생전 인터뷰에서 자신의 작품을 이렇게 소개했다. 그가 그린 율곡 이이는 5000원권에, 신사임당은 5만원권에 담겼다. 모자의 화폐 영정을 모두 그렸다. 한국화를 현대적으로 이끈 이 화백이 8일 별세했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWQCOPIGXTLKX6PGKSV6Z6XNRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종상 화백이 무대막 작업을 하던 중 휴식을 취하고 있다. 그는 스승 이당 김은호가 남긴 신사임당 초상화를 고증을 거쳐 다시 그렸다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1938년 충남 예산에서 태어난 고인은 서울대 회화과에서 동양화를 전공했다. 대학 재학 중인 1961년 대한민국미술전람회에 대장간 풍경을 그린 ‘장(匠)’을 출품해 특선했고, 3년 연속 특선하며 최연소 추천작가가 됐다. 동국대에서 동양철학을 공부해 박사학위까지 받았다.&lt;br&gt;&lt;br&gt;그는 전통을 보존해야 할 과거의 양식이 아니라 새롭게 밀고 나갈 출발점으로 여겼다. 장지와 동유화 등 재료와 기법을 실험하고, 한국의 자연과 정신을 현대적 조형 언어로 풀어냈다. 인간과 자연, 우주의 근원을 탐구한 ‘원형상’ 연작과 전통 산수화를 오늘의 시선으로 되살린 현대진경을 통해 한국화의 영역을 넓혔다. 서구 미술을 뒤따르지 않고 우리 역사와 재료에서 현대성을 찾아야 한다는 ‘한국 미술의 자생성’이 평생의 화두였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N57VEDN2GVARTNWZREQNCDBHZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종상, 〈장비〉, 1963, 종이에 먹, 색, 290×205cm, 국립현대미술관 소장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그에게 화폐 영정 역시 단순한 도안이 아니었다. 2009년 본지 인터뷰에서 “화폐는 30~50년간 쓰이는 국가의 공유재산이자 문화가치”라며 “화폐에는 국민의 자존심이 담겨 있다”고 했다. 우륵·광개토대왕·원효대사·장보고 등 역사 인물의 표준영정도 다수 제작했다. 1977년부터는 수십 년간 독도를 찾아 바위와 파도, 해돋이를 그리며 ‘독도문화심기운동’을 펼쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTSV3A576PF4SP5CGF6L3FSAIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종상 교수 작 '독도일출'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 교수와 서울대 박물관장을 역임했고, 2004년 대한민국예술원 회원으로 선출됐다. &lt;br&gt;&lt;br&gt;빈소는 고려대 안암병원 장례식장, 발인은 9월 11일 오전 8시.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/N7FLDHR4PFCIHCZZIGOMBXVJEI.jpg?auth=e99408ce495f3fa9f3e9ceae7b43ce7ecdbaa503f0874e21856862edf342d4c1&amp;smart=true&amp;width=160&amp;height=120" type="image/jpeg" height="120" width="160">
-        <media:description type="plain">독도지키기 '문화 의병장'이 된 이종상 교수</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“조국도 선거법 개정 제안”... 윤석열 측 ‘허위사실 공표’ 재판서 무죄 주장</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/08/SB6GM5IRLFAY3MNNQ6WCWEK5JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/08/SB6GM5IRLFAY3MNNQ6WCWEK5JU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Sep 2026 09:17:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWEGSQQ4VRPRXOJP4JM5GQPEZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대선후보 시절 허위사실을 공표한 혐의로 기소된 윤석열 전 대통령 1심 선고 공판이 열린 지난 7월 27일 서울역에서 관련 방송이 생중계되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 대선 당시 허위 사실을 공표한 혐의로 1심에서 당선 무효형이 선고된 윤석열 전 대통령 측이 항소심에서 조국 조국혁신당 혁신정책연구위원장과 이재명 대통령을 거론하며 무죄를 주장했다. &lt;br&gt;&lt;br&gt;윤 전 대통령의 변호인은 8일 서울고법 형사2-1부(재판장 백승엽) 심리로 열린 공직선거법 위반 사건 항소심 첫 공판에서 “조국 위원장도 허위 사실 공표죄가 지나치게 포괄적이어서 자의적인 처벌이 가능하다며 법 개정이 필요하다고 주장했고 민주당에서도 긍정적인 반응을 보인 것으로 안다”고 말했다. 그러면서 “원심을 파기하고 무죄를 선고해 달라”고 했다.&lt;br&gt;&lt;br&gt;조 위원장은 지난 6일 페이스북에서 후보자의 ‘행위’에 관한 허위 사실 공표를 처벌 대상에서 제외하도록 공직선거법을 개정하자고 제안했다. 출생지·직업·경력·재산 등과 달리 ‘행위’는 범위가 불명확해 자의적인 법 집행을 초래할 수 있다는 이유였다. 조 위원장은 법이 개정될 경우 윤 전 대통령과 이 대통령의 선거법 위반 사건 모두 면소 판결을 받을 수 있다고도 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 이 대통령 사건과의 형평성도 문제 삼았다. 변호인은 “원심 형이 확정되면 국민의힘이 선거 비용 약 400억원을 반환해야 할 수 있다”며 “이 대통령은 대법원에서 유죄 취지의 파기환송 판결을 받고도 재판이 정지돼 있다는 점을 고려하면 형평성 문제가 제기될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;대법원 전원합의체는 지난해 5월 이 대통령이 민주당 대선 후보 시절 고(故) 김문기 전 성남도시개발공사 처장을 몰랐다고 한 발언 등을 허위 사실 공표로 판단해 사건을 유죄 취지로 서울고법에 돌려보냈다. 지난 7월 윤 전 대통령의 1심 재판부도 이 전원합의체 판례를 근거로 윤 전 대통령에게 징역 1년 6개월에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 2021년 12월 관훈클럽 토론회에서 윤우진 전 용산세무서장에게 대검찰청 중앙수사부 출신 이모 변호사를 소개한 사실이 없다는 취지로 거짓말한 혐의를 받는다. 2022년 1월에는 건진법사 전성배씨를 당 관계자에게 소개받았고 김건희 여사와 함께 만난 적도 없다는 취지로 허위 발언을 한 혐의도 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령도 이날 직접 발언했다. 그는 건진법사 전성배씨와의 관계에 관한 기자 질문에 답한 상황을 설명하며 “2~3초도 되지 않는 ‘그건 아니고요’라는 답변을 갖고 허위 사실 공표라고 한다면 현실적으로 선거운동이 가능한지 의문”이라고 했다. 이어 “1심 판결 결과를 보고 저도 놀랐다”며 “항소심에서 충분히 검토해 달라”고 했다. 윤 전 대통령 측은 문제의 발언들이 토론회나 행사장을 빠져나가는 과정에서 즉흥적·방어적으로 나온 것인데도 1심이 사후적으로 문구를 나눠 분석해 의미를 지나치게 확장했다고 주장했다.&lt;br&gt;&lt;br&gt;반면 김건희 특검팀은 “관훈클럽 토론회 발언은 질문이 예상돼 답변을 준비한 상태에서 나온 것이고, 전씨 관련 발언도 이미 언론 보도로 국민적 관심사가 된 사안에 대해 친분 관계가 없다는 점을 명확히 밝힌 것”이라며 항소를 기각해 달라고 요청했다.&lt;br&gt;&lt;br&gt;재판부는 “일반 선거인의 관점에서 ‘(윤 전 서장에게) 변호사를 소개하지 않았다’는 말을 어떻게 받아들였을지가 허위 사실 공표 여부의 쟁점”이라고 했다. 재판부는 오는 22일 윤 전 서장의 동생인 윤대진 전 검사장을 증인으로 불러 신문한 뒤 윤 전 대통령에 대한 피고인 신문과 양측의 최종 변론까지 마칠 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>숏폼에 밀린 ‘읽기’… 한국 학생 문해력 역대 최저</title>
-      <link>https://www.chosun.com/national/education/2026/09/08/SUQ7C3X7MJGOJDVIF7M6CSBTCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/08/SUQ7C3X7MJGOJDVIF7M6CSBTCE/</guid>
-      <dc:creator>황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Sep 2026 09:09:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2WENLEMZRDKYRWGNTDQZJWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 전남광주통합특별시 서구 쌍촌동 상일여자고등학교 3학년4반 교실에서 학생이 수업을 듣고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 학생들의 읽기 능력이 ‘국제 학업성취도 평가(PISA)’에서 2000년 이후 가장 낮은 수준으로 떨어진 것으로 나타났다. 글을 읽고 이해하는 문해력 저하 문제가 국제 비교 지표에서도 확인된 것이다. &lt;br&gt;&lt;br&gt;경제협력개발기구(OECD)가 8일 공개한 PISA 2025에서 한국의 읽기 과목 평균은 501점을 기록했다. 참여한 91국 가운데 3~13위였다. PISA는 만 15세 학생의 과학·읽기·수학 성취도를 국제적으로 비교하기 위해 OECD가 2000년부터 3년마다 시행하는 평가다. 이번 평가에는 OECD 회원국 38국을 비롯해 전세계 91국 76만명이 참여했다. 한국은 6859명이 평가를 치렀다.&lt;br&gt;&lt;br&gt;한국은 읽기 과목 성적이 여전히 상위권이지만 갈수록 떨어지고 있다. 2006년 1위(556점)를 기록한 후 2012년 3~5위(536점), 2022년 2~12위(515점)로 추락했다. 작년엔 가장 높았던 2006년보다 55점이나 떨어졌다. 같은 조사에서 과학과 수학이 2022년보다 각각 2점, 5점 하락한 데 그친 것에 비해 읽기 점수 하락이 심각한 것이다. &lt;br&gt;&lt;br&gt;읽기 능력이 뛰어난 학생은 줄고, 기초 수준에 미달하는 학생은 늘어난 것으로 나타났다. 상위 수준(6단계 중 5수준 이상) 비율은 13.3%에서 10.3%로 줄었고, 하위 수준 (1수준 이하)은 14.7%에서 17.8%로 늘었다. &lt;br&gt;&lt;br&gt;박현정 교육부 공교육진흥과장은 “소셜미디어 등 디지털 기기를 쓰는 시간이 늘고 읽기에 대한 흥미가 떨어진 것 등이 복합적으로 작용한 결과로 보인다”면서 “공교육에서 독서 기회를 늘리겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
