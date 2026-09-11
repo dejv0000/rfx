@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서천 앞바다서 해루질하던 70대, 물에 빠져 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/09/11/3IO4UOVDN5AH7M5FB6KIIC5CVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/11/3IO4UOVDN5AH7M5FB6KIIC5CVM/</guid>
+      <dc:creator>서천=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 23:42:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P37YH2M3KBFWZJTI5TOJC2GOKA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩·Chat GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서천 갯벌에서 맨손으로 어패류 등을 잡는 해루질을 하던 70대가 물에 빠져 숨졌다.&lt;br&gt;&lt;br&gt;11일 충남소방본부 등에 따르면, 전날 오후 7시 10분쯤 “해루질하러 들어간 두 명이 못 나오고 있는데, 한 명은 물에 빠졌다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;출동한 당국은 서천군 비인면 해안가 일대에 대한 수색에 나서 장포해변 갯벌체험장 부근에서 A(70대)씨를 발견했다. A씨는 심정지 상태로 발견돼 전북 군산시 한 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨와 함께 해루질에 나섰던 일행 1명은 자력으로 바다에서 빠져나온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;해경은 목격자 등을 상대로 자세한 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;사고 당시는 대조기였는데, 이 기간에는 조석 간만의 차가 커지면서 물의 흐름이 빨라지는 탓에 해안가 사고 위험 역시 커진다.&lt;br&gt;&lt;br&gt;서천군은 전날 오후 8시 53분 재난 문자를 통해 대조기 기간임을 알리고 “밀물 속도가 매우 빠르다”며 “해안가 이용객은 고립 사고 예방을 위해 즉시 안전한 육지로 이동하라”고 당부하기도 했다.&lt;br&gt;&lt;br&gt;보령해경도 대조기인 지난 9일부터 16일까지 8일간 연안 안전사고 위험 주의보를 발령한 상태였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 영흥도 김 양식장서 작업 중이던 20대 외국인 실종…해경 수색</title>
+      <link>https://www.chosun.com/national/incident/2026/09/11/XR2QG634MFFPTACILT5T2UFWWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/11/XR2QG634MFFPTACILT5T2UFWWI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Sep 2026 23:13:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4V45JAQVATGQKBDCJAVRVJ643Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김 양식장.(사진은 기사 내용과 직접적인 관련 없음)./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영흥도 김 양식장에서 외국인 작업자가 실종돼 해양경찰이 수색에 나섰다. &lt;br&gt;&lt;br&gt;11일 인천해양경찰서에 따르면 전날 오전 7시 52분쯤 옹진군 영흥면 십리포해수욕장 인근 김 양식장에서 작업 중이던 인도네시아 국적 20대 남성 A씨가 바다에 빠져 실종됐다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;A씨는 김 양식장 관리 선박에서 홍합 제거 작업을 하던 중이었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;해경은 경비함정 4척 등을 투입해 인근 해상을 수색했으나, 현재까지 찾지 못하고 있다.&lt;br&gt;&lt;br&gt;해경은 인근 해상과 함께 주변 육상 지역을 대상으로도 수색을 지속할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[경찰25시] 중수청에 심드렁한 경찰관들, 왜?</title>
       <link>https://www.chosun.com/national/national_general/2026/09/11/5CIW7NXXKVBO3JA3GV2DQNQJFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/5CIW7NXXKVBO3JA3GV2DQNQJFA/</guid>
@@ -931,15 +949,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRTGZJQMQ4GEN3EGRRDGNDGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주 단속 중인 경찰. (기사 내용과 직접 관련 없음.)/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 사고를 낸 운전자가 경찰의 미흡한 대응으로 다시 차량을 운전해 집으로 돌아간 사실이 뒤늦게 확인됐다. &lt;br&gt;&lt;br&gt;9일 인천 제물포경찰서 등에 따르면 20대 운전자 A씨는 지난 2일 오후 10시 35분쯤 인천 제물포구 서해사거리 능해나들목 방면 도로에서 술에 취해 운전하다 신호 대기 중이던 차량을 들이받았다.&lt;br&gt;&lt;br&gt;112 신고를 받고 사고 처리에 나선 경찰의 음주 측정 결과 A씨의 혈중알코올농도는 면허 취소(0.08% 이상) 수준에 해당하는 수치였다. 피해 차량 운전자는 통증을 호소한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 음주운전을 적발한 경우, 운전자가 다시 운전할 수 없도록 대리운전이나 가족 등 제3자를 부르게 하는 등 2차 사고 예방을 위해 안전 조치를 해야 한다. &lt;br&gt;&lt;br&gt;그러나 당시 경찰은 A씨를 입건하기 위한 기초 조사를 마친 뒤 복귀했고, A씨는 음주 상태로 다시 운전대를 잡고 미추홀구에 있는 집으로 향했다. &lt;br&gt;&lt;br&gt;사고 처리에 나선 보험사 직원이 이 상황을 보고 경찰에 신고했다. 신고를 받은 경찰은 A씨의 집으로 출동해 문을 두드리는 등 접촉을 시도했으나 인기척이 없자 돌아갔고, 다음 날 오전 다시 찾아간 끝에 A씨의 추가 범행 사실을 확인했다. &lt;br&gt;&lt;br&gt;경찰은 특정범죄가중처벌법상 위험운전치상 혐의로 A씨를 입건해 조사할 예정이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “대리운전 기사가 온 것까지 확인했어야 하는데, ‘대리운전 기사를 불러 돌아가시라’는 말만 하고 복귀하는 등 음주 적발 이후 조치가 미흡했던 점이 있다”며 “내부 직원 교육을 하는 등 같은 일이 반복되지 않도록 조치했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘오송참사’ 부실공사 책임자들, 최고 금고 2년</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/09/QX7MVXFMGBGZHCV6KQ4SAOITAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/09/QX7MVXFMGBGZHCV6KQ4SAOITAQ/</guid>
-      <dc:creator>김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 10:53:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75G773ZJXJFZNP2VAZGJWNL52U.png"&gt;&lt;figcaption&gt;&lt;small&gt;21일 도종환 의원실이 오송 지하차도 참사 1시간 40여분 전에 있었던 공사 제방 인부들의 영상을 공개했다. /도종환의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14명이 사망한 청주 오송 지하차도 참사와 관련, 사고의 직접적인 원인으로 지목된 미호강 부실 제방 공사 현장 책임자들에게 최고 금고 2년의 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 강건우 부장판사는 9일 업무상 과실치사상, 증거위조교사 등 혐의를 받는 미호천교 확장 공사 시공사 금호건설 직원 2명과 감리업체 직원 2명에게 징역 8개월에 집행유예 3년∼금고 2년을 선고했다.&lt;br&gt;&lt;br&gt;다만 도주 우려 등 구속 사유가 없는 점을 고려해 법정 구속하지 않았다.&lt;br&gt;&lt;br&gt;또 하천법 위반 등 혐의로 추가 기소된 현장소장 A씨에게는 징역 1년 6개월을, 건설기술진흥법 위반 혐의로 기소된 시공사 금호건설과 감리사에게는 법정 최고형인 벌금 1억2천만원과 벌금 7천만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;앞서 업무상과실치사 등 혐의로 대법원에서 징역 6년을 확정받고 수감 중인 A씨는 이날 선고받은 징역 1년 6개월의 형이 확정되면 총 징역 7년 6개월을 복역하게 된다.&lt;br&gt;&lt;br&gt;A씨 등은 미호천교(도로) 확장 공사 편의를 위해 기존에 있던 제방을 무단으로 철거한 뒤 임시 제방을 부실하게 축조하거나 공사 현장 관리·감독을 소홀히 해 인명피해를 초래한 혐의를 받는다. &lt;br&gt;&lt;br&gt;또 적법한 절차를 거치지 않고 임시 제방을 축조했다는 책임을 숨기기 위해 사전에 없던 시공계획서와 도면 등을 위조한 혐의도 있다.&lt;br&gt;&lt;br&gt;강 판사는 “이 사고의 근본적인 원인은 무엇보다 거의 집착이라 할 정도로 이익만을 추구한 시공사 금호건설의 영업행태에 있다”며 직원들로 하여금 회사의 이익만을 추구하도록 해 수해 예방을 위한 최후의 보루라 할 수 있는 제방을 무너뜨렸고, 공사현장에서 안전 확보의 최소한의 제도적 장치라 할 수 있는 감리시스템도 무의미하게 만들었다”고 판시했다.&lt;br&gt;&lt;br&gt;오송참사는 집중호우가 내린 2023년 7월 15일 청주시 오송읍 궁평2지하차도 인근 미호강 제방이 터지면서 유입된 물로 지하차도를 지나던 시내버스 등 차량 17대가 침수되고 14명이 숨진 사고다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산 돌려차기 男 피해자 보복 협박 사건…제3자 협박 성립 여부 쟁점</title>
       <link>https://www.chosun.com/national/regional/2026/09/09/2M3TWJ4PCVFXNE64B5ALX5KRAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/09/2M3TWJ4PCVFXNE64B5ALX5KRAU/</guid>
@@ -965,15 +974,6 @@
       <description/>
       <pubDate>Wed, 09 Sep 2026 09:02:20 +0000</pubDate>
       <content:encoded>이진수 법무부 장관 직무대행은 9일 무소속 한동훈 의원이 김승원 법무장관 후보자의 ‘신약 청탁 의혹’을 제기하며 공개한 검찰 문건과 관련해 “유출돼선 안 된다”고 했다. 한 의원은 “검찰로부터 어떤 협력이나 자료를 받은 적이 없다”고 반박했다. 법원행정처는 한 의원이 제기한 관련 사건의 영장판사 배제 요청 거절 의혹에 대해 “현재까지는 밝혀지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQTSZJTMEYTMZTBME4WCZRZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 법무부 장관 직무대행이 9일 오후 서울 여의도 국회에서 열린 제439회국회(정기회) 제5차 본회의에서 대정부질문(정치)에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대행은 이날 국회 대정부질문에서 한 의원의 서울서부지검 기소 계획 문건 입수 경위를 묻는 민주당 전용기 의원에게 “수사·증거기록으로 편철되지 않은 문서로 보이고 사건 처리에 관한 보고서”라고 했다. 이어 “기본적으로 수사자료 제공은 공무상비밀누설이나 개인정보보호법 위반에 해당해 범죄를 구성하게 된다”고 했다.&lt;br&gt;&lt;br&gt;과거 수사팀의 유출 가능성에 대해선 “배제할 수 없다”며 “퇴직자가 수사 관련 자료를 갖고 나가는 건 안 되는 일”이라고 했다. 감찰·수사의뢰 요구에는 “수사를 통해서 명명백백하게 밝혀져야 한다”며 “확인할 수 있는 부분이 있는지 살펴보겠다”고 했다. 민주당 김동아 의원은 지난 7일 한 의원과 성명불상의 자료 제공자를 경찰에 고발했다. 한 의원은 이날 기자들에게 “(자료 출처에 대한 공격은) 공익제보자를 까라는 ‘물타기’”라고 했다.&lt;br&gt;&lt;br&gt;이날 국회 법사위 전체회의에서는 관련 사건 영장판사를 둘러싼 의혹도 쟁점이 됐다. 한 의원은 제넨셀 대표 강모씨의 구속영장을 기각한 당시 정인재 서울서부지법 영장판사가 김 후보자, 브로커 양모씨와 특별한 관계에 있었다고 주장했다. 세 사람이 2022년 2월 함께 찍은 사진이 공개됐고, 정 판사는 2023년 12월 강씨의 사기미수 등 혐의 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;한 의원은 당시 대검찰청 기획조정부장이 법원행정처 차장이던 박영재 현 대법관에게 친전을 들고 찾아가 정 판사를 영장심사에서 배제해달라고 요청했지만 받아들여지지 않았다는 의혹을 제기했다.&lt;br&gt;&lt;br&gt;노경필 법원행정처장은 이에 대해 “사실관계는 확인 중인데 그런 사실이 현재까지는 밝혀지지 않았다”고 했다. 박 대법관에게 확인했느냐는 김동아 의원 질문에는 “물어봤다”며 “전혀 그런 일이 없다고 말했다”고 전했다. 노 처장은 “행정처는 재판에 관여하지 않기 때문에 저희도 굉장히 의아하게 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;‘신약 청탁 의혹’은 김 후보자가 2021년 양씨를 통해 강씨의 청탁을 받고 김강립 당시 식약처장에게 제넨셀의 코로나 치료제 임상시험 승인을 요청했다는 내용이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘수원 마약 영상’ 30대, 두 달 만에 구속…법원 “증거인멸 우려”</title>
-      <link>https://www.chosun.com/national/incident/2026/09/09/PUUFCH4U4ZBXHI7JN7GIGGG2IA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/09/PUUFCH4U4ZBXHI7JN7GIGGG2IA/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 09:11:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4GKYRVMQ3GCOJXGJSGCM3GMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법·수원고법 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;좀비처럼 몸을 앞으로 숙인 채 거리를 비틀거리던 모습이 온라인에서 확산한 ‘수원 마약 영상’의 30대 남성이 구속됐다. &lt;br&gt;&lt;br&gt;수원지법 최유신 영장전담 부장판사는 9일 마약류관리법 위반 혐의를 받는 A씨에 대해 “증거를 인멸할 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 자신의 주거지에 필로폰을 보관하고 지인에게서 향정신성의약품을 받아 투약한 혐의 등을 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 22일 수원시 권선구의 한 버스정류장 주변에서 허리를 심하게 굽힌 채 두 팔을 늘어뜨리고 비틀거리며 걷는 모습이 촬영됐다. 해당 영상이 온라인에 퍼지면서 마약 투약 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;경찰은 이튿날 A씨를 상대로 마약 간이검사를 실시해 필로폰 양성 반응이 나오자 긴급체포했다. 하지만 소변 검사에서는 음성이 나오면서 A씨는 석방됐다. 이후 국립과학수사연구원의 모발 정밀감정에서는 다시 필로폰 양성 반응이 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 불구속 상태로 수사하다 지난 7월 6일 자택을 압수수색해 소량의 필로폰을 발견했다. 추가 수사를 거쳐 지난 4일 사전구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경찰은 아직 A씨의 필로폰 투약 시점과 장소, 입수 경로 등을 구체적으로 특정하지 못한 것으로 전해졌다. 이에 이번 구속영장에는 현재까지 확인된 필로폰 소지 등의 혐의가 포함됐다. A씨는 필로폰 투약 등 일부 혐의는 부인하고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 신병을 확보한 만큼 필로폰 구입 경로와 실제 투약 여부 등을 추가로 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>집에서 진료받고 약은 약국서?…‘비대면 약 배송’ 확대 놓고 찬반 팽팽</title>
