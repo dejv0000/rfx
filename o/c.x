@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>與 “기존 후보 중 재제청하라”... 조희대 대법원장에 압박</title>
+      <link>https://www.chosun.com/politics/assembly/2026/09/12/QS2DPUOVABAS3JWALH5GWBWNVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/12/QS2DPUOVABAS3JWALH5GWBWNVA/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 10:19:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJNIQKNI7NBEFAQKISMHMJLDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 2026년 9월 11일 서울 서초구 대법원에서 열린 제12회 대한민국 법원의 날 기념식에서 참석하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청와대가 조희대 대법원장에게 대법관후보추천위원회가 추천한 4인 중 이재명 대통령이 임명을 거부한 손봉기 부장판사를 제외한 다른 후보자를 재청하라고 요구한 가운데, 더불어민주당도 12일 조 대법원장에게 재제청을 압박하고 나섰다. 국민의힘은 대법관 인사에 대한 노골적인 개입을 중단하라고 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZDQYLBGUZDIZBYHE4DINRRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전은수 원내대변인. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당 전은수 원내대변인은 이날 서면 브리핑에서 “현재 대법관 두 자리가 공석이고, 지난 3월 퇴임한 노태악 전 대법관의 후임 인선이 반년 넘게 표류하고 있다. 청와대가 대법관 후보자 재제청을 요구했지만, 조 대법원장은 여전히 명확한 답을 내놓지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “대법관 공백의 피해는 결국 국민에게 돌아간다”며 “국민에게 신속하고 공정한 재판을 제공하는 것이 사법부가 지켜야 할 헌법적 책무”라고 했다. “대법원장의 제청권은 사법부 수장의 힘을 과시하거나 대통령의 임명권과 맞서기 위한 권한이 아니다”라고도 했다.&lt;br&gt;&lt;br&gt;법원조직법에 따르면, 대법관후보추천위는 대법원장에게 대법관 후보자를 추천하면 해산된다. 조 대법원장이 추천위에서 4인을 추천받아 그중 손 부장판사를 이 대통령에게 제청했지만 이 대통령이 반려했다. 그렇다면 추천위를 새로 구성해야 한다. 그러지 않고 기존 후보 중에서 제청하도록 하면, 사실상 대통령이 추천위 추천 4인 중 1인을 대법관으로 고르는 것과 마찬가지가 된다.&lt;br&gt;&lt;br&gt;그러나 전 원내대변인은 “혹여 이미 추천된 후보자를 제쳐두고 추천위부터 다시 구성해 후보군을 원점에서 다시 짜려는 것이라면, 그것이야말로 대법관 인선을 장기화하는 꼼수라는 비판을 피하기 어려울 것”이라고 했다. 그러면서 “더 이상 제청권 몽니로 대법관 공백을 장기화하지 마라. 추천위가 이미 추천한 후보자 가운데 신속하게 재제청 절차를 진행하라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQTOYZQME3TSOLFMRRTIMRYME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 박성훈 수석대변인. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 박성훈 수석대변인은 이날 논평에서 “대통령이 대법원장에게 ‘이 사람을 제청하라’고 요구할 권한이 헌법 어디에 있느냐”고 따졌다.&lt;br&gt;&lt;br&gt;박 수석대변인은 “헌법 104조는 대법관을 대법관의 제청, 국회의 동의, 대통령의 임명이라는 절차로 나눠 삼권분립의 균형을 명확히 세워놨다”며 “대통령의 임명권이 대법원장의 제청권보다 우위에 있는 것이 아니다”라고 지적했다. 이어 “대통령에게 제청된 후보를 받아들이지 않을 권한이 있다고 해서, 원하는 후보를 찍어 제청하라고 요구할 권한까지 생기는 것도 아니다”라고 했다.&lt;br&gt;&lt;br&gt;박 수석대변인은 “정권이 특정 후보를 골라 재제청하라고 압박한다면 이는 단순한 인사 의견이 아니고, 대법원장의 제청권을 대통령의 뜻을 확인하는 요식 절차로 전락시키려는 노골적인 월권”이라고 비판했다.&lt;br&gt;&lt;br&gt;그는 “더욱 기막힌 것은 민주당의 ‘내로남불’”이라며 “야당 시절에는 대통령의 대법관 인사 개입을 두고 ‘삼권분립 파괴’ ‘헌법 파괴’라며 맹공을 퍼붓더니, 정권을 잡고 자신들이 그토록 비난했던 일을 버젓이 되풀이하고 있다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 장동혁 대표는 이날 페이스북에 글을 올려 “‘추천위를 존중하라’는 주장은 결국 김민기(서울고법 고법판사)를 제청하라는 소리”라며 “김민기를 대법관 만들어 기어코 이재명 무죄 선고 받아내겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;장 대표는 이어 “‘선출 권력’이 ‘임명 권력’ 위에 있다는 발상은 삼권분립을 부정하는 것이고, 독재의 시작”이라며 “히틀러도 ‘선출 권력’을 내세워 나치 독재 정권을 구축했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QJNIQKNI7NBEFAQKISMHMJLDG4.jpg?auth=4def493c55e123001fdeb900b85b88768f987b8ae3817a2b0469fe19a0f5a6ab&amp;smart=true&amp;width=2111&amp;height=1187" type="image/jpeg" height="1187" width="2111">
+        <media:description type="plain">조희대 대법원장이 2026년 9월 11일 서울 서초구 대법원에서 열린 제12회 대한민국 법원의 날 기념식에서 참석하고 있다. /김지호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>정선서 벌초하던 50대, 벌에 쏘여 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/09/12/JHZLT2IGGJEK5LVWZ4HBWUWIRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/12/JHZLT2IGGJEK5LVWZ4HBWUWIRI/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 10:36:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYDOMLDHBRTOMJUMIZTENBZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;벌 쏘임 사고 주의 포스터. /강원도소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;벌초하던 도중 벌에 쏘인 50대가 심정지 상태로 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;12일 오후 1시 42분쯤 강원 정선군 사북읍 사북리 노목산 둥둥재골 인근에서 벌초를 하던 A(57)씨가 벌에 쏘였다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 발견돼 소방 헬기에 의해 인근 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수시 접수도 제대로 못해... 연장 논란 휘말린 ‘IT 강국’</title>
+      <link>https://www.chosun.com/national/education/2026/09/12/KWEMAWRT25AZRDGQKTLXDG7ZYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/12/KWEMAWRT25AZRDGQKTLXDG7ZYY/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 08:26:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYGIMRXGI3TQNBSMRQTSOBYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울 강남구 강남종로학원 대강당에서 열린 종로학원 9월 모의평가 긴급분석 및 2027 수시대학 최종 결정 파이널 설명회를 찾은 학부모들이 자료를 살펴보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027학년도 대입 수시모집에서 원서 접수 시스템이 마감 직전 먹통이 돼 혼란이 빚어졌다. 이에 접수 시간이 1시간 연장되면서 입시를 치르는 수험생들 사이 형평성 논란이 확산하고 있다. &lt;br&gt;&lt;br&gt;12일 한국대학교육협의회(대교협)에 따르면, 전날 오후 5시 50분쯤 수시 원서 접수 대행사 두 곳 중 하나인 ‘유웨이어플라이’의 접수 시스템이 다운됐다. 원서 접수 마감을 10여 분 남기고 접속자가 한꺼번에 몰리면서 전산 오류가 발생한 것으로 알려졌다. 접수 시스템은 30여 분 만인 오후 6시 20분이 지나서야 정상화됐다. &lt;br&gt;&lt;br&gt;시스템 장애 직후 대교협은 당초 오후 6시였던 원서 접수 마감 시한을 오후 7시로 1시간 연장했다. 제때 원서를 제출하지 못한 일부 수험생에 대해선 시스템에 원서를 저장한 기록 등을 확인한 뒤 별도의 구제 절차를 진행하기로 했다.&lt;br&gt;&lt;br&gt;입시 업계에선 이번 사태가 수험생들의 대학·학과 선택에도 영향을 미쳤을 것으로 보고 있다. 일부 대학이 당초 마감 시각인 오후 6시에 맞춰 학과별 지원 현황을 공개한 만큼, 연장된 시간 동안 경쟁률을 확인한 뒤 추가로 원서를 낸 수험생이 있을 수 있다는 것이다. 반대로 시스템 장애로 제때 원서를 접수하지 못해 지원을 포기한 수험생이 발생했을 가능성도 있다.&lt;br&gt;&lt;br&gt;대교협과 유웨이어플라이는 피해 수험생을 구제하기 위한 세부 방안을 협의하고 있지만, 100곳이 넘는 대학을 대상으로 구제 대상과 범위를 확정하는 데는 수일이 걸릴 전망이다. 특정 대학이나 학과에 구제 대상자가 몰리면 경쟁률이 달라질 수 있어 수험생들의 막판 지원 전략에도 변수가 될 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;교육부는 이번 사태의 경위를 파악하고 재발 방지 대책을 마련할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EST2FRWZXVNQJK5M5W7ZT3MFEE.JPG?auth=d1441acc6b9341cd4a752427cb533e75bbb16afdd0ef9deb84249c34bc4a3860&amp;smart=true&amp;width=2310&amp;height=1557" type="image/jpeg" height="1557" width="2310">
+        <media:description type="plain">(서울=뉴스1) 김진환 기자 = 6일 서울 강남구 강남종로학원 대강당에서 열린 종로학원 9월 모의평가 긴급분석 및 2027 수시대학 최종 결정 파이널 설명회를 찾은 학부모들이 자료를 살펴보고 있다. 
+
+2027학년도 입시는 내신 9등급제와 통합 대학수학능력시험(수능)으로 치러지는 마지막 해로 오는 7일부터 대학입학 수시모집 원서접수가 시작된다. 2026.9.6/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“호르무즈 파병 거부하라” 시민 단체 서울 도심서 집회, 청와대까지 행진</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/12/NFJWDEYAKFGDFIODHERCFPB7BI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/12/NFJWDEYAKFGDFIODHERCFPB7BI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 08:57:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KBLBTJYKBPFFFRZXZPMLG7X6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 김민지 기자 = 침략전쟁규탄파병반대평화행동 등 시민단체 회원들이 12일 서울 종로구 광화문 일대에서 열린 미국은 침략전쟁 중단하라! 정부는 호르무즈파병 단호히 거부하라! 시민대행진에서 파병을 반대하는 구호를 외치고 있다. 2026.9.12/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심에서 호르무즈 해협 파병을 반대하는 집회가 열렸다. 집회를 연 시민 단체들은 청와대 앞까지 행진했다.&lt;br&gt;&lt;br&gt;참여연대, 자주통일평화연대 등 시민 단체는 12일 오후 4시 서울 종로구 르메이에르 빌딩 앞에서 ‘호르무즈 파병 반대 시민 대행진’ 집회를 열었다. 주최 측에 따르면 종교·시민단체 540여 개가 참여했다.&lt;br&gt;&lt;br&gt;이날 집회에는 수백 명이 참가해 ‘호르무즈 파병 단호히 거부하라’ ‘침략 전쟁 금지하는 헌법 정신 지켜내자’ ’우리는 평화를 원한다‘ 등 구호를 외쳤다. &lt;br&gt;&lt;br&gt;이날 대한불교조계종의 선우스님은 연단에 올라 “모든 생명은 존엄하고 그 어떤 국익과 동맹의 명분도 생명의 가치보다 앞설 수 없다”며 “국익이라는 이름의 포장지가 생명의 무게보다 무거울 수 없고 타국의 피 위에 세워지는 평화란 존재할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김숙영 정치하는 엄마들 공동대표는 입대를 앞둔 아들을 언급하며 “파병을 검토한다는 말은 외교 용어가 아니라 아들이 전쟁이 벌어지는 지역에 갈 수도 있다는 청천벽력과 같은 말”이라며 “왜 우리 청년들이 트럼프가 일으킨 전쟁의 뒤처리를 감당해야 하느냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBY6EZN5SBOW5GDA3ROPZEO7PU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 오대일 기자 = 12일 서울 종로구 경복궁 앞에서 '이란 전쟁 파병 반대, 이재명 정부는 참전 말라’ 집회 참가자들이 청와대 방향으로 행진하며 파병 반대 구호를 외치고 있다.  2026.9.12/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청년 노동자라고 자신을 소개한 고건씨는 “빛의 혁명을 거쳐 들어선 이재명 정부가 윤석열도 감히 못 한 해외 파병을 추진한단 사실에 깊은 배신감을 느낀다”며 “내가 앞으로 수십 년을 살아갈 이 나라가 전쟁에 휩쓸리지 않도록 (대통령이) 올바른 결단을 내리기 바란다”고 했다.&lt;br&gt;&lt;br&gt;연단에 오른 한 고등학생은 “동맹은 모든 전쟁에 무조건 따라가는 계약이 아니다”라며 “정부는 국민의 생명과 평화, 국익과 헌법을 기준으로 판단해야 할 것이다. 매우 당연한 일”이라고 했다.&lt;br&gt;&lt;br&gt;집회를 마친 이들은 ‘미국은 호르무즈 파병 강요 말라’ ‘미국은 침략 전쟁을 중단하라‘ ’ 이재명 대통령은 호르무즈 파병을 거부하라‘ 등의 문구가 적힌 현수막을 들고 세종대로를 통해 주한 미국 대사관을 지나 청와대 앞까지 행진했다.&lt;br&gt;&lt;br&gt;한편 촛불행동 등 진보 성향 시민단체들도 이날 오후 5시 주한 미국 대사관 앞에서 도널드 트럼프 대통령을 규탄하는 집회를 열고 광화문역에서 종각역 일대를 행진할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김민석 “지분 나누는 시대 지났다... 합당·연대 대원칙은 경쟁력”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/09/12/JZ6YXI2OAFBYJINOZUTLK5NOBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/12/JZ6YXI2OAFBYJINOZUTLK5NOBE/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 08:11:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGIUEUUKTRDYFMP2LAB7WJDME4.png"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김민석 대표가 12일 오후 경기 평택시 을 지역위원회 사무실에서 발언하고 있다. /민주당티비 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 김민석 대표가 12일 조국 조국혁신당 혁신정책연구원장이 국회의원 선거에 출마했던 경기 평택시를 찾아 “지분을 나누는 시대는 지났다”고 말했다.&lt;br&gt;&lt;br&gt;김 대표는 이날 오후 민주당 경기 평택을 지역위원회 행사에 참석해 “지난 선거에서 이 지역이 어려웠던 것을 안다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;6·3 지방선거와 함께 치러진 평택을 국회의원 재선거에서는 김용남 전 의원과 조 원장이 각각 민주당, 조국혁신당 후보로 출마했고, 28.77%, 27.24%를 얻어, 34.83%를 얻은 국민의힘 유의동 의원에게 패했다.&lt;br&gt;&lt;br&gt;이와 관련해 김 대표는 “우리 당은 앞으로 진보 정당, 진보적 개인, 중도적 개인, 보수적이면서 합리적이고 유능한 분을 다 함께 끌어안는 대통합의 길을 갈 것”이라고 했다. 그러면서 “그 과정에서 사회민주당, 진보당, 기본소득당 같은 정당과 연대할 것이고, 조국혁신당과도 여러 연대 논의를 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 대표는 “그런데 이 과정에서 분명하게 지켜야 할 것은 경쟁력”이라며 “어떤 지분을 놓고 나누는 시대는 지났다. 그것은 구정치”라고 했다. 그러면서 “합당을 하건, 연대를 하건, 대원칙은 경쟁력이어야 한다”고 했다. 선거에서 이길 가능성을 낮추는 연대나 합당은 하지 않겠다는 것이다.&lt;br&gt;&lt;br&gt;김 대표는 “민주당은 진정한 진보의 길, 보수와 중도를 끌어안는 구조적인 다수, 진보 정당의 맏형의 길을 갈 것”이라고 했다. 또 ‘진보란 무엇인가’라는 화두를 던지면서 “민주당이야말로 앞으로 나아가고, 진보와 보수의 장점을 결합한 중도를 이해하고, 안보와 성장을 다 끌어안는다는 점에서 진정한 진보를 지향하고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;김 대표는 이재명 대통령과 민주당 지지율이 하락하는 상황에 대해 “현 상황이 대통령 임기가 막 시작했던 1년 전에 비해 좀 어렵다”고 했다. 그러면서도 “이런 과정은 어떤 정부, 어떤 대통령이건 거쳐야 할 과정이고, 그것을 어떻게 극복할 것인가를 진지하게 생각하는 것이 임무”라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 김 대표는 “민생을 올바로 살리는 것이 유일하고 정확한 답”이라고 했다. 그는 “지난 1년은 내란 이후 성장과 회복과 도약에 초점을 맞췄는데, 이제는 성장과 함께 민생, 공동체, 품격 있는 기본 사회를 만들어 가는 것이 양대 과제로 등장했다”며 “성장과 함께, 성장의 그늘이 없도록 노력하는 민생 정당으로 중심을 잡아 갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 김 대표와 함께 행사에 참석한 송영길 전 대표는 지난 선거에서 ‘국민의힘 제로(0)’를 슬로건으로 내걸었던 조 원장을 거론하면서 “갑자기 평택을이 민주당 험지라며 ‘국힘 제로’를 만들겠다고 오신 분이 있었는데, 나와서 (표 분산으로) ‘민주당 제로’를 만들고 갔다”고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 9월 13일 일요일 (음력 8월 3일 庚寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/12/SVDUAHMSTNESZNU4QCSOO6QBKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/12/SVDUAHMSTNESZNU4QCSOO6QBKU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>김승원, ‘李 공소 취소’ 질문에 “검찰 중립성 지키도록 철저히 지휘·감독”</title>
       <link>https://www.chosun.com/politics/assembly/2026/09/12/LEUAAK7PUBBE3F6NA4I3SD6RLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/12/LEUAAK7PUBBE3F6NA4I3SD6RLI/</guid>
@@ -937,33 +1004,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYTCZDFMJQTSMJVGA3DCMDDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원이 지난 7일 오후 서울 여의도 국회 의원회관 의원실을 나서고 있다. 이날 경찰은 각종 비위 의혹을 받는 김 의원에 대한 구속영장을 신청했다. 지난해 9월 첫 고발장이 접수된 지 약 1년 만이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 경찰이 신청한 김병기 무소속 의원의 구속영장에 대해 보완수사를 요구했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이날 서울중앙지검은 “피의자가 7회에 걸친 소환조사에 응했고, 피의자에 대한 마지막 조사 이후 구속영장 신청까지 약 5개월 동안의 수사 경과를 고려할 때 구속 필요성에 대한 소명이 부족하다고 판단했다”며 “수집된 증거 등을 검토한 결과 일부 혐의에 대해서는 증거를 보강할 필요가 있어 이에 대한 보완수사도 요구했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 지난 7일 김 의원에 대한 구속영장을 신청했다. 수사 착수 1년 만이었다. 차남 숭실대 편입을 위한 위장 취업, 김경·강선우 1억원 공천헌금 수수 묵인, 아내의 동작구의회 업무추진비 사적 유용, 대한항공 숙박권 수수, 유리한 국정감사 질의 대가의 후원금 수수 등 5개 혐의가 영장에 적시됐던 것으로 전해졌다. 동작구의원들로부터 3000만원의 선거 자금을 받았다가 수개월 뒤 돌려줬다는 혐의와 장남의 국정원 채용 과정에 개입했다는 혐의 등 8개 의혹은 영장 신청 사유에선 제외됐다.&lt;br&gt;&lt;br&gt;김 의원에 대한 경찰 수사는 작년 9월 서울 동작경찰서가 김 의원 차남의 숭실대 특혜 입학 의혹을 들여다보면서 시작됐다. 경찰은 같은 해 11월 김 의원 측이 동작구 구의원들에게서 불법 선거 자금 3000만원을 받았다는 탄원서를 확보하고도 두 달간 수사에 나서지 않다가, 올 1월 12일 김 의원이 더불어민주당에서 제명된 뒤에야 압수수색에 착수했다.&lt;br&gt;&lt;br&gt;이후 경찰은 지난 2~4월 김 의원을 7차례 불러 조사했다. 지난 4월 10일 마지막 조사 이후 뚜렷한 수사 진척은 없었다. 경찰의 뒤늦은 구속영장 신청에 법조계에선 “수사 제대로 안 했다는 비판을 피하기 위한 면피용 영장”이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원 “권혁빈 스마일게이트 창업자 이혼, 2조5500억원 재산 분할”...역대 최대</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/09/C7XDFXEIAVCLXN3GLKBABFTDEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/09/C7XDFXEIAVCLXN3GLKBABFTDEY/</guid>
-      <dc:creator>이민경 기자, 김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Sep 2026 05:17:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQWCZJRGY2TSMJUMQZDOMTCGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국내 게임사 스마일게이트의 권혁빈 창업자 겸 최고비전제시책임자(CVO)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘로스트아크’ 등 인기 게임을 개발한 스마일게이트의 창업자인 권혁빈 최고비전제시책임자(CVO)는 배우자 이모씨와 이혼하면서 재산 분할로 2조5500억원 상당의 주식과 현금을 지급하라는 1심 법원 판결이 9일 나왔다. 국내 이혼소송 재산분할 판결 중 최고액이다. &lt;br&gt;&lt;br&gt;서울가정법원 가사3부(재판장 정동혁)는 9일 권 창업자의 배우자 이모씨가 낸 이혼 및 재산분할 청구 소송에서 두 사람이 이혼하라고 판결했다. 또 권 창업자가 보유한 스마일게이트 등 주식의 35%를 배우자에게 넘기고 현금 650억원도 지급하라고 했다. 이씨가 2022년 11월 소송을 제기한 지 약 3년 10개월 만이다. 다만 이씨의 위자료 청구는 기각했다.&lt;br&gt;&lt;br&gt;재판부는 ‘혼인을 계속하기 어려운 중대한 사유가 있을 때’ 이혼할 수 있도록 한 민법 조항(840조 6호)을 적용해 이씨의 이혼 청구를 받아들였다. 재판부는 “두 사람 사이의 갈등이 발생하고 심화된 과정과 관계 회복 가능성 등을 검토한 결과, 혼인 관계가 회복할 수 없을 정도로 파탄됐다”고 했다. 다만 혼인 파탄의 책임은 두 사람 모두에게 있고 그 정도도 비슷하다고 봤다.&lt;br&gt;&lt;br&gt;두 사람은 대학 시절 만나 2001년 결혼했고, 권 창업자는 이듬해 스마일게이트를 세웠다. 이씨는 회사 설립 당시 지분 30%를 보유하고 대표이사로 등기되는 등 창업 초기에 일부 관여했다. 현재는 지분을 보유하고 있지 않다. 이후 2020년 무렵 이씨가 자녀 교육을 위해 싱가포르에 거주하면서 장기간 별거해 왔다고 한다. 두 사람은 자녀 교육과 회사 사회 공헌 활동 등을 둘러싸고 갈등이 있었던 것으로 전해졌지만, 구체적인 혼인 파탄 사유는 공개되지 않았다.&lt;br&gt;&lt;br&gt;법원이 인정한 권 창업자의 순재산은 스마일게이트 주식 가치 7조1049억원을 포함해 약 7조3375억원이다. 이 가운데 권 창업자 몫은 65%, 이씨 몫은 35%로 정해졌다. 재판부는 “스마일게이트의 설립과 경영 과정에서 피고 개인의 사업 능력과 경영 판단이 회사 성장에 결정적으로 기여했다”며 권 창업자의 기여도를 더 높게 인정했다. 다만 이씨가 초기 회사 지분을 보유하고 임원으로 등기됐던 점과 장기간 가사·양육을 담당한 점, 혼인 초기 이씨 가족의 경제적 지원이 있었던 점 등도 함께 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 주식과 현금을 함께 지급하는 방식으로 재산을 나누도록 했다. 스마일게이트 등 주식의 35%를 이씨에게 넘기고, 이씨 몫 가운데 부족한 650억원은 현금으로 지급하라고 했다. 약 2조5500억원을 모두 현금으로 주려면 권 창업자가 비상장 상태인 스마일게이트 주식을 처분해야 해 자금 마련이 현실적으로 어려운 점을 참작한 것이다. 권 창업자가 지분 100%를 보유하고 있어 35%를 넘기더라도 회사 지배권을 잃을 위험이 없다는 점도 근거가 됐다.&lt;br&gt;&lt;br&gt;재판부는 미성년 자녀의 친권자와 양육자로 이씨를 지정했다. 권 창업자는 자녀가 성년이 되기 전날까지 매달 양육비 2000만원을 지급해야 한다. &lt;br&gt;&lt;br&gt;권 창업자 측 법률 대리인은 선고 후 “혼인 관계가 파탄에 이르렀다고 본 판단은 아쉽지만, 위자료 청구를 기각한 것은 재판부도 권 창업자의 유책 사유가 없다고 판단한 것으로 이해한다”며 “판결문을 검토한 뒤 항소 여부를 결정하겠다”고 말했다. 이씨 측 대리인은 “법원 판결을 존중한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 고법 판사, 음주운전 적발</title>
-      <link>https://www.chosun.com/national/incident/2026/09/11/A7JGW5G7KVCT7PYZZXMY3EDX4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/11/A7JGW5G7KVCT7PYZZXMY3EDX4E/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 01:10:58 +0000</pubDate>
-      <content:encoded>현직 고등법원 판사가 음주운전을 하다 적발됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QE5E7WW3HBCRXDXPZTT3463BAI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초경찰서는 도로교통법 위반(음주운전) 혐의로 서울고법 소속 판사 A씨를 입건해 수사 중이라고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 9일 오전 6시경 서울 서초구의 한 도로에서 술을 마신 채 차량을 운전한 혐의를 받고 있다. 신고를 받고 현장에 출동한 경찰은 판사를 검거했다.&lt;br&gt;&lt;br&gt;A씨의 혈중알코올농도는 면허정지 수준이었던 것으로 전해졌다. 인명 피해는 없었다. 경찰은 추후 A씨를 소환해 구체적인 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[경찰25시] 중수청에 심드렁한 경찰관들, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/11/5CIW7NXXKVBO3JA3GV2DQNQJFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/5CIW7NXXKVBO3JA3GV2DQNQJFA/</guid>
-      <dc:creator>윤성은 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2E5EU73QMFOCDG2OEOJFZVH7V4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;중수청 본청과 서울청이 들어설 서울 중구 르네스퀘어빌딩. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 10월 2일 출범을 앞두고 있는 중대범죄수사청(중수청)이 최근 검찰 대상 특례 임용 절차를 마무리하고 경찰 등을 대상으로 하는 경력 경쟁 채용 절차를 앞두고 있다. 그러나 일선 경찰관들 사이에선 “경찰은 가봤자 들러리가 될 것”이라는 이야기가 나온다.&lt;br&gt;&lt;br&gt;10일 기준 중수청 최종 특례 임용 지원자 수는 1761명이다. 2874명인 중수청 수사관 총 정원에 크게 못 미치는 수치다. 남은 1100여 명은 경찰 등 경력 경쟁 채용으로 채워야 한다. 초기 수사 인력 확보에 비상이 걸린 것이다. 하지만 이런 와중에도 경찰들은 중수청 지원에 큰 관심을 주지 않고 있다. &lt;br&gt;&lt;br&gt;특히 최근 중수청장 후보자로 검찰 출신인 김지용 후보자가 지명되면서 경찰 출신이 들러리가 될 수 있다는 말이 나온다. 중수청장추천위에서 선정한 4인 후보에 경찰 출신이 한 명도 없었던 것에 대해서도 적지 않은 경찰이 실망한 것으로 전해진다. &lt;br&gt;&lt;br&gt;서울 한 일선 경찰서 수사과에서 일하는 A 경정은 “검사들이 주축이 되는 집단이라 경찰 출신들이 자리를 잡기 어려울 것으로 보인다”며 “수사 역량과 별개로 검사들이 경찰들의 능력을 인정하지 않는 분위기도 알게 모르게 있어서, 이직에 뜻이 있었다가도 걱정을 내비치는 동료들이 있다”고 했다. &lt;br&gt;&lt;br&gt;경찰들은 직급 체계 역시 경찰에게 이렇다 할 이점이 없다고 말한다. 중수청 개청준비단이 지난달 4일 발표한 수사관 임용령 제정안 ‘계급별 경력 기준’에 따르면, 경찰 치안감이 2급, 경무관이 3급, 총경이 4급, 경정이 5급, 경감과 경위가 6급으로 임용된다. 반면 검사는 중수청에 임용될 때 지검장급 1급, 차장·부장검사급 2급, 그 외 법조 경력 10년 이상 검사는 3급, 10년 미만 검사는 4급으로 임명된다. 경찰에서 일선 경찰서장을 맡는 총경과 법조 경력 10년 미만 검사가 중수청에서는 같은 4급에 임용되는 것이다. &lt;br&gt;&lt;br&gt;이에 따라 경찰 사이에선 “계급 정년 대상인 경정이나 총경들만 솔깃해할 것”이라는 이야기가 나온다. 계급 정년이란 특정 계급에 도달한 뒤 일정 기간 동안 다음 계급으로 승진하지 못하면 나이와 상관없이 강제로 퇴직해야 하는 제도다. &lt;br&gt;&lt;br&gt;여기에 더해, 최근 경찰 사이에서 공유된 중수청 직제 관련 안내에는 중수청으로 이동 시 같은 급수면 똑같이 1년 차로 시작한다는 내용이 포함됐다고 한다. 경정 10년 차든, 경정 3년 차든 관계없이 같은 ‘5급 1년 차 수사관’으로 임명되기 때문에, 계급 정년을 앞둔 경찰관 입장에선 쌓아온 연차가 아깝게 느껴질 수밖에 없다는 것이다. &lt;br&gt;&lt;br&gt;서울 일선 경찰서에서 근무하는 B 경위는 “총경이면 서장을 맡는 계급인데, 중수청에선 그냥 4급 수사관이라는 거 아니냐”며 “오히려 지위 강등이라고 볼 수도 있을 것”이라고 했다. 그는 “경위 입장에서도 시험과 면접을 거쳐 중수청에 갈 정도 되는 역량이 된다면 경찰 내부에서도 인정받고 있을 텐데, 굳이 자리를 옮길 필요가 있겠냐”고도 했다. &lt;br&gt;&lt;br&gt;전문가들에게서도 “현직 경찰들의 중수청 이직이 경찰과 중수청 양쪽에 모두 득이 되지 않는다”는 의견이 나온다. 경찰은 업무량이 많아지는데 수사 인력이 부족해지고, 중수청은 역량 있는 수사 인력이 필요한데 유능한 경찰들을 데려오기 어렵다고 전망하기 때문이다. 부패·경제·마약·방위 사업 등 주요 중대 범죄를 수사해야 하는 중수청에 필요한 전문가들을 과연 데려올 수 있겠냐는 것이다. &lt;br&gt;&lt;br&gt;이웅혁 건국대 경찰학과 교수는 “국가 형사 사법 시스템에 중대한 변화가 생기는 시점인 만큼 효율적 인력 배분 방안이 무엇일지 깊이 고민해야 한다”며 양쪽에 실익이 없는 이직은 결국 국민의 피해로 이어질 것이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 계엄 저항 시민 인증서 준다던 정부… 논란 커지자 “감사장으로 대체할 것”</title>
       <link>https://www.chosun.com/national/national_general/2026/09/11/RFHO2ASP6ZGI5O6IACE7GGUYSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/RFHO2ASP6ZGI5O6IACE7GGUYSM/</guid>
@@ -971,33 +1011,6 @@
       <description/>
       <pubDate>Thu, 10 Sep 2026 20:00:00 +0000</pubDate>
       <content:encoded>정부가 12·3 비상계엄을 저지한 시민에게 발급하겠다던 일명 ‘빛의 인증서’를 ‘감사장’으로 대체할 것으로 10일 알려졌다. 정부는 이재명 대통령 지시로 지난 7월 인증서 발급 업무 등을 담당할 ‘빛의위원회’를 대통령 소속으로 발족했는데, 인증서 발급 방침을 사실상 철회한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;빛의위원회는 지난 7월13일 출범 후 첫 회의를 열었다. 위원회가 국민의힘 김민전 의원실에 제출한 이 회의 속기록을 보면 박미경 위원장은 “(인증서는) 감사장으로 전환될 것”이라며 “(비상계엄) 현장에서 많이 애쓰신 분들의 노고를 치하하는 인증서를 주기로 한 대통령령은 앞으로 개정해야 할 사안”이라고 했다. 현 정부는 ‘빛의위원회 설치 및 운영에 관한 규정’에서 ‘빛의 인증서’ 발급, 인증서 발급 대상자에 대한 예우에 관한 사항 등을 심의한다고 규정한다. 그런데 해당 규정을 개정해 인증서를 감사장으로 대체하겠다는 뜻으로 보인다.&lt;br&gt;&lt;br&gt;‘빛의 인증서’는 이 대통령 지시로 추진됐다. 이 대통령은 지난해 12월 국무회의에서 “비상계엄 저지와 헌정 질서 수호에 함께한 국민에게 표창 등 의미 있는 증서를 수여할 것”이라고 밝혔다. 이에 따라 행정안전부는 올 초 관련 규정을 마련했다. 이 규정에 따라 지난 7월 위원회가 출범했고, 인증서 발급과 관련해 예산 3억6800만원을 편성했다.&lt;br&gt;&lt;br&gt;위원회 첫 회의 속기록에는 인증서를 감사장으로 대체하려는 이유와 관련한 구체적인 설명은 나오지 않는다. 다만 위원회 출범 전부터 ‘빛의 인증서’를 두고 정부가 계엄 저지에 기여한 시민을 가려내 인증하는 것이 적절하냐는 논란이 제기된 것과 관련 있는 것 아니냐는 분석이 나온다. 정치권에선 이 인증서를 두고 “대통령이 감별해 인증하면 ‘빛의 국민’이고 그렇지 않으면 ‘어둠의 반국가 시민’이냐”는 반발이 나왔다.&lt;br&gt;&lt;br&gt;위원회는 12·3 비상계엄 관련 기록을 수집·보존하는 사업 등을 추진할 것으로 알려졌다. 계엄 선포 직후부터 대통령 탄핵 때까지 시민들이 남긴 사진·영상·일기와 응원봉·손팻말 등을 ‘빛의 기록물’로 수집하는 사업이다. 지난 7월 말 시작된 기록물 기증 신청에는 지난달 26일 기준 총 63건이 접수됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘사료 발굴 전문가’ 방선주 박사 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/11/IP44D425JVAQFDL5W4SHZRT5EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/11/IP44D425JVAQFDL5W4SHZRT5EU/</guid>
-      <dc:creator>유석재 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMG4OCVJCFHOVNYBD2S25JOIFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국에서 많은 한국 근현대사 자료를 발굴한 역사학자 방선주(93·사진) 박사가 지난 9일(한국 시각 8일) 별세했다고 10일 국사편찬위원회가 밝혔다.&lt;br&gt;&lt;br&gt;평북 선천 출신으로 숭실대·고려대(석사)를 다녔고, 미국 워싱턴주립대와 캐나다 토론토대에서 중국 고대사를 연구했다. 1979년부터 미국 국립문서기록관리청(NARA)에서 미국 전략첩보국(OSS)의 한반도 침투 작전 문서 등 1500만장 분량의 한국 관련 자료를 찾아내 ‘NARA의 전설’로 불렸다. 1983년 국사편찬위원회 국외사료조사위원이 됐다. 국민훈장 동백장(2007) 등을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대제철, 노란봉투법 시행 후 첫 원·하청 교섭 타결</title>
-      <link>https://www.chosun.com/national/labor/2026/09/11/H2QU3XEGBVAJDMZR5ANBY4DQE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/09/11/H2QU3XEGBVAJDMZR5ANBY4DQE4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:32:00 +0000</pubDate>
-      <content:encoded>현대제철과 4개 자회사 노조가 원·하청 간 단체협약을 체결했다. 근로계약을 맺지 않은 하청 노동자에 대한 원청의 책임을 강화한 노란봉투법(개정 노동조합법) 시행 후, 실제 원·하청 단체협약까지 이어진 첫 사례다.&lt;br&gt;&lt;br&gt;현대제철은 10일 현대ITC·현대IEC·현대IMC·현대ISC 등 4개 자회사 노사와 ’2026년 원·하청 교섭 합의서’에 서명하고 산업 안전 분야에 관한 단체협약을 체결했다고 밝혔다. &lt;br&gt;&lt;br&gt;지난 6월 중앙노동위원회가 현대제철과 자회사 4개 노조에 대해 “산업 안전 의제에 대한 사용자성이 인정된다”고 판정한 후, 현대제철은 지난달 20일부터 자회사 노조와 교섭을 진행해 왔다. &lt;br&gt;&lt;br&gt;양측은 산업안전협의체를 분기 1회 열기로 하고, 산업안전·보건 수준 향상을 위한 중장기 개선 방안(로드맵)도 수립하기로 합의했다. 김영훈 고용노동부 장관은 “이번 단체협약 체결은 원·하청 간 대화와 상생이라는 개정 노동조합법 취지가 현장에 구현된 첫 사례”라고 평가했다. &lt;br&gt;&lt;br&gt;다만 이번 합의 의미를 일반적인 원·하청 관계에 그대로 적용하기는 어렵다는 평가도 있다. 상당수 사업장에서는 여전히 원청의 사용자성 인정 여부와 교섭 범위를 놓고 노사가 다투고 있기 때문이다. &lt;br&gt;&lt;br&gt;고용노동부에 따르면, 노란봉투법 시행에 따라 원청 사업장 456곳이 하청 노조 1218곳에서 교섭 요구를 받았지만, 실제 교섭 단계에 접어든 곳은 102곳에 그쳤다. 현대제철처럼 산업 안전 분야만 한정해 사용자성이 인정되어도, 노조 측에서 임금 같은 의제를 교섭 테이블에 올리는 경우도 많다. 현대제철의 경우도 협력사 노조가 현대제철이 자신들의 사용자라고 주장하면서 임금 인상 등을 요구하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>빅뱅 출신 승리, 특수폭행 혐의로 고소 당해</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/10/NRKVAK7RXBAUXJMQK23WQKBTWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/10/NRKVAK7RXBAUXJMQK23WQKBTWQ/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 10:25:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RO2VLUQI2HSZEVFHMQCZLYOJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 빅뱅 전 멤버 승리./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 아이돌 그룹 ‘빅뱅’ 출신 가수 승리(본명 이승현·36)가 30대 남성을 폭행한 혐의로 고소당했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난달 26일 이씨를 특수폭행 혐의로 처벌해달라는 고소장을 접수했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;이씨는 서울 강남구의 한 식당에서 함께 식사하던 30대 남성을 폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “고소인 조사도 아직 이루어지지 않은 상태”라고 전했다. 경찰은 자세한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;2006년 빅뱅 멤버로 데뷔한 이씨는 2019년 클럽 버닝썬에서 불거진 이른바 ‘버닝썬 게이트’의 핵심 인물로 지목됐다. 이후 상습도박, 성매매 알선, 횡령 등 총 9개 혐의로 재판에 넘겨졌으며, 대법원은 이씨에게 징역 1년 6개월 실형을 선고했다. &lt;br&gt;&lt;br&gt;해당 사건 이후 이씨는 빅뱅에서 탈퇴했으며, 2023년 2월 9일 경기 여주교도소에서 출소했다. 출소 후에는 캄보디아 등 해외 클럽에서 종종 모습을 드러내며 근황이 알려지기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
