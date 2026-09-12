@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김승원, ‘李 공소 취소’ 질문에 “검찰 중립성 지키도록 철저히 지휘·감독”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/09/12/LEUAAK7PUBBE3F6NA4I3SD6RLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/12/LEUAAK7PUBBE3F6NA4I3SD6RLI/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 04:44:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PK4DH7GRGNCBPC2YI62UUVLUQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자가 지난 11일 서울 종로구에 마련된 인사청문회 준비 사무실로 출근하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 법무부 장관 후보자는 12일 이재명 대통령 관련 형사 사건에 대해 “검찰이 정치적 중립성을 지키며 공정하게 업무를 수행할 수 있도록 철저히 지휘·감독하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 후보자는 이날 국회 법제사법위원회 소속 주진우 국민의힘 의원에게 보낸 답변서에서 ‘장관으로 취임할 경우 이 대통령 관련 형사 사건의 공소 취소 여부를 법무부 또는 검찰·공소청에 검토하도록 지시할 의향이 있느냐’는 질의에 “법령과 규정에 따라 모든 업무를 신중하고 공정하게 수행하겠다”며 이같이 답했다.&lt;br&gt;&lt;br&gt;‘이 대통령 사건 공소 취소와 국정조사 추진을 위한 의원 모임’ 공동대표를 맡았던 김 후보자는 ‘이 대통령 관련 형사 사건의 공소 취소·수사 지휘·사건 보고 과정에서 직무를 회피할 의향이 있느냐’는 물음에는 “직무 회피 등 필요한 조치는 관련 법령에 따라 판단하겠다”며 즉답하지 않았다. 김 후보자는 “국회의원으로서의 정치적 활동과 장관의 직무는 구분하겠다”며 “과거 입장이 사건 처리나 인사에 영향을 미치지 않도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;‘검사의 직접 수사권을 전면 폐지하는 것이 타당하다는 기존 입장을 유지할 것이냐’는 물음에는 “수사와 기소를 완전히 분리하고 검찰 본연의 역할인 ‘공소의 제기 및 유지’에 충실하기 위해 검사의 직접 수사권을 전면 폐지하는 것이 타당하다는 기존 입장은 변함이 없다”고 했다.&lt;br&gt;&lt;br&gt;검찰 보완 수사권 폐지에 대한 입장을 묻는 물음에는 “관계 법령 정비 등 후속 조치에 만전을 기하고, 관계 기관과 적극 협력해 새로운 형사 사법 체계가 안착할 수 있도록 모든 역량을 집중하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20대 아들, 60대 母 흉기로 찔러 현행범 체포</title>
+      <link>https://www.chosun.com/national/regional/2026/09/12/PERSLFOMU5FEDNL3LS7JB6GAUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/12/PERSLFOMU5FEDNL3LS7JB6GAUQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 04:25:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 어머니를 흉기로 찔러 다치게 한 20대 아들이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 강화경찰서는 존속살해 미수 혐의로 20대 남성 A씨를 현행범으로 체포해 조사 중이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 11일 오후 10시쯤 인천시 강화군 내가면 단독주택에서 60대인 어머니 B씨를 여러 차례 흉기로 찔러 살해하려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 A씨의 범행으로 얼굴과 목 등을 다쳤으나 깊은 상처를 입지는 않아 병원에서 치료받고 퇴원한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 정신 질환을 앓고 있는 것으로 파악됐다”면서 “범행 동기와 사건 경위를 조사한 뒤 구속영장을 신청할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 국회의원 前보좌관 구속... 법원 “수천만원대 뇌물 수수”</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/12/VFVWTAKZGBE53LMXIDOTU5ZJDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/12/VFVWTAKZGBE53LMXIDOTU5ZJDI/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 04:03:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;업체 편의를 봐주는 대가로 뇌물 수천만원을 받은 혐의로 국민의힘 모 의원실 전직 보좌관이 구속됐다.&lt;br&gt;&lt;br&gt;12일 본지 취재를 종합하면, 서울중앙지법 부동식 영장 전담 부장판사는 특정범죄가중처벌법상 뇌물 등의 혐의를 받는 국회의원 전 보좌관 박모씨의 구속영장을 전날(11일) 발부했다. 박씨에게 뇌물을 건네고 회삿돈을 빼돌린 혐의를 받는 헬스케어 스타트업 대표 A씨의 구속영장도 함께 발부됐다.&lt;br&gt;&lt;br&gt;박씨는 A씨의 편의를 봐주는 대가로 2022년부터 3년여 동안 뇌물 수천만원을 받은 혐의를 받고 있다. 박씨가 보좌관으로 일했던 국민의힘 현역 의원은 21대와 22대 국회에서 헬스케어 업체와 관련 있는 보건복지위원회 소속이다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사1부(부장 국원)는 박씨가 처제 B씨를 A씨 업체에 직원으로 등록시킨 다음 허위 급여를 받은 것으로 의심하고 있다. 또 검찰은 박씨가 2023년 6월 국회를 떠난 후에도 A씨에게서 뇌물을 받았다고 보고 사후수뢰죄도 적용했다. &lt;br&gt;&lt;br&gt;반면 박씨와 A씨는 “B씨가 A씨 업체에 정식 채용돼 일한 만큼 급여를 받았다”며 혐의를 부인하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 5~8월 박씨와 A씨의 주거지와 사무실 등을 압수수색했다. 지난달 말과 이번 달 초에는 두 사람을 한 두 차례씩 피의자 신분으로 조사했다. &lt;br&gt;&lt;br&gt;검찰은 신병을 확보한 박씨와 A씨를 추가로 조사한 후 구속 기한(최대 20일)이 만료되는 이번달 말쯤 두 사람을 구속 기소할 것으로 보인다. 다만 검찰은 박씨가 일했던 국회의원은 박씨의 범죄 혐의와는 무관한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HFSDOM3DMUZTSYJWHAZDIZDEGI.jpg?auth=e144416dbc3ed39c188f0bd9ae2c89eb57e0fd5266c94c579237170fde8bf249&amp;smart=true&amp;width=3128&amp;height=2153" type="image/jpeg" height="2153" width="3128">
+        <media:description type="plain">서울 서초구 서울중앙지검 모습. 2026.6.17 ⓒ 뉴스1 오대일 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">OHDAEIL</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>두 아들 구하려 바다 뛰어들었는데… 母·4세 아들 심정지</title>
+      <link>https://www.chosun.com/national/regional/2026/09/12/FFOSMO2QE5GHXK7XFPFFIECYL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/12/FFOSMO2QE5GHXK7XFPFFIECYL4/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 07:12:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XWKBPE6J35CQBEMF7Q2NHGAME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대 출동 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 오후 1시 51분쯤 전남광주 진도군 의신면 신비의 바닷길 인근 해상에서 일가족 3명이 물에 빠지는 사고가 났다.&lt;br&gt;&lt;br&gt;이날 사고는 두 아들이 먼저 물에 빠진 뒤 이들을 구하려던 어머니도 사고에 휘말린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경의 요청을 받은 재난해양구조대가 8세 아들 한 명을 먼저 구했으나, 2분 뒤 구조한 엄마와 4세 아들 한 명은 심정지 상태였다. 사고 당시는 바닷길이 열리는 썰물 시간대였다.&lt;br&gt;&lt;br&gt;해경은 인근 펜션에 투숙했던 세 모자가 신비의 바닷길에 나왔다가 변을 당한 것으로 추정하고 목격자 등을 상대로 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 경찰관 돈 받고, 내부망 개인정보 빼돌렸다</title>
+      <link>https://www.chosun.com/national/regional/2026/09/12/ZA442L7ODVDVRKSWIJMSR77NDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/12/ZA442L7ODVDVRKSWIJMSR77NDY/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 06:12:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYDCM3GGNTDEODCGIZGKNZXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기북부경찰청 광역범죄수사대는 개인정보 보호법 위반 혐의로 관내 경찰관 A씨를 검거해 조사 중이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 청탁을 받고 경찰 내부망에서 빼낸 개인정보를 외부에 유출한 뒤 대가로 돈을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 11일 A씨를 체포했으며, 개인정보 유출 횟수와 금품 수수액 등 범행 경위를 추궁하고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 돈을 주고 개인정보를 청탁한 인물도 조만간 불러 조사할 방침이다.&lt;br&gt;&lt;br&gt;경기북부경찰청은 최근 내부망에서 취득한 개인정보를 유출한 혐의로 관내 경찰관과 경남 지역 경찰을, 개인정보를 불법 취득한 혐의로 사설 탐정을 각각 구속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 김승원 ‘신약 청탁 의혹’ 이틀째 고발인 조사</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/12/A24BQHLSQFGC7DKRAQZTRPS2FI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/12/A24BQHLSQFGC7DKRAQZTRPS2FI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 06:25:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDUMFT4IZ5F5PCT4VQRJ6EPCX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 장관 후보인 김승원 더불어민주당 의원과 한동훈 무소속 의원이 지난 1일 서울 여의도 국회 본회의장에서 만나 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김승원 법무부 장관 후보자의 ‘신약 청탁 의혹’ 사건과 관련해 이틀 연속 고발인 조사를 진행했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 12일 김순환 서민민생대책위원회(서민위) 사무총장을 고발인 신분으로 불러 조사했다. 전날에는 같은 혐의로 김 후보자를 고발한 이종배 전 서울시의원을 조사했다.&lt;br&gt;&lt;br&gt;‘신약 청탁 의혹’은 김 후보자가 2021년 양씨를 통해 강씨의 청탁을 받고 김강립 당시 식약처장에게 제넨셀의 코로나 치료제 임상시험 승인을 요청했다는 내용이다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 검찰은 2024년 12월 김 후보자를 기소유예 처분한 바 있다.&lt;br&gt;&lt;br&gt;서민위는 김 후보자가 임상시험 승인 절차를 신속히 진행해 달라며 부당한 영향력을 행사했다고 보고, 청탁금지법 위반과 직권남용·직무유기 등 혐의로 고발했다. &lt;br&gt;&lt;br&gt;한편 경찰은 김 후보자의 수사 자료를 유출한 혐의로 고발된 무소속 한동훈 의원 사건과 관련해서도 고발인 조사를 이어갈 방침이다. 영등포서는 13일 이 사건 고발인인 김동아 더불어민주당 의원을 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;김 의원은 지난 6일 기자회견을 열고 한 의원과 그에게 수사 기록을 넘긴 성명불상의 제공자를 공무상 비밀 누설, 개인정보보호법 및 공공기록물 관리법 위반 혐의 등으로 고발했다. &lt;br&gt;&lt;br&gt;앞서 한 의원은 검찰이 외압을 받아 김 후보자를 기소유예 처분했다고 주장하며 당시 수사팀이 작성한 기소 계획서 등을 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김민석 “서울시장 선거 99.99% 있다”에 국힘 “사법부 겁박” 민주 “억지 호들갑”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/09/12/PGB4EYLOSBH7TGSVD7HPM27UN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/12/PGB4EYLOSBH7TGSVD7HPM27UN4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 05:19:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSSVPT3J5RAEZMCIZ2YOUKKV7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 더불어민주당 대표가 지난 9일 국회 본회의장에서 수첩에 적은 글을 살펴보고 있다./데일리안&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 김민석 대표가 ‘서울시장 후보’를 적은 수첩을 노출시키고 “서울시장 보궐선거는 99.99% 있다”고 말한 데 대해 12일 국민의힘이 “재판의 결론을 예단하며 사법부를 겁박한다”고 비판했다. 민주당은 “메모 한 줄을 붙잡고 호들갑을 떤다”고 반박했다.&lt;br&gt;&lt;br&gt;앞서 9일 김 대표는 국회 본회의장에서 ‘서울시장 후보’라고 적은 수첩을 노출시켰다. 그 아랫줄에는 ‘훈식’ ‘원식’ ‘청래’, 그다음 줄에는 ‘현종’ ‘MS’라고 적혀 있었다. 이튿날 김 대표는 유튜브 ‘민주당TV’에 출연해 각각 강훈식 대통령비서실장, 우원식 전 국회의장, 정청래 전 민주당 대표, 김현종 전 통상교섭본부장, 김민석 대표 자신을 가리키는 것이라고 설명했다. 정원오 전 서울 성동구청장, 박주민·전현희·서영교 의원, 박홍근 기획예산처 장관 등 지난 민주당 서울시장 후보 경선에 나섰던 사람들도 당연한 후보군이라고 했다. 그러면서 “서울시장 선거는 99.99% 있다고 본다”며 “준비하는 것이 당연하다”고 했다. 2심 재판 중인 오세훈 서울시장의 시장직 상실형이 확정돼 서울시장 보궐선거가 치러질 것이라는 말이었다.&lt;br&gt;&lt;br&gt;이에 대해 국민의힘 박성훈 수석대변인은 12일 논평에서 “김 대표가 엄연히 진행 중인 재판의 결론을 멋대로 예단하며, 보궐선거를 기정사실화한 ‘서울시장 후보 하마평’으로 사법부 압박과 여론 호도에 앞장서고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “헌법과 법률에 따라 엄정하게 진행돼야 할 사법 절차를 무시한 채, 권력 나눠먹기식 계산기부터 두드리는 행태는 사법부 독립에 대한 침해이자 사법부를 향한 정치적 겁박”이라고 했다. “판결이 나오기도 전에 결과를 자의적으로 예단하고 선거판을 짜는 것은 법치주의의 근간을 훼손하는 반헌법적 발상”이라고도 했다.&lt;br&gt;&lt;br&gt;박 수석대변인은 “나라 살림을 팽개치고 이에 맞장구치기 바쁜 박홍근 기획예산처 장관의 들뜬 행태 또한 국민의 눈살을 찌푸리게 하고 있다”고고도 했다. 박 장관은 11일 MBC라디오에 나와 “(서울시장 후보는) 정치인으로서 원래 하고 싶었던 일인데, 기회가 오면 마다하겠다는 사람이 얼마나 있겠느냐”고 했다. 이에 대해 박 수석대변인은 “장관직을 서울시장 출마를 위한 징검다리로 여기고 공직을 개인의 정치적 영달을 위한 도구로 삼는 태도는 공직자로서 최소한의 염치마저 저버린 처사”라고 했다.&lt;br&gt;&lt;br&gt;그러자 민주당 이용우 대변인은 12일 서면 브리핑에서 “국민의힘이 김 대표 메모 한 줄을 붙잡고 ‘사법부 겁박’이라며 호들갑을 떨고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 대변인은 “정작 자신들이 해온 일을 생각하면 기가 막힐 노릇”이라며 “한동훈 의원은 법무부 장관 재직 당시 (국민의힘) 나경원 의원에게서 패스트트랙 사건 공소를 취소해 달라는 부탁을 받았다고 밝혔다”는 점을 거론했다.&lt;br&gt;&lt;br&gt;이 대변인은 “메모 한 줄에도 그토록 엄격한 국민의힘은 왜 자신들의 일에는 한없이 관대하냐”며 “자기 편에만 예외를 두는 뻔뻔한 이중 잣대를 국민께서 똑똑히 지켜보고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;이 대변인은 “국민의힘은 단순한 정치적 전망을 ‘사법부 겁박’으로 왜곡하는 억지 공세를 멈추고 자신들의 행태부터 돌아보라”며 “공정과 사법 절차를 말하라면 자기 편에도 같은 기준을 적용하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “기독교로 개종한 이란인, 난민 인정해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/12/YAEUIK7ZAZFSNEBTM4Q6GP2SB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/12/YAEUIK7ZAZFSNEBTM4Q6GP2SB4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 01:04:40 +0000</pubDate>
+      <content:encoded>이슬람교에서 기독교로 개종한 이란인을 난민으로 인정해야 한다는 법원 판단이 나왔다. 이란에서 기독교인으로 살게 되면 박해받을 가능성이 있다는 취지다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44DAMTCGJTDQNRRGI4DGNLBGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동에 위치한 서울행정법원·서울가정법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정10단독 조대현 판사는 이란 국적 A씨가 서울출입국·외국인청장을 상대로 “난민 불인정 결정을 취소하라”며 낸 소송에서 지난달 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 독실한 무슬림 집안에서 태어나 이슬람 신학교에 다녔지만, 이슬람교가 자신의 가치관과 맞지 않는다는 걸 깨달았다. 17살에 이스파한의 한 교회에서 기독교를 접한 것을 계기로 기독교로 개종했다. 여행객으로 위장한 선교사들의 도움으로 세례를 받은 뒤, A씨는 튀르키예 등 해외에서 기독교 교육을 받았다. 이후 이란 내에서 ‘가정교회’ 형태로 비밀리에 기독교 전도 활동을 이어나갔다.&lt;br&gt;&lt;br&gt;그러나 동료 교인이 경찰에 체포되는 등 신변의 위협을 느끼자 2018년 A씨는 한국에 입국했다. 이슬람교에서 개종한 사람들은 배교자로 간주돼 사형에까지 처해질 수 있다.&lt;br&gt;&lt;br&gt;국내에서도 기독교 예배와 전도 활동을 이어간 A씨는 2020년 “난민으로 인정해달라”고 당국에 신청했지만 받아들여지지 않았다. A씨 진술을 믿기 어렵다는 취지였다.&lt;br&gt;&lt;br&gt;하지만 재판부는 A씨 진술에 신빙성이 있다고 판단했다. 특히 이란 내 기독교 활동이 가정교회 형태로 이뤄지는 점, 현지에서 기독교 세례를 ‘수영’이라는 은어로 지칭하는 점 등 기독교인이 아니라면 알기 어려운 사정을 구체적으로 진술했다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 “이슬람교는 이란의 국가 정체성과 밀접 불가분의 관계에 있다”며 “A씨가 한국 입국 전후로 행한 여러 종교 활동은 그 자체로 이란의 헌법, 형사법, 샤리아에 따라 사형에까지 처해지는 배교행위로 간주될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “이란은 현재 미국, 이스라엘과 전쟁을 벌이고 있다”며 “전쟁이라는 중대한 위기에 직면한 국가에선 사회적 결속과 국가에 대한 충성이 강조되고, 그 과정에서 다수와 다른 신념을 가진 소수자에 대해 인권침해나 차별이 일어날 위험성이 커진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>亞·太 병원 평가, 한국이 10개 분야 중 9개 1위</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/06/19/7U4CJRMQKJBDFLERQBSQ3EPT6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/06/19/7U4CJRMQKJBDFLERQBSQ3EPT6A/</guid>
@@ -897,47 +973,6 @@
       <content:encoded>정부가 12·3 비상계엄을 저지한 시민에게 발급하겠다던 일명 ‘빛의 인증서’를 ‘감사장’으로 대체할 것으로 10일 알려졌다. 정부는 이재명 대통령 지시로 지난 7월 인증서 발급 업무 등을 담당할 ‘빛의위원회’를 대통령 소속으로 발족했는데, 인증서 발급 방침을 사실상 철회한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;빛의위원회는 지난 7월13일 출범 후 첫 회의를 열었다. 위원회가 국민의힘 김민전 의원실에 제출한 이 회의 속기록을 보면 박미경 위원장은 “(인증서는) 감사장으로 전환될 것”이라며 “(비상계엄) 현장에서 많이 애쓰신 분들의 노고를 치하하는 인증서를 주기로 한 대통령령은 앞으로 개정해야 할 사안”이라고 했다. 현 정부는 ‘빛의위원회 설치 및 운영에 관한 규정’에서 ‘빛의 인증서’ 발급, 인증서 발급 대상자에 대한 예우에 관한 사항 등을 심의한다고 규정한다. 그런데 해당 규정을 개정해 인증서를 감사장으로 대체하겠다는 뜻으로 보인다.&lt;br&gt;&lt;br&gt;‘빛의 인증서’는 이 대통령 지시로 추진됐다. 이 대통령은 지난해 12월 국무회의에서 “비상계엄 저지와 헌정 질서 수호에 함께한 국민에게 표창 등 의미 있는 증서를 수여할 것”이라고 밝혔다. 이에 따라 행정안전부는 올 초 관련 규정을 마련했다. 이 규정에 따라 지난 7월 위원회가 출범했고, 인증서 발급과 관련해 예산 3억6800만원을 편성했다.&lt;br&gt;&lt;br&gt;위원회 첫 회의 속기록에는 인증서를 감사장으로 대체하려는 이유와 관련한 구체적인 설명은 나오지 않는다. 다만 위원회 출범 전부터 ‘빛의 인증서’를 두고 정부가 계엄 저지에 기여한 시민을 가려내 인증하는 것이 적절하냐는 논란이 제기된 것과 관련 있는 것 아니냐는 분석이 나온다. 정치권에선 이 인증서를 두고 “대통령이 감별해 인증하면 ‘빛의 국민’이고 그렇지 않으면 ‘어둠의 반국가 시민’이냐”는 반발이 나왔다.&lt;br&gt;&lt;br&gt;위원회는 12·3 비상계엄 관련 기록을 수집·보존하는 사업 등을 추진할 것으로 알려졌다. 계엄 선포 직후부터 대통령 탄핵 때까지 시민들이 남긴 사진·영상·일기와 응원봉·손팻말 등을 ‘빛의 기록물’로 수집하는 사업이다. 지난 7월 말 시작된 기록물 기증 신청에는 지난달 26일 기준 총 63건이 접수됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“냉동창고에 사람 갇히면 어떻게 돼?” 파주 카페 주인, AI에 물어봤다</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/11/GQFVCBWANZHVTBMCRQTC754UTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/GQFVCBWANZHVTBMCRQTC754UTA/</guid>
-      <dc:creator>김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZDEZJQMQ2TENBTMU4GMMLFME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 파주시의 한 카페 냉동창고에서 60대 여성 시신이 얼어붙은 채 발견돼 경찰이 수사 중이다. 경찰은 피의자로 30대 카페 사장을 검거해 구속 상태로 조사하고 있다. 사진은 지난 7일 사건이 발생한 카페의 모습. 내부 사정으로 인해 휴무한다는 안내가 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘파주 카페 냉동 창고 살인 사건’ 피의자 A씨가 범행 후 생성형 AI(인공지능)에 범행을 유추할 수 있는 질문을 한 정황을 경찰이 포착한 것으로 10일 알려졌다. &lt;br&gt;&lt;br&gt;지난 4일 경기 파주의 한 카페 냉동 창고에서 60대 여성 B씨가 숨진 채 발견된 사건과 관련해 경기 파주경찰서는 30대 카페 주인 A씨를 살인 혐의로 구속했다. 경찰은 A씨가 사전에 범행을 계획했을 가능성을 보고 수사 중이다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 휴대전화를 포렌식했더니 그가 AI에 “냉동 창고에 사람이 있으면 어떻게 되지?”라는 취지의 질문을 한 것을 발견했다. 경찰은 이 질문을 살인을 계획한 증거로 보고 있다. AI는 해당 질문에 “냉동 창고에 갇힌 지 30분 이상이 경과되면 의식이 희미해지고, 1시간 이상 경과했을 때 적절한 구조가 없으면 심정지로 이어진다”는 등의 답변을 내놓는다. ‘냉동 창고에 사람이 갇힐 경우 사망할 수 있다’는 점을 알았다는 것은 살인의 고의성을 뒷받침한다는 정황이 될 수 있다. B씨를 부검한 국립과학수사연구원은 별다른 외상이 없다는 구두 소견을 내놓았다. B씨가 냉동 창고에서 동사했을 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 범행을 사전에 준비한 정황도 파악했다. 앞서 A씨는 사건 일주일 전인 지난달 27일 오전 4시 30분쯤 카페에 냉동 창고를 설치했다. 경찰은 “A씨가 직접 냉동 창고 업체에 연락해 빌린 것으로 확인됐다”고 말했다. A씨는 처음엔 경찰에 냉동 창고를 설치한 이유와 관련해 살인을 염두에 뒀다고 진술했다고 한다. 그러나 지금은 냉동 창고에 상품권을 두면 가짜임을 알아차리기 어려울 것으로 보고 창고를 설치한 것일 뿐이라고 주장하는 것으로 알려졌다. B씨에게 상품권이 가짜인 것이 들통나 우발적으로 냉동 창고 문을 닫아버렸다는 취지로 주장한다는 것이다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 B씨를 차량에 태워 파주 카페로 이동하면서 “위치가 노출될 수 있으니 휴대전화를 두고 가자”고 했다. 이에 B씨는 휴대전화 전원을 끈 뒤 차량 대시보드 위에 올려뒀다. B씨가 실종된 후 그의 휴대전화는 범행과 무관한 경기도 고양시 등에서 여러 번 켜졌다 꺼졌다를 반복했다. 경찰은 A씨가 수사에 혼선을 주려고 한 소행으로 의심한다. &lt;br&gt;&lt;br&gt;최근 ‘모텔 약물 연쇄 살인’으로 1심에서 무기징역을 선고받은 김소영(20)도 범행 전후 챗GPT에 ‘수면제 많이 먹는다고 사람이 죽냐’ 등 피해자 사망 가능성을 물은 것으로 드러났다. 올해 5월 챗GPT가 전 여자 친구 살해 계획을 털어놓은 이용자를 미 연방수사국(FBI)에 신고해 이용자가 처벌을 받은 일도 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>70대 운전자 차량, 우회전 하다 전복… 인명피해는 없어</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/11/AXODBCYSHJDHPP54GA73E4D5OQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/AXODBCYSHJDHPP54GA73E4D5OQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEGZOBGSTZGKLBOKTFGY5FDRRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 서울 종로구 동대문종합시장 인근에서 승용차 전복 사고가 발생해 경찰과 소방대원이 도로를 통제하고 있다. 경찰은 70대 운전자가 우회전을 하던 중 운전 미숙으로 도로 구조물에 부딪혀 사고를 낸 것으로 보고 정확한 경위를 조사 중이다. 인명 피해는 발생하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>차별도 상처도 뛰어넘은 집념… ’3085안타 전설' 남겼다</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/11/LKK2D6FW4VFJLAVTRBYNNF2AO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/11/LKK2D6FW4VFJLAVTRBYNNF2AO4/</guid>
-      <dc:creator>양승수 기자, 도쿄=김동현 특파원</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUKVFA4INNACRMVDRUTV6TEQ7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장훈이 일본 프로야구 요미우리 자이언츠 시절 배트를 휘두르던 모습. ‘안타 제조기’ 장훈은 ‘홈런왕’ 오 사다하루(왕정치)와 함께 ‘공포의 O·H 타선’으로 이름을 날렸다. 그가 남긴 통산 3085안타는 지금도 일본에서 ‘불멸의 기록’ 대접을 받는다. /교도 연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 프로야구 통산 최다 안타(3085개)에 빛나는 ‘안타 제조기’ 장훈(일본명 하리모토 이사오)이 9일 도쿄의 한 병원에서 86세로 별세했다. 재일교포 2세인 그는 1960~70년대 일본 야구판에 만연하던 차별에 맞서 한국인의 기상을 떨쳤고, 무서운 집념과 노력으로 누구나 인정하는 일본 야구의 전설이 됐다.&lt;br&gt;&lt;br&gt;1940년 히로시마에서 태어난 그는 평생 한국을 ‘조국’이라고 불렀다. 열여덟 살 때 일본 프로야구 도에이 플라이어스(현 닛폰햄 파이터스)가 장훈을 영입하려고 일본 국적 취득을 권유했다. 하지만 “조국을 버리면서까지 야구를 할 필요는 없다”는 어머니의 반대에 장훈은 한국 국적을 유지한 채 프로에 데뷔했다. 그는 생전에 “국적은 바꿀 수 있어도 민족의 피는 바꿀 수 없다”는 말을 자주 했다. 말년에 일본 국적을 취득했지만, 2023년 본지 인터뷰에선 “단 한 번도 한국인임을 부끄러워하거나 숨긴 적이 없다”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFWYA6KE4VDSLDKQJ2MC6Y74BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유년 시절은 고단했다. 네 살 때 당한 화상(火傷)으로 오른손 손가락을 제대로 펴지 못했다. 다섯 살이던 1945년 8월 히로시마에 투하된 원자폭탄에 큰누나가 숨지고, 자신도 피폭됐다. 장훈은 “나를 꼭 껴안은 어머니의 치마저고리가 피로 물들어 있었다”고 회상했다. 학창 시절 한국인을 차별하는 일본 학생들과 주먹다짐을 하며 방황도 했지만, 어머니와 형의 헌신적인 뒷바라지에 마음을 잡고 야구에 매진했다. “성공해서 어머니에게 비단 치마저고리를 사드리겠다”고 입버릇처럼 말했고, 프로 입단 계약금 200만엔을 모두 어머니에게 건넸다. &lt;br&gt;&lt;br&gt;야구 선수로서 성공은 투지의 결과물이었다. 성치 않은 오른손 때문에 어쩔 수 없이 왼손으로 야구를 배웠지만, 오른손 근력을 키우려고 혹독한 훈련을 반복했다. 물집이 터진 자리에 피가 흘러 손바닥이 미끄러지면 아예 붕대로 오른손을 배트에 묶고 스윙 연습을 했다. 연습 후 피가 말라붙은 붕대를 물에 적셔서 떼낼 정도였다. 그는 훗날 “오른손이 멀쩡했으면 야구를 더 잘했을까”라는 혼잣말을 어머니가 듣고 펑펑 우는 모습을 본 뒤 다시는 장애를 언급하지 않았다고 한다.&lt;br&gt;&lt;br&gt;프로 무대에선 승승장구했다. 1959년 신인왕, 프로 3년 차인 1961년 첫 타격왕을 차지한 뒤 이듬해 MVP(최우수선수)에 뽑혔다. 1967년부터 1970년까지는 4년 연속 타격왕을 차지했다. 1981년까지 23시즌 동안 2752경기에서 타율 0.319, 3085안타, 504홈런, 319도루를 기록했다. 3085안타는 일본 프로야구에서 ‘불멸의 기록’으로 대접받고, 500홈런-300도루 이상도 장훈이 유일하다. 1990년 일본 야구 명예의 전당에 헌액됐다.&lt;br&gt;&lt;br&gt;일본 프로레슬링 ‘수퍼스타’ 재일교포 역도산과의 인연도 유명하다. 역도산은 열여섯 살 아래인 장훈을 각별하게 챙기며, 당시 야구계에 생소했던 웨이트 트레이닝을 알려주기도 했다. 지난달 세상을 떠난 백인천 전 감독이 일본 프로야구에서 뛸 때 ‘한국인 후배’가 불이익을 당하지 않게 알뜰히 살피기도 했다. 이승엽이 요미우리 자이언츠에서 부진하자 “홈런 타자는 믿고 기다려줘야 한다”며 애정을 숨기지 않았다.&lt;br&gt;&lt;br&gt;은퇴 후엔 일본에서 야구 해설위원으로 큰 사랑을 받았다. 한국 프로야구가 출범한 1982년부터 2005년까지 KBO(한국야구위원회) 총재 특별보좌로 국내 야구계와도 활발히 교류했다. 한국 야구 발전에 기여한 공로로 1980년 체육훈장 맹호장, 2007년 국민훈장 무궁화장을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YUKVFA4INNACRMVDRUTV6TEQ7A.jpg?auth=f6ecfe8e774d1427d621e547dae30a55c06f5fc237a396a1414ba2bf3e083374&amp;smart=true&amp;width=1375&amp;height=1183" type="image/jpeg" height="1183" width="1375">
-        <media:description type="plain">장훈이 일본 프로야구 요미우리 자이언츠 시절 배트를 휘두르던 모습. ‘안타 제조기’ 장훈은 ‘홈런왕’ 오 사다하루(왕정치)와 함께 ‘공포의 O·H 타선’으로 이름을 날렸다. 그가 남긴 통산 3085안타는 지금도 일본에서 ‘불멸의 기록’ 대접을 받는다. /교도 연합뉴스
-</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[부음] 김수배 前 한국경제신문 논설위원 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/11/GBKHP7HE3BBRDN74ZOIH4GMVLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/11/GBKHP7HE3BBRDN74ZOIH4GMVLU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:38:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김수배 &lt;/b&gt;前 한국경제신문 논설위원 별세,&lt;b&gt; 유옥형 &lt;/b&gt;남편상, &lt;b&gt;김석범&lt;/b&gt; 오늘치과 대표원장 부친상, &lt;b&gt;차은혜&lt;/b&gt; 서울재활병원 과장 시부상=9일19시48분 서울아산병원, 발인 12일8시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박광만 &lt;/b&gt;별세,&lt;b&gt; 박상규&lt;/b&gt; BBS울산 방송부장 부친상=10일5시25분 울산전문장례식장, 발인 12일6시30분, (052)242-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신준성 &lt;/b&gt;별세,&lt;b&gt; 하정순 &lt;/b&gt;남편상,&lt;b&gt; 신창범&lt;/b&gt;·&lt;b&gt;신정현 &lt;/b&gt;국제신문 편집국 부국장·&lt;b&gt;신은경&lt;/b&gt; 부친상,&lt;b&gt; 이병찬 &lt;/b&gt;장인상=9일22시 부산 시민장례식장, 발인 12일8시30분, (051)636-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이조복 &lt;/b&gt;별세,&lt;b&gt; 정휘철&lt;/b&gt; 前 청호그룹 부회장·&lt;b&gt;정수예&lt;/b&gt; 모친상=9일18시49분 서울성모병원, 발인 12일5시, (02)2258-5922&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황복례 &lt;/b&gt;사랑의교회 권사&lt;b&gt; &lt;/b&gt;별세,&lt;b&gt; 이종세&lt;/b&gt; 대한언론인회 회장 아내상, &lt;b&gt;이장우&lt;/b&gt; 서울동부지검 부장검사·&lt;b&gt;이묘우&lt;/b&gt; 모친상, &lt;b&gt;박진아&lt;/b&gt; 신한대 교수 시모상=10일15시1분 서울아산병원, 발인 12일5시, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘사료 발굴 전문가’ 방선주 박사 별세</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/09/11/IP44D425JVAQFDL5W4SHZRT5EU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/11/IP44D425JVAQFDL5W4SHZRT5EU/</guid>
@@ -945,42 +980,6 @@
       <description/>
       <pubDate>Thu, 10 Sep 2026 15:38:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMG4OCVJCFHOVNYBD2S25JOIFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국에서 많은 한국 근현대사 자료를 발굴한 역사학자 방선주(93·사진) 박사가 지난 9일(한국 시각 8일) 별세했다고 10일 국사편찬위원회가 밝혔다.&lt;br&gt;&lt;br&gt;평북 선천 출신으로 숭실대·고려대(석사)를 다녔고, 미국 워싱턴주립대와 캐나다 토론토대에서 중국 고대사를 연구했다. 1979년부터 미국 국립문서기록관리청(NARA)에서 미국 전략첩보국(OSS)의 한반도 침투 작전 문서 등 1500만장 분량의 한국 관련 자료를 찾아내 ‘NARA의 전설’로 불렸다. 1983년 국사편찬위원회 국외사료조사위원이 됐다. 국민훈장 동백장(2007) 등을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 9월 11일</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/11/IUSOYVIGRFHVVO3FVXFKR4YLHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/IUSOYVIGRFHVVO3FVXFKR4YLHQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORI33DXYBFDFZN7SWVCPAUPMYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>육아휴직 도중 승진… “인사 불이익 걱정 없이 일•가정 지켰죠”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/09/11/GZQOIIGDJNFITMIKWRSDCW62IQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/09/11/GZQOIIGDJNFITMIKWRSDCW62IQ/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DN6BJKZFUNDMTK6CP2UVDEG65Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 경기도 안양시 관양동에 있는 엘칸토 본사 5층 사무실에서 직원들이 자녀를 무릎에 앉힌 뒤 손을 흔들고 있다. 엘칸토는 육아휴직자 고과 평가 시 평균 등급(B)을 적용해 승진에 불이익을 받지 않도록 사내 규정을 만들었다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 3월 육아휴직에서 복귀한 회사원 김세원(33)씨는 육아휴직 기간 중 대리로 승진했다. 보통 워킹맘들이 육아휴직을 제대로 쓰지 못하는 이유는 자칫 승진에서 밀리거나, 복귀 후 주요 업무에서 배제될 수 있다는 우려 때문인데 오히려 이 기간에 승진을 한 것이다. 그는 “고과를 잘받은 덕에 육아휴직 중에 승진을 했고, 복귀 뒤에도 원래 해왔던 영업 관리 업무를 그대로 맡아 별다른 어려움이 없었다”며 “육아 때문에 손해 보는 게 없다고 생각하니 일에 더 몰입할 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;구두 등 신발 제품을 주로 만드는 업체인 엘칸토는 이처럼 인사 평가에서 육아휴직자들이 불이익을 받지 않도록 인사 규정에 ‘평균 등급(B) 적용’을 명문화했다. 이 덕에 김 대리처럼 육아휴직 중에도 승진을 하는 게 이곳에선 자연스러운 일이라고 한다. &lt;br&gt;&lt;br&gt;엘칸토는 직원들의 임신 준비부터 육아휴직 복귀 후, 일·가정 양립을 지원하는 걸 최우선 과제로 삼고 있는 회사다. 이 같은 분위기는 여성 비율이 높은 제화업의 특성과도 관계돼 있다. 엘칸토는 전체 직원 중 여성 비율이 64%에 달하고, 가정을 가진 직원들도 많다고 한다. 이 때문에 엘칸토 경영진은 직원들이 출산·육아 때문에 경력이 단절되는 게 회사 입장에서도 가장 큰 손해라고 여긴다는 것이다. 아이 양육 문제로 직원이 퇴사하면 새 직원을 뽑아야 하는데, 교육하고 경력을 쌓는 데 시간과 비용이 훨씬 더 소모되기 때문이다. 신우승 경영지원본부 팀장은 “출산이나 육아로 일 잘하는 직원이 그만두면 회사 입장에선 인적 자원을 그냥 잃는 셈”이라며 “출산이나 육아를 적극적으로 도와 일 잘하는 직원의 생산성을 높이는 게 회사 방침”이라고 했다. 실제로 지난해 엘칸토의 육아휴직 복귀율은 100%였다. &lt;br&gt;&lt;br&gt;출산·육아휴직을 택한 직원이 공백 없이 업무에 복귀하도록 휴직자와 접촉해 면담도 갖는다. 휴직에 들어가기 전 일을 그대로 맡겨, 연착륙 할 수 있도록 하는 게 기본 방침이다. 회사 복귀 전부터 회사와 계속 소통을 하게 되니, 출산이나 육아로 경력이 단절될 것이란 생각 자체가 들지 않는다는 것이다.&lt;br&gt;&lt;br&gt;엘칸토가 직원들의 ‘쉴 권리’ 보장에 적극적인 것도 비슷한 이유에서다. 여러 제도를 마련해 휴가와 휴식을 보장하는 데 전력을 기울인다. 개인에게 보장된 법정 휴가 외에도 ‘리프레시 휴가’란 이름으로 추가 유급 휴가 4일을 주고, 회사 전체 휴무일도 별도로 4일을 지정했다. 한 달에 한 번 금요일엔 반차를 시행해 4.5일제를 운영한다. &lt;br&gt;&lt;br&gt;아이 둘을 양육하는 양성모(46) 상품실 팀장은 “둘째가 예상보다 일찍 태어나게 돼 아내가 급하게 입원해야 하는 상황이었는데, 다양한 휴가 제도 등을 이용해 35일 정도를 쉴 수 있었다”며 “당시 출근을 병행해야 했다면 일에만 집중하기 쉽지 않았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;야근이 없는 것도 엘칸토만의 특징이다. 모든 근로자가 오전 8시 30분 출근해 오후 5시 30분 퇴근한다. 지난해 전체 야근 시간을 1인당 평균 내보니 15분에 불과했다고 한다. 야근을 한다고 해서 일의 효율이 오르지도 않는데다, 직원들에게 일과 생활의 예측 가능성을 주는 게 낫다고 경영진이 판단했기 때문이다. 김한솔(38) 디자인팀 과장은 “아이가 어릴수록 병원을 가는 등 예상치 못한 일이 많이 생기는 데 야근이 없으니 육아의 어려움을 많이 줄일 수 있었다”고 했다. 같은 제화 업계 내에서도 엘칸토는 아이 키우기 좋은 업체, 좋은 육아 제도를 가진 업체로 소문이 나 있다는 게 업계 관계자들 얘기다.&lt;br&gt;&lt;br&gt;엘칸토가 출산·육아 친화적인 기업이 될 수 있었던 건 ▲경영진이 월 1회 전 직원을 대상으로 회사의 상황을 설명하는 ‘경영 설명회’ ▲1년에 2회 전 직원이 대표와 1대1 면담을 하는 ‘인사이트 미팅’ 제도 등이 역할을 했다고 한다. 면담과 설명 과정에서 직원들이 언급한 고충을 경영진이 제도에 반영한 결과라는 것이다. 신우승 팀장은 “일반 팀원들도 팀장이나 상사 등에게 말하고 건의하는 데 전혀 거부감이 없는 분위기”라며 “수평적 분위기를 유지하기 위해 소통의 중요성을 여러 제도 등을 통해 강조하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이런 분위기는 가시적인 성과로도 이어지고 있다. 지난해 영업이익은 35억9000만원을 기록해 전년 대비 77.5% 늘었고 올해 상반기에도 매출 359억3000만원, 영업이익 27억8000만원을 기록해 작년 성과를 넘어설 것으로 전망된다. &lt;br&gt;&lt;br&gt;엘칸토는 일·가정 양립이 가능한 회사 제도를 마련한 공을 인정받아 2024년 여성가족부(현 성평등가족부) 주관 ‘가족 친화 기업’ 인증을 획득한 데 이어, 올해는 ‘남녀고용평등 우수기업’으로 선정돼 고용노동부 장관상도 받았다. 조성원 엘칸토 대표는 “임직원들이 출산이나 육아 등에 지장받지 않고, 실력을 제대로 발휘하게 만드는 게 경영진의 역할”이라며 “사내 일·가정 양립이 가능하도록 제도를 계속 개선해 갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[육아 똑똑똑] 영아 돌연사 예방하는 아기 잠자리 만들기 10원칙</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2026/09/11/SVCBANEAJND6HD6Y54WLCPLUCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2026/09/11/SVCBANEAJND6HD6Y54WLCPLUCY/</guid>
-      <dc:creator>전현석 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:36:00 +0000</pubDate>
-      <content:encoded>신생아를 옆으로 누워 재우면 아기 두상이 예뻐진다는 말이 있죠. 이 때문에 옆잠 베개를 쓰는 경우도 있습니다. 하지만 아기를 어떻게 재우느냐는 영아 돌연사 증후군과 관련돼 있기 때문에 유의해야 합니다. 이번 ‘육아똑똑똑’에선 우리아이들병원 소아청소년과 전문의 조기혜 튼튼센터장과 박은영 아나운서가 영아 돌연사를 예방하는 아기의 잠자리 환경을 살펴봤습니다.&lt;br&gt;&lt;br&gt;조 센터장은 아기를 재울 때는 낮이든 밤이든 언제나 등이 바닥에 닿게 눕혀야 한다고 강조합니다. “두상을 예쁘게 만드는 것도 중요하지만, 수면 중에는 아이의 안전이 가장 중요하다”고 말했습니다.&lt;br&gt;&lt;br&gt;이 원칙은 ‘영아 돌연사 증후군’과 관련돼 있어요. 영아 돌연사 증후군은 돌 이전의 아기가 특별한 원인 없이 잠자던 중 갑자기 사망하는 현상을 말합니다. 영아 돌연사가 많이 발생한 집단과 그렇지 않은 집단을 비교한 연구에서, 엎드려 자는 아기의 사망률이 뚜렷하게 높았습니다. 이를 계기로 아기를 똑바로 눕혀 재우자는 공중보건 운동인 ‘바로 눕혀 재우기’(Back to Sleep) 캠페인이 시작됐고, 이후 영아 사망률은 현저하게 낮아졌습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAJOTWBVYBGCLGZP7DM6VQDXQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영아 돌연사를 예방하는 방법은 다음과 같습니다. ▲재울 때는 항상 등이 바닥에 닿을 것 ▲단단하고 평평한 매트리스를 쓸 것 ▲잠자리를 10도 이상 기울이지 말 것 ▲임신 중 정기적인 산전 검사로 아기의 건강 상태를 확인할 것 ▲출산 전후로 흡연, 음주, 불법 약물을 하지 말 것 ▲가능한 한 모유 수유를 할 것 ▲공갈젖꼭지를 사용할 것 ▲자는 동안 덥지 않게 할 것 ▲수면 무호흡 모니터링 기기는 쓰지 말 것 ▲터미타임으로 발달을 도울 것. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCZVBENARJCSVERAK52SAOOO5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그럼 아기는 하루 종일 천장만 봐야 할까요. 그렇지 않습니다. 깨어 있을 때는 엎드려서 놀게 하는 ‘터미타임’이 필요해요. 터미타임이 좋은 이유는 세 가지입니다. 첫째, 예쁜 두상 형성에 도움이 됩니다. 둘째, 아기 눈높이에서 시야가 열립니다. 누워서 천장만 보던 아기가 세상을 정면으로 마주하게 되는 셈이죠. 셋째, 목과 어깨, 등 근육 발달에 도움이 됩니다. 더 자세한 내용은 조선일보 유튜브 ‘육아똑똑똑’에서 확인하세요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MDKL5LDY5CKPDWY3PWJV74J24.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 유튜브 '육아똑똑똑'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/09/11/MB2HXUL3HRGWJIZX4OESPDUFE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/09/11/MB2HXUL3HRGWJIZX4OESPDUFE4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Sep 2026 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3IZ3FHDXFFAPLJL2JN34M5OCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-9-11일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 4일 ‘우리 아기가 태어났어요’ 코너에 실린 김도원&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>현대제철, 노란봉투법 시행 후 첫 원·하청 교섭 타결</title>
