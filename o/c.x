@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>추미애 “李대통령, 왜 내란 세력에 업혀 전전긍긍하나”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/09/12/UBNNQRIAPZGPBI7GPLEVQX53DY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/12/UBNNQRIAPZGPBI7GPLEVQX53DY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Sep 2026 12:15:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYDGNLBMMZTEZJXHFTDAMRSGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추미애 경기지사가 12일 오전 경기 남양주시 모란공원에서 열린 2025년 경기도 민주화운동 희생자 추모제에서 발언하고 있다. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기지사가 12일 “민주화가 끝나지 않았다”며 “대통령은 내란 세력을 징벌해야 하는데 왜 내란 세력에 업혀서 전전긍긍하는 것인가”라고 이재명 대통령을 비판했다.&lt;br&gt;&lt;br&gt;추 지사는 이날 오전 경기 남양주시 모란공원 민주·열사묘역에서 열린 ‘2025년 경기도 민주화운동 희생자 추모제’에 참석해 발언했다. 추 지사는 “참 마음이 죄스럽다. 민주화는 끝났나. 소임을 다했나”라며 “검찰이 모든 권력, 수사권을 쥐고, 기소권과 영장 청구권을 쥐고, 공소 유지를 하면서 허위 자백을 이용하고, 증인을 회유하고, 진술 세미나를 벌이고, 술 파티를 벌여서 사건을 왜곡하는데, 그 모순을 해결하지 않고 어떻게 민주화가 되겠느냐”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 이어서 “윤석열 검찰이 정권이 바뀌었는데도 좋은 보직을 받고 출세하는데, 윤석열 검찰이 생존을 위해 더 기승을 부리는데, 그들을 그대로 인정하는 것이 민주화가 다 된 것이냐”고 했다. “한동훈(무소속 의원)과 한 배를 탔던 사람이 초대 중대범죄수사청장이 된다면 그것이 민주화냐”고도 했다. 이 대통령이 지난 7일 초대 중수청장 후보자로 검찰 출신 김지용 변호사를 지명한 것을 비판한 것이다. 추 지사는 그러면서 “그래서 민주화는 끝난 것이 결코 아니다”라고 했다.&lt;br&gt;&lt;br&gt;추 지사는 이어 “엄동설한에 사람들이 힘을 모아서 내란을 극복하고 선거 민주주의를 일으켜 세웠다. 하마터면 내란 세력이 훔쳐갈 뻔했던 헌법 질서를 되찾았다”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 “그렇다면 대통령은 이들 세력을 징벌해야 하는 것 아니냐”며 “왜 이들 세력에게 업혀서 전전긍긍하는 것이냐”고 했다. “왜 민주 영령들을 과거처럼 취급하는 것이냐”고도 했다. 그러면서 “(이 대통령도) 이곳에 와서 빌어야 한다. 다시 (민주화를) 서약해야 한다”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 “대한민국 최대의 난제는 잘 배운 사람들, 가방끈 긴 사람들이 권력을 차지하고 먹이사슬 꼭대기에 앉아서 민생을 깎고, 노력을 훔쳐가고, 법과 제도를 농락하고, 부패 카르텔, 엘리트 카르텔이 힘을 불린다는 것”이라며 “지금의 위정자들이 정신을 차려야 한다”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 지난 10일 김어준 유튜브에 출연해서도 이 대통령의 지지율 하락 원인을 묻는 말에 “검찰 개혁 때문에 내려가는 것이지, 다른 이유는 없다고 본다”고 했다. 그는 “집권 초기 철저했던 개혁 기조와 달리 (정부가) 역풍을 우려하는 유약한 모습을 보이니 지지자들이 회의감을 느끼는 것”이라며 “단순히 당내 갈등이나 전당대회 후폭풍 탓은 아닌 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>與 “기존 후보 중 재제청하라”... 조희대 대법원장에 압박</title>
       <link>https://www.chosun.com/politics/assembly/2026/09/12/QS2DPUOVABAS3JWALH5GWBWNVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/12/QS2DPUOVABAS3JWALH5GWBWNVA/</guid>
@@ -993,15 +1002,6 @@
       <description/>
       <pubDate>Fri, 11 Sep 2026 03:18:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4DAZRUG5QTSOLBHBSDQNRZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특별검사팀이 20대 대선 당시 무상으로 여론조사 결과를 수수한 혐의를 받는 윤석열 전 대통령에게 항소심에서 징역 4년을 구형했다. &lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 구회근)는 11일 윤 전 대통령과 ‘정치 브로커’ 명태균씨에 대한 정치자금법 위반 항소심 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 특검은 윤 전 대통령에 대해 “징역 4년 선고 및 1억3720만원 추징을 명해달라”고 재판부에 요청했다. 명씨에게는 징역 3년을 구형했다. 모두 1심과 같은 구형량이다.&lt;br&gt;&lt;br&gt;특검은 “윤 전 대통령은 단순히 명씨로부터 여론조사를 받아보는 데서 그치지 않고 명씨와 지속적으로 긴밀히 협력했다”며 “여론조사 전부에 대해 피고인들의 무상 수수 및 제공 사실이 인정된다”고 주장했다. 그러면서 “이는 대의 민주주의를 훼손하고 정당 후보자 추천의 투명성과 공정성을 훼손한 것”이라며 “엄중한 처벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 2021년 6월부터 2022년 3월까지 명씨로부터 2억7000만원 상당의 여론조사 결과 58건을 무상으로 제공받고, 그 대가로 김영선 전 국민의힘 의원의 공천에 영향력을 행사한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 윤 전 대통령에게 징역 2년을 선고하며 추징금 1396만3600원을 명령했다. 1심은 명씨가 윤 전 대통령 부부에게 전달한 여론조사 14건에 대해서만 유죄로 인정했고, 나머지 44건은 명씨가 직접 전달하지 않아 무상 수수를 단정할 수 없다고 봤다. 명씨에게는 징역 1년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “윤 전 대통령은 명씨로부터 대선 판세 분석과 선거 전략 등을 포함한 여론조사를 제공받았고, 대선 이후 이에 대한 보답으로 김영선 의원 공천과 관련해 영향력을 행사했다”며 “김건희 여사는 여론조사의 구체적 방식에 관해 명씨에게 일임했고, 윤 전 대통령은 이런 내용을 전달받아 묵시적으로 동의했다”고 봤다. 그러면서 “(세 사람 사이) 여론조사 제공에 관한 암묵적 의사의 합치가 이뤄졌다”고 판단했다.&lt;br&gt;&lt;br&gt;한편 같은 혐의로 기소된 김 여사는 1·2심에서 무죄를 선고받고, 현재 대법원 판단을 기다리고 있다. 대법원은 지난 7월 23일, 다음 날(24일) 예정돼 있던 김 여사의 상고심 선고를 연기하고, 해당 사건을 전원합의체에 회부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 김병기 구속영장 보완수사 요구 “구속 필요성 소명 부족”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/11/SB3WHC2S35DJFI662S4SMRP464/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/11/SB3WHC2S35DJFI662S4SMRP464/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 02:31:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYTCZDFMJQTSMJVGA3DCMDDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원이 지난 7일 오후 서울 여의도 국회 의원회관 의원실을 나서고 있다. 이날 경찰은 각종 비위 의혹을 받는 김 의원에 대한 구속영장을 신청했다. 지난해 9월 첫 고발장이 접수된 지 약 1년 만이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 경찰이 신청한 김병기 무소속 의원의 구속영장에 대해 보완수사를 요구했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이날 서울중앙지검은 “피의자가 7회에 걸친 소환조사에 응했고, 피의자에 대한 마지막 조사 이후 구속영장 신청까지 약 5개월 동안의 수사 경과를 고려할 때 구속 필요성에 대한 소명이 부족하다고 판단했다”며 “수집된 증거 등을 검토한 결과 일부 혐의에 대해서는 증거를 보강할 필요가 있어 이에 대한 보완수사도 요구했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 지난 7일 김 의원에 대한 구속영장을 신청했다. 수사 착수 1년 만이었다. 차남 숭실대 편입을 위한 위장 취업, 김경·강선우 1억원 공천헌금 수수 묵인, 아내의 동작구의회 업무추진비 사적 유용, 대한항공 숙박권 수수, 유리한 국정감사 질의 대가의 후원금 수수 등 5개 혐의가 영장에 적시됐던 것으로 전해졌다. 동작구의원들로부터 3000만원의 선거 자금을 받았다가 수개월 뒤 돌려줬다는 혐의와 장남의 국정원 채용 과정에 개입했다는 혐의 등 8개 의혹은 영장 신청 사유에선 제외됐다.&lt;br&gt;&lt;br&gt;김 의원에 대한 경찰 수사는 작년 9월 서울 동작경찰서가 김 의원 차남의 숭실대 특혜 입학 의혹을 들여다보면서 시작됐다. 경찰은 같은 해 11월 김 의원 측이 동작구 구의원들에게서 불법 선거 자금 3000만원을 받았다는 탄원서를 확보하고도 두 달간 수사에 나서지 않다가, 올 1월 12일 김 의원이 더불어민주당에서 제명된 뒤에야 압수수색에 착수했다.&lt;br&gt;&lt;br&gt;이후 경찰은 지난 2~4월 김 의원을 7차례 불러 조사했다. 지난 4월 10일 마지막 조사 이후 뚜렷한 수사 진척은 없었다. 경찰의 뒤늦은 구속영장 신청에 법조계에선 “수사 제대로 안 했다는 비판을 피하기 위한 면피용 영장”이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 계엄 저항 시민 인증서 준다던 정부… 논란 커지자 “감사장으로 대체할 것”</title>
