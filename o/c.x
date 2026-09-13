@@ -13,6 +13,84 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부안 아파트 화재로 40대 여성 숨져, 7세 아들은 2도 화상</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/09/13/RJLL7G33YFAOBIJ3HGBRS3L6ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/09/13/RJLL7G33YFAOBIJ3HGBRS3L6ZM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 13:01:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYWGNJSMJSGKMBTMY4GENDFG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 0시 56분께 전북 부안군의 한 아파트 3층에서 불이나 40대 여성이 숨지고, 7살 아들이 다쳤다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북의 한 아파트에서 불이나 40대 여성이 숨지고 아들이 다쳤다.&lt;br&gt;&lt;br&gt;13일 전북특별자치도소방본부 등에 따르면 이날 0시 56분쯤 부안군 부안읍 한 아파트 3층에서 불이 나 이곳에 거주하던 A(여·40대)씨가 숨졌다. A씨의 아들 B(7)군도 팔 등에 2도 화상을 입고 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;이 불로 아파트 내부 76㎡와 가재도구 등이 타면서 6500만원 상당(소방서 추산)의 재산 피해가 발생했다.&lt;br&gt;&lt;br&gt;이날 전북 곳곳에선 화재가 잇따랐다.&lt;br&gt;&lt;br&gt;같은날 0시 3분쯤 익산시 황등면 한 카센터에서 불이 나 1시간 10여분 만에 진화됐다. 인명 피해는 없었지만 카센터 건물 140㎡가 불에 타면서 2400만원 상당(소방서 추산)의 재산 피해가 났다.&lt;br&gt;&lt;br&gt;이어 오전 8시 2분쯤 남원시 어현동의 한 목재 펠릿 생산 공장에서 불이 났다. 공장 내부에 있던 근로자 17명이 대피했지만 이 중 3명은 연기 흡입 등으로 피해를 입어 병원으로 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;오후 3시 3분쯤 익산시 인화동의 한 정비업소 공터에선 담배꽁초 취급 부주의로 추정되는 불이 발생해 10여분 만에 진화됐다. 이 불로 공터에 쌓여있던 차량 폐부품 일부가 타 114만원 상당(소방서 추산)의 재산피해가 발생했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추미애 “산후조리비 지원 종료, 난임 지원 위해 불가피”</title>
+      <link>https://www.chosun.com/national/regional/2026/09/13/XELOX5OLRRDV7NKU3ROL3HFVY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/13/XELOX5OLRRDV7NKU3ROL3HFVY4/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 12:32:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQTCMJQGE3TAZRXGYZTSMBVMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추미애 경기도지사가 지난 8월 5일 재정 비상 선언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기도지사는 13일 경기도 산후조리비 지원 사업을 종료한 데 대해 “불가피한 선택”이라고 밝혔다.&lt;br&gt;&lt;br&gt;추 지사는 이날 자신의 페이스북에 글을 올려 “경기도 산후조리비 지원 예산을 민선 9기 도정이 임의로 깎은 것이 아니다”라며 “올해 예산은 애초부터 9개월 치만 편성돼 있었고 석 달 치 공백을 메울 돈이 남아 있지 않은 가운데 아이들 급식과 장애인·취약계층 지원까지 멈출 수는 없었다. 집행부에서 수차례 논의를 거듭했다”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 “산후조리비처럼 그나마 국비가 지급되고 있는 사업은 도비를 추가하는 것보다 역시 당초 예산대로라면 9월이면 끝날 상황인 난임 부부 시술비를 지원하는 것이 더 우선이라는 집행부 건의를 받아들였다”고 했다.&lt;br&gt;&lt;br&gt;이어 추 지사는 “지금 경기도 재정은 매우 우려스러운 상황으로 도지사로서 재정을 정상화할 무거운 책임감을 가지고 여러 방면으로 노력하고 있다”며 “경기도 재정, 반드시 정상 궤도에 올려놓겠다”고 했다.&lt;br&gt;&lt;br&gt;추 지사가 이 같은 입장을 밝힌 건 경기도가 출산 가정에 50만원씩 지역 화폐로 지급해 오던 산후조리비 지원금을 이달 말 종료하기로 하자 도민들의 반발이 커져서다.&lt;br&gt;&lt;br&gt;‘사업 폐지를 철회해 달라’는 경기도 청원은 현재 1만7100여 명이 동의했다. 지난 9일 올라온 이 청원은 하루 만에 동의자 1만명을 넘겼다. 경기도 청원은 게시 후 30일 안에 1만명 이상이 동의하면 도지사가 30일 이내 답변해야 한다.&lt;br&gt;&lt;br&gt;앞서 경기도는 정부의 ‘첫만남이용권’과 각 시·군의 출산 지원금 등 유사 지원 제도 등이 확대되자, 경기도 자체 사업은 종료하기로 했다.&lt;br&gt;&lt;br&gt;이 배경에는 경기도의 재정 문제가 있다. 추 지사는 지난달 5일 경기도의 재정 비상을 선언하면서 “올해 10~12월 산후조리비 지원 예산 80억원이 편성되지 않았다”고 했다. 그런데 경기도는 한 달여 만에 부족한 예산을 추가 편성하는 대신 산후조리비 사업을 종료하기로 한 것이다.&lt;br&gt;&lt;br&gt;경기도는 그 대신 난임 부부 지원과 산모·신생아 건강관리 사업을 확대한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부하 경찰에 갑질·성희롱 의혹, 제주 경찰 간부 감찰</title>
+      <link>https://www.chosun.com/national/regional/jeju/2026/09/13/EBKKZTA56NFULNR7EG6YR6ZEJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2026/09/13/EBKKZTA56NFULNR7EG6YR6ZEJU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 12:47:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZDSNJUMY4TKZDBGM3TQZBXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주경찰청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주의 한 경찰 간부가 부하 여직원을 상대로 갑질·성희롱했다는 의혹이 불거지면서 감찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면, 최근 제주도 내 한 지구대 경감 A(50대)씨가 20대 부하 여직원에게 갑질과 성적인 발언을 했다는 내용의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 A 경감과 피해 여성을 분리하기 위해 A 경감을 다른 파출소로 전보 조치했다. 이와 함께 A 경감을 상대로 감찰을 진행 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 구체적인 사실 관계를 확인하기 위해 감찰 조사가 이뤄지고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘하닉 입사 보장’이 바꾼 입시판… 계약학과 경쟁률 오르고, 의대 꺾여</title>
+      <link>https://www.chosun.com/national/education/2026/09/13/NI3XBYKNJ5GLNBIUDDMG74XUAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/13/NI3XBYKNJ5GLNBIUDDMG74XUAE/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 11:59:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3DGMZSHA3DSNRTMUZGMNBQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자 사옥(왼쪽)과 SK하이닉스 사옥. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027학년도 대입 수시 모집에서 서울 주요 대학의 반도체 계약학과 경쟁률은 대부분 상승했지만, 의대 경쟁률은 떨어졌다. 반도체업계 호황과 수억원의 성과급이 지급될 것이란 전망 등이 수험생의 학과 선택에 영향을 미친 것으로 보인다. ‘서울대 10개 만들기’ 집중 지원 대상인 거점 국립대 3곳도 모두 지원자가 늘었다. 종로학원과 진학사는 11일 수시 원서 접수를 마감한 대학들의 지원 현황을 분석해 13일 이같은 내용을 발표했다. &lt;br&gt;&lt;br&gt;반도체 계약학과 중에서는 졸업 후 SK하이닉스 연구개발직 입사가 보장된 서강대 시스템반도체공학과의 지원자가 가장 많이 늘었다. 20명 모집에 1323명이 지원해 66.15대1의 경쟁률을 기록했다. 전년도(경쟁률 48.45대1)보다 지원자가 354명(36.5%)이나 늘었다. 이어 한양대 반도체공학과가 250명(21.3%), 고려대 반도체공학과가 408명(21.1%) 증가했다. 반면 연세대 반도체시스템학과는 올해 경쟁률이 10.85대1로, 지난해(11.01대1)보다 줄었다. 임성호 종로학원 대표는 “연세대 대신 서울대 공과대학이나 의대에 지원한 학생이 많기 때문으로 분석된다”고 말했다. &lt;br&gt;&lt;br&gt;최근 정부가 ‘서울대 10개 만들기’ 집중 지원 대상으로 선정한 부산대·충남대·전남대 모두 지원자와 경쟁률이 올라갔다. 지원자는 부산대가 19%, 충남대가 8.6%, 전남대가 5.1% 늘어났다. 이 세 대학을 포함해 지방 국립대 총 21곳 가운데 15곳의 경쟁률이 높아졌다. 내년 신입생부터 도입되는 ‘국립대 등록금 무상화’ 덕분에 국립대 인기가 높아진 것으로 분석된다. &lt;br&gt;&lt;br&gt;서울 시내 주요 의대의 수시 경쟁률은 하락했다. 8개 대학 가운데 중앙대를 제외한 7곳의 경쟁률이 떨어졌다. 우연철 진학사 입시전략연구소장은 “현행 입시 체제가 올해로 마지막이라 무리한 상향 지원을 자제한 것으로 보인다”면서 “서울권 의대만 고집하기보다 지방 의대나 첨단계약학과 등으로 지원이 분산됐을 가능성이 크다”고 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QIDUVK65KVG2PGMBEECPFNCIYU.jpg?auth=e743ddd7de81b2dd703c99c137995028c56aa94b22a293721cca100f1d7ad3a9&amp;smart=true&amp;width=5472&amp;height=2573" type="image/jpeg" height="2573" width="5472">
+        <media:description type="plain">2024년 11월 15일 오후 서울 광진구 세종대학교에서 열린 종로학원 2025 정시 합격예측 및 전략 설명회에서 학부모들이 강사의 설명을 듣고 있다. /김지호 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘오세훈표’ 청년 AI 싹둑… 시위 동원 논란 전장연 일자리는 살렸다</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/13/BVZWCJHIRJE7BOQGWXLHTX7OFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/13/BVZWCJHIRJE7BOQGWXLHTX7OFE/</guid>
+      <dc:creator>이미지 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
+      <content:encoded>전체 118석 중 더불어민주당이 80석을 확보한 서울시의회가 서울시가 요청한 ‘청년 AI 지원 사업’ 예산은 대거 삭감하고, 전국장애인차별철폐연대(이하 전장연)가 요구해 온 ‘권리 중심 일자리’는 부활시켜 논란이 일고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRDCMDDMFRWEYJVHA3TOZLBGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시의회에, 제339회 임시회 제3차 본회의&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더군다나 서울시의 청년 AI 지원 사업 예산을 삭감한 민주당 소속 의원들이 당일 오후에는 “청년들의 디지털 사회권을 보장하고, AI 정책을 마련하겠다”며 토론회를 열어 ‘자기모순적 행보’라는 비판도 나온다.&lt;br&gt;&lt;br&gt;13일 서울시와 서울시의회 등에 따르면 시의회는 11일 본회의에서 ‘청년 AI(인공지능) 성장권 지원 사업’ 예산 56억2500만원을 전액 삭감한 추가경정예산안을 의결했다. 청년 AI 지원 사업은 서울시가 서울에 사는 19~29세 청년 50만명에게 AI 이용권을 지원하는 사업으로, 오 시장의 역점 사업으로 꼽힌다. &lt;br&gt;&lt;br&gt;민주당은 사업의 준비 과정과 정책 설계가 미흡하다는 것을 예산 삭감의 이유로 꼽았다. 이날 표결에 앞서 민주당 박무영 시의원은 “청년들의 AI 활용 지원을 반대하지 않는다”면서도 “서울시가 제출한 사업 계획의 부실함이 심사 과정에서 드러났으니, 본예산 심사까지 다시 제대로 준비해 추진해 나가자는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;오 시장은 즉각 반발했다. 오 시장은 자신의 페이스북에 “어떤 부분을 보완해야 하는지 구체적으로 대안을 제시하지도 않고, 2개월만이라도 시범 사업을 할 수 있도록 해달라는 서울시의 호소도 통하지 않았다”며 “백 번이고 다시 일어나 시민들의 뜻을 모으고, 시의회를 설득해 서울의 내일을 열어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;민주당의 ‘2호’ 당론 조례였던 ‘서울시 장애인 고용 촉진 및 직업 재활 지원 조례 일부개정조례안’은 가결했다. 공공중심 일자리는 노동시장에서 소외된 장애인을 위해 권익 옹호, 문화예술, 인식 개선 등의 분야에서 일자리를 제공하는 사업이다. 박원순 전 시장 재임 시절인 2020년 7월 도입됐다가 오 시장 취임 이후인 2023년 말 종료됐다. 서울시가 2023년 3월 사업 운영 실태를 조사한 결과 2020~2022년 권리중심 일자리의 51%가 ‘권익 옹호 직무 활동(캠페인)’이었기 때문이다. 사실상 장애인 단체의 집회·시위에 활용됐다는 비판이 나왔다.&lt;br&gt;&lt;br&gt;주수현 서울시의원이 서울시로부터 제출받은 자료에 따르면 전체 지원 예산의 80% 이상이 전장연 관련 기관에 쏠려 있던 것으로 나타났다. 2020년부터 2022년까지 공모를 통해 예산을 지원받은 기관 수와 예산의 85% 이상이 전장연 관련 기관이었다는 것이다. 이에 서울시는 공공 일자리를 폐지하고, 집회·시위·캠페인 직무를 제외한 ‘장애 유형별 맞춤형 특화 일자리 사업’으로 전환했다. 장애인들이 사무 보조·문화예술·제조 물류 등의 직무에서 근무할 수 있도록 지원하는 사업이다. &lt;br&gt;&lt;br&gt;주수현 서울시의원은 “공공 일자리 정책의 경우 대부분의 예산이 전장연 활동을 지원하는 데 쓰이고 이로 인해 시민들의 일상에 불편을 끼친다는 게 확인됐다”면서 “청년 AI 정책 예산은 삭감하면서 이미 부작용이 확인된 데다 수십억 원이 들어가는 공공 일자리를 되살린다는 것이 이해되지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;서울시의 청년 AI 예산을 삭감한 당일 민주당 의원들이 ‘청년 디지털 사회권’과 ‘청년 AI 정책’을 주제로 한 토론회를 열어 이율배반적이라는 지적도 나온다. &lt;br&gt;&lt;br&gt;이날 오후 민주당 소속 서울시의원인 함대건, 박무영, 박희정, 옥동준, 김미주, 노성철, 고찬양, 홍재희, 전승관 의원은 ‘서울시 청년 디지털 사회권 보장을 위한 조례 제정 및 AI 정책 사업 지원 토론회’를 공동 주관했다. 서울시 내부에서는 “오 시장 사업에 무조건 반대부터 하고 보는 것 아니냐” “청년 정책에까지 이런 식으로 나올 줄은 몰랐다”는 반응이 나온다.&lt;br&gt;&lt;br&gt;서울시의회 국민의힘 최원선 대변인은 “무엇보다 납득하기 어려운 것은 청년 정책을 대하는 민주당의 자기모순적 행보”라며 “실질적인 정책 지원 예산은 다 잘라놓고 겉으로는 청년을 위한다며 마이크를 잡는 이 가짜 행태를 우리 청년들이 과연 어떻게 용납하겠는가”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뇌출혈 후 조기 복직했다가 사망… 법원 “업무상 스트레스가 사망 원인”</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/13/SEJ47YWABZH7ZGCV4LI5LYZMMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/13/SEJ47YWABZH7ZGCV4LI5LYZMMQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
+      <content:encoded>근로자가 뇌출혈 후 조기 복직을 했다가 사망했다면 업무상 재해에 해당한다는 법원 판단이 나왔다. 업무상 스트레스를 사망 원인으로 봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSBQLJIS4RGOFEH6MCB4VD332U.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 한유진·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 양순주)는 지난 7월 A씨의 유족이 근로복지공단을 상대로 낸 유족급여 및 장의비 부지급 처분 취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇혼자 못 걷고 시력도 반만 회복됐지만...‘업무 급하다’ 독촉에 복직&lt;/b&gt;&lt;br&gt;&lt;br&gt;A씨는 생전 자동차 부품 등을 생산하는 제조업체에서 총무팀 부장으로 근무했다. 과중한 업무로 인한 스트레스를 호소하던 그는 2021년 자택에서 잠을 자다가 뇌출혈이 생겨 병원에 입원했다. A씨는 한 달이 채 되지 않은 상황에서 퇴원했는데, 당시 시신경 손상으로 왼쪽 눈 시력이 약 50%만 돌아왔고, 근력도 충분히 회복되지 않아 혼자 걷지 못하는 상태였다. &lt;br&gt;&lt;br&gt;이런 탓에 A씨는 “건강상 문제로 최소 3개월 동안 복직하기 힘들다”는 의사를 회사 측에 밝혔다. 하지만 사측은 “회사 구성원의 퇴사로 결산 업무 일정이 빠듯하다. 결산 업무만 해줄 수 없겠느냐”고 A씨를 설득했다.&lt;br&gt;&lt;br&gt;결국 당초 계획보다 2주 일찍 회사로 복귀한 A씨는 결산 업무뿐 아니라 총무팀의 모든 업무를 처리해야 했다. 또 인력 보충이 없는 상황에 대해 사측에 이의를 제기하고, 업무와 관련한 사장의 질책을 받는 등 상당한 스트레스 상황에 놓였던 것으로 나타났다. 당시 A씨는 직장 동료에게 “진짜 화딱지가 너무 나가지고 타이레놀 세 알 먹었다” “머리가 너무 깨질 듯이 아픈데 재활도 못 갔다” 등 발언을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그러다 A씨는 기존에 앓던 궤양성 대장염 증상이 악화돼 입원했고, 같은 달 출근했다가 코로나 확진 판정을 받기도 했다. 이후 발작, 혼수상태 등 증상이 나타나 중환자실에 입원했지만 A씨는 끝내 사망했다. 직접적인 사망 원인은 자발성 뇌내출혈이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZWGNBYGFRDEYLCMNRWKYZUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 있는 서울행정법원·서울가정법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법원 “입원해서도 병상에서 노트북으로 업무, 인과관계 인정돼”&lt;/b&gt;&lt;br&gt;&lt;br&gt;유족은 A씨의 죽음이 업무상 재해에 해당한다며 근로복지공단에 유족 급여와 장례비를 달라고 청구했다. 그러나 공단은 2024년 업무상질병판정위원회의 심의를 거쳐 지급하지 않기로 결정했다. 사망과 업무 사이에 상당한 수준의 인과관계를 인정하기 어렵다는 이유였다. 유족들은 이에 불복해 행정 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 유족 측 손을 들어줬다. 재판부는 “A씨는 부득이하게 건강을 충분하게 회복하지 못한 채 회사에 복직할 수밖에 없었고, 복직한 이후에도 극심한 육체적·정신적 스트레스를 받은 것으로 보인다”며 “이러한 스트레스가 기존에 앓았던 뇌출혈을 악화하는 데 기여했다”고 판단했다. 당시 병원에선 회복을 위해서 충분히 휴식을 취해야 한다는 소견을 냈는데, 재판부는 A씨가 처한 상황이 이와 정반대였다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 궤양성 대장염이 악화돼 입원했을 때도 노트북으로 업무를 수행해 치료를 전념할 수 없었다”며 “궤양성 대장염과 업무 스트레스 간의 상당한 인과관계도 인정된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수시 전산장애 피해 최대 1200명 구제... 16일까지 원서접수  </title>
+      <link>https://www.chosun.com/national/education/2026/09/13/K73QCGYMHVCRHKG3BAQSZG5O4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/13/K73QCGYMHVCRHKG3BAQSZG5O4M/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 10:47:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYDOZBYMMYDAYZSHBRGIM3GMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 강남구 강남종로학원 대강당에서 열린 종로학원 9월 모의평가 긴급분석 및 2027 수시대학 최종 결정 파이널 설명회를 찾은 학부모들이 자료를 살펴보고 있다./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027학년도 대입 수시모집 원서 접수 사이트가 먹통이 되는 초유의 사태가 발생하면서 교육부가 접수를 못한 학생을 구제하겠다고 나섰다. &lt;br&gt;&lt;br&gt;13일 한국대학교육협의회에 따르면, 지난 11일 오후 5시 50분쯤 수시 원서 접수 대행사 ‘유웨이어플라이’ 서버가 다운됐다. 마감을 10여 분 남기고 ‘눈치 싸움’을 하던 수험생들이 한꺼번에 몰리면서 오류가 발생했고, 시스템은 오후 6시 20분쯤 복구됐다. 대교협은 시스템 장애 직후 당초 오후 6시였던 원서 접수 마감 시한을 오후 7시로 1시간 연장했다. 유웨이어플라이 사이트에선 앞서 10일 밤 11시 40분부터 11일 0시 40분까지도 사이트 접속이 안 되는 장애가 발생한 것으로 알려졌다. 대교협 관계자는 “원서 접수 마감 직전에 사이트가 먹통이 된 것은 올해가 처음”이라고 말했다. &lt;br&gt;&lt;br&gt;교육부는 시스템 오류로 원서를 접수하지 못한 학생들을 구제하기로 했다. 구제 대상은 최대 1200여명에 이를 것으로 보인다. 장애가 발생한 오후 5시 50분 유웨이어플라이에 접속해 있었고, 이를 전형과 모집 단위 등 작성한 원서를 저장해 확인할 수 있는 수험생이 해당된다. 또 이 시간대에 유웨이어플라이로 원서를 내지 못해 다른 대행사인 진학어플라이를 통해 다른 대학에 지원한 사실이 확인되는 수험생도 구제 받을 수 있다. 반면 장애 시간대에 원서 작성이나 저장, 제출, 결제 시도 기록이 없으면 대상에서 제외된다. &lt;br&gt;&lt;br&gt;구제 신청은 14일 오전 9시부터 16일 오후 6시까지 유웨이어플라이 홈페이지에서 진행된다. 유웨이어플라이와 대학은 신청자의 전산기록을 확인한 후 구제 대상자에게 접수 절차를 개별 안내할 예정이다.&lt;br&gt;&lt;br&gt;수험생들 사이에선 접수 시간 연장에 대한 형평성 논란이 불거졌다. 일부 대학이 6시 원서 접수 마감 직후 모집 단위별 경쟁률을 공개했기 때문이다. 수험생들은 “연장된 시간에 원서를 접수한 수험생들은 공개된 경쟁률을 보고 유리한 학과에 지원할 수 있었다. 먼저 원서를 제출한 학생들이 피해를 보게 됐다”고 주장하고 있다. &lt;br&gt;&lt;br&gt;교육부와 대교협은 “이번 유웨이어플라이 원서 접수 시스템의 장애 원인 등을 철저히 조사하고, 필요시 수사 의뢰 등 법적 책임을 묻겠다”며 “재발방지 대책과 원서접수 체계에를 전면적으로 검토하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 9월 14일 월요일 (음력 8월 4일 辛卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/13/QTV65TVJ7JGZBKWD6RQ644UUYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/13/QTV65TVJ7JGZBKWD6RQ644UUYU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>‘파주 카페 살인’ 일주일 전, 부산 업체서 냉동창고 주문</title>
       <link>https://www.chosun.com/national/national_general/2026/09/13/AURJRCU2IRB4HBMB7A4UYBTCI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/13/AURJRCU2IRB4HBMB7A4UYBTCI4/</guid>
@@ -896,64 +974,6 @@
       </media:content>
     </item>
     <item>
-      <title>남편의 ‘형’과 100일 편지… 법원은 부정행위라 봤다</title>
-      <link>https://www.chosun.com/national/court_law/2026/08/16/MO6YUQYNEJCN3NCGL3EN3DSGI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/08/16/MO6YUQYNEJCN3NCGL3EN3DSGI4/</guid>
-      <dc:creator>조인섭 법무법인 신세계로 대표변호사</dc:creator>
-      <description/>
-      <pubDate>Sat, 15 Aug 2026 18:00:00 +0000</pubDate>
-      <content:encoded>아내는 남편과 한 남성의 관계를 의심해 변호사를 찾았다. 남편은 두 사람이 친한 형·동생 사이일 뿐이라고 주장했다. 함께 모텔에 간 것도 술을 마시다 쉬러 간 것이고, 서로 허리를 감싸거나 볼에 입을 맞춘 사진, 손하트 사진도 남자들끼리 장난으로 찍은 것이라고 해명했다.&lt;br&gt;&lt;br&gt;하지만 정황은 단순한 친분으로 보기 어려웠다. 두 사람은 저녁 시간대에 여러 차례 모텔을 대실했고, 다정한 자세로 찍은 사진도 여러 장 남겼다. 특히 편지에는 “우리 드디어 100일”, “너와 함께한 시간들이 너무 소중해”, “앞으로도 우리 사랑을 더욱 키워나가자”는 내용이 적혀 있었다. 아내 측은 이를 근거로 남편의 부정행위를 주장했다.&lt;br&gt;&lt;br&gt;변호사는 부정행위가 반드시 성관계나 이성 간 관계만을 뜻하는 것은 아니라고 설명했다. 배우자로서 지켜야 할 정조 의무와 혼인관계의 신뢰를 저버린 행위라면 부정행위가 될 수 있다는 것이다.&lt;br&gt;&lt;br&gt;남편 측은 오히려 아내가 외도를 의심하며 폭언과 폭행을 해 혼인관계가 파탄 났다고 주장하면서 위자료를 청구했다. 그러나 법원은 남편과 상대 남성의 관계가 단순한 친분을 넘어섰다고 판단했다. 반복된 모텔 이용, 애정 표현이 담긴 사진, 100일을 기념하는 편지 등을 종합해 남편의 부정행위를 인정하고, 혼인 파탄의 주된 원인 역시 남편에게 있다고 봤다.&lt;br&gt;&lt;br&gt;결국 아내는 아이들을 생각해 이혼까지는 원하지 않았지만 법원의 판단을 통해 억울함을 풀고 혼인관계를 정리하게 됐다. 상대가 동성이냐 이성이냐보다 배우자에 대한 신뢰와 정조 의무를 저버렸는지가 부정행위 판단의 핵심이 될 수 있음을 보여준다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73OKWPXCPVGU5MSO5EUHZ4JVWI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46WEC5WJC5GOXINIFV75M2E7NE.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT5RGHOWNBE7VO733SP73OPSGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTDNLPLSDJBOBM5ZU5RCEJW2JU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPATD73W4VFS3IZB75V23Y2XXQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OKJOD37Z5DVVP7VKA5MXF6BGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDA4BQQET5CQ7BPXWEFSX4LOOU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6R5BDW4R45F4BH4M2JHNCGMBL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6U4NE4Y5JH7DNXOGGC6XAGNWU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFNRZWG7BJDXDBBHTI5QQZTFIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HI3ODCYTMZGJLANJEGNL26CCZ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYDBNH3YJZFCLCKOVB57QWO43I.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QAIZJRMPTBGORAXTBKK6NHVBUQ.jpg?auth=7fa560bf4f6405b233d8746bb1159b0cd8e05368d82cf141fa4ecf33153b84a4&amp;smart=true&amp;width=1200&amp;height=675" type="image/jpeg" height="675" width="1200"/>
-    </item>
-    <item>
-      <title>80대 운전자 몰던 승용차, 사고 후 주차 차량 5대 연쇄 추돌</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/11/D2JI5JWLXJBE3MGZGKOSXT2LMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/D2JI5JWLXJBE3MGZGKOSXT2LMI/</guid>
-      <dc:creator>목포=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 07:53:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CS42WD7G5NZVGQGSGISENZKAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 전남광주 목포시 산정동 한 은행 주차장에서 경찰과 소방대원들이 교통사고 현장을 수습하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 목포시에서 80대 운전자가 몰던 차량이 교통사고 뒤 주차 차량 5대를 들이받았다.&lt;br&gt;&lt;br&gt;11일 소방 당국에 따르면, 이날 오전 9시 29분쯤 전남광주 목포시 산정동의 한 삼거리에서 직진하던 A(80대)씨 승용차가 우회전하던 승용차와 충돌했다.&lt;br&gt;&lt;br&gt;A씨 차량은 사고 뒤 멈추지 않고 약 100m 떨어진 인근 은행 주차장까지 달렸고, 주차 차량 5대를 들이받은 뒤 멈췄다.&lt;br&gt;&lt;br&gt;이 사고로 A씨 차량 조수석에 탑승했던 70대 1명이 허리 통증을 호소해 병원으로 옮겨졌다. A씨는 음주나 무면허 상태는 아니었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “브레이크를 밟았지만, 차량이 멈추지 않았다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨가 첫 교통사고가 났을 당시 교통법규 준수 여부 및 B씨의 과실 가능성 등을 조사해 입건 여부를 검토할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3CS42WD7G5NZVGQGSGISENZKAA.jpg?auth=ced785fd921125091fe9cf68b175224da2d096522b966ce52dd721d73bedb459&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">11일 오전 전남광주 목포시 산정동 한 은행 주차장에서 경찰과 소방대원들이 교통사고 현장을 수습하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">광주전남취재본부</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“음주 자제” 특별경보 끝나자… 경남 경찰 간부, 만취 운전 적발</title>
-      <link>https://www.chosun.com/national/2026/09/11/JOYLNIIDRZAW3GXNQGGRXXADH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/11/JOYLNIIDRZAW3GXNQGGRXXADH4/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 07:46:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SZEZGGL5ZGH7FHXEDLWDOV6VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남의 한 경찰 간부가 ‘공직기강 특별경보’ 해제 직후 만취 상태로 운전대를 잡았다가 적발됐다. 경찰 안팎에서는 “경찰의 기강 해이가 도를 넘었다”는 비판이 나온다.&lt;br&gt;&lt;br&gt;11일 경남경찰청에 따르면, 양산경찰서 소속 A 경정이 도로교통법 위반(음주운전) 혐의로 입건돼 직위 해제됐다. &lt;br&gt;&lt;br&gt;A 경정은 이날 오전 1시쯤 경남 김해시 진영읍의 한 도로에서 술에 취한 채 차량을 운전한 혐의를 받는다. 당시 그는 도로 한가운데 차를 멈춰 세워두고 있다가, “도로에 차가 멈춰 있다”는 시민의 신고를 받고 출동한 경찰에게 붙잡혔다. &lt;br&gt;&lt;br&gt;현장에서 혈중알코올농도를 측정한 결과 면허 취소 수치(0.08% 이상)에 해당하는 만취 상태였다. &lt;br&gt;&lt;br&gt;이번 사건은 경찰 수뇌부가 조직 내 기강 잡기에 나선 직후 발생했다. 경찰청은 앞서 지난달 28일부터 이달 6일까지 열흘 간 전국 경찰관을 대상으로 공직 기강 특별 경보를 발령했다. 이 기간 동안 음주 자제는 물론 회식과 행사를 일절 금지하며 내부 단속을 벌였다. &lt;br&gt;&lt;br&gt;하지만 특별경보 기간이 끝난 지 불과 닷새 만에 간부급 경찰관이 만취 운전으로 적발된 것이다. 경남경찰청은 A 경정을 상대로 강도 높은 감찰 조사를 벌인 뒤 징계위원회에 회부할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김승원 “판사 아들 입법보조원 채용 떳떳”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/11/IZUBZJVLWNHZHK3X5TEMXDUV5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/11/IZUBZJVLWNHZHK3X5TEMXDUV5U/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 01:40:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSKZ7XQBSZFHTPSDS5JYDKBQ7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 김승원 법무부 장관 후보자가 서울 종로구에 마련된 인사청문회 준비사무실로 출근하며 취재진 질문에 답하고 있다. /임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 법무부 장관 후보자는 11일 자신을 둘러싼 각종 의혹에 대해 “국민 여러분께 심려 끼쳐 드려 정치인의 한 사람으로서 송구하다”며 “인사청문회에서 잘 설명하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 후보자는 이날 서울 종로구 인사청문회 사무실로 출근하며 코로나19 치료제 임상 계획 승인을 식품의약품안전처장에게 청탁했다는 의혹과 해당 사건의 영장 담당 판사였던 정모 판사의 아들을 자신의 의원실에 채용했다는 의혹에 대해 해명했다. 김 후보자는 “떳떳하기 때문에 공개적으로 면접을 통해 입법 보조원이라는 일을 맡겼다”며 “정식 직원은 아니고 한 달에 100만원 정도 받으며 열심히 일한 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;청탁 의혹에 대해서도 김 후보자는 “작은 회사가 다국적 기업의 압력에 의해 절차가 진행되지 않고 있으니 이유를 알아달라, 불공정한 것에 대해 해소해달라는 취지의 전달이었다”며 공익 민원을 전달한 것이라는 기존 입장을 유지했다. 그는 “확인해 본 자료에 의하면 해외에서도 임상 시험이 진행됐기 때문에 (당시) 코로나19 치료제 개발을 위해 여야와 정부 모두 노력했던 시기였기에 ‘이 정도면 전달해도 되겠다’ 싶었다”며 “식약처장에 딱 한 번 전달하고 관련 문자 한 두번 주고 받은 게 전부”라고 했다.&lt;br&gt;&lt;br&gt;‘코로나19 치료제 임상 계획 승인 청탁 의혹’은 제약사 제넨셀 설립자 강모씨가 김 후보자와 친분이 있는 브로커 양모씨에게 코로나19 치료제에 대한 식약처 임상 시험 승인을 받을 수 있게 해 달라고 청탁한 사건이다. 양씨는 민주당 현역 의원으로 평소 ‘오빠’라고 불렀던 김 후보자에게 이 청탁을 전달했던 것으로 조사됐다. 김 후보자는 김강립 전 식약처장에게 관련 내용을 전달했고, 식약처는 2021년 10월 26일 제넨셀 임상시험을 승인했다. 이후 강씨와 양씨는 김 후보자에게 정치후원금 명목으로 500만원을 전달하려 했으나 김 후보자의 후원 계좌 한도가 차 실제 돈은 전달되지 않았다.&lt;br&gt;&lt;br&gt;이 사건 영장 심사를 담당했던 정모 판사의 아들이 군 입대 직전인 2024년 김 의원실에서 입법 보조원으로 약 3개월 근무했다는 사실이 알려지며 ‘특혜 의혹’도 불거졌다. 이 과정에서 김 후보자가 직접 정 판사에게 관련 절차를 안내한 것으로 전해졌다. 입법 보조원은 의원실에 소속돼 국회의원의 의정활동 및 입법 활동을 돕는 역할을 한다. 급여는 없고 교통비와 식비 등 실비 보전 명목으로 월 100만원이 지급된 것으로 알려졌다. 앞서 2022년 2월 정 판사와 김 후보자, 양씨가 함께 술자리를 가지고 함께 찍은 사진이 공개돼 논란이 일기도 했다. 인사청문회 준비단 측은 이날 정 판사에 대해 “김 후보자가 판사로 재직할 당시 근무했던 동료로 다양한 법조계 모임을 통해 만남을 이어온 사이”라고 했다.&lt;br&gt;&lt;br&gt;김 후보자의 인사 청문회는 오는 15일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FSKZ7XQBSZFHTPSDS5JYDKBQ7M.jpg?auth=e243820f4b1f5933193fc5123da55a9cf920f31c0cb42d24874a5bf5a2b35e58&amp;smart=true&amp;width=4429&amp;height=2491" type="image/jpeg" height="2491" width="4429">
-        <media:description type="plain">11일 오전 김승원 법무부 장관 후보자가 서울 종로구에 마련된 인사청문회 준비사무실로 출근하며 취재진 질문에 답하고 있다. /임지훈 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>尹 ‘이종섭 호주 도피’ 1심 무죄... 法 “대사 임명, 대통령 인사권 행사”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/11/V23UTZKFWFEDJDHM3JQO4N2JI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/11/V23UTZKFWFEDJDHM3JQO4N2JI4/</guid>
-      <dc:creator>이민경 기자, 김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 06:03:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Z423S4VHFDBZOFOI3TFI7OF3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 이종섭 전 국방부 장관과 대화하고 있다. / 2023.09.15. 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 ‘해병대원 순직 사건’ 수사 외압 의혹의 핵심 피의자였던 이종섭 전 국방부 장관을 호주 대사로 임명해 도피시켰다는 혐의에 대해 1심에서 무죄가 선고됐다. 이명현 순직해병 특검이 윤 전 대통령을 기소한 사건 가운데 처음 나온 판결이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 11일 범인도피와 직권남용 등 혐의로 기소된 윤 전 대통령과 조태용 전 국가안보실장, 장호진 전 국가안보실장 겸 외교부 1차관, 이시원 전 대통령실 공직기강비서관, 박성재 전 법무부 장관, 심우정 전 법무부 차관 등 6명에게 모두 무죄를 선고했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2DKOLFGAYTQZDDGM2DINRZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 등은 대통령실과 외교부, 법무부를 동원해 고위공직자범죄수사처(공수처)에 입건된 이 전 장관을 호주대사로 임명하고 출국금지를 해제하는 등 공수처 수사를 방해한 혐의로 기소됐다. 이 전 장관은 2023년 12월 출국금지된 상태에서 이듬해 3월 호주대사로 임명돼 출국했다. 이후 ‘도피성 출국’ 논란이 커지자 11일 만에 귀국해 대사직에서 물러났다. 조 전 실장 등 나머지 피고인들은 윤 전 대통령의 지시에 따라 이 전 장관의 대사 임명과 출국 과정에 관여한 혐의를 받았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“尹, 이종섭 출국금지 몰랐다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 우선 윤 전 대통령이 이 전 장관을 도피시키려는 의사가 있었다고 보기 어렵다고 판단했다. 재판부는 “이 전 장관에 대한 공수처의 출국금지는 2023년 12월 처음 이뤄졌고 이후 세 차례 연장됐다”며 “윤 전 대통령을 포함해 대통령실과 외교부 관계자들은 2024년 3월까지 그 사실을 전혀 인식하지 못했다”고 했다. &lt;br&gt;&lt;br&gt;이 전 장관의 호주대사 임명 논의는 2023년 9월 시작됐고 윤 전 대통령의 임명 지시는 그해 11월 19일 내려졌다. 반면 윤 전 대통령과 대통령실·외교부 관계자들이 출국금지 사실을 알게 된 것은 이 전 장관이 대사로 임명된 다음 날인 2024년 3월 5일 이후라는 게 재판부 판단이다. 재판부는 “법무부도 몰랐던 게 분명하다”며 “대통령실이나 법무부가 출국금지를 사전에 알았다면 세 차례에 걸친 연장 조치가 과장 전결로 손쉽게 처리됐을 것으로 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “전임 호주대사를 무리하게 쫓아내고 그 자리에 이 전 장관을 속된 말로 ‘꽂았다’고 볼 수 없다”고 했다. 특검은 외교부 관례상 호주대사에 직업 외교관이 임명돼 왔다거나 전직 장관이 갈 자리가 아니었다고 주장했지만, 재판부는 이는 범인도피 여부 판단과는 관련이 없다고 봤다. 윤 전 대통령이 국방 협력이 중요한 호주에 전직 국방부 장관인 이 전 장관을 보내는 정책적·정무적 판단에 따라 대통령의 인사권을 행사했다고 볼 여지가 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ “대사는 소재 공개되는 공직, 도피와 달라”&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 이 전 장관을 호주대사로 임명한 것을 형법상 ‘도피시키는 행위’로 볼 수 없다고 판단했다. 해외에 나가 수사가 다소 늦어지거나 절차가 번거로워질 수 있다는 정도로는 범인도피죄가 성립하지 않고, 수사기관이 행방을 찾기 어렵도록 숨겨주는 것과 비슷한 정도는 돼야 한다는 것이다. 재판부는 “대사는 소재와 신분, 임지가 공식적으로 알려지는 지위”라며 “대사로 부임하는 것은 통상적인 의미의 도피와 본질적으로 다르다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 등이 이 전 장관을 도피시키려고 검증 절차를 유명무실하게 했다는 혐의(국가공무원법 위반)에 대해서도 재판부는 “특별히 이 전 장관에 대해서만 인사 검증과 공관장 자격 심사가 부실하게 이뤄졌다고 보기 어렵다”며 무죄로 판단했다. 출국금지 해제 역시 박 전 장관의 외압 때문이 아니라, 출국금지심의위원들이 공수처의 의견과 당시 수사 진행 상황, 이 전 장관이 입을 불이익 등을 종합해 독자적으로 결정했다고 봤다.&lt;br&gt;&lt;br&gt;선고 이후 윤 전 대통령 측은 “법리와 기록에 비춰 보면 지극히 당연한 결론”이라고 밝혔다. 윤 전 대통령 측은 “아무런 범죄의 증거 없이 정상적인 행정작용과 대통령의 헌법상 임명권 행사까지 사후적으로 ‘직권남용’이라고 규정해 처벌하기 시작한다면, 정권이 바뀔 때마다 전임 정부의 인사와 정책 판단을 형사재판정에 세우는 악순환이 반복될 수밖에 없다”고 했다. 이어 “특검 역시 무리한 형사재판을 이어가기보다 이번 무죄 판결의 법리와 의미를 무겁게 받아들여야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6Z423S4VHFDBZOFOI3TFI7OF3U.jpg?auth=4556fa671bc04ec77e7258436f6e7e80314dabf6b3db4d8ef0f42529429c5e10&amp;smart=true&amp;width=2937&amp;height=1652" type="image/jpeg" height="1652" width="2937">
-        <media:description type="plain">[인천=뉴시스] 홍효식 기자 = 윤석열 대통령이 15일 인천 수로 및 팔미도 근해 노적봉함에서 열린 제73주년 인천상륙작전 전승기념식에 참석해 이종섭 국방부 장관과 대화하고 있다. 2023.09.15. yesphoto@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">yesphoto</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘마킹 카드’로 1억 털었다… 제주 카지노 대표·딜러 덜미</title>
       <link>https://www.chosun.com/national/regional/2026/09/11/Z2552MG3WZFVHABDH77HLOWWPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/11/Z2552MG3WZFVHABDH77HLOWWPI/</guid>
@@ -961,36 +981,6 @@
       <description/>
       <pubDate>Fri, 11 Sep 2026 07:26:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYWMOBQGJQWMMZWMY4DSYRYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카지노 칩. (사진은 기사 내용과 직접적인 관계 없음.)/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카지노 고객을 상대로 사기도박을 벌인 혐의로 제주 지역 한 호텔 A 카지노 대표와 딜러 등 카지노 관계자 6명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;또 양벌 규정에 따른 주의와 감독을 소홀히 한 책임을 물어 A 카지노 법인도 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;11일 제주경찰청에 따르면 제주 지역 모 카지노 딜러 등 이들은 지난 6월 7∼8일 중국인 관광객 3명을 상대로 이른바 ‘마킹 카드’를 이용해 부정한 방식으로 블랙잭 게임을 진행한 혐의를 받고 있다. 범죄 수익은 1억여 원에 달하는 것으로 알려졌다. ‘마킹 카드’는 카드 뒷면이나 가장자리에 미세한 표시를 해 특정 숫자를 식별할 수 있게 만든 카드다.&lt;br&gt;&lt;br&gt;앞서 제주도 등은 카지노 운영 상황 관리 시스템을 통해 해당 호텔 카지노의 블랙잭 게임에서 평소와 다른 규모의 수익이 발생한 사실을 확인하고 현장 조사에 착수했다. 제주도는 조사 과정에서 위·변조된 것으로 의심되는 카드와 게임 조작이 의심되는 방범 카메라(CCTV) 영상을 확보하고 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;제주도는 수사 결과를 통보받은 뒤 조만간 해당 카지노에 행정 처분을 내릴 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“경찰 못 믿어”… 창원 모텔 흉기 사건 유족, 경찰 등 10명 검찰에 고소</title>
-      <link>https://www.chosun.com/national/2026/09/11/6JWKXSJGM5DPDK5WQF7HWSV4KU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/11/6JWKXSJGM5DPDK5WQF7HWSV4KU/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 06:54:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXUTJQVS7NIT3N6VXSJOWTYC4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 3일 경남 창원시 마산회원구 합성동 한 모텔에서 발생한 흉기 난동 사건과 관련해 경찰이 현장을 살피고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 12월 경남 창원에서 발생한 모텔 흉기 난동 사건과 관련해, 피해자 유족이 당시 현장에 출동한 경찰관과 법무부 보호관찰 담당자들을 무더기로 검찰에 고소했다. 긴박한 상황에도 경찰이 강제 진입을 주저하고, 법무부는 성범죄 전과자의 주거지 관리조차 제대로 하지 않는 등 국가 통제망의 ‘총체적 부실’이 빚어낸 참사라는 것이다.&lt;br&gt;&lt;br&gt;11일 피해자 유족 측 법률 대리를 맡은 법무법인 태진은 경남경찰청 소속 현장 출동 경찰관과 창원보호관찰소 담당 보호관찰관 등 10명을 직무유기 혐의로 수사해달라는 고소장을 전날 창원지검에 제출했다고 밝혔다. 경찰의 ‘제 식구 감싸기’를 우려해 검찰의 직접 수사를 요청했다는 입장이다.&lt;br&gt;&lt;br&gt;이 사건은 지난해 12월 3일 창원시 마산회원구 합성동의 한 모텔에서 발생했다. 20대 남성 A씨가 중학생 B군 등 3명에게 흉기를 휘둘러 2명이 숨지고 1명이 중상을 입었다. A씨는 범행 후 경찰이 출동하자 3층 객실 창문을 통해 뛰어내려 끝내 사망했다.&lt;br&gt;&lt;br&gt;유족 측은 이 과정에서 경찰의 뼈아픈 ‘늑장 대응’이 피해를 키웠다는 입장이다. 당시 위급 상황을 알리는 최상위 대응 단계인 ‘코드제로(Code 0)’가 발령됐고, 출동 경찰관이 모텔 마스터키까지 확보했음에도 즉시 문을 열고 진입하지 않아 골든타임을 놓쳤다는 주장이다.&lt;br&gt;&lt;br&gt;보호관찰 대상자였던 피의자 A씨에 대한 관계 당국의 허술한 관리 실태도 지적했다. A씨는 지난 2021년 강간죄 등으로 징역 5년과 보호 관찰 5년 명령, 신상정보 공개·고지를 선고받은 인물이었다. 하지만 A씨는 ‘성범죄자알림e’에 등록된 지정 주소지에 사실상 거주하지 않았던 것으로 드러났다. 유가족 측은 “담당 보호 관찰관은 A씨가 전입신고를 한 이후 사건 당일까지 약 2주 동안 단 한 차례도 주거지를 확인하지 않았고, 사건이 벌어지고 난 다음 날에야 처음으로 거주지를 방문했다”고 주장했다.&lt;br&gt;&lt;br&gt;경찰과 보호관찰소 간의 소통 부재도 비극을 막지 못한 원인으로 지목했다. A씨는 사건을 일으키기 수시간 전, 흉기를 든 채 다른 20대 여성의 주거지를 찾아간 혐의(특수협박)로 경찰 조사를 받았다. 그러나 경찰은 ‘긴급 체포 요건이 안 된다’며 그를 풀어줬다. 당시 경찰은 A씨가 보호관찰 대상자라는 사실을 인지하고도, 법적 근거가 없다는 이유로 보호관찰소에 이 사실을 통보조차 하지 않았다.&lt;br&gt;&lt;br&gt;유족 측은 “가해자가 범행에 이르는 모든 단계에서 국가가 아이의 목숨을 구할 기회를 스스로 걷어찼다”고 비판했다. 이어 “경찰에 수사를 맡기는 방식으로는 실체 규명을 기대하기 어려워 검찰이 직접 수사해 주기를 강력히 요청한다”고 호소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아내 욕한 취객 때려 숨지게 한 50대…2심도 징역 1년 6개월</title>
-      <link>https://www.chosun.com/national/regional/2026/09/11/ROHJOERHW5AUFHVJYJMDBNCDBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/11/ROHJOERHW5AUFHVJYJMDBNCDBU/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 07:13:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내에게 욕설하는 취객을 때려 숨지게 한 50대가 항소심에서도 원심과 같은 실형을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1-2부(재판장 이선미)는 11일 폭행치사 혐의로 기소돼 1심에서 징역 1년 6개월을 선고받은 A(52)씨의 항소를 기각하고 원심 형량을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 5월 22일 오후 9시 30분쯤 충남 서산시 한 상가 앞 도로에서 그의 아내에게 아무런 이유 없이 욕설하는 취객 B씨를 때려 숨지게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;B씨는 폭행당한 후 병원으로 이송돼 응급실 의료진으로부터 진료를 권유받았지만, 치료받지 않고 집으로 돌아간 뒤 이튿날 오전 10시쯤 집에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;1심에선 당시 폭행이 이뤄진 과정과 이후 상황을 살펴 A씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피해자가 피고인의 아내에게 심한 모욕을 하자 우발적으로 폭행했고, 피해자가 진료를 거부한 것도 사망에 상당한 원인이 있는 것으로 보인다”며 “다만 여러 차례 형사처벌을 받은 전력이 있는데도 자중하지 않고 폭행했고, 소중한 생명을 박탈한 중대한 결과가 발생했다”고 판시했다.&lt;br&gt;&lt;br&gt;1심 선고 후 A씨는 “형이 너무 무겁다”며 항소했지만 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “1심에서 피고인에게 유리한 사정을 충분히 참작했다”며 “피해자에게 중대한 피해가 발생한 이상 피해 보상 조치가 없는 상황에서 피고인의 항소를 받아들일 여지는 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전북 완주에서 흉기에 찔린 60대 남성 사망… 용의자도 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/11/BLENTKQVAFEFRNQ7VLXE63AK3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/11/BLENTKQVAFEFRNQ7VLXE63AK3A/</guid>
-      <dc:creator>완주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 06:05:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZDQYZSMYYDIZTFMMYWMYLEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 완주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 완주에서 흉기에 찔린 60대 남성이 숨져 경찰이 수사에 착수했다. 유력한 용의자도 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;11일 전북 완주경찰서에 따르면 이날 오전 11시쯤 완주군 용진읍의 한 공인중개사 사무실에서 “남성이 피를 흘리고 쓰러져 있다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 현장에 출동해 흉기에 찔린 뒤 숨진 부동산 업자 A(60대)씨를 발견했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 지인 B(50대)씨를 유력한 용의자로 특정하고 추적에 나섰지만, B씨도 자신의 공인중개사 사무실 뒤편 창고에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;B씨도 A씨와 같은 부동산 업자였던 것으로 파악됐다. 경찰은 이들이 함께 투자에 나섰다가 실패를 했던 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상과 감식 결과 등을 조사해 B씨가 피의자인지 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MUZDQYZSMYYDIZTFMMYWMYLEHA.jpg?auth=adf89cd4a172aaf933fe8c6fc0a55e09af9f7d035a86149a741de7fbb02cdc7c&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">전북 완주경찰서 전경. /뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>‘靑과 갈등’ 조희대 대법원장... “정치권력 부당한 간섭 안 돼”</title>
