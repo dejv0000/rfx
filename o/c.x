@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘마킹 카드’로 1억 털었다… 제주 카지노 대표·딜러 덜미</title>
+      <link>https://www.chosun.com/national/regional/2026/09/11/Z2552MG3WZFVHABDH77HLOWWPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/11/Z2552MG3WZFVHABDH77HLOWWPI/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Sep 2026 07:26:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYWMOBQGJQWMMZWMY4DSYRYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카지노 칩. (사진은 기사 내용과 직접적인 관계 없음.)/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카지노 고객을 상대로 사기도박을 벌인 혐의로 제주 지역 한 호텔 A 카지노 대표와 딜러 등 카지노 관계자 6명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;또 양벌 규정에 따른 주의와 감독을 소홀히 한 책임을 물어 A 카지노 법인도 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;11일 제주경찰청에 따르면 제주 지역 모 카지노 딜러 등 이들은 지난 6월 7∼8일 중국인 관광객 3명을 상대로 이른바 ‘마킹 카드’를 이용해 부정한 방식으로 블랙잭 게임을 진행한 혐의를 받고 있다. 범죄 수익은 1억여 원에 달하는 것으로 알려졌다. ‘마킹 카드’는 카드 뒷면이나 가장자리에 미세한 표시를 해 특정 숫자를 식별할 수 있게 만든 카드다.&lt;br&gt;&lt;br&gt;앞서 제주도 등은 카지노 운영 상황 관리 시스템을 통해 해당 호텔 카지노의 블랙잭 게임에서 평소와 다른 규모의 수익이 발생한 사실을 확인하고 현장 조사에 착수했다. 제주도는 조사 과정에서 위·변조된 것으로 의심되는 카드와 게임 조작이 의심되는 방범 카메라(CCTV) 영상을 확보하고 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;제주도는 수사 결과가 통보도되조만간 해당 카지노에 행정 처분을 내릴 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>합천 광주대구고속도로서 3중 추돌, 60대 운전자 심정지</title>
+      <link>https://www.chosun.com/national/2026/09/14/AUDWP6E5EFBDXOASHMYBUDVCTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/14/AUDWP6E5EFBDXOASHMYBUDVCTA/</guid>
+      <dc:creator>합천=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Sep 2026 00:04:50 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4H6E6Q32FEHJLVHBDCDR7FRTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 현장 CCTV. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간대 고속도로 터널 출구 인근에서 탱크로리와 화물차 등이 잇따라 부딪혀 1명이 심정지 상태로 병원에 이송되고 1명이 다쳤다.&lt;br&gt;&lt;br&gt;14일 경찰과 소방 당국에 따르면 이날 오전 5시 23분쯤 경남 합천군 야로면 광주대구고속도로 광주 방향 야로3터널 출구 부근에서 화물차와 탱크로리, 승합차가 잇따라 부딪혔다.&lt;br&gt;&lt;br&gt;사고는 광주 방향으로 달리던 화물차가 앞서 서행하던 탱크로리를 들이받으면서 시작됐다. 이어 사고로 멈춰 선 화물차를 뒤따르던 스타렉스 승합차가 다시 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 스타렉스 운전자 A(60대)씨가 심정지 상태로 구조돼 인근 병원으로 긴급 이송됐다. 화물차 운전자 B(30대)씨도 머리 부위를 다쳐 치료를 받고 있다.&lt;br&gt;&lt;br&gt;사고 수습 과정에서 현장 2개 차로가 약 40분간 통제돼 이 일대에 차량 정체가 빚어졌다.&lt;br&gt;&lt;br&gt;경찰은 탱크로리가 서행 중이었다는 관계자 진술과 차량 블랙박스 영상 등을 토대로 안전 거리 확보 여부와 전방 주시 태만 여부 등 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] 한국 직장인의 업무 몰입도는 왜 세계 꼴찌 수준으로 추락했나</title>
       <link>https://www.chosun.com/national/2026/09/14/QQDKXRHFLBB3ZJKGTYOBVEUIBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/09/14/QQDKXRHFLBB3ZJKGTYOBVEUIBQ/</guid>
@@ -825,18 +843,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLI7WTFDCBCW3D5NXIANQ4KAJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밑바닥에 ‘天(천)’ ‘地(지)’ ‘玄(현)’ ‘黃(황)’이 새겨진 백자 사발, 조선 15세기 후반~16세기 전반, 높이 8~12cm, 국립중앙박물관, 이건희 기증, 국보. /e뮤지엄&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재의 우리에게 흰색은 무채색의 하나 또는 색을 더하기 전의 기본 바탕 정도로 생각된다. 조선 시대를 대표하는 백자의 흰색은 어떨까? 이는 수많은 시간, 막대한 비용과 노동력을 들여 만든 값비싸고 특별한 색이다. &lt;br&gt;&lt;br&gt;조선 시대에 각광을 받은 백자는 경질 백자로 분류된다. 백토를 원료로 해 1300~1350도에서 번조한 자기로, 중국 원나라(1271~1368) 말에 등장했다. 앞선 고려 시대에도 백자가 생산됐지만, 덜 단단했고 점토에 철분이 많아 백색도가 높지 않았다. &lt;br&gt;&lt;br&gt;조선 왕조는 초기부터 중국의 경질 백자에 비견할 만한 도자 생산을 위한 시스템을 구축해 나갔다. 우선 기존 도자 생산 기반을 상세히 조사했다. 1454년 완성된 ‘세종실록 지리지’에는 139개 자기소, 185개 도기소의 위치와 상·중·하 품질에 관한 내용이 수록돼 있다. 15세기 후반에는 사옹원의 분원을 경기도 광주에 설치해 왕실과 관청용 백자를 전담해 제작하도록 했다. 사옹원 소속 사기장은 380여 명에 이르렀는데, 전국에서 엄선돼 중앙에 등록된 장인들이었다.&lt;br&gt;&lt;br&gt;좋은 백토는 성형된 형태가 유지될 수 있을 정도의 점성과 높은 온도에서 견디는 내화도를 지니고, 철분 함유량이 적은 흙이어야 했다. 많은 인력을 동원해 백토를 찾고, 파내고, 운반하는 작업이 이루어졌다. 확보한 흙은 수비(水飛·점토를 물에 풀어 고운 입자를 채취하는 것)와 정제 과정을 통해 불순물을 걸러내는 과정을 거쳤다. 조선 초 문신인 김숙자(1389~1456)가 고령 현감을 지낼 때 도공들에게 아홉 번 체로 거르는 구사지법(九篩之法)을 가르쳤다는 일화는 수비 과정의 중요성과 지난함을 잘 보여준다. &lt;br&gt;&lt;br&gt;새 왕조가 열린 시기에 등장한 15~16세기 백자는 남다른 품격과 단순하면서도 고전적인 아름다움을 보여준다. 천·지·현·황(天·地·玄·黃)이 새겨진 사발은 분원에서 제작된 최상품 백자에 해당한다. 초벌 번조한 그릇에 유약을 입힌 후 굽(그릇 밑바닥에 붙은 나지막한 받침) 안쪽의 유약을 긁어내어 천자문 자호를 새겼다. 귀한 그릇인 만큼 철저한 관리가 필요했을 것이고, 이러한 글자는 그릇을 제작하거나 출납할 때 효율적 관리를 위해 표시한 것으로 생각된다. &lt;br&gt;&lt;br&gt;성종(재위 1469~1494)은 그릇 전체가 균일하게 흰색을 띠는 백자를 보며 공평하고 바른 사람을 떠올렸다. 1491년 성종이 백자 술잔을 승정원에 하사하며 다음과 같이 하교했다. “이 술잔은 정결하고 흠이 없어 술을 부으면 찌꺼기가 다 보인다. 사람에 비교하면 대공지정(大公至正)하여 한 점의 사사로움도 없는 것과 같으니, 좋지 않은 일은 용납되지 않을 것이다.”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢 “김병기 영장 보완수사 필요”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/12/RJ6IUSH3CZH4VEDY5GXQHMLYZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/12/RJ6IUSH3CZH4VEDY5GXQHMLYZQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEKMFHCGFFHGFPDMOSOYPPGWDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 의원이 지난 2월 서울 마포구 서울경찰청 공공범죄수사대에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 김형원)는 11일 경찰이 신청한 김병기(무소속) 의원 구속영장에 대해 보완수사를 요구했다. 검찰은 이날 “피의자가 7차례에 걸친 소환 조사에 응한 점과 피의자에 대한 최종 조사 후 구속영장 신청까지 약 5개월간의 수사 경과를 종합적으로 고려할 때 구속 필요성에 대한 소명이 부족하다”고 했다. 검찰은 또 “일부 혐의에 대해선 증거를 보강할 필요가 있어 이에 대한 보완수사도 요구했다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 수사 착수 1년 만인 지난 7일 특정범죄가중처벌법상 뇌물수수, 업무상 배임, 업무방해 등 혐의로 김 의원에 대한 구속영장을 신청했다. 경찰은 지난해 9~11월 김 의원에 대한 고소장, 탄원서 등을 접수하고도 수개월간 수사를 뭉갰다. 그러다가 김 의원이 더불어민주당에서 제명되자 이틀 뒤인 지난 1월 14일 김 의원에 대한 첫 압수수색을 진행했다. 이후 경찰은 지난 2~4월 김 의원을 7차례 불러 조사한 뒤 5개월 동안 결론을 내지 않았다. 그러던 중 검찰 송치를 앞두고 뒤늦게 김 의원에 대한 구속영장을 신청한 것이다.&lt;br&gt;&lt;br&gt;경찰이 구속영장에 적시한 김 의원 혐의는 차남 숭실대 편입을 위한 위장 취업(뇌물수수), 김경·강선우 공천 헌금 묵인(업무방해), 아내의 동작구의회 업무추진비 사적 유용(배임) 등 5개다. 김 의원 핵심 혐의로 꼽힌 ‘불법 선거 자금 3000만원 수수’ 등 8개 혐의는 빠졌다. 이런 상황에서 경찰이 신청한 구속영장을 검찰이 반려하자 법조계에선 “구속 수사 시기를 놓친 상황에서, 경찰이 여권 정치인에 대한 ‘봐주기 수사’라는 비판을 받을까 봐 면피용으로 영장을 신청한 것”이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QEKMFHCGFFHGFPDMOSOYPPGWDA.jpg?auth=f8547161dd39d8bd1d45812d8afdf223037f92603507c938bce9c3af01a2642e&amp;smart=true&amp;width=667&amp;height=417" type="image/jpeg" height="417" width="667">
-        <media:description type="plain">김병기 의원이 지난 2월 서울 마포구 서울경찰청 공공범죄수사대에 출석하고 있다. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>몇 초 만에 장난감 블록처럼 무너진 중국 ‘통제의 성지’</title>
       <link>https://www.chosun.com/national/weekend/2026/09/12/3VHSXKR2DVG55DTDHV2BEEGAVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/09/12/3VHSXKR2DVG55DTDHV2BEEGAVA/</guid>
@@ -897,18 +903,6 @@
       <description/>
       <pubDate>Fri, 11 Sep 2026 15:35:00 +0000</pubDate>
       <content:encoded>생(生)의 끝에서 무의미한 연명의료 대신 존엄한 죽음을 택하겠다고 서약한 사람이 350만명을 넘어섰다.&lt;br&gt;&lt;br&gt;11일 국립연명의료관리기관에 따르면, 연명의료를 받지 않겠다는 내용의 ‘사전연명의료의향서’ 등록자는 올해 8월 말 기준 352만3222명으로 집계됐다. 2018년 2월 이른바 ‘존엄사법’으로 불리는 연명의료 결정법이 시행된 지 8년 6개월 만으로, 작년 8월 300만명을 돌파한 지 1년 만에 약 50만명이 더 늘어난 것이다. 우리나라 전체 성인 인구(약 4300만명)의 8%가량에 해당한다.&lt;br&gt;&lt;br&gt;사전연명의료의향서는 자신의 임종에 대비해 연명 의료 중단과 호스피스 이용 등에 관한 의향을 미리 작성해 두는 문서다. 19세 이상이면 전국의 지정 등록 기관(총 840여 곳) 중 한 곳을 찾아 설명을 들은 뒤 작성할 수 있다.&lt;br&gt;&lt;br&gt;전체 등록자 가운데 여성이 65.9%(232만1508명), 남성이 34.1%(120만1714명)였다. 사전연명의료의향서 작성이 많은 고령층에서 여성 인구 자체가 많은 데다, 자녀에게 임종기 돌봄 부담을 주지 않으려는 의향 등이 영향을 미쳤다는 분석이다. 남성은 2021년 말 30.7%에서 점점 비율이 오르는 추세다. 실제 연명의료 중단 결정을 이행한 대상자는 남성(31만4299명)이 여성(22만4450명)보다 많았다.&lt;br&gt;&lt;br&gt;정부는 현재 ‘임종기’로 한정된 연명의료 유보·중단 시기를 ‘말기’로 앞당기는 방안 등을 검토 중이다. 현재는 사망이 임박한 임종 과정에 있는 환자만 연명의료 중단 등을 이행할 수 있는데, 수개월 내 사망할 것으로 예상되는 말기 환자까지 확대하는 내용이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“무뚝뚝한 경상도 남편, 아이 덕에 표정 달라져”</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/12/G7HENCJDN5CZDEAZWZS7G56PT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/12/G7HENCJDN5CZDEAZWZS7G56PT4/</guid>
-      <dc:creator>문경=노인호 기자, 문경=권광순 기자, 문경=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Sep 2026 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJPZAYUJAZHIVLF6ZRJWGLNGW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 경북 문경시 문경문화예술회관에서 ‘아이가 행복입니다 해피투게더 경북 in 문경’ 행사가 열렸다. ‘31초 우리가족 행복담기 영상제’ 수상자 가족들이 문화예술회관 앞마당에서 기념사진을 찍고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“예민했던 제가 요즘은 아이들이 미역국을 엎어도 ‘치우면 되지’ 합니다. 통이 커졌어요.” (‘31초 우리가족 행복담기 영상제’ 대상 수상자 이은비씨)&lt;br&gt;&lt;br&gt;“할 줄 아는 요리라곤 라면밖에 없던 제가 두 딸 밥 챙겨주다 ‘김밥 달인’이 됐습니다. 퇴직하면 김밥집 차릴까 해요. 상 받은 김에 한 명 더 낳을까요.” (최우수상 수상자 김경민씨)&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDY5ZTC7BZANJAG42VOBI3VRFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 ‘아이가 행복입니다. 해피투게더 경북 in 문경’ 행사에 참석한 내빈과 가족들이 기념사진을 찍고 있다. 왼쪽부터 신봉석 문경소방서장, 이규봉 문경경찰서장, 김창기·박영서 경북도의원, 문경시 표창패 수상자 우성수·안현주씨 가족, 이철우 경북도지사, ‘31초 우리가족 행복담기 영상제’ 대상 수상자 정성민·이은비씨 가족, 홍준호 조선일보 발행인, 김학홍 문경시장, 영상제 우수상 수상자 김용수·이다은씨 가족, 서정식 문경시의장, 유진선 문경교육지원청 교육장. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 ‘아이가 행복입니다. 해피투게더 경북 in 문경’ 행사가 경북 문경시 문경문화예술회관에서 열렸다. 전국에서 온 가족 1000여 명이 객석을 가득 채웠다. ‘아이가 행복입니다’는 조선일보가 2018년 시작한 저출생 극복 캠페인이다. 2022년부터는 서울뿐 아니라 경북, 부산 등에서도 행사를 연다. 문경에서 열리는 건 올해가 처음이다. 조선일보와 경북도·문경시가 공동 주최하고 교육부·보건복지부·성평등가족부·저출산고령사회위원회·학교안전공제중앙회 등이 후원했다. &lt;br&gt;&lt;br&gt;이날 개막식에 참석한 가족들의 시선은 ‘31초 우리가족 행복담기 영상제’에 쏠렸다. 지난 6~8월 전국에서 2824가족이 아이와 행복한 순간을 담은 영상·사진을 출품했다. 지난해 경북 포항에서 열린 행사(2282가족)보다 24% 늘었다. 정성민(34)·이은비(36)씨 가족이 대상을 받았다. 인우(7)와 이서(5)가 막내 이나(2)를 안고 춤을 추는 모습을 담았다. 이씨는 “인우와 이서가 막내와 잘 놀아줘서 하나 키울 때보다 셋을 키우는 지금이 오히려 덜 힘들다”며 “아이는 어른이 아니라는 걸 이해하고 내 욕심을 버리니 아이가 주는 행복을 고스란히 누리게 됐다”고 했다.&lt;br&gt;&lt;br&gt;최우수상은 교사 부부인 김경민(44)·김애라(36)씨 가족이 받았다. 김씨는 “두 딸이 내가 만든 요리를 맛있게 먹는 모습을 볼 때 제일 행복하다”며 “학교에서 맛있는 급식이 나오면 딸들에게 먹이고 싶어 재료를 물어보고 장을 보는 게 일상이 됐다”고 했다. 그는 “두 딸 덕분에 돈가스와 국수, 김밥만큼은 자신 있다”고 했다.&lt;br&gt;&lt;br&gt;영상 부문 우수상은 김동헌(31)·이애림(31)씨 가족과 조영록(42)·문사랑(39)씨 가족이 받았다. 이씨는 “아이가 태어난 뒤 무뚝뚝했던 경상도 남편의 얼굴 표정이 달라졌다”고 했다. 문경에서 3대째 사과 농사를 하는 조씨는 과수원에서 네 살 아들과 보낸 사계절을 영상에 담았다. &lt;br&gt;&lt;br&gt;사진 부문에선 김용수(36)·이다은(32)씨 가족과 이배성(34)·강석경(34)씨 가족이 각각 우수상을 받았다. 이다은씨는 아이 셋을 키우며 장교가 됐다. 해병대 부사관으로 복무하다 전역한 뒤 육군 부사관으로 다시 군복을 입었고 지난해 소위로 임관했다. 이씨는 “비혼주의자였고, 아이를 별로 안 좋아했는데 지금은 우리 세 아이 없는 삶은 생각할 수도 없다”며 “아이 덕분에 오히려 더 성장한 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이철우 경북도지사는 축사에서 “북한 핵보다 위험한 게 저출산 문제”라며 “경북도에선 출산 휴가를 다녀온 직원을 우선 승진시키는 등 직장 문화를 바꾸고 있다”고 했다.&lt;br&gt;&lt;br&gt;김학홍 문경시장은 “어린이가 문경 발전의 힘”이라며 “아이들이 행복하도록 전폭 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;홍준호 조선일보 발행인은 “문경은 ‘경사스러운 소식을 듣는 고장’이라는 뜻인데, 요즘 우리나라에선 아이 울음소리가 경사”라며 “문경에 이런 경사가 가득하길 바란다”고 했다. 행사는 12일까지 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/SJPZAYUJAZHIVLF6ZRJWGLNGW4.jpg?auth=6eb11f4dfe600172fe0f0b2ffed9683e1d656cd3067be81345817e8a6ed041bf&amp;smart=true&amp;width=7683&amp;height=5024" type="image/jpeg" height="5024" width="7683">
-        <media:description type="plain">11일 경북 문경시 문경문화예술회관에서 ‘아이가 행복입니다 해피투게더 경북 in 문경’ 행사가 열렸다. ‘31초 우리가족 행복담기 영상제’ 수상자 가족들이 문화예술회관 앞마당에서 기념사진을 찍고 있다. /신현종 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>트로피 집어올린 집게 그립</title>
