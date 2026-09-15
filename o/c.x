@@ -13,6 +13,114 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 시내버스 파업... 내일 아침 출근 비상</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/15/BWEQF6TFURFBRAGSHRHZNFYDI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/15/BWEQF6TFURFBRAGSHRHZNFYDI4/</guid>
+      <dc:creator>이미지 기자, 윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 13:17:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3DSYZSG44DEZDGMU2TOOBQGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내버스 노조의 파업 예고일을 하루 앞둔 15일 서울 시내 한 공영차고지에 주차된 버스 전면에 파업 반대 현수막이 걸려 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시버스노동조합은 15일 “사측과 임금·단체협약 교섭이 최종 결렬됐다”며 “16일 첫차부터 파업에 돌입한다”고 밝혔다. 서울시는 파업이 이뤄지면 시내버스 7000여 대 대부분이 운행을 멈출 것으로 보고 있다. &lt;br&gt;&lt;br&gt;노사 양측은 이날 서울지방노동위원회에서 조정을 시도했으나 8시간 넘는 회의에도 결국 입장 차를 좁히지 못했다. &lt;br&gt;&lt;br&gt;서울 시내버스 노조의 파업은 올해 1월 이후 8개월 만이다. 2024년 12월 대법원이 ‘정기 상여금도 통상임금에 해당한다’는 취지의 판결을 내린 뒤 노조는 이 판결에 따라 상여금을 통상임금에 넣은 뒤 임금 인상률을 정해야 한다고 주장해 왔다. 반면 회사 측은 인건비 부담이 너무 크니 상여금 등 임금 체계를 먼저 손보자고 했다. 올해 1월 임금 협상이 결렬되면서 이틀간 서울 시내버스가 운행을 멈췄다. 역대 최장 기간의 파업이었다.&lt;br&gt;&lt;br&gt;이번 협상에서도 핵심 쟁점은 통상임금 산정 기준과 임금 인상률이었다. 노조는 “통상임금 산정 기준 시간을 지난 4월 동아운수 대법원 판결에 따라 월 209시간에서 176시간으로 낮추고 시급을 7.85% 인상해야 한다”고 주장했다. 반면 사측은 시급 10.32% 인상안을 제시하며 “다른 버스 회사의 통상임금 소송 판결이 나올 때까지 현행 산정 기준을 유지하고 나중에 차액을 정산하자”고 주장했다. &lt;br&gt;&lt;br&gt;하루 평균 380만명이 이용하는 시내버스가 파업에 돌입하면서 서울시는 비상 수송 대책을 내놓았다. 시민 불편을 줄이기 위해 서울시와 서울 25구가 합쳐 1500대를 운행한다. 지하철도 하루 202회 추가 운행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F5TDU54Y45FQ5DIK5XDFREHABQ.jpg?auth=8beb9c127d6b7f71bf02a8864b4d8b106f0b13dea9ca2c53297a950553b52e4c&amp;smart=true&amp;width=4545&amp;height=2557" type="image/jpeg" height="2557" width="4545"/>
+    </item>
+    <item>
+      <title>추미애, 김동연 전 지사 당시 ‘안중근 유묵 매입 과정’ 조사</title>
+      <link>https://www.chosun.com/national/regional/2026/09/15/QXNP6XPUHZC5RN4QZZE7FYWO24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/15/QXNP6XPUHZC5RN4QZZE7FYWO24/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 12:53:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5735BCW2VOJPBCXKY2O36JT2Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;수도권광역급행철도(GTX)-C노선이 본격적으로 착공에 들어간 15일 경기 수원시 팔달구 수원역에서 열린 GTX-C노선 홍보관 개관 행사에서 추미애 경기도지사가 축사를 마치고 연단을 내려오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기도지사는 15일 민선 8기 김동연 전 지사 재임 당시 일본에서 환수한 안중근 의사의 유묵 매입 과정을 조사하라고 했다.&lt;br&gt;&lt;br&gt;경기도에 따르면, 추 지사는 이날 안 의사의 유묵 ‘장탄일성 선조일본(長歎一聲 先弔日本: 큰 소리로 길게 탄식하며 일본의 멸망을 미리 조문한다)’의 매입 및 예산 집행 전 과정의 적절성에 대해 엄중히 조사해 보고하라고 담당 부서에 지시했다.&lt;br&gt;&lt;br&gt;경기도는 지난해부터 안 의사의 다른 유묵 ‘독립(獨立)’의 국내 반환을 추진하고 있는데, 이를 소장하고 있는 일본인의 입장 변화로 지지부진한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4TGNJRGU2WINJUGYYTQZRSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안중근 의사가 순국 전 중국 뤼순 감옥의 일본인 간수에게 써 준 '獨立'(독립) 유묵. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도의회서 독립 유묵 매입을 위해 세워진 예산 13억원이 쓰이지 못하고 있다며 지적했는데, 장탄일성 선조일본의 매입 방식이나 가격 적절성 문제도 함께 나왔다.&lt;br&gt;&lt;br&gt;장탄일성 선조일본은 경기도가 광복회 경기도지부에 민간자본보조금 24억원을 지원한 뒤, 광복회가 이 돈을 일본인 소장자에게 주고 지난해 8월 국내로 들여왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYDMYZYGJSDOYZRMU2DKNJZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 전 경기도지사와 추미애 경기도지사. 사진은 지난 3월 10일 서울 영등포구 국회 의원회관에서 열린 경기도 주 4.5일제 시범사업 효과 분석 정책 토론회 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추 지사는 이날 “공공기관의 예산 부적정 집행 실태에 대해서도 조사해 보고하라”고 했다.&lt;br&gt;&lt;br&gt;이날 김 전 지사는 추 지사의 ‘경기도 재정 비상’ 선언과 관련해 “민선 8기 확장 재정은 잘못이 아니라 책임 있는 선택이었다”며 “현재 경기도는 재정 위기가 아니다”라고 했다. 이에 추 지사 측은 “자구 노력 없는 확장 재정은 책임성 있는 도정이라 보기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘차량 2부제 편법 우회’ 前 성동서장 감봉 3개월에 그쳐</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/15/FBEJHOMZJVBDFDOJXZZB7TCLVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/15/FBEJHOMZJVBDFDOJXZZB7TCLVU/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 13:14:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRGEZDEME3WIMLEGJSWKNJSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량 2부제를 우회하기 위해 긴급 출동용 전기차를 개인 출퇴근에 사용했다는 의혹이 제기된 권미예 전 성동경찰서장이 경징계를 받는 데 그쳤다.&lt;br&gt;&lt;br&gt;경찰청 중앙징계위원회가 최근 권 전 서장에 대해 감봉 3개월 처분을 의결한 것으로 15일 확인됐다. 감봉은 1~3개월간 보수의 3분의 1을 감액하는 처분으로, 파면·해임·강등·정직에 해당하는 중징계보다 낮은 경징계에 속한다.&lt;br&gt;&lt;br&gt;권 전 서장은 앞서 공공기관 차량 2부제를 회피할 목적으로 긴급 출동용 전기차를 출퇴근 용도로 수십 차례 사용한 것으로 조사됐다. 또 권 전 서장이 이처럼 긴급 출동용 전기차를 출퇴근 용도로 쓰면서 초동 대응팀 업무에 공백이 발생한 사실도 드러났다.&lt;br&gt;&lt;br&gt;경찰청은 사안의 엄중함을 고려해 지난달 21일 권 전 서장을 대기발령 조치했고, 이후 감찰 조사를 마친 끝에 중앙징계위에 회부했다. 이재명 대통령도 언론 보도로 이 의혹을 처음 보고받은 뒤 신속한 감찰과 ‘엄중한 문책’을 지시했었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 강화서 여성 시신 발견... 경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2026/09/15/IGILSJ6LAZEIRI4BLHI62RTCIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/15/IGILSJ6LAZEIRI4BLHI62RTCIU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 12:54:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYTKZRXGEZDCNRVGFSTMOLEMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화도의 한 포구 인근에서 신원을 알 수 없는 여성 시신이 발견돼 해경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;15일 인천해양경찰서 등에 따르면 이날 오전 7시 13분쯤 강화군 더러미포구 인근에서 시신이 발견됐다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;당시 포구 일대에서 해양 쓰레기를 수거하던 작업자들이 시신을 발견해 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;시신은 여성으로 파악됐다. 나이 등 구체적인 신원은 확인되지 않았다.&lt;br&gt;&lt;br&gt;해경은 시신의 신원을 확인하는 한편 정확한 사망 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추미애 사퇴 청원, 5일 만에 3만명 넘어...‘조기 종료’</title>
+      <link>https://www.chosun.com/national/regional/2026/09/15/7K46JF5RYBBLRA4VG5S6PSKJRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/15/7K46JF5RYBBLRA4VG5S6PSKJRE/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 13:18:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3WCNRSGBSDKYRSMUZDANBUMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 동의 인원 3만775명에서 공식답변 완료로 중단된 '추미애 도지사 사퇴' 경기도청원. /경기도청원 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기도지사의 사퇴를 촉구하는 도민 청원이 올라온 지 5일 만에 참여 인원 3만명을 넘었다. 경기도는 이날 이 청원을 ‘답변 완료’로 분류하고 조기 종료했다.&lt;br&gt;&lt;br&gt;15일 경기도 등에 따르면, 지난 11일 ‘경기도 청원’ 홈페이지에 올라온 ‘추미애 도지사 사퇴를 청원합니다’라는 제목의 청원은 이날 오전 참여 인원 3만775명을 기록하며 ‘답변 완료’ 청원으로 분류됐다. 답변 완료 청원이 되면 더 이상 청원에 참여할 수 없다. 이 청원의 마감 기한은 다음 달 11일까지였다.&lt;br&gt;&lt;br&gt;이 청원인은 “추 지사가 주관적 판단만으로 재정 비상 선언을 강행하고, 공무원 인센티브까지 삭감해 놓고 본인은 보증금 12억원이 넘는 아파트를 관사로 계약했다”며 추 지사 사퇴를 요구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NTMTHJP3ZL7LIIPGS7TGEKEIQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;수도권광역급행철도(GTX)-C노선이 본격적으로 착공에 들어간 15일 경기 수원시 팔달구 수원역에서 열린 GTX-C노선 홍보관 개관 행사에서 추미애 경기도지사가 축사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청원 참여 인원이 1만명을 넘기면 도지사가 공식 답변 대상이 된다. 이에 따라 청원 30일 이내에 답변해야 하는데, 이번 청원은 지난 14일 오후 5시 30분쯤 1만명을 넘기며 요건을 충족했다.&lt;br&gt;&lt;br&gt;통상적으로 경기도는 청원 기간 안에 참여 인원이 넘어가더라도 기간이 종료된 후 답변을 했는데, 이번 청원을 조기 종료하자 뒷말이 나온다.&lt;br&gt;&lt;br&gt;경기도는 이 청원에 대해 “지난해 편성된 2026년 경기도 민생 필수 예산은 9개월분만 반영돼 있었고 각종 기금과 내부 재원까지 상당 부분 활용하면서 추가로 동원할 수 있는 재정 여력도 거의 없는 상황”이라며 “그런데도 마치 민선 9기 도정이 멀쩡히 편성된 민생 예산을 고의로 삭감한 것처럼 사실을 왜곡하는 데 깊은 유감을 표한다”고 답했다.&lt;br&gt;&lt;br&gt;이날 경기도 청원 홈페이지에는 추 지사의 사퇴를 요구하는 취지의 청원이 잇따라 올라오기도 했다. 경기도는 “기존 답변이 완료된 청원과 동일한 내용의 청원은 처리 대상에서 제외된다”고 공지했다.&lt;br&gt;&lt;br&gt;한편, 이날 한 시민단체는 추 지사의 12억 관사 입주와 7700만원 아이오닉9 관용차 매입 등에 대해 직권남용과 배임 등 혐의로 경기남부경찰청에 고발장을 냈다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>화면엔 中 복장, 이름은 ‘한복’… 경주 전광판 오표기 논란</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/09/15/K6DHX2FV6FGXPP2DC4KARUO4VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/09/15/K6DHX2FV6FGXPP2DC4KARUO4VI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 12:36:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYVCO3ULVJUFGYNE2MRVZM2EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북문화관광공사가 최근 경주 보문관광단지 수상공연장 인근 광장에 설치한 'POST APEC 미디어월' 전광판.
+    경북문화관광공사는 여러 나라의 옷을 소개하는 전광판을 운용하면서 중국을 소개하는 화면에 중국풍 복장을 한 인물을 보여주며 해당 옷을 한복으로 표기해 물의를 빚었다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북문화관광공사가 경주 보문관광단지에 설치한 전광판에서 중국 전통 복장을 ‘한복’으로 잘못 표기해 논란이 일었다.&lt;br&gt;&lt;br&gt;15일 경북문화관광공사 등에 따르면 공사는 최근 보문관광단지 수상공연장 인근에 ‘POST APEC 미디어월’을 설치했다. 정식 운영을 앞두고 시범 가동 중이었다.&lt;br&gt;&lt;br&gt;미디어월에는 아시아태평양경제협력체(APEC) 21개 참가국의 전통 의상을 소개하는 콘텐츠가 송출됐다. 중국을 소개하는 화면에는 중국풍 복장을 한 인물의 의상 명칭이 ‘한복’으로 표시됐다.&lt;br&gt;&lt;br&gt;해당 전광판은 지난해 경주 APEC 정상회의 당시 보문관광단지 호반광장에 설치됐던 시설물이다. 최근 수상공연장 인근으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경북도는 점검 과정에서 사진과 배경, 설명이 잘못 조합된 것으로 파악했다. 이 때문에 다른 이미지의 자막이 노출됐다는 것이다.&lt;br&gt;&lt;br&gt;공사는 오류를 확인한 뒤 송출을 중단하고 내용을 수정했다.&lt;br&gt;&lt;br&gt;경북도는 기술적 오류라고 하더라도 사전 검수가 미흡했다고 판단, 공사에 경고하고 경위보고를 요구했다.&lt;br&gt;&lt;br&gt;김남일 경북문화관광공사 사장은 “발견 즉시 전수 정정 조치를 완료했다”며 재발 방지를 위해 사전 검증과 최종 점검을 강화하겠다고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경호원·명품 운동화... 법정 선 브로커, 취재진 질문엔 묵묵부답</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/15/RA6G7FTN6REQ7J5FSEJRFOW6DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/15/RA6G7FTN6REQ7J5FSEJRFOW6DU/</guid>
+      <dc:creator>박혜연 기자, 지혜진 기자, 강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 09:55:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CQQKAU7MZGD3FFNS6R6T2KZUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자에게 '신약 청탁'을 했다는 의혹을 받는 브로커 양모씨가 15일 서울 마포구 서울서부지방법원에서 열린 뇌물공여 혐의 공판기일에 출석하고 있다. 2026.9.15 / 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 4시 20분, 서울 마포구 서울서부지법 404호 법정. 김승원 법무부 장관 후보자를 통해 코로나 치료제의 임상시험 승인을 청탁한 혐의로 기소된 브로커 양모씨가 피고인석에 앉았다. 마스크를 쓴 양씨는 허리를 꼿꼿이 세운 채 정면을 바라봤다. 두어 번 깊은 숨을 내쉬었고, 취재진이 있는 방청석을 몇 차례 쳐다보기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Y2SANUWQJHH7GWXLEQBFDGDVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자에게 '신약 청탁'을 했다는 의혹을 받는 브로커 양모씨가 15일 서울 마포구 서울서부지방법원에서 열린 뇌물공여 혐의 공판기일에 출석하고 있다. 2026.9.15 / 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 형사10단독 성준규 판사는 이날 양씨와 바이오기업 제넨셀 창립자 강모씨의 뇌물공여약속 혐의 공판을 열었다. 재판은 10여 분만에 끝났다.&lt;br&gt;&lt;br&gt;재판부는 당초 이날 강씨에 대한 피고인 신문을 진행한 뒤 검찰의 구형과 양·강씨의 최후진술을 듣고 재판을 마무리할 예정이었다. 그러나 강씨가 별도로 재판받고 있는 사건의 항소심 결과를 확인하고, 피고인 측에 검찰의 증거목록을 검토할 시간을 줄 필요가 있다고 판단해 결심 공판을 다음 기일로 미뤘다.&lt;br&gt;&lt;br&gt;강씨는 동물 실험 결과를 숨기고 임상 시험 승인을 받아 공무원의 업무를 방해한 혐의 등으로 2024년 12월 1심에서 징역 3년에 집행유예 5년을 선고받았다. 현재 항소심이 진행 중이다. 재판부는 “이번 사건과도 일부 관련된 것으로 보여 항소심 선고 결과를 확인할 필요가 있다”며 검찰과 피고인 측에 그 결과를 반영해 최종 의견을 정리해 달라고 했다.&lt;br&gt;&lt;br&gt;이에 따라 양씨와 강씨가 법정에서 직접 입장을 밝히는 모습은 볼 수 없었다. 두 사람은 한 칸 떨어져 앉았고, 서로 눈을 마주치거나 대화를 나누지는 않았다. 성 판사는 다음 공판을 11월 12일 오후 4시에 열고, 재판을 마무리하는 절차를 진행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGPXGW53MRGLBA75FYSKTXFM2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자에게 '신약 청탁'을 했다는 의혹을 받는 브로커 양모씨가 15일 서울 마포구 서울서부지방법원에서 열린 뇌물공여 혐의 공판기일에 출석하고 있다. 2026.9.15 / 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 사람은 제넨셀이 개발하던 코로나 치료제의 임상 시험 계획을 승인받기 위해 당시 국회의원이던 김 후보자를 통해 식품의약품안전처에 신속한 처리를 요청하고, 그 대가로 김 후보자에게 정치 후원금 500만원을 제공하기로 약속한 혐의 등을 받는다. &lt;br&gt;&lt;br&gt;검찰에 따르면 강씨는 2021년 10월 식약처에서 임상시험 계획을 보완하라는 요구를 받자 양씨에게 승인이 빨리 이뤄지도록 도와달라고 요청했다. 양씨의 부탁을 받은 김 후보자는 김강립 당시 식약처장에게 신속한 처리를 요청했고, 식약처는 약 2주 뒤 임상시험 계획을 승인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFVRKTGRHRFM7B6PENBZ3TPCCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자가 2026년 9월 15일 서울 국회 법제사법위원회에서 열린 인사청문회에 참석하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 시각 국회에서는 김 후보자의 인사청문회가 열리고 있었다. 양·강씨의 재판이 진행될 때는 청문회가 잠시 정회한 상태였다. 김 후보자는 이날 청문회에서 “임상시험 절차가 규정에 따라 공정하게 진행되는지 살펴봐 달라는 민원을 전달했을 뿐 부정한 청탁은 없었다”는 기존 입장을 되풀이했다. 양씨 등에 대한 검찰 수사를 “선별 수사이자 정치 수사”라고 비판하며 자신의 기소유예 처분도 “쪼개기 기소의 결과물”이라고 주장했다.&lt;br&gt;&lt;br&gt;양씨는 이날 법원에 신변 보호를 요청해 보안관리대 직원들의 보호를 받으며 법정에 출석했다. 하늘색 셔츠에 짙은 남색 재킷과 검은색 반바지를 입었고, 100만원이 넘는 L사 명품 운동화를 신었다. 두 사람은 이날 법정에 들어가고 나오는 동안 “김 후보자에게 부정한 청탁을 한 혐의를 인정하느냐” 등을 묻는 취재진 질문에 아무 말을 하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7CQQKAU7MZGD3FFNS6R6T2KZUM.jpg?auth=44b1ef9ae54584811f4ab30b9b214d6a1b2107a11e8b66841a112cdc136aa848&amp;smart=true&amp;width=3985&amp;height=2989" type="image/jpeg" height="2989" width="3985">
+        <media:description type="plain">김승원 법무부 장관 후보자에게 '신약 청탁'을 했다는 의혹을 받는 브로커 양모씨가 15일 서울 마포구 서울서부지방법원에서 열린 뇌물공여 혐의 공판기일에 출석하고 있다. 2026.9.15 / 장경식 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] “주방보조는 여성만”...인권위는 “문제없다” 했지만, 법원이 뒤집었다</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/15/ITLFFZEGJZESJJJIAYTXVHIOK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/15/ITLFFZEGJZESJJJIAYTXVHIOK4/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QTQZTCGZTGCZLDME4WKYJTHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 호텔 주방 보조 아르바이트 채용 공고에 지원 자격을 ‘여성’으로 제한해 둔 것은 인권 차별이라는 진정에 대해 국가인권위원회(인권위)가 기각 결정을 내렸다. 하지만 법원은 이를 부당하다고 보고 진정인이 제기한 진정 기각 결정 취소 소송에서 원고의 손을 들어줬다. &lt;br&gt;&lt;br&gt;진정인 강모(44)씨는 지난 2024년 8월 호텔·웨딩홀 주방 보조 인력을 뽑아 알선하는 A 주식회사에서 올린 롯데호텔 직원 식당 주방 보조 채용 공고를 접하고 지원을 결심했다. 하지만 공고를 자세히 살펴보니 해당 공고에는 ‘여성’만 지원 가능하다고 적혀 있었다. 결국 남성인 강씨는 마음을 접을 수밖에 없었다. 이에 강씨는 “업무에 특정 성별이 불가피하게 요구되는 것도 아닌데 성별을 제한한 건 부당하다”고 느껴 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;하지만 인권위는 지난해 1월 A 주식회사의 채용 공고가 차별이 아니라고 보고 강씨의 진정을 기각했다. 인권위가 주요하게 고려한 건 “(성별 제한을 둔 건) 단순 실수였다”는 A 주식회사 채용 담당자의 해명이었다. 인권위는 이를 근거로 “담당자의 단순 실수였다는 A 주식회사 측의 주장이 수긍할 만하고 특정한 집단을 배제할 목적이나 고의성이 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;하지만 A 주식회사가 채용 과정에서 특정 성별을 합당한 이유 없이 배제한 건 강씨 사례가 처음이 아니었다. 동일한 이유로 인권위에 A 주식회사에 대한 진정이 접수된 적이 최소 2차례 있었고, 인권위는 재발 방지 대책 마련을 권고한 적도 있었다. 실제로 지난해 4월 A 주식회사가 주방 보조 지원 자격을 남성 혹은 여성으로 제한한 건 부당하다는 진정에 대해 인권위는 “특정 성별에 대한 차별이 지속적으로 반복되고 있다”며 재발 방지책 마련을 권고한 바 있다. 그런데 강씨 사례에선 인권위가 “단순 실수였다”는 채용 담당자의 말만 믿고 진정을 기각한 것이다. &lt;br&gt;&lt;br&gt;강씨는 “담당 조사관이 A 주식회사의 전력을 상세히 찾아봤다면 기각할 수는 없는 건이었다”고 답답함을 토로했다. 강씨는 인권위의 기각 결정이 부당하다고 보고 진정 기각 결정 취소 청구 소송을 제기했다. 그리고 지난달 26일 강씨의 사건을 담당한 서울고등법원 제4-2행정부(재판장 이광만)는 원고인 강씨 손을 들어줬다. 재판부는 “A 주식회사가 이 사건을 전후해 수차례에 걸쳐 성별을 제한해 공고한 점, 특정 성별만 제한한 것도 아닌 점 등을 감안할 때 성별 제한이 단순 실수로 인한 것이라는 피진정인의 해명을 믿기 어렵다”며 “차별 행위에 대한 피진정인의 고의를 인정할 여지가 크다”고 했다. &lt;br&gt;&lt;br&gt;한편 해당 선고 결과에 인권위 측이 상고하지 않아 판결은 확정된 상태다. 관련해 인권위 관계자는 “(해당 사건에 대한) 별도 입장은 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 제넨셀 창업자, 정부 지원금 25억… 식약처 청탁 이후에도 7억대 지원</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/09/15/V3LNXSQUKVGVJOBEH5FWW5GTK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/09/15/V3LNXSQUKVGVJOBEH5FWW5GTK4/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 09:13:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WKNRUGZRGKZRVGFSDGZJWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보자에게 신약 임상 시험 승인 청탁을 부탁했다는 의혹을 받는 제넨셀 창업자 강 모 씨가 15일 오후 서울 마포구 서울서부지방법원에서 열린 뇌물 공여 약속 등 혐의 공판에 출석하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 법무부 장관 후보자에게 코로나19 치료제 임상시험 승인을 도와달라는 청탁을 했다는 의혹을 받는 제넨셀 창업자 강모 교수 측이 과거 중소벤처기업부와 산하 공공기관에서 총 25억여 원을 지원·투자받은 것으로 나타났다. &lt;br&gt;&lt;br&gt;15일 이만희 국민의힘 의원실이 중기부에서 제출받은 자료에 따르면, 강 교수와 그가 참여한 연구팀·기업은 2007년 5월부터 2023년 9월까지 중기부 연구개발 사업 7건에 선정돼 총 14억5410만원을 받았다.&lt;br&gt;&lt;br&gt;이 가운데 4건은 김 후보자가 제넨셀 측의 요청을 받고 당시 식품의약품안전처장에게 임상시험을 신속하게 처리해 달라고 요청한 2021년 10월 이후 선정됐다. 강 교수 측은 2022년 7월과 9월 창업성장기술개발사업에 선정돼 각각 2억8000만원을 지원받았다. 2023년에는 건강기능식품개발지원사업 2건에서 총 1억4310만원을 받았다.&lt;br&gt;&lt;br&gt;강 교수가 대표를 맡았던 엠바이옴쎄라퓨틱스도 2019년부터 2022년까지 중기부 창업 지원 사업 4건에 선정돼 총 5억7700만원을 받은 것으로 나타났다.&lt;br&gt;&lt;br&gt;제넨셀은 중기부 산하 공공기관인 기술보증기금에서 보증과 투자도 받았다. 기보는 2017년 3월 2억8500만원, 2018년 10월 2억7000만원 등 총 5억5500만원의 기술 보증을 제공했다. 기술 보증은 담보력이 부족한 기업이 은행에서 대출받을 수 있도록 기보가 보증서를 발급하는 제도다. 제넨셀이 대출금을 모두 갚으면서 보증은 2022년 2월 해지됐다.&lt;br&gt;&lt;br&gt;기보는 2017년 5월 제넨셀에 5억원을 투자해 당시 지분 0.67%를 취득하기도 했다. 중기부가 제출한 자료에 따르면, 이달 11일 기준 투자금 잔액 5억원이 여전히 남아 있다. 기술 보증을 제외하더라도, 강 교수 측이 중기부와 기보에서 받은 지원·투자금은 25억3110만원에 달한다. &lt;br&gt;&lt;br&gt;중기부는 해당 사업들이 모두 공모를 거쳐 선정됐다고 밝혔다. 기술보증기금도 “기업의 기술성과 시장성·사업성, 신용도 및 수익성 등을 종합적으로 심사해 보증과 투자를 결정했다”고 했다. &lt;br&gt;&lt;br&gt;이만희 의원은 “임상 승인 청탁 의혹 당사자와 관련 기업에 수십억 원의 정부 지원이 이어졌다는 사실이 확인된 만큼, 그동안의 지원·선정 과정 전반에 문제는 없었는지 철저히 들여다봐야 할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GQ2WKNRUGZRGKZRVGFSDGZJWGM.jpg?auth=a67db68e4eb896b0b70b19a6856b5fcfb89d35fd61ecedf4ab024a1800211252&amp;smart=true&amp;width=5208&amp;height=3736" type="image/jpeg" height="3736" width="5208">
+        <media:description type="plain">김승원 법무부 장관 후보자에게 신약 임상 시험 승인 청탁을 부탁했다는 의혹을 받는 제넨셀 창업자 강 모 씨가 15일 오후 서울 마포구 서울서부지방법원에서 열린 뇌물 공여 약속 등 혐의 공판에 출석하고 있다./뉴스1 </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이진숙, 박지원 명예훼손 고소... “5·18 북한군 소행이라 말한 적 없어” </title>
+      <link>https://www.chosun.com/national/national_general/2026/09/15/AXTHIFYR4FCN7P4PDQ5C3PGGHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/15/AXTHIFYR4FCN7P4PDQ5C3PGGHE/</guid>
+      <dc:creator>윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 09:04:00 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYWCZDDHE3GEZBZGYYTCYZQMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 이진숙 의원이 15일 서울 영등포경찰서에서 박지원 더불어민주당 의원을 명예훼손 혐의로 고소하기 위한 고소장을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 이진숙 의원이 자신을 “5·18이 북한군 소행이라 하는 사람”이라고 지칭한 박지원 더불어민주당 의원을 경찰에 고소했다. &lt;br&gt;&lt;br&gt;이 의원은 15일 오후 서울 영등포경찰서를 방문해 박 의원을 명예훼손 혐의로 고소했다. 박 의원은 지난 13일 자신의 블로그와 페이스북에 이 의원을 가리켜 “5·18 북한군 소행이라 하는 사람”이라고 적었다.&lt;br&gt;&lt;br&gt;이 의원은 이날 고소장을 제출하며 “5·18이 북한군의 소행이라고 말한 적이 없다”고 밝혔다. “박 의원이 전직 국가정보원장 신분으로 허위 사실을 유포해 정치인에 대한 신뢰를 무너뜨렸다”고도 했다. &lt;br&gt;&lt;br&gt;이 의원은 지난달 24일에도 이 의원을 ‘여자 히틀러’라고 표현한 김민석 더불어민주당 대표를 경찰에 고소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북도, 600억 투입해 5개 대학서 첨단 인재 2만명 육성</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/15/S3QOKK7BR5GRHGXWDC5R22SPWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/15/S3QOKK7BR5GRHGXWDC5R22SPWA/</guid>
+      <dc:creator>경산=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Sep 2026 08:20:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W32J3C5A4VGGVJ4QMUUALGERCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 영남대에서 열린 '경북 전략산업 앵커 대학 비전 선포식./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 2029년까지 600억원을 투입해 지역 대학 5곳과 인공지능(AI)·미래 항공·바이오 분야에서 인재 2만명을 양성할 계획이다.&lt;br&gt;&lt;br&gt;15일 오후 2시 영남대 천마아트센터에서 경북도는 영남대·경운대·대구가톨릭대·대구대·경일대 등과 ‘경북 전략산업 앵커 대학 비전 선포식’을 열었다. 대학에서 실무형 인재 양성·기술·창업 생태계 등을 조성해 지역에서 첨단 산업을 발전시키자는 취지다.&lt;br&gt;&lt;br&gt;영남대는 ‘경북 AI+X 허브 대학’을 목표로 인공지능 분야 인재 4000여 명을 양성할 계획이다. AI+X는 인공지능과 인공지능 전환의 합성어로, 영천시의 자동차 부품 산업을 비롯한 전통 제조업에 인공지능 기술을 더해 첨단 산업으로 전환하자는 목표다. 여기에 더해 경산의 정보통신기술(ICT), 의성의 바이오산업 등을 모두 연계해 인공지능 연구·실증 기반을 구축할 계획이다.&lt;br&gt;&lt;br&gt;경운대는 지역과 기업, 학교 등의 협력 체계를 구축해 미래 항공 분야 인재 6000여 명을, 대구가톨릭대·대구대·경일대는 바이오 융합 전공 과정을 공동 운영해 바이오 인재 1만여 명을 육성할 예정이다. 경북도는 5개 대학의 인재 양성 사업을 전반적으로 지원할 방침이다. &lt;br&gt;&lt;br&gt;황명석 경북도 행정부지사는 “인공지능 시대에 대학은 기업과 산업 현장이 필요로 하는 실무 역량을 갖춘 인재를 키워야 한다”며 “대학이 지역 기업과 함께 인재를 키우고, 인재가 지역에서 배우고 일할 수 있도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김승원 청문회 도중 ‘신약 청탁’ 브로커는 재판 출석…“왜 오빠라 했냐”에 묵묵부답</title>
       <link>https://www.chosun.com/national/court_law/2026/09/15/K6IRXPIT6BCJHE735UPWYI2Q64/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/15/K6IRXPIT6BCJHE735UPWYI2Q64/</guid>
@@ -874,15 +982,6 @@
       </media:content>
     </item>
     <item>
-      <title>서울 아파트 토허 신청 ‘최저’… 집값은 86주 연속 상승</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/14/CJPLP2CQY5HQ5PSEASDEMPXQF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/14/CJPLP2CQY5HQ5PSEASDEMPXQF4/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Sep 2026 03:04:48 +0000</pubDate>
-      <content:encoded>서울시는 8월 서울 아파트 토지거래허가(이하 토허) 신규 신청 건수가 3012건으로 집계됐다고 14일 밝혔다. 이는 지난해 10월 서울 전역이 토허 구역으로 지정된 이후 가장 낮은 수준이다.&lt;br&gt;&lt;br&gt;실거주 의무, 대출 규제 강화 등으로 서울 아파트 거래가 줄어들면서 토허 신청은 4개월 연속 감소했다. 4월(8896건)을 정점으로 5월 6011건, 6월 5277건, 7월 4618건, 8월 3012건을 기록했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOYY4JMJ2JJLTOPV3RKXLIGLKU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 권현진 기자 = 서울 강북권 아파트 매매 중위가격이 사상 처음 10억원을 넘어섰다. 14일 KB부동산에 따르면 지난달 서울 강북 14개구 아파트 매매 중위가격은 10억167만원으로 집계됐다. 노원·도봉·강북 등 상대적으로 가격이 낮았던 지역의 상승세가 이어지면서 강남·강북 간 집값 격차도 좁혀지고 있다. 사진은 이날 서울 남산타워에서 바라본 서울 도심. 2026.9.14/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이직이나 자녀 학교 진학 등 실수요자마저 집을 구하기 어렵다는 불만이 나오면서 정부가 지난 5월부터 세 낀 주택의 실거주 의무 유예 대상을 확대했지만 실거주 유예 신청 비율은 전체 거래의 5%에도 못 미쳤다.&lt;br&gt;&lt;br&gt;거래는 줄었지만 가격은 권역별로 엇갈린 모습을 보였다. 고가 주택의 대출을 차단하면서 강남 3구·용산구는 급매 위주로 가격이 일부 하락해 집값이 전월 대비 0.34% 하락했다. 하지만 상대적으로 집값이 저렴해 실수요자가 몰린 강북권 10구와 광진·성동·마포·양천구 등 한강 벨트 7구는 가격 상승세가 이어졌다. 강북 10구는 전월 대비 0.61%, 광진·성동·마포 등 7구는 0.52%의 상승률을 기록했다.&lt;br&gt;&lt;br&gt;서울 부동산 가격 오름세가 멈추지 않고, 거래는 어려워졌다는 비판이 나오는 가운데 오세훈 서울시장은 전날 페이스북에 “서울 아파트 가격이 86주 연속 상승하며 문재인 정부 당시 최장 기록인 85주마저 넘어섰다”고 글을 올렸다. &lt;br&gt;&lt;br&gt;오 시장은 “더욱 심각한 것은 상승의 강도”라며 “역대 정부 취임 후 1년간 서울 아파트 월간 매매 가격 누적 상승률을 비교하면 이재명 정부는 14.73%로 노무현 정부 11.68%, 문재인 정부 9.41%를 크게 웃돈다”고 말했다. 역대 최장 상승 기간인 데다 집권 초기 집값 상승 속도마저 과거 정부를 넘어섰다는 것이다. &lt;br&gt;&lt;br&gt;오 시장은 “강남·서초·송파 등 강남권의 상승세가 최근 일부 주춤하는 것과는 확연히 다른 흐름”이라며 “서울 비강남권과 외곽 지역을 중심으로 이른바 ‘키 맞추기’ 현상이 뚜렷해지고 있다”고 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 제넨셀 설립자, 브로커, 김승원...살인미수 등 혐의로 경찰 고발돼</title>
       <link>https://www.chosun.com/national/national_general/2026/09/14/SRVICMFQHREAPEYPSO4KSDDMQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/14/SRVICMFQHREAPEYPSO4KSDDMQY/</guid>
@@ -890,42 +989,6 @@
       <description/>
       <pubDate>Mon, 14 Sep 2026 03:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LADMZNTO2VDXTMECU6HRKTKZJY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 법무부 장관 후보가 14일 오전 서울 종로구 적선현대빌딩에 마련된 인사청문회 준비 사무실로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제약사 제넨셀 설립자 강모씨, 브로커 양모씨, 김승원 법무부장관 후보자가 사기·살인미수·살인미수 종범 등 혐의로 경찰에 고발됐다. &lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 강씨를 사기·살인미수 등 혐의로, 양씨를 사기·살인미수 종범 혐의로, 김 후보자를 사기·살인미수 종범·직권남용 등 혐의로 서울경찰청에 고발했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;서민위는 “코로나19에 감염된 햄스터에게 치료제를 투입했을 때 5마리 중 1마리가 죽었고, 투여과정에서 약물 역류와 토혈이 관찰됐다”며 “이상 소견이 나타난 사실을 뺀 자료로 식약처에 임상시험계획을 승인받은 것은 살인미수”라고 주장했다. &lt;br&gt;&lt;br&gt;이어 “이를 인지하고도 식약처 승인에 동조했다는 합리적 의심을 낳는 양씨과 알고도 묵인했을 가능성이 있는 김 후보자는 살인미수 종범”이라고 했다. &lt;br&gt;&lt;br&gt;제넨셀은 지난 2021년 6월 한 대학 산학협력단 연구팀에 코로나 치료제 후보물질 ES16001의 효능을 확인하기 위한 햄스터 실험을 의뢰했다. 1차 시험에서는 뚜렷한 유효성이 확인되지 않았고, 이후 제넨셀 측 요청으로 투여량을 늘려 2차 시험이 진행됐다. &lt;br&gt;&lt;br&gt;연구팀이 작성한 평가보고서 초안에는 1차 시험에서 유의미한 결과가 없었다는 내용과 함께, 2차 시험의 고용량 투여군 햄스터 5마리 가운데 1마리가 사망했다는 내용이 담겼다. 폐사한 햄스터에서는 부검 전 약물 역류와 토혈이 관찰됐고, 살아 있는 햄스터에서도 위중한 상태와 심한 폐 비대증이 관찰됐다는 내용도 포함됐다.&lt;br&gt;&lt;br&gt;그러나 최종 평가보고서에서는 이 같은 내용들이 삭제됐다. 연구팀은 2021년 9월 15일 제넨셀 측의 수정 의견을 반영한 최종 평가보고서를 작성하면서 1차 시험에 대한 언급을 삭제했다. 시험 결과와 고찰 부분에서도 체중과 체온 변화에 관한 내용을 제외하고 ES16001 투여 이후 햄스터의 폐 조직 병변 발생·변화에 관한 내용을 중심으로 남겼다. 특히 고용량 투여군에서 발생한 사망과 토혈, 위중한 상태 및 심한 폐 비대증에 관한 문장도 삭제됐다.&lt;br&gt;&lt;br&gt;강씨는 양씨에게 2021년 10월 6일에 “임상시험 승인이 안 날까 걱정”이라는 연락을 했고, 양씨는 10월 12일 김 후보자를 통해 김강립 당시 식약처장에게 식약처 승인을 신속 처리해달라고 요청했다. 이후 10월 26일 식약처는 ES16001에 대해 임상 2·3상을 승인했다. &lt;br&gt;&lt;br&gt;다만 강씨는 햄스터 폐사가 약물의 안전성 문제와 무관하다는 입장이다. 강씨는 “햄스터가 폐사한 실험은 안전성 시험이 아니라 유효성 시험이었고, 안전성 시험에서 확인된 약물 투약량의 약 3분의 1을 투여했는데도 원인을 알 수 없는 이유로 한 마리가 죽었다”는 취지로 주장하고 있다.&lt;br&gt;&lt;br&gt;한편 제넨셀의 코로나19 치료제는 실제 국내에서 환자 93명에게 투약된 것으로 확인됐다. 이날 국민의힘 윤상현 의원실이 식약처에서 받은 제넨셀 코로나19 치료제 임상 시험 현황 자료에 따르면 국내 임상 시험 실시 기관은 2022년 93명에 대해 투약 등 임상 시험을 실시했다. 식약처 관계자는 “국내 기관에서 시행된 시험인 만큼 한국인을 대상으로 이뤄졌을 가능성이 높다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 버스노조 파업 대비 무료 셔틀 1500대 투입… 지하철 막차 새벽 2시까지</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/14/M5QS2YL6NNHQZMAS2QAT2CKTUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/14/M5QS2YL6NNHQZMAS2QAT2CKTUY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Sep 2026 02:36:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBE6OTM675HYLDXD5HEWXH67ZY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 시내버스 노조의 16일 첫차 파업에 대비해 무료 셔틀버스를 최대 1500대까지 투입하고 지하철 막차를 다음 날 새벽 2시까지 연장 운행하기로 했다.&lt;br&gt;&lt;br&gt;서울시는 14일 이런 내용을 담은 비상 수송 대책을 발표했다. 지난 1월에 이어 올해 두 번째 시내버스 노조 파업 가능성에 대비한 조치다. 서울시버스노동조합은 15일까지 임금 협상이 타결되지 않으면 16일 첫차부터 전면 파업에 들어가겠다고 예고한 상태다.&lt;br&gt;&lt;br&gt;서울시는 지난 1월 파업 때 700여 대였던 무료 셔틀버스(전세버스)를 이번에는 최대 1500대까지 늘린다. 서울 25개 주거지와 지하철역을 잇는 노선에 1300대를 투입한다. 강남대로와 통일로, 도봉로 등 주요 간선도로에는 별도로 200대를 운행한다. 셔틀버스 노선은 이날 오후 6시부터 서울시 홈페이지에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;지하철 막차는 종착역 기준 다음 날 오전 2시까지 연장한다. 하루 운행 횟수도 202회 늘린다. 출퇴근 시간대 운행도 평소보다 2시간씩 늘려 오전은 7시부터 11시까지, 저녁은 오후 6시부터 10시까지 운행한다.&lt;br&gt;&lt;br&gt;이번에는 마을버스와 따릉이도 비상 수송 대책에 새롭게 포함됐다. 마을버스는 한시적으로 시내버스 정류장을 함께 이용할 수 있게 하고, 자치구 협의를 거쳐 주요 간선도로까지 달릴 수 있게 한다. 따릉이는 파업 기간 무료로 개방해 5㎞ 안팎의 단거리 이동 수요를 분산시킬 계획이다.&lt;br&gt;&lt;br&gt;승용차 이용이 늘어날 것에 대비해 가로변 버스전용차로는 파업 기간 일반 차량도 이용할 수 있게 한다. 다만 중앙버스전용차로는 기존처럼 버스만 다닐 수 있다.&lt;br&gt;&lt;br&gt;서울시는 파업에 참여하지 않는 운수 회사와 운전기사의 운행도 지원하기로 했다. 차고지마다 공무원을 배치하고 운행을 방해하는 행위가 발생하면 경찰과 협조해 엄정 대응한다는 방침이다. 서울시는 “과거 파업 때 차고지 출입구를 차량으로 막거나, 버스 열쇠를 받은 뒤 근무지를 이탈하고, 운행하려는 버스 아래로 들어가는 행위 등이 있었다”며 “형법상 업무방해와 노동조합법 위반에 해당하는 불법 행위로 보고 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;교통 정보는 120 다산콜센터와 교통정보센터(TOPIS), 서울시 홈페이지, 도로 전광판, 각 정류소의 버스정보안내 단말기 등을 통해 실시간으로 안내할 예정이다. 서울시는 “파업 현실화 시 출퇴근 시간대 이동 불편이 불가피할 것으로 예상되므로, 사전에 관련 사항을 확인하는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;여장권 서울시 교통실장은 “정상적으로 운행하려는 운수 회사와 운전기사의 운행을 방해하는 불법 행위에는 법과 원칙에 따라 엄정히 대응하겠다”며 “아직 노사가 대화로 해결할 수 있는 시간이 남아 있는 만큼 시민들이 납득할 수 있는 합리적인 수준에서 협상이 마무리되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “김병기 구속영장 반려, 검찰 판단 존중하지만 아쉬워”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/14/4I3WHNWY4VFF5DNXMXDZATP37M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/14/4I3WHNWY4VFF5DNXMXDZATP37M/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Sep 2026 03:09:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVBEQMIUPFO6FG4TMEE44724KA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 무소속 의원이 7일 오후 서울 여의도 국회 의원회관 의원실을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 경찰이 1년 가까운 수사 끝에 신청한 김병기 무소속 의원 구속영장에 대해 검찰이 보완수사를 요구하며 반려한 것에 대해 경찰이 “우리가 신청한 영장이 청구되지 않아 아쉽다”는 입장을 밝혔다. 경찰청 관계자는 14일 기자 간담회에서 “검찰이 요구한 보완수사 내용을 충분히 존중한다”면서도 이같이 말했다.&lt;br&gt;&lt;br&gt;김 의원의 차남 특혜 취업, 공천 헌금, 불법 선거 자금 수수 등 13가지 의혹을 1년 동안 수사해온 서울경찰청은 지난 7일 특정범죄가중처벌법상 뇌물수수, 업무상 배임, 업무 방해 등 혐의로 김 의원에 대해 구속영장을 신청했다. 13가지 의혹 중 5가지 혐의가 적시됐고, 8개는 빠졌다.&lt;br&gt;&lt;br&gt;그러나 서울중앙지검은 지난 11일 “피의자가 7차례에 걸친 소환 조사에 응한 점과 피의자에 대한 최종 조사 후 구속영장 신청까지 5개월간 수사 경과를 종합적으로 고려할 때 구속 필요성에 대한 소명이 부족하고 일부 혐의에 대해선 증거를 보강할 필요가 있다”며 경찰에 보완수사를 요구했다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 기자 간담회에서 “김 의원 수사는 제기된 의혹이 많아 수사 완결성을 높이기 위해 법리 검토를 면밀히 해오다 보니 시간이 오래 걸렸다”며 “검찰과 협의를 해오면서 충실히 수사했다”고 말했다. 그러면서 “검찰이 지적한 사안을 포함해 보완수사를 충실이 이행하겠다”고 했다. 이 관계자는 구속영장 재신청 혹은 불구속 송치 등 신병 처리 여부에 대해선 “보완수사를 이행하고 나서 판단할 문제”라며 “모든 가능성이 열려 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 신약 청탁 의혹으로 고발된 김승원 법무부 장관 후보자 사건에 대해선 “이전에 진행된 수사가 있기 때문에 관련 수사 기록을 확보해서 분석할 예정”이라고 했다. 김 후보자는 신약 청탁 의혹으로 기소유예 처분을 받은 바 있다. 경찰청 관계자는 “당시 어떤 수사가 이뤄졌고 어떤 판단 과정이 있었는지 종합적으로 살펴보기 위한 것”이라며 “(검찰에 대한 조사 여부 등) 수사 범위에 대해선 아직 초기 단계라 판단하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권익위 “초중고 교실 공급 계약서 1300억원대 입찰 담합 적발”</title>
-      <link>https://www.chosun.com/politics/goverment/2026/09/14/H5624MYTDBBX5OSNTXE5Y3DOPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2026/09/14/H5624MYTDBBX5OSNTXE5Y3DOPM/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Sep 2026 02:55:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3FMNNTVMFOHDFQCJMYDQFAV5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국민권익위원회 이명순 부패 방지 담당 부위원장이 14일 정부세종청사에서 초·중·고 모듈러 교실 입찰 담합 실태 조사 결과를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과밀 초·중·고등학교에 설치되는 조립식 교실인 ‘모듈러 교실’ 입찰에서 몇몇 업체가 담합한 정황이 포착돼 국민권익위원회가 사건을 공정거래위원회와 경찰청 등에 이첩했다.&lt;br&gt;&lt;br&gt;14일 권익위에 따르면, 서로 친족 관계인 사람들이 임원으로 있는 A·B 업체는 2022년 7월부터 올해 7월까지 4년여간 전국 학교와 모듈러 교실 공급 계약을 99건 체결했다.&lt;br&gt;&lt;br&gt;이 과정에서 A·B 업체는 다른 영세 업체들을 이른바 ‘들러리’로 입찰에 참여시켜, 자사의 입찰 가격은 높이고 다른 업체들의 입찰 가격은 낮추는 방식으로 원하는 가격에 계약을 따낸 것으로 드러났다. 권익위는 모듈러 교실을 공급할 능력을 갖춘 업체가 극소수여서 담합이 가능했던 것으로 봤다. 들러리 업체들이 A·B 업체로부터 어떤 대가를 받았는지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;업체들이 교장 등 교직원들과 짜고 입찰가를 높인 경우도 적발됐다. 권익위는 모듈러 교실 공급가가 올라가더라도 해당 학교가 교육청에 예산을 추가로 신청해 받아낼 수 있고, 학교 재정에는 부담이 되지 않는다는 점을 악용한 것으로 보인다고 설명했다.&lt;br&gt;&lt;br&gt;권익위는 또 모듈러 교실 공급 계약 다수가 간소화된 조달 절차인 ‘카탈로그 계약’ 방식으로 이뤄지면서 공급가가 올라갔다고 지적했다. 이 방식은 과밀 학교에 교실을 빠르게 공급하기 위해 도입됐으나, 학교와 업체 측이 짜고 공급가를 높이는 데 악용됐다. 권익위는 통상적인 총액 입찰 방식에 비해 공급가가 낮게는 1.5배에서 높게는 3배까지 높아졌다고 지적했다.&lt;br&gt;&lt;br&gt;권익위는 담합을 통해 성사된 계약 규모가 A 업체의 경우 76건 1000억원, B 업체의 경우 23건 293억원어치에 달하는 것으로 추정했다.&lt;br&gt;&lt;br&gt;권익위는 입찰 비리 관련자들에 대한 수사와 처벌을 위해 사건을 공정거래위원회와 경찰청, 조달청, 시·도 교육청 등에 이첩했다. 또 조달청과 시·도 교육청에 모듈러 교실 계약 관련 제도 개선 사항을 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“공항 폭탄 테러하겠다” 온라인 협박글 30대, 국가에 2270만원 배상</title>
-      <link>https://www.chosun.com/national/regional/2026/09/14/2ADYKBSH4VHVXJ3NIAFPX4YSQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/14/2ADYKBSH4VHVXJ3NIAFPX4YSQ4/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Sep 2026 02:24:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6TSE4THGBAJLN43P2DQP53ZSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주국제공항을 포함해 전국 5개 공항에 ‘폭탄 테러를 하겠다’는 내용의 글을 올린 30대에게 2200여 만원의 손해를 배상하라는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;제주지방법원 민사 제5-2부(부장판사 김경태)는 최근 국가가 30대 A씨를 상대로 청구한 손해배상 소송 항소심에서 원고 일부 승소 판결을 내리고, A씨가 국가에 손해배상금 2270여 만원을 지급하라고 판시했다. 다만 손해배상액은 1심 2900만원보다 다소 줄었다.&lt;br&gt;&lt;br&gt;A씨는 2023년 8월 6일과 7일 인터넷 사이트에 제주를 비롯한 전국 5개 공항에 폭탄 테러를 하러 간다는 내용의 글을 올렸다. 글에는 사람들을 향해 흉기를 휘둘러 살해하겠다는 내용도 있었다. &lt;br&gt;&lt;br&gt;당시 A씨는 해외 IP를 사용하고 휴대전화와 컴퓨터를 초기화하는 등 치밀하게 범행을 저질렀다. 경찰은 A씨의 불법 행위에 따른 손해배상을 청구했다. A씨의 불법 행위로 불필요한 비용을 지출하게 됐다는 취지다.&lt;br&gt;&lt;br&gt;A씨는 국가가 국민의 생명과 신체를 보호해야 하는 의무를 이행했을 뿐이어서 자신의 불법 행위로 인한 손해가 발생하지 않았다고 주장했지만, 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수험생 전형료로 매년 160억 버는데…수시 원서 시스템 장애에도 관리·감독 사각지대</title>
@@ -939,63 +1002,6 @@
         <media:description type="plain">6일 서울 강남구 강남종로학원 대강당에서 열린 종로학원 9월 모의평가 긴급분석 및 2027 수시대학 최종 결정 파이널 설명회를 찾은 학부모들이 자료를 살펴보고 있다. 2027학년도 입시는 내신 9등급제와 통합 대학수학능력시험(수능)으로 치러지는 마지막 해로 오는 7일부터 대학입학 수시모집 원서접수가 시작된다. 2026.9.6 ⓒ 뉴스1 김진환 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">Jin KIM</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 9월 14일</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/14/U5S5S6QAM5GA3O37LHHPZUDSU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/14/U5S5S6QAM5GA3O37LHHPZUDSU4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Sep 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQBPAYVYS5EBLLVP4VJRBHSQLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 멸치와 시금치는 따로 드세요</title>
-      <link>https://www.chosun.com/culture-life/living/2026/09/14/4NLZVCWAOVEW3BDLJJJ7Z2YJLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2026/09/14/4NLZVCWAOVEW3BDLJJJ7Z2YJLE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Sep 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKDREVG655FIJMNXFU56KLCKG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멸치와 시금치는 따로 먹는 게 좋다. 시금치에 들어 있는 수산(옥살산) 성분이 칼슘 흡수를 방해할 수 있기 때문이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교도소 신·증축 시급하지만 ‘주민 반대’에 막혀… 60년 넘은 곳도 그대로</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/14/QJJJOSZ6C5EURHIRJJC42QCOIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/14/QJJJOSZ6C5EURHIRJJC42QCOIU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BPMBXMMQVDGZIET4QHAEDZSPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 대전교도소에서 본지 김희래 기자가 교도관복을 입고 기동순찰팀(CRPT) 근무자와 함께 근무 체험을 하고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안양교도소는 1963년 지어져 올해로 63년이 됐다. 지난해 법무부가 안전 진단을 해보니, 89개 동(棟) 중 34개 동이 ‘조속한 보수·보강 필요’ 등급인 C등급을 받았다. 시설이 낡으면서 수압이 약해서 수시로 물이 끊기는 일도 발생한다. 1700명 정원에 2284명이 있어 수용률은 134.4%나 된다. 전국 평균(127.7%)보다 훨씬 높다. 1997년부터 신축·이전이 추진됐지만 지역 반대에 부딪혀 30년째 시작도 못하고 있다.&lt;br&gt;&lt;br&gt;국내 교정시설의 노후화와 과밀화 문제는 심각한 수준이다. 주민 반대나 예산 부족 등으로 시설 확충이 어려우니 낡은 교도소에 수용자들을 정원을 초과해 밀어넣고, 그러다 보니 환경은 갈수록 열악해진다. ​법조계에서는 “시설의 노후화와 수용자 과밀화는 결국 교도관들을 위기에 몰아넣고 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;13일 법무부에 따르면, 전국의 교도서와 구치소 등 교정시설은 총 55곳이다. 이 가운데 지어진 지 30년이 넘은 시설이 30곳으로, 약 55%나 된다. 이중 40년 넘은 곳이 20곳(36.4%)에 달한다. 한여름에 에어컨 대신 선풍기가 돌아가고, 중간중간 전기나 물이 끊기는 곳도 있다. 한 교도관은 “노후된 교정시설의 여름은 말 그대로 더위와 지린내를 견뎌야 하는 시기”라며 “수용자도, 교도관도 모두 예민해져서 사고의 위험도 더 커진다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5U4SH4TORFPXJWCOXHROQBHVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 기준 국내 교정시설 과밀수용률은 127.7%에 달한다. 영국(105.6%)이나 캐나다(102.2%), 일본(47.3%) 등 해외 국가와 비교해도 월등히 높다. 일부 교정시설에선 코로나 당시 임시 격리시설로 설치했던 컨테이너까지 임시 감방으로 쓰고 있다고 한다. &lt;br&gt;&lt;br&gt;법무부가 교정시설 신·증축을 추진하고 있지만, 번번이 지역 주민들 반대에 부딪힌다. 부지 확보 단계부터 준공까지 사업이 장기간 표류하는 경우가 대부분이다. 2023년 1월 지어진 거창구치소는 계획부터 준공까지 12년이나 걸렸다. 주민 반대로 도중에 2~3년 공사가 중단됐기 때문이다. &lt;br&gt;&lt;br&gt;법무부는 2030년까지 창원교도소 등 3곳을 이전하고, 제주교도소 등 9곳은 증축, 화성여자교도소 등 3곳은 신축을 각각 추진 중이다. 하지만 한 법무부 관계자는 “주민들 반대에 예산 확보도 쉽지 않아 지금 추진 중인 교정시설 이전이나 증축도 다 지어질 때까지 얼마나 걸릴지 솔직히 알 수 없다”고 털어놨다. &lt;br&gt;&lt;br&gt;한편 경북 청송군은 ‘교도소 중의 교도소’로 악명 높던 청송교도소가 있던 곳이다. 이 지역 주민들이 교도소 이름을 바꿔달라고 30년 가까이 매달려 2010년 경북북부제1~3교도소, 직업훈련교도소 등으로 이름이 변경됐다. 그랬던 청송군이 최근에는 신규 교정시설을 유치해 ‘교정타운’을 만들겠다고 한다. 인구 감소가 가팔라지자 교도관들이 정착할 수 있도록 교정공무원 관사, 교육시설 등을 조성하겠다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7BPMBXMMQVDGZIET4QHAEDZSPQ.jpg?auth=f91a502761e28086653804c6f70f14f1d1c6e8174e78b36366fe82b02f730067&amp;smart=true&amp;width=5276&amp;height=3493" type="image/jpeg" height="3493" width="5276">
-        <media:description type="plain">2일 오후 대전교도소에서 본지 김희래 기자가 교도관복을 입고 기동순찰팀(CRPT) 근무자와 함께 근무 체험을 하고 있다. /신현종 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>해외선 전문 교도관 양성… “각 잡힌 재소자들, 태도부터 다르더라”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/14/RONQB3SMUBBGBHOO5WDWYACPZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/14/RONQB3SMUBBGBHOO5WDWYACPZY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>작년 3월 싱가포르 교정시설을 방문했던 법무부 교정본부 서기관 A씨는 ‘각 잡힌’ 수용자들을 보고 충격을 받았다. 싱가포르 인구는 약 600만명, 한국(약 5160만명)의 11% 수준이지만, 수용자 수(인구 10만명당 178명)는 한국(115명)보다 많다. 그런데도 교정시설 내 질서는 한국보다 훨씬 엄격했다는 것이다. A씨는 “싱가포르는 수용 질서 확립이 무엇보다 우선이었다”며 “수용자 인권만 강조되는 국내 현실과 대비돼 씁쓸했다”고 했다. 작년 6월 일본 교정시설을 찾았던 교정본부 사무관 B씨도 비슷한 느낌을 받았다고 한다. “국내에선 최고 징벌이 30일 이내 독거실 수용이지만, 일본은 60일까지도 가능해 수용자들이 규정을 엄격하게 지키고 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERPVJTNFIREITAZ3OHKN3GXKNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 대전교도소에서 본지 김희래 기자가 기동순찰팀(CRPT) 교도관 근무를 체험하고 있다. 기동순찰팀은 교도소 질서 유지와 돌발 상황 대응 등 업무를 담당한다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇美·英 등은 독립 조직이 교정 업무&lt;/b&gt;&lt;br&gt;&lt;br&gt;미국 콜로라도주(州) 교정부는 예산 집행이 독립적으로 이뤄진다. 콜로라도주 교정 예산은 1조9000억원대, 우리나라 전체 교정 예산(1조9800억원)과 비슷했다. 연방 정부도, 주(州) 정부도 교정부의 예산 집행에 일일이 간섭하지는 않는다. 그러다 보니 교도관들이 다양한 프로그램 아이디어도 내고, 실정에 맞는 시설도 마련한다고 한다. 반면 우리나라는 법무부 산하 교정본부가 전국 교도소와 구치소 관리 등을 한다. 법무부가 예산을 종합적으로 결정하는데, 교정 업무가 검찰이나 출입국, 외국인 정책보다 후순위로 밀려나는 경우가 많다.&lt;br&gt;&lt;br&gt;세계 224개국 교정 관련 데이터베이스 ‘월드 프리즌 브리프’(WPB) 등에 따르면, 영국·캐나다·프랑스·네덜란드·스웨덴 등은 교정 업무가 법무부에 속해 있지만, 우리 검찰청처럼 자율성과 독립성이 보장된 외청(外廳)으로 분리돼 있다. 뉴질랜드와 남아프리카공화국은 교정부 등으로 아예 독립된 정부 부처가 있다.&lt;br&gt;&lt;br&gt;이렇다 보니 우리나라 교정 공무원의 수용 부담은 클 수밖에 없다. 한국의 교정직 1인당 수용 인원은 3.9명으로 영국 1.4명, 일본 1.8명, 프랑스 2.1명 등보다 훨씬 높다. 교정 선진국으로 분류되는 덴마크(0.9명)나 노르웨이(0.8명)와는 비교도 안 된다. 교정 시설당 평균 수용 인원도 한국은 1175명이지만, 다른 나라는 많아야 세 자릿수 정도다. 법무부 관계자는 “4교대 근무나 휴직자, 사무직 근무자 등을 제외하면 실제 1인당 수용 인원은 이보다 훨씬 더 많다”며 “야간에는 교도관 1명당 30~40명을 담당해야 하는 경우도 있다”고 했다. &lt;br&gt;&lt;br&gt;교도관 처우도 열악한 편이다. 노르웨이에선 교도관이 교정대학(KRUS)에서 2년간 교도관 교육 프로그램을 이수해야 정규직 교도관이 될 수 있는 전문직으로 분류된다. 또 호주는 교도관들의 중위 소득(주급)이 작년 기준 약 1901~2460호주달러로 평균(1531~1900호주달러)보다 높았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSHOV56UDZBDFHFNJDVX7TXQMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“교정청, 재범 방지 기관으로 만들어야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;전문가들은 “한국도 이제 교정본부를 별도의 외청으로 독립시켜 선진 교정 시스템을 갖춰야 한다”고 지적한다. 교정청에 대한 논의는 1982년 전두환 전 대통령 이후 정권이 바뀔 때마다 검토됐다. 관련 법안만 총 6차례 발의됐지만 모두 실현되지 못했다. 현 정부 들어서도 교정청 신설을 담은 정부조직법 개정안(더불어민주당 채현일 의원 대표 발의)이 국회에 계류 중이다.&lt;br&gt;&lt;br&gt;교정 공무원은 작년 기준 1만6278명, 법무부 전체 인원(2만4619명)의 약 66.1%를 차지한다. 해양경찰청(약 1만3300명), 질병관리청(약 1600명) 등 다른 외청들보다 큰 규모인데도 수십년째 독립하지 못하고 있는 것이다. 김병배 경기대 범죄교정심리학전공 교수는 “법무부 산하에 있으면 단순 인력 증원이나 시설 확충 정도밖에 할 수 없지만, 교정청으로 독립하면 보안·의료·심리 등 다양한 분야의 전문 인력을 배치·관리할 수 있다”고 했다. 양중진 법무법인 솔 대표변호사도 “교정청이 신설되면 단순 형 집행기관을 넘어 재범 방지 기관으로서 역할을 하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;임대기 법무부 교정정책자문위원장은 “교정 공무원들의 처우 개선과 사기 진작은 수용자 재사회화와 재복역률 감소로 이어져 결국 건강한 사회를 만드는 데 큰 역할을 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“냉동창고 일주일만 빌려주실 분” 파주 카페주인, 부산까지 수소문</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/14/L6UIKPKHGVHMHBCVKG6QT6U2RE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/14/L6UIKPKHGVHMHBCVKG6QT6U2RE/</guid>
-      <dc:creator>파주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Sep 2026 15:46:00 +0000</pubDate>
-      <content:encoded>‘파주 카페 냉동창고 살인사건’ 피의자는 범행 일주일 전 부산에서 냉동창고를 주문·설치하면서 “일주일만 쓸 것 같다”고 말한 것으로 드러났다. 경찰은 피의자 A(39)씨가 범행 전 냉동창고를 들여놓은 경위와 목적을 조사하고 있다.&lt;br&gt;&lt;br&gt;13일 경기 파주경찰서 등에 따르면, A씨는 지난달 27일 오전 4시 30분부터 7시 30분 사이 자신이 운영하는 카페 옆에 냉동창고를 설치했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L656TT2LNRHQPCG7VE5JLSROO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 60대 여성이 숨진 채 발견된 경기 파주시 문산읍의 카페. ‘내부 사정으로 휴무한다’는 안내문이 서 있다. 지난 7일 찍은 사진이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 앞서 지난달 25일 다른 냉동창고 업체에 먼저 연락해 “내일 당장 설치해 달라”고 요구한 것으로 알려졌다. 하지만 업체 측이 일정이 촉박해 어렵다고 하자 부산에 있는 업체까지 수소문한 것으로 전해졌다. 파주에서 부산까지는 400여㎞ 거리다.&lt;br&gt;&lt;br&gt;이 냉동창고는 약 30㎡ 크기의 컨테이너였다. A씨는 냉동창고를 주문하며 “카페를 리모델링하는 데 식자재를 보관할 냉동창고가 필요하다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;냉동창고 온도 조절 방법 등을 물은 뒤 “냉동창고를 일주일만 쓸 것 같다”고 말한 사실도 확인됐다. 경찰 조사 결과 이 카페는 실제 리모델링을 하지 않았다고 한다. A씨는 추운 냉동창고에선 상품권의 위조 여부를 꼼꼼하게 살피기 어려울 것으로 생각했다고 진술했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월부터 가짜 상품권 제작을 준비한 것으로 알려졌다. 7월 말 인쇄업체를 찾아가 “영화 촬영용으로 쓰려고 한다”며 상품권 제작을 맡겼다고 한다. &lt;br&gt;&lt;br&gt;이후 지난달 27일 카페 옆에 냉동창고를 설치했고 일주일 뒤인 지난 3일 상품권의 진위 여부를 감정하기 위해 카페를 찾은 60대 B씨를 냉동창고에 가뒀다. A씨와 B씨는 이날 처음 만났다고 한다. B씨는 A씨와 상품권 매입 계약을 한 제3자의 의뢰로 카페를 찾은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;B씨는 다음 날 냉동창고 안에서 숨진 채 발견됐다. 당시 냉동창고 내부 온도는 영하 18도 안팎이었다. B씨는 출입구 쪽에서 얼어붙은 채 발견됐다. 국립과학수사연구원은 B씨 시신에서 별다른 외상이 발견되지 않았다는 구두 소견을 경찰에 전달했다. 냉동창고 안에서는 액면가 500억원 상당의 가짜 백화점 상품권도 발견됐다. 50만원권 10상자 분량이었다. 상품권에는 ‘촬영용’이라고 적혀 있었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 언제부터 B씨를 살해할 생각을 했는지 수사하고 있다. &lt;br&gt;&lt;br&gt;A씨는 B씨를 냉동창고에 가둔 직후 AI(인공지능)에 ‘냉동창고에 사람이 있으면 어떻게 되느냐’고 물었다. 범행 당일에는 카페 직원들에게 출근하지 말라고 한 뒤 가게 문을 닫은 것으로 조사됐다. A씨는 B씨를 가둔 뒤 시신이 발견되기 전까지 약 26시간 동안 냉동창고를 여러 차례 드나들었다. &lt;br&gt;&lt;br&gt;A씨 진술도 오락가락하고 있다. 수사 초기에는 “살인을 위해 냉동창고를 주문했다”고 했다가 “B씨가 상품권이 가짜라는 사실을 눈치채 가뒀다”고 진술을 바꾼 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 14일 A씨를 살인 혐의로 검찰에 구속 송치하면서 수사 결과를 발표할 예정이다. 가짜 상품권 제작·유통에 관여한 인물들에 대한 수사는 계속한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>DDP서 광화문까지, 車 없는 거리 즐겨요</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/14/KV6LPPVRONGQ5LOTPVQAFCUBU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/14/KV6LPPVRONGQ5LOTPVQAFCUBU4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Sep 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXQYBUGHT5DBHMXMQUJVOHV3SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 28일 ‘서울 걷자 페스티벌’에 참가한 시민들이 종로구 율곡터널 안을 지나고 있다. 비가 내려 우산을 쓰거나 비옷을 입었다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선선한 가을, 차 없는 서울 도심 도로를 맘껏 걸을 수 있는 ‘2026 서울 걷자 페스티벌’이 오는 20일 열린다. 올해 13회째를 맞는 서울 걷자 페스티벌은 서울시와 조선일보사가 공동 주최하는 국내 대표 걷기 행사다. 지난달 10일 참가자 모집을 시작한 지 이틀 만에 5000명 접수가 마감됐다.&lt;br&gt;&lt;br&gt;참가자들은 20일 오전 8시 서울 중구 동대문디자인플라자(DDP)를 출발해 흥인지문, 율곡터널, 창덕궁, 안국역, 경복궁을 거쳐 광화문광장까지 총 4.4㎞를 걷는다. &lt;br&gt;&lt;br&gt;코스 곳곳에서 다양한 이벤트가 열린다. 길이 310m인 율곡터널 내부에 LED 조명을 설치해 클럽처럼 꾸미고, DJ가 선곡한 음악을 튼다. 교차로 3곳에서는 대학생 응원단이 치어리딩 공연을 한다. 골인 지점인 광화문광장에서는 비보잉, 마술, 서커스 공연이 열린다. 올해는 ‘찾아가는 체력장’ 부스를 처음 운영한다. 참가자들은 자신의 체력을 측정하고 맞춤 운동 상담을 받을 수 있다. 서울시는 체력장에 들른 참가자들에게 ‘손목닥터9988(서울시 건강 관리 앱)’ 포인트 1000점도 준다. &lt;br&gt;&lt;br&gt;행사 당일 오전 6시부터 11시까지 참가자 행렬에 맞춰 구간별로 차량 운행이 통제된다. DDP 앞 도로는 오전 6시부터 8시 25분까지 통제된다. 율곡터널 안국역 방향 차로는 당일 0시부터 오전 11시까지 통제된다. 코스를 지나는 시내버스와 마을버스, 공항버스는 우회 운행한다. 교통 통제 정보는 행사 홈페이지(walkseoul.com)나 120 다산콜센터를 통해 확인할 수 있다. 한정훈 서울시 교통운영관은 “평소 자동차로 가득 찬 도심 도로를 시원하게 개방하는 날”이라며 “여유롭게 걸으며 도심 명소도 둘러보는 특별한 경험을 즐기시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘매맞는 교도관’ 4배로 늘어… 인력 증원은 제자리</title>
