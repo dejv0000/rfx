@@ -13,6 +13,76 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, ‘포스코 하청업체 분리교섭’ 중노위 결정 효력 정지</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/18/CPSKS5SHJJH3TIZY5NYVNAGTPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/18/CPSKS5SHJJH3TIZY5NYVNAGTPE/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Sep 2026 11:28:49 +0000</pubDate>
+      <content:encoded>포스코와 동희오토의 하청 노동조합 교섭단위를 분리한 중앙노동위원회의 결정 효력이 18일 법원에서 정지됐다. 두 사건은 노란봉투법과 관련한 집행정지 신청을 법원이 인용한 첫 사례다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZWGMJRGMZTAN3EGQ2GGYZWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 있는 서울행정법원의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정14부(재판장 이상덕)는 이날 포스코가 중노위를 상대로 낸 집행 정지 신청을 각각 받아들였다. 재판부는 “포스코에 생길 회복하기 어려운 손해를 예방하기 위해 그 집행을 정지할 긴급한 필요가 있다고 인정된다”며 “달리 그 정지로 인해 공공복리에 중대한 영향을 미칠 우려가 있다고 보기도 어렵다”고 판단했다. 동희오토에 대해서도 같은 취지로 인용했다.&lt;br&gt;&lt;br&gt;이번 사건은 지난 3월 한국노총 금속노련이 포스코에 단체교섭을 요구하자, 또 다른 하청노조인 민주노총 소속 노조들이 교섭 단위 분리 신청을 하면서 시작됐다.&lt;br&gt;&lt;br&gt;경북지방노동위원회는 포스코의 하청 노조 가운데 민주노총 금속노조와 전국플랜트건설노조의 교섭 단위 분리 신청을 받아들였다. 노조별 업무 성격과 이해관계 등이 달라 원청과의 교섭을 따로 진행할 필요성을 인정한 것이다. 이 같은 결정은 지난 6월 중노위에서도 유지됐다.&lt;br&gt;&lt;br&gt;이에 불복한 포스코는 “중노위 결정을 취소해달라”는 행정소송을 내면서 집행정지 신청을 함께 냈는데, 이 신청이 받아들여진 것이다. 중노위가 분리 교섭을 결정한 것이 위법했는지 등은 본안에서 다뤄질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 경찰, 자녀 등원길서 말다툼 시비 학부모 때려 입건 </title>
+      <link>https://www.chosun.com/national/2026/09/18/JUAXTXE4W5FKHEFDOES7H52XJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/18/JUAXTXE4W5FKHEFDOES7H52XJA/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Sep 2026 11:32:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3GIMJXGNRGKMJYG4ZGGOJQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천경찰서. /조선일보DB &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰관이 자녀를 어린이집에 데려다주던 중 마주친 다른 학부모를 폭행한 혐의로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경기 과천경찰서는 폭행 혐의로 서울경찰청 소속 30대 남성 A씨를 불구속 입건했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오전 9시쯤 경기 과천시의 한 아파트 단지 내 어린이집 인근에서 다른 학부모인 30대 남성 B씨의 목 부위를 주먹 등으로 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 자녀를 등원시키던 중 평소 감정이 좋지 않던 B씨와 마주쳐 시비가 붙자 범행을 저지른 것으로 조사됐다. 피해자 B씨는 목 부위를 다쳐 인근 병원에서 치료를 받았다. &lt;br&gt;&lt;br&gt;B씨는 경찰 조사에서 “A씨가 갑자기 비속어를 쓰며 시비를 걸어왔고, 내 아이까지 언급하며 모욕적인 발언을 했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현장 인근 감시카메라(CCTV) 분석 등 기초 조사를 거쳐 A씨를 피의자 신분으로 입건했다. 경찰 관계자는 “신고 접수 후 절차에 따라 수사를 진행하고 있다”며 “구체적인 사건 내용에 관해서는 확인해 줄 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통장들 “대면 조사 어려워”... 부천시, 1만7000명 주민 정보 유출했다</title>
+      <link>https://www.chosun.com/national/incident/2026/09/18/INNKNFMBBBAGLCDR52ZYZHEFCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/18/INNKNFMBBBAGLCDR52ZYZHEFCQ/</guid>
+      <dc:creator>부천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Sep 2026 09:18:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZWEZRUMMZWINRTGE2DONZQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천시청./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천시에서 주민등록 사실조사 중 주민 1만7000여 명의 개인 정보가 통장들에게 유출된 것으로 드러났다. &lt;br&gt;&lt;br&gt;18일 부천시 등에 따르면 오정구 원종1동 주민센터는 지난 10일 ‘2026 주민등록 사실조사’ 대면 조사 대상 주민 1만7164명의 개인 정보를 출력해 통장 22명에게 전달했다. &lt;br&gt;&lt;br&gt;출력물엔 조사 대상 주민의 이름과 주민등록번호, 주소, 휴대전화 번호 등이 포함돼 있던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;부천시는 지난 16일 “동사무소에서 개인 정보가 유출됐다”는 제보 내용을 확인하고, 배부 자료를 모두 회수해 파기했다. 또 17일에는 통장 22명에게서 개인 정보 미사용 확인서를 받았다. &lt;br&gt;&lt;br&gt;부천시 관계자는 “대면 조사에 어려움을 호소하는 통장들의 건의 후, 이 같은 일이 있었던 것으로 파악된다”며 “개인 정보 관리에 미흡한 부분이 확인된 만큼, 재발 방지를 위해 적극 나설 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>암 치료 세계 톱10에 한국 병원 2곳 </title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/09/18/YYOTB3AZJVDCXIWEOENO54QHMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/09/18/YYOTB3AZJVDCXIWEOENO54QHMI/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Sep 2026 08:50:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOJS5JIAXZC4PHBHDZKSV5LUFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성서울병원 의료진들이 흉강경으로 폐암 수술을 진행하고 있는 모습. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원, 서울아산병원 등 국내 병원 2곳이 미국 시사주간지 뉴스위크 선정 ‘세계 최고 전문 병원’ 평가에서 암(癌) 치료 분야 10위 안에 들었다. 지난해 발표때만 해도 서울대병원까지 총 3곳이었지만, 이번에 서울대병원이 11위(작년 8위)로 내려가면서 줄어들었다. 이는 뉴스위크가 독일 글로벌 마케팅 조사 업체인 ‘스타티스타’에 의뢰해 세계 30국 의료진 수만 명을 설문 조사한 결과다. &lt;br&gt;&lt;br&gt;뉴스위크 발표에 따르면, 삼성서울병원이 세계 5위, 서울아산병원이 6위를 차지했다. 두 병원은 지난해 각각 3위와 4위였지만, 올해 나란히 두 계단씩 내려갔다. 한 대형 병원 관계자는 “뉴스위크 평가는 의료 기술뿐 아니라 서비스와 치료 후 관리도 평가한다”며 “한국 병원들도 이런 부분을 신경 써왔지만 외국 암 병원들이 최근 더 힘을 쏟으면서 약진한 것으로 보인다”고 했다. 세계 최고 암 병원 1위와 2위는 지난해와 마찬가지로 미국의 메모리얼 슬로언 케터링 암센터와 MD앤더슨 암센터가 각각 차지했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFEVJ2SSCZDAZNRZVBNSVUTK5Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 병원의 경우, 다른 진료 분야에서 순위가 오른 경우도 있었다. 내분비 분야에서 서울아산병원이 지난해 4위에서 올해 2위로 상승했다. 서울대병원은 5위에서 6위로 내려갔지만 세브란스병원이 12위에서 10위로 올라, 이 분야 세계 10위권 한국 병원은 2곳에서 3곳으로 늘었다. 비뇨기 분야에서도 서울대병원(3위), 서울아산병원(5위), 삼성서울병원(9위) 등 3곳이 10위 안에 들었다.&lt;br&gt;&lt;br&gt;한국 병원이 세계 10위권에 오른 진료 분야는 지난해 6개에서 올해 8개로 늘었다. 내분비·소화기·비뇨기·암·신경·정형에 소아·신장이 추가됐다. 서울대어린이병원이 소아 분야에서 11위에서 8위로 올랐고, 올해 처음 평가한 신장 분야에서는 서울아산병원이 9위를 기록했다. &lt;br&gt;&lt;br&gt;병원별로는 서울아산병원이 6개 분야에서 세계 10위 안에 들어 국내에서 가장 많았다. 삼성서울병원과 서울대병원은 각각 3개, 세브란스병원은 2개였다. 박승일 서울아산병원장은 “앞으로도 환자 중심의 진료를 강화해 나갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GUJKNB2LPFAOFK6WFB65KGNC5Y.jpg?auth=5f5f38ff057cd96fa0a3eee0681b65e8bb1041d2ed5465ba8d3f21329be8ef7f&amp;smart=true&amp;width=2600&amp;height=1463" type="image/jpeg" height="1463" width="2600">
+        <media:description type="plain">김홍관 삼성서울병원 폐식도외과 교수가 흉강경으로 폐암 수술을 진행하고 있다. /삼성서울병원</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>퇴근길 여의도역 에스컬레이터 화재…인명 피해 없어</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/18/YQ43MNGUNFCFNO2T5EKMHRNH6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/18/YQ43MNGUNFCFNO2T5EKMHRNH6A/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Sep 2026 10:39:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KG4CE4PSPZBXXJ7TIRXQA45SHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·chatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오후 퇴근 시간대 서울 지하철 여의도역에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;소방에 따르면 이날 오후 5시 49분쯤 서울 영등포구 여의도역 5번 출구 에스컬레이터에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;불은 약 45분 만인 오후 6시 34분쯤 완전히 꺼졌다. ‘5번 출구 에스컬레이터에서 연기가 난다’는 신고를 접수한 소방은 차량 14대와 인원 58명을 투입했다. &lt;br&gt;&lt;br&gt;이 불로 인명 피해는 발생하지 않았지만 이용객들이 대피하는 등 혼란이 빚어졌다. &lt;br&gt;&lt;br&gt;여의도역 5번 출구는 폐쇄된 상태지만 지하철은 정상 운행 중이다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 발화 원인과 재산 피해 규모를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, 구삼회·방정환 ‘계엄 가담 군인’ 징역 7년 구형...10월 30일 선고</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/18/XX46QAQYANC5HITXPQ67BXHKAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/18/XX46QAQYANC5HITXPQ67BXHKAI/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Sep 2026 09:16:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3DQOJSMU4TINZWGE4TOMJUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방정환 전 국방부 국방혁신기획관(왼쪽). 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특별검사팀이 12·3 비상계엄에 가담한 혐의를 받는 구삼회 전 육군1군단 2기갑여단장 군인 8명에게 실형을 구형했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사38-2부(재판장 정수영)는 18일 내란중요임무종사 등 혐의를 받는 전직 군인들에 대한 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;특검은 구 전 여단장과 방정환 전 국방부 혁신기획관, 김정근 전 특전사 3공수여단장에게 각각 징역 7년을 구형했다. 안무성 전 9공수여단장과 김상용 전 국방부조사본부 차장, 김창학 전 수도방위사령부 군사경찰단장에게도 각각 징역 7년을 구형했으며, 정성우 전 방첩사령부 1처장과 김세운 전 특수작전항공단장에게는 각각 징역 5년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;특검은 이들에 대해 “윤석열 전 대통령과 김용현 전 국방부 장관, 노상원 전 정보사령관 등이 아무리 치밀하게 계획했더라도 이를 실행할 사람이 없었다면 담화문 발표 직후 (비상계엄이) 흐지부지되고 말았을 것”이라며 “피고인들은 임무를 거부할 힘과 시간이 있었음에도 내란 가담을 스스로 선택했다”고 주장했다. 그러면서 “피고인들은 군인의 본분도, 시민의 본분도 망각한 채 자신의 행위를 ‘기계적 복종’으로 포장하고 있다. 이는 국민의 상식에 대한 기만이고 도전”이라고 했다.&lt;br&gt;&lt;br&gt;피고인들은 혐의를 부인했다. 구 전 여단장은 “(계엄 당시) 저는 명령 발령에만 이용됐고, 역할이 거의 없었다”며 “그 누구도 명확하게 임무와 역할을 말해준 사람이 없다”고 했다.&lt;br&gt;&lt;br&gt;방 전 기획관은 “사전에 장관이나 누구로부터 비상계엄 설명을 받은 적이 없고, 지휘 감독이 전혀 이뤄질 수 없는 상황이었다”며 “누군가의 목적과 계획에 포함됐다는 이유만으로 내란중요임무종사라는 어둡고 긴 터널을 지나고 있다”고 호소했다. 김 전 여단장 측은 “여기 있는 군인들은 윤석열 전 대통령 등의 지시를 받은 도구에 불과하다”고 했으며, 정 전 1처장 측도 “국헌문란의 목적이 존재하지 않고 폭동 행위도 없었다”고 했다.&lt;br&gt;&lt;br&gt;구 전 여단장과 방 전 기획관은 2024년 12월 3일 경기 안산의 한 롯데리아 매장에서 노 전 사령관을 만나 선거관리위원회를 상대로 부정선거 수사를 하기 위한 ‘수사 2단’의 단장과 부단장직을 맡기로 하는 등 계엄에 가담한 혐의로 기소됐다. 다른 피고인들은 국회 등에 병력을 투입하는 등의 방식으로 계엄에 관여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피고인들에 대한 선고 공판은 다음 달 30일 오전 10시에 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 9월 19일 토요일 (음력 8월 9일 丙申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/18/ZQOQDSHXJNHUBH3XXZMWYLLXGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/18/ZQOQDSHXJNHUBH3XXZMWYLLXGA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>‘故 이선균 수사 정보 유출’ 검찰 수사관, 징역형 집유</title>
       <link>https://www.chosun.com/national/court_law/2026/09/18/T4DKUGQYJJDGRGSUL4BBWONNKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/18/T4DKUGQYJJDGRGSUL4BBWONNKY/</guid>
@@ -805,83 +875,6 @@
       <description/>
       <pubDate>Thu, 17 Sep 2026 04:42:15 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTINZTMU4GCOBSGJRTKYRYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 윤석열 전 대통령을 청탁금지법 위반 혐의로 불구속 기소했다고 17일 밝혔다. 배우자 김건희 여사가 최재영에게서 명품 가방을 받은 사실을 알고도 신고 의무를 이행하지 않았다는 혐의다. 검찰은 이날 김 여사의 도이치모터스 주식 거래와 관련해 윤 전 대통령이 허위 발언을 했다는 공직선거법 위반 혐의는 불기소 처분했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 2024년 10월 김 여사의 가방 수수와 대통령 직무 사이 관련성이 없다는 이유로 이 사건을 불기소 처분했다. 이후 김건희 특검이 사건을 재수사했고, 경찰은 지난 6월 윤 전 대통령 사건을 기소 의견으로 검찰에 송치했다. &lt;br&gt;&lt;br&gt;이에 검찰은 가방을 건넨 최재영씨의 법정 증언과 김 여사의 알선수재 사건 재판부가 지난 6월 직무 관련성을 인정한 점 등을 다시 검토했다. 그 결과 김 여사의 가방 수수에 직무 관련성이 있고 윤 전 대통령도 수수 사실을 알고 있었다고 판단했다고 한다. 그런데도 윤 전 대통령은 청탁금지법상 신고 의무를 이행하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;반면 검찰은 윤 전 대통령의 도이치모터스 관련 발언에는 공직선거법상 허위 사실 공표 혐의를 인정하기 어렵다고 봤다. 문제 된 발언은 김 여사의 도이치모터스 주식 거래와 관련해 ‘김 여사가 특정인에게 주식 거래를 맡겼다가 손실을 본 뒤 관계를 끊었다’는 취지였다. 검찰은 이 발언이 김 여사가 주가조작 혐의로 유죄 판결을 받은 2010년 10월 이후 거래가 아니라 같은 해 1~5월 거래를 대상으로 한다고 판단했다. 또 대부분 윤 전 대통령과 김 여사가 결혼하기 전에 발생한 일이고, 윤 전 대통령이 직접 경험했거나 관련 자료를 확인했다고 볼 증거도 부족하다고 봤다.&lt;br&gt;&lt;br&gt;실제 김 여사의 2010년 1~5월 도이치모터스 주식 거래는 김건희 특검이 주가조작 혐의로 기소한 범위에도 포함되지 않았다. 검찰은 이 같은 이유로 공직선거법 위반 송치 사건을 무혐의 처분했다고 밝혔다. 이 사건은 지난해 7월 김건희 특검에 이송됐다가 같은 해 12월 국가수사본부로 넘어갔고, 경찰은 지난 7월 일부 혐의만 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>행안부 “김지용 중수청장 후보자, 친윤 검사·검찰주의자 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/17/7NGDKZNQWFDIJDZFXG5F6ZZ5FE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/17/7NGDKZNQWFDIJDZFXG5F6ZZ5FE/</guid>
-      <dc:creator>박혜연 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 01:06:30 +0000</pubDate>
-      <content:encoded>행정안전부가 17일 “김지용 초대 중대범죄수사청장 후보자는 친윤 검사나 검찰주의자가 아니다”라고 했다. 중수청 개청 준비단장을 맡은 김민재 행안부 차관은 이날 정부서울청사에서 ‘초대 중수청장 후보자’ 관련 브리핑을 열고 “후보자의 과거 행정과 검찰 개혁에 관한 입장을 두고 나오는 여러 의문과 우려를 무겁게 인식하고 있다”면서 이같이 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77M7HN27XZMF5DW4AXN4A36U64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민재 중대범죄수사청 개청준비단장(행정안전부 차관)이 17일 정부서울청사에서 김지용 초대 중수청장 후보자 관련 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 단장은 김 후보자가 대검 형사부장이었던 2022년 4월 이른바 ‘검수완박(검찰 수사권 완전 박탈)’에 반대한 데 대해 “수사와 기소 분리 취지 자체를 반대한 것이 아니라, 사회적 약자와 범죄 피해자의 권리 보호를 위한 충분한 대책이 마련되지 않으면 공백이 발생할 수 있다는 점을 우려한 것”이라고 했다. &lt;br&gt;&lt;br&gt;또 김 후보자가 2020년 11월 추미애 당시 법무부 장관의 윤석열 전 검찰총장 직무집행 정지에 반대했던 것도 “윤 전 총장의 행위가 비위에 해당할 수 있으나, 징계 조치 절차 일부가 부적당하다고 판단해 직무 정지와 징계를 재고해 달라는 취지의 성명에 동참한 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 김 단장은 “오히려 김 후보자는 불기소 처분으로 종결됐던 윤 전 총장 친인척 사건을 재수사하라고 했다”면서 “이러한 사건 처리가 2022년 5월 윤석열 정부 출범 후 김 후보자가 광주고검 차장검사로 사실상 좌천된 데에 영향을 미쳤다는 의견도 있다”고 했다.&lt;br&gt;&lt;br&gt;김 단장은 김학의 전 법무부 차관 긴급 출국금지 사건과 관련해 김 후보자가 무리한 기소를 승인했다는 지적도 사실과 다르다고 설명했다. 김 단장은 “이 사건으로 기소된 관련자 4명 중 3명은 김 후보자가 대검 형사부장으로 부임하기 이전에 이미 수사가 진행돼 기소가 이뤄졌다”면서 “나머지 1명에 대해서도 김 후보자는 기소에 반대했지만 최종 결정권자가 아니었다”고 했다.&lt;br&gt;&lt;br&gt;김 단장은 채널A 사건과 관련해 정진웅 전 서울중앙지검 형사1부장이 한동훈 당시 검사장을 독직 폭행한 혐의로 기소된 사건과 관련해서도 비슷한 해명을 했다. 김 단장은 “김 후보자가 당시 서울고검 차장검사로서 수사 지휘 라인에 있었던 것은 맞지만, 부임 당시 이미 수사가 진행 중이었고 참모로서 기소에 반대했다”면서 “(이 사건도) 김 후보자는 최종 결정권자가 아니었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 김 단장은 “김 후보자는 수사 전문성과 공정성·중립성, 조직 관리 역량을 갖춘 적임자”라며 “중수청장 후보자의 자질과 역량, 과거 행적과 주요 쟁점은 앞으로 열릴 인사청문회에서 후보자가 직접 소명하고 국회가 엄밀하게 검증해 달라”고 했다.&lt;br&gt;&lt;br&gt;아울러 약 2주 앞으로 다가온 중수청 개청 준비 상황에 대해 김 단장은 “특혜 임용 지원자에 대한 인력 배치 작업을 하고 있다”며 “완벽하다고 볼 수는 없겠지만 주어진 환경에서 최선을 다해, 국민 불편을 최소화하는 방향으로 중수청 개청을 준비하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 윤호중 행안부 장관은 지난 7일 김 후보자를 초대 중수청장 후보로 제청했다. 이재명 대통령은 다음 날 김 후보자를 지명했으나 여당 일부 강경파의 반대가 계속되자 추가 검증을 지시했다. 김 후보자에 대한 인사청문요청안은 아직 국회에 전달되지 않았다. 중수청은 다음 달 2일 출범한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>롤케이크 상자에 마약 은닉...마약류 밀수·유통 일당 30명 검거</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/17/MG5XXVYDYRDNPPP2F2KLCPNZJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/17/MG5XXVYDYRDNPPP2F2KLCPNZJY/</guid>
-      <dc:creator>강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TGMK3B2BRDP3M66RI27STKNIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알루미늄 호일에 숨겨뒀던 합성마약 야바./서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 마약범죄수사대는 태국, 캄보디아 등 동남아시아에서 시가 60억원에 달하는 마약류를 들여와 유통한 일당과 운반책, 투약 사범 등 총 30명을 입건하고 17명을 구속했다고 17일 밝혔다. 경찰은 필로폰 1.25㎏, 케타민 500g 등을 압수하고 범죄 수익 2745만원을 회수했다.&lt;br&gt;&lt;br&gt;서울경찰청이 이번에 검거한 마약 밀수·유통 일당은 총 3개다. 이 중 A씨 일당은 지난해 6~10월 캄보디아의 해외 마약상 지시를 받고 소셜미디어로 운반책을 섭외해 마약을 밀수한 혐의를 받는다. 이렇게 섭외된 운반책들은 필로폰 1.25㎏, 케타민 500g 등을 해바라기씨 봉투에 숨겨 국내에 들여왔다. 필로폰 1.25㎏는 41만명이 투약할 수 있는 분량으로 시가 40억원어치다. 케타민 500g은 16만명분으로 시가는 약 16억원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3SBBQEODVAGXOORA7XWENOIHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 B씨 일당은 태국에서 국내로 밀수한 합성마약 야바를 롤케이크 상자에 숨겨두다 경찰에 적발됐다./서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;B씨는 지난 8월 태국인 해외총책이 국내로 밀수한 야바 2000정을 챙겨 롤케이크 상자에 숨겨뒀다가 국내에 체류 중인 태국인들에게 유통한 혐의를 받는다. 태국어로 ‘미친 약’이라는 뜻을 가진 야바는 필로폰과 카페인을 섞어 만든 합성 마약이다. 알약을 호일에 올려 가열한 뒤 올라오는 증기를 흡입하는 방식으로 투약된다. 경찰은 국정원으로부터 동남아발 마약 밀수 첩보를 받아 두 사건에 대한 수사에 나섰다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFX4J3OIXFH5LDDXC3NL4HMSXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 국내로 밀수되던 에토미데이트가 인천국제공항 세관검색대에서 적발됐다./서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 자체적으로 첩보를 수집해 세관과 함께 마약 밀수를 적발한 사례도 있었다. C씨는 지난 6~7월 고향 후배를 운반책으로 섭외해 에토미데이트 1000ml를 국내로 밀수한 혐의를 받는다. 경찰은 세관의 협조로 입국자 소지품 검사를 실시해 밀수되고 있던 에토미데이트를 적발했다. 에토미데이트는 급격한 혈압 저하, 심박수 이상 등을 불러오며 최악의 경우 쇼크로 사망에 이를 수 있다. 지난 2월 마약류로 신규 지정됐다.&lt;br&gt;&lt;br&gt;경찰은 아직 검거하지 못한 해외 총책에 대해 인터폴 적색 수배를 신청하는 등 수사를 이어가고 있다. 이와 함께 C씨 사건에 대한 정보를 신고한 제보자에게는 신고 포상금 1000만원을 지급했다. 경찰은 “국정원·세관 등과 협력하는 한편 신고 포상금 제도를 적극 홍보해 해외 마약류의 국내 유입을 차단할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DA6RDI7VZBAHFAK465WV5LRAUU.jpg?auth=67eb180a2ffe1e90502ea909ea449a4dc1a8fd81687ba9acfbf751f44e7561d6&amp;smart=true&amp;width=4000&amp;height=2250" type="image/jpeg" height="2250" width="4000">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>부산 해수욕장 8곳 방문객 2253만명...역대 최다 기록 경신  </title>
-      <link>https://www.chosun.com/national/regional/2026/09/17/FMJRHCHDABHFZE572AELAZAVGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/17/FMJRHCHDABHFZE572AELAZAVGQ/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 04:14:18 +0000</pubDate>
-      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYGKYTDHFQTAYZYGNSDEYRUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대해수욕장 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 부산 해수욕장을 찾은 방문객이 2253만명을 기록해 역대 최다 기록을 세웠다. &lt;br&gt;&lt;br&gt;부산시는 지난 15일 해운대해수욕장을 마지막으로 부산 지역 해수욕장 8곳을 전면 폐장했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이번 여름 부산 지역 해수욕장 방문객은 2253만명으로, 전년 대비 2.54% 증가했다. 역대 최다 기록을 경신했다.&lt;br&gt;&lt;br&gt;지난해에 이어 2년 연속 2000만명을 넘었다.&lt;br&gt;&lt;br&gt;해운대해수욕장은 폐장 시점 기준 전국 해수욕장 최초로 방문객 1000만명을 돌파했다. 올해 해운대해수욕장은 6월 26일부터 9월 15일까지 운영됐다. 해운대구는 올여름 이어진 기록적인 폭염과 외국인 관광객 증가가 맞물리면서 해운대해수욕장 방문객이 크게 늘어난 것으로 분석했다.&lt;br&gt;&lt;br&gt;송도해수욕장 방문객은 지난해 대비 5.96% 증가한 320만명으로, 해운대·광안리 다음으로 많았다.&lt;br&gt;&lt;br&gt;시는 해수욕장 공식 운영이 종료된 후에도 안전사고 예방을 위해 안전 관리와 계도 활동을 계속한다.&lt;br&gt;&lt;br&gt;시는 11월 해수욕장 운영 결과 보고회를 열어 운영 성과를 진단하고 미비점을 보완한다.&lt;br&gt;&lt;br&gt;나윤빈 시 관광마이스국장은 “사계절 언제나 찾고 싶은 ‘해양 레저 관광 도시 부산’을 만들어가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>안산 차량 정비 업체 화재…8명 자력대피</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/17/ONGDM45CGBCPBFDFMP5QLFSCWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/17/ONGDM45CGBCPBFDFMP5QLFSCWQ/</guid>
-      <dc:creator>안산=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 04:11:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산의 한 차량 정비 업체에서 화재가 발생해 소방당국이 진화 작업에 나섰다.&lt;br&gt;&lt;br&gt;17일 경기도소방재난본부에 따르면 이날 오전 11시 2분쯤 안산시 상록구 사동의 한 차량 정비 업체에서 불이 났다.&lt;br&gt;&lt;br&gt;“가게에서 불이 났다”는 목격자의 신고를 받고 출동한 소방당국은 장비 18대와 인력 54명을 동원해 불을 끄고 있다.&lt;br&gt;&lt;br&gt;현재까지 관계자 등 8명이 자력 대피했으며 인명피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;소방당국은 불을 끄는대로 정확한 화재 원인 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 공항·백화점 폭파 협박범에 손해배상 청구 잇따라 승소</title>
-      <link>https://www.chosun.com/national/incident/2026/09/17/K64P5MLWZBBJRIDOAISGH4YOMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/17/K64P5MLWZBBJRIDOAISGH4YOMY/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 03:47:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI3TSOJTGE2DQZBZMNQTSOJRMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 17일 “최근 국민적 불안과 사회적 혼란을 일으키고 불필요한 치안력 낭비를 유발하는 공중협박·거짓신고 사건에 대해 제기한 손해배상 청구 소송에서 연달아 승소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 제주지법은 지난 8일 제주공항 등 국내 5개 공항에 대해 폭파 협박 글을 올린 게시자를 상대로 제기한 손해배상 청구 소송의 항소심에서 게시자의 불법행위 책임을 인정하면서 2277만원을 배상하라고 판결했다. 이 게시자는 2023년 8월 디시인사이드에 협박 글을 6차례 게시했고, 경찰은 이로 인해 공항 치안 유지 및 범인 검거를 위해 18일 동안 경력 571명을 투입했다.&lt;br&gt;&lt;br&gt;지난 8월에는 서울중앙지법이 신세계백화점 폭파 협박 글을 올린 게시자에게 1256만원 배상 판결을 했고, 같은 달 수원지법은 분당 야탑역 흉기 난동 예고 글을 익명 커뮤니티에 올린 게시자에게 1484만원 배상 판결을 내렸다.&lt;br&gt;&lt;br&gt;경찰은 이 외에도 서울과 인천·경기·전남광주·충남 소재 중·고등학교를 폭파하겠다는 협박 글을 올린 등 게시자, 서울 중랑경찰서에 “사람을 죽이기 전이다” 등 허위 112 신고를 32차례 한 거짓 신고자를 상대로도 소송을 제기해 현재 법원 심리가 진행되고 있다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “앞으로도 공중협박·거짓 신고의 방지·차단을 위해 손해배상 청구 소송을 적극 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전주시의회, 동학 유족 월 10만원 지급 예산 ‘전액 삭감’</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/17/ZMKBD5MGWVDBRHMQMJB6MOU3GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/17/ZMKBD5MGWVDBRHMQMJB6MOU3GM/</guid>
-      <dc:creator>전주-김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 02:37:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPDEIXPTEVEIVPGVY4KCGDNH24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동학농민혁명 전봉준 장군 동상./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도가 전북 지역에 거주하는 동학농민혁명 참여자 유족에게 매달 수당을 지급하기로 했지만, 전주시의회가 과도한 예산 부담 등을 이유로 관련 예산을 전액 삭감하면서 사업 추진에 차질이 빚어졌다. &lt;br&gt;&lt;br&gt;전주시의회는 17일 동학농민혁명 참여자 유족 수당으로 편성된 1억1214만원을 전액 삭감했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 전북도는 지난달 26일 ‘동학농민혁명 참여자 등의 명예회복에 관한 특별법’에 따라 유족으로 공식 등록된 도내 723명(손자녀 108명, 증손자녀 615명)에게 매달 10만원씩 수당을 지급할 계획이라고 밝혔다. 당초 월 5만원으로 책정했던 액수를 ‘보훈 수당’ 수준에 맞춰 10만원으로 늘렸다. 여기에 필요한 연간 예산 8억6800만원은 전북도와 각 시·군이 3대7 비율로 분담하도록 했다. 전북도는 당초 지난 4일부터 22일까지 수당 신청을 받아 11~12월 중 첫 지급을 시작한다는 구상이었다.&lt;br&gt;&lt;br&gt;이에 전주시는 예산 1억1214만원을 편성했는데, 전주시의회가 제동을 걸었다. 전주시의회 예산결산특별위원회는 지난 11일부터 15일까지 추경 예산안을 심사하는 과정에서 이 같은 결정을 내렸다. 예결위는 세입 감소와 지방채 누적 등 악화된 상황에서 과도한 시비 부담을 이유로 삭감을 결정한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;동학 유족 수당 지급을 둘러싼 논란은 그동안 꾸준히 제기돼 왔다. 일각에서는 “동학농민혁명의 발상지인 전북이 앞장서서 유족의 명예를 회복해야 한다”고 주장하지만, 반대 측에서는 “임진왜란이나 홍경래의 난 등 다른 역사적 사건의 피해자 후손들과의 형평성에 어긋난다”고 맞서왔다.&lt;br&gt;&lt;br&gt;실제로 전북 지역 기초지자체의 반발도 있었다. 익산시는 “131년 전 참가자의 유족을 전부 확인하기 어렵고, 다른 사건까지 수당을 지급하라는 선례가 될 수 있다”며 반대 입장을 냈다가 최근에야 찬성으로 돌아선 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5YMXZLL6YZH27CPL3HCNUPIWOQ.jpg?auth=a9e166f38676d5bb5e78ae27fea9834da982d703799346420d374a72665f7211&amp;smart=true&amp;width=485&amp;height=273" type="image/jpeg" height="273" width="485">
-        <media:description type="plain">동학농민혁명 유족 수당</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>조희대 “어떤 도전에도 사법권 독립 지켜져야”</title>
-      <link>https://www.chosun.com/national/court_law/2026/09/17/OQYAHYZAAVERNBIUB4MG4L4GUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/17/OQYAHYZAAVERNBIUB4MG4L4GUY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 00:41:51 +0000</pubDate>
-      <content:encoded>조희대 대법원장이 17일 “우리가 어떤 도전에 직면하더라도 사법권의 독립은 반드시 지켜져야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5QF5GBO6FMUTDO6W5NETWPDI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 17일 서울 그랜드하얏트 호텔에서 열린 제20차 아시아·태평양 대법원장 회의 개회식에서 개회사를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대법원장은 이날 서울 용산구 그랜드 하얏트 서울에서 열린 아시아·태평양 대법원장 회의 개회식에서 사법부의 역할을 강조하며 이같이 밝혔다. 그는 “(사법부 독립은) 사법부가 민주주의와 법치주의를 수호하고 본연의 역할을 다하기 위한 것”이라고 했다. 조 대법원장은 영어로 개회사를 했다.&lt;br&gt;&lt;br&gt;이 행사는 아시아·태평양 지역 국가의 대법원장들이 모여 사법 현안에 대한 의견을 교환하는 국제 행사로, 2년마다 열린다. 이번 회의에는 일본·중국·싱가포르·호주·뉴질랜드·인도 등 약 40개국의 대법원장과 대법관이 참석한다. 한국이 아태 대법원장 회의를 개최한 것은 올해로 세 번째다.&lt;br&gt;&lt;br&gt;조 대법원장은 “많은 나라에서 복잡한 정치적·사회적인 분쟁이 갈수록 법원으로 향하고 있다”며 “아울러 국민들은 사법부에 점점 더 큰 기대를 걸고 있다”고 했다. 그러면서 “이러한 상황일수록 법원은 법과 원칙을 굳건히 지켜야 한다”며 “모든 법관은 어떠한 난관에 직면하더라도 두려움 없이 오직 법과 원칙에 따라 재판할 용기를 가져야 한다”고 했다.&lt;br&gt;&lt;br&gt;삼권분립에 대해서도 언급했다. 조 대법원장은 “사법부와 입법부, 행정부 사이의 협력은 현대 사회의 복잡다단한 갈등을 해결하는 데에 도움이 된다”며 “다만 그 협력은 각 기관의 고유한 책임을 존중하고 사법부의 독립을 보장하는 가운데 이뤄져야만 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “사법부의 독립과 삼권의 협력 사이에서 균형을 유지하면서 국민의 신뢰를 얻는 것은 어려운 과제”라며 “우리의 경험과 통찰을 나눔으로써 이러한 책무를 충실히 수행할 건설적인 방안을 함께 모색하기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFKW2WJWUVNYDKUNRMGBVMFUOI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 17일 서울 용산구 그랜드하얏트서울 호텔에서 열린 제20차 아시아·태평양 대법원장 회의 개회식에 참석해 연단의 발표를 듣고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 행사에선 ‘사법부의 역할에 대한 각국의 시각’과 ‘사법부와 법조계에서의 AI 활용’ 등을 주제로 각국 대법원장과 대법관들의 토론이 이어질 예정이다. 지난 16일엔 제1회 세종법률문화상 시상식이 개최됐다. 세종법률문화상은 세종대왕의 민본적 법치주의를 계승해 사법부 발전과 정의 실현에 기여한 사람에게 수여하는 상으로, 마사 카람부 쿠메 케냐 대법원장과 한국가정법률상담소가 수상자로 선정됐다.&lt;br&gt;&lt;br&gt;대법원은 회의 기간 싱가포르·몽골·파키스탄 대법원과 사법 협력을 위한 양해각서(MOU)를 체결한다. 조 대법원장은 일본·캐나다·튀르키예·말레이시아·인도네시아 등 주요국 대법원장들과 양자 회담도 할 예정이다. 행사는 오는 18일까지 진행된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/SQF45RNOPZA4JJECYDQGGWRDMI.jpg?auth=9b4dad6e6ce3d2e6a1eb0ad1875ad57423014432dd684e9a31cf575220be20b8&amp;smart=true&amp;width=3021&amp;height=2266" type="image/jpeg" height="2266" width="3021">
-        <media:description type="plain">&lt;YONHAP PHOTO-4468&gt; 아시아·태평양 대법원장 회의, 환영사 하는 조희대 대법원장
-    (서울=연합뉴스) 류영석 기자 = 조희대 대법원장이 17일 서울 그랜드하얏트 호텔에서 열린 제20차 아시아·태평양 대법원장 회의 개회식에서 환영사를 하고 있다. 2026.9.17
-    ondol@yna.co.kr/2026-09-17 09:19:30/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">류영석</media:credit>
-      </media:content>
     </item>
     <item>
       <title>싸이 공연 열리는 ‘강남페스티벌’... 강남 도산대로 53시간 통제</title>
