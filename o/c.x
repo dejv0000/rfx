@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북 경주 한 주택에서 불… 진화 중 붕괴로 30대 소방관 등 2명 부상</title>
+      <link>https://www.chosun.com/national/regional/2026/09/19/FOI445U6H5HP5KZJZZABTPBOXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/19/FOI445U6H5HP5KZJZZABTPBOXY/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 11:26:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDAJHQRSEBESXBWDNONKPPS3PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 낮 12시 33분쯤 경북 경주시 천북면 한 주택에서 불이 나 소방관들이 진화작업을 벌이고 있다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주의 한 주택에서 원인을 알 수 없는 불이 나 진화 작업을 벌이던 소방관과 집주인 등 2명이 다쳤다. &lt;br&gt;&lt;br&gt;19일 경북소방본부에 따르면, 이날 낮 12시 33분쯤 경북 경주시 천북면 한 주택에서 불이 나 진화 작업을 벌이던 30대 소방관과 80대 집주인 등 2명이 부상을 당했다. 불이 나자 소방 당국은 인력 43명과 소방차 등 장비 15대를 투입해 진화 작업을 벌였다. 진화 작업 과정에서 주택 일부가 붕괴하면서 현장에 있던 소방관 1명이 흙더미 속에 깔렸다가 약 10분 만에 구조됐다. 다친 소방관은 허벅지 등에 2도 화상을 입었지만, 생명에 지장은 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이날 불은 주택 일부 등을 태우고 2시간 20여 분 만인 오후 2시 57분쯤 진화됐다. &lt;br&gt;&lt;br&gt;소방 관계자는 “정확한 화재 원인 등을 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “부동산 문제가 대통령 지지율 하락 원인...전세난 책임져야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/19/R57K6CXUTNFXJFFOQ774RVNPAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/19/R57K6CXUTNFXJFFOQ774RVNPAY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 10:21:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2GD7PHU4WNDWXJQQMMK3FZDYGU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 김진환 기자 = 오세훈 서울시장이 18일 서울 중구 동대문디자인플라자(DDP)에서 열린 ‘엔터테크·GES 서울 2026’ 개막식에 참석해 개회사를 하고 있다. 2026.9.18/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 이재명 대통령의 부동산 정책을 겨냥해 “부동산 문제가 대통령 지지율 하락의 주요 원인”이라며 “전세 물량을 사라지게 만든 데 대해 책임져야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 19일 시사저널TV ‘전영기의 빅샷’에 출연해 전날(18일) 열린 이 대통령 기자회견을 언급하며 이같이 말했다.&lt;br&gt;&lt;br&gt;그는 “현 정부 정책이 앞으로도 부동산 가격을 떨어뜨리기보다는 올릴 가능성이 크다”며 “기자회견에서도 정책 방향을 바꾸겠다는 신호는 보이지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령이 서울 집값 상승 원인으로 오 시장 등을 언급한 데 대해서도 반박했다. 오 시장은 “박원순 전 시장 재임 당시 재개발·재건축 구역 389곳이 해제되면서 43만호 공급 물량이 사라졌다”며 “이 대통령에게도 여러 차례 설명한 내용”이라고 주장했다.&lt;br&gt;&lt;br&gt;이 대통령이 부동산 정책과 관련해 ‘평탄화’를 언급한 데 대해서는 “서울 동북권과 서남권 집값이 급등한 상황은 서민들에게 ‘죽어나라는’ 메시지와 다름없다”며 “‘평탄화’라는 단어로 퉁치고 넘어가듯 말씀하시는 건 무책임한 발언”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQBD4SWPINFM5GBQ676AKCA25M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[서울=뉴시스] 박영태 기자 = 오세훈 서울시장이 18일 오후 서울 동대문구 DDP에서 열린 엔터테크-GES 서울 2026 개막식에 참석해 개회사를 하고 있다. 2026.09.18. since1999@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전세난에 대해서도 오 시장은 “전적으로 대통령이 만드신 상황”이라며 “실거주 집착이 낳은 대참사가 전세 매물 실종”이라고 주장했다. 이어 “대통령은 전세가 갭 투자에 이용된다는 이유로 지나친 적개심을 갖고 계신 것으로 보인다”며 “전세 물량이 사라지게 만든 데 대해 책임지셔야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 또 “집 가진 사람을 죄악시하고, 집 한 채를 갖고 있어도 그 집에 살지 않는 것을 죄악시하는 것은 본인의 논리일 뿐”이라며 “부동산 정책을 선거를 의식하거나 단기 효과만 보고 추진하면 시장이 절대로 용서하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;김승원 법무부 장관 후보자 사퇴와 관련해서는 “이것만으로 대통령이 공소 취소를 포기하겠다는 신호로 보기는 부족하다”고 했다.&lt;br&gt;&lt;br&gt;자신의 여론조사비 대납 의혹 재판에서 명태균 씨와 김한정 씨의 통화 녹음파일이 증거로 채택된 데 대해서는 “상당히 유력한 무죄 증거가 나왔다”며 “법적 증거로 채택된 만큼 재판부가 참고할 것으로 생각한다”고 했다.&lt;br&gt;&lt;br&gt;정부의 농지 전수 조사에 대해서는 “농민이 직접 경작하지 않고 임대하는 데에는 저마다의 사정이 있을 것”이라며 비판적인 입장을 보였다.용산공원에 주택을 짓는 구상에 대해서는 “용산공원에는 1㎝도 손을 대면 안 된다”며 반대 입장을 재차 밝혔다.&lt;br&gt;&lt;br&gt;반도체 세수 호황을 바탕으로 조성하는 미래대응기금에 대해서도 “잘못된 결정이라고 생각한다”고 했다. 이어 “인플레이션이 심화하는 상황에서는 국가 부채를 줄이는 데 집중해야 하는데, 이재명 정부는 정반대의 길을 택하고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VQBD4SWPINFM5GBQ676AKCA25M.jpg?auth=6eefc570fa70e54265f1ebed0685c306eac2173fb2f99e8682c5f5684cd9c22e&amp;smart=true&amp;width=1972&amp;height=1109" type="image/jpeg" height="1109" width="1972">
+        <media:description type="plain">오세훈 서울시장. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">박영태</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 9월 20일 일요일 (음력 8월 10일 丁酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/19/VC4UY5LCF5HOTKHAB7HWPEXI2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/19/VC4UY5LCF5HOTKHAB7HWPEXI2Y/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>경기 안성 한 플리마켓 행사장에 트럭 돌진… 2명 숨지고 5명 부상</title>
       <link>https://www.chosun.com/national/regional/2026/09/19/OLS2HGLVGFHPTKK4JEIB7GBZEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/19/OLS2HGLVGFHPTKK4JEIB7GBZEU/</guid>
@@ -772,15 +806,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHCIVCURXBGB7GOJHAVZHBO33E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 서울 강서구 여명학교에서 학생들이 ‘한국 사회의 이해’ 수업을 듣고 있다. 여명학교는 탈북 청소년 대안학교다. 2004년 개교한 뒤 교사를 마련하지 못해 서울 곳곳을 떠돌다 최근 가양동 옛 염강초등학교 자리로 옮겨왔다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오후 7시 서울 강서구 가양동 옛 염강초등학교. 학생들이 모두 돌아간 시간에 학교 안팎에 주민 수십 명이 모여들었다. 탈북 청소년 대안학교 ‘여명학교’가 주민 대상 설명회를 연 것이다. 안건은 ‘학교 교사(校舍) 건립’. 그런데 현장에는 경찰도 배치됐다. 학교 주변 아파트에는 ‘주민 동의 없는 여명학교 건립 결사반대’라고 적힌 포스터가 곳곳에 붙어 있었다. 여명학교가 이곳에 새 교사를 마련한다는 소식에 일부 주민은 “집값이 떨어질 수 있다” “탈북민은 느낌이 좋지 않다”고 했다. 주민 단체 대화방에서는 “다른 지역에서는 죽어라 싫어하는 혐오 시설을 왜 강서구에 짓느냐” 등 원색적인 비난이 쏟아졌다.&lt;br&gt;&lt;br&gt;정작 여명학교 학생들은 차분했다. 고교 3학년 안강권(18)군은 “주민들이 편견을 가질 수는 있다고 생각한다”고 했다. 안군은 아홉 살이던 2017년 북한을 탈출해 중국 등을 거쳐 한국에 왔다. 한국에 온 뒤 일반 중학교에 입학했지만 1년도 버티지 못했다. 학교에서 왕따를 당했다. 안군은 “북한에서 왔고 말투가 다르다는 이유로 친구들이 놀아주지 않았다”며 “놀림이 심해져 결국 학교를 옮길 수밖에 없었다”고 했다. 이후 여명학교로 와 5년간 공부한 안군은 이제 체육 교사를 꿈꾼다. &lt;br&gt;&lt;br&gt;탈북민 부모를 따라 지난해 중국에서 한국으로 온 김민정(18)양은 여명학교 입주에 반대하는 주민들을 이해해보려고 애쓴다고 했다. 김양은 ‘통합사회’ 수업에서 지역 주민이 꺼리는 혐오 시설에 대해 배웠다고 했다. 그는 “선생님께서 여명학교도 혐오 시설로 분류된다고 말씀하셨다”며 “근현대사에서 6·25전쟁 전후 과정을 배우다 보니 한국 사람들이 탈북민에 대해 부정적인 인식을 가질 수도 있겠다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;여명학교 학생들은 담담하려 했지만 상처가 안 쌓일 수는 없다. 여명학교 학생들은 주민들이 탈북민에게 쏟아내는 부정적인 말을 두고 서로 이야기를 나누는 일은 거의 없다고 했다. 이야기를 해봐야 당장 달라지는 것은 없고, 서러운 마음만 더 커질 것 같아서라고 했다. &lt;br&gt;&lt;br&gt;여명학교 학생 104명 가운데 가장 나이가 많은 한모(30)씨는 “탈북 청소년들이 여명학교에서 공부하고, 한국 사회에 정착할 기회를 달라”고 했다. 한씨는 2017년 북한을 탈출해 한국에 왔다. 함께 탈북한 어머니는 중국에서 붙잡혀 북송됐다고 한다. 홀로 한국에 정착한 한씨는 생활비를 벌려고 아르바이트를 하면서 뒤늦게 공부를 시작했다. 한씨는 “탈북 청소년 중에는 어린 시절 중국을 거쳐 한국에 오면서 한국어보다 중국어가 익숙해 일반 학교 수업을 따라가기 어려운 경우가 많다”며 “여명학교는 그런 학생들이 한국 사회에 적응할 수 있도록 돕는 곳”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2XNQMLAAJCULD5KMJS24AZVEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 서울 강서구 여명학교 인근 아파트에 여명학교 건립을 반대하는 현수막이 걸려 있다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여명학교는 2004년 개교한 뒤 22년 동안 교사를 마련하지 못해 서울 곳곳을 떠돌았다. 그래도 교사들이 학교를 포기하지 못한 건 탈북 청소년 대부분이 일반 학교에 적응하는 데 어려움을 겪는다는 걸 잘 알기 때문이다. 초등학교 1학년부터 고등학교 3학년까지 전 과정을 운영하는 여명학교는 학생들에게 한국어와 기초 과목을 가르치고 진학·취업을 지원한다. 탈북 청소년이 한국 사회에 적응할 수 있도록 돕는 ‘징검다리’ 역할이다. &lt;br&gt;&lt;br&gt;여명학교가 주민 반대에 부딪친 게 이번이 처음은 아니다. 2019년에는 서울 은평구에 부지를 확보해 새 교사를 짓고 정착하려 했지만 주민 반발로 계획을 접었다. 여명학교는 이번에는 주민들을 설득해 자리를 잡겠다는 생각이다. 학교 측은 지난달 12일에 이어 이날 두 번째 주민 설명회를 열었다. 학교가 새 교사를 짓기 위해 마련한 재원은 100억원. 첫 월급을 받았다며 50만원을 들고 찾아온 졸업생, 아르바이트로 번 돈 가운데 10만원을 내놓은 재학생 등이 보탠 돈이다. 여기에 수많은 개인과 단체 후원이 20여 년간 차곡차곡 쌓였다. 학교는 이렇게 모은 돈을 허투루 쓰지 않았다. 여명학교에는 학생들이 쓰는 책상과 의자, 책장, 피아노까지 새것을 찾아보기 어렵다.&lt;br&gt;&lt;br&gt;지난해 여명학교 사정을 알게 된 현대차그룹 관계자들이 학교를 직접 찾아왔다. 당시에는 별다른 말 없이 학교를 둘러보고 돌아갔다고 한다. 몇 달 뒤 현대차그룹은 새 교사 건립에 60억원을 지원하겠다고 밝혔다. 여명학교가 20여 년간 모은 100억원에 60억원이 더해지면서 비로소 교사를 지을 수 있는 길이 열렸다. 새 교사는 내년 착공할 예정이다. 완공된 건물은 서울시교육청에 기부 채납하고, 여명학교가 최대 20년간 무상으로 사용한다는 구상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전주시의회, ‘동학 유족 수당’ 예산 전액 삭감</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/18/4M6HPDUXZRAXLKQ2XOGBKQQK34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/18/4M6HPDUXZRAXLKQ2XOGBKQQK34/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSWKNTGMU3WCNBYME3WGMRTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2019년, 서울 광화문광장에서 열린 제125주년 동학농민혁명 기념식에서 동학농민혁명을 다룬 뮤지컬 공연이 펼쳐지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도가 동학농민혁명 참여자 유족에게 매달 10만원씩 수당을 지급하기로 했으나 전주시의회가 재정 분담 비율에 반발해 관련 예산을 전액 삭감한 것으로 17일 확인됐다. 이에 따라 전주 지역 유족에 대한 수당 지급도 미뤄지게 됐다. &lt;br&gt;&lt;br&gt;전북도는 지난달 26일 ‘동학농민혁명 참여자 등의 명예회복에 관한 특별법’에 따라 유족으로 공식 등록된 도민 723명(손자녀 108명, 증손자녀 615명)에게 매달 10만원씩 수당을 지급할 계획이라고 밝혔다. 애초 수당을 월 5만원으로 책정했다가 ‘보훈 수당’ 수준에 맞춰 10만원으로 늘렸다. 여기에 필요한 연간 예산 8억6800만원은 전북도와 각 시·군이 3대7 비율로 분담하도록 했다.&lt;br&gt;&lt;br&gt;이에 전주시는 관내 유족 267명에게 지급할 총예산 3억2040만원 가운데 시가 부담해야 할 2억2428만원의 절반인 1억1214만원을 이번 추가경정예산(추경)에 편성했다. 나머지 절반은 연말 결산 추경에 반영하기로 했다. &lt;br&gt;&lt;br&gt;하지만 전주시의회는 지난 16일 본회의에서 이를 전액 삭감했다. 장병익 전주시의회 예결위원장은 “도가 30%, 시가 70%를 부담하기로 한 일방적인 분담 비율이 문제”라고 했다. 장 위원장은 “전주에 유족이 가장 많은 상황에서 향후 수십 년간 지속될 예산을 이대로 정할 수는 없다”며 “전북도와 시의 분담 비율을 5대5 수준까지 조정해야 한다”고 했다. 전주 지역 유족은 267명으로 전북도 내 전체 유족의 37%를 차지한다.&lt;br&gt;&lt;br&gt;전주시의 어려운 재정 상황도 쟁점이 됐다. 예결위원 14명 대부분은 시가 사업비의 70%를 부담하는 것은 과도하다는 데 공감한 것으로 알려졌다. 세입 감소와 지방채 누적 등으로 전주시의 재정 여건이 악화된 상황에서 동학농민혁명 수당 사업이 시급한지를 두고도 이견이 나왔다고 한다. 일부 위원은 “전주시가 공무원 성과상여금조차 제때 지급하지 못할 만큼 재정 상황이 심각하다”고 지적했다. 전주시는 올해 말 지방채 잔액이 6841억원에 이를 것으로 예상하고 있다. 공무원 2300여 명의 상반기 성과상여금 40억원도 내년 1월 지급하기로 했다.&lt;br&gt;&lt;br&gt;전북도는 애초 지난 4일부터 22일까지 신청을 받아 11~12월 중 수당을 지급할 계획이었다. 그러나 전주시의회가 예산을 삭감하면서 전북도가 올해 전주시에 내려주려던 9612만원도 집행할 수 없게 됐다. 전주시의회가 올해 안에 예산을 다시 편성하지 않으면 이 돈은 불용 처리될 전망이다. 전북도와 전주시가 분담 비율을 다시 협의해 예산을 마련할 때까지 전주 지역 유족 267명의 수당 지급도 미뤄질 가능성이 크다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전·현직 전북도지사 김관영·이원택 나란히 ‘선거법 위반’ 혐의 송치</title>
       <link>https://www.chosun.com/national/incident/2026/09/18/PLNG73T3LVGXRJJSO2WQ5Z4B6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/18/PLNG73T3LVGXRJJSO2WQ5Z4B6Q/</guid>
@@ -909,24 +934,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
       <description/>
       <pubDate>Thu, 17 Sep 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAUHBG7VMNCBJIU6X4UEXQKJS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-9-18일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 11일 ‘우리 아기가 태어났어요’ 코너에 실린 안지훈&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 식욕이 확 돋다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/09/18/ATJQNZGLFBBNXLOPEESJVR2YN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/09/18/ATJQNZGLFBBNXLOPEESJVR2YN4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVOGHDPL7VDT5EZSGGFAR3ZUQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 금산분리(金産分離)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/09/18/MJOBY7MO6BEVHNBIOJN6CBWSYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/09/18/MJOBY7MO6BEVHNBIOJN6CBWSYQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RFI2FSSY5FNRLKW3ZT3CFE37E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“교수 연봉 3억” “자산 10조 확보”... 서울대 총장 후보 공약 들어보니</title>
