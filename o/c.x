@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기 안성 한 플리마켓 행사장에 트럭 돌진… 2명 숨지고 5명 부상</title>
+      <link>https://www.chosun.com/national/regional/2026/09/19/OLS2HGLVGFHPTKK4JEIB7GBZEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/19/OLS2HGLVGFHPTKK4JEIB7GBZEU/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 04:51:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTDIZJYHE4GGYLGGMZGGZJSMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안성 플리마켓 행사장 사고 현장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안성시 한 플리마켓 행사장으로 트럭이 돌진해 2명이 숨지고, 5명이 다쳤다. &lt;br&gt;&lt;br&gt;19일 경찰과 소방 당국에 따르면, 이날 오전 11시 18분쯤 경기 안성시 공도읍 공동도서관 앞 플리마켓 행사장에 중고 풀품을 실은 1t 트럭이 돌진해 7명을 들이받았다. 이 사고로 모자 관계인 40대 여성과 10대 남성이 심정지 상태로 병원으로 이송됐지만 숨졌다. 또 20대 여성과 남성, 60대 남성 등 3명이 다리 골절 등 부상을 입는 등 5명이 중경상을 입었다. &lt;br&gt;&lt;br&gt;이 행사는 안성시가 주최하고 안성시지속발전협의회가 주관하는 ’2026 나눔의 녹색장터’였다. 사고 차량은 안성시 소유로, 운전자는 시청 기간제 근로자인 60대 A씨인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAWTZR43A5NPZAMNBLD2VUBE3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오전 11시18분께 경기 안성시 공도읍 공도10호어린이공원에서 시 주최 녹색장터 행사에 시가 운영하는 중고용품 수거 트럭이 돌진하는 사고가 나 2명이 숨지고 5명이 부상했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 A씨가 트럭에 있던 물품을 행사장에 내려놓기 위해 인근 도로에 차를 세우던 중 사고를 낸 것으로 보고 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;A씨는 처음 경찰 조사에서 “가속페달을 제동장치로 착각했다”고 진술했다가 이후 “급발진했다”고 말을 바꾼 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨와 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수험생·학부모들, 국회 앞에서 “6시 이후 접수한 부정 원서 취소하라”</title>
+      <link>https://www.chosun.com/national/education/2026/09/19/7SJFABBQOZFBJLGAZNQF6WDOTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/19/7SJFABBQOZFBJLGAZNQF6WDOTM/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 06:01:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGL74K5O3BHORP4UMIJRNF5LQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 수험생들과 학부모들이 2027학년도 대입 수시 원서 접수 연장 결정과 교육부의 구제 절차에 반대하는 집회를 열고 있다. /오주비 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“6시 이후 접수한 부정 원서 취소하라!” “교육부는 책임져라!”&lt;br&gt;&lt;br&gt;19일 오후 수험생과 학부모 등 50여명이 서울 영등포구 국회의사당 앞에 모여 이렇게 외쳤다. 이들의 손에는 ‘원칙 지킨 수험생 기만, 대입 공정성 보장하라’ 등이 적힌 피켓이 들려 있었다. 현장엔 ‘삼가 입시의 명복을 빕니다’ ‘공정 입시, 대한민국의 꿈이었습니다’ 등이 적힌 현수막도 걸렸다.&lt;br&gt;&lt;br&gt;수시 면접 준비와 수능 공부 등으로 한창 바쁜 수험생들과 학부모들이 이날 국회를 찾은 이유는 지난 11일 발생한 대입 수시 원서 접수 ‘먹통’ 사태 때문이다. 이들은 사고가 벌어진 이후 교육 당국이 내린 결정들이 수시 원서 접수를 제때 마친 수험생들에겐 불공정한 대책이었다고 이야기한다.&lt;br&gt;&lt;br&gt;집회에 참석한 고3 수험생의 학부모는 “여기 현장에 와 있는 고3 아이들, 이 아이들은 지금 피 말리는 시간을 보내고 있다”며 “왜 원서 접수를 원칙대로 한 아이들이 피해를 입어야 하는 거냐. 원칙을 지킨 우리 아이들을 외면해선 안 된다”고 했다. 집회에 참석한 한 수험생도 “당초 원서 접수 마감 시간인 오후 6시 이후에 접수된 원서는 모두 취소하는 게 맞다”고 했다. &lt;br&gt;&lt;br&gt;이번 원서 접수 먹통 사태는 지난 11일 원서 접수 대행 업체 유웨이어플라이 사이트에서 마감 시간을 10분 앞둔 오후 5시 50분부터 6시 20분까지 발생했다. 이후 한국대학교육협의회(대교협)와 교육부, 유웨이 측은 원서 접수 시간을 11일 오후 7시까지로 연장하기로 결정했다.&lt;br&gt;&lt;br&gt;이날 현장에 참여한 수험생과 학부모들은 교육 당국의 이 연장 결정이 잘못됐다고 지적한다. 오후 6~7시에 접수된 원서 때문에 일찌감치 접수를 마친 학생들이 경쟁자가 추가되는 등 불이익이 생겼다는 것이다. &lt;br&gt;&lt;br&gt;더하여 교육부가 지난 14~16일에 진행한 구제 절차에 대해서도 문제라고 했다. 교육부에 따르면, 구제 신청을 진행한 결과 1588건이 접수됐고, 이 중 414건이 구제 대상으로 판단됐다. 실제로 접수를 완료한 것은 354건이다. 이날 집회에 참석한 이들은 연장된 시간에 접수하지 못한 건 본인의 잘못인데 왜 이들까지 또 구제해줘야 하냐고 했다. &lt;br&gt;&lt;br&gt;학부모 대표로 마이크를 잡은 한 참가자는 “교육부가 구제해준 학생들이 정말 피해자인지 다시 한번 생각해봐야 한다”며 “진정한 피해자는 12년 동안 열심히 공부하고 노력한 결과물을 지켜내기 위해 접수 마감 30분 전, 1시간 전, 전날에 미리 원서를 제출한 학생들”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수시 원서 일찍 넣은 우리도 피해자”...국회 앞 집회 열려</title>
+      <link>https://www.chosun.com/national/education/2026/09/19/SUEVBZOYMBBVHGPFGJGELERMFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/19/SUEVBZOYMBBVHGPFGJGELERMFE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 03:32:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QWCOBQGAYWGYJUGYYWCMJTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구의 한 수험생이 지난 14일 수시모집 원서접수 대행사 '유웨이어플라이' 홈페이지에 접속해 2027학년도 수시 모집 서버 오류 구제 신청을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 대입을 치르는 수험생과 학부모들이 19일 오후 국회의사당 앞으로 모인다. 이들은 대입 수시 원서 접수 ‘먹통’ 사태와 관련해 “접수 마감이 연장된 시간에 추가 접수된 원서들과, 교육부가 구제해 준 원서들 모두 전면 취소해야 한다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;‘수시 원서 접수 공정성 확보를 위한 수험생 연대’는 이날 오후 1시 국회의사당 앞에서 집회를 연다. 연대 측에 따르면, 집회 참가 예상 인원은 130여명이다. &lt;br&gt;&lt;br&gt;연대 측은 “입시에서 가장 기본적으로 지켜져야 할 규칙과 형평성을 요구하기 위해 모였다”며 “교육부와 대교협은 ‘피해 수험생 구제’라는 명분만을 앞세울 게 아니라, 정상적으로 원서를 접수한 수험생들의 권리와 신뢰 역시 동등하게 보호해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;원서 접수 먹통 사태는 지난 11일 원서 접수 대행 업체 유웨이어플라이 사이트에서 마감 시간을 10분 앞둔 오후 5시 50분부터 6시 20분까지 발생했다. 이후 한국대학교육협의회(대교협)와 교육부, 유웨이 측은 논의를 통해 11일 오후 7시까지 원서 접수 시간을 연장했다. &lt;br&gt;&lt;br&gt;교육부는 연장 시간에도 원서 접수를 못한 수험생들도 구제해줬다. 교육부에 따르면 지난 14~16일 구제 신청을 진행한 결과 1588건이 접수됐고, 이 중 414건이 구제 대상으로 판단됐다. 실제로 접수를 완료한 것은 354건이다.&lt;br&gt;&lt;br&gt;연대 측은 원래 접수 마감 시간인 오후 6시 이후에 들어온 원서를 모두 취소하라고 요구하고 있다. 일찌감치 원서를 접수한 학생과 연장 시간이라는 추가 기회를 부여받은 수험생이 동일한 조건에서 경쟁하는 건 말이 되지 않는다는 것이다.&lt;br&gt;&lt;br&gt;이들은 “오후 6시 이후 접수된 원서를 그대로 인정하는 것은 사실상 마감 시간을 지킨 수험생에게 불이익을 감수하라는 의미”라고 했다. &lt;br&gt;&lt;br&gt;또 연대 측은 교육부가 이번에 구제해준 원서 354건도 취소해야 한다고 주장한다. 교육부에 따르면 구제 조치로 인해 원서가 추가 접수된 대학은 40곳이다. 교육부는 이 대학들의 평균 경쟁률이 구제 후 0.001만 상승하는 등 구제의 영향은 미미하다고 했다. &lt;br&gt;&lt;br&gt;하지만 이들은 “수험생에게 대학 원서 한 장은 단순한 통계 수치가 아니다. 12년 동안 뼈 빠지게 준비해 온 진로와 학업의 결과가 걸린 문제”라며 “특정 모집 전형에선 단 한 명의 추가 지원만으로도 예비 순위, 충원 합격 여부, 합격과 불합격이 달라질 수 있으니 ‘미미하다’는 교육부 표현은 매우 유감스럽다”고 했다.&lt;br&gt;&lt;br&gt;연대 측은 대학 모집 요강에도 마감 시간에 대한 유의 사항이 적혀 있는데, 왜 이를 유의하지 않은 이들 때문에 자신들이 피해를 입어야 하는지 모르겠다고 했다. &lt;br&gt;&lt;br&gt;이들은 “대부분의 대학 모집요강에는 마감 시간에 지원자가 몰려 시스템이 지연되거나 장애가 발생할 수 있으므로 미리 접수할 것을 안내하고 있다”며 “마감 이후 접수하지 못한 수험생들에게 추가적인 접수 기회를 부여하면 원칙을 지킨 수험생은 어떤 보호를 받을 수 있는 거냐”고 했다.&lt;br&gt;&lt;br&gt;이어 “교육부와 대교협이 이번 사태를 일부 수험생의 구제 문제로 축소하고 책임을 회피하면, 수험생과 학부모들은 가능한 모든 합법적 대응에 나설 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추석때 가장 막히는 ‘서해안선’... 일직JC~금천IC 67시간 정체</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/19/CSBXI543GFFHLOUEQ2FIHXAJDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/19/CSBXI543GFFHLOUEQ2FIHXAJDI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Sep 2026 02:47:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXVPFYAI6EZYOFUW3JHCUA4AR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 추석 다음 날인 10월 7일 서울 서초구 잠원IC 인근 경부고속도로 상행선(왼쪽)·하행선 방향 차량들이 서행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년간 추석 연휴 기간 중 가장 극심한 정체를 빚은 고속도로 노선은 서해안선인 것으로 나타났다.&lt;br&gt;&lt;br&gt;19일 한국도로공사가 더불어민주당 황희 의원실에 제출한 자료에 따르면, 명절 연휴 기간 고속도로 통행 속도가 시속 40㎞ 미만으로 떨어진 ‘정체 시간’을 합산한 결과 매년 서해안선 구간이 가장 길었다.&lt;br&gt;&lt;br&gt;지난해 추석 연휴(10월 2~12일) 기간 서해안고속도로 일직 분기점(JC)에서 금천 나들목(IC) 구간은 누적 정체 시간이 무려 67시간에 달해 전국 고속도로 중 가장 혼잡했다. 이어 서평택IC→포승JC 구간이 58시간, 서평택JC→발안IC 41시간, 서평택JC→서평택IC와 당진IC→송악IC 구간이 각각 35시간을 기록하며 상위 5개 구간을 모두 서해안선이 차지했다.&lt;br&gt;&lt;br&gt;연도별 최장 정체 구간을 살펴보면 2021년부터 2023년까지는 서해안선 당진IC→송악IC 구간이, 2024년과 2025년에는 일직JC→금천IC 구간이 1위를 기록했다.&lt;br&gt;&lt;br&gt;최근 5년간 추석 연휴 당일 고속도로 교통량은 하루 평균 615만 4000대로 집계됐다. 이는 추석 전날 평균(538만 6000대)보다 14.3%, 다음날 평균(532만 4000대)보다 15.6% 많은 수치다.&lt;br&gt;&lt;br&gt;설과 추석을 합친 명절 연휴 기간 동안 동일한 구간이 상위 20개 정체 구간에 두 차례 이상 반복해서 포함된 곳은 총 56곳으로 조사됐다. 노선별로는 영동선이 19곳으로 가장 많았고, 경부선 15곳, 서해안선과 중부선이 각각 11곳이었다.&lt;br&gt;&lt;br&gt;명절 연휴 고속도로 사고 위험도 큰 것으로 나타났다. 최근 5년간 설·추석 연휴 동안 발생한 고속도로 교통사고 109건 중 29건(26.6%)이 정체 또는 서행 중에 발생했다. 사고 유형별로는 3대 이상 차량이 연쇄 추돌한 사고가 64건(58.7%)으로 절반 이상을 차지했다. 사고나 고장으로 멈춰 있던 차량을 뒤따르던 차량이 들이받는 2차 사고도 4건 발생해 2명이 숨졌다. 전체 사고로 인한 인명 피해는 사망 4명, 부상 73명으로 집계됐다. 2차 사고 사망자(2명)가 전체 사망자의 절반을 차지했다.&lt;br&gt;&lt;br&gt;황희 의원은 “추석마다 차량이 몰리는 날과 정체가 집중되는 구간이 반복적으로 확인되고 있다”며 “정부와 도로 관리 기관은 반복 정체 구간을 중심으로 우회 정보 제공과 차량 분산 유도를 강화해야 한다”고 했다. 이어 “상습 정체 구간은 사고 위험도 함께 관리해야 한다”며 “정체 구간 진입 전 감속과 안전 거리 확보를 충분히 안내하고, 사고 발생 시에는 후속 차량에 위험을 신속히 알려 추가 사고를 막아야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이번 주말 일교차 큰 가을 날씨... 일본은 태풍 ‘두쥐안’ 영향</title>
       <link>https://www.chosun.com/national/national_general/2026/09/19/UBRLKKN4G5DCPBDKLB3YMHA3QI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/19/UBRLKKN4G5DCPBDKLB3YMHA3QI/</guid>
@@ -893,33 +929,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RFI2FSSY5FNRLKW3ZT3CFE37E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 면목없다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/09/18/GXCJD4NBRRBNHGU2G5GLOX5VGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/09/18/GXCJD4NBRRBNHGU2G5GLOX5VGI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3XDV6DXTVH2RB3ZZYGQXEJ36Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2952] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2026/09/18/FGGA6KKIHFGOBO5MTRR5PNAXZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/09/18/FGGA6KKIHFGOBO5MTRR5PNAXZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5I3UOTSPKJBERIIVQX2TOJC2U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] feel small</title>
-      <link>https://www.chosun.com/national/nie/english/2026/09/18/2EZVEZQGVBDTDAWRTE54C6NXIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/09/18/2EZVEZQGVBDTDAWRTE54C6NXIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HB2AOSSAMJG5FCBVK56SDIODL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“교수 연봉 3억” “자산 10조 확보”... 서울대 총장 후보 공약 들어보니</title>
       <link>https://www.chosun.com/national/national_general/2026/09/17/ASUNED6ABNFC5C5YTEWB5EEB6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/17/ASUNED6ABNFC5C5YTEWB5EEB6Q/</guid>
@@ -936,15 +945,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
       <description/>
       <pubDate>Thu, 17 Sep 2026 13:10:23 +0000</pubDate>
       <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/625PSTMSVZPSLOETOM5BZN7SZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양경수 민주노총 위원장이 13일 서울 중구 서울지방고용노동청 앞에서 열린 '전국이주노동자대회'에서 대회사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총이 정부가 제안한 메가특구 특별법에 노동 특례를 적용할지 여부를 논의하는 ‘원포인트 사회적 대화’에 참여하기로 결정했다.&lt;br&gt;&lt;br&gt;민노총은 17일 중앙집행위원회를 열고 이같이 결정했다. &lt;br&gt;&lt;br&gt;민노총은 “메가특구 특별법에서 노동 특례 조항이 빠져야 한다는 입장을 견지해 왔다”면서도 “노동 특례 확대와 노동권 후퇴를 막기 위해 대화에 참여해 반대 입장을 직접 표명하는 것이 필요하다고 판단했다”고 결정 취지를 설명했다.&lt;br&gt;&lt;br&gt;정부는 메가특구 특별법을 만들어 호남권 반도체 클러스터에 각종 노동 규제를 완화해주는 방안을 추진하고 있다. 고소득 연구·개발(R&amp;amp;D) 인력에 근로시간 규제를 풀어주는 ‘화이트칼라 이그젬션’을 비롯해 기간제 근로자 고용 기간을 현행 2년에서 최대 4년으로 연장하는 ‘2+2’, 주 52시간제 적용 예외 등을 담을지가 정부 내부에서 검토되고 있다&lt;br&gt;&lt;br&gt;하지만 양대노총 등 노동계가 강하게 반발했고, 정부는 지난 15일 양대 노총과 경영계가 모두 참여하는 원포인트 사회적 대화를 제안했다. 한노총은 지난 15일 참여 의사를 밝혔고, 민노총도 이날 내부 논의를 거쳐 참여를 결정한 것이다&lt;br&gt;&lt;br&gt;민노총의 참여 결정으로 코로나 때인 지난 2020년 이후 6년 만에 정부 주도로 노사정이 모두 참여하는 사회적 대화가 열리게 됐다.&lt;br&gt;&lt;br&gt;다만 사회적 대화가 합의에 이를 수 있을지는 미지수다. 코로나19 당시 사회적 대화 때도 노사정이 고통을 분담하자는 내용의 합의안을 마련했지만, 민노총 내부 추인이 무산됐다. 이 과정에서 민노총 내 일부 계파에서 당시 김명환 위원장을 사무실 내에 사실상 감금하는 등 내부 갈등도 불거졌다.&lt;br&gt;&lt;br&gt;정부와 여당은 일단 올해 안에 ‘메가 특구 특별법’을 처리하겠다는 것이 목표다. 하지만 정부는 사회적 대화에서 합의가 안 되더라도, 논의된 내용을 향후 국회 입법 과정에 반영할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대입 원서 접수 업체, 연 160억 벌고도 먹통 사태  </title>
-      <link>https://www.chosun.com/national/education/2026/09/15/X3W5UHCCZFCH5ONG3NIMNG4TNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/15/X3W5UHCCZFCH5ONG3NIMNG4TNQ/</guid>
-      <dc:creator>장윤 기자, 황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Sep 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LO7JHBRUVZNQDNANS4XHXHRO3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이기정 한국대학교육협의회장이 14일 서울 금천구 한국대학교육협의회에서 기자회견을 열고 2027학년도 대학 수시모집 원서 접수 과정에서 발생한 시스템 장애와 관련해 고개 숙여 사과하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대입 수시 원서 접수 ‘먹통’ 사태와 관련해 교육부가 민간 업체가 맡겼던 원서 접수 시스템을 정부가 직접 관리하는 방안을 검토하기로 했다. 원서 마감 직전 사이트가 다운되는 초유의 사태가 벌어져 수험생 혼란이 큰 데다, 접수 시간 연장을 둘러싼 ‘불공정’ 비판 여론까지 높아지자 서둘러 대책 마련에 나선 것이다. &lt;br&gt;&lt;br&gt;먹통 사태는 지난 11일 수시 원서 접수 대행 업체 유웨이어플라이(유웨이) 사이트에서 마감 10분 전인 오후 5시 50분 장애가 발생해 일부 수험생이 원서 제출을 못 하며 시작됐다. 유웨이 측은 교육부·한국대학교육협의회(대교협·대입 입학전형 시행계획 등을 수립·지원함)와 논의 후 마감 시간을 7시로 1시간 연장했다. 하지만 이 사실을 몰랐던 수험생들을 중심으로 논란이 계속되자 교육부는 원서를 제출하지 못한 학생을 구제하기로 하고 14일부터 신청을 받고 있다. &lt;br&gt;&lt;br&gt;수시 원서 접수는 20여 년 전부터 유웨이와 진학어플라이(진학) 두 업체가 대행하고 있다. 대학이 수험생에게 받는 전형료 일부를 대행 수수료로 받는다. 현재 유웨이와 계약한 4년제 대학은 102곳, 진학과 계약한 대학은 96곳, 두 업체와 중복 계약한 대학은 8곳이다. 지난해 유웨이의 경우 160억원 넘는 수익을 올렸는데, 이 업체들은 정부 감시를 전혀 받지 않는다. &lt;br&gt;&lt;br&gt;14일 최교진 교육부 장관은 국회 대정부질문에서 서범수 국민의힘 의원이 “민간 업체에 맡기지 말고 교육부나 대교협이 직접 관리하는 게 어떻겠냐”고 묻자 “이번에 예기치 않은 불미스러운 사고도 있었던 만큼 다시 한번 가능성에 대해 적극적으로 검토하겠다”고 답했다. 교육부 측은 “대학과 개별 계약을 맺는 민간 사업자이기 때문에 사각지대가 존재하는 것 같다”면서 “이번 사안을 계기로 민간 원서 접수 시스템까지 전반적으로 점검하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;교육부는 서버 오류로 원서 접수를 완료하지 못한 학생을 최대 1200명으로 추산하고 있다. 하지만 최 장관은 “실제 구제해야 할 대상은 훨씬 줄어들 것으로 판단한다”며 “신고 기간이 있기 때문에 그 기간이 끝나고 나면 정확한 숫자를 알 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;사이트 장애 사태는 최근 진행한 프로그램 업그레이드에서 비롯된 오류 때문으로 나타났다. 유웨이 측은 14일 기자회견에서 “해킹 등 외부 공격은 없었으며 데이터를 저장하는 서버를 최근 보안 등을 위해 업데이트하는 과정에서 오류가 있었는데 충분히 보완하지 못했다”고 밝혔다. 마감 직전에 전년 대비 30%가량 트래픽이 늘어나기도 했지만, 그보다는 프로그램 오류가 더 큰 원인으로 추정된다고 덧붙였다. &lt;br&gt;&lt;br&gt;유웨이 측에 따르면 구제 신청 첫날인 14일 낮 12시까지 302명이 신청했다. 유웨이는 신청자의 로그인 기록 등을 확인한 뒤 실제 구제 대상자들에게 원서 접수 절차를 안내하고 있다. &lt;br&gt;&lt;br&gt;하지만 수험생들 혼란은 가라앉지 않고 있다. 특히 원서 접수 시간을 연장해 준 것이 불공정하다는 불만이 커지고 있다. 일부 대학이 6시 마감 직후 경쟁률을 공개했는데, 이를 보고 유리한 학과에 지원한 경우가 있을 수 있다. 이 경우 일찌감치 원서를 접수한 학생들이 불리하다는 것이다. &lt;br&gt;&lt;br&gt;이날 국회에서도 “원서 접수 마감 시간 연장은 누가 지시했나”라는 질문이 나왔다. 최 장관은 “대교협 회장과 논의해 최종적으로 제가 지시했다”면서 “학생들의 피해가 없도록 최선을 다하고, 이후 책임질 일이 있다면 당연히 장관이 책임지겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;교육부는 연장 시간에 원서를 접수한 수험생에 대한 조치를 검토하겠다고 나섰다. 교육부 관계자는 브리핑에서 “장애 당시 접속 기록이 없는데도 연장된 시간에 경쟁률이 공개된 대학에 원서를 낸 학생들이 있다”며 “불공정 사례로 판단되면 접수 취소를 포함한 추가 조치를 검토하겠다”고 했다. 일각에선 “교육부가 접수 시간을 연장해 놓고 이제 와서 그때 낸 원서를 취소한다면 소송 등을 피할 수 없을 것”이라는 지적도 나왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>포항 공해상서 北 상선 부속선 침몰… 3명 구조·1명 실종</title>
