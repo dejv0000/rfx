@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강북구 북서울꿈의숲에서 모노레일 작업하던 60대 중상</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/20/R6J7T2BN7RAFNPJE5A2EVH5IQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/20/R6J7T2BN7RAFNPJE5A2EVH5IQI/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Sep 2026 13:51:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급 차량./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구 북서울꿈의숲에서 모노레일 선로 작업을 하던 60대 남성이 중상을 입었다.&lt;br&gt;&lt;br&gt;20일 소방 당국에 따르면 이날 오후 6시 10분쯤 북서울꿈의숲 전망대로 올라가는 모노레일 선로 작업 중 공사 관계자 A씨가 레일에 끼이는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 양쪽 대퇴부(윗다리)가 골절되는 중상을 입고 인근 병원으로 옮겨졌다. 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국 등은 현장 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김민석 “계약 파기” 추미애 “방만 운영”… DMZ영화제 예산 놓고 또 충돌</title>
+      <link>https://www.chosun.com/national/regional/2026/09/20/N6E74KA2MJE6HKGJFYAARA5VJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/20/N6E74KA2MJE6HKGJFYAARA5VJU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Sep 2026 13:06:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4DOZTDGM4TQZLBGFSTQOBSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 더불어민주당 대표(왼쪽)와 추미애 경기도지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도의 DMZ국제다큐멘터리영화제 예산 삭감 문제를 놓고 김민석 더불어민주당 대표와 추미애 경기도지사가 공방을 벌였다. 김 대표가 경기도의 영화제 축소 운영을 “계약 파기”라고 비판하자, 추 지사는 영화제의 예산과 관객 수, 인건비 등을 공개하며 “문화예술이라는 이름이 방만한 운영의 면죄부가 돼서는 안 된다”고 반박했다.&lt;br&gt;&lt;br&gt;경기도는 20일 DMZ영화제의 예산 구조와 관객 실적 등을 공개하며 축소 운영이 필요하다는 입장을 밝혔다. 전날 김 대표가 영화제 축소 운영을 “계약 파기”라고 비판한 데 대한 반박 성격이다.&lt;br&gt;&lt;br&gt;경기도에 따르면 올해 영화제 전체 예산은 40억원이다. 이 중 도비는 31억원으로 77.5%를 차지한다. 반면 티켓 판매와 후원·협찬 등 자체 수입은 1억1100만원으로 2.8%에 그친다. 인건비로는 연간 14억원이 들어간다. 비상근 집행위원장과 정규직 10명, 단기 전문 인력 60명 등 모두 71명에게 들어가는 비용이다.&lt;br&gt;&lt;br&gt;경기도는 예산 규모에 비해 관객도 많지 않다고 했다. 도가 집계한 지난해 관람객은 유료 6663명, 무료 7097명 등 1만3760명이었다. 올해 예산을 단순 대입하면 관객 한 명당 약 29만원, 유료 관객만 따지면 약 60만원이 들어간다는 게 도의 설명이다.&lt;br&gt;&lt;br&gt;도는 다른 지자체와 비교해도 지원 규모가 크다고 했다. 서울시가 올해 15개 영화제에 지원하는 전체 예산은 10억3000만원으로 DMZ영화제 한 곳에 들어가는 도비 31억원의 3분의 1 수준이고, 인천 디아스포라영화제의 올해 예산은 6억원이라는 것이다.&lt;br&gt;&lt;br&gt;추 지사도 이날 페이스북에 “경기도정을 인계받아 점검해보니 허술하고 방만한 살림살이가 여러 곳이 눈에 띄었다”고 했다. 이어 “문화예술 지원은 당연히 필요하다”면서도 “문화예술이라는 이름이 방만한 운영의 면죄부가 돼서는 안 된다”며 “도민의 혈세가 제대로 쓰이도록 바로잡겠다”고 했다.&lt;br&gt;&lt;br&gt;논란은 경기도가 재정난을 이유로 영화제 지원 예산을 줄이기로 하면서 불거졌다. 도는 올해 도비 31억원 가운데 6억5300만원을 삭감해 24억4700만원으로 줄이는 내용을 제2회 추가경정예산안에 담았다.&lt;br&gt;&lt;br&gt;그런데 도의회가 감액안을 의결하기도 전에 영화제 측이 줄어든 예산을 기준으로 개막식과 일부 부대 행사 등을 축소하면서 논란이 커졌다. 당초 공지했던 일부 상금과 프로그램도 줄거나 없어졌다. 감액안은 지난 18일까지도 도의회에서 확정되지 않은 상태였다.&lt;br&gt;&lt;br&gt;김 대표가 문제 삼은 것도 이 부분이다. 그는 19일 광주 동구 광주독립영화관에서 청년 영화인들과 만나 영화제 축소 운영을 두고 “어떤 의미에서 보면 계약 파기”라며 “책임 있는 공공은 도의적, 신의적 파괴 행위를 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;도의회에서도 아직 확정되지 않은 감액안을 사실상 확정된 예산처럼 적용해 행사를 줄인 것이 적절했느냐는 지적이 나왔다. 이대한 경기도의원은 “아직 확정되지 않은 감액안을 마치 확정 예산처럼 적용해 영화제를 진행한 이유가 무엇이냐”고 했다. 최규진 경기도의원도 “의회가 의결한 31억원이 아니라 아직 확정되지 않은 24억4700만원을 사실상 확정 예산처럼 적용한 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;다만 경기도가 제시한 관객 수를 놓고는 집계 기준에 차이가 있다. 경기도는 지난해 관람객을 1만3760명으로 집계했지만, 영화제 측은 지난 2월 도의회 업무 보고에서 지난해 관객을 4만여 명이라고 보고했다. 두 수치가 어떤 집계 범위 차이에서 비롯됐는지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>거리로 나온 약사들 “비대면·약배송 확대 정책 반대”</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/20/52FX2KJT6RG5DBZJAXDVYM2JIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/20/52FX2KJT6RG5DBZJAXDVYM2JIU/</guid>
+      <dc:creator>이나윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Sep 2026 08:32:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT5GMOBYHBNNDOWQ5JTR655U2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한약사회 회원들이 20일 서울 종로구 동화면세점 앞에서 열린 국민건강·건강보험 수호 전국 약사 총궐기대회에서 구호를 외치고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 약사와 약대 학생들이 정부가 추진하는 비대면 진료 제도화와 의약품 배송 확대에 반대하는 집회를 열었다. 이들은 20일 오후 3시 서울 종로구 광화문 세종대로사거리에 흰 가운을 입고 모여 “무분별한 약 배송, 국민 건강 위협한다” “가짜 환자, 의료 쇼핑, 건보 재정 파탄 난다” 등의 구호를 외치며 관련 정책 철회를 요구했다. &lt;br&gt;&lt;br&gt;이날 집회에는 주최 측 추산 1만여 명, 경찰 추산 5000여 명이 참석했다. 권영희 대한약사회장은 “국민의 생명과 안전보다 산업 활성화와 사설 플랫폼의 이익을 앞세운 정책을 더 이상 두고 볼 수 없어 광화문에 모였다”며 “무분별한 비대면 진료와 약 배송 확대를 즉각 중단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;비대면 약 배송을 둘러싼 찬반 논쟁은 올해 말부터 정식으로 시작되는 비대면 진료와 함께 불거졌다. 비대면 진료가 시작되면서 올해 말부터 섬·벽지 거주자와 장기요양수급자, 장애인, 감염병 환자 등 일부 환자는 비대면 진료로 처방받은 의약품을 배송받을 수 있게 된다.&lt;br&gt;&lt;br&gt;그런데 최근 보건복지부는 이를 모든 비대면 진료를 대상으로 확대하는 방안을 추진하겠다고 밝혔다. 의료 접근성 등 사유에 관계없이 모든 환자가 비대면으로 약을 배달받을 수 있도록 하겠다는 것이다. 이를 위해 복지부와 중소벤처기업부, 국무조정실 등 관계 부처와 약사 단체, 비대면 진료 중개업체 등 이해관계자가 참여하는 민관 협의체도 운영하기로 했다.&lt;br&gt;&lt;br&gt;약사회는 약물 오남용을 막고 취약 계층을 보호할 안전장치와 관련 인프라가 충분히 마련되지 않은 상황에서 정부가 약 배송 전면 확대를 서두르고 있다며 반발하고 있다. 또 약 배송 확대가 의료 쇼핑과 의약품 오남용을 부추기고 건강보험 재정에도 부담을 줄 수 있다고 우려했다. &lt;br&gt;&lt;br&gt;약대 학생들 역시 반발하고 있다. 김백건 대한약학대학학생협회장은 이날 “이윤 추구에 혈안이 된 민간 배달망 속에서 의약품이 변질되고 다른 사람의 약과 뒤바뀌는 사고가 터진다면 누가 책임질 것인가”라고 했다. &lt;br&gt;&lt;br&gt;약사회는 정부의 약 배송 확대 정책을 저지하기 위해 이달 9일 비상대책위원회를 구성하고 중기부와 국조실 등을 잇달아 찾아 항의했다. 약사회는 약 배송 확대를 논의하기 위한 민관협의체 참여도 거부하고 있다. 약사회는 이날 이후에도 결의대회와 1인 시위 등 현장 투쟁을 이어가는 한편 입법 투쟁을 진행하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;환자 모임이나 소비자 단체 등에선 약 배송 확대 정책에 찬성하는 목소리도 나온다. 환자 편의를 높이고 소비자의 의료·의약품 접근권을 보장하기 위해 비대면 진료와 약 배송을 함께 제도화해야 한다는 것이다. 한국소비자연맹과 한국환자단체연합회, 소비자시민모임, 한국희귀·난치성질환연합회는 지난 9일 공동 성명을 내고 “비대면 진료는 의약품 수령까지 포함해야 완성된다”며 “비대면 진료와 의약품 배송을 함께 제도화해 소비자의 의료·의약품 접근권을 보장해야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;원격의료산업협의회도 정부의 약 배송 확대 추진 방침을 환영했다. 원산협은 지난달 20일 입장문을 내고 “약 배송은 비대면 진료를 이용하는 모든 환자에게 원칙적으로 허용돼야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 남의 BMW 1시간 몰고 간 30대… 잠든 채 붙잡혀</title>
+      <link>https://www.chosun.com/national/regional/2026/09/20/DOAUXBLJSBBW7HH3WGV4OR623E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/20/DOAUXBLJSBBW7HH3WGV4OR623E/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Sep 2026 12:31:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTDGYTCGIYDAMJZMJSDQOLCGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 분당경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 남의 BMW 승용차를 몰고 간 30대 남성이 차 안에서 잠들어 있다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 분당경찰서는 절도와 도로교통법상 음주운전 혐의로 A씨를 입건해 조사하고 있다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 11시 30분쯤 경기 성남시 분당구의 한 상가 건물 주차장에서 BMW 승용차를 훔쳐 약 1시간 동안 음주운전한 혐의를 받고 있다. 당시 차주는 차 안에 열쇠를 둔 채 잠시 자리를 비운 것으로 파악됐다.&lt;br&gt;&lt;br&gt;차주의 신고를 받고 출동한 경찰은 20일 0시 40분쯤 현장에서 10여㎞ 떨어진 용인시 경부고속도로 부산 방향 죽전 버스정류장 인근에서 A씨를 검거했다. A씨는 차량을 세워놓고 안에서 잠들어 있었다. 음주 측정 결과 혈중알코올농도는 면허 취소 수준이었다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 술에 취해 차량을 자신의 차로 착각해 몰고 간 것으로 보고 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영월서 잣 따던 60대, 10m 아래로 추락해 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/09/20/LCIZIU5VMZB2VF2M3UWYGRYZ5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/20/LCIZIU5VMZB2VF2M3UWYGRYZ5Y/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Sep 2026 10:05:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AMGSDX2IFCHRG6X5GQRFEPXX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 낮 12시 43분쯤 강원 영월군 상동읍 구래리 선대골 인근에서 잣을 채취하던 A(68)씨가 나무에서 추락했다.&lt;br&gt;&lt;br&gt;A씨는 잣나무에 올라가 작업을 하던 중 10m 아래로 떨어져 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘공천 헌금 1억’ 강선우·김경, 구속기간 만료로 26일 석방될 듯</title>
       <link>https://www.chosun.com/national/court_law/2026/09/20/CXWQPD5GOZC7LBC3KXWFDKVWHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/20/CXWQPD5GOZC7LBC3KXWFDKVWHM/</guid>
@@ -814,15 +859,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
       </media:content>
     </item>
     <item>
-      <title>‘강남 마지막 판자촌’ 구룡마을... 불법 망루 철거 강제 집행 돌입</title>
-      <link>https://www.chosun.com/national/national_general/2026/09/18/UFYTJ5XCOVFUTLOP3LUSN63HHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/18/UFYTJ5XCOVFUTLOP3LUSN63HHA/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Sep 2026 01:24:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJH55PAMBVJL7M4XEKBLXV5FIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 11월 설치된 서울 강남구 구룡마을 불법 망루./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남 지역의 마지막 판자촌인 개포동 구룡마을에 설치된 ‘불법 망루’를 철거하기 위한 강제집행이 시작됐다.&lt;br&gt;&lt;br&gt;서울중앙지법은 18일 오전 6시 30분쯤 구룡마을 불법 망루 철거 강제 집행에 돌입했다. 해당 망루는 면적 약 78㎡, 높이 11.4m 크기로, 서울주택도시개발공사(SH)와 강남구청 관계자들을 감시하기 위해 2024년 11월 구룡마을 입구에 설치됐다. &lt;br&gt;&lt;br&gt;지난달 12일 서울중앙지법 형사18단독 윤영수 판사는 허가 없이 망루를 설치한 구룡마을 총통합주민자치위원회 위원장 유모(76)씨에게 한 달 이내에 망루를 철거하라고 명령했으며, 기한 내 철거가 되지 않자 이날 SH 직원과 중앙지법 행정관 등이 강제집행에 나섰다. &lt;br&gt;&lt;br&gt;이들의 집행을 지원하기 위해 경찰 기동대와 수서경찰서 경찰관 등 인력 250여명도 투입됐다. 집행관 측은 유씨가 현장에 도착하는 대로 협상을 진행할 예정인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰에 따르면 현재 망루에는 구룡마을 주민 2명이 올라가 있는 상태다. 경찰 관계자는 “주민들의 안전에 유의하며 진행할 것이고, 강제로 들어갈 계획은 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;SH공사는 지난해 구룡마을 일대 토지 소유권을 취득하고 2029년까지 3739가구 규모의 아파트 단지를 준공하는 개발 계획을 발표했지만, 피해 보상 방안을 두고 기존 주민들과 갈등을 빚고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 소송 진 수서경찰서, 3만원 안 내고 버티다… 국고금 두 차례 압류</title>
       <link>https://www.chosun.com/national/national_general/2026/09/18/WZQO2GE2FZCMVF3UQ62ZPSI6NM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/18/WZQO2GE2FZCMVF3UQ62ZPSI6NM/</guid>
@@ -832,28 +868,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MD5FVG6MZBMHPXXLRRP6MXSXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서./김민혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 수서경찰서가 부실한 행정 처리로 민원인과의 정보 공개 거부 처분 취소 소송에서 패소했지만, 소송 비용과 집행 비용을 제때 내지 않아 국고금 일부가 두 차례 압류된 것으로 확인됐다. 국고금은 국가가 한국은행 등에 보관해 둔 공금을 뜻한다. 각 경찰서는 배정 받은 예산 범위 내에서 이 돈을 수사비나 행정비 등으로 사용한다.&lt;br&gt;&lt;br&gt;본지 취재에 따르면, 지난 2021년 7월 전모(46)씨는 직장 동료 A씨가 자신에 대해 ‘무단 결근을 하고 다닌다’는 허위 사실을 유포했다며 명예훼손 혐의로 수서서에 고소했다. 하지만 경찰은 이듬해 2월 증거 불충분으로 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;이후 추가 녹취록을 확보한 전씨는 지난 2024년 9월 A씨를 재고소했지만, 경찰은 두 달 뒤 또다시 불송치했다. 전씨에 따르면, 담당 수사관은 “수사 중인 사건만 30건”이라며 업무량이 많은 점을 토로했다고 한다.&lt;br&gt;&lt;br&gt;경찰 수사에 의문을 가진 전씨는 같은 해 11월 수서서에 수사 보고서와 피의자신문조서 등 수사 자료에 대한 정보 공개를 청구했다. 그러나 수서서는 “진행 중인 형사 절차에 대한 정보”라며 2쪽짜리 ‘불송치 결정서’만 일부 공개한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;과거 검찰에서 수사 자료를 제공받은 적이 있던 전씨는 경찰의 판단을 납득할 수 없다며 같은 해 12월 수서서를 상대로 정보 공개 거부 처분 취소 소송을 제기했다.&lt;br&gt;&lt;br&gt;소송이 시작되자 수서서는 지난해 1월 “직무 수행을 곤란하게 하는 서류를 제외한 수사 자료는 공개하도록 하는 최근 판례들의 추세를 알았다면 비공개하지 않았을 것”이라며 실수를 인정했다. 그러면서 ‘수사 보고서’를 공개할 테니, 대신 소송 비용은 전씨가 부담하게 해 달라는 취지의 답변서를 법원에 제출했다.&lt;br&gt;&lt;br&gt;하지만 법원은 같은 해 8월 수서서의 요청을 거부하며 소송 비용 20만8062원을 경찰이 부담하라고 판결했다.&lt;br&gt;&lt;br&gt;문제는 이후 경찰의 대응이었다. 수서서가 비용을 지불하지 않자 전씨는 국고금에 대한 압류를 신청해 한 달 뒤 인용 결정을 받았다. 수서서는 두 달 뒤 소송 비용 원금을 갚으며 압류는 해제됐다.&lt;br&gt;&lt;br&gt;하지만 압류 절차에서 발생한 법원 송달료 등 집행 비용 3만7690원은 끝내 갚지 않았고, 전씨는 지난 7월 법원에 재차 국고금 압류를 신청했다. 이에 따라 현재 2차 추가 집행 비용을 포함해 수서서가 전씨에게 갚아야 할 금액은 총 7만3330원이다.&lt;br&gt;&lt;br&gt;수서서는 지난달 법원의 압류 결정에 항고한 상태다. 수서서 관계자는 “우리는 원금을 이미 완납했다”며 “집행 비용을 추가로 납부하라는 전씨의 주장과 법원의 압류 결정을 납득할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>아내 유산·사산 때 남편 최대 5일 휴가</title>
-      <link>https://www.chosun.com/national/labor/2026/09/18/IWKRCNF6ERHCZH3AHX7QAPLM7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/09/18/IWKRCNF6ERHCZH3AHX7QAPLM7E/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>앞으로 아내가 유산하거나 사산하면 남편도 최대 5일간 휴가를 쓸 수 있다. 또 아내의 출산 이후에나 사용이 가능했던 남편의 출산 휴가도 출산 예정일 50일 전부터 낼 수 있게 됐다. ‘출산 이후’에 집중됐던 배우자 돌봄 지원이 임신 단계로까지 확대되는 것이다.&lt;br&gt;&lt;br&gt;고용노동부는 이 같은 내용을 담은 관련 법령이 18일부터 시행된다고 밝혔다. 그동안 남편이 쓸 수 있는 임신·출산 관련 휴가 등은 대부분 자녀가 태어난 뒤에만 이용할 수 있었다. 이 때문에 임신 중 위급한 상황이 생기거나 아내가 유산·사산했을 때 곁에서 돌볼 수 있는 제도가 부족하다는 지적이 제기돼 왔다. &lt;br&gt;&lt;br&gt;이번에 새로 도입되는 배우자 유산·사산 휴가는 배우자가 유산하거나 사산한 날부터 20일 이내에 신청해 최대 5일간 사용이 가능하다. 근로자가 신청한 일수만큼 연속해서 써야 하며, 첫 사흘은 유급이다. 사실혼 관계의 배우자가 유산·사산한 경우에도 휴가를 쓸 수 있다. 설사 이번 제도 시행 전에 배우자가 유산하거나 사산했더라도 18일을 기준으로 20일의 신청 기한이 남아 있다면 휴가를 쓸 수 있도록 했다. 사업주에게 휴가를 청구할 때 진단서를 반드시 제출해야 하는 것은 아니지만, 유산·사산 휴가 급여를 받으려면 의료 기관이 발급한 진단서를 관할 고용센터에 제출해야 한다.&lt;br&gt;&lt;br&gt;기존 ‘배우자 출산휴가’는 ‘배우자 출산 전후 휴가’로 이름이 바뀌고, 사용할 수 있는 시기도 출산 전으로 확대된다. 이전에는 배우자가 출산한 뒤 120일 이내에 총 20일의 유급 휴가를 쓸 수 있었지만, 이젠 출산 예정일 50일 전부터 출산 후 120일까지 사용할 수 있다. 출산 전에 20일을 모두 쓰거나 출산 후에 몰아서 사용하는 것도 가능하며, 최대 세 차례 분할해 쓸 수 있다.&lt;br&gt;&lt;br&gt;남성 근로자가 육아휴직을 쓸 수 있는 시점도 출산 전으로 앞당겨진다. 이전에는 자녀가 태어난 뒤에만 육아휴직을 쓸 수 있었지만, 이제 임신 중인 배우자가 유산·조산 위험이 있는 질환을 진단받으면 출산 전에도 사용할 수 있다. 이 경우 휴직 시작일 7일 전까지 신청하면 된다. 출산 전에 사용한 기간만큼 출산 후 쓸 수 있는 육아휴직 기간은 줄어들지만, 육아휴직을 나눠 쓸 수 있는 횟수(총 3회)는 차감되지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AX7K6DQPOVACDLWFDKYO7GV5MA.webp?auth=80ae1a008eb447a6a1d11a2a55592606a9e838366bda1c5caa00ad6264fffa6a&amp;smart=true&amp;width=719&amp;height=480" type="image/webp" height="480" width="719">
-        <media:description type="plain">임신중인 근로자에 대한 육아휴직 확대 시행으로 11월 19일부터 임신 중인 근로자들이 육아휴직을 쓸 수 있다고 고용노동부가 밝혔다./Pixabay</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>양손 가득 대왕 알밤 </title>
-      <link>https://www.chosun.com/national/national_general/2026/09/18/RNAIXBCCBBCHFM2ZP7CV5AGH4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/18/RNAIXBCCBBCHFM2ZP7CV5AGH4U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRLQCXLRBJCXDKLPTHRRDRUSDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석을 8일 앞둔 17일 대전 동구 찬샘마을에서 알밤 줍기 체험 학습이 열렸다. 아이들이 숲속에서 모은 알밤을 들고 즐거워하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여명학교 새 둥지에 주민 반발… 학생들 “공부할 기회를 주세요”</title>
       <link>https://www.chosun.com/national/national_general/2026/09/18/D2TK4ECAQJCQ5O7LA6ETH6HPSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/18/D2TK4ECAQJCQ5O7LA6ETH6HPSU/</guid>
@@ -861,27 +875,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
       <description/>
       <pubDate>Thu, 17 Sep 2026 15:48:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHCIVCURXBGB7GOJHAVZHBO33E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 서울 강서구 여명학교에서 학생들이 ‘한국 사회의 이해’ 수업을 듣고 있다. 여명학교는 탈북 청소년 대안학교다. 2004년 개교한 뒤 교사를 마련하지 못해 서울 곳곳을 떠돌다 최근 가양동 옛 염강초등학교 자리로 옮겨왔다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오후 7시 서울 강서구 가양동 옛 염강초등학교. 학생들이 모두 돌아간 시간에 학교 안팎에 주민 수십 명이 모여들었다. 탈북 청소년 대안학교 ‘여명학교’가 주민 대상 설명회를 연 것이다. 안건은 ‘학교 교사(校舍) 건립’. 그런데 현장에는 경찰도 배치됐다. 학교 주변 아파트에는 ‘주민 동의 없는 여명학교 건립 결사반대’라고 적힌 포스터가 곳곳에 붙어 있었다. 여명학교가 이곳에 새 교사를 마련한다는 소식에 일부 주민은 “집값이 떨어질 수 있다” “탈북민은 느낌이 좋지 않다”고 했다. 주민 단체 대화방에서는 “다른 지역에서는 죽어라 싫어하는 혐오 시설을 왜 강서구에 짓느냐” 등 원색적인 비난이 쏟아졌다.&lt;br&gt;&lt;br&gt;정작 여명학교 학생들은 차분했다. 고교 3학년 안강권(18)군은 “주민들이 편견을 가질 수는 있다고 생각한다”고 했다. 안군은 아홉 살이던 2017년 북한을 탈출해 중국 등을 거쳐 한국에 왔다. 한국에 온 뒤 일반 중학교에 입학했지만 1년도 버티지 못했다. 학교에서 왕따를 당했다. 안군은 “북한에서 왔고 말투가 다르다는 이유로 친구들이 놀아주지 않았다”며 “놀림이 심해져 결국 학교를 옮길 수밖에 없었다”고 했다. 이후 여명학교로 와 5년간 공부한 안군은 이제 체육 교사를 꿈꾼다. &lt;br&gt;&lt;br&gt;탈북민 부모를 따라 지난해 중국에서 한국으로 온 김민정(18)양은 여명학교 입주에 반대하는 주민들을 이해해보려고 애쓴다고 했다. 김양은 ‘통합사회’ 수업에서 지역 주민이 꺼리는 혐오 시설에 대해 배웠다고 했다. 그는 “선생님께서 여명학교도 혐오 시설로 분류된다고 말씀하셨다”며 “근현대사에서 6·25전쟁 전후 과정을 배우다 보니 한국 사람들이 탈북민에 대해 부정적인 인식을 가질 수도 있겠다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;여명학교 학생들은 담담하려 했지만 상처가 안 쌓일 수는 없다. 여명학교 학생들은 주민들이 탈북민에게 쏟아내는 부정적인 말을 두고 서로 이야기를 나누는 일은 거의 없다고 했다. 이야기를 해봐야 당장 달라지는 것은 없고, 서러운 마음만 더 커질 것 같아서라고 했다. &lt;br&gt;&lt;br&gt;여명학교 학생 104명 가운데 가장 나이가 많은 한모(30)씨는 “탈북 청소년들이 여명학교에서 공부하고, 한국 사회에 정착할 기회를 달라”고 했다. 한씨는 2017년 북한을 탈출해 한국에 왔다. 함께 탈북한 어머니는 중국에서 붙잡혀 북송됐다고 한다. 홀로 한국에 정착한 한씨는 생활비를 벌려고 아르바이트를 하면서 뒤늦게 공부를 시작했다. 한씨는 “탈북 청소년 중에는 어린 시절 중국을 거쳐 한국에 오면서 한국어보다 중국어가 익숙해 일반 학교 수업을 따라가기 어려운 경우가 많다”며 “여명학교는 그런 학생들이 한국 사회에 적응할 수 있도록 돕는 곳”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2XNQMLAAJCULD5KMJS24AZVEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 서울 강서구 여명학교 인근 아파트에 여명학교 건립을 반대하는 현수막이 걸려 있다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여명학교는 2004년 개교한 뒤 22년 동안 교사를 마련하지 못해 서울 곳곳을 떠돌았다. 그래도 교사들이 학교를 포기하지 못한 건 탈북 청소년 대부분이 일반 학교에 적응하는 데 어려움을 겪는다는 걸 잘 알기 때문이다. 초등학교 1학년부터 고등학교 3학년까지 전 과정을 운영하는 여명학교는 학생들에게 한국어와 기초 과목을 가르치고 진학·취업을 지원한다. 탈북 청소년이 한국 사회에 적응할 수 있도록 돕는 ‘징검다리’ 역할이다. &lt;br&gt;&lt;br&gt;여명학교가 주민 반대에 부딪친 게 이번이 처음은 아니다. 2019년에는 서울 은평구에 부지를 확보해 새 교사를 짓고 정착하려 했지만 주민 반발로 계획을 접었다. 여명학교는 이번에는 주민들을 설득해 자리를 잡겠다는 생각이다. 학교 측은 지난달 12일에 이어 이날 두 번째 주민 설명회를 열었다. 학교가 새 교사를 짓기 위해 마련한 재원은 100억원. 첫 월급을 받았다며 50만원을 들고 찾아온 졸업생, 아르바이트로 번 돈 가운데 10만원을 내놓은 재학생 등이 보탠 돈이다. 여기에 수많은 개인과 단체 후원이 20여 년간 차곡차곡 쌓였다. 학교는 이렇게 모은 돈을 허투루 쓰지 않았다. 여명학교에는 학생들이 쓰는 책상과 의자, 책장, 피아노까지 새것을 찾아보기 어렵다.&lt;br&gt;&lt;br&gt;지난해 여명학교 사정을 알게 된 현대차그룹 관계자들이 학교를 직접 찾아왔다. 당시에는 별다른 말 없이 학교를 둘러보고 돌아갔다고 한다. 몇 달 뒤 현대차그룹은 새 교사 건립에 60억원을 지원하겠다고 밝혔다. 여명학교가 20여 년간 모은 100억원에 60억원이 더해지면서 비로소 교사를 지을 수 있는 길이 열렸다. 새 교사는 내년 착공할 예정이다. 완공된 건물은 서울시교육청에 기부 채납하고, 여명학교가 최대 20년간 무상으로 사용한다는 구상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>6세 소아비만 아이에도 위고비 투약? “성인비만 미리 차단” “평생 약에 의존”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/09/18/PQP2UTJ75FH7NLL4YOUFFEHDHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/09/18/PQP2UTJ75FH7NLL4YOUFFEHDHI/</guid>
-      <dc:creator>김지원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VS3MZVATH5HD7EZZC5QIFICIQA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/AI 생성 이미지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도에 사는 주부 A씨는 최근 초등학교 3학년 아들이 소아 비만 판정을 받아 고민에 빠졌다. 아들은 키 140㎝에 몸무게 54㎏로, 고도 비만 수준이다. 병원에서는 식단을 조절하고 운동량을 늘리라고 했지만 쉽지 않았다. A씨는 “먹고 싶은 것을 못 먹게 하면 아이가 엉엉 울고, 피곤하다며 운동도 하기 싫어한다”며 “다이어트 때문에 스트레스를 너무 많이 받아 하니 위고비 같은 약이라도 맞혀야 하나 고민하게 된다”고 했다.&lt;br&gt;&lt;br&gt;성인과 12세 이상 청소년에게 사용되는 비만 치료제 위고비가 최근 6~11세 어린이에게까지 확대될 가능성이 열리면서 소아 비만의 약물 치료를 둘러싼 논쟁이 커지고 있다. 위고비 제조사 노보 노디스크는 최근 소아 비만을 앓는 6세 이상 12세 미만 어린이 165명을 대상으로 시행한 임상 3상이 성공했다고 밝혔다. 임상 3상은 미 식품의약국(FDA) 시판 허가 신청 전 의약품의 효과와 안전성을 검증하는 ‘최종 관문’에 해당한다. &lt;br&gt;&lt;br&gt;위고비를 비롯한 GLP-1 계열 비만 치료제는 현재 미국과 한국 모두 12세 이상에게만 사용이 허가돼 있다. 이번 임상 시험 결과로 미국에서 비만 치료제 허가 연령이 12세 미만으로 낮아질 가능성이 커졌다. 이 경우 국내에서도 식품의약품안전처가 허가 연령을 확대할지를 논의하는 움직임이 활발해질 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DIM4FBYKZGV5AYYDK2X5ACFY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 인천 영종도 인천공항본부세관 수출입통관청사에서 관세청 직원이 통관 과정에서 적발된 이른바 ‘짝퉁’ 마운자로와 ‘짝퉁’ 위고비 제품들을 보여주고 있다. 마운자로와 위고비는 비만치료제다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 전문가는 소아 비만이 성인 비만으로 이어져 당뇨병·고혈압 등 만성 질환을 동반할 가능성이 있는 만큼 치료제를 적극적으로 도입하자고 주장한다. 이미 고혈압이나 당뇨 등 만성 질환 징후가 나타난 어린이에게 식단과 운동만 반복해서 권하면 효과적인 치료 시기를 놓칠 수 있다는 지적이다. 켈리 맷슨 미 로드아일랜드대 약학대학 교수는 작년 미국병원약사회 학술대회에서 “GLP-1 계열 약물은 다른 치료법보다 소아 환자의 체중 감소 효과가 크다”고 했다. &lt;br&gt;&lt;br&gt;반면 신체 발달이 진행 중인 어린이가 수년간 약물을 사용했을 때의 부작용을 우려하는 목소리도 적지 않다. 이번 미국에서의 임상시험의 경우 투여 기간이 68주(1년 4개월)였다. 그런데 이보다 장기간 투여할 경우 성장과 사춘기 발달, 근육·골밀도, 췌장 기능 등에 어떤 영향을 미칠지는 아직 확인되지 않았다는 것이다. &lt;br&gt;&lt;br&gt;비만 전문가인 오상우 동국대 가정의학과 교수는 “6세 이상 12세 미만은 한창 성장하는 시기여서 약물을 장기간 사용할 때 매우 신중해야 한다”며 “비만 치료제를 5년, 10년 이상 투여했을 때 성장에 어떤 영향을 미치는지, 약을 끊은 뒤 체중이 다시 증가하는지 등에 대한 장기 추적 자료가 더 필요하다”고 했다. 또 “어린 나이부터 다이어트에 대한 강박 관념을 심어주거나 섭식 장애 등 심리적 문제로 이어질 수 있다는 점도 고려해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VS3MZVATH5HD7EZZC5QIFICIQA.png?auth=67b15ff3ab6604a78f99ef71f7cebabbcb45b89caf6bc6d797f1a623fff81cfb&amp;smart=true&amp;width=1672&amp;height=941" type="image/png" height="941" width="1672">
-        <media:description type="plain">/AI 생성 이미지</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘수시 먹통’ 354건 구제… 경쟁률 본 뒤 지원 3건 취소 권고</title>
-      <link>https://www.chosun.com/national/education/2026/09/18/6R32QK4XFJBQ7PQFVRKX2VHCAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/18/6R32QK4XFJBQ7PQFVRKX2VHCAA/</guid>
-      <dc:creator>오주비 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Sep 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUT4UYV4LNPLJI7GFG4HQRBGY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;교육부와 한국대학교육협의회가 2027학년도 대학 수시모집 원서접수 시스템 장애로 피해를 본 수험생 최대 1200여명을 구제한다. 사진은 14일 서울 금천구 한국대학교육협의회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대입 수시 원서 접수 ‘먹통’ 사태로 원서를 못 낸 354건이 최종 구제됐다. 연장된 원서 접수 시간에 경쟁률을 본 뒤 지원한 사례는 3건으로 파악됐다. 교육부는 3건을 불공정 사례로 보고 대학 측에 취소를 권고했다. 정부가 원서 접수 사이트 장애 발생으로 특정 원서 접수를 취소하라고 대학에 요구하는 것은 처음 있는 일이다. &lt;br&gt;&lt;br&gt;교육부는 지난 11일 발생한 수시 원서 접수 먹통 사태의 최종 조치 사항을 17일 발표했다. 당시 원서 접수 대행 사이트 유웨이어플라이에서 마감 10분 전인 오후 5시50분 장애가 발생해 교육부가 구제 신청을 받아왔다. 마감 시간을 7시까지 연장했는데도 접수를 못한 수험생을 구제하기로 한 것이다. &lt;br&gt;&lt;br&gt;교육부가 14~16일 구제 신청을 받은 결과 총 1588건이 접수됐다. 이 가운데 장애 발생 시점에 원서 작성·저장 등의 이력이 있는 414건이 구제 대상으로 판단됐고, 이 중 실제 원서 접수를 완료한 것은 354건이었다. 354건은 40개 대학 306개 전형에 지원했다. 해당 대학들의 평균 경쟁률은 당초 9.634대1에서 9.635대1로 바뀌었다. 구제 대상이 가장 많이 지원한 대학은 경북대(72건)였고, 그다음은 경희대(51건), 중앙대(48건), 전남대(27건), 국민대(26건) 순이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FYMEM2LLBDTDLZ4YXGEMXIBU4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부 관계자는 “구제된 354건 가운데 3명 이상 지원한 대학 모집 전형은 9개였는데, 이들 평균 경쟁률은 71.25대1이었다”면서 “(경쟁률이 원래 높았기 때문에) 사실 3명이 추가 지원해도 경쟁률 상승분은 그렇게 많지 않았다”고 밝혔다. 온라인 수험생 커뮤니티를 중심으로 “왜 구제해줘서 경쟁률을 높이느냐”는 불만이 나오고 있어 이런 설명을 한 것으로 풀이된다. &lt;br&gt;&lt;br&gt;교육부는 ‘불공정’ 사례도 확정해 발표했다. 당시 17개 대학의 경쟁률이 오후 6~7시 중에 공개됐는데, 연장 접수 시간에 경쟁률을 참고해 유리한 학과에 지원했을 수 있어 불공정하다는 지적이 나왔었다. 교육부 조사 결과, 연장 시간에 17개 대학에 지원한 경우는 39건이었고, 이 중 경쟁률 조회 후 지원한 경우가 3건으로 나타났다. &lt;br&gt;&lt;br&gt;대학 경쟁률 데이터는 원서 대행 업체인 유웨이어플라이와 진학어플라이 사이트에서도 볼 수 있고 대학별 홈페이지에서도 볼 수 있다. 하지만 대학 홈페이지의 경쟁률 데이터 역시 원서 대행 업체들이 제공하기 때문에 경쟁률 조회 기록이 모두 업체에 남는다고 한다. 교육부는 “경쟁률을 조회 후 지원한 것으로 확인된 3건은 수험생 간 형평성과 대입 공정성을 심각하게 저해할 우려가 있다고 판단해 해당 대학에 원서 접수 취소를 권고한다”고 밝혔다. 교육부는 이들 3건이 어떤 대학에 지원했는지는 공개하지 않기로 했다. &lt;br&gt;&lt;br&gt;원서 접수 취소 권한이 대학에 있기 때문에 겉으로는 ‘권고’ 형태지만, 정부가 ‘불공정 사례’로 확정하고 취소를 권고한 만큼 대학들도 따를 것으로 보인다. &lt;br&gt;&lt;br&gt;하지만 일각에선 “3건만 취소하는 게 맞느냐”는 주장도 제기된다. 다른 사람이 경쟁률을 본 뒤 수험생에게 알려주고 원서를 접수했을 가능성도 있기 때문이다. 이에 대해 교육부 측은 “제3의 경로로 경쟁률을 확인할 수 있는 방법을 배제할 수는 없지만, 그 부분은 교육부가 확인할 수가 없다”면서 “경쟁률을 조회한 객관적인 데이터로 취소 여부를 판단할 수밖에 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;이날 발표로 교육부의 행정 조치는 모두 끝났다. 하지만 논란은 당분간 계속될 것으로 보인다. 원서를 일찌감치 정상적으로 접수한 수험생들은 여전히 정부의 구제 결정 자체를 문제 삼고 있다. 그리고 구제 대상에서 제외된 수험생과 접수 취소가 권고된 수험생의 반발도 예상된다. 교육부가 접수 시간을 연장해 놓고 뒤늦게 여론이 좋지 않자 취소하는 건 문제라는 것이다. 이 때문에 이들이 소송을 제기할 가능성도 제기된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title> [부음] 권오인 별세 외</title>
