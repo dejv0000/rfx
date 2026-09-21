@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>연일 신경전 김민석·추미애, 오늘 與 예산정책협의회서 대면 </title>
+      <link>https://www.chosun.com/politics/assembly/2026/09/21/VNOPY6JUUZARVIA5CFKVHMJUSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/09/21/VNOPY6JUUZARVIA5CFKVHMJUSM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Sep 2026 23:33:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4ILMDWJGVA4LMOFHNKH3QVD4I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 12월 26일 더불어민주당 내란극복·국정안정특별원장이었던 김민석 의원과 내란진상조사단장이었던 추미애 의원이 국회에서 회의를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 신경전을 벌이고 있는 김민석 더불어민주당 대표와 추미애 경기지사가 21일 민주당 회의에서 대면한다.&lt;br&gt;&lt;br&gt;김 대표는 이날 오전 9시 20분 경기 의정부시에 있는 경기도청 북부청사에서 당 최고위원회의를 주재한 뒤 이어서 같은 장소에서 경기도와 예산·정책협의회를 한다. 협의회에는 추 지사가 참석한다.&lt;br&gt;&lt;br&gt;추 지사는 지난 12일 이재명 대통령이 검찰 출신의 김지용 변호사를 초대 중대범죄수사청장 후보자로 지명한 것을 두고 “대통령이 내란 세력 등에 업혀서 전전긍긍한다”고 이 대통령을 맹비난했다.&lt;br&gt;&lt;br&gt;그러자 김 대표는 지난 14일 “(누구의 발언인지 알려주지 않은 채로) 블라인드 테스트를 하고 저 발언을 들었다면 사람들이 어떻게 평가할까”라며 “민주당의 책임 있는 정치인, 도지사의 발언이라고 하면 사람들이 의아하게 생각할 것”이라고 했다. 그러면서 “힘을 모아야 할 시점인데, 노무현 대통령이 안착(해야 할 시점)에 (노 대통령을) 탄핵하려 했던 전조와 비슷한 상황으로 가는 것 아닌가”라고도 했다. 추 지사는 노 전 대통령 탄핵 소추에 참여했었다.&lt;br&gt;&lt;br&gt;이후에도 김 대표는 추 지사가 6·3 지방선거 때 친정청래계 유튜버 박시영씨의 컨설팅 업체에 약 20억원을 지출한 사실이 드러나자 지난 17일 “일부 여론조사·컨설팅 업체의 부도덕한 상행위”를 당 차원에서 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;그러자 추 지사는 18일 “근거도 없이 논란을 만드는 배경에 의문이 들고 유감”이라고 반발하고 나섰다. 이어 전날까지도 중수청장 후보자 지명과 관련해 “김지용 후보를 추가 검증한다는데, 과연 어떤 시각에서 하고 있는가”라며 정부를 향해 공세를 이어갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 파업 근로손실 44만일, 이미 작년 기록 넘어</title>
       <link>https://www.chosun.com/national/labor/2026/09/21/PBN24IZ4KZFPZF2DJH2NUE2OLQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/09/21/PBN24IZ4KZFPZF2DJH2NUE2OLQ/</guid>
@@ -871,15 +880,6 @@ SF/Thomas Aurin&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&
         <media:description type="plain">故 이선균 배우 2023.12.23 ⓒ 뉴스1 박정호 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">jungho2035@gmail.com</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>생활 지도 불만 품은 중학생... SNS에 교사 신상 공개하고 “미친 ××들”</title>
-      <link>https://www.chosun.com/national/education/2026/09/18/GA4JJHTCDRFGNER6QQBMMIXBMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/09/18/GA4JJHTCDRFGNER6QQBMMIXBMI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Sep 2026 05:50:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOPOYR2U55NOHNWMOC2FCGIKQ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;18일 경기 수원시 영통구 경기도의회 본회의장에서 열린 '제393회 임시회 제4차 본회의'에서 '경기도교육청 교권보호전담관 운영 조례안'이 통과됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교사의 생활 지도에 불만을 품은 한 중학생이 교사를 찍은 영상과 이름·휴대전화 번호를 온라인에 올린 뒤 잠적하는 교권 침해 사건이 벌어졌다. 피해 교사들은 정신적 고통을 호소하며 교권보호위원회 개최를 신청했다.&lt;br&gt;&lt;br&gt;18일 본지 취재를 종합하면, 경기도의 한 중학교 학생 A양은 지난 17일 “미친 XX”들이라는 욕설이 담긴 글을 소셜미디어(SNS)에 게시했다. 해당 게시글엔 A양이 담임과 교과 교사의 얼굴을 찍은 영상이 첨부됐고, 교사들의 이름과 휴대전화 번호도 적혀 있었다.&lt;br&gt;&lt;br&gt;학교 측에 따르면, 이 영상은 지난 16일 촬영됐다. A양이 자신을 생활 지도하는 피해 교사들에게 반발하며 촬영을 시작했다고 한다. 그날 학교는 교사들을 보호하기 위해 A양을 분리 조치했고, A양의 학부모에게 연락했다. &lt;br&gt;&lt;br&gt;그런데 학교에 온 A양의 학부모는 오히려 교사들에게 “아동학대로 신고하겠다”며 화를 냈다. 그리고 다음날 A양은 피해 교사들의 얼굴과 이름, 휴대전화 번호를 마음대로 온라인에 공개했다.&lt;br&gt;&lt;br&gt;현재 A양이 올린 게시글은 조회수가 25만회 이상이다. 학교는 우선 피해 교사들의 얼굴과 개인 정보가 드러난 게시물을 내리고 싶지만, A양이 학교에 나오지 않았고, A양과 학부모 모두 연락이 닿지 않는다고 한다.&lt;br&gt;&lt;br&gt;A양은 평소 학교에서 교사들의 교육적 지도를 잘 따르지 않고 수업을 방해하는 일이 잦았다고 한다. 하지만 A양 학부모는 자녀가 아닌, 교사에게 잘못이 있다며 실제로 지난 1학기 교사를 아동학대로 신고했다고 한다. 결과는 ‘아동 학대 혐의 없음’이었다.&lt;br&gt;&lt;br&gt;학교 관계자는 “피해 선생님들이 교권보호위원회 개최를 요청해서 지역교육지원청에 이를 신청했다”며 “선생님들이 지금 심리적으로 많이 힘들어하고 있어서 교보위가 최대한 빨리 열렸으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;A양이 올린 게시글에는 “드라마에서나 보던 일이 벌어졌다. 학생이 열 받는다고 선생님 얼굴이랑 전화번호 공개해도 되냐” “교권 박살났다고 하더니 사실이었네” 등의 댓글이 달리고 있다. &lt;br&gt;&lt;br&gt;김동석 한국교총 교권정책본부장은 “학교명, 과목명, 이름, 휴대전화 번호, 얼굴 등 교사의 개인 정보를 동의 없이 학생 마음대로 온라인에 노출하는 것은 교권 침해를 넘어서 인권 침해, 초상권 침해 등에 해당하는 범죄”라며 “이러한 교실 붕괴와 교권 침해 현실을 심각하게 받아들여야 한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “교육 당국은 즉각적인 교권보호위원회 개최와 교사보호 조치에 나서야 한다”며 “중대 교권 침해 행위에 대해선 학생부에 기재하는 등의 대책 마련도 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>입법조사처 “호남 반도체산단 용수공급 안정성 우려...기후부, 구체적 근거 제시 못해”</title>
