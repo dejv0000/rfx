@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>공소시효 12월인데…“선거사건 9월까지 끝내라” 비상 걸린 경찰서</title>
+      <link>https://www.chosun.com/national/national_general/2026/09/24/MYHEAWFJYJFOTFQZIE4T4DTGNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/24/MYHEAWFJYJFOTFQZIE4T4DTGNY/</guid>
+      <dc:creator>윤성은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDPMGK3W7ZPQ5L32XJWYOPTBFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다음달 2일 출범하는 중대범죄수사청(중수청)본청과 서울청이 들어설 서울 중구 르네스퀘어빌딩./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10월 2일 중대범죄수사청(중수청) 출범을 앞두고 공직선거법 위반 사건을 수사하는 경찰서에 비상이 걸렸다. 지난 6·3 지방선거와 관련한 선거법 위반 사건은 공소시효가 12월 3일로 아직 두 달 넘게 남아 있다. 그런데 서울경찰청은 지난 8월 말 각 경찰서와 화상회의를 하며 “공직선거법 사건 수사에 속도를 내라”고 주문한 것으로 전해졌다. 이 회의에서는 “가능하면 9월 안에 수사를 끝내라”는 지시도 나왔다고 한다. 78년 만에 검찰청이 폐지돼 공소청으로 재편되고 중수청과 경찰이 수사를 주도하게 된다. 수사·기소 체계가 크게 바뀌는 만큼 그 전에 사건을 최대한 마무리하겠다는 것이다. &lt;br&gt;&lt;br&gt;경찰청에 따르면 전국 경찰서는 6·3 지방선거 직후 선거 사범 3000여 명에 대한 수사에 착수했다. 경찰청도 지방선거 직후부터 10월 2일까지를 ‘선거 사건 집중 수사 기간’으로 정하고 경찰서 담당 경찰관에게 수사를 신속하게 마무리하라고 주문했다. 검찰청 폐지 전에 수사를 서둘러 사건을 검찰로 송치하라는 취지였다.&lt;br&gt;&lt;br&gt;경찰이 선거 사범 수사를 서두르는 것은 공소청·중수청 출범 후 선거법 위반 사건을 어떻게 처리할지 구체적인 절차가 정해지지 않았기 때문이라는 말이 나온다. 선거법 위반 사건은 관련자 조사뿐만 아니라 사실관계 확인과 법리 검토에도 상당한 시간이 걸린다고 한다. 그동안 경찰은 선거 사범 수사와 관련해 검찰과 사건 처리 방향 등을 협의해 왔다. 경찰이 송치한 다음엔 검찰이 보완 수사를 거쳐 기소 여부를 결정하는 경우도 적잖았다. 그런데 검찰청이 폐지돼 공소청으로 재편되면 검찰은 보완 수사도 할 수 없다. 선거 관련 범죄는 중수청 수사 대상에서도 빠져 있다. 결국 경찰이 독자적으로 선거 사범 수사를 마무리해야 하는 상황에 놓인 것이다. &lt;br&gt;&lt;br&gt;그러자 경찰 내부에선 “선거 사범 수사 난도를 감안하면 아직 준비가 덜 됐다”는 말도 나온다. 선거 관련 범죄는 공소시효가 선거일로부터 6개월이다. 이 때문에 선거 사범 수사를 전담하게 된 경찰이 시간에 쫓기게 될 것이란 얘기도 있다. 경찰 일각에선 수사를 서둘러 마무리하다 과잉 또는 부실 수사로 이어질 수 있다는 우려도 제기된다. 한 경찰 관계자는 “6·3 지방선거 공소시효는 12월인데 국가 수사 체계 개편 때문에 사실상 수사할 시간이 두 달가량 줄어든 셈”이라며 “시간에 쫓겨 수사를 무리하게 하거나 부실하게 할 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;선거 관련 범죄는 점점 늘어나고 있다. 대검찰청에 따르면 제21대 대선 당시 선거 사범 입건 건수는 제20대 대선 대비 46.2% 증가했고, 제22대 총선 당시 선거 사범 입건 건수는 제21대 총선 대비 7.9% 증가했다. &lt;br&gt;&lt;br&gt;딥페이크 등 신기술을 활용한 선거 범죄의 수법도 다양해지고 있다. 6·3 지방선거에서 딥페이크를 이용한 온라인 흑색선전으로 단속된 인원은 51명(32건)이다. &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3년 전 ‘검수일박’ 5대4 합헌… 이번엔 ‘완전 박탈’ 심판대</title>
+      <link>https://www.chosun.com/national/court_law/2026/09/24/GJH4BOG73VF6PAA23SXTDCOKLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/09/24/GJH4BOG73VF6PAA23SXTDCOKLU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Sep 2026 09:00:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NMEWR5EMBLXZC7BPXZXCGOHYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태규(가운데) 국민의힘 법률자문위원회 위원장과 고석(왼쪽), 최지우 부위원장이 지난 8월 13일 서울 종로구 헌법재판소 민원실에서 검찰 보완수사권 폐지를 골자로 한 개정 형사소송법에 대한 헌법소원심판 청구서를 제출하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 다음 달 2일 시행되는 ‘검수완박(검사 수사권 완전 박탈)’이 위헌인지를 심사하고 있다. 헌재는 국민의힘이 지난달 13일 청구한 개정 형사소송법 헌법소원 사건을 지난달 25일 전원재판부에 회부했다. 헌재는 헌법소원이 제기되면 재판관 3명으로 구성된 지정재판부가 법적 요건 등을 따지는 사전심사를 하는데 이 절차를 통과한 것이다. 헌재가 개정 형사소송법이 위헌이나 헌법불합치라고 결정하려면 재판관 9명 중 6명 이상이 동의해야 한다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢 영장신청권=수사권?&lt;/b&gt;&lt;br&gt;&lt;br&gt;핵심은 헌법이 정한 검사의 영장신청(청구)권이 검사의 수사권까지 포함하는 개념이냐는 것이다. 헌법 제12조 제3항은 “체포·구속·압수 또는 수색을 할 때에는 적법한 절차에 따라 검사의 신청에 의하여 법관이 발부한 영장을 제시하여야 한다”고 정하고 있다. 헌법 제16조(후단)도 “주거에 대한 압수나 수색을 할 때에는 검사의 신청에 의하여 법관이 발부한 영장을 제시하여야 한다”고 규정했다.&lt;br&gt;&lt;br&gt;국민의힘은 헌법소원 청구서에서 “검사의 영장신청권은 수사권을 전제로 했는데, 이를 없앤 개정 형사소송법은 위헌”이라고 주장했다. 지난 7월 31일 국회 본회의를 통과한 개정 형사소송법에서는 검사가 직접 또는 경찰 송치 사건을 수사할 수 있다고 정한 제196조가 삭제됐다. “검사와 사법경찰관이 협력해 수사와 공소 제기·유지(재판)를 한다”였던 제195조 제1항에는 “검사는 공소 제기·유지를, 사법경찰관은 수사를 책임진다”가 추가됐다.&lt;br&gt;&lt;br&gt;이밖에 국민의힘은 수사권이 없는 검사는 사법경찰관의 수사 결과에 전적으로 종속돼 권력 통제와 견제를 할 수 없어 문제라고 했다. 수사권이 없어지는 검사가 피의자를 최대 20일 동안 구속할 수 있는 것은 무죄추정원칙과 적법절차원칙에 위배되고, 신체의 자유도 침해한다고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKXVFYDISJJ4XM2WECO27KP5SA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 9월 27일 검수완박(검찰 수사권 완전 박탈)법 권한쟁의심판 사건의 공개변론이 열린 서울 종로구 헌법재판소 앞에 검수완박 반대 및 한동훈 법무부 장관을 응원하는 화환이 줄지어 놓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢 수사권 박탈, 3년 전은 한 표 차 ‘합헌’&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재는 3년 전에도 검사의 수사권을 없애는 게 위헌인지 심사했다. 당시에는 ‘검수완박’이었지만, 현재 기준으로는 ‘검수일박(검사 수사권 일부 박탈)’이라고 할 수 있는 개정 검찰청법과 형사소송법에 대해서였다. 민주당이 주도한 국회는 검찰의 직접수사 범위를 6대 범죄에서 2대 범죄로 축소하는 내용 등을 담은 검찰청법과 형사소송법 개정안을 2022년 4월 30일과 5월 3일 통과시켰다. 문재인 전 대통령은 퇴임 6일 전 국무회의에서 두 개정법을 의결·공포했다.&lt;br&gt;&lt;br&gt;법무부는 새 정부 출범 후인 2022년 6월 27일 한동훈(현 무소속 의원) 장관과 검사 6명 명의로 헌재에 권한쟁의심판을 청구했다. “헌법에 보장된 검사의 수사권과 소추권이 침해됐다”는 것이었다. 법무부는 법 개정 과정의 절차적 문제와 함께, “개정법으로 검찰의 수사 및 공소 기능이 심대하게 제한되고, 헌법이 예정하고 있는 형사사법체계가 훼손돼 국가가 국민 기본권 보호 의무를 하지 못하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;헌재는 이에 대해 9개월 만인 2023년 3월 23일 재판관 5대4 의견으로 각하 결정을 했다. 각하 의견을 낸 유남석·이석태·김기영·문형배·이미선 재판관은 검사의 영장신청권을 규정한 헌법 조항에 대해 “법률전문가이자 인권옹호기관인 검사로 하여금 제3자의 입장에서 수사기관의 강제수사 남용을 통제하는 취지에서 영장신청권이 헌법에 도입된 것으로 해석된다”면서도 “검사의 영장신청권 조항에서 검사의 수사권까지 도출된다고 보기 어렵다”고 했다. 또 한동훈 전 장관은 수사권과 소추권을 직접 행사하지 않기 때문에 청구인 적격이 없다고 했다.&lt;br&gt;&lt;br&gt;반면 이선애·이은애·이종석·이영진 재판관은 개정법이 검사의 수사·소추권을 침해했다고 판단했다. 이들 재판관은 “경찰이 신청했든, 검사가 직접수사했든 검사가 법관에게 영장 발부를 신청하는 행위는 국가의 수사 기능을 실현하는 것으로 헌법상 수사권 행사에 해당한다”고 했다. 헌법에서 검사가 영장을 신청할 수 있게 한 것은 검사에게 수사권도 부여한 것이라는 얘기다. 그러면서 “검사의 수사·소추권을 제한하는 내용의 입법 행위는 ‘준사법작용’인 소추 및 수사 기능의 객관성·중립성·독립성을 훼손해서는 안 된다”며 “개정법의 효력을 제거해 침해된 검사의 권한을 즉시 회복해야 한다”고도 했다. 이들은 한 전 장관의 청구인 적격도 인정했다. &lt;br&gt;&lt;br&gt;공교롭게도 문재인 정부 민주당이 검사 수사권을 제한한 데 대해 문제가 없다고 한 재판관 5명은 진보 재판관으로 분류됐다. 나머지 4명은 보수 또는 중도 성향으로 분류됐다. 이 때문에 “헌법재판관들의 이념 성향대로 결론이 나온 것”이라는 평가가 나왔다. 현재 헌재도 재판관 9명 중 진보 성향 재판관이 더 많은 것으로 분석된다.&lt;br&gt;&lt;br&gt;전 법무부 고위관계자는 “2022년에는 그래도 시행령을 개정해 검사의 직접수사 범위를 넓혔고, 보완수사도 가능했지만 10월부터는 검사가 모든 수사를 하지 못하게 돼 위헌성은 더 커졌다”며 “현재는 법무부가 현 여권이 주도한 개정법에 반대하며 야당의 헌법소원에 호응하지는 못할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 9월 25일 금요일 (음력 8월 15일 壬寅)</title>
       <link>https://www.chosun.com/national/national_general/2026/09/24/CDP4LU4UJJG6HN4KPO3CGM3JDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/09/24/CDP4LU4UJJG6HN4KPO3CGM3JDI/</guid>
@@ -907,15 +925,6 @@ TV조선 야구 해설위원으로 변신한 추신수는 “멀리서나마 대
       <content:encoded>2026 아이치 나고야 아시안게임이 지난 19일 일본에서 막을 올렸습니다. 아시안게임은 4년마다 열리는 아시아 최대 규모 종합 스포츠 대회로, 동계와 하계 대회로 나뉩니다. 이번 제20회 하계 대회에는 선수 1만1000여 명이 참가했습니다.&lt;br&gt;&lt;br&gt;우리 대표팀에 첫 금메달을 안긴 종목은 ‘근대5종’이었습니다. 성승민 선수가 여자 개인전에서 2위 중국 선수를 월등히 앞서며 1위를 차지했어요. 이어 남자 단체전에서도 금메달을 땄어요. 은메달 2개(여자 단체전·남자 개인전), 동메달 1개(남자 개인전)도 따냈죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2ZA2MV5KBE5HNZQMOL6ZADS3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 성승민이 아시안게임 근대5종 여자 개인전 레이저 런 경기에서 가장 먼저 결승선을 통과하며 환호하고 있습니다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근대5종은 어떤 스포츠일까요? 이름에서 알 수 있듯 다섯 종목의 기량을 종합적으로 평가하는 스포츠예요. 먼저 펜싱, 장애물 경기, 수영 실력으로 중간 점수를 냅니다. 이 세 종목에서의 점수가 좋아야 마지막 경기인 ‘레이저 런(laser run)’에서 남들보다 빨리 출발할 수 있어요. 레이저 런은 달리다가 과녁을 만나면 레이저총으로 맞히는 거예요. 육상과 사격이 혼합된 형태로, 이렇게 하면 총 다섯 종목의 기량을 평가하게 되는 것이죠. 사고 우려 때문에 진짜 총 대신 레이저총을 사용해요. 레이저 런에서 결승선을 먼저 통과하는 순서대로 최종 순위가 정해진답니다. 중간 점수가 높으면 남들보다 먼저 출발해 유리하지만, 가빠진 숨을 고르며 표적을 맞히는 것은 쉬운 일이 아닙니다. 그래서 마지막까지 결과를 예측할 수 없답니다. &lt;br&gt;&lt;br&gt;그렇다면 ‘근대’라는 말은 왜 들어갔을까요? 먼저 고대 그리스 올림픽 때 있었던 ‘5종 경기’에 대해서 알 필요가 있어요. 멀리뛰기, 원반던지기, 달리기, 창던지기, 레슬링 등 다섯 종목으로 이뤄진 경기인데, 맹수를 사냥하는 상황을 가정한 거예요. 강을 넘어 맹수를 쫓아(멀리뛰기) 돌을 던지고(원반던지기), 뛰어가서(달리기) 창으로 공격하고(창던지기), 맹수와 대결해(레슬링) 사냥한다는 의미예요. 이런 고대의 ‘5종 경기’ 정신을 계승한 것이 바로 ‘근대5종’ 경기예요. 차이점은 근대5종은 사냥이 아닌 전쟁 상황을 가정하고, 종목을 근대화했다는 거예요. 들판을 달리고(육상) 강을 건너(수영) 적의 말을 빼앗아 장애물을 넘으며(승마), 가까운 상대는 칼로(펜싱), 먼 거리의 적은 총으로(사격) 제압한다는 의미지요. 근대5종은 근대 올림픽의 창시자인 피에르 드 쿠베르탱(1863~1937) 남작이 직접 만들었어요. 그는 “근대5종을 하는 사람은 승패를 떠나 만능선수”라고 했답니다.&lt;br&gt;&lt;br&gt;지금은 승마 대신 장애물 경기가 열려요. 원래 근대5종에선 선수에게 말을 무작위로 배정했는데요. 제한된 시간 안에 모르는 말에 적응하는 능력도 중요하게 생각했기 때문이에요. 또 돈이 많은 선수가 좋은 말을 경기장에 데리고 오는 건 형평성에 어긋난다고 보기도 했어요. 하지만 2021년 무작위로 배정받은 말이 통제에 따르지 않아 선수가 0점을 받는 일이 생겼어요. 또 제대로 교감하지 못한 말을 때리는 ‘동물 학대’ 논란도 일었어요. 결국 2024년 파리 올림픽을 끝으로 승마는 사라지고 대신 일렬로 늘어선 여러 장애물을 통과하는 경기가 도입됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 우회하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/09/23/F6KCHSNLIVCOJINUNHRUX3425I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/09/23/F6KCHSNLIVCOJINUNHRUX3425I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VEAVFSLEZHRPCM2UZZQPMM5DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2955] 칙칙폭폭 꼬리 잇기</title>
       <link>https://www.chosun.com/national/nie/2026/09/23/OXKLRCLO7NDMBAL3OK2FS37JUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/09/23/OXKLRCLO7NDMBAL3OK2FS37JUY/</guid>
@@ -923,15 +932,6 @@ TV조선 야구 해설위원으로 변신한 추신수는 “멀리서나마 대
       <description/>
       <pubDate>Tue, 22 Sep 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUI42YQCKRC4LEOZ7ISKMAZ7BE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 온라인 상태에 있다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/09/23/3MLVJOXJHVE2NG3I2IVBQTUO3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/09/23/3MLVJOXJHVE2NG3I2IVBQTUO3I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Sep 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPS7W6CVPJBGTI7AS52JFN2IYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“지방의회 직원 10명 중 7명 차별·불이익 경험”</title>
