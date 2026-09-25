@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>삼성·LG·효성 낳은 솥바위 기운… 의령서 만나는 ‘진짜 부자의 품격’ </title>
+      <link>https://www.chosun.com/national/2026/09/26/FTBLQ5VOGRGIHHBAZGKKZ6BEMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/09/26/FTBLQ5VOGRGIHHBAZGKKZ6BEMQ/</guid>
+      <dc:creator>의령=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Sep 2026 23:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YSJ3PSN4ZGWRPN2TBT5DYTEOA.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 여성이 솥바위 위에 지폐를 둔 뒤 기도를 올리고 있다. /의령군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDYMNXFZVZDY7NQP4LXMNUCGXI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;부자바위라 불리는 경남 의령군 남강에 있는 솥바위 모습. 의령군은 내달 2일부터 5일까지 '리치리치 페스티벌'을 연다. /의령군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 의령군 남강 물길 한가운데에는 신비한 전설이 깃든 바위가 있다. 세 발 달린 모습이 솥을 닮았다 해 솥바위라 부른다. 한자로는 솥 정(鼎) 자를 써 정암(鼎巖)이라고도 한다. &lt;br&gt;&lt;br&gt;예부터 “이 바위를 중심으로 반경 20리 안에 거부(巨富)가 태어난다”는 전설이 있었다. 20리는 약 8㎞다. 실제로 국내 굴지의 기업 창업주들이 솥바위 반경 8㎞ 주변에서 나고 자랐다. &lt;br&gt;&lt;br&gt;삼성 창업주인 호암 이병철의 생가는 의령군 정곡, LG그룹 창업주인 연암 구인회의 생가는 진주시 지수면 승산마을에 있다. 효성그룹 창업주 만우 조홍제의 생가 역시 함안군 국북면 동촌리에 있다. 삼영화학 창업주 이종환의 생가는 의령군 정동리에 있다. 한국 경제를 일으킨 1세대 기업가들의 태동지이자 ‘부(富)의 기운’이 서린 의령이 올가을 다시 한번 들썩인다.&lt;br&gt;&lt;br&gt;의령군은 10월 2일부터 5일까지 나흘간 의령군 일원에서 ‘2026 의령리치리치페스티벌’을 연다고 26일 밝혔다. 지난해 축제 때는 34만명이 찾았다. 의령 인구(2만4500여 명)의 약 14배가 넘는 사람들이 부자 기운을 얻으러 의령을 찾은 셈이다. 의령군은 “방문객 88%가 외지인이었다”고 했다. &lt;br&gt;&lt;br&gt;올해로 5회째를 맞는 이번 축제는 ‘대한민국 축제 콘텐츠 대상’ 2년 연속 수상에 걸맞게 한층 더 깊어진 메시지와 강력해진 라인업으로 관광객을 맞는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYTOMZZHA3TCMJUMMZWGZTGMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제5회 의령 리치리치페스티벌 포스터. /의령군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 축제의 화두는 ‘3대가 함께 경험하는 부자의 감각’이다. 사람의 오감(五感)에 안목·향기·미식·경청·실천·통찰이라는 여섯 가지 육감(六感)을 더했다. 돈을 좇는 속물적 욕망이 아니라, 도전과 땀으로 일군 부자의 성공 비밀을 공유하고, 이웃과 사회에 환원하는 ‘부의 품격’을 경험하도록 한 것이 올해 축제 콘셉트다.&lt;br&gt;&lt;br&gt;올해 가장 눈길을 끄는 공간은 9개 존으로 꾸민 ‘부자 1번지 주제관’이다. 솥바위 전설과 부자 이야기를 단순한 전시에 머물지 않고, 게임과 디지털 체험으로 확장했다. &lt;br&gt;&lt;br&gt;전통 돌잡이에서 착안한 ‘부자 돌잡이’에서는 자신의 미래 부자 유형을 확인할 수 있다. 삼성 창업주인 이병철 회장의 남다른 안목을 소재로 한 ‘리치리치 진품명품’, 효성 창업주 조홍제 회장의 통찰을 담은 ‘리치리치 리듬게임’, LG창업주 구인회 회장의 독립자금 기부 일화를 바탕으로 한 ‘리치리치 기부게임’ 등 부자들의 삶과 이야기를 색다른 놀이로 풀어낸 콘텐츠도 있다. &lt;br&gt;&lt;br&gt;아이부터 부모, 조부모까지 3대가 즐기는 가족 축제를 만들기 위해 ‘리치 명랑 운동회’ ‘리치패밀리 올림픽’ 등 가족 프로그램도 마련했다. 어린이들이 다양한 직업을 경험하는 ‘리치 키자니아’도 이어진다. &lt;br&gt;&lt;br&gt;솥바위에서는 남강 풍경을 즐길 수 있는 ‘리치 뱃길투어’도 운영된다. &lt;br&gt;&lt;br&gt;무대 위 열기도 세대를 아우른다. 개막 첫날인 2일에는 김용빈·김희재·손빈아가 트로트의 구수한 가락으로 축제의 시작을 흥겹게 알린다. 3일에는 종편 채널의 인기 프로그램 ‘전설의 사내 TOP 7 in 의령’이 마련돼 개성 넘치는 출연진들의 색다른 무대로 축제 열기를 잇는다.&lt;br&gt;&lt;br&gt;4일에는 젊은 층의 눈과 귀를 사로잡을 파격적인 무대가 마련된다. 음원 역주행과 밈(meme) 열풍의 중심에 선 대세 걸그룹 ‘리센느’를 필두로 래퍼 우원재, 육중완밴드, 만능 엔터테이너 홍경민 등 힙합과 밴드, K팝을 넘나드는 공연이 펼쳐진다. &lt;br&gt;&lt;br&gt;축제 마지막 날인 5일에는 박지현·춘길·신인선·길려원·안소미가 축제의 대미를 화려하게 장식한다. &lt;br&gt;&lt;br&gt;축제 기간 매일 밤 9시에는 웅장한 불꽃쇼와 레이저 특수효과가 어우러진 ‘리치 EDM 디스코 뮤직파티’가 의령의 가을밤을 수놓는다.&lt;br&gt;&lt;br&gt;오태완 의령군수는 “다섯 번째를 맞은 올해 축제는 가족이 함께 즐기며 좋은 추억을 만들 수 있도록 다양한 프로그램을 준비했다”며 “리치복권과 부자 떡 나눔 잔치·황금 맥주 페스타 등 먹거리와 즐길 거리도 많다. 의령에서 부자 기운과 행운을 두 손에 꽉 쥐고 돌아가시길 바란다”고 말했다. &lt;br&gt;&lt;br&gt;한편, 경남도와 관광재단은 솥바위와 호암 이병철 생가, 진주 지수면 승산부자마을 및 연암 구인회 생가, 함안 만우 조홍제 생가 등을 관광 루트로 연결해 창업주의 발자취와 기업가 정신을 체험할 수 있는 관광 콘텐츠로 육성할 계획이다. &lt;br&gt;&lt;br&gt;올해 말까지 14억3000만원을 들여 공동 브랜드를 개발하고, K거상 관련 자료를 체계적으로 수집·관리하는 아카이브를 구축한다. 또 창업주의 정신을 담은 문양과 도안, 캐릭터 및 관광 상품(굿즈)은 물론 스포츠 액티비티 등 체험형 콘텐츠도 개발해 선보인다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6YSJ3PSN4ZGWRPN2TBT5DYTEOA.png?auth=288fd9853e7cf07385bff5d916b8369d7035d9a089197b76542c59527f605400&amp;smart=true&amp;width=1026&amp;height=1013" type="image/png" height="1013" width="1026">
+        <media:description type="plain">한 여성이 솥바위 위에 지폐를 둔 뒤 기도를 올리고 있다. /의령군</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“쓰레기 떠넘기지 마라”… 부산시, 생곡소각장 돌파구 찾을까</title>
+      <link>https://www.chosun.com/national/regional/2026/09/26/FG5ARXVGRFE6DJF57TFHQXIURM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/09/26/FG5ARXVGRFE6DJF57TFHQXIURM/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Sep 2026 23:05:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPWNVJJTOJF65IRF5O5WXLWXCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 부산 강서구 강동동 행정복지센터에서 열린 생곡소각장 건립 주민 설명회. 강서구 주민들은 전재수 부산시장이 참여하는 공청회를 요구하며 설명회엔 불참했다. /권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아이 낳아 출산율 높였더니 쓰레기 태워 아이 쫓아냅니다. 에코델타시티 주민 동의 없는 소각장 절대 반대합니다.”&lt;br&gt;&lt;br&gt;“가덕도엔 절대 안 됩니다. 예정대로 생곡에 소각장을 지으세요.”&lt;br&gt;&lt;br&gt;지난 21일 오후 7시 부산 강서구 강동동 행정복지센터. 하루 500t 규모의 생활 폐기물을 처리할 생곡소각장 건립 주민 설명회가 열렸지만 100여 석 중 참석자는 10명도 채 되지 않았다. 설명회장 밖으로 몰려든 주민 대부분은 “전재수 부산시장이 직접 참석하지 않은 설명회는 무효”라며 입장을 거부했다. 반면 대체 부지로 이름이 오르내린 가덕도 주민들은 “원안대로 생곡에 소각장을 지어야 한다”며 맞불을 놓았다. 결국 설명회는 시작부터 파행을 겪었다.&lt;br&gt;&lt;br&gt;부산 강서구 생곡소각장 건립 사업을 둘러싼 갈등이 격화되고 있다. 총사업비 4562억원을 들여 2033년까지 생곡마을 이주 부지(약 5만9500㎡)에 소각 시설을 짓는 이 사업은 2017년 시작돼 2020년 부지가 확정됐다. 전체 이주 대상 162가구 중 133가구가 이미 이사를 마쳤고, 전체 보상비 1404억원 중 910억원이 집행된 상태다.&lt;br&gt;&lt;br&gt;그러나 생곡마을과 약 2.5㎞ 떨어진 에코델타시티 주민들의 반발이 커지면서 사업은 거센 반발에 직면했다. 작년 10월 당시 박형준 부산시장은 다른 부지의 검토 가능성을 언급했고, 다음 달 타당성 용역이 중단됐다. 주민들과 지역 정치권은 이를 사업 재검토로 받아들였다. &lt;br&gt;&lt;br&gt;하지만 6·3 지방선거 이후 전재수 시장이 새로 취임하면서 기존대로 생곡에 소각장을 짓겠다고 하자 강서구 주민들이 또다시 반발하고 나선 것이다. 지난 18일엔 강서구 주민 120여 명이 부산시청 앞에서 집회를 열고 “특정 지역에만 쓰레기 처리를 떠넘기지 마라”며 시장 참석 공청회를 요구했다.&lt;br&gt;&lt;br&gt;앞서 국민의힘 김도읍(부산 강서) 국회의원이 지난 16일 부산시의회에서 연 기자회견 당시 대체 부지로 언급됐던 가덕도 주민들도 강하게 반발하고 나섰다. 최근 가덕도 주민으로 구성된 가덕도주민대표자협의회는 가덕도와 명지동, 녹산동 곳곳에 현수막을 내걸었다. 현수막에는 ‘부산 관문 가덕도신공항, 북극항로 전진기지 부산신항 앞에 쓰레기 소각장이 웬 말이냐’는 내용이 적혀 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42DIZLCGEZTAZJZMI2WCYZYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서구 주민 120여 명이 18일 오전 부산시청에서 생곡 광역폐기물처리시설 건립 계획 철회와 전면 재검토를 촉구하는 집회를 열었다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 더 이상 소각장 건립을 미룰 수 없다는 입장이다. 당장 2030년부터 생활 폐기물 직매립이 전면 금지되는 상황에서 소각장 확충은 더는 미룰 수 없는 과제다. 부산시 추산에 따르면, 2031년 기준 하루 발생 폐기물은 1766t에 달하지만, 해운대·명지 자원순환센터 등 기존 3개 시설의 하루 처리량은 1276t에 불과하다. 매일 490t의 쓰레기가 갈 곳을 잃는 셈이다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “정상 추진되더라도 준공은 2033년에야 가능하다”며 “사업이 무산돼 대체 부지를 다시 찾을 경우 최소 15년이 더 걸리고, 그동안 민간 시설에 위탁 처리하면 공공 소각장보다 톤당 10배 넘는 비용이 든다”고 했다.&lt;br&gt;&lt;br&gt;지자체와 지역 정치권도 배수진을 쳤다. 박상준 강서구청장은 “구민 생명권 보호를 위해 건축 협의 요청을 거부하겠다”며 행정·법적 대응을 예고했고, 다음 달 부구청장을 단장으로 하는 ‘소각장 대응 TF’를 가동할 계획이다. 김도읍 의원과 더불어민주당 변성완 강서구 지역위원장 등 지역 여야 정치권도 일제히 부산시를 압박하고 나섰다.&lt;br&gt;&lt;br&gt;이미 집행된 910억원의 이주·보상비를 두고도 시각차가 크다. 부산시는 사업 중단 시 막대한 매몰 비용이 발생한다고 주장하는 반면, 김도읍 의원은 “생곡마을 이주는 기존 쓰레기 매립장 피해 보상 차원이었던 만큼 소각장 무산으로 날리는 비용으로 단정해선 안 된다”고 반박했다.&lt;br&gt;&lt;br&gt;갈등이 확산하자 부산시는 주민 협의 기구를 만들어 의견을 수렴하겠다는 대책을 내놓았다. 시 관계자는 “사업 추진 과정을 투명하게 공개하고 주민 우려를 해소할 실효성 있는 지원책을 차근차근 마련하겠다”고 했지만, 주민들과 지자체의 반발이 강경해 진통은 당분간 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해고 앞두고 육아휴직, 휴직 중엔 창업... 권리 행사냐 악용이냐</title>
+      <link>https://www.chosun.com/national/labor/2026/09/26/SCLLSHLMUZGDJLO4TKA5ZIMS6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/09/26/SCLLSHLMUZGDJLO4TKA5ZIMS6I/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Sep 2026 23:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GQM6EMMDBAU5I73A6O32DFVO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩·Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장인 남성 A씨는 회사에서 2년간 5차례가량 부서를 옮겼다. 업무 이해도가 떨어지고 이력서에 적힌 경력에 비해 업무 능력이 부족하다는 평가를 받았다. 동료들과 마찰도 잦았고, 부정확한 업무 처리로 문제가 생기는 일도 반복됐다. 회사는 교육을 시키고 다른 부서로 보내봤지만 개선되지 않는다고 판단해 결국 권고사직을 제안했다. 그러자 A씨는 초등학생 자녀를 돌보겠다며 1년간 육아휴직을 신청했다. 회사 측은 육아휴직 기간 현행법상 원칙적으로 해고할 수 없다는 점을 노린 것으로 보고 있다. A씨는 이후 육아휴직을 추가로 6개월 더 연장했다.&lt;br&gt;&lt;br&gt;육아휴직이나 육아기 근로시간 단축, 배우자 출산휴가 등 일·가정 양립 제도가 확대되면서 이를 둘러싼 갈등도 나타나고 있다. 징계·해고나 지방 발령을 앞두고 육아휴직을 신청하거나, 육아휴직 기간에 별도 사업을 하는 경우 등이다. 관련 통계는 없고, 일부 사례이긴 하지만 법이 보장한 권리 행사인지, 제도 취지를 벗어난 ‘악용’인지 경계가 모호하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;현행 남녀고용평등법은 원칙적으로 사업주가 근로자의 육아휴직 신청을 거부할 수 없도록 하고 있다. 특히 육아휴직 기간에는 사업을 계속할 수 없는 경우가 아니라면 근로자를 해고할 수 없다. 육아기 근로시간 단축 역시 원칙적으로 허용해야 하고, 정상적인 사업 운영에 중대한 지장을 초래하는 등 법령이 정한 사유가 있어야만 거부할 수 있다.&lt;br&gt;&lt;br&gt;중소기업에 다니는 B씨는 업무 능력 등을 놓고 회사와 갈등을 겪다 두 자녀를 이유로 육아휴직에 들어갔다. 아이 한 명당 1년 6개월씩 총 3년을 휴직했다. 복직을 앞두고는 육아기 근로시간 단축을 신청했다. B씨는 법이 허용하는 최저 수준인 주당 15시간을 신청했다. 회사 측은 “B씨 업무는 해외 거래처 관리인데, 하루 3시간 근무로는 시차 때문에 업무 수행이 사실상 불가능해 고민”이라고 했다.&lt;br&gt;&lt;br&gt;육아휴직 중 다른 일을 시작하는 경우도 논란거리다. 직장인 C씨는 둘째 아이를 낳은 뒤 육아휴직에 들어갔다. 그런데 휴직 기간 중 별도로 개인 사업체를 차렸다. 사업이 잘되면 회사를 그만두고, 사업이 잘 안 되면 폐업하고 복직한다는 계획으로 전해졌다. 회사에서는 “아이 때문에 회사 일을 못 한다면서 자기 사업은 해도 되는 것이냐”는 불만이 나왔다. &lt;br&gt;&lt;br&gt;인사 이동을 피하려고 육아휴직을 썼다는 논란이 생기는 사례도 있다. 본사를 지방으로 이전한 한 회사에선 서울에서 근무하던 직원이 이전 과정에서 육아휴직에 들어갔다. 복직 때가 되자 이 직원은 “휴직 전 근무지가 서울이었으니 서울에서 계속 근무하게 해달라”고 요구했다. 부서 이동도 어렵다는 입장이었다. 회사는 육아휴직 사용자를 불리하게 대우했다는 논란이 일 것을 우려해 결국 이 직원을 서울 사무소에 남겼다.&lt;br&gt;&lt;br&gt;기업들은 육아휴직 제도의 악용 여부를 가려내기 쉽지 않다고 하소연한다. 한 노무사는 “신청 시점이 징계나 전보 직전이라는 이유만으로 휴직을 막으면 정당한 권리 행사를 침해할 수 있다”며 “반대로 이런 점을 거꾸로 활용하는 일부 사례가 있는 것도 사실”이라고 했다. 그는 “실제 육아 필요가 있는 권리 행사와 징계·전보 등을 피하기 위한 제도 이용을 현실에서 가려내기 어려운 게 문제”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 공포탄 상자째 분실하고, 사격장서 실탄 빼돌리고... 경찰 탄약 관리 ‘구멍’</title>
       <link>https://www.chosun.com/national/incident/2026/09/25/J5L5VEVZS5G6HPGVKLAXVHFGAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/09/25/J5L5VEVZS5G6HPGVKLAXVHFGAA/</guid>
@@ -887,15 +917,6 @@ TV조선 야구 해설위원으로 변신한 추신수는 “멀리서나마 대
       <media:content url="https://www.chosun.com/resizer/v2/4LECTT3HQFGUBNAQFSDC2T2GGA.jpg?auth=ba8cfa53a9236661590e3e525822c6de11abc10094089e06fadb950364f985b0&amp;smart=true&amp;width=2560&amp;height=1440" type="image/jpeg" height="1440" width="2560"/>
     </item>
     <item>
-      <title>‘네팔 슈바이처’ 이근후 교수 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/23/3BV3I4FURFHP7EXOFJYTYCXGJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/23/3BV3I4FURFHP7EXOFJYTYCXGJQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Sep 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBRXHNOLV5APZH62X7BXF7TT3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘네팔 슈바이처’로 불린 이근후(91) 이화여대 의대 명예교수가 21일 별세했다.&lt;br&gt;&lt;br&gt;1935년 대구에서 태어난 고인은 경북대 의대 졸업 후 28년간 이화여대 신경정신과 교수로 재직했다. 국내 최초로 사이코드라마 치료법을 도입했고, 환자를 침대에 묶지 않는 개방 병동을 운영했다. 1989년부터는 매년 네팔 오지 환자들을 돌봤으며, 퇴임 후에도 의료봉사를 이어갔다.&lt;br&gt;&lt;br&gt;빈소는 신촌세브란스병원 장례식장 특1호실, 발인은 24일 오전 6시. 유족은 부인 이동원 이화여대 명예교수와 2남 2녀 등이 있다. 02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[플라자] 관훈클럽, 오태석 우주항공청장 초청 관훈토론회 개최</title>
       <link>https://www.chosun.com/national/people/2026/09/23/HKGPAQK3L5A2ZMUPVWFR5UELWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/23/HKGPAQK3L5A2ZMUPVWFR5UELWM/</guid>
@@ -903,24 +924,6 @@ TV조선 야구 해설위원으로 변신한 추신수는 “멀리서나마 대
       <description/>
       <pubDate>Tue, 22 Sep 2026 15:42:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;관훈클럽&lt;/b&gt;은 30일 서울 중구 한국프레스센터에서 오태석 우주항공청장을 초청해 관훈토론회를 개최한다. 오 청장의 기조발언에 이어 언론인 패널과의 토론이 진행되며, 유튜브 ‘관훈클럽 TV’에서 생중계된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정춘희, 숙명여대 명예박사</title>
-      <link>https://www.chosun.com/national/people/2026/09/23/WDACMUPE35CFPODVSXKLEZDRXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/09/23/WDACMUPE35CFPODVSXKLEZDRXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Sep 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXNVDBIDDVG3LDP2P7IQNH4ZSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정춘희 숙명발전위원회 위원장이 22일 숙명여대에서 명예 문학 박사 학위를 받았다. 정 위원장은 1995년 숙명여대 제2창학 캠페인에 발전기금을 기탁한 것을 시작으로 30여년간 후원을 지속해 왔으며, 2004년부터 2008년까지 제24·25대 총동문회장을 맡아 2006년 창학 100주년 기념 사업을 성공적으로 추진했다. 지난해에는 숙명발전위원장으로 취임해 창학 120주년 기념사업을 기획·추진했다&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박노갑 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/09/23/IPW3HV22FNBIVODBCOZSH7CSA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/09/23/IPW3HV22FNBIVODBCOZSH7CSA4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Sep 2026 15:42:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박노갑 &lt;/b&gt;별세, &lt;b&gt;조영우 &lt;/b&gt;프로야구 롯데 자이언츠 홍보팀 매니저 장인상=22일5시37분 부산 아시아드장례식장, 발인 24일7시, (051)503-0770&lt;br&gt;&lt;br&gt;▲&lt;b&gt;손수춘 &lt;/b&gt;별세, &lt;b&gt;김종현 &lt;/b&gt;브릿지경제 대구경북본부장 모친상=22일6시7분 대구 영남대의료원, 발인 24일8시30분, (053)620-4242&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이재상 &lt;/b&gt;별세, &lt;b&gt;김정자 &lt;/b&gt;남편상, &lt;b&gt;이정석 &lt;/b&gt;제주항공 경영기획본부장·&lt;b&gt;이범석 &lt;/b&gt;부친상, &lt;b&gt;최규옥&lt;/b&gt;·&lt;b&gt;전상희 &lt;/b&gt;시부상=22일9시30분 경기 의정부을지대병원, 발인 24일7시, (031)951-7401&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이재신 &lt;/b&gt;별세, &lt;b&gt;고필숙 &lt;/b&gt;남편상, &lt;b&gt;이지현&lt;/b&gt;·&lt;b&gt;이가현 &lt;/b&gt;국민일보 국제부 기자 부친상, &lt;b&gt;강중모 &lt;/b&gt;파이낸셜뉴스 증권부 기자 장인상=21일11시17분 이대서울병원, 발인 23일6시30분, (02)6986-4440&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 9월 23일</title>
