@@ -13,6 +13,49 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李대통령 사건 재조사 檢미래위에…공소청 감찰부장 “검사 독립 위협”</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/03/AL5PVGG2SRAUNLH3PYEETCH7OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/03/AL5PVGG2SRAUNLH3PYEETCH7OI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Oct 2026 13:50:32 +0000</pubDate>
+      <content:encoded>공소청 감찰부장이 법무부 검찰인권존중미래위원회(검찰미래위) 진상조사단 활동에 대해 “검사 직무의 독립성에 대한 심각한 위협”이라고 비판했다. 법무부 장관이 검찰총장의 지휘권을 배제한 채 진상조사단을 운영하도록 한 것이 위법 소지가 있다는 주장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQWGOLFHFSWCNRVHBQTGMDFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성동 공소청 감찰부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 김성동 공소청 감찰부장(검사장)은 전날 공소청 내부망에 올린 글에서 이같이 밝혔다. 김 검사장은 “공소청 출범이라는 형사사법체계의 중대한 변화가 시작됐으나 검사 직무의 독립성에 대한 심각한 위협이 진상조사단 구성과 활동이라는 형태로 여전히 진행되고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 검사장은 정성호 전 법무부 장관이 검찰미래위와 진상조사단 구성을 지시한 과정에 검찰청법 위반 소지가 있다고 주장했다. &lt;br&gt;&lt;br&gt;김 검사장은 “‘조사기구 운영 관련 장관 지시’에 검찰청법 8조에 근거해 검찰총장 지휘권을 배제하는 지시임을 명확히 하지 않았다면 정치적 책임을 회피하기 위한 우회적, 탈법적 지시로 검찰청법을 위반한 지시”라고 했다. 검찰청법 8조는 법무부 장관이 구체적 사건에 대해서는 검찰총장만 지휘·감독할 수 있다고 규정한다.&lt;br&gt;&lt;br&gt;이어 김 검사장은 조사 대상 사건을 특정하지 않은 상태에서 먼저 검찰총장의 지휘권을 배제한 뒤 사후적으로 대상 사건을 추가한 점도 문제 삼았다. 그는 “검찰총장 권한대행 자신이나 측근 또는 가족이 연루된 것으로 확인되지도 않은 구체적 사건에서 인권침해와 권한남용이 의심된다는 이유만으로 지휘 감독권을 전면 배제하는 지휘를 하는 것은 법무부 장관의 지휘권 남용”이라고 했다.&lt;br&gt;&lt;br&gt;현재 재판이 진행 중인 사건들이 진상조사 대상에 포함된 점에 대해서도 우려를 나타냈다. 김 검사장은 “진행 중인 재판 사건도 다수 포함된 상황에서 조사결과 등에 대해 법무부의 직접적 개입 통로를 규정과 지침 형식을 빌려 제도화하는 것이 가능하다”며 “위법한 진상조사단 구성과 활동 결과에 따라 재판 중인 사건에 대한 조치가 이뤄진다면 헌법상 검사 제도에 대한 심각한 위험이자 위협”이라고 했다.&lt;br&gt;&lt;br&gt;김 검사장은 “전문성을 잃으면 조금 잃은 것이지만 독립성을 잃으면 모두 잃는 것이다. 독립성이 없다면 살았으나 죽은 것”이라고 했다. 또 “위법한 진상조사단 구성과 활동 결과에 기초해 재판 중인 사건에 대한 조치가 이뤄지지 않기를 희망한다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 지난 6월 검찰권 행사 과정에서 제기된 인권침해와 권한남용 의혹을 규명하고 재발 방지책을 마련하겠다며 검찰미래위를 출범시켰다. 이후 총 19건을 조사 대상 사건으로 선정했다. 조사 대상에는 이재명 대통령이 취임 전 기소돼 재판을 받아온 사건 6건도 포함됐다. 쌍방울 불법 대북 송금, 대장동·위례신도시·백현동 개발 비리, 성남FC 불법 후원, 경기도 법인카드 유용 사건 등이다.&lt;br&gt;&lt;br&gt;이 사건들은 아직 1심 판결이 선고되지 않아 형사소송법상 검사가 공소를 취소할 수 있는 단계다. 형사소송법은 1심 판결 선고 전까지 공소 취소가 가능하도록 규정한다. 이에 법조계에서는 “미래위가 검찰 수사에 문제가 있었다는 결론을 내서 이 대통령 사건을 공소 취소하는 명분으로 활용하려는 것 아니냐”는 비판이 니왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국힘 1년만에 장외집회... “이재명 정권 심판해야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/03/AEKOPWEHNBDV7FWGZVGKFF3QU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/03/AEKOPWEHNBDV7FWGZVGKFF3QU4/</guid>
+      <dc:creator>한영원 기자, 권순완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Oct 2026 08:50:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMFVFSYJJZJHRLDMSSHMR5LFBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 장동혁 대표를 비롯한 당원들이 3일 서울 숭례문 앞 세종대로에서 열린 국민의힘 '이재명 정권 심판, 민생회복·안보수호 국민행동대회'에서 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“집값 폭등! 주식 폭락! 이재명을 응징하자” “경제 파탄! 안보 실족! 온 국민이 분노한다!” &lt;br&gt;&lt;br&gt;3일 서울 종로구 숭례문 일대에서 국민의힘이 ‘이재명 정권 심판 민생회복·안보수호 국민행동대회’를 열었다. 국민의힘이 국회가 아닌 서울 도심에서 장외 투쟁을 벌인 건 지난해 9월 28일 서울 대한문 앞 집회 이후 약 1년 만이다. 이날 국민의힘 의원들은 이재명 정부의 검찰청 폐지, 농지 전수 조사, 단일종목 레버리지 ETF 사태 등 주요 정책들이 민생을 어렵게 만들고 있다며 정권을 심판해야 한다고 주장했다. &lt;br&gt;&lt;br&gt;이날 연단에 선 장동혁 국민의힘 대표는 “부동산도, 민생도, 경제도, 안보도, 치안도 모두 지옥”이라며 “이재명 대통령 재판을 즉각 재개해야 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3TKN3GGMZDIMZZMIZWEMBVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 서울 중구 숭례문 앞에서 열린 국민의힘 민생회복·안보수호 국민행동대회에서 참석자들이 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장 대표는 특히 형사소송법 개정으로 검사의 보완수사권이 폐지된 것을 두고 “이재명 대통령이 교도소 제소자들에게 인기 폭발이라고 한다”며 “국민을 챙기랬더니 범죄자들만 챙긴 것”이라고 질타했다. 이어 “교도소 가는 것이 무서운지 공소 취소에 목숨을 걸고 있다”며 “주가 조작, 불법 청탁, 성추행까지 저지른 김승원을 공소 취소용 법무부 장관에 앉히려고 했다”고 지적했다. &lt;br&gt;&lt;br&gt;또 지난달 21일 25사단 소속 장병들이 비무장지대(DMZ)에서 새로운 수색로를 개척하던 도중 지뢰 폭발로 부상당한 사건과 관련해 “이재명 대통령은 왜 북한 김여정에게 찍소리도 하지 못하느냐”며 “누가 보더라도 불법 대북 송금 그 이상의 큰 약점을 잡힌 것이 분명하다”고 했다.&lt;br&gt;&lt;br&gt;이날 연설에 나선 국민의힘 당직자들 역시 논란이 된 이재명 정부의 정책을 언급하며 “정권 심판이 필요하다”고 주장했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WC3Z2UJSG5KKNJ2QQ2G56V35RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 장동혁 대표가 3일 서울 숭례문 앞 세종대로에서 열린 국민의힘 '이재명 정권 심판, 민생회복·안보수호 국민행동대회'에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정점식 원내대표는 “이재명 정부가 도입한 단일 종목 레버리지 ETF 도입으로 54조가 증발했다. 이건 정치가 아니라 약탈”이라며 “부동산 정책으로 국민의 집을 빼앗았고, 농지 조사로 국민의 땅을 빼앗았다”고 했다. 또 검사 보완 수사권 폐지를 두고는 “이재명 정부 내각 전과를 다 합치면 전과 34범”이라며 “범죄자 내각이 범죄자 천국을 만들었다”고 했다. &lt;br&gt;&lt;br&gt;김민전 비례대표 의원은 “권력이 시퍼렇던 전두환, 노태우 정부에서도 그들의 형, 처남, 장인 모두 감방에 갔다”며 이재명 대통령의 공소 취소 특검 추진을 비판했다. 이어 “죄를 지으면 벌을 받아야 한다”며 “이재명 정부가 대한민국의 법치주의를 무너뜨리는 것을 더 이상 지켜볼 수 없다”고 지적했다. &lt;br&gt;&lt;br&gt;이날 집회에선 대장동 개발 비리 혐의로 구속됐다가 석방된 유동규 전 성남도시개발공사 기획본부장도 연설에 나섰다. 유 전 본부장은 “이재명의 폭정이 없었다면 이 자리에 이렇게 많은 분들이 모이지 않았을 것이라고 생각한다”고 했다. 이어 “이재명이 내려오라고 한다고 내려올 사람으로 보이냐”며 “이재명은 반드시 법 앞에 만인이 평등하다는 헌법 논리에 의해 재판을 받아야 한다”고 목소리를 높였다. &lt;br&gt;&lt;br&gt;집회에 참석한 시민들 역시 “대통령이 국민에게 희망을 주지 못하고 있다”고 입을 모았다. 경남 사천에서 4시간 걸려 올라왔다는 국민의힘 당원 이태겸(38)씨는 “나라가 잘못되어 가고 있는데, 대통령께서 여러 지적에도 흐린 눈으로 모르쇠하는 상황이라 국민의 한 사람으로서 불안하다”고 했다. 이날 아내, 아이와 함께 집회에 참석한 이씨는 “저희 아들도 언젠가 군대에 가야 할 텐데 국민이 다쳐도 대통령이 일절 말이 없는 나라라면 어떻게 보내야 할지 모르겠다”며 “오늘의 행사가 대통령에게 국민의 불안을 전달하는 자리가 되기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;경기 화성시에서 숭례문을 찾았다는 조모(79)씨는 “대통령이 국민에게 희망이 되는 메시지를 전해줘야 하는데, 오로지 본인 방탄에만 혈안이 된 모습이 답답하다”며 “고등학생인 손자가 살아갈 세상을 바로잡아야 한다는 생각에 뭐라도 도움이 될까 싶어 오게 됐다”고 했다. 이날 집회 참석자들은 “제멋대로 농지조사 이 나라가 북한이냐” “안보 참사 종북 외교 이재명 OUT” 등의 문구가 적힌 손피켓을 들었다. &lt;br&gt;&lt;br&gt;한편 이날 집회에는 국민의힘 소속 현역 국회의원 70여명을 포함해 각 지역 당협위원장과 지방의원, 당원, 당직자들이 참석했다. 숭례문과 서울시청 사이 약 150m 구간 4개 차로에 시민 1만여명이 모인 것으로 알려졌다. 국민의힘 측은 “20만명이 운집했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇민주당 “장동혁 세 과시용 집회”&lt;/b&gt;&lt;br&gt;&lt;br&gt;더불어민주당은 이날 국민의힘 집회에 대해 “국정감사를 코앞에 두고 제1야당이 거리로 나서는 것이 정말 국민을 위한 것인지 묻지 않을 수 없다”며 ‘장동혁 대표 세 과시용’ 집회라고 평가절하했다.&lt;br&gt;&lt;br&gt;전은수 원내대변인은 이날 서면 브리핑에서 “보도에 따르면 국민의힘은 이번 집회에 총동원령을 내렸다”며 “참석 여부와 총인원까지 보고하도록 했다고 한다. 인원을 할당하고 출석을 점검하는 집회가 국민의 목소리를 대변한다고 말할 수 없다”고 했다 &lt;br&gt;&lt;br&gt;이어 “국민의힘은 1년 전에도 똑같은 집회를 열었다”며 “오늘도 당 대표 한 사람을 지키기 위해, 국정감사는 내팽개치고 당 전체가 거리로 나섰다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “민생과 경제가 어렵고 안보가 엄중하다면, 국회의 일을 하라”며 “국정감사로 정부를 철저히 감시하고, 민생을 위한 실질적 대책을 구체적으로 내놓는 것이 제1야당의 책무”라고 말했다.&lt;br&gt;&lt;br&gt;신현영 대변인도 브리핑에서 “아닌 밤중에 홍두깨 같던 국민의힘 장외집회의 의도가 드러났다”며 “국정감사 준비에 총력을 다해야 할 정기국회 기간에 비판을 무릅쓰고 강행한 집회에서 쏟아진 것은 장동혁 대표 예찬이었다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RS5Y5YPQZZFX5MCTPQZ44EFUHE.jpg?auth=a4984675c9b6ec7936aeb0624cc6a339ce5c009063c2f6855a603c4cdd3d476f&amp;smart=true&amp;width=4664&amp;height=2623" type="image/jpeg" height="2623" width="4664">
+        <media:description type="plain">&lt;YONHAP PHOTO-3531&gt; 국민의힘 정권 심판 국민행동대회
+    (서울=연합뉴스) 류영석 기자 = 국민의힘 장동혁 대표를 비롯한 당원들이 3일 서울 숭례문 앞 세종대로에서 열린 국민의힘 '이재명 정권 심판, 민생회복·안보수호 국민행동대회'에서 구호를 외치고 있다. 2026.10.3
+    ondol@yna.co.kr/2026-10-03 17:29:20/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">류영석</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>고기 더 먹고 운동 더 하는 70대 이상, 10년새 확 늘었다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/10/03/ILK7TVHGD5D73FNLT7LZLFYRD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/03/ILK7TVHGD5D73FNLT7LZLFYRD4/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Oct 2026 09:20:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG6ZKJY7WJCLHBLVYRR56L4L5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 논현노인종합복지관 시니어 스마트 피트니스센터에서 어르신이 근력 운동을 하는 모습. /강남구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10년간 우리나라 70대 이상의 육류 섭취량이 56% 늘고, 근력운동 실천율은 두 배 이상으로 높아진 것으로 나타났다. 두 지표 모두 70대 이상의 증가세가 전 연령대에서 가장 두드러졌다.&lt;br&gt;&lt;br&gt;질병관리청이 전국의 약 1만명을 조사해 최근 발표한 ’2025년 국민건강영양조사' 결과에 따르면, 우리 국민의 하루 평균 육류 섭취량은 2016년 112.8g에서 지난해 131.0g으로 10년간 16.1% 늘었다. 특히 70대 이상이 35.4g에서 55.3g으로 56.2% 급증하면서 가장 큰 폭으로 늘었다. 이어 1~9세(41.2%), 50대(35.3%) 순으로 증가율이 높았다.&lt;br&gt;&lt;br&gt;70대 이상은 ‘근력운동 실천율’도 전 연령대에서 가장 큰 폭으로 증가한 것으로 집계됐다. 근력운동 실천율이란 최근 1주일 동안 팔굽혀펴기, 윗몸일으키기, 아령, 역기, 철봉 같은 근력운동을 2일 이상 실천한 비율을 뜻한다. 70대 이상은 근력운동 실천율이 2016년 12.4%에서 지난해 26.0%로 두 배 이상으로 늘었다. 특히 70대 이상 여성의 경우, 2016년 5.5%에서 지난해 18.5%로 3배 이상으로 높아졌다.&lt;br&gt;&lt;br&gt;한 번에 10분 이상 걷기를 하루 총 30분 이상, 최근 일주일간 5일 이상 실천한 비율인 ‘걷기 실천율’도 70대 이상의 상승 폭이 가장 컸다. 2016년엔 33.6%로 전 연령대에서 가장 낮았지만, 작년엔 45.7%로 60대(48.0%)에 이어 두 번째로 높았다. 40대(37.7%)와 50대(39.6%)는 물론 30대(40.7%)와 20대(44.0%)보다도 높았다.&lt;br&gt;&lt;br&gt;고령층은 특히 충분한 단백질 섭취와 적절한 근력운동이 근감소증 예방 등을 위해 중요하다. 근감소증은 단순히 근육량이 줄어드는 증상이 아니라 노화 등으로 근력도 떨어지고 보행 등 신체 기능까지 저하되는 질환이다. 최근 질병청에 따르면 80세 이상 4명 중 1명(26.9%)은 근감소증을 앓고 있다.&lt;br&gt;&lt;br&gt;유럽임상영양대사학회(ESPEN)는 고령자가 체중 1㎏당 하루에 최소 1g의 단백질을 섭취하도록 권고하고 있다. 세계보건기구(WHO)는 65세 이상이 주요 근육을 사용하는 근력운동을 일주일에 이틀 이상 할 것을 권고한다. 근력 등을 강화하는 운동이 신체 기능 저하와 낙상 위험을 줄이는 데 도움이 된다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 예천서 구제역 소 10마리 추가 확인… 전국 집중 소독</title>
+      <link>https://www.chosun.com/national/incident/2026/10/03/3ORW4YO6XNBR5EIGO7DZRXK2KI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/03/3ORW4YO6XNBR5EIGO7DZRXK2KI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Oct 2026 09:13:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNQTQOJVGZTDINJTMFSTANBWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소독 시설 통과하는 가축 방역 차량./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 예천군의 소 농장에서 구제역이 추가로 발생했다. &lt;br&gt;&lt;br&gt;3일 구제역 중앙사고수습본부 등에 따르면 이날 경북 예천군 소 농장 예찰 검사에서 구제역 항원 양성 10마리가 확인됐다. &lt;br&gt;&lt;br&gt;지난달 3일 구제역이 발생한 예천 지역의 방역 지역 내에 있는 이 농장은 소 98마리를 사육하는 것으로 알려졌다. 이번 검사는 방역 지역 해제를 위한 예찰 과정에서 진행됐다.&lt;br&gt;&lt;br&gt;감염이 확인된 항원 양성 개체 10마리는 살처분되고, 임상 증상이 있거나 항원 양성 개체가 추가로 확인될 경우, 추가로 처분된다. &lt;br&gt;&lt;br&gt;중수본은 구제역 확산을 막기 위해 초동 방역 팀과 역학 조사반을 현장에 파견하고, 역학조사, 정밀·임상 검사 등을 진행하고 있다. &lt;br&gt;&lt;br&gt;중수본은 또 광역 방제기와 방역차 등 장비 69대를 투입해 농장과 주변 도로를 대상으로 소독‧세척을 진행하고, 예천군과 가까이 있는 안동시, 의성군, 상주시, 문경시, 영주시, 단양군 등 인접 시군 6곳의 우제류 농장과 축산시설, 축산 차량 등에 대한 특별 방역 관리도 시행한다. &lt;br&gt;&lt;br&gt;이 외에 오는 10일까지 전국 일제 집중 소독 주간을 운영할 방침이다. &lt;br&gt;&lt;br&gt;올해 구제역 발생 건수는 총 14건으로, 지역별로는 경북 예천 9건, 경기 고양 2건, 인천 강화 3건 등이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경기 안산 전자제품 서비스 센터에 차량 돌진… 인명피해는 없어</title>
       <link>https://www.chosun.com/national/incident/2026/10/03/VXGYLMW4GBBYBJZ4KO7XGM4OYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/03/VXGYLMW4GBBYBJZ4KO7XGM4OYM/</guid>
@@ -851,24 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ODLYHA73JC6FA35GRHBOPBWKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 유해진이 광고 모델인 버거 프랜차이즈 광고. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 30일 야근을 마치고 집으로 돌아가던 직장인 김모(31)씨는 서울 지하철역 광고판에서 평소 즐겨 먹던 치킨 브랜드 광고를 봤다. 집에 도착할 무렵 배달 앱을 켠 김씨는 평소처럼 치킨을 주문하려다 손을 멈췄다. 이 회사 광고 모델로 활동한 배우 이민호가 떠올랐기 때문이다. 이 배우는 최근 역사 왜곡 논란이 불거진 영화 ‘암살자(들)’에 출연했다. 온라인에서는 이민호가 이 회사 치킨을 들고 있는 광고 사진에 빨간색 ‘불매’ 표시를 붙인 이미지가 퍼지고 있었다. &lt;br&gt;&lt;br&gt;영화 암살자(들)을 둘러싼 역사 왜곡 논란이 상품 시장으로 옮겨붙었다. 이 영화가 육영수 여사 피격 사건의 배후에 박정희 당시 대통령이 있었을 가능성을 암시하는 내용을 담아 불거진 역사 왜곡 논란이 불매 운동으로 번진 것이다. 영화에 출연한 배우 등이 광고 모델로 출연한 제품이 불매 타깃이 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWC3743CTRCDZJD45TEVEMLARY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암살자(들) 주연 중 한 명인 유해진이 광고 모델인 버거 프랜차이즈도 불매 대상이 됐다. 이 회사는 유해진을 모델로 버거 신제품을 광고했는데, 암살자(들) 역사 왜곡 논란이 불거진 뒤 이 광고를 비튼 패러디물이 인스타그램과 스레드 등에서 퍼지고 있다. 원래 광고 포스터에서 유해진의 얼굴만 모자이크로 가린 이미지다. 이 회사 앱에서 회원 탈퇴를 한 뒤 이를 인증하는 사진도 SNS에 잇따라 올라오고 있다.&lt;br&gt;&lt;br&gt;제품 매장도 평상시보다 한산한 모습이다. 1일 오전 11시 50분 서울 구로구의 한 버거 매장은 점심시간을 앞두고도 한산했다. 테이블 30여 개 중 손님이 앉아 있는 곳은 4곳뿐이었다. 인근 회사에 다닌다는 직장인 박모(30)씨는 “평소 점심시간이면 사람이 많아 음식을 받는 데 15분 넘게 걸렸는데 오늘은 사람이 별로 없어 3분도 안 돼 음식을 받았다”고 했다. 이홍주 숙명여대 소비자경제학과 교수는 “소비가 자신의 가치관이나 사회적 의견을 표현하는 수단이 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;암살자(들) 역사 왜곡 논란이 불매 운동으로 번지자 업체들도 당황해하고 있다. 이민호가 광고를 한 치킨 프랜차이즈 관계자는 “이민호는 지난 8월 31일 계약 기간이 끝나 현재 우리 광고 모델이 아니다”라며 “당시에도 국내가 아닌 중국 시장을 겨냥해 기용한 모델이었다”고 했다. 유해진을 광고 모델로 쓴 버거 회사도 “유해진은 가을 신제품 캠페인에 한정해 기용한 단발성 모델”이라며 “2주 안에 계약이 종료될 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이런 가운데 온라인에서는 암살자(들)을 비판하는 밈(meme·인터넷 유행)과 패러디도 쏟아지고 있다. 영화에 출연한 박해일·유해진·이민호의 얼굴이 나란히 등장하는 암살자(들) 포스터의 제목과 문구를 바꾸는 식이다. ‘자살자(들)’ ‘영부인(들)’ 등 가상 영화 포스터가 대표적이다. 인스타그램과 스레드 등에는 노무현 전 대통령의 죽음에도 다른 배후가 있었다고 가정한 ‘시계와 바위 남자(들)’ ‘미는 자(들)’ 같은 가상 포스터가 올라왔다. ‘아수라: 공소취소, 멈춰버린 다섯 개의 재판’이라는 제목을 붙인 이미지도 등장했다.&lt;br&gt;&lt;br&gt;불매 운동과 각종 밈은 20·30대가 주도하고 있다는 분석이 나온다. 이들은 1974년 육 여사 피격 사건을 직접 경험하지 않은 세대다. 하지만 다른 연령대보다 이 영화를 역사 왜곡으로 보는 이가 많았다. 개혁신당 산하 개혁연구원이 지난달 29일 성인 남녀 1017명을 대상으로 “‘암살자(들)’이 육 여사 피격 사건의 배후에 의문을 제기한 것을 역사 왜곡으로 보느냐”고 물었더니 30대는 73.8%가, 20대는 65.7%가 “역사 왜곡으로 본다”고 답했다. &lt;br&gt;&lt;br&gt;이런 가운데 박정희대통령기념재단과 육영재단, 박정희학술원은 이날 공동 입장문을 내고 영화 제작진에 대국민 사과와 상영 중단을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[플라자] 관훈클럽 제44회 관훈언론상 후보작 공모</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/10/02/3IVPJVZLI5FMPGCUIGIMC24ZAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/02/3IVPJVZLI5FMPGCUIGIMC24ZAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 15:38:00 +0000</pubDate>
-      <content:encoded>▲관훈클럽이 사회 변화, 권력 감시, 지역 보도, 국제 보도, 저널리즘 혁신 등 5개 부문에서 제44회 관훈언론상 후보작을 공모한다. 접수 기간은 11월 1일부터 10일 오후 4시까지. 수상작 상금은 각각 1000만원.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 재정경제부</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/10/02/YSWX2DWQNVAXDKWZVRMOXZYBQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/02/YSWX2DWQNVAXDKWZVRMOXZYBQQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 15:38:00 +0000</pubDate>
-      <content:encoded>▲재정경제부▷장관비서관 김명규▷경제공급망기획관 이승욱▷개발금융국장 주현준▷국회 재정경제기획위원회 파견 박홍진&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>호날두, 포르투갈 대표팀서 짐 쌌다… 출전 시간 불만… 감독과 불화설</title>
       <link>https://www.chosun.com/national/people/2026/10/02/5AU54FMAS5DZ7G5LK3AJTLET6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/10/02/5AU54FMAS5DZ7G5LK3AJTLET6M/</guid>
@@ -885,24 +910,6 @@
       <description/>
       <pubDate>Thu, 01 Oct 2026 15:38:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34OUSMQKOFCCPCJNV4LECDVLWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 9월 30일 오후 서울 종로구 경복고등학교에서 '고 김세경 동문 유고영시집 출판기념회 및 바바라 셔크 선생님 환영회'가 열렸다. 바바라 셔크가 제자들에게 꽃다발을 받고 기념촬영을 하고 있다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“헤드, 숄더, 니즈 앤드 토즈~(Head, Shoulder, Knees and Toes).”&lt;br&gt;&lt;br&gt;지난달 30일 오후 서울 종로구 경복고 동창회관에 동요가 울려 퍼졌다. 익숙한 멜로디였다. 어린아이들이 부르는 게 아니었다. 머리가 희끗한 노인들이었다. 그들을 푸른 눈의 외국인이 흐뭇하게 바라봤다. 동요를 부르는 이들보다 나이가 더 지긋해 보였다. &lt;br&gt;&lt;br&gt;1960년대 한국을 찾아 중학생들에게 영어를 가르쳤던 미국인이 다시 한국을 찾아 60년 만에 옛 제자들을 만났다. 1971년 문을 닫은 서울 경복중 18회 졸업생들이 미국 평화봉사단 파견 60주년을 맞아 스승이었던 바바라 셔크(83)씨를 한국에 모셔와 환영회를 열었다. 이날 모인 셔크씨의 제자는 변재진(73) 전 보건복지부 장관, 최재천(72) 이화여대 자연과학대학 석좌교수, 노영상(72) 전 호남신학대 총장 등 31명이다.&lt;br&gt;&lt;br&gt;셔크씨는 1966년 9월 미국 평화봉사단원으로 한국 땅을 밟았다. 평화봉사단은 존 F. 케네디 전 미국 대통령이 개발도상국 발전을 지원하려고 설립한 해외 봉사 단체다. 한국에 파견된 평화봉사단원은 1966년부터 1981년까지 총 2000여 명. 이들은 교육, 보건·의료, 농업, 지역사회 개발 등 분야에서 한국의 전후(戰後) 재건과 발전을 도왔다. 당시 봉사단원이었던 데이비드 맥캔 하버드대 명예교수, 에드워드 슐츠 하와이대 명예교수 등은 한국을 찾았던 인연으로 미국에서 한국 문학·한국학 연구의 기틀을 닦았다. &lt;br&gt;&lt;br&gt;1기 봉사단원이었던 셔크씨는 미국 더글라스 칼리지를 졸업한 역사학도였다. 아시아사(史)를 배우며 한국에 관심을 갖게 돼 봉사단에 지원했다고 한다. 2년간 한국에 머물며 교육 봉사를 하고 미국에 돌아가 미시간주립대에서 인류학 석사 학위를 받았다. 이후 일본인 남편과 결혼해 일본에서 살면서 프리랜서 작가·번역가로 활동했다.&lt;br&gt;&lt;br&gt;셔크씨가 처음 한국에 왔을 때 영어를 한 마디도 못 했던 경복중 학생들은 60년 사이 유창한 영어로 옛 스승과 소통했다. 김동제(73) 전 경복고 동문회장은 “당시엔 선생님과 말이 안 통해서 칠판에 그림을 그리고 몸짓을 하며 수업을 따라갔다”고 했다. 최재천 교수는 “짓궂었던 남학생들이 선생님의 가르침 덕분에 이렇게 성장했다”며 “선생님께 영어뿐만 아니라 문화와 예절, 인내심도 배울 수 있었다”고 말했다.&lt;br&gt;&lt;br&gt;셔크씨는 “1960년대 한국에서 볼 수 있던 외국인은 주한미군과 선교사 정도라 아이들이 처음엔 외국인 선생님을 어려워했다”며 “나중엔 선물이라며 작은 상자에 개구리를 넣어와 놀래키며 장난도 쳤다”고 했다. 그는 “학생들에게 가장 많이 했던 말이 ‘조용히 하라(Be quiet)’였다”고 했다.&lt;br&gt;&lt;br&gt;이날 행사에서는 고(故) 김세경 작가의 유고 영시(英詩)집 ‘무지개를 향하여(Run for the Rainbow)’ 증보판 출판 기념회도 함께 열렸다. 김 작가도 셔크씨 제자였다. 김 작가는 서강대 영어영문학과를 졸업한 뒤 1976년 육군 소위로 복무 중에 별세했다. 셔크씨는 “세경이는 영어를 특출나게 잘했던 학생이라 기억에 남는 제자”라고 했다.&lt;br&gt;&lt;br&gt;지난달 13일 입국한 셔크씨는 이달 20일까지 한 달 넘게 한국에 머물며 한국에 거주하는 그의 딸과 시간을 보낼 예정이다. “아마도 살면서 한국을 방문하는 게 이번이 마지막일 것 같아요. 60년 동안 나를 잊지 않고 초대해 준 제자들에게 감사합니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>진석범 사랑의열매 사무총장</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/02/HEKWRVVFT5AVPBYIWKZSQRLBEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/02/HEKWRVVFT5AVPBYIWKZSQRLBEM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHOR5BAAGNFHBHY4HS2274LCWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑의열매 사회복지공동모금회는 제10대 사무총장에 진석범 전 경기복지재단 대표를 선임했다고 1일 밝혔다. 임기는 3년.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김영돈 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/10/02/BGDOFN3CEBHB7KVKRYL46NSLOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/02/BGDOFN3CEBHB7KVKRYL46NSLOM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 15:38:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김영돈&lt;/b&gt; 별세, &lt;b&gt;김정겸&lt;/b&gt;·&lt;b&gt;김명자&lt;/b&gt;·&lt;b&gt;김명숙&lt;/b&gt;·&lt;b&gt;김명옥&lt;/b&gt;·&lt;b&gt;김명희&lt;/b&gt; 부친상, &lt;b&gt;박강수&lt;/b&gt; 前 서울 마포구청장·&lt;b&gt;홍성환&lt;/b&gt;·&lt;b&gt;박종일&lt;/b&gt;·&lt;b&gt;정인준&lt;/b&gt; 장인상, &lt;b&gt;이현선&lt;/b&gt; 시부상=30일14시41분 충남 예산명지병원, 발인 2일6시, (041)334-0444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;노현진&lt;/b&gt; 별세, &lt;b&gt;유진숙&lt;/b&gt;·&lt;b&gt;유대현&lt;/b&gt; 연세대 의과대학 교수·&lt;b&gt;유수현&lt;/b&gt; 제이앤피메드 부사장 모친상=1일6시 신촌세브란스병원, 발인 4일6시30분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박인출&lt;/b&gt; 별세, &lt;b&gt;박병한&lt;/b&gt; YES24 사외이사·&lt;b&gt;박정미&lt;/b&gt;·&lt;b&gt;박선희&lt;/b&gt;·&lt;b&gt;박수경&lt;/b&gt;·&lt;b&gt;박시영&lt;/b&gt; 부친상, &lt;b&gt;장명식&lt;/b&gt;·&lt;b&gt;임경천&lt;/b&gt;·&lt;b&gt;김창현&lt;/b&gt;·&lt;b&gt;홍지헌&lt;/b&gt; 장인상, &lt;b&gt;권희정&lt;/b&gt; 시부상=30일21시30분 서울대병원, 발인 3일6시30분, (02)2072-2010&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2026년 10월 2일</title>
