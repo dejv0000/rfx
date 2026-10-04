@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 10월 5일 월요일 (음력 8월 25일 壬子)</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/04/PI45KJ3BV5H4VFV2BDDYWRXHSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/04/PI45KJ3BV5H4VFV2BDDYWRXHSE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>소아응급실 압수수색에 젊은 소아과 의사들 “이러고 현장 남아달라 하나”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/10/04/F6HRGPAIDZBXBDDCPI44LMK2R4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/04/F6HRGPAIDZBXBDDCPI44LMK2R4/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 05:00:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH532CEHSCC7NQW75ZPSOZ7YOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한 대학병원 소아전문 응급의료센터. 사진은 기사 내용과 관계 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 아기 사망 사건 수사를 위해 지난달 말 아주대병원 소아응급센터를 압수수색한 것과 관련, 의료계의 비판과 반발이 거세지고 있다.&lt;br&gt;&lt;br&gt;지난 의정 사태 당시 소아청소년과 전공의들이 만든 모임인 NGP(Nextgen pediatrics)는 3일 성명을 내고 “경찰과 법원은 압수수색 영장 심사·집행 과정에서 환자 안전을 어떻게 고려했는지 명확히 밝히고, 책임을 져야 한다”며 “응급 진료 중인 현장에서 처방용 컴퓨터를 점유해야만 했던 이유와 다른 방법으로 자료를 확보할 수 없었는지 밝혀야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “실제 진료 차질과 환자 안전에 미친 영향을 확인하고 공식적으로 사과해야 한다”며 “그 과정에서 환자에게 발생한 피해도 책임을 져야 한다”고 했다. 24시간 중증 환자를 돌보는 응급실 진료를 경찰이 방해한 만큼 그에 대한 사과와 책임 있는 조치가 뒤따라야 한다는 것이다.&lt;br&gt;&lt;br&gt;이들은 “의료법은 진료 기록을 추가하거나 수정한 경우 수정 전후 기록을 모두 보존하도록 정하고 있으며, 전자의무기록시스템엔 기록 추가∙수정 내용과 일시, 작성자가 영구 기록된다”며 “그럼에도 수사자료 확보를 위해 응급진료가 이뤄지는 바로 그 순간, 환자 안전을 위협하며 진료실을 점유하는 방식이 반드시 필요했는지 묻지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;특히 “경찰과 보건복지부는 진료 중인 의료기관을 수색할 때 환자 생명과 진료를 보호하기 위해 구체적인 절차를 마련해야 한다”며 “진료 책임자와의 사전 조율, 진료에 필요한 전산·장비 사용 보장, 응급상황 발생 시 집행 중단∙조정 등 최소한의 환자 보호 원칙이 실제 수사 현장에서 작동하도록 명확한 기준을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;NGP는 구조적인 문제도 지적했다. 이들은 “치료 결과만으로 의료진 과실을 예단하고 형사 책임부터 추궁하는 수사와 사법기관의 행태에 반대한다”며 “환자의 위중함과 당시 의료진이 갖고 있던 정보, 급박한 진료 여건과 현대 의학의 한계를 충분히 살피지 않은 채 사후적으로 당시 의료적 판단을 재단하는 관행은 즉각 중단돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2KXB47S4VDFFFWNI5BI3SAOSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 “중증 환자를 진료한 결과가 언제든 수사와 처벌로 돌아올 수 있고, 그 수사를 위해 눈앞의 다른 환자를 진료하는 일마저 중단될 수 있는 환경에서 과연 중증∙응급 진료를 계속할 수 있겠느냐”며 “이런 현실을 보여주면서 젊은 의사들에게 필수의료 현장에 남아 달라고 요구할 순 없다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 “수사·사법기관은 좋지 않은 결과만으로 의료진 과실을 예단하고 형사 책임부터 추궁하는 관행을 중단해야 한다”며 “환자의 위중도와 당시 의료진이 확보할 수 있었던 정보, 진료 여건과 현대 의학의 한계가 수사에 충분히 반영될 수 있게 구체적 기준을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이들은 끝으로 “우리는 우리 앞에 온 아픈 아이를 외면하지 않고, 그 아이 생명을 끝까지 힘껏 지켜주고 싶어서 이 길을 선택했다”며 “그 마음으로 아이들 곁을 지키려는 젊은 의사들이 떠나지 않도록, 이제는 이들을 지킬 수 있는 진료 환경이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;전국 소아청소년병원 100여곳을 회원으로 둔 대한소아청소년병원협회도 같은 날 성명을 내고 “이대목동병원 신생아 사망 사건 소송 이후 전공의 지원 기피 현상으로 소아 필수의료가 붕괴의 단초가 된 악몽이 재현되지 않길 바란다”며 “대한민국 소아 필수의료의 지속 가능성을 결정하는 문제로 인식, 책임 있는 대책을 마련할 것을 강력히 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;협회는 “수사와 객관적 규명은 필요하지만, 진료 현장의 안전과 의료의 특수성을 존중해야 한다”며 “이를 위해 의료 사고에서 환자 사망이라는 결과와 의료진의 형사 책임을 동일시하지 말고 응급·중증진료 과정에서 발생한 불가피한 결과와 명백한 범죄 행위를 구별할 수 있는 전문적이고 객관적인 조사 체계를 확립하고, 강제 수사는 환자 안전과 진료 연속성을 침해하지 않는 최소한의 방식으로 이뤄지도록 명확한 기준을 마련하라”고 했다.&lt;br&gt;&lt;br&gt;형사 처벌 부담에 따른 방어 진료로 소아응급센터가 환자를 안 받으면 중증 환자는 지역 소아청소년병원으로 밀려가고, 이들 병원마저 감당하지 못해 다시 상급 병원을 찾아 떠도는 악순환이 발생할 수 있다는 게 협회 주장이다.&lt;br&gt;&lt;br&gt;협회는 “의사는 수련 과정에서 어려운 환자를 피하지 말고 마지막 순간까지 살릴 방법을 찾으라고 배우는데 중증 환자를 적극적으로 치료한 결과가 좋지 않을 때마다 압수수색과 형사 입건의 위험을 감수해야 한다면, 젊은 의사들이 현장에서 배우는 교훈은 중증 환자를 받지 말라, 조금이라도 위험하면 전원하라가 된다”면서 “이는 의료의 실패가 아니라 의료 체계의 실패”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연휴 마지막날 낮 기온도 5도 뚝... 전국 곳곳에 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/10/04/MKJCVIIRJ5HULEMT5YVRVAEZKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/04/MKJCVIIRJ5HULEMT5YVRVAEZKY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 04:52:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZDMNBWGY4TGMDGMZRTEODDHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 아침 기온이 12도를 기록하며 쌀쌀한 가을 날씨를 보인 지난 1일 서울 종로구 광화문 네거리에서 직장인들이 긴팔을 입고 출근을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연휴 마지막 날인 5일 낮 기온이 크게 떨어지며 쌀쌀할 것으로 예보됐다. 전국 곳곳에선 비도 예상된다. 한반도가 가을의 한복판에 진입하면서 밤과 낮의 기온이 동반 하락하고 있다.&lt;br&gt;&lt;br&gt;4일 기상청에 따르면, 비구름대를 동반한 기압골의 영향으로 4~5일 전국 곳곳에 비가 내리겠다. 4∼5일 이틀간 예상 강수량은 수도권·강원도 5~30㎜, 충청·전북 5㎜ 등이다. 남부·제주에도 5㎜ 미만의 약한 비가 내리겠다.&lt;br&gt;&lt;br&gt;구름대가 낮동안 햇볕을 가리면서 5일 낮 기온은 전날 보다 5도가량 떨어질 것으로 보인다. 오후부터 찬 바람도 강하게 불면서 체감온도는 실제 기온보다 낮을 전망이다. 5일 아침 최저 기온은 11∼17도, 낮 최고 기온은 19∼25도로 예보됐다.&lt;br&gt;&lt;br&gt;4일 현재 서울엔 건조특보가 발효된 상황이다. 북쪽에서 내려온 한랭건조한 바람이 습도를 낮추고 있기 때문이다. 여기에 바람도 강하게 불면서 수도권에선 작은 불씨가 큰불로 번질 수 있다. 5일 수도권에 비가 내리면서 건조특보는 해제되겠으나, 여전히 산불이 날 수 있을 정도로 대기 상태는 계속 건조할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 특급호텔서 ‘유독성 가스 ’ 발생... 투숙객·직원 59명 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/10/01/TH55GKFNLRBE3GDPWQOXDTP3B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/01/TH55GKFNLRBE3GDPWQOXDTP3B4/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Oct 2026 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YDIYRRGM3WGZBVMFRTMYJVMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 제주 한 호텔에서 발생한 소독약 오주입 사고현장/ 제주소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 유명 호텔에서 소독약을 잘못 사용해 유독성 가스가 발생하는 사고가 났다. 이로 인해 객실에 있던 투숙객들이 병원으로 이송된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;1일 제주소방안전본부 등에 따르면 이날 오전 10시40분쯤 서귀포시 중문관광단지에 위치한 5성급 특급 호텔에서 수영장을 소독하기 위해 소독약을 배합하는 과정에서 비율을 잘못 사용해 유독성 염소 가스가 발생했다는 신고가 접수됐다. 소방은 이날 호텔 기계실에서 유독성인 염소 가스가 발생한 것으로 추정하고 있다. 소방 당국은 임시 의료소를 설치해 대응하고 있다.&lt;br&gt;&lt;br&gt;이 사고로 현재까지 85개 객실에 투숙중이던 이용객과 직원 등 59명이 병원으로 이송된 것으로 집계됐다. 호텔측은 사고가 발생하자 호텔 전체에 대피방송을 실시한 것으로 알려졌다. 투숙객들은 메스꺼움과 어지러움, 구토, 투통 등의 증상을 보이고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>선거법 등 위반 혐의 김상욱 울산시장, 첫 경찰 출석</title>
+      <link>https://www.chosun.com/national/regional/2026/10/04/3RK34YVW2JBLXOL767Y3MPLSHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/04/3RK34YVW2JBLXOL767Y3MPLSHA/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 01:32:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPYI5OZTBBMEDOBZOVP5BGJACA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의와 해외 성매매 현지 의혹 등으로 경찰 수사를 받는 김상욱 울산시장이 4일 울산경찰청에 출석하며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의와 해외 성매매 의혹 등으로 고발된 김상욱 울산시장이 4일 경찰에 출석했다. 김 시장이 이 사건들과 관련해 경찰에 출석한 것은 처음이다.&lt;br&gt;&lt;br&gt;김 시장은 이날 오전 8시쯤 울산경찰청에 도착해 취재진에게 “법을 위반한 것이 없음에도 고발이 남발된 상태”라며 “이번 경찰 조사를 통해 그런 잘못된 것들이 바로잡히는 계기가 됐으면 좋겠다”고 말했다. 이어 “여러 헛소문까지 퍼져 개인적으로 매우 모욕적이고 시민들께서도 혼란스러워하는 부작용이 생기고 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 조사는 공직선거법 위반 혐의에 집중될 것으로 알려졌다. 해당 혐의의 공소시효는 오는 12월 3일 만료된다.&lt;br&gt;&lt;br&gt;김 시장은 지난 6·3 지방선거 당시 더불어민주당과 진보당의 울산시장 후보 단일화 과정에서 여론조사를 중단한 경위 등을 놓고 고발됐다. 당시 김 시장 측은 “일부 세력의 조직적 개입이 의심되는 정황이 발견되고 있다”며 여론조사 중단을 선언했다. 이후 진보당 측이 재경선을 받아들였고, 김 시장은 단일 후보로 선출된 뒤 시장에 당선됐다.&lt;br&gt;&lt;br&gt;국민의힘 울산시당은 이 과정에서 김 시장이 허위 사실을 공표하고 여론조사 업무를 방해했다며 경찰에 고발했다. 특정 세력의 조직적 개입이 확인되지 않았는데도 여론조사 업체가 특이 사항을 발견해 조사를 중단한 것처럼 발표해 선거에 영향을 미쳤다는 주장이다.&lt;br&gt;&lt;br&gt;김 시장은 필리핀 성매매 의혹과 관련해서도 고발된 것으로 알려졌다. 이 의혹과 관련된 인사들이 의혹을 무마하려고 특정인에게 금품을 전달한 정황이 있다는 내용의 고발도 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;김 시장은 전날인 3일 SNS를 통해서도 의혹을 부인했다. 그는 “3~4년 전 변호사로 일할 당시 출입국 업무를 확대하기 위해 현지 업계 관계자들을 만나러 필리핀을 방문한 것”이라며 “성매매설까지 제기하고 있다. 정도가 지나친 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이어 “무혐의가 나오면 의혹을 제기하고 허위 선전·선동한 무책임한 분들은 정계 은퇴, 의원직 사퇴 등 책임 있는 행동을 해야 한다”며 “의혹을 확대 재생산한 특정 언론은 시민께 공식 사과해야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 시장은 이날 경찰 출석에 앞서 “잘못한 것이 없기 때문에 일하는 데만 집중할 생각”이라며 “오늘 조사도 편안한 마음으로 왔다. 있는 그대로 말씀드리면 될 것이라고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전통 신화부터 스포츠까지… 전국체전 품은 ‘탐라문화제’</title>
+      <link>https://www.chosun.com/national/regional/2026/10/04/C4XP7A3D5FG77LQB2Y7KHOKMXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/04/C4XP7A3D5FG77LQB2Y7KHOKMXE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 04:08:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7Q526NHM5BXBJW66BA7SA5WHY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 관덕정 일대에서 제62회 탐라 문화제 탐라 퍼레이드가 진행되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주 대표 전통문화축제인 탐라문화제가 제주에서 열리는 전국체육대회와 연계해 문화와 체육이 어우러진 축제로 펼쳐진다.&lt;br&gt;&lt;br&gt;제주도는 오는 10일 서귀포 칠십리야외공연장에서 사전행사를 시작으로 17∼21일 제주시민복지타운광장 일대에서 제65회 탐라문화제를 연다고 4일 밝혔다. 올해 주제는 ‘탐라의 숨결, 체전의 열정, 하나 된 제주’다.&lt;br&gt;&lt;br&gt;16∼22일 제주에서 열리는 전국체전 방문객이 제주 전통문화를 함께 즐길 수 있게 공연과 전시, 체험, 야간 행사를 한곳에서 선보인다.&lt;br&gt;&lt;br&gt;축제는 제주의 역사와 신화, 민속문화를 바탕으로 한 ‘뿌리마당’과 ‘놀이마당’, 예술과 도민 참여 프로그램을 담은 ‘어울마당’과 ‘꿈빛마당’ 등 4개 마당 16개 프로그램으로 꾸며진다.&lt;br&gt;&lt;br&gt;17일 삼성혈에서 탐라개벽신위제를 열어 탐라개벽문화의 향불을 채화하고 축제의 성공을 기원한다. 제주의 신화와 역사, 문화적 정체성을 현대 공연예술로 재해석한 창작 가무극 ‘바람의 딸, 섬이 되다’도 무대에 오른다. 제주인이 서로를 지켜온 연대의 역사를 담은 작품으로 18∼20일 오후 8시 시민복지타운광장 탐라무대에서 만날 수 있다.&lt;br&gt;&lt;br&gt;18일에는 읍면동 민속보존회가 참여하는 탐라퍼포먼스가 열리고 축제 기간 전통놀이를 직접 체험하고 겨루는 탐라스포츠아레나도 운영한다. 어울마당에서는 국내외 교류도시와 예술단체의 공연을 선보이는 문화이음마당과 제주 무형유산 전승자들의 공연·시연을 만나는 탐라무형유산축전 등이 열린다.&lt;br&gt;&lt;br&gt;제주 지역 공예 작가가 참여하는 아트마켓 ‘탐나들이’와 주민이 직접 참여하는 미디어아트 ‘네온 탐라록’도 마련된다. 청소년과 동호회, 생활 예술인이 참여하는 ‘와릉와릉 페스티벌’을 비롯해 도민 창작 작품을 전시하는 ‘다이나믹 탐라’, 제주 식재료를 활용한 먹거리 공간 ‘탐라 멘도롱장터’, 신화를 소재로 한 야간 산책 프로그램 ‘탐라유람’도 운영한다.&lt;br&gt;&lt;br&gt;위성곤 제주지사는 “탐라문화제가 제주의 역사와 문화, 공동체 정신을 널리 알리는 대한민국 대표 문화 관광 축제로 발돋움하길 바란다”며 “풍요로운 가을에 도민과 관광객이 함께 즐기며 소중한 추억을 만드는 축제의 장이 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>편의점서 술·담배 훔쳐 달아난 40대 男 검거</title>
+      <link>https://www.chosun.com/national/regional/2026/10/04/3A5P64EAMZECVGO4JAZESXA4Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/04/3A5P64EAMZECVGO4JAZESXA4Q4/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 03:38:31 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZDKODFHA2WMOLCMNSWMN3GGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;편의점에서 직원을 위협하고 술과 담배를 훔쳐 달아난 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 영도경찰서는 강도 혐의로 40대 남성 A씨에 대해 구속 영장을 신청할 예정이라고 4일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 새벽 오전 1시 57분쯤 영도구의 한 편의점에 들어가 여성 직원을 위협하며 카운터와 진열대 기물을 파손하고 술1병과 담배 4갑을 훔쳐 달아났다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨를 새벽 2시 24분쯤 주거지 앞에서 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, ‘탄흔 티켓’ 상업화 강력 비판…제작진 사과 촉구</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/04/CRGMMYIOLBG3ZLMMCCLJIE2AVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/04/CRGMMYIOLBG3ZLMMCCLJIE2AVY/</guid>
+      <dc:creator>이미지 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 02:42:35 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 육영수 피격 사건을 다룬 영화 ‘암살자(들)’에 대해 “인간의 존엄마저 포기한 저급한 상업주의는 어떤 명분으로도 용납될 수 없다”고 비판했다. 영화 ‘암살자(들)’이 피격 지점에 탄흔이 표시된 티켓을 굿즈(기념품)로 내놓은 것에 대한 것이다. 그는 “표현의 자유에도 지켜야 할 선이 있다”며, 감독과 제작자 등 영화 관계자들이 유가족에게 정식으로 사과할 것을 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYTANZXHFRDENJVHEYGENLBGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;메가박스의 영화 ‘암살자(들)’ 오리지널 티켓. 피격 지점에 탄흔이 표시돼 있다. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 4일 페이스북에서 “육영수 여사가 피격당한 순간을 연상시키는 이른바 ‘탄흔 티켓’이 등장했다”며 “얄팍한 상술이라고 치부하기에는 도를 넘어도 한참 넘은 몰지각한 상업적 행태”라고 말했다.&lt;br&gt;&lt;br&gt;그는 “여사는 대한민국 영부인이기 전에 한 사람의 아내였고, 세 자녀의 어머니였다”며 “(흉탄에 목숨을 잃는) 그 참혹한 순간마저 손에 쥐고 즐기는 ‘굿즈’의 소재가 돼야 하나”라고 지적했다.&lt;br&gt;&lt;br&gt;그는 자유의 가치를 인정하지만 해당 작품은 선을 넘었다는 입장을 밝혔다. “한 사회의 문화적 수준은 무엇을 표현할 수 있느냐만이 아니라 무엇을 표현하지 않을 것인가를 스스로 판단하는 데서도 드러난다”며 “할 수 있어도 하지 않는 절제, 돈이 되어도 팔지 않는 금도. 그것이 자유 사회를 지탱하는 최소한의 품격”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 “창작의 자유나 마케팅이 타인의 비극을 팔고 조롱해도 되는 면죄부가 될 수 없다”면서 관계자들에게 “상처받은 유가족과 국민에게 사죄하고, 이에 상응하는 책임 있는 조치를 취하기 바란다”고 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 계속되는 김지용 논란… 박지원, 강경파에 “뿅망치로 내려칠까”</title>
+      <link>https://www.chosun.com/politics/assembly/2026/10/04/M2S3K7ICSJCFBLODA2XY26HXH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2026/10/04/M2S3K7ICSJCFBLODA2XY26HXH4/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 01:43:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTGMMDGHFSWGOBRG5STIY3FGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5선의 박지원 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 김지용 초대 중대범죄수사청 후보자에 대한 여권 강경파의 반발에 직접 반박하면서 김 후보자 인사청문요청안을 국회에 보냈지만 반대론이 잦아들지 않고 있다. 이런 가운데 5선의 민주당 박지원 의원은 4일 강경파를 향해 “뿅망치로 내려칠까”라고 말하며 당 지도부에 의원총회를 열어 표결로 당론을 정하자고 제안했다.&lt;br&gt;&lt;br&gt;박 의원은 3일 밤 페이스북에 글을 올려 “김 후보자에 대한 당내 반발이 지속?”이라며 당내 반발의 규모와 지속성에 대해 의문을 표했다. 박 의원은 “김영진 행정안전위원장, 서영교 법제사법위원장 등 몇 분의 의원님과 소통하며 의견을 교환”했고 “원외(에서 반대하는) 한 분은 접촉 안 했지만, 원내 3~4분의 의원님이 반대?”라고 했다. 그러면서 “소위 강경파로 알려진 김용민 의원님께서도 반대를 하지만 당의 결정을 존중하겠다고 한다”고 주장했다.&lt;br&gt;&lt;br&gt;박 의원은 “문제는 청문회를 하는 행안위원들”이라며 “김 위원장은 찬성이고, 반대 의사를 표명하는 의원은 2명”이라고 했다. 김 후보자를 반대하는 의원이 소수라는 것이다.&lt;br&gt;&lt;br&gt;박 의원은 이들에 대해 “뿅망치로 내려칠까”라고 했다. 김 후보자에 대해서는 “옥에도 티가 있고, 순금은 없다”고 했다.&lt;br&gt;&lt;br&gt;박 의원은 그러면서 “닥치고 의총 소집, 무제한 토론하고 표결, 당론 결정을 제안한다”고 했다.&lt;br&gt;&lt;br&gt;박 의원은 한편 “장외 집회에서 (국민의힘) 장동혁 대표 연설은 제2의 윤석열이고, 무소속 한동훈 의원도 ‘생쇼’를 한다”며 “뿅망치로 내려친다”고 했다. 이어 “우리가 뭉쳐야 내란 세력을 척결할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 대통령은 김 후보자가 검사 출신으로 ‘친윤’이라는 여권 강경파의 주장에 대해 지난달 30일 “허위임을 알면서 하는 억지 주장은 국정 방해”, 이달 1일 “검사 출신이라고 다 버리자면 조국혁신당 박은정 의원, 민주당 이성윤 의원도 검사 출신인데 그분들은 어찌 되겠나”, 2일 “(김 후보자는) 최소한 친윤이라고 단정하기는 어렵지 않겠나”라고 반박했다. 이어 2일 김 후보자 인사청문요청안을 국회로 보내면서 임명 강행 의지를 보였다.&lt;br&gt;&lt;br&gt;그러나 같은 날 박주민 의원은 “(김 후보자가 검찰 개혁) 원칙을 지켜나갈 수 있는 사람인지 보고 부적합하다면, 부적합한 것 아니냐는 목소리를 내겠다”고 했다. 윤건영 의원은 “저는 (김 후보자 임명에) 반대한다”며 “청와대가 재검증까지 해서 대통령이 추천하겠다고 하는데, 인사권은 존중해야 한다고 본다. 그런데 저는 굉장히 치밀하게 보려고 한다”고 했다. 김용민 의원은 서울 서초구 공소청(옛 대검찰청) 앞에서 기자회견을 하고 “김 후보자는 검찰 개혁에 반대해 온 인물”이라며 “간판만 바꿔서는 개혁이 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DENLGGRSWCNBWMQ3TMNBXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주당 소속 추미애 경기지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 경기지사도 2일 밤 페이스북에 글을 올려 “제가 (김 후보자를) 검사장으로 발탁한 것을 그를 신뢰하는 근거로 삼지 말아 달라”며 “저의 사람 보는 실력이 형편없음을 고백하고 가슴을 친다”고 했다. 그러면서 “(윤석열 당시) 검찰총장에 대한 징계가 부당하다는 집단 항명에 김지용도 이름을 올렸다”며 “친윤인가 반윤인가는 문제의 본질이 아니다. 언제든 국민과 정의에 등 돌릴 수 있는 자를 개혁의 사명을 띠고 출범하는 배의 선장으로 왜 중용하는가”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한강에서 폭탄 투하 시범을?… 지금은 사라진 ‘한강 에어쇼’ 이야기</title>
       <link>https://www.chosun.com/national/national_general/2026/10/04/EKOU2F42OVC6PKQ7GNOGLKT32A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/04/EKOU2F42OVC6PKQ7GNOGLKT32A/</guid>
@@ -853,51 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DASDBK4MJVJ5HG2637MUVPPYNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전종민 중대범죄수사청 차장이 2일 서울 중구 르네스퀘어에서 열린 중수청 개청식에서 인사말을 하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 취임한 전종민(59·사법연수원 24기) 중대범죄수사청 초대 차장이 “‘절제’를 최우선 원칙으로 삼겠다”고 했다.&lt;br&gt;&lt;br&gt;전 차장은 이날 서울 중구 르네스퀘어빌딩에서 열린 중수청 개청식에서 “국가 권력을 입법과 행정과 사법으로 나누었듯 이제 우리는 수사와 기소를 나눈다. 나뉜 권력이 저마다 스스로를 절제할 때 그 나눔은 비로소 완성된다”면서 이같이 말했다.&lt;br&gt;&lt;br&gt;검찰청이 78년 만에 폐지되고 수사는 중수청이, 기소 및 공소유지(재판)는 공소청이 맡게 된 것을 언급하면서 “절제된 수사”를 강조한 것으로 해석된다. 전 차장은 그러면서 “절제는 수사를 덜 하겠다는 뜻이 아니라 더 정확하게 하겠다는 약속”이라고 했다. &lt;br&gt;&lt;br&gt;전 차장은 “수사 역량을 키우려는 것도 더 많이 베기 위해서가 아니라, 더 적게 베고도 병의 뿌리를 도려내기 위해서”라면서 “이것이 헌법과 형사소송법이 요구하는 비례의 원칙이며, 중수청이 스스로에게 부과하는 규율”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 전 차장은 범죄 피해자와 사회적 약자 보호, 정치적 중립과 수사의 독립, 법과 원칙에 따른 공정한 직무 수행, 최고 수준의 전문 수사 역량 확보, 국민 인권과 적법 절차 보장 등 다섯 가지를 약속한다고 했다.&lt;br&gt;&lt;br&gt;전 차장은 “중수청이 충분한 준비 없이 출범하는 게 아니냐는 우려가 적지 않다는 것을 잘 알고 있다”면서도 “인천국제공항도 2021년 문을 열 때 우려가 컸지만 오늘날 세계 최고 수준의 공항으로 우뚝 섰다”고 했다. 전 차장은 “저희를 향한 우려를 흘려듣지 않고 하나하나 답해 나가며, 회의적인 시선을 신뢰로 바꾸어 놓겠다”고도 했다.&lt;br&gt;&lt;br&gt;한편 윤호중 행정안전부 장관도 이날 중수청 개청식에 참석해 “새로운 형사 사법 제도가 다음 100년을 떠받치도록 그 뿌리를 깊게 내리겠다”고 했다. 윤 장관은 “수사와 기소가 분리되더라도 국민을 위한 책임까지 나누어서는 안 된다”며 “각 기관이 자신의 역할을 충실히 수행하면서도 사건의 시작부터 마무리까지 공백이 생기지 않도록 빈틈없는 공조체계를 구축해 나가야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대통령 엄정 대응 주문 ‘보복 대행 범죄’ 20대 男, 항소심도 징역 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/02/3HWDLIXKMRFEVB6HLTLE7TKB7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/02/3HWDLIXKMRFEVB6HLTLE7TKB7I/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Oct 2026 01:47:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3YJ3U5K6RIFRPPFTPNU6BRCSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이른바 보복대행 범죄로 징역형을 선고받은 20대 남성 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 SNS(사회관계망서비스)를 통해 엄정 대응을 주문한 보복대행 범행으로 징역형을 선고받은 20대 남성에게 항소심에서도 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사항소 2-1부(재판장 이수환)는 2일 재물손괴와 주거침입 등 혐의로 구속 기소된 A(28)씨에 대한 선고공판에서 원심과 같은 징역 6개월을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 자백하고 동종 전과로 처벌받은 전력이 없으나, 성명불상자로부터 보복 대행 수당을 지급하겠다는 제안을 받고 4명의 피해자 주거지를 침입해 재물을 손괴하는 등 죄책이 상당히 무겁다”고 했다. 이어 “사기 방조 사건으로 재판받던 중 자중하지 않고 범행을 저질러, 형이 무거워 부당하다고 인정되지 않는다”고 항소 기각 사유를 설명했다. &lt;br&gt;&lt;br&gt;A씨는 지난 5월 13일 오전 5시 30분쯤 인천 서구(현 서해구) 청라동의 한 아파트에 퀵서비스 기사로 위장하고 들어가 현관 앞에 페인트를 칠하고 날계란 등을 던진 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;그는 부산과 경북 문경시 등 전국을 돌아다니며 3건의 비슷한 범행을 더 벌인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;지난 5월 15일 자신의 SNS에 이 사건과 관련한 보고서를 게시한 이재명 대통령은 “사적 보복 대행은 부탁받는 사람도, 부탁하는 사람도 모두 중대 범죄”라며 “현대 문명국가에서 사적 분쟁은 법질서에 따라 해결해야 한다”고 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>명예박사 되는 ‘축구의 신’ 메시, 스페인 2부 구단 인수</title>
-      <link>https://www.chosun.com/national/people/2026/10/02/SXJ5A6KYFJGUNACYPTFOR4HG5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/10/02/SXJ5A6KYFJGUNACYPTFOR4HG5U/</guid>
-      <dc:creator>배준용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Oct 2026 01:43:11 +0000</pubDate>
-      <content:encoded> ‘축구의 신’ 리오넬 메시(39·인터 마이애미)가 스페인 프로축구 2부 리그 구단을 전격 인수하며 영역을 넓혔다. 동시에 고국 최고의 명문 대학으로부터 명예박사 학위를 받으며 국가대표 은퇴 고별전을 치를 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJ3SAKW77FO37JMYZ3DOG6WEJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일(현지 시각) 미국 오하이오주 콜럼버스의 스콧스 미라클-그로 필드에서 열린 미프로축구(MLS) 콜럼버스 크루와의 경기에서 인터 마이애미의 리오넬 메시가 경기 도중 아쉬운 표정을 지으며 반응하고 있다. 오는 6일 베냉전에서 아르헨티나 국가대표 은퇴 고별전을 앞둔 메시는 최근 스페인 2부 구단 CD 엘덴세를 인수하고 고국 부에노스아이레스대(UBA) 명예박사 학위를 받을 예정이다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스페인 2부 리그 소속 CD 엘덴세는 2일(한국 시각) “메시가 구단을 인수했다”며 “스페인 국가스포츠위원회(CSD)의 공식 승인을 기다리는 중”이라고 발표했다. 메시는 지난달 엘덴세의 기존 최대 주주인 콜롬비아 투자 그룹의 지분 전량을 인수하는 계약을 체결했다. 메시는 지난 4월 스페인 5부 UE 코르네야를 인수한 데 이어 두 번째로 축구 구단을 인수하며 2개 구단의 구단주가 됐다.&lt;br&gt;&lt;br&gt;1921년 창단한 엘덴세는 “세계 스포츠 역사상 가장 위대한 선수 중 한 명인 메시가 합류함에 따라 장기적 비전을 바탕으로 한 새로운 프로젝트가 출범한다”고 의미를 부여했다. 현재 엘덴세는 올 시즌 1승 2무 4패(승점 5)로 22팀 중 19위에 머물러 있다. 라이벌 크리스티아누 호날두(41·알나스르)가 지난 2월 스페인 2부 리그 UD 알메리아의 지분 25%를 인수해 공동 구단주에 올라 있어 향후 스페인 무대에서 ‘구단주 메시 vs 구단주 호날두’의 맞대결 성사도 될 전망이다.&lt;br&gt;&lt;br&gt;2개 구단을 소유한 메시는 아르헨티나 국가대표팀 은퇴에 맞추어 고국의 최고 명문 국립대인 부에노스아이레스대학교(UBA)에서 명예박사 학위도 받는다. 지난 30일(현지 시각) UBA는 메시가 쌓아온 축구 경력과 탁월함, 국가에 대한 헌신과 겸손을 높이 평가해 학위 수여 안건을 만장일치로 승인했다고 밝혔다. 리카르도 겔피 UBA 총장은 “메시는 국가 정체성을 대표하는 모범적인 대사”라고 칭송했다.&lt;br&gt;&lt;br&gt;학위 수여식은 오는 6일 부에노스아이레스 리베르 플레이트 구장(모누멘탈 경기장)에서 열리는 아르헨티나 대 베냉의 A매치 평가전에 앞서 진행된다. 이 경기는 메시의 아르헨티나 국가대표 은퇴 고별전이다. 2021·2024 코파 아메리카, 2022 카타르 월드컵 우승을 이끌며 메이저 대회 3연패를 달성한 메시의 마지막 국가대표 무대를 축하하기 위해 성대한 고별 행사가 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쓰레기봉투에 버려진 현금 2500만원… 주인 없어 신고자 손으로</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/02/TONOFGO25FGK5FGPM4LEK6PKYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/02/TONOFGO25FGK5FGPM4LEK6PKYU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Oct 2026 01:07:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZWIYRYMI3GIZLGGE4DOYJZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰레기봉투에서 발견된 2500만원./ 인천 중부경찰서(현 인천 제물포경찰서)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 주택가에 버려진 쓰레기봉투에서 발견된 현금 2500만원의 주인이 나타나지 않아 최초 발견자에게 소유권이 넘어갔다. &lt;br&gt;&lt;br&gt;인천 제물포경찰서는 최근 60대 남성 A씨에게 1923만원을 송금했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;헌옷을 수거하는 A씨는 지난 2월 10일 인천 동구(현 제물포구) 금곡동의 한 빌라 옆 헌옷 등이 담긴 폐기물봉투를 확인하던 중 현금 2500만원 다발을 발견했다고 경찰에 신고했다. &lt;br&gt;&lt;br&gt;한국은행 띠지로 묶여있는 5만원권 100장 뭉치 5개가 헌옷들 사이에 있던 것이다. &lt;br&gt;&lt;br&gt;경찰은 이후 유실물 통합 포털과 지역 일간지 등에 습득 사실을 알리고, 발견 장소 주변에 안내 전단을 부착했으나, 소유자는 나타나지 않았다. 지문 감식과 주변 방범 카메라(CCTV) 영상 확인, 탐문 조사 등도 진행했지만 돈의 주인이 누구인지를 확인하지 못했다. &lt;br&gt;&lt;br&gt;경찰은 6개월이 지나도록 소유자가 나타나지 않자, 유실법에 따라 A씨에게 발견된 2500만원 중 세금과 신문 공고비 등을 뺀 금액을 신고자인 A씨에게 지급했다. &lt;br&gt;&lt;br&gt;관련법상 유실물은 공고 뒤 6개월 이내에 소유자가 권리를 주장하지 않으면 습득자에게 소유권이 넘어간다.&lt;br&gt;&lt;br&gt;처음 현금을 발견한 A씨는 유실물 습득 후 7일 이내 미신고·미제출 등 소유권 결격 사유에 해당하지 않아 소유권을 얻었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “탐문 조사 등을 진행했으나 소유자가 확인되지 않았다”며 “범죄 혐의점은 없는 것으로 판단했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>참여연대 “檢 자업자득...검찰청 폐지, 개혁 발판 삼아야”</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/02/A677UY36Z5HSFHWLVDVPFBS7Z4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/02/A677UY36Z5HSFHWLVDVPFBS7Z4/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Oct 2026 01:05:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43WKNBSGQYTKYLFMM2WGYRYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰청 폐지와 공소청·중수청 출범을 하루 앞둔 지난 1일 서울 서초구 대검찰청 앞에서 관계자들이 안내판을 교체하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사소송법 개정으로 78년 만에 검사의 수사권이 폐지되고 공소청이 출범한 가운데, “검찰의 자업자득”이라는 시민단체 지적이 나왔다. &lt;br&gt;&lt;br&gt;2일 참여연대는 ‘공소청·중수청 개청, 개혁의 출발점으로 삼아야’라는 제목의 논평을 발표했다. &lt;br&gt;&lt;br&gt;참여연대는 “‘검사의 나라’에 대한 반성으로 마침내 수사-기소 분리가 78년 만에 이뤄지고, 검찰청이 역사 속으로 사라진 것은 권한을 오용하고 남용해온 검찰의 자업자득”이라고 지적했다. &lt;br&gt;&lt;br&gt;이어 “지난해 9월 말, 검찰청을 폐지하고 공소청과 중수청을 신설하는 내용의 정부조직법이 국회를 통과한 이후 최근까지 검찰은 개혁에 저항하며 기득권을 지키려는 모습만 보였다”며 “검찰 조직을 비호하는 데 앞장설 뿐 과거 검찰권 오남용에 대한 반성은커녕 국민에 대한 사과 한마디 없었다”고 질타했다. &lt;br&gt;&lt;br&gt;이어 이번 검찰청 폐지가 실질적인 개혁이 되기 위해선 공소청 검사들이 법률가로서의 역량에 집중해야 한다고 짚었다. &lt;br&gt;&lt;br&gt;또 참여연대는 공소청·중수청이 제대로 자리 잡기 위해선 지속적인 정부와 여당의 노력이 필요함도 강조했다. 관련해 “국사수사본부·중수청·공소청과 공수처 등 다원화된 수사·기소 기관들이 존재하는 새로운 형사사법체계가 신속히 안착하기 위해서는 하위 법령 곳곳에 남아있는 검사의 직접 수사 권한, 검사의 수사 지휘 관련 규정들을 삭제해야 한다”고 했다. &lt;br&gt;&lt;br&gt;또 “공소청에 남아있는 수사 인력과 직접 수사 시설과 장비를 수사 기관으로 이전해야 한다”며 “중수청과 국가수사본부의 수사 역량을 강화하기 위한 방안을 마련해 시민들이 막연히 불안해하지 않도록 노력해야 한다”고 덧붙였다. &lt;br&gt;&lt;br&gt;한편 이날부터 형사소송법 개정으로 검찰청은 폐지되고, 중수청과 공소청이 출범했다. 검찰이 했던 주요 범죄 수사는 행정안전부 산하에 신설되는 중수청이 맡고, 검찰의 기소 및 공소 유지 기능은 법무부 산하 공소청이 담당하게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 완연한 가을 날씨…수도권은 일요일 밤부터 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/02/OXVFJF3RVVE4HGCQ7URD5U3KIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/02/OXVFJF3RVVE4HGCQ7URD5U3KIE/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Oct 2026 01:15:48 +0000</pubDate>
-      <content:encoded>이번 주말에는 대체로 맑고 선선한 가운데 낮과 밤의 기온 차가 15도 안팎까지 벌어지는 전형적인 가을 날씨가 나타나겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 북쪽에서 찬 공기가 내려오면서 토요일인 3일 전국의 아침 최저기온은 5~16도로 평년보다 2~5도 낮겠다. 전국 대부분 지역의 아침 기온이 10도 이하로 내려가고, 강원 내륙·산지와 경북 북동 산지는 5도 이하까지 떨어지는 곳도 있겠다. 낮 최고기온은 21~24도로 오르면서 일교차가 크게 벌어지겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4DQOBZGE3DCYZRMQ4WGMRWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 아침 기온이 12도를 기록하며 쌀쌀한 가을 날씨를 보인 1일 오전 서울 종로구 광화문 네거리에서 직장인들이 출근을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 전국은 대체로 맑다가 오전부터 차차 구름이 많아지겠다. 일요일인 4일에는 전국에 구름이 많겠고, 경상권 동해안과 제주도는 대체로 흐리겠다. 아침 최저기온은 9~18도, 낮 최고기온은 21~25도로 예보됐다. 이날도 전국 대부분 지역에서 일교차가 15도 안팎에 달하겠다.&lt;br&gt;&lt;br&gt;4일 부산·울산과 경북 동해안에는 5~10㎜의 비가 내리겠다. 서울·인천·경기 북부와 강원 북부 내륙에는 밤 9시 이후부터 5㎜ 미만의 비가 내리겠으며, 일부 지역에서는 돌풍과 함께 천둥·번개가 칠 수 있다.&lt;br&gt;&lt;br&gt;비는 월요일인 5일 새벽부터 오전 사이 중부지방과 전라권, 제주도로 확대되겠다. 월요일 출근길에 비가 내리는 곳이 있겠고, 오후에는 서쪽 지역부터 차차 맑아질 전망이다. 이날 아침 최저기온은 11~17도, 낮 최고기온은 19~26도로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중증응급환자 발생 땐 119 등에서 병원 지정</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/10/02/3XTKLAKBCNDBFNT7QOLAJESLXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/02/3XTKLAKBCNDBFNT7QOLAJESLXY/</guid>
@@ -916,24 +955,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ODLYHA73JC6FA35GRHBOPBWKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 유해진이 광고 모델인 버거 프랜차이즈 광고. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 30일 야근을 마치고 집으로 돌아가던 직장인 김모(31)씨는 서울 지하철역 광고판에서 평소 즐겨 먹던 치킨 브랜드 광고를 봤다. 집에 도착할 무렵 배달 앱을 켠 김씨는 평소처럼 치킨을 주문하려다 손을 멈췄다. 이 회사 광고 모델로 활동한 배우 이민호가 떠올랐기 때문이다. 이 배우는 최근 역사 왜곡 논란이 불거진 영화 ‘암살자(들)’에 출연했다. 온라인에서는 이민호가 이 회사 치킨을 들고 있는 광고 사진에 빨간색 ‘불매’ 표시를 붙인 이미지가 퍼지고 있었다. &lt;br&gt;&lt;br&gt;영화 암살자(들)을 둘러싼 역사 왜곡 논란이 상품 시장으로 옮겨붙었다. 이 영화가 육영수 여사 피격 사건의 배후에 박정희 당시 대통령이 있었을 가능성을 암시하는 내용을 담아 불거진 역사 왜곡 논란이 불매 운동으로 번진 것이다. 영화에 출연한 배우 등이 광고 모델로 출연한 제품이 불매 타깃이 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWC3743CTRCDZJD45TEVEMLARY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암살자(들) 주연 중 한 명인 유해진이 광고 모델인 버거 프랜차이즈도 불매 대상이 됐다. 이 회사는 유해진을 모델로 버거 신제품을 광고했는데, 암살자(들) 역사 왜곡 논란이 불거진 뒤 이 광고를 비튼 패러디물이 인스타그램과 스레드 등에서 퍼지고 있다. 원래 광고 포스터에서 유해진의 얼굴만 모자이크로 가린 이미지다. 이 회사 앱에서 회원 탈퇴를 한 뒤 이를 인증하는 사진도 SNS에 잇따라 올라오고 있다.&lt;br&gt;&lt;br&gt;제품 매장도 평상시보다 한산한 모습이다. 1일 오전 11시 50분 서울 구로구의 한 버거 매장은 점심시간을 앞두고도 한산했다. 테이블 30여 개 중 손님이 앉아 있는 곳은 4곳뿐이었다. 인근 회사에 다닌다는 직장인 박모(30)씨는 “평소 점심시간이면 사람이 많아 음식을 받는 데 15분 넘게 걸렸는데 오늘은 사람이 별로 없어 3분도 안 돼 음식을 받았다”고 했다. 이홍주 숙명여대 소비자경제학과 교수는 “소비가 자신의 가치관이나 사회적 의견을 표현하는 수단이 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;암살자(들) 역사 왜곡 논란이 불매 운동으로 번지자 업체들도 당황해하고 있다. 이민호가 광고를 한 치킨 프랜차이즈 관계자는 “이민호는 지난 8월 31일 계약 기간이 끝나 현재 우리 광고 모델이 아니다”라며 “당시에도 국내가 아닌 중국 시장을 겨냥해 기용한 모델이었다”고 했다. 유해진을 광고 모델로 쓴 버거 회사도 “유해진은 가을 신제품 캠페인에 한정해 기용한 단발성 모델”이라며 “2주 안에 계약이 종료될 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이런 가운데 온라인에서는 암살자(들)을 비판하는 밈(meme·인터넷 유행)과 패러디도 쏟아지고 있다. 영화에 출연한 박해일·유해진·이민호의 얼굴이 나란히 등장하는 암살자(들) 포스터의 제목과 문구를 바꾸는 식이다. ‘자살자(들)’ ‘영부인(들)’ 등 가상 영화 포스터가 대표적이다. 인스타그램과 스레드 등에는 노무현 전 대통령의 죽음에도 다른 배후가 있었다고 가정한 ‘시계와 바위 남자(들)’ ‘미는 자(들)’ 같은 가상 포스터가 올라왔다. ‘아수라: 공소취소, 멈춰버린 다섯 개의 재판’이라는 제목을 붙인 이미지도 등장했다.&lt;br&gt;&lt;br&gt;불매 운동과 각종 밈은 20·30대가 주도하고 있다는 분석이 나온다. 이들은 1974년 육 여사 피격 사건을 직접 경험하지 않은 세대다. 하지만 다른 연령대보다 이 영화를 역사 왜곡으로 보는 이가 많았다. 개혁신당 산하 개혁연구원이 지난달 29일 성인 남녀 1017명을 대상으로 “‘암살자(들)’이 육 여사 피격 사건의 배후에 의문을 제기한 것을 역사 왜곡으로 보느냐”고 물었더니 30대는 73.8%가, 20대는 65.7%가 “역사 왜곡으로 본다”고 답했다. &lt;br&gt;&lt;br&gt;이런 가운데 박정희대통령기념재단과 육영재단, 박정희학술원은 이날 공동 입장문을 내고 영화 제작진에 대국민 사과와 상영 중단을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2026년 10월 2일</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/02/UBFLEZ4PXFEVJFTBJPMFZTQQLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/02/UBFLEZ4PXFEVJFTBJPMFZTQQLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTHSSYFSPRFRNEKRFCYGOEYUSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/10/02/CWMYQDFSUZDEXJOB56EJOUXS3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/10/02/CWMYQDFSUZDEXJOB56EJOUXS3A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QW2XZQUQ75FXHDLWB6BSSCEEOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-10-2일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 18일 ‘우리 아기가 태어났어요’ 코너에 실린 신태율&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title> 가출 10대 女 오피스텔 감금·성범죄 저지른 30대 현행범 체포</title>
       <link>https://www.chosun.com/national/regional/2026/10/01/RB5MMMTIOVEL7B2H4WKIPSJ6QY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/01/RB5MMMTIOVEL7B2H4WKIPSJ6QY/</guid>
@@ -941,24 +962,6 @@
       <description/>
       <pubDate>Thu, 01 Oct 2026 13:39:51 +0000</pubDate>
       <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3DKMLBG5QWIOJVGY3TKMBZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원팔달경찰서 전경. /경기남부경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;가출한 10대 여성을 오피스텔에 감금하고 성범죄를 저지른 30대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 수원팔달경찰서는 1일 아동·청소년의 성보호에 관한 법률 위반 및 감금, 폭행, 협박 등 혐의로 A씨를 현행범 체포해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 30일 오후 4시쯤 안양에서 B양을 자신의 차에 태워 수원 소재 오피스텔로 데려가 감금한 뒤 성범죄를 저지르고 이를 휴대전화로 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 B양이 말을 듣지 않으면 회초리로 다리와 몸 부위를 때리고 협박하기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B양이 “가출했다”고 SNS에 올린 글을 보고 접근해 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B양 가족의 신고로 수사에 나선 경찰은 휴대전화 위치 추적으로 이들의 소재지를 파악했다. 이후 B양과 직접 문자를 주고받으면서 정확한 주소를 파악해 이날 오전 5시 10분쯤 A씨를 현장에서 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 전북 남원에 첫 국립의전원 설립… 2030년 첫 입학</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/01/ZAVBEBQSRBBJNBUWQB4DKWDPNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/01/ZAVBEBQSRBBJNBUWQB4DKWDPNE/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 09:24:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4DKYTCHE2DCZJTG4ZGKZRUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상공에서 드론으로 촬영한 전북 남원시 국립의전원 예정 부지 전경/남원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가가 공공의료 분야 의사를 직접 양성하는 국립 의학 전문 대학원(국립의전원)의 소재지가 전북 남원시로 확정됐다. 공공의료 인력 양성을 위해 별도의 국립 의학 전문 대학원을 만드는 것은 이번이 처음이다. 2029년 개교해 이듬해인 2030년부터 교육을 시작하는 게 목표다. &lt;br&gt;&lt;br&gt;보건복지부는 1일 열린 국립의전원 설립준비위원회 제4차 회의에서 이같이 심의·의결했다고 밝혔다. 준비위는 사업 목적성, 효율성, 정책 신뢰성, 확장성 등을 고려한 결과, 남원의료원과 인접해 지역 의료 교육과 임상 실습을 연계하기에 유리하다고 판단했다. &lt;br&gt;&lt;br&gt;입학 정원은 올 초 보건의료정책심의위원회에서 의결한 의사 인력 양성 규모에 따라 100명이다. 공공의료원, 소방·산재·보훈, 감염병 대응, 국가트라우마센터, 보건의약정책, 국제보건 등 다양한 영역으로 양성·배치할 예정이다. &lt;br&gt;&lt;br&gt;일단 정원 100명은 2031년까지만 적용되고 2032년부터는 의료 인력 수급 재추계 결과에 따라 달라질 수 있다. 입학금·수업료·교재비·기숙사비 등 교육에 드는 비용은 국가가 지원하고, 졸업생은 15년간 정부가 지정한 공공 의료 기관이나 행정 기관 등에서 의무 복무해야 한다. 의무 복무 기관에서 전공의 수련을 받을 경우 이 기간도 15년에 포함된다. 첫 졸업생이 2034년부터 배출되는 만큼, 이후 전문의 수련까지 거치면 실제 전문의급 공공 의료 인력 배출 시점은 2038년쯤으로 전망된다. &lt;br&gt;&lt;br&gt;다만 이날 소재지가 전북 남원으로 결정된 것을 두고 “결국 정치 논리나 지역 안배가 작용한 것 아니냐”는 비판도 나왔다. 올 7월만 해도 정부 내에서 국립의전원을 서울 국립중앙의료원과 연계하거나 서울·지방에 교육 기능을 나누는 방안 등이 언급됐기 때문이다. 정은경 보건복지부 장관은 7월 대통령 업무 보고에서 “국립중앙의료원(서울 중구 소재) 옆에 국립의전원 부지를 확보하길 희망한다”는 취지의 발언을 하기도 했다. 하지만 최종 입지 적합성 심사 과정에서 다른 후보지와 비교 없이 전북 남원만 검토된 것으로 알려졌다. 안덕선 고려대 의대 명예교수는 “대한민국 의료와 관련한 의사 결정 대부분이 정치 논리에 따라 좌우되고 있다는 걸 보여주는 상징적인 장면”이라고 했다.&lt;br&gt;&lt;br&gt;앞으로 국립의전원의 가장 큰 과제는 교수진 확보다. 일단 남원 국립의전원에 상주할 교수 규모와 확보 방안 등은 아직 정해지지 않은 상태다. 이에 대해 복지부는 의학교육평가원 기준상 전임교수가 최소 112명 필요하며, 이 가운데 임상의학 85명 등을 확보해야 한다고 밝혔다. 이형훈 복지부 2차관은 “교수·교원이 가장 큰 숙제”라며 “염려가 많다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 소아응급센터 진료 중 압수수색…학회 ‘의료 혼란’ 반발</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/01/GZZW5GSBAREETLJG2BGWX2FSJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/01/GZZW5GSBAREETLJG2BGWX2FSJM/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Oct 2026 09:22:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH532CEHSCC7NQW75ZPSOZ7YOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진료가 진행 중이던 아주대병원 소아전문응급의료센터를 경찰이 압수수색하자 대한소아응급의학회가 “다른 중증 환아의 안전까지 위협할 수 있는 과도한 수사”라며 반발했다. 사진은 서울의 한 대학병원 소아 전문 응급의료센터로 기사와는 무관하다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진료가 진행 중이던 아주대병원 소아전문응급의료센터를 경찰이 압수수색하자 대한소아응급의학회가 “다른 중증 환아의 안전까지 위협할 수 있는 과도한 수사”라며 반발했다.&lt;br&gt;&lt;br&gt;1일 의료계에 따르면 경기남부경찰청은 지난달 30일 아주대병원 소아전문응급의료센터에 압수수색 영장을 집행했다. 약 두 달 전 청색증을 보여 이 센터를 찾은 환아가 치료 중 숨진 사건을 수사하기 위해서다. 압수수색 대상에는 당시 의사·간호사 당직표 등이 포함된 것으로 알려졌다. 당시 센터에서는 경련을 일으킨 생후 6개월 영아 등 응급 환아들이 진료를 받고 있었고, 경찰이 진료용 컴퓨터로 자료를 확인하는 동안 의료진이 다른 자리로 옮겨 처방을 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;대한소아응급의학회는 이날 성명을 내고 “소아응급센터는 수초의 지체로도 아이의 생사가 엇갈리는 특수 진료 구역”이라며 “수사 인력의 방문과 현장 집행은 의료진의 주의를 분산시키고 진료 흐름을 저해해 다른 중증 환아의 치료 지연과 안전사고로 이어질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;학회는 압수수색의 필요성에도 의문을 제기했다. 전자의무기록(EMR)은 작성·수정·조회 이력이 초 단위로 남아 사후 위·변조가 어렵고, 병원도 경찰의 자료 제출 요구에 협조해 온 만큼 당직표나 의무기록 등은 통상적인 자료 제출 절차로 확보할 수 있었다는 것이다. 학회는 “수사에 성실히 협조해 온 병원과 의료진을 상대로 진료 중인 응급실까지 압수수색한 것은 과도한 조치”라고 했다.&lt;br&gt;&lt;br&gt;학회는 수사 부담이 소아응급 의료진의 이탈로 이어질 수 있다고도 우려했다. “소아 중증 질환은 의료진이 총력을 다해도 회복을 장담하기 어려운 경우가 있다”며 “진료 결과를 두고 의료진을 잠재적 범죄자처럼 대하는 관행이 반복되면 소아 응급 의료 현장을 지킬 의료진은 더 이상 남아있지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경호 실패, 오발, 그리고 음모론… 육영수 여사 서거 사건 전말</title>
