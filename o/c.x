@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title> 충주 자동차부품 공장서 끼임 사고…40대 노동자 사망 </title>
+      <link>https://www.chosun.com/national/regional/2026/10/04/G3SX26R2NRC6FLXJZMJ3X3UJIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/04/G3SX26R2NRC6FLXJZMJ3X3UJIU/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 04 Oct 2026 09:33:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZWKMJTMM2WIZBRG4YDAZBUG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주시 한 자동차 부품 공장에서 40대 노동자가 기계에 끼여 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;4일 오전 11시 15분쯤 충북 충주시 용탄동 한 자동차 부품 공장에서 40대 노동자 A씨가 기계에 끼여 숨졌다.&lt;br&gt;&lt;br&gt;외주업체 직원인 A씨는 공장 설비 안에서 청소 작업을 하다가 사고를 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 함께 일하던 동료 직원 50대 B씨가 설비 안에 A씨가 있는 것을 모르고 장비를 가동한 것으로 보고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;또 국립과학수사연구원에 A씨 부검을 의뢰하는 한편 B씨에게 업무상 과실치사 혐의 적용을 검토하고 있다.&lt;br&gt;&lt;br&gt;고용노동부도 해당 공장에 작업 중지 명령을 내리고 중대재해처벌법 위반 여부 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 10월 5일 월요일 (음력 8월 25일 壬子)</title>
       <link>https://www.chosun.com/national/national_general/2026/10/04/PI45KJ3BV5H4VFV2BDDYWRXHSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/04/PI45KJ3BV5H4VFV2BDDYWRXHSE/</guid>
@@ -926,15 +935,6 @@
       <pubDate>Tue, 29 Sep 2026 15:47:00 +0000</pubDate>
       <content:encoded>더불어민주당 소속 추미애 경기지사와 김상욱 울산시장이 이재명 정부 출범 이후 국내 주식과 연동돼 있는 펀드에 투자해 재산이 크게 늘어난 것으로 29일 나타났다.&lt;br&gt;&lt;br&gt;재산이 올 상반기에 30억원 넘게 늘어난 김 시장은 이날 당 공식 유튜브에 나와 “오늘 새벽 광역단체장 재산이 발표됐는데 제가 1등을 했다”며 “새벽부터 전화가 막 와서 ‘재산이 왜 늘었느냐’(는 질문을 받았다)”고 했다. 그러면서 “작년에 대통령님이 ‘국회의원들도 펀드 들라’고 해서 펀드에 전 재산을 ‘몰빵’했다”며 “돈 벌고 싶으면 펀드 하라”고 말했다.&lt;br&gt;&lt;br&gt;정부공직자윤리위원회가 이날 새벽 공개한 고위 공직자 수시 재산 공개 자료에 따르면, 6·3 지방선거에서 새로 선출된 시·도지사 13명 가운데 김 시장과 추 지사의 재산이 올 상반기에 크게 늘었다.&lt;br&gt;&lt;br&gt;김 시장의 재산(가족 재산 제외)은 국회의원 시절인 2024년 5월 말 16억1508만원, 그해 말 17억8533만원, 지난해 말 19억481만원이었다. 이때 늘어난 것은 주로 정치자금(후원금)이 들어온 데 따른 것이었다. 후원금은 재산 공개에서는 공직자 개인 재산처럼 표시된다.&lt;br&gt;&lt;br&gt;그러던 김 시장 재산은 올 7월 1일 기준 49억7985만원으로 6개월 만에 30억7504만원이 늘었다. 무주택자인 김 시장은 삼성전자, SK하이닉스 등의 주가와 연동돼 있는 ‘교보악사파워인덱스’ 펀드 등에 투자한 것으로 알려졌다. 이 펀드의 올 상반기 수익률은 128.26%다. 여권 관계자는 “7월 1일이면 국내 주식이 가장 크게 뛰었던 때”라며 “그걸 감안하면 지금은 재산이 좀 줄지 않았겠느냐”고 했다.&lt;br&gt;&lt;br&gt;추 지사는 22대 의원 취임 직후인 2024년 5월 말 재산이 19억1674만원이었고, 그해 말에는 16억8703만원으로 줄었다. 그러다 지난해 말 28억2393만원으로 1년 만에 11억3690만원이 늘었다. 추 지사가 이때 서울 광진구 구의동에 183.87㎡(약 56평) 아파트를 팔았기 때문이었다. 추 지사 재산은 올해 7월 1일 기준 36억9760만원으로 반년 새 8억7367만원이 또 늘었다. 정치자금이 1억4942만원 줄었지만, 금융 자산이 10억568만원 늘었다. 경기도 관계자는 “추 지사가 서울 집 팔고 남은 돈을 마침 대통령이 펀드 들라는 말도 많이 하고 해서 큰 고민 없이 펀드에 넣었었다”며 “재테크에 밝지는 않은데, 수익이 많이 났다”고 했다.&lt;br&gt;&lt;br&gt;민주당 소속 신용한 충북지사는 서울 용산구 이태원동 아파트 6억5400만원, 예금 4억4551만원 등 32억6949만원을 갖고 있다고 신고했다. 그런데 이 가운데 28억4000만원이 다른 사람에게 빌려준 돈이었다. 신 지사 측은 이 ‘사인 간 채권’에 대해 구체적으로 밝히지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/Z2EK3CIJWFAJVO6KFSJTHZG3X4.png?auth=025f9a18911ebaf31639e25f95a95a6670585fdaf3dd244bee034051cc683811&amp;smart=true&amp;width=400&amp;height=300" type="image/png" height="300" width="400"/>
-    </item>
-    <item>
-      <title>전종민 중수청 차장, 취임 첫날 “‘절제’를 최우선 원칙으로”</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/02/YTOCW23MNJHTXBH4YMFQMSIJIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/02/YTOCW23MNJHTXBH4YMFQMSIJIU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 Oct 2026 01:28:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DASDBK4MJVJ5HG2637MUVPPYNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전종민 중대범죄수사청 차장이 2일 서울 중구 르네스퀘어에서 열린 중수청 개청식에서 인사말을 하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 취임한 전종민(59·사법연수원 24기) 중대범죄수사청 초대 차장이 “‘절제’를 최우선 원칙으로 삼겠다”고 했다.&lt;br&gt;&lt;br&gt;전 차장은 이날 서울 중구 르네스퀘어빌딩에서 열린 중수청 개청식에서 “국가 권력을 입법과 행정과 사법으로 나누었듯 이제 우리는 수사와 기소를 나눈다. 나뉜 권력이 저마다 스스로를 절제할 때 그 나눔은 비로소 완성된다”면서 이같이 말했다.&lt;br&gt;&lt;br&gt;검찰청이 78년 만에 폐지되고 수사는 중수청이, 기소 및 공소유지(재판)는 공소청이 맡게 된 것을 언급하면서 “절제된 수사”를 강조한 것으로 해석된다. 전 차장은 그러면서 “절제는 수사를 덜 하겠다는 뜻이 아니라 더 정확하게 하겠다는 약속”이라고 했다. &lt;br&gt;&lt;br&gt;전 차장은 “수사 역량을 키우려는 것도 더 많이 베기 위해서가 아니라, 더 적게 베고도 병의 뿌리를 도려내기 위해서”라면서 “이것이 헌법과 형사소송법이 요구하는 비례의 원칙이며, 중수청이 스스로에게 부과하는 규율”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 전 차장은 범죄 피해자와 사회적 약자 보호, 정치적 중립과 수사의 독립, 법과 원칙에 따른 공정한 직무 수행, 최고 수준의 전문 수사 역량 확보, 국민 인권과 적법 절차 보장 등 다섯 가지를 약속한다고 했다.&lt;br&gt;&lt;br&gt;전 차장은 “중수청이 충분한 준비 없이 출범하는 게 아니냐는 우려가 적지 않다는 것을 잘 알고 있다”면서도 “인천국제공항도 2021년 문을 열 때 우려가 컸지만 오늘날 세계 최고 수준의 공항으로 우뚝 섰다”고 했다. 전 차장은 “저희를 향한 우려를 흘려듣지 않고 하나하나 답해 나가며, 회의적인 시선을 신뢰로 바꾸어 놓겠다”고도 했다.&lt;br&gt;&lt;br&gt;한편 윤호중 행정안전부 장관도 이날 중수청 개청식에 참석해 “새로운 형사 사법 제도가 다음 100년을 떠받치도록 그 뿌리를 깊게 내리겠다”고 했다. 윤 장관은 “수사와 기소가 분리되더라도 국민을 위한 책임까지 나누어서는 안 된다”며 “각 기관이 자신의 역할을 충실히 수행하면서도 사건의 시작부터 마무리까지 공백이 생기지 않도록 빈틈없는 공조체계를 구축해 나가야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>중증응급환자 발생 땐 119 등에서 병원 지정</title>
