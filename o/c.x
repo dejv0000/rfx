@@ -13,6 +13,156 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강북구서 70대 남성 살해한  20대, 훔친 휴대전화 들고 강남 배회했다</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/09/URPOXDWSS5HUJF656YBBN2FHNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/09/URPOXDWSS5HUJF656YBBN2FHNE/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 07:29:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WF43JIX2JJHZHQOEM4LLGL3Q5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구에서 일면식 없는 70대 남성을 살해한 20대 남성 오모씨가 피해자 휴대전화를 훔쳐 서울 강남 일대를 배회한 정황이 드러났다.&lt;br&gt;&lt;br&gt;서울경찰청이 국민의힘 서명옥 의원실에 제출한 자료에 따르면, 서울 강북구 번동의 한 주택에서 70대 남성 A씨의 목을 졸라 살해한 혐의를 받는 오씨가 범행 이후 A씨의 휴대전화를 챙겨 강남 일대를 배회한 것으로 9일 확인됐다. 경찰은 오씨가 3일 오후 11시 38분에서 다음 날 오전 12시 30분 사이에 범행을 저지른 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨 지인은 4일 오전 11시 13분쯤 “어젯밤에 술을 드시고 ‘집에 들어가서 죽는다’고 하고 문을 안 열어 준다”며 소방에 신고했다. 이어 오전 11시 34분쯤에는 경찰에 “극단적 선택이 우려된다”며 “위치 추적을 해달라”고 신고했다.&lt;br&gt;&lt;br&gt;이후 경찰은 강북구 번동에 있는 A씨 주거지에 찾아갔지만 문이 닫혀 있었고, A씨의 휴대전화 위치를 추적했을 땐 전원이 켜진 채 강남 일대에 있는 것으로 표시됐다. 휴대전화 위치를 기반으로 주변을 수색했지만 A씨를 찾지 못한 경찰은 오후 6시 58분쯤 A씨 주거지에 강제 진입했고, A씨의 시신을 발견했다.&lt;br&gt;&lt;br&gt;당초 오씨는 경찰 조사에서 “A씨와 길에서 어깨를 부딪혀 시비가 붙어 항의하기 위해 A씨 집으로 쫓아갔다”는 취지로 진술하며 범행 사실을 인정했다. 그러나 이후 경찰은 “범행 현장 일대의 폐쇄회로(CC)TV를 살펴본 결과 어깨가 부딪힌 장면이 발견되지 않았다”며 “오씨 주장의 신빙성이 낮다”고 설명했다. 경찰은 오씨가 불특정 피해자를 상대로 범행을 저지른 것은 아닌지 의심하며 사이코패스 진단 검사 실시 여부도 고려하고 있다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난 5일 오전 1시쯤 강북구 미아동에서 오씨를 긴급체포했다. 이후 서울북부지법은 7일 살인과 절도 혐의를 받는 오씨에 대해 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“하모, 되고 말고!”… 진주 명물 수달 캐릭터, EBS와 손잡고 애니메이션 데뷔 </title>
+      <link>https://www.chosun.com/national/2026/10/09/C2HUICG7I5G7VOFTE5GHKQQQP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/10/09/C2HUICG7I5G7VOFTE5GHKQQQP4/</guid>
+      <dc:creator>진주=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 08:47:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SBUKS5M75DJPF7NBOOTZDL7OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 진주시 관광 캐릭터 하모. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 진주시의 대표 관광 캐릭터인 수달 ‘하모’와 아기 새 ‘아요’가 공영방송 EBS 캐릭터들과 손잡고 애니메이션으로 재탄생한다. &lt;br&gt;&lt;br&gt;진주시와 (재)진주문화관광재단은 지난 7일 경기 고양시 EBS 사옥에서 EBS와 ‘캐릭터 콘텐츠 공동 제작 및 지역 상생 협력을 위한 업무협약(MOU)’을 체결했다고 9일 밝혔다. 협약식에는 왕기영 진주문화관광재단 대표이사와 김성동 EBS 부사장 등 양측 주요 관계자가 참석했다.&lt;br&gt;&lt;br&gt;이번 협약에 따라 진주시와 EBS는 ‘하모’, ‘하모프렌즈 아요’, 그리고 EBS 인기 캐릭터들이 함께 출연하는 1개 시즌 분량(총 5편)의 애니메이션을 공동 제작한다. 편당 러닝타임은 약 8분 안팎이다. 완성된 작품은 EBS 공식 유튜브 채널 등을 통해 전국의 어린이와 가족 시청자들에게 순차적으로 공개된다.&lt;br&gt;&lt;br&gt;애니메이션의 주 무대는 진주의 젖줄인 남강 일대다. 촉석루 등 진주의 역사·문화 유산과 풍광을 이야기 속에 자연스럽게 녹여내 교육성과 재미를 동시에 잡겠다는 구상이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQTMYRUGU2DAMZYGQ4GKYZSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 24일부터 8월 6일까지 14일간 더현대 서울에서 진주시 관광 캐릭터 ‘하모’ 팝업스토어 '하모 더 플레이스'를 운영한 모습. /진주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주인공 ‘하모’는 남강에 서식하는 천연기념물 수달을 모티브로 탄생했다. 긍정의 경상도 방언인 “하모(그렇고말고)”에서 이름을 땄다. 지난해 ‘대한민국 관광정책대상’에서 관광디자인 부문 대상을 수상하며 전국적인 인지도도 얻었다. 짝꿍 격인 ‘아요’는 누군가를 친근하게 부를 때 쓰는 방언 “아요(저기요)”에서 착안했다. 진주 전통 목공예 설화 속 새를 현대적 감각의 아기 새로 재해석한 캐릭터다.&lt;br&gt;&lt;br&gt;진주시는 애니메이션 방영 후 캐릭터 굿즈 출시, 전시·체험 프로그램 개발, 지역 대표 축제와의 연계 등 고부가가치 2차 사업도 추진해 지역 경제 활성화로 연결 짓겠다는 복안이다. 이와 함께 공식 홈페이지와 SNS 등을 활용한 공동 홍보도 추진해 콘텐츠와 캐릭터를 지속적으로 알릴 예정이다.&lt;br&gt;&lt;br&gt;조규일 진주시장은 “지역 관광 캐릭터가 전국구 애니메이션으로 제작되는 것은 도시 브랜드 가치를 끌어올릴 의미 있는 사례이자 국민에게 더 많이 알릴 기회”라며 “하모와 아요가 국민적 사랑을 받는 캐릭터로 안착하도록 행정적 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산해경, 영도서 낚시하다 바다에 빠진 70대 장애인 구조 </title>
+      <link>https://www.chosun.com/national/regional/2026/10/09/MIUBYQRBJJDJFDF2LMROATLHVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/MIUBYQRBJJDJFDF2LMROATLHVM/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 08:29:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCZJSYVA6BDYZECAEELUUNJXAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산해경이 바다에 빠진 남성을 구조하고 있다.  /부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 영도구 인근 바다에 빠진 70대 남성이 해경에 구조됐다. &lt;br&gt;&lt;br&gt;9일 부산해양경찰서에 따르면 이날 오후 3시 31분쯤 영도구 청학동 인근에서 낚시를 하던 A(76)씨가 바다에 빠졌다는 신고가 접수됐다. 부산해경은 오후 3시 38분쯤 현장에 도착해 A씨를 구조했다. &lt;br&gt;&lt;br&gt;A씨는 휠체어를 이용하는 장애인으로, 구명조끼를 착용하지 않은 채 낚시를 하던 중 바다에 빠진 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨의 건강 상태는 양호한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국체전 참가 탁구 선수들, 심정지 60대 살렸다</title>
+      <link>https://www.chosun.com/national/regional/2026/10/09/JGP4RVPRLRFTVCFK7QMHKNFWEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/JGP4RVPRLRFTVCFK7QMHKNFWEE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 07:06:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRTSM3GMEZGCNDEG5SGGYTBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주의 한 탁구장에서 훈련하던 전국체육대회 출전 선수들이 심정지로 쓰러진 60대 남성의 생명을 구했다.&lt;br&gt;&lt;br&gt;9일 제주도 소방안전본부에 따르면, 전날 오전 10시쯤 제주시 한림읍의 한 탁구장에서 탁구 기계(자동 발사기)를 이용해 연습 중이던 60대 A씨가 갑자기 쓰러졌다.&lt;br&gt;&lt;br&gt;마침 현장에서 훈련 중이던 전국체전 참가 대전시 소속 선수단 3명이 A씨가 심정지 상태인 것을 확인해 심폐소생술(CPR)을 시행했다. 이들은 이후 신고를 받고 출동한 119구급대에 A씨를 인계했다.&lt;br&gt;&lt;br&gt;구급대는 CPR과 전문 약물 투여 등 전문심장소생술을 시행하며 A씨를 병원으로 이송했다.&lt;br&gt;&lt;br&gt;A씨는 병원에 도착하기 전에 자발 순환을 회복한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성인·초등생 혼숙 못 막은 무인텔 업주… 청소년 보호법 위반 입건</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2026/10/09/SG22373C45AG3E5XTKRPOXITUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/10/09/SG22373C45AG3E5XTKRPOXITUA/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 06:41:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZDOZBRGFSWGZTFMYYGMZBTGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 원주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무인텔에서 발생한 미성년자 강간 사건과 관련해 경찰이 무인텔 업주를 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;강원 원주경찰서는 청소년 보호법 위반 혐의로 무인텔 업주 A(60대)씨를 입건해 조사하고 있다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 자신이 운영하는 무인텔에서 30대 남성 B씨와 초등학생이 혼숙하는 것을 막지 않는 등 투숙객 관리·감독을 소홀히 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “예약자가 성인이다 보니 미성년자 혼숙 여부를 확인하지 못했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 이 무인텔에서 초등학생을 강간한 혐의로 구속돼 검찰에 넘겨진 상태다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 청소년 보호법 위반 여부를 수사한 후 결과를 원주시 등 관계기관에 통보해 행정처분이 이뤄질 수 있도록 할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호남 반도체 부지 간 최태원... “전력·용수 늦어도 먼저 착공”</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/09/XPEDYEPMKRECVHWKILLJ6SGO3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/09/XPEDYEPMKRECVHWKILLJ6SGO3A/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 06:01:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6BKJPYVG5C3LDSDRM6G3QWU2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장(오른쪽)이 9일 오후 호남 반도체 클러스터가 들어설 전남광주 서구 군공항 탄약고 부지에서 현장 방문을 마친 뒤 기자들의 질문에 답하고 있다./ 김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장이 9일 호남권 반도체 첨단 국가산업단지(반도체 클러스터) 부지로 예정된 광주 군공항을 처음 찾아 “가장 빠른 속도로 반도체 클러스터 조성을 진행하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;최 회장은 이날 오후 2시쯤 민형배 전남광주 시장과 함께 광주 군공항을 방문한 뒤 취재진 앞에서 반도체 팹 조성 추진 계획을 설명했다.&lt;br&gt;&lt;br&gt;SK하이닉스는 지난 6월 삼성전자와 함께 약 250만평 규모 광주 군공항에 반도체 공장(팹) 4기를 조성하는 반도체 투자 계획을 발표했다. SK하이닉스 경영진이 광주 군공항 부지를 찾아 반도체 팹 조성 상황을 점검해 왔지만, 최 회장이 현장을 찾은 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;최 회장은 “눈으로 보는 것이 백마디 말보다 훨씬 중요하다고 생각해서 직접 확인하기 위해 왔다”며 반도체 클러스터 부지를 찾은 이유를 설명했다.&lt;br&gt;&lt;br&gt;최 회장은 용인에 짓고 있는 반도체 팹과 병행해 호남권 반도체 클러스터 조성을 추진하겠다는 의사를 밝혔다. 그는 “반도체 수요가 빠르게 늘 것으로 추정하고 있다”며 “용인에 짓고 있는 반도체 팹 완공 시점을 12년 당겼는데도 부족하다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;호남권 반도체 클러스터 조성 공사는 이르면 내년부터 시작될 것으로 전망된다. 최 회장은 “구체적인 착공 시점을 지금 알 수는 없지만, 곧 발표될 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서도 “(반도체 팹을) 지을 수 있는 상황이 된다면 가장 빠른 속도로 하겠다”고 했다. 최 회장은 “설사 용수와 전력이 늦는다 하더라도 타이밍을 빨리 맞출 수만 있다면 먼저 (공사에) 들어가겠다. 비용을 아낄 생각은 별로 없다”고 했다.&lt;br&gt;&lt;br&gt;호남권 반도체 클러스터 규모를 용인보다 더 늘릴 가능성도 시사했다. 최 회장은 “현재는 (전남광주)에 용인의 3분의 2 정도 계획을 갖고 있다”면서 “땅과 (반도체) 수요가 더 있다면 이쪽(호남권 반도체 클러스터)이 커질 것도 충분히 예상하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MY62LU2O55CADFICKIMWDUQWCI.JPG?auth=2c30a24c8aec9c195ba5834ef4139570fc24e20134a25fd3f13f537b83f66cb0&amp;smart=true&amp;width=5601&amp;height=3151" type="image/jpeg" height="3151" width="5601">
+        <media:description type="plain">(광주=뉴스1) 김태성 기자 = 최태원 SK 그룹 회장과 민형배 전남광주통합특별시장이 9일 광주 군공항 탄약고 이전 예정지를 찾아 호남권 반도체 산단 조성 예정 부지를 살펴본후 소감을 발표하고 있다. 2026.10.9/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(광주=뉴스1) 김태성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 10월 10일 토요일 (음력 8월 30일 丁巳)</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/09/5XK6IMPUYBCBFN2KRKK3NNNOFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/09/5XK6IMPUYBCBFN2KRKK3NNNOFA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“쓰레기 태우다 또…” 경북 울진서 쓰레기 소각 중 산불</title>
+      <link>https://www.chosun.com/national/regional/2026/10/09/PH5GKWPYGNG73MDLYDSMS3TAUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/PH5GKWPYGNG73MDLYDSMS3TAUY/</guid>
+      <dc:creator>울진=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 06:47:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXNURA2CKFDS3DCOCLNUUEA2RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 11시46분쯤 경북 울진군 기성면 한 주택 뒤편 대나무밭에서 쓰레기 소각 부주의로 추정되는 불이 나 인근 야산으로 번지자 소방 당국이 헬기 등을 동원해 진화 작업을 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오전 11시 46분쯤 경북 울진군 기성면 방율리 한 야산에서 불이 났다. 소방 당국은 현장에 진화 헬기 4대 등을 동원해 진화 작업을 벌여 1시간 30여 분 만인 오후 ​1시 21분쯤 주불을 잡았다. &lt;br&gt;&lt;br&gt;이날 불은 쓰레기 소각 중에 발생한 부주의로 인근 주택 뒤편 대나무밭에서 시작돼 인근 야산으로 옮겨 붙은 것으로 보고 소방 당국은 보고 있다. &lt;br&gt;&lt;br&gt;소방 당국은 잔불 정리 등을 마친 후 정확한 화재 원인과 피해 면적 등을 조사할 예정이다. &lt;br&gt;&lt;br&gt;소방 당국 관계자는 “작은 부주의로 인한 불씨가 대형 산불로 이어질 수 있는 만큼 산림 인근에서 영농 부산물이나 쓰레기를 태우는 불법 소각 행위는 절대 하면 안 된다”고 말했다. &lt;br&gt;&lt;br&gt;국회 농림축산식품해양수산위원회 소속 김선교 의원이 산림청 자료를 분석한 결과, 2021년부터 올해 7월까지 전국에서 2831건의 산불이 발생했고, 발생 원인은 입산자 실화가 744건으로 가장 많았고, 그다음은 쓰레기 소각(286건)이었다. &lt;br&gt;&lt;br&gt;지난해 3월 경북 의성군에서 시작해 의성·안동 등 5개 시·군에서 27명이 숨지고 40명이 다치는 등 67명의 사상자를 낸 대형 산불의 발생 인원 중 하나도 쓰레기 소각이었다. 당시 의성군 안계면과 안평면 두 지점에서 산불이 발생했는데 안계면에서 시작된 불은 과수원에서 영농 부산물을 태우다가 일어났다. &lt;br&gt;&lt;br&gt;이 불을 낸 정모(63)씨는 산림보호법 위반 혐의로 재판에 넘겨져 1심에서는 징역 2년 6개월에 집행유예 3년을 선고받았다. 검찰이 1심의 형이 너무 가볍다며 항소해 16일 선고를 앞두고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전화식 성주군수, 선거 앞두고 친인척 등 8명 위장전입 의혹  </title>
+      <link>https://www.chosun.com/national/regional/2026/10/09/CAGQAO5Q2ZAHTOSFMWSOMXFBVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/CAGQAO5Q2ZAHTOSFMWSOMXFBVQ/</guid>
+      <dc:creator>안동=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 04:45:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4YGAZBXBAM6QMOQAIR3LQH4JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전화식 성주군수./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전화식 경북 성주군수 친인척과 지인 등이 지난 6·3 지방선거를 앞두고 전 군수 소유의 단독주택에 위장 전입했다는 의혹이 제기돼 경찰이 수사에 나섰다. 지난 6월 지방선거에 무소속으로 출마한 전 군수는 경쟁 상대인 국민의힘 정영길 후보를 46표 차로 누르고 당선됐다.&lt;br&gt;&lt;br&gt;이런 내용의 고발장을 접수한 경북경찰청은 전 군수를 공직선거법 및 주민등록법 위반 혐의로 입건해 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 접수된 고발장에는 지난 6월 지방선거를 앞두고 전 군수 친인척과 지인 등 8명이 성주군 대가면에 있는 전 군수 소유 단독주택에 허위로 주소지를 옮겼다는 내용이 담겨 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사실관계 확인을 위해 조만간 고발인 조사를 시작할 예정”이라고 밝혔다. 경찰은 이들의 실제 거주 여부와 주소 이전 경위, 선거와의 관련성 등을 확인할 방침인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;본지는 이번 고발 건에 대한 전 군수 입장을 듣기 위해 수차례 전화했지만, 연결이 되지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZGCYZWHEYDSNBQGY3GCN3EMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 중부는 맑고 남부·제주는 비...찬 바람 그치며 기온 올라</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/10/09/W3G2QRIURFHINH3IL64CB5UWZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/09/W3G2QRIURFHINH3IL64CB5UWZE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 04:58:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JC5FPOOR5BG7AU4VYZIITDWJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구리 코스모스 축제가 개막한 9일 구리한강공원을 찾은 시민들이 가을 날씨를 즐기고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 10~11일 남부와 제주를 중심으로 비가 예보됐다. 찬 바람이 그치면서 쌀쌀했던 기온은 다시 올라갈 전망이다.&lt;br&gt;&lt;br&gt;9일 기상청에 따르면, 10~11일 중부지방은 중국 산둥반도 부근에서 동쪽으로 이동하는 고기압의 가장자리에 들겠고, 남부지방과 제주는 비구름대를 동반한 기압골의 영향을 받을 것으로 예상된다. 이에 중부는 맑은 날씨가, 남부는 흐리고 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;비는 10일 오전 제주부터 시작돼 오후에 남부로 확대될 것으로 보인다. 10일 예상 강수량은 호남 5~20㎜, 영남 5~10㎜로 예보됐다. 제주엔 10~11일 이틀간 5~40㎜의 비가 예상된다.&lt;br&gt;&lt;br&gt;비는 11일에도 이어지면서 남부에 5~20㎜를 더 뿌릴 전망이다. 강원과 충청에도 5㎜ 내외의 약한 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;북쪽에서 내려오던 찬 바람이 그치면서, 당분간 기온은 평년보다 비슷하거나 조금 높을 것으로 보인다. 특히 11일 아침 기온은 평년보다 3~7도가량 높아질 것으로 기상청은 내다봤다.&lt;br&gt;&lt;br&gt;10일 아침 최저기온은 9~20도, 낮 최고기온은 23~27도로 예보됐다. 11일에도 최저 11~20도, 최고 22~26도로 전날과 비슷한 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김창열·유동룡 품은 제주 저지마을, 예술로 물든다</title>
+      <link>https://www.chosun.com/national/regional/2026/10/09/KK5RGQB7NBBF3N2TJSU4OP5M4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/KK5RGQB7NBBF3N2TJSU4OP5M4Y/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 04:50:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CMROPUCAFBGJMUSRYXQFB62KY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;저지문화예술인마을 예술제 안내 포스터./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예술가가 거주하며 창작 활동을 펼치는 제주 저지문화예술인마을에서 입주 작가들과 함께하는 예술제가 열린다.&lt;br&gt;&lt;br&gt;제주도는 16~25일 제주시 한경면 저지문화예술인마을 일대에서 ‘ART&amp;amp;JOEJI 2026’을 개최한다고 9일 밝혔다. 이번 축제에서는 입주 작가들의 공동 전시와 개별 갤러리 전시, 창작 체험, 작업 공간 탐방 등 다채로운 프로그램이 운영된다. &lt;br&gt;&lt;br&gt;개막식이 열리는 16일 오후 3시 저지문화지구 생활문화센터에서는 제주 갈옷을 현대적으로 재해석한 패션쇼가 열린다. 패션쇼에서는 갈천 명인 양순자 몽생이 대표가 갈천으로 만든 다양한 의상을 선보인다. &lt;br&gt;&lt;br&gt;축제 기간 마을 내 갤러리와 공·사립 미술관에서는 공예, 회화, 조각, 서예 등 다양한 작품이 전시된다.&lt;br&gt;&lt;br&gt;갤러리 노리를 비롯해 규당미술관, 더갤러리 현, 서담미술관, 이창원돌공방, 장정순 갤러리, 제주공예박물관 등에서 관람할 수 있다. 인근 제주현대미술관, 김창열미술관, 유동룡미술관, 방림원에서도 풍성한 전시가 이어진다.&lt;br&gt;&lt;br&gt;18일부터 24일까지는 입주 예술인과 함께하는 창작 체험 프로그램이 진행된다. 예술인 마을 첫 입주자이자 제주의 대표 서예가인 한곬 현병찬 선생과 함께 제주의 말과 감성을 제주어로 써보는 시간을 갖는다.&lt;br&gt;&lt;br&gt;장전순 작가와 제주의 곶자왈을 아크릴 물감으로 그리고, 김현숙 작가와 나만의 에코백을 디자인한다. 돌판 위에 한지를 올리고 크레용이나 목탄으로 문질러 무늬와 질감을 떠내는 돌공예 프로타주, 최형양 작가와 전통 수묵화 그리기, 양순자 대표와 함께하는 감물 염색 등도 마련된다.&lt;br&gt;&lt;br&gt;입주 예술인 13명이 참여하는 공동 전시 ‘지속된 순간들’은 31일까지 열린다. 또 17일과 21일 오전 10시에는 저지문화예술인마을을 골목골목 걸으며 입주 작가들의 아틀리에와 미술관을 직접 둘러보는 투어 프로그램이 진행된다. 제주현대미술관 ‘숲속 음악회’, 제주도립 김창열미술관 ‘시네마 나이트’, 유동룡미술관 ‘제주 파빌리온 프로젝트: 하나의 오름들’을 만날 수 있다.&lt;br&gt;&lt;br&gt;저지문화예술인마을은 한림읍 월림리와 한경면 저지리 일대 32만5100㎡ 규모의 유휴 공유지를 소규모 택지 조성 사업으로 예술인에게 분양해 만든 곳이다. 2003년부터 입주가 시작돼 현재 31명이 창작 활동을 이어가고 있다. 2007년 제주현대미술관 개관을 시작으로 김창열미술관, 문화예술 공공 수장고, 제주실내영상스튜디오 등 각종 문화 시설이 문을 열었으며, 제주의 유일한 문화 지구로 지정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구서 주차타워 관리자, 리프트에 끼여 숨져… 경찰 조사</title>
+      <link>https://www.chosun.com/national/regional/2026/10/09/RQRXHNLQVNHKRFCOVM2XYWA2S4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/RQRXHNLQVNHKRFCOVM2XYWA2S4/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 02:37:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM6H6PXGPZBV5KBPF3JPMBXTCI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 오어진·chat GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 한 빌딩 기계식 주차타워 안에서 70대 관리 직원이 리프트에 끼여 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;9일 대구소방안전본부와 경찰 등에 따르면, 지난 8일 오후 3시 17분쯤 대구시 중구 봉산동 한 빌딩 기계식 주차 타워 안에서 관리 직원 A씨가 리프트에 끼여 숨졌다. &lt;br&gt;&lt;br&gt;이 사고는 A씨가 이용객이 맡긴 승용차를 주차하기 위해 타워 내부 리프트를 작동하는 과정에서 발생한 것으로 전해졌다. 사고 당시 주차 타워 출입문은 닫힌 상태였다고 한다. &lt;br&gt;&lt;br&gt;경찰은 현장 주변 감사카메라(CCTV) 분석과 목격자 진술 등을 토대로 자세한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대공원, 국내 최초 자연 번식으로 태어난 쌍둥이 레서판다 ‘마루·마롱’… 14일 공개</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/09/CK7C6UDZKRAKHMTOK4WAAUQA2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/09/CK7C6UDZKRAKHMTOK4WAAUQA2Y/</guid>
+      <dc:creator>윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 02:36:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMMAUHBFZBPJTAQOEDG7G3ULC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대공원은 국내 최초로 번식에 성공한 레서판다 쌍둥이 남매 '마루'와 '마롱'을 오는 14일부터 시민에게 공개한다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대공원이 레서판다 쌍둥이 남매 ‘마루’와 ‘마롱’을 14일부터 시민들에게 공개한다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;수컷 마루와 암컷 마롱은 지난 6월 19일 태어나 생후 4개월을 앞둔 새끼들이다. 국내에서 레서판다가 자연 번식으로 태어난 첫 사례다. 최근 몸무게가 나란히 1㎏을 넘겼다고 한다. 현재 어미를 따라 걷기와 나무 오르기 등을 익히며 환경에 적응하고 있다.&lt;br&gt;&lt;br&gt;이름은 소셜미디어(SNS)를 통한 시민 공모로 정했다. ‘마롱’은 알찬 밤처럼 세상을 넉넉하고 따뜻하게 품으라는 뜻이고, ‘마루’는 으뜸가는 존재로 많은 사람에게 위로와 사랑을 주라는 의미다.&lt;br&gt;&lt;br&gt;레서판다는 야행성 동물로 이른 아침이나 오후 4시 이후에 활발하게 움직이는 편이다. 낮에는 잠을 자거나 움직임이 적어 관람객이 쌍둥이를 보지 못할 수도 있다. 새끼들의 아빠 ‘라비’는 캐나다 캘거리동물원에서, 엄마 ‘리안’은 일본 다마동물원에서 2023년 서울대공원에 들여왔다.&lt;br&gt;&lt;br&gt;여용구 서울동물원장은 “남매의 건강 상태를 세심하게 관찰하고 있다”며 “관람창을 두드리거나 큰소리를 내는 행동은 스트레스를 줄 수 있으니 주의해 달라”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2D2QCW6PCZFPRJJO2FQ364SSFA.jpg?auth=ca844d43c21d88f6592df1b6b772e43a3b54b8e18673c7f3a278418a5bba6832&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
+        <media:description type="plain"> 서울대공원 쌍둥이 새끼 레서판다 '마루·마롱' 만나요
+    (서울=연합뉴스) 서울대공원은 국내 최초로 번식에 성공한 레서판다 쌍둥이 남매 '마루'와 '마롱'을 오는 14일부터 시민에게 공개한다고 9일 밝혔다.
+    사진은 서울대공원 새끼 레서판다. 2026.10.9 [서울시 제공. 재판매 및 DB 금지]
+    photo@yna.co.kr/2026-10-09 11:28:10/
+&amp;lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">유한주</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>부산 ‘영도 포차거리’서 술 취한 여성 바다로 추락 </title>
+      <link>https://www.chosun.com/national/regional/2026/10/09/TOHJHIQ5R5ELVGQPJHOWMH5MT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/TOHJHIQ5R5ELVGQPJHOWMH5MT4/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 02:09:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6M4V5WA4BBTJAB74AGVGIO7GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 부산해경이 바다에 빠진 여성을 구조하고 있다. /부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 영도대교 인근 포장마차 거리 앞바다에 빠진 여성이 구조됐다.&lt;br&gt;&lt;br&gt;9일 부산해양경찰서에 따르면 이날 0시 24분쯤 영도구 영도대교 인근 포장마차 거리 인근 바다에 40대 여성 A씨가 빠졌다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 해경은 바다에 입수해 A씨를 구조했다. 당시 A씨는 술에 취한 상태로, 별다른 이상이 없어 귀가한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;성대훈 부산해양경찰서장은 “술을 마신 뒤 바닷가를 오가면 발을 헛디뎌 바다에 빠질 수 있다”며 “바다에 빠진 사람을 직접 구하기 위해 물에 들어가기보다는 주변의 구명환 등 안전 장비를 활용하고 즉시 119 또는 해양경찰에 신고해 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 영흥도서 해루질하던 60대 男 실종… 해경 수색</title>
+      <link>https://www.chosun.com/national/incident/2026/10/09/NX5DMPQIYFHGRM7ZDW6VNX3AIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/09/NX5DMPQIYFHGRM7ZDW6VNX3AIY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 Oct 2026 01:14:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHWI27IHHNBZ5A3KQW6LM65IA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천해양경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영흥도 갯벌에서 맨손으로 어패류 등을 잡는 해루질을 하던 60대 남성이 실종됐다는 신고가 접수돼 해경이 수색에 나섰다. &lt;br&gt;&lt;br&gt;9일 인천해양경찰서 등에 따르면 이날 오전 1시 23분쯤 인천 옹진군 영흥도에서 60대 남성 A씨가 실종됐다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고자는 A씨의 부인으로, 해루질을 위해 함께 갯벌에 들어간 남편이 중간에 사라지자 신고한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;해경은 A씨를 찾기 위해 함정 5척을 동원해 해상 수색을 진행 중이다. 육상 수색도 병행하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 서울 집 자금 출처 조사 1년새 2배로… 집주인도 공무원도 괴롭다</title>
       <link>https://www.chosun.com/national/national_general/2026/10/09/3IQWVB67O5FM3EWOBEJNI4WX7M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/09/3IQWVB67O5FM3EWOBEJNI4WX7M/</guid>
@@ -655,28 +805,6 @@
       </media:content>
     </item>
     <item>
-      <title>[굿모닝 멤버십] 절세하려고 강남 사옥으로?… 사장님의 위험한 착각</title>
-      <link>https://www.chosun.com/national/2026/10/08/H4HZ7SEGKNE7ZENH5VWSOX3KZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/10/08/H4HZ7SEGKNE7ZENH5VWSOX3KZM/</guid>
-      <dc:creator>조선일보 멤버십</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <content:encoded>📅 1967년 10월 8일 남미 볼리비아 밀림에서 게릴라 활동을 벌이던 마르크스·레닌주의 혁명가 한 사람이 CIA 지원을 받은 볼리비아 정부군에 체포됐습니다. 피델 카스트로와 함께 1959년 쿠바 공산주의 혁명을 성공시켰던 에르네스토 체 게바라였습니다. 이후 남미 대륙에 혁명을 수출하려던 그는 볼리비아 군사정권에 체포되어 총살형으로 생을 마감했습니다. 오늘날 그는 대중문화 속 ‘저항 아이콘’으로 소비되곤 하지만, 그가 남긴 유산은 단순한 낭만적 이미지로 환원되기 어렵습니다. 쿠바 공산주의 기틀을 놨던 그는 결과적으로 신냉전 구도 속에서 쿠바는 물론, 중남미 전체에 독재와 저개발이란 어두운 그늘을 드리웠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULAO3YZGD3YWGKNMJSZWLL5FJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아르헨티나 출신 혁명가 체 게바라의 사망 50주년을 하루 앞둔 8일(현지시간) 그의 시신이 안장된 쿠바 산타클라라에서 참배객들이 게바라의 사진을 들고 추모행사에 참석하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 정보기관 수장의 방미가 미국 측 거부로 무산됐습니다. 심지어 미국은 쿠팡 개인정보 유출 사건에 개입했던 국정원 요원들까지 ‘입국 제한 명단’에 올렸습니다. 동맹국 정보 수장과 요원들에게 이 같은 조치를 취한 것은 이례적입니다. “한국은 미·중 누구 편입니까?” CIA의 이 직구 질문에 국정원장은 뭐라고 답했을까요.&lt;br&gt;&lt;br&gt;북한이 우리 군사분계선(MDL) 남쪽에 지뢰를 깔았다는 사실을 우리 군이 이미 1년 전에 알고도 방치했던 것으로 드러났습니다. 위성 영상으로 위험을 파악하고도 아무 조치를 취하지 않다가 1년 만에 투입된 수색대 장병 3명이 지뢰 폭발로 부상을 입은 겁니다. 군은 왜 그동안 손 놓고 있었을까요. 위협을 눈으로 확인하고도 방관하는 사이 피해는 결국 우리 장병들에게 돌아갔습니다.&lt;br&gt;&lt;br&gt;“지뢰는 영원히 희생자를 낼 준비가 되어 있다.” 1997년 노벨평화상 수상자 조디 윌리엄스의 말처럼 지뢰는 전쟁이 끝나도 살상을 이어갑니다. 영화 ‘노 맨스 랜드’는 지뢰를 깔고 누운 부상병을 두고 벌어지는 국제 사회의 방관과 가짜 뉴스를 조명합니다. 지휘관은 지뢰를 제거했다며 거짓말로 상황을 무마한 채 떠나버립니다. 참호 속 홀로 남은 병사에겐 어떤 비극이 기다리고 있을까요.&lt;br&gt;&lt;br&gt;1619년 첫 흑인 노예 도착을 미국의 기원으로 보려는 진보 진영의 ‘1619 프로젝트’와 1776년 건국 정신을 지키겠다는 트럼프의 ‘1776 위원회’가 맞붙었습니다. 이 충돌은 단순한 역사 논쟁을 넘어 교과서 서술과 할리우드 영화 지원, 공공 예산 배분 등 대중문화 생태계 전반을 뒤흔드는 진영 싸움으로 번졌죠. 건국과 산업화, 민주화의 궤적을 둘러싸고 영화와 드라마가 나올 때마다 편향 논란에 휩싸이는 한국 사회 역시 이 질문에서 결코 자유롭지 않습니다. 과연 국가의 성취와 과오 사이에서 대중문화는 어떤 균형을 잡아야 할까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F4H33BZFIFEWDOTODWLYPDVC7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 김가희·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평생을 해로한 배우자가 세상을 떠난 뒤 날아온 거액의 상속세 고지서 앞에서 많은 유족이 당혹감을 감추지 못합니다. 30년을 함께 살다 이혼할 때는 재산분할에 세금이 단 한 푼도 붙지 않는데, 사별 후 남은 배우자에게는 왜 가혹한 세금 계산서가 청구되는 걸까요. 당장 상속세를 아끼려고 배우자에게 재산을 몰아줬다가는 훗날 자녀들에게 넘어가는 ‘두 번째 상속’에서 뜻밖의 세금 덫에 걸릴 수도 있습니다. 장례가 끝나고 후회하지 않으려면 지금 당장 무엇을 점검해야 할까요? &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CN4Q4QBCBFUZAXMB67WTLLVFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“어차피 비용 처리해서 세금 덜 내면 이득 아닌가요?” 회사 돈을 쓸 때 흔히 나오는 이 기묘한 논리는 사실 100만 원을 써서 겨우 20만 원 세금을 덜 낸 뒤 80만 원의 피 같은 현금을 날리는 교묘한 착시일 뿐입니다. 직원 복지나 인재 유치라는 이름으로 호화로운 사무실을 얻고 법인카드를 긁는 사이, 회사의 진짜 기초체력은 서서히 갉아먹히게 되죠. 공유오피스 신화로 불렸던 위워크가 왜 한순간에 바닥으로 곤두박질쳤던 것일까요. 내 돈이 아닌 회사 돈을 운영할 때 경영진이 빠지기 가장 쉬운 ‘대리인 비용의 덫’은 무엇일까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NILCSK56QZAOVPGVTNTJYNN5GM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XUBOUIMKPVH5VP2NF3FDPLVN2E.png?auth=147ab3e4f09f06fd9ec6024520cd71c206dd32387778af3b96a3abd68a688d05&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
-    </item>
-    <item>
-      <title>“자, 출발하자!”… ‘go’와 ‘set off’의 차이</title>
-      <link>https://www.chosun.com/national/education/2026/10/08/QQHFJRYCI5BPVDG35YCZNYEXL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/10/08/QQHFJRYCI5BPVDG35YCZNYEXL4/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 18:00:00 +0000</pubDate>
-      <content:encoded>스위스 인터라켄에서 일일 투어 버스에 탑승했습니다. 투어 참가자들이 모두 자리에 앉아 안전벨트를 매자, 마이크를 잡은 현지 가이드가 익살스러운 표정과 함께 활기찬 목소리로 외칩니다.&lt;br&gt;&lt;br&gt;“Alright everyone, Time to set off on our grand adventure!”&lt;br&gt;&lt;br&gt;순간 ‘Alright everyone’과 ‘adventure’는 알아듣겠는데, ‘set off’는 무슨 뜻인지 몰라 잠시 당황합니다.&lt;br&gt;&lt;br&gt;‘오프(off)’? 혹시 투어가 취소됐다는 뜻인가? 아니면 무슨 전자 기기 같은 것들의 세팅을 끄라는(off) 말인가?’ 싶어 혼란스럽습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXYAWFAMYFA7HA6HPGXVHJLUXE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교에서 배운 대로라면 ‘출발하다’는 분명 ‘depart’, ‘start’, 혹은 ‘leave’여야 하는데, 가이드 입에서 나온 단어는 아주 생소한 ‘셋 오프(set off)’입니다.&lt;br&gt;&lt;br&gt;물론 depart, start, leave도 틀린 말은 아니지만, 영어로 안내하는 현지 가이드나 여행자들이 새로운 여정이나 투어의 첫발을 내디딜 때 흔히 쓰는 구동사는 ‘set off’입니다. 가이드가 “Let’s set off!”라고 외친 건 일정이 취소됐다는 게 아니라, “이제 우리 투어 출발합니다!”라는 신호탄 같은 멘트입니다.&lt;br&gt;&lt;br&gt;같은 ‘출발’이라도 ‘leave’ ‘depart’와는 결이 조금 다릅니다. ‘leave’ ‘depart’는 ‘어떤 장소를 떠난다’는 데, ‘set off’는 ‘여정이 시작된다’는 데 초점이 맞춰져 있는 표현입니다.&lt;br&gt;&lt;br&gt;“We should set off early to beat the traffic.” (교통 체증을 피하려면 일찍 출발해야겠어요.)&lt;br&gt;&lt;br&gt;“Should we set off a bit earlier?” (조금 일찍 출발할까요?)&lt;br&gt;&lt;br&gt;“Hurry up, the bus is about to leave!” (서둘러요, 버스 곧 떠나요!)&lt;br&gt;&lt;br&gt;“We’re setting off in five minutes.” (5분 뒤에 출발합니다.)&lt;br&gt;&lt;br&gt;“We’re all packed and ready to go.” (짐 다 쌌고 출발할 준비됐어요.)&lt;br&gt;&lt;br&gt;“Are we all here? Let’s get going.” (다 모였나요? 그럼 출발합시다.)&lt;br&gt;&lt;br&gt;“Sorry, did you say we’re leaving now?” (죄송한데, 지금 출발한다고 하신 건가요?)&lt;br&gt;&lt;br&gt;“How long is the drive to the first stop?” (첫 번째 장소까지 얼마나 걸리나요?)&lt;br&gt;&lt;br&gt;“Where do we meet if we get separated?” (일행과 떨어지면 어디서 만나면 되나요?)&lt;br&gt;&lt;br&gt;“Sorry, could we wait just a minute? Two people of our group are still in the restroom.” (죄송한데 잠깐만 기다려 주실 수 있나요? 일행 두 명이 아직 화장실에 있어요.)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;Let’s head out!&lt;/mark&gt;”은 숙소, 카페, 식당, 투어 장소 등지에서 다음 목적지로 이동하기 위해 자리를 툭툭 털고 일어나 길을 나선다는 어감으로 흔히 쓰이는 표현입니다. “Let’s go”보다 한결 느긋하고 부드러운 느낌을 줍니다.&lt;br&gt;&lt;br&gt;“We should head out soon if we want to catch the sunset.” (일몰을 보려면 우리 곧 출발해야 해요.)&lt;br&gt;&lt;br&gt;“Are you ready to head out?” (이제 나갈 준비 됐나요?)&lt;br&gt;&lt;br&gt;“Let’s finish our coffee and head out.” (커피 마저 마시고 출발합시다.)&lt;br&gt;&lt;br&gt;“What time are we heading out tomorrow?” (우리 내일 몇 시에 출발하나요?)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6K7Q757YF5BJ3IHLXAGKK6BRKE.png?auth=e7f601c4ba1d1186dee585e097a8b9dd567743c984050ec5a24095002a76b436&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>이화영, 靑에 가석방 요구… “대통령에게 화 많이 나”</title>
       <link>https://www.chosun.com/national/court_law/2026/10/08/5WOW524ZT5GJVNHOLBSB3WLYVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/5WOW524ZT5GJVNHOLBSB3WLYVE/</guid>
@@ -742,15 +870,6 @@
       <description/>
       <pubDate>Wed, 07 Oct 2026 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCFZ4XOHHJI3BCH37TVIMRLJHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중대범죄수사청을 비롯한 전국 지방 중수청이 공식 개청을 한 지 4일째인 6일 서울 중구 중대범뵈수사청 본청. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울지방중대범죄수사청 수사관 A씨는 지난 2일 개청한 뒤로 6일까지 업무를 배정받지 못했다고 한다. 지방의 한 검찰청에서 근무 중이던 A씨는 개청 하루 전 서울중수청 발령을 받고, 주말에 서둘러 을지로 청사 인근에 원룸을 구했다. A씨는 “앞으로 해야 할 업무 설명만 듣고, 팀원끼리 서로 소개하는 자리만 있었을 뿐 사무실에는 아직 컴퓨터도 없다”고 했다. &lt;br&gt;&lt;br&gt;중수청이 7일로 출범 6일째를 맞았지만, 사실상 개점 휴업 상태다. 기본적인 업무 환경을 갖추지 못한 탓이다. 전산망이 갖춰지지 않아 고소·고발 사건이 접수돼도 담당 수사관 배정이 지연되고 있다. 중수청에선 직원 감찰 규정 등 내부 지침도 뒤늦게 마련 중이라고 한다. 법조계에서는 “정치권에서 무리하게 출범시킨 탓에 정상적으로 수사를 시작하는 데 최소한 몇 달이 걸릴 것”이라는 말이 나왔다.&lt;br&gt;&lt;br&gt;중수청은 지난 6일부터 고소·고발 사건을 각 부서에 배당하기 시작했다고 한다. 다만 각 사건을 담당할 수사관은 아직 정해지지 않았고, 사건번호를 부여하는 작업도 수작업으로 진행 중이다. 중수청 측은 “이르면 다음 주 중에는 사건번호 부여 등이 모두 이뤄질 수 있도록 순차적으로 배당 절차를 진행하고 있다”고 했다.&lt;br&gt;&lt;br&gt;중수청이 사건 접수·관리에 필요한 형사사법정보시스템(KICS)은 구축하는 데 3년가량 걸려 일단 경찰 시스템을 빌려 쓰기로 했다. 이런 탓에 지금은 전산망으로 사건 접수와 이첩 정도만 가능하다고 한다. 사건 배당이나 조사와 관련한 필수 기능은 연말에야 사용할 수 있어서 대부분 업무를 수기로 처리 중이다. 서울중수청 소속 한 수사관은 “전산 시스템이 불완전해서 수사할 사건을 배당받아도 연말까지는 서류를 검토하는 정도밖에 못 할 것 같다”며 “수기로 관리한 사건을 나중에 전산에 다시 입력하는 부담도 클 것”이라고 했다.&lt;br&gt;&lt;br&gt;중수청이 피의자나 참고인 등을 불러 조사할 공간도 마땅치 않다. 중수청 개청준비단에 따르면, 이날까지 본청과 6개 지방청에는 영상 녹화 조사실이 설치되지 않았다. 경찰과 검찰은 피의자 조사 과정에서 인권 침해 등을 방지하기 위해 영상 녹화 조사실을 이용해왔는데 중수청에는 이조차 없는 형편이란 얘기다. 중수청 관계자는 “추가 공사를 통해 영상 녹화 조사실과 관련 장비를 올해 안에 구축할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;중수청 수사 실무 등에 필요한 예규·훈령 등 내부 규정도 아직 다 마련되지 않았다. 중수청 본청의 한 수사관은 “중수청 감찰 관련 규정을 만드는 중인데, 언제 완성할 수 있을지는 확답할 수 없다”며 “일단 법무부나 검찰에서 쓰던 관련 규정을 활용해야 할 것 같다”고 했다. 지방중수청은 본청이 규정을 마련해야 그에 맞춰 업무를 할 수 있어, 본청이 규정을 다 마련할 때까지 기다리고 있다고 한다. &lt;br&gt;&lt;br&gt;일부 수사관은 어수선한 임시 사무실에서 중수청법과 개정 형사소송법 등을 공부하며 업무를 익히고 있다. 수도권 지역 중수청의 한 수사관은 “명함도 안 나와 외근을 나가서 첩보를 수집하는 일도 하기가 뭣한 상황”이라며 “당장 할 수 있는 일이 없어 청사 곳곳을 둘러보고 다니는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지난달엔 버터떡 반짝… 이달엔 피자설기 반짝</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/08/O5AQVWKY7NAHFNVAPBSTBCSS34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/08/O5AQVWKY7NAHFNVAPBSTBCSS34/</guid>
-      <dc:creator>이기우 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQCFST2UUFG7TLRPEHZ3T2YNTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;버터떡(왼쪽)과 피자설기/ 소셜미디어 메가MGC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에서 카페를 하는 노모(49)씨는 올해 들어 두세 달에 한 번꼴로 디저트 메뉴를 바꿨다. 지난해 12월 소셜미디어(SNS)에서 ‘두바이 쫀득 쿠키(두쫀쿠)’가 인기를 끌자 노씨도 만들어 팔기 시작했다고 한다. 하지만 해가 바뀌면서 찾는 손님이 줄더니 2월쯤에는 뚝 끊어졌다. 3월에 노씨는 ‘버터떡’을 팔려고 3주간 레시피를 개발해 메뉴로 내놨지만, 손님이 몰린 건 2주 남짓이었다. 5월에는 중화권 디저트 ‘양즈깐루’를 팔려고 재료를 사고 포스터와 배너까지 만들었다. 이번에는 판매조차 못 했다고 한다. 노씨가 준비를 마쳤을 때는 이미 유행이 지나간 뒤였다. &lt;br&gt;&lt;br&gt;소셜미디어를 타고 디저트 유행이 두세 달 단위로 빠르게 바뀌면서 카페나 빵집을 하는 자영업자들이 속앓이를 하고 있다. 올해만 두쫀쿠에 이어 버터떡, 양즈깐루, 우베(자색고구마) 디저트, 피자설기, 요거트를 넣은 찹쌀떡 등이 잇따라 유행했다. 과거에는 디저트가 유행하면 1년 정도 인기를 이어갔지만, 요즘은 뜨기 무섭게 새 디저트가 유행한다는 것이다. &lt;br&gt;&lt;br&gt;온라인 검색량에서도 이런 유행 변화가 엿보인다. 7일 네이버 데이터랩에 따르면 두쫀쿠 검색량은 지난해 12월 중순부터 급증해 올 1월 중순 정점을 찍었다. 하지만 4~5월 검색량은 정점을 찍었던 시기의 4~5% 수준으로 오그라들었다. 뒤이어 등장한 버터떡은 3월 중순부터 관심을 끌었지만 두 달도 안 된 5월 초부터 검색량이 빠르게 줄었다. 양즈깐루도 4월부터 유행하다가 지금은 열기가 식었다. 길어야 반년, 짧으면 두세 달 만에 유행이 끝나는 셈이다.&lt;br&gt;&lt;br&gt;짧아진 디저트 유행 주기는 자영업자들의 비용 부담으로 이어진다. SNS에서 특정 디저트가 뜨기 시작하면 카페와 빵집에서 주문이 한꺼번에 몰리면서 원재료 가격이 뛴다. 자영업자들은 유행이 끝나기 전에 제품을 내놓으려고 평소보다 비싼 값에도 재료를 서둘러 확보한다. 하지만 몇 달 만에 유행이 꺾이면 비싸게 사들인 재료는 그대로 재고로 남는다. &lt;br&gt;&lt;br&gt;그렇다고 자영업자들이 유행을 외면하기도 어렵다. SNS에서 본 디저트를 찾아 카페를 방문하는 손님이 적지 않기 때문이다. 전북 익산에서 7년째 카페를 하는 이모(42)씨는 “SNS에서 유행하는 메뉴가 없으면 ‘왜 여기는 안 파느냐’며 그냥 나가는 손님이 많아 준비할 수밖에 없다”고 했다. 서용구 숙명여대 경영학부 교수는 “자영업자들도 사전 주문을 받거나 소량만 판매하는 방식으로 재고 부담을 줄일 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“명태균에 무상 여론조사 의뢰한 증거 없어” 尹 항소심 무죄</title>
@@ -819,15 +938,6 @@
       <content:encoded>국립암센터는 7일 ‘젠틀몬스터’의 운영사인 아이아이컴바인드로부터 후원금 1억원을 전달받았다고 밝혔다. 젠틀몬스터는 독특한 디자인과 전시형 매장으로 해외에서도 인지도를 높이고 있는 글로벌 안경·선글라스 브랜드다.&lt;br&gt;&lt;br&gt;국립암센터는 이번 후원금을 의료 인프라 강화와 연구 환경 고도화 등에 활용할 예정이다. 양한광 국립암센터 원장은 “보내주신 소중한 뜻에 부응해 더 나은 연구·진료 환경을 조성하는 데 힘쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [한입 테크 사전] ‘변신 로봇’ 이름 가진 기술… 나날이 변하는 AI 세상에서 10년 자리 지켰어요</title>
-      <link>https://www.chosun.com/national/nie/2026/10/08/ECAL55J4BJGG5N4PPWFABBQ5FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/10/08/ECAL55J4BJGG5N4PPWFABBQ5FI/</guid>
-      <dc:creator>박상길 디노티시아 LLM 팀장·'비전공자도 이해할 수 있는 LLM 수업' 저자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>한 달이 멀다 하고 신기술이 쏟아지는 인공지능(AI) 업계에서 10년 가까이 자리를 지켜 온 핵심 기술이 있다면 믿어지나요? 챗GPT도, 제미나이도, 클로드도 모두 이 기술을 바탕으로 움직인답니다. 이름은 바로 ‘트랜스포머(Transformer·변화시키는 것)’예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3J24MCF4FFB5AAEZITHDVSXOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;번역 AI로 탄생한 트랜스포머는 빼어난 성능으로 AI 업계에서 ‘만능 변신 로봇’으로 여겨지곤 합니다. /정진호 작가&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트랜스포머라고 하면 자동차가 로봇으로 변신하는 만화가 먼저 떠오르죠? 실제로 이 기술을 만든 구글 연구팀의 초기 설계 문서 표지에는 변신 로봇 캐릭터들이 그려져 있었대요. 하는 일과도 잘 어울리는 이름이에요. 트랜스포머는 원래 영어 문장을 독일어나 프랑스어로 바꾸는 번역 AI로 태어났거든요. 한 언어를 다른 언어로 ‘변신’시키는 셈이죠.&lt;br&gt;&lt;br&gt;2017년 구글 연구진이 트랜스포머를 소개한 논문은 제목도 재치가 넘쳐요. ‘Attention Is All You Need’, 우리말로 ‘필요한 건 어텐션(집중)뿐’이라는 뜻인데요. 비틀스의 노래 ‘All You Need Is Love(필요한 건 사랑뿐)’를 흉내 낸 거예요. 어텐션은 문장 속 여러 단어 가운데 어디에 더 집중할지 스스로 골라내는 기술이에요. 그전까지 번역 AI는 단어를 앞에서부터 하나씩 차례로 읽어야 했는데, 트랜스포머는 문장 전체를 한눈에 보며 중요한 곳에 집중했죠.&lt;br&gt;&lt;br&gt;실력은 대단했어요. 트랜스포머는 사실상 모든 번역 AI를 대체했고, 구글 번역이나 네이버 파파고 같은 서비스도 트랜스포머를 바탕으로 다시 태어났어요. 번역을 이렇게 잘하니, 다른 일도 잘할 수 있을 거라 생각하는 연구자가 늘어났어요.&lt;br&gt;&lt;br&gt;트랜스포머는 크게 두 부분으로 나뉘어요. 문장을 읽고 뜻을 파악하는 ‘인코더’와, 그 뜻을 바탕으로 새 문장을 써 내려가는 ‘디코더’죠. 이 두 부분을 구글과 오픈AI는 서로 다른 방식으로 연구하기 시작했어요. 먼저 구글의 모델인 버트(BERT)는 인코더를 가져와 글을 이해하는 데 집중했어요. 국어 시험에서 지문을 읽고 문제를 푸는 것처럼요. 그리고 그 결과는 엄청났어요. 2018년 가을 버트가 처음 공개되자 학계가 발칵 뒤집혔어요. 11가지 언어 과제에서 모두 최고 점수를 기록했고, 일부 영역에서는 사람보다 높은 점수를 받았거든요.&lt;br&gt;&lt;br&gt;오픈AI의 GPT는 반대로 디코더를 가져와 글을 지어내는 데 집중했어요. 당시 언어 이해 평가에서 압도적인 성과를 낸 버트에 가려, 글을 지어내는 GPT-1은 상대적으로 주목을 받지 못했어요. 하지만 오픈AI는 스스로 말을 만들어 내는 능력에 AI의 미래가 있다고 믿고 GPT를 꾸준히 연구해 나갔어요. 그렇게 탄생한 게 바로 지금 전 세계 사람들이 매일같이 쓰는 챗GPT랍니다. GPT의 ‘T’도 트랜스포머에서 따왔어요.&lt;br&gt;&lt;br&gt;번역에서 출발한 트랜스포머는 챗GPT의 핵심 기술로 여전히 사용되고 있어요. 재치 있는 이름으로 출발한 번역 기술이 무려 10년 가까이 AI 세상의 주인공이 될 줄은 아무도 몰랐을 거예요. 다음에 챗GPT와 대화할 때, 그 안에서 부지런히 일하는 만능 변신 로봇 트랜스포머를 떠올려 보세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[인사] 재정경제부 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/10/08/AJDKIGVPDVHDLDJVYZVQPRRA3A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/08/AJDKIGVPDVHDLDJVYZVQPRRA3A/</guid>
@@ -855,85 +965,6 @@
       <content:encoded>오는 9일 한글날은 ‘한글날 100돌’이 되는 날이에요. 580년 전 세종대왕이 훈민정음을 반포한 날을 기념해 ‘한글날’을 만든 지 100주년이 된다는 뜻이죠. 그런데 1926년 처음 정해진 한글날은 10월 9일이 아니었다고 해요. 어떻게 된 걸까요? 오늘은 한글날 100돌을 앞두고 ‘한글과 한글날의 역사’를 알아보도록 하겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQXLDJWXX5FLPH4JFUDJ2OR7AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 광화문광장에서 열린 한글 주간 행사에서 외국인들이 한글이 적힌 기념품을 만드는 체험을 하고 있습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;“이렇게 위대한 글자를 무시하다니…”&lt;/b&gt;&lt;br&gt;&lt;br&gt;훈민정음은 1446년(세종 28년)에 반포됐습니다. 세종대왕이 훈민정음을 창제한 이유는 ‘훈민정음 해례본(解例本)’에 잘 나타나 있어요. 우리말이 중국 말과 다르기 때문에 문자 생활이 불편했기 때문이라는 겁니다. 또 한글 창제 5년 뒤에 나온 ‘동국정운’에서 볼 수 있듯이 한자 발음의 정확한 표기를 위한 것이기도 했지요. 한글 창제의 목적이 한자나 한문의 폐지가 결코 아니었음을 여기서 볼 수 있답니다.&lt;br&gt;&lt;br&gt;반포 이후 오랫동안 한글은 주류 양반 선비들에게 ‘언문(諺文·상스러운 글)’으로 불리며 무시를 당하기 일쑤였습니다. 16세기 초 연산군 때는 임금을 비판하는 한글 투서가 발견되자 탄압을 당하는 일도 있었어요. 그런 가운데서도 한글의 생명력은 꾸준히 이어졌습니다. 일부 양반과 궁중, 백성, 부녀자들 사이에서 널리 사용됐고, 이미 15세기부터 ‘나신걸 편지’ 등 한글 편지를 여러 사람이 주고받았다는 사실이 확인됩니다. 조선 중기 이후엔 가사 문학, 한글 소설 등 한글로 쓴 문학 작품이 출현했습니다. 조선 후기에 이르러 궁중에서 발전한 단아한 한글 서체가 바로 ‘궁체’입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SAKBXD2CZCAJGDSCCG5ILVW64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종실록 중 훈민정음에 관한 부분입니다. ‘나랏말이 중국과 달라, 말하고 싶은 것이 있어도 잘 표현하지 못하는 백성이 많다’는 내용이 적혀 있습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19세기 후반 개항과 함께 조선 땅을 밟은 외국인들은 한글을 보고 경악하기 일쑤였습니다. 이렇게 과학적이고 쓰기 쉬운 문자가 세상에 널리 알려지지 않은 채 존재한다는 사실에 충격을 받았던 것이죠. 선교사이자 교육자였던 호머 헐버트는 “조선인들은 위대한 글자인 한글을 무시하고 있다”며 놀라워했어요. 그는 한글에 띄어쓰기 사용을 권장했고, 그 영향을 받아 1896년 한글 신문인 독립신문에 띄어쓰기가 도입됐다고 해요.&lt;br&gt;&lt;br&gt;&lt;b&gt;첫 한글날 행사는 1926년 11월 4일&lt;/b&gt;&lt;br&gt;&lt;br&gt;1894년 갑오개혁 때 마침내 한글은 ‘국문(나랏글)’의 지위에 올라서게 됐습니다. 모든 법령을 국문(한글)을 바탕으로 삼고 한자를 섞어 쓰는 ‘국한문’으로 하게 됐던 것이죠. 이어 종두법 보급에 공헌한 의사이자 한글학자였던 지석영이 1905년 맞춤법 통일안인 ‘신정국문’을 고종 황제에게 올렸고, 1907년에는 대한제국의 교육 행정을 담당하던 ‘학부’에 한글과 한국어 연구 국가 기관인 ‘국문연구소’가 설치됐답니다.&lt;br&gt;&lt;br&gt;민간의 연구 활동도 활발했습니다. 한글학자 주시경은 ‘대한국어문법’과 ‘국어문법’을 출간했을 뿐 아니라 ‘언문’이라 불리던 한글에 ‘한글’이란 이름을 붙이자고 제안했습니다. 주시경은 1908년 ‘국어연구학회’를 창립했습니다. 이 단체는 1921년 이름을 ‘조선어연구회’로 바꿨고, 1926년 한글날을 제정했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPSAADOTDRFWHDFDNUXNKXHH7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한글 연구의 기초를 마련한 주시경(1876~1914)입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 해는 훈민정음 반포 480주년이었어요. ‘세종실록’의 훈민정음 반포 기사가 1446년 음력 9월 29일에 실렸기 때문에 1926년의 음력 9월 29일에 해당하는 11월 4일에 기념식을 거행한 겁니다. 이 당시만 해도 아직 ‘한글’이란 이름이 널리 알려지지 않아 ‘가갸날’이라 했습니다. 1928년이 돼서야 비로소 ‘한글날’이 됐다고 합니다.&lt;br&gt;&lt;br&gt;그런데 이렇게 하면 설날이나 추석처럼 해마다 양력으로는 다른 날이 한글날이 되지 않겠어요? 그래서 1446년 9월 29일을 아예 양력인 율리우스력으로 환산해 1931년 10월 29일에 행사를 열었습니다. 1934년부터는 그레고리력으로 다시 환산해 10월 28일이 한글날이 됐지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;훈민정음 해례본 발견과 ‘양력 10월 9일’&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 1940년에 실로 엄청난 문서가 발견됩니다. 그것은 ‘훈민정음 해례본’이었어요. 세종대왕이 한글을 창제한 뒤 집현전 학자들에게 명해 집필한 한글의 해설서였습니다. 그러나 기록에만 나올 뿐 전해지지 않았는데, 1940년 경북 안동에서 한 부가 존재한다는 사실이 밝혀졌습니다. 문화재 수집가인 간송 전형필이 당시 큰 기와집 10채 값인 1만원을 주고 입수해 보관 중이었죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRFOFKUF3FGLRG32PT5HVLDYDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;훈민정음 해례본입니다. 문화재 수집가인 간송 전형필이 광복 이후 공개했어요. //뉴스1·조선왕조실록·조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보·동아일보가 벌이던 한글 보급 운동을 강제로 금지시킨 일제는 1930년대 말부터 민족 말살 정책의 일환으로 한글·한국어 교육을 폐지했습니다. 1942년엔 조선어학회 사건을 일으켜 한글 연구 단체도 탄압했습니다. 일제 말기, 한글은 암흑 속에 들어간 듯했습니다.&lt;br&gt;&lt;br&gt;1945년 광복이 되자 전형필은 ‘훈민정음 해례본’을 학계에 알렸습니다. 한글이 발음 기관의 모습을 따서 만들어졌다는 독창적인 제자(制字) 원리가 비로소 확실해졌습니다. 또 한 가지 확실해진 것이 있었죠. 책이 발간된 시점이 1446년 음력 9월 상순(1~10일)이라고 해례본에 기록돼 있었던 것입니다.&lt;br&gt;&lt;br&gt;그래서 한글날도 날짜 변경이 필요해졌습니다. ‘상순’의 마지막 날인 ‘9월 10일’로 상정하고 훈민정음이 반포된 1446년의 음력 9월 10일을 양력(그레고리력)으로 환산하니 ‘10월 9일’이 됐던 것이죠. 이렇게 해서 1945년 해방 이후부턴 10월 9일을 한글날로 기념하게 됐습니다. 정부 수립 다음 해인 1949년 한글날은 공휴일로 지정됐죠.&lt;br&gt;&lt;br&gt;그런데 1991년 ‘10월에 공휴일이 너무 많다’는 이유로 공휴일에서 빠지게 됐습니다. 2006년에는 국경일이 됐으나 쉬는 날은 아니었고, 2013년이 돼서야 다시 공휴일의 지위를 되찾을 수 있었습니다. 현행 국어기본법 제20조엔 “정부는 한글의 독창성과 과학성을 국내외에 널리 알리고 범국민적 한글 사랑 의식을 높이기 위하여 매년 10월 9일을 한글날로 정하고, 기념행사를 한다”고 돼 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [꼭 읽어야하는 고전] 밝게 비추며 타들어 가는 작은 불꽃… 그 속에 담긴 과학 이야기 알려줘요</title>
-      <link>https://www.chosun.com/national/nie/2026/10/08/NPCQCX57F5AJRMZUMAC42AOQRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/10/08/NPCQCX57F5AJRMZUMAC42AOQRQ/</guid>
-      <dc:creator>이진혁 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CURXG6KR7JBOPLEEND6V4XUSTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;마이클 패러데이 지음｜이은경 옮김｜출판사 인간희극｜가격 9800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;요즘 우리가 양초에 불을 붙이는 순간은 대개 생일 케이크 앞일 겁니다. 하지만 전구가 널리 쓰이기 전 양초는 밤마다 집 안을 밝히던 아주 익숙한 물건이었습니다. 1860년 겨울, 영국 런던 왕립연구소에서 과학자 마이클 패러데이는 바로 이 평범한 양초 한 자루를 들고 청소년들을 위한 강연을 시작했습니다.&lt;br&gt;&lt;br&gt;패러데이는 전자기 유도를 발견해 오늘날 발전기의 원리를 여는 데 결정적인 역할을 한 과학자입니다. 그런 그가 전기가 아니라 촛불을 골라 과학을 설명한 것이지요. ‘촛불 하나의 과학’은 그가 진행한 여섯 차례의 크리스마스 강연을 기록한 책입니다. 이 강연은 한 세기 반이 넘도록 세계 곳곳에서 읽혀왔고, 오늘날에도 과학 수업과 실험 교육의 자료로 쓰이고 있습니다.&lt;br&gt;&lt;br&gt;양초는 너무 익숙해서 별로 궁금할 것이 없어 보입니다. 하지만 패러데이는 질문을 쏟아냅니다. 불은 심지 끝에 붙어 있는데 왜 초가 줄어들까? 불꽃은 왜 밝게 빛날까? 초가 다 타고 나면 어디로 사라질까? 그는 “과학의 세계로 들어가는 데 촛불보다 더 활짝 열린 문은 없다”고 말합니다.&lt;br&gt;&lt;br&gt;실제로 타는 것은 단단한 초 자체가 아닙니다. 불꽃의 열이 초를 녹이면 액체가 된 초가 심지의 가느다란 틈을 타고 올라갑니다. 수건 끝을 물에 담그면 물이 스며 올라가는 것과 같은 ‘모세관 현상’입니다. 위로 올라온 액체는 열을 받아 기체가 되고, 이 기체가 공기 중 산소와 만나 타는 것이지요.&lt;br&gt;&lt;br&gt;불꽃 속에는 더 많은 비밀이 숨어 있습니다. 노란 불꽃이 밝은 것은 아주 작은 탄소 입자들이 뜨겁게 달아올라 빛을 내기 때문입니다. 차가운 물체를 불꽃 위에 대면 물방울도 맺힙니다. 양초 속 수소와 공기 중 산소가 만나 물이 생긴 것이지요. 탄소는 산소와 결합해 이산화탄소가 됩니다. 양초 한 자루를 따라가다 보니 물과 공기, 수소와 산소, 탄소까지 서로 이어집니다.&lt;br&gt;&lt;br&gt;마지막 강연은 사람의 ‘호흡’으로 확장됩니다. 양초가 산소와 반응해 이산화탄소와 물을 만들듯, 우리 몸에서도 음식과 산소가 반응하는 비슷한 과정이 일어납니다. 그 과정에서 에너지를 얻고 이산화탄소와 물이 생기지요. 우리가 내놓은 이산화탄소는 다시 식물이 살아가는 데 쓰이고, 식물은 산소를 내놓습니다. 촛불에서 시작한 이야기가 우리의 숨을 거쳐 식물과 자연 전체로 넓어지는 것입니다.&lt;br&gt;&lt;br&gt;‘촛불 하나의 과학’이 지금도 읽히는 이유는 과학자가 세상을 바라보는 방법을 보여주기 때문입니다. 패러데이는 “원인이 무엇일까? 왜 이런 일이 일어날까?”라고 물어보라고 당부합니다. 평범한 것을 자세히 보고 질문한 뒤, 직접 실험해 답을 찾아가는 것입니다. 검색 한 번이면 답이 쏟아지는 인공지능(AI) 시대에, 스스로 질문을 찾아내는 힘은 역설적으로 더 귀해졌습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] mixed reviews</title>
-      <link>https://www.chosun.com/national/nie/english/2026/10/08/F5FEKBA4VVCLPBNS6KS6LF6EM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/10/08/F5FEKBA4VVCLPBNS6KS6LF6EM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4X5ZULUHIRF3RI5BRBARMNCQFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 부드럽고 단단한 정도</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/10/08/VMJNJ77XARBETCB2T7LEA3SN7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/10/08/VMJNJ77XARBETCB2T7LEA3SN7I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4QVC2GEDVEBROFFDYFML6UTFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2963] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2026/10/08/EI6CESM26JCTPECQY2Y7DKLBPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/10/08/EI6CESM26JCTPECQY2Y7DKLBPI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCSGWNBDXZDAFI3EJSAB5BKPOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 매정하게 대하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/10/08/Z4OWEB3H3VGRNAEXVDCK42OC74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/10/08/Z4OWEB3H3VGRNAEXVDCK42OC74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHX3LSP3FVASVKQ666COMS5DYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 살상(殺傷)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/10/08/EJXNQI2DTZDU7CYSIUAPPLPMXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/10/08/EJXNQI2DTZDU7CYSIUAPPLPMXA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7KLMZQLR5CB7CDAVTY26PHUH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>골프 접대받고 불법게임장 수사 무마 혐의 경찰 형사팀장 기소</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/07/OY2A7QSE3BCLBMLBX2K6LAKWXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/07/OY2A7QSE3BCLBMLBX2K6LAKWXA/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 12:28:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSDIOLGGY3WKMBQHA4DSZBQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방공소청·대구광역공소청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백만원 상당의 골프 접대를 받고 불법 게임장 수사를 무마해 준 경찰서 형사팀장이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지방공소청 영덕지청은 7일 수사를 피하게 해준 대신 뇌물을 받은 혐의(부정처사 후 수뢰)로 경북 지역의 한 경찰서 형사팀장 A씨를 불구속 기소했다고 밝혔다. A씨에게 뇌물을 건넨 불법 게임장 업주 B씨는 뇌물 공여 등 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;영덕지청에 따르면, A씨는 “B씨의 불법 게임장 운영을 적발해 달라”는 취지의 진정서를 받고, 형식적인 조사 후 입건 전 조사종결 처분한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 수사 진행 상황을 알려주기도 했다. A씨는 수사 무마 대가로 7차례에 걸쳐 620만원 상당의 골프 향응 및 골프채 등을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;영덕지청은 경찰과 동일한 진정서 내용을 확보한 뒤 직접 수사를 통해 B씨에게 게임산업진흥에관한법률위반 혐의를 적용했다.&lt;br&gt;&lt;br&gt;공소청 관계자는 “B씨가 A씨를 ‘형님’이라고 호칭하면서 수시로 만남을 이어간 사실을 확인했다”며 “뇌물 범죄 등 공직자의 부패 범죄에 대해 엄정하게 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GNSDIOLGGY3WKMBQHA4DSZBQGA.jpg?auth=04b7aaa48780778763b0dcde0ae66bc8ba189c47c6970dcba6ce3f691a65225b&amp;smart=true&amp;width=5322&amp;height=3548" type="image/jpeg" height="3548" width="5322">
-        <media:description type="plain">대구지방공소청·대구광역공소청. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">News1 G.J.S</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>여고생 살해 “죗값 가져가겠다”더니… 장윤기, 무기징역 불복 항소</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/07/Z74P2FJ5EFH65MI6XD4LJ7XM2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/07/Z74P2FJ5EFH65MI6XD4LJ7XM2Q/</guid>
-      <dc:creator>전남광주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 11:16:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4WCNTBGQZTIMRXGFSDAZLCMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강간 등 살인 혐의로 기소된 장윤기가 지난달 30일 1심 선고 공판을 받기위해 광주지법에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길 가던 여고생을 납치해 성폭행하려다 살해한 장윤기(24)가 1심 무기징역형 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;7일 본지 취재를 종합하면 장은 이날 광주지법에 항소장을 제출했다. 장은 지난 5월 5일 전남광주시 광산구에서 귀가하던 이모(16)양을 납치해 성폭행하려다 살해한 혐의로 재판에 넘겨졌다. 앞서 베트남 여성을 성폭행·스토킹한 혐의도 받는다.&lt;br&gt;&lt;br&gt;1심 재판부인 광주지법 형사13부(재판장 이정호)는 지난달 30일 장에게 제기된 강간 등 살인, 살인미수, 살인예비 등 혐의를 모두 유죄로 보고 무기징역과 30년간 위치추적 전자장치 부착명령을 선고했다.&lt;br&gt;&lt;br&gt;장은 지난 8월 열린 결심공판 당시 최후진술에서 “피해자와 유가족분들께 이 자리를 빌어서 사죄드린다”며 “저는 절대 잊어서는 안 될 죄를 지었고, 한 가정에 지워지지 않을 큰 상처를 안겼다. 평생 죗값을 가져가겠다”고 했었다.&lt;br&gt;&lt;br&gt;하지만 1심 선고 항소 마감시한인 이날 법원에 항소장을 냈다. 1심 재판부는 무기징역형 판결과 함께 “사형을 선고하는 것이 법원의 소임을 다하는 것이 아닌지 절실히 숙고했다”면서도 “무기징역형을 철저히 집행하는 것만이 피해 여고생과 유족을 조금이나마 위로하고 공공의 안전과 질서를 유지하는 방안”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 광주지방공소청도 지난 2일 무기징역 선고에 대해 “형량이 낮다”며 광주지법에 항소장을 냈다. 광주지방공소청은 결심 공판에서 “장은 이틀 동안 3명을 상대로 강간 등 살인, 살인 미수 등 범행을 저질렀다”며 재판부에 사형 선고를 요청했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ME4WCNTBGQZTIMRXGFSDAZLCMU.jpg?auth=14e06b0500bcc7d35a44ecbedf0e4a990172130ad6aa623706ff2a641342eb00&amp;smart=true&amp;width=2050&amp;height=1378" type="image/jpeg" height="1378" width="2050">
-        <media:description type="plain">강간 등 살인 혐의로 기소된 장윤기가 지난달 30일 1심 선고 공판을 받기위해 광주지법에 출석하고 있다. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>국교위 ‘중장기 교육계획’ 발표 또 미뤄지나?... 차정인 “대입 개편안 공론화 더 필요”</title>
       <link>https://www.chosun.com/national/education/2026/10/07/MFLU4M3ZXNCERPTSPLEO5XALPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/10/07/MFLU4M3ZXNCERPTSPLEO5XALPE/</guid>
@@ -950,45 +981,6 @@
       <description/>
       <pubDate>Wed, 07 Oct 2026 10:55:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2TGNZRHFQTQODDGFRWCMJUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제29대 총장을 선출하고 있는 서울대가 총장 후보로 강준호 사범대 체육교육과 교수, 최해천 공대 기계공학부 교수, 이재영 인문대 영어영문학과 교수 3명을 확정했다.&lt;br&gt;&lt;br&gt;서울대 총장추천위원회(총추위)가 7일 총장 예비 후보자 4명을 대상으로 정책평가단 투표를 실시한 결과 강준호·최해천·이재영&lt;i&gt;&lt;b&gt; &lt;/b&gt;&lt;/i&gt;교수가 1~3위를 차지했다. 김현철 국제대학원 교수는 4위로 총장 후보에서 탈락했다.&lt;br&gt;&lt;br&gt;총추위는 추후 이사회에 고득점자 세 사람을 총장 후보자로 추천할 예정이다. 이사회는 이 가운데 1명을 투표를 통해 최종 후보로 선출한다. 이사회가 선출한 후보는 교육부 장관의 제청을 거쳐 대통령이 총장으로 임명한다. 차기 총장 임기(4년)는 내년 2월 시작된다.&lt;br&gt;&lt;br&gt;서울대 교직원, 재학생 등으로 구성된 정책평가단은 이날 오후 관악·연건캠퍼스에서 총장 예비 후보자 4명의 정책 발표와 질의응답을 지켜본 후 전자 투표를 실시했다.&lt;br&gt;&lt;br&gt;한편 서울대는 총장 선거가 후보들의 정책과 비전보다 학내 인맥에 좌우되는 ‘인맥 경쟁’으로 흐르는 문제를 막기 위해 총장 선출 제도를 개편하고 있는 것으로 확인됐다. 서울대 제도혁신위원회는 이날 오후 총장 선출제 개편 등이 담긴 학내 거버넌스 개편안을 본부에 제출했다. &lt;br&gt;&lt;br&gt;본지가 입수한 개편안에 따르면 제도혁신위는 현재 30명인 총장추천위원회 인원을 줄이고 활동 기간을 2개월 이상으로 늘려 후보자의 정책과 리더십을 장기간 검증하는 방식을 제안했다. 후보자를 추려내는 총추위를 소수 정예로 구성해 총장 후보의 리더십과 한국사회와 고등교육, 서울대에 대한 비전을 심층적으로 검증하겠다는 것이다. &lt;br&gt;&lt;br&gt;개편안에는 총추위가 후보들을 장기간 검증한 결과를 담은 보고서를 정책평가단에 사전 공개해 평가의 근거로 삼도록 하는 방안도 담겼다. 제도혁신위 관계자는 “책임 있게 위원직을 수행할 사람들을 가려내 총추위를 구성해야 한다”며 “활동 기간은 지금보다 연장해 더 많은 숙의가 가능하게 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;제도혁신위는 서울대 이사회의 요청으로 이 같은 총장 선출제 개편안을 연구해 온 것으로 알려졌다. 한편 서울대 본부 또한 총장 선출제 개혁 TF(태스크포스)를 꾸려 총장 선출제 개편을 준비 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘피해자 보복 협박’ 부산 돌려차기 男… 檢, 징역 3년 구형</title>
-      <link>https://www.chosun.com/national/regional/2026/10/07/FOURLXXPVJA4PMDU73FGK4XJ74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/07/FOURLXXPVJA4PMDU73FGK4XJ74/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 10:08:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSLVHMAHMW6ATDBBT7FLEJSIAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 돌려차기 사건 현장 CCTV. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해자에게 보복하겠다고 협박한 혐의로 재판에 넘겨진 ‘부산 돌려차기’ 사건 가해자에 대한 항소심 변론이 마무리됐다.&lt;br&gt;&lt;br&gt;부산고법 형사2부(재판장 박운삼)는 7일 특정범죄가중처벌법상 보복 협박 등 혐의로 기소된 이모(30대)씨의 항소심 결심 공판을 열고 변론을 종결했다.&lt;br&gt;&lt;br&gt;이날 검찰은 원심의 구형과 같은 징역 3년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;이씨의 변호인은 최종 변론에서 이씨와 함께 수감 생활을 했던 유튜버 A씨가 ‘피해자에게 이씨의 보복 의사를 전달해 달라는 부탁을 받은 사실이 없다’고 증언한 점을 들어 보복 협박 혐의가 성립하지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;또 이씨가 A씨에게 자신의 보복성 발언을 방송하지 말라는 취지로 이야기했다는 증언도 있다며 피해자에게 보복 의사를 전달하려는 고의가 없다는 주장도 펼쳤다.&lt;br&gt;&lt;br&gt;이씨는 최후 진술 기회를 받았지만, 별다른 말을 하지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 이씨에 대한 선고 기일을 다음 달 2일로 지정했다.&lt;br&gt;&lt;br&gt;이씨는 2023년 2월 동료 수감자이자 유튜버인 A씨에게 ‘부산 돌려차기 사건’ 피해자인 김진주(필명)씨를 폭행해 살해하겠다는 등 보복 협박성 발언을 한 혐의를 받는다. 이씨의 이 같은 발언은 A씨가 출소한 뒤 개인 방송 등을 통해 해당 사실을 알리면서 드러났다. &lt;br&gt;&lt;br&gt;김씨는 이날 자신의 소셜미디어(SNS)에 “수감 중 제3자를 통한 보복 협박이 처벌되지 않으면 어떤 피해자도, 제보자도 신고하지 않게 되는 무법 사회가 될 것”이라며 “피해자를 또 가해하겠다는 가해자를 향해 내리는 형량은 역사에 길이길이 남게 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 이씨는 2022년 5월 22일 오전 5시쯤 부산진구 한 길거리에서 일면식도 없던 김씨를 성폭행하기 위해 뒤쫓아가 무차별 폭행한 이른바 ‘부산 돌려차기’ 사건으로 대법원에서 징역 20년형이 확정돼 현재 복역 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NSLVHMAHMW6ATDBBT7FLEJSIAU.jpg?auth=4481007b366896c1644cf84f83b9290d076657c261a0508f4d0e7e8f2e53355d&amp;smart=true&amp;width=720&amp;height=508" type="image/jpeg" height="508" width="720">
-        <media:description type="plain">부산 돌려차기 사건 현장 CCTV. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“혼자 두지 않겠다”... 261개 단체·시민 3만명 여명학교 건립 지지 선언</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/07/DWIDGCJVPBHW7ATQLTOLYAIUEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/07/DWIDGCJVPBHW7ATQLTOLYAIUEM/</guid>
-      <dc:creator>윤성은 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 09:12:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCVYUI2BSZDBRN3CAK5M2UDSZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울시의회앞에서  여명학교 건립을 지지하는 시민사회 공동행동 관계자들이 여명학교 건립 추친 촉구 기자회견을 진행했다./이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“북한에서도, 중국에서도 위축돼 살았던 아이들이 여기서까지 움츠러들어 살아야 합니까.”&lt;br&gt;&lt;br&gt;7일 오전 서울 중구 서울시의회 앞. 탈북 청소년 대안학교인 여명학교 조명숙 교장이 이렇게 말하며 눈물을 보였다. 22년간 이곳저곳을 떠돌던 여명학교는 최근 서울 강서구 옛 염강초등학교 부지 한쪽에 새 보금자리를 마련하려 했지만 일부 주민의 거센 반대에 부딪혔다. 20일 전 열린 주민 설명회에서는 조 교장이 반대 주민들 앞에서 무릎을 꿇고 학교 건립을 호소하기도 했다.&lt;br&gt;&lt;br&gt;하지만 이날 조 교장 곁에는 여명학교 건립을 지지하는 이들이 함께 섰다. 교육·시민사회·종교계 등 261개 단체가 참여한 ‘여명학교 현 부지 학교 건립을 지지하는 시민사회 공동행동’이다. 이들은 이날 기자회견을 열고 서울시교육청과 서울시의회에 여명학교 건립을 조속히 추진해 달라고 촉구했다. 공동행동 결성을 주도한 송인수 교육의봄 대표는 주민 설명회에서 조명숙 교장이 무릎 꿇는 모습을 보고 여명학교 건립을 돕기로 했다고 한다. 송 대표는 “여명학교 혼자 이 난관을 헤쳐가도록 둘 수 없었다”며 “아이들을 위해 무릎을 꿇어야 한다면 오히려 우리 사회가 꿇어야 한다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;시민 참여도 이어졌다. 공동행동이 지난달 28일부터 진행한 ‘여명학교 건립 지지 서명’에는 7일까지 3만1078명이 참여했다. 한 시민은 “북한에서 살 수 없어 남한으로 온 아이들이 이곳에서도 갈 곳 없이 떠돌아서는 안 된다”며 “마음 놓고 공부할 공간만큼은 만들어 줬으면 한다”고 적었다. 이 외에도 “학교는 죽음을 넘어 온 아이들에게 매우 중요한 희망의 끈이다” “아이들이 상처받지 않았으면 좋겠다. 지지하는 사람과 단체가 더 많다는 걸 알려주고 싶다” 등 응원 글이 쏟아졌다.&lt;br&gt;&lt;br&gt;여명학교 졸업생들도 이날 기자회견에 참석했다. 2011년 여명학교를 졸업한 엄에스더(43)씨는 “한국에 처음 왔을 때 외래어가 낯설어 말과 글도 어려웠는데 여명학교에서 공부할 수 있었다”고 했다. 엄씨는 현재 탈북민 청년 봉사단체 ‘유니씨드’ 대표로 활동하고 있다. 그는 “졸업생들은 간호사와 사회복지사, 목회자가 돼 각자의 자리에서 이웃과 가족을 돌보며 살아가고 있다”며 “후배들에게도 내일을 준비할 기회가 주어졌으면 한다”고 했다. 공동행동은 시민 서명 명부를 서울시의회에 전달하고 여명학교 건립을 위한 조속한 조치를 요구할 예정이다.&lt;br&gt;&lt;br&gt;현재 서울교육청과 여명학교는 교사 건립을 위한 사전 용역을 마무리 중이다. 내년 초 본 건축 설계를 시작해 2029년 준공이 목표다. 서울교육청 관계자는 “주민 동의가 필요한 사안은 아니지만, 반대하는 일부 주민에게 교사 건립의 필요성과 절차적 하자가 없다는 점을 설명하는 과정도 지속적으로 해나갈 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TRBWPTRQKRPTVILUURT647F4WU.jpg?auth=4d63b4ce9f5514d183cb8e9e916cf6efc3babaa35f71836271ae3943e4c44377&amp;smart=true&amp;width=5262&amp;height=3300" type="image/jpeg" height="3300" width="5262">
-        <media:description type="plain">&lt;YONHAP PHOTO-5103&gt; 여명학교 현 부지 학교 건립 촉구 구호
-    (서울=연합뉴스) 서명곤 기자 = 7일 서울 중구 서울시의회 앞에서 여명학교 현 부지 학교건립을 지지하는 시민사회 공동행동이 주최한 기자회견에서 참가자들이  옛 염강초등학교 부지 내(內)에 여명학교 교사(校舍) 건립을 촉구하는 구호를 외치고 있다.
-    '북향민'(북한이탈주민) 청소년을 위한 대안교육기관인 서울 여명학교는 지난 2004년 관악구에 처음 터를 잡은 뒤 중구 명동으로 옮겼다가 은평구로의 이전이 무산되자 2023년 3월부터 현 위치인 옛 염강초 건물을 빌려 운영해왔다.
-      내년 2월 사용 기간 만료를 앞두고 이곳에 정식 교사를 건립하기로 관계기관 간 업무협약이 체결됐지만, 인근 아파트 단지 주민을 중심으로 반발 기류가 형성돼 최근 주민설명회가 열리기도 했다. 2026.10.7
-    seephoto@yna.co.kr/2026-10-07 13:13:59/
-&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">서명곤</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘한 달 내 끝내라’던 김병기 수사, 결국 한 달 연장</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/07/TWCZIE6U4FHW3OJFMBRXYGT27I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/07/TWCZIE6U4FHW3OJFMBRXYGT27I/</guid>
-      <dc:creator>이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 08:55:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2TKNZYGY2WCMDCGI4TMZBTHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비위 의혹으로 수사를 받고 있는 김병기 무소속 의원이 지난 4월 8일 오전 피의자 신분으로 조사를 받기 위해 서울 마포구 서울경찰청 공공범죄수사대에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 무소속 김병기 의원 관련 사건의 수사 기간을 한 달 더 연장하기로 했다. &lt;br&gt;&lt;br&gt;7일 경찰에 따르면 서울경찰청 광역수사단 공공범죄수사대는 지난달 수사심의위원회(수사심의위)에 수사 기간을 한 달 연장해 줄 것을 요청했고, 수사심의위는 전날 정기 회의에서 이를 승인했다. &lt;br&gt;&lt;br&gt;다만 수사심의위는 김 의원 사건 수사팀이 추가로 수사 기간 연장을 요청할 경우, 수사팀 관계자가 직접 수사심의위에 수사 상황을 설명해 달라고 요구한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김 의원 사건 수사팀은 지난달 수사심의위에 ‘서울중앙지방공소청이 김 의원의 구속영장을 청구하지 않고 돌려보내면서 보완수사 요구한 내용이 많아 수사 기간 연장이 필요하다’는 내용이 담긴 서류를 제출했다. &lt;br&gt;&lt;br&gt;수사심의위가 수사 기간 연장을 승인한 만큼 수사팀은 이달 말까지 김 의원 관련 수사를 마무리하기 위해 속도를 낼 것으로 보인다. &lt;br&gt;&lt;br&gt;앞서 수사심의위는 김 의원을 고소한 전직 보좌관 A씨가 김 의원의 수사가 장기간 이어지고 있다며 수사심의를 신청하자, 지난 8월 25일 회의를 열고 “1개월 이내 신속히 처리하라”고 수사팀에 권고했다. &lt;br&gt;&lt;br&gt;홍석기 국가수사본부장은 지난달 28일 기자간담회에서 지정된 기간 내에 수사를 마칠 수 있는지 묻는 말에 “9월 30일까지가 권고받은 한 달 기간인데, 그 기간을 넘겨야 한다고 보고받았다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 김 의원에 대한 구속영장이 불청구된 이후 증거인멸 가능성 등을 확인하기 위해 주변 인물들을 참고인 신분으로 불러 조사해왔다. 보완수사를 마친 뒤에는 구속영장 재신청 여부도 검토할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경북도, APEC 성과 잇는 ‘세계경주포럼’ 첫 개최</title>
