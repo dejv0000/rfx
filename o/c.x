@@ -13,6 +13,111 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“천장이 10초만에 우르르 무너져”… 대구 상가 2층서 38명 다쳤다</title>
+      <link>https://www.chosun.com/national/2026/10/10/MSIAXZKUVVFFPB22ZD3GGXLZYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/10/10/MSIAXZKUVVFFPB22ZD3GGXLZYA/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 03:17:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEZDZKWB7VMDPFZ62VKMG7CQDM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 10시 16분쯤 대구 북구 관음동의 한 4층짜리 건물 2층 천장이 무너지는 사고가 발생해 9명이 다쳤다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 판매행사장에서 천장이 무너지는 사고가 발생해 고객 등 수십 명이 다쳤다.&lt;br&gt;&lt;br&gt;10일 소방 당국에 따르면 이날 오전 10시 16분쯤 대구 북구 관음동의 한 마트 4층짜리 건물 2층에서 천장을 이루는 마감재 구조물인 반자가 붕괴했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUVQHMIUUVE3JGK5CPU3CLZVZQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고 당시 물품을 구매하려던 고객들의 비명과 함께 순간 아수라장이 됐다. 이 사고로 66명이 자력으로 대피했고, 현재까지 38명이 다친 것으로 조사됐다. 이 가운데 9명은 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;다친 시민들 대부분은 고령자로 파악됐다. 사고 당시 건물 2층에선 한 업체가 노인들을 대상으로 전기장판 등 생활용품을 판매하고 있었다. &lt;br&gt;&lt;br&gt;일부 고령자는 어지럼증 등을 호소한 것으로 전해졌다. 부상자 모두 생명에는 지장이 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;목격자들에 따르면 198㎡(60평)쯤 되는 천장은 건물 출입구에서 먼 쪽부터 차례로 무너지기 시작했다. 천장이 무너질 조짐을 보이자 일부 노인들은 서둘러 건물 밖으로 대피하기 시작했다.&lt;br&gt;&lt;br&gt;사고 현장에 있었던 김모(79)씨는 “천장 내려앉는 거 보자마자 그대로 뛰쳐나왔다”며 “천장이 우르르 다 무너지는 데 10초도 안 걸렸다”고 했다. 이모(77)씨는 “천장이 무너지면서 건물 내부가 순간 깜깜해졌는데 ‘이러다 죽는구나’하는 생각이 스쳤다”며 “머리 위로 무너진 천장 재료 등을 손과 팔로 막으면서 겨우 밖으로 기어 나왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZY4IJHE7BEIBPODTQMXF55OLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 10시 16분쯤 대구 북구 관음동의 한 마트에서 천장이 무너지는 사고가 발생해 소방 당국이 구조를 벌이고 있다. /대구소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 당국은 무너진 잔해 사이를 수색했지만 추가 인명 피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 천장이 무너진 정확한 원인과 사고 경위 등을 조사하고 있다. 경찰 관계자는 “이번 사고와 관련 천장 마감재의 노후화, 누수로 인한 무게 증가, 고정 부위의 부식이나 탈락, 천장 내부 설비의 하중 등 종합적으로 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;사고가 난 건물은 1994년 지어진 지상 4층 규모의 철근콘크리트 구조물이다. 1층에서 운영되던 식자재마트는 지난달 말부터 영업을 중단했고, 공실이던 2층은 한 업체에서 한 달간 임대해 판매장으로 사용하고 있다. &lt;br&gt;&lt;br&gt;대구시는 추가 사고가 날 가능성을 파악하기 위해 현장이 통제되고 있는 2층을 제외한 건물 전체에 대해 현장 점검을 벌일 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MJTA7TGVC5BTPIK2BONDW4VWSI.gif?auth=07df71a7703b136c8fad110c008a84878808b3b4e8e75c86c433a93d73a2991e&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">10일 오전 대구 북구 관음동의 한 마트에서 천장이 무너지는 사고가 발생해 소방 당국이 구조를 벌이고 있다./ 연합뉴스 뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>부천 발전소 공사장서 크레인 무게추 사고... 1명 숨지고 1명 다쳐</title>
+      <link>https://www.chosun.com/national/labor/2026/10/10/NC2VD26CUBGYHCPUELY5HATWXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/10/10/NC2VD26CUBGYHCPUELY5HATWXI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 07:38:50 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CR67TG67WRAGZ6WHS57PIJRHCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 건설현장의 타워크레인 모습.(※기사와 직접 관련 없는 자료 사진)/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천시의 한 발전소 건설 현장에서 타워크레인 무게추에 맞아 근로자 1명이 숨지고 1명이 다쳤다.&lt;br&gt;&lt;br&gt;10일 고용노동부에 따르면 전날 오후 3시 10분쯤 DL이앤씨가 시공 중인 부천시 소재 발전소 건설 현장에서 타워크레인 무게추를 설치하던 중 무게추가 근처에 있던 작업자들을 덮쳤다. &lt;br&gt;&lt;br&gt;이 사고로 타워크레인 작업자 A(58)씨가 심정지 상태로 병원에 옮겨졌지만 숨졌다. 다른 작업자 B(58)씨는 중상을 입어 치료 중이다. &lt;br&gt;&lt;br&gt;노동부 부천지청은 사고 직후 작업 중지 명령을 내렸고, 사고 원인 조사에 착수한 상태다.&lt;br&gt;&lt;br&gt;노동부는 작업 당시 안전 수칙을 지켰는지 여부를 확인하는 한편, 산업안전보건법 및 중대재해처벌법 위반 여부를 살펴보고 있다. 현행 중대재해처벌법은 사망자 1명 이상이 발생하면 중대산업재해로 규정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 10월 11일 일요일 (음력 9월 1일 戊午)</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/10/FUEQ2TGENFF3XCU7SZ5YJDDBMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/10/FUEQ2TGENFF3XCU7SZ5YJDDBMQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>일요일 남부 지방 비..다음주도 비 오고 아침 쌀쌀</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/10/10/2K4TDYG6JNDLLBQDC3SNCO7JWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/10/2K4TDYG6JNDLLBQDC3SNCO7JWY/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 04:44:07 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGLMFKAZR5NYXM6YLHGZ5MRXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울 시내 한 편의점에 핫팩이 진열돼 있다. 갑자기 날씨가 추워지며 GS25 편의점의 지난 1~7일 핫핫팩·손난로 매출은 일주일 전과 비교해 1033.7% 늘었다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 11일 남부지방과 제주도 곳곳에 비가 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;10일 기상청에 따르면 제주도와 남부지방은 오전부터 오후 9시 사이, 강원 남부와 충남 남동 내륙, 충북에는 정오부터 오후 6시 사이에 비가 내리는 곳이 있을 전망이다.&lt;br&gt;&lt;br&gt;예상 강수량은 강원 남부 5∼10㎜, 충남 남동 내륙과 충북 5㎜ 미만, 광주·전남과 전북 내륙 5∼10㎜, 대구·경북과 경남 내륙 5∼20㎜ 등이다.&lt;br&gt;&lt;br&gt;아침 최저기온은 10∼20도, 낮 최고기온은 22∼28도로 예보됐다.&lt;br&gt;&lt;br&gt;다음 주 주중 아침은 대체로 쌀쌀할 전망이다. 14∼15일 아침 기온은 4∼16도, 낮 기온은 20∼24도로 평년과 비슷하거나 조금 낮을 전망이다. 금요일인 16일은 아침 기온이 7∼16도, 낮 기온이 21∼25도로 다시 소폭 오른다. &lt;br&gt;&lt;br&gt;월요일인 12일과 화요일인 13일 전국 대부분 지역에는 비가 내릴 것으로 예보됐다. 12일 예상 강수량은 서울·인천·경기, 강원, 충청, 전북, 경상 등 대부분 지역이 5~10㎜ 수준이다. 전남은 5~20㎜이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여대생 흉기로 찌르고 출국한 영국인 검거… 도주 9일만</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/10/YJ5RCPAZTJAYDNUPOJ2SFPZ4R4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/10/YJ5RCPAZTJAYDNUPOJ2SFPZ4R4/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 02:40:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTCYTGGI2DOYRQMZSGCNDGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시내 한 대학에서 여대생을 흉기로 찌른 뒤 모국으로 도주한 30대 영국인 남성이 도주 9일 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰청은 영국 국가범죄인인도전담대(NEU)와의 공조를 통해 살인미수 혐의를 받는 영국인 A씨를 지난 8일(현지 시각) 검거했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 29일 오전 11시 50분쯤 서울 성북구 한 대학 캠퍼스 안에서 지인인 20대 여학생 B씨와 다투다 학생들이 모여들자, B씨에게 흉기를 휘두른 뒤 도망쳤다. B씨는 뒷목에 상처를 입었지만 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사건 직후 출국한 A씨에 대해 인터폴에 적색수배를 요청했다. 영국에 파견된 한국 경찰관이 NEU와 함께 A씨의 소재지를 특정했고, 해외 도주 9일 만에 체포에 성공했다.&lt;br&gt;&lt;br&gt;경찰청은 “법무부 등 관계기관과 협조해 범죄인 인도 방식을 통한 A씨의 국내 송환을 신속하게 추진할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성폭력 사건 재판 중에도 버스서 상습 음란행위… 20대 징역형 집유</title>
+      <link>https://www.chosun.com/national/2026/10/10/S5353PQMVVFULCPVPIZB2BKBOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/10/10/S5353PQMVVFULCPVPIZB2BKBOQ/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 02:25:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZWGOBXGAYDQMZYGU4TCZBXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. / 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시내버스에서 승객을 상대로 음란행위를 반복한 20대 남성이 징역형의 집행유예를 선고받았다. 이 남성은 다른 성폭력 사건으로 재판을 받던 중에도 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;10일 지역 법조계에 따르면 대전지법 형사10단독 한지윤 판사는 공연음란 혐의로 기소된 A(22)씨에게 징역 6개월에 집행유예 2년을 선고했다. 재판부는 보호관찰과 아동·청소년 관련 기관 취업제한 3년도 함께 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 25일 오후 9시 14분부터 22분까지 세종시 나성동을 지나는 시내버스 안에서 여성 승객 B(21)씨의 맞은편 통로 건너편 자리에 앉아 반바지를 올린 뒤 신체 부위를 노출하고 음란행위를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨의 범행은 여기서 그치지 않았다. 그는 같은 해 9월 17일 오전 8시 26분쯤 세종시의 한 버스에서도 같은 방식으로 음란행위를 한 혐의로 기소됐다. A씨는 이 사건으로 다른 재판부에서 벌금 300만원을 선고받았다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 다른 성폭력 범죄로 재판을 받는 상황에서도 범행을 반복한 점을 불리한 사정으로 봤다.&lt;br&gt;&lt;br&gt;한 판사는 “성폭력범죄의 처벌에 관한 특례법 위반죄로 대구지법에서 재판이 이뤄지고 있음에도 범행을 저질러 죄질이 나쁘고, 피해 회복을 위한 노력도 없었다”며 “다른 범죄들과의 확정판결 시 형평성을 고려하고 피고인이 반성하고 있는 점 등을 종합했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위원장 “사형집행 중단 30년… 폐지 논의 진전시켜야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/10/F3K2EZPETNFHFKRKEK4VKXCJXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/10/F3K2EZPETNFHFKRKEK4VKXCJXQ/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 02:13:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3TGMZXGY2WCZBYMQZWEMBXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안창호 국가인권위원장이 제24회 ‘세계 사형폐지의 날’을 맞아 사형 폐지를 위한 제도적 논의를 진전시켜야 한다고 밝혔다.&lt;br&gt;&lt;br&gt;안 위원장은 10일 성명을 내고 “대한민국은 이미 한 세대 가까운 기간 동안 사형 집행 없이 형사 사법 제도를 운영해 왔다”며 “정부와 국회가 그간 축적된 우리 사회의 경험과 국제 인권 기준, 범죄 피해자 보호 및 국민 안전에 관한 관점을 토대로 사형제 폐지에 관한 입법적·제도적 방향을 검토하고 유엔의 ‘사형폐지 의정서’ 가입 논의도 함께 추진할 필요가 있다”고 제언했다.&lt;br&gt;&lt;br&gt;지난 1989년 12월 제44차 유엔 총회에서 채택된 사형폐지 의정서는 영구적 사형 집행 중지와 폐지 절차 마련을 주요 내용으로 하는 국제 인권 조약으로, 현재까지 92국이 서명했다. 유엔인권이사회와 유엔 자유권 규약위원회 등 국제 인권 기구는 그간 한국에도 사형폐지 의정서 가입을 지속해서 권고해 왔다.&lt;br&gt;&lt;br&gt;한국은 1997년 12월 30일 마지막 사형을 집행한 뒤 30년 가까이 사형을 집행하지 않아 ‘사실상 사형 폐지국’으로 분류된다. 안 위원장은 “지난 30년의 경험은 단순히 형벌 집행의 유예라는 사실을 넘어 극형을 실제로 집행하지 않고도 사회의 안전과 형사 사법 체계를 안정적으로 유지할 수 있음을 증명해 준 소중한 자산”이라며 “이제는 이러한 경험을 바탕으로 사형 제도의 법률적 존치 여부에 관한 논의를 한 단계 더 진전시켜야 할 시점”이라고 했다.&lt;br&gt;&lt;br&gt;안 위원장은 “사형 제도에 관한 논의 과정에서 강력 범죄 피해자와 그 가족의 고통, 범죄로부터 안전한 사회에서 살아가고자 하는 국민의 요구도 중요하게 고려해야 한다”면서도 지난 2007년 인혁당 사건이 재심으로 무죄 판단된 사례를 언급하며 오판 가능성을 강조했다.&lt;br&gt;&lt;br&gt;안 위원장은 “피해자와 그 가족의 권리를 보장하고 사회적 안전망을 강화하는 것과 국가가 형벌로서 인간의 생명을 박탈하는 제도를 유지하는 문제는 구별해 살펴볼 필요가 있다”며 “비가역성(非可逆性)으로 인해 사형 제도의 존폐 문제는 단순히 형벌의 강도를 선택하는 차원을 넘어 국가가 행사할 수 있는 형벌권의 정당한 한계가 어디까지인가에 관한 문제”라고 했다.&lt;br&gt;&lt;br&gt;국제앰네스티에 따르면, 지난해 말 기준 전 세계 국가의 4분의 3에 달하는 145개국이 법률상 또는 사실상 사형을 폐지했다. 이 중 113개국은 모든 범죄에 대해 사형제를 완전 폐지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“오늘 감방서 나왔다”더니 출소 당일 택시기사 폭행한 50대 </title>
+      <link>https://www.chosun.com/national/2026/10/10/JL5B7BG2LFDILAGQP6AU3VIA4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/10/10/JL5B7BG2LFDILAGQP6AU3VIA4I/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 01:27:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZWGOBXGAYDQMZYGU4TCZBXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원의 선처로 교도소에서 풀려난 당일 택시 기사를 폭행한 50대가 다시 철창신세를 지게 됐다. 집행유예로 석방된 지 불과 몇 시간 만에 운전 중인 기사를 마구 때려 중상을 입힌 것이다.&lt;br&gt;&lt;br&gt;광주고법 전주재판부 형사1부(부장판사 정문경)는 특정범죄가중처벌법상 운전자 폭행 등 혐의로 기소된 A(52)씨의 항소심에서 원심과 같은 징역 1년 10개월을 선고했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 10일 오후 4시 40분쯤 전북 전주시 완산구의 한 도로를 달리던 택시 안에서 운전기사 B(74)씨를 폭행한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;사건은 택시에 탄 A씨가 B씨에게 목적지를 요구하면서 시작됐다. A씨는 B씨에게 “밥이나 먹게 전주 서부신시가지로 가라”며 욕설을 섞어 명령조로 말했다.&lt;br&gt;&lt;br&gt;B씨가 “욕하지 말고 정확한 목적지를 알려달라”고 하자 A씨는 주먹을 휘둘렀다. 그는 “나 오늘 감방에서 나왔다”며 운전 중인 B씨의 얼굴을 마구 때렸다. B씨는 이 폭행으로 코뼈가 부러지는 등 중상을 입었다.&lt;br&gt;&lt;br&gt;A씨는 다른 특수상해 사건으로 구속됐다가 이날 징역형의 집행유예를 선고받고 교도소에서 풀려난 상태였다. 법원의 선처를 받은 당일 또다시 폭력을 휘두른 것이다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인의 범행은 운전자뿐 아니라 교통사고를 유발해 불특정 다수에게 인적·물적 피해를 일으킬 수 있어 엄중한 처벌이 필요하다”며 “집행유예를 받고 교도소에서 석방된 날 범행한 만큼 비난 가능성이 더 크다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “피고인은 사실혼 관계인 배우자를 흉기로 위협하는 등 동종 범죄를 여러 차례 저질렀다”며 “피해 복구를 위해 노력하지 않은 점 등을 고려하면 실형 선고가 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “태안 기름 유출 복구 단체들, 기금 2800억원 반환해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/10/UBG25JJBRNHWLB2BPXH6CRIIW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/10/UBG25JJBRNHWLB2BPXH6CRIIW4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 01:24:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V72AQL6675B76L46YIESF3N2LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2007년 12월 자원봉사자들이 충남 태안 앞바다의 기름유출 사고 지점 인근에서 기름 제거 작업을 하고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2007년 충남 태안 기름 유출 사고 피해를 복구하기 위해 설립된 단체들이 기금 2800억여 원을 반환해야 한다는 법원 판결이 나왔다. 법원은 이 단체들이 공익 사업은 하지 않고 임직원 월급 등 운영비에 기금을 썼다고 판단했다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면 서울중앙지법 민사합의31부(재판장 남인수)는 사랑의열매 사회복지공동모금회가 (재)서해안연합회와 허베이사회적협동조합을 상대로 낸 배분금 반환 청구 소송에서 지난 1일 원고 일부 승소로 판결했다. 재판부는 서해안연합회가 1001억여 원을, 허베이사회적협동조합이 1850억여 원을 각각 사랑의열매에 지급하라고 했다.&lt;br&gt;&lt;br&gt;충남 태안 기름 유출 사고는 2007년 12월 7일 충남 태안군 인근 해상에서 삼성중공업 크레인을 실은 부선(동력이 없는 배)이 중국 유조선 ‘허베이 스피리트’와 충돌해 원유 1만900t이 유출된 사고이다. &lt;br&gt;&lt;br&gt;삼성중공업은 2013년 11월 피해 주민의 복리 증진과 공동체 회복을 위해 3600억원 규모의 지역발전기금 등을 지원·출연하기로 했다. 삼성중공업은 2016년 2월 법정 기부금 단체인 사랑의열매에 기금을 기탁했다. 이후 2018년 11월 보령시·신안군·영광군·홍성군·군산시·부안군·무안군 등 7개 지역 피해 주민 단체가 설립한 서해안연합회는 1042억여 원을 지급받았다. 태안군·서산시·서천군·당진시 등 4개 지역 단체가 만든 허베이사회적협동조합이 2024억여 원을 받았다.&lt;br&gt;&lt;br&gt;그러나 2021년쯤 지역사회에서 두 단체가 배분금을 제대로 운용하지 않고 있다는 지적이 나왔다. 해양수산부와 감사원 감사에서도 배분금이 부당한 임직원 출장비로 집행되는 등 문제점이 확인됐다. 이에 사랑의열매는 2023년 8월 남은 배분금을 환수해 달라고 통보했고, 두 단체가 불복하자 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 사랑의열매 측 주장을 사실상 전부 받아들였다. 법원은 서해안연합회가 2021년 말 기준 누적 집행액이 46억원으로 전체 배분금(1042억원)의 4.4%에 불과했는데 이 중 30억원은 임직원 인건비 등 기관운영비였다고 지적했다. 허베이사회적협동조합도 같은 기간 누적 집행액은 전체(2024억원)의 7.8%에 그친 158억원이었고, 이 중 94억원은 기관운영비로 나타났다. &lt;br&gt;&lt;br&gt;재판부는 “서해안연합회는 사업 기간 내 목적 사업을 완수하기보다는 임직원들이 배분금에서 발생하는 이자 수입 등을 인건비 등 명목으로 소진하는 방향으로 운영돼온 것으로 보인다”고 했다. 또 “허베이사회적협동조합은 내분으로 대의원 총회가 기능을 하지 못했고, 본부와 지부 사이 및 본부 내부 갈등으로 사업이 제대로 추진될 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;법원은 두 단체의 사업 계획도 부실하다며 “원고(사랑의열매)의 배분금 환수 조처가 적법하다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중동산 바퀴벌레 부산서 발견...이미 정착한 듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/10/10/MB2KJG475NC4FMCGUEVUC4GTKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/10/MB2KJG475NC4FMCGUEVUC4GTKM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 01:01:11 +0000</pubDate>
+      <content:encoded> &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LH5GTS5SHNFFZNQQGMRWOTPKGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문구 방역기동반이 바퀴벌레가 자주 출몰하는 맨홀 주변에 살충제를 뿌리고 있다.(※기사와는 관련 없는 사진)/서울 동대문구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중동과 중앙아시아에서 살던 바퀴벌레가 부산에서 발견됐다. 우리나라 생태계에 이미 정착한 상태로 어디까지 확산했는지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;10일 학계에 따르면 부산대 생명시스템연구소와 경상국립대 식물의학과 연구진은 최근 부산 남구 북항의 감만부두에서 ‘레드 러너’라는 별명으로 알려진 ‘투르키스탄 바퀴’(Periplaneta lateralis)를 채집했다. 작년 11월부터 올해 6월까지 다섯 차례 현장 조사를 했는데, 성충, 약충, 알집까지 투르키스탄 바퀴의 생애 주기를 보여주는 개체를 모두 채집했다고 한다. 생애 주기를 보여주는 개체가 모두 채집됐다는 것은 투르키스탄 바퀴가 우리나라 생태계에 정착했다는 것을 의미한다.&lt;br&gt;&lt;br&gt;검붉은색의 투르키스탄 바퀴는 몸길이가 3㎝ 정도다. 중동과 중앙아시아가 원산지인데 부산은 평년 겨울에도 평균 기온이 3.6~5.8도라 한파에도 바퀴가 견딜 수 있던 것으로 보인다.&lt;br&gt;&lt;br&gt;이 바퀴는 220일 정도면 성충이 될 정도로 빠르게 성장한다. 암컷 한 마리는 약충 350마리를 낳을 정도로 번식력이 강해 파충류와 절지류 먹이용으로 반입되는 경우가 많다. 연구진은 항만 운송을 통해 국내에 유입된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이미 감만항 외부 공원에서 발견된 개체도 있어 투르키스탄 바퀴가 어디까지 확산했을지는 알 수 없는 상태다.&lt;br&gt;&lt;br&gt;미국, 일본, 러시아, 유럽 등은 이미 투르키스탄 바퀴 유입으로 골치를 썩고 있다. 투르키스탄 바퀴도 도시 해충인데다 번식력이 강해 생태계에 교란을 줄 수 있기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>졸음운전 택시가 인도 돌진... 40대 부부 덮쳐 남편 사망</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/10/7UBV47HGKJD3JJ32FGNQLOCZYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/10/7UBV47HGKJD3JJ32FGNQLOCZYI/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 Oct 2026 00:45:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJXCOUHBIOPYN6FKSXJLDEXY7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광진경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 광진구에서 70대 노인이 몰던 택시가 인도 위 40대 부부를 덮쳤다.&lt;br&gt;&lt;br&gt;서울 광진경찰서는 택시기사인 70대 남성 A씨를 교통사고처리특례법상 치사 혐의로 임의동행해 조사하고 있다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨가 운전하던 차량은 지난 9일 오후 9시쯤 어린이대공원역 인근 도로에서 중앙선을 넘어 인도로 돌진해 벤치 근처에 있던 40대 부부를 들이받았다.&lt;br&gt;&lt;br&gt;남편 B씨는 심정지 상태로 병원으로 옮겨졌으나 결국 숨졌다. 아내 C씨도 머리를 다쳐 병원으로 이송됐으나 생명에는 지장이 없는 것으로 전해졌다. A씨와 택시에 타고 있던 승객 1명은 다치지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 현장에 출동한 경찰의 음주 측정 결과 술을 마신 상태는 아니었다고 한다. 대신 졸음운전을 했다고 진술한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사고 원인을 조사하고 있으며 약물 투약 여부 등을 확인하기 위한 간이시약 검사도 진행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 여수 세계 섬 박람회 84%가 무료 관람객</title>
       <link>https://www.chosun.com/national/national_general/2026/10/10/CJMBBNX77BGY7DJB6JSHKV5BKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/10/CJMBBNX77BGY7DJB6JSHKV5BKM/</guid>
@@ -821,24 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMXTTTIBKJC4JHTLGQP6ZKWTEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;610개 봉지에 나뉘어 포장된 대마. 약 636kg에 달한다. /마약범죄정부합동수사본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태국에서부터 약 636㎏ 규모 대마를 밀수한 50대 재일교포 신분 일본 야쿠자 조직원에게 징역 10년의 중형이 선고됐다. &lt;br&gt;&lt;br&gt;8일 수원지법 형사13부(재판장 장석준)는 일본 야쿠자 ‘쿠도카이자(工藤會)’ 조직원 김모(53)씨의 마약류 관리에 관한 법률 위반(대마) 혐의 선고 공판에서 징역 10년과 압수된 마약 몰수를 선고했다.&lt;br&gt;&lt;br&gt;A씨는 베트남 마약판매 조직원들과 태국에서 선박에 대마를 실어 대한민국으로 밀수하기로 공모한 뒤 지난 3월 초순 태국 람차방항에서 출항하는 선박 컨테이너에 대마 약 636㎏을 선적해 같은 달 23일 인천항에 도착하게 해 대마를 밀수한 혐의를 받는다. 대마 636㎏은 소매가로 환산하면 약 954억원 상당으로 약 127만명이 동시 흡연 가능한 양이다. 국내 유통할 목적으로 수입된 마약류 중 역대 최대 규모다.&lt;br&gt;&lt;br&gt;A씨는 이렇게 밀수한 대마 일부를 국내로 유통하고, 일부는 일본 등 제3국으로 재수출하려고 했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWZ63MQEYNEYXJCQTAXLEOTFCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;컨테이너에 대마 약 636kg 실려있는 모습. /마약범죄정부합동수사본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 A씨는 2016년에도 중국에서 수입한 필로폰 약 956g(시가 31억원 상당)을 일본에 다시 수출하기 위해 보관하고, 권총 1정, 실탄 19발을 일본에서 수입한 혐의 등으로 징역 6년을 선고받기도 했다. 검사는 지난 결심 공판에서 A씨에게 징역 20년을 구형했다.&lt;br&gt;&lt;br&gt;A씨 측은 재판 과정에서 “교도소에서 만난 B씨가 수사기관에 협조하기 위해 의도적으로 접근한 뒤 범행을 저지르게 한 것”이라며 함정 수사에 따른 공소 기각을 주장했다. 그러나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “B씨가 의도적으로 피고인에게 접근해 마약류를 수입해 달라고 부탁할 만한 정황이나 자료가 없다”며 “대마 636㎏의 현지 조달과 수출 행위는 베트남 조직원이 전적으로 수행한 것으로, 이들은 피고인이 지인을 통해 직접 접촉한 자”라고 했다. 재판부는 또 “피고인은 과거 일본 야쿠자 조직원으로 마약 밀수출 혐의로 실형을 선고받은 사실이 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 “피고인이 수사기관에 대체로 협조하고, 밀수한 대마가 곧바로 적발돼 국내에 유통되지 않은 점 등은 유리한 정상”이라면서도 “다만, 수익을 노리고 중대한 범행을 저질렀고, 밀수 범행으로 실형을 선고받고 만기 출소 후 훨씬 더 큰 규모의 동종 범행을 저지른 점에서 비난 가능성이 높다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공소청, ‘김창민 감독 폭행 살인’ 일당에 각각 징역 20년·15년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/KCR75QJ2DRC5RDCHYSB4EBDMAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/KCR75QJ2DRC5RDCHYSB4EBDMAY/</guid>
-      <dc:creator>남양주=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 09:57:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTENBZGAYGKODDMU3TMMLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 김창민 영화감독을 폭행해 숨지게 한 혐의를 받는 피의자 2명. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공소청이 김창민 영화감독을 마구 때려 숨지게 한 혐의 등으로 재판에 넘겨진 30대 일당에게 8일 징역 15~20년형을 구형했다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사1부(재판장 김국식)는 이날 이모(32)·임모(32)씨에 대한 살인 및 장애인복지법 위반 혐의 결심 공판을 열었다. 결심에서는 재판 절차를 모두 마무리하고 공소청의 구형 및 피고인 측의 최후 변론이 이뤄진다.&lt;br&gt;&lt;br&gt;이날 공소청은 이들에게 각각 징역 20년형과 징역 15년형을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;이들은 지난해 10월 20일 오전 1시쯤 경기 구리시 수택동의 한 식당에서 소음 문제로 김 감독과 시비가 붙자, 인근 골목으로 끌고 가 주먹과 발로 마구 때려 살해한 혐의를 받는다. 또한 김 감독과 함께 있던 발달장애 아들이 보는 앞에서 김 감독을 폭행해 아동을 정서적으로 학대한 혐의도 있다.&lt;br&gt;&lt;br&gt;김 감독은 폭행당한 뒤 의식을 잃고 병원으로 옮겨졌으나 깨어나지 못한 채 17일 만에 뇌사 판정을 받았다. 이후 4명에게 장기를 기증하고 숨졌다.&lt;br&gt;&lt;br&gt;당초 경찰은 이들을 상해치사 혐의로 송치했으나, 검찰(공소청 전신)은 보완 수사 과정에서 이들이 김 감독의 사망 가능성을 예견했다고 판단해 살인 혐의를 적용하고 구속 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRZEUQQZKZDXLN2JCV4BFPRSHA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;폭행 사건으로 사망한 김창민 영화감독.(김 감독 SNS 갈무리)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 공소청 공판 검사는 “피고인들은 김 감독이 돈가스 칼을 들었다는 이유로 극도로 분노해 우발적으로 살해할 마음을 먹고, 식당 안팎과 골목에서 구체적인 폭행 행위를 분담해 사망에 이르게 했다”며 “살인죄의 공동정범이 명백하게 성립하며 검찰시민위원회 위원 전원도 같은 판단을 내렸다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이씨는 범행 직후 통화에서 ‘김 감독을 죽여야겠다는 생각밖에 없었다’고 말하는 등 살해 의도를 드러냈고, 임씨는 피해자의 목을 졸라 방어 능력을 떨어뜨린 뒤 이어진 폭행을 제지하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;공소청이 담당 의사와 법의학자에게 자문을 구한 결과, 김 감독의 뇌 출혈량은 추락이나 교통사고 때 나타날 정도 수준이었고, 건장한 성인이 발로 밟거나 단단한 물체에 머리를 부딪힐 정도의 강한 충격이 가해진 것으로 볼 수 있다고 한다.&lt;br&gt;&lt;br&gt;검사는 또 “중증 자폐를 앓는 피해자의 아들은 눈앞에서 아버지가 무자비하게 폭행당하는 모습을 지켜보며 극도의 불안과 공포를 느꼈다”며 “피고인들은 범행을 축소하거나 은폐하기 위해 허위 진술을 일삼고 유튜브 등에 출연해 오히려 피해자를 비난했으며, 구속영장이 기각되자 수사기관과 법원을 조롱하는 모습까지 보였다”고 했다.&lt;br&gt;&lt;br&gt;이에 피고인 이씨 측은 김 감독을 주먹으로 폭행한 사실은 인정하면서도 “발로 차거나 밟지는 않았고, 살해할 고의나 사망 가능성에 대한 예견도 없었다”는 취지로 말하며 살인 고의성이 없었다고 했다.&lt;br&gt;&lt;br&gt;임씨 측은 “김 감독이 칼을 들자 추가 피해를 막기 위해 한 정당한 제압 행위였다”는 취지로 말하며, 이씨와 살인을 공모하지 않았다고 했다. 또 이런 행위와 김 감독의 사망 사이에 인과관계가 없다며 무죄를 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQTQYJYGE3TAMBUGJRDKNBVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김창민 영화감독 사망사건 가해자들에 대한 첫 재판이 열린 지난 6월 18일 김 감독 아버지인 김상철 씨가 의정부지법 남양주지원 앞에서 언론 인터뷰를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 공소청은 이씨와 임씨에 대한 피고인 신문에서 이들이 구속 수감 중 의정부교도소에서 징계받은 것을 거론하기도 했다.&lt;br&gt;&lt;br&gt;이씨는 다른 수용자에게 빨래를 시키거나 교도소 시설물을 훼손하는 등의 행위로 금치 30일의 징계를 받은 것으로 알려졌다. 이씨는 “다른 수용자가 자신을 이용해 방을 옮기려 했고, 이 과정에서 교정 직원들과 의견 차이가 있어 사실과 다르다”고 했다.&lt;br&gt;&lt;br&gt;임씨도 다른 수용자에게 금품을 요구하거나, 빨래를 시킨 일 등으로 금치 25일의 징계를 받은 것으로 전해졌다. 임씨는 이와 관련해 “교도소 생활에 적응하기 어려운 부분이 있었다”고 했다.&lt;br&gt;&lt;br&gt;이날 이씨는 최후진술에서 “잘못을 저질러 이 자리에 오게 돼 진심으로 죄송하다”며 “당시 화를 참고 자리를 피했더라면 하는 후회 속에 반성하고 있으며, 다시는 법에 어긋나는 행동을 하지 않겠다”고 했다. 임씨는 “조금 더 적극적으로 나서서 말렸더라면 결과가 달라졌을 수도 있다는 생각에 죄송하다”며 “더 큰 사고를 막으려 했을 뿐 누군가를 해칠 의도는 없었으며, 하지 않은 행위까지 책임지는 억울함이 없도록 살펴달라”고 울먹였다.&lt;br&gt;&lt;br&gt;이들에 대한 선고는 다음 달 12일 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘딥페이크·관권선거 의혹’ 박완수 경남지사 13시간 조사</title>
-      <link>https://www.chosun.com/national/regional/2026/10/08/N2KW67RG2JHJZJIWPTZ7ISHZWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/08/N2KW67RG2JHJZJIWPTZ7ISHZWI/</guid>
-      <dc:creator>김주영 기자, 창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 10:07:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZDCMZXGA4GKZDEGI3DENRUMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박완수 경남지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6·3 지방선거 당시 박완수 경남지사 선거 캠프의 딥페이크 영상 제작·유포와 공무원 선거 개입 의혹을 수사 중인 경찰이 박 지사를 피의자 신분으로 조사했다.&lt;br&gt;&lt;br&gt;경남경찰청 사이버수사과는 박 지사를 공직선거법 위반 등 혐의로 입건했다고 8일 밝혔다. 박 지사는 지난 7일 오전 8시부터 오후 9시까지 13시간 동안 경찰에 출석해 조사를 받았다.&lt;br&gt;&lt;br&gt;이번 수사는 지난 5월 경남선거관리위원회가 박 지사 캠프 관계자와 전·현직 경남도청 공무원 등 9명을 공직선거법 위반 혐의로 창원지검에 수사 의뢰하면서 시작됐다. 당시 더불어민주당 김경수 경남지사 후보 측도 딥페이크 영상 제작·유포와 공무원 선거 개입 혐의로 관련자 5명을 경찰에 고발했다. 경찰은 두 사건을 병합해 수사해 왔다.&lt;br&gt;&lt;br&gt;지난 8월에는 박 지사 캠프 관계자 4명에 대한 구속영장이 청구됐으나 모두 기각됐다. 이들은 지방선거 당시 김 후보를 비방하는 딥페이크 영상을 제작하도록 다른 캠프 관계자에게 지시하고, 도청 내부 자료와 금품 등을 제공한 혐의를 받고 있다. 이 중 전직 공무원 A씨와 현직 공무원 B씨는 영상 제작을 맡을 유사 선거 사무소를 설치한 혐의도 받는다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직 수사 중이어서 자세한 내용은 밝히기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“李에 화 많이 났다”던 이화영, 이번엔 “대통령님 고뇌 공감”</title>
       <link>https://www.chosun.com/national/court_law/2026/10/08/ZUOHJQ4RQBAJXNB7XJPDTIVOIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/ZUOHJQ4RQBAJXNB7XJPDTIVOIY/</guid>
@@ -858,42 +945,6 @@
       <description/>
       <pubDate>Thu, 08 Oct 2026 09:31:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSDKZLBMNSTSNDGHEYDCYLDMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 6일 서울 잠수교를 시민들이 오가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 잠수교가 개통 50년 만에 보행 전용 다리로 바뀐다.&lt;br&gt;&lt;br&gt;서울시는 26일부터 잠수교 차량 통행을 전면 통제하고, 서울 최초의 ‘한강 보행전용교’ 조성 공사에 착수한다고 8일 밝혔다. 오는 25일 ‘차 없는 잠수교 뚜벅뚜벅 축제’가 끝나는 대로 공사를 시작해 내년 8월까지 보행로 확장과 포장 공사 등을 마칠 계획이다.&lt;br&gt;&lt;br&gt;서울시는 잠수교에 한강을 감상할 수 있는 전망 공간 22곳을 조성한다. 선박이 지나는 항로 구간 2곳에는 강물이 보이는 투명 데크를 설치한다. 잠수교 북단 지하 보차도 역시 차량 통행을 막고 보행 공간으로 바꿔 용산·이태원 일대에서 잠수교까지 안전하게 오갈 수 있도록 할 방침이다.&lt;br&gt;&lt;br&gt;잠수교를 지나는 버스 노선도 변경된다. 잠수교를 경유하던 740번과 405번 시내버스는 양방향 모두 반포대교로 우회한다. 서울시의 교통 영향 분석 결과, 잠수교를 오가던 차량이 반포대교로 우회하더라도 교통 흐름에는 큰 지장이 없을 것으로 나타났다.&lt;br&gt;&lt;br&gt;잠수교는 1976년 왕복 4차로로 개통했다. 2008년에는 차로를 2개 줄여 인도와 자전거도로를 확충했다. 이후 잠수교는 강물과 가깝고, 반포대교 달빛무지개분수를 앞에서 볼 수 있어 나들이 명소로 자리 잡았다.&lt;br&gt;&lt;br&gt;임춘근 서울시 도시기반시설본부장은 “잠수교 전면 보행화는 한강을 단순히 건너는 통로가 아니라 체험하고 즐기며 머무르는 공간으로 전환하는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주여자교도소, 수용자 마음 근력 강화 도서 120권 기증받아</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/YZBNWN7RCRBQ5L3GSV7LCKH4GU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/YZBNWN7RCRBQ5L3GSV7LCKH4GU/</guid>
-      <dc:creator>김민혁 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 09:07:36 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6P44JNAG5APHKLC42FIAZCIZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;청주여자교도소 직원들이 지난 7일 정창근 교정협의회 회장에게서 수용자용 도서 120권을 기증받고 기념촬영을 하고 있다. /청주여자교도소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주여자교도소는 8일 수용자의 심리적 안정을 위한 책 120권을 기증받았다고 밝혔다. 기증 도서는 최신 뇌과학과 명상을 통해 마음 근력을 훈련하는 내용의 ‘내면소통’ 60권과 ‘내면소통명상수업’ 60권이다.&lt;br&gt;&lt;br&gt;책을 기증한 정창근 교정협의회장은 “기증된 도서를 통해 수용자들이 스스로를 돌아보고 마음의 힘을 길러 건전한 사회 구성원으로 복귀하는 데 도움이 되기를 바란다”며 “앞으로도 수용자 교정 교화를 위한 지원을 지속하겠다”고 전했다.&lt;br&gt;&lt;br&gt;정희동 청주여자교도소장은 “수용자들이 성공적으로 사회에 복귀할 수 있도록 교정 교화에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;청주여자교도소는 국내 유일의 여성 전용 교도소이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>야생호랑이 15년새 78% 늘어… 푸른바다거북 멸종위기 탈출</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/08/P2M5MFSCOBHIROXMV4V4HUHURE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/08/P2M5MFSCOBHIROXMV4V4HUHURE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 02:02:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DM6XNDWFS5DNHPY6PFPS4KV2PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인도 라자스탄주 란탐보르국립공원에서 산책하는 호랑이 가족. /세계자연기금&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2010년 약 3200마리로 추정된 전 세계 야생 호랑이 수가 지난해 5700마리로 약 78% 증가한 것으로 조사됐다. 호랑이는 여전히 세계자연보전연맹(IUCN) 적색목록에 멸종위기종으로 올라가 있지만, 최소한 감소세에서는 벗어난 것이다. &lt;br&gt;&lt;br&gt;국제 환경·동물 보호 단체 세계자연기금(WWF)은 8일 이 같은 내용이 담긴 ’2026 지구 생명 보고서’를 발표했다. 지구 생명 보고서는 WWF가 격년으로 발간하며, 이번이 16번째다.&lt;br&gt;&lt;br&gt;푸른바다거북은 지난해 바다거북 가운데 처음으로 IUCN 적색 목록상 멸종 위기종에서 ‘관심 대상’종으로 등급이 하향됐다. 멸종 위기에서 탈출한 것이다. WWF는 “호랑이는 ‘글로벌 타이거 이니셔티브’를 통한 국제협력, 푸른바다거북은 80여 국에 걸친 산란지에서 50년간 벌인 노력이 개체수 회복이라는 성과를 가져온 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCRZKMFH2VHPFIUX5KWAEINTLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에콰도르 갈라파고스제도 플로레아나섬 라 로베리아 인근에서 헤엄치는 갈라파고스푸른바다거북. /세계자연기금&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보고서에 따르면, 척추동물 5790종의 개체군 3만5803개를 관찰한 결과를 토대로 산출한 ‘지구생명지수’(LPI)는 2022년 기준 1970년 대비 73.2% 하락했다. 관찰 대상 개체군 규모가 지난 52년간 평균 73% 줄었다는 뜻이다.&lt;br&gt;&lt;br&gt;2020년 기준 LPI는 1970년 대비 73% 떨어진 수준이었다. WWF는 직전 보고서 때보다 관찰 대상에 295종, 967개 개체군이 추가됐고 669개 개체군 자료가 갱신돼 “야생동물 개체군 규모가 안정적으로 유지됐다는 의미가 아니다”라고 분석했다.&lt;br&gt;&lt;br&gt;지구생명지수는 담수 생물만 놓고 계산하면 1970년 대비 85% 하락했고 육상과 해양 생물만 보면 각각 69%와 59% 떨어졌다. 지역별로는 라틴아메리카·카리브해에서 95%, 아프리카에서 80%, 아시아·태평양에서 49%, 북아메리카에서 28%, 유럽·중앙아시아에서 23% 내려갔다. 담수와 중남미에서 야생동물 개체군 규모가 가장 크게 줄어든 것이다.&lt;br&gt;&lt;br&gt;보고서는 생물 다양성 감소에 가장 영향을 끼치는 3개 영역으로 에너지, 식량, 금융을 꼽고 이 영역들에서 현재의 시스템이 빠르게 전환되는 ‘긍정적 임계점’(티핑포인트)에 조속히 도달해야 한다고 강조했다.&lt;br&gt;&lt;br&gt;세계 온실가스 배출량의 75%를 차지하는 에너지 영역의 경우 이미 긍정적 임계점을 넘었다고 보고서는 평가했다. 보고서는 “태양광은 대부분 국가에서 가장 저렴한 신규 발전원이 됐고 세계 태양광 발전 용량은 3년마다 2배씩 증가하고 있다”며 “다수 선진국에서 석탄 사용량이 감소하고 있다”고 짚었다. 보고서는 식량 생산·소비 방식과 금융 시스템도 변화해야 한다고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“혐의 없다”던 알바 성폭행 사건… 피해 여성 숨진 뒤에야 업주 기소</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/DQ4BVYFIGJA3RCUKNISKM77RDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/DQ4BVYFIGJA3RCUKNISKM77RDM/</guid>
-      <dc:creator>안산=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 08:08:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOMGRVTLENAJFBR2IIRKFYYH4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공소청 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성폭행 피해를 신고한 10대 여성이 경찰의 불송치 결정 이후 숨진 사건과 관련해 공소청이 보완 수사를 통해 혐의를 입증, 40대 주점 업주를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;8일 수원지방공소청 안산지청 형사2부(부장 곽계령)는 지난 7일 준강간 혐의로 A씨를 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;공소청에 따르면, A씨는 지난해 12월 28일 자신이 운영하는 경기 안산시의 한 주점 안에서 술에 취해 항거 불능 상태인 피해자 B(사건 당시 19세)씨를 성폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 주점에서 아르바이트생으로 일하던 B씨는 A씨에게 성폭행을 당했다며 그를 고소했으나, 경기 안산단원서는 지난 2월 18일 A씨에 대해 불송치 결정을 내렸다. 혐의가 없다는 것이다. 이후 같은 달 21일 B씨는 “수사 결과를 받아들일 수 없다”는 이의 신청서를 남기고 건물에서 투신해 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 검찰의 보완 수사 요구에 따라 추가 조사를 진행했으나, 기존과 같은 결론을 유지했다.&lt;br&gt;&lt;br&gt;B씨 유족 측의 이의 신청으로 사건을 넘겨받은 공소청은 A씨의 주거지 압수수색, A·B씨의 휴대전화 포렌식, 방범 카메라(CCTV) 영상 분석, 참고인 조사, 의료 자문 등의 보완 수사를 진행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3DANRUGVSTEYZQMQYDEOBSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안산단원경찰서.(경기남부경찰청 제공. 재판매 및 DB금지)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당초 경찰은 CCTV 영상에서 확인되는 장면 등을 근거로 A씨의 혐의가 없다고 봤는데, 공소청의 판단은 달랐다.&lt;br&gt;&lt;br&gt;공소청은 CCTV 원본 영상을 확보해 전면 재분석한 결과, 범행 직전 A씨가 몸을 가누지 못하는 B씨를 뒤에서 부축해 CCTV 사각지대로 데리고 가는 모습을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;공소청은 또 범행 직전 B씨와 연락한 여러 참고인의 진술을 통해 B씨가 자신의 주량을 넘어 음주한 사실, 범행 무렵 정상적인 의사소통이 어려웠던 사실 등을 확인했다. B씨의 혈액·소변 감정 결과와 기존 의무 기록, 의료 자문 등을 통해 B씨가 당시 복용하던 약과 함께 알코올을 섭취해 스스로 걷기 어려울 정도의 만취 상태였던 것으로도 파악했다.&lt;br&gt;&lt;br&gt;공소청 관계자는 “A씨 등의 휴대전화 포렌식을 통해 피해자와 평소 이성적 호감이 있는 관계가 아니라는 사정을 확인할 수 있는 대화 내용, 범행 직후 피해자가 곧바로 지인들에게 연락해 울면서 피해를 호소한 녹음 파일을 확보해 합의되지 않은 성관계였음을 확인했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제자 성폭력 법대 교수, 1심서 징역 1년 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/3WWLSMTMR5DYHPOVFMYSHVNL3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/3WWLSMTMR5DYHPOVFMYSHVNL3U/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 08:13:08 +0000</pubDate>
-      <content:encoded>제자를 강제추행한 혐의로 재판에 넘겨진 서울의 한 사립대학 법대 교수가 8일 1심에서 실형을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZWKZTDMMYDMNBWMEYDSMDDMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사20단독 정아영 판사는 이날 강제추행 혐의로 기소된 A 전 교수에게 징역 1년 6개월을 선고했다. 40시간의 성폭력 치료 프로그램 이수와 아동·청소년 관련 기관에 5년간 취업 제한도 명령했다. 재판부는 선고 직후 “도주의 우려가 염려된다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 대학 교수 신분이던 지난해 9월 소속 대학원생을 성폭력한 혐의로 고소됐다. 재판부는 “지도교수가 지도와 평가에 의존할 수밖에 없는 제자를 상대로 저지른 범행으로 비난 가능성이 크다”며 “피해자가 이 사건으로 학내 생활에 어려움을 겪고 현재까지도 용서하지 않았다”고 했다. 또 “A씨가 사건 경위를 축소하는 태도를 보이고 있어 반성하고 있는지 의문”이라고 지적했다.&lt;br&gt;&lt;br&gt;다만 A씨가 이 사건 이후 대학에서 해임된 점, 고령의 나이에 질환을 앓고 있는 점 등을 고려했다고 밝혔다. 재판부는 또 피해자가 수령을 거부했지만 3000만원을 공탁한 점도 양형에 제한적으로 반영했다고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 올해 1학기부터 강의에서 배제됐고 징계위원회 절차를 거쳐 현재 해임된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘1004’ ‘7777’ 자동차 ‘골드 번호판’ 누가 가져가나 했더니…</title>
@@ -918,15 +969,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘李에 가석방 요구’ 이화영, 하루 한 번꼴로 외부 접견</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/JHOLXMSG2NAEFA4TJYKIW7GGYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/JHOLXMSG2NAEFA4TJYKIW7GGYA/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 05:44:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4WEYJYGNTDEMJQMQ3TKNBRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금 사건’으로 유죄를 선고받고 이재명 대통령에게 가석방을 요구한 이화영 전 경기도 평화부지사가 하루 평균 1회의 외부 접견을 한 것으로 8일 나타났다.&lt;br&gt;&lt;br&gt;주진우 국민의힘 의원이 법무부로부터 제출받은 자료를 보면, 이 전 부지사는 이재명 정부가 출범했던 작년 6월부터 올해 9월까지 총 454번의 외부 접견을 했다. 한 달 평균 28.3번으로, 하루에 한 번꼴로 접견을 해온 것이다. 변호인 접견이 353번으로 대부분이었다. 변호인 접견은 일반 접견과 달리 시간이나 횟수 제한이 없고, 대화 내용도 녹음되지 않는다. 가림막 등 차단 시설이 없는 독립된 공간을 제공받아 ‘특별 면회’라고 불리는 장소변경 접견도 같은 기간 20번 이뤄졌다.&lt;br&gt;&lt;br&gt;여권 인사들도 최근 이 전 부지사를 잇달아 접견했다고 한다. 송영길 더불어민주당 의원은 지난달 23일 수원구치소를 찾아 이 전 부지사를 접견했다. 이 전 부지사는 “더 이상 못 참겠다”는 취지의 토로를 했다고 한다. 이 전 부지사의 변호를 맡고 있는 김광민 변호사가 지난 7일 공개적으로 가석방 요구를 한 것과 같은 맥락이다. 김 변호사는 페이스북에 “대북 송금 사건이 조작됐다고 결론 내 놓고선 정작 그 사건으로 5년째 수감 중인 사람(이 전 부지사)을 철저히 방치하고 있는 현실이 훨씬 더 심하고 잔인한 것 아니냐”고 했다. 더불어민주당 등 여권은 ‘쌍방울 불법 대북 송금’ 사건 기소가 검찰의 조작 수사에 의한 것이었다고 주장 중이다.&lt;br&gt;&lt;br&gt;이 전 부지사는 뇌물 혐의 등으로 2022년 10월 구속 기소됐다. 이어 이 대통령이 경기지사였던 2019년 ‘북한 스마트팜 개선’ 사업비 500만달러와 이 대통령 방북 비용 300만달러 등 총 800만달러를 김성태 전 쌍방울 회장이 대신 내게 한 혐의 등으로 이듬해 3월 추가 기소됐다. 작년 6월 대법원에서 징역 7년 8개월 형이 확정됐다. 이와 관련해 이 대통령도 제3자 뇌물수수 등의 혐의로 2024년 6월 기소됐으나 작년 6월 대통령 취임 후 재판이 중지됐다.&lt;br&gt;&lt;br&gt;주진우 의원은 “이 대통령은 (이 전 부지사를) 풀어주자니 ‘공범 인증’, 가둬두자니 폭로가 두려운 것 아니냐”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>10명 중 7명 AI서 위로받아… 정부 ‘'사람처럼 의존 안돼" 가이드라인 발표</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/10/08/LOOL3CJ37BB5VH2CFFELZCKFFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/08/LOOL3CJ37BB5VH2CFFELZCKFFU/</guid>
@@ -939,33 +981,6 @@
       </media:content>
     </item>
     <item>
-      <title>서울경찰, 11일 마라톤 대회로 도심 교통 통제</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/08/CRY5PB47KFD3FE235EZAC27M7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/08/CRY5PB47KFD3FE235EZAC27M7M/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 07:26:52 +0000</pubDate>
-      <content:encoded>서울경찰청이 11일 열리는 ‘2026 서울 달리기’ 마라톤으로 인해 도심 일부 구간 교통을 통제한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4S7ATZDI4ZJL7D2OB7DFFNSTSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 서울 강남에서 열린 제23회 강남국제평화마라톤에서 참가 선수들이 출발하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 마라톤 대회는 11일 오전 7시 30분 서울시청 앞 광장에서 출발해, 종로길과 청계로를 거쳐 고산자교에 도착한 후 되돌아오는 코스다. 경찰은 이에 따라 마라톤 집결지와 출발지인 세종대로·종로 구간은 오전 5시 30분부터 9시까지, 청계로 구간은 오전 9시 18분부터 11시 10분까지 차량 운행을 통제한다. &lt;br&gt;&lt;br&gt;서울경찰청은 교통경찰과 주최 측 교통 관리 요원 등 683명을 배치하기로 했다. 교통 통제 구간임을 알리는 입간판·플래카드도 423개를 설치할 계획이다. 당일 자세한 교통 상황은 서울경찰청 교통 정보 안내 전화(02-700-5000)와 교통정보센터 홈페이지에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무주반딧불축제, 세계축제협회 5개 부문 금상</title>
-      <link>https://www.chosun.com/national/regional/2026/10/08/ZR6UM2GR6BC4BB2A3L4FZUPOVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/08/ZR6UM2GR6BC4BB2A3L4FZUPOVQ/</guid>
-      <dc:creator>무주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 07:12:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HARD4AL3HRC4TJX66KATRY4RVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 무주군이 지난 5일(현지 시간) 미국 애리조나주 엘 콘키스타도르 투손 힐튼호텔에서 열린 ‘제71회 세계축제협회(IFEA) 월드 연차 총회 및 2026 피너클 어워즈 세계대회’에서 아시아 지역의 ‘2026 IFEA 세계축제도시(World Festival ＆ Event City)’로 지정됐다./무주군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 무주반딧불축제가 세계축제협회로부터 5개 부문에서 금상을 받았다. &lt;br&gt;&lt;br&gt;무주군은 지난 5일(현지 시각) 미국 애리조나주 엘 콘키스타도르 투손 힐튼호텔에서 열린 ‘제71회 세계축제협회(IFEA) 월드 연차 총회 및 2026 피너클 어워즈 세계대회’에서 아시아 지역의 ‘2026 IFEA 세계축제도시(World Festival ＆ Event City)’로 지정됐다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;무주반딧불축제는 세계 30국이 67개 부문에서 경쟁한 올해 대회에서 친환경 행사, 스폰서 파트너, TV 홍보, 표지 디자인, 현장 장식 등 5개 부문 금상도 받았다. 세계축제협회는 50국 5만여 회원을 보유한 세계 축제의 중심 기구다.&lt;br&gt;&lt;br&gt;특히 친환경 운영이 주목받았다. 지난달 4∼12일 9일간 열린 축제에서는 접시, 그릇, 컵 등 다회용기 64만1470개를 사용해 같은 수의 일회용품을 대체했다. 이를 통한 탄소 배출 저감 효과는 약 44.9t으로 나타났다. 다회용기를 공급하는 데 그치지 않고 회수와 세척, 재사용까지 연결한 운영체계를 갖춘 점이 성과로 이어졌다는 평가다.&lt;br&gt;&lt;br&gt;군은 생태·환경·태권도·국가유산·영화·레저·관광 등의 자원을 접목해 사계절 축제 생태계를 구축한 점도 높은 평가를 받았다고 전했다. ‘반디의 빛 세계를 만나다’를 주제로 한 올해 축제는 반딧불이 신비 탐사, 반디별 소풍 등 체험과 반딧불이 주제관 전시, 반디콘서트 공연 등으로 꾸며졌다.&lt;br&gt;&lt;br&gt;무주의 친환경 축제 운영 사례는 일회용품 감축에도 영향을 주고 있다. 기후에너지환경부는 지난 4월 ‘탈플라스틱 순환 경제 전환 추진 계획’을 발표하고 장례식장, 사업장 구내식당·카페, 스포츠 경기장 등을 중심으로 다회 용기 전환을 확대하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;전국 지역축제가 빠르게 늘고 있는 점도 무주 모델 확산의 필요성을 키운다. 나라살림연구소에 따르면 전국 지역 축제는 2019년 884개에서 2025년 1214개로 6년 새 37.3% 증가했다. 황인홍 무주군수는 “이제 축제에서 다회용기를 쓰는 무주의 모델이 전국으로 확산하고 있다”며 “무주반딧불축제가 K-축제를 대표하는 글로벌 축제로서 위상을 보여주도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이진수 법무장관 대행 “李 사건 공소취소 지휘할 계획 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/Y437TZ5RGZHGFPUIZRK2OSFFQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/Y437TZ5RGZHGFPUIZRK2OSFFQQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 07:12:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XN4LCV4JPBKTFN3M57UNERFF7U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 법무부 장관 직무대행이 8일 서울 여의도 국회에서 열린 법제사법위원회 법무부 국정감사에서 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진수 법무부 장관 직무대행이 8일 “이재명 대통령 사건의 공소 취소를 지휘할 계획이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 대행은 이날 국회 법제사법위원회의 법무부 국정감사에서 “전임 정성호 장관도 법무부는 구체적 사건 지휘로 공소 취소를 명할 의사가 없다는 점을 분명히 했다”며 이렇게 말했다. “법무부가 (검찰인권존중미래위원회 등을 통해) 어떻게 공소 유지 여부를 조사하고 의견을 낼 수 있는지 이해가 안 된다”는 국민의힘 김민전 의원 질의에 대한 답변이었다. 이 대행은 “검찰미래위에선 밝혀진 사실을 기초로 의견을 낼 수 있을 것이고 후속 조치를 어떻게 할지는 내용에 따라 다르다”고 했다. 앞서 정 전 장관은 지난 8월 법무장관 이임식에서 “불법적인 절차로 기소됐으면 검찰이 판단해야 할 문제”라고 했었다.&lt;br&gt;&lt;br&gt;박형수 국민의힘 의원이 “김승원 전 법무부 장관 후보자 낙마 후 장관 대행 체제가 상당 기간 지속될 것 같다”며 “최소한 이진수 차관이 장관 대행을 맡는 동안엔 공소 취소를 지휘하지 않겠다고 말할 수 있냐”고 묻자 이 대행은 “말씀드릴 수 있다”고 답하기도 했다.&lt;br&gt;&lt;br&gt;검찰미래위는 검찰 수사 과정에서 인권 침해나 조작 기소 등 검찰권을 남용했는지 조사하겠다며 법무부가 지난 6월 발족시켰다. 검찰미래위 산하 진상조사단은 쌍방울 불법 대북 송금 사건, 대장동 개발 비리 사건 등 1심 재판이 중단된 이 대통령 관련 사건 6건 등을 조사 중이다.&lt;br&gt;&lt;br&gt;지난 23일 이정현 신임 검찰총장 직무대행(현 공소청장 직무대행)은 출근길에 이재명 대통령이 기소된 사건을 공소취소하는 문제와 관련해 “진상조사단에서 진행 중인 조사 결과를 살펴봐야 할 것 같다”고 말해 이 대통령 사건 공소취소를 염두에 두고 있는 게 아니냐는 논란이 일었다. 이와 관련해 이진수 대행은 이날 “(이정현 대행이) 가정적인 조건으로 말씀하신 게 아닌가 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법무부 장관 대행 “이화영, 가석방 검토 대상 아냐…문의 받은 적도 없어”</title>
       <link>https://www.chosun.com/national/court_law/2026/10/08/DJZY5WTUS5DNJAHLJYKO4NMUFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/DJZY5WTUS5DNJAHLJYKO4NMUFM/</guid>
@@ -973,15 +988,6 @@
       <description/>
       <pubDate>Thu, 08 Oct 2026 04:00:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6VF7B7T4JO5PJEHTM33VHT64U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 법무부 장관 직무대행(차관)이 8일 국회 법제사법위원회에서 국정감사에서 의원 질의에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’ 사건으로 유죄가 확정돼 복역 중인 이화영 전 경기도 평화부지사 측이 이재명 대통령에게 가석방을 요구한 것과 관련해 이진수 법무부 장관 직무대행이 8일 “이 전 부지사는 가석방 검토 대상이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;이날 이 대행은 국회 법제사법위원회 법무부 국정감사에 출석해 “대통령실이나 여권 관계자들로부터 이 전 부지사 가석방에 대해 문의받은 적 있냐”는 윤상현 국민의힘 의원 질의에 “없다”고 답했다. 그러면서 “이 전 부지사는 요건상 가석방 검토 대상이 아니다”라고 했다. 이 전 부지사 측은 지난 7일 이재명 대통령에게 공개적으로 이 전 부지사의 가석방을 요구했다. 공범 관계로 기소된 이 대통령에게 가석방을 해달라고 압박하고 나온 것이다.&lt;br&gt;&lt;br&gt;이 전 부지사는 뇌물 혐의 등으로 2022년 10월 구속 기소됐다. 이어 이 대통령이 경기지사였던 2019년 ‘북한 스마트팜 개선’ 사업비 500만달러와 이 대통령 방북 비용 300만달러 등 총 800만달러를 김성태 전 쌍방울 회장이 대신 내게 한 혐의 등으로 이듬해 3월 추가 기소됐다. 작년 6월 대법원에서 징역 7년 8개월 형이 확정됐다. 이와 관련해 이 대통령도 제3자 뇌물수수 등의 혐의로 2024년 6월 기소됐으나 작년 6월 대통령 취임 후 재판이 중지됐다.&lt;br&gt;&lt;br&gt;“가석방 요건은 언제쯤 충족되냐”는 주진우 국민의힘 의원 질의에 이 대행은 “두 개의 형이기 때문에 실무적인 문제가 있다”며 “대략 언제쯤이 될 지는 산정하지 못했다”고 했다. 이 전 부지사는 대법원에서 유죄로 확정된 혐의와 별개로 국회증언감정법 위반 혐의로도 기소돼 지난 6월 1심에서 징역 4개월을 선고받았다. 가석방은 법적으로 형기의 3분의 1이 지나면 대상이 된다. 그러나 이 전 부지사의 경우 검찰(현 공소청) 측 항소로 향후 재판에서 형기가 늘어날 가능성이 있는 만큼, 가석방 요건 충족 여부를 섣불리 판단할 수 없다는 취지로 해석된다.&lt;br&gt;&lt;br&gt;더불어민주당 등 여권은 ‘쌍방울 불법 대북 송금’ 사건 기소가 검찰의 조작 수사에 의한 것이었다고 주장 중이다. 이 대행은 “법무부에서 보기에 ‘조작 기소’였다고 할 만한 부분이 있냐”는 윤 의원 질의에 “검찰인권존중미래위원회에서 조사를 진행 중이고, 독립적으로 진행돼 (조사 진행 상황을) 모른다”이라며 답변을 피했다. 검찰미래위는 이 대통령이 연루되거나 기소된 사건을 검찰이 수사하는 과정에서 검찰권을 남용했는지 조사하기 위해 지난 6월 출범했다. 검찰미래위 산하 진상조사단은 쌍방울 불법 대북 송금 사건, 대장동 개발 비리 사건 등 1심 재판이 중단된 이 대통령 관련 사건 6건 등을 조사 중이다.&lt;br&gt;&lt;br&gt;김성동 공소청 감찰부장이 검찰미래위의 진상조사는 위법 소지가 있다고 공개적으로 비판한 데 대해 이 대행은 “검찰미래위 설치 과정이나 진상조사단 운영 과정에서 검찰총장이나 검사의 독립성을 침해한 사실이 전혀 없다”고 했다. 이어 “공소청 간부가 내부적으로 의견을 개진하는 게 아니라 내부 게시판에 글을 쓰고 언론에 보도되도록 하는 것은 부적절하다”며 “(김 부장이) 감찰 대상인지는 검토가 필요하다”고 덧붙였다. 김 부장은 지난 2일 공소청 내부망 이프로스에 올린 글에서 “진상조사단을 검찰총장이 지휘할 수 없게 한 것은 옛 검찰청법(현 공소청법) 위반”이라는 취지로 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>젠틀몬스터, 국립암센터에 1억 후원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/08/CLK6JLFBMBCJJI2KXRKKSRMDJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/08/CLK6JLFBMBCJJI2KXRKKSRMDJQ/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>국립암센터는 7일 ‘젠틀몬스터’의 운영사인 아이아이컴바인드로부터 후원금 1억원을 전달받았다고 밝혔다. 젠틀몬스터는 독특한 디자인과 전시형 매장으로 해외에서도 인지도를 높이고 있는 글로벌 안경·선글라스 브랜드다.&lt;br&gt;&lt;br&gt;국립암센터는 이번 후원금을 의료 인프라 강화와 연구 환경 고도화 등에 활용할 예정이다. 양한광 국립암센터 원장은 “보내주신 소중한 뜻에 부응해 더 나은 연구·진료 환경을 조성하는 데 힘쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경북도, APEC 성과 잇는 ‘세계경주포럼’ 첫 개최</title>
