@@ -13,6 +13,149 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이혼 소송 중 장모 살해... 경찰 신변보호는 무용지물</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/11/KYKLLECUKNCX7JJ5QWBBQQZXFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/11/KYKLLECUKNCX7JJ5QWBBQQZXFE/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 05:48:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z56FHNFE2RAUXIBWT56KOA4NKA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/제미나이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장모를 흉기로 살해한 뒤 이혼 소송 중인 아내를 납치해 달아난 김모(26)씨가 11일 서울 송파경찰서에 붙잡혔다. 납치된 아내는 남편의 가정 폭력 때문에 경찰의 신변 보호를 받고 있었지만 납치됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 김씨는 이날 오전 5시 40분쯤 송파구 문정동 길거리에서 장모 A(50대)씨 목을 흉기로 찌른 뒤 아내 최모(23)씨를 자기 차에 강제로 태워 달아났다. A씨는 병원으로 옮겨졌지만 숨졌다. 경찰은 범행을 목격한 주민 신고를 받고 출동해 김씨 차량을 추적했다. 경찰은 약 5시간 뒤인 오전 10시 30분쯤 강원 양양군에 있는 한 야산에서 최씨를 발견해 구출했다. 경찰은 낮 12시 35분쯤엔 근처에 숨어 있던 김씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTNUWVI53VAP5D72PXR26WGQNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송파경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 조사에 따르면 김씨와 최씨는 별거하며 이혼 소송 중이었다. 사회 복무 요원인 김씨는 이전에도 최씨에게 상습적으로 폭행해 지난 8월 22일부터 9월 30일까지 김씨에게는 주거지 퇴거와 100m 이내 접근 금지, 전화·문자 등 전기통신을 이용한 접근 금지 조치가 내려진 상태였다.&lt;br&gt;&lt;br&gt;최씨는 경찰에 신변 보호를 요청한 상태였다. 김씨가 자기가 머문 친정 주소를 알고 있기 때문이었다. 이에 따라 경찰은 지난달 1일 최씨에게 스마트워치를 지급했다. 그러나 범행 당시 최씨의 스마트워치는 꺼져 있었다. 경찰은 스마트워치가 작동하지 않은 경위와 김씨가 접근 금지 조치가 끝난 뒤 최씨와 장모를 찾아간 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z56FHNFE2RAUXIBWT56KOA4NKA.png?auth=0ed57c690ef473b01ecfc1177a2d5d4b388caa741a16ab1ce20e7ac4df7cd8f5&amp;smart=true&amp;width=1375&amp;height=768" type="image/png" height="768" width="1375">
+        <media:description type="plain">/제미나이</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>중수청장 후보 비판한 임은정… 행안장관 “감찰 지시할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/11/SQPOEJ3ZV5ADLEWO24CUBFUPTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/11/SQPOEJ3ZV5ADLEWO24CUBFUPTQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 03:11:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYWIMBUGA3DCODCGE2GGZLDGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤호중 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관이 11일 김지용 초대 중대범죄수사청장 후보자를 공개 비판해 온 임은정 광주지방중수청장에 대해 감찰에 착수하도록 중수청에 지시하겠다고 했다.&lt;br&gt;&lt;br&gt;윤 장관은 이날 오전 11시 45분쯤 X(옛 트위터)에 “임 청장은 중수청을 수사하는 기관이 아니라 정치하는 기관으로 착각하고 있는 것 같다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;윤 장관은 “신설되는 기관의 간부가 중수청장 후보에 대한 지적질에 골몰하는 모습을 우려의 눈으로 보시는 국민이 많다”며 “과거 검찰의 정치 개입과 집단행동 등 잘못된 관행이 중수청으로 옮겨오는 것이 아닌지 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “중수청장 후보자의 검증은 임명권자인 대통령과 인사청문회를 책임진 국회가 헌법과 법률에 따라 진행하게 될 것”이라며 “고위 공직자로서의 품위와 기관의 사명에 걸맞지 않는 행동에 대해 기강을 세우는 일을 소홀히 하지 않는 것 역시 주권자인 국민이 명령한 검찰 개혁의 한 부분이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 장관의 이번 감찰 지시는 ‘중대범죄수사청 조직 및 운영에 관한 법률(이하 중수청법)’에 따른 것이다. 중수청법 6조는 “행안부 장관은 일반적으로 중대범죄수사청장과 그 소속 직원을 지휘·감독한다. 다만, 구체적 사건에 대해서는 중대범죄수사청장만을 지휘·감독한다”고 규정하고 있다.&lt;br&gt;&lt;br&gt;임 청장은 서울동부지검장이던 지난달부터 김 후보자의 과거 검찰 내 행적을 문제 삼으며 지명 철회를 요구해 왔다. 지난달 소셜미디어에서 김 후보자의 이력을 거론하며 공개적으로 지명 철회를 요구했고, 광주지방중수청장으로 부임한 뒤에도 비판을 이어갔다.&lt;br&gt;&lt;br&gt;임 청장은 김 후보자 인사청문회에 자신을 증인으로 불러 달라고도 요구했다. 국회 행정안전위원회는 지난 7일 전체 회의에서 14일 청문회 개최를 의결했지만 임 청장은 증인 명단에서 빠졌다. 이후 임 청장은 8일 페이스북에 “참고인으로라도 소환될 줄 알았는데 (채택되지 않아) 많이 실망스럽다”며 “민주당 반대로 참고인으로도 채택되지 못한 것 역시 역사는 기록하고 평가할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4WMZRUGA2TAZJUGY2WCY3EMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 광주지방중대범죄수사청장이 지난 6일 오전 전남광주 북구 중흥동 광주중수청 앞에서 기자들과 출근길 문답을 하며 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 청장은 이날 윤 장관의 감찰 지시가 전해진 뒤 오후 페이스북에 글을 올려 “초대 중수청장 후보가 김지용 전 검사인 것만큼은 아니어도 중수청 1호 감찰 대상이 제가 된 것은 많이 안타깝고 서글픈 일”이라고 했다.&lt;br&gt;&lt;br&gt;이어 검찰 재직 시절인 2012년 12월 과거사 재심 사건에서 ‘백지 구형’을 지시한 상사에게 이의제기권을 행사했다가 중징계를 받았던 일을 언급했다. 당시 임 청장은 징계를 청원하는 글을 검찰 내부망에 올렸고, 품위 손상 등을 이유로 징계를 받았다. 이후 징계 취소 소송에서 승소했다.&lt;br&gt;&lt;br&gt;임 청장은 “징계 취소 소송에 승소해 이의제기권 절차 규정을 마련하고 과거사 재심 사건에서의 위법한 백지 구형 관행 개선 등을 끌어냈듯, 중수청에서도 감찰 1호인 만큼 사명감을 가지고 잘 대처하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z5HOJICB6JMUBNBUZ5S55QLEPI.jpg?auth=27ecd1d3270f5ec5b34bfb0cdd13619b596e7606c7ca6dba554a56e84ecba752&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">&lt;YONHAP PHOTO-2329&gt; 발언하는 임은정 광주중수청장
+    (전남광주=연합뉴스) 민현기 기자 = 임은정 광주지방중대범죄수사청장이 6일 오전 전남광주 북구 중흥동 광주중수청 앞에서 출근길 약식 문답을 하며 발언하고 있다. 2026.10.6
+    mhk0226@yna.co.kr/2026-10-06 09:47:04/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">민현기</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>제조·IT 대신 식당·돌봄으로… 20대 일자리 ‘질’도 나빠졌다</title>
+      <link>https://www.chosun.com/national/labor/2026/10/11/Z2SBY6IJJNGXBMFU53MDMCUMFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/10/11/Z2SBY6IJJNGXBMFU53MDMCUMFE/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 05:03:59 +0000</pubDate>
+      <content:encoded>20대의 일자리가 제조업과 정보통신(IT)업에선 줄고, 숙박·음식점업과 보건·복지업은 늘어난 것으로 나타났다. 청년 취업난이 심해지는 가운데 상대적으로 임금이 높고 경력을 쌓기 좋은 업종의 취업문은 좁아지고, 비교적 임금이 낮고 단기 일자리가 많은 업종으로 청년 고용이 쏠리고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U52H2Z2SIFNGHKBXLWNIYBK6A4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 부산 해운대구 벡스코 제2전시장에서 열린 '2026 부산청년 메가(Mega) 채용박람회'가 청년 구직자들로 붐비고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 박지혜 더불어민주당 의원이 고용노동부에서 받은 자료에 따르면, 20대 고용보험 취득 건수는&lt;b&gt; &lt;/b&gt;2021년 774만5000건에서 지난해 736만6000건으로 4년간 4.9% 감소했다. 취업난과 저출생에 따른 20대 인구 감소가 함께 영향을 미친 것으로 풀이된다.&lt;br&gt;&lt;br&gt;업종별로 보면 제조업과 정보통신업에서 감소세가 두드러졌다. 제조업의 20대 고용보험 취득 건수는 2021년 128만9000건에서 지난해 103만4000건으로 19.8% 줄었다.&lt;b&gt; &lt;/b&gt;감소 건수는 25만5000건으로 전 업종 가운데 가장 많았다. 정보통신업은 같은 기간 34만2000건에서 26만9000건으로 21.3% 감소했고, 전문·과학 및 기술 서비스업도 2021년 41만3000건에서 지난해 37만6000건으로 9% 줄었다.&lt;br&gt;&lt;br&gt;반면 숙박·음식점업의 20대 고용보험 취득 건수는 2021년 63만3000건에서 지난해 77만7000건으로 22.7% 증가했다. 보건·복지업도 118만2000건에서 141만4000건으로 19.6% 늘었다. 2021년보다 20대 취득 건수가 늘어난 5개 업종의 증가분 대부분이 이 두 업종에서 나왔다. 상대적으로 임금이 낮고 고용이 불안한 일자리가 많은 숙박·음식점업과 보건·복지업으로 청년 고용이 쏠린 것이다. 숙박·음식점업 취업 증가는 코로나19 이후 외식과 여행 수요가 회복된 영향으로 보인다. 보건·복지업은 돌봄 분야 인력 수요가 늘어난 것이 주요 원인으로 풀이된다.&lt;br&gt;&lt;br&gt;산업별 비중도 뒤집혔다. 전체 20대 고용보험 취득 건수에서 숙박·음식점업과 보건·복지업이 차지하는 비율은 2021년 23.4%에서 지난해 29.7%로 높아졌다. 반면 상대적으로 임금이 높고 안정적 일자리가 많은 제조업, 정보통신업, 전문·과학·기술 서비스업, 금융 보험업 등 4개 업종 비율은 같은 기간 27.5%에서 23.9%로 낮아졌다. 박지혜 의원은 “청년 고용 문제는 이제 일자리의 ‘양’을 넘어 ‘질’의 위기”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>생후 2개월 여아 온 몸에 멍…40대 친부, 살인 혐의로 체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/11/BUG3KXXLXVCMLDD53SM4WBJX3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/11/BUG3KXXLXVCMLDD53SM4WBJX3E/</guid>
+      <dc:creator>오산=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 08:03:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3GMMJTGA2TEYLDMI2TKNZZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 2개월 된 자녀를 살해한 40대 아버지가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 오산경찰서는 살인 혐의로 A씨를 조사 중이라고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 생후 2개월 된 자녀 B양을 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 3시 47분쯤 경기 오산시 서동 한 주택에서 “자녀가 숨을 쉬지 않는다”는 신고를 받고 출동했다. 현장에서 발견된 B양은 119 구급대에 의해 병원으로 이송됐지만 치료 중 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 B양의 신체에서 멍 등 외상 흔적을 발견, 범죄 가능성이 있다고 판단해 수사에 나섰다.&lt;br&gt;&lt;br&gt;이 과정에서 경찰은 함께 병원으로 이동해 있던 A씨가 자택 내부에 설치된 홈캠 영상 일부를 삭제한 정황 등을 확인하고 살인 혐의로 긴급체포했다.&lt;br&gt;&lt;br&gt;A씨는 B양이 사망 판정을 받자 자신의 휴대전화를 이용해 이날 오전에 촬영된 홈캠 영상을 원격으로 삭제했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 부부를 대상으로 정확한 사건 경위를 조사하는 한편 B양의 시신을 국립과학수사연구원에 부검 의뢰할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 10월 12일 월요일 (음력 9월 2일 己未)</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/11/TDATKARK3NEDDIQXJWWBJZYFYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/11/TDATKARK3NEDDIQXJWWBJZYFYQ/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>울산 마라톤대회서 열탈진 증세로 21명 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/10/11/SOL5GHUO7ZBCFETWYQHNC3TR3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/11/SOL5GHUO7ZBCFETWYQHNC3TR3M/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 05:25:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차량. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 열린 ’2026 울산마라톤대회’에서 참가자 21명이 열탈진 증세를 보여 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;11일 울산소방본부에 따르면 이날 오전 11시를 전후해 ‘2026 울산마라톤대회’ 참가자들이 어지럼증과 구토 등을 동반한 열탈진 증세를 호소한다는 119 신고가 잇따라 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 119구급차와 사설 구급차 등을 동원해 환자들을 지역 병원으로 분산 이송했다.&lt;br&gt;&lt;br&gt;이날 오후 4시 기준 이송 환자는 총 21명으로 집계됐다.&lt;br&gt;&lt;br&gt;대다수가 열탈진 증상의 환자로, 중상자는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이날 오전 11시 울산의 대표 기상 관측 지점인 울산기상대 기온은 26.8도를 기록했다.&lt;br&gt;&lt;br&gt;울산시육상연맹이 주최한 이번 대회는 하프, 10㎞, 5㎞ 등 3개 코스에서 진행됐다. 전체 참가 인원은 1만명에 이른다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보조배터리 불난 제주행 여객기, 5시간 넘게 이륙 지연</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/10/11/YN5GUMZACVGNFLWX3RATTHHCIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/10/11/YN5GUMZACVGNFLWX3RATTHHCIU/</guid>
+      <dc:creator>청주=신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 06:19:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4WGMZRMU3DINBZMNRDONLCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주국제공항./청주공항 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주공항을 출발하려던 제주행 여객기 안에서 보조배터리에 불이 나면서 항공편 운항이 5시간 넘게 지연됐다. 승객 40여 명은 결국 탑승을 포기했다.&lt;br&gt;&lt;br&gt;11일 공항 당국 등에 따르면, 전날 오후 7시 15분 청주공항을 출발할 예정이던 제주항공 여객기는 이날 오전 0시 40분쯤에야 이륙했다. 제주공항에는 오전 1시 40분쯤 도착했다.&lt;br&gt;&lt;br&gt;출발이 늦어진 것은 기내에서 발생한 보조배터리 화재 때문이다.&lt;br&gt;&lt;br&gt;전날 오후 7시 30분쯤 주기장에 있던 여객기 안에서 한 승객이 손에 들고 있던 보조배터리에서 불이 났다. 주변 승객과 승무원들이 곧바로 진화해 큰불로 번지지는 않았다.&lt;br&gt;&lt;br&gt;보조배터리를 들고 있던 승객 1명은 손에 가벼운 화상을 입었다. 승객과 승무원 등 10여 명도 두통과 호흡곤란 증세를 호소했지만 병원으로 이송된 사람은 없었다.&lt;br&gt;&lt;br&gt;제주항공은 화재가 난 기체를 점검한 뒤 운항을 재개했다. 기체에서는 바닥 일부가 그을린 것 외에 큰 결함은 발견되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;점검이 길어지면서 당초 탑승객 168명 가운데 43명은 비행기에 다시 타지 않았다. 나머지 125명만 재탑승해 제주로 향했다.&lt;br&gt;&lt;br&gt;제주항공은 승객들에게 지연 보상금 3만원과 교통비 1만원을 지급하기로 했다. 탑승을 포기한 승객에게는 항공권을 전액 환불하거나 11일 오전 대체편을 안내한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>13일 전국 가을비… 그친 뒤 아침 기온 ‘뚝’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/10/11/PYWGNHCFENBLJMJDZUXGKIZXMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/11/PYWGNHCFENBLJMJDZUXGKIZXMM/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 04:10:51 +0000</pubDate>
+      <content:encoded>12일 월요일은 평년보다 따뜻한 날씨가 이어지겠지만, 13일 전국에 비가 내린 뒤 북쪽에서 찬 공기가 내려오면서 기온이 크게 떨어지겠다. 14일 아침에는 전날보다 기온이 5도 이상 낮아져 전국 대부분 지역에서 쌀쌀한 가을 날씨가 나타날 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OTOV2HPK5LUVC6TXKFDLGAFRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청명한 가을 날씨를 보인 11일 서울 송파구 올림픽공원 들꽃마루에 코스모스가 활짝 펴 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 12일 아침 최저기온은 13~20도, 낮 최고기온은 22~28도로 예상된다. 주말 동안 이어진 늦더위의 영향으로 평년보다 높은 기온을 보이겠다. 오후부터 저녁 사이에는 서울·인천·경기 등 중부 내륙과 전북 동부, 경북 중·북부 내륙을 중심으로 5~10㎜의 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;13일에는 전국 대부분 지역에 비가 내리겠다. 비는 낮에 대부분 그치겠지만 부산·울산·경남 등 경남권에서는 늦은 오후까지 이어지는 곳이 있겠다. 예상 강수량은 서울·인천·경기와 강원, 충청 5~20㎜, 광주·전남과 부산·울산·경남 5~40㎜, 전북과 대구·경북 5~30㎜다. 제주도에는 11일부터 13일까지 5~60㎜의 비가 내릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;비가 그친 뒤부터는 북쪽에서 찬 공기가 유입되면서 기온이 빠르게 떨어지겠다. 14일 아침 최저기온은 6~14도로 전날보다 5도 이상 낮아지고, 낮 최고기온도 17~23도에 머물겠다. 전국이 대체로 맑겠지만 기온 변화가 크고 바람까지 강하게 불며 체감 날씨는 한층 쌀쌀할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 서미화 “김용원이 겁박” 발언… 법원 “허위사실, 500만원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/11/6XGMZOL455DVZHJWLFHNLRC57I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/11/6XGMZOL455DVZHJWLFHNLRC57I/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 04:13:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JD3KMXB54BJRVNAUXSWTXTTTRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 서미화 최고위원이 지난 8월 31일 국회에서 열린 최고위원회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용원 전 국가인권위원회 상임위원이 회의 중 ‘겁박성 발언’을 했다고 언론 인터뷰에서 주장한 서미화 더불어민주당 의원에게 명예훼손에 따른 손해배상 책임이 있다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사201단독 신미진 판사는 지난달 김 전 위원이 서 의원 등을 상대로 낸 손해배상 청구 소송 1심에서 서 의원과 인터뷰 기사를 보도한 언론사 등이 공동으로 김 전 위원에게 500만원을 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;문재인 정부 때 인권위 비상임위원을 지낸 서 의원은 2024년 7월 언론 인터뷰와 같은 해 9월 민주당 의원총회 등에서 김 전 위원을 “반인권적”이라며 여러 차례 비판했다. 이에 김 전 위원은 서 의원과 언론사 등을 상대로 총 1억2000만원의 손해배상 소송을 냈다.&lt;br&gt;&lt;br&gt;김 전 위원이 문제 삼은 서 의원의 발언은 크게 세 가지였다. 첫째는 언론 인터뷰에서 “인권위의 노란봉투법 심의 당시 김 전 위원이 ‘자기 뜻대로 안 되면 상상할 수 없는 일이 일어날 것’이라고 겁박하는 말투로 이야기했다”는 발언이다. 둘째는 같은 인터뷰에서 “김 전 위원의 언행이 폭력적이고 권력의 풍향대로 움직인다”고 한 발언이다. 셋째는 서 의원이 민주당 의원총회에서 “김 전 위원 등이 노란봉투법과 이태원 참사 특별법에 극구 반대하고, (해병대원 순직 사건을 조사했던) 박정훈 대령 긴급 구제 조치를 날치기로 기각했다”는 취지로 한 발언이다.&lt;br&gt;&lt;br&gt;법원은 이 가운데 첫 번째 발언이 허위 사실 적시라며 서 의원의 배상 책임을 인정했다. 다만 두 번째는 주관적인 의견 표현이고, 세 번째는 국회의원 면책특권이 적용되는 발언이라고 판단했다. 1심은 “인권위의 노란봉투법 심의·의결은 김 전 위원이 상임위원으로 임명되기 전의 일”이라며 “김 전 위원은 해당 심의에 참여하지 않았고 서 의원이 주장한 말을 한 적도 없다”고 했다. 그러면서 “서 의원이 인터뷰 전에 회의록을 확인했다면 자신의 발언 내용이 허위라는 점을 알 수 있었을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;서 의원 측은 재판에서 김 전 위원이 다른 회의에서 겁박성 발언을 한 것은 사실이고, 인터뷰에서 심의 안건을 혼동한 것은 사소한 착오라고 맞섰다. 김 전 위원이 2023년 화물자동차 운수 사업법상 업무 개시 명령 관련 안건을 논의하면서 ‘안건이 채택되면 어떤 회오리가 몰아치고 인권위가 어떤 타격을 받을지 말씀드리고 싶었다’는 취지로 말했다는 것이다. 그러나 법원은 이 주장도 받아들이지 않았다. 1심은 “김 위원의 해당 발언 역시 해악의 고지나 겁박성 발언으로 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;법원은 “언론사가 김 전 위원이나 인권위 소속 다른 위원들에게 진위 여부를 확인하거나 이를 확인할 수 있는 객관적인 자료를 확보하고자 하는 노력을 전혀 하지 않고 서 의원의 발언만 신뢰해 보도했다”고도 지적했다. 인터뷰 당시 김 전 위원은 차기 인권위원장 후보로 거론되고 있었고, 기사는 인권위원장 후보 공모 마감일에 맞춰 보도됐다.&lt;br&gt;&lt;br&gt;서 의원은 인터뷰가 의원회관 의원실에서 이뤄졌고 인권위원장 후보 검증이 목적이었던 만큼 면책특권이 적용돼야 한다고 주장했다. 그러나 1심은 기자와의 개별 인터뷰에 대해 “국회 내에서의 직무상 발언 내지 표결에 통상적으로 부수하여 행해지는 행위라고 보기 어렵다”고 했다. 김 전 위원과 서 의원은 모두 이번 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>함께 걸으며 마음 여는 부모·자녀…대구교육청의 AI 활용법</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/11/SFJ7Y65SAJDNZBXWP7MCDCFL3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/11/SFJ7Y65SAJDNZBXWP7MCDCFL3E/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 06:21:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTGD2WV2PJGA7CHNLLRE5K3BGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 대구시교육청이 이상화·서상돈 고택 등에서 주최한 '우리동네 행복투어'에 참여한 가족들./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 부모와 초등학생·중학생 자녀들이 함께 지역의 명소를 걷고 생각을 나누는 투어가 10월 한 달간 운영된다.&lt;br&gt;&lt;br&gt;대구시교육청은 지난 10일에 이어 17일과 24일 토요일 ‘인공지능 디지털 활용 우리 동네 행복 투어’를 운영한다고 11일 밝혔다. 초등학교 3학년부터 중학교 3학년까지 자녀를 둔 30가족(60명)이 참여한다.&lt;br&gt;&lt;br&gt;이 프로그램은 부모에게 자녀와 함께 배우고 경험을 나누는 시간을 제공하고자 마련됐다. 부모와 자녀가 하루 동안 같은 공간을 걷고 과제를 풀면서 서로의 생각과 관심사를 이해하고 알아갈 수 있도록 해 교육을 넘어 가족 간의 관계를 돈독하게 하자는 취지다. 인공지능 도구 등을 활용한 자녀의 배움 방식을 부모가 가까이에서 보고 이해하는 기회도 제공한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYOC6U6P7NF6ZBE2RTKJNNCOME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 대구시교육청이 이상화·서상돈 고택 등에서 주최한 '우리동네 행복투어'에 참여한 가족들./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오전에는 문화해설사와 함께 중구의 이상화·서상돈 고택, 청라언덕 등 대구 근대 골목을 함께 걷는다. 장소마다 인공지능을 활용한 과제를 함께 수행하면서 궁금한 점을 찾아보고 이야기를 나눌 수 있다. 가족별로 일회용 필름 카메라를 받아 서로 함께한 모습을 추억으로 남길 수 있다. 촬영한 필름은 프로그램 종료 이후 인화해 가족에게 선물로 전달된다.&lt;br&gt;&lt;br&gt;오후에는 명소 탐방 중 휴대폰으로 찍은 사진을 보며 각자의 가족을 소개하고 가족 구성원의 서로 다른 성향과 특성을 알아보는 시간을 가진다. 우리 가족에게 맞는 대화 방법과 생성형 인공지능 프로그램으로 ‘내가 바라는 가족의 모습’을 이미지로 만들어 서로 공유해 볼 수도 있다.&lt;br&gt;&lt;br&gt;강은희 대구교육감은 “부모와 자녀가 같은 길을 걷고 같은 것을 보면서 나눈 대화는 서로를 깊이 이해하는 밑거름이 된다”며 “앞으로도 학부모가 자녀 교육의 진정한 동반자로서 거듭날 수 있도록 지역 자원을 활용한 프로그램을 꾸준히 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김영훈 “11월 13일 맞춰 종로3가역에 ‘전태일역’ 병기 추진”</title>
+      <link>https://www.chosun.com/national/labor/2026/10/11/OYTQI3IUW5GZZKTRC5XR6CC4PE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/10/11/OYTQI3IUW5GZZKTRC5XR6CC4PE/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 05:42:35 +0000</pubDate>
+      <content:encoded>김영훈 고용노동부 장관이 전태일 열사 분신일인 11월 13일에 맞춰 서울 지하철 종로3가역에 ‘전태일역’을 부역명으로 병기하는 방안을 추진하겠다고 밝혔다. 일상에서 접하는 지하철역 이름을 통해 전태일 열사의 연대 정신을 알리겠다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6RWCGWBNJKQBPVQNWV7UGWBQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관이 서울 중구 서울고용노동청본청에서 연합뉴스와 인터뷰를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 장관은 지난 8일 연합뉴스와의 인터뷰에서 “다가오는 11월 13일에 맞춰 종로3가역을 전태일역, 아니면 전태일기념관역으로 역명에 병기하면 좋겠다”고 말했다. 그는 “많은 시민이 전태일을 보다 친근하게 느낄 수 있게 하는 방안으로 전태일역 병기를 고민하고 있다”고 했다.&lt;br&gt;&lt;br&gt;전태일 열사는 1970년 11월 13일 서울 평화시장 앞에서 열악한 노동 환경 개선과 근로기준법 준수를 외치며 분신했다. 김 장관은 전태일이 동료 노동자들에게 풀빵을 나눠준 이야기를 언급하며 “보수와 진보, 자본과 노동을 떠나 누구나 전태일의 ‘풀빵 정신’과 연대의 가치를 기리자는 게 본래 취지”라고 말했다.&lt;br&gt;&lt;br&gt;다만 전태일 열사의 분신일을 국가기념일로 지정하는 방안에는 유보 입장을 밝혔다. 김 장관은 “특정 인물의 이름을 내건 국가기념일을 제정할 경우 자칫 ‘예송 논쟁’에 빠질 수 있다”며 “전태일 기념을 하나의 진영으로 묶어둬선 안 된다”고 말했다. 국가기념일 지정을 두고 진영 간 논쟁으로 번지면 전태일을 기리는 본래 취지가 훼손될 수 있다는 것이다.&lt;br&gt;&lt;br&gt;현재 서울교통공사는 역명 병기 사업을 유상 입찰 방식으로 운영하고 있다. 부역명으로 사용할 기관이나 관련 지명은 해당 역에서 반경 1㎞ 안에 있어야 한다. 서울 청계천로에 있는 전태일기념관은 종로3가역에서 1㎞ 이내에 있어 거리 요건은 충족한다.&lt;br&gt;&lt;br&gt;노동부가 역명 병기를 추진하려면 비용을 내고 유상 입찰에 참여하거나, 서울시와 별도로 협의해야 한다. 인물명이 역명에 병기된 사례로는 2호선 낙성대(강감찬)역이 있다. 낙성대역은 관악구의 요청과 주민 의견 수렴을 거쳐 2019년 말 서울시 지명위원회 심의와 고시를 통과했고, 2020년부터 ‘강감찬’을 함께 표기하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S6RWCGWBNJKQBPVQNWV7UGWBQE.jpg?auth=d5b894c59000043721984722fd5b1f40af0cf956cff08e001a08274a82109478&amp;smart=true&amp;width=2790&amp;height=1860" type="image/jpeg" height="1860" width="2790">
+        <media:description type="plain">김영훈 고용노동부 장관이 서울 중구 서울고용노동청본청에서 연합뉴스와 인터뷰를 하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">강민지</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“참고 있으니 건들지 마라”… 與 강경파와 같은 주장 하는 이화영 변호인</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/11/RRLVQMW6OBCJHJWQQQR3RGECLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/11/RRLVQMW6OBCJHJWQQQR3RGECLM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 04:25:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C77J5L7KSIU6JU3OFFBWYGUE4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사측 변호인 김광민 변호사가 2023년 10월 23일 오전 경기 수원시 영통구 경기도의회 브리핑룸에서 재판부 기피신청 관련 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 불법 대북 송금 사건으로 수감 중인 이화영 전 경기도 평화부지사의 변호인 김광민 변호사가 “도 닦는 심정으로 참고 있으니 건드리지 마라”고 했다. 김 변호사는 지난 10일 오후 7시 18분쯤 페이스북에 이 같은 글을 썼다.&lt;br&gt;&lt;br&gt;김 변호사의 이 같은 발언은 이 전 부지사를 가석방해야 한다는 김 변호사에 대해 더불어민주당 의원들이 부정적인 반응을 한 데 대한 불만으로 해석된다. 김한규 민주당 원내정책수석부대표는 지난 9일 CBS 라디오에서 “이 전 부지사를 정치적 검찰의 조작 기소 피해자라고 보기도 하지만 한편으로는 개인 비리가 있다”며 “당내 반향이 없고, (가석방) 요건도 충족이 안 된 상태”라고 했다.&lt;br&gt;&lt;br&gt;같은 날 박균택 민주당 의원도 “요건을 갖추지 못했기 때문에 가석방은 불가능한 사안”이라고 했다. 박지원 민주당 의원도 “법무부 차관이 (8일 국정감사에서) 답변한 대로 가석방 요건에 해당하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 지난 7일 언론 인터뷰에서 “이화영이 화가 많이 났다”며 “가석방해달라”고 했고, 다음 날 이 전 부지사가 직접 옥중 편지를 공개하며 “김 변호사의 주장은 내 진의와 다르다”고 하자, 김 변호사는 “더 이상 말은 안 하겠다”면서도 “진실은 시간이 지나면 자연스레 드러날 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 김 변호사는 정치 현안에 대해 반명계 또는 민주당 강경파와 비슷한 입장을 나타내고 있다. 김 변호사는 11일 오전 페이스북에 “국회의 질문은 하극상이 아니다”라면서 김민석 민주당 당대표가 김지용 중대범죄수사청장 후보자에 대한 민주당 의원들의 검증을 막고 있다는 취지로 비판했다. 김 변호사는 지난 10일에도 “당 안의 싸움은 당대표가 받아내고, 대통령은 그 위에서 조정하는 것이 당청 관계의 기본인데, 김민석 대표는 정반대로 간다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 이재명 대통령의 최근 발언을 비판하기도 했다. 김 변호사는 지난 9일 페이스북에 이재명 대통령이 지칭한 이른바 ‘무극파(무책임한 극단주의자)’에 대해 “인사권자가 (김지용 후보자) 인사에 반대하는 사람을 극단주의자라 부르면 논쟁은 논리가 아니라 힘으로 정리된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>운전 중 발작 일으켜 보행자 숨지게 한 40대 금고형</title>
+      <link>https://www.chosun.com/national/regional/2026/10/11/AGRTDYTULNB3HEHSGGOJXNUPD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/11/AGRTDYTULNB3HEHSGGOJXNUPD4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 04:41:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운전 중 발작 증세로 인도에 있던 보행자를 치어 숨지게 한 40대 남성이 실형을 선고받았다. &lt;br&gt;&lt;br&gt;부산지법 형사12단독 박병주 판사는 교통사고처리특례법 위반 혐의로 기소된 40대 남성 A씨에게 금고 1년 6개월을 선고했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 11일 오후 6시 38분쯤 부산 동래구 한 도로에서 승용차를 몰고 가던 중 경련성 발작을 일으켜 인도에 서 있던 60대 남성을 들이받아 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 2000년쯤 처음 발작을 일으켜 입원 치료를 받은 뒤 관련 치료를 계속 받아왔다. 사고 3개월 전인 지난해 8월에도 경련성 발작을 일으켜 병원 치료를 받았다. 당시 의료진은 A씨에게 음주와 수면 부족 등 발작을 유발할 수 있는 요인을 피하라고 권고했다.&lt;br&gt;&lt;br&gt;하지만 A씨는 이후 예약된 신경과 외래 진료에 수차례 가지 않았고, 사고 이틀 전에도 술을 마신 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판 과정에서 A씨 측은 “당시 갑작스러운 경련성 발작으로 심신상실 상태였고, 과거 발작 횟수가 많지 않아 운전하지 말아야 할 주의의무가 있었다고 볼 수 없다”고 주장했다. &lt;br&gt;&lt;br&gt;그러나 박 판사는 “A씨가 사고 몇 달 전에도 발작을 경험했고, 발작 증상이 다시 나타날 경우 신체를 제어하지 못해 정상적인 운전이 어려울 수 있다는 사실을 충분히 알고 있었다”고 판단했다. 이어 “의사로부터 운전 자제에 대한 내용을 고지받은 사실이 없다고 하더라도 발작 증상이 발생할 염려가 있는 경우 자동차를 운전하지 않아야 하는 것은 자동차 운전자로서 당연히 준수해야 할 업무상 주의의무에 해당한다”며 A씨의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;박 판사는 “이 사건 교통사고로 피해자 사망이라는 돌이킬 수 없는 중대한 결과가 발생했는바 범행 경위와 그 결과에 비춰 죄책이 매우 무겁다”면서 “피해자의 유족과 합의하거나 그들로부터 용서받지도 못했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“전과자 말만 믿고 기소” 노웅래, 명예훼손 벌금 70만원 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/11/GAASFYRRXNCBFAXKFUPV7SB4OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/11/GAASFYRRXNCBFAXKFUPV7SB4OQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2026 03:37:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVXY5SD2TY42IOX6KOY5CCSZL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노웅래 전 더불어민주당 의원. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노웅래 전 더불어민주당 의원이 뇌물·불법 정치자금 6000만원을 받은 혐의로 재판받던 과정에서 공여자로 지목된 사업가를 ‘전과 16범’이라고 했다가 명예훼손죄로 벌금형을 확정받았다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면 대법원 3부(주심 엄상필 대법관)는 명예훼손 혐의로 기소된 노 전 의원에게 벌금 70만원을 선고한 원심을 지난 1일 상고기각 결정으로 확정했다. &lt;br&gt;&lt;br&gt;노 전 의원은 2023년 5월 19일 서울중앙지법에서 열린 자신의 뇌물·불법 정치자금 수수 사건 첫 공판에 출석하면서 기자들에게 “검찰은 전과 16범이나 되는 사람의 말만 듣고서 저를 범법자로 몰고 있다”고 말해 사업가 박모씨의 명예를 훼손한 혐의로 기소됐다. 당시 노 전 의원은 “저에게 뇌물을 줬다는 사업가와 일면식도 없다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;노 전 의원 측은 “검찰의 수사와 기소가 부당하다고 호소하면서 박씨 진술의 신빙성을 반박했을 뿐 명예를 훼손할 고의는 없었다”는 취지로 주장했다. 국민적 관심을 받는 사건에서 제보자의 전과를 언급한 것은 공익을 위한 것이라는 주장도 했다.&lt;br&gt;&lt;br&gt;그러나 1심은 작년 10월 노 전 의원에게 벌금 70만원을 선고했다. 박씨 진술의 신빙성을 반박하려는 목적이었더라도 ‘전과 16범’이라는 구체적 사실을 드러낸 이상 명예훼손에 해당한다는 것이다. 1심은 “노 전 의원이 밝히기 전까지 박씨의 전과가 외부에 알려지지 않았던 것으로 보이고, 노 전 의원은 자신의 발언이 기사화될 것을 충분히 알고 있었다”고 지적했다. &lt;br&gt;&lt;br&gt;올해 5월 항소심도 같은 판단을 내렸다. 항소심 재판부는 “재판은 선거와 달리 법정에서 진실을 밝히는 것이지 언론 인터뷰를 통해 국민의 판단을 받아야 하는 것이 아니다”라고 판시했다. 노 전 의원이 함께 기소된 형사사건의 증거 기록을 보고 박씨의 전과를 알게 된 뒤 이를 언론에 공개한 점도 문제라고 지적했다.&lt;br&gt;&lt;br&gt;항소심은 ‘검찰이 박씨의 말만 믿고 기소해 부당하다’는 노 전 의원의 주장도 받아들이지 않았다. 재판부는 “박씨 아내의 휴대전화에서 확보한 전자 정보가 압수 과정의 위법으로 재판에서 증거로 인정되지는 않았지만, 검찰은 해당 정보를 확인해 박씨 진술의 신빙성을 판단한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;노 전 의원은 2020년 사업 편의 제공과 공무원 인허가·인사 알선, 선거 비용 등의 명목으로 박씨 측에서 다섯 차례에 걸쳐 6000만원을 받은 혐의로 2023년 3월 기소됐다. 이 사건에서는 위법 수집 증거가 배제되면서 1·2심 모두 무죄를 선고받고, 지난 8월 항소심 선고 후 검찰이 상고를 포기해 무죄가 확정됐다. 함께 기소된 박씨는 1·2심에서 징역 1년 5개월을 선고받고 상고해 대법원 판단을 기다리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘암살자(들)’엔 신중, ‘건국전쟁’엔 왜곡 비판…나무위키의 선택적 잣대</title>
       <link>https://www.chosun.com/weekly/national-reportage/2026/10/11/XXZ5IRRS3ZB2NDNVEIXD6PKPH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/weekly/national-reportage/2026/10/11/XXZ5IRRS3ZB2NDNVEIXD6PKPH4/</guid>
@@ -780,27 +923,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독] 예술 병역 특례 86%가 국내 입상자</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/09/5ABALUPNWRHMLDUQUYMR5MX7OQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/09/5ABALUPNWRHMLDUQUYMR5MX7OQ/</guid>
-      <dc:creator>원종빈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 20:00:00 +0000</pubDate>
-      <content:encoded>최근 5년간 병역 특례를 받은 예술 요원의 86.7%가 국내에서 열린 음악·무용 경연 대회 입상자인 것으로 8일 확인됐다. 국위 선양 등을 이유로 병역 특례를 주는 제도 취지에 맞지 않는다는 지적이 나온다.&lt;br&gt;&lt;br&gt;문화체육관광부가 국민의힘 조은희 의원실에 제출한 자료를 보면, 2022년부터 올해 7월까지 예술 요원으로 편입된 사람은 90명이었다. 이들이 입상한 대회 18개 중 11개가 국내에서 열린 대회였다. 국내 개최 대회 입상으로 예술 요원에 편입된 사람은 78명(86.7%)이었다.&lt;br&gt;&lt;br&gt;정부는 예체능 분야에서 국위를 선양한 사람에게 병역 특례를 주는 예술·체육 요원 제도를 1973년 도입했다. 예술 분야에서는 병무청장이 정한 국제예술경연대회 2위 이상 입상자나 국악·판소리·한국무용 등 국제 대회가 없는 분야 국내 경연 대회 1위 입상자, 국가무형유산 전수 교육 이수자 등이 특례 대상이다. &lt;br&gt;&lt;br&gt;그런데 병역 특례가 주어진 국내 대회 중 일부는 국제 대회를 내걸었지만 참가자 대부분이 한국인이었다. 2022~2024년 코리아국제현대무용콩쿠르 참가자 가운데 81.5%가 한국인이었다. 서울국제무용콩쿠르는 발레 부문 참가자의 81%, 현대무용 참가자의 78.6%가 한국인이었다. 서울국제음악콩쿠르(64%)와 코리아국제발레콩쿠르(51%)도 한국인 참가자가 반을 넘었다. 최근 5년간 이 4개 대회 입상자 21명이 예술 요원으로 편입돼 병역 특례 혜택을 봤다. 한국인끼리 주로 경쟁하는 국내 대회가 병역 특례 통로가 됐다는 지적이 나온다.&lt;br&gt;&lt;br&gt;예술 요원의 절반 이상이 문체부가 정한 복무 규정을 어겨 경고를 받은 것으로도 나타났다. 예술 요원은 기초군사훈련을 받은 뒤 34개월간 자신의 전문 분야에서 활동하면서 취약 계층이나 아동·청소년 등을 위한 봉사 활동 544시간을 채워야 한다. 하지만 최근 5년간 편입된 예술 요원 90명 가운데 52명(57.8%)이 분기별 실적 미달이나 허위 실적 제출 등으로 문체부 경고를 받았다. 전체 경고 건수는 75건이었고, 2회 이상 경고받은 사람도 16명이나 됐다. &lt;br&gt;&lt;br&gt;이런 탓에 예술계에서도 예술 요원 병역 특례 제도를 손봐야 한다는 지적이 나온다. 유럽에서 활동하는 연주자 이모(26)씨는 “한국인이 세계 정상급 성과를 내는 분야가 많아진 상황에서 콩쿠르 입상을 국위 선양으로 보는 것이 적절한지 따져볼 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“Battery zero!”… 현지인이 고개 갸웃한 까닭</title>
-      <link>https://www.chosun.com/national/education/2026/10/09/IEPEDRY7NVCI3C6UJTFBJ7Z3ZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/10/09/IEPEDRY7NVCI3C6UJTFBJ7Z3ZQ/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
-      <content:encoded>해외여행 중 낯선 골목길을 걷다 그만 길을 잃고 말았습니다. 휴대폰 지도를 보며 숙소를 찾아가려는데 화면 상단의 배터리 잔량 표시가 깜빡이며 ‘5%’를 가리킵니다. 보조 배터리는 숙소에 두고 나와 그야말로 속수무책 상황에 직면했습니다.&lt;br&gt;&lt;br&gt;급한 마음에 근처 카페로 뛰어들어 카운터 직원에게 “휴대폰 배터리가 거의 다 떨어져 가는데, 여기서 충전 좀 할 수 있을까요?”라고 물어보려 합니다.&lt;br&gt;&lt;br&gt;하지만 머릿속엔 “Battery zero soon!” 같은 엉터리 표현만 떠오를 뿐입니다. 직원에게 충전기를 빌리거나 콘센트 자리를 안내받아야 하는데, 다급한 마음에 “Charge... no battery...”만 더듬거리며 꺼지기 직전의 휴대폰만 부여잡고 발을 동동 구릅니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TKJSI442RGKXEINE2TZFNLJYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/Gemini&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배터리가 ‘바닥나다’ ‘잔량이 얼마 남지 않다’의 의미로 가장 흔히 쓰는 표현은 ‘run low’입니다. “My phone is running low on battery.” “My battery is running low.” 형태로 씁니다.&lt;br&gt;&lt;br&gt;그런데 휴대폰이나 배터리 대신 사람을 주어로 써서 “I’m low on battery.” “I’m running low on battery.” 식으로 표현하기도 합니다.&lt;br&gt;&lt;br&gt;배터리 바닥이 코앞일 때는 be about to die, 배터리가 모두 소진돼 이미 꺼진 상태라면 die의 과거형 ‘died’ 또는 ‘be dead’로 표현합니다.&lt;br&gt;&lt;br&gt;카페 직원에게 사정을 설명할 때 “My phone is running low on battery.”도 좋지만, “My phone’s about to die.” “My phone’s dying!”이라고 하면 더 절실하게 들리겠지요?&lt;br&gt;&lt;br&gt;‘run low’와 함께 ‘run down’도 거의 같은 의미로 사용됩니다. 다만 ‘run down’은 “The battery ran down overnight.”(밤새 배터리가 닳았어요.)처럼 시간이 지나며 서서히 닳았다는 점진적인 결과를 말할 때 어울리고, 도움을 청하는 다급한 순간에는 run low가 더 적절합니다. run down은 사람에게도 씁니다. 장시간 비행이나 시차로 몸이 처졌을 때 “I feel a bit run-down.”(몸이 좀 지쳤어요.)처럼 컨디션을 설명하는 표현으로 흔히 쓰입니다.&lt;br&gt;&lt;br&gt;외국에선 벽면에 콘센트가 있다고 해서 무턱대고 충전기를 꽂으면 제지를 받을 수 있습니다. 나라나 매장 방침에 따라 전기 사용을 엄격히 제한하는 곳도 있기 때문입니다.&lt;br&gt;&lt;br&gt;카운터나 홀 직원에게 “My battery is running low. Would you mind if I plug this in?” 하고 먼저 양해를 구하는 것이 바람직합니다.&lt;br&gt;&lt;br&gt;그리고 음료를 하나 주문하면서 물어보면 거절당할 가능성이 낮아집니다.&lt;br&gt;&lt;br&gt;“I’m down to 5%.” (5%밖에 안 남았어요.)&lt;br&gt;&lt;br&gt;“My phone died on me right when I needed the map.” (하필 지도가 필요한 순간에 폰이 꺼졌어요.)&lt;br&gt;&lt;br&gt;“Is there an outlet I could use?” (제가 쓸 수 있는 콘센트가 있을까요?)&lt;br&gt;&lt;br&gt;“Which seat is closest to an outlet?” (콘센트에서 제일 가까운 자리가 어디예요?)&lt;br&gt;&lt;br&gt;“Do you have an iPhone charger I could borrow?” (혹시 아이폰 충전기 빌릴 수 있을까요?)&lt;br&gt;&lt;br&gt;“Could I leave it charging behind the counter?” (카운터 뒤에 꽂아 두고 충전해도 될까요?)&lt;br&gt;&lt;br&gt;“I’ll grab a coffee while I’m at it.” (그동안 커피도 한 잔 주문할게요.)&lt;br&gt;&lt;br&gt;“The cold drains the battery so fast.” (추우면 배터리가 정말 빨리 닳아요.)&lt;br&gt;&lt;br&gt;“Thanks so much, you’re a lifesaver!” (정말 고맙습니다, 생명의 은인이세요!)&lt;br&gt;&lt;br&gt;“&lt;mark class="hl_yellow"&gt;Would you mind helping me out with ~?&lt;/mark&gt;”는 난처한 상황에 처했을 때, 상대방에게 “&lt;mark class="hl_yellow"&gt;혹시 제 이런 상황을 좀 도와주실 수 있을까요?&lt;/mark&gt;”라며 겸손하면서도 적극적으로 도움을 구하는 데 유용한 표현입니다. ‘help out’이라는 구동사가 들어가 단순한 도움을 넘어 ‘어려움을 헤쳐 나가게 해준다’는 따뜻한 어감을 풍기기 때문에 현지인들의 호의를 이끌어 내는 데 효과적입니다.&lt;br&gt;&lt;br&gt;“Would you mind helping me out with charging my phone?” (제가 휴대폰 충전하는 것 좀 도와주실 수 있을까요?)&lt;br&gt;&lt;br&gt;“Would you mind helping me out with directions to the station?” (역으로 가는 길 찾는 것 좀 도와주실 수 있을까요?)&lt;br&gt;&lt;br&gt;“Would you mind helping me out with translating this menu?” (이 메뉴판 번역하는 것 좀 도와주실 수 있을까요?)&lt;br&gt;&lt;br&gt;“Would you mind helping me out with my heavy luggage?” (이 무거운 짐 옮기는 것 좀 도와주실 수 있을까요?)&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/43WS6HJNWZES3PNV4DRJLDDDTY.png?auth=af640c448737328f8f4ae6767d86622fdbe243254e74abc0f258e7fa4f7dda81&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">/Gemini</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>서비스에이스, 아빠 직원 62% 육아휴직… 삼성바이오에피스, 400억 들여 어린이집 만들어</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/10/09/I52I2ESCUFA6VOLFOKGUIDTF2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/09/I52I2ESCUFA6VOLFOKGUIDTF2Y/</guid>
@@ -811,52 +933,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/VS7FLMTBEJBWBFKWCPZH6NGVVA.jpg?auth=e29a26d72f8000edab70d6679663bfa4592674fd9c22bc58c4520bb539311685&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
         <media:description type="plain">8일 서울 송파구 롯데월드타워 시그니엘서울에서 열린 ‘아이가 행복입니다 시즌9’ 개막식 겸 시상식. 무대 중앙에서 ‘31초 영상제’ 대상 수상자인 김신의씨 가족(왼쪽부터 김율양, 윤가일씨, 김씨, 김솔양, 김선양)이 공 모양의 LED 스크린에 손을 올리자, 개막을 알리는 영상이 시작되고 있다. 앞줄 맨 왼쪽부터 홍준호 조선일보 발행인, 노준형 롯데지주 대표, 현수엽 보건복지부 1차관, 김진오 인구전략위원회 부위원장, 방준오 조선일보 사장, 김씨 가족들(5명), 오세훈 서울시장, 정점식 국민의힘 원내대표, 김태유 서울대 명예교수, 정구창 성평등가족부 차관, 이형희 서울상공회의소 부회장. 뒷줄 맨 왼쪽부터 이성호 남원시 부시장, 남영희 인천광역시 부시장, 서강석 송파구청장, 황명석 경상북도 행정부지사, 신동훈 삼성바이오에피스 부사장, 이종규 서비스에이스 대표, 김장섭 YH데이타베이스 상무, 진혁성 유투엑스랩 대표, 장재훈 롯데물산 대표. /박성원 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">psw</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“동생 3명 생겨 신나요”… 삼둥이 품은 ‘두 살 왕누나’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/09/34PLGQK7MFAZBHWQHKLR26OAK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/09/34PLGQK7MFAZBHWQHKLR26OAK4/</guid>
-      <dc:creator>조성호 기자, 김지원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FACBWABQQVF7RM4OX4CCBF7V5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 송파구 롯데월드타워에서 열린 ‘아이가 행복입니다 시즌9’ 행사에 앞서 ‘31초 영상제’ 수상자 가족들이 월드파크 잔디광장에서 기념 촬영을 하고 있다. 9일까지 열리는 이 행사에는 ‘드론 축구’ 등과 같은 체험 부스와 시그니엘 서울을 배경으로 한 드론 쇼 등이 준비돼 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세쌍둥이가 집에 온 날, 당시 두 살이던 맏딸 해솔이는 어린이집에서 돌아와 동생들을 반갑게 맞았다. 김유진(32)·최문석(32)씨 부부는 첫째가 상실감을 느낄까 걱정했지만 기우였다. 최씨는 “엄청 긴장했는데 첫째는 신이 나 있었다”고 했다. 네 남매의 첫 만남과 1년 뒤 모습을 담은 영상은 8일 열린 ‘31초 우리 가족 행복 담기 영상제’에서 영상 최우수상을 받았다. 최씨는 수상 소감에서 “인기 간식 ‘두쫀쿠’를 먹으려고 사람들이 자발적으로 줄을 서는 것처럼 아이 키우는 모습도 좋아 보여야 인구 문제 해결에 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;올해 공모전에는 영상 3454건, 사진 4409건 등 총 7863건이 접수돼 지난해보다 2000건 넘게 늘었다. 영상 대상은 김신의(37)씨 가족의 ‘태어나게 해 줘서 고맙습니다’가 차지했다. 선이(5)와 율이(3)가 부모에게 감사 인사를 전하는 영상이다. 김씨는 “아이들 목소리로 얘기했지만 대본은 제가 썼다. 제 고백이기도 하다”고 했다. 자녀를 키우며 자신을 낳아준 부모에게도 감사해졌다는 것이다.&lt;br&gt;&lt;br&gt;또 다른 영상 최우수상은 네 아이와 함께 god의 ‘촛불 하나’에 맞춰 여섯 식구가 된 과정을 담은 김예지(32)씨 가족이 받았다. 김씨는 “어릴 때부터 아이 넷을 낳는 게 꿈이었다”며 “작은 촛불들이 꺼지지 않도록 지켜주는 부모가 되겠다”고 했다.&lt;br&gt;&lt;br&gt;사진 최우수상은 세 아이와 수박을 먹는 모습을 담은 유다혜(33)·이종혁(39)씨 가족이 받았다. 유씨는 “넷째를 낳고 싶은데 남편이 반대한다”며 “상을 받았으니 다시 생각해줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;영상 우수상을 받은 정다은(39)씨 가족은 두 딸의 등하교 모습을 담은 영상을 첫째 은우(11)가 편집해 출품했다. 김보현(33)씨 가족은 희귀 질환으로 재활 치료를 받으면서도 사육사를 꿈꾸는 아들 하이준(5)군의 일상을 담았다. 김씨는 “장애가 있는 아이를 키우는 가족도 행복하게 지내는 모습을 보여주고 싶었다”고 했다. 차명진(41)씨 가족은 소이증을 갖고 태어났지만 밝게 자라는 아들 우현(1)이의 웃음을 담았다. 사진 우수상은 고성 라벤더 축제에서 가족을 촬영한 이은지(35)씨 가족과 유쾌한 가족사진을 출품한 황지민(8)양 가족이 받았다.&lt;br&gt;&lt;br&gt;올해는 기존 ‘유튜브 인기상’을 개편해 참가자가 SNS에 작품을 직접 올리고 대중의 반응으로 평가받는 ‘SNS 인기상’을 마련했다. 인기 유튜버 ‘수연이네’도 참여를 독려한 가운데, ‘좋아요’ 156만개를 받은 ‘우리집 몬치치’의 송미리(35)씨 가족이 수상했다. 송씨는 “딸이 너무 귀여워 다른 사람들도 봤으면 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FACBWABQQVF7RM4OX4CCBF7V5Y.jpg?auth=7b33712d20621da78980dc5ad8a90a2631ac9bab241209a6fc12c14b9a09a64e&amp;smart=true&amp;width=5328&amp;height=4000" type="image/jpeg" height="4000" width="5328">
-        <media:description type="plain">8일 서울 송파구 롯데월드타워에서 열린 ‘아이가 행복입니다 시즌9’ 행사에 앞서 ‘31초 영상제’ 수상자 가족들이 월드파크 잔디광장에서 기념 촬영을 하고 있다. 9일까지 열리는 이 행사에는 ‘드론 축구’ 등과 같은 체험 부스와 시그니엘 서울을 배경으로 한 드론 쇼 등이 준비돼 있다. /박성원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">psw</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>가석방 요구한 이화영… 李정부 들어 454번 외부 접견</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/09/NTKRIRTCFNHSTCRQSTFGZVPRU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/09/NTKRIRTCFNHSTCRQSTFGZVPRU4/</guid>
-      <dc:creator>김희래 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2DKNZZGM4WEMDCHAYTIZLBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 국회 법제사법위원회에서 열린 법무부 등에 대한 국정감사에 앞서 정성호(가운데) 전 법무부 장관이 이진수 법무부 장관 직무대행 자리로 다가가 대화를 나누고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’ 사건으로 징역 7년 8개월 형이 확정돼 복역 중인 이화영 전 경기도 평화부지사 측 변호인이 지난 7일 이재명 대통령을 향해 이 전 부지사의 가석방을 요구한 데 대해, 이진수 법무부 장관 직무대행은 8일 “이화영 피고인은 현재 가석방 대상이 아니다”라고 했다. 그러자 이 전 부지사는 이날 오후 돌연 옥중 입장문을 냈다. 이 전 부지사는 전날 변호인이 밝힌 입장은 “저의 진의와 다른 부분이 있다”며 “조작된 누명으로 고통을 받고 계실 대통령님의 고뇌에 공감한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“가석방 대상 아냐” 밝히자 옥중 입장문&lt;/b&gt;&lt;br&gt;&lt;br&gt;이진수 대행은 이날 국회 법제사법위원회의 법무부 국정감사에서 “이화영 피고인은 2개의 형을 선고받은 상태”라며 “각 형에 대해 3분의 1 이상의 유기징역형이 집행돼야 기본 요건을 갖출 수 있는데 그 요건을 충족하지 못했다”고 했다. 그러면서 이 대행은 “대통령실이나 여권으로부터 (이 전 부지사의) 가석방 관련 문의나 요청을 받은 사실도 없다”며 “이 전 부지사도 가석방을 신청하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 쌍방울 대북 송금 사건 등으로 작년 6월 대법원에서 징역 7년 8개월이 확정됐다. 지난 6월에는 ‘연어 술 파티’ 의혹과 관련해 국회에서 위증한 혐의로 1심에서 징역 4개월을 추가로 선고받았다. 형사소송법은 2개 이상의 형을 집행할 경우 벌금·과료·몰수 등을 제외하고 무거운 형부터 집행하도록 규정한다. 이 전 부지사는 2022년 9월 처음 구속돼 약 4년 동안 복역했지만, 위증죄 관련 징역 4개월 형은 아직 집행되지 않아 가석방 대상이 안 된다는 게 법무부 설명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNULVZ7JIRBPDAJ5Z4LC7GAPOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 가운데 이 전 부지사는 이날 오후 수감 중인 수원구치소에서 쓴 2쪽 분량의 자필 입장문을 공개했다. 그는 변호를 맡고 있는 김광민 변호사가 언론에 인터뷰한 기사를 언급하며 “김 변호사가 저의 오랜 수형 생활을 지켜보며 안타까운 마음을 토로한 모양”이라고 적었다. 이 전 부지사는 또 “쌍방울 대북 송금에 관한 수원지검의 조작이 국회의 국정조사 등을 통해 상당 부분 드러났음에도, 진상 규명이 진행되지 않고 지체되는 게 답답하고 억울하다”면서 “대북 송금 사건은 검찰이 조작했고 법원이 조작을 완성했다”고 주장했다. 재판 과정에서 자기 주장을 받아주지 않은 법원에 대한 불만을 강하게 드러냈다. &lt;br&gt;&lt;br&gt;정성호 전 법무부 장관도 이날 본지 통화에서 “이 전 부지사 부인에게서 이 전 부지사의 수용 생활이 어렵고 건강도 나쁘다는 얘기를 들었다”고 했다.&lt;br&gt;&lt;br&gt;전날 이 전 부지사의 가석방을 공개적으로 요구한 김 변호사는 이날 새벽 페이스북에서 “싱가포르에 도착했다”며 “극도의 스트레스를 잠시 내려놓고자 한국을 떠났다”고 했다. 그는 “‘오버하지 말라’는 경고가 주변 사람들을 통해 들려오지만 정작 직접 연락해서 말하는 이는 단 한 명도 없다”며 “비겁한 자들”이라고도 적었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇李 정부 출범 후 ‘매일 접견’ 논란&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 국정감사에서는 이 전 부지사의 잦은 외부인 접견도 도마에 올랐다. 법무부가 국민의힘 주진우 의원실에 제출한 자료를 보면, 이 전 부지사는 이재명 정부 출범 직후인 2025년 6월부터 지난달까지 16개월 동안 총 454차례 외부인을 접견했다. 일반 접견 81건, 변호인 접견 353건, 장소 변경 접견(특별 면회) 20건이었다. 한 달 평균 28.3건으로 현 정부 출범 후 사실상 매일 면회를 한 셈이다. 이 기간 동안 외부와 주고받은 편지는 총 172건이었다.&lt;br&gt;&lt;br&gt;주 의원은 “이재명 정부 들어 민주당 의원들이 이화영을 1일 1면회했다”면서 “주범 이재명을 불지 말아 달라는 간곡한 요청 아니겠느냐. 민주당의 줄면회로도 이화영의 입을 영원히 막을 수는 없을 것”이라고 말했다. 주 의원은 민주당 송영길 의원과 법무장관을 지낸 정성호 의원 등이 이 전 부지사를 면회했다고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“李 공소취소, 지휘할 생각 없다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이진수 법무장관 대행은 이날 국정감사에서 이 대통령이 기소된 형사 사건 공소취소 문제와 관련해 자신이 장관 대행을 하는 동안은 공소취소를 지휘하지 않겠다는 뜻을 밝혔다. 국민의힘 박형수 의원이 “대행 체제가 상당 기간 갈 것 같은데 최소한 차관이 대행하는 동안 공소취소를 지휘하지 않겠다고 말할 수 있느냐”고 묻자, 이 대행은 “네. 말씀드릴 수 있다”라 답했다. 이 대행은 “전임 정성호 법무부 장관이 구체적 사건 지휘로 공소취소를 명할 의사가 없다는 점을 분명히 했다”고도 했다.&lt;br&gt;&lt;br&gt;다만 공소취소 권한이 있는 이정현 공소청장(법률상 직제는 검찰총장) 직무대행은 지난달 23일 “진상조사단 조사 결과를 살펴봐야 할 것 같다”고 말했다. 그의 이런 언급은 공소취소 가능성을 열어둔 것 아니냐는 해석을 낳았다. 지난 6월 발족한 검찰인권존중미래위원회는 검사들로 구성된 진상조사단을 통해 이 대통령 사건 등에서 검찰권 남용이 있었는지 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민노총 산하 노조간부 고공농성… 인도 막히고 경찰 24시간 대기</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/09/ED46HESSNJA3HCLGLR3WZMM6GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/09/ED46HESSNJA3HCLGLR3WZMM6GQ/</guid>
-      <dc:creator>정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXNKNOPQSNGUDKFQNYQ4Z4C2ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 중구 경향신문사 빌딩 외벽 10층 높이에서 민주노총 산하 공공운수노조 양규서 조직국장이 고공 농성을 벌이고 있다. /정동하 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총 산하 공공운수노조 양규서 조직국장이 서울 중구 정동 경향신문사 빌딩 외벽 10층 높이에서 고공 농성을 벌인 지 8일로 33일째를 맞았다. 양씨는 배우자가 직장 내 괴롭힘과 산업재해를 겪은 뒤 부당하게 해고된 것에 문제를 제기하다 자기도 16개월 정직 처분을 받았다고 주장한다. 양씨 아내는 공공운수노조 의료연대 서울지부에서 근무했다고 한다. 공공운수노조 측은 양씨 주장이 사실과 다르다고 맞서고 있다. 양측 대치가 장기화하면서 시민들은 농성 관련 시설물을 피해 다니느라 불편을 겪고 있다. &lt;br&gt;&lt;br&gt;경향신문 빌딩에는 민노총 본부 사무실이 있다. 양씨는 건물 상층부에 밧줄을 고정한 뒤 구조물을 매달아 놓고 농성 중이다. 양씨는 농성에 들어간 뒤로 내려오지 않고 있다고 한다. 동료들이 올려다준 음식으로 식사를 해결하고, 용변도 아래에 있는 동료에게 전달한다는 것이다. 농성 현장 바닥에는 대형 안전 에어매트가 깔렸고, 고가 사다리차가 배치됐다. 양씨가 추락할 것에 대비해 소방 당국이 설치했다. 경찰은 에어매트 주변에 펜스를 설치해 현장을 통제하고 있다. &lt;br&gt;&lt;br&gt;이 바람에 폭 약 3m인 인도는 한 사람이 겨우 지나갈 정도 공간만 남았다. 일부 시민은 이곳을 지날 때 차도로 내려가 걸었다. 시민 장모(33)씨는 “고공 농성 중인 양씨를 보면 위험해 보여 불안하고 다니기가 불편하다”고 했다. 인근 상인들도 영업에 지장이 있다며 경찰과 소방 등에 민원을 제기하고 있다. 농성 관련 시설물 때문에 가게 진입이 불편하고, 장기간 이어진 현장 통제로 손님 발길이 줄었다는 내용이다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국도 애를 먹고 있다. 경찰 정보관들은 24시간 현장에 상주하고 있다. 경찰 기동대도 근처에 대기하며 1명씩 24시간 교대 근무하며 주변을 통제하고 있다. 기동대원 하루 인건비만 단순 계산해도 약 30만원이 든다. 소방 당국도 돌발 상황에 대비해 2시간 간격으로 현장을 순찰하고 있다. 당국 관계자는 “농성이 장기화해 투입된 경찰관·소방관 피로가 쌓이고 있다”고 말했다.&lt;br&gt;&lt;br&gt;양씨와 공공운수노조는 물러설 기미가 없다. 공공운수노조 측은 양씨 아내가 제기한 직장 내 괴롭힘과 부당 해고 주장은 중앙노동위원회와 법원 등에서 인정되지 않았고, 양씨 징계도 다른 이유 때문이라는 입장이다. 양씨는 2023년 46일간, 지난달에는 이틀간 서울 강서구 공공운수노조 사무실이 있는 건물 옥상에서 농성한 전력이 있다. 이 때문에 경찰 주변에선 “양측 대치가 더 길어질 수 있다”는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UXNKNOPQSNGUDKFQNYQ4Z4C2ZU.jpg?auth=d11688821a7b219df92496ba5b913b22e91e621e3de9d01318d932b0250d5f03&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
-        <media:description type="plain">8일 서울 중구 경향신문사 빌딩 외벽 10층 높이에서 민주노총 산하 공공운수노조 양규서 조직국장이 고공 농성을 벌이고 있다. /정동하 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>친환경 빨대, 겉과 속이 달랐다</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/09/YHOYK64TZFD4HIJZV3ZBQ66XY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/09/YHOYK64TZFD4HIJZV3ZBQ66XY4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/464F72PFIZDZ5O4BK4VTHOAST4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장인 장모(30)씨는 지난해부터 커피를 마시러 카페에 갈 때 가급적 ‘생분해 플라스틱 빨대’나 ‘바이오PE(폴리에틸렌) 빨대’라고 적힌 빨대를 뽑아서 쓰고 있다. 종이 빨대로 음료를 마시면 금방 눅눅해져 쓰기 불편하고, 그렇다고해서 일반 플라스틱 빨대를 쓰기엔 환경이 걱정됐기 때문이다. 생분해 플라스틱 빨대는 폐기된 뒤에도 일정 조건 아래 미생물에 의해 분해될 수 있고, 바이오 PE 빨대는 사탕수수 등 식물에서 유래한 원료를 이용해 만들어진다. 장씨는 “카페나 음식점에 여러 소재 빨대가 있으면 그나마 환경에 부담을 덜 줄 것 같은 빨대를 고르는 편”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 생분해나 바이오PE 빨대도 일반 플라스틱 빨대보다 더 친환경적이라고 할 수 없는 것으로 나타났다. 일회용 빨대의 생산부터 폐기까지 전 과정을 조사해보니, 종이와 생분해성 등 대체 빨대 역시 환경에 적지 않은 부담을 주는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이는 기후에너지환경부가 한국전과정평가학회에 의뢰해 지난해 5월부터 올 4월까지 실시한 ‘일회용 빨대 종합 실태 조사’ 결과다. 8일 김위상 국민의힘 의원실을 통해 입수한 해당 용역 보고서에 따르면, 연구진은 일반 플라스틱(PP), 종이, 생분해 플라스틱, 바이오PE 등 4종을 분석했다. 특히 원료 생산부터 폐기 과정에 이르기까지 발생하는 온실가스 배출에 따른 기후변화 영향을 비롯해 자원 고갈, 미세먼지, 스모그, 인체 독성 등 16개 항목을 평가해 비교했다.&lt;br&gt;&lt;br&gt;그 결과, 일반 플라스틱 빨대는 기후변화·산성화·미세먼지·인체 독성 등 10개 항목에서 환경 영향이 가장 작았다. 사용한 빨대 대부분이 재활용되지 않고 소각되거나 매립되고 있는 현실을 반영해 분석한 것이다. 반면 바이오PE 빨대는 오존층 고갈·산성화·스모그 등 10개 항목에서 환경에 미치는 영향이 가장 컸다. 종이 빨대는 3개 항목(광물 자원 고갈·이온화 방사선 등), 생분해 플라스틱 빨대는 2개 항목(물 고갈·생태 독성)에서 환경에 미치는 영향이 가장 큰 것으로 조사됐다. &lt;br&gt;&lt;br&gt;실제로 식물성 원료를 사용하는 바이오PE는 화석연료 소비를 줄일 수 있다는 장점이 있지만, 사탕수수 등 작물을 재배하는 데 막대한 토지와 비료, 농약이 필요하다고 한다. 생분해 플라스틱 역시 원료 작물을 재배하고 가공하는 과정에서 환경에 좋지 않은 영향을 주는 것으로 나타났다. 하지만 일반 플라스틱 빨대는 제조 과정에서 투입되는 원료와 자원이 상대적으로 적어 환경에 주는 영향이 가장 작았다.&lt;br&gt;&lt;br&gt;또 빨대를 전량 소각하거나 전량 재활용한다고 가정했을 때에도 일반 플라스틱 빨대는 각각 8개와 11개 항목에서 환경에 미치는 영향이 가장 작았다고 한다. 다만 소재마다 유리하거나 불리한 항목이 달라 모든 16개 항목에서 환경 영향이 가장 적은 것으로 조사된 빨대는 없었다. 이상돈 이화여대 명예교수는 “친환경으로 알려진 제품도 생산이나 폐기 등 일부 단계에서만 친환경일 뿐, 전 과정으로 보면 그렇지 않을 수 있다”며 “환경 정책을 수립할 때 전 과정 평가를 일반화해 환경에 미치는 영향이 어느 정도인지 면밀히 따져야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이번 조사를 통해 빨대는 소재와 상관없이 사실상 재활용이 어렵다는 점도 확인됐다. 연구진이 한 재활용 선별장을 방문 조사한 결과, 빨대는 크기가 너무 작아 기계나 사람의 손으로 선별되지 않고 재활용할 수 없는 폐기물로 분류돼 소각되고 있었다. 종이 빨대도 마찬가지였다. 제품에 따라 코팅이나 접착제가 사용돼 재활용이 불가능한 경우가 많았다. 설령 재활용이 가능한 제품이더라도 이를 따로 분류하지 않아 플라스틱 빨대와 똑같이 소각되고 있는 것으로 나타났다. &lt;br&gt;&lt;br&gt;보고서는 “다른 일회용 빨대는 제외하고 플라스틱 빨대만을 전면 금지하는 조치는 적합하지 않다”고 제언했다. 대신 모든 종류의 일회용 빨대를 매장에 기본적으로 비치하지 않고, 소비자가 원할 때만 제공할 것을 권고했다. 어떤 소재가 더 친환경적인지 따지기보다 아예 빨대 없이 음료를 마시도록 유도해야 한다는 것이다. &lt;br&gt;&lt;br&gt;그동안 정부는 일회용 빨대 규제 정책을 두고 갈팡질팡해왔다. 2022년 11월 카페 등에서 플라스틱 빨대 사용을 제한하면서 종이 빨대 등으로 전환을 유도했지만, 1년 뒤인 2023년에는 ‘종이 빨대 사용감이 불편하고 가격이 비싸 소상공인이 부담을 느낀다’는 이유로 플라스틱 빨대 단속을 사실상 무기한 유예했다. 지난해 말에는 재질과 관계없이 소비자가 요청할 때만 빨대를 제공하도록 하겠다는 방침을 내놨다. 하지만 일부 카페·패스트푸드 업체와 자율 협약을 맺어 시행하고 있을 뿐 강제성은 없다. 김위상 의원은 “실효성 없는 대체재 도입에만 매달려 실패한 정책을 정부가 솔직히 인정하고 반복하지 말아야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LCKGR4AGYZAMNM6Q3MWANLQFBA.png?auth=ccf17b431f3a60c65b91c90597187d1db0fa10c51a96bce6ab8f3c13c5cbe4b5&amp;smart=true&amp;width=1972&amp;height=1109" type="image/png" height="1109" width="1972">
-        <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
     </item>
     <item>
@@ -882,19 +958,6 @@
       </media:content>
     </item>
     <item>
-      <title>“전주, 재정난 심각… 낭비성 예산부터 줄일 것”</title>
-      <link>https://www.chosun.com/national/regional/2026/10/09/N5666EPL5JBTNDHHHV76H4X6TE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/N5666EPL5JBTNDHHHV76H4X6TE/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7X2TBAG6BDH3BTD5PBGL6HXPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지훈 전주시장. /전주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지훈(58) 전북 전주시장은 8일 본지 인터뷰에서 “지금 전주는 공무원 성과상여금 지급을 미룰 정도로 재정난이 심각하다”며 “과도한 토목 사업과 낭비성 예산부터 줄이겠다”고 했다. 전주는 올해 말 지방채 잔액이 6841억원에 이를 전망이다. 올 상반기 공무원 성과상여금 40억원도 내년 1월로 지급을 미뤘다. 전주시의회는 지난달 재정난 등을 이유로 ‘동학농민혁명 참여자 유족 수당’ 예산 1억1214만원을 전액 삭감했다. &lt;br&gt;&lt;br&gt;조 시장은 전주시의회 의장과 전북경제통상진흥원장을 지냈다. 지난 6·3 전주시장 선거에서 더불어민주당 후보로 당선됐다.&lt;br&gt;&lt;br&gt;-재정난이 얼마나 심각한가.&lt;br&gt;&lt;br&gt;“현재 전주의 채무 비율은 22.5%로 행정안전부가 정한 위험 기준인 25%에 근접했다. 흐름을 바꾸지 않으면 2~3년 뒤엔 신규 사업을 못 하게 된다.”&lt;br&gt;&lt;br&gt;-왜 이렇게 나빠졌나.&lt;br&gt;&lt;br&gt;“지방세 등 세입은 줄어드는데 복지 등 의무 경비는 늘어나고 있다. 대규모 개발 사업까지 한꺼번에 추진하면서 지방채 부담이 커졌다. 그동안 사업의 우선순위를 제대로 따지지 못했던 것 같다.”&lt;br&gt;&lt;br&gt;-타개책은 있나.&lt;br&gt;&lt;br&gt;“재정혁신특별위원회를 가동해 시 예산 전반에 메스를 대고 있다. 뼈를 깎는 구조 조정이 불가피하다. 임기 말까지 채무 비율을 20% 이하로 낮추겠다.”&lt;br&gt;&lt;br&gt;-구조조정할 사업은.&lt;br&gt;&lt;br&gt;“종합경기장 마이스(전시·컨벤션) 복합 개발 사업은 속도를 내되 과도한 설계를 줄이겠다. 전주 야구장도 프로 구단을 유치하기보다 생활 체육 구장으로 짓겠다. 아낀 재원은 시민의 경제적 생존권, 저출산 극복, 구도심 활성화에 우선 투입하겠다. 동학 수당은 내년에 다시 편성하겠다.”&lt;br&gt;&lt;br&gt;-동학 수당은 왜 다시 편성하나.&lt;br&gt;&lt;br&gt;“동학 수당은 단순한 현금성 복지가 아니다. 국가와 지역을 위해 희생한 분들의 후손을 예우하고, 동학농민혁명의 정신을 계승하는 사업이다. 전주에는 후손도 많이 살고 있다. 재정이 어렵다고 역사적 책무까지 외면할 수는 없다.”&lt;br&gt;&lt;br&gt;-완주와 통합은 쉽지 않아 보인다.&lt;br&gt;&lt;br&gt;“완주군민이 갖고 있는 ‘흡수 통합’ 우려를 씻어내야 한다. 경제·문화 분야부터 협력해 통합의 실익을 체감하게 하려고 한다. 최근 정부 공모 사업에 전주와 완주가 함께 뛰어들고 있다. 실익이 입증되면 공감대가 자연스럽게 형성될 것이다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/F7X2TBAG6BDH3BTD5PBGL6HXPU.jpg?auth=d1a965781e1aa4a0e27dbdeafa268132ddb710ea5efe253085ccbb0bbcd1a65e&amp;smart=true&amp;width=2703&amp;height=1520" type="image/jpeg" height="1520" width="2703">
-        <media:description type="plain">조지훈 전주시장. /전주시</media:description>
-        <media:credit role="author" scheme="urn:ebu">김정엽 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>부산역 앞 살아나고, 부산대 앞 쇠락하고… 5년 만에 엇갈린 희비</title>
       <link>https://www.chosun.com/national/regional/2026/10/09/ME7VII6OK5CFFLF5ZN72HBCW2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/09/ME7VII6OK5CFFLF5ZN72HBCW2E/</guid>
@@ -907,33 +970,6 @@
       </media:content>
     </item>
     <item>
-      <title>[오늘의 날씨] 2026년 10월 9일</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/09/5AJ3LQYDWFCVVIKHJUE3SQT3T4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/09/5AJ3LQYDWFCVVIKHJUE3SQT3T4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:41:00 +0000</pubDate>
-      <content:encoded>최저기온 7도 ‘쌀쌀한 아침’ 일교차 주의&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPDTZCWM4BEJRCYXDUKYKHUWWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 한겨레신문사</title>
-      <link>https://www.chosun.com/national/people/2026/10/09/DLW43R546VD47CCQNTS5VCPUJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/10/09/DLW43R546VD47CCQNTS5VCPUJI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;한겨레신문사&lt;/b&gt;▷전략기획실 미래전략부장 임지선▷사업국 콘텐츠사업부 콘텐츠사업팀장 박희수&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송인준 前 헌법재판관 별세</title>
-      <link>https://www.chosun.com/national/people/2026/10/09/6R4UIZW72ZBTBEFUCOYCF3POWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/10/09/6R4UIZW72ZBTBEFUCOYCF3POWU/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IOC57ZSXRHCZJ272QTZWZFJAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송인준(82) 전 헌법재판관이 지난 7일 별세했다. 송 전 재판관은 대전 출신으로 대전고와 서울대 법대를 졸업하고, 제10회 사법시험에 합격했다. 1974년 검사 생활을 시작해 대검찰청 강력부장, 대전지검장, 창원지검장, 대구고검장 등을 역임했다. 2000년부터 2006년까지 헌법재판소 재판관을 지내면서 노무현 전 대통령 탄핵 심판 기각, 신행정수도 특별법 위헌 결정 등에 참여했다. 헌법재판관 퇴임 후 2007년부터 2023년까지 아시아투데이 회장을 지냈고, 2015년부터 2017년까지는 학교법인 성신학원 이사장을 맡았다. 유족으로는 부인 오영순씨, 아들 한승씨, 딸 윤진·민진·의진씨, 며느리 박현지씨, 사위 김명진씨가 있다. 빈소는 서울아산병원 장례식장. 발인은 10일 8시. (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘김승원 신약 청탁’ 수사했던 前 검사들 “기록 유출 없다”</title>
       <link>https://www.chosun.com/national/court_law/2026/10/08/H2Y6IENJWVBNJFI4RZZAWBIKBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/H2Y6IENJWVBNJFI4RZZAWBIKBY/</guid>
@@ -941,27 +977,6 @@
       <description/>
       <pubDate>Thu, 08 Oct 2026 12:39:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7ELE7UWBRM2TOVANAC7SFQYHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김승원 더불어민주당 의원(전 법무부 장관 후보자)의 '신약 로비' 의혹을 수사했던 김정훈(왼쪽부터), 신동원, 김종욱 변호사가 8일 서울 여의도 국회에서 열린 법제사법위원회의 법무부 등에 대한 국정감사에 증인으로 출석해 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 더불어민주당 의원(전 법무부 장관 후보자)의 ‘신약 로비’ 의혹을 수사했던 전직 검사들이 8일 김 의원에 대한 기소계획서 등 검찰 내부 문서를 유출하지 않았다고 했다.&lt;br&gt;&lt;br&gt;신동원·김정훈·김종욱 변호사는 이날 국회 법제사법위원회의 법무부 등에 대한 국정감사에서 ‘김승원 의원 사건 수사 기록을 (퇴임하면서) 갖고 나온 적이 있느냐’는 더불어민주당 김의겸 의원의 질문에 “그런 적이 없다”고 답했다. 신 변호사 등은 수사기록 유출 의혹과 관련해 경찰 등 수사기관에서 연락을 받은 적이 있냐는 김의겸 의원의 질문에도 “없다”고 답했다.&lt;br&gt;&lt;br&gt;신 변호사 등은 2022~2024년 김 의원의 코로나19 신약 로비 청탁 의혹을 수사했던 서울서부지검의 담당 부당검사 또는 차장검사였다. 당시 김승원 의원은 2021년 자신을 ‘오빠’라고 부를 정도로 친분이 두터웠던 브로커 양모씨의 청탁을 받고 김강립 당시 식품의약품안전처장에게 제약사 제넨셀의 코로나19 치료제의 임상시험 승인 시험을 신속하게 해 달라고 요청한 혐의로 입건됐다. 검찰은 김 의원이 양씨 청탁을 들어주는 대가로 제넨셀 대표 강모씨에게서 정치후원금 500만원을 받으려 했지만, 실제 돈은 전달되지 않은 점 등을 고려해 2024년 12월 김승원 의원을 기소유예 처분했다.&lt;br&gt;&lt;br&gt;그러나 이 사건은 김승원 의원이 지난 8월 말 법무부 장관 후보자로 지명되면서 다시 불거졌다. 한동훈 무소속 의원은 지난달 4일 페이스북에 “서울서부지검은 2024년 8월 김 후보자를 알선뇌물 혐의로 소환 조사한 후, 대검찰청과 법무부에 김 후보자를 기소해 징역 8개월을 구형하겠다는 기소 계획 문서를 전달했다”면서 “누가 김승원 기소와 징역 구형을 막았냐”고 했다. 김승원 의원은 신약 청탁 의혹 등으로 장관 후보자직에서 사퇴했지만, 민주당에서는 “검찰 내부 문서인 기소 계획서를 한 의원이 어떻게 입수했냐” “공무상 비밀 누설 혐의를 받는 한 의원을 수사해야 한다”고 주장했다. 김의겸 의원도 “불법 수사 기록 유출과 표적 수사의 진실을 법사위 간사로서 끝까지 밝혀내겠다”고 했다.&lt;br&gt;&lt;br&gt;김의겸 의원은 이날 신 변호사 등이 법무부 장관 출신인 한 의원과 인연이 있다며 “지금도 친분이나 교류가 있냐”고 물었지만 이들은 “그렇지 않다”고 답했다.&lt;br&gt;&lt;br&gt;반면 한 의원은 검찰 수사 기록 유출과 관련해 지난달 13일 “검찰에서 수사 자료를 받지 않았다”면서도 “받았어도 문제가 안 되고 충분히 (공익 제보자를) 보호해야 할 가치가 있다”고 했다. 김의겸 의원에 대해서도 “민주당이 한동훈에 대한 복수를 다짐하는 입장을 냈다”면서 “그 복수 잘 해보라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김승원 브로커’ 양씨, 한동훈 고소 “명예 훼손”</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/08/UC2RKLQ4TNGLNGFE6IDGYZJ46Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/08/UC2RKLQ4TNGLNGFE6IDGYZJ46Q/</guid>
-      <dc:creator>윤성은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 12:51:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2X37VZKRLBOSRLMZ2RMIIVWKIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'코로나19 신약 임상시험 승인 청탁 의혹' 뇌물공여약속 등 혐의를 받고 있는 양모씨가 15일 서울 서부지방법원에서 열린 공판에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZGMZRQGZSWMMLCGYYWENLEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 무소속 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김승원 전 법무부 장관 후보에게 코로나 신약 임상시험 승인을 청탁한 ‘브로커’로 알려진 양모씨가 한동훈 무소속 의원을 명예훼손 등 혐의로 고소했다. &lt;br&gt;&lt;br&gt;양씨 측 변호인은 8일 한 의원을 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손)과 통신비밀보호법 위반, 공무상비밀누설 교사 등 혐의로 서울 영등포경찰서에 고소했다고 밝혔다. &lt;br&gt;&lt;br&gt;양씨 측은 한 의원이 지난 9월 자신의 페이스북 계정에 양씨를 ‘룸살롱 여동생 브로커’, ‘강남 유흥주점 마담 출신’, ‘술집 마담 출신’ 등 양씨에 대한 허위 명예훼손 표현을 여러 차례 게시했다고 주장했다. “양씨는 업소 종업원이나 마담이 아닌 사업주였다”고도 했다. &lt;br&gt;&lt;br&gt;또 한 의원이 김 전 후보와 양씨의 사적 통화 녹취와 문자메시지를 반복적으로 게시한 것, 서울서부지검의 김승원 관련 기소 계획 문서 자료를 공개한 것이 통신비밀보호법 위반 및 공무상 비밀누설교사에 해당한다고 주장했다. 양씨 측은 “한 의원이 이러한 녹취물을 취득한 경위와 수사기관 내부 유출 여부 등에 대한 철저한 수사가 필요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“李에 화 많이 났다”던 이화영, 이번엔 “대통령님 고뇌 공감”</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/ZUOHJQ4RQBAJXNB7XJPDTIVOIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/ZUOHJQ4RQBAJXNB7XJPDTIVOIY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 09:14:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYTIZDBGYYGEYTGGFSWCYRTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화영 전 경기도 평화부지사가 8일 “‘이재명 대통령에게 화가 많이 났다’는 것은 저의 진의와 다른 부분이 있다”고 했다. 이 전 부지사 변호인인 김광민 변호사는 전날(7일) 본지 등 언론과의 통화에서 “이 전 부지사가 계속 방치돼 화가 많이 나 있다” “이 전 부지사를 가석방해 달라고 이 대통령과 청와대에 요구하고 있다”고 했다. 그런데 이 전 부지사가 하루 만에 자신의 뜻이 잘못 전달됐다며 한발 물러선 것이다. 그는 “이 대통령에게 공감한다”고도 했다.&lt;br&gt;&lt;br&gt;이 전 부지사측은 이날 이 전 부지사가 구치소에서 직접 쓴 것으로 보이는 2쪽 분량의 입장문을 한 언론을 통해 공개했다. 이 전 부지사는 “제 변호인이 저의 오랜 수형 생활을 지켜보고서 안타까운 마음을 토로한 모양”이라면서도 “저의 진의와 다른 부분이 있어 정정하려고 한다”고 했다.&lt;br&gt;&lt;br&gt;이 전 부지사는 “쌍방울 대북 송금에 관한 수원지검의 조작이 국회의 국정조사 등을 통해 상당 부분 드러났음에도, 그에 대한 진상 규명이 진행되지 않고 있고 지체되는 게 답답하고 억울하다”면서 “조작된 누명으로 저와 마찬가지의 고통을 받고 계실 대통령님의 고뇌도 공감한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 이 전 부지사는 자신을 기소한 수원지검 검사들을 처벌해야 한다고 주장했다. 이 전 부지사는 “대북 송금도, 뇌물죄도 조작됐다”면서 “(조작기소) 특검이 신속하게 처벌할 수 있도록 국민 여러분께 부탁드린다”고 했다. &lt;br&gt;&lt;br&gt;이 전 부지사는 법원도 비판했다. 그는 “대북 송금 사건은 검찰이 조작했지만, 그 조작을 완성한 자는 법원”이라면서 “검찰 개혁의 다음 단계는 법원 개혁이라는 점을 강조한다”고 했다. &lt;br&gt;&lt;br&gt;이 전 부지사는 작년 6월 자신의 불법 대북 송금 혐의에 대해 징역 7년 8개월 형을 확정한 법원에 대해 “변호인이 제시한 무죄 증거를 배척한 독단적 판결”이라면서 “이 같은 독단적 법관들이 편향적 대법원장에 의해 고위 법관으로 임명되고 있는 것이 현실”이라고 주장했다.&lt;br&gt;&lt;br&gt;이어 이 전 부지사는 “저의 희생을 헛되게 하지 말고, 제 사건으로 드러난 검찰과 법원의 부조리를 직시해달라”면서 “해방 이후 단 한 번도 비판받지도 탄핵받지도 않았던 법원의 권력을 혁파하는 데 저를 불쏘시개로 삼아주기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GQ4WEYJYGNTDEMJQMQ3TKNBRHE.jpg?auth=a8e99f158868902d01fc3ce8820cf53a4b9caaecf9c61d086a551b0a49422f24&amp;smart=true&amp;width=5000&amp;height=3333" type="image/jpeg" height="3333" width="5000">
-        <media:description type="plain">이화영 전 경기도 평화부지사. /뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>잠수교, 50년 만에 차 없는 다리로…26일부터 차량 통제</title>
@@ -993,27 +1008,6 @@
         <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 곽규택 국민의힘 의원을 비롯한 소속 의원들이 6일 서울 여의도 국회에서 열린 국회 법제사법위원회의 대법원 등 국정감사에서 서영교 위원장의 회의 진행방식에 대해 항의하고 있다. 2026.10.06. jhope@newsis.com</media:description>
         <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>10명 중 7명 AI서 위로받아… 정부 ‘'사람처럼 의존 안돼" 가이드라인 발표</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/08/LOOL3CJ37BB5VH2CFFELZCKFFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/08/LOOL3CJ37BB5VH2CFFELZCKFFU/</guid>
-      <dc:creator>김지원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 08:11:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AT34NIICKRFKNCZUSPEO6KGROA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/AI 생성 이미지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생성형 인공지능(AI) 이용자 10명 중 7명은 고민을 털어놓거나 위로를 받는 등 정서적 목적으로 AI를 사용하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;8일 보건복지부가 공개한 한국보건사회연구원 설문조사 결과에 따르면, 최근 한 달 내 생성형 AI를 이용한 15~79세 1019명 가운데 68.8%가 일상적 대화나 감정적 교감·위로, 정신 건강 상담 등 정서적 목적으로 AI를 이용한다고 답했다. AI의 답변이나 조언으로 도움을 받거나 문제를 해결한 경험이 있는 응답자는 79.9%였다. ‘AI 조언을 바탕으로 퇴사·이별 등 중요한 결정을 내린 경험이 있다’고 답한 비율도 10.6%였다. &lt;br&gt;&lt;br&gt;AI의 답변을 의학적 진단처럼 받아들이는 경우도 적지 않았다. 응답자의 14.6%는 AI와 대화한 뒤 자신에게 우울증·불안장애 등 특정 정신 질환이 있다고 스스로 판단하거나, AI 답변을 의학적 진단처럼 받아들였다고 했다. AI가 사실이 아니거나 해로운 조언을 확신에 찬 말투로 해 전문가처럼 착각한 경험이 있다는 응답도 16.5%였다. &lt;br&gt;&lt;br&gt;이에 정부는 대한신경정신의학회와 함께 이날 AI 과의존과 부작용을 예방하기 위한 ‘정신 건강 목적 생성형 AI 이용 가이드라인’을 발표했다. AI를 실제 사람처럼 여기며 의존하거나, 전문적인 정신과 진료·상담을 대신하는 수단으로 활용해서는 안 된다는 것이 핵심이다. AI 답변만 믿고 약의 용량을 바꾸거나 복용을 중단해서는 안 되고, 이름·주소·연락처와 개인 정보가 담긴 진단서·처방전·검사 결과지는 입력하지 말라는 내용 등이 담겼다. 또 중요한 정보는 정부·학회 자료나 전문가를 통해 다시 확인하고, 대화를 시작하기 전에는 무엇을 어디까지 이야기하고 언제 끝낼지 미리 정하도록 안내했다.&lt;br&gt;&lt;br&gt;특히 이번 설문조사에서 15~18세 청소년의 절반 이상(51.7%)이 AI에 의존적이라고 답해 전체 연령대 중 가장 높은 비율을 보였다. 정부는 청소년에게는 AI 캐릭터를 실제 친구나 연인처럼 여기고 있지 않은지 점검하고, 고민을 AI에만 털어놓고 있다면 가까운 사람에게도 이야기하라고 권고했다. 보호자에게는 AI 이용을 무조건 금지하기보다 아이가 어떤 목적으로 어떻게 이용하는지 먼저 듣고, 이용 목적·시간·방식에 관한 규칙을 함께 정하도록 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AT34NIICKRFKNCZUSPEO6KGROA.png?auth=f4bc828f61bb6004c62faa63956376d3973d58a31cf68d115d6c84c6c41fd8b4&amp;smart=true&amp;width=1536&amp;height=1024" type="image/png" height="1024" width="1536">
-        <media:description type="plain">/AI 생성 이미지</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>법무부 장관 대행 “이화영, 가석방 검토 대상 아냐…문의 받은 적도 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/DJZY5WTUS5DNJAHLJYKO4NMUFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/DJZY5WTUS5DNJAHLJYKO4NMUFM/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 04:00:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6VF7B7T4JO5PJEHTM33VHT64U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 법무부 장관 직무대행(차관)이 8일 국회 법제사법위원회에서 국정감사에서 의원 질의에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’ 사건으로 유죄가 확정돼 복역 중인 이화영 전 경기도 평화부지사 측이 이재명 대통령에게 가석방을 요구한 것과 관련해 이진수 법무부 장관 직무대행이 8일 “이 전 부지사는 가석방 검토 대상이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;이날 이 대행은 국회 법제사법위원회 법무부 국정감사에 출석해 “대통령실이나 여권 관계자들로부터 이 전 부지사 가석방에 대해 문의받은 적 있냐”는 윤상현 국민의힘 의원 질의에 “없다”고 답했다. 그러면서 “이 전 부지사는 요건상 가석방 검토 대상이 아니다”라고 했다. 이 전 부지사 측은 지난 7일 이재명 대통령에게 공개적으로 이 전 부지사의 가석방을 요구했다. 공범 관계로 기소된 이 대통령에게 가석방을 해달라고 압박하고 나온 것이다.&lt;br&gt;&lt;br&gt;이 전 부지사는 뇌물 혐의 등으로 2022년 10월 구속 기소됐다. 이어 이 대통령이 경기지사였던 2019년 ‘북한 스마트팜 개선’ 사업비 500만달러와 이 대통령 방북 비용 300만달러 등 총 800만달러를 김성태 전 쌍방울 회장이 대신 내게 한 혐의 등으로 이듬해 3월 추가 기소됐다. 작년 6월 대법원에서 징역 7년 8개월 형이 확정됐다. 이와 관련해 이 대통령도 제3자 뇌물수수 등의 혐의로 2024년 6월 기소됐으나 작년 6월 대통령 취임 후 재판이 중지됐다.&lt;br&gt;&lt;br&gt;“가석방 요건은 언제쯤 충족되냐”는 주진우 국민의힘 의원 질의에 이 대행은 “두 개의 형이기 때문에 실무적인 문제가 있다”며 “대략 언제쯤이 될 지는 산정하지 못했다”고 했다. 이 전 부지사는 대법원에서 유죄로 확정된 혐의와 별개로 국회증언감정법 위반 혐의로도 기소돼 지난 6월 1심에서 징역 4개월을 선고받았다. 가석방은 법적으로 형기의 3분의 1이 지나면 대상이 된다. 그러나 이 전 부지사의 경우 검찰(현 공소청) 측 항소로 향후 재판에서 형기가 늘어날 가능성이 있는 만큼, 가석방 요건 충족 여부를 섣불리 판단할 수 없다는 취지로 해석된다.&lt;br&gt;&lt;br&gt;더불어민주당 등 여권은 ‘쌍방울 불법 대북 송금’ 사건 기소가 검찰의 조작 수사에 의한 것이었다고 주장 중이다. 이 대행은 “법무부에서 보기에 ‘조작 기소’였다고 할 만한 부분이 있냐”는 윤 의원 질의에 “검찰인권존중미래위원회에서 조사를 진행 중이고, 독립적으로 진행돼 (조사 진행 상황을) 모른다”이라며 답변을 피했다. 검찰미래위는 이 대통령이 연루되거나 기소된 사건을 검찰이 수사하는 과정에서 검찰권을 남용했는지 조사하기 위해 지난 6월 출범했다. 검찰미래위 산하 진상조사단은 쌍방울 불법 대북 송금 사건, 대장동 개발 비리 사건 등 1심 재판이 중단된 이 대통령 관련 사건 6건 등을 조사 중이다.&lt;br&gt;&lt;br&gt;김성동 공소청 감찰부장이 검찰미래위의 진상조사는 위법 소지가 있다고 공개적으로 비판한 데 대해 이 대행은 “검찰미래위 설치 과정이나 진상조사단 운영 과정에서 검찰총장이나 검사의 독립성을 침해한 사실이 전혀 없다”고 했다. 이어 “공소청 간부가 내부적으로 의견을 개진하는 게 아니라 내부 게시판에 글을 쓰고 언론에 보도되도록 하는 것은 부적절하다”며 “(김 부장이) 감찰 대상인지는 검토가 필요하다”고 덧붙였다. 김 부장은 지난 2일 공소청 내부망 이프로스에 올린 글에서 “진상조사단을 검찰총장이 지휘할 수 없게 한 것은 옛 검찰청법(현 공소청법) 위반”이라는 취지로 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
