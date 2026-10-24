@@ -13,6 +13,30 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이틀간 자취 감췄던 ‘부캉이’, 부산항서 다시 포착…“활동영역 넓히는 중”</title>
+      <link>https://www.chosun.com/national/regional/2026/10/24/EVGVAZZMX5GIXBIPRPN43O6BVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/24/EVGVAZZMX5GIXBIPRPN43O6BVM/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 08:58:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRWKMDBGU4DCNDDHAZGKYLGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오전 부산 북항 친수공원 폰툰 안쪽 인공수로에서 흑상어 '부캉이'가 유영하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 북항 친수공원 인공수로를 벗어난 뒤 모습을 감췄던 상어 ‘부캉이’가 24일 부산항 국제여객터미널 인근에서 다시 발견됐다. 마지막 목격 지점에서 약 2㎞ 떨어진 곳으로, 건강에는 이상이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;국립수산과학원은 이날 낮부터 오후 3시까지 현장을 관찰한 결과, 부캉이가 국제여객터미널 부근 항만 안에서 헤엄치는 모습을 확인했다. 이 곳은 일반인의 접근이 제한되는 항만 시설 주변으로, 인공 수로에서 2㎞ 더 떨어진 지점이다. &lt;br&gt;&lt;br&gt;김현우 수산과학원 연구관은 “수로 인근에서만 활동하던 부캉이가 외해 방향으로 진출한 모습이 확인됐다”며 “점점 활동 영역을 넓혀가는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;부캉이는 지난 22일 외해 유도 작업이 마무리된 뒤 인공 수로를 빠져나왔다. 이후 23일 오전까지 북항 1부두 인근에서 목격됐지만, 이날 오전까지 모습을 드러내지 않았다. 이 때문에 깊은 물속에서 헤엄치고 있거나 외해로 이동했을 가능성이 제기됐다.&lt;br&gt;&lt;br&gt;부캉이는 지난달 18일 북항 친수공원 인공수로에서 처음 발견된 흑상어다. 한 달 넘게 수로에 머물며 화제를 모았고, 방문객 집계를 시작한 지난달 19일부터 이달 23일까지 약 172만명이 공원을 찾았다.&lt;br&gt;&lt;br&gt;수산과학원은 부캉이가 수심이 깊은 곳으로 이동한 뒤 항만 벽면을 따라 국제여객터미널 부근까지 온 것으로 보고 있다. 이날 관찰에서는 정상적으로 헤엄쳤고, 별다른 외상도 발견되지 않았다고 설명했다.&lt;br&gt;&lt;br&gt;김 연구관은 “지난 22일까지도 인공 수로 근처에서만 발견됐던 부캉이가 활동 반경을 넓히며 새 환경에 적응하고 있는 것으로 보인다”며 “이런 적응 과정을 거쳐 외해로 나갈 것으로 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F64Z4YXFBRDYRAQOP7UFH5QSSE.JPG?auth=3c7336b5187605fe4106e79fd85b8240bc51e0890a4e37817dd351448360635e&amp;smart=true&amp;width=3980&amp;height=2239" type="image/jpeg" height="2239" width="3980">
+        <media:description type="plain">지난 22일 오전 부산 북항 친수공원 폰툰 안쪽 인공수로에서 상어 '부캉이'가 유영하고 있다. 2026.10.22 ⓒ 뉴스1 임순택 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 10월 25일 일요일 (음력 9월 15일 壬申)</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/24/JFTFLHFBBJCI5A4EDTQQCMUHVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/24/JFTFLHFBBJCI5A4EDTQQCMUHVU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>고속도로 사고 현장 출동한 경찰, 화물차 치여 중상</title>
       <link>https://www.chosun.com/national/incident/2026/10/24/FDLWOTPX3BH6JBCOEZZ3HTTMEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/24/FDLWOTPX3BH6JBCOEZZ3HTTMEA/</guid>
@@ -848,19 +872,6 @@
       <content:encoded>이정현 공소청 검찰총장 직무대행은 22일 국회 법제사법위원회 국정감사에 출석해 이재명 대통령이 기소된 형사 사건과 관련해 “공소취소를 검토한 바 없다”고 밝혔다. 검찰총장 직무대행에 취임한 직후 공소취소 가능성을 내비친 데 대해선 “원론적 입장을 밝힌 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 공소청 본청(옛 대검찰청) 국정감사에서는 이 대통령 사건 공소취소와 중대범죄수사청장 등 수사기관 수장들이 국무회의에 참석하는 문제 등을 두고 여야가 치열하게 맞섰다. 국민의힘은 “대통령이 수사기관장들을 국무회의에 불러 공소취소를 압박하는 것 아니냐”고 했고, 더불어민주당은 “근거 없는 정치 공세”라고 맞섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5WII3QDYNHYTE2CMBA77VJ2OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국감서 발언하는 이정현 공소청 수장  22일 국회에서 공소청에 대한 법제사법위원회 국정감사가 열렸다. 이정현 공소청 검찰총장 직무대행이 업무 보고를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“공소취소 검토한 바도, 다른 의도도 없어”&lt;/b&gt;&lt;br&gt;&lt;br&gt;국민의힘 곽규택 의원은 “(법무부 검찰인권존중미래위원회 산하) 진상조사단이 이 대통령 사건 중 항소심에 가 있는 사건은 조사하지 않고 1심에 있는 것만 문제 삼고 있다”며 “이 대행이 출근 첫날(9월 23일) ‘진상조사단 결과를 지켜보겠다’고 한 것은 불법적인 진상조사를 가지고 대통령 사건의 공소를 취소하려는 것이냐”고 물었다. 이에 이 대행은 “진상 조사가 진행 중이어서 그 결과를 지켜보겠다는 원론적 입장을 밝힌 것이다. 제가 어떻게 감히 가정적 상황을 전제해서 (공소취소를) 한다 안 한다 말할 수 있겠느냐”면서 “극히 원론적 입장 표명이었고, 검토한 바도 없고 다른 의도가 일체 개입돼있지 않았다”고 답했다.&lt;br&gt;&lt;br&gt;이 대행은 민주당 김한규 의원이 “(야당의) 공소취소 의혹 제기가 근거 없는 정치 공세라고 생각한다. 대통령이나 법무부로부터 대통령 사건이나 문재인 정부 사건의 공소취소를 검토해 보라는 요청을 받은 적이 있냐”고 묻자, “없다”고 답했다. 이 대행은 “(대통령) 관련 수사·공판에 관여하는 공소청장에게 공소취소를 검토하라고 지시한 적이 있냐”는 물음에는 “공소취소의 ‘공’자도 지시한 적 없다”고 했다. 그러면서 이 대행은 “(공소취소가 이뤄지더라도) 새로운 증거가 나오면 다시 기소할 수 있다”고 덧붙였다. 다만 김 의원이 “(대통령이) 그런 요청(공소취소)을 하면 응할 것이냐”고 묻자, 이 대행은 “원칙을 가지고 철저하게 사건을 처리하게 하겠다”며 즉답을 피했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“文 전 대통령 사건, 뼈를 발라내는 수사”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰총장 대행이 국무회의에 참석한 것을 두고 여야 간에 공방도 벌어졌다. 곽규택 의원은 앞서 이 대통령이 국무회의에 참석한 구자현 전 검찰총장 직무대행에게 “(검찰이) 잘못하면 사과하고 취소하는 것”이라고 했던 발언을 거론하며 “(대통령이) 국무회의에서 수사기관장들에게 (공소취소를) 계속 압박하는 모습을 보이는 것이 굉장히 부적절하다”고 했다. 반면 김한규 의원은 “국무회의 참석이 본질이 아니다. 지시를 하려면 개별적으로 불러서 불법적인 지시를 할 수도 있는 것 아니냐”고 했다. &lt;br&gt;&lt;br&gt;이 대행은 작년 4월 검찰이 문재인 전 대통령을 뇌물 수수 혐의로 기소한 것과 관련해 무리한 수사라고 했다. 민주당 이성윤 의원은 “검사가 (문 전 대통령) 전 사위의 70대 노모에게 19차례 문자와 전화를 하고 목욕탕까지 찾아가서 ‘사돈을 감싸려다가 큰일 난다’고 협박한 건 스토킹 행위다. 딸의 이메일이 들어 있을지 모른다는 이유로 어린 손자의 아이패드도 압수했다”며 “정상적인 수사냐”고 물었다. 이에 이 대행은 “뼈를 발라내는 수사가 아닌가 싶다”고 했다. 국민의힘 주진우 의원이 “문 전 대통령 사건은 지금 1심 진행 중인데 공소 유지하는 검사에게 가이드라인을 주는 것이냐”고 하자, 이 대행은 “(무리한 수사가) 지양돼야 한다는 차원에서 말한 것”이라고 했다. 주 의원이 “이재명 대통령 사건은 뼈를 발라내는 수사냐”고 다시 묻자, 이 대행은 “재판 중이라 더는 말하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 김민전 의원은 “윤석열 검찰총장 시절 그의 측근을 제거하기 위해 이 대행이 특정 사건 수사에 관여한 것은 정치 검사 행태가 아니냐”고 물었다. 이 대행이 2020년 서울중앙지검 1차장으로 있을 때 무소속 한동훈 의원이 연루된 이른바 ‘채널A 사건’ 수사를 지휘한 것과 관련한 질문이었다. 이에 이 대행은 “정치 검사라는 말에 전혀 동의할 수가 없다”면서 “지금까지 검사 생활 해오는 동안 흑(黑)을 흑이라고 생각했고 백(白)을 백이라고 생각했을 뿐, 흑을 백이라고 업무 처리한 적은 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>北서 방수포 천막집에 살던 탈북 여성… 南서 물 새는 집 고쳐주는 ‘대표님’ 됐다</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/QZLS5GOQTNE73NC64L5CXU4RLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/QZLS5GOQTNE73NC64L5CXU4RLY/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YLX4AZ2JRBY5D7HNDGIRYYFEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 경기 안양시 새중앙교회에서 열린 ‘통일벤처스 탈북민 창업경진대회’에서 박미경(35) 누수엔지니어링 대표가 발표하고 있다. /사단법인 더 브릿지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“쭉 북한에 살았다면 아이 업고 시장통에서 꽈배기나 팔고 있지 않았을까요?”&lt;br&gt;&lt;br&gt;지난 17일 경기 안양시 새중앙교회에서 열린 한 탈북민 창업가 행사. 박미경(35) 누수엔지니어링 대표가 발표를 마친 뒤 이렇게 말하자 청중 사이에서 박수가 나왔다. “대한민국이 아니었으면 어엿한 기업 대표라는 꿈을 누릴 수 없었을 거예요.” 자신을 ‘북한산(産)’이라고 소개한 사회자는 이 말에 “한국의 자유가 우리를 새 사람으로 만들었다”고 했다.&lt;br&gt;&lt;br&gt;이날 행사는 ‘통일벤처스 탈북민 창업경진대회’. 13년간 탈북민 창업가 150여 명을 도운 사단법인 더 브릿지가 주관했다. 더 브릿지는 창업 자금을 대주고, 자립하면 그 돈을 다시 기부받는 ‘임팩트 기부’ 방식으로 탈북민을 돕는다. 서류 심사를 거친 탈북민 10팀이 각자 사업을 발표했다.&lt;br&gt;&lt;br&gt;‘꽈배기’ 발언으로 눈길을 끈 박 대표는 함경북도에서 태어났다. 군인인 아버지를 따라 이사를 자주 다녔다. 고교 졸업 후 병원과 신발 공장에서 일했다. 탈북을 마음먹은 건 2011년, 양강도 혜산에 살던 때다. 그해 홍수로 집이 쓸려갔다. 집을 다시 지어주러 군인들이 왔지만 시멘트같은 자재를 빼돌려 팔아먹는 바람에 이듬해까지 집은 지어지지 않았다고 한다.&lt;br&gt;&lt;br&gt;박 대표는 “우리 가족은 집터에 방수포를 쳐 놓고 텐트 생활을 했다”고 했다. 그는 “여기서 살면 이렇게 바보 취급을 당하는구나 싶었다”며 “가다 죽더라도 좋으니 탈북을 마음먹었다”고 했다. 박 대표는 2013년 홀로 탈북해 중국에서 5년을 살다 2018년 한국에 들어왔다. 한국에선 친구 소개로 한 달 먼저 온 함경도 출신 탈북자를 만났다. 지금 박 대표의 남편이다.&lt;br&gt;&lt;br&gt;한국에 들어온 뒤 박 대표는 간호조무사·피부관리사 등 닥치는 대로 자격증을 땄지만, 일을 구하기 힘들었다고 했다. 결국 건설현장 잡부였던 남편을 따라다녔다. 공사현장에서 ‘갱폼(거푸집)’에 안전고리를 다는 일을 했다. 일하며 어깨너머로 기술자들에게서 ‘누수 탐지’ 요령을 배웠다. 지난해 11월 누수 진단과 방수 공사 업체를 차렸다. 부부가 공동대표다. 올해 평균 월매출은 3000만원. 그는 “자격증을 왜 그렇게 열심히 땄나 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 경진대회에서는 김성철(38) 코넥신 대표도 무대에 올랐다. 김 대표는 2006년 탈북해 한국에서 고등학교를 다시 마친 뒤 2010년 서울대 사회학과에 입학했다. 졸업 후 보안업체에서 7년간 AI 개발자로 일하다 창업해, 올해만 1억3000만원 매출을 올렸다. 그는 “어디에서 왔는지보다 어디로 가고 싶은지가 중요하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SF7HVYECX5F7VLAHAXUHAZ5MA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 경기 안양시 새중앙교회에서 열린 ‘통일벤처스 탈북민 창업경진대회’에서 윤미소(36) 미소컬러틱 대표가 발표하고 있다. /사단법인 더 브릿지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 대표는 이날 금상을, 김 대표는 은상을 받았다. 대상은 윤미소(36) 미소컬러틱 대표에게 돌아갔다. 사진 3장으로 체형을 분석해 스타일링 기준을 알려주는 앱 ‘미소핏’을 만들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2YLX4AZ2JRBY5D7HNDGIRYYFEE.jpg?auth=023506d39ac30279b18a4f716fb9539796584f91502b06f94df5f97ae375f993&amp;smart=true&amp;width=2291&amp;height=1288" type="image/jpeg" height="1288" width="2291">
-        <media:description type="plain">지난 17일 경기 안양시 새중앙교회에서 열린 ‘통일벤처스 탈북민 창업경진대회’에서 박미경(35) 누수엔지니어링 대표가 발표하고 있다. /사단법인 더 브릿지</media:description>
-        <media:credit role="author" scheme="urn:ebu">KANGNAM</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>시장직 걸린 오세훈 ‘여론조사 대납’ 오늘 2심 선고... 오후 2시 생중계</title>
       <link>https://www.chosun.com/national/court_law/2026/10/23/UZLVKKFDY5APDJOTJW7JTTF3AU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/23/UZLVKKFDY5APDJOTJW7JTTF3AU/</guid>
@@ -884,15 +895,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/2S6G6HCMEZGH7NRMUNIFRWIBVQ.gif?auth=f18339864f450b199b8c5a2bd88801920053bf7dbba2b7066f9760d3b7718a5c&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
         <media:description type="plain">북한 기습 남침으로 한반도에 전쟁이 벌어진다는 가상 시나리오를 담은 게임 '콜 오브 듀티:모던워페어4'속 장면. 한미 연합군이 북한 주석궁 일대를 공습하고 있다. /X</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/10/23/WMVPZKEPIVCKVPZLUQGQWEZXBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/10/23/WMVPZKEPIVCKVPZLUQGQWEZXBI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WATF4IHTPFDD5I4RXAVKBLQWME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-10-23일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 16일 ‘우리 아기가 태어났어요’ 코너에 실린 박정우&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 강선이 별세 외</title>
