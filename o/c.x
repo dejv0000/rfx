@@ -13,6 +13,123 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>고속도로 사고 현장 출동한 경찰, 화물차 치여 중상</title>
+      <link>https://www.chosun.com/national/incident/2026/10/24/FDLWOTPX3BH6JBCOEZZ3HTTMEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/24/FDLWOTPX3BH6JBCOEZZ3HTTMEA/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 06:06:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQWGN3DGNRDEMBWMM2DEMRYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 발생한 교통사고 현장을 지원하기 위해 출동한 경찰관이 다른 차량에 치여 발목이 절단되는 중상을 입었다. 경찰청은 “치료와 재활에 필요한 지원을 아끼지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 24일 오전 5시쯤 영동고속도로 인천 방면 여주분기점에서 교통사고 현장에 출동해 사고 수습을 지원하던 경기남부경찰청 고속도로순찰대 A 경위가 6.5t 화물차에 치여 발목이 절단됐다. 이 경찰관은 2차 사고 예방을 위해 인근 분기점에서 차량을 통제하고 있었다고 한다. A 경위는 아주대병원으로 이송돼 긴급 수술을 받았고, 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김종철 경찰청장 직무대행은 이날 “국민의 안전을 지키다 다친 경찰관이 치료와 회복에 전념할 수 있도록 끝까지 지원하는 건 조직의 당연한 책무”라며 “부상 경찰관의 치료와 재활, 일상 회복에 필요한 지원을 아끼지 말라”고 했다. 경찰청 관계자는 “부상 경찰관의 가족이나 함께 근무하던 동료 경찰에게도 심리 상담 등의 지원을 제공할 것”이라고 했다.&lt;br&gt;&lt;br&gt;올해 초에도 고속도로 사고 현장을 수습하기 위해 출동한 경찰관이 2차 사고를 당해 숨진 사례가 있었다. 전북경찰청 고속도로순찰대 소속이었던 고 이승철 경정은 지난 1월 초 서해안고속도로 상행선 고창분기점 인근에서 교통사고가 발생하자 현장을 수습하기 위해 출동했다. 이 현장을 30대 B씨가 운전하던 SUV 차량이 덮치면서 이 경정과 견인차 기사 등 2명이 숨졌다. &lt;br&gt;&lt;br&gt;경찰청은 이 사건 이후 재발 방지를 위해 고속도로에서 교통사고가 발생할 경우 사고 지점 인근에 순찰차를 배치해 물리적인 벽을 세우고, 사고 현장으로부터 후방 100m 거리를 추가로 확보하는 등 매뉴얼을 개선했다. &lt;br&gt;&lt;br&gt;24일 A씨가 근무하고 있던 분기점 인근은 사고 현장과 거리가 있어 이런 조치가 적용되지 않았던 것으로 전해졌다. 경찰은 자세한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 무죄 판결 후 광폭 행보… “국힘, 단합된 모습 보여야”</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/24/JHQ3E4LIZRDKDBLTZF3OE6WCU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/24/JHQ3E4LIZRDKDBLTZF3OE6WCU4/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 07:17:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQWGNLGGRSTIZDEGA2TGZJZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'여론조사비 대납' 의혹으로 기소돼 2심에서 무죄를 선고 받은 오세훈 서울시장이 23일 오후 서울시청으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘명태균 여론조사 비용 대납’ 의혹 관련 정치자금법 위반 혐의 항소심에서 무죄를 선고받은 오세훈 서울시장이 “총선이 다가오고 있다”며 “국민의힘이 단합, 통합된 모습을 보여야 한다”고 했다. 오 시장은 항소심 선고 다음날인 24일 국회에서 열린 ‘사진기자 가족 체육대회’에 참석해 취재진에게 이같이 밝혔다. &lt;br&gt;&lt;br&gt;오 시장은 “이재명 정부가 국민에게 많은 심려를 끼치고 있다”며 “국민의힘이 부동산 문제를 비롯해 (각종 사안에 대해) 단합된 힘으로 대안과 희망을 제시할 수 있는 정당이 돼야 할 것”이라고 했다. 그는 현 부동산 시장에 대해 “매매·전세·월세가 함께 올라가고 있는 ‘트리플 강세’”라며 “실거주를 지나치게 강조하는 현 정책 방향을 전환해야 한다고 여러 번 정부에 건의했지만 마이동풍”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 여권의 조희대 대법원장 탄핵 요구에 대해서는 “사법권의 독립은 다른 두 권력이 존중할 때 지켜지는 것”이라며 “행정권과 입법권이 갖고 있는 힘을 함부로 휘두르지 않을 때 사법권 독립이 보장되고 지켜지는 것”이라고 했다. 또 “민주당 쪽에선 선출 권력이 삼권의 위에 있는 것처럼 착각을 하는 발언이 수시로 쏟아져 나오고 있다”며 “헌법 교과서 어디에도 없는 무도한 발언”이라고 했다. &lt;br&gt;&lt;br&gt;23일 열린 오 시장의 항소심에서 무죄 판결이 선고되자 여권은 이에 반발하며 조 대법원장 탄핵을 요구했다. 한민수 더불어민주당 최고위원은 페이스북에서 “조희대 대법원장을 탄핵해야 하는 이유가 하나 더 늘었다”며 “간접 증거, 직접 증거, 법 기술을 총동원해 따지는 것이 법치인가”라고 했다. 김민석 더불어민주당 대표는 이날 조 대법원장 탄핵 추진과 관련해 “국정조사를 포함해서 원래 생각한 대로 차근차근 진행해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전부터 여러 행사에 참석하며 분주한 행보를 보였다. 은평구 진관사에서 열린 ‘국행수륙재’에 참석했고 이어 국회 사진기자 가족 체육대회를 찾아 축사를 했다. 이날 오후 5시30분 서울광장에서 열리는 이태원 핼러윈 참사 4주기 추모 대회에도 참석할 예정이다.&lt;br&gt;&lt;br&gt;서울시 직원들은 23일 재판에서 무죄 판결을 받은 후 시청으로 복귀한 오 시장을 위해 환영 행사를 열기도 했다. 오 시장은 직원들에게 ‘그동안 고생시켜 미안하다’는 취지로 화답한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산시, ‘트램 중단’ 발표했지만 다시 추진키로… 내년 2월 착공</title>
+      <link>https://www.chosun.com/national/regional/2026/10/22/MDDFBXNWBJDFJBARIETSY3JB3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/22/MDDFBXNWBJDFJBARIETSY3JB3Q/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 Oct 2026 04:23:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRDQMDEHE4GGMJTHAYDAMTDHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김창현 울산시 교통국장이 22일 울산시청 프레스센터에서 울산 트램 1호선 공사 진행에 따른 교통 대책 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산의 첫 도시철도인 트램(tram·노면 전차) 1호선이 내년 2월 중순 착공한다. 김상욱 울산시장은 취임 후 교통 체증과 재정 부담을 이유로 트램 사업 중단을 추진했지만, 손해배상과 국비 반납 등의 부담이 크다고 판단해 사업을 계속 추진하기로 했다.&lt;br&gt;&lt;br&gt;울산시는 22일 트램 1호선 공사에 따른 교통 혼잡을 줄이기 위한 대책을 발표했다. 트램 1호선은 2030년 개통을 목표로 태화강역~신복교차로 10.9㎞ 구간에 건설된다. 총사업비는 3814억원이며, 정거장 15곳이 들어선다.&lt;br&gt;&lt;br&gt;시는 상습 정체 구간인 문수로의 좌회전 차로를 없애고 주변 도로로 차량을 분산시킬 방침이다. 이를 위한 우회로 정비 등 교통 대책을 먼저 시행한 뒤 본격적인 공사에 들어간다.&lt;br&gt;&lt;br&gt;핵심은 문수로 공업탑~옥동 경남아너스빌ubc 아파트 구간을 직진 위주로 바꾸는 것이다. 좌회전하려는 차량은 주변 도로로 우회하거나 전방에서 유턴하도록 유도한다. 좌회전 신호를 줄여 공사 중에도 차량 흐름을 최대한 원활하게 유지하겠다는 취지다.&lt;br&gt;&lt;br&gt;문수로는 평소에도 출퇴근 차량과 옥동 학원가를 오가는 차량이 몰려 혼잡한 곳이다. 시 분석에 따르면 공사 중 문수로 혼잡 구간의 퇴근 시간대 평균 통행 속도는 시속 4.5~7.4㎞까지 떨어질 것으로 예상됐다. 공사 전 시속 13.7~22㎞의 약 3분의 1 수준이다. 개통 후에도 트램이 도로 2개 차로를 차지해 교통 혼잡을 줄일 대책이 필요한 상황이다.&lt;br&gt;&lt;br&gt;우회 통행을 위해 문수로 남북 양쪽의 주변 도로도 정비한다. 남쪽은 옥동 중앙교회~울산대공원 정문 일대 대공원로 842m 구간의 폭을 현재 8m에서 12~15m로 넓힌다. 대공원 동문 쪽에는 차로를 하나 추가하고, 두왕로와 만나는 지점에서 공업탑 방향 좌회전을 허용해 삼산로와 봉월로로 이어지는 우회 경로를 확보한다.&lt;br&gt;&lt;br&gt;북쪽은 일방통행인 법대로81번길을 양방향 통행으로 바꾸고, 거마로와 은월로2번길 등도 정비해 봉월로에서 법원 앞까지 양방향으로 오갈 수 있게 한다. 공업탑 로터리는 중앙을 돌아 나가는 방식 대신 신호에 따라 각 방향으로 통과하는 오거리 교차로로 바꾼다.&lt;br&gt;&lt;br&gt;옥동 학원가에는 학원 차량 대기 공간 3곳을 마련해 정체를 줄일 계획이다. 정거장 공사는 도로 폭의 절반씩 두 차례로 나눠 진행해 차량이 다닐 공간을 최대한 확보한다. 교통량에 맞춰 신호 시간을 조절하고, 출퇴근 시간에는 시내버스 배차를 늘리기로 했다.&lt;br&gt;&lt;br&gt;승용차 이용을 줄이기 위해 공영 주차장 요금을 올리고, 시외·고속버스가 문수로를 우회하도록 노선도 조정한다. 내비게이션과 도로 전광판으로 정체 상황과 우회 경로도 안내한다. 장기적으로는 문수로 북쪽에 길이 2.61㎞, 왕복 4차로 규모의 우회 도로를 조기에 개설하는 방안도 추진한다.&lt;br&gt;&lt;br&gt;시는 이날 트램 사업 중단 방침을 철회한 배경도 설명했다. 시민 의견을 모으기 위한 공론화를 추진했으나 관련 조례안이 지난 7월 시의회에서 부결됐고, 중앙 부처 질의와 계약 업체 협의, 법률 자문 등을 거쳤으나 손해배상 부담 없이 계약을 해지할 방법을 찾지 못했다고 밝혔다.&lt;br&gt;&lt;br&gt;김창현 울산시 교통국장은 “공사 기간 큰 불편을 드리게 돼 송구한 마음”이라며 “시민 여러분의 다양한 의견을 귀담아듣고, 시행 과정에서 대책을 보완하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여수 공장서 지게차 넘어져…50대 작업자 깔려 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/10/24/3VHB22A2R5DAPC2PTZ2EIDXN4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/24/3VHB22A2R5DAPC2PTZ2EIDXN4Q/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 04:50:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 10시 48분쯤 여수시의 한 제조업체 공장에서 50대 작업자 A씨가 넘어진 지게차에 깔려 있다는 동료의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;출동한 소방 당국이 현장을 확인했을 때 A씨는 이미 숨진 상태였다.&lt;br&gt;&lt;br&gt;A씨는 당시 지게차를 몰며 자재를 정리하고 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 지게차가 넘어진 원인, 안전 수칙 준수 여부 등 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘특수폭행 혐의’ 승리 “소주병 집어들었지만 휘두른 적 없어”</title>
+      <link>https://www.chosun.com/national/incident/2026/10/24/U5NS4N7IDJDRLPBKU2EUWYX2FY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/24/U5NS4N7IDJDRLPBKU2EUWYX2FY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 02:11:39 +0000</pubDate>
+      <content:encoded>식당에서 소주병을 휘둘렀다는 혐의로 고소를 당한 아이돌 그룹 빅뱅의 전 멤버 승리(본명 이승현)가 “소주병을 집어 든 건 맞지만 휘두르거나 가격한 적은 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTSZDEG5RGGOBYMQZTAODDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 빅뱅의 전 멤버 승리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 승리는 지난 8월 초 서울 한 식당에서 30대 남성에게 소주병을 휘둘러 위협했다는 의혹이 제기됐다. 이 남성은 지난 8월 말 승리를 서울 강남경찰서에 특수폭행 혐의로 고소했다.&lt;br&gt;&lt;br&gt;승리의 법률대리인 법무법인 수림의 윤재빈 변호사는 당시 상황을 설명하는 입장문을 23일 냈다. 승리 측은 “당시 승리가 지인 두 명과 서울의 한 식당에서 식사하던 중 일면식 없는 남성이 합석을 요청했고, 거듭 거절했지만 허락 없이 빈자리에 앉았다”며 “떠나 달라는 요청에 이 남성이 응하지 않자 언성이 높아졌고 승리가 소주병을 집어 들기는 했다”고 밝혔다. 그러나 “물리적인 마찰은 없었다”며 승리가 소주병을 휘두르거나 폭행한 사실은 없다고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “고소 이후 고소인 측에서 합의를 요청하는 연락이 왔었지만, 승리는 조사에 성실히 임하고 수사기관을 통해 사실관계를 밝힐 것”이라고 했다. 경찰은 조만간 승리를 불러 조사할 전망이다.&lt;br&gt;&lt;br&gt;승리는 2019년 빅뱅을 탈퇴했고, 상습 도박과 성매매 알선 등의 혐의로 징역 1년 6개월을 복역한 뒤 2023년 2월 출소했다. 출소 후에는 캄보디아 등 동남아시아 지역에서 목격됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최충락 ‘흉기 소지 입건’ 알고도... 법무부, 관리 등급 안 높였다</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/24/AWJXXAPGJ5FJJCLSTSSOCML334/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/24/AWJXXAPGJ5FJJCLSTSSOCML334/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 02:27:29 +0000</pubDate>
+      <content:encoded>법무부가 전자발찌를 차고 관리받던 인천 흉기난동 피의자 최충락(59)의 흉기 소지 혐의 입건 사실을 알고도 관리 등급을 높이지 않은 것으로 나타났다. 최충락은 법무부가 경찰로부터 입건 사실을 통보받은 지 일주일 만인 지난 13일 인천의 대형 상가에서 흉기를 휘둘러 8명을 다치게 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWENDEGVRTIMJVGAZTKNDEGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 대형 상업시설에서 흉기난동을 벌여 살인미수 혐의로 구속된 최충락이 지난 23일 오전 인천 남동경찰서에서 인천지방공소청으로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 법무부가 더불어민주당 김동아 의원실에 제출한 자료에 따르면, 최는 지난달 병원 치료에 불만을 품고 거리에서 흉기를 꺼냈다가 입건됐다. 법무부는 지난 6일 경찰로부터 이를 통보받아 담당 보호관찰관을 보내 면담한 뒤 흉기 소지를 금지하고 추가 준수사항 신청을 추진했다. 그러나 앞서 ‘고위험’에서 ‘집중’으로 낮춰져 있던 관리 등급을 다시 높이지는 않았다. 최가 사람을 향해 흉기를 휘두르지 않았다는 점 등을 고려했다고 한다.&lt;br&gt;&lt;br&gt;앞서 최는 2015년 재결합을 거부한 전처를 흉기로 여러 차례 찔러 징역 4년과 전자발찌 부착명령 10년을 받고 2019년 출소했다. 법무부는 최가 중독상담·심리치료에 적극 참여하는 등 지도감독에 순응적이어서 관리 등급을 낮췄다고 설명했다. 전자감독 관리 등급은 위험도가 높은 순서로 ‘1대 1’, ‘고위험’, ‘집중’, ‘일반’으로 나뉜다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 곰팡이·플라스틱 나온 초콜릿 업체, 이번엔 달걀 알레르기 표시 누락… 해썹 인증은 유지</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/10/24/KOFM5IKO5ZCNLFQTR4EJRKHIWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/24/KOFM5IKO5ZCNLFQTR4EJRKHIWM/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 02:16:56 +0000</pubDate>
+      <content:encoded>최근 4년여간 만든 식품에서 곰팡이가 7차례, 플라스틱이 3차례 검출됐는데도 정부의 식품 안전 인증인 ‘해썹(HACCP)’을 유지해 논란이 됐던 초콜릿 제조업체가 이번에는 알레르기를 일으킬 수 있는 달걀을 제품에 넣고도 표시하지 않아 식약처에 적발된 것으로 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOWSGXTBITNIPBHHXJXNWKAJXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HACCP 마크/식약처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 식품의약품안전처 등에 따르면 A사는 최근 시중에 판매 중인 한 초코 케이크에 알레르기 유발 물질인 달걀을 사용하고도 이를 표시하지 않은 사실이 확인돼 판매 중단 및 회수 조치를 받았다. 회수 대상 제품은 7000여 개였다. 달걀 알레르기가 있는 사람이 이를 모르고 먹으면 두드러기나 호흡곤란 등 알레르기 반응을 일으킬 수 있다.&lt;br&gt;&lt;br&gt;A사는 앞서 2022년부터 올해 6월까지 식품위생법을 18차례 위반해 해썹 인증 식품업체 가운데 위반 횟수가 가장 많았던 곳이다. 이 중 14건은 곰팡이·플라스틱·머리카락 등 이물질 검출이었다. 하지만 18건 모두 시정명령에 그쳤고, 이 업체는 해썹 인증을 유지해 왔다.&lt;br&gt;&lt;br&gt;해썹은 식품 제조 시설과 제조 공정의 안전 관리 수준을 정부가 심사해 부여하는 인증이다. 그러나 이물질이 반복 검출돼도 해썹 평가에서 기본 감점은 100점 중 1점에 불과하고, 위반 건수만큼 누적되지 않는다. 이번 알레르기 표시 누락까지 확인되면서 반복 위반 업체에 대한 인증 유지 기준을 강화해야 한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;이에 대해 A업체 관계자는 “내놓을 입장이 없다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>침 시술받던 90대 심근 파열로 숨져…한의사 벌금 2000만원</title>
+      <link>https://www.chosun.com/national/regional/2026/10/24/3VP7VNMNIJDS7IFREAJ34J3OGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/24/3VP7VNMNIJDS7IFREAJ34J3OGE/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 01:10:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NS3ZV2ODY42DH2QIZINFSGBZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;90대 환자에게 침을 놓다 심장 근육을 손상시켜 숨지게 한 혐의로 기소된 한의사에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사5단독 구천수 판사는 업무상 과실치사 등 혐의로 기소된 한의사 A씨에게 벌금 2000만원을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 8월 14일 오후 2시 35분쯤 허리 통증으로 내원한 B(92)씨의 가슴에 침을 놓다가 미세한 심근 파열을 일으켜 숨지게 한 혐의로 재판에 넘겨졌다. B씨는 같은 날 오후 5시 8분쯤 사망했다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 B씨의 맥을 짚어 상태를 살피지 않고, 가슴에 침을 놓을 때 발생할 수 있는 위험도 설명하지 않은 과실이 있다고 봤다. 또 B씨가 가슴 통증과 호흡곤란을 호소했는데도 약 15분간 방치해 의식을 잃게 했다고 판단했다.&lt;br&gt;&lt;br&gt;A씨는 진료기록부를 작성하지 않은 혐의도 받았다. &lt;br&gt;&lt;br&gt;이 사건으로 수사를 받던 중에 평소 악감정을 품고 있던 지인이 운영하는 카페 앞에 바윗돌 여러 개를 놓아 손님들의 차량 출입을 막는 등 영업을 방해한 혐의로도 기소됐다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 사망하는 중대한 결과가 발생했고, 수사를 받던 중 업무방해 범행을 저질러 죄질이 좋지 않다”고 했다. 다만 “범행을 인정하고 반성하는 점, 숨진 피해자 유족과 원만히 합의한 점, 업무방해 피해자를 위해 일정 금액을 공탁한 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남의 건강보험으로 간암 치료 105번, 7878만원 쓰고 사망</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/10/24/6GXJYR6H3VE5FPGCWRRI2MYATU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/24/6GXJYR6H3VE5FPGCWRRI2MYATU/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 01:16:08 +0000</pubDate>
+      <content:encoded>불법체류자 A씨는 2020년 5월부터 2023년 11월까지 다른 사람의 건강보험 명의를 도용해 상급종합병원에서 간암 치료를 받았다. 3년 6개월간 진료받은 횟수만 105차례였다. 건강보험공단이 A씨 치료비에 지급한 돈은 7878만원이었다. 하지만 A씨가 사망하면서 국민건강보험공단은 이 돈을 한 푼도 돌려받지 못했다.&lt;br&gt;&lt;br&gt;다른 사람의 명의로 10년 넘게 병원 진료를 받은 사례도 있었다. 한 도용자는 2012년 9월부터 2022년 10월까지 1974년생 여성 이모씨의 건강보험 명의를 이용해 동네 의원에서 불면증 진료를 받았다. 진료 횟수는 65차례, 부정수급액은 64만원이었다. 이 돈은 전액 환수됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6ZLNVYHXNMQ3C6PTMDVOVSUDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 시내 국민건강보험공단 지사 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 다른 사람의 건강보험 명의를 도용하거나 건강보험증을 빌려 병원 진료를 받았다가 적발된 사례가 최근 5년 8개월간 18만건을 넘었다. 부정수급액은 41억원에 육박했지만, 이 가운데 상당액은 환수하지 못한 것으로 나타났다.&lt;br&gt;&lt;br&gt;24일 국회 과학기술정보방송통신위원회 소속 김선민 조국혁신당 의원이 건강보험공단에서 제출받은 자료에 따르면, 2021년부터 올해 8월까지 건강보험증 대여·도용으로 적발된 사례는 18만4443건이었다. 부정수급액은 40억9100만원에 달했다.&lt;br&gt;&lt;br&gt;전체 적발 사례의 97.8%(18만330건)는 타인의 건강보험 명의를 도용한 경우였다. 도용에 따른 부정수급액은 38억2700만원이었다. 하지만 공단이 실제 환수한 돈은 15억300만원에 그쳤다. 나머지 23억2400만원은 돌려받지 못했다. 징수율은 39.27%로, 부정수급액 10원 중 6원가량을 회수하지 못한 셈이다.&lt;br&gt;&lt;br&gt;반면 다른 사람의 건강보험증을 빌려 진료받은 사례는 4113건이었다. 부정수급액 2억6400만원 중 2억1600만원을 환수해 징수율이 81.82%였다. 명의 도용 사건의 징수율보다 두 배 이상 높았다.&lt;br&gt;&lt;br&gt;외국인 관련 부정수급도 1만259건 적발됐다. 부정수급액은 4억7600만원이었다. 이 가운데 명의 도용은 9076건으로, 부정수급액 4억900만원 중 1억4900만원만 환수됐다. 징수율은 36.43%였다. 올해 8월 기준 외국인 명의 도용 부정수급의 징수율은 17.86%에 그쳤다.&lt;br&gt;&lt;br&gt;건강보험 자격을 잃은 뒤 진료받거나 보험급여가 정지된 기간에 의료서비스를 이용한 부정수급의 징수율은 각각 60.83%, 82.75%였다. 명의 도용은 가해자가 잠적하거나 사망하면 부정수급액을 돌려받기 어려워 징수율이 특히 낮은 것으로 분석된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘재판소원 1호’ 녹십자 사건 공개 변론… 심리 불속행 기각 두고 공방</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/24/E7KHJ4JZF5BUVKIPKYHV37PQLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/24/E7KHJ4JZF5BUVKIPKYHV37PQLA/</guid>
+      <dc:creator>김민혁 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 00:34:32 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXVKHM2B3BJTNDTV7RVMRSZRSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상환(가운데) 헌법재판소장 등 헌법재판관들이 23일 서울 종로구 헌법재판소 대심판정에서 열린 공개 변론에 참석해 자리하고 있다. 이날 변론은 주식회사 녹십자가 대법원의 '백신 입찰 담합' 과징금 관련 행정소송 '심리불속행 기각' 패소 판결을 취소해 달라며 청구한 재판소원 사건을 다뤘다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 재판소원 제도 시행 후 처음으로 전원재판부에 회부했던 ‘녹십자 백신 입찰 담합 과징금’ 사건에 대한 공개 변론을 23일 열었다.&lt;br&gt;&lt;br&gt;이 사건은 녹십자가 담합을 한 혐의로 공정거래위원회(공정위)가 내린 20억원대 과징금 처분과 시정 명령을 취소해 달라는 행정 소송을 냈다가 대법원에서 지난 2월 심리불속행 기각으로 패소가 확정된 사건이다. 심리불속행 기각은 대법원이 민사·행정 사건에서 본안 심리를 하지 않고 상고를 기각하는 제도다. 그런데 녹십자의 행정 소송 결과는 같은 내용으로 받은 형사 재판에서 무죄를 확정받은 것과 달랐다. 이에 녹십자는 “재판청구권이 침해됐다”며 지난 3월 재판소원을 청구했다.&lt;br&gt;&lt;br&gt;지난 23일 오후 3시 서울 종로구 헌재 대심판정에서 열린 공개 변론에는 청구인인 녹십자 측 대리인과 이해관계인인 공정거래위원회 측 대리인이 출석했다. 피청구인인 대법원 측은 출석하지 않았다.&lt;br&gt;&lt;br&gt;녹십자는 2017년부터 2019년까지 질병관리청(당시 질병관리본부)이 발주한 가다실 백신 구매 입찰 과정에서 백신 도매상들을 들러리로 세워 낙찰받은 혐의로 2020년 8월 기소됐다. 1심은 유죄로 판단했지만, 2심은 시장 경쟁을 제한하는 행위로 볼 수 없고 직원들의 고의가 입증되지 않았다며 무죄를 선고했다. 이 판결은 작년 12월 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;녹십자는 기소 이후인 2023년 8월 공정위에서 시정 명령과 함께 20억3500만원의 제재를 받았다. 녹십자는 공정위의 제재를 취소해 달라는 소송을 냈는데, 서울고법은 작년 10월 “제약업체 간 공동 행위로 경쟁이 제한된 게 맞다”며 녹십자의 청구를 기각했다. 녹십자는 상고했지만, 대법원은 심리 없이 심리불속행 기각 결정을 했다. 이에 녹십자는 “대법원이 동일한 쟁점에 관해 확정된 형사 재판과 상반된 결론을 도출하면서도 실질적인 심리를 하지 않고 심리불속행 기각을 해 재판청구권 등 기본권을 침해당했다”면서 헌재에 재판소원을 냈다.&lt;br&gt;&lt;br&gt;녹십자 측 대리인은 이날 “대법원은 형사 판결에서는 경쟁 제한성이 인정되지 않는다는 견해를 밝혔으면서 두 달 뒤 이유 제시 없이 정반대의 행정 판결을 내렸다”며 “당사자가 도저히 예상할 수 없는 판결이라 재판청권을 침해한 것”이라고 주장했다. 녹십자 측은 또 “대법원 판결은 국민에게 예측 가능성을 부여해 법적 안정성을 줄 수 있어야 한다”며 “최소한 당사자가 이해할 수 있도록 판결 이유를 한두 줄이라도 적어야 했다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 공정위 측 대리인은 “형사 판결은 범죄의 증명 없음을 다투는 것이고, 행정 판결은 처분 사유가 없음을 다투는 것”이라며 “둘의 결론이 다른 것은 사실 관계에 대한 평가가 달랐기 때문이지 법률상 하자가 있다고 볼 수 없다”고 맞섰다. 그러면서 “심리 불속행이 아무런 심사를 하지 않는 제도가 아니다”라며 “대법원이 상고 이유를 검토한 뒤 심리 속행 사유가 없다고 판단한 것”이라고 했다.&lt;br&gt;&lt;br&gt;정정미 헌법재판관은 공정위 측에 “대법원에서 상고 기각할 사안이라고 결정했다면 모두 심리 불속행할 수 있느냐”고 물었고, 공정위 측은 “일반론으로 말하기는 어렵지만, 이 사건에 대해서는 심리 불속행이 가능하다고 본다”고 답했다. 정 재판관은 또 녹십자 측에 “상고심 재판을 받는 것이 헌법상 권리가 아닌데, 심리가 속행되지 않아도 헌법상 권리를 침해한 것은 아니지 않으냐”고 물었다. 이에 녹십자 측은 “이 사건은 매우 특수하다는 점에서 상고심 판결을 구할 수 있는 상황이었다고 본다”고 답했다.&lt;br&gt;&lt;br&gt;한편 헌재는 지난 23일에는 피의자가 아닌 참고인에게는 압수수색 영장 사본을 교부하지 않는 것이 정당한지를 두고 첫 공개 변론을 열었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한라산에 139㎜ 폭우…태풍 ‘참피’에 남부·제주 비바람</title>
+      <link>https://www.chosun.com/national/regional/2026/10/24/IXMG4OUDBVDGBMLGINREJEJ3RQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/24/IXMG4OUDBVDGBMLGINREJEJ3RQ/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 00:25:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZDKM3FMJRTOZTGMFSDKMJTHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비 내리는 제주. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산에 24일 오전까지 최고 139㎜의 비가 내리는 등 제주 전역에 많은 비가 쏟아졌다. 제30호 태풍 ‘참피(CHAMPI)’의 영향으로 26일까지 제주와 남부 지방을 중심으로 비가 이어지고, 바람도 강하게 불겠다.&lt;br&gt;&lt;br&gt;24일 기상청에 따르면, 전날부터 이날 오전 8시까지 한라산 윗세오름에 139㎜, 삼각봉에 126.5㎜, 사제비에 121㎜의 비가 내렸다. 해안 지역인 서귀포시 표선면에도 113㎜가 쏟아졌고, 성산 106.2㎜, 서귀포 95.1㎜ 등의 강수량을 기록했다.&lt;br&gt;&lt;br&gt;제주 산지와 중산간, 동부·남부 일부 지역에는 호우주의보가 내려졌다. 제주도 육상과 추자도에는 강풍주의보가, 제주 주변 해상에는 풍랑특보가 발효됐다. 항공편은 이날 오전 정상 운항하고 있지만, 추자도를 거쳐 완도로 가는 송림블루오션호와 진도로 가는 산타모니카호 등 여객선 일부는 결항했다.&lt;br&gt;&lt;br&gt;이번 비는 태풍 참피와 우리나라 동쪽에 자리 잡은 아열대 고기압에서 유입된 수증기가 찬 공기와 만나면서 형성된 비구름대의 영향이다. 비구름대가 북상하면서 이날 전국이 대체로 흐리고, 제주와 남부 지방을 중심으로 비가 내리겠다.&lt;br&gt;&lt;br&gt;26일까지 예상 강수량은 제주 80~150㎜로, 많은 곳은 200㎜ 이상, 산지와 중산간은 250㎜ 이상이다. 부산·울산·경남에는 30~80㎜, 많은 곳은 120㎜ 이상이 내리겠다. 광주·전남은 20~70㎜로 전남 남해안에는 100㎜ 이상 쏟아지는 곳도 있겠다. 대구·경북 남부는 20~60㎜, 전북은 5~50㎜, 충청권은 5~10㎜의 비가 예보됐다.&lt;br&gt;&lt;br&gt;제주에는 25일까지 시간당 20~30㎜의 강한 비가 내리는 곳이 있겠다. 남해안에도 많은 비와 함께 강풍이 예상된다. 25일 밤부터는 전국 대부분 지역에서 바람이 강하게 불겠다. 제주에는 26일 오전까지 초속 20m 이상의 강풍이 불 것으로 예보됐다.&lt;br&gt;&lt;br&gt;24일 전국의 낮 최고기온은 16~21도로 예상된다. 일요일인 25일 중부 지방은 구름이 많다가 오후부터 대체로 흐려지고, 충청권과 강원 동해안·산지에는 곳에 따라 비가 내리겠다. 이날 아침 최저기온은 8~18도, 낮 최고기온은 18~24도로 예보됐다.&lt;br&gt;&lt;br&gt;기상청은 “24일 밤부터 제주 앞바다에 매우 강한 바람이 불고 물결이 5m 이상으로 높게 일 수 있다”며 “너울이 갯바위나 방파제를 넘는 곳이 있겠으니 해안가 접근을 자제하고, 간판과 비닐하우스 등 시설물 관리에도 유의해 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구미서 지게차 작업 중 잇단 사고…50대 남녀 2명 심정지 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/10/24/RVK4WWRGTBENXFAPHIQSWFXPYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/24/RVK4WWRGTBENXFAPHIQSWFXPYE/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 00:56:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYXHLZI52W4C5DSSPBDJHHMPPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차량. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미에서 지게차로 짐을 옮기던 중 작업자가 적재물 등에 깔리는 사고가 잇따라 발생해 50대 남녀 2명이 심정지 상태로 병원에 이송됐다.&lt;br&gt;&lt;br&gt;24일 경북소방본부 등에 따르면 전날 오후 1시 14분쯤 구미시 고아읍 괴평리의 한 사업장에서 지게차로 쇠파이프를 화물차에 싣던 중 쇠파이프 뭉치가 반대편으로 넘어가 작업자를 덮쳤다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이 사고로 50대 남성 B씨가 지게차와 쇠파이프 사이에 깔렸다. B씨는 심정지 상태로 119구급대의 응급처치를 받으며 병원으로 옮겨졌다. 넘어진 쇠파이프 뭉치는 무게가 약 300㎏에 이르는 것으로 추정됐다.&lt;br&gt;&lt;br&gt;앞서 같은 날 낮 12시 16분쯤 구미시 도개면 월림리에서는 지게차로 옮기던 벼 포대에 50대 여성 A씨가 부딪혀 깔리는 사고가 났다. A씨도 심정지 상태로 인근 병원에 이송됐다.&lt;br&gt;&lt;br&gt;이 사고는 지게차에 매달린 벼 포대가 운전자의 시야를 가리면서 발생한 것으로 추정됐다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 정확한 사고 경위와 현장 안전수칙 준수 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>횡성 영동고속도로서 차량 3대 추돌…2명 숨지고 3명 다쳐</title>
+      <link>https://www.chosun.com/national/regional/2026/10/24/BY6YYKGDUFGQ3L6TEMF3IMPAC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/24/BY6YYKGDUFGQ3L6TEMF3IMPAC4/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 Oct 2026 00:44:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4TIYTFHE4WGMLEGE4TENBYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 2시 20분쯤 횡성군 우천면 법주리 영동고속도로 강릉 방향에서 SM3와 올란도, 팰리세이드 차량이 추돌하는 사고가 발생했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 새벽 강원 횡성군 영동고속도로에서 차량 3대가 잇따라 추돌해 2명이 숨지고 3명이 다쳤다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 2시 20분쯤 횡성군 우천면 법주리 영동고속도로 강릉 방향 141.5㎞ 지점에서 SM3와 올란도, 팰리세이드 차량이 추돌했다.&lt;br&gt;&lt;br&gt;이 사고로 올란도에 타고 있던 70대 남성과 60대 여성이 숨졌다. 같은 차량에 타고 있던 70대 여성과 10대 남성, 팰리세이드 운전자인 40대 남성도 다쳐 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 SM3와 올란도 간 1차 사고에 이어 팰리세이드가 연루된 2차 사고가 발생한 것으로 보고 있다. 경찰은 목격자 진술 등을 토대로 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“된장찌개 1인분이요? 손님이 직접 끓이셔야 합니다”</title>
       <link>https://www.chosun.com/national/weekend/2026/10/24/F2AHHF5NBBAFJDN3I4GTFCKQ7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/10/24/F2AHHF5NBBAFJDN3I4GTFCKQ7Q/</guid>
@@ -709,19 +826,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7XTJF6BI5CT5JHD62UZK3LJCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주산 돼지고기./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주산 돼지고기가 국내 돼지고기 수출을 주도하고 있다. 23일 제주특별자치도에 따르면 올해 9월 말 기준 제주산 축산물 수출 실적이 173t, 329만달러를 기록했다. 수출액은 지난해 같은 기간 45만달러의 7배를 웃도는 규모다. 제주산 돼지고기가 전국 수출 97.3%를 차지하고 있는 것으로 나타났다. 또 냉장 소고기는 33.8%를 차지했다.&lt;br&gt;&lt;br&gt;제주산 축산물 수출 증가세를 이끈 시장은 싱가포르다. 전체 수출액 329만달러 가운데 싱가포르가 267만달러로 약 81%를 차지했다. 홍콩·마카오 45만달러, 몽골 9만달러, 아랍에미리트(UAE) 4만달러 등으로 뒤를 이었다. 싱가포르 수출은 지난해 11월 한국·싱가포르 정상회담을 계기로 제주산 한우·돼지고기의 수출길이 열리면서 본격화됐다.&lt;br&gt;&lt;br&gt;제주도는 수출 확대의 주요 기반으로 국제적 가축 방역 수준과 수입국의 위생 기준을 충족한 수출 작업장을 꼽았다. 제주도는 지난해 5월 세계동물보건기구(WOAH)로부터 구제역 백신접종 청정지역 지위를 인정받았다. 이어 제주 지역 수출 작업장이 싱가포르의 위생·검역 기준을 충족하면서 제주산 한우와 돼지고기의 현지 시장 진출이 가능해졌다. 싱가포르가 국내에서 소·돼지를 키우지 않아 축산물을 수입에 의존하는 상황에서 제주산이 가격 경쟁력을 얻은 것으로 전해졌다. 현재 싱가포르 수출 승인을 받은 제주 지역 작업장은 도축장 2곳과 가공장 7곳 등 총 9곳이다. &lt;br&gt;&lt;br&gt;제주도는 수출 희망 업체의 승인 절차를 지원하고 기존 작업장의 위생 관리 수준을 유지해 제주산 축산물의 해외 판로를 지속적으로 넓혀 나갈 계획이다.&lt;br&gt;&lt;br&gt;김영준 제주도 농축산식품국장은 “제주산 한우와 돼지고기의 수출이 크게 늘면서 국제 방역·위생 기준을 충족하는 수출 기반의 중요성도 더욱 커지고 있다”며 “구제역 청정 지역 지위를 안정적으로 유지하고 수출 작업장의 위생 관리를 강화해 제주산 축산물의 해외 시장 진출이 지속해서 확대될 수 있도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>곽규택 “발언권 제한해 혼자 6인분”-서영교 “실제 8.4%”... 국감 2차전</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/08/U6MNWIDAWREWDBBQRDDGA2TUUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/08/U6MNWIDAWREWDBBQRDDGA2TUUI/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 Oct 2026 07:16:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2LNLUUHPZIUTIXSUIDM6QV2EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽규택 국민의힘 의원을 비롯한 소속 의원들이 6일 서울 여의도 국회에서 열린 국회 법제사법위원회의 대법원 등 국정감사에서 서영교 위원장의 회의 진행방식에 대해 항의하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 열린 국회 법제사법위원회의 법무부 국정감사에서 법사위원장인 더불어민주당 서영교 의원이 지난 6일 국민의힘 의원 발언권을 제한한 것을 두고 양측 간에 공방이 벌어졌다.&lt;br&gt;&lt;br&gt;국민의힘 법사위 간사인 박형수 의원은 이날 오전 의사 진행 발언에서 “서 위원장이 지난 6일 (대법원) 국정감사에서 야당 위원 2명(박형수·김태규)의 발언권을 정지했다”면서 “처음 있는 일로, 서 위원장이 (전임 민주당 소속 법사위원장이었던) 정청래·추미애 전 위원장을 뛰어넘었다”고 했다. 박 의원은 “발언권을 정지해 버리면 국민이 위임한 국정을 제대로 감시해야 하는 국회의원의 역할을 하지 못하는 것”이라며 “위원장이 사과하고 다시는 이런 일이 없겠다는 다짐을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 김태규 의원도 “(6일) 민주당 의원들 소리도 높았는데 그쪽은 ‘음소거’하고 제 얘기만 듣고 (발언권 정지하고) 사과 요구하는 것, 참 편향적으로 듣는다”며 “저에게 그런 말(인간이 돼라) 했던 분 말고 다른 분에게 그 말을 하면 과연 참을 것인지 반문하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 곽규택 의원은 “(회의의) 3분의 1이 위원장 발언 시간이었다는 기사를 봤다”며 “18명(법사위원 수)이 회식을 해 18인분 고기를 시켰는데 6인분은 한 분이 드신 것”이라고 했다. 그러면서 곽 의원은 “야당 위원이 조금만 이의를 제기하고 언쟁이 되면 야당 위원 발언권 정지해 가지고 국정감사가 되겠냐”고 했다. &lt;br&gt;&lt;br&gt;그러자 서 의원은 “위원장은 의사를 진행해야 하고, 회의 의미도 이야기하는 것인데 혼자 6인분을 먹었다고 하는 것은 인신 공격”이라고 반박했다. 서 위원장은 국민의힘 의원들의 발언권을 정지한 이유와 관련해서는 “조희대 대법원장이 본인이 선택해서 (국감장에) 앉았는데, 여러분(국민의힘)이 소리를 지르기 시작했다”고 주장했다.&lt;br&gt;&lt;br&gt;이와 관련해 서영교 의원실은 “의사를 진행해야 하는 위원장과 위원의 발언 시간을 단순 비교하는 것은 적절치 않다”며 “서 의원의 의사진행 발언을 제외한 단독 의견 제시 시간은 42분으로 전체 회의 시간의 8.4%에 불과하다”고 주장했다.&lt;br&gt;&lt;br&gt;민주당 김용민 의원은 서 위원장을 엄호했다. 그는 “위원장이 너무 마음이 좋다”며 “단호하게 김태규 의원에 대해서 발언 정지시키고, 경고하고, 퇴장시켜야 한다”고 했다. 김태규 의원이 최근 국정감사에서 영화 ‘암살자(들)’과 관련해 “부엉이바위 진실을 하나 만듭시다”라고 한 발언을 언급하며 “이 자리에 같이 앉아 있는 것 자체가 참담하고 부끄럽다”고 했다.&lt;br&gt;&lt;br&gt;‘고기 6인분’ 발언을 두고 맞붙은 서 위원장과 곽 의원은 2025년 국정감사 때도 상대를 ‘꽥꽥이’ ‘서팔계’라고 부르며 충돌했다. 서 위원장은 작년 10월 30일 국회 법사위 국감에서 곽 의원의 성씨에 빗대 “못된 짓은 ‘꽥꽥이’가 제일 많이 한다”고 했다. 그러자 곽 의원은 서 의원을 가리켜 ‘서팔계’라고 했다. 작년 11월 3일에는 김재원 국민의힘 최고위원이 국회 상황을 ‘동물 국회’라고 비판하면서 “서 의원의 본명이 ‘서팔계’였다는 사실도 드러났다”고 하기도 했다. 이에 서 의원은 김 의원을 모욕죄로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JALBPCGNT5FWFLBFNUHEKMVCZY.jpg?auth=9cb7275bd5fefa14e90f32eccfcbba63385de3ddf13aa39eb4e5b2da1a5e1b04&amp;smart=true&amp;width=5434&amp;height=3057" type="image/jpeg" height="3057" width="5434">
-        <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 곽규택 국민의힘 의원을 비롯한 소속 의원들이 6일 서울 여의도 국회에서 열린 국회 법제사법위원회의 대법원 등 국정감사에서 서영교 위원장의 회의 진행방식에 대해 항의하고 있다. 2026.10.06. jhope@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>섬과 섬 사이… 바다를 걷는다</title>
       <link>https://www.chosun.com/national/regional/2026/10/23/4VQYMV3JAFDDLCBK4CKQI4JSKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/23/4VQYMV3JAFDDLCBK4CKQI4JSKQ/</guid>
@@ -782,120 +886,6 @@
       </media:content>
     </item>
     <item>
-      <title>암투병·유산 끝에 만난 세쌍둥이… “보고만 있어도 힘이 나요”</title>
-      <link>https://www.chosun.com/national/education/2026/10/23/XJWCV4YRERFURFD3VFVYGPR2ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/10/23/XJWCV4YRERFURFD3VFVYGPR2ME/</guid>
-      <dc:creator>황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LRPJECYGJG3XI3UUD4URBX77U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 서울 중랑구의 한 아파트에서 이예원·노준호 부부가 세 쌍둥이(왼쪽부터 선우·연우·윤우)와 함께 환하게 웃고 있다. 아내 이씨는 “셋이라 힘든 것보다 셋이라 즐거운 일이 더 많다”고 했다. /임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현관 앞에 놓인 자전거도, 탁자 옆 유치원 가방도, 냉장고 위 장난감도 모두 똑같이 세 개씩이었다. 식탁 위에 놓인 포크와 접시는 모양도 색도 똑같았다. 지난 12일 서울 중랑구의 한 아파트 문을 열자마자 아이들의 ‘비명’ 같은 함성이 집 안에 울려 퍼졌다. 2022년 12월 30일 한날에 태어난 세쌍둥이 노윤우·선우·연우(4)였다.&lt;br&gt;&lt;br&gt;이예원(40)·노준호(41) 부부에게 세 아이는 긴 기다림 끝에 온 선물이었다. 두 사람은 2011년 스마트폰이 막 보급되던 시절에 소셜미디어(SNS)를 통해 처음 연락을 주고받았다. 아내 이씨가 인디밴드 ‘브로콜리 너마저’ 노래의 가사 일부를 올렸고 노씨가 그 뒷소절을 댓글로 달았던 게 인연이었다. 취향이 맞아 몇 달 동안 추천곡만 주고받다 처음 얼굴을 봤고 그날로 연인이 됐다. 당시 이씨는 영어학원 원장, 노씨는 공무원 시험을 준비하고 있었다. 서로 바빠 데이트를 자주 못 해도 연애는 7년간 이어졌다.&lt;br&gt;&lt;br&gt;결혼은 이씨 아버지의 한마디로 급물살을 탔다. “상견례 같은 절차 따지지 말고 날짜부터 잡아라.” 일 욕심이 많던 이씨가 경력 단절을 걱정하며 망설이자 노씨는 이씨를 웨딩박람회에 데려가 그 자리에서 웨딩 플래너와 계약했다. 노씨는 이씨가 어른들에게 잘하고 자기 일에 자부심이 강한 모습 때문에, 이씨는 노씨가 화목한 집안에서 자란 사람이라는 점 때문에 서로 끌렸다고 한다. 그렇게 두 사람은 2018년 부부가 됐다.&lt;br&gt;&lt;br&gt;신혼의 단꿈은 오래가지 않았다. 곧바로 아이를 갖고 싶었지만 결혼한 지 100일 만에 남편 노씨가 종격동암 4기 진단을 받았다. 종격동암은 양쪽 폐 사이 공간인 종격동에 생기는 희귀암이다. 초기 증상이 거의 없는 질환이라 병이 진행되는 동안 노씨 자신도 그 사실을 알지 못했다. 암이 폐와 심장막까지 파고들어 대학 병원 두 곳에서 치료가 어렵다는 말을 들었을 정도였다. 수술을 해보자고 나선 서울대병원에서 오른쪽 폐 대부분과 심장막 등을 떼어내는 큰 수술을 했고, 다행히 지금은 매년 정기 검사만 받아도 될 정도로 회복했다. &lt;br&gt;&lt;br&gt;임신은 완치 판정을 받고서야 준비할 수 있었다. 이씨는 연애 때부터 아이 셋을 원했다. 쌍둥이를 키워 보고 싶어서 영어 과외 학생도 쌍둥이 집만 받았다. 첫아이를 유산한 뒤 시험관 시술을 시작하고 배아 두 개를 이식했는데, 그중 하나가 둘로 나뉘면서 일란성 아들 둘과 딸 하나가 생겼다. 남편 노씨는 “아내가 셋째가 안 생기면 입양을 해서라도 셋을 채우겠다던 사람이라, 세 쌍둥이란 말에 정말 좋아했다”고 했다.&lt;br&gt;&lt;br&gt;첫아이를 잃은 뒤라 부부는 세 아이 태명에 모두 ‘무사’를 담았다. 선우의 태명은 열 달 동안 무사하라는 ‘열무’, 윤우는 순탄하고 무사하라는 ‘순무’, 연우는 무탈하고 무사하라는 ‘무무’였다. 입덧도 없이 임신 기간을 지냈지만 출산까지 순탄치만은 않았다. 셋 중 자궁 가장 아래쪽에 자리 잡은 선우가 두 아이에게 눌리면서 체중 차가 벌어졌고, 이씨는 서울아산병원에 두 달 가까이 입원해야 했다. 세 아이는 34주 만에 응급 제왕절개로 태어났다. 셋 모두 1㎏대였는데 가장 작은 선우는 1.3㎏에 불과했다. 신생아집중치료실 자리가 모자라 연우와 선우는 한양대병원으로 옮겨졌다. 노씨는 한 달 넘게 이틀에 한 번씩 모유를 들고 산후조리원과 두 병원을 돌았다. 노씨는 “아이들 태명처럼 평범하고 무탈하게 사는 게 제일 어렵고 좋다는 걸 다시 한번 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;세쌍둥이가 크면서 집안의 ‘교통정리’는 엄마 몫이 됐다. 건축 현장을 관리하는 남편에게 아내는 “아이들과 함께 있는 시간이 짧으니 혼내지 말고 좋은 아빠 역할만 해라”고 말했기 때문이다. 덕분에 아이들은 노씨와 함께 있는 시간을 좋아한다. 아빠가 있을 땐 자유분방하던 아이들은 엄마가 나타나면 금세 자세를 고쳐 앉는다.&lt;br&gt;&lt;br&gt;노씨는 “몸은 힘들어도 퇴근해 아이들을 보면 힘이 난다”며 “출산이 고민되더라도 일단 낳아보면 계속 살아가야 한다는 이상한 힘이 생긴다”고 했다. 이씨는 “내 일이 정말 중요했기에 임신하고 일을 그만뒀을 때 자존감이 많이 떨어지기도 했다”면서도 “최근에 앨범을 정리하다 아이들의 사진을 봤는데, 두세 살 때 모습은 다시 오지 않는다는 것을 알게 됐다”고 말했다. 그러면서 “그 시간을 곁에서 함께했다는 기억이 이제는 나에게 훨씬 값진 보물”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4LRPJECYGJG3XI3UUD4URBX77U.jpg?auth=efa1538316fc3aeb6d85be97de0c37c53b76da676251161e72a5d288d32dbcec&amp;smart=true&amp;width=4981&amp;height=3544" type="image/jpeg" height="3544" width="4981">
-        <media:description type="plain">지난 12일 서울 중랑구의 한 아파트에서 이예원·노준호 부부가 세 쌍둥이(왼쪽부터 선우·연우·윤우)와 함께 환하게 웃고 있다. 아내 이씨는 “셋이라 힘든 것보다 셋이라 즐거운 일이 더 많다”고 했다. /임지훈 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>李 참석한 경찰의 날 기념식… 美·日 대사 안 오고 중·러 대사만 와</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/MXCD64A4XNHYXHXM344LWKNYTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/MXCD64A4XNHYXHXM344LWKNYTM/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDNKHPEAIRGSDAGRFRRBRHCEXU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 서울 서대문구 경찰청에서 열린 81주년 경찰의 날 행사에 참석한 다이빙(왼쪽) 주한 중국 대사와 게오르기 지노비예프 주한 러시아 대사가 이재명 대통령 축사를 듣고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21일 열린 제81주년 경찰의 날 기념식에 주한 미국 대사와 일본 대사가 한국 정부 초청을 받고도 참석하지 않은 것으로 22일 알려졌다. 이 행사에 중국과 러시아 대사는 참석했다. &lt;br&gt;&lt;br&gt;경찰청에 따르면, 전날 서울 서대문구 경찰청 청사에서 열린 경찰의 날 기념식에는 중국·러시아·몽골·캄보디아·캐나다·프랑스 등 12국 주한 대사가 참석했다. 경찰청은 총 25국 주한 대사에 초청장을 보냈는데, 13국 대사가 불참했다고 한다. 미셸 스틸 미국 대사와 미즈시마 고이치 일본 대사도 초청했지만 이들은 다른 일정이 있다는 이유 등으로 불참 의사를 통보했다고 한다. 반면 다이빙 중국 대사와 게오르기 지노비예프 러시아 대사는 기념식에 참석해 나란히 앉았다. &lt;br&gt;&lt;br&gt;이날 기념식에는 이재명 대통령도 참석했다. 외교가에선 한국의 동맹인 미국, 우방국인 일본 대사가 대통령 참석 행사에 초청받고도 불참한 것을 두고 이례적이라는 말이 나온다. 스틸 미국 대사는 경찰의 날 행사 때 주한미국상공회의소(암참) 초청 오찬 간담회에 참석해 “한국과 미국이 일종의 ‘터뷸런스(난기류)’를 겪고 있다”고 했다. 이 때문에 그의 경찰의 날 행사 불참이 최근 전시 작전 통제권 전환, 정보 협력 문제 등을 두고 한국 정부와 마찰을 빚고 있는 것과 관련 있는 것 아니냐는 말이 나왔다. &lt;br&gt;&lt;br&gt;경찰청은 미·중·일·러 대사가 경찰의 날 행사에 참석한 전례가 드물다는 입장이다. 전에는 이들을 초청하지 않은 경우가 적잖았다는 것이다. 경찰청 관계자는 “올해는 국제 치안 협력을 강화하자는 취지에서 대사들을 초청했다”며 “각국 대사들은 대통령 참석 여부를 모른 채로 각자 일정에 따라 참석 여부를 정한 것으로 안다”고 말했다.&lt;br&gt;&lt;br&gt;이번 경찰의 날 기념식에는 주한 우크라이나 대사는 초대받지 못했다. 우크라이나는 볼로디미르 젤렌스키 대통령이 북한군 포로 송환 사실을 공개해 한국 정부와 마찰을 빚고 있다. 경찰청 관계자는 “우크라이나는 특별한 협력 의제가 없어 초청하지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 제32회 韓日 국제환경상</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/23/WLH674QIYFGF5F7H2SSLOPVCBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/23/WLH674QIYFGF5F7H2SSLOPVCBU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:53:00 +0000</pubDate>
-      <content:encoded>조선일보사와 일본 마이니치신문사(每日新聞社)가 공동 제정한 ‘한일국제환경상(The Asian Environmental Awards)’ 제32회 수상자로 한국의 이유정 제주 해녀와 일본의 NPO법인 ‘긴자 미쓰바치 프로젝트’가 선정됐습니다.&lt;br&gt;&lt;br&gt;시상식은 오는 29일 오후 4시 서울 중구 프레스센터 19층에서 개최됩니다. 수상자에게는 상장과 상패, 상금 1만달러가 수여됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲주최&lt;/b&gt;: 조선일보사·每日新聞&lt;br&gt;&lt;br&gt;&lt;b&gt;▲후원&lt;/b&gt;: 기후에너지환경부&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>물질하며 바다 청소… 꿀벌 키워 자연친화 도시 조성</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/23/DSITKXMKZFF33CIFOHWVBOD7VQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/23/DSITKXMKZFF33CIFOHWVBOD7VQ/</guid>
-      <dc:creator>박상현 기자, 오카 레이코(岡礼子) 마이니치신문 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIIOPIZGTNDSHL2SDQOXGZYUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제32회 한일 국제환경상(The Asian Environmental Awards) 수상자로 바닷속 폐그물과 플라스틱 등 해양 쓰레기를 수거하며 해양 생태계 보호에 앞장서 온 제주 해녀 이유정씨와 2006년부터 일본 도쿄 긴자의 빌딩 옥상에서 꿀벌을 키우며 도시 생물다양성 회복과 환경 교육에 힘써 온 비영리단체(NPO) ‘긴자 미쓰바치 프로젝트’가 선정됐다. 지난달 16일 한국 측 본선 심사에는 김명자 위원장 등 심사위원들이 참석해 심도 있는 논의를 진행했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[한국 수상자] 이유정 제주 해녀&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;그물·낚싯줄·유리병 등 해양 쓰레기 수거&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;학생·귀촌·귀어인에 생태계 보호 교육도&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNMCY4YBENHLBP3VQY33YGRRSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 제주시 이호테우해변에 있는 목마등대에서 이유정씨가 쓰레기를 치우고 있다. 그는 “이런 쓰레기가 바다로 들어가면 물질하는 해녀들에게 위험이 될 수 있다”고 했다. /이유정씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 바다에서 해녀가 건져 올리는 것은 해산물만이 아니다. 버려진 그물과 낚싯줄, 빈 유리병과 플라스틱 쓰레기도 물 밖으로 끌어낸다. &lt;br&gt;&lt;br&gt;이유정(38)씨는 31세에 제주시 이호어촌계 해녀가 됐다. 대학에서 중국어를 전공한 뒤 회사에 다니던 이씨는 서른이 되던 해 돌연 해녀학교에 등록했다. “아버지가 어부였고, 어린 시절부터 해녀가 많은 마을에서 살았어요. 회사 관두고 미래를 고민하다가, 더 늦기 전에 해녀로 살아보기로 결심했어요.”&lt;br&gt;&lt;br&gt;해녀가 된 이씨가 마주한 바닷속 세상은 푸르기만 하지 않았다. 각종 쓰레기가 떠다니며 해녀들의 생명을 위협하는 일도 잦았다. 물질 도중 낚싯줄에 걸려 목숨을 잃을 뻔했던 이씨는 이후 해산물을 채취하기 전 쓰레기부터 건져 올리는 습관이 생겼다고 한다. 이씨는 늘 뭍으로 어망 두 개를 가지고 나온다. 하나는 해산물, 하나는 쓰레기가 담겨 있다.&lt;br&gt;&lt;br&gt;이씨는 2024년 체계적인 바닷속 쓰레기 수거 활동 등을 위해 환경단체 ‘제주줌녀’를 설립했다. ‘줌녀’는 해녀를 뜻하는 제주어다. 이를 통해 해군 특수전전단(UDT)·해난구조전대(SSU) 출신 잠수 인력, 해양경찰 등과도 협력하고 있다. 지난해 9월 서귀포시 중문항 정화 활동 때는 해녀들과 UDT 전우회 회원들이 협력해 바닷속 쓰레기를 치우기도 했다. 당시 지역 어촌계에선 선박을 지원했다. 서로 다른 경험과 장비를 모아 깊은 곳에 방치된 폐어구와 생활 쓰레기를 제거한 것이다.&lt;br&gt;&lt;br&gt;바다 밖에서도 바닷속 실상을 알리고 있다. 2021년부터 학생과 귀어·귀촌인을 대상으로 해양 쓰레기와 플라스틱, 해양 생태계 등을 교육하고 있다. 물질을 하면서 직접 목격한 바다의 변화와 위험을 전하는 것이다. 이씨는 “바닷속 청소도 중요하지만, 육지에서 사람들이 일회용품을 많이 쓰는 생활 습관을 바꾸고 그 쓰레기가 함부로 버려지지 않도록 하는 게 해양 생태계 보호의 첫걸음”이라고 했다.&lt;br&gt;&lt;br&gt;그는 지난해 홍콩에서 열린 세계 바다의 날 국제 행사에 동아시아 대표 연사로 참여해 제주 바다의 환경 문제를 발표했다. 그린피스의 해양 다큐멘터리 ‘씨그널: 바다의 마지막 신호’에 출연하기도 했다. 해녀가 일상에서 마주하는 바다의 위기를 국제사회에 전한 것이다.&lt;br&gt;&lt;br&gt;이씨는 해녀와 바다를 주제로 그림도 그린다. 올해는 해녀 공동체에 대한 기록과 해녀 문화, 바다 환경 문제를 다룬 전시를 각각 열었다. 제주해녀협회 청년분과위원장으로서 청년 해녀의 활동과 해양 보전, 전통 생태 지식을 전승하는 일도 추진하고 있다. 이씨는 “바다를 지키는 일이 곧 그 바다에 기대 살아온 해녀의 삶과 문화를 이어가는 일이기도 하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“내 청춘 건 바다 오랫동안 지키고 싶어”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;이유정 제주 해녀&lt;/b&gt;&lt;br&gt;&lt;br&gt;어느 날 바닷속 폐어구와 오물을 수거하다 온몸에 악취를 뒤집어쓴 채 집으로 돌아왔습니다. 씻어도 냄새는 쉽게 사라지지 않았습니다. 어머니는 “수고했다”면서 저를 안아주셨습니다. “한창 향수 냄새가 나야 할 아가씨 몸에서 이런 냄새가 나면 되겠느냐. 왜 위험한 일을 사서 하느냐”며 눈시울을 붉히셨습니다.&lt;br&gt;&lt;br&gt;마음이 아팠지만 이를 후회하진 않습니다. 청춘을 건 바다에 대한 책임이자, 바다에서 삶을 얻은 해녀로서 지켜야 할 마음이라고 생각합니다. 쓰레기 하나 줍는다고 바다가 하루아침에 깨끗해질 순 없습니다. 하지만 적어도 그 쓰레기는 다시 바다의 생명을 위협하지 않을 겁니다. 바다를 지키는 게 해녀의 삶과 문화를 이어가는 일이기에 이런 작은 실천이 가치 있다고 생각합니다.&lt;br&gt;&lt;br&gt;이 상을 통해 그간 걸어온 길이 헛되지 않았다는 위로와 용기를 얻습니다. 함께 해온 동료들, 보이지 않는 곳에서 묵묵히 바다를 지켜온 모든 분들과 영광을 나누고 싶습니다. 더 꾸준히 행동하라는 격려로 받아들이겠습니다. 내일도 바다로 출근합니다. 다음 세대도 아름다운 바다에서 살아갈 수 있게 행동을 멈추지 않겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[일본 수상자] 긴자 미쓰바치 프로젝트&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;21년째 빌딩 옥상서 꽃 심고 양봉 사업&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;지난해 꿀 2t 수확, 지역 경제 활력까지&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW2ZHOH3LBF6LLCXD4EM4QVBHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 일본 긴자의 한 빌딩 옥상에서 다나카 아쓰오 ‘긴자 미쓰바치 프로젝트’ 부이사장이 벌통을 살피고 있다. 그는 “꿀벌은 사람을 모으는 힘이 있다”고 했다. /긴자 미쓰바치 프로젝트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비영리단체(NPO) ‘긴자 미쓰바치 프로젝트’는 고급 명품 매장이 즐비한 일본 도쿄 긴자에서 21년째 빌딩 옥상에 꽃과 나무를 심고 꿀벌을 키우며 ‘꿀벌도 살 수 있는 도시 만들기’에 앞장서고 있다. 지난 2006년 이 단체 사무국이 있는 빌딩 옥상에서 시작했는데, 지금은 긴자에서 꿀벌을 키우는 빌딩이 4곳으로 늘었다. ‘긴자산(産)’이란 이름으로 벌꿀 2t가량이 지난해 생산되기도 했다. 이 단체 다나카 아쓰오(68) 부이사장은 “꿀벌과 같은 생물들의 목소리에 귀 기울여 도심 지역을 디자인해 가는 환경 친화적 활동을 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;꿀벌은 꽃가루를 옮겨 식물의 수정을 돕는 ‘수분 매개자’로서, 식물이 열매를 맺고 번식하는 데 중요한 역할을 한다. 또 꿀벌이 늘어나면 이를 먹이로 삼는 새들까지 찾아오게 만든다. 실제로 바닷가에 주로 서식하는 바다직박구리가 긴자의 빌딩 주변에 모습을 드러내기도 했다.&lt;br&gt;&lt;br&gt;긴자에서 시작된 도시 양봉은 이제 일본 국내외 약 100곳으로 확산됐다. 병원, 해운 회사, 공항 등 꿀벌을 키우는 곳도 다양해졌다. 한국과 대만에도 뜻을 함께하는 사람들이 있다고 한다. 도쿄의 작은 빌딩 옥상에서 시작된 꿀벌과의 인연이 국경을 넘어 퍼져 나간 셈이다.&lt;br&gt;&lt;br&gt;이는 다양한 지역 교류 활동으로도 이어지고 있다. 긴자 미쓰바치 프로젝트는 양봉만으론 부족하다고 판단해 고구마를 심고, 이를 원료로 만든 소주 ‘이모진(芋人)’을 상품화(일본에선 NPO도 구성원에게 이익을 배당하지 않는 한 수익 사업을 할 수 있음)했다. 취지에 공감한 단체와 기업이 참여하면서 홋카이도 삿포로와 야마구치현 시모노세키 등 일본 각지로 활동이 확산됐다. 이들 각 지역에선 옥상에 고구마를 심고 지역 이름을 붙인 ‘이모진’을 생산 중이다.&lt;br&gt;&lt;br&gt;후쿠시마현과도 인연이 깊다. 2009년부터 긴자에 후쿠시마의 유채꽃을 심는 교류를 시작했고, 2011년 동일본 대지진 땐 방사능 오염 우려로 판매가 어려웠던 지역 특산물 ‘안포가키(반건조 곶감)’ 생산 등을 지원하며 피해 복구를 도왔다. 2016년부터는 후쿠시마시의 논에서 양조용 쌀을 재배해 일본 전통주인 사케를 만드는 프로젝트도 진행하고 있다. 다나카 아쓰오 부이사장은 “옥상 녹화 사업을 계기로 지방과의 연결고리가 생기고 상품 개발까지 이어진 것”이라고 했다.&lt;br&gt;&lt;br&gt;환경 교육도 하고 있다. 꿀벌이 사람들의 먹거리 생산과 얼마나 밀접하게 연결됐는지를 알려주면 벌을 바라보는 아이들의 시각은 물론, 어른들의 인식도 바꿀 수 있다고 보기 때문이다. 이에 매년 어린이부터 성인까지 약 5000명을 대상으로 ‘꿀벌’ 환경 교육을 실시하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“꿀벌·인간 함께하는 도시, 세계로 넓힐 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;다나카 아쓰오 긴자 미쓰바치 프로젝트 부이사장&lt;/b&gt;&lt;br&gt;&lt;br&gt;역사 깊은 한일국제환경상을 수상하게 돼 큰 영광입니다. 저희를 지지해 주신 모든 분께 감사드립니다. ‘긴자 미쓰바치 프로젝트’는 2006년 도쿄 긴자의 빌딩 옥상에서 꿀벌을 기르며 시작됐습니다. 처음에는 도심 양봉의 안전성을 우려하는 목소리도 있었지만, 많은 분의 도움으로 올해 20주년을 맞았습니다.&lt;br&gt;&lt;br&gt;첫해 150㎏에 불과했던 꿀 수확량은 올해 2700㎏으로 늘었습니다. 수확한 꿀은 긴자의 백화점과 레스토랑, 호텔 등에서 다양한 상품으로 재탄생해 지역 경제에도 활력을 불어넣고 있습니다. 이제 도시 양봉은 일본 전역 100여 곳으로 확산됐습니다. 이와 함께 추진된 옥상 녹화 활동은 도시와 농촌의 생산자, 주민, 학생들이 교류하는 장으로도 발전했습니다. 최근에는 꿀에 포함된 꽃가루를 분석해 도시의 생물 다양성을 파악하는 새로운 도전도 시작했습니다. 꿀벌의 작은 날갯짓이 전하는 메시지를 통해 도시 환경을 개선하려는 노력입니다.&lt;br&gt;&lt;br&gt;앞으로 한국을 비롯한 세계 각국 도시의 양봉 파트너들과 협력해 꿀벌과 인간이 공생하는 사회를 만들겠습니다. 이번 수상을 새로운 도약의 계기로 삼겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[한국 측 심사위원]&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKIV43DOJVEGJPHIBMNRHSTESM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▲김명자(金明子·사진) 심사위원장, 전 환경부 장관&lt;br&gt;&lt;br&gt;▲문길주(文吉周) 건국대 석좌교수&lt;br&gt;&lt;br&gt;▲황진택(黃鎭澤) 제주대 교수&lt;br&gt;&lt;br&gt;▲이병욱(李炳旭) 전 환경부 차관&lt;br&gt;&lt;br&gt;▲한삼희(韓三熙) 전 조선일보 수석 논설위원&lt;br&gt;&lt;br&gt;&lt;b&gt;[일본 측 심사위원]&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YKUACHW35DWJL4JTIIRTV56TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▲후쿠시마 요시노리(福島良典·사진) 심사위원장, 마이니치신문 주필&lt;br&gt;&lt;br&gt;▲쿠리스 키요(栗栖聖), 도쿄대학 대학원 공학계연구과 준교수&lt;br&gt;&lt;br&gt;▲도우케 테페이(道家哲平), 국제자연보호연합 일본위원회장&lt;br&gt;&lt;br&gt;▲미야케 가오리(三宅香), 일본 기후 리더 파트너십 이사&lt;br&gt;&lt;br&gt;▲모모이 다카코(桃井貴子), 기후네트워크 도쿄 사무소장&lt;br&gt;&lt;br&gt;▲야스바야시 고헤이(八林公平), S-Pool Blue Dot Green 사장&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IPXQEYT63JAJRE35FYDISOABYU.jpg?auth=21ae1bdc484a8a88f2510d3d80fe92ef1c207193320b900115dd95b85ca6e46a&amp;smart=true&amp;width=1050&amp;height=1400" type="image/jpeg" height="1400" width="1050">
-        <media:description type="plain">지난 5월 제주시 이호테우해변에 있는 목마등대에서 이유정씨가 쓰레기를 치우고 있다. 그는 “이런 쓰레기가 바다로 들어가면 물질하는 해녀들에게 위험이 될 수 있다”고 했다. /이유정씨 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 10월 23일</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/3XNJXJ2CNZGIZBD2E2TZLE6ZYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/3XNJXJ2CNZGIZBD2E2TZLE6ZYI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A76R5F26O5BZFI2IJZZXBRG5ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박성재 ‘검사 파견 지시’ 무죄, 특검의 심우정 기소 흔든다</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/23/ANEYW5ACGZDHHMCPUVOBSZGCXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/23/ANEYW5ACGZDHHMCPUVOBSZGCXA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAVBSW27NJAXFILODEOENRRCFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장. / 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21일 내란 중요 임무 종사 등 혐의로 기소된 박성재 전 법무장관에게 징역 9년을 선고한 항소심 재판부는 박 전 장관이 계엄사 합동수사본부에 검사 파견을 지시했다는 혐의에 대해 1심과 달리 무죄로 판단했다. 이 혐의는 2차 종합특검이 심우정 전 검찰총장을 기소하면서 적용한 혐의이기도 하다. 이 때문에 법조계에선 “특검 공소사실이 흔들리게 된 것 아니냐”는 해석이 나왔다.&lt;br&gt;&lt;br&gt;2차 특검은 지난 8월 심 전 총장과 전무곤 전 대검찰청 기획조정부장을 내란 중요 임무 종사 등 혐의로 불구속 기소했다. 2차 특검은 공소장에 “심 전 총장이 박 전 장관의 설명을 듣고 대검 공공수사부장 등에게 합수부 인력 파견 검토를 지시했다”고 적시했다. 특검은 박 전 장관에 대한 1심 유죄 판결문을 주요 참고자료로 활용했다고 한다. &lt;br&gt;&lt;br&gt;그런데 2심에서 박 전 장관 관련 혐의가 무죄로 뒤집혔다. 서울고법 형사1부(재판장 윤성식)는 21일 1심에서 징역 25년을 선고받은 박 전 장관 형량을 징역 9년으로 대폭 감형하면서, 계엄사 합수부 검사 파견 지시 혐의에 대해 “원론적 차원의 지시만 한 것으로 내란이라고 보기 어렵다”며 무죄를 선고했다. 지난 6월 서울중앙지법 형사33부(재판장 이진관)는 이 혐의에 대해 “박 전 장관이 내란 중요 임무를 수행한 것”이라고 판단했었다.&lt;br&gt;&lt;br&gt;계엄 당시, 박 전 장관이 심 전 총장에게 세 차례 전화한 것을 두고도 1심은 “검찰의 내란 행위 가담으로 의심할 추가 정황이 존재한다”면서 “심 전 총장이 박 전 장관 지시를 이행한 것으로 보인다”고 했다. 그러나 2심은 “구체적인 통화 내용이 확인되지 않아 박 전 장관이 관련 지시를 했다고 보기 어렵다”고 결론냈다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 심 전 총장이 검토한 합수부 파견 검사 명단을 증거로 제시한다. 그러나 심 전 총장 측은 “합수부 파견자가 아니라 비상계엄(내란) 사건을 수사할 특별수사본부 파견 검사 명단을 검토한 것”이라고 반박한다. 심 전 총장 측은 또 2차 특검이 합수부 파견 검사 명단이라고 주장하는 ’241203 계엄수사팀(후보)' 파일 작성 시점은 2024년 12월 4일 오후 4시 16분으로 확인됐다고 한다. 심 전 총장 측은 “비상계엄 해제 발표(12월 4일 새벽 4시 30분) 이후 12시간여가 지난 시점에 합수부 검사 파견을 검토했다는 게 말이 되냐”고 했다.&lt;br&gt;&lt;br&gt;한 법조계 인사는 “1심 판결을 근거로 심 전 총장을 기소했다가 상급심에서 판단이 뒤집혔으니, 특검의 공소사실 자체가 흔들리게 된 셈”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이별이 아쉬운 걸까… 5시간 만에 돌아온 부캉이</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/L4PYK7RJ3JGPJPUUIVY4WZGASE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/L4PYK7RJ3JGPJPUUIVY4WZGASE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLLTJPZP2BADBE7GSV4O7SNSNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 부산 북항 친수공원 수로에서 흑상어 ‘부캉이’가 헤엄치고 있다. 전날 바다로 나갔던 부캉이는 약 5시간 만에 돌아와 해양수산부가 설치한 3겹 차단막 중 첫 번째를 통과했다. 사진 속 그물은 두 번째 차단막으로, 오른쪽이 수로 안쪽이다. 해수부는 그물을 보강하고 부캉이가 스스로 바다로 나가기를 기다리기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가을의 단맛이 주렁주렁 </title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/5R6DRVHNGFCLBK74NLR75QNPK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/5R6DRVHNGFCLBK74NLR75QNPK4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEG7XL5AYFFENLNM7RJEKR3KPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서리가 내리기 시작한다는 절기 상강(霜降)을 하루 앞둔 22일 경북 상주의 한 곶감 농장. 주황색 감이 빼곡하게 매달려 있다. 이날 전국 곳곳에 한파주의보가 내려질 만큼 쌀쌀했다. 곶감을 살펴보는 농장 직원도 털모자를 썼다. 기상청은 이번 추위가 23일 낮부터 풀릴 것이라고 예상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 지휘 안 받는 ‘특사경’ 80%가 경력 3년도 안 돼</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/BEHW6DEWSBE4FM6OH3ML36D7BY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/BEHW6DEWSBE4FM6OH3ML36D7BY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEOHDRZXENNCFN3ZMYOFXRB6XA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 정부대전청사에서 열린 국회 재정경제기획위원회의 국가데이터처, 관세청, 조달청에 대한 국정감사장에 국민의힘 윤영석 의원이 준비한 관세청 특사경 수사 경력 현황 자료가 표출되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2일 검찰청이 폐지된 이후 지방자치단체에도 비상이 걸렸다. 그동안 검사의 수사 지휘를 받아온 ‘특사경(특별사법경찰)’ 때문이다. 특사경은 식품 위생, 불법 대부업, 부동산 담합 등 시민 생활과 밀접한 범죄를 수사하는 공무원이다. 정부 부처나 지자체, 공공기관 등에 2만여 명이 있다. 특사경 상당수는 일반 행정 업무를 하다가 옮겨와 수사한다. 일정 기간이 지나면 다른 부서로 옮기는 순환 보직도 한다. 이 때문에 수사 경력이 짧은 편이다. 지난해 말 기준 전국 특사경 2만 419명 중 80.5%는 수사 경력이 3년 미만이었다. 경력 1년 미만도 절반 가까이(47.2%) 된다. 대구시는 특사경 237명 중 234명이 3년 미만이다.&lt;br&gt;&lt;br&gt;그동안 검사는 특사경이 법을 잘못 적용하거나 증거를 충분히 확보하지 못하면 보완 수사를 지시했다. 지난해 검사가 특사경에 내린 수사 지휘는 4만6726건이었다. 경기도가 5080건, 서울시가 2072건이었다. 하지만 지난 2일부터 검사 지휘가 사라졌다. 개정 형사소송법에 따르면, 검사는 특사경이 요청할 때만 ‘지도·조언’을 할 수 있다. 특사경은 이 지도·조언에 따를 의무가 없다.&lt;br&gt;&lt;br&gt;지자체에선 “앞으로 겁나서 수사하겠나” 하는 말이 나온다. 수사가 잘못되면 직접 책임을 져야 하기 때문이다. 실제 올 3월 법왜곡죄가 시행된 뒤 4월 말까지 이 법을 위반한 혐의로 고소당한 특사경은 80명이다. 서울·부산·울산·경기 등 지자체와 금융위원회·식품의약품안전처 특사경 담당자들은 정부 검찰개혁추진단에 검사의 수사 지휘가 필요하다는 의견도 냈다.&lt;br&gt;&lt;br&gt;서울시는 최근 검찰·경찰 출신 인사 5명을 모아 수사 자문단을 꾸렸다. 다음 달에는 형사법 전문 변호사를 2명 채용한다. 민생사법경찰국장도 외부에서 뽑을 예정이다.&lt;br&gt;&lt;br&gt;부산시는 지난달 30일 수사 경력자 한 명을 뽑기 위해 임기제 수사관 채용 공고를 냈다. 순환 보직 없이 장기간 수사를 맡는 전문관은 한 명도 없다. 부산시 관계자는 “정원을 확보하는 게 힘들다”고 했다.&lt;br&gt;&lt;br&gt;지자체들은 작년 12월 ‘광역지자체 특사경 실무협의체’를 출범했다. 특사경을 교육하고 수사 기법을 공유하기 위해서다. 정부에 제도 개선도 요구하고 있다. 참여한 지자체가 5곳에서 최근 12곳으로 늘었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BGKXXT6LLZEBFKTRQB2OYC7NHM.jpg?auth=7c0c6e8a6e9489aa147c5bc3d1b5175a17923bf508f8429a7e941b9416b4e20f&amp;smart=true&amp;width=4007&amp;height=2254" type="image/jpeg" height="2254" width="4007">
-        <media:description type="plain"> 관세청 특사경 수사 경력 현황
-    (대전=연합뉴스) 양영석 기자 = 15일 정부대전청사에서 열린 국회 재정경제기획위원회의 국가데이터처, 관세청, 조달청에 대한 국정감사장에 국민의힘 윤영석 의원이 준비한 관세청 특사경 수사 경력 현황 자료가 표출되고 있다. 2026.10.15
-    youngs@yna.co.kr/2026-10-15 13:48:54/
-&amp;lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">양영석</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>주말에 잠수교서 치킨 먹을까, 김천서 김밥 먹을까</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/FCCOUFZSWVBFNITHAVIJNEU2Q4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/FCCOUFZSWVBFNITHAVIJNEU2Q4/</guid>
-      <dc:creator>이미지 기자, 대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQDKTNTI6FAX3PLNIIUCIJ4QDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 김천시가 23~25일 사명대사공원 등지에서 개최하는 김천김밥축제. 김밥과 라면 등 분식을 먹을 수 있는 행사다. 이번 축제에는 전국 각지의 김밥 60여 종을 맛볼 수 있다. /김천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말에는 입맛 따라 먹거리 여행을 떠나보자. 치킨이 당긴다면 서울 한강 잠수교, 떡볶이를 좋아한다면 대구, 김밥이 먹고 싶다면 경북 김천이다.&lt;br&gt;&lt;br&gt;25일 서울 한강 잠수교에는 400m짜리 치킨 식탁이 차려진다. 한 번에 1000명이 앉을 수 있는 규모다. ‘치킨 파티’는 오후 4시와 6시 두 차례 열린다. 한강을 바라보며 다양한 치킨을 맛볼 수 있다. BBQ·푸라닭 등 유명 프랜차이즈는 물론 속초 만석닭강정과 서울 오늘통닭·반포치킨 등도 참여한다. 원하는 치킨을 골라 먹으려면 미리 예약해야 한다. 이날 반포대교 달빛무지개분수는 노란색 물줄기를 뿜는다. 치킨 튀김옷을 표현한 것이다. 이번 행사는 잠수교가 보행전용교로 바뀌기 전 열리는 마지막 축제다. 서울시는 26일부터 잠수교의 차량 통행을 막고 리모델링 공사에 들어간다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N27J2U3ZO5FWZFZVMGP46TEDPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 11월 경북 구미역에서 열리는 구미라면축제에 출품된 '버거와 함께라면'. 햄버거 패티로 볶은 라면을 넣어 만들었다. /구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23~25일 대구iM뱅크파크 일대에서는 ‘2026 대구 떡볶이 페스티벌’이 열린다. 전국 37개 업체가 참여한다. 대구 방촌시장 떡볶이, 속초 홍게떡볶이, 인천 대왕판떡볶이, 청주 떡보라 등을 한자리에서 맛볼 수 있다. 방문객이 직접 떡볶이를 만드는 ‘뽀기 수랏간’ 등 체험 프로그램도 운영한다. &lt;br&gt;&lt;br&gt;같은 기간 김천에서는 김천김밥축제가 열린다. 이 축제는 ‘김천 하면 김밥천국이 떠오른다’는 설문조사 결과에서 시작됐다. 올해 3회째다. 김천 특산물인 지례 흑돼지를 넣은 ‘고추잡채김밥’ 등 김밥 60여 종을 선보인다. 작년에는 전국에서 15만명이 몰려 김밥을 사려면 한 시간씩 줄을 서야 했다. 올해는 기다리는 시간을 줄이기 위해 QR코드로 주문·결제할 수 있게 했다. 셔틀버스를 지난해 50대에서 60대로 늘리고 서울, 부산, 대구 등에서 축제장까지 가는 직행 버스도 운행한다.&lt;br&gt;&lt;br&gt;떡볶이와 김밥을 먹으러 대만 관광객 145명이 한국을 찾는다. 한국관광공사가 대구 떡볶이 축제와 김천 김밥 축제를 묶은 여행 상품을 내놓은 것이다.&lt;br&gt;&lt;br&gt;이번 주말에 시간이 없다면 다음 달 6~8일 구미에서 열리는 라면 축제를 노려보자. 구미시는 농심 구미 공장에서 신라면의 75%가 생산된다는 점에 착안해 전국 최초로 라면 축제를 열었다. 올해 5회째다. 공장에서 갓 만든 라면을 맛볼 수 있다. 글로벌 라면 요리 대회도 열린다. 예선을 통과한 13국 참가자가 각자 개발한 조리법으로 라면 요리 실력을 겨룬다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울, AI 도시 세계 3위… 부산, 올해의 여행지 5위</title>
-      <link>https://www.chosun.com/national/regional/2026/10/23/UULHR74OEVF53D2FEOLFHB7HOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/23/UULHR74OEVF53D2FEOLFHB7HOY/</guid>
-      <dc:creator>부산=김미희 기자 , 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:44:00 +0000</pubDate>
-      <content:encoded>서울이 영국 매체 옵서버가 발표한 ‘2026 AI(인공지능) 도시 지수’에서 세계 3위에 올랐다. 부산은 글로벌 여행 사이트 익스피디아가 선정한 ‘2027 올해의 여행지’ 5위를 차지했다. 서울시는 22일, 부산시는 21일 이 같은 평가 결과를 각각 발표했다. &lt;br&gt;&lt;br&gt;‘AI 도시 지수’에서 서울보다 순위가 높은 도시는 미국 샌프란시스코와 뉴욕뿐이었다. 중국 베이징, 프랑스 파리, 영국 런던보다 앞섰다. AI 도시 지수는 AI 투자와 혁신, 도입·활용 등 3개 분야 50개 지표를 평가한다. 서울은 도입·활용 분야에서 세계 1위를 차지했다. 그만큼 기업과 정부, 교육 현장에서 AI를 많이 쓰고 있다는 얘기다. 옵서버는 “AI 분야에서 서울은 미국 밖에서 가장 두드러진 도시로 떠올랐다”고 했다.&lt;br&gt;&lt;br&gt;익스피디아는 전 세계 이용자의 항공편·숙소 검색량을 분석해 관심이 쏠린 여행지 10곳을 뽑았다. 작년 9월부터 올 7월까지 검색량을 전년 같은 기간과 비교했다. 부산 검색량은 전년보다 50% 늘었다. 1위는 미국 캘리포니아주의 휴양 도시 사우스레이크타호(195%)였다. 이어 일본 효고현, 우루과이 푼타델에스테, 미국 애리조나주 세도나 순이었다.&lt;br&gt;&lt;br&gt;익스피디아는 부산을 ‘활기찬 해변과 시장, 대도시의 에너지를 함께 즐길 수 있는 곳’으로 소개했다. 광안리해수욕장과 해운대해수욕장, 신세계 센텀시티 등을 부산의 주요 관광지로 꼽았다. 실제 부산을 찾는 외국인 관광객은 빠르게 늘고 있다. 부산시에 따르면, 올 1~8월 외국인 방문객은 343만 4620명으로 작년 같은 기간보다 45.9% 증가했다. 올 들어 8개월 만에 지난해 연간 방문객 364만명에 육박했다. 이정실 부산관광공사 사장은 “소셜미디어에선 부산을 다시 찾고 싶어 하는 마음을 ‘부산병(釜山病)’이라고 부를 정도”라며 “울산·경남 등 주변 도시와 연계한 관광 프로그램도 개발하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울은 지난 6일 미국 여행 전문지 콘데나스트 트래블러의 독자 투표에서 ‘세계 최고 대도시’ 1위에 올랐다. 지난 3월 영국 매체 타임아웃의 ‘세계 최고 도시’ 순위에선 지난해 42위에서 올해 9위로 뛰었다. 서울시 관계자는 “한국에 대한 세계인의 관심과 달라진 위상을 반영한 결과로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
       <link>https://www.chosun.com/special/announcement/2026/10/23/WMVPZKEPIVCKVPZLUQGQWEZXBI/</link>
       <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/10/23/WMVPZKEPIVCKVPZLUQGQWEZXBI/</guid>
@@ -903,15 +893,6 @@
       <description/>
       <pubDate>Thu, 22 Oct 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WATF4IHTPFDD5I4RXAVKBLQWME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-10-23일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 16일 ‘우리 아기가 태어났어요’ 코너에 실린 박정우&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 이경민·이기택 딸 태린 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/23/5VLZRHFLBFEUNHL5EYHUURQMLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/23/5VLZRHFLBFEUNHL5EYHUURQMLU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RP7XXO4V5RFAFBTZWINVOFIQIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 강선이 별세 외</title>
