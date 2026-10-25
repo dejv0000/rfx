@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>12년만에 ‘10월 태풍’... 제주·남부에 많은 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/10/25/FRUDX7B2WZDVFCBLGANJ4W6FZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/25/FRUDX7B2WZDVFCBLGANJ4W6FZY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Oct 2026 12:44:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3GIZTGMU4WMZBYMMYWENRRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 제주 서귀포시 안덕면 건물 지하가 침수된 모습. / 제주도소방안전본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30호 태풍 ‘참피’의 영향으로 26일까지 제주와 남부 지방에 많은 비가 예보됐다. ‘참피’는 2014년 ‘봉퐁’ 이후 12년 만에 10월에 발생해 한반도에 영향을 준 가을 태풍으로 기록됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, ‘참피’는 25일 밤 제주 남쪽 해상을 지나 26일 일본 가고시마로 향할 것으로 예상된다. 현재 세력은 ‘강도 1′로 크지 않아 일본 해상에서 온대저기압(열대성 에너지를 잃고 찬 공기와 섞인 저기압)으로 약화될 것으로 보인다.&lt;br&gt;&lt;br&gt;‘참피’의 영향으로 지난 23일부터 25일 오후 10시까지 제주에 최대 382.5㎜, 부산 143㎜, 거제 133㎜ 등 가을비치고는 많은 양의 비가 내렸다. 26일 예상 강수량은 제주 20~60㎜, 호남 5~20㎜, 영남 5~40㎜ 등이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUUQHM5T7JI5DISDNU6LFEOPKM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 경북 포항시 북구 동빈항에 제30호 태풍 참피 영향으로 조업을 포기한 어선들이 정박돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 제주 먼바다에 태풍특보가 내려지면서 ‘참피’는 ‘장미’(6월 2일)에 이어 올해 두 번째로 한반도에 영향을 준 태풍이 됐다. 올해는 여름철 폭염을 발생시키는 북태평양고기압과 티베트고기압 세력이 워낙 강력했기 때문에 정작 한여름엔 태풍이 ‘열돔’에 막혀 우리나라로 북상하지 못했다.&lt;br&gt;&lt;br&gt;기상청이 태풍 통계를 집계하기 시작한 1951년 이후 10월 태풍은 1951년, 1994년, 1998년, 2013년, 2014년 등 다섯 차례에 불과했다. 허창회 이화여대 기후에너지시스템공학과 석좌교수는 “온난화 여파로 해수면 온도가 상승하며 태풍의 발생 시기와 이동 경로의 패턴이 깨지고 있다”며 “이제 ‘가을 태풍’도 대비해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MI3GIZTGMU4WMZBYMMYWENRRME.jpg?auth=b08d21ef08d26da77edad57505155f219fc85ccb23038a77016010e7f83bb0dd&amp;smart=true&amp;width=2028&amp;height=1142" type="image/jpeg" height="1142" width="2028">
+        <media:description type="plain">25일 오전 제주 서귀포시 안덕면 건물 지하가 침수된 모습.(제주도소방안전본부 제공. 재판매 및 DB 금지)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>전남광주 광산구 폐기물업체 주불 진화…완진까지 장시간 예상</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/25/O6MPEHI2TNEBNFHWJFH4Z3BNCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/25/O6MPEHI2TNEBNFHWJFH4Z3BNCM/</guid>
+      <dc:creator>전남광주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Oct 2026 11:09:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTSR7V2NT5B4NN2YQ2OGK4SJGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방당국이 25일 오후 6시 38분쯤 전남광주 광산구의 한 폐기물 처리 업체 화재를 초진하고, 건물 내부에 쌓여 있는 폐기물을 꺼내고 있다. /전남광주통합소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남광주 광산구의 한 폐기물 처리 업체에서 난 불이 9시간 만에 초진됐다.&lt;br&gt;&lt;br&gt;전남광주통합소방본부는 25일 “이날 오후 6시 38분쯤 전남광주 광산구의 한 폐기물 처리 업체 화재 진압 과정에서 주불을 진화했다”고 밝혔다. 이날 오전 9시 34분쯤 이곳에서 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 오전 10시 53분쯤 대응 1단계를 발령하고, 소방 장비 40대와 인력 95명을 투입해 진화 작업을 벌였다. 화재로 인한 인명 피해는 발생하지 않았다. 전남광주시는 재난 문자를 통해 인근 주민들에게 화재 사고 지점을 우회해 줄 것을 당부했다.&lt;br&gt;&lt;br&gt;소방 당국은 화재 장소에 쌓여 있는 폐기물을 꺼내면서 잔불을 끄고 있다. 소방 당국 관계자는 “화재 장소에 다량의 고철과 폐비닐 등 건설 폐기물이 쌓여 있어 완진까지 장시간이 걸릴 것으로 예상된다”고 전했다.&lt;br&gt;&lt;br&gt;소방 당국은 화재를 진압한 뒤 정확한 화재 경위와 피해 규모 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZTSR7V2NT5B4NN2YQ2OGK4SJGM.jpg?auth=0dedb0e20da2428f2d291e7d8ace53f6bb472b8149301105b62fce631256c763&amp;smart=true&amp;width=4000&amp;height=1848" type="image/jpeg" height="1848" width="4000">
+        <media:description type="plain">소방당국이 25일 오후 6시 38분쯤 전남광주 광산구의 한 폐기물 처리 업체 화재를 초진하고, 건물 내부에 쌓여 있는 폐기물을 꺼내고 있다. /전남광주통합소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘부캉이’ 찾으러 배 띄운 유튜버… 보안시설인 여객터미널 찍다 적발</title>
+      <link>https://www.chosun.com/national/regional/2026/10/25/K4JDCV2ENJFG7CWUSB4X3UBKZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/25/K4JDCV2ENJFG7CWUSB4X3UBKZ4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Oct 2026 08:24:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSGKZTBMZRTQNLBHFSTGNJQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산해양경찰서 전경. /부산해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산항 국제여객터미널 앞바다에 있는 흑상어 ‘부캉이’의 모습을 찍기 위해 배를 빌려 불법 촬영하던 유튜버가 해경에 적발됐다.&lt;br&gt;&lt;br&gt;부산해양경찰서는 국제항해선박 및 항만시설 보안에 관한 법률 위반 등 혐의로 30대 남성 유튜버 A씨를 적발했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 낮 12시 30분쯤 부캉이의 모습을 찍기 위해 배를 타고 부산항 국제여객터미널을 불법 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 북항 친수 공원 수로에서 부캉이의 모습을 생중계하던 유튜버였다. A씨는 여객터미널 인근에 출몰한 부캉이를 찍으려다 통제에 가로막히자 이 같은 범행을 저지른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 부산 동구 1부두 인근에서 통선을 빌린 뒤 여객터미널 인근 해상으로 넘어가는 모습을 유튜브로 생중계했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨의 영상을 시청하던 시민의 신고를 받은 해경은 현장으로 연안 구조정을 보내 A씨와 통선 선장 등을 적발했다. 부산항 국제여객터미널은 국가 보안 시설로 일반인의 출입과 영상 촬영이 금지된다. &lt;br&gt;&lt;br&gt;부산해경 관계자는 “A씨의 위법 사실을 부산지방해양항만청에 통보할 예정”이라면서 “A씨는 부산항만청에서 과태료 처분을 받을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;해경은 또 A씨에게 배를 빌려준 통선 선장을 유선 및 도선 사업법 위반 혐의로 입건해 조사할 예정이다.&lt;br&gt;&lt;br&gt;친수 공원 수로 입구를 맴돌다 장시간 모습을 감췄던 부캉이는 전날 오후부터 이날 오후까지 부산항 국제여객터미널 앞바다에서 유영하는 모습이 관찰됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 10월 26일 월요일 (음력 9월 16일 癸酉)</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/25/WFN2LFZTRNENHDVTU4FRNG2VUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/25/WFN2LFZTRNENHDVTU4FRNG2VUU/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>2만2천명이 물들인 춘마 80주년, 단풍보다 눈부셨다</title>
       <link>https://www.chosun.com/national/national_general/2026/10/25/OPIZF2ETCZCBLGAKYYWAEGTWIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/25/OPIZF2ETCZCBLGAKYYWAEGTWIA/</guid>
@@ -937,24 +982,6 @@
       </media:content>
     </item>
     <item>
-      <title>내년 개교하는 서울반도체고, 신입생 모집 ‘4.73대1′ 경쟁률</title>
-      <link>https://www.chosun.com/national/education/2026/10/23/F5I5LG4BLNDAJDPE3OPS6ZHK2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/10/23/F5I5LG4BLNDAJDPE3OPS6ZHK2M/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Oct 2026 05:30:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYTCYJSGM3TOODDGVRTQM3EGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국반도체마이스터고 1학년 학생들이 지난 16일 SK하이닉스 청주 캠퍼스를 방문해 현장 학습을 받은 뒤 기념사진을 찍고 있다. /한국반도체마이스터고 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년에 개교하는 서울반도체고가 신입생 모집에서 4.73대1의 경쟁률을 기록했다.&lt;br&gt;&lt;br&gt;23일 서울시교육청은 2027학년도 서울 지역 마이스터고 5곳의 신입생 원서 접수 결과를 발표했다. 교육청에 따르면, 모집정원 604명에 총 1604명이 지원했다. 경쟁률은 2.66대1이다.&lt;br&gt;&lt;br&gt;서울 마이스터고 5곳 가운데 서울반도체고가 가장 높은 경쟁률을 보였다. 처음 신입생을 모집하는 서울반도체고는 64명 정원에 303명이 몰리며 4.73대1의 경쟁률을 기록했다. 서울반도체고는 반도체장비과와 반도체제조과를 운영하며, 실습 중심으로 수업을 진행할 예정이다.&lt;br&gt;&lt;br&gt;반도체고의 인기는 지역에서도 나타나고 있다. 대구반도체마이스터고는 2027학년도 신입생 96명을 모집한다. 여기에 학생 248명이 지원해 경쟁률 2.58대1을 기록했다. 2026학년도 경쟁률은 1.85대1이었다.&lt;br&gt;&lt;br&gt;경북 경주에 있는 한국반도체마이스터고도 2027학년도 신입생 64명 모집에 110명이 몰렸다. 한국반도체마이스터고의 신입생 모집 경쟁률은 2025학년도 0.91대1에서 2026학년도 1.67대1, 2027학년도 1.72대1로 상승하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>中 화풍 벗어난 겸재의 ‘진경산수’, 대구서 4만 관람객이 홀렸다</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/KJZNIJDJNFDIJKGD7OOVUOZBRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/KJZNIJDJNFDIJKGD7OOVUOZBRM/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Oct 2026 06:23:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWSTUY4SNNGSJH6BMG26HRJJFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 16일부터 대구간송미술관에서 열리고 있는 겸재 정선 탄생 350주년 기념 특별전의 모습. 한달 간 4만 2000명이 다녀갔다./대구간송미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 간송미술관에서 개최한 조선 시대 화가 겸재 정선 특별전에 한 달 만에 4만여 명이 넘는 관람객이 방문했다.&lt;br&gt;&lt;br&gt;23일 대구시에 따르면, 지난달 16일 개막한 대구간송미술관의 겸재 정선 탄생 350주년 기념 특별전 ‘겸재 정선 – 조선의 눈으로 조선을 그리다’에 관람객 4만2000명이 다녀간 것으로 집계됐다. &lt;br&gt;&lt;br&gt;간송미술문화재단과 삼성문화재단이 공동 기획하고 국립중앙박물관과 개인 소장가가 참여한 이번 전시에선 국보 ‘금강전도’와 보물 ‘풍악내산총람’을 비롯한 정선의 작품 216점을 볼 수 있다. &lt;br&gt;&lt;br&gt;겸재 정선은 풍경화를 그릴 때 중국의 화풍이나 모본(模本)을 따라 그리던 흐름에서 벗어나, 우리 산천의 실제 모습과 아름다움을 담아낸 진경산수(眞景山水) 화풍의 대가로 꼽힌다. 그의 작품은 금강산을 금강산답게, 인왕산을 인왕산답게 그려냈다고 평가받는다. 간송미술관 관계자는 “겸재의 진경산수화는 국토에 대한 애정과 자긍심을 예술로 구현한 성취로, 한국 회화사에서도 독보적인 위치를 차지하고 있다”고 했다.&lt;br&gt;&lt;br&gt;대구시는 이번 특별전을 계기로 문화 콘텐츠를 확대해 전국의 관람객을 대구로 유치하고 지역의 문화적 경쟁력을 높일 방침이다. 황보란 대구시 문화체육관광국장은 “앞으로도 대구간송미술관을 비롯한 지역 문화예술 기관과 협력해 수준 높은 전시를 늘리고, 시민들이 일상에서 우리 문화유산의 아름다움과 가치를 누릴 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>韓·中 경제학계, 서울대서 머리 맞대고 ‘경쟁적 협력’ 모색</title>
       <link>https://www.chosun.com/national/national_general/2026/10/23/2KNBWY72BRAAFOWJR5U6DUECHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/2KNBWY72BRAAFOWJR5U6DUECHU/</guid>
@@ -962,24 +989,6 @@
       <description/>
       <pubDate>Fri, 23 Oct 2026 04:40:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJWX74FCPJHLPERG4NIQJ4OD5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울대 관악캠퍼스에서 제4회 한중경제포럼이 열렸다./한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국과 중국 경제학계 등이 모여 급변하는 지정학적 정세 속 공동 성장을 위한 해법을 함께 논의했다. 인사들은 양국이 자유무역과 다자주의 원칙을 지키며 공급망 안전을 지켜내는 경제 파트너로서 협력해야 한다는 데 의견을 모았다. &lt;br&gt;&lt;br&gt;23일 서울대학교 우석경제관에서 ‘제4회 한중경제포럼’이 개최됐다. 한중경제포럼은 양국 경제학자와 정책 연구자, 기업인 등이 경제 협력 방안을 모색하는 국제 학술 회의다. 올해는 ‘글로벌 변혁 시대, 아시아·태평양의 선도적 역할: 기술 주도 전환, 규범 재편과 공동 번영’을 주제로 열렸다. &lt;br&gt;&lt;br&gt;이날 축사를 맡은 다이빙 주한 중국 대사는 “현재 지정학적 환경은 더욱 복잡해졌고 일방주의와 보호주의가 고개를 들면서 공급망의 안정이 흔들리고 있다”며 “한중 양국이 자유무역과 다자주의를 지키고 공급망의 안전을 지켜내며 아시아·태평양 지역 발전에 새로운 동력을 불어넣어야 한다”고 했다. &lt;br&gt;&lt;br&gt;특히 다이빙 대사는 “이제는 협력 속 경쟁, 경쟁 속 협력이 새로운 일상이 됐다”며 “중국의 초대형 시장은 한국에 위기가 아니다. 중국 시장과 지리적으로 인접하다는 강점을 살려 (한국이) 중국과 협력의 파이를 탄탄하게 키워 상생의 기회를 살려주길 바란다”고 했다. &lt;br&gt;&lt;br&gt;또 다이빙 대사는 “다음 달 중국에서 개최되는 APEC 행사에 이재명 대통령을 공식 초대했다”며 “양국이 협력을 강화해 국제 자유 무역 체제와 공급망을 함께 지켜 글로벌 도전에 대응해 가야 한다”고 했다. &lt;br&gt;&lt;br&gt;김소영 서울대 경제학과 교수는 개회사에서 “한중은 반도체·자동차 등 첨단 제조 분야에서 긴밀히 연결되어 있으며 기술 혁신의 결과를 나누고 있다”며 “경쟁할 분야에서는 공정하게 경쟁하고, 협력할 수 있는 분야에서는 과감히 손을 맞잡는 것이 성장하는 길”이라고 했다. &lt;br&gt;&lt;br&gt;동즈용 베이징대 부총장은 “한중이 서로 시너지를 발휘하는 긴밀한 관계가 되려면 예측 가능한 제도가 뒷받침되어야 한다”며 “대화와 소통을 통해 학자들 간의 우정이 양국 국민들의 우정으로 이어지길 바란다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L477GY3NKNAGFOKDJJFUBZ7CEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울대 관악캠퍼스에서 열린 제4회 한중경제포럼에서 (왼쪽부터) 권남훈 산업연구원장, 이종화 고려대 경제학부 석좌교수, 김병연 서울대 경제학부 석좌교수, 장정 베이징대 교수, 이보 베이징대 교수가 토론을 진행 중인 모습./한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 진행된 메인 포럼(‘인공지능과 산업 전환: 아시아·태평양 지역의 기술 경쟁력 재편’)에서는 김병연 서울대 경제학부 석좌교수를 좌장으로 권남훈 산업연구원장, 이종화 고려대 경제학과 석좌교수, 장정·이보 베이징대 교수가 토론에 참여했다. 인사들은 AI 분야에서 한국과 중국이 가진 강·약점을 분석하고 각자의 강점을 살려 협력할 수 있는 방안을 내놓았다. &lt;br&gt;&lt;br&gt;권남훈 산업연구원장은 “사실 세계 국가들은 중국이 모든 것을 하려는 것 아닌가 하는 우려를 갖고 있지만 지금은 무조건적인 경계보다는 상호 협력 방안을 찾아야 할 때”라며 “전력, 냉각, 데이터센터 입지 같은 전략적 충돌이 크지 않은 부분에 있어서는 협력이 가능하다. 또 AI 활용을 어떻게 (대기업을 넘어) 중소기업에까지 확대할 것인지 등을 함께 고민해 가야 한다”고 했다. &lt;br&gt;&lt;br&gt;이종화 고려대 경제학부 석좌교수는 AI의 발달이 노동시장에 가져올 변화를 분석해 발표했다. 이 교수는 “AI가 당장 일자리를 줄이고 있다는 근거는 없다”며 “AI를 어떻게 보완적으로 잘 활용할 수 있느냐가 기업의 생산성과 국가의 역량을 키우는 만큼, 제도와 정치가 중요해진다”고 했다. &lt;br&gt;&lt;br&gt;장정 베이징대 교수는 “AI 시대에 인간이 데이터를 통해 기계를 잘 지휘하고 활용할 수 있기를 바라지만, 문제는 기계가 데이터를 활용해 사람을 지휘하고 있다는 것”이라며 “양국 기술자들이 머리를 맞대고 인공지능이 우리에게 안겨주는 문제를 해결하기 위해 노력해야 할 것”이라고 했다. &lt;br&gt;&lt;br&gt;이보 베이징대 교수는 “인공지능이 산업 현장에 많이 침투했다고 해서 바로 고부가가치를 만들어내는 건 아니다”라며 “중국은 기술을 적용해볼 수 있는 넓은 시장을, 한국은 고도의 제조 능력을 갖고 있는 만큼 각자의 강점을 공유하고 협력할 수 있는 지점이 있다고 본다”고 설명했다. &lt;br&gt;&lt;br&gt;이날 오후에는 5개의 학술 분과 세션이 진행될 예정이다. 스테이블 코인, 에너지 전환과 저탄소 발전, 지역 무역 규범, 인공지능 혁신 등이 주제다. &lt;br&gt;&lt;br&gt;한편 이날 포럼은 한국경제비전네트워크(대표 김소영 서울대 경제학부 교수), 서울대학교, 베이징대학교, 서울대 경제정책비전센터, 한국경제학회, 주한중국상회 등이 공동 주최했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“동의하면 에어컨 드려요”…종로구 재개발 동의서 불법 논란</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/23/2K4R5BMBK5FCBKG2WIA5SJJNFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/23/2K4R5BMBK5FCBKG2WIA5SJJNFA/</guid>
-      <dc:creator>윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Oct 2026 03:33:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTGCM3EGJRDQMBYGBRWKMRSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창신 9·10구역 재개발 추진 당시 주민 동의를 받기 위해 배포한 안내문. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 창신 9·10구역 재개발 추진위원회 측이 주민들에게 4000만원 상당 혜택을 약속하며 동의서를 받은 것으로 조사됐다고 종로구가 23일 밝혔다. 종로구는 동의서를 다시 받도록 요구했다.&lt;br&gt;&lt;br&gt;종로구에 따르면 창신 9·10구역 추진위원회 측은 재개발 신탁 사업시행자 지정을 위해 토지 등 소유자 동의율 75%를 확보하는 과정에서 빌트인 가전, 발코니 확장, 시스템 에어컨 등 4000만원 상당 물품 제공을 약속했다. 또 추진위 측은 “동의하지 않으면 향후 청산될 수 있다”는 취지로 안내해 주민의 자유로운 의사결정을 침해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;구는 금품·향응 수수와 제공을 금지한 ‘도시 및 주거환경정비법’ 제132조 위반에 해당한다고 판단했다. 이에 신탁 사업시행자 지정 신청을 수용하지 않고, 추진위 측에 주민 동의서를 전면 다시 받도록 요구했다.&lt;br&gt;&lt;br&gt;구 관계자는 “시공 등 막대한 자금이 투입된 이후 재개발 반대 측이 동의서 징구 무효 소송을 제기하면 사업이 2년 이상 지연될 수 있다”며 “약 3개월이 걸리는 동의서 재징구 절차를 거쳐 분쟁 가능성을 없애는 것이 사업 속도와 주민 재산권 보호에 유리하다”고 했다.&lt;br&gt;&lt;br&gt;앞서 재개발에 반대하는 주민들로 구성된 비상대책위원회가 동의서 수집 과정의 위법 행위를 종로구에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;창신 9·10구역은 한양도성과 낙산에 둘러싸인 구릉지에 노후 저층 주택이 밀집한 지역이다. 각각 2667가구와 1875가구 규모의 아파트 단지로 재개발하는 사업이 추진돼 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>북한산서 서울 야경 보고, 경주서 달빛 산책…국립공원 야경 투어 시작</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/23/6RK2X5UAHJEQDH5ETLO7FRLKP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/23/6RK2X5UAHJEQDH5ETLO7FRLKP4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 23 Oct 2026 02:23:01 +0000</pubDate>
-      <content:encoded>국립공원에서 해설사와 함께 밤길을 걸으며 도심 야경과 문화유산을 감상하는 특별 탐방 프로그램이 시작된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TGMBYGQ2GGOLFMYZWCNZZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경주국립공원에서 참가자들이 '야경 투어'를 하는 모습. /국립공원공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 국립공원공단은 이날부터 다음 달 14일까지 매주 금요일과 토요일 경주·북한산·팔공산 등 3개 국립공원에서 ‘국립공원 야경 관광’을 시범 운영한다고 밝혔다. 공원별 특성을 살려 야경을 감상하면서 자연과 역사, 문화 해설을 함께 듣는 프로그램이다.&lt;br&gt;&lt;br&gt;경주국립공원에서는 ‘신라의 밤하늘과 달빛을 따라 걷다’를 주제로 월정교에서 계림을 거쳐 월성 해자까지 1.2㎞ 구간을 걷는다. 북한산국립공원 도봉 지역에서는 무수골에서 쌍둥이 전망대까지 1㎞ 구간을 탐방하며 서울 도심의 야경과 밤 숲의 소리를 즐길 수 있다. 팔공산국립공원 서부 지역에서는 선본사에서 갓바위 관봉까지 1㎞를 걸으며 대구 도심 야경을 감상하고 소원을 비는 시간을 보낸다.&lt;br&gt;&lt;br&gt;자연환경해설사 2명이 동행하고, 회당 참여 인원은 20명 이내로 제한된다. 야생생물에 미치는 영향을 줄이기 위해 일몰 시간대에 조용히 탐방하는 방식으로 운영될 예정이다.&lt;br&gt;&lt;br&gt;참여 신청은 국립공원공단 예약 시스템(knps.or.kr)에서 할 수 있으며 일부 현장 예약도 받는다. 공단은 올해 시범 운영을 한 뒤 내년에는 대상 공원과 탐방 구간을 확대할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울서 남북 교전·北주석궁 폭격… 게임이라 괜찮나, 선을 넘었나</title>
