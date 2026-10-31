@@ -13,6 +13,141 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 11월 1일 일요일 (음력 9월 22일 己卯)</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/31/Q2JCL5OZYZDSTEGG3XYXOBVSEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/31/Q2JCL5OZYZDSTEGG3XYXOBVSEE/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>동요 따라 부르고, 경찰 ‘사이드카’ 체험… 부산을 채운 동심의 함성</title>
+      <link>https://www.chosun.com/national/regional/2026/10/31/VIJQWNYYJFBPLKHUEAPGSZW4RU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/31/VIJQWNYYJFBPLKHUEAPGSZW4RU/</guid>
+      <dc:creator>부산=김미희 기자 , 부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 06:50:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PKHZGA5BBCUHIG2WETFEFGSYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 부산 해운대구 영화의전당 하늘연극장에서 노래를 함께 따라 부르며 즐길 수 있는 ‘바다 탐험대 옥토넛 싱어롱쇼’가 열렸다. ‘2026 아이가 행복입니다 부산’ 행사 프로그램이다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“바닷속 친구들과 만날 준비 됐나요.”&lt;br&gt;&lt;br&gt;31일 오전 부산 해운대구 영화의전당 하늘연극장. 이곳에선 노래를 함께 따라 부르며 즐길 수 있는 ‘바다 탐험대 옥토넛 싱어롱쇼’가 열렸다. ‘2026 아이가 행복입니다 부산’ 행사 둘째 날 첫 프로그램이었다. 어린이들은 힘찬 목소리로 노래를 따라 부르고 춤을 췄다. 부산 강서구에서 온 이예빈(7)양은 “평소 좋아하던 애니메이션 속 캐릭터를 만나서 신나고 재밌는 시간이었다”고 했다. &lt;br&gt;&lt;br&gt;이 행사는 조선일보가 2018년 저출생 문제를 극복하기 위해 시작한 캠페인이다. 아이를 낳아 행복한 가정을 격려하고, 출산·보육 정책과 아이디어를 공유하는 행사다. 30일과 31일 이틀간 열린 올해 부산 행사는 조선일보와 부산시가 공동 주최하고 교육부와 보건복지부, 성평등가족부, 인구전략위원회가 후원했다. 행사 기간 부산·울산·경남에서 온 가족 5000여명이 참석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RL2GCCTKD5DJ3EPIX4C2KCEUUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김붕년 서울대병원 소아청소년정신과 교수가 31일 부산 해운대구 영화의전당에서 열린 '2026 아이가 행복입니다. 부산'에서 특강을 하고 있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김붕년 서울대병원 소아청소년정신과 교수가 ‘소아 청소년의 뇌 발달을 바탕으로 한 양육법’을 주제로 펼친 강연도 반응이 뜨거웠다. 먼저 김 교수는 18개월에서 36개월 사이 아이의 뇌 발달이 가장 중요하다고 강조했다. 이 시기 인생을 살아가는 기본적인 기능이 모두 완성된다고 한다. 김 교수는 “우리 선조들은 뇌 과학을 몰랐지만 ‘세 살 버릇 여든까지 간다’라는 속담을 만들어냈다. 경험에서 우러나온 지혜다. 0~3세 때 만들어진 정서, 인지, 사회적 관계의 기본 회로는 평생을 살아가는 기초가 된다”고 했다.&lt;br&gt;&lt;br&gt;또 스킨십의 중요성에 대해서도 강조했다. 김 교수는 “스킨십은 단순한 애정 표현이 아니다. 태어나서 3년간은 피부와 뇌는 한 몸과 같다”며 “따뜻한 접촉은 뇌에 직접 자극을 주는 발달 촉진제”라고 했다.&lt;br&gt;&lt;br&gt;흔히 첫 번째 사춘기라고 부르는 ‘미운 네 살 시기’엔 공부를 시키는 것보단 맘껏 뛰어놀게 해주는 것이 더 중요하다고 했다. 이 시기 아이들의 뇌를 MRI로 찍어본 결과 감각 조절과 운동 조절, 감각·운동 통합, 시지각 협응을 담당하는 뇌 영역이 가장 활발하게 작동한다. 김 교수는 “이 시기 아이들의 활동량이 폭발하는 것은 아이의 고집이 아니라 뇌의 명령이다. 성장하는 뇌가 몸을 많이 움직이라고 명령을 내리는 시기이기 때문에 4~6세까지는 신체 활동을 통해 많이 놀게 해줘야 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKTD3BGC3FH2XPZZHNUN2P22RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 부산 해운대구 영화의전당에서 열린 '2026 아이가 행복입니다. 부산' 행사에서 시민들이 싸이카 탑승하기 체험을 하고 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야외 광장에선 부산자치경찰위원회가 마련한 경찰 호위 차량 ‘사이드카’ 체험이 인기를 끌었다. 김준수(6)군은 “앞으로 커서 멋진 경찰이 되고 싶다”고 했다. 찾아가는 미아 방지 지문 사전 등록 부스에도 부모들이 관심을 보였다. 렛츠런파크 부산·경남에서 마련한 ‘말과 함께하는 오감 체험’ 부스에도 긴 줄이 이어졌다. 자녀와 함께 행사에 참여한 김소연(33)씨는 “도심에서 만나기 힘든 포니를 직접 만질 수 있어 유익한 시간이었다”고 했다. &lt;br&gt;&lt;br&gt;이날 ‘제19회 부산시 다자녀 가정의 날 기념식’도 개최돼 의미를 더했다. 영화의전당 하늘연극장에서 다자녀 가정 유공자 포상과 축하 공연 등이 열렸다. 김소영 부산시 여성가족국장은 환영사에서 “올해 기념식은 더 많은 시민이 참석할 수 있도록 아이가 행복입니다 부산 행사 기간에 맞췄다”며 “부산시는 시민이 일상에서 체감할 수 있는 다양한 복지 혜택을 늘리고 있다”고 했다. 시는 출산·양육 정책과 임산부 배려석 알리미 ‘핑크라이트’ 홍보 공간 등을 운영했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4CH3XGK52VHZVFIC2VFSQ6KZAE.jpg?auth=e1be0921a485bb19638d1037ee84070bb9c422278de3189d33202b4c728b449e&amp;smart=true&amp;width=5606&amp;height=3154" type="image/jpeg" height="3154" width="5606">
+        <media:credit role="author" scheme="urn:ebu">JINWOO KIM</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>프랑스 6·25 참전용사, 부산 전우 곁에 잠들다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/10/31/Q4OYS76KZBB57KDJKDGKMLC65M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/10/31/Q4OYS76KZBB57KDJKDGKMLC65M/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 06:31:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66ZXBVUSXFAIRNJ6UW5GB7XJQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑스 참전용사 아르샹보 / 유엔기념공원 관리처 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁에 참전한 프랑스 참전용사 고(故) 세르주 가브리엘 아르샹보씨가 고인의 뜻에 따라 부산의 전우들 곁에 잠들었다.&lt;br&gt;&lt;br&gt;31일 오후 2시 부산 남구 유엔기념공원에서는 아르샹보씨의 유해 안장식이 열렸다. 안장식은 개식, 추도사, 유해 축성, 안장·헌토, 묵념, 유가족 인사말 순으로 진행됐다.&lt;br&gt;&lt;br&gt;아르샹보씨는 18세에 프랑스군에 입대해 제1차 인도차이나 전쟁에 참전한 후 1951년 8월 29일 6·25전쟁 참전을 지원했다.&lt;br&gt;&lt;br&gt;그는 한국에서 복무하면서 1951년부터 1952년까지 철의 삼각지대와 철원 서쪽 티본(T-Bone) 전투 등에 참전했다.&lt;br&gt;&lt;br&gt;1952년 2월 중공군의 포격 당시에는 주변에 있던 전우들이 목숨을 잃고, 자신만 살아남은 순간을 생전 잊지 못했다고 한다. 격렬한 전투를 치르면서 전우와 적군의 시신에 둘러싸인 참호에서 15일을 지낸 경험은 아르샹보씨에게 깊은 상처로 남았다.&lt;br&gt;&lt;br&gt;그는 프랑스로 귀국한 후 1980년대부터 프랑스 6·25 참전용사협회 활동에 참여하기 시작했고, 이후 각종 추모행사에서 기수로 참석하며 전우들의 헌신과 희생을 기억하는 활동을 이어왔다.&lt;br&gt;&lt;br&gt;생전 여러 차례 한국에 대한 각별한 애정을 드러낸 아르샹보씨는 한국전에서 전사한 전우들이 잠들어 있는 유엔기념공원에 안장되고 싶다는 뜻을 밝혀왔다.&lt;br&gt;&lt;br&gt;그는 유엔기념공원 안장을 희망하는 이유에 대해 “한국은 나에게 매우 특별한 두 번째 조국이기 때문”이라고 말한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;유엔기념공원에 안장된 레몽 베나르, 앙드레 발레발, 로베르 피크나르 등 전우들의 이름을 직접 언급했다고 한다.&lt;br&gt;&lt;br&gt;아르샹보 참전용사가 안장되면서 유엔기념공원에는 총 14국 2341명의 유엔군 참전용사가 잠들게 됐다. 이 중 프랑스 안장자는 50명이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3EUU7JNQEBJEXPYGAXRFRRQRSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 인천국제공항 2터미널에서 6·25 참전용사 고(故) 세르주 아르샹보 유해봉환식이 거행됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/66ZXBVUSXFAIRNJ6UW5GB7XJQU.jpg?auth=531aff2c76ae09dff0a7d849cf0f4335d45f1a7bf01df7b3b7eec019b059c65a&amp;smart=true&amp;width=683&amp;height=1003" type="image/jpeg" height="1003" width="683">
+        <media:description type="plain">프랑스 참전용사 아르샹보 / 유엔기념공원 관리처 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>인천 영흥도 해상 낚시어선 불… 선장·해경 등 4명 다쳐</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/10/31/CQCXXPKBTFALHM55K32Z4YAYDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/10/31/CQCXXPKBTFALHM55K32Z4YAYDI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 06:13:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4PHVMGOFRBEFB2MQCRGLK2K2A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;사고선박. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영흥도 해상을 운항 중이던 낚시어선에서 불이 나 선장과 해양경찰관 등 4명이 다쳤다.&lt;br&gt;&lt;br&gt;31일 인천해양경찰서에 따르면 이날 오전 6시 51분쯤 인천시 옹진군 영흥도 남방 0.9해리 해상에서 9.77t급 낚시어선에서 불이 났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;선박위치발신장치(V-PASS) 구조신호를 접수한 해경은 경비함정과 연안구조정 등을 투입해 화재를 진압하며 낚시어선에 타고 있던 선장과 선원, 낚시객 20명 등 총 22명을 모두 구조했다.&lt;br&gt;&lt;br&gt;이 사고로 낚시어선 선장과 낚시객 2명, 해양경찰관 2명 등 4명이 연기를 마셔 병원으로 이송돼 치료를 받고 있다. 부상자들은 생명엔 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;불은 해경이 진화 작업을 벌여 신고 접수 31분이 지난 오전 7시 22분쯤 모두 꺼졌다.&lt;br&gt;&lt;br&gt;해경은 “선내 객실에서 불꽃과 연기가 발생했다”는 목격자 진술을 토대로 구체적인 화재 원인과 피해 규모를 조사할 방침이다.&lt;br&gt;&lt;br&gt;인천해경 관계자는 “-PASS SOS 알람을 통해 사고 상황을 신속하게 인지하고 대응했다”면서 “어선 종사자들은 출항 전 안전 점검을 철저히 하고, 화재 등 긴급 상황 발생 시 신속히 신고해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정가 6배 뻥튀기해 600만원 이득… 야구 PO ‘매크로 암표상’ 10대 적발</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2026/10/31/UBWBXG43C5A3BHWC2H6HCBAOMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2026/10/31/UBWBXG43C5A3BHWC2H6HCBAOMU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 04:19:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YWIMJXHA2GGODGHEYTOZRQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 포스트시즌 입장권을 매크로 프로그램(반복 작업을 자동으로 수행하는 프로그램)으로 대량 구매한 뒤 웃돈을 받고 되팔아 부당이득을 챙긴 10대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산경찰청 사이버수사과는 국민체육진흥법 위반, 업무방해 혐의로 A(19)군을 검거했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난 15~16일 매크로 프로그램으로 프로야구 포스트시즌 공식 예매처에서 12차례에 걸쳐 입장권 50여 장을 사들인 후 중고 거래 플랫폼을 통해 9차례에 걸쳐 웃돈을 받고 판매한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A군은 입장권을 정가의 3~6배 가격으로 되팔아 약 600만원 상당의 부당 이익을 챙겼다.&lt;br&gt;&lt;br&gt;국민체육진흥공단의 의뢰로 수사에 나선 경찰은 이번 수사 결과를 문화체육관광부에 통보해 과징금 부과 등 후속 조치가 이뤄지도록 할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지난 8월 28일 국민체육진흥법이 개정, 시행되면서 매크로 프로그램을 사용하지 않더라도 판매자 동의 없이 상습 또는 영업으로 구입가보다 비싸게 입장권을 되파는 부정 판매는 처벌 대상이 된다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주사로도 못 뺀 살… 꾸준히 달려 30㎏ 뺐죠”</title>
+      <link>https://www.chosun.com/national/national_general/2026/10/26/PBPMDAXABFGMFG4IGQQOEGMEKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/26/PBPMDAXABFGMFG4IGQQOEGMEKE/</guid>
+      <dc:creator>춘천=이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 Oct 2026 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HROOWFUD4VG6NFIU654NKD4OBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;달리기로 30㎏ 이상 체중 감량에 성공한 남자들이 25일 춘천마라톤 풀코스에 도전해 모두 완주에 성공했다. 문진용(왼쪽부터), 김민기, 이동희, 권주영씨가 각자 가장 체중이 불었던 시기의 휴대폰 사진을 내밀어 보이고 있다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“가벼워진 나를 느낄 때마다 달리는 게 더 좋아집니다.”&lt;br&gt;&lt;br&gt;평균 감량 체중 33.3㎏. 25일 춘천마라톤에서 42.195㎞를 완주한 이동희(43)·김민기(40)·문진용(38)·권주영(27)씨는 1~2년 전까지 100㎏ 안팎의 거구였다. 고혈압, 고지혈증 같은 질병을 안고 살았다. 피로가 쉽게 찾아와 몸을 움직이기 싫을 때가 많았다. 건강에 적신호가 켜진 걸 알았지만 주사를 맞아도, 한약을 먹어도, 심지어 헬스나 무술을 해도 살이 빠지는 건 잠시뿐이었다.&lt;br&gt;&lt;br&gt;달리기는 달랐다. 그저 발을 떼 몸을 앞으로 움직였을 뿐인데 이들은 각각 30㎏ 이상씩 감량에 성공해 탄탄한 체형의 러너로 거듭났다. 네 명 모두 처음엔 400m 운동장 한 바퀴 도는 것도 숨이 차 버거웠다고 한다. 하지만 가다 서다를 반복하면서도 이들은 멈추지 않고 1년 이상 꾸준히 뛰었다. 그리고 살이 빠졌다.&lt;br&gt;&lt;br&gt;이들은 “달리기를 하면서 처음으로 요요 현상(체중이 감량 전으로 돌아가거나 그보다 늘어나는 것)을 겪지 않았다”며 “체중 감량을 고민하고 있다면 지금 바로 문 밖으로 나서라”고 입을 모았다. 권주영씨는 “한 바퀴 돌고 오면 2㎏ 정도가 바로 빠지니 살 빼는 재미가 곧 달리는 재미가 되더라”며 “지금은 짜장면, 치킨을 먹으면 바로 몇 km 뛰어야 하는지 계산이 돼 먹어도 요요가 오지 않는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJXIBMCKNZBKVP4G3QTJ74MTK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문진용(왼쪽부터 시계 방향으로), 김민기, 이동희, 권주영씨가 달리기 포즈를 취했다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;달리기 시작한 계기는 저마다 달랐다. 문진용씨는 아버지의 시한부 판정과 사업 부진이 겹친 작년 10월 ‘달리기가 고통스럽다면 네 인생은 아직 살 만하다는 것’이란 말을 접하고 러닝에 입문했다. 실제 달려보니 힘이 들어 위안을 얻었다고 한다. “아버지가 생전에 같이 운동하자고 하셨을 때 한 번도 말을 듣지 않아 후회가 크다”며 아버지를 가슴에 품고 뛰겠다던 그는 3시간50분56초로 완주했다. 초보 러너에서 풀코스 마라토너가 된 1년 사이 몸무게는 98㎏에서 68㎏으로 줄어들었다.&lt;br&gt;&lt;br&gt;이동희씨는 작년 5월 아들과 아내 생각에 무작정 공원으로 나섰다. 몸무게가 110㎏까지 불어나 건강이 악화됐을 때였다. 가족과 오래 함께하고 싶다는 생각으로 걷기부터 시작한 그는 현재 몸무게가 78㎏까지 줄었고, 이날 3시간43분52초로 완주에 성공했다.&lt;br&gt;&lt;br&gt;체중이 113㎏이었던 권주영씨는 건강 검진 결과 당뇨 등 생활습관병 우려가 커지자 충격을 받고 러닝에 입문했다. 2년도 안 돼 체중 41㎏을 줄였고 역시 풀코스 완주자(3시간12분39초)가 됐다. ‘서브 4′를 목표로 내걸었는데 한참 앞서는 기록으로 달성했다.&lt;br&gt;&lt;br&gt;2년 전 여름 친구가 뇌경색으로 쓰러진 뒤부터 뛰기 시작한 김민기씨도 체중을 120㎏에서 90㎏으로 감량했고 이날 춘마에서 세 번째 풀코스 완주(4시간50분46초)에 성공했다. 지하철 기관사인 김씨는 “결승선을 통과한 순간 초보 시절부터 함께 뛰어 준 회사 동호회(서울 9호선 런닝구) 동료들, 쓰러졌다가 건강을 회복한 친구가 떠올랐다”며 “이들이 있어 끝까지 해낼 수 있었다”고 말했다. 김씨를 제외한 3명은 모두 춘마가 인생 첫 풀코스 도전이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US5USJLSLNELRA6PBL4Z6ODCLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문진용(왼쪽부터), 김민기, 이동희, 권주영씨가 각자 가장 체중이 불었던 시기의 휴대폰 사진을 들고 미소를 지었다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;드라마틱한 삶의 변화를 체감하면서 이들은 달리기 예찬론자가 됐다. 과체중으로 고민하는 이들, 달리기를 실행에 옮기지 못하는 이들에게 “일단 집 밖으로 나가라”고 전했다. 산책이든 스트레칭이든 실외 활동이 모든 것의 시작이라고 했다. 김민기씨는 “기록 욕심, 남과의 비교는 내려두고 차근차근 꾸준히 거리를 늘려가면 달라진 자신을 만나게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 02:05:11 +0000</pubDate>
+      <content:encoded>일요일인 1일 전국 대부분 지역에 비가 내리겠다. 북쪽에서 찬 공기가 내려오면서 다음 주부터는 기온이 크게 떨어지겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43TGMJQMJSWCZRTGA3TQZRRHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가을비가 내리는 서울 종로구 광화문네거리. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 비는 1일 오전 경기 남서부와 충청권에서 시작해 오후에는 남부 지방과 제주로 확대되겠다. 밤부터는 전국 대부분 지역에 비가 내리다가 중부지방과 전라권은 2일 새벽, 경상권과 제주는 아침에 대부분 그치겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 제주 10~60㎜, 전남광주 5~40㎜, 부산·울산·경남 5~30㎜다. 전북과 대구·경북에는 5~20㎜, 충청권과 서해 5도에는 5~10㎜, 서울·인천·경기와 강원에는 5㎜ 안팎의 비가 내릴 전망이다. 제주엔 1일 늦은 밤부터 2일 이른 새벽 사이 돌풍과 천둥, 번개를 동반한 시간당 20㎜ 안팎의 강한 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;1일 아침 최저기온은 3~10도, 낮 최고기온은 10~18도로 평년보다 다소 낮겠다. 2일에는 아침 최저 6~15도, 낮 최고 14~21도로 예상된다. 3일 아침 기온은 0~9도까지 떨어지겠지만 낮에는 15~19도까지 오르겠다.&lt;br&gt;&lt;br&gt;4~6일에는 아침 기온이 4~14도, 낮 기온은 12~19도로 평년과 비슷하거나 조금 낮겠지만, 6일 오후부터는 북서쪽에서 찬 공기가 내려오면서 기온이 더 낮아지겠다. 7~10일 아침 최저기온은 0~8도, 낮 최고기온은 10~16도로 평년보다 낮을 전망이다. 내륙을 중심으로 낮과 밤의 기온 차가 10도 이상 벌어지는 곳도 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 주택가서 대마 재배, 수원중수청 ‘마약 1호 사건’ 20대 구속</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2026/10/31/R2B5BDDRIZDXRCQDKYJWBXVAHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2026/10/31/R2B5BDDRIZDXRCQDKYJWBXVAHM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 01:57:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSGMYTCGU3GGZJQMNTDGOJSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원시 영통구 수원지방중대범죄수사청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수원지방중대범죄수사청이 개청 후 1호 마약 사건으로 서울 주택가에서 대마를 재배한 20대를 구속했다.&lt;br&gt;&lt;br&gt;수원중수청 마약합동수사과(과장 안인수)는 마약류관리법 위반 혐의로 A(20대)씨를 구속했다고 31일 밝혔다. 지난 30일 수원지법은 A씨에 대해 “도주 및 증거인멸 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 자신의 서울 주거지에서 전문 시설을 갖추고 수년간 대마를 재배한 혐의를 받는다. 마약합동수사과는 수원중수청 개청 후 A씨 사건을 인지해 수사를 벌여왔으며 지난 28일 체포영장을 발부받아 A씨를 주거지에서 체포했다. 현재 A씨의 공범에 대해서도 수사가 진행 중이다.&lt;br&gt;&lt;br&gt;수원중수청 마약합동수사과는 전국 지방 중수청 중 유일한 마약류 합동수사 전담 부서다. 앞서 수원지검 마약범죄 정부합동수사본부(마약합수본) 뒤를 이어 신설된 조직이다.&lt;br&gt;&lt;br&gt;마약합동수사과는 중수청, 경찰, 출입국·외국인정책본부, 관세청 등이 참여한 43명 규모로 조직돼 마약 관련 범죄에 대응하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>핼러윈 전날 강남·용산 등 서울 주요 유흥가 마약 단속... 적발은 없어</title>
+      <link>https://www.chosun.com/national/incident/2026/10/31/K6PPBQLZMREYDCRAVNNFUDZK2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/31/K6PPBQLZMREYDCRAVNNFUDZK2Y/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 01:36:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYWKMRYGY3WMNBQGM3DKZRXHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;핼러윈 데이를 하루 앞둔 지난 30일 밤 서울 용산구 이태원 일대에 인파가 몰려 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰·소방·지방자치단체가 핼러윈 데이(31일) 전날 심야 시간 서울 주요 유흥가에서 마약류 합동 단속을 벌였으나 위반 사항이 적발되진 않았다. &lt;br&gt;&lt;br&gt;서울경찰청은 31일 “전날 서울 강남·서초·용산구 유흥가 등 마약류 취약 지역의 주요 클럽 8곳을 단속한 결과, 마약류관리법 위반 사항은 확인되지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 단속은 지난 8월부터 진행 중인 ‘하반기 범정부 마약류 합동 특별 단속’ 일환이다. 각 지역 관할 경찰서 마약전담수사팀과 범죄예방질서계, 구청 위생과 소속 공무원 등이 참여했다. 경찰은 마약류관리법 위반 여부를, 구청은 식품위생법 위반 여부를 중점적으로 점검했다.&lt;br&gt;&lt;br&gt;경찰은 “핼러윈 데이를 앞두고 다중 인파 운집이 예상되는 클럽·유흥업소·외국인 밀집 지역을 중심으로 단속했다”며 “앞으로도 취약 지역 점검·단속 활동을 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 마약류 범죄 신고자의 신원을 보장하고 신고 보상금을 지급하겠다며 적극적인 제보를 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김병기, 6개월 만에 경찰 출석... “악의적 고발, 무죄 입증할 것”</title>
+      <link>https://www.chosun.com/national/incident/2026/10/31/KNVK5VKZMNHW7ADTQ3T6WXXUVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/10/31/KNVK5VKZMNHW7ADTQ3T6WXXUVE/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 01:27:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6P7XXQCEOZPVBD7633WWNSYAJM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 이광호 기자 = 차남 취업 특혜와 공천헌금 등 각종 비위 의혹으로 수사를 받는 김병기 무소속 의원이 31일 오전 서울 마포구 서울경찰청 광역수사단 공공범죄수사대에 피의자 신분으로 조사를 받기 위해 출석하며 취재진 질문에 답하고 있다. 2026.10.31/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;각종 비위 의혹으로 수사를 받고 있는 무소속 김병기 의원이 31일 경찰에 출석해 피의자 조사를 받았다. 김 의원이 경찰에 출석한 건 약 6개월 만이다. &lt;br&gt;&lt;br&gt;김 의원은 이날 오전 서울경찰청 광역수사단 공공범죄수사대에 여덟 번째 피의자 조사를 받기 위해 출석했다. 김 의원은 ‘공천 헌금 의혹’ ‘차남 특혜 취업 의혹’ ‘보좌진 갑질 의혹’ 등 13가지 의혹으로 경찰 수사를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 지난달 7일 김 의원에 대해 특정범죄가중처벌법상 뇌물·업무방해 등 혐의로 구속영장을 신청했다. 그러나 서울중앙지방공소청(당시 서울중앙지검)은 “구속 필요성에 대한 소명이 부족하다”며 경찰에 보완수사를 요구하고 구속영장을 반려했다.&lt;br&gt;&lt;br&gt;이번 소환은 공소청이 요구한 보완수사를 이행하기 위한 차원으로 풀이된다.&lt;br&gt;&lt;br&gt;김 의원은 이날 경찰에 출석하며 “(수사가 시작된 지) 1년이 지났다”며 “그동안 말로 다 못할 불이익을 당하고 있다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;그는 “누가 봐도 악의와 거짓으로 점철된 고발”이라며 “수차례에 걸쳐 수사를 조기에 종결시켜 줄 것을 탄원하기도 했다”고 했다. 그러면서 “경찰은 객관성을 가지고 증거에만 입각해서 신속하게 수사를 마무리해 주실 것을 다시 한번 요청 드린다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 불구하고 아직까지는 수사의 시간”이라며 “성실하게 소명해서 무혐의를 입증하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보복운전 20대, 경찰 보이자 술타기·음주운전…징역 1년</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2026/10/31/HDBYB7W7KNG4LEXOJLMURDRCVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/10/31/HDBYB7W7KNG4LEXOJLMURDRCVQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 01:31:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRTEYTDGA2TKZJSMQZGIM3FMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상대 운전자가 쳐다봤다는 이유로 보복운전을 벌이다 경찰이 출동하자 술을 마셔 음주 측정을 방해하고, 음주 상태로 운전한 20대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 정종건 부장판사는 특수협박과 특수재물손괴, 도로교통법상 음주측정방해와 음주운전 혐의로 기소된 A(25)씨에게 징역 1년을 선고했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 26일 새벽 경기 평택시 한 도로를 걸어가던 중 B(28)씨가 차 안에서 창문 사이로 째려봤다는 이유로 차를 몰고 B씨의 차량을 쫓았다.&lt;br&gt;&lt;br&gt;A씨는 약 1.1㎞ 구간에서 급가속과 급감속을 반복하며 무리하게 진로를 변경했다. 이를 피하기 위해 B씨는 차량을 중앙선 넘어로 운행했다가 다시 주행차로로 복귀하던 중 급하게 끼어들며 멈춰 선 A씨의 차량과 충돌했다.&lt;br&gt;&lt;br&gt;사고 직후 차에서 내려 B씨에게 “나와”라고 소리치던 A씨는 경찰이 출동하자 인근 편의점으로 가 소주 1병을 구매하곤 소주를 마시며 “열 받아서 술을 마셨다. 어떻게 할 거냐”고 했다. 음주 측정을 방해하기 위해 술을 마시는 이른바 ‘술타기’ 수법을 저지른 것이다. &lt;br&gt;&lt;br&gt;그러나 A씨는 사고 현장이 정리된 뒤 음주 상태로 차량을 운전하다 적발됐다. 당시 A씨의 혈중알코올농도는 0.178%였다. &lt;br&gt;&lt;br&gt;정 부장판사는 “죄질이 불량하고 준법의식이 미약하다”면서 “범행을 인정하고 피해자들과 원만히 합의한 점 등을 고려해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘필기 30번 낙방’ 60대, 87m 무면허 운전에 징역 6개월 </title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/10/31/J5MWPYQHGVDTFACQN4B6AZM234/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/10/31/J5MWPYQHGVDTFACQN4B6AZM234/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 00:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3DIYTBHAZDQNZRGU2WEODBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 충주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운전면허 없이 80m가량 차를 이동시킨 60대에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 충주지원 형사2단독 김주현 부장판사는 도로교통법 위반(무면허운전) 혐의로 재판에 넘겨진 A(63)씨에게 징역 6개월을 선고했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 충북 음성군의 한 도로에서 운전면허 없이 화물차를 운전한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;과거 무면허 운전으로 벌금형 등 여러 차례 처벌받은 전력이 있던 A씨는 동종 범죄로 인한 집행유예 기간 중 또 범행을 저지르면서 실형을 피하지 못했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “생계 유지를 위해 차가 필요했지만 운전면허 필기시험에 30차례 넘게 떨어져 면허를 따지 못했다”면서 “평소 운전을 대신해 주던 사람이 잠깐 자리를 비운 사이 불가피하게 차를 이동시켜야 해서 운전했다”고 진술했다.&lt;br&gt;&lt;br&gt;재판부는 “과거 선처를 받았지만 집행유예 기간에 또다시 무면허 운전을 했다”면서 “피고인이 수차례 면허시험에 응시했고 비교적 짧은 거리를 운행했더라도 반복되는 범법 행위와 교통법규 준수 결여로 인한 사고 발생 위험을 간과할 수 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출소 나흘 만에 또 스토킹, 60대 징역 1년</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2026/10/31/KVLFMX3HBVABBPTG25UVQZ5FIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2026/10/31/KVLFMX3HBVABBPTG25UVQZ5FIQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 00:51:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTDGMZYHAYGMNZXGIYDCMLFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스토킹 등의 범죄로 복역 후 출소한 지 나흘 만에 거듭 스토킹 범죄를 저지른 60대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 스토킹범죄의 처벌 등에 관한 법률 위반 혐의로 기소된 A(67)씨에게 징역 1년을 선고했다고 31일 밝혔다. 법원은 또 스토킹 치료 프로그램 40시간 이수도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 강원 춘천시 한 수퍼마켓을 찾아 주인 B씨에게 “인사 안 하냐. 내가 감방에서 나왔다”고 말했다. B씨가 가게 안으로 들어가 출입문을 잠그자 A씨는 출입문을 발로 걷어찼다.&lt;br&gt;&lt;br&gt;당시 A씨는 특수공갈과 스토킹 범죄로 징역 3년을 복역하고 출소한 지 불과 나흘밖에 지나지 않은 상태였다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨에게 피해자를 찾아가지 말라고 경고했다. 하지만 A씨는 한 달여 뒤 다시 수퍼마켓을 찾아가 “나한테 불만 있냐”고 따졌다가 또 신고를 받고 출동한 경찰에 의해 분리 조처됐다.&lt;br&gt;&lt;br&gt;경찰 조사까지 받은 A씨는 8월에도 슈퍼마켓을 찾아가 “할 때까지 해보자” “너 때문에 벌금 내고 조사받는다. 가만두지 않겠다”고 소란을 피웠다.&lt;br&gt;&lt;br&gt;박 판사는 “출소한 지 불과 4일 만에 스토킹 행위를 시작했다”면서 “피해자는 정신적 고통을 겪었지만 피고인은 피해를 회복시켜 주지 못했고 용서받지도 못했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “정식 재판 청구했다가 취업제한 추가돼도 문제 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2026/10/31/KCFAXM4WARASJEGKURGGMKZTWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/31/KCFAXM4WARASJEGKURGGMKZTWM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 Oct 2026 00:50:08 +0000</pubDate>
+      <content:encoded>약식명령에 불복해 정식 재판을 청구한 피고인에게 취업제한 명령이 추가로 부과돼도 ‘형종 상향 금지’ 원칙에 어긋나지 않는다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYGENZTGEZWIY3GGFRDOOLGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 있는 대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 지난 8일 준강제추행 혐의로 기소된 A씨에게 벌금 500만원을 선고하고 아동·청소년 및 장애인 관련 기관에 5년간 취업 제한을 명령한 원심 판결을 상고 기각했다.&lt;br&gt;&lt;br&gt;A씨는 2024년 8월 준강제추행죄로 벌금 700만원과 성폭력 치료프로그램 40시간 이수를 명하는 약식명령을 받았다. 약식명령은 정식 재판을 열지 않고 서류만 검토한 뒤 형벌을 정하는 처분으로, 주로 벌금형이 선고되는 경미한 사건에서 이뤄진다.&lt;br&gt;&lt;br&gt;피고인은 약식명령에 불복하는 경우 정식 재판을 청구할 수도 있다. 이때 피고인만 재판을 청구할 경우, 형종 상향 금지 원칙에 따라 약식명령의 형보다 무거운 종류의 형을 선고하지 못하도록 돼 있다. 피고인이 상소한 사건이나 피고인을 위해 상소한 사건에 대해 원심 판결의 형보다 중한 형을 선고할 수 없다는 ‘불이익변경금지’ 원칙과 달리, 같은 벌금형에서 액수를 높이는 것도 가능하다.&lt;br&gt;&lt;br&gt;A씨의 불복으로 정식 재판을 진행한 1심 법원은 A씨에게 벌금 500만원을 선고하고 성폭력 치료 프로그램 24시간 이수를 명령했다. 또 A씨에게 아동·청소년 관련 기관 및 장애인 관련 기관에 5년간 취업 제한도 명령했다. 벌금과 교육 이수 시간은 줄었지만, 취업 제한이 추가된 것이다.&lt;br&gt;&lt;br&gt;A씨는 1심 법원이 형사소송법상 형종 상향 금지 원칙을 위반했다며 항소했으나, 대법원은 이 같은 주장을 받아들이지 않았다. 대법원은 “청소년성보호법 및 장애인복지법에서 정한 취업 제한 명령은 범죄인에 대한 사회 내 처우의 한 유형으로서 형벌 그 자체가 아니라 보안 처분의 성격을 가진다”며 “5년간의 취업 제한 명령을 부가한 것은 약식 명령의 형보다 중한 종류의 형을 선고한 경우에 해당한다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>다문화 우대 20년, 불붙은 존폐 논란</title>
       <link>https://www.chosun.com/national/national_general/2026/11/01/LPQDNWPOZ5HLFGD2LN55VHP2NA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/01/LPQDNWPOZ5HLFGD2LN55VHP2NA/</guid>
@@ -672,24 +807,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJ3AOFVT65OFZIJQWPYMZ2ANUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 명예 국가수사본부장(명예 치안정감)으로 위촉된 배우 최불암이 경찰청 참수리홀에서 열린 우수 수사팀 특진 임용식에서 소감을 밝히고 있다./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 29일 별세한 배우 최불암(본명 최영한·87)은 경찰 이미지를 높인 공로를 인정받아 경찰에서 ‘명예 치안정감’으로 위촉됐다. 민간인으로는 처음이었다.&lt;br&gt;&lt;br&gt;최불암은 국민 드라마 ‘수사반장’(1971~1989)에서 주인공 수사반장 역을 맡으며 인기를 끌었다. 치밀하면서도 인간미 넘치는 수사관 배역으로 ‘한국의 콜롬보’로 불렸고 경찰 수사의 신뢰도를 끌어올리는 데 공헌했다는 평가를 받았다. &lt;br&gt;&lt;br&gt;​1972년 1월 경찰은 최불암을 명예 경감으로 위촉했고 명예 경정, 총경, 경무관을 거쳐 경찰 고위 간부인 명예 치안감까지 차례로 승진했다. &lt;br&gt;&lt;br&gt;명예 치안감 승진 당시 경찰청은 그에게 명예 수사국장직을 제안했다. 하지만 최불암은 “난 평생 형사”라며 사양했다고 한다. 경찰은 보직을 ‘명예 형사국장’으로 바꾼 것으로 알려졌다.&lt;br&gt;&lt;br&gt;2024년에는 명예경찰 위촉 52년 만에 민간인 최초로 명예 치안정감으로 승진했다. 보직은 명예 국가수사본부장이었다. 승진 당시 그는 “제가 맡은 이 중책을 나라 전체를 위해 사용할 것을 약속드린다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 1967년부터 경찰의 날을 기념해 경찰 행정 발전에 공로가 인정되는 국민을 명예경찰관으로 위촉하고 있다. 최불암은 명예 경찰로 위촉된 동안 ‘마약범죄 예방 온라인 릴레이 캠페인’ 1호 주자로 나서는 등 사회 공헌 활동을 이어왔다.&lt;br&gt;&lt;br&gt;빈소는 서울아산병원. 장례는 초록우산 어린이재단장으로 거행된다. 김종철(경찰청 차장) 경찰청장 직무대행은 조문을 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>광화문·한강 직접 조립하는 ‘서울블록’ 출시</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/30/G2D3BUQFZVDIBBEODZR7COPOWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/30/G2D3BUQFZVDIBBEODZR7COPOWM/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Oct 2026 02:01:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42C6ZK7S4BAIRHACWCZ2EZA2WU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 명소를 내 손으로 조립할 수 있는 블록이 나왔다. 서울시는 대한민국 대표 블록 브랜드인 옥스포드(OXFORD)와 협업해 한정판 서울블록 ‘서울시티 시리즈(SeoulCity Series)’를 출시한다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;서울블록 ‘서울시티 시리즈’는 서울의 명소를 형상화한 블록을 직접 조립할 수 있도록 만든 새로운 개념의 굿즈로, 광화문 광장과 한강 버스 2종으로 구성된다.&lt;br&gt;&lt;br&gt;광화문광장 블록은 광화문과 이순신 장군 동상, 세종대왕 동상은 물론 ‘감사의 정원’까지 광장의 주요 상징을 한 세트에 담았다. 개장 160일 만에 방문객 50만 명을 돌파하며 서울의 새로운 상징물이 된 ‘감사의 정원’이 굿즈로 구현된 것은 이번이 처음이다. 광화문광장이 품은 역사성과 감사와 기억이라는 광장의 새로운 공간적 의미를 보다 친숙하게 체험할 수 있도록 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YODCR3SRKFA2RH7WNCGWYF4HEA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한강 버스 블록은 수상 대중교통인 한강 버스와 한강 버스 선착장을 함께 구현했다. 서울의 대표적인 자연 자산인 한강과 새로운 교통수단이 된 한강버스를 한곳에 담았다.&lt;br&gt;&lt;br&gt;광화문광장, 한강버스 블록은 각각 6만2900원, 4만3900원이다. 10월 30일부터 서울마이소울샵과 DDP 온·오프라인 스토어, 옥스포드 공식 온라인 스토어, 이마트 일부 매장 등에서 구입할 수 있다.&lt;br&gt;&lt;br&gt;서울시는 이번 협업을 시작으로 서울의 계절과 행사, 새로운 정책과 공간으로 서울 굿즈의 소재를 넓힌다는 계획이다. 김형래 서울시 홍보기획관은 “광화문광장, 한강버스 블록은 시민과 관광객이 직접 서울을 만들고 체험하며 서울의 매력을 소장할 수 있도록 기획한 새로운 형태의 서울 굿즈”라며 “앞으로도 다양한 민간기업과 협업해 서울만의 이야기를 담은 콘텐츠로 서울 브랜드의 매력을 널리 알리겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 ‘공직선거법 위반’ 2심 선고 생중계...내달 4일</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/30/BDDGXY3LXJFVXHY5Q26KREXF6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/30/BDDGXY3LXJFVXHY5Q26KREXF6E/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 Oct 2026 01:51:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWBB7ZDRTFP3DLWX7666INFRJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대선후보 시절 허위사실을 공표한 혐의로 기소된 윤석열 전 대통령 1심 선고 공판이 열린 지난 7월 27일 서울역에서 관련 방송이 생중계되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대선 후보 시절 허위 사실을 공표한 혐의로 기소된 윤석열 전 대통령의 항소심 선고가 다음 달 4일 오후 2시 생중계된다.&lt;br&gt;&lt;br&gt;서울고법 형사2-1부(재판장 백승엽)는 윤 전 대통령의 공직선거법 위반 사건 선고 공판에 대한 생중계를 허가했다고 30일 밝혔다. 법원 자체 장비로 촬영한 영상을 방송사에 실시간 송출하는 방식이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 국민의힘 대선 후보였던 2021년 12월 관훈클럽 초청 토론회에서 윤우진 전 용산세무서장에게 변호사를 소개한 사실이 없다는 취지로 허위 발언을 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;윤 전 서장은 윤 전 대통령의 검찰 시절 측근인 윤대진 전 검사장의 친형이다. 당시 윤 전 대통령은 윤 전 서장의 뇌물 사건 수사에 영향력을 행사했다는 의혹을 받고 있었다. 민중기 특별검사팀은 윤 전 대통령이 실제로는 변호사를 소개했으면서도 대선 지지율 하락을 우려해 사실과 다른 발언을 했다고 판단했다. 윤 전 대통령은 2022년 1월 건진법사 전성배씨를 당 관계자로부터 소개받았으며, 아내 김건희씨와 함께 전씨를 만난 적은 없다는 취지로 허위 발언을 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;1심은 두 혐의를 모두 유죄로 인정해 징역 1년 6개월에 집행유예 3년을 선고했다. 이 형이 확정되면 윤 전 대통령의 당선은 무효가 되고, 국민의힘은 대선 당시 보전받은 선거비용 397억원을 반환해야 한다. 공직선거법은 당선인이 선거범죄로 벌금 100만원 이상의 형을 확정받아 당선이 무효가 되면 소속 정당이 보전받은 선거 비용을 반환하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;특검팀은 지난 13일 항소심 결심 공판에서 “윤 전 대통령의 허위 사실 공표가 선거 결과에 영향을 미쳤다고 봐야 한다”며 1심과 같은 형을 선고해 달라고 요청했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘내 유산 어디로 가나’ 상속인 없어 국고로 간 현금 5년간 123억원</title>
       <link>https://www.chosun.com/national/national_general/2026/10/30/7DDDS5B2A5EUFEUQA54VR4LJUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/30/7DDDS5B2A5EUFEUQA54VR4LJUA/</guid>
@@ -697,91 +814,6 @@
       <description/>
       <pubDate>Thu, 29 Oct 2026 22:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNSAWHG7JNGWXDEGLYXNTF4WDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상속받을 사람이 없어 국고로 귀속된 현금이 최근 5년간 123억원인 것으로 나타났다. 배우자나 자녀 없이 혼자 사는 1인 가구가 가파르게 늘면서 자신의 재산이 어디로 갈지 몰라 전전긍긍하는 중장년층도 늘고 있다. &lt;br&gt;&lt;br&gt;국세청이 30일 국민의힘 배준영 의원실에 제출한 자료를 보면 최근 5년간 무연고자 등의 상속재산 중 국고로 들어간 현금은 5년간 약 123억원으로 집계됐다. 연도별로는 2021년 26억원, 2022년 32억원으로 정점을 찍은 뒤 2023년 17억원으로 줄었다. 하지만 2024년 20억원, 지난해 28억원으로 다시 상승세다. &lt;br&gt;&lt;br&gt;2014년(약 1200만원)과 비교하면 불과 10여 년 만에 200배 넘게 늘어난 셈이다. 조달청이 별도로 관리하는 무연고자 명의의 토지·건물 등 부동산까지 합산하면 실제 국고로 흡수되는 자산 규모는 이보다 클 것으로 추정된다.&lt;br&gt;&lt;br&gt;중장년 1인 가구가 늘면서 국고로 귀속되는 유산 규모는 앞으로 더 늘어날 전망이다. 국회미래연구원에 따르면 2025년 기준 국내 40~59세 중장년 1인 가구는 약 224만명이다. 2015년(173만명) 대비 29.5% 늘었다. 중장년 고독사도 2017년 1211명에서 2024년 1706명으로 40.9% 늘어났다.&lt;br&gt;&lt;br&gt;이 때문에 일찌감치 유산 처분을 두고 고민하는 중장년 1인 가구도 적지 않다. 울산 중구에 사는 택시 기사 박모(56)씨는 배우자도 자녀도 없다. 박씨는 “내 사망 보험금은 누나들에게 돌려놓았지만 다른 자산은 어떻게 처분해야 할지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;차라리 유산을 남기지 않겠다는 중장년 1인 가구도 있다. 서울 강서구에 사는 이모(68)씨는 ”평생 벌어온 돈을 죽을 때까지 쌓아두고 싶지도 않고 소유하기조차 싫다“며 ”복잡한 유언장 공증이나 기부 약정 절차를 밟느니 살아 있을 때 지인들에게 베풀고 다 써버리는 게 속 편하다“고 했다.&lt;br&gt;&lt;br&gt;사후 재산을 정리하려는 유가족이나 주변인이 행정 문턱에 막혀 상속을 포기해야 하는 상황도 이어지고 있다. 서울 관악구에 사는 옥모(68)씨는 지난 9월 독신으로 살다 세상을 떠난 막내 이모의 임종을 지켰다. 이모가 쓰러진 뒤 병원비 1000만원을 사비로 부담하고 장례까지 직접 치렀다. 하지만 이모의 임대 아파트 보증금 2000만원을 여전히 돌려받지 못하고 있다.&lt;br&gt;&lt;br&gt;직계 상속인이 없다는 이유로 먼 친척들의 제적등본, 친양자 입양관계증명서, 혼인관계증명서 등을 떼어 와야만 보증금을 돌려줄 수 있다는 것이 임대 아파트 측 설명이었다. 옥씨는 “담당자조차 ‘제대로 서류를 제출하는 게 까다로워 대부분 환급을 포기한다’고 하더라”며 “나 역시 자녀가 없는 1인 가구인데 평생 번 돈이 엉뚱한 곳으로 흘러갈까 봐 두렵다”고 했다. &lt;br&gt;&lt;br&gt;배준영 의원은 ”고인의 뜻이 사후에도 존중받을 수 있도록 유산의 쓰임을 미리 정해둘 수 있게 정부가 안내와 지원을 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴직금 떼일 걱정 끝… ‘사외 적립’ 의무화</title>
-      <link>https://www.chosun.com/national/labor/2026/10/30/IM3OLVXHU5AYFOJVFXJPXZSFMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/10/30/IM3OLVXHU5AYFOJVFXJPXZSFMY/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:53:00 +0000</pubDate>
-      <content:encoded>정부가 적립금이 553조원(올 6월 기준)에 달하는 퇴직연금 제도를 전면 개편한다. 2028년부터 기업의 퇴직급여 사외(社外) 적립을 단계적으로 의무화하고, 여러 사업장의 적립금을 모아 전문적으로 운용하는 ‘기금형 퇴직연금’을 본격 도입한다. 퇴직금 체불을 막고 운용 수익률을 높여 노후소득 보장 기능을 강화하겠다는 취지다.&lt;br&gt;&lt;br&gt;정부는 29일 이 같은 내용을 담은 퇴직연금 제도 개편 방안을 발표했다. 핵심은 ‘퇴직연금 의무화’다. 퇴직연금은 기업이 퇴직급여 재원을 금융기관 등 회사 외부에 적립하는 제도다. 현재는 기업들이 퇴직연금 대신 퇴직금 제도를 선택할 수 있어 사외 적립을 하지 않아도 됐다. 이런 구조에선 기업이 경영난에 빠질 경우, 퇴직금 재원을 마련하지 못해 체불이 발생하는 게 문제였다. 이에 정부는 2028년 100인 이상 사업장을 시작으로 2029년 10~99인 사업장, 2030년부터는 10인 미만 사업장까지 퇴직급여의 사외 적립을 단계적으로 의무화할 방침이다. 이를 위해 정부는 조만간 근로자퇴직급여 보장법 개정안을 완성해 연내 국회 통과를 추진하기로 했다.&lt;br&gt;&lt;br&gt;퇴직연금 운용 방식도 달라진다. 기존 퇴직연금은 개별 기업이 금융기관과 계약을 맺어 운영하는 ‘계약형’ 중심이었다. 그러나 앞으로는 여러 사업장의 적립금을 하나로 모아 전문 기관이 공동 운용하는 ‘기금형 퇴직연금’이 본격 도입된다. 현재 기금형은 50인 미만 사업장만 가입할 수 있는 중소기업퇴직연금이 유일하다. 이번에 정부가 기금형 퇴직연금을 본격 도입하는 건 낮은 수익률 탓이다. 작년 퇴직연금 연간 수익률은 6.47%로 국민연금(18.82%)에 비해 낮았다. 정부는 전문 운용과 규모의 경제 효과 등을 통해 수익률을 높이겠다는 구상이다. 적립금을 받아 운용하는 수탁 기관은 금융회사, 복수 기업, 전국 단위 노사단체 등이 설립한 법인과 공공기관이 맡을 수 있다. 다만 논란이 됐던 국민연금공단 참여 여부는 향후 국회에서 결정하기로 했다.&lt;br&gt;&lt;br&gt;퇴직금을 목돈으로 받는 관행에도 변화가 있을 전망이다. 지난해만 해도 퇴직급여 수령 계좌의 83.5%가 일시금으로 인출됐다. 하지만 앞으론 근로자가 일시금 수령 의사를 밝히지 않으면 연금으로 지급하는 방안 등이 검토되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>低타르도 안심 못한다… 일반담배에 1군 발암물질 11종</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/30/54YZKOGLUZDXBDTRADGXOKNFJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/30/54YZKOGLUZDXBDTRADGXOKNFJM/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVM3S4SKVJCH3MGLKAZRDMD63I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 서울 서초구의 한 편의점에서 직원이 진열대에 놓인 담배를 꺼내고 있다. 이날 정부는 국내에 유통되는 담배 제품 465개의 유해 성분 검사 결과를 공개했다. 1군 발암 물질이 일반 담배에선 11종, 전자 담배에선 4종(궐련형·액상형 각각)이 검출됐다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시중에 판매되는 담뱃갑에는 니코틴·타르 함량과 발암 물질 6종의 함유 사실만 표시돼 있지만, 실제 담배 연기에서 나오는 1군 발암 물질의 양은 제품마다 큰 차이를 보이는 것으로 나타났다. 타르 배출량이 적은 담배에서 특정 발암 물질이 더 많이 검출되는 사례도 다수 확인됐다. 저(低)타르 담배라고 해서 덜 해로운 담배는 아니라는 얘기다.&lt;br&gt;&lt;br&gt;29일 보건복지부와 식품의약품안전처는 국내 465개 담배 제품의 유해 성분 검사 결과를 처음으로 공개했다. 검사한 유해 성분은 일반 담배와 궐련형 전자담배가 각각 총 44종, 액상형 전자담배는 총 20종이다. 개별 담배 제품의 검사 결과는 이날 식약처 홈페이지에 공개됐다. 이는 작년 11월 담배유해성관리법이 시행된 데 따른 조치로, 법 시행 당시 판매되던 일반 담배(궐련) 256개, 궐련형 전자담배 104개, 액상형 전자담배 105개 제품이 대상이다. 다만 액상형 전자담배 중 합성 니코틴을 사용하는 제품은 이번에 빠지고, 천연 니코틴 제품만 들어갔다. 합성 니코틴이 담배사업법 개정으로 올 4월부터 ‘담배’로 분류되기 시작한 만큼, 내년부터 결과가 공개되는 것이다. &lt;br&gt;&lt;br&gt;이번 검사 결과에서 일반 담배 256개 제품 중 59%인 151개 제품에서 각각 국제암연구소(IARC)가 지정한 ‘1군 발암 물질’ 11종이 검출됐다. 특히 포름알데히드(비인두암·백혈병 등 유발)와 카드뮴(폐암 등), 벤젠(백혈병 등), ‘1,3-부타디엔’(백혈병 등)은 256개 제품 모두에서 검출됐다. 다른 1군 발암 물질인 NNN(식도암 등)과 NNK(폐암 등), 벤조피렌(피부암 등)도 각각 255개 제품에서 나왔다. 특히 그간 담배 유해성을 가늠하는 주요 기준으로 간주돼 온 타르가 적게 나온 담배에서 오히려 1군 발암 물질이 더 많이 검출된 사례도 다수 확인됐다. 일례로 A제품은 타르 검출량이 개비당 12.8㎎으로 B제품(40.4㎎)보다 약 68% 적었지만, 포름알데히드는 106.0㎍ 검출돼 B제품(72.0㎍)보다 약 47% 많았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHZJLBPOPJHZJK7ODJCOEVVFQM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;궐련형·액상형 전자담배에서도 1군 발암 물질이 각각 4종씩 확인됐다. 궐련형 전자담배 104개 제품 모두에서 포름알데히드가 검출됐다. NNN은 87개, NNK는 88개, 벤조피렌은 1개 제품에서 나왔다. 궐련형 전자담배에서 카드뮴과 벤젠, ‘1,3-부타디엔’ 등 다른 1군 발암 물질 7종은 검출되지 않았다. 식약처는 “정확히는 통계적으로 측정할 수 있는 ‘최소 수준’ 미만이란 의미”라고 했다. 액상형 전자담배의 경우, 105개 제품 중 99개에서 포름알데히드가 검출됐다. NNN과 비소는 각각 2개, NNK는 1개 제품에서 나왔다. 다만 액상형 전자담배는 실제 흡입할 때 발생하는 배출물이 아니라 액상 자체를 검사한 결과다.&lt;br&gt;&lt;br&gt;니코틴은 일반 담배(개비당 0.8~2.6㎎), 궐련형 전자담배(개비당 0.1~1.2㎎), 액상형 전자담배(1g당 5.7~20㎎) 모두에서 검출됐다. 타르는 일반 담배가 개비당 11.7~40.4㎎, 궐련형 전자담배는 10.3~32㎎이 나왔다. 다만 타르는 담배 연기에 포함된 미세 입자에서 니코틴과 수분을 뺀 나머지 물질의 총량으로, 타르 수치만으로 위해성을 판단하긴 어렵다는 지적이 이어져 왔다.&lt;br&gt;&lt;br&gt;이번 검사에선 기존 담뱃갑의 니코틴·타르 함량을 측정할 때 사용하는 일반 포집법 대신 세계보건기구(WHO)가 권고하는 강화 포집법을 적용했다. 담배 필터의 미세한 공기구멍을 막고 연기를 포집해 실제 흡연자의 흡연 습관을 더 많이 반영하는 방식이다. 이 때문에 이번에 나온 수치가 기존 담뱃갑 표시량보다 높을 수 있다.&lt;br&gt;&lt;br&gt;정부는 “일부 발암 물질의 검출량이 적다고 해서 해당 담배가 덜 해롭다고 단정해선 안 된다”고 했다. 담배의 위험은 여러 유해 성분에 대한 복합 노출과 흡연량, 사용 기간, 흡입 습관 등에 따라 달라질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;한편 이날 정부는 향후 담배 유해 성분 검사 항목을 늘리고 무연·물담배, 시가 등도 검사 대상에 포함하는 내용의 ‘제1차 담배 유해성 관리 기본 계획(2027~2031)’도 확정했다. 유사 니코틴 제품은 식약처가 올해 12월까지 유해성 평가를 실시한 뒤 규제 방안을 논의하기로 했다. 정부는 이 같이 담배 유해성 관리를 강화해 작년 기준 남성 36.3%, 여성 8.6% 수준인 담배 사용률을 2030년까지 각각 29%, 6%로 낮추겠다고 했다. 다만 담뱃값 인상과 관련해선 “현재 검토하고 있지 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TVM3S4SKVJCH3MGLKAZRDMD63I.jpg?auth=c05ffde6ff343e59bb9294b6ca3637ad528938ffe9f06c9ceea38e6d360da58b&amp;smart=true&amp;width=5904&amp;height=4000" type="image/jpeg" height="4000" width="5904">
-        <media:description type="plain">29일 서울 서초구의 한 편의점에서 직원이 진열대에 놓인 담배를 꺼내고 있다. 이날 정부는 국내에 유통되는 담배 제품 465개의 유해 성분 검사 결과를 공개했다. 1군 발암 물질이 일반 담배에선 11종, 전자 담배에선 4종(궐련형·액상형 각각)이 검출됐다. /장경식 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 10월 30일</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/30/57UGKNPLYVD3PGUY5GN4MNF66Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/30/57UGKNPLYVD3PGUY5GN4MNF66Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHBBTAND2BG6DE6LAYBDIW2WZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>다문화 가정 우대 서울형 산후조리원 현재 5곳 시범 운영</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/30/OZX6Z5YN7FEMLDJQIY2324EEGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/30/OZX6Z5YN7FEMLDJQIY2324EEGY/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:48:00 +0000</pubDate>
-      <content:encoded>이재명 대통령이 다문화가정 우대 문제를 제기한 ‘서울형 안심 산후조리원’은 서울시가 민간 산후조리원에 예산을 지원해 산모들이 저렴하게 이용할 수 있게 하는 사업이다. 지방자치단체가 직접 운영하는 공공산후조리원과 달리 기존 민간 시설을 활용한다. 서울시는 산후조리원마다 최대 5000만원씩 운영비를 지원하고, 이용료와 서비스 기준을 관리한다.&lt;br&gt;&lt;br&gt;올 6월 시범 도입했고, 현재 강서·양천·금천·도봉·강동구 등 5곳에서 운영 중이다. 내년 5월까지 시범 운영할 예정이다. &lt;br&gt;&lt;br&gt;서울에 1년 이상 거주한 임산부가 신청할 수 있다. 기초생활수급자와 차상위계층을 1순위로 선정한다. 국가유공자와 5·18민주유공자, 북한이탈주민, 다문화가정·한부모가정·장애인 산모는 2순위다. 셋째 이상 아이를 낳거나 삼둥이 이상을 출산한 산모도 2순위에 포함된다. 둘째 아이나 쌍둥이를 출산한 산모는 3순위다. 일반 산모는 4순위로 신청할 수 있다.&lt;br&gt;&lt;br&gt;이용 기간은 1주나 2주 중 선택할 수 있다. 2주 기준 표준 이용료는 390만원이다. 1순위 산모는 무료다. 2순위는 125만원, 3순위와 일반 산모는 250만원을 부담한다. 다문화가정 산모가 일반 산모보다 125만원 적게 내는 셈이다.&lt;br&gt;&lt;br&gt;예약은 한 달에 한 번 받는다. 지금까지 361명이 이용했고, 경쟁률은 3대1이다.&lt;br&gt;&lt;br&gt;서울시는 ‘모자보건법 시행령’을 참고해 우선순위를 정했다고 설명한다. 시행령은 다문화가정 등 취약계층에 공공산후조리원 이용 우선권을 주거나 이용료를 감면할 수 있도록 규정하고 있다. 다만 구체적인 우선순위와 감면율은 지자체가 정한다. 다문화가정 산모를 2순위로 정한 것도 서울시 결정이다. 다문화가정 산모를 우대 대상에 포함한 규정은 2016년부터 시행됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “전체 이용자 중 다문화가정 산모는 3%도 되지 않는다”며 “법에서 정한 우대 대상과 다른 지역 공공산후조리원 운영 기준을 참고했다”고 말했다. 전남광주 나주·해남 등에 있는 공공산후조리원도 다문화가정 산모를 국가유공자, 북한이탈주민 등과 함께 2순위로 선정하고 있다. 경기 여주에서는 다문화가정 산모에게 기초생활수급자, 차상위계층, 국가유공자 등과 같은 이용료 감면 혜택을 준다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>800년 만에 다시 새기는 팔만대장경… 최소 50년 걸려</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/30/ORNPM3ZDOBBWVDOL6HCYFPV2XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/30/ORNPM3ZDOBBWVDOL6HCYFPV2XA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PLAHFBDIFHL3NA4SXFBLEJEYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 경남 합천군 해인사에서 스님과 교육생들이 판각 칼 등을 이용해 전통 판각 시연을 하고 있다. 이날 진행된 행사는 세계기록유산인 팔만대장경을 새롭게 판각하는 ‘대장경 판각 고불식(告佛式)’이다. 이번 행사는 고려시대 선조들이 몽골 침략에 맞서 대장경을 새긴 지 800여 년 만에 다시 대장경을 새겨보자는 취지로 열렸다. 고불식을 시작으로 해인사는 팔만대장경 정신을 이어가기 위한 사업을 50년에서 최장 100년까지 진행할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아직도 인테리어 못 끝낸 중수청… 공사 발주하다 내부 도면 유출</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/30/QSC5FP6PWJEZDCQXLPNNGY6JF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/30/QSC5FP6PWJEZDCQXLPNNGY6JF4/</guid>
-      <dc:creator>박혜연 기자, 지혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTDSNJQHBSDQMTFG5QTIYJRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 중대범죄수사청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 중대범죄수사청(중수청) 본청과 지방청 청사 내부 설계 도면 수십 장이 외부에 유출되는 사고가 발생한 것으로 29일 확인됐다. 행정안전부는 “중수청이 아직 공사 중이라 국가 보안 시설로 지정되지 않아 벌어진 일”이라며 “유출 사실 확인 후 모두 조치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;중수청 개청준비단은 9월 말부터 이달 중순까지 총 5차례에 걸쳐 중수청 본청과 지방청의 냉난방 시설 공사 발주 공고를 조달청 나라 장터에 냈다. 이 과정에서 청장실과 조사실, 구속 피의자 대기실, 서버 등이 있는 위치와 크기가 담긴 청사 내부 도면 59장을 함께 올렸다. 이에 대해 행안부 관계자는 “수사기관은 국가 보안 시설로, 내부 공사를 발주할 때 도면을 비공개해 현장에서 열람하도록 해야 하는데, 중수청은 아직 보안 시설로 지정되지 않아 실무자가 실수한 것으로 파악됐다”고 밝혔다. 행안부는 지난 28일 도면을 모두 삭제했고, 앞으로 직원 보안 교육과 청사 보안·방호에 만전을 기하겠다고 했다.&lt;br&gt;&lt;br&gt;하지만 법조계에서 “앞으로 더 큰 보안사고가 발생할 수도 있다”는 우려가 나온다. 경찰 등 수사 기관은 국가정보원법, 보안 업무 규정 등에 따라 보안 시설로 지정된다. 중수청 본청과 지방청은 나~다급 보안 시설에 해당한다. 보안 시설로 지정되면 인터넷상 지도나 위성 사진에서 건물 모습이 가려지고, 허가받지 않은 외부인 촬영이나 녹음도 금지된다. 또 청사 안에 제한 구역, 통제 구역 등을 둬 수사 기록 등 비밀 사항은 철저하게 통제한다. 그러나 중수청은 현재 내부 인테리어 공사가 진행 중이어서 보안 시설 지정 절차가 진행되지 않고 있다고 한다. 한 법조계 인사는 “정부·여당이 졸속으로 개청을 밀어붙이다 보니 어처구니없는 일이 발생한 것”이라며 “일반에 공개된 도면을 지금에 와서 수정하기도 어렵기 때문에 보안 사고는 계속되고 있는 셈”이라고 했다.&lt;br&gt;&lt;br&gt;중수청은 이달 2일 개청한 뒤 수사 활동을 개시했다. 하지만 전국 각지에서 모인 수사관들이 머물 관사는 아직 마련되지 않았다. 이런 탓에 연고지를 떠나 부임한 수사관들은 개청 후 청사 주변 숙박 시설을 전전하고 있다고 한다. 이들이 어려움을 호소하자 서울중수청은 최근 ‘비상 대기소’라는 이름으로 수사관 임시 거처를 마련 중이라고 한다. 중수청 개청 후 12월까지 수사관 등 인건비 예산은 302억원으로 잡혀 있다.&lt;br&gt;&lt;br&gt;중수청은 형사사법정보시스템(KICS·킥스) 등 전산 시스템이 완비되지 않아 종이 수사 기록을 사용할 수밖에 없다. 이에 따라 공소청과 경찰이 이첩하는 사건 기록을 중수청 수사관과 직원들이 직접 운반하고 있다. 서울중수청 한 관계자는 “최근엔 기록을 옮길 수단이 마땅치 않아 수사팀이 트럭을 빌리러 다닌 적도 있다”고 했다.&lt;br&gt;&lt;br&gt;수사기관 간 업무 분장을 둘러싼 혼선도 이어지고 있다. 담합을 자진 신고한 기업에 대해 형벌을 면제하거나 줄여주는 리니언시(자진 신고자 감면 제도)를 두고, 최근 중수청과 공소청은 서로 자신들이 기업 신고를 받아야 한다고 주장하고 있다. 리니언시는 원래 대검찰청(현 공소청) 예규에 따라 운영됐다. 이런 점을 들어 공소청은 최근 예규를 개정해 자진신고를 직접 받게 했다. 반면 중수청은 “리니언시 접수와 잠정 순위 부여는 중수청이, 기소 여부와 감경 구형은 공소청이 담당하는 것이 수사·기소 분리 원칙에 부합한다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수능서 스마트안경 쓰면 최대 3년 응시 못 해</title>
-      <link>https://www.chosun.com/national/education/2026/10/30/UBISK372CZAOLA5LUAYEEL2RIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/10/30/UBISK372CZAOLA5LUAYEEL2RIE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRTQZBRGA2DMMDDMZSTEZDBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스마트 안경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 대학수학능력시험에서 스마트안경으로 부정행위를 하면 형사고발 당한다. 수능 응시 자격도 최대 3년간 정지된다. &lt;br&gt;&lt;br&gt;교육부는 29일 이런 내용이 담긴 ‘수능 스마트안경 부정행위 대응 계획’을 발표했다. 교육부는 수능에서 스마트안경을 사용한 학생은 국가 시험 운영을 고의적·계획적으로 방해한 것으로 간주하고, 위계에 의한 공무집행 방해 등 혐의로 수사기관에 고발·수사의뢰하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;수능 응시 자격 정지 기간 확대도 추진한다고 교육부는 밝혔다. 현행 고등교육법은 수능에서 부정행위를 한 사람은 시험을 무효로 하고, 다음 연도 1년 동안 시험 응시 자격을 정지한다. 교육부는 이를 최대 3년으로 늘리겠다는 계획이다. 이는 법 개정이 필요해 내년 수능부터 적용될 것으로 보인다. 교육부 관계자는 “법 개정 없이 대학 학칙 등으로 정하면 되는 대학별 고사의 경우, 올해 적발된 부정행위자부터 응시 자격 정지가 최대 3년이 적용될 수 있도록 대학들에 적극 권고했다”고 밝혔다.&lt;br&gt;&lt;br&gt;교육부는 지난 7월 2027학년도 수능 반입 금지 물품에 스마트안경을 명시하고, 이를 활용해 부정행위를 하면 시험 결과를 무효로 하고 다음 해 수능 응시 자격 등을 박탈한다고 안내했다. 하지만 그 뒤로도 수험생과 학부모 사이에서 스마트안경 부정행위에 대한 우려가 가라앉지 않자 추가로 대책을 내놓은 것이다.&lt;br&gt;&lt;br&gt;이날 교육부는 수능 시험장에서 스마트안경 여부를 확인해야 하는 감독관 부담을 줄이겠다며 관련 대책도 발표했다. 교육부는 스마트안경 여부를 판단하는 전담 인력을 올해 수능부터 시험장별로 한 명씩 배치한다. 시험실 감독관이 판단하기 어려운 경우 전담 인력이 스마트안경 여부를 확인하고 판단하게 하겠다는 것이다. 교육부는 전담 인력으로 지정된 교육청 직원 등에겐 시도교육청을 통해 스마트안경 판별 요령 등 특별 교육을 실시한다.&lt;br&gt;&lt;br&gt;교육부는 시험장용 전파 탐지기 도입도 추진하겠다고 했다. 교육부 관계자는 “현재 시중에 나와 있는 전파 탐지기는 시험장 주변의 전파까지 탐지해 올해 수능엔 도입하기 어려웠다”며 “전문기관 등에서 개발 중인 시험장용 전파 탐지기를 내년 수능 시험장엔 보급할 수 있을지 검토하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>팝업스토어 떠난 자리… 쓰레기로 몸살</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/30/B2J5L2IS65HJ3ANRVKJEKMKDRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/30/B2J5L2IS65HJ3ANRVKJEKMKDRM/</guid>
-      <dc:creator>양인성 기자, 정동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YD6PTPYDRREQTMLKTPBEQIYVLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 7월 17일 서울 송파구 롯데월드몰 내 팝업스토어에서 두바이 초콜릿을 사기 위해 고객들이 줄지어 대기하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오전 10시 서울 용산구의 한 대형 쇼핑몰. 매장 설치업체 직원 15명이 합판과 진열대를 분주히 나르고 있었다. 한쪽에는 ‘팝업 준비 중’이라는 팻말이 세워져 있었다. 전날까지만 해도 이곳에선 구독자 170만명을 보유한 유튜브 채널 캐릭터를 새긴 한정판 티셔츠를 팔았다. 일주일간 한시적으로 운영하는 ‘팝업 스토어’였다. 이날 팝업 스토어가 쓰던 가벽과 진열대 등이 철거됐고 그 자리에 뜨개질 관련 팝업 스토어가 들어섰다. 새로 들어선 팝업 스토어 운영 기간은 나흘. 설치업체 대표 이주훈(31)씨는 “올해 들어 짧게 열고 닫는 팝업이 더 많아졌다”며 “일주일에 3~4곳씩 설치 및 철거 작업을 한다”고 했다.&lt;br&gt;&lt;br&gt;팝업 스토어는 일정 기간만 임시로 문을 열어 상품을 판매하거나 브랜드를 홍보하는 매장이다. 국내에서는 2009년 나이키가 서울 홍익대 근처에 연 매장이 초기 사례로 꼽힌다. 당시 나이키는 약 한 달간 스포츠 의류를 팔고 각종 체험 프로그램을 진행했다. 이후 서울 성수동 등을 중심으로 팝업 스토어가 확산했다.&lt;br&gt;&lt;br&gt;이런 상황에서 소셜미디어(SNS)를 타고 신상품·먹거리가 순식간에 뜨고 지는 ‘초고속·초단기 유행’이 일상화하면서 팝업 스토어도 빠르게 늘고 있다. 팝업 스토어 분석 업체 스윗스팟에 따르면, 올해 상반기 새로 문을 연 팝업 스토어는 전국 2130곳이다. 2024년 상반기(680곳)보다 3배 이상으로 늘었다. 운영 기간도 갈수록 짧아지고 있다. 올해 상반기 문을 연 팝업 스토어 가운데 758곳(35.6%)은 일주일 안에 문을 닫았다. 7일 이하로 운영한 팝업 스토어 비율은 2024년 22.8%에서 올해 35.6%로 12.8%포인트 높아졌다. 반면 15~30일 운영한 비율은 같은 기간 24.6%에서 20.8%로, 한 달 넘게 운영한 비율은 20.9%에서 12.1%로 낮아졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIAKBSL255GMNBDJAW7VLJWNCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운영 기간이 짧다 보니 방문객이 한꺼번에 몰려 안전사고 위험도 커지고 있다. 지난해 7월 서울 여의도의 한 쇼핑몰에서 일본 제품을 판매하는 팝업 스토어가 개장했을 때 300명 넘는 사람이 지하 2층 매장으로 한꺼번에 몰려가면서 에스컬레이터 주변은 순식간에 아수라장이 됐다. 52.9㎡(16평) 규모로 마련된 팝업 스토어에 들어가려는 사람은 1200명까지 불어났고 곳곳에서 고성과 실랑이도 벌어졌다.&lt;br&gt;&lt;br&gt;팝업 스토어가 자주 열리는 서울 잠실의 한 대형 쇼핑몰에선 대기 줄을 둘러싼 시비가 끊이지 않는다. 최근에는 새치기 같은 신고 때문에 경찰이 하루 한 차례꼴로 출동한다고 한다. 직장인 강모(44)씨는 “출근길마다 사람들이 길에서 밤을 새우는 모습을 보면 통행에도 방해가 되고 사고가 날까 걱정된다”고 했다.&lt;br&gt;&lt;br&gt;짧은 유행이 지나간 자리에는 쓰레기도 쌓인다. 팝업 스토어는 사람 눈길을 끌기 위해 가벽과 진열대, 대형 조형물, 현수막 등을 설치한다. 며칠 또는 몇 주 뒤 영업이 끝나면 대부분 철거된다. 철거 업계에 따르면 360㎡(109평) 규모 팝업 스토어 한 곳을 철거할 때 합판과 현수막, 포장재 등 폐기물이 1t가량 나온다고 한다. 윤순진 서울대 환경대학원 교수는 “팝업 스토어에선 낱개 포장지와 쇼핑백 같은 일회용품뿐 아니라 가벽·집기·현수막 등 공간 연출 자재까지 폐기된다”며 “팝업 주제에 맞춰 특수 제작한 자재는 재활용도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;팝업 스토어는 ‘초고속·초단기 유행’을 더 부추기는 경향이 있다.&lt;b&gt; &lt;/b&gt;이로 인해 빠르게 바뀌는 유행을 좇아야 하는 자영업자들도 버거워한다. SNS에서 어떤 디저트가 뜨면 유행이 식기 전에 메뉴를 내놓으려고 재료부터 확보하고 장비와 포장재도 새로 마련한다. 하지만 준비를 마치고 판매에 나설 때쯤 소비자들이 이미 다른 먹거리로 옮겨가는 경우가 적잖다고 한다. 카페를 하는 이윤정(50)씨는 최근 유행한 ‘버터떡’을 팔기 위해 타피오카 전분과 찹쌀가루를 대량으로 샀다고 한다. 하지만 유행이 한 달 만에 시들면서 상당량이 재고로 남았다. 앞서 다른 유행 디저트를 만들려고 사들인 초콜릿피 200개와 마시멜로피 500개, 피스타치오 15㎏도 쌓여 있다. 이씨는 “몇 달은 갈 줄 알고 준비하면 어느새 다른 메뉴가 유행한다”며 “남은 재료는 다른 데 쓰기도 어려워 결국 버릴 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선관위 특검, 이의제기 된 수백장 2차 검증</title>
-      <link>https://www.chosun.com/national/court_law/2026/10/30/66WKIH65LVDVFKDC5GJIQABZO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/10/30/66WKIH65LVDVFKDC5GJIQABZO4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:47:00 +0000</pubDate>
-      <content:encoded>29일 새벽까지 약 13시간에 걸쳐 6·3 지방선거 투표지 공개 검증을 벌였던 이태한 특별검사팀은 검증을 마친 247만장 가운데 이의가 제기되거나 문제가 있다고 분류된 수백장을 가려내 2차 검증에 들어갔다.&lt;br&gt;&lt;br&gt;특검은 전날(28일) 오전 11시 49분부터 이날 오전 12시 35분까지 서울 송파구 올림픽공원 핸드볼경기장에서, 지난 6·3 지방선거 이후 시민들 항의 시위로 봉쇄돼 있던 투표지 247만여 장에 대한 공개 검증을 실시했다. 특검 관계자 100여 명, 선관위 직원 500여 명이 직접 투표지를 한 장씩 펼쳐 수량과 인쇄 상태 등을 점검했다. 실제 투표자와 투표지 수가 일치하는지, 위조 흔적이 있는지 등을 확인했다.&lt;br&gt;&lt;br&gt;특검은 검증을 마친 투표지를 433개 상자에 나눠 담았는데, 이 가운데 이상이 없는 것으로 파악된 420개를 선관위에 넘겼다. 이 투표지는 송파구 선관위로 옮겨져 해당 지역 당선인의 임기가 끝날 때까지 보관된다. 반면 검증 도중 이의가 제기되거나 문제가 있다고 의심되는 나머지 상자 13개는 특검이 확보했다. 여기엔 문제의 투표지 수백 장이 담긴 것으로 전해졌다. 특검은 우선 2차 검증을 실시한 뒤, 정밀 감정이 필요한 투표지를 선별해 국과수에 넘길 예정이다.&lt;br&gt;&lt;br&gt;특검의 공개 검증이 완료된 후 장동혁 국민의힘 대표는 “수많은 부정선거 증거들이 쏟아져 나왔다”고 했다. 반면 한병도 민주당 원내대표는 “(이번 검증이) 국민 참정권 침해 의혹을 철저히 규명하고 선거 관리의 신뢰를 회복하는 계기가 되길 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“도심 양봉은 사람과 사람·농촌과 도시 잇는 매개체”</title>
@@ -802,15 +834,6 @@
       <content:encoded>극한 폭염과 한파 같은 이상 기후는 이제 일상이 되다시피 했습니다. 기후 위기는 더 이상 먼 미래의 일이 아닙니다. 환경 보호야말로 국경을 넘어 모두 힘을 모아야 하는 일입니다.&lt;br&gt;&lt;br&gt;1995년 조선일보사와 마이니치신문사가 함께 제정한 한일국제환경상은 한국·일본·중국에서 환경 보전에 헌신한 개인 23명과 단체 42곳을 찾아 시상했습니다.&lt;br&gt;&lt;br&gt;올해 한국 수상자인 이유정씨는 해녀로 활동하며 제주 해안의 쓰레기와 오염 물질을 수거하고 있습니다. 일본의 ‘긴자 미쓰바치 프로젝트’는 2006년부터 도쿄 긴자의 빌딩 옥상에서 양봉하며 환경 보전에 기여했습니다. 두 수상자는 환경운동이 거창한 구호가 아니라 일상에서 매일 실천할 수 있는 일임을 보여줍니다.&lt;br&gt;&lt;br&gt;조선일보는 ‘쓰레기를 줄입시다’ ‘샛강을 살립시다’, 마이니치신문은 ‘모타이나이’ ‘후지산 재생’ 등의 캠페인을 펼쳐왔습니다. 양사의 노력이 우리 환경에 긍정적 변화를 불러오기를 기대합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“삶·문화 유지하는 힘, 환경 보호에서 나와”</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/10/30/RD2F32FL6JHQ7N6S2BSVOYB4Z4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/30/RD2F32FL6JHQ7N6S2BSVOYB4Z4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:46:00 +0000</pubDate>
-      <content:encoded>기후변화는 우리의 삶과 직결된 과제입니다. 폭염과 호우, 생물 다양성 상실에 대응하려면 한국과 일본을 비롯한 동아시아 국가들이 지혜와 경험을 공유하고 협력해야 합니다. 환경 보전의 실천을 조명하는 이 상의 역할도 갈수록 커지고 있습니다.&lt;br&gt;&lt;br&gt;올해 수상한 ‘긴자 꿀벌 프로젝트’는 도쿄 긴자의 빌딩 옥상에서 시작한 양봉을 생물 다양성 회복과 환경 교육으로 넓혀왔습니다. 상점·기업과 협력해 환경 보전과 지역 경제 활성화를 양립시킨 도시 모델입니다. 제주 해녀 이유정씨는 해양 쓰레기 수거와 환경 교육, 시민 참여를 통해 바다를 지키고 해녀 문화를 계승하고 있습니다.&lt;br&gt;&lt;br&gt;두 수상자의 실천은 환경을 지키는 일이 지역 문화와 우리의 삶을 지키는 힘임을 일깨워줍니다. 마이니치신문사는 조선일보사와 함께 보도를 통해 환경 보전과 기후변화 대응의 기운을 높이겠습니다. 한일 협력을 동아시아와 세계로 넓혀 지속 가능한 미래를 만드는 데 공헌하겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“환경문제는 세계가 겪는 시련… 韓日 ‘녹색연대’로 극복해나가야”</title>
       <link>https://www.chosun.com/national/transport-environment/2026/10/30/U3IJCDWRQZCQFBRIBFYHPZRUXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/10/30/U3IJCDWRQZCQFBRIBFYHPZRUXM/</guid>
@@ -827,25 +850,6 @@
       <description/>
       <pubDate>Thu, 29 Oct 2026 15:46:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWPK6KYDZBCUHPJUNBPQ3TZQTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 서울 프레스센터에서 열린 한일국제환경상 시상식. 이유정 제주 해녀가 수상소감을 말하고 있다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해녀 이유정(38·제주줌녀 대표)씨는 물질 중 폐어구에 다리가 걸려 목숨을 잃을 뻔한 경험이 바다를 지키는 계기가 됐다. 그는 “나보다 나이 많은 해녀들이 걸렸다면 얼마나 아찔했을까 생각했다”며 “한 사람의 노력으로 바다가 완벽하게 깨끗해질 수는 없지만, 이 일을 멈추면 한 사람 몫만큼 쓰레기가 방치된다는 생각에 활동을 이어가고 있다”고 했다.&lt;br&gt;&lt;br&gt;―바다 쓰레기에 목숨을 잃을 뻔했다고.&lt;br&gt;&lt;br&gt;“물질이 서툴던 때 다른 해녀들보다 먼 바다로 나갔다. 다리에 묵직한 것이 걸려 내려다보니 폐어구였다. 빠져나오려고 발버둥 치다가 오리발을 벗고 겨우 살아났다. 젊은 나도 이렇게 위험한데 다른 해녀들이 걸리면 어떨까 싶었다. 그때부터 젊고 체력적으로도 좋은 내가 이런 바다 쓰레기를 없애야겠다고 마음먹었다. 처음에는 ‘뭍을 쓰레기장으로 만든다’며 삿대질하는 사람도 있었다. 3년쯤 지나자 바다에 진심이라는 걸 알아주기 시작했다.”&lt;br&gt;&lt;br&gt;―물질과 바다 청소를 병행하며 가장 힘든 점은.&lt;br&gt;&lt;br&gt;“직접 채취한 미역에 스티로폼이 붙어 있을 때가 있다. 해초류를 따러 잠수했는데 쌈장통이나 고추장통이 끼어 있을 때도 있다. 내용물이 남은 세제나 샴푸 통, 낚시 도구, 폐어구, 심지어는 돼지머리도 건진 적이 있다. 쓰레기를 바다에서 건져 올린 뒤에도 문제다. 해양 쓰레기를 따로 처리해야 하는데 운반할 차량이나 처리할 곳이 부족하다. 처치곤란이라 ‘너무 많이 건져 오지 말라’는 말도 여러 번 들었다. 수거한 쓰레기를 옮기고 처리하는 일을 정부와 지자체가 지원해 줬으면 한다.”&lt;br&gt;&lt;br&gt;―다음 세대 해녀에게 어떤 바다를 물려주고 싶나.&lt;br&gt;&lt;br&gt;“해녀들이 더 안전하게 물질할 수 있는 바다다. 혼자 치우는 양에는 한계가 있지만, 멈추지 않고 내 몫을 해내려 한다. 내가 멈추면 그만큼의 쓰레기는 바다에 남는다. 당장 눈에 띄게 깨끗해지지 않더라도 계속하는 이유다. 함께하는 사람도 계속 늘고 있다. 학부모들이 아이들 손을 잡고 와서 돕는 모습에 힘을 얻는다. 이런 사람들이 모이면 지금보다 더 깨끗한 제주 바다를 만들 수 있다고 생각한다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이런 춤은 처음 보죠?” 스리랑카 전통 공연</title>
-      <link>https://www.chosun.com/national/national_general/2026/10/30/QPBZZZAQ25GKZLYZGJ2CSUJYLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/10/30/QPBZZZAQ25GKZLYZGJ2CSUJYLU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWZPQVJ4I5FDNO33BYTIS4GOSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 제주시 조천읍 제주돌문화공원에서 ‘2026 세계섬축제’가 열렸다. 스리랑카 공연단이 전통 공연을 하고 있다. 이번 축제에는 필리핀 세부, 미국 하와이, 일본 오키나와 등에서 온 주민들이 공연과 음식을 선보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“국립임실호국원, 아이들이 역사 배우는 체험 공간으로”</title>
-      <link>https://www.chosun.com/national/regional/2026/10/30/K3TVVOOZZZHBVPNMGLW22JVUYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/10/30/K3TVVOOZZZHBVPNMGLW22JVUYQ/</guid>
-      <dc:creator>임실=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2ABUNUANFCXHC7FOCTI536VSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한득수 임실군수./임실군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한득수(63) 전북 임실군수는 29일 본지 인터뷰에서 “국립임실호국원을 참전 유공자를 추모하는 공간에서 어린이와 청소년들이 호국 역사를 배우고 체험하는 공간으로 만들겠다”고 했다. &lt;br&gt;&lt;br&gt;호국원은 6·25전쟁과 베트남전쟁 참전 유공자 등을 주로 안장하는 국립묘지다. 전국에 6곳 있다. 임실호국원은 약 48만㎡ 규모로, 5만7356기를 안장할 수 있다. 한 군수는 이곳에 안보 테마 공원을 조성하고 옥정호 등 주변 관광지와 연결할 계획이다.&lt;br&gt;&lt;br&gt;한 군수는 임실축협 조합장 출신으로 지난 6·3 지방선거에서 더불어민주당 후보로 출마해 당선됐다.&lt;br&gt;&lt;br&gt;-호국원을 관광 자원으로 활용하려는 이유는.&lt;br&gt;&lt;br&gt;“임실은 인구가 2만5000명에 불과하다. 대기업을 유치하기도 쉽지 않다. 이미 갖고 있는 자원을 활용해 방문객을 늘리려는 것이다. 현재 호국원은 추모와 참배에 머물러 있어 젊은 세대에게 그 의미를 전달하는 데 한계가 있다.”&lt;br&gt;&lt;br&gt;-안보 테마 공원은 어떻게 만드나.&lt;br&gt;&lt;br&gt;“역사 전시관과 체험형 교육 시설을 구상하고 있다. 가상현실(VR)과 영상 기술을 접목하겠다. 전차와 항공기 등 장비도 추가로 전시할 생각이다. 국가를 위해 헌신한 분들의 이야기를 아이들에게 들려주고 조상과 나라의 소중함을 느끼게 하는 공간으로 만들고 싶다. 내년 용역을 거쳐 국가보훈부에 국비 지원을 요청할 계획이다.”&lt;br&gt;&lt;br&gt;-KTX 임실역 정차도 추진하고 있는데.&lt;br&gt;&lt;br&gt;“지난 5월 국가철도공단과 업무 협약을 체결하고 타당성 검증 용역을 추진하고 있다. KTX가 설 수 있게 전라선 임실역 승강장 길이를 360m에서 420m로 늘리는 등 시설 개량에 66억5000만원이 들 것으로 예상한다. 호국원 참배객과 관광객이 수도권에서 편리하게 찾아오도록 하려는 것이다. 국토교통부와 코레일을 적극 설득하겠다.”&lt;br&gt;&lt;br&gt;-옥정호 순환도로 사업은.&lt;br&gt;&lt;br&gt;“옥정호 주변 관광지를 순환도로로 연결하려는 것이다. 기존 도로를 제외하고 8.5㎞를 새로 만들어야 한다. 사업비는 2539억원으로 예상한다. 2035년 완공이 목표다. 재원 조달 방안은 아직 확정되지 않았다. 지방 재정만으로는 한계가 있어 정부 지원을 확보해야 한다.”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>반차·연차 내고 자유롭게 육아… “셋째 낳으면 1000만원”</title>
