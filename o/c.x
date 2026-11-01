@@ -13,6 +13,93 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해외에서도 1종 보통면허 갱신할 수 있어... 국제운전면허도 신청 가능</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/01/VMY5JJ3MVZHNTOSMOC26TSTDAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/01/VMY5JJ3MVZHNTOSMOC26TSTDAQ/</guid>
+      <dc:creator>원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 04:33:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTGGNTCMQ2WCNZSMQ4DGYTEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청과 재외동포청, 한국도로교통공단이 2일부터 재외공관에서도 1종 보통 운전면허증 갱신 및 국제 운전면허증 신청 접수가 가능하도록 한다고 밝혔다. &lt;br&gt;&lt;br&gt;재외공관을 통한 운전면허 민원 접수는 지난 2013년부터 운영됐지만, 신체검사 절차가 필요 없는 2종 보통 면허 갱신과 면허증 재발급 신청만 재외공관에서 가능했다.&lt;br&gt;&lt;br&gt;이번 서비스 확대는 재외동포청이 올해 1~2월 실시한 재외동포 민원 전수조사에서 운전면허 관련 불편을 해소해 달라는 건의가 접수되면서 추진됐다.&lt;br&gt;&lt;br&gt;그간 1종 보통 면허는 갱신 시 시력 검사를 포함한 적성검사가 필요해 해외 접수에 어려움이 있었다. 이에 관계 부처는 접수일 기준 2년 이내 국내 건강검진 기록이 확인되면 국내에서 면허증 갱신 및 발급을 처리할 수 있도록 시스템을 구축했다. 다만 2년 이내 국내 건강검진·신체검사 기록이 확인되지 않으면 발급받을 수 없다. &lt;br&gt;&lt;br&gt;국제운전면허증도 재외공관을 통해 신청하면 국내에서 발급 절차를 거쳐 해당 재외공관에 송부하는 식으로 해외에서 수령할 수 있게 됐다. &lt;br&gt;&lt;br&gt;경찰은 “서비스 이용을 희망하는 국민은 재외공관 방문에 앞서 ‘재외동포365 포털’에서 관련 안내를 확인하고 신청은 해당 재외공관에서 가능하다”며 “서비스별 신청 요건과 제출 서류가 다르므로 반드시 사전에 확인해달라”고 당부했다. &lt;br&gt;&lt;br&gt;김종철 경찰청장 직무대행은 “재외동포의 불편 사항에 대한 건의를 직접 받아 해소한 사례”라며 “국민 편의 증진을 위해 관계 기관과 지속 협력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>터널서 시속 171㎞ 음주운전 사망사고… 항소심서 징역 3년→2년 6개월</title>
+      <link>https://www.chosun.com/national/regional/2026/11/01/OVADV67MLBDZ5O3SEDCWVQDQAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/01/OVADV67MLBDZ5O3SEDCWVQDQAI/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 03:10:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRUAZWDDAX3KCO2QEGA7K6TP4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방법원 청사. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마신 채 터널에서 시속 171㎞로 차를 몰다 사망 사고를 낸 30대 여성이 항소심에서 징역 3년이던 형량을 2년 6개월로 감형받았다.&lt;br&gt;&lt;br&gt;창원지법 형사3-1부(재판장 손승우)는 특정범죄 가중처벌법상 위험 운전 치사상 등 혐의로 기소된 A씨에게 징역 3년과 벌금 100만원을 선고한 원심을 깨고, 징역 2년 6개월과 벌금 100만원을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 설 연휴인 지난 2월 15일 오전 0시 45분쯤 경남 거제시 양정터널 2차로에서 제네시스 스포츠유틸리티차(SUV)를 몰다 앞서 가던 모닝 승용차를 들이받아 40대 운전자 B씨를 숨지게 한 혐의로 기소됐다. 이 사고 여파로 옆 차로를 달리던 코나 승용차가 급정거하면서 20대 운전자도 다쳤다.&lt;br&gt;&lt;br&gt;사고 당시 A씨 차량의 속도는 시속 171㎞로, 터널 제한속도인 시속 70㎞를 101㎞ 초과했다. A씨의 혈중알코올농도는 0.113% 이상이었다. A씨는 지난해 9월에도 거제의 한 도로에서 차를 몰다 중앙 가드레일을 들이받은 뒤 그대로 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 “사고 당일 4시간에 걸쳐 술을 마시고 위험하게 운전하다 미성년 자녀 둘을 키우던 B씨를 숨지게 했다”며 “유족의 충격과 비통함은 가늠할 수 없다”고 했다. 다만 범행을 인정하고 반성하는 점, 유족에게 1억8000만원을 지급하고 합의한 점 등을 고려해 형을 정했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 형이 너무 무겁다며, 검찰은 형이 너무 가볍다며 각각 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “A씨가 1심에서 유족과 원만히 합의했고 유족들이 선처를 구하고 있다”며 “항소심에서는 상해 피해자와도 합의해 이 피해자가 처벌을 원하지 않는 점, A씨에게 처벌 전력이 없는 점 등을 고려하면 원심의 형은 너무 무거워 부당하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>월요일 새벽까지 전국 곳곳 비… 화요일엔 기온 5~10도 떨어져</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/11/01/L6XZEWCKWZAWJGI374EG4LAX3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/01/L6XZEWCKWZAWJGI374EG4LAX3I/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 04:25:57 +0000</pubDate>
+      <content:encoded>월요일인 2일 새벽까지 전국 대부분 지역에 비가 내리겠다. 비가 그친 뒤에는 북서쪽에서 찬 공기가 내려오면서 3일 아침 기온이 전날보다 5~10도 큰 폭으로 떨어질 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5V5JYNWCNVLVJFSLJBINFZM75M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울을 비롯한 전국 곳곳에 비가 내리고 있는 1일 서울 중구 명동거리에 관광객들이 우산을 쓰고 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비는 2일 새벽까지 충청과 남부지방, 제주도를 중심으로 이어지겠다. 예상 강수량은 제주 산지와 중산간 20~60㎜, 제주 해안과 전남광주, 부산·울산·경남 5~40㎜, 충청과 전북, 대구·경북 5~20㎜다. 특히 제주도에는 1일 늦은 밤 돌풍과 함께 시간당 20㎜ 안팎의 강한 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;2일은 전국이 대체로 흐리다가 오전부터 차차 맑아지겠다. 아침 최저기온은 6~13도, 낮 최고기온은 14~20도로 평년과 비슷하거나 다소 높겠다.&lt;br&gt;&lt;br&gt;3일에는 북서쪽의 찬 공기가 본격적으로 내려오면서 아침 최저기온이 0~9도까지 떨어지겠다. 전날보다 5~10도 낮은 수준이다. 낮 최고기온은 15~19도로 예상된다. 전국 대부분 지역에서 낮과 밤의 기온 차도 15도 안팎까지 크게 벌어지겠다.&lt;br&gt;&lt;br&gt;전국 내륙 곳곳에는 서리가 내릴 것으로 보여 농작물 관리에 주의해야 한다. 3일은 전국이 대체로 맑다가 오후부터 구름이 많아지겠고, 4일에는 전국에 구름이 많겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내기 골프 져주며 신뢰 쌓더니… 약물 먹이고 7500만원 가로챈 일당</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/01/5JGGIVVKHBDWNPWOXMJO6UWKFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/01/5JGGIVVKHBDWNPWOXMJO6UWKFQ/</guid>
+      <dc:creator>원종빈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 04:12:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EMKZAWWZC7CUUUVMEPCZKIWJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 남대문경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 내기 골프 중 약물을 먹여 돈을 뺏은 일당 3명을 검거해 공소청에 넘겼다. &lt;br&gt;&lt;br&gt;서울 남대문경찰서는 경기도 모처 골프장에서 피해자에게 향정신성의약품을 탄 커피를 마시게 한 후 7500만원을 송금받아 가로챈 일당 3명을 마약류관리법 위반 및 사기 혐의로 지난달 30일 송치했다고 밝혔다. 이 중 주범인 60대 피의자 B씨는 구속 송치됐다. &lt;br&gt;&lt;br&gt;이들은 피해자에게 고의로 내기 골프를 져주면서 신뢰 관계를 형성한 후 지난 7월 30일 범행을 저질렀다. 약물 준비, 음료 조제, 출입구 망보기 및 바람잡이 등 역할도 나눴다. &lt;br&gt;&lt;br&gt;피해자가 라운딩 전 화장실에 간 사이 커피에 약물을 섞었고, 피해자가 약물을 먹은 후 인지와 운동 능력이 저하된 상태에서 36홀 라운딩을 강행했다. 이후 내기에서 진 것으로 결과를 확정 짓고 식당에서 돈을 요구해 가로챘다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRG7XHTIUNGY7OPR24IJVCDKDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출입구 쪽을 경계하며 피해자의 커피에 마약류를 넣는 피의자들. /남대문경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 피해자 소변과 모발 감정에서 향정신성의약품 성분을 검출하고 의료 처방 이력을 분석해 외부적 투약에 의한 증상임을 밝혀냈다. &lt;br&gt;&lt;br&gt;또 골프장 내 CCTV 영상으로 피의자들이 커피에 약물을 타고, 출입구를 감시하며 망을 보고, 음료를 전달하는 장면 등을 분석해 역할 분담 정황도 확인했다.&lt;br&gt;&lt;br&gt;경찰은 “마약류 범죄에 대해 엄정 대응하고 관련 범죄 근절에 수사 역량을 집중할 방침”이라며 “마약류 사용을 목격하거나 의심되는 경우 가까운 경찰관서에 즉시 신고해 줄 것을 당부한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DRG7XHTIUNGY7OPR24IJVCDKDM.jpg?auth=b20f791e8e982c68314f0300f4f59ed3dcf3a223f7a2e8b10eba39e19779eae3&amp;smart=true&amp;width=400&amp;height=213" type="image/jpeg" height="213" width="400">
+        <media:description type="plain">출입구 쪽을 경계하며 피해자의 커피에 마약류를 넣는 피의자들. /남대문경찰서</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>국민연금 수급자 800만명 돌파… 3명 중 2명은 월 60만원 미만</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/11/01/ST2WMUI5PJCLPOW6FQ5UYSFDSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/01/ST2WMUI5PJCLPOW6FQ5UYSFDSY/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 04:38:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBUS5CTNUJN3VAO3TUK6UFXOUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 종로구 탑골공원 앞에서 고령자들이 무료 점심을 배식받기 위해 줄을 서 있다. 이날 국가데이터처가 발표한 '2026 고령자 통계'를 보면 올해 65세 이상 고령 인구는 1112만5000명으로 전체 인구의 21.6%에 달했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 국민연금 수급자가 800만명을 넘어섰지만, 수급자 3명 중 2명은 한 달 수령액이 60만원이 채 안 되는 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 국민연금공단의 ‘국민연금 공표 통계’에 따르면 올해 1~7월 중 국민연금을 한 번이라도 받은 사람은 806만2142명으로 집계됐다. 노령연금과 장애연금, 유족연금, 일시금 등 국민연금 급여를 받은 사람을 모두 합한 수치다. 이 기간 연금을 받다가 사망한 사람도 포함됐다.&lt;br&gt;&lt;br&gt;국민연금 수급자는 2015년 402만8671명으로 처음 400만명을 넘어섰다. 이후 11년 만에 수급자 규모가 두 배로 커진 것이다. 베이비붐 세대 은퇴와 인구 고령화로 수급자는 당분간 계속 증가할 것으로 보인다. 국민연금연구원이 지난 8월 내놓은 중기재정전망(2026∼2030)에 따르면, 국민연금 수급자 수는 2028년 약 900만912명, 2030년엔 약 1005만9631명으로 1000만명을 넘어설 것으로 추산됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67OV4ENFCFFW3HZHWFBRFR5CGI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 국민연금 수급자의 66.0%는 매달 60만원 미만을 받는 것으로 나타났다. 올해 7월 기준 전체 수급자 786만3299명 가운데 월 20만원 이상 40만원 미만을 받는 사람이 299만1230명(38.0%)으로 가장 많았다.&lt;br&gt;&lt;br&gt;이어 월 40만원 이상 60만원 미만이 166만6760명(21.2%)으로 뒤를 이었다. 여기에 월 20만원 미만 수급자 53만5279명(6.8%)까지 합하면 전체의 66.0%가 매달 60만원도 받지 못하는 것으로 집계됐다. 국민연금이 노후 소득을 보장하는 제도로 자리 잡았지만, 상당수 수급자가 국민연금만으로 생활하긴 어렵다는 얘기다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박지향 이사장 직무수행 유지… 교육부 즉시항고 기각</title>
+      <link>https://www.chosun.com/national/education/2026/11/01/TFTLZD5ECRGZDJ6TA243DBKPVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/01/TFTLZD5ECRGZDJ6TA243DBKPVQ/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 04:06:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZGEMDGMEZWIM3FMQZTMM3EGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교육부가 박지향 동북아역사재단 이사장에게 내린 직무정지 처분을 두고 법원에 다시 판단을 구했지만 받아들여지지 않았다. 사진은 박지향 동북아역사재단 이사장이 국회 국정감사에 참석한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 박지향 동북아역사재단 이사장 직무 정지 처분이 적법하다며 법원에 다시 판단을 구했지만 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울고법 행정6-3부는 지난달 29일 교육부가 제기한 즉시 항고를 기각했다. 앞서 1심 법원이 박 이사장의 집행정지 신청을 받아들이자 교육부가 이에 불복해 항고했었다.&lt;br&gt;&lt;br&gt;지난 8월 서울행정법원 행정7부는 박 이사장의 집행정지 신청을 인용했다. 교육부가 직무정지를 통보한 지 약 3주 만이었다. 재판부는 직무 정지 처분의 효력을 본안 소송 1심 판결 선고일부터 30일이 되는 날까지 멈추라고 결정했고, 이번 항고 기각으로 이 결정이 유지됐다.&lt;br&gt;&lt;br&gt;교육부는 박 이사장이 기존 사업 계획에 없던 ‘울릉도·독도 답사’에 약 2778만원을 쓰고, 포럼 개최 비용으로 약 1238만원을 집행했다는 것을 문제 삼았다. 지난해 국회에서 의혹이 제기된 뒤 조사에 나섰고, 업무상 횡령 등이 확인됐다며 경찰에 수사를 의뢰하고 직무 정지를 통보했다. &lt;br&gt;&lt;br&gt;그러나 1심 재판부는 이 돈이 예산 외 지출에 해당하는지, 박 이사장에게 업무상 횡령의 고의가 있었는지 등이 충분히 소명되지 않았다고 봤다. 직무를 정지해야 할 필요성과 타당성이 있다고 단정하기 어렵다고 판단한 것이다. 교육부는 이와 별개로 동북아역사재단에 박 이사장 해임안 의결을 요청하기도 했다.&lt;br&gt;&lt;br&gt;박 이사장은 영국사를 전공한 사학자로 임기는 다음 달까지다. 본안 1심 선고 전에 임기가 끝날 가능성이 큰 만큼, 사실상 남은 임기를 채우게 될 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 11월 2일 월요일 (음력 9월 23일 庚辰)</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/01/6G7DRQ2LN5CITCX7TVE3JW43KY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/01/6G7DRQ2LN5CITCX7TVE3JW43KY/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>성주 중부내륙고속도 3중 추돌… 모녀 심정지, 3명 중경상</title>
+      <link>https://www.chosun.com/national/regional/2026/11/01/TMLZCD7NPRH3TOPX2JHPLD6EAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/01/TMLZCD7NPRH3TOPX2JHPLD6EAU/</guid>
+      <dc:creator>성주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 03:20:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDG6GG4N2JH7ZOWRCZAMRRWS7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중부 내륙고속도로 3중 추돌사고 현장 CCTV화면./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중부내륙고속도로에서 3중 추돌 사고가 발생해 40대와 60대 모녀가 심정지 상태로 병원에 이송되고, 3명이 중경상을 입었다. &lt;br&gt;&lt;br&gt;1일 경북소방본부에 따르면, 이날 오전 5시 18분쯤 경북 성주군 초전면 중부내륙고속도로 양평 방향 성주휴게소 인근에서 경차와 SUV, 화물차 3대가 잇따라 추돌했다. &lt;br&gt;&lt;br&gt;이 사고로 경차에 타고 있던 40대와 60대 모녀가 심정지 상태로, SUV 동승자 등 3명이 중경상을 입고 병원에 이송됐다. &lt;br&gt;&lt;br&gt;경찰은 화물차가 앞서가던 경차를 추돌한 이후, 이 사고로 멈춰 서 있던 경차를 뒤따르던 SUV가 들이받은 것으로 보고 목격자 등을 상대로 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>7호선 지하철 고장으로 상행선 운행 지연</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/01/EPAJLQYUBVCX5NIW2ILGWT2XN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/01/EPAJLQYUBVCX5NIW2ILGWT2XN4/</guid>
+      <dc:creator>윤성우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Nov 2026 05:10:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFAVWIJNVZK4DGHDKRF57U7O5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 12시 23분께 서울 지하철 7호선 보라매역에서 장암행 열차 고장으로 승객들이 전원 하차하는 등 불편을 겪었다. 이날 열차 고장으로 1시간 넘게 상행선이 운행 지연됐으나, 현재 전구간 정상운행을 재개했다. 사진은 이날 서울 7호선 고속터미널역 상행선이 인파로 북적이는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오후 서울 지하철 7호선 보라매역에서 장암 방면 열차가 고장 나 운행이 지연되고 있다.&lt;br&gt;&lt;br&gt;서울교통공사에 따르면 이날 낮 12시 23분쯤 7호선 보라매역을 지나던 상행선 열차에서 고장이 발생했다.&lt;br&gt;&lt;br&gt;공사는 보라매역에서 승객들을 모두 하차시킨 뒤 후속 열차를 고장 열차에 연결해 끌고 가는 ‘구원 연결’ 작업을 준비하고 있다.&lt;br&gt;&lt;br&gt;이 사고로 7호선 장암 방면 상행선 열차 운행에 차질이 빚어지고 있다. 하행선은 정상 운행 중이다.&lt;br&gt;&lt;br&gt;공사는 열차 제동 장치에 문제가 발생한 것으로 보고 있다. 고장 열차가 도봉 차량 기지에 도착하면 정확한 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;공사 관계자는 “신속히 복구해 열차 운행을 정상화할 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[부음] 임진택 (유진그룹 커뮤니케이션실 상무보)씨 모친상</title>
       <link>https://www.chosun.com/national/obituary-personnel/2026/11/01/5DNCDSGNIRGEFAGBTEHVQNB6EQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/01/5DNCDSGNIRGEFAGBTEHVQNB6EQ/</guid>
@@ -855,69 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNSAWHG7JNGWXDEGLYXNTF4WDY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상속받을 사람이 없어 국고로 귀속된 현금이 최근 5년간 123억원인 것으로 나타났다. 배우자나 자녀 없이 혼자 사는 1인 가구가 가파르게 늘면서 자신의 재산이 어디로 갈지 몰라 전전긍긍하는 중장년층도 늘고 있다. &lt;br&gt;&lt;br&gt;국세청이 30일 국민의힘 배준영 의원실에 제출한 자료를 보면 최근 5년간 무연고자 등의 상속재산 중 국고로 들어간 현금은 5년간 약 123억원으로 집계됐다. 연도별로는 2021년 26억원, 2022년 32억원으로 정점을 찍은 뒤 2023년 17억원으로 줄었다. 하지만 2024년 20억원, 지난해 28억원으로 다시 상승세다. &lt;br&gt;&lt;br&gt;2014년(약 1200만원)과 비교하면 불과 10여 년 만에 200배 넘게 늘어난 셈이다. 조달청이 별도로 관리하는 무연고자 명의의 토지·건물 등 부동산까지 합산하면 실제 국고로 흡수되는 자산 규모는 이보다 클 것으로 추정된다.&lt;br&gt;&lt;br&gt;중장년 1인 가구가 늘면서 국고로 귀속되는 유산 규모는 앞으로 더 늘어날 전망이다. 국회미래연구원에 따르면 2025년 기준 국내 40~59세 중장년 1인 가구는 약 224만명이다. 2015년(173만명) 대비 29.5% 늘었다. 중장년 고독사도 2017년 1211명에서 2024년 1706명으로 40.9% 늘어났다.&lt;br&gt;&lt;br&gt;이 때문에 일찌감치 유산 처분을 두고 고민하는 중장년 1인 가구도 적지 않다. 울산 중구에 사는 택시 기사 박모(56)씨는 배우자도 자녀도 없다. 박씨는 “내 사망 보험금은 누나들에게 돌려놓았지만 다른 자산은 어떻게 처분해야 할지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;차라리 유산을 남기지 않겠다는 중장년 1인 가구도 있다. 서울 강서구에 사는 이모(68)씨는 ”평생 벌어온 돈을 죽을 때까지 쌓아두고 싶지도 않고 소유하기조차 싫다“며 ”복잡한 유언장 공증이나 기부 약정 절차를 밟느니 살아 있을 때 지인들에게 베풀고 다 써버리는 게 속 편하다“고 했다.&lt;br&gt;&lt;br&gt;사후 재산을 정리하려는 유가족이나 주변인이 행정 문턱에 막혀 상속을 포기해야 하는 상황도 이어지고 있다. 서울 관악구에 사는 옥모(68)씨는 지난 9월 독신으로 살다 세상을 떠난 막내 이모의 임종을 지켰다. 이모가 쓰러진 뒤 병원비 1000만원을 사비로 부담하고 장례까지 직접 치렀다. 하지만 이모의 임대 아파트 보증금 2000만원을 여전히 돌려받지 못하고 있다.&lt;br&gt;&lt;br&gt;직계 상속인이 없다는 이유로 먼 친척들의 제적등본, 친양자 입양관계증명서, 혼인관계증명서 등을 떼어 와야만 보증금을 돌려줄 수 있다는 것이 임대 아파트 측 설명이었다. 옥씨는 “담당자조차 ‘제대로 서류를 제출하는 게 까다로워 대부분 환급을 포기한다’고 하더라”며 “나 역시 자녀가 없는 1인 가구인데 평생 번 돈이 엉뚱한 곳으로 흘러갈까 봐 두렵다”고 했다. &lt;br&gt;&lt;br&gt;배준영 의원은 ”고인의 뜻이 사후에도 존중받을 수 있도록 유산의 쓰임을 미리 정해둘 수 있게 정부가 안내와 지원을 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>반차·연차 내고 자유롭게 육아… “셋째 낳으면 1000만원”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/30/V4VMDQ4NDNFHXEIIQO65GVJPZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/30/V4VMDQ4NDNFHXEIIQO65GVJPZQ/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7NGZFZY2NHMTL2IQOS5D37XBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반도체·디스플레이 장비에 들어가는 정밀 부품을 만드는 영광와이케이엠씨는 육아 휴직과 근로시간 단축, 출산지원금 등을 통해 직원들의 출산·육아를 적극적으로 지원하고 있다. 지난 22일 임직원들이 아이들을 안고 충남 아산에 위치한 본사에 모여 활짝 웃고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“영광에서 당신이 다치면서까지 해야 할 중요한 일은 단 하나도 없습니다.” &lt;br&gt;&lt;br&gt;지난 22일 찾은 충남 아산시 둔포면의 반도체 장비 부품 업체 영광와이케이엠씨 공장 외벽에는 이런 문구가 적혀 있다. 직원의 안전과 가정을 최우선으로 하는 영광와이케이엠씨의 원칙이 담긴 문구라고 한다. &lt;br&gt;&lt;br&gt;이 회사 제조팀장 우용욱(36)씨는 지난해 10~11월 한 달 남짓 육아 휴직을 썼다. 그해 태어난 쌍둥이 지호·지아(1)를 아내와 함께 돌봤다. 우 팀장은 “육아 휴직을 길게 쓸 수도 있고 몇 달씩 끊어서 사용할 수도 있다”며 “단축 근무도 신청하면 회사에서 바로 승인이 난다”고 했다. 아내 김소희(31)씨는 “쌍둥이가 아프면 혼자 병원에 데려가기가 쉽지 않다”며 “그럴 때마다 전화를 하면 남편이 연차나 반차를 내고 바로 집에 와서 큰 도움이 된다”고 했다. &lt;br&gt;&lt;br&gt;영광와이케이엠씨는 1989년 설립된 금속 표면 처리 업체다. 반도체·디스플레이 장비에 들어가는 정밀 부품을 만든다. 지난 2월 기준 직원 243명 중 여성은 68명(28%)이다. 이 회사에서는 남성의 육아휴직이 드문 일이 아니다. 올해 10월 기준 이 회사 육아휴직 이용자 14명 중 5명(35.7%)이 남성이다. 국가데이터처에 따르면 영광와이케이엠씨와 직원 수가 비슷한 50~299명 규모 기업(2024년 기준)의 남성 육아휴직자 비율은 28.9%였다. 이 회사가 6.8%포인트 높은 것이다.&lt;br&gt;&lt;br&gt;육아기 근로시간 단축 제도를 이용한 직원도 13명(남성 3명·여성 10명)이고, 여직원 2명은 올해 임신기 근로시간 단축제를 이용했다. 이 회사 관계자는 “올해 육아휴직과 단축근무 이용 실적은 총 29건”이라며 “휴직이나 단축근무로 생기는 업무 공백을 메우기 위한 대체 인력도 21명 운영 중”이라고 했다. &lt;br&gt;&lt;br&gt;2015년 입사한 유애리(39)씨는 첫째를 낳고 육아휴직을 쓴 뒤 지난해 11월 복귀했다. 복귀 당시 이미 둘째를 임신 중이었다. 그는 “복귀와 동시에 단축근무제를 했다”며 “첫째 아이를 오전 9시에 어린이집에 데려다준 뒤 출근하기 위해서”라고 했다. 유씨는 둘째 출산 한 달 전까지 단축근무제를 이용했다. 그는 “다른 회사에 다니는 친구들을 보면 단축근무제는 눈치가 보여 거의 못 쓴다”며 “우리 회사는 임신하면 단축근무를 권장하고 사장님도 축하 기도를 해준다”고 했다. &lt;br&gt;&lt;br&gt;외국인 직원도 예외가 아니다. 우즈베키스탄 출신 아나스타샤(30)씨는 2024년 딸을 출산했다. 이후 육아휴직을 쓰고 지난해 9월 말 복귀했다. 지금은 오전 9시에 출근해 오후 3시에 퇴근한다. 아이 어린이집 적응 등 돌봄이 필요할 때 1~2개월 단위로 단축근무를 쓰고 있다고 한다. 그는 “처음 임신했을 땐 외국인에게는 육아휴직 혜택이 없을 줄 알았다. 그런데 회사에 말하니 바로 쓸 수 있다고 했다”며 “남편 혼자 벌어 아이를 키우기 쉽지 않겠다고 생각했는데 회사를 그만두지 않아도 돼 정말 좋았다”고 했다.&lt;br&gt;&lt;br&gt;같은 우즈베키스탄 출신인 김알리나(32)씨도 임신 후반기에 오전 9시에 출근해 오후 3시에 퇴근했다. 올해 3월에는 아들의 어린이집 적응을 돕기 위해 한 달간 오전 8시부터 낮 12시까지만 일했다. 김씨는 “아이가 아프거나 어린이집이 방학할 때는 (연 최대 10일인) 돌봄 휴가도 자유롭게 쓸 수 있다”고 했다.&lt;br&gt;&lt;br&gt;지난해 9월 딸을 얻은 김용호(42)씨는 현재 육아기 근로시간 단축이나 육아휴직을 고민하고 있다. 재택근무를 하는 아내가 아이까지 돌보다 보니 일에 집중하기 어렵기 때문이다. 김씨는 “단축근무든 육아휴직이든 신청하면 회사가 받아주는 분위기라 결정만 하면 된다”며 “최근엔 출근했다가 아이가 아프다는 전화를 받고 곧바로 연차를 내고 집에 갔다”고 했다. &lt;br&gt;&lt;br&gt;경제적 지원도 적지 않다. 첫째와 둘째를 낳으면 출산 지원금으로 각각 100만원, 셋째를 낳으면 1000만원을 준다. 2012년부터 올해 10월까지 지급한 출산 지원금은 총 68건, 9500만원이다. 같은 기간 대학생 자녀 학자금으로도 79건, 1억469만원을 지원했다. 직원 본인의 대학·대학원 학자금도 별도로 지원한다. 2019년부터 48건, 8384만원을 지급했다. 출산 지원금과 자녀·직원 학자금을 합치면 총 2억8354만원이다.&lt;br&gt;&lt;br&gt;육아 휴직에서 복귀하면 기존 업무 복귀가 원칙이다. 휴직 기간은 경력으로 인정한다. 여성 관리자 비율은 2023년 4%에서 올해 20%로 높아졌다. 지난해에는 여성 임원도 1명 새로 선임했다. 이 회사는 2024년 여성가족부로부터 가족 친화 인증을 받았고, 올해는 고용노동부의 남녀 고용평등 우수 기업 장관 표창도 받았다.&lt;br&gt;&lt;br&gt;장관섭(65) 대표는 “출산·육아 지원은 임직원의 업무 효율과 생산성도 크게 높인다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/10/30/XEO23Z4GO5FAHD3ZRID3VG5BYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/10/30/XEO23Z4GO5FAHD3ZRID3VG5BYI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHDFDMZX4VGPRCYEHLHQGRNVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-10-30일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 23일 ‘우리 아기가 태어났어요’ 코너에 실린 김하늘&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아이 이럴땐 어떻게?] 감각 예민해 밖에선 소변 참는 아이, 심리적 공감·담백한 칭찬 해주세요</title>
-      <link>https://www.chosun.com/national/2026/10/30/US6ZXOPSNZGHJHRMY6AE6XAUVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/10/30/US6ZXOPSNZGHJHRMY6AE6XAUVE/</guid>
-      <dc:creator>이윤선 배화여대 아동심리과 교수</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;Q. 만 4세 딸을 키우고 있는 엄마입니다. 아이가 집 밖에서는 화장실에 가려고 하지 않아요. 어린이집에서도 소변이 마려워도 꾹 참아요. 그러다 집에 돌아와서야 화장실을 갑니다. 몸에 문제가 생기는 건 아닐지 걱정입니다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;감각이 예민한 아이는 다른 아이들이 대수롭지 않게 넘기는 소리나 냄새, 촉감도 훨씬 더 불편하게 느낄 수 있습니다. 신경계가 민감한 아이에게는 위협에 가까운 큰 자극으로 다가오기 때문입니다. 이런 경우 공중화장실이나 어린이집 화장실은 소리, 냄새, 촉감, 자세 불안이 한꺼번에 쏟아지는 감당하기 힘든 공간이 될 수 있습니다. 가정과 외부 화장실의 감각적 격차는 생각보다 큽니다. 낯선 화장실의 물 내림 소리가 청각을 자극하고, 차갑고 단단한 변기 시트의 촉감은 거부감을 일으킵니다. 여기에 강한 소독약 냄새까지 겹치면 아이의 불안은 정점에 달합니다. 더구나 만 4세는 스스로 상황을 조절하려는 주도성이 발달하는 시기이므로, 예측 불가능한 공간에 맞닥뜨렸을 때 ‘가지 않겠다’는 선택을 할 수 있습니다. 그러나 소변을 반복적으로 오래 참으면 방광 내압이 상승해 소아 요로 감염이나 방광 불안정증, 기능성 변비로 이어질 수 있습니다. &lt;br&gt;&lt;br&gt;세심한 접근이 필요합니다. 아이를 다그치기보다 구체적인 원인을 짚어 물어봐야 합니다. “변기가 차가워 보여서 싫어?” “물이 갑자기 내려갈까 봐 무서워?”처럼 물어보며 아이의 감각을 알아주는 것만으로도 긴장은 크게 줄어듭니다. “참으면 병원 가서 주사 맞아야 해” 같은 말은 불안과 수치심을 키워 괄약근을 더 조이게 하므로 피해야 합니다.&lt;br&gt;&lt;br&gt;공간에 점점 익숙해지는 것도 중요합니다. 처음에는 화장실에 들어가 손만 씻고 나오고, 익숙해지면 변기 뚜껑을 닫고 옷을 입은 채 앉아봅니다. 아이가 편안해할 때 비로소 하의를 내리고 앉아보는 식으로 단계를 넓혀갑니다. 소변이 나오지 않아도 시도한 용기를 칭찬하고, 소변을 보았을 때도 과한 칭찬 대신 담백하게 인정해 주는 것이 좋습니다. &lt;br&gt;&lt;br&gt;성인용 변기가 높아 발이 허공에 떠 불안해한다면 부모가 변기 앞에 서서 신발 신은 발등을 아이 발밑에 밀어 넣어 지지대가 돼줄 수 있습니다. 소독약 냄새로 힘들어할 때는 아이가 좋아하는 친숙한 향을 묻힌 손수건을 코에 대어 안도감을 주는 것도 좋습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아기가 태어났어요] 김보람·이종원 딸 나은 외</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/10/30/WF6UIIHWV5GFPNXLKJQ7I26QOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/10/30/WF6UIIHWV5GFPNXLKJQ7I26QOY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYKX22L2WZHDDHXVUBBJOTLFW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온 가족에게 기쁨을 안겨 준 아기의 탄생을 알려주세요. 홈페이지 주소 입력창에 아가야안녕.com이라고 입력하면 됩니다. 매일유업 육아 정보 사이트 매일아이(maeili.com)를 통해서도 접속할 수 있습니다. 추첨을 통해 출산 소식과 사진이 지면에 실린 가족에게는 ①케이크 구매권 ②엄마와 아이를 위한 매일두 포인트 3만원 ③출산 소식을 생일 날짜 본지 1면에 담은 PDF 파일 ④조선일보 1개월 무료 구독권을 드립니다. 당첨자 중 한 가족을 선정하여 해당 지면을 고급 프레임에 담아 제공하는 조선일보 리프린트도 제작해 드립니다. 홈페이지에서는 균형 영양식 메디웰 2만원 할인 혜택도 드리고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조용필 ‘상처’ 작사가 장경수 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/10/30/K53A6ZULIFARJAX3E3NDIZ4A5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/30/K53A6ZULIFARJAX3E3NDIZ4A5Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO3YZSB3ORA2DNVCNGDMJ5KUEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조용필, 송대관 등 인기 가수들의 1980~90년대 히트곡에 가사를 쓴 장경수(본명 장희원·73) 작사가가 29일 별세했다. 1953년 강원도 속초에서 태어난 고인은 1977년 가수 윤수일의 노래 ‘꿈이었나 봐’의 가사를 맡으며 작사가로 데뷔했다. 이후 조용필 ‘상처’, 최진희 ‘꼬마 인형’, 송대관 ‘정 때문에’, 유미리 ‘젊음의 노트’ 등 1300여 편의 노래 가사를 지었다. 2018년 KBS 2TV ‘불후의 명곡’ 등 유명 음악 방송에서 고인이 작사한 노래를 주제로 무대를 꾸리기도 했다. 한국가요작가협회 제9대 회장, 한국음악저작권협회 이사를 역임했다. 빈소는 경기 고양 명지병원, 발인은 31일 오전 6시 30분. 031)810-5444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 사단법인 ‘맑고향기롭게’, ‘제2회 법정 스님 학술 대회’ 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/10/30/Z6EGD4QFIVENVPDOEJGTIWVEL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/30/Z6EGD4QFIVENVPDOEJGTIWVEL4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:37:00 +0000</pubDate>
-      <content:encoded>▲사단법인 ‘맑고향기롭게’(이사장 덕조 스님)는 11월 8일 오후 1시 서울 성북동 길상사에서 ‘제2회 법정 스님 학술 대회’를 개최한다. 주제는 ‘법정 스님의 철학에 담긴 현대인의 삶과 비전’. 박경준 동국대 불교학과 명예교수와 윤용복 아시아종교연구원장이 주제 발표한다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강만길 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/10/30/MFWEDLVHIZCEBKHX5KSQWF7YBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/30/MFWEDLVHIZCEBKHX5KSQWF7YBA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:37:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강만길&lt;/b&gt; 별세, &lt;b&gt;김윤자&lt;/b&gt; 남편상, &lt;b&gt;강호&lt;/b&gt;·&lt;b&gt;강선&lt;/b&gt; 부친상, &lt;b&gt;김진희&lt;/b&gt; KBS전주방송총국 기자 시부상=28일12시39분 전주 모악장례문화원, 발인 30일9시, (063)221-4044&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김옥순&lt;/b&gt; 별세, &lt;b&gt;이훈&lt;/b&gt; 공공뉴스 발행인·&lt;b&gt;이미랑&lt;/b&gt;·&lt;b&gt;이애랑&lt;/b&gt;·&lt;b&gt;이서훈&lt;/b&gt; 새기쁨교회 담임목사 모친상, &lt;b&gt;김현철&lt;/b&gt; 미라클차트 대표 장모상=29일2시 한양대 구리병원, 발인 31일10시30분, (031)566-2040&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문경옥&lt;/b&gt; 별세, &lt;b&gt;노성현&lt;/b&gt; 아내상, &lt;b&gt;노희선&lt;/b&gt;·&lt;b&gt;노희규&lt;/b&gt;·&lt;b&gt;노희경&lt;/b&gt;·&lt;b&gt;노영우&lt;/b&gt; 매일경제신문 디지털혁신센터장·&lt;b&gt;노영림&lt;/b&gt; 모친상, &lt;b&gt;김준섭&lt;/b&gt;·&lt;b&gt;황찬규&lt;/b&gt;·&lt;b&gt;정창근&lt;/b&gt;·&lt;b&gt;박상호&lt;/b&gt; 장모상, &lt;b&gt;임선희&lt;/b&gt; 시모상=29일7시 서울대병원, 발인 31일8시, (02)2072-2010&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박해진&lt;/b&gt; 별세, &lt;b&gt;임정영&lt;/b&gt; 남편상, &lt;b&gt;박영춘&lt;/b&gt;·&lt;b&gt;박계순&lt;/b&gt;·&lt;b&gt;박순희&lt;/b&gt; 부친상, &lt;b&gt;강신호&lt;/b&gt;·&lt;b&gt;김기인&lt;/b&gt; 안랩 부사장 장인상,&lt;b&gt; 윤경희&lt;/b&gt; 시부상=29일5시51분 고려대 구로병원, 발인 31일5시40분, (02)857-0444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유춘자&lt;/b&gt; 별세, &lt;b&gt;신규식&lt;/b&gt; 충청투데이 충북본사 사장 장모상=29일1시30분 인천적십자병원, 발인 31일7시30분, (032)822-1234&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>故 신해철에 ‘은관문화훈장’ 추서</title>
       <link>https://www.chosun.com/national/people/2026/10/30/CGZOHHRDQRCB5BCL6CQ2OJJXMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/10/30/CGZOHHRDQRCB5BCL6CQ2OJJXMM/</guid>
@@ -925,24 +949,6 @@
       <description/>
       <pubDate>Thu, 29 Oct 2026 15:37:00 +0000</pubDate>
       <content:encoded>문화체육관광부와 한국콘텐츠진흥원은 29일 서울 중구 국립극장에서 ‘2026 대한민국 대중문화예술상’ 시상식을 열고 총 36명(팀)에게 문화훈장과 표창을 수여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25E4D3EQHZGNRMR55RNGJLI2TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 신해철&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;은관문화훈장은 1988년 대학가요제 대상으로 데뷔한 이후 밴드 넥스트 등을 통해 한국 록 음악의 대중화를 이끈 가수 고(故) 신해철이 받았다. 보관문화훈장 수훈자로는 ‘무한도전’ 등을 이끌며 30년 넘게 대표 방송인으로 활동해 온 개그맨 유재석, ‘누구 없소’ ‘조율’ 등을 부르며 올해 데뷔 50주년을 맞은 가수 한영애, ‘맘마미아!’ ‘시카고’ 등을 국내 무대에 올리며 40년 넘게 공연 현장을 이끌어 온 공연 제작자 박명성, ‘아기공룡 둘리’의 둘리, ‘짱구는 못 말려’의 짱구 등의 목소리를 맡아 온 성우 박영남, 반세기 넘게 한국 재즈 무대를 지켜 온 연주자 신관웅이 선정됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUWIGVVKCZEGPNBBRD7MG3QA24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재석&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥관문화훈장은 데뷔 10주년을 맞이한 케이팝 그룹 블랙핑크의 로제·리사·제니·지수 4명 전원이 받았다. 미국 ‘빌보드 200’과 영국 오피셜 앨범 차트 1위에 오르는 등 세계 무대에서 활약하며 한류 확산에 기여한 공로를 인정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTXRIR2NDNE35NLXUVM5E22XDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;블랙핑크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 표창은 음악감독 강승원, 밴드 부활, 그룹 슈퍼주니어, 영화감독 장항준, 배우 유해진·류승룡·소지섭이, 국무총리 표창은 방송인 배미향, 영화감독 윤가은, 소리꾼 이자람, 작곡가 이재, 배우 유승목·김고은·오정세, 가수 악뮤(AKMU)가 받았다. 개그맨 김신영·김원훈, 안무가 리정, 배우 임지연·최대훈·박지훈·윤경호, 영화 제작자 장원석, 가수 장민호, 그룹 엔믹스·엔하이픈은 문체부 장관 표창을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유지범 성균관대 총장</title>
-      <link>https://www.chosun.com/national/education/2026/10/30/3Y75SHU67BDPXMYWABLA7FGRZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/10/30/3Y75SHU67BDPXMYWABLA7FGRZQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCD5LJJY5BCJPJ5DQDS5VOZJKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성균관대 제23대 총장으로 유지범 현 총장이 선임됐다. 새 임기는 내년 1월 1일부터 4년이다. 유 총장은 1994년 성균관대 교수로 임용돼 공학교육혁신센터장·공과대학장·자연과학캠퍼스 부총장 등을 역임했고, 2023년 22대 총장에 취임했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 행정안전부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/10/30/RR2FYPF3TZBG5DRLMPYW2P2BOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/10/30/RR2FYPF3TZBG5DRLMPYW2P2BOI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 Oct 2026 15:37:00 +0000</pubDate>
-      <content:encoded>▲행정안전부◇실장급 승진▷부산광역시 행정부시장 김성기▷대구광역시 행정부시장 심영재▷충청북도 행정부지사 김중열◇국장급 전보▷인사기획관 이방무▷사회연대경제국장 황순조▷사회재난대응국장 박용수▷재난복구지원국장 김한수◇국장급 승진▷국립과학수사연구원 법의학부장 이수경&lt;br&gt;&lt;br&gt;▲보건복지부◇과장급 전보 및 파견▷혈액장기정책과장 성윤호▷국립재활원 총무과장 허창호▷의료혁신지원과장 양진한▷사회보장조정과장 이선주&lt;br&gt;&lt;br&gt;▲질병관리청◇과장급 승진▷충청권질병대응센터 국립군산검역소장 과학기술서기관 심재덕&lt;br&gt;&lt;br&gt;▲대한불교조계종◇총무원▷호법부장 서리 지묵스님▷사서실장 유정스님▷미래본부 사무총장 일규스님▷호법부 상임감찰 정견스님◇불교신문사▷사장 도심스님◇직영 사찰▷광제사 주지 겸 세종 전통문화체험관 관장 형진스님&lt;br&gt;&lt;br&gt;▲신용보증기금◇상임이사 선임▷김남수▷정현호▷최종천&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“글로벌 검증 탄소시장 출범…개도국 녹색투자 새 장 열어"</title>
