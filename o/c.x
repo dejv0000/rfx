@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘철거 위기’ 옛 서귀포극장, 복합문화공간으로 재탄생</title>
+      <link>https://www.chosun.com/national/regional/2026/11/05/3FGGXZQXANHA5K53CMCFHCSPCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/05/3FGGXZQXANHA5K53CMCFHCSPCM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Nov 2026 00:32:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSTCN3EMUZWKYZRMYYDQNJQGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서귀포 관광극장 정면과 내부 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주 서귀포시 원도심의 문화자산인 옛 관광극장이 복합문화공간으로 재탄생한다.&lt;br&gt;&lt;br&gt;5일 제주특별자치도가 제주도의회에 제출한 ’2027년도 공유재산관리계획안’에 따르면 서귀포시는 총사업비 35억 7000만 원을 투입해 서귀동 519번지 일대 옛 관광극장을 복합문화공간으로 조성할 계획이다.&lt;br&gt;&lt;br&gt;서귀포시는 관광극장의 기존 건축물 일부를 철거하고 연면적 약 500㎡, 지상 2층 규모로 다시 짓는다. 1층에는 소규모 전시공간과 관리실, 화장실 등이 들어서고, 2층에는 관광극장 기록관과 전망대 등이 조성된다. 야외에는 소규모 공연장과 휴게공간을 마련해 과거 노천극장의 분위기를 되살릴 계획이다.&lt;br&gt;&lt;br&gt;특히 기존 관광극장의 역사성을 유지하기 위해 건물 정면부인 파사드는 보존을 우선 검토한다. 구조적 취약성으로 보존이 어려우면 해체한 뒤 복원하는 방안을 추진한다. 건물 북측에 남아 있는 석축벽체도 최대한 원형을 유지하면서 활용 방안을 마련하기로 했다.&lt;br&gt;&lt;br&gt;서귀포시는 내년 1월부터 6월까지 설계공모와 실시설계를 진행하고, 7월 공사에 착수해 2028년 2월까지 사업을 마무리할 계획이다.&lt;br&gt;&lt;br&gt;서귀포관광극장은 1960년 준공돼 1963년 10월 서귀포 지역 최초의 극장으로 문을 열었다. 영화 상영은 물론 학교 학예회와 웅변대회, 대중가수 공연 등이 열리며 지역주민들의 문화생활 중심지 역할을 했다. 1993년 화재로 지붕과 내부 일부가 소실된 뒤 1999년 폐업했다가 2015년 노천극장으로 재개관해 공연과 전시 등 다양한 문화행사 공간으로 활용됐다. 서귀포시는 2023년 12월 관광극장 건물과 용지를 매입했다. &lt;br&gt;&lt;br&gt;그러나 건축물 노후화로 정밀안전진단에서 최하위인 E등급을 받는 등 안전 문제가 제기됐고, 인접한 이중섭미술관 신축 공사가 겹치면서 지난해 9월 철거가 진행됐다. 당시 제주도건축사회가 관광극장 석축벽체 철거 중단을 요청하면서 보존과 활용 방안을 둘러싼 논의가 이어졌다.&lt;br&gt;&lt;br&gt;이에 서귀포시는 지난해 12월 건축·문화유산·도시재생·건축물 안전 분야 전문가와 민간 인사 등 11명으로 추진협의회를 구성했다. 추진협의회는 올해 8월까지 총 10차례 회의를 진행한 뒤 건물 정면부와 북측 석축벽체를 최대한 보존하고 내부 공간을 재구성하는 내용의 권고안을 제시했다.&lt;br&gt;&lt;br&gt;서귀포시 관계자는 “새롭게 조성하는 관광극장을 2027년 하반기 개관 예정인 이중섭미술관 등 주변 문화시설과 연계해 원도심 문화관광 거점으로 활용하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>우이신설선 전 구간 운행 지연… 복구 작업 중</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/05/7WNQ26VAORFLHJHMCKEATWA5XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/05/7WNQ26VAORFLHJHMCKEATWA5XQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Nov 2026 00:08:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44WENTGGA2WGNBUGZTDEYZSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문구 신설동역 우이신설선. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오전 6시쯤부터 우이신설선 전 구간에서 열차 운행이 지연돼 출근길 시민들이 불편을 겪고 있다.&lt;br&gt;&lt;br&gt;차량 기지에서 열차가 출고되는 과정에서 전자 연동 장치에 장애가 발생해 평소보다 열차 운행 간격이 벌어진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;우이신설 도시철도 측은 정확한 장애 원인을 파악하는 한편 복구 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “현재 열차 16대 중 7대만 운행 중”이라며 “복구 작업이 끝나는 대로 정상 운행이 가능할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 전자담배 ‘릴’ 기술 탈취? 협력사와 형사 분쟁 난 KT&amp;G</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/05/Z7OXVLZHZRD47JEDYQMMHJYYUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/05/Z7OXVLZHZRD47JEDYQMMHJYYUU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Nov 2026 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXTVVOZ2IZJ4JRTFPM3OYG5KNY.png"&gt;&lt;figcaption&gt;&lt;small&gt;KT&amp;G 궐련형 전자담배 ‘릴 하이브리드’와 액상 카트리지. /KT&amp;G&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자담배 사업을 둘러싼 KT&amp;amp;G와 협력사의 갈등이 형사 사건으로 확대됐다. 협력사는 국내 최대 담배 회사인 KT&amp;amp;G가 거래상 우월적 지위를 이용해 기술을 탈취하려 했고, 요구를 들어주지 않아 거래를 끊었다고 주장한다. 반면 KT&amp;amp;G는 협력사와의 계약을 충실히 이행했고, 위법한 거래도 없었다는 입장이다. 앞서 KT&amp;amp;G는 협력사를 상대로 특허 소송을 제기했지만 사실상 패소했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 경남 창원에 본사를 둔 이엠텍은 4일 백복인 전 대표, 임왕섭(KGC인삼공사 대표) 전 NGP(차세대제품) 사업본부장 등 KT&amp;amp;G 전·현직 임직원과 법인을 서울지방중대범죄수사청에 고소했다. 혐의는 독점 규제 및 공정거래에 관한 법률(공정거래법)과 하도급 거래 공정화에 관한 법률(하도급법) 위반, 특정경제범죄가중처벌 등에 관한 법률상 강요죄 및 공갈미수 등이다.&lt;br&gt;&lt;br&gt;이엠텍은 2001년 설립돼 2007년 코스닥에 상장된 전기·전자기기 및 부품 개발·제조 업체이다. 이엠텍은 2016년 10월부터 전자담배 기기(디바이스)를 신사업으로 연구하던 중 먼저 협력을 제안한 KT&amp;amp;G와 이듬해 2월부터 전자담배 제품 개발 용역 계약을 체결했다. 이엠텍은 2017년 11월 처음 출시된 궐련형 전자담배 ‘릴 FT 솔로 1.0’을 시작으로 지금까지 전자담배 기기 약 906만대와 카트리지 약 4억1000만개를 KT&amp;amp;G에 공급했다고 한다.&lt;br&gt;&lt;br&gt;이엠텍 측은 KT&amp;amp;G가 전자담배 사업이 본격화하자 거래상의 지위를 이용해 2017년 12월부터 2018년 10월까지 이엠텍의 특허 41건을 무단으로 탈취했다고 주장한다. 이후 KT&amp;amp;G가 2021년에 다시 특허 및 출원 64건을 이전하라고 요구했고, 이엠텍이 이를 거절하자 KT&amp;amp;G가 거래를 일방적으로 중단하고 계약을 파기했다는 게 이엠텍 측의 주장이다.&lt;br&gt;&lt;br&gt;이엠텍 관계자는 “KT&amp;amp;G가 잔여 기간이 남은 개발 용역 4건을 일방적으로 취소하고, 연간 1000억원대인 거래 물량을 고의로 축소하다가 2024년 5월에는 거래를 전면 중단했다”고 했다. 이엠텍의 KT&amp;amp;G 상대 매출은 2021년 1670억원으로 전체 매출의 42%를 차지했지만, 2023년 10분의 1 수준인 190억원으로 줄었고, KT&amp;amp;G와 거래가 전면 중단된 2025년부터 0원이 됐다고 한다. KT&amp;amp;G의 국내 궐련형 전자담배(스틱) 시장 점유율은 약 46%이다.&lt;br&gt;&lt;br&gt;두 회사는 앞서 민사 사건으로도 부딪쳤다. KT&amp;amp;G는 2022년 3월 이엠텍을 상대로 특허 6건을 이전하라는 ‘특허권 이전 등록 절차 이행 청구’ 소송을 제기했다. KT&amp;amp;G는 “이엠텍이 용역 계약에 따라 만든 제품이나 기술에 대한 지식재산권은 KT&amp;amp;G 것이어야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;그러나 법원은 KT&amp;amp;G가 요구한 특허 6건 중 1건만 KT&amp;amp;G 소유로 봐야 하고, 나머지 5건은 이엠텍의 특허로 봐야 한다고 판단했다. 대법원 1부(주심 천대엽)는 지난 8월 KT&amp;amp;G가 이엠텍을 상대로 낸 특허 소송을 심리불속행 기각하면서 “KT&amp;amp;G가 주장한 특허 6건 중 5건은 KT&amp;amp;G 계약 문언에 의하더라도 이엠텍의 고유 특허”라고 판단한 원심을 확정했다. &lt;br&gt;&lt;br&gt;이엠텍 관계자는 “KT&amp;amp;G는 전자담배 기기를 스스로 개발할 능력이 없던 시기에 협력사 기술로 시장에 진입했고, 거래상 지위를 이용해 대가 없이 협력사 기술을 계속 요구하다가 아예 거래를 끊은 것”이라고 했다. 이 관계자는 “KT&amp;amp;G가 거래 축소와 중단의 명분으로 내세웠던 특허의 실제 주인은 협력사라는 게 법원 판단인 만큼, KT&amp;amp;G는 최소한의 손해를 보상하고 형사 책임도 져야 한다”고 했다. &lt;br&gt;&lt;br&gt;앞서 이엠텍은 지난달 초 KT&amp;amp;G가 3000억원을 지급하라는 내용의 분쟁 조정 신청서를 공정거래위원회 산하 한국공정거래조정원에 제출했다.&lt;br&gt;&lt;br&gt;반면 KT&amp;amp;G 측은 이엠텍과의 계약 이행 과정에 문제가 없었던 만큼 형사 처벌 대상이 될 수 없다는 입장이다. KT&amp;amp;G 관계자는 “KT&amp;amp;G는 2024년 5월 이엠텍과의 공급 계약 제품이 단종될 때까지 정상적으로 거래했고 용역 대금도 모두 지급했다”면서 “이엠텍이 특허를 무단 출원하거나 자회사를 통한 우회 출원 등을 해 신뢰 관계가 훼손되고, 거래처 다변화 필요성도 제기돼 거래를 종료한 것”이라고 했다. ‘KT&amp;amp;G가 거래를 일방적으로 중단해 손해를 봤다’는 이엠텍 주장에 대해서도 “법적 근거가 없다”고 했다.&lt;br&gt;&lt;br&gt;KT&amp;amp;G 관계자는 이엠텍과의 특허 분쟁에 대해서도 “앞서 이엠텍에서 이전받은 특허는 계약 및 합의에 따른 당연한 권리이고, 소송을 제기한 6건도 이엠텍이 특허 중 일부를 무단 출원했다는 점이 법원에서 인정됐다”면서 “일부 청구(6건 중 5건)가 기각됐지만, KT&amp;amp;G가 이엠텍의 특허를 탈취하는 등 거래상 지위를 남용했다는 취지로 기각된 게 아니다”라고 했다.&lt;br&gt;&lt;br&gt;또 KT&amp;amp;G 관계자는 이엠텍이 주장하는 하도급법 위반 혐의에 대해서도 “이엠텍은 하도급법 적용 대상이 아니다”라고 했다. KT&amp;amp;G 관계자는 “이엠텍의 고소와 관련해 객관적인 자료를 바탕으로 충실히 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] “테이블 줄이고 나무 심자”… 도쿄 고층 식당의 실험</title>
       <link>https://www.chosun.com/national/2026/11/05/VNV3QN2GLVAELADW2RNJLRC4GM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/11/05/VNV3QN2GLVAELADW2RNJLRC4GM/</guid>
@@ -915,15 +942,6 @@
       <content:encoded>성평등가족부 산하 한국건강가정진흥원이 가족 형태에 대한 차별·편견이 담긴 기사를 쓰지 않은 우수 언론사로 조선일보·한겨레신문·머니투데이·헤럴드경제 등 4곳을 선정했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;한국건강가정진흥원은 지난해 6월부터 올해 5월까지 1년간 전국 일간지 25곳의 사회·문화면에 실린 기사를 분석했다. 해당 기사들을 ‘결혼·출산·혈연 중심 가족을 당연시하는가’ ‘가족 내 역할을 성별 고정관념에 기반해 표현하는가’ ‘특정 국가나 민족, 인종, 종교를 차별하거나 비하하는가’ 등의 지표를 기준으로 평가했다. 그 결과 조선일보를 비롯한 4개 매체에서는 차별이나 편견이 담긴 사례가 한 건도 나오지 않았다. 진흥원은 18일 성과 보고회를 열고 이 매체들에 공로패를 줄 예정이다.&lt;br&gt;&lt;br&gt;박구연 한국건강가정진흥원 이사장은 “언론은 사회적 편견을 해소하고 포용적 문화를 확산시키는 가장 강력한 공공의 거울”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 도로가 물에 잠기다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/11/04/VE235GC47NECBAE7NNIDP45764/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/11/04/VE235GC47NECBAE7NNIDP45764/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Nov 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5MTI6WGPBFJZNX6AHZNUAUFS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 가교(架橋)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2026/11/04/U7A5MLKU3JDM3PP5B6KT5P43YI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/11/04/U7A5MLKU3JDM3PP5B6KT5P43YI/</guid>
@@ -931,24 +949,6 @@
       <description/>
       <pubDate>Tue, 03 Nov 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OATAPIDKYNEPPPXGEH3CEORN4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2981] 알록달록 단어 팔레트</title>
-      <link>https://www.chosun.com/national/nie/2026/11/04/BDNBS5XVMNBAVNSJCANJZVFSF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/11/04/BDNBS5XVMNBAVNSJCANJZVFSF4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Nov 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMCJMWYM6NB3FCH4LCGEU5FIAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] cater to one’s every whim</title>
-      <link>https://www.chosun.com/national/nie/english/2026/11/04/JHIBPPORDVCIFGNOOTVND4Z3JQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/11/04/JHIBPPORDVCIFGNOOTVND4Z3JQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Nov 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7XNSD3OOVFE3J6KNOU4LDF7QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정부·경찰, 비진료 공간 우선 압수수색 지침 마련…응급실 진료 연속성 보호</title>
