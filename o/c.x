@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이원석 전 검찰총장 “‘조작기소 특검법’은 권력분립 송두리째 무너뜨리는 위헌 입법”</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/06/ZOYBWVY4ZJEWZHB77Y6RV3ZEXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/06/ZOYBWVY4ZJEWZHB77Y6RV3ZEXM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Nov 2026 01:18:25 +0000</pubDate>
+      <content:encoded>이원석 전 검찰총장이 6일 국회 본회의 통과를 앞두고 있는 ‘조작기소 특검법’에 대해 “헌법상 권력분립을 송두리째 무너뜨리는 위헌 입법, 위헌 법률이자 위헌 특검”이라고 비판했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53PYRQQDGNKLXJQRNTGHLOYJVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원석 전 검찰총장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 총장은 이날 입장문을 통해 “사법권은 독립된 사법부에 속한다”며 “재판 절차가 일시 중지된 대통령이 임명하는 임시조직인 특검이 확정됐거나 재판 중인 사건을 다시 끄집어내 사법부에 앞서 먼저 판단하는 것은 사법권의 본질인 재판 독립을 침해하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;그는 “이번 특검법은 법률 명칭부터 ‘조작수사, 조작기소’라 못 박고 있다”며 “대장동·백현동·위례 불법 개발사업 일당과 불법 대북송금 피고인들의 번복된 일방적 주장을 근거로 검사들을 ‘조작수사, 조작기소’로 단정 지었다”고 했다. 그러면서 “특검의 일방적 결과에 따라 공소취소의 길을 열려고 하겠지만, 이에 따를 검사는 없을 것”이라며 “공소취소가 되지도 않는다”고 했다.&lt;br&gt;&lt;br&gt;그는 또 “정부와 더불어민주당은 민생에 직결되는 검사의 보완 수사권마저 전면 폐지해 검사에게는 손톱만큼의 수사권도 남겨두지 않았는데, ‘공소취소를 위한 특검’을 도입하면서는 그 특검에는 수사와 기소 권한을 통째로 부여한다”면서 “민주당이 수사 대상을 정하고 대통령이 임명하는 특검만은 민주당의 ‘수사-기소 분리 원칙’의 예외이고, 나에게, 우리 편에게 유리한 형사사법 시스템을 창설한 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;이 전 총장은 “만약 확정된 재판을 번복할 만한 새로운 증거가 발견된다면 재심절차를 거치면 된다”며 “진행 중인 재판에서는 적법절차와 증거, 법리를 따져 차분히 유무죄를 결정지으면 될 일”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;민주당 주도로 지난 5일 국회 본회의에 상정된 ‘조작기소 특검법’은 윤석열 정부 당시 검찰 등의 수사·기소 과정에서 증거 조작이나 진술 강요 등이 있었는지를 특검이 수사하도록 하는 법안이다. 수사 대상에는 이 대통령이 기소된 대장동·쌍방울 대북송금 사건과 문재인 정부 통계 조작 사건 등이 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이름값 하는 立冬...서울, 20년 만에 ‘영하권 입동’</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/11/06/IGPVISPMUBGFLF643SLOPMRIUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/06/IGPVISPMUBGFLF643SLOPMRIUE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Nov 2026 01:04:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZDIMLDMY3TQOJYMRRDQMZWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;절기상 입동(立冬)을 하루 앞둔 6일 오전 서울 종로구 광화문 사거리에서 두꺼운 옷을 입은 직장인들이 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘겨울에 들어선다’는 절기상 입동(立冬)인 7일 전국에서 초겨울 추위가 나타날 전망이다. 서울은 2006년 이후 20년 만에 ‘영하권 입동’을 맞을 것으로 예상된다.&lt;br&gt;&lt;br&gt;6일 기상청에 따르면, 영하 30도의 찬 북서풍이 남하하며 주말인 7~8일 전국의 수은주가 크게 떨어질 것으로 예보됐다. &lt;br&gt;&lt;br&gt;‘얼음 공기’의 영향으로 6일도 전날인 5일 보다 최저기온은 5~8도, 최고기온은 3~10도가량 떨어지며 쌀쌀했다. 7일에는 아침 기온이 5~8도가량 더 떨어지며 이틀 새 10도 넘게 하락하는 지역이 속출할 전망이다.&lt;br&gt;&lt;br&gt;토요일인 7일 전국 아침 최저기온은 영하 5~영상 5도, 낮 기온은 8~14도로 예보됐다. 일요일인 8일에도 최저 영하 1~영상 6도, 최고 7~15도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;올해 입동은 이름값을 할 것으로 보인다. 작년 서울의 경우, 입동(11월 7일)에 최저기온은 8.3도, 최고기온은 19.9도까지 올라가며 포근했다.&lt;br&gt;&lt;br&gt;최근 10년(2016~2025년) 간 서울에선 입동에 최저기온이 10도를 넘긴 적이 2번(2018·2020년), 5~10도는 5번, 0~5도는 3번 있었다. 영하권으로 떨어진 적은 한 번도 없었다.&lt;br&gt;&lt;br&gt;서울의 마지막 ‘영하권 입동’은 2006년(11월 7일)으로, 당시 최저기온은 1.3도, 최고기온은 8.1도에 그치며 추웠다. 기상청이 절기별 기상 관측 통계를 내기 시작한 1996년 이후 가장 추웠던 입동도 이때다. 찬 바람의 강도에 따라 올해가 관측 이래 가장 추운 입동이 될 가능성도 있다.&lt;br&gt;&lt;br&gt;한편 8일에는 수도권과 강원·충청에 5㎜ 안팎의 비가 내리겠고, 강원산지에선 1㎝ 안팎의 눈이 예고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 서울 도심서 대규모 집회·마라톤 대회… 교통 혼잡 예상</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/06/2VAOQ3SDGBGDTO3ZKYUPDFH5II/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/2VAOQ3SDGBGDTO3ZKYUPDFH5II/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Nov 2026 01:10:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDNYGV2QZBOULLAAFJAA672NY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오전 서울 종로구 광화문 일대에서 마라톤 대회 개최로 도로가 통제되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 7일과 8일 서울 도심 곳곳에서 대규모 집회와 마라톤 대회 등 다중 운집 행사가 열려 교통 혼잡이 예상된다.&lt;br&gt;&lt;br&gt;6일 서울경찰청에 따르면, 민주노총은 7일 오후 1시부터 중구 서울고용노동청 인근에서 사전집회를 연 뒤 덕수궁 대한문까지 행진해 숭례문사거리~태평사거리 일대에서 1시간 가량 본 집회를 연다. 오후 4시부터는 세종대로·사직로를 거쳐 신교사거리까지 행진하고, 종로·남대문로를 통해 고용노동청까지 재차 행진한다.&lt;br&gt;&lt;br&gt;여의도에선 같은 날 오전 8시부터 외교부가 후원하는 ‘세이브 레이스 마라톤’이 열린다. 여의도공원에서 출발해 서강대교를 건너 광흥창역 사거리까지 갔다가 돌아오는 코스다. 오전 7시 50분부터 9시 15분까지 서강대교 북단~남단 차량 통행이 통제된다. 오후 2시부터는 여의대로 일대에서 한국노총이 집회를 연다.&lt;br&gt;&lt;br&gt;일요일인 8일 오전 7시 30분부터는 서울시가 후원하는 ‘자유 민주 마라톤’이 열린다. 서울광장을 출발해 흥인지문과 을지로를 거쳐 돌아오는 코스다. 해당 구간 차량 통행도 오전 7시부터 8시 35분까지 통제된다.&lt;br&gt;&lt;br&gt;경찰은 수도권 광역버스 등 대중교통 통행은 유지하고, 각 지역에 가변 차로를 운영하는 등 시민 불편을 최소화할 계획이다. 교통 경찰도 186명 투입한다. 경찰 관계자는 “가급적 지하철을 이용하고, 차량을 이용할 경우 교통 정보를 미리 확인해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 영등포 성매매 업소 관계자 47명 무더기 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/06/CRWIVGBXFRE2ZKUJVSC73HD4LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/CRWIVGBXFRE2ZKUJVSC73HD4LU/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Nov 2026 01:03:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47H6IFMCYGR7KMRTS642R4GKAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 1호선 영등포역 인근 성매매 업소들 모습. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울 지하철 1호선 영등포역 일대 성매매 업소 관계자와 건물주 등을 대거 검거해 공소청에 넘겼다. &lt;br&gt;&lt;br&gt;검찰 등에 따르면 서울 영등포경찰서는 최근 1년간 영등포역 일대 성매매 업소를 수사해 성매매처벌법 위반 등 혐의로 106명을 입건한 뒤, 지난달 말 이 가운데 47명을 서울남부공소청에 송치했다. &lt;br&gt;&lt;br&gt;성매매 업소 건물·토지주 16명과 포주 20명, 성 매수·매도자 등이 송치 대상인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이번 수사는 5년 전 영등포 성매매 업소 일대 건물주 50명을 집단 고발한 시민단체 다시함께상담센터가 지난해 재고발에 나서면서 시작됐다. 2021년 당시에는 일부 건물주들이 “내 건물이 아니다” 혹은 “성매매가 이뤄지는 곳이 내 건물인 줄 몰랐다”고 변명하며 처벌로 이어지지는 않았다. 하지만 센터는 지난해 등기부등본 등 추가 증거를 확보해 성매매 업소 일대 관계자 64명을 재고발했다. &lt;br&gt;&lt;br&gt;이에 경찰은 전담 수사팀을 꾸려 수사를 확대했고, 그 과정에서 고발 대상에 포함되지 않았던 피의자들도 추가적으로 확인했다. &lt;br&gt;&lt;br&gt;현재 성매매 장소로 쓰인 205억원 상당의 부동산에 대해서는 기소 전 몰수보전을 추진 중이다. &lt;br&gt;&lt;br&gt;한편 이 같은 경찰 수사가 진행되는 사이 성매매 업소 29곳 중 19곳은 자진 철거했다. 나머지 업소들도 사실상 영업은 중단한 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용인반도체고, 첫 신입생 모집에 경쟁률 4.8대 1 기록</title>
+      <link>https://www.chosun.com/national/education/2026/11/06/HOHGJOVDC5E3HLLP3S6TJUDFEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/06/HOHGJOVDC5E3HLLP3S6TJUDFEU/</guid>
+      <dc:creator>황규락 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Nov 2026 00:53:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYTSMBWGI3TQNDEMEYWCMZYGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인반도체고등학교가 첫 신입생 모집에서 지원자가 600명 넘게 몰리면서 4.8대 1의 경쟁률을 기록했다./경기교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 3월 문을 여는 경기 용인반도체고등학교가 첫 신입생 모집에서 지원자가 600명 넘게 몰리면서 4.8대1의 경쟁률을 기록했다.&lt;br&gt;&lt;br&gt;경기 용인교육지원청은 용인반도체고가 5일 2027학년도 신입생 원서 접수를 마감했다고 밝혔다. 128명 모집에 620명이 지원했다. 용인반도체고는 반도체제조과와 반도체장비과에서 각 64명씩 신입생을 받는다.&lt;br&gt;&lt;br&gt;용인반도체고는 학교를 세울 때부터 반도체 인력 양성을 목표로 삼았다. 이런 방식으로 설립된 반도체고는 전국에 한 곳뿐이다. 특성화고로 출발하지만 2028년 3월 마이스터고로 전환된다.&lt;br&gt;&lt;br&gt;학생들은 전기·전자·기계의 기초 원리를 익힌 뒤 반도체 전공 실무를 배운다. 반도체제조과에서는 재료와 제조 공정을 배우고, 반도체장비과에서는 장비가 어떻게 만들어지고 작동하는지와 유지·보수 방법을 배운다.&lt;br&gt;&lt;br&gt;첫 모집부터 지원자가 몰린 데는 반도체 산업의 성장세와 기술 인력 수요에 대한 기대가 높아지고 있는 영향이 크다. 삼성전자와 SK하이닉스 등 반도체 기업의 ‘억대 성과급’이 알려지며 이 기업들에 취업하려는 학생이 늘어난 영향도 있다. 앞서 서울반도체고는 64명 모집에 303명이 지원해 4.7대1을 기록했고, 대구반도체마이스터고는 2.58대1, 경북 경주 한국반도체마이스터고는 1.72대1의 경쟁률을 기록했다.&lt;br&gt;&lt;br&gt;용인반도체고는 6일 1차 전형 합격자를 발표하고, 9일 면접을 본 뒤 11일 최종 합격자를 발표한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아내가 운영하는 학원서... ‘여강사 성폭행’ 성범죄 전과 50대 입건</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/06/F3TPMGIAOBHVRKB7FDB4F72L6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/F3TPMGIAOBHVRKB7FDB4F72L6U/</guid>
+      <dc:creator>평택=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Nov 2026 00:53:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2TKYJYMIZDCNDEGRQWKOLFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성범죄 전력이 있는 50대 남성이 자신이 근무하는 학원의 여성 강사를 성폭행한 혐의로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 강간 및 강제추행 혐의로 A씨를 형사 입건해 조사하고 있다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 말부터 올해 초까지 자신이 근무하는 평택시 한 입시학원의 30대 여성 강사 B씨의 의사에 반해 성관계를 하거나 신체를 접촉한 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 학원의 대표는 A씨의 아내인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;지난 4월 B씨의 가족으로부터 고발장을 접수해 수사에 나선 경찰은 9월 A씨의 자택과 학원을 압수수색해 휴대전화 등을 확보했으며 디지털 포렌식 등을 통해 혐의를 확인 중이다.&lt;br&gt;&lt;br&gt;A씨는 과거 미성년자를 대상으로 성범죄를 저지른 적이 있었던 것으로 조사됐다. 그는 2016년과 2018년 미성년자 성추행 혐의로 처벌받았으며, 특히 2018년에는 징역 2년의 실형과 함께 아동·청소년 관련 기관에 대한 3년간 취업제한 명령을 선고받았다. 취업제한 기간은 2023년까지였다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 취업제한 기간 학원에서 근무했는지 여부 등 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인제 민통선 인근서 산불… 2시간 30분 만에 진화</title>
+      <link>https://www.chosun.com/national/regional/2026/11/06/5KQS7ORWDFGCBFPSCEA35QTMXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/06/5KQS7ORWDFGCBFPSCEA35QTMXY/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Nov 2026 23:52:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJS7OUBV7BHS7BDO3DTZJKJKDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 민통선 인근인 강원 인제군 서화면 가전리에서 발생한 산불을 소방 당국이  소방 헬기 등을 동원해 진화 하고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오전 6시 35분쯤 강원 인제군 서화면 가전리 민간인 출입 통제선(민통선) 인근에서 “군부대에서 산불이 났다”는 119 신고가 들어왔다.&lt;br&gt;&lt;br&gt;신고를 받은 산림 및 소방 당국 등은 진화 헬기 6대 등 장비 17대, 인력 25명을 투입해 진화 작업을 벌였다. 당국은 오전 9시 2분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 화재 원인과 피해 규모 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[굿모닝 멤버십] 닷컴 버블 뚫었던 손정의… ‘10조엔 베팅’ 통할까</title>
       <link>https://www.chosun.com/national/2026/11/06/V23R7QSM3NFCZOZ57BELIHT34M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/11/06/V23R7QSM3NFCZOZ57BELIHT34M/</guid>
@@ -773,69 +836,6 @@
       <description/>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOP27FG5YZHATDEUUPK5RPOV2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 인천 송도 연세대학교 국제캠퍼스에서 양자컴퓨터 가동식 행사에 참여한 내빈과 방문객들이 최신형 양자처리장치 프로세서로 교체한 IBM 양자컴퓨터를 바라보고 있다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“우와, 신기하다!”&lt;br&gt;&lt;br&gt;4일 낮 12시 인천 송도 연세대 국제캠퍼스 양자컴퓨팅센터. 유리벽 앞에 모여든 사람들 사이에서 탄성이 터져 나왔다. 가로·세로 각각 2.7m의 유리 공간 안에는 거대한 원통형 기계가 자리 잡고 있었다. 언뜻 보면 커다란 스테인리스 통 같지만, 미국 정보기술(IT) 기업 IBM이 개발한 양자컴퓨터 ‘퀀텀 시스템 원’이다. 2024년 11월 국내 최초로 도입된 이 컴퓨터는 이날 ‘두뇌’를 새것으로 바꿔 달았다. 양자컴퓨터의 핵심 칩을 교체한 것이다.&lt;br&gt;&lt;br&gt;연세대는 이날 ‘차세대 양자컴퓨팅 플랫폼 가동식’을 열고 IBM의 최신 양자 프로세서인 ‘나이트호크 R2’를 장착한 양자컴퓨터를 공식 가동했다. 양자 프로세서는 일반 컴퓨터의 중앙처리장치(CPU)처럼 계산을 담당하는 핵심 부품으로, 컴퓨터의 ‘두뇌’에 해당한다. 기존에 쓰던 ‘이글’이라는 프로세서를 IBM이 개발한 가장 빠른 양자 프로세서인 ‘나이트호크’로 교체했다. 미국 렌셀러폴리테크닉대(RPI)에 이어 세계 두 번째이자 미국 밖에서는 최초로 도입됐다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MO5IBFPTUBBIPFXFI4JC34T4K4.png"&gt;&lt;figcaption&gt;&lt;small&gt;양자 컴퓨터 vs 기존 컴퓨터 연산 방식 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양자컴퓨터는 일반 컴퓨터와 계산 방식부터 다르다. 일반 컴퓨터가 동전의 앞면과 뒷면처럼 정보를 0 또는 1로 처리한다면, 양자컴퓨터는 0과 1은 물론 두 상태가 동시에 존재할 수 있는 ‘중첩’까지 가능해 동전이 수직으로 선 상태까지 표현할 수 있다. 이로 인해 계산 능력이 기하급수적으로 빨라진다. &lt;br&gt;&lt;br&gt;이번에 도입된 나이트호크는 초당 10만회 이상 양자 계산 절차를 실행할 수 있다. IBM에 따르면 기존 ‘이글’보다 계산 작업 처리량이 25배 늘었다고 한다. 계산에 사용하는 큐비트 수는 기존 127개에서 120개로 오히려 줄었다. 비결은 큐비트 사이의 ‘길’을 넓힌 데 있다. 기존에는 멀리 떨어진 큐비트끼리 정보를 주고받으려면 여러 곳을 거쳐야 했지만, 새 프로세서는 큐비트들을 바둑판처럼 연결해 이동 경로를 줄였다. 도시의 도로망을 정비해 목적지까지 돌아가는 길을 줄인 것과 비슷한 원리다. 계산의 정확도를 유지하면서도 더 많은 작업을 처리할 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;제리 차우 IBM 양자중심슈퍼컴퓨팅 최고기술책임자(CTO)는 “나이트호크는 IBM이 개발한 가장 빠른 양자 프로세서”라며 “계산의 정확도를 유지하면서 처리 속도를 크게 높였다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYWWYSYN4VEJJEZIAK5ZCBE2TI.png"&gt;&lt;figcaption&gt;&lt;small&gt;4일 인천 송도 연세대 국제캠퍼스 양자컴퓨팅센터에 설치된 IBM 양자컴퓨터 ‘퀀텀 시스템 원’의 내부 모습. 연세대는 기존 127큐비트 ‘이글’ 프로세서를 최신 120큐비트 ‘나이트호크’로 교체했다. 컴퓨터 전체가 아닌 계산을 담당하는 핵심 반도체 칩을 바꾼 것으로, 연산 처리량이 기존보다 25배 높아졌다./IBM&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 새 양자컴퓨터를 활용하려는 대표적인 분야는 신약 개발이다. 새로운 약을 만들려면 먼저 질병의 원인이 되는 단백질을 찾고, 여기에 달라붙어 치료 효과를 낼 수 있는 물질을 찾아야 한다. 수많은 단백질과 화합물의 조합을 분석해야 하기 때문에 이 과정에만 수년이 걸린다. &lt;br&gt;&lt;br&gt;연세대는 양자컴퓨터와 인공지능(AI)을 결합해 신약 개발 기간을 줄이는 알고리즘을 개발하고 있다. 신약 개발 표적을 찾는 데 걸리는 시간을 기존 1~2년에서 5개월로, 화합물의 약물 적합성을 높이는 선도 물질 최적화 기간은 4년에서 2년으로 줄이는 것이 목표다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSVCQRVWURDHJIS43IUGUERPF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 인천 송도 연세대 국제캠퍼스에서 열린 ‘차세대 양자컴퓨팅 플랫폼 가동식’에서 참석자들이 양자컴퓨터 가동 현장을 지켜보고 있다. 연세대는 이날 기존 양자컴퓨터의 핵심 반도체 칩을 IBM의 최신 프로세서 ‘퀀텀 나이트호크’로 교체하고 공식 가동을 시작했다./이나윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대는 차세대 양자컴퓨터를 희귀 난치병인 ‘리 증후군’ 연구에도 활용할 계획이다. 리 증후군은 세포가 에너지를 만드는 과정에 문제가 생겨 뇌와 신경 등에 이상을 일으키는 질병이다. 연세대는 일본 이화학연구소의 수퍼컴퓨터 ‘후가쿠’와 양자컴퓨터를 연결해 질병의 원인을 연구할 예정이다. 기존 수퍼컴퓨터와 양자컴퓨터가 각자 잘하는 계산을 나눠 맡긴다고 한다. &lt;br&gt;&lt;br&gt;연세대는 2024년 양자 컴퓨터를 처음 도입한 이후 연간 약 2000명에게 양자 관련 교육을 진행했으며, 최근 1년 반 동안 물리·화학·금융·생물학 등 다양한 분야에서 양자 알고리즘을 활용한 연구 논문 100편 이상을 발표했다고 밝혔다.&lt;br&gt;&lt;br&gt;정재호 연세대 양자사업단장은 “지난 2년이 양자 컴퓨터를 도입하고 활용 방법을 익히는 ‘시즌 1’이었다면 이제는 실제 사회 문제를 해결하는 ‘시즌 2’로 넘어가는 것”이라며 “기후변화와 에너지 위기, 난치병 치료 등 인류가 직면한 난제를 해결하는 데 양자 컴퓨터가 중요한 도구가 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>간병비 건보 지원 사업 예산 절반 삭감 검토</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/11/05/R35LBLXRC5GF7NE4IFRUDZVF4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/05/R35LBLXRC5GF7NE4IFRUDZVF4Q/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>정부가 현재 비급여인 간병비에 건강보험 혜택을 주는 ‘간병비 급여화’ 사업비를 당초보다 절반 이상 대폭 삭감하는 방안을 검토 중인 것으로 4일 확인됐다. 정부는 요양병원의 불필요한 장기 입원 등을 막으면 사업비를 아낄 수 있다는 입장이지만, 요양병원들은&lt;b&gt; &lt;/b&gt;“절감을 명목으로 한 예산 삭감”이라며 반발하고 있다.&lt;b&gt; &lt;/b&gt;일각에선 대통령 공약이자 국정 과제인 간병비 급여화 사업의 동력이 꺼지는 모양새라는 관측이 나온다. &lt;br&gt;&lt;br&gt;4일 의료계에 따르면, 보건복지부는 최근 대한요양병원협회 수뇌부와 만나 간병비 급여화에 필요한 건강보험 재정을 2027~2030년 4년간 2조5417억~2조7971억원으로 추산한 자료를 제시했다. 정부는 올 상반기까지도 이 기간 간병비 급여화 사업에 총 6조5000억원이 투입된다고 밝혀왔다. 그러다 지난달 국정감사에서는 재정 투입액을 5조3700억원으로 줄였는데, 이번 추계는 이보다도 최대 2조8283억원(52.7%) 적다. 정부는 요양병원협회에 “불필요한 지출을 막으면 예산이 줄어도 간병비 지원사업을 충분히 운영할 수 있다”는 뜻을 전달했다고 한다. &lt;br&gt;&lt;br&gt;이를 위해 간병료 삭감 시점을 요양병원 입원 ‘180일 초과’에서 ‘120일 초과’로 앞당기는 방안을 검토 중이다. 경증 환자의 입원 진료비 본인 부담률을 높이는 방안도 논의 중이다. 하지만 정부는 이 밖에 어떤 항목을 얼마나 줄일지는 요양병원협회 측에도 공개하지 않았다고 한다. 한 협회 임원은 “재정 절감을 통해 재원을 마련하겠다는 전형적인 속임수”라고 했다. &lt;br&gt;&lt;br&gt;요양병원협회는 재정 투입 시기도 문제 삼고 있다. 정부 자료에 따르면 2027년 소요액은 1472억~1575억원에 불과하다. 반면 현 정부 임기가 끝나는 2030년에는 1조4499억~1조6126억원으로 급증한다. 4년간 쓸 돈의 약 58%가 마지막 해에 몰려 있다. 서울의 한 요양병원장은 “정책 추진력이 가장 약해지는 정권 말에 재정의 집중 투입이 가능할는지 의문”이라고 했다. 요양병원 관계자들은 “정부의 간병비 급여화 사업에 참여하기 위해 간병인을 직고용하고, 중증 환자 비율을 늘린 요양병원들이 재정적 피해만 볼 수 있다”고 했다. 실제 최근 대전 지역 요양병원 절반 이상이 이런 이유로 정부의 간병비 급여화 사업에 불참하겠다고 결의했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>나는야 꼬마 정원사</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/05/ADFPUUS3UNBBBM7NXO5J22JOKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/05/ADFPUUS3UNBBBM7NXO5J22JOKQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBDLK246WRGHXH5ZRUJ5ODPXLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 절기상 입동(11월 7일)을 사흘 앞두고 부산 북구 화명생태공원 튤립 단지에서 진행된 튤립 심기 행사에서 어린이들이 땅에 앉아 나뭇가지와 흙을 만지며 즐거워하고 있다. 주로 늦가을 또는 초겨울에 많이 심는 튤립은 이듬해 4~5월쯤 개화한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연세대, 성능 25배 높아진 차세대 양자컴 공개</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/05/LRWSQPRNX5AFXJUJBIM6VY2EOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/05/LRWSQPRNX5AFXJUJBIM6VY2EOE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CGPMBJQBRBKTHGROCDAA2UKII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 인천 연수구 연세대 국제캠퍼스 양자컴퓨팅센터에서 ‘차세대 양자컴퓨팅 플랫폼 가동식’이 열렸다. 참석자들이 양자컴퓨터를 살펴보고 있다. 연세대는 이날 미국 IBM의 차세대 양자 프로세서 ‘퀀텀 나이트호크’를 세계 최초로 도입해 양자컴퓨터의 계산 처리 능력을 기존보다 25배 높였다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>호주는 되팔이할 때 정가의 110%까지만</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/05/QNVRDEMWQ5FDLIRC54FIY6LUYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/05/QNVRDEMWQ5FDLIRC54FIY6LUYM/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>티켓 재판매, 암표상 단속에 머리를 싸매며 대응책을 찾는 건 해외도 비슷하다. 금지, 일부 제한, 자유 판매 등 다양한 대응 방식이 실행되고 있다. &lt;br&gt;&lt;br&gt;일본은 2019년부터 정가를 초과해 영리 목적으로 티켓을 재판매하는 걸 금지하는 법을 시행 중이다. 행사 주최자가 금지를 고지하고 입장객이나 좌석을 지정하는 등의 조건을 충족한 티켓이 대상이다. 최근에는 기술적으로 티켓 양도가 불가능한 스마트폰 인증을 활용하는 곳도 늘고 있다.&lt;br&gt;&lt;br&gt;개인 사정으로 재판매를 원할 경우엔 인증된 거래소에 정가로 티켓을 내놓으면 된다. 이후엔 거래소가 추첨, 선착순 등 방식으로 새로운 구매자를 찾는다. 다만 일본도 행사 주최자가 고지 요건을 지키지 않는 등 암표의 사각지대를 완전히 없애지는 못했다는 분석이다. &lt;br&gt;&lt;br&gt;호주에선 재판매 시 ‘110%’ 규정이 널리 적용된다. 빅토리아주는 프로 스포츠 결승전 등 주 지정 행사, 뉴사우스웨일스주는 주최자가 조건을 설정한 행사에 대해 티켓 재판매 시 정가의 110%를 초과할 수 없게 했다. 영국은 재판매 상한액을 정한 뒤 티켓 플랫폼에 상한 준수·감시 의무를 부여하는 법안을 추진 중이다. &lt;br&gt;&lt;br&gt;미국은 일반적인 티켓 재판매는 허용하고, 매크로(자동화) 기기를 활용해 티켓을 싹쓸이한 뒤 비싸게 파는 전문 암표상을 주로 제재한다. 펜실베이니아 등 일부 주(州)에 재판매 제한 조건이 있지만 실효성은 크지 않다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“인천공항, 보안 검색 노동자 직고용 의무 없다”</title>
-      <link>https://www.chosun.com/national/labor/2026/11/05/KZCGV5X4XFHKFOWHM4RDUDWENM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/11/05/KZCGV5X4XFHKFOWHM4RDUDWENM/</guid>
-      <dc:creator>김아사 기자, 이현준 기자_</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQH5APJZW5JC3NFSATDMHO6FDY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 3월 2일 민주노총 전국공공운수노조 인천공항지역부 관계자들이 2일 오후 인천국제공항 1터미널에서 기자회견을 갖고 법무부의 인천공항 출국대기실 노동자 전원 고용승계 및 공무직 전환을 촉구하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 ‘비정규직 제로(0) 정책’을 대표했던 인천국제공항공사(인국공)의 기존 고용 형태에 문제가 없었다는 법원 판단이 나왔다. 당시 정부는 고용 안정과 처우 개선 등을 명분으로 하청 노동자들을 공사가 직접 고용하는 정책을 추진했다. 그러나 법원은 공사의 원·하청 구조를 불법 파견이 아닌 정상적인 도급 관계로 판단했다. 하청 노동자들을 원청이 직접 고용하라는 요구가 산업계 곳곳으로 번지는 상황에서, 관련 정책의 상징이었던 인천공항공사의 직접 고용 의무를 법원이 부정한 것이다.&lt;br&gt;&lt;br&gt;4일 서울고법 인천원외재판부 민사3부(재판장 구자헌)는 인천공항 보안 검색 노동자 1201명이 인천공항공사를 상대로 제기한 근로자 지위 확인 소송에서 1심을 뒤집고 공사 승소 판결을 내렸다. 재판부는 “인천공항공사와 보안 검색 노동자들 사이에 근로자 파견 관계가 성립했다고 인정하기 부족하다”며 노동자들의 청구를 모두 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NS43BYHNVAHVIB5IRHJT4HKRI.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건의 발단은 문재인 정부가 추진한 비정규직 제로 정책에서 시작된 ‘인국공 사태’였다. 정부는 2017년부터 인천국제공항의 용역업체에서 일하던 1만명 가량을 공사와 자회사 2곳의 정규직으로 전환하는 정책을 추진했다. 그러나 공개 채용 절차 등 없이 비정규직 노동자들을 공사 정규직으로 전환하는 것이 공정하냐는 반발이 사회적으로 거세게 일었다. 결국 정부는 2020년 공사 직접 고용 계획을 철회하고, 인천국제공항보안 등 자회사 3곳을 만들어 1만명을 공사가 아닌 자회사 정규직으로 전환했다.&lt;br&gt;&lt;br&gt;하지만 공항 보안 검색 노동자 1201명은 공사가 자신들을 직접 고용하라는 내용의 소송을 2020년 3월 제기했다. 자회사를 만든 것과 별개로 자신들은 공사의 지휘·명령을 받는 불법 파견자였으니 이를 고쳐야 한다는 것이었다. &lt;br&gt;&lt;br&gt;소송의 쟁점은 불법 파견 여부였다. 노동자들은 “공사 업무와 용역 업체 업무가 구분되지 않고, 용역 업체는 노동자 투입이나 배치 등에 독자적인 결정 권한이 없다”며 불법 파견을 주장했다. 반면, 공사는 공항 보안 검색 업무의 특성상 법령에 따른 관리·감독이 불가피하며 이를 근로자 파견 관계로 볼 수 없다고 맞섰다. 지난 2024년 1심 재판부는 불법 파견이 맞다고 판단하며 공사가 이들을 직접 고용해야 한다는 판결을 내놨다. 재판부는 공사의 업무 지시와 관리·감독이 단순한 도급 계약상 권한을 넘어 실질적인 지휘·명령에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;그러나 이날 2심 재판부는 이를 뒤집었다. 재판부는 “보안 검색 감독을 통해 보안 검색 업무를 전반적으로 감독한 것은 항공보안법령 등에 따른 법률상 의무를 이행한 것”이라며 “노동자들의 업무에 관한 상당한 지휘·명령을 하였다고 인정하기 어렵다”고 했다. 재판부는 그러면서 “보안 검색 요원들의 업무 수행을 현장에서 직접 지휘·감독한 주체는 공사 소속이 아니라 용역 업체 소속 관계자들”이라고 했다.&lt;br&gt;&lt;br&gt;대법원 판단이 남아있지만 이날 승소로 공사는 일단 자회사 인원들의 대규모 직고용 요구에서 벗어날 것으로 전망된다. 공사는 자회사 3개를 만들어 1만명을 고용했는데, 2심까지 패소할 경우 1만명 직고용 요구가 본격화할 것이란 관측이 많았다. 직고용 인원이 늘어나면 그만큼 인건비 부담이 늘어난다.&lt;br&gt;&lt;br&gt;공사가 택한 자회사 체제에도 힘이 실리게 됐다. 그동안 노동계는 자회사 고용이 실질적 직접 고용이 아닌 ‘꼼수’라며 비판해 왔다. 특히 1심 재판부가 “노동자들이 자회사 소속으로 변경됐다 하더라도, 직접 고용 의무는 사라지지 않는다”고 밝혀 이런 비판에 힘이 더 실렸다. 그러나 2심 재판부가 보안 검색 업무를 전문 업체에 위탁하는 게 문제가 없다고 밝힌데다, 공사의 관리·감독이 불법 파견을 의미하지 않는다고 판단하면서 자회사를 통한 도급 관계의 적법성도 강화됐다는 평가가 나온다. 인천공항공사 측은 “이번 판결은 공사가 보안 전문 업체(자회사)에 위탁 운영하는 것에 대한 정당성이 인정된 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국시리즈 테이블석 390만원? 두달간 암표 신고만 1720억</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/05/ALWFPGXM3BBYFAQBGDUFDV5NO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/05/ALWFPGXM3BBYFAQBGDUFDV5NO4/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5IY6QG7LRDY5EZ5SXBRL4T6DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 서울 송파구 올림픽회관 내 ‘스포츠 온라인 암표 신고 센터’ 담당 직원이 390만원짜리 프로야구 한국시리즈 1차전 암표 신고가 접수된 것을 확인한 뒤 후속 대처를 하고 있다. ‘암표 방지법’ 시행으로 센터가 본격 가동된 8월 28일부터 이날까지 총 18만9781건의 암표 신고가 접수됐다./ 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“지금 하나 떴습니다. 테이블석 세 자리에 390만원이라네요.”&lt;br&gt;&lt;br&gt;지난 3일 오후 서울 송파구 올림픽회관 내 ‘스포츠 온라인 암표 신고 센터’에 암표 신고가 접수됐다. 이날 저녁 6시 30분 수원에서 열리는 KT와 삼성의 프로야구 한국시리즈 1차전 테이블석 티켓이었다. 이 자리는 세 자리가 붙어 있는 1세트가 42만원인데, 판매자는 티켓 양도 플랫폼 ‘티켓베이’에 9배 이상 비싼 390만원에 내놨다.&lt;br&gt;&lt;br&gt;센터를 운영하는 국민체육진흥공단 부정거래대응팀 직원들은 즉각 해당 플랫폼에 연락해 해당 게시물이 이용자들에게 노출되지 않도록 처리했다. 이어 신고 내용을 분석한 뒤 판매자의 신상을 알아내고, 상습적인 암표 판매상인지 등을 따져 경찰 수사 의뢰 여부를 논의하기로 했다. &lt;br&gt;&lt;br&gt;‘암표 방지법’으로 통하는 개정 국민체육진흥법이 시행되면서 스포츠 경기 암표 단속 풍경이 완전히 달라졌다. 새로운 신고 센터가 본격 가동된 8월 28일부터 3일 오후 5시까지 68일간 이들이 접수한 암표 신고 건수는 18만9781건(중복 신고 포함)으로, 하루 평균 2800건에 육박한다. 이 기간 암표 판매상이 판매가로 제시한 금액의 합은 1724억2700만원에 달한다. 하루 평균 25억원 이상이다. 센터 측은 “수만건 규모의 자체 모니터링 건수는 포함하지 않은 게 이 정도”라고 혀를 내둘렀다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKVROWHO4ZEWNHIXIKTNY6KTY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암표 신고는 대부분 프로야구 티켓이 대상이다. 전체의 99.2%에 달하는 18만8242건이 KBO리그 티켓으로 집계됐다. 올해 프로야구가 역대 최다 관중 기록을 세울 정도로 인기를 끌면서 티켓 구매가 쉽지 않은 탓이다. 프로야구를 뺀 축구·농구·야구 등 나머지 종목 암표 신고는 1539건이었다. &lt;br&gt;&lt;br&gt;프로야구 포스트시즌이 시작되면서 암표상은 더욱 기승을 부리는 모양새다. LG-두산의 와일드카드 게임 예매일인 10월 13일부터 3일 오후까지 약 3주간 접수된 신고만 8만2725건으로, 하루 평균 3760건이었다. &lt;br&gt;&lt;br&gt;가장 많은 신고가 접수된 날은 LG와 KIA의 잠실 준플레이오프 3·4차전 예매가 시작된 10월 16일이었다. 이날 하루에만 암표 신고 1만128건이 접수됐다. 신고 센터 김상욱 대리는 “포스트시즌 들어 티켓 수요가 과열되면서 한 장에 100만원, 300만원 하는 황당한 암표 판매가 포착되는 경우가 적지 않은데 그걸 또 실제로 구매하는 사람이 있어 더 놀랄 때가 있다”며 “암표 근절 차원에서 이런 표를 사주는 일부 극성 팬들의 행동이 아쉽기도 하다”고 말했다.&lt;br&gt;&lt;br&gt;암표 신고가 가장 많은 플랫폼은 티켓 재판매 사이트 티켓베이로 전체 88%인 16만6903건이었다. 이어 중고나라가 1만6575건, 당근마켓이 3577건, 번개장터가 2464건이었고, 스레드 등 소셜미디어도 262건이 있었다. &lt;br&gt;&lt;br&gt;새로 시행된 암표방지법은 매크로(자동화) 시스템을 활용하는 전문 암표 판매상뿐 아니라 일반 암표 판매상까지 처벌할 수 있는 게 핵심이다. 암표를 팔면 1년 이하 징역 또는 1000만원 이하 벌금에 처해질 수 있고, 별도로 판매 제시금의 최대 50배까지 과징금을 물 수 있다. 이득을 몰수·추징당하는 건 별도다. 신고자는 향후 행정 절차에 따라 과징금의 최대 50%, 5000만원 한도로 포상금을 받을 수 있다. &lt;br&gt;&lt;br&gt;암표 판매상은 실제 거래가 불발됐더라도 암표를 팔겠다고 한 행위 자체로 처벌 대상이 될 수 있다. 다만 영리 목적을 띠는지, 상습적인지 여부를 가려야 하는데 아직 새로운 법 시행 초기 단계라 기준이 모호한 게 아쉽다고 신고센터 직원들은 이야기한다. 혼자서 68장, 총 5100만원어치 표를 판다고 게시물을 올린 판매자 등 암표 의도가 명백한 사례는 이미 수사 의뢰돼 경찰에 넘어갔다. 센터가 두 차례에 걸쳐 넘긴 155명을 경찰이 수사 중이고, 이달 초까지 울산과 부산에서 암표상 2명이 검거됐다. 센터 측은 한국시리즈 중간인 이번 주말과 이달 말에 각각 한 번씩 더 경찰에 암표상 정보를 넘길 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 류희수 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/11/05/H3QS4YQYDZCA5PHLXR6MP43Z4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/05/H3QS4YQYDZCA5PHLXR6MP43Z4E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Nov 2026 15:39:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;류희수&lt;/b&gt; 별세, &lt;b&gt;김고연&lt;/b&gt; 남편상, &lt;b&gt;류정화&lt;/b&gt; 김앤장법률사무소 부장·&lt;b&gt;류성하&lt;/b&gt; 네이버 클라우드 근무·&lt;b&gt;류청&lt;/b&gt; 에이텍 팀장 부친상, &lt;b&gt;김영식&lt;/b&gt; 동아일보 인촌기념회 사무국장 장인상, &lt;b&gt;김송빈&lt;/b&gt;·&lt;b&gt;고희경&lt;/b&gt; 평화스포츠 대표 시부상=3일4시30분 신촌세브란스병원, 발인 5일6시40분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박은규&lt;/b&gt; 별세, &lt;b&gt;박주성&lt;/b&gt; 기호일보 정치부 부국장 부친상=4일2시55분 인천적십자병원, 발인 6일8시, (070)4186-6770&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오동일&lt;/b&gt; 별세, &lt;b&gt;홍미향&lt;/b&gt; 남편상, &lt;b&gt;오상민&lt;/b&gt; 부산일보 사회2부 기자·&lt;b&gt;오혜진&lt;/b&gt; 부친상=4일9시 울산 동강병원, 발인 6일7시, (052)241-1440&lt;br&gt;&lt;br&gt;&lt;b&gt;▲이규억&lt;/b&gt; 前 산업연구원 원장 별세, &lt;b&gt;이정희&lt;/b&gt; 남편상, &lt;b&gt;이현정&lt;/b&gt;·&lt;b&gt;이승호&lt;/b&gt;·&lt;b&gt;이진호&lt;/b&gt; 부친상, &lt;b&gt;정창운&lt;/b&gt; 산업은행 여신감리전문위원 장인상, &lt;b&gt;김미현&lt;/b&gt; 시부상=4일8시 분당서울대병원, 발인 6일7시, (031)787-1506&lt;br&gt;&lt;br&gt;&lt;b&gt;▲천영희&lt;/b&gt; 별세, &lt;b&gt;마해근&lt;/b&gt; 서울교통공사 영업본부장·&lt;b&gt;마완근&lt;/b&gt; 금곡고 교사 모친상, &lt;b&gt;이경희&lt;/b&gt;·&lt;b&gt;임진&lt;/b&gt; 시모상=4일1시30분 경기 구리 원진녹색병원, 발인 6일5시10분, (031)552-5119 &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이광호 ‘올해의 출판인’ 본상</title>
