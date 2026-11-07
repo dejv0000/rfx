@@ -13,6 +13,133 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>단양 만천하스카이워크 짚와이어 운행 중 멈춰…여성 승객 30분간 공중에 매달려</title>
+      <link>https://www.chosun.com/national/incident/2026/11/07/B7RNN54JQZA35DR2JGO2QGX4YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/07/B7RNN54JQZA35DR2JGO2QGX4YI/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 08:29:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFYOS2232DQ4YYLLJZGXTGRU4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 단양 만천하스카이워크 짚와이어 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 단양군의 관광 시설인 만천하스카이워크에서 짚와이어가 운행 도중 멈춰 서면서 여성 승객이 약 30분간 공중에 매달려 있는 사고가 발생했다.&lt;br&gt;&lt;br&gt;7일 단양관광공사와 소방 당국에 따르면, 이날 오후 3시 20분쯤 단양군 만천하스카이워크에서 여성 승객 1명이 탑승한 짚와이어가 공중에서 갑자기 멈췄다.&lt;br&gt;&lt;br&gt;이 승객은 약 30분 동안 공중에 매달려 있다가 짚와이어 운영 업체 관계자에게 구조된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;만천하스카이워크 짚와이어는 전체 길이가 980m다. 남한강 수면으로부터 120m 높이의 상공에서 시속 50㎞를 넘나드는 속도로 활강하는 시설이다. 사고 당시 승객은 약 30~40m 지점에서 멈춰 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;시설 운영 주체인 단양관광공사는 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘세브란스 흉기 피습’ 50대 女 구속 심사...“정신과에서 내과 치료 안 해줘”</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/07/AYYIGIHDCZFKDEAK2BF5ZCPRAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/AYYIGIHDCZFKDEAK2BF5ZCPRAM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 07:58:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTIMTDG5QTMNJZMI3TIZRVGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신촌 세브란스병원에서 정신건강의학과 의사에게 흉기를 휘두른 50대 여성이 7일 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 신촌 세브란스 병원에서 흉기를 휘둘러 정신과 교수를 다치게 한 50대 여성이 구속 심사에 출석했다.&lt;br&gt;&lt;br&gt;서울서부지법은 살인미수 혐의를 받는 50대 여성 A씨에 대해 7일 오후 3시부터 구속 전 피의자 심문(영장실질심사)을 진행했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 신촌 세브란스 병원 5층 진료실에서 칼을 휘둘러 정신건강의학과 의사의 얼굴, 손 등을 다치게 한 혐의를 받는다. 피해 교수는 약 5㎝ 길이 상처를 입었으나 생명에는 지장이 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이날 오후 2시 13분쯤 법원에 들어선 A씨는 ‘왜 의사에게 흉기를 휘둘렀느냐’는 질문에 “2018년에 연세대 정신과에서 내과 치료를 안 해주고 당뇨를 만들었다”고 횡설수설하며 답했다.&lt;br&gt;&lt;br&gt;이어 “연세대가 범죄자로 만들었다” “인생 끝나게 만들고 가정 파탄 나게 만들고 마루타로 만들었다”고 소리 질렀다.&lt;br&gt;&lt;br&gt;‘피해자에게 미안한 마음은 없느냐’는 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 집에서 사용하던 부엌칼을 쇼핑백에 넣어왔다고 진술했다. 이에 경찰은 범행 당시 살인의 고의가 있었다고 보고 체포 당시 적용한 특수상해 혐의 대신 살인미수 혐의를 적용해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “다른 병원에 가려고 했으나 세브란스 병원 의사가 다른 병원과 짜고 (다른 병원으로) 진료받으러 가는 것을 막아 화가 났다“는 취지로 진술한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>첫날 라면 2만2000그릇 팔렸다… 구미라면축제 올해도 흥행</title>
+      <link>https://www.chosun.com/national/regional/2026/11/07/W65WKD4KOBH2NB2U5IU2T55ZP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/07/W65WKD4KOBH2NB2U5IU2T55ZP4/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 04:40:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNSNKHCSRFN5XL3SG6MSAHQZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 경북 구미역 일원에서 개막한 2026 구미라면축제장을 찾은 배우 정준호(왼쪽)가 김장호 구미시장과 라면을 들고 파이팅을 외치고 있다. 올해 축제는 오는 8일까지 열린다./구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미시의 대표 축제로 자리 잡은 ’2026 구미라면축제’가 개막 첫날부터 지난해보다 많은 라면을 판매하며 흥행을 이어가고 있다. 갓 튀긴 라면을 사려는 관광객들이 하루 종일 긴 줄을 서는 등 축제장에 인파가 몰렸다.&lt;br&gt;&lt;br&gt;7일 구미시에 따르면 전날 개막한 구미라면축제에서 판매된 별미라면은 모두 2만2231그릇으로 집계됐다. 지난해 축제 첫날 판매량인 1만5140그릇보다 7091그릇(약 47%) 증가했다. 첫날 매출액도 1억7700만원으로 지난해 1억2400만원보다 5300만원(약 43%) 늘었다.&lt;br&gt;&lt;br&gt;특히 구미 농심 공장에서 갓 튀겨낸 라면이 큰 인기를 끌었다. 축제 첫날 갓 튀긴 라면을 구입하려는 관광객들의 대기 행렬이 하루 종일 500m에 달했다. 정확한 판매량은 아직 집계되지 않았지만, 구미시는 지난해 축제 기간 판매량인 48만개를 넘어설 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZULLSLXKVNQZI6KRZASSJ2FOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 경북 구미시 구미역 일원에서 2026 구미라면축제가 열린 가운데 축제장에 인파가 몰려 있다. 올해 축제는 오는 8일까지 DJ 공연과 맥주를 즐길 수 있는 바이브펍, 라면을 테마로 한 공방 Ra-뜰리에 등 12개 테마로 꾸며진 행사장에서 갓 튀긴 라면과 송이능이 산중라면·너구리야끼 등 33가지 이색 라면을 맛볼 수 있다./구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해로 5회째를 맞은 구미라면축제는 지난 6일 구미역 일대에서 개막해 8일까지 사흘간 열린다. 세계 13개국 참가자들이 자신만의 라면 조리법을 선보이는 ‘글로벌 라면 챌린지’를 비롯해 다양한 라면 요리를 맛볼 수 있는 ‘라면 레스토랑’ 등이 운영되고 있다.&lt;br&gt;&lt;br&gt;올해는 축제에서만 맛볼 수 있는 특별한 라면도 선보였다. 농심 구미공장은 구미에서 생산한 밀을 사용한 ‘구미라면축제면’ 20만봉을 한정 생산했다. 소고기장국 맛 국물에 표고버섯과 당근, 청경채 등을 넣은 제품이다.&lt;br&gt;&lt;br&gt;구미라면축제는 지역의 대표 산업을 관광 자원으로 활용해 성공한 사례로 꼽힌다. 구미시는 구미1국가산업단지에 있는 농심 공장에서 전국 신라면 생산량의 약 75%를 생산한다는 점에 착안해 2022년 전국 최초로 라면축제를 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4DILNB7NJN43MXM32YJCIVQIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026 구미라면축제 포스터./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방문객은 첫해인 2022년 1만명에서 2024년 17만명으로 늘었고, 지난해에는 35만명이 다녀갔다. 인구 약 40만명인 구미시에 사흘 동안 시 인구에 육박하는 관광객이 몰린 것이다.&lt;br&gt;&lt;br&gt;올해도 첫날부터 라면 판매량과 매출이 지난해를 크게 웃돌면서 흥행 기대감이 높아지고 있다. 구미시는 축제 마지막 날인 8일까지 방문객이 얼마나 늘어날지 주목하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F4XQEOR5YZPBFFT2USDT7NORJ4.jpg?auth=5909e1f274caa4f9ea62b729ab537eaaafde6bdea6ffda508ec69050ae81afba&amp;smart=true&amp;width=2772&amp;height=1631" type="image/jpeg" height="1631" width="2772">
+        <media:description type="plain">[구미=뉴시스]박홍식 기자 = 6일 경북 구미역 일원에서 개막한 '2026 구미라면축제'에 많은 인파가 몰려 인산인해를 이루고 있다. 올해 축제는 오는 8일까지 열린다. (사진=구미시 제공) 2026.11.07 photo@newsis.com
+ *재판매 및 DB 금지</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세] 11월 8일 일요일 (음력 9월 29일 丙戌)</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/07/SMD52MWWOJC47KSJT2M6EX5QFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/SMD52MWWOJC47KSJT2M6EX5QFA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘은평 옛 연인 살해’ 60대 男 구속 심사</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/07/LZ75HKRO2NEFVJP3PZ5LY4RQFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/LZ75HKRO2NEFVJP3PZ5LY4RQFE/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 07:35:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R67AIGLMMVOVJHGMY3CA2FGKHM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 최지환 기자 = 서울 은평구에서 전 연인이던 70대 여성을 살해한 60대 남성 A 씨가 7일 오후 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.11.7/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구에서 옛 연인을 살해한 혐의를 받는 60대 남성이 7일 구속 심사를 받았다.&lt;br&gt;&lt;br&gt;서울서부지법은 이날 오후 3시부터 살인 혐의를 받는 60대 남성 길모씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행했다.&lt;br&gt;&lt;br&gt;길씨는 지난 5일 서울 은평구 불광동에 있는 자택에서 옛 연인이던 70대 여성 A씨를 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;길씨는 이날 오후 2시 30분쯤 영장실질심사를 받기 위해 법원에 출석했다. 길씨는 ‘전 연인을 왜 살해했느냐’ ‘피해자를 집에 오라고 협박했느냐’ ‘전자발찌를 풀 때까지 기다린 것이냐’ 등 질문에 아무런 답변을 하지 않았다.&lt;br&gt;&lt;br&gt;길씨는 경찰 조사에서 “대화 중 시비가 붙어 화가 나 살해했다”며 혐의를 인정했다. 이어 “범행 후 수면제를 복용했다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;사건 당일 A씨 옆에서 의식 불명 상태로 발견된 길씨는 병원에서 치료를 받다 상태가 호전돼 6일 오전 퇴원했다. &lt;br&gt;&lt;br&gt;길씨가 퇴원하자마자 경찰은 길씨에 대해 첫 조사를 진행했다.&lt;br&gt;&lt;br&gt;앞서 피해 여성 A씨는 과거에도 경찰에 4차례 길씨를 신고했다. 길씨는 스토킹처벌법 위반 등 혐의로 지난 9월 이미 두 차례 송치되기도 했다.&lt;br&gt;&lt;br&gt;지난 7월 서울 마포경찰서는 A씨 집을 찾아가 목을 조른 혐의로 길씨를 긴급 체포했다. 이어 스토킹처벌법 위반, 폭행, 절도 등의 혐의로 길씨에 대해 구속영장을 신청했지만 검찰 단계에서 영장이 기각됐다. &lt;br&gt;&lt;br&gt;검찰은 폐암 4기인 길씨가 암 수술을 받은 지 얼마 지나지 않아 건강 상태가 좋지 않았던 점, 길씨가 혐의를 강하게 부인한 점, 일부 범죄 사실에 대해 보완 수사가 필요한 점 등을 참작해 영장을 청구하지 않았다.&lt;br&gt;&lt;br&gt;이후 경찰은 길씨에 대해 구치소 유치와 위치추적 전자장치 부착 등 잠정 조치를 신청했다. 길씨는 지난 7월 23일부터 8월 22일까지 한 달간 구치소에 유치됐다. 석방된 뒤 길씨는 지난달 22일까지 두 달간 전자발찌를 부착했다. 사건 발생 2주 전까지만 하더라도 전자발찌를 부착했던 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출산 당일 ‘아기 옷’ 검색…‘모텔 신생아 사망’ 친모 2심서 감형</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/07/HCL5IYQSH5A5NPFLF4VNOUI3TY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/07/HCL5IYQSH5A5NPFLF4VNOUI3TY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 06:01:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE3GMMZQGE4DGNRZMUYGEMBRG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울고법 청사 앞/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모텔에서 홀로 아이를 낳고 방치해 숨지게 한 혐의로 기소된 20대 산모가 항소심에서 ‘살인’ 혐의를 벗고 감형됐다. 아이를 살해하려는 고의가 있었다고 본 1심 판단이 항소심에서 바뀐 것이다.&lt;br&gt;&lt;br&gt;서울고법 형사15-2부(재판장 이희준)는 지난달 30일 아동학대살해 혐의로 기소된 산모 A씨에게 징역 6년을 선고한 1심을 깨고 아동학대치사죄를 적용해 징역 3년을 선고했다. 또 40시간의 아동학대 치료프로그램 이수와 10년간 아동관련기관 취업제한도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 경기 의정부의 한 모텔 화장실에서 딸을 출산한 뒤, 물이 찬 세면대에 약 12분간 방치해 숨지게 한 혐의로 기소됐다. 수사·재판 결과를 종합하면, A씨는 임신 사실을 안 뒤 아기의 친부와 임신중절 수술을 하려고 했으나 비용과 일정 문제 등으로 수술을 받지 못했다. 이후 A씨는 친부가 소개해준 의사를 자칭하는 사람과 연락을 주고받았고, 사건 당일 모텔에 들어가 그를 기다리다가 홀로 출산했다. 모텔 업주의 신고를 받고 출동한 구급대원이 발견했을 때 아기는 탯줄과 태반이 연결된 채 코와 입이 물에 잠겨 있었다. 심정지 상태로 병원에 옮겨진 아기는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;앞서 지난 6월 1심은 A씨가 아기가 숨질 수 있다는 사실을 알면서도 방치했다고 판단했다. 갓 태어난 아기를 물이 찬 세면대에 두면 위험하다는 것은 누구나 알 수 있고, A씨가 아기의 사망 소식을 듣고도 크게 놀라지 않았다는 점이 근거가 됐다.&lt;br&gt;&lt;br&gt;그러나 2심은 A씨가 아기가 죽을 수 있다는 것을 예상할 수 있었더라도 ‘죽어도 어쩔 수 없다’고까지 생각했다고 보긴 어렵다고 판단했다. 2심 재판부는 우선 A씨가 출산 전 아기를 키울 방법을 알아본 정황에 주목했다. A씨는 출산 당일 아기 이름과 출생증명서 양식, 분유 포트와 아기 옷 등을 검색했다. A씨 동거인도 재판에 나와 ‘친부가 키울 생각이 없어 A씨가 혼자 낳아 기를 거라고 했다’고 증언했다. 재판부는 “임신을 유지할지 갈등하거나 출산·양육의 부담을 피하려 했다는 것이 곧 아기의 죽음을 용인했다는 뜻은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;재판부는 당시 24세의 초산모였던 A씨가 의료진이나 보호자 없이 짧은 시간에 출산했고, 이후 상당한 출혈을 겪은 상황에서 판단력이 떨어졌을 수 있다고 봤다. A씨는 출산 후 몸도 추스르지 못한 상태에서 모텔 직원과 업주에게 퇴실하지 않은 이유와 혈흔 등에 관해 추궁을 받았다. 2심은 “A씨는 이 과정에서 신체적·정신적 혼란을 겪었고, 아기의 상태를 확인하거나 필요한 조치를 해야 한다는 생각까지 미치지 못했을 가능성이 엿보인다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 출산 직후 아기 엉덩이를 톡톡 쳐서 스스로 숨을 쉬게 했고, 흐르는 물로 씻긴 뒤 수건으로 감쌌다고 진술한 점도 고려됐다. 아기를 살리려고 했던 이런 행동들은 살인 의도와는 앞뒤가 맞지 않는다는 것이다. 2심 재판부는 또 “아기 머리를 세면대 가장자리에 기대 놓았다가 미끄러져 물에 잠겼을 가능성도 있다”고 봤다.&lt;br&gt;&lt;br&gt;다만 재판부는 A씨가 아기를 방치해 숨지게 한 책임은 분명하다고 지적했다. 재판부는 “아기는 보호자가 가장 필요한 순간 아무런 보호를 받지 못했고, 이름조차 얻지 못한 채 짧은 생을 마쳤다”며 “그에 상응하는 처벌이 필요하다”고 했다. 다만 A씨가 가족과 아기의 친부에게 충분한 도움을 받지 못한 채 홀로 출산했고, 자신의 잘못으로 아기가 숨진 사실을 인정하며 반성하는 점 등을 형량에 고려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘 밤 부산 광안리서 불꽃축제… 100만 인파에 안전요원 7000명 투입</title>
+      <link>https://www.chosun.com/national/regional/2026/11/07/6PYYMYSQRBGXVKG2P2WXIWLAOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/07/6PYYMYSQRBGXVKG2P2WXIWLAOM/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 06:50:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DQN3BMY3TAMRSGA2WIOBTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산불꽃축제./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 가을 밤하늘을 화려하게 수놓을 ‘제21회 부산불꽃축제’가 7일 오후 7시부터 한 시간 동안 광안리해수욕장과 이기대, 동백섬 일원에서 열린다. 부산시는 올해 축제에 100만명 이상의 관람객이 몰릴 것으로 예상하고 역대 최대 규모인 7000여 명의 안전관리 인력을 투입했다.&lt;br&gt;&lt;br&gt;부산광역시에 따르면 올해 불꽃축제는 오후 7시 해외 초청 불꽃쇼로 시작한다. 중국 초청팀이 15분간 공연을 펼친 뒤 오후 7시 25분부터 30분간 부산멀티불꽃쇼가 이어진다. 광안대교를 배경으로 초대형 불꽃과 나이아가라 불꽃, 웨이브 불꽃 등 다양한 연출을 선보인다. 마지막 5분간의 커튼콜 불꽃쇼를 끝으로 막을 내린다.&lt;br&gt;&lt;br&gt;관람 장소는 광안리해수욕장을 비롯해 이기대와 동백섬 일원이다. 공식 유료 관람석은 테이블과 의자가 마련된 R석 10만원, 의자만 제공되는 S석 7만원이다. 올해 처음으로 부산 시민에게는 10% 할인 혜택을 제공했다. 유료 관람석 판매 수익금은 불꽃 연출과 관람객 편의·안전 시설 확충 등에 재투자할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRWIMLFGQYDIYTCMU2GKYTFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'제21회 부산불꽃축제'가 열리는 7일 오후 1시쯤 부산 수영구 광안리해수욕장 백사장이 일찌감치 돗자리를 펴고 자리를 잡은 관람객들로 빼곡하다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 대규모 인파에 대비해 안전 관리를 강화한다. 광안리해수욕장과 주변 관람 구역에 안전 관리·질서 유지 인력 7000여 명을 배치한다. 이 가운데 부산시 공무원은 1921명이다.&lt;br&gt;&lt;br&gt;행사장 곳곳에 설치한 방범 카메라(CCTV)를 통해 인파 밀집 상황을 실시간으로 확인하고, 광안리해수욕장과 금련산, 수변공원, 용호별빛공원, 이기대 어울마당, 동백섬 등 주요 관람 구역의 이동 동선을 관리한다.&lt;br&gt;&lt;br&gt;특히 광안리해수욕장 백사장과 해변로에는 인파가 몰리는 정도에 따라 출입 인원을 제한하는 조치를 시행한다. 행사장 주변 도로와 광안대교에도 단계별 교통 통제가 이뤄진다. 부산시는 관람객들의 원활한 이동을 위해 도시철도 운행을 212회 증편할 계획이다.&lt;br&gt;&lt;br&gt;부산불꽃축제는 2005년 아시아태평양경제협력체(APEC) 정상회의 부산 개최를 기념해 시작됐다. 광안대교와 부산 앞바다를 배경으로 펼쳐지는 대규모 불꽃 연출을 앞세워 매년 100만명 안팎이 찾는 부산의 대표적인 관광 축제로 자리 잡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구도시철도 3호선 차량 고장으로 운행 지연… 36분 만에 정상화</title>
+      <link>https://www.chosun.com/national/incident/2026/11/07/TME3R72MYBG57LPUSS2SZAVYAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/07/TME3R72MYBG57LPUSS2SZAVYAI/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 06:33:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRTSY3EGZSDONLBGNSTOYZZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구도시철도 3호선./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후 대구도시철도 3호선에서 차량 고장이 발생해 전 구간 열차 운행이 지연됐다가 약 36분 만에 정상화됐다.&lt;br&gt;&lt;br&gt;대구교통공사에 따르면 이날 오후 2시 24분쯤 도시철도 3호선 지산역과 범물역 사이에서 차량 고장이 발생했다. 이로 인해 3호선 전 구간에서 열차 운행이 지연되면서 이용객들이 불편을 겪었다.&lt;br&gt;&lt;br&gt;대구교통공사는 차량 고장 직후 재난문자를 발송해 열차 운행 지연 사실을 알리고 시민들에게 주의를 당부했다.&lt;br&gt;&lt;br&gt;이후 복구 작업을 거쳐 오후 3시쯤 전 구간 열차 운행이 정상화됐다. 정확한 차량 고장 원인은 아직 확인되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>49년간 장애인 등 이웃 돌본 양미애씨, 국민훈장 동백장</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/11/06/XC4ULEKRSVBYDLC6L7Y3PK3NG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/06/XC4ULEKRSVBYDLC6L7Y3PK3NG4/</guid>
+      <dc:creator>김지원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Nov 2026 15:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2TMYRUMIZTIYLEMVRWGYRWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민훈장 동백장을 수상한 양미애씨/보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;49년간 장애인 등 이웃을 위한 자원봉사에 헌신해 온 양미애(85)씨가 5일 국민훈장 동백장을 받았다. &lt;br&gt;&lt;br&gt;보건복지부는 이날 KBS·사회복지공동모금회와 공동으로 ‘2026년 제15회 대한민국 나눔국민대상’ 시상식을 열고 양씨를 포함해 자원봉사·기부·멘토링 등 분야에서 나눔을 실천한 개인과 기관 132명을 포상했다. &lt;br&gt;&lt;br&gt;양씨는 경남 진해장애인복지관 자원봉사자로 활동하며 중증 장애인을 위한 작업 보조와 급식 배식, 장애인식 개선 활동 등을 꾸준히 이어온 공로를 인정받았다. 1977년부터 지역 사회 봉사에 참여해온 그는 장애인 분야에서만 20년간 총 6553시간 봉사했다.&lt;br&gt;&lt;br&gt;국민포장은 70억원의 사재를 출연해 재단을 세우고, 사후 보험금 10억원을 사회에 환원하기로 유산 기부를 약정하는 등 누적 100억원을 기부한 박종옥(64) 서원콤프레샤 대표 등 4명이 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GE2TMYRUMIZTIYLEMVRWGYRWHA.jpg?auth=9c9be6840e9c8afd2d3d66f44cf279eba1e9eb4e2273b4f3ad160b4560022908&amp;smart=true&amp;width=297&amp;height=324" type="image/jpeg" height="324" width="297">
+        <media:description type="plain">국민훈장 동백장을 수상한 양미애씨/보건복지부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>현직 구의원, ‘직원 추행’ 혐의로 불구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/07/AIOBSYO67NGE3EFPAGSS7QYPIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/AIOBSYO67NGE3EFPAGSS7QYPIM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 04:39:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2ZK5N262VBNRHNFL3IENB3AHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구의회./관악구의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구의회 직원을 성추행한 혐의를 받는 현직 구의원이 공소청에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 여성청소년범죄수사계는 성폭력처벌법상 업무상 위력 등에 의한 추행 혐의로 이경관 서울 관악구의원을 지난달 30일 서울중앙지방공소청에 불구속 송치했다.&lt;br&gt;&lt;br&gt;이 구의원은 2024년 4월부터 올해 4월까지 구의회 직원인 피해자에게 원치 않는 신체 접촉을 하거나, 성적 불쾌감을 유발하는 언행, 행동을 지속한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해 직원은 이 구의원이 계약 연장 등을 빌미로 식사와 술자리를 강요하고 원치 않는 신체 접촉을 했다며 지난 5월 서울 관악경찰서에 고소장을 냈다. 사건은 이후 서울청 여청수사계로 이첩돼 수사가 진행돼 왔다.&lt;br&gt;&lt;br&gt;이 구의원은 지난 6·3 지방선거에서 당선돼 제10대 관악구의회 의원으로 활동하고 있다.&lt;br&gt;&lt;br&gt;앞서 관악구의회 윤리특별위원회는 이 구의원에 대한 제명 징계안을 의결했으나 지난 9월 본회의에서 부결됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“운동이 암을 이긴다” 연세대 달군 암 환우들의 ‘희망 달리기’</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/07/RZDTUW7V3NDFXKJ6FIBERZR7UE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/RZDTUW7V3NDFXKJ6FIBERZR7UE/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 04:21:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYHCC66XKZE5LBJX2QRRHUSNPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제2회 온코런이 열린 2026년 11월 7일 서울 서대문구 연세대학교 대운동장에서 온코런 참가자들이 신호에 맞춰 출발하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아픈 나를 더 사랑하려고 매일 달립니다.”&lt;br&gt;&lt;br&gt;7일 오전 10시 서울 서대문구 연세대 신촌캠퍼스 대운동장. 파란 티셔츠를 입은 참가자들이 “운동이 암을 이긴다”고 외치며 힘차게 출발했다. 털모자를 쓴 암 환우와 가족들은 손을 맞잡고 “할 수 있다” “끝까지 가보자”며 발을 내디뎠다.&lt;br&gt;&lt;br&gt;이날 암 예방과 생존자 건강 증진을 위해 마련한 마라톤 행사 ‘제2회 온코런(OncoRun)’이 열렸다. 연세암병원과 연세대, 서대문구청이 공동 개최했다. 이날 행사는 대운동장을 출발해 안산 자락길을 거치는 5㎞ 달리기와 캠퍼스 안을 순환하는 3㎞ 걷기 코스로 나뉘어 진행됐다. 암 환자와 생존자, 가족, 의료진, 지역 주민 등 1100여 명이 참가했다.&lt;br&gt;&lt;br&gt;경기 용인시에서 온 김영자(57)씨는 아들과 함께 5㎞ 코스를 달렸다. 김씨는 지난해 6월 유방암 3기 판정을 받고 지난 4월까지 항암 치료를 받았다. 작년 11월 열린 제1회 온코런 영상을 보고 서로 격려하며 달리는 환우들의 모습에 감동받아 참가를 결심했다고 한다. 김씨는 “완주를 위해 매일 밤 3㎞씩 달렸다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “환우들에게 운동은 필수”라며 “운동을 거르는 날이면 ‘오늘 하루를 헛되이 보냈구나’ 하는 불안감에 빠지곤 했다”고 말했다. 이어 “아픈 나를 미워하지 않고 더 사랑해보려고 매일 밤 달려왔다”며 “환우들과 함께 뛰고 나니 혼자가 아니라는 생각에 더 힘이 난다”고 말했다. 함께 달린 김씨의 아들은 “끝까지 달리지 못할까 봐 걱정했는데 최선을 다해 완주한 어머니에게 정말 고맙다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGLMPO5CJFGGRI4SBB2GTMN6NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 서울 서대문구 연세대 신촌캠퍼스에서 '제2회 온코런'이 열렸다. 암 환우 김영자씨가 아들과 함께 기념 사진을 찍고 있다./김영자씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성에서 온 박은경(62)씨는 3㎞ 걷기 코스에 참여했다. 박씨는 8년 전 암 진단을 받고 5년간 치료를 받았다. 박씨는 “투병 전에는 남편과 마라톤도 뛰었지만, 아프고 난 뒤엔 제대로 뛰어본 적이 없었다”며 “다시 한번 뛰어보고 싶어 온코런을 찾았다”고 했다. 그는 “지난 1년간 요가와 라인댄스 등을 꾸준히 했더니 오늘은 크게 힘들지 않았다”며 “체력이 붙은 게 느껴져 정말 뿌듯하다”며 웃었다.&lt;br&gt;&lt;br&gt;지난해 5월 유방암 4기 판정을 받고 현재 항암 치료 중인 최모(41)씨는 어머니와 함께 5㎞ 코스 완주에 나섰다. 최씨는 “암 진단을 받고 잡생각과 스트레스가 많았는데 오랜만에 달리니 머리가 가벼워졌다”며 “기록 경쟁이 아니라 다 함께 완주하도록 서로 독려해 준 덕분에 끝까지 달릴 수 있었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZFW3AMN65AD3F7ZVLHTUTEF3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제2회 온코런이 열린 2026년 11월 7일 서울 서대문구 연세대학교 대운동장에서 온코런 참가자들이 출발 전 준비운동을 하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 코스에는 환우뿐만 아니라 의료진과 일반 시민도 발을 맞췄다. 학생들과 함께 5㎞를 달린 신촌 세브란스병원 산부인과 서석교(52) 교수는 “오르막길이 반복돼 생각보다 힘들었다”면서도 “함께 달려준 환우들에게 고맙고 이번 대회가 환우들에게 큰 힘이 되었기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;운동처방사 이정원(26)씨는 “‘운동이 암을 이긴다’는 대회 슬로건이 환자들에게 더 널리 알려졌으면 하는 마음에 참가했다”며 “환우들이 운동을 통해 암뿐만 아니라 불안과 우울까지 함께 이겨내길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노동장관 “중대재해 반복 땐 특별감독... 비용 앞세우다 무거운 책임”</title>
+      <link>https://www.chosun.com/national/labor/2026/11/07/DGMCGURV4JHPRHXXOVFVZLJQE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/11/07/DGMCGURV4JHPRHXXOVFVZLJQE4/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 01:21:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3GGMTGMFSGMZLFMIYGGNTCHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건설사 안전사고 관련 질의 답하는 김영훈 장관/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관이 중대재해가 반복 발생한 기업에 대해 특별감독에 준하는 강도로 감독할 것을 지시했다. 이미 산업 안전 점검이나 감독을 받은 사업장도 법 위반 사항을 제대로 개선했는지 불시에 다시 점검하기로 했다. 위반 사항이 발견되면 무관용 원칙에 따라 엄중하게 조치할 방침이다.&lt;br&gt;&lt;br&gt;고용노동부는 7일 김 장관 주재로 전국 49개 지방고용노동관서장이 참석하는 긴급 기관장 회의를 열고 산업 안전 대응 강화 방안을 논의했다고 밝혔다. 이번 회의는 산업 안전에 대한 현장의 인식이 실질적인 변화로 이어지도록 지방관서의 역할을 강화하고, 올해 남은 기간 산업 재해 사고 사망자를 줄이기 위해 마련됐다.&lt;br&gt;&lt;br&gt;김 장관은 이미 점검이나 감독을 받은 사업장에서 중대재해가 다시 발생하지 않도록 철저히 관리할 것을 주문했다. 특히 법 위반 사항이 실제로 개선됐는지 점검·감독 이후 예고 없이 재점검하고, 위반 사항이 발견되면 엄중하게 조치하라고 지시했다.&lt;br&gt;&lt;br&gt;동일한 유형의 중대재해가 반복되는 기업에 대해서는 감독 강도를 높일 것을 요구했다. 김 장관은 “동일 유형의 중대재해가 반복 발생한 기업에 대해 엄중한 문제 인식을 가져야 한다”며 “반복 발생 기업에 대한 감독은 특별감독과 같다고 생각하고 임해 달라”고 말했다.&lt;br&gt;&lt;br&gt;김 장관은 전남 영암군 대불국가산업단지에서 산업재해가 반복되는 문제도 거론했다. 그는 사고가 반복되는 원인이 시설 노후화 때문인지, 노사의 안전 인식이나 노력이 부족한 탓인지, 노동부의 감독이 미흡했기 때문인지 면밀히 점검하라고 지시했다.&lt;br&gt;&lt;br&gt;사업주의 안전 관리 책임도 강조했다. 김 장관은 “노동자 사망 사고가 발생했음에도 여전히 안전보다 비용 절감을 우선순위에 둔다면 그 책임이 무겁다는 점을 사업주에게 명확히 알려줘야 한다”고 말했다. 이어 엄격한 감독을 통해 기업의 적극적인 안전 투자가 비용이 아닌 이익으로 이어지는 구조를 만들어야 한다고 강조했다.&lt;br&gt;&lt;br&gt;다음 달 8일 시행되는 노동감독관 직무집행법에 대한 준비도 주문했다. 이 법 시행으로 노동부의 노동감독 권한 일부가 지방정부에 위임된다. 김 장관은 “한 달 후면 노동감독관 직무집행법이 시행돼 노동부 역할이 73년 만에 새롭게 거듭난다”며 본부와 지방관서가 함께 준비에 만전을 기해야 한다고 말했다.&lt;br&gt;&lt;br&gt;회의에 참석한 지방관서장들은 올해 남은 기간 산업재해 사고 사망자를 줄이기 위해 중점적으로 추진할 과제를 발표했다. 김 장관은 “노동부 본부는 정기국회에서 예산, 입법 등 국정과제 추진에 만전을 기하고 지방은 국민들이 체감할 수 있도록 감독에 역량을 집중하는 등 제도가 현장에 안착하도록 노력해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>12세에 강제동원...2심도 “日 기업이 8000만원 배상해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/07/JPC63TCJEBGXFE6QXIBYQGFU54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/07/JPC63TCJEBGXFE6QXIBYQGFU54/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 01:44:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDLCGLHLIZIBLP5GWKOCM5ZARE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법이 있는 서울 서초구 서울법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제강점기 만 12세에 일본 군수공장으로 동원돼 강제노동을 한 피해자 유족에게 일본 기업이 8000만원을 배상해야 한다는 항소심 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사항소11-2부(재판장 곽형섭)는 지난달 28일 고(故) 서모씨 측이 일본 기계·공구 제조업체 후지코시를 상대로 낸 손해배상 소송에서 1심과 같이 서씨 측에 위자료 8000만원을 지급하라고 판결했다.&lt;br&gt;&lt;br&gt;서씨는 국민학교 6학년이던 1945년 2월 일본인 담임교사의 설명을 듣고 조선여자근로정신대에 지원했다. 당시 만 12세였던 서씨는 일본으로 건너가 그해 3~8월 도야마에 있는 후지코시 공장에서 비행기 부속품을 만드는 일을 했다. 기숙사에서 생활하며 일했지만 임금은 받지 못했다. &lt;br&gt;&lt;br&gt;이후 서씨는 2020년 5월 80대 나이에 강제동원으로 입은 정신적 고통에 대해 위자료 1억원을 지급하라며 후지코시를 상대로 소송을 냈다. 그러나 1심 선고 전인 2024년 5월 숨졌고, 자녀가 소송을 이어받았다.&lt;br&gt;&lt;br&gt;후지코시는 한국 법원에 재판 관할권이 없고, 서씨의 손해배상 청구권도 1965년 한일청구권협정으로 소멸했다고 주장했다. 서씨의 아버지도 근로정신대 지원에 동의했다며 강제성이 없었다는 주장도 했다.&lt;br&gt;&lt;br&gt;그러나 2024년 11월 1심은 후지코시의 배상 책임을 인정했다. 재판부는 “서씨가 일본에서 어떤 일을 하고 어떤 대우를 받게 될지 제대로 알지 못한 채 일본 정부와 후지코시의 조직적인 속임수에 넘어가 동원됐다”고 판단했다. 이어 “작업의 성격과 감금이나 다름없는 기숙사 생활 등을 고려하면, 이와 같은 노동에 만 12세 아동의 동의 능력이 인정될 수는 없다”고 했다. 아버지 역시 실상을 알았다면 딸을 보내는 데 동의하지 않았을 것이라고 봤다.&lt;br&gt;&lt;br&gt;1심은 후지코시가 서씨의 자유를 억압한 채 강제노동을 시킨 것에 대해 “불법적인 식민 지배와 침략 전쟁의 수행과 직결된 반인도적인 불법행위”라고 했다. 오랜 기간 피해 배상이 이뤄지지 않았고 후지코시가 여전히 책임을 부인하는 점 등을 고려해 위자료를 8000만원으로 정했다.&lt;br&gt;&lt;br&gt;국내 법원에 관할권이 없다는 주장도 받아들이지 않았다. 서씨를 속여 일본으로 데려간 일련의 불법행위 중 일부가 국내에서 이뤄졌고, 사건이 한국의 역사와 밀접하게 관련돼 있다는 것이다. 강제동원 피해자의 위자료 청구권은 한일청구권협정의 적용 대상에 포함되지 않는다는 2018년 대법원 전원합의체 판결에 따라 서씨의 청구권도 인정했다.&lt;br&gt;&lt;br&gt;후지코시는 불복했지만, 2심은 “1심과 2심에서 제출된 증거들을 종합해 다시 살펴봐도 1심의 사실인정과 판단은 정당하다”며 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘첫얼음’…입동 맞춰 본격 추위 시작</title>
       <link>https://www.chosun.com/national/national_general/2026/11/07/WZUGWHVYVBBCHBC4R34KP2QL64/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/WZUGWHVYVBBCHBC4R34KP2QL64/</guid>
@@ -732,39 +859,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/N2KZIQMSIVFB3O5CUCK6VXZDUU.jpg?auth=b65111dc826330ace64269b2d3f4ff3075af0e78ffc37e6c1cbcaa4391b1c362&amp;smart=true&amp;width=2884&amp;height=1622" type="image/jpeg" height="1622" width="2884"/>
     </item>
     <item>
-      <title>검사 수사권 없앤 與, ‘조작기소 특검’엔 허용… 법조계 “모순적 행태”</title>
-      <link>https://www.chosun.com/national/court_law/2026/11/06/MLDBSVKBIFB27OY2BTQBBNESAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/06/MLDBSVKBIFB27OY2BTQBBNESAY/</guid>
-      <dc:creator>김희래 기자, 유희곤 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPSG4LCY3JD2ZATTMZRWGOQMN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 여의도 국회에서 열린 국민의힘 의원총회에서 장동혁(왼쪽 셋째) 대표와 정점식(넷째) 원내대표 등 의원들이 더불어민주당의 ‘조작기소 특검법’ 본회의 상정을 규탄하는 구호를 외치고 있다. 국민의힘은 필리버스터(무제한 토론)에 돌입했지만, 민주당은 6일 오후 표결로 토론을 중단시키고 법안을 강행 처리할 방침이다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 5일 국회 본회의에 상정한 ‘조작기소 특검법안’에는 공소청(옛 검찰청) 검사를 최대 20명 파견받아 수사를 맡길 수 있다는 조항이 포함돼 있다. 민주당은 지난달 2일 형사소송법을 개정해 검사의 수사권을 폐지했다. 그런데 이재명 대통령을 비롯한 여권 인사들이 기소된 사건과 관련해 검찰의 수사·공소권 남용 의혹을 조사하겠다며 특검 파견 검사에게는 다시 수사권을 부여하겠다는 것이다. 민주당은 개정 형사소송법과 특검법안 부칙에 이런 내용을 담았다. 법조계에선 “여당이 수사·기소 분리를 내세워 검사 수사권을 없애 놓고, 자기들에게 필요한 특검 수사에는 검사 수사권을 활용하는 모순적 행태”란 지적이 나온다.&lt;br&gt;&lt;br&gt;◇與 주도 특검서 되살아난 검사 수사권&lt;br&gt;&lt;br&gt;조작기소 특검법안 부칙 6조는 특별검사와 특검보, 파견 검사의 수사·지휘권과 관련해 개정 전 형사소송법을 적용하도록 했다. 지난달 2일 시행된 개정 형사소송법도 검사의 수사권을 원칙적으로 폐지하면서도 부칙 14조에선 특검과 특검보, 파견 검사는 수사와 관련해 종전 권한을 행사할 수 있다는 예외를 뒀다. 민주당은 이 예외를 이번 특검법안에도 명시했다. 이와 관련, 김현 전 대한변호사협회 회장은 “검사는 수사를 못 하게 하면서 특검 파견 검사는 수사할 수 있게 하는 건 이중적이고 모순된 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HY4PJAHDIVCMBL2WNSB7T7SWVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 특검법안이 정한 수사 대상은 총 17개 사건이다. 이 가운데 대장동 개발 비리, 쌍방울 대북 송금 사건 등 이 대통령이 기소된 사건이 8건이다. 문재인 전 대통령 사위 특혜 채용 관련 뇌물수수 사건, 문재인 정부 통계 조작 사건 등 문재인 정부와 관련된 사건도 6건 포함됐다. 특검은 옛 검찰이 이 사건을 수사·기소하는 과정에서 검사들이 증거를 조작하거나 진술을 강요했는지 등을 수사한다. 부장검사 출신 변호사는 “검찰의 정치인 수사를 문제 삼아 검사 수사권을 폐지해 놓고 자기들이 필요한 특검에는 검사 수사 역량을 활용하겠다는 내로남불”이라고 했다. &lt;br&gt;&lt;br&gt;◇법무부는 검사 파견 부정적&lt;br&gt;&lt;br&gt;이진수(법무부 차관) 법무부 장관 직무대행은 이번 특검법안과 관련해 지난 4일 국회 법제사법위원회 법안심사소위에서 “이 특검의 성격을 봤을 때 검사가 파견되지 않는 것이 가장 바람직하다. 부득이하게 파견을 가더라도 규모를 절반 이하로 줄일 필요가 있다”고 말한 것으로 전해졌다. 이 대행은 또 “공소청 소속 검사가 수사에 관여해 생길 수 있는 공정성 논란과 공소청 출범에 따른 수사·기소 분리의 취지를 고려하면 최대 20명 규모 검사 파견은 부적절하다”고 했다고 한다.&lt;br&gt;&lt;br&gt;공소청 검사들 사이에서도 특검 파견을 꺼리는 분위기가 있다. 한 평검사는 “대통령 사건 공소취소를 염두에 둔 것 아니냐는 논란이 있는 특검에 검사들을 파견해 대통령 사건에 관여했던 검사들을 수사하겠다는 건 부적절하다”고 했다. 한 부장검사는 “특검 수사가 공소취소에 활용될 경우 검사들이 나중에 책임을 질 수 있다는 우려가 있다”고 했다. 다른 평검사는 “특검에 파견 가느니 휴직을 하는 게 낫다는 말도 나온다”고 했다.&lt;br&gt;&lt;br&gt;◇李, 자기 기소한 검사 수사할 특검도 임명&lt;br&gt;&lt;br&gt;이번 특검법안이 국회를 통과하면, 이 대통령은 여야가 추천한 후보 중 한 명을 특별검사로 임명한다. 정치권에선 이 대통령이 민주당이나 조국혁신당이 추천한 후보를 특검에 임명할 가능성이 크다고 본다. 결국 자신을 기소한 검찰 수사가 적법했는지 따질 사람을 자기가 임명하는 구조다. 이를 두고 법조계에선 “‘누구도 자기 사건의 재판관이 될 수 없다’는 법치주의의 대원칙을 허무는 일”이라는 지적이 나온다.&lt;br&gt;&lt;br&gt;헌법을 생각하는 변호사 모임 등 4개 변호사 단체는 이날 공동성명을 내고 “대통령이 특검을 임명하는 것은 명백한 이해충돌”이라고 했다. 김성룡 경북대 로스쿨 교수는 “권력만 잡으면 과거 수사 결과를 뒤집을 수 있다는 선례를 만드는 것”이라고 했다. 부산지검장을 지낸 김기동 법무법인 로백스 대표변호사는 “특검은 재판 결과를 책임지지 않는다”며 “2차 종합특검에서 부실 기소 등 문제가 드러났는데, 현 정부 들어 일곱 번째 특검을 추진하는 것은 적절하지 않다”고 했다. 반면 김해원 부산대 로스쿨 교수는 “대통령은 주요 기관의 임명권자이고, 특검 수사·재판에 관여하지 않는다면 위헌이라고 단언할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가덕도신공항 11월 착공 무산… 공사비 증액 특별법 추진 논란</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/11/06/EXCENYDDEVBZHDM2V7WZZVR6EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/06/EXCENYDDEVBZHDM2V7WZZVR6EU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZDGZRSHAYGMMLBGBSDSYJSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 가덕도신공항 조감도. /대우건설&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가덕도 신공항 건설 공사를 11월 착공하겠다는 정부 계획이 사실상 무산됐다. 공사비 증액 문제를 놓고 건설사들과 이견을 좁히지 못하면서 예정된 착공 일정에 차질이 빚어진 것이다. 정부와 더불어민주당은 가덕도 신공항 특별법을 개정해 공사비를 올려주겠다는 입장이지만, 건설사들은 법 통과 불확실성 등을 이유로 별도 확약을 요구하고 있다. 정부 안팎에선 지금 상황이 지속되면 2035년 개항 일정에도 차질이 생길 것이라는 우려가 제기된다.&lt;br&gt;&lt;br&gt;가덕도 신공항 건설 사업은 2021년 문재인 정부에서 통과된 특별법을 기반으로 한다. 지난 2023년 고시된 기본계획상 부지 조성 공사 사업비는 10조5300억원. 그러나 사업을 맡을 예정이었던 현대건설 컨소시엄의 사업 포기와 재입찰 등 우여곡절을 거쳐 지난해 12월 입찰 공고에서 공사비가 약 10조7000억원으로 증액됐다. 대우건설 컨소시엄은 이 조건을 받아들여 올해 3월 수의계약 대상자가 됐다.&lt;br&gt;&lt;br&gt;그러나 올해 2월 미국·이란 간 중동 전쟁이 발발하면서 공사비 문제가 다시 불거졌다. 대우건설 컨소시엄은 “국제 유가와 원자재 가격이 급등해 기존 공사비로는 손실을 피하기 어렵다”고 주장했다. &lt;br&gt;&lt;br&gt;이에 당정은 가덕도 신공항 특별법을 개정해 공사비를 증액할 근거를 마련하기로 합의했다. 개정안에는 ‘계약 체결일 이전 불가항력 사유로 인한 물가 변동으로 계약 이행이 현저히 곤란한 경우, 계약 금액을 조정할 수 있다’는 방안을 담기로 했다.&lt;br&gt;&lt;br&gt;문제는 야당 협조와 건설사들의 추가 요구다. 당정은 야당과 공동으로 법안을 발의한다는 계획이지만, 야당은 정부가 국회에 공을 떠넘긴다는 입장이다. 국민의힘 관계자는 “정부가 국가계약법 시행령과 총사업비 관리지침을 개정하면 공사비 증액 문제를 해결할 수 있는데, 굳이 특별법 개정에 나서는 것은 다른 국책 사업과의 형평성 등이 문제될 수 있기 때문”이라며 “논란의 책임을 국회에 넘기겠다는 의도로 볼 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;건설사들의 이해관계도 복잡하다. 대우건설 컨소시엄은 19개 건설사로 구성돼 있다. 이 중 일부는 특별법 개정안이 국회를 통과하지 못할 가능성 등을 거론하며 정부에 계약 금액 조정을 문서로 확약해 달라고 주장하고 있다.&lt;br&gt;&lt;br&gt;정부는 당초 11월 우선 시공분 착공, 내년 상반기 본공사 돌입, 2035년 개항 목표를 제시했다. 여야가 극적으로 합의해 특별법 개정이 추진된다 해도 상임위와 본회의 의결, 국무회의 심의 등을 고려할 때 연내 착공은 쉽지 않을 것이란 관측이 나온다. 국토부 관계자는 “11월은 어렵지만 올해 내 착공을 목표로 노력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GEZDGZRSHAYGMMLBGBSDSYJSMY.jpg?auth=1f4585ec7f618ab9a690c1cb1c426ef9c07a217b94c6726ec97750fa4b10ccb0&amp;smart=true&amp;width=600&amp;height=415" type="image/jpeg" height="415" width="600">
-        <media:description type="plain">부산 가덕도신공항 조감도. /대우건설</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>스토킹 4차례 신고했지만… “피의자 폐암 말기” 공소청이 영장 반려</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/06/J725CMPEE5BLVFW6ORSKKJP2DQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/J725CMPEE5BLVFW6ORSKKJP2DQ/</guid>
-      <dc:creator>김도연 기자, 강혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZGEN3EMQ2DCZTEGUYWKZRVGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방공소청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스토킹 범죄를 저질러 전자발찌를 찼던 60대 남성이 위치 추적 기간이 끝나자마자 과거 스토킹했던 옛 연인을 살해하는 사건이 5일 발생했다. 이 남성은 4개월 전에도 피해자를 스토킹한 혐의로 경찰에 체포된 적 있었다. 당시 경찰은 공소청(옛 검찰청)에 구속영장을 신청했다. 하지만 공소청은 피의자가 암 수술을 한 지 얼마 안 돼 건강 상태가 좋지 않다는 점 등을 이유로 영장을 반려했다. 이 바람에 피의자는 불구속 상태로 수사를 받아왔다. 수사 당국이 안이하게 대응한 것 아니냐는 지적이 나온다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 서울 은평경찰서는 이날 오전 8시쯤 은평구 불광동 다세대주택에서 60대 남성 길모씨를 살인 현행범으로 체포했다. 길씨는 자기 집에서 예전에 사귀었던 70대 여성 A씨를 살해한 혐의를 받는다. 경찰은 이날 오전 6시 40분쯤 “(A씨가) 전날 낮부터 연락이 두절된 채 귀가하지 않고 있다”는 실종 신고를 접수했다. 신고는 A씨 가족이 했다. 경찰은 A씨 휴대전화 위치 정보와 과거 신고 이력 등을 토대로 길씨를 용의자로 특정하고 그가 사는 다세대주택에 출동했다. 하지만 경찰이 도착했을 때 A씨는 이미 숨져 있었다. 길씨도 의식을 잃고 쓰러진 상태였다. 길씨는 병원으로 옮겨져 치료를 받고 있다. 경찰은 길씨가 의식을 찾는 대로 범행 동기와 살해 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHZPINWX3FEQ5FYFAPUEX7SII4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 사건 이전에도 A씨는 길씨를 네 차례 112에 신고한 전력이 있었다. 경찰에 따르면, A씨는 2024년 9월과 올해 6월 “길씨가 쫓아온다”며 경찰에 신고했다. 경찰은 당시 단순 말다툼으로 판단해 두 사람을 현장에서 분리하는 선에서 끝냈다. 지난 6월 A씨는 한 차례 더 “길씨가 직장 근처에서 기다리고 있다”고 경찰에 신고했다. 경찰은 당시 A씨에게 긴급 신고용 스마트워치를 지급하고 길씨를 스토킹처벌법 위반 혐의로 검찰에 불구속 송치했다. &lt;br&gt;&lt;br&gt;A씨는 지난 7월 18일에도 경찰에 길씨를 신고했다. 이에 경찰은 길씨를 긴급 체포하고 7월 20일 폭행 및 스토킹처벌법 위반 등 혐의로 구속영장을 신청했다. 스토킹이 반복됐기 때문이다. 그런데 서울서부지방공소청(당시 서울서부지검)은 경찰이 신청한 구속영장을 반려했다. 이와 관련, 공소청은 “폐암 4기 환자인 길씨가 수술을 받은 지 얼마 안 돼 건강이 좋지 않다는 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;공소청이 구속영장을 청구하지 않자 경찰은 대신 잠정 조치를 신청했다. 이에 따라 길씨는 7월 23일부터 8월 22일까지 구치소에 유치됐다. 길씨는 구치소에서 풀려난 뒤로는 지난달 22일까지 위치추적 전자장치를 부착했다. 길씨는 A씨 살해 2주 전까지는 전자발찌를 차고 있어 경찰의 추적이 가능했던 셈이다. 경찰 관계자는 “길씨가 구치소에서 나올 때, 위치추적 장치 부착 기간이 종료될 때 등 두 차례에 걸쳐 A씨에게 민간 경호, 맞춤형 순찰, 임시 숙소 제공 등 안전 조치를 권유했지만 A씨가 모두 거절했다”고 했다.&lt;br&gt;&lt;br&gt;그러나 피해자가 살해되면서 공소청·경찰의 판단과 조치가 적절했는지 논란이 일고 있다. 한 검사 출신 변호사는 “공소청은 피의자가 폐암 4기로 지속적인 치료를 받아야 하는 만큼 도주 우려가 낮다고 판단했을 수 있다”며 “하지만 재범 위험성과 피해자에 대한 보복 가능성까지 충분히 고려했는지는 의문”이라고 했다.&lt;br&gt;&lt;br&gt;길씨는 최근 경찰청이 실시한 관계성 범죄 전수조사 대상에도 포함됐었다. 경찰청은 스토킹·가정폭력 등 관계성 범죄가 잇따르자 지난달 19일부터 30일까지 관련 사건 4만4540건을 전수조사하고, 고위험 가해자에 대해서는 구속영장을 신청하거나 유치장에 격리하는 등 조치를 했다. 피해자 A씨도 길씨에게 스토킹을 지속적으로 당해 ‘관계성 범죄 피해 A등급 관리 대상’으로 지정돼 있었다.&lt;br&gt;&lt;br&gt;하지만 경찰은 A씨가 원하지 않는다는 이유로 전수조사를 한 뒤로 별다른 안전 조치를 하지 않은 것으로 파악됐다. 이에 따라 피해자가 처벌이나 보호 조치를 원하지 않더라도 재범 위험성이 높은 가해자에 대해서는 수사기관이 적극적으로 개입해야 한다는 지적이 나온다. 이건수 백석대 경찰학과 교수는 “스토킹 등 관계성 범죄는 피해자가 처벌이나 보호를 원하지 않더라도 강력 범죄로 이어질 위험이 있다”며 “피해자 의사에만 의존할 것이 아니라 가해자 재범 위험성을 면밀히 평가하고, 전자발찌를 통한 위치 추적 등 보호 조치를 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GMZGEN3EMQ2DCZTEGUYWKZRVGU.jpg?auth=61ff934cc3ba1d0d8bc71a44cb0a0f75b3467d026a9d57267d077f7d8ca8e70f&amp;smart=true&amp;width=1500&amp;height=1114" type="image/jpeg" height="1114" width="1500">
-        <media:description type="plain">서울서부지방공소청</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>사이버범죄 10년 새 2배 늘때, 검거율은 27%p 줄어</title>
       <link>https://www.chosun.com/national/incident/2026/11/06/KEHIVKJWOBFPFAK3L2ICZTIEAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/06/KEHIVKJWOBFPFAK3L2ICZTIEAU/</guid>
@@ -772,96 +866,6 @@
       <description/>
       <pubDate>Thu, 05 Nov 2026 15:40:00 +0000</pubDate>
       <content:encoded>사이버 범죄가 최근 10년 새 2배 이상 늘어난 반면 검거율은 30%포인트 가까이 떨어진 것으로 나타났다. 인공지능(AI)을 활용한 해킹 등 사이버 범죄 수법이 갈수록 고도화하는데 경찰 수사 역량은 이를 따라가지 못하는 것 아니냐는 지적이 나온다.&lt;br&gt;&lt;br&gt;5일 경찰청 통계를 보면 지난해 전국에서 발생한 사이버 범죄는 36만1577건이다. 2016년(15만3075건)과 비교해 2.4배로 늘었다. 반면 같은 기간 사이버 범죄 검거율은 83.5%에서 56.7%로 26.8%포인트 떨어졌다. 사이버 범죄 10건 중 4건 이상은 범인을 검거하지 못한 셈이다.&lt;br&gt;&lt;br&gt;최근에는 AI를 이용한 사이버 범죄가 증가하고 있다. 지난달 초 국내 금융기관들이 AI를 활용한 해킹 공격을 받아 경찰이 수사에 나섰다. 컴퓨터 관련 전공자가 아닌 예체능 전공자가 생성형 AI를 이용해 40여 일 만에 기업 60곳을 해킹했다가 구속된 일도 있었다. 최근에는 이재명 대통령 부부를 비롯한 대통령 전용기 탑승자 168명 개인 정보가 유출되는 사건도 발생했다.&lt;br&gt;&lt;br&gt;경찰 안팎에서는 사이버 수사 전담 조직이 축소된 것이 검거율을 떨어뜨린 것 아니냐는 말이 나온다. 경찰청은 2014년 사이버안전국을 신설하고 2016년부터 시·도 경찰청에 사이버수사과를 설치하는 등 전담 조직을 확대해 왔다. 그러나 2023년 조직 개편 과정에서 사이버수사국을 수사국에 통합하면서 전담 조직이 축소됐다. 경찰 관계자는 “당시에는 사이버 범죄와 오프라인 범죄 사이 경계가 흐려지는 추세를 반영한 조치였다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 사이버수사국을 다시 독립시켜 전문성을 강화해야 한다는 목소리가 나온다. 경찰 외부 자문 기구인 경찰 수사개혁위원회는 지난 2일 “현재 수사국 산하에 경제·반부패·중대범죄·사이버범죄 등 성격이 다른 8개 과가 편제돼 사이버 범죄에 특화된 정책 추진과 전문적인 수사 지휘가 어렵다”며 “사이버수사국을 재설치해 국가 사이버 수사의 컨트롤타워 기능을 복원해야 한다”고 권고했다.&lt;br&gt;&lt;br&gt;경찰은 IT 전문가 등을 경장·경위 계급으로 경력 채용하고 있다. 하지만 민간 기업보다 낮은 보수 때문에 채용 시험에 합격하고도 임용을 포기하는 사례도 적잖다고 한다. 경찰 관계자는 “현행 경찰 보수 체계로는 수준 높은 사이버 수사 인력을 확보하기 어려운 실정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>또 진료실 흉기 난동… ‘임세원법’에도 달라진 게 없다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/11/06/PO2T5BC62ZELLEOK7MPXTPPE4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/06/PO2T5BC62ZELLEOK7MPXTPPE4I/</guid>
-      <dc:creator>안준용 기자, 조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3GIZDFMJTDANJXG4ZDKZLCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 서대문구 신촌 세브란스병원에서 경찰 과학수사대 관계자들이 현장감식을 마친 뒤 차량에 탑승하고 있다. /이경민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 세브란스병원 진료실에서 50대 여성 A씨가 교수에게 흉기를 휘두른 사건으로 병원 내 의료진 안전 문제가 또다시 수면 위로 올랐다. 앞서 2018년 12월 강북삼성병원 정신건강의학과 임세원 교수가 환자의 흉기 난동으로 숨진 뒤 이듬해 의료인 폭행에 대한 처벌 등을 강화한 이른바 ‘임세원법’이 통과됐다. 하지만 병원 내 안전망은 여전히 허술하고, 특히 진료실 내 돌발 상황엔 사실상 무방비 상태라는 지적이 나온다. 의료계에선 “병원 내 폭행·상해 사건은 의료진 개인을 넘어 환자·보호자의 생명까지 위협한다”며 “정부 차원의 제도 보완과 관련 예산 지원이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 지난 4일 세브란스병원 정신건강의학과 B교수에게 흉기를 휘두른 A씨는 집에서 쓰던 식칼을 쇼핑백에 넣어와 범행에 사용했다. 진료 순서가 된 다른 환자를 따라 진료실로 들어가 흉기를 휘둘렀고, B교수는 얼굴과 손 등을 크게 다쳐 응급실 치료를 받았다. 경찰은 이날 A씨에 대해 살인미수 혐의로 구속영장을 신청했다. 진료 예약도 안 한 외부인이 흉기를 소지한 채 진료 공간에 침입해 의료진을 공격할 때까지, 이를 막기 위한 제도적 장치는 작동하지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKFKDI2EE5H7NGEPJFLEYX2VZA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조란영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임세원법(개정 의료법)은 의료인에게 상해를 입힐 경우 7년 이하 징역 등에 처하도록 하고, 100병상 이상 병원에 보안 전담 인력 배치와 비상벨 설치를 의무화하는 내용이 골자다. 하지만 법 시행 이후에도 의료진 피해 사례는 끊이지 않고 있다. 2020년 8월 부산의 정신건강의학과 의원에선 60대 환자가 의사를 흉기로 찔러 숨지게 했고, 2022년 6월엔 경기 용인의 한 종합병원 응급실에서 70대 남성이 의사에게 낫을 휘둘렀다. &lt;br&gt;&lt;br&gt;2024년 5월에는 대구의 한 정신병원에서 30대 환자가 의사의 얼굴에 호신용 가스총을 쐈고, 작년 5월엔 강원 강릉의 병원 응급실에서 40대 환자가 커터 칼로 의료진을 위협하다 체포됐다. 경찰청에 따르면 의료기관 내 폭력 사건은 매년 1700건 이상 발생하고 있다. 중앙응급의료센터가 2024년 응급의료 종사자 375명을 조사한 결과에선 88.8%가 폭언·폭행을 경험했다고 답하기도 했다.&lt;br&gt;&lt;br&gt;문제는 현 제도만으로는 의료진을 보호하기 어렵다는 점이다. 100병상 이상 병원의 경우, 보안 전담 인력을 1명만 배치하고 비상벨을 1개만 설치해도 법정 기준을 충족한다. 100병상 미만은 이 같은 의무도 적용되지 않는다. 정신의료기관은 별도의 안전 기준으로 진료실에 비상벨을 설치하고, 비상문·비상대피 공간·개인 방호 도구 중 하나 이상을 갖추도록 규정하고 있다. 하지만 비용상 문제로 개인 방호 도구만 갖춘 곳이 많다.&lt;br&gt;&lt;br&gt;보안 인력, 비상벨, 비상문을 갖춰도 돌발 상황은 막기 어렵다. 세브란스병원도 진료실에 비상벨·비상문을 갖추고, 해당 구역에 전담 보안 인력도 두고 있었지만 사태를 피하지 못했다. 빅5 병원 관계자는 “의료진이 환자와 바로 마주하는 외래 진료실 특성상 사건 발생 가능성 자체를 원천적으로 막긴 어려운 게 현실”이라고 했다. 이에 일각에선 비상 대피 공간 의무화와 함께 진료구역 출입 통제도 강화해야 한다는 목소리가 나온다.&lt;br&gt;&lt;br&gt;김의태 분당서울대병원 정신건강의학과 교수는 “진료실에서 의료진은 무방비로 노출되고, 외부인이 들어와 출입문을 잠글 수도 있다”며 “비상 출입문 설치를 의무화하고, 당일 진료 예약이 없는 사람은 진료실에 들어가기 전에 막을 방안도 찾아야 한다”고 했다. 현재 서울아산병원 등 일부 대형 병원은 외래 환자가 출입증을 소지해야 진료 구역에 들어갈 수 있는데, 일각에선 위험도가 높은 진료 구역에 한해 출입 통제를 강화하거나 금속탐지기 등을 설치해야 한다는 주장도 나온다.&lt;br&gt;&lt;br&gt;대한병원협회는 이날 성명을 내고 “이번 사건은 법과 제도가 진료 현장의 안전을 담보하지 못하고 있다는 방증”이라며 “정부는 흉기 반입과 폭력을 사전 차단할 수 있는 실효성 있는 안전 대책을 마련하고, 안전 관리 책임을 개별 병원에만 전가하지 말고 국가 차원의 지원 체계를 구축하라”고 했다. 대한전공의협의회도 “정부와 국회는 폭력 처벌 강화의 범위를 응급실 외에 진료가 이뤄지는 모든 공간으로 확대해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내가 제일 잘 나가</title>
-      <link>https://www.chosun.com/national/education/2026/11/06/5KQDLLYHQRCUPNMZABJ74V4AQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/06/5KQDLLYHQRCUPNMZABJ74V4AQE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSZ3DUGWR5GGTOE44HIMSDMDBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 부산 해운대구 벡스코에서 열린 ‘큐티 베이비 콘테스트’에서 선글라스를 쓴 아기가 무대 위에서 춤을 추며 끼를 뽐내고 있다. 이 대회는 부산·울산·경남 지역의 생후 19~48개월 아기 가운데 밝게 웃고 개성이 넘치며 부모와의 유대감이 좋은 아기를 뽑는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>단풍은 떨어져도 곱다</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/06/YS3JAI22XVFHTEOGIMYPG3NKGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/YS3JAI22XVFHTEOGIMYPG3NKGE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OX5CANMFYFFNZBSOKK5YD75YFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 전남광주 북구 일곡동 길가에 선 단풍나무가 빨갛게 물들었다. 이날 내린 가을비에 붉은 단풍잎이 바닥에 잔뜩 떨어졌다. 한 시민이 우산을 쓰고 단풍나무 아래를 지나가고 있다. 이날 전남광주에는 13도 안팎이었던 기온에 약한 비가 내렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여수섬박람회 폐막… 관람객은 목표의 85%에 그쳐</title>
-      <link>https://www.chosun.com/national/regional/honam/2026/11/06/6B74LZTYLJCXBNWBDC7ZDPANDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/11/06/6B74LZTYLJCXBNWBDC7ZDPANDY/</guid>
-      <dc:creator>여수=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O33YR5TKERE4XCUSKJV5WJMP2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 5일 시작한 2026 여수세계섬박람회가 지난 4일 막을 내렸다. 254만831명이 여수를 찾았다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2026 여수세계섬박람회’가 61일간 일정을 마치고 지난 4일 막을 내렸다. 5일 조직위원회에 따르면 누적 관람객은 254만831명으로 집계됐다. 목표 관람객 300만명의 84.7%다. 조직위는 “세계 30국과 국제기구 3곳이 참여해 섬 관광과 환경 보전을 위한 교류를 확대했다”고 평가했다.&lt;br&gt;&lt;br&gt;하지만 행사 준비와 운영 과정에서 여러 논란이 불거졌다. 사업비가 크게 불어났다. 2021년 정부가 행사 개최를 승인할 당시 248억원이던 직접 사업비는 723억원으로 3배 가까이 늘었다. 연계 사업 77개를 합치면 총사업비는 1859억원이다. 여수시는 기존 여수세계박람회장을 두고 돌산읍 진모지구 매립지에 주 행사장을 새로 조성했다. 이 과정에서 직접 사업비의 46%인 333억원을 토목·시설 공사에 썼다. 반면 전시 콘텐츠 개발과 운영에는 111억원(15%)을 들였다.&lt;br&gt;&lt;br&gt;관람객들 사이에선 콘텐츠가 부실하다는 지적이 잇따랐다. 1t 트럭에 천을 둘러 배처럼 꾸민 ‘거문도 뱃노래’ 공연이 대표적이다. ‘미래 섬 전시관’의 도심 항공 교통(UAM) 체험은 무인 단말기에서 가상 탑승권을 발권하는 방식이었다. 1만4900원짜리 간장게장 정식은 가격에 비해 양이 적다는 반응이 나왔다. 섬을 주제로 한 박람회였지만 주 행사장에서 부 행사장인 개도·금오도로 바로 갈 수 있는 선착장이 없었다.&lt;br&gt;&lt;br&gt;여수시는 지역 택시 회사에 “박람회 관련 유언비어를 유포하지 말라”는 공문을 보냈다가 반발을 샀다. 전남광주시는 박람회 관람을 출장으로 인정하고 여비를 지급할 수 있도록 해 ‘공무원 동원’ 논란을 빚었다. &lt;br&gt;&lt;br&gt;입장권 판매액은 41억3000만원으로 목표(96억원)의 43%에 그쳤다. 관람객 10명 중 8명이 무료 입장객이었다. 조직위 관계자는 “수익 창출보다 섬의 가치를 알리고 지역 경제를 활성화하는 데 집중했다”고 말했다. 여수시는 박람회가 지역 경제 활성화에 기여했다고 평가했다. 여수시에 따르면 지난 9월 여수 지역 주요 관광지 방문객은 123만4110명으로 작년 같은 달보다 63.5% 증가했다. 같은 기간 외지인 카드 소비액은 488억7500만원으로 1년 전보다 10.9% 늘었다.&lt;br&gt;&lt;br&gt;행사는 끝났지만 숙제는 남았다. 주 행사장 등 시설을 어떻게 활용할지 아직 결정하지 못했다. 여수시는 다음 달 사후 활용 방안을 확정할 계획이다. 전문가들은 대규모 국제 행사를 승인할 때 관람객 수요와 사업비를 철저히 검증해야 한다고 지적했다. 과거처럼 대규모 박람회를 개최하는 것만으로 관광객을 끌어들이기 어렵다는 분석도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청계천선 오디오북, 서울광장선 소파 독서… 외국인 홀린 야외도서관</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/06/XQMHAYHROJGAHJHVIDGN2RGRFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/XQMHAYHROJGAHJHVIDGN2RGRFU/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2R37KCGN4ZGVDFMGKLFCUHSDW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 27일 오후 서울 중구 청계천이 책을 읽는 시민들로 가득하다. 서울 야외도서관을 찾은 시민들이다. 청계천 야외도서관인 ‘책읽는 맑은 냇가’ 라이브러리 투어에는 외국인 관광객들도 참가했다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 서울 청계천을 찾은 외국인 관광객 20여 명이 물소리를 들으며 책을 읽었다. 헤드폰을 끼고 오디오북을 듣는 이도 있었다. 서울시가 외국인 관광객을 대상으로 운영하는 ‘라이브러리 투어(도서관 관광)’ 프로그램이다. 네덜란드에서 온 마를루스 판 다위너씨는 “서울은 빠르게 돌아가는 대도시인 줄만 알았는데 청계천에서 책을 읽고 이야기를 나누면서 다시 보게 됐다”고 했다. &lt;br&gt;&lt;br&gt;서울 야외도서관이 서울을 즐기는 새로운 체험 공간으로 떠오르고 있다. 외국 대학과 도서관 관계자들도 운영 방식을 배우려고 서울을 찾고 있다.&lt;br&gt;&lt;br&gt;서울시가 지난 5월 처음 선보인 라이브러리 투어는 전문 가이드와 함께 야외도서관을 체험하는 프로그램이다. 올해 아홉 차례 진행했다. 48국에서 온 관광객 377명이 참여했다. 서울시는 외국인 관광객을 위해 야외도서관에 비치한 책 1만2000권 중 20%를 외국어 책으로 채웠다. 오디오북도 운영한다.&lt;br&gt;&lt;br&gt;서울 야외도서관은 2022년 서울광장에서 시작됐다. 잔디밭에 ‘빈백 소파’와 텐트, 책장을 놓고 누구나 자유롭게 책을 읽도록 했다. 이후 광화문광장과 청계천으로 확대됐다. 올해는 4월부터 지난 1일까지 운영했다. 서울광장·광화문광장·청계천 등 3곳을 찾은 방문객은 약 187만명이다. 5년간 누적 방문객은 1000만명을 넘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UY7KH7DKPJEWBAX2JELKZJFSOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 운영하는 ‘라이브러리 투어’ 프로그램에 참가한 외국인 관광객들. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 관광객들은 책 읽는 것 자체가 관광 프로그램이 된다는 점을 신선하게 봤다. 불가리아에서 온 츠베토미라 기르기노바씨는 “지루한 도서관을 새로운 야외 활동으로 만든 아이디어가 굉장히 새롭다”며 “한국 여행에서 가장 인상적인 순간 중 하나가 야외도서관 체험”이라고 말했다.&lt;br&gt;&lt;br&gt;지난해부터 올해 9월까지 해외 15개 기관 관계자 181명이 서울 야외도서관을 방문했다. 미국 펜실베이니아주립대, 대만 타이중 뮤지엄라이브러리, 스웨덴 랜스크로나 시립도서관, 싱가포르 국가도서관위원회 등이다. 서울시 관계자는 “도서관 시설뿐 아니라 세세한 운영 방식, 독서 프로그램까지 궁금해한다”고 했다. &lt;br&gt;&lt;br&gt;서울시가 추진하는 공적개발원조(ODA) 사업에도 야외도서관이 포함됐다. 그동안 해외 도시들은 서울 지하철과 버스중앙차로 등 대중교통 정책에 관심을 보였지만, 최근에는 도서관 운영 방식까지 배우려 한다는 것이다. 엘살바도르와 인도네시아가 서울시 도움을 받아 야외도서관을 조성했다.&lt;br&gt;&lt;br&gt;서울 야외도서관이 인기를 끄는 배경에는 달라진 독서 문화가 있다. 최근 20·30대 사이에서는 책 읽는 것을 멋진 취미로 여기고, 소셜미디어에 독서 경험을 공유하는 ‘텍스트힙’ 문화가 퍼지고 있다. 미국 블룸버그는 지난달 한국 젊은 층 사이에 퍼진 독서 열풍을 소개하면서 청계천 야외도서관을 조명했다. 도심 한복판에서 물소리와 클래식 음악을 들으며 자유롭게 책을 읽을 수 있다는 것이다. 서울시는 야외도서관뿐 아니라 독서클럽 ‘힙독클럽’도 운영한다. 책을 읽고 생각을 나누거나 전문가 해설을 듣는 모임이다. 회원 수가 1만 명이다. &lt;br&gt;&lt;br&gt;서울 야외도서관은 세계적으로 도서관 역할이 바뀌는 흐름과도 맞닿아 있다. 과거 도서관은 책을 빌리거나 조용히 공부하는 곳이었지만 요즘은 사람들이 쉬고 어울리는 공간으로 바뀌고 있다. 핀란드 헬싱키는 2018년 영화관과 녹음실, 카페 등을 갖춘 ‘오디 중앙도서관’을 열었다. 시민들이 자유롭게 머무는 일종의 ‘공공 거실’이다. 네덜란드 틸뷔르흐는 철도 차량 정비공장을 도서관으로 바꿔 도시재생 거점으로 삼았다. 서울은 별도 건물을 짓지 않고 시민들이 즐겨 찾는 광장과 청계천을 도서관으로 바꿨다.&lt;br&gt;&lt;br&gt;최근에는 유명 관광지를 둘러보는 데 그치지 않고 현지인처럼 먹고 쉬면서 일상을 경험하려는 관광도 늘고 있다. 서울 야외도서관에서는 외국인 관광객이 서울 시민과 나란히 앉아 책을 읽고 시간을 보낼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김두한 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/11/06/NFT4S63M2RC7BBWLCHF7IE6Q74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/06/NFT4S63M2RC7BBWLCHF7IE6Q74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲김두한&lt;/b&gt; 별세, &lt;b&gt;김은향&lt;/b&gt;·&lt;b&gt;김은주&lt;/b&gt;·&lt;b&gt;김원동 &lt;/b&gt;표준과학연구원 연구원&lt;b&gt; &lt;/b&gt;부친상, &lt;b&gt;최재유&lt;/b&gt;·&lt;b&gt;이진욱 &lt;/b&gt;장인상, &lt;b&gt;이덕순 &lt;/b&gt;시부상=5일8시 서울성모병원, 발인 7일10시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;&lt;b&gt;▲김주성&lt;/b&gt; 별세, &lt;b&gt;이용자 &lt;/b&gt;남편상, &lt;b&gt;김종우 &lt;/b&gt;SKC 대표·&lt;b&gt;김미영 &lt;/b&gt;부친상, &lt;b&gt;손소영 &lt;/b&gt;시부상=5일9시15분 원주의료원, 발인 7일5시, (033)760-4644&lt;br&gt;&lt;br&gt;&lt;b&gt;▲김희순&lt;/b&gt; 별세, &lt;b&gt;김기욱&lt;/b&gt; 前&lt;b&gt; &lt;/b&gt;인천 송현초 교장 아내상, &lt;b&gt;김정호&lt;/b&gt;·&lt;b&gt;김명호 &lt;/b&gt;경인일보 인천본사 사회부장&lt;b&gt; &lt;/b&gt;모친상, &lt;b&gt;최중경 &lt;/b&gt;서울서남부농협 지점장 장모상, &lt;b&gt;장지혜 &lt;/b&gt;인천일보 경제부장&lt;b&gt; &lt;/b&gt;시모상=5일12시45분 인천 인하대병원, 발인 7일7시10분, (032)890-3180&lt;br&gt;&lt;br&gt;&lt;b&gt;▲이계화&lt;/b&gt; 별세, &lt;b&gt;이인범&lt;/b&gt; 춘천중 교장·&lt;b&gt;이정순 &lt;/b&gt;충남대 교수·&lt;b&gt;이명숙 &lt;/b&gt;부친상, &lt;b&gt;허옥&lt;/b&gt;·&lt;b&gt;문석기 &lt;/b&gt;장인상, &lt;b&gt;박지혜 &lt;/b&gt;춘천시립교향악단 단원 시부상=4일22시39분 강원대병원, 발인 7일8시, (033)254-5611&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임실 ‘사선녀’ 수상자들</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/06/HGAHX63G2JGYFN2HYN7H625KJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/HGAHX63G2JGYFN2HYN7H625KJU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCBKJAFZL5BMXJZQ6XOVGTVLWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제40회 전북 임실 사선녀 선발 전국 대회’ 수상자들이 5일 서울 중구 조선일보사를 방문했다. 뒷줄 왼쪽부터 시계 방향으로 김유진(정), 허미르(향토미인), 손예진(인기상), 김다정(미), 조유진(선), 황선민(진), 최서율(전북일보포토제닉), 김규리(향토미인). 이들은 1년 동안 임실군과 사선문화제 등을 알린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국국제정치학회 2026년 추계학술회의 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/11/06/ROTF2EIG5ZCYTLTIYX3DZG273U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/06/ROTF2EIG5ZCYTLTIYX3DZG273U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:38:00 +0000</pubDate>
-      <content:encoded>▲한국국제정치학회(회장 정한범)는 6일 오후 1시 20분부터 청주대 새천년종합정보관에서 ‘미·중 경쟁과 동맹 현대화 시대, 한국의 안보전략과 통일의 방향’을 주제로 2026년 추계학술회의를 개최한다. 이번 학술회의는 청주대 평화안보연구소와 공동 주최하고 국방부가 후원한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/11/06/TYPEPKHYLRAA7CHVI7FSEPORM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/11/06/TYPEPKHYLRAA7CHVI7FSEPORM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27G34SIBDZHS5BC3FQ6C76Z7UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-11-6일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 30일 ‘우리 아기가 태어났어요’ 코너에 실린 이나은&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 11월 6일</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/06/PG65Y3PUOBGMTEG6XYHXLB22X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/06/PG65Y3PUOBGMTEG6XYHXLB22X4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM2Z2JVORNATDKRP6UUA5SJ4KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[스피킹이 강해지는 영어] on the lookout</title>
