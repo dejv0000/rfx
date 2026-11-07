@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“날 마루타로 만들어” 횡설수설... 세브란스 흉기 난동 50대女 구속</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/07/EIKMP5F6ONEA5L6COJ5LXH7UMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/EIKMP5F6ONEA5L6COJ5LXH7UMU/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 12:00:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTIMTDG5QTMNJZMI3TIZRVGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신촌 세브란스병원에서 정신건강의학과 의사에게 흉기를 휘두른 50대 여성이 7일 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 신촌 세브란스 병원에서 흉기를 휘둘러 정신과 교수를 다치게 한 혐의를 받는 50대 여성이 구속됐다.&lt;br&gt;&lt;br&gt;서울서부지법 박석근 부장판사는 7일 오후 3시부터 살인미수 혐의를 받는 50대 여성 A씨에 대해 구속 전 피의자 심문(영장실질심사)을 진행하고 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;이날 법원에 출석한 A씨는 ‘왜 의사에게 흉기를 휘둘렀느냐’는 질문에 “2018년에 연세대 정신과에서 내과 치료를 안 해주고 당뇨를 만들었다”고 횡설수설하며 답했다. 이어 “연세대가 범죄자로 만들었다” “인생 끝나게 만들고 가정 파탄 나게 만들고 마루타로 만들었다”고 소리 질렀다.&lt;br&gt;&lt;br&gt;‘피해자에게 미안한 마음은 없느냐’는 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 신촌 세브란스 병원 5층 진료실에서 칼을 휘둘러 정신건강의학과 의사의 얼굴, 손 등을 다치게 한 혐의를 받는다. 피해 교수는 약 5㎝ 길이 상처를 입었으나 생명에는 지장이 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;그는 경찰 조사에서 “다른 병원에 가려고 했으나 세브란스 병원 의사가 다른 병원과 짜고 (다른 병원으로) 진료받으러 가는 것을 막아 화가 났다“는 취지로 진술했다.&lt;br&gt;&lt;br&gt;한편 경찰은 범행 당시 살인의 고의가 있었다고 보고 체포 당시 적용한 특수상해 혐의 대신 살인미수 혐의를 적용해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘은평 옛 연인 살해’ 60대 男 구속...法 “도망 염려”</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/07/KBVGDEGSC5E3BOFN2TDZN7VX24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/07/KBVGDEGSC5E3BOFN2TDZN7VX24/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Nov 2026 12:17:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R67AIGLMMVOVJHGMY3CA2FGKHM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 최지환 기자 = 서울 은평구에서 전 연인이던 70대 여성을 살해한 60대 남성 A 씨가 7일 오후 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.11.7/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구에서 옛 연인을 살해한 혐의를 받는 60대 남성이 7일 구속됐다.&lt;br&gt;&lt;br&gt;서울서부지법 박석근 부장판사는 이날 오후 3시부터 살인 혐의를 받는 60대 남성 길모씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행하고 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;길씨는 지난 5일 서울 은평구 불광동에 있는 자택에서 옛 연인이던 70대 여성 A씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;길씨는 이날 오후 2시 30분쯤 영장실질심사를 받기 위해 법원에 출석했다. 길씨는 ‘전 연인을 왜 살해했느냐’ ‘피해자를 집에 오라고 협박했느냐’ ‘전자발찌를 풀 때까지 기다린 것이냐’ 등 질문에 아무런 답변을 하지 않았다.&lt;br&gt;&lt;br&gt;길씨는 경찰 조사에서 “대화 중 시비가 붙어 화가 나 살해했다”며 혐의를 인정했다. 이어 “범행 후 수면제를 복용했다”는 취지로 진술했다고 한다.&lt;br&gt;&lt;br&gt;사건 당일 A씨 옆에서 의식 불명 상태로 발견된 길씨는 병원에서 치료를 받다 상태가 호전돼 6일 오전 퇴원했다. 길씨가 퇴원하자마자 경찰은 길씨에 대해 첫 조사를 진행했다.&lt;br&gt;&lt;br&gt;앞서 피해 여성 A씨는 과거에도 경찰에 4차례 길씨를 신고했다. 길씨는 스토킹처벌법 위반 등 혐의로 지난 9월 이미 두 차례 송치되기도 했다.&lt;br&gt;&lt;br&gt;지난 7월 서울 마포경찰서는 A씨 집을 찾아가 목을 조른 혐의로 길씨를 긴급 체포했다. 이어 스토킹처벌법 위반, 폭행, 절도 등의 혐의로 길씨에 대해 구속영장을 신청했으나 검찰 단계에서 영장이 기각됐다.&lt;br&gt;&lt;br&gt;당시 검찰은 폐암 4기인 길씨가 암 수술을 받은 지 얼마 지나지 않아 건강 상태가 좋지 않았던 점, 길씨가 혐의를 강하게 부인한 점, 일부 범죄 사실에 대해 보완 수사가 필요한 점 등을 참작해 영장을 청구하지 않았다.&lt;br&gt;&lt;br&gt;이후 경찰은 길씨에 대해 구치소 유치와 위치추적 전자장치 부착 등 잠정 조치를 신청했다. 길씨는 지난 7월 23일부터 8월 22일까지 한 달간 구치소에 유치됐다. 석방된 뒤 지난달 22일까지 두 달간 전자발찌를 부착했다. 사건 발생 2주 전까지 전자발찌를 부착했던 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>단양 만천하스카이워크 짚와이어 운행 중 멈춰…여성 승객 30분간 공중에 매달려</title>
       <link>https://www.chosun.com/national/incident/2026/11/07/B7RNN54JQZA35DR2JGO2QGX4YI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/07/B7RNN54JQZA35DR2JGO2QGX4YI/</guid>
@@ -877,15 +895,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3IVSA4B4NBIZFSICU4YZRXANY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘文 생가 복원’ 등 거제 역사문화 공간 사업, 與 주도 가결</title>
-      <link>https://www.chosun.com/national/2026/11/05/ZZPNSNVCXVFKPI4UJOKYY5UHKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/11/05/ZZPNSNVCXVFKPI4UJOKYY5UHKI/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 13:23:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRGMOJTGBSTEYJRGQ3DGYTGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;거제 근현대 역사문화 소통공간 조감도. /거제시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 생가 복원 등이 포함된 경남 거제시의 110억원 규모 역사·문화 공간 조성 사업이 여야 간 찬반 갈등 끝에 첫발을 뗐다.&lt;br&gt;&lt;br&gt;거제시의회는 5일 제266회 제1차 정례회 제5차 본회의에서 행정복지위원회가 의결한 ‘2027년 공유재산 관리 계획안’ 수정안을 폐기하고, 집행부가 제출한 원안을 가결했다. 표결에는 전체 의원 16명이 참여해 9명이 찬성, 6명이 반대, 1명이 기권했다. 거제시의회는 더불어민주당 10명, 국민의힘 6명으로 민주당이 다수당을 차지한다. &lt;br&gt;&lt;br&gt;앞서 지난달 30일 상임위인 행정복지위는 안건 예비 심사에서 4건의 사유지 매입 계획 중 ‘근현대 역사문화 소통공간 조성사업의 건’을 제외한 3건만 추진하기로 수정 가결했었다. &lt;br&gt;&lt;br&gt;‘근현대 역사문화 소통 공간 조성 사업’은 거제시가 문 전 대통령 생가가 있는 거제면 명진리 남정마을 일원을 중심으로 지상 전시·교육·문화 교류 시설과 야생화 정원과 광장 등을 갖춘 사업을 추진하는 내용을 담고 있다. 총 사업비는 109억9900만원 규모로 추산된다. 이 중 문 전 대통령 생가 복원비만 6억원이다. 사업 완료 시점은 2031년이다. 시는 우선 토지 15필지(7300여 ㎡), 건물 4동을 21억1000만원에 사들이는 공유재산 관리계획안을 시의회에 제출했다.&lt;br&gt;&lt;br&gt;상임위에서 국민의힘 의원들은 “지난 8월 집중호우 피해 복구로 내년 예산이 턱없이 부족한데 시급하지 않은 사업을 이 시국에 내놓은 것은 맞지 않는다” “수해 복구도 안 됐는데 대규모 예산을 투입하는 사업을 추진한다고 해 시민들의 전화를 많이 받고 있다”며 반대했다. 1시간이 넘는 논쟁 끝에 이뤄진 거수 투표에서 찬성 4명, 반대 4명이 나왔다. 행정복지위는 전체 위원 8명 중 민주당 4명, 국민의힘이 4명이다. 회의 규칙상 가부동수는 부결이다.&lt;br&gt;&lt;br&gt;하지만 거제시의회 다수당을 차지하는 민주당은 ‘본회의’에서 상임위 결정을 뒤집었다. 행정복지위에서 가결된 수정안에 대해 민주당 의원들을 중심으로 이의가 제기됐다. 결국 표결에 들어가 9명 반대, 6명 찬성, 1명 기권으로 수정안은 부결돼 폐기됐다. 이어 집행부가 낸 원안에 대한 표결이 이뤄졌고, 민주당 주도로 통과됐다.&lt;br&gt;&lt;br&gt;거제시는 근현대 역사 문화 소통 공간을 거점으로 문민정부를 출범한 김영삼 전 대통령 생가와 기록전시관, 일제강점기 병참기지로 이용된 지심도, 전쟁과 피란의 역사를 보여주는 포로수용소 유적공원과 흥남철수기념공원, 대통령 휴양지인 저도 등을 연결해 지역 근현대 역사 문화 관광 벨트를 구축한다는 명분을 내세우고 있다. &lt;br&gt;&lt;br&gt;사업의 첫 단추가 될 필지 등 매입 계획이 시의회 문턱을 넘었지만, 향후 재원 마련 등 과제는 남아있다. 거제시는 총 사업비의 40%인 50억원을 국·도비로 충당하겠다는 계획이다. 하지만 국·도비 지원 여부는 불투명하다. 특정 정치인 우상화에 대한 지역사회 반감도 있어 사업 추진 과정에서 진통은 계속될 전망이다. 문 전 대통령 생가 복원은 대통령 취임 초기인 2017년에도 추진된 바 있다. 하지만 당시 청와대의 만류와 여론 부담 등으로 보류됐었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 기저질환 없던 60대, 무릎수술 다음날 사망</title>
       <link>https://www.chosun.com/national/national_general/2026/11/05/WZ4ZUNKQWBA4JMU33QAZ3M7URU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/05/WZ4ZUNKQWBA4JMU33QAZ3M7URU/</guid>
@@ -893,15 +902,6 @@
       <description/>
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTSNBUGJRDCZTEGYZDGYJRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 광역수사단./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 병원에서 무릎 인공관절 수술을 받은 60대 여성이 수술 다음 날 숨진 사건과 관련해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 광역범죄수사대 의료사고 전담수사팀은 강남경찰서에서 사건을 넘겨받아 수사 중이라고 5일 밝혔다. 경찰은 병원장 A씨와 내과 의사 B씨를 업무상 과실치사 혐의로 수사하고 있다.&lt;br&gt;&lt;br&gt;숨진 안모(69)씨는 지난 6월 23일 해당 병원에서 무릎 인공관절 수술을 받은 뒤 당일 밤부터 호흡곤란과 빈맥 등의 증세를 보였다. 이튿날인 24일 심정지 상태에 빠져 강남세브란스병원으로 이송됐으나 숨졌다. 경찰은 환자의 상태가 악화하는 과정에서 상급 병원으로의 이송이 지연됐다는 의혹 등을 수사하고 있다. 한국의료분쟁조정중재원에서도 이번 사건과 관련한 의료 분쟁 조정 절차가 진행 중이다.&lt;br&gt;&lt;br&gt;유족 측은 “기저질환도 없던 어머니가 수술받은 다음 날 숨졌다”며 “산소포화도가 떨어지고 의식 저하가 나타났을 때 진작 상급 병원으로 옮겼어야 하는데 조치가 늦어진 것 아니냐”고 주장했다.&lt;br&gt;&lt;br&gt;병원 측은 “당시 내과 전문의가 환자를 직접 진찰하고 의학적 판단에 따라 심폐소생술 등 필요한 조치를 시행했다”며 “객관적인 진료기록과 전문적인 의료감정을 통해 법적 책임이 공정하게 판단되기를 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰의 의료사고 전담수사팀은 2014년 가수 고(故) 신해철씨 사망 사건을 계기로 이듬해 신설됐다. 환자 사망 등 중대한 의료사고를 수사하는 조직으로, 서울청 광수대 의료사고 전담수사팀은 앞서 2017년 ‘이대목동병원 신생아 집단 사망 사건’ 등을 수사해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지하철 파업하나… 서교공 노조 쟁의행위 가결</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/05/24TSJVQUMZHTTIHCZUNT4GJRXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/05/24TSJVQUMZHTTIHCZUNT4GJRXQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Nov 2026 11:29:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSDIY3BGIYDQZJTMUZDSZBVMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 2호선 시청역에서 시민들이 지하철을 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사 노동조합이 임금 협상 결렬에 따라 쟁의 행위를 가결하고 오는 20일부터 준법 투쟁에 들어간다. 교섭에 진전이 없으면 이달 말 파업에 나설 가능성도 있다.&lt;br&gt;&lt;br&gt;서울교통공사 제1노조인 서울교통공사노조는 지난 2~5일 조합원을 대상으로 쟁의 행위 찬반 투표를 진행한 결과, 전체 조합원 9201명 중 7782명(84.6%)이 투표했고 이 중 6715명(86.3%)이 찬성했다고 5일 밝혔다. 노조는 이에 따라 20일부터 준법 투쟁을 시작하고, 이후에도 사측과의 협상이 계속 평행선을 달리면 이달 말 파업에 나설 것으로 보인다.&lt;br&gt;&lt;br&gt;노조는 올해 임금 협상에서 임금을 정부 지침에 따라 3.5％ 올리고, 공사가 추진 중인 2212명 규모의 인력 감축 계획을 철회하라고 요구하고 있다. 또 현재 부족한 인력 1313명을 올해 안에 새로 뽑아야 한다는 입장이다. 지하철 무임 승차 등 공공 서비스에 드는 비용을 정부가 지원하고, 현장에서는 반드시 2인 1조로 일하도록 해달라고도 요구했다.&lt;br&gt;&lt;br&gt;앞서 노조는 사측과의 교섭이 결렬되자 지난달 서울지방노동위원회에 노동쟁의 조정을 신청했다. 하지만 노사가 끝내 입장 차를 좁히지 못하면서 지난 2일 조정 중지 결정이 내려졌다.&lt;br&gt;&lt;br&gt;서울교통공사는 서울 지하철 1~8호선 전 구간과 9호선 2·3단계 구간을 운영하고 있다. 지난해에도 노조가 파업을 예고했지만, 파업 예정일인 12월 12일 새벽 노사가 협상을 타결하면서 파업은 철회됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>창신9구역 재개발, 4000만원 물품 약속 논란… 주민 동의서 다시 받는다</title>
