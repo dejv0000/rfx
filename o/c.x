@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘AI 안경 의혹’ 세무사 시험장엔 CCTV 없어, 감독관들 “특이 사항 없었다”</title>
+      <link>https://www.chosun.com/national/labor/2026/11/13/A7ZTH5ENVBEGLGRHV63QZYUNDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/11/13/A7ZTH5ENVBEGLGRHV63QZYUNDI/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 02:41:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQTANTEMZRDKNZRHE4TGOLDGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세무사 시험 수석합격자 점수/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세무사 자격 시험 수석 합격자의 인공지능(AI) 안경 사용 의혹’과 관련해 시험을 주관한 한국산업인력공단이 현재까지 부정행위를 의심할 만한 정황은 발견되지 않았다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;한국산업인력공단은 이날 “해당 수험자의 제1차 및 제2차 시험을 감독한 감독위원 4명에게 유선으로 확인한 결과, 시험 당시 스마트 안경 사용 등 부정행위를 의심할 만한 행동이나 특이 사항은 없었다는 답변을 받았다”고 밝혔다. 공단은 현재 2차 시험 논술형 답안지를 채점 전문가에게 다시 검토받고 있다고 한다.&lt;br&gt;&lt;br&gt;이번 논란은 올해 세무사 수석 합격자 A씨가 1차 시험 160문제 중 단 한 문제만 틀려 400점 만점에 397.5점을 받은 사실이 알려지면서 불거졌다. 올해 ‘유달리 어려웠다’는 평가를 받는 1차 세무사 시험에서 A씨는 재정학(97.5점)을 제외한 나머지 세법학개론·회계학개론·상법 과목에선 모두 100점을 기록했다.&lt;br&gt;&lt;br&gt;A씨가 시험을 본 고사장엔 감독관 2명이 배치됐다고 한다. 고사장은 5열 4행으로 좌석이 배치돼 있었는데 1차 시험의 경우 교단 기준 둘째 줄 중앙에서, 제2차 시험의 경우 첫째 줄 중앙에서 시험을 봤다.&lt;br&gt;&lt;br&gt;공단 측은 “시험 당시 감독위원 교육, 전자·통신 기기 확인 절차도 정상적으로 이뤄졌고 1차 시험의 전산 자동 판독 채점 자료에서도 특이 사항은 발견되지 않았다”며 “1차 시험 공고에 스마트폰·스마트워치 등 전자·통신 기기 일체를 반입 금지 물품으로 명시하고, 수험표에도 시험 중 해당 기기를 신체에 소지·착용할 경우 당해 시험이 정지 및 무효 처리됨을 안내했다”고 설명했다.&lt;br&gt;&lt;br&gt;또 전국 시험 시행 담당자에게 스마트안경에 대한 감독 강화와 금속탐지기 사전 준비를 조치했고, 2차 시험에서는 스마트 안경 확인 절차, 스마트 안경 주요 기종 등 관련 사항을 보강한 감독위원 교육 자료를 마련해 시험에 적용했다고 했다.&lt;br&gt;&lt;br&gt;다만 이 시험장에 폐쇄회로(CC)TV는 설치되지 않아, 영상으로 시험 당시 상황을 확인하는 것은 어려운 상황이다. 공단 관계자는 “부정행위를 직접 목격했다는 신고는 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘세브란스 흉기 피습’ 50대 여성, 구속 송치…경찰, 임세원법 적용</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/13/IIGC2DWMSRFJ5AEWGWNERIH4CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/IIGC2DWMSRFJ5AEWGWNERIH4CU/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Nov 2026 23:42:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTIMTDG5QTMNJZMI3TIZRVGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신촌 세브란스병원에서 정신건강의학과 의사에게 흉기를 휘두른 50대 여성이 7일 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 신촌 세브란스 병원에서 흉기를 휘둘러 정신과 교수를 다치게 한 50대 여성을 경찰이 구속 송치했다.&lt;br&gt;&lt;br&gt;서울 서대문경찰서는 13일 살인미수, 의료법 위반, 업무방해 등 혐의로 50대 여성 A씨를 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 신촌 세브란스 병원 5층 진료실에서 칼을 휘둘러 정신건강의학과 의사의 얼굴, 손 등을 다치게 한 혐의를 받는다. 피해 교수는 약 5㎝ 길이 상처를 입었으나 생명에는 지장이 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 임세원법(개정 의료법)을 적용했다. 이 법은 의료인에게 상해를 입힐 경우 7년 이하 징역 등에 처하도록 하고, 100병상 이상 병원에 보안 전담 인력 배치와 비상벨 설치를 의무화하는 내용이 골자다.&lt;br&gt;&lt;br&gt;중상해는 3년 이상 10년 이하의 징역, 사망에 이르게 한 경우 무기 또는 5년 이상의 징역에 처할 수 있다. 경찰은 A씨에게 상해에 해당하는 규정을 적용했다.&lt;br&gt;&lt;br&gt;한편 A씨는 경찰 조사에서 “다른 병원에 가려고 했으나 세브란스 병원 의사가 다른 병원과 짜고 (다른 병원으로) 진료받으러 가는 것을 막아 화가 났다“는 취지로 진술했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘성북구 10대 살해’ 50대 남성, 구속영장 심사 불출석</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/13/OO7L4OZ7YVGTFIEWXTBROK2EKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/OO7L4OZ7YVGTFIEWXTBROK2EKE/</guid>
+      <dc:creator>정동하 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 02:11:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3GKZLCGEYGMOLCMIZTMMBZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성북구 10대 A양 살인 사건 현장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성북구의 한 공유숙박업소에서 10대 여성을 살해한 혐의를 받는 50대 남성이 구속 전 피의자 심문(영장실질심사)에 출석하지 않았다.&lt;br&gt;&lt;br&gt;서울북부지법은 13일 오전 10시 30분부터 살인 혐의를 받는 진모(59)씨에 대한 영장실질심사를 진행했다. 진씨의 구속 여부는 이르면 이날 오후 결정될 것으로 보인다.&lt;br&gt;&lt;br&gt;그러나 진씨는 이날 법정에 나타나지 않았다. 서울 성북경찰서는 진씨가 계속해서 영장실질심사 참석 포기 의사를 표시해 법원에 통보했다고 밝혔다.&lt;br&gt;&lt;br&gt;진씨는 지난 10일 오후 서울 성북구 정릉동의 한 공유숙박업소에서 미리 준비한 흉기로 A(15)양을 살해한 혐의를 받는다. 11일 오전 1시 25분 신고를 받고 출동한 경찰은 오전 1시 40분쯤 진씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;진씨는 경찰 조사에서 진술을 거부한 것으로 전해졌다. 경찰은 진씨가 구속되는 대로 프로파일러를 투입해 구체적 범행 동기와 사전 계획 여부 등을 집중적으로 추궁한다는 방침이다.&lt;br&gt;&lt;br&gt;경찰은 진씨가 범행 전 미리 흉기를 준비하고, 범행 후 흉기와 피해자의 휴대폰을 버린 점 등으로 미뤄봤을 때 계획범죄일 가능성이 높다고 보고 있다. 다만 현재까지 피의자 신상공개에 관해 검토하진 않고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;A양은 지난 1월 진씨의 20대 아들이 저지른 미성년자의제강간 사건의 피해자다. 당시 A양 측 부모가 진씨 아들을 고소해 서울 노원경찰서가 지난 3월 불구속 송치했지만, 해당 사건은 기소되지 않았다. 경찰은 진씨와 사실혼 관계였던 20대 김모씨와 아들, A양 등이 얽힌 별도의 절도·장물취득·사기 사건도 수사 중이다.&lt;br&gt;&lt;br&gt;앞서 성북경찰서는 12일 오전 진씨에 대한 구속영장을 신청했고, 서울북부지방공소청이 같은날 오후 법원에 영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고교생 4명 중 1명 하루 5시간도 못 자 </title>
+      <link>https://www.chosun.com/national/education/2026/11/13/4BIJC45TUFDSHOPNKEWPTEX26I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/13/4BIJC45TUFDSHOPNKEWPTEX26I/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 01:11:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMYWADGEFNPH3MFXU44EZRFEJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12일 울산 중구 중앙고등학교 3학년 학생들이 수업을 듣고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학생 4명 중 1명은 평일 하루 평균 5시간도 자지 못하는 것으로 나타났다. 수면시간이 짧을수록 스트레스와 우울감을 경험하거나 자살을 생각한 비율도 높았다.&lt;br&gt;&lt;br&gt;13일 한국청소년정책연구원이 발간한 ‘청소년 정신건강 증진을 위한 수면 관련 요인 분석’에 따르면 고등학생의 27.3%는 평일 하루 평균 수면시간이 5시간 미만인 것으로 조사됐다. 6시간 미만인 학생도 59.1%에 달했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q327ZE3RRRCCFBPRU3XWUYHX44.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 오어진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하루 5시간 미만 자는 청소년 중 최근 1년간 자살을 생각한 적이 있다는 비율은 17.1%로, 8시간 이상 자는 청소년(8.2%)의 2배를 넘었다. 실제 자살 시도 경험률도 각각 3.9%, 1.9%로 2배가량 차이 났다. 스트레스를 많이 느낀다는 응답은 5시간 미만 수면 집단에서 57.9%로, 8시간 이상 수면 집단(29.2%)의 약 2배였다. 우울감 경험률도 각각 33.4%, 18.9%로 나타났다.&lt;br&gt;&lt;br&gt;수면시간은 고등학교 진학을 기점으로 크게 줄었다. 중학교 3학년 때 하루 평균 6.4시간이던 수면시간은 고등학교 1학년 때 5.6시간으로 48분 감소했다. 고등학교 2~3학년의 평균 수면시간도 5.6시간에 그쳤다.&lt;br&gt;&lt;br&gt;청소년 전체의 주말 평균 수면시간은 8.2시간으로 주중(6.3시간)보다 약 2시간 길었다. 연구진은 주중과 주말의 수면시간 차이가 클수록 자살 생각과 시도 경험률이 높아지는 등 정신건강에 부정적인 영향을 미칠 수 있다고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘은평 옛 연인 살해’ 60대 男 구속 송치...‘보복살인’ 혐의</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/13/D24D77OTPNB2XBENWUPZPNPBLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/D24D77OTPNB2XBENWUPZPNPBLA/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 01:53:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R67AIGLMMVOVJHGMY3CA2FGKHM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 최지환 기자 = 서울 은평구에서 전 연인이던 70대 여성을 살해한 60대 남성 A 씨가 7일 오후 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2026.11.7/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 은평구에서 옛 연인을 살해한 혐의를 받는 60대 남성이 13일 구속 송치됐다. 경찰은 이 남성을 송치하면서 혐의를 살인에서 보복살인으로 변경했다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 60대 남성 길모씨를 특정범죄 가중처벌법상 보복범죄(보복살인), 스토킹처벌법 위반 등 혐의로 구속 송치했다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;길씨는 지난 4일 서울 은평구 불광동에 있는 자택에서 옛 연인이던 70대 여성 A씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 길씨는 4일 낮 12시쯤 A씨를 자신의 집으로 유인했다. 이후 주먹과 아령으로 A씨 얼굴을 폭행하고 목을 조르는 등 방식으로 A씨를 살해한 것으로 조사됐다. 그 과정에서 A씨 휴대전화도 망가뜨렸다.&lt;br&gt;&lt;br&gt;길씨는 경찰 조사 과정에서 “말다툼 과정에서 우발적으로 범행했다”는 취지로 주장했다고 한다. 하지만 경찰은 길씨가 범행 도구를 사전에 조사했다는 점 등을 토대로 길씨가 A씨를 살해할 마음을 먹고 자신의 집으로 유인했다고 봤다.&lt;br&gt;&lt;br&gt;범행 이전인 지난달 23일부터 범행이 발생한 4일까지 17차례에 걸쳐 반복적으로 A씨의 주거지와 회사 등을 찾아가는 스토킹 범죄도 벌인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 5일 오전 6시 40분쯤 A씨 아들의 실종 신고를 접수해 수색했다. 이후 길씨의 자택에서 사망한 A씨와 의식을 잃고 쓰러진 길씨를 발견했다. 경찰은 길씨를 살인 혐의로 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;한편 길씨는 지난 7월에도 A씨 집을 찾아가 목을 조른 혐의로 체포됐다. A씨를 검거한 서울 마포경찰서는 스토킹처벌법 위반, 폭행, 절도 등의 혐의로 길씨에 대해 구속영장을 신청했으나 검찰이 영장을 불청구했다.&lt;br&gt;&lt;br&gt;당시 검찰은 폐암 4기인 길씨가 암 수술을 받은 지 얼마 지나지 않아 건강 상태가 좋지 않았던 점, 길씨가 혐의를 강하게 부인한 점, 일부 범죄 사실에 대해 보완 수사가 필요한 점 등을 참작해 영장을 청구하지 않았다.&lt;br&gt;&lt;br&gt;이후 경찰은 길씨에 대해 구치소 유치와 위치추적 전자장치 부착 등 잠정 조치를 신청했다. 길씨는 지난 7월 23일부터 8월 22일까지 한 달간 구치소에 유치됐다. 석방된 뒤 지난달 22일까지 두 달간 전자발찌를 부착했다. A씨가 사망하기 2주 전까지 전자발찌를 부착했던 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주4·3기록물, 대구시민과 처음 만난다</title>
+      <link>https://www.chosun.com/national/regional/2026/11/13/SRDKRWJK7BDKXKIE57E4HRRPKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/13/SRDKRWJK7BDKXKIE57E4HRRPKM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 02:07:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRO5QRYDLNAPDOTWQSKSJ3NJTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'진실을 밝히다 제주4·3기록물' 순회전시 포스터./국채보상운동기념사업회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 4·3의 역사적 진실을 담은 기록물들이 대구 시민과 처음 만난다.&lt;br&gt;&lt;br&gt;국채보상운동기념사업회와 제주4·3평화재단은 15일부터 다음 달 10일까지 국채보상운동기념도서관 2층 기획전시실에서 ‘진실을 밝히다-제주4·3기록물’ 순회전시를 연다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;이번 전시는 지난 2025년 유네스코 세계기록유산에 등재된 ‘제주4·3기록물’을 대구에서 처음으로 선보이는 자리라고 기념사업회 측은 밝혔다. &lt;br&gt;&lt;br&gt;제주 4·3의 진실이 어떻게 기록되고 축적되어 왔는지, 그 과정에서 기록이 지닌 역할과 가치를 다각적으로 조명하는 이번 전시에서는 형무소에서 희생자가 보낸 엽서, 시민사회와 언론의 진상규명 활동 자료, 국가 차원의 공식 조사 보고서 등 다양한 사료가 공개된다. &lt;br&gt;&lt;br&gt;국채보상운동기념사업회 관계자는 “국채보상운동의 발원지이자 세계기록유산의 도시인 대구에서 제주4·3기록물을 최초로 공개해 지역 간 역사적 공감대를 넓히고 우리나라 세계기록유산의 소중함과 시대적 가치를 대구 시민들과 함께 나누고자 기획했다”고 밝혔다.&lt;br&gt;&lt;br&gt;순회 전시와 함께 17일에는 양 기관이 보유한 역사적 기록 유산의 활용 촉진 및 대국민 접근성 향상을 위한 업무 협약도 체결한다. &lt;br&gt;&lt;br&gt;이번 업무 협약에 따라 양 기관은 향후 2년간 역사·기록 유산의 보존과 활용, 접근성 제고에 힘을 모으기로 했다. 이를 위해 역사·기록 유산의 보존 및 활용을 위한 공동 노력과 기록 유산의 가치를 높이고 이해를 돕는 전시 등 공동 사업 기획·추진, 대국민 접근성 제고를 위한 협력, 그리고 학술 및 인적 교류 협의 등에 나설 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 양천구서 아내 살해 후 자진신고한 80대 체포</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/13/5VSA54HPINAWVLFIDHVP2BKNEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/5VSA54HPINAWVLFIDHVP2BKNEE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 02:07:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSGCNZZMM3TCOJZMY4GKMRSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 양천경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 양천구의 한 주택에서 70대 아내를 살해하고 직접 신고한 80대 남성이 체포됐다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 80대 남성 A씨를 살인 혐의로 현행범 체포해 조사 중이라고 13일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오전 2시쯤 서울 양천구 신월동 소재 주택에서 70대 아내를 살해한 혐의를 받는다. A씨는 범행 직후 경찰에 직접 전화해 “아내가 나를 죽이려고 해 내가 아내를 죽였다. 내가 범인”이라고 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;해당 신고를 받고 출발한 경찰은 오전 2시 20분쯤 현장에서 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;현재 A씨를 상대로 구체적인 범행 경위를 조사 중인 경찰은 수사 결과를 토대로 구속 영장을 신청한다는 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토요일 전국에 가을비...주말동안 기온은 포근</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/11/13/VDVP5NHN4VHUPCTLX3QFFGXQXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/13/VDVP5NHN4VHUPCTLX3QFFGXQXQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 01:32:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM2DQNRVGE2TKOBZGAZWCOBTMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비가 내린 지난 8일 오후 서울 종로구 광화문 일대에서 시민들이 우산을 쓰고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 14일 전국에 가을비가 예고됐다. 비는 내리지만, 비교적 따뜻한 남풍이 유입되며 주말 동안 기온은 포근할 것으로 예상된다.&lt;br&gt;&lt;br&gt;13일 기상청에 따르면, 중국 산둥반도 부근에서 동쪽으로 이동하는 기압골의 영향으로 13~15일 비가 예보됐다. 이번 비는 13일 오전 제주도에서 시작돼 오후 중 남부·충청으로 확대되겠고, 14일에는 중부를 포함한 전역에서 내릴 전망이다. &lt;br&gt;&lt;br&gt;13~15일 예상 강수량은 수도권·강원도 5~10㎜, 충청 5~30㎜, 호남·영남 5~40㎜, 제주 10~60㎜로 예보됐다. &lt;br&gt;&lt;br&gt;이번 비는 14일 밤 대부분 그치겠으나, 남부와 제주 곳곳에선 15일 새벽까지 이어지는 곳이 있겠다. 비구름대를 동반한 기압골이 15일 오전까지 남부와 제주에 영향을 미친 후, 오후부터는 전국이 중국 북동 지방에 위치한 고기압 가장자리에 들면서 맑을 것으로 예상된다.&lt;br&gt;&lt;br&gt;초겨울과 늦가을을 넘나들던 기온은, 이번 주말에는 다시 큰 폭으로 오르며 포근할 전망이다. 13일 경북 내륙을 중심으로 아침 기온이 영하로 떨어지고 얼음이 어는 등 추웠지만, 주말에는 다시 아침에도 영상권의 기온을 회복하겠다. 14~15일 전국 아침 최저기온은 6~14도, 낮 최고기온은 12~20도로 예보됐다.&lt;br&gt;&lt;br&gt;다음 주 월요일인 16일에는 강원 산지와 동해안에 비나 눈이 내리겠고, 그 밖에 지역에선 구름이 많을 것으로 예상된다. 이후 17~18일에 재차 기압골이 유입되며 전국에 비를 뿌린 뒤, 18일 오후부터 북쪽에서 찬 공기가 내려오며 2027학년도 대학수학능력시험일인 19일 아침에 기온이 큰 폭으로 떨어질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 서울대 공대 외국인 학생 비중 베트남 첫 1위 됐다</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/13/TC2LD2IRNBEVHFBKWAWDI77ITI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/TC2LD2IRNBEVHFBKWAWDI77ITI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 01:12:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSTCYRRGI3WIM3FMQ4DSMZUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 관악캠퍼스 정문 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“베트남에선 K드라마나 소셜 미디어를 통해 서울대가 한국의 꿈의 대학이라는 게 널리 알려져 있어요. 그런 곳에서 공부하고 있다니 매 순간 설렙니다.”&lt;br&gt;&lt;br&gt;올해 가을 학기 서울대 에너지자원공학과에 신입생으로 입학한 베트남 출신 쩐 투 프엉(18)씨의 말이다. 그는 “서울대 공대에서 지원하는 장학금이 입학을 결심하는 가장 중요한 요인이 됐다”며 “해외에서 공부한다는 건 엄청난 재정적 헌신을 필요로 한다. 매 학기 등록금과 생활비 100만원을 지원받을 수 있어 심적 안정감을 가지고 공부에 집중할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;서울대 공대는 지난 2024년부터 매년 베트남 호찌민국립대와 하노이과학기술대 등을 찾아 입시 설명회를 열고 있다. 교수들이 직접 베트남으로 날아가 서울대로 데려올 ‘공학 인재’를 찾아 나선 것이다. 이 같은 노력 덕분에 올해 처음으로 서울대 공대 재학 중인 외국인 학생 중 베트남 출신이 1위를 기록했다. &lt;br&gt;&lt;br&gt;본지가 입수한 자료에 따르면, 2026학년도 2학기 기준 서울대 공대에 재학 중인 외국인 학생 중 베트남 출신이 23명(학부 12명, 석사 11명)으로 가장 많았다. 이는 서울대 공대가 재학생 수를 조사한 10월 1일 기준이다. 지난 1학기만 해도 베트남 출신은 학부생 5명, 석사 9명으로 총 14명 수준이었다. 하지만 지속적인 서울대 교수들의 베트남 현지 리크루팅과 베트남 학생 전용 장학 제도 개편으로 올해 2학기 학부 신입생만 7명이 새로 들어왔다.&lt;br&gt;&lt;br&gt;서울대 공대는 학령 인구 감소와 의대 쏠림으로 연구실이 비어가는 ‘인재 기근’ 해결을 위해 지난 2024년부터 베트남 현지 리크루팅 원정에 나섰다. 특히 베트남이 주목받은 건 베트남의 높은 학구열과 이공계 열풍, 그리고 한국 문화에 빠른 적응이 가능한 불교 문화권이라는 배경 때문이다. 실제로 한 서울대 공대 교수는 “베트남 학생들이 한국어 습득도 빠르고 연구에 성실히 임해 교수와 학생 간 관계가 좋게 유지되는 경우가 많아 평이 좋다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJLZGYONYVF6FIGPCTARJBUSOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 1일 서울대 공대 교수진이 베트남 국립대학교 공과대학(VNU-HANOI)에서 리크루팅을 진행하는 모습./서울대 공대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 서울대 컴퓨터공학부 3학년 재학 중인 꿩아잉(21)씨는 고등학교 시절부터 빅뱅, BTS 등을 통해 한국에 대한 관심이 생겨 유학을 준비하게 됐다고 했다. 꿩아잉씨는 “처음에는 한국어 수업을 듣는 것이 어려웠지만 이제는 언어가 많이 늘어 수업을 이해하는 데 어려움이 없다”며 “저희 같은 외국인 학생을 위해 교수님들이 영어 자료를 별도로 제작해셔 적응에 어려움이 크지 않다”고 했다. &lt;br&gt;&lt;br&gt;베트남 명문대인 하노이공과대학에서 컴퓨터공학을 전공하고 올해 가을 학기 서울대 컴퓨터공학부 석사과정을 시작한 홍(23)씨는 “반도체 설계 관련해 한국의 위상이 점점 높아지고 있는 만큼 좋은 연구 경험이 될 것 같아 한국행을 결정했다”며 “아직 언어는 능숙하지 않지만 학습 환경이 잘 갖춰져 있고 교수님들과 영어 소통이 원활해 만족감이 크다”고 했다. &lt;br&gt;&lt;br&gt;요즘은 특히 삼성, SK하이닉스 등 한국 기업들이 베트남에 대규모 투자를 하면서 ‘공학 인재’로 성공하려는 학생들이 늘고 있다. 홍씨 역시 삼성그룹의 장학금을 받아 서울대에 입학한 경우로, 졸업 후 삼성 반도체 분야에서 일할 예정이다.&lt;br&gt;&lt;br&gt;그런 가운데 서울대는 베트남 공학 인재 확보를 위해 베트남 학생 전용 장학금도 운영 중이다. 서울대 공대는 지난해 공대 학부생 중 매년 40명을 선발해 3년간 총 9000만원을 지원하며 공학 혁신 인재를 키우는 ‘엑셀(EXCEL, Education for X-Caliber Engineering Leaders)’ 프로젝트를 공개했다. 해당 프로젝트에는 국내 학생뿐 아니라 개도국 초우수 학부생을 유치한다는 목표도 담겼다. 그 일환으로 서울대 공대는 후원자들로부터 받은 기부금으로 조성한 DB김준기문화재단 글로벌인재 장학금, LG화학 장학금 등을 베트남 학생 전용으로 만들었다. &lt;br&gt;&lt;br&gt;한편 서울대 공대는 올해도 베트남 현지 리크루팅에 나선다. 오는 15일부터 22일까지 7박 8일간 교수들이 직접 베트남 하노이와 호치민 소재 9개 대학과 관계 기관을 방문한다. 하노이과기대, 투이러이대학교, 삼성베트남R&amp;amp;D연구소, 우정통신기술대(PTIT), 두이탄대, 다낭대, 베트남국립과학대, 호찌민국립공과대, 베트남항공 아카데미 등이다. &lt;br&gt;&lt;br&gt;서울대 공대 관계자는 “베트남이 한국과 문화권도 비슷하고 학부모들의 학구열도 높아 뛰어난 인재들이 많다”며 “베트남 학생들에 대한 교수들 사이 평도 좋아 앞으로 더욱 적극적으로 리크루팅에 나설 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“기분 나쁘게 쳐다봐”… 버스서 10대 폭행한 소방관 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2026/11/13/YE5OIM3WGNDKLAEA4CMQA7AUJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/13/YE5OIM3WGNDKLAEA4CMQA7AUJI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 01:10:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBCQBGMRKVFDHPYWDLQBPCZKCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 동부지원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버스에서 자신을 기분 나쁘게 쳐다봤다는 이유로 10대를 폭행한 소방관에게 1심이 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 부산지법 동부지원 형사2단독 이윤규 판사는 상해 혐의로 기소된 부산 지역 소방관 A씨에게 벌금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 9일 오후 10시 55분쯤 부산 남구의 한 버스 정류장에 정차한 시내버스 안에서 17세 B군의 얼굴을 주먹으로 한 차례 때린 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 B군이 자신을 기분 나쁜 표정으로 쳐다봤다는 이유로 순간 화가 나 범행을 저지른 것으로 조사됐다. 이 폭행으로 B군은 눈 주변에 타박상 등 전치 3주의 상해를 입었다.&lt;br&gt;&lt;br&gt;이 판사는 “A씨는 별다른 이유 없이 피해자를 때려 상해를 가하고 뒤따라온 피해자에게 범행을 부인하는 등 죄질이 좋지 않다. 피해자는 A씨의 엄벌을 탄원하고 있다”며 “다만 A씨가 아무런 범죄 전력이 없는 초범인 점 등을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;부산소방본부 관계자는 “A씨는 지난 6월 징계를 받았다”며 “하지만 상세한 징계 내용은 관련 법상 공개할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공항철도 노사, 경고파업 앞두고 타결… 임금 인상, 안전 인력 확충</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/13/EKK6N7JW5NAZRGYULTGZWV4WGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/EKK6N7JW5NAZRGYULTGZWV4WGY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Nov 2026 22:06:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDBHM4YUC5CKLEBHBC2JNKR4L4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;공항철도 노사 임금협상 잠정합의안 도출./ 공항철도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항철도 노사가 13일 임금 협상을 타결했다. &lt;br&gt;&lt;br&gt;공항철도는 이날 오전 3시 30분쯤 민주노총 공공운수노조 공항철도지부와 2026년 임금협약 11차 교섭을 진행해 잠정 합의안을 도출했다. &lt;br&gt;&lt;br&gt;전날 오후 4시부터 11시간 넘게 이어진 마라톤 회의에서 노사는 전년도 총인건비 대비 4.9% 임금 인상, 안전 인력 21명 확충을 위한 공동 노력, 하위 직급 근속 승진 제도 개선 등에 합의했다. &lt;br&gt;&lt;br&gt;공항철도 노사는 지난 7월부터 임금협약 교섭을 진행했으나, 임금 인상률 등을 두고 합의에 어려움을 겪어왔다. 노조는 지난 1월 12일부터 준법 투쟁에 돌입한 데 이어, 11월 13일 경고 파업을 예고하기도 했다. &lt;br&gt;&lt;br&gt;협상 타결에 따라 이날 오전 5시 8분 첫차부터 예고됐던 경고 파업 계획도 철회됐다. 2007년 공항철도 개통 이래 첫 파업 우려도 해소됐다. &lt;br&gt;&lt;br&gt;공항철도는 일반열차와 직통열차를 기존 운행 시간표에 따라 정상 운행하고 세부 사항을 홈페이지와 SNS(사회관계망서비스)에 안내할 계획이다. &lt;br&gt;&lt;br&gt;박대수 공항철도 사장은 “노사가 마지막까지 대화를 이어가며 합의점을 찾은 것은 의미 있는 결과”라며 “이번 합의를 바탕으로 직원들의 근무 환경 개선을 위한 노력을 이어가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“주식으로 잃은 돈 한방에 벌자” 연차 내고 경매 법정 가는 2030</title>
       <link>https://www.chosun.com/national/national_general/2026/11/13/GYLOP7OKS5DVBEWWCWDVRLJ4ME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/GYLOP7OKS5DVBEWWCWDVRLJ4ME/</guid>
@@ -635,27 +734,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UM7RQRXJP5NUPLRW6HJIXIQCEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 홍수가 발생한 이라크 북부 쿠르드 자치지역의 수도 에르빌에서 복구 작업이 이뤄지고 있다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개발도상국의 기후 위기 대응을 돕기 위해 제공된 이른바 ‘공적 기후 대출’이 오히려 개도국의 재정을 망가뜨리고 있다는 지적이 나왔다. 연간 상환 부담도 4년 새 3배가량 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;지난 10일(현지시간) 국제구호단체 CARE가 제31차 유엔기후변화협약 당사국총회(COP31)에 맞춰 발간한 ‘기후 재원의 부메랑’ 보고서에 따르면, 개도국의 공적 기후 대출 연간 상환 의무는 2020년 69억달러(약 9200억원)에서 2024년 201억달러(약 2조6900억원)로 약 2.9배 늘어난 것으로 추산됐다.&lt;br&gt;&lt;br&gt;CARE는 2011~2024년 보고된 공적 기후 대출 기록 가운데 상환 일정을 추정할 수 있는 원금 약 4890억달러(약 655조300억원)를 분석했다. 그 결과, 대출 전 기간에 걸쳐 갚아야 할 금액은 이자와 산정 가능한 수수료를 포함해 약 6630억달러(약 888조400억원)로 추산됐다. CARE는 기후 재원 지원액만 보면 숫자가 커 보이지만, 상환 부담을 제외하고 개도국에 실제로 얼마나 남는지는 파악하기가 어렵다고 지적했다.&lt;br&gt;&lt;br&gt;특히 홍수 방어 시설이나 가뭄 대비처럼 기후 재해를 줄여도 직접적인 수입을 내기 어려운 사업에는 대출이 적합하지 않을 수 있다고 CARE는 지적했다. 기존 채무 부담이 큰 나라에서는 대출 상환에 예산이 들어갈수록 오히려 다음 재난에 대비할 여력이 줄어들 수 있다는 것이다.&lt;br&gt;&lt;br&gt;CARE는 신규 공적 기후 대출이 2024년 수준인 연간 585억달러(약 78조4000억원)로 유지되고, 대출 조건이 바뀌거나 채무불이행·채무 재조정이 발생하지 않는다고 가정하면 2036년에는 그해 갚아야 할 금액이 새로 빌리는 금액을 넘어설 수 있다고 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“죽어버리겠다”... 집에 불 지른 아파트 주민 방화 혐의 입건</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/12/NRSTFX4W4ZHWFFH45FTQWALNPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/12/NRSTFX4W4ZHWFFH45FTQWALNPE/</guid>
-      <dc:creator>전남광주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Nov 2026 00:58:20 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7GCP4YNS5BPZHOPZE6EZYEAAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방대원들이 지난 11일 오후 6시 33분쯤 전남광주 북구 운암동의 한 아파트 6층에서 발생한 화재 현장에서 인명 수색을 하고 있다. /전남광주소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 아파트에 불을 질러 14명에게 중경상을 입힌 주민이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;전남광주 북부경찰서는 12일 자신의 집에 불을 지른 혐의(현주건조물방화치상)로 40대 A씨를 입건했다고 밝혔다. A씨는 전날 오후 6시 33분쯤 전남광주 북구 운암동의 한 아파트 6층 자신의 집에 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 화재로 70대 경비원이 아파트 13층에서 심정지 상태로 발견돼 병원에 옮겨져 치료를 받고 있다. 소방대원과 또 다른 주민 등 13명도 병원에서 치료를 받았다. A씨도 연기 흡입 등 증세로 병원에서 치료 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨 어머니는 경찰 조사에서 “아들이 집에 불을 질렀다”는 취지의 진술을 한 것으로 알려졌다. A씨는 “죽어버리겠다”면서 옷가지를 모아 불을 질렀다고 한다. 소방 당국과 경찰은 A씨의 집에서 현장 감식을 벌이는 중이다. 경찰은 A씨가 치료를 마치는 대로 체포해 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K7GCP4YNS5BPZHOPZE6EZYEAAA.jpg?auth=26ca97c409d0ba340f006540a5dcbdec857e6950b2ac675207d397710523369b&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
-        <media:description type="plain">소방대원들이 지난 11일 오후 6시 33분쯤 전남광주 북구 운암동의 한 아파트 6층에서 발생한 화재 현장에서 인명 수색을 하고 있다. /전남광주소방본부</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김해서 초등생들 동물 학대 의혹… 고발장 접수돼 경찰 수사 </title>
-      <link>https://www.chosun.com/national/2026/11/12/KTVIPVFNUFEQXIKS3KO3V7GBLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/11/12/KTVIPVFNUFEQXIKS3KO3V7GBLM/</guid>
-      <dc:creator>김해=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Nov 2026 00:22:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QW6FY7YI5ZB5BDMVF4H4KBACQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동물보호단체 라이프는 최근 경남 김해에서 벌어진 초등학생 동물학대 의혹 사건과 관련해 경찰에 고발장을 접수했다고 소셜미디어(SNS)에 관련 내용을 공유했다. /라이프 인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해시 한 아파트 단지에서 초등학생들이 어린 고양이와 새를 학대해 숨지게 했다는 의혹이 제기돼 경찰이 수사에 나섰다. 가해 의혹을 받는 학생들이 현장에서 “촉법소년이라 처벌받지 않는다”는 취지의 말을 했다는 주장까지 나오며 지역사회에 공분이 일고 있다. &lt;br&gt;&lt;br&gt;12일 경찰 등에 따르면, 동물보호단체 ‘라이프’는 지난 10일 김해시 장유동 A초등학교 4학년생들을 동물보호법 위반 혐의로 김해서부경찰서에 고발했다.&lt;br&gt;&lt;br&gt;이 학생들은 최근 아파트 단지 안에서 생후 3개월가량 된 새끼 고양이를 돌로 때려 죽이고, 야구 방망이로 새 둥지를 내리쳐 새끼 새들을 죽인 뒤 사체를 유기했다는 의혹을 받는다. 이와 관련해 지역 온라인 커뮤니티 등에서도 이 사실이 알려지며 공분이 일고 있다.&lt;br&gt;&lt;br&gt;라이프 측은 소셜미디어(SNS)에 관련 고발 사실을 공유하면서 “직접 현장을 찾아 사체가 발견된 장소를 확인하고 관련 자료와 목격자 증언을 살폈다”며 “처음 알려진 내용보다 더욱 심각한 정황들을 확인할 수 있었다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66ZOQCLPOBGQDEBNWKQ7JIJQQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동물보호단체 라이프는 최근 경남 김해에서 벌어진 초등학생 동물학대 의혹 사건과 관련해 경찰에 고발장을 접수했다고 소셜미디어(SNS)에 관련 내용을 공유했다. /라이프 인스타그램 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의혹이 제기된 학생들은 당시 목격자 등에게 “촉법소년이어서 형사처벌을 받지 않는다”고 언급한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 라이프 측은 “어린 나이라는 이유로 생명을 짓밟는 행위가 가볍게 여겨져서는 안 된다”며 “아이들이 자신의 잘못을 직면하고 올바른 방향으로 변화할 수 있도록 하는 과정 역시 반드시 필요하다”고 했다. 라이프 측은 수사 진행 상황을 살피며, 사건 진상을 밝힐 때까지 대응하겠다는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;앞서 동물권 단체 ‘케어’도 이번 의혹과 관련해 성명을 내고 “학생들이 살아 있는 새끼 고양이를 변기에 넣고 물을 내리려 하거나, 야구 방망이로 둥지를 부순 뒤 동물 사체를 인근 유치원 마당에 던지는 등 엽기적 행위를 저질렀다는 제보를 확인했다”며 “일부 학생과 학부모가 ‘구조하려다 벌어진 일’이라며 혐의를 축소·부인하고 있으나, 다수 학생이 학대에 동조했다는 목격자 증언이 확보된 상태”라고 주장했다.&lt;br&gt;&lt;br&gt;해당 아파트 단지에는 이번 사건과 관련해 목격자와 증거를 수집하기 위한 벽보가 나붙는 등 주민 공분이 커지고 있다고 한다. 다만, 지역 사회 커뮤니티에서는 경찰의 수사가 진행 중인 상황에서 사건에 가담했다며 일부 학생 신상이 노출된 것과 관련해 자제를 당부하는 글이 올라오기도 했다. 한 주민은 “경찰 수사가 마무리되지 않은 상황에서 일부 학생 신상을 노출하고 사실 확인 없이 비난하는 것은 자칫 또 다른 피해자를 만들 수도 있다”며 “추측성 댓글과 무분별한 신상 정보 유포를 멈추고 경찰 수사를 기다려야 한다”고 했다. &lt;br&gt;&lt;br&gt;교육 당국도 해당 학교에 장학사를 파견해 사실관계 확인에 나섰다고 한다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “접수된 고발 내용을 토대로 실제 학대 행위가 있었는지 조사할 방침”이라면서도 “피고발인들의 정확한 연령을 확인한 뒤 형사 미성년자에 해당할 경우 법령에 따라 형사처벌은 불가하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강릉 해상서 부부 탄 어선 등표와 충돌… 70대 남편 실종</title>
       <link>https://www.chosun.com/national/regional/2026/11/12/C2A34SKTERDVDNBJIQYLETQLHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/12/C2A34SKTERDVDNBJIQYLETQLHA/</guid>
@@ -674,16 +752,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECMEAQPM3RJJRLSQIIJUY7IKRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 애월읍 새별오름에 관광객들이 찾아와 절정을 맞은 억새 물결을 감상하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주 오름과 목장길을 달리는 트레일러닝대회가 21일 제주시 애월읍 새별오름 일대에서 열린다.&lt;br&gt;&lt;br&gt;제주트레일조직위원회는 21일 제주시 애월읍 새별오름 등지에서 16㎞ 새별코스와 30㎞ 삼별초코스 등 2개 종목으로 진행하는 ’2026 제주 새별100 트레일러닝대회 프리레이스’를 개최한다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 대회는 내년 정식대회 개최에 앞서 코스와 운영체계를 점검하기 위한 시범대회다. &lt;br&gt;&lt;br&gt;대회 코스는 새별오름을 중심으로 오름과 목장길, 산길 등을 연결해 구성했다. 참가자들은 화산활동으로 형성된 독특한 지형과 광활한 초지 경관을 경험하며 제주의 자연 속을 달리게 된다.&lt;br&gt;&lt;br&gt;두 종목 모두 21일 오전 8시에 출발하며 제한 시간은 16㎞ 4시간, 30㎞ 8시간이다. 코스 중간에는 급수와 간식 보급을 위한 체크포인트(CP)를 운영한다. 트레일러닝은 포장도로를 달리는 일반 마라톤과 달리 산길과 숲길, 들길 등 자연지형을 달리는 스포츠다. 오르막과 내리막 등 지형 변화가 많아 체력과 지구력, 자연환경에 대응하는 능력이 요구된다.&lt;br&gt;&lt;br&gt;조직위원회는 이번 프리레이스를 통해 코스의 안전성과 난이도, 참가자 이동 동선, 체크포인트 운영 등을 점검할 계획이다.&lt;br&gt;&lt;br&gt;종목별 50명씩 모두 100명을 선착순 모집하며 참가비는 무료다. 참가자 모집은 제주트레일조직위원회 누리집에서 선착순으로 이뤄진다.&lt;br&gt;&lt;br&gt;이를 바탕으로 내년에는 국내외 트레일러너들이 참여하는 정식 대회로 확대하고 내년 정식 대회는 16㎞ 새별코스와 30㎞ 삼별초코스에 60㎞ 장군코스, 100㎞ 백록코스를 더해 4개 종목으로 진행할 예정이다.&lt;br&gt;&lt;br&gt;코스 명칭에는 제주의 자연과 역사 문화가 담겼다. 새별코스는 새별오름의 목축문화, 삼별초코스는 삼별초와 김통정 장군, 장군코스는 고려 말 목호의 난과 최영 장군, 백록코스는 한라산을 상징한다.&lt;br&gt;&lt;br&gt;고석범 제주트레일조직위원회 위원장은 “제주의 오름과 중산간은 트레일러닝에 적합한 독특한 지형과 경관을 갖추고 있다”며 “자연을 달리면서 제주의 역사와 문화를 함께 경험하는 차별화된 대회로 발전시키겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>유엔 참전용사를 향한 ‘감사의 빛’</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/12/I6G6RRURQJAVFECM64KRQLHEAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/12/I6G6RRURQJAVFECM64KRQLHEAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 16:06:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTF2DKXGWZHOLEV2RFZUUJWJ3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임지훈 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 밤 서울 광화문광장 ‘감사의 정원’에서 23줄기 푸른빛이 하늘로 치솟았다. 제20회 유엔 참전용사 국제추모의 날을 맞아서다. 매년 11월 11일은 6·25전쟁에 참전한 유엔군 용사들을 기리는 날이다. 2020년 법정 기념일로 지정됐다. 23줄기 빛은 우리나라와 6·25전쟁에 참전한 22국을 상징한다. 감사의 정원은 6·25전쟁 참전국의 희생과 헌신을 기리기 위해 지난 5월 개장했다. 높이 6.25m짜리 돌기둥 23개가 남북으로 나란히 늘어서 있다. 한 시민이 조형물 위에 LED 초를 올려놓으며 참전용사들을 추모하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>측근 유죄 확정된 대북송금·백현동까지… 특검, 李 연관성 지우나</title>
       <link>https://www.chosun.com/national/court_law/2026/11/12/RJYTTCWU3ZGJJDDLF5A5FBOAGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/12/RJYTTCWU3ZGJJDDLF5A5FBOAGI/</guid>
@@ -696,24 +764,6 @@
       </media:content>
     </item>
     <item>
-      <title>이용철, 과거 ‘일가족 4명 살인범’ 변호 논란</title>
-      <link>https://www.chosun.com/national/court_law/2026/11/12/B5QZFICEL5EFDOY4GRQLONKPRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/12/B5QZFICEL5EFDOY4GRQLONKPRQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 15:51:00 +0000</pubDate>
-      <content:encoded>이용철 법무부 장관 후보자가 과거 ‘경기 양평 통나무집 일가족 살인 사건’ 상고심에서 피고인 측 변호인단에 이름을 올렸던 것으로 11일 확인됐다. 이 사건은 2002년 3월 25일 정모(당시 45세)씨가 양평군 옥천면 통나무집에서 지인 A씨와 A씨 아내, 두 자녀를 살해하고 불을 질러 시신을 훼손한 사건이다. 정씨는 사기 행각이 발각될까 두려워 A씨 일가족을 살해한 것으로 조사됐다. 정씨는 1심과 2심에서 사형을 선고받고 대법원에 상고했다.&lt;br&gt;&lt;br&gt;정씨의 상고심 변호는 법무법인 새길이 맡았다. 당시 새길 대표변호사로 있던 이 후보자도 정씨 변호인단에 이름을 올렸다. 당시 정씨 변호인단은 “검사가 정씨에게 자백을 강요했다”고 주장한 것으로 알려졌다. 그러나 대법원은 “같이 수감 생활을 한 이들의 진술에 따르면, 정씨가 구타나 고문을 당했거나, 가혹행위로 몸이 아프다고 한 적이 없다. 검찰 강압 수사에 의해 허위 자백을 했다고는 보이지 않는다”며 상고를 기각하고 사형을 확정했다. &lt;br&gt;&lt;br&gt;이와 관련해 이 후보자 측은 “이 후보자는 이 사건 변론에 실질적으로 관여하지 않았고 변호인단을 제출하는 과정에서 이름이 형식적으로 기재된 것”이라고 했다. 법무법인이 사건을 수임해 소속 변호인으로서 형식적으로 이름을 올렸다는 것이다.&lt;br&gt;&lt;br&gt;법무법인 새길은 또 2003년 강간치상 미수 혐의로 기소된 피고인을 변호하면서 피해자 측 진술의 신빙성을 문제 삼아 무혐의를 주장했다고 한다. 이 사건에서도 이 후보자가 이름을 올렸는데, 당시 피고인은 공소기각 판결을 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“취직 안하냐” 부모 잔소리에… 40대 캥거루족은 주먹 휘둘렀다</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/12/FSIOO6ANPJFTZKADSUZBT55IEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/12/FSIOO6ANPJFTZKADSUZBT55IEY/</guid>
-      <dc:creator>원종빈 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 15:47:00 +0000</pubDate>
-      <content:encoded>지난 7월 강원 춘천시에서 A(43)씨가 아버지에게 주먹을 휘둘렀다. 부모와 함께 살던 A씨는 “술 좀 그만 마시고 취업하라”고 타이르는 아버지 얼굴을 때렸다. A씨는 신고를 받고 출동한 경찰관도 머리로 들이받았다. A씨는 1심에서 존속 폭행 및 공무집행방해 등 혐의로 징역 1년 6개월에 집행유예 4년을 선고받았다.&lt;br&gt;&lt;br&gt;A씨처럼 중년 자녀가 부모를 폭행하거나 살해하는 사건이 잇따르고 있다. 부모나 조부모 등 직계존속을 상대로 한 ‘존속 범죄’다. 경찰청이 국민의힘 서명옥 의원실에 제출한 자료를 보면 2025년 발생한 존속 범죄는 2883건. 2024년(2490건)보다 15.8% 늘었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVWYBDJASJHBFF34LTSFYJLRQY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 최근 5년간 존속 대상 살해·상해 사건 피의자는 40대가 가장 많았다. 2021~2025년 존속살해 피의자 292명 가운데 40대가 63명(21.6%)으로 가장 많았고, 50대 61명, 20·30대 각각 60명 순이었다. 존속상해 피의자도 1846명 가운데 40대가 447명(24.2%)으로 가장 많았다. 이어 20대 387명, 30대 384명, 50대 331명 순이었다.&lt;br&gt;&lt;br&gt;40대 존속 범죄 피의자가 많은 것을 두고 전문가들은 취업난과 주거비 부담으로 부모에게 경제적으로 의존하는 ‘중년 캥거루족’이 늘어난 현실과 연관성을 주목한다. 과거 캥거루족은 주로 20·30대에서 많았다. 그런데 최근 들어 40대로 확대됐다는 것이다. 서울연구원에 따르면 1981~1986년생이 35세였을 때 부모와 함께 산 비율은 32.1%로, 3명 중 1명꼴이었다. 1971~1975년생이 35세였을 때 부모와 함께 산 비율(18.6%)보다 13.5%포인트 높았다. 부모와 성인 자녀가 함께 사는 기간이 길어지면서 일상적인 마찰이 심각한 갈등으로 번질 수 있다는 분석이다. &lt;br&gt;&lt;br&gt;지난 5월 서울 성동구에서 40대 여성 B씨가 함께 살던 어머니를 폭행한 사건도 보청기를 잃어버린 게 발단이 됐다. 경찰에 따르면, B씨는 지병을 앓던 어머니가 보청기를 잃어버리자 화가 나 폭행한 것으로 조사됐다. B씨는 이후 컴퓨터 게임에 빠져 어머니를 10여 일간 방치해 숨지게 했다.&lt;br&gt;&lt;br&gt;지난 9월 충남 천안의 한 아파트에선 40대 여성 C씨가 잠자던 아버지를 둔기로 살해했다. 경찰 조사 결과, C씨는 수년 전 아버지에게 수억원을 지원받아 주식 등에 투자했다가 큰 손실을 본 것으로 드러났다. C씨는 아버지가 만날 때마다 투자 실패를 질책해 스트레스를 받았다고 경찰에서 진술했다. &lt;br&gt;&lt;br&gt;배상훈 우석대 경찰행정학과 겸임교수는 “가족이라도 적절한 거리를 유지할 필요가 있고, 자녀가 나이를 먹을수록 더욱 그렇다”며 “함께 사는 기간이 길어지면 빨래나 잠자리 같은 사소한 생활 문제도 갈등의 원인이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;중년 자녀가 고령 부모를 간병하다가 존속 범죄로 나아가는 경우도 있다. 장기간 간병으로 경제활동이 어려워지고 생활고까지 겹치면 가족 내 갈등이 극단적인 범죄로 이어질 수 있다는 것이다. &lt;br&gt;&lt;br&gt;지난해 3월 경기 고양시에서 발생한 존속살해 사건이 그런 경우다. 40대 남성 D씨는 알츠하이머병을 앓는 어머니와 청력이 크게 저하된 아버지를 홀로 돌보고 있었다. 취업과 결혼도 미룬 채 부모 간병에 매달렸지만 생활은 갈수록 어려워졌다. 생활비를 지원하던 형과 누나마저 지원을 끊었고, 집주인에게 집을 비워달라는 요구까지 받았다. 어머니는 “요양원에 가기 싫다”고 했다. 결국 D씨는 어머니 목을 졸라 살해한 뒤 극단적인 선택을 했다가 구조됐다. &lt;br&gt;&lt;br&gt;석재은 한림대 사회복지학과 교수는 “40대는 한창 경제활동을 해야 할 나이지만 취업·복지 지원은 주로 20·30대에 집중돼 있다”며 “실직이나 사업 실패로 부모에게 의존하게 된 40대가 다시 자립할 수 있도록 재취업과 경제적 지원을 강화하고, 가족에게만 맡겨진 돌봄 부담도 줄여야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘양평고속도로 특혜’ 의혹 서기관 “특검 강압 수사로 잘못된 진술”</title>
       <link>https://www.chosun.com/national/court_law/2026/11/13/NOMKMK4QZ5H2TPNGKORB5QA3AM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/13/NOMKMK4QZ5H2TPNGKORB5QA3AM/</guid>
@@ -721,48 +771,6 @@
       <description/>
       <pubDate>Wed, 11 Nov 2026 15:47:00 +0000</pubDate>
       <content:encoded>최근 국토교통부의 ‘양평고속도로 종점 변경 특혜 의혹’ 사건 재판에서 핵심 피고인이 “민중기 특별검사팀의 강압수사로 조사 당시 잘못된 진술을 했다”고 했다. &lt;br&gt;&lt;br&gt;지난 9일 이 사건을 심리중인 서울중앙지법 형사31부(재판장 박준석) 재판에서 국토부 김모 서기관은 “대통령직인수위원회 관계자로부터 고속도로 종점 변경을 검토하라는 연락을 받은 적이 없다”면서 종전 진술을 번복했다. 김 서기관은 특검 조사 때 “2022년 3월 인수위에 파견 나간 국토부 A 과장으로부터 ‘고속도로 종점 변경을 검토하라’는 지시를 받았다”고 했는데, 이 진술을 정반대로 뒤집은 것이다.&lt;br&gt;&lt;br&gt;김 서기관은 2022년 4월~2023년 5월 서울양평고속도로 타당성 평가 용역업체에 김건희 여사 일가 땅 부근으로 종점을 옮기는 노선이 최적이라는 결론을 내도록 한 혐의(직권남용)로 기소됐다. 특검은 김 서기관이 “인수위 검토 사안”이라며 용역업체에 부당한 지시를 했다고 봤다.&lt;br&gt;&lt;br&gt;그러나 김 서기관은 이날 공판에서 “심리적으로 불안정한 상태라 기억에 오류가 있었다”고 했다. 그는 “당시 구속돼 있었고, 특검에서 가족까지 조사를 확대한다고 해서 불안했다”며 “여러가지 기억이 혼재됐다”고 했다. &lt;br&gt;&lt;br&gt;김 서기관은 인수위 A 과장을 특정한 데 대해서도 “심리적으로 너무 힘들어서 그랬다”고 했다. 특검에서 진술했던 작년 9월 당시, 김 서기관은 별건(別件)인 뇌물 사건으로 구속돼 있었다. 특검이 종점 변경 의혹을 수사하는 과정에서 김 서기관이 한 용역업체로부터 공사 수주를 도운 대가로 수천만원을 받은 사실을 찾아낸 것이다.&lt;br&gt;&lt;br&gt;그러나 뇌물 사건 1심과 2심은 이 사건이 특검법이 규정한 수사 대상에 포함되지 않는다며 공소기각 판결을 내렸다. 지난 6월 대법원도 공소기각을 확정했다. 법원은 특검이 무리한 수사와 기소를 했다고 판단한 것이다.&lt;br&gt;&lt;br&gt;민중기 특검팀이 강압수사로 논란이 된 것은 이번이 처음이 아니다. 특검은 작년 10월 윤석열 전 대통령 처가 회사(ESI&amp;amp;D)가 경기 양평군 공흥리 일대에서 아파트 개발 사업을 추진하는 과정에서, 양평군이 사업 기한 연장과 개발부담금 면제 등의 특혜를 줬다는 의혹을 수사했는데, 조사받던 양평군청 공무원 B씨가 숨졌다. B씨는 유서에 “특검 수사관의 무시하는 말투와 강압에 전혀 기억도 없는 진술을 했다” “너무 힘들고 지친다” 등의 괴로운 심경을 남겼다. 당시 국민의힘 등은 민중기 특검과 수사관들을 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>귀신의 참교육인가, 아동학대인가</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/12/AAQEPU22K5BNPC6PCOCDPPP2NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/12/AAQEPU22K5BNPC6PCOCDPPP2NU/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7R6YSHPMBAZJAVNCBPBIAW37U.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인 한국민속촌에서 귀신으로 분장한 직원을 보고 아이들이 울먹이고 있다. /한국민속촌 인스타그램
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“엄마 말 안 들으면 귀신이 잡아간다.”&lt;br&gt;&lt;br&gt;경기 용인에 있는 한국민속촌은 가을 축제 기간을 맞아 9월 12일부터 ‘귀신 훈육’ 프로그램을 운영하고 있다. 귀신 분장을 한 직원이 어린이들을 상대로 “부모님 말 안 들으면 잡아간다”고 겁주며 “엄마 말을 잘 듣겠다”는 다짐을 받는 프로그램이다. 이 프로그램은 ‘귀신 참교육’ ‘어둠의 오은영’ 등 이름으로 소셜미디어에서 인기를 끌었다. 민속촌은 통상 인기 프로그램은 기간을 연장해 운영해 왔다. 작년에도 인기를 끈 공포 체험 프로그램을 연장 운영했다고 한다. 그런데 이번에는 원래 예정했던 15일까지만 프로그램을 진행하고 연장하지 않기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PGWID3DZJCMLPOJ73QQ36TEOY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민속촌이 귀신 훈육을 연장하지 않기로 한 것은 일부 시민이 “아이에게 두려움을 주는 아동 학대”라며 민원을 제기했기 때문이다. 한국민속촌은 민간 기업이 운영한다. 용인시에 따르면 민속촌 귀신 훈육 프로그램 관련 민원이 10일까지 9건 제기됐다. 국가인권위원회에도 관련 진정이 접수됐다고 한다. 민속촌을 찾은 한 학부모가 “정서적으로 아동을 학대했다”며 민속촌을 경찰에 고소하는 일도 있었다. 논란이 커지자 용인시 공무원 4명이 9일 오후 민속촌을 찾아 프로그램 운영 실태를 확인했다. 민속촌 측은 “아동 부모 동의 하에 귀신 훈육 프로그램을 진행했고, 아동이 힘들어하면 중단했다”는 입장이다. 하지만 비판 여론이 거세지고 경찰 조사까지 받게 되자 프로그램을 연장하지 않기로 한 것이다. &lt;br&gt;&lt;br&gt;다만 온라인에선 ‘귀신 훈육 프로그램에 지나치게 엄격한 잣대를 들이댄 것 아니냐”는 반론도 나온다. 과거 ‘망태 할아버지’나 ‘도깨비 이야기’처럼 웃고 넘길 수 있는 놀이로 받아들일 수 있는 것 아니냐는 주장이다. 민속촌 귀신 훈육 프로그램을 체험하려고 줄을 길게 서는 부모도 있었다. 방송인 이지혜씨가 10일 유튜브에 올린 귀신 훈육 영상은 하루 만에 조회수 38만회를 기록했다. 이 영상엔 이씨가 두 딸과 함께 프로그램을 체험한 모습이 담겼다. 이씨는 영상에서 “우리 딸이 (귀신) 참교육을 받고 숙제도 너무 잘하고, 목욕도 잘한다”고 했다. &lt;br&gt;&lt;br&gt;그러나 귀신 훈육 프로그램을 두고 아동 인권 침해와 공포를 이용한 상업화 논란도 일고 있다. 부모가 동의했더라도 아이를 독립적인 인격체로 존중해야 한다는 것이다. 부모가 자녀 훈육을 오락 프로그램에 맡기는 것이 적절한지, 공포와 두려움으로 아이의 행동을 통제하는 것이 바람직한지 등을 따져봐야 한다고 아동 전문가들은 지적한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/U7R6YSHPMBAZJAVNCBPBIAW37U.png?auth=f41216ed8d490462885cbbbbc2adbef59040fc53877833d38e4a8f88f0f3d2e6&amp;smart=true&amp;width=487&amp;height=464" type="image/png" height="464" width="487"/>
-    </item>
-    <item>
-      <title>“전등·히터 끄는게 버릇” 티끌 모아 80억 기부</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/11/12/FLXBJZVPHZF5BO2MGU4U2CFCOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/12/FLXBJZVPHZF5BO2MGU4U2CFCOY/</guid>
-      <dc:creator>창원=조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSLD7PSVVEO5E455XMTD2SIWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 경남 창원시 성산구 경한코리아 생산현장에서 이상연 경한코리아 회장이 직원들과 사랑의 열매를 상징하는 표식을 들고 화이팅을 외치고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9일 찾은 경남 창원의 자동차 부품 업체 경한코리아 사옥 1층 로비는 한낮인데도 어두컴컴했다. 흐린 날씨에 로비 전등이 모두 꺼져 있었기 때문이다. 사옥 3층에 있는 이상연(77) 회장 집무실로 들어서자 냉기가 감돌았다. 히터를 틀지 않았다. 이 회장은 “전기료 아끼는 게 버릇이 됐다”고 했다. 경한코리아는 40년 넘게 형편이 어려운 아이들과 노인 등에게 80여억원을 기부했다. &lt;br&gt;&lt;br&gt;경한코리아는 이 회장이 1984년 창업했다. 자동차 변속기 부품을 만들어 독일 폴크스바겐 등에 공급하고 있다. 작년 기준 직원 수 130명에 매출 587억6000만원이다. 이 기업은 2019년 경남 최초로 1억원 이상 기부한 중견·중소기업 모임인 ‘나눔명문기업’에 가입했다. 현재 사랑의열매 기부액만 8억7200만원이다. 이와 별도로 이 회장은 2017년 사랑의열매에 1억원 이상을 기부한 개인들의 모임인 ‘아너 소사이어티’에도 가입했다. &lt;br&gt;&lt;br&gt;기부 이유를 묻자 이 회장은 “저도 주변 사람들의 도움으로 여러 고비를 넘었기 때문”이라고 했다. 경북 예천에서 8남매 중 넷째로 태어난 그는 고등학교를 졸업하고 1968년 2월 돈을 벌러 서울로 올라왔다. 동대문에서 과자를 떼어 등에 지고 5~6㎞를 걸어 뚝섬에서 팔았다. 밤에는 유리 공장에 가서 철야 근무를 했다. 이 회장은 “그때 번 돈으로 대학에 가겠다고 아버지께 말씀드렸더니 ‘동생들 뒷바라지를 하라’고 하셔서 대입을 포기하고 시계 공장에 들어갔다”고 했다. &lt;br&gt;&lt;br&gt;1976년 시계 회사가 군수 업체로 업종을 전환해 창원으로 이전하면서 그도 이곳에 터를 잡았다. 이 회장은 1984년 지금 회사의 전신인 ‘경한정밀’을 창업했다. 당시엔 조준경 등 광학기기 부품을 만들었다. 그는 “500만원짜리 프레스 기계 살 돈이 없어 고향 선배에게 빌렸고, 전 직장의 선후배들이 밤에 와서 기계를 설치하고 일도 도와줬다”고 했다. &lt;br&gt;&lt;br&gt;경한코리아가 지금의 자동차 부품 분야에 진입할 수 있었던 것도 주변 덕분이었다. 이 회장은 “한 자동차 부품 업체의 개발부장으로 있던 지인이 찾아와 ‘자동차 변속기에 들어가는 밸브 스풀이란 부품을 지금은 전량 일본에서 수입하는데 이걸 한번 자체 생산해 보라’고 제안했다”고 했다. 현재 이 부품은 경한코리아 매출의 70% 이상을 차지한다. &lt;br&gt;&lt;br&gt;1997년 IMF 외환 위기는 큰 고비였다. 이 회장은 “공장 가동률이 평소의 25%까지 떨어졌는데 갚아야 할 어음은 20억원이 넘었다”며 “거래처에서 어음 만기를 1년 연장해 주지 않았다면 그때 망했을 것”이라고 했다. 그는 “이렇게 주변의 도움으로 일군 기업이니 나누는 게 당연하다”고 했다. &lt;br&gt;&lt;br&gt;그의 첫 나눔은 1986년 고향인 경북 예천군 호명읍에서 마을 잔치를 연 것이었다. 누구든 와서 음식을 먹으며 사물놀이 공연을 관람하게 했다. 그는 “어린 시절 앞집에서 고기를 구웠는데 특히 가난했던 우리 가족은 부르지 않은 일이 있었다”며 “그때 어머니가 ‘나중에 잘살게 되면 가난한 사람을 차별하지 말라’고 하셨는데 그 말씀을 따른 것”이라고 했다. &lt;br&gt;&lt;br&gt;경한코리아는 2005년부터 2017년까지 경남경찰청 경찰관 자녀들에게 장학금 3억9200만원을 지원했다. 2020년에는 창원의 저소득 한부모 가정에 1억원을 기부했고, 2023년 9월에는 국가유공자 가족과 순직·소방 공무원 가족에게 5000만원을 전했다. 2023년부터는 다문화가정, 북한이탈주민 자녀 등에게 3000만원씩 지급하고 있다.&lt;br&gt;&lt;br&gt;양궁 금메달리스트 김제덕(22) 선수도 초등학생 때부터 경한코리아로부터 생활비 지원을 받았다. 이 회장은 “양궁에 재능이 있는데 가정 형편이 너무 어려운 아이가 있다고 해서 만났는데 (김 선수가) ‘도와주시면 보답하겠다’고 하더라”고 말했다. 김 선수는 2021년 도쿄올림픽 2관왕에 오른 뒤 그해 11월 이 회장을 찾아와 큰절을 올렸다. 2024년 파리 올림픽에서도 남자 단체전 금메달을 땄다. &lt;br&gt;&lt;br&gt;경한코리아는 1980년대 후반부터 창원 공단 근로자들의 사물놀이단 ‘솟대패’를 지원했고 이후 경남오페라단 등을 후원하기도 했다. 이 회장은 “문화·예술은 여유 있는 사람들보다 형편이 어려운 사람들에게 더 필요하다”며 “삶이 고단한 이들에게 문화 공연 한 편이 더 큰 위안과 만족을 줄 수 있기 때문”이라고 했다. 실제로 두 단체는 소외 계층을 상대로 한 무료 공연을 자주 갖는다고 한다. &lt;br&gt;&lt;br&gt;이 회장은 “기부가 사업에 도움이 되는지는 잘 모르겠다”며 “숫자로 접근했으면 시작조차 안 했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞나눔명문기업&lt;/b&gt;&lt;br&gt;&lt;br&gt;사랑의열매가 2019년 만든 ‘고액 기부 중견·중소기업’ 모임. 최초 2000만원 이상을 기부하고, 5년 내 1억원 이상 기부를 약정한다. 현재 총 826곳이 가입돼 있다.&lt;br&gt;&lt;br&gt;※공동기획: 조선일보사·사랑의열매(사회복지공동모금회)&lt;br&gt;&lt;br&gt;※문의: 080-890-1212&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GBSLD7PSVVEO5E455XMTD2SIWM.jpg?auth=e7083df824d2ca1975800d5e1c87c754ddfb897df3a363cbb284d416cd05f622&amp;smart=true&amp;width=5472&amp;height=3648" type="image/jpeg" height="3648" width="5472">
-        <media:description type="plain">9일 경남 창원시 성산구 경한코리아 생산현장에서 이상연 경한코리아 회장이 직원들과 사랑의 열매를 상징하는 표식을 들고 화이팅을 외치고 있다./김동환 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>GTX-A 삼성역 이어 남산케이블카, 또다시 충돌하는 국토부와 서울시</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/11/12/MHXOGEDISVFMPDP3LZEROOHJLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/12/MHXOGEDISVFMPDP3LZEROOHJLQ/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 15:46:00 +0000</pubDate>
-      <content:encoded>서울시와 국토교통부가 또다시 충돌했습니다. 이번엔 ‘남산 케이블카’ 문제 때문입니다. 오세훈 서울시장이 국토부가 관련 규정 개정을 미루며 케이블카의 60년 독점 운영을 방치하고 있다고 비판하자, 국토부가 10일 밤 11시 30분 반박 자료를 내며 맞선 것입니다.&lt;br&gt;&lt;br&gt;오 시장은 10일 페이스북에 “남산 케이블카는 한 사업자(한국삭도공업)가 60년 넘게 사업을 독점하고 있다”며 “독점을 대신할 수단이 서울시가 추진 중인 남산 곤돌라인데, 이를 위해선 국토부가 시행령을 개정해야 한다”고 적었습니다. 남산 곤돌라가 들어설 곳은 ‘도시자연공원’ 구역입니다. 여기엔 높이 12m를 넘는 시설물을 지을 수 없는데, 곤돌라 운행을 위해선 30m가 넘는 철탑이 필요합니다. 오 시장은 공익 시설에 한해 높이 제한 예외를 인정해 달라는 겁니다. 그는 “국토부가 케이블카 독점을 돕기 위해 시행령 개정을 미루는 건 아닌지 의심스럽다”고도 했습니다. &lt;br&gt;&lt;br&gt;이에 국토부는 반박 자료를 내고 “시행령 개정은 전국의 도시자연공원에 일률적으로 적용되는 규정” “이는 첨예하게 입장이 엇갈리는 사안”이라고 맞섰습니다. 시행령 개정이 어렵다는 취지입니다. 여기에다 종교계, 환경 단체가 남산 생태계 훼손 우려를 한다는 내용을 담아 오 시장을 비판했습니다. &lt;br&gt;&lt;br&gt;양측의 충돌은 처음이 아닙니다. 지난 2024년 8월 청라 벤츠 전기차 화재가 벌어지자 서울시는 “지하 주차장에 90% 이하로 충전을 제한한 전기차만 들어가도록 권고할 예정”이라고 발표했습니다. 그러나 국토부가 “화재와의 과학적 인과 관계가 불확실하다”고 반대하면서 결국 정책은 시행되지 않았습니다. &lt;br&gt;&lt;br&gt;양측은 조만간 법정에서도 만날 예정입니다. 지난해 11월 GTX-A 삼성역 구간 지하 5층 승강장 기둥 50개에서 철근이 누락된 사고 때문입니다. 국토부는 서울시의 시공 관리 부실 등을 문제 삼아 구상권을 청구하겠다고 하고, 서울시는 국토부의 불필요한 추가 안전 검증으로 보강 작업이 늦어졌다며 상황이 장기화 됐다고 반박합니다.&lt;br&gt;&lt;br&gt;철도·교통·도시 개발 관련 권한을 나눠 가진 지자체와 정부의 대립은 자연스러운 일입니다. 문제는 정책 이견 수준을 넘어 공개적 책임 공방이 반복된다는 겁니다. 서울시는 사업 추진에 걸림돌이 생기면 국토부의 비협조를 문제 삼고, 국토부는 서울시의 절차상 문제나 관리 부실을 지적하고 있습니다. 지자체·정부의 견제와 균형은 바람직하지만, 도를 넘는 충돌은 그 피해가 고스란히 국민에게 돌아온다는 점을 잊지 말아야 합니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해외서 산 마운자로 국내 반입 가능</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/11/12/S4WWIJHMSVB4VM3OVWMFN4SJHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/12/S4WWIJHMSVB4VM3OVWMFN4SJHY/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 15:46:00 +0000</pubDate>
-      <content:encoded>12일부터 해외에서 정식 처방을 받아 구매한 비만 치료제 등 의약품을 최대 3개월분까지 국내에 갖고 들어올 수 있게 됐다.&lt;br&gt;&lt;br&gt;식품의약품안전처(식약처)와 관세청은 12일부터 그동안 반입이 제한됐던 비만 치료제 등의 개인 휴대 반입을 허용한다고 11일 밝혔다. 그간 식약처는 유통·보관 과정을 확인하기 어렵고, 회수·보상 등 법적 보호에도 한계가 있다는 이유 등으로 개인이 해외에서 구매한 마운자로·위고비를 ‘유해 의약품’으로 분류해 반입을 제한해왔다. 관세청에 따르면 올해 1~8월 여행자 휴대품을 통한 마운자로·위고비 불법 반입 적발 건수는 1097건으로, 지난해 연간 134건의 약 8배였다. 해외 의료기관에서 정식 처방된 개인 치료용 의약품까지 반입을 막는 건 과도한 규제라는 지적도 제기됐다.&lt;br&gt;&lt;br&gt;새 기준에 따르면 각국 의약품 규제기관의 정식 허가를 받은 의약품을 구매한 경우 최대 6병까지 휴대해 국내로 들여올 수 있다. 6병을 초과하더라도 의약품별 3개월 복용량 이내라면 반입이 가능하다. 마운자로 등 주 1회 투여하는 비만 치료제는 3개월분인 12개까지 반입할 수 있다. 국내 대비 가격이 3분의 1 수준이어서 인기가 높은 ‘스시자로’(일본에서 구매하는 마운자로)도 정상적으로 구매했다면 국내 반입이 가능하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최원식 ‘벽사학술상’</title>
@@ -852,15 +860,6 @@
       <content:encoded>전국 구름 많고 일교차 15도 안팎, 내륙엔 서리도&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZVBSPFAHRGC5JQZDL6J2M2KWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재밌다, 이 책] 지구에서 인간이 모두 사라진대도… 우리가 ‘버린 것’은 오래도록 남는대요</title>
-      <link>https://www.chosun.com/national/nie/2026/11/12/PT47PHLXWVG7HPPFQI6IEPDFJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/11/12/PT47PHLXWVG7HPPFQI6IEPDFJE/</guid>
-      <dc:creator>이진혁 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQEC6HB2BVABRFLNZX7U6RUAFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;앨런 와이즈먼 지음｜이한중 옮김｜RHK｜3만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;여름방학이 끝나고 학교에 가 보면 운동장 가장자리에 풀이 훌쩍 자라 있습니다. 사람 발길이 한 달쯤 뜸했을 뿐인데요. 만약 학교가 아니라 지구 전체에서 사람이 영영 사라진다면 어떻게 될까요? 미국 저널리스트 앨런 와이즈먼이 펴낸 ‘인간 없는 세상’은 이 질문에서 출발합니다. 인간이 사라진 세상에서, 무엇이 사라지고 무엇이 남는지 살펴보는 것이지요.&lt;br&gt;&lt;br&gt;저자는 원전 사고 뒤 출입이 제한된 체르노빌, 전쟁으로 버려진 키프로스의 휴양 도시, 폴란드와 벨라루스 국경의 오래된 숲 등을 찾아갔습니다. 가장 먼저 무너지는 것은 도시였어요. 평소엔 콘크리트 아래 묻혀 보이지 않지만, 우리가 사는 도시 아래엔 수많은 물줄기가 흐르고 있습니다. 대표적으로 미국 뉴욕 맨해튼은 지금도 땅속으로 스며드는 물을 펌프로 퍼내고 있죠. 사람이 사라져 펌프가 멈추면 며칠 만에 지하철이 물에 잠기고, 20년쯤 뒤엔 지하철의 강철 기둥이 녹슬면서 그 위의 도로가 내려앉기 시작합니다. 지붕 틈으로 스며든 빗물은 집을 허물고, 갈라진 아스팔트 사이로는 풀과 나무가 뿌리를 내립니다. 도시를 무너뜨리는 것은 영화 속 괴물이 아니라 늘 우리 곁에 있던 물과 풀뿌리입니다.&lt;br&gt;&lt;br&gt;인간이 사라지면 지구는 깨끗해질까요? 새 쓰레기는 더 생기지 않겠지만, 이미 버린 것들이 문제입니다. 플라스틱은 썩지 않고 수천 년 동안 바다를 떠돕니다. 바닷새와 물고기는 이 조각을 먹이로 알고 삼켜 목숨을 잃기도 합니다. 더 큰 문제는 독소입니다. 플라스틱 조각에는 바닷물 속 독성 물질이 달라붙는데, 이 독은 먹이사슬을 따라 올라가며 더 큰 동물의 몸에 점점 진하게 쌓입니다. 인간은 사라져도, 인간이 남긴 독은 오래도록 바다 생물들을 괴롭힙니다. &lt;br&gt;&lt;br&gt;땅에 남은 흔적도 오래갑니다. 저자에 따르면 흙에 쌓인 납이 다 씻겨 나가는 데만 3만5000년이 걸립니다. 방사성 폐기물은 그보다 훨씬 오래 방사선을 내뿜지요. 우리가 지은 것은 금세 무너지는데, 우리가 버린 것은 오래도록 지구에 머무는 셈입니다.&lt;br&gt;&lt;br&gt;인간은 사라져도 그 흔적은 우주까지 뻗어 갑니다. 인간이 남긴 것 중 가장 오래 살아남는 것은 라디오와 텔레비전 방송 전파입니다. 지구를 떠난 전파는 점점 희미해지면서도 우주 저편으로 퍼져 나갑니다. 웅장한 건물과 기계가 모두 사라진 뒤, 인류가 이곳에 있었다는 사실을 전하는 것이 눈에 보이지도 않는 전파라니 묘한 일이죠.&lt;br&gt;&lt;br&gt;이 책이 보여 주는 것은 두 가지입니다. 자연은 생각보다 빨리 돌아오지만, 우리가 남긴 흔적은 생각보다 오래간다는 것이지요. 인간이 사라져야 한다고 주장하는 것은 아닙니다. 단지 다른 생명에게 자리를 조금 비켜 주고, 인간의 흔적을 덜 만들자는 것이지요. 무엇이 남을지 따지던 책은 여기서 질문을 바꿉니다. “우리는 무엇을 남기고 싶은가?”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>미디어아트 입은 도동서원, 호수 얼음썰매… 올겨울 아이와 추억 쌓아요</title>
       <link>https://www.chosun.com/national/regional/2026/11/12/QYICSLCBJRFPBJCXX4GGRKZYBE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/12/QYICSLCBJRFPBJCXX4GGRKZYBE/</guid>
@@ -931,18 +930,6 @@
       <description/>
       <pubDate>Wed, 11 Nov 2026 09:09:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQWGNZQGE2GCNTCGI2TSYLEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내가 돈을 빌려주지 않자 집에 불을 질러 아내를 숨지게 만든 70대 남성이 1심에서 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사합의12부(재판장 박종열)는 지난달 28일 현주건조물방화치사 혐의로 재판에 넘겨진 70대 A씨에게 징역 10년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2월 21일 서울 강서구의 한 아파트에서 37년간 함께 산 아내에게 500만원을 빌리려다가 거절당하자 범행을 결심한 것으로 조사됐다. 금전 요구를 거절당한 A씨는 당일 오후 집 근처 페인트 가게에서 시너 2통을 사와 집 곳곳에 뿌린 뒤, 라이터를 쥔 채 500만원을 재차 요구했다. &lt;br&gt;&lt;br&gt;하지만 아내가 거절하자 A씨는 “너 죽고, 나 죽자”며 라이터로 집에 불을 질렀다. 이 때문에 아내는 전신 3·4도 화상을 입었고, 올해 3월 26일 결국 사망했다. 조사 결과, A씨는 이번 범행을 결심하기 전에도 투자 실패 등으로 빚이 생기자 아내에게 수차례 돈을 요구했다고 한다. &lt;br&gt;&lt;br&gt;A씨는 본인 요청에 따라 열린 국민참여재판에서 “라이터가 실수로 작동한 것일 뿐”이라며 고의는 없었다고 주장했다. 하지만 배심원 9명 중 6명이 A씨의 범행에 고의성이 있다고 보고 유죄 평결을 내렸다. 양형 의견은 9년~15년 5개월 사이에서 다양하게 제시됐다. &lt;br&gt;&lt;br&gt;해당 평결을 참고한 재판부는 A씨가 돈을 빌려달라는 요구를 거절당하고 집을 나간 뒤 8분 만에 시너를 사온 점, 비흡연자인 A씨가 라이터를 소지하고 있었다는 점 등을 근거로 A씨 측 주장을 받아들이지 않았다. 이 외에 A씨가 일전에도 아내를 시너로 위협한 전력이 있다는 점도 불리한 양형 사유로 고려했다. &lt;br&gt;&lt;br&gt;관련해 재판부는 “라이터의 버튼을 눌러 불을 붙일 방화의 고의가 있었음을 인정할 수 있다”며 “배심원단의 평결 결과를 존중하는 것이 타당하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“날 보는 것 같네” 20·30대, ‘치이카와’에 열광하는 까닭은</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/11/3MQQH4DBRJHHJNHWXDUSJ3QJI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/11/3MQQH4DBRJHHJNHWXDUSJ3QJI4/</guid>
-      <dc:creator>강혜진 기자, 이나윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Nov 2026 08:19:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5NSMUG3IRCPLLVUD2RUHVHFSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 서울 용산구 아이파크몰 3층 ‘치이카와샵’ 앞에서 시민들이 치이카와 굿즈를 구매하기 위해 줄을 서 있다. 이날은 예약제로 운영되던 매장이 현장 대기제로 바뀐 첫날로, 오전 11시에 대기를 신청해도 입장까지 약 6시간이 걸렸다./강혜진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9일 오전 11시 서울 용산구의 한 대형 쇼핑몰 매장 앞에 60여명이 줄을 서 있었다. 햄스터를 닮은 캐릭터 ‘치이카와’ 인형과 열쇠고리를 파는 매장이었다. 이날 오전 7시부터 4시간을 기다렸다는 유하연(20)씨는 “일찍 왔는데도 대기표 55번을 받았다”면서 1만8000원짜리 열쇠고리 등 치이카와 관련 굿즈 6만원어치를 샀다.&lt;br&gt;&lt;br&gt;최근 20·30대 사이에서 ‘치이카와’ 열풍이 불고 있다. 치이카와는 일본 만화가 나가노가 2020년부터 온라인에 연재한 웹툰 ‘먼작귀(뭔가 작고 귀여운 녀석)’에 나오는 주인공이다. 웹툰엔 하얗고 동그란 치이카와, 고양이를 닮은 하치와레, 토끼를 닮은 우사기 등 작고 귀여운 캐릭터가 나온다. 만화 속 주인공들은 괴물을 물리치는 ‘토벌(討伐)’로 돈을 번다. 웹툰 팬도 치이카와 한정판 인형 등을 구하러 다니는 일을 ‘토벌하러 간다’고 부른다. 서울 용산구의 한 치이카와 매장에서는 하루 평균 1000명가량이 관련 상품을 토벌한다. 지난 9월 개봉한 극장판 영화 ‘치이카와: 인어섬의 비밀’은 10일 기준 누적 관객 278만명을 넘겼다. 영화관에서는 스크린 앞에 치이카와 인형을 놓고 ‘인증샷’을 찍는 게 유행이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTAOJRMIYGGOBYHBSDQNZWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'극장판 치이카와: 인어 섬의 비밀' 스틸&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청년들이 치이카와에 열광하는 건 귀여운 외모와 달리 고단한 현실을 살아가는 모습 때문이라고 전문가들은 분석한다. 웹툰에서 치이카와와 그 친구들은 괴물을 물리쳐 돈을 벌지만, 때로는 괴물에게 잡아먹힐 위험에 처한다. 치이카와는 더 안전하고 나은 일을 얻기 위해 제초 자격증 시험을 준비하지만 친구만 합격하고 자기는 떨어지는 좌절을 겪는다. 그래도 치이카와는 포기하지 않고 다시 공부한다. 이은희 인하대 소비자학과 교수는 “치이카와가 어려움을 겪고도 꿋꿋이 살아가는 모습에 청년들이 공감하고 위로받는 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울 강서구에 사는 취업 준비생 한예린(25)씨는 “치이카와 이야기가 꼭 내 이야기 같다”고 했다. 한씨는 시간이 날 때마다 치이카와 매장을 찾아 인형과 발매트, 옷 등 각종 굿즈를 산다. 한국에서 구하기 어려운 상품은 일본까지 가서 직접 사 온다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MNRTAOJRMIYGGOBYHBSDQNZWGM.jpg?auth=ffbf824053e649bc9bcba36203132d3a6e73c50c8168aef40b5bfa76c6903ca7&amp;smart=true&amp;width=1998&amp;height=1080" type="image/jpeg" height="1080" width="1998">
-        <media:description type="plain">'극장판 치이카와: 인어 섬의 비밀' 스틸</media:description>
-      </media:content>
     </item>
     <item>
       <title>이번엔 남산 케이블카, 또 충돌한 서울시와 국토부</title>
