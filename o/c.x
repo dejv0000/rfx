@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘TV 보다 화나서’… ‘장동혁 암살’ 협박한 20대 입건</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/11/14/3TE7RIUOZBCYZCGR4X7GEQA4DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/11/14/3TE7RIUOZBCYZCGR4X7GEQA4DQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Nov 2026 00:33:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4WGZJVGNRWMNRRGJSWCYTGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 장동혁 대표를 암살하겠다는 내용의 문자를 112에 보낸 20대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 태안경찰서는 협박 미수 혐의로 A씨를 입건해 조사하고 있다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 낮 12시 50분쯤 충남 태안군 자택에서 112에 “국민의힘 장동혁 대표를 암살하겠다”는 내용의 문자메시지를 보낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 문자를 접수한 뒤 약 40분 만인 오후 1시 20분쯤 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “TV를 보다가 장 대표가 야당 대표로서 역할을 하지 못한다는 생각에 화가 나 우발적으로 범행했다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 정신질환을 앓고 있는 것으로 파악됐다. 경찰은 실제 범행을 준비하거나 실행하려 한 정황은 없는 것으로 보고 있다. &lt;br&gt;&lt;br&gt;경찰은 추가 조사를 벌인 뒤 사건 처리 방향을 정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토요일 전국에 비… 낮 최고 11~18도</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/11/14/Q5NYI2ZHTRAFNFPWXU6I7KXRPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/14/Q5NYI2ZHTRAFNFPWXU6I7KXRPA/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Nov 2026 00:05:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3WKMZSHA3TEMBYHA4DIYZSMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문 일대에서 시민들이 우산을 쓰고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 14일은 전국에 비가 내리겠다. 서울·인천·경기 남부와 충남·전북 지역은 늦은 밤까지 비가 이어지겠다. 나머지 지역은 15일 새벽, 제주도는 같은 날 아침 대부분 그치겠다.&lt;br&gt;&lt;br&gt;14일 기상청에 따르면 이날 예상 강수량은 서울·인천 5~10㎜, 경기 북부와 서해5도 5㎜ 안팎, 대전·세종·충남·충북·전북 5~30㎜다. 15일까지 이틀간 경기 남부에는 5~20㎜, 강원에는 5~10㎜, 광주·전남과 부산·울산·경남, 대구·경북에는 5~30㎜, 제주도에는 10~50㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;이날 낮 최고기온은 11~18도로 예보됐다. 오전 5시 기준 주요 지역 기온은 서울 11.2도, 인천 11.4도, 춘천 8.6도, 대전 10.7도, 광주 14.4도, 대구 11.3도, 부산 13.7도 등이었다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전국에서 ‘좋음’~‘보통’ 수준을 보이겠다. 다만 수도권은 오전까지 ‘나쁨’ 수준이 예상된다.&lt;br&gt;&lt;br&gt;바다의 물결은 동해·서해·남해 앞바다에서 0.5~1.0m로 일겠다.&lt;br&gt;&lt;br&gt;먼바다의 파고는 동해·서해 0.5~1.5m, 남해 0.5~2.0m로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[아무튼, 주말]#남대문스카프아저씨와일해보니#녹지마냉장고문명</title>
+      <link>https://www.chosun.com/national/weekend/2026/11/14/MO25LI7IHVBYHGRVYB6LMHWLAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/11/14/MO25LI7IHVBYHGRVYB6LMHWLAA/</guid>
+      <dc:creator>조선일보 주말뉴스부</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Nov 2026 21:00:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7L2ZQFIF5DVDEU425JKW2MQ4Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오전 서울 중구 남대문시장에서 손님들이 ‘남대문 스카프 아저씨’ 주변을 에워싸고 있다. 흰 패딩 조끼를 입은 남성이 스카프 아저씨다. 이날 매장 오픈 전부터 가게 앞은 그를 기다리는 손님으로 인산인해였다. /강은이 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;1. ‘남대문 스카프 아저씨’ 보조 알바 해보니... 아이돌급 환호에 이유 있었다&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘남대문 스카프 아저씨’가 연일 화제입니다. 남대문시장에서 1장당 1600원꼴인 값싼 스카프를 파는 이 아저씨는 지난달 손님이 올린 SNS 영상으로 시장의 ‘라이징 스타’가 됐습니다. 그를 보겠다며 오픈런을 하고 회사에 연차·반차를 냅니다. ‘남대문 임영웅’ ‘스카프리오(스카프 파는 디카프리오)’라는 별명도 붙었습니다. 평범한 시장 상인에게 대중은 왜 열광하는 걸까요? 그의 매장에서 일일 알바를 하며 인기의 비결을 알아봤습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYZRXXRL6FDBXMDPI4A7GE4V7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; AFP 연합뉴스
+지난 2일 해킹으로 멈춰선 네덜란드의 한 수퍼마켓 냉장고에서 직원이 폐기할 제품을 꺼내고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;2.이 축복받은 ‘냉장고 문명’이 녹아내린다는 공포 &lt;/b&gt;&lt;br&gt;&lt;br&gt;늘 같은 자리에서 끝없는 음식의 향연을 열어주는 마법 상자 냉장고. 냉장고의 보급과 글로벌 콜드 체인 구축은 불의 발견과 정착 농경에 이은 인류 식품사의 혁명적 사건으로 꼽히지요. 유럽 냉장고 해킹 테러를 계기로, 우리가 딛고 선 이 차갑고도 허약한 냉장 문명을 되짚어봤습니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5JZR6Y7UBLOJH7F6KDFSBYSPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 뉴욕의 한 지하철역에 게시된 AI 에이전트 '뮤즈'의 광고판. /로이터·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;3. 시키지도 않은 일까지 척척… 이 비서, 믿어도 될까&lt;/b&gt;&lt;br&gt;&lt;br&gt;식당 예약부터 전화 통화, 결제까지 알아서 처리하는 인공지능(AI) 비서가 인기입니다. 하지만 시키지도 않은 일을 벌이거나, 하지도 않은 일을 했다고 거짓 보고하는 황당한 사례도 속출하고 있습니다. 똑똑하지만 아직은 빈틈 많은 AI 비서, 어떻게 사용해야 할까요?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON5UJK4AEZFBHIJ5BI4KNU37Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/남정미 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;4. ‘내향인의 여행’부터 노벨상까지, 스톡홀름 여행&lt;/b&gt;&lt;br&gt;&lt;br&gt;핀란드·스웨덴·노르웨이 3국을 방문한다는 북유럽 패키지도 일정을 뜯어보면 스웨덴에는 길어야 1박, 짧으면 반나절 잠시 머무르고 갈 뿐이더라고요. 지난 8월 말, 우리보다 앞서 가을을 맞은 스웨덴 스톡홀름을 다녀왔습니다. 결코 하루만 거쳐 갈 여행지가 아니었습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BM2UQAK7HNFT7MWE3GIDUOQJ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 북촌은 아디다스·뉴발란스 등 글로벌 브랜드 쇼룸 성지로 부상했다. /양수열 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;5. 성수동 다음은 서촌·북촌?&lt;/b&gt;&lt;br&gt;&lt;br&gt;서촌과 북촌이 서울을 대표하는 새로운 트렌드 중심지로 자리매김하고 있습니다. 성수동이나 청담동, 대형 백화점에서 열리던 글로벌 명품 브랜드 쇼룸과 팝업스토어가 경복궁 좌우에 자리한 두 마을로 옮겨오고 있습니다. 한옥 등 전통 건축물과 북악·인왕산 등 자연 풍광이 현대적 체험과 결합된 독특한 분위기로 젊은 층과 외국인 관광객의 발길을 사로잡고 있죠. 서촌과 북촌이 성수동을 대체하는 메가 상권으로 발전할 수 있을까요?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TJRADD2T5AYZCPYFT24J57PXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수면카페/아무튼주말/김병권 _이건송 영상미디어 기자 (아무튼 게재 전 사용금지)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;6. 콘서트, 영화관, 카페가 붐비는 이유? 수면族 때문!&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘4당 5락’&lt;br&gt;&lt;br&gt;대한민국에서 대학 입시를 경험해보셨다면 한번쯤 들어보셨을 말입니다. 그만큼 한국은 목표를 이루기 위해 잠을 줄여서라도 근면 성실하게 맡은 바 임무를 충실히 하는 나라입니다. 문제는 잠을 줄임에 따라 삶의 질과 건강에 악영향이 생길 수 있다는 것입니다.&lt;br&gt;&lt;br&gt;최근 웰빙에 대한 관심이 커지면서 그간 등한시됐던 ‘수면’도 재조명을 받고 있습니다. 침대에 누워 가수가 불러주는 자장가를 들으며 잠을 청하는 콘서트에 사람이 몰리고, 영화관도 점심시간에 낮잠을 잘 수 있게 일부 상영관을 개방하기도 합니다. 그간 외면받던 수면, 그 달라진 위상을 느껴보러 가보시죠.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYDOMJSMFRTQZBUMQ3TGMDEGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;체중 관리를 위해서는 식습관과 운동 등 생활습관을 함께 살펴야 한다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;7.나 자신에 대한 오해&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리는 자신을 누구보다 잘 안다고 생각하지만, 실제로는 그렇지 않을 때가 많습니다. 자신이 보고 싶은 모습만 보면서 살아가곤 하니까요. 루소는 “우리는 모르는 것 때문에 길을 잃는 것이 아니라, 안다고 믿는 것 때문에 길을 잃는다”고 했습니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 2030년까지 온실가스 3750만t 감축? 목표치 1%에 그쳐</title>
       <link>https://www.chosun.com/national/transport-environment/2026/11/14/5LEDWT4SDBC6BCSCDVDF2KN6W4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/14/5LEDWT4SDBC6BCSCDVDF2KN6W4/</guid>
@@ -896,33 +924,6 @@
       <description/>
       <pubDate>Thu, 12 Nov 2026 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6SMDR56V5HUXJYPBZDKVBM5II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] sing one’s praises</title>
-      <link>https://www.chosun.com/national/nie/english/2026/11/13/L5UBLHAT3BF3VAXYOK3AXJUQZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/11/13/L5UBLHAT3BF3VAXYOK3AXJUQZE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Nov 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPK2C4ZF2BAPZGNW6UGPW5744Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 플러스 요인, 가산점 요소</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/11/13/DGQRPKYZCFCBLEA4EF3EVPL4FQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/11/13/DGQRPKYZCFCBLEA4EF3EVPL4FQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Nov 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DU5IBH6OJDNRCJVRLKIWW3LJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 주상절리(柱狀節理)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/11/13/ALX3DXIUR5FLRMPF4GP5XJXIYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/11/13/ALX3DXIUR5FLRMPF4GP5XJXIYA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Nov 2026 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTXKK7MGJNA3REV55JQQJO3JEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“중국산 고추에 농약·쇳가루”…수입식품 잔류농약 위반 1년 새 3.5배 </title>
