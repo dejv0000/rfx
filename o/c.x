@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>진료실 흉기 난동… ‘임세원법’에도 달라진 게 없다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/11/06/PO2T5BC62ZELLEOK7MPXTPPE4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/06/PO2T5BC62ZELLEOK7MPXTPPE4I/</guid>
+      <dc:creator>안준용 기자, 조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Nov 2026 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3GIZDFMJTDANJXG4ZDKZLCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 서대문구 신촌 세브란스병원에서 경찰 과학수사대 관계자들이 현장감식을 마친 뒤 차량에 탑승하고 있다. /이경민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 세브란스병원 진료실에서 50대 여성 A씨가 교수에게 흉기를 휘두른 사건으로 병원 내 의료진 안전 문제가 수면 위로 올랐다. 앞서 2018년 12월 강북삼성병원 정신건강의학과 임세원 교수가 환자의 흉기 난동으로 숨진 뒤 이듬해 의료인 폭행에 대한 처벌 등을 강화한 이른바 ‘임세원법’이 통과됐다. 하지만 병원 내 안전망은 여전히 허술하고, 특히 진료실 내 돌발 상황엔 사실상 무방비 상태라는 지적이 나온다. 의료계에선 “병원 내 폭행·상해 사건은 의료진 개인을 넘어 환자·보호자의 생명까지 위협한다”며 “정부 차원의 제도 보완과 관련 예산 지원이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 지난 4일 세브란스병원 정신건강의학과 B교수에게 흉기를 휘두른 A씨는 집에서 쓰던 식칼을 쇼핑백에 넣어와 범행에 사용했다. 진료 순서가 된 다른 환자를 따라 진료실로 들어가 흉기를 휘둘렀고, B교수는 얼굴과 손 등을 크게 다쳐 응급실 치료를 받았다. 경찰은 이날 A씨에 대해 살인미수 혐의로 구속영장을 신청했다. 진료 예약도 안 한 외부인이 흉기를 소지한 채 진료 공간에 침입해 의료진을 공격할 때까지, 이를 막기 위한 제도적 장치는 작동하지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKFKDI2EE5H7NGEPJFLEYX2VZA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조란영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임세원법(개정 의료법)은 의료인에게 상해를 입힐 경우 7년 이하 징역 등에 처하도록 하고, 100병상 이상 병원에 보안 전담 인력 배치와 비상벨 설치를 의무화하는 내용이 골자다. 하지만 법 시행 이후에도 의료진 피해 사례는 끊이지 않고 있다. 2020년 8월 부산의 정신건강의학과 의원에선 60대 환자가 의사를 흉기로 찔러 숨지게 했고, 2022년 6월엔 경기 용인의 한 종합병원 응급실에서 70대 남성이 의사에게 낫을 휘둘렀다. &lt;br&gt;&lt;br&gt;2024년 5월에는 대구의 한 정신병원에서 30대 환자가 의사의 얼굴에 호신용 가스총을 쐈고, 작년 5월엔 강원 강릉의 병원 응급실에서 40대 환자가 커터 칼로 의료진을 위협하다 체포됐다. 경찰청에 따르면 의료기관 내 폭력 사건은 매년 1700건 이상 발생하고 있다. 중앙응급의료센터가 2024년 응급의료 종사자 375명을 조사한 결과에선 88.8%가 폭언·폭행을 경험했다고 답하기도 했다.&lt;br&gt;&lt;br&gt;문제는 현 제도만으로는 의료진을 보호하기 어렵다는 점이다. 100병상 이상 병원의 경우, 보안 전담 인력을 1명만 배치하고 비상벨을 1개만 설치해도 법정 기준을 충족한다. 100병상 미만은 이 같은 의무도 적용되지 않는다. 정신의료기관은 별도의 안전 기준으로 진료실에 비상벨을 설치하고, 비상문·비상대피 공간·개인 방호 도구 중 하나 이상을 갖추도록 규정하고 있다. 하지만 비용상 문제로 개인 방호 도구만 갖춘 곳이 많다.&lt;br&gt;&lt;br&gt;보안 인력, 비상벨, 비상문을 갖춰도 돌발 상황은 막기 어렵다. 세브란스병원도 진료실에 비상벨·비상문을 갖추고, 해당 구역에 전담 보안 인력도 두고 있었지만 사태를 피하지 못했다. 빅5 병원 관계자는 “의료진이 환자와 바로 마주하는 외래 진료실 특성상 사건 발생 가능성 자체를 원천적으로 막긴 어려운 게 현실”이라고 했다. 이에 일각에선 비상 대피 공간 의무화와 함께 진료구역 출입 통제도 강화해야 한다는 목소리가 나온다.&lt;br&gt;&lt;br&gt;김의태 분당서울대병원 정신건강의학과 교수는 “진료실에서 의료진은 무방비로 노출되고, 외부인이 들어와 출입문을 잠글 수도 있다”며 “비상 출입문 설치를 의무화하고, 당일 진료 예약이 없는 사람은 진료실에 들어가기 전에 막을 방안도 찾아야 한다”고 했다. 현재 서울아산병원 등 일부 대형 병원은 외래 환자가 출입증을 소지해야 진료 구역에 들어갈 수 있는데, 일각에선 위험도가 높은 진료 구역에 한해 출입 통제를 강화하거나 금속탐지기 등을 설치해야 한다는 주장도 나온다.&lt;br&gt;&lt;br&gt;대한병원협회는 이날 성명을 내고 “이번 사건은 법과 제도가 진료 현장의 안전을 담보하지 못하고 있다는 방증”이라며 “정부는 흉기 반입과 폭력을 사전 차단할 수 있는 실효성 있는 안전 대책을 마련하고, 안전 관리 책임을 개별 병원에만 전가하지 말고 국가 차원의 지원 체계를 구축하라”고 했다. 대한전공의협의회도 “정부와 국회는 폭력 처벌 강화의 범위를 응급실 외에 진료가 이뤄지는 모든 공간으로 확대해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>환경미화원 뺑소니 50대女, 잡았더니 술 냄새... “집에 와서 술 마셨다”</title>
       <link>https://www.chosun.com/national/incident/2026/11/14/LJXC52EUZJD7NN3YHS23GFTUVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/14/LJXC52EUZJD7NN3YHS23GFTUVI/</guid>
@@ -813,16 +822,6 @@
       <description/>
       <pubDate>Thu, 12 Nov 2026 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MGFFJWZWRGKFFILVICWIQYYQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울 동국대에서 '서울시 자치경찰 시민대학' 7기 수강생들이 의자를 이용한 흉기 대처법을 배우고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“김○○ 어디 있어. 데리고 와!”&lt;br&gt;&lt;br&gt;10일 오후 서울 중구 동국대 혜화관. 조용하던 강의실이 갑자기 인질극 현장으로 변했다. 검은색 옷을 입은 강사 옥정석(46)씨가 모형 식칼을 들고 뒷문으로 들어왔다. 한 남성 수강생의 멱살을 잡고 고함을 질렀다. 그러자 수강생 10명이 우산과 의자, 가방을 들고 달려들었다.&lt;br&gt;&lt;br&gt;60대 여성 한 명이 우산을 펼쳐 옥씨 시야를 가렸다. 옆에 있던 김행숙(74)씨는 “으아” 소리를 지르며 의자를 방패 삼아 밀어붙였다. 벽에 몰린 옥씨는 칼을 떨어뜨리고 넘어졌다. &lt;br&gt;&lt;br&gt;실제 인질극이 아니라 서울시 자치경찰위원회가 올해 처음 연 무료 호신술 실습 수업이었다. 정원 80명에 180명이 신청해 경쟁률은 2.25대1이었다. &lt;br&gt;&lt;br&gt;최근 흉기 난동 사건이 잇따르자 호신술을 배우려는 시민들이 몰린 것이다. 지난달 13일 인천 한 대형상가에선 흉기 난동으로 10명이 다쳤다. 지난 4일에는 서울 세브란스병원에서도 흉기 난동 사건이 벌어졌다. 서울시 자치경찰위원회 관계자는 “현장에서 곧바로 쓸 수 있는 대처법을 가르쳐 달라는 요구가 많아 실습 수업을 신설했다”고 했다. &lt;br&gt;&lt;br&gt;최연소 수강생은 19세, 최고령은 80세였다. 20대가 22명으로 가장 많고, 60대 이상도 15명이었다. 김태일(80)씨는 “태권도 발차기 대신 위기 상황에서 바로 쓸 수 있는 방법을 배우고 싶었다”고 했다. 친구 4명과 함께 온 김행숙씨는 “늙어도 자기 몸을 지키고 싶은 마음은 같다”고 했다. &lt;br&gt;&lt;br&gt;노량진에 혼자 사는 ‘공시생(공무원 시험 준비생)’ 김지후(19)씨는 “서울이 안전하다고 하지만 요즘엔 늦은 밤 귀갓길이 불안하다”며 “경찰이 오려면 시간이 걸리지 않느냐”고 했다. 경찰 공무원 시험을 준비하는 유도 3단 정서희(31)씨는 “흉기를 휘두르는 사람을 유도하듯 엎어칠 순 없지 않느냐”며 “쉬운 요령을 배울 수 있다고 해서 찾아왔다”고 했다. 대학생 조승민(23)씨는 “요즘 흉흉한 사건이 많아 두려웠는데, 수업을 듣고 자신감이 생겼다”고 했다.&lt;br&gt;&lt;br&gt;강사 옥씨는 서울경찰청 소속 훈련교관이다. 대통령경호실에서도 근무했다. 옥씨가 가르치는 건 가방, 의자, 볼펜 등 주변 물건으로 흉기 공격을 막고 도망치는 ‘생존형 자기방어’다. 옥씨는 “피할 수 없다면 주변 사람들과 함께 시선을 분산시키며 대응해야 한다”고 했다.&lt;br&gt;&lt;br&gt;서울 25구 중 18곳도 올해 호신술 수업을 열었다. 11일 오후 마포 청년센터에서는 흉기를 든 상대를 피하거나 목이 졸렸을 때 빠져나오는 방법을 가르쳤다. 참가자 38명 중 35명이 여성이었다. 마포구 관계자는 “모집 공고를 낸 지 일주일 만에 마감됐다”고 했다. 관악 청년센터도 올해 처음 호신술 강좌를 개설했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “내년부터는 호신술 수강 인원을 2배 이상으로 늘릴 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>K문화에 빠진 외국인… 관광객 2000만명 첫 돌파</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/13/G6AFRECCNJFCLOSM2GPANAHFSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/13/G6AFRECCNJFCLOSM2GPANAHFSA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Nov 2026 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5KFPCN645DFFDWDVDB6UNTHNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 서울 종로구 경복궁에서 외국인 관광객 20여 명이 한복을 입고 기념사진을 찍고 있다. 문화체육관광부는 이날 한국을 찾은 외국인 관광객이 사상 처음 2000만명을 돌파했다고 밝혔다. 지난해 1894만명에 이어 2년 연속 역대 최다 기록을 경신했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>세무사 수석 합격자 ‘AI 안경’ 의혹</title>
