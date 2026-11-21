@@ -13,6 +13,134 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>코레일 “22일 첫차부터 경부선 일반열차 운행 재개”</title>
+      <link>https://www.chosun.com/national/2026/11/21/JEJ5WMEGV5BQNCB6VI6VCWICRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/11/21/JEJ5WMEGV5BQNCB6VI6VCWICRY/</guid>
+      <dc:creator>김우영 기자(조선비즈)</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 10:53:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRTQOJQHAYTOMRTMRSWCYLCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 세종시 소정면 경부선 소정리역에 진입하던 화물열차가 탈선해 한국철도공사 관계자들이 긴급 복구작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국철도공사(코레일)가 22일 첫차부터 경부선 일반열차 운행을 재개한다고 밝혔다.&lt;br&gt;&lt;br&gt;21일 코레일에 따르면 기중기 4대와 재크키트 3대 등 장비와 인력 180명을 투입해 밤샘 복구작업이 진행될 예정이다. 이후 해당 구간에 시험 열차를 투입해 사전 안전 점검을 완료한 뒤 22일 첫차부터 열차 운행을 재개할 방침이다.&lt;br&gt;&lt;br&gt;이번 사고는 이날 오전 5시 37분쯤 세종시 소정면 경부선 소정리역으로 진입하던 제3810 화물열차가 자동 비상제동 체결 후 궤도를 이탈하면서 발생했다.&lt;br&gt;&lt;br&gt;당시 화물열차 전체 21량 가운데 앞부분 2량과 뒷부분 3량 등 총 5량이 탈선했다. 인명 피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 사고로 천안∼대전 간 경부선 일반 열차 운행이 중지됐고, 코레일은 KTX와 ITX-새마을 등 긴급 임시열차 15대를 투입했다.&lt;br&gt;&lt;br&gt;이날 정의경 국토교통부 제2차관은 사고 현장을 찾아 대체 수송과 복구 상황을 점검하고, 사고 원인 규명과 재발 방지 대책 마련을 지시했다.&lt;br&gt;&lt;br&gt;코레일 관계자는 “열차 이용을 불편하게 한 점 깊이 사과드리고 안전한 복구를 위해 최선을 다하겠다”면서 “정확한 지연 열차 규모를 파악하는 한편 복구를 마치는 대로 정확한 탈선 원인을 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MNRTQOJQHAYTOMRTMRSWCYLCGE.jpg?auth=140cb00dba440a6c08e8598e5af93ddcd51b4d3c87eac9d1d27d3e5f5d16cb9d&amp;smart=true&amp;width=4032&amp;height=3024" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">21일 오전 세종시 소정면 경부선 소정리역에 진입하던 화물열차가 탈선해 한국철도공사 관계자들이 긴급 복구작업을 하고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>수능 뒤 더 커진 최교진 책임론... “단추 구멍도 제대로 안 막았다”</title>
+      <link>https://www.chosun.com/national/education/2026/11/21/U4RIJXVBPREAZLFDSCGU5PAROA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/21/U4RIJXVBPREAZLFDSCGU5PAROA/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 08:42:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KV24Y4QWH5KSRDUQC5W3T7PRCQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관이 지난 20일 서울 종로구 정부서울청사에서 열린 수능부정행위 대응 TF 1차 회의에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학교 3학년 학생 등으로 구성된 ‘수험생 연대’가 정부의 수능 AI 부정행위 대책들이 현장에서 제대로 이뤄지지 않았다고 주장하며, 최교진 교육부 장관의 사퇴를 촉구했다.&lt;br&gt;&lt;br&gt;21일 수험생 연대는 입장문을 내고 “단추에 부착하는 스티커를 시행하지 않은 학교가 대다수였고, 안경 검사는 육안으로 간단히 훑어보는 식으로 진행되는 등 실효성이 전혀 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 위급재난문자로 스마트폰을 제출하지 않은 학생들을 잡아낸 정부 대책에 대해 “단순 보여주기식 통제”라며 다른 수험생들의 불안을 전혀 고려하지 않았다고 지적했다.&lt;br&gt;&lt;br&gt;이들은 인천 남동구 한 고등학교에서 학생이 신은 신발에 금속탐지기가 반응한다는 이유로 시험 도중 신발을 벗겨 여러 차례 수색하며, 같은 교실 다른 학생들까지도 불안감을 느껴야 했던 일을 대표적인 문제 사례로 꼽았다.&lt;br&gt;&lt;br&gt;수험생 연대는 “구체적 매뉴얼과 기술적 지원 없이 현장 감독관에게 책임을 떠넘긴 교육부와 최교진 장관은 직무를 유기했다”며 “수시 서버 대란부터 정시 수능 현장 붕괴까지 2027학년도 대입 전반의 관리 부실에 대해 최 장관이 책임을 인정하고 즉각 사퇴해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YI35ZST2PVBZTLB43WNVZTNR34.jpg?auth=d2ebd1f621419c86846f0b53a23e9b0c377ce46ad85b1f54ea34437b87abd276&amp;smart=true&amp;width=1999&amp;height=1124" type="image/jpeg" height="1124" width="1999">
+        <media:description type="plain">[서울=뉴시스] 조수정 기자 = 최교진 교육부 장관이 20일 오후 서울 종로구 정부서울청사에서 열린 한성숙 국무총리 주재 수능 부정행위 대응 TF 1차회의에 참석하고 있다. 2026.11.20. chocrystal@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">chocrystal</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>출소 뒤 반년만에 국어 7→2등급... 리트 만점자, 3년 전 수능도 의혹</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/21/UWST2HRTEVBR5KCEI7I45KWCKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/21/UWST2HRTEVBR5KCEI7I45KWCKE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 05:02:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTAOJZMYZTOYZSGYYTKNRTMQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;부정행위 의혹 등이 제기된  LEET 만점자 고(故)이진우씨. /유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 법학적성시험(리트·LEET)에서 만점을 받은 고(故) 이진우(32)씨의 지난 2024학년도 대학수학능력시험(수능) 성적을 두고도 의혹이 불거지고 있다. 이씨가 2023년 5월 교도소 복역을 마쳤다는 사실을 고려해보면, 현실적으로 이씨에게 수능 준비 기간은 5~6개월에 불과했기 때문이다. &lt;br&gt;&lt;br&gt;이씨가 공개한 2018학년도와 2024학년도 수능 성적표에서 두드러지는 변화는 국어 과목이다. 기존에 7등급에 불과했던 국어 성적이 2024학년도 수능에서 2등급으로 올랐다. 하지만 2024학년도는 챗GPT가 출시된 지 약 1년 된 시기로, 지금보다는 AI의 문제 풀이 성능이 크게 떨어지는 상황이었다. 이에 일각에서는 이씨가 당시 AI 이외의 부정행위를 사용하지 않았다면 고려대 정치외교학과에 입학한 2024학년도 수능은 본인 실력이었을 수 있다는 추측도 나왔다. &lt;br&gt;&lt;br&gt;그러나 이씨의 경찰 수사 및 구속 전력 등을 고려하면 이씨의 갑작스러운 성적 상승이 의심스럽다는 의혹 제기도 나온다. 이씨는 2022년 3월 우회전하는 택시에 자전거로 돌진한 뒤 합의금을 갈취한 혐의로 같은 해 9월 징역 6개월을 선고받았다. &lt;br&gt;&lt;br&gt;하지만 당시 이씨는 이미 같은 혐의로 그해 1월 징역 8개월에 집행유예 2년을 선고받은 상태였다. 선고 후 2개월 만에 재범을 한 이씨는 6월 재판에 넘겨졌고, 이후 실형을 선고받으면서 1월에 선고받았던 집행유예도 취소됐다. 이에 따라 이씨의 수감 기간은 유예됐던 8개월에 새로 선고받은 6개월을 합쳐 도합 1년 2개월로 늘었다. &lt;br&gt;&lt;br&gt;이후 구속영장이 발부된 만큼 전체 형기에서 차감돼 이씨는 2023년 5월쯤 수감 생활을 마쳤다. 2024학년도 수능은 이로부터 약 6개월 뒤인 11월 16일이었다. 이씨가 복역을 마치고 수능 시험 준비를 시작했다면 반년 만에 국어 7등급→2등급의 성적 향상을 만들어낸 것이다. &lt;br&gt;&lt;br&gt;그런 가운데 이씨는 본인이 쓴 책 ‘브레인악셀’에 2022년 사업 실패 이후 친구들과 떠난 3주간의 도보 전국 일주가 본인의 터닝 포인트가 됐다고 썼다. 당시 휴대전화를 잃은 채 수십 km를 걸으면서 인지적 변화를 겪었다고 주장했는데, 이씨의 경찰 수사 및 수감 전력을 고려하면 신빙성이 떨어진다.&lt;br&gt;&lt;br&gt;한편 경찰은 이씨에 대한 고발장을 토대로 수사를 계속 진행한다는 방침이다. 다만 범행 수법이나 공범 여부에 대한 수사 방식은 아직 검토 중인 것으로 전해졌다. 사건 당사자인 이씨가 사망하면서 압수수색, 휴대전화 포렌식, 계좌추적 등 강제 수사가 어려워졌기 때문이다. &lt;br&gt;&lt;br&gt;우선 경찰은 이씨의 2026학년도 수능 시험지 확보를 위해 교육 당국에 증거 보전을 요청해놓은 상태다. 이에 당국은 보관 장소인 서울 영훈고등학교 측에 시험지 보관을 안내했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수험생 43% “올해 수능, 약간 어려웠어”</title>
+      <link>https://www.chosun.com/national/education/2026/11/21/3UZ7EPGRDBDDFOW6ITYY5GVCCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/21/3UZ7EPGRDBDDFOW6ITYY5GVCCU/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 04:47:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADXT2GDTNBFTTE4H7RKJLZBG3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 11월 20일 오후 서울 광진구 세종대학교에서 열린 '종로학원 2027학년도 수능 점수 분석 및 정시 합격점수 예측 긴급설명회'에서 참석 학부모와 수험생들이 입시 설명을 듣고 있다. /최기웅 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입시 전문가들 사이에서 올해 수능은 작년보다 쉬웠다는 분석이 나오고 있는 가운데, 수험생들 역시 작년에 비해 “매우 어려웠다”고 느낀 경우가 줄어든 것으로 나타났다.&lt;br&gt;&lt;br&gt;21일 EBS의 ‘2027학년도 수능 체감 난이도 조사’에 따르면, 수험생에게 ‘올해 수능 체감 난이도’를 물었더니 “약간 어려웠다”(43.3%)는 응답이 가장 많이 나왔다.&lt;br&gt;&lt;br&gt;그다음은 “보통이었다”(29.3%), “매우 어려웠다”(14.9%)였다. “약간 쉬웠다”(9.8%)와 “매우 쉬웠다”(2.7%)를 고른 수험생도 있었다. &lt;br&gt;&lt;br&gt;EBS는 수능이 치러진 지난 19일부터 오는 25일까지 수험생을 대상으로 수능 체감 난이도를 조사한다. 이날 오후 1시 20분 기준, 3089명이 참여했다.&lt;br&gt;&lt;br&gt;작년 동일한 질문에선 “매우 어려웠다”(51.1%)는 응답이 가장 많이 나왔다. 올해 수능이 매우 어려웠다고 느낀 학생이 작년보다 줄어든 것이다. &lt;br&gt;&lt;br&gt;작년 수능은 국어와 영어가 무척 어려웠다. 작년 수능 국어는 ‘칸트’ 문제 등 난해한 지문이 포함돼 표준점수 최고점이 147점을 기록했고, 절대평가인 수능 영어는 1등급 비율이 3.11%에 불과했다. 상대평가 1등급 비율(4%)보다 낮게 나온 것이다. &lt;br&gt;&lt;br&gt;이에 작년 수능은 국어에서 상위권 변별력이 크게 확보됐었다. 하지만 올해는 국어와 영어가 작년보다 쉽게 출제되면서, 상위권 변별력은 수학에서 확보될 것이란 평가가 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부안서 90도 온천탕에 빠진 60대 화상… 헬기 이송  </title>
+      <link>https://www.chosun.com/national/regional/2026/11/21/2NTGHXLSTFHF3HGIDOQHEHTE24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/21/2NTGHXLSTFHF3HGIDOQHEHTE24/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 05:25:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3NFPS5LM5CEJCBKLG6BJCICIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 10시 41분쯤 전북 부안군의 한 온천시설에서 60대 남성 A씨가 고온의 탕에 빠져 화상을 입었다.&lt;br&gt;&lt;br&gt;이 사고로 발등과 종아리 등 하반신에 2도 화상을 입은 A씨가 인근 화상 전문병원으로 헬기 이송됐다.&lt;br&gt;&lt;br&gt;A씨는 80∼90도로 온도가 높은 탕을 피해 가던 중 실수로 빠진 것으로 소방당국은 파악했다.&lt;br&gt;&lt;br&gt;소방당국은 A씨와 목격자 등을 상대로 정확한 사고 원인을 파악하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>진천서 전자발찌 끊고 도주한 50대 성범죄자… 당국 추적 </title>
+      <link>https://www.chosun.com/national/regional/2026/11/21/J3XXZUJCORAO7FP3GS3SVSSBHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/21/J3XXZUJCORAO7FP3GS3SVSSBHI/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 06:21:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2DGNJXMIZTKOLFHE3WEYTEGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 8시 50분쯤 충북 진천군 양백리에서 보호관찰 중인 성범죄자 50대 A씨가 전자발찌(위치 추적 전자 장치)를 끊고 달아나 당국이 추적 중이다.&lt;br&gt;&lt;br&gt;평택에 거주하는 A씨는 이날 승용차를 몰고 진천군으로 와 차 안에서 전자발찌를 끊은 채 도주했다.&lt;br&gt;&lt;br&gt;그는 성범죄로 실형을 복역한 뒤 보호관찰을 받던 중 전자발찌를 끊고 도주한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;법무부 보호관찰소는 경찰과 공조해 A씨의 뒤를 쫓고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보령 앞바다서 조업하던 30대 외국인 선원 양망기에 끼어 숨져</title>
+      <link>https://www.chosun.com/national/regional/2026/11/21/AW5IMBDJDNDCNOOYXATPDQT2LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/21/AW5IMBDJDNDCNOOYXATPDQT2LA/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 06:41:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2WKZDGHEZTCOBZGZSGENTFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보령해양경찰서 전경. /해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 9시 56분쯤 충남 보령시 오천면 호도 해상에서 조업 중이던 7.93t급 어선에서 30대 인도네시아 국적 선원이 양망기(어구나 그물을 끌어올리는 장비)에 끼여 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;당시 선장의 신고를 받고 출동한 보령해경은 A씨를 심정지 상태로 구조해 심폐소생술(CPR)을 실시하며 대천항으로 수송했다.&lt;br&gt;&lt;br&gt;A씨는 이후 대천항에서 대기 중이던 119 구급대에 의해 인근 병원으로 옮겨졌으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;이 어선은 이날 대천항에서 출항했다. 승선원은 모두 4명이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 “A씨가 그물을 걷어 올리다 양망기에 끼어 그대로 빨려 들어갔다”는 어선 관계자의 진술을 토대로 정확한 사고 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변호사단체 “민주당, 조희대 대법원장 탄핵 추진 중단하라”</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/21/6BNELMPDGVCTJP52V4VASPORY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/21/6BNELMPDGVCTJP52V4VASPORY4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 08:02:34 +0000</pubDate>
+      <content:encoded>더불어민주당이 조희대 대법원장 탄핵소추를 당론으로 채택한 것에 대해 변호사 단체가 “탄핵 소추권을 사법부 압박의 도구로 삼는 대법원장 탄핵 추진을 즉각 중단하라”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4GMNDGMQ3WCYZRG5RDKMJSHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 지난 20일 오전 서울 서초구 대법원으로 취재진의 질문에 답 없이 출근하고 있다. 더불어민주당은 조희대 대법원장에 대한 탄핵을 추진하기로 결정했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비영리 변호사 단체 ‘착한법 만드는 사람들(착한법)’은 21일 이 같은 내용이 담긴 성명을 냈다. 착한법은 “민주당은 구체적인 위헌·위법 사실이 없는 대법원장 탄핵소추 당론을 철회하고 탄핵소추 추진단을 해산하라”고 촉구했다.&lt;br&gt;&lt;br&gt;민주당은 전날 의원총회에서 조 대법원장 탄핵소추를 당론으로 채택했다. 민주당은 당내에 탄핵소추 추진단을 꾸리고 올해 안에 탄핵 소추안을 발의하겠다고 밝혔다. 민주당은 12·3 비상계엄 당시 조 대법원장의 대응, 이재명 대통령의 공직선거법 위반 사건을 대법원 전원합의체에 회부한 경위와 심리 기간, 대법관 후보자 재제청 거부, 업무 추진비 집행 의혹, 국회 증인 선서 거부 등을 탄핵 사유로 들었다.&lt;br&gt;&lt;br&gt;착한법은 민주당이 제시한 탄핵 사유가 조 대법원장을 파면할 만큼 중대한 헌법·법률 위반에 해당하지 않는다고 주장했다. 착한법은 “탄핵은 불신임 투표가 아니다”라며 “헌법재판소는 탄핵이 정치적 이유로 책임을 묻는 제도가 아니며, 파면을 정당화할 만큼 중대한 헌법·법률 위반이 있어야 한다고 밝힌 바 있다”고 했다.&lt;br&gt;&lt;br&gt;계엄 당시 조 대법원장의 행적은 내란 특검이 이미 무혐의 처분했고, 대법관 후보자 재제청을 거부한 것은 헌법이 대법원장에게 부여한 제청권을 행사한 것이라는 게 착한법의 설명이다. &lt;br&gt;&lt;br&gt;이 단체는 조 대법원장이 판사들에게 업무 추진비를 현금으로 지급한 것이 업무상 횡령에 해당한다는 민주당 주장에 대해선 “수사와 감사로 먼저 가려야 할 의혹 단계의 사안”이라고 했다. 조 대법원장이 국회에서 증인 선서를 거부한 문제도 “국회증언감정법이 정한 절차로 다툴 일”이라고 했다.&lt;br&gt;&lt;br&gt;착한법은 특히 대법원이 이 대통령의 공직선거법 위반 사건을 유죄 취지로 파기환송하기까지의 재판 절차를 민주당이 탄핵 사유로 삼은 점을 비판했다. 어떤 사건을 전원합의체에 회부할지, 얼마나 오래 심리할지는 사법부 스스로 판단할 문제라는 것이다. 착한법은 “재판이 마음에 들지 않는다고 그 재판을 이끈 법관을 탄핵으로 단죄한다면, 국회가 대법원 위의 상급심 노릇을 하겠다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;착한법은 국회가 탄핵소추안을 의결하면 헌법재판소의 결정이 나올 때까지 대법원장의 권한 행사가 정지된다는 점도 지적했다. 착한법은 “구체적인 위헌·위법 사실 없이 재판의 결과를 바꾸거나 사법부의 독립된 권능을 무력화할 목적으로 탄핵소추권을 조직적·반복적으로 행사한다면, 헌법이 국회에 맡긴 권한을 남용하는 것”이라고 했다. &lt;br&gt;&lt;br&gt;아울러 착한법은 “이러한 선례가 남으면 앞으로 모든 법관은 정치적으로 민감한 사건 앞에서 법리보다 국회의 반응을 먼저 헤아리게 될 것”이라며 “그 결과 공정한 재판을 받을 권리를 잃는 것은 결국 국민”이라고 지적했다. 착한법은 “국회가 탄핵소추권을 사법부 압박의 도구로 삼아선 안 된다”며 “정치권이 재판을 이유로 법관의 신분을 위협하는 일을 멈추라”고 촉구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기도교육청, 교원 158명 개인정보 유출사고 발생…“확인 즉시 폐기”</title>
+      <link>https://www.chosun.com/national/regional/2026/11/21/WE5GXZYG2BF7VOLA3ITXCDMKFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/21/WE5GXZYG2BF7VOLA3ITXCDMKFU/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 08:09:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYTEYJYGZSGIMRYGAZTIOBTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도교육청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육청이 교원소청심사위원회에 제출하는 자료에서 교원 158명의 개인정보를 알아볼 수 없도록 가리는 조치(비식별 처리)를 하지 않고 유출하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;21일 경기도교육청에 따르면 도교육청은 전날 홈페이지에 ‘개인정보유출 사실 고지 및 조치결과 안내’ 공지문을 올리고 이 같은 사실을 알렸다.&lt;br&gt;&lt;br&gt;도교육청이 교원소청심사위원회에 제출한 문서 자료 2건에는 교원의 소속과 성명, 생년월일, 겸직허가 여부, 사교육업체명, 거래 계기 및 기간, 계약·해지일, 수행업무 요지, 비위 내용, 수수·지급액 등 교원들의 개인정보가 그대로 포함됐다.&lt;br&gt;&lt;br&gt;2018년부터 2022년까지 한 교육 관련 업체와의 계약 체결 자료(교원 85명)가 지난 5월 12일과 15일, 18일 사건 관계인 4명에게 전달됐다. 교원의 사교육 시장 참여 관련 복무감사 결과보고서 자료(교원 73명)는 지난 5월 6일 사건 관계인 1명에게 전달됐다.&lt;br&gt;&lt;br&gt;도교육청은 유출 범위가 사건 관계인 5명에 한정되며 인터넷 게시 등 불특정 다수에게 공개된 사실은 없다고 밝혔다.&lt;br&gt;&lt;br&gt;또 통보를 받은 즉시 해당 자료를 비식별 처리한 자료로 교체해 제출하고, 교원소청심사위원회가 보관하던 기존 자료가 폐기된 사실을 확인했다고 설명했다.&lt;br&gt;&lt;br&gt;자료를 전달받은 관계인들의 협조를 통해 해당 개인정보가 인지되지 않았거나 폐기될 예정임도 확인했고, 현재까지 제3자에게 제공되거나 열람된 정황은 없다고 덧붙였다.&lt;br&gt;&lt;br&gt;도교육청은 공지문을 통해 “개인정보를 보호해야 할 교육행정기관으로서 해당 교원 여러분께 심려를 끼쳐 드린 점을 깊이 사과드린다”며 “앞으로 대외 제출 문서 전반에 대해 개인정보 비식별 처리 여부 사전 점검 절차를 강화하고 담당자 교육을 실시해 같은 일이 재발하지 않도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 11월 22일 일요일 (음력 10월 14일 庚子)</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/21/TKILPN4IV5AODJ3TETYUGL5QLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/21/TKILPN4IV5AODJ3TETYUGL5QLM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" alt="" height="652" width="1232"/&gt;&lt;p&gt;조선일보의 ‘오늘의 운세’를 2017년부터 연재한 금오산방(金烏山房) 한소평 강주. 그가 풀어주는 띠별·나이별 운세를 매일 아침 전해드립니다.&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5IGLZDMABVE3FH4TEHBX53HF5E.jpg?auth=67b64aeaf47c28fa02dc263af79116256eae079c70a8b66c21dc10712506b4af&amp;smart=true&amp;width=1232&amp;height=652" type="image/jpeg" height="652" width="1232">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>코레일, 경부선 화물열차 궤도 이탈에 “긴급 임시열차 15대 투입”</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/21/FM5M6YXWAJBERJHKMEZVPJDLLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/21/FM5M6YXWAJBERJHKMEZVPJDLLI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 05:35:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDR72TQDRFJTBFXFSJPVKOSZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 세종시 소정면 경부선 소정리역 부근에서 탈선사고가 발생해 한국철도공사(코레일) 등 관계자들이 원인 파악 및 복구작업에 나서고 있다. 이날 사고는 소정리역으로 진입하는 제3810 화물열차가 자동 비상제동 체결했으나 궤도를 이탈한 것으로 파악됐다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경부선 소정리역에서 화물열차가 궤도를 이탈하는 사고가 발생해 경부선 천안~대전·서대전 일반열차 운행이 중단되자, 한국철도공사(코레일)가 긴급 임시열차 15대를 투입했다.&lt;br&gt;&lt;br&gt;21일 오후 코레일은 “열차 이용객의 불편을 줄이기 위해 KTX와 ITX-새마을 등 긴급 임시열차 15대를 투입한다”며 “해당 열차 승차권은 모바일 앱과 온라인 홈페이지, 철도역 창구, 자동발매기를 통해 구매할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COT2X52JKVHEZK3PGUGMF7PS5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KTX는 용산~광주송정(상·하행 1대씩) 구간, 서울~부산(상·하행 1대씩) 구간 운행에 총 4대가 투입됐다. ITX-새마을은 서울~천안 구간, 용산~천안 구간 운행에 총 11대가 투입됐다.&lt;br&gt;&lt;br&gt;이는 이날 오전 5시 37분쯤 세종시 소정면 경부선 소정리역에서 화물열차가 궤도를 이탈하는 사고가 발생했고, 이로 인해 경부선 천안~대전·서대전 일반열차 운행이 중단되면서 이뤄진 조치다.&lt;br&gt;&lt;br&gt;코레일은 오전 10시 기준, 경부선 천안~대전·서대전 구간의 일반열차 운행을 중지했다. 서울·용산~천안 구간, 대전·서대전~부산·광주·목포 구간 일반열차는 운행되고 있다. &lt;br&gt;&lt;br&gt;충북·장항선 일반열차와 고속선을 이용하는 KTX열차는 이번 사고 영향을 받지 않아, 정상 운행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BDR72TQDRFJTBFXFSJPVKOSZMI.jpg?auth=2102b4fc7df22c07e3f9ff0f221441a88a64c471e384fe4a0da29bf3856b2eab&amp;smart=true&amp;width=5820&amp;height=3624" type="image/jpeg" height="3624" width="5820">
+        <media:description type="plain">&lt;YONHAP PHOTO-2554&gt; '이용객 몰리는 주말에 탈선사고'
+    (세종=연합뉴스) 이주형 기자 = 21일 오전 세종시 소정면 경부선 소정리역 부근에서 탈선사고가 발생해 한국철도공사(코레일) 등 관계자들이 원인 파악 및 복구작업에 나서고 있다. 이날 사고는 소정리역으로 진입하는 제3810 화물열차가 자동 비상제동 체결했으나 궤도를 이탈한 것으로 파악됐다. 2026.11.21
+    coolee@yna.co.kr/2026-11-21 12:09:51/
+&lt;저작권자 ⓒ 1980-2026 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이주형</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“앞치마 입고 시험보라”... 대학 논술장도 초긴장</title>
+      <link>https://www.chosun.com/national/education/2026/11/21/C76MBS6ZWZBNZB4LM6C6SK7KNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/21/C76MBS6ZWZBNZB4LM6C6SK7KNY/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Nov 2026 03:52:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NSW4YKIDJKNBNCPH6QZ7JB4UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 동대문구 경희대학교에서 2027학년도 논술시험을 보는 수험생이 인공지능(AI) 활용 부정행위를 막기 위해 배부된 앞치마를 입고 있다./경희대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 치러진 2027학년도 수능은 끝났지만, 대학별 논술고사는 이번 주말부터 본격적으로 시작된다. &lt;br&gt;&lt;br&gt;21일 진학사가 대입 논술전형을 운영하는 대학 44곳의 일정을 정리한 결과, 이번 주말(21~22일)엔 14개 대학이 논술고사를 치른다. 다음 주말(28~29일)에도 14개 대학에서 논술고사가 실시된다. &lt;br&gt;&lt;br&gt;이번 주말엔 건국대와 경희대, 고려대, 동국대, 서강대, 성균관대 등에서 논술고사가 치러진다. 진학사에 따르면, 서강대(123.65대1)와 성균관대(102.37대1)는 100대1이 넘는 경쟁률을 기록할 정도로 치열하다.&lt;br&gt;&lt;br&gt;모집 단위별로 살펴보면, 의약학 계열 경쟁률이 높았다. 경희대 한의예과(인문)는 논술전형으로 5명을 모집하는데 3111명이 지원해, 경쟁률 622.2대1을 기록했다. 성균관대 의예과(524.6대1) 역시 논술전형 경쟁률이 높았다. &lt;br&gt;&lt;br&gt;다음 주말에는 경북대, 부산대, 이화여대, 중앙대, 한양대, 가천대 등에서 논술고사를 진행한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUUQUGT7EVNVNLWKG6QACADO5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 동대문구 경희대학교에서 열린 2027학년도 논술시험 고사장에 인공지능(AI) 활용 부정행위를 막기 위한 감독관 체크리스트가 놓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학들은 이번 대입 논술전형을 앞두고 불거진 ‘AI 부정행위’ 논란에 적극 대응하고 있다. 지난달 연세대와 서울시립대 논술고사에선 스마트 안경을 이용한 부정행위자가 적발됐었다.&lt;br&gt;&lt;br&gt;경희대는 논술고사 응시생들에게 흰색 일회용 앞치마를 나눠준다. 경희대는 이를 위해 일회용 앞치마 약 3만여장을 준비한 것으로 전해진다. 한양대와 중앙대, 건국대 등은 수험생의 안경을 전부 검사하기로 했다. 숙명여대의 경우 검사한 안경에 확인 스티커를 붙인다. 고려대는 스마트 안경과 초소형 카메라 등 통신·촬영 기기의 반입을 금지했다. 세종대는 휴대용 전파 탐지기와 금속 탐지기를 추가 구매했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VADYLCL54VNHFLGDH42BMP3BHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 동대문구 경희대학교에서 2027학년도 논술시험을 보는 수험생이 고사장 입실에 앞서 인공지능(AI) 활용 부정행위 수색을 받고 있다. /경희대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대는 이달 말 수시 모집 면접·구술고사에서 지원자 전원에게 일회용 위생 가운을 나눠주기로 했다. 소매나 옷깃, 단추 등에 숨긴 초소형 카메라로 시험 문제를 촬영해 답을 얻는 부정행위를 막기 위한 조치다. 스마트 안경과 스마트링, 스마트밴드, 초소형 카메라·이어폰 등은 소지만 해도 부정행위로 처리한다.&lt;br&gt;&lt;br&gt;교육부는 한국대학교육협의회, 대학별 고사 운영 대학과 함께 ‘대학별 고사 부정행위 긴급대응반’을 구성했다. 교육부 관계자는 “대교협 및 대학들에 스마트 기기를 이용한 부정행위에 엄중히 대응하고 제재 처분을 강화할 것을 촉구했다”며 “긴급대응반을 통해 부정행위 예방·적발 사안 등을 긴밀하게 소통하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ABC6FOWQCNA6FFQWZP3ITKVSNE.gif?auth=4f6bf05bb865c692d6203aca4f941d735db4261e45eb94ce668671f2336420b3&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">21일 서울 동대문구 경희대학교에서 2027학년도 논술시험을 보는 수험생들이 인공지능(AI) 활용 부정행위를 막기 위해 배부된 앞치마를 입고 있다./경희대학교</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>앞치마 착용, 금속탐지기... 시험장마다 “AI 커닝 막아라”</title>
       <link>https://www.chosun.com/national/national_general/2026/11/21/OMLGGR254NHHPFGJQVPNXYPMTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/21/OMLGGR254NHHPFGJQVPNXYPMTY/</guid>
@@ -801,42 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYWENDDMRSTINRVMRQTQMRYGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인공 둥지에 있는 하늘다람쥐. /국립생태원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 3월 대형 산불 피해를 본 경북 영양군 지역의 숲속 인공 둥지에 천연기념물이자 멸종 위기 야생생물 Ⅱ급인 하늘다람쥐 최대 6마리가 살고 있는 것으로 확인됐다. 인공 둥지를 짓는 등 대체 보금자리를 만들어준 결과로 풀이된다.&lt;br&gt;&lt;br&gt;국립생태원은 20일 “경북 영양군 석보면 포산리 일대의 산불 피해 지역에 설치한 인공 둥지에서 하늘다람쥐의 서식과 번식을 최근 확인했다”고 밝혔다.&lt;br&gt;&lt;br&gt;영양군 석보면 포산리에는 2024년 9월 국가습지보호지역으로 지정된 장구메기습지가 있다. 약 4.5ha(헥타르) 면적의 습지는 하늘다람쥐와 담비, 삵 등 멸종 위기 야생생물 6종을 포함해 총 458종이 서식하는 공간이었다.&lt;br&gt;&lt;br&gt;그런데 지난해 3월 경북 지역을 휩쓴 역대 최악의 산불이 났고, 이곳 습지 주변 산림도 피해를 봤다. 일반적으로 산불로 훼손된 숲이 다시 예전 모습을 갖추기까지는 30년 이상 걸린다. 생태계가 안정되기까지는 100년이 넘게 걸릴 수도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFVR2ECQE5BHJGPMVP5HG36DVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 영양군 석보면 포산리 일대 산불 피해 지역에서 확인된 하늘다람쥐. /국립생태원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 하늘다람쥐는 보금자리로 딱따구리류가 뚫어놓은 나무구멍을 주로 이용하기 때문에 산불로 나무가 훼손되면 둥지를 확보하는 데 어려움을 겪는다.&lt;br&gt;&lt;br&gt;국립생태원 멸종위기종복원센터는 작년 10월 지역 주민과 함께 숲이 회복되는 동안 머물 수 있는 대체 보금자리로 인공 둥지 65개를 설치했다.&lt;br&gt;&lt;br&gt;이후 센터 연구진이 인공 둥지를 조사한 결과, 올해 7∼10월 하늘다람쥐 최대 6마리가 인공 둥지를 이용하며 번식하는 모습을 관찰했다. 국립생태원 측은 “이번 발견이 지역 주민과 함께 마련한 인공 둥지가 산불 피해 지역 야생동물의 실제 서식 공간으로 활용되고 있음을 보여준다는 점에서 의미가 있다”고 평가했다.&lt;br&gt;&lt;br&gt;강재신 센터장은 “산불로 상처 입은 숲에서 인공 둥지가 하늘다람쥐의 소중한 보금자리로 자리매김했다”며 “이번 활동이 하늘다람쥐의 안정적인 서식에 보탬이 되고, 다시 생명이 깃드는 희망적인 변화로 이어지기를 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>재정난 속 감독 연봉 인상…83억 횡령 방치한 김포FC</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/20/SWOFZK5P3NBORKM7D3K26J3744/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/20/SWOFZK5P3NBORKM7D3K26J3744/</guid>
-      <dc:creator>김포=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Nov 2026 04:41:53 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5H6Q2L4HHNBPBM6CISTBLNSCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김포시청 전경. /김포시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로축구 K리그2 김포FC에서 회계 담당 직원이 4년간 83억원이 넘는 회삿돈을 횡령하는 동안 구단의 내부 감시 체계가 사실상 작동하지 않았던 것으로 드러났다. 구단은 재정난 속에서도 감독의 연봉과 성과급을 인상하고 지급 대상이 아닌 직원에게 포상금을 주는 등 방만하게 운영된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경기 김포시는 20일 이 같은 내용의 김포FC 특별조사 결과를 발표하고 홍경호 구단 대표이사 해임과 관련자 중징계를 요구하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;김포FC 재무 담당 직원 A씨는 2023년부터 올해까지 52차례에 걸쳐 법인 자금 83억1000만원을 횡령한 것으로 나타났다. A씨는 법인 계좌에 돈이 부족해지면 횡령한 자금 일부를 다시 입금했다가 빼내거나 다른 계좌에서 돈을 가져오는 수법을 사용했다. 허위 회계 자료를 만들어 상급자에게 보고하는 방식으로 범행을 숨기기도 했다.&lt;br&gt;&lt;br&gt;A씨는 올해 횡령한 58억원과 관련해 구속 기소돼 재판받고 있다. 나머지 25억원에 대해서는 경찰 수사가 진행 중이다.&lt;br&gt;&lt;br&gt;조사 결과, 구단은 자금 관련 업무를 사실상 직원 한 명에게 맡겼고 회계 업무를 총괄할 경영지원팀장 자리도 장기간 비워뒀다고 한다. 실제 은행 거래 내역과 회계 시스템 기록을 정기적으로 대조하는 절차조차 없었다.&lt;br&gt;&lt;br&gt;이 과정에서 구단 운영 자금은 완전히 고갈돼 지난해 말 기준 미지급금은 4억8000만원까지 불어났다. 그러나 구단 관리자들은 A씨의 거짓 보고에 의존한 채 제대로 된 확인 절차를 거치지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;횡령 외에 부적절한 예산 집행 사례도 확인됐다. 김포FC는 계약 기간이 남아 있는 감독의 연봉과 성과급을 올리는 변경 계약을 체결했다. 인상분을 소급 지급하기도 했다.&lt;br&gt;&lt;br&gt;김포시는 구단 운영 부실의 책임을 물어 홍경호 대표이사 해임을 구단 측에 통보할 계획이다. 횡령 당사자인 A씨와 관리·감독 책임이 있는 사무국장, 선수단장에 대해서도 중징계를 요구하기로 했다.&lt;br&gt;&lt;br&gt;이기형 시장은 “시민의 세금과 공공 재원으로 운영되는 김포FC에서 중대한 사건이 발생해 무거운 책임감을 느낀다”며 “재정 운영과 내부 통제 체계가 실질적으로 변화하도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>친구 살해하고 “심신미약” 주장… 정재환 정신감정 결과 나왔다</title>
-      <link>https://www.chosun.com/national/2026/11/20/C7TRZEZMZRC5LBKTFANNG5W6LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2026/11/20/C7TRZEZMZRC5LBKTFANNG5W6LM/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Nov 2026 03:34:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7255R5F5FBF3C2IFC25PKYO5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'경산 친구 살해 사건' 피의자 정재환. /경북경찰청.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7월 경북 경산에서 친구를 살해한 혐의로 재판에 넘겨진 정재환이 과도한 음주로 폭력적 성향을 드러냈으나 이를 병적인 정신 상태로 볼 수 없다는 정신감정 결과가 나왔다.&lt;br&gt;&lt;br&gt;대구지법 형사12부(정한근 부장판사)는 20일 살인 혐의로 기소된 정재환에 대한 속행 공판에서 보완 제출된 정신감정서 내용을 공개했다.&lt;br&gt;&lt;br&gt;정신 감정서에는 정재환이 뇌 기능에 이상은 없으나 상당 기간 음주로 인한 기억 상실을 반복적으로 경험했으며 이러한 상태에서 폭력적 성향을 드러냈다는 내용이 담겼다.&lt;br&gt;&lt;br&gt;범행 당시에는 과도한 음주로 전두엽 충동 조절 능력이 통상적인 수준 이하로 저하돼 폭력적 성향이 살인 범죄로 확대된 것으로 분석됐다.&lt;br&gt;&lt;br&gt;그러나 음주량에 비해 지나친 정신 장애나 행동 장애가 나타났다고 보기 어렵고, 옳고 그름을 구분하는 사물 분별 능력이나 의사결정 능력이 결여된 상태도 아니었다는 소견이 제시됐다.&lt;br&gt;&lt;br&gt;정재환 측 변호인은 지난 18일 심신상실 또는 심신미약을 주장하는 의견서를 재판부에 제출했다.&lt;br&gt;&lt;br&gt;정한근 부장판사는 “폭력적 성향이 나타날 수 있다는 사실을 알고도 음주했다면 심신미약을 인정하지 않거나 형을 감경하지 않을 수 있다”며 “정신감정서 등을 토대로 최종 판단하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;공소청은 정재환이 과거 폭력 범죄로 처벌받은 전력이 있고 재범 위험성이 높게 평가된 점에 근거해 보호관찰 및 전자장치 부착 명령 청구를 유지한다는 의견을 내놨다.&lt;br&gt;&lt;br&gt;변호인은 두 청구를 모두 기각해달라고 요청했다. 피해자 측 변호인은 법정에서 살인뿐 아니라 사체손괴에 관해서도 판단이 이뤄져야 한다고 주장했다.&lt;br&gt;&lt;br&gt;이에 검사는 사체손괴 혐의에 대해 경찰이 수사 중이며 아직 공소청에 사건이 송치되지 않았다고 설명했다.&lt;br&gt;&lt;br&gt;재판부는 필요할 경우 향후 피해자 유족을 상대로 양형 조사를 실시하는 방안도 검토하기로 했다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 18일 공판을 속행한 뒤 추가로 제출할 증거가 없으면 당일 변론을 종결하고 내년 1월 중 선고할 방침이다.&lt;br&gt;&lt;br&gt;정재환은 지난 7월 4일 오전 3시40분쯤 경산시 하양읍 자신의 집에서 친구들과 술을 마시던 중 피해자를 흉기로 수십 차례 찔러 살해한 혐의로 재판에 넘겨졌다. 피해자의 시신에서는 자상과 절상 등 약 40곳의 상처가 발견된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수능 시험장서 카메라·이어폰 숨겼다 적발… 경찰 수사 착수</title>
-      <link>https://www.chosun.com/national/incident/2026/11/20/N45FEIXHABCA3PEGDOOLHUE6IQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/20/N45FEIXHABCA3PEGDOOLHUE6IQ/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Nov 2026 02:29:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AISRXV3SRJNXRKAMUK5547VVKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 대학수학능력시험(수능) 중 재수생이 소지하고 있던 카메라와 블루투스 이어폰이 발견된 경기 용인시 처인구 한 수험장 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027학년도 대학수학능력시험 시험장에서 소형 카메라와 블루투스 이어폰을 몰래 소지했다가 적발된 20대 남성 수험생이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 사이버범죄수사대는 위계에 의한 공무집행방해 혐의로 20대 남성 A씨를 입건해 조사 중이라고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 수능이 치러진 19일 경기 용인시의 한 고등학교 시험장에서 반입이 금지된 소형 카메라와 블루투스 이어폰을 감독관에게 제출하지 않고 소지한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 2교시 수학영역 시험 도중 옷 속에 카메라를 숨기고 있다가 감독관에게 적발됐다. 당시 블루투스 이어폰도 함께 발견됐다. 시험장 복도에 놓아둔 A씨의 가방에서는 태블릿PC가 추가로 나왔다. 발견된 전자기기들은 모두 전원이 켜진 상태였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 시험이 끝난 뒤 A씨를 경기남부경찰청으로 임의동행해 오후 6시부터 약 5시간 20분 동안 조사했다. A씨는 조사에서 혐의를 인정하는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 카메라로 시험 문제를 촬영하거나 외부로 전송했는지, 1교시 국어영역 시험에서도 전자기기를 사용했는지 등을 집중 조사하고 있다. 전자기기 구입 경위와 외부 조력자의 개입 가능성에 대해서도 진술을 확보했다. 다만 구체적인 진술 내용은 공개하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 압수한 전자기기에 대한 디지털 포렌식을 통해 실제 부정행위 여부와 외부 전송 기록 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>천안 수능 시험장서 ‘스마트 안경’ 썼던 20대 입건</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2026/11/20/QR7LQMVYVVD2HAWB6WHE6SXWVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/11/20/QR7LQMVYVVD2HAWB6WHE6SXWVY/</guid>
-      <dc:creator>천안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Nov 2026 01:20:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43DGMZQGYYTKZBUGI2TQYRRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스마트안경.(사진은 기사와 직접적인 관련 없음) /뉴스1 최지환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027학년도 대학수학능력시험(수능)이 치러진 충남 천안의 한 시험장에서 스마트 안경을 쓰고 있던 수험생이 경찰에 입건돼 조사를 받고 있다.&lt;br&gt;&lt;br&gt;충남경찰청은 위계에 의한 공무집행방해 혐의로 A(20)씨를 입건해 조사 중이라고 20일 밝혔다. A씨는 지난 19일 천안 신당고등학교 시험장에서 2교시 수학 영역 시험을 보던 중 스마트 안경을 착용해 부정행위를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;고등학교 졸업생인 A씨가 스마트 안경을 착용한 사실을 시험 감독관이 발견했고, 오후 1시 56분쯤 경찰에 신고했다.&lt;br&gt;&lt;br&gt;전날 경찰 조사를 받은 A씨는 집으로 돌아간 상태다. 경찰은 A씨가 착용한 스마트 안경 등 확보한 증거물을 분석하는 한편, 범행을 도운 조력자가 있는지도 확인하고 있다.&lt;br&gt;&lt;br&gt;경찰은 사안의 중대성을 고려해 구속영장 신청도 검토할 방침이다.&lt;br&gt;&lt;br&gt;앞서 정부는 수능 부정행위자의 응시 자격 제한 기간을 1년에서 10년으로 늘리고, 스마트 기기를 이용한 중대한 부정행위는 위계에 의한 공무집행방해 혐의로 고발하거나 수사를 의뢰하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“아파트 이미지 고급화해야 집값 올라” 유명 가수 부르고 상가 간판까지 규제</title>
       <link>https://www.chosun.com/national/national_general/2026/11/20/IWMCT2ZTSREVPFDK34HMNRYXAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/20/IWMCT2ZTSREVPFDK34HMNRYXAM/</guid>
@@ -849,15 +941,6 @@
       </media:content>
     </item>
     <item>
-      <title>서울역서 강남 25분… 27일부터 심야 급행 좌석버스 달린다</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/20/MBVPNR4DJVCNFNPDULPHP23GIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/20/MBVPNR4DJVCNFNPDULPHP23GIA/</guid>
-      <dc:creator>윤성우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPZ5RBMNN5BALKWTJWLHJDEYIE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심 주요 지역을 연결하는 심야 좌석버스가 운행을 시작한다. 서울시는 오는 27일부터 심야 좌석버스 ‘반딧불이버스’를 운행한다고 19일 밝혔다. 홍대입구역과 신촌역, 광화문역, 을지로입구역, 동대문디자인플라자(DDP), 명동역, 서울역, 고속터미널역, 논현역, 강남역 등을 연결한다.&lt;br&gt;&lt;br&gt;운행 시간은 매일 오후 11시 20분부터 다음 날 오전 5시 30분까지다. 41인승 좌석버스 8대를 투입해 약 20분 간격으로 운행한다. 입석은 금지된다. 요금은 3000원으로 환승 할인도 적용된다. 서울시 관계자는 “서울역에서 강남역까지 약 25분이면 갈 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;반딧불이버스는 현재 운행 중인 심야 시내버스 ‘올빼미버스(N버스)’와 역할이 다르다. 올빼미버스는 도심과 외곽 주거지를 연결해 시민 귀가를 돕는 버스다. 일반 시내버스처럼 입석도 가능하다. 반면 반딧불이버스는 정류장을 줄여 도심 주요 지역을 빠르게 연결하는 데 초점을 맞췄다. &lt;br&gt;&lt;br&gt;서울시는 심야 시간대 주요 지역을 오가는 시민과 외국인 관광객이 늘면서 새로운 교통수단이 필요하다고 보고 있다. 올빼미버스 이용객은 2021년 294만명에서 지난해 832만명으로 4년 새 2.8배로 늘었다. 올 1~9월 서울을 찾은 외국인 관광객은 1314만명으로 작년 같은 기간보다 21.5% 늘었다. 서울시 관계자는 “야간 상권 활성화에도 도움이 될 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>344억 들였는데 “쓰레기통”… 창원 빅트리, 전망대 탈바꿈</title>
       <link>https://www.chosun.com/national/2026/11/20/FSA5E36RTNDEXHFBYQRV6H2BCI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/11/20/FSA5E36RTNDEXHFBYQRV6H2BCI/</guid>
@@ -867,19 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIGXHHBJSFBQJN2XSJ67LP3R5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시가 대상공원 빅트리 상부에 실내 전망대 등 시설 개선을 추진한다. 사진은 지난 8~9월 국민을 대상으로 한 아이디어 공모전에서 최우수상을 받은 조감도. /창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조감도와 너무 달라 “통나무 쓰레기통 같다”는 비판을 받은 경남 창원 전망대 ‘빅트리(Big Tree)’가 리모델링된다. 창원시는 55억원을 추가로 들여 빅트리 꼭대기에 실내 전망대와 카페를 짓기로 했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;빅트리는 작년 10월 창원시 대상공원에 들어선 높이 40m 나무 모양 전망대다. 아파트 15층 높이로, 짓는 데 344억원이 들었다. 민간 사업자인 현대건설이 대상공원 부지(96만7000㎡)의 12.7%에 1779가구 아파트를 짓는 대신 빅트리 등을 지어 기부채납하는 방식으로 추진됐다. 당초 공개된 조감도는 싱가포르 ‘가든스 바이 더 베이(Gardens by the Bay)’에 있는 명물 ‘수퍼트리’와 비슷해 기대를 모았으나 실제 모습은 달라 혹평이 쏟아졌다. 창원시가 시민 1868명을 대상으로 설문조사를 해보니 응답자 85%가 부정적인 평가를 내놨다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDQFZ65OEJECBGSBI2UWSHRCSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시의 새 랜드마크가 될 것으로 기대를 모았던 전망대 ‘빅트리(오른쪽)’ 조감도. 왼쪽 사진은 실제 완공된 모습이다. 조감도와 너무 달라 “통나무 쓰레기통 같다”는 비판도 나왔다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 계획은 시민 의견을 반영한 것이다. 창원시가 지난해 시민 4663명을 대상으로 실시한 설문조사에서 응답자 51%가 실내 전망 시설 설치를 원했다. 올해 ‘개선 아이디어 공모전’에서도 실내 전망대를 그린 작품이 최우수상을 받았다.&lt;br&gt;&lt;br&gt;창원시는 현재 야외 정원만 있는 빅트리 꼭대기에 실내 전망대와 스카이라운지 카페를 설치할 계획이다. 내년 2월 설계 공모와 실시설계에 들어간다. 2028년 2월 착공해 같은 해 11월 개장하는 게 목표다. &lt;br&gt;&lt;br&gt;추가 공사비는 창원시가 우선 부담한다. 이성민 창원시 푸른도시사업소장은 “사업 비용은 시 예산을 우선 투입하고, 나중에 사업비 정산 과정을 거쳐 민간 시행자에게 돌려받을 계획”이라고 했다.&lt;br&gt;&lt;br&gt;창원시는 지난 6월 빅트리 공사비가 부풀려졌을 가능성이 있다며 민간 사업자 측 관계자를 경찰에 수사 의뢰했다. &lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/WIGXHHBJSFBQJN2XSJ67LP3R5E.jpg?auth=06df1a8a7e4b5a1e35c3fda68a60b13b29f71896820440ca100b0d7ba08c67c3&amp;smart=true&amp;width=620&amp;height=527" type="image/jpeg" height="527" width="620">
         <media:description type="plain">경남 창원시가 대상공원 빅트리 상부에 실내 전망대 등 시설 개선을 추진한다. 사진은 지난 8~9월 국민을 대상으로 한 아이디어 공모전에서 최우수상을 받은 조감도. /창원시</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>울먹인 앤디 김 “치매 앓고 내 몸 할퀴는 父… 인생에서 가장 힘든 시간”</title>
-      <link>https://www.chosun.com/international/us/2026/11/20/V3NJG65WV5GX3MWZUE4W45MAJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/international/us/2026/11/20/V3NJG65WV5GX3MWZUE4W45MAJA/</guid>
-      <dc:creator>워싱턴=김은중 특파원</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 20:49:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF26WRHTENGX3H5SX2KPOOI6ZY.png"&gt;&lt;figcaption&gt;&lt;small&gt;앤디 김 미국 민주당 상원의원(맨 오른쪽)과 부친 김정한씨(맨 왼쪽). /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국계 앤디 김 미국 민주당 상원의원이 최근 치매를 앓고 있는 부친이 “믿기 어려울 정도로 공격적이고 폭력적으로 변했다”며 “알츠하이머 진단을 받은 뒤 내가 상상할 수 있는 가장 힘든 시간을 보내고 있다”고 했다. 2025년 한국계로는 처음 연방 상원에 입성한 김 의원의 부친 김정한씨는 1972년 국비 유학생으로 미국에 건너가 유전공학 박사 학위를 취득한 뒤 의학 연구자로 알츠하이머를 연구하는 데 일생을 바쳤다. 김 의원은 지난해 12월 부친의 알츠하이머 진단 사실을 공개한 뒤 “부친을 돌보는 데 월급을 거의 전부 쓰고 있다”며 어려움을 토로했다.&lt;br&gt;&lt;br&gt;김 의원은 최근 콜로라도주(州) 덴버에서 열린 한 행사에서 민주당이 상·하원 다수당을 모두 가져가는 압승을 거둔 중간선거와 관련해 “전국 각지에서 치열한 경합 끝에 승리한 훌륭한 후보들과 우리의 성공을 축하하며 건배를 할 수 없었다”며 “선거 당일 밤을 병원에서 보냈기 때문”이라고 했다. 그는 “알츠하이머 진단을 받은 아버지 곁을 지키고 있었다”며 “우리는 이 일로 정말로 힘든 시간을 보내고 있다. 더 비극적인 점은 의학 연구자였던 아버지가 평생 알츠하이머 치료법 개발에 헌신했지만, 이제는 그것조차 기억하지 못한다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 의원은 이 대목에서 울먹이며 “게다가 알츠하이머뿐만 아니라 지난 몇 달 동안 정신병적인 증상을 보이기 시작했다”며 “저나 간병인을 향해 믿기 어려울 정도로 공격적이고, 심지어 폭력적으로 변했다. 음식을 드리려고 해도 내 몸을 할퀴려고 하기 때문에 정말 견디기 힘든 상황”이라고 했다. 또 “신체적·정서적인 측면만의 문제가 아니다”라며 “파산을 해서 메디케이드(Medicaid·저소득층 대상 공적 의료보험) 수혜 자격을 얻을 때까지 사랑하는 사람을 돌보기 위해 매달 1만5000달러(약 2000만원)를 자비로 지불해 재정적으로 재앙과 같은 상황”이라고 했다. 메디케이드 자격은 신분, 소득, 자산 수준 등에 따라 결정되는데 세부 기준과 한도는 주마다 차이가 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22KZIPPTAJOZFMWQXQPYVYUUFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국계 앤디 김 미국 민주당 상원의원이 지난 13일 콜로라도주 덴버에서 열린 민주당 행사에서 발언을 하고 있다. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 의원은 뉴저지에서 연방 하원 3선(選)을 했고, 지난 2024년 상원 선거에 도전해 당선됐다. 이런 화려한 성공 뒤에는 소아마비를 앓아 몸이 불편하고 녹록지 않은 여건에서도 아들을 뒷바라지하고, 캠페인까지 뛴 부친의 노력이 있었다. 한 주에 2명씩 선출해 임기 6년을 보장하는 상원의원은 웬만한 나라의 지도자보다도 영향력이 크지만, 김 의원 역시 늘어나는 돌봄 비용에 어려움을 토로해왔다. 김 의원은 “사랑하는 아버지 앞에서 ‘내가 감당할 수 있는 범위 내에서 최상의 돌봄은 무엇인가’라고 묻는 건 참으로 굴욕적인(humiliating) 질문”이라며 “마땅히 받아야 할 돌봄을 제공해 드릴 수 없는 상황에 처해 있다는 사실이 부끄럽다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LF26WRHTENGX3H5SX2KPOOI6ZY.png?auth=51c104e44c5186c45873c4b20e9c1377e98c20ac7d1d3459fdaf7969477d1a08&amp;smart=true&amp;width=725&amp;height=408" type="image/png" height="408" width="725">
-        <media:description type="plain">앤디김/윤주헌/피플/11월20일자
-제일 왼쪽이 아버지 김정한씨</media:description>
       </media:content>
     </item>
     <item>
@@ -930,60 +1000,6 @@
       <description/>
       <pubDate>Thu, 19 Nov 2026 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTQYRZGEZGEMTDGMYGGNLCME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 김창민 영화감독을 폭행해 숨지게 한 혐의를 받는 피고인들./ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 김창민 영화감독을 폭행해 숨지게 한 혐의로 기소된 30대 남성 2명에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사1부(재판장 김국식)는 19일 살인·장애인복지법 위반 혐의로 구속 기소된 이모(32)씨에게 징역 12년과 장애인 관련 기관 취업제한 10년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “이씨가 피해자를 무차별적으로 폭행해 살해한 것으로 보인다”며 “(현장에 있었던) 피해자의 발달장애 아들은 사건 후 증상이 악화돼 치료를 받고 있으며 유족에게 용서받지 못했다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 함께 기소된 임모(32)씨에 대해선 폭행치사죄를 적용해 징역 3년과 장애인 관련 기관 취업제한 5년을 선고했다. 살인 혐의는 무죄로 판단했다. 재판부는 임씨가 김 감독의 목을 조른 행위가 직접적인 사망 원인이라고 단정할 수 없고, 이씨와 살인을 공모했다고 보기도 어렵다고 판단했다. &lt;br&gt;&lt;br&gt;이들은 작년 10월 20일 오전 1시쯤 경기 구리시 한 식당에서 김 감독과 소음 문제로 시비가 붙자 폭행해 숨지게 한 혐의로 기소됐다. 당시 김 감독은 발달장애 아들과 식사 중이었다. 임씨는 김 감독의 목을 졸라 제압한 뒤 골목으로 끌고 갔다. 이씨는 골목에서 김 감독의 머리와 얼굴 등을 주먹으로 여러 차례 때렸다. 김 감독은 병원으로 옮겨졌지만 의식을 찾지 못했고, 사건 17일 만에 뇌사 판정을 받았다. 4명에게 장기를 기증한 뒤 숨졌다.&lt;br&gt;&lt;br&gt;이 사건은 경찰의 부실 수사 논란을 불렀다. 경찰은 당초 두 사람을 상해치사 혐의로 불구속 송치했다. 그러나 사건이 뒤늦게 알려지면서 수사에 대한 비판이 일었다. 이후 검찰이 보완수사를 벌여 지난 5월 두 사람을 살인과 장애인복지법 위반 혐의로 구속 기소했다. 검찰은 두 사람에게 각각 징역 20년과 15년을 구형했다.&lt;br&gt;&lt;br&gt;김 감독 부친은 선고 직후 임씨에 대해 “집행유예 기간 중 범행했고 장애인복지법 위반도 인정됐는데 징역 3년을 선고한 것은 받아들이기 힘들다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추미애, 김동연표 현금성 복지 대폭 축소·폐지 나서</title>
-      <link>https://www.chosun.com/national/regional/2026/11/20/L3JVB5PWDBH2HF7G3R52Q75CII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/20/L3JVB5PWDBH2HF7G3R52Q75CII/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRTGMBSMZRTENDGG4ZTMNZTMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 전 경기도지사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 전 경기지사가 역점 추진했던 ‘기회소득’ 사업이 시행 3~4년 만에 대폭 축소될 전망이다. ‘재정 비상’을 선언한 경기도가 정책 효과가 불명확하다는 이유로 내년도 예산안에서 6개 사업 중 4개 사업 예산을 뺐기 때문이다. 나머지 장애인 기회소득 예산은 올해보다 55.5%, 농어민 기회소득은 18.6% 줄였다. 도의회가 예산안을 그대로 확정하면 6개 사업 예산은 올해 995억원에서 내년 428억원으로 57% 줄어든다.&lt;br&gt;&lt;br&gt;기회소득은 김 전 지사가 2022년 9월 발표한 정책이다. 예술인이 작품을 만들거나 장애인이 운동을 하면 일정 금액을 지급하는 방식이다. 김 전 지사는 당시 “우리 사회에서 가치를 창출하지만, 보상을 받지 못하는 이들에게 일정 기간 소득 보전의 기회를 드리는 것”이라고 했다. 2023년 예술인·장애인을 시작으로 2024년 체육인·농어민·아동돌봄·기후행동까지 지원 대상을 확대했다. &lt;br&gt;&lt;br&gt;기후행동 기회소득은 하루 8000보 걷기, 대중교통 이용, 기후 관련 퀴즈 풀이 등을 인증하면 지역화폐를 주는 사업이다. 가입자는 203만명까지 늘었다. 지난해 지급한 지역화폐는 총 310억6000만원이었다. 경기도의회에서는 일상적인 생활 습관에 돈을 지급하면서 실제 탄소 감축 효과는 불분명하다는 지적이 나왔다. 추미애 지사가 취임한 이후인 지난 8월부터 보상금 지급이 중단됐다.&lt;br&gt;&lt;br&gt;예술인 기회소득은 예술인 약 1만명에게 연 150만원을 지급하는 사업이다. 체육인 기회소득은 선수·지도자·심판 등 1600명에게 연 150만원을 지원한다. 하지만 두 사업 모두 올해 상반기 75만원만 지급한 뒤 하반기 지원을 중단했다. &lt;br&gt;&lt;br&gt;내년 경기도 가용재원은 올해보다 2조4095억원 줄어든 1조6500억원이다. 추 지사는 지난 9월 도의회에서 기회소득과 관련해 “재정 여건상 지속하기 어렵고 필수 민생예산을 우선해야 한다”고 했다. 경기도 관계자는 “현금 지원과 실제 활동 증가 사이의 연관성이 충분히 검증되지 않아 다른 지원 방향을 모색하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;일부 긍정적인 조사 결과도 있다. 경기연구원이 예술인 기회소득을 받은 618명을 조사한 결과, 일주일간 창작에 쓴 시간이 평균 1시간 26분 늘었다. 장애인 기회소득을 받은 270명 중 84.8%는 건강이 좋아졌다고 답했다. 다만 이런 변화가 현금 지원 때문인지는 입증되지 않았다. &lt;br&gt;&lt;br&gt;지원 대상자들은 반발하고 있다. 경기민예총은 지난 18일 성명을 내고 “그동안 성과로 내세운 정책을 예산에서 지우는 경기도를 규탄한다”고 했다. 경기도민 청원 게시판에도 기후행동 기회소득을 다시 시행해 달라는 글이 올라왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>금천구청, 광주역, 구포~가야… 48조 들여 전국 9곳 지상 철도 지하화</title>
-      <link>https://www.chosun.com/national/transport-environment/2026/11/20/V7FYVH4N2BEC7CI7DXUEV45VQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/20/V7FYVH4N2BEC7CI7DXUEV45VQU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 15:45:00 +0000</pubDate>
-      <content:encoded>서울 도심을 가로지르는 수도권 전철 1호선의 주요 지상 철도 구간이 지하화된다. 정부는 19일 경부선(서울역~금천구청역·34.7㎞)과 경원선(서빙고역~도봉산역·32.9㎞), 경인선(온수역~인천역·22.8㎞) 등 전국 철도 구간 9곳(총 112.1㎞)에 대한 ‘철도 지하화 사업’을 새로 추진한다고 밝혔다. 철도를 지하로 옮긴 뒤 확보한 지상 구간에는 주거·상업 시설과 공원 등이 조성된다. 이는 총 48조5000억원이 투입되는 대규모 신규 사업(기존 지하화 사업 3곳 포함 시 53조6000억원)이다. 하지만 철도 부지 개발 이익만으로 충당할 수 없는 사업비가 11조1000억원에 이르는데다, 정부가 이를 지방자치단체에 부담시킬 방침이어서 난관도 예상된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHCV7L4VRBF7DAQTFZ5HVJHWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇전국 9곳 112㎞ 구간 지하화&lt;/b&gt;&lt;br&gt;&lt;br&gt;국토교통부는 이날 세종시 국토연구원에서 공청회를 열고 이 같은 내용의 ‘철도 지하화 통합 개발 종합 계획’을 발표했다. 지난 2024년 1월 철도 지하화 특별법이 국회를 통과한 지 2년 10개월 만이다. 국토부는 앞서 6개 지자체에서 지상 철도 구간 16곳을 제안받은 뒤, 검토 과정을 거쳐 이 중 신규 사업으로 추진할 대상 9곳을 추렸다. 정의경 국토부 2차관은 “철길 때문에 가까운 곳을 먼 길로 돌아가고 열차의 소음과 진동으로 불편을 겪는 주민들도 계셨다”며 “이런 불편을 줄이고 철도로 나뉜 도시를 다시 잇기 위한 해법이 바로 철도 지하화”라고 했다.&lt;br&gt;&lt;br&gt;이 사업은 국가 소유인 철도 부지를 개발해 비용을 마련하는 방식으로 진행된다. 정부가 국가철도공단 등 사업 시행자에게 철도 부지를 출자하면, 사업 시행자는 이를 기반으로 채권을 발행해 공사비를 마련한다. 철도를 지하로 옮긴 뒤엔 기존 철도 부지를 민간에 매각해 업무·상업·주거 시설 등으로 개발하고, 이 과정에서 얻은 수익으로 채권을 상환하는 방식이다. 국토부는 개발 이익만으로 사업비를 충당하기 어려운 경우엔 해당 지방자치단체가 부족분을 부담하도록 할 방침이다. &lt;br&gt;&lt;br&gt;관심이 가장 큰 서울은 서울역~금천구청역 구간의 경부선 34.7㎞, 서빙고역~도봉산역의 경원선 32.9㎞ 등 총 67.6㎞ 구간이 신규 추진 대상으로 선정됐다. 이에 따라 서울역, 용산역, 신도림역, 청량리역 등 주요 철도역 일대에 대규모 역세권 개발이 이뤄질 예정이다.&lt;br&gt;&lt;br&gt;인천·경기 지역에선 온수역~인천역 22.8㎞ 구간, 평택 서정리역 일대(0.3㎞)가 포함됐다. 부산에선 경부선 구포역~가야차량기지 8.9㎞ 구간, 전남광주에선 광주역 일대 광주선 2.1㎞ 구간, 대전에선 대전역 일대(0.4㎞)가 사업 구간에 포함됐다.&lt;br&gt;&lt;br&gt;경기 안양의 경부선 석수역~명학역(7.5㎞), 파주의 경의중앙선 운정역 일대(2.5㎞)는 조건부로 지하화 대상에 선정됐다. 정부는 두 사업의 경우 지자체의 재정 부담이 상당할 것으로 예상돼 사업 계획 보완을 조건으로 달았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇재원 조달 등 풀어야 할 문제도 &lt;/b&gt;&lt;br&gt;&lt;br&gt;사업의 최대 난관은 재원 조달이다. 정부는 별도의 국비 투입 없이 국가철도공단 등이 채권을 발행하는 방식으로 사업을 설계했다. 그러나 정부가 추산한 개발 이익은 42조5000억원에 그쳐 전체 사업비(53조6000억원)의 79% 수준에 불과하다. 개발 이익만으로는 전체 사업비의 20% 이상을 충당할 수 없다는 뜻이다. 부족한 비용은 지자체가 분담해야 한다. 국토부는 이날 “사업 초기부터 지자체가 돈을 내도록 할 것”이라고 했다. 지자체가 사전 타당성 조사를 거쳐 부족한 사업비를 부담하겠다는 확약을 한 후 예비 타당성 조사, 중앙도시계획위원회 심의, 지방의회 의결 등을 거쳐야 공사에 돌입하게 된다. &lt;br&gt;&lt;br&gt;문제는 향후 사업비가 더 늘어날 가능성이 크다는 것이다. 최근 건설 자재 가격과 인건비가 상승하고 있는 데다, 장기간에 걸쳐 진행되는 사업 특성상 채권 발행에 따른 금융 비용도 만만찮은 부담이다. 특히 철도 지하화에 필요한 비용은 사업 초기부터 투입되는 반면, 지상 부지 매각을 통해 수익을 확보하기까지는 상당한 시간이 걸린다는 점도 변수다. 부동산 경기가 악화돼 철도 부지 매각 가격이 당초 예상보다 떨어질 경우, 지자체가 부담해야 할 비용이 더 커질 수도 있다. &lt;br&gt;&lt;br&gt;지자체 간 비용 분담을 둘러싼 갈등이 불거질 가능성도 배제할 수 없다. 예컨대 경원선 지하화 사업은 대상 구간 대부분이 서울에 있지만, 철도 지하화 뒤 기존 지상 철도와 연결하는 과정에서 사업 범위가 경기도 구리시와 남양주시까지 이어질 수 있다. 국토부 측은 “향후 남양주시, 구리시 등과 비용 분담 논의가 필요할 것”이라고 했다.&lt;br&gt;&lt;br&gt;사업 자체의 난도도 높다. 하루 수십만 명이 이용하는 기존 철도의 운행을 중단하지 않은 채 지하에 새로운 철도와 역사를 건설해야 하기 때문이다. 특히 서울 도심에선 기존 지하철뿐 아니라 건설 중이거나 건설 예정인 수도권광역급행철도(GTX) 등과도 충돌하지 않도록 설계해야 한다. 개발 이익을 극대화하기 위해 철도 주변의 민간 부지까지 사업 대상에 포함할 경우 토지 보상과 주민 설득 등의 절차도 거쳐야 한다. 이 때문에 사업이 장기화할 가능성도 제기된다. &lt;br&gt;&lt;br&gt;정부는 철도 지하화로 확보한 부지를 공공주택 공급에도 활용할 방침이다. 국토부는 이를 위해 지자체가 기본 계획을 수립할 때 사업의 공익성을 높이는 차원에서 공공주택을 일정 비율 반영하도록 하고, 한국토지주택공사(LH) 등을 사업에 참여시키는 방안을 제시했다. 하지만 공공주택 등이 늘어나면 상대적으로 개발 수익을 낼 수 있는 부지는 줄어들게 된다. 이날 공청회에 참석한 권일 대한국토·도시계획학회 회장은 “사업 전과 후의 공간 가치에 따라 사업성이 결정될 것”이라며 “기본 계획을 세울 때 사업 구역을 어떻게 설정하느냐가 굉장히 중요할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원호 ‘동탑산업훈장’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/11/20/OMSJHEMAHVB4RKN2YIKRZXF2XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/20/OMSJHEMAHVB4RKN2YIKRZXF2XI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GMMPW56KFGFJEH6DTHBPXCFTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 강남구 그랜드 머큐어 임피리얼 팰리스 서울강남에서 열린 제40회 약의 날 기념식에서 동탑산업훈장을 받은 강원호(오른쪽) 한국유나이티드제약 대표가 오유경 식품의약품안전처장과 기념 촬영을 하고 있다. /한국유나이티드제약&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;강원호&lt;/b&gt; 한국유나이티드제약 대표가 국가필수의약품의 안정적 공급에 기여한 공로로 동탑산업훈장을 받았다.&lt;br&gt;&lt;br&gt;19일 식품의약품안전처에 따르면, 강 대표는 공급 중단 위기에 놓인 항암제 생산 등 제약 산업 발전에 기여한 공로를 인정받아 전날 열린 제40회 약의 날 기념식에서 훈장을 받았다. 한국유나이티드제약은 개량 신약 개발에 특화된 제약 기업으로, 지난해 매출 2888억원을 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대륙아주, 안동 산불 피해 주민에 위문품</title>
-      <link>https://www.chosun.com/national/people/2026/11/20/QD5752Y36VCD3KYN4S6NKSODLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/11/20/QD5752Y36VCD3KYN4S6NKSODLQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDOU3RUMEBFQPGSFV2NBM4NHMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 법무법인 대륙아주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무법인 대륙아주(대표변호사 이규철) 고문단이 19일 경북 안동시 산불 피해 지역을 찾아 주민에게 위문품을 전달했다.&lt;br&gt;&lt;br&gt;대륙아주 고문 30여 명은 이날 오전 안동시 임하면 면사무소를 방문해 산불 피해 복구 상황을 청취한 뒤 임하면 신덕리 피해 현장을 둘러봤다. 고문단은 김동일 이장 등 피해 주민을 위로하고 위문품을 전달했다.&lt;br&gt;&lt;br&gt;전충렬 대륙아주 고문단 회장은 “주민들이 하루빨리 일상을 회복하기를 바라는 마음으로 지난해 성금 기탁에 이어 이번에는 직접 피해 현장을 방문했다”며 “일회성 지원에 그치지 않고 경북도와 안동에 지속적인 관심을 갖고 협력과 지원을 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;대륙아주는 지난해 3월 산불 발생 직후 이재민 지원과 피해 복구를 위해 법인 성금 1억원과 소속 변호사·임직원·고문 등이 모금한 2161만원 등 총 1억2161만원을 기탁한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제32회 장한 고대언론인상</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/11/20/5BFK7TJQJBD37GF4EWCTMDGDQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/20/5BFK7TJQJBD37GF4EWCTMDGDQA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNKL2LR4YNHSBOWGVZM6UMI5PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금교돈 전 조선교육문화미디어 대표.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 언론인교우회(회장 곽영길)는 19일 제32회 ‘장한 고대언론인상’ 수상자를 발표했다. 신성식 중앙일보 보건복지전문기자, 신석호 동아닷컴 대표, 황준범 한겨레 편집국장, 이주희 코리아헤럴드 편집국장이 본상 수상자로 선정됐고, 금교돈&amp;lt;사진&amp;gt; 전 조선교육문화미디어 대표가 공로상 수상자로 선정됐다. 시상식은 12월 2일 고려대 수당삼양패컬티하우스에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생  소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2026/11/20/YSTPYSLM35DKXN5C6JMOYNMGKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2026/11/20/YSTPYSLM35DKXN5C6JMOYNMGKU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFABZ7ZM6VEORILFM7HEIOUVTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_26-11-20일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 13일 ‘우리 아기가 태어났어요’ 코너에 실린 홍루리&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(reprint.chosun.com)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
