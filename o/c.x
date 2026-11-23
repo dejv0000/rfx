@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘선거법 도망자’ 렌터카 태우고 도피 지원… 신안군수 동생 구속</title>
+      <link>https://www.chosun.com/national/regional/honam/2026/11/23/AKH5JNLQPVDCVIWBUG23DJNQK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2026/11/23/AKH5JNLQPVDCVIWBUG23DJNQK4/</guid>
+      <dc:creator>신안=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Nov 2026 01:17:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RWIYZQMQYWCMZXHEZTAMZRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동생이 범인 도피 혐의 등으로 구속된 김태성 신안군수./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 체포영장이 발부된 공무원의 도주를 도운 김태성 전남광주 신안군수 동생이 구속됐다. &lt;br&gt;&lt;br&gt;전남 신안경찰서는 범인은닉·도피 혐의로 김 군수의 동생 A(50대)씨를 구속했다고 23일 밝혔다. 법원은 지난 21일 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 도주와 증거인멸 우려를 이유로 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, A씨는 공직선거법 위반 혐의를 받는 신안군 소속 공무원 B(20대)씨를 렌터카에 태워 이동시키고 숙박비 등 금전적 지원을 한 혐의를 받는다. B씨의 동선을 추적하던 경찰은 A씨가 동행한 정황을 확인하고 지난 18일 경남 사천에서 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;B씨는 지난 6·3 지방선거 당시 김 군수 선거 캠프에서 활동하며 상대 후보였던 박우량 전 군수를 비방하는 내용의 문자메시지를 발송한 혐의로 입건됐다. 수차례 출석 요구에 불응하던 B씨는 지난 10일부터 군청에 무단결근하고 자택에도 나타나지 않은 채 잠적했다. &lt;br&gt;&lt;br&gt;경찰은 지난 12일 체포영장을 발부받아 추적에 나섰다. 목포에서 도주를 시작한 B씨는 광주와 경기·경남 일대로 거처를 옮기며 현재까지 검거되지 않고 있다. &lt;br&gt;&lt;br&gt;6·3 지방선거 관련 공직선거법 위반 혐의의 공소시효는 다음 달 3일 만료된다. 경찰은 구속된 A씨를 상대로 도피 조력 경위를 조사하는 한편 B씨의 행방을 쫓고 있다. 시효 만료 전까지 신병을 확보하지 못할 경우 검사와 협의해 수사 중지와 지명수배를 내리는 방안도 검토할 방침이다.&lt;br&gt;&lt;br&gt;한편 김 군수와 A씨는 6·3 지방선거 과정에서 당원을 부정 모집한 의혹으로도 더불어민주당에 고발돼 전남경찰청의 별도 수사를 받고 있다. 당시 민주당은 신안 지역 8개 주소지에 당원 68명의 거주지가 중복 기재되고 복수인이 같은 신분증 사본을 제출한 정황을 확인해 고발했다. 경찰은 최근 A씨 주거지를 압수 수색해 확보한 자료를 분석하며 송치 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신라호텔 이부진 아들, 어머니 姓 따라 이씨로 변경</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/23/FBTBSPCOPRAOHJBPWLETX5I2XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/23/FBTBSPCOPRAOHJBPWLETX5I2XY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Nov 2026 01:01:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGLSYVAASNGEPIZ6W27YNRC6HU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장이 9일 서울 강남구 휘문고등학교에서 열린 아들 임동현군의 졸업식에 참석해 기념 촬영을 하고 있다. 2026.2.9/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부진 호텔신라 사장의 아들 동현씨가 최근 자신의 성을 임(任)씨에서 어머니의 성(姓)인 이(李)씨로 바꾼 것으로 23일 알려졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDSMJXMU3TEZLEMFRWENBSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진(왼쪽) 호텔신라 사장이 지난 2월 서울 관악구 서울대학교에서 열린 입학식이 끝난 뒤 홍라희 리움미술관 명예관장(오른쪽)이 이 사장의 아들을 안아주는 모습을 바라보고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 올해 8월 성인이 된 후, 어머니의 성본(姓本)으로 변경해 달라며 서울가정법원에 성본 변경 허가 신청을 낸 것으로 전해졌다. 서울가정법원은 지난 10월 말 성본 변경을 허가했다고 한다. 이 사장은 경주 이씨다. 이씨는 성인이 되기 전까지 아버지(임우재씨) 성인 임씨를 따랐다.&lt;br&gt;&lt;br&gt;민법 제781조 제6항은 ‘자녀의 복리를 위해 자녀의 성과 본을 변경할 필요가 있을 때에는 부모 또는 자녀의 청구에 의하여 법원의 허가를 받아 이를 변경할 수 있다’고 규정하고 있다.&lt;br&gt;&lt;br&gt;이부진 사장은 임우재 전 삼성전기 고문과 1999년 결혼했으나, 소송 끝에 2020년 이혼했다. 아들에 대한 친권과 양육권은 이 사장이 가져갔다.&lt;br&gt;&lt;br&gt;동현씨는 올해 2월 서울 휘문고를 졸업하고 서울대 경제학부에 입학했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QHIXB7HTSVEXLBBMPI3UJE32OE.JPG?auth=7019e32ad465d7057a7049cee01c6d8d80eec44180fd0c907b0b4569b5dd9b65&amp;smart=true&amp;width=1738&amp;height=978" type="image/jpeg" height="978" width="1738">
+        <media:description type="plain">(서울=뉴스1) 권현진 기자 = 이부진 호텔신라 사장이 9일 서울 강남구 휘문고등학교에서 열린 아들 임동현군의 졸업식에 참석해 기념 촬영을 하고 있다. 2026.2.9/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>세계 최강인데 태극마크 반납? 최민정 월드투어 3연속 금메달</title>
+      <link>https://www.chosun.com/sports/sports_general/2026/11/23/EFEA4DPDXJFXXBD3NZBWOB5LJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/sports/sports_general/2026/11/23/EFEA4DPDXJFXXBD3NZBWOB5LJU/</guid>
+      <dc:creator>이태동 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Nov 2026 22:41:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5G5V5VTPZBENKXA6JJUU3P4YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최민정이 21일 서울 목동아이스링크에서 열린 ISU 쇼트트랙 월드투어 3차 대회 1000m 결선에서 코트니 사로(캐나다)를 추월해 스퍼트를 하고 있다. 최민정은 이 경기에서 금메달을 목에 걸며 10년 만에 다시 3개 대회 연속 개인전 우승 기록을 세웠다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇게 화려한 ‘라스트 댄스’가 또 있을까. 국가대표로 마지막 시즌을 선언하고 달리는 최민정(28)이 국내 팬들 앞에서 금메달을 또 하나 수집했다. 올 시즌 쇼트트랙 월드투어 3개 대회 연속 개인전 금메달이다. &lt;br&gt;&lt;br&gt;최민정은 21일 서울 목동아이스링크에서 열린 ISU(국제빙상경기연맹) 월드투어 3차 대회 여자 1000m 결선에서 1분31초045로 우승했다. 그는 캐나다에서 열린 1·2차 대회에서도 1000m 정상에 올랐다. 3개 대회 연속 우승은 2016~2017시즌 이후 10년 만이고, 같은 종목에서 3연속 우승한 것도 11년 만이다. 최민정은 22일 여자 500m와 1500m, 혼성 계주에서도 결선까지 올랐지만, 메달을 추가하지 못했다. 전날 3000m 계주 준우승까지 금1, 은1로 대회를 마친 최민정은 “많은 팬들이 경기장을 찾아주셔서 더 좋은 결과를 내고 싶었는데 아쉽다”고 소감을 밝혔다. 이날 목동아이스링크 3650석을 가득 메운 국내 팬들은 최민정이 등장할 때마다 태극기를 흔들며 환호했고, 메달을 놓쳤을 때도 휘파람과 함성 소리로 응원을 보냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLSRAW7UC5AETCHE2HRHMJ2LRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇최민정 1000m 3연속 금메달&lt;/b&gt;&lt;br&gt;&lt;br&gt;지난 2월 밀라노 코르티나 동계올림픽에서 한국 올림픽 최다 메달(7개) 획득 기록을 세운 최민정은 2026~2027시즌까지 국가대표로 활동하겠다고 밝혀 팬들을 놀라게 했다. 하지만 새 시즌이 시작되자 최민정은 마치 ‘회춘’한 것 같은 기량을 보이고 있다. 시즌 내내 세계 주요 도시를 돌며 경기하는 월드투어에서 금3, 은5, 동1로 여자 랭킹 2위(628점)에 올라 있다. 1위 코트니 사로(캐나다·640점)와 종합 우승을 다투고 있다. 시즌 최종 우승자는 ‘크리스털 글로브’와 특별 제작 헬멧을 받는데, 최민정은 “특별 헬멧을 써보지 않고 은퇴하면 아쉽지 않겠느냐”는 취재진 질문에 “종합 1위를 하면 고민해보겠다”고 말했다.&lt;br&gt;&lt;br&gt;최민정은 2014년 4월 고등학교 1학년 때 처음 국가대표에 선발돼 그해 11월 ISU 월드컵에서 데뷔전을 치렀다. 첫 시즌부터 5개 대회 연속 금메달을 따내며 ‘괴물’의 출현을 알렸다. 다음 시즌에서도 5개 대회 연속 금메달을 획득했고, 특히 주종목인 1500m는 2~5차 월드컵에서 연속 우승하며 독보적인 존재감을 드러냈다. 이후 코로나 팬데믹으로 대회가 열리지 않은 2020~2021시즌, 휴식 차원에서 국가대표 선발전에 불참한 2023~2024시즌을 제외하고 출전한 모든 시즌 금메달을 손에 쥐었다. 월드 투어에서 딴 금메달만 51개다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7G42VZD7ARHYNBBJHXVDX7Y2NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 남자 1500m에서 우승한 신동민이 포효하고 있다. 그는 22일 5000m 계주에서도 금메달을 추가했다. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇신동민 개인전 첫 우승 포함 2관왕&lt;/b&gt;&lt;br&gt;&lt;br&gt;남자 쇼트트랙 신동민(21)은 월드투어 3차 대회에서 2관왕에 오르며 새로운 스타의 등장을 알렸다. 21일 1500m 결선에서 1·2차 대회 우승자 옌스 판트바우트(네덜란드)를 제치고 2분28초528로 우승했다. 신동민이 시니어 국제대회에서 딴 첫 번째 개인전 금메달이다. 22일엔 임종언·김태성·이정민과 함께 5000m 계주에 출전해 네덜란드, 캐나다를 제치고 금메달을 목에 걸었다. &lt;br&gt;&lt;br&gt;신동민은 1500m 결선에서 네 바퀴를 남겨 두고 스퍼트를 올리는 과감한 전략을 펼쳤고, 마지막 접전 상황에선 날을 들이밀며 0.006초 차 금메달을 확정했다. 경기 후 프랑스 축구 스타 음바페의 ‘팔짱’ 세리머니를 선보인 그는 “홈 팬들이 많이 와주셨고, 친구들도 많이 찾아와 멋진 세리머니를 해보고 싶었다”며 웃었다.&lt;br&gt;&lt;br&gt;고려대에서 선수 생활을 하다가 올해 초 화성시청에 입단한 신동민은 폭발적인 스퍼트가 장기로 한국 쇼트트랙의 약점인 단거리에 강한 차세대 유망주다. 그는 최민정이 국가대표 은퇴를 앞두고 있는 것에 대해 “민정 누나는 존재만으로도 힘이 되는 존재”라며 “내가 은퇴할 때까지 누나의 은퇴를 막아보겠다”고 했다. &lt;br&gt;&lt;br&gt;한국은 김길리가 여자 1500m에서 은메달을 추가하며 이번 대회를 금3, 은2로 마무리했다. 쇼트트랙 월드투어는 중국으로 무대를 옮겨 상하이, 베이징에서 4·5차 대회를 진행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>처방전 없이 살 수 있는 약 ‘OTC’ 무엇의 약자일까</title>
       <link>https://www.chosun.com/national/education/2026/11/23/5FFUZCYPDRHJVHQMM4GWNWWSI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/23/5FFUZCYPDRHJVHQMM4GWNWWSI4/</guid>
@@ -823,15 +854,6 @@
       </media:content>
     </item>
     <item>
-      <title>“한류, 잠깐의 유행 아닌 학문으로 남길 겁니다”</title>
-      <link>https://www.chosun.com/national/people/2026/11/21/VBVIC66HLBDYHMIZOP4KIMIUUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/11/21/VBVIC66HLBDYHMIZOP4KIMIUUE/</guid>
-      <dc:creator>김휘원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMR52T575BH3JL4ME7PEDGV5GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 공식 출범한 옥스퍼드 한국학센터 초대 소장을 맡은 조지은 옥스퍼드대 아시아·중동학과 교수. 그는 “누군가 연구하고 기록하지 않으면 오늘날 한류의 성취도 역사 속 한순간으로 사라진다. 한국학센터가 한국을 깊이 이해하는 동시에 세계와 소통하는 학문을 발전시키기를 바란다”고 했다. /옥스퍼드 한국학센터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영국 옥스퍼드대의 유서 깊은 회의장 ‘콘보케이션 하우스’에 판소리 가락이 울려 퍼졌다. 900년 넘는 이 대학 역사상 처음으로 ‘한국학센터(The Oxford Centre for Korean Studies)’가 지난 19일 문을 열었다. 초대 소장을 맡은 조지은(50) 교수는 “처음 영국에 온 25년 전엔 상상도 못한 장면이라 가슴이 벅찼다”고 했다. 석·박사까지 배출할 수 있는 한국학센터 출범으로 옥스퍼드대 내 한국학 강의가 대폭 늘고 다양해질 전망이다.&lt;br&gt;&lt;br&gt;서울대에서 아동가족학을 전공한 조 소장은 언어학 석사 후 박사 때 킹스칼리지런던(KCL)으로 유학, 2007년부터 옥스퍼드에서 한국어학을 가르치고 연구해 왔다. 아시아중동학부 정교수이자 옥스퍼드 영어사전(OED)에 ‘라면’ ‘먹방’ ‘선배’ 등을 올린 컨설턴트. 본지에 ‘K컬처 인사이드’를 연재하는 필자이기도 하다. 그는 서면 인터뷰에서 “한국학센터 출범은 대한민국을 연구할 수 있는 ‘집(Home)’이 생겼다는 의미”라고 했다.&lt;br&gt;&lt;br&gt;전통을 중시하는 옥스퍼드에 이 센터가 생기기까지 40여 년이 필요했다. 일본학(1981년)·중국학(2008년) 센터보다 오래 걸렸다. 정미령 명예교수 등 선학이 기틀을 닦고 후학이 문을 두드린 끝에 지난 3월 교수회의 승인을 받았다. 조지은 교수는 “연구를 지속적으로 발전시키려면 안정적 기금이 필수인데 과거 한국은 국제적 영향력도 부족했고, 한국학에 대한 국내 관심도 부족했다”고 술회했다. 일본학센터는 1970년대 말 닛산자동차가 낸 지원금으로, 중국학센터는 홍콩 기업가 등 화교권 기부로 각각 기반을 다졌다. 이렇게 뿌리내린 연구소들이 수십 년간 그 나라를 깊이 아는 학자와 전문가를 길러내는 토양이 됐다.&lt;br&gt;&lt;br&gt;“최근 3년 새 분위기가 바뀌었어요. 2020년대 들어 영국 학생들 사이에 한국어가 ‘쿨한 언어’로 받아들여지기 시작했습니다.” 그 수요에 따라 2024년 교내 랭귀지센터에 한국어 강좌가 개설됐다. 전체 외국어 중 12번째, 비(非)유럽어로는 일본어·중국어·아랍어에 이어 네 번째다. 같은 해 문을 연 ‘한류 아카데미’ 강연엔 90여 명이 몰렸고, 지난해엔 삼천리가 기부한 25억원으로 한류 연구 프로그램이 출범했다. 현지 출판사와 협력해 한국 문학 출판 브랜드도 만들어 배우 차인표의 소설 ‘언젠가 우리가 같은 별을 바라본다면’의 영문판을 펴낸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5T6KFG4YFFHVPCCOV4SZ7JSXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일(현지 시각) 영국 런던 옥스퍼드대 콘보케이션 하우스에서 열린 ‘옥스퍼드 한국학센터’ 개소식에서 국악인 권송희(왼쪽)씨와 김시율씨가 판소리 공연을 하고 있다. /옥스퍼드 한국학센터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 기업도 거들기 시작했다. 지난해 삼천리가 기부한 25억 원으로 한류 연구 프로그램이 출범했고, 실제 연구 성과를 보여 주며 대학 내부의 신뢰를 쌓는 발판이 됐다. 옥스퍼드 안팎에서 열린 한국문학 행사와 K팝 강연·공연도 잇따라 주목받았다. 지난 4월 옥스퍼드의 새 인문학 거점인 슈워츠먼센터 개관 행사에서는 진풍경이 펼쳐졌다. 애니메이션 ‘케이팝 데몬 헌터스(케데헌)’ 주제가 등 K팝 공연이 무대에 오르자, 교직원과 학생은 물론 아이 손을 잡은 시민들까지 모여들어 함께 노래하고 춤췄다. &lt;br&gt;&lt;br&gt;센터는 구체적인 모습을 갖춰 나가는 단계다. “세상에 없던 수업을 만들 거예요. 옥스퍼드에서만 경험할 수 있는 독특한 한국학 수업이 될 겁니다.” 이미 ‘채식주의자’의 번역가 데보라 스미스의 번역 워크숍이 진행 중이고, 내년 1월부터는 한국 경제사를 한류를 통해 살펴보는 새로운 강좌가 열린다. 추후 옥스퍼드 시내 중심부에 전용 건물도 마련할 예정이다. 연구와 강의 뿐 아니라 시민 한국어 교육 프로그램 등을 갖추고 영국 속 작은 한국 사랑방으로서의 모습을 갖춰나간다는 계획이다.&lt;br&gt;&lt;br&gt;새로운 강의와 프로그램도 선보이고 있다. 눈길을 끄는 건 K팝 강좌 ‘K-Pop: 과거, 현재, 그리고 미래’. 한국 대중음악을 근현대사와 함께 다루고, 버추얼 아이돌과 AI 등 관련 산업까지 범위를 넓혀 현업 아이돌·프로듀서와 온라인 토론도 한다. 조 교수는 “세상에 없던 수업, 옥스퍼드에서만 경험할 수 있는 수업으로 발전시켜 나가고 싶다”고 했다. 시내 중심부에 전용 건물을 마련할 계획도 있다. 연구·강의뿐 아니라 시민 대상 한국어 교육까지 아우르는 ‘영국 속 한국 사랑방’ 구상이다.&lt;br&gt;&lt;br&gt;목표는 5년 안에 한류와 한국어 연구에서 세계 최고 수준의 기관이 되는 것. 조 교수는 “궁극적으로는 한류를 잠깐의 유행이 아닌 지속 가능한 학문으로 남기고 싶다”고 했다. “100여 년 전 영어가 세계로 뻗어 나갈 때 옥스퍼드 영어사전이 중요한 역할을 했듯, 이제 한국어가 세계적인 언어로 성장할 청사진을 그려야 할 때입니다.” &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>엄마가 그리운 날엔 ‘엄마 어렸을 적엔’ 이야기 속으로…</title>
       <link>https://www.chosun.com/national/weekend/2026/11/21/VBCQVQHPFNDYNBSRYYCAHMNUVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/11/21/VBCQVQHPFNDYNBSRYYCAHMNUVU/</guid>
@@ -852,15 +874,6 @@
         <media:description type="plain">최민경씨가 지난해 주제네바 북한 대표부 앞에서 김정은의 죄상을 규탄하는 피켓을 들고 있다. /북한감금피해자가족회</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>李 “AI 환경에 맞춰 국가시험 전면 개편”</title>
-      <link>https://www.chosun.com/national/education/2026/11/21/BCZIEPS7LJBPBPOLXDN27CGCH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/21/BCZIEPS7LJBPBPOLXDN27CGCH4/</guid>
-      <dc:creator>김태준 기자, 황규락 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Nov 2026 15:57:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4XUJDMTKRI27HV4EW6X6E74CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 20일 청와대에서 열린 수석보좌관회의에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 인공지능(AI) 등 첨단 장비를 사용한 부정행위를 ‘중대한 범죄 행위’로 규정하고 대학수학능력시험(수능)을 포함한 시험들을 전면 개편하라고 지시했다. &lt;br&gt;&lt;br&gt;이 대통령은 20일 청와대 수석보좌관회의에서 “변화된 환경에 맞게 국가 시험 제도를 A부터 Z까지 전면적으로 신속하게 개편해야겠다”며 “기존의 통상적인 방법으로는 더 이상 AI와 첨단 장비를 악용한 부정행위를 효과적으로 막기 어려운 것 같다”고 했다. 그러면서 해외 대응 사례, 관련 기술 동향, 전문가들의 제안, 우리 국민 개개인의 의견까지도 빠짐없이 검토해 완벽한 종합 대책을 최대한 신속하게 마련하라고 주문했다. &lt;br&gt;&lt;br&gt;이 대통령은 수능 당일 발송한 재난 문자를 두고는 “(일반 국민이) 화를 많이 내실 줄 알았는데 의외로 재밌어하셨다는 얘기도 있어 감사하게 생각한다”며 “문자를 세 번이나 보냈는데도 마지막까지 걸리는 수험생이 있다는 사실이 참 놀랍다”고도 했다. &lt;br&gt;&lt;br&gt;‘범정부 수능 부정행위 대응 태스크포스(TF)’에 이어 청와대도 기존 ‘AI 부정행위 방지 비상 TF’를 ‘시험 공정성 회복 TF(가칭)’로 확대했다. 수능을 포함한 각종 시험의 감독 현황을 점검하고, 총리실 주관 중앙제보센터를 가동해 과거 국가시험 부정행위까지 조사한다는 방침이다.&lt;br&gt;&lt;br&gt;교육부는 이날 수능에서 스마트기기 등 전자기기 관련 부정행위자 111명을 적발했다고 밝혔다. 전날 4교시 종료 기준으로 집계된 적발 인원은 98명이었으나, 추가 보고 등을 반영하면서 13명이 늘었다. 이 가운데 스마트 안경과 초소형 카메라 등을 실제로 사용하다 걸린 수험생은 5명이었다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 “짧은 시간에 나름 유효한 대책들을 세웠다”고 자평했지만, 학생들은 집회를 예고했다. 고등학생들이 주축이 되어 만든 ‘2027 수능 대책 요구 연대’는 다음 달 서울에서 집회를 열고 대학 합격자 발표 연기와 응시자 전수 조사를 요구하기로 했다. 또 다른 단체인 ‘수험생 연대’도 시험장마다 점검 방식이 제각각이었다며 최교진 교육부 장관 사퇴를 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>저기… 나 대신 전화 좀 해줄래?</title>
@@ -928,15 +941,6 @@
       <description/>
       <pubDate>Fri, 20 Nov 2026 15:30:00 +0000</pubDate>
       <content:encoded>16일 낮 1시쯤 서울 종로구 동대문종합시장 액세서리상가. 한 외국인이 나비 장식이 달린 옥색 비녀를 집어 들었다. 그러고는 같은 제품 여섯 개를 결제했다. 미국인 관광객 세라(50)씨는 “한국적인 디자인이 많아 고급스러워 보이는 데다 실용적”이라며 “선물용으로 여러 개 산 것”이라고 했다.&lt;br&gt;&lt;br&gt;한복을 입을 때 주로 쓰던 전통 장신구인 비녀를 찾는 이들이 늘고 있다. 비녀가 평상복에도 어울리는 머리 장식으로 자리 잡고 있는 것이다. 외국인 관광객 사이에서는 한복 체험 때 잠시 꽂는 소품을 넘어 일상에서 쓸 수 있는 ‘한국식 패션 아이템’으로 인기를 끈다. 머리를 간단히 틀어 올려 고정할 수 있는 데다 하나만 꽂아도 눈에 띄는 장식이 된다는 점이 인기 요인으로 꼽힌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEH2BTYGFJCQ3ATCZZAOJ4HNHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비녀는 복고 열풍과 K컬처 인기를 타고 일상 패션 아이템으로 떠올랐다. /지온&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시장에서는 꽃이나 봉황 등으로 장식된 비녀 앞에서 발길을 멈추는 이들을 어렵지 않게 볼 수 있었다. 화려한 구슬 등이 달린 3000~4000원대 플라스틱 제품부터 산호색·호박색 장식석이 박힌 3만~4만원대 제품까지 다양했다. 10년차 상인 강모(47)씨는 “젊은 층 사이에서는 전통 비녀 모양과 달리 두 갈래로 갈라진 U자형이 인기”라며 “착용 방법을 묻는 사람이 많아 직접 꽂는 법도 알려주고 있다”고 했다. 또 다른 상인은 “세련된 디자인보다 할머니 느낌 나는 제품이 오히려 잘 나간다”고 했다.&lt;br&gt;&lt;br&gt;비녀가 주목받는 데는 연예인과 소셜미디어 영향이 크다. 가수 아이유·장원영 등 연예인이 공식 석상에 비녀를 꽂고 나오며 관심을 키웠다. ‘20초 만에 가능한 비녀 올림머리’ ‘절대 안 풀리는 비녀 꽂기’ 같은 제목의 영상이 잇따라 소셜미디어에 올라오기 시작했다. 한 동대문시장 상인이 손님에게 비녀를 꽂아주는 인스타그램 영상은 조회 수 204만회를 기록했다. 비녀 하나로 12가지 올림머리 스타일을 할 수 있다는 내용의 유튜브 영상은 조회 수 42만회다. &lt;br&gt;&lt;br&gt;비녀에 대한 관심 증가는 옛것을 새롭게 즐기는 ‘복고(레트로)’ 열풍에 더해 전통적인 요소를 현대적인 옷차림과 생활 방식에 맞게 활용하려는 움직임이 겹친 현상이라고 전문가들은 분석한다. 이은희 인하대 소비자학과 명예교수는 “비녀는 전통 장신구라는 상징성을 지니면서도 가격대가 다양해 전통문화에 큰 관심이 없는 사람도 부담 없이 접근할 수 있다”며 “직접 꽂아보고 사용법을 익혀가는 과정에서 옛 생활 문화를 경험할 수 있다는 점도 매력적인 요소”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양재천의 만추</title>
-      <link>https://www.chosun.com/national/weekend/2026/11/21/6YGDF6RHUJHYFCECEAHX65IEZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/11/21/6YGDF6RHUJHYFCECEAHX65IEZQ/</guid>
-      <dc:creator>권재륜 사진작가</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Nov 2026 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POZ6HKGBJFEXZIXQENRDPKPOUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영동5교 아래 서쪽 징검다리에서 바라본 양재천 늦가을 풍경. /권재륜 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걷는 걸 즐기게 되면 생활의 많은 게 달라진다. 같은 거리도 차를 타고 다닐 때는 보이지 않던 것들을 볼 수 있게 된다. 그래서 약속 장소가 그리 멀지 않고 시간적 여유가 있는 날에는 되도록 걸어간다. 먼 곳이라 차를 타고 가야 하는 경우에도 30분에서 한 시간 정도 일찍 도착해 주변을 구경하며 산책하듯 걷는다. 이런 여유가 일상에 자리 잡으면 길이 막혀 약속에 늦는 결례도 줄일 수 있다. &lt;br&gt;&lt;br&gt;양재천도 그렇게 즐기게 된 곳이다. 근처에 볼일이 있으면 미리 설렌다. 양재천은 경기도 과천시 관악산 남동쪽 기슭에서 발원해 북동쪽으로 흐르다 청계산에서 발원한 막계천과 합류한다. 이어 서초구 양재동에 이르러 청계산 동쪽 계곡에서 발원한 여의천과 합류한 다음 강남구 대치동을 경유해 탄천으로 유입된다. &lt;br&gt;&lt;br&gt;양재천은 사계절 모두 아름답다. 벤치·쉼터 등 각종 편의시설이 많고 관리가 잘돼 있다. 야외 조각 전시 등 문화예술 행사도 자주 열린다. 사진은 영동 5교 아래 서쪽 징검다리에서 바라본 양재천 늦가을 풍경.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이미륵상</title>
