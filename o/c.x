@@ -13,6 +13,136 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>10대 상대 성착취물 제작… 30대 공무원 ‘징역 2년 6개월’</title>
+      <link>https://www.chosun.com/national/regional/2026/11/26/CCO3PIA23VFINDGWRHSJIH4KGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/26/CCO3PIA23VFINDGWRHSJIH4KGE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 04:30:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUAGQWHKIZAS5FVZSA3QDJHB7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 미성년자를 상대로 성착취물을 제작한 혐의로 재판에 넘겨진 제주도 공무원에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;제주지법 형사2부(재판장 서범욱)는 26일 아동·청소년의 성보호에 관한 법률 위반(성착취물 제작 등)과 아동복지법 위반(아동에 대한 음행 강요·매개·성희롱 등) 혐의로 구속 기소된 제주도 소속 공무원 30대 A씨에게 징역 2년 6개월을 선고했다. 또 40시간의 성폭력 치료 프로그램 이수와 아동·청소년 관련 기관 및 장애인 관련 기관에 각각 7년간 취업 제한을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 제주도 소속 공무원으로 재직하던 지난 1월 B(13)양에게 총 169차례에 걸쳐 성적 메시지를 전송하고 사진 16장과 동영상 3개를 전송받아 아동·청소년 성착취물을 제작한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;그는 지난 3월에도 B양에게 10차례에 걸쳐 메시지를 보낸 뒤 사진 등을 전송받아 성착취물을 제작하고 성적 욕망을 유발하는 대화를 지속·반복한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 공소사실을 모두 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 자백하며 잘못을 인정하고 있고, 피해자를 위해 5000만원을 공탁하는 등 피해 회복을 위해 노력한 점은 유리한 정상”이라면서도 “당시 공무원 신분으로 성적 욕망을 충족하기 위해 피해자를 상대로 범행을 저질렀다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피해자가 범행 직후 정신과 입원 치료를 받는 등 정상적인 발달과 성적 가치관 형성에 상당한 악영향을 미친 점 등 죄질이 매우 불량하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산교육청, ‘악성 민원’ 학부모 고발… “교육 활동 침해”</title>
+      <link>https://www.chosun.com/national/regional/2026/11/26/DHZQAZXDFNEOBGD6OHLRHNWYMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/26/DHZQAZXDFNEOBGD6OHLRHNWYMY/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 04:06:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UABNU7SI4JU23ZAT4KNKIVXWZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육청. /부산시교육청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산교육청은 부산 남구의 한 초등학교에서 정당한 교육 활동을 침해한 것으로 판단되는 학부모 A씨를 교육감 명의로 고발하기로 했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;부산교육청은 A씨가 악의적인 아동 학대 신고와 반복적인 민원 제기 등으로 교원의 정당한 교육 활동을 침해했다고 보고 있다. &lt;br&gt;&lt;br&gt;이번 사안은 A씨의 아이가 2024년 다수 학생에게 가한 학교폭력으로 처분받으면서 시작됐다.&lt;br&gt;&lt;br&gt;시교육청은 A씨가 담임 교사의 평소 생활 지도와 학교폭력 사안 조사 과정 등에 민원을 반복적으로 제기하고, 담임 교사를 아동 학대 혐의로 신고해 정상적인 수업과 생활 지도 등 교육 활동에 심각한 지장을 초래했다고 설명했다.&lt;br&gt;&lt;br&gt;이 때문에 해당 교원은 장기간 심리적 고통을 겪는 등 정상적인 교육 활동을 하는 데 상당한 어려움을 겪었다.&lt;br&gt;&lt;br&gt;부산교육청은 정당한 생활 지도마저 아동 학대 신고로 이어질 수 있다는 우려가 교원의 교육 활동 위축으로 이어질 수 있다고 보고, 법적 대응이 필요하다고 판단했다.&lt;br&gt;&lt;br&gt;김석준 교육감은 “학부모의 정당한 의견 제시와 민원 제기는 존중돼야 하지만, 교원의 정당한 교육 활동을 침해하는 행위에 대해선 엄정히 대응하겠다”며 “교육 활동 침해에 대한 법적 대응과 피해 교원에 대한 심리적 지원을 강화하겠다”고 했다.&lt;br&gt;&lt;br&gt;또 “이번 고발은 교원의 정당한 교육 활동을 보호하고 교육 현장의 신뢰와 존중을 회복하기 위한 조치”라며 “법률·심리·행정적 지원을 강화해 교원과 학부모가 서로 존중하고, 교원이 안심하고 교육 활동에 전념할 수 있는 학교 환경을 조성하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전교조 해직교사 특채’… 김석준 부산교육감, 무죄 확정 </title>
+      <link>https://www.chosun.com/national/regional/2026/11/26/JBCVHTOBVZA27APWSKB4AUUT6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/26/JBCVHTOBVZA27APWSKB4AUUT6Q/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 03:45:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4DOOBZGEYTONBRMYZDQYRXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김석준 부산교육감. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국교직원노동조합(전교조) 해직 교사를 특별 채용하는 과정에 부당하게 개입한 혐의로 기소돼 재판에 넘겨진 김석준 부산교육감이 대법원에서 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 26일 김 교육감의 직권남용권리행사방해, 국가공무원법 위반 혐의 사건에서 검사의 상고를 기각하고 원심 무죄 판결을 확정했다.&lt;br&gt;&lt;br&gt;김 교육감은 2018년 2월부터 2019년 1월까지 전교조 소속 해직 교사 4명을 특별 채용 대상자로 미리 정한 뒤, 부산시교육청 인사 담당 공무원들에게 공개경쟁 절차를 가장해 채용하도록 지시한 혐의로 2023년 12월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;해직 교사들은 앞서 전교조 부산지부에 통일학교를 개설해 강의했다가 국가보안법 위반죄로 징역형의 집행유예를 선고받아 2009년 해직됐다.&lt;br&gt;&lt;br&gt;1심은 작년 12월 김 교육감의 혐의를 유죄로 인정해 직위 상실형에 해당하는 징역 8개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;1심은 교육청에서 진행한 특별 채용이 실질적으로 공개 채용에 해당하지 않는다고 판단했다. 채용 공고 및 응시원서 접수 기간이 매우 촉박해 해직 교사가 아닌 사람이 지원하기 어려웠고, 실제로 해직 교사 4명만 지원해 모두 합격한 점을 근거로 들었다.&lt;br&gt;&lt;br&gt;그러나 2심은 올해 8월 1심 판단을 뒤집고 무죄를 선고했다. 2심은 특별 채용 과정에 절차적 위법이 없고 김 교육감의 행위가 직권남용에 해당하지 않는다고 봤다. 또 임용에 관한 부당한 행위를 했다고 보기 어렵다며 국가공무원법 위반 혐의도 무죄로 판단했다.&lt;br&gt;&lt;br&gt;2심은 해직 교사들의 활동에 대한 재평가가 필요해 보이고, 이들을 특별 채용한 것이 타당하다고 판단했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “이 사건 특별 채용은 법률 자문가들의 자문 의견에 따라 기존 퇴직 교원들에게 최소한의 구제를 제공하기 위해 결정된 것”이라며 “피고인을 포함한 교육청의 담당 공무원은 법률상 요구되는 절차를 충족시키기 위해 최대한의 노력을 했을 뿐”이라고 설명했다.&lt;br&gt;&lt;br&gt;나아가 “해직 교사들은 (자신들의 행위가) 자유민주주의 체제를 부정하려던 것이 아니라고 주장한다”며 “당시 사회적 분위기와 강의 형식, 수강 대상자 등을 고려했을 때 근거 없는 주장이라고 보기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;김 교육감이 실무자에게 강압적 지시를 내렸다는 의혹에 대해서도 “실무자들의 의견을 무시하는 것이 아니라 오히려 적극적으로 의견을 수렴한 것으로 보인다”며 강요나 강압적 지시는 찾아볼 수 없었다고 말했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “판사 생활을 하면서 이번 사건처럼 공소 사실이 왜곡되고 심하게 과장된 상태로 기소된 경우는 비슷한 사례를 찾기 어려울 정도다. 검찰 측에서 자성이 필요하지 않나 싶다”며 검찰이 무리한 공소 제기를 했다고 지적하기도 했다.&lt;br&gt;&lt;br&gt;검사가 불복했으나 대법원도 이런 판단에 잘못이 없다며 상고를 기각했다.&lt;br&gt;&lt;br&gt;이와 관련, 김 교육감은 이날 입장문을 내고 “이번 판결로 저 개인은 물론 부산교육 가족의 명예를 지킬 수 있게 됐다”며 “실체적 진실에 근거해 현명한 판결을 해주신 재판부에 깊이 감사드린다”고 했다. &lt;br&gt;&lt;br&gt;이어 “오늘 대법원 확정 판결을 계기로 ‘해직 교사 특별 채용 사건’과 관련한 소모적이고 불필요한 논란은 종식됐다”며 “앞으로 부산교육 발전을 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 판사 “권력이 원하는 결론 아니면 탄핵”</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/26/72D2FZRQIRGTVCPFFQHGIWBODU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/26/72D2FZRQIRGTVCPFFQHGIWBODU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 03:05:19 +0000</pubDate>
+      <content:encoded>더불어민주당이 대법원 전원합의체의 한덕수 전 국무총리 내란 판결 직후 조희대 대법원장에 대한 탄핵소추를 추진하자, 현직 부장판사가 “정치권력이 원하는 결론이 도출되지 않으면 탄핵 대상이 되는 길이 열리게 됐다”고 비판했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GDFLTZHBNVHUZGECIKVU2SBQZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정아 인천지법 부천지원 부장판사는 지난 25일 법원 내부망(코트넷)에 ‘제발 재판에 매진하고 싶습니다’라는 제목의 글을 올리고 이같이 적었다.&lt;br&gt;&lt;br&gt;김 부장판사는 “저는 좌파도 우파도, 보수도 진보도 아니다. 저는 오직 헌법과 법률과 양심을 기준 삼아 사건을 보고 판단하는 업을 천직으로 삼고 있다”라며 “제 눈앞에는 억울함을 호소하는 재판 당사자들이 보일 뿐이고, 그들이 재판 절차에서 정당한 권리를 보장받기를 바랄 뿐이다”라고 했다. &lt;br&gt;&lt;br&gt;이어 “억울함을 호소하는 재판 당사자의 권력 유무, 재산 정도, 사회적 지위와 마찬가지로 정치적 성향도 제 판단에 영향을 미치지 않는다”며 “증거에 따라 사실관계를 확정하고, 그에 합당한 법리를 적용하여 결론을 도출할 뿐”이라고 했다. “제 주된 관심사는 정치와 무관하게 일반 서민들의 일상에서 벌어지는 사건 사고”라고도 했다.&lt;br&gt;&lt;br&gt;그러면서 김 부장판사는 최근 여권 주도로 이뤄진 대법관 증원, 형사소송법 개정 등 일련의 형사사법체계 변화를 하나씩 언급하며 조목조목 비판했다. 그는 사법 3법(법왜곡죄·재판소원·대법관 증원) 중 하나인 대법관 증원에 대해 “반대했다”며 “그렇지 않아도 사무 분담을 확정할 수 없을 정도로 극심한 인원 부족에 시달리는 상황에서 대책 없는 대법관 증원은 하급심 약화를 더욱 심화시킬 것이 우려되었기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;검사의 수사권 폐지를 골자로 한 개정 형사소송법에 대해선 “절망을 느꼈다”고 적었다. 김 부장판사는 “국민들, 특히 사회적 약자에게 극심한 피해가 예상되는 개정인데, 대책이 충분히 논의되지도 않은 채 법률이 통과되고, 시행됐다”며 “이것이 국민들을 위한 법률 개정이라고 말하는 것이야말로 법왜곡이라는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2TGZRRGIZGKZTCMVRWEZBRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 26일 서울 서초구 대법원 청사로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 부장판사는 조작기소 특검법도 비판했다. 그는 “왜 개정 형사소송법이 국민에게 더 나은 형사 절차를 위한 법률 개정이 아닌지는 조작기소 특검법의 부칙만 봐도 알 수 있다”며 검사의 수사권을 규정한 조작기소 특검법의 부칙을 거론했다. 그러면서 “일반 국민들의 민생사건에서는 모두 삭제된 종전 형사소송법에 의한 검사에 의한 수사, 검사가 작성한 조서의 증거 능력이 ‘특례’라는 이름을 달고 부활해 있다”고 했다. &lt;br&gt;&lt;br&gt;조작기소 특검법이 재판 기간을 1심 6개월, 2심·3심 3개월로 규정한 것에 대해서도 “사건들 하나하나가 간단한 사건들이 아니므로 미리 정해진 대로 결론을 도출하지 않는 한 무리한 재판기간이라는 점은 재판 실무를 경험해 본 사람은 누구나 알 수 있을 것”이라고 했다. 김 부장판사는 “이제 이른바 ‘선출 권력’이 인정하는 특별사건에 대해서 한정적으로만 검사 수사권과 신속한 재판이 보장되는 시대가 도래했다”고 강도 높게 비판했다.&lt;br&gt;&lt;br&gt;법왜곡죄 조항도 문제 삼았다. 법왜곡죄를 다룬 형법 123조의2 1호는 ‘법령의 적용 요건이 충족되지 아니함을 알면서도 이를 적용하거나, 적용되어야 할 법령임을 알면서도 이를 적용하지 않아 의도적으로 재판 및 수사의 결과에 영향을 미친 경우. 다만, 법령 해석의 합리적 범위에서 이루어진 재량적 판단은 이에 해당하지 아니한다’고 규정한다. 이에 대해 김 부장판사는 “범죄구성요건에서 주관적 구성요건이 저렇게 절대적인 비중을 차지하는 형벌 규정은 저로서는 참 생소하다”며 “수사기관이 이를 어떻게 해석하고 수사해 갈 것인지, 법원은 어떻게 판단해 나갈지 참으로 궁금하다”고 했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “법관들의 침묵엔 여러 의미가 있다”라고도 했다. 이어 “저의 경우, 앞으로 어떠한 사건을 담당하게 될지 알 수 없는데 재판 과정이나 결론을 두고 불필요한 오해를 사고 싶지 않다”며 “담당하는 사건의 기록 검토와 판결문 작성만으로도 고3 생활의 연장처럼 벅차게 여겨진다는 이유도 있다”고 했다. 이어 “그리고 가장 큰 이유는, 지금의 논쟁이 시비(是非)의 문제가 아니라 정치권력의 이해(利害)의 문제라는 생각이 들어 저까지 말을 보태고 싶지 않았기 때문”이라고 했다. 김 부장판사는 “제발 재판에 매진하고 싶다”며 글을 마쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGAKV3XSNJBQBNIRN3FW3UD5YQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국법관대표회의 의장인 강동원 서울가정법원 부장판사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당이 조 대법원장 탄핵소추를 추진하는 것에 대해 법원 내부에선 연일 반발 목소리가 나오고 있다. 전국 판사 회의체인 전국법관대표회의 강동원(서울가정법원 부장판사) 의장은 지난 22일 “사실상 대법원을 탄핵하겠다는 것이고, 사법부 전체에 부당한 압력을 가하겠다는 것”이라며 “탄핵소추 의결 시 행동에 나서야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;이후 개별 판사들도 대법원장 탄핵에 반대하는 취지의 글을 내부망에 올렸고, 창원지방법원은 지난 25일 판사회의를 열고 “재판을 이유로 한 법관 탄핵 등 권력 분립과 헌법 질서를 위태롭게 하는 시도에 대해 깊은 우려를 표한다”는 입장을 법원 차원에서 밝혔다. 법관대표회의는 오는 30일 예정된 정기회의에서 사법 독립 등을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이투스 ‘사탐 일타강사’ 이지영, 분당서울대병원에 3억 기부  </title>
+      <link>https://www.chosun.com/national/education/2026/11/26/HJXR665Q7FEMBPFTFMWOQCZRPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/26/HJXR665Q7FEMBPFTFMWOQCZRPM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 03:01:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3GMMZQGUZDKZTEGMZTKOLDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 이투스 사회탐구 영역 대표강사인 이지영 강사가 분당서울대병원에 임상교육훈련센터 건립을 위해 발전후원금 3억 원을 전달했다./분당서울대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이투스 사회탐구 영역 대표 강사인 이지영씨가 미래 의료인 양성을 위해 분당서울대병원에 3억원을 기부했다.&lt;br&gt;&lt;br&gt;26일 이투스에 따르면 이씨는 전날 분당서울대병원에 임상교육훈련센터 건립을 위한 발전후원금 3억원을 전달했다. 이씨는 20년 넘게 수험생을 가르쳐 왔으며 누적 수강생은 450만명에 달한다. 지난해부터는 울산과학기술원(UNIST) 인공지능대학원 특임교수로 인공지능(AI) 윤리와 사회적 책임을 가르치고 있다.&lt;br&gt;&lt;br&gt;분당서울대병원은 교육부의 지원을 받아 2028년 개원을 목표로 임상교육훈련센터를 건립하고 있다. 센터에는 실제 진료 상황을 재현하는 시뮬레이션센터와 해부학 기반 임상교육을 담당하는 응용해부아카데미가 들어선다. 병원은 의대생과 전공의, 전문간호사뿐 아니라 지역 의료인들에게도 교육 기회를 제공할 계획이다.&lt;br&gt;&lt;br&gt;이씨는 “교육은 한 사람의 가능성을 발견하고 더 나은 미래를 만들어 가는 힘”이라며 “이번 후원이 미래 의료인들이 더욱 체계적인 환경에서 배우고 성장하는 데 작은 보탬이 되어, 더 많은 환자와 가족에게 희망으로 전해지기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올겨울 대설 재난문자 전국 확대...한파 영향예보는 이틀 전부터</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/11/26/CL7OUYV54RDRJIG34HYWNPFCAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/11/26/CL7OUYV54RDRJIG34HYWNPFCAQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2GKZTCMM4WCMJTMZRDGMTEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 대전 서구 보라매공원에서 시민들이 우산을 쓰고 지나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올겨울부터 대설(大雪) 재난 문자가 전국으로 확대 시행된다. 한파 영향 예보는 극심한 추위가 발생하기 이틀 전에 발표된다.&lt;br&gt;&lt;br&gt;26일 기상청은 이 같은 내용이 담긴 올겨울 방재 대책을 발표했다. 올겨울은 엘니뇨(태평양 특정 구역의 3개월 평균 해수면 온도가 평년보다 5개월 이상 0.5도 넘게 유지되는 현상)의 영향으로 남부와 제주를 중심으로 많은 눈이 예고된 상황이다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 작년에 수도권과 충남·전북에서 시범 운영한 대설 재난 문자가 지난 23일부터 전국으로 확대됐다. 시간당 5㎝ 이상 눈이 내리면 기상청이 해당 시·군·구에 교통 불편을 알리는 안전 안내 문자를 직접 보내는 것이다. 강원도와 경북 울릉군은 24시간 새로 쌓인 눈 30㎝ 이상, 나머지 지역은 20㎝ 이상이면서, 시간당 3㎝ 이상 눈이 내리는 조건이 동시에 관측되면 문자가 발송된다.&lt;br&gt;&lt;br&gt;앞으로 1~6시간 뒤 시간대별 예상 적설량도 초단기 예보에서 확인할 수 있게 된다. 한파 영향 예보는 하루 전에서 이틀 전으로 발표를 앞당기고, 대상 지역을 전국 육상 특보 구역 183곳에서 235곳으로 늘리기로 했다. 올 12월부터는 보건 분야 한파 영향 예보가 ‘주의’ 이상일 때 어르신과 보호자에게 직접 전달하는 서비스도 운영한다.&lt;br&gt;&lt;br&gt;기상청은 26일부터 5~10일 뒤 날씨를 알려주는 ‘중기 예보’ 구역도 세분화하기로 했다. 기존에는 시·도 등 광역 구역에 같은 예보를 냈지만, 앞으로는 같은 시·도 안에서도 지역별로 다른 예보를 확인할 수 있다. 5~7일 뒤는 3시간 간격, 8~10일 뒤는 6시간 간격으로 날씨가 제공된다. 비나 눈이 올 가능성은 ‘거의 없음’ ‘조금’ ‘보통’ ‘높음’ 4단계로 표시하고, 직전 예보보다 가능성이 높아졌는지 낮아졌는지도 안내하기로 했다.&lt;br&gt;&lt;br&gt;도로 살얼음 위험 정보 제공 구간은 기존 고속도로 12개 노선 366개 관측 지점에서 13개 노선 385개 지점으로 확대된다. 도로 전광판과 티맵·카카오맵·아틀란 등에서 확인할 수 있다. 다음 달 1일부터는 인천공항에 호우·대설 항공기상 예비 특보도 도입된다.&lt;br&gt;&lt;br&gt;기상청은 올겨울 기온이 대체로 평년보다 높을 것으로 내다봤다. 강수량은 12월과 내년 2월이 평년보다 대체로 많고, 1월에는 비슷할 것으로 전망했다. 엘니뇨의 영향으로 따뜻하고 습한 공기가 우리나라로 유입되지만, 1월에는 일시적으로 찬 공기가 내려와 ‘기습 한파’가 발생할 것으로 예상했다. 이런 기습 한파가 닥칠 때 서쪽 지역을 중심으로 눈이나 비가 내릴 가능성이 있다고 기상청은 분석했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한준호 “어깨 무거워… 갓난아이 돌보는 심정으로 일하겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/26/PQLZZENL4JAJVN2PIWHBODMPN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/26/PQLZZENL4JAJVN2PIWHBODMPN4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 02:25:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SGYIJARYVJCNMF45OLVLFILAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한준호 행정안전부 장관 후보자가 26일 오전 후보자 사무실이 마련된 서울 종로구 광화문 플래티넘 빌딩으로 출근하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한준호 행정안전부 장관 후보자는 26일 “굉장히 큰 책임감과 어깨가 무겁다는 느낌을 강하게 받았다”며 “갓난아이를 돌보는 심정으로 매일 깨어 있는 모습으로 일하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한 후보자는 이날 오전 10시 서울 종로구 광화문 플래티넘 빌딩에 마련된 후보자 사무실로 출근하며 취재진과 만나 “행안부는 재정 배분과 치안·안전 역할을 한다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;그는 “지명을 받고 제일 먼저 연락드린 분이 이태원 참사로 아들을 잃은 유족”이라고 했다. 이어 “당시 당 소통단장으로 활동했고 지역구에서도 많은 희생자가 있었다”며 “(참사로) 아들을 잃고 극단적 선택을 시도했지만 소방의 도움을 받아 극복한 유족과 이야기를 나눴다”고 했다. 그러면서 “다시는 그런 참사가 벌어지지 않게 최선을 다하고 책임 있는 모습을 보이겠다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;행안부 장관이 경찰청과 지난달 출범한 중수청을 함께 관할하면서 수사기관의 독립성과 정치적 중립성이 훼손될 수 있다는 우려에 대해서는 “이재명 정부 국정 과제에 이미 수사의 독립을 명확히 해 놨다”고 답했다. 그러면서 “권력 기관이 어떻게 사용되냐에 따라 비상계엄도 생긴다. 그렇게 탄생한 정부인 만큼 국민 눈높이에 맞추겠다”고 했다. 중수청 수사 인력 부족 문제와 정상화 시점을 묻는 질문에는 “현재 보고를 받고 있다”며 “인사청문회에서 자세히 말씀드리겠다”고 했다.&lt;br&gt;&lt;br&gt;국회에서 주로 국토교통과 과학기술방송통신 분야를 맡아 지방행정과 재난안전 경험이 부족하다는 지적에는 “앞으로 활동으로 증명하겠다”고 했다. 한 후보자는 “언론계에 있을 때 2006년 인도네시아 대지진, 2008년 중국 쓰촨 대지진 현장을 취재했다”며 “지난 7년간 국회에서 일하면서 당에서 한 활동이 대부분 재난안전 관련이었다”고 했다.&lt;br&gt;&lt;br&gt;MBC 아나운서 출신인 한 후보자는 2022년 대선 때 이재명 당시 대통령 후보의 수행실장을 맡았고, 이 대통령이 당 대표일 때는 최고위원으로 지도부에서 활동했다. 현 정부 출범 이후엔 민주당 정치검찰조작기소대응특위 위원장을 맡아 이 대통령 사건의 공소취소를 주장해 왔다.&lt;br&gt;&lt;br&gt;지난 6월 지방선거 경기지사 경선에서는 ‘명픽(이재명의 선택)’으로 거론됐지만 추미애 현 지사에게 패했다. 지난달에는 강훈식 전 대통령비서실장 후임 후보군으로도 이름이 거론됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 ‘한덕수 재판 위증’ 윤석열 무죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/11/26/3EPL3HNYINAL7O42Z3GG2VXAIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/26/3EPL3HNYINAL7O42Z3GG2VXAIA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 01:44:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVHG2Z3GPGWZLNNEGGYIHWSKJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 작년 5월 서울 서초구 중앙지방법원에서 열린 내란 우두머리 혐의, 직권남용 권리행사방해 혐의 사건 4차 공판에 출석하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리의 내란 재판에서 위증한 혐의로 기소된 윤석열 전 대통령이 대법원에서 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 26일 윤 전 대통령의 위증 혐의 사건 상고심 선고를 열고 내란특검(특별검사 조은석)의 상고를 기각하고 무죄를 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 작년 11월 19일 한 전 총리의 내란 중요 임무 종사 등 혐의 1심 재판에 증인으로 출석해 비상계엄 당시 한 전 총리가 건의하기 전부터 국무회의를 계획한 것처럼 허위 증언한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 윤 전 대통령은 “처음부터 국무회의에 필요한 인원을 불러야 한다고 생각했냐”는 재판부의 물음에 “그렇다. 당연히 국무회의가 필요하다는 걸 알고 있었다”고 답했다. 특검은 윤 전 대통령이 실제로는 한 전 총리로부터 “국무회의 심의를 거쳐야 한다”는 취지의 건의를 듣고 나서야 국무위원을 추가 소집하려 했다고 보고, 해당 발언이 기억에 반하는 허위 진술이라며 위증 혐의로 윤 전 대통령을 기소했다.&lt;br&gt;&lt;br&gt;1심과 2심은 윤 전 대통령에게 무죄를 선고했다. &lt;br&gt;&lt;br&gt;1심은 윤 전 대통령이 한 전 총리의 건의와 무관하게 국무위원을 추가로 소집할 계획이 있었던 것으로 보인다고 봤으며, 2심은 윤 전 대통령의 증언이 기억에 반하는 허위 진술이라는 점이 증명되지 않았다고 했다. 윤 전 대통령의 지위와 경력에 비춰 비상계엄을 선포할 때 국무회의 심의를 거쳐야 한다는 점을 알지 못했다고 보기 어렵고, 오히려 비상계엄 선포를 위한 최소한의 요건을 갖추려 했을 것으로 보인다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 이같은 원심 판단에 문제가 없다고 봤다. &lt;br&gt;&lt;br&gt;대법원은 “형사재판에서 공소가 제기된 범죄사실에 대한 입증책임은 검사에게 있다”며 “유죄를 인정할 때는 법관이 합리적인 의심을 할 여지가 없을 정도로 공소사실이 진실한 것이라는 확신을 가지게 하는 증명력을 가진 증거에 의해야 한다”고 설명했다. 그러면서 윤 전 대통령이 자신의 기억에 반하는 허위 진술을 했다는 점이 합리적 의심의 여지가 없을 정도로 증명됐다고 보기 어렵다고 판단한 원심 판단에 필요한 심리를 다하지 않는 등 잘못이 없다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MUTZ32NNZCMBJYVUCQRUDCRDQ.JPG?auth=33438c5abc5f46727d399adfaa8999373983d4db8aafa0414c44141cd10f3d83&amp;smart=true&amp;width=951&amp;height=714" type="image/jpeg" height="714" width="951">
+        <media:description type="plain">윤석열 전 대통령이 서울 서초구 중앙지방법원에서 열린 내란 우두머리 혐의, 직권남용 권리행사방해 혐의 사건 4차 공판에 출석하고 있다. 2025.5.19/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>해녀가 숨 참고 내려가는 수심... 제주맥주 ‘언더 15M’, 더블골드 메달 수상</title>
+      <link>https://www.chosun.com/national/regional/2026/11/26/DWTY7R3WGFAKBPNWQX4CZJGUP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/26/DWTY7R3WGFAKBPNWQX4CZJGUP4/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 04:01:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4EMJFSYP5GCTLWCIEXRIATXA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주맥주 파일럿 제품 '언더 15M'./한울앤제주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주맥주의 ‘언더15M(UNDER 15M)’과 ‘제주 위트 에일’이 ‘2026 아시아 비어 레이팅스(Asia Beer Ratings)’에서 더블골드 메달과 골드 메달을 받았다. &lt;br&gt;&lt;br&gt;한울앤제주는 자사 맥주 브랜드 제주맥주의 ‘언더15M’이 아시아 비어 레이팅스 대회 최고 메달 등급인 더블 골드에 특별상 2개를 더해 단일 제품으로 3관왕에 올랐다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;언더15M은 100점 만점에 96점을 받아, 96점 이상에만 주는 더블 골드 메달을 획득했다. 여기에 패키지 부문 최고상인 ‘베스트 비어 바이 패키징(Best Beer by Packaging)’과 국가별 올해의 맥주인 ‘비어 오브 더 이어 사우스 코리아(Beer of the Year South Korea)’를 함께 받았다. 인도네시아·남아프리카공화국·영국 등 6국 맥주가 메달을 받은 올해 대회에서 더블 골드는 단 2개 제품에만 돌아갔다. 언더15M은 숙련된 해녀가 숨을 참고 내려가는 수심 15m에서 이름을 딴 맥주다. 양조장 방문객만 맛볼 수 있던 파일럿 맥주로 출발해, 호응에 힘입어 올해 6월 정규 제품으로 출시됐다. 판매 수익 일부를 제주 해녀 복지에 기부하는 프로젝트도 이 제품과 함께 추진하고 있다.&lt;br&gt;&lt;br&gt;라벨에는 수경을 쓴 해녀의 흑백 사진 위에 ‘15M’ 글자를 크게 올리고 ‘DIVE IN TO DIVERSITY’ 문구를 더했으며, 이 패키지가 패키지 부문 최고상으로 이어졌다. 심사위원단은 테이스팅 노트에서 열대 과일 계열의 홉 향과 깔끔하고 드라이한 끝맛을 이 맥주의 특징으로 꼽았다.&lt;br&gt;&lt;br&gt;제주맥주의 첫 제품이자 대표 제품인 제주 위트 에일은 91점으로 골드 메달(90~95점)을 받았다. 제주 위트 에일은 2017년 8월 제주맥주 출범과 함께 나온 첫 제품이다. 해마다 제철에 수확한 제주 햇감귤피를 쓰고 향료를 넣지 않은 밀맥주다. 알코올 도수는 5.3%다. 이번 심사에서는 오렌지 껍질과 고수 향, 부드러운 탄산, 드라이한 마무리가 테이스팅 노트에 올랐다.&lt;br&gt;&lt;br&gt;아시아 비어 레이팅스는 미국의 주류 산업 행사·미디어 그룹 베버리지 트레이드 네트워크(Beverage Trade Network)가 주최하는 국제 맥주 대회다. 맛과 품질만이 아니라 가격 대비 가치, 패키지·디자인까지 세 가지를 함께 평가한다. 올해는 공인 맥주 심사위원과 맥주 전문 필자, 크래프트 맥주 업계 관계자 등으로 꾸려진 심사위원단이 지난 11일 심사했다.&lt;br&gt;&lt;br&gt;김동현 한울앤제주 부대표는 “양조장을 찾은 소비자의 호응으로 정규 제품이 된 언더15M이 맛과 디자인 모두에서 해외 심사위원단의 평가를 받아 뜻깊다”며 “앞으로 제주의 이야기를 담은 맥주로 더 많은 소비자를 만나겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘리트 만점자’ 주거지 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/26/YNPPUJ7WCBBALJM6USITW4MUJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/26/YNPPUJ7WCBBALJM6USITW4MUJM/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 02:32:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THAR6GYI7ZD3RORHIMNQH2MAWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 법학적성시험(LEET·리트) 만점자 이진우씨가 지난 19일 부정행위 의혹에 대한 공개 검증 현장에 모습을 드러내지 않은 가운데 경찰이 서울 관악구에 위치한 이씨 자택에 들어가고 있다./임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 법학적성시험(LEET·리트) 만점자 고(故)이진우씨 자택을 압수수색하는 등 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 금융범죄수사대는 26일 리트 시험 등 부정행위 사건과 관련해 서울 관악구 신림동 소재 이씨 주거지를 압수수색 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;이씨의 2026학년도 수능 시험지를 보관하고 있는 서울 영훈고등학교도 압수수색 대상이다.&lt;br&gt;&lt;br&gt;경찰은 지난 25일에도 이씨 주거지를 찾아 CC(폐쇄회로)TV 영상을 확인하고 탐문을 벌인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이번 압수수색을 통해 인공지능(AI) 부정행위 수법이 담긴 것으로 추정되는 소지품과 수능 시험지 확보를 시도할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 경찰은 리트 주관사인 법학전문대학원 협의회에 수사 협조를 요청한 것으로 알려졌다. 협의회는 이씨가 응시한 시험의 OMR 답안지부터 시험 관리 절차 등을 확인할 수 있는 교육 자료 등도 가지고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울청 금융범죄수사대는 이씨에 대한 사기 등 혐의 고발 사건을 수사하고 있다. 이씨가 지난 19일 사망하면서 ‘공소권 없음’으로 수사가 종결될 거라는 전망도 나왔지만 경찰은 수사를 이어가겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 앞바다 화물선서 응급 환자… 인니 선원 1명 숨지고 1명 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/11/26/AMFJSDKS4FB6LMNKWPEDCSWTAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/11/26/AMFJSDKS4FB6LMNKWPEDCSWTAQ/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 02:14:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L23QKFEULFD7TLKR6CSPCX3HT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 앞바다에서 응급 환자가 발생한 화물선. /부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 앞바다를 항해하던 화물선에서 응급 환자 2명이 발생해 1명이 숨지고, 1명이 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;26일 부산해양경찰서에 따르면, 25일 오후 9시 33분쯤 부산 사하구 북형제섬 동쪽 해상을 항해하던 1990t급 몽골 선적 화물선에서 응급 환자가 발생했다는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;복통과 설사 증세를 보이던 인도네시아 국적의 30대 선원 A씨가 선내에서 숨졌으며, 같은 증세를 보인 동일 국적의 20대 선원 B씨를 육지로 이송해 달라는 내용이었다.&lt;br&gt;&lt;br&gt;당초 이들은 26일 배에서 내려 병원에서 치료받을 예정이었으나 상태가 악화하자 해경에 구조를 요청했다고 한다.&lt;br&gt;&lt;br&gt;해당 선박에 오른 해경은 의식이 희미한 B씨를 육지로 이송한 뒤 병원으로 옮겼다.&lt;br&gt;&lt;br&gt;이 화물선에는 인도네시아 국적 선원 10명이 타고 있었다. 또 다른 선원 1명도 앞서 비슷한 증세를 보였지만 현재는 상태가 호전됐다고 해경은 전했다.&lt;br&gt;&lt;br&gt;A씨의 시신은 현재 선박에 남아 있다고 한다. 부산검역소와 세관은 이날 오전 해상 검역을 실시해 A씨를 확인할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 해외 명품 가구 수입업체 대표가 사라졌다</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/26/PKWBJTSM3ZC7BJL4EZJDFUHHRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/26/PKWBJTSM3ZC7BJL4EZJDFUHHRI/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 02:12:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRWEMLBG42DSMJSMI2DEMJWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 온라인 가구 판매 쇼핑몰 A사가 소비자가 주문한 가구 배송을 미루다 지난 9일 영업을 중단한 것으로 26일 확인됐다. A사는 해외 명품 가구를 정가보다 50~60% 저렴하게 판매하면서 국내 소비자들 사이에서 입소문을 탔다. 그러나 1년여 전부터 배송을 미루기 시작하더니 최근에는 사무실을 폐쇄하고 연락이 두절돼 피해자들이 A사 대표 박모(46)씨를 사기 혐의로 경찰에 고소했다. 그런데 박씨가 이미 사망했다는 첩보가 제기돼 피해자들이 난감한 상황에 처했다. A사 사무실 주소지를 관할하는 서울 강남경찰서가 박씨 관련 고소 사건을 각 경찰서에서 넘겨받아 본격적인 수사 채비에 나섰다. &lt;br&gt;&lt;br&gt;2021년 설립된 A사는 온라인에서 해외 고급 가구와 조명 등을 수입해 판매해왔다. 물건 배송이 지연되기 시작한 것은 작년 5월쯤. 피해자 김모씨는 그즈음 A사 온라인 쇼핑몰에서 175만원짜리 침대 매트리스를 주문하고 결제도 했다. 그러나 1년 6개월이 지난 지금까지 물건을 받지 못했다. 김씨는 “수차례 환불 요구를 했지만 A사가 응하지 않았다”고 했다. 김씨는 “해외 주문 제작 가구는 원래 6개월 이상 기다리는 경우가 많다 보니 피해자가 더 있을 것”이라고 했다. 김씨 등 피해자들이 만든 카카오톡 단체 대화방에는 현재 600여 명이 참여하고 있는데 피해 금액은 1인당 평균 400만원 수준인 것으로 알려졌다. 총 피해액이 20억원대란 얘기다.&lt;br&gt;&lt;br&gt;피해자들에 따르면 A사는 배송 지연에 항의하는 소비자에게 지난달까지는 고객센터를 통해 “가구는 제작 중이고 배송이 지연되고 있다”는 취지로 해명했다고 한다. 하지만 이달 들어 고객센터도 연락이 두절됐다. 현재 A사 법인등기부 주소지에는 다른 회사가 입주해 있다. A사 임원이었다는 B씨는 본지에 “이달 초부터 직원들이 월급을 받지 못했고 나도 지난 10일 퇴사했다”며 “박 대표가 이달 초 사망한 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;통상 피고소인이 사망하면 사건 수사는 ‘공소권 없음’으로 종결된다. 이럴 경우 피해자들은 A사 법인을 상대로 민사상 손해배상 청구 소송을 낼 수 있다. 하지만 A사에 자산이 얼마나 남아 있을지 불투명하다. 피해자들 사이에서는 박씨 등이 고객 돈으로 주식 투자를 했다가 큰 손실을 본 것 아니냐는 말이 돈다. 경찰 관계자는 박씨 사망 여부와 관련해 “확인해줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>키 17㎝ 좌우하는 희귀 유전자 변이 찾았다…145만명 분석 결과</title>
+      <link>https://www.chosun.com/economy/science/2026/11/26/SOK7365TQJBCBPBGMINHOMP3II/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/science/2026/11/26/SOK7365TQJBCBPBGMINHOMP3II/</guid>
+      <dc:creator>곽수근 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 01:43:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5VIQ6J6GRARNO2ZXTYQDQTNFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;희귀한 유전자 변이 하나가 수천 개의 일반적인 유전자 변이가 합쳐져 나타나는 효과보다 더 큰 영향을 미칠 수 있다는 연구 결과가 나왔다. /AI 생성 이미지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사람의 키는 수많은 유전자와 영양 상태 등 환경적 요인이 복합적으로 작용해 결정된다. 그런데 극히 희귀한 유전자 변이 하나가 수천 개의 일반적인 유전자 변이가 합쳐져 나타나는 효과보다 더 큰 영향을 미칠 수 있다는 연구 결과가 나왔다. 145만여 명의 유전 정보를 분석한 결과, 특정 유전자의 희귀 변이는 키가 평균 17㎝가량 작아지는 것과, 또 다른 유전자의 희귀 변이는 키가 평균 11㎝가량 커지는 것과 관련이 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;미국 리제네론 유전학센터 등 국제 공동 연구진은 26일 국제학술지 네이처에 이런 연구 결과를 발표했다. 연구진은 145만633명의 유전 정보를 분석해 키와 관련된 유전자 207개를 확인했다. 특히 이 중 17개 유전자에서 발견된 극히 희귀한 변이가 키를 늘리거나 줄이는 효과는 평균 8.92㎝로, 일반적인 키 관련 유전자 변이(0.17㎝)의 52배에 달했다.&lt;br&gt;&lt;br&gt;◇희귀 변이 하나가 좌우하는 키&lt;br&gt;&lt;br&gt;성인 키의 개인 간 차이 가운데 약 80~90%는 유전적 요인으로 설명되는 것으로 알려져 있다. 그동안 과학계에서는 사람의 키를 결정하는 유전적 요인을 찾기 위한 대규모 연구가 이어져 왔다. 2022년에는 530만명의 유전 정보를 분석해 키와 관련된 유전자 변이 1만2111개를 찾아낸 연구 결과가 네이처에 발표됐다. 이 변이들로 유럽계 인구의 개인 간 키 차이의 약 40%를 설명할 수 있었다. 하지만 일반적인 유전자 변이 하나가 키에 미치는 영향은 대부분 1㎝ 미만이었다.&lt;br&gt;&lt;br&gt;이번 연구진은 특히 17개 유전자에서 희귀한 변이들이 키와 밀접한 관련이 있다고 밝혀냈다. 이 가운데 11개 유전자의 변이는 키가 작아지는 것과, 6개 유전자의 변이는 키가 커지는 것과 관련이 있었다.&lt;br&gt;&lt;br&gt;예컨대 연골의 주요 구성 성분을 만드는 ACAN 유전자의 극희귀 변이는 키가 평균 16.55㎝ 작아지는 것과 관련이 있었다. 반면 결합 조직 형성에 관여하는 FBN1 유전자의 극희귀 변이는 키가 평균 11.14㎝ 커지는 것과 관련이 있었다. FBN1은 심혈관계와 골격 등에 이상이 생기는 유전 질환인 마르판증후군과 관련된 유전자다.&lt;br&gt;&lt;br&gt;◇성장 장애 진단·치료의 새로운 단서 될까&lt;br&gt;&lt;br&gt;연구진은 일반적인 유전자 변이만으로 예측한 키와 실제 키 사이에 큰 차이가 나는 사람들에게서 극희귀 변이가 더 자주 발견된다는 사실도 확인했다. 극희귀 변이를 보유한 337명을 대상으로 키 예측 모델의 성능을 분석한 결과, 일반적인 유전자 변이만 고려했을 때는 0.55였던 결정계수가 극희귀 변이의 영향을 반영하자 0.72로 높아졌다. 결정계수는 통계 모델이 실제 관측값의 차이를 얼마나 잘 설명하는지를 나타내는 지표로, 1에 가까울수록 설명력이 높다. 유전적으로 예측한 키보다 실제 키가 유독 크거나 작은 이유를 밝히는 데 극희귀 변이 분석이 도움이 될 수 있다는 것이다.&lt;br&gt;&lt;br&gt;이번 연구 결과는 원인이 명확히 밝혀지지 않은 성장 장애를 진단하거나, 치료제 개발의 표적이 될 유전자를 찾는 데 활용될 수 있을 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 새롭게 확인된 유전자 중 일부는 어떤 원리로 키에 영향을 미치는지 아직 명확하지 않아 후속 연구가 필요하다. 키에 큰 영향을 미치는 극희귀 변이를 보유한 사람도 최초 분석 대상 82만여 명 가운데 744명으로 전체의 0.1%에도 못 미쳤다. 희귀 변이 하나가 키를 크게 좌우하는 경우도 있지만, 대다수 사람의 키는 여전히 수많은 유전자 변이와 환경적 요인이 복합적으로 작용한 결과라는 것이다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘채용비리’ 함영주 하나금융회장, 파기환송심서 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2026/11/26/S4AC2J27BZBX3K4JVD5CRS2X4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/26/S4AC2J27BZBX3K4JVD5CRS2X4I/</guid>
+      <dc:creator>강혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Nov 2026 01:16:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBEGIKM4L5PM3EK7VQM7XFFUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;함영주 하나금융지주 회장이 26일 서울 마포구 서울서부지방법원에서 열린 파기환송심에서 무죄를 선고받은 뒤 법원을 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하나은행 신입사원 공개채용에 개입한 혐의로 기소된 함영주 하나금융지주 회장이 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사항소2-3부(재판장 이동식)는 26일 오전 10시 함 회장의 업무방해 혐의 파기환송심 선고 공판에서 무죄를 선고했다. &lt;br&gt;&lt;br&gt;앞선 결심 공판에서 검사는 징역 3년을 구형했다. 하지만 재판부는 “피고인의 업무방해 혐의에 대해 무죄를 선고한 판단은 정당해 보인다”며 원심 판단을 유지하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;함 회장은 이날 선고 공판이 끝나고 법원에서 나와 “사실과 증거에 따라 현명하게 판단해주신 재판부에 깊은 감사를 드린다”며 “제가 은행장으로 부임할 때 있었던 일로 많은 분께 심려를 끼친 점은 대단히 송구스럽게 생각한다”고 말했다. &lt;br&gt;&lt;br&gt;함 회장은 2015~2016년 하나은행 신입사원 공개채용 당시 지인의 청탁을 받고 특정 지원자의 점수를 조작한 혐의로 2018년 6월 기소됐다. 또 2015∼2016년 공채를 앞두고 남녀 비율을 4대1로 정해 남자를 더 뽑도록 지시한 혐의(남녀고용평등법 위반)도 받았다.&lt;br&gt;&lt;br&gt;1심은 함 회장이 채용에 위력을 행사한 것은 아니라며 모든 혐의에 무죄를 선고했다. 하지만 2심은 함 회장이 인사부장과 공모해 불합격권이던 지원자를 합격시켰다고 판단해 업무방해 혐의에 대해서는 징역 6개월에 집행유예 2년, 벌금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;지난 3월 대법원은 업무방해 혐의에 대해 무죄 취지로 파기환송했다. 1심의 무죄 판단을 뒤집을 만한 합리적인 사정이 있다고 보긴 어렵다는 취지다.&lt;br&gt;&lt;br&gt;다만 남자 지원자를 더 뽑도록 지시한 혐의(남녀고용평등법 위반)에 대해선 2심의 벌금 300만원 유죄 판결을 확정했다.&lt;br&gt;&lt;br&gt;금융회사의 지배구조에 관한 법률에 따라 금고 이상 형이 확정돼 집행유예 기간 중인 사람은 금융사 임원이 될 수 없다. 함 회장은 이번 무죄 판결로 8년 넘게 이어진 사법 리스크를 사실상 털어내게 됐다. 함 회장의 임기는 2028년 3월까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“교사냥이 출몰 막아라”… 임용고사 시험장에 열화상·금속·전파 탐지기 투입</title>
       <link>https://www.chosun.com/national/education/2026/11/26/FJAZGIN6LJESPI5LCVOGJ7AI5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2026/11/26/FJAZGIN6LJESPI5LCVOGJ7AI5M/</guid>
@@ -779,15 +909,6 @@
       </media:content>
     </item>
     <item>
-      <title>국민체육진흥공단 노조 “지방 이전 논의, 설립 목적에 안 맞아... 서울올림픽 타지서 기념하는 건 비상식적”</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/25/EZPLN7SWNNFWFH7MKSIBTBYCWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/25/EZPLN7SWNNFWFH7MKSIBTBYCWA/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Nov 2026 02:05:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FE3FZ7G4H5DGDPNJSWBSZVMXZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/국민체육진흥공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민체육진흥공단 노동조합이 25일 성명을 내고 정부가 추진하는 공단 이전 정책에 대해 공개적으로 반대하고 나섰다.&lt;br&gt;&lt;br&gt;체육공단이 2차 지방 이전 대상 기관에 포함될 것으로 지속적으로 거론되자 법적 근거를 제시하며 ‘불가’를 주장하는 것이다. 정부는 4분기 내에 이전 대상과 지역을 발표할 예정이다. &lt;br&gt;&lt;br&gt;체육공단 노조는 성명에서 “정부의 지방 이전 논의가 공단의 상황과 합리적 사유를 외면한 채, 정책 엇박자 속에서 추진되고 있다”며 “신중하게 검토해달라”고 촉구했다. &lt;br&gt;&lt;br&gt;노조는 먼저 공단 설립 목적 등 법적 근거를 반대 이유로 들었다. ‘국민체육진흥법’에 따라 공단은 1988년 서울올림픽을 기념하기 위해 설립된 기관으로, 공식 명칭이 ‘서울올림픽기념국민체육진흥공단’이란 것이다. &lt;br&gt;&lt;br&gt;노조는 “전 세계 올림픽 개최 도시 중 유산과 관리 주체가 분리된 경우는 한 곳도 없다. 서울올림픽을 서울이 아닌 지역에서 기념한다는 발상 자체가 상식에 맞지 않는다”라고 비판했다. &lt;br&gt;&lt;br&gt;또 충청북도와 진천군 등 공개적으로 공단 유치에 나선 지자체에 대해선 “공단의 기능과 무관한 무리한 유치 경쟁을 펼치고 있다”며 ‘지역 이기주의’라고 지적했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SXB2ITLV5GNTBLO2RM7MW3AEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/국민체육진흥공단 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노조는 또 “공단은 올림픽공원과 공원 내 공연장, 미술관, 박물관, 유스호스텔, 경륜·경정장 등 수도권에서 문화 복리 시설을 직접 운영하고 있어 ‘지방자치 분권 및 균형성장에 관한 특별법 시행령’에서 규정하는 지방 이전 제외 대상 기관에 해당한다”고도 주장했다. &lt;br&gt;&lt;br&gt;전체 직원의 90%가 이전이 불가한 수도권 소재 사업장에서 근무하고 있는 점도 반대 이유로 제시했다. 실제 이전 가능한 인력은 10%에 불과해 공단을 지방으로 이전하는 건 ‘전시 행정’이라는 게 노조 얘기다. &lt;br&gt;&lt;br&gt;이 밖에 노조는 “1800억원을 들여 리모델링한 올림픽회관, 지난달 개관한 국립스포츠박물관을 두고 본사가 이전하면 막대한 매몰 비용이 발생할 게 우려된다”고도 했다. &lt;br&gt;&lt;br&gt;정연승 노조위원장은 “재정경제부에서는 효율성을 위해 자회사와 기관을 합치고, 국토교통부에서는 다시 현장과 본사를 갈라놓는 쪼개기를 추진하고 있다”며 “이런 엇박자 정책은 전형적인 보여주기식 행정으로, 스스로 정책의 비합리성을 자인하는 꼴”이라고 말했다. &lt;br&gt;&lt;br&gt;이어 “정부가 진정으로 국가 균형 발전을 도모한다면 공단을 이전 대상에서 배제하고, 이전으로 소요되는 재원은 전국 지방 체육 시설과 인프라 발전에 투입해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] “우리 학생부터 챙기자” 서울대 자연대, 전체 학생 심리검사한다</title>
       <link>https://www.chosun.com/national/national_general/2026/11/25/FA34UFZFNFESVP4C5PTWX5KBIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/25/FA34UFZFNFESVP4C5PTWX5KBIA/</guid>
@@ -795,15 +916,6 @@
       <description/>
       <pubDate>Wed, 25 Nov 2026 01:41:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIOZKBACZ5CE7CPJGGO4SNV56A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 관악구 서울대 자연과학대학(자연대)의 모습./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 자연대가 소속 학부생과 대학원생을 대상으로 심리와 학교 적응 상태 등을 살펴보는 심리 검사를 진행한다. 재학 혹은 휴학 중인 학부생과 대학원생 등 총 2600여 명이 대상이다. 이번 심리 검사는 “연구중점대학을 선포한 서울대가 대학원에 집중하면서 학부생을 제대로 관리하지 못한 측면이 있다”는 자연대의 판단에서 출발했다. &lt;br&gt;&lt;br&gt;서울대 자연대 관계자에 따르면, 서울대 자연대는 지난 23일부터 소속 대학원생 1041명을 대상으로 다면적 인성 검사(MMPI-2)를 진행 중이다. MMPI 검사는 개인의 성격 특성과 정서 상태, 심리적 적응 수준을 객관적으로 평가하는 자기 보고식 심리 검사다. 학생들이 학교에서 전송한 검사 응시 메일을 통해 심리 검사 사이트에 접속해 총 567문항에 대해 답변하는 방식이다. &lt;br&gt;&lt;br&gt;우선 올해는 대학원생을 대상으로 시범적으로 진행한다. 이어 내년 2월 신입생 오리엔테이션에서 신입생을, 3월에는 학부생 전체를 대상으로 검사를 실시한다는 계획이다. 이렇게 단과대 차원에서 학부생과 대학원생 전체를 대상으로 심리 검사를 실시하는 건 이번이 처음이다. &lt;br&gt;&lt;br&gt;서울대 자연대가 갑자기 전체 학생을 상대로 심리 검사에 나선 배경에는 연구중점대학을 선포한 서울대가 대학원에 집중하며 상대적으로 학부생 관리에는 미흡했다는 문제의식이 깔려있다. 학부생 관리가 제대로 되지 않으니 자교 대학원 진학률이 떨어지고, 학교는 계속해서 지방이나 해외에서 인재를 찾아 나서는 악순환이 반복된다는 것이다. 실제로 본지가 입수한 자료에 따르면, 서울대 석·박사 통합 과정과 석사 과정생 중 서울대 자연대 출신은 각각 35.1%, 20.6%로 10명 중 2~3명꼴이다. &lt;br&gt;&lt;br&gt;이와 관련해 오병권 서울대 자연대 학장은 “서울대 자연대 학부생의 대학원 진학률이 30%가 안 되는 상황이다. 그만큼 학부생에 대한 관리의 중요성이 커졌다”며 “외부에서 인재를 찾기에 앞서 우리 학생들을 먼저 제대로 살피고 키우겠다는 생각의 출발점으로 심리 검사를 추진하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;자연대는 검사 결과를 토대로 학생들의 상황에 맞는 추후 상담을 지원할 예정이다. 전문 상담사의 임상적 위험도 평가를 토대로 일반군과 주의군으로 선별한 뒤, 개인 심리 검사를 진행한다. &lt;br&gt;&lt;br&gt;한편 같은 문제의식에서 자연대는 최근 학부와 석·박사 통합 연계 과정을 도입하는 방안도 추진 중이다. 해당 연계 과정에 따르면 학사는 최단 3년 6개월, 석·박사는 최단 3년 만에 마칠 수 있다. 이 또한 우수한 학부생들의 대학원 진학을 유도하겠다는 취지에서 출발했다. 현재 단과대 규정 개정안이 마련된 상태로, 학내 위원회 심의와 대학 본부 승인 절차를 앞두고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>옛 연인 둔기로 살해한 60대… 경찰, 보복살인죄 적용해 공소청 송치</title>
-      <link>https://www.chosun.com/national/incident/2026/11/25/F4VCNOY45FCFXDXF67LXXICEEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/25/F4VCNOY45FCFXDXF67LXXICEEQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Nov 2026 00:41:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE73NHQZRNJ2RIFGQD5FXILYD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;접근금지 조치가 해제된 뒤 전 연인을 둔기로 살해한 혐의를 받는 60대 남성 A씨. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헤어진 연인을 둔기로 살해한 60대 남성이 공소청에 넘겨졌다. 그는 앞서 옛 연인이 자신을 스토킹 혐의로 고소한 사건이 공소청에 송치되자 앙심을 품고 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천 계양경찰서는 25일 특정범죄가중처벌법상 보복살인과 특수주거침입, 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 A씨를 공소청에 송치했다. &lt;br&gt;&lt;br&gt;앞서 A씨에게 살인 혐의를 적용한 경찰은 수사 과정에서 보복 목적이 인정된다고 보고, 보복살인으로 혐의를 바꿨다. 보복살인 혐의는 최소 징역 10년 이상으로, 일반 살인죄의 법정 하한선인 징역 5년보다 무겁다. &lt;br&gt;&lt;br&gt;A씨는 지난 15일 오후 5시 14분~37분 사이 인천시 계양구의 한 빌라에서 60대 여성 B씨를 둔기로 때려 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “B씨가 지난 8월 스토킹 혐의로 고소한 사건이 최근 공소청에 송치됐다는 내용의 문자를 받고 범행하기로 했다”는 취지로 진술했다.&lt;br&gt;&lt;br&gt;B씨는 지난 8월 27일 스토킹범죄의 처벌 등에 관한 법률 위반과 명예훼손 혐의로 A씨를 고소했다. &lt;br&gt;&lt;br&gt;당시 법원은 B씨의 고소 다음 날 A씨에게 11월 27일까지 피해자와 가족 주변 100m 이내 접근 금지 등이 포함된 잠정조치를 결정했다. &lt;br&gt;&lt;br&gt;B씨는 그러나 지난 9월 11일 “A씨와 합의해 처벌 의사가 없고, 잠정조치 취하도 희망한다”며 고소를 취하했고, 잠정조치는 풀렸다. &lt;br&gt;&lt;br&gt;B씨가 고소했던 사건은 스토킹 사건 전건 송치 방침에 따라 지난 9일 공소청에 넘겨졌고, 이 사실은 지난 13일 A씨에게 문자로 통보됐다. &lt;br&gt;&lt;br&gt;경찰에 체포된 A씨는 “절대로 죽이지 않았다”며 혐의를 전면 부인했으나, 지난 19일 구속이 결정되고 경찰이 확보한 범행 도구에서 A씨 유전자와 B씨의 혈흔이 확인되는 등 증거가 나오자 입장을 바꾼 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘어린 금수저’의 불륜 행각… 역사를 송두리째 뒤바꿨다</title>
@@ -816,18 +928,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/7OHQIULDUVBRJPKFN5WYF52ZVE.png?auth=448666df4d38e3cffc3e916af400641c241f32339269357c8e4b9d75545cf825&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560">
         <media:description type="plain">/일러스트=조선디자인랩 김가희·Midjourney</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[김철중의 생로병사] 60대보다 약한 40대 체력, 퇴직하면 더 건강해지는 ‘슬픈 역설’</title>
-      <link>https://www.chosun.com/opinion/essay/2026/11/24/OI7J74V3X5EDLJ6LXYHLPNW32A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/opinion/essay/2026/11/24/OI7J74V3X5EDLJ6LXYHLPNW32A/</guid>
-      <dc:creator>김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 14:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/365V4KPVIJGU3EUFQJZTW3MOVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 직장인 김모(48)씨는 요즘 자신의 몸이 이상하다고 느낀다. 회사에서는 부장으로 승진해 한창 잘나가는 나이인데, 몸은 벌써 정년퇴직을 준비하는 것 같다고 자조한다. 아침에는 허리가 뻐근하고, 계단으로 두 층만 올라가도 숨이 찬다. 건강검진에서는 혈압과 혈당이 경계선을 넘었고, 콜레스테롤 수치는 약을 먹을지 고민할 수준이다. &lt;br&gt;&lt;br&gt;얼마 전 퇴직한 65세 선배를 만났더니 얼굴에 윤기가 흐른다. 매일 아침 걷고, 오후에는 수영하고, 주말에는 등산을 다닌단다. 김씨는 농담처럼 말했다. “선배님, 회사 그만두니까 건강해지셨네요. 저도 건강해지려면 퇴직해야겠어요.” 우스갯소리 같지만, 한국 사회에서 그저 농담으로만 들리지 않는다.&lt;br&gt;&lt;br&gt;서울시가 지난해 12월부터 올해 10월 말까지 서울체력장 이용자 9만129명을 분석한 결과는 놀랍다. 40대 이용자 1만3092명 중 체력평가에서 주의·개선·경고에 해당하는 4~6등급을 받은 비율이 70%였다. 저(低)체력자가 열 중 일곱이라는 의미다. 50대도 68%였다. 반면 60대는 51%로 되레 40대보다 낮았다. 적정 이상의 체력인 1~3등급 비율도 60대가 40·50대보다 높았다. &lt;br&gt;&lt;br&gt;우리나라 인구의 중위 연령은 46.8세다. 국민을 나이순으로 줄 세웠을 때 한가운데에 있는 사람이 40대 후반이라는 뜻이다. 지금 대한민국 허리에 해당하는 계층이 저질 체력에 놓여 있다. 체력만이 문제가 아니다. 몸속에서는 만성 질환이 자라고 있다. 질병관리청에 따르면 40대 고혈압 유병률은 20.4%, 50대에는 34.7%다. 당뇨병도 50대에 14.6%에 이른다. 일곱 중 한 명이라는 얘기다. 오십에 접어들면 고혈압은 세 명 중 한 명, 고콜레스테롤혈증은 다섯 명 중 두 명꼴이다.&lt;br&gt;&lt;br&gt;선진국으로 향하는 대한민국에서 왜 이런 일이 벌어지고 있는가. 문제의 단서가 될 연구가 최근 나왔다. 서울대 경제학부 이정민 교수 공동 연구팀은 한국의 국가건강검진 자료 등을 이용해 일자리 상실이 건강에 미치는 영향을 분석했다. 미국 경제학 학술지에 발표된 이 연구 논문의 제목은 “실직은 언제나 건강에 나쁜가?”이다.&lt;br&gt;&lt;br&gt;연구 결과, 제목처럼 남성은 일자리를 잃은 뒤 일부 건강검진 생체지표와 건강행태가 오히려 개선되는 것으로 나타났다. 직장을 잃으면 경제적 불안과 정신적 충격으로 건강이 나빠질 것이라는 일반적인 예상과 다른 결과다. 직장에서 벗어나면서 건강을 돌볼 시간과 생활습관을 바꿀 여지가 생겼을 가능성이 크다. 물론 실직으로 자살 사망이 늘고, 암 관련 입원이 증가하는 지표도 나온다. 그럼에도 직장을 잃고 나서야 일부 건강지표가 좋아지는 건 슬픈 현실이 아닐 수 없다.&lt;br&gt;&lt;br&gt;일이 사람을 먹여 살려야 하는데, 오히려 몸을 소모시키는 구조는 아닌지 돌아봐야 한다. 직장에 다닐 때는 혈압과 체중을 관리할 여유가 없고, 직장을 떠나서야 운동하고 잠을 잘 수 있다면, 그것은 개인의 생활습관 문제를 넘어 노동 구조와 근로 환경의 문제다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMJGA6ENTFFE7KDBSOMBQ27TUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고양시 덕양구에서 사단법인 '시니어아미' 산하 드론포스 단원들이 드론 비행 훈련을 하고 있다. 시니어아미는 체력이 짱짱한 노인들이 저출산·고령화로 인한 병력 자원 부족을 우려해 자발적으로 모인 단체다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리의 건강정책은 생애주기에서 기묘한 공백을 보인다. 어린이와 노인에게는 다양한 의료 복지가 지원되지만, 경제활동의 중심인 40~50대에게는 건강검진을 받으라고 할 뿐, 검진 결과를 개선할 시간과 환경을 충분히 보장하지 않는다.&lt;br&gt;&lt;br&gt;게다가 이 시기의 건강 악화를 너무 쉽게 개인의 책임으로 돌린다. 운동을 안 해서 그렇다, 많이 먹어서 그렇다, 자기 관리를 못 해서 그렇다고 한다. 매일 장시간 일하고, 퇴근 후에도 업무 연락을 받고, 가족 돌봄까지 책임지는 사람에게 운동하지 않는다고 나무라는 것이 과연 타당한가? &lt;br&gt;&lt;br&gt;이제 발상을 혁신적으로 바꾸자. 40~50대의 건강을 사회가 보장해야 할 건강권의 문제로 끌어올려 보자. 그들에게 ‘건강 재충전 휴가’를 주자. 일정 기간마다 유급으로 건강관리 휴가를 제공해 체력검사, 운동처방, 영양상담, 수면관리, 만성질환 관리에 사용하도록 하는 것이다. 건강검진을 받는 하루가 아니라, 검진에서 발견한 위험을 실제로 줄이는 시간을 주자는 얘기다. &lt;br&gt;&lt;br&gt;근로 환경에 운동할 시간도 제도적으로 넣어야 한다. 하루 30분을 근무시간 중 신체활동에 사용할 수 있게 하는 ‘건강 근로 시간제’를 생각해 보자. 업무 특성에 따라 걷기, 근력 운동, 스트레칭 등을 선택해서 쓰라. 이를 점심시간이나 퇴근 후 개인 시간에서 빼앗아서는 안 된다고 본다. 운동을 장려한다면서 정작 운동할 시간은 주지 않는 모순을 끝내자는 것이다. 중년 건강 바우처도 도입하여 체력측정, 운동지도, 지역 체육시설, 영양상담 등에 쓰도록 하는 것도 좋겠다.&lt;br&gt;&lt;br&gt;일본은 ‘건강 경영’이라는 개념을 일찌감치 산업정책에 도입했다. 직원 건강에 투자하는 기업을 평가하고 우수 기업을 인증한다. 핀란드는 고용주에게 질병 예방적 직업 건강 서비스를 제공할 의무를 부과한다. 우리도 기업이 얼마나 운동 시간을 보장하고, 장시간 노동을 줄이고, 질병 예방 서비스를 제공하는지를 평가해 보자.&lt;br&gt;&lt;br&gt;여러 제안이 지나치게 파격적으로 들릴 수 있다. 하지만 지금처럼 40~50대 건강 악화를 방치한 비용은 누가 부담하는가. 이들이 60대에 접어들면서 당뇨병 합병증과 심뇌혈관질환으로 치료받고, 노동 능력을 잃고, 조기에 퇴직하면 결국 사회 전체가 그 비용을 치르게 된다.&lt;br&gt;&lt;br&gt;노년 건강은 65세부터 갑자기 만들어지는 것이 아니다. 40~50대에 어떤 몸으로 살아왔는지가 그 이후의 건강을 좌우한다. 일자리를 잃어야 건강해지는 사회가 아니라, 일하면서 건강해지는 사회를 만들어야 하지 않겠는가. 대한민국의 허리를 살리는 일은 “건강하게 일할 시간을 드리겠습니다”에서 시작된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IMPKSKTN4JFLVJBZT6XJKI4Y5A.jpg?auth=8ae1ca8cad91e8b4a01e0d57c88a5fdefa44f555a8a4746e5013149e8ee00905&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600">
-        <media:description type="plain">/그래픽=박상훈·ChatGPT</media:description>
       </media:content>
     </item>
     <item>
@@ -855,73 +955,6 @@
       </media:content>
     </item>
     <item>
-      <title>野 “공소취소 않겠다고 못하나” 이용철 “예”</title>
-      <link>https://www.chosun.com/national/court_law/2026/11/25/HTMX3UHFBVAZNKIAFQ66RUYZOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/11/25/HTMX3UHFBVAZNKIAFQ66RUYZOE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5MP2OBMSRIRBPMZ7K4JXR4Z7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이용철 법무부 장관 후보자가 24일 여의도 국회에서 열린 법제사법위원회의 법무부장관 인사청문회에서 선서문을 제출 뒤 서영교 국회 법사위원장과 악수하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이용철 법무부 장관 후보자는 24일 열린 국회 법제사법위원회 인사청문회에서 이재명 대통령 사건 공소취소 문제와 관련해 “국민이 납득하기 어려운 무리한 지휘권을 행사할 생각은 없다”고 밝혔다. 이 후보자는 그러면서도 “공소취소를 지휘하지 않겠다고는 말할 수 없냐”는 물음에는 짧게 “예”라고 답했다. 그는 “청와대로부터 공소취소 요청을 받았냐”는 물음에 “그런 적 없다”고 했다. 법조계에선 이 후보자가 ‘조작기소 특검’ 수사 결과에 따라 공소취소에 나설 가능성을 열어 뒀다는 해석이 나왔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“공소취소, 진상 규명 후 판단”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 후보자는 이날 국민의힘 주진우 의원이 “장관으로서 (공소취소를) 지휘할 것이냐”고 묻자 “가정적 질문에 답하는 것은 적절치 않다고 생각한다”고 답했다. 주 의원이 “‘특정 개인(대통령)을 위해 공소취소를 하지 않겠다’는 말 한마디 하기가 그렇게 어렵냐”고 재차 묻자, 이 후보자는 “국민이 납득하기 어려운 무리한 지휘권 행사는 하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘은 특검이 대장동·쌍방울 대북 송금 사건 등 이 대통령이 기소된 사건 수사 과정에 위법이 있었다고 결론 내면, 장관이 검찰총장을 지휘해 법원에 공소취소서를 내게 할 수 있다고 보고 있다.&lt;br&gt;&lt;br&gt;전임자인 정성호 전 법무부 장관은 지난 4월 국회에서 “법무부나 저는 공소취소와 관련해 어떤 검토도 한 바 없다”고 했었다. 그러나 이 후보자는 이날 “공소취소는 (특검의) 진상 규명 결과가 나온 다음에 판단해야 할 일”이라고 했다. 이에 국민의힘 박형수 의원이 “‘공소취소를 지휘하지 않겠다’고 후보자로서 얘기하지 못하냐”고 추궁하자 이 후보자는 “예, 그렇다”고 답했다. 그는 “청와대가 공소취소를 요청한 적이 있느냐”는 국민의힘 김태규 의원 질의에도 “그런 적 없다”고 답했다. 한 검사장 출신 변호사는 “‘무리한 지휘’라고 단서를 단 것은 특검 수사 결과에 따라 공소취소를 지휘할 수도 있다는 여지를 남긴 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대장동 관여·‘성남 라인’ 부인&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 후보자는 경기 성남시 산하 성남산업진흥재단 대표 시절 대장동 개발에 관여했다는 의혹과 관련해 “전혀 그렇지 않다”고 말했다. 국민의힘 윤상현 의원은 이 후보자가 대표이던 2011년 9월 재단이 위례·대장동 일대 유망 업종을 육성하겠다는 보고서를 내고, 이재명 당시 성남시장이 결재한 사실을 거론하며 “대장동·백현동·위례신도시 밑그림을 후보자가 그렸다”고 했다. 그러자 이 후보자는 “그 계획은 산업지구 육성에 관한 계획”이라고 해명했다.&lt;br&gt;&lt;br&gt;이 후보자는 같은 법무법인에서 일했던 이 대통령과의 친분은 인정하면서도 “‘성남 라인’은 아니다”라고 했다. 민주당 김기표 의원이 “(야당이) 대통령과의 인연으로 장관이 됐다고 공격하는 것 같다”고 하자, 이 후보자는 “대통령과 오랫동안 친분을 유지해 온 것은 맞지만 측근은 아니다”라고 했다. 김현지 청와대 제1부속실장과 친분이 있는지와 관련해서도 이 후보자는 “재단 대표로 있을 때 오다가다 만난 일은 있을지 모르지만, 교분이 있던 관계는 아니다”라고 했다.&lt;br&gt;&lt;br&gt;이 후보자는 또 민주당 김용민 의원이 “국민들은 내란을 완전하게 청산해서 다시는 내란이 발생하지 않아야 한다고 기대하고 있다”고 하자 “(계엄) 2년이 지났지만 일정 부분은 저강도 내란 상태의 측면도 있다고 생각한다”고 답했다.&lt;br&gt;&lt;br&gt;유동규 전 성남도시개발공사 기획본부장이 제기한 ‘백숙집 포커 의혹’과 관련해 이 후보자는 “기억에 없다. 일방적인 이야기”라고 했다. 윤상현 의원이 “(유동규씨가) 닭백숙을 먹었다고 한다”고 하자 “(나는) 육식을 하지 못한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇아내 주식·휴업 신고 누락은 사과&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 후보자 배우자 보유 주식과 과거 변호사 휴업 신고를 누락한 사실 등도 논란이 됐다. 이 후보자는 노무현 정부 때 청와대 법무비서관과 방위사업청 차장 등 공직을 맡으면서도 휴업 신고를 하지 않아 서류상 변호사 개업 상태였다. 이 후보자는 또 방위사업청장으로 재직한 지난 6일 기준으로 배우자가 보유한 SK하이닉스 주식 28주(평가액 3169만6000원)를 제대로 처리하지 않았다. 공직자윤리법상 재산 공개 대상자와 배우자 등이 보유한 주식의 합계액이 3000만원을 넘으면 주식을 매각하거나 백지신탁하거나 직무 관련성 심사를 청구하도록 돼 있다. 이와 관련해 이 후보자는 “이유를 막론하고 제 과실이어서 대단히 송구스럽다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/Q5MP2OBMSRIRBPMZ7K4JXR4Z7E.jpg?auth=f7e0391cb97d904c6aced94001cd6cfa1f13acc0a678326daa853687f2b71a63&amp;smart=true&amp;width=4406&amp;height=2596" type="image/jpeg" height="2596" width="4406">
-        <media:description type="plain">이용철 법무부 장관 후보자가 24일 여의도 국회에서 열린 법제사법위원회의 법무부장관 인사청문회에서 선서문을 제출 뒤 서영교 국회 법사위원장과 악수하고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">myjs</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“내가 담근 김장 김치… 맛있어서 자꾸 손이 가네”</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/25/WPCSHDRQYJF6VOTME4Z3FPYJ2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/25/WPCSHDRQYJF6VOTME4Z3FPYJ2E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UR4DRDFCNRDO3F2FSFG7Z2MBQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 전남광주 운암1동 행정복지센터에서 열린 ‘사랑의 김장 김치 나눔’ 행사에 참가한 서강중학교 학생들이 이웃 250가구에 전달할 김치를 담그고 있다. 한국물가정보에 따르면, 올해는 예년보다 배추·무 등 주요 채소류 작황이 좋아 김장 비용이 2020년대 들어 가장 낮을 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국체전 3연속 우승 서대문구 女농구단… 새로 취임한 구청장이 ‘올해말 해체’ 결정</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/25/SQSFXIIZ5JE2ZFTEGV3WYDZSSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/25/SQSFXIIZ5JE2ZFTEGV3WYDZSSM/</guid>
-      <dc:creator>이미지 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>프로 무대에 서지 못한 선수들의 도전 스토리로 관심을 모은 서울 ‘서대문구청 여자농구단’이 올해 말 해체된다. 한국 여자농구의 전설 박찬숙 감독이 이끈 이 팀은 2023년 창단 이후 전국체전에서 3년 연속 우승했다. 그러나 지난 7월 구청장이 바뀐 뒤 창단 4년도 안 돼 문을 닫게 됐다.&lt;br&gt;&lt;br&gt;서대문구는 24일 “재정 여건과 주민들의 생활체육 수요 등을 고려해 여자농구단 운영을 올해 말 종료한다”고 밝혔다. 구는 “농구단 운영 등에 쓰던 예산을 생활체육 프로그램 확대와 문화·체육시설 개선에 투자하겠다”고 했다.&lt;br&gt;&lt;br&gt;서대문구청 여자농구단은 2023년 3월 창단했다. 박 감독이 당시 이성헌 구청장을 찾아가 뛸 곳 없는 선수들을 위해 실업팀을 만들어 달라고 부탁한 것이 계기가 됐다. 박 감독은 프로에서 방출되거나 지명받지 못한 선수, 일찍 은퇴한 선수 등을 모아 팀을 꾸렸다. 택배 아르바이트를 하며 개인 훈련을 하던 선수도 있었다. 박 감독은 당시 “농구가 간절하지만 뛸 곳이 없어 꿈을 펴지 못했던 선수들을 뽑아 프로팀에서 탐낼 만큼 잘 키워내겠다”고 했다. 선수들은 매주 산악 달리기를 하는 등 고강도 훈련을 견뎌냈다. 2024년 4월 창단 1년 만에 전국 실업농구 연맹전에서 우승했다. 그해 10월 전국체전에서도 우승했다. 서대문구는 선수들을 격려하기 위해 카퍼레이드를 열었다. 박 감독은 당시 “(선수 시절) 그렇게 많이 우승했는데 이번처럼 기쁜 적이 없다”며 “꿈을 놓지 않고 달려준 선수들 덕분”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 농구단 운영은 순탄치 않았다. 더불어민주당이 과반을 차지한 서대문구의회는 작년과 올해 농구단 운영 예산을 전액 삭감했다. 민생과 관계없는 사업이라는 이유였다. 서대문구가 편성한 작년 농구단 예산은 8억4800만원이었다. 이후 농구단은 서울시 보조금과 기업 후원 등으로 명맥을 이어갔다. 이런 상황에서 지난 7월 취임한 박운기 구청장이 해체 결정을 내린 것이다.&lt;br&gt;&lt;br&gt;서대문구는 최근 주민 519명을 대상으로 실시한 ‘문화·체육 정책 우선순위’ 여론조사에서 생활체육 프로그램 확대(49.1%)를 꼽은 응답자가 가장 많았다는 점을 해체 근거로 들었다. 박 구청장은 “한정된 재원을 더 많은 주민이 직접 참여하고 누릴 수 있는 문화·체육 기회로 연결하겠다”고 했다. 서대문구는 “계약 기간이 남은 선수와 지도자에게는 계약 종료 시까지 훈련 지원 등 필요한 편의를 제공하겠다”고 했다.&lt;br&gt;&lt;br&gt;박 감독은 이날 “나도 선수들도 고아가 된 것 같다”며 “서대문구를 위해 열심히 뛰고 좋은 성과를 낸 선수들인데 이런 결과를 받아 너무 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추울수록 더 붉게 빛나는… 제주에 핀 동백꽃</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/25/T2BQRT4375DX3KP24FVHUJYDT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/25/T2BQRT4375DX3KP24FVHUJYDT4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOHXFU53ZVHOVPF6YMWRB6WRTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/임지훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 제주 서귀포시 휴애리자연생활공원에 붉은 동백꽃이 꽃망울을 터트렸다. 관광객이 동백꽃을 배경으로 기념사진을 찍고 있다. 이 공원에선 지난 15일부터 동백 축제가 열리고 있다. 공원 관계자는 “올해는 개화가 조금 늦어 다음 달 10일쯤 절정을 이룰 것으로 보인다”고 했다. 축제는 내년 1월 31일까지 이어진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김병기 수사’ 1년 넘게 끌더니… 13건 의혹 중 7건만 송치</title>
-      <link>https://www.chosun.com/national/incident/2026/11/25/JPTRSPQQUVCWVIY5ZDB7VQMJOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/11/25/JPTRSPQQUVCWVIY5ZDB7VQMJOM/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:42:00 +0000</pubDate>
-      <content:encoded>서울경찰청 공공범죄수사대가 24일 무소속 김병기(서울 동작갑) 의원을 특정범죄가중처벌법상 뇌물수수 혐의 등으로 공소청에 불구속 기소 의견으로 송치했다. 지난해 9월 서울 동작경찰서가 김 의원 관련 의혹 수사를 시작한 지 1년 2개월 만이다. 경찰은 김 의원을 상대로 차남 대학·취업 청탁, 공천 헌금 수수, 배우자 법인카드 유용 등 13가지 혐의를 수사해왔다. 그런데 경찰은 이중 7건만 혐의가 인정된다며 송치했고, 나머지 6건은 불송치(혐의 없음) 처리했다. 경찰이 현 여권 핵심 실세로 꼽혔던 김 의원 수사를 1년 이상 끌 때부터 예견된 결과였다는 지적이 법조계에서 나온다.&lt;br&gt;&lt;br&gt;경찰은 김 의원 차남 특혜 편입 의혹과 관련해 뇌물수수 혐의를 적용했다. 김 의원이 숭실대 계약학과에 편입하려는 차남이 ‘중소기업 10개월 취업’ 요건을 충족시키기 위해 지역구에 있는 중소기업 A사에 차남을 위장 취업시켜 결과적으로 뇌물을 수수했다는 혐의다. 경찰은 김 의원 차남이 2022~2025년 3년간 A사에 재직하며 받은 급여와 숭실대 등록금 등을 합치면 3000만원이 넘어 특가법상 뇌물 혐의를 적용했다. 경찰은 김 의원 차남이 가상 자산 거래소 빗썸에 취업하는 데 개입했다는 의혹과 관련해서도 뇌물수수 혐의가 있다고 봤다. 김 의원이 빗썸 측에 차남 취업을 청탁했고 빗썸이 ‘맞춤형 공고’를 내 김씨를 채용했다는 혐의다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6ZVEU7G6BCENA6EL5FBTGC7BE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조란영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 의원 아내 이모씨가 서울 동작구의회 업무 추진용 법인카드를 사적으로 사용했다는 의혹과 관련해서는 업무상 배임과 정치자금법 위반 혐의를 적용해 공소청에 송치했다. 경찰은 이씨뿐 아니라 김 의원도 동작구의회 법인카드를 사용한 사실을 확인하고 김 의원 부부를 모두 송치했다.&lt;br&gt;&lt;br&gt;경찰은 2022년 지방선거 당시 강선우 의원이 김경 당시 서울시의원에게 1억원을 받은 사실을 김 의원이 알고도 묵인한 것과 관련해서는 업무방해 혐의를 적용했다. 김 의원이 2022년 KMH 신라레저에 유리한 의정 활동을 해준 대가로 후원금을 수수했다는 혐의, 2024년 대한항공에서 160만원 상당 숙박권을 받았다는 혐의와 관련해서는 뇌물수수, 청탁금지법 위반 혐의가 적용됐다. 김 의원은 지난해 9월 박대준 당시 한국 쿠팡 대표와 식사하며 쿠팡으로 이직한 자신의 전직 보좌관들에게 인사상 불이익을 주도록 요구한 혐의로도 수사를 받았다. 경찰은 이와 관련해 김 의원을 업무방해 혐의로 송치했다.&lt;br&gt;&lt;br&gt;경찰은 그러나 김 의원이 국정원에 근무하는 장남 업무를 의원실 보좌진이 돕게 했다는 의혹, 보좌진이 참여한 텔레그램 대화방 내용을 유출했다는 의혹 등과 관련해서는 불송치 결정했다. 이와 관련, 경찰은 “사실관계가 규명되지 않거나 증거가 확인되지 않는다”고 했다. 경찰은 김 의원이 배우자 이씨와 관련한 동작서 수사를 무마했다는 의혹과 관련해 수사를 받아온 관련 경찰관들도 무혐의 처분했다.&lt;br&gt;&lt;br&gt;경찰은 또 김 의원 배우자 이씨가 동작구 구의원 2명에게서 공천 헌금을 받았다는 의혹과 관련해 이씨와 구의원 2명, 현금 전달에 관여한 동작구의회 부의장 이모씨 등을 정치자금법 위반 혐의로 송치했다. 그러나 김 의원은 무혐의 처분했다. 경찰은 “공천 헌금이 오간 과정에서 김 의원이 관여했다는 증거를 찾지 못했다”고 했다. 경찰은 지난 9월 김 의원에 대해 구속영장을 신청했지만 공소청이 보완수사를 요구하며 반려했다. 경찰이 결국 김 의원을 불구속 송치하면서 정치권과 법조계에선 “1년 가까이 수사하다가 뒤늦게 증거인멸 우려가 있다며 구속영장을 청구한 것부터 수사 의지에 의구심을 낳았다”는 말이 나온다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 경찰청</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/11/25/TZTO435S3VEZXGLCFRHGSNYI6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/25/TZTO435S3VEZXGLCFRHGSNYI6M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲경찰청◇치안정감 승진▷경찰청 경비국장 김병기▷경찰청 치안정보국장 송영호◇치안감 승진▷경찰청 치안상황관리관 강상길▷경찰청(행정안전부 경찰협력관) 김종민▷경찰수사연수원장 박우현▷경기도남부경찰청 광역수사단장 함영욱&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국회계정보학회 2026년 추계학술대회 개최 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/11/25/XGMXBDMXK5BRJLAF44L4BIUJJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/25/XGMXBDMXK5BRJLAF44L4BIUJJQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲한국회계정보학회(회장 김태석)는 오는 28일 고려대 현대자동차 경영관에서 ‘AI 대전환과 한국경제’를 주제로 2026년 추계학술대회를 개최한다. &lt;br&gt;&lt;br&gt;▲안민정책포럼(이사장 유일호)은 26일 서울 역삼동 아이타워에서 이석연 전 국민통합위원장을 초청해 ‘헌법과 국정 현안’을 주제로 세미나를 개최한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>故이건희 유족 기부금 5000억 투입… 중앙감염병병원 내년 착공</title>
       <link>https://www.chosun.com/national/welfare-medical/2026/11/25/OFRKINUYKFCXVET7TRAW7ENDQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/11/25/OFRKINUYKFCXVET7TRAW7ENDQ4/</guid>
@@ -929,42 +962,6 @@
       <description/>
       <pubDate>Tue, 24 Nov 2026 15:40:00 +0000</pubDate>
       <content:encoded>고(故) 이건희 삼성 선대회장 유족의 기부금으로 건립하는 중앙감염병병원이 내년 착공에 들어간다.&lt;br&gt;&lt;br&gt;국립중앙의료원은 국내외 감염병 전문가 300여 명을 초청해 23~24일 진행한 ‘제2회 신종 감염병 의료 대응 국제 심포지엄’에서 이 같은 계획 등을 밝혔다. 앞서 이재용 삼성전자 회장 등 유족은 2021년 소아암·희소질환 환자 지원에 3000억원, 국가 감염병 대응 체계 구축에 7000억원 등 총 1조원을 기부했다. 이 중 5000억원이 음압 병상 150개 규모의 중앙감염병병원 건립에 쓰이는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여성단체協, 26일 ‘전국여성대회’</title>
-      <link>https://www.chosun.com/national/people/2026/11/25/73SMKUENBVEN3PZEQKWL7IKKHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/11/25/73SMKUENBVEN3PZEQKWL7IKKHM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEIKT3F7KZGXBNXWDCH5V2YUQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국여성단체협의회(회장 허명)는 오는 26일 오후 1시 서울 코엑스 3층 오디토리움에서 ‘정의로운 대한민국, 여성과 함께!’라는 주제로 제61회 전국여성대회를 개최한다고 24일 밝혔다. 53개 회원 단체와 16개 시·도 여성단체협의회, 전국 500만회원으로 구성된 여협은 “이번 대회를 통해 우리 사회가 당면한 여성 과제를 공론화하고, 양성평등 실현을 위해 새로운 여성운동의 방향과 정의로운 자유민주주의 대한민국을 위한 미래 비전을 제시한다”고 밝혔다. 고(故) 김활란 박사의 뜻을 기리기 위해 제정된 김활란여성지도자상과 용신봉사상, 올해의 여성상 등 총 9개 부문에 걸쳐 시상식이 진행된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 신순덕 6·25 참전 유공자 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2026/11/25/7K4L46V6BRAGHLEKMPV2CHYR7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/11/25/7K4L46V6BRAGHLEKMPV2CHYR7I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;신순덕&lt;/b&gt; 6·25 참전 유공자 별세, &lt;b&gt;심일선&lt;/b&gt; 前 산재의료관리원 이사장·&lt;b&gt;심미선&lt;/b&gt;·&lt;b&gt;심대선&lt;/b&gt; 모친상, &lt;b&gt;황기준&lt;/b&gt; 장모상, &lt;b&gt;이지예&lt;/b&gt; 성북한마음봉사회장 시모상=23일0시50분 경희의료원, 발인 25일7시30분, (02)958-9549&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신재흥&lt;/b&gt; 별세, &lt;b&gt;신진현&lt;/b&gt;·&lt;b&gt;신국현&lt;/b&gt;·&lt;b&gt;신대현&lt;/b&gt;·&lt;b&gt;신보현&lt;/b&gt; 부친상=23일6시34분 울산전문장례식장, 발인 25일7시, (052)242-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최삼표&lt;/b&gt; 별세, &lt;b&gt;문사임&lt;/b&gt; 남편상, &lt;b&gt;최병집&lt;/b&gt; 前 한국가스공사 전북본부장·&lt;b&gt;최경희&lt;/b&gt;·&lt;b&gt;최용숙&lt;/b&gt; 부친상, &lt;b&gt;임승우&lt;/b&gt; 前 삼성전자 부장·&lt;b&gt;임장원&lt;/b&gt; 세명대 저널리즘대학원 교수 장인상, &lt;b&gt;김성호&lt;/b&gt; 시부상=23일2시 여의도성모병원, 발인 25일7시, (02)3779-2190&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최욱락&lt;/b&gt; 前 제이슨앤컴퍼니 회장 별세, &lt;b&gt;송진순&lt;/b&gt; 남편상, &lt;b&gt;최현수&lt;/b&gt; 아시아나IDT 상무·&lt;b&gt;최영승&lt;/b&gt;·&lt;b&gt;최병훈&lt;/b&gt; 변호사 부친상, &lt;b&gt;변성원&lt;/b&gt; 공인회계사 장인상, &lt;b&gt;최봄&lt;/b&gt; 공인회계사 시부상=23일10시 서울성모병원, 발인 25일10시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2026년 11월 25일</title>
-      <link>https://www.chosun.com/national/national_general/2026/11/25/2UBGY2L4KZDGTPQDCWBTOAM6JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/11/25/2UBGY2L4KZDGTPQDCWBTOAM6JE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4ISAVNNMBDKVNHMOD236WBPSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민주노총 위원장 ‘금권 선거’ 논란... 쿠폰주며 특정 후보 투표 유도</title>
-      <link>https://www.chosun.com/national/labor/2026/11/24/B2JM5NUE3ZBSBPPPSDGISIIV4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2026/11/24/B2JM5NUE3ZBSBPPPSDGISIIV4U/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Nov 2026 12:20:25 +0000</pubDate>
-      <content:encoded>민주노총 차기 위원장 선거에서 일부 노조 지부가 특정 후보를 지지하는 내용과 함께 투표 참여자에게 커피 쿠폰을 주겠다는 안내문을 뿌려 ‘금권 선거’ 논란이 일고 있다. 민주노총 중앙선거관리위원회는 “중대한 선거 규정 위반”이라며 제재 방침을 밝혔다.&lt;br&gt;&lt;br&gt;24일 노동계에 따르면, 민주노총 전국사무금융서비스노동조합 한화생명보험지부는 차기 위원장 등 민주노총 집행부와 지역본부 임원 선거 투표를 독려하는 웹자보에 “투표하면 커피 쿠폰을 드립니다!” “모든 투표 참여자에게 커피 쿠폰 지급 예정!”이라는 문구를 넣었다. 바로 아래에는 기호 2번 양경수 민주노총 위원장 후보와 동반 출마한 임원 후보들의 사진을 크게 배치했다. 서울지역본부 후보 소개란에도 기호 2번 한정아 본부장 후보 등이 담겼다. 홍보물 상단에는 민주노총 로고가, 하단에는 “한화생명보험지부가 응원합니다”라는 문구가 적혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFL7TQGB45AZ3J7RWBGR6N772Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사무금융노조 한화생명보험지부가 배포한 웹자보. '투표하면 커피 쿠폰을 드린다'는 문구와 함께 기호 2번 양경수 후보조 등에 대한 홍보 내용이 담겨 있다./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국사무금융서비스노조 산하 iM라이프생명보험지부도 지부 명의 웹자보에 “투표 완료 조합원께 커피 쿠폰 지급 예정”이라고 안내했다. 이 홍보물 하단에는 “두 번 다 2번, 민주노총 양경수, 서울본부 한정아”라고 썼다. 두 지부 모두 투표 참여를 쿠폰 지급 조건으로 내걸면서 특정 후보를 홍보한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FA74E456O5GQXE5FNVNVJP7Q7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사무금융노 IM라이프생명보험지부가 배포한 웹자보. 투표를 하면 커피 쿠폰을 주고, 기호 2번에 투표하라는 내용이 담겨 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총 중앙선관위는 이날 “두 지부의 웹자보 배포는 (민주노총) 선거관리규정 제50조 제4호에서 금지하고 있는 ‘선거와 관련한 금품, 향응, 음식물 또는 재산상의 이익 등을 약속하는 행위’에 해당한다”는 내용이 담긴 긴급 입장문을 냈다. 그러면서 “중대하고 심각한 규정 위반 선거운동”이라며 해당 조직에 규정상 절차에 따라 최고 수준의 제재를 신속히 진행하겠다고 했다.&lt;br&gt;&lt;br&gt;민주노총은 선거에서 조직 명의나 직함을 이용해 특정 후보조를 일괄 지지하거나 투표를 결정·안내·지시하는 행위를 금지하고 있다. 민노총은 “이런 행위가 발생하면 선거관리규정 제94조에 따라 특정 후보자와 위반 행위자를 동시에 제재하겠다”고 했다. 다만 이날 입장문에 구체적인 제재 처분이나 특정 후보에 대한 제재 확정 내용은 담기지 않았다.&lt;br&gt;&lt;br&gt;이 내용이 논란이 되자 사무금융노조는 이날 입장문을 내고 “일부 지부의 투표 독려 방식과 관련해 논란이 발생하고, 이로 인해 조합원 동지들께 심려를 끼쳐드린 점에 대해 사과한다”고 했다.&lt;br&gt;&lt;br&gt;민주노총은 지난 19일부터 오는 25일까지 위원장과 지역본부 임원 동시선거를 진행하고 있다. 위원장 선거에는 3선에 도전하는 양경수 현 위원장과 엄길용 공공운수노조 위원장, 김민영 전교조 충북지부장, 최준식 전 공공운수노조 위원장 등 4명이 출마한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이건희가 남긴 5000억으로... ‘중앙감염병병원’ 내년 첫 삽</title>
